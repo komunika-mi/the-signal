@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smsm-tegaskan-dividen-tak-dibiayai-utang-ekspor-melemah",
+  "category": "Aksi Korporasi",
+  "title": "SMSM Tegaskan [Dividen] Tak Dibiayai Utang, Ekspor Melemah",
+  "deck": "Manajemen SMSM memastikan kenaikan dividen tidak dibiayai utang jangka pendek, kas masih di atas Rp1 triliun, meski penjualan ke Australia dan Eropa melemah pada semester I 2026.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMSM",
+   "paparan publik",
+   "dividen",
+   "ekspor otomotif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/225a7123c1_2fcaa66218.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "itmg-air-mahakam-surut-kapasitas-tongkang-turun-30-40",
+  "category": "Aksi Korporasi",
+  "title": "ITMG: Air Mahakam surut, kapasitas tongkang turun [30-40%]",
+  "deck": "Public expose ITMG mengungkap kapasitas tongkang dari Melak turun akibat surutnya Sungai Mahakam, capex baru terealisasi 42%, dan cadangan Jorong menipis ke sekitar 2 juta ton.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ITMG",
+   "batu bara",
+   "public expose",
+   "Sungai Mahakam"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a529ee773d_57516f2762.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "casa-jelaskan-lonjakan-volume-transaksi-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "CASA Jelaskan Lonjakan [Volume] Transaksi ke Bursa",
+  "deck": "Volume transaksi saham CASA melonjak lebih dari 50 kali lipat pada 10 September, tapi harga saham cuma turun tipis 0,28 persen ke Rp1.800.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "UMA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4b71fd5b42_0bc6857ecd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "niro-jawab-permintaan-bei-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "NIRO Jawab Permintaan BEI soal [Volatilitas] Sahamnya",
+  "deck": "City Retail Developments menegaskan tidak mengetahui informasi material yang memicu volatilitas transaksi sahamnya, menjawab permintaan penjelasan Bursa Efek Indonesia.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NIRO",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/33e2f0b916_8b8642e1a0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ihsg-dibuka-melemah-ke-6-533-analis-prediksi-rebound",
   "category": "Pasar Modal",
   "title": "IHSG Dibuka [Melemah] ke 6.533, Analis Prediksi Rebound",
@@ -20,6 +84,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466956-ihsg-dibuka-melemah-pada-perdagangan-14-september-2026-serupa-bursa-asia-pasifik-wall-street-menguat-terimbas-harga-minyak"
+ },
+ {
+  "slug": "ccsi-bantah-info-material-konfirmasi-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "CCSI Bantah Info Material, Konfirmasi [Rights Issue]",
+  "deck": "CCSI menjawab surat Bursa soal volatilitas sahamnya, menegaskan tak ada info material baru, sementara rencana rights issue hasil persetujuan RUPS masih dalam tahap persiapan.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CCSI",
+   "rights issue",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6e3f6f9c6b_8ff3444f4f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "atla-komisaris-jual-15-juta-saham-via-repo",
@@ -6418,87 +6498,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465408-ihsg-dibuka-menghijau-pada-perdagangan-7-september-2026-berpotensi-datar-saat-bursa-asia-menguat-dan-wall-street-lesu"
- },
- {
-  "slug": "refi-tunda-lapkeu-kuartal-ii-audit-demi-obligasi-ii",
-  "category": "Aksi Korporasi",
-  "title": "REFI Tunda Lapkeu Kuartal II, Audit demi [Obligasi] II",
-  "deck": "PT Usaha Pembiayaan Reliance Indonesia menunda penyampaian laporan keuangan interim Juni 2026 karena sedang diaudit untuk persiapan penerbitan Obligasi II REFI.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "REFI",
-   "obligasi",
-   "laporan keuangan",
-   "multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/16fe256439_90ee4c5c6e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-hari-ini-turun-tipis-jadi-rp2-637-000-gram",
-  "category": "Makroekonomi",
-  "title": "Harga Emas Antam Hari Ini [Turun] Tipis Jadi Rp2.637.000/Gram",
-  "deck": "Harga emas batangan Antam turun Rp3.000 pada 7 September 2026, kini di Rp2.637.000 per gram, sementara harga buyback juga ikut melemah.",
-  "date": "7 September 2026",
-  "image": "assets/img/harga-emas-antam-hari-ini-turun-tipis-jadi-rp2-637-000-gram.jpg",
-  "imageV": "mtqus5bz",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "investasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465405-harga-emas-antam-hari-ini-7-september-2026-turun-tipis-rp3000-kini-di-angka-rp2637000-per-gram"
- },
- {
-  "slug": "nsss-kepemilikan-direksi-naik-ke-26-61-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Kepemilikan Direksi Naik ke 26,61% via [Repo]",
-  "deck": "Direksi Samuel Sekuritas Indonesia melaporkan kenaikan kepemilikan saham NSSS dari 24,86% menjadi 26,61% lewat tiga transaksi repurchase agreement pada 4 September 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-8982-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "film-kepemilikan-samuel-sekuritas-naik-ke-9-64-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "FILM: [Kepemilikan] Samuel Sekuritas Naik ke 9,64% via Repo",
-  "deck": "Samuel Sekuritas Indonesia, yang mewakili posisi direksi FILM, menambah 138,15 juta saham lewat transaksi repurchase agreement sehingga hak suaranya naik dari 8,37% menjadi 9,64%.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "MD Entertainment Tbk",
-   "kepemilikan saham direksi",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-0910-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-melemah-ke-rp17-650-sorotan-ke-kelas-menengah",
-  "category": "Moneter",
-  "title": "Rupiah [Melemah] ke Rp17.650, Sorotan ke Kelas Menengah",
-  "deck": "Rupiah melemah tipis ke Rp17.650 per dolar AS pada Senin pagi, sementara pengamat menyoroti pendapatan kelas menengah yang tertekan karena tak kebagian subsidi pemerintah.",
-  "date": "7 September 2026",
-  "image": "assets/img/rupiah-melemah-ke-rp17-650-sorotan-ke-kelas-menengah.jpg",
-  "imageV": "mtqus5tc",
-  "tags": [
-   "rupiah",
-   "kurs dolar",
-   "kelas menengah",
-   "pertumbuhan ekonomi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465401-rupiah-melemah-ke-rp17650-di-tengah-anjloknya-pendapatan-kelas-menengah"
  }
 ];

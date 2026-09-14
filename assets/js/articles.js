@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smsm-tegaskan-dividen-tak-dibiayai-utang-ekspor-melemah",
+  "category": "Aksi Korporasi",
+  "title": "SMSM Tegaskan [Dividen] Tak Dibiayai Utang, Ekspor Melemah",
+  "deck": "Manajemen SMSM memastikan kenaikan dividen tidak dibiayai utang jangka pendek, kas masih di atas Rp1 triliun, meski penjualan ke Australia dan Eropa melemah pada semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T11:53:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/225a7123c1_2fcaa66218.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMSM",
+  "tags": [
+   "SMSM",
+   "paparan publik",
+   "dividen",
+   "ekspor otomotif"
+  ],
+  "body": [
+   "PT Selamat Sempurna Tbk (SMSM) menyampaikan laporan hasil Paparan Publik Tahunan 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia. Acara berlangsung pada Rabu, 9 September 2026, sebagai bagian dari Public Expose LIVE 2026 yang diselenggarakan Bursa Efek Indonesia bersama KPEI dan KSEI dalam rangka memperingati 49 tahun diaktifkannya kembali pasar modal Indonesia. Sesi paparan publik diikuti 95 peserta dan dilanjutkan konferensi pers yang diikuti 34 peserta, dengan manajemen yang hadir yaitu Wakil Direktur Utama Ang Andri Pribadi, Direktur Sumarni, dan Sekretaris Perusahaan Lidiana Widjojo yang juga membawakan materi paparan.",
+   "Dalam sesi tanya jawab, seorang analis bernama Daniel mempertanyakan apakah kenaikan pembayaran dividen Perseroan dibiayai lewat utang jangka pendek, mengingat liabilitas jangka pendek naik 48%, rasio lancar turun ke 439%, dan rasio pembayaran dividen naik ke sekitar 72-76%. Manajemen menjawab bahwa dividen dibayar dari kas internal, bukan utang, dengan posisi kas dan setara kas Perseroan masih di atas Rp1 triliun. Kenaikan liabilitas jangka pendek dijelaskan berasal dari utang dividen sebesar Rp219,77 miliar per 30 Juni 2026, yaitu dividen final tahun buku 2025 yang disetujui RUPST pada 5 Juni 2026 dan sudah dibayarkan pada 2 Juli 2026.",
+   "Soal kinerja penjualan, manajemen mengungkapkan penjualan ke Korea Selatan melonjak lebih dari 6.000 persen karena adanya distributor baru yang berkinerja baik, dan menegaskan lonjakan itu tidak terkait dengan kepemilikan saham Perseroan sebesar 7,8% di POSCO IJPC yang sudah dimiliki sejak lama. Sebaliknya, penjualan ke Australia turun 29,05% dan ke Eropa turun 8,27% akibat penyesuaian stok di level distributor serta pelemahan ekonomi, termasuk dampak berkelanjutan konflik Rusia-Ukraina di Eropa. Penjualan domestik justru tumbuh 11,49%, didukung pembukaan cabang baru di Medan, Pekanbaru, Palembang, Jakarta, Tangerang, Surabaya, Makassar, dan Samarinda. Manajemen juga menjelaskan bisnis dump truck lewat anak usaha PT Hydraxle Perkasa yang diakuisisi sejak 2012 tengah pulih pada semester I 2026 setelah melemah pada 2024-2025, sementara pengembangan produk HVAC dan air purifier disebut sejalan dengan kompetensi inti filtrasi Perseroan untuk mengantisipasi transisi ke kendaraan listrik.",
+   "Menjawab pertanyaan investor Vinko Satrio Pekerti soal rencana merger atau akuisisi, manajemen menyatakan belum ada rencana dalam waktu dekat, namun Perseroan tetap terbuka mencermati peluang yang mendukung strategi pertumbuhan jangka panjang secara selektif."
+  ],
+  "fotoAdegan": "Workers assembling automotive filter and radiator parts on an assembly line inside an Indonesian auto components factory, bright industrial lighting",
+  "takeaway": "Secara keseluruhan laporan ini netral bagi SMSM, karena penjelasan manajemen soal dividen dan likuiditas cukup meyakinkan tapi pelemahan penjualan di dua pasar ekspor menahan sentimen positif dari pertumbuhan domestik. Yang tersentuh adalah arus kas dan komposisi liabilitas jangka pendek, sebab utang dividen Rp219,77 miliar per 30 Juni 2026 membuat liabilitas jangka pendek melonjak 48% dan rasio lancar, yaitu perbandingan aset lancar terhadap utang yang jatuh tempo dalam setahun sebagai ukuran kemampuan bayar utang, turun ke 439%, meski itu masih tergolong tinggi karena kas perusahaan tetap di atas Rp1 triliun. Penjualan otomotif ke luar negeri jadi sorotan karena Australia turun 29,05% dan Eropa turun 8,27% akibat pelemahan ekonomi dan penyesuaian stok distributor, sementara penjualan domestik naik 11,49% ditopang pembukaan cabang baru di delapan kota. Yang perlu dipantau berikutnya adalah apakah lonjakan penjualan ke Korea lewat distributor baru itu bertahan atau hanya transaksi satu kali, karena manajemen sendiri belum memastikan keberlanjutannya, serta bagaimana posisi utang dividen itu terselesaikan dalam laporan keuangan semester berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "itmg-air-mahakam-surut-kapasitas-tongkang-turun-30-40",
+  "category": "Aksi Korporasi",
+  "title": "ITMG: Air Mahakam surut, kapasitas tongkang turun [30-40%]",
+  "deck": "Public expose ITMG mengungkap kapasitas tongkang dari Melak turun akibat surutnya Sungai Mahakam, capex baru terealisasi 42%, dan cadangan Jorong menipis ke sekitar 2 juta ton.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T11:50:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a529ee773d_57516f2762.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ITMG",
+  "tags": [
+   "ITMG",
+   "batu bara",
+   "public expose",
+   "Sungai Mahakam"
+  ],
+  "body": [
+   "Indo Tambangraya Megah Tbk (ITMG) menggelar public expose tahunan pada Rabu, 9 September 2026, pukul 09.00-10.00 WIB, difasilitasi Bursa Efek Indonesia melalui Public Expose Live 2026. Acara dihadiri 195 peserta investor, media, dan masyarakat umum di luar manajemen dan karyawan perseroan, dengan jajaran direksi yang hadir yaitu Direktur Utama Mulianto, serta Direktur Yulius Kurniawan Gozali, Isara Pootrakul, dan Warut Waramit.",
+   "Dalam sesi tanya jawab, manajemen mengungkapkan bahwa surutnya permukaan air Sungai Mahakam membuat kapasitas pemuatan tongkang batu bara dari tambang di Melak turun 30 sampai 40 persen, yang berpotensi menaikkan biaya logistik per ton meski dampaknya disebut terbatas karena Melak hanya sebagian dari total volume penjualan. Tambang Indominco di Bontang tidak terdampak karena lokasinya dekat laut. Perusahaan menargetkan strip ratio, yaitu rasio lapisan tanah yang harus dikupas untuk setiap ton batu bara yang digali, di kisaran 10,3 hingga 10,5 kali sepanjang 2026. Belanja modal atau capex baru terealisasi US$21 juta hingga Juni 2026, setara 42 persen dari anggaran tahun ini, mayoritas dipakai untuk ekspansi guna mendukung peningkatan produksi. Harga jual rata-rata batu bara ITMG pada semester I 2026 tercatat US$81,0 per ton dengan volume penjualan 12,3 juta ton.",
+   "Soal keberlanjutan produksi, manajemen mengonfirmasi tambang Kitadin telah memasuki fase penutupan, cadangan di Jorong tinggal sekitar 2 juta ton, dan kontrak PKP2B tambang Indominco akan berakhir pada 2028, namun belum memastikan rencana akuisisi tambang pengganti. Perusahaan juga menyampaikan sudah masuk ke bisnis nikel lewat kepemilikan di PT Adhi Kartiko Pratama Tbk (NICE) dan terbuka menambah porsi kepemilikan serta menjajaki mineral strategis lain. Terkait dividen, manajemen belum memastikan akan membagikan dividen interim untuk tahun buku 2026, dan menyatakan belum berencana melakukan stock split."
+  ],
+  "fotoAdegan": "A coal barge navigating a wide brown river with visibly low water levels exposing muddy banks, tugboat pushing alongside, tropical overcast sky, Kalimantan mining region.",
+  "takeaway": "Laporan ini netral bagi ITMG karena tantangan operasional yang diungkap, seperti berkurangnya kapasitas tongkang dan menipisnya cadangan di sejumlah tambang, tidak disertai revisi target produksi, penjualan, atau strip ratio yang tetap dijaga di kisaran 10,3-10,5 kali. Yang tersentuh adalah biaya produksi per ton karena tongkang dari Melak kini mengangkut 30 sampai 40 persen lebih sedikit batu bara akibat surutnya Sungai Mahakam, sementara belanja modal yang baru terserap 42 persen dari anggaran tahun ini menunjukkan ekspansi produksi masih berjalan meski belum separuh jalan pada pertengahan tahun. Cadangan yang menipis di Kitadin dan Jorong, ditambah kontrak tambang Indominco yang berakhir 2028, berarti perusahaan perlu memastikan sumber produksi pengganti agar pendapatan jangka panjang tidak tergerus, meski manajemen belum memastikan rencana akuisisi tambang baru. Yang perlu dipantau berikutnya adalah apakah penurunan muka air Sungai Mahakam berlanjut hingga akhir tahun sehingga terus menekan biaya logistik, serta perkembangan realisasi RKAB 2026 dan langkah konkret ITMG di bisnis nikel melalui kepemilikannya di NICE.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "casa-jelaskan-lonjakan-volume-transaksi-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "CASA Jelaskan Lonjakan [Volume] Transaksi ke Bursa",
+  "deck": "Volume transaksi saham CASA melonjak lebih dari 50 kali lipat pada 10 September, tapi harga saham cuma turun tipis 0,28 persen ke Rp1.800.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T11:18:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4b71fd5b42_0bc6857ecd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASA",
+  "tags": [
+   "CASA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "UMA"
+  ],
+  "body": [
+   "PT Capital Financial Indonesia Tbk (CASA) memberikan penjelasan kepada Bursa Efek Indonesia terkait volatilitas transaksi sahamnya, menanggapi surat permintaan penjelasan BEI Nomor S-11902/BEI.PP3/09-2026 tanggal 11 September 2026. Permintaan itu muncul setelah aktivitas perdagangan saham CASA melonjak tajam pada 10 September 2026.",
+   "Dalam surat tanggapan bernomor 065/CFI-DIR/IX/2026 yang ditandatangani Direktur Aidil Fathany, perseroan memaparkan bahwa volume transaksi pada 10 September 2026 naik menjadi 561.600 saham dengan frekuensi 48 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 9.800 saham dengan frekuensi 29 kali. Meski volumenya melonjak, harga saham CASA justru ditutup turun tipis Rp5 atau 0,28 persen, dari Rp1.805 menjadi Rp1.800. Pada hari yang sama, IHSG turun 88,86 poin dan indeks sektor keuangan turun 12,53 poin.",
+   "Menjawab enam poin pertanyaan wajib dari BEI, CASA menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efeknya sesuai POJK Nomor 31/2015 dan Peraturan BEI Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas khusus dari pemegang saham tertentu sesuai POJK Nomor 4/2024, tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa, dan tidak ada informasi material lain yang belum diungkapkan ke publik. Perseroan menambahkan, berdasarkan konfirmasi ke pemegang saham utama, belum ada rencana perubahan kepemilikan saham di CASA."
+  ],
+  "fotoAdegan": "Close-up of a trader's hand clicking a computer mouse beside blurred, out-of-focus numeric charts on monitors in a dim office",
+  "takeaway": "Laporan ini netral bagi CASA, karena lonjakan volume transaksi yang tajam justru tidak diikuti pergerakan harga yang berarti, dan perseroan secara tegas membantah ada informasi material di baliknya. Yang tersentuh di sini bukan pos kinerja keuangan seperti ekuitas atau laba, melainkan likuiditas saham, yaitu seberapa banyak dan sering saham itu diperdagangkan di pasar. Volume naik lebih dari 50 kali lipat dari 9.800 menjadi 561.600 saham dengan frekuensi transaksi naik dari 29 menjadi 48 kali, tapi harga cuma turun 0,28 persen, sementara IHSG dan indeks sektor keuangan sama-sama melemah pada hari yang sama, sehingga pola ini terlihat lebih seperti ikut arus pelemahan pasar ketimbang persoalan internal perusahaan. Yang perlu dipantau berikutnya adalah apakah volume transaksi CASA kembali ke level normal pada hari-hari bursa mendatang, mengingat perseroan sendiri menegaskan tidak ada rencana aksi korporasi yang berdampak pada pencatatan sahamnya setidaknya hingga pertengahan Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "niro-jawab-permintaan-bei-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "NIRO Jawab Permintaan BEI soal [Volatilitas] Sahamnya",
+  "deck": "City Retail Developments menegaskan tidak mengetahui informasi material yang memicu volatilitas transaksi sahamnya, menjawab permintaan penjelasan Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T10:32:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/33e2f0b916_8b8642e1a0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NIRO",
+  "tags": [
+   "NIRO",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT City Retail Developments Tbk (NIRO) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi efeknya. Surat BEI bernomor S-11906/BEI.PP1/09-2026 dijawab perseroan melalui surat nomor 035/CRD-CS/IX/2026 tertanggal 14 September 2026 pukul 10.32 WIB, yang ditandatangani oleh Corporate Secretary Musa Sinambela.",
+   "Dalam surat itu, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Nomor I-E BEI. Perseroan juga menyatakan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka.",
+   "Manajemen menambahkan belum memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang berdampak pada status pencatatan saham NIRO di bursa, setidaknya untuk tiga bulan ke depan. Perseroan juga menyebut belum ada rencana dari pemegang saham utama dan pengendali terkait kepemilikan sahamnya, serta tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Wide view of a busy Jakarta stock exchange lobby with people walking past, blurred distant ticker boards, dynamic morning light",
+  "takeaway": "Penjelasan ini bersifat netral karena isinya hanya penegasan formal bahwa manajemen tidak mengetahui pemicu material di balik pergerakan harga sahamnya, tanpa ada angka atau kebijakan baru yang diungkap. Dokumen ini juga tidak menyentuh pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, karena memang bukan laporan keuangan, melainkan kepatuhan atas permintaan bursa ketika transaksi sahamnya bergerak di luar kebiasaan. Yang perlu dicermati investor adalah janji perseroan untuk tidak melakukan aksi korporasi yang berdampak pada status pencatatan sahamnya setidaknya hingga pertengahan Desember 2026, sesuai batas tiga bulan yang disebut dalam surat ini. Jika volatilitas transaksi sahamnya berlanjut meski manajemen sudah membantah adanya informasi material, bursa berpotensi mengirim permintaan penjelasan serupa atau meningkatkan pengawasan perdagangan sahamnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ihsg-dibuka-melemah-ke-6-533-analis-prediksi-rebound",
   "category": "Pasar Modal",
   "title": "IHSG Dibuka [Melemah] ke 6.533, Analis Prediksi Rebound",
@@ -28,6 +133,31 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret ada dua lapis: IHSG cuma turun tipis 0,11 persen ke 6.533 saat dibuka, jauh lebih ringan dibanding bursa Asia lain yang ambruk 0,6 sampai 1,9 persen akhir pekan lalu akibat harga minyak dunia yang melonjak dan menekan saham-saham AS. Yang paling kena dampaknya adalah investor di saham berbasis bahan baku dan komponen elektronik seperti produsen semikonduktor Jepang, yang harganya rontok lebih dari 6 persen dalam satu hari. Bukti soal arah pasar ke depan masih terbelah: kalau harga minyak terus naik, tekanan ke bursa saham dunia termasuk IHSG kemungkinan berlanjut dan prediksi rebound hari ini meleset, tapi kalau penguatan Wall Street yang jadi acuan analis benar berlanjut, IHSG dan bursa Asia lain berpeluang ikut terangkat. Penentunya akan terlihat dari penutupan IHSG sore ini dan pergerakan harga minyak dalam beberapa hari ke depan, jadi dua hal itu yang perlu dipantau sebelum menyimpulkan arah pasar minggu ini.",
   "imageV": "mu0pd7qu"
+ },
+ {
+  "slug": "ccsi-bantah-info-material-konfirmasi-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "CCSI Bantah Info Material, Konfirmasi [Rights Issue]",
+  "deck": "CCSI menjawab surat Bursa soal volatilitas sahamnya, menegaskan tak ada info material baru, sementara rencana rights issue hasil persetujuan RUPS masih dalam tahap persiapan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T10:05:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6e3f6f9c6b_8ff3444f4f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CCSI",
+  "tags": [
+   "CCSI",
+   "rights issue",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Communication Cable Systems Indonesia Tbk. (CCSI) merespons surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-11907/BEI.PP1/09-2026 terkait volatilitas transaksi sahamnya. Dalam surat balasan bernomor 074/CCSI-IDX/IX/2026 yang ditandatangani Corporate Secretary Giovano Matindas Sumakul pada 14 September 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham.",
+   "Terkait rencana aksi korporasi, CCSI menegaskan tidak ada agenda yang berdampak pada status pencatatan sahamnya di bursa dalam tiga bulan ke depan. Namun perseroan mengungkapkan bahwa rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu atau rights issue, yang sebelumnya telah disetujui pemegang saham dalam RUPS, saat ini masih berada dalam tahap persiapan. Perseroan juga menyampaikan tidak ada fakta material lain yang belum diungkapkan ke publik, serta tidak ada rencana dari pemegang saham utama maupun pengendali untuk mengubah kepemilikan sahamnya di CCSI."
+  ],
+  "fotoAdegan": "Workers inspecting large spools of communication cable inside an industrial warehouse, forklift nearby, fluorescent lighting",
+  "takeaway": "Laporan ini bersifat netral bagi CCSI karena isinya adalah jawaban standar yang membantah adanya informasi tersembunyi, tanpa ada angka atau fakta baru yang secara langsung mengubah gambaran keuangan perseroan. Yang perlu dicermati adalah konfirmasi bahwa rencana rights issue, yakni penjualan saham baru kepada pemegang saham lama, masih berjalan. Kalau nanti terealisasi, jumlah saham beredar akan bertambah sehingga laba per saham, yaitu porsi keuntungan perusahaan untuk setiap lembar saham, berpotensi terdilusi atau mengecil kalau labanya tidak naik sebanding. Surat ini belum menyebut jadwal, harga, maupun rasio rights issue tersebut, sehingga hal itulah yang perlu ditunggu pengumuman resminya dari CCSI ke depan.",
+  "sentimen": "netral"
  },
  {
   "slug": "atla-komisaris-jual-15-juta-saham-via-repo",

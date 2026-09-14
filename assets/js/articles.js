@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mncn-gandeng-rmab-sta-rmab-jadi-pengakuisisi-media",
+  "category": "Aksi Korporasi",
+  "title": "MNCN Gandeng RMAB-STA, RMAB Jadi [Pengakuisisi] Media",
+  "deck": "MNCN, Republikorp Group lewat RMAB, dan Sinergi Terang Abadi menandatangani kerja sama strategis membangun ekosistem media terintegrasi, dengan RMAB sebagai pihak pengakuisisi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T21:29:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f3bf7ed092_521a6e1a67.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MNCN",
+  "tags": [
+   "MNCN",
+   "media",
+   "kemitraan strategis",
+   "iNews"
+  ],
+  "body": [
+   "PT Media Nusantara Citra Tbk (MNCN), PT Republik Media Anak Bangsa (RMAB) dari Republikorp Group, dan PT Sinergi Terang Abadi (STA) menandatangani perjanjian kerja sama strategis pada 14 September 2026 untuk membangun ekosistem media terintegrasi di Indonesia. Dalam keterbukaan informasi ke Bursa Efek Indonesia, MNCN menyebut RMAB sebagai pihak pengakuisisi dalam transaksi ini, meski nilai transaksi, persentase kepemilikan, dan dampaknya terhadap kondisi keuangan perusahaan tidak dicantumkan dalam dokumen ini.",
+   "Kerja sama ini mencakup sejumlah unit usaha milik MNCN yang bernaung di bawah iNews Media Group (IMG), yaitu PT MNC Televisi Network atau iNews TV, dan PT MNC Multimedia Nusantara yang mengelola portofolio radio grup. Dari sisi STA, yang masuk kerja sama adalah PT Media Platform Indonesia yang menaungi Okezone.com, iNews.id, Sindonews.com, dan News+. Ekosistem iNews juga mencakup IDX Channel, saluran televisi dan portal digital yang fokus pada pemberitaan pasar modal dan ekonomi. Menurut siaran pers, seluruh platform dalam kerja sama ini memiliki sekitar 72 juta followers dan subscribers di media sosial serta menghasilkan sekitar 1,8 miliar views per bulan.",
+   "Angela Tanoesoedibjo, CEO IMG sekaligus Co-CEO MNC Group, menyebut kerja sama ini sebagai langkah memperkuat transformasi ekosistem media berita dan olahraga MNC, dengan penekanan pada jaringan daerah dan jurnalis iNews. Norman Joesoef, Founder and Chairman Republikorp Group, menyatakan komitmennya menjaga siaran tetap berjalan dan independensi redaksi. MNCN menegaskan keputusan pemberitaan tetap berada di tangan redaksi sesuai Undang-Undang Pers, Pedoman Perilaku Penyiaran dan Standar Program Siaran, serta kode etik jurnalistik, dan seluruh layanan televisi, radio, serta digital akan tetap beroperasi selama masa transisi."
+  ],
+  "fotoAdegan": "Camera crew and reporters working inside a modern television newsroom, multiple monitors blurred in the background, warm studio lighting",
+  "takeaway": "Laporan ini netral bagi MNCN untuk saat ini, sebab dokumen resmi hanya mengumumkan penandatanganan kerja sama tanpa mengungkap nilai transaksi, persentase saham yang berpindah, atau dampaknya terhadap kondisi keuangan, padahal RMAB disebut eksplisit sebagai pihak pengakuisisi. Yang tersentuh berpotensi adalah struktur ekuitas dan pendapatan MNCN, karena aset yang masuk kerja sama seperti iNews TV dan bisnis radio selama ini menjadi bagian dari pendapatan iklan dan konten perusahaan, sehingga perubahan kepemilikan di level anak usaha bisa mengubah porsi konsolidasi laporan keuangan MNCN ke depan. Investor perlu menunggu keterbukaan informasi lanjutan yang memuat nilai transaksi dan skema kepemilikan, karena transaksi dengan pihak yang berperan sebagai pengakuisisi seperti ini lazimnya baru bisa dieksekusi setelah ada persetujuan pemegang saham atau kajian independen sesuai aturan transaksi material Otoritas Jasa Keuangan. Sampai detail itu terbit, pasar baru bisa menilai dari kerangka kerja sama dan cakupan asetnya, bukan dari angka konkret.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ri-bulgaria-perkuat-kerja-sama-dagang-bidik-pasar-ue",
   "category": "Global",
   "title": "RI-Bulgaria [Perkuat] Kerja Sama Dagang, Bidik Pasar UE",
@@ -57,6 +83,85 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah dari pertemuan ini adalah target waktu yang mulai konkret, implementasi I-EU CEPA dipatok awal 2027 dan forum kerja sama ekonomi bersama dijanjikan aktif lagi pada semester pertama tahun yang sama, meski nilai dagang kedua negara saat ini masih kecil, hanya US$230,8 juta sepanjang 2025 dan menempatkan Bulgaria di peringkat ke-76 tujuan ekspor nonmigas Indonesia. Yang terdampak langsung adalah eksportir nikel, aluminium, dan baja Indonesia yang selama ini menjual ke Bulgaria, serta importir gandum dan rempah dari negara itu, kelompok yang jumlahnya masih terbatas mengingat kecilnya volume perdagangan sekarang. Arah pertemuan ini terlihat menjadikan Bulgaria bukan sebagai tujuan dagang utama, melainkan batu loncatan menuju pasar Uni Eropa yang jauh lebih besar begitu I-EU CEPA berlaku. Yang akan menunjukkan apakah niat ini berlanjut jadi langkah nyata adalah kehadiran pelaku usaha Bulgaria di Trade Expo Indonesia pada 14-18 Oktober 2026, serta apakah forum kerja sama ekonomi bersama benar terlaksana pada semester pertama 2027 seperti dijanjikan.",
   "imageV": "mu1bonrt"
+ },
+ {
+  "slug": "bjbr-pefindo-turunkan-peringkat-sejumlah-obligasi-bank-bjb",
+  "category": "Aksi Korporasi",
+  "title": "BJBR: PEFINDO [Turunkan] Peringkat Sejumlah Obligasi Bank BJB",
+  "deck": "PEFINDO menurunkan peringkat sejumlah obligasi dan surat berharga perpetual Bank BJB satu tingkat menjadi idAA- hingga idA-, outlook stabil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T21:00:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffecd2006a_24f49478e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BJBR",
+  "tags": [
+   "BJBR",
+   "PEFINDO",
+   "peringkat obligasi",
+   "bank bjb"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menurunkan peringkat kredit sejumlah instrumen utang Bank Pembangunan Daerah Jawa Barat dan Banten Tbk (BJBR) satu tingkat, berdasarkan hasil rapat komite pemeringkat pada 9 September 2026. Peringkat perusahaan secara keseluruhan kini idAA- dengan outlook stabil, seperti disampaikan Direktur Utama BJBR, Ayi Subarna, dalam surat kepada Otoritas Jasa Keuangan tertanggal 14 September 2026. Peringkat idAA- berarti kemampuan Bank BJB membayar utang jangka panjangnya dinilai sangat kuat dibanding emiten lain di Indonesia, meski satu tingkat di bawah peringkat tertinggi kategori AA.",
+   "Penurunan terjadi di hampir semua lini surat utang bank ini. Penawaran Umum Berkelanjutan (PUB) I Obligasi Keberlanjutan senilai maksimum Rp2 triliun turun dari idAA menjadi idAA-. PUB I Surat Berharga Perpetual senilai maksimum Rp3 triliun turun dari idA menjadi idA-. Obligasi Keberlanjutan Berkelanjutan I Tahap I 2024 dan Tahap II 2026 senilai Rp1,93 triliun turun dari idAA menjadi idAA-. Sejumlah obligasi subordinasi Berkelanjutan II, III, dan IV senilai total Rp3,77 triliun turun dari idA+ menjadi idA. Surat Berharga Perpetual Berkelanjutan I Tahap I 2024 senilai maksimum Rp1 triliun turun dari idA menjadi idA-. Seluruh peringkat baru ini berlaku untuk periode 9 September 2026 sampai 1 September 2027 dengan outlook stabil.",
+   "Rekapitulasi pemantauan mencakup 13 seri obligasi dan surat berharga yang beredar: Obligasi Berkelanjutan I Tahap III 2019 Seri C senilai Rp74 miliar jatuh tempo 18 Oktober 2026 (idAA-); Obligasi Subordinasi Berkelanjutan III Tahap I 2021 Seri B senilai Rp621 miliar jatuh tempo 15 Juli 2028 (idA); Obligasi Subordinasi Berkelanjutan III Tahap II 2022 Seri A senilai Rp399,91 miliar jatuh tempo 9 Juni 2027 (idA); Seri B senilai Rp600,09 miliar jatuh tempo 9 Juni 2029 (idA); Obligasi Subordinasi Berkelanjutan II Tahap I 2020 Seri B senilai Rp368 miliar jatuh tempo 3 Maret 2027 (idA); Obligasi Subordinasi Berkelanjutan IV Tahap I 2024 Seri A senilai Rp744,265 miliar jatuh tempo 5 Juli 2029 (idA); Seri B senilai Rp697,045 miliar jatuh tempo 5 Juli 2031 (idA); Obligasi Keberlanjutan Berkelanjutan I Tahap I 2024 Seri A senilai Rp200 miliar jatuh tempo 10 Desember 2027 (idAA-); Seri B senilai Rp800 miliar jatuh tempo 10 Desember 2029 (idAA-); Surat Berharga Perpetual Berkelanjutan I Tahap I 2024 senilai Rp1 triliun jatuh tempo 10 Juni 2030 (idA-); Obligasi Subordinasi Berkelanjutan II Tahap II 2020 Seri B senilai Rp337,42 miliar jatuh tempo 17 November 2027 (idA); Obligasi Keberlanjutan Berkelanjutan I Tahap II 2026 Seri A senilai Rp691,34 miliar jatuh tempo 15 April 2029 (idAA-); dan Seri B senilai Rp241,075 miliar jatuh tempo 15 April 2031 (idAA-). Seluruhnya disertai outlook stabil untuk periode 9 September 2026 hingga 1 September 2027.",
+   "Bank BJB dalam laporannya ke OJK menyatakan tidak ada dampak langsung terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha dari hasil pemeringkatan ini. Surat tersebut ditembuskan ke Bursa Efek Indonesia, PT Bank Mega Tbk, dan PT Bank Tabungan Negara Tbk."
+  ],
+  "fotoAdegan": "Wide shot of a modern glass office tower facade in downtown Bandung at dusk, illuminated windows, no readable signage",
+  "takeaway": "Laporan ini condong negatif bagi BJBR, karena PEFINDO menurunkan peringkat hampir seluruh instrumen utangnya satu tingkat sekaligus, bukan cuma satu seri saja, meski masih di kategori layak investasi yang tinggi dan outlook-nya stabil. Yang tersentuh di sini adalah beban bunga: investor umumnya minta imbal hasil lebih tinggi untuk surat utang berperingkat lebih rendah, jadi kalau Bank BJB menerbitkan obligasi baru, biaya dananya berpotensi lebih mahal dibanding sebelum penurunan ini. Peringkat juga mencerminkan penilaian pihak independen atas kemampuan bank membayar bunga dan pokok utangnya tepat waktu, sehingga penurunan satu tingkat berarti PEFINDO menilai kemampuan itu sedikit melemah dibanding periode sebelumnya. Yang perlu dipantau selanjutnya adalah apakah peringkat idAA- ini bertahan sampai masa berlakunya berakhir pada 1 September 2027, serta bagaimana pasar merespons penerbitan lanjutan Obligasi Keberlanjutan dan Surat Berharga Perpetual, yang izin pendaftarannya masih efektif sampai 29 November 2026, setelah penurunan peringkat ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "adcp-bertahan-di-idccc-pefindo-waspadai-gagal-bayar-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Bertahan di idCCC, PEFINDO [Waspadai] Gagal Bayar Sukuk",
+  "deck": "PEFINDO mempertahankan peringkat idCCC untuk ADCP dengan status CreditWatch Negatif karena risiko gagal bayar kupon Sukuk Ijarah yang jatuh tempo 26 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T20:37:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3ce7294a00_b31213c6df.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADCP",
+  "tags": [
+   "ADCP",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menegaskan peringkat idCCC untuk PT Adhi Commuter Properti Tbk (ADCP) dan Obligasi II Adhi Commuter Properti Tahun 2022 Seri B senilai Rp102 miliar yang jatuh tempo 24 Mei 2027. Peringkat korporasi ADCP tetap berstatus CreditWatch dengan implikasi negatif, yaitu status pengawasan ketat yang menandakan kemungkinan penurunan peringkat lebih lanjut dalam waktu dekat. Sementara itu, Obligasi III Adhi Commuter Properti Tahun 2023 Seri A senilai Rp15,7 miliar (jatuh tempo 8 Desember 2026) dan Seri B senilai Rp484,2 miliar (jatuh tempo 8 Desember 2028) tetap mendapat peringkat tertinggi idAAA(cg), karena keduanya dijamin penuh oleh Credit Guarantee and Investment Facility (CGIF), lembaga penjamin regional bentukan Bank Pembangunan Asia bersama negara-negara ASEAN+3. Periode berlaku peringkat ini adalah 7 September hingga 7 Desember 2026, dan hasilnya disampaikan ADCP ke OJK melalui surat nomor 437/ADCP-IX/2026 yang ditandatangani Direktur Keuangan Achmad Wachid Abdullah.",
+   "PEFINDO menyebut alasan utama status negatif ini adalah tingginya risiko ADCP gagal membayar kupon atau imbal hasil Sukuk Ijarah 2023 yang jatuh tempo 26 Oktober 2026, mengingat likuiditas perusahaan yang sangat lemah dan akses pendanaan yang terbatas. Lembaga pemeringkat itu menyatakan dapat menurunkan lagi peringkat ADCP apabila perusahaan tidak mampu melunasi kupon tersebut dalam masa tenggang pembayaran. Peringkat ADCP sudah merosot tajam dalam setahun terakhir, dari idBBB/Stabil pada September 2024, turun ke idBBB-/Negatif pada Mei dan September 2025, lalu idB/Negatif pada April 2026, sebelum jatuh ke idCCC/CreditWatch Negatif sejak Juni 2026 hingga laporan terbaru ini.",
+   "Data keuangan yang disertakan PEFINDO menunjukkan modal atau ekuitas ADCP anjlok dari Rp2,62 triliun pada akhir 2024 menjadi Rp417,3 miliar pada akhir 2025, dan tersisa Rp365,4 miliar per Juni 2026, setelah perusahaan mencatat rugi bersih Rp2,1 triliun sepanjang 2025. Rasio utang berbunga terhadap EBITDA, yaitu ukuran laba operasional sebelum bunga, pajak, depresiasi, dan amortisasi, melonjak menjadi 57,5 kali secara tahunan per Juni 2026, dari 32,7 kali pada 2024 dan 11,5 kali pada 2023. Per 30 Juni 2026, pemegang saham ADCP adalah PT Adhi Karya (Persero) Tbk sebesar 90 persen dan publik 10 persen."
+  ],
+  "fotoAdegan": "Cranes and scaffolding around an unfinished apartment tower beside a commuter train station, overcast afternoon light, Jakarta suburb.",
+  "takeaway": "Laporan ini negatif bagi ADCP karena PEFINDO mempertahankan status pengawasan ketat dengan kecenderungan turun, menilai ada probabilitas tinggi perusahaan gagal membayar kupon Sukuk Ijarah yang jatuh tempo 26 Oktober 2026, sejalan dengan gagal bayar bunga obligasi lain yang sudah diberitakan pekan lalu. Yang tersentuh adalah modal perusahaan dan beban utang, modal ADCP tergerus dari Rp2,62 triliun akhir 2024 menjadi hanya Rp365,4 miliar per Juni 2026 akibat rugi besar tahun lalu, sementara utang berbunga kini setara 57,5 kali laba operasional tahunannya, jauh di atas batas wajar yang biasanya di bawah 4 sampai 5 kali, sehingga kas dari operasional jauh tidak cukup untuk melunasi utang. Obligasi III senilai total Rp499,9 miliar tetap aman di peringkat tertinggi karena dijamin penuh oleh lembaga penjamin CGIF, sehingga risiko gagal bayarnya ditanggung penjamin, bukan ADCP sendiri. Yang perlu dipantau adalah 26 Oktober 2026, tenggat pembayaran kupon Sukuk Ijarah yang jika terlewat dalam masa tenggang berpotensi memicu penurunan peringkat lebih lanjut, serta hasil pemantauan rating berikutnya pada 7 Desember 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "adcp-digugat-pkpu-kontraktor-proyek-adhi-city-sentul",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Digugat [PKPU] Kontraktor Proyek Adhi City Sentul",
+  "deck": "PT Burda Contraco mengajukan permohonan PKPU terhadap ADCP ke Pengadilan Niaga Jakarta Pusat atas utang proyek Adhi City Sentul, sidang pertama digelar 17 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T20:36:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/748c7bcc7a_31561d6485.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADCP",
+  "tags": [
+   "ADCP",
+   "PKPU",
+   "Adhi City Sentul",
+   "obligasi"
+  ],
+  "body": [
+   "PT Adhi Commuter Properti Tbk (ADCP) melaporkan ke Otoritas Jasa Keuangan bahwa perusahaan menerima panggilan sidang atas permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) yang diajukan oleh PT Burda Contraco. Panggilan sidang atau relaas bernomor 5571/PN.01.W10.U1/HK2.4/9/2026 tertanggal 9 September 2026 itu diterima ADCP pada 13 September 2026 dari Pengadilan Niaga di Pengadilan Negeri Jakarta Pusat. Perkara ini terdaftar dengan nomor register 273/Pdt.Sus-PKPU/2026/PN.Niaga.Jak.Pst, dengan ADCP berstatus sebagai termohon dan Burda Contraco diwakili kuasa hukum Ivo Antoni Ginting, S.H.",
+   "Menurut surat resmi yang ditandatangani Direktur Keuangan ADCP, Achmad Wachid Abdullah, permohonan PKPU ini berpangkal dari utang yang timbul dari dua pekerjaan konstruksi milik Burda Contraco, yaitu pembangunan jembatan akses tahap 2 dan jasa pelaksana rumah di proyek Adhi City Sentul. Burda Contraco mendalilkan ADCP masih memiliki kewajiban pembayaran yang belum diselesaikan atas kedua pekerjaan tersebut. Sidang pertama antara pemohon dan termohon dijadwalkan berlangsung Kamis, 17 September 2026 pukul 09.45 WIB, di Pengadilan Negeri Jakarta Pusat Kelas 1A Khusus, Jalan Bungur Besar Raya.",
+   "ADCP menyatakan permohonan PKPU ini belum berdampak signifikan terhadap kinerja keuangan dan kegiatan operasional perusahaan, termasuk terhadap pemenuhan kewajiban kepada pemegang obligasi, pemegang sukuk, maupun kreditur pembiayaan lain. Perusahaan mengaku tetap memantau dan mengevaluasi perkembangan proses hukum ini. Laporan ini terbit sepekan setelah ADCP menunda pembayaran bunga Obligasi III senilai Rp10,29 miliar dan di hari yang sama dengan pernyataan PEFINDO yang mempertahankan peringkat idCCC dengan pengawasan berkecenderungan turun atas potensi gagal bayar sukuk."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete for a bridge access ramp at a suburban housing development site, cranes in background, overcast daylight",
+  "takeaway": "Laporan ini negatif bagi ADCP karena permohonan PKPU dari kreditur biasanya muncul setelah upaya penagihan di luar pengadilan menemui jalan buntu, dan ini terjadi hanya sepekan setelah perusahaan menunda pembayaran bunga obligasi serta bersamaan dengan sorotan lembaga pemeringkat. PKPU adalah proses hukum yang memaksa perusahaan berunding ulang jadwal pelunasan utang dengan krediturnya di bawah pengawasan pengadilan, dan kalau perundingan itu gagal mencapai kesepakatan damai, prosesnya bisa berlanjut ke pailit, itu sebabnya pos yang tersentuh adalah likuiditas dan arus kas ADCP di tengah kondisi keuangan yang sudah dalam pengawasan ketat. Perusahaan menyebut belum ada dampak signifikan ke kewajiban ke pemegang obligasi dan sukuk, tapi klaim itu perlu diuji lewat proses persidangan yang sesungguhnya. Yang perlu dipantau adalah sidang pertama Kamis, 17 September 2026 pukul 09.45 WIB di Pengadilan Negeri Jakarta Pusat, karena arah persidangan itu akan menentukan apakah kasus ini berujung damai atau berlanjut ke tahap yang lebih berat.",
+  "sentimen": "negatif"
  },
  {
   "slug": "idx-aktifkan-kembali-short-selling-mulai-15-september",
@@ -715,6 +820,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "unsp-revaluasi-aset-ekuitas-berbalik-positif-rp2-76-triliun",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Revaluasi Aset, [Ekuitas] Berbalik Positif Rp2,76 Triliun",
+  "deck": "Revaluasi aset tanah dan tanaman produktif membuat ekuitas UNSP berbalik positif Rp2,76 triliun, dari defisit Rp5,27 triliun akhir 2025, meski laba masih rugi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T16:59:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83a2c3b103_f1e433db51.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNSP",
+  "tags": [
+   "UNSP",
+   "revaluasi aset",
+   "ekuitas",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Bakrie Sumatera Plantations (UNSP) mengubah kebijakan akuntansi untuk aset tetap berupa tanah dan tanaman produktif, dari model biaya ke model revaluasian, mengacu pada PSAK 216 tentang Aset Tetap. Perseroan menyatakan perubahan ini bertujuan komersial, yaitu memperbaiki rasio keuangan dan menyajikan nilai aset yang mencerminkan harga pasar wajar, dan bukan untuk kepentingan perpajakan. Penilaian dilakukan oleh KJPP Benedictus Darmapuspita dan Rekan, dengan tanggal penilaian 31 Juli 2026 dan laporan penilaian terbit 31 Agustus 2026.",
+   "Hasil penilaian mencatat nilai wajar tanah sebesar Rp847,24 miliar, naik dari nilai tercatat Rp102,17 miliar, sehingga muncul surplus revaluasi Rp745,08 miliar. Untuk tanaman produktif, nilai wajarnya Rp4,63 triliun, naik dari nilai tercatat Rp1,57 triliun, dengan surplus Rp3,06 triliun. Secara total, nilai wajar aset tanah dan tanaman produktif Perseroan dan entitas anak mencapai Rp5,48 triliun, jauh di atas nilai tercatat Rp1,67 triliun, dengan total surplus revaluasi Rp3,80 triliun.",
+   "Perubahan ini langsung mengubah wajah neraca keuangan konsolidasian per 31 Agustus 2026. Total ekuitas Perseroan berbalik menjadi positif Rp2,76 triliun, setelah sebelumnya mencatat defisiensi modal Rp5,54 triliun per 30 Juni 2026 dan Rp5,27 triliun per 31 Desember 2025. Total aset naik menjadi Rp7,40 triliun dari sekitar Rp3,47 triliun sampai Rp3,49 triliun pada dua periode pembanding tersebut. Rasio total liabilitas terhadap total aset turun dari 259,65 persen menjadi 62,65 persen, sementara rasio liabilitas terhadap ekuitas menjadi 1,68 kali setelah sebelumnya negatif akibat ekuitas yang defisit. Perseroan juga mencatat kontribusi dari penambahan modal lewat penerbitan saham tanpa hak memesan efek terlebih dahulu pada 4 Agustus 2026, yang menambah modal ditempatkan dan disetor serta tambahan modal disetor senilai total Rp4,35 triliun.",
+   "Meski neraca membaik, kinerja operasional Perseroan selama delapan bulan pertama 2026 masih mencatat rugi neto Rp55,27 miliar, berbalik dari laba neto Rp68,35 miliar pada periode yang sama 2025, dengan rugi per saham Rp3,25 dibanding laba Rp27,33 per saham setahun sebelumnya. Pendapatan naik menjadi Rp1,90 triliun dari Rp1,63 triliun, tetapi tergerus rugi selisih kurs Rp267,99 miliar dan beban keuangan Rp97,56 miliar. Perseroan menyatakan perubahan kebijakan akuntansi ini bukan transaksi afiliasi maupun transaksi material sebagaimana diatur dalam POJK 42/2020 dan POJK 17/2020."
+  ],
+  "fotoAdegan": "Rows of mature oil palm trees on a plantation in Sumatra, workers inspecting fruit bunches, early morning light.",
+  "takeaway": "Laporan ini positif bagi neraca UNSP karena revaluasi mengangkat ekuitas dari defisit Rp5,27 triliun akhir 2025 menjadi positif Rp2,76 triliun, sekaligus menurunkan rasio utang terhadap aset dari sekitar 251 persen menjadi 62,65 persen. Yang tersentuh adalah pos ekuitas, yaitu selisih antara total aset dan total utang perusahaan, karena tanah dan kebun yang tadinya dicatat sebesar harga beli lama kini dicatat sesuai nilai pasar wajar yang jauh lebih tinggi, sehingga defisiensi modal yang selama ini membebani laporan keuangan Perseroan hilang di atas kertas. Perlu dicatat, kenaikan ekuitas ini tidak disertai uang tunai baru masuk ke kas perusahaan, dan secara operasional Perseroan masih merugi Rp55,27 miliar untuk delapan bulan pertama 2026. Yang perlu dipantau selanjutnya adalah hasil audit independen atas laporan keuangan tahunan 2026, yang akan menegaskan apakah perubahan kebijakan akuntansi dan surplus revaluasi ini diterima tanpa catatan, serta apakah perbaikan rasio keuangan ini diikuti perbaikan kinerja operasional, bukan sekadar penyesuaian pembukuan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "grph-ungkap-kinerja-semester-i-jelang-public-expose-suspensi",
   "category": "Aksi Korporasi",
   "title": "GRPH Ungkap Kinerja Semester I Jelang Public Expose [Suspensi]",
@@ -1032,6 +1164,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers inspecting sachets of herbal drink powder moving along a conveyor belt inside a bright pharmaceutical factory in Indonesia",
   "takeaway": "Paparan ini condong positif bagi fundamental SIDO, sebab margin laba yang tebal, pengembalian modal tinggi, dan dividen besar berjalan tanpa utang bank maupun obligasi. Yang tersentuh adalah tingkat pengembalian modal atau ROE, yaitu seberapa besar laba yang dihasilkan dari setiap rupiah modal pemegang saham, yang tercatat 32 persen, salah satu yang tertinggi di antara emiten BEI, serta rasio pembagian dividen yang rata-rata di atas 92 persen sejak IPO tanpa pinjaman bank atau obligasi, artinya perusahaan membagikan hampir seluruh labanya ke pemegang saham tanpa beban bunga. Yang perlu dipantau berikutnya adalah apakah penurunan pangsa pasar Tolak Angin dari 73 persen pada 2025 menjadi 71 persen saat ini berlanjut atau berhenti, dan apakah kontribusi ekspor yang kini di kisaran 12 sampai 13 persen dari total penjualan bisa terus naik seperti tren tahun-tahun sebelumnya, yang baru akan terlihat pada laporan keuangan kuartal III 2026.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "tcpi-resmi-angkat-ade-supandi-jadi-komisaris-utama",
+  "category": "Aksi Korporasi",
+  "title": "TCPI Resmi Angkat Ade Supandi Jadi [Komisaris Utama]",
+  "deck": "RUPSLB TCPI menyetujui Ade Supandi sebagai Komisaris Utama dan Haru Koesmahargyo sebagai Komisaris Independen dengan dukungan 99,999 persen suara pemegang saham yang hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T15:46:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8e6553132_c5ca9f7bcb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TCPI",
+  "tags": [
+   "TCPI",
+   "RUPSLB",
+   "Komisaris",
+   "Tata Kelola Perusahaan"
+  ],
+  "body": [
+   "PT Transcoal Pacific Tbk (TCPI) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 11 September 2026 di Bakrie Tower, Jakarta Selatan, yang dihadiri pemegang saham mewakili 4.058.950.206 saham atau 81,18 persen dari total 5.000.000.000 saham perusahaan. Rapat yang dipimpin oleh Komisaris Budiman Kostaman ini menyetujui pengangkatan Ade Supandi, SE sebagai Komisaris Utama merangkap Komisaris Independen, serta Haru Koesmahargyo sebagai Komisaris Independen, dengan hasil pemungutan suara 99,999 persen setuju atau setara 4.058.885.606 saham, 0,001 persen atau 64.600 saham tidak setuju, dan tidak ada suara abstain. Kedua jabatan tersebut berlaku efektif sejak penutupan rapat.",
+   "Dengan keputusan ini, susunan Dewan Komisaris TCPI yang berlaku sampai penutupan RUPS Tahunan 2028 menjadi: Ade Supandi sebagai Komisaris Utama dan Komisaris Independen, Haru Koesmahargyo sebagai Komisaris Independen, serta Aditya Paruliangui dan Budiman Kostaman sebagai Komisaris. Rapat turut memberi kuasa kepada Direksi untuk menindaklanjuti keputusan ini secara administratif, termasuk menghadap notaris dan melapor ke otoritas terkait bila diperlukan.",
+   "Selain jajaran komisaris, rapat turut dihadiri jajaran Direksi TCPI yakni Direktur Utama Denry Raymond Lelo, Direktur Bintang Septo Drestanto, Direktur Anton Ramada Saragih, dan Direktur Ir. Sutina. Perseroan menyatakan tidak ada pemegang saham yang mengajukan pertanyaan atau pendapat selama pembahasan satu-satunya agenda rapat, yaitu perubahan susunan Dewan Komisaris."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with a long wooden table and rows of chairs, floor-to-ceiling windows overlooking a Jakarta skyline, soft afternoon light",
+  "takeaway": "Perubahan susunan komisaris ini netral bagi fundamental TCPI karena murni pergantian pengurus tanpa ada transaksi keuangan yang menyertainya. Pos kinerja yang biasa dipantau pelaku pasar, seperti ekuitas, arus kas, atau jumlah saham beredar, sama sekali tidak tersentuh oleh keputusan ini karena yang berubah hanya susunan pengawas perusahaan, bukan struktur modal atau utangnya. Yang perlu dipantau selanjutnya adalah bagaimana Dewan Komisaris baru ini menjalankan fungsi pengawasan hingga masa jabatannya berakhir pada penutupan RUPS Tahunan 2028, serta apakah ada agenda korporasi lain yang sempat tertunda sambil menunggu rampungnya susunan komisaris ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "jsmr-bukukan-pertumbuhan-ebitda-8-1-di-semester-i-2026",

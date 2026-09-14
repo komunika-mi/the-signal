@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mncn-gandeng-rmab-sta-rmab-jadi-pengakuisisi-media",
+  "category": "Aksi Korporasi",
+  "title": "MNCN Gandeng RMAB-STA, RMAB Jadi [Pengakuisisi] Media",
+  "deck": "MNCN, Republikorp Group lewat RMAB, dan Sinergi Terang Abadi menandatangani kerja sama strategis membangun ekosistem media terintegrasi, dengan RMAB sebagai pihak pengakuisisi.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MNCN",
+   "media",
+   "kemitraan strategis",
+   "iNews"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f3bf7ed092_521a6e1a67.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-bulgaria-perkuat-kerja-sama-dagang-bidik-pasar-ue",
   "category": "Global",
   "title": "RI-Bulgaria [Perkuat] Kerja Sama Dagang, Bidik Pasar UE",
@@ -39,6 +55,54 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-mendag-ri-dan-wakil-perdana-menteri-bulgaria-perkuat-kerja-sama-perdagangan-dan-investasi-1789391594",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bjbr-pefindo-turunkan-peringkat-sejumlah-obligasi-bank-bjb",
+  "category": "Aksi Korporasi",
+  "title": "BJBR: PEFINDO [Turunkan] Peringkat Sejumlah Obligasi Bank BJB",
+  "deck": "PEFINDO menurunkan peringkat sejumlah obligasi dan surat berharga perpetual Bank BJB satu tingkat menjadi idAA- hingga idA-, outlook stabil.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BJBR",
+   "PEFINDO",
+   "peringkat obligasi",
+   "bank bjb"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffecd2006a_24f49478e4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adcp-bertahan-di-idccc-pefindo-waspadai-gagal-bayar-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Bertahan di idCCC, PEFINDO [Waspadai] Gagal Bayar Sukuk",
+  "deck": "PEFINDO mempertahankan peringkat idCCC untuk ADCP dengan status CreditWatch Negatif karena risiko gagal bayar kupon Sukuk Ijarah yang jatuh tempo 26 Oktober 2026.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADCP",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3ce7294a00_b31213c6df.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adcp-digugat-pkpu-kontraktor-proyek-adhi-city-sentul",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Digugat [PKPU] Kontraktor Proyek Adhi City Sentul",
+  "deck": "PT Burda Contraco mengajukan permohonan PKPU terhadap ADCP ke Pengadilan Niaga Jakarta Pusat atas utang proyek Adhi City Sentul, sidang pertama digelar 17 September 2026.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADCP",
+   "PKPU",
+   "Adhi City Sentul",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/748c7bcc7a_31561d6485.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "idx-aktifkan-kembali-short-selling-mulai-15-september",
@@ -444,6 +508,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "unsp-revaluasi-aset-ekuitas-berbalik-positif-rp2-76-triliun",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Revaluasi Aset, [Ekuitas] Berbalik Positif Rp2,76 Triliun",
+  "deck": "Revaluasi aset tanah dan tanaman produktif membuat ekuitas UNSP berbalik positif Rp2,76 triliun, dari defisit Rp5,27 triliun akhir 2025, meski laba masih rugi.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNSP",
+   "revaluasi aset",
+   "ekuitas",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83a2c3b103_f1e433db51.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "grph-ungkap-kinerja-semester-i-jelang-public-expose-suspensi",
   "category": "Aksi Korporasi",
   "title": "GRPH Ungkap Kinerja Semester I Jelang Public Expose [Suspensi]",
@@ -635,6 +715,22 @@ var ARTICLES = [
    "kinerja keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58f38a0332_e593fc397d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tcpi-resmi-angkat-ade-supandi-jadi-komisaris-utama",
+  "category": "Aksi Korporasi",
+  "title": "TCPI Resmi Angkat Ade Supandi Jadi [Komisaris Utama]",
+  "deck": "RUPSLB TCPI menyetujui Ade Supandi sebagai Komisaris Utama dan Haru Koesmahargyo sebagai Komisaris Independen dengan dukungan 99,999 persen suara pemegang saham yang hadir.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TCPI",
+   "RUPSLB",
+   "Komisaris",
+   "Tata Kelola Perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8e6553132_c5ca9f7bcb.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6398,103 +6494,6 @@ var ARTICLES = [
    "multifinance"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7e36a33972_d001a72ef8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "imas-bantah-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "IMAS Bantah Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "Menjawab permintaan BEI soal volatilitas transaksi sahamnya, Indomobil Sukses Internasional menyatakan tak ada informasi material tersembunyi dan tak ada aksi korporasi dalam tiga bulan ke depan.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMAS",
-   "Indomobil Sukses Internasional",
-   "BEI",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ed4f7164b_27139f6951.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tgra-bukukan-rugi-rp259-5-miliar-pln-cairkan-bank-garansi",
-  "category": "Aksi Korporasi",
-  "title": "TGRA Bukukan Rugi Rp259,5 Miliar, PLN Cairkan [Bank Garansi]",
-  "deck": "Laporan keuangan tahunan TGRA mencatat rugi Rp259,52 miliar dan ekuitas ambles 83,45 persen, dipicu penurunan nilai aset proyek listrik dan klaim bank garansi oleh PT PLN akibat proyek yang molor.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "laporan keuangan tahunan",
-   "going concern",
-   "PLN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260907173118-64345-0/FinancialStatement-2025-Tahunan-TGRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ibst-partisipasi-vto-iforte-tembus-76-diperpanjang-ke-okt",
-  "category": "Aksi Korporasi",
-  "title": "IBST: Partisipasi [VTO] Iforte Tembus 76%, Diperpanjang ke Okt",
-  "deck": "Iforte perpanjang lagi masa tender sukarela saham IBST hingga 2 Oktober 2026, sembari melaporkan hasil sementara: 76 persen saham publik sudah ikut serta.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IBST",
-   "tender offer",
-   "Iforte",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/308c2b125a_88e4464886.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "goto-kepemilikan-morgan-stanley-naik-ke-7-6-persen",
-  "category": "Aksi Korporasi",
-  "title": "GOTO: [Kepemilikan] Morgan Stanley Naik ke 7,6 Persen",
-  "deck": "Morgan Stanley and Co International PLC menambah kepemilikan saham GOTO lewat transaksi repo dan pembelian, hak suaranya naik dari 5,72 persen menjadi 7,60 persen.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GOTO",
-   "kepemilikan saham",
-   "Morgan Stanley",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-9537-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-turun-0-25-sektor-keuangan-paling-tertekan",
-  "category": "Pasar Modal",
-  "title": "IHSG [Turun] 0,25%, Sektor Keuangan Paling Tertekan",
-  "deck": "IHSG ditutup melemah 16,80 poin ke 6.619,67 pada Senin, tertekan sektor keuangan yang turun 0,76 persen, sementara sektor perindustrian justru menguat 1,25 persen.",
-  "date": "7 September 2026",
-  "image": "assets/img/ihsg-turun-0-25-sektor-keuangan-paling-tertekan.jpg",
-  "imageV": "mtralcpu",
-  "tags": [
-   "IHSG",
-   "sektor keuangan",
-   "bursa efek indonesia",
-   "saham"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465511-ihsg-tertekan-025-sektor-keuangan-jadi-beban-utama-perdagangan-hari-ini"
- },
- {
-  "slug": "pack-bantah-rumor-rights-issue-ungkap-sumber-lonjakan-laba",
-  "category": "Aksi Korporasi",
-  "title": "PACK Bantah Rumor [Rights Issue], Ungkap Sumber Lonjakan Laba",
-  "deck": "PACK menjelaskan ke Bursa bahwa lonjakan laba bersih 1.431,5% pada semester I 2026 berasal dari bagian laba anak usaha tambang, bukan bisnis inti, sembari membantah rumor rencana rights issue.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "kinerja keuangan",
-   "rights issue",
-   "entitas asosiasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1789b9c052_b5b95457c5.pdf",
   "sourceLabel": "IDX"
  }
 ];

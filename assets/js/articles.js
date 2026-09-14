@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "petani-diduga-diminta-tebusan-rp150-juta-untuk-alsintan",
+  "category": "Bisnis",
+  "title": "Petani Diduga Diminta Tebusan [Rp150 Juta] untuk Alsintan",
+  "deck": "Kementerian Pertanian membuka jalur pengaduan setelah petani di Banggai mengaku diminta membayar Rp150 juta untuk mendapat bantuan combine harvester.",
+  "image": "assets/img/petani-diduga-diminta-tebusan-rp150-juta-untuk-alsintan.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T01:08:42.717Z",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8131",
+  "sourceLabel": "Kementerian Pertanian",
+  "tags": [
+   "alsintan",
+   "pungli bantuan",
+   "Kementerian Pertanian",
+   "Banggai"
+  ],
+  "body": [
+   "Menteri Pertanian Andi Amran Sulaiman memerintahkan kepolisian mengusut dugaan pungutan liar dalam penyaluran bantuan alat dan mesin pertanian (alsintan) kepada petani. Perintah ini muncul setelah seorang petani di Banggai, Sulawesi Tengah, mengaku pernah diminta membayar hingga Rp150 juta saat mengajukan bantuan combine harvester bagi wilayah Banggai Selatan.",
+   "Pengakuan itu disampaikan langsung dalam dialog antara Amran dan petani setempat pada Kamis, 10 September lalu. Petani tersebut menyebut, akibat pengalaman itu, warga di wilayahnya jadi enggan mengajukan proposal bantuan karena takut kembali dimintai uang. Amran menegaskan bantuan alat pertanian seperti traktor, combine harvester, dan pompa air merupakan hak petani yang seharusnya diberikan gratis oleh pemerintah, sehingga tidak boleh ada pihak yang memungut bayaran dalam bentuk apa pun.",
+   "Untuk menampung laporan serupa, Kementerian Pertanian membuka kanal pengaduan bernama Lapor Pak Amran di nomor 0823 1110 9390. Petani yang menemukan dugaan pungutan diminta melaporkan nama dan alamat pihak yang diduga meminta uang, serta besaran nominal yang diminta. Amran menyebut laporan akan ditindaklanjuti berjenjang sesuai skala kasus, dari tingkat Kapolres untuk kasus kecil hingga Kapolri untuk kasus besar.",
+   "Amran menegaskan bahwa penindakan atas dugaan pungutan ini tidak hanya berlaku untuk kasus di Banggai, melainkan akan diperiksa di seluruh Indonesia. Ia meminta petani tidak takut melapor dan meminta seluruh pihak yang terlibat dalam penyaluran bantuan alsintan menjalankan program secara bersih sesuai ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "A combine harvester parked at the edge of a lowland rice field at dawn, farmers inspecting irrigation channels nearby, rural landscape.",
+  "fotoSumber": "https://www.pertanian.go.id/img_viewer.php?content-type=news&img-type=img_slider&id=8131",
+  "kreditFoto": "Kementerian Pertanian",
+  "takeaway": "Yang benar-benar baru di sini baru sebatas perintah lisan menteri dan pembukaan saluran pengaduan Lapor Pak Amran, bukan penetapan tersangka atau proses hukum yang sudah berjalan atas kasus Rp150 juta di Banggai. Pihak yang berpotensi terdampak adalah petani calon penerima bantuan alsintan di berbagai daerah, terutama yang selama ini menahan diri mengajukan proposal karena takut dimintai uang, serta oknum di rantai penyaluran bantuan yang diduga terlibat. Ada dua kemungkinan arah dari sini: kasus Banggai berlanjut menjadi penyidikan dengan tersangka yang diumumkan sehingga menjadi preseden nyata, atau berhenti sebagai pernyataan keras tanpa proses hukum yang terlihat publik, seperti pola pada sejumlah kasus pungli yang sempat ramai lalu tidak ada kabar lanjutan. Penanda arah yang perlu ditunggu adalah apakah kepolisian Banggai mengumumkan hasil pengusutan, dan apakah saluran pengaduan itu benar-benar menghasilkan laporan yang ditindaklanjuti dalam beberapa minggu mendatang.",
+  "imageV": "mu0jt6bh"
+ },
+ {
   "slug": "brics-dorong-pembentukan-bursa-gandum-bersama",
   "category": "Global",
   "title": "BRICS Dorong Pembentukan [Bursa Gandum] Bersama",

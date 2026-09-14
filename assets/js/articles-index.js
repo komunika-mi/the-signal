@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "petani-diduga-diminta-tebusan-rp150-juta-untuk-alsintan",
+  "category": "Bisnis",
+  "title": "Petani Diduga Diminta Tebusan [Rp150 Juta] untuk Alsintan",
+  "deck": "Kementerian Pertanian membuka jalur pengaduan setelah petani di Banggai mengaku diminta membayar Rp150 juta untuk mendapat bantuan combine harvester.",
+  "date": "14 September 2026",
+  "image": "assets/img/petani-diduga-diminta-tebusan-rp150-juta-untuk-alsintan.jpg",
+  "imageV": "mu0jt6bh",
+  "tags": [
+   "alsintan",
+   "pungli bantuan",
+   "Kementerian Pertanian",
+   "Banggai"
+  ],
+  "kreditFoto": "Kementerian Pertanian",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8131",
+  "sourceLabel": "Kementerian Pertanian"
+ },
+ {
   "slug": "brics-dorong-pembentukan-bursa-gandum-bersama",
   "category": "Global",
   "title": "BRICS Dorong Pembentukan [Bursa Gandum] Bersama",
@@ -6484,22 +6502,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260906145112-64368-0/FinancialStatement-2026-I-DOOH.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "cara-cek-desil-bansos-lewat-hp-dengan-nik-ktp",
-  "category": "Makroekonomi",
-  "title": "Cara Cek [Desil] Bansos Lewat HP dengan NIK KTP",
-  "deck": "Kemensos membuka layanan mandiri di cekbansos.kemensos.go.id untuk mengecek status desil kesejahteraan keluarga hanya dengan memasukkan NIK lewat ponsel.",
-  "date": "6 September 2026",
-  "image": "assets/img/cara-cek-desil-bansos-lewat-hp-dengan-nik-ktp.jpg",
-  "imageV": "mtpr4hlb",
-  "tags": [
-   "desil",
-   "bansos",
-   "DTSEN",
-   "cekbansos"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465207-cara-cek-desil-lewat-hp-di-laman-cekbansoskemensosgoid-bisa-ikuti-empat-langkah-ini"
  }
 ];

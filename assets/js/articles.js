@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ihsg-dibuka-melemah-ke-6-533-analis-prediksi-rebound",
+  "category": "Pasar Modal",
+  "title": "IHSG Dibuka [Melemah] ke 6.533, Analis Prediksi Rebound",
+  "deck": "IHSG dibuka melemah 0,11 persen ke 6.533 pada Senin, mengikuti pelemahan bursa Asia-Pasifik akhir pekan lalu akibat lonjakan harga minyak yang sempat menekan saham AS.",
+  "image": "assets/img/ihsg-dibuka-melemah-ke-6-533-analis-prediksi-rebound.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T10:27:55+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466956-ihsg-dibuka-melemah-pada-perdagangan-14-september-2026-serupa-bursa-asia-pasifik-wall-street-menguat-terimbas-harga-minyak",
+  "tags": [
+   "ihsg",
+   "bursa asia",
+   "harga minyak",
+   "wall street"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) dibuka melemah tipis 7 poin atau 0,11 persen ke level 6.533 pada perdagangan Senin, 14 September 2026. Pelemahan ini terjadi setelah bursa Asia-Pasifik kompak tertekan pada perdagangan Jumat pekan lalu. Meski begitu, Head of Retail Research Analyst Fanny Suherman memperkirakan IHSG berpeluang berbalik menguat hari ini seiring penguatan bursa Amerika Serikat.",
+   "Pada Jumat lalu, Kospi Korea Selatan anjlok 1,9 persen dan Nikkei 225 Jepang merosot 1,8 persen, keduanya memimpin pelemahan di kawasan. Hang Seng Hong Kong turun 0,6 persen, S&P/ASX 200 Australia melemah 0,9 persen, Taiex Taiwan turun 1,6 persen, dan CSI 300 China berkurang 0,8 persen. Pelemahan serentak ini menyusul tekanan pada indeks saham-saham AS akibat lonjakan harga minyak dunia.",
+   "Di tengah tekanan pasar saham itu, ekonomi Inggris justru tumbuh lebih kencang dari perkiraan. Data Office for National Statistics mencatat produk domestik bruto Inggris naik 1,6 persen dibanding periode sama tahun lalu pada Juli 2026, laju tercepat dalam 18 bulan terakhir. Pertumbuhan ini ditopang sektor jasa dan bisnis yang terkait perkembangan kecerdasan buatan.",
+   "Di bursa Jepang, saham produsen bahan kimia dan semikonduktor menjadi yang paling tertekan, dengan Resonac Holdings anjlok 8,12 persen, Kioxia Holdings merosot 7,11 persen, dan Sumco turun 6,77 persen. Sebaliknya, sejumlah saham lain menguat, yakni Inpex naik 2,04 persen, Konami Group naik 1,89 persen, dan Bandai Namco Holdings naik 1,76 persen."
+  ],
+  "fotoAdegan": "Rows of glass office towers in Jakarta's central business district under morning haze, light traffic on the street below.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8ce896aa6-ilustrasi-saham_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret ada dua lapis: IHSG cuma turun tipis 0,11 persen ke 6.533 saat dibuka, jauh lebih ringan dibanding bursa Asia lain yang ambruk 0,6 sampai 1,9 persen akhir pekan lalu akibat harga minyak dunia yang melonjak dan menekan saham-saham AS. Yang paling kena dampaknya adalah investor di saham berbasis bahan baku dan komponen elektronik seperti produsen semikonduktor Jepang, yang harganya rontok lebih dari 6 persen dalam satu hari. Bukti soal arah pasar ke depan masih terbelah: kalau harga minyak terus naik, tekanan ke bursa saham dunia termasuk IHSG kemungkinan berlanjut dan prediksi rebound hari ini meleset, tapi kalau penguatan Wall Street yang jadi acuan analis benar berlanjut, IHSG dan bursa Asia lain berpeluang ikut terangkat. Penentunya akan terlihat dari penutupan IHSG sore ini dan pergerakan harga minyak dalam beberapa hari ke depan, jadi dua hal itu yang perlu dipantau sebelum menyimpulkan arah pasar minggu ini.",
+  "imageV": "mu0pd7qu"
+ },
+ {
   "slug": "atla-komisaris-jual-15-juta-saham-via-repo",
   "category": "Aksi Korporasi",
   "title": "ATLA: Komisaris Jual 15 Juta Saham via [Repo]",
@@ -133,6 +160,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "rupiah-menguat-tipis-harga-minyak-bayangi-fiskal",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] Tipis, Harga Minyak Bayangi Fiskal",
+  "deck": "Rupiah menguat tipis ke Rp17.605 per dolar AS, sementara harga minyak dunia di atas US$100 per barel membebani anggaran subsidi BBM.",
+  "image": "assets/img/rupiah-menguat-tipis-harga-minyak-bayangi-fiskal.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:39:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466952-rupiah-menguat-ke-rp17605-per-dolar-as-di-tengah-tekanan-harga-minyak-dunia-terhadap-ketahanan-fiskal-ri",
+  "tags": [
+   "rupiah",
+   "kurs dolar AS",
+   "harga minyak",
+   "APBN"
+  ],
+  "body": [
+   "Nilai tukar rupiah menguat tipis ke Rp17.605 per dolar Amerika Serikat pada Senin, 14 September 2026, di tengah sorotan pada risiko anggaran negara akibat harga minyak dunia yang disebut sudah melampaui US$100 per barel. Karena Indonesia membeli minyak dari luar negeri dalam jumlah lebih besar dibanding yang dijualnya, lonjakan harga minyak dunia langsung berimbas pada kebutuhan dolar AS untuk impor dan pada beban anggaran subsidi energi.",
+   "Berdasarkan data kurs referensi Jisdor Bank Indonesia, rupiah sempat melemah 75 poin dari Rp17.536 per dolar AS pada Kamis, 10 September 2026, menjadi Rp17.611 per dolar AS sehari berikutnya, Jumat 11 September 2026. Pada perdagangan Senin, rupiah berbalik menguat 6 poin atau 0,03 persen dari posisi Jumat itu, ke level Rp17.605 per dolar AS.",
+   "Pengamat ekonomi dan pasar uang Ibrahim Assuaibi menyebut kenaikan harga minyak dunia yang melampaui asumsi harga minyak dalam APBN otomatis mendorong naiknya kebutuhan anggaran untuk subsidi dan kompensasi bahan bakar minyak. Ia memaparkan beban itu akan membesar jika pemerintah memilih menahan harga BBM eceran demi menjaga daya beli masyarakat, sebab selisih antara harga pasar dan harga jual ke masyarakat harus ditanggung penuh oleh anggaran negara, sehingga berpotensi melebarkan defisit.",
+   "Di sisi lain, kebutuhan mengimpor minyak dalam jumlah besar membuat permintaan dolar AS melonjak, yang menurut Ibrahim berpotensi memperlebar defisit transaksi berjalan dan ikut menekan nilai tukar rupiah. Ia menambahkan tekanan ini bisa merembet ke kenaikan harga barang impor lain, karena pelemahan rupiah membuat biaya impor komoditas nonminyak turut naik."
+  ],
+  "fotoAdegan": "Oil tanker anchored near an Indonesian port terminal with tugboats nearby under a hazy morning sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bddf204303e-ilustrasi-rupiah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang sebenarnya berubah di balik berita ini bukan kurs rupiah, yang cuma bergeser 6 poin, melainkan harga minyak dunia yang disebut sudah melewati US$100 per barel, jauh di atas asumsi harga minyak yang biasa dipatok pemerintah dalam APBN. Kalau patokan itu terlampaui, anggaran subsidi dan kompensasi BBM otomatis membengkak, dan pihak yang menanggung dampaknya ada dua: pemerintah yang harus menambah anggaran subsidi kalau harga BBM eceran ditahan demi daya beli masyarakat, atau konsumen yang akan merasakan kenaikan harga BBM kalau pemerintah memilih menaikkannya untuk menjaga anggaran tetap aman. Berita ini belum menyebutkan opsi mana yang akan diambil, jadi yang masih perlu dipantau adalah keputusan resmi soal harga BBM bersubsidi serta angka realisasi subsidi energi dalam APBN, yang akan menunjukkan seberapa berat tekanan itu benar-benar terjadi pada anggaran negara.",
+  "imageV": "mu0pd86o"
+ },
+ {
   "slug": "mdla-pastikan-free-float-16-89-genjot-ekspor-medical-device",
   "category": "Aksi Korporasi",
   "title": "MDLA Pastikan Free Float 16,89%, Genjot [Ekspor] Medical Device",
@@ -211,6 +265,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "harga-emas-antam-turun-tipis-ke-rp2-602-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.602.000/Gram",
+  "deck": "Harga emas Antam turun Rp2.000 menjadi Rp2.602.000 per gram pada 14 September 2026, sementara harga buyback juga turun ke Rp2.452.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-602-000-gram.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:28:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466949-turun-tipis-rp2000-harga-emas-antam-hari-ini-14-september-2026-rp2602000-per-gram",
+  "tags": [
+   "harga emas",
+   "emas antam",
+   "logam mulia",
+   "investasi"
+  ],
+  "body": [
+   "Harga emas batangan Antam pada 14 September 2026 turun tipis Rp2.000 per gram, dari sebelumnya Rp2.604.000 menjadi Rp2.602.000 per gram. Meski perubahannya kecil, angka ini tetap jadi acuan harian bagi masyarakat yang menjadikan emas sebagai instrumen simpanan atau investasi jangka panjang.",
+   "Berdasarkan pantauan di laman resmi Logam Mulia, harga buyback atau harga beli kembali emas Antam oleh perusahaan juga ikut turun menjadi Rp2.452.000 per gram. Dengan begitu, selisih antara harga jual dan harga buyback saat ini sekitar Rp150.000 per gram, yang menjadi biaya implisit bagi pemilik emas jika hendak mencairkan kembali logam mulianya dalam waktu dekat.",
+   "Pihak Antam mengingatkan bahwa harga emas batangan dapat berubah sewaktu-waktu mengikuti pergerakan pasar, sehingga angka hari ini tidak bisa dijadikan patokan untuk hari-hari berikutnya. Masyarakat yang berencana bertransaksi disarankan mengecek kembali harga terbaru sebelum melakukan pembelian atau penjualan."
+  ],
+  "fotoAdegan": "Gold bullion bars neatly stacked inside a glass display case at a jewelry counter, warm indoor lighting, blurred background",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/01/18/65a891293e42a-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini cuma angka harian: harga jual emas Antam turun Rp2.000 dan harga buyback ikut turun ke Rp2.452.000 per gram, dengan selisih jual-beli sekitar Rp150.000 per gram. Ini langsung terasa bagi orang yang menyimpan emas fisik sebagai tabungan atau berencana jual beli dalam waktu dekat, karena selisih itu adalah biaya yang harus ditanggung kalau emas dicairkan kembali. Data satu hari ini belum cukup untuk membaca apakah ini awal tren turun atau sekadar fluktuasi biasa, sebab tidak ada pembanding pergerakan harga beberapa hari sebelumnya. Yang perlu dicermati adalah harga emas Antam pada hari-hari berikutnya serta pergerakan harga emas dunia yang biasanya jadi acuan harga di dalam negeri.",
+  "imageV": "mu0pd8kl"
+ },
+ {
   "slug": "smfp-angkat-budi-susanto-jadi-direktur-utama-baru",
   "category": "Aksi Korporasi",
   "title": "SMFP Angkat Budi Susanto Jadi [Direktur Utama] Baru",
@@ -235,6 +315,32 @@ var ARTICLES = [
   "fotoAdegan": "Empty modern corporate boardroom with leather chairs around a long table, soft morning light through glass windows",
   "takeaway": "Pergantian ini netral bagi fundamental SMFP, karena yang terjadi adalah peralihan dari status pelaksana tugas menjadi definitif, tanpa ada indikasi masalah kinerja atau sengketa tata kelola di baliknya. Perubahan direksi tidak langsung mengubah ekuitas atau arus kas perusahaan, tapi kredibilitas dan stabilitas jajaran direksi tetap relevan bagi SMFP sebagai penerbit obligasi, karena investor pemegang surat utang turut menilai kemampuan bayar perusahaan dari soliditas manajemennya. Yang perlu dipantau selanjutnya adalah terbitnya salinan resmi Keputusan Menteri Keuangan yang hingga laporan ini disampaikan belum diterima perseroan, serta status Heliantopo yang untuk saat ini masih berstatus pelaksana tugas direktur, bukan direktur definitif.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bansos-beras-30-kg-cair-september-ini-cara-cek-status",
+  "category": "Makroekonomi",
+  "title": "Bansos Beras 30 Kg [Cair] September, Ini Cara Cek Status",
+  "deck": "Bapanas menyalurkan bantuan pangan 30 kilogram beras, hasil rapel tiga bulan, kepada 33,2 juta keluarga penerima manfaat pada September 2026.",
+  "image": "assets/img/bansos-beras-30-kg-cair-september-ini-cara-cek-status.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T08:41:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466943-bansos-beras-30-kilogram-cair-september-2026-begini-cara-cek-status-penerima-bansos",
+  "tags": [
+   "bansos",
+   "beras",
+   "DTSEN",
+   "Bapanas"
+  ],
+  "body": [
+   "Badan Pangan Nasional (Bapanas) mulai mencairkan bantuan pangan beras tahap kedua tahun 2026 pada September ini. Sebanyak 33.244.408 keluarga penerima manfaat akan menerima total 30 kilogram beras, hasil penggabungan alokasi tiga bulan yakni Juli, Agustus, dan September yang disalurkan sekaligus.",
+   "Setiap keluarga sebenarnya berhak atas 10 kilogram beras per bulan, namun pemerintah memilih merapel penyaluran tiga bulan tersebut dalam satu kali pencairan. Penetapan penerima kali ini memakai basis data baru, yakni Data Tunggal Sosial dan Ekonomi Nasional (DTSEN) versi 3 tahun 2026, yang menyasar keluarga pada desil 1 sampai 4 atau kelompok 40 persen dengan tingkat kesejahteraan terendah.",
+   "Warga yang ingin memastikan namanya termasuk penerima dapat mengeceknya lewat situs resmi Cek Bansos Kementerian Sosial. Caranya dengan memasukkan 16 digit Nomor Induk Kependudukan sesuai KTP, mengisi kode verifikasi, lalu menekan tombol pencarian untuk melihat status kepesertaan."
+  ],
+  "fotoAdegan": "Warehouse workers pouring rice from large sacks into smaller bags for village distribution, grains scattering, dim warehouse lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/07/30/66a891580f940-ilustrasi-beras_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari penyaluran kali ini adalah skema pencairannya: alokasi Juli, Agustus, dan September digabung jadi satu kali pemberian 30 kilogram beras, bukan dicairkan bulanan seperti biasanya. Dampaknya langsung terasa oleh 33,2 juta keluarga penerima manfaat yang masuk kategori desil 1 sampai 4, kelompok rumah tangga dengan tingkat kesejahteraan paling rendah. Ada dua kemungkinan di balik penggabungan ini, pertama ini memang skema pencairan tiga bulanan yang sengaja dirancang untuk efisiensi distribusi, kedua ini penyaluran susulan karena pencairan bulanan sebelumnya sempat tertahan. Berita ini tidak menyebutkan alasannya, jadi yang perlu dicermati adalah apakah pola rapel serupa terulang pada penyaluran berikutnya atau pemerintah kembali ke skema bulanan, karena itu akan menunjukkan mana dari dua kemungkinan tersebut yang benar. Perpindahan basis data ke DTSEN versi 3 juga layak diikuti, sebab kalau program bansos lain turut memakai basis data yang sama pada pencairan mendatang, itu tanda konsolidasi data kesejahteraan nasional sedang berjalan lebih luas.",
+  "imageV": "mu0pd8yp"
  },
  {
   "slug": "petani-diduga-diminta-tebusan-rp150-juta-untuk-alsintan",

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ihsg-dibuka-melemah-ke-6-533-analis-prediksi-rebound",
+  "category": "Pasar Modal",
+  "title": "IHSG Dibuka [Melemah] ke 6.533, Analis Prediksi Rebound",
+  "deck": "IHSG dibuka melemah 0,11 persen ke 6.533 pada Senin, mengikuti pelemahan bursa Asia-Pasifik akhir pekan lalu akibat lonjakan harga minyak yang sempat menekan saham AS.",
+  "date": "14 September 2026",
+  "image": "assets/img/ihsg-dibuka-melemah-ke-6-533-analis-prediksi-rebound.jpg",
+  "imageV": "mu0pd7qu",
+  "tags": [
+   "ihsg",
+   "bursa asia",
+   "harga minyak",
+   "wall street"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466956-ihsg-dibuka-melemah-pada-perdagangan-14-september-2026-serupa-bursa-asia-pasifik-wall-street-menguat-terimbas-harga-minyak"
+ },
+ {
   "slug": "atla-komisaris-jual-15-juta-saham-via-repo",
   "category": "Aksi Korporasi",
   "title": "ATLA: Komisaris Jual 15 Juta Saham via [Repo]",
@@ -85,6 +102,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupiah-menguat-tipis-harga-minyak-bayangi-fiskal",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] Tipis, Harga Minyak Bayangi Fiskal",
+  "deck": "Rupiah menguat tipis ke Rp17.605 per dolar AS, sementara harga minyak dunia di atas US$100 per barel membebani anggaran subsidi BBM.",
+  "date": "14 September 2026",
+  "image": "assets/img/rupiah-menguat-tipis-harga-minyak-bayangi-fiskal.jpg",
+  "imageV": "mu0pd86o",
+  "tags": [
+   "rupiah",
+   "kurs dolar AS",
+   "harga minyak",
+   "APBN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466952-rupiah-menguat-ke-rp17605-per-dolar-as-di-tengah-tekanan-harga-minyak-dunia-terhadap-ketahanan-fiskal-ri"
+ },
+ {
   "slug": "mdla-pastikan-free-float-16-89-genjot-ekspor-medical-device",
   "category": "Aksi Korporasi",
   "title": "MDLA Pastikan Free Float 16,89%, Genjot [Ekspor] Medical Device",
@@ -133,6 +167,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "harga-emas-antam-turun-tipis-ke-rp2-602-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.602.000/Gram",
+  "deck": "Harga emas Antam turun Rp2.000 menjadi Rp2.602.000 per gram pada 14 September 2026, sementara harga buyback juga turun ke Rp2.452.000 per gram.",
+  "date": "14 September 2026",
+  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-602-000-gram.jpg",
+  "imageV": "mu0pd8kl",
+  "tags": [
+   "harga emas",
+   "emas antam",
+   "logam mulia",
+   "investasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466949-turun-tipis-rp2000-harga-emas-antam-hari-ini-14-september-2026-rp2602000-per-gram"
+ },
+ {
   "slug": "smfp-angkat-budi-susanto-jadi-direktur-utama-baru",
   "category": "Aksi Korporasi",
   "title": "SMFP Angkat Budi Susanto Jadi [Direktur Utama] Baru",
@@ -147,6 +198,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e44eb4f439_f239e28d1c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bansos-beras-30-kg-cair-september-ini-cara-cek-status",
+  "category": "Makroekonomi",
+  "title": "Bansos Beras 30 Kg [Cair] September, Ini Cara Cek Status",
+  "deck": "Bapanas menyalurkan bantuan pangan 30 kilogram beras, hasil rapel tiga bulan, kepada 33,2 juta keluarga penerima manfaat pada September 2026.",
+  "date": "14 September 2026",
+  "image": "assets/img/bansos-beras-30-kg-cair-september-ini-cara-cek-status.jpg",
+  "imageV": "mu0pd8yp",
+  "tags": [
+   "bansos",
+   "beras",
+   "DTSEN",
+   "Bapanas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466943-bansos-beras-30-kilogram-cair-september-2026-begini-cara-cek-status-penerima-bansos"
  },
  {
   "slug": "petani-diduga-diminta-tebusan-rp150-juta-untuk-alsintan",
@@ -6432,71 +6500,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465401-rupiah-melemah-ke-rp17650-di-tengah-anjloknya-pendapatan-kelas-menengah"
- },
- {
-  "slug": "epac-setop-pabrik-konvensional-ekspansi-ke-surabaya-2027",
-  "category": "Aksi Korporasi",
-  "title": "EPAC Setop Pabrik Konvensional, [Ekspansi] ke Surabaya 2027",
-  "deck": "EPAC berencana menutup pabrik kemasan fleksibel konvensional akhir 2026 dan membangun pabrik digital printing baru di Surabaya pada 2027.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EPAC",
-   "ekspansi",
-   "restrukturisasi",
-   "kemasan fleksibel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a86f3c3ae_94e04ee0df.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "soci-laba-bersih-melonjak-ke-us-20-3-juta-h1-2026",
-  "category": "Aksi Korporasi",
-  "title": "SOCI: Laba Bersih [Melonjak] ke US$20,3 Juta H1 2026",
-  "deck": "Soechi Lines mencatat laba bersih US$20,29 juta pada semester I 2026, naik dari US$7 juta tahun lalu, ditopang kenaikan pendapatan dan laba penjualan kapal lama.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOCI",
-   "laporan keuangan",
-   "pelayaran",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260907084747-64259-0/FinancialStatement-2026-II-SOCI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "usai-erupsi-25-jam-anak-krakatau-tetap-level-siaga",
-  "category": "Energi",
-  "title": "Usai Erupsi 25 Jam, Anak Krakatau Tetap Level [Siaga]",
-  "deck": "PVMBG memastikan status Siaga Gunung Anak Krakatau tetap berlaku usai episode erupsi menerus 25 jam berhenti, dengan potensi letusan susulan masih tinggi.",
-  "date": "7 September 2026",
-  "image": "assets/img/usai-erupsi-25-jam-anak-krakatau-tetap-level-siaga.jpg",
-  "imageV": "mtqjnz0q",
-  "tags": [
-   "Gunung Anak Krakatau",
-   "PVMBG",
-   "Status Siaga",
-   "Selat Sunda"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/aktivitas-anak-krakatau-terus-dipantau-pvmbg-pastikan-status-siaga-tetap-berlaku-usai-erupsi-menerus-25-jam",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "bumi-akuisisi-loyal-metals-rp1-triliun-via-anak-usaha-australia",
-  "category": "Aksi Korporasi",
-  "title": "BUMI [Akuisisi] Loyal Metals Rp1 Triliun via Anak Usaha Australia",
-  "deck": "Bumi Resources melalui anak usaha di Australia, BRA, mengambil alih 100 persen saham Loyal Metals senilai Rp1,004 triliun setara AUD79,07 juta pada 4 September 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUMI",
-   "akuisisi",
-   "pertambangan",
-   "Australia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ee07bc6fc_280f614ec7.pdf",
-  "sourceLabel": "IDX"
  }
 ];

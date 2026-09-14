@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "2KknPsZQs4w",
+  "title": "Ekosistem Pangan Sirkular Pondok Pesantren Annuqayah",
+  "category": "UMKM",
+  "program": "Kabar Jawa Tengah",
+  "summary": "Kantor Perwakilan Bank Indonesia Jawa Timur meluncurkan program Jelajah UMKM dan Pondok Pesantren 2026, menyoroti Ponpes Annuqayah yang mengembangkan ekosistem pangan sirkular dari potensi alam sekitarnya.",
+  "takeaway": "Menunjukkan peran Bank Indonesia mendorong pemberdayaan ekonomi berbasis pesantren dan UMKM di daerah."
+ },
+ {
   "id": "W90GcF5uyCA",
   "title": "Kadin Gelar Audiensi dengan Dirjen Amerika dan Eropa Kemenlu",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Kadin Indonesia menggelar Go-See and Pitch Trip ke PT VKTR Sakti Industries di Magelang bersama Menteri Lingkungan Hidup Mohammad Jumhur Hidayat.",
   "takeaway": "Kunjungan ini relevan bagi pembaca ekonomi karena menggambarkan upaya dunia usaha mendekatkan diri dengan pelaku industri manufaktur dalam negeri."
- },
- {
-  "id": "yM3shtnuhPc",
-  "title": "BI Gelar Pameran UMKM Karya Kreatif Indonesia 2026",
-  "category": "UMKM",
-  "program": "Kabar Siang",
-  "summary": "Bank Indonesia menggelar pameran UMKM bertajuk Karya Kreatif Indonesia (KKI) 2026 yang membukukan total penjualan Rp177,21 miliar.",
-  "takeaway": "Angka penjualan ini menjadi indikator geliat UMKM binaan Bank Indonesia dalam mendorong perputaran ekonomi domestik."
  }
 ];

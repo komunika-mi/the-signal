@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "2KknPsZQs4w",
+  "title": "Ekosistem Pangan Sirkular Pondok Pesantren Annuqayah",
+  "category": "UMKM",
+  "program": "Kabar Jawa Tengah",
+  "summary": "Kantor Perwakilan Bank Indonesia Jawa Timur meluncurkan program Jelajah UMKM dan Pondok Pesantren 2026, menyoroti Ponpes Annuqayah yang mengembangkan ekosistem pangan sirkular dari potensi alam sekitarnya.",
+  "takeaway": "Menunjukkan peran Bank Indonesia mendorong pemberdayaan ekonomi berbasis pesantren dan UMKM di daerah.",
+  "terbit": "2026-09-14T22:30:06+00:00"
+ },
+ {
   "id": "W90GcF5uyCA",
   "title": "Kadin Gelar Audiensi dengan Dirjen Amerika dan Eropa Kemenlu",
   "category": "Bisnis",

@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-bulgaria-perkuat-kerja-sama-dagang-bidik-pasar-ue",
+  "category": "Global",
+  "title": "RI-Bulgaria [Perkuat] Kerja Sama Dagang, Bidik Pasar UE",
+  "deck": "Mendag Budi Santoso dan Wakil PM Bulgaria Alexander Poulev bahas penguatan investasi dan perdagangan, menjelang implementasi I-EU CEPA yang ditargetkan awal 2027.",
+  "date": "14 September 2026",
+  "image": "assets/img/ri-bulgaria-perkuat-kerja-sama-dagang-bidik-pasar-ue.jpg",
+  "imageV": "mu1bolsh",
+  "tags": [
+   "Bulgaria",
+   "I-EU CEPA",
+   "Trade Expo Indonesia",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-mendag-ri-dan-wakil-perdana-menteri-bulgaria-perkuat-kerja-sama-perdagangan-dan-investasi",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ri-bulgaria-perkuat-dagang-incar-pasar-eropa-via-i-eu-cepa",
+  "category": "Global",
+  "title": "RI-Bulgaria Perkuat Dagang, Incar Pasar [Eropa] via I-EU CEPA",
+  "deck": "Mendag Budi Santoso dan Wakil PM Bulgaria Alexander Poulev sepakat perkuat kerja sama dagang dan investasi, dengan Bulgaria diincar sebagai pintu masuk ke pasar Uni Eropa.",
+  "date": "14 September 2026",
+  "image": "assets/img/ri-bulgaria-perkuat-dagang-incar-pasar-eropa-via-i-eu-cepa.jpg",
+  "imageV": "mu1bonrt",
+  "tags": [
+   "Kemendag",
+   "Bulgaria",
+   "I-EU CEPA",
+   "Trade Expo Indonesia"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-mendag-ri-dan-wakil-perdana-menteri-bulgaria-perkuat-kerja-sama-perdagangan-dan-investasi-1789391594",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "idx-aktifkan-kembali-short-selling-mulai-15-september",
   "category": "Aksi Korporasi",
   "title": "IDX Aktifkan Kembali [Short Selling] Mulai 15 September",
@@ -83,6 +119,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0834881137_c8af13962d.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suahasil-nazara-jadi-menkeu-baru-kadin-minta-didengar",
+  "category": "Makroekonomi",
+  "title": "Suahasil Nazara Jadi [Menkeu] Baru, Kadin Minta Didengar",
+  "deck": "Suahasil Nazara resmi dilantik sebagai Menteri Keuangan menggantikan Purbaya Yudhi Sadewa; Kadin berharap kebijakan fiskal baru mendukung industri dan perdagangan.",
+  "date": "14 September 2026",
+  "image": "assets/img/suahasil-nazara-jadi-menkeu-baru-kadin-minta-didengar.jpg",
+  "imageV": "mu1boo93",
+  "tags": [
+   "Kemenkeu",
+   "Suahasil Nazara",
+   "Kadin",
+   "reshuffle kabinet"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467062-suahasil-nazara-gantikan-purbaya-saleh-husin-harap-menkeu-baru-mendengar-dunia-usaha-dan-industri"
  },
  {
   "slug": "bbca-buyback-rp3-5-triliun-rasio-dividen-naik-ke-72",
@@ -6442,54 +6495,6 @@ var ARTICLES = [
    "entitas asosiasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1789b9c052_b5b95457c5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-waran-bmri-disesuaikan-usai-dividen-rp66-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "DR: Waran BMRI Disesuaikan usai [Dividen] Rp66 per Saham",
-  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur BMRI menyusul rencana dividen tunai Rp6,16 triliun, dibayar 2 Oktober 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "BMRI",
-   "Waran Terstruktur",
-   "Dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d770db69f_c45527ab8a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnbs-raih-peringkat-idaa-dari-pefindo-outlook-stabil",
-  "category": "Aksi Korporasi",
-  "title": "PNBS Raih Peringkat [idAA-] dari Pefindo, Outlook Stabil",
-  "deck": "Pefindo menetapkan peringkat idAA- dengan outlook stabil bagi Bank Panin Dubai Syariah untuk periode September 2026 hingga September 2027, berdasarkan laporan keuangan terbaru bank.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNBS",
-   "Pefindo",
-   "peringkat kredit",
-   "bank syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b5bedd24ad_fef6a8f4e1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asii-laba-semester-i-turun-19-buyback-saham-digenjot-rp8-t",
-  "category": "Aksi Korporasi",
-  "title": "ASII: Laba Semester I Turun 19%, [Buyback] Saham Digenjot Rp8 T",
-  "deck": "Materi public expose ASII: laba bersih semester I 2026 turun 19% jadi Rp12,5 triliun, tertekan pelemahan tambang, sembari lanjutkan buyback saham hingga Rp8 triliun.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASII",
-   "Astra International",
-   "laba bersih",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5a376b9f5d_fb1792acac.pdf",
   "sourceLabel": "IDX"
  }
 ];

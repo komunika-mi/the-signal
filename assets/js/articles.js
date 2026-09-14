@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-bulgaria-perkuat-kerja-sama-dagang-bidik-pasar-ue",
+  "category": "Global",
+  "title": "RI-Bulgaria [Perkuat] Kerja Sama Dagang, Bidik Pasar UE",
+  "deck": "Mendag Budi Santoso dan Wakil PM Bulgaria Alexander Poulev bahas penguatan investasi dan perdagangan, menjelang implementasi I-EU CEPA yang ditargetkan awal 2027.",
+  "image": "assets/img/ri-bulgaria-perkuat-kerja-sama-dagang-bidik-pasar-ue.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T14:06:33.745Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-mendag-ri-dan-wakil-perdana-menteri-bulgaria-perkuat-kerja-sama-perdagangan-dan-investasi",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Bulgaria",
+   "I-EU CEPA",
+   "Trade Expo Indonesia",
+   "Kemendag"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso bertemu dengan Wakil Perdana Menteri sekaligus Menteri Ekonomi Bulgaria, Alexander Poulev, di Jakarta, Senin (14/9), untuk membahas penguatan kerja sama perdagangan dan investasi kedua negara. Pertemuan ini berlangsung menjelang implementasi Indonesia-European Union Comprehensive Economic Partnership Agreement (I-EU CEPA) yang ditargetkan mulai berlaku awal 2027. Budi meminta dukungan Bulgaria agar target tersebut tercapai, sementara Bulgaria disebut berpotensi menjadi pintu masuk produk Indonesia ke pasar Eropa Tenggara.",
+   "Volume dagang kedua negara masih tergolong kecil. Pada 2025, total perdagangan Indonesia-Bulgaria tercatat US$230,8 juta, dengan ekspor Indonesia ke Bulgaria senilai US$147,4 juta dan impor US$83,1 juta, sehingga Indonesia mencatat surplus US$64,2 juta. Bulgaria hanya menempati peringkat ke-76 sebagai tujuan ekspor nonmigas Indonesia dan peringkat ke-67 sebagai asal impor nonmigas, jauh di bawah mitra dagang utama Indonesia di Eropa.",
+   "Produk ekspor utama Indonesia ke Bulgaria meliputi bijih nikel dan konsentratnya, aluminium tidak ditempa, batang dan produk canai dari besi atau baja bukan paduan, serta margarin. Impor Indonesia dari Bulgaria didominasi gandum dan meslin, instrumen medis dan kedokteran hewan, biji adas manis dan sejenisnya, senjata militer, serta tembakau belum diolah. Bulgaria menawarkan potensi kerja sama baru di sektor pangan, teknologi satelit, dan logistik, termasuk komponen otomotif serta daging berstandar halal.",
+   "Sebagai langkah lanjutan, Indonesia mengundang pelaku usaha Bulgaria ke Trade Expo Indonesia 2026 yang berlangsung 14-18 Oktober di ICE BSD, Tangerang. Kedua pihak juga sepakat menghidupkan kembali forum Joint Commission for Economic Cooperation (JEC) RI-Bulgaria pada semester pertama 2027 untuk mempercepat realisasi komitmen kerja sama ekonomi."
+  ],
+  "fotoAdegan": "Cargo containers and nickel ore stacked at a busy Indonesian export port, cranes working under morning haze.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/SP5nCnFvJ5u4SIWBaDDmW3hrdYAOR4dUJd40venZ.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Pertemuan ini sebenarnya bukan soal angka besar, karena nilai dagang RI-Bulgaria saat ini kecil, hanya sekitar US$230,8 juta setahun, jauh di bawah mitra dagang utama Indonesia di Eropa. Yang membuatnya berarti adalah waktunya: pertemuan ini bagian dari persiapan sebelum I-EU CEPA, perjanjian dagang Indonesia dengan Uni Eropa, yang ditargetkan mulai berlaku awal 2027. Kalau target itu tercapai, eksportir Indonesia seperti produsen nikel, aluminium, dan produk baja berpeluang mendapat kemudahan masuk ke pasar Uni Eropa lewat Bulgaria sebagai salah satu jalurnya. Arah yang terlihat adalah penjajakan bertahap menjelang pembukaan pasar yang lebih besar, bukan lonjakan dagang instan. Yang akan menentukan benar tidaknya arah ini adalah apakah I-EU CEPA benar mulai berlaku awal 2027 seperti target, dan apakah forum kerja sama ekonomi RI-Bulgaria yang dijanjikan digelar semester pertama 2027 benar terlaksana.",
+  "imageV": "mu1bolsh"
+ },
+ {
+  "slug": "ri-bulgaria-perkuat-dagang-incar-pasar-eropa-via-i-eu-cepa",
+  "category": "Global",
+  "title": "RI-Bulgaria Perkuat Dagang, Incar Pasar [Eropa] via I-EU CEPA",
+  "deck": "Mendag Budi Santoso dan Wakil PM Bulgaria Alexander Poulev sepakat perkuat kerja sama dagang dan investasi, dengan Bulgaria diincar sebagai pintu masuk ke pasar Uni Eropa.",
+  "image": "assets/img/ri-bulgaria-perkuat-dagang-incar-pasar-eropa-via-i-eu-cepa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T14:06:23.708Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-mendag-ri-dan-wakil-perdana-menteri-bulgaria-perkuat-kerja-sama-perdagangan-dan-investasi-1789391594",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Kemendag",
+   "Bulgaria",
+   "I-EU CEPA",
+   "Trade Expo Indonesia"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso bertemu Wakil Perdana Menteri sekaligus Menteri Ekonomi Bulgaria, Alexander Poulev, di kantor Kementerian Perdagangan, Jakarta, Senin (14/9/2026). Pertemuan ini membahas penguatan kerja sama dagang dan investasi kedua negara yang telah menjalin hubungan diplomatik selama 70 tahun. Budi menyebut Bulgaria berpotensi menjadi pintu masuk produk Indonesia ke pasar Eropa Tenggara, sekaligus meminta dukungan Bulgaria agar implementasi I-EU CEPA, perjanjian kemitraan ekonomi komprehensif Indonesia-Uni Eropa, bisa mulai berjalan awal 2027.",
+   "Data yang dipaparkan Kementerian Perdagangan menunjukkan total perdagangan Indonesia-Bulgaria sepanjang 2025 tercatat US$230,8 juta, dengan Indonesia mencatat surplus US$64,2 juta. Ekspor Indonesia ke Bulgaria senilai US$147,4 juta, didominasi bijih nikel dan konsentratnya, aluminium tidak ditempa, batang serta produk canai dari besi atau baja bukan paduan, dan margarin. Impor Indonesia dari Bulgaria senilai US$83,1 juta, meliputi gandum dan meslin, instrumen medis serta kedokteran hewan, biji adas dan ketumbar, senjata militer, dan tembakau belum diolah. Dengan nilai tersebut, Bulgaria hanya menempati peringkat ke-76 tujuan ekspor nonmigas dan ke-67 asal impor nonmigas Indonesia.",
+   "Budi mengundang pelaku usaha Bulgaria berpartisipasi dalam Trade Expo Indonesia (TEI) 2026 yang digelar 14-18 Oktober 2026 di Indonesia Convention Exhibition (ICE) BSD, Kabupaten Tangerang. Poulev menyambut ajakan itu dan menyebut Bulgaria, sebagai negara di ujung timur Uni Eropa, bisa menjadi jalur bagi perusahaan Indonesia menembus pasar Uni Eropa yang berpenduduk 450 juta jiwa.",
+   "Poulev menyebut pangan, teknologi satelit, dan logistik sebagai sektor unggulan Bulgaria, dengan peluang kerja sama lain mencakup pertanian, komponen otomotif, dan daging berstandar halal. Ia juga mengusulkan mengaktifkan kembali Komisi Bersama Kerja Sama Ekonomi (JEC) Indonesia-Bulgaria pada semester pertama 2027 untuk mempercepat realisasi komitmen dagang dan investasi kedua negara."
+  ],
+  "fotoAdegan": "Cargo containers and metal ore stacked at a busy Indonesian shipping port, crane loading a freighter, midday light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/0kQ47rBZ7DoOEEsxOgcVCdqaWsnYV7Q3dPcxo6xU.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari pertemuan ini adalah target waktu yang mulai konkret, implementasi I-EU CEPA dipatok awal 2027 dan forum kerja sama ekonomi bersama dijanjikan aktif lagi pada semester pertama tahun yang sama, meski nilai dagang kedua negara saat ini masih kecil, hanya US$230,8 juta sepanjang 2025 dan menempatkan Bulgaria di peringkat ke-76 tujuan ekspor nonmigas Indonesia. Yang terdampak langsung adalah eksportir nikel, aluminium, dan baja Indonesia yang selama ini menjual ke Bulgaria, serta importir gandum dan rempah dari negara itu, kelompok yang jumlahnya masih terbatas mengingat kecilnya volume perdagangan sekarang. Arah pertemuan ini terlihat menjadikan Bulgaria bukan sebagai tujuan dagang utama, melainkan batu loncatan menuju pasar Uni Eropa yang jauh lebih besar begitu I-EU CEPA berlaku. Yang akan menunjukkan apakah niat ini berlanjut jadi langkah nyata adalah kehadiran pelaku usaha Bulgaria di Trade Expo Indonesia pada 14-18 Oktober 2026, serta apakah forum kerja sama ekonomi bersama benar terlaksana pada semester pertama 2027 seperti dijanjikan.",
+  "imageV": "mu1bonrt"
+ },
+ {
   "slug": "idx-aktifkan-kembali-short-selling-mulai-15-september",
   "category": "Aksi Korporasi",
   "title": "IDX Aktifkan Kembali [Short Selling] Mulai 15 September",
@@ -131,6 +187,32 @@ var ARTICLES = [
   "fotoAdegan": "Wide view of a modern glass office tower district in Jakarta with morning light and light street traffic below",
   "takeaway": "Laporan ini netral bagi INET, sebab penambahan 74.232 saham dari konversi waran hanya setara 0,0003 persen dari total saham yang sudah beredar, jauh terlalu kecil untuk mengubah struktur kepemilikan atau dibaca sebagai sinyal apa pun. Yang tersentuh dari aksi ini adalah jumlah saham beredar, yaitu total lembar saham perusahaan yang dipakai untuk menghitung laba per saham; makin banyak saham beredar, makin kecil porsi laba yang jatuh ke setiap lembar. Yang lebih perlu diperhatikan investor justru sisa 2,29 miliar Waran Seri II yang belum dikonversi, setara sekitar 10,3 persen dari saham INET saat ini, karena itu adalah potensi dilusi lanjutan kalau seluruh pemegang waran menukarkannya menjadi saham. Yang perlu dipantau berikutnya adalah mulai berlakunya pencatatan dan perdagangan saham baru ini pada 15 September 2026, serta laporan konversi waran susulan dari PT Ficomindo Buana Registrar dalam periode-periode berikutnya, mengingat sisa waran yang masih besar.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "suahasil-nazara-jadi-menkeu-baru-kadin-minta-didengar",
+  "category": "Makroekonomi",
+  "title": "Suahasil Nazara Jadi [Menkeu] Baru, Kadin Minta Didengar",
+  "deck": "Suahasil Nazara resmi dilantik sebagai Menteri Keuangan menggantikan Purbaya Yudhi Sadewa; Kadin berharap kebijakan fiskal baru mendukung industri dan perdagangan.",
+  "image": "assets/img/suahasil-nazara-jadi-menkeu-baru-kadin-minta-didengar.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T19:02:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467062-suahasil-nazara-gantikan-purbaya-saleh-husin-harap-menkeu-baru-mendengar-dunia-usaha-dan-industri",
+  "tags": [
+   "Kemenkeu",
+   "Suahasil Nazara",
+   "Kadin",
+   "reshuffle kabinet"
+  ],
+  "body": [
+   "Pemerintah resmi mengganti pucuk pimpinan Kementerian Keuangan. Presiden Prabowo Subianto melantik Suahasil Nazara sebagai Menteri Keuangan menggantikan Purbaya Yudhi Sadewa di Istana Negara, Senin, 14 September 2026, sebagai bagian dari reshuffle Kabinet Merah Putih. Pergantian ini penting diikuti karena menentukan siapa yang akan menyusun kebijakan pajak, anggaran negara, dan pembiayaan ke depan, hal yang berimbas langsung ke dunia usaha.",
+   "Merespons pelantikan itu, Wakil Ketua Umum Kadin Bidang Perindustrian Saleh Husin menyambut positif penunjukan tersebut. Ia berharap Suahasil dapat menyerap aspirasi pelaku usaha dan industri saat merumuskan kebijakan fiskal. Menurut Saleh, pengalaman panjang Suahasil di Kementerian Keuangan, termasuk pernah memimpin Badan Kebijakan Fiskal, menjadi modal untuk mengambil keputusan fiskal dan ekonomi makro secara cepat di tengah ketidakpastian ekonomi global.",
+   "Saleh, yang juga mantan Menteri Perindustrian dan mengaku mengenal Suahasil sebagai akademisi Fakultas Ekonomi dan Bisnis Universitas Indonesia, menilai sosok baru ini memahami cara menggerakkan sektor industri dan perdagangan agar tetap tumbuh. Ia menyebut pemerintah membutuhkan dukungan sektor swasta sebagai mitra strategis untuk menjaga roda perekonomian, sejalan dengan target pertumbuhan ekonomi 8 persen yang dicanangkan Presiden Prabowo Subianto."
+  ],
+  "fotoAdegan": "Wide view of a government ministry building facade in Jakarta with Indonesian flags, photographed from a distance under midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/14/6aa7e038ec5ba-menteri-keuangan-suahasil-nazara-kiri-dan-wakil-ketua-umum-kadin-bidang-perindustrian-saleh-husin-kanan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah sejauh ini baru pucuk pimpinan Kementerian Keuangan, dari Purbaya Yudhi Sadewa ke Suahasil Nazara, tanpa ada kebijakan fiskal baru yang diumumkan bersamaan pelantikan ini. Yang langsung terdampak adalah pelaku usaha dan industri, karena merekalah yang menyuarakan harapan lewat Kadin agar menteri baru lebih terbuka mendengar keluhan dunia usaha. Berita ini belum cukup untuk membaca ke mana arah kebijakan fiskal akan bergerak, sebab isinya masih sebatas harapan dan penilaian positif dari asosiasi pengusaha, bukan langkah kebijakan yang sudah diambil. Yang perlu ditunggu adalah kebijakan atau pernyataan resmi pertama Suahasil Nazara sebagai Menteri Keuangan, misalnya soal insentif industri atau arah APBN, untuk melihat apakah harapan Kadin ini benar-benar direspons.",
+  "imageV": "mu1boo93"
  },
  {
   "slug": "bbca-buyback-rp3-5-triliun-rasio-dividen-naik-ke-72",

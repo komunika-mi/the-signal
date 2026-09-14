@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "d_bShxSkAxE",
+  "title": "BBM Langka, SPBU Makassar Dipadati Antrean Kendaraan",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Antrean panjang kendaraan terjadi di sejumlah SPBU Makassar akibat kelangkaan BBM yang dipicu hambatan pasokan dan distribusi bahan bakar ke wilayah tersebut.",
+  "takeaway": "Gangguan pasokan BBM di Makassar mencerminkan persoalan distribusi energi yang bisa berdampak pada aktivitas ekonomi dan pelaku usaha di Sulawesi Selatan."
+ },
+ {
   "id": "PTVe3F8goO8",
   "title": "SPBU di Barito Utara Dipenuhi Antrean Panjang Kendaraan",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Kenaikan penjualan mobil disorot sebagai indikator pemulihan aktivitas ekonomi Indonesia di tengah dinamika daya beli masyarakat.",
   "takeaway": "Data penjualan otomotif kerap dipakai sebagai proksi kesehatan ekonomi domestik, sehingga tren ini relevan bagi pembaca yang memantau arah pemulihan."
- },
- {
-  "id": "bjOCQiKbqtk",
-  "title": "Kemenperin Jelaskan Wacana Mobil Nasional",
-  "category": "Industri",
-  "program": "Indonesia Business Forum",
-  "summary": "Kementerian Perindustrian memberi penjelasan soal wacana pengembangan mobil nasional di tengah sorotan terhadap kinerja industri otomotif dalam negeri.",
-  "takeaway": "Kebijakan mobil nasional menyangkut arah investasi dan daya saing industri manufaktur otomotif Indonesia."
  }
 ];

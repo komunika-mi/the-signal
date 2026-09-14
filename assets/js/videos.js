@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "d_bShxSkAxE",
+  "title": "BBM Langka, SPBU Makassar Dipadati Antrean Kendaraan",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Antrean panjang kendaraan terjadi di sejumlah SPBU Makassar akibat kelangkaan BBM yang dipicu hambatan pasokan dan distribusi bahan bakar ke wilayah tersebut.",
+  "takeaway": "Gangguan pasokan BBM di Makassar mencerminkan persoalan distribusi energi yang bisa berdampak pada aktivitas ekonomi dan pelaku usaha di Sulawesi Selatan.",
+  "terbit": "2026-09-14T14:00:57+00:00"
+ },
+ {
   "id": "PTVe3F8goO8",
   "title": "SPBU di Barito Utara Dipenuhi Antrean Panjang Kendaraan",
   "category": "Energi",

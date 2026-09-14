@@ -7,6 +7,22 @@
   <language>id-ID</language>
   <atom:link href="https://the-signal.id/berita-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>RI-Bulgaria Perkuat Kerja Sama Dagang, Bidik Pasar UE</title>
+    <link>https://the-signal.id/berita/ri-bulgaria-perkuat-kerja-sama-dagang-bidik-pasar-ue.html</link>
+    <guid isPermaLink="true">https://the-signal.id/berita/ri-bulgaria-perkuat-kerja-sama-dagang-bidik-pasar-ue.html</guid>
+    <pubDate>Mon, 14 Sep 2026 14:06:33 GMT</pubDate>
+    <category>Global</category>
+    <description><![CDATA[Mendag Budi Santoso dan Wakil PM Bulgaria Alexander Poulev bahas penguatan investasi dan perdagangan, menjelang implementasi I-EU CEPA yang ditargetkan awal 2027.]]></description>
+  </item>
+  <item>
+    <title>RI-Bulgaria Perkuat Dagang, Incar Pasar Eropa via I-EU CEPA</title>
+    <link>https://the-signal.id/berita/ri-bulgaria-perkuat-dagang-incar-pasar-eropa-via-i-eu-cepa.html</link>
+    <guid isPermaLink="true">https://the-signal.id/berita/ri-bulgaria-perkuat-dagang-incar-pasar-eropa-via-i-eu-cepa.html</guid>
+    <pubDate>Mon, 14 Sep 2026 14:06:23 GMT</pubDate>
+    <category>Global</category>
+    <description><![CDATA[Mendag Budi Santoso dan Wakil PM Bulgaria Alexander Poulev sepakat perkuat kerja sama dagang dan investasi, dengan Bulgaria diincar sebagai pintu masuk ke pasar Uni Eropa.]]></description>
+  </item>
+  <item>
     <title>IDX Aktifkan Kembali Short Selling Mulai 15 September</title>
     <link>https://the-signal.id/berita/idx-aktifkan-kembali-short-selling-mulai-15-september.html</link>
     <guid isPermaLink="true">https://the-signal.id/berita/idx-aktifkan-kembali-short-selling-mulai-15-september.html</guid>
@@ -45,6 +61,14 @@
     <pubDate>Mon, 14 Sep 2026 12:23:59 GMT</pubDate>
     <category>Aksi Korporasi</category>
     <description><![CDATA[Bursa mencatat 74.232 saham baru INET hasil konversi waran seri II, efektif diperdagangkan 15 September 2026, sehingga total saham beredar menjadi 22.377.753.318 lembar.]]></description>
+  </item>
+  <item>
+    <title>Suahasil Nazara Jadi Menkeu Baru, Kadin Minta Didengar</title>
+    <link>https://the-signal.id/berita/suahasil-nazara-jadi-menkeu-baru-kadin-minta-didengar.html</link>
+    <guid isPermaLink="true">https://the-signal.id/berita/suahasil-nazara-jadi-menkeu-baru-kadin-minta-didengar.html</guid>
+    <pubDate>Mon, 14 Sep 2026 12:02:41 GMT</pubDate>
+    <category>Makroekonomi</category>
+    <description><![CDATA[Suahasil Nazara resmi dilantik sebagai Menteri Keuangan menggantikan Purbaya Yudhi Sadewa; Kadin berharap kebijakan fiskal baru mendukung industri dan perdagangan.]]></description>
   </item>
   <item>
     <title>BBCA: Buyback Rp3,5 Triliun, Rasio Dividen Naik ke 72%</title>
@@ -381,30 +405,6 @@
     <pubDate>Mon, 14 Sep 2026 04:18:31 GMT</pubDate>
     <category>Aksi Korporasi</category>
     <description><![CDATA[Volume transaksi saham CASA melonjak lebih dari 50 kali lipat pada 10 September, tapi harga saham cuma turun tipis 0,28 persen ke Rp1.800.]]></description>
-  </item>
-  <item>
-    <title>NIRO Jawab Permintaan BEI soal Volatilitas Sahamnya</title>
-    <link>https://the-signal.id/berita/niro-jawab-permintaan-bei-soal-volatilitas-sahamnya.html</link>
-    <guid isPermaLink="true">https://the-signal.id/berita/niro-jawab-permintaan-bei-soal-volatilitas-sahamnya.html</guid>
-    <pubDate>Mon, 14 Sep 2026 03:32:16 GMT</pubDate>
-    <category>Aksi Korporasi</category>
-    <description><![CDATA[City Retail Developments menegaskan tidak mengetahui informasi material yang memicu volatilitas transaksi sahamnya, menjawab permintaan penjelasan Bursa Efek Indonesia.]]></description>
-  </item>
-  <item>
-    <title>IHSG Dibuka Melemah ke 6.533, Analis Prediksi Rebound</title>
-    <link>https://the-signal.id/berita/ihsg-dibuka-melemah-ke-6-533-analis-prediksi-rebound.html</link>
-    <guid isPermaLink="true">https://the-signal.id/berita/ihsg-dibuka-melemah-ke-6-533-analis-prediksi-rebound.html</guid>
-    <pubDate>Mon, 14 Sep 2026 03:27:55 GMT</pubDate>
-    <category>Pasar Modal</category>
-    <description><![CDATA[IHSG dibuka melemah 0,11 persen ke 6.533 pada Senin, mengikuti pelemahan bursa Asia-Pasifik akhir pekan lalu akibat lonjakan harga minyak yang sempat menekan saham AS.]]></description>
-  </item>
-  <item>
-    <title>CCSI Bantah Info Material, Konfirmasi Rights Issue</title>
-    <link>https://the-signal.id/berita/ccsi-bantah-info-material-konfirmasi-rights-issue.html</link>
-    <guid isPermaLink="true">https://the-signal.id/berita/ccsi-bantah-info-material-konfirmasi-rights-issue.html</guid>
-    <pubDate>Mon, 14 Sep 2026 03:05:56 GMT</pubDate>
-    <category>Aksi Korporasi</category>
-    <description><![CDATA[CCSI menjawab surat Bursa soal volatilitas sahamnya, menegaskan tak ada info material baru, sementara rencana rights issue hasil persetujuan RUPS masih dalam tahap persiapan.]]></description>
   </item>
 </channel>
 </rss>

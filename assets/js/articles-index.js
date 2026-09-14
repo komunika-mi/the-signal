@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal",
+  "category": "UMKM",
+  "title": "2,35 Juta [UMKM] Binaan PNM Naik Kelas ke Bank Formal",
+  "deck": "Dalam lima tahun Holding Ultra Mikro, 2,35 juta nasabah PNM naik kelas ke layanan keuangan formal lewat sinergi dengan BRI dan Pegadaian, mencakup tabungan hingga investasi emas.",
+  "date": "14 September 2026",
+  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
+  "imageV": "mu1nf6v4",
+  "tags": [
+   "umkm",
+   "pnm",
+   "bri",
+   "pegadaian"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467106-25-juta-umkm-tercatat-naik-kelas-tuju-layanan-keuangan-formal"
+ },
+ {
   "slug": "smdr-jawab-bei-soal-volatilitas-transaksi-sebut-tak-ada-info-baru",
   "category": "Aksi Korporasi",
   "title": "SMDR Jawab BEI soal [Volatilitas] Transaksi, Sebut Tak Ada Info Baru",
@@ -6478,22 +6495,6 @@ var ARTICLES = [
    "Kinerja Keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9f6ff17497_fa06ded1f4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmri-siapkan-dana-rp2-4-triliun-lunasi-obligasi-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "BMRI siapkan dana [Rp2,4 triliun] lunasi obligasi jatuh tempo",
-  "deck": "Bank Mandiri menyatakan telah menyiapkan dana Rp2,4 triliun untuk melunasi pokok Obligasi Berkelanjutan I Tahap I 2016 Seri C yang jatuh tempo 30 September 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMRI",
-   "Bank Mandiri",
-   "obligasi",
-   "kesiapan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b625859af3_b0d3111781.pdf",
   "sourceLabel": "IDX"
  }
 ];

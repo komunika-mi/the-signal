@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal",
+  "category": "UMKM",
+  "title": "2,35 Juta [UMKM] Binaan PNM Naik Kelas ke Bank Formal",
+  "deck": "Dalam lima tahun Holding Ultra Mikro, 2,35 juta nasabah PNM naik kelas ke layanan keuangan formal lewat sinergi dengan BRI dan Pegadaian, mencakup tabungan hingga investasi emas.",
+  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T23:57:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467106-25-juta-umkm-tercatat-naik-kelas-tuju-layanan-keuangan-formal",
+  "tags": [
+   "umkm",
+   "pnm",
+   "bri",
+   "pegadaian"
+  ],
+  "body": [
+   "Holding Ultra Mikro (UMi), yang menyatukan BRI, Pegadaian, dan PT Permodalan Nasional Madani (PNM), mencatat pencapaian setelah lima tahun beroperasi. Hingga Juni 2026, sebanyak 2,35 juta nasabah PNM tercatat naik kelas dari pembiayaan ultra mikro menuju layanan keuangan formal yang lebih luas. Perpindahan ini penting karena menunjukkan jalur bagi pelaku usaha kecil, yang semula hanya mengandalkan pinjaman modal kerja, untuk mulai mengakses produk perbankan dan investasi yang selama ini sulit dijangkau.",
+   "Perjalanan nasabah ini banyak berawal dari program Mekaar (Membina Ekonomi Keluarga Sejahtera), yang menyasar perempuan prasejahtera pelaku usaha ultra mikro. Group CEO BRI Hery Gunardi menjelaskan bahwa kekuatan Holding UMi selama lima tahun ditopang oleh pembagian peran tiga entitas: BRI menyediakan jaringan dan infrastruktur pembiayaan UMKM, Pegadaian mengelola pembiayaan berbasis gadai dan ekosistem emas, sementara PNM berfokus pada pemberdayaan dan pendampingan kelompok usaha ultra mikro.",
+   "Bagi nasabah yang sebelumnya belum memiliki akses ke layanan perbankan, sinergi ini membuka pintu masuk lewat tabungan Simpedes UMi hasil kolaborasi PNM dan BRI. Nasabah juga mulai diperkenalkan pada tabungan emas sebagai pilihan investasi pertama mereka, sebuah langkah yang sebelumnya jarang terjangkau oleh pelaku usaha ultra mikro.",
+   "Direktur Utama PNM Kindaris mengatakan dukungan yang diberikan disesuaikan dengan tahap usaha masing-masing nasabah, mulai dari yang baru merintis hingga yang siap naik kelas. Menurutnya, pembiayaan tidak berhenti pada penyaluran modal, tapi disertai pendampingan agar nasabah mampu mengelola usaha, meningkatkan pendapatan, dan pada akhirnya mencapai kemandirian ekonomi."
+  ],
+  "fotoAdegan": "Small women-run food stall in an Indonesian village market, vendor arranging vegetables, motorbikes parked nearby, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/14/6aa8258b680ad-25-juta-umkm-tercatat-naik-kelas-tuju-layanan-keuangan-formal_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah angka kumulatif: dalam lima tahun perjalanan Holding Ultra Mikro, 2,35 juta nasabah PNM, sebagian besar perempuan pelaku usaha ultra mikro lewat program Mekaar, berhasil naik kelas ke layanan bank dan tabungan emas lewat BRI dan Pegadaian. Yang terdampak jelas adalah nasabah PNM sendiri, karena merekalah yang beralih dari sekadar pinjaman modal ke rekening tabungan dan investasi emas. Tapi berita ini tidak menyebut berapa total nasabah aktif PNM saat ini, sehingga belum bisa dipastikan apakah 2,35 juta itu porsi besar atau kecil dari basis nasabahnya, dan tidak ada rincian pertumbuhan per tahun sehingga sulit menilai apakah proses naik kelas ini sedang mempercepat atau melambat. Yang perlu ditunggu adalah laporan kinerja PNM atau BRI berikutnya yang memuat total basis nasabah Mekaar dan rincian tahunan, supaya arah program ini bisa dibaca lebih jelas.",
+  "imageV": "mu1nf6v4"
+ },
+ {
   "slug": "smdr-jawab-bei-soal-volatilitas-transaksi-sebut-tak-ada-info-baru",
   "category": "Aksi Korporasi",
   "title": "SMDR Jawab BEI soal [Volatilitas] Transaksi, Sebut Tak Ada Info Baru",

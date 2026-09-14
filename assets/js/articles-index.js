@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "atla-komisaris-jual-15-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Komisaris Jual 15 Juta Saham via [Repo]",
+  "deck": "Komisaris ATLA, Rudi R Sutantra, melepas 15 juta saham seharga Rp50 per lembar lewat skema repurchase agreement pada 14 Agustus 2026.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATLA",
+   "kepemilikan saham",
+   "Dewan Komisaris",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-0165-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-seluruh-direksi-dan-komisaris-mundur-serentak",
+  "category": "Aksi Korporasi",
+  "title": "MKNT: Seluruh Direksi dan Komisaris [Mundur] Serentak",
+  "deck": "Empat direksi dan komisaris PT Mitra Komunikasi Nusantara Tbk, termasuk Direktur Utama dan Komisaris Utama, kompak mengundurkan diri efektif 10 September 2026 tanpa penjelasan alasan.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "pergantian direksi",
+   "komisaris",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b2115f2e8e_12887b556f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-lakukan-right-issue-danai-akuisisi-tambang-borneo-prima",
+  "category": "Aksi Korporasi",
+  "title": "FORU Lakukan [Right Issue], Danai Akuisisi Tambang Borneo Prima",
+  "deck": "Fortune Indonesia bakal menerbitkan saham baru lewat rights issue untuk menyetor 49 persen saham PT Borneo Prima secara inbreng, plus pinjaman modal kerja ke perusahaan tambang itu.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "Rights Issue",
+   "HMETD",
+   "Borneo Prima"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0919b6e104_f291641ea2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "atla-komisaris-jual-5-juta-saham-lewat-skema-repo",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Komisaris Jual [5 Juta] Saham Lewat Skema Repo",
+  "deck": "Rudi R Sutantra, komisaris Atlantis Subsea Indonesia, melepas 5 juta saham lewat repurchase agreement, transaksi kedua beruntun setelah pelepasan 15 juta saham sebelumnya.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATLA",
+   "kepemilikan saham",
+   "komisaris",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-6686-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "atla-komisaris-jual-10-juta-saham-lagi-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Komisaris Jual 10 Juta Saham Lagi Lewat [Repo]",
+  "deck": "Rudi R Sutantra melaporkan penjualan 10 juta saham ATLA lewat skema repo pada 27 Juli 2026, laporan repo ketiganya yang diserahkan hari ini.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATLA",
+   "Rudi Sutantra",
+   "repo saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-4130-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdla-pastikan-free-float-16-89-genjot-ekspor-medical-device",
+  "category": "Aksi Korporasi",
+  "title": "MDLA Pastikan Free Float 16,89%, Genjot [Ekspor] Medical Device",
+  "deck": "Dalam Public Expose Tahunan 2026, manajemen Medela Potentia memastikan porsi saham publik 16,89% dan memaparkan rencana perluasan bisnis medical device serta ekspor ke ASEAN dan Afrika.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLA",
+   "Public Expose",
+   "Free Float",
+   "Medical Device"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f258f5f2d8_cb93def460.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tapg-direksi-george-oetomo-lepas-net-550-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi George Oetomo Lepas Net [550.000] Saham",
+  "deck": "Direksi TAPG George Oetomo menjual 800.000 saham lalu membeli balik 250.000 saham dalam dua hari, kepemilikannya turun bersih 550.000 lembar.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "kepemilikan saham",
+   "direksi",
+   "Triputra Agro Persada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-8217-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baja-komisaris-ibnu-susanto-tambah-saham-hak-suara-ke-17-07",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Komisaris [Ibnu Susanto] Tambah Saham, Hak Suara ke 17,07%",
+  "deck": "Komisaris Ibnu Susanto menambah kepemilikan saham BAJA lewat sejumlah transaksi di pasar pada April 2026, menaikkan hak suaranya menjadi 17,07 persen.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "kepemilikan saham",
+   "komisaris",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-8980-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smfp-angkat-budi-susanto-jadi-direktur-utama-baru",
+  "category": "Aksi Korporasi",
+  "title": "SMFP Angkat Budi Susanto Jadi [Direktur Utama] Baru",
+  "deck": "Kementerian Keuangan selaku pemegang saham mengangkat Budi Susanto sebagai Direktur Utama SMFP, menggantikan Ananta Wiyogo yang sebelumnya menjabat pelaksana tugas.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMFP",
+   "direksi",
+   "BUMN",
+   "pergantian direktur utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e44eb4f439_f239e28d1c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "petani-diduga-diminta-tebusan-rp150-juta-untuk-alsintan",
   "category": "Bisnis",
   "title": "Petani Diduga Diminta Tebusan [Rp150 Juta] untuk Alsintan",
@@ -21,6 +165,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8131",
   "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "foru-kantongi-restu-ojk-rights-issue-inbreng-rp20-8-triliun",
+  "category": "Aksi Korporasi",
+  "title": "FORU Kantongi Restu OJK, Rights Issue [Inbreng] Rp20,8 Triliun",
+  "deck": "FORU menyerahkan prospektus resmi rights issue Rp27,1 triliun. Pengendali IMR Asia Holding menyetor 49% saham Borneo Prima senilai Rp20,8 triliun, bukan uang tunai.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "HMETD",
+   "Borneo Prima"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4bf4620c56_4cabb5d4ac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-umumkan-jadwal-rights-issue-rp27-1-t-dilusi-99-79",
+  "category": "Aksi Korporasi",
+  "title": "FORU Umumkan Jadwal Rights Issue Rp27,1 T, Dilusi [99,79%]",
+  "deck": "Fortune Indonesia (FORU) menetapkan jadwal rights issue hingga Rp27,1 triliun, harga Rp126 per saham. Pemegang saham non-partisipan bisa terdilusi hingga 99,79 persen.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "Fortune Indonesia",
+   "rights issue",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f3af967f21_227e591471.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "brics-dorong-pembentukan-bursa-gandum-bersama",
@@ -6321,186 +6497,6 @@ var ARTICLES = [
    "Australia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ee07bc6fc_280f614ec7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-jelaskan-ke-bei-lonjakan-harga-saham-20-dalam-3-hari",
-  "category": "Aksi Korporasi",
-  "title": "ERAA Jelaskan ke BEI [Lonjakan] Harga Saham 20% dalam 3 Hari",
-  "deck": "Erajaya menjelaskan ke Bursa Efek Indonesia bahwa lonjakan harga saham 20,45 persen dan melonjaknya volume transaksi awal September dipicu keterbukaan informasi buyback yang sudah diumumkan sebelumnya.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "buyback saham",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af2d256a57_f3defc2a26.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "keramik-daur-ulang-umkm-surabaya-tembus-ekspor-ke-eropa",
-  "category": "UMKM",
-  "title": "Keramik Daur Ulang UMKM Surabaya [Tembus] Ekspor ke Eropa",
-  "deck": "Wakil Menteri Perdagangan Dyah Roro Esti mengunjungi UMKM keramik Lumosh Living di Surabaya yang mengolah limbah produksi jadi alat makan ekspor ke Belanda dan Spanyol.",
-  "date": "6 September 2026",
-  "image": "assets/img/keramik-daur-ulang-umkm-surabaya-tembus-ekspor-ke-eropa.jpg",
-  "imageV": "mtq13lpg",
-  "tags": [
-   "UMKM",
-   "ekspor",
-   "keramik",
-   "ekonomi sirkular"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kunjungi-lumosh-living-di-surabaya-wamendag-apresiasi-inovasi-umkm-keramik-lokal-tembus-pasar-ekspor",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "roi-marketing-rendah-meski-adopsi-ai-perusahaan-tinggi",
-  "category": "Bisnis",
-  "title": "ROI [Marketing] Rendah Meski Adopsi AI Perusahaan Tinggi",
-  "deck": "Survei 114 perusahaan menunjukkan mayoritas sudah pakai data dan AI untuk pemasaran, tapi ROI marketingnya masih rendah.",
-  "date": "6 September 2026",
-  "image": "assets/img/roi-marketing-rendah-meski-adopsi-ai-perusahaan-tinggi.jpg",
-  "imageV": "mtq13m88",
-  "tags": [
-   "marketing",
-   "roi marketing",
-   "ai marketing",
-   "cmo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465342-marketing-makin-canggih-tapi-belum-tentu-bikin-penjualan-naik-kok-bisa"
- },
- {
-  "slug": "ojk-dan-taspen-luncurkan-bulan-dana-pensiun-2026",
-  "category": "Ketenagakerjaan",
-  "title": "OJK dan TASPEN [Luncurkan] Bulan Dana Pensiun 2026",
-  "deck": "OJK bersama TASPEN dan lembaga dana pensiun mencanangkan Bulan Dana Pensiun Indonesia 2026 di tiga kota untuk mendorong perencanaan pensiun sejak usia produktif.",
-  "date": "6 September 2026",
-  "image": "assets/img/ojk-dan-taspen-luncurkan-bulan-dana-pensiun-2026.jpg",
-  "imageV": "mtq13mrl",
-  "tags": [
-   "TASPEN",
-   "OJK",
-   "dana pensiun",
-   "Bulan Dana Pensiun"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465332-ojk-bersama-taspen-dan-lembaga-sektor-dana-pensiun-lainnya-selenggarakan-kick-off-event-bulan-dana-pensiun"
- },
- {
-  "slug": "pegadaian-rayakan-hari-pelanggan-lewat-tring",
-  "category": "BUMN",
-  "title": "Pegadaian Rayakan Hari Pelanggan Lewat [Tring!]",
-  "deck": "Pegadaian menggelar makan malam apresiasi untuk nasabah prioritas di Hari Pelanggan Nasional, sambil mempromosikan platform digital Tring! untuk layanan emas dan gadai.",
-  "date": "6 September 2026",
-  "image": "assets/img/pegadaian-rayakan-hari-pelanggan-lewat-tring.jpg",
-  "imageV": "mtqbtcrj",
-  "tags": [
-   "Pegadaian",
-   "Tring!",
-   "Hari Pelanggan Nasional",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465321-hari-pelanggan-nasional-pegadaian-hadirkan-an-evening-with-pegadaian-dan-semangat-tenang-saja-bersama-tring"
- },
- {
-  "slug": "hill-pemegang-saham-stabil-free-float-tetap-30-68",
-  "category": "Aksi Korporasi",
-  "title": "HILL: Pemegang Saham Stabil, [Free Float] Tetap 30,68%",
-  "deck": "Laporan bulanan registrasi pemegang saham HILL periode Agustus 2026 menunjukkan tiga pemegang saham utama dan seluruh direksi tak berubah, sementara pemegang saham ritel di bawah 5 persen berkurang 11 akun.",
-  "date": "6 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HILL",
-   "pemegang saham",
-   "free float",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6335d073eb_fc45ce231f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "erupsi-anak-krakatau-kerugian-penerbangan-belum-dihitung",
-  "category": "Industri",
-  "title": "Erupsi Anak Krakatau, Kerugian Penerbangan [Belum] Dihitung",
-  "deck": "Enam bandara ditutup sejak dini hari akibat erupsi Gunung Anak Krakatau. Menhub sebut kerugian maskapai belum dihitung karena fokus masih ke penumpang.",
-  "date": "6 September 2026",
-  "image": "assets/img/erupsi-anak-krakatau-kerugian-penerbangan-belum-dihitung.jpg",
-  "imageV": "mtq13ncc",
-  "tags": [
-   "Anak Krakatau",
-   "penerbangan",
-   "Kemenhub",
-   "bandara ditutup"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465306-kerugian-penerbangan-akibat-erupsi-gunung-anak-krakatau-belum-dihitung-menhub-bilang-begini"
- },
- {
-  "slug": "bitcoin-tertahan-di-us-78-000-pasar-tunggu-sinyal-the-fed",
-  "category": "Pasar Modal",
-  "title": "Bitcoin [Tertahan] di US$78.000, Pasar Tunggu Sinyal The Fed",
-  "deck": "Bitcoin bertahan di sekitar US$78.000 usai gagal menembus US$80.000, sementara arus dana ETF dan sinyal The Fed jadi penentu arah berikutnya.",
-  "date": "6 September 2026",
-  "image": "assets/img/bitcoin-tertahan-di-us-78-000-pasar-tunggu-sinyal-the-fed.jpg",
-  "imageV": "mtpr4g5k",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465289-bitcoin-tertahan-di-us78000-pasar-cermati-sinyal-etf-dan-kebijakan-the-fed"
- },
- {
-  "slug": "avrist-group-satukan-empat-entitas-lewat-sinergi-baru",
-  "category": "Bisnis",
-  "title": "Avrist Group Satukan Empat Entitas Lewat [Sinergi] Baru",
-  "deck": "Avrist Group meresmikan One Avrist Synergy untuk menyatukan layanan asuransi jiwa, asuransi umum, manajer investasi, dan dana pensiun dalam satu sistem terintegrasi.",
-  "date": "6 September 2026",
-  "image": "assets/img/avrist-group-satukan-empat-entitas-lewat-sinergi-baru.jpg",
-  "imageV": "mtpr4gmv",
-  "tags": [
-   "Avrist Group",
-   "asuransi",
-   "dana pensiun",
-   "layanan keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465273-empat-pilar-avrist-group-disatukan-solusi-keuangan-terintegrasi-jadi-fokus-baru"
- },
- {
-  "slug": "diskon-pbb-p2-jakarta-5-berakhir-30-september",
-  "category": "Makroekonomi",
-  "title": "Diskon PBB-P2 Jakarta [5%] Berakhir 30 September",
-  "deck": "Bapenda DKI Jakarta mengingatkan batas akhir pembayaran PBB-P2 2026 pada 30 September, sebelum keringanan pokok 5 persen berakhir dan denda keterlambatan mulai berlaku.",
-  "date": "6 September 2026",
-  "image": "assets/img/diskon-pbb-p2-jakarta-5-berakhir-30-september.jpg",
-  "imageV": "mtpr4h1a",
-  "tags": [
-   "PBB-P2",
-   "Bapenda DKI Jakarta",
-   "pajak daerah",
-   "Jakarta"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465244-jangan-lewat-jatuh-tempo-keringanan-pbb-p2-5-masih-berlaku-hingga-akhir-september"
- },
- {
-  "slug": "dooh-rilis-ulang-kuartal-i-laba-usaha-berbalik-rugi",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Rilis Ulang Kuartal I, [Laba Usaha] Berbalik Rugi",
-  "deck": "Laporan keuangan interim kuartal I 2026 yang dikoreksi menunjukkan DOOH sebenarnya rugi usaha Rp6,01 miliar, sementara laba bersih ditopang pendapatan nonoperasional Rp10,94 miliar.",
-  "date": "6 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "laporan keuangan",
-   "Era Media Sejahtera",
-   "rugi usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260906145112-64368-0/FinancialStatement-2026-I-DOOH.pdf",
   "sourceLabel": "IDX"
  }
 ];

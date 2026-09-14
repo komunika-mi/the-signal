@@ -3,6 +3,240 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "atla-komisaris-jual-15-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Komisaris Jual 15 Juta Saham via [Repo]",
+  "deck": "Komisaris ATLA, Rudi R Sutantra, melepas 15 juta saham seharga Rp50 per lembar lewat skema repurchase agreement pada 14 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:48:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-0165-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATLA",
+  "tags": [
+   "ATLA",
+   "kepemilikan saham",
+   "Dewan Komisaris",
+   "repurchase agreement"
+  ],
+  "body": [
+   "Rudi R Sutantra, anggota Dewan Komisaris PT Atlantis Subsea Indonesia Tbk (ATLA), melaporkan kepada Otoritas Jasa Keuangan perubahan kepemilikan sahamnya per 14 September 2026. Jumlah sahamnya berkurang dari 2.696.254.200 lembar menjadi 2.681.254.200 lembar, turun 15 juta lembar. Akibatnya, hak suaranya di perusahaan turun dari 43,49 persen menjadi 43,25 persen.",
+   "Dalam laporan itu, transaksi tercatat sebagai penjualan tidak langsung melalui skema repurchase agreement, yaitu perjanjian jual beli saham yang bisa dibeli kembali oleh penjualnya. Saham yang dijual berjumlah 15.000.000 lembar saham biasa dengan harga Rp50 per saham, dieksekusi pada 14 Agustus 2026. Dokumen mencantumkan batas akhir periode pelaksanaan transaksi pada 19 Agustus 2026, sementara kolom tujuan transaksi dalam laporan tidak diisi.",
+   "Saham yang dilepas ini setara sekitar 0,56 persen dari total kepemilikan Rudi sebelum transaksi. Dengan hak suara yang masih di atas 43 persen setelah transaksi, posisinya sebagai salah satu pemegang saham dengan porsi kepemilikan terbesar di ATLA tidak berubah."
+  ],
+  "fotoAdegan": "Support vessel crew handling subsea cable spools on deck at an Indonesian offshore construction port, hazy afternoon light",
+  "takeaway": "Perubahan ini tergolong netral bagi ATLA karena saham yang dilepas Rudi Sutantra hanya sekitar 0,56 persen dari kepemilikannya sendiri, dan hak suaranya di perusahaan masih bertahan di atas 43 persen sehingga tidak mengubah posisinya sebagai pemegang saham mayoritas. Yang tersentuh dari transaksi ini adalah struktur kepemilikan dan hak suara pengendali, bukan kinerja keuangan perusahaan, tapi pelaku pasar tetap memperhatikan pergerakan saham milik direksi atau komisaris karena bisa mencerminkan pandangan orang dalam terhadap prospek perusahaan. Bentuk transaksinya juga bukan penjualan biasa, melainkan repurchase agreement, yakni perjanjian jual beli saham yang lazimnya memungkinkan penjual membeli kembali sahamnya di kemudian hari, sehingga sifatnya berbeda dari pelepasan saham yang final. Yang perlu dipantau selanjutnya adalah apakah akan muncul laporan kepemilikan baru dari Rudi Sutantra yang menunjukkan saham ini kembali ke tangannya, mengingat batas akhir periode pelaksanaan transaksi tercatat 19 Agustus 2026, sudah lewat dari tanggal laporan ini disampaikan pada 14 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mknt-seluruh-direksi-dan-komisaris-mundur-serentak",
+  "category": "Aksi Korporasi",
+  "title": "MKNT: Seluruh Direksi dan Komisaris [Mundur] Serentak",
+  "deck": "Empat direksi dan komisaris PT Mitra Komunikasi Nusantara Tbk, termasuk Direktur Utama dan Komisaris Utama, kompak mengundurkan diri efektif 10 September 2026 tanpa penjelasan alasan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:48:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b2115f2e8e_12887b556f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "pergantian direksi",
+   "komisaris",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk (MKNT) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 14 September 2026 bahwa seluruh jajaran direksi dan komisarisnya mengundurkan diri, efektif sejak 10 September 2026. Laporan yang ditandatangani Corporate Secretary Jefri Junaedi ini melampirkan empat surat pengunduran diri terpisah dari Direktur Utama Jefri Junaedi, Direktur Samuel Eben Heizer T, Komisaris Utama merangkap Komisaris Independen Irwan Raharja, dan Komisaris Muhamad Zidane Alfarizi.",
+   "Keempat surat berisi redaksi yang hampir sama. Masing-masing menyatakan pengunduran diri disampaikan dengan itikad baik, efektif 10 September 2026 atau tanggal lain sesuai anggaran dasar perseroan, dan yang bersangkutan bersedia menuntaskan serah terima tugas, dokumen, serta informasi kepada perusahaan sampai tanggal efektif tersebut. Tidak satu pun surat mencantumkan alasan di balik pengunduran diri ini.",
+   "Yang menarik, Jefri Junaedi yang dalam suratnya mundur dari jabatan Direktur Utama per 10 September 2026, justru tampil sebagai penanda tangan laporan ke OJK dan BEI empat hari kemudian dengan jabatan Corporate Secretary. Kolom dampak kejadian terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha dalam formulir resmi ini juga dibiarkan kosong, sehingga perusahaan belum menjelaskan bagaimana kekosongan direksi dan komisaris ini akan ditangani."
+  ],
+  "fotoAdegan": "Empty leather chairs around a polished boardroom table in a Jakarta office tower, soft morning light through blinds",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham karena seluruh jajaran direksi dan komisaris MKNT mundur bersamaan tanpa penjelasan alasan, menciptakan kekosongan kepemimpinan tepat sesudah RUPSLB pekan lalu batal melanjutkan agenda konversi utang dan suntikan modal yang sempat diharapkan menyehatkan keuangan perusahaan. Direksi menjalankan operasional harian dan komisaris mengawasi jalannya perusahaan, jadi kekosongan keduanya sekaligus bisa menghambat pengambilan keputusan penting, termasuk soal utang dan permodalan yang tengah dibahas. Perusahaan juga tidak mengisi kolom dampak kejadian dalam laporan resminya, sehingga investor belum tahu bagaimana MKNT menjaga kelangsungan operasional selama masa transisi ini. Yang perlu dipantau adalah RUPS pengganti untuk mengisi kursi direksi dan komisaris yang kosong, yang menurut aturan OJK harus digelar paling lambat 90 hari sejak pengunduran diri efektif, serta apakah MKNT akhirnya menjelaskan alasan di balik mundurnya seluruh jajaran ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "foru-lakukan-right-issue-danai-akuisisi-tambang-borneo-prima",
+  "category": "Aksi Korporasi",
+  "title": "FORU Lakukan [Right Issue], Danai Akuisisi Tambang Borneo Prima",
+  "deck": "Fortune Indonesia bakal menerbitkan saham baru lewat rights issue untuk menyetor 49 persen saham PT Borneo Prima secara inbreng, plus pinjaman modal kerja ke perusahaan tambang itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:48:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0919b6e104_f291641ea2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "Rights Issue",
+   "HMETD",
+   "Borneo Prima"
+  ],
+  "body": [
+   "Fortune Indonesia Tbk (FORU) menyampaikan keterbukaan informasi tentang rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD), atau biasa disebut rights issue. RUPS yang menyetujui rencana ini sudah digelar pada 22 Juli 2026, menyusul pengumuman RUPS pada 9 Juni 2026, sedangkan keterbukaan informasi resminya bertanggal 28 Juli 2026. Perseroan berencana menerbitkan saham baru sebanyak-banyaknya 215.096.316.400 lembar.",
+   "Dana hasil rights issue ini punya tujuan yang tidak biasa. Sebagian akan disetorkan dalam bentuk saham, bukan uang tunai, yaitu penyertaan Perseroan pada PT Borneo Prima (BP) sebanyak 10.780 saham Seri A milik pihak bernama IMR AH, setara 49 persen dari seluruh modal ditempatkan dan disetor BP. Sisa dana yang benar-benar diterima dari publik dalam bentuk uang akan disalurkan Perseroan sebagai pinjaman kepada BP, untuk membiayai sebagian modal kerja operasional pertambangan dan menunjang aktivitas produksi perusahaan tersebut.",
+   "Penilaian atas saham BP yang disetorkan secara inbreng ini dilakukan oleh penilai independen Willy D. Kusnanto dari Kantor Jasa Penilai Publik (KJPP) Kusnanto & Rekan, dengan tanggal penilaian 31 Maret 2026. Hasil pendapat kewajaran atas transaksi ini dinyatakan wajar.",
+   "Jadwal pelaksanaan lengkap sudah ditetapkan: pernyataan efektif dari OJK pada 11 September 2026, cum-right di pasar reguler dan negosiasi pada 21 September, ex-right pada 22 September, tanggal pencatatan pemegang saham yang berhak (recording date) pada 23 September, cum-right pasar tunai pada 23 September, ex-right pasar tunai pada 24 September, distribusi bukti hak (SBHMETD) dan prospektus pada 24 September, pencatatan HMETD di BEI pada 25 September, awal periode perdagangan dan pelaksanaan HMETD pada 25 September, awal periode penyerahan saham hasil pelaksanaan pada 28 September, akhir periode perdagangan dan pelaksanaan HMETD pada 6 Oktober, hari terakhir pembayaran pemesanan saham tambahan pada 7 Oktober, akhir periode penyerahan saham pada 8 Oktober, tanggal penjatahan pada 8 Oktober, dan tanggal pengembalian uang pemesanan pada 9 Oktober 2026."
+  ],
+  "fotoAdegan": "Excavators loading coal onto haul trucks at an open-pit mine in Indonesia, dust rising under bright daylight",
+  "takeaway": "Rencana ini condong negatif bagi pemegang saham lama, sebab penerbitan saham dalam jumlah sangat besar akan menambah jumlah saham beredar, sementara dana publik yang masuk sebagian besar tidak dipakai memperbaiki bisnis inti FORU yang belakangan merugi, melainkan disalurkan sebagai modal kerja ke perusahaan tambang yang baru disertakan. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, karena setiap saham baru memperbesar jumlah pemegang klaim atas laba Perseroan sehingga laba per saham berpotensi terdilusi, sementara komposisi ekuitas juga berubah karena sebagian modal disetor bukan dengan uang tunai melainkan saham PT Borneo Prima. Yang perlu dipantau berikutnya adalah masa perdagangan dan pelaksanaan HMETD pada 25 September hingga 6 Oktober 2026 serta tanggal penjatahan pada 8 Oktober 2026, karena dari situ akan terlihat seberapa besar dana tunai yang benar-benar terserap dari publik untuk disalurkan sebagai pinjaman ke BP.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "atla-komisaris-jual-5-juta-saham-lewat-skema-repo",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Komisaris Jual [5 Juta] Saham Lewat Skema Repo",
+  "deck": "Rudi R Sutantra, komisaris Atlantis Subsea Indonesia, melepas 5 juta saham lewat repurchase agreement, transaksi kedua beruntun setelah pelepasan 15 juta saham sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:45:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-6686-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATLA",
+  "tags": [
+   "ATLA",
+   "kepemilikan saham",
+   "komisaris",
+   "repurchase agreement"
+  ],
+  "body": [
+   "PT Atlantis Subsea Indonesia Tbk (ATLA) menerima laporan kepemilikan saham dari Rudi R Sutantra, anggota Dewan Komisaris perseroan, tertanggal 14 September 2026. Dalam laporan itu disebutkan, jumlah saham Rudi berkurang dari 2.701.254.200 lembar menjadi 2.696.254.200 lembar, atau turun 5.000.000 lembar. Akibatnya, hak suaranya di perseroan turun tipis dari 43,57 persen menjadi 43,49 persen.",
+   "Transaksi ini tercatat berjenis repurchase agreement atau perjanjian jual dengan opsi beli kembali, dengan status penjualan secara tidak langsung. Harga yang tercantum dalam laporan adalah Rp50 per saham untuk 5.000.000 saham biasa, dengan tanggal transaksi 13 Agustus 2026 dan batas akhir periode pelaksanaan pada 19 Agustus 2026.",
+   "Laporan ini menyusul transaksi sejenis yang sudah lebih dulu diberitakan, yakni pelepasan 15 juta saham oleh Rudi Sutantra yang setara 0,56 persen dari kepemilikannya saat itu. Dengan tambahan 5 juta saham kali ini, total saham yang dilepas Rudi dalam rangkaian transaksi terbaru mencapai 20 juta lembar."
+  ],
+  "fotoAdegan": "Technicians on a cable-laying ship's deck coiling thick underwater cable, harbor cranes and grey sky in the background",
+  "takeaway": "Laporan ini netral bagi ATLA karena porsi yang dilepas Rudi Sutantra kali ini cuma 0,185 persen dari kepemilikannya sendiri, dan hak suaranya di perseroan nyaris tidak bergeser dari 43,57 persen ke 43,49 persen, sehingga statusnya sebagai pemegang saham mayoritas tidak tergoyahkan. Yang perlu diperhatikan adalah pola berulangnya, sebab ini transaksi kedua dalam waktu berdekatan setelah pelepasan 15 juta saham sebelumnya, sehingga totalnya kini 20 juta lembar. Hak suara komisaris dan direksi dipantau pasar karena mencerminkan seberapa besar kendali dan keyakinan orang dalam terhadap perusahaan, dan pelepasan bertahap semacam ini biasa terjadi lewat skema repo yang memungkinkan saham dibeli kembali di kemudian hari. Batas akhir periode pelaksanaan repo yang tercantum, 19 Agustus 2026, sudah lewat, sehingga yang layak ditunggu adalah apakah ada laporan lanjutan soal penyelesaian atau pembelian kembali saham tersebut oleh Rudi Sutantra, serta apakah rangkaian pelepasan bertahap ini akan berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "atla-komisaris-jual-10-juta-saham-lagi-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Komisaris Jual 10 Juta Saham Lagi Lewat [Repo]",
+  "deck": "Rudi R Sutantra melaporkan penjualan 10 juta saham ATLA lewat skema repo pada 27 Juli 2026, laporan repo ketiganya yang diserahkan hari ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:41:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-4130-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATLA",
+  "tags": [
+   "ATLA",
+   "Rudi Sutantra",
+   "repo saham",
+   "komisaris"
+  ],
+  "body": [
+   "Komisaris PT Atlantis Subsea Indonesia Tbk (ATLA), Rudi R Sutantra, melaporkan penjualan 10 juta saham perusahaan melalui skema repurchase agreement atau repo, yaitu penjualan saham dengan janji dibeli kembali di kemudian hari. Berdasarkan laporan yang diserahkan ke Otoritas Jasa Keuangan pada 14 September 2026, transaksi tersebut terjadi pada 27 Juli 2026 dengan harga Rp50 per saham, dan batas akhir periode pelaksanaannya dicatat 30 Juli 2026. Setelah transaksi ini, kepemilikan Rudi di ATLA turun dari 2.711.254.200 lembar saham menjadi 2.701.254.200 lembar saham.",
+   "Perubahan ini juga menggeser hak suara Rudi di perseroan dari 43,73 persen menjadi 43,57 persen. Laporan ini adalah laporan ketiga soal transaksi repo saham Rudi yang diserahkan ATLA ke bursa pada hari yang sama, setelah sebelumnya perusahaan melaporkan penjualan 15 juta saham dan 5 juta saham dengan skema serupa. Dengan tambahan transaksi ini, total saham yang dilepas Rudi lewat skema repo hari ini mencapai 30 juta lembar, dan dokumen tidak menyebutkan tujuan dari transaksi tersebut."
+  ],
+  "fotoAdegan": "An offshore support vessel with cable-laying equipment on deck moving through calm open sea under an overcast sky.",
+  "takeaway": "Laporan ini netral bagi ATLA, sebab 10 juta saham yang dilepas hari ini hanya sekitar 0,37 persen dari kepemilikan Rudi Sutantra sendiri, terlalu kecil untuk dibaca sebagai sinyal perubahan sikap. Yang tersentuh adalah hak suara Rudi di ATLA, yang pada laporan ini turun dari 43,73 persen menjadi 43,57 persen, dan pelaku pasar memperhatikan angka ini karena menunjukkan seberapa besar kendali seorang pemegang saham utama atas keputusan perusahaan. Namun ini sudah laporan ketiga soal penjualan saham lewat skema repo, yakni jual saham dengan janji membeli kembali, yang diserahkan Rudi pada hari yang sama, dan totalnya kini mencapai 30 juta saham atau sekitar 1,1 persen dari kepemilikan awalnya, jumlah yang mulai signifikan meski pola semacam ini lazim dipakai pemegang saham besar untuk mencari pendanaan jangka pendek tanpa melepas kendali. Yang perlu dipantau selanjutnya adalah apakah saham-saham ini dibeli kembali oleh Rudi sesuai skema repo yang batas akhir pelaksanaannya jatuh pada 30 Juli 2026, atau justru berpindah tangan secara permanen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdla-pastikan-free-float-16-89-genjot-ekspor-medical-device",
+  "category": "Aksi Korporasi",
+  "title": "MDLA Pastikan Free Float 16,89%, Genjot [Ekspor] Medical Device",
+  "deck": "Dalam Public Expose Tahunan 2026, manajemen Medela Potentia memastikan porsi saham publik 16,89% dan memaparkan rencana perluasan bisnis medical device serta ekspor ke ASEAN dan Afrika.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:39:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f258f5f2d8_cb93def460.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLA",
+  "tags": [
+   "MDLA",
+   "Public Expose",
+   "Free Float",
+   "Medical Device"
+  ],
+  "body": [
+   "PT Medela Potentia Tbk (MDLA) menyampaikan koreksi atas laporan hasil Public Expose Tahunan 2026 yang sebelumnya dikirim pada 11 September 2026, dengan perbaikan nomor surat menjadi 050a/IX/DIR/MP/2026-E. Acara paparan publik sendiri berlangsung Selasa, 8 September 2026 pukul 15.00 sampai 16.00 WIB secara daring melalui idx.co.id, dihadiri Direktur Utama Juliwaty, Direktur Edbert Orotodan, Direktur Wimala Widjaja, Investor Relations Harris Lesmana, serta 68 peserta dari kalangan analis, investor, dan media.",
+   "Dalam sesi tanya jawab, manajemen menegaskan belum ada rencana rights issue atau penambahan modal dengan hak memesan efek terlebih dahulu. Soal porsi saham publik, manajemen menyebut angka free float perseroan saat ini sebesar 16,89 persen, sudah melampaui ketentuan minimum bursa sebesar 15 persen yang harus dipenuhi hingga batas waktu 31 Maret 2028. Perseroan mengaku akan terus memantau komposisi kepemilikan saham agar ketentuan itu tetap terjaga sampai tenggat tersebut.",
+   "Soal kinerja, manajemen mengonfirmasi penurunan marjin kotor dari 9,6 persen menjadi 9,3 persen pada semester pertama 2026 disebabkan perubahan bauran produk, kondisi pasar, dan tingkat persaingan, tanpa merinci porsi kontribusi masing-masing faktor secara angka. Di sisi lain, segmen medical device tercatat tumbuh sekitar 34 persen pada periode yang sama, ditopang kenaikan cakupan distribusi 12 persen dan output produksi 8 persen. Perseroan berencana meluncurkan 4 sampai 5 merek baru di kategori perawatan luka dan alat kamar operasi, serta memperluas ekspor yang saat ini baru menjangkau Kamboja dan Timor-Leste ke kawasan ASEAN dan Afrika, di samping memperkuat bisnis digital melalui GoApotik dan unit usaha Dynamic Argon Cambodia."
+  ],
+  "fotoAdegan": "Workers assembling medical equipment components on an assembly line in a bright Indonesian factory, packaged boxes stacked nearby for shipment",
+  "takeaway": "Laporan ini condong positif bagi Medela Potentia karena manajemen memastikan porsi saham beredar di publik sudah 16,89 persen, melampaui batas minimum 15 persen yang ditetapkan bursa, sekaligus melaporkan pertumbuhan penjualan medical device sekitar 34 persen pada semester pertama 2026 tanpa rencana rights issue yang bisa menambah jumlah saham beredar dan mengecilkan laba per saham. Porsi saham publik ini penting dipantau karena kalau sampai turun di bawah ketentuan, emiten berisiko kena sanksi bursa dan sahamnya bisa makin tidak likuid diperdagangkan. Sementara itu, penjelasan soal turunnya marjin kotor dari 9,6 persen ke 9,3 persen masih bersifat umum, manajemen hanya menyebut faktor bauran produk dan persaingan tanpa merinci angka pastinya seperti yang sempat ditanyakan investor. Yang perlu dipantau selanjutnya adalah realisasi peluncuran 4 sampai 5 merek baru di kategori perawatan luka dan alat kamar operasi, perluasan ekspor ke ASEAN dan Afrika, serta konsistensi porsi saham publik menjelang batas waktu 31 Maret 2028.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tapg-direksi-george-oetomo-lepas-net-550-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi George Oetomo Lepas Net [550.000] Saham",
+  "deck": "Direksi TAPG George Oetomo menjual 800.000 saham lalu membeli balik 250.000 saham dalam dua hari, kepemilikannya turun bersih 550.000 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:31:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-8217-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "kepemilikan saham",
+   "direksi",
+   "Triputra Agro Persada"
+  ],
+  "body": [
+   "George Oetomo, salah satu direksi PT Triputra Agro Persada Tbk (TAPG), melaporkan perubahan kepemilikan sahamnya kepada Otoritas Jasa Keuangan pada 14 September 2026. Menurut laporan tersebut, ia menjual 800.000 saham TAPG secara tidak langsung pada 9 September 2026 seharga Rp2.410 per saham dengan tujuan divestasi, senilai sekitar Rp1,93 miliar. Sehari kemudian, pada 10 September 2026, ia membeli kembali 250.000 saham dengan harga Rp2.310 per saham untuk tujuan investasi, senilai sekitar Rp577,5 juta.",
+   "Setelah kedua transaksi itu, jumlah saham George Oetomo di TAPG berkurang bersih 550.000 lembar, dari 51.006.100 lembar menjadi 50.456.100 lembar. Perubahan ini menggeser hak suaranya di perusahaan dari 0,2569 persen menjadi 0,2542 persen. Dibandingkan dengan total kepemilikannya sebelum transaksi, jumlah saham yang berkurang setara 1,08 persen.",
+   "Laporan ini muncul beberapa hari setelah seorang komisaris TAPG melaporkan penjualan 431.200 saham senilai sekitar Rp1 miliar pada 11 September 2026. Kedua transaksi berasal dari pihak yang berbeda dan dilaporkan terpisah ke OJK, sesuai kewajiban keterbukaan bagi direksi dan komisaris perusahaan terbuka setiap kali kepemilikan saham mereka berubah."
+  ],
+  "fotoAdegan": "Wide view of a palm oil plantation with workers loading harvested fruit bunches onto a truck, warm afternoon light",
+  "takeaway": "Laporan ini netral bagi TAPG karena porsi saham yang dilepas bersih oleh George Oetomo hanya sekitar 1,08 persen dari kepemilikan pribadinya, dan hampir tidak mengubah hak suaranya di perusahaan, dari 0,2569 persen menjadi 0,2542 persen. Transaksi ini juga dua arah, ada penjualan untuk divestasi dan pembelian balik untuk investasi, sehingga sulit dibaca sebagai sinyal keyakinan atau kekhawatiran satu arah terhadap prospek perusahaan. Karena jual beli ini terjadi di pasar sekunder antar investor dan bukan penerbitan saham baru, jumlah saham beredar TAPG secara keseluruhan tidak berubah, sehingga laba per saham perusahaan tidak ikut terdilusi. Yang perlu dipantau adalah apakah pola pelaporan transaksi kecil oleh jajaran direksi dan komisaris TAPG ini berlanjut dalam beberapa pekan ke depan, mengingat seorang komisaris perusahaan juga baru melaporkan penjualan saham pada 11 September 2026, karena rangkaian transaksi kecil yang berulang dari banyak pihak bisa lebih berarti ketimbang satu laporan tunggal.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baja-komisaris-ibnu-susanto-tambah-saham-hak-suara-ke-17-07",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Komisaris [Ibnu Susanto] Tambah Saham, Hak Suara ke 17,07%",
+  "deck": "Komisaris Ibnu Susanto menambah kepemilikan saham BAJA lewat sejumlah transaksi di pasar pada April 2026, menaikkan hak suaranya menjadi 17,07 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:28:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-8980-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "kepemilikan saham",
+   "komisaris",
+   "hak suara"
+  ],
+  "body": [
+   "Ibnu Susanto, anggota Dewan Komisaris Saranacentral Bajatama Tbk (BAJA), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perseroan bertambah dari 296.016.000 lembar menjadi 307.195.500 lembar, atau naik 11.179.500 lembar. Hak suaranya di perseroan ikut naik dari 16,45 persen menjadi 17,07 persen. Laporan bertanggal 14 September 2026 ini disampaikan sesuai kewajiban keterbukaan berdasarkan POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka.",
+   "Menurut rincian transaksi dalam dokumen, penambahan saham berlangsung bertahap sepanjang April 2026. Ibnu tercatat membeli 630.000 saham pada 1 April seharga Rp606 per lembar, lalu menjual 10.000 saham pada hari yang sama seharga Rp150 per lembar. Pembelian berlanjut pada 2 April sebanyak 960.000 saham seharga Rp614 per lembar, 14 April sebanyak 1.740.000 saham seharga Rp474, 15 April sebanyak 2.240.000 saham seharga Rp658, 17 April sebanyak 2.350.000 saham seharga Rp825, dan 20 April sebanyak 3.269.500 saham seharga Rp1.467 per lembar. Seluruh transaksi tercatat dengan tujuan investasi.",
+   "Dalam laporan itu, Ibnu juga menyatakan berstatus sebagai pengendali perseroan dan menyatakan akan mempertahankan status pengendalian tersebut. Laporan disampaikan sendiri oleh yang bersangkutan tanpa kuasa kepada pihak lain."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting steel coils on a warehouse production line, industrial cranes overhead, artificial lighting",
+  "takeaway": "Laporan ini condong positif bagi BAJA, karena komisaris yang berstatus pengendali menambah kepemilikannya secara bertahap sepanjang April 2026 alih-alih melepasnya, dan penambahan 11,18 juta saham itu setara 3,78 persen dari kepemilikannya sendiri sehingga cukup besar untuk dibaca sebagai sinyal keyakinan, bukan sekadar transaksi kecil. Transaksi ini murni jual beli di pasar sekunder antar pemegang saham lama, jadi tidak menambah kas ke perusahaan maupun mengubah jumlah total saham beredar BAJA, beda dengan penerbitan saham baru yang bisa menggerus laba per saham pemegang lama. Yang berubah hanya komposisi kepemilikan dan hak suara sang komisaris, dari 16,45 persen menjadi 17,07 persen, dan ini penting karena makin besar hak suara pengendali, makin kuat posisinya dalam keputusan strategis seperti RUPS. Yang perlu dipantau selanjutnya adalah apakah pola penambahan saham oleh komisaris ini berlanjut, terutama karena BAJA tengah berjalan dengan agenda rights issue yang sebelumnya diberitakan terkait sengketa tanah Sarana Steel, sehingga pergerakan kepemilikan pengendali menjelang aksi korporasi itu layak diikuti.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "smfp-angkat-budi-susanto-jadi-direktur-utama-baru",
+  "category": "Aksi Korporasi",
+  "title": "SMFP Angkat Budi Susanto Jadi [Direktur Utama] Baru",
+  "deck": "Kementerian Keuangan selaku pemegang saham mengangkat Budi Susanto sebagai Direktur Utama SMFP, menggantikan Ananta Wiyogo yang sebelumnya menjabat pelaksana tugas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:00:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e44eb4f439_f239e28d1c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMFP",
+  "tags": [
+   "SMFP",
+   "direksi",
+   "BUMN",
+   "pergantian direktur utama"
+  ],
+  "body": [
+   "Menteri Keuangan Republik Indonesia selaku pemegang saham PT Sarana Multigriya Finansial (Persero) atau SMFP menetapkan perubahan susunan direksi perusahaan, efektif berlaku sejak 10 September 2026. Ananta Wiyogo diberhentikan dengan hormat dari jabatan Pelaksana Tugas Direktur Utama, dan posisinya digantikan oleh Budi Susanto yang diangkat sebagai Direktur Utama definitif.",
+   "Dengan perubahan ini, susunan direksi SMFP menjadi Budi Susanto sebagai Direktur Utama, Heliantopo sebagai Pelaksana Tugas Direktur, dan Bonai Subiakto sebagai Direktur. Dalam surat kepada Bursa Efek Indonesia bernomor S-2106/DIR/SMF/IX/2026 yang ditandatangani Bonai Subiakto selaku Direktur Keuangan dan Manajemen Risiko, perusahaan menyebutkan bahwa hingga laporan ini disampaikan pada 11 September 2026, SMFP belum menerima salinan resmi Keputusan Menteri Keuangan tentang perubahan direksi tersebut karena masih diproses secara internal di Kementerian Keuangan.",
+   "Perusahaan menyatakan perubahan direksi ini tidak berdampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha SMFP."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with leather chairs around a long table, soft morning light through glass windows",
+  "takeaway": "Pergantian ini netral bagi fundamental SMFP, karena yang terjadi adalah peralihan dari status pelaksana tugas menjadi definitif, tanpa ada indikasi masalah kinerja atau sengketa tata kelola di baliknya. Perubahan direksi tidak langsung mengubah ekuitas atau arus kas perusahaan, tapi kredibilitas dan stabilitas jajaran direksi tetap relevan bagi SMFP sebagai penerbit obligasi, karena investor pemegang surat utang turut menilai kemampuan bayar perusahaan dari soliditas manajemennya. Yang perlu dipantau selanjutnya adalah terbitnya salinan resmi Keputusan Menteri Keuangan yang hingga laporan ini disampaikan belum diterima perseroan, serta status Heliantopo yang untuk saat ini masih berstatus pelaksana tugas direktur, bukan direktur definitif.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "petani-diduga-diminta-tebusan-rp150-juta-untuk-alsintan",
   "category": "Bisnis",
   "title": "Petani Diduga Diminta Tebusan [Rp150 Juta] untuk Alsintan",
@@ -29,6 +263,59 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "takeaway": "Yang benar-benar baru di sini baru sebatas perintah lisan menteri dan pembukaan saluran pengaduan Lapor Pak Amran, bukan penetapan tersangka atau proses hukum yang sudah berjalan atas kasus Rp150 juta di Banggai. Pihak yang berpotensi terdampak adalah petani calon penerima bantuan alsintan di berbagai daerah, terutama yang selama ini menahan diri mengajukan proposal karena takut dimintai uang, serta oknum di rantai penyaluran bantuan yang diduga terlibat. Ada dua kemungkinan arah dari sini: kasus Banggai berlanjut menjadi penyidikan dengan tersangka yang diumumkan sehingga menjadi preseden nyata, atau berhenti sebagai pernyataan keras tanpa proses hukum yang terlihat publik, seperti pola pada sejumlah kasus pungli yang sempat ramai lalu tidak ada kabar lanjutan. Penanda arah yang perlu ditunggu adalah apakah kepolisian Banggai mengumumkan hasil pengusutan, dan apakah saluran pengaduan itu benar-benar menghasilkan laporan yang ditindaklanjuti dalam beberapa minggu mendatang.",
   "imageV": "mu0jt6bh"
+ },
+ {
+  "slug": "foru-kantongi-restu-ojk-rights-issue-inbreng-rp20-8-triliun",
+  "category": "Aksi Korporasi",
+  "title": "FORU Kantongi Restu OJK, Rights Issue [Inbreng] Rp20,8 Triliun",
+  "deck": "FORU menyerahkan prospektus resmi rights issue Rp27,1 triliun. Pengendali IMR Asia Holding menyetor 49% saham Borneo Prima senilai Rp20,8 triliun, bukan uang tunai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T08:08:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4bf4620c56_4cabb5d4ac.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "HMETD",
+   "Borneo Prima"
+  ],
+  "body": [
+   "Fortune Indonesia Tbk (FORU) menyampaikan Prospektus Ringkas final kepada bursa setelah dokumen itu mendapat persetujuan Otoritas Jasa Keuangan, sehubungan dengan Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu I (PMHMETD I) atau rights issue. Perseroan menawarkan sebanyak-banyaknya 215.096.316.400 saham baru bernilai nominal Rp100 per saham dengan harga pelaksanaan Rp126 per saham. Setiap pemegang 100 saham lama yang tercatat pada 23 September 2026 pukul 16.00 WIB berhak atas 46.235 HMETD, dan dana yang bisa diperoleh Perseroan dari aksi ini maksimal Rp27,1 triliun. Perdagangan HMETD berlangsung 25 September sampai 6 Oktober 2026, dengan pencatatan saham baru di bursa pada 25 September 2026.",
+   "Bagian terbesar dari dana itu bukan uang tunai. IMR Asia Holding Pte Ltd, pemegang 357.342.600 saham atau 76,81 persen dan sekaligus pengendali FORU, menyatakan akan melaksanakan 165.216.755.166 dari haknya sebanyak 165.217.351.110 HMETD dengan cara inbreng, yakni menyetorkan aset selain uang. Aset yang diserahkan adalah 49 persen dari seluruh modal ditempatkan dan disetor PT Borneo Prima, setara 10.780 saham Seri A, dengan nilai Rp20.817.311.151.042 atau sekitar Rp20,8 triliun. Rencana ini sudah disetujui dalam RUPSLB 22 Juli 2026 sebagaimana tercatat dalam Akta Berita Acara Rapat No. 104 di hadapan notaris Mala Mukti.",
+   "Dokumen juga memerinci dampak transaksi terhadap struktur pemegang saham. Saat ini, berdasarkan Daftar Pemegang Saham per 31 Juli 2026, komposisinya adalah IMR Asia Holding 357.342.600 saham (76,81 persen), PT Karya Citra Prima 53.722.000 saham (11,55 persen), dan masyarakat 54.159.400 saham (11,64 persen). Jika seluruh pemegang saham publik ikut melaksanakan haknya, proporsi kepemilikan tidak berubah. Namun jika publik sama sekali tidak berpartisipasi, porsi mereka anjlok menjadi hanya 0,06 persen sementara IMR Asia Holding naik menjadi 99,94 persen, dengan dilusi maksimum bagi pemegang saham yang tidak ikut serta mencapai 99,79 persen. Perseroan juga mencantumkan risiko utama berupa ketergantungan pada kegiatan usaha entitas anak."
+  ],
+  "fotoAdegan": "Heavy excavators loading coal onto haul trucks at a dusty open-pit mine in Kalimantan under an overcast sky",
+  "takeaway": "Laporan ini menegaskan penilaian negatif yang sudah kami sampaikan sebelumnya, karena rights issue ini sebagian besar bukan uang segar. Dari target dana Rp27,1 triliun, sekitar Rp20,8 triliun di antaranya akan dibayar pengendali FORU bukan dengan uang tunai, melainkan dengan menyerahkan 49 persen saham PT Borneo Prima, sehingga kas yang benar-benar masuk ke Perseroan jauh lebih kecil dari nilai emisi yang tertulis di atas kertas. Yang tersentuh langsung adalah jumlah saham beredar dan ekuitas Perseroan, sebab penerbitan hingga 215 miliar saham baru akan menambah modal disetor sekaligus menekan laba per saham bagi pemegang saham lama yang tidak ikut menambah modal. Bagi investor publik, risikonya konkret, porsi kepemilikan mereka bisa terjun dari 23,19 persen menjadi hanya 0,06 persen kalau tidak menggunakan haknya, sementara pengendali bisa menguasai hingga 99,94 persen perusahaan. Yang perlu dipantau berikutnya adalah periode pelaksanaan HMETD pada 25 September sampai 6 Oktober 2026 serta batas akhir pembayaran pesanan saham tambahan pada 7 Oktober 2026, karena dari situ baru terlihat seberapa besar pemegang saham publik yang benar-benar ikut serta.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "foru-umumkan-jadwal-rights-issue-rp27-1-t-dilusi-99-79",
+  "category": "Aksi Korporasi",
+  "title": "FORU Umumkan Jadwal Rights Issue Rp27,1 T, Dilusi [99,79%]",
+  "deck": "Fortune Indonesia (FORU) menetapkan jadwal rights issue hingga Rp27,1 triliun, harga Rp126 per saham. Pemegang saham non-partisipan bisa terdilusi hingga 99,79 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T08:07:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f3af967f21_227e591471.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "Fortune Indonesia",
+   "rights issue",
+   "dilusi saham"
+  ],
+  "body": [
+   "Fortune Indonesia Tbk (FORU) menyampaikan prospektus ringkas dan jadwal resmi penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I atau rights issue). Perseroan menawarkan sebanyak-banyaknya 215.096.316.400 saham baru bernilai nominal Rp100 per saham, setara 99,79 persen dari modal disetor perseroan setelah aksi ini rampung. Setiap pemegang 100 saham lama yang namanya tercatat dalam Daftar Pemegang Saham pada 23 September 2026 pukul 16.00 WIB berhak atas 46.235 HMETD, dan setiap satu HMETD bisa ditukar dengan satu saham baru seharga Rp126. Jika seluruh jatah terserap, dana maksimum yang masuk ke perseroan mencapai Rp27,1 triliun. Otoritas Jasa Keuangan menyatakan efektif atas pernyataan pendaftaran ini pada 11 September 2026.",
+   "Bagian terbesar dari rights issue ini tidak berupa uang tunai. IMR Asia Holding Pte Ltd, pemegang saham pengendali FORU dengan porsi 76,81 persen atau 357.342.600 saham, melalui surat pernyataan 20 Juli 2026 berkomitmen melaksanakan 165.216.755.166 dari 165.217.351.110 HMETD miliknya dengan cara inbreng, yakni menyetor aset bukan uang tunai. Aset yang disetorkan adalah 10.780 saham Seri A milik IMR Asia Holding di PT Borneo Prima, setara 49 persen dari seluruh modal ditempatkan dan disetor perusahaan tersebut, dengan nilai yang disepakati Rp20.817.311.151.042. Rencana penerbitan saham baru ini telah disetujui RUPSLB pada 22 Juli 2026 sebagaimana tertuang dalam akta notaris Mala Mukti nomor 104.",
+   "Jadwal pentingnya sebagai berikut: perdagangan saham dengan hak (cum-right) di pasar reguler dan negosiasi berakhir 21 September 2026, di pasar tunai 23 September 2026. Pencatatan HMETD di Bursa Efek Indonesia dilakukan 25 September 2026, dan periode perdagangan serta pelaksanaan HMETD berlangsung 25 September hingga 6 Oktober 2026. Pembayaran pesanan saham tambahan paling lambat diterima 7 Oktober 2026, penjatahan dilakukan 8 Oktober 2026, dan pengembalian dana kelebihan pemesanan pada 9 Oktober 2026.",
+   "Perseroan menegaskan pemegang saham yang tidak melaksanakan haknya berisiko mengalami dilusi maksimum 99,79 persen setelah periode pelaksanaan HMETD selesai. Dalam skenario masyarakat penuh berpartisipasi, porsi IMR Asia Holding tetap 76,81 persen. Namun jika masyarakat sama sekali tidak ikut, porsi publik yang kini 23,19 persen bisa tergerus menjadi hanya 0,06 persen, sementara IMR Asia Holding naik menjadi 99,94 persen. Dokumen juga menyebut risiko utama perseroan adalah ketergantungan pada kegiatan usaha entitas anak."
+  ],
+  "fotoAdegan": "Heavy mining trucks hauling earth at a dusty open-pit coal mine in Kalimantan, workers in safety vests, overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama FORU, karena skala dilusinya termasuk yang paling ekstrem, sampai 99,79 persen bagi yang tidak ikut serta, dan sebagian besar setoran justru datang dari pemegang saham pengendali sendiri dalam bentuk aset tambang, bukan uang tunai segar dari publik. Yang tersentuh adalah jumlah saham beredar, yang bisa melonjak dari 465,2 juta menjadi ratusan miliar lembar, sehingga laba per saham berpotensi semakin terdilusi meski ini terjadi di tengah kinerja FORU yang belakangan sudah memburuk, dengan rugi yang melonjak dan pendapatan yang anjlok. Nilai ekuitas perseroan secara nominal akan membengkak karena masuknya aset 49 persen kepemilikan di PT Borneo Prima senilai Rp20,8 triliun, namun valuasi itu ditentukan sendiri oleh pihak yang bertransaksi sehingga layak dicermati kewajarannya. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 23 September 2026 pukul 16.00 WIB yang menentukan siapa berhak atas HMETD, periode pelaksanaan haknya hingga 6 Oktober 2026, dan tanggal penjatahan 8 Oktober 2026 yang akan memperlihatkan struktur kepemilikan final perseroan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "brics-dorong-pembentukan-bursa-gandum-bersama",

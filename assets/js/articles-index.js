@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "idx-aktifkan-kembali-short-selling-mulai-15-september",
+  "category": "Aksi Korporasi",
+  "title": "IDX Aktifkan Kembali [Short Selling] Mulai 15 September",
+  "deck": "BEI memberlakukan kembali pembiayaan transaksi short selling mulai 15 September 2026, menyusul arahan bertahap dari OJK setelah sempat ditunda sejak 2025.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDX",
+   "short selling",
+   "OJK",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Short Selling Peng-00168-No. Peng-00168BEI.POP09-2026.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tcpi-angkat-komisaris-utama-baru-isi-kursi-lama-kosong",
+  "category": "Aksi Korporasi",
+  "title": "TCPI Angkat [Komisaris] Utama Baru, Isi Kursi Lama Kosong",
+  "deck": "RUPSLB TCPI menyetujui Ade Supandi sebagai Komisaris Utama merangkap Independen, mengisi kursi yang sebelumnya kosong, serta Haru Koesmahargyo sebagai Komisaris Independen baru.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TCPI",
+   "Transcoal Pacific",
+   "Dewan Komisaris",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ce5c74d9d_92f2cc028c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sini-divestasi-54-saham-ikn-senilai-rp31-8-miliar",
   "category": "Aksi Korporasi",
   "title": "SINI [Divestasi] 54% Saham IKN Senilai Rp31,8 Miliar",
@@ -18,6 +50,38 @@ var ARTICLES = [
    "portofolio investasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ea94f58653_0f4d0460e6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgeo-catatkan-saham-baru-dari-pelaksanaan-mesop",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catatkan Saham Baru dari Pelaksanaan [MESOP]",
+  "deck": "PGEO mencatatkan 2.185.709 saham baru hasil pelaksanaan opsi karyawan MESOP Tahap I dan III pada 14 September 2026, menambah total saham beredar menjadi 41,92 miliar.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "saham baru",
+   "Pertamina Geothermal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1a9afc7b7d_af90fe6183.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inet-cetak-74-232-saham-baru-dari-konversi-waran",
+  "category": "Aksi Korporasi",
+  "title": "INET Cetak 74.232 Saham Baru dari Konversi [Waran]",
+  "deck": "Bursa mencatat 74.232 saham baru INET hasil konversi waran seri II, efektif diperdagangkan 15 September 2026, sehingga total saham beredar menjadi 22.377.753.318 lembar.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "waran",
+   "saham baru",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0834881137_c8af13962d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -150,6 +214,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "byan-nyatakan-force-majeure-rkab-anak-usaha-belum-terbit",
+  "category": "Aksi Korporasi",
+  "title": "BYAN Nyatakan [Force Majeure], RKAB Anak Usaha Belum Terbit",
+  "deck": "Bayan Resources dan tiga anak usahanya menyatakan force majeure atas kewajiban pasokan batu bara karena revisi RKAB 2026 belum disetujui pemerintah.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "force majeure",
+   "RKAB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a347393c9_05f5002a56.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupslb-kota-bahas-rights-issue-dan-akuisisi-dua-perusahaan",
   "category": "Aksi Korporasi",
   "title": "RUPSLB KOTA Bahas [Rights Issue] dan Akuisisi Dua Perusahaan",
@@ -183,6 +263,54 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467051-telkom-solution-sabet-penghargaan-business-impact-industry-growth-untuk-market-b2b-ict-di-indonesia"
  },
  {
+  "slug": "rans-direktur-grandy-prajayakti-mundur-rupslb-setujui",
+  "category": "Aksi Korporasi",
+  "title": "RANS: Direktur Grandy Prajayakti [Mundur], RUPSLB Setujui",
+  "deck": "RUPSLB RANS menyetujui pengunduran diri Direktur Grandy Prajayakti dengan pelepasan tanggung jawab penuh, disetujui hampir bulat oleh pemegang saham yang hadir.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RANS",
+   "RUPSLB",
+   "Direksi",
+   "Pergantian Direktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/02edaae353_fbfed34945.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-9-waran-rhb-kedaluwarsa-tanpa-nilai-eraa-cair",
+  "category": "Aksi Korporasi",
+  "title": "DR: 9 Waran RHB Kedaluwarsa Tanpa Nilai, [ERAA] Cair",
+  "deck": "Sepuluh waran terstruktur RHB Sekuritas berkode DR jatuh tempo 14 September 2026. Sembilan berakhir tanpa nilai, hanya pemegang waran ERAA yang menerima uang tunai.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "ERAA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/87d8b08e53_0a9c8026b5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-waran-heal-dan-hrum-rhb-kedaluwarsa-tanpa-nilai",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran HEAL dan HRUM RHB [Kedaluwarsa] Tanpa Nilai",
+  "deck": "RHB Sekuritas menghentikan perdagangan 10 waran terstruktur seri Penerbitan ke-33 pada 14 September 2026. Dua di antaranya, HEAL dan HRUM, dipastikan tidak membayar apa pun kepada pemegangnya.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fa731e0364_9d212c7d77.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "koci-jelaskan-ke-bursa-rencana-penuhi-free-float-minimum",
   "category": "Aksi Korporasi",
   "title": "KOCI Jelaskan ke Bursa Rencana Penuhi [Free Float] Minimum",
@@ -212,6 +340,22 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b2f0b56ffe_c6e1b96175.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pssi-lepas-saham-treasuri-85-juta-lembar-mulai-21-september",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Lepas Saham Treasuri [85 Juta] Lembar Mulai 21 September",
+  "deck": "PT IMC Pelita Logistik akan menjual hingga 85 juta saham treasuri lewat pasar negosiasi BEI pada 21 September-21 Oktober 2026, digarap Danatama Makmur Sekuritas.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "buyback",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a590898da2_a5d0e6c2b5.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6346,154 +6490,6 @@ var ARTICLES = [
    "buyback saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5a376b9f5d_fb1792acac.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-rombak-bisnis-pecah-jadi-lima-segmen-usaha",
-  "category": "BUMN",
-  "title": "Telkom Rombak Bisnis, Pecah Jadi [Lima] Segmen Usaha",
-  "deck": "Telkom memecah bisnisnya menjadi lima segmen sebagai bagian transformasi TLKM 30, menuju struktur holding yang lebih transparan bagi investor.",
-  "date": "7 September 2026",
-  "image": "assets/img/telkom-rombak-bisnis-pecah-jadi-lima-segmen-usaha.jpg",
-  "imageV": "mtrald4l",
-  "tags": [
-   "Telkom",
-   "TLKM 30",
-   "restrukturisasi bisnis",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465503-jaga-momentum-pertumbuhan-ini-strategi-telkom-tingkatkan-nilai-tambah-dari-bisnis-infrastruktur-digital"
- },
- {
-  "slug": "goto-jadwalkan-rupslb-pada-14-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "GOTO Jadwalkan [RUPSLB] pada 14 Oktober 2026",
-  "deck": "GoTo Gojek Tokopedia akan menggelar RUPSLB pada 14 Oktober 2026, dengan pemegang saham yang tercatat per 21 September 2026 berhak hadir dan memberi suara.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GOTO",
-   "RUPSLB",
-   "GoTo Gojek Tokopedia",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/003351c5b2_eac6908a6e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemenkeu-ajukan-anggaran-rp49-80-triliun-untuk-2027",
-  "category": "Makroekonomi",
-  "title": "Kemenkeu Ajukan Anggaran [Rp49,80 Triliun] untuk 2027",
-  "deck": "Menkeu Purbaya Yudhi Sadewa mengajukan pagu anggaran Kementerian Keuangan tahun 2027 sebesar Rp49,80 triliun ke Komisi XI DPR RI.",
-  "date": "7 September 2026",
-  "image": "assets/img/kemenkeu-ajukan-anggaran-rp49-80-triliun-untuk-2027.jpg",
-  "imageV": "mtraldme",
-  "tags": [
-   "Kemenkeu",
-   "APBN 2027",
-   "Purbaya Yudhi Sadewa",
-   "Komisi XI DPR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465500-purbaya-minta-anggaran-rp4980-triliun-untuk-kemenkeu-tahun-2027"
- },
- {
-  "slug": "buka-kreatif-media-karya-tambah-kepemilikan-ke-45-68",
-  "category": "Aksi Korporasi",
-  "title": "BUKA: Kreatif Media Karya Tambah [Kepemilikan] ke 45,68%",
-  "deck": "Kreatif Media Karya membeli 803,3 juta saham Bukalapak senilai sekitar Rp101,2 miliar pada 4 September 2026, menaikkan hak suaranya dari 44,90% menjadi 45,68%.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUKA",
-   "Bukalapak",
-   "kepemilikan saham",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-8071-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smfp-siapkan-dana-pelunasan-obligasi-rp260-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SMFP Siapkan Dana [Pelunasan] Obligasi Rp260 Miliar",
-  "deck": "SMF menyiapkan dana Rp256 miliar plus bunga Rp4,048 miliar dalam bentuk deposito untuk melunasi obligasi SMFP07BCN2 yang jatuh tempo 20 Oktober 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMFP",
-   "obligasi",
-   "SMF",
-   "pelunasan obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97f0c2a79c_2326a4b68c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ojk-terima-30-328-aduan-keuangan-ilegal-hingga-agustus-2026",
-  "category": "Perbankan",
-  "title": "OJK Terima [30.328] Aduan Keuangan Ilegal hingga Agustus 2026",
-  "deck": "OJK mencatat 30.328 aduan entitas keuangan ilegal hingga Agustus 2026, sementara IASC menerima 668.441 laporan penipuan dengan kerugian korban Rp206 miliar sejak beroperasi November 2024.",
-  "date": "7 September 2026",
-  "image": "assets/img/ojk-terima-30-328-aduan-keuangan-ilegal-hingga-agustus-2026.jpg",
-  "imageV": "mtralelm",
-  "tags": [
-   "OJK",
-   "keuangan ilegal",
-   "pinjol ilegal",
-   "IASC"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465488-aduan-keuangan-ilegal-membeludak-ojk-catat-30328-laporan-hingga-agustus-2026"
- },
- {
-  "slug": "rlco-direksi-tambah-saham-hak-suara-naik-ke-6-57",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi [Tambah] Saham, Hak Suara Naik ke 6,57%",
-  "deck": "Direksi RLCO menambah 6,67 juta saham senilai sekitar Rp10 miliar, menaikkan hak suara dari 6,36% menjadi 6,57%.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan saham",
-   "direksi",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-4982-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpr-soroti-sistem-desil-yang-hambat-akses-kip-kuliah",
-  "category": "Makroekonomi",
-  "title": "DPR Soroti Sistem [Desil] yang Hambat Akses KIP Kuliah",
-  "deck": "Anggota Komisi X DPR Bonnie Triyana menilai sistem desil menyulitkan mahasiswa miskin dapat KIP Kuliah, mencontohkan kasus di Unpad.",
-  "date": "7 September 2026",
-  "image": "assets/img/dpr-soroti-sistem-desil-yang-hambat-akses-kip-kuliah.jpg",
-  "imageV": "mtralf0l",
-  "tags": [
-   "dpr",
-   "kip kuliah",
-   "desil",
-   "bonnie triyana"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465494-dpr-cuma-di-indonesia-orang-miskin-pakai-kasta-miskin-1-miskin-2"
- },
- {
-  "slug": "aces-laba-bersih-1h26-naik-33-jadi-rp390-miliar-kinerja",
-  "category": "Aksi Korporasi",
-  "title": "ACES: Laba Bersih 1H26 Naik 33% jadi Rp390 Miliar [Kinerja]",
-  "deck": "Materi public expose tahunan AHI menunjukkan penjualan semester I 2026 naik 6,3% dan laba bersih melonjak 33,3% menjadi Rp390 miliar, dengan posisi kas bersih terjaga.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ACES",
-   "AHI",
-   "ritel",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cd9bd3ac8d_e8fd045b33.pdf",
   "sourceLabel": "IDX"
  }
 ];

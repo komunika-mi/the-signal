@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "idx-aktifkan-kembali-short-selling-mulai-15-september",
+  "category": "Aksi Korporasi",
+  "title": "IDX Aktifkan Kembali [Short Selling] Mulai 15 September",
+  "deck": "BEI memberlakukan kembali pembiayaan transaksi short selling mulai 15 September 2026, menyusul arahan bertahap dari OJK setelah sempat ditunda sejak 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T19:57:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Short Selling Peng-00168-No. Peng-00168BEI.POP09-2026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDX",
+  "tags": [
+   "IDX",
+   "short selling",
+   "OJK",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mengumumkan pemberlakuan kembali implementasi pembiayaan transaksi short selling dan transaksi short selling oleh perusahaan efek, berlaku mulai 15 September 2026. Keputusan ini menindaklanjuti surat Otoritas Jasa Keuangan (OJK) nomor S-113/D.04/2026 tanggal 9 September 2026 tentang penetapan kebijakan batasan auto rejection, kebijakan trading halt, dan implementasi short selling. Dalam suratnya, OJK mengarahkan BEI untuk menjalankan implementasi pembiayaan transaksi short selling secara bertahap, dengan tetap memperhatikan kesiapan infrastruktur, mitigasi risiko yang memadai, dan efektivitas pengawasan.",
+   "Langkah ini membalik kebijakan penundaan yang sebelumnya berlaku berdasarkan surat OJK nomor S-101/D.04/2025 tanggal 17 September 2025 dan surat OJK nomor S-9/D.04/2026 tanggal 13 Maret 2026, yang keduanya menunda implementasi pembiayaan transaksi short selling, kebijakan trading halt, dan batasan auto rejection. BEI sendiri sempat menerbitkan pengumuman lanjutan soal penundaan ini pada 16 Maret 2026.",
+   "BEI menyatakan akan menerbitkan Daftar Efek Short Selling, sebagaimana diatur dalam ketentuan III.2 Peraturan Bursa Nomor II-H tentang Persyaratan dan Perdagangan Efek dalam Transaksi Margin dan Transaksi Short Selling, pada 28 September 2026. Daftar tersebut baru berlaku efektif pada periode Oktober 2026. Pengumuman per 14 September 2026 ini ditandatangani oleh Direktur Irvan Susandy dan Direktur Iding Pardi."
+  ],
+  "fotoAdegan": "Exterior view of a glass office skyscraper in Jakarta's financial district, busy street traffic below, clear midday sky.",
+  "takeaway": "Pengumuman ini netral bagi pasar, karena sifatnya mengaktifkan kembali mekanisme yang sempat ditunda sejak September 2025, bukan mengubah kondisi keuangan emiten tertentu secara langsung. Yang tersentuh bukan pos laporan keuangan satu perusahaan, melainkan likuiditas dan mekanisme pembentukan harga di pasar sekunder, karena short selling memungkinkan investor meminjam saham lalu menjualnya dengan harapan membeli kembali di harga yang lebih rendah, sehingga pasar punya alat tambahan untuk merespons saham yang dianggap kemahalan. Pelaku pasar perlu mencermati bahwa dampaknya baru terasa nyata setelah BEI menerbitkan Daftar Efek Short Selling pada 28 September 2026, yang menentukan saham mana saja yang bisa ditransaksikan lewat mekanisme ini, dengan efektif berlaku pada periode Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tcpi-angkat-komisaris-utama-baru-isi-kursi-lama-kosong",
+  "category": "Aksi Korporasi",
+  "title": "TCPI Angkat [Komisaris] Utama Baru, Isi Kursi Lama Kosong",
+  "deck": "RUPSLB TCPI menyetujui Ade Supandi sebagai Komisaris Utama merangkap Independen, mengisi kursi yang sebelumnya kosong, serta Haru Koesmahargyo sebagai Komisaris Independen baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T19:38:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ce5c74d9d_92f2cc028c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TCPI",
+  "tags": [
+   "TCPI",
+   "Transcoal Pacific",
+   "Dewan Komisaris",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Transcoal Pacific Tbk (TCPI) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Jumat, 11 September 2026, yang menyetujui perubahan susunan Dewan Komisaris perusahaan pelayaran ini. Sebelum perubahan, kursi Komisaris Utama sekaligus Komisaris Independen berstatus kosong, sementara posisi Komisaris diisi oleh Aditya Paruliangui dan Budiman Kostaman.",
+   "Dalam rapat tersebut, pemegang saham menyetujui dua keputusan. Pertama, mengangkat Ade Supandi, SE sebagai Komisaris Utama sekaligus Komisaris Independen, efektif sejak rapat ditutup. Kedua, mengangkat Haru Koesmahargyo sebagai Komisaris Independen baru, juga efektif sejak penutupan rapat.",
+   "Dengan keputusan ini, susunan Dewan Komisaris TCPI menjadi lengkap empat orang, yaitu Ade Supandi sebagai Komisaris Utama merangkap Komisaris Independen, Haru Koesmahargyo sebagai Komisaris Independen, serta Aditya Paruliangui dan Budiman Kostaman sebagai Komisaris. Masa jabatan susunan baru ini berlaku sampai penutupan Rapat Umum Pemegang Saham Tahunan yang akan digelar pada 2028, kecuali RUPS memutuskan lain sebelum itu."
+  ],
+  "fotoAdegan": "Tugboats and small cargo vessels docked at a busy Indonesian seaport, cranes loading containers under hazy morning light",
+  "takeaway": "Laporan ini netral bagi fundamental TCPI karena isinya murni pergantian pengurus, tanpa transaksi keuangan, penerbitan saham baru, atau perubahan utang yang memengaruhi neraca perusahaan. Yang tersentuh di sini adalah kualitas tata kelola, bukan angka keuangan, karena Komisaris Independen bertugas mengawasi direksi mewakili kepentingan pemegang saham publik dan tidak boleh terafiliasi dengan pemegang saham pengendali atau manajemen. Sebelumnya kursi Komisaris Utama kosong sehingga fungsi pengawasan independen itu belum lengkap, dan pelaku pasar biasanya memperhatikan siapa yang mengisi kursi semacam ini karena berkaitan dengan bagaimana keputusan-keputusan besar perusahaan nantinya diawasi. Yang perlu dipantau selanjutnya adalah kinerja Dewan Komisaris baru ini sepanjang masa jabatannya, yang berlaku sejak penutupan RUPSLB 11 September 2026 hingga penutupan RUPS Tahunan pada 2028, kecuali ada perubahan susunan lagi sebelum tenggat tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "sini-divestasi-54-saham-ikn-senilai-rp31-8-miliar",
   "category": "Aksi Korporasi",
   "title": "SINI [Divestasi] 54% Saham IKN Senilai Rp31,8 Miliar",
@@ -26,6 +78,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Stacks of sawn timber logs at a rural sawmill yard, workers moving planks, overcast tropical afternoon",
   "takeaway": "Laporan ini netral bagi SINI: pelepasan 54 persen saham IKN memang bernilai Rp31,8 miliar, tapi dokumen tidak menyebut untuk apa dana itu akan dipakai, sementara kontribusi laba atau rugi IKN terhadap perseroan selama ini juga tidak diungkap, sehingga belum bisa dinilai untung ruginya secara bersih. Yang tersentuh adalah arus kas, karena Rp31,8 miliar masuk sebagai dana segar ke kas perseroan, dan juga neraca konsolidasi, karena IKN yang tadinya dikuasai mayoritas kini lepas dari laporan keuangan gabungan sehingga aset dan pendapatan dari lini bisnis kayu ini tak lagi tercatat di pembukuan SINI. Investor perlu memantau laporan keuangan kuartal berikutnya untuk melihat ke mana dana Rp31,8 miliar ini dialirkan, terutama karena perseroan belakangan juga mengurus rights issue untuk melunasi utang bank dan proses akuisisi tambang batu bara, sehingga pelepasan IKN ini kemungkinan satu rangkaian dengan pergeseran fokus bisnis SINI dari kayu ke batu bara.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgeo-catatkan-saham-baru-dari-pelaksanaan-mesop",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catatkan Saham Baru dari Pelaksanaan [MESOP]",
+  "deck": "PGEO mencatatkan 2.185.709 saham baru hasil pelaksanaan opsi karyawan MESOP Tahap I dan III pada 14 September 2026, menambah total saham beredar menjadi 41,92 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T19:25:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1a9afc7b7d_af90fe6183.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "saham baru",
+   "Pertamina Geothermal"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan tambahan saham baru PT Pertamina Geothermal Energy Tbk (PGEO) hasil pelaksanaan opsi program MESOP atau Management Employee Stock Option Program, yaitu skema pemberian hak beli saham kepada manajemen dan karyawan dengan harga tertentu. Saham baru mulai tercatat dan diperdagangkan pada 14 September 2026, terdiri dari 2.130.830 saham dari pelaksanaan Tahap I dan 54.879 saham dari pelaksanaan Tahap III, atau total 2.185.709 saham baru.",
+   "Dengan tambahan ini, total saham beredar PGEO naik dari 41.917.125.947 saham menjadi 41.919.311.656 saham. Berdasarkan surat PT Datindo Entrycom selaku biro administrasi efek PGEO tertanggal 11 September 2026, penerbitan saham baru itu merupakan realisasi atas permohonan perseroan tanggal 10 September 2026. Surat tersebut juga ditembuskan kepada Muhammad Taufik selaku Corporate Secretary PGEO.",
+   "Dokumen bursa juga mencatat sisa opsi yang belum dilaksanakan pemegangnya, yaitu 32.871.387 saham untuk Tahap I dan 126.079.600 saham untuk Tahap III. Opsi Tahap II tidak ada pelaksanaan pada periode ini."
+  ],
+  "fotoAdegan": "Steam rising from geothermal power plant cooling towers on a forested highland slope at dawn, mist drifting slowly",
+  "takeaway": "Laporan ini netral bagi PGEO karena tambahan saham baru hanya sekitar 0,005 persen dari total saham beredar, terlalu kecil untuk mengubah peta kepemilikan atau hak suara pemegang saham lama. Yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu keuntungan perusahaan yang dibagi rata ke setiap lembar saham, karena setiap tambahan saham baru membuat porsi laba per lembar sedikit terdilusi meski dalam kasus ini dampaknya nyaris tidak terasa. Yang perlu dipantau ke depan adalah sisa opsi MESOP yang masih besar, yakni 32,9 juta saham di Tahap I dan 126 juta saham di Tahap III, karena setiap kali pemegangnya melaksanakan haknya, jumlah saham beredar PGEO akan bertambah lagi secara bertahap.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inet-cetak-74-232-saham-baru-dari-konversi-waran",
+  "category": "Aksi Korporasi",
+  "title": "INET Cetak 74.232 Saham Baru dari Konversi [Waran]",
+  "deck": "Bursa mencatat 74.232 saham baru INET hasil konversi waran seri II, efektif diperdagangkan 15 September 2026, sehingga total saham beredar menjadi 22.377.753.318 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T19:23:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0834881137_c8af13962d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "waran",
+   "saham baru",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan pencatatan tambahan saham PT Sinergi Inti Andalan Prima Tbk (INET) hasil konversi Waran Seri II (INET-W2) sebanyak 74.232 lembar. Dengan tambahan itu, total saham INET yang tercatat di bursa menjadi 22.377.753.318 lembar, efektif dicatatkan dan mulai diperdagangkan pada 15 September 2026. Sisa Waran Seri II yang belum dikonversi tercatat 2.296.973.271 unit.",
+   "Rincian proses konversi berasal dari dua laporan biro administrasi efek, PT Ficomindo Buana Registrar, yang ditandatangani Direktur Jimmi Maulana Sidik. Pada 10 September 2026, tercatat pelaksanaan waran menjadi saham sebanyak 48.936 lembar, sehingga saldo saham naik dari 22.377.679.086 menjadi 22.377.728.022 lembar. Sehari berikutnya, 11 September 2026, terjadi tambahan konversi 25.296 lembar saham lagi, membawa saldo menjadi 22.377.753.318 lembar, angka yang sama dengan yang dicatatkan bursa dalam pengumuman ini.",
+   "Sisa 2.296.973.271 unit Waran Seri II yang belum dilaksanakan setara sekitar 10,3 persen dari total saham INET saat ini, sehingga masih berpotensi menambah jumlah saham beredar apabila pemegang waran menggunakan haknya di kemudian hari."
+  ],
+  "fotoAdegan": "Wide view of a modern glass office tower district in Jakarta with morning light and light street traffic below",
+  "takeaway": "Laporan ini netral bagi INET, sebab penambahan 74.232 saham dari konversi waran hanya setara 0,0003 persen dari total saham yang sudah beredar, jauh terlalu kecil untuk mengubah struktur kepemilikan atau dibaca sebagai sinyal apa pun. Yang tersentuh dari aksi ini adalah jumlah saham beredar, yaitu total lembar saham perusahaan yang dipakai untuk menghitung laba per saham; makin banyak saham beredar, makin kecil porsi laba yang jatuh ke setiap lembar. Yang lebih perlu diperhatikan investor justru sisa 2,29 miliar Waran Seri II yang belum dikonversi, setara sekitar 10,3 persen dari saham INET saat ini, karena itu adalah potensi dilusi lanjutan kalau seluruh pemegang waran menukarkannya menjadi saham. Yang perlu dipantau berikutnya adalah mulai berlakunya pencatatan dan perdagangan saham baru ini pada 15 September 2026, serta laporan konversi waran susulan dari PT Ficomindo Buana Registrar dalam periode-periode berikutnya, mengingat sisa waran yang masih besar.",
   "sentimen": "netral"
  },
  {
@@ -240,6 +344,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "byan-nyatakan-force-majeure-rkab-anak-usaha-belum-terbit",
+  "category": "Aksi Korporasi",
+  "title": "BYAN Nyatakan [Force Majeure], RKAB Anak Usaha Belum Terbit",
+  "deck": "Bayan Resources dan tiga anak usahanya menyatakan force majeure atas kewajiban pasokan batu bara karena revisi RKAB 2026 belum disetujui pemerintah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:30:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a347393c9_05f5002a56.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "force majeure",
+   "RKAB"
+  ],
+  "body": [
+   "Bayan Resources (BYAN) melalui tiga anak usahanya, PT Tiwa Abadi (TA), PT Tanur Jaya (TJ), dan PT Fajar Sakti Prima (FSP), pada 11 September 2026 menyampaikan pemberitahuan keadaan kahar atau force majeure kepada para pelanggannya atas kewajiban penyediaan batu bara berdasarkan Perjanjian Penyediaan Batu Bara (Coal Supply Agreement). Keterbukaan informasi ini disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 14 September 2026, ditandatangani oleh Corporate Secretary sekaligus Direktur, Jenny Quantero.",
+   "Force majeure ini dipicu oleh belum terbitnya persetujuan revisi Rencana Kerja dan Anggaran Biaya (RKAB) Tahun 2026 untuk ketiga anak usaha tersebut, meski permohonan perubahan RKAB sudah diajukan sesuai ketentuan perundang-undangan yang berlaku. Tanpa persetujuan RKAB, anak-anak usaha Bayan tidak bisa menjalankan kegiatan produksi batu bara secara sah, sehingga memengaruhi kemampuan perusahaan memenuhi kewajiban pasokan kepada para pelanggannya.",
+   "Dalam dokumen itu, Bayan menyebut kondisi ini menimbulkan dampak yang cukup material terhadap kelangsungan usaha perseroan. Perusahaan menyatakan berharap pemberitahuan force majeure ini dapat meminimalisir risiko dan konsekuensi bagi Bayan dan anak-anak usahanya, meski dokumen tidak merinci nilai kontrak yang terdampak maupun tenggat waktu penyelesaian RKAB."
+  ],
+  "fotoAdegan": "Coal stockpiles and idle heavy excavators at an open-pit mining site in Kalimantan, overcast sky, distant workers in safety vests.",
+  "takeaway": "Ini sinyal negatif bagi Bayan, karena perusahaan sendiri menyebut dampaknya cukup material terhadap kelangsungan usaha: tiga anak usahanya belum bisa memproduksi batu bara secara sah karena izin RKAB revisi belum turun, sampai harus mengumumkan force majeure, yaitu klausul yang melepaskan kewajiban kontrak akibat keadaan di luar kendali perusahaan, kepada para pembeli batu baranya. Pos yang tersentuh adalah arus kas dan pendapatan penjualan batu bara, karena kontrak pasokan yang seharusnya menghasilkan uang masuk jadi tertunda selama produksi anak usaha belum bisa berjalan. Yang perlu dipantau berikutnya adalah kapan pemerintah menerbitkan persetujuan revisi RKAB 2026 untuk Tiwa Abadi, Tanur Jaya, dan Fajar Sakti Prima, karena itu yang menentukan kapan produksi dan pengiriman batu bara bisa kembali normal, sementara dokumen ini belum mencantumkan tenggat waktunya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "rupslb-kota-bahas-rights-issue-dan-akuisisi-dua-perusahaan",
   "category": "Aksi Korporasi",
   "title": "RUPSLB KOTA Bahas [Rights Issue] dan Akuisisi Dua Perusahaan",
@@ -294,6 +424,84 @@ var ARTICLES = [
   "imageV": "mu16dn78"
  },
  {
+  "slug": "rans-direktur-grandy-prajayakti-mundur-rupslb-setujui",
+  "category": "Aksi Korporasi",
+  "title": "RANS: Direktur Grandy Prajayakti [Mundur], RUPSLB Setujui",
+  "deck": "RUPSLB RANS menyetujui pengunduran diri Direktur Grandy Prajayakti dengan pelepasan tanggung jawab penuh, disetujui hampir bulat oleh pemegang saham yang hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:13:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/02edaae353_fbfed34945.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RANS",
+  "tags": [
+   "RANS",
+   "RUPSLB",
+   "Direksi",
+   "Pergantian Direktur"
+  ],
+  "body": [
+   "PT Rans Entertainmen Indonesia Tbk (RANS) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Kamis, 10 September 2026, pukul 11.23 hingga 11.39 WIB, di RANS Office Building, Komplek Bumi Serpong Damai, Tangerang Selatan, serta secara daring melalui sistem eASY.KSEI. Rapat dihadiri pemegang saham dan kuasanya yang mewakili 10.086.143.500 saham atau 79,99 persen dari total saham berhak suara, sehingga kuorum terpenuhi. Satu-satunya agenda rapat adalah persetujuan perubahan susunan anggota Direksi Perseroan.",
+   "Keputusan utama rapat adalah menyetujui dan menerima pengunduran diri Grandy Prajayakti dari jabatannya sebagai Direktur Perseroan, sesuai surat pengunduran diri tertanggal 22 Juli 2026, efektif sejak rapat ditutup. Perseroan turut memberikan pelepasan dan pembebasan tanggung jawab penuh (acquit de charge) kepada Grandy atas seluruh tindakannya selama menjabat, sepanjang bukan tindak pidana dan tercermin dalam laporan tahunan Perseroan. Rapat juga memberi kuasa kepada Direksi untuk menandatangani dokumen dan menyampaikan pemberitahuan ke instansi berwenang terkait pelaksanaan keputusan ini.",
+   "Hasil pemungutan suara menunjukkan 10.086.098.200 suara setuju, 38.200 suara tidak setuju, dan 7.100 suara abstain, sehingga usulan disahkan dengan suara mayoritas mutlak. Dengan pengunduran diri ini, susunan Direksi Perseroan yang tersisa adalah Nagita Slavina Mariana Tengker sebagai Direktur Utama, Abrar dan Rumunggu Yokonapita sebagai Direktur, dengan masa jabatan hingga 2 Maret 2031. Dewan Komisaris tidak berubah, tetap diisi Darwin Cyril Noerhadi sebagai Komisaris Utama dan Ambono Janurianto sebagai Komisaris Independen."
+  ],
+  "fotoAdegan": "Modern office building entrance in a suburban Tangerang business park, employees walking through the lobby, soft midday light",
+  "takeaway": "Laporan ini netral bagi fundamental RANS, karena yang berubah hanya susunan pengurus, bukan angka keuangan perseroan. Pergantian direksi memang tidak langsung menyentuh pos seperti ekuitas, arus kas, atau laba per saham, tapi tetap dipantau pasar karena kepemimpinan yang berubah bisa memengaruhi arah eksekusi strategi bisnis ke depan. Perlu dicatat, dokumen ini tidak menyebut nama pengganti sehingga Direksi RANS kini beranggotakan tiga orang, berkurang satu dari sebelumnya. Yang perlu dipantau selanjutnya adalah apakah Perseroan akan mengumumkan penunjukan direktur baru untuk mengisi kekosongan itu, serta bagaimana tindakan Grandy Prajayakti selama menjabat tercermin dalam laporan tahunan mendatang sebagai syarat pelepasan tanggung jawabnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-9-waran-rhb-kedaluwarsa-tanpa-nilai-eraa-cair",
+  "category": "Aksi Korporasi",
+  "title": "DR: 9 Waran RHB Kedaluwarsa Tanpa Nilai, [ERAA] Cair",
+  "deck": "Sepuluh waran terstruktur RHB Sekuritas berkode DR jatuh tempo 14 September 2026. Sembilan berakhir tanpa nilai, hanya pemegang waran ERAA yang menerima uang tunai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:13:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/87d8b08e53_0a9c8026b5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "ERAA"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia, penerbit waran terstruktur dengan kode emiten DR, mengumumkan pelaksanaan sepuluh waran terstruktur jenis call warrant pada 14 September 2026, merujuk prospektus tanggal 18 Oktober 2024 dan term sheet tanggal 2 April 2026. Sejak tanggal itu, seluruh waran tersebut tidak lagi bisa diperdagangkan di Bursa Efek Indonesia. Sepuluh waran ini masing-masing mengacu pada saham ACES, AMMN, BMRI, ARTO, BSDE, BRMS, BUKA, CTRA, EMTK, dan ERAA, dengan jumlah unit yang diterbitkan berkisar antara 250 juta hingga 1 miliar per seri.",
+   "Nilai yang diterima pemegang waran ditentukan dengan membandingkan harga pelaksanaan (strike price) terhadap harga penyelesaian, yaitu rata-rata harga penutupan saham acuan selama lima hari bursa sebelum 14 September 2026. Sembilan dari sepuluh waran berakhir dengan harga penyelesaian di bawah harga pelaksanaannya, sehingga jumlah penyelesaian tunainya negatif dan pemegang waran tidak berhak atas pembayaran apa pun. Rinciannya: ACES (harga pelaksanaan Rp502, harga penyelesaian Rp354), AMMN (Rp7.500 berbanding Rp4.732), ARTO (Rp2.000 berbanding Rp1.014), BMRI (Rp5.512 berbanding Rp4.388), BRMS (Rp990 berbanding Rp699), BSDE (Rp950 berbanding Rp648), BUKA (Rp148 berbanding Rp111), CTRA (Rp843 berbanding Rp625), dan EMTK (Rp1.150 berbanding Rp509).",
+   "Satu-satunya pengecualian adalah waran ERAA, dengan harga pelaksanaan Rp419 dan harga penyelesaian Rp592, lebih tinggi dari harga pelaksanaannya. Dengan rasio pelaksanaan 3,7268, jumlah penyelesaian tunai per waran ERAA setara sekitar Rp46,4, atau ditotal sekitar Rp23,2 miliar jika seluruh 500 juta unit yang diterbitkan masih beredar saat jatuh tempo. Dana ini akan dibayarkan pada hari bursa ketiga sejak tanggal pelaksanaan, disalurkan KPEI ke KSEI lalu diteruskan ke rekening masing-masing investor pemegang rekening KSEI."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's SCBD business district at dusk, illuminated windows, wide street-level view",
+  "takeaway": "Laporan ini netral bagi RHB Sekuritas sebagai penerbit waran, karena hasilnya murni keluaran rumus matematis berdasarkan harga pasar saham acuan pada lima hari bursa terakhir, bukan cerminan keputusan atau kinerja RHB sendiri. Yang tersentuh di sini adalah arus kas RHB sebagai penerbit waran, yaitu kewajiban bayar tunai jika harga saham acuan di atas harga pelaksanaan, dan karena sembilan dari sepuluh warannya berakhir di bawah harga pelaksanaan, kewajiban bayar RHB nyaris nihil sementara pemegang sembilan waran itu kehilangan seluruh modal yang mereka bayarkan untuk membeli waran tersebut, bukan sahamnya sendiri. Yang perlu dipantau berikutnya adalah realisasi pembayaran dana penyelesaian waran ERAA pada hari bursa ketiga sejak 14 September 2026, saat KSEI mendistribusikan dana dari KPEI ke rekening efek masing-masing pemegang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-waran-heal-dan-hrum-rhb-kedaluwarsa-tanpa-nilai",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran HEAL dan HRUM RHB [Kedaluwarsa] Tanpa Nilai",
+  "deck": "RHB Sekuritas menghentikan perdagangan 10 waran terstruktur seri Penerbitan ke-33 pada 14 September 2026. Dua di antaranya, HEAL dan HRUM, dipastikan tidak membayar apa pun kepada pemegangnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:13:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fa731e0364_9d212c7d77.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "BEI"
+  ],
+  "body": [
+   "RHB Sekuritas Indonesia, penerbit waran terstruktur berkode broker DR, mengumumkan pada 14 September 2026 pukul 17.13 bahwa 10 waran terstruktur seri Penerbitan ke-33 mencapai tanggal pelaksanaan dan sejak tanggal itu tidak lagi bisa diperdagangkan di Bursa Efek Indonesia. Daftar lengkapnya beserta harga pelaksanaan dan jumlah unit yang beredar: Call Warrant HEAL DR (HEALDRCU6A) harga pelaksanaan Rp1.700 sejumlah 400 juta unit, HRUM DR (HRUMDRCU6A) Rp1.450 sejumlah 500 juta unit, INKP DR (INKPDRCU6A) Rp11.875 sejumlah 250 juta unit, JSMR DR (JSMRDRCU6A) Rp4.174 sejumlah 300 juta unit, MAPA DR (MAPADRCU6A) Rp900 sejumlah 700 juta unit, PANI DR (PANIDRCU6A) Rp14.000 sejumlah 300 juta unit, PGEO DR (PGEODRCU6A) Rp1.522 sejumlah 400 juta unit, PNLF DR (PNLFDRCU6A) Rp320 sejumlah 600 juta unit, SMRA DR (SMRADRCU6A) Rp408 sejumlah 500 juta unit, dan WIFI DR (WIFIDRCU6A) Rp4.100 sejumlah 400 juta unit.",
+   "Dari daftar itu, RHB sudah merilis hasil perhitungan penyelesaian tunai untuk dua kode, yaitu HEAL dan HRUM, dan keduanya berakhir tanpa nilai. Untuk HEALDRCU6A, harga penyelesaian yang dihitung dari rata-rata harga penutupan saham HEAL selama lima hari bursa terakhir tercatat Rp678, jauh di bawah harga pelaksanaan Rp1.700, sehingga selisihnya minus Rp1.022 per unit sebelum dibagi rasio pelaksanaan 10. Untuk HRUMDRCU6A, harga penyelesaian saham HRUM tercatat Rp943, juga di bawah harga pelaksanaan Rp1.450, dengan selisih minus Rp507 per unit sebelum dibagi rasio pelaksanaan 12. Karena harga penyelesaian di bawah harga pelaksanaan, pemegang kedua waran ini tidak berhak menerima pembayaran apa pun.",
+   "Dengan tambahan HEAL dan HRUM, jumlah waran DR yang dipastikan kedaluwarsa tanpa nilai pada 14 September 2026 menjadi 11 kode, menyusul sembilan kode lain yaitu ACES, AMMN, ARTO, BMRI, BRMS, BSDE, BUKA, CTRA, dan EMTK yang sudah diberitakan sebelumnya. Satu-satunya waran yang membayar dari seluruh rangkaian ini sejauh ini adalah ERAA, karena harga penyelesaian sahamnya Rp592 masih di atas harga pelaksanaan Rp419. Hasil penyelesaian untuk enam kode sisanya dalam daftar Penerbitan ke-33, yaitu INKP, JSMR, MAPA, PANI, PGEO, dan SMRA serta PNLF dan WIFI, belum dirilis RHB dalam dokumen ini."
+  ],
+  "fotoAdegan": "Wide shot of a stock exchange lobby with distant blurred ticker displays, professionals walking briskly past in business attire, morning light",
+  "takeaway": "Laporan ini netral, sebab hasilnya murni keluaran rumus baku dan tidak mengubah apa pun di neraca RHB Sekuritas selaku penerbit waran maupun di kinerja sepuluh emiten yang sahamnya dijadikan acuan. Waran terstruktur semacam ini adalah kontrak turunan yang diterbitkan sekuritas, bukan saham baru dari emiten acuan, sehingga kedaluwarsanya tidak menambah jumlah saham beredar, tidak mengubah ekuitas, dan tidak menyentuh laba per saham HEAL, HRUM, atau delapan emiten lain yang namanya dipakai. Yang perlu dipantau berikutnya adalah dua hal: pembayaran tunai untuk pemegang waran ERAA yang jatuh tempo pada hari bursa ketiga sejak 14 September 2026, dan penerbitan hasil penyelesaian untuk enam waran sisa dalam seri Penerbitan ke-33, yakni INKP, JSMR, MAPA, PANI, PGEO, PNLF, SMRA, dan WIFI, yang sampai saat ini belum diumumkan RHB.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "koci-jelaskan-ke-bursa-rencana-penuhi-free-float-minimum",
   "category": "Aksi Korporasi",
   "title": "KOCI Jelaskan ke Bursa Rencana Penuhi [Free Float] Minimum",
@@ -344,6 +552,32 @@ var ARTICLES = [
   "fotoAdegan": "Investors in a busy Jakarta brokerage lobby watching a distant, blurred stock price board, afternoon light through large windows",
   "takeaway": "Surat ini netral bagi fundamental MGNA karena isinya sebatas konfirmasi rutin bahwa tidak ada fakta material baru, bukan pengumuman kinerja atau aksi korporasi. Permintaan penjelasan seperti ini lazim muncul ketika harga atau volume perdagangan saham bergerak tidak wajar, dan pelaku pasar mencermatinya karena bisa jadi indikasi ada pihak yang bertransaksi berdasarkan informasi yang belum terbuka ke publik, meski di sini tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang berubah akibat surat ini. Yang perlu dipantau selanjutnya adalah apakah volatilitas harga saham MGNA berlanjut dalam waktu dekat, sebab jika berulang, BEI dapat kembali meminta penjelasan atau menetapkan status pemantauan khusus terhadap perdagangan sahamnya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pssi-lepas-saham-treasuri-85-juta-lembar-mulai-21-september",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Lepas Saham Treasuri [85 Juta] Lembar Mulai 21 September",
+  "deck": "PT IMC Pelita Logistik akan menjual hingga 85 juta saham treasuri lewat pasar negosiasi BEI pada 21 September-21 Oktober 2026, digarap Danatama Makmur Sekuritas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:07:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a590898da2_a5d0e6c2b5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "buyback",
+   "IDX"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) mengumumkan rencana pengalihan kembali sebagian saham treasuri hasil pembelian kembali saham (buyback) melalui penjualan di Bursa Efek Indonesia dengan mekanisme pasar negosiasi. Perseroan akan melepas sebanyak-banyaknya 85.000.000 saham treasuri, mulai 21 September 2026 hingga 21 Oktober 2026, dengan PT Danatama Makmur Sekuritas ditunjuk sebagai anggota bursa pelaksana penjualan.",
+   "Saham yang akan dijual berasal dari periode ketiga program buyback yang rampung pada 30 September 2025, yakni 116.600.700 saham dengan harga rata-rata Rp347 per saham, menyerap dana Rp40,44 miliar. Secara keseluruhan sejak 2021 hingga 2025, PSSI telah menjalankan tiga periode buyback dengan total 324.365.400 saham: periode pertama 167.596.800 saham di harga rata-rata Rp358 per saham, di mana 28.491.400 saham di antaranya sudah dialihkan lewat program kepemilikan saham karyawan (MESOP), dan periode kedua 40.167.900 saham di harga rata-rata Rp629 per saham. Setelah rencana penjualan 85 juta saham ini, Perseroan masih menyisakan 295.874.000 saham treasuri yang belum dialihkan.",
+   "Harga penjualan akan mengikuti ketentuan Peraturan OJK Nomor 29/2023 tentang Pembelian Kembali Saham yang Dikeluarkan oleh Perusahaan Terbuka. Keterbukaan informasi ini disampaikan untuk memenuhi kewajiban Pasal 35 ayat (1) beleid tersebut, menyusul buyback yang sebelumnya dilaksanakan berdasarkan Surat OJK Nomor S-17/D.04/2025 tanggal 18 Maret 2025 mengenai kebijakan pembelian kembali saham di tengah kondisi pasar yang berfluktuasi signifikan."
+  ],
+  "fotoAdegan": "A cargo ship being loaded at a busy Indonesian seaport, gantry cranes lifting containers, hazy afternoon light",
+  "takeaway": "Rencana pelepasan hingga 85 juta saham treasuri ini condong negatif bagi pemegang saham, karena menambah pasokan saham yang beredar di pasar dalam waktu relatif singkat, sekitar sebulan, sementara ukurannya tidak kecil, sekitar 29 persen dari sisa saham treasuri yang dimiliki Perseroan. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham treasuri ini terjual kembali ke publik, jumlah saham yang beredar bertambah dan laba bersih Perseroan harus dibagi ke lebih banyak lembar saham, sehingga laba per saham cenderung terdilusi. Di sisi lain, penjualan ini juga mendatangkan kas baru bagi Perseroan, mengingat pembelian 116,6 juta saham pada periode ketiga sebelumnya menghabiskan dana Rp40,44 miliar. Yang perlu dipantau berikutnya adalah realisasi penjualan pada periode 21 September sampai 21 Oktober 2026 melalui pasar negosiasi bersama Danatama Makmur Sekuritas, termasuk harga transaksi riil yang akan terbentuk, serta sisa 295,874 juta saham treasuri yang masih harus dialihkan Perseroan ke depan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "smle-ungkap-rencana-ekspor-minyak-nilam-ke-india-mulai-2027",

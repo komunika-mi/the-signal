@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pertamina-kembangkan-pusat-riset-bioetanol-di-lampung",
+  "category": "Energi",
+  "title": "Pertamina Kembangkan Pusat Riset [Bioetanol] di Lampung",
+  "deck": "Pertamina NRE meresmikan pusat riset bioetanol skala percontohan di Lampung, dilengkapi dua nota kesepahaman dengan Pemprov Lampung dan grup Toyota.",
+  "image": "assets/img/pertamina-kembangkan-pusat-riset-bioetanol-di-lampung.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T21:37:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467090-pertamina-nre-terus-dorong-pengembangan-bioetanol-berbasis-multi-feedstock-dan-multi-generation",
+  "tags": [
+   "pertamina",
+   "bioetanol",
+   "lampung",
+   "energi terbarukan"
+  ],
+  "body": [
+   "Pertamina New & Renewable Energy (Pertamina NRE) resmi mengoperasikan Bioethanol Development Center di Tegineneng, Kabupaten Pesawaran, Lampung, pada Senin (14/9). Fasilitas ini berfungsi sebagai laboratorium riset skala percontohan untuk menguji bahan baku, teknologi, dan proses produksi bioetanol sebelum diterapkan dalam skala lebih besar. Langkah ini menjadi penanda konkret upaya Pertamina memperluas portofolio energi terbarukan di luar biodiesel yang sudah lebih dulu berjalan.",
+   "Menurut Direktur Utama Pertamina NRE John Anis, pusat ini mengusung pendekatan multi-bahan baku dan multi-generasi teknologi, yakni memanfaatkan berbagai sumber daya lokal sekaligus menguji teknologi produksi generasi pertama (1G) dan generasi kedua (2G). Ruang lingkupnya mencakup riset budidaya bahan baku, uji coba inovasi teknologi terbaru, hingga validasi seluruh rantai proses produksi bioetanol. Peluncuran dihadiri Wakil Menteri Investasi dan Hilirisasi Todotua Pasaribu, jajaran direksi dan komisaris Pertamina, Gubernur Lampung Rahmat Mirzani Djausal, serta pimpinan Toyota Motor Manufacturing Indonesia dan Toyota Tsusho Indonesia.",
+   "Momentum ini juga ditandai penandatanganan dua nota kesepahaman. Yang pertama antara Pertamina NRE dan Pemerintah Provinsi Lampung untuk mengembangkan agribisnis serta memperkuat ketahanan energi dan pangan di provinsi tersebut. Yang kedua melibatkan Pertamina NRE, TMMIN, Toyota Tsusho Indonesia, dan lembaga riset raBit dari Jepang untuk menjajaki kelayakan teknis dan bisnis produksi bioetanol berkelanjutan, termasuk kajian kelayakan dan pertukaran pengetahuan teknologi.",
+   "Wakil Menteri Investasi dan Hilirisasi Todotua Pasaribu menyebut pengembangan bioetanol berpotensi membentuk ekosistem yang menyatukan sektor pertanian, industri, teknologi, investasi, dan masyarakat dalam satu rantai ekonomi berbasis energi terbarukan."
+  ],
+  "fotoAdegan": "Technicians examining biomass samples and fermentation tanks at a rural bioethanol pilot facility, sugarcane and cassava fields nearby, tropical daylight.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/14/6aa8063e03d47-pertamina-new-renewable-energy-pertamina-nre-resmi-mengoperasikan-fasilitas-bioethanol-development-center-di-tegineneng-pesawaran-lampung-senin-149_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan produksi bioetanol dalam skala besar, melainkan berdirinya pusat riset skala percontohan yang menguji dari mana bahan baku bisa didapat sampai bagaimana proses produksinya divalidasi. Pihak yang langsung terkait ada tiga: Pemerintah Provinsi Lampung yang bermitra soal pertanian dan pangan, petani atau pelaku agribisnis di Lampung yang berpotensi memasok bahan baku, dan kelompok Toyota yang menjajaki bioetanol sebagai campuran bahan bakar kendaraan. Kerja sama dengan Toyota Tsusho, TMMIN, dan lembaga riset otomotif Jepang raBit ini masih sebatas menjajaki kelayakan teknis dan bisnis, belum ada angka investasi, kapasitas produksi, atau target tahun mulai berproduksi komersial yang diumumkan. Karena itu arah pastinya belum bisa dibaca dari peluncuran ini saja, yang perlu ditunggu adalah hasil kajian kelayakan bersama Toyota dan apakah nota kesepahaman ini nantinya berlanjut ke keputusan investasi pabrik skala komersial.",
+  "imageV": "mu1h1wc9"
+ },
+ {
   "slug": "mncn-gandeng-rmab-sta-rmab-jadi-pengakuisisi-media",
   "category": "Aksi Korporasi",
   "title": "MNCN Gandeng RMAB-STA, RMAB Jadi [Pengakuisisi] Media",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "W90GcF5uyCA",
+  "title": "Kadin Gelar Audiensi dengan Dirjen Amerika dan Eropa Kemenlu",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie bertemu dengan Direktur Jenderal Amerika dan Eropa Kementerian Luar Negeri, Grata Endah Werdaningtyas, untuk membahas hubungan kedua kawasan.",
+  "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena menyangkut peran Kadin sebagai representasi dunia usaha dalam menjajaki peluang kerja sama dagang dan investasi dengan mitra di Amerika dan Eropa."
+ },
+ {
   "id": "d_bShxSkAxE",
   "title": "BBM Langka, SPBU Makassar Dipadati Antrean Kendaraan",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Bank Indonesia menggelar pameran UMKM bertajuk Karya Kreatif Indonesia (KKI) 2026 yang membukukan total penjualan Rp177,21 miliar.",
   "takeaway": "Angka penjualan ini menjadi indikator geliat UMKM binaan Bank Indonesia dalam mendorong perputaran ekonomi domestik."
- },
- {
-  "id": "GkxhMXx3UTA",
-  "title": "Penjualan Mobil Melejit, Ekonomi RI Bangkit?",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Kenaikan penjualan mobil disorot sebagai indikator pemulihan aktivitas ekonomi Indonesia di tengah dinamika daya beli masyarakat.",
-  "takeaway": "Data penjualan otomotif kerap dipakai sebagai proksi kesehatan ekonomi domestik, sehingga tren ini relevan bagi pembaca yang memantau arah pemulihan."
  }
 ];

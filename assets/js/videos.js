@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "W90GcF5uyCA",
+  "title": "Kadin Gelar Audiensi dengan Dirjen Amerika dan Eropa Kemenlu",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie bertemu dengan Direktur Jenderal Amerika dan Eropa Kementerian Luar Negeri, Grata Endah Werdaningtyas, untuk membahas hubungan kedua kawasan.",
+  "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena menyangkut peran Kadin sebagai representasi dunia usaha dalam menjajaki peluang kerja sama dagang dan investasi dengan mitra di Amerika dan Eropa.",
+  "terbit": "2026-09-14T16:35:01+00:00"
+ },
+ {
   "id": "d_bShxSkAxE",
   "title": "BBM Langka, SPBU Makassar Dipadati Antrean Kendaraan",
   "category": "Energi",

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pertamina-kembangkan-pusat-riset-bioetanol-di-lampung",
+  "category": "Energi",
+  "title": "Pertamina Kembangkan Pusat Riset [Bioetanol] di Lampung",
+  "deck": "Pertamina NRE meresmikan pusat riset bioetanol skala percontohan di Lampung, dilengkapi dua nota kesepahaman dengan Pemprov Lampung dan grup Toyota.",
+  "date": "14 September 2026",
+  "image": "assets/img/pertamina-kembangkan-pusat-riset-bioetanol-di-lampung.jpg",
+  "imageV": "mu1h1wc9",
+  "tags": [
+   "pertamina",
+   "bioetanol",
+   "lampung",
+   "energi terbarukan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467090-pertamina-nre-terus-dorong-pengembangan-bioetanol-berbasis-multi-feedstock-dan-multi-generation"
+ },
+ {
   "slug": "mncn-gandeng-rmab-sta-rmab-jadi-pengakuisisi-media",
   "category": "Aksi Korporasi",
   "title": "MNCN Gandeng RMAB-STA, RMAB Jadi [Pengakuisisi] Media",
@@ -6479,21 +6496,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465528-perkuat-akses-umkm-ke-pasar-global-indonesia-jadi-co-host-country-cismef-2026-china"
- },
- {
-  "slug": "hdfa-paparkan-kinerja-2026-ekuitas-masih-tertekan",
-  "category": "Aksi Korporasi",
-  "title": "HDFA Paparkan Kinerja 2026, Ekuitas Masih [Tertekan]",
-  "deck": "Dalam materi Public Expose Tahunan ke bursa, Radana Bhaskara Finance (HDFA) membeberkan rincian kinerja semester I 2026 dan strategi tujuh poin untuk sisa tahun ini.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HDFA",
-   "Radana Bhaskara Finance",
-   "Public Expose",
-   "multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7e36a33972_d001a72ef8.pdf",
-  "sourceLabel": "IDX"
  }
 ];

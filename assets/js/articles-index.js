@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "nasi-pemegang-saham-jual-2-28-juta-saham-suara-turun-ke-5-59",
+  "category": "Aksi Korporasi",
+  "title": "NASI: Pemegang Saham [Jual] 2,28 Juta Saham, Suara Turun ke 5,59%",
+  "deck": "Hartarto Ciputra menjual 2,28 juta saham Wahana Inti Makmur pada 14 September 2026 seharga Rp162 per saham, memangkas hak suaranya dari 5,87% menjadi 5,59%.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NASI",
+   "Wahana Inti Makmur",
+   "pemegang saham",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-2164-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal",
   "category": "UMKM",
   "title": "2,35 Juta [UMKM] Binaan PNM Naik Kelas ke Bank Formal",
@@ -6480,21 +6496,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465542-bea-cukai-sita-barang-rp1125-triliun-hingga-agustus-2026-rokok-ilegal-mendominasi"
- },
- {
-  "slug": "tins-catat-laba-melonjak-805-jelang-public-expose-10-sep",
-  "category": "Aksi Korporasi",
-  "title": "TINS Catat Laba [Melonjak] 805% Jelang Public Expose 10 Sep",
-  "deck": "Materi public expose PT Timah menunjukkan laba bersih semester I 2026 melonjak ke Rp2,72 triliun, didorong kenaikan harga timah dan volume produksi, jelang paparan publik 10 September.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TINS",
-   "PT Timah",
-   "Public Expose",
-   "Kinerja Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9f6ff17497_fa06ded1f4.pdf",
-  "sourceLabel": "IDX"
  }
 ];

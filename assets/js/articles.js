@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "nasi-pemegang-saham-jual-2-28-juta-saham-suara-turun-ke-5-59",
+  "category": "Aksi Korporasi",
+  "title": "NASI: Pemegang Saham [Jual] 2,28 Juta Saham, Suara Turun ke 5,59%",
+  "deck": "Hartarto Ciputra menjual 2,28 juta saham Wahana Inti Makmur pada 14 September 2026 seharga Rp162 per saham, memangkas hak suaranya dari 5,87% menjadi 5,59%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T05:40:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-2164-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NASI",
+  "tags": [
+   "NASI",
+   "Wahana Inti Makmur",
+   "pemegang saham",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Pemegang saham PT Wahana Inti Makmur Tbk (NASI), Hartarto Ciputra, melaporkan penjualan 2.285.200 lembar saham NASI kepada Otoritas Jasa Keuangan. Transaksi tercatat pada 14 September 2026 dengan harga Rp162 per saham. Hartarto bukan anggota direksi maupun dewan komisaris NASI, dan sahamnya tercatat sebagai kepemilikan tidak langsung, dengan tujuan transaksi yang dicantumkan sebagai upaya mengurangi kepemilikan.",
+   "Sebelum transaksi, Hartarto memegang 47.385.200 saham NASI, setara 5,87 persen hak suara perusahaan. Setelah penjualan, jumlah sahamnya berkurang menjadi 45.100.000 lembar dan hak suaranya turun menjadi 5,59 persen. Penjualan itu setara 4,82 persen dari total saham yang sebelumnya ia miliki, dengan nilai transaksi sekitar Rp370,2 juta berdasarkan harga yang dilaporkan.",
+   "Meski berkurang, kepemilikan Hartarto di NASI masih di atas ambang 5 persen yang mewajibkan pemegang saham melaporkan setiap perubahan kepemilikannya kepada OJK, sesuai POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "A businessperson signing transfer paperwork at a wooden desk in a Jakarta office, blurred documents in foreground, warm afternoon light",
+  "takeaway": "Laporan ini netral bagi NASI, karena penurunan kepemilikan Hartarto Ciputra tergolong kecil dan belum mengubah peta kendali pemegang saham. Yang tersentuh di sini adalah hak suara, yakni persentase kepemilikan yang menentukan seberapa besar pengaruh seorang pemegang saham dalam rapat umum pemegang saham. Turun dari 5,87 persen menjadi 5,59 persen, pengaruh Hartarto praktis tidak banyak berubah dan ia masih berstatus pemegang saham signifikan di atas ambang 5 persen. Yang perlu dipantau selanjutnya adalah apakah ia akan terus melepas saham hingga kepemilikannya turun di bawah 5 persen, karena itu akan mengubah kewajiban pelaporannya ke OJK, serta apakah pemegang saham lain NASI menyusul dengan langkah serupa.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal",
   "category": "UMKM",
   "title": "2,35 Juta [UMKM] Binaan PNM Naik Kelas ke Bank Formal",

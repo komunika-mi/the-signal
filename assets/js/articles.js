@@ -3,6 +3,135 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "heal-direksi-beli-75-000-saham-rp51-juta",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Direksi [Beli] 75.000 Saham Rp51 Juta",
+  "deck": "Direksi Medikaloka Hermina (HEAL) menambah 75.000 saham senilai sekitar Rp51 juta pada 8 September 2026, namun porsi kepemilikannya di perusahaan tetap sangat kecil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T14:38:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-5158-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEAL",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Yustinus Immanuel Herawan, anggota Direksi PT Medikaloka Hermina Tbk (HEAL), melaporkan pembelian 75.000 saham perusahaan pada 8 September 2026. Transaksi tidak langsung ini dilakukan pada harga Rp680 per saham, dengan total nilai sekitar Rp51 juta. Tujuan transaksi yang tercantum dalam laporan adalah investasi.",
+   "Dengan pembelian ini, jumlah saham HEAL yang dimiliki Yustinus bertambah dari 260.000 lembar menjadi 335.000 lembar, naik 75.000 lembar atau hampir 29 persen dari jumlah yang sebelumnya ia pegang. Meski begitu, porsi hak suaranya di Hermina tetap sangat kecil, dari 0,0016 persen naik menjadi 0,0022 persen dari total saham beredar perseroan."
+  ],
+  "fotoAdegan": "Medical staff walking through a bright modern hospital lobby in Jakarta, soft morning light, reception counter out of focus.",
+  "takeaway": "Laporan ini netral bagi Hermina. Meski direksi menambah kepemilikan saham, jumlahnya terlalu kecil untuk dibaca sebagai sinyal keyakinan yang kuat, hak suara Yustinus di perusahaan hanya naik dari 0,0016 persen menjadi 0,0022 persen dari seluruh saham beredar. Transaksi ini adalah pembelian di pasar sekunder oleh orang dalam perusahaan, sehingga tidak menambah jumlah total saham beredar HEAL maupun mengubah laba per saham, yang berubah hanya kepemilikan berpindah antar investor. Yang perlu dipantau adalah apakah direksi atau komisaris lain Hermina turut menambah kepemilikan dalam waktu dekat, karena pembelian serentak oleh banyak orang dalam biasanya dibaca pasar sebagai sinyal keyakinan yang lebih kuat dibanding transaksi tunggal seperti ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lapd-jawab-bursa-rights-issue-rp100-m-harga-rp50-saham",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Jawab Bursa: Rights Issue Rp100 M, Harga [Rp50]/Saham",
+  "deck": "Leyand International merinci rencana rights issue ke BEI: harga pelaksanaan Rp50 per saham, dana dipakai akuisisi PT BSS lewat setoran aset dari pengendali JSI Sinergi Mas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T14:27:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/40ad8664c8_88cd27a1e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "PMHMETD",
+   "Leyand International"
+  ],
+  "body": [
+   "PT Leyand International Tbk (LAPD) menyampaikan tanggapan resmi atas surat permintaan penjelasan Bursa Efek Indonesia tanggal 10 September 2026 terkait rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD II atau rights issue). Perseroan menyebut akan menerbitkan sebanyak-banyaknya 2 miliar Hak Memesan Efek Terlebih Dahulu (HMETD) dengan rasio 2 banding 1, artinya pemegang dua saham lama berhak membeli satu saham baru. Harga pelaksanaan diperkirakan Rp50 per saham, sehingga dana yang ditargetkan terkumpul mencapai Rp100 miliar. Jika pemegang saham pengendali PT JSI Sinergi Mas melaksanakan haknya penuh sementara pemegang saham publik sama sekali tidak ikut, kepemilikan publik akan terdilusi 33,33 persen. Perseroan juga menegaskan belum menunjuk pembeli siaga untuk menyerap sisa saham yang tidak diambil pemegang HMETD, dan tidak ada rencana penerbitan waran dalam aksi korporasi ini.",
+   "Dari Rp100 miliar dana yang ditargetkan, Rp44,4 miliar akan dipakai untuk mengambil alih 99,99 persen saham PT BSS (59.995 saham) melalui skema inbreng, yaitu pembayaran memakai aset berupa saham, bukan uang tunai. Sisanya, Rp55,6 miliar, dialokasikan untuk modal kerja dan pengembangan usaha. Karena JSI Sinergi Mas berstatus pengendali baik di LAPD maupun di BSS, transaksi ini masuk kategori transaksi afiliasi sekaligus transaksi material, sebab nilainya setara 44,63 persen dari total aset Perseroan, jauh di atas ambang 10 persen yang berlaku bagi perusahaan dengan ekuitas negatif. Perseroan menyebut, karena ekuitasnya memang negatif dan modal kerja bersihnya juga negatif per 30 Juni 2026, aturan POJK 17/2020 justru mengecualikan transaksi ini dari kewajiban memakai penilai independen dan dari kewajiban memperoleh persetujuan RUPS independen.",
+   "Setelah rights issue rampung, jumlah saham beredar Perseroan akan naik dari 3,97 miliar menjadi 5,97 miliar lembar, dengan saham seri baru (Seri B, nominal Rp25) merepresentasikan 33,52 persen dari total modal disetor. JSI Sinergi Mas diperkirakan tetap memegang 51 persen saham setelah aksi ini, sehingga status pengendali tidak berubah. Perseroan menjadwalkan RUPSLB pada 20 Oktober 2026, penyampaian pernyataan pendaftaran ke OJK pada 27 Oktober 2026, dengan target efektif 23 Desember 2026. Pencatatan saham baru hasil pelaksanaan HMETD ditargetkan 1 Februari 2027."
+  ],
+  "fotoAdegan": "Wide shot of a modern Jakarta office tower lobby with glass elevators, people walking briskly, soft midday light through windows",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik LAPD, karena jumlah saham beredar melonjak sekitar 50 persen sementara dana segar yang benar-benar masuk sebagai uang tunai hanya sebagian, sedangkan porsi terbesar penyertaan pengendali berbentuk aset saham PT BSS, bukan kas baru. Yang tersentuh langsung adalah jumlah saham beredar dan laba per saham, karena setiap saham baru yang diterbitkan tanpa diimbangi kenaikan laba yang sepadan membuat bagian laba untuk tiap saham lama mengecil, dan ekuitas Perseroan yang saat ini negatif Rp2,65 miliar menjadi alasan aturan pengawasan yang biasanya melindungi pemegang saham minoritas, seperti keharusan memakai penilai independen dan persetujuan RUPS independen, justru tidak berlaku untuk transaksi akuisisi PT BSS ini. Yang perlu dipantau berikutnya adalah RUPSLB pada 20 Oktober 2026, yang akan memutuskan persetujuan aksi ini sekaligus penetapan status pengendali JSI Sinergi Mas, serta target efektif dari OJK pada 23 Desember 2026 sebelum periode pelaksanaan HMETD dibuka pada Januari 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "srtg-edwin-soeryadjaya-tambah-kepemilikan-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Edwin Soeryadjaya [tambah] kepemilikan saham",
+  "deck": "Komisaris SRTG Edwin Soeryadjaya membeli 1.018.100 saham dalam dua transaksi pada 10-11 September 2026, hak suaranya naik tipis menjadi 35,93 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T14:21:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-2267-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Edwin Soeryadjaya, anggota Dewan Komisaris PT Saratoga Investama Sedaya Tbk (SRTG), melaporkan kepada Otoritas Jasa Keuangan bahwa ia menambah kepemilikan sahamnya di perseroan. Berdasarkan laporan bertanggal 14 September 2026, jumlah saham SRTG yang dimilikinya secara tidak langsung naik dari 4.872.231.490 lembar menjadi 4.873.249.590 lembar, atau bertambah 1.018.100 lembar.",
+   "Penambahan itu berasal dari dua transaksi pembelian saham biasa dengan tujuan investasi. Transaksi pertama sebanyak 560.000 lembar dieksekusi pada 10 September 2026 di harga Rp1.829 per saham, dan transaksi kedua sebanyak 458.100 lembar pada 11 September 2026 di harga Rp1.798 per saham.",
+   "Dengan tambahan tersebut, hak suara Edwin Soeryadjaya di SRTG naik dari 35,9181 persen menjadi 35,9256 persen. Kenaikan ini hanya setara sekitar 0,02 persen dari total kepemilikannya sebelum transaksi, sehingga porsinya terhadap total saham SRTG yang beredar praktis tidak berubah."
+  ],
+  "fotoAdegan": "Financial district skyscrapers reflecting golden hour light in Jakarta's central business district, street level view",
+  "takeaway": "Laporan ini netral bagi SRTG, sebab penambahan saham oleh komisaris ini nilainya kecil dan tidak bisa dibaca sebagai sinyal keyakinan besar terhadap prospek perusahaan. Yang tersentuh hanya komposisi hak suara pemegang saham utama, bukan pos kinerja seperti ekuitas atau laba per saham, karena transaksi ini adalah jual beli di pasar sekunder antar investor yang tidak menambah dana segar ke kas SRTG. Kenaikan hak suara dari 35,9181 persen menjadi 35,9256 persen pun nyaris tidak mengubah peta kendali perusahaan. Yang perlu dipantau adalah apakah Edwin Soeryadjaya kembali menambah kepemilikannya di laporan-laporan berikutnya, karena pembelian kecil seperti ini baru berarti kalau berlanjut menjadi pola, bukan transaksi satu kali saja.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vico-jawab-permintaan-bei-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "VICO Jawab Permintaan BEI soal [Volatilitas] Saham",
+  "deck": "PT Victoria Investama menyatakan tidak ada informasi material atau rencana korporasi yang memicu pergerakan tak biasa pada transaksi sahamnya, menyusul permintaan penjelasan dari BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T14:08:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ca9588eee_4f6f230246.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICO",
+  "tags": [
+   "VICO",
+   "Victoria Investama",
+   "BEI",
+   "volatilitas transaksi"
+  ],
+  "body": [
+   "PT Victoria Investama Tbk (VICO) mengirim surat penjelasan kepada Bursa Efek Indonesia menyusul permintaan klarifikasi atas volatilitas transaksi sahamnya, melalui surat BEI nomor S-11650/BEI.PP2/09-2026. Jawaban perseroan tertuang dalam surat nomor 014/VI/DIR/IX/2026 tertanggal 14 September 2026, ditandatangani Direktur Utama Aldo Jusuf Tjahaja.",
+   "Dalam surat itu, VICO menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai saham maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun ketentuan III.2.1 Peraturan I-E BEI. Perseroan juga menyebut tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu, termasuk soal pelaporan perubahan kepemilikan atau penjaminan saham sebagaimana diatur POJK Nomor 4 Tahun 2024.",
+   "VICO menambahkan bahwa perseroan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang bisa berdampak pada status pencatatan sahamnya di bursa, serta tidak ada fakta material lain yang belum diungkap ke publik. Perseroan turut menegaskan telah mengonfirmasi kepada pemegang saham utama, yang menyatakan tidak memiliki rencana apa pun terkait kepemilikan sahamnya di VICO saat ini."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, busy street traffic below, late afternoon light",
+  "takeaway": "Penilaian redaksi netral, karena surat ini murni bantahan kepatuhan dan tidak membawa angka atau rencana baru yang mengubah kondisi keuangan perseroan. Permintaan penjelasan semacam ini muncul ketika BEI mendeteksi pergerakan harga atau volume perdagangan suatu saham yang tidak biasa, lalu meminta emiten mengonfirmasi apakah ada informasi tersembunyi di baliknya, jadi surat ini sendiri tidak menyentuh pos kinerja seperti laba atau ekuitas, hanya menegaskan bahwa tidak ada penjelasan resmi atas pergerakan tersebut. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga atau volume saham VICO masih berlanjut, karena dokumen ini tidak mencantumkan tenggat baru, namun BEI bisa saja mengirim permintaan klarifikasi lanjutan atau menetapkan status pemantauan khusus jika volatilitas itu berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptro-pertahankan-peringkat-ida-stable-dari-pefindo",
+  "category": "Aksi Korporasi",
+  "title": "PTRO Pertahankan Peringkat [idA+]/Stable dari PEFINDO",
+  "deck": "Petrosea mempertahankan peringkat korporasi idA+/Stable serta peringkat obligasi dan sukuk senilai total Rp2,92 triliun untuk periode September 2026 sampai 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T14:03:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4e44624a38_09c0e0e203.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTRO",
+  "tags": [
+   "PTRO",
+   "PEFINDO",
+   "peringkat obligasi",
+   "sukuk ijarah"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menegaskan kembali peringkat korporasi PT Petrosea Tbk (PTRO) di level idA+ dengan outlook stabil, berlaku untuk periode 7 September 2026 sampai 1 September 2027. Keputusan ini diambil dalam rapat komite pemeringkat PEFINDO pada 7 September 2026 dan disampaikan Petrosea ke Otoritas Jasa Keuangan serta Bursa Efek Indonesia pada 14 September 2026, ditandatangani oleh Anto Broto selaku Division Head of Corporate Secretary & Communications. Peringkat ini didasarkan pada laporan keuangan tidak diaudit per 31 Maret 2026 dan laporan keuangan audit per 31 Desember 2025.",
+   "Selain peringkat korporasi, PEFINDO juga mempertahankan peringkat idA+ untuk Obligasi Berkelanjutan I Petrosea Tahap I Tahun 2024 Seri B, C, dan D serta Tahap II Tahun 2025 Seri A, B, dan C, dengan total pokok Rp1,953 triliun dan jatuh tempo bertahap antara 13 Desember 2027 hingga 21 Maret 2032. Untuk instrumen syariah, Sukuk Ijarah Berkelanjutan I dengan seri yang sama diberi peringkat idA+(sy) dengan total pokok Rp967 miliar. Dengan begitu, total surat utang dan sukuk Petrosea yang mendapat konfirmasi peringkat mencapai sekitar Rp2,92 triliun.",
+   "PEFINDO menyebut peringkat idA mencerminkan kemampuan kuat perusahaan memenuhi komitmen keuangan jangka panjang dibanding emiten Indonesia lainnya, meski tetap rentan terhadap perubahan kondisi ekonomi dibanding emiten berperingkat lebih tinggi. Tanda tambah menunjukkan posisi di atas rata-rata kategori tersebut. PEFINDO menyatakan penilaian ini mencerminkan posisi bisnis Petrosea yang kuat di lini jasa pertambangan, EPC, EPCI lepas pantai, dan logistik, serta profil keuangan yang solid."
+  ],
+  "fotoAdegan": "Wide shot of large mining haul trucks and excavators loading ore at an open-pit site under bright daylight in Indonesia",
+  "takeaway": "Laporan ini netral bagi Petrosea karena sifatnya menegaskan status yang sudah ada, bukan perbaikan atau penurunan kualitas kredit yang mengubah cara pasar menilai risikonya. Peringkat kredit seperti ini penting karena memengaruhi beban bunga yang harus dibayar perusahaan saat menerbitkan utang baru dan mencerminkan penilaian lembaga pemeringkat atas kemampuan arus kas perusahaan membayar kewajiban obligasi dan sukuk jangka panjangnya. Yang perlu dicermati investor pemegang obligasi dan sukuk Petrosea adalah bahwa peringkat idA+/Stable ini hanya berlaku sampai 1 September 2027, sehingga pemantauan berikutnya oleh PEFINDO kemungkinan akan dilakukan menjelang tanggal tersebut, dengan hasil yang bisa berubah tergantung kinerja keuangan Petrosea ke depan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "smsm-tegaskan-dividen-tak-dibiayai-utang-ekspor-melemah",
   "category": "Aksi Korporasi",
   "title": "SMSM Tegaskan [Dividen] Tak Dibiayai Utang, Ekspor Melemah",

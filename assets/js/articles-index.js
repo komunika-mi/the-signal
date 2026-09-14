@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "heal-direksi-beli-75-000-saham-rp51-juta",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Direksi [Beli] 75.000 Saham Rp51 Juta",
+  "deck": "Direksi Medikaloka Hermina (HEAL) menambah 75.000 saham senilai sekitar Rp51 juta pada 8 September 2026, namun porsi kepemilikannya di perusahaan tetap sangat kecil.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-5158-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-jawab-bursa-rights-issue-rp100-m-harga-rp50-saham",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Jawab Bursa: Rights Issue Rp100 M, Harga [Rp50]/Saham",
+  "deck": "Leyand International merinci rencana rights issue ke BEI: harga pelaksanaan Rp50 per saham, dana dipakai akuisisi PT BSS lewat setoran aset dari pengendali JSI Sinergi Mas.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "PMHMETD",
+   "Leyand International"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/40ad8664c8_88cd27a1e7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "srtg-edwin-soeryadjaya-tambah-kepemilikan-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Edwin Soeryadjaya [tambah] kepemilikan saham",
+  "deck": "Komisaris SRTG Edwin Soeryadjaya membeli 1.018.100 saham dalam dua transaksi pada 10-11 September 2026, hak suaranya naik tipis menjadi 35,93 persen.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-2267-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vico-jawab-permintaan-bei-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "VICO Jawab Permintaan BEI soal [Volatilitas] Saham",
+  "deck": "PT Victoria Investama menyatakan tidak ada informasi material atau rencana korporasi yang memicu pergerakan tak biasa pada transaksi sahamnya, menyusul permintaan penjelasan dari BEI.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICO",
+   "Victoria Investama",
+   "BEI",
+   "volatilitas transaksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ca9588eee_4f6f230246.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptro-pertahankan-peringkat-ida-stable-dari-pefindo",
+  "category": "Aksi Korporasi",
+  "title": "PTRO Pertahankan Peringkat [idA+]/Stable dari PEFINDO",
+  "deck": "Petrosea mempertahankan peringkat korporasi idA+/Stable serta peringkat obligasi dan sukuk senilai total Rp2,92 triliun untuk periode September 2026 sampai 2027.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTRO",
+   "PEFINDO",
+   "peringkat obligasi",
+   "sukuk ijarah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4e44624a38_09c0e0e203.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smsm-tegaskan-dividen-tak-dibiayai-utang-ekspor-melemah",
   "category": "Aksi Korporasi",
   "title": "SMSM Tegaskan [Dividen] Tak Dibiayai Utang, Ekspor Melemah",
@@ -6417,86 +6497,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df8e63eca3_cc42628a24.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "jaya-tak-ada-informasi-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "JAYA: Tak Ada Informasi Material di Balik [Volatilitas] Saham",
-  "deck": "PT Armada Berjaya Trans Tbk menjawab permintaan penjelasan Bursa soal volatilitas sahamnya, menegaskan tidak ada informasi material dan pemegang saham utama tetap mempertahankan kepemilikannya.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JAYA",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51564277cf_8d86c9d8d8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amor-bukukan-laba-rp85-miliar-usulkan-dividen-rp36-saham",
-  "category": "Aksi Korporasi",
-  "title": "AMOR Bukukan Laba Rp85 Miliar, Usulkan [Dividen] Rp36/Saham",
-  "deck": "Laba bersih Ashmore Asset Management Indonesia (AMOR) naik 17,9 persen menjadi Rp85 miliar pada tahun fiskal yang berakhir Juni 2026, meski dana kelolaan sempat turun di kuartal terakhir.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "laba bersih",
-   "dividen",
-   "manajemen investasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8216708211_b470482b27.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inco-bukukan-laba-bersih-us-61-juta-2q26-naik-39-qoq",
-  "category": "Aksi Korporasi",
-  "title": "INCO Bukukan Laba Bersih US$61 Juta 2Q26, Naik 39% [QoQ]",
-  "deck": "Vale Indonesia memaparkan kinerja keuangan kuartal kedua 2026 dalam materi Public Expose Tahunan, dengan laba bersih dan produksi nikel matte naik signifikan.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INCO",
-   "Vale Indonesia",
-   "public expose",
-   "nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/28863c127d_2268e990a5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fast-jadwalkan-rupslb-14-oktober-agenda-menyusul",
-  "category": "Aksi Korporasi",
-  "title": "FAST Jadwalkan [RUPSLB] 14 Oktober, Agenda Menyusul",
-  "deck": "PT Fast Food Indonesia Tbk mengumumkan rencana RUPSLB pada 14 Oktober 2026. Agenda resminya baru akan diumumkan lewat pemanggilan pada 22 September.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FAST",
-   "RUPSLB",
-   "Fast Food Indonesia",
-   "KFC Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ee80ced69_1133af7256.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-dibuka-menguat-0-24-persen-ke-level-6-652",
-  "category": "Pasar Modal",
-  "title": "IHSG Dibuka [Menguat] 0,24 Persen ke Level 6.652",
-  "deck": "IHSG dibuka menguat 15 poin ke 6.652 pada Senin, seiring penguatan bursa Asia dan prediksi analis pasar bergerak mendatar cenderung menguat.",
-  "date": "7 September 2026",
-  "image": "assets/img/ihsg-dibuka-menguat-0-24-persen-ke-level-6-652.jpg",
-  "imageV": "mtqus4ss",
-  "tags": [
-   "IHSG",
-   "Bursa Asia",
-   "The Fed",
-   "Saham Perbankan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465408-ihsg-dibuka-menghijau-pada-perdagangan-7-september-2026-berpotensi-datar-saat-bursa-asia-menguat-dan-wall-street-lesu"
  }
 ];

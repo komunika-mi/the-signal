@@ -4,6 +4,46 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "VrZC6qrtlNA",
+  "title": "Presiden Prabowo Rombak Kabinet, Menkeu Purbaya Diganti Suahasil",
+  "category": "Makroekonomi",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto merombak jajaran Kabinet Merah Putih dengan mengganti Menteri Keuangan Purbaya melalui Suahasil Nazara, sesuai kabar awal yang beredar Senin (14/9/2026).",
+  "takeaway": "Pergantian Menteri Keuangan penting dicermati pelaku pasar karena berpotensi memengaruhi arah kebijakan fiskal dan anggaran negara."
+ },
+ {
+  "id": "T-XFqBNsV4s",
+  "title": "Suahasil Nazara Dilantik Jadi Menkeu Gantikan Purbaya",
+  "category": "Makroekonomi",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto resmi melantik Suahasil Nazara, yang sebelumnya menjabat Wakil Menteri Keuangan, sebagai Menteri Keuangan baru di Istana Negara, Jakarta, Senin (14/9/2026).",
+  "takeaway": "Rekam jejak Suahasil Nazara sebagai mantan Wamenkeu memberi sinyal kesinambungan kebijakan fiskal di bawah kepemimpinan baru Kementerian Keuangan."
+ },
+ {
+  "id": "DTqXGOACddY",
+  "title": "Presiden Prabowo Lantik Suahasil Nazara Jadi Menkeu Baru",
+  "category": "Makroekonomi",
+  "program": "Breaking News",
+  "summary": "Suahasil Nazara resmi dilantik Presiden Prabowo Subianto sebagai Menteri Keuangan Republik Indonesia yang baru di Istana Negara, Jakarta, Senin (14/9/2026).",
+  "takeaway": "Pelantikan resmi ini menegaskan siapa yang akan memegang kendali kebijakan fiskal dan pengelolaan APBN ke depan."
+ },
+ {
+  "id": "bsO6Z0g1uVY",
+  "title": "Pantauan SPBU Makassar Usai Distribusi BBM",
+  "category": "Energi",
+  "program": "AKIS",
+  "summary": "Sejumlah SPBU di Makassar dipantau usai distribusi BBM dilakukan, menyusul kelangkaan pasokan yang sempat mengganggu aktivitas warga dan sekolah di Sulawesi Selatan.",
+  "takeaway": "Kelancaran distribusi BBM di daerah menjadi indikator penting stabilitas pasokan energi yang berdampak langsung pada aktivitas ekonomi masyarakat."
+ },
+ {
+  "id": "KWBEIs6fpA4",
+  "title": "Pertamina Perpanjang Jam Operasional SPBU di Makassar",
+  "category": "Energi",
+  "program": "AKIS",
+  "summary": "Pertamina memperpanjang jam operasional SPBU di Makassar dan menaikkan distribusi Pertalite dari sekitar 800 menjadi 1.300 kiloliter per hari, dengan 25 SPBU dioperasikan untuk mengurai antrean.",
+  "takeaway": "Langkah Pertamina menambah pasokan dan jam layanan mencerminkan respons korporasi energi negara terhadap gangguan rantai distribusi BBM di daerah."
+ },
+ {
   "id": "M_RFzCtzpec",
   "title": "BI Jatim Luncurkan Program Jelajah UMKM dan Pondok Pesantren",
   "category": "UMKM",
@@ -442,45 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Suryo Pratomo membandingkan harga dan biaya operasional mobil listrik dengan mobil berbahan bakar minyak di tengah pergeseran pasar otomotif.",
   "takeaway": "Perbandingan biaya ini membantu pembaca menilai arah transisi pasar kendaraan dan dampaknya bagi industri energi."
- },
- {
-  "id": "R3OrofgvMEM",
-  "title": "Anomali Penjualan Mobil Naik di Tengah Daya Beli Lemah",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Fitra Eri mengulas fenomena penjualan mobil yang justru meningkat di tengah sinyal pelemahan daya beli masyarakat Indonesia.",
-  "takeaway": "Anomali ini penting dicermati karena bisa mengubah asumsi umum soal hubungan daya beli dan konsumsi barang tahan lama."
- },
- {
-  "id": "H4C5Fei2534",
-  "title": "DPR Terima Audiensi Serikat Buruh PT Pos Indonesia",
-  "category": "Ketenagakerjaan",
-  "program": "tvOneNews",
-  "summary": "Pimpinan DPR dan Komisi VI menggelar audiensi dengan serikat buruh PT Pos Indonesia membahas persoalan ketenagakerjaan di perusahaan pelat merah itu.",
-  "takeaway": "Audiensi ini menyangkut nasib pekerja BUMN logistik nasional yang tengah menghadapi tantangan bisnis."
- },
- {
-  "id": "9elIydie_0A",
-  "title": "Presiden AS Ancam Mitra Dagang Iran dengan Sanksi",
-  "category": "Global",
-  "program": "tvOneNews",
-  "summary": "Pemerintah Amerika Serikat memberlakukan sanksi ekonomi terhadap mitra dagang Iran berdasarkan hukum domestiknya, langkah yang memicu perdebatan karena dinilai tidak berdasar pada resolusi PBB.",
-  "takeaway": "Sanksi dagang AS terhadap mitra Iran berpotensi mengganggu arus perdagangan dan pasar energi global yang relevan bagi pelaku bisnis."
- },
- {
-  "id": "FsmWpvfeIds",
-  "title": "DPR Terima Audiensi Pekerja PT Pos Soal Gaji Telat",
-  "category": "Ketenagakerjaan",
-  "program": "tvOneNews",
-  "summary": "Perwakilan karyawan PT Pos Indonesia mengadukan keterlambatan pembayaran gaji 31.000 pegawai kepada pimpinan DPR RI dalam audiensi yang digelar bersama Wakil Ketua DPR RI Sufmi Dasco Ahmad.",
-  "takeaway": "Persoalan gaji telat di BUMN logistik ini menyoroti tekanan keuangan PT Pos Indonesia yang berdampak langsung pada puluhan ribu pekerja."
- },
- {
-  "id": "T65tlKy2bRc",
-  "title": "Penjualan Mobil Melejit, Ekonomi RI Bangkit?",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Diskusi langsung mengenai lonjakan penjualan mobil sebagai sinyal potensial pemulihan aktivitas ekonomi nasional.",
-  "takeaway": "Versi siaran langsung dari forum yang sama, relevan bagi pembaca yang ingin memantau diskusi kebijakan otomotif secara real time."
  }
 ];

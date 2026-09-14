@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lobster-budi-daya-batam-ekspor-perdana-ke-singapura",
+  "category": "Industri",
+  "title": "Lobster Budi Daya Batam [Ekspor] Perdana ke Singapura",
+  "deck": "Sebanyak 339,5 kilogram lobster budi daya asal Batam terjual ke Singapura, dan KKP menyiapkan perluasan model budi daya ke Situbondo dan Lombok.",
+  "date": "14 September 2026",
+  "image": "assets/img/lobster-budi-daya-batam-ekspor-perdana-ke-singapura.jpg",
+  "imageV": "mu11481r",
+  "tags": [
+   "lobster",
+   "budi daya",
+   "ekspor",
+   "KKP"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/lobster-modeling-batam-tembus-pasar-ekspor-kkp-dorong-pengembangan-budi-daya-lobster-x2g3.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "kek-industropolis-batang-genjot-investasi-manufaktur-hijau",
+  "category": "Industri",
+  "title": "KEK Industropolis Batang Genjot Investasi [Manufaktur] Hijau",
+  "deck": "Forum investasi Jawa Tengah 2026 membawa calon investor mengunjungi KEK Industropolis Batang, kawasan seluas 4.300 hektare yang disiapkan untuk industri manufaktur maju dan energi hijau.",
+  "date": "14 September 2026",
+  "image": "assets/img/kek-industropolis-batang-genjot-investasi-manufaktur-hijau.jpg",
+  "imageV": "mu1148kk",
+  "tags": [
+   "KEK Batang",
+   "investasi",
+   "Jawa Tengah",
+   "industri manufaktur"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467016-investor-high-tech-mulai-masuk-kek-industropolis-batang-tawarkan-ekosistem-industri-masa-depan"
+ },
+ {
   "slug": "heal-direksi-beli-75-000-saham-rp51-juta",
   "category": "Aksi Korporasi",
   "title": "HEAL: Direksi [Beli] 75.000 Saham Rp51 Juta",
@@ -19,6 +54,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-5158-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pegadaian-championship-2026-27-resmi-bergulir",
+  "category": "BUMN",
+  "title": "Pegadaian [Championship] 2026/27 Resmi Bergulir",
+  "deck": "Pegadaian resmi jadi sponsor utama Pegadaian Championship musim 2026/27 untuk tahun keempat berturut-turut, dimulai dari laga PSIS Semarang vs PSPS Pekanbaru.",
+  "date": "14 September 2026",
+  "image": "assets/img/pegadaian-championship-2026-27-resmi-bergulir.jpg",
+  "imageV": "mu1148yz",
+  "tags": [
+   "Pegadaian Championship",
+   "PT Pegadaian",
+   "I.League",
+   "sponsorship BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467007-pegadaian-championship-musim-202627-resmi-digelar-bukti-komitmen-pegadaian-tak-henti-dukung-generasi-muda-lewat-sepak-bola-nasional"
  },
  {
   "slug": "lapd-jawab-bursa-rights-issue-rp100-m-harga-rp50-saham",
@@ -6448,54 +6500,6 @@ var ARTICLES = [
    "pemegang saham asing"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-0079-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smil-minta-perpanjangan-waktu-jawab-bursa-soal-laporan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "SMIL Minta [Perpanjangan] Waktu Jawab Bursa Soal Laporan Keuangan",
-  "deck": "PT Sarana Mitra Luas Tbk meminta tambahan 14 hari kepada BEI untuk menjawab permintaan penjelasan soal laporan keuangan per 30 Juni 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMIL",
-   "Bursa Efek Indonesia",
-   "laporan keuangan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8f197d991_90a9e4284e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sqmi-kepemilikan-cgs-international-naik-ke-31-2-miliar-saham",
-  "category": "Aksi Korporasi",
-  "title": "SQMI: Kepemilikan CGS International [Naik] ke 31,2 Miliar Saham",
-  "deck": "CGS International Securities Singapore melaporkan kepemilikannya di SQMI naik dari 3,27 miliar jadi 31,2 miliar saham, meski hak suaranya turun tipis ke 20,65%.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SQMI",
-   "Wilton Makmur Indonesia",
-   "kepemilikan saham",
-   "CGS International"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-5264-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btps-rambah-bisnis-wealth-management-dan-pembiayaan-ke-nbfi",
-  "category": "Aksi Korporasi",
-  "title": "BTPS Rambah Bisnis [Wealth Management] dan Pembiayaan ke NBFI",
-  "deck": "Materi paparan publik terbaru BTPS memuat rincian bisnis wealth management dan pembiayaan ke lembaga keuangan nonbank, di tengah laba semester satu 2026 yang hanya tumbuh tipis.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "paparan publik",
-   "wealth management",
-   "bank syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df8e63eca3_cc42628a24.pdf",
   "sourceLabel": "IDX"
  }
 ];

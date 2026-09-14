@@ -2,6 +2,51 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "VrZC6qrtlNA",
+  "title": "Presiden Prabowo Rombak Kabinet, Menkeu Purbaya Diganti Suahasil",
+  "category": "Makroekonomi",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto merombak jajaran Kabinet Merah Putih dengan mengganti Menteri Keuangan Purbaya melalui Suahasil Nazara, sesuai kabar awal yang beredar Senin (14/9/2026).",
+  "takeaway": "Pergantian Menteri Keuangan penting dicermati pelaku pasar karena berpotensi memengaruhi arah kebijakan fiskal dan anggaran negara.",
+  "terbit": "2026-09-14T09:11:52+00:00"
+ },
+ {
+  "id": "T-XFqBNsV4s",
+  "title": "Suahasil Nazara Dilantik Jadi Menkeu Gantikan Purbaya",
+  "category": "Makroekonomi",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto resmi melantik Suahasil Nazara, yang sebelumnya menjabat Wakil Menteri Keuangan, sebagai Menteri Keuangan baru di Istana Negara, Jakarta, Senin (14/9/2026).",
+  "takeaway": "Rekam jejak Suahasil Nazara sebagai mantan Wamenkeu memberi sinyal kesinambungan kebijakan fiskal di bawah kepemimpinan baru Kementerian Keuangan.",
+  "terbit": "2026-09-14T09:10:28+00:00"
+ },
+ {
+  "id": "DTqXGOACddY",
+  "title": "Presiden Prabowo Lantik Suahasil Nazara Jadi Menkeu Baru",
+  "category": "Makroekonomi",
+  "program": "Breaking News",
+  "summary": "Suahasil Nazara resmi dilantik Presiden Prabowo Subianto sebagai Menteri Keuangan Republik Indonesia yang baru di Istana Negara, Jakarta, Senin (14/9/2026).",
+  "takeaway": "Pelantikan resmi ini menegaskan siapa yang akan memegang kendali kebijakan fiskal dan pengelolaan APBN ke depan.",
+  "terbit": "2026-09-14T08:49:42+00:00"
+ },
+ {
+  "id": "bsO6Z0g1uVY",
+  "title": "Pantauan SPBU Makassar Usai Distribusi BBM",
+  "category": "Energi",
+  "program": "AKIS",
+  "summary": "Sejumlah SPBU di Makassar dipantau usai distribusi BBM dilakukan, menyusul kelangkaan pasokan yang sempat mengganggu aktivitas warga dan sekolah di Sulawesi Selatan.",
+  "takeaway": "Kelancaran distribusi BBM di daerah menjadi indikator penting stabilitas pasokan energi yang berdampak langsung pada aktivitas ekonomi masyarakat.",
+  "terbit": "2026-09-14T08:56:57+00:00"
+ },
+ {
+  "id": "KWBEIs6fpA4",
+  "title": "Pertamina Perpanjang Jam Operasional SPBU di Makassar",
+  "category": "Energi",
+  "program": "AKIS",
+  "summary": "Pertamina memperpanjang jam operasional SPBU di Makassar dan menaikkan distribusi Pertalite dari sekitar 800 menjadi 1.300 kiloliter per hari, dengan 25 SPBU dioperasikan untuk mengurai antrean.",
+  "takeaway": "Langkah Pertamina menambah pasokan dan jam layanan mencerminkan respons korporasi energi negara terhadap gangguan rantai distribusi BBM di daerah.",
+  "terbit": "2026-09-14T08:55:05+00:00"
+ },
+ {
   "id": "M_RFzCtzpec",
   "title": "BI Jatim Luncurkan Program Jelajah UMKM dan Pondok Pesantren",
   "category": "UMKM",

@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lobster-budi-daya-batam-ekspor-perdana-ke-singapura",
+  "category": "Industri",
+  "title": "Lobster Budi Daya Batam [Ekspor] Perdana ke Singapura",
+  "deck": "Sebanyak 339,5 kilogram lobster budi daya asal Batam terjual ke Singapura, dan KKP menyiapkan perluasan model budi daya ke Situbondo dan Lombok.",
+  "image": "assets/img/lobster-budi-daya-batam-ekspor-perdana-ke-singapura.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T09:12:06.358Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/lobster-modeling-batam-tembus-pasar-ekspor-kkp-dorong-pengembangan-budi-daya-lobster-x2g3.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "lobster",
+   "budi daya",
+   "ekspor",
+   "KKP"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) mengumumkan hasil uji coba budi daya lobster di Batam, Kepulauan Riau, sudah menembus pasar ekspor Singapura. Menurut KKP, ini menjadi bukti bahwa lobster yang dibesarkan dari benih hingga ukuran siap konsumsi di dalam negeri bisa memenuhi standar pasar luar negeri, tidak hanya mengandalkan hasil tangkapan alam yang selama ini jadi andalan ekspor lobster Indonesia.",
+   "Sebanyak 339,5 kilogram lobster dari model budi daya Batam telah terjual ke Singapura, dan menurut KKP responsnya positif. Kementerian menargetkan pengiriman berikutnya berlangsung pada November mendatang. Setelah Batam yang mewakili kawasan barat Indonesia, KKP berencana membangun fasilitas serupa di Situbondo untuk kawasan tengah, sementara Lombok dan Nusa Tenggara Barat disiapkan mewakili kawasan timur.",
+   "Pengembangan budi daya lobster di Batam turut membuka peluang bagi masyarakat sekitar, khususnya penyedia kekerangan yang menjadi salah satu sumber pakan lobster. KKP menyebut pola ini berpotensi membentuk rantai usaha yang melibatkan pembudidaya, pemasok pakan, dan pelaku usaha lain di sekitar lokasi budi daya.",
+   "Sugianto, eksportir kepiting dan lobster ke Singapura dan Tiongkok, menilai kualitas lobster budi daya Batam cukup baik setelah menjalani uji pasar sebelum panen dalam skala lebih besar. Ia menyebut kondisi lobster tetap segar sampai di tempat penampungan maupun saat diuji kirim ke Singapura. Menurutnya, budi daya memberi keuntungan tambahan berupa pasokan yang lebih terukur dibandingkan mengandalkan hasil tangkapan dari alam."
+  ],
+  "fotoAdegan": "Workers checking floating lobster grow-out cages in calm coastal waters near a small harbor, early morning light",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/lobster-modeling-batam-tembus-pasar-ekspor-kkp-dorong-pengembangan-budi-daya-lobster-x2g3.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang konkret berubah adalah KKP membuktikan rantai budi daya penuh, dari benih hingga ukuran konsumsi, bisa diekspor: 339,5 kilogram lobster hasil budi daya Batam sudah terjual ke Singapura, dengan pengiriman berikutnya ditargetkan November. Pihak yang terdampak langsung adalah pembudidaya di Batam, calon pembudidaya di Situbondo yang akan menyusul, serta warga penyedia kekerangan yang jadi pemasok pakan. Arahnya adalah pembentukan tiga basis budi daya nasional, Batam untuk kawasan barat, Situbondo untuk tengah, Lombok dan NTB untuk timur, yang kalau terwujud berarti pasokan lobster budi daya makin merata secara geografis. Yang akan menentukan apakah rencana ini benar berjalan atau berhenti di wacana adalah realisasi pengiriman November dan progres pembangunan fasilitas Situbondo yang sejauh ini baru sebatas rencana.",
+  "imageV": "mu11481r"
+ },
+ {
+  "slug": "kek-industropolis-batang-genjot-investasi-manufaktur-hijau",
+  "category": "Industri",
+  "title": "KEK Industropolis Batang Genjot Investasi [Manufaktur] Hijau",
+  "deck": "Forum investasi Jawa Tengah 2026 membawa calon investor mengunjungi KEK Industropolis Batang, kawasan seluas 4.300 hektare yang disiapkan untuk industri manufaktur maju dan energi hijau.",
+  "image": "assets/img/kek-industropolis-batang-genjot-investasi-manufaktur-hijau.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T15:16:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467016-investor-high-tech-mulai-masuk-kek-industropolis-batang-tawarkan-ekosistem-industri-masa-depan",
+  "tags": [
+   "KEK Batang",
+   "investasi",
+   "Jawa Tengah",
+   "industri manufaktur"
+  ],
+  "body": [
+   "Pemerintah Provinsi Jawa Tengah membawa rombongan calon investor mengunjungi Kawasan Ekonomi Khusus (KEK) Industropolis Batang pada 9 September 2026, sebagai bagian dari Forum Pemasaran Investasi Jawa Tengah yang digelar dua hari sebelumnya di Semarang. Kunjungan ini penting karena memberi kesempatan langsung bagi calon investor untuk melihat kesiapan kawasan seluas 4.300 hektare yang disiapkan sebagai pusat industri manufaktur maju, energi hijau, dan infrastruktur digital.",
+   "Forum tersebut mengangkat tema besar soal pertumbuhan berkelanjutan lewat manufaktur canggih dan infrastruktur digital, dan mempertemukan pemerintah, pengelola kawasan industri, pelaku usaha, serta calon investor dalam satu forum. Direktur Promosi Wilayah Asia Tenggara, Australia, Selandia Baru, dan Pasifik Kementerian Investasi/BKPM, Saribua Siahaan, menegaskan pemerintah terus menyederhanakan regulasi agar investor mudah masuk. \"Don't worry, we are on your side. We know you are efficient, you are stable, you need profit. From government, we will make regulation, make it easy for you to come to Indonesia,\" ujarnya.",
+   "Dari sisi daerah, Plt Kepala Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu (DPMPTSP) Jawa Tengah, Johan Hadiyanto, menyebut investasi yang masuk berdampak pada penciptaan lapangan kerja, peningkatan aktivitas usaha, penguatan rantai pasok, dan pertumbuhan UMKM di daerah. Ia menekankan bahwa angka investasi bukan sekadar capaian statistik, melainkan terkait langsung dengan pendapatan masyarakat dan penguatan ekonomi daerah.",
+   "Jawa Tengah mengandalkan sejumlah modal pendukung untuk menarik investor, mulai dari konektivitas jalan tol Trans-Jawa, infrastruktur pelabuhan dan bandara, ketersediaan kawasan industri dan KEK, hingga tenaga kerja produktif. Modal-modal inilah yang menjadi dasar promosi Jawa Tengah, termasuk KEK Industropolis Batang, sebagai lokasi investasi kepada calon penanam modal dari sektor manufaktur berorientasi ekspor."
+  ],
+  "fotoAdegan": "Wide view of a coastal industrial estate under construction, steel factory frames and cranes beside a paved access road, tropical morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/14/6aa7abb3a365f-forum-pemasaran-investasi-jawa-tengah-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah dari forum ini adalah dipamerkannya KEK Industropolis Batang, kawasan 4.300 hektare, langsung ke calon investor sebagai lokasi manufaktur maju dan energi hijau. Yang berpotensi terdampak adalah calon investor domestik dan asing yang disasar, pelaku usaha dan UMKM di rantai pasok Jawa Tengah, serta tenaga kerja di Batang dan sekitarnya jika investasi benar terealisasi. Tapi berita ini belum menyebut satu pun angka nilai investasi yang sudah disepakati atau nama investor yang resmi berkomitmen menanam modal, jadi belum bisa dibaca apakah forum ini benar-benar berujung pada investasi baru atau baru sebatas ajang perkenalan kawasan. Yang perlu ditunggu adalah data realisasi investasi BKPM atau DPMPTSP Jawa Tengah untuk periode berikutnya, serta pengumuman resmi kalau ada investor yang menandatangani komitmen investasi di KEK Batang.",
+  "imageV": "mu1148kk"
+ },
+ {
   "slug": "heal-direksi-beli-75-000-saham-rp51-juta",
   "category": "Aksi Korporasi",
   "title": "HEAL: Direksi [Beli] 75.000 Saham Rp51 Juta",
@@ -26,6 +81,32 @@ var ARTICLES = [
   "fotoAdegan": "Medical staff walking through a bright modern hospital lobby in Jakarta, soft morning light, reception counter out of focus.",
   "takeaway": "Laporan ini netral bagi Hermina. Meski direksi menambah kepemilikan saham, jumlahnya terlalu kecil untuk dibaca sebagai sinyal keyakinan yang kuat, hak suara Yustinus di perusahaan hanya naik dari 0,0016 persen menjadi 0,0022 persen dari seluruh saham beredar. Transaksi ini adalah pembelian di pasar sekunder oleh orang dalam perusahaan, sehingga tidak menambah jumlah total saham beredar HEAL maupun mengubah laba per saham, yang berubah hanya kepemilikan berpindah antar investor. Yang perlu dipantau adalah apakah direksi atau komisaris lain Hermina turut menambah kepemilikan dalam waktu dekat, karena pembelian serentak oleh banyak orang dalam biasanya dibaca pasar sebagai sinyal keyakinan yang lebih kuat dibanding transaksi tunggal seperti ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pegadaian-championship-2026-27-resmi-bergulir",
+  "category": "BUMN",
+  "title": "Pegadaian [Championship] 2026/27 Resmi Bergulir",
+  "deck": "Pegadaian resmi jadi sponsor utama Pegadaian Championship musim 2026/27 untuk tahun keempat berturut-turut, dimulai dari laga PSIS Semarang vs PSPS Pekanbaru.",
+  "image": "assets/img/pegadaian-championship-2026-27-resmi-bergulir.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T14:36:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467007-pegadaian-championship-musim-202627-resmi-digelar-bukti-komitmen-pegadaian-tak-henti-dukung-generasi-muda-lewat-sepak-bola-nasional",
+  "tags": [
+   "Pegadaian Championship",
+   "PT Pegadaian",
+   "I.League",
+   "sponsorship BUMN"
+  ],
+  "body": [
+   "Kompetisi sepak bola profesional Indonesia, Pegadaian Championship, resmi memasuki musim baru 2026/27 setelah peluncuran dan konferensi pers digelar di Hotel Patra, Semarang, Jumat (11 September 2026). Musim ini menandai tahun keempat berturut-turut PT Pegadaian (Persero) menjadi sponsor utama kompetisi yang dikelola I.League tersebut, dengan laga pembuka mempertemukan PSIS Semarang dan PSPS Pekanbaru di Stadion Jatidiri pada hari yang sama. Bagi Pegadaian, keterlibatan ini disebut bukan sekadar dukungan ke dunia olahraga, melainkan bagian dari upaya mendekatkan perusahaan ke generasi muda lewat pendekatan literasi keuangan.",
+   "Peluncuran dihadiri Wakil Ketua Umum PSSI Zainudin Amali, Direktur Utama I.League Ferry Paulus, Komisaris Utama Pegadaian A.M Putranto, Direktur Utama Pegadaian Damar Latri Setiawan, serta Direktur Pemasaran, Penjualan, dan Pengembangan Produk Pegadaian Selfie Dewiyanti. Damar menyebut pihaknya rutin mengevaluasi kerja sama ini setiap tahun agar dampaknya makin terasa bagi sepak bola nasional, tanpa merinci indikator evaluasi yang dipakai. Selfie menambahkan bahwa lebih dari separuh pengguna aplikasi Tring! milik Pegadaian berasal dari generasi muda, kelompok usia yang menurutnya sejalan dengan mayoritas penonton kompetisi ini.",
+   "Sponsorship semacam ini umum dipakai perusahaan jasa keuangan untuk mendekatkan merek ke segmen usia produktif yang belum jadi nasabah, sekaligus mendorong adopsi layanan digital mereka. Pegadaian menyebut harapannya kolaborasi ini memperkuat ekosistem digital perusahaan dan mempercepat regenerasi basis nasabah, meski belum ada angka konkret soal berapa nasabah baru atau nilai transaksi yang selama ini tercatat lahir dari program serupa di musim-musim sebelumnya."
+  ],
+  "fotoAdegan": "Youth football players warming up on a grass pitch inside a regional stadium in Indonesia, floodlights glowing at dusk",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/14/6aa7a29cba30b-pegadaian-championship-memasuki-babak-baru-mulainya-gelaran-kompetisi-sepak-bola-profesional-indonesia-tersebut-ditandai-dengan-launching-press-conference-pegadaian-championship-202627_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah status Pegadaian sebagai sponsor utama Pegadaian Championship yang kini memasuki tahun keempat, dimulai dari laga pembuka PSIS Semarang melawan PSPS Pekanbaru pada 11 September 2026. Yang terdampak langsung adalah ekosistem I.League dan klub-klub pesertanya yang mendapat sokongan dana, serta segmen nasabah muda yang disasar Pegadaian lewat aplikasi Tring!, karena perusahaan menyebut lebih dari separuh penggunanya memang berasal dari kelompok usia ini. Yang belum bisa disimpulkan adalah apakah strategi sponsorship olahraga ini benar-benar mendongkrak jumlah nasabah atau transaksi digital Pegadaian, sebab keterangan resmi ini tidak menyertakan angka pertumbuhan pengguna Tring! atau nilai bisnis yang dikaitkan langsung dengan program musim-musim sebelumnya. Yang perlu ditunggu adalah laporan kinerja Pegadaian berikutnya, biasanya lewat laporan keuangan kuartalan atau tahunan, yang bisa menunjukkan apakah pertumbuhan nasabah muda benar berkorelasi dengan aktivitas sponsorship semacam ini.",
+  "imageV": "mu1148yz"
  },
  {
   "slug": "lapd-jawab-bursa-rights-issue-rp100-m-harga-rp50-saham",

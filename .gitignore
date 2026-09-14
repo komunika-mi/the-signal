@@ -5,3 +5,9 @@
 .logs/
 .vercel/
 node_modules/
+
+# Dokumen komersial lokal (penawaran, media order) - JANGAN pernah ter-commit.
+# Repo ini PUBLIK dan Vercel menyajikan seluruh isinya sebagai situs, jadi
+# satu `git add -A` cukup untuk menerbitkan penawaran beserta harganya di
+# GitHub sekaligus di the-signal.id/mo/.
+mo/

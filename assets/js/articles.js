@@ -3,6 +3,270 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupslb-kota-bahas-rights-issue-dan-akuisisi-dua-perusahaan",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB KOTA Bahas [Rights Issue] dan Akuisisi Dua Perusahaan",
+  "deck": "PT DMS Propertindo Tbk (KOTA) memanggil RUPSLB pada 6 Oktober 2026 untuk membahas rights issue, akuisisi dua perusahaan, dan realokasi dana IPO.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:29:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b2dedab3f_19829e9d0a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "rights issue",
+   "akuisisi"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada Selasa, 6 Oktober 2026 pukul 10.00 WIB di Azana Suite Hotel Antasari, Jakarta. Rapat juga bisa diikuti secara elektronik lewat Electronic General Meeting System KSEI (eASY.KSEI). Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Jumat, 11 September 2026 pukul 16.15 WIB, atau yang rekening efeknya di KSEI tercatat pada penutupan perdagangan hari itu.",
+   "Agenda utama RUPSLB adalah persetujuan rencana penambahan modal dengan hak memesan efek terlebih dahulu (rights issue) melalui mekanisme penawaran umum terbatas, sesuai POJK No. 32/POJK.04/2015. Sejalan dengan itu, Perseroan juga meminta persetujuan perubahan Pasal 4 anggaran dasar untuk menaikkan modal dasar, modal ditempatkan, dan modal disetor, sekaligus membentuk klasifikasi saham baru bernama saham Seri B.",
+   "Dana hasil rights issue itu rencananya dipakai untuk transaksi material berupa pengambilalihan PT Art Design Indonesia dan PT Mandirinusa Graha Perkasa, sebagaimana diatur dalam POJK No. 17/POJK.04/2020 tentang Transaksi Material. Agenda lain mencakup perubahan Pasal 3 anggaran dasar untuk menyesuaikan lini usaha Perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, serta persetujuan perubahan penggunaan dana hasil penawaran umum perdana saham. Perseroan berencana menaikkan alokasi dana IPO untuk pembelian lahan potensial dan mengurangi alokasi untuk modal kerja.",
+   "Bagi pemegang saham yang ingin memberi kuasa melalui e-Proxy di eASY.KSEI, deklarasi kehadiran atau kuasa serta pilihan suara dapat diubah hingga paling lambat Senin, 5 Oktober 2026 pukul 12.00 WIB. Pemegang saham warkat yang memilih hadir secara fisik lewat kuasa harus mengirimkan surat kuasa asli ke Biro Administrasi Efek PT Datindo Entrycom paling lambat pukul 16.15 WIB pada tanggal yang sama."
+  ],
+  "fotoAdegan": "Aerial view of a partially developed plot of land on the outskirts of a growing Indonesian city, construction equipment parked nearby, late afternoon light",
+  "takeaway": "Laporan ini bersifat netral karena RUPSLB baru meminta persetujuan prinsip atas rights issue dan akuisisi, tanpa mengungkap harga saham baru, rasio penawaran, atau nilai transaksi akuisisi PT Art Design Indonesia dan PT Mandirinusa Graha Perkasa, sehingga besaran dampaknya ke pemegang saham belum bisa diukur. Yang tersentuh nanti adalah jumlah saham beredar, karena penerbitan saham Seri B baru lewat rights issue berpotensi mengencerkan laba per saham bagi pemegang lama yang tidak ikut menyerap haknya, sementara dana yang terkumpul akan dipakai membiayai akuisisi dua perusahaan tadi. Realokasi dana IPO, dari pos modal kerja ke pembelian lahan, juga menunjukkan Perseroan mengarahkan kas ke ekspansi properti fisik alih-alih operasional harian. Yang perlu dipantau adalah RUPSLB itu sendiri pada 6 Oktober 2026, serta keterbukaan lanjutan soal harga dan rasio rights issue yang biasanya menyusul setelah RUPSLB menyetujui rencana ini. Pemegang saham yang ingin memberi kuasa elektronik lewat eASY.KSEI harus melakukannya paling lambat Senin, 5 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "koci-jelaskan-ke-bursa-rencana-penuhi-free-float-minimum",
+  "category": "Aksi Korporasi",
+  "title": "KOCI Jelaskan ke Bursa Rencana Penuhi [Free Float] Minimum",
+  "deck": "PT Kokoh Exa Nusantara merespons permintaan penjelasan Bursa Efek Indonesia soal rencana memenuhi syarat minimum saham beredar bebas yang kini baru 12,79 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:11:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/15e5c72dfe_5d28bbcd15.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOCI",
+  "tags": [
+   "KOCI",
+   "free float",
+   "Bursa Efek Indonesia",
+   "waran"
+  ],
+  "body": [
+   "PT Kokoh Exa Nusantara Tbk (KOCI) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bursa bernomor S-11761/BEI.PP1/09-2026 tertanggal 10 September 2026. Dalam surat bernomor 011/KEN-LGL/IX/2026 yang ditandatangani Direktur Utama Kan Eddy, perseroan menjelaskan bahwa persentase saham free float, yaitu porsi saham yang beredar bebas di publik di luar kepemilikan pengendali dan afiliasinya, tercatat 12,75 persen pada Juli 2026 dan naik tipis menjadi 12,79 persen pada Agustus 2026. Angka ini masih berada di bawah batas minimum yang diwajibkan dalam Ketentuan V.1.1 Peraturan Bursa Nomor I-A.",
+   "Perseroan menyebut kendala utamanya adalah masih berlangsungnya periode pelaksanaan (exercise period) Waran Perseroan yang baru akan berakhir pada 5 Oktober 2026. KOCI menyatakan masih menunggu hasil akhir pelaksanaan waran tersebut untuk mengetahui perkembangan jumlah saham tercatat dan komposisi kepemilikan saham, sebelum memutuskan langkah selanjutnya. Setelah periode waran berakhir, perseroan berencana melakukan divestasi saham, yakni pelepasan sebagian saham oleh pemegang saham yang ada saat ini ke publik, untuk menaikkan porsi free float. Perseroan juga meminta arahan dan dukungan teknis dari bursa untuk aspek administratif proses tersebut.",
+   "Sesuai Keputusan Direksi Bursa Nomor Kep-00045/BEI/03-2026 angka 3, batas waktu pemenuhan kewajiban minimum saham free float bagi KOCI diperpanjang sampai dengan 31 Maret 2029. Dalam suratnya, perseroan menegaskan tidak ada informasi lain yang relevan untuk disampaikan terkait permintaan penjelasan tersebut."
+  ],
+  "fotoAdegan": "Rows of newly built single-story houses in a quiet suburban housing complex, empty street, soft morning light, East Java, Indonesia.",
+  "takeaway": "Laporan ini condong netral bagi KOCI: perseroan belum melanggar ketentuan baru dan sudah mengantongi perpanjangan tenggat hingga 2029, tapi kenaikan free float dari 12,75 ke 12,79 persen dalam sebulan sangat kecil sehingga belum menunjukkan kemajuan nyata menuju kepatuhan. Yang tersentuh di sini adalah jumlah saham beredar, karena hasil pelaksanaan waran bisa menambah saham baru dan mengubah komposisi pemegang saham, yang pada gilirannya bisa memengaruhi laba per saham, yaitu keuntungan bersih dibagi jumlah saham yang beredar, jika jumlah sahamnya bertambah tanpa laba yang naik sebanding. Free float yang tipis juga berarti saham ini jarang berpindah tangan, sehingga harganya lebih mudah bergerak tajam hanya dengan transaksi kecil. Yang perlu dipantau berikutnya adalah hasil akhir pelaksanaan waran pada 5 Oktober 2026, karena dari situ baru akan terlihat rencana konkret pelepasan saham oleh pemegang saham yang ada untuk mengejar syarat free float sebelum tenggat 31 Maret 2029.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mgna-bantah-ada-fakta-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "MGNA Bantah Ada Fakta Material di Balik [Volatilitas] Sahamnya",
+  "deck": "PT Magna Investama Mandiri Tbk (MGNA) menjawab permintaan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang mempengaruhi harga saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:07:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b2f0b56ffe_c6e1b96175.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGNA",
+  "tags": [
+   "MGNA",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Magna Investama Mandiri Tbk (MGNA) menyampaikan surat penjelasan kepada Bursa Efek Indonesia, merespons permintaan penjelasan BEI melalui surat nomor S-11903/BEI.PP3/09-2026 perihal volatilitas transaksi efek MGNA. Surat semacam ini biasanya diminta bursa ketika harga atau volume perdagangan suatu saham bergerak di luar kebiasaan.",
+   "Dalam suratnya, Direktur Utama MGNA Arianto Sjarief menyatakan perseroan, sepanjang pengetahuannya, tidak mengetahui adanya informasi atau fakta material yang dapat mempengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan I-E BEI. Perseroan juga menyatakan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta belum memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang akan berdampak pada pencatatan sahamnya di bursa.",
+   "Terkait rencana pemegang saham utama, Corporate Secretary MGNA telah meminta konfirmasi langsung, dan pemegang saham utama menyatakan tidak memiliki rencana atau maksud apa pun sehubungan dengan kepemilikan sahamnya di perseroan. Surat ini diterbitkan secara elektronik dan ditandatangani oleh Arianto Sjarief selaku Direktur Utama pada 14 September 2026 pukul 17.07 WIB."
+  ],
+  "fotoAdegan": "Investors in a busy Jakarta brokerage lobby watching a distant, blurred stock price board, afternoon light through large windows",
+  "takeaway": "Surat ini netral bagi fundamental MGNA karena isinya sebatas konfirmasi rutin bahwa tidak ada fakta material baru, bukan pengumuman kinerja atau aksi korporasi. Permintaan penjelasan seperti ini lazim muncul ketika harga atau volume perdagangan saham bergerak tidak wajar, dan pelaku pasar mencermatinya karena bisa jadi indikasi ada pihak yang bertransaksi berdasarkan informasi yang belum terbuka ke publik, meski di sini tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang berubah akibat surat ini. Yang perlu dipantau selanjutnya adalah apakah volatilitas harga saham MGNA berlanjut dalam waktu dekat, sebab jika berulang, BEI dapat kembali meminta penjelasan atau menetapkan status pemantauan khusus terhadap perdagangan sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smle-ungkap-rencana-ekspor-minyak-nilam-ke-india-mulai-2027",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Ungkap Rencana [Ekspor] Minyak Nilam ke India Mulai 2027",
+  "deck": "Public Expose Tahunan SMLE 11 September 2026 memaparkan rencana ekspor minyak nilam ke India dan Eropa mulai 2027, serta kepastian belum ada rencana dividen tahun buku 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:07:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fd6f8b32a1_105b9d2a3a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMLE",
+  "tags": [
+   "SMLE",
+   "public expose",
+   "ekspor minyak nilam",
+   "dividen"
+  ],
+  "body": [
+   "PT Sinergi Multi Lestarindo Tbk (SMLE) menggelar Public Expose Tahunan 2026 secara daring melalui IDX Public Expose Live pada Jumat, 11 September 2026, pukul 09.00 sampai 10.00 WIB. Manajemen yang hadir antara lain Direktur Utama Siu Min, Direktur Tanti Royani, Yulia Rosaline dan Dessy Sarendiani, Komisaris Utama Gunawan, serta Corporate Secretary Arry Wahyu Riansyah. Sesi paparan kinerja dan prospek bisnis diikuti 76 peserta lewat siaran langsung YouTube, sementara sesi konferensi pers diikuti 23 wartawan dari berbagai media.",
+   "Dalam sesi tanya jawab, manajemen menjelaskan penurunan penjualan yang sebelumnya dilaporkan dipicu oleh kondisi pasar global yang tidak menentu serta penyesuaian strategi penjualan yang sengaja dilakukan untuk menjaga kualitas pendapatan dan profitabilitas jangka panjang, termasuk evaluasi ulang portofolio pelanggan dan produk. Ke depan, perseroan menyebut akan lebih fokus pada produk specialty chemicals dengan margin lebih baik, memperluas penetrasi ke sektor industri yang tumbuh lebih tinggi, serta memperkuat layanan teknis dan kerja sama dengan prinsipal global.",
+   "Soal ekspansi ekspor, SMLE mengonfirmasi statusnya sebagai distributor internasional resmi PT Kencana Alam Sakti (KAS) untuk minyak nilam atau patchouli oil. Target pasar utama adalah India, yang menurut manajemen memiliki kebutuhan sekitar 900 ton minyak nilam untuk industri wewangian, disusul Eropa dan China. KAS yang berbasis di Sulawesi dan telah membangun pabrik di Gresik memiliki kapasitas produksi 100 sampai 400 ton per tahun, dan SMLE menargetkan mulai ekspor pada 2027 dengan penjualan awal 50 sampai 100 ton ke India di tahun pertama. Manajemen menyebut tantangan utamanya adalah sifat musiman bahan baku nilam, sehingga perseroan memilih mempercayakan sepenuhnya pengadaan dan pengelolaan kepada KAS sebagai agen tunggal, tanpa rencana mengelola perkebunan sendiri atau mencari pemasok lain.",
+   "Perseroan juga menjelaskan empat lini bisnisnya, yaitu bahan baku makanan dan minuman, kosmetik dan perawatan pribadi, bahan kimia industri, serta wewangian. Anak usaha PT Sinar Aroma Sentosa yang baru didirikan tahun lalu untuk memproduksi bumbu dan perisa (flavour) disebut baru mendapatkan izin dan sertifikasi halal lengkap, dengan target mulai berproduksi untuk dijual pada 2027, dan belum ada rencana membangun pabrik baru. Mengenai dividen, manajemen menegaskan sampai September 2026 perseroan belum membahas rencana pembagian dividen untuk tahun buku 2026."
+  ],
+  "fotoAdegan": "Workers inspecting rows of amber glass bottles filled with essential oil inside a fragrance distribution warehouse, morning light",
+  "takeaway": "Laporan ini condong netral bagi SMLE karena isinya berupa paparan rencana dan jawaban manajemen atas pertanyaan investor, bukan transaksi atau angka keuangan baru yang mengubah kondisi perseroan saat ini. Yang tersentuh adalah proyeksi pendapatan dari rencana ekspor minyak nilam ke India, Eropa dan China mulai 2027, serta kebijakan dividen yang menentukan seberapa besar laba perseroan mengalir ke pemegang saham. Manajemen mengaitkan penurunan penjualan yang sudah dilaporkan sebelumnya dengan ketidakpastian pasar global dan penyesuaian strategi yang disengaja demi menjaga margin, bukan semata pelemahan permintaan, tapi klaim ini baru bisa diuji lewat laporan keuangan berikutnya. Yang perlu dipantau selanjutnya adalah realisasi pengiriman sampel ke India oleh mitra PT Kencana Alam Sakti dan kepastian mulainya ekspor pada 2027, serta keputusan soal dividen tahun buku 2026 yang menurut manajemen belum dibahas hingga September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aksi-melonjak-12-95-emiten-bilang-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "AKSI [Melonjak] 12,95%, Emiten Bilang Tak Ada Info Material",
+  "deck": "Saham AKSI melonjak 12,95% dengan volume transaksi naik hampir 15 kali lipat pada 9 September 2026. Manajemen menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:06:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60ba42d90e_136276b804.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKSI",
+  "tags": [
+   "AKSI",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Mineral Sumberdaya Mandiri Tbk (AKSI) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi bernomor S-11875/BEI.PP2/09-2026 tertanggal 11 September 2026 terkait lonjakan volatilitas transaksi sahamnya. Menurut data yang dikutip perusahaan dalam suratnya, pada 9 September 2026 volume perdagangan saham AKSI melonjak menjadi 11.415.900 lembar dengan frekuensi 3.262 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 773.600 lembar dengan frekuensi 423 kali. Harga saham ikut naik Rp36 atau 12,95 persen, dari Rp278 menjadi Rp314 pada penutupan.",
+   "Menjawab enam poin pertanyaan standar dari Bursa, manajemen AKSI menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi harga saham maupun keberlangsungan usaha perusahaan yang belum diungkapkan ke publik. Perusahaan juga menyatakan tidak mengetahui aktivitas khusus dari pemegang saham tertentu sesuai ketentuan OJK, serta belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada status pencatatan sahamnya di Bursa. Berdasarkan konfirmasi Corporate Secretary kepada pemegang saham utama, pihak tersebut juga menyatakan belum ada rencana lain terkait kepemilikan sahamnya di AKSI dalam waktu dekat.",
+   "Surat tanggapan ini disampaikan secara elektronik pada 14 September 2026 pukul 17.06 WIB, ditandatangani oleh Doddy Hermawan selaku Direktur Utama, dengan lampiran surat balasan resmi yang turut ditandatangani Roni Tan selaku Direktur atau Corporate Secretary perusahaan. AKSI menegaskan komitmennya untuk mematuhi ketentuan OJK dan Bursa mengenai keterbukaan informasi kepada publik."
+  ],
+  "fotoAdegan": "Excavators loading crushed mineral ore onto haul trucks at an open pit mine in Indonesia, dust rising under bright midday sun",
+  "takeaway": "Laporan ini netral bagi fundamental AKSI, karena isinya semata konfirmasi bahwa tidak ada informasi baru yang memengaruhi kinerja perusahaan, bukan perubahan pada ekuitas, arus kas, atau laba per saham. Yang menonjol justru pola transaksinya, volume saham yang diperdagangkan melonjak hampir 15 kali lipat dari 773.600 menjadi 11.415.900 lembar hanya dalam sehari, dengan harga naik 12,95 persen tanpa ada pemicu bisnis yang diungkapkan, pola yang biasanya membuat bursa menandai saham tersebut untuk pengawasan lebih ketat karena rawan didorong spekulasi jangka pendek, bukan oleh kinerja usaha. Pos-pos kinerja seperti laba per saham dan struktur permodalan sama sekali tidak tersentuh oleh peristiwa ini, karena tidak ada aksi korporasi yang diumumkan. Yang perlu dipantau berikutnya adalah apakah lonjakan volume serupa berulang dalam waktu dekat, serta apakah Bursa menempatkan saham AKSI dalam pemantauan khusus, mengingat manajemen sendiri menegaskan belum ada rencana aksi korporasi setidaknya hingga pertengahan Desember 2026, tiga bulan sejak surat ini terbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "grph-ungkap-kinerja-semester-i-jelang-public-expose-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "GRPH Ungkap Kinerja Semester I Jelang Public Expose [Suspensi]",
+  "deck": "Griptha Putra Persada merilis materi public expose insidentil buntut suspensi BEI, memuat kinerja keuangan semester I 2026 dan rencana kerja hotel di Kudus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T16:57:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d7dd042798_58f714237d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GRPH",
+  "tags": [
+   "GRPH",
+   "public expose",
+   "suspensi saham",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Griptha Putra Persada Tbk (GRPH) menyampaikan materi Public Expose Insidentil melalui surat Nomor 024/GPP/CORSEC/SPb/IX/2026 tertanggal 14 September 2026, ditandatangani Direktur Utama Edwin Leonardo dan dikirim oleh Sekretaris Perusahaan Fransiska Bella Yunita. Paparan publik ini digelar Selasa, 15 September 2026 melalui Zoom Meeting, sebagai pemenuhan permintaan Bursa Efek Indonesia menyusul Pengumuman Bursa Nomor Peng-SPT-00169/BEI.WAS/09-2026 tentang penghentian sementara perdagangan (suspensi) saham GRPH di pasar reguler dan pasar tunai sejak 8 September 2026.",
+   "Materi tersebut memuat ikhtisar keuangan per Juni 2026. Total aset turun tipis 0,4 persen dari Rp100,51 miliar pada Desember 2025 menjadi Rp100,11 miliar, disebabkan turunnya kas dan bank sebesar Rp207 juta yang dipakai membayar utang dagang ke pemasok dan utang pajak. Total liabilitas turun 7,1 persen dari Rp22,97 miliar menjadi Rp21,35 miliar karena Perseroan mencicil utang bank sesuai jadwal, sementara total ekuitas naik 1,6 persen dari Rp77,53 miliar menjadi Rp78,76 miliar seiring bertambahnya saldo laba.",
+   "Dari sisi operasional, pendapatan naik 6,7 persen dari Rp14,73 miliar pada Juni 2025 menjadi Rp15,72 miliar pada Juni 2026, ditopang pendapatan kamar yang melonjak 18,62 persen dari Rp6,5 miliar menjadi Rp7,7 miliar. Namun laba bruto hanya naik 0,5 persen menjadi Rp7,96 miliar karena harga pokok penjualan turut naik dari Rp6,8 miliar menjadi Rp7,75 miliar, sedangkan laba usaha naik 4,4 persen menjadi Rp1,23 miliar. Tingkat hunian kamar per 30 Juni 2026 tercatat 69,83 persen, naik dari 68,10 persen setahun sebelumnya.",
+   "Materi juga mencantumkan komposisi pemegang saham per Juni 2026: PT Mulia Jaya Palma menguasai 70,24 persen saham GRPH, masyarakat 29,26 persen, dan sisanya 0,50 persen tercatat sebagai saham treasuri Perseroan. PT Mulia Jaya Palma sendiri dimiliki oleh Samuel Jeffrey Christiawan S sebesar 99,9 persen dan Antanius Feliks Santoso 0,01 persen. Untuk 2026, Perseroan menyebut strategi intinya adalah menaikkan okupansi, mengoptimalkan tarif kamar, mendongkrak pendapatan F&B, mengembangkan bisnis MICE, serta memperbaiki efisiensi arus kas."
+  ],
+  "fotoAdegan": "Hotel staff cleaning a rooftop swimming pool deck at a mid-sized four-star hotel in a Central Java city, early morning light.",
+  "takeaway": "Laporan ini kami nilai netral bagi GRPH: data yang dipaparkan menunjukkan perbaikan tipis di sejumlah pos, tapi tidak menjawab langsung sorotan bursa soal beban gaji yang sebelumnya dilaporkan melonjak 68 persen jauh melampaui pertumbuhan pendapatan. Yang bergerak di sini adalah ekuitas, yakni modal pemegang saham, yang naik 1,6 persen karena laba ditahan bertambah, serta liabilitas yang turun 7,1 persen karena Perseroan mencicil utang bank sesuai jadwal, dua sinyal neraca yang sedikit lebih sehat dibanding akhir 2025. Namun laba bruto cuma naik 0,5 persen meski pendapatan naik 6,7 persen, artinya biaya produksi membengkak hampir sama cepat dengan penjualan sehingga belum ada bukti margin membaik. Yang perlu dipantau adalah pelaksanaan public expose insidentil itu sendiri pada Selasa, 15 September 2026 lewat Zoom, karena di sanalah manajemen akan langsung menjawab pertanyaan investor dan bursa soal kelanjutan status suspensi saham GRPH.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adhi-akui-tekanan-likuiditas-restrukturisasi-september",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Akui Tekanan Likuiditas, Restrukturisasi [September]",
+  "deck": "Manajemen ADHI mengakui tekanan likuiditas menghambat pembayaran ke vendor, sembari menargetkan penandatanganan perjanjian restrukturisasi utang bulan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T16:32:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/411f496bde_f2973ce876.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "restrukturisasi utang",
+   "likuiditas",
+   "BUMN Karya"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk melaporkan hasil public expose tahunan yang digelar Rabu, 9 September 2026, secara virtual lewat Zoom webinar dalam rangkaian Public Expose Live 2026 milik Bursa Efek Indonesia. Acara berlangsung pukul 16.00 hingga 17.00 WIB dan dihadiri jajaran direksi, yaitu Direktur Utama Moeharmein Zein Chaniago, Direktur Keuangan Bani Iqbal, Direktur Human Capital dan Legal Ki Syahgolang Permata, Direktur Operasi I Harimawan, serta Direktur Portofolio Bisnis dan Risiko Rozi Sparta. Selain manajemen, tercatat 106 peserta umum dan investor, ditambah 85 perwakilan media pada sesi konferensi pers.",
+   "Dalam sesi tanya jawab, investor bernama Daniel menanyakan opsi rights issue, penjualan aset, atau dukungan Danantara jika negosiasi restrukturisasi utang tidak berjalan lancar, mengingat rasio utang terhadap ekuitas (DER) disebut sudah mendekati batas yang diperbolehkan dalam perjanjian pinjaman. Manajemen menjawab bahwa Master Restructuring Agreement ditargetkan ditandatangani pada September 2026 ini, dengan dukungan pemegang saham mayoritas PT Danantara Asset Management. Perseroan juga akan menata ulang portofolio bisnis, kembali fokus ke bisnis inti sebagai kontraktor, lewat rencana divestasi tiga entitas anak usaha paling lambat 2027, sementara entitas lain dilepas bertahap. Soal keluhan konsumen LRT City yang belum menerima unit sejak 2019, termasuk proyek di Cibubur, manajemen menyebut masih berkoordinasi dengan Danantara untuk uji tuntas atas proyek-proyek tersebut guna memetakan masalah dan mencari solusi.",
+   "Investor yang sama juga mempertanyakan kenaikan laba bersih 12,6 persen di tengah ekuitas yang menurutnya turun sekitar 65,39 persen dan arus kas operasi yang makin negatif. Manajemen menjelaskan kenaikan laba bersih kuartal II 2026 itu ditopang pendapatan lain-lain dari pengakuan bunga tertunda atas piutang proyek LRT Jabodebek sesuai klausul kontrak, bukan dari kinerja operasional inti. Penurunan ekuitas dikatakan berasal dari kerugian Rp5,5 triliun yang dibukukan di laporan keuangan audit tahun 2025, terutama akibat penurunan nilai aset (impairment). Perseroan mengklaim tetap memprioritaskan penyelesaian kewajiban, yang tercermin dari penurunan signifikan utang usaha, di tengah pencairan kas proyek yang masih negatif.",
+   "Menjawab pertanyaan investor lain soal risiko tekanan likuiditas terhadap penyelesaian proyek dan pembayaran ke mitra kerja, manajemen secara terbuka mengakui bahwa tekanan keuangan yang dihadapi berdampak pada kinerja konsolidasi, posisi likuiditas, dan solvabilitas induk usaha, sehingga menyulitkan pembayaran tepat waktu kepada kontraktor dan vendor. Sebagai mitigasi, Perseroan menyebut terus berkoordinasi dengan para kreditur untuk memperoleh persetujuan restrukturisasi, serta menjajaki dukungan dari Danantara dan BP BUMN dalam kerangka penyehatan BUMN Karya yang lebih luas."
+  ],
+  "fotoAdegan": "Construction workers on an elevated railway viaduct site, cranes and steel girders overhead, cloudy Jakarta skyline in the distance.",
+  "takeaway": "Laporan ini condong negatif bagi ADHI, karena manajemen sendiri mengakui tekanan likuiditas sampai menyulitkan pembayaran ke kontraktor dan vendor tepat waktu. Ekuitas, yaitu selisih aset dikurangi utang yang jadi bantalan kekayaan pemegang saham, tergerus oleh kerugian Rp5,5 triliun dari penurunan nilai aset yang dibukukan di laporan audit 2025, sementara arus kas dari kegiatan operasional masih negatif, tanda uang tunai yang benar-benar masuk dari proyek belum menutup pengeluaran. Kenaikan laba bersih 12,6 persen pun bukan dari bisnis inti kontraktor, melainkan dari pengakuan bunga tertunda atas piutang proyek LRT Jabodebek, sehingga kurang mencerminkan perbaikan operasional. Yang perlu dipantau adalah penandatanganan Master Restructuring Agreement yang ditargetkan Perseroan bulan ini, September 2026, serta rencana divestasi tiga entitas anak usaha paling lambat 2027, dua tonggak yang akan menentukan apakah tekanan keuangan ADHI benar-benar mereda.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "uvcr-rampungkan-buyback-9-6-juta-saham-rp1-5-miliar",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Rampungkan [Buyback] 9,6 Juta Saham Rp1,5 Miliar",
+  "deck": "Ultra Voucher menyelesaikan pembelian kembali 9,6 juta saham atau 0,48% dari saham beredar senilai Rp1,5 miliar dengan harga rata-rata Rp156 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T16:27:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbbbcf2b71_9177a07216.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "buyback saham",
+   "Ultra Voucher",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Trimegah Karya Pratama Tbk, pemilik merek Ultra Voucher dengan kode saham UVCR, melaporkan ke Otoritas Jasa Keuangan bahwa program pembelian kembali sahamnya telah rampung per 11 September 2026. Laporan yang ditandatangani Direktur Utama Hady Kuswanto ini menyebut buyback dilakukan tanpa persetujuan Rapat Umum Pemegang Saham, memakai skema relaksasi yang diberikan OJK untuk kondisi pasar yang berfluktuasi signifikan berdasarkan POJK Nomor 13 Tahun 2023. Program ini merujuk pada rencana buyback yang pertama kali diumumkan Perseroan pada 11 Juni 2026.",
+   "Secara keseluruhan Perseroan membeli kembali 9.596.100 lembar saham, setara 0,48 persen dari total saham UVCR yang tercatat di Bursa Efek Indonesia, dengan total dana yang terpakai Rp1.497.700.900 dan harga perolehan rata-rata Rp156 per saham. Rincian dua hari transaksi terakhir menunjukkan pada 10 September 2026 Perseroan membeli 3.836.500 lembar saham dengan harga rata-rata Rp159, kemudian pada 11 September 2026 sebanyak 5.759.600 lembar saham dibeli dengan harga rata-rata Rp153. Periode pelaksanaan program buyback ini berlangsung sejak 30 Juni 2026 hingga 12 September 2026.",
+   "Perseroan melalui Sekretaris Perusahaan Ayu Kusuma Trisyani menyatakan penghentian program dilakukan karena realisasi pembelian sudah mencapai target yang direncanakan, sekaligus sebagai bagian dari upaya mengoptimalkan operasional Perseroan. Dalam laporannya, Perseroan menegaskan penyelesaian buyback ini tidak menimbulkan dampak material terhadap kondisi keuangan maupun kelangsungan usahanya, dan seluruh proses telah mengikuti ketentuan POJK Nomor 29 Tahun 2023 tentang pembelian kembali saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Customer tapping a smartphone to pay at a small retail checkout counter, blurred shelves in the background, daytime",
+  "takeaway": "Laporan ini netral bagi UVCR karena ukuran buyback-nya kecil, hanya 0,48 persen dari total saham beredar dengan dana sekitar Rp1,5 miliar, sehingga tidak mengubah struktur permodalan secara berarti. Pembelian kembali saham mengurangi jumlah saham yang beredar di pasar, yang secara teori sedikit mengerek laba per saham karena laba perusahaan nantinya dibagi ke jumlah saham yang lebih sedikit, tapi efeknya di sini nyaris tidak terasa mengingat porsinya yang tipis. Yang lebih terasa adalah arus kas keluar sekitar Rp1,5 miliar untuk membiayai buyback ini, meski Perseroan menyatakan hal itu tidak berdampak material terhadap keuangannya, apalagi setelah laba bersihnya dilaporkan melonjak tajam pada semester pertama tahun ini. Aturan pasar modal mewajibkan Perseroan mengumumkan langkah lanjutan atas sekitar 9,6 juta lembar saham hasil buyback ini, apakah akan dijual kembali, dipakai untuk program insentif karyawan, atau dibatalkan, dan pengumuman itulah yang perlu ditunggu berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "roda-jawab-bei-janji-lepas-saham-penuhi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "RODA Jawab BEI, Janji Lepas Saham Penuhi [Free Float]",
+  "deck": "RODA menjawab permintaan penjelasan BEI soal free float, menyebut pemegang saham pengendali akan melepas sebagian saham karena kondisi properti high rise masih lesu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T16:26:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aa19ed1264_9cc4222d34.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RODA",
+  "tags": [
+   "RODA",
+   "free float",
+   "Bursa Efek Indonesia",
+   "Pikko Land Development"
+  ],
+  "body": [
+   "PT Pikko Land Development Tbk (RODA) menyampaikan jawaban resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-11568/BEI.PP2/09-2026 mengenai rencana pemenuhan ketentuan minimum saham free float. Surat balasan bernomor 044/Dir-RODA/IX/2026 itu ditandatangani Direktur Utama RODA, Letnan Jenderal TNI (Purn.) Eko Wiratmoko, dan disampaikan ke bursa pada 14 September 2026.",
+   "Dalam jawabannya, RODA mengakui belum bisa memenuhi kewajiban minimum saham free float karena kondisi industri properti bertipe gedung tinggi atau high rise yang masih lesu, sehingga kinerja perseroan dan entitas anak dinilai kurang menarik bagi investor atau pihak ketiga untuk membeli sahamnya. Sebagai jalan keluar, perseroan menyebut pemegang saham pengendali berencana melepas sebagian saham yang dimiliki agar syarat free float bisa terpenuhi, meski dokumen ini tidak menyebutkan jumlah saham yang akan dilepas maupun target waktu pelaksanaannya.",
+   "RODA juga menegaskan bahwa saham yang dipegang pihak private equity di dalam struktur pemegang sahamnya tidak masuk kategori saham non free float, karena baik perseroan maupun pemegang saham pengendali tidak memiliki hubungan apa pun dengan private equity tersebut. Perseroan menyatakan tidak ada informasi lain yang relevan terkait upaya pemenuhan ketentuan ini."
+  ],
+  "fotoAdegan": "A cluster of modern high-rise apartment and office towers in Jakarta with visible vacant floors, idle construction cranes, hazy midday sky",
+  "takeaway": "Jawaban ini condong negatif bagi RODA karena perseroan sendiri mengakui sahamnya kurang diminati investor akibat lesunya bisnis properti high rise, sekaligus mengonfirmasi belum patuh pada aturan bursa soal free float. Free float adalah porsi saham yang beredar bebas di tangan publik dan bisa diperdagangkan setiap hari, bukan dikuasai pemegang saham pengendali atau afiliasinya, dan bursa mewajibkan porsi minimum ini supaya sahamnya cukup ramai diperdagangkan sehingga ketidakpatuhan yang dibiarkan berlarut bisa berujung sanksi tertulis dari bursa. Solusi yang ditawarkan, yaitu pemegang saham pengendali melepas sebagian sahamnya, berpotensi menambah jumlah saham yang beredar bebas dan memperbaiki likuiditas perdagangan, tapi dokumen ini tidak menyebut berapa banyak saham yang akan dilepas atau kapan rencana itu direalisasikan. Yang perlu dipantau selanjutnya adalah realisasi pelepasan saham oleh pemegang saham pengendali serta kemungkinan tindak lanjut dari Bursa Efek Indonesia atas jawaban ini, karena dokumen tidak mencantumkan tenggat waktu pemenuhan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "roda-jawab-bei-lahan-kosong-rp132-45-m-nganggur-di-signature-park",
+  "category": "Aksi Korporasi",
+  "title": "RODA Jawab BEI: [Lahan] Kosong Rp132,45 M Nganggur di Signature Park",
+  "deck": "RODA mengungkap ke BEI lahan kosong 1,8 hektare senilai Rp132,45 miliar di Signature Park Grande menganggur, karyawan menyusut jadi 132 orang, dan proyek Hampton Lebak Bulus tertunda.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T16:20:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2b65cf0f7f_9a8352b1fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RODA",
+  "tags": [
+   "RODA",
+   "Pikko Land Development",
+   "properti",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Pikko Land Development Tbk (RODA) menyampaikan jawaban kepada Bursa Efek Indonesia atas surat permintaan penjelasan lanjutan Nomor S-11535/BEI.PP2/09-2026 yang diterima perseroan pada 10 September 2026, terkait temuan saat kunjungan langsung ke kantor dan proyek perseroan. Dalam surat bernomor 043/Dir-RODA/IX/2026, perseroan menjelaskan bahwa sejumlah karyawan tidak berada di lokasi saat kunjungan karena sedang mengawasi perbaikan di unit persediaan atau bertugas di proyek Thamrin District Bekasi. Perseroan juga mengonfirmasi telah melakukan perampingan karyawan dari 138 menjadi 132 orang sepanjang 2025, yang menurut manajemen tidak mengganggu operasional karena dilakukan untuk menyesuaikan dengan lesunya industri properti gedung tinggi, baik di sisi pengembangan, pemasaran, maupun pengelolaan proyek. Perseroan turut mengklarifikasi bahwa properti yang tampak di foto ruang rapat kantor pusat, yaitu Crystal Square Medan, Surabaya Times Square, dan Taman Ria Senayan, bukan milik perseroan atau entitas anak melainkan milik pemegang saham pengendali bersama pihak lain, sehingga tidak menyumbang pendapatan bagi RODA.",
+   "Untuk proyek Signature Park Grande, perseroan mengungkapkan penjualan unit apartemen yang tersisa sepanjang 2026 hanya berkisar 2 sampai 3 unit per bulan. Lahan kosong seluas 1,8 hektare yang berada dalam penguasaan KSO Fortuna Indonesia, dengan nilai tercatat Rp132,45 miliar, saat ini hanya dipakai sementara oleh perhimpunan penghuni Signature Park Grande sebagai area parkir. Perseroan dan entitas anak disebut tengah menawarkan lahan tersebut kepada pihak ketiga, baik untuk kerja sama pengembangan mal maupun untuk dijual atau disewakan. Perseroan juga menjelaskan bahwa kewajiban membangun fasilitas sosial dan fasilitas umum yang harus diserahkan ke pemerintah dicatat sebagai bagian dari harga pokok penjualan proyek, dan bahwa biaya operasional Signature Park Grande sehari-hari ditanggung sepenuhnya oleh perhimpunan penghuni, sementara peran perseroan terbatas pada pembangunan, pemasaran, dan serah terima unit ke konsumen.",
+   "Untuk proyek apartemen Hampton Lebak Bulus, lahannya dikuasai oleh entitas anak PT Bangun Megah Pratama dan perizinannya sudah siap, namun perseroan menyatakan belum berencana meluncurkan proyek ini karena kondisi industri gedung tinggi yang masih lesu. Saat ini perseroan baru membangun marketing gallery di lokasi tersebut sebagai tahap awal pengenalan proyek kepada masyarakat sekitar, dan menegaskan waktu mulai pembangunan maupun target penyelesaian proyek belum bisa dipastikan. Terkait pendapatan sewa di lokasi tersebut, perseroan merinci tiga penyewa yang telah berjalan: Superindo dengan kontrak 10 tahun sejak Januari 2025 senilai Rp20,67 miliar, Justus Steakhouse dengan kontrak 10 tahun sejak Juli 2025 senilai Rp9,13 miliar, dan Maestro Billiard dengan kontrak 5 tahun sejak September 2025 senilai Rp4,52 miliar. Perseroan menutup surat dengan menyatakan bahwa sampai saat ini belum ada informasi kejadian material lain yang dapat memengaruhi kelangsungan usaha atau harga saham perseroan yang belum diungkapkan kepada publik."
+  ],
+  "fotoAdegan": "Empty fenced urban land used as a temporary parking lot beside unfinished apartment towers under overcast Jakarta sky.",
+  "takeaway": "Secara keseluruhan surat balasan ini condong negatif bagi RODA karena mengonfirmasi sejumlah aset dan proyek yang belum produktif di tengah lesunya bisnis gedung tinggi, bukan sekadar basa-basi menjawab bursa. Yang tersentuh adalah pemanfaatan aset, sebab lahan kosong 1,8 hektare senilai Rp132,45 miliar di Signature Park Grande masih menganggur sebagai lahan parkir dan belum mendatangkan pendapatan, sementara proyek apartemen Hampton Lebak Bulus yang izinnya sudah siap juga belum bisa dipastikan kapan mulai dibangun. Perampingan karyawan dari 138 menjadi 132 orang memang bisa menekan biaya operasional, tapi juga menandakan skala bisnis yang menyusut mengikuti lesunya penjualan unit apartemen, yang menurut perseroan sendiri hanya laku 2 sampai 3 unit per bulan sepanjang 2026. Yang perlu dipantau selanjutnya adalah apakah RODA berhasil menggaet mitra atau pembeli untuk lahan kosong tersebut, dan kapan kepastian jadwal pembangunan Hampton Lebak Bulus diumumkan, karena keduanya akan menentukan kapan aset yang sekarang menganggur itu mulai menghasilkan uang bagi perusahaan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "lobster-budi-daya-batam-ekspor-perdana-ke-singapura",
   "category": "Industri",
   "title": "Lobster Budi Daya Batam [Ekspor] Perdana ke Singapura",
@@ -29,6 +293,85 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Kelautan dan Perikanan",
   "takeaway": "Yang konkret berubah adalah KKP membuktikan rantai budi daya penuh, dari benih hingga ukuran konsumsi, bisa diekspor: 339,5 kilogram lobster hasil budi daya Batam sudah terjual ke Singapura, dengan pengiriman berikutnya ditargetkan November. Pihak yang terdampak langsung adalah pembudidaya di Batam, calon pembudidaya di Situbondo yang akan menyusul, serta warga penyedia kekerangan yang jadi pemasok pakan. Arahnya adalah pembentukan tiga basis budi daya nasional, Batam untuk kawasan barat, Situbondo untuk tengah, Lombok dan NTB untuk timur, yang kalau terwujud berarti pasokan lobster budi daya makin merata secara geografis. Yang akan menentukan apakah rencana ini benar berjalan atau berhenti di wacana adalah realisasi pengiriman November dan progres pembangunan fasilitas Situbondo yang sejauh ini baru sebatas rencana.",
   "imageV": "mu11481r"
+ },
+ {
+  "slug": "arto-tegaskan-belum-ada-rencana-merger-dengan-bfi-finance",
+  "category": "Aksi Korporasi",
+  "title": "ARTO Tegaskan Belum Ada Rencana [Merger] dengan BFI Finance",
+  "deck": "Dalam sesi tanya jawab Public Expose Tahunan 2026, manajemen Bank Jago juga menyebut dividen tunai baru dipertimbangkan 3-4 tahun ke depan dan biaya dana naik ke 3,8 persen pada Agustus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T16:10:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec14a8cea5_82ac84662c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARTO",
+  "tags": [
+   "ARTO",
+   "Bank Jago",
+   "Cost of Fund",
+   "dividen"
+  ],
+  "body": [
+   "PT Bank Jago Tbk (ARTO) melaporkan hasil Public Expose Tahunan 2026 kepada Bursa Efek Indonesia. Acara yang digelar 10 September 2026 melalui webinar online itu dihadiri 60 peserta dari kalangan investor, analis, dan masyarakat umum, sementara sesi konferensi pers dihadiri 17 peserta secara virtual. Manajemen yang tampil adalah Direktur Finance & Operations Supranoto Prajogo dan Investor Relations & Market Intelligence Theodore Siregar, yang memaparkan kinerja keuangan per Juni 2026 dan strategi pengembangan usaha.",
+   "Dalam sesi tanya jawab, manajemen menyampaikan Bank Jago membidik segmen masyarakat yang belum memiliki rekening bank, mengacu pada proyeksi Lembaga Penjamin Simpanan bahwa 46,5 juta penduduk Indonesia masih unbanked hingga akhir 2026. Strateginya lewat sinergi GoPay Tabungan dan kemitraan penyalur pinjaman. Di lini wealth management, perusahaan mengonfirmasi fitur Kantong Valas dan Jual Beli Emas sudah berjalan, rekening dana nasabah (RDN) Bank Jago kini tersambung ke Pluang untuk transaksi saham luar negeri, dan ke depan disiapkan pula sambungan ke Stockbit. Kerja sama dengan Bibit disebut berjalan tanpa kendala berarti, terutama lewat fitur investasi otomatis dan pencairan cepat.",
+   "Manajemen juga menjelaskan perlambatan pertumbuhan jumlah nasabah, yang disebabkan penutupan otomatis rekening tidak aktif bersaldo nol selama 365 hari sesuai aturan OJK, yakni 1,2 juta rekening pada kuartal keempat tahun lalu dan 1,6 juta rekening pada tahun ini. Meski demikian, jumlah nasabah tetap tumbuh positif menjadi 20,1 juta. Perusahaan menyebut anggaran investasi kecerdasan buatan sebesar US$350.000 atau sekitar Rp5 miliar untuk credit scoring, deteksi penipuan, dan chatbot layanan nasabah. Fitur Pocket Dana Siaga yang dirilis 2025 kini memiliki 70.000 pengguna dengan porsi masih kecil dari total portofolio kredit dan kualitas aset yang diklaim terjaga.",
+   "Menjawab pertanyaan media, manajemen menegaskan belum ada rencana merger dengan BFI Finance dan opsi itu belum masuk Rencana Bisnis Bank 2026. Biaya dana atau Cost of Fund disebut naik dari sekitar 3,5 persen pada Juni menjadi 3,8 persen pada Agustus 2026, dan diproyeksikan mencapai 4,0 hingga 4,2 persen pada akhir tahun, meski margin bunga bersih diklaim tetap terjaga karena mayoritas kredit berjangka pendek sehingga bunga bisa disesuaikan lebih cepat. Perseroan juga menyatakan belum berencana membagikan dividen untuk tahun buku 2026 karena fokus memperkuat permodalan, dan pembagian dividen baru akan dipertimbangkan dalam 3 sampai 4 tahun ke depan."
+  ],
+  "fotoAdegan": "Young professional using a mobile banking app on a smartphone while walking through a busy Jakarta street, blurred motion",
+  "takeaway": "Laporan ini netral bagi Bank Jago, isinya rangkuman tanya jawab wajib pasca acara publik, bukan keputusan korporasi baru, meski ada beberapa sinyal yang layak dicermati pemegang saham. Cost of Fund, yakni biaya yang harus dibayar bank kepada nasabah atas dana yang mereka simpan, disebut naik dari sekitar 3,5 persen pada Juni menjadi 3,8 persen pada Agustus 2026 dan diproyeksikan ke 4,0-4,2 persen di akhir tahun, yang berarti tekanan terhadap margin bunga bersih bisa membesar meski manajemen mengklaim masih terkendali. Keputusan menahan dividen tunai selama 3 sampai 4 tahun ke depan berarti seluruh laba ditahan sebagai modal, menambah ekuitas perusahaan tapi menunda arus kas ke kantong pemegang saham. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang untuk melihat apakah proyeksi Cost of Fund 4,0-4,2 persen benar terjadi, serta apakah opsi merger dengan BFI Finance yang saat ini ditolak muncul kembali dalam Rencana Bisnis Bank tahun berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lmsh-rugi-2025-menyusut-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "LMSH: Rugi 2025 Menyusut, [Arus Kas] Operasi Negatif",
+  "deck": "Lionmesh Prima (LMSH) mencatat rugi bersih Rp4,81 miliar di 2025, menyusut dari Rp7,48 miliar, tapi arus kas operasi berbalik negatif dan kas turun 23,7 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T16:03:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260914161915-64396-0/FinancialStatement-2025-Tahunan-LMSH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LMSH",
+  "tags": [
+   "LMSH",
+   "Lionmesh Prima",
+   "laporan keuangan",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Lionmesh Prima Tbk (LMSH), produsen weldmesh berbahan besi dan baja asal Cakung, Jakarta Timur, menyampaikan laporan keuangan tahunan versi koreksi untuk periode yang berakhir 31 Desember 2025 kepada Bursa Efek Indonesia. Laporan diaudit oleh KAP Teramihardja, Pradhono & Chandra dengan opini wajar tanpa modifikasian, ditandatangani partner Heru Kusdandaru yang sudah menangani akun ini lima tahun berturut-turut. Penjualan Perseroan naik menjadi Rp96,24 miliar dari Rp91,62 miliar pada 2024, dan laba bruto melonjak menjadi Rp4,98 miliar dari hanya Rp458,21 juta setahun sebelumnya. Meski begitu, Perseroan masih mencatat rugi bersih tahun berjalan Rp4,81 miliar, menyusut dari rugi Rp7,48 miliar pada 2024, setara rugi per saham dasar Rp50, membaik dari Rp78 pada tahun sebelumnya.",
+   "Di sisi liabilitas, Perseroan mengirim surat penjelasan resmi ke BEI karena total liabilitasnya turun lebih dari 20 persen, dari Rp21,17 miliar pada akhir 2024 menjadi Rp15,99 miliar pada akhir 2025, selisih Rp5,18 miliar atau 24,48 persen. Menurut Direktur Utama Lawer Supendi dalam surat tertanggal 31 Maret 2026, penurunan itu terutama berasal dari pelunasan utang usaha ke pemasok yang turun 52,43 persen atau Rp2,9 miliar menjadi Rp2,63 miliar, uang muka pelanggan yang turun 75,93 persen atau Rp1,41 miliar menjadi Rp447,93 juta karena barang sudah dikirim dan diakui sebagai pendapatan, serta utang pajak yang turun 83,91 persen atau Rp316,09 juta menjadi Rp60,6 juta setelah PPN tahun 2024 dilunasi. Total aset Perseroan ikut menyusut dari Rp119,11 miliar menjadi Rp108,70 miliar, sementara kas dan setara kas turun dari Rp37,17 miliar menjadi Rp28,37 miliar.",
+   "Laporan arus kas menunjukkan aktivitas operasi Perseroan menggunakan kas neto Rp9,95 miliar sepanjang 2025, berbalik dari tahun sebelumnya yang justru menghasilkan kas neto Rp8,39 miliar dari operasi. Aktivitas investasi menyumbang kas masuk Rp765,71 juta, terutama dari pencairan deposito berjangka Rp6,39 miliar. Ekuitas Perseroan turun dari Rp97,93 miliar menjadi Rp92,71 miliar sejalan dengan akumulasi rugi, dan jumlah karyawan tetap berkurang dari 59 menjadi 57 orang. Perseroan tercatat di papan Pemantauan Khusus BEI, dengan pemegang saham pengendali berstatus badan hukum asing."
+  ],
+  "fotoAdegan": "Workers welding steel wire mesh panels on an industrial production line, sparks visible, metal coils stacked nearby",
+  "takeaway": "Laporan ini condong negatif karena dua sinyal fundamentalnya memburuk meski rugi mengecil: arus kas dari operasi berbalik menjadi minus Rp9,95 miliar, padahal tahun sebelumnya operasi menghasilkan kas positif Rp8,39 miliar, dan kas di perusahaan menyusut 23,7 persen menjadi Rp28,37 miliar. Arus kas operasi adalah uang tunai yang benar-benar keluar masuk dari kegiatan jual beli sehari-hari, di luar utang atau investasi, jadi kalau angkanya minus berarti uang yang dibayarkan ke pemasok dan karyawan lebih besar dari uang yang diterima dari pelanggan sepanjang tahun ini. Penurunan liabilitas 24,48 persen yang dilaporkan ke bursa juga bukan tanda utang membaik dari hasil usaha, melainkan Perseroan memakai kas yang ada untuk melunasi utang usaha dan pajak, sehingga ekuitas dan cadangan kasnya ikut tergerus. Di sisi lain rugi bersih memang menyusut dari Rp7,48 miliar menjadi Rp4,81 miliar dan laba bruto membaik tajam, jadi ada perbaikan di operasional inti meski belum cukup mengangkat Perseroan keluar dari zona rugi. Yang perlu dipantau berikutnya adalah apakah arus kas operasi bisa kembali positif pada laporan kuartalan 2026, mengingat status LMSH yang masih berada di papan Pemantauan Khusus BEI.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lion-rugi-rp26-04-miliar-penjualan-turun-seperlima-di-2025",
+  "category": "Aksi Korporasi",
+  "title": "LION [Rugi] Rp26,04 Miliar, Penjualan Turun Seperlima di 2025",
+  "deck": "Lion Metal Works membukukan rugi bersih Rp26,04 miliar pada 2025, berbalik dari laba Rp10,57 miliar setahun sebelumnya, seiring penjualan yang turun ke Rp339,12 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T16:00:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260914162054-64395-0/FinancialStatement-2025-Tahunan-LION.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LION",
+  "tags": [
+   "LION",
+   "Lion Metal Works",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "Lion Metal Works Tbk (LION) menyampaikan koreksi atas laporan keuangan tahunan konsolidasian untuk tahun buku yang berakhir 31 Desember 2025. Laporan ini telah diaudit oleh KAP Teramihardja, Pradhono Chandra dengan opini wajar tanpa modifikasian atau opini bersih, ditandatangani partner Heru Kusdandaru pada 17 Maret 2026, sementara surat pernyataan direksi diteken pada 30 Maret 2026. Berdasarkan laporan itu, perseroan mencatat rugi bersih tahun berjalan Rp26,04 miliar, berbalik dari laba bersih Rp10,57 miliar pada 2024.",
+   "Penjualan barang turun dari Rp425,42 miliar menjadi Rp339,12 miliar. Beban usaha justru naik tipis menjadi Rp115,80 miliar dari Rp110,87 miliar, sehingga laba usaha tahun lalu sebesar Rp12,90 miliar berbalik menjadi rugi usaha Rp37,10 miliar tahun ini. Setelah ditambah pendapatan bunga bank Rp6,91 miliar dan manfaat pajak Rp755,11 juta, rugi bersih tahun berjalan tercatat Rp26,04 miliar, setara rugi Rp50 per saham dibanding laba Rp20 per saham setahun sebelumnya. Ekuitas perseroan turun menjadi Rp472,11 miliar dari Rp501,05 miliar, sementara total aset menyusut dari Rp714,17 miliar menjadi Rp624,85 miliar. Meski merugi, perseroan tetap membayar dividen tunai Rp2,58 miliar yang berasal dari laba tahun buku sebelumnya.",
+   "Dalam surat terpisah ke Bursa Efek Indonesia tertanggal 30 Maret 2026, Direktur Lawer Supendi menjelaskan penurunan total liabilitas sebesar 28,33 persen atau Rp60,39 miliar, dari Rp213,12 miliar menjadi Rp152,73 miliar, sesuai kewajiban emiten menjelaskan perubahan pos aset atau liabilitas di atas 20 persen. Ada lima penyebab utama. Utang usaha ke pemasok turun 42,96 persen menjadi Rp15,32 miliar karena pelunasan kewajiban yang telah jatuh tempo. Uang muka pelanggan turun 52,80 persen menjadi Rp24,85 miliar karena barang, mencakup produk material bangunan dan peralatan kantor, sudah diserahkan ke pelanggan sehingga diakui sebagai penjualan. Utang dividen turun Rp2,04 miliar menjadi tinggal Rp73,12 juta, bukan karena dibayarkan, melainkan direklasifikasi ke pos ekuitas senilai Rp2,05 miliar karena sudah tidak diklaim pemegang saham selama lebih dari 10 tahun, mengacu Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas. Pinjaman bank jangka pendek turun Rp10 miliar menjadi Rp25 miliar setelah perseroan mencicil sebagian kredit modal kerja dari Bank Mandiri. Pinjaman bank jangka panjang lunas seluruhnya setelah anak usaha, PT Singa Purwakarta Jaya, melunasi pinjamannya dari Bank Central Asia pada 23 September 2025, sehingga saldo pinjaman jangka panjang perseroan menjadi nihil. Perseroan menegaskan penurunan liabilitas ini tidak berdampak pada operasinya."
+  ],
+  "fotoAdegan": "Workers assembling steel office filing cabinets on an industrial production line, sparks from welding, safety gear, warehouse lighting",
+  "takeaway": "Laporan ini condong negatif bagi Lion Metal Works karena penjualan turun seperlima dan perusahaan berbalik dari untung menjadi rugi bersih Rp26,04 miliar, sementara dividen yang tetap dibagikan tahun ini berasal dari laba tahun sebelumnya, bukan dari kinerja tahun berjalan. Yang tersentuh adalah ekuitas, yaitu total kekayaan bersih milik pemegang saham setelah dikurangi utang, yang turun dari Rp501,05 miliar menjadi Rp472,11 miliar karena rugi tahun ini langsung mengurangi saldo laba ditahan, serta laba per saham yang berbalik jadi rugi Rp50 per lembar dari untung Rp20 per lembar. Penurunan liabilitas 28,33 persen yang dilaporkan terpisah ke bursa lebih mencerminkan pelunasan pinjaman dan pengakuan uang muka pelanggan sebagai penjualan, bukan tanda perbaikan kinerja usaha, jadi tidak sepatutnya dibaca sebagai kabar baik yang berdiri sendiri. Yang perlu dipantau berikutnya adalah laporan kuartal pertama 2026, untuk melihat apakah penurunan penjualan dan rugi usaha ini berlanjut atau hanya sementara, terlebih laporan yang beredar saat ini masih berstatus koreksi.",
+  "sentimen": "negatif"
  },
  {
   "slug": "kek-industropolis-batang-genjot-investasi-manufaktur-hijau",

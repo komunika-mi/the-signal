@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smdr-jawab-bei-soal-volatilitas-transaksi-sebut-tak-ada-info-baru",
+  "category": "Aksi Korporasi",
+  "title": "SMDR Jawab BEI soal [Volatilitas] Transaksi, Sebut Tak Ada Info Baru",
+  "deck": "Samudera Indonesia menjawab surat penjelasan yang diminta BEI setelah harga sahamnya bergejolak, menyatakan tidak ada informasi material atau rencana aksi korporasi baru dalam tiga bulan ke depan.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMDR",
+   "Samudera Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/957e4d7ad7_377c9887f9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnba-ganti-komisaris-independen-tolak-mundur-presiden-direktur",
+  "category": "Aksi Korporasi",
+  "title": "BNBA Ganti Komisaris Independen, Tolak [Mundur] Presiden Direktur",
+  "deck": "RUPSLB Bank Bumi Arta menyetujui pergantian dua komisaris independen, tapi menolak permohonan mundur Presiden Direktur Wikan Aryono S sehingga jabatannya tetap terisi.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNBA",
+   "RUPSLB",
+   "Bank Bumi Arta",
+   "komisaris independen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b3fd54d59c_625d89a567.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rsgk-pengendali-pertahankan-saham-di-tengah-volatilitas-harga",
+  "category": "Aksi Korporasi",
+  "title": "RSGK: Pengendali [Pertahankan] Saham di Tengah Volatilitas Harga",
+  "deck": "RSGK menyatakan tidak ada informasi material di balik lonjakan harga sahamnya pada 9 September 2026, sementara pemegang saham pengendali menegaskan tetap mempertahankan kepemilikan sahamnya.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RSGK",
+   "volatilitas saham",
+   "BEI",
+   "RS Grha Kedoya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9f70a008c_b0ee480c9e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-kembangkan-pusat-riset-bioetanol-di-lampung",
   "category": "Energi",
   "title": "Pertamina Kembangkan Pusat Riset [Bioetanol] di Lampung",
@@ -6447,54 +6495,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b625859af3_b0d3111781.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "adcp-tunda-bayar-bunga-obligasi-iii-rp10-29-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ADCP Tunda Bayar [Bunga] Obligasi III Rp10,29 Miliar",
-  "deck": "PT Adhi Commuter Properti Tbk belum bisa membayar bunga Obligasi III senilai Rp10,29 miliar yang jatuh tempo 8 September 2026 akibat keterbatasan likuiditas.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADCP",
-   "obligasi",
-   "gagal bayar",
-   "likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a35027c061_09ac4b3cfd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "imjs-jawab-bursa-soal-volatilitas-ungkap-anak-usaha-baru",
-  "category": "Aksi Korporasi",
-  "title": "IMJS Jawab Bursa soal Volatilitas, Ungkap [Anak Usaha] Baru",
-  "deck": "IMJS menjawab permintaan penjelasan Bursa Efek Indonesia atas lonjakan transaksi sahamnya, dan menyebut pendirian anak usaha baru sebagai pemicu keterbukaan informasi terakhir.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMJS",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3ddb8c5654_4b708e8bc6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indonesia-jadi-co-host-cismef-2026-di-china",
-  "category": "UMKM",
-  "title": "Indonesia Jadi [Co-host] CISMEF 2026 di China",
-  "deck": "Indonesia berpartisipasi sebagai Co-host Country dalam pameran UMKM CISMEF 2026 di Guangzhou untuk membuka akses pasar global bagi pelaku usaha kecil dan menengah.",
-  "date": "7 September 2026",
-  "image": "assets/img/indonesia-jadi-co-host-cismef-2026-di-china.jpg",
-  "imageV": "mtralc9h",
-  "tags": [
-   "cismef 2026",
-   "umkm",
-   "indonesia china",
-   "paviliun indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465528-perkuat-akses-umkm-ke-pasar-global-indonesia-jadi-co-host-country-cismef-2026-china"
  }
 ];

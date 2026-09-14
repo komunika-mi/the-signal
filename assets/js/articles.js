@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smdr-jawab-bei-soal-volatilitas-transaksi-sebut-tak-ada-info-baru",
+  "category": "Aksi Korporasi",
+  "title": "SMDR Jawab BEI soal [Volatilitas] Transaksi, Sebut Tak Ada Info Baru",
+  "deck": "Samudera Indonesia menjawab surat penjelasan yang diminta BEI setelah harga sahamnya bergejolak, menyatakan tidak ada informasi material atau rencana aksi korporasi baru dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T23:07:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/957e4d7ad7_377c9887f9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMDR",
+  "tags": [
+   "SMDR",
+   "Samudera Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Samudera Indonesia Tbk (SMDR) mengirim surat resmi bernomor SR.26.09.050/CS/SI kepada Bursa Efek Indonesia pada 14 September 2026, menanggapi permintaan penjelasan BEI melalui surat nomor S-11651/BEI.PP2/09-2026 tanggal 10 September 2026 mengenai volatilitas transaksi efek perseroan. Surat itu ditandatangani oleh Idaman Putri Erwin selaku Sekretaris Perusahaan.",
+   "Dalam jawabannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material apa pun yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur POJK Nomor 31/POJK.04/2015, selain yang sudah dilaporkan lewat sistem SPEOJK/IDXNet. Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu, baik berupa perubahan kepemilikan maupun penjaminan saham, sesuai ketentuan POJK Nomor 4 Tahun 2024. Selain itu, perseroan menyatakan tidak memiliki rencana aksi korporasi dalam tiga bulan mendatang yang berdampak pada pencatatan sahamnya di bursa, maupun informasi material lain yang belum diungkapkan ke publik.",
+   "Poin lain yang disampaikan adalah konfirmasi dari pemegang saham utama perseroan, yang menyatakan saat ini dan dalam waktu terdekat tidak ada rencana apa pun terkait kepemilikan sahamnya di SMDR. Perseroan menambahkan bahwa jika pemegang saham utama itu kelak melakukan tindakan atau transaksi atas sahamnya, hal tersebut akan mengikuti ketentuan pasar modal yang berlaku."
+  ],
+  "fotoAdegan": "Container ship being loaded at a busy Indonesian port, cranes lifting cargo, workers in high-visibility vests, daytime",
+  "takeaway": "Laporan ini netral bagi Samudera Indonesia, karena isinya sekadar konfirmasi bahwa tidak ada apa pun yang disembunyikan, bukan pengumuman fakta baru yang mengubah kondisi bisnis atau keuangan perusahaan. Yang sebenarnya disentuh di sini bukan laba atau arus kas, melainkan kepastian soal pengendalian: BEI secara khusus meminta konfirmasi apakah pemegang saham utama berencana mengubah kepemilikannya, sebab pergeseran kepemilikan pemegang saham utama bisa mengubah arah strategi perusahaan atau memicu kewajiban pembelian saham dari pemegang saham publik, dan jawabannya adalah tidak ada rencana semacam itu. Perseroan juga mengunci diri untuk tidak melakukan aksi korporasi yang berdampak pada pencatatan sahamnya setidaknya hingga pertengahan Desember 2026, tiga bulan sejak surat ini terbit. Konteksnya penting: surat ini muncul tak lama setelah SMDR melaporkan margin yang menyusut dan laba yang nyaris stagnan, sehingga gejolak harga saham yang memicu pertanyaan BEI kemungkinan besar hanya reaksi pasar atas berita lama, bukan sinyal ada sesuatu yang baru. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga dan volume saham SMDR mereda dalam beberapa pekan ke depan, atau BEI kembali mengirim permintaan penjelasan susulan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bnba-ganti-komisaris-independen-tolak-mundur-presiden-direktur",
+  "category": "Aksi Korporasi",
+  "title": "BNBA Ganti Komisaris Independen, Tolak [Mundur] Presiden Direktur",
+  "deck": "RUPSLB Bank Bumi Arta menyetujui pergantian dua komisaris independen, tapi menolak permohonan mundur Presiden Direktur Wikan Aryono S sehingga jabatannya tetap terisi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T23:07:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b3fd54d59c_625d89a567.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNBA",
+  "tags": [
+   "BNBA",
+   "RUPSLB",
+   "Bank Bumi Arta",
+   "komisaris independen"
+  ],
+  "body": [
+   "Bank Bumi Arta Tbk (BNBA) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Kamis, 10 September 2026, di Pullman Jakarta Indonesia, dihadiri pemegang saham yang mewakili 3.116.501.370 saham atau 91,99 persen dari total 3.388.000.000 saham beredar perseroan. Rapat menyetujui pengunduran diri Daniel Budi Dharma dari jabatan Wakil Presiden Komisaris merangkap Komisaris Independen dan Mohammad Sjariffudin dari jabatan Komisaris merangkap Komisaris Independen, dengan 87,85 persen suara setuju dan 12,15 persen abstain, tanpa suara menolak. Sebagai pengganti, rapat mengangkat Markus Sugiono dan Setiawati Samahita sebagai Komisaris Independen baru, masing masing disetujui 51,42 persen suara sementara sekitar 36,4 persen menolak dan sisanya abstain. Pengangkatan keduanya baru efektif tujuh hari kerja setelah mendapat persetujuan uji kelayakan dari Otoritas Jasa Keuangan, untuk masa jabatan satu tahun.",
+   "Rapat juga menyetujui I Gst Agung Rai Wirajaya sebagai Wakil Presiden Komisaris merangkap Komisaris Non Independen, dengan 87,85 persen suara setuju. Begitu seluruh pengangkatan efektif, susunan Dewan Komisaris Bank Bumi Arta menjadi T. Hendra Jonathan sebagai Presiden Komisaris, I Gst Agung Rai Wirajaya sebagai Wakil Presiden Komisaris, serta Markus Sugiono dan Setiawati Samahita sebagai Komisaris Independen. Karena kursi Komisaris Independen sudah terisi lewat tiga agenda sebelumnya, agenda keempat yang mengusulkan Abi Kistono untuk kursi yang sama tidak jadi dibahas.",
+   "Yang menarik, permohonan pengunduran diri Presiden Direktur Wikan Aryono S justru ditolak rapat. Hanya 36,45 persen suara yang setuju melepas Wikan, sementara 51,36 persen menolak permohonan mundurnya, sehingga ia tetap menjabat Presiden Direktur. Sebagai konsekuensinya, agenda ketujuh yang mengusulkan Alex Susanto sebagai Presiden Direktur baru tidak jadi dibahas karena jabatan tersebut tetap terisi."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set with rows of chairs facing a stage, chandeliers overhead, prepared for a corporate shareholders meeting in Jakarta.",
+  "takeaway": "RUPSLB ini condong netral bagi kinerja Bank Bumi Arta, karena pergantian komisaris independen dan penolakan pengunduran diri direktur utama tidak langsung mengubah ekuitas, arus kas, atau laba per saham perseroan, tapi pola suara yang terbelah layak dicermati. Pada agenda pengangkatan dua komisaris independen baru, sekitar 36 persen suara menolak, sementara pada agenda pelepasan Direktur Utama Wikan Aryono S, proporsi suara yang justru ingin dia mundur juga sekitar 36 persen, pola yang menandakan ada kubu pemegang saham minoritas yang tidak sejalan dengan kubu mayoritas soal susunan pengurus bank. Perbedaan sikap semacam ini biasa dipantau pasar sebagai indikator stabilitas tata kelola, karena arah kebijakan bank ke depan bergantung pada seberapa solid dukungan di jajaran komisaris dan direksi. Yang perlu dipantau berikutnya adalah persetujuan uji kelayakan dan kepatutan dari Otoritas Jasa Keuangan atas Markus Sugiono, Setiawati Samahita, dan I Gst Agung Rai Wirajaya, karena pengangkatan mereka baru efektif tujuh hari kerja setelah persetujuan itu terbit, serta RUPS Tahunan 2027 yang akan mengesahkan laporan keuangan untuk masa jabatan pengurus yang telah mengundurkan diri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rsgk-pengendali-pertahankan-saham-di-tengah-volatilitas-harga",
+  "category": "Aksi Korporasi",
+  "title": "RSGK: Pengendali [Pertahankan] Saham di Tengah Volatilitas Harga",
+  "deck": "RSGK menyatakan tidak ada informasi material di balik lonjakan harga sahamnya pada 9 September 2026, sementara pemegang saham pengendali menegaskan tetap mempertahankan kepemilikan sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T22:49:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9f70a008c_b0ee480c9e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RSGK",
+  "tags": [
+   "RSGK",
+   "volatilitas saham",
+   "BEI",
+   "RS Grha Kedoya"
+  ],
+  "body": [
+   "PT Kedoya Adyaraya Tbk (RSGK) menjawab permintaan penjelasan dari Bursa Efek Indonesia lewat surat nomor S-11878/BEI.PP3/09-2026 tanggal 11 September 2026, terkait lonjakan aktivitas dan harga saham perseroan pada 9 September 2026. Dalam surat balasan bernomor 055/DIR-KA-CORSEC/IX/2026 yang diteken Corporate Secretary Salsabila Firdausa pada 14 September 2026, RSGK menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai sahamnya atau keputusan investasi pemodal. Perseroan juga mengaku telah menelaah Daftar Pemegang Saham pada tanggal volatilitas tersebut dan tidak menemukan aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham.",
+   "Soal rencana aksi korporasi, RSGK mengaku secara berkala menjajaki dan mengkaji berbagai peluang strategis untuk mengembangkan bisnisnya, namun menegaskan hal itu masih berupa persiapan internal, belum ada keputusan final atau jadwal pelaksanaan. Perseroan menyebut tidak ada rencana aksi korporasi yang akan berdampak pada pencatatan sahamnya di bursa dalam tiga bulan ke depan, dan tidak ada informasi material lain yang belum diungkap ke publik.",
+   "Terkait niat pemegang saham utama, Corporate Secretary menyampaikan telah berkonfirmasi langsung kepada Pemegang Saham Pengendali dan Utama. Hasilnya, pengendali menyatakan memiliki kepercayaan tinggi terhadap prospek bisnis RSGK di sektor layanan kesehatan, yakni RS Grha Kedoya, dan akan tetap mempertahankan kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Modern private hospital building exterior with an ambulance parked at the entrance driveway, late afternoon light in Jakarta",
+  "takeaway": "Surat ini condong netral bagi RSGK karena tidak membawa fakta baru yang mengubah bisnis, hanya bantahan rutin ditambah janji pemegang saham utama untuk tetap memegang sahamnya. Yang tersentuh di sini adalah kepercayaan pasar terhadap struktur kepemilikan, bukan angka di laporan keuangan, sebab tidak ada aksi korporasi atau perpindahan saham pengendali yang terdeteksi, sehingga hak suara dan jumlah saham beredar RSGK tetap sama seperti sebelum lonjakan harga terjadi. Yang perlu dipantau berikutnya adalah apakah 'peluang strategis' yang disebut perseroan berubah dari sekadar penjajakan internal menjadi keputusan final, sebab begitu ada kepastian jadwal, RSGK wajib menyampaikan keterbukaan informasi baru ke BEI dan publik.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-kembangkan-pusat-riset-bioetanol-di-lampung",
   "category": "Energi",
   "title": "Pertamina Kembangkan Pusat Riset [Bioetanol] di Lampung",

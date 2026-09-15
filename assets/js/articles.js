@@ -1112,6 +1112,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "klbf-rencanakan-buyback-saham-rp500-miliar",
+  "category": "Aksi Korporasi",
+  "title": "KLBF Rencanakan Buyback Saham [Rp500 Miliar]",
+  "deck": "Kalbe Farma mengajukan rencana pembelian kembali saham senilai maksimal Rp500 miliar dari dana internal, memanfaatkan relaksasi OJK untuk kondisi pasar yang bergejolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T15:09:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/656a7155bc_8f77a5c9ce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KLBF",
+  "tags": [
+   "KLBF",
+   "buyback saham",
+   "Kalbe Farma",
+   "pasar modal"
+  ],
+  "body": [
+   "Kalbe Farma Tbk menyampaikan rencana pembelian kembali saham (buyback) tahap baru melalui surat bernomor 066/CSEC-KF/IX-2026 tertanggal 15 September 2026. Rencana ini merujuk pada surat Otoritas Jasa Keuangan No. S-112/D.04/2026 tanggal 9 September 2026 tentang kebijakan pelaksanaan buyback bagi perusahaan terbuka dalam kondisi pasar yang berfluktuasi signifikan, sesuai POJK No. 13/2023 dan POJK No. 29/2023. Aturan ini memungkinkan emiten melakukan buyback tanpa lebih dulu meminta persetujuan RUPS. Periode buyback berlangsung sejak 16 September 2026 sampai 16 Desember 2026, maksimal tiga bulan, dan bisa diakhiri lebih cepat oleh perseroan.",
+   "Nilai nominal saham yang akan dibeli kembali diperkirakan maksimal Rp500 miliar, dengan sumber dana sepenuhnya dari kas internal perusahaan, bukan pinjaman. Biaya pelaksanaan, termasuk komisi perantara pedagang efek, dipatok maksimal 0,1 persen dari nilai transaksi buyback. Perseroan memperkirakan pendapatan bunga akan berkurang sekitar Rp8,4 miliar setelah periode buyback selesai, dan menilai penurunan ini tidak berdampak material terhadap kondisi keuangannya. Transaksi akan dilakukan di Bursa Efek Indonesia melalui jasa perantara pedagang efek, dengan harga beli mengikuti batasan yang dianggap wajar sesuai POJK yang berlaku.",
+   "Kalbe Farma turut menyampaikan proyeksi laba per saham jika buyback dilaksanakan seluruhnya, yaitu Rp81,44, dibandingkan laba per saham yang dibukukan untuk tahun buku 2025 sebesar Rp80,51. Manajemen menyebut buyback diharapkan memberi keyakinan kepada investor atas nilai fundamental saham perseroan, sekaligus memberi fleksibilitas pengelolaan modal jangka panjang karena saham treasuri hasil buyback dapat dialihkan kembali di masa depan. Dokumen ditandatangani secara elektronik oleh Corporate Secretary Kalbe Farma, Maria Teresa Fabiola."
+  ],
+  "fotoAdegan": "Pharmaceutical factory production line with workers in white coats inspecting packaged medicine boxes under bright clean lighting",
+  "takeaway": "Rencana ini condong positif bagi Kalbe Farma karena dibiayai penuh dari kas internal tanpa menambah utang, dan proyeksi laba per saham justru naik dari Rp80,51 menjadi Rp81,44 jika buyback dieksekusi penuh. Pos yang tersentuh adalah kas dan pendapatan bunga: dana yang dipakai membeli saham berarti dana itu tidak lagi disimpan di instrumen berbunga, sehingga perusahaan memperkirakan kehilangan pendapatan bunga sekitar Rp8,4 miliar, namun nilainya kecil dibanding ukuran usaha Kalbe Farma. Laba per saham naik karena jumlah saham yang beredar di pasar berkurang, sehingga laba yang sama harus dibagi ke lebih sedikit lembar saham. Perlu diingat, Rp500 miliar adalah batas maksimum, bukan kepastian nilai yang akan benar benar dibelanjakan. Yang perlu dipantau adalah realisasi transaksi selama periode 16 September sampai 16 Desember 2026, termasuk kemungkinan dihentikan lebih awal seperti yang pernah terjadi pada rencana buyback perseroan sebelumnya.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "kementan-bongkar-25-merek-beras-fortifikasi-palsu",
   "category": "Bisnis",
   "title": "Kementan Bongkar 25 Merek Beras Fortifikasi [Palsu]",
@@ -1137,6 +1163,136 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Temuan ini mengubah persoalan beras fortifikasi dari sekadar soal kualitas gizi menjadi dugaan pelanggaran harga sekaligus label, dengan harga jual rata-rata Rp23.385 per kilogram dibanding acuan Rp13.500, bahkan ada yang tembus Rp57.600. Yang terdampak langsung adalah konsumen sasaran program, terutama ibu hamil, ibu menyusui, dan balita yang mengandalkan beras ini untuk asupan gizi tambahan, serta produsen dari 25 merek yang disebut pemerintah. Berita ini belum menyebut sanksi apa yang akan dikenakan kepada produsen, apakah izin edar dicabut, produk ditarik dari pasar, atau ada proses hukum lanjutan, sehingga arah kebijakan ke depan belum bisa dibaca dari sini. Yang perlu ditunggu adalah langkah konkret Kementerian Pertanian dan lembaga terkait setelah hasil uji laboratorium ini diumumkan, termasuk apakah nama-nama merek yang dimaksud akan dibuka ke publik.",
   "imageV": "mu2ggt9u"
+ },
+ {
+  "slug": "ptsn-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PTSN Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan penjelasan BEI, Sat Nusapersada memastikan tak ada informasi material yang belum diungkap terkait fluktuasi harga dan volume sahamnya pada 11 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T14:46:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3029b42e89_895d7127e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTSN",
+  "tags": [
+   "PTSN",
+   "Sat Nusapersada",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Sat Nusapersada Tbk (PTSN) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan klarifikasi lewat surat nomor S-11939/BEI.PP2/09-2026 terkait volatilitas transaksi saham perseroan. Dalam surat bernomor 129/PTSN/IX/2026 yang diteken Corporate Secretary Rina Dewi pada 15 September 2026, perseroan menyatakan fluktuasi harga dan volume saham pada 11 September 2026 murni disebabkan oleh aksi jual beli investor atas alasan pribadi, bukan karena ada informasi atau fakta material yang belum diumumkan ke publik.",
+   "Merujuk pada POJK Nomor 31/POJK.04/2015 dan Peraturan BEI Nomor I-E, perseroan menegaskan tidak memiliki informasi material apa pun yang berpotensi memengaruhi harga saham atau keputusan investasi pemodal. Perseroan juga menyatakan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham. Untuk tiga bulan ke depan, perseroan mengaku belum memiliki rencana aksi korporasi yang akan berdampak pada status pencatatan sahamnya di bursa.",
+   "Perseroan turut mengonfirmasi bahwa pemegang saham utama, setelah dikonfirmasi langsung oleh Corporate Secretary, belum memiliki rencana untuk mengubah kepemilikan sahamnya di Sat Nusapersada. Tidak ada pula informasi atau kejadian penting lain yang material dan dapat memengaruhi harga efek maupun kelangsungan usaha perseroan yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Electronics assembly line workers inspecting circuit boards under bright industrial lighting at a Batam manufacturing facility",
+  "takeaway": "Penjelasan ini netral bagi PTSN karena isinya sepenuhnya berupa bantahan standar, tanpa angka keuangan baru, aksi korporasi, atau perubahan kepemilikan yang diungkapkan, sehingga tidak mengubah gambaran fundamental perseroan. Dokumen semacam ini lazim diminta bursa begitu harga atau volume transaksi bergerak tidak wajar, dan jawabannya hanya menegaskan bahwa pergerakan itu murni transaksi jual beli investor, bukan sinyal dari dalam perusahaan. Karena tidak ada rencana aksi korporasi maupun perubahan rencana pemegang saham utama, pos-pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar sama sekali tidak tersentuh oleh laporan ini. Yang perlu dipantau selanjutnya adalah apakah BEI menetapkan status pemantauan khusus atau meminta penjelasan lanjutan jika volatilitas harga dan volume PTSN berlanjut pada hari-hari perdagangan berikutnya, karena dokumen ini sendiri tidak mencantumkan tenggat atau agenda korporasi baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mglv-gelar-public-expose-usai-suspensi-laba-berbalik-rugi",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Gelar Public Expose Usai Suspensi, Laba Berbalik [Rugi]",
+  "deck": "NexAI Digital Infrastruktur (MGLV) menggelar public expose insidentil usai disuspensi BEI, mengungkap pendapatan semester I 2026 anjlok 74,6 persen dan berbalik rugi neto Rp14,1 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T14:33:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c65af9c967_b70d899bf6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "NexAI Digital Infrastruktur",
+   "suspensi BEI",
+   "data center"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menyampaikan materi public expose insidentil melalui surat Corporate Secretary Putra Harianto Bate'e bernomor 013/NexAI/Corsec/IX/2026, tertanggal 15 September 2026, untuk paparan yang dijadwalkan sehari setelahnya. Pubex ini digelar menyusul permintaan Bursa Efek Indonesia pada 9 September 2026, setelah BEI mengumumkan penghentian sementara perdagangan saham MGLV di Pasar Reguler dan Pasar Tunai lewat pengumuman No. Peng-SPT-00172/BEI.WAS/09-2026 untuk masa cooling down.",
+   "Dalam materi tersebut, total aset Perseroan turun 2,06 persen dari Rp187,9 miliar pada akhir Desember 2025 menjadi Rp184,0 miliar per 30 Juni 2026, sementara total liabilitas justru naik 16,86 persen dari Rp59,7 miliar menjadi Rp69,8 miliar. Akibatnya, total ekuitas tergerus 10,88 persen menjadi Rp114,2 miliar. Dari sisi laba rugi, pendapatan bersih semester I 2026 anjlok 74,56 persen menjadi Rp26,1 miliar dibanding Rp102,7 miliar pada periode sama tahun lalu, dan laba kotor turun 88,01 persen menjadi Rp4,9 miliar. Perseroan yang semula membukukan laba usaha Rp11,7 miliar berbalik merugi Rp13,9 miliar, sementara laba neto Rp9,6 miliar berbalik menjadi rugi neto Rp14,1 miliar. Perseroan mencatat bahwa angka-angka ini mencerminkan kondisi sebelum transaksi akuisisi dan perubahan kegiatan usaha yang berlangsung pada September 2026.",
+   "Materi itu juga memaparkan rangkaian aksi korporasi yang mengubah arah bisnis MGLV menjadi data center. PT Nextier Datamate Center tercatat menjadi pemegang saham pengendali sejak Februari 2026. Setelah keterbukaan informasi soal PMHMETD I, transaksi afiliasi dan material, serta perubahan kegiatan usaha pada 3 September 2026, RUPSLB pada 7 September 2026 menyetujui perubahan kegiatan usaha sekaligus akuisisi NAC dan NGC yang rampung pada hari yang sama. Sehari berikutnya, 8 September 2026, Perseroan menuntaskan divestasi 13 anak usaha beserta pengalihan aset dan kewajiban, dan pada 10 September 2026 mengumumkan Prospektus Ringkas PMHMETD I. Kini bisnis data center dijalankan lewat NAC, yang mengoperasikan fasilitas 6 MW di Jababeka dan tengah menambah kapasitas 36 MW, serta NGC yang membangun fasilitas 60 MW di Kawasan Industri Terpadu Batang. Perseroan menyatakan tidak ada informasi atau fakta material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Rows of server racks with blinking status lights in a modern data center hall, technician walking between aisles, cool blue lighting",
+  "takeaway": "Laporan ini condong negatif bagi kinerja fundamental MGLV, karena angka yang diungkap menunjukkan pendapatan ambrol lebih dari 74 persen dan perusahaan berbalik dari laba menjadi rugi pada semester pertama 2026. Yang tersentuh di sini adalah ekuitas, yaitu bantalan modal milik pemegang saham, yang menyusut 10,88 persen menjadi Rp114,2 miliar, serta laba usaha dan laba bersih yang jadi ukuran utama apakah bisnis inti perusahaan benar-benar menghasilkan uang, dan keduanya berbalik jadi rugi. Perlu dicatat, angka ini mencerminkan bisnis lama sebelum akuisisi NAC dan NGC serta suntikan dana rights issue Rp2,54 triliun, jadi belum menggambarkan bisnis data center yang baru berjalan. Yang perlu dipantau selanjutnya adalah keputusan Bursa Efek Indonesia soal pencabutan suspensi perdagangan saham MGLV setelah pubex ini, serta laporan keuangan kuartal III 2026 yang untuk pertama kalinya akan mencerminkan hasil bisnis data center pasca akuisisi dan penggunaan dana rights issue.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "puri-baru-capai-14-74-free-float-diberi-waktu-hingga-2029",
+  "category": "Aksi Korporasi",
+  "title": "PURI Baru Capai [14,74%] Free Float, Diberi Waktu hingga 2029",
+  "deck": "PURI menjelaskan ke Bursa Efek Indonesia bahwa free float publiknya baru 14,74%, di bawah syarat minimum 15%, dan berjanji memenuhinya sebelum 31 Maret 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T14:31:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4b57675dc_f0b0b602c9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PURI",
+  "tags": [
+   "PURI",
+   "free float",
+   "kepemilikan saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Puri Global Sukses Tbk (PURI) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia tertanggal 10 September 2026 soal belum terpenuhinya syarat minimum saham beredar bebas atau free float sebesar 15 persen dari total saham tercatat, sebagaimana diatur dalam Surat Keputusan Direksi Bursa Nomor Kep-00045/BEI/03-2026 tanggal 31 Maret 2026. Lewat surat bernomor 036/PGS/CORSEC/IX/2026 tertanggal 15 September 2026 yang ditandatangani Corporate Secretary Jessica, perusahaan memaparkan komposisi pemegang saham per 31 Agustus 2026. Dari total 1 miliar saham tercatat senilai Rp50 miliar, PT Bumi Kreasi Baru menguasai 768 juta saham atau 76,80 persen. Empat individu, yaitu Eko Saputro Wijaya, David Tantri, Helli Saputra, dan Wagiman, masing-masing memegang 8 juta saham atau 0,80 persen dalam bentuk scrip.",
+   "Di luar itu, dalam bentuk scripless, Helli Saputra memegang tambahan 1.176.600 saham (0,12 persen), Ong Yick Sing memegang 51.470.500 saham (5,15 persen), dan saham yang beredar di masyarakat atau publik tercatat 147.352.900 saham, setara 14,74 persen dari total saham perusahaan. Angka ini yang membuat PURI masih berada di bawah ambang minimum 15 persen yang disyaratkan Bursa.",
+   "Perseroan menyatakan tidak ada kendala regulasi maupun kondisi pasar yang menghambat pemenuhan syarat tersebut. Untuk mencapai minimum free float, perusahaan berencana melakukan penyesuaian struktur kepemilikan sebelum tenggat 31 Maret 2029, sesuai jangka waktu yang diberikan Bursa. PURI juga meminta dukungan Bursa berupa sosialisasi, dan menyebut bahwa pemenuhan free float diharapkan mendorong partisipasi investor publik, menekan volatilitas harga saham, serta meningkatkan likuiditas perdagangan sahamnya."
+  ],
+  "fotoAdegan": "Modern glass-fronted low-rise business complex exterior in a Batam commercial district, palm trees, pedestrians walking past at midday",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik PURI, sebab satu pihak yakni PT Bumi Kreasi Baru menguasai 76,80 persen saham, sementara porsi saham yang beredar bebas di publik cuma 14,74 persen, sedikit di bawah syarat minimum 15 persen, dan rencana perbaikannya baru disebut sebagai penyesuaian struktur kepemilikan tanpa rincian langkah konkret. Free float, yaitu porsi saham yang boleh diperjualbelikan bebas di luar pemegang saham pengendali, penting karena semakin kecil porsinya, semakin sulit investor publik membeli atau menjual saham dalam jumlah besar tanpa membuat harga bergerak liar, sehingga perdagangan sahamnya cenderung tipis dan sepi peminat. Kalau nantinya PURI mengejar syarat ini dengan menerbitkan saham baru, jumlah saham beredar akan bertambah dan kepemilikan pemegang saham lama berpotensi terdilusi, sedangkan kalau lewat penjualan sebagian saham milik pengendali, jumlah saham beredar tidak berubah tapi peta kekuasaan di perusahaan bisa bergeser. Yang perlu dipantau adalah tenggat 31 Maret 2029, batas waktu yang ditetapkan Bursa Efek Indonesia bagi PURI untuk mencapai free float minimum 15 persen, serta langkah konkret apa yang akhirnya diambil perusahaan menjelang tenggat itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ibst-go-private-bei-buka-sementara-suspensi-untuk-crossing-saham",
+  "category": "Aksi Korporasi",
+  "title": "IBST [Go Private]: BEI Buka Sementara Suspensi untuk Crossing Saham",
+  "deck": "Bursa membuka sementara perdagangan saham IBST di Pasar Negosiasi Selasa siang untuk transaksi crossing saham hasil buyback dalam proses go private dan delisting perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T13:24:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c09a000776_7b301b4ce1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IBST",
+  "tags": [
+   "IBST",
+   "delisting",
+   "go private",
+   "suspensi saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pembukaan sementara penghentian perdagangan efek PT Inti Bangun Sejahtera Tbk (IBST), khusus di Pasar Negosiasi, mulai Sesi II perdagangan Selasa, 15 September 2026 pukul 13.30 WIB. Pembukaan ini dilakukan untuk memfasilitasi transaksi crossing saham hasil pelaksanaan pembelian kembali saham (buyback) perseroan dalam rangka rencana go private dan voluntary delisting IBST dari bursa. Transaksi crossing akan dilaksanakan oleh PT Bahana Sekuritas selaku perusahaan efek yang ditunjuk perseroan.",
+   "Permintaan pembukaan sementara ini diajukan perseroan melalui surat bernomor 069/IBST-CSY/IX/2026 tertanggal 9 September 2026, terkait pelaksanaan crossing hasil penawaran tender sukarela (voluntary tender offer) yang dilakukan PT Iforte Solusi Infotek. Bursa menegaskan bahwa selama periode pembukaan suspensi ini, tidak ada transaksi lain selain crossing saham dimaksud yang diperbolehkan berlangsung.",
+   "Setelah transaksi pengalihan saham tersebut rampung, atau paling lambat pukul 14.00 WIB pada hari yang sama, bursa akan kembali menghentikan sementara perdagangan efek IBST di seluruh pasar pada Sesi II perdagangan 15 September 2026. Saham IBST tercatat di Papan Pemantauan Khusus dan telah disuspensi sejak 20 April 2026, dengan pencabutan suspensi khusus di Pasar Negosiasi sebelumnya sempat dilakukan pada 14 Agustus 2026."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's financial district at dusk, other skyscrapers in the background.",
+  "takeaway": "Pengumuman ini netral bagi penilaian kinerja emiten, karena isinya murni pengaturan teknis bursa untuk memuluskan tahap akhir proses go private dan delisting IBST yang sudah berjalan sejak April 2026, bukan informasi baru soal keuangan perseroan. Yang tersentuh adalah komposisi saham beredar di publik, transaksi crossing ini memindahkan saham hasil buyback, yakni saham yang dibeli balik perseroan dari pemegang saham publik, sehingga porsi kepemilikan publik menyusut mendekati ambang yang mengharuskan saham ditarik dari bursa. Bagi pemegang saham publik yang masih bertahan, konsekuensinya adalah hilangnya akses jual beli saham lewat bursa begitu proses delisting rampung, karena saham tidak lagi diperdagangkan secara terbuka. Yang perlu dipantau berikutnya adalah pelaksanaan transaksi crossing pada Selasa, 15 September 2026 pukul 13.30 hingga paling lambat 14.00 WIB, serta pengumuman resmi bursa soal status akhir delisting IBST setelah tahap ini selesai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lpck-ganti-komisaris-kinerja-1h26-menguat",
+  "category": "Aksi Korporasi",
+  "title": "LPCK Ganti [Komisaris], Kinerja 1H26 Menguat",
+  "deck": "RUPSLB Lippo Cikarang menyetujui Ketut Budi Wijaya sebagai komisaris baru menggantikan Charles Rigoux, seiring pra-penjualan dan margin EBITDA perseroan yang naik pada semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T13:23:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d23a2f8113_728bd37024.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPCK",
+  "tags": [
+   "LPCK",
+   "Lippo Cikarang",
+   "RUPSLB",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "PT Lippo Cikarang Tbk (LPCK) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 11 September 2026, di Hotel Aryaduta Menteng, Jakarta, yang berlangsung secara hybrid, gabungan tatap muka dan daring. Dalam rapat tersebut, pemegang saham menerima pengunduran diri Charles Rigoux dari jabatan Komisaris dan menyetujui pengangkatan Ketut Budi Wijaya sebagai penggantinya, meneruskan sisa masa jabatan Rigoux terhitung sejak RUPSLB ditutup. Perseroan menyebut telah menerima surat pengunduran diri Rigoux pada 17 Juli 2026 dan telah menyampaikan keterbukaan informasi soal itu kepada publik pada 20 Juli 2026.",
+   "RUPSLB ini juga menegaskan kembali susunan lengkap Dewan Komisaris dan Direksi LPCK untuk masa jabatan yang berlaku sejak penutupan RUPSLB sampai penutupan RUPS Tahunan pada 2029. Susunan Dewan Komisaris yang baru terdiri dari Didik Junaedi Rachbini sebagai Presiden Komisaris Independen, Hadi Cahyadi sebagai Komisaris Independen, serta Ketut Budi Wijaya dan George Raymond Zage III sebagai Komisaris. Sementara jajaran Direksi tetap terdiri dari Agus Arismunandar sebagai Presiden Direktur, dengan Marshal Martinus Tissadharma dan Indryanarum sebagai Direktur.",
+   "Dalam siaran pers yang sama, manajemen LPCK juga memaparkan kinerja semester pertama 2026. Pra-penjualan atau nilai unit properti yang sudah disepakati pembeli tercatat Rp902 miliar, naik 14 persen dari Rp791 miliar pada periode yang sama tahun sebelumnya, dan sudah mencapai 53 persen dari target sepanjang 2026. Penjualan rumah tapak menyumbang 69 persen dari total pra-penjualan tersebut. Perseroan juga membukukan EBITDA sebesar Rp318 miliar pada semester pertama 2026, dengan margin EBITDA meningkat menjadi 20 persen dari 13 persen pada periode yang sama tahun sebelumnya."
+  ],
+  "fotoAdegan": "Rows of newly built landed houses in a large suburban housing estate under construction, workers nearby, morning light",
+  "takeaway": "Laporan ini condong positif bagi LPCK karena pergantian komisaris berjalan mulus tanpa mengubah struktur pengendali, sementara kinerja operasional pada semester pertama 2026 justru menguat. EBITDA margin, yakni porsi laba operasional inti dibandingkan total pendapatan sebelum dipotong bunga, pajak, dan penyusutan, naik dari 13 persen menjadi 20 persen, tanda perseroan makin efisien menekan biaya dibanding pendapatan yang diperoleh. Pra-penjualan, yaitu nilai unit properti yang sudah dipesan pembeli tapi belum sepenuhnya dibayar dan dibukukan sebagai pendapatan, juga naik 14 persen menjadi Rp902 miliar, setara 53 persen dari target sepanjang 2026, didorong penjualan rumah tapak. Yang perlu dipantau selanjutnya adalah realisasi target pra-penjualan penuh tahun 2026 serta kinerja Dewan Komisaris dan Direksi yang baru disahkan, yang masa jabatannya berlaku sampai penutupan RUPS Tahunan 2029.",
+  "sentimen": "positif"
  },
  {
   "slug": "kadi-selidiki-dugaan-dumping-baja-impor-tiongkok",

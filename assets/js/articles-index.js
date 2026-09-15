@@ -687,6 +687,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "klbf-rencanakan-buyback-saham-rp500-miliar",
+  "category": "Aksi Korporasi",
+  "title": "KLBF Rencanakan Buyback Saham [Rp500 Miliar]",
+  "deck": "Kalbe Farma mengajukan rencana pembelian kembali saham senilai maksimal Rp500 miliar dari dana internal, memanfaatkan relaksasi OJK untuk kondisi pasar yang bergejolak.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KLBF",
+   "buyback saham",
+   "Kalbe Farma",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/656a7155bc_8f77a5c9ce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kementan-bongkar-25-merek-beras-fortifikasi-palsu",
   "category": "Bisnis",
   "title": "Kementan Bongkar 25 Merek Beras Fortifikasi [Palsu]",
@@ -702,6 +718,86 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467233-pemerintah-temukan-dugaan-pemalsuan-beras-fortifikasi-konsumen-terancam-rugi-rp89-triliun"
+ },
+ {
+  "slug": "ptsn-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PTSN Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan penjelasan BEI, Sat Nusapersada memastikan tak ada informasi material yang belum diungkap terkait fluktuasi harga dan volume sahamnya pada 11 September 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTSN",
+   "Sat Nusapersada",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3029b42e89_895d7127e7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-gelar-public-expose-usai-suspensi-laba-berbalik-rugi",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Gelar Public Expose Usai Suspensi, Laba Berbalik [Rugi]",
+  "deck": "NexAI Digital Infrastruktur (MGLV) menggelar public expose insidentil usai disuspensi BEI, mengungkap pendapatan semester I 2026 anjlok 74,6 persen dan berbalik rugi neto Rp14,1 miliar.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "NexAI Digital Infrastruktur",
+   "suspensi BEI",
+   "data center"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c65af9c967_b70d899bf6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "puri-baru-capai-14-74-free-float-diberi-waktu-hingga-2029",
+  "category": "Aksi Korporasi",
+  "title": "PURI Baru Capai [14,74%] Free Float, Diberi Waktu hingga 2029",
+  "deck": "PURI menjelaskan ke Bursa Efek Indonesia bahwa free float publiknya baru 14,74%, di bawah syarat minimum 15%, dan berjanji memenuhinya sebelum 31 Maret 2029.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PURI",
+   "free float",
+   "kepemilikan saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4b57675dc_f0b0b602c9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ibst-go-private-bei-buka-sementara-suspensi-untuk-crossing-saham",
+  "category": "Aksi Korporasi",
+  "title": "IBST [Go Private]: BEI Buka Sementara Suspensi untuk Crossing Saham",
+  "deck": "Bursa membuka sementara perdagangan saham IBST di Pasar Negosiasi Selasa siang untuk transaksi crossing saham hasil buyback dalam proses go private dan delisting perseroan.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IBST",
+   "delisting",
+   "go private",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c09a000776_7b301b4ce1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lpck-ganti-komisaris-kinerja-1h26-menguat",
+  "category": "Aksi Korporasi",
+  "title": "LPCK Ganti [Komisaris], Kinerja 1H26 Menguat",
+  "deck": "RUPSLB Lippo Cikarang menyetujui Ketut Budi Wijaya sebagai komisaris baru menggantikan Charles Rigoux, seiring pra-penjualan dan margin EBITDA perseroan yang naik pada semester I 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPCK",
+   "Lippo Cikarang",
+   "RUPSLB",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d23a2f8113_728bd37024.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kadi-selidiki-dugaan-dumping-baja-impor-tiongkok",
@@ -6398,103 +6494,6 @@ var ARTICLES = [
    "pengurangan modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d0af22490b_fcc777a2fd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbss-wgc-wajib-tender-beli-saham-publik-rp2-915-saham",
-  "category": "Aksi Korporasi",
-  "title": "MBSS: WGC Wajib [Tender] Beli Saham Publik Rp2.915/Saham",
-  "deck": "PT Wibowo Group Capital, pengendali baru MBSS, menawarkan beli maksimal 306,26 juta saham publik seharga Rp2.915 per lembar mulai 9 September hingga 8 Oktober 2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBSS",
-   "tender offer",
-   "akuisisi",
-   "Wibowo Group Capital"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3dd7bd6169_715425c9d8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "care-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "CARE Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia, Metro Healthcare Indonesia (CARE) menyatakan tidak ada informasi material atau rencana aksi korporasi di balik gejolak harga sahamnya.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CARE",
-   "Metro Healthcare Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3286e46678_05200b8b0f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-divestasi-13-anak-usaha-ke-twm-rampung",
-  "category": "Aksi Korporasi",
-  "title": "MGLV [Divestasi] 13 Anak Usaha ke TWM Rampung",
-  "deck": "MGLV resmi menyerahkan kepemilikan 13 anak usaha serta sejumlah aset dan kewajiban kepada PT Trijaya Wisesa Makmur, merampungkan transaksi yang diumumkan sejak akhir Juli 2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "divestasi",
-   "TWM",
-   "restrukturisasi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eaf69faa9f_108e74fb65.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "anggaran-mbg-2026-diprediksi-turun-di-bawah-rp200-triliun",
-  "category": "Makroekonomi",
-  "title": "Anggaran MBG 2026 Diprediksi [Turun] di Bawah Rp200 Triliun",
-  "deck": "Menkeu Purbaya menyebut anggaran MBG 2026 bisa di bawah Rp200 triliun, susut dari pagu awal Rp330 triliun, seiring efisiensi kepemimpinan baru Badan Gizi Nasional.",
-  "date": "8 September 2026",
-  "image": "assets/img/anggaran-mbg-2026-diprediksi-turun-di-bawah-rp200-triliun.jpg",
-  "imageV": "mtsktjtu",
-  "tags": [
-   "MBG",
-   "Purbaya Yudhi Sadewa",
-   "Badan Gizi Nasional",
-   "Anggaran 2026"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465759-purbaya-ungkap-efisiensi-mbg-anggaran-2026-diprediksi-di-bawah-rp200-triliun"
- },
- {
-  "slug": "saham-dooh-masuk-daftar-pemantauan-khusus-bei-mulai-9-september",
-  "category": "Aksi Korporasi",
-  "title": "Saham DOOH [Masuk] Daftar Pemantauan Khusus BEI Mulai 9 September",
-  "deck": "Bursa Efek Indonesia memasukkan saham DOOH (PT Era Media Sejahtera Tbk) ke daftar pemantauan khusus mulai 9 September 2026, menyusul suspensi perdagangan lebih dari satu hari.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "BEI",
-   "pemantauan khusus",
-   "suspensi perdagangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dc8ddd93aa_ea386ea8ee.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amar-gelar-rupslb-30-september-ganti-direktur-kepatuhan",
-  "category": "Aksi Korporasi",
-  "title": "AMAR Gelar RUPSLB 30 September, Ganti [Direktur Kepatuhan]",
-  "deck": "Bank Amar Indonesia memanggil pemegang saham untuk RUPSLB 30 September 2026 guna menyetujui pengunduran diri Thio Sucy dan pengangkatan Tjetjen Saputra sebagai Direktur Kepatuhan.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMAR",
-   "RUPSLB",
-   "Direktur Kepatuhan",
-   "Bank Amar Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cefd4a8287_e14aea8c90.pdf",
   "sourceLabel": "IDX"
  }
 ];

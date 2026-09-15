@@ -3,6 +3,397 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "asii-ungkap-rencana-vto-auto-senilai-rp858-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ASII Ungkap Rencana [VTO] AUTO Senilai Rp858 Miliar",
+  "deck": "Dalam public expose tahunan, Astra International merinci tender sukarela saham Astra Otoparts, realisasi belanja modal, dividen, dan penurunan laba segmen tambang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:25:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/867a440aab_c2e68c16c6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASII",
+  "tags": [
+   "ASII",
+   "AUTO",
+   "Astra International",
+   "public expose"
+  ],
+  "body": [
+   "PT Astra International Tbk (ASII) menyampaikan hasil public expose tahunan 2026 kepada Bursa Efek Indonesia, setelah menggelar acara pada 10 September 2026 yang dihadiri 158 peserta eksternal di luar jajaran manajemen dan karyawan perseroan. Dalam sesi tanya jawab, Presiden Direktur Rudy menjelaskan Astra tengah menjalankan penawaran tender sukarela (voluntary tender offer) atas saham anak usahanya, PT Astra Otoparts Tbk (AUTO), dengan harga penawaran Rp3.600 per saham. Perseroan menargetkan tambahan kepemilikan 4,95 persen, dari sekitar 80 persen menjadi sekitar 84,95 persen, dengan perkiraan total dana yang dikeluarkan mencapai Rp858 miliar. Jika target tercapai, kontribusi tambahan terhadap laba Astra diperkirakan sekitar Rp110 miliar hingga Rp115 miliar, mengacu pada estimasi laba AUTO saat ini di kisaran Rp2,2 triliun hingga Rp2,3 triliun. Direktur Gita Tiffani Boer, yang juga menjabat corporate secretary, menambahkan AUTO akan tetap memenuhi syarat batas minimum saham beredar publik (free float) sebesar 15 persen dan perseroan tidak berencana mengubah statusnya sebagai perusahaan tercatat.",
+   "Terkait belanja modal, Rudy memaparkan dari total rencana investasi 2026 sebesar Rp35,6 triliun, realisasi hingga semester pertama sudah mencapai Rp16,9 triliun. Sekitar Rp5,2 triliun di antaranya merupakan belanja modal rutin, sementara Rp11,7 triliun terutama digunakan untuk akuisisi tambang emas PT Arafura Surya Alam oleh grup PT United Tractors Tbk. Tersisa sekitar Rp19 triliun anggaran untuk paruh kedua tahun ini, yang mayoritas dialokasikan ke tiga bisnis inti Astra yaitu otomotif, jasa keuangan, serta solusi pertambangan dan alat berat, yang secara gabungan menyumbang sekitar 90 persen laba perseroan. Soal dividen, manajemen menegaskan akan mempertahankan rasio pembayaran di kisaran 45-50 persen seperti tahun-tahun sebelumnya, meski kinerja tahun berjalan tercatat turun dibanding tahun lalu, dan membuka opsi pembelian kembali saham secara berkala jika valuasi dinilai menarik.",
+   "Direktur Frans Kesuma mengungkapkan laba bersih segmen Solusi Pertambangan dan Alat Berat (MSHE) turun 46 persen pada semester pertama 2026, dipicu pembatasan kuota Rencana Kerja dan Anggaran Biaya (RKAB) batu bara nasional yang semula dipangkas 25 persen dari tahun lalu, sebelum direvisi naik 5 persen sehingga penurunan bersih menjadi sekitar 20 persen. Karena volume produksi tidak bisa ditingkatkan sesuai kuota tersebut, pendapatan segmen ini diperkirakan ikut turun, sehingga Astra berfokus pada efisiensi biaya operasi pertambangan untuk menahan dampaknya terhadap laba. Astra saat ini memiliki dua aset nikel dan tetap mencari tambahan aset sesuai kriteria investasinya, namun mengakui persaingan di industri nikel domestik sudah ketat, sementara ekspansi ke geothermal dinilai berisiko tinggi dan bergantung pada kebijakan pemerintah.",
+   "Mengenai pasar kendaraan, Direktur Gidion Hasan menyebut penjualan roda empat nasional pada Agustus 2026 mencapai sekitar 81 ribu unit, tertinggi sepanjang tahun ini, dengan kumulatif Januari-Agustus hampir 600 ribu unit atau tumbuh sekitar 20 persen dibanding periode sama tahun lalu. Astra masih mempertahankan pangsa pasar roda empat sekitar 50 persen di tengah persaingan dari pemain baru, dan meyakini proyeksi Gaikindo sebesar 850 ribu unit sepanjang 2026 bisa tercapai. Direktur Thomas Wijaya menambahkan pasar roda dua nasional selama Januari-Agustus mencapai sekitar 4,3 juta unit, tumbuh 2,2 persen, dengan pangsa pasar Astra Honda bertahan di sekitar 77 persen, sementara Asosiasi Industri Sepeda Motor Indonesia memproyeksikan pasar tahun ini mencapai 6,4 juta hingga 6,7 juta unit meski ada risiko cuaca El Nino di akhir tahun."
+  ],
+  "fotoAdegan": "Yellow mining haul trucks and excavators operating at a coal mining site in Kalimantan, dusty road, overcast sky, wide shot",
+  "takeaway": "Laporan ini condong netral karena memuat kabar yang saling menyeimbangkan: rencana penambahan kepemilikan di AUTO dan realisasi belanja modal berjalan sesuai target, tetapi laba segmen tambang dan alat berat anjlok 46 persen akibat pembatasan kuota batu bara. Yang tersentuh adalah laba per saham dan arus kas investasi, dana sekitar Rp858 miliar untuk menambah 4,95 persen saham AUTO diperkirakan hanya menambah laba Astra sekitar Rp110-115 miliar per tahun, sementara dari rencana belanja modal Rp35,6 triliun tahun ini baru Rp16,9 triliun yang terpakai, menyisakan Rp19 triliun untuk semester kedua. Manajemen tetap mempertahankan rasio pembayaran dividen di 45-50 persen meski kinerja tahun berjalan turun dibanding tahun lalu, sinyal bahwa arus kas perseroan masih dianggap cukup untuk menjaga komitmen ke pemegang saham. Yang perlu dipantau berikutnya adalah penyelesaian proses tender sukarela saham AUTO seharga Rp3.600 per saham, realisasi belanja modal sisa Rp19 triliun pada paruh kedua 2026, serta dampak revisi kuota RKAB batu bara terhadap laporan keuangan kuartal ketiga Astra.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bmbl-direktur-keuangan-dan-umum-mengundurkan-diri",
+  "category": "Aksi Korporasi",
+  "title": "BMBL: Direktur Keuangan dan Umum [Mengundurkan Diri]",
+  "deck": "PT Lavender Bina Cendikia Tbk menerima surat pengunduran diri Direktur Keuangan dan Umum Elita Swasti Nandiko pada 11 September 2026, keputusan final menunggu RUPSLB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:20:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bda25f9f53_0039f4e262.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMBL",
+  "tags": [
+   "BMBL",
+   "Direksi",
+   "RUPSLB",
+   "Tata Kelola Perusahaan"
+  ],
+  "body": [
+   "PT Lavender Bina Cendikia Tbk (BMBL) menyampaikan keterbukaan informasi bahwa pada 11 September 2026 perseroan menerima surat pengunduran diri melalui email dari Elita Swasti Nandiko, yang menjabat Direktur Keuangan dan Umum sejak 06 Juni 2024. Dalam suratnya, ia menyatakan keputusan mundur dari jabatan tersebut tanpa merinci alasan pengunduran diri.",
+   "Sesuai ketentuan perundang-undangan dan anggaran dasar perseroan, permohonan ini baru sah setelah disetujui Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), yang akan digelar BMBL dalam jangka waktu sesuai aturan yang berlaku sejak surat diterima. Perseroan belum mengumumkan tanggal pasti RUPSLB tersebut. Sampai keputusan itu keluar, Elita Swasti Nandiko tetap tercatat sebagai anggota Direksi. Susunan pengurus lain tidak berubah: Galih Pandekar tetap Direktur Utama, Dewi Ariyanti tetap Direktur, Muhammad Arif Saadilah tercatat sebagai Direktur sejak 17 Juni 2026, sementara jajaran komisaris terdiri dari Sri Harjanto sebagai Komisaris Utama merangkap komisaris independen, Wildan Fauzan, dan Tini Ismiyani.",
+   "Perseroan menegaskan bahwa pengunduran diri ini tidak berdampak material terhadap kegiatan usaha, operasional, kondisi keuangan, maupun kelangsungan usaha, dan akan mengatur pengalihan tugas agar pengelolaan keuangan serta administrasi tetap berjalan normal. BMBL juga berjanji menyampaikan informasi lebih lanjut mengenai hasil RUPSLB dan susunan direksi terbaru kepada Otoritas Jasa Keuangan dan masyarakat."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with a long table and leather chairs, city skyline visible through floor-to-ceiling windows, soft morning light",
+  "takeaway": "Laporan ini netral bagi BMBL, karena isinya murni pergantian personel di kursi direksi tanpa transaksi keuangan atau perubahan strategi usaha, dan perseroan sendiri menegaskan tidak ada dampak material terhadap operasional maupun kondisi keuangan. Yang tetap perlu dicermati adalah kesinambungan fungsi pengawasan keuangan perusahaan, sebab jabatan yang ditinggalkan, Direktur Keuangan dan Umum, biasanya ikut mengawasi arus kas dan pelaporan keuangan perseroan sehari-hari sampai ada pengganti definitif. Yang dipantau berikutnya adalah RUPSLB yang akan digelar BMBL untuk mengesahkan atau menolak pengunduran diri ini, serta pengumuman siapa yang akan mengisi kursi Direktur Keuangan dan Umum secara permanen, mengingat perseroan belum merilis tanggal pasti rapat tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smil-balas-bursa-kas-tergerus-89-piutang-dan-stok-naik",
+  "category": "Aksi Korporasi",
+  "title": "SMIL Balas Bursa: [Kas] Tergerus 89%, Piutang dan Stok Naik",
+  "deck": "Dalam jawaban resmi ke Bursa Efek Indonesia, SMIL merinci kenaikan piutang, persediaan, dan uang muka pembelian 606 unit forklift senilai CNY40,07 juta, di tengah kas yang menyusut tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:16:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/01a74cb624_2e06d3d367.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMIL",
+  "tags": [
+   "SMIL",
+   "forklift",
+   "Bursa Efek Indonesia",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Sarana Mitra Luas Tbk (SMIL) mengoreksi surat sebelumnya dan menyampaikan jawaban lengkap atas permintaan penjelasan Bursa Efek Indonesia nomor S-11287/BEI.PP2/09-2026 tanggal 3 September 2026 terkait laporan keuangan interim per 30 Juni 2026. Piutang usaha pihak ketiga naik menjadi Rp135,93 miliar, bertambah Rp16,92 miliar atau 14,23 persen dari Rp119,00 miliar pada akhir 2025, didorong pertumbuhan sewa dan penjualan forklift. Perseroan menyebut laju kenaikan piutang ini masih di bawah pertumbuhan pendapatan yang mencapai 19,31 persen. Realisasi penerimaan piutang setelah 30 Juni 2026 tercatat Rp62.750.276.128 atau 46,16 persen dari saldo, sementara piutang yang telah menunggak lebih dari 60 hari mencapai Rp39,05 miliar atau 27,3 persen dari saldo piutang bruto.",
+   "Persediaan naik menjadi Rp105,91 miliar, bertambah Rp19,28 miliar atau 22,26 persen, dengan komposisi forklift siap jual Rp99.412.643.730 (93,9 persen) dan suku cadang Rp6.500.867.379 (6,1 persen). Perseroan menyebut penjualan forklift tumbuh sekitar 423 persen pada 2025 dibandingkan 2024. Uang muka pembelian aset tetap melonjak 154,95 persen menjadi Rp98,93 miliar, dan seluruhnya, 100 persen, merupakan uang muka kepada satu pemasok yaitu Heli Southeast Asia Co., Ltd untuk 606 unit forklift senilai CNY40.065.054. Realisasi pengadaan sampai saat penjelasan ini disampaikan sudah mencapai Rp61.348.672.392 atau 62 persen dari total uang muka, dengan target transaksi rampung dan unit mulai beroperasi pada Oktober 2026.",
+   "Di sisi lain, kas dan bank turun tajam dari Rp76,73 miliar menjadi Rp7,98 miliar, berkurang Rp68,75 miliar dalam enam bulan, sementara deposito berjangka relatif tetap di Rp65,50 miliar, terdiri dari Rp60 miliar di PT Bank Pan Indonesia Tbk dan Rp5,5 miliar di PT Bank Danamon Indonesia Tbk dengan bunga 4,25 sampai 6,25 persen per tahun, sebagian dijadikan agunan kredit. Total aset naik 3,65 persen menjadi Rp1,198 triliun, sedangkan pendapatan semester I 2026 naik 19,31 persen menjadi Rp250,83 miliar, terutama disumbang sewa forklift neto yang naik dari Rp203,44 miliar menjadi Rp239,34 miliar. Perseroan menargetkan pendapatan Rp600 miliar dan laba bersih Rp120 miliar untuk tahun 2026 penuh."
+  ],
+  "fotoAdegan": "Rows of electric forklifts parked in a warehouse yard, workers inspecting battery packs, industrial afternoon light",
+  "takeaway": "Laporan ini condong netral: bisnis inti sewa dan penjualan forklift SMIL tumbuh solid dan kenaikan piutangnya masih proporsional, tapi kas perusahaan menyusut hampir 90 persen dalam enam bulan dan lebih dari seperempat piutangnya sudah menunggak di atas 60 hari. Yang tersentuh adalah arus kas, yaitu uang tunai yang biasanya jadi bantalan perusahaan saat butuh dana mendadak, yang di sini terkuras karena dipakai membiayai uang muka pembelian ratusan unit forklift baru, dan hampir seluruh komitmen pembelian itu bergantung pada satu pemasok tunggal dari luar negeri sehingga risikonya menumpuk pada satu pihak. Piutang yang menunggak lebih dari 60 hari senilai Rp39,05 miliar juga perlu dicermati karena itu pendapatan yang sudah tercatat di buku tapi uangnya belum benar-benar masuk. Yang perlu dipantau berikutnya adalah realisasi penyelesaian pembelian 606 unit forklift dari Heli Southeast Asia yang ditargetkan rampung dan mulai beroperasi Oktober 2026, serta apakah target pendapatan Rp600 miliar dan laba bersih Rp120 miliar untuk 2026 bisa tercapai mengingat kas tunai perusahaan kini sangat tipis.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "klbf-batalkan-rencana-buyback-saham-di-tengah-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "KLBF Batalkan Rencana [Buyback] Saham di Tengah Pasar Bergejolak",
+  "deck": "Kalbe Farma membatalkan rencana pembelian kembali saham yang baru diumumkan pada hari yang sama, tanpa menyebut kapan rencana itu akan dijalankan kembali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:16:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a11448b9b3_5e1452d83c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KLBF",
+  "tags": [
+   "KLBF",
+   "Kalbe Farma",
+   "buyback saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Kalbe Farma Tbk (KLBF) membatalkan rencana pembelian kembali saham (buyback) dalam kondisi pasar berfluktuasi signifikan, yang sebelumnya diumumkan lewat surat bernomor 066/CSEC-KF/IX-2026 pada tanggal yang sama, 15 September 2026. Pembatalan ini disampaikan melalui surat koreksi bernomor 068/CSEC-KF/IX-2026 yang juga terbit pada 15 September 2026.",
+   "Dalam surat tersebut, perseroan menyatakan pembatalan berlaku sampai dengan waktu yang akan ditentukan kemudian oleh Kalbe Farma, tanpa mencantumkan jadwal baru atau jumlah dana dan saham yang sebelumnya dialokasikan untuk rencana buyback itu. Surat ditandatangani oleh Corporate Secretary Kalbe Farma, Maria Teresa Fabiola.",
+   "Kalbe Farma menegaskan bahwa peristiwa pembatalan ini tidak memiliki dampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Pharmaceutical production line with workers in white coats inspecting medicine packaging under bright industrial lighting",
+  "takeaway": "Pembatalan ini netral bagi fundamental Kalbe Farma karena rencana buyback belum sempat dieksekusi, jadi tidak ada kas perusahaan yang sudah keluar maupun ditarik kembali. Buyback adalah aksi perusahaan membeli kembali sahamnya sendiri dari pasar, yang biasanya mengurangi jumlah saham beredar sehingga laba per saham naik karena dibagi dengan saham yang lebih sedikit; batalnya rencana ini berarti potensi itu untuk sementara tidak terjadi, tapi juga tidak menguras kas perseroan. Yang perlu dipantau selanjutnya adalah apakah dan kapan Kalbe Farma mengumumkan kembali rencana buyback baru, sebab perseroan hanya menyebut pembatalan berlaku sampai waktu yang akan ditentukan kemudian tanpa memberi tenggat pasti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptpp-kantongi-kontrak-rp145-3-miliar-bangun-museum-majapahit",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Kantongi [Kontrak] Rp145,3 Miliar Bangun Museum Majapahit",
+  "deck": "PTPP memulai konstruksi Museum Majapahit di Trowulan, Mojokerto, dengan nilai kontrak Rp145,30 miliar dan masa kerja 114 hari.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:08:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1d2cb5f2f_000472f032.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "konstruksi",
+   "Museum Majapahit",
+   "kontrak baru"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk (PTPP) memulai Pekerjaan Konstruksi Terintegrasi Rancang dan Bangun Museum Majapahit di Trowulan, Mojokerto, Jawa Timur, menyusul groundbreaking yang digelar Minggu, 13 September 2026. Acara tersebut dihadiri Menteri Kebudayaan Fadli Zon, Bupati Mojokerto Muhammad Al Barra, Wali Kota Mojokerto Ika Puspitasari, Bupati Jombang Warsubi, Direktur Jenderal Pelindungan Kebudayaan dan Tradisi Kementerian Kebudayaan Restu Gunawan, serta Direktur Utama PTPP Novel Arsyad. Museum ini dirancang sebagai wadah konservasi sejarah Majapahit sekaligus pusat edukasi dan penunjang wisata budaya di kawasan Trowulan.",
+   "Nilai kontrak proyek ini tercatat Rp145,30 miliar di luar PPN, dengan masa pelaksanaan 114 hari kerja. Karena lokasi proyek berada di kawasan bernilai arkeologi tinggi, PTPP menggunakan pondasi dangkal atau raft foundation agar tidak mengganggu temuan arkeologi di sekitar area pembangunan. Desain museum juga menyertakan sistem drainase yang menampung dan memakai ulang air hujan untuk penyiraman tanaman, serta panel surya sebagai sumber energi penerangan guna menekan konsumsi listrik.",
+   "Menteri Kebudayaan Fadli Zon menyampaikan bahwa proyek ini merupakan bagian dari program revitalisasi istana, keraton, museum, dan cagar budaya sesuai arahan Presiden Prabowo Subianto, dengan desain yang dipilih melalui sayembara. Corporate Secretary PTPP, Joko Raharjo, menyatakan perseroan berkomitmen menyelesaikan pembangunan dengan memperhatikan karakter kawasan, kualitas konstruksi, dan prinsip keberlanjutan."
+  ],
+  "fotoAdegan": "Construction workers laying a shallow concrete foundation near ancient brick ruins under an overcast sky in rural East Java",
+  "takeaway": "Laporan ini condong netral dengan sedikit sisi positif bagi PTPP, karena kontrak baru senilai Rp145,3 miliar menambah pekerjaan konstruksi perseroan, tapi nilainya relatif kecil dan tidak mengubah gambaran besar kondisi keuangan perusahaan yang tengah menanggung utang Rp18,2 triliun. Pos yang tersentuh adalah arus kas, yakni aliran uang masuk dan keluar perusahaan, karena kontrak baru berarti tambahan pendapatan bertahap seiring progres pengerjaan, hal yang penting dipantau ketika PTPP sedang menjaga arus kas di tengah proses restrukturisasi utang ke bank BUMN. Yang perlu dipantau berikutnya adalah penyelesaian proyek dalam 114 hari kerja sejak groundbreaking 13 September 2026, serta apakah PTPP mampu terus memperoleh proyek pemerintah baru untuk menopang pemulihan arus kasnya di tengah status CreditWatch negatif yang disematkan pada peringkat utangnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gsmf-pemegang-saham-pengendali-tambah-kepemilikan-ke-70-8",
+  "category": "Aksi Korporasi",
+  "title": "GSMF: Pemegang Saham Pengendali Tambah Kepemilikan ke [70,8%]",
+  "deck": "Pengendali GSMF menyuntik dana Rp130,68 miliar dan menaikkan kepemilikan dari 68,28% jadi 70,8% lewat PMTHMETD, saat menjawab permintaan penjelasan volatilitas saham dari BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:05:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/64c8c223b8_3eac3ac642.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GSMF",
+  "tags": [
+   "GSMF",
+   "PMTHMETD",
+   "pemegang saham pengendali",
+   "volatilitas saham"
+  ],
+  "body": [
+   "Equity Development Investment Tbk (GSMF) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi sahamnya pada 10 September 2026. Surat permintaan BEI bernomor S-11911/BEI.PP2/09-2026 itu dijawab perseroan melalui surat No. 219/EDI/IX/2026 tanggal 14 September 2026, yang disampaikan ke bursa pada 15 September pukul 17.05 dan ditandatangani Corporate Secretary Timothy Sulastyo. Dalam jawabannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkap ke publik yang bisa memengaruhi harga saham atau keputusan investor, sesuai aturan keterbukaan informasi OJK maupun Peraturan Bursa Nomor I-E.",
+   "Perseroan mengonfirmasi tengah menjalankan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) yang sudah diumumkan sejak 11 Juni 2026. Tahap pertama penambahan modal itu rampung pada 25 Juni 2026 dengan penerbitan 1.226.415.100 saham baru, setara 8,62 persen dari total saham beredar saat itu. Tahap kedua direncanakan berlangsung sepanjang 2026 dengan penerbitan maksimal 196.624.800 saham tambahan, sehingga total saham baru dari seluruh proses PMTHMETD ini paling banyak 1.423.039.900 saham, atau maksimal 10 persen dari 14.230.399.705 saham yang sudah ditempatkan dan disetor penuh perseroan.",
+   "Dokumen itu juga mengungkap bahwa pemegang saham pengendali, Equity Global Investment Limited, menaikkan kepemilikannya di GSMF dari 68,28 persen menjadi 70,8 persen. Kenaikan itu terjadi karena Equity Global Investment Limited ikut menyetor modal senilai Rp130.677.392.800 pada pelaksanaan Tahap I PMTHMETD, sesuai surat perseroan No. 170/EDI/VI/2026 tanggal 26 Juni 2026 perihal hasil pelaksanaan penambahan modal tersebut. Perseroan menyebut langkah ini menunjukkan komitmen pemegang saham pengendali untuk mempertahankan kepemilikannya di GSMF."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's financial district skyline at dusk, lit office towers and busy street traffic below",
+  "takeaway": "Laporan ini condong positif bagi GSMF karena pemegang saham pengendalinya menambah dana segar dan memperbesar kepemilikan, bukan melepas saham, di tengah sorotan bursa atas volatilitas harga. Suntikan modal Rp130,68 miliar dari pengendali menambah ekuitas, yaitu modal sendiri perseroan yang jadi bantalan keuangan tambahan, tapi penerbitan saham baru lewat PMTHMETD tanpa jatah proporsional bagi pemegang saham lain juga menambah jumlah saham beredar hingga maksimal 10 persen, yang secara teknis bisa mengecilkan porsi laba per saham pemegang saham lama kalau laba perseroan tidak tumbuh sebanding. Yang perlu dipantau selanjutnya adalah pelaksanaan Tahap II PMTHMETD yang menurut perseroan berlangsung sepanjang 2026, karena besaran saham baru yang benar-benar diterbitkan pada tahap ini akan menentukan apakah dilusi mencapai batas maksimal 10 persen atau lebih rendah.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bjbr-peringkat-sejumlah-obligasi-bank-bjb-turun-ke-idaa",
+  "category": "Aksi Korporasi",
+  "title": "BJBR: Peringkat Sejumlah Obligasi Bank BJB Turun ke [idAA-]",
+  "deck": "PEFINDO memangkas peringkat obligasi keberlanjutan, surat berharga perpetual, dan obligasi subordinasi Bank BJB senilai total sekitar Rp5,7 triliun turun satu tingkat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:05:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/94dee42a62_c2985bb5f7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BJBR",
+  "tags": [
+   "BJBR",
+   "Bank BJB",
+   "PEFINDO",
+   "obligasi"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menurunkan peringkat sejumlah instrumen utang Bank Pembangunan Daerah Jawa Barat dan Banten Tbk (BJBR) satu tingkat, berdasarkan hasil rapat komite pemeringkatan pada 9 September 2026. Penawaran Umum Berkelanjutan (PUB) I Obligasi Keberlanjutan Bank BJB dengan plafon maksimum Rp2 triliun turun dari idAA menjadi idAA-, sama dengan empat seri obligasi yang sudah terbit dari program itu, yaitu Tahap I 2024 Seri A dan B serta Tahap II 2026 Seri A dan B, dengan total nilai pokok Rp1,93 triliun dan jatuh tempo bertahap dari Desember 2027 hingga April 2031. PUB I Surat Berharga Perpetual dengan plafon maksimum Rp3 triliun juga turun, dari idA menjadi idA-, termasuk seri yang sudah terbit senilai Rp1 triliun dengan jatuh tempo 10 Juni 2030.",
+   "Penurunan serupa terjadi pada obligasi subordinasi. Enam seri Obligasi Subordinasi Berkelanjutan II, III, dan IV Bank BJB, dengan total nilai pokok Rp3,77 triliun dan jatuh tempo tersebar antara Maret 2027 sampai Juli 2031, turun dari idA+ menjadi idA. Semua peringkat baru ini disertai outlook stabil dan berlaku untuk periode 9 September 2026 sampai 1 September 2027. Adapun Obligasi Berkelanjutan I Bank BJB Tahap III Tahun 2019 Seri C senilai Rp74 miliar, yang jatuh tempo 18 Oktober 2026, tetap di peringkat idAA- karena berstatus obligasi senior yang tidak termasuk dalam kelompok yang diturunkan.",
+   "PEFINDO menyatakan penilaian ini didasarkan pada laporan keuangan tidak diaudit per 30 Juni 2026 dan laporan keuangan audit per 31 Desember 2025. Surat hasil pemeringkatan bernomor RC-1217/PEF-DIR/IX/2026 diterbitkan 9 September 2026, diterima manajemen BJBR pada 11 September 2026, dan dipublikasikan ke Bursa Efek Indonesia pada tanggal yang sama, ditandatangani Direktur Utama BJBR Ayi Subarna sebagai penerima."
+  ],
+  "fotoAdegan": "Exterior of a modern regional bank branch in Bandung, glass facade reflecting a cloudy sky, pedestrians walking past in the afternoon.",
+  "takeaway": "Laporan ini condong negatif bagi BJBR, karena PEFINDO memangkas peringkat hampir seluruh obligasi subordinasi dan surat berharga perpetualnya satu tingkat sekaligus, bukan cuma satu seri, dan itu jarang terjadi dalam pemeringkatan tahunan yang normal. Yang tersentuh adalah beban bunga ke depan, sebab peringkat yang lebih rendah biasanya membuat investor obligasi meminta imbal hasil lebih tinggi saat BJB menerbitkan surat utang baru, sehingga biaya pendanaan bank berpotensi naik. Obligasi subordinasi dan surat berharga perpetual sendiri adalah jenis utang yang ikut menyerap kerugian bank saat kondisi memburuk, sehingga penurunan peringkatnya juga mencerminkan penilaian PEFINDO atas ketahanan modal BJB, bukan sekadar soal bunga. Yang perlu dipantau selanjutnya adalah performa BJB sampai peringkat ini kembali dievaluasi pada akhir periode berlaku, 1 September 2027, serta batas waktu penerbitan sisa plafon PUB I Obligasi Keberlanjutan dan PUB I Surat Berharga Perpetual pada 29 November 2026, karena penerbitan setelah tanggal itu memerlukan program baru.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "adin-ganti-direktur-utama-wahyu-sulistiyo-gantikan-priyadi",
+  "category": "Aksi Korporasi",
+  "title": "ADIN Ganti [Direktur Utama], Wahyu Sulistiyo Gantikan Priyadi",
+  "deck": "ADIN mengangkat Wahyu Sulistiyo sebagai Presiden Direktur baru menggantikan Priyadi, yang berpindah menjadi komisaris, efektif 15 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:01:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f5c7ef061_37be6c9d39.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADIN",
+  "tags": [
+   "ADIN",
+   "pergantian direksi",
+   "dewan komisaris",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "Emiten dengan kode ADIN mengumumkan perubahan susunan direksi dan dewan komisaris yang berlaku efektif sejak 15 September 2026. Wahyu Sulistiyo diangkat sebagai Presiden Direktur menggantikan Priyadi. Perubahan ini diputuskan melalui mekanisme keputusan para pemegang saham di luar Rapat Umum Pemegang Saham (RUPS), sehingga langsung berlaku tanpa menunggu rapat umum lebih lanjut.",
+   "Priyadi, yang sebelumnya menjabat Presiden Direktur, kini berpindah ke Dewan Komisaris menggantikan Susanti sebagai Komisaris. Susunan pengurus lain tidak berubah: Djohan Nurjadi dan Lili Pratiwi tetap menjabat Direktur sejak 11 Desember 2022, Nyoman Oka Widiadnyana tetap Direktur sejak 7 Maret 2025, dan Skala Amanda tetap Direktur sekaligus Corporate Secretary sejak 10 September 2025. Di jajaran komisaris, Julius Aslan tetap menjabat Presiden Komisaris sejak 7 Maret 2025, Lie Luckman tetap Komisaris sejak 10 September 2025, Patipat Korbsook tetap Komisaris sejak 1 April 2026, serta Mohammad Effendi dan Ignatius Robby Sani tetap menjabat sebagai Komisaris Independen sejak 15 April 2026.",
+   "Perusahaan menyebut pelaporan ini disampaikan untuk memenuhi kewajiban keterbukaan informasi berdasarkan Pasal 52 Peraturan OJK Nomor 45 Tahun 2024 tentang Pengembangan dan Penguatan Emiten dan Perusahaan Publik, juncto Pasal 6 huruf l Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan atas Informasi atau Fakta Material. Surat pemberitahuan ditujukan kepada OJK dengan tembusan ke Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Modern glass office tower exterior in Jakarta's business district, morning sunlight reflecting off windows, street traffic below.",
+  "takeaway": "Perubahan ini condong netral bagi ADIN karena polanya menyerupai rotasi kepemimpinan biasa, bukan sinyal masalah: Priyadi tidak keluar dari jajaran pengurus, melainkan berpindah dari kursi Presiden Direktur ke Dewan Komisaris, sementara mayoritas direktur dan komisaris lain tetap di posisinya. Laporan semacam ini tidak langsung mengubah pos keuangan seperti ekuitas, arus kas, atau laba per saham, tapi pelaku pasar tetap memperhatikan pergantian pucuk pimpinan operasional karena arah strategi dan keputusan bisnis harian perusahaan bisa berubah di tangan direktur utama baru. Dasar hukumnya adalah keputusan pemegang saham di luar RUPS yang berlaku efektif langsung pada 15 September 2026, jadi perubahan ini sudah sah tanpa proses rapat umum tambahan. Yang perlu dipantau selanjutnya adalah langkah dan kebijakan awal dari Wahyu Sulistiyo sebagai Presiden Direktur baru, sebab dokumen ini tidak menjelaskan alasan pergantian maupun agenda strategis ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inkp-laporkan-sisa-dana-obligasi-sukuk-rp3-4-triliun-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "INKP Laporkan Sisa Dana Obligasi-Sukuk Rp3,4 Triliun [Obligasi]",
+  "deck": "Indah Kiat melaporkan koreksi realisasi dana hasil obligasi dan sukuk senilai Rp4,6 triliun yang terbit Maret 2026. Sisa dana Rp3,4 triliun masih mengendap di bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:01:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/01da1eadc0_3817612c6b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "penggunaan dana"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) menyampaikan koreksi atas laporan penggunaan dana hasil penawaran umum yang sebelumnya terbit 10 Juli 2026. Perseroan menerbitkan dua instrumen sekaligus pada 13 Maret 2026, yaitu Obligasi Berkelanjutan VI Tahap II Tahun 2026 senilai Rp2,28 triliun dan Sukuk Mudharabah Berkelanjutan V Tahap II Tahun 2026 senilai Rp2,33 triliun, sehingga total dana yang terkumpul mencapai Rp4,61 triliun. Setelah dipotong biaya penawaran sebesar Rp9,79 miliar untuk obligasi dan Rp9,58 miliar untuk sukuk, hasil bersih yang diterima perseroan masing-masing adalah Rp2,27 triliun dan Rp2,32 triliun.",
+   "Sesuai prospektus, dana obligasi dialokasikan 34 persen atau Rp766,03 miliar untuk membayar pokok dan bunga utang, serta 66 persen atau Rp1,5 triliun untuk modal kerja. Sampai laporan ini terbit, realisasinya baru Rp164,56 miliar untuk pembayaran utang dan Rp196,32 miliar untuk modal kerja, sehingga sisa dana obligasi yang belum terpakai mencapai Rp1,91 triliun. Pola serupa terjadi pada sukuk: dari rencana 40 persen atau Rp925,29 miliar untuk pembayaran utang dan 60 persen atau Rp1,4 triliun untuk modal kerja, baru terealisasi Rp120,41 miliar dan Rp700,73 miliar, sehingga tersisa Rp1,5 triliun. Seluruh sisa dana ditempatkan dalam bentuk giro, dana obligasi di PT Bank Negara Indonesia (Persero) Tbk dengan bunga 6 persen per tahun, dan dana sukuk di PT Bank Syariah Indonesia (Persero) Tbk dengan bagi hasil 6,5 persen per tahun.",
+   "Laporan yang ditandatangani Corporate Secretary Heri Santoso pada 15 September 2026 ini mengoreksi laporan bernomor 043/CRP/IK/VII/2026 tanggal 10 Juli 2026 yang sebelumnya ditandatangani Direktur Kurniawan Yuwono. Penyampaian laporan ini merujuk Peraturan Otoritas Jasa Keuangan Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum, yang mewajibkan emiten melaporkan secara berkala realisasi penggunaan dana hasil penerbitan efek utang sampai seluruh dana terpakai."
+  ],
+  "fotoAdegan": "Stacks of raw pulp bales and large paper rolls inside an industrial paper mill warehouse, forklift moving nearby, workers in safety vests.",
+  "takeaway": "Laporan ini netral bagi kinerja INKP, karena penggunaan dana masih berjalan sesuai proporsi yang dijanjikan di prospektus, hanya kecepatannya yang tergolong lambat, mengingat dari total Rp4,61 triliun dana yang terkumpul sejak Maret 2026, sekitar Rp3,4 triliun atau lebih dari 70 persen masih mengendap di bank dan belum dipakai. Pos yang tersentuh adalah beban bunga, karena porsi dana untuk membayar pokok dan bunga utang baru terpakai kurang dari seperempat dari rencana di kedua instrumen, sehingga potensi penghematan beban bunga dari pelunasan utang belum banyak terasa. Sisi baiknya, dana yang belum terpakai itu tidak menganggur, melainkan ditempatkan di giro bank berbunga 6 sampai 6,5 persen per tahun sehingga tetap memberi pendapatan bagi perseroan. Yang perlu dipantau berikutnya adalah laporan realisasi periode mendatang, terutama apakah perseroan mempercepat pembayaran utang menuju target penyelesaian yang disebut dalam dokumen sekitar akhir tahun 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "edge-terima-pinjaman-us-50-juta-dari-dehk-untuk-data-center",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Terima [Pinjaman] US$50 Juta dari DEHK untuk Data Center",
+  "deck": "PT Indointernet Tbk (EDGE) mengumumkan transaksi afiliasi berupa pinjaman US$50 juta dari pengendali DEHK ke dua anak usahanya untuk mendanai pengembangan pusat data.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T16:53:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/31c7c2bf5d_c94fe7b2c9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "transaksi afiliasi",
+   "pusat data",
+   "Digital Edge"
+  ],
+  "body": [
+   "PT Indointernet Tbk (EDGE) melaporkan kepada Bursa Efek Indonesia bahwa pada 11 September 2026 pemegang saham pengendalinya, Digital Edge (Hong Kong) Limited (DEHK), menyepakati pemberian fasilitas pinjaman antar-perusahaan kepada dua anak usaha EDGE, yaitu PT Digital Gayana Ekagrata (DGE1) dan PT Digital Gayana Ekaprana (DGE2). DEHK menguasai 59,47 persen saham EDGE, sementara EDGE sendiri memiliki 99,99 persen saham di DGE1 maupun DGE2, sehingga transaksi ini tergolong transaksi afiliasi. Nilai fasilitas untuk DGE1 mencapai maksimum US$42,5 juta dan untuk DGE2 maksimum US$7,5 juta, sehingga totalnya sekitar US$50 juta atau setara 48,5 persen dari ekuitas EDGE per 30 Juni 2026 yang tercatat Rp1,81 triliun. Dana ini akan dipakai DGE1 dan DGE2 untuk membiayai proyek pengembangan pusat data (data center).",
+   "Bunga pinjaman untuk DGE1 mengacu suku bunga acuan global SOFR ditambah 2,60 persen per tahun, sedangkan untuk DGE2 SOFR ditambah 2,50 persen per tahun. Kedua pinjaman tidak dijamin dengan agunan khusus, dan baru jatuh tempo setelah DGE1 dan DGE2 melunasi seluruh kewajiban mereka atas fasilitas pembiayaan senior dari bank, dengan opsi perpanjangan berdasarkan kesepakatan para pihak. Perjanjian pinjaman ini tunduk pada hukum Inggris, dan bila terjadi sengketa akan diselesaikan lewat arbitrase di Singapore International Arbitration Centre dengan tiga arbiter berkedudukan di Singapura.",
+   "Karena nilai transaksi berada di kisaran 20 hingga 50 persen dari ekuitas perseroan, transaksi ini tergolong transaksi material yang cukup diumumkan ke publik tanpa memerlukan persetujuan RUPS. EDGE menunjuk Kantor Jasa Penilai Publik Ferdinand, Danar, Ichsan dan Rekan sebagai penilai independen, yang dalam laporan bertanggal 9 September 2026 menyimpulkan opini kewajaran atas transaksi ini adalah wajar. Direksi dan Dewan Komisaris EDGE menyatakan transaksi tidak mengandung benturan kepentingan dan seluruh informasi material telah diungkapkan."
+  ],
+  "fotoAdegan": "Technicians installing server racks inside a data center hall lined with cooling units and cable trays, cool blue lighting",
+  "takeaway": "Transaksi ini netral bagi fundamental EDGE, sebab dananya berputar di dalam satu grup usaha, dari pengendali DEHK ke dua anak usaha yang sahamnya nyaris seluruhnya dikuasai EDGE, dan penilai independen sudah menyimpulkan persyaratannya wajar. Yang tersentuh adalah beban bunga dan arus kas di level anak usaha, karena DGE1 dan DGE2 kini menanggung utang berbunga mengacu suku bunga acuan global SOFR ditambah sekitar 2,5 hingga 2,6 persen per tahun, dan pinjaman ini baru bisa dilunasi setelah utang bank yang lebih senior lunas duluan, artinya EDGE tetap menanggung tambahan beban utang di anak usaha meski dananya dipakai untuk proyek pusat data yang berpotensi mendatangkan pendapatan baru. Yang perlu dipantau adalah laporan keuangan kuartal III 2026 EDGE, karena di situ akan terlihat berapa besar tambahan utang dan beban bunga yang tercatat dari pinjaman ini, serta perkembangan pembangunan pusat data yang dibiayai dari fasilitas tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-rhb-umumkan-jadwal-pelaksanaan-waran-terstruktur-ke-21",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Umumkan Jadwal [Pelaksanaan] Waran Terstruktur ke-21",
+  "deck": "RHB Sekuritas mengumumkan jadwal pelaksanaan otomatis lima waran terstruktur seri ke-21 dengan acuan saham AUTO, AVIA, BBTN, ITMG, dan MIKA, jatuh tempo 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T16:48:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/15f3d73e91_5f7e7b47b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "delisting"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia (DR) mengumumkan jadwal pelaksanaan waran terstruktur penerbitan ke-21 yang tercatat sejak 2 Oktober 2025. Ada lima seri waran yang jatuh tempo bersamaan, masing-masing mengacu pada saham AUTO (kode waran AUTODRCV6A, harga pelaksanaan 2.975 dengan rasio 6,4084), AVIA (AVIADRCV6A, harga 492, rasio 1,4171), BBTN (BBTNDRCV6A, harga 1.720, rasio 3), ITMG (ITMGDRCV6A, harga 34.451, rasio 16,7601), dan MIKA (MIKADRCV6A, harga 3.404, rasio 6,8089).",
+   "Jadwalnya, perdagangan waran ini berlangsung terakhir kali pada Selasa, 29 September 2026 pukul 16.00 WIB. Perdagangan lalu dihentikan efektif Rabu, 30 September 2026 hingga tanggal jatuh tempo. Tanggal pelaksanaan jatuh pada Jumat, 2 Oktober 2026 pukul 09.00 WIB, dan waran-waran ini resmi dicoret dari daftar efek bursa (delisting) pada Senin, 5 Oktober 2026 pukul 09.00 WIB.",
+   "Kelima waran ini berjenis call warrant dengan penyelesaian tunai, artinya pemegang berhak atas selisih antara harga penyelesaian saham acuan dan harga pelaksanaan yang sudah dipatok, dibagi rasio pelaksanaan. Jika selisih itu positif, seluruh waran akan dilaksanakan otomatis tanpa perlu pemberitahuan dari pemegang. Sebaliknya, jika selisihnya nol atau negatif, waran berakhir tanpa nilai pada pukul 09.00 WIB di tanggal pelaksanaan dan kewajiban RHB sebagai penerbit berakhir sepenuhnya. Dana penyelesaian, bila ada, akan didistribusikan KSEI ke rekening pemegang dalam tiga hari bursa sejak tanggal pelaksanaan."
+  ],
+  "fotoAdegan": "Wide shot of a Jakarta brokerage trading floor, analysts working at multiple computer terminals, blurred glowing screens, soft morning light",
+  "takeaway": "Pengumuman ini netral, baik bagi RHB Sekuritas selaku penerbit maupun bagi lima emiten acuannya, karena isinya murni jadwal mekanis yang sudah diatur sejak penerbitan waran setahun lalu. Yang tersentuh bukan pos kinerja emiten AUTO, AVIA, BBTN, ITMG, atau MIKA, sebab waran terstruktur ini instrumen turunan yang diperdagangkan terpisah dari saham induknya, tidak melibatkan penerbitan saham baru sehingga tidak mengubah jumlah saham beredar maupun ekuitas kelima perusahaan itu. Hasil akhirnya, untung atau berakhir tanpa nilai, baru bisa diketahui setelah dibandingkan dengan harga penyelesaian pada tanggal pelaksanaan, yakni Jumat 2 Oktober 2026 pukul 09.00 WIB, dengan perdagangan terakhir pada 29 September 2026 dan delisting resmi pada 5 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-rhb-jadwalkan-pelaksanaan-waran-terstruktur-ke-35",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Jadwalkan Pelaksanaan [Waran] Terstruktur ke-35",
+  "deck": "Delapan waran terstruktur RHB dengan saham acuan AADI, ANTM, CUAN, ESSA, ENRG, INDY, ITMG, dan TLKM berakhir 2 Oktober 2026, perdagangan terakhir 29 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T16:47:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e40b595409_5c557e4ead.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "pasar modal"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia mengumumkan jadwal pelaksanaan Waran Terstruktur (WT) Penerbitan ke-35 yang tercatat sejak 21 Mei 2026. Hari dan waktu perdagangan terakhir waran ini jatuh pada Selasa, 29 September 2026 pukul 16.00 WIB. Perdagangan dihentikan efektif Rabu, 30 September 2026, Tanggal Pelaksanaan ditetapkan Jumat, 2 Oktober 2026 pukul 09.00 WIB, dan waran resmi dihapus dari pencatatan bursa (delisting) Senin, 5 Oktober 2026 pukul 09.00 WIB.",
+   "Penerbitan ke-35 ini mencakup delapan seri waran dengan saham acuan berbeda, masing-masing dengan harga pelaksanaan dan rasio pelaksanaan sendiri: AADI (kode AADIDRCV6A) harga 8.104 rasio 65,9614; ANTM (ANTMDRCV6A) harga 3.075 rasio 46,5911; CUAN (CUANDRCV6A) harga 910 rasio 30; ESSA (ESSADRCV6A) harga 687 rasio 9,1613; ENRG (ENRGDRCV6A) harga 1.400 rasio 20; INDY (INDYDRCV6A) harga 3.000 rasio 30; ITMG (ITMGDRCV6B) harga 24.000 rasio 120; dan TLKM (TLKMDRCV6A) harga 2.590 rasio 10,1747.",
+   "Seluruh waran ini berjenis Call Warrant dengan penyelesaian tunai. Pada Tanggal Pelaksanaan, jika Jumlah Penyelesaian Tunai, yaitu selisih harga penyelesaian dikurangi harga pelaksanaan lalu dibagi rasio pelaksanaan dan dikalikan jumlah waran yang dimiliki, bernilai positif, waran otomatis dieksekusi dan pemegang menerima dana tersebut. Jika hasilnya nol atau negatif, waran berakhir begitu saja tanpa nilai dan pemegang tidak perlu membayar apa pun. Dana bagi pemegang yang berhak akan didistribusikan KSEI dalam tiga hari bursa setelah Tanggal Pelaksanaan."
+  ],
+  "fotoAdegan": "Wide shot of a stock exchange trading floor with brokers walking between desks, blurred ticker displays in the background, daylight",
+  "takeaway": "Pengumuman ini netral, baik bagi RHB Sekuritas selaku penerbit waran maupun bagi delapan emiten acuannya, karena isinya murni jadwal mekanis yang sudah ditetapkan dalam prospektus sejak waran ini diterbitkan Mei lalu, bukan keputusan korporasi baru. Yang tersentuh cuma rekening pemegang waran, bukan neraca, arus kas, atau laba per saham AADI, ANTM, CUAN, ESSA, ENRG, INDY, ITMG, maupun TLKM, karena waran terstruktur adalah produk turunan yang diterbitkan sekuritas dan tidak menambah atau mengurangi jumlah saham emiten acuan yang beredar. Yang perlu dipantau pemegang waran adalah harga penutupan saham acuan menjelang Tanggal Pelaksanaan pada Jumat, 2 Oktober 2026 pukul 09.00 WIB, karena angka itu yang menentukan apakah mereka menerima uang tunai atau warannya berakhir tanpa nilai, dengan pencairan dana lewat KSEI diperkirakan sekitar tiga hari bursa sesudahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-rhb-jadwalkan-pelaksanaan-waran-terstruktur-ke-37",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Jadwalkan Pelaksanaan Waran Terstruktur [ke-37]",
+  "deck": "RHB Sekuritas mengumumkan jadwal pelaksanaan otomatis Waran Terstruktur Penerbitan ke-37 atas delapan saham acuan, berakhir dan delisting awal Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T16:44:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d03fa0a44_a4ae1967dd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "Waran Terstruktur",
+   "RHB Sekuritas",
+   "BBCA"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia (DR) mengumumkan jadwal pelaksanaan Waran Terstruktur Penerbitan ke-37 yang tercatat sejak 18 Juni 2026. Waran ini berjenis Call Waran dengan penyelesaian tunai, artinya pemegang berhak atas selisih uang tunai jika harga saham acuan di atas harga pelaksanaan, bukan hak membeli sahamnya secara fisik. Sesuai ketentuan dalam prospektus, hari perdagangan terakhir jatuh pada Selasa, 29 September 2026 pukul 16.00 WIB, disusul penghentian perdagangan efektif Rabu, 30 September 2026 sampai Tanggal Pelaksanaan pada Jumat, 2 Oktober 2026 pukul 09.00 WIB, dan delisting dari bursa pada 5 Oktober 2026 pukul 09.00 WIB.",
+   "Penerbitan ke-37 ini mencakup delapan saham acuan dengan harga pelaksanaan dan rasio pelaksanaan masing-masing: BBCA (kode waran BBCADRPV6A) harga 5.750 rasio 15, BMRI (BMRIDRPV6A) harga 4.080 rasio 7, BBRI (BBRIDRPV6A) harga 2.560 rasio 6, KIJA (KIJADRCV6A) harga 130 rasio 2, KPIG (KPIGDRCV6A) harga 102 rasio 1, BKSL (BKSLDRCV6A) harga 110 rasio 1,5, MBMA (MBMADRCV6A) harga 550 rasio 3, dan INCO (INCODRCV6A) harga 5.500 rasio 15.",
+   "Pada Tanggal Pelaksanaan, seluruh waran akan dieksekusi otomatis tanpa perlu pemberitahuan dari pemegang maupun dari RHB Sekuritas selaku penerbit. Jika jumlah penyelesaian tunai, yaitu selisih harga penyelesaian dikurangi harga pelaksanaan lalu dibagi rasio pelaksanaan, bernilai positif, RHB Sekuritas wajib membayarnya dalam tiga hari bursa sejak Tanggal Pelaksanaan melalui KPEI dan KSEI ke rekening partisipan pemegang waran. Sebaliknya, jika hasilnya nol atau negatif, waran berakhir tanpa nilai dan pemegang tidak diwajibkan membayar atau menambah biaya apa pun."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district at dusk, city lights reflecting off windows, wide street angle",
+  "takeaway": "Laporan ini netral, karena isinya murni menjalankan jadwal yang sudah ditetapkan sejak waran ini pertama diterbitkan pada 18 Juni 2026, bukan keputusan baru yang mengubah kondisi RHB Sekuritas sebagai penerbit maupun delapan emiten acuannya, yakni BBCA, BMRI, BBRI, KIJA, KPIG, BKSL, MBMA, dan INCO. Yang tersentuh hanya arus kas RHB Sekuritas, sebab sebagai penerbit warrant tunai mereka wajib membayar selisih antara harga pasar saham acuan dan harga pelaksanaan yang sudah dipatok sejak awal, jika selisih itu menguntungkan pemegang waran. Besaran kewajiban itu baru bisa dihitung dari harga penyelesaian kedelapan saham acuan menjelang Tanggal Pelaksanaan, sehingga sampai saat itu belum ada untung atau rugi yang pasti bagi kedua pihak. Yang perlu dipantau adalah pergerakan harga kedelapan saham acuan hingga Jumat, 2 Oktober 2026 pukul 09.00 WIB, karena dari situ ditentukan apakah RHB Sekuritas harus membayar penyelesaian tunai atau waran ini berakhir tanpa nilai seperti beberapa seri waran RHB lain yang sudah dilaporkan kedaluwarsa pekan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rhb-dr-waran-terstruktur-bmri-tidak-disesuaikan-usai-dividen",
+  "category": "Aksi Korporasi",
+  "title": "RHB (DR): Waran Terstruktur BMRI [Tidak Disesuaikan] usai Dividen",
+  "deck": "RHB Sekuritas memastikan tiga waran terstruktur berbasis saham BMRI, BMRIDRCX6A, BMRIDRCH7A, dan BMRIDRPV6A, tidak berubah syaratnya meski BMRI membagikan dividen tunai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T16:42:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/078ab2ce04_7fc3889bf9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "BMRI",
+   "waran terstruktur",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia menerbitkan keterbukaan informasi bahwa tiga waran terstruktur yang diterbitkannya, yaitu BMRIDRCX6A, BMRIDRCH7A, dan BMRIDRPV6A, tidak akan mengalami penyesuaian syarat dan ketentuan. Ketiga waran ini seluruhnya berbasis saham PT Bank Mandiri (Persero) Tbk (BMRI). Keputusan ini menyusul aksi korporasi dividen tunai BMRI yang diumumkan pada 7 September 2026.",
+   "Menurut RHB, sesuai dengan Term Sheet dan Bagian 3 Prospektus Waran Terstruktur masing-masing seri, pembagian dividen tunai BMRI bukan termasuk peristiwa yang memicu penyesuaian harga pelaksanaan atau rasio konversi warrant. Dengan kata lain, harga pelaksanaan dan rasio ketiga waran ini tetap sama seperti sebelum dividen dibagikan. RHB menegaskan bahwa jika ada perbedaan tafsir, prospektus dasar tetap menjadi rujukan yang berlaku.",
+   "Pengumuman ini diterbitkan di Jakarta pada 15 September 2026 melalui sistem pelaporan elektronik bursa, ditandatangani atas nama fungsi Sales RHB Sekuritas oleh Triana Anggraeni."
+  ],
+  "fotoAdegan": "Exterior of a modern glass bank office tower in Jakarta's business district, low afternoon light, wide angle from street level",
+  "takeaway": "Laporan ini netral bagi pemegang waran maupun bagi RHB Sekuritas selaku penerbit, karena hasilnya murni mengikuti aturan baku yang sudah ditetapkan sejak waran ini diterbitkan, bukan keputusan baru yang mengubah nilai ekonomisnya. Yang tersentuh di sini adalah harga pelaksanaan dan rasio konversi waran terstruktur, yaitu patokan yang menentukan berapa saham BMRI bisa ditukar dan pada harga berapa saat waran jatuh tempo; biasanya aksi korporasi besar seperti stock split atau rights issue memicu penyesuaian angka ini, tapi dividen tunai BMRI kali ini dianggap tidak masuk kategori tersebut sesuai prospektus. Yang perlu dipantau pemegang waran selanjutnya adalah pergerakan harga saham BMRI di pasar pasca pembagian dividen serta tanggal jatuh tempo pelaksanaan masing-masing seri, karena keduanya yang akan menentukan apakah waran ini berakhir bernilai atau tidak, bukan pengumuman ini sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "meds-jelaskan-ke-bursa-soal-koreksi-laba-dan-piutang-macet",
+  "category": "Aksi Korporasi",
+  "title": "MEDS Jelaskan ke Bursa soal [Koreksi] Laba dan Piutang Macet",
+  "deck": "Hetzer Medical menjawab permintaan penjelasan BEI soal koreksi laba kuartal I 2026, piutang macet dari distributor akibat tunggakan rumah sakit pemerintah, dan reklasifikasi utang bank ke BCA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T16:36:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f8ebb47af5_b603d9c16c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDS",
+  "tags": [
+   "MEDS",
+   "Hetzer Medical",
+   "laporan keuangan",
+   "piutang macet"
+  ],
+  "body": [
+   "PT Hetzer Medical Indonesia Tbk (MEDS) menyampaikan tanggapan resmi ke Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI tertanggal 10 September 2026. Salah satu poin utama adalah koreksi laporan keuangan periode 31 Maret 2026 yang sebelumnya diumumkan pada 29 Juli 2026, yaitu memindahkan pencatatan pendapatan jasa machining dari pos pendapatan lain-lain menjadi pendapatan utama. Perusahaan beralasan jasa machining kini menjadi salah satu kegiatan usaha utama, didukung pembelian 10 unit mesin baru untuk menambah kapasitas layanan tersebut. Akibat koreksi ini, total aset turun dari Rp63,79 miliar menjadi Rp63,57 miliar, total ekuitas turun dari Rp48,62 miliar menjadi Rp48,40 miliar, sementara rugi usaha periode tersebut menyusut dari Rp324,6 juta menjadi Rp102,3 juta karena laba bruto naik dari Rp1,70 miliar menjadi Rp2,14 miliar.",
+   "Perseroan juga menjelaskan keterlambatan pembayaran piutang dari distributornya, PT Buana Inti Prima, yang disebabkan oleh kesulitan likuiditas perusahaan tersebut karena belum menerima pelunasan dari pelanggannya, termasuk rumah sakit pemerintah yang hingga kini belum membayar. Produk yang dijual Hetzer Medical ke PT Buana Inti Prima meliputi stetoskop, tensimeter, dan bouffant cap. Setelah keterlambatan terjadi, Perseroan menghentikan penjualan stetoskop dan tensimeter ke distributor tersebut, tapi tetap melanjutkan penjualan bouffant cap dengan pembayaran yang lancar. Perseroan mencatat sudah menerima pembayaran 52,32 persen dari total piutang yang tertunggak pada 3 September 2026, dan PT Buana Inti Prima berjanji melunasi sisa kewajibannya paling lambat Desember 2026.",
+   "Terkait persediaan yang mengalami penurunan nilai, Perseroan menyatakan barang tersebut masih dalam kondisi baik dan disimpan di gudang perusahaan, dengan rencana dijual bertahap tanpa penghapusan. Perseroan juga memastikan asuransi persediaan pada PT China Taiping Insurance Indonesia telah diperpanjang sejak Juni 2026, berlaku dari 15 Juni 2026 sampai 15 Juni 2027, menggantikan polis sebelumnya yang berlaku 15 Juni 2025 sampai 15 Juni 2026. Selain itu, Perseroan mengonfirmasi utang bank jangka pendek ke PT Bank Central Asia Tbk sebesar Rp1.337.681.604 yang jatuh tempo 2 Desember 2026, berasal dari Perjanjian Kredit Nomor 3327/7770/21 tanggal 2 Desember 2021, direklasifikasi dari Catatan 19 ke Catatan 12 karena sisa jangka waktu jatuh temponya sudah di bawah satu tahun sesuai ketentuan akuntansi PSAK 201 paragraf 69."
+  ],
+  "fotoAdegan": "Technicians operating CNC machining equipment inside a small medical device workshop, metal parts and tools scattered on workbenches, industrial lighting",
+  "takeaway": "Laporan ini netral bagi Hetzer Medical, karena angka-angkanya saling menyeimbangkan: rugi usaha memang tercatat lebih kecil setelah koreksi, tapi itu murni akibat pemindahan pos pendapatan, bukan perbaikan kinerja operasional baru, sementara ada risiko piutang macet yang belum sepenuhnya tuntas. Koreksi tersebut membuat rugi usaha kuartal I 2026 menyusut dari Rp324,6 juta menjadi Rp102,3 juta, tapi ekuitas perusahaan, yaitu selisih antara total aset dan total utangnya, justru turun sekitar Rp222 juta akibat penyesuaian yang sama, dan pelaku pasar biasanya mencermati pos semacam ini karena menggambarkan apakah bisnis inti perusahaan benar-benar membaik atau cuma berubah cara pencatatannya. Perseroan juga mengungkap piutang macet dari distributornya, PT Buana Inti Prima, yang tersendat karena rumah sakit pemerintah pelanggannya belum membayar, meski sudah ada pembayaran 52,32 persen dari total piutang pada 3 September 2026. Yang perlu dipantau berikutnya adalah janji PT Buana Inti Prima melunasi sisa piutang paling lambat Desember 2026, karena kalau meleset, Perseroan mungkin harus menambah cadangan kerugian piutang di laporan keuangan selanjutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "menaker-ai-di-tempat-kerja-harus-naikkan-produktivitas",
   "category": "Ketenagakerjaan",
   "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",

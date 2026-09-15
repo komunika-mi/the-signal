@@ -5,6 +5,246 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "asii-ungkap-rencana-vto-auto-senilai-rp858-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ASII Ungkap Rencana [VTO] AUTO Senilai Rp858 Miliar",
+  "deck": "Dalam public expose tahunan, Astra International merinci tender sukarela saham Astra Otoparts, realisasi belanja modal, dividen, dan penurunan laba segmen tambang.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASII",
+   "AUTO",
+   "Astra International",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/867a440aab_c2e68c16c6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmbl-direktur-keuangan-dan-umum-mengundurkan-diri",
+  "category": "Aksi Korporasi",
+  "title": "BMBL: Direktur Keuangan dan Umum [Mengundurkan Diri]",
+  "deck": "PT Lavender Bina Cendikia Tbk menerima surat pengunduran diri Direktur Keuangan dan Umum Elita Swasti Nandiko pada 11 September 2026, keputusan final menunggu RUPSLB.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMBL",
+   "Direksi",
+   "RUPSLB",
+   "Tata Kelola Perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bda25f9f53_0039f4e262.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smil-balas-bursa-kas-tergerus-89-piutang-dan-stok-naik",
+  "category": "Aksi Korporasi",
+  "title": "SMIL Balas Bursa: [Kas] Tergerus 89%, Piutang dan Stok Naik",
+  "deck": "Dalam jawaban resmi ke Bursa Efek Indonesia, SMIL merinci kenaikan piutang, persediaan, dan uang muka pembelian 606 unit forklift senilai CNY40,07 juta, di tengah kas yang menyusut tajam.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMIL",
+   "forklift",
+   "Bursa Efek Indonesia",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/01a74cb624_2e06d3d367.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "klbf-batalkan-rencana-buyback-saham-di-tengah-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "KLBF Batalkan Rencana [Buyback] Saham di Tengah Pasar Bergejolak",
+  "deck": "Kalbe Farma membatalkan rencana pembelian kembali saham yang baru diumumkan pada hari yang sama, tanpa menyebut kapan rencana itu akan dijalankan kembali.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KLBF",
+   "Kalbe Farma",
+   "buyback saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a11448b9b3_5e1452d83c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-kantongi-kontrak-rp145-3-miliar-bangun-museum-majapahit",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Kantongi [Kontrak] Rp145,3 Miliar Bangun Museum Majapahit",
+  "deck": "PTPP memulai konstruksi Museum Majapahit di Trowulan, Mojokerto, dengan nilai kontrak Rp145,30 miliar dan masa kerja 114 hari.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "konstruksi",
+   "Museum Majapahit",
+   "kontrak baru"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1d2cb5f2f_000472f032.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gsmf-pemegang-saham-pengendali-tambah-kepemilikan-ke-70-8",
+  "category": "Aksi Korporasi",
+  "title": "GSMF: Pemegang Saham Pengendali Tambah Kepemilikan ke [70,8%]",
+  "deck": "Pengendali GSMF menyuntik dana Rp130,68 miliar dan menaikkan kepemilikan dari 68,28% jadi 70,8% lewat PMTHMETD, saat menjawab permintaan penjelasan volatilitas saham dari BEI.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GSMF",
+   "PMTHMETD",
+   "pemegang saham pengendali",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/64c8c223b8_3eac3ac642.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bjbr-peringkat-sejumlah-obligasi-bank-bjb-turun-ke-idaa",
+  "category": "Aksi Korporasi",
+  "title": "BJBR: Peringkat Sejumlah Obligasi Bank BJB Turun ke [idAA-]",
+  "deck": "PEFINDO memangkas peringkat obligasi keberlanjutan, surat berharga perpetual, dan obligasi subordinasi Bank BJB senilai total sekitar Rp5,7 triliun turun satu tingkat.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BJBR",
+   "Bank BJB",
+   "PEFINDO",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/94dee42a62_c2985bb5f7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adin-ganti-direktur-utama-wahyu-sulistiyo-gantikan-priyadi",
+  "category": "Aksi Korporasi",
+  "title": "ADIN Ganti [Direktur Utama], Wahyu Sulistiyo Gantikan Priyadi",
+  "deck": "ADIN mengangkat Wahyu Sulistiyo sebagai Presiden Direktur baru menggantikan Priyadi, yang berpindah menjadi komisaris, efektif 15 September 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADIN",
+   "pergantian direksi",
+   "dewan komisaris",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f5c7ef061_37be6c9d39.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-laporkan-sisa-dana-obligasi-sukuk-rp3-4-triliun-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "INKP Laporkan Sisa Dana Obligasi-Sukuk Rp3,4 Triliun [Obligasi]",
+  "deck": "Indah Kiat melaporkan koreksi realisasi dana hasil obligasi dan sukuk senilai Rp4,6 triliun yang terbit Maret 2026. Sisa dana Rp3,4 triliun masih mengendap di bank.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/01da1eadc0_3817612c6b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "edge-terima-pinjaman-us-50-juta-dari-dehk-untuk-data-center",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Terima [Pinjaman] US$50 Juta dari DEHK untuk Data Center",
+  "deck": "PT Indointernet Tbk (EDGE) mengumumkan transaksi afiliasi berupa pinjaman US$50 juta dari pengendali DEHK ke dua anak usahanya untuk mendanai pengembangan pusat data.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "transaksi afiliasi",
+   "pusat data",
+   "Digital Edge"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/31c7c2bf5d_c94fe7b2c9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-rhb-umumkan-jadwal-pelaksanaan-waran-terstruktur-ke-21",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Umumkan Jadwal [Pelaksanaan] Waran Terstruktur ke-21",
+  "deck": "RHB Sekuritas mengumumkan jadwal pelaksanaan otomatis lima waran terstruktur seri ke-21 dengan acuan saham AUTO, AVIA, BBTN, ITMG, dan MIKA, jatuh tempo 2 Oktober 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/15f3d73e91_5f7e7b47b4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-rhb-jadwalkan-pelaksanaan-waran-terstruktur-ke-35",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Jadwalkan Pelaksanaan [Waran] Terstruktur ke-35",
+  "deck": "Delapan waran terstruktur RHB dengan saham acuan AADI, ANTM, CUAN, ESSA, ENRG, INDY, ITMG, dan TLKM berakhir 2 Oktober 2026, perdagangan terakhir 29 September 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e40b595409_5c557e4ead.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-rhb-jadwalkan-pelaksanaan-waran-terstruktur-ke-37",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Jadwalkan Pelaksanaan Waran Terstruktur [ke-37]",
+  "deck": "RHB Sekuritas mengumumkan jadwal pelaksanaan otomatis Waran Terstruktur Penerbitan ke-37 atas delapan saham acuan, berakhir dan delisting awal Oktober 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "Waran Terstruktur",
+   "RHB Sekuritas",
+   "BBCA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d03fa0a44_a4ae1967dd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rhb-dr-waran-terstruktur-bmri-tidak-disesuaikan-usai-dividen",
+  "category": "Aksi Korporasi",
+  "title": "RHB (DR): Waran Terstruktur BMRI [Tidak Disesuaikan] usai Dividen",
+  "deck": "RHB Sekuritas memastikan tiga waran terstruktur berbasis saham BMRI, BMRIDRCX6A, BMRIDRCH7A, dan BMRIDRPV6A, tidak berubah syaratnya meski BMRI membagikan dividen tunai.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "BMRI",
+   "waran terstruktur",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/078ab2ce04_7fc3889bf9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meds-jelaskan-ke-bursa-soal-koreksi-laba-dan-piutang-macet",
+  "category": "Aksi Korporasi",
+  "title": "MEDS Jelaskan ke Bursa soal [Koreksi] Laba dan Piutang Macet",
+  "deck": "Hetzer Medical menjawab permintaan penjelasan BEI soal koreksi laba kuartal I 2026, piutang macet dari distributor akibat tunggakan rumah sakit pemerintah, dan reklasifikasi utang bank ke BCA.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDS",
+   "Hetzer Medical",
+   "laporan keuangan",
+   "piutang macet"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f8ebb47af5_b603d9c16c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "menaker-ai-di-tempat-kerja-harus-naikkan-produktivitas",
   "category": "Ketenagakerjaan",
   "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",
@@ -6258,246 +6498,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8125",
   "sourceLabel": "Kementerian Pertanian"
- },
- {
-  "slug": "kemnaker-kawal-hak-pekerja-di-balik-restrukturisasi-bumn",
-  "category": "Ketenagakerjaan",
-  "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
-  "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/pelatihan-vokasi.jpg",
-  "tags": [
-   "BUMN",
-   "Kemnaker",
-   "hubungan industrial",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-dukung-bumn-perkuat-tata-kelola-hubungan-industrial",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "pemerintah-perpanjang-bantuan-beras-hingga-desember",
-  "category": "Makroekonomi",
-  "title": "Pemerintah Perpanjang Bantuan Beras hingga [Desember]",
-  "deck": "Pemerintah memperpanjang bantuan beras hingga Desember sambil memantau dampak ekonomi letusan sejumlah gunung berapi dan antisipasi El Nino.",
-  "date": "8 September 2026",
-  "image": "assets/img/pasar-beras.jpg",
-  "tags": [
-   "bantuan beras",
-   "El Nino",
-   "erupsi gunung berapi",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7082/hadapi-el-nino-dan-dampak-erupsi-pemerintah-perkuat-perlindungan-masyarakat-dan-aktivitas-ekonomi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pemerintah-siapkan-rekening-warga-lewat-bri-dan-bsi",
-  "category": "Perbankan",
-  "title": "Pemerintah Siapkan [Rekening] Warga Lewat BRI dan BSI",
-  "deck": "Pemerintah menyiapkan rekening bank bagi warga lewat BRI dan BSI, dipadukan data Dukcapil dan QRIS, untuk memperluas akses layanan keuangan formal.",
-  "date": "8 September 2026",
-  "image": "assets/img/brankas-bank.jpg",
-  "tags": [
-   "inklusi keuangan",
-   "QRIS",
-   "BRI",
-   "BSI"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7083/tingkatkan-literasi-dan-inklusi-keuangan-pemerintah-siapkan-layanan-rekening-dan-integrasi-qris-bagi-masyarakat",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "asbi-panggil-rupslb-agendakan-pergantian-direksi",
-  "category": "Aksi Korporasi",
-  "title": "ASBI Panggil RUPSLB, Agendakan [Pergantian] Direksi",
-  "deck": "Asuransi Bintang mengundang pemegang saham ke RUPSLB 30 September 2026 untuk membahas pergantian direksi, pelepasan aset, dan penyesuaian KBLI.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASBI",
-   "RUPSLB",
-   "Asuransi Bintang",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/31cb6dd8b7_5785362249.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ctbn-jadwalkan-rupslb-15-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "CTBN Jadwalkan RUPSLB [15 Oktober 2026]",
-  "deck": "Citra Tubindo Tbk mengumumkan RUPS Luar Biasa pada 15 Oktober 2026 di Jakarta, dengan tanggal pencatatan pemegang saham 22 September 2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CTBN",
-   "RUPSLB",
-   "Citra Tubindo",
-   "korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0782447828_ff5793a253.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "edge-selesaikan-tender-tahap-ii-dehk-kuasai-59-47-saham",
-  "category": "Aksi Korporasi",
-  "title": "EDGE Selesaikan Tender Tahap II, DEHK Kuasai [59,47%] Saham",
-  "deck": "DEHK membeli 360.600 saham EDGE senilai Rp11.500 per saham pada tender tahap II, kepemilikannya naik jadi 59,47% menjelang rencana go private dan delisting EDGE.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "tender offer",
-   "go private",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/59b7e20111_0066161b59.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bali-pengendali-tambah-saham-hak-suara-ke-59-82",
-  "category": "Aksi Korporasi",
-  "title": "BALI: Pengendali [Tambah] Saham, Hak Suara ke 59,82%",
-  "deck": "PT Kharisma Cipta Towerindo, pengendali BALI, membeli 4,9 juta saham pada 7 September 2026 seharga Rp1.420 per lembar, menaikkan hak suaranya menjadi 59,82 persen.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BALI",
-   "Bali Towerindo Sentra",
-   "kepemilikan saham",
-   "menara telekomunikasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-8568-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mgia01-piutang-tiket-rp1-06-triliun-belum-disetor-ke-eba",
-  "category": "Aksi Korporasi",
-  "title": "MGIA01: Piutang Tiket Rp1,06 Triliun Belum [Disetor] ke EBA",
-  "deck": "Laporan bulanan KIK EBA Mandiri GIAA01 periode Agustus 2026 mencatat tunggakan penyerahan pendapatan tiket rute Timur Tengah sebesar Rp1,06 triliun, lebih besar dari pendapatan yang sudah diterima.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGIA01",
-   "EBA",
-   "pasar modal",
-   "surat utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36cf06686b_746778b752.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-kebut-tol-kataraja-progres-94-9-jelang-tenggat-oktober",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Kebut Tol Kataraja, Progres [94,9%] Jelang Tenggat Oktober",
-  "deck": "PTPP melaporkan progres pembangunan Tol Kataraja Seksi 1 mencapai 94,9% dengan sisa pekerjaan 5,077%, sementara uji pembebanan Jembatan Ramp 1 JC Sedyatmo sudah tuntas akhir Agustus.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "Tol Kataraja",
-   "infrastruktur",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ebe9d4ca0_4bbb0845dc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "blog-paparkan-ekspansi-jaringan-ke-130-titik-logistik",
-  "category": "Aksi Korporasi",
-  "title": "BLOG Paparkan Ekspansi [Jaringan] ke 130 Titik Logistik",
-  "deck": "Materi public expose BLOG memaparkan jaringan logistik yang tumbuh ke 130 titik dan 16 gudang, sementara liabilitas naik 24 persen sepanjang semester I 2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLOG",
-   "public expose",
-   "logistik",
-   "cold chain"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7f4f465f15_ddc00fb402.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-400-000-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] 400.000 Saham Lagi",
-  "deck": "Dewan Komisaris AKPI Henry Liem melepas 400.000 saham senilai Rp210 juta pada 7 September 2026, hak suaranya turun tipis menjadi 1,2528 persen.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Komisaris",
-   "Kepemilikan Saham",
-   "Argha Karya Prima"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-1916-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "intd-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "INTD Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "BEI meminta INTD menjelaskan lonjakan volatilitas transaksi sahamnya. Perseroan menyatakan tidak mengetahui adanya informasi material maupun rencana aksi korporasi dalam waktu dekat.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INTD",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f9317d46d_674e51c540.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rigs-jawab-bursa-soal-volatilitas-klaim-tak-ada-info-material",
-  "category": "Aksi Korporasi",
-  "title": "RIGS Jawab Bursa soal [Volatilitas], Klaim Tak Ada Info Material",
-  "deck": "Menanggapi permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, Rig Tenders Tbk menyatakan tidak ada informasi material dan pemegang saham utama belum berencana mengubah kepemilikannya.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RIGS",
-   "Rig Tenders",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e233baf688_7f226d080b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-pemegang-sukuk-tolak-restrukturisasi-pos-indonesia",
-  "category": "Aksi Korporasi",
-  "title": "POST: Pemegang Sukuk Tolak [Restrukturisasi] Pos Indonesia",
-  "deck": "Rapat pemegang Sukuk Ijarah Pos Indonesia menolak proposal restrukturisasi utang dan permintaan keringanan atas pelanggaran syarat keuangan pinjaman periode 2025-2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "Pos Indonesia",
-   "sukuk",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8abc148e1f_29412f11e0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cabai-rawit-merah-melonjak-ke-rp91-300-per-kg",
-  "category": "Makroekonomi",
-  "title": "Cabai Rawit Merah [Melonjak] ke Rp91.300 per Kg",
-  "deck": "Harga cabai rawit merah naik 11,21 persen menjadi Rp91.300 per kilogram, memimpin kenaikan harga pangan nasional yang juga menyeret beras dan daging ayam, Selasa (8/9).",
-  "date": "8 September 2026",
-  "image": "assets/img/cabai-rawit-merah-melonjak-ke-rp91-300-per-kg.jpg",
-  "imageV": "mts6ihpw",
-  "tags": [
-   "harga pangan",
-   "cabai rawit",
-   "pasar tradisional",
-   "beras"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465631-harga-pangan-nasional-alami-kenaikan-cabai-rawit-merah-tembus-rp91300"
  }
 ];

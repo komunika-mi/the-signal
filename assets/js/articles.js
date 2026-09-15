@@ -3,6 +3,242 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "maya-jonathan-tahir-jual-523-juta-saham-untuk-lunasi-utang",
+  "category": "Aksi Korporasi",
+  "title": "MAYA: Jonathan Tahir Jual 523 Juta Saham untuk [Lunasi Utang]",
+  "deck": "Jonathan Tahir menjual 523,36 juta saham MAYA senilai Rp10 per saham untuk melunasi utang, memangkas hak suaranya dari 5,89% menjadi 3,89%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T12:08:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-9276-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAYA",
+  "tags": [
+   "MAYA",
+   "Bank Mayapada",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "body": [
+   "Jonathan Tahir, pemegang saham PT Bank Mayapada Internasional Tbk (MAYA) yang bukan anggota direksi maupun dewan komisaris perseroan, melaporkan penjualan tidak langsung sebanyak 523.357.155 lembar saham MAYA kepada Otoritas Jasa Keuangan pada 15 September 2026. Transaksi berjenis repurchase agreement ini dilakukan pada 10 September 2026 dengan harga Rp10 per saham, dengan tujuan penyelesaian utang.",
+   "Sebelum transaksi, Jonathan Tahir menggenggam 1.542.407.023 saham MAYA atau setara 5,89% hak suara perseroan. Setelah pelepasan tersebut, jumlah kepemilikannya berkurang menjadi 1.019.049.868 saham, sementara hak suaranya turun menjadi 3,89%. Saham yang dilepas setara dengan 33,93% dari total kepemilikannya sebelum transaksi, sehingga Jonathan Tahir kini berada di bawah ambang 5% yang lazim dipakai untuk menandai pemegang saham utama."
+  ],
+  "fotoAdegan": "Wide shot of a modern bank branch entrance in Jakarta with a glass facade, pedestrians walking past in daytime, angled away from any signage.",
+  "takeaway": "Laporan ini condong negatif bagi persepsi tata kelola MAYA karena penjualan mencakup 33,93% dari kepemilikan Jonathan Tahir dan dipicu oleh penyelesaian utang, bukan sekadar penataan ulang portofolio biasa. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan kas atau laba perseroan secara langsung: repurchase agreement adalah skema jual saham dengan kesepakatan dibeli kembali, yang lazim dipakai sebagai jaminan pinjaman, dan ketika skema itu dieksekusi untuk melunasi utang, itu menandakan pemilik saham sedang menutup kewajiban finansial pribadinya memakai asetnya di MAYA. Akibatnya, hak suara Jonathan Tahir di MAYA turun dari 5,89% menjadi 3,89%, melewati ambang 5% yang biasa dipakai untuk menandai pemegang saham utama, sehingga pengaruhnya dalam pengambilan keputusan perseroan otomatis mengecil. Yang perlu dipantau berikutnya adalah apakah ada laporan keterbukaan lanjutan dari MAYA atau pihak penerima saham yang mengungkap siapa kini memegang 523,36 juta lembar tersebut, karena dokumen ini belum menyebutkan pembelinya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "drma-bentuk-joint-venture-dengan-minth-group",
+  "category": "Aksi Korporasi",
+  "title": "DRMA Bentuk [Joint Venture] dengan Minth Group",
+  "deck": "PT Dharma Polimetal menggandeng Minth Group mendirikan PT Dharma Minth Indonesia, JV komponen otomotif kendaraan roda empat dengan modal disetor Rp45 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T11:50:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/32b011d038_afe61d4f85.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DRMA",
+  "tags": [
+   "DRMA",
+   "joint venture",
+   "Minth Group",
+   "komponen otomotif"
+  ],
+  "body": [
+   "PT Dharma Polimetal Tbk (DRMA) menandatangani perjanjian kerja sama dengan Minth Group untuk membentuk perusahaan patungan bernama PT Dharma Minth Indonesia (DMI). Berdasarkan keterbukaan informasi yang disampaikan perseroan pada 15 September 2026, DMI didirikan dengan modal dasar Rp180 miliar, dengan modal yang telah ditempatkan dan disetor penuh sebesar Rp45 miliar dan nilai nominal saham Rp1.000.000 per lembar. Komposisi kepemilikan saham DMI adalah 51 persen milik Talentlink Development Ltd dan 49 persen milik DRMA.",
+   "DMI akan bergerak di bidang manufaktur komponen otomotif untuk kendaraan roda empat, dengan produk yang mencakup battery housing atau tempat baterai kendaraan listrik, struktur bodi dan sasis berbasis aluminium extrusion atau proses pembentukan logam aluminium lewat cetakan tekan, serta desain komponen berbahan plastik. Perseroan menyebut pembentukan JV ini sebagai bagian dari upaya memperluas kapabilitas dalam mendukung kebutuhan industri kendaraan roda empat.",
+   "Manajemen DRMA menyatakan kepemilikan 49 persen di DMI memberi porsi partisipasi dalam pengembangan usaha perusahaan patungan tersebut, dan ke depan akan tercermin di laporan keuangan DRMA melalui pengakuan bagian atas laba atau rugi DMI sesuai proporsi kepemilikan. Perseroan menegaskan bahwa hingga tanggal keterbukaan informasi ini disampaikan, pembentukan JV tersebut belum memberikan dampak material terhadap kondisi keuangan maupun kelangsungan usaha DRMA. Laporan ditandatangani oleh Ari Indra Gautama selaku Corporate Secretary DRMA."
+  ],
+  "fotoAdegan": "Workers assembling aluminum vehicle chassis and body components on an automotive parts factory production line, industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi DRMA karena perusahaan membuka lini bisnis baru berupa komponen kendaraan listrik dan konstruksi berbasis aluminium bersama mitra global Minth Group, meski porsi kepemilikannya hanya 49 persen sehingga DRMA tidak mengendalikan penuh perusahaan patungan ini. Pos yang tersentuh adalah laba bersih DRMA, sebab dengan metode pencatatan akuntansi untuk kepemilikan minoritas seperti ini, untung atau rugi PT Dharma Minth Indonesia akan ikut masuk ke laporan laba rugi DRMA sesuai porsi 49 persen, bukan langsung menambah pendapatan penjualan. Modal disetor DMI sebesar Rp45 miliar dari modal dasar Rp180 miliar tergolong kecil dibanding skala bisnis manufaktur otomotif DRMA, sehingga dampak ke neraca dan arus kas saat ini masih terbatas, seperti diakui sendiri oleh perseroan dalam laporannya. Yang perlu dipantau selanjutnya adalah kapan PT Dharma Minth Indonesia mulai berproduksi dan apakah ada suntikan modal tambahan ke depan, karena laporan ini belum mencantumkan jadwal operasional maupun target produksi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mega-klaim-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "MEGA Klaim Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Bank Mega menjawab permintaan penjelasan BEI atas lonjakan transaksi dan penurunan harga sahamnya pada 10 September 2026, dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T11:40:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f71f736f7_a8456e8a60.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEGA",
+  "tags": [
+   "MEGA",
+   "Bank Mega",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Bank Mega Tbk (MEGA) mengirim surat penjelasan kepada Bursa Efek Indonesia menyusul permintaan resmi bursa lewat surat nomor S-11901/BEI.PP3/09-2026 tertanggal 11 September 2026. Surat itu meminta penjelasan atas peningkatan aktivitas transaksi dan penurunan harga saham MEGA yang terjadi pada 10 September 2026. Jawaban perseroan, bernomor 118/COAF/26 dan diteken 15 September 2026, ditandatangani Direktur Utama Kostaman Thayib serta Corporate Secretary Christiana M. Damanik.",
+   "Dalam surat itu, Bank Mega menyatakan tidak mengetahui adanya informasi atau fakta material apa pun yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan keterbukaan informasi POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menegaskan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan dan penjaminan saham, serta belum memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang akan berdampak pada status pencatatan sahamnya di bursa.",
+   "Perseroan menambahkan tidak ada informasi atau kejadian material lain yang material dan belum diungkapkan ke publik. Bank Mega juga menyampaikan bahwa Corporate Secretary telah menanyakan langsung kepada pemegang saham utama, dan hingga surat ini diterbitkan pemegang saham utama tidak memiliki rencana mengubah kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Exterior of a modern glass-facade bank office tower in a Jakarta business district, reflecting afternoon sky, street traffic below",
+  "takeaway": "Penilaian kami netral, sebab isi surat ini semata menegaskan tidak ada informasi material yang belum diungkap, bukan kabar baru soal kondisi keuangan atau bisnis perseroan. Surat semacam ini rutin diminta bursa begitu harga dan volume perdagangan suatu saham bergerak jauh dari kebiasaan, sebagai cek apakah ada informasi bocor atau transaksi mencurigakan dari pihak dalam sebelum diumumkan resmi, dan jawaban 'tidak tahu apa-apa' berarti pergerakan harga pada 10 September 2026 itu, menurut manajemen, murni dinamika pasar, bukan dipicu perubahan pada ekuitas, arus kas, atau kinerja lain perseroan. Yang perlu dipantau selanjutnya adalah apakah harga dan volume saham MEGA masih bergejolak dalam hari-hari mendatang, karena jika berlanjut bursa bisa mengeluarkan permintaan penjelasan lanjutan atau bahkan menetapkan status pemantauan khusus atas saham ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "paparan-publik-mika-laba-bersih-naik-ke-rp728-miliar-di-1h26",
+  "category": "Aksi Korporasi",
+  "title": "Paparan Publik MIKA: Laba Bersih Naik ke [Rp728 Miliar] di 1H26",
+  "deck": "Manajemen MIKA memaparkan laba bersih Rp728 miliar di semester I 2026, progres dua rumah sakit baru di BSD dan Malang, serta kebijakan dividen di atas 25 persen laba dalam Paparan Publik Tahunan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T11:27:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9706ab7cc_4e28676355.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MIKA",
+  "tags": [
+   "MIKA",
+   "Mitra Keluarga",
+   "rumah sakit",
+   "paparan publik"
+  ],
+  "body": [
+   "PT Mitra Keluarga Karyasehat Tbk (MIKA) melaporkan hasil Paparan Publik Tahunan yang digelar Kamis, 10 September 2026, pukul 15.00 hingga 16.00 WIB secara virtual melalui IDX. Acara dihadiri Direktur Joyce Vidyayanti Handajani dan staf Investor Relations Tya Riana yang membawakan materi, dengan peserta dari luar manajemen sebanyak 54 orang, terdiri dari 47 investor atau calon investor dan 7 wartawan. Materi presentasi mencakup empat bagian yaitu profil perusahaan, strategi pertumbuhan, pembaruan bisnis, serta kinerja keuangan dan operasional semester I 2026.",
+   "Dari sisi keuangan, MIKA membukukan pendapatan Rp2.769 miliar pada semester I 2026, naik 8,0 persen dibanding periode sama tahun lalu, dengan EBITDA Rp1.064 miliar atau naik 7,4 persen, dan laba bersih Rp728 miliar atau naik 6,5 persen. Kas bersih perusahaan tercatat Rp3.019 miliar tanpa utang berbunga. Rata-rata pendapatan per pasien rawat inap (ARPID) naik 12,2 persen dan rata-rata pendapatan per pasien rawat jalan (ARPOP) naik 12,6 persen secara tahunan. Porsi pendapatan dari pasien swasta naik dari 88 persen menjadi 90 persen, sementara pendapatan dari BPJS turun 11,4 persen menjadi Rp276 miliar dan pendapatan non BPJS naik 10,7 persen menjadi Rp2,49 triliun.",
+   "Perseroan tengah membangun dua rumah sakit baru. Site 1 di kawasan BSD, Jakarta, berkapasitas maksimal sekitar 200 tempat tidur, progres pembangunan sudah 80 persen dan ditargetkan beroperasi kuartal IV 2026. Site 2 di Malang, Jawa Timur, dengan kapasitas serupa, progres 60 persen dan ditargetkan beroperasi kuartal I 2027. Secara total, MIKA merencanakan penambahan sekitar 1.400 tempat tidur dari tujuh lokasi baru ditambah potensi 857 tempat tidur tambahan di rumah sakit yang sudah beroperasi. Belanja modal juga diarahkan untuk peremajaan alat CT-Scan dan MRI serta perluasan teknologi robotik untuk operasi penggantian lutut di tiga rumah sakit, ditambah pengembangan pusat kedokteran nuklir kedua di Mitra Keluarga Kenjeran dengan layanan PET/CT, SPECT/CT, dan radioterapi yang ditargetkan beroperasi kuartal III 2026 di Jawa Timur.",
+   "Dalam sesi tanya jawab, manajemen mengungkapkan porsi saham beredar di publik atau free float perusahaan saat ini sebesar 16,5 persen, di atas batas minimum 15 persen yang harus dipenuhi hingga 31 Maret 2028. Soal dividen, kebijakan perusahaan mewajibkan pembagian minimal 25 persen dari laba tahun sebelumnya, namun realisasinya selalu di atas itu, termasuk 43 hingga 44 persen dari laba tahun lalu untuk pembagian tahun ini, dengan rasio tertinggi yang pernah dibagikan lebih dari 70 persen dari laba tahun sebelumnya."
+  ],
+  "fotoAdegan": "Exterior of a modern multi-story private hospital building with an ambulance under a covered driveway, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi Mitra Keluarga, karena hampir seluruh indikator inti tumbuh dua digit dan posisi kas tetap bersih tanpa pinjaman berbunga. Yang tersentuh adalah arus kas, yang mencapai Rp3.019 miliar tanpa utang sehingga perusahaan punya ruang mendanai ekspansi tanpa menambah beban bunga, serta ARPID dan ARPOP, yaitu rata-rata pendapatan per pasien rawat inap dan rawat jalan, yang naik di atas 12 persen dan menunjukkan pertumbuhan berasal dari nilai layanan per pasien, bukan sekadar jumlah kunjungan. Pergeseran pendapatan ke pasien swasta yang kini 90 persen dari total juga relevan karena segmen ini biasanya memberi margin lebih tebal dibanding pasien BPJS. Yang perlu dipantau berikutnya adalah rampungnya rumah sakit baru di BSD yang ditargetkan beroperasi kuartal IV 2026 dengan progres 80 persen, serta di Malang yang ditargetkan kuartal I 2027 dengan progres 60 persen, karena keduanya jadi penentu apakah target penambahan kapasitas tempat tidur bisa tercapai sesuai jadwal.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tins-targetkan-capex-rp446-miliar-harga-timah-diproyeksi-kuat-2026",
+  "category": "Aksi Korporasi",
+  "title": "TINS Targetkan [Capex] Rp446 Miliar, Harga Timah Diproyeksi Kuat 2026",
+  "deck": "Dalam public expose tahunan, manajemen Timah memaparkan target capex Rp446 miliar, proyeksi cash cost naik ke US$23.000-24.000 per ton, dan penjajakan mitra tanah jarang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T11:22:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbb88bdf7a_fcfc4a7a25.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TINS",
+  "tags": [
+   "TINS",
+   "Timah",
+   "public expose",
+   "tanah jarang"
+  ],
+  "body": [
+   "PT Timah (Persero) Tbk (TINS) menggelar Public Expose Tahunan 2026 pada Kamis, 10 September 2026 pukul 10.00-11.00 WIB secara daring melalui pubexlive.idx.co.id, dihadiri 173 peserta terdaftar dari kalangan investor, analis, media, dan publik. Presentasi disampaikan bergantian oleh Direktur Strategi Korporasi dan Pengembangan Usaha Harry Budi Sidharta, Direktur Keuangan dan Manajemen Risiko Fina Eliani, serta Direktur Produksi dan Komersial Ilhamsyah Mahendra, dibuka oleh Ruddy Nursalam selaku Division Head of Corporate Secretary dengan moderator Wicky Adrian. Materi yang dipaparkan mencakup kinerja operasi dan keuangan sampai Juli 2026, komitmen ESG, serta strategi peningkatan produksi.",
+   "Dalam sesi tanya jawab, manajemen menyebut konsumsi timah global sampai Juli 2026 mencapai 179.000 ton, naik dibanding tahun sebelumnya, sementara produksi global semester I 2026 baru 173.000 ton sehingga ada kesenjangan sekitar 3 persen antara pasokan dan permintaan. Perseroan memproyeksikan harga timah bertahan di kisaran US$47.000 sampai US$55.000 per ton sepanjang 2026 karena defisit pasokan itu, sementara konsumsi domestik masih stagnan di kisaran 4.000 sampai 5.000 ton per tahun.",
+   "Soal biaya produksi, cash cost Timah hingga semester I 2026 tercatat US$22.435 per metrik ton dan diproyeksikan naik ke kisaran US$23.000 sampai US$24.000 per metrik ton pada akhir tahun, terutama akibat kenaikan harga BBM yang mengerek biaya bahan baku dan suku cadang. Manajemen mengklaim margin tetap terjaga karena harga jual timah juga lebih tinggi. Untuk 2026, Perseroan menargetkan belanja modal (capex) Rp446 miliar, dengan 90 persen dialokasikan untuk operasi produksi dan eksplorasi, dan 10 persen untuk investasi non-rutin termasuk migrasi sistem ERP dari SAP ECC 6 ke SAP S/4HANA.",
+   "Perseroan juga mengungkapkan sedang menjajaki sekitar tiga calon mitra teknologi untuk mengelola cadangan logam tanah jarang di Bangka Belitung, bekerja sama dengan Perminas dan Badan Investasi Mineral, dengan target penentuan mitra rampung pada 2026 sebelum masuk tahap investasi teknologi pengolahan. Menjawab pertanyaan soal proyeksi laba bersih semester II 2026, manajemen menyebut Peraturan Presiden Nomor 79 Tahun 2026 tentang tata kelola pertambangan timah dari hulu ke hilir berpotensi membuka ruang pertumbuhan produksi bijih, khususnya di area operasi Belitung, yang disebut sebagai salah satu pendorong kinerja pada semester kedua tahun ini."
+  ],
+  "fotoAdegan": "Tin ore dredging barge working on a coastal mining pond in Bangka Belitung, workers in safety vests, hazy tropical morning light",
+  "takeaway": "Laporan ini netral bagi Timah, karena isinya adalah proyeksi dan rencana yang disampaikan lisan oleh manajemen dalam sesi tanya jawab, bukan angka final yang sudah terealisasi atau transaksi korporasi yang langsung mengubah kondisi keuangan saat ini. Yang tersentuh dari paparan ini adalah arus kas dan laba per saham: rencana capex Rp446 miliar berarti lebih banyak dana perusahaan keluar untuk investasi produksi tahun ini, sementara proyeksi kenaikan biaya produksi ke US$23.000-24.000 per metrik ton bisa menggerus margin kalau harga jual timah ternyata tidak sekuat perkiraan manajemen, yang ujungnya memengaruhi besar kecilnya laba bersih yang dibagi ke tiap saham beredar. Yang perlu dipantau berikutnya adalah realisasi harga dan produksi timah sepanjang semester II 2026, kepastian mitra teknologi pengelola tanah jarang yang ditargetkan rampung sebelum akhir tahun ini, serta implementasi Peraturan Presiden Nomor 79 Tahun 2026 yang menurut manajemen bisa membuka ruang pertumbuhan produksi bijih di area Belitung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "apex-panggil-rupslb-terbitkan-218-juta-saham-baru-bayar-utang",
+  "category": "Aksi Korporasi",
+  "title": "APEX Panggil RUPSLB, Terbitkan [218 Juta] Saham Baru Bayar Utang",
+  "deck": "Apexindo Pratama Duta (APEX) memanggil RUPSLB 7 Oktober 2026 untuk menyetujui penerbitan 218.090.317 saham seri B baru senilai Rp325 per saham guna melunasi utang ke kreditor pihak ketiga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T11:00:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/55e68b4fda_0b0874b707.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "RUPSLB",
+   "PMTHMETD",
+   "Apexindo"
+  ],
+  "body": [
+   "PT Apexindo Pratama Duta Tbk (APEX) mengirimkan surat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) bernomor 255/DIR-IX/2026 tanggal 15 September 2026, ditandatangani Corporate Secretary Frieda Salvantina. Rapat dijadwalkan Rabu, 7 Oktober 2026 pukul 10.00 WIB di Function Room, Residence 8 Lantai 7, Jl. Senopati No. 8B, Kebayoran Baru, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 14 September 2026 pukul 16.00 WIB, dan kehadiran fisik di ruang rapat dibatasi maksimal 30 orang karena keterbatasan kapasitas, selain opsi hadir elektronik lewat aplikasi eASY.KSEI.",
+   "Agenda pertama rapat adalah persetujuan mengubah Pasal 4 anggaran dasar perseroan terkait reklasifikasi saham. Saat ini modal dasar APEX terbagi atas 6.000.000.000 saham bernilai nominal Rp500 per saham. Perseroan mengajukan penambahan kelas saham baru sehingga ke depan saham perseroan terbagi menjadi Seri A dengan nilai nominal Rp500 per saham dan Seri B dengan nilai nominal Rp325 per saham.",
+   "Agenda kedua adalah persetujuan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) dengan menerbitkan 218.090.317 saham seri B baru bernilai nominal Rp325 per saham. Yang membedakan rencana ini dari penambahan modal biasa adalah cara pembayarannya: bukan disetor tunai, melainkan dengan mengompensasikan hak tagih pihak ketiga atau kreditor terhadap perseroan, alias utang perseroan langsung ditukar menjadi saham. Perseroan menyebut langkah ini merujuk pada Peraturan OJK Nomor 32/POJK.04/2015 juncto POJK Nomor 14/POJK.04/2019, yang memang mengatur penambahan modal untuk memperbaiki posisi keuangan perusahaan terbuka. Agenda ketiga adalah pemberian kuasa kepada direksi untuk mengurus seluruh dokumen dan perizinan yang diperlukan untuk merealisasikan dua keputusan tersebut.",
+   "Bagi pemegang saham yang berhalangan hadir dan ingin diwakili kuasa, asli surat kuasa harus sudah diserahkan ke perseroan paling lambat 6 Oktober 2026 pukul 16.00 WIB. Bahan rapat dapat diunduh di situs web perseroan sejak tanggal pemanggilan hingga hari pelaksanaan RUPSLB."
+  ],
+  "fotoAdegan": "A large offshore oil drilling rig at sea in late afternoon light, a supply vessel anchored alongside, crew in helmets on deck",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama, karena 218.090.317 saham baru yang akan diterbitkan dibayar dengan mengonversi utang perseroan ke kreditor, bukan dengan uang tunai segar yang bisa langsung dipakai untuk operasional atau ekspansi, sehingga mengindikasikan perseroan tidak memiliki kas yang cukup untuk melunasi utang tersebut secara langsung. Konversi ini memang mengurangi beban utang dan menambah ekuitas atau modal perseroan di atas kertas, tetapi karena jumlah saham beredar bertambah tanpa hak memesan efek terlebih dahulu bagi pemegang saham lama, porsi kepemilikan mereka otomatis mengecil dan laba per saham berpotensi terdilusi karena keuntungan yang sama harus dibagi ke lebih banyak lembar saham. Perseroan juga untuk pertama kalinya membentuk dua kelas saham dengan nilai nominal berbeda, Seri A Rp500 dan Seri B Rp325, yang mengubah struktur permodalannya. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 7 Oktober 2026, termasuk siapa kreditor yang piutangnya dikonversi dan berapa besar utang yang terhapus, sebab dokumen pemanggilan ini belum merincikannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nsss-saham-direksi-naik-58-9-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Saham Direksi Naik 58,9% Lewat [Repo]",
+  "deck": "Direksi Samuel Tumbuh Bersama menerima kembali 1,24 miliar saham NSSS lewat perjanjian repo, hak suaranya naik dari 8,86% jadi 14,07%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T10:57:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-5182-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) melaporkan ke Otoritas Jasa Keuangan bahwa anggota direksinya, Samuel Tumbuh Bersama, mencatat kenaikan kepemilikan saham perusahaan lewat skema repurchase agreement (repo) pada 14 September 2026. Sebelum transaksi, Samuel memegang 2.107.437.000 saham NSSS, setara 8,86 persen hak suara. Setelah transaksi, jumlah itu naik menjadi 3.349.088.700 saham atau 14,07 persen hak suara, bertambah 1.241.651.700 saham atau naik 58,9 persen dari kepemilikan sebelumnya.",
+   "Dalam laporan bernomor LK/15092026/0008/1 yang diterima pada 15 September 2026, tambahan kepemilikan itu tercatat sebagai saham biasa yang dikuasai secara tidak langsung, dengan tujuan transaksi disebutkan sebagai pengembalian saham dari perjanjian repo. Dokumen tidak mencantumkan harga transaksi, sesuai sifat repo yang merupakan pengembalian saham yang sebelumnya dijadikan jaminan atau dipinjamkan, bukan jual beli di pasar terbuka.",
+   "Pergerakan ini melanjutkan rangkaian transaksi repo yang sama dalam sepekan terakhir. Pada 11 September 2026, Samuel sempat melepas 289 juta saham NSSS lewat skema serupa, yang saat itu dibaca sebagai pencairan dari perjanjian repo yang justru pernah menaikkan kepemilikannya. Laporan kali ini menunjukkan arah sebaliknya dengan skala jauh lebih besar, mengembalikan porsi signifikan kendali suara kepada direksi tersebut."
+  ],
+  "fotoAdegan": "Workers harvesting palm oil fruit bunches on a plantation, loading them onto a truck bed, tropical morning light",
+  "takeaway": "Transaksi ini saya nilai netral bagi fundamental NSSS, karena statusnya adalah pengembalian saham dari perjanjian repo, bukan pembelian baru di pasar atau suntikan dana segar ke perusahaan, meski ukurannya besar yakni naik 58,9 persen dari kepemilikan sebelumnya dan mengerek hak suara direksi dari 8,86 persen jadi 14,07 persen. Repo atau repurchase agreement di sini berarti saham yang sempat dipindahtangankan sementara, misalnya sebagai jaminan pembiayaan, kini dikembalikan ke pemiliknya, sehingga tidak ada penerbitan saham baru dan jumlah saham beredar NSSS di pasar maupun laba per saham tidak langsung terpengaruh, yang berubah hanya peta kendali suara di internal perusahaan. Yang perlu dicermati berikutnya adalah apakah pola bolak balik pelepasan dan pengembalian saham lewat repo oleh direksi yang sama ini masih berlanjut, mengingat baru sepekan lalu, 11 September 2026, terjadi pelepasan 289 juta saham dari skema serupa. Laporan kepemilikan susulan dari NSSS akan menentukan apakah aktivitas pembiayaan berbasis saham ini sudah selesai atau masih berputar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "heal-direksi-tambah-1-16-juta-saham-rp782-juta",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Direksi [Tambah] 1,16 Juta Saham Rp782 Juta",
+  "deck": "Direksi Hermina, Yulisar Khiat, menambah 1,16 juta lembar saham lewat dua transaksi pembelian pada 11 dan 14 September 2026, senilai sekitar Rp782 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T10:45:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-1138-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEAL",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "PT Medikaloka Hermina Tbk (HEAL) melaporkan ke Otoritas Jasa Keuangan bahwa Yulisar Khiat, anggota Direksi perseroan, menambah kepemilikan sahamnya sebanyak 1.160.800 lembar. Dengan penambahan ini, jumlah saham yang dipegang Yulisar naik dari 993.800.666 lembar menjadi 994.961.466 lembar, sementara hak suaranya di perseroan bertambah tipis dari 6,47 persen menjadi 6,48 persen.",
+   "Berdasarkan laporan kepemilikan saham yang diterima pada 15 September 2026, penambahan itu berasal dari dua transaksi pembelian tidak langsung. Transaksi pertama sebanyak 309.500 lembar saham biasa pada harga Rp670 per saham pada 11 September 2026, dan transaksi kedua sebanyak 851.300 lembar pada harga Rp675 per saham pada 14 September 2026. Keduanya tercatat bertujuan investasi, dengan total nilai transaksi sekitar Rp782 juta.",
+   "Penambahan ini setara dengan sekitar 0,12 persen dari total saham yang sudah dimiliki Yulisar sebelum transaksi, sehingga tergolong kecil dibandingkan porsi kepemilikannya secara keseluruhan di Hermina."
+  ],
+  "fotoAdegan": "Exterior of a modern private hospital building with an ambulance parked near the entrance, calm afternoon light in a Jakarta neighborhood.",
+  "takeaway": "Laporan ini netral bagi Hermina karena pembelian saham oleh Yulisar Khiat hanya menambah sekitar 0,12 persen dari kepemilikannya yang sudah ada, terlalu kecil untuk dibaca sebagai sinyal keyakinan kuat direksi terhadap prospek perusahaan. Yang tersentuh dalam laporan ini adalah hak suara, yaitu porsi pengaruh pemegang saham dalam rapat umum pemegang saham, yang naik tipis dari 6,47 persen menjadi 6,48 persen, sementara jumlah saham beredar emiten sendiri tidak berubah karena transaksi dilakukan di pasar sekunder, bukan penerbitan saham baru. Transaksi seukuran ini juga tidak memengaruhi laba per saham maupun struktur permodalan perseroan. Yang perlu dipantau berikutnya adalah apakah pola pembelian kecil oleh direksi Hermina, setelah laporan serupa dari direksi lain sehari sebelumnya, berlanjut di laporan-laporan mendatang sebagai indikasi sentimen internal manajemen terhadap sahamnya sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "akpi-komisaris-jual-150-000-saham-lagi-kali-kedua-sepekan",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris [Jual] 150.000 Saham Lagi, Kali Kedua Sepekan",
+  "deck": "Henry Liem, Dewan Komisaris AKPI, melepas 150.000 saham secara tidak langsung pada 14 September 2026 seharga Rp525 per saham, hak suaranya turun tipis ke 1,2283 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T10:40:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-2198-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris PT Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan kepada Otoritas Jasa Keuangan pada 15 September 2026 bahwa ia menjual 150.000 saham AKPI pada 14 September 2026. Transaksi dilakukan atas kepemilikan tidak langsung dengan harga Rp525 per saham, dan dalam laporan tersebut tujuan transaksi ditulis sebagai jual saham biasa.",
+   "Dengan penjualan ini, jumlah saham Henry Liem di AKPI berkurang dari 7.670.459 unit menjadi 7.520.459 unit, atau turun 150.000 unit. Hak suaranya di perusahaan ikut turun dari 1,2528 persen menjadi 1,2283 persen. Jumlah yang dilepas setara 1,9556 persen dari total kepemilikan sahamnya sebelum transaksi.",
+   "Ini bukan penjualan pertama Henry Liem dalam waktu dekat. Pada 8 September 2026, ia sudah melaporkan penjualan 400.000 saham AKPI lainnya, sehingga dalam kurun kurang dari sepekan tercatat dua laporan penjualan saham oleh komisaris yang sama."
+  ],
+  "fotoAdegan": "Workers checking large rolls of clear plastic packaging film on an industrial extrusion line inside a factory in Indonesia",
+  "takeaway": "Laporan ini condong netral bagi AKPI karena ukurannya kecil, hak suara Henry Liem hanya bergeser dari 1,2528 persen menjadi 1,2283 persen, jauh dari level yang bisa mengubah peta kendali perusahaan. Pos yang tersentuh adalah struktur pemegang saham dan sebaran hak suara, yang dipantau pelaku pasar karena transaksi orang dalam kadang jadi sinyal soal pandangan mereka terhadap prospek perusahaan, meski di sini porsinya terlalu tipis untuk dibaca sebagai sikap tegas. Yang perlu dipantau selanjutnya adalah apakah pola penjualan bertahap ini berlanjut, mengingat ini sudah laporan kedua dari komisaris yang sama dalam waktu kurang dari sepekan setelah penjualan 400.000 saham pada 8 September 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "patokan-ekspor-emas-naik-1-63-persen-per-15-september",
   "category": "Industri",
   "title": "Patokan Ekspor Emas [Naik] 1,63 Persen per 15 September",
@@ -57,6 +293,83 @@ var ARTICLES = [
   "imageV": "mu24r5bl"
  },
  {
+  "slug": "bmbl-pemegang-saham-lepas-35-juta-saham-suara-ke-15-62",
+  "category": "Aksi Korporasi",
+  "title": "BMBL: Pemegang Saham [Lepas] 35 Juta Saham, Suara ke 15,62%",
+  "deck": "Pemegang saham individu BMBL melepas 35 juta saham dalam tiga transaksi pada 10 September 2026, memangkas hak suaranya dari 19,02 persen menjadi 15,62 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T10:32:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-7881-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMBL",
+  "tags": [
+   "BMBL",
+   "kepemilikan saham",
+   "pemegang saham",
+   "OJK"
+  ],
+  "body": [
+   "PT Lavender Bina Cendikia Tbk (BMBL) menyampaikan laporan keterbukaan informasi mengenai perubahan kepemilikan saham dari Ammar Al Amanah, pemegang saham perusahaan yang bukan bagian dari jajaran direksi maupun dewan komisaris. Berdasarkan laporan yang disampaikan ke Otoritas Jasa Keuangan pada 15 September 2026, Ammar melepas total 35.000.000 saham BMBL melalui tiga transaksi penjualan tidak langsung yang seluruhnya terjadi pada 10 September 2026.",
+   "Penjualan dilakukan dalam tiga tahap dengan harga berbeda, yakni 10.000.000 saham di harga Rp34 per saham, 10.500.000 saham di harga Rp35 per saham, dan 14.500.000 saham di harga Rp36 per saham. Total nilai ketiga transaksi tersebut diperkirakan mencapai sekitar Rp1,23 miliar. Dalam laporan itu, ketiga transaksi sama-sama dicatat dengan tujuan rebalancing portofolio.",
+   "Akibat penjualan ini, jumlah saham Ammar di BMBL berkurang dari 195.903.900 unit menjadi 160.903.900 unit, setara sekitar 17,87 persen dari saham yang sebelumnya ia pegang. Hak suaranya di perusahaan pun turun dari 19,02 persen menjadi 15,62 persen."
+  ],
+  "fotoAdegan": "Brokers moving through the Indonesia Stock Exchange trading floor, a blurred distant ticker display, afternoon light through glass windows",
+  "takeaway": "Laporan ini condong negatif bagi BMBL, karena pemegang saham signifikan melepas hampir 18 persen dari kepemilikannya sendiri hanya dalam sehari, jauh melampaui ambang sekitar 1 persen yang biasa dianggap remah oleh pasar. Yang tersentuh bukan jumlah saham beredar perusahaan, sebab transaksi ini terjadi di pasar sekunder antarpemegang saham, melainkan konsentrasi kepemilikan dan hak suara pemegang saham tersebut, yang turun 3,4 poin persentase dari 19,02 persen menjadi 15,62 persen sehingga pengaruhnya dalam keputusan perusahaan seperti rapat umum pemegang saham otomatis mengecil. Yang perlu dipantau berikutnya adalah apakah Ammar Al Amanah akan terus mengurangi kepemilikannya lewat laporan susulan ke OJK, karena pelepasan sebesar ini dalam waktu singkat kerap menjadi bagian dari proses pengurangan bertahap, bukan aksi satu kali.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ratu-beber-rencana-private-placement-dan-akuisisi-di-2027",
+  "category": "Aksi Korporasi",
+  "title": "RATU Beber Rencana Private Placement dan Akuisisi di [2027]",
+  "deck": "Dalam public expose, manajemen RATU memaparkan penggunaan dana private placement hingga 10% saham dan target akuisisi minimal satu aset pada 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T10:19:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eee1833801_bca286592b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "private placement",
+   "akuisisi migas",
+   "public expose"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) menggelar public expose tahunan pada Kamis, 10 September 2026, pukul 14.00-14.51 WIB melalui Zoom Webinar. Acara dihadiri 111 peserta terdaftar di luar jajaran manajemen dan karyawan Perseroan, dengan manajemen yang hadir yaitu Direktur Utama Sumantri Suwarno, Direktur Alexandra Sinta Wahjudewanti, dan Direktur Adrian Hartadi. Perseroan memaparkan lanskap bisnis migas 2026, profil perusahaan, ringkasan aset, pencapaian, kinerja keuangan semester I 2026, serta kinerja keberlanjutan, sebelum masuk ke sesi tanya jawab pukul 14.41 WIB.",
+   "Menjawab pertanyaan wartawan Kontan, Alief Andri, soal rencana private placement hingga 10% saham, Sumantri Suwarno menyatakan dana tersebut terutama akan dipakai untuk modal kerja karena Perseroan setiap tahun menghadapi cash call, serta untuk menambah aset lewat akuisisi. Ia menyebut prioritas Perseroan dalam dua sampai tiga tahun ke depan adalah aset migas yang sudah berproduksi, guna mengurangi risiko eksplorasi sebelum masuk ke aset yang sifatnya eksploratif. Direktur Adrian Hartadi menambahkan, private placement ini diperlukan untuk memenuhi janji dalam prospektus IPO soal pengembangan bisnis dan akuisisi aset yang sudah berproduksi. Menjawab pertanyaan investor William Edric soal target penyelesaian akuisisi, Adrian mengatakan proses due diligence sejumlah aset masih berjalan, namun secara konservatif penutupan akuisisi baru ditargetkan pada 2027 dengan target minimal satu akuisisi, seiring rencana eksekusi private placement yang sudah disetujui RUPS Independen.",
+   "Menanggapi pertanyaan investor Lidya Sopamena mengenai kebijakan dividen di tengah rencana penambahan modal dan ekspansi non-organik, Sumantri Suwarno mengatakan manajemen berkomitmen membagikan dividen kepada pemegang saham, namun besaran rasio pembagian dividen untuk tahun buku 2026 baru akan ditentukan pada akhir tahun setelah melihat anggaran dan kinerja tahun berjalan. Soal harga minyak, Sumantri menyebut sejumlah proyeksi memperkirakan harga akan turun ke kisaran US$78 hingga US$80 per barel pada kuartal IV 2026, namun saat public expose berlangsung harga minyak masih berada di level US$90 per barel, sehingga Perseroan memperkirakan akan menutup tahun 2026 dengan harga minyak yang relatif lebih tinggi dibandingkan tahun 2025. Setelah sesi paparan, Perseroan juga mengadakan konferensi pers virtual pukul 15.06-15.25 WIB yang dihadiri 12 jurnalis dari 10 media."
+  ],
+  "fotoAdegan": "Oil pumpjacks operating in a dry onshore field in East Java at dusk, pipelines crossing dry grassland, industrial atmosphere.",
+  "takeaway": "Paparan publik ini netral bagi RATU: kabar baik dari harga minyak yang masih bertahan di US$90 per barel diimbangi oleh rencana private placement hingga 10% saham yang berpotensi menambah jumlah saham beredar dan mengurangi laba per saham setiap pemegang saham yang ada. Private placement ini akan memperkuat ekuitas perusahaan untuk mendanai akuisisi aset migas yang sudah berproduksi, sementara kebutuhan modal kerja tahunan akibat cash call turut membebani arus kas Perseroan. Manajemen juga menggeser target penyelesaian akuisisi dari semula tahun ini menjadi paling cepat 2027, dengan target minimal satu akuisisi. Yang perlu dipantau selanjutnya adalah realisasi private placement yang sudah disetujui RUPS Independen, penentuan rasio pembagian dividen tahun buku 2026 yang baru diputuskan akhir tahun, serta pergerakan harga minyak pada kuartal IV yang diperkirakan turun ke kisaran US$78-80 per barel.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-direksi-lepas-1-18-miliar-saham-suara-ke-20-42",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi [Lepas] 1,18 Miliar Saham, Suara ke 20,42%",
+  "deck": "Seorang direksi NSSS melepas 1,18 miliar saham lewat repo pada 14 September 2026, menurunkan hak suaranya dari 25,40% menjadi 20,42%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T10:19:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-1947-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "body": [
+   "Seorang direksi PT Nusantara Sawit Sejahtera Tbk (NSSS) yang tercatat dengan nama Samuel Sekuritas Indonesia melaporkan ke Otoritas Jasa Keuangan bahwa ia melepas total 1.184.130.100 saham NSSS pada 14 September 2026. Pelepasan ini tercatat dalam empat transaksi terpisah dengan tujuan substitution repo, yaitu pergantian jaminan dalam perjanjian pembelian kembali saham atau repurchase agreement. Rinciannya, 253.395.100 saham di harga Rp795 per lembar, 300.694.400 saham di harga Rp850, 308.269.800 saham di harga Rp820, dan 321.770.800 saham di harga Rp800, seluruhnya saham biasa berstatus kepemilikan langsung.",
+   "Dengan pelepasan ini, jumlah saham yang dipegang langsung oleh direksi tersebut turun dari 6.045.069.000 lembar menjadi 4.860.938.900 lembar, berkurang 1.184.130.100 lembar. Porsi yang dilepas ini setara 19,59 persen dari total kepemilikannya sebelum transaksi. Akibatnya, hak suaranya di NSSS turun dari 25,40 persen menjadi 20,42 persen."
+  ],
+  "fotoAdegan": "Workers loading harvested palm oil fruit bunches onto a truck in a plantation, misty morning light, rural Indonesia.",
+  "takeaway": "Laporan ini saya nilai condong negatif bagi NSSS, karena pelepasan saham lewat repo ini bukan transaksi remah, melainkan mencakup sekitar 19,6 persen dari total kepemilikan sang direksi sebelum transaksi, sehingga hak suaranya turun dari 25,40 persen menjadi 20,42 persen. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan kas atau laba perusahaan secara langsung, tapi penurunan hak suara orang dalam sebesar ini lazim dibaca pasar sebagai berkurangnya kendali direksi atas perusahaan. Karena berstatus substitusi dalam perjanjian pembelian kembali saham, sebagian saham ini kemungkinan berpindah sebagai jaminan ke pihak lain, bukan murni dijual tunai di pasar terbuka, sehingga dampaknya terhadap kas pribadi direksi belum tentu sebesar penurunan hak suaranya. Yang perlu dipantau berikutnya adalah apakah direksi ini melaporkan transaksi susulan yang mengembalikan sebagian kepemilikannya, mengingat NSSS beberapa kali dalam sepekan terakhir melaporkan kepemilikan direksi lain naik turun lewat repo yang sama, serta apakah hak suaranya terus turun di laporan berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "harga-emas-antam-turun-lagi-ke-rp2-592-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Lagi ke Rp2.592.000/Gram",
@@ -81,6 +394,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah hari ini hanya angka harga: emas Antam turun Rp10.000 menjadi Rp2.592.000 per gram, dan harga buyback, yaitu harga saat Antam membeli kembali emas dari masyarakat, ikut turun ke Rp2.437.000 per gram. Yang terdampak langsung adalah pemilik emas batangan Antam dan calon pembeli ritel yang biasa memakai emas sebagai simpanan jangka pendek. Data hari ini belum menyebut apa yang mendorong penurunan tersebut, misalnya pergerakan harga emas dunia atau nilai tukar dolar Amerika Serikat, sehingga belum bisa dipastikan apakah ini awal tren turun atau sekadar fluktuasi harian biasa. Yang perlu dicermati adalah pergerakan harga emas Antam dalam beberapa hari ke depan untuk melihat apakah penurunan ini berlanjut atau justru berbalik naik.",
   "imageV": "mu24r5qz"
+ },
+ {
+  "slug": "rlco-direksi-beli-balik-29-6-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Beli Balik 29,6 Juta Saham Lewat [Repo]",
+  "deck": "Direksi RLCO membeli balik 29,6 juta saham lewat perjanjian repo pada 14 September 2026, mengembalikan hak suaranya dari 5,62% menjadi 6,57%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T09:56:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-7799-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "repo",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Abadi Lestari Indonesia Tbk (RLCO), Samuel Sekuritas Indonesia, melaporkan ke Otoritas Jasa Keuangan bahwa ia membeli 29.648.200 lembar saham RLCO pada 14 September 2026 melalui skema repurchase agreement atau perjanjian jual beli kembali saham, dengan harga Rp4.560 per saham. Tujuan transaksi tercatat sebagai substitusi. Setelah transaksi ini, kepemilikan Samuel Sekuritas Indonesia di RLCO naik dari 175.686.100 lembar menjadi 205.334.300 lembar, bertambah 29.648.200 lembar atau setara 16,88 persen dari kepemilikan sebelumnya.",
+   "Kenaikan jumlah saham ini turut mengerek hak suara Samuel Sekuritas Indonesia di RLCO dari 5,62% menjadi 6,57%. Laporan disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka dan Aktivitas Menjaminkan Saham Perusahaan Terbuka, mengingat statusnya sebagai anggota direksi RLCO.",
+   "Transaksi ini muncul empat hari setelah RLCO melaporkan penjualan 29,6 juta saham oleh direksi yang sama lewat skema repo serupa pada 11 September 2026, yang saat itu dinilai negatif karena mengurangi kepemilikan insider. Jumlah saham yang dibeli kali ini nyaris identik dengan yang sebelumnya dilepas, sehingga transaksi 14 September 2026 ini secara praktis mengembalikan saham yang sempat keluar dari genggaman direksi tersebut."
+  ],
+  "fotoAdegan": "Financial analysts working at desks in a modern Jakarta brokerage office, computer screens blurred, soft afternoon light through tall windows",
+  "takeaway": "Transaksi ini condong netral bagi sinyal kepemilikan insider RLCO, sebab pembelian dilakukan lewat skema repo dengan tujuan substitusi, yang lebih menggambarkan penyesuaian teknis atas perjanjian jual beli kembali saham ketimbang keputusan investasi baru dari direksi. Yang tersentuh adalah komposisi kepemilikan dan hak suara pemegang saham utama, bukan jumlah total saham beredar RLCO, karena transaksi repo memindahkan saham antar pihak tanpa menerbitkan saham baru sehingga laba per saham perusahaan tidak ikut terdilusi. Meski begitu, kenaikan hak suara dari 5,62% menjadi 6,57% ini secara praktis mengembalikan porsi kepemilikan direksi ke level sebelum pelepasan 29,6 juta saham yang dilaporkan pada 11 September 2026 dan sempat dinilai negatif. Yang perlu dipantau berikutnya adalah apakah pola jual pada 11 September dan beli pada 14 September 2026 ini berulang, karena bisa menandakan saham RLCO milik direksi tersebut memang tengah dipakai bolak-balik sebagai jaminan pendanaan lewat skema repo.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bksl-saham-direksi-bertambah-2-87-miliar-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Saham Direksi Bertambah 2,87 Miliar via [Repo]",
+  "deck": "Direksi BKSL menambah 2,87 miliar saham lewat transaksi repurchase agreement pada 14 September 2026, mengerek hak suaranya dari 3,65 menjadi 5,36 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T09:52:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-1521-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BKSL",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "body": [
+   "Samuel Sekuritas Indonesia, yang dalam laporan ini tercatat berkedudukan sebagai direksi PT Sentul City Tbk (BKSL), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perseroan bertambah. Sebelum transaksi, jumlah saham yang dipegang tercatat 6.116.519.100 lembar dengan hak suara 3,65 persen. Setelah transaksi pada 14 September 2026, jumlahnya menjadi 8.989.961.700 lembar dengan hak suara 5,36 persen, atau bertambah 2.873.442.600 lembar saham.",
+   "Penambahan itu tercatat sebagai transaksi pembelian melalui skema repurchase agreement atau repo, dengan status kepemilikan langsung, pada harga Rp72 per saham. Tujuan transaksi yang tertulis dalam dokumen adalah substitution repo, yakni penggantian saham yang menjadi jaminan dalam perjanjian repo yang sudah berjalan, bukan penambahan posisi baru di pasar terbuka. Laporan ini disampaikan sesuai kewajiban pelaporan kepemilikan saham oleh direksi dan komisaris perusahaan terbuka berdasarkan POJK Nomor 4/2024.",
+   "Dengan kenaikan tersebut, hak suara yang dipegang naik sekitar 47 persen dari posisi sebelumnya dan kini berada di atas 5,36 persen dari total hak suara perseroan."
+  ],
+  "fotoAdegan": "Aerial view of a landscaped residential housing complex with tiled roofs and green lawns in a West Java satellite town, midday",
+  "takeaway": "Laporan ini netral bagi fundamental Sentul City, sebab penambahan saham ini terjadi lewat substitusi jaminan dalam perjanjian repo, bukan pembelian baru di pasar yang mencerminkan keyakinan segar terhadap prospek perusahaan. Yang tersentuh adalah hak suara, yaitu porsi suara pemegang saham dalam rapat pemegang saham, yang naik dari 3,65 persen menjadi 5,36 persen, sehingga kini melewati ambang 5 persen yang lazim menjadi batas kategori pemegang saham utama. Kenaikan itu penting diperhatikan karena begitu porsi kepemilikan seseorang melewati batas tersebut, pengaruhnya dalam keputusan strategis perusahaan seperti RUPS ikut membesar. Perlu dicatat pula bahwa repo pada dasarnya adalah transaksi jaminan yang mengandung janji pengembalian, sehingga kepemilikan ini berpotensi bersifat sementara. Yang perlu dipantau selanjutnya adalah apakah menyusul laporan keterbukaan lain terkait status pemegang saham utama atau perubahan kepemilikan lanjutan, karena dokumen ini tidak mencantumkan tanggal jatuh tempo perjanjian reponya.",
+  "sentimen": "netral"
  },
  {
   "slug": "cbut-jawab-permintaan-bei-soal-volatilitas-saham",

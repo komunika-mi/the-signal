@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "maya-jonathan-tahir-jual-523-juta-saham-untuk-lunasi-utang",
+  "category": "Aksi Korporasi",
+  "title": "MAYA: Jonathan Tahir Jual 523 Juta Saham untuk [Lunasi Utang]",
+  "deck": "Jonathan Tahir menjual 523,36 juta saham MAYA senilai Rp10 per saham untuk melunasi utang, memangkas hak suaranya dari 5,89% menjadi 3,89%.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAYA",
+   "Bank Mayapada",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-9276-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "drma-bentuk-joint-venture-dengan-minth-group",
+  "category": "Aksi Korporasi",
+  "title": "DRMA Bentuk [Joint Venture] dengan Minth Group",
+  "deck": "PT Dharma Polimetal menggandeng Minth Group mendirikan PT Dharma Minth Indonesia, JV komponen otomotif kendaraan roda empat dengan modal disetor Rp45 miliar.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DRMA",
+   "joint venture",
+   "Minth Group",
+   "komponen otomotif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/32b011d038_afe61d4f85.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mega-klaim-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "MEGA Klaim Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Bank Mega menjawab permintaan penjelasan BEI atas lonjakan transaksi dan penurunan harga sahamnya pada 10 September 2026, dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEGA",
+   "Bank Mega",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f71f736f7_a8456e8a60.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "paparan-publik-mika-laba-bersih-naik-ke-rp728-miliar-di-1h26",
+  "category": "Aksi Korporasi",
+  "title": "Paparan Publik MIKA: Laba Bersih Naik ke [Rp728 Miliar] di 1H26",
+  "deck": "Manajemen MIKA memaparkan laba bersih Rp728 miliar di semester I 2026, progres dua rumah sakit baru di BSD dan Malang, serta kebijakan dividen di atas 25 persen laba dalam Paparan Publik Tahunan.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MIKA",
+   "Mitra Keluarga",
+   "rumah sakit",
+   "paparan publik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9706ab7cc_4e28676355.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tins-targetkan-capex-rp446-miliar-harga-timah-diproyeksi-kuat-2026",
+  "category": "Aksi Korporasi",
+  "title": "TINS Targetkan [Capex] Rp446 Miliar, Harga Timah Diproyeksi Kuat 2026",
+  "deck": "Dalam public expose tahunan, manajemen Timah memaparkan target capex Rp446 miliar, proyeksi cash cost naik ke US$23.000-24.000 per ton, dan penjajakan mitra tanah jarang.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TINS",
+   "Timah",
+   "public expose",
+   "tanah jarang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbb88bdf7a_fcfc4a7a25.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apex-panggil-rupslb-terbitkan-218-juta-saham-baru-bayar-utang",
+  "category": "Aksi Korporasi",
+  "title": "APEX Panggil RUPSLB, Terbitkan [218 Juta] Saham Baru Bayar Utang",
+  "deck": "Apexindo Pratama Duta (APEX) memanggil RUPSLB 7 Oktober 2026 untuk menyetujui penerbitan 218.090.317 saham seri B baru senilai Rp325 per saham guna melunasi utang ke kreditor pihak ketiga.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APEX",
+   "RUPSLB",
+   "PMTHMETD",
+   "Apexindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/55e68b4fda_0b0874b707.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-saham-direksi-naik-58-9-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Saham Direksi Naik 58,9% Lewat [Repo]",
+  "deck": "Direksi Samuel Tumbuh Bersama menerima kembali 1,24 miliar saham NSSS lewat perjanjian repo, hak suaranya naik dari 8,86% jadi 14,07%.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-5182-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "heal-direksi-tambah-1-16-juta-saham-rp782-juta",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Direksi [Tambah] 1,16 Juta Saham Rp782 Juta",
+  "deck": "Direksi Hermina, Yulisar Khiat, menambah 1,16 juta lembar saham lewat dua transaksi pembelian pada 11 dan 14 September 2026, senilai sekitar Rp782 juta.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-1138-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-jual-150-000-saham-lagi-kali-kedua-sepekan",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris [Jual] 150.000 Saham Lagi, Kali Kedua Sepekan",
+  "deck": "Henry Liem, Dewan Komisaris AKPI, melepas 150.000 saham secara tidak langsung pada 14 September 2026 seharga Rp525 per saham, hak suaranya turun tipis ke 1,2283 persen.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-2198-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "patokan-ekspor-emas-naik-1-63-persen-per-15-september",
   "category": "Industri",
   "title": "Patokan Ekspor Emas [Naik] 1,63 Persen per 15 September",
@@ -39,6 +183,54 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "bmbl-pemegang-saham-lepas-35-juta-saham-suara-ke-15-62",
+  "category": "Aksi Korporasi",
+  "title": "BMBL: Pemegang Saham [Lepas] 35 Juta Saham, Suara ke 15,62%",
+  "deck": "Pemegang saham individu BMBL melepas 35 juta saham dalam tiga transaksi pada 10 September 2026, memangkas hak suaranya dari 19,02 persen menjadi 15,62 persen.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMBL",
+   "kepemilikan saham",
+   "pemegang saham",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-7881-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-beber-rencana-private-placement-dan-akuisisi-di-2027",
+  "category": "Aksi Korporasi",
+  "title": "RATU Beber Rencana Private Placement dan Akuisisi di [2027]",
+  "deck": "Dalam public expose, manajemen RATU memaparkan penggunaan dana private placement hingga 10% saham dan target akuisisi minimal satu aset pada 2027.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "private placement",
+   "akuisisi migas",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eee1833801_bca286592b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-lepas-1-18-miliar-saham-suara-ke-20-42",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi [Lepas] 1,18 Miliar Saham, Suara ke 20,42%",
+  "deck": "Seorang direksi NSSS melepas 1,18 miliar saham lewat repo pada 14 September 2026, menurunkan hak suaranya dari 25,40% menjadi 20,42%.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-1947-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-turun-lagi-ke-rp2-592-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Lagi ke Rp2.592.000/Gram",
@@ -54,6 +246,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467163-terpantau-turun-lagi-harga-emas-antam-hari-ini-15-september-2026-rp2592000-per-gram"
+ },
+ {
+  "slug": "rlco-direksi-beli-balik-29-6-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Beli Balik 29,6 Juta Saham Lewat [Repo]",
+  "deck": "Direksi RLCO membeli balik 29,6 juta saham lewat perjanjian repo pada 14 September 2026, mengembalikan hak suaranya dari 5,62% menjadi 6,57%.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "repo",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-7799-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bksl-saham-direksi-bertambah-2-87-miliar-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Saham Direksi Bertambah 2,87 Miliar via [Repo]",
+  "deck": "Direksi BKSL menambah 2,87 miliar saham lewat transaksi repurchase agreement pada 14 September 2026, mengerek hak suaranya dari 3,65 menjadi 5,36 persen.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-1521-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "cbut-jawab-permintaan-bei-soal-volatilitas-saham",
@@ -6267,238 +6491,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6468377930_72aec221a2.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "rigs-laba-bersih-anjlok-42-jadi-rp55-4-miliar-fy2026",
-  "category": "Aksi Korporasi",
-  "title": "RIGS: Laba Bersih [Anjlok] 42% Jadi Rp55,4 Miliar FY2026",
-  "deck": "Laba bersih Rig Tenders turun 42 persen menjadi Rp55,35 miliar untuk tahun buku berakhir 30 Juni 2026, seiring pendapatan yang juga menyusut dari Rp365,9 miliar menjadi Rp291,1 miliar.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RIGS",
-   "laporan keuangan tahunan",
-   "laba bersih turun",
-   "emiten pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260908091133-64265-0/FinancialStatement-2025-Tahunan-RIGS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nikl-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "NIKL Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Bursa Efek Indonesia meminta penjelasan Pelat Timah Nusantara (NIKL) atas volatilitas transaksi sahamnya. Perusahaan membantah ada informasi atau rencana korporasi tersembunyi.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NIKL",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df479f1210_883f9bf0d5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "het-pupuk-bersubsidi-turun-20-persen-aturan-baru-berlaku",
-  "category": "BUMN",
-  "title": "HET Pupuk Bersubsidi [Turun] 20 Persen, Aturan Baru Berlaku",
-  "deck": "Pemerintah menurunkan harga eceran tertinggi pupuk bersubsidi 20 persen dan memperbarui aturan penyalurannya, sementara realisasi di Mojokerto sudah capai 76 persen dari alokasi tahun ini.",
-  "date": "8 September 2026",
-  "image": "assets/img/het-pupuk-bersubsidi-turun-20-persen-aturan-baru-berlaku.jpg",
-  "imageV": "mtrssgj6",
-  "tags": [
-   "pupuk bersubsidi",
-   "Pupuk Indonesia",
-   "HET pupuk",
-   "Mojokerto"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/881/pilar-tani-pupuk-indonesia-perkuat-penyaluran-pupuk-subsidi-di-mojokerto",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "kementan-perketat-aturan-penebusan-pupuk-bersubsidi",
-  "category": "BUMN",
-  "title": "Kementan [Perketat] Aturan Penebusan Pupuk Bersubsidi",
-  "deck": "Aturan Kementan baru membatasi penebusan pupuk bersubsidi berkelompok maksimal 20 KTP, berlaku sejak 1 September 2026, untuk mencegah penyimpangan penyaluran ke petani.",
-  "date": "8 September 2026",
-  "image": "assets/img/kementan-perketat-aturan-penebusan-pupuk-bersubsidi.jpg",
-  "imageV": "mtrssi57",
-  "tags": [
-   "pupuk bersubsidi",
-   "Pupuk Indonesia",
-   "Bangkalan",
-   "Kementan"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/882/pupuk-indonesia-mengimbau-ppts-bangkalan-salurkan-pupuk-bersubsidi-sesuai-ketentuan",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "inspeksi-abk-kapal-ikan-diuji-coba-kkp-catat-21-kasus",
-  "category": "Ketenagakerjaan",
-  "title": "Inspeksi ABK Kapal Ikan Diuji Coba, KKP Catat [21] Kasus",
-  "deck": "KKP bersama Kemenaker uji coba inspeksi ketenagakerjaan di kapal perikanan Pelabuhan Benoa, Bali, dan menemukan masalah pengupahan serta perekrutan ilegal ABK.",
-  "date": "8 September 2026",
-  "image": "assets/img/inspeksi-abk-kapal-ikan-diuji-coba-kkp-catat-21-kasus.jpg",
-  "imageV": "mtrssk2s",
-  "tags": [
-   "ABK",
-   "KKP",
-   "ILO 188",
-   "Ketenagakerjaan"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-gelar-inspeksi-kapal-perikanan-sesuai-konvensi-ilo-188-untuk-lindungi-abk-8MV3.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "aturan-baru-izinkan-ekspor-lobster-budi-daya-50-gram",
-  "category": "Industri",
-  "title": "Aturan Baru [Izinkan] Ekspor Lobster Budi Daya 50 Gram",
-  "deck": "Permen KP terbaru mengatur pembesaran lobster bertahap di dalam negeri dan membuka izin ekspor hasil budi daya minimal 50 gram, dengan kewajiban restocking dua persen.",
-  "date": "8 September 2026",
-  "image": "assets/img/aturan-baru-izinkan-ekspor-lobster-budi-daya-50-gram.jpg",
-  "imageV": "mtrsslxe",
-  "tags": [
-   "Lobster",
-   "KKP",
-   "Ekspor Perikanan",
-   "Lombok Timur"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-dorong-kemajuan-ekosistem-budi-daya-lobster-di-lombok-timur-9DWD.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "presiden-prabowo-buka-investasi-nuklir-di-forum-rusia",
-  "category": "Global",
-  "title": "Presiden Prabowo Buka Investasi [Nuklir] di Forum Rusia",
-  "deck": "Presiden Prabowo menyatakan keterbukaan Indonesia terhadap investasi energi terbarukan hingga nuklir di Forum Ekonomi Timur Rusia; investasi Rusia ke Indonesia sejak 2021 tercatat US$726 juta.",
-  "date": "8 September 2026",
-  "image": "assets/img/tambang-mineral.jpg",
-  "tags": [
-   "investasi Rusia",
-   "energi nuklir",
-   "hilirisasi",
-   "BKPM"
-  ],
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/presiden-prabowo-tegaskan-arah-investasi-indonesia-hilirisasi-untuk-kesejahteraan-dan-investasi-teknologi-masa-depan",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "realisasi-investasi-hilirisasi-tembus-rp300-1-triliun",
-  "category": "Industri",
-  "title": "Realisasi Investasi [Hilirisasi] Tembus Rp300,1 Triliun",
-  "deck": "Realisasi investasi sektor hilirisasi RI naik 6,9 persen menjadi Rp300,1 triliun pada semester I 2026, ditopang strategi perencanaan, kemudahan izin, dan insentif pajak.",
-  "date": "8 September 2026",
-  "image": "assets/img/pabrik-gula.jpg",
-  "tags": [
-   "hilirisasi",
-   "investasi",
-   "BKPM",
-   "insentif pajak"
-  ],
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-ungkap-tiga-strategi-jemput-investasi-dan-perkuat-hilirisasi",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "indonesia-tawarkan-32-proyek-infrastruktur-ke-investor-jepang",
-  "category": "BUMN",
-  "title": "Indonesia Tawarkan [32] Proyek Infrastruktur ke Investor Jepang",
-  "deck": "Kemenko Perekonomian dan KBRI Tokyo menggelar forum bisnis yang menawarkan 32 proyek infrastruktur milik sembilan BUMN dan BUMD kepada puluhan investor Jepang.",
-  "date": "8 September 2026",
-  "image": "assets/img/truk-logistik-gudang.jpg",
-  "tags": [
-   "investasi",
-   "Jepang",
-   "infrastruktur",
-   "BUMN"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7079/indonesia-japan-transportation-and-infrastructure-business-forum-and-business-matching-sebagai-upaya-peningkatan-investasi-dan-mendorong-pertumbuhan-ekonomi-indonesia",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "indonesia-irlandia-gelar-dialog-dagang-jelang-ieu-cepa",
-  "category": "Global",
-  "title": "Indonesia-Irlandia Gelar Dialog Dagang Jelang [IEU-CEPA]",
-  "deck": "Kemenko Perekonomian dan Irlandia menggelar dialog strategis membahas kerja sama dagang dan investasi menjelang implementasi IEU-CEPA, ditutup penandatanganan nota kerja sama.",
-  "date": "8 September 2026",
-  "image": "assets/img/pasar-modal.jpg",
-  "tags": [
-   "IEU-CEPA",
-   "Indonesia-Irlandia",
-   "Kemenko Perekonomian",
-   "perdagangan bilateral"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7080/bersiap-untuk-implementasi-ieu-cepa-indonesia-dan-irlandia-gelar-dialog-strategis-untuk-perkuat-kerja-sama-ekonomi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "raja-laba-bersih-1h26-melonjak-88-persen-utang-menyusut",
-  "category": "Aksi Korporasi",
-  "title": "RAJA: Laba Bersih 1H26 [Melonjak] 88 Persen, Utang Menyusut",
-  "deck": "Materi public expose RAJA memaparkan laba bersih semester I 2026 naik 88 persen jadi US$28,9 juta, ditopang harga minyak Blok Cepu dan proyek kompresor gas Sengkang.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAJA",
-   "kinerja keuangan",
-   "public expose",
-   "LNG"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1117d2b6b7_96d34495ff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "antm-paparkan-kinerja-1h26-roe-naik-ke-23-persen",
-  "category": "Aksi Korporasi",
-  "title": "ANTM Paparkan Kinerja 1H26, ROE [Naik] ke 23 Persen",
-  "deck": "Materi public expose tahunan ANTM menunjukkan pendapatan, laba, dan ROE semester I 2026 naik, dividen Rp5 triliun, sementara rasio utang terhadap EBITDA tetap rendah di 0,21 kali.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANTM",
-   "Antam",
-   "MIND ID",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c836520141_ae09972d01.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mine-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "MINE Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Sinar Terang Mandiri (MINE) menyatakan tidak ada informasi material maupun rencana korporasi yang memicu pergerakan harga.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MINE",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60365d3d0c_c9660ac9c9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pltp-gunung-ungaran-dinilai-aman-asal-dikaji-matang",
-  "category": "Energi",
-  "title": "PLTP Gunung Ungaran Dinilai [Aman] Asal Dikaji Matang",
-  "deck": "Pengamat kebijakan publik Agus Pambagio menilai rencana PLTP Gunung Ungaran tak perlu dikhawatirkan asal dikaji menyeluruh, termasuk soal kawasan cagar budaya di sekitarnya.",
-  "date": "7 September 2026",
-  "image": "assets/img/pltp-gunung-ungaran-dinilai-aman-asal-dikaji-matang.jpg",
-  "imageV": "mtrms3al",
-  "tags": [
-   "pltp gunung ungaran",
-   "energi bersih",
-   "panas bumi",
-   "agus pambagio"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465566-soal-pltp-gunung-ungaran-pengamat-yakinkan-tak-perlu-khawatir-energi-bersih-perlu-didorong-asal-dikaji-komperhensif"
  }
 ];

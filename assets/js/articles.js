@@ -30,6 +30,32 @@ var ARTICLES = [
   "imageV": "mu2o3033"
  },
  {
+  "slug": "coal-rpp-ekspor-sda-diklaim-tak-berdampak-ke-kinerja",
+  "category": "Aksi Korporasi",
+  "title": "COAL: RPP Ekspor SDA Diklaim Tak [Berdampak] ke Kinerja",
+  "deck": "Black Diamond Resources menjawab permintaan penjelasan Bursa soal rencana aturan pemerintah mengenai tata kelola ekspor sumber daya alam, dan menyebut dampaknya ke kinerja perseroan tidak signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T18:47:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2fd36f9439_dc67cd3903.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "COAL",
+  "tags": [
+   "COAL",
+   "Black Diamond Resources",
+   "ekspor sumber daya alam",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Black Diamond Resources Tbk (COAL) menyampaikan surat penjelasan kepada Bursa Efek Indonesia pada 14 September 2026, menjawab surat permintaan penjelasan Bursa Nomor S-06312/BEI.PP2/05-2026 tertanggal 25 Mei 2026. Surat Bursa itu meminta tanggapan perseroan atas rencana pemerintah menerbitkan Peraturan Pemerintah tentang Tata Kelola Ekspor Sumber Daya Alam, yang berpotensi menyentuh kegiatan ekspor batu bara perseroan.",
+   "Dalam suratnya, Bursa meminta rincian dampak rencana aturan tersebut terhadap lima hal: kelangsungan usaha, kegiatan operasional, kondisi keuangan perseroan termasuk pendapatan, laba usaha, laba bersih dan arus kas, kelangsungan perjanjian dengan pelanggan ekspor eksisting, serta pemenuhan kewajiban dan syarat dalam perjanjian pembiayaan (covenant). Bursa juga meminta perseroan menjelaskan risiko hukum berupa potensi wanprestasi kontrak, dan strategi mitigasi berikut lini masanya.",
+   "Direktur Utama Black Diamond Resources, Donny Janson Manua, menjawab bahwa perseroan akan mematuhi aturan tersebut begitu resmi diberlakukan pemerintah, dan menilai rencana PP itu tidak berdampak signifikan terhadap kelangsungan usaha, operasional, maupun kondisi keuangan perseroan. Namun surat itu juga mengakui bahwa perjanjian jual beli dengan pelanggan yang sudah berjalan pada dasarnya harus diubah menjadi kontrak baru yang menyesuaikan dengan peraturan pemerintah tersebut. Perseroan menyatakan akan terus berkomunikasi dengan pemerintah untuk mendapat informasi lebih rinci. Surat ini disampaikan ke Bursa oleh Corporate Secretary Agianita Julinda pada 15 September 2026."
+  ],
+  "fotoAdegan": "Workers monitoring a conveyor belt loading coal onto a bulk carrier at a busy Kalimantan port, hazy sky, cranes overhead",
+  "takeaway": "Tanggapan ini netral bagi penilaian kinerja Black Diamond, karena perseroan hanya mengklaim rencana aturan ekspor tidak berdampak signifikan tanpa menyertakan angka pendukung, sementara di sisi lain mengakui kontrak jual beli batu bara yang sedang berjalan harus dirombak ulang begitu aturan baru terbit. Yang disinggung dalam surat ini adalah pendapatan dari penjualan ekspor, laba usaha, laba bersih, dan arus kas, yaitu uang tunai yang keluar masuk perusahaan. Pelaku pasar memperhatikan pos-pos ini karena batu bara adalah komoditas ekspor utama perseroan, sehingga perubahan aturan ekspor bisa menggeser volume, harga, atau waktu pembayaran yang diterima perseroan, yang pada akhirnya memengaruhi kemampuannya membayar utang. Yang perlu dipantau berikutnya adalah kapan Peraturan Pemerintah tentang Tata Kelola Ekspor Sumber Daya Alam ini benar-benar diterbitkan, karena surat perseroan sendiri belum menyebut lini masa pasti, dan apakah kontrak jual beli eksisting yang disebut perlu diubah itu akan mengubah nilai kontrak saat dinegosiasikan ulang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pemerintah-tetapkan-26-hari-libur-nasional-dan-cuti-bersama-2027",
   "category": "Ketenagakerjaan",
   "title": "Pemerintah Tetapkan [26] Hari Libur Nasional dan Cuti Bersama 2027",
@@ -112,6 +138,57 @@ var ARTICLES = [
   "imageV": "mu2o30kr"
  },
  {
+  "slug": "lpkr-anak-usaha-beli-piutang-rp8-35-m-dari-ciptadana",
+  "category": "Aksi Korporasi",
+  "title": "LPKR: Anak Usaha Beli [Piutang] Rp8,35 M dari Ciptadana",
+  "deck": "Anak usaha LPKR, PT Asiatic Sejahtera Finance, mengambil alih piutang pembiayaan senilai Rp16,62 miliar dari PT Ciptadana Multifinance seharga Rp8,35 miliar dalam transaksi afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T18:37:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6a218e5892_c968b28b51.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPKR",
+  "tags": [
+   "LPKR",
+   "Transaksi Afiliasi",
+   "Lippo Karawaci",
+   "Ciptadana Multifinance"
+  ],
+  "body": [
+   "PT Lippo Karawaci Tbk (LPKR) melaporkan bahwa anak usahanya, PT Asiatic Sejahtera Finance (ASF), menandatangani perjanjian pengalihan piutang atau cessie dengan PT Ciptadana Multifinance (CMF) pada 11 September 2026. Melalui perjanjian ini, ASF mengambil alih seluruh hak tagih CMF atas portofolio pembiayaan yang tercatat sebesar Rp16,62 miliar per 30 Juni 2026, dengan harga pembelian atau nilai transaksi sebesar Rp8,354 miliar, kurang dari separuh nilai piutangnya.",
+   "Piutang yang dialihkan berasal dari 32 debitur CMF, campuran perorangan dan badan usaha, dengan jenis pembiayaan multiguna, investasi, dan modal kerja. Bunga pembiayaan yang melekat pada piutang ini berkisar 9,8 persen hingga 18 persen per tahun, dengan jatuh tempo bervariasi dari akhir 2026 hingga 2039. Agunan yang mendasarinya beragam, mulai dari kendaraan seperti mobil dan truk hingga properti seperti apartemen dan rumah tinggal.",
+   "Transaksi ini masuk kategori transaksi afiliasi menurut POJK 42/2020 karena ASF dan CMF sama-sama berada di bawah pengendalian James T. Riady, meski bukan transaksi benturan kepentingan. Nilai transaksi Rp8,35 miliar tercatat di bawah 20 persen ekuitas Lippo Karawaci per 30 Juni 2026 yang sebesar Rp31.360,78 miliar, sehingga tidak tergolong transaksi material menurut POJK 17/2020. Kantor Jasa Penilai Publik Kusnanto & Rekan, yang ditunjuk sebagai penilai independen, menghitung nilai pasar piutang tersebut memakai metode diskonto arus kas dan menyimpulkan harga transaksi ini wajar."
+  ],
+  "fotoAdegan": "Rows of financed motorcycles and a small delivery truck parked outside a busy multifinance branch office in an Indonesian city street.",
+  "takeaway": "Transaksi ini condong netral bagi pemegang saham LPKR, sebab nilainya hanya sekitar 0,03 persen dari ekuitas perseroan yang mencapai Rp31,36 triliun, terlalu kecil untuk mengubah gambaran keuangan Lippo Karawaci secara keseluruhan. Yang tersentuh adalah arus kas dan portofolio piutang anak usaha ASF, yakni uang yang nantinya masuk dari cicilan pokok dan bunga 32 debitur baru ini, yang ikut disatukan ke laporan keuangan konsolidasi LPKR meski dampaknya kecil. Karena ASF dan CMF sama-sama dikendalikan James T. Riady, aturan mewajibkan penilai independen mengecek harganya agar tidak merugikan salah satu pihak, dan dalam kasus ini KJPP Kusnanto & Rekan sudah menyatakan harga Rp8,35 miliar untuk piutang senilai Rp16,62 miliar tersebut wajar. Yang perlu dipantau selanjutnya adalah bagaimana ASF merealisasikan penagihan dari para debitur ini pada laporan keuangan semester atau tahunan berikutnya, mengingat sebagian piutang baru jatuh tempo hingga tahun 2039.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lpkr-tarik-20-7-juta-saham-treasuri-batalkan-rencana-jual",
+  "category": "Aksi Korporasi",
+  "title": "LPKR [Tarik] 20,7 Juta Saham Treasuri, Batalkan Rencana Jual",
+  "deck": "RUPSLB LPKR menyetujui penarikan 20.700.600 saham treasuri lewat pengurangan modal, sekaligus membatalkan rencana menjual saham itu di bursa yang diumumkan April 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T18:33:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/77c7924eb2_007c707faf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPKR",
+  "tags": [
+   "LPKR",
+   "saham treasuri",
+   "RUPSLB",
+   "pengurangan modal"
+  ],
+  "body": [
+   "Lippo Karawaci Tbk (LPKR) melaporkan bahwa Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 11 September 2026 menyetujui penarikan kembali 20.700.600 saham treasuri, yaitu saham hasil pembelian kembali oleh perseroan sendiri, melalui pengurangan modal ditempatkan dan disetor. Penarikan ini dilakukan berdasarkan Pasal 47 Undang-Undang Perseroan Terbatas dan mengacu pada aturan Otoritas Jasa Keuangan (OJK) tentang pembelian kembali saham perusahaan terbuka. Laporan ini disampaikan oleh Corporate Secretary Ratih Safitri kepada OJK dan Bursa Efek Indonesia pada 15 September 2026.",
+   "Keputusan ini sekaligus membatalkan rencana lain yang sebelumnya diumumkan LPKR pada 29 April 2026, yaitu menjual saham treasuri tersebut kembali ke pasar melalui Bursa Efek. Dengan keputusan RUPSLB yang baru, perseroan memilih menghapus saham itu secara permanen dari modal disetor, bukan melepasnya lagi ke publik. Perseroan menyatakan langkah ini tidak berdampak negatif terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Aerial view of a large mixed-use property development with residential towers and a shopping mall in Tangerang, midday light",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham LPKR, karena perseroan memilih menghapus permanen 20,7 juta saham treasuri lewat pengurangan modal, bukan melepasnya kembali ke pasar seperti rencana April lalu. Yang tersentuh adalah jumlah saham beredar dan laba per saham, dua ukuran yang jadi acuan investor menghitung nilai kepemilikan mereka: semakin sedikit saham yang beredar, semakin besar porsi laba yang jatuh ke setiap saham yang masih ada, asalkan laba perusahaan tidak berubah. Langkah ini juga menghapus potensi tekanan pasokan saham baru di bursa yang sebelumnya berpotensi menekan harga akibat rencana penjualan saham treasuri. Yang perlu dipantau berikutnya adalah realisasi pengurangan modal ini pada laporan keuangan periode mendatang, termasuk konfirmasi resmi jumlah saham beredar baru LPKR setelah penarikan tersebut dicatat.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pegadaian-kantongi-sertifikasi-iso-untuk-vault-emas",
   "category": "BUMN",
   "title": "Pegadaian Kantongi Sertifikasi [ISO] untuk Vault Emas",
@@ -137,6 +214,139 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah status layanan kustodi emas Pegadaian, yang kini punya sertifikat mutu internasional setelah diaudit pihak independen dan mencakup seluruh proses, dari penerimaan emas sampai pengembaliannya ke pemilik. Pihak yang langsung terkait adalah nasabah yang menitipkan emas di Pegadaian, mulai dari perorangan sampai pelaku industri dan institusi korporasi yang menyimpan emas dalam jumlah besar. Berita ini tidak menyebutkan berapa banyak emas atau berapa nasabah korporasi yang sudah memakai layanan kustodi ini, sehingga belum bisa dipastikan apakah sertifikasi ini bagian dari langkah Pegadaian memperluas bisnis penitipan emas untuk pelaku industri bullion, atau sekadar pembaruan status administratif rutin. Yang perlu dicermati adalah apakah Pegadaian selanjutnya mengumumkan kerja sama atau produk kustodi baru yang memanfaatkan sertifikasi ini sebagai nilai jual ke nasabah korporasi.",
   "imageV": "mu2lv6sm"
+ },
+ {
+  "slug": "vici-komisaris-independen-herbudianto-mundur",
+  "category": "Aksi Korporasi",
+  "title": "VICI: Komisaris Independen Herbudianto [Mundur]",
+  "deck": "Drs. Herbudianto mengundurkan diri dari jabatan Komisaris Independen VICI per 15 September 2026. Perseroan akan menggelar RUPS terkait pengunduran diri ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T18:06:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eaefecdf9a_177e5e2c72.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "komisaris independen",
+   "pengunduran diri",
+   "RUPS"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa pada 15 September 2026 perseroan menerima surat pengunduran diri Drs. Herbudianto dari jabatannya sebagai Komisaris Independen. Laporan ditandatangani oleh Direktur Erwan Irawan Noer dan disampaikan oleh Corporate Secretary Alfonsa Sheila Widyatna.",
+   "Sehubungan dengan pengunduran diri tersebut, perseroan menyatakan akan menyelenggarakan Rapat Umum Pemegang Saham (RUPS) dengan merujuk pada ketentuan peraturan pasar modal yang berlaku. Dokumen belum mencantumkan tanggal pasti penyelenggaraan RUPS tersebut. Perseroan menegaskan tidak ada dampak dari kejadian ini terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha.",
+   "Laporan ini menyusul keterbukaan informasi VICI pada 11 September 2026 yang juga mengumumkan pengunduran diri seorang komisaris dan seorang komisaris independen. Dengan laporan terbaru ini, nama Drs. Herbudianto muncul sebagai pihak yang mengundurkan diri dari kursi Komisaris Independen, sehingga dalam waktu kurang dari sepekan jajaran pengawas VICI mengalami lebih dari satu kali pergantian."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with a long table and leather chairs, floor-to-ceiling windows overlooking a Jakarta office district, soft afternoon light.",
+  "takeaway": "Laporan ini netral bagi VICI, karena pengunduran diri seorang komisaris independen tidak disertai indikasi masalah keuangan, hukum, atau operasional, dan perseroan sendiri menegaskan tidak ada dampak terhadap kelangsungan usaha. Komisaris independen bertugas mengawasi kinerja direksi secara independen dari pemegang saham pengendali, jadi pergantian di posisi ini lebih menyangkut tata kelola perusahaan daripada angka-angka seperti ekuitas atau laba per saham, meski turnover yang terlalu sering bisa menjadi sinyal ketidakstabilan di jajaran pengawas jika berlanjut. Yang perlu dipantau berikutnya adalah RUPS yang akan digelar perseroan untuk menindaklanjuti pengunduran diri ini, termasuk siapa yang akan mengisi kursi kosong tersebut, mengingat dokumen belum mencantumkan tanggal pastinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lckm-diminta-jelaskan-hilangnya-kepemilikan-maju-mekar-19-36",
+  "category": "Aksi Korporasi",
+  "title": "LCKM Diminta Jelaskan Hilangnya [Kepemilikan] Maju Mekar 19,36%",
+  "deck": "Bursa mempertanyakan hilangnya 19,36% saham Maju Mekar tanpa laporan, uang muka proyek mandek, dan konsentrasi pendapatan satu pelanggan; LCKM minta perpanjangan waktu hingga 30 September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:56:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a858d102d_e86c6ef6a5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LCKM",
+  "tags": [
+   "LCKM",
+   "Bursa Efek Indonesia",
+   "suspensi saham",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT LCK Global Kedaton Tbk (LCKM) melalui Direktur Utama Kenny Lim mengajukan permohonan perpanjangan waktu kepada Bursa Efek Indonesia untuk menjawab serangkaian permintaan penjelasan yang dikirim Bursa lewat surat No. S-11112/BEI.PP1/08-2026 tertanggal 31 Agustus 2026. Dalam surat balasan tertanggal 15 September 2026, LCKM meminta tambahan waktu hingga 30 September 2026, dengan alasan Corporate Secretary Christie Kandijoh belum bisa mengakses sistem pelaporan elektronik karena pulang kampung mengurus pemakaman ayahnya, sehingga sejumlah surat dan notifikasi dari OJK dan Bursa belum sempat ditindaklanjuti.",
+   "Salah satu poin yang dipertanyakan Bursa adalah anjloknya kepemilikan PT Maju Mekar, pemegang saham LCKM, dari 19,36 persen pada Laporan Bulanan Registrasi Efek periode 31 Mei 2026 menjadi 5,6 persen, lalu menghilang sama sekali dari daftar pemegang saham di atas 5 persen pada laporan periode 30 Juni 2026. Maju Mekar tercatat tidak pernah melaporkan perubahan kepemilikan itu lewat Laporan Kepemilikan Saham sesuai POJK 4 dan SEOJK 10/2025, sehingga Bursa meminta LCKM menjelaskan kronologi, tanggal transaksi, pihak penerima pengalihan saham, dasar pelepasan, serta posisi kepemilikan Maju Mekar per 31 Juli 2026.",
+   "Bursa juga mempertanyakan kejelasan posisi Corporate Secretary LCKM, menyusul adanya pihak bernama Johannes yang belakangan kerap menghubungi Bursa terkait informasi Perseroan, padahal profil perusahaan masih mencatat Christie Kandijoh sebagai pemegang jabatan tersebut. Bursa meminta LCKM memastikan siapa yang benar-benar menjabat saat ini, dan jika memang terjadi pergantian, LCKM wajib segera menyampaikan Keterbukaan Informasi resmi paling lambat dua hari bursa sejak pergantian terjadi, sesuai Peraturan I-E Nomor III.2.5.",
+   "Bursa turut menyoroti sejumlah kejanggalan dalam laporan keuangan LCKM per 31 Maret 2026. Uang muka proyek jangka pendek tercatat Rp74,65 miliar dan jangka panjang Rp30,35 miliar, bersama-sama setara 72,5 persen dari total aset Rp144,72 miliar, dengan komponen jangka panjang untuk proyek Fiber Optik, SITAC, CME, Industrial Building di Selangor, dan New Elevator Supply di Bali yang sudah berjalan sejak 2024 namun tidak bergerak sama sekali sejak akhir 2025. Piutang usaha senilai Rp31,49 miliar berasal dari PT Cakra Media Indonesia, CV Nara Unggul Prima, dan PT Zareen Global Utama, padahal seluruh pendapatan periode itu sebesar Rp3,29 miliar tercatat hanya berasal dari satu pelanggan bernama PT Zareen Global Prima, nama yang mirip namun berbeda dari salah satu debitur piutang tersebut. Pendapatan itu sepenuhnya menggantikan pelanggan periode sebelumnya, PT YPTT Solutions Indonesia, disertai pergantian total subkontraktor dari Sudjatno dan Reza Sudjatno menjadi M Syarifudin dan Warsono ST, sementara LCKM tercatat hanya memiliki empat karyawan tetap untuk menjalankan proyek-proyek tersebut."
+  ],
+  "fotoAdegan": "Workers laying fiber optic cable along a roadside trench in an Indonesian suburb, overcast afternoon light, safety vests visible",
+  "takeaway": "Laporan ini condong negatif bagi LCKM karena memuat rentetan kejanggalan yang belum terjelaskan, mulai dari hilangnya pemegang saham 19,36 persen tanpa laporan resmi, kesimpangsiuran siapa Corporate Secretary yang sah, sampai jawaban ke Bursa yang molor di tengah saham yang sudah disuspensi sejak 10 September. Yang tersentuh langsung adalah arus kas, yaitu uang tunai riil yang keluar masuk perusahaan: uang muka proyek jangka panjang Rp30,35 miliar mandek lebih dari setahun tanpa terealisasi jadi pendapatan, dan sebagian piutang usaha sudah lewat 180 hari sehingga belum tentu bisa ditagih, keduanya menahan dana yang seharusnya bisa dipakai perusahaan. Konsentrasi pendapatan pada satu pelanggan baru yang menggantikan pelanggan lama, ditambah jumlah karyawan tetap yang cuma empat orang, juga menimbulkan pertanyaan soal kemampuan LCKM menjalankan proyek sebesar itu secara berkelanjutan. Yang perlu dipantau berikutnya adalah tenggat baru yang diminta LCKM sendiri, yaitu jawaban lengkap ke Bursa paling lambat 30 September 2026, serta apakah status suspensi sahamnya akan berlanjut sampai jawaban itu dianggap memadai.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kota-rinci-rencana-akuisisi-rp4-4-triliun-lewat-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Rinci Rencana [Akuisisi] Rp4,4 Triliun Lewat Rights Issue",
+  "deck": "KOTA menjawab permintaan penjelasan bursa soal rights issue senilai gabungan Rp4,4 triliun untuk mengakuisisi dua perusahaan pemilik lahan seluas 571 hektare.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:52:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1d2a7e9cf_70d436a79e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "rights issue",
+   "akuisisi lahan",
+   "IDX"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) menjawab surat permintaan penjelasan dan pengingat dari Bursa Efek Indonesia bernomor S-11882/BEI.PP3/09-2026 tertanggal 10 September 2026, terkait rencana penambahan modal dengan hak memesan efek terlebih dahulu atau rights issue. Dalam surat balasan bertanggal 15 September 2026 yang ditandatangani Direktur Gema Pratama, perseroan menyatakan rasio dan harga pelaksanaan rights issue masih dalam proses finalisasi dan baru akan diumumkan lewat prospektus. Yang sudah dipastikan adalah tujuan dana rights issue, yaitu sebagian akan dipakai untuk mengambil alih dua perusahaan pemilik lahan, PT Art Design Indonesia (ADI) di Surabaya dan PT Mandirinusa Grahaperkasa (MGP) di Maja, Banten, dengan total luas lahan sekitar 571 hektare. Perseroan memastikan rencana ini tidak akan mengubah pihak pengendali KOTA.",
+   "Untuk ADI, KOTA akan membeli 1.206.272 saham atau 99,99 persen kepemilikan dari PT Michel Energi dengan nilai transaksi Rp1,2 triliun. Namun pemegang saham ADI saat ini sebenarnya adalah PT Tunas Pelopor Bangsa yang memegang 9.999 saham atau 99,99 persen, dan baru menandatangani perjanjian pengikatan jual beli dengan Michel Energi pada 11 Mei 2026, dengan pengalihan saham ke Michel Energi ditargetkan rampung selambat-lambatnya 28 September 2026 sebelum diteruskan ke KOTA. Pemegang saham ADI lainnya, Franciscus Wongso, yang memegang 1 saham senilai Rp1 juta, mengesampingkan haknya untuk membeli lebih dulu saham tersebut. KOTA juga mengungkapkan aset tidak lancar ADI melonjak dari Rp285,29 miliar pada akhir 2025 menjadi Rp1,19 triliun pada Juni 2026, yang menurut perseroan berasal dari penyelesaian piutang cessie, yakni pelunasan tagihan lewat penyerahan aset, sebelum akhir Juni 2026.",
+   "Untuk MGP, nilai transaksi pembelian 6.413.296 saham atau 99,99 persen dari Michel Energi mencapai Rp3,2 triliun. Pemegang saham MGP saat ini adalah PT Persaudaraan Bersatu Esa dengan 4.950 saham atau 99 persen, yang menandatangani perjanjian dengan Michel Energi pada 7 Mei 2026 dan juga menargetkan pengalihan rampung paling lambat 28 September 2026. Pemegang saham lain, Charlie Salim, yang memegang 50 saham senilai Rp25 juta, turut mengesampingkan hak untuk membeli lebih dulu. Aset tidak lancar MGP naik dari Rp2 triliun pada akhir 2025 menjadi Rp3,5 triliun pada Juni 2026, yang menurut KOTA berasal dari kenaikan nilai persediaan tanah dalam pengembangan terkait utang kepada Michel Energi senilai Rp1,43 triliun, ditambah kapitalisasi biaya konstruksi, pembukaan lahan, perencanaan kawasan, dan pekerjaan kelistrikan dengan empat kontraktor, yaitu PT Kemilau Tri Perkasa, PT Sempurna Madya Sahaja, PT Jaringan Teknologi Integrasi, dan PT Arun Solusi Energi Indonesia.",
+   "KOTA menegaskan tidak memiliki hubungan afiliasi dengan Michel Energi, tetapi juga mengaku tidak memiliki informasi mengenai siapa pemilik manfaat Michel Energi tersebut. Perseroan menyebutkan laporan keuangan yang akan dipakai sebagai basis rights issue adalah laporan keuangan auditan per 30 Juni 2026, tanpa merinci lebih lanjut struktur permodalan setelah aksi korporasi ini."
+  ],
+  "fotoAdegan": "Surveyors in vests studying an open plot of undeveloped land marked with wooden stakes, tropical trees at the horizon, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham KOTA, sebab rencana penambahan modal senilai gabungan lebih dari Rp4,4 triliun untuk membeli dua perusahaan pemilik lahan ini masih belum punya rasio dan harga pasti, padahal bursa sudah meminta kepastian lewat surat pengingat. Yang perlu diperhatikan pemegang saham adalah jumlah saham beredar, karena begitu rasio dan harga rights issue diumumkan, KOTA akan menerbitkan saham baru dan pemegang saham lama yang tidak ikut membeli akan melihat persentase kepemilikannya mengecil. Poin lain yang patut dicermati adalah nilai aset ADI dan MGP yang melonjak drastis dalam enam bulan terakhir lewat penyelesaian utang dan kapitalisasi biaya proyek, sementara penjual aslinya sama-sama baru mengalihkan saham lewat Michel Energi tidak lama sebelum dijual ke KOTA, sehingga dasar penilaian lahannya sulit diperiksa dari luar. Yang perlu dipantau berikutnya adalah penerbitan prospektus rights issue yang memuat rasio dan harga final, serta tenggat 28 September 2026 saat pengalihan saham ADI dan MGP dari pemilik awal ke Michel Energi harus rampung sebelum diteruskan ke KOTA.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "agro-panggil-rupslb-bahas-pergantian-direksi-dan-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "AGRO Panggil RUPSLB, Bahas [Pergantian] Direksi dan Anggaran Dasar",
+  "deck": "Bank Raya Indonesia (AGRO) mengundang pemegang saham ke RUPSLB 7 Oktober 2026 untuk membahas perubahan anggaran dasar dan pergantian direksi-komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:41:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e5dc23dca_9bf17dfd0c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGRO",
+  "tags": [
+   "AGRO",
+   "RUPSLB",
+   "Bank Raya Indonesia",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Bank Raya Indonesia Tbk (AGRO) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 7 Oktober 2026, pukul 14.00 WIB, di Menara BRILiaN Lantai 19, Jalan Gatot Subroto No. 177A, Jakarta Selatan. Rapat berlangsung hibrida, yaitu secara elektronik lewat sistem eASY.KSEI milik KSEI maupun secara fisik dengan kapasitas ruangan terbatas berdasarkan prinsip siapa mendaftar lebih dulu yang diutamakan. Pemegang saham yang berhak hadir dan memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per 14 September 2026.",
+   "Agenda pertama rapat adalah persetujuan perubahan anggaran dasar perseroan. Perseroan menyebut perubahan ini diperlukan untuk menyesuaikan dan menyelaraskan sejumlah ketentuan, termasuk batas kewenangan pengambilan keputusan manajemen, dengan kebutuhan perusahaan dan peraturan yang berlaku, tanpa merinci pasal mana saja yang akan diubah.",
+   "Agenda kedua adalah perubahan susunan direksi dan dewan komisaris. Perseroan merujuk pada keterbukaan informasi yang sudah disampaikan ke Otoritas Jasa Keuangan pada 14 Juli 2026, serta ketentuan POJK No. 33/POJK.04/2014 dan anggaran dasar Pasal 11 ayat 17 huruf b yang mewajibkan perseroan menggelar RUPS paling lambat 90 hari sejak menerima surat pengunduran diri anggota direksi atau dewan komisaris. Dokumen pemanggilan ini tidak menyebutkan nama pengurus yang mengundurkan diri maupun calon penggantinya.",
+   "Bagi pemegang saham yang ingin memberi kuasa elektronik lewat eASY.KSEI, batas waktunya Selasa, 6 Oktober 2026 pukul 12.00 WIB. Bagi yang memberi kuasa fisik kepada Independent Representative, surat kuasa harus diserahkan ke Biro Administrasi Efek, PT Datindo Entrycom di Jalan Hayam Wuruk No. 28 Jakarta, paling lambat pada hari yang sama pukul 16.15 WIB. Perseroan meminta pemegang saham hadir 30 menit sebelum rapat dimulai dan menegaskan tidak menyediakan makanan, minuman, atau suvenir selama rapat berlangsung."
+  ],
+  "fotoAdegan": "Empty formal meeting hall with rows of chairs facing a podium inside a modern Jakarta office tower, soft morning light",
+  "takeaway": "Laporan ini netral bagi Bank Raya karena sifatnya administratif, menindaklanjuti pengunduran diri pengurus yang sudah diumumkan sejak 14 Juli 2026 dan tidak membawa angka baru soal kinerja keuangan. Yang tersentuh adalah tata kelola perusahaan, yakni susunan direksi dan komisaris serta batas kewenangan yang diatur ulang dalam anggaran dasar, dan pelaku pasar memperhatikan ini karena pergantian pengurus bisa mengubah arah strategi bank sementara batas kewenangan menentukan seberapa besar keputusan yang bisa diambil manajemen tanpa persetujuan RUPS. Yang perlu dipantau berikutnya adalah jalannya RUPSLB pada 7 Oktober 2026, termasuk siapa yang akan mengisi jajaran direksi dan komisaris baru serta rincian perubahan anggaran dasar yang disetujui, dengan tenggat pemberian kuasa elektronik pada 6 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kpig-jawab-bei-akui-tak-ada-informasi-material-di-balik-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "KPIG Jawab BEI, Akui Tak Ada [Informasi Material] di Balik Volatilitas",
+  "deck": "MNC Tourism Indonesia Tbk menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak mengetahui informasi material apa pun yang mendasarinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T17:33:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4cc4be0df_5fe4185308.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KPIG",
+  "tags": [
+   "KPIG",
+   "MNC Tourism Indonesia",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "body": [
+   "MNC Tourism Indonesia Tbk (KPIG) mengirimkan surat penjelasan bernomor 059/CS/MNCTOURISM/IX/2026 tertanggal 15 September 2026 kepada Bursa Efek Indonesia, sebagai jawaban atas surat BEI nomor S-11910/BEI.PP2/09-2026 yang meminta perseroan menjelaskan volatilitas transaksi efeknya. Surat itu ditandatangani secara elektronik oleh jajaran Direksi KPIG.",
+   "Dalam jawabannya, KPIG menyatakan sampai dengan tanggal surat dibuat, perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut POJK Nomor 31/2015 tentang Keterbukaan Informasi maupun Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4/2024 tentang laporan kepemilikan saham, serta belum memiliki rencana tindakan korporasi apa pun dalam tiga bulan mendatang yang dapat berdampak pada pencatatan sahamnya di bursa.",
+   "KPIG menambahkan bahwa tidak ada informasi atau kejadian penting lain yang bersifat material dan belum diungkapkan ke publik. Perseroan juga menegaskan telah meminta konfirmasi kepada pemegang saham utama, dan berdasarkan konfirmasi tersebut, pemegang saham utama belum memiliki rencana untuk mengubah kepemilikan sahamnya di KPIG."
+  ],
+  "fotoAdegan": "Traders and staff watching several blurred stock ticker screens from a distance inside a busy Jakarta brokerage floor",
+  "takeaway": "Laporan ini netral bagi KPIG karena isinya hanya penegasan bahwa perseroan tidak mengetahui informasi material apa pun di balik pergerakan harga sahamnya, tanpa ada angka transaksi, rencana korporasi, atau perubahan kepemilikan yang benar-benar diungkapkan. Permintaan penjelasan semacam ini biasanya dipicu lonjakan harga atau volume transaksi yang dianggap tidak wajar oleh bursa, sehingga yang sebenarnya tersentuh bukan pos laporan keuangan seperti ekuitas atau laba per saham, melainkan kepercayaan pasar atas kewajaran perdagangan saham KPIG. Yang perlu dipantau selanjutnya adalah apakah volatilitas harga saham KPIG mereda setelah klarifikasi ini, karena jika masih tinggi, BEI berwenang meminta penjelasan ulang atau bahkan menghentikan sementara perdagangan sahamnya. Pemegang saham utama KPIG juga sudah dikonfirmasi belum berencana mengubah kepemilikannya, sehingga struktur pengendalian perusahaan untuk saat ini belum berubah.",
+  "sentimen": "netral"
  },
  {
   "slug": "ptpn-gandeng-kuab-kembangkan-kedelai-nasional",
@@ -556,6 +766,59 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "truk-masuk-papan-pemantauan-khusus-bei-mulai-16-september",
+  "category": "Aksi Korporasi",
+  "title": "TRUK Masuk Papan [Pemantauan Khusus] BEI Mulai 16 September",
+  "deck": "Bursa Efek Indonesia menempatkan saham TRUK (PT Guna Timur Raya Tbk) ke papan pemantauan khusus efektif 16 September 2026 akibat riwayat penghentian sementara perdagangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T16:27:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5e2390da31_a8aa15fd15.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "TRUK",
+   "pemantauan khusus",
+   "BEI",
+   "watchlist"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan pada 15 September 2026 bahwa saham PT Guna Timur Raya Tbk (TRUK), yang tercatat di Papan Pengembangan, masuk ke dalam daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus. Status ini efektif mulai 16 September 2026, sesuai pengumuman bernomor Peng-PK-00067/BEI.PLP/09-2026 yang diteken Kukuh Wicaksono selaku PH Kepala Divisi PLP BEI.",
+   "Bursa mencantumkan kode kriteria nomor 10 dari 11 kriteria yang dipakai untuk menetapkan efek masuk pemantauan khusus. Kriteria itu menyebutkan bahwa saham bersangkutan pernah dikenakan penghentian sementara perdagangan selama lebih dari satu hari bursa yang disebabkan oleh aktivitas perdagangan saham itu sendiri, bukan oleh faktor lain seperti opini disclaimer dari auditor, ekuitas negatif, atau permohonan pailit yang juga menjadi bagian dari daftar kriteria bursa.",
+   "Keterangan pada pengumuman ini mencantumkan status TRUK sebagai 'Masuk / Enter', yang berarti saham tersebut baru ditambahkan ke papan pemantauan khusus, bukan sedang keluar dari daftar itu. Bursa menyebut pengumuman lengkap dapat dilihat di kanal resmi IDX dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus."
+  ],
+  "fotoAdegan": "Rows of freight trucks parked at a logistics depot in Indonesia, drivers checking cargo straps under overcast afternoon light.",
+  "takeaway": "Masuk papan pemantauan khusus ini condong negatif bagi TRUK, karena pemicunya adalah riwayat penghentian sementara perdagangan sahamnya sendiri, bukan sekadar urusan administratif. Yang tersentuh di sini bukan pos laporan keuangan seperti ekuitas atau laba per saham, melainkan status pengawasan bursa atas saham tersebut, semacam daftar waspada yang membuat investor perlu lebih berhati-hati karena riwayat perdagangannya dianggap berisiko oleh bursa. Status ini efektif mulai 16 September 2026, dan yang perlu dipantau selanjutnya adalah pengumuman BEI berikutnya soal apakah TRUK tetap berada di papan pemantauan khusus atau bisa keluar setelah kondisi yang memicunya membaik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "akku-jadwalkan-public-expose-insidentil-usai-rugi-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Jadwalkan [Public Expose] Insidentil usai Rugi Melonjak",
+  "deck": "AKKU akan menggelar paparan publik insidentil pada 18 September 2026 menjelaskan opini audit, seiring rugi semester I 2026 melonjak ke Rp2,55 miliar dan ekuitas terus menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T16:11:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2026bb9b41_43b4fcd064.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKKU",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "public expose",
+   "opini audit"
+  ],
+  "body": [
+   "PT Anugerah Kagum Karya Utama Tbk (AKKU) dijadwalkan menggelar Public Expose Insidentil pada 18 September 2026, menyusul surat pemberitahuan rencana paparan publik yang disampaikan perseroan pada 4 September 2026. Agenda mencakup pemaparan profil perseroan, informasi keuangan, penjelasan atas opini auditor, serta sesi tanya jawab dengan investor.",
+   "Paparan publik ini digelar di tengah status suspensi perdagangan saham AKKU yang berlaku sejak 1 April 2026, berdasarkan pengumuman Bursa Efek Indonesia No. Peng-SPT-00002/BEI.PP1/04-2026. Suspensi dijatuhkan karena laporan keuangan perseroan mendapat opini Tidak Menyatakan Pendapat (disclaimer) dua tahun berturut-turut, untuk tahun buku 2024 dan 2025, sesuai ketentuan III.1.1 Peraturan Bursa No. I-L. Auditor dari Kantor Akuntan Publik Ruslim & Ruslim menyatakan tidak memperoleh cukup bukti atas sejumlah pos, di antaranya kas dan setara kas, piutang usaha, piutang lain-lain, persediaan, uang muka, aset tetap, utang usaha, utang bank, beban usaha, hingga pendapatan dan beban lain-lain.",
+   "Materi paparan juga memuat laporan keuangan per 30 Juni 2026. Total aset perseroan tercatat Rp694,63 miliar, turun tipis dari Rp695,10 miliar pada akhir 2025, sementara total liabilitas naik dari Rp301,26 miliar menjadi Rp304,16 miliar. Akibatnya, ekuitas perseroan menyusut dari Rp393,84 miliar menjadi Rp390,47 miliar dalam enam bulan. Pendapatan jasa manajemen naik dari Rp3,57 miliar menjadi Rp3,76 miliar dan beban usaha turun dari Rp4,37 miliar menjadi Rp4,04 miliar, namun beban lain-lain melonjak dari Rp78 juta menjadi Rp2,27 miliar sehingga rugi periode berjalan membengkak dari Rp707 juta pada semester I 2025 menjadi Rp2,55 miliar pada semester I 2026. Akumulasi kerugian perseroan hingga 30 Juni 2026 mencapai Rp304,41 miliar.",
+   "Untuk laporan keuangan periode 30 Juni 2026, Kantor Akuntan Publik Irfan Waluyo & Rekan memberikan opini Wajar Dengan Pengecualian, membaik dibanding opini disclaimer tahun sebelumnya. Auditor tetap mengecualikan akun piutang non-usaha dan uang muka karena kurangnya bukti yang memadai untuk penyesuaian, dan menyebut kerugian serta akumulasi rugi tersebut menimbulkan ketidakpastian atas kemampuan grup melangsungkan usahanya. Susunan pengurus perseroan terdiri dari Dharmithea Kiemas Hamidy sebagai Presiden Komisaris, Wilhelmina sebagai Komisaris Independen, Irwan Suryadi sebagai Presiden Direktur, dan Heni Supartini sebagai Direktur. Pemegang saham utama adalah PT Renaldijaya Ekainti dengan 1.036.756.100 saham, PT Bintang Bersinar Cemerlang 721.187.100 saham, PT Gema Busana Raya 394.611.900 saham, PT Korek Api Guna Mandiri 358.795.300 saham, dan masyarakat 3.938.113.236 saham, dari total 6.449.463.636 saham beredar."
+  ],
+  "fotoAdegan": "Empty mid-size hotel lobby with polished floors and armchairs, a housekeeping cart parked near a hallway, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi AKKU, sebab meski opini auditor membaik dari disclaimer menjadi Wajar Dengan Pengecualian, kerugian periode berjalan melonjak lebih dari tiga kali lipat dan ekuitas terus menyusut sementara sahamnya masih disuspensi Bursa. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang mencerminkan kekayaan bersih pemegang saham, yang turun dari Rp393,84 miliar menjadi Rp390,47 miliar dalam enam bulan, sementara pos beban lain-lain melonjak dari Rp78 juta menjadi Rp2,27 miliar dan menjadi penyebab utama pembengkakan rugi meski pendapatan naik dan beban usaha justru membaik. Pelaku pasar biasanya mencermati ekuitas karena angka ini jadi bantalan terakhir bagi pemegang saham jika perusahaan harus melunasi seluruh utangnya. Yang perlu dipantau adalah paparan publik insidentil pada 18 September 2026, saat manajemen akan menjelaskan langsung opini auditor dan kondisi keuangan kepada investor, sebelum Bursa menentukan kelanjutan status suspensi saham AKKU.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "menaker-ai-di-tempat-kerja-harus-naikkan-produktivitas",
   "category": "Ketenagakerjaan",
   "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",
@@ -581,6 +844,136 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru yang mengikat, melainkan kerangka empat prinsip dan proyek percontohan yang disiapkan Kemnaker untuk penerapan AI di tempat kerja, ditambah panduan resmi yang masih disusun. Pihak yang langsung terdampak adalah perusahaan yang sedang atau berencana memakai AI, serta pekerja, terutama pekerja senior yang menurut Kemnaker perlu pelatihan ulang keterampilan agar tidak tertinggal. Arah yang terlihat sejauh ini masih berupa imbauan dan pendekatan partisipatif yang melibatkan serikat pekerja, bukan kewajiban hukum, sehingga perusahaan untuk saat ini belum terikat mengikuti empat prinsip tersebut. Yang akan menentukan apakah ini tetap sebatas panduan atau berkembang jadi aturan mengikat adalah isi panduan resmi yang dijanjikan Kemnaker, termasuk apakah nantinya dituangkan dalam peraturan menteri."
+ },
+ {
+  "slug": "sraj-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
+  "deck": "Sejahteraraya Anugrahjaya menjawab surat BEI soal lonjakan transaksi sahamnya, menyebut peluncuran klinik gigi baru dan kerja sama bedah robotik sebagai pemicu sentimen pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T16:08:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/53a0c23661_4ae1888b9d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRAJ",
+  "tags": [
+   "SRAJ",
+   "Bursa Efek Indonesia",
+   "Mayapada Hospital",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Sejahteraraya Anugrahjaya Tbk (SRAJ) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menanggapi surat BEI Nomor S-11937/BEI.PP2/09-2026 tanggal 14 September 2026 pukul 16.22 WIB, yang meminta klarifikasi atas volatilitas transaksi efek perseroan. Dalam surat balasan bernomor 002/PT-SRAJ/IX/2026 yang diteken Corporate Secretary Arie Farisandi pada 15 September 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan sesuai POJK Nomor 31/POJK.04/2015 maupun Peraturan I-E BEI, dan menegaskan tidak ada rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada status pencatatan sahamnya di bursa.",
+   "Meski begitu, perseroan mengakui adanya rangkaian pemberitaan positif belakangan ini seputar perkembangan bisnisnya. Perseroan menyebut peluncuran layanan kesehatan gigi berstandar rumah sakit bernama Mayapada Dental Care pada akhir Agustus 2026, yang terintegrasi dengan Mayapada Hospital Jakarta Timur, rumah sakit kedelapan milik grup ini yang berlokasi di Jakarta Garden City, Cakung. Perseroan juga menyebut program alih pengetahuan dan pendampingan klinis bersama mitra strategis Apollo Hospitals India untuk penanganan kasus urologi dengan bantuan sistem bedah robotik da Vinci Xi yang beroperasi di Mayapada Hospital Jakarta Selatan.",
+   "Soal pergerakan kepemilikan saham, perseroan menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dengan informasi kepemilikan terakhir yang dilaporkan ke BEI dan OJK pada 7 September 2026 melalui surat nomor 001/PT-SRAJ/IX/2026. Perseroan juga menyampaikan telah mengonfirmasi langsung kepada pemegang saham utama, yang menyatakan tidak memiliki rencana mengubah kepemilikan sahamnya di perseroan saat ini. Perseroan menyimpulkan bahwa kenaikan aktivitas dan frekuensi transaksi saham merupakan dampak dari pasar yang merespons positif kondisi usaha terkininya."
+  ],
+  "fotoAdegan": "Surgical team preparing a robotic-assisted surgery arm in a sterile hospital operating room, Jakarta, soft morning light",
+  "takeaway": "Penjelasan ini condong netral bagi fundamental SRAJ, karena isinya defensif dan tidak membawa angka keuangan baru, sekadar mengonfirmasi ulang kabar ekspansi layanan yang sudah beredar di publik serta menegaskan pemegang saham utama tidak berencana mengubah kepemilikannya. Pos yang relevan untuk dicermati adalah kontribusi pendapatan dari unit bisnis baru, rumah sakit kedelapan dan klinik gigi yang baru diluncurkan belum disertai angka pendapatan atau biaya investasi dalam surat ini, sementara kepastian bahwa pemegang saham utama tidak melepas sahamnya berarti tidak ada risiko perubahan hak suara dalam waktu dekat. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal III 2026 untuk melihat apakah ekspansi layanan kesehatan gigi dan kerja sama bedah robotik ini benar-benar menambah pendapatan perseroan, serta apakah BEI akan kembali meminta penjelasan jika volatilitas transaksi saham berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "life-jelaskan-ke-bursa-aset-turun-laba-melonjak-68",
+  "category": "Aksi Korporasi",
+  "title": "LIFE Jelaskan ke Bursa: Aset Turun, [Laba] Melonjak 68%",
+  "deck": "MSIG Life menjelaskan ke otoritas bursa bahwa aset dan ekuitasnya tergerus nilai pasar investasi dan dividen, sementara laba bersih naik 68,61 persen pada semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T16:08:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8043a0fab6_31df62cd5a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LIFE",
+  "tags": [
+   "LIFE",
+   "asuransi",
+   "keterbukaan informasi",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT MSIG Life Insurance Indonesia Tbk (LIFE) menyampaikan tanggapan resmi atas surat permintaan penjelasan Bursa Efek Indonesia bernomor S-11897/BEI.PP3/09-2026 tanggal 11 September 2026, yang meminta perseroan menjelaskan pergerakan pos-pos keuangannya per 30 Juni 2026 melalui Form E023. Surat tanggapan bernomor 060/MSL-CSEC/IX/2026 ini ditandatangani Wakil Presiden Direktur Tomoyuki Monden pada 14 September 2026 dan disampaikan ke bursa oleh Corporate Secretary Leony Samosir keesokan harinya.",
+   "Perseroan menjelaskan aset per 30 Juni 2026 turun 4,84 persen atau Rp768,06 miliar dibanding akhir 2025, dipicu penurunan nilai wajar portofolio investasi akibat pelemahan pasar efek ekuitas dan efek utang, ditambah pembayaran dividen Rp201,6 miliar. Liabilitas ikut turun 5,71 persen atau Rp409,61 miliar sebagai penyesuaian atas turunnya nilai aset investasi tersebut. Ekuitas turun 3,73 persen atau Rp317,31 miliar, disebabkan pembayaran dividen Rp201 miliar sepanjang 2026 dan penurunan nilai wajar efek utang yang tercatat di pendapatan komprehensif lain.",
+   "Di sisi lain, pendapatan perseroan untuk semester I 2026 naik 8,79 persen atau Rp82,77 miliar dibanding periode sama tahun sebelumnya, didorong pengembangan portofolio dan peningkatan profitabilitas lini asuransi kesehatan. Laba bersih melonjak lebih tajam, naik 68,61 persen atau Rp73,49 miliar, yang menurut perseroan didorong oleh kenaikan pendapatan tersebut. LIFE menyatakan tidak ada informasi material lain yang perlu diungkapkan dalam tanggapan ini."
+  ],
+  "fotoAdegan": "An insurance office employee arranging client policy folders on a shelf inside a modern Jakarta high-rise, soft daylight",
+  "takeaway": "Penjelasan ini bersifat netral bagi fundamental LIFE, karena penurunan aset dan ekuitas ternyata bersumber dari faktor pasar dan pembagian dividen, bukan pelemahan bisnis inti, sementara laba bersih justru melonjak tajam. Pos yang tersentuh adalah ekuitas, yaitu modal bersih perusahaan setelah dikurangi kewajiban, yang tergerus karena nilai pasar surat utang yang dipegang perseroan ikut turun dan pelaku pasar memantau pos ini sebab ekuitas yang menyusut bisa membatasi ruang modal perusahaan asuransi untuk menopang polis yang sudah dijualnya. Di sisi lain kenaikan laba 68,61 persen menunjukkan bisnis asuransi kesehatan perseroan tetap tumbuh sehat di tengah tekanan pasar surat berharga. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, untuk melihat apakah nilai portofolio investasi mulai pulih atau penurunan aset dan ekuitas ini masih berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ppro-umumkan-rencana-rupslb-pada-22-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "PPRO Umumkan Rencana [RUPSLB] pada 22 Oktober 2026",
+  "deck": "PT PP Properti Tbk menjadwalkan RUPSLB pada 22 Oktober 2026, dengan tanggal pencatatan pemegang saham 29 September dan batas usul agenda 22 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T15:47:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0984ad025_5b66fe2a8b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRO",
+  "tags": [
+   "PPRO",
+   "RUPSLB",
+   "PP Properti",
+   "pasar modal"
+  ],
+  "body": [
+   "PT PP Properti Tbk (PPRO) akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 22 Oktober 2026 pukul 14.00 WIB di Plaza PP, Auditorium Wisma Subiyanto, Jalan Letjen TB Simatupang No 57, Jakarta. Pemberitahuan ini disampaikan VP Corporate Secretary PPRO, Dyah Novian Tri Hadini, melalui surat No 489/EXT/DIR/PPRO/2026 tertanggal 15 September 2026, merujuk pada surat sebelumnya No 478/EXT/DIR/PPRO/2026. Dokumen ini baru berupa pemberitahuan rencana rapat, agenda resmi RUPSLB belum diungkapkan.",
+   "Perseroan menetapkan bahwa pemegang saham yang berhak hadir dan memberikan suara dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada Selasa, 29 September 2026 hingga pukul 16.15 WIB, atau pemegang sub rekening efek di PT Kustodian Sentral Efek Indonesia pada penutupan perdagangan saham PPRO di Bursa Efek Indonesia pada tanggal yang sama. Panggilan resmi RUPSLB yang memuat mata acara rapat dijadwalkan diumumkan melalui situs web Perseroan, BEI, dan KSEI pada Rabu, 30 September 2026.",
+   "Perseroan juga membuka kesempatan bagi pemegang saham yang memiliki sedikitnya 1/20 atau setara 5 persen dari seluruh saham yang diterbitkan untuk mengusulkan mata acara rapat secara tertulis kepada Direksi, paling lambat Selasa, 22 September 2026, yaitu tujuh hari sebelum panggilan resmi dikeluarkan. Usulan tersebut disyaratkan diajukan dengan itikad baik, mempertimbangkan kepentingan Perseroan, disertai alasan dan bahan pendukung, serta tidak bertentangan dengan peraturan perundang-undangan yang berlaku."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a high-rise apartment tower site in Jakarta, cranes overhead, clear daytime sky",
+  "takeaway": "Laporan ini netral bagi PPRO karena isinya hanya menetapkan jadwal dan mekanisme RUPSLB, tanpa mengungkap agenda atau keputusan yang akan diambil. Belum ada pos kinerja seperti ekuitas, jumlah saham beredar, atau laba per saham yang bisa dinilai dari dokumen ini, karena substansi rapat baru akan terungkap dalam panggilan resmi yang memuat mata acara. Investor perlu mencermati panggilan RUPSLB yang dijadwalkan terbit 30 September 2026, sebab di situlah agenda sesungguhnya, yang bisa saja menyangkut aksi korporasi berdampak pada permodalan, baru akan diumumkan. Pemegang saham dengan kepemilikan minimal 5 persen juga masih punya waktu hingga 22 September 2026 untuk mengusulkan agenda tambahan, sehingga isi RUPSLB masih bisa berubah sebelum panggilan resmi keluar. Titik penentu berikutnya adalah pelaksanaan RUPSLB itu sendiri pada 22 Oktober 2026, saat pemegang saham memutuskan agenda yang telah diumumkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbtn-catat-pertumbuhan-kredit-11-2-lampaui-target-tahunan",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Catat Pertumbuhan Kredit 11,2%, [Lampaui] Target Tahunan",
+  "deck": "Public expose tahunan BBTN mengungkap kredit tumbuh 11,2 persen hingga Juni 2026, dividend payout ratio target tetap 20 persen, dan BSN jadi bank syariah terbesar kedua di Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T15:33:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bde1859dcc_f31f9fee07.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBTN",
+  "tags": [
+   "BBTN",
+   "Bank Tabungan Negara",
+   "kredit perbankan",
+   "BSN"
+  ],
+  "body": [
+   "PT Bank Tabungan Negara (Persero) Tbk menggelar Public Expose Tahunan 2026 secara virtual pada Kamis, 10 September 2026 pukul 09.05 sampai 09.45 WIB, dalam rangkaian Public Expose Live yang diselenggarakan Bursa Efek Indonesia. Acara dihadiri 189 peserta dari investor ritel dan institusi, dilanjutkan sesi konferensi pers yang diikuti 19 media. Paparan kinerja keuangan per 30 Juni 2026 dan inisiatif strategis 2026 disampaikan oleh Direktur Utama Nixon L.P. Napitupulu bersama Direktur Treasury & International Banking Venda Yuniarti.",
+   "Dalam sesi tanya jawab, manajemen menyebut target dividend payout ratio tahun depan masih mengacu Rencana Bisnis Bank sebesar 20 persen, namun angka pastinya baru akan ditentukan sesuai aspirasi pemegang saham di Rapat Umum Pemegang Saham. BTN juga menegaskan tidak berencana membagikan dividen interim, mengikuti pola lima tahun terakhir yang juga tanpa dividen interim. Soal kredit, manajemen mengonfirmasi pertumbuhan kredit sudah mencapai 11,2 persen secara tahunan per Juni 2026, melampaui target awal 8-10 persen, tetapi tidak berencana merevisi target karena kenaikan itu banyak disumbang akuisisi portofolio Kredit Pensiunan dari PT Bank SMBC Indonesia Tbk. BTN menyatakan akan lebih selektif menyalurkan kredit di beberapa segmen, termasuk KPR untuk masyarakat berpenghasilan rendah yang pertumbuhannya melambat.",
+   "Terkait unit usaha syariah yang telah dipisah menjadi PT Bank Syariah Nasional (BSN), manajemen menyebut kinerja laba, biaya dana, dan kredit bermasalah BSN tetap baik pasca spin-off. BSN disebut sudah menjalin kerja sama dengan Muhammadiyah dan Nahdlatul Ulama, dan dalam waktu satu tahun sejak berpisah dari BTN sudah menjadi bank syariah terbesar kedua di Indonesia. Manajemen memperkirakan rasio BOPO dan cost-to-income BSN akan terus turun seiring skala bisnis syariah membesar."
+  ],
+  "fotoAdegan": "Rows of newly built subsidized houses under construction in an Indonesian suburb, workers on scaffolding, morning light.",
+  "takeaway": "Laporan ini condong positif bagi BTN, sebab pertumbuhan kredit sampai Juni 2026 sudah 11,2 persen dibanding setahun sebelumnya, melampaui target tahunan yang cuma dipasang di kisaran 8-10 persen, dan anak usaha syariahnya, BSN, sudah jadi bank syariah terbesar kedua di Indonesia hanya dalam setahun sejak pisah dari BTN. Yang tersentuh di sini adalah pendapatan dari penyaluran kredit, karena kredit yang tumbuh lebih cepat dari target biasanya berarti lebih banyak bunga yang masuk, meski manajemen bilang pertumbuhan itu banyak disumbang akuisisi portofolio Kredit Pensiunan dari Bank SMBC Indonesia, bukan cuma organik. BOPO dan cost-to-income ratio BSN, yaitu ukuran seberapa besar biaya operasional dibanding pendapatan bank, juga disebut membaik pelan-pelan dan diharapkan terus turun seiring skala bisnis syariah membesar. Yang perlu dipantau berikutnya adalah keputusan dividend payout ratio tahun depan yang baru akan diputuskan di Rapat Umum Pemegang Saham mendatang, serta efektifnya pengangkatan Adityo Kusumo sebagai Direktur Finance & Strategy yang masih menunggu persetujuan uji kemampuan dan kepatutan dari OJK.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "public-expose-ggrm-volume-rokok-anjlok-13-6-di-h1-2026-volume",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose GGRM: Volume Rokok Anjlok 13,6% di H1 2026 [Volume]",
+  "deck": "Public expose GGRM ungkap volume rokok turun 13,6 persen di semester I 2026 akibat persaingan rokok ilegal, sementara dividen Rp800 per saham dipertahankan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T15:21:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/551a811872_ebdff2cb1a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GGRM",
+  "tags": [
+   "GGRM",
+   "Gudang Garam",
+   "Public Expose",
+   "Rokok Ilegal"
+  ],
+  "body": [
+   "PT Gudang Garam Tbk (GGRM) menggelar public expose tahunan pada Kamis, 10 September 2026, yang diwakili Heru Budiman selaku Direktur sekaligus Corporate Secretary dan Istata Siddharta selaku Direktur, dengan 103 peserta di luar manajemen dan karyawan perseroan. Dalam sesi tanya jawab, manajemen mengungkap volume penjualan rokok turun dari 23,7 miliar batang pada semester I 2025 menjadi 20,5 miliar batang pada semester I 2026, atau turun 13,6 persen. Penurunan ini lebih dalam dibanding penurunan volume rokok nasional yang tercatat 7 persen secara tahunan, sementara segmen sigaret kretek mesin (SKM) mencatat penurunan rata-rata 5 persen per tahun selama lima tahun terakhir.",
+   "Manajemen menjelaskan, sebagai produsen Golongan 1 dengan tarif cukai tertinggi, GGRM menghadapi perpindahan konsumen (downtrading) ke rokok Golongan 2 atau rokok ilegal yang tidak membayar cukai. Sebagai contoh, untuk rokok SKM isi 12 batang, GGRM membayar cukai Rp19.000 dan menjual seharga Rp26.000, sehingga hasil bersih penjualan setelah cukai hanya Rp7.000 per bungkus. Produsen rokok ilegal yang tidak membayar cukai bisa menjual dengan harga sekitar Rp12.000 hingga Rp15.000. Manajemen menyatakan tidak memiliki rencana menaikkan harga secara agresif karena berisiko mendorong konsumen kelas menengah ke bawah berpindah merek, dan saat ini tidak ada rencana diversifikasi bisnis di luar rokok.",
+   "Dari sisi keuangan, GGRM memutuskan membayar dividen Rp800 per saham atau total Rp1,6 triliun berdasarkan keputusan RUPS 2026 untuk tahun buku 2025. Perseroan menyebut posisi utangnya sangat rendah, bahkan kerap nol pada tanggal neraca. Untuk 2026, tidak ada tambahan belanja modal untuk operasional rokok maupun Bandara Dhoho Kediri yang disebut belum memberi kontribusi positif dan diperkirakan tetap demikian selama beberapa tahun ke depan, sementara belanja modal proyek jalan tol diperkirakan sekitar Rp1 triliun hingga Rp2 triliun tahun ini. Perseroan juga menyebut porsi saham publik (free float) saat ini sudah 17 persen, melampaui target minimal 15 persen yang harus dipenuhi pada 31 Maret 2028."
+  ],
+  "fotoAdegan": "Workers packing kretek cigarette cartons on a factory conveyor line, warm morning light through tall industrial windows",
+  "takeaway": "Laporan ini condong negatif bagi GGRM, sebab volume penjualan turun 13,6 persen dan penurunannya lebih dalam daripada penurunan volume rokok nasional, sementara manajemen sendiri mengakui tekanan dari rokok ilegal belum teratasi dan tidak memberi kepastian soal kenaikan harga maupun dividen ke depan. Pos yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar perusahaan sehari-hari, karena manajemen menyebut sengaja menahan kenaikan harga jual supaya tidak sampai mengalami arus kas negatif akibat konsumen berpindah ke rokok ilegal yang lebih murah. Posisi utang GGRM sangat rendah bahkan kerap nol pada tanggal neraca, sehingga beban bunga minim dan ruang membayar dividen Rp1,6 triliun tetap ada meski penjualan tertekan. Yang perlu dipantau berikutnya adalah keputusan perseroan menaikkan harga jual atau tidak pada semester II 2026, karena manajemen menegaskan arah volume dan laba akan sangat bergantung pada keputusan itu tanpa target maupun jaminan bahwa tren perbaikan laba di semester I akan berlanjut.",
+  "sentimen": "negatif"
  },
  {
   "slug": "kementan-bongkar-25-merek-beras-fortifikasi-palsu",

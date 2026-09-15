@@ -22,6 +22,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467302-tito-imbau-pemda-hati-hati-terbitkan-obligasi-daerah-jangan-timbulkan-beban-bagi-kepala-daerah-baru"
  },
  {
+  "slug": "coal-rpp-ekspor-sda-diklaim-tak-berdampak-ke-kinerja",
+  "category": "Aksi Korporasi",
+  "title": "COAL: RPP Ekspor SDA Diklaim Tak [Berdampak] ke Kinerja",
+  "deck": "Black Diamond Resources menjawab permintaan penjelasan Bursa soal rencana aturan pemerintah mengenai tata kelola ekspor sumber daya alam, dan menyebut dampaknya ke kinerja perseroan tidak signifikan.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "COAL",
+   "Black Diamond Resources",
+   "ekspor sumber daya alam",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2fd36f9439_dc67cd3903.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-tetapkan-26-hari-libur-nasional-dan-cuti-bersama-2027",
   "category": "Ketenagakerjaan",
   "title": "Pemerintah Tetapkan [26] Hari Libur Nasional dan Cuti Bersama 2027",
@@ -71,6 +87,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467299-hilirisasi-nikel-mulai-berdampak-terhadap-peningkatan-ekonomi-daerah"
  },
  {
+  "slug": "lpkr-anak-usaha-beli-piutang-rp8-35-m-dari-ciptadana",
+  "category": "Aksi Korporasi",
+  "title": "LPKR: Anak Usaha Beli [Piutang] Rp8,35 M dari Ciptadana",
+  "deck": "Anak usaha LPKR, PT Asiatic Sejahtera Finance, mengambil alih piutang pembiayaan senilai Rp16,62 miliar dari PT Ciptadana Multifinance seharga Rp8,35 miliar dalam transaksi afiliasi.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPKR",
+   "Transaksi Afiliasi",
+   "Lippo Karawaci",
+   "Ciptadana Multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6a218e5892_c968b28b51.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lpkr-tarik-20-7-juta-saham-treasuri-batalkan-rencana-jual",
+  "category": "Aksi Korporasi",
+  "title": "LPKR [Tarik] 20,7 Juta Saham Treasuri, Batalkan Rencana Jual",
+  "deck": "RUPSLB LPKR menyetujui penarikan 20.700.600 saham treasuri lewat pengurangan modal, sekaligus membatalkan rencana menjual saham itu di bursa yang diumumkan April 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPKR",
+   "saham treasuri",
+   "RUPSLB",
+   "pengurangan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/77c7924eb2_007c707faf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pegadaian-kantongi-sertifikasi-iso-untuk-vault-emas",
   "category": "BUMN",
   "title": "Pegadaian Kantongi Sertifikasi [ISO] untuk Vault Emas",
@@ -86,6 +134,86 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467286-pegadaian-raih-sertifikasi-iso-90012015-perkuat-keamanan-vault-berstandar-global"
+ },
+ {
+  "slug": "vici-komisaris-independen-herbudianto-mundur",
+  "category": "Aksi Korporasi",
+  "title": "VICI: Komisaris Independen Herbudianto [Mundur]",
+  "deck": "Drs. Herbudianto mengundurkan diri dari jabatan Komisaris Independen VICI per 15 September 2026. Perseroan akan menggelar RUPS terkait pengunduran diri ini.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "komisaris independen",
+   "pengunduran diri",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eaefecdf9a_177e5e2c72.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lckm-diminta-jelaskan-hilangnya-kepemilikan-maju-mekar-19-36",
+  "category": "Aksi Korporasi",
+  "title": "LCKM Diminta Jelaskan Hilangnya [Kepemilikan] Maju Mekar 19,36%",
+  "deck": "Bursa mempertanyakan hilangnya 19,36% saham Maju Mekar tanpa laporan, uang muka proyek mandek, dan konsentrasi pendapatan satu pelanggan; LCKM minta perpanjangan waktu hingga 30 September.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LCKM",
+   "Bursa Efek Indonesia",
+   "suspensi saham",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a858d102d_e86c6ef6a5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kota-rinci-rencana-akuisisi-rp4-4-triliun-lewat-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Rinci Rencana [Akuisisi] Rp4,4 Triliun Lewat Rights Issue",
+  "deck": "KOTA menjawab permintaan penjelasan bursa soal rights issue senilai gabungan Rp4,4 triliun untuk mengakuisisi dua perusahaan pemilik lahan seluas 571 hektare.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "rights issue",
+   "akuisisi lahan",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1d2a7e9cf_70d436a79e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "agro-panggil-rupslb-bahas-pergantian-direksi-dan-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "AGRO Panggil RUPSLB, Bahas [Pergantian] Direksi dan Anggaran Dasar",
+  "deck": "Bank Raya Indonesia (AGRO) mengundang pemegang saham ke RUPSLB 7 Oktober 2026 untuk membahas perubahan anggaran dasar dan pergantian direksi-komisaris.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGRO",
+   "RUPSLB",
+   "Bank Raya Indonesia",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e5dc23dca_9bf17dfd0c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kpig-jawab-bei-akui-tak-ada-informasi-material-di-balik-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "KPIG Jawab BEI, Akui Tak Ada [Informasi Material] di Balik Volatilitas",
+  "deck": "MNC Tourism Indonesia Tbk menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak mengetahui informasi material apa pun yang mendasarinya.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KPIG",
+   "MNC Tourism Indonesia",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4cc4be0df_5fe4185308.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ptpn-gandeng-kuab-kembangkan-kedelai-nasional",
@@ -345,6 +473,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "truk-masuk-papan-pemantauan-khusus-bei-mulai-16-september",
+  "category": "Aksi Korporasi",
+  "title": "TRUK Masuk Papan [Pemantauan Khusus] BEI Mulai 16 September",
+  "deck": "Bursa Efek Indonesia menempatkan saham TRUK (PT Guna Timur Raya Tbk) ke papan pemantauan khusus efektif 16 September 2026 akibat riwayat penghentian sementara perdagangan.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "pemantauan khusus",
+   "BEI",
+   "watchlist"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5e2390da31_a8aa15fd15.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akku-jadwalkan-public-expose-insidentil-usai-rugi-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Jadwalkan [Public Expose] Insidentil usai Rugi Melonjak",
+  "deck": "AKKU akan menggelar paparan publik insidentil pada 18 September 2026 menjelaskan opini audit, seiring rugi semester I 2026 melonjak ke Rp2,55 miliar dan ekuitas terus menyusut.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "public expose",
+   "opini audit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2026bb9b41_43b4fcd064.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "menaker-ai-di-tempat-kerja-harus-naikkan-produktivitas",
   "category": "Ketenagakerjaan",
   "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",
@@ -359,6 +519,86 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-adopsi-ai-harus-berorientasi-pada-manusia-dan-tingkatkan-produktivitas",
   "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "sraj-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
+  "deck": "Sejahteraraya Anugrahjaya menjawab surat BEI soal lonjakan transaksi sahamnya, menyebut peluncuran klinik gigi baru dan kerja sama bedah robotik sebagai pemicu sentimen pasar.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRAJ",
+   "Bursa Efek Indonesia",
+   "Mayapada Hospital",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/53a0c23661_4ae1888b9d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "life-jelaskan-ke-bursa-aset-turun-laba-melonjak-68",
+  "category": "Aksi Korporasi",
+  "title": "LIFE Jelaskan ke Bursa: Aset Turun, [Laba] Melonjak 68%",
+  "deck": "MSIG Life menjelaskan ke otoritas bursa bahwa aset dan ekuitasnya tergerus nilai pasar investasi dan dividen, sementara laba bersih naik 68,61 persen pada semester I 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LIFE",
+   "asuransi",
+   "keterbukaan informasi",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8043a0fab6_31df62cd5a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppro-umumkan-rencana-rupslb-pada-22-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "PPRO Umumkan Rencana [RUPSLB] pada 22 Oktober 2026",
+  "deck": "PT PP Properti Tbk menjadwalkan RUPSLB pada 22 Oktober 2026, dengan tanggal pencatatan pemegang saham 29 September dan batas usul agenda 22 September 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRO",
+   "RUPSLB",
+   "PP Properti",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0984ad025_5b66fe2a8b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbtn-catat-pertumbuhan-kredit-11-2-lampaui-target-tahunan",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Catat Pertumbuhan Kredit 11,2%, [Lampaui] Target Tahunan",
+  "deck": "Public expose tahunan BBTN mengungkap kredit tumbuh 11,2 persen hingga Juni 2026, dividend payout ratio target tetap 20 persen, dan BSN jadi bank syariah terbesar kedua di Indonesia.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBTN",
+   "Bank Tabungan Negara",
+   "kredit perbankan",
+   "BSN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bde1859dcc_f31f9fee07.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-ggrm-volume-rokok-anjlok-13-6-di-h1-2026-volume",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose GGRM: Volume Rokok Anjlok 13,6% di H1 2026 [Volume]",
+  "deck": "Public expose GGRM ungkap volume rokok turun 13,6 persen di semester I 2026 akibat persaingan rokok ilegal, sementara dividen Rp800 per saham dipertahankan.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GGRM",
+   "Gudang Garam",
+   "Public Expose",
+   "Rokok Ilegal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/551a811872_ebdff2cb1a.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kementan-bongkar-25-merek-beras-fortifikasi-palsu",
@@ -6252,249 +6492,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6039b34a91_dfb6f974cc.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-terbitkan-jaminan-us-11-juta-untuk-akuisisi-blok-kasuri",
-  "category": "Aksi Korporasi",
-  "title": "RATU Terbitkan Jaminan US$11 Juta untuk Akuisisi [Blok Kasuri]",
-  "deck": "RATU menjamin US$11 juta kewajiban anak usahanya, Raharja Energi Negeri, ke mitra Singapura Genting Oil Kasuri terkait pengalihan hak partisipasi di proyek migas.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "transaksi afiliasi",
-   "jaminan perusahaan",
-   "Blok Kasuri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b709d801af_c3b7b008d7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akku-jelaskan-ke-bursa-soal-kelangsungan-usaha-yang-diragukan",
-  "category": "Aksi Korporasi",
-  "title": "AKKU Jelaskan ke Bursa soal [Kelangsungan] Usaha yang Diragukan",
-  "deck": "AKKU merespons permintaan penjelasan BEI atas opini audit Wajar Dengan Pengecualian dan keraguan kelangsungan usaha akibat akumulasi rugi Rp304,41 miliar per Juni 2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKKU",
-   "opini audit",
-   "kelangsungan usaha",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d6b8437251_91207ac78c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-menguat-tipis-ke-rp17-632-diramal-turun-lagi",
-  "category": "Moneter",
-  "title": "[Rupiah] Menguat Tipis ke Rp17.632, Diramal Turun Lagi",
-  "deck": "Rupiah naik 6 poin ke Rp17.632 per dolar AS, tapi analis memperkirakan pelemahan lagi ke Rp17.630-17.670 pada Rabu (9/9).",
-  "date": "8 September 2026",
-  "image": "assets/img/rupiah-menguat-tipis-ke-rp17-632-diramal-turun-lagi.jpg",
-  "imageV": "mtsktlqp",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "cadangan devisa",
-   "Bank Indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465716-rupiah-ditutup-menguat-6-poin-besok-diprediksi-loyo-lagi-ke-rp17670"
- },
- {
-  "slug": "ratu-paparkan-kinerja-ekuitas-naik-der-melonjak-ke-2-42x",
-  "category": "Aksi Korporasi",
-  "title": "RATU Paparkan Kinerja: Ekuitas Naik, DER Melonjak ke [2,42x]",
-  "deck": "Materi public expose RATU: total aset naik jadi US$231,8 juta pasca akuisisi Blok Madura, dan rasio utang terhadap ekuitas melonjak ke 2,42 kali dari 1,05 kali.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "Raharja Energi Cepu",
-   "Blok Madura",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/112cfc3da0_98481e2f3c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "daya-jawab-bursa-soal-lonjakan-transaksi-soroti-free-float",
-  "category": "Aksi Korporasi",
-  "title": "DAYA Jawab Bursa Soal Lonjakan Transaksi, Soroti [Free Float]",
-  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, DAYA menyatakan tidak ada informasi material baru, namun mengaku masih mengevaluasi cara memenuhi ketentuan free float bursa.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DAYA",
-   "volatilitas transaksi",
-   "free float",
-   "Duta Intidaya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9eb2b2641_9a15174ad7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-cek-kesiapan-aft-babullah-di-ternate",
-  "category": "Energi",
-  "title": "Pertamina Cek Kesiapan [AFT] Babullah di Ternate",
-  "deck": "Pertamina mengevaluasi kesiapan terminal avtur dan BBM di Ternate, Maluku Utara, untuk mengantisipasi kenaikan kebutuhan energi di wilayah kepulauan timur Indonesia.",
-  "date": "8 September 2026",
-  "image": "assets/img/pertamina-cek-kesiapan-aft-babullah-di-ternate.jpg",
-  "imageV": "mtsfb0hu",
-  "tags": [
-   "Pertamina",
-   "Maluku Utara",
-   "Avtur",
-   "Energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465711-jaga-kecukupan-energi-di-wilayah-timur-indonesia-pertamina-dukung-ekonomi-masyarakat-lewat-aft-babullah"
- },
- {
-  "slug": "telkom-sewakan-gedung-gmp-ke-bgn-rapikan-kantor",
-  "category": "BUMN",
-  "title": "Telkom Sewakan Gedung GMP ke [BGN], Rapikan Kantor",
-  "deck": "Telkom menyewakan Gedung Media Pratama kepada Badan Gizi Nasional, sekaligus menata ulang lokasi kerja TelkomGroup yang selama ini tersebar di Jakarta.",
-  "date": "8 September 2026",
-  "image": "assets/img/telkom-sewakan-gedung-gmp-ke-bgn-rapikan-kantor.jpg",
-  "imageV": "mtsfb0xa",
-  "tags": [
-   "Telkom",
-   "Badan Gizi Nasional",
-   "properti",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465710-pastikan-kepentingan-perusahaan-tetap-terjaga-telkomgroup-optimalkan-aset-properti"
- },
- {
-  "slug": "dmnd-panggil-rupslb-30-september-ubah-susunan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "DMND Panggil RUPSLB 30 September, Ubah Susunan [Komisaris]",
-  "deck": "PT Diamond Food Indonesia Tbk mengundang pemegang saham ke RUPSLB 30 September 2026 untuk membahas pergantian Dewan Komisaris dan penyesuaian klasifikasi usaha ke KBLI 2025.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMND",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "KBLI 2025"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/61129200e2_131eefd57e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raja-rampungkan-akuisisi-5-saham-pt-lng-dari-genting",
-  "category": "Aksi Korporasi",
-  "title": "RAJA Rampungkan Akuisisi 5% Saham PT LNG dari [Genting]",
-  "deck": "Anak usaha RAJA, PT Raharja Gas Kasuri, menuntaskan pembelian 5 persen saham PT Layar Nusantara Gas dari Genting LNG sebagai bagian kemitraan FLNG.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAJA",
-   "akuisisi",
-   "FLNG",
-   "Genting LNG"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f2c130b62d_50d3b87ed3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sqmi-cgs-international-jual-167-juta-saham-wilton-makmur",
-  "category": "Aksi Korporasi",
-  "title": "SQMI: CGS International Jual [167 Juta] Saham Wilton Makmur",
-  "deck": "CGS International Securities Singapore melepas 167 juta saham SQMI pada 2 September 2026 seharga Rp103 per saham, hak suaranya turun dari 20,65 persen ke 19,58 persen.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SQMI",
-   "Wilton Makmur Indonesia",
-   "kepemilikan saham",
-   "CGS International"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-1174-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smle-paparkan-kinerja-pendapatan-kuartal-i-turun-18",
-  "category": "Aksi Korporasi",
-  "title": "SMLE Paparkan Kinerja, Pendapatan Kuartal I [Turun] 18%",
-  "deck": "Public expose tahunan SMLE mengungkap pendapatan kuartal I 2026 turun 18 persen dibanding tahun lalu, sementara pertumbuhan pendapatan tahunan melambat sejak 2024.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMLE",
-   "public expose",
-   "kinerja keuangan",
-   "pendapatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b81512c23f_57b7805558.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-realisasikan-dana-obligasi-sukuk-rp3-67-triliun-sisa-rp162-8-m",
-  "category": "Aksi Korporasi",
-  "title": "LPPI Realisasikan Dana Obligasi-Sukuk Rp3,67 Triliun, [Sisa] Rp162,8 M",
-  "deck": "LPPI melaporkan realisasi penggunaan dana empat obligasi dan sukuk mudharabah berkelanjutan senilai Rp3,67 triliun per 31 Agustus 2026, dengan sisa Rp162,8 miliar masih di bank.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "obligasi korporasi",
-   "sukuk mudharabah",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2616a4538a_0e8adb20d6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dgwg-sampaikan-koreksi-laporan-realisasi-dana-ipo",
-  "category": "Aksi Korporasi",
-  "title": "DGWG Sampaikan [Koreksi] Laporan Realisasi Dana IPO",
-  "deck": "DGWG mengoreksi laporan realisasi dana IPO Rp189,87 miliar yang sudah terpakai penuh untuk bahan baku pestisida dan penyertaan modal ke anak usaha.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGWG",
-   "IPO",
-   "penggunaan dana IPO",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1023585db5_15a84355ea.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dwgl-raih-outlook-positif-rating-obligasi-tetap-a",
-  "category": "Aksi Korporasi",
-  "title": "DWGL Raih Outlook [Positif], Rating Obligasi Tetap A-",
-  "deck": "KRI mempertahankan peringkat A- untuk Obligasi I Dwi Guna Laksana 2025 senilai Rp300 miliar, tapi menaikkan outlook dari stabil ke positif berkat perbaikan struktur modal.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DWGL",
-   "obligasi",
-   "pemeringkatan",
-   "outlook"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/367b823973_e630738fc3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cadangan-devisa-ri-tembus-rekor-us-146-5-miliar",
-  "category": "Moneter",
-  "title": "Cadangan Devisa RI [Tembus] Rekor US$146,5 Miliar",
-  "deck": "Cadangan devisa Indonesia naik ke rekor US$146,5 miliar akhir Agustus 2026, ditopang penerimaan pajak dan pinjaman luar negeri pemerintah di tengah gejolak pasar global.",
-  "date": "8 September 2026",
-  "image": "assets/img/cadangan-devisa-ri-tembus-rekor-us-146-5-miliar.jpg",
-  "imageV": "mtsfb1ar",
-  "tags": [
-   "cadangan devisa",
-   "bank indonesia",
-   "rupiah",
-   "impor"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465691-cadangan-devisa-indonesia-melonjak-ke-us1465-miliar-tembus-rekor-baru-di-tengah-gejolak-global"
  }
 ];

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ica-cepa-diratifikasi-kanada-pangkas-tarif-90-produk-ri",
+  "category": "Global",
+  "title": "ICA-CEPA [Diratifikasi], Kanada Pangkas Tarif 90% Produk RI",
+  "deck": "Indonesia dan Kanada resmi meratifikasi ICA-CEPA, perjanjian dagang bilateral pertama Kanada dengan ASEAN, yang akan memangkas tarif pada lebih dari 90 persen produk kedua negara.",
+  "date": "16 September 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "ICA-CEPA",
+   "Indonesia-Kanada",
+   "Tarif Dagang",
+   "ASEAN"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7095/menko-airlangga-ajak-pelaku-usaha-asean-kanada-manfaatkan-implementasi-ica-cepa-dengan-maksimal",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "indonesia-perketat-tata-kelola-ekspor-teknologi-strategis",
   "category": "Industri",
   "title": "Indonesia Perketat Tata Kelola [Ekspor] Teknologi Strategis",
@@ -4327,7 +4343,7 @@ var ARTICLES = [
   "title": "RI-Malaysia-Thailand Kejar Rampungkan [92] Proyek IMT-GT",
   "deck": "Pertemuan Tingkat Menteri IMT-GT ke-32 di Medan menetapkan target 92 proyek kerja sama rampung, disertai delapan MoU bisnis baru dan cetak biru 2027-2031.",
   "date": "10 September 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IMT-GT",
    "Airlangga Hartarto",
@@ -4618,7 +4634,7 @@ var ARTICLES = [
   "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
   "deck": "Indonesia resmi mengambil alih keketuaan forum kerja sama ekonomi IMT-GT dan membuka forum bisnis yang mempertemukan lebih dari 300 pelaku usaha dari lima negara di Medan.",
   "date": "10 September 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IMT-GT",
    "Kemenko Perekonomian",
@@ -6479,21 +6495,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7084/tingkatkan-efisiensi-logistik-dan-tata-kelola-perdagangan-melalui-optimalisasi-sistem-indonesia-national-single-window",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "smra-kurangi-penyertaan-modal-rp1-2-triliun-di-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "SMRA Kurangi Penyertaan Modal [Rp1,2 Triliun] di Anak Usaha",
-  "deck": "Summarecon Agung melaporkan transaksi afiliasi berupa pengurangan penyertaan modal senilai Rp1,2 triliun di anak usahanya, PT Summarecon Investment Property.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMRA",
-   "Summarecon Agung",
-   "transaksi afiliasi",
-   "pengurangan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d0af22490b_fcc777a2fd.pdf",
-  "sourceLabel": "IDX"
  }
 ];

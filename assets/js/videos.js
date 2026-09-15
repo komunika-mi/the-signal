@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "V9RVL3y_Qws",
+  "title": "Bea Cukai Ungkap Ekspor Ilegal Emas Senilai Rp73 Miliar",
+  "category": "Bisnis",
+  "program": "Kabar Utama",
+  "summary": "Direktorat Jenderal Bea dan Cukai membongkar upaya ekspor ilegal emas lewat sejumlah bandara internasional. Dalam sepuluh hari, petugas mengamankan hampir 29 kilogram emas.",
+  "takeaway": "Kasus ini relevan karena menyangkut pengawasan arus komoditas bernilai tinggi yang berdampak pada penerimaan negara dari sektor perdagangan.",
+  "terbit": "2026-09-15T16:34:02+00:00"
+ },
+ {
+  "id": "LrhY4Ri13GA",
+  "title": "Momen Sertijab Menteri Keuangan dari Purbaya ke Suahasil",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Purbaya Yudhi Sadewa resmi menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara. Purbaya mengaku baru mengetahui pergantian tersebut sehari sebelumnya.",
+  "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan penting diikuti karena berkaitan langsung dengan arah kebijakan fiskal dan anggaran negara.",
+  "terbit": "2026-09-15T16:24:42+00:00"
+ },
+ {
+  "id": "65S9SbOdB1w",
+  "title": "Kadin Sambut Baik Pergantian Menteri Keuangan",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Kamar Dagang dan Industri Indonesia menyambut positif pelantikan Suahasil Nazara sebagai Menteri Keuangan yang baru.",
+  "takeaway": "Reaksi kalangan pelaku usaha terhadap pergantian Menteri Keuangan mencerminkan ekspektasi dunia bisnis terhadap kelanjutan kebijakan fiskal.",
+  "terbit": "2026-09-15T16:26:32+00:00"
+ },
+ {
   "id": "X4lX10AGJfk",
   "title": "Antrean Panjang di SPBU Jeneponto akibat Kelangkaan Pertalite",
   "category": "Energi",

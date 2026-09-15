@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "V9RVL3y_Qws",
+  "title": "Bea Cukai Ungkap Ekspor Ilegal Emas Senilai Rp73 Miliar",
+  "category": "Bisnis",
+  "program": "Kabar Utama",
+  "summary": "Direktorat Jenderal Bea dan Cukai membongkar upaya ekspor ilegal emas lewat sejumlah bandara internasional. Dalam sepuluh hari, petugas mengamankan hampir 29 kilogram emas.",
+  "takeaway": "Kasus ini relevan karena menyangkut pengawasan arus komoditas bernilai tinggi yang berdampak pada penerimaan negara dari sektor perdagangan."
+ },
+ {
+  "id": "LrhY4Ri13GA",
+  "title": "Momen Sertijab Menteri Keuangan dari Purbaya ke Suahasil",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Purbaya Yudhi Sadewa resmi menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara. Purbaya mengaku baru mengetahui pergantian tersebut sehari sebelumnya.",
+  "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan penting diikuti karena berkaitan langsung dengan arah kebijakan fiskal dan anggaran negara."
+ },
+ {
+  "id": "65S9SbOdB1w",
+  "title": "Kadin Sambut Baik Pergantian Menteri Keuangan",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Kamar Dagang dan Industri Indonesia menyambut positif pelantikan Suahasil Nazara sebagai Menteri Keuangan yang baru.",
+  "takeaway": "Reaksi kalangan pelaku usaha terhadap pergantian Menteri Keuangan mencerminkan ekspektasi dunia bisnis terhadap kelanjutan kebijakan fiskal."
+ },
+ {
   "id": "X4lX10AGJfk",
   "title": "Antrean Panjang di SPBU Jeneponto akibat Kelangkaan Pertalite",
   "category": "Energi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Forum diskusi membahas penggunaan data desil sebagai acuan penyaluran bantuan pemerintah, di tengah keluhan warga soal akurasi data di lapangan.",
   "takeaway": "Relevan karena data desil menentukan sasaran subsidi dan bantuan sosial yang berdampak pada alokasi anggaran negara."
- },
- {
-  "id": "9NYqbPoMvag",
-  "title": "Destry Damayanti Resmi Dilantik Jadi Gubernur BI",
-  "category": "Moneter",
-  "program": "Kabar Hari Ini",
-  "summary": "Destry Damayanti dilantik sebagai Gubernur Bank Indonesia periode 2026-2031 dalam upacara di Gedung Mahkamah Agung, Jakarta, dipimpin Ketua MA.",
-  "takeaway": "Pergantian pucuk pimpinan bank sentral berpengaruh langsung terhadap arah kebijakan moneter dan stabilitas rupiah."
- },
- {
-  "id": "Guxj9iKyfrY",
-  "title": "Program SMK Go Global Buka Pendaftaran Batch Baru",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Hari Ini",
-  "summary": "Pendaftaran Program SMK Go Global Batch I Gelombang III dibuka pada 1-11 September 2026 untuk menyiapkan lulusan SMK bekerja resmi di luar negeri.",
-  "takeaway": "Program ini mencerminkan upaya penyerapan tenaga kerja Indonesia di pasar kerja global."
- },
- {
-  "id": "hWQi-yCY24k",
-  "title": "Kadin dan SBF Perkuat Kerja Sama Dagang Berbasis AI",
-  "category": "UMKM",
-  "program": "Kabar Hari Ini",
-  "summary": "Federasi Bisnis Singapura dan Kadin Indonesia memperdalam kerja sama dagang berbasis kecerdasan buatan untuk membantu pelaku UMKM menangkap peluang pasar.",
-  "takeaway": "Kolaborasi ini berpotensi membuka akses pasar baru bagi pelaku UMKM Indonesia melalui teknologi digital."
  }
 ];

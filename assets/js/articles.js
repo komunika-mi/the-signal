@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ica-cepa-diratifikasi-kanada-pangkas-tarif-90-produk-ri",
+  "category": "Global",
+  "title": "ICA-CEPA [Diratifikasi], Kanada Pangkas Tarif 90% Produk RI",
+  "deck": "Indonesia dan Kanada resmi meratifikasi ICA-CEPA, perjanjian dagang bilateral pertama Kanada dengan ASEAN, yang akan memangkas tarif pada lebih dari 90 persen produk kedua negara.",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-15T17:41:56.461Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7095/menko-airlangga-ajak-pelaku-usaha-asean-kanada-manfaatkan-implementasi-ica-cepa-dengan-maksimal",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "ICA-CEPA",
+   "Indonesia-Kanada",
+   "Tarif Dagang",
+   "ASEAN"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto mengajak pelaku usaha ASEAN dan Kanada memanfaatkan perjanjian dagang ICA-CEPA yang sudah rampung diratifikasi oleh kedua negara. Pernyataan itu disampaikan dalam forum dialog Canada-ASEAN Business Council di sela Canada Investment Summit di Toronto, Kanada, Senin (14/9). ICA-CEPA merupakan perjanjian dagang bilateral pertama Kanada dengan negara ASEAN, sekaligus kemitraan ekonomi komprehensif pertama Indonesia dengan kawasan Amerika Utara.",
+   "Melalui perjanjian ini, Kanada akan menghapus atau menurunkan tarif pada lebih dari 90 persen pos tarifnya untuk produk asal Indonesia, sementara Indonesia melakukan hal serupa untuk hampir 86 persen pos tarif produk Kanada. Kerja sama yang dibuka mencakup hilirisasi mineral kritis seperti nikel dan bahan baterai, energi bersih dan terbarukan, agri-pangan dan perikanan berkelanjutan, infrastruktur, serta jasa keuangan dan digital.",
+   "Kedua negara sudah menyelesaikan proses ratifikasi ICA-CEPA di dalam negeri masing-masing, namun pembahasan kini berlanjut ke pengaturan teknis, termasuk soal rules of origin, yakni ketentuan asal barang yang menentukan produk mana yang berhak mendapat tarif preferensial. Di sela rangkaian acara, Airlangga juga bertemu CEO AtkinsRealis Ian L. Edwards untuk membahas kerja sama energi nuklir, serta CEO Sun Life Kevin D. Strain untuk memperkuat kerja sama di sektor keuangan.",
+   "Forum tersebut turut dihadiri Menteri Perdagangan Internasional Kanada Maninder Sidhu, Menteri Keuangan II Brunei Darussalam Amin Liew Abdullah, dan Presiden CABC Wayne Farmer, bersama pelaku usaha dan investor dari kawasan ASEAN dan Kanada."
+  ],
+  "fotoAdegan": "Shipping containers being loaded onto a cargo vessel at an Indonesian port, cranes overhead, late afternoon light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah secara konkret adalah Indonesia dan Kanada sudah sama-sama meratifikasi ICA-CEPA, artinya perjanjian dagang itu sudah disahkan lewat proses hukum di masing-masing negara. Tapi perjanjian ini belum otomatis berlaku penuh, karena kedua pihak masih membahas aturan teknis bernama rules of origin, yaitu kriteria untuk memastikan sebuah barang benar-benar diproduksi di Indonesia atau Kanada sehingga berhak dapat potongan tarif. Yang akan merasakan dampaknya adalah eksportir di sektor nikel dan baterai, energi bersih, perikanan, infrastruktur, serta jasa keuangan dan digital, begitu tarif preferensial itu benar-benar berjalan. Arahnya adalah pemerintah mendorong pelaku usaha bersiap sejak sekarang sebelum perjanjian efektif berlaku, sehingga yang perlu dipantau adalah kapan pembahasan rules of origin ini rampung, karena itu yang menentukan kapan pemangkasan tarif hingga 90 persen dari Kanada dan 86 persen dari Indonesia benar-benar bisa dimanfaatkan.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "indonesia-perketat-tata-kelola-ekspor-teknologi-strategis",
   "category": "Industri",
   "title": "Indonesia Perketat Tata Kelola [Ekspor] Teknologi Strategis",
@@ -28,7 +56,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar wacana: Indonesia mulai menyiapkan kerangka aturan resmi untuk mengawasi ekspor barang dan teknologi strategis yang berpotensi disalahgunakan, sesuatu yang sebelumnya belum punya payung hukum khusus. Yang akan langsung terkena adalah eksportir di sektor semikonduktor, elektronik, kimia, bioteknologi, dan pertahanan, karena mereka nantinya harus melalui pemeriksaan tambahan sebelum barangnya boleh dikirim ke luar negeri. Arahnya tampak menuju pengetatan pengawasan ekspor teknologi tinggi, sejalan dengan standar yang dipakai Amerika Serikat sebagai mitra utama penyusunan aturan ini, terutama karena ekspor semikonduktor RI yang melonjak lebih dari dua kali lipat dalam setahun membuat pengawasan makin mendesak. Yang masih belum jelas dari siaran ini adalah kapan payung hukum STM tersebut akan rampung dan seberapa luas cakupannya, sehingga pelaku usaha belum tahu pasti kapan aturan baru ini mulai mengikat kegiatan ekspor mereka.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "distribusi-b50-tembus-94-persen-spbu-esdm-kejar-tenggat",
@@ -244,7 +272,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar peluncuran acara, tapi pilot pabrik bioetanol berkapasitas 60 kiloliter di Lampung, sangat kecil dibanding kebutuhan bahan campuran bensin E5 yang diperkirakan 1,7 sampai 2 juta kiloliter per tahun. Pemerintah sendiri menyebut fasilitas ini baru tahap uji, untuk mengukur apakah biaya produksinya bisa bersaing, sebelum diputuskan naik ke skala 60 ribu kiloliter pada 2027, seribu kali lipat dari kapasitas sekarang. Yang terdampak langsung adalah petani tebu, singkong, dan sorgum di sekitar Lampung yang diajak jadi pemasok lewat skema koperasi, serta industri otomotif seperti Toyota yang perlu menyesuaikan mesin dengan bahan bakar campuran ini. Ke depan ada dua kemungkinan: kalau biaya produksi di fasilitas kecil ini terbukti murah, rencana perbesaran ke 60 ribu kiloliter pada 2027 akan jalan sesuai target, tapi kalau tidak, rencana besar itu bisa molor atau berubah skema. Yang akan menentukan arah ini adalah hasil produksi pertama yang dijanjikan paling lambat Desember 2026, saat itulah keekonomiannya baru bisa dihitung.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "hilirisasi-nikel-ubah-wajah-ekonomi-morowali",
@@ -7008,7 +7036,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI-Malaysia-Thailand Kejar Rampungkan [92] Proyek IMT-GT",
   "deck": "Pertemuan Tingkat Menteri IMT-GT ke-32 di Medan menetapkan target 92 proyek kerja sama rampung, disertai delapan MoU bisnis baru dan cetak biru 2027-2031.",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "10 September 2026",
   "isoDate": "2026-09-10T12:14:51.159Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7089/dari-rencana-ke-lapangan-kerja-menko-airlangga-jadikan-pertemuan-imt-gt-tahun-ini-sebagai-ministerial-meeting-of-implementation",
@@ -7486,7 +7514,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
   "deck": "Indonesia resmi mengambil alih keketuaan forum kerja sama ekonomi IMT-GT dan membuka forum bisnis yang mempertemukan lebih dari 300 pelaku usaha dari lima negara di Medan.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "10 September 2026",
   "isoDate": "2026-09-10T08:39:04.846Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7088/indonesia-dorong-reimajinasi-pembangunan-konektivitas-dan-langkah-langkah-transformatif-untuk-kemajuan-bersama",
@@ -11389,7 +11417,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
   "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-08T04:28:42.741Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-dukung-bumn-perkuat-tata-kelola-hubungan-industrial",
@@ -12077,7 +12105,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Presiden Prabowo Buka Investasi [Nuklir] di Forum Rusia",
   "deck": "Presiden Prabowo menyatakan keterbukaan Indonesia terhadap investasi energi terbarukan hingga nuklir di Forum Ekonomi Timur Rusia; investasi Rusia ke Indonesia sejak 2021 tercatat US$726 juta.",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-07T19:15:23.936Z",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/presiden-prabowo-tegaskan-arah-investasi-indonesia-hilirisasi-untuk-kesejahteraan-dan-investasi-teknologi-masa-depan",
@@ -12106,7 +12134,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Realisasi Investasi [Hilirisasi] Tembus Rp300,1 Triliun",
   "deck": "Realisasi investasi sektor hilirisasi RI naik 6,9 persen menjadi Rp300,1 triliun pada semester I 2026, ditopang strategi perencanaan, kemudahan izin, dan insentif pajak.",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-07T19:15:18.816Z",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-ungkap-tiga-strategi-jemput-investasi-dan-perkuat-hilirisasi",
@@ -21076,7 +21104,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Harga Acuan Ekspor Kakao [Melonjak], Sawit Naik Tipis",
   "deck": "Harga patokan ekspor biji kakao naik hampir 4 persen imbas gangguan pasokan di Afrika Barat, sementara harga referensi CPO naik tipis 1,1 persen untuk periode September 2026.",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "date": "2 September 2026",
   "isoDate": "2026-09-01T21:48:22.453Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/september-2026-hr-cpo-naik-hpe-biji-kakao-dan-getah-pinus-naik-hpe-produk-kulit-tetap-serta-hpe-produk-kayu-bervariasi",
@@ -22983,7 +23011,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Harga Patokan Ekspor Emas [Naik] 7,87 Persen per September",
   "deck": "Kementerian Perdagangan menaikkan Harga Patokan Ekspor emas 7,87 persen menjadi US$142.154,10 per kilogram untuk periode 1-14 September 2026, mengikuti kenaikan harga emas dunia.",
-  "image": "assets/img/jalur-perakitan.jpg",
+  "image": "assets/img/mesin-tekstil.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T21:56:54.150Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/permintaan-emas-naik-kemendag-tetapkan-kenaikan-hpe-emas-di-periode-pertama-september-2026",

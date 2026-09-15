@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah Indonesia dan Kanada sudah sama-sama meratifikasi ICA-CEPA, artinya perjanjian dagang itu sudah disahkan lewat proses hukum di masing-masing negara. Tapi perjanjian ini belum otomatis berlaku penuh, karena kedua pihak masih membahas aturan teknis bernama rules of origin, yaitu kriteria untuk memastikan sebuah barang benar-benar diproduksi di Indonesia atau Kanada sehingga berhak dapat potongan tarif. Yang akan merasakan dampaknya adalah eksportir di sektor nikel dan baterai, energi bersih, perikanan, infrastruktur, serta jasa keuangan dan digital, begitu tarif preferensial itu benar-benar berjalan. Arahnya adalah pemerintah mendorong pelaku usaha bersiap sejak sekarang sebelum perjanjian efektif berlaku, sehingga yang perlu dipantau adalah kapan pembahasan rules of origin ini rampung, karena itu yang menentukan kapan pemangkasan tarif hingga 90 persen dari Kanada dan 86 persen dari Indonesia benar-benar bisa dimanfaatkan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "indonesia-perketat-tata-kelola-ekspor-teknologi-strategis",
@@ -56,7 +56,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar wacana: Indonesia mulai menyiapkan kerangka aturan resmi untuk mengawasi ekspor barang dan teknologi strategis yang berpotensi disalahgunakan, sesuatu yang sebelumnya belum punya payung hukum khusus. Yang akan langsung terkena adalah eksportir di sektor semikonduktor, elektronik, kimia, bioteknologi, dan pertahanan, karena mereka nantinya harus melalui pemeriksaan tambahan sebelum barangnya boleh dikirim ke luar negeri. Arahnya tampak menuju pengetatan pengawasan ekspor teknologi tinggi, sejalan dengan standar yang dipakai Amerika Serikat sebagai mitra utama penyusunan aturan ini, terutama karena ekspor semikonduktor RI yang melonjak lebih dari dua kali lipat dalam setahun membuat pengawasan makin mendesak. Yang masih belum jelas dari siaran ini adalah kapan payung hukum STM tersebut akan rampung dan seberapa luas cakupannya, sehingga pelaku usaha belum tahu pasti kapan aturan baru ini mulai mengikat kegiatan ekspor mereka.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "distribusi-b50-tembus-94-persen-spbu-esdm-kejar-tenggat",
@@ -429,7 +429,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar peluncuran acara, tapi pilot pabrik bioetanol berkapasitas 60 kiloliter di Lampung, sangat kecil dibanding kebutuhan bahan campuran bensin E5 yang diperkirakan 1,7 sampai 2 juta kiloliter per tahun. Pemerintah sendiri menyebut fasilitas ini baru tahap uji, untuk mengukur apakah biaya produksinya bisa bersaing, sebelum diputuskan naik ke skala 60 ribu kiloliter pada 2027, seribu kali lipat dari kapasitas sekarang. Yang terdampak langsung adalah petani tebu, singkong, dan sorgum di sekitar Lampung yang diajak jadi pemasok lewat skema koperasi, serta industri otomotif seperti Toyota yang perlu menyesuaikan mesin dengan bahan bakar campuran ini. Ke depan ada dua kemungkinan: kalau biaya produksi di fasilitas kecil ini terbukti murah, rencana perbesaran ke 60 ribu kiloliter pada 2027 akan jalan sesuai target, tapi kalau tidak, rencana besar itu bisa molor atau berubah skema. Yang akan menentukan arah ini adalah hasil produksi pertama yang dijanjikan paling lambat Desember 2026, saat itulah keekonomiannya baru bisa dihitung.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "hilirisasi-nikel-ubah-wajah-ekonomi-morowali",

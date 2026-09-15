@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mendagri-ingatkan-pemda-soal-risiko-obligasi-daerah",
+  "category": "Makroekonomi",
+  "title": "Mendagri Ingatkan Pemda soal Risiko [Obligasi] Daerah",
+  "deck": "Mendagri Tito Karnavian meminta pemerintah daerah menghitung kemampuan fiskal sebelum menerbitkan obligasi, supaya utang lama tidak membebani kepala daerah yang baru menjabat.",
+  "date": "15 September 2026",
+  "image": "assets/img/mendagri-ingatkan-pemda-soal-risiko-obligasi-daerah.jpg",
+  "imageV": "mu2o3033",
+  "tags": [
+   "obligasi daerah",
+   "Tito Karnavian",
+   "utang daerah",
+   "kepala daerah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467302-tito-imbau-pemda-hati-hati-terbitkan-obligasi-daerah-jangan-timbulkan-beban-bagi-kepala-daerah-baru"
+ },
+ {
   "slug": "pemerintah-tetapkan-26-hari-libur-nasional-dan-cuti-bersama-2027",
   "category": "Ketenagakerjaan",
   "title": "Pemerintah Tetapkan [26] Hari Libur Nasional dan Cuti Bersama 2027",
@@ -35,6 +52,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-resmikan-peluncuran-bioethanol-development-center-di-lampung",
   "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "hilirisasi-nikel-ubah-wajah-ekonomi-morowali",
+  "category": "Industri",
+  "title": "Hilirisasi Nikel [Ubah] Wajah Ekonomi Morowali",
+  "deck": "Hilirisasi nikel mendorong pergeseran struktur ekonomi Morowali dan Morowali Utara dari tambang ke industri, dengan PDRB per kapita naik lebih dari 20 persen dalam satu dekade.",
+  "date": "15 September 2026",
+  "image": "assets/img/hilirisasi-nikel-ubah-wajah-ekonomi-morowali.jpg",
+  "imageV": "mu2o30kr",
+  "tags": [
+   "nikel",
+   "hilirisasi",
+   "Morowali",
+   "MIND ID"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467299-hilirisasi-nikel-mulai-berdampak-terhadap-peningkatan-ekonomi-daerah"
  },
  {
   "slug": "pegadaian-kantongi-sertifikasi-iso-untuk-vault-emas",
@@ -6462,37 +6496,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465691-cadangan-devisa-indonesia-melonjak-ke-us1465-miliar-tembus-rekor-baru-di-tengah-gejolak-global"
- },
- {
-  "slug": "visi-gelar-rups-terbitkan-saham-baru-danai-akuisisi-kesehatan",
-  "category": "Aksi Korporasi",
-  "title": "VISI Gelar RUPS, Terbitkan Saham Baru Danai Akuisisi [Kesehatan]",
-  "deck": "VISI memanggil RUPS 30 September 2026 untuk menyetujui penerbitan saham baru tanpa hak memesan efek dan akuisisi 72,91% saham perusahaan kesehatan Hasna Medika Bakti Cirebon.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "RUPS",
-   "akuisisi",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6726936d4_88044975b9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "abmm-jadwalkan-rupslb-pada-15-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "ABMM Jadwalkan [RUPSLB] pada 15 Oktober 2026",
-  "deck": "ABM Investama mengumumkan rencana RUPSLB pada 15 Oktober 2026 secara elektronik, dengan pemegang saham per 22 September berhak hadir.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ABMM",
-   "RUPSLB",
-   "ABM Investama",
-   "korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fef89018b8_c8020f097d.pdf",
-  "sourceLabel": "IDX"
  }
 ];

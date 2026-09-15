@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mendagri-ingatkan-pemda-soal-risiko-obligasi-daerah",
+  "category": "Makroekonomi",
+  "title": "Mendagri Ingatkan Pemda soal Risiko [Obligasi] Daerah",
+  "deck": "Mendagri Tito Karnavian meminta pemerintah daerah menghitung kemampuan fiskal sebelum menerbitkan obligasi, supaya utang lama tidak membebani kepala daerah yang baru menjabat.",
+  "image": "assets/img/mendagri-ingatkan-pemda-soal-risiko-obligasi-daerah.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T18:58:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467302-tito-imbau-pemda-hati-hati-terbitkan-obligasi-daerah-jangan-timbulkan-beban-bagi-kepala-daerah-baru",
+  "tags": [
+   "obligasi daerah",
+   "Tito Karnavian",
+   "utang daerah",
+   "kepala daerah"
+  ],
+  "body": [
+   "Menteri Dalam Negeri Tito Karnavian mengimbau pemerintah daerah menerapkan prinsip kehati-hatian sebelum menerbitkan obligasi daerah. Ia menegaskan instrumen ini pada dasarnya adalah utang yang harus disesuaikan dengan kemampuan keuangan setiap daerah, bukan sekadar cara cepat mendapatkan dana segar. Imbauan ini disampaikan Tito kepada wartawan di Kompleks Parlemen, Senayan, Jakarta, Selasa (15/9/2026).",
+   "Menurut Tito, semakin banyak kepala daerah yang mengeluh kepadanya karena harus menanggung utang yang dibuat oleh pemerintahan sebelumnya. Kondisi itu, katanya, menjadi alasan penting bagi pemerintah daerah untuk tidak sembarangan menambah kewajiban utang baru lewat obligasi, apalagi menjelang pergantian kepemimpinan daerah.",
+   "Tito menyebut penerbitan obligasi bisa dibenarkan jika dananya dipakai untuk proyek yang produktif dan mampu menghasilkan pendapatan sendiri. Contoh yang ia berikan adalah pembangunan rumah sakit yang dikelola sebagai Badan Layanan Umum Daerah atau BLUD, yaitu unit milik pemerintah daerah yang boleh mengelola pendapatannya sendiri di luar kas umum daerah. Jika rumah sakit itu untung, pendapatannya bisa dipakai membayar cicilan utang sekaligus menambah pendapatan asli daerah.",
+   "Sebaliknya, Tito mengingatkan pemerintah daerah dengan kapasitas fiskal rendah dan sudah memiliki utang agar tidak menambah beban dengan menerbitkan obligasi baru. Ia menyebut langkah semacam itu berisiko membuat keuangan daerah tekor dan menambah beban bagi kepala daerah berikutnya."
+  ],
+  "fotoAdegan": "Construction workers finishing a regional government hospital building, scaffolding and concrete pillars, midday sunlight, no signage visible",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/15/6aa93211b6959-mendagri-tito-karnavian-imbau-pemda-hati-hati-terbitkan-obligasi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan Tito Karnavian ini masih berupa imbauan lisan, belum ada aturan baru yang menyebut batas jumlah utang atau mekanisme pengawasan penerbitan obligasi daerah. Pihak yang jelas disebut terdampak adalah kepala daerah, terutama yang baru menjabat dan mewarisi utang dari pendahulunya, serta daerah dengan kapasitas fiskal rendah yang berencana menambah obligasi baru. Contoh rumah sakit BLUD yang dipakai Tito menunjukkan Kemendagri membedakan utang produktif yang bisa membayar dirinya sendiri dari utang yang murni menambah beban, tapi belum dijelaskan siapa yang menilai kelayakan sebuah proyek sebelum obligasi diterbitkan. Untuk melihat apakah imbauan ini akan berlanjut jadi kebijakan konkret, perlu dipantau apakah Kemendagri menerbitkan pedoman atau batas resmi soal obligasi daerah, atau imbauan ini berhenti sebagai pernyataan tanpa aturan turunan.",
+  "imageV": "mu2o3033"
+ },
+ {
   "slug": "pemerintah-tetapkan-26-hari-libur-nasional-dan-cuti-bersama-2027",
   "category": "Ketenagakerjaan",
   "title": "Pemerintah Tetapkan [26] Hari Libur Nasional dan Cuti Bersama 2027",
@@ -55,7 +82,34 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar peluncuran acara, tapi pilot pabrik bioetanol berkapasitas 60 kiloliter di Lampung, sangat kecil dibanding kebutuhan bahan campuran bensin E5 yang diperkirakan 1,7 sampai 2 juta kiloliter per tahun. Pemerintah sendiri menyebut fasilitas ini baru tahap uji, untuk mengukur apakah biaya produksinya bisa bersaing, sebelum diputuskan naik ke skala 60 ribu kiloliter pada 2027, seribu kali lipat dari kapasitas sekarang. Yang terdampak langsung adalah petani tebu, singkong, dan sorgum di sekitar Lampung yang diajak jadi pemasok lewat skema koperasi, serta industri otomotif seperti Toyota yang perlu menyesuaikan mesin dengan bahan bakar campuran ini. Ke depan ada dua kemungkinan: kalau biaya produksi di fasilitas kecil ini terbukti murah, rencana perbesaran ke 60 ribu kiloliter pada 2027 akan jalan sesuai target, tapi kalau tidak, rencana besar itu bisa molor atau berubah skema. Yang akan menentukan arah ini adalah hasil produksi pertama yang dijanjikan paling lambat Desember 2026, saat itulah keekonomiannya baru bisa dihitung.",
-  "fotoGagal": 1
+  "fotoGagal": 2
+ },
+ {
+  "slug": "hilirisasi-nikel-ubah-wajah-ekonomi-morowali",
+  "category": "Industri",
+  "title": "Hilirisasi Nikel [Ubah] Wajah Ekonomi Morowali",
+  "deck": "Hilirisasi nikel mendorong pergeseran struktur ekonomi Morowali dan Morowali Utara dari tambang ke industri, dengan PDRB per kapita naik lebih dari 20 persen dalam satu dekade.",
+  "image": "assets/img/hilirisasi-nikel-ubah-wajah-ekonomi-morowali.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T18:38:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467299-hilirisasi-nikel-mulai-berdampak-terhadap-peningkatan-ekonomi-daerah",
+  "tags": [
+   "nikel",
+   "hilirisasi",
+   "Morowali",
+   "MIND ID"
+  ],
+  "body": [
+   "Diskusi ekonomi bertajuk hilirisasi nikel menyoroti bahwa program pengolahan nikel di dalam negeri mulai terasa dampaknya pada ekonomi daerah penghasil, bukan cuma janji di atas kertas. Direktur Eksekutif Center of Reform on Economics (CORE), Mohammad Faisal, menyebut perubahan ini penting karena menunjukkan hilirisasi sudah masuk ke tahap industri bernilai tambah tinggi seperti baterai kendaraan listrik, bukan lagi sekadar mengekspor bahan setengah jadi.",
+   "Faisal menjelaskan bahwa pada awal 2021-2022, pengolahan nikel nasional umumnya masih berhenti pada produk dasar seperti nickel pig iron dan feronikel. Kini, sejumlah perusahaan di bawah holding tambang BUMN MIND ID sudah mengembangkan pengolahan hingga ke komponen baterai, perkembangan yang menurutnya patut diapresiasi.",
+   "Perubahan itu tercermin pada struktur ekonomi Kabupaten Morowali dan Morowali Utara, Sulawesi Tengah, dua daerah pusat pengolahan nikel. Faisal mencontohkan lebih dari 75 persen ekonomi Morowali kini ditopang sektor industri, padahal sebelumnya lebih dari separuh perekonomian daerah itu masih bertumpu pada sektor primer seperti pertambangan dan pertanian. Morowali Utara mengalami pergeseran serupa, dengan porsi sektor industri yang jauh membesar dibanding sebelumnya.",
+   "Data Badan Pusat Statistik (BPS) menunjukkan produk domestik regional bruto (PDRB) per kapita Morowali naik 23,2 persen sepanjang 2014-2024, sementara Morowali Utara naik 21,8 persen pada periode yang sama. MIND ID disebut terus mendorong pengembangan hilirisasi nikel lanjutan di kedua wilayah tersebut."
+  ],
+  "fotoAdegan": "Industrial nickel smelting plant with workers in protective gear near a glowing furnace tapping molten metal, tropical backdrop",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/03/14/67d45b9a4b2fd-ilustrasi-nikel_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Angka konkretnya: PDRB per kapita, yaitu nilai rata-rata ekonomi yang dihasilkan tiap penduduk di suatu daerah, naik 23,2 persen di Morowali dan 21,8 persen di Morowali Utara dalam sepuluh tahun terakhir, dan struktur ekonomi Morowali kini lebih dari 75 persen berasal dari sektor industri, padahal dulu lebih dari separuhnya masih mengandalkan tambang dan pertanian. Yang merasakan dampak ini terutama warga dan pekerja di dua kabupaten Sulawesi Tengah itu, seiring pabrik pengolahan nikel yang kini sudah sampai membuat komponen baterai, bukan sekadar bijih nikel setengah jadi. Arahnya terlihat jelas: makin jauh nikel diolah di dalam negeri, makin besar uang yang berputar di daerah penghasilnya, bukan cuma di kantor pusat perusahaan. Tapi baru dua kabupaten ini yang datanya dipaparkan, jadi belum tentu pola serupa terjadi di daerah nikel lain seperti Sulawesi Tenggara atau Maluku Utara. Yang perlu dicermati berikutnya adalah rilis PDRB regional BPS untuk daerah tambang nikel lainnya, untuk melihat apakah kenaikan ekonomi seperti di Morowali ini menyebar atau hanya terjadi di titik-titik yang lebih dulu kedatangan investasi smelter.",
+  "imageV": "mu2o30kr"
  },
  {
   "slug": "pegadaian-kantongi-sertifikasi-iso-untuk-vault-emas",

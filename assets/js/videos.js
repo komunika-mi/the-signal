@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "X4lX10AGJfk",
+  "title": "Antrean Panjang di SPBU Jeneponto akibat Kelangkaan Pertalite",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Kelangkaan BBM jenis Pertalite di Kabupaten Jeneponto, Sulawesi Selatan, membuat antrean kendaraan di sejumlah SPBU mengular hingga ratusan meter dan mengganggu aktivitas masyarakat.",
+  "takeaway": "Gangguan pasokan BBM bersubsidi di daerah menunjukkan persoalan distribusi energi yang berdampak langsung pada roda ekonomi masyarakat setempat.",
+  "terbit": "2026-09-15T13:46:56+00:00"
+ },
+ {
+  "id": "YsZNB9UrGPM",
+  "title": "Kelangkaan Solar di Lampung, Pemprov Usulkan Tambahan Kuota",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Antrean Biosolar kembali mengular di sejumlah SPBU Lampung. Sopir truk dan angkutan harus menunggu berjam-jam, sementara Pemprov Lampung mengusulkan penambahan kuota solar bersubsidi.",
+  "takeaway": "Kelangkaan solar bersubsidi berpotensi mengganggu kelancaran distribusi logistik dan menambah beban biaya operasional sektor transportasi.",
+  "terbit": "2026-09-15T13:44:44+00:00"
+ },
+ {
   "id": "XXQTmitcdwk",
   "title": "Purbaya Mengaku Lega Usai Lepas Jabatan Menkeu",
   "category": "Makroekonomi",

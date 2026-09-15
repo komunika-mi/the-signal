@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "X4lX10AGJfk",
+  "title": "Antrean Panjang di SPBU Jeneponto akibat Kelangkaan Pertalite",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Kelangkaan BBM jenis Pertalite di Kabupaten Jeneponto, Sulawesi Selatan, membuat antrean kendaraan di sejumlah SPBU mengular hingga ratusan meter dan mengganggu aktivitas masyarakat.",
+  "takeaway": "Gangguan pasokan BBM bersubsidi di daerah menunjukkan persoalan distribusi energi yang berdampak langsung pada roda ekonomi masyarakat setempat."
+ },
+ {
+  "id": "YsZNB9UrGPM",
+  "title": "Kelangkaan Solar di Lampung, Pemprov Usulkan Tambahan Kuota",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Antrean Biosolar kembali mengular di sejumlah SPBU Lampung. Sopir truk dan angkutan harus menunggu berjam-jam, sementara Pemprov Lampung mengusulkan penambahan kuota solar bersubsidi.",
+  "takeaway": "Kelangkaan solar bersubsidi berpotensi mengganggu kelancaran distribusi logistik dan menambah beban biaya operasional sektor transportasi."
+ },
+ {
   "id": "XXQTmitcdwk",
   "title": "Purbaya Mengaku Lega Usai Lepas Jabatan Menkeu",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Federasi Bisnis Singapura dan Kadin Indonesia memperdalam kerja sama dagang berbasis kecerdasan buatan untuk membantu pelaku UMKM menangkap peluang pasar.",
   "takeaway": "Kolaborasi ini berpotensi membuka akses pasar baru bagi pelaku UMKM Indonesia melalui teknologi digital."
- },
- {
-  "id": "sy-twhywXj8",
-  "title": "Polemik Desil: Antara Data, Kebijakan, dan Realita",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Diskusi lanjutan soal data desil yang menjadi acuan penyaluran bantuan pemerintah, sementara masyarakat mengeluhkan ketidaksesuaian data dengan kondisi riil.",
-  "takeaway": "Isu ini penting untuk memahami efektivitas penargetan program bantuan sosial berbasis data."
- },
- {
-  "id": "BgSIOz2ROMk",
-  "title": "Ekonom: Polemik Desil Harus Diredam, Bukan Dipicu",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Ekonom menilai polemik data desil untuk penyaluran bantuan pemerintah perlu ditangani hati-hati agar tidak memicu keresahan sosial.",
-  "takeaway": "Pandangan ekonom membantu menilai dampak sosial dari kebijakan berbasis data desil terhadap masyarakat."
  }
 ];

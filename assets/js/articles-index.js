@@ -5,6 +5,92 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-perketat-tata-kelola-ekspor-teknologi-strategis",
+  "category": "Industri",
+  "title": "Indonesia Perketat Tata Kelola [Ekspor] Teknologi Strategis",
+  "deck": "Pemerintah menyiapkan kerangka pengendalian perdagangan barang dan teknologi strategis, seiring ekspor semikonduktor RI melonjak ke US$4,1 miliar pada 2025.",
+  "date": "15 September 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "semikonduktor",
+   "ekspor",
+   "kebijakan perdagangan",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7094/wujudkan-perdagangan-aman-dan-terpercaya-indonesia-perkuat-strategic-trade-management",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "distribusi-b50-tembus-94-persen-spbu-esdm-kejar-tenggat",
+  "category": "Energi",
+  "title": "Distribusi B50 Tembus [94] Persen SPBU, ESDM Kejar Tenggat",
+  "deck": "Hingga pertengahan September, distribusi B50 mencapai 94 persen dari 6.412 SPBU, sementara 28 dari 104 terminal penyalur masih beralih dari B40 sebelum tenggat 30 September.",
+  "date": "15 September 2026",
+  "image": "assets/img/distribusi-b50-tembus-94-persen-spbu-esdm-kejar-tenggat.jpg",
+  "imageV": "mu2tczi1",
+  "tags": [
+   "B50",
+   "biodiesel",
+   "ESDM",
+   "SPBU"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kawal-implementasi-b50-kementerian-esdm-perkuat-uji-teknis-dan-dialog-dengan-industri-otomotif",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "pabrik-pelumas-shell-beroperasi-pasokan-lokal-ke-98",
+  "category": "Industri",
+  "title": "Pabrik Pelumas Shell Beroperasi, Pasokan Lokal ke [98%]",
+  "deck": "Shell mulai mengoperasikan pabrik gemuk/pelumas baru di Indonesia berkapasitas 12 juta liter per tahun, mendorong pasokan pelumas lokal naik ke lebih dari 98 persen.",
+  "date": "15 September 2026",
+  "image": "assets/img/pabrik-pelumas-shell-beroperasi-pasokan-lokal-ke-98.jpg",
+  "imageV": "mu2td6nw",
+  "tags": [
+   "Shell Indonesia",
+   "Manufaktur",
+   "Investasi",
+   "Substitusi Impor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pabrik-grease-shell-mulai-beroperasi-wamendag-roro-momentum-strategis-perkuat-rantai-pasok-domestik",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pertamina-perkuat-diversifikasi-lng-di-gastech-2026",
+  "category": "Energi",
+  "title": "Pertamina Perkuat Diversifikasi [LNG] di Gastech 2026",
+  "deck": "Pertamina memaparkan strategi diversifikasi pasokan LNG domestik dan internasional serta infrastruktur gas dalam forum Gastech 2026 di Bangkok, Thailand.",
+  "date": "15 September 2026",
+  "image": "assets/img/pertamina-perkuat-diversifikasi-lng-di-gastech-2026.jpg",
+  "imageV": "mu2td78z",
+  "tags": [
+   "Pertamina",
+   "LNG",
+   "gas",
+   "ketahanan energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467335-pertamina-terus-perkuat-ketahanan-energi-melalui-integrasi-portofolio-dan-infrastruktur-lng"
+ },
+ {
+  "slug": "telkomsel-genjot-pemasaran-warung-lewat-data-digiads",
+  "category": "Bisnis",
+  "title": "Telkomsel Genjot Pemasaran Warung lewat Data [DigiAds]",
+  "deck": "Telkomsel Enterprise memakai data pelanggan dan jaringan warung DigiPOS untuk menyambungkan iklan digital dengan penjualan di toko, dicoba bersama Rinso di Jawa Barat.",
+  "date": "15 September 2026",
+  "image": "assets/img/telkomsel-genjot-pemasaran-warung-lewat-data-digiads.jpg",
+  "imageV": "mu2td7mj",
+  "tags": [
+   "telkomsel",
+   "digiads",
+   "umkm",
+   "pemasaran digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467327-dari-ponsel-untuk-umkm-telkomsel-enterprise-terus-dorong-pemasaran-yang-lebih-terukur"
+ },
+ {
   "slug": "mendagri-ingatkan-pemda-soal-risiko-obligasi-daerah",
   "category": "Makroekonomi",
   "title": "Mendagri Ingatkan Pemda soal Risiko [Obligasi] Daerah",
@@ -623,7 +709,7 @@ var ARTICLES = [
   "title": "KADI [Selidiki] Dugaan Dumping Baja Impor Tiongkok",
   "deck": "KADI membuka penyelidikan antidumping atas baja lapis seng asal Tiongkok yang menguasai 81 persen impor Indonesia, menyusul aduan dua produsen lokal.",
   "date": "15 September 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "antidumping",
    "baja",
@@ -818,7 +904,7 @@ var ARTICLES = [
   "title": "Patokan Ekspor Emas [Naik] 1,63 Persen per 15 September",
   "deck": "Kemendag menaikkan HPE dan HR emas untuk periode 15-30 September 2026, dasar penghitungan bea keluar dan royalti ekspor emas dari Indonesia.",
   "date": "15 September 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "HPE emas",
    "bea keluar",
@@ -6409,88 +6495,6 @@ var ARTICLES = [
    "Bank Amar Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cefd4a8287_e14aea8c90.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "purbaya-ungkap-strategi-bangun-ekspektasi-usai-demo-besar",
-  "category": "Makroekonomi",
-  "title": "Purbaya Ungkap Strategi Bangun [Ekspektasi] Usai Demo Besar",
-  "deck": "Menkeu Purbaya Yudhi Sadewa mengaku sengaja tampil optimistis untuk membentuk ekspektasi positif pasar setelah demo besar mengguncang awal masa jabatannya.",
-  "date": "8 September 2026",
-  "image": "assets/img/purbaya-ungkap-strategi-bangun-ekspektasi-usai-demo-besar.jpg",
-  "imageV": "mtsktka5",
-  "tags": [
-   "Purbaya Yudhi Sadewa",
-   "Kementerian Keuangan",
-   "kepercayaan investor"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465756-purbaya-curhat-hal-paling-pusing-jadi-menkeu-dari-demo-besar-hingga-gempuran-msci"
- },
- {
-  "slug": "ktp-baru-bakal-otomatis-sertakan-nomor-rekening-bank",
-  "category": "Perbankan",
-  "title": "KTP Baru Bakal Otomatis Sertakan Nomor [Rekening] Bank",
-  "deck": "Pemerintah menyiapkan pembukaan rekening otomatis lewat BRI dan BSI berbasis NIK, agar warga yang genap 17 tahun langsung mendapat KTP sekaligus nomor rekening bank.",
-  "date": "8 September 2026",
-  "image": "assets/img/ktp-baru-bakal-otomatis-sertakan-nomor-rekening-bank.jpg",
-  "imageV": "mtsktkqm",
-  "tags": [
-   "BRI",
-   "BSI",
-   "inklusi keuangan",
-   "rekening bank"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465747-pemerintah-siapkan-rekening-massal-bri-bsi-warga-17-tahun-bakal-dapat-ktp-plus-nomor-rekening"
- },
- {
-  "slug": "ssia-pangkas-target-pendapatan-2026-jadi-rp7-2-triliun",
-  "category": "Aksi Korporasi",
-  "title": "SSIA [Pangkas] Target Pendapatan 2026 jadi Rp7,2 Triliun",
-  "deck": "Public expose tahunan SSIA mengungkap revisi target pendapatan 2026 dari Rp7,5 triliun menjadi Rp7,2 triliun, sementara laba bersih tetap ditarget melonjak 570 persen.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SSIA",
-   "public expose",
-   "target pendapatan",
-   "data center"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/71d5704bbe_0700251c4d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-mandiri-bagi-dividen-interim-rp6-16-triliun",
-  "category": "Perbankan",
-  "title": "Bank Mandiri Bagi [Dividen] Interim Rp6,16 Triliun",
-  "deck": "Bank Mandiri mencairkan dividen interim Rp6,16 triliun atau Rp66 per saham, sementara kredit dan aset tumbuh dua digit hingga Agustus 2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/bank-mandiri-bagi-dividen-interim-rp6-16-triliun.jpg",
-  "imageV": "mtsktl6y",
-  "tags": [
-   "Bank Mandiri",
-   "BMRI",
-   "dividen interim",
-   "kredit perbankan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465738-bank-mandiri-tebar-dividen-rp616-triliun-laba-tembus-rp375-triliun-hingga-agustus-2026"
- },
- {
-  "slug": "zp-sesuaikan-harga-waran-terstruktur-bmri-usai-dividen-interim",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan Harga Waran [Terstruktur] BMRI Usai Dividen Interim",
-  "deck": "Harga pelaksanaan dan rasio konversi BMRIZPCX6A serta BMRIZPCH7A disesuaikan menyusul dividen interim BMRI Rp66 per saham, efektif 16-18 September 2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "waran terstruktur",
-   "BMRI",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6039b34a91_dfb6f974cc.pdf",
   "sourceLabel": "IDX"
  }
 ];

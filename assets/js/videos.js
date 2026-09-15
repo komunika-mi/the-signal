@@ -2,6 +2,42 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "tLiDYgAm13c",
+  "title": "Heri Jufri Terpilih Jadi Ketua Kadin Ende",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Musyawarah Kabupaten Kadin Ende menetapkan Heri Jufri sebagai ketua untuk periode kedua, melanjutkan kepemimpinan organisasi pengusaha di daerah tersebut.",
+  "takeaway": "Pergantian pimpinan Kadin daerah relevan bagi pelaku usaha lokal yang membutuhkan advokasi dan jejaring bisnis.",
+  "terbit": "2026-09-15T08:46:35+00:00"
+ },
+ {
+  "id": "Mus9J4uDlqQ",
+  "title": "Kementan Temukan Beras Fortifikasi Tidak Sesuai Label",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Pertanian menemukan sedikitnya 25 merek beras fortifikasi yang tidak sesuai ketentuan label, menurut Menteri Pertanian Andi Amran Sulaiman.",
+  "takeaway": "Temuan ini penting bagi konsumen dan pelaku usaha beras karena menyangkut kepatuhan standar mutu dan perlindungan pasar.",
+  "terbit": "2026-09-15T08:36:45+00:00"
+ },
+ {
+  "id": "dDcMWN0XStw",
+  "title": "Purbaya Serahkan Jabatan Menteri Keuangan ke Suahasil Nazara",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Purbaya Yudhi Sadewa resmi menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara dalam acara serah terima di Jakarta.",
+  "takeaway": "Pergantian Menteri Keuangan berpotensi memengaruhi arah kebijakan fiskal yang menjadi perhatian pelaku pasar dan dunia usaha.",
+  "terbit": "2026-09-15T08:29:29+00:00"
+ },
+ {
+  "id": "Zg1hXYe0N1E",
+  "title": "Ratusan Kendaraan di Jeneponto Antre Panjang Demi BBM",
+  "category": "Energi",
+  "program": "AKIS tvOne",
+  "summary": "Antrean kendaraan mengular hingga beberapa kilometer di sejumlah SPBU Jeneponto akibat keterbatasan pasokan bahan bakar minyak.",
+  "takeaway": "Kelangkaan BBM di daerah berdampak langsung pada mobilitas warga dan biaya operasional pelaku usaha setempat.",
+  "terbit": "2026-09-15T07:56:32+00:00"
+ },
+ {
   "id": "2KknPsZQs4w",
   "title": "Ekosistem Pangan Sirkular Pondok Pesantren Annuqayah",
   "category": "UMKM",

@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "menaker-ai-di-tempat-kerja-harus-naikkan-produktivitas",
+  "category": "Ketenagakerjaan",
+  "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",
+  "deck": "Menaker Yassierli menyebut AI yang sekadar jadi asisten kerja hanya menaikkan produktivitas sekitar 5 persen, sementara perombakan proses kerja bisa mendongkraknya sampai 40 persen.",
+  "date": "15 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "AI",
+   "Ketenagakerjaan",
+   "Produktivitas",
+   "Kemnaker"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-adopsi-ai-harus-berorientasi-pada-manusia-dan-tingkatkan-produktivitas",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "kementan-bongkar-25-merek-beras-fortifikasi-palsu",
+  "category": "Bisnis",
+  "title": "Kementan Bongkar 25 Merek Beras Fortifikasi [Palsu]",
+  "deck": "Pemerintah menduga 25 merek beras fortifikasi tak sesuai klaim label dan dijual jauh di atas harga acuan, mengancam program gizi kelompok rentan.",
+  "date": "15 September 2026",
+  "image": "assets/img/kementan-bongkar-25-merek-beras-fortifikasi-palsu.jpg",
+  "imageV": "mu2ggt9u",
+  "tags": [
+   "beras fortifikasi",
+   "pemalsuan pangan",
+   "Kementan",
+   "perlindungan konsumen"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467233-pemerintah-temukan-dugaan-pemalsuan-beras-fortifikasi-konsumen-terancam-rugi-rp89-triliun"
+ },
+ {
   "slug": "kadi-selidiki-dugaan-dumping-baja-impor-tiongkok",
   "category": "Industri",
   "title": "KADI [Selidiki] Dugaan Dumping Baja Impor Tiongkok",
@@ -433,7 +466,7 @@ var ARTICLES = [
   "title": "UU PPRT [Atur] Hak dan Kewajiban Pekerja Rumah Tangga",
   "deck": "UU Nomor 2 Tahun 2026 memberi payung hukum bagi pekerja rumah tangga, mengatur upah, jam kerja, THR, jaminan sosial, hingga cara penyelesaian sengketa dengan majikan.",
   "date": "15 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "tags": [
    "PRT",
    "UU PPRT",
@@ -449,7 +482,7 @@ var ARTICLES = [
   "title": "RUU Ketenagakerjaan Masuk Tahap [Panja] di DPR",
   "deck": "Pemerintah menyerahkan Daftar Inventarisasi Masalah RUU Pelindungan Ketenagakerjaan ke DPR, Komisi IX bentuk Panja lanjutkan pembahasan.",
   "date": "15 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "tags": [
    "RUU Ketenagakerjaan",
    "DPR",
@@ -2359,7 +2392,7 @@ var ARTICLES = [
   "title": "Seleksi MagangHub Berlangsung, Hasil Keluar [18 September]",
   "deck": "Seleksi peserta Program Pemagangan Nasional (MagangHub) Batch 2 Angkatan II berlangsung 9-15 September, hasil diumumkan 18 September, magang mulai 21 September 2026.",
   "date": "11 September 2026",
-  "image": "assets/img/bursa-kerja-antre.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "tags": [
    "MagangHub",
    "Kemnaker",
@@ -4387,7 +4420,7 @@ var ARTICLES = [
   "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
   "deck": "Kemnaker, Kementerian Investasi, dan Kementerian Imigrasi menyatukan izin penggunaan tenaga kerja asing dalam satu sistem OSS untuk memangkas proses lintas kementerian.",
   "date": "10 September 2026",
-  "image": "assets/img/gudang-logistik.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "tags": [
    "TKA",
    "OSS",
@@ -6232,7 +6265,7 @@ var ARTICLES = [
   "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
   "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
   "date": "8 September 2026",
-  "image": "assets/img/kantor-startup.jpg",
+  "image": "assets/img/pelatihan-vokasi.jpg",
   "tags": [
    "BUMN",
    "Kemnaker",
@@ -6466,33 +6499,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465631-harga-pangan-nasional-alami-kenaikan-cabai-rawit-merah-tembus-rp91300"
- },
- {
-  "slug": "klbf-laba-turun-2-8-meski-penjualan-naik-14-di-semester-i",
-  "category": "Aksi Korporasi",
-  "title": "KLBF: [Laba] Turun 2,8% Meski Penjualan Naik 14% di Semester I",
-  "deck": "Materi Public Expose Tahunan Kalbe Farma menunjukkan penjualan semester I 2026 naik 14% menjadi Rp19,5 triliun, tapi laba bersih turun 2,8% akibat tekanan margin.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KLBF",
-   "Kalbe Farma",
-   "laporan keuangan",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbc6db9783_8b9c4e8404.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-tipis-ke-rp2-627-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.627.000/Gram",
-  "deck": "Harga emas batangan Antam turun Rp10.000 pada 8 September 2026, sementara harga buyback tertahan di Rp2.480.000 per gram.",
-  "date": "8 September 2026",
-  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-627-000-gram.jpg",
-  "imageV": "mts7ss9q",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465632-turun-rp10000-harga-emas-antam-hari-ini-8-september-2026-jadi-rp2627000-per-gram"
  }
 ];

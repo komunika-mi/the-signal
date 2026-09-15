@@ -140,6 +140,59 @@ var ARTICLES = [
   "imageV": "mu2td78z"
  },
  {
+  "slug": "antm-paparkan-laba-naik-34-dan-capex-rp7-t-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "ANTM Paparkan Laba Naik 34% dan [Capex] Rp7 T di Public Expose",
+  "deck": "Public Expose Live 2026 ANTM merinci laba bersih semester I naik 34 persen jadi Rp6,91 triliun, ditopang emas dan nikel, serta rencana belanja modal Rp7 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T21:18:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d53a1dda1_6aafab19bd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANTM",
+  "tags": [
+   "ANTM",
+   "Antam",
+   "public expose",
+   "hilirisasi nikel"
+  ],
+  "body": [
+   "PT Antam (Persero) Tbk menyampaikan laporan hasil Public Expose Live 2026 yang digelar Bursa Efek Indonesia secara daring lewat Zoom pada 10 September 2026, dihadiri 130 peserta dari perusahaan sekuritas, manajer aset, media, dan investor ritel, serta sesi konferensi pers yang diikuti 62 wartawan. Perseroan diwakili Direktur Keuangan dan Manajemen Risiko Arini Kasmira, Corporate Secretary Division Head Wisnu Danandi Haryanto, dan Investor Relations Bureau Head Muhammad Ihsan Budi Rahman, dengan moderator Wicky Adrian dari IDX Channel.",
+   "Dalam sesi tanya jawab, manajemen memaparkan pendapatan semester I 2026 sebesar Rp62,71 triliun, naik sekitar 6 persen dari Rp59,02 triliun pada semester I 2025, sementara laba bersih melonjak 34 persen dari Rp5,14 triliun menjadi Rp6,91 triliun. Margin laba bersih ikut naik dari 8,7 persen menjadi 11 persen. Manajemen juga membeberkan tren laba bersih semester I dalam tiga tahun terakhir, dari Rp1,51 triliun pada 2024, Rp5,14 triliun pada 2025, hingga Rp6,91 triliun pada 2026. Untuk kebutuhan investasi 2026, Antam menganggarkan belanja modal sekitar Rp7 triliun, dengan porsi terbesar untuk pengembangan rantai nilai nikel, dan menegaskan keputusan investasi final tiap proyek tetap menunggu hasil evaluasi keekonomian.",
+   "Pada segmen emas, volume penjualan semester I 2026 tercatat sekitar 18,1 ton dengan kontribusi pendapatan sekitar Rp50,13 triliun, sementara Logam Mulia diklaim menguasai pangsa pasar domestik sekitar 60 persen dan menjadi satu-satunya refinery emas Indonesia yang masuk daftar LBMA Good Delivery List. Antam tengah menyiapkan fasilitas manufaktur Logam Mulia baru di Gresik dengan proyeksi kapasitas sekitar 30 ton per tahun. Di segmen nikel, produksi bijih semester I 2026 mencapai sekitar 7,78 juta wet metric ton dengan penjualan sekitar 6,77 juta wmt, seluruhnya diserap pasar domestik, sementara hilirisasi diarahkan lewat fasilitas RKEF, HPAL, dan ekosistem baterai kendaraan listrik."
+  ],
+  "fotoAdegan": "Workers in safety gear pouring molten gold into bar molds inside an industrial refinery, warm orange glow lighting the room",
+  "takeaway": "Laporan ini condong positif bagi ANTM karena angka yang dipaparkan menunjukkan perbaikan nyata: laba bersih semester I 2026 naik 34 persen dan margin laba bersih terkerek ke 11 persen, sementara manajemen tetap mengalokasikan belanja modal Rp7 triliun untuk ekspansi, termasuk menambah kapasitas pabrik emas Logam Mulia di Gresik menjadi sekitar 30 ton per tahun. Yang tersentuh di sini adalah arus kas dan struktur permodalan, karena belanja modal sebesar itu berarti sebagian laba dan kas perusahaan dialihkan untuk membangun kapasitas baru, bukan sekadar dibagikan atau disimpan, sehingga pelaku pasar mencermati apakah proyek-proyek itu nantinya benar-benar menghasilkan tambahan pendapatan yang sepadan. Margin laba bersih sendiri penting dipantau karena menunjukkan berapa persen dari setiap rupiah pendapatan yang benar-benar menjadi keuntungan setelah dikurangi semua biaya. Yang perlu dipantau selanjutnya adalah realisasi belanja modal Rp7 triliun sepanjang sisa 2026, terutama kepastian keputusan investasi final proyek hilirisasi nikel dan progres pembangunan fasilitas Logam Mulia Gresik, serta apakah kinerja semester II 2026 bisa mempertahankan laju pertumbuhan laba yang ditunjukkan pada semester pertama.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "epac-pastikan-ada-tender-wajib-pengendali-dalam-12-bulan",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Pastikan Ada [Tender Wajib] Pengendali dalam 12 Bulan",
+  "deck": "Menjawab permintaan penjelasan Bursa, EPAC ungkap penutupan segmen kemasan konvensional, ekspansi dibiayai rights issue dan leasing, serta tender wajib oleh pengendali dalam 12 bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T20:58:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e10612deea_03d505f9a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EPAC",
+  "tags": [
+   "EPAC",
+   "rights issue",
+   "tender wajib",
+   "kemasan fleksibel"
+  ],
+  "body": [
+   "PT Megalestari Epack Sentosaraya Tbk. (EPAC) menyampaikan tanggapan resmi atas surat permintaan penjelasan Bursa Efek Indonesia nomor S-11896/BEI.PP3/09-2026 tertanggal 11 September 2026, yang mempertanyakan rencana penghentian segmen usaha kemasan fleksibel konvensional dan rencana ekspansi perusahaan. Tanggapan ditandatangani oleh Nicky Gunhadi, Direktur Keuangan EPAC, pada 15 September 2026.",
+   "Soal penghentian segmen kemasan konvensional, manajemen menegaskan tidak ada risiko gangguan kelangsungan usaha. Operasi akan difokuskan pada kemasan fleksibel berteknologi digital printing melalui anak usaha PT Epac Flexibles Indonesia, dengan proyeksi performa yang lebih baik. Perusahaan belum punya rencana menjual aset dari segmen yang dihentikan dan masih mengevaluasinya, serta menyatakan penghentian ini tidak masuk kategori Transaksi Material maupun Transaksi Afiliasi karena tidak melibatkan jual beli aset dengan pihak mana pun, sehingga tidak ada kantor jasa penilai publik yang ditunjuk. Perusahaan juga memastikan akan memenuhi kewajiban ketenagakerjaan bagi pekerja terdampak dan tidak akan melakukan likuidasi usaha.",
+   "Berbeda dengan penghentian segmen, rencana ekspansi justru dinyatakan memenuhi ambang batas Transaksi Material sesuai POJK No. 17/2020, sehingga EPAC akan mengikuti seluruh prosedur yang diwajibkan aturan tersebut. Dana untuk belanja modal ekspansi akan diperoleh dari leasing dan rights issue, yang detailnya akan dimintakan persetujuan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) dalam waktu dekat. Perusahaan menegaskan ekspansi ini tidak menambah bidang usaha baru dan akan tunduk pada izin lingkungan, bangunan, serta keselamatan kerja di fasilitas produksi baru.",
+   "Poin yang mencuat dalam dokumen ini adalah kepastian bahwa dalam 12 bulan ke depan akan ada Penawaran Tender Wajib yang dilakukan oleh Pengendali perusahaan, sesuai kewajiban dalam Pasal 13 ayat 3 POJK No. 9/2018 tentang Pengambilalihan Perusahaan Terbuka, menyusul pemberitahuan resmi yang akan disampaikan. EPAC menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik dan mempersilakan pemegang saham merujuk pada keterbukaan informasi di IDXnet atau menghubungi corsec@epack.co.id untuk pertanyaan lanjutan."
+  ],
+  "fotoAdegan": "Workers monitoring a flexible packaging printing machine with plastic film rolls on an industrial factory floor in Indonesia",
+  "takeaway": "Laporan ini saya nilai netral, dengan catatan ada dua hal yang perlu dicermati pemegang saham, bukan sekadar penjelasan administratif biasa. Ekspansi EPAC akan dibiayai lewat rights issue, yaitu penerbitan saham baru yang ditawarkan lebih dulu ke pemegang saham lama; kalau pemegang saham lama tidak ikut menebus jatahnya, porsi kepemilikan dan laba per sahamnya bisa terdilusi karena jumlah saham beredar bertambah. Leasing untuk membiayai ekspansi juga berarti tambahan kewajiban sewa jangka panjang yang membebani arus kas ke depan. Yang paling perlu dipantau adalah dua peristiwa konkret yang disebut dalam surat ini: RUPSLB yang akan menyetujui detail rights issue, yang menurut EPAC bakal digelar dalam waktu dekat namun belum ada tanggal pasti, dan Penawaran Tender Wajib oleh pengendali perusahaan yang menurut aturan POJK No. 9/2018 harus terlaksana dalam 12 bulan sejak pemberitahuan, menandakan sedang berlangsung perubahan pemegang saham pengendali di EPAC.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "telkomsel-genjot-pemasaran-warung-lewat-data-digiads",
   "category": "Bisnis",
   "title": "Telkomsel Genjot Pemasaran Warung lewat Data [DigiAds]",
@@ -165,6 +218,110 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah fungsi jaringan warung mitra Telkomsel, DigiPOS, yang tadinya dikenal sebagai tempat isi pulsa, kini juga dipakai jadi titik distribusi sampel produk yang aktivitasnya bisa dilacak lewat pesan ke ponsel pelanggan. Yang terdampak langsung adalah merek consumer goods seperti Rinso yang kesulitan menjangkau pasar tradisional secara merata, sekaligus pemilik warung yang perlahan ditarik masuk ke ekosistem pemasaran digital semacam ini. Berita ini belum menyebut berapa banyak warung yang ikut program di Jawa Barat, berapa sampel yang ditukar, atau apakah penjualan Rinso di wilayah itu benar naik setelah program berjalan, jadi belum bisa disimpulkan apakah model ini efektif atau masih tahap uji coba. Yang perlu ditunggu adalah data hasil kampanye ini serta apakah Telkomsel dan mitra mereknya membuka angka cakupan atau kenaikan penjualan, karena itu yang akan menentukan apakah pendekatan serupa layak diperluas ke merek atau daerah lain.",
   "imageV": "mu2td7mj"
+ },
+ {
+  "slug": "raja-beber-rencana-pipa-bbm-rp1-5-triliun-dan-ipo-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Beber Rencana Pipa BBM [Rp1,5 Triliun] dan IPO Anak Usaha",
+  "deck": "Hasil Public Expose Tahunan RAJA mengungkap rencana investasi pipa BBM Balsam, akuisisi kapal LNG/LPG, dan IPO anak usaha, di tengah target pertumbuhan kinerja 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T20:24:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3dabc6ef9a_e9e12656f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAJA",
+  "tags": [
+   "RAJA",
+   "Rukun Raharja",
+   "Public Expose",
+   "FLNG"
+  ],
+  "body": [
+   "Rukun Raharja Tbk (RAJA) melalui Corporate Secretary Yuni Pattinasarani menyampaikan koreksi atas suratnya sebelumnya dan melaporkan hasil Public Expose Tahunan yang digelar Kamis, 10 September 2026 pukul 16.00-17.00 WIB secara live bersama Bursa Efek Indonesia dalam rangkaian Public Expose Live 2026. Acara dihadiri 100 investor di luar manajemen dan karyawan perseroan, dengan manajemen yang hadir yaitu Direktur Utama Djauhar Maulidi, Direktur Ogi Rulino, dan Direktur Praba Diwangkara.",
+   "Dalam sesi tanya jawab, manajemen menjelaskan alasan RAJA mengambil alih 5 persen kepemilikan pada proyek Floating LNG (FLNG) milik Grup Genting, yaitu proyek FLNG pertama di Indonesia dan menjadi pintu masuk RAJA ke infrastruktur LNG di sektor midstream. Nilai investasi untuk 5 persen saham di proyek Genting Downstream itu disebut sekitar US$46 juta. Perseroan menyatakan akan mencermati perkembangan proyek terlebih dahulu sebelum memutuskan menambah porsi kepemilikan, dan tidak menutup rencana mengakuisisi perusahaan pelayaran pengangkut LNG dan LPG untuk melengkapi rantai pasoknya, yang menurut manajemen disiapkan karena sumber gas terkonsentrasi di wilayah timur Indonesia sementara pasar berada di barat.",
+   "Untuk proyek pipa BBM Balsam yang sudah masuk tahap lebih matang, manajemen menyebut estimasi nilai investasi sekitar Rp1,5 triliun dengan potensi rata-rata EBITDA sekitar Rp260 miliar per tahun, didanai kombinasi dana internal dan eksternal. Perseroan menargetkan pendapatan, EBITDA, dan laba tahun 2026 tumbuh dibandingkan tahun sebelumnya, ditopang kontribusi penuh proyek kompresor gas Sengkang yang beroperasi komersial sejak Desember 2025 serta akuisisi Blok Madura. Perseroan juga mengonfirmasi rencana IPO salah satu anak usaha, namun belum bisa memastikan jadwal pencatatan karena masih bergantung pada kesiapan internal dan kondisi pasar modal."
+  ],
+  "fotoAdegan": "Workers welding large steel pipeline sections at an onshore gas facility construction site, sparks visible, industrial cranes overhead",
+  "takeaway": "Paparan ini condong positif bagi RAJA karena manajemen memberi angka konkret di balik strategi ekspansinya: proyek pipa Balsam senilai Rp1,5 triliun diproyeksikan menghasilkan EBITDA sekitar Rp260 miliar per tahun, dan perseroan menegaskan target pendapatan, EBITDA, serta laba 2026 naik dibanding tahun lalu. Pos yang perlu dicermati investor adalah arus kas dan beban bunga, sebab sebagian investasi ini didanai dari sumber eksternal alias utang, sementara rencana IPO anak usaha bisa mendatangkan dana segar baru tanpa menambah jumlah saham RAJA sendiri di bursa. Karena sebagian besar rencana ini, termasuk akuisisi kapal dan IPO anak usaha, masih dalam tahap pematangan tanpa jadwal pasti, sinyal positifnya baru bersifat arah kebijakan, bukan kepastian angka. Yang perlu dipantau berikutnya adalah realisasi target pertumbuhan itu dalam laporan keuangan tahun buku 2026, serta perkembangan lanjutan rencana IPO anak usaha dan progres pembangunan pipa Balsam yang akan diumumkan menyusul kemajuan proyek.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "arto-resmikan-nicholas-tan-yanming-jadi-direktur-retail-banking",
+  "category": "Aksi Korporasi",
+  "title": "ARTO Resmikan [Nicholas Tan Yanming] Jadi Direktur Retail Banking",
+  "deck": "Bank Jago mengefektifkan penambahan satu direktur baru untuk bisnis retail banking, setelah disetujui OJK dan RUPST Mei lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T19:30:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/48d5792c66_2183c05673.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARTO",
+  "tags": [
+   "ARTO",
+   "Bank Jago",
+   "Direksi",
+   "OJK"
+  ],
+  "body": [
+   "PT Bank Jago Tbk (ARTO) resmi mengangkat Nicholas Tan Yanming sebagai Direktur Retail Banking Business, efektif sejak 9 September 2026. Pengangkatan ini menindaklanjuti keputusan Agenda 6 Rapat Umum Pemegang Saham Tahunan (RUPST) pada 11 Mei 2026, yang baru bisa dijalankan setelah Otoritas Jasa Keuangan menerbitkan surat persetujuan hasil uji kemampuan dan kepatutan (fit and proper test) bernomor KEPR-150/D.03/2026 pada 2 September 2026. Keputusan rapat perusahaan lalu dituangkan dalam Akta Notaris Nomor 108 tanggal 9 September 2026.",
+   "Dengan penambahan ini, susunan Direksi Bank Jago menjadi enam orang: Arief Harris Tandjung sebagai Direktur Utama, Tjit Siat Fun sebagai Direktur Kepatuhan, Sonny Christian Joseph, Umakanth Rama Pai, Supranoto Prajogo, dan Nicholas Tan Yanming di posisi baru Direktur Retail Banking Business. Susunan Dewan Komisaris tidak berubah, yaitu Jerry Ng sebagai Komisaris Utama, Anika Faisal sebagai Komisaris, serta Arief T. Surowidjojo dan Mahdi Syahbuddin sebagai Komisaris Independen. Dewan Pengawas Syariah juga tetap terdiri dari Yulizar Djamaluddin Sanrego sebagai Ketua, dengan Muhammad Maksum dan Sutan Emir Hidayat sebagai anggota.",
+   "Dalam laporannya kepada Bursa Efek Indonesia, manajemen Bank Jago menyatakan perubahan pengurus ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Bank employees assisting customers at a retail banking service counter inside a modern branch in Jakarta, soft daylight",
+  "takeaway": "Laporan ini netral bagi Bank Jago, sebab isinya adalah eksekusi keputusan yang sudah disetujui pemegang saham sejak RUPST Mei lalu, bukan perubahan strategi baru, dan hanya menunggu izin resmi dari OJK. Yang tersentuh di sini adalah struktur manajemen, bukan langsung ke laba atau arus kas, tapi posisi direktur retail banking baru ini relevan karena unit itu yang mengurus kredit dan simpanan nasabah perorangan, sehingga cara direktur baru menjalankan strategi ritel bisa memengaruhi pertumbuhan dana pihak ketiga dan kredit ke depan. Uji kemampuan dan kepatutan yang disebut dalam dokumen adalah pemeriksaan rekam jejak dan kompetensi oleh OJK sebelum seseorang boleh menjabat direktur bank, jadi persetujuannya jadi syarat wajib sebelum pengangkatan bisa berlaku efektif. Yang perlu dipantau selanjutnya adalah bagaimana kinerja segmen retail banking Bank Jago pada laporan keuangan kuartal berikutnya, untuk melihat apakah penambahan direktur ini diikuti perubahan arah bisnis ritel perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inco-paparkan-public-expose-capex-capai-us-700-juta-2026",
+  "category": "Aksi Korporasi",
+  "title": "INCO Paparkan Public Expose, [Capex] Capai US$700 Juta 2026",
+  "deck": "Public expose tahunan Vale Indonesia mengungkap capex 2026 sekitar US$700 juta, kas cuma US$111 juta di semester I, dan dividen belum jadi prioritas selama masa ekspansi 2026-2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T19:20:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/73f697eb7e_dea0cc751f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INCO",
+  "tags": [
+   "INCO",
+   "Vale Indonesia",
+   "Public Expose",
+   "HPAL"
+  ],
+  "body": [
+   "PT Vale Indonesia Tbk (INCO) menggelar public expose tahunan dan konferensi pers di Jakarta pada 10 September 2026, dihadiri 193 peserta di luar jajaran manajemen dan karyawan perseroan. Sesi dibuka moderator dari Bursa Efek Indonesia pukul 11.00 WIB dan ditutup pukul 12.00 WIB, dengan Presiden Direktur dan Chief Executive Officer Bernardus Irmanto, Wakil Presiden Direktur dan Chief Operation and Infrastructure Officer Abu Ashar, Direktur dan Chief Project Officer Muhammad Asril, serta Direktur dan Chief Financial Officer Rizky Andhika Putra menjawab langsung pertanyaan investor dan media.",
+   "Dari sisi operasi, manajemen menyebut Furnace 3 Rebuild di Sorowako sudah rampung sejak Juni 2026 dan kadar nikel hasil tambang berada di sekitar 1,82 persen, level tertinggi dalam tiga tahun terakhir. Dengan kondisi itu, perseroan optimistis target produksi 2026 sebesar 67.645 metrik ton nickel matte tetap tercapai. Untuk proyek HPAL Pomalaa, fasilitas sudah masuk tahap commissioning dengan first feed dijadwalkan mulai 15 September 2026, dan mechanical completion yang semula ditargetkan Desember kini berpotensi maju dua hingga tiga bulan menjadi September atau Oktober, menuju kapasitas penuh sekitar 120.000 ton MHP pada 2027. Di Morowali, progres HPAL mencapai sekitar 36 persen pada semester pertama dengan dua autoclave sudah tiba di lokasi, mechanical completion line pertama ditargetkan akhir 2026 menuju kapasitas 60.000 hingga 66.000 ton MHP, sementara di Sorowako pembangunan slurry pipeline sepanjang sekitar 60 kilometer dan jetty untuk mendukung HPAL masih berjalan.",
+   "Dari sisi keuangan, Chief Financial Officer Rizky Andhika Putra mengungkapkan kas dan setara kas perseroan per semester I 2026 tinggal US$111 juta, sementara total belanja modal tahun ini diperkirakan hampir US$700 juta. Kebutuhan investasi diproyeksikan memuncak pada 2027 menjadi sekitar US$1,1 miliar terutama untuk pembangunan fasilitas HPAL baru, lalu turun ke sekitar US$800 juta pada 2028. Perseroan sudah mengantongi committed standby facility berupa Sustainability-Linked Loan senilai US$750 juta, namun manajemen menegaskan fasilitas itu baru menutup sebagian kebutuhan sehingga pendanaan tambahan masih akan dicari secara bertahap. Soal dividen, manajemen menyatakan fokus 2026-2027 tetap pada penyelesaian proyek pertumbuhan tepat waktu dan sesuai anggaran, sementara keputusan pembagian dividen tahun buku 2026 akan terus dievaluasi berkala dengan mempertimbangkan pergerakan harga, efisiensi pendanaan, dan efisiensi belanja modal."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting large industrial pipelines at a nickel ore processing site, steam rising, tropical daylight",
+  "takeaway": "Paparan publik ini netral bagi fundamental Vale Indonesia, karena kabar baik dari sisi operasi, seperti kadar nikel tertinggi dalam tiga tahun dan proyek HPAL yang lebih cepat dari jadwal, diimbangi oleh tekanan pendanaan yang nyata dari angka yang diungkap manajemen sendiri. Yang tersentuh di sini adalah arus kas dan struktur pendanaan: kas perusahaan cuma US$111 juta sementara kebutuhan belanja modal mencapai hampir US$700 juta tahun ini dan diperkirakan naik ke US$1,1 miliar pada 2027, sedangkan fasilitas pinjaman US$750 juta yang sudah dikantongi diakui manajemen baru menutup sebagian kebutuhan itu, sehingga ada risiko dana tambahan nanti dicari lewat utang baru atau penerbitan saham yang bisa menambah jumlah saham beredar dan mengurangi bagian laba per pemegang saham lama. Dividen tahun buku 2026 juga belum jadi prioritas karena perseroan masih di masa ekspansi, sehingga pemegang saham yang menanti dividen rutin perlu bersabar lebih lama. Yang perlu dipantau berikutnya adalah realisasi first feed HPAL Pomalaa yang menurut manajemen dimulai 15 September 2026, mechanical completion HPAL Morowali yang ditargetkan akhir 2026, serta pengumuman sumber pendanaan tambahan yang disebut akan menyusul bertahap mengikuti pencapaian milestone proyek.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dpum-tegaskan-tak-ada-info-baru-selain-rencana-mto",
+  "category": "Aksi Korporasi",
+  "title": "DPUM Tegaskan Tak Ada Info Baru Selain Rencana [MTO]",
+  "deck": "Menjawab permintaan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, DPUM menegaskan tidak ada fakta material lain selain pengambilalihan oleh PT Rama Indonesia dan rencana penawaran tender wajib.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T19:11:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f94b9e212c_977f3fa85f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DPUM",
+  "tags": [
+   "DPUM",
+   "akuisisi",
+   "tender offer",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Dua Putra Utama Makmur Tbk (DPUM) menjawab surat Bursa Efek Indonesia nomor S-11648/BEI.PP3/09-2026 tertanggal 11 September 2026 yang meminta penjelasan atas volatilitas transaksi saham perseroan. Jawaban disampaikan lewat surat nomor 048/Corsec-DPUM/IX/2026 yang ditandatangani Direktur Utama Bambang Panca Putra dan diketahui Corporate Secretary Mohammad Nur Hasan pada 15 September 2026, dengan tembusan ke Dewan Komisaris dan pemegang saham utama.",
+   "Dalam surat itu, DPUM menyatakan tidak mengetahui adanya informasi atau fakta material lain yang bisa memengaruhi nilai maupun harga sahamnya, selain informasi yang sudah diumumkan sebelumnya soal pengambilalihan saham perseroan oleh PT Rama Indonesia dan rencana Penawaran Tender Wajib atau Mandatory Tender Offer (MTO). Perseroan juga menyatakan sejak tanggal efektif pengambilalihan tersebut sampai saat surat ini dibuat, tidak ada informasi soal perubahan kepemilikan saham dari pemegang saham tertentu maupun aktivitas penjaminan saham lainnya.",
+   "DPUM menambahkan bahwa dalam tiga bulan ke depan perseroan tidak memiliki rencana tindakan korporasi yang akan berdampak pada status pencatatan sahamnya di bursa. Perseroan juga sudah mengonfirmasi langsung ke pemegang saham utama, dan hasilnya tidak ada rencana perubahan kepemilikan saham dari pihak tersebut saat ini."
+  ],
+  "fotoAdegan": "Workers sorting and packing frozen shrimp on a stainless steel line inside a seafood processing plant, cold storage doors in background",
+  "takeaway": "Isi surat ini netral bagi penilaian fundamental DPUM karena intinya hanya menegaskan ulang bahwa tidak ada informasi baru di luar yang sudah diumumkan sebelumnya, yaitu pengambilalihan oleh PT Rama Indonesia dan rencana penawaran tender wajib. Yang tersentuh di sini bukan laporan keuangan, melainkan struktur kepemilikan dan hak suara, sebab pengambilalihan oleh pemegang saham pengendali baru biasanya diikuti kewajiban membeli sisa saham publik lewat penawaran tender wajib, sebuah mekanisme yang memberi pemegang saham minoritas opsi untuk melepas sahamnya dengan harga yang diatur regulator. Surat ini sendiri tidak menyebutkan harga maupun jadwal penawaran tender itu, jadi yang perlu ditunggu pasar adalah pengumuman resmi berikutnya soal harga dan tenggat pelaksanaan Mandatory Tender Offer tersebut.",
+  "sentimen": "netral"
  },
  {
   "slug": "mendagri-ingatkan-pemda-soal-risiko-obligasi-daerah",

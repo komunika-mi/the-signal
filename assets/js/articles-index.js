@@ -90,6 +90,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467335-pertamina-terus-perkuat-ketahanan-energi-melalui-integrasi-portofolio-dan-infrastruktur-lng"
  },
  {
+  "slug": "antm-paparkan-laba-naik-34-dan-capex-rp7-t-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "ANTM Paparkan Laba Naik 34% dan [Capex] Rp7 T di Public Expose",
+  "deck": "Public Expose Live 2026 ANTM merinci laba bersih semester I naik 34 persen jadi Rp6,91 triliun, ditopang emas dan nikel, serta rencana belanja modal Rp7 triliun.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANTM",
+   "Antam",
+   "public expose",
+   "hilirisasi nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d53a1dda1_6aafab19bd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "epac-pastikan-ada-tender-wajib-pengendali-dalam-12-bulan",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Pastikan Ada [Tender Wajib] Pengendali dalam 12 Bulan",
+  "deck": "Menjawab permintaan penjelasan Bursa, EPAC ungkap penutupan segmen kemasan konvensional, ekspansi dibiayai rights issue dan leasing, serta tender wajib oleh pengendali dalam 12 bulan ke depan.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EPAC",
+   "rights issue",
+   "tender wajib",
+   "kemasan fleksibel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e10612deea_03d505f9a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkomsel-genjot-pemasaran-warung-lewat-data-digiads",
   "category": "Bisnis",
   "title": "Telkomsel Genjot Pemasaran Warung lewat Data [DigiAds]",
@@ -105,6 +137,70 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467327-dari-ponsel-untuk-umkm-telkomsel-enterprise-terus-dorong-pemasaran-yang-lebih-terukur"
+ },
+ {
+  "slug": "raja-beber-rencana-pipa-bbm-rp1-5-triliun-dan-ipo-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Beber Rencana Pipa BBM [Rp1,5 Triliun] dan IPO Anak Usaha",
+  "deck": "Hasil Public Expose Tahunan RAJA mengungkap rencana investasi pipa BBM Balsam, akuisisi kapal LNG/LPG, dan IPO anak usaha, di tengah target pertumbuhan kinerja 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAJA",
+   "Rukun Raharja",
+   "Public Expose",
+   "FLNG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3dabc6ef9a_e9e12656f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arto-resmikan-nicholas-tan-yanming-jadi-direktur-retail-banking",
+  "category": "Aksi Korporasi",
+  "title": "ARTO Resmikan [Nicholas Tan Yanming] Jadi Direktur Retail Banking",
+  "deck": "Bank Jago mengefektifkan penambahan satu direktur baru untuk bisnis retail banking, setelah disetujui OJK dan RUPST Mei lalu.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARTO",
+   "Bank Jago",
+   "Direksi",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/48d5792c66_2183c05673.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inco-paparkan-public-expose-capex-capai-us-700-juta-2026",
+  "category": "Aksi Korporasi",
+  "title": "INCO Paparkan Public Expose, [Capex] Capai US$700 Juta 2026",
+  "deck": "Public expose tahunan Vale Indonesia mengungkap capex 2026 sekitar US$700 juta, kas cuma US$111 juta di semester I, dan dividen belum jadi prioritas selama masa ekspansi 2026-2027.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INCO",
+   "Vale Indonesia",
+   "Public Expose",
+   "HPAL"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/73f697eb7e_dea0cc751f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dpum-tegaskan-tak-ada-info-baru-selain-rencana-mto",
+  "category": "Aksi Korporasi",
+  "title": "DPUM Tegaskan Tak Ada Info Baru Selain Rencana [MTO]",
+  "deck": "Menjawab permintaan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, DPUM menegaskan tidak ada fakta material lain selain pengambilalihan oleh PT Rama Indonesia dan rencana penawaran tender wajib.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DPUM",
+   "akuisisi",
+   "tender offer",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f94b9e212c_977f3fa85f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "mendagri-ingatkan-pemda-soal-risiko-obligasi-daerah",
@@ -6398,102 +6494,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/568a02c46f_5906b7a305.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "medp-baru-pakai-13-dana-obligasi-rp500-miliar-per-juni-2026",
-  "category": "Aksi Korporasi",
-  "title": "MEDP baru pakai [13%] dana obligasi Rp500 miliar per Juni 2026",
-  "deck": "MEDP baru merealisasikan Rp66,2 miliar dari Rp493,42 miliar dana obligasi untuk eksplorasi panas bumi di Bonjol, Sumatera Barat. Sisanya masih mengendap di tabungan bank.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDP",
-   "obligasi",
-   "panas bumi",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e30b85719_20a906d818.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medp-rampungkan-realisasi-dana-sukuk-rp1-15-triliun-ke-utang",
-  "category": "Aksi Korporasi",
-  "title": "MEDP rampungkan realisasi dana sukuk Rp1,15 triliun ke [utang]",
-  "deck": "MEDP melaporkan ke OJK bahwa dana Rp1,15 triliun dari sukuk wakalah tahap IV telah habis terpakai untuk melunasi lima utang lama per 30 Juni 2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDP",
-   "sukuk wakalah",
-   "pelunasan utang",
-   "energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1b580dd053_d68c8bb59a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmas-rights-issue-rp1-triliun-untuk-kredit",
-  "category": "Aksi Korporasi",
-  "title": "BMAS Rights Issue Rp1 Triliun untuk [Kredit]",
-  "deck": "Bank Kasikorn Indonesia menawarkan 2,87 miliar saham baru lewat rights issue seharga Rp350 per saham, menghimpun Rp1,01 triliun untuk modal kerja penyaluran kredit.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "rights issue",
-   "HMETD",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b62aa261ce_90ae365115.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uang-tegaskan-tak-ada-info-baru-rights-issue-masih-tertunda",
-  "category": "Aksi Korporasi",
-  "title": "UANG Tegaskan Tak Ada Info Baru, [Rights Issue] Masih Tertunda",
-  "deck": "PT Pakuan Tbk menjawab permintaan penjelasan BEI atas volatilitas sahamnya, sambil mengonfirmasi rencana rights issue hingga 1,21 miliar saham belum juga bergerak maju.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UANG",
-   "PT Pakuan Tbk",
-   "rights issue",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8d18aad62d_4efb155f9c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "purbaya-klaim-aliran-uang-ke-ekonomi-ri-mulai-pulih",
-  "category": "Moneter",
-  "title": "Purbaya Klaim Aliran Uang ke Ekonomi RI Mulai [Pulih]",
-  "deck": "Menkeu Purbaya menyebut aliran uang ke ekonomi mulai normal sejak Juli, setelah sempat tersendat pada April-Juni 2026.",
-  "date": "8 September 2026",
-  "image": "assets/img/purbaya-klaim-aliran-uang-ke-ekonomi-ri-mulai-pulih.jpg",
-  "imageV": "mtsmsj7u",
-  "tags": [
-   "Purbaya Yudhi Sadewa",
-   "Kementerian Keuangan",
-   "Bank Indonesia",
-   "Uang Beredar"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465777-purbaya-klaim-uang-mulai-banjiri-ekonomi-ri-lagi-dampaknya-segera-dirasakan-masyarakat"
- },
- {
-  "slug": "insw-perluas-cakupan-layanan-ekspor-impor-digital",
-  "category": "Bisnis",
-  "title": "INSW [Perluas] Cakupan Layanan Ekspor Impor Digital",
-  "deck": "Kemenko Perekonomian melaporkan perluasan sistem satu pintu ekspor impor ke puluhan pelabuhan dan bandara, sambil menyiapkan aturan baru soal ekspor komoditas strategis.",
-  "date": "8 September 2026",
-  "image": "assets/img/warung-makan.jpg",
-  "tags": [
-   "INSW",
-   "Kemenko Perekonomian",
-   "SIMBARA",
-   "logistik"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7084/tingkatkan-efisiensi-logistik-dan-tata-kelola-perdagangan-melalui-optimalisasi-sistem-indonesia-national-single-window",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

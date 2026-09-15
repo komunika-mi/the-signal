@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "XXQTmitcdwk",
+  "title": "Purbaya Mengaku Lega Usai Lepas Jabatan Menkeu",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Purbaya Yudhi Sadewa mengaku bisa lebih tenang setelah menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara.",
+  "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan perlu dicermati karena berkaitan dengan arah kebijakan fiskal ke depan."
+ },
+ {
+  "id": "RQ-a1erV1UQ",
+  "title": "Sertijab Menteri Keuangan dari Purbaya ke Suahasil Nazara",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Purbaya Yudhi Sadewa resmi menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara dan berencana menikmati waktu luang di rumah.",
+  "takeaway": "Transisi kepemimpinan Kementerian Keuangan relevan bagi pembaca yang mencermati kesinambungan kebijakan fiskal."
+ },
+ {
   "id": "tLiDYgAm13c",
   "title": "Heri Jufri Terpilih Jadi Ketua Kadin Ende",
   "category": "Bisnis",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Ekonom menilai polemik data desil untuk penyaluran bantuan pemerintah perlu ditangani hati-hati agar tidak memicu keresahan sosial.",
   "takeaway": "Pandangan ekonom membantu menilai dampak sosial dari kebijakan berbasis data desil terhadap masyarakat."
- },
- {
-  "id": "sn-PhvAmsCI",
-  "title": "Moskow Perkuat Kerja Sama Pariwisata dengan Indonesia",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Komite Pariwisata Kota Moskow menggelar misi bisnis di Jakarta untuk memperluas hubungan pariwisata sekaligus memperkuat kerja sama dengan Indonesia.",
-  "takeaway": "Misi bisnis lintas negara ini penting disimak karena berpotensi membuka peluang kerja sama dagang dan investasi di sektor pariwisata kedua negara."
- },
- {
-  "id": "gHPBLC9HNa4",
-  "title": "Kuota FLPP Naik Jadi 350 Ribu Unit, Perluas Akses Rumah Subsidi",
-  "category": "Perbankan",
-  "program": "Kabar Pagi",
-  "summary": "Pemerintah menaikkan kuota Fasilitas Likuiditas Pembiayaan Perumahan tahun 2026 menjadi 350 ribu unit untuk memperluas akses masyarakat terhadap rumah subsidi.",
-  "takeaway": "Kenaikan kuota FLPP relevan bagi pembaca karena berdampak langsung pada sektor pembiayaan perumahan dan daya beli masyarakat berpenghasilan rendah."
  }
 ];

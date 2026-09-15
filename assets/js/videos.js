@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "XXQTmitcdwk",
+  "title": "Purbaya Mengaku Lega Usai Lepas Jabatan Menkeu",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Purbaya Yudhi Sadewa mengaku bisa lebih tenang setelah menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara.",
+  "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan perlu dicermati karena berkaitan dengan arah kebijakan fiskal ke depan.",
+  "terbit": "2026-09-15T11:05:03+00:00"
+ },
+ {
+  "id": "RQ-a1erV1UQ",
+  "title": "Sertijab Menteri Keuangan dari Purbaya ke Suahasil Nazara",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Purbaya Yudhi Sadewa resmi menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara dan berencana menikmati waktu luang di rumah.",
+  "takeaway": "Transisi kepemimpinan Kementerian Keuangan relevan bagi pembaca yang mencermati kesinambungan kebijakan fiskal.",
+  "terbit": "2026-09-15T10:36:39+00:00"
+ },
+ {
   "id": "tLiDYgAm13c",
   "title": "Heri Jufri Terpilih Jadi Ketua Kadin Ende",
   "category": "Bisnis",

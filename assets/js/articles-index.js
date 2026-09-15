@@ -5,6 +5,72 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-tetapkan-26-hari-libur-nasional-dan-cuti-bersama-2027",
+  "category": "Ketenagakerjaan",
+  "title": "Pemerintah Tetapkan [26] Hari Libur Nasional dan Cuti Bersama 2027",
+  "deck": "SKB Tiga Menteri menetapkan 18 hari libur nasional dan 8 hari cuti bersama untuk 2027, total 26 hari, sekaligus mengatur ketentuan lembur dan cuti tahunan bagi pekerja.",
+  "date": "15 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "Libur Nasional 2027",
+   "Cuti Bersama",
+   "Kemnaker",
+   "Idulfitri"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/pemerintah-tetapkan-18-hari-libur-nasional-dan-8-hari-cuti-bersama-tahun-2027",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "bioetanol-lampung-ditarget-produksi-desember-2026",
+  "category": "Energi",
+  "title": "Bioetanol Lampung Ditarget Produksi [Desember 2026]",
+  "deck": "Kementerian Investasi/BKPM, Pertamina, dan Toyota membangun pusat pengembangan bioetanol di Lampung, kapasitas awal 60 kiloliter, target produksi Desember 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/spbu-bbm.jpg",
+  "tags": [
+   "bioetanol",
+   "BKPM",
+   "Pertamina",
+   "Lampung"
+  ],
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-resmikan-peluncuran-bioethanol-development-center-di-lampung",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "pegadaian-kantongi-sertifikasi-iso-untuk-vault-emas",
+  "category": "BUMN",
+  "title": "Pegadaian Kantongi Sertifikasi [ISO] untuk Vault Emas",
+  "deck": "PT Pegadaian meraih sertifikasi ISO 9001:2015 untuk layanan kustodi emas, menandai standar pengelolaan vault yang diakui setara standar internasional.",
+  "date": "15 September 2026",
+  "image": "assets/img/pegadaian-kantongi-sertifikasi-iso-untuk-vault-emas.jpg",
+  "imageV": "mu2lv6sm",
+  "tags": [
+   "pegadaian",
+   "iso 9001",
+   "kustodi emas",
+   "bumn"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467286-pegadaian-raih-sertifikasi-iso-90012015-perkuat-keamanan-vault-berstandar-global"
+ },
+ {
+  "slug": "ptpn-gandeng-kuab-kembangkan-kedelai-nasional",
+  "category": "BUMN",
+  "title": "PTPN Gandeng KUAB Kembangkan [Kedelai] Nasional",
+  "deck": "PTPN III dan PT KUAB teken nota kesepahaman kembangkan budi daya kedelai dari hulu ke hilir, dengan target swasembada dalam tiga sampai empat tahun.",
+  "date": "15 September 2026",
+  "image": "assets/img/ptpn-gandeng-kuab-kembangkan-kedelai-nasional.jpg",
+  "imageV": "mu2lv7ae",
+  "tags": [
+   "kedelai",
+   "PTPN III",
+   "swasembada pangan",
+   "PT KUAB"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467277-dukung-swasembada-pangan-ptpn-group-dan-pt-kuab-kembangkan-ekosistem-kedelai-nasional"
+ },
+ {
   "slug": "asii-ungkap-rencana-vto-auto-senilai-rp858-miliar",
   "category": "Aksi Korporasi",
   "title": "ASII Ungkap Rencana [VTO] AUTO Senilai Rp858 Miliar",
@@ -250,7 +316,7 @@ var ARTICLES = [
   "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",
   "deck": "Menaker Yassierli menyebut AI yang sekadar jadi asisten kerja hanya menaikkan produktivitas sekitar 5 persen, sementara perombakan proses kerja bisa mendongkraknya sampai 40 persen.",
   "date": "15 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "tags": [
    "AI",
    "Ketenagakerjaan",
@@ -706,7 +772,7 @@ var ARTICLES = [
   "title": "UU PPRT [Atur] Hak dan Kewajiban Pekerja Rumah Tangga",
   "deck": "UU Nomor 2 Tahun 2026 memberi payung hukum bagi pekerja rumah tangga, mengatur upah, jam kerja, THR, jaminan sosial, hingga cara penyelesaian sengketa dengan majikan.",
   "date": "15 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "tags": [
    "PRT",
    "UU PPRT",
@@ -722,7 +788,7 @@ var ARTICLES = [
   "title": "RUU Ketenagakerjaan Masuk Tahap [Panja] di DPR",
   "deck": "Pemerintah menyerahkan Daftar Inventarisasi Masalah RUU Pelindungan Ketenagakerjaan ke DPR, Komisi IX bentuk Panja lanjutkan pembahasan.",
   "date": "15 September 2026",
-  "image": "assets/img/bursa-kerja-antre.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "tags": [
    "RUU Ketenagakerjaan",
    "DPR",
@@ -2632,7 +2698,7 @@ var ARTICLES = [
   "title": "Seleksi MagangHub Berlangsung, Hasil Keluar [18 September]",
   "deck": "Seleksi peserta Program Pemagangan Nasional (MagangHub) Batch 2 Angkatan II berlangsung 9-15 September, hasil diumumkan 18 September, magang mulai 21 September 2026.",
   "date": "11 September 2026",
-  "image": "assets/img/gudang-logistik.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "tags": [
    "MagangHub",
    "Kemnaker",
@@ -4660,7 +4726,7 @@ var ARTICLES = [
   "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
   "deck": "Kemnaker, Kementerian Investasi, dan Kementerian Imigrasi menyatukan izin penggunaan tenaga kerja asing dalam satu sistem OSS untuk memangkas proses lintas kementerian.",
   "date": "10 September 2026",
-  "image": "assets/img/kantor-startup.jpg",
+  "image": "assets/img/pelatihan-vokasi.jpg",
   "tags": [
    "TKA",
    "OSS",
@@ -6428,75 +6494,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fef89018b8_c8020f097d.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "erupsi-menerus-berhenti-anak-krakatau-tetap-siaga",
-  "category": "Energi",
-  "title": "Erupsi Menerus Berhenti, Anak Krakatau Tetap [Siaga]",
-  "deck": "Episode erupsi menerus 25 jam Gunung Anak Krakatau berakhir, tapi status Siaga bertahan karena kegempaan tinggi dan radius 3 km tetap dilarang untuk aktivitas warga.",
-  "date": "8 September 2026",
-  "image": "assets/img/erupsi-menerus-berhenti-anak-krakatau-tetap-siaga.jpg",
-  "imageV": "mts7srue",
-  "tags": [
-   "Anak Krakatau",
-   "Badan Geologi",
-   "Status Siaga",
-   "Lampung"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/erupsi-menerus-anak-krakatau-berakhir-aktivitas-gunung-api-kembali-menurun-dan-tetap-dipantau",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "baik-akui-evaluasi-restrukturisasi-outlet-merugi-usai-disuspensi",
-  "category": "Aksi Korporasi",
-  "title": "BAIK Akui Evaluasi [Restrukturisasi] Outlet Merugi Usai Disuspensi",
-  "deck": "Public expose insidentil BAIK usai suspensi saham mengungkap rencana evaluasi outlet merugi, tapi manajemen belum membeberkan angka konkret jumlah gerai yang terdampak.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAIK",
-   "Public Expose",
-   "Suspensi Saham",
-   "Bersama Mencapai Puncak"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0fa477e401_d4b09f8da5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kementan-bangun-999-unit-irigasi-tersier-di-jabar-banten",
-  "category": "Industri",
-  "title": "Kementan Bangun [999] Unit Irigasi Tersier di Jabar-Banten",
-  "deck": "Kementerian Pertanian merealisasikan 737 dari 999 unit irigasi tersier di Jawa Barat dan Banten untuk menahan dampak kemarau panjang akibat El Nino.",
-  "date": "8 September 2026",
-  "image": "assets/img/kementan-bangun-999-unit-irigasi-tersier-di-jabar-banten.jpg",
-  "imageV": "mts6ifj1",
-  "tags": [
-   "irigasi tersier",
-   "Kementan",
-   "musim kemarau",
-   "Jawa Barat-Banten"
-  ],
-  "kreditFoto": "Kementerian Pertanian",
-  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8124",
-  "sourceLabel": "Kementerian Pertanian"
- },
- {
-  "slug": "pemerintah-tambah-sphp-beras-1-juta-ton-hadapi-kemarau",
-  "category": "Makroekonomi",
-  "title": "Pemerintah [Tambah] SPHP Beras 1 Juta Ton Hadapi Kemarau",
-  "deck": "Kementerian Pertanian menambah alokasi beras SPHP medium 1 juta ton dan menyetop impor beras pecah 380 ribu ton untuk menjaga pasokan selama kemarau panjang.",
-  "date": "8 September 2026",
-  "image": "assets/img/pemerintah-tambah-sphp-beras-1-juta-ton-hadapi-kemarau.jpg",
-  "imageV": "mts6igeo",
-  "tags": [
-   "beras",
-   "SPHP",
-   "Kementerian Pertanian",
-   "kemarau"
-  ],
-  "kreditFoto": "Kementerian Pertanian",
-  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8125",
-  "sourceLabel": "Kementerian Pertanian"
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "0fcZP7ltl3k",
+  "title": "Kadin Manggarai dan Manggarai Timur Gelar Pelantikan Ketua",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Bonny Romas kembali dipercaya memimpin Kadin Kabupaten Manggarai, sementara Maximilian Nalang Firman Demorin memimpin Kadin Manggarai Timur untuk periode kedua.",
+  "takeaway": "Pergantian kepengurusan Kadin daerah penting diikuti pelaku usaha lokal karena memengaruhi arah advokasi dan kemitraan bisnis di wilayah tersebut.",
+  "terbit": "2026-09-15T16:53:02+00:00"
+ },
+ {
   "id": "V9RVL3y_Qws",
   "title": "Bea Cukai Ungkap Ekspor Ilegal Emas Senilai Rp73 Miliar",
   "category": "Bisnis",

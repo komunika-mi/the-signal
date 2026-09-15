@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "0fcZP7ltl3k",
+  "title": "Kadin Manggarai dan Manggarai Timur Gelar Pelantikan Ketua",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Bonny Romas kembali dipercaya memimpin Kadin Kabupaten Manggarai, sementara Maximilian Nalang Firman Demorin memimpin Kadin Manggarai Timur untuk periode kedua.",
+  "takeaway": "Pergantian kepengurusan Kadin daerah penting diikuti pelaku usaha lokal karena memengaruhi arah advokasi dan kemitraan bisnis di wilayah tersebut."
+ },
+ {
   "id": "V9RVL3y_Qws",
   "title": "Bea Cukai Ungkap Ekspor Ilegal Emas Senilai Rp73 Miliar",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "Serikat buruh menemui Menteri Ketenagakerjaan Yassierli untuk menyampaikan kekecewaan atas draf RUU Ketenagakerjaan yang dinilai belum mengakomodasi usulan mereka.",
   "takeaway": "Perkembangan RUU Ketenagakerjaan penting diikuti karena berdampak pada hubungan industrial serta kepastian hukum bagi pekerja dan dunia usaha."
- },
- {
-  "id": "zlNoRcPSzO0",
-  "title": "Polemik Desil: Data, Kebijakan, dan Realita di Lapangan",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Forum diskusi membahas penggunaan data desil sebagai acuan penyaluran bantuan pemerintah, di tengah keluhan warga soal akurasi data di lapangan.",
-  "takeaway": "Relevan karena data desil menentukan sasaran subsidi dan bantuan sosial yang berdampak pada alokasi anggaran negara."
  }
 ];

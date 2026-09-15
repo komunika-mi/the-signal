@@ -3,6 +3,135 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cbut-jawab-permintaan-bei-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "CBUT Jawab Permintaan BEI soal [Volatilitas] Saham",
+  "deck": "BEI meminta penjelasan atas pergerakan tak wajar saham CBUT. Perseroan menyatakan tidak ada informasi material maupun rencana aksi korporasi tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T08:50:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83e0eff592_d3c4b15f6a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBUT",
+  "tags": [
+   "CBUT",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Citra Borneo Utama Tbk (CBUT) menjawab permintaan penjelasan dari Bursa Efek Indonesia melalui surat bernomor S-11929/BEI.PP3/09-2026 tanggal 14 September 2026 terkait volatilitas transaksi saham perseroan. Dalam surat balasan bernomor 043/CBUT-JKT/IX/2026 yang diteken Corporate Secretary Alex Dwi Adha pada 15 September 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan ketentuan III.2.1 Peraturan Nomor I-E BEI.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka, serta laporan aktivitas penjaminan saham. Terkait rencana ke depan, CBUT menyatakan tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang dapat berdampak pada status pencatatan sahamnya di bursa, dan tidak ada informasi atau kejadian penting lain yang material bagi harga saham maupun kelangsungan usaha yang belum diungkapkan ke publik.",
+   "Untuk poin mengenai rencana pemegang saham utama, Corporate Secretary menyatakan telah menanyakan langsung kepada pemegang saham utama sesuai prosedur yang diminta bursa, dan jawabannya adalah pemegang saham utama tidak memiliki rencana apa pun terkait kepemilikan sahamnya di CBUT saat ini."
+  ],
+  "fotoAdegan": "Plantation workers loading fresh palm fruit bunches onto a truck at a rural collection point, tropical afternoon light",
+  "takeaway": "Jawaban ini netral bagi fundamental CBUT karena isinya seluruhnya penyangkalan standar, tidak ada angka transaksi, rencana aksi korporasi, atau perubahan kepemilikan yang diungkapkan. Laporan ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, karena isinya murni soal transparansi informasi, bukan transaksi keuangan. Yang membuat laporan ini tetap berarti adalah fakta bahwa BEI menilai pergerakan harga atau volume saham CBUT cukup tidak wajar sehingga perlu diklarifikasi, meski penyebabnya belum tentu ada fakta material di baliknya. Pelaku pasar perlu memantau apakah BEI melanjutkan dengan tindakan pengawasan lain seperti Unusual Market Activity atau suspensi jika pola transaksi serupa berulang, serta memastikan dalam tiga bulan ke depan hingga sekitar pertengahan Desember 2026 perseroan benar-benar tidak mengambil aksi korporasi seperti yang dinyatakan dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "idpr-klarifikasi-ke-bursa-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "IDPR Klarifikasi ke Bursa soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "PT Indonesia Pondasi Raya Tbk (IDPR) menjawab permintaan penjelasan BEI atas pergerakan tak biasa transaksi sahamnya, dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T08:34:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fb867c4f27_6c506f1540.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDPR",
+  "tags": [
+   "IDPR",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Indonesia Pondasi Raya Tbk (IDPR) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat bursa nomor S-11928/BEI.PP3/09-2026 yang meminta klarifikasi atas volatilitas transaksi efek perseroan. Dalam surat balasan bernomor 93/DIR-IDPR/IX/2026, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai saham maupun keputusan investasi pemodal, baik sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi oleh emiten, maupun ketentuan III.2.1 Peraturan Nomor I-E Bursa Efek Indonesia.",
+   "Perseroan juga menjawab tidak mengetahui adanya aktivitas dari pemegang saham tertentu yang diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan atau perubahan kepemilikan saham serta laporan penjaminan saham. Selain itu, IDPR menyatakan tidak memiliki rencana aksi korporasi dalam waktu dekat, setidaknya untuk tiga bulan ke depan, yang akan berdampak pada status pencatatan sahamnya di bursa. Corporate Secretary IDPR, Dwijanto, menambahkan bahwa setelah dikonfirmasi, pemegang saham pengendali dan utama perseroan juga tidak memiliki rencana terkait kepemilikan sahamnya saat ini. Surat ini diterbitkan secara elektronik pada 15 September 2026 pukul 08.34 WIB."
+  ],
+  "fotoAdegan": "Construction crew operating a large piling rig driving foundation piles at a building site, cranes in background, overcast daylight",
+  "takeaway": "Laporan ini netral bagi gambaran fundamental IDPR, karena isinya adalah bantahan standar bahwa tidak ada informasi baru yang disembunyikan dari publik, bukan pengumuman perubahan kondisi keuangan. Surat semacam ini muncul ketika bursa melihat harga atau volume transaksi saham bergerak di luar kebiasaan dan ingin memastikan pergerakan itu tidak dipicu oleh informasi tersembunyi yang seharusnya sudah diumumkan ke semua investor; karena IDPR membantah adanya informasi seperti itu, tidak ada pos kinerja seperti ekuitas, arus kas, atau laba yang berubah akibat surat ini. Yang perlu dicermati investor selanjutnya adalah apakah pergerakan harga saham IDPR mereda dalam beberapa waktu ke depan, dan apakah muncul keterbukaan informasi baru sebelum jendela tiga bulan yang disebut perseroan itu berakhir, sekitar pertengahan Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sanf-raih-afirmasi-peringkat-aa-dari-fitch-outlook-stabil",
+  "category": "Aksi Korporasi",
+  "title": "SANF Raih Afirmasi Peringkat [AA+] dari Fitch, Outlook Stabil",
+  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang SANF di AA+ dengan outlook stabil, mencakup tiga seri obligasi berkelanjutan senilai total Rp1,6 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T08:33:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7fdeb17897_1b29f1a20a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SANF",
+  "tags": [
+   "SANF",
+   "Fitch Ratings",
+   "peringkat kredit",
+   "obligasi korporasi"
+  ],
+  "body": [
+   "PT Fitch Ratings Indonesia mengafirmasi Peringkat Nasional Jangka Panjang SANF di AA+(idn) dengan outlook stabil, serta Peringkat Nasional Jangka Pendek di F1+(idn). Keputusan ini tertuang dalam surat bernomor 161/DIR/RATLTR/VIII/2026 tertanggal 21 Agustus 2026, ditandatangani oleh Olly Prayudi selaku Direktur PT Fitch Ratings Indonesia, dan ditujukan kepada Wempy Kunto Wiambodo, Presiden Direktur SANF. Hasil pemeringkatan ini disampaikan SANF ke Bursa Efek Indonesia pada 15 September 2026 oleh Corporate Secretary Davin Susanto.",
+   "Afirmasi peringkat AA+(idn) juga berlaku untuk tiga instrumen utang SANF yang masih beredar. Obligasi Berkelanjutan IV Tahap III Tahun 2024 Seri B senilai Rp500 miliar jatuh tempo 20 Juni 2027, Obligasi Berkelanjutan IV Tahap II Tahun 2023 Seri C senilai Rp250 miliar jatuh tempo 16 Maret 2028, dan Obligasi Berkelanjutan V Tahap I Tahun 2025 Seri B senilai Rp853 miliar jatuh tempo 8 Juli 2028. Fitch turut mengafirmasi peringkat AA+(idn) untuk payung Obligasi Berkelanjutan V SANF yang bisa diterbitkan hingga maksimum Rp6 triliun. Ketiga hasil pemeringkatan efek tersebut berlaku untuk periode 28 Agustus 2026 sampai 21 Agustus 2027.",
+   "Menurut skema Fitch, peringkat AA menunjukkan ekspektasi risiko gagal bayar yang sangat rendah dibandingkan emiten atau obligasi lain sekelasnya di Indonesia, sementara peringkat jangka pendek F1 menandakan kapasitas terkuat untuk membayar kewajiban tepat waktu. Tanda tambah pada F1+ menunjukkan profil likuiditas yang tergolong kuat."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's business district skyline at dusk, lit windows, wide street-level view",
+  "takeaway": "Laporan ini netral bagi SANF karena Fitch hanya mempertahankan peringkat yang sudah berjalan, AA+ dengan outlook stabil, tanpa perubahan naik atau turun yang bisa menggeser pandangan pasar terhadap risiko perusahaan. Yang tersentuh dari afirmasi ini adalah beban bunga, yaitu biaya yang harus dibayar SANF setiap kali menerbitkan utang baru, karena peringkat kredit yang tetap tinggi biasanya membuat investor obligasi mau menerima kupon lebih rendah sebab mereka menilai risiko gagal bayar SANF kecil. Ini relevan karena SANF membiayai operasinya lewat penerbitan obligasi berseri, termasuk payung Obligasi Berkelanjutan V senilai maksimum Rp6 triliun yang belum tentu seluruhnya diterbitkan. Yang perlu dipantau berikutnya adalah jatuh tempo Obligasi Berkelanjutan IV Tahap III Seri B pada 20 Juni 2027, yang pertama dari tiga seri ini harus dilunasi, serta peninjauan ulang peringkat oleh Fitch yang menurut suratnya dilakukan minimal setahun sekali sehingga hasil berikutnya diperkirakan sekitar Agustus 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baik-buka-outlet-agn-signature-baru-di-sampang",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Buka Outlet [AGN Signature] Baru di Sampang",
+  "deck": "PT Bersama Mencapai Puncak Tbk meresmikan outlet Ayam Goreng Nelongso Signature di Sampang, Jawa Timur, sebagai bagian dari strategi ekspansi jaringan usahanya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T08:30:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8223beed3d_5c53f59cf7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAIK",
+  "tags": [
+   "BAIK",
+   "AGN Signature",
+   "ekspansi outlet",
+   "rumah makan"
+  ],
+  "body": [
+   "PT Bersama Mencapai Puncak Tbk (BAIK) mengumumkan pembukaan outlet baru bernama Ayam Goreng Nelongso Signature (AGN Signature) pada Minggu, 13 September 2026. Outlet ini berlokasi di Jl. Jaksa Agung Suprapto No. 66, Pliyan, Tanggumong, Kecamatan Sampang, Kabupaten Sampang, Jawa Timur. Acara peresmian diisi doa bersama dan sambutan dari Direktur Utama Nanang Suherman, dengan kehadiran Komisaris Utama Yeni Isnawati.",
+   "Dalam surat keterbukaan informasi bernomor 0122/SPn/BMP/09/2026 yang diteken di Malang pada 14 September 2026, manajemen menyebut pembukaan outlet ini sebagai bagian dari strategi memperluas jaringan usaha, memperluas jangkauan pasar, sekaligus memperkenalkan konsep dan produk perseroan ke wilayah operasional baru. Perseroan menyatakan pembukaan outlet tersebut tidak berdampak hukum maupun operasional, namun diharapkan menambah pendapatan dan menjaga keberlangsungan usaha.",
+   "Perusahaan tidak mengungkapkan nilai investasi pembukaan outlet, target pendapatan, maupun proyeksi kontribusinya terhadap kinerja perseroan secara keseluruhan. Dokumen hanya mencantumkan lampiran berupa foto prosesi peresmian dan kondisi outlet saat pembukaan."
+  ],
+  "fotoAdegan": "Fried chicken restaurant storefront in a small East Java town, workers arranging tables before opening, midday light",
+  "takeaway": "Laporan ini condong netral bagi fundamental BAIK karena penambahan satu outlet ini tidak disertai angka konkret soal nilai investasi atau target pendapatan, sehingga besarnya dampak belum bisa diukur. Pos yang berpotensi tersentuh adalah pendapatan usaha, yaitu uang yang masuk dari penjualan, yang kalau outlet baru ini ramai pembeli bisa ikut mendorong arus kas operasional, yaitu aliran uang tunai yang benar-benar diterima perseroan dari kegiatan sehari-hari. Yang perlu dicermati adalah bagaimana kinerja outlet baru ini tercermin di laporan keuangan kuartal III 2026, terutama karena sepekan sebelumnya, pada 8 September 2026, perseroan baru saja mengakui sedang mengevaluasi restrukturisasi outlet-outlet yang merugi menyusul suspensi sahamnya. Ekspansi di tengah proses evaluasi itu membuat pembaca perlu menunggu apakah outlet baru benar menambah pendapatan atau justru menambah beban di tengah pembenahan yang sedang berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ceka-jelaskan-ke-bursa-rencana-penuhi-free-float-15",
+  "category": "Aksi Korporasi",
+  "title": "CEKA Jelaskan ke Bursa Rencana Penuhi [Free Float] 15%",
+  "deck": "CEKA menanggapi permintaan penjelasan BEI soal rencana pemenuhan syarat minimum saham beredar bebas 15%, menyusul free float yang baru 13,86% per akhir Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T08:30:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76e782e761_90f387a606.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CEKA",
+  "tags": [
+   "CEKA",
+   "Wilmar Cahaya Indonesia",
+   "free float",
+   "BEI"
+  ],
+  "body": [
+   "PT Wilmar Cahaya Indonesia Tbk (CEKA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan tertanggal 10 September 2026 terkait rencana pemenuhan ketentuan minimum saham free float. Dalam surat bernomor 0004/WICA/LEG-ADM/IX/2026 yang ditandatangani Corporate Secretary Perseroan, CEKA menjelaskan bahwa berdasarkan perhitungan ulang BEI atas Laporan Bulanan Registrasi Kepemilikan Efek per 31 Maret 2026, persentase saham free float Perseroan tercatat 13,84 persen. Angka ini masih di bawah ketentuan minimum 15 persen yang diwajibkan Surat Keputusan Direksi BEI Nomor Kep-00045/BEI/03-2026 tentang Perubahan Peraturan Nomor I-A, dengan batas waktu pemenuhan sampai 31 Maret 2029.",
+   "CEKA menyebut kendala utama pemenuhan syarat ini adalah proses penjualan saham oleh pemegang saham pengendali, PT Sentratama Niaga Indonesia, yang membutuhkan waktu. Sampai dengan 31 Agustus 2026, free float Perseroan baru bergerak tipis ke 13,86 persen, sebagaimana dilaporkan dalam laporan bulanan registrasi kepemilikan efek periode tersebut.",
+   "Ke depan, Perseroan menyatakan akan terus mendorong PT Sentratama Niaga Indonesia melepas sebagian kepemilikannya hingga syarat minimum 15 persen terpenuhi sebelum tenggat 31 Maret 2029. CEKA juga meminta dukungan BEI untuk menarik minat investor ritel agar ikut membeli saham yang dilepas pemegang saham pengendali tersebut. Perseroan tidak menyampaikan informasi tambahan lain terkait rencana ini."
+  ],
+  "fotoAdegan": "Wide shot of a cooking oil processing plant with steel storage tanks and pipelines, workers in hard hats walking between machinery under industrial lighting",
+  "takeaway": "Laporan ini netral bagi kinerja fundamental CEKA karena yang dibahas adalah struktur kepemilikan saham, bukan pendapatan, laba, atau utang Perseroan. Free float adalah porsi saham yang beredar bebas di pasar dan tidak dikuasai pemegang saham pengendali, dan besarannya penting karena memengaruhi likuiditas perdagangan saham serta kelayakan masuk indeks tertentu, bukan langsung memengaruhi ekuitas atau laba per saham. Progres yang tercatat sangat lambat, hanya naik dari 13,84 persen menjadi 13,86 persen dalam lima bulan, sementara kewajiban 15 persen masih bergantung pada kesediaan PT Sentratama Niaga Indonesia melepas saham secara sukarela. Yang perlu dipantau adalah laporan bulanan registrasi kepemilikan efek berikutnya untuk melihat apakah divestasi benar berjalan, serta apakah Perseroan bisa mengejar target sebelum tenggat 31 Maret 2029.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "uu-pprt-atur-hak-dan-kewajiban-pekerja-rumah-tangga",
   "category": "Ketenagakerjaan",
   "title": "UU PPRT [Atur] Hak dan Kewajiban Pekerja Rumah Tangga",

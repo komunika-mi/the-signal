@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cbut-jawab-permintaan-bei-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "CBUT Jawab Permintaan BEI soal [Volatilitas] Saham",
+  "deck": "BEI meminta penjelasan atas pergerakan tak wajar saham CBUT. Perseroan menyatakan tidak ada informasi material maupun rencana aksi korporasi tiga bulan ke depan.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBUT",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83e0eff592_d3c4b15f6a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "idpr-klarifikasi-ke-bursa-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "IDPR Klarifikasi ke Bursa soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "PT Indonesia Pondasi Raya Tbk (IDPR) menjawab permintaan penjelasan BEI atas pergerakan tak biasa transaksi sahamnya, dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDPR",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fb867c4f27_6c506f1540.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sanf-raih-afirmasi-peringkat-aa-dari-fitch-outlook-stabil",
+  "category": "Aksi Korporasi",
+  "title": "SANF Raih Afirmasi Peringkat [AA+] dari Fitch, Outlook Stabil",
+  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang SANF di AA+ dengan outlook stabil, mencakup tiga seri obligasi berkelanjutan senilai total Rp1,6 triliun.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SANF",
+   "Fitch Ratings",
+   "peringkat kredit",
+   "obligasi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7fdeb17897_1b29f1a20a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baik-buka-outlet-agn-signature-baru-di-sampang",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Buka Outlet [AGN Signature] Baru di Sampang",
+  "deck": "PT Bersama Mencapai Puncak Tbk meresmikan outlet Ayam Goreng Nelongso Signature di Sampang, Jawa Timur, sebagai bagian dari strategi ekspansi jaringan usahanya.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAIK",
+   "AGN Signature",
+   "ekspansi outlet",
+   "rumah makan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8223beed3d_5c53f59cf7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ceka-jelaskan-ke-bursa-rencana-penuhi-free-float-15",
+  "category": "Aksi Korporasi",
+  "title": "CEKA Jelaskan ke Bursa Rencana Penuhi [Free Float] 15%",
+  "deck": "CEKA menanggapi permintaan penjelasan BEI soal rencana pemenuhan syarat minimum saham beredar bebas 15%, menyusul free float yang baru 13,86% per akhir Agustus 2026.",
+  "date": "15 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CEKA",
+   "Wilmar Cahaya Indonesia",
+   "free float",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76e782e761_90f387a606.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "uu-pprt-atur-hak-dan-kewajiban-pekerja-rumah-tangga",
   "category": "Ketenagakerjaan",
   "title": "UU PPRT [Atur] Hak dan Kewajiban Pekerja Rumah Tangga",
@@ -6417,87 +6497,6 @@ var ARTICLES = [
    "Medco Energi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f161fbf80d_de13f1eff8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arma-revisi-realisasi-dana-sukuk-rp1-68-triliun-ke-tambang",
-  "category": "Aksi Korporasi",
-  "title": "ARMA Revisi Realisasi Dana [Sukuk] Rp1,68 Triliun ke Tambang",
-  "deck": "PT Armadian Tritunggal merevisi laporan realisasi dana sukuk Rp1,82 triliun per 30 Juni 2026, sisa dana Rp140,74 miliar ditempatkan di rekening bank afiliasi.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARMA",
-   "sukuk mudharabah",
-   "batubara",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ebccdcc9c_afb5027339.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meds-komisaris-jual-6-5-juta-saham-hak-suara-nyaris-tetap",
-  "category": "Aksi Korporasi",
-  "title": "MEDS: Komisaris [Jual] 6,5 Juta Saham, Hak Suara Nyaris Tetap",
-  "deck": "Komisaris Hetzer Medical Indonesia, Jemmy Kurniawan, melepas 6,5 juta saham pada 4 September 2026, sekitar 0,78 persen dari kepemilikannya, hak suara turun tipis ke 53,04 persen.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDS",
-   "Hetzer Medical Indonesia",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-9218-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sphp-berganti-nama-jadi-beras-kita-meluncur-20-oktober",
-  "category": "Makroekonomi",
-  "title": "SPHP Berganti Nama Jadi [Beras Kita], Meluncur 20 Oktober",
-  "deck": "Pemerintah mengganti nama beras SPHP menjadi Beras Kita Medium, mulai dipasarkan 20 Oktober 2026, sejalan dengan Minyakita dan ManisKita.",
-  "date": "7 September 2026",
-  "image": "assets/img/sphp-berganti-nama-jadi-beras-kita-meluncur-20-oktober.jpg",
-  "imageV": "mtralbax",
-  "tags": [
-   "Beras Kita",
-   "SPHP",
-   "Bulog",
-   "Zulkifli Hasan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465546-beras-sphp-punya-nama-baru-pemerintah-luncurkan-beras-kita-20-oktober-2026"
- },
- {
-  "slug": "foru-jawab-bursa-rugi-melonjak-902-pendapatan-anjlok-57",
-  "category": "Aksi Korporasi",
-  "title": "FORU Jawab Bursa: [Rugi] Melonjak 902%, Pendapatan Anjlok 57%",
-  "deck": "Fortune Indonesia menjelaskan ke BEI bahwa pendapatan semester I 2026 anjlok 57,27% dan rugi komprehensif melonjak jadi Rp7,38 miliar, sementara defisit membengkak ke Rp51,30 miliar.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "Fortune Indonesia",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84845aa858_c8569d291d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ikpm-dana-ipo-terserap-96-pendapatan-meleset-jauh-dari-target",
-  "category": "Aksi Korporasi",
-  "title": "IKPM: Dana IPO Terserap 96%, Pendapatan [Meleset] Jauh dari Target",
-  "deck": "Ikapharmindo menjelaskan ke BEI bahwa penyerapan dana IPO untuk mesin baru 76 persen, sementara pendapatan semester I 2026 cuma sepertiga dari target setahun penuh.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IKPM",
-   "Ikapharmindo Putramas",
-   "dana IPO",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5044f8afeb_2ff839c1a8.pdf",
   "sourceLabel": "IDX"
  }
 ];

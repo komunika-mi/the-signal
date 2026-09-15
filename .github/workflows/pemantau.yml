@@ -46,6 +46,8 @@ jobs:
     # akan menyala LEBIH DULU daripada pagar langkahnya. Itu justru keadaan
     # yang dihindari: job yang ditebas berakhir "cancelled" tanpa email,
     # sedangkan langkah yang ditebas berakhir "failure" yang mengirim email.
+    # 15 September 2026: +2 menit untuk pemeriksaan data pasar, jadi pagar
+    # per langkah kini berjumlah 25 menit, masih di bawah jatah 28.
     timeout-minutes: 28
     steps:
       - uses: actions/checkout@v4
@@ -104,6 +106,15 @@ jobs:
           fi
 
           exit $gagal
+
+      - name: Data pasar di bar atas masih diperbarui
+        if: always()
+        timeout-minutes: 2
+        run: |
+          # Selama jam bursa, data pasar yang lebih dari 2 jam tidak diperbarui
+          # dianggap macet. Di luar jam bursa langkah ini cuma melapor. Cara
+          # menghitung umurnya dan alasannya di scripts/periksa-pasar.mjs.
+          node scripts/periksa-pasar.mjs
 
       - name: Newsletter Signal+ benar-benar mengirim
         if: always()

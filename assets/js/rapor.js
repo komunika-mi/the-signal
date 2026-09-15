@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-15T02:34:15.579+07:00",
+ "diperbarui": "2026-09-16T01:23:27.533+07:00",
  "entri": [
+  {
+   "id": "2026-09-15-3",
+   "edisi": "2026-09-15",
+   "benang": "Pengawasan Bursa ke emiten kecil terus diperketat",
+   "klaim": "Bursa Efek Indonesia diperkirakan terus memperpanjang tenggat sekaligus memperluas cakupan pengawasan terhadap emiten kecil dengan struktur kepemilikan atau riwayat perdagangan bermasalah, seperti terlihat pada kasus PURI, CEKA, TRUK, dan LCKM.",
+   "penanda": "Jawaban resmi LCKM dan realisasi rencana CEKA memenuhi syarat free float",
+   "tenggat": "2026-09-30",
+   "tenggatLabel": "jawaban resmi LCKM yang jatuh tempo 30 September",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-15-2",
+   "edisi": "2026-09-15",
+   "benang": "Gejolak saham kecil meluas, rupiah ikut melemah",
+   "klaim": "Volatilitas saham kecil dan pelemahan rupiah kemungkinan mereda jika konferensi pers ALCo Kementerian Keuangan menunjukkan defisit APBN terkendali, tetapi berpotensi berlanjut jika data realisasi APBN tertunda lagi atau defisit melebar.",
+   "penanda": "Konferensi pers ALCo Kementerian Keuangan",
+   "tenggat": null,
+   "tenggatLabel": "begitu konferensi pers ALCo Kementerian Keuangan digelar",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-15-1",
+   "edisi": "2026-09-15",
+   "benang": "Tekanan utang korporasi melebar, ULN pemerintah naik",
+   "klaim": "Tekanan utang korporasi diperkirakan terus melebar, dengan swasta menahan diri menambah pinjaman luar negeri sementara emiten yang sudah terbebani utang memilih melepas saham atau aset dibanding kas, sejalan dengan kenaikan ULN pemerintah menjadi US$454,8 miliar pada Juli 2026.",
+   "penanda": "Data ULN Agustus dari Bank Indonesia dan langkah lembaga pemeringkat lain terhadap obligasi korporasi",
+   "tenggat": null,
+   "tenggatLabel": "dalam beberapa pekan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-14-3",
    "edisi": "2026-09-14",

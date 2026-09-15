@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "patokan-ekspor-emas-naik-1-63-persen-per-15-september",
+  "category": "Industri",
+  "title": "Patokan Ekspor Emas [Naik] 1,63 Persen per 15 September",
+  "deck": "Kemendag menaikkan HPE dan HR emas untuk periode 15-30 September 2026, dasar penghitungan bea keluar dan royalti ekspor emas dari Indonesia.",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T03:38:40.713Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sentimen-global-picu-berlanjutnya-peningkatan-hpe-dan-hr-emas-pada-periode-kedua-september-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "HPE emas",
+   "bea keluar",
+   "ekspor emas",
+   "Kemendag"
+  ],
+  "body": [
+   "Kementerian Perdagangan menaikkan Harga Patokan Ekspor (HPE) dan Harga Referensi (HR) emas untuk periode 15-30 September 2026, menyusul kenaikan harga emas di pasar internasional. Kenaikan ini penting karena kedua angka tersebut menjadi dasar penghitungan bea keluar dan royalti bagi perusahaan yang mengekspor emas dari Indonesia, sehingga langsung memengaruhi besaran pungutan yang harus dibayar eksportir.",
+   "HPE emas ditetapkan sebesar US$144.469,49 per kilogram, naik 1,63 persen dibanding periode pertama September 2026 yang sebesar US$142.154,10 per kilogram. HR emas naik dari US$4.421,49 menjadi US$4.493,51 per troy ounce, satuan berat yang lazim dipakai dalam perdagangan emas dan logam mulia. Ketentuan ini tertuang dalam Keputusan Menteri Perdagangan Nomor 1817 Tahun 2026 tentang Harga Patokan Ekspor dan Harga Referensi atas Produk Pertambangan yang Dikenakan Bea Keluar.",
+   "Direktur Jenderal Perdagangan Luar Negeri Kemendag, Tommy Andana, mengatakan kenaikan HPE dan HR emas dipicu oleh melemahnya nilai tukar mata uang utama dunia, turunnya imbal hasil obligasi, serta pemangkasan suku bunga acuan di sejumlah negara. Kondisi seperti ini umumnya mendorong investor global mengalihkan dananya ke emas karena dianggap aset yang lebih aman saat ketidakpastian ekonomi meningkat.",
+   "HPE dan HR emas ditetapkan Kemendag berdasarkan data dan masukan teknis Kementerian ESDM yang mengacu pada publikasi London Bullion Market Association (LBMA), lembaga acuan harga emas dunia. Prosesnya melibatkan koordinasi dengan Kementerian Koordinator Bidang Perekonomian, Kementerian ESDM, Kementerian Keuangan, dan Kementerian Perindustrian, dan diperbarui dua kali sebulan mengikuti pergerakan harga emas internasional."
+  ],
+  "fotoAdegan": "Gold bars being stacked and weighed on a digital scale inside a bullion refining workshop, worker wearing gloves, industrial lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "HPE dan HR emas naik untuk periode kedua berturut-turut di September 2026, mengikuti kenaikan harga emas dunia sebesar 1,63 persen dalam dua pekan terakhir. Kedua angka ini bukan harga jual emas ke konsumen, melainkan patokan yang dipakai pemerintah untuk menghitung bea keluar dan royalti dari perusahaan yang mengekspor emas batangan atau konsentrat, sehingga yang langsung terdampak adalah eksportir emas seperti perusahaan tambang, bukan pembeli emas perhiasan di dalam negeri. Kemendag menyebut kenaikan ini dipicu melemahnya mata uang utama dunia, turunnya imbal hasil obligasi, dan pemangkasan suku bunga acuan di berbagai negara, faktor yang biasanya membuat investor global memburu emas sebagai aset aman saat ekonomi tidak pasti. Karena HPE dan HR diperbarui tiap dua pekan mengikuti harga pasar London, tren kenaikan dua periode beruntun ini kemungkinan berlanjut selama bank sentral besar dunia, terutama bank sentral Amerika Serikat, terus memangkas suku bunganya, dan penetapan HPE periode pertama Oktober 2026 akan jadi penanda apakah tren ini masih berlanjut atau mulai mereda."
+ },
+ {
+  "slug": "bi-proyeksi-kredit-tumbuh-8-12-persen-di-2026",
+  "category": "Perbankan",
+  "title": "BI Proyeksi Kredit Tumbuh [8-12] Persen di 2026",
+  "deck": "Bank Indonesia menyebut modal perbankan tetap tebal dan kredit macet rendah per Juni 2026, sambil menargetkan pertumbuhan kredit 8-12 persen tahun ini.",
+  "image": "assets/img/bi-proyeksi-kredit-tumbuh-8-12-persen-di-2026.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T03:38:34.270Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818726.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "Stabilitas Keuangan",
+   "Kredit Perbankan",
+   "NPL"
+  ],
+  "body": [
+   "Bank Indonesia merilis Kajian Stabilitas Keuangan edisi ke-47 yang menyimpulkan sistem keuangan domestik tetap kuat pada semester I 2026, di tengah ketidakpastian ekonomi global yang meningkat. Penilaian ini penting karena menjadi acuan seberapa besar ruang yang dimiliki perbankan untuk terus menyalurkan kredit ke dunia usaha tanpa membahayakan kesehatan keuangan mereka sendiri.",
+   "Menurut data yang dipegang BI, rasio kecukupan modal bank per Juni 2026 tercatat 23,70 persen, jauh di atas ambang aman yang umum diminta regulator. Rasio kredit bermasalah, yakni pinjaman yang macet atau berisiko tidak terbayar, juga rendah, 2,09 persen dari total kredit kotor dan 0,82 persen secara bersih. Kombinasi modal tebal dan kredit macet rendah ini yang membuat BI menilai perbankan masih punya ruang luas untuk menambah penyaluran kredit.",
+   "Untuk mendorong hal itu, BI melanjutkan kebijakan makroprudensial yang longgar lewat Kebijakan Insentif Likuiditas Makroprudensial (KLM) dan program Percepatan Intermediasi Indonesia (PINISI), yang mengarahkan bank menyalurkan dana ke sektor produktif dan prioritas. Dengan bekal itu, BI memproyeksikan kredit perbankan bisa tumbuh pada kisaran 8 sampai 12 persen sepanjang 2026."
+  ],
+  "fotoAdegan": "Bank teller assisting a small shop owner across a counter inside a modern bank branch, soft morning light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2818726/Cover-sp_2818726.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Dua angka yang jadi pegangan BI adalah rasio kecukupan modal bank, semacam bantalan dana cadangan untuk menyerap kerugian, yang mencapai 23,70 persen pada Juni 2026, dan rasio kredit macet yang hanya 2,09 persen kotor serta 0,82 persen bersih. Kombinasi modal tebal dan kredit macet rendah ini yang jadi alasan BI melanjutkan kebijakan longgar lewat KLM dan PINISI, dua skema yang pada dasarnya memberi insentif agar bank lebih berani menyalurkan kredit. Pihak yang paling terdampak adalah pelaku usaha di sektor produktif dan prioritas yang jadi sasaran penyaluran itu, sementara perbankan sendiri mendapat kelonggaran aturan. Arahnya mengarah ke pelonggaran kredit lanjutan, bukan pengetatan, karena BI memasang target pertumbuhan kredit 8 sampai 12 persen untuk 2026. Yang akan memastikan apakah target itu realistis adalah data realisasi pertumbuhan kredit perbankan pada kuartal berikutnya, sebab modal dan kredit macet yang sehat belum otomatis berarti bank benar-benar menyalurkan dana ke sektor riil.",
+  "imageV": "mu24r5bl"
+ },
+ {
+  "slug": "harga-emas-antam-turun-lagi-ke-rp2-592-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Lagi ke Rp2.592.000/Gram",
+  "deck": "Harga emas Antam hari ini turun Rp10.000 menjadi Rp2.592.000 per gram, sementara harga buyback ikut turun ke Rp2.437.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-lagi-ke-rp2-592-000-gram.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T09:59:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467163-terpantau-turun-lagi-harga-emas-antam-hari-ini-15-september-2026-rp2592000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "Antam",
+   "investasi"
+  ],
+  "body": [
+   "Harga emas batangan Antam kembali turun pada Senin, 15 September 2026. Berdasarkan laman resmi Logam Mulia, harga emas Antam hari ini berada di Rp2.592.000 per gram, turun Rp10.000 dibandingkan hari sebelumnya yang tercatat Rp2.602.000 per gram.",
+   "Penurunan serupa juga terjadi pada harga buyback, yaitu harga yang dibayarkan Antam saat masyarakat menjual kembali emas batangannya, yang turun menjadi Rp2.437.000 per gram. Dengan begitu, selisih antara harga jual dan harga buyback saat ini sekitar Rp155.000 per gram.",
+   "Antam mengingatkan bahwa harga emas batangan bersifat fluktuatif dan bisa berubah sewaktu-waktu mengikuti pergerakan pasar."
+  ],
+  "fotoAdegan": "A customer examining small gold bars on a jeweler's counter while a shop assistant weighs one on a small scale, indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini hanya angka harga: emas Antam turun Rp10.000 menjadi Rp2.592.000 per gram, dan harga buyback, yaitu harga saat Antam membeli kembali emas dari masyarakat, ikut turun ke Rp2.437.000 per gram. Yang terdampak langsung adalah pemilik emas batangan Antam dan calon pembeli ritel yang biasa memakai emas sebagai simpanan jangka pendek. Data hari ini belum menyebut apa yang mendorong penurunan tersebut, misalnya pergerakan harga emas dunia atau nilai tukar dolar Amerika Serikat, sehingga belum bisa dipastikan apakah ini awal tren turun atau sekadar fluktuasi harian biasa. Yang perlu dicermati adalah pergerakan harga emas Antam dalam beberapa hari ke depan untuk melihat apakah penurunan ini berlanjut atau justru berbalik naik.",
+  "imageV": "mu24r5qz"
+ },
+ {
   "slug": "cbut-jawab-permintaan-bei-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "CBUT Jawab Permintaan BEI soal [Volatilitas] Saham",
@@ -130,6 +210,33 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of a cooking oil processing plant with steel storage tanks and pipelines, workers in hard hats walking between machinery under industrial lighting",
   "takeaway": "Laporan ini netral bagi kinerja fundamental CEKA karena yang dibahas adalah struktur kepemilikan saham, bukan pendapatan, laba, atau utang Perseroan. Free float adalah porsi saham yang beredar bebas di pasar dan tidak dikuasai pemegang saham pengendali, dan besarannya penting karena memengaruhi likuiditas perdagangan saham serta kelayakan masuk indeks tertentu, bukan langsung memengaruhi ekuitas atau laba per saham. Progres yang tercatat sangat lambat, hanya naik dari 13,84 persen menjadi 13,86 persen dalam lima bulan, sementara kewajiban 15 persen masih bergantung pada kesediaan PT Sentratama Niaga Indonesia melepas saham secara sukarela. Yang perlu dipantau adalah laporan bulanan registrasi kepemilikan efek berikutnya untuk melihat apakah divestasi benar berjalan, serta apakah Perseroan bisa mengejar target sebelum tenggat 31 Maret 2029.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "menkeu-suahasil-janji-segera-paparkan-data-apbn",
+  "category": "Makroekonomi",
+  "title": "Menkeu Suahasil Janji Segera [Paparkan] Data APBN",
+  "deck": "Menkeu baru Suahasil Nazara berjanji segera menggelar konferensi pers ALCo untuk memaparkan data realisasi APBN Juli dan Agustus 2026 yang belum dipublikasikan.",
+  "image": "assets/img/menkeu-suahasil-janji-segera-paparkan-data-apbn.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T07:42:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467138-menkeu-suahasil-akan-paparkan-data-apbn-secepatnya",
+  "tags": [
+   "APBN",
+   "Kemenkeu",
+   "Suahasil Nazara",
+   "ALCo"
+  ],
+  "body": [
+   "Menteri Keuangan Suahasil Nazara, yang baru dilantik menggantikan Purbaya Yudhi Sadewa, memastikan akan segera menggelar konferensi pers untuk memaparkan data realisasi Anggaran Pendapatan dan Belanja Negara. Ini penting karena Kementerian Keuangan sampai saat ini belum merilis rincian realisasi APBN untuk bulan Juli dan Agustus 2026, sementara paparan resmi terakhir baru mencakup periode semester pertama tahun ini.",
+   "Suahasil menyebut pemaparan itu akan dilakukan lewat forum internal Kemenkeu bernama ALCo atau Asset and Liability Committee, yang membahas perkembangan ekonomi, pelaksanaan APBN, penerimaan dan belanja negara, hingga kondisi pembiayaan dan kas pemerintah. Hasil pembahasan forum ini biasanya menjadi salah satu dasar bagi pemerintah menyusun langkah kebijakan fiskal selanjutnya. Ia menegaskan data yang akan disampaikan nanti akan lengkap agar publik bisa menilai transparansi pengelolaan anggaran negara.",
+   "Suahasil merupakan menteri keuangan ketiga di pemerintahan Presiden Prabowo Subianto, setelah sebelumnya posisi ini dijabat Sri Mulyani dan kemudian Purbaya Yudhi Sadewa. Sebelum naik menjadi menteri keuangan, ia sempat menjabat Wakil Menteri Keuangan sejak 25 Oktober 2019 di Kabinet Indonesia Maju, dan kembali dipercaya pada posisi yang sama di Kabinet Merah Putih.",
+   "Dalam pernyataannya, Suahasil juga menekankan komitmennya menjaga Kementerian Keuangan sebagai lembaga yang kredibel dan bisa dipercaya masyarakat, seraya mengajak jajarannya melanjutkan pekerjaan yang sudah berjalan."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium with microphones in a government press briefing room, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/14/6aa7d4fbb5ec0-menteri-keuangan-suahasil-nazara-dalam-konferensi-pers-di-kantor-kementerian-keuangan-jakarta-senin-149_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan angka APBN, melainkan siapa yang akan mengumumkannya: Suahasil Nazara resmi menjadi menteri keuangan ketiga di era Presiden Prabowo Subianto menggantikan Purbaya Yudhi Sadewa, sementara data realisasi APBN Juli dan Agustus yang biasanya rutin dipublikasikan masih tertahan sejak laporan semester pertama. Yang terdampak adalah pelaku pasar, ekonom, dan publik yang mengandalkan data itu untuk menilai kesehatan anggaran negara, apalagi di tengah pergantian pucuk pimpinan Kemenkeu yang berlangsung cepat. Berita ini belum memberi cukup pegangan untuk membaca ke arah mana kondisi fiskal bergerak, sebab Suahasil hanya menjanjikan konferensi pers ALCo secepatnya tanpa menyebut tanggal pasti. Yang masih perlu ditunggu adalah kapan konferensi pers itu benar-benar digelar dan apakah data yang dipaparkan nanti menunjukkan pelebaran atau penyempitan defisit dibanding realisasi semester I.",
+  "imageV": "mu24r65h"
  },
  {
   "slug": "uu-pprt-atur-hak-dan-kewajiban-pekerja-rumah-tangga",
@@ -9543,7 +9650,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
   "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-08T04:28:42.741Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-dukung-bumn-perkuat-tata-kelola-hubungan-industrial",
@@ -11944,7 +12051,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "60 Persen Angkatan Kerja RI Berada di Sektor [Informal]",
   "deck": "Menaker menyebut 60 persen dari 155 juta angkatan kerja RI bekerja di sektor informal, sementara literasi dana pensiun baru 22 persen menurut OJK.",
-  "image": "assets/img/kantor-startup.jpg",
+  "image": "assets/img/pelatihan-vokasi.jpg",
   "date": "7 September 2026",
   "isoDate": "2026-09-07T06:12:01.145Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-60-persen-angkatan-kerja-bekerja-di-sektor-informal-perlindungan-hari-tua-jadi-perhatian",
@@ -13422,7 +13529,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Gelontorkan [Bantuan] Modal ke 9.731 Wirausaha Baru",
   "deck": "Kemnaker menyalurkan modal usaha Rp15 juta untuk 1.000 penerima TKM Lanjutan dan Rp5 juta untuk 8.731 penerima TKM Pemula, total sekitar Rp58,7 miliar dari APBN.",
-  "image": "assets/img/pelatihan-vokasi.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "date": "5 September 2026",
   "isoDate": "2026-09-05T05:48:41.275Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-kunci-wirausaha-bukan-sekadar-dapat-pelanggan-tapi-menjaga-hubungan",
@@ -13449,7 +13556,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Buka Pendaftaran [Pelatihan Vokasi] Batch 5",
   "deck": "Kemnaker membuka pendaftaran Pelatihan Vokasi Nasional Batch 5 pada 27 Agustus-16 September 2026, menyasar pencari kerja, korban PHK, dan lulusan SMA/SMK.",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "date": "5 September 2026",
   "isoDate": "2026-09-05T05:48:36.358Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-buka-pelatihan-vokasi-nasional-batch-5-untuk-akselerasi-keterampilan-tenaga-kerja",
@@ -17749,7 +17856,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Siapkan Kompetensi Pekerja untuk [Green Jobs]",
   "deck": "Kemnaker menyiapkan pelatihan, kurikulum, dan sertifikasi tenaga kerja menyambut proyeksi 5,3-9 juta lapangan kerja hijau dalam 5-10 tahun ke depan.",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "date": "3 September 2026",
   "isoDate": "2026-09-03T01:15:59.061Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-siapkan-kompetensi-tenaga-kerja-hadapi-peluang-green-jobs",
@@ -18914,7 +19021,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Hunian Hotel Bintang Juli 54,54%, [Naik 4 Bulan]",
   "deck": "Tingkat keterisian kamar hotel bintang secara nasional terus naik sejak Maret 2026, kini mencapai 54,54 persen pada Juli.",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "date": "2 September 2026",
   "isoDate": "2026-09-02T05:56:55.112Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -20209,7 +20316,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Penumpang KA Juli Capai 52,12 Juta, [Tertinggi 6 Bulan]",
   "deck": "BPS mencatat jumlah penumpang kereta api naik dua bulan beruntun dan menyentuh level tertinggi sejak awal tahun.",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:55:59.053Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -20236,7 +20343,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Turis Asing Juli 1,53 Juta, [Naik 4 Bulan Beruntun]",
   "deck": "Kunjungan wisatawan mancanegara Juli 2026 mencapai 1,53 juta orang, melanjutkan tren naik sejak April setelah sempat turun pada Maret.",
-  "image": "assets/img/kemasan-produk-gudang.jpg",
+  "image": "assets/img/negosiasi-dagang-meja.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:55:46.858Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -26724,7 +26831,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "image": "assets/img/9-2-gw-proyek-plta-pltm-ri-masuk-tahap-eksekusi.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

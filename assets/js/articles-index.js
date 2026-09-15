@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "patokan-ekspor-emas-naik-1-63-persen-per-15-september",
+  "category": "Industri",
+  "title": "Patokan Ekspor Emas [Naik] 1,63 Persen per 15 September",
+  "deck": "Kemendag menaikkan HPE dan HR emas untuk periode 15-30 September 2026, dasar penghitungan bea keluar dan royalti ekspor emas dari Indonesia.",
+  "date": "15 September 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "HPE emas",
+   "bea keluar",
+   "ekspor emas",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sentimen-global-picu-berlanjutnya-peningkatan-hpe-dan-hr-emas-pada-periode-kedua-september-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bi-proyeksi-kredit-tumbuh-8-12-persen-di-2026",
+  "category": "Perbankan",
+  "title": "BI Proyeksi Kredit Tumbuh [8-12] Persen di 2026",
+  "deck": "Bank Indonesia menyebut modal perbankan tetap tebal dan kredit macet rendah per Juni 2026, sambil menargetkan pertumbuhan kredit 8-12 persen tahun ini.",
+  "date": "15 September 2026",
+  "image": "assets/img/bi-proyeksi-kredit-tumbuh-8-12-persen-di-2026.jpg",
+  "imageV": "mu24r5bl",
+  "tags": [
+   "Bank Indonesia",
+   "Stabilitas Keuangan",
+   "Kredit Perbankan",
+   "NPL"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818726.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "harga-emas-antam-turun-lagi-ke-rp2-592-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Lagi ke Rp2.592.000/Gram",
+  "deck": "Harga emas Antam hari ini turun Rp10.000 menjadi Rp2.592.000 per gram, sementara harga buyback ikut turun ke Rp2.437.000 per gram.",
+  "date": "15 September 2026",
+  "image": "assets/img/harga-emas-antam-turun-lagi-ke-rp2-592-000-gram.jpg",
+  "imageV": "mu24r5qz",
+  "tags": [
+   "emas",
+   "harga emas",
+   "Antam",
+   "investasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467163-terpantau-turun-lagi-harga-emas-antam-hari-ini-15-september-2026-rp2592000-per-gram"
+ },
+ {
   "slug": "cbut-jawab-permintaan-bei-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "CBUT Jawab Permintaan BEI soal [Volatilitas] Saham",
@@ -83,6 +134,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76e782e761_90f387a606.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "menkeu-suahasil-janji-segera-paparkan-data-apbn",
+  "category": "Makroekonomi",
+  "title": "Menkeu Suahasil Janji Segera [Paparkan] Data APBN",
+  "deck": "Menkeu baru Suahasil Nazara berjanji segera menggelar konferensi pers ALCo untuk memaparkan data realisasi APBN Juli dan Agustus 2026 yang belum dipublikasikan.",
+  "date": "15 September 2026",
+  "image": "assets/img/menkeu-suahasil-janji-segera-paparkan-data-apbn.jpg",
+  "imageV": "mu24r65h",
+  "tags": [
+   "APBN",
+   "Kemenkeu",
+   "Suahasil Nazara",
+   "ALCo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467138-menkeu-suahasil-akan-paparkan-data-apbn-secepatnya"
  },
  {
   "slug": "uu-pprt-atur-hak-dan-kewajiban-pekerja-rumah-tangga",
@@ -5889,7 +5957,7 @@ var ARTICLES = [
   "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
   "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
   "date": "8 September 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "tags": [
    "BUMN",
    "Kemnaker",
@@ -6432,71 +6500,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465566-soal-pltp-gunung-ungaran-pengamat-yakinkan-tak-perlu-khawatir-energi-bersih-perlu-didorong-asal-dikaji-komperhensif"
- },
- {
-  "slug": "snlk-jelaskan-ke-bursa-sebab-rugi-beruntun-3-tahun-phk-56",
-  "category": "Aksi Korporasi",
-  "title": "SNLK Jelaskan ke Bursa Sebab Rugi Beruntun 3 Tahun, [PHK] 56%",
-  "deck": "Dalam tanggapan resmi ke bursa, SNLK membeberkan penyebab rugi tiga tahun beruntun, pemangkasan karyawan 56%, hingga kemenangan gugatan Rp12 miliar.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SNLK",
-   "rugi bersih",
-   "laporan keuangan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3b015878b0_a115651aa7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "utang-whoosh-bakal-ditanggung-smv-kemenkeu",
-  "category": "BUMN",
-  "title": "Utang Whoosh Bakal Ditanggung [SMV] Kemenkeu",
-  "deck": "Kemenkeu menyiapkan perusahaan khusus untuk menanggung utang Kereta Cepat Whoosh setelah proyek diserahkan pertengahan September 2026, tanpa membebani kas negara.",
-  "date": "7 September 2026",
-  "image": "assets/img/utang-whoosh-bakal-ditanggung-smv-kemenkeu.jpg",
-  "imageV": "mtrms3nb",
-  "tags": [
-   "Whoosh",
-   "Kemenkeu",
-   "SMV",
-   "utang BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465563-purbaya-siapkan-jurus-baru-bereskan-utang-whoosh-smv-kemenkeu-bakal-jadi-penanggung"
- },
- {
-  "slug": "ojk-minta-blokir-38-375-rekening-judi-online",
-  "category": "Perbankan",
-  "title": "OJK Minta Blokir [38.375] Rekening Judi Online",
-  "deck": "OJK meminta perbankan memeriksa atau memblokir 38.375 rekening terindikasi judi online hingga Juli 2026, naik dari 36.735 rekening sebelumnya.",
-  "date": "7 September 2026",
-  "image": "assets/img/ojk-minta-blokir-38-375-rekening-judi-online.jpg",
-  "imageV": "mtralauj",
-  "tags": [
-   "ojk",
-   "judi online",
-   "perbankan",
-   "pemblokiran rekening"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465547-ojk-perketat-rekening-judi-online-38375-rekening-diminta-diblokir-hingga-juli-2026"
- },
- {
-  "slug": "medc-koreksi-laporan-dana-obligasi-rp990-m-belum-terpakai",
-  "category": "Aksi Korporasi",
-  "title": "MEDC Koreksi Laporan, Dana Obligasi Rp990 M [Belum Terpakai]",
-  "deck": "Dana bersih Rp989,93 miliar dari obligasi MEDC senilai Rp1 triliun belum digunakan hingga akhir Juni 2026, masih tersimpan di bank menunggu pelunasan obligasi jatuh tempo semester II 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "obligasi",
-   "penggunaan dana",
-   "Medco Energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f161fbf80d_de13f1eff8.pdf",
-  "sourceLabel": "IDX"
  }
 ];

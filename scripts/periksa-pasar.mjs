@@ -69,7 +69,7 @@ if (dijalankanLangsung(import.meta.url)) {
     const jam = new Date(Date.parse(M.diperbarui) + 7 * 3600 * 1000).toISOString().slice(0, 16).replace('T', ' ');
     log('data pasar tayang: diperbarui ' + jam + ' WIB, ' + h.umurMenit + ' menit lalu');
   }
-  const angka = (d) => (d ? d.nilai + ' ' + d.delta : '-');
+  const angka = (d) => (d ? d.nilai + (d.delta ? ' ' + d.delta : ' (tanpa %: ' + d.tanpaPersen + ')') : '-');
   log('  IHSG ' + angka(M.ihsg) + ' | USD/IDR ' + angka(M.usdidr) + ' | emas ' + angka(M.emas));
   log('  ' + (h.macet ? 'MACET' : 'segar') + '  ' + h.pesan);
 

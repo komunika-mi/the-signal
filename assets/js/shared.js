@@ -105,10 +105,12 @@
     if (el && MARKET.tanggalWIB) el.innerHTML = MARKET.tanggalWIB;
     var box = document.querySelector(".util-index");
     if (!box) return;
+    // delta kosong = persentase sengaja ditahan karena datanya belum lengkap
+    // atau basi (lihat scripts/fetch-market.mjs). Tampilkan harganya saja.
     function baris(label, d) {
       if (!d) return "";
-      return "<span>" + label + " <b>" + TS.esc(d.nilai) + "</b> <span class=\"" +
-        (d.naik ? "up" : "down") + "\">" + TS.esc(d.delta) + "</span></span>";
+      var ubah = d.delta ? " <span class=\"" + (d.naik ? "up" : "down") + "\">" + TS.esc(d.delta) + "</span>" : "";
+      return "<span>" + label + " <b>" + TS.esc(d.nilai) + "</b>" + ubah + "</span>";
     }
     var html = [baris("IHSG", MARKET.ihsg), baris("USD/IDR", MARKET.usdidr),
       baris("Emas (spot)", MARKET.emas)].filter(Boolean).join("");
@@ -186,10 +188,18 @@
       return '<svg class="spark-mini" viewBox="0 0 44 18"><polyline points="' + pts +
         '" fill="none" stroke="' + warna + '" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>';
     }
+    // Persentase ditahan: tanpa pil, dan garis datar putus-putus alih-alih
+    // garis naik/turun yang akan mengklaim arah yang tidak diketahui.
+    function sparkDatar() {
+      return '<svg class="spark-mini" viewBox="0 0 44 18"><polyline points="1,9 43,9" fill="none" stroke="var(--ink-soft)"' +
+        ' stroke-width="1.6" stroke-linecap="round" stroke-dasharray="3 3"/></svg>';
+    }
     function sel(d, nama) {
       if (!d) return "";
-      return '<div class="ticker-cell"><div class="ticker-top">' + spark(d.naik) +
-        '<span class="pill ' + (d.naik ? "up" : "down") + '">' + TS.esc(d.delta) + '</span></div>' +
+      var atas = d.delta
+        ? spark(d.naik) + '<span class="pill ' + (d.naik ? "up" : "down") + '">' + TS.esc(d.delta) + '</span>'
+        : sparkDatar();
+      return '<div class="ticker-cell"><div class="ticker-top">' + atas + '</div>' +
         '<div class="ticker-value num">' + TS.esc(d.nilai) + '</div>' +
         '<div class="ticker-name">' + nama + '</div></div>';
     }

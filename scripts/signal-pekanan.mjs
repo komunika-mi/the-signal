@@ -79,7 +79,8 @@ function rakitAngka() {
       const s = fs.readFileSync(p, 'utf8');
       const M = JSON.parse(s.slice(s.indexOf('{'), s.lastIndexOf('}') + 1));
       for (const [k, nama] of [['ihsg', 'IHSG'], ['usdidr', 'USD/IDR'], ['emas', 'Emas spot per gram']]) {
-        if (M[k]) baris.push('- ' + nama + ': ' + M[k].nilai + ' (' + M[k].delta + ')');
+        // delta kosong = persentase ditahan karena datanya belum lengkap atau basi.
+        if (M[k]) baris.push('- ' + nama + ': ' + M[k].nilai + (M[k].delta ? ' (' + M[k].delta + ')' : ''));
       }
     }
   } catch { /* angka pasar boleh tidak ada */ }

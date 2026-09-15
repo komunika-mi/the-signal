@@ -410,10 +410,12 @@ function tanggalWIB() {
     + " &middot; " + String(w.getUTCHours()).padStart(2,"0") + "." + String(w.getUTCMinutes()).padStart(2,"0") + " WIB";
 }
 const TANGGAL = MARKET && MARKET.tanggalWIB ? MARKET.tanggalWIB : tanggalWIB();
+// delta kosong = persentase sengaja ditahan (lihat scripts/fetch-market.mjs).
+// Harus sama dengan TS.isiPasar di assets/js/shared.js.
 function baris(label, d) {
   if (!d) return "";
-  const cls = d.naik ? "up" : "down";
-  return "<span>" + label + " <b>" + d.nilai + "</b> <span class=\"" + cls + "\">" + d.delta + "</span></span>";
+  const ubah = d.delta ? " <span class=\"" + (d.naik ? "up" : "down") + "\">" + d.delta + "</span>" : "";
+  return "<span>" + label + " <b>" + d.nilai + "</b>" + ubah + "</span>";
 }
 const PASAR = MARKET
   ? [baris("IHSG", MARKET.ihsg), baris("USD/IDR", MARKET.usdidr), baris("Emas (spot)", MARKET.emas)]
@@ -429,10 +431,18 @@ function sparkMini(naik) {
   return '<svg class="spark-mini" viewBox="0 0 44 18"><polyline points="' + pts +
     '" fill="none" stroke="' + warna + '" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 }
+// Persentase ditahan: tanpa pil, garis datar putus-putus. Harus sama dengan
+// TS.isiKartuPasar di assets/js/shared.js.
+function sparkDatar() {
+  return '<svg class="spark-mini" viewBox="0 0 44 18"><polyline points="1,9 43,9" fill="none" stroke="var(--ink-soft)"' +
+    ' stroke-width="1.6" stroke-linecap="round" stroke-dasharray="3 3"/></svg>';
+}
 function selPasar(d, nama) {
   if (!d) return "";
-  return '<div class="ticker-cell"><div class="ticker-top">' + sparkMini(d.naik) +
-    '<span class="pill ' + (d.naik ? "up" : "down") + '">' + d.delta + '</span></div>' +
+  const atas = d.delta
+    ? sparkMini(d.naik) + '<span class="pill ' + (d.naik ? "up" : "down") + '">' + d.delta + '</span>'
+    : sparkDatar();
+  return '<div class="ticker-cell"><div class="ticker-top">' + atas + '</div>' +
     '<div class="ticker-value num">' + d.nilai + '</div>' +
     '<div class="ticker-name">' + nama + '</div></div>';
 }

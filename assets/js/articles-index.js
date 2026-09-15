@@ -5,6 +5,74 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "uu-pprt-atur-hak-dan-kewajiban-pekerja-rumah-tangga",
+  "category": "Ketenagakerjaan",
+  "title": "UU PPRT [Atur] Hak dan Kewajiban Pekerja Rumah Tangga",
+  "deck": "UU Nomor 2 Tahun 2026 memberi payung hukum bagi pekerja rumah tangga, mengatur upah, jam kerja, THR, jaminan sosial, hingga cara penyelesaian sengketa dengan majikan.",
+  "date": "15 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "PRT",
+   "UU PPRT",
+   "Kemnaker",
+   "Ketenagakerjaan"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-uu-pprt-perjelas-hak-dan-kewajiban-pekerja-rumah-tangga",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "ruu-ketenagakerjaan-masuk-tahap-panja-di-dpr",
+  "category": "Ketenagakerjaan",
+  "title": "RUU Ketenagakerjaan Masuk Tahap [Panja] di DPR",
+  "deck": "Pemerintah menyerahkan Daftar Inventarisasi Masalah RUU Pelindungan Ketenagakerjaan ke DPR, Komisi IX bentuk Panja lanjutkan pembahasan.",
+  "date": "15 September 2026",
+  "image": "assets/img/wawancara-kerja.jpg",
+  "tags": [
+   "RUU Ketenagakerjaan",
+   "DPR",
+   "Kemnaker",
+   "Panja"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/pemerintah-serahkan-dim-ruu-pelindungan-ketenagakerjaan-kepada-dpr",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "esdm-harga-bbm-subsidi-tak-naik-meski-pasokan-minyak-seret",
+  "category": "Energi",
+  "title": "ESDM: Harga BBM Subsidi [Tak] Naik Meski Pasokan Minyak Seret",
+  "deck": "Pemerintah menegaskan harga BBM bersubsidi tak akan naik meski harga minyak dunia bergejolak, sembari menjajaki pasokan minyak dari Rusia dan memperkuat aturan hilirisasi nikel.",
+  "date": "15 September 2026",
+  "image": "assets/img/esdm-harga-bbm-subsidi-tak-naik-meski-pasokan-minyak-seret.jpg",
+  "imageV": "mu1wr07k",
+  "tags": [
+   "BBM bersubsidi",
+   "ESDM",
+   "hilirisasi nikel",
+   "pasokan minyak"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/di-tengah-gejolak-geopolitik-dunia-bahlil-jaga-harga-bbm-bersubsidi-dan-dorong-hilirisasi-berkeadilan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "kemendag-sebut-elpiji-3-kg-di-17-spbe-sesuai-takaran",
+  "category": "Energi",
+  "title": "Kemendag Sebut Elpiji 3 Kg di 17 SPBE [Sesuai] Takaran",
+  "deck": "Wamendag Dyah Roro Esti meninjau SPBE Pertamina di Bandung Barat, menyusul hasil pengawasan Kemendag yang menyatakan elpiji 3 kg di 17 SPBE sampel sudah sesuai takaran.",
+  "date": "15 September 2026",
+  "image": "assets/img/kemendag-sebut-elpiji-3-kg-di-17-spbe-sesuai-takaran.jpg",
+  "imageV": "mu1wr3k0",
+  "tags": [
+   "elpiji 3 kg",
+   "Kemendag",
+   "Pertamina",
+   "BDKT"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tinjau-spbe-padalarang-wamendag-roro-dorong-elpiji-3-kg-tepat-takaran",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "nasi-pemegang-saham-jual-2-28-juta-saham-suara-turun-ke-5-59",
   "category": "Aksi Korporasi",
   "title": "NASI: Pemegang Saham [Jual] 2,28 Juta Saham, Suara Turun ke 5,59%",
@@ -1868,7 +1936,7 @@ var ARTICLES = [
   "title": "Seleksi MagangHub Berlangsung, Hasil Keluar [18 September]",
   "deck": "Seleksi peserta Program Pemagangan Nasional (MagangHub) Batch 2 Angkatan II berlangsung 9-15 September, hasil diumumkan 18 September, magang mulai 21 September 2026.",
   "date": "11 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "tags": [
    "MagangHub",
    "Kemnaker",
@@ -3896,7 +3964,7 @@ var ARTICLES = [
   "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
   "deck": "Kemnaker, Kementerian Investasi, dan Kementerian Imigrasi menyatukan izin penggunaan tenaga kerja asing dalam satu sistem OSS untuk memangkas proses lintas kementerian.",
   "date": "10 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "tags": [
    "TKA",
    "OSS",
@@ -5741,7 +5809,7 @@ var ARTICLES = [
   "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
   "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
   "date": "8 September 2026",
-  "image": "assets/img/bursa-kerja-antre.jpg",
+  "image": "assets/img/buruh-pabrik.jpg",
   "tags": [
    "BUMN",
    "Kemnaker",
@@ -6178,7 +6246,7 @@ var ARTICLES = [
   "title": "Realisasi Investasi [Hilirisasi] Tembus Rp300,1 Triliun",
   "deck": "Realisasi investasi sektor hilirisasi RI naik 6,9 persen menjadi Rp300,1 triliun pada semester I 2026, ditopang strategi perencanaan, kemudahan izin, dan insentif pajak.",
   "date": "8 September 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "hilirisasi",
    "investasi",
@@ -6431,70 +6499,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5044f8afeb_2ff839c1a8.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bbtn-cetak-laba-rp2-4-triliun-di-semester-i-2026-naik-40-8",
-  "category": "Aksi Korporasi",
-  "title": "BBTN Cetak Laba [Rp2,4 Triliun] di Semester I 2026, Naik 40,8%",
-  "deck": "Materi public expose BTN mengungkap laba bersih semester I 2026 melonjak 40,8 persen, kredit tumbuh 11,2 persen, dan akuisisi portofolio kredit dari SMBC Indonesia senilai puluhan triliun rupiah.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBTN",
-   "perbankan",
-   "kinerja keuangan",
-   "akuisisi kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/80b948d9a8_5f5040226b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "snlk-ungkap-ke-bursa-rugi-melonjak-182-sepanjang-2025",
-  "category": "Aksi Korporasi",
-  "title": "SNLK Ungkap ke Bursa, [Rugi] Melonjak 182% Sepanjang 2025",
-  "deck": "SNLK menanggapi permintaan penjelasan BEI atas laporan keuangan 2025, mengonfirmasi rugi naik 182% jadi Rp4,45 miliar akibat pendapatan turun 12,9% dan karyawan dipangkas hingga 56%.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SNLK",
-   "laporan keuangan",
-   "Bursa Efek Indonesia",
-   "perhotelan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd0d28c636_6f26e75a4f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dgns-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "DGNS Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Merespons surat Bursa Efek Indonesia soal lonjakan transaksi sahamnya, Diagnos Laboratorium Utama menyatakan tidak ada info material maupun rencana aksi korporasi yang melatarinya.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGNS",
-   "Diagnos Laboratorium Utama",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7aac22f735_da527c29b2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bea-cukai-sita-barang-rp11-25-triliun-hingga-agustus-2026",
-  "category": "Makroekonomi",
-  "title": "Bea Cukai Sita Barang [Rp11,25 Triliun] hingga Agustus 2026",
-  "deck": "DJBC mencatat 20.643 penindakan senilai Rp11,25 triliun sepanjang Januari-Agustus 2026, dengan rokok ilegal sebagai kasus terbanyak.",
-  "date": "7 September 2026",
-  "image": "assets/img/bea-cukai-sita-barang-rp11-25-triliun-hingga-agustus-2026.jpg",
-  "imageV": "mtralbq5",
-  "tags": [
-   "bea cukai",
-   "rokok ilegal",
-   "DJBC",
-   "penindakan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465542-bea-cukai-sita-barang-rp1125-triliun-hingga-agustus-2026-rokok-ilegal-mendominasi"
  }
 ];

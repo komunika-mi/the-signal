@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kadi-selidiki-dugaan-dumping-baja-impor-tiongkok",
+  "category": "Industri",
+  "title": "KADI [Selidiki] Dugaan Dumping Baja Impor Tiongkok",
+  "deck": "KADI membuka penyelidikan antidumping atas baja lapis seng asal Tiongkok yang menguasai 81 persen impor Indonesia, menyusul aduan dua produsen lokal.",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T06:12:03.487Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-impor-baja-lapis-seng-asal-tiongkok",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "antidumping",
+   "baja",
+   "impor Tiongkok",
+   "KADI"
+  ],
+  "body": [
+   "Komite Anti Dumping Indonesia (KADI) resmi membuka penyelidikan antidumping terhadap impor baja lapis seng atau galvanis (BJLS) asal Tiongkok, mulai Selasa (15/9). Penyelidikan ini dipicu permohonan dua produsen dalam negeri, PT Tata Metal Lestari dan PT ArcelorMittal Nippon Steel Indonesia, yang menilai lonjakan impor dari Tiongkok merugikan industri baja lokal. Jika terbukti, hasil penyelidikan bisa berujung pada bea masuk tambahan yang mengubah harga baja galvanis, bahan yang banyak dipakai untuk atap dan rangka bangunan.",
+   "Menurut Ketua KADI Frida Adiati, kajian awal atas bukti yang diajukan menemukan indikasi peningkatan impor BJLS asal Tiongkok yang merugikan industri dalam negeri. Sepanjang 2023 sampai 2025, total impor BJLS Indonesia dari seluruh dunia tercatat 2.562.407 metrik ton, dan 2.075.801 metrik ton di antaranya, atau sekitar 81 persen, berasal dari Tiongkok.",
+   "Produk yang diselidiki mencakup sembilan kode Harmonized System dalam Buku Tarif Kepabeanan Indonesia 2022, yaitu 7210.49.11, 7210.49.17, 7210.49.18, 7210.49.19, 7212.30.12, 7212.30.13, 7212.30.19, 7225.92.90, dan 7225.99.90. Proses penyelidikan mengacu pada Peraturan Pemerintah Nomor 34 Tahun 2011 tentang Tindakan Antidumping, Tindakan Imbalan, dan Tindakan Pengamanan Perdagangan, dengan jangka waktu maksimal 12 bulan yang dapat diperpanjang menjadi 18 bulan.",
+   "KADI menyatakan telah mengirim pemberitahuan dimulainya penyelidikan kepada pihak berkepentingan, termasuk industri dalam negeri, importir, serta eksportir dan produsen BJLS Tiongkok yang diketahui. Pemberitahuan itu juga disampaikan kepada perwakilan Pemerintah Tiongkok di Indonesia dan Kedutaan Besar Republik Indonesia di Tiongkok."
+  ],
+  "fotoAdegan": "Stacks of galvanized steel sheet coils in an industrial warehouse yard, forklift moving nearby, overcast morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan aturan baru, melainkan proses hukum yang baru dibuka: KADI resmi menyelidiki apakah baja lapis seng dari Tiongkok dijual ke Indonesia dengan harga di bawah harga wajar sehingga merugikan pabrik lokal. Data awal yang dipakai KADI menunjukkan bahwa sepanjang 2023 sampai 2025, sekitar 81 persen dari total impor baja jenis ini, atau sekitar 2 juta ton, datang dari Tiongkok. Pihak yang langsung terdampak adalah dua produsen dalam negeri yang mengajukan aduan, Tata Metal Lestari dan ArcelorMittal Nippon Steel Indonesia, importir serta eksportir Tiongkok yang kini harus menyerahkan data ke KADI, dan pembeli baja galvanis seperti pengembang bangunan yang bisa menghadapi harga lebih tinggi kalau penyelidikan berujung bea masuk tambahan. Ada dua kemungkinan ujungnya: jika dumping dan kerugian terbukti, pemerintah bisa mengenakan bea masuk antidumping yang membuat baja impor Tiongkok lebih mahal, tapi jika tidak terbukti, impor akan berjalan seperti biasa. Penyelidikan ini berlangsung sampai 12 bulan dan bisa diperpanjang sampai 18 bulan, jadi kejelasan soal terbukti tidaknya dumping baru akan muncul bertahap lewat penentuan awal sebelum keputusan akhir."
+ },
+ {
+  "slug": "utang-luar-negeri-ri-naik-swasta-justru-tertekan",
+  "category": "Makroekonomi",
+  "title": "Utang Luar Negeri RI Naik, Swasta Justru [Tertekan]",
+  "deck": "ULN Indonesia naik jadi US$454,8 miliar pada Juli 2026, ditopang penerbitan surat utang pemerintah, sementara utang luar negeri swasta justru menyusut.",
+  "image": "assets/img/utang-luar-negeri-ri-naik-swasta-justru-tertekan.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T06:11:54.233Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818826.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "utang luar negeri",
+   "Bank Indonesia",
+   "surat utang negara",
+   "APBN"
+  ],
+  "body": [
+   "Bank Indonesia melaporkan posisi utang luar negeri (ULN) Indonesia pada Juli 2026 mencapai US$454,8 miliar, naik tipis dari US$454,5 miliar pada Juni dan tumbuh 4,9 persen dibanding periode yang sama tahun lalu. Yang menarik bukan sekadar angka totalnya, tapi arah pergerakannya: utang pemerintah terus bertambah, sedangkan utang sektor swasta justru menyusut. Bagi pembaca, ini penting karena menunjukkan siapa yang sekarang menambah pinjaman ke luar negeri dan siapa yang mengerem.",
+   "ULN pemerintah tercatat US$218,4 miliar, tumbuh 3,2 persen dari tahun lalu, didorong oleh minat investor terhadap surat utang negara berdenominasi valuta asing yang diterbitkan di pasar internasional. Dana ini masuk sebagai salah satu sumber pembiayaan APBN, dengan porsi terbesar mengalir ke sektor jasa kesehatan dan kegiatan sosial (22 persen), administrasi pemerintahan dan pertahanan (20,7 persen), pendidikan (16,2 persen), konstruksi (11,5 persen), serta transportasi dan pergudangan (8,5 persen). Hampir seluruh utang ini berjangka panjang.",
+   "Di sisi lain, ULN swasta tercatat US$194,5 miliar, turun 1,2 persen dari tahun lalu. Penurunan terjadi baik pada perusahaan nonlembaga keuangan (turun 1,4 persen) maupun lembaga keuangan seperti bank (turun 0,3 persen). Utang swasta ini paling banyak berasal dari empat sektor, yaitu industri pengolahan, jasa keuangan dan asuransi, penyediaan listrik dan gas, serta pertambangan, yang bersama-sama menyumbang 80,6 persen dari total utang swasta.",
+   "Bank Indonesia mencatat rasio total ULN terhadap produk domestik bruto (PDB) berada di angka 30,7 persen pada Juli 2026, dengan mayoritas utang berjangka panjang sehingga risiko jatuh tempo mendadak relatif kecil. Data lengkapnya dipublikasikan dalam Statistik Utang Luar Negeri Indonesia edisi September 2026 untuk periode data Juli, yang bisa diakses di situs Bank Indonesia maupun Kementerian Keuangan."
+  ],
+  "fotoAdegan": "Workers assembling machinery parts on a factory production line, wearing helmets, industrial lighting, Indonesia",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2727325/Rilis-Utang-Luar-Negeri.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah bukan cuma angka totalnya, melainkan komposisinya: utang pemerintah lewat surat utang internasional terus bertambah, sementara perusahaan swasta, terutama di industri pengolahan, jasa keuangan, listrik dan gas, serta pertambangan, justru mengurangi pinjaman luar negerinya. Yang terdampak adalah pengelola anggaran negara yang tampak makin mengandalkan pembiayaan dari luar negeri untuk menutup kekurangan APBN, sekaligus perusahaan swasta di empat sektor tadi yang tampaknya menahan diri menambah utang dari luar. Pola ini mengarah ke pergeseran perlahan, beban utang luar negeri mulai lebih banyak ditanggung negara ketimbang swasta, meski porsi keduanya masih relatif berdekatan yaitu US$218,4 miliar berbanding US$194,5 miliar. Yang akan menentukan apakah ini benar tren atau sekadar fluktuasi sesaat adalah data ULN edisi Oktober untuk posisi Agustus 2026, khususnya apakah kontraksi utang swasta itu berlanjut atau justru berbalik naik.",
+  "imageV": "mu2a627h"
+ },
+ {
   "slug": "maya-jonathan-tahir-jual-523-juta-saham-untuk-lunasi-utang",
   "category": "Aksi Korporasi",
   "title": "MAYA: Jonathan Tahir Jual 523 Juta Saham untuk [Lunasi Utang]",
@@ -52,6 +107,33 @@ var ARTICLES = [
   "fotoAdegan": "Workers assembling aluminum vehicle chassis and body components on an automotive parts factory production line, industrial lighting",
   "takeaway": "Laporan ini condong positif bagi DRMA karena perusahaan membuka lini bisnis baru berupa komponen kendaraan listrik dan konstruksi berbasis aluminium bersama mitra global Minth Group, meski porsi kepemilikannya hanya 49 persen sehingga DRMA tidak mengendalikan penuh perusahaan patungan ini. Pos yang tersentuh adalah laba bersih DRMA, sebab dengan metode pencatatan akuntansi untuk kepemilikan minoritas seperti ini, untung atau rugi PT Dharma Minth Indonesia akan ikut masuk ke laporan laba rugi DRMA sesuai porsi 49 persen, bukan langsung menambah pendapatan penjualan. Modal disetor DMI sebesar Rp45 miliar dari modal dasar Rp180 miliar tergolong kecil dibanding skala bisnis manufaktur otomotif DRMA, sehingga dampak ke neraca dan arus kas saat ini masih terbatas, seperti diakui sendiri oleh perseroan dalam laporannya. Yang perlu dipantau selanjutnya adalah kapan PT Dharma Minth Indonesia mulai berproduksi dan apakah ada suntikan modal tambahan ke depan, karena laporan ini belum mencantumkan jadwal operasional maupun target produksi.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "lulusan-ciputra-bangun-bisnis-soto-di-sidoarjo",
+  "category": "UMKM",
+  "title": "Lulusan Ciputra Bangun Bisnis [Soto] di Sidoarjo",
+  "deck": "Anisa Intan Amalia, 24 tahun, mendirikan restoran soto khas Ngawi di Sidoarjo dengan bekal pendidikan bisnis kuliner dari Universitas Ciputra.",
+  "image": "assets/img/lulusan-ciputra-bangun-bisnis-soto-di-sidoarjo.jpg",
+  "date": "15 September 2026",
+  "isoDate": "2026-09-15T11:47:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467185-belajar-culinary-business-di-universitas-ciputra-anisa-kembangkan-soko-pawon-dengan-soto-khas-ngawi",
+  "tags": [
+   "UMKM",
+   "bisnis kuliner",
+   "Sidoarjo",
+   "Universitas Ciputra"
+  ],
+  "body": [
+   "Anisa Intan Amalia, perempuan berusia 24 tahun, mendirikan restoran Soko Pawon di Jalan Pepelegi Indah Nomor 2, Sidoarjo, dengan menu utama soto khas Ngawi. Ia adalah lulusan S1 Culinary Business dari Universitas Ciputra Surabaya, sehingga usahanya menjadi contoh bagaimana pendidikan bisnis kuliner diterjemahkan langsung menjadi usaha nyata oleh wirausaha muda.",
+   "Konsep pendopo bernuansa tradisional sengaja dipilih Anisa karena ia sejak awal menghindari format kafe. Menurutnya, pelanggan anak muda cenderung membeli sedikit tapi berlama-lama nongkrong sehingga jarang membeli ulang, sementara pelanggan keluarga dan orang tua datang, makan, membayar, lalu pulang, sehingga polanya lebih rutin. Semangkuk soto di Soko Pawon dijual seharga Rp13.000, dilengkapi menu pendamping seperti sate, gorengan, dan ayam bakar.",
+   "Setelah sekitar satu tahun fokus menjalankan bisnis, Anisa kembali kuliah untuk menempuh Magister Management dengan peminatan Family Business di kampus yang sama. Ilmu dari bangku kuliah menjadi bekal mengelola usaha, sementara pengalaman orang tuanya sebagai pengusaha menjadi tempatnya berdiskusi setiap kali menghadapi persoalan bisnis.",
+   "Respons pelanggan menunjukkan konsep ini mendapat tempat. Ibu Yayuk, salah satu pelanggan yang kerap datang bersama teman-temannya untuk acara, menyebut kuah bening soto yang gurih dan tanpa MSG serta harga yang terjangkau sebagai alasan ia terus kembali ke Soko Pawon."
+  ],
+  "fotoAdegan": "Open-air Javanese pavilion restaurant, steaming bowls of clear soto broth on a wooden table, skewers of satay and fried snacks nearby, warm morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/15/6aa8cc22b340b-soko-pawon-di-jl-pepelegi-indah-no-2-di-sidoarjo-ramai-pembeli_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah satu usaha kuliner baru, Soko Pawon, memilih positioning spesifik yaitu menyasar keluarga dan pelanggan tetap lewat soto seharga Rp13.000 per porsi, alih-alih mengejar tren kafe yang biasa disasar anak muda. Yang terdampak langsung adalah konsumen Sidoarjo pencari makanan rumahan terjangkau, sekaligus menjadi contoh kasus bagi pelaku UMKM kuliner muda lain yang sedang mempertimbangkan model bisnis serupa. Berita ini belum memuat data omzet, jumlah pelanggan, atau rencana perluasan Soko Pawon, sehingga belum bisa dipastikan apakah strategi mengutamakan loyalitas keluarga dibanding hype anak muda itu benar terbukti secara bisnis atau baru asumsi awal pemiliknya. Yang perlu dipantau adalah perkembangan usaha ini dalam setahun ke depan, termasuk apakah Anisa membuka cabang baru setelah menuntaskan studi magisternya.",
+  "imageV": "mu2a62qd"
  },
  {
   "slug": "mega-klaim-tak-ada-info-material-di-balik-volatilitas-saham",
@@ -243,7 +325,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Patokan Ekspor Emas [Naik] 1,63 Persen per 15 September",
   "deck": "Kemendag menaikkan HPE dan HR emas untuk periode 15-30 September 2026, dasar penghitungan bea keluar dan royalti ekspor emas dari Indonesia.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "date": "15 September 2026",
   "isoDate": "2026-09-15T03:38:40.713Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sentimen-global-picu-berlanjutnya-peningkatan-hpe-dan-hr-emas-pada-periode-kedua-september-2026",
@@ -10732,7 +10814,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Realisasi Investasi [Hilirisasi] Tembus Rp300,1 Triliun",
   "deck": "Realisasi investasi sektor hilirisasi RI naik 6,9 persen menjadi Rp300,1 triliun pada semester I 2026, ditopang strategi perencanaan, kemudahan izin, dan insentif pajak.",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-07T19:15:18.816Z",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-ungkap-tiga-strategi-jemput-investasi-dan-perkuat-hilirisasi",
@@ -13921,7 +14003,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Buka Pendaftaran [Pelatihan Vokasi] Batch 5",
   "deck": "Kemnaker membuka pendaftaran Pelatihan Vokasi Nasional Batch 5 pada 27 Agustus-16 September 2026, menyasar pencari kerja, korban PHK, dan lulusan SMA/SMK.",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "date": "5 September 2026",
   "isoDate": "2026-09-05T05:48:36.358Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-buka-pelatihan-vokasi-nasional-batch-5-untuk-akselerasi-keterampilan-tenaga-kerja",
@@ -18221,7 +18303,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Siapkan Kompetensi Pekerja untuk [Green Jobs]",
   "deck": "Kemnaker menyiapkan pelatihan, kurikulum, dan sertifikasi tenaga kerja menyambut proyeksi 5,3-9 juta lapangan kerja hijau dalam 5-10 tahun ke depan.",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "date": "3 September 2026",
   "isoDate": "2026-09-03T01:15:59.061Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-siapkan-kompetensi-tenaga-kerja-hadapi-peluang-green-jobs",
@@ -20735,7 +20817,7 @@ var ARTICLES = [
   "category": "Perdagangan",
   "title": "Neraca Dagang Juli Surplus Tipis [0,12 Miliar Dolar]",
   "deck": "Surplus perdagangan Indonesia naik 127,06% dari Juni yang defisit, namun anjlok 97,08% dibanding Juli 2025.",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:55:18.059Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -20762,7 +20844,7 @@ var ARTICLES = [
   "category": "Perdagangan",
   "title": "Impor RI Juli 2026 Tembus US$26,1 M, [Naik 27%]",
   "deck": "BPS mencatat nilai impor Juli 2026 naik tipis 0,72% dari Juni, namun melonjak 27,02% dibanding Juli tahun lalu.",
-  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
+  "image": "assets/img/27-provinsi-inflasi-agustus-babel-maluku-tertinggi-0-81.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:54:49.314Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -20789,7 +20871,7 @@ var ARTICLES = [
   "category": "Perdagangan",
   "title": "Ekspor RI Juli 2026 [Naik Jadi US$26,2 M]",
   "deck": "BPS mencatat nilai ekspor Juli 2026 naik dibanding Juni maupun periode sama tahun lalu, melanjutkan tren kenaikan sejak Mei.",
-  "image": "assets/img/27-provinsi-inflasi-agustus-babel-maluku-tertinggi-0-81.jpg",
+  "image": "assets/img/9-2-gw-proyek-plta-pltm-ri-masuk-tahap-eksekusi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:54:17.834Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -27196,7 +27278,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/9-2-gw-proyek-plta-pltm-ri-masuk-tahap-eksekusi.jpg",
+  "image": "assets/img/aadi-bagikan-dividen-saham-rasio-1-10-rups-24-agustus.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

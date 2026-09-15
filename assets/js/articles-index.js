@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kadi-selidiki-dugaan-dumping-baja-impor-tiongkok",
+  "category": "Industri",
+  "title": "KADI [Selidiki] Dugaan Dumping Baja Impor Tiongkok",
+  "deck": "KADI membuka penyelidikan antidumping atas baja lapis seng asal Tiongkok yang menguasai 81 persen impor Indonesia, menyusul aduan dua produsen lokal.",
+  "date": "15 September 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "antidumping",
+   "baja",
+   "impor Tiongkok",
+   "KADI"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-impor-baja-lapis-seng-asal-tiongkok",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "utang-luar-negeri-ri-naik-swasta-justru-tertekan",
+  "category": "Makroekonomi",
+  "title": "Utang Luar Negeri RI Naik, Swasta Justru [Tertekan]",
+  "deck": "ULN Indonesia naik jadi US$454,8 miliar pada Juli 2026, ditopang penerbitan surat utang pemerintah, sementara utang luar negeri swasta justru menyusut.",
+  "date": "15 September 2026",
+  "image": "assets/img/utang-luar-negeri-ri-naik-swasta-justru-tertekan.jpg",
+  "imageV": "mu2a627h",
+  "tags": [
+   "utang luar negeri",
+   "Bank Indonesia",
+   "surat utang negara",
+   "APBN"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818826.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "maya-jonathan-tahir-jual-523-juta-saham-untuk-lunasi-utang",
   "category": "Aksi Korporasi",
   "title": "MAYA: Jonathan Tahir Jual 523 Juta Saham untuk [Lunasi Utang]",
@@ -35,6 +69,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/32b011d038_afe61d4f85.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lulusan-ciputra-bangun-bisnis-soto-di-sidoarjo",
+  "category": "UMKM",
+  "title": "Lulusan Ciputra Bangun Bisnis [Soto] di Sidoarjo",
+  "deck": "Anisa Intan Amalia, 24 tahun, mendirikan restoran soto khas Ngawi di Sidoarjo dengan bekal pendidikan bisnis kuliner dari Universitas Ciputra.",
+  "date": "15 September 2026",
+  "image": "assets/img/lulusan-ciputra-bangun-bisnis-soto-di-sidoarjo.jpg",
+  "imageV": "mu2a62qd",
+  "tags": [
+   "UMKM",
+   "bisnis kuliner",
+   "Sidoarjo",
+   "Universitas Ciputra"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467185-belajar-culinary-business-di-universitas-ciputra-anisa-kembangkan-soko-pawon-dengan-soto-khas-ngawi"
  },
  {
   "slug": "mega-klaim-tak-ada-info-material-di-balik-volatilitas-saham",
@@ -154,7 +205,7 @@ var ARTICLES = [
   "title": "Patokan Ekspor Emas [Naik] 1,63 Persen per 15 September",
   "deck": "Kemendag menaikkan HPE dan HR emas untuk periode 15-30 September 2026, dasar penghitungan bea keluar dan royalti ekspor emas dari Indonesia.",
   "date": "15 September 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "HPE emas",
    "bea keluar",
@@ -6443,53 +6494,5 @@ var ARTICLES = [
   "tags": [],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465632-turun-rp10000-harga-emas-antam-hari-ini-8-september-2026-jadi-rp2627000-per-gram"
- },
- {
-  "slug": "clpi-jadwalkan-rupslb-pada-15-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "CLPI Jadwalkan [RUPSLB] pada 15 Oktober 2026",
-  "deck": "Colorpak Indonesia mengumumkan rencana RUPSLB pada 15 Oktober 2026. Pemegang saham yang tercatat hingga 22 September 2026 berhak hadir dan memberi suara.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CLPI",
-   "RUPSLB",
-   "Colorpak Indonesia",
-   "Corporate Action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a58bbbe47f_da55b8b82b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-rampungkan-akuisisi-nextier-nac-ngc-jadi-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Rampungkan Akuisisi [Nextier], NAC-NGC Jadi Anak Usaha",
-  "deck": "MGLV menandatangani akta pengambilalihan saham NAC dan NGC dari NDC pada 7 September 2026, merampungkan transaksi akuisisi yang sebelumnya sempat tertunda karena permintaan penjelasan OJK.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "akuisisi",
-   "Nextier",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4be4aede13_5abbbe8b22.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-panggil-rupo-rupsi-usul-standstill-bayar-utang",
-  "category": "Aksi Korporasi",
-  "title": "POST Panggil RUPO & RUPSI, Usul [Standstill] Bayar Utang",
-  "deck": "Pos Indonesia mengundang pemegang obligasi dan sukuk ke rapat 21 September 2026 untuk membahas penundaan pembayaran utang hingga akhir 2026 dan perpanjangan tenor hingga 2032.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "Pos Indonesia",
-   "restrukturisasi utang",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6468377930_72aec221a2.pdf",
-  "sourceLabel": "IDX"
  }
 ];

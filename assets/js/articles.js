@@ -85,6 +85,58 @@ var ARTICLES = [
   "imageV": "mu45r1o5"
  },
  {
+  "slug": "fish-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "FISH Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "FKS Multi Agro (FISH) menjawab permintaan penjelasan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T20:12:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/012df4c660_b66e96da45.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FISH",
+  "tags": [
+   "FISH",
+   "FKS Multi Agro",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "body": [
+   "FKS Multi Agro Tbk (FISH) mengirim surat penjelasan kepada Bursa Efek Indonesia setelah bursa meminta klarifikasi atas volatilitas transaksi saham perseroan melalui surat nomor S-12041/BEI.PP3/09-2026. Jawaban perseroan tertuang dalam surat nomor 06/FKSMA-JKT/CS/I/2026 tertanggal 16 September 2026, yang ditandatangani Corporate Secretary FISH, Lucy Tjahjadi.",
+   "Dalam surat itu, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga efeknya, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham, dan menegaskan belum ada rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa.",
+   "Perseroan menambahkan tidak ada informasi atau kejadian penting lain yang material dan berpengaruh terhadap harga efek maupun kelangsungan usahanya yang belum diungkapkan ke publik. Soal rencana pemegang saham utama terkait kepemilikan sahamnya, perseroan menyatakan sudah mengonfirmasi langsung dan saat ini pemegang saham utama tersebut belum memiliki rencana apa pun atas sahamnya."
+  ],
+  "fotoAdegan": "Pedestrians and office workers crossing a plaza beneath glass office towers in Jakarta's Sudirman business district, midday light.",
+  "takeaway": "Penilaian kami netral, sebab surat ini pada dasarnya adalah bentuk konfirmasi rutin yang wajib diberikan emiten setiap kali sahamnya mengalami pergerakan harga atau volume transaksi yang tidak biasa, dan isinya sepenuhnya menyangkal adanya sebab fundamental di baliknya. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh oleh laporan ini, karena memang tidak ada aksi korporasi atau transaksi yang diumumkan, itulah sebabnya pelaku pasar sebaiknya tidak membaca volatilitas harga belakangan ini sebagai cerminan perubahan fundamental usaha FISH. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham FISH mereda tanpa info baru, atau justru bursa kembali meminta penjelasan lanjutan, serta apakah dalam tiga bulan ke depan, jangka waktu yang disebut sendiri oleh perseroan, benar-benar tidak muncul rencana aksi korporasi seperti yang dinyatakan saat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mbma-siapkan-buyback-rp1-38-triliun-di-tengah-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "MBMA Siapkan [Buyback] Rp1,38 Triliun di Tengah Pasar Bergejolak",
+  "deck": "MBMA berencana membeli kembali maksimal 1,465 miliar saham senilai Rp1,38 triliun pada 17 September-16 Desember 2026, memanfaatkan aturan OJK untuk kondisi pasar bergejolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T20:12:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7aadf3d844_837e57f47d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBMA",
+  "tags": [
+   "MBMA",
+   "buyback saham",
+   "OJK",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Merdeka Battery Materials Tbk (MBMA) mengumumkan rencana pembelian kembali sahamnya sendiri sebanyak-banyaknya 1.465.000.000 lembar saham dengan alokasi dana maksimum Rp1,38 triliun, termasuk biaya perantara pedagang efek dan biaya lainnya. Pembelian kembali ini merujuk pada Peraturan OJK No. 13/2023 dan No. 29/2023 tentang kebijakan menjaga stabilitas pasar modal, serta Surat OJK No. S-112/D.04/2026 tanggal 9 September 2026 yang mengizinkan emiten melakukan buyback dalam kondisi pasar yang berfluktuasi signifikan. Perseroan akan melaksanakan pembelian ini secara bertahap mulai 17 September hingga paling lambat 16 Desember 2026, atau berhenti lebih awal jika jumlah saham atau dana yang dialokasikan sudah habis terpakai.",
+   "Pembelian akan dilakukan melalui Bursa Efek Indonesia dengan menunjuk satu perusahaan efek sebagai pelaksana, pada harga yang dianggap wajar oleh perseroan sesuai ketentuan OJK. Selama periode buyback berlangsung, komisaris, direktur, pegawai, pemegang saham utama, dan pihak lain yang berpotensi memiliki akses informasi orang dalam dilarang bertransaksi atas saham MBMA, termasuk pada hari yang sama dengan penjualan saham hasil buyback oleh perseroan.",
+   "Manajemen memperkirakan aksi ini tidak akan menurunkan pendapatan maupun menambah beban pembiayaan perseroan. Dalam proyeksi proforma, laba periode berjalan yang diatribusikan ke pemilik entitas induk tetap di angka US$29,95 juta, sementara rata-rata tertimbang jumlah saham beredar turun dari 107.995.419.900 lembar menjadi 106.530.419.900 lembar, persis sebesar jumlah maksimal saham yang akan dibeli kembali. Dengan susutnya jumlah saham itu, laba per saham dasar diperkirakan tetap di level US$0,00028."
+  ],
+  "fotoAdegan": "Workers guiding heavy equipment over stacked reddish nickel ore at an open pit mining stockpile in Indonesia, overcast sky, distant hills",
+  "takeaway": "Rencana buyback ini condong positif bagi MBMA karena dana yang dipakai berasal dari kas sendiri, tidak menambah utang, dan perseroan menegaskan pendapatan maupun biaya pembiayaan tidak akan terganggu, sembari memberi sokongan permintaan di pasar saat kondisi sedang bergejolak. Yang tersentuh langsung adalah jumlah saham beredar, yaitu total lembar saham perseroan yang dipegang publik dan bisa diperdagangkan, yang berpotensi berkurang sampai 1,465 miliar lembar atau sekitar 1,4 persen dari total saat ini, sementara proyeksi laba per saham, yakni keuntungan perusahaan dibagi jumlah saham beredar, hampir tidak berubah karena porsi yang dibeli relatif kecil dibanding total saham perseroan yang mencapai lebih dari 107 miliar lembar. Dana Rp1,38 triliun yang dialokasikan juga berarti arus kas keluar dalam jumlah besar selama periode pelaksanaan, meski perseroan menyebut hal ini tidak akan mengganggu kondisi keuangannya. Yang perlu dipantau berikutnya adalah realisasi pembelian selama periode 17 September sampai 16 Desember 2026, termasuk apakah perseroan benar-benar menghabiskan seluruh alokasi dana atau menghentikan program lebih cepat setelah target saham maupun dana tercapai.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bapanas-bongkar-25-merek-beras-fortifikasi-culas",
   "category": "Industri",
   "title": "Bapanas Bongkar 25 Merek Beras Fortifikasi [Culas]",

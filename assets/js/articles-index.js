@@ -58,6 +58,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467519-big-data-dan-ai-dinilai-bisa-optimalkan-penerimaan-pajak-kemenkeu-dorong-kebijakan-berbasis-data"
  },
  {
+  "slug": "fish-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "FISH Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "FKS Multi Agro (FISH) menjawab permintaan penjelasan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FISH",
+   "FKS Multi Agro",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/012df4c660_b66e96da45.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbma-siapkan-buyback-rp1-38-triliun-di-tengah-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "MBMA Siapkan [Buyback] Rp1,38 Triliun di Tengah Pasar Bergejolak",
+  "deck": "MBMA berencana membeli kembali maksimal 1,465 miliar saham senilai Rp1,38 triliun pada 17 September-16 Desember 2026, memanfaatkan aturan OJK untuk kondisi pasar bergejolak.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBMA",
+   "buyback saham",
+   "OJK",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7aadf3d844_837e57f47d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bapanas-bongkar-25-merek-beras-fortifikasi-culas",
   "category": "Industri",
   "title": "Bapanas Bongkar 25 Merek Beras Fortifikasi [Culas]",
@@ -6475,37 +6507,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466023-rekening-massal-bri-untuk-warga-segera-dibuka-rosan-aceh-pakai-bsi"
- },
- {
-  "slug": "hrta-jadwalkan-rups-independen-private-placement-10",
-  "category": "Aksi Korporasi",
-  "title": "HRTA Jadwalkan RUPS Independen [Private Placement] 10%",
-  "deck": "HRTA menggelar RUPS Independen pada 16 Oktober 2026 untuk meminta persetujuan penerbitan saham baru hingga 10 persen tanpa hak memesan efek terlebih dahulu.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRTA",
-   "RUPS Independen",
-   "private placement",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ae50986f3_378800c6db.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meds-jelaskan-lonjakan-saham-34-72-ke-ara",
-  "category": "Aksi Korporasi",
-  "title": "MEDS Jelaskan Lonjakan Saham 34,72% ke [ARA]",
-  "deck": "Saham Hetzer Medical Indonesia melonjak 34,72% dan menyentuh batas atas otomatis pada 7 September 2026, memicu permintaan penjelasan dari Bursa Efek Indonesia.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDS",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "Hetzer Medical Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b62bf5ab68_3e2ca8133f.pdf",
-  "sourceLabel": "IDX"
  }
 ];

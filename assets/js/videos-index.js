@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "jwi5v-WaW9Q",
+  "title": "Kementerian Investasi Gelar Anugerah Layanan Investasi 2026",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kementerian Investasi dan Hilirisasi/BKPM menggelar Anugerah Layanan Investasi 2026 sebagai apresiasi atas kinerja pelayanan investasi daerah, dengan Menteri Rosan Roeslani menekankan pentingnya peningkatan kualitas layanan.",
+  "takeaway": "Penghargaan ini mencerminkan upaya pemerintah memperbaiki iklim investasi daerah, yang berpengaruh langsung terhadap arus modal masuk ke Indonesia."
+ },
+ {
+  "id": "RNSTpYmHCHU",
+  "title": "Presiden Prabowo Ternyata Dibohongi Perusahaan BUMN",
+  "category": "BUMN",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo mengungkapkan sejumlah perusahaan BUMN diduga membuat laporan keuangan dengan keuntungan yang dibesar-besarkan demi mendapatkan bonus bagi manajemen.",
+  "takeaway": "Pernyataan ini menyoroti persoalan tata kelola dan transparansi laporan keuangan BUMN yang berdampak pada kepercayaan investor dan efisiensi badan usaha milik negara."
+ },
+ {
+  "id": "DnfO9JAvj5E",
+  "title": "Presiden Prabowo Soroti Perbedaan Rating S&P soal Fundamental Ekonomi",
+  "category": "Makroekonomi",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo menanggapi perbedaan penilaian lembaga pemeringkat S&P terhadap fundamental ekonomi Indonesia, sekaligus menegaskan Indonesia tidak akan tunduk pada tekanan negara lain.",
+  "takeaway": "Pandangan kepala negara soal penilaian lembaga pemeringkat internasional penting bagi investor dalam menakar risiko dan arah kebijakan ekonomi Indonesia."
+ },
+ {
   "id": "Ssa46z-68kA",
   "title": "Penghasilan Nelayan Naik 30 hingga 40 Persen",
   "category": "Ketenagakerjaan",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "IBF tvOne",
   "summary": "Pakar kebijakan publik mengusulkan pelonggaran anggaran penanganan bencana menyusul tekanan rentetan bencana terhadap pertumbuhan ekonomi. Menteri Keuangan sebelumnya mengakui dampak tersebut.",
   "takeaway": "Usulan pelonggaran anggaran bencana menyentuh isu alokasi APBN yang penting bagi pembaca ekonomi."
- },
- {
-  "id": "c0V9qMRMjqk",
-  "title": "Ekonom Pertanyakan Target Pertumbuhan Ekonomi 5,4 Persen",
-  "category": "Makroekonomi",
-  "program": "IBF",
-  "summary": "Kalangan ekonom mempertanyakan target pertumbuhan ekonomi 5,4 persen yang dinilai dipaksakan, di tengah rentetan bencana yang turut menekan aktivitas ekonomi di sejumlah wilayah.",
-  "takeaway": "Relevan bagi pembaca yang mengikuti kredibilitas asumsi makro pemerintah dan dampak bencana terhadap kinerja ekonomi nasional."
- },
- {
-  "id": "0RDjybps-IE",
-  "title": "Optimisme Capai Pertumbuhan Ekonomi di Tengah Bencana",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Menteri Keuangan Purbaya Yudhi Sadewa memaparkan optimisme capaian pertumbuhan ekonomi kendati rentetan bencana di berbagai wilayah menekan aktivitas ekonomi nasional.",
-  "takeaway": "Forum ini memberi gambaran langsung dari otoritas fiskal soal proyeksi pertumbuhan ekonomi di tengah tekanan bencana, sehingga relevan bagi pembaca yang memantau arah kebijakan ekonomi."
- },
- {
-  "id": "zaD-KFNdjfo",
-  "title": "PT KAI Siapkan Kereta Tambahan Imbas Penumpang Pesawat Beralih",
-  "category": "BUMN",
-  "program": "Apa Kabar Indonesia Malam",
-  "summary": "PT Kereta Api Indonesia menyiapkan sembilan perjalanan kereta tambahan untuk mengantisipasi lonjakan penumpang akibat penutupan sejumlah bandara imbas erupsi Anak Krakatau.",
-  "takeaway": "Menarik bagi pembaca ekonomi karena memperlihatkan respons operasional BUMN transportasi terhadap pergeseran permintaan penumpang antar moda."
  }
 ];

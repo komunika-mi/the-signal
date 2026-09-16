@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "jwi5v-WaW9Q",
+  "title": "Kementerian Investasi Gelar Anugerah Layanan Investasi 2026",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kementerian Investasi dan Hilirisasi/BKPM menggelar Anugerah Layanan Investasi 2026 sebagai apresiasi atas kinerja pelayanan investasi daerah, dengan Menteri Rosan Roeslani menekankan pentingnya peningkatan kualitas layanan.",
+  "takeaway": "Penghargaan ini mencerminkan upaya pemerintah memperbaiki iklim investasi daerah, yang berpengaruh langsung terhadap arus modal masuk ke Indonesia.",
+  "terbit": "2026-09-16T18:11:46+00:00"
+ },
+ {
+  "id": "RNSTpYmHCHU",
+  "title": "Presiden Prabowo Ternyata Dibohongi Perusahaan BUMN",
+  "category": "BUMN",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo mengungkapkan sejumlah perusahaan BUMN diduga membuat laporan keuangan dengan keuntungan yang dibesar-besarkan demi mendapatkan bonus bagi manajemen.",
+  "takeaway": "Pernyataan ini menyoroti persoalan tata kelola dan transparansi laporan keuangan BUMN yang berdampak pada kepercayaan investor dan efisiensi badan usaha milik negara.",
+  "terbit": "2026-09-16T17:39:35+00:00"
+ },
+ {
+  "id": "DnfO9JAvj5E",
+  "title": "Presiden Prabowo Soroti Perbedaan Rating S&P soal Fundamental Ekonomi",
+  "category": "Makroekonomi",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo menanggapi perbedaan penilaian lembaga pemeringkat S&P terhadap fundamental ekonomi Indonesia, sekaligus menegaskan Indonesia tidak akan tunduk pada tekanan negara lain.",
+  "takeaway": "Pandangan kepala negara soal penilaian lembaga pemeringkat internasional penting bagi investor dalam menakar risiko dan arah kebijakan ekonomi Indonesia.",
+  "terbit": "2026-09-16T17:33:47+00:00"
+ },
+ {
   "id": "Ssa46z-68kA",
   "title": "Penghasilan Nelayan Naik 30 hingga 40 Persen",
   "category": "Ketenagakerjaan",

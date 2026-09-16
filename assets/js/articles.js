@@ -54,7 +54,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah Indonesia dan Kanada sudah sama-sama meratifikasi ICA-CEPA, artinya perjanjian dagang itu sudah disahkan lewat proses hukum di masing-masing negara. Tapi perjanjian ini belum otomatis berlaku penuh, karena kedua pihak masih membahas aturan teknis bernama rules of origin, yaitu kriteria untuk memastikan sebuah barang benar-benar diproduksi di Indonesia atau Kanada sehingga berhak dapat potongan tarif. Yang akan merasakan dampaknya adalah eksportir di sektor nikel dan baterai, energi bersih, perikanan, infrastruktur, serta jasa keuangan dan digital, begitu tarif preferensial itu benar-benar berjalan. Arahnya adalah pemerintah mendorong pelaku usaha bersiap sejak sekarang sebelum perjanjian efektif berlaku, sehingga yang perlu dipantau adalah kapan pembahasan rules of origin ini rampung, karena itu yang menentukan kapan pemangkasan tarif hingga 90 persen dari Kanada dan 86 persen dari Indonesia benar-benar bisa dimanfaatkan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "indonesia-perketat-tata-kelola-ekspor-teknologi-strategis",
@@ -82,7 +82,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar wacana: Indonesia mulai menyiapkan kerangka aturan resmi untuk mengawasi ekspor barang dan teknologi strategis yang berpotensi disalahgunakan, sesuatu yang sebelumnya belum punya payung hukum khusus. Yang akan langsung terkena adalah eksportir di sektor semikonduktor, elektronik, kimia, bioteknologi, dan pertahanan, karena mereka nantinya harus melalui pemeriksaan tambahan sebelum barangnya boleh dikirim ke luar negeri. Arahnya tampak menuju pengetatan pengawasan ekspor teknologi tinggi, sejalan dengan standar yang dipakai Amerika Serikat sebagai mitra utama penyusunan aturan ini, terutama karena ekspor semikonduktor RI yang melonjak lebih dari dua kali lipat dalam setahun membuat pengawasan makin mendesak. Yang masih belum jelas dari siaran ini adalah kapan payung hukum STM tersebut akan rampung dan seberapa luas cakupannya, sehingga pelaku usaha belum tahu pasti kapan aturan baru ini mulai mengikat kegiatan ekspor mereka.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "distribusi-b50-tembus-94-persen-spbu-esdm-kejar-tenggat",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-kanada-genjot-implementasi-ica-cepa-akhir-2026",
+  "category": "Global",
+  "title": "RI-Kanada Genjot [Implementasi] ICA-CEPA Akhir 2026",
+  "deck": "Menko Airlangga dan Menteri Perdagangan Kanada membahas persiapan implementasi ICA-CEPA, perjanjian dagang yang ditargetkan berjalan akhir 2026.",
+  "date": "16 September 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "ICA-CEPA",
+   "Indonesia-Kanada",
+   "perdagangan internasional",
+   "tarif ekspor"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7096/bertemu-menteri-perdagangan-internasional-kanada-menko-airlangga-dorong-percepatan-implementasi-ica-cepa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ri-china-teken-mou-investasi-rp51-triliun-di-twin-parks",
+  "category": "Industri",
+  "title": "RI-China Teken MoU Investasi [Rp51 Triliun] di Twin Parks",
+  "deck": "Indonesia dan Tiongkok menandatangani MoU investasi baru Rp51 triliun dalam kerja sama kawasan industri Two Countries Twin Parks, membuat total komitmen mencapai Rp88,1 triliun.",
+  "date": "16 September 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "Investasi",
+   "Tiongkok",
+   "Kawasan Industri",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7097/indonesia-dan-tiongkok-perkuat-kerja-sama-investasi-melalui-chinaindonesia-two-countries-twin-parks-investment-promotion-conference",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "psgo-jelaskan-rencana-penuhi-syarat-free-float-ke-bei",
   "category": "Aksi Korporasi",
   "title": "PSGO Jelaskan Rencana Penuhi Syarat [Free Float] ke BEI",
@@ -19,6 +51,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce4799d4e2_1b3804335c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-naik-tipis-ke-rp2-593-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] Tipis ke Rp2.593.000 per Gram",
+  "deck": "Harga emas batangan Antam naik Rp1.000 menjadi Rp2.593.000 per gram pada 16 September 2026, sementara harga buyback ikut naik ke Rp2.438.000 per gram.",
+  "date": "16 September 2026",
+  "image": "assets/img/harga-emas-antam-naik-tipis-ke-rp2-593-000-per-gram.jpg",
+  "imageV": "mu3nc7ls",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467393-harga-emas-antam-hari-ini-16-september-2026-naik-tipis-rp1000-kini-jadi-rp2593000-per-gram"
  },
  {
   "slug": "dada-panggil-rupst-ketiga-usai-kuorum-gagal-dua-kali",
@@ -69,6 +117,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ica-cepa-implementasi-ri-bidik-ekspor-kanada-us-11-8-m",
+  "category": "Global",
+  "title": "ICA-CEPA [Implementasi], RI Bidik Ekspor Kanada US$11,8 M",
+  "deck": "Airlangga Hartarto memastikan ICA-CEPA siap berlaku penuh akhir tahun ini, dengan proyeksi ekspor Indonesia ke Kanada tembus US$11,8 miliar pada 2030.",
+  "date": "16 September 2026",
+  "image": "assets/img/ica-cepa-implementasi-ri-bidik-ekspor-kanada-us-11-8-m.jpg",
+  "imageV": "mu3nc7zj",
+  "tags": [
+   "ICA-CEPA",
+   "ekspor",
+   "Kanada",
+   "Airlangga Hartarto"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467387-ica-cepa-masuk-tahap-implementasi-airlangga-bidik-lonjakan-ekspor-ri-ke-kanada-hingga-us118-miliar"
+ },
+ {
   "slug": "klbf-ajukan-ulang-buyback-rp500-miliar-usai-dibatalkan",
   "category": "Aksi Korporasi",
   "title": "KLBF Ajukan Ulang Buyback [Rp500 Miliar] Usai Dibatalkan",
@@ -106,7 +171,7 @@ var ARTICLES = [
   "title": "ICA-CEPA [Diratifikasi], Kanada Pangkas Tarif 90% Produk RI",
   "deck": "Indonesia dan Kanada resmi meratifikasi ICA-CEPA, perjanjian dagang bilateral pertama Kanada dengan ASEAN, yang akan memangkas tarif pada lebih dari 90 persen produk kedua negara.",
   "date": "16 September 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "ICA-CEPA",
    "Indonesia-Kanada",
@@ -4535,7 +4600,7 @@ var ARTICLES = [
   "title": "RI-Malaysia-Thailand Kejar Rampungkan [92] Proyek IMT-GT",
   "deck": "Pertemuan Tingkat Menteri IMT-GT ke-32 di Medan menetapkan target 92 proyek kerja sama rampung, disertai delapan MoU bisnis baru dan cetak biru 2027-2031.",
   "date": "10 September 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IMT-GT",
    "Airlangga Hartarto",
@@ -4826,7 +4891,7 @@ var ARTICLES = [
   "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
   "deck": "Indonesia resmi mengambil alih keketuaan forum kerja sama ekonomi IMT-GT dan membuka forum bisnis yang mempertemukan lebih dari 300 pelaku usaha dari lima negara di Medan.",
   "date": "10 September 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "IMT-GT",
    "Kemenko Perekonomian",
@@ -5390,7 +5455,7 @@ var ARTICLES = [
   "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
   "deck": "Kemnaker, Kementerian Investasi, dan Kementerian Imigrasi menyatukan izin penggunaan tenaga kerja asing dalam satu sistem OSS untuk memangkas proses lintas kementerian.",
   "date": "10 September 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "TKA",
    "OSS",
@@ -6429,70 +6494,6 @@ var ARTICLES = [
    "logistik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260909074451-64380-0/FinancialStatement-2026-II-PPGL.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgd-catatkan-obligasi-dan-sukuk-rp5-6-triliun-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "PPGD Catatkan [Obligasi] dan Sukuk Rp5,6 Triliun di BEI",
-  "deck": "IDX mencatatkan tiga instrumen surat utang PPGD (Pegadaian) tahap kedua senilai total Rp5,61 triliun mulai 9 September 2026, berperingkat AAA dengan wali amanat Bank Mega.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGD",
-   "Pegadaian",
-   "obligasi korporasi",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5afcb911b5_21d88965f7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medc-lunasi-obligasi-rp600-miliar-berhenti-diperdagangkan",
-  "category": "Aksi Korporasi",
-  "title": "MEDC Lunasi Obligasi [Rp600 Miliar], Berhenti Diperdagangkan",
-  "deck": "Obligasi Berkelanjutan IV Medco Energi Internasional Tahap I Seri B senilai Rp600 miliar jatuh tempo 9 September 2026 dan berhenti diperdagangkan di Bursa Efek Indonesia.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "obligasi",
-   "jatuh tempo",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b92a1a87cf_f60f36c206.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-aims-melonjak-25-dalam-sehari-bursa-minta-klarifikasi",
-  "category": "Aksi Korporasi",
-  "title": "Saham [AIMS] Melonjak 25% dalam Sehari, Bursa Minta Klarifikasi",
-  "deck": "Harga saham AIMS naik 25 persen dan volume transaksi melonjak nyaris 12 kali dalam sehari; emiten menyatakan tidak ada informasi material di baliknya.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AIMS",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/587f7103d5_acd4f3d2aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-panggil-rupslb-untuk-restrukturisasi-dan-konversi-utang",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Panggil RUPSLB untuk [Restrukturisasi] dan Konversi Utang",
-  "deck": "ADHI memanggil RUPSLB 30 September 2026 untuk menyetujui restrukturisasi dan konversi utang jangka pendek menjadi jangka panjang.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "RUPSLB",
-   "restrukturisasi utang",
-   "BUMN Karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c59cd71cae_1ea75f3b93.pdf",
   "sourceLabel": "IDX"
  }
 ];

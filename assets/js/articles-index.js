@@ -5,6 +5,76 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "anggaran-esdm-2027-rp27-37-t-82-persen-untuk-infrastruktur",
+  "category": "Energi",
+  "title": "Anggaran ESDM 2027 Rp27,37 T, 82 Persen untuk [Infrastruktur]",
+  "deck": "Komisi XII DPR menyetujui pagu anggaran ESDM 2027 senilai Rp27,37 triliun, dengan Rp22,51 triliun diarahkan untuk infrastruktur listrik desa dan jaringan gas rumah tangga.",
+  "date": "16 September 2026",
+  "image": "assets/img/anggaran-esdm-2027-rp27-37-t-82-persen-untuk-infrastruktur.jpg",
+  "imageV": "mu3tsygq",
+  "tags": [
+   "ESDM",
+   "Listrik Desa",
+   "Anggaran 2027",
+   "Jaringan Gas"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dorong-pemerataan-akses-energi-82-persen-anggaran-esdm-2027-untuk-infrastruktur",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "mendag-dmo-komoditas-strategis-jangan-otomatis-ke-semua",
+  "category": "Bisnis",
+  "title": "Mendag: DMO Komoditas Strategis Jangan [Otomatis] ke Semua",
+  "deck": "Mendag Budi Santoso mengusulkan ke DPR agar kewajiban pasok domestik dan ekspor satu pintu lewat BUMN diterapkan selektif, bukan otomatis ke seluruh komoditas strategis.",
+  "date": "16 September 2026",
+  "image": "assets/img/mendag-dmo-komoditas-strategis-jangan-otomatis-ke-semua.jpg",
+  "imageV": "mu3tszzf",
+  "tags": [
+   "RUU Komoditas Strategis",
+   "DMO",
+   "Ekspor BUMN",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/beri-masukan-terhadap-ruu-komoditas-strategis-di-dpr-ri-mendag-busan-pengaturan-harus-menjaga-kepentingan-nasional",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m",
+  "category": "BUMN",
+  "title": "12 Proyek LRT City [Dilanjutkan], Danantara Kucurkan Rp456 M",
+  "deck": "Pemerintah pastikan seluruh 12 proyek LRT City yang mangkrak akan digarap lagi, dengan suntikan dana Rp456 miliar dari Danantara Indonesia.",
+  "date": "16 September 2026",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "imageV": "mu3tt0i8",
+  "tags": [
+   "LRT City",
+   "Danantara",
+   "Adhi Karya",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467462-12-proyek-lrt-city-bakal-dilanjutkan-pemerintah-siapkan-rp456-miliar"
+ },
+ {
+  "slug": "telkomsel-map-luncurkan-maprivilege-poin-jadi-diskon",
+  "category": "Bisnis",
+  "title": "Telkomsel-MAP Luncurkan [MAPrivilege], Poin Jadi Diskon",
+  "deck": "Telkomsel dan MAP meluncurkan MAPrivilege, program yang memungkinkan pelanggan tertentu menukar poin Telkomsel untuk manfaat di jaringan ritel gaya hidup MAP.",
+  "date": "16 September 2026",
+  "image": "assets/img/telkomsel-map-luncurkan-maprivilege-poin-jadi-diskon.jpg",
+  "imageV": "mu3tt0zu",
+  "tags": [
+   "Telkomsel",
+   "MAP",
+   "MAPrivilege",
+   "loyalitas pelanggan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467459-telkomsel-dan-map-luncurkan-maprivilege-hubungkan-pelanggan-dengan-beragam-manfaat-gaya-hidup"
+ },
+ {
   "slug": "epmt-akui-free-float-belum-capai-15-rencana-belum-final",
   "category": "Aksi Korporasi",
   "title": "EPMT Akui Free Float Belum Capai 15%, [Rencana] Belum Final",
@@ -6427,70 +6497,6 @@ var ARTICLES = [
    "pelunasan utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba6d8a1914_8f5c01d9d0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "chek-jawab-bursa-soal-lonjakan-volume-saham-26-kali-lipat",
-  "category": "Aksi Korporasi",
-  "title": "CHEK Jawab Bursa soal [Lonjakan] Volume Saham 26 Kali Lipat",
-  "deck": "Volume saham CHEK melonjak jadi 32,1 juta lembar dengan 5.042 kali transaksi, dari sebelumnya 1,2 juta lembar, saat harga naik 2,99 persen ke Rp138.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CHEK",
-   "UMA saham",
-   "volatilitas transaksi",
-   "Diastika Biotekindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4c7f022dc_02a414b72c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "labs-beri-penjelasan-usai-saham-melonjak-23-64-dalam-sehari",
-  "category": "Aksi Korporasi",
-  "title": "LABS Beri Penjelasan usai Saham [Melonjak] 23,64% dalam Sehari",
-  "deck": "Harga saham LABS melonjak 23,64% ke Rp204 dengan volume transaksi naik hingga 118 kali lipat pada 7 September 2026. Manajemen menyatakan tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LABS",
-   "UBC Medical Indonesia",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e3bd4b7a7_e99d6fe99d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apic-ungkap-rencana-pelunasan-mtn-rp400-miliar-di-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "APIC Ungkap Rencana Pelunasan [MTN] Rp400 Miliar di Public Expose",
-  "deck": "Dalam hasil public expose tahunan, manajemen APIC menyebut MTN Rp400 miliar berbunga 9,75% jatuh tempo tahun ini, ekuitas naik dari keuntungan belum terealisasi, dan tidak ada dividen.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APIC",
-   "Pacific Strategic Financial",
-   "public expose",
-   "MTN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b363069198_24ec521bd6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdln-panggil-rupslb-kedua-minta-restu-alihkan-aset-di-atas-50",
-  "category": "Aksi Korporasi",
-  "title": "MDLN Panggil RUPSLB Kedua, Minta Restu Alihkan [Aset] di Atas 50%",
-  "deck": "Setelah RUPS pertama gagal kuorum, Modernland Realty memanggil RUPSLB kedua pada 14 September untuk meminta restu pengalihan atau penjaminan aset melebihi 50% kekayaan bersih perusahaan.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLN",
-   "RUPSLB",
-   "Modernland Realty",
-   "aset perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0593cd6057_c299cf1963.pdf",
   "sourceLabel": "IDX"
  }
 ];

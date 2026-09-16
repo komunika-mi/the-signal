@@ -3,6 +3,115 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "anggaran-esdm-2027-rp27-37-t-82-persen-untuk-infrastruktur",
+  "category": "Energi",
+  "title": "Anggaran ESDM 2027 Rp27,37 T, 82 Persen untuk [Infrastruktur]",
+  "deck": "Komisi XII DPR menyetujui pagu anggaran ESDM 2027 senilai Rp27,37 triliun, dengan Rp22,51 triliun diarahkan untuk infrastruktur listrik desa dan jaringan gas rumah tangga.",
+  "image": "assets/img/anggaran-esdm-2027-rp27-37-t-82-persen-untuk-infrastruktur.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T08:08:08.135Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dorong-pemerataan-akses-energi-82-persen-anggaran-esdm-2027-untuk-infrastruktur",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Listrik Desa",
+   "Anggaran 2027",
+   "Jaringan Gas"
+  ],
+  "body": [
+   "Komisi XII DPR RI menyetujui pagu anggaran Kementerian Energi dan Sumber Daya Mineral untuk tahun 2027 sebesar Rp27,37 triliun, tidak berubah dari usulan awal pemerintah. Menteri ESDM Bahlil Lahadalia menyampaikan bahwa sekitar 82 persen atau Rp22,51 triliun dari jumlah tersebut diarahkan untuk program strategis dan pembangunan infrastruktur energi. Alokasi ini menyasar wilayah yang masih minim akses listrik dan gas, dari desa terpencil hingga kawasan tertinggal, terdepan, dan terluar.",
+   "Sisa anggaran terbagi menjadi Rp3,59 triliun untuk belanja operasional dan Rp1,27 triliun untuk program publik nonfisik. Dari pos infrastruktur, pemerintah menyiapkan Rp9,32 triliun untuk membangun jaringan listrik di 1.250 desa, Rp5,21 triliun untuk jaringan gas rumah tangga sebanyak 959.232 sambungan, serta Rp949 miliar untuk bantuan pasang baru listrik bagi 400.000 rumah tangga. Anggaran juga mencakup tiga proyek pipa transmisi gas, yaitu Dumai-Sei Mangkei senilai Rp3,95 triliun, Semarang-Solo-Yogyakarta Rp702,38 miliar, dan Cirebon-Bandung Rp577,56 miliar.",
+   "Bahlil menyebut masih ada sekitar 10.068 titik desa dan dusun di seluruh Indonesia yang belum terjangkau layanan listrik. Program tahun 2025 yang diresmikan pada 2026 telah menangani sekitar 1.416 titik, sementara program 2026 mencakup sekitar 1.300 titik lainnya. Ia juga menekankan agar proses verifikasi kelompok penerima bantuan listrik gratis tidak menghambat penyalurannya ke masyarakat yang membutuhkan.",
+   "Selain listrik dan gas rumah tangga, anggaran 2027 juga mencakup 14.000 paket konverter kit untuk petani, tiga unit pembangkit listrik tenaga mikrohidro, program kompor listrik, konversi 63.000 unit sepeda motor listrik, serta pembangunan Kapal Geomarin V."
+  ],
+  "fotoAdegan": "Workers installing electricity poles and cables in a remote Indonesian village surrounded by hills at dusk",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dorong-pemerataan-akses-energi-82-persen-anggaran-esdm-2027-untuk-infrastruktur-hi52wai.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Dari Rp27,37 triliun anggaran ESDM 2027, porsi terbesarnya, Rp22,51 triliun, memang dipakai untuk membangun jaringan listrik dan gas, bukan untuk biaya kantor atau kegiatan seremonial. Yang paling merasakan dampaknya adalah rumah tangga di desa dan dusun terpencil yang masih gelap, calon penerima 400.000 sambungan listrik gratis, dan 959.232 rumah yang akan mendapat jaringan gas. Tapi kalau dilihat kecepatannya, program tahun 2025 dan 2026 baru menuntaskan sekitar 2.700 titik dari total 10.068 titik desa dan dusun yang masih butuh listrik, sementara anggaran 2027 hanya menyasar 1.250 lokasi tambahan. Artinya dengan laju sekitar 1.300 titik per tahun ini, pemerataan listrik ke seluruh pelosok kemungkinan masih berlanjut bertahun-tahun setelah 2027, bukan tuntas dalam satu periode anggaran. Yang perlu dicermati berikutnya adalah realisasi anggaran ini setelah APBN 2027 resmi disahkan, serta apakah jumlah titik yang berhasil ditangani tiap tahun bisa dipercepat dari rata-rata saat ini.",
+  "imageV": "mu3tsygq"
+ },
+ {
+  "slug": "mendag-dmo-komoditas-strategis-jangan-otomatis-ke-semua",
+  "category": "Bisnis",
+  "title": "Mendag: DMO Komoditas Strategis Jangan [Otomatis] ke Semua",
+  "deck": "Mendag Budi Santoso mengusulkan ke DPR agar kewajiban pasok domestik dan ekspor satu pintu lewat BUMN diterapkan selektif, bukan otomatis ke seluruh komoditas strategis.",
+  "image": "assets/img/mendag-dmo-komoditas-strategis-jangan-otomatis-ke-semua.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T08:08:00.439Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/beri-masukan-terhadap-ruu-komoditas-strategis-di-dpr-ri-mendag-busan-pengaturan-harus-menjaga-kepentingan-nasional",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "RUU Komoditas Strategis",
+   "DMO",
+   "Ekspor BUMN",
+   "Kemendag"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso menyampaikan sejumlah masukan pemerintah kepada DPR RI terkait penyusunan RUU Komoditas Strategis, dalam rapat kerja dengan Badan Legislasi, Selasa (15/9). Ia mendorong agar aturan ini disusun secara proporsional dan fleksibel, tidak menyeragamkan seluruh komoditas dengan kewajiban yang sama. Usulan ini penting karena RUU tersebut berpotensi mengubah cara pemerintah mengatur ekspor dan pasokan komoditas vital seperti batu bara, minyak bumi, gas, dan sawit, yang selama ini memakai skema kewajiban pasok domestik.",
+   "Salah satu poin utama adalah soal DMO atau kewajiban bagi produsen menyisihkan sebagian hasil komoditas untuk kebutuhan dalam negeri sebelum diekspor. Mendag Budi Santoso mengusulkan agar kewajiban ini tidak berlaku otomatis untuk semua komoditas, melainkan diterapkan berdasarkan risiko kekurangan pasokan, potensi lonjakan harga, gangguan rantai pasok, atau ekspor yang mengganggu kebutuhan domestik. Saat ini skema tersebut sudah berjalan untuk batu bara, minyak bumi, gas bumi, serta minyak sawit dan turunannya guna menjaga pasokan minyak goreng.",
+   "Poin lain menyangkut rencana ekspor satu pintu melalui badan usaha milik negara (BUMN). Mendag Budi Santoso menyebut kebijakan itu sudah memiliki dasar hukum lewat Peraturan Pemerintah Nomor 24 Tahun 2026 tentang Tata Kelola Ekspor Komoditas Sumber Daya Alam Strategis, dengan tahap awal mencakup tiga komoditas yaitu batu bara, kelapa sawit, dan ferroalloy atau paduan besi. Ia menegaskan skema ini tidak akan diterapkan ke semua komoditas sekaligus, dengan pertimbangan kebutuhan dalam negeri, kontribusi devisa, dan penguasaan rantai pasok, sementara pelaku usaha swasta tetap bisa mengekspor komoditas di luar skema itu selama memenuhi izin dan standar yang berlaku.",
+   "Mendag Budi Santoso juga meminta agar kewenangan menetapkan status suatu komoditas, apakah bebas, diatur, atau diawasi, tetap berada di tangan Menteri Perdagangan, dengan koordinasi bersama kementerian dan lembaga terkait. Anggota Badan Legislasi DPR RI, Jazuli Juwaini, menyambut masukan tersebut dan meminta pemerintah menyerahkan kriteria tertulis untuk menentukan suatu komoditas masuk kategori strategis. Rapat tersebut turut dihadiri perwakilan Kementerian Koordinator Bidang Perekonomian serta jajaran Danantara."
+  ],
+  "fotoAdegan": "Cargo ship being loaded with coal at a busy industrial port, cranes and conveyor belts in the background, overcast morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/GvvBBQ8AfD8tb71uSh0ScwdTbta5O9CkcblXnbSs.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan undang-undang yang sudah jadi, melainkan arah pembahasan RUU Komoditas Strategis yang masih di tangan DPR. Pemerintah mengusulkan agar kewajiban pasok domestik, yaitu keharusan produsen menyisihkan sebagian hasil untuk kebutuhan dalam negeri sebelum ekspor, tidak otomatis berlaku ke semua komoditas, tapi dipilih berdasarkan risiko kelangkaan dan lonjakan harga. Yang terdampak langsung adalah eksportir batu bara, sawit, dan ferroalloy, karena tiga komoditas itu sudah masuk tahap awal skema ekspor satu pintu lewat BUMN berdasarkan Peraturan Pemerintah Nomor 24 Tahun 2026, sementara pelaku usaha swasta lain masih bebas ekspor asal memenuhi izin. Polanya menunjukkan pemerintah condong ke pengaturan bertahap dan selektif, bukan mengambil alih seluruh ekspor komoditas strategis sekaligus. Yang akan memastikan arah ini adalah kriteria tertulis penetapan komoditas strategis yang diminta Badan Legislasi DPR, dan apakah daftar komoditas dalam skema ekspor satu pintu bertambah setelah tahap awal ini.",
+  "imageV": "mu3tszzf"
+ },
+ {
+  "slug": "12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m",
+  "category": "BUMN",
+  "title": "12 Proyek LRT City [Dilanjutkan], Danantara Kucurkan Rp456 M",
+  "deck": "Pemerintah pastikan seluruh 12 proyek LRT City yang mangkrak akan digarap lagi, dengan suntikan dana Rp456 miliar dari Danantara Indonesia.",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T15:00:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467462-12-proyek-lrt-city-bakal-dilanjutkan-pemerintah-siapkan-rp456-miliar",
+  "tags": [
+   "LRT City",
+   "Danantara",
+   "Adhi Karya",
+   "BUMN"
+  ],
+  "body": [
+   "Pemerintah memastikan seluruh 12 proyek LRT City yang selama ini dikelola PT Adhi Karya (Persero) Tbk akan kembali dilanjutkan pembangunannya. Sebagian dari proyek hunian berbasis transit ini sempat mangkrak, mulai dari yang belum rampung hingga yang bahkan belum mulai dibangun. Kepastian ini penting bagi konsumen yang sudah telanjur membeli unit di proyek-proyek tersebut dan menunggu kejelasan nasib huniannya.",
+   "Wakil Kepala Badan Pengaturan BUMN, Aminuddin Ma'ruf, mengatakan pemerintah akan turun langsung ke seluruh 12 lokasi proyek dalam waktu dekat. Kunjungan ini bertujuan menentukan proyek mana yang akan diprioritaskan lebih dulu, dengan mempertimbangkan kelayakan proyek dan seberapa besar unitnya sudah terjual.",
+   "Untuk membiayai penyelesaian proyek yang mangkrak, Danantara Indonesia menyiapkan dana Rp456 miliar. Dana ini akan digunakan membantu merampungkan proyek-proyek yang belum tuntas, sementara pemerintah lebih dulu melakukan pendataan menyeluruh sebelum menetapkan cara penyelesaian untuk masing-masing lokasi.",
+   "Kedua belas proyek LRT City tersebut tersebar di Jakarta, Bogor, Depok, Bekasi, dan Tangerang. Selain menilai kondisi fisik proyek, pemerintah juga masih menunggu masukan dari para konsumen LRT City sebagai bagian dari proses pendataan sebelum mekanisme penyelesaian ditetapkan."
+  ],
+  "fotoAdegan": "Idle construction cranes beside half-built high-rise towers next to an elevated light rail line on Jakarta's outskirts, overcast afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/02/6a6efdeba149f-ilustrasi-proyek-lrt-city-mangkrak_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah adalah kepastian dana: Danantara Indonesia menyiapkan Rp456 miliar untuk menghidupkan kembali proyek LRT City yang selama ini terhenti, dan pemerintah menegaskan seluruh 12 lokasi akan dibangun, bukan hanya sebagian. Yang paling terdampak adalah konsumen yang sudah membeli unit di proyek-proyek mangkrak yang tersebar di Jakarta, Bogor, Depok, Bekasi, dan Tangerang, serta Adhi Karya selaku pengelola proyek. Arahnya bukan penyelesaian serentak, melainkan bertahap: pemerintah akan mengunjungi tiap lokasi lalu menyusun prioritas berdasarkan kelayakan dan tingkat keterjualan, sehingga sebagian proyek kemungkinan lebih dulu digarap dibanding yang lain. Yang akan menentukan proyek mana yang didahulukan adalah hasil kunjungan dan pendataan pemerintah dalam waktu dekat, termasuk masukan dari konsumen yang masih ditunggu.",
+  "imageV": "mu3tt0i8"
+ },
+ {
+  "slug": "telkomsel-map-luncurkan-maprivilege-poin-jadi-diskon",
+  "category": "Bisnis",
+  "title": "Telkomsel-MAP Luncurkan [MAPrivilege], Poin Jadi Diskon",
+  "deck": "Telkomsel dan MAP meluncurkan MAPrivilege, program yang memungkinkan pelanggan tertentu menukar poin Telkomsel untuk manfaat di jaringan ritel gaya hidup MAP.",
+  "image": "assets/img/telkomsel-map-luncurkan-maprivilege-poin-jadi-diskon.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T14:42:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467459-telkomsel-dan-map-luncurkan-maprivilege-hubungkan-pelanggan-dengan-beragam-manfaat-gaya-hidup",
+  "tags": [
+   "Telkomsel",
+   "MAP",
+   "MAPrivilege",
+   "loyalitas pelanggan"
+  ],
+  "body": [
+   "Telkomsel menjalin kemitraan dengan PT Mitra Adiperkasa Tbk (MAP), perusahaan ritel yang menaungi banyak merek gaya hidup di Indonesia, lewat program bernama MAPrivilege. Lewat program ini, poin dan sistem loyalitas Telkomsel disambungkan langsung dengan jaringan gerai ritel milik MAP, sehingga pelanggan bisa menikmati manfaat belanja tanpa harus keluar dari aplikasi MyTelkomsel.",
+   "Tidak semua pelanggan Telkomsel otomatis mendapat akses. Program ini berlaku untuk pelanggan Halo dan Optima, pelanggan SIMPATI yang membeli paket Super Seru dan atau Surprise Deal, serta pelanggan IndiHome. Mereka bisa menukarkan Telkomsel Poin lewat menu Rewards di MyTelkomsel, sementara anggota MAPClub juga bisa mengakses penawaran lewat aplikasi yang sama dengan menukar kode voucher di gerai yang ikut program.",
+   "Manfaat yang ditawarkan mencakup lima kategori, yaitu fashion, makanan dan minuman, olahraga, department store, dan teknologi, dengan tema besar 'A Pass to Upgrade Everyday Living'. Direktur Marketing Telkomsel, Lionel Chng, menyebut kolaborasi ini sebagai cara menghadirkan manfaat sehari-hari yang lebih terasa bagi pelanggan, sementara Direktur MAP, Handaka Santosa, menekankan program ini mempermudah akses pelanggan ke ekosistem ritel MAP lewat platform digital yang sudah mereka pakai setiap hari."
+  ],
+  "fotoAdegan": "A shopper walking past clothing racks in a modern retail store while holding a smartphone loosely, soft daylight through large windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/16/6aaa472eae5a1-telkomsel-resmi-menjalin-kemitraan-strategis-dengan-pt-mitra-adiperkasa-tbk-map-melalui-peluncuran-maprivilege_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah penggabungan sistem poin: pelanggan Halo plus Optima, pembeli paket Super Seru atau Surprise Deal di SIMPATI, dan pelanggan IndiHome kini bisa menukar poin Telkomsel jadi manfaat belanja di gerai-gerai MAP, mulai dari fashion sampai department store. Pihak yang terdampak jelas dua sisi, pelanggan Telkomsel yang memenuhi kriteria itu, dan jaringan ritel MAP yang jadi tempat penukaran manfaatnya. Yang belum bisa disimpulkan adalah seberapa besar program ini akan berpengaruh nyata, karena tidak ada angka soal jumlah gerai yang ikut, target jumlah pengguna, atau berapa lama program ini berjalan. Yang perlu dipantau adalah apakah Telkomsel atau MAP nantinya merilis data jumlah penukaran poin atau nilai transaksi setelah program berjalan beberapa bulan, sebab itu yang akan menunjukkan apakah ini sekadar promosi sesaat atau strategi jangka panjang menahan pelanggan lewat manfaat gaya hidup.",
+  "imageV": "mu3tt0zu"
+ },
+ {
   "slug": "epmt-akui-free-float-belum-capai-15-rencana-belum-final",
   "category": "Aksi Korporasi",
   "title": "EPMT Akui Free Float Belum Capai 15%, [Rencana] Belum Final",
@@ -159,7 +268,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah status ICA-CEPA, dari sekadar diteken menjadi bersiap dijalankan, dengan target implementasi akhir 2026. Dalam praktiknya, Kanada akan menghapus atau menurunkan bea masuk untuk lebih dari 90 persen kategori barang asal Indonesia, dan Indonesia melakukan hal sama untuk sekitar 86 persen kategori barang Kanada, artinya produk seperti hasil tambang olahan, perikanan, dan hasil pertanian RI berpeluang lebih murah bersaing di pasar Kanada. Pihak yang paling terdampak adalah eksportir dan UMKM di sektor mineral kritis, energi bersih, perikanan, infrastruktur, dan jasa keuangan digital, karena merekalah yang harus menyesuaikan standar produk dan ketenagakerjaan agar bisa memakai jalur tarif rendah ini. Arahnya menunjukkan perjanjian dagang ini masuk fase teknis yang lebih rumit dibanding seremoni tanda tangan, dan yang akan membuktikan apakah target ini realistis adalah apakah implementasi benar berjalan akhir 2026 sesuai jadwal atau justru molor seperti sejumlah perjanjian dagang lain.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ri-china-teken-mou-investasi-rp51-triliun-di-twin-parks",
@@ -187,7 +296,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang diumumkan, Rp51 triliun MoU baru dan total Rp88,1 triliun sejak program ini dimulai, adalah nilai komitmen di atas kertas, bukan investasi yang sudah benar-benar masuk ke Indonesia. MoU semacam ini adalah nota kesepahaman awal, bukan kontrak yang mengikat, sehingga nilainya bisa berubah atau bahkan tidak pernah terealisasi. Yang terkena dampak langsung adalah pengelola tiga kawasan industri yang disebut, yaitu KEK Industropolis Batang, KEK Tanjung Lesung, dan Bintan Industrial Estate, karena merekalah yang harus mengubah minat investor Tiongkok itu menjadi pabrik yang benar-benar berdiri. Siaran pers ini tidak menyebutkan berapa dari Rp37,1 triliun komitmen sebelumnya yang sudah terealisasi jadi proyek berjalan, sehingga arah sebenarnya baru bisa dibaca dari laporan realisasi investasi triwulanan Kementerian Investasi/BKPM, yang akan menunjukkan apakah komitmen Xiamen ini berakhir sebagai proyek nyata atau sekadar daftar MoU yang terus menumpuk.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ikpm-koreksi-laporan-dana-ipo-capex-baru-76-rencana",

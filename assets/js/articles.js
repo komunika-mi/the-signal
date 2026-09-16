@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "giias-semarang-2026-digelar-30-september-4-oktober",
+  "category": "Industri",
+  "title": "GIIAS [Semarang] 2026 Digelar 30 September-4 Oktober",
+  "deck": "Pameran otomotif GIIAS singgah ke Semarang pada 30 September-4 Oktober 2026, seiring klaim investasi Rp15 triliun di kawasan industri kendaraan listrik Kendal, Jawa Tengah.",
+  "image": "assets/img/giias-semarang-2026-digelar-30-september-4-oktober.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-16T21:39:58.840Z",
+  "sourceUrl": "https://www.gaikindo.or.id/gaikindo-pameran-giias-semarang-30-september-4-oktober-dorong-peningkatan-investasi-industri-otomoif-jawa-tengah/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GIIAS",
+   "Otomotif",
+   "Kendaraan Listrik",
+   "Jawa Tengah"
+  ],
+  "body": [
+   "Gabungan Industri Kendaraan Bermotor Indonesia (GAIKINDO) akan menggelar pameran GIIAS the Series di Kota Semarang pada 30 September hingga 4 Oktober 2026, bertempat di Muladi Dome Universitas Diponegoro. Semarang menjadi kota kelima dalam rangkaian pameran tahun ini setelah sebelumnya singgah di Bumi Serpong Damai Kabupaten Tangerang, Surabaya, dan Bandung.",
+   "Sekretaris Umum GAIKINDO Kukuh Kumara mengatakan pemilihan Jawa Tengah didasari data penjualan kendaraan di provinsi itu yang mencapai 14.195 unit hingga April 2026, atau sekitar 5,1 persen dari total penjualan kendaraan nasional. Angka ini menempatkan Jawa Tengah sebagai pasar menengah dibanding wilayah Jabodetabek atau Jawa Timur, namun cukup besar untuk dijadikan alasan memperluas jangkauan pameran ke luar Jakarta.",
+   "GAIKINDO juga menyoroti data dari Bagian Hubungan Masyarakat Pemerintah Provinsi Jawa Tengah yang mencatat masuknya investasi senilai sekitar Rp15 triliun ke Kawasan Industri Seafer di Kabupaten Kendal per 15 Juni 2026. Investasi itu disebut mencakup pembangunan fasilitas produksi baterai, ban, dan suku cadang untuk kendaraan listrik komersial maupun sepeda motor listrik.",
+   "Bagi GAIKINDO, kombinasi data penjualan dan investasi tersebut menjadi dasar untuk membawa pameran otomotif nasional ke Semarang, sekaligus menegaskan posisi Kendal sebagai salah satu titik baru pengembangan rantai pasok kendaraan listrik di Pulau Jawa."
+  ],
+  "fotoAdegan": "Workers on a factory floor assembling battery packs for electric motorcycles under bright industrial lighting",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/09/sifer.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Angka yang perlu digarisbawahi dari siaran pers ini adalah klaim investasi Rp15 triliun ke Kawasan Industri Seafer di Kendal per 15 Juni 2026, yang disebut mencakup produksi baterai, ban, dan suku cadang untuk kendaraan listrik komersial dan sepeda motor listrik. Yang paling terdampak adalah investor dan pelaku usaha komponen kendaraan listrik di Jawa Tengah, sementara data penjualan 14.195 unit atau 5,1 persen pasar nasional menunjukkan provinsi ini masih tergolong pasar menengah dibanding Jabodetabek atau Jawa Timur. Ada dua kemungkinan arah dari sini, investasi di Kendal itu benar-benar mempercepat berdirinya rantai pasok kendaraan listrik di luar Jabodetabek, atau angka Rp15 triliun itu baru komitmen investasi yang belum tentu terealisasi penuh saat pameran berlangsung akhir September nanti. Yang akan memastikan mana yang terjadi adalah laporan realisasi investasi dari Kementerian Perindustrian atau kabar progres pembangunan pabrik di kawasan Kendal dalam beberapa bulan mendatang.",
+  "imageV": "mu4mlbwl"
+ },
+ {
   "slug": "taspen-dorong-mahasiswa-usu-rencanakan-pensiun-sejak-dini",
   "category": "BUMN",
   "title": "TASPEN Dorong Mahasiswa USU [Rencanakan] Pensiun Sejak Dini",

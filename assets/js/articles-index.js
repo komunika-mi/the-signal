@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "giias-semarang-2026-digelar-30-september-4-oktober",
+  "category": "Industri",
+  "title": "GIIAS [Semarang] 2026 Digelar 30 September-4 Oktober",
+  "deck": "Pameran otomotif GIIAS singgah ke Semarang pada 30 September-4 Oktober 2026, seiring klaim investasi Rp15 triliun di kawasan industri kendaraan listrik Kendal, Jawa Tengah.",
+  "date": "17 September 2026",
+  "image": "assets/img/giias-semarang-2026-digelar-30-september-4-oktober.jpg",
+  "imageV": "mu4mlbwl",
+  "tags": [
+   "GIIAS",
+   "Otomotif",
+   "Kendaraan Listrik",
+   "Jawa Tengah"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/gaikindo-pameran-giias-semarang-30-september-4-oktober-dorong-peningkatan-investasi-industri-otomoif-jawa-tengah/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
   "slug": "taspen-dorong-mahasiswa-usu-rencanakan-pensiun-sejak-dini",
   "category": "BUMN",
   "title": "TASPEN Dorong Mahasiswa USU [Rencanakan] Pensiun Sejak Dini",
@@ -6490,22 +6508,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2bd44d4177_48fe3ca3bd.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "lpdb-koperasi-perkuat-jaminan-hukum-dana-bergulir",
-  "category": "UMKM",
-  "title": "LPDB Koperasi Perkuat [Jaminan] Hukum Dana Bergulir",
-  "deck": "LPDB Koperasi menggelar diskusi di Bandung untuk memperkuat kepastian hukum eksekusi jaminan, dari personal guarantee hingga hak tanggungan, demi melindungi dana bergulir bagi koperasi.",
-  "date": "9 September 2026",
-  "image": "assets/img/lpdb-koperasi-perkuat-jaminan-hukum-dana-bergulir.jpg",
-  "imageV": "mtu8p8c6",
-  "tags": [
-   "LPDB Koperasi",
-   "dana bergulir",
-   "tata kelola",
-   "DJKN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466045-perkuat-tata-kelola-dana-bergulir-lpdb-koperasi-dorong-mitigasi-risiko-hingga-kepastian-hukum"
  }
 ];

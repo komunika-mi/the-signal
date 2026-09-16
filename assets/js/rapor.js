@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-16T01:23:27.533+07:00",
+ "diperbarui": "2026-09-17T01:19:52.563+07:00",
  "entri": [
+  {
+   "id": "2026-09-16-3",
+   "edisi": "2026-09-16",
+   "benang": "Belanja energi diarahkan ke infrastruktur dasar",
+   "klaim": "Belanja dan kontrak konkret di sektor energi diarahkan untuk memperkuat ketahanan energi dan pemerataan akses listrik, bukan sekadar wacana.",
+   "penanda": "Realisasi penyerapan anggaran Rp22,51 triliun untuk jaringan listrik desa dan gas rumah tangga, termasuk pencapaian target 400 ribu rumah tangga penerima bantuan pasang listrik",
+   "tenggat": "2027-12-31",
+   "tenggatLabel": "sepanjang 2027",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-16-2",
+   "edisi": "2026-09-16",
+   "benang": "Ekspansi pasar ekspor di tengah temuan kebocoran",
+   "klaim": "Arah kebijakan pemerintah menuju perluasan pasar tujuan ekspor lewat sejumlah perjanjian dagang seperti ICA-CEPA, MoU investasi dengan Tiongkok, dan perundingan dengan Sri Lanka.",
+   "penanda": "ICA-CEPA dengan Kanada berlaku penuh",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "akhir 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-16-1",
+   "edisi": "2026-09-16",
+   "benang": "Pengawasan bursa ke emiten kecil makin ketat",
+   "klaim": "Pengawasan dan pengetatan sanksi Bursa Efek Indonesia terhadap emiten kecil akan terus menguat, dengan cakupan yang melebar ke lebih banyak emiten dan jenis pelanggaran.",
+   "penanda": "Jumlah emiten yang masuk pemantauan khusus atau kena sanksi keterlambatan terus bertambah",
+   "tenggat": null,
+   "tenggatLabel": "pekan-pekan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-15-3",
    "edisi": "2026-09-15",

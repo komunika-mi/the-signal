@@ -5,6 +5,76 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-targetkan-40-000-titik-mini-ras-perikanan-hingga-2029",
+  "category": "Industri",
+  "title": "KKP Targetkan [40.000] Titik Mini RAS Perikanan hingga 2029",
+  "deck": "Menteri KKP dan Menko Pangan meninjau mockup Mini RAS di Depok, bagian dari rencana membangun 40.000 titik budi daya ikan di desa hingga 2029.",
+  "date": "16 September 2026",
+  "image": "assets/img/kkp-targetkan-40-000-titik-mini-ras-perikanan-hingga-2029.jpg",
+  "imageV": "mu45qz3f",
+  "tags": [
+   "KKP",
+   "Mini RAS",
+   "Budi Daya Ikan",
+   "Ketahanan Pangan"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/menteri-trenggono-dan-menko-pangan-tinjau-mockup-tematik-mini-ras-di-depok-RPzO.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "esdm-targetkan-produksi-minyak-ri-naik-ke-1-juta-barel-hari",
+  "category": "Energi",
+  "title": "ESDM Targetkan Produksi Minyak RI Naik ke [1 Juta] Barel/Hari",
+  "deck": "Wamen ESDM Yuliot memaparkan strategi ketahanan energi Indonesia di forum G20 Houston, termasuk target produksi minyak 1 juta barel per hari dan program B50 pencampuran biodiesel 50 persen.",
+  "date": "16 September 2026",
+  "image": "assets/img/esdm-targetkan-produksi-minyak-ri-naik-ke-1-juta-barel-hari.jpg",
+  "imageV": "mu45r142",
+  "tags": [
+   "ESDM",
+   "G20",
+   "produksi minyak",
+   "B50"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hadapi-gejolak-energi-global-wamen-esdm-ungkap-jurus-jitu-ri-di-forum-g20",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "kemenkeu-dorong-big-data-dan-ai-untuk-optimalkan-pajak",
+  "category": "Makroekonomi",
+  "title": "Kemenkeu Dorong [Big Data] dan AI untuk Optimalkan Pajak",
+  "deck": "Wamenkeu Juda Agung menilai big data dan AI dapat optimalkan penerimaan pajak, sembari mendorong reformasi pajak berbasis bukti dan riset akademisi.",
+  "date": "16 September 2026",
+  "image": "assets/img/kemenkeu-dorong-big-data-dan-ai-untuk-optimalkan-pajak.jpg",
+  "imageV": "mu45r1o5",
+  "tags": [
+   "pajak",
+   "big data",
+   "kecerdasan buatan",
+   "Kemenkeu"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467519-big-data-dan-ai-dinilai-bisa-optimalkan-penerimaan-pajak-kemenkeu-dorong-kebijakan-berbasis-data"
+ },
+ {
+  "slug": "bapanas-bongkar-25-merek-beras-fortifikasi-culas",
+  "category": "Industri",
+  "title": "Bapanas Bongkar 25 Merek Beras Fortifikasi [Culas]",
+  "deck": "Bapanas menyebut 25 merek beras fortifikasi diduga menyalahi klaim gizi dan label, 12 merek sudah ditarik dari peredaran, dengan potensi kerugian konsumen Rp89 triliun.",
+  "date": "16 September 2026",
+  "image": "assets/img/bapanas-bongkar-25-merek-beras-fortifikasi-culas.jpg",
+  "imageV": "mu45r252",
+  "tags": [
+   "beras fortifikasi",
+   "Bapanas",
+   "Andi Amran Sulaiman",
+   "perlindungan konsumen"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467545-geger-beras-fortifikasi-culas-25-merek-diduga-bermasalah-dengan-potensi-kerugian-konsumen-capai-rp89-triliun"
+ },
+ {
   "slug": "vici-gelar-public-expose-usai-saham-disuspensi-bei",
   "category": "Aksi Korporasi",
   "title": "VICI Gelar Public Expose Usai Saham [Disuspensi] BEI",
@@ -37,6 +107,40 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-kerajinan",
+  "category": "UMKM",
+  "title": "Nasabah PNM Mekaar [Sulap] Sampah Pasar Jadi Kerajinan",
+  "deck": "Seorang mantan guru mengubah kulit jagung dan pecahan kaca dari sampah pasar menjadi kerajinan bernilai jual setelah penghasilannya anjlok akibat pandemi.",
+  "date": "16 September 2026",
+  "image": "assets/img/nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-kerajinan.jpg",
+  "imageV": "mu45r2ng",
+  "tags": [
+   "pnm mekaar",
+   "umkm",
+   "kerajinan limbah",
+   "usaha rumahan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467536-jeli-melihat-peluang-nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-usaha-beromzet-jutaan"
+ },
+ {
+  "slug": "22-kampus-adu-gagasan-energi-di-final-nasional-pgtc",
+  "category": "BUMN",
+  "title": "22 Kampus Adu [Gagasan] Energi di Final Nasional PGTC",
+  "deck": "16 tim debat energi dan 10 finalis inovasi dari 22 kampus di 12 provinsi berlaga di Final Nasional Pertamina Goes to Campus 2026, Jakarta, 22-23 September 2026.",
+  "date": "16 September 2026",
+  "image": "assets/img/22-kampus-adu-gagasan-energi-di-final-nasional-pgtc.jpg",
+  "imageV": "mu45r3dw",
+  "tags": [
+   "Pertamina",
+   "PGTC 2026",
+   "Transisi Energi",
+   "Mahasiswa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467533-dorong-inovasi-dan-pengembangan-talenta-22-kampus-se-indonesia-siap-beradu-gagasan-di-final-nasional-pgtc-2026"
+ },
+ {
   "slug": "bnii-rampungkan-pengambilalihan-981-juta-saham-aeii",
   "category": "Aksi Korporasi",
   "title": "BNII Rampungkan Pengambilalihan 981 Juta Saham [AEII]",
@@ -51,6 +155,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ce35427a1_71c2e4a74a.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bimo-batalkan-rotasi-pejabat-pajak-tanpa-seleksi",
+  "category": "Makroekonomi",
+  "title": "Bimo [Batalkan] Rotasi Pejabat Pajak Tanpa Seleksi",
+  "deck": "Dirjen Pajak Bimo Wijayanto membatalkan penempatan pejabat DJP yang masuk daftar rotasi tanpa melalui proses seleksi resmi, lalu mengembalikan mereka ke posisi semula.",
+  "date": "16 September 2026",
+  "image": "assets/img/bimo-batalkan-rotasi-pejabat-pajak-tanpa-seleksi.jpg",
+  "imageV": "mu45r3um",
+  "tags": [
+   "DJP",
+   "Bimo Wijayanto",
+   "Kemenkeu",
+   "rotasi pejabat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467513-rotasi-pejabat-pajak-jadi-sorotan-bimo-batalkan-nama-yang-tak-ikut-seleksi"
+ },
+ {
+  "slug": "pertamina-ajak-mahasiswa-its-bahas-energi-masa-depan",
+  "category": "Energi",
+  "title": "Pertamina Ajak Mahasiswa ITS Bahas [Energi] Masa Depan",
+  "deck": "Pertamina Patra Niaga menggelar Pertamina Goes to Campus 2026 di ITS Surabaya, mengajak mahasiswa membahas tantangan industri energi dan peluang karier di sektor ini.",
+  "date": "16 September 2026",
+  "image": "assets/img/pertamina-ajak-mahasiswa-its-bahas-energi-masa-depan.jpg",
+  "imageV": "mu45r4bn",
+  "tags": [
+   "Pertamina Patra Niaga",
+   "PGTC 2026",
+   "ITS Surabaya",
+   "industri energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467510-pgtc-2026-digelar-di-its-ajak-mahasiswa-bahas-tantangan-industri-energi-masa-depan"
  },
  {
   "slug": "bantuan-pasang-listrik-ke-400-ribu-rumah-tangga-ditarget-2027",
@@ -6368,136 +6506,6 @@ var ARTICLES = [
    "Hetzer Medical Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b62bf5ab68_3e2ca8133f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkomsel-buka-jalan-kolaborasi-digitalisasi-sektor-logistik",
-  "category": "Industri",
-  "title": "Telkomsel Buka Jalan Kolaborasi [Digitalisasi] Sektor Logistik",
-  "deck": "Telkomsel Enterprise mengumpulkan sekitar 35 pimpinan perusahaan logistik bersama BPI Danantara dan Pos Indonesia untuk membahas transformasi digital ekosistem logistik nasional.",
-  "date": "9 September 2026",
-  "image": "assets/img/telkomsel-buka-jalan-kolaborasi-digitalisasi-sektor-logistik.jpg",
-  "imageV": "mtu2vz5l",
-  "tags": [
-   "Telkomsel",
-   "logistik",
-   "Danantara",
-   "Pos Indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466014-telkomsel-enterprise-dukung-transformasi-digital-ekosistem-logistik-buka-kesempatan-luas-untuk-kolaborasi"
- },
- {
-  "slug": "safe-kuota-200-bus-listrik-sulit-terealisasi-tahun-ini",
-  "category": "Aksi Korporasi",
-  "title": "SAFE: Kuota 200 Bus [Listrik] Sulit Terealisasi Tahun Ini",
-  "deck": "Steady Safe menjawab permintaan penjelasan Bursa: tidak ada kontrak baru, dan kuota 200 unit bus listrik untuk Transjakarta kemungkinan tak terealisasi tahun ini akibat pemotongan anggaran DKI.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAFE",
-   "Transjakarta",
-   "bus listrik",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c60acea1ae_04807905ed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "perpres-baru-atur-tata-kelola-tambang-timah-di-babel",
-  "category": "BUMN",
-  "title": "Perpres Baru Atur Tata Kelola Tambang [Timah] di Babel",
-  "deck": "Presiden Prabowo Subianto meneken Perpres 79/2026 yang mengatur biaya produksi, asal usul material, dan sinergi lintas sektor dalam tata kelola pertambangan timah di Bangka Belitung.",
-  "date": "9 September 2026",
-  "image": "assets/img/perpres-baru-atur-tata-kelola-tambang-timah-di-babel.jpg",
-  "imageV": "mtu064vv",
-  "tags": [
-   "timah",
-   "PT Timah",
-   "Bangka Belitung",
-   "Perpres"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466005-perpres-792026-ubah-tata-kelola-tambang-timah-pt-timah-buka-suara-soal-poin-krusial"
- },
- {
-  "slug": "mapi-tetapkan-kebijakan-dividen-minimal-25-dari-laba-bersih",
-  "category": "Aksi Korporasi",
-  "title": "MAPI Tetapkan [Kebijakan Dividen] Minimal 25% dari Laba Bersih",
-  "deck": "Direksi MAPI menetapkan kebijakan dividen tunai minimal 25% dan maksimal 50% dari laba bersih tahun buku sebelumnya, berlaku efektif 9 September 2026, disetujui Dewan Komisaris.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAPI",
-   "dividen",
-   "kebijakan dividen",
-   "emiten ritel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dd227bad86_f834c6bef3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-catat-laba-tipis-rp8-49-miliar-genjot-penyehatan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Catat Laba Tipis Rp8,49 Miliar, Genjot [Penyehatan] Keuangan",
-  "deck": "Dalam Public Expose Live 2026, ADHI membeberkan pendapatan semester I turun sementara laba bersih hanya Rp8,49 miliar, di tengah tiga langkah penyehatan keuangan perseroan.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "Public Expose",
-   "restrukturisasi keuangan",
-   "BUMN Karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f02e96d89_afc217eb50.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kaef-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "KAEF Jelaskan ke BEI soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "Kimia Farma menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak mengetahui informasi material apa pun di baliknya.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KAEF",
-   "Kimia Farma",
-   "BEI",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cda9da1c1_afc3882382.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rock-akui-proyek-azerai-ieh-belum-ada-jadwal-pasti",
-  "category": "Aksi Korporasi",
-  "title": "ROCK Akui Proyek Azerai-IEH Belum Ada [Jadwal] Pasti",
-  "deck": "ROCK menjawab pertanyaan lanjutan BEI: proyek Azerai dan International Exchange House masih tahap evaluasi tanpa jadwal pasti, progres fisiknya baru 4,17 dan 13,37 persen.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ROCK",
-   "Rockfields Properti Indonesia",
-   "properti",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d8397fe28_696ba084e7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-kontrak-konstruksi-plta-pongbembe-20-mw-senilai-rp288-m",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Kontrak Konstruksi PLTA Pongbembe [20 MW] Senilai Rp288 M",
-  "deck": "Anak usaha ARKO, Nosu dan Aekon, teken kontrak konstruksi PLTA Pongbembe 20 MW senilai Rp287,98 miliar, setara 56 persen ekuitas perseroan per akhir 2025.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "PLTA",
-   "transaksi afiliasi",
-   "Arkora Hydro"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/beb1b0de64_1d48b8d914.pdf",
   "sourceLabel": "IDX"
  }
 ];

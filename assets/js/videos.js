@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "ExKj1Ots1Qk",
+  "title": "Menkeu Baru Dilantik, Ekspektasi Kinerja Dipertanyakan",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto melantik Suahasil Nazara sebagai Menteri Keuangan baru menggantikan Purbaya. Kalangan pengamat menahan diri untuk berharap terlalu tinggi pada awal masa jabatannya.",
+  "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan penting diikuti karena berdampak langsung pada arah kebijakan fiskal ke depan.",
+  "terbit": "2026-09-16T12:30:42+00:00"
+ },
+ {
+  "id": "hP0U73fboxg",
+  "title": "Suahasil Dipanggil ke Istana, Bahas Energi dan Pangan",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Presiden Prabowo Subianto memanggil sejumlah menteri dan pimpinan lembaga untuk rapat terbatas membahas sektor energi dan pangan, dengan program B50 menjadi salah satu agenda utama.",
+  "takeaway": "Perkembangan program biodiesel B50 dan kebijakan pangan berpotensi memengaruhi industri serta harga komoditas dalam negeri.",
+  "terbit": "2026-09-16T12:20:05+00:00"
+ },
+ {
+  "id": "u8UxSA2u-lo",
+  "title": "Purbaya Dicopot dari Menteri Keuangan, Ini Kata Hensa",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Purbaya diganti dari posisi Menteri Keuangan. Sejumlah pihak menyebut kurangnya kedekatan dengan Direktorat Jenderal Bea Cukai dan Direktorat Jenderal Pajak sebagai salah satu faktor.",
+  "takeaway": "Pergantian Menteri Keuangan dan relasinya dengan otoritas bea cukai serta pajak berpengaruh pada kebijakan penerimaan negara.",
+  "terbit": "2026-09-16T12:15:39+00:00"
+ },
+ {
   "id": "D6kxZIseois",
   "title": "Pembangunan LRT Jakarta Dilanjutkan hingga Dukuh Atas",
   "category": "Bisnis",

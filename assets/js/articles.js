@@ -3,6 +3,115 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kkp-targetkan-40-000-titik-mini-ras-perikanan-hingga-2029",
+  "category": "Industri",
+  "title": "KKP Targetkan [40.000] Titik Mini RAS Perikanan hingga 2029",
+  "deck": "Menteri KKP dan Menko Pangan meninjau mockup Mini RAS di Depok, bagian dari rencana membangun 40.000 titik budi daya ikan di desa hingga 2029.",
+  "image": "assets/img/kkp-targetkan-40-000-titik-mini-ras-perikanan-hingga-2029.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T13:44:42.978Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/menteri-trenggono-dan-menko-pangan-tinjau-mockup-tematik-mini-ras-di-depok-RPzO.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "KKP",
+   "Mini RAS",
+   "Budi Daya Ikan",
+   "Ketahanan Pangan"
+  ],
+  "body": [
+   "Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono bersama Menteri Koordinator Bidang Pangan Zulkifli Hasan meninjau model contoh atau mockup sistem budi daya ikan Mini Recirculating Aquaculture System, disingkat Mini RAS, di Depok, Jawa Barat, Selasa (15/9). Mini RAS adalah sistem budi daya ikan skala kecil yang mendaur ulang air dalam wadah tertutup, sehingga bisa dibangun di lahan sempit tanpa bergantung pada sumber air besar. Peninjauan ini menjadi bagian dari rencana pemerintah membangun rantai pasok industri perikanan sampai ke tingkat desa, mulai dari benih, pakan, hingga pengolahan hasil.",
+   "Menurut Kementerian Kelautan dan Perikanan (KKP), program ini ditargetkan menjangkau sekitar 40.000 titik di seluruh Indonesia hingga tahun 2029. Untuk tahun 2026, pemerintah menargetkan pelaksanaan di 4.000 titik yang tersebar di Pulau Jawa dan Lampung, dibagi dalam dua tahap masing-masing 2.000 titik.",
+   "KKP telah melakukan verifikasi awal terhadap 5.051 desa di enam provinsi, yaitu Banten, Lampung, Jawa Barat, Jawa Tengah, DI Yogyakarta, dan Jawa Timur. Dari jumlah itu, 1.454 desa dinyatakan siap dibangun, sementara sisanya masih melalui proses penyesuaian teknis dan evaluasi kesiapan. Direktur Jenderal Perikanan Budi Daya KKP, Tb Haeru Rahayu, mengatakan mockup ini dibuat untuk memastikan desain, aspek teknis, dan hitungan keekonomian program matang sebelum diterapkan dalam skala besar.",
+   "Trenggono menyebut Mini RAS sebagai langkah baru dalam agenda pemerintahan Presiden Prabowo Subianto di sektor perikanan darat, yang menurutnya membuka peluang bagi tumbuhnya industri pendukung seperti penyediaan benih dan pakan di tingkat desa."
+  ],
+  "fotoAdegan": "Small round fish-farming tanks linked by water pipes in a rural facility, a worker checking water clarity, daylight",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/menteri-trenggono-dan-menko-pangan-tinjau-mockup-tematik-mini-ras-di-depok-RPzO.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah di sini adalah tahapnya: KKP baru meninjau model contoh, belum meluncurkan program secara nasional, dan dari 5.051 desa yang sudah diperiksa di enam provinsi, baru 1.454 desa atau sekitar 29 persen yang dinyatakan siap dibangun. Angka ini penting karena target 2026 sudah dipatok hanya 4.000 titik di Jawa dan Lampung, jauh di bawah target akhir 40.000 titik pada 2029. Yang terdampak langsung adalah desa-desa di enam provinsi tadi, terutama yang belum lolos verifikasi, serta pelaku usaha kecil di rantai pasok seperti penyedia benih dan pakan ikan yang diharapkan ikut tumbuh. Dengan rasio kesiapan yang masih rendah dan program baru sampai tahap mockup, arahnya tampak menuju perluasan bertahap ketimbang pembangunan serentak di puluhan ribu titik sekaligus. Yang akan memastikan pembacaan ini adalah apakah tahap pertama 2.000 titik benar-benar mulai dibangun sesuai jadwal pada 2026, serta hasil verifikasi lanjutan di desa-desa yang belum masuk penilaian.",
+  "imageV": "mu45qz3f"
+ },
+ {
+  "slug": "esdm-targetkan-produksi-minyak-ri-naik-ke-1-juta-barel-hari",
+  "category": "Energi",
+  "title": "ESDM Targetkan Produksi Minyak RI Naik ke [1 Juta] Barel/Hari",
+  "deck": "Wamen ESDM Yuliot memaparkan strategi ketahanan energi Indonesia di forum G20 Houston, termasuk target produksi minyak 1 juta barel per hari dan program B50 pencampuran biodiesel 50 persen.",
+  "image": "assets/img/esdm-targetkan-produksi-minyak-ri-naik-ke-1-juta-barel-hari.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T13:42:41.789Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hadapi-gejolak-energi-global-wamen-esdm-ungkap-jurus-jitu-ri-di-forum-g20",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "G20",
+   "produksi minyak",
+   "B50"
+  ],
+  "body": [
+   "Pemerintah Indonesia memaparkan strategi menghadapi gejolak pasokan minyak global akibat konflik geopolitik dalam pertemuan G20 Energy Abundance Ministerial Meeting di Houston, Amerika Serikat, pada 14-16 September 2026. Wakil Menteri ESDM Yuliot menyampaikan bahwa Indonesia mendukung hak setiap negara menentukan jalur energinya sendiri, sekaligus memperkuat ketahanan energi di dalam negeri.",
+   "Salah satu fokus utamanya adalah mengurangi ketergantungan pada impor minyak. Konsumsi BBM nasional saat ini mencapai sekitar 1,6 juta barel per hari, sementara produksi dalam negeri baru sekitar 600 ribu barel per hari. Pemerintah menargetkan produksi naik menjadi 1 juta barel per hari dan membuka investasi di 118 wilayah kerja minyak dan gas dengan skema fiskal yang dibuat lebih menarik bagi investor.",
+   "Di sisi bahan bakar nabati, pemerintah mendorong program B50, yakni solar yang dicampur bahan bakar nabati hingga 50 persen. Menurut ESDM, program ini bisa menggantikan kebutuhan impor solar sebanyak 310 ribu barel per hari, menghemat hampir US$10 miliar per tahun, dan berpotensi membuka lebih dari 2 juta lapangan kerja. Yuliot menyebut Indonesia sebagai negara pertama di dunia yang menjalankan program B50.",
+   "Di sektor kelistrikan, permintaan listrik nasional diperkirakan tumbuh sekitar 5,3 persen per tahun. Rencana Usaha Penyediaan Tenaga Listrik (RUPTL) 2025-2034 menargetkan tambahan kapasitas pembangkit 69,5 gigawatt, dengan 76 persen berasal dari energi terbarukan, membutuhkan investasi sekitar US$180 miliar. Pemerintah juga menargetkan 100 gigawatt pembangkit listrik tenaga surya untuk menggantikan pembangkit diesel, meski batu bara disebut masih jadi penopang utama pasokan listrik nasional."
+  ],
+  "fotoAdegan": "Onshore oil pumpjacks working in a rural Indonesian field at dusk, workers in overalls inspecting nearby pipelines, industrial atmosphere.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-hadapi-gejolak-energi-global-wamen-esdm-ungkap-jurus-jitu-ri-di-forum-g20-a9vcyjm.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini adalah target, bukan hasil yang sudah tercapai: pemerintah ingin menaikkan produksi minyak dalam negeri dari sekitar 600 ribu jadi 1 juta barel per hari, sembari menawarkan 118 wilayah kerja migas baru ke investor. Bersamaan dengan itu, program B50, solar yang dicampur bahan bakar nabati sampai 50 persen, digadang menghemat impor solar hingga hampir US$10 miliar per tahun. Yang terdampak adalah investor migas yang diberi insentif fiskal, industri pemasok bahan bakar nabati, dan pengguna kendaraan bermesin diesel yang akan memakai campuran bahan bakar baru. Pola yang terlihat adalah penambahan pasokan dari banyak arah sekaligus, minyak, biodiesel, dan listrik tenaga surya, tetapi batu bara tetap disebut sebagai penopang utama listrik, jadi ini lebih terlihat seperti diversifikasi bertahap ketimbang pengalihan cepat dari energi fosil. Yang akan menunjukkan apakah target ini berjalan sesuai rencana adalah hasil lelang 118 wilayah kerja migas dan realisasi program B50 secara nasional dalam waktu dekat.",
+  "imageV": "mu45r142"
+ },
+ {
+  "slug": "kemenkeu-dorong-big-data-dan-ai-untuk-optimalkan-pajak",
+  "category": "Makroekonomi",
+  "title": "Kemenkeu Dorong [Big Data] dan AI untuk Optimalkan Pajak",
+  "deck": "Wamenkeu Juda Agung menilai big data dan AI dapat optimalkan penerimaan pajak, sembari mendorong reformasi pajak berbasis bukti dan riset akademisi.",
+  "image": "assets/img/kemenkeu-dorong-big-data-dan-ai-untuk-optimalkan-pajak.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T20:30:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467519-big-data-dan-ai-dinilai-bisa-optimalkan-penerimaan-pajak-kemenkeu-dorong-kebijakan-berbasis-data",
+  "tags": [
+   "pajak",
+   "big data",
+   "kecerdasan buatan",
+   "Kemenkeu"
+  ],
+  "body": [
+   "Wakil Menteri Keuangan Juda Agung menilai pemanfaatan teknologi seperti big data dan kecerdasan buatan (AI) dapat mengoptimalkan potensi penerimaan pajak Indonesia ke depan. Pernyataan ini penting karena pemerintah tengah mencari cara mendongkrak penerimaan negara tanpa harus membebani dunia usaha dengan pungutan baru. Hal itu disampaikan Juda dalam International Tax Conference 2026 di Jakarta, Rabu (16/9/2026).",
+   "Menurut Juda, pemerintah menghadapi tantangan menyeimbangkan dorongan pertumbuhan ekonomi yang lebih tinggi dengan disiplin fiskal yang tetap terjaga. Untuk mencapai keduanya, ia menyebut perlu mobilisasi penerimaan yang lebih kuat, kualitas belanja yang lebih baik, serta pembiayaan yang dilakukan secara hati-hati. Reformasi perpajakan disebut jadi bagian penting strategi itu, namun Juda menekankan reformasi yang bermakna butuh bukti kuat, bukan sekadar ambisi kebijakan, atau yang ia sebut sebagai kebijakan berbasis bukti (evidence-based policymaking).",
+   "Dalam kesempatan yang sama, Kementerian Keuangan kembali membuka undangan bagi akademisi untuk mengirimkan karya tulis ilmiah lewat program call for paper tahun ini. Temanya adalah transformasi kebijakan dan administrasi pajak untuk mendorong pertumbuhan berkelanjutan di era ekonomi digital. Juda juga mendorong Direktorat Jenderal Pajak bersama Direktorat Jenderal Strategi Ekonomi dan Fiskal Kemenkeu untuk berkolaborasi menentukan pertanyaan riset yang paling relevan dengan tantangan ekonomi digital saat ini."
+  ],
+  "fotoAdegan": "Rows of server racks with blinking status lights in a humid data center aisle, a technician walking past holding a tablet, blue ambient lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/04/26/680c943b24e66-ilustrasi-pajak_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari pernyataan ini baru sebatas arah kebijakan, bukan aturan atau angka baru: Wamenkeu Juda Agung mendorong Ditjen Pajak memakai data besar dan kecerdasan buatan untuk mengejar potensi pajak yang selama ini belum tergali, sekaligus mengajak akademisi meneliti lewat program call for paper bertema pajak di ekonomi digital. Pihak yang paling terkena dampak nantinya adalah Ditjen Pajak sebagai pelaksana, dan wajib pajak yang datanya berpotensi makin sering dianalisis otomatis untuk mendeteksi ketidaksesuaian setoran pajak. Arahnya tampak menuju pengawasan pajak yang lebih mengandalkan analisis data ketimbang pemeriksaan manual, sejalan dengan penekanan Juda soal kebijakan berbasis bukti. Namun berita ini belum menyebut sistem atau algoritma spesifik yang dipakai, berapa anggarannya, atau kapan diterapkan, sehingga yang perlu ditunggu adalah hasil call for paper serta kebijakan turunan dari Ditjen Pajak dan Direktorat Jenderal Strategi Ekonomi dan Fiskal yang disinggung Juda dalam pidatonya.",
+  "imageV": "mu45r1o5"
+ },
+ {
+  "slug": "bapanas-bongkar-25-merek-beras-fortifikasi-culas",
+  "category": "Industri",
+  "title": "Bapanas Bongkar 25 Merek Beras Fortifikasi [Culas]",
+  "deck": "Bapanas menyebut 25 merek beras fortifikasi diduga menyalahi klaim gizi dan label, 12 merek sudah ditarik dari peredaran, dengan potensi kerugian konsumen Rp89 triliun.",
+  "image": "assets/img/bapanas-bongkar-25-merek-beras-fortifikasi-culas.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T19:53:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467545-geger-beras-fortifikasi-culas-25-merek-diduga-bermasalah-dengan-potensi-kerugian-konsumen-capai-rp89-triliun",
+  "tags": [
+   "beras fortifikasi",
+   "Bapanas",
+   "Andi Amran Sulaiman",
+   "perlindungan konsumen"
+  ],
+  "body": [
+   "Badan Pangan Nasional (Bapanas) mengungkap 25 merek beras berlabel fortifikasi, yaitu beras yang diklaim ditambah vitamin dan mineral, diduga tidak sesuai standar dan informasi kandungan gizi pada kemasannya. Menteri Pertanian sekaligus Kepala Bapanas Andi Amran Sulaiman menyebut praktik ini sebagai bentuk penipuan yang merugikan konsumen, karena pemerintah ingin masyarakat membeli beras sesuai kualitas dan harga yang sepadan.",
+   "Sebanyak 11 pelaku usaha yang menguasai 25 izin edar merek bermasalah itu sudah menerima surat peringatan dari otoritas keamanan pangan daerah di enam provinsi, yakni DKI Jakarta, Jawa Barat, Jawa Tengah, Jawa Timur, DI Yogyakarta, dan Sumatera Utara, yang berkoordinasi dengan Bapanas. Ringkasan resmi menyebut potensi kerugian konsumen akibat praktik ini ditaksir mencapai Rp89 triliun.",
+   "Hingga pekan pertama September 2026, seluruh merek bermasalah tercatat sudah menghentikan produksi. Dari jumlah itu, 12 merek sudah menarik penuh stoknya dari pasar, sementara sisanya masih dalam proses penarikan.",
+   "Wakil Menteri Hukum Edward Omar Sharif Hiariej menyebut ada indikasi tindak pidana penipuan dalam kasus ini, merujuk pada Pasal 492, 493, dan 495 KUHP serta Undang-Undang Perlindungan Konsumen. Menurutnya, indikasi itu makin kuat jika produk dijual dengan harga jauh lebih tinggi dari kandungan gizi yang sebenarnya, sehingga konsumen dirugikan."
+  ],
+  "fotoAdegan": "Workers stacking sacks of packaged rice inside a warehouse, forklift moving pallets, fluorescent lighting overhead",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/15/6aa8f850ccd84-penemuan-pemalsuan-beras-fortifikasi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah status 25 merek beras berlabel gizi tambahan itu: semuanya sudah disetop produksinya dan 12 di antaranya sudah ditarik penuh dari toko, sementara sisanya masih dalam proses penarikan, dengan taksiran kerugian konsumen sampai Rp89 triliun. Pihak yang terdampak adalah konsumen yang selama ini membayar harga tertentu untuk beras yang mengklaim punya kandungan gizi tambahan, serta 11 perusahaan pemilik izin edar merek-merek itu yang tersebar di enam provinsi. Ke depan, kasus ini tampak bergerak dari sekadar sanksi administratif berupa penarikan produk, menuju kemungkinan proses pidana, karena Wakil Menteri Hukum sudah mengaitkannya dengan pasal penipuan di KUHP dan UU Perlindungan Konsumen. Yang akan menentukan arah mana yang terjadi adalah apakah kasus 11 perusahaan itu benar-benar dilimpahkan ke penyidikan, atau berhenti di tahap penarikan produk saja.",
+  "imageV": "mu45r252"
+ },
+ {
   "slug": "vici-gelar-public-expose-usai-saham-disuspensi-bei",
   "category": "Aksi Korporasi",
   "title": "VICI Gelar Public Expose Usai Saham [Disuspensi] BEI",
@@ -55,6 +164,60 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-kerajinan",
+  "category": "UMKM",
+  "title": "Nasabah PNM Mekaar [Sulap] Sampah Pasar Jadi Kerajinan",
+  "deck": "Seorang mantan guru mengubah kulit jagung dan pecahan kaca dari sampah pasar menjadi kerajinan bernilai jual setelah penghasilannya anjlok akibat pandemi.",
+  "image": "assets/img/nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-kerajinan.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T19:35:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467536-jeli-melihat-peluang-nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-usaha-beromzet-jutaan",
+  "tags": [
+   "pnm mekaar",
+   "umkm",
+   "kerajinan limbah",
+   "usaha rumahan"
+  ],
+  "body": [
+   "Zulhaida Sitanggang sempat kehilangan sebagian besar penghasilannya sebagai guru saat pandemi Covid-19 melanda pada 2020, ketika sekolah tempatnya mengajar memangkas honor secara signifikan akibat ketidakpastian operasional. Tekanan ekonomi itu membuatnya memilih berhenti mengajar dan mencari sumber penghasilan baru dari rumah. Kisahnya menggambarkan bagaimana warga terdampak pandemi memanfaatkan pembiayaan mikro seperti PNM Mekaar untuk beralih profesi, dari pekerja formal menjadi pelaku usaha rumahan.",
+   "Langkah awal Zulhaida tidak mudah. Usaha jualan tanaman hias secara daring yang lebih dulu ia rintis tidak bertahan lama. Titik balik datang ketika ia bergabung dengan komunitas alumni yang mengumpulkan barang bekas untuk disalurkan sebagai bantuan bagi warga terdampak pandemi, dari situ ia melihat peluang pada tumpukan gelas dan piring retak yang sudah tidak laku dijual.",
+   "Pecahan kaca itu ia hias dengan tali dari kain bekas lalu dijual secara daring, dengan sebagian hasil penjualan disisihkan untuk kegiatan amal. Dua gelas hias pertamanya laku seharga seratus ribu rupiah, modal kepercayaan diri yang mendorongnya mencoba bahan lain, yakni kulit jagung bekas yang ia ambil sendiri dari tempat sampah pasar tradisional.",
+   "Zulhaida belajar mengolah kulit jagung menjadi rangkaian bunga secara otodidak lewat video tutorial, meski hasil percobaan pertamanya jauh dari sempurna. Satu unggahan di media sosial cukup menarik minat pembeli dan membuka jalan bagi usahanya, sementara bimbingan dari seorang perajin senior kemudian membantunya memperbaiki teknik pengolahan agar kerajinan lebih tahan lama dan tidak mudah berjamur."
+  ],
+  "fotoAdegan": "Close-up of weathered hands weaving dried corn husks into flower shapes on a wooden table, sunlight through a window, home workshop setting.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/16/6aaa8c6c5528c-nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-usaha-beromzet-jutaan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Cerita ini memperlihatkan bagaimana pembiayaan mikro seperti PNM Mekaar dipakai warga terdampak pandemi untuk beralih dari pekerjaan formal ke usaha rumahan berbahan limbah pasar, dalam hal ini kulit jagung dan pecahan kaca yang sebelumnya dibuang. Yang terdampak langsung adalah pelaku usaha mikro, terutama perempuan yang kehilangan penghasilan tetap saat pandemi dan mengandalkan modal kecil untuk memulai usaha baru dari nol. Berita ini tidak menyebut berapa nilai pembiayaan yang diterima Zulhaida dari PNM Mekaar, berapa omzet usahanya sekarang, atau berapa banyak nasabah lain yang menjalani pola serupa, sehingga belum bisa dibaca apakah ini kisah tunggal atau pola yang cukup luas di antara nasabah program tersebut. Yang perlu ditunggu adalah data resmi PNM soal jumlah nasabah yang beralih ke usaha berbahan limbah semacam ini, supaya jelas apakah pola ini cukup besar untuk disebut tren dan bukan sekadar kisah individu.",
+  "imageV": "mu45r2ng"
+ },
+ {
+  "slug": "22-kampus-adu-gagasan-energi-di-final-nasional-pgtc",
+  "category": "BUMN",
+  "title": "22 Kampus Adu [Gagasan] Energi di Final Nasional PGTC",
+  "deck": "16 tim debat energi dan 10 finalis inovasi dari 22 kampus di 12 provinsi berlaga di Final Nasional Pertamina Goes to Campus 2026, Jakarta, 22-23 September 2026.",
+  "image": "assets/img/22-kampus-adu-gagasan-energi-di-final-nasional-pgtc.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T19:29:55+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467533-dorong-inovasi-dan-pengembangan-talenta-22-kampus-se-indonesia-siap-beradu-gagasan-di-final-nasional-pgtc-2026",
+  "tags": [
+   "Pertamina",
+   "PGTC 2026",
+   "Transisi Energi",
+   "Mahasiswa"
+  ],
+  "body": [
+   "Pertamina Goes to Campus (PGTC) 2026 memasuki babak puncak. Final Nasional akan digelar di Jakarta pada 22-23 September 2026, mempertemukan talenta muda dari 22 perguruan tinggi di 12 provinsi yang lolos dari rangkaian seleksi sebelumnya. Ajang ini terbagi dalam dua kategori, yaitu 16 tim Energy Debate Championship yang beradu argumentasi dan 10 finalis Energynovation Ideas Competition yang mengajukan gagasan inovatif soal transisi energi.",
+   "Daftar kampus yang lolos ke final mencakup ITB, UI, UGM, IPB, Unpad, Undip, UB, dan Binus, yang beradu gagasan bersama Universitas Mataram, Universitas Riau, Universitas Sriwijaya, Institut Teknologi Sumatera, Universitas Udayana, Universitas Pasundan, Universitas President, serta PKN STAN. Sebaran ini mencakup kampus dari Sumatera, Jawa, Bali, hingga Nusa Tenggara, sehingga peserta datang tidak hanya dari kampus-kampus besar di Pulau Jawa.",
+   "VP Corporate Communication Pertamina, Muhammad Baron, menyebut PGTC sebagai wadah inkubasi kepemimpinan dan inovasi agar mahasiswa berperan sebagai aktor yang merancang solusi energi, bukan sekadar penonton. Menurutnya, keikutsertaan kampus dari berbagai wilayah menunjukkan kapasitas talenta muda Indonesia yang merata, dan program ini menjadi bagian dari upaya Pertamina membangun jejaring talenta untuk mendukung ketahanan energi nasional.",
+   "Bagi dunia pendidikan, sebaran peserta ini mempertegas pentingnya keterkaitan antara riset kampus dan kebutuhan industri energi. Sementara gagasan yang diusung para finalis EIC, khususnya di bidang energi terbarukan dan keberlanjutan, berpotensi menawarkan solusi berbasis potensi lokal untuk kebutuhan energi bersih di berbagai daerah."
+  ],
+  "fotoAdegan": "University students in formal attire engaged in an animated debate around a table in a modern auditorium, natural daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/16/6aaa8b11073dc-suasana-awarding-para-pemenang-energy-debate-championship-edc-dan-energynovation-ideas-competition-eic-pada-pgtc-2025_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah skala rangkaian PGTC 2026: dari proses seleksi, tersisa 16 tim Energy Debate Championship dan 10 finalis Energynovation Ideas Competition dari 22 kampus di 12 provinsi, yang akan tampil di Jakarta pada 22-23 September 2026. Pihak yang terdampak langsung adalah mahasiswa peserta dari kampus-kampus tersebut, mulai dari ITB dan UI di Jawa hingga Universitas Mataram dan Universitas Sriwijaya di luar Jawa, karena ajang ini jadi panggung mereka menunjukkan gagasan soal energi terbarukan. Yang belum bisa dibaca dari data ini adalah apakah ide-ide finalis EIC benar-benar akan ditindaklanjuti Pertamina jadi proyek nyata atau program kerja sama, sebab berita ini hanya menyebut ajang kompetisi tanpa merinci hadiah, anggaran, atau mekanisme tindak lanjutnya. Yang perlu ditunggu adalah hasil Final Nasional pada 22-23 September 2026 dan apakah Pertamina mengumumkan langkah konkret seperti pendanaan atau kerja sama lanjutan atas ide-ide pemenang, karena itu yang akan menunjukkan apakah PGTC sekadar kegiatan tahunan atau benar menjadi jalur menuju inovasi energi yang terpakai.",
+  "imageV": "mu45r3dw"
+ },
+ {
   "slug": "bnii-rampungkan-pengambilalihan-981-juta-saham-aeii",
   "category": "Aksi Korporasi",
   "title": "BNII Rampungkan Pengambilalihan 981 Juta Saham [AEII]",
@@ -79,6 +242,58 @@ var ARTICLES = [
   "fotoAdegan": "Bank employees reviewing insurance policy folders at a desk inside a modern branch office, soft daylight through glass windows in Jakarta",
   "takeaway": "Laporan ini condong netral bagi BNII, karena inti transaksinya adalah pemindahan kepemilikan saham asuransi Etiqa dari pemegang saham lamanya di Malaysia ke bank ini sendiri, bukan penambahan modal segar atau bisnis baru dari luar grup. Yang berubah adalah pos investasi pada entitas anak di neraca BNII, karena begitu PT AEII resmi jadi anak usaha yang dikendalikan langsung oleh bank, aset dan kewajiban bisnis asuransi itu mulai tercermin dalam laporan keuangan konsolidasi grup, hal yang biasa mendapat perhatian otoritas karena risiko bisnis asuransi berbeda dari risiko perbankan. Dokumen ini tidak menyebut nilai transaksi maupun persentase kepemilikan BNII di PT AEII setelah peralihan, sehingga besar kecilnya dampak terhadap permodalan bank belum bisa dipastikan hanya dari laporan ini. Yang perlu dipantau berikutnya adalah tindak lanjut Departemen Pengawasan Konglomerasi Keuangan OJK, yang menerima tembusan surat ini, serta apakah laporan keuangan BNII pada periode mendatang sudah mengonsolidasikan bisnis asuransi tersebut.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bimo-batalkan-rotasi-pejabat-pajak-tanpa-seleksi",
+  "category": "Makroekonomi",
+  "title": "Bimo [Batalkan] Rotasi Pejabat Pajak Tanpa Seleksi",
+  "deck": "Dirjen Pajak Bimo Wijayanto membatalkan penempatan pejabat DJP yang masuk daftar rotasi tanpa melalui proses seleksi resmi, lalu mengembalikan mereka ke posisi semula.",
+  "image": "assets/img/bimo-batalkan-rotasi-pejabat-pajak-tanpa-seleksi.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T19:00:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467513-rotasi-pejabat-pajak-jadi-sorotan-bimo-batalkan-nama-yang-tak-ikut-seleksi",
+  "tags": [
+   "DJP",
+   "Bimo Wijayanto",
+   "Kemenkeu",
+   "rotasi pejabat"
+  ],
+  "body": [
+   "Direktur Jenderal Pajak Bimo Wijayanto membatalkan penempatan sejumlah pejabat yang masuk dalam daftar rotasi di lingkungan Direktorat Jenderal Pajak (DJP) karena tidak melalui proses seleksi resmi. Ia menyebut nama-nama tersebut sebagai temuan yang mencurigakan sebab lolos ke daftar perombakan tanpa mengikuti tahap penilaian yang berlaku bagi pejabat lain.",
+   "Menurut Bimo, pejabat yang bermasalah itu tidak mengikuti proses assessment talent management, yakni mekanisme penilaian kompetensi yang mestinya menjadi syarat sebelum seseorang direkomendasikan pindah jabatan. Ia mengungkapkan hal ini saat ditemui usai acara International Tax Conference di kantor pusat DJP, Jakarta Selatan, Rabu (16/9/2026), tanpa membeberkan identitas pejabat yang dimaksud.",
+   "Bimo menegaskan pejabat yang tidak memenuhi syarat seleksi tersebut akan dikembalikan ke posisi atau jabatan semula, sementara pejabat lain yang telah melalui proses assessment sesuai aturan tetap melanjutkan rotasi seperti rencana. Ia beralasan proses rotasi yang tidak mengikuti prosedur bisa menimbulkan persoalan di kemudian hari, sekaligus memberi sinyal buruk bagi pejabat yang sudah bersusah payah mengikuti ujian dan tahapan talent management."
+  ],
+  "fotoAdegan": "Empty corridor of a government tax office building with rows of closed office doors, fluorescent lighting, early morning",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/05/21/682cc409cc8af-bimo-wijayanto-akan-mengisi-jabatan-dirjen-pajak-kemenkeu_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya, Bimo membatalkan penempatan pejabat yang masuk daftar rotasi DJP tanpa melalui proses assessment talent management, dan mengembalikan mereka ke jabatan semula, sementara pejabat yang sudah mengikuti seleksi resmi tetap dirotasi sesuai rencana. Yang terdampak langsung adalah pejabat internal DJP, baik yang penempatannya dibatalkan maupun pejabat lain yang mengikuti proses seleksi dan menurut Bimo berhak merasa dirugikan kalau praktik semacam ini dibiarkan. Yang belum terungkap adalah berapa banyak nama bermasalah itu, siapa mereka, dan bagaimana nama-nama itu bisa masuk daftar rotasi tanpa melalui prosedur normal, sehingga belum bisa dipastikan apakah ini kasus terisolasi atau pola yang lebih luas di internal DJP. Untuk membaca ke arah mana persoalan ini bergerak, perlu ditunggu apakah Bimo akhirnya mengungkap identitas pejabat yang dibatalkan serta hasil final rotasi DJP.",
+  "imageV": "mu45r3um"
+ },
+ {
+  "slug": "pertamina-ajak-mahasiswa-its-bahas-energi-masa-depan",
+  "category": "Energi",
+  "title": "Pertamina Ajak Mahasiswa ITS Bahas [Energi] Masa Depan",
+  "deck": "Pertamina Patra Niaga menggelar Pertamina Goes to Campus 2026 di ITS Surabaya, mengajak mahasiswa membahas tantangan industri energi dan peluang karier di sektor ini.",
+  "image": "assets/img/pertamina-ajak-mahasiswa-its-bahas-energi-masa-depan.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T18:17:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467510-pgtc-2026-digelar-di-its-ajak-mahasiswa-bahas-tantangan-industri-energi-masa-depan",
+  "tags": [
+   "Pertamina Patra Niaga",
+   "PGTC 2026",
+   "ITS Surabaya",
+   "industri energi"
+  ],
+  "body": [
+   "Pertamina Patra Niaga menyelenggarakan Pertamina Goes to Campus (PGTC) 2026 di Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Selasa (15/9). Acara ini mempertemukan mahasiswa, akademisi, dan jajaran manajemen perusahaan untuk membahas tantangan industri energi ke depan sekaligus membuka ruang dialog dengan generasi muda.",
+   "Direktur Operasi Kilang Pertamina Patra Niaga, Didik Bahagia, mengatakan pertemuan antara industri dan kampus penting untuk menyatukan kebutuhan industri dengan ide dan inovasi yang tumbuh dari lingkungan akademik. Ia menyebut tantangan energi Indonesia ke depan memerlukan kontribusi dari banyak pihak, termasuk mahasiswa yang menurutnya bisa mulai terlibat sejak masih kuliah, lewat forum yang menurutnya bukan sekadar ajang perkenalan perusahaan.",
+   "VP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, menambahkan kegiatan ini menjadi sarana mengenalkan dunia kerja kepada mahasiswa ITS, termasuk kompetensi dan pengalaman yang dibutuhkan untuk mempersiapkan karier setelah lulus. Dalam PGTC 2026, mahasiswa mendapat gambaran industri energi lewat sesi Industry Insight, serta berbagi pengalaman soal dunia kerja dan kepemimpinan bersama sejumlah alumni ITS yang kini menjabat di jajaran direksi Pertamina Patra Niaga."
+  ],
+  "fotoAdegan": "University students seated in a modern campus auditorium during an industry discussion panel, notebooks and laptops open, natural daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/16/6aaa79c260cb0-pertamina-goes-to-campus-pgtc-2026-di-institut-teknologi-sepuluh-nopember-its-surabaya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan atau angka, melainkan agenda tahunan Pertamina Patra Niaga mendekatkan diri ke kampus, kali ini di ITS Surabaya. Pihak yang paling terdampak langsung adalah mahasiswa ITS yang mendapat gambaran industri energi dan jalur karier di Pertamina Patra Niaga, sementara dampaknya ke bisnis perusahaan atau ke publik yang lebih luas tidak dijelaskan dalam kegiatan ini. Berita ini tidak menyebut adanya nota kesepahaman, program magang formal, atau target rekrutmen konkret, sehingga belum bisa dibaca apakah acara semacam ini berlanjut ke kerja sama yang lebih mengikat atau berhenti sebagai kegiatan seremonial tahunan. Yang perlu dicermati adalah apakah rangkaian PGTC di kampus-kampus lain nantinya diikuti program konkret seperti beasiswa, magang, atau jalur rekrutmen khusus bagi peserta.",
+  "imageV": "mu45r4bn"
  },
  {
   "slug": "bantuan-pasang-listrik-ke-400-ribu-rumah-tangga-ditarget-2027",
@@ -955,7 +1170,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah status ICA-CEPA, dari sekadar diteken menjadi bersiap dijalankan, dengan target implementasi akhir 2026. Dalam praktiknya, Kanada akan menghapus atau menurunkan bea masuk untuk lebih dari 90 persen kategori barang asal Indonesia, dan Indonesia melakukan hal sama untuk sekitar 86 persen kategori barang Kanada, artinya produk seperti hasil tambang olahan, perikanan, dan hasil pertanian RI berpeluang lebih murah bersaing di pasar Kanada. Pihak yang paling terdampak adalah eksportir dan UMKM di sektor mineral kritis, energi bersih, perikanan, infrastruktur, dan jasa keuangan digital, karena merekalah yang harus menyesuaikan standar produk dan ketenagakerjaan agar bisa memakai jalur tarif rendah ini. Arahnya menunjukkan perjanjian dagang ini masuk fase teknis yang lebih rumit dibanding seremoni tanda tangan, dan yang akan membuktikan apakah target ini realistis adalah apakah implementasi benar berjalan akhir 2026 sesuai jadwal atau justru molor seperti sejumlah perjanjian dagang lain.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "ri-china-teken-mou-investasi-rp51-triliun-di-twin-parks",
@@ -983,7 +1199,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang diumumkan, Rp51 triliun MoU baru dan total Rp88,1 triliun sejak program ini dimulai, adalah nilai komitmen di atas kertas, bukan investasi yang sudah benar-benar masuk ke Indonesia. MoU semacam ini adalah nota kesepahaman awal, bukan kontrak yang mengikat, sehingga nilainya bisa berubah atau bahkan tidak pernah terealisasi. Yang terkena dampak langsung adalah pengelola tiga kawasan industri yang disebut, yaitu KEK Industropolis Batang, KEK Tanjung Lesung, dan Bintan Industrial Estate, karena merekalah yang harus mengubah minat investor Tiongkok itu menjadi pabrik yang benar-benar berdiri. Siaran pers ini tidak menyebutkan berapa dari Rp37,1 triliun komitmen sebelumnya yang sudah terealisasi jadi proyek berjalan, sehingga arah sebenarnya baru bisa dibaca dari laporan realisasi investasi triwulanan Kementerian Investasi/BKPM, yang akan menunjukkan apakah komitmen Xiamen ini berakhir sebagai proyek nyata atau sekadar daftar MoU yang terus menumpuk.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "ikpm-koreksi-laporan-dana-ipo-capex-baru-76-rencana",

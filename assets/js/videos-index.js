@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "ExKj1Ots1Qk",
+  "title": "Menkeu Baru Dilantik, Ekspektasi Kinerja Dipertanyakan",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto melantik Suahasil Nazara sebagai Menteri Keuangan baru menggantikan Purbaya. Kalangan pengamat menahan diri untuk berharap terlalu tinggi pada awal masa jabatannya.",
+  "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan penting diikuti karena berdampak langsung pada arah kebijakan fiskal ke depan."
+ },
+ {
+  "id": "hP0U73fboxg",
+  "title": "Suahasil Dipanggil ke Istana, Bahas Energi dan Pangan",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Presiden Prabowo Subianto memanggil sejumlah menteri dan pimpinan lembaga untuk rapat terbatas membahas sektor energi dan pangan, dengan program B50 menjadi salah satu agenda utama.",
+  "takeaway": "Perkembangan program biodiesel B50 dan kebijakan pangan berpotensi memengaruhi industri serta harga komoditas dalam negeri."
+ },
+ {
+  "id": "u8UxSA2u-lo",
+  "title": "Purbaya Dicopot dari Menteri Keuangan, Ini Kata Hensa",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Purbaya diganti dari posisi Menteri Keuangan. Sejumlah pihak menyebut kurangnya kedekatan dengan Direktorat Jenderal Bea Cukai dan Direktorat Jenderal Pajak sebagai salah satu faktor.",
+  "takeaway": "Pergantian Menteri Keuangan dan relasinya dengan otoritas bea cukai serta pajak berpengaruh pada kebijakan penerimaan negara."
+ },
+ {
   "id": "D6kxZIseois",
   "title": "Pembangunan LRT Jakarta Dilanjutkan hingga Dukuh Atas",
   "category": "Bisnis",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Serikat pekerja bertemu Komisi IX DPR RI untuk menyampaikan aspirasi dan pandangan kritis terkait revisi Undang-Undang Ketenagakerjaan.",
   "takeaway": "Pembahasan RUU Tenaga Kerja relevan bagi pembaca ekonomi karena berpotensi mengubah aturan ketenagakerjaan yang berdampak pada pekerja dan dunia usaha."
- },
- {
-  "id": "VhlzqIvVtl4",
-  "title": "BPH Migas Perkuat Pengawasan Distribusi BBM Subsidi",
-  "category": "Energi",
-  "program": "Kabar Pagi",
-  "summary": "BPH Migas meninjau sejumlah SPBU dan memperkuat pengawasan distribusi BBM subsidi di wilayah Sulawesi Tenggara agar penyalurannya berjalan lancar.",
-  "takeaway": "Menyangkut kelancaran pasokan energi bersubsidi yang berdampak langsung pada aktivitas ekonomi masyarakat di daerah."
- },
- {
-  "id": "jN_RLe9_BPU",
-  "title": "Danantara Jadi Jembatan Investasi Indonesia-Rusia",
-  "category": "BUMN",
-  "program": "Kabar Petang",
-  "summary": "Danantara disebut menjadi jembatan kerja sama dan investasi strategis antara Indonesia dan Rusia.",
-  "takeaway": "Menarik bagi pembaca ekonomi karena menyangkut peran lembaga pengelola investasi negara dalam menjaring modal dari mitra asing."
- },
- {
-  "id": "21IcJMXQE-Y",
-  "title": "Danantara Jadi Jembatan Kerja Sama Bilateral RI-Rusia",
-  "category": "Global",
-  "program": "Kabar Hari Ini",
-  "summary": "Badan Pengelola Investasi Danantara disebut menjadi penghubung kerja sama bilateral antara Indonesia dan Rusia, menyusul kunjungan Presiden Prabowo Subianto ke Rusia.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut peran lembaga investasi negara dalam memperluas kerja sama bisnis dengan mitra dagang luar negeri."
  }
 ];

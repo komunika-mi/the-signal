@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "epmt-akui-free-float-belum-capai-15-rencana-belum-final",
+  "category": "Aksi Korporasi",
+  "title": "EPMT Akui Free Float Belum Capai 15%, [Rencana] Belum Final",
+  "deck": "EPMT menjawab surat BEI soal rencana pemenuhan syarat minimum free float 15 persen, namun belum merinci jadwal atau caranya.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EPMT",
+   "free float",
+   "Bursa Efek Indonesia",
+   "Enseval Putera Megatrading"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/88393ffbd4_8246b116ce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vtny-laba-semester-i-turun-target-2026-tipis-2",
+  "category": "Aksi Korporasi",
+  "title": "VTNY: Laba Semester I Turun, Target 2026 [Tipis] 2%",
+  "deck": "Public expose tahunan Venteny mengungkap laba bersih semester I 2026 turun akibat kenaikan biaya operasional, dengan target laba penuh tahun 2026 hanya naik sekitar 2 persen.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "Venteny Fortuna International",
+   "laba bersih",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef597c6be3_95a4fea027.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-koreksi-laporan-realisasi-dana-rp3-4-triliun-obligasi-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "INKP Koreksi Laporan [Realisasi] Dana Rp3,4 Triliun Obligasi-Sukuk",
+  "deck": "Indah Kiat Pulp & Paper mengoreksi laporan realisasi dana Obligasi VI dan Sukuk Mudharabah V senilai total Rp4,61 triliun, dengan sisa dana Rp3,41 triliun masih tersimpan di bank.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk mudharabah",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/364c03abe5_30bd2610d1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bcic-ungkap-free-float-baru-13-74-syarat-bursa-15",
   "category": "Aksi Korporasi",
   "title": "BCIC Ungkap Free Float Baru 13,74%, Syarat Bursa [15%]",
@@ -6444,55 +6492,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0593cd6057_c299cf1963.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "isat-fitch-pertahankan-peringkat-aaa-untuk-obligasi-dan-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "ISAT: Fitch Pertahankan Peringkat [AAA] untuk Obligasi dan Sukuk",
-  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang Indosat di AAA(idn) dengan outlook stabil untuk seluruh obligasi dan sukuk ijarah berkelanjutan perseroan.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ISAT",
-   "Fitch Ratings",
-   "peringkat obligasi",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f74e41bbc2_fcd8c3bbb0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-jadi-rp2-610-000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Jadi Rp2.610.000 per Gram",
-  "deck": "Harga emas Antam hari ini turun Rp17.000 menjadi Rp2.610.000 per gram, sementara harga buyback ikut melemah ke Rp2.460.000 per gram.",
-  "date": "9 September 2026",
-  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-610-000-per-gram.jpg",
-  "imageV": "mttm7v8c",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "investasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465898-harga-emas-antam-hari-ini-9-september-2026-rp2610000-per-gram-turun-rp17000"
- },
- {
-  "slug": "rupiah-menguat-ke-rp17-590-cadangan-devisa-naik-jadi-us-146-5-m",
-  "category": "Moneter",
-  "title": "Rupiah [Menguat] ke Rp17.590, Cadangan Devisa Naik jadi US$146,5 M",
-  "deck": "Rupiah menguat tipis ke Rp17.590 per dolar AS pada Rabu pagi setelah Bank Indonesia melaporkan cadangan devisa Agustus 2026 naik jadi US$146,5 miliar.",
-  "date": "9 September 2026",
-  "image": "assets/img/rupiah-menguat-ke-rp17-590-cadangan-devisa-naik-jadi-us-146-5-m.jpg",
-  "imageV": "mttm7vlw",
-  "tags": [
-   "rupiah",
-   "cadangan devisa",
-   "dolar AS",
-   "Bank Indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465894-rupiah-menguat-ke-rp17590-per-dolar-as-usai-rilis-cadangan-devisa-agustus-2026"
  }
 ];

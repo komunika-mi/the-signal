@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "epmt-akui-free-float-belum-capai-15-rencana-belum-final",
+  "category": "Aksi Korporasi",
+  "title": "EPMT Akui Free Float Belum Capai 15%, [Rencana] Belum Final",
+  "deck": "EPMT menjawab surat BEI soal rencana pemenuhan syarat minimum free float 15 persen, namun belum merinci jadwal atau caranya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T14:32:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/88393ffbd4_8246b116ce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EPMT",
+  "tags": [
+   "EPMT",
+   "free float",
+   "Bursa Efek Indonesia",
+   "Enseval Putera Megatrading"
+  ],
+  "body": [
+   "PT Enseval Putera Megatrading Tbk (EPMT) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) pada 16 September 2026 atas permintaan penjelasan BEI melalui surat Nomor S-11556/BEI.PP2/09-2026 tertanggal 10 September 2026, perihal rencana pemenuhan ketentuan minimum saham beredar di publik atau free float. Dalam surat bernomor L829/EPM/CSEC/IX/2026, Corporate Secretary EPMT, Sugianto, menjelaskan bahwa perusahaan memahami kewajiban menjaga porsi saham publik minimal 15 persen dari total saham tercatat sebagaimana diatur dalam Peraturan Bursa Nomor I-A.",
+   "Perseroan menyebut kondisi pasar modal yang belum kondusif, termasuk momentum pelaksanaan, tingkat permintaan, dan likuiditas pasar, sebagai pertimbangan dalam menentukan langkah pemenuhan aturan tersebut. EPMT mengaku masih mengevaluasi dan mengkaji sejumlah alternatif sesuai peraturan perundang-undangan dan aturan bursa, termasuk menjajaki minat pemegang saham lama maupun calon pemegang saham baru, namun belum menyebutkan jadwal atau mekanisme konkret, baik berupa pelepasan sebagian saham oleh pemegang saham pengendali, penerbitan saham baru, maupun opsi lain.",
+   "Perusahaan meminta dukungan berupa masukan, arahan, dan konsultasi teknis dari BEI terkait alternatif yang sedang dikaji, dan berjanji akan terus memantau perkembangan pemenuhan ketentuan free float serta melaporkan perkembangan material kepada bursa sesuai ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "Warehouse workers loading boxes of pharmaceutical products onto delivery trucks, busy logistics floor, morning light",
+  "takeaway": "Laporan ini condong negatif bagi EPMT karena secara implisit mengonfirmasi bahwa porsi saham publiknya belum memenuhi batas minimum 15 persen yang diwajibkan bursa, sementara jawaban yang diberikan masih berupa niat mengevaluasi tanpa jadwal atau langkah pasti. Yang tersentuh di sini adalah jumlah saham beredar di publik atau free float, yakni porsi saham yang bisa diperjualbelikan bebas oleh investor di luar pemegang saham pengendali; free float yang tipis membuat saham sulit ditransaksikan dalam jumlah besar, rentan terhadap fluktuasi harga tajam, dan berisiko membuat EPMT kena sanksi administratif dari bursa kalau tidak kunjung dipenuhi. Yang perlu dipantau selanjutnya adalah langkah konkret yang akan diambil EPMT, misalnya lewat pelepasan sebagian saham pemegang saham pengendali atau penawaran saham baru, serta laporan perkembangan material berikutnya kepada BEI yang dijanjikan perseroan dalam suratnya, mengingat sampai saat ini belum ada tanggal pasti yang diumumkan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "vtny-laba-semester-i-turun-target-2026-tipis-2",
+  "category": "Aksi Korporasi",
+  "title": "VTNY: Laba Semester I Turun, Target 2026 [Tipis] 2%",
+  "deck": "Public expose tahunan Venteny mengungkap laba bersih semester I 2026 turun akibat kenaikan biaya operasional, dengan target laba penuh tahun 2026 hanya naik sekitar 2 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T14:14:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef597c6be3_95a4fea027.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "Venteny Fortuna International",
+   "laba bersih",
+   "public expose"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) menyampaikan laporan hasil public expose tahunan ke Bursa Efek Indonesia melalui surat No. 047/VFI/CRSC/IX/2026 tertanggal 16 September 2026, ditandatangani Direktur Kaleb Solaiman. Acara ini merujuk pada rencana public expose yang diumumkan lewat surat No. 043/VFI/CRSC/IX/2026 tanggal 3 September 2026, dan dihadiri 42 peserta publik secara daring di luar manajemen dan karyawan perseroan, ditambah 58 wartawan pada sesi konferensi pers terpisah.",
+   "Dalam sesi tanya jawab, manajemen mengungkap pendapatan bersih semester I 2026 sebesar Rp105,8 miliar, naik tipis dari Rp104,0 miliar pada periode sama tahun sebelumnya, setara pertumbuhan 1,77 persen. Segmen B2B Financial Services menyumbang Rp60,9 miliar, tumbuh 8,12 persen, didorong peluncuran produk baru Payroll Advance Service. Namun Direktur Kaleb Solaiman mengakui laba bersih perseroan justru turun pada semester ini, yang menurutnya dipicu pelemahan ekonomi global, dampak demonstrasi di dalam negeri, inflasi, serta kenaikan biaya operasional akibat penambahan karyawan. Untuk kuartal III 2026, manajemen menargetkan pertumbuhan sebesar 5 sampai 8 persen, sementara target laba bersih sepanjang 2026 hanya dipatok naik sekitar 2 persen dibanding tahun lalu, dengan menjaga rasio kredit macet di bawah 5 persen sesuai ketentuan Otoritas Jasa Keuangan.",
+   "Direktur Tri Ismardiko Widyawan menyatakan perseroan belum memiliki rencana aksi korporasi ekuitas seperti rights issue, private placement, maupun pembelian kembali saham, dan juga belum berencana membagikan dividen dalam waktu dekat. Prioritas perseroan saat ini adalah memperkuat struktur permodalan dan modal kerja, memperluas ekosistem bisnis B2B dan B2B2E, serta investasi infrastruktur teknologi seperti Venteny Management System, Loan Origination System, dan pengembangan fitur baru di Venteny Super App. Manajemen juga mengungkap lebih dari 490 perusahaan telah menggunakan layanan Venteny SuperApp, dengan segmen utama korporasi dan usaha mikro kecil menengah, dan tengah mengintegrasikan Payroll Advance Service ke dalam ekosistem tersebut."
+  ],
+  "fotoAdegan": "Outsourced factory workers lining up during a shift change at an Indonesian manufacturing plant gate, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental Venteny, karena laba bersih semester I 2026 tercatat turun meski pendapatan masih tumbuh tipis 1,77 persen, dan manajemen sendiri hanya berani menargetkan kenaikan laba sekitar 2 persen untuk sepanjang tahun, target yang tergolong kecil untuk perusahaan pembiayaan berbasis teknologi. Yang tersentuh di sini adalah margin laba, yaitu seberapa besar bagian dari pendapatan yang benar-benar menjadi keuntungan setelah dikurangi biaya. Kenaikan biaya operasional akibat penambahan karyawan membuat margin ini menyusut meski penjualan tetap tumbuh, sementara rasio kredit macet, ukuran seberapa banyak pinjaman yang berisiko tidak terbayar, tetap dijaga di bawah 5 persen sesuai aturan OJK karena bisnis inti Venteny adalah menyalurkan pembiayaan ke karyawan. Yang perlu dipantau berikutnya adalah realisasi pertumbuhan laba kuartal III 2026 yang ditargetkan naik 5 sampai 8 persen, serta laporan keuangan akhir tahun untuk melihat apakah target kenaikan laba 2 persen benar-benar tercapai atau tekanan biaya masih berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inkp-koreksi-laporan-realisasi-dana-rp3-4-triliun-obligasi-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "INKP Koreksi Laporan [Realisasi] Dana Rp3,4 Triliun Obligasi-Sukuk",
+  "deck": "Indah Kiat Pulp & Paper mengoreksi laporan realisasi dana Obligasi VI dan Sukuk Mudharabah V senilai total Rp4,61 triliun, dengan sisa dana Rp3,41 triliun masih tersimpan di bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T14:01:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/364c03abe5_30bd2610d1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk mudharabah",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Indah Kiat Pulp & Paper Tbk (INKP) menyampaikan koreksi atas Laporan Penggunaan Dana Hasil Penawaran Umum yang sebelumnya dikirim 15 September 2026. Surat koreksi bernomor 043/CRP/IK/VII/2026 ini ditandatangani Corporate Secretary Heri Santoso pada 16 September 2026 dan mencakup realisasi dua instrumen utang yang efektif sejak 13 Maret 2026, yaitu Obligasi Berkelanjutan VI Tahap II dan Sukuk Mudharabah Berkelanjutan V Tahap II.",
+   "Untuk Obligasi Berkelanjutan VI, dana yang terkumpul sebesar Rp2,28 triliun (Rp2.275.960.000.000) dengan biaya penawaran umum Rp9,79 miliar, sehingga dana bersih yang bisa direalisasikan Rp2,27 triliun. Sesuai prospektus, 34 persen atau Rp766,03 miliar dialokasikan untuk membayar utang pokok dan bunga pinjaman bank, sisanya 66 persen atau Rp1,50 triliun untuk modal kerja. Sampai akhir Juni 2026, realisasi baru mencapai 7 persen (Rp164,56 miliar) untuk pembayaran utang dan 9 persen (Rp196,32 miliar) untuk modal kerja. Sisa dana Rp1,91 triliun disimpan dalam bentuk giro di PT Bank Negara Indonesia (Persero) Tbk dengan bunga 6 persen per tahun.",
+   "Untuk Sukuk Mudharabah Berkelanjutan V, dana yang terkumpul Rp2,33 triliun (Rp2.331.930.000.000) dengan biaya penawaran Rp9,58 miliar, dana bersih Rp2,32 triliun. Rencana penggunaannya 40 persen atau Rp925,29 miliar untuk pembayaran utang bank dan 60 persen atau Rp1,40 triliun untuk modal kerja. Realisasi hingga Juni 2026 baru 5 persen (Rp120,41 miliar) untuk bayar utang dan 30 persen (Rp700,73 miliar) untuk modal kerja. Sisa dana Rp1,50 triliun ditempatkan sebagai giro di PT Bank Syariah Indonesia (Persero) Tbk dengan imbal hasil 6,5 persen per tahun.",
+   "Perusahaan menyebutkan sisa dana dari kedua instrumen, totalnya Rp3,41 triliun, akan digunakan untuk melunasi pinjaman bank yang jatuh tempo pada Juli, Agustus, dan September 2026 sesuai informasi tambahan prospektus, sementara sisa dana untuk modal kerja akan terus diserap bertahap dan diperkirakan tuntas pada kuartal IV 2026."
+  ],
+  "fotoAdegan": "Workers monitoring large paper rolls on an industrial paper mill production line, steam rising, safety gear worn",
+  "takeaway": "Laporan ini netral bagi kinerja INKP karena penggunaan dana masih berjalan sesuai proporsi yang dijanjikan di prospektus, hanya penyerapannya tergolong lambat, baru 16 persen dari dana bersih Obligasi VI dan 35 persen dari dana bersih Sukuk V yang benar-benar terpakai. Pos yang tersentuh di sini adalah arus kas perusahaan, karena sisa dana yang belum terserap dijadwalkan untuk membayar pokok dan bunga pinjaman bank yang jatuh tempo Juli sampai September 2026, sehingga kalau realisasinya molor, beban bunga yang harus ditanggung Indah Kiat bisa bertambah. Sisa dana itu sendiri bukan uang menganggur karena disimpan sebagai giro berbunga 6 persen dan 6,5 persen di bank, jadi tetap memberi penghasilan bagi perusahaan selama menunggu dipakai. Yang perlu dipantau berikutnya adalah laporan realisasi periode selanjutnya, untuk memastikan pembayaran utang pada Juli-September 2026 benar terjadi sesuai jadwal dan apakah penyerapan modal kerja bisa mengejar target penyelesaian pada kuartal IV 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bcic-ungkap-free-float-baru-13-74-syarat-bursa-15",
   "category": "Aksi Korporasi",
   "title": "BCIC Ungkap Free Float Baru 13,74%, Syarat Bursa [15%]",

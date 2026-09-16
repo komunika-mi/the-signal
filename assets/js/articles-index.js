@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppgl-bagikan-saham-bonus-rasio-6-4-dari-agio-ipo",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Bagikan [Saham Bonus] Rasio 6:4 dari Agio IPO",
+  "deck": "PT Prima Globalindo Logistik mengusulkan saham bonus rasio 6:4 dari kapitalisasi agio IPO 2025, menerbitkan hingga 514,1 juta saham baru senilai Rp11,31 miliar.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "saham bonus",
+   "RUPSLB",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54566cc6e6_30f9cbeea6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "irsx-balik-untung-tapi-liabilitas-melonjak-347-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Balik Untung, tapi [Liabilitas] Melonjak 347% Semester I",
+  "deck": "Folago Global Nusantara (IRSX) membalikkan rugi jadi laba Rp7,72 miliar pada semester I 2026, tapi liabilitas naik 347% dan kas menyusut hampir separuh menjadi Rp57,38 miliar.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IRSX",
+   "Folago Global Nusantara",
+   "laporan keuangan",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916222132-64272-0/FinancialStatement-2026-II-IRSX.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgl-bakal-terbitkan-77-juta-saham-baru-tanpa-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Bakal Terbitkan 77 Juta Saham Baru [Tanpa HMETD]",
+  "deck": "Perseroan berencana menerbitkan hingga 77,1 juta saham baru tanpa hak memesan efek terlebih dahulu, setara 10 persen modal, untuk memperkuat modal kerja. RUPSLB persetujuan digelar 23 Oktober 2026.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aa712ca9ab_82d2c128a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "klbf-margin-diprediksi-tertekan-hingga-semester-ii-2026",
+  "category": "Aksi Korporasi",
+  "title": "KLBF: [Margin] Diprediksi Tertekan hingga Semester II 2026",
+  "deck": "CFO Kalbe Farma menyebut tekanan margin akibat pelemahan rupiah dan bahan baku impor belum akan membaik signifikan di semester II 2026, sementara anak usaha EPMT masih berisiko delisting.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KLBF",
+   "Kalbe Farma",
+   "public expose",
+   "EPMT"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3ed33290e6_0ed0434665.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgl-jadwalkan-rupslb-23-oktober-sertakan-cv-calon-direksi",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Jadwalkan RUPSLB 23 Oktober, Sertakan CV Calon [Direksi]",
+  "deck": "PPGL menjadwalkan RUPSLB pada 23 Oktober 2026 untuk mengesahkan saham bonus rasio 6:4 dan penambahan modal tanpa HMETD, sekaligus melampirkan riwayat hidup calon direksi baru.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "RUPSLB",
+   "Direksi",
+   "Saham Bonus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a0eafc2b58_4f90557177.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kkp-targetkan-40-000-titik-mini-ras-perikanan-hingga-2029",
   "category": "Industri",
   "title": "KKP Targetkan [40.000] Titik Mini RAS Perikanan hingga 2029",
@@ -6425,87 +6505,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5a952f430_139e550a73.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "tgra-auditor-soroti-impairment-rp181-m-proyek-listrik",
-  "category": "Aksi Korporasi",
-  "title": "TGRA: Auditor Soroti [Impairment] Rp181 M Proyek Listrik",
-  "deck": "Auditor TGRA mencatat penurunan nilai Rp181,24 miliar atas proyek pembangkit listrik yang belum dapat pendanaan, memperdalam rugi bersih perusahaan menjadi Rp259,52 miliar sepanjang 2025.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "laporan keuangan",
-   "going concern",
-   "PLTA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260909185511-64388-0/FinancialStatement-2025-Tahunan-TGRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "erupsi-anak-krakatau-mendag-pastikan-harga-pangan-stabil",
-  "category": "Makroekonomi",
-  "title": "Erupsi Anak Krakatau, Mendag Pastikan Harga Pangan [Stabil]",
-  "deck": "Mendag Budi Santoso sebut harga bahan pokok di wilayah terdampak erupsi Anak Krakatau terkendali, meski harga telur dan ayam ras masih di bawah acuan pemerintah.",
-  "date": "9 September 2026",
-  "image": "assets/img/erupsi-anak-krakatau-mendag-pastikan-harga-pangan-stabil.jpg",
-  "imageV": "mtu2vyb2",
-  "tags": [
-   "bahan pokok",
-   "erupsi Anak Krakatau",
-   "harga telur",
-   "harga ayam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466022-erupsi-anak-krakatau-tak-pengaruhi-pasar-mendag-pastikan-harga-bahan-pokok-stabil"
- },
- {
-  "slug": "wsbp-pefindo-revisi-prospek-jadi-negatif-peringkat-idb-bertahan",
-  "category": "Aksi Korporasi",
-  "title": "WSBP: PEFINDO Revisi Prospek Jadi [Negatif], Peringkat idB Bertahan",
-  "deck": "PEFINDO menegaskan peringkat idB untuk WSBP dan empat surat utangnya, tetapi merevisi prospek dari stabil menjadi negatif akibat likuiditas yang melemah.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "PEFINDO",
-   "peringkat obligasi",
-   "Waskita Beton Precast"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c6f4d06291_ff8b93aa5c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hrta-rencanakan-private-placement-10-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "HRTA Rencanakan [Private Placement] 10% Saham Baru",
-  "deck": "HRTA berencana menerbitkan hingga 460,5 juta saham baru tanpa hak memesan efek terlebih dahulu, setara 10 persen modal disetor, untuk modal kerja.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRTA",
-   "private placement",
-   "PMTHMETD",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8fdfcd092b_a8fd3cd313.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bri-bsi-siap-buka-rekening-massal-untuk-warga",
-  "category": "Perbankan",
-  "title": "BRI-BSI Siap Buka [Rekening Massal] untuk Warga",
-  "deck": "Danantara memastikan BRI dan BSI berkoordinasi mempercepat pembukaan rekening massal, dengan BSI khusus melayani Aceh, sementara skema dana awal Rp50 ribu masih dirancang pemerintah.",
-  "date": "9 September 2026",
-  "image": "assets/img/bri-bsi-siap-buka-rekening-massal-untuk-warga.jpg",
-  "imageV": "mtu2vyoi",
-  "tags": [
-   "rekening massal",
-   "BRI",
-   "BSI",
-   "inklusi keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466023-rekening-massal-bri-untuk-warga-segera-dibuka-rosan-aceh-pakai-bsi"
  }
 ];

@@ -3,6 +3,138 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ppgl-bagikan-saham-bonus-rasio-6-4-dari-agio-ipo",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Bagikan [Saham Bonus] Rasio 6:4 dari Agio IPO",
+  "deck": "PT Prima Globalindo Logistik mengusulkan saham bonus rasio 6:4 dari kapitalisasi agio IPO 2025, menerbitkan hingga 514,1 juta saham baru senilai Rp11,31 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T22:14:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54566cc6e6_30f9cbeea6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "saham bonus",
+   "RUPSLB",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL), perusahaan jasa pengurusan transportasi atau freight forwarding, mengumumkan rencana pembagian saham bonus yang berasal dari kapitalisasi Tambahan Modal Disetor (agio saham) untuk tahun buku yang berakhir 31 Desember 2025. Agio saham ini berasal dari selisih harga saat penawaran umum perdana (IPO) Perseroan pada 2025 di atas nilai nominal saham, dengan total sebesar Rp13,21 miliar. Rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada 23 Oktober 2026 di kantor Perseroan di Jakarta Timur.",
+   "Perseroan mengusulkan rasio pembagian 6:4, artinya setiap pemegang 6 saham lama akan memperoleh 4 saham bonus baru. Dengan rasio itu, Perseroan akan menerbitkan sebanyak-banyaknya 514.118.680 saham baru dengan nilai nominal Rp22 per saham, atau setara total nilai Rp11,31 miliar. Jumlah saham beredar Perseroan berpotensi naik dari 771.178.020 lembar menjadi maksimal 1.285.296.700 lembar. Saham bonus ini bukan dividen saham, sehingga penerimaannya tidak dikenakan pajak penghasilan selama nilai nominal saham yang dimiliki pemegang saham setelah pembagian tidak melebihi jumlah setoran modalnya.",
+   "Berdasarkan daftar pemegang saham per 31 Agustus 2026, Direktur Utama Darmawan Suryadi SM menguasai 53,12 persen saham Perseroan atau 409.637.667 lembar, disusul Komisaris Utama Jap Astrid Patricia dengan 22,80 persen atau 175.818.833 lembar, sementara sisanya 24,08 persen dimiliki publik dengan porsi masing-masing di bawah 5 persen. Pemegang saham yang berhak atas saham bonus adalah yang tercatat dalam daftar pemegang saham pada 4 November 2026, dengan periode cum bonus di pasar reguler dan negosiasi berakhir 2 November 2026. Pendistribusian saham bonus direncanakan pada 25 November 2026, dan Perseroan wajib menyampaikan laporan realisasinya ke OJK paling lambat 9 Desember 2026."
+  ],
+  "fotoAdegan": "Workers loading cardboard boxes onto a delivery truck at a logistics warehouse loading dock in Jakarta, daytime",
+  "takeaway": "Pembagian saham bonus ini netral bagi fundamental PPGL karena hanya memindahkan pos agio saham menjadi modal disetor, tanpa ada dana segar yang masuk atau kas yang berkurang dari perusahaan. Yang tersentuh adalah jumlah saham beredar, yang berpotensi naik dari 771,18 juta menjadi maksimal 1,29 miliar lembar, sehingga laba bersih yang sama harus dibagi ke lebih banyak lembar saham dan laba per saham otomatis mengecil meski labanya sendiri tidak berubah. Perlu dicatat pula bahwa laba bersih PPGL tahun 2025 sudah turun menjadi Rp9,55 miliar dari Rp12,88 miliar setahun sebelumnya, sementara liabilitas jangka pendek melonjak lebih dari dua kali lipat menjadi Rp228,79 miliar, sehingga penambahan jumlah saham ini terjadi di tengah kinerja yang justru melemah. Yang perlu dipantau berikutnya adalah persetujuan RUPSLB pada 23 Oktober 2026, karena tanpa persetujuan itu seluruh rencana pembagian saham bonus dianggap batal, serta tanggal pendistribusian saham pada 25 November 2026 bagi pemegang saham yang tercatat pada 4 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "irsx-balik-untung-tapi-liabilitas-melonjak-347-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Balik Untung, tapi [Liabilitas] Melonjak 347% Semester I",
+  "deck": "Folago Global Nusantara (IRSX) membalikkan rugi jadi laba Rp7,72 miliar pada semester I 2026, tapi liabilitas naik 347% dan kas menyusut hampir separuh menjadi Rp57,38 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T22:09:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916222132-64272-0/FinancialStatement-2026-II-IRSX.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRSX",
+  "tags": [
+   "IRSX",
+   "Folago Global Nusantara",
+   "laporan keuangan",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Folago Global Nusantara Tbk (IRSX) menyampaikan laporan keuangan interim teraudit untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Otoritas Jasa Keuangan melalui surat nomor 022/SK/IRSX-OJK/IX/2026 tertanggal 16 September 2026. Laporan ini diaudit oleh Kantor Akuntan Publik Suharli, Sugiharto & Rekan dengan partner penanggung jawab Ridho Fathoni, dan memperoleh opini wajar tanpa modifikasian alias opini bersih tanpa catatan pengecualian.",
+   "Dari sisi kinerja, pendapatan Folago pada semester I 2026 tercatat Rp275,09 miliar, naik dari Rp100,43 miliar pada periode yang sama tahun lalu. Laba bruto melonjak dari Rp1,18 miliar menjadi Rp44,22 miliar. Perusahaan yang tahun lalu masih merugi Rp1,7 miliar dari kegiatan usaha kini membukukan laba usaha Rp19,4 miliar, dan laba bersih yang dapat diatribusikan kepada pemilik entitas induk mencapai Rp7,72 miliar, berbalik dari rugi Rp1,59 miliar pada semester I 2025. Laba per saham dasar tercatat Rp1,25, dibandingkan rugi per saham Rp0,32 pada periode sebelumnya.",
+   "Peningkatan total aset dan liabilitas yang melebihi 20 persen dibanding akhir 2025 membuat Folago wajib mengirim penjelasan tertulis ke Bursa Efek Indonesia sesuai Peraturan Bursa No. I.E, sebagaimana disampaikan dalam surat nomor 021/SK/IRSX-BEI/IX/2026 yang ditandatangani Direktur Charlie. Total aset naik 44 persen dari Rp360,23 miliar menjadi Rp517,77 miliar, sementara total liabilitas melonjak 347 persen dari Rp44,87 miliar menjadi Rp200,49 miliar. Perseroan menjelaskan kenaikan ini terutama berasal dari peningkatan aktivitas bisnis pada layanan jasa pemasaran digital, tiket konser, serta distribusi dan lisensi konten. Di neraca, uang muka pelanggan melonjak dari Rp1,61 miliar menjadi Rp126,75 miliar, piutang usaha pihak ketiga naik dari Rp37,18 miliar menjadi Rp219,84 miliar, dan utang usaha pihak ketiga bertambah dari Rp32,69 miliar menjadi Rp44,55 miliar. Di sisi lain, kas dan setara kas justru turun dari Rp110,15 miliar menjadi Rp57,38 miliar.",
+   "Ekuitas Folago relatif stabil, naik tipis dari Rp315,36 miliar menjadi Rp317,28 miliar. Namun komposisinya berubah: kepentingan nonpengendali, yaitu porsi saham anak usaha yang dimiliki pihak di luar grup, turun tajam dari Rp14,58 miliar menjadi Rp1,48 miliar, sementara muncul pos baru senilai Rp8,35 miliar berupa selisih nilai transaksi ekuitas dengan pihak nonpengendali. Perseroan juga membukukan penurunan nilai aset takberwujud sebesar Rp3,04 miliar dan kerugian nilai wajar aset keuangan tidak lancar lainnya Rp678,85 juta pada periode berjalan."
+  ],
+  "fotoAdegan": "Concertgoers wearing event wristbands passing through a ticket gate at an outdoor stage venue in Jakarta at dusk",
+  "takeaway": "Laporan ini condong positif karena Folago berhasil membalikkan kerugian semester I 2025 menjadi laba Rp7,72 miliar pada semester I 2026, ditopang pendapatan yang melonjak dari Rp100,43 miliar menjadi Rp275,09 miliar dan opini audit bersih tanpa pengecualian. Namun ada catatan soal kualitas laba itu: kas dan setara kas perusahaan justru menyusut hampir separuh, dari Rp110,15 miliar menjadi Rp57,38 miliar, sementara piutang usaha melonjak hampir enam kali lipat menjadi Rp219,84 miliar dan liabilitas naik 347 persen menjadi Rp200,49 miliar, sebagian besar berupa uang muka pelanggan yang sudah diterima tapi layanannya belum tuntas dikerjakan. Artinya sebagian besar pendapatan yang tercatat di atas kertas belum berubah jadi uang tunai di rekening perusahaan, sehingga arus kasnya perlu dicermati terpisah dari angka laba. Kepentingan nonpengendali, yaitu porsi kepemilikan pihak lain di anak usaha, juga turun tajam dari Rp14,58 miliar menjadi Rp1,48 miliar, menandakan ada perubahan struktur kepemilikan di salah satu unit bisnis grup. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan memperlihatkan apakah piutang dan uang muka pelanggan yang menumpuk pada semester I ini akhirnya cair menjadi kas.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ppgl-bakal-terbitkan-77-juta-saham-baru-tanpa-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Bakal Terbitkan 77 Juta Saham Baru [Tanpa HMETD]",
+  "deck": "Perseroan berencana menerbitkan hingga 77,1 juta saham baru tanpa hak memesan efek terlebih dahulu, setara 10 persen modal, untuk memperkuat modal kerja. RUPSLB persetujuan digelar 23 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T21:55:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aa712ca9ab_82d2c128a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk. (PPGL) berencana menambah modal tanpa memberikan hak memesan efek terlebih dahulu (PMTHMETD) dengan menerbitkan sebanyak-banyaknya 77.117.802 saham baru, atau maksimal 10 persen dari 771.178.020 saham yang beredar saat ini. Jika seluruh jatah terserap, jumlah saham PPGL akan menjadi 848.295.822 lembar. Saham baru bernilai nominal Rp22 per saham ini akan dijual dengan harga pelaksanaan minimal 90 persen dari rata-rata harga penutupan saham PPGL selama 25 hari bursa berturut-turut sebelum permohonan pencatatan saham tambahan diajukan ke Bursa Efek Indonesia. Rencana ini masih harus disetujui pemegang saham dalam RUPSLB yang dijadwalkan 23 Oktober 2026, dan pelaksanaannya paling lambat dua tahun setelahnya, yakni hingga 23 Oktober 2028.",
+   "Direktur Utama PPGL, Darmawan Suryadi SM, menyampaikan bahwa seluruh dana hasil PMTHMETD setelah dikurangi biaya-biaya akan digunakan sebagai modal kerja perusahaan, dengan tujuan memperkuat struktur permodalan di tengah pertumbuhan bisnis jasa pengurusan transportasi (freight forwarding) yang dijalankan Perseroan. Berdasarkan daftar pemegang saham per 31 Agustus 2026, komposisi kepemilikan PPGL terdiri dari Darmawan Suryadi SM sebesar 53,12 persen, Jap Astrid Patricia 22,80 persen, dan publik di bawah 5 persen sebanyak 24,08 persen. Karena penerbitan ini tanpa hak memesan efek terlebih dahulu, pemegang saham lama yang tidak ikut menyerap saham baru akan mengalami penurunan persentase kepemilikan.",
+   "Perseroan turut memaparkan proyeksi dampak keuangan memakai laporan keuangan per 31 Desember 2025. Dengan asumsi dana yang masuk dihitung dari nilai nominal saham, jumlah aset diperkirakan naik 0,41 persen dari Rp411,85 miliar menjadi Rp413,55 miliar, dan ekuitas naik 1,18 persen dari Rp144,33 miliar menjadi Rp146,02 miliar. Sejalan dengan bertambahnya jumlah saham beredar, rasio laba terhadap ekuitas (ROE) diperkirakan turun dari 6,62 persen menjadi 6,54 persen, dan rasio laba terhadap aset (ROA) turun dari 2,32 persen menjadi 2,31 persen. Perseroan juga wajib memberitahukan OJK dan mengumumkan ke publik paling lambat lima hari kerja sebelum pelaksanaan PMTHMETD, serta melaporkan hasil pelaksanaan, termasuk pihak penyetor, jumlah, dan harga saham, paling lambat dua hari kerja sesudahnya."
+  ],
+  "fotoAdegan": "Warehouse and freight forwarding workers stacking cargo pallets onto trucks in a busy logistics yard, morning light",
+  "takeaway": "Penambahan modal tanpa hak memesan efek terlebih dahulu ini condong netral bagi PPGL, karena dana yang masuk memang bisa memperkuat modal kerja, tapi karena tidak ada jatah untuk pemegang saham lama, penerbitan hingga 10 persen saham baru ini otomatis mengurangi persentase kepemilikan dan hak suara pemegang saham yang tidak ikut membeli, sementara harga jual sahamnya sendiri belum dipatok pasti dan baru ditentukan dari rata-rata harga pasar menjelang pencatatan. Yang tersentuh adalah ekuitas, yakni modal sendiri perusahaan yang diproyeksikan naik 1,18 persen, dan jumlah saham beredar yang bertambah hingga 848,3 juta lembar, dua faktor yang bersama-sama memengaruhi laba per saham karena laba yang sama nantinya harus dibagi ke lebih banyak lembar saham. Investor perlu mencermati RUPSLB pada 23 Oktober 2026 sebagai syarat persetujuan rencana ini, serta pengumuman resmi PPGL paling lambat lima hari kerja sebelum pelaksanaan yang akan memuat harga final dan jumlah saham yang benar-benar diterbitkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "klbf-margin-diprediksi-tertekan-hingga-semester-ii-2026",
+  "category": "Aksi Korporasi",
+  "title": "KLBF: [Margin] Diprediksi Tertekan hingga Semester II 2026",
+  "deck": "CFO Kalbe Farma menyebut tekanan margin akibat pelemahan rupiah dan bahan baku impor belum akan membaik signifikan di semester II 2026, sementara anak usaha EPMT masih berisiko delisting.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T21:17:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3ed33290e6_0ed0434665.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KLBF",
+  "tags": [
+   "KLBF",
+   "Kalbe Farma",
+   "public expose",
+   "EPMT"
+  ],
+  "body": [
+   "Kalbe Farma Tbk (KLBF) menggelar public expose tahunan pada Jumat, 11 September 2026, yang dihadiri 129 peserta di luar jajaran manajemen dan karyawan perseroan. Perusahaan diwakili oleh Direktur sekaligus Chief Financial Officer Kartika Setiabudy, Corporate Secretary Maria Teresa Fabiola, dan staf Investor Relations Alexandra Winstan, dengan moderator dari PT Bursa Efek Indonesia.",
+   "Dalam sesi tanya jawab, Kartika Setiabudy mengakui tekanan pada margin kotor perseroan sepanjang semester pertama 2026 akibat pelemahan nilai tukar rupiah dan kenaikan harga bahan baku impor yang turut dipengaruhi kondisi geopolitik di Timur Tengah. Manajemen memperkirakan margin belum akan membaik signifikan hingga semester kedua tahun ini. Sebagai respons, perseroan membuka peluang kenaikan harga jual secara terbatas dan selektif, terutama di lini produk konsumen, sementara di segmen obat resep ruang kenaikan harga lebih sempit karena tren pergeseran ke obat generik. Segmen nutrisi, terutama susu bubuk yang menjadi porsi terbesar bisnis ini, juga tertekan oleh pelemahan daya beli masyarakat.",
+   "Terkait belanja modal, perseroan semula mengalokasikan Rp1 triliun untuk tahun ini guna menambah kapasitas di sektor farmasi dan nutrisi. Namun akibat gangguan rantai pasok global yang dipicu kondisi geopolitik, manajemen kini memprioritaskan dana tersebut untuk modal kerja ketimbang ekspansi kapasitas. Di sisi ekspor, kontribusi pasar luar negeri masih berkisar 7 persen dari total penjualan, dengan target pertumbuhan dua digit dan ASEAN tetap menjadi tujuan utama tanpa rencana penambahan negara baru tahun ini. Perseroan juga menyatakan tetap membuka opsi merger dan akuisisi untuk memperkuat lini bisnis specialty dan biologics, termasuk pengembangan dua produk baru berkategori obat paten hasil kerja sama dengan mitra regional.",
+   "Manajemen turut mengungkapkan bahwa anak usahanya, PT Enseval Putera Megatrading Tbk (EPMT), belum memenuhi ketentuan free float terbaru dari Bursa Efek Indonesia. Perseroan menyatakan tengah menjajaki peningkatan porsi saham publik EPMT secara bertahap pada 2027 dan 2028 sesuai aturan bursa, namun mengakui perlu mengantisipasi konsekuensi delisting apabila persyaratan tersebut akhirnya tidak dapat dipenuhi."
+  ],
+  "fotoAdegan": "Workers in white coats inspecting medicine vials on an automated production line inside a pharmaceutical factory, bright fluorescent lighting",
+  "takeaway": "Laporan ini condong negatif bagi Kalbe Farma karena tiga sinyal sekaligus: manajemen sendiri menyatakan tekanan margin belum akan mereda hingga akhir tahun, belanja modal untuk ekspansi kapasitas dialihkan jadi dana jaga-jaga, dan anak usaha EPMT menghadapi risiko delisting. Margin kotor, yaitu selisih antara harga jual dan biaya produksi termasuk bahan baku impor, adalah pos yang langsung menentukan berapa besar laba yang tersisa dari setiap penjualan, sehingga tekanan berkepanjangan di pos ini berpotensi menahan pertumbuhan laba bersih. Pengalihan belanja modal dari pembangunan kapasitas ke modal kerja juga mengindikasikan perseroan memilih menjaga arus kas ketimbang berekspansi di tengah ketidakpastian rantai pasok. Free float, yaitu porsi saham yang beredar bebas di tangan publik, menjadi syarat wajib bursa agar saham tetap tercatat, sehingga kegagalan EPMT memenuhinya bisa berujung pada pencabutan status tercatatnya di bursa. Yang perlu dipantau berikutnya adalah realisasi peningkatan free float EPMT pada 2027 dan 2028, serta laporan kinerja keuangan semester II 2026 yang akan menunjukkan apakah tekanan margin benar-benar mulai mereda seperti harapan manajemen.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ppgl-jadwalkan-rupslb-23-oktober-sertakan-cv-calon-direksi",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Jadwalkan RUPSLB 23 Oktober, Sertakan CV Calon [Direksi]",
+  "deck": "PPGL menjadwalkan RUPSLB pada 23 Oktober 2026 untuk mengesahkan saham bonus rasio 6:4 dan penambahan modal tanpa HMETD, sekaligus melampirkan riwayat hidup calon direksi baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T20:52:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a0eafc2b58_4f90557177.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "RUPSLB",
+   "Direksi",
+   "Saham Bonus"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa dan Independen pada Jumat, 23 Oktober 2026 pukul 10.00 WIB di kantor pusat Perseroan, Green Sedayu Bizpark Cakung, Jakarta Timur. Pemegang saham yang berhak hadir atau diwakili dalam rapat ini adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Rabu, 30 September 2026, sampai penutupan perdagangan hari itu. Panggilan resmi rapat akan diumumkan melalui situs Bursa Efek Indonesia, KSEI, dan situs Perseroan pada Kamis, 1 Oktober 2026.",
+   "Dua agenda utama yang akan dimintakan persetujuan dalam rapat ini adalah pembagian saham bonus dan penambahan modal tanpa hak memesan efek terlebih dahulu. Saham bonus yang berasal dari agio saham hasil penawaran umum perdana 2025 dibagikan dengan rasio 6 banding 4, artinya setiap pemegang 6 saham lama mendapat 4 saham baru tanpa membayar, dengan sebanyak-banyaknya 514.118.680 saham baru dari total agio Rp13,21 miliar. Selain itu, Perseroan juga meminta izin menerbitkan saham baru tanpa hak memesan efek terlebih dahulu sebanyak-banyaknya 77.117.802 saham, setara 10 persen dari total saham beredar saat ini, dengan harga pelaksanaan minimal 90 persen dari rata-rata harga penutupan 25 hari perdagangan sebelum pencatatan, dan dananya direncanakan untuk modal kerja Perseroan.",
+   "Dokumen panggilan ini juga melampirkan riwayat hidup Ferdinand Bennyanto, kelahiran Medan 16 Februari 1967, dengan latar pendidikan administrasi bisnis dari California State University, Fullerton, serta pengalaman panjang di bidang hubungan media untuk forum internasional seperti APEC, G20, dan ASEAN Summit. Nama berkas lampiran menyebutnya sebagai calon direksi, meski Perseroan belum merinci jabatan definitif yang akan diusulkan dalam rapat. Perseroan juga membuka kesempatan bagi pemegang saham yang memiliki sedikitnya 1/20 bagian dari total saham berhak suara untuk mengajukan usul mata acara rapat secara tertulis, paling lambat tujuh hari kalender sebelum panggilan rapat diumumkan."
+  ],
+  "fotoAdegan": "Forklift maneuvering stacked cargo pallets inside a busy freight forwarding warehouse under overcast morning light",
+  "takeaway": "Pengumuman ini condong netral karena isinya jadwal dan mekanisme rapat, bukan aksi korporasi baru yang langsung mengubah kondisi keuangan Perseroan saat ini. RUPSLB pada 23 Oktober 2026 nanti akan mengesahkan dua agenda yang sama-sama menambah jumlah saham beredar, yaitu saham bonus rasio 6:4 dan penambahan modal tanpa hak memesan efek terlebih dahulu sebanyak-banyaknya 77,1 juta saham, sehingga porsi kepemilikan pemegang saham lama yang tidak ikut menyerap saham baru otomatis mengecil dan laba yang sama harus dibagi ke jumlah saham yang lebih besar. Menariknya, lampiran surat ini turut menyertakan riwayat hidup Ferdinand Bennyanto yang berlatar belakang hubungan media internasional, mengindikasikan RUPSLB nanti kemungkinan juga mengagendakan penambahan direksi baru walau jabatan pastinya belum disebut. Yang perlu dipantau berikutnya adalah tenggat pengajuan usul pemegang saham paling lambat tujuh hari kalender sebelum panggilan rapat pada 1 Oktober 2026, tanggal pencatatan pemegang saham yang berhak hadir pada 30 September 2026, dan hasil pemungutan suara pada RUPSLB itu sendiri tanggal 23 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kkp-targetkan-40-000-titik-mini-ras-perikanan-hingga-2029",
   "category": "Industri",
   "title": "KKP Targetkan [40.000] Titik Mini RAS Perikanan hingga 2029",

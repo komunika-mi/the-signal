@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "D6kxZIseois",
+  "title": "Pembangunan LRT Jakarta Dilanjutkan hingga Dukuh Atas",
+  "category": "Bisnis",
+  "program": "Kabar Petang",
+  "summary": "Gubernur DKI Jakarta Pramono Anung memastikan pembangunan LRT Jakarta dilanjutkan dari Manggarai hingga Dukuh Atas sepanjang sekitar 2 kilometer setelah rute Kelapa Gading-Manggarai rampung.",
+  "takeaway": "Kelanjutan proyek ini menandai keberlanjutan investasi infrastruktur transportasi publik di Jakarta yang berdampak pada mobilitas dan aktivitas ekonomi kota."
+ },
+ {
+  "id": "TNUhFOpBq80",
+  "title": "Presiden Prabowo: Kemajuan Transportasi Dorong Pertumbuhan Ekonomi",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto menyatakan kemajuan transportasi dapat menumbuhkan perekonomian, disampaikan sebelum meresmikan LRT rute Kelapa Gading-Manggarai.",
+  "takeaway": "Pernyataan ini menegaskan pandangan pemerintah bahwa investasi infrastruktur transportasi menjadi salah satu pendorong pertumbuhan ekonomi nasional."
+ },
+ {
   "id": "5gWtcjrGZqc",
   "title": "Temuan Beras Fortifikasi Dijual dengan Harga Tak Wajar",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Badan Pengelola Investasi Danantara disebut menjadi penghubung kerja sama bilateral antara Indonesia dan Rusia, menyusul kunjungan Presiden Prabowo Subianto ke Rusia.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut peran lembaga investasi negara dalam memperluas kerja sama bisnis dengan mitra dagang luar negeri."
- },
- {
-  "id": "4ucEzZa-yPU",
-  "title": "Pemerintah dan Kadin Tekankan Ketahanan Pangan di Tengah El Nino",
-  "category": "Makroekonomi",
-  "program": "Kabar Hari Ini",
-  "summary": "Pemerintah bersama Kadin Indonesia menekankan pentingnya memperkuat ketahanan pangan nasional di tengah ancaman El Nino yang dinilai berdampak signifikan terhadap produksi.",
-  "takeaway": "Ancaman El Nino terhadap produksi pangan relevan bagi pembaca ekonomi karena berpotensi memengaruhi stabilitas harga dan rantai pasok nasional."
- },
- {
-  "id": "mSLsH2CJlH4",
-  "title": "Presiden Prabowo dan Presiden Putin Bahas Kerja Sama Bisnis",
-  "category": "Global",
-  "program": "Kabar Petang",
-  "summary": "Presiden Prabowo Subianto bertemu Presiden Rusia Vladimir Putin di sela Eastern Economic Forum ke-11 di Vladivostok dalam format business breakfast untuk membahas penguatan kerja sama bilateral kedua negara.",
-  "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena berlangsung di forum ekonomi internasional dan berpotensi membuka peluang kerja sama dagang serta investasi antara Indonesia dan Rusia."
  }
 ];

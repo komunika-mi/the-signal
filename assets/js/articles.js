@@ -3,6 +3,116 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bantuan-pasang-listrik-ke-400-ribu-rumah-tangga-ditarget-2027",
+  "category": "Energi",
+  "title": "Bantuan Pasang Listrik ke [400 Ribu] Rumah Tangga Ditarget 2027",
+  "deck": "ESDM menargetkan bantuan pasang listrik untuk 400 ribu rumah tangga pada 2027 dengan anggaran Rp949 miliar, di tengah desakan DPR agar penetapan penerima tak menunggu pembaruan data desil.",
+  "image": "assets/img/bantuan-pasang-listrik-ke-400-ribu-rumah-tangga-ditarget-2027.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T11:09:16.818Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dpr-apresiasi-percepatan-penetapan-penerima-bpbl-esdm-dorong-akses-listrik-lebih-cepat",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "BPBL",
+   "ESDM",
+   "elektrifikasi",
+   "DPR"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral (ESDM) mendorong percepatan penetapan penerima Bantuan Pasang Baru Listrik (BPBL) tanpa harus menunggu penuh proses penyesuaian data desil, sistem pemeringkatan kesejahteraan yang baru akan diterapkan tahun depan. Usulan ini penting bagi rumah tangga yang selama ini belum punya akses listrik, karena proses administratif yang lama bisa menunda sambungan listrik yang mereka butuhkan.",
+   "Isu ini mengemuka dalam rapat kerja Komisi XII DPR RI dengan Kementerian ESDM membahas anggaran tahun 2027. Anggota Komisi XII dari Fraksi PKB, Ratna Juwita Sari, meminta agar peningkatan target BPBL tahun depan tidak terhambat oleh sistem desil yang belum sepenuhnya siap, karena menurutnya hal itu bisa memperlambat hak masyarakat mendapat listrik. Menteri ESDM menanggapi bahwa data tetap diperhatikan, namun pelayanan ke masyarakat tidak boleh menunggu proses itu selesai, dengan menegaskan, \"Desil itu penting, tapi jangan kita tunggu desil dulu baru orang lampu nyala.\"",
+   "Dalam rancangan anggaran 2027, program BPBL dialokasikan untuk 400 ribu rumah tangga dengan nilai sekitar Rp949 miliar. Selain itu, pemerintah menganggarkan sekitar Rp9,31 triliun untuk pembangunan infrastruktur listrik desa di 1.250 lokasi. Menteri ESDM juga menyampaikan bahwa masih ada 10.068 titik desa dan dusun, termasuk di wilayah tertinggal, terdepan, dan terluar, yang belum terjangkau listrik.",
+   "Pemerintah meminta dukungan Komisi XII DPR RI untuk membantu mengidentifikasi rumah tangga yang membutuhkan bantuan agar penyaluran BPBL berjalan lebih efektif pada tahun anggaran mendatang."
+  ],
+  "fotoAdegan": "Technicians installing a wooden electricity pole and wiring in a rural Indonesian village surrounded by palm trees, midday light",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dpr-apresiasi-percepatan-penetapan-penerima-bpbl-esdm-dorong-akses-listrik-lebih-cepat-uev8vtm.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Perubahan konkretnya, ESDM akan menetapkan penerima BPBL 2027 untuk 400 ribu rumah tangga dengan anggaran Rp949 miliar tanpa menunggu penuh sistem desil, yang menurut anggota DPR baru akan diterapkan tahun depan. Yang terdampak adalah rumah tangga di 10.068 desa dan dusun yang belum teraliri listrik, terutama di wilayah tertinggal, terdepan, dan terluar, karena cepat atau lambatnya penetapan menentukan kapan mereka mendapat sambungan. Ada dua kemungkinan arah: pemerintah tetap menjaga ketepatan sasaran meski mempercepat proses, atau kecepatan diutamakan dengan risiko sebagian penerima kurang tepat sasaran karena verifikasi data belum lengkap. Arah mana yang terjadi baru akan terlihat setelah sistem desil benar-benar berjalan pada 2027, saat datanya bisa dibandingkan dengan hasil penyaluran BPBL tahun itu.",
+  "imageV": "mu40bcx1"
+ },
+ {
+  "slug": "indonesia-sri-lanka-lanjutkan-perundingan-pta-ke-putaran-tiga",
+  "category": "Global",
+  "title": "Indonesia-Sri Lanka Lanjutkan Perundingan [PTA] ke Putaran Tiga",
+  "deck": "Mendag Budi Santoso mendorong perundingan dagang preferensial RI-Sri Lanka lanjut ke putaran ketiga, sementara Sri Lanka menjajaki kerja sama pupuk dan siap ikut Trade Expo Indonesia Oktober 2026.",
+  "image": "assets/img/indonesia-sri-lanka-lanjutkan-perundingan-pta-ke-putaran-tiga.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T11:09:14.245Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-dorong-kelanjutan-perundingan-indonesia-sri-lanka-pta",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Kemendag",
+   "Sri Lanka",
+   "PTA",
+   "Ekspor"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mendorong Indonesia dan Sri Lanka melanjutkan perundingan Preferential Trade Agreement (PTA) ke putaran ketiga. Perjanjian ini nantinya membuka akses pasar Sri Lanka bagi produk Indonesia dengan tarif yang lebih ringan, sehingga peluang ekspor ke kawasan Asia Selatan bisa diperluas.",
+   "Dorongan itu disampaikan Budi usai bertemu Wakil Menteri Keuangan dan Perencanaan sekaligus Menteri Tenaga Kerja Sri Lanka, Anil Jayantha Fernando, di Jakarta, Rabu (16/9). Perundingan ISL-PTA sendiri sudah dimulai sejak Maret 2024, dengan putaran pertama secara daring pada April 2024 dan putaran kedua di Kolombo pada Juli 2024. Sejak itu, Sri Lanka disebut masih melakukan peninjauan internal atas isi perjanjian sebelum bisa lanjut ke putaran berikutnya.",
+   "Sepanjang Januari-Juli 2026, total perdagangan kedua negara tercatat US$266 juta, terdiri dari ekspor Indonesia US$244 juta dan impor US$22 juta. Sepanjang 2025, total perdagangan mencapai US$530,2 juta dengan ekspor US$476,7 juta dan impor US$53,5 juta, sehingga Indonesia mencatat surplus US$423,1 juta. Komoditas ekspor utama Indonesia ke Sri Lanka meliputi kopra, mobil dan kendaraan bermotor angkutan orang, produk setengah jadi dari besi atau baja nonpaduan, asam lemak monokarboksilat industri, minyak asam, alkohol lemak industri, serta tembakau mentah dan sisa tembakau. Sementara komoditas impor utama dari Sri Lanka meliputi kain rajutan atau kaitan, minyak bumi dan minyak dari mineral bitumen, mesin pengolah tembakau, serta berbagai produk ban.",
+   "Dalam pertemuan itu, Anil juga menyampaikan rencana Sri Lanka mengirim delegasi ke Trade Expo Indonesia (TEI) ke-41 pada 14-18 Oktober 2026 di ICE BSD City, Tangerang, sekaligus menggelar forum investasi di sela acara tersebut. Sri Lanka menyatakan minat terhadap produk pupuk Indonesia untuk memenuhi kebutuhan dalam negeri mereka. Budi merespons dengan mendorong agar kunjungan delegasi itu dimanfaatkan untuk mempertemukan pelaku industri pupuk kedua negara, guna menjajaki peluang kerja sama lebih lanjut."
+  ],
+  "fotoAdegan": "Dock workers loading sacks of dried coconut copra onto a cargo ship at an Indonesian port, midday light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/eN4r2Vb5zvyE1O9zR84lYYlVc6VFjMaYc6C4tBD8.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan kesepakatan baru, melainkan dorongan agar perundingan dagang preferensial (PTA) Indonesia-Sri Lanka lanjut ke putaran ketiga, setelah putaran kedua mandek sejak Juli 2024 karena Sri Lanka masih meninjau ulang isi perjanjian di internal mereka. PTA ini nantinya menentukan besaran tarif masuk yang harus dibayar eksportir Indonesia di pasar Sri Lanka, jadi yang paling terdampak adalah pengusaha kopra, otomotif, dan produk turunan minyak sawit seperti asam lemak dan alkohol lemak yang selama ini jadi andalan ekspor ke sana. Jeda lebih dari dua tahun sejak putaran kedua menunjukkan proses ini berjalan lambat, kemungkinan besar menunggu Sri Lanka merampungkan tinjauan internalnya sendiri. Penanda paling konkret untuk melihat apakah perundingan benar-benar bergerak lagi adalah kehadiran delegasi Sri Lanka dalam Trade Expo Indonesia ke-41 pada 14-18 Oktober 2026, dan apakah putaran ketiga PTA akhirnya mendapat jadwal pasti setelahnya.",
+  "imageV": "mu40bfqb"
+ },
+ {
+  "slug": "pelindo-luncurkan-listrik-darat-kapal-di-tanjung-priok",
+  "category": "BUMN",
+  "title": "Pelindo Luncurkan [Listrik] Darat Kapal di Tanjung Priok",
+  "deck": "Pelindo mengoperasikan pasokan listrik darat 500 kVA di Tanjung Priok agar kapal sandar bisa mematikan mesin bantu, emisi diklaim turun hingga 75 persen.",
+  "image": "assets/img/pelindo-luncurkan-listrik-darat-kapal-di-tanjung-priok.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T17:31:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467502-pelindo-luncurkan-layanan-onshore-power-supply-di-tanjung-priok-dorong-transformasi-green-port",
+  "tags": [
+   "Pelindo",
+   "Tanjung Priok",
+   "Onshore Power Supply",
+   "Green Port"
+  ],
+  "body": [
+   "PT Pelabuhan Indonesia (Pelindo) resmi mengoperasikan fasilitas pasokan listrik darat atau Onshore Power Supply (OPS) di Dermaga Serbaguna Nusantara, Terminal PNP Dermaga 004, Pelabuhan Tanjung Priok, Jakarta, pada Rabu, 16 September 2026. Fasilitas berdaya 500 kilovolt-ampere ini memungkinkan kapal yang sedang bersandar mengambil listrik langsung dari darat, sehingga mesin bantu atau genset kapal yang biasanya terus menyala selama sandar bisa dimatikan.",
+   "Lewat skema yang disebut shore-to-ship power, kebutuhan listrik kapal seperti penerangan dan pendingin ruangan (hotel load), pendingin kontainer berpendingin (reefer), serta pompa dipasok dari jaringan listrik darat selama kapal terhubung ke OPS. Berdasarkan pengujian yang dilakukan Pelindo, penggunaan OPS diperkirakan bisa menekan emisi gas buang kapal hingga 75 persen, sekaligus mengurangi konsumsi bahan bakar minyak, jam kerja mesin bantu, kebutuhan perawatan, kebisingan, dan getaran di area dermaga. Peluncuran ini dihadiri perwakilan Kementerian Perhubungan, Kementerian ESDM, KSOP Utama Tanjung Priok, Polres Pelabuhan Tanjung Priok, Asosiasi Pemilik Kapal Indonesia (INSA), PT PLN, dan jajaran manajemen Pelindo Group.",
+   "Direktur Utama Pelindo, Achmad Muchtasyar, menyebut OPS bukan sekadar mengganti sumber listrik kapal dari genset menjadi listrik darat, melainkan langkah menuju pelabuhan yang lebih efisien, bersih, dan andal sesuai standar industri maritim global. Pengembangan OPS ini didukung PT PLN sebagai pemasok listriknya. Direktur Utama PLN, Darmawan Prasodjo, mengatakan pihaknya siap menyediakan pasokan listrik andal untuk kapal sandar guna mendorong efisiensi biaya pelaku usaha maritim sekaligus menekan emisi.",
+   "Kepala KSOP Utama Tanjung Priok, Capt. Heru Susanto, menyatakan implementasi OPS di Tanjung Priok berpotensi menjadi contoh praktik baik bagi transformasi pelabuhan-pelabuhan lain di Indonesia menuju pelabuhan yang lebih hijau, efisien, dan kompetitif."
+  ],
+  "fotoAdegan": "Cargo ship docked at a busy Indonesian port terminal with thick power cables running from a dockside cabinet, workers nearby, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/16/6aaa6f7b5b7d9-pelindo-resmi-meluncurkan-fasilitas-onshore-power-supply-ops-di-dermaga-serbaguna-nusantara-terminal-pnp-dermaga-004-pelabuhan-tanjung-priok-jakarta-rabu-169_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya, kapal yang bersandar di Dermaga 004 Tanjung Priok kini bisa mematikan mesin bantu dan mengambil listrik dari darat berdaya 500 kVA, dengan klaim pengurangan emisi gas buang sampai 75 persen berdasarkan pengujian internal Pelindo. Pihak yang langsung terdampak adalah pemilik dan operator kapal yang biasa sandar di situ, termasuk anggota INSA, serta PLN yang berperan sebagai pemasok listriknya. Yang belum terjawab dari peluncuran ini adalah apakah OPS bakal diperluas ke dermaga dan pelabuhan Pelindo lain, sebab Kepala KSOP Tanjung Priok baru menyebutnya berpotensi jadi contoh baik tanpa menyebut target waktu perluasan. Belum ada juga perbandingan biaya listrik OPS dengan bahan bakar genset kapal, padahal itu yang menentukan apakah pemilik kapal punya alasan ekonomi memakainya rutin, bukan sekadar saat peresmian. Yang perlu dipantau selanjutnya adalah ada tidaknya pengumuman jadwal perluasan OPS ke pelabuhan lain atau aturan yang mewajibkan penggunaannya.",
+  "imageV": "mu40bg4d"
+ },
+ {
+  "slug": "presiden-prabowo-ungkap-kebocoran-ekspor-rp15-t-34-tahun",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo Ungkap Kebocoran Ekspor Rp15 T [34 Tahun]",
+  "deck": "Presiden Prabowo Subianto menyebut praktik pelaporan nilai ekspor lebih rendah dari sebenarnya berlangsung 34 tahun dan membuat negara kehilangan hingga Rp15 triliun.",
+  "image": "assets/img/presiden-prabowo-ungkap-kebocoran-ekspor-rp15-t-34-tahun.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T17:30:44+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467498-prabowo-bongkar-kebocoran-ekspor-34-tahun-rp15-triliun-disebut-raib-akibat-underinvoicing",
+  "tags": [
+   "underinvoicing",
+   "ekspor",
+   "bea cukai",
+   "Presiden Prabowo"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto mengungkapkan temuan soal praktik underinvoicing, yakni pelaporan nilai dan jumlah barang ekspor yang lebih rendah dari kondisi sebenarnya, yang menurutnya sudah berlangsung selama 34 tahun. Ia menyebut praktik ini membuat negara kehilangan potensi penerimaan hingga Rp15 triliun. Pernyataan ini penting karena menyangkut kebocoran uang negara dalam jumlah besar yang terjadi dalam waktu sangat panjang, dan menyentuh sistem pengawasan ekspor yang selama ini dipakai.",
+   "Prabowo menjelaskan mekanismenya dengan sederhana: barang yang sebenarnya dikirim dalam jumlah besar, misalnya 100 ton, dilaporkan hanya separuhnya. Akibatnya, penerimaan negara yang seharusnya didapat dari nilai ekspor sebenarnya tidak pernah tercatat penuh. \"Selama 34 tahun ini, kekayaan kita diselewengkan oleh praktek underinvoicing, intinya adalah laporan palsu. Jadi dia ekspornya yang dikirim 100 ton, tapi lapornya 50 ton. Dalam 34 tahun, kita hilang Rp15 triliun,\" kata Prabowo, Rabu (16/9/2026).",
+   "Prabowo menyebut data soal praktik ini baru terungkap setelah dirinya menjabat sebagai presiden, dan menduga lemahnya pengawasan turut membuka celah tersebut, termasuk kemungkinan oknum di instansi bea cukai maupun lembaga lain menerima suap. Ia mengaitkan persoalan ini dengan kondisi ekonomi masyarakat yang menurutnya belum ikut membaik meski pertumbuhan ekonomi nasional bertahan di kisaran 5 persen per tahun selama sekitar tujuh tahun terakhir.",
+   "Ia juga menyoroti jumlah penduduk miskin dan rentan miskin yang menurutnya masih bertambah, sementara jumlah masyarakat kelas menengah justru menyusut. Bagi Prabowo, kebocoran seperti underinvoicing ini perlu dibenahi agar pertumbuhan ekonomi yang selama ini tercatat benar-benar berdampak pada kesejahteraan masyarakat."
+  ],
+  "fotoAdegan": "Cargo containers being loaded onto a ship at a busy Indonesian export port, cranes working in early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/16/6aaa69b464f06-presiden-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah klaim baru dari Presiden Prabowo Subianto: pemerintah menyebut menemukan kebocoran penerimaan ekspor senilai Rp15 triliun yang terkumpul selama 34 tahun, akibat barang yang dilaporkan lebih sedikit dari yang sebenarnya dikirim ke luar negeri. Pihak yang berpotensi terdampak adalah instansi bea cukai dan lembaga pengawas ekspor lain, karena Presiden Prabowo Subianto menyinggung kemungkinan ada oknum di dalamnya yang menerima suap. Berita ini belum menyebut langkah konkret seperti audit resmi, penyelidikan hukum, atau perubahan aturan bea cukai, sehingga belum bisa dibaca apakah pengungkapan ini akan berlanjut ke penindakan atau berhenti sebagai pernyataan. Yang perlu dipantau adalah apakah Direktorat Jenderal Bea dan Cukai atau aparat penegak hukum mengeluarkan tindak lanjut resmi dalam waktu dekat, karena itu yang akan menentukan apakah temuan ini membawa konsekuensi nyata.",
+  "imageV": "mu40bgjx"
+ },
+ {
   "slug": "idea-tanggapi-bei-66-58-saham-tetap-beralih-ke-nawasena",
   "category": "Aksi Korporasi",
   "title": "IDEA Tanggapi BEI, [66,58%] Saham Tetap Beralih ke Nawasena",
@@ -184,6 +294,33 @@ var ARTICLES = [
   "fotoAdegan": "Financial district office workers reviewing paperwork at a cluttered desk, stacks of folders, blurred documents, late afternoon light through blinds",
   "takeaway": "Sanksi ini menambah catatan negatif bagi tata kelola MREI, karena keterlambatan menyampaikan laporan keuangan biasanya mengindikasikan ada kendala internal, entah di proses audit atau pencatatan, yang membuat investor sulit menilai kinerja terkini perusahaan secara tepat waktu. Yang tersentuh langsung memang cuma kas, denda Rp50 juta itu relatif kecil dibanding skala usaha reasuransi MREI, tapi yang lebih penting adalah laporan keuangan itu sendiri, dasar yang dipakai investor untuk menghitung untung rugi, arus kas, dan kesehatan modal perusahaan, sehingga keterlambatannya membuat pasar sementara buta terhadap kondisi terbaru MREI. Yang perlu dipantau berikutnya adalah kapan MREI benar-benar menyerahkan laporan keuangan interim per 30 Juni 2026 itu, sebab kalau keterlambatan berlanjut, bursa bisa menjatuhkan sanksi lebih berat sampai ke penghentian sementara perdagangan sahamnya.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "indodana-finance-terapkan-intelligent-grc-jaga-risiko-bisnis",
+  "category": "Perbankan",
+  "title": "Indodana Finance Terapkan [Intelligent GRC] Jaga Risiko Bisnis",
+  "deck": "Indodana Finance menerapkan pendekatan Intelligent GRC agar pertumbuhan bisnis pembiayaan tetap diimbangi pengelolaan risiko dan kualitas portofolio yang terjaga.",
+  "image": "assets/img/indodana-finance-terapkan-intelligent-grc-jaga-risiko-bisnis.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T16:38:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467492-pertumbuhan-bisnis-harus-diimbangi-pengelolaan-risiko-indodana-finance-terapkan-intelligent-grc",
+  "tags": [
+   "Indodana Finance",
+   "GRC",
+   "BNPL",
+   "OJK"
+  ],
+  "body": [
+   "PT Indodana Multi Finance, penyedia layanan beli sekarang bayar nanti atau BNPL yang berizin dan diawasi Otoritas Jasa Keuangan (OJK), mengubah cara mereka mengelola risiko bisnis. Perusahaan ini menerapkan pendekatan yang mereka sebut Intelligent Governance, Risk, and Compliance atau Intelligent GRC, dengan tujuan agar ekspansi pembiayaan tidak mengorbankan kualitas portofolio dan kepatuhan terhadap aturan.",
+   "Bedanya dengan pendekatan lama, fungsi pengawasan risiko dan kepatuhan tidak lagi hanya bekerja belakangan setelah keputusan bisnis diambil, melainkan dilibatkan langsung dalam proses pengambilan keputusan. Indodana Finance mengklaim pendekatan ini tercermin dari penguatan profitabilitas perusahaan dan kualitas portofolio pembiayaan yang tetap berada di level sangat sehat, meski perusahaan tidak merinci angka pertumbuhan laba maupun rasio kredit bermasalah secara spesifik.",
+   "Direktur PT Indodana Multi Finance, Iwan Dewanto, mengatakan penerapan GRC yang kuat menjadi fondasi membangun kepercayaan jangka panjang dari masyarakat, mitra bisnis, dan regulator. 'Melalui pendekatan Intelligent GRC, kami mengubah fungsi pengawasan menjadi mitra strategis yang memberikan risk intelligence secara tepat untuk mendukung pertumbuhan bisnis yang sehat dan berkelanjutan,' ujarnya.",
+   "Menurut Iwan, hasil dari pendekatan tersebut terlihat dari pertumbuhan laba yang disebutnya signifikan, sekaligus kualitas rasio pembiayaan bermasalah atau NPF yang tetap terjaga di tengah ekspansi bisnis perusahaan."
+  ],
+  "fotoAdegan": "Close-up of a customer completing a mobile checkout payment at a small retail counter, phone screen blurred, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/12/30/67726f64d9202-ilustrasi-bisnis-memperoleh-keuntungan-besar-penyebab-rezeki-mengalir-deras_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara kerja internal Indodana Finance: pengecekan risiko dan kepatuhan kini dilibatkan langsung dalam pengambilan keputusan bisnis, bukan sekadar pemeriksaan setelah keputusan diambil. Yang terdampak langsung adalah nasabah pengguna layanan BNPL Indodana, mitra bisnisnya, serta OJK selaku pengawas, karena merekalah yang bergantung pada seberapa sehat portofolio pembiayaan perusahaan ini ke depan. Yang masih kurang untuk membaca ke mana arah perkembangan ini adalah angka konkretnya, perusahaan menyebut laba tumbuh signifikan dan rasio kredit macet terjaga, tapi tidak mencantumkan berapa persen pertumbuhannya atau berapa rasio NPF yang dimaksud. Kepastian soal itu baru bisa dicek lewat laporan keuangan resmi Indodana Finance atau data industri pembiayaan BNPL dari OJK pada periode berikutnya.",
+  "imageV": "mu40bgxx"
  },
  {
   "slug": "boat-jawab-bursa-kas-susut-utang-usaha-membengkak",
@@ -687,7 +824,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah status ICA-CEPA, dari sekadar diteken menjadi bersiap dijalankan, dengan target implementasi akhir 2026. Dalam praktiknya, Kanada akan menghapus atau menurunkan bea masuk untuk lebih dari 90 persen kategori barang asal Indonesia, dan Indonesia melakukan hal sama untuk sekitar 86 persen kategori barang Kanada, artinya produk seperti hasil tambang olahan, perikanan, dan hasil pertanian RI berpeluang lebih murah bersaing di pasar Kanada. Pihak yang paling terdampak adalah eksportir dan UMKM di sektor mineral kritis, energi bersih, perikanan, infrastruktur, dan jasa keuangan digital, karena merekalah yang harus menyesuaikan standar produk dan ketenagakerjaan agar bisa memakai jalur tarif rendah ini. Arahnya menunjukkan perjanjian dagang ini masuk fase teknis yang lebih rumit dibanding seremoni tanda tangan, dan yang akan membuktikan apakah target ini realistis adalah apakah implementasi benar berjalan akhir 2026 sesuai jadwal atau justru molor seperti sejumlah perjanjian dagang lain.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "ri-china-teken-mou-investasi-rp51-triliun-di-twin-parks",
@@ -715,7 +852,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang diumumkan, Rp51 triliun MoU baru dan total Rp88,1 triliun sejak program ini dimulai, adalah nilai komitmen di atas kertas, bukan investasi yang sudah benar-benar masuk ke Indonesia. MoU semacam ini adalah nota kesepahaman awal, bukan kontrak yang mengikat, sehingga nilainya bisa berubah atau bahkan tidak pernah terealisasi. Yang terkena dampak langsung adalah pengelola tiga kawasan industri yang disebut, yaitu KEK Industropolis Batang, KEK Tanjung Lesung, dan Bintan Industrial Estate, karena merekalah yang harus mengubah minat investor Tiongkok itu menjadi pabrik yang benar-benar berdiri. Siaran pers ini tidak menyebutkan berapa dari Rp37,1 triliun komitmen sebelumnya yang sudah terealisasi jadi proyek berjalan, sehingga arah sebenarnya baru bisa dibaca dari laporan realisasi investasi triwulanan Kementerian Investasi/BKPM, yang akan menunjukkan apakah komitmen Xiamen ini berakhir sebagai proyek nyata atau sekadar daftar MoU yang terus menumpuk.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "ikpm-koreksi-laporan-dana-ipo-capex-baru-76-rencana",

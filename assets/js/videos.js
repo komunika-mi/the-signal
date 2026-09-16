@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "D6kxZIseois",
+  "title": "Pembangunan LRT Jakarta Dilanjutkan hingga Dukuh Atas",
+  "category": "Bisnis",
+  "program": "Kabar Petang",
+  "summary": "Gubernur DKI Jakarta Pramono Anung memastikan pembangunan LRT Jakarta dilanjutkan dari Manggarai hingga Dukuh Atas sepanjang sekitar 2 kilometer setelah rute Kelapa Gading-Manggarai rampung.",
+  "takeaway": "Kelanjutan proyek ini menandai keberlanjutan investasi infrastruktur transportasi publik di Jakarta yang berdampak pada mobilitas dan aktivitas ekonomi kota.",
+  "terbit": "2026-09-16T10:16:38+00:00"
+ },
+ {
+  "id": "TNUhFOpBq80",
+  "title": "Presiden Prabowo: Kemajuan Transportasi Dorong Pertumbuhan Ekonomi",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto menyatakan kemajuan transportasi dapat menumbuhkan perekonomian, disampaikan sebelum meresmikan LRT rute Kelapa Gading-Manggarai.",
+  "takeaway": "Pernyataan ini menegaskan pandangan pemerintah bahwa investasi infrastruktur transportasi menjadi salah satu pendorong pertumbuhan ekonomi nasional.",
+  "terbit": "2026-09-16T10:11:44+00:00"
+ },
+ {
   "id": "5gWtcjrGZqc",
   "title": "Temuan Beras Fortifikasi Dijual dengan Harga Tak Wajar",
   "category": "Industri",

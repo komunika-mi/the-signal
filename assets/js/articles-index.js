@@ -5,6 +5,76 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bantuan-pasang-listrik-ke-400-ribu-rumah-tangga-ditarget-2027",
+  "category": "Energi",
+  "title": "Bantuan Pasang Listrik ke [400 Ribu] Rumah Tangga Ditarget 2027",
+  "deck": "ESDM menargetkan bantuan pasang listrik untuk 400 ribu rumah tangga pada 2027 dengan anggaran Rp949 miliar, di tengah desakan DPR agar penetapan penerima tak menunggu pembaruan data desil.",
+  "date": "16 September 2026",
+  "image": "assets/img/bantuan-pasang-listrik-ke-400-ribu-rumah-tangga-ditarget-2027.jpg",
+  "imageV": "mu40bcx1",
+  "tags": [
+   "BPBL",
+   "ESDM",
+   "elektrifikasi",
+   "DPR"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dpr-apresiasi-percepatan-penetapan-penerima-bpbl-esdm-dorong-akses-listrik-lebih-cepat",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "indonesia-sri-lanka-lanjutkan-perundingan-pta-ke-putaran-tiga",
+  "category": "Global",
+  "title": "Indonesia-Sri Lanka Lanjutkan Perundingan [PTA] ke Putaran Tiga",
+  "deck": "Mendag Budi Santoso mendorong perundingan dagang preferensial RI-Sri Lanka lanjut ke putaran ketiga, sementara Sri Lanka menjajaki kerja sama pupuk dan siap ikut Trade Expo Indonesia Oktober 2026.",
+  "date": "16 September 2026",
+  "image": "assets/img/indonesia-sri-lanka-lanjutkan-perundingan-pta-ke-putaran-tiga.jpg",
+  "imageV": "mu40bfqb",
+  "tags": [
+   "Kemendag",
+   "Sri Lanka",
+   "PTA",
+   "Ekspor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-dorong-kelanjutan-perundingan-indonesia-sri-lanka-pta",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pelindo-luncurkan-listrik-darat-kapal-di-tanjung-priok",
+  "category": "BUMN",
+  "title": "Pelindo Luncurkan [Listrik] Darat Kapal di Tanjung Priok",
+  "deck": "Pelindo mengoperasikan pasokan listrik darat 500 kVA di Tanjung Priok agar kapal sandar bisa mematikan mesin bantu, emisi diklaim turun hingga 75 persen.",
+  "date": "16 September 2026",
+  "image": "assets/img/pelindo-luncurkan-listrik-darat-kapal-di-tanjung-priok.jpg",
+  "imageV": "mu40bg4d",
+  "tags": [
+   "Pelindo",
+   "Tanjung Priok",
+   "Onshore Power Supply",
+   "Green Port"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467502-pelindo-luncurkan-layanan-onshore-power-supply-di-tanjung-priok-dorong-transformasi-green-port"
+ },
+ {
+  "slug": "presiden-prabowo-ungkap-kebocoran-ekspor-rp15-t-34-tahun",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo Ungkap Kebocoran Ekspor Rp15 T [34 Tahun]",
+  "deck": "Presiden Prabowo Subianto menyebut praktik pelaporan nilai ekspor lebih rendah dari sebenarnya berlangsung 34 tahun dan membuat negara kehilangan hingga Rp15 triliun.",
+  "date": "16 September 2026",
+  "image": "assets/img/presiden-prabowo-ungkap-kebocoran-ekspor-rp15-t-34-tahun.jpg",
+  "imageV": "mu40bgjx",
+  "tags": [
+   "underinvoicing",
+   "ekspor",
+   "bea cukai",
+   "Presiden Prabowo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467498-prabowo-bongkar-kebocoran-ekspor-34-tahun-rp15-triliun-disebut-raib-akibat-underinvoicing"
+ },
+ {
   "slug": "idea-tanggapi-bei-66-58-saham-tetap-beralih-ke-nawasena",
   "category": "Aksi Korporasi",
   "title": "IDEA Tanggapi BEI, [66,58%] Saham Tetap Beralih ke Nawasena",
@@ -115,6 +185,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/43d1fb3c05_9ac0349456.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indodana-finance-terapkan-intelligent-grc-jaga-risiko-bisnis",
+  "category": "Perbankan",
+  "title": "Indodana Finance Terapkan [Intelligent GRC] Jaga Risiko Bisnis",
+  "deck": "Indodana Finance menerapkan pendekatan Intelligent GRC agar pertumbuhan bisnis pembiayaan tetap diimbangi pengelolaan risiko dan kualitas portofolio yang terjaga.",
+  "date": "16 September 2026",
+  "image": "assets/img/indodana-finance-terapkan-intelligent-grc-jaga-risiko-bisnis.jpg",
+  "imageV": "mu40bgxx",
+  "tags": [
+   "Indodana Finance",
+   "GRC",
+   "BNPL",
+   "OJK"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467492-pertumbuhan-bisnis-harus-diimbangi-pengelolaan-risiko-indodana-finance-terapkan-intelligent-grc"
  },
  {
   "slug": "boat-jawab-bursa-kas-susut-utang-usaha-membengkak",
@@ -6413,86 +6500,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba0fd5b715_2c416270e1.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ibos-jadwalkan-rupslb-pada-16-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "IBOS Jadwalkan [RUPSLB] pada 16 Oktober 2026",
-  "deck": "PT Indo Boga Sukses Tbk mengumumkan RUPSLB digelar 16 Oktober 2026 di Yogyakarta, dengan tanggal pencatatan pemegang saham 23 September 2026.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IBOS",
-   "RUPSLB",
-   "Pasar Modal",
-   "Indo Boga Sukses"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1218108960_d648f50407.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-gelar-paparan-publik-bahas-suspensi-saham-dan-lonjakan-harga",
-  "category": "Aksi Korporasi",
-  "title": "PACK Gelar Paparan Publik, Bahas [Suspensi] Saham dan Lonjakan Harga",
-  "deck": "PACK akan menggelar paparan publik insidentil pada 11 September 2026 atas permintaan Bursa Efek Indonesia, untuk menjelaskan pergerakan harga saham yang tidak biasa dan suspensi perdagangan.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "Public Expose",
-   "Suspensi Saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/91fff385c3_c8bbd44d92.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-jawab-bursa-soal-penundaan-bagi-hasil-sukuk-likuiditas",
-  "category": "Aksi Korporasi",
-  "title": "POST Jawab Bursa soal Penundaan Bagi Hasil Sukuk [Likuiditas]",
-  "deck": "Pos Indonesia menjelaskan ke Bursa alasan penundaan kedua bagi hasil sukuk, dengan target bayar mulai Januari 2027 lewat dukungan Danantara.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "Pos Indonesia",
-   "Sukuk",
-   "Likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d6c921583_bba823731a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fwct-gelar-rupslb-ubah-anggaran-dasar-ikuti-kbli-baru",
-  "category": "Aksi Korporasi",
-  "title": "FWCT Gelar RUPSLB Ubah Anggaran Dasar Ikuti [KBLI] Baru",
-  "deck": "Wijaya Cahaya Timber memanggil RUPS Luar Biasa 1 Oktober 2026 untuk mengubah Anggaran Dasar menyesuaikan kode klasifikasi usaha sesuai aturan pemerintah baru.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FWCT",
-   "RUPSLB",
-   "KBLI",
-   "Wijaya Cahaya Timber"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9a75a903a_da35de0c8b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "purbaya-sidak-lnsw-kemenkeu-siapkan-ai-kejar-potensi-pajak",
-  "category": "Makroekonomi",
-  "title": "Purbaya Sidak LNSW, Kemenkeu Siapkan AI Kejar [Potensi] Pajak",
-  "deck": "Menteri Keuangan Purbaya Yudhi Sadewa sidak LNSW dan menilai integrasi datanya belum optimal, lalu menyiapkan aplikasi AI untuk melacak potensi kekurangan pajak perusahaan.",
-  "date": "9 September 2026",
-  "image": "assets/img/purbaya-sidak-lnsw-kemenkeu-siapkan-ai-kejar-potensi-pajak.jpg",
-  "imageV": "mtu065se",
-  "tags": [
-   "LNSW",
-   "AI Kemenkeu",
-   "Potensi Pajak",
-   "Purbaya Yudhi Sadewa"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465970-purbaya-sidak-lnsw-soroti-data-belum-terintegrasi-dan-siapkan-ai-untuk-kejar-potensi-pajak"
  }
 ];

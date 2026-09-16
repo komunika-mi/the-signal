@@ -4,6 +4,46 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "Ssa46z-68kA",
+  "title": "Penghasilan Nelayan Naik 30 hingga 40 Persen",
+  "category": "Ketenagakerjaan",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo Subianto menyebut penghasilan nelayan meningkat signifikan lewat program pembenahan desa nelayan yang dinilainya selama ini belum terurus, dengan target 1.300 desa nelayan baru.",
+  "takeaway": "Program desa nelayan berdampak langsung pada pendapatan masyarakat pesisir, indikator penting bagi ekonomi kerakyatan."
+ },
+ {
+  "id": "NhmwFIVUnr8",
+  "title": "Presiden Prabowo Optimistis BUMN Cetak Untung",
+  "category": "BUMN",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo Subianto menyatakan optimistis kinerja BUMN mencatatkan hasil positif, meski menyoroti pengelolaan sumber keuangan negara yang menurutnya masih perlu dirapikan.",
+  "takeaway": "Pernyataan ini menjadi sinyal arah kebijakan pemerintah terhadap tata kelola dan profitabilitas perusahaan pelat merah."
+ },
+ {
+  "id": "jxq333mWj0s",
+  "title": "Pemerintahan Presiden Prabowo Hemat APBN Rp306 Triliun",
+  "category": "Makroekonomi",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo Subianto memaparkan rincian penghematan anggaran negara yang disebutnya telah mencapai Rp306 triliun sejak pemerintahannya berjalan.",
+  "takeaway": "Efisiensi APBN berkaitan langsung dengan ruang fiskal pemerintah dan menjadi indikator yang dicermati pelaku pasar."
+ },
+ {
+  "id": "KDTdApw0VXo",
+  "title": "Presiden Prabowo: Rasio Utang Indonesia Terendah di Dunia",
+  "category": "Makroekonomi",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo Subianto menilai kondisi ekonomi Indonesia dalam keadaan baik, dengan rasio utang yang disebutnya termasuk paling rendah di dunia.",
+  "takeaway": "Klaim soal rasio utang penting dicermati investor karena berkaitan dengan persepsi risiko fiskal dan kepercayaan pasar."
+ },
+ {
+  "id": "zCRUqe4tatY",
+  "title": "Presiden Prabowo: 2,7 Juta Lapangan Kerja Baru pada 2025",
+  "category": "Ketenagakerjaan",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo Subianto mengklaim pemerintahannya berhasil membuka 2,7 juta lapangan pekerjaan baru sepanjang 2025.",
+  "takeaway": "Data penyerapan tenaga kerja menjadi acuan untuk menilai efektivitas kebijakan ekonomi pemerintah terhadap pengangguran."
+ },
+ {
   "id": "ExKj1Ots1Qk",
   "title": "Menkeu Baru Dilantik, Ekspektasi Kinerja Dipertanyakan",
   "category": "Makroekonomi",
@@ -442,45 +482,5 @@ var VIDEOS = [
   "program": "Apa Kabar Indonesia Malam",
   "summary": "PT Kereta Api Indonesia menyiapkan sembilan perjalanan kereta tambahan untuk mengantisipasi lonjakan penumpang akibat penutupan sejumlah bandara imbas erupsi Anak Krakatau.",
   "takeaway": "Menarik bagi pembaca ekonomi karena memperlihatkan respons operasional BUMN transportasi terhadap pergeseran permintaan penumpang antar moda."
- },
- {
-  "id": "S61wIpnjB7I",
-  "title": "Harga Masker Melonjak Drastis di Tengah Bencana Erupsi",
-  "category": "Bisnis",
-  "program": "Apa Kabar Indonesia Malam",
-  "summary": "Harga masker kesehatan jenis N95 dan KN95 melonjak drastis akibat sebaran abu vulkanik Gunung Anak Krakatau, memicu dugaan permainan harga oleh sejumlah pihak.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti praktik penetapan harga tidak wajar di pasar saat permintaan melonjak akibat kondisi darurat."
- },
- {
-  "id": "1scaRAq7LBI",
-  "title": "PT Halalan Thayyiban Jaga Kualitas Pasokan Makan Jemaah Haji",
-  "category": "Industri",
-  "program": "tvOneNews",
-  "summary": "PT Halalan Thayyiban Indonesia melalui produk Makanku menyediakan makanan siap saji bagi jemaah haji Indonesia, dengan kapasitas produksi hingga 50.000 kemasan per hari.",
-  "takeaway": "Menunjukkan geliat industri pangan halal dalam negeri yang menopang kebutuhan logistik haji dalam skala besar."
- },
- {
-  "id": "EXjwhZ5_PNI",
-  "title": "Pelelangan dan Jual Beli Ikan di Pandeglang Menurun",
-  "category": "Bisnis",
-  "program": "tvOneNews",
-  "summary": "Erupsi Gunung Anak Krakatau membuat aktivitas pelelangan ikan di TPI Labuan, Pandeglang, sepi karena pasokan ikan berkurang dan transaksi nelayan dengan pedagang menurun.",
-  "takeaway": "Memperlihatkan bagaimana bencana alam menekan langsung roda ekonomi nelayan dan pasar ikan lokal."
- },
- {
-  "id": "3m8fCFV6wYo",
-  "title": "Pemerintah Siap Tambah Anggaran BNPB Jika Dibutuhkan",
-  "category": "Makroekonomi",
-  "program": "AKIP",
-  "summary": "Menteri Keuangan Purbaya Yudhi Sadewa menyatakan pemerintah siap mengucurkan tambahan anggaran penanganan bencana secara maksimal jika diminta oleh BNPB.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut fleksibilitas alokasi anggaran negara untuk merespons risiko bencana yang berpotensi membebani APBN."
- },
- {
-  "id": "JAcUIYq96js",
-  "title": "KSPPB dan Komisi IX DPR Bahas RUU Tenaga Kerja",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Hari Ini",
-  "summary": "Serikat pekerja bertemu Komisi IX DPR RI untuk menyampaikan aspirasi dan pandangan kritis terkait revisi Undang-Undang Ketenagakerjaan.",
-  "takeaway": "Pembahasan RUU Tenaga Kerja relevan bagi pembaca ekonomi karena berpotensi mengubah aturan ketenagakerjaan yang berdampak pada pekerja dan dunia usaha."
  }
 ];

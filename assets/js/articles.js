@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "taspen-dorong-mahasiswa-usu-rencanakan-pensiun-sejak-dini",
+  "category": "BUMN",
+  "title": "TASPEN Dorong Mahasiswa USU [Rencanakan] Pensiun Sejak Dini",
+  "deck": "TASPEN gandeng USU gelar edukasi keuangan bagi seribu mahasiswa dan teken MoU kepesertaan TASPEN Group, bagian kampanye literasi dana pensiun nasional OJK 2026.",
+  "image": "assets/img/taspen-dorong-mahasiswa-usu-rencanakan-pensiun-sejak-dini.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T23:02:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467581-taspen-goes-to-campus-dorong-generasi-muda-siapkan-kesejahteraan-finansial-sejak-dini",
+  "tags": [
+   "TASPEN",
+   "dana pensiun",
+   "literasi keuangan",
+   "USU"
+  ],
+  "body": [
+   "PT TASPEN (Persero) menggelar program TASPEN Goes to Campus di Universitas Sumatera Utara, Medan, Rabu (16/9), mengajak sekitar seribu mahasiswa memahami pentingnya merencanakan keuangan dan masa pensiun sejak usia produktif. Acara ini bagian dari kampanye nasional Bulan Dana Pensiun Indonesia 2026 yang digagas OJK bersama TASPEN, dengan tema Ngerti Duit, Nggak Auto Pelit.",
+   "Turut hadir Direktur Operasional TASPEN Tribuna Phitera Djaja, Wakil Rektor III USU Himsar Ambarita, Kepala OJK Sumatera Utara Triyoga Laksito, serta Ketua Bidang Sosialisasi, Edukasi, dan Komunikasi Publik Komisi Informasi Pusat Edi Purwanto. Materi yang diberikan mencakup literasi keuangan, perencanaan keuangan, dan pemahaman program pensiun, dengan pembicara antara lain Founder dan CEO QM Financial Ligwina Hananto serta Ketua DPW Gerakan Ekonomi Kreatif Nasional Sumatera Utara Fadhullah.",
+   "Selain sharing session, TASPEN dan USU menandatangani nota kesepahaman kemitraan strategis yang mencakup pelaksanaan Tri Dharma Perguruan Tinggi, peningkatan layanan TASPEN, serta kepesertaan program TASPEN Group di lingkungan USU. Corporate Secretary TASPEN, Henra, mengatakan masa produktif adalah waktu tepat untuk merencanakan masa depan, karena kesejahteraan finansial ditentukan bukan hanya oleh pendapatan tapi juga kemampuan mengelola keuangan dan mempersiapkan kebutuhan jangka panjang."
+  ],
+  "fotoAdegan": "Rows of university students filling a large campus auditorium, attentively listening during a financial literacy workshop, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/16/6aaabc7f5db45-taspen-goes-to-campus_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah dari acara ini bukan cuma sosialisasi, tapi juga penandatanganan MoU antara TASPEN dan USU yang salah satu poinnya adalah kepesertaan program TASPEN Group di lingkungan kampus itu, yang membuka jalan bagi pegawai atau institusi USU untuk ikut produk TASPEN Group. Yang langsung terdampak adalah seribu mahasiswa peserta hari itu, dan berpotensi pegawai USU yang nanti masuk skema TASPEN Group lewat kerja sama ini. Pola sosialisasi ke kampus yang dibarengi MoU kepesertaan menunjukkan TASPEN sedang memperluas basis peserta di luar aparatur sipil negara lewat kemitraan institusi, sejalan dengan kampanye Bulan Dana Pensiun Indonesia 2026 yang digagas OJK. Yang belum terjawab dari berita ini adalah berapa banyak pegawai USU yang akan benar-benar ikut program tersebut dan apakah skema serupa bakal direplikasi di kampus lain, sehingga arah perluasan peserta TASPEN ini baru bisa dipastikan lewat data realisasi MoU atau pengumuman kerja sama sejenis berikutnya.",
+  "imageV": "mu4czdt2"
+ },
+ {
   "slug": "ppgl-bagikan-saham-bonus-rasio-6-4-dari-agio-ipo",
   "category": "Aksi Korporasi",
   "title": "PPGL Bagikan [Saham Bonus] Rasio 6:4 dari Agio IPO",
@@ -80,6 +106,33 @@ var ARTICLES = [
   "fotoAdegan": "Warehouse and freight forwarding workers stacking cargo pallets onto trucks in a busy logistics yard, morning light",
   "takeaway": "Penambahan modal tanpa hak memesan efek terlebih dahulu ini condong netral bagi PPGL, karena dana yang masuk memang bisa memperkuat modal kerja, tapi karena tidak ada jatah untuk pemegang saham lama, penerbitan hingga 10 persen saham baru ini otomatis mengurangi persentase kepemilikan dan hak suara pemegang saham yang tidak ikut membeli, sementara harga jual sahamnya sendiri belum dipatok pasti dan baru ditentukan dari rata-rata harga pasar menjelang pencatatan. Yang tersentuh adalah ekuitas, yakni modal sendiri perusahaan yang diproyeksikan naik 1,18 persen, dan jumlah saham beredar yang bertambah hingga 848,3 juta lembar, dua faktor yang bersama-sama memengaruhi laba per saham karena laba yang sama nantinya harus dibagi ke lebih banyak lembar saham. Investor perlu mencermati RUPSLB pada 23 Oktober 2026 sebagai syarat persetujuan rencana ini, serta pengumuman resmi PPGL paling lambat lima hari kerja sebelum pelaksanaan yang akan memuat harga final dan jumlah saham yang benar-benar diterbitkan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "djp-evaluasi-ulang-ratusan-pejabat-era-purbaya",
+  "category": "Makroekonomi",
+  "title": "DJP [Evaluasi] Ulang Ratusan Pejabat Era Purbaya",
+  "deck": "Ditjen Pajak mengecek ulang ratusan pejabat yang dilantik Purbaya Yudhi Sadewa saat menjabat Menkeu; yang tak lolos penilaian kompetensi dikembalikan ke jabatan lama.",
+  "image": "assets/img/djp-evaluasi-ulang-ratusan-pejabat-era-purbaya.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T21:30:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467544-begini-nasib-ratusan-pejabat-yang-dilantik-purbaya-saat-jadi-menkeu",
+  "tags": [
+   "Kemenkeu",
+   "Purbaya Yudhi Sadewa",
+   "Ditjen Pajak",
+   "Mutasi Pejabat"
+  ],
+  "body": [
+   "Direktorat Jenderal Pajak (DJP) tengah mengecek ulang status ratusan pejabat yang dilantik Purbaya Yudhi Sadewa saat masih menjabat Menteri Keuangan. Pejabat yang dinilai tidak memenuhi syarat akan dibatalkan pelantikannya dan dikembalikan ke jabatan sebelumnya, sementara yang lolos penilaian tetap menempati posisi baru mereka. Langkah ini penting karena menyangkut nasib ratusan orang yang sempat dirotasi dalam waktu singkat sebelum pergantian menteri.",
+   "Direktur Jenderal Pajak Bimo Wijayanto menjelaskan, masalah muncul karena sejumlah nama dalam daftar rotasi tidak melalui tahap penilaian kompetensi dan pemetaan bakat pegawai, proses standar yang biasanya menjadi syarat sebelum seorang pejabat dipromosikan atau dipindahtugaskan. Ia menyebut sejumlah nama itu sebagai 'nama-nama ajaib' yang masuk daftar rotasi tanpa melalui proses tersebut. Karena itu, ia bersama Direktur Jenderal Bea Cukai Djaka Budi Utama meminta agar pelantikan nama-nama tersebut ditunda, bahkan dibatalkan.",
+   "'Yang nggak memenuhi syarat tadi dibatalkan, yang lain-lain tetap,' kata Bimo di kantornya, Rabu (16/9/2026). Ia menegaskan, pejabat yang pelantikannya dibatalkan akan dikembalikan ke posisi mereka sebelum rotasi berlangsung, bukan tetap berada di jabatan baru yang sempat diberikan.",
+   "Rotasi besar-besaran yang kini dievaluasi itu berlangsung pada 10 September 2026, hanya beberapa hari sebelum Presiden Prabowo Subianto mencopot Purbaya dari kursi Menteri Keuangan. Jumlah pejabat yang terkena mutasi saat itu mencapai ratusan orang, dan kebijakan tersebut sempat menjadi sorotan di internal Kementerian Keuangan."
+  ],
+  "fotoAdegan": "Civil servants walking through a government office corridor lined with desks and filing cabinets, morning light through tall windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/05/20/682cb24a91c9a-bimo-wijayanto-mendapat-mandat-untuk-menjabat-dirjen-pajak-kemenkeu_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan pembatalan seluruh mutasi, melainkan penyaringan ulang atas ratusan nama yang dilantik Purbaya Yudhi Sadewa pada 10 September lalu. Pejabat yang sempat lolos daftar rotasi tanpa melalui penilaian kompetensi dan pemetaan bakat pegawai, semacam uji kelayakan internal sebelum promosi, akan dikembalikan ke jabatan lama, sementara yang memang melalui proses itu tetap di posisi barunya. Yang terdampak langsung adalah pejabat di lingkungan Ditjen Pajak dan Ditjen Bea Cukai yang masuk daftar rotasi tanpa penilaian tersebut. Arahnya terlihat sebagai koreksi selektif, bukan pembatalan menyeluruh, karena justru pimpinan kedua ditjen itu sendiri yang mengusulkan peninjauan ini. Yang akan memastikan apakah koreksi ini berhenti di level administratif atau berlanjut jadi evaluasi personalia yang lebih luas adalah hasil final pengecekan DJP dan sikap Menteri Keuangan pengganti Purbaya.",
+  "imageV": "mu4czeac"
  },
  {
   "slug": "klbf-margin-diprediksi-tertekan-hingga-semester-ii-2026",

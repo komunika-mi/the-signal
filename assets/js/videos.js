@@ -2,6 +2,51 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Ssa46z-68kA",
+  "title": "Penghasilan Nelayan Naik 30 hingga 40 Persen",
+  "category": "Ketenagakerjaan",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo Subianto menyebut penghasilan nelayan meningkat signifikan lewat program pembenahan desa nelayan yang dinilainya selama ini belum terurus, dengan target 1.300 desa nelayan baru.",
+  "takeaway": "Program desa nelayan berdampak langsung pada pendapatan masyarakat pesisir, indikator penting bagi ekonomi kerakyatan.",
+  "terbit": "2026-09-16T16:41:55+00:00"
+ },
+ {
+  "id": "NhmwFIVUnr8",
+  "title": "Presiden Prabowo Optimistis BUMN Cetak Untung",
+  "category": "BUMN",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo Subianto menyatakan optimistis kinerja BUMN mencatatkan hasil positif, meski menyoroti pengelolaan sumber keuangan negara yang menurutnya masih perlu dirapikan.",
+  "takeaway": "Pernyataan ini menjadi sinyal arah kebijakan pemerintah terhadap tata kelola dan profitabilitas perusahaan pelat merah.",
+  "terbit": "2026-09-16T15:50:39+00:00"
+ },
+ {
+  "id": "jxq333mWj0s",
+  "title": "Pemerintahan Presiden Prabowo Hemat APBN Rp306 Triliun",
+  "category": "Makroekonomi",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo Subianto memaparkan rincian penghematan anggaran negara yang disebutnya telah mencapai Rp306 triliun sejak pemerintahannya berjalan.",
+  "takeaway": "Efisiensi APBN berkaitan langsung dengan ruang fiskal pemerintah dan menjadi indikator yang dicermati pelaku pasar.",
+  "terbit": "2026-09-16T15:16:16+00:00"
+ },
+ {
+  "id": "KDTdApw0VXo",
+  "title": "Presiden Prabowo: Rasio Utang Indonesia Terendah di Dunia",
+  "category": "Makroekonomi",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo Subianto menilai kondisi ekonomi Indonesia dalam keadaan baik, dengan rasio utang yang disebutnya termasuk paling rendah di dunia.",
+  "takeaway": "Klaim soal rasio utang penting dicermati investor karena berkaitan dengan persepsi risiko fiskal dan kepercayaan pasar.",
+  "terbit": "2026-09-16T14:55:18+00:00"
+ },
+ {
+  "id": "zCRUqe4tatY",
+  "title": "Presiden Prabowo: 2,7 Juta Lapangan Kerja Baru pada 2025",
+  "category": "Ketenagakerjaan",
+  "program": "Presiden Prabowo Menjawab",
+  "summary": "Presiden Prabowo Subianto mengklaim pemerintahannya berhasil membuka 2,7 juta lapangan pekerjaan baru sepanjang 2025.",
+  "takeaway": "Data penyerapan tenaga kerja menjadi acuan untuk menilai efektivitas kebijakan ekonomi pemerintah terhadap pengangguran.",
+  "terbit": "2026-09-16T14:53:00+00:00"
+ },
+ {
   "id": "ExKj1Ots1Qk",
   "title": "Menkeu Baru Dilantik, Ekspektasi Kinerja Dipertanyakan",
   "category": "Makroekonomi",

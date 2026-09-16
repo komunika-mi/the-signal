@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "taspen-dorong-mahasiswa-usu-rencanakan-pensiun-sejak-dini",
+  "category": "BUMN",
+  "title": "TASPEN Dorong Mahasiswa USU [Rencanakan] Pensiun Sejak Dini",
+  "deck": "TASPEN gandeng USU gelar edukasi keuangan bagi seribu mahasiswa dan teken MoU kepesertaan TASPEN Group, bagian kampanye literasi dana pensiun nasional OJK 2026.",
+  "date": "16 September 2026",
+  "image": "assets/img/taspen-dorong-mahasiswa-usu-rencanakan-pensiun-sejak-dini.jpg",
+  "imageV": "mu4czdt2",
+  "tags": [
+   "TASPEN",
+   "dana pensiun",
+   "literasi keuangan",
+   "USU"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467581-taspen-goes-to-campus-dorong-generasi-muda-siapkan-kesejahteraan-finansial-sejak-dini"
+ },
+ {
   "slug": "ppgl-bagikan-saham-bonus-rasio-6-4-dari-agio-ipo",
   "category": "Aksi Korporasi",
   "title": "PPGL Bagikan [Saham Bonus] Rasio 6:4 dari Agio IPO",
@@ -51,6 +68,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aa712ca9ab_82d2c128a2.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "djp-evaluasi-ulang-ratusan-pejabat-era-purbaya",
+  "category": "Makroekonomi",
+  "title": "DJP [Evaluasi] Ulang Ratusan Pejabat Era Purbaya",
+  "deck": "Ditjen Pajak mengecek ulang ratusan pejabat yang dilantik Purbaya Yudhi Sadewa saat menjabat Menkeu; yang tak lolos penilaian kompetensi dikembalikan ke jabatan lama.",
+  "date": "16 September 2026",
+  "image": "assets/img/djp-evaluasi-ulang-ratusan-pejabat-era-purbaya.jpg",
+  "imageV": "mu4czeac",
+  "tags": [
+   "Kemenkeu",
+   "Purbaya Yudhi Sadewa",
+   "Ditjen Pajak",
+   "Mutasi Pejabat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467544-begini-nasib-ratusan-pejabat-yang-dilantik-purbaya-saat-jadi-menkeu"
  },
  {
   "slug": "klbf-margin-diprediksi-tertekan-hingga-semester-ii-2026",
@@ -6473,37 +6507,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466045-perkuat-tata-kelola-dana-bergulir-lpdb-koperasi-dorong-mitigasi-risiko-hingga-kepastian-hukum"
- },
- {
-  "slug": "bafi-lunasi-obligasi-rp458-miliar-setop-tercatat-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "BAFI [Lunasi] Obligasi Rp458 Miliar, Setop Tercatat di BEI",
-  "deck": "BAFI melunasi pokok Rp458 miliar dan bunga terakhir Rp7,44 miliar Obligasi Berkelanjutan II Tahap IV pada 8 September 2026, efek ini berhenti diperdagangkan di BEI mulai 9 September.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAFI",
-   "obligasi",
-   "pelunasan utang",
-   "pembiayaan kendaraan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f7671ec8b4_aa4a2d015f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-lopi-anjlok-9-6-pengendali-kurangi-porsi-volatilitas",
-  "category": "Aksi Korporasi",
-  "title": "Saham LOPI Anjlok 9,6%, Pengendali Kurangi Porsi [volatilitas]",
-  "deck": "LOPI menjelaskan ke BEI setelah sahamnya ambruk 9,59% dan volume transaksi melonjak empat kali lipat pada 4 September 2026, seiring pengendali menjual sebagian sahamnya.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LOPI",
-   "volatilitas saham",
-   "pemegang saham pengendali",
-   "aksi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5a952f430_139e550a73.pdf",
-  "sourceLabel": "IDX"
  }
 ];

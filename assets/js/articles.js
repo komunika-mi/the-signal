@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bcic-ungkap-free-float-baru-13-74-syarat-bursa-15",
+  "category": "Aksi Korporasi",
+  "title": "BCIC Ungkap Free Float Baru 13,74%, Syarat Bursa [15%]",
+  "deck": "Bank JTrust Indonesia menjelaskan ke Bursa bahwa porsi saham publiknya baru 13,74% per akhir Agustus 2026, masih di bawah batas minimum 15% yang diwajibkan aturan bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T13:15:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c91f97aab1_597b6f5f12.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BCIC",
+  "tags": [
+   "BCIC",
+   "free float",
+   "Bank JTrust Indonesia",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bank JTrust Indonesia Tbk (BCIC) mengirim surat penjelasan kepada Bursa Efek Indonesia tertanggal 15 September 2026, menanggapi surat BEI Nomor S-11802/BEI.PP3/09-2026 perihal permintaan penjelasan atas rencana pemenuhan ketentuan minimum free float, yakni porsi saham yang dipegang publik. Surat BEI itu diterima perseroan pada 10 September 2026 pukul 18.03 WIB lewat sistem pelaporan elektronik SPE-IDXnet, terkait kewajiban free float minimum 15% sesuai Ketentuan V.1.1 Peraturan Bursa Nomor I-A.",
+   "Menurut catatan administrasi bank, free float BCIC berada di atas 7,5%, tepatnya 7,75%, sejak Oktober 2025. Angka ini naik menjadi 12,56% per 30 Juni 2026, lalu menjadi 13,74% per akhir Agustus 2026, namun tetap di bawah ambang 15% yang disyaratkan Bursa. Manajemen menyebut dua kendala utama: kondisi pasar modal yang masih diwarnai sikap menunggu dari pelaku pasar terhadap sektor perbankan, sehingga bank berhati-hati memilih waktu dan harga pelepasan saham agar tidak menekan harga dan merugikan pemegang saham publik yang sudah ada; serta efek dilusi dari penambahan modal pada 2022, saat pemegang saham utama menyuntikkan Dana Setoran Modal untuk memenuhi ketentuan modal minimum Rp3 triliun dari OJK, sementara pemegang saham publik tidak sepenuhnya mengambil haknya dalam rights issue saat itu sehingga porsi kepemilikan publik tergerus.",
+   "Untuk mengejar syarat 15%, manajemen menyatakan akan menjaga momentum kenaikan lewat komunikasi intensif dengan pelaku pasar dan calon investor strategis, memasukkan skenario pemenuhan free float ke dalam Rencana Bisnis Bank 2027-2029, serta menjajaki masuknya investor strategis baik secara langsung maupun lewat rights issue. Bank juga meminta kelonggaran waktu dari Bursa agar realisasi rencana ini bisa dieksekusi secara optimal, dengan alasan perlu menyeimbangkan kepatuhan aturan pasar modal dan kewajiban permodalan dari OJK. Surat ini dikirim oleh Hendy Deiny Wong selaku Corporate Secretary Division Head, dan menurut dokumen ditandatangani dua direktur bank yang tercatat sebagai Helmi A. Hidayat dan Felix I. Hartadi."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise bank office building in Jakarta's business district, glass facade, evening traffic below.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik BCIC, karena inti pesannya adalah bank masih belum memenuhi syarat minimum free float 15% dan meminta kelonggaran waktu dari Bursa, bukan memberi solusi konkret dengan tenggat pasti. Yang tersentuh di sini adalah jumlah saham beredar di tangan publik, ukuran yang dipakai Bursa untuk memastikan saham cukup mudah diperjualbelikan dan tidak dikuasai segelintir pihak. Kalau rencana bank menggaet investor strategis lewat rights issue benar dijalankan, saham baru yang terbit berpotensi menambah jumlah saham beredar dan mendilusi laba per saham milik pemegang saham lama jika mereka tidak ikut mengambil haknya, seperti yang sudah pernah terjadi pada 2022. Sisi positifnya, tren free float memang naik bertahap dari 7,75% menjadi 12,56% lalu 13,74% dalam setahun terakhir, jadi bukan kondisi yang stagnan. Yang perlu dipantau berikutnya adalah respons Bursa atas permintaan kelonggaran waktu ini serta realisasi rencana investor strategis dan rights issue yang disebut bank, sebab dokumen ini sendiri tidak mencantumkan tenggat baru yang pasti untuk mencapai syarat 15% free float.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "idea-gelar-rupslb-23-oktober-dps-30-september",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Gelar [RUPSLB] 23 Oktober, DPS 30 September",
+  "deck": "PT Idea Indonesia Akademi Tbk akan menggelar RUPSLB pada 23 Oktober 2026. Pemegang saham yang tercatat hingga 30 September 2026 berhak hadir, agenda rapat baru diumumkan 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T12:14:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a106de941b_85b315d593.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDEA",
+  "tags": [
+   "IDEA",
+   "RUPSLB",
+   "pasar modal",
+   "corporate action"
+  ],
+  "body": [
+   "PT Idea Indonesia Akademi Tbk (IDEA) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 23 Oktober 2026 pukul 13.30 WIB, bertempat di Aleesha Venue, Jalan Warung Sila No. 1, Cipedak, Kecamatan Jagakarsa, Jakarta Selatan. Perseroan menetapkan bahwa pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada penutupan perdagangan di Bursa Efek Indonesia pada Rabu, 30 September 2026.",
+   "Pemanggilan resmi rapat, yang akan memuat mata acara atau agenda RUPSLB secara rinci, dijadwalkan dilakukan pada Kamis, 1 Oktober 2026 melalui situs web KSEI (eASY.KSEI), situs Bursa Efek Indonesia, dan situs resmi perusahaan. Dokumen ini sendiri belum mencantumkan agenda rapat, karena baru berisi pemberitahuan awal sesuai ketentuan Otoritas Jasa Keuangan.",
+   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat mengikuti Pasal 16 Peraturan OJK Nomor 15/POJK.04/2020 tentang Rencana dan Penyelenggaraan RUPS Perusahaan Terbuka. Usulan tersebut harus sudah diterima secara tertulis oleh Direksi Perseroan paling lambat tujuh hari sebelum tanggal pemanggilan rapat, yakni sekitar 24 September 2026. Surat pemberitahuan ini ditandatangani secara elektronik oleh Corporate Secretary IDEA, Yusuf Nur Fauzan, pada 16 September 2026, merujuk pada surat sebelumnya bernomor 01.198/AG/SPK/IIA/IX/2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a modern conference hall ahead of a corporate meeting, soft morning light in Jakarta",
+  "takeaway": "Laporan ini netral bagi IDEA karena baru mengatur jadwal dan mekanisme, bukan keputusan finansial apa pun; agenda RUPSLB belum diumumkan sehingga pelaku pasar belum bisa menilai dampaknya terhadap kinerja perusahaan. RUPSLB sendiri adalah forum tertinggi pemegang saham untuk memutuskan hal-hal besar seperti perubahan modal, pergantian direksi atau komisaris, atau aksi korporasi lain yang bisa mengubah jumlah saham beredar dan ekuitas perseroan, sehingga agenda yang nanti muncul di pemanggilan resmi patut dicermati. Yang perlu dipantau berikutnya adalah pemanggilan resmi pada Kamis, 1 Oktober 2026, yang baru akan mengungkap mata acara sesungguhnya; pemegang saham yang ingin mengusulkan agenda harus menyampaikannya tertulis ke direksi paling lambat sekitar 24 September 2026, sebelum RUPSLB digelar pada 23 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ri-kanada-genjot-implementasi-ica-cepa-akhir-2026",
   "category": "Global",
   "title": "RI-Kanada Genjot [Implementasi] ICA-CEPA Akhir 2026",
@@ -57,6 +109,84 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Angka yang diumumkan, Rp51 triliun MoU baru dan total Rp88,1 triliun sejak program ini dimulai, adalah nilai komitmen di atas kertas, bukan investasi yang sudah benar-benar masuk ke Indonesia. MoU semacam ini adalah nota kesepahaman awal, bukan kontrak yang mengikat, sehingga nilainya bisa berubah atau bahkan tidak pernah terealisasi. Yang terkena dampak langsung adalah pengelola tiga kawasan industri yang disebut, yaitu KEK Industropolis Batang, KEK Tanjung Lesung, dan Bintan Industrial Estate, karena merekalah yang harus mengubah minat investor Tiongkok itu menjadi pabrik yang benar-benar berdiri. Siaran pers ini tidak menyebutkan berapa dari Rp37,1 triliun komitmen sebelumnya yang sudah terealisasi jadi proyek berjalan, sehingga arah sebenarnya baru bisa dibaca dari laporan realisasi investasi triwulanan Kementerian Investasi/BKPM, yang akan menunjukkan apakah komitmen Xiamen ini berakhir sebagai proyek nyata atau sekadar daftar MoU yang terus menumpuk.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "ikpm-koreksi-laporan-dana-ipo-capex-baru-76-rencana",
+  "category": "Aksi Korporasi",
+  "title": "IKPM Koreksi Laporan Dana IPO, [Capex] Baru 76% Rencana",
+  "deck": "PT Ikapharmindo Putramas Tbk mengoreksi laporan realisasi dana IPO per 30 Juni 2026. Sisa Rp2,07 miliar dana belanja modal masih mengendap di rekening giro tanpa bunga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T11:57:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12c4e1d6e8_f7e4d4a151.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IKPM",
+  "tags": [
+   "IKPM",
+   "penggunaan dana IPO",
+   "belanja modal",
+   "OJK"
+  ],
+  "body": [
+   "PT Ikapharmindo Putramas Tbk (IKPM) menyampaikan koreksi atas Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum per 30 Juni 2026 kepada Otoritas Jasa Keuangan (OJK). Koreksi ini merujuk pada surat OJK Nomor S-2113/PM.221/2026 tanggal 4 September 2026, dan ditandatangani oleh Direktur sekaligus Corporate Secretary Ayi Saepudin pada 16 September 2026. Dari IPO saham yang efektif pada 8 November 2023, perseroan meraih dana Rp55,59 miliar, dipotong biaya penawaran umum Rp3,18 miliar sehingga dana bersih yang bisa dipakai adalah Rp52,41 miliar.",
+   "Sesuai prospektus, dana bersih itu direncanakan untuk dua pos: Rp8,73 miliar atau 16,66 persen untuk belanja barang modal dan mesin, serta Rp43,68 miliar atau 83,34 persen untuk modal kerja. Hingga 30 Juni 2026, realisasi belanja modal dan mesin baru mencapai Rp6,66 miliar atau 12,71 persen dari dana bersih, sementara modal kerja sudah terpakai penuh sesuai rencana sebesar Rp43,68 miliar. Total dana yang sudah terealisasi Rp50,34 miliar, menyisakan Rp2,07 miliar yang seluruhnya berasal dari anggaran belanja modal yang belum habis dipakai. Sisa dana ini disimpan di rekening giro Bank OCBC NISP dengan bunga 0 persen, dan bank tersebut berstatus pihak ketiga alias tidak berafiliasi dengan perseroan.",
+   "Perseroan juga merinci komponen biaya penawaran umum sebesar Rp3,18 miliar. Porsi terbesar adalah biaya jasa penyelenggaraan atau management fee Rp1,44 miliar (45,35 persen), disusul biaya jasa profesi penunjang pasar modal Rp749,95 juta (23,55 persen), biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi Rp326,23 juta (10,24 persen), biaya jasa penjaminan dan biaya jasa penjualan masing-masing Rp277,97 juta (8,73 persen), serta biaya jasa lembaga penunjang pasar modal Rp108,18 juta (3,4 persen). Tidak ada biaya jasa konsultasi keuangan yang dikeluarkan dalam proses ini."
+  ],
+  "fotoAdegan": "Technicians in white coats inspecting stainless steel pharmaceutical processing machinery on a factory floor, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi kinerja IKPM, karena dana yang belum terpakai hanya sekitar 4 persen dari total dana bersih hasil IPO dan seluruhnya berasal dari anggaran belanja modal yang belum habis, bukan penyimpangan dari rencana modal kerja yang sudah terealisasi penuh. Pos yang tersentuh adalah belanja modal, yaitu dana untuk membeli mesin dan peralatan produksi, yang baru terealisasi Rp6,66 miliar dari rencana Rp8,73 miliar sehingga sisa Rp2,07 miliar mengendap di rekening giro tanpa bunga dan untuk sementara tidak menambah kapasitas produksi maupun menghasilkan imbal hasil bagi perusahaan. Hampir tiga tahun sejak IPO efektif pada November 2023, belum tuntasnya belanja mesin ini menandakan perluasan kapasitas berjalan lebih lambat dari rencana awal di prospektus. Yang perlu dipantau berikutnya adalah laporan penggunaan dana periode selanjutnya, untuk melihat apakah sisa Rp2,07 miliar itu akhirnya terpakai untuk belanja modal seperti rencana awal, terlebih laporan ini sendiri merupakan koreksi yang dipicu oleh surat OJK tertanggal 4 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fitch-turunkan-peringkat-post-ke-c-idn-usai-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "Fitch [Turunkan] Peringkat POST ke C(idn) usai Gagal Bayar",
+  "deck": "Fitch menurunkan peringkat Pos Indonesia dan tujuh obligasi/sukuknya senilai Rp1,9 triliun menjadi C(idn) setelah emiten gagal bayar imbalan ijarah yang jatuh tempo 28 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T11:49:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1c018982e_85e00a6b5d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "Fitch Ratings",
+   "gagal bayar sukuk"
+  ],
+  "body": [
+   "PT Fitch Ratings Indonesia menerbitkan surat bernomor 166/DIR/RATLTR/IX/2026 tertanggal 1 September 2026, yang diterima Pos Indonesia pada 2 September dan dipublikasikan pada tanggal yang sama. Fitch menurunkan peringkat nasional jangka panjang PT Pos Indonesia (Persero) menjadi 'C(idn)' dari sebelumnya 'CC(idn)', sementara peringkat nasional jangka pendek diafirmasi di 'C(idn)'. Penurunan serupa juga berlaku untuk Program Sukuk Ijarah Berkelanjutan I Pos Indonesia dengan pagu maksimum Rp1,5 triliun, untuk Sukuk Ijarah Berkelanjutan I Tahap I dan Tahap II, serta untuk Obligasi I Pos Indonesia Tahun 2022.",
+   "Tujuh instrumen utang yang terdampak beserta nilai pokok dan jatuh temponya adalah Obligasi I Pos Indonesia Tahun 2022 Seri B senilai Rp400 miliar (jatuh tempo 28 Desember 2027), Sukuk Ijarah Berkelanjutan I Tahap I Seri A Rp100 miliar (8 Januari 2028), Seri B Rp750 miliar (8 Januari 2030), Seri C Rp150 miliar (8 Januari 2032), Sukuk Ijarah Berkelanjutan I Tahap II Seri A Rp150 miliar (28 Mei 2028), Seri B Rp100 miliar (28 Mei 2030), dan Seri C Rp250 miliar (28 Mei 2032). Total nilai pokok yang peringkatnya diturunkan mencapai Rp1,9 triliun.",
+   "Fitch menyebut penyebab penurunan ini adalah kegagalan Pos Indonesia membayar cicilan imbalan ijarah atas sukuk tahap kedua yang jatuh tempo pada 28 Agustus 2026, yang membuat perusahaan memasuki masa tenggang selama 14 hari kerja sejak 1 September 2026. Dalam definisi Fitch, peringkat nasional 'C' menandakan gagal bayar atau proses yang menyerupai gagal bayar telah terjadi, sedangkan peringkat jangka pendek 'C' mencerminkan kapasitas yang sangat tidak pasti untuk membayar kewajiban keuangan tepat waktu. Surat peringkat ditandatangani Direktur PT Fitch Ratings Indonesia, Olly Prayudi, ditujukan kepada Direktur Utama Pos Indonesia, M. Iskandar Kunaefi, dan laporan keterbukaan informasinya ditandatangani Corporate Secretary Pos Indonesia, Iwan Gunawan."
+  ],
+  "fotoAdegan": "Postal delivery trucks parked in a depot yard at dusk, workers loading parcels, industrial Indonesian logistics setting",
+  "takeaway": "Laporan ini jelas negatif bagi Pos Indonesia, karena penurunan peringkat menjadi C(idn) dipicu oleh kegagalan nyata membayar kewajiban ijarah, bukan sekadar proyeksi risiko, dan menegaskan tekanan likuiditas yang sudah disinggung dalam laporan sebelumnya soal penundaan bagi hasil sukuk. Yang tersentuh adalah arus kas perusahaan, yakni uang tunai yang seharusnya tersedia untuk membayar kewajiban rutin, karena ketidakmampuan membayar cicilan imbalan tepat waktu inilah yang memicu penurunan peringkat sekaligus berpotensi membuat biaya pinjaman Pos Indonesia ke depan lebih mahal. Peringkat yang lebih rendah juga membuat obligasi dan sukuk perusahaan makin sulit diserap pasar tanpa imbal hasil yang lebih tinggi. Yang perlu dipantau adalah apakah Pos Indonesia berhasil melunasi cicilan imbalan ijarah dalam masa tenggang 14 hari kerja sejak 1 September 2026, sebab jika tenggat itu terlewati tanpa pembayaran, statusnya bisa berubah dari indikasi gagal bayar menjadi gagal bayar penuh.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nawasena-incar-66-58-saham-pengendali-idea",
+  "category": "Aksi Korporasi",
+  "title": "Nawasena Incar 66,58% Saham [Pengendali] IDEA",
+  "deck": "PT Nawasena Nugra Investama berencana mengambil alih 707,3 juta saham atau 66,58% saham IDEA dari Eko Desriyanto dan PT Idea Asia Investama, membuka jalan penawaran tender wajib.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T11:14:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/63c379c4d8_9cc64b14ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDEA",
+  "tags": [
+   "IDEA",
+   "akuisisi",
+   "pengambilalihan",
+   "tender offer"
+  ],
+  "body": [
+   "PT Idea Indonesia Akademi Tbk (IDEA) menyampaikan keterbukaan informasi bahwa PT Nawasena Nugra Investama berencana mengambil alih 707.322.700 saham Perseroan, setara 66,58 persen dari total modal ditempatkan dan disetor penuh. Saham tersebut saat ini dimiliki oleh Eko Desriyanto, yang juga menjabat Direktur Utama IDEA, dan PT Idea Asia Investama, selaku pemegang saham pengendali Perseroan. Rencana ini diumumkan menyusul surat PT Nawasena Nugra Investama tertanggal 16 September 2026, dengan tanggal kejadian yang tercatat 14 September 2026.",
+   "Kedua pihak masih dalam tahap negosiasi. Nilai akhir transaksi dan jadwal penyelesaian rencana pengambilalihan belum disepakati secara final. Sampai tanggal pengumuman ini, PT Nawasena Nugra Investama belum memiliki satu pun saham IDEA, baik secara langsung maupun tidak langsung. Setelah transaksi rampung, Nawasena akan menjadi pengendali baru IDEA dan selanjutnya wajib melaksanakan Penawaran Tender Wajib kepada pemegang saham publik lainnya, sesuai Peraturan OJK No. 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka.",
+   "PT Nawasena Nugra Investama merupakan perusahaan holding yang berkedudukan di Jakarta Selatan. Dalam suratnya, Nawasena menyatakan rencana pengambilalihan ini ditujukan untuk mendukung ekspansi dan pengembangan usaha melalui IDEA, emiten yang bergerak di bidang akademi pendidikan dan pelatihan perhotelan, kapal pesiar, tata boga, dan restoran. Perseroan sendiri menyatakan informasi ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya saat ini."
+  ],
+  "fotoAdegan": "Students in white culinary uniforms practicing plating techniques in a hotel management training kitchen, stainless steel counters, morning light",
+  "takeaway": "Laporan ini netral bagi fundamental IDEA karena statusnya baru negosiasi awal dan transaksi ini adalah jual beli saham antar pemegang saham lama dengan calon pembeli baru, bukan setoran dana segar ke kas perusahaan. Yang tersentuh dari peristiwa ini adalah komposisi pemegang saham pengendali dan hak suara, bukan pos-pos di laporan keuangan seperti ekuitas atau arus kas, sebab jumlah saham beredar IDEA tidak berubah, hanya kepemilikannya yang berpindah tangan. Yang perlu dipantau berikutnya adalah kesepakatan nilai akhir transaksi dan jadwal penyelesaian yang menurut surat Nawasena belum final, serta pelaksanaan Penawaran Tender Wajib setelah pengambilalihan rampung, yang akan memberi kesempatan bagi pemegang saham publik IDEA untuk melepas saham mereka ke pengendali baru.",
+  "sentimen": "netral"
  },
  {
   "slug": "psgo-jelaskan-rencana-penuhi-syarat-free-float-ke-bei",

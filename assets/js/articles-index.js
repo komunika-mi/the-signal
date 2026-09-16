@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bcic-ungkap-free-float-baru-13-74-syarat-bursa-15",
+  "category": "Aksi Korporasi",
+  "title": "BCIC Ungkap Free Float Baru 13,74%, Syarat Bursa [15%]",
+  "deck": "Bank JTrust Indonesia menjelaskan ke Bursa bahwa porsi saham publiknya baru 13,74% per akhir Agustus 2026, masih di bawah batas minimum 15% yang diwajibkan aturan bursa.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BCIC",
+   "free float",
+   "Bank JTrust Indonesia",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c91f97aab1_597b6f5f12.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "idea-gelar-rupslb-23-oktober-dps-30-september",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Gelar [RUPSLB] 23 Oktober, DPS 30 September",
+  "deck": "PT Idea Indonesia Akademi Tbk akan menggelar RUPSLB pada 23 Oktober 2026. Pemegang saham yang tercatat hingga 30 September 2026 berhak hadir, agenda rapat baru diumumkan 1 Oktober 2026.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDEA",
+   "RUPSLB",
+   "pasar modal",
+   "corporate action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a106de941b_85b315d593.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-kanada-genjot-implementasi-ica-cepa-akhir-2026",
   "category": "Global",
   "title": "RI-Kanada Genjot [Implementasi] ICA-CEPA Akhir 2026",
@@ -35,6 +67,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7097/indonesia-dan-tiongkok-perkuat-kerja-sama-investasi-melalui-chinaindonesia-two-countries-twin-parks-investment-promotion-conference",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ikpm-koreksi-laporan-dana-ipo-capex-baru-76-rencana",
+  "category": "Aksi Korporasi",
+  "title": "IKPM Koreksi Laporan Dana IPO, [Capex] Baru 76% Rencana",
+  "deck": "PT Ikapharmindo Putramas Tbk mengoreksi laporan realisasi dana IPO per 30 Juni 2026. Sisa Rp2,07 miliar dana belanja modal masih mengendap di rekening giro tanpa bunga.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IKPM",
+   "penggunaan dana IPO",
+   "belanja modal",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12c4e1d6e8_f7e4d4a151.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fitch-turunkan-peringkat-post-ke-c-idn-usai-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "Fitch [Turunkan] Peringkat POST ke C(idn) usai Gagal Bayar",
+  "deck": "Fitch menurunkan peringkat Pos Indonesia dan tujuh obligasi/sukuknya senilai Rp1,9 triliun menjadi C(idn) setelah emiten gagal bayar imbalan ijarah yang jatuh tempo 28 Agustus 2026.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "Fitch Ratings",
+   "gagal bayar sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1c018982e_85e00a6b5d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nawasena-incar-66-58-saham-pengendali-idea",
+  "category": "Aksi Korporasi",
+  "title": "Nawasena Incar 66,58% Saham [Pengendali] IDEA",
+  "deck": "PT Nawasena Nugra Investama berencana mengambil alih 707,3 juta saham atau 66,58% saham IDEA dari Eko Desriyanto dan PT Idea Asia Investama, membuka jalan penawaran tender wajib.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDEA",
+   "akuisisi",
+   "pengambilalihan",
+   "tender offer"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/63c379c4d8_9cc64b14ff.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "psgo-jelaskan-rencana-penuhi-syarat-free-float-ke-bei",
@@ -6414,86 +6494,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465894-rupiah-menguat-ke-rp17590-per-dolar-as-usai-rilis-cadangan-devisa-agustus-2026"
- },
- {
-  "slug": "saham-sure-bergejolak-manajemen-klaim-tak-ada-informasi-material",
-  "category": "Aksi Korporasi",
-  "title": "Saham SURE Bergejolak, Manajemen Klaim Tak Ada Informasi [Material]",
-  "deck": "Merespons permintaan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, Super Energy Tbk (SURE) menyatakan tidak mengetahui informasi material maupun rencana aksi korporasi yang memicunya.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SURE",
-   "Super Energy Tbk",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b32a521ead_611cb7d48a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-menguat-coba-tembus-resistance-6-700-saat-wall-street-anjlok",
-  "category": "Pasar Modal",
-  "title": "IHSG Menguat, Coba Tembus [Resistance] 6.700 saat Wall Street Anjlok",
-  "deck": "IHSG dibuka menguat tipis ke 6.699 dan menguji level resistance 6.700, di tengah bursa Asia yang beragam dan Wall Street yang melemah akibat aksi jual saham software global.",
-  "date": "9 September 2026",
-  "image": "assets/img/ihsg-menguat-coba-tembus-resistance-6-700-saat-wall-street-anjlok.jpg",
-  "imageV": "mttm7w15",
-  "tags": [
-   "IHSG",
-   "bursa saham",
-   "Wall Street",
-   "suku bunga The Fed"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465891-ihsg-dibuka-menguat-pada-perdagangan-9-september-2026-siap-break-resistance-saat-bursa-asia-variatif-dan-wall-street-anjlok"
- },
- {
-  "slug": "wika-gagal-bayar-obligasi-suspensi-saham-berlanjut",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Gagal Bayar] Obligasi, Suspensi Saham Berlanjut",
-  "deck": "BEI melanjutkan suspensi saham WIKA di seluruh pasar setelah Perseroan menunda pembayaran pokok, bunga obligasi, dan bagi hasil sukuk mudharabah yang jatuh tempo 8 September 2026.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "obligasi",
-   "suspensi saham",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05235d4f68_a1c2e422ab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "itma-tak-ada-info-material-bipi-belum-ubah-saham",
-  "category": "Aksi Korporasi",
-  "title": "ITMA: Tak Ada Info Material, [BIPI] Belum Ubah Saham",
-  "deck": "ITMA menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, memastikan tak ada info material dan pemegang saham utama BIPI belum berencana mengubah kepemilikan saham.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ITMA",
-   "BIPI",
-   "volatilitas transaksi",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/822c711101_3bfb28cdd8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgl-lepas-anak-usaha-aset-susut-87-9-persen",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Lepas Anak Usaha, [Aset] Susut 87,9 Persen",
-  "deck": "Prima Globalindo Logistik melaporkan total aset dan liabilitas anjlok lebih dari 80 persen pada semester I 2026, dipicu pelepasan saham anak usaha bernama JAYA.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "laporan keuangan",
-   "divestasi",
-   "logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260909074451-64380-0/FinancialStatement-2026-II-PPGL.pdf",
-  "sourceLabel": "IDX"
  }
 ];

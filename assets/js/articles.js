@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "psgo-jelaskan-rencana-penuhi-syarat-free-float-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "PSGO Jelaskan Rencana Penuhi Syarat [Free Float] ke BEI",
+  "deck": "PSGO menanggapi surat Bursa soal rencana pemenuhan saham beredar bebas minimum, dengan tenggat 31 Maret 2029 setelah pengendali melepas 308,6 juta saham sepanjang 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T10:53:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce4799d4e2_1b3804335c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSGO",
+  "tags": [
+   "PSGO",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "PT Palma Serasih Tbk (PSGO) mengirim surat tanggapan kepada Bursa Efek Indonesia atas permintaan penjelasan bernomor S-11844/BEI.PP3/09-2026 mengenai rencana pemenuhan ketentuan minimum saham beredar bebas atau free float. Dalam surat bertanggal 14 September 2026 itu, perusahaan menyebut dasar aturannya adalah Ketentuan V.1.1 dan Butir 3.a.2 Peraturan I-A yang diubah lewat Surat Keputusan Direksi BEI Nomor Kep-00045/BEI/03-2026, dengan batas waktu pemenuhan pada 31 Maret 2029.",
+   "PSGO menjelaskan bahwa pemegang saham pengendali perusahaan telah melepas saham dengan total 308.643.400 lembar sepanjang tahun 2026 hingga saat ini, sebagai bagian dari upaya bertahap memenuhi syarat minimum tersebut. Pelepasan saham itu disebut telah dilaporkan melalui sistem Acuan Kepemilikan Sekuritas KSEI (AKSes KSEI) dan Sistem Pelaporan Elektronik Terintegrasi Emiten dan Perusahaan Publik (SPE-IDXNet) sesuai ketentuan OJK dan BEI yang berlaku.",
+   "Ke depan, PSGO dan pengendali menyatakan akan melanjutkan mekanisme divestasi bertahap kepada investor prospektif sambil memperhatikan kondisi pasar modal, dengan target pemenuhan sebelum tenggat 31 Maret 2029. Perusahaan juga menyampaikan harapan agar BEI terus memberikan sosialisasi aturan, pemantauan berkala, serta ruang konsultasi terkait kebijakan minimum free float. Surat ini ditandatangani oleh Astrida Niovita Bachtiar selaku Direktur sekaligus Sekretaris Perusahaan PSGO."
+  ],
+  "fotoAdegan": "Workers loading fresh palm oil fruit bunches onto a truck at a rural plantation collection point in Indonesia, midday light",
+  "takeaway": "Laporan ini netral bagi fundamental PSGO karena isinya sebatas kepatuhan administratif ke bursa, bukan transaksi yang mengubah pendapatan atau utang perusahaan. Yang tersentuh adalah struktur kepemilikan dan likuiditas saham: free float adalah porsi saham yang dipegang publik di luar pengendali dan afiliasinya, dan bursa mewajibkan porsi minimum supaya saham tidak macet diperdagangkan karena mayoritas dikuasai segelintir pihak. Sejauh ini pengendali PSGO sudah melepas 308.643.400 lembar saham sepanjang 2026, tapi perusahaan belum menyebut berapa persen dari syarat minimum yang sudah tercapai lewat pelepasan itu. Yang perlu dipantau selanjutnya adalah kelanjutan pelepasan saham secara bertahap oleh pengendali serta apakah PSGO bisa memenuhi ketentuan minimum free float sebelum tenggat yang ditetapkan bursa pada 31 Maret 2029.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dada-panggil-rupst-ketiga-usai-kuorum-gagal-dua-kali",
+  "category": "Aksi Korporasi",
+  "title": "DADA Panggil RUPST Ketiga usai [Kuorum] Gagal Dua Kali",
+  "deck": "PT Diamond Citra Propertindo menggelar RUPST ketiga pada 24 September 2026 setelah rapat kedua pada Juli lalu gagal mencapai kuorum kehadiran pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T09:46:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd9a3293e8_1175719ecc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DADA",
+  "tags": [
+   "DADA",
+   "RUPST",
+   "kuorum",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Diamond Citra Propertindo Tbk (DADA) akan menyelenggarakan Rapat Umum Pemegang Saham Tahunan (RUPST) untuk ketiga kalinya pada Kamis, 24 September 2026 pukul 10.00 WIB di DAVE Apartment, Jl. Palakali, Kukusan, Kecamatan Beji, Kota Depok. Pemanggilan ini dilakukan setelah RUPST kedua yang digelar pada 16 Juli 2026 tidak memenuhi syarat kuorum sebagaimana diatur dalam Anggaran Dasar perseroan dan aturan Otoritas Jasa Keuangan.",
+   "Ada tiga agenda yang akan dibahas. Pertama, persetujuan Laporan Tahunan dan Laporan Keuangan untuk tahun buku yang berakhir 31 Desember 2025, termasuk pemberian pembebasan tanggung jawab hukum (acquit et de charge) kepada seluruh anggota Direksi dan Dewan Komisaris atas tindakan pengurusan dan pengawasan sepanjang 2025. Kedua, penetapan penggunaan laba rugi perseroan untuk tahun buku 2025. Ketiga, penunjukan akuntan publik yang akan mengaudit laporan keuangan perseroan untuk tahun buku yang berakhir 31 Desember 2026.",
+   "Pemegang saham yang berhak hadir atau diwakili adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan per penutupan perdagangan bursa pada 15 September 2026. Bagi yang ingin memberi kuasa secara elektronik lewat aplikasi eASY.KSEI atau secara manual lewat PT Adimitra Jasa Korpora selaku Biro Administrasi Efek, batas waktunya adalah 23 September 2026 pukul 16.00 WIB, yaitu satu hari kerja sebelum rapat digelar."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a modern conference room ahead of a corporate shareholders meeting, soft morning light",
+  "takeaway": "Laporan ini netral bagi fundamental DADA karena isinya sekadar mengatur ulang jadwal rapat tahunan, tanpa angka keuangan baru yang berubah. Yang menarik dicermati justru konteksnya: RUPST kedua pada Juli lalu gagal mencapai kuorum, artinya jumlah pemegang saham yang hadir atau memberi kuasa tidak mencukupi batas minimum yang disyaratkan Anggaran Dasar, sehingga perseroan harus mengulang panggilan untuk ketiga kalinya. Kejadian ini tidak mengubah pos-pos kinerja seperti ekuitas, laba per saham, atau arus kas perusahaan, tapi bisa jadi sinyal rendahnya partisipasi pemegang saham publik atau porsi saham beredar bebas yang tipis, hal yang biasanya diperhatikan investor karena berkaitan dengan likuiditas perdagangan saham. Yang perlu dipantau selanjutnya adalah apakah RUPST ketiga pada 24 September 2026 akhirnya berhasil mencapai kuorum, mengingat batas akhir pemberian kuasa lewat eASY.KSEI atau BAE ditutup pada 23 September 2026 pukul 16.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cash-panggil-rupslb-ubah-kegiatan-usaha-dan-dana-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "CASH panggil RUPSLB, ubah [kegiatan usaha] dan dana rights issue",
+  "deck": "Cashlez Worldwide Indonesia mengundang pemegang saham ke RUPSLB 8 Oktober 2026 untuk membahas perubahan kegiatan usaha, penggunaan dana rights issue, alamat kantor, dan susunan direksi-komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T09:44:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51b32c73f6_ce627c1918.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "RUPSLB",
+   "Cashlez",
+   "rights issue"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) mengeluarkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 16 September 2026, menyusul pemberitahuan sebelumnya tanggal 1 September 2026. Rapat akan digelar Kamis, 8 Oktober 2026 pukul 10.00 WIB di Ruang Brass Ballroom, Thamrin Nine Complex, Jakarta Pusat. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 15 September 2026, atau pemilik saldo rekening efek di KSEI pada tanggal yang sama, berhak hadir dan memberikan suara.",
+   "Dua agenda pertama saling berkaitan: perseroan membahas studi kelayakan penambahan dan perubahan kegiatan usaha sesuai aturan klasifikasi baku lapangan usaha terbaru dari Badan Pusat Statistik, lalu meminta persetujuan mengubah Anggaran Dasar Pasal 3 tentang maksud dan tujuan perusahaan. Perseroan menyebut langkah ini mengikuti aturan OJK soal transaksi material dan perubahan kegiatan usaha, artinya perubahan lini bisnis ini dianggap cukup signifikan sehingga wajib disetujui pemegang saham, bukan sekadar keputusan direksi.",
+   "Agenda ketiga meminta persetujuan mengubah rencana penggunaan dana hasil Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu I (PMHMETD I), alias rights issue, sesuai aturan OJK tentang penggunaan dana hasil penawaran umum. Dokumen ini tidak merinci ke mana dana akan dialihkan atau berapa nilainya. Agenda keempat adalah persetujuan perubahan alamat lengkap perseroan, yang menurut dokumen tidak mengubah domisili karena alamat baru tetap di Jakarta Pusat. Agenda kelima adalah persetujuan perubahan susunan direksi dan/atau komisaris, tanpa menyebut nama atau posisi yang diganti. Pemegang saham bisa memberikan kuasa elektronik lewat eASY.KSEI sejak tanggal pemanggilan ini hingga 7 Oktober 2026 pukul 12.00 WIB, sehari sebelum rapat."
+  ],
+  "fotoAdegan": "Close-up of a hand tapping a contactless card on a small payment terminal at a retail counter in Jakarta",
+  "takeaway": "Laporan ini netral bagi Cashlez, karena isinya baru mengundang rapat dan belum membuka angka konkret soal ke mana dana rights issue akan dialihkan, bisnis baru apa yang ditambahkan, atau siapa pengurus yang diganti. Pos yang tersentuh adalah rencana penggunaan kas perusahaan, karena dana hasil rights issue yang dulu dijanjikan untuk tujuan tertentu kini mau diarahkan ke tujuan lain, dan pasar biasanya ingin tahu apakah pengalihan itu karena rencana awal tidak jalan atau karena ada peluang baru yang lebih baik. Perubahan susunan direksi dan komisaris juga layak dicermati karena menentukan siapa yang mengambil keputusan bisnis ke depan. Yang perlu dipantau adalah hasil RUPSLB pada 8 Oktober 2026, terutama detail besaran dan tujuan baru dana rights issue serta nama pengurus yang diusulkan, dengan batas akhir pemberian kuasa elektronik pada 7 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mbap-free-float-baru-9-7-jauh-di-bawah-syarat-15",
+  "category": "Aksi Korporasi",
+  "title": "MBAP: [Free Float] Baru 9,7%, Jauh di Bawah Syarat 15%",
+  "deck": "MBAP melaporkan ke Bursa bahwa saham beredar bebasnya baru 9,702% dari total saham tercatat, masih jauh di bawah syarat minimum 15% dan perusahaan belum punya keputusan final soal cara memenuhinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T09:41:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/79e5388e5f_262f226a71.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBAP",
+  "tags": [
+   "MBAP",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan pencatatan"
+  ],
+  "body": [
+   "PT Mitrabara Adiperdana Tbk (MBAP) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia terkait posisi saham free float atau saham yang beredar bebas di publik, menyusul surat permintaan penjelasan dari Bursa nomor S-11720/BEI.PP1/09-2026. Berdasarkan laporan bulanan Biro Administrasi Efek per 31 Agustus 2026, saham free float MBAP tercatat 9,702 persen atau 119.069.300 saham dari total saham yang tercatat di bursa, masih di bawah syarat minimum 15 persen yang diwajibkan Ketentuan V.1.1 Peraturan Bursa Nomor I-A. Bursa sebelumnya mencatat, berdasarkan pemantauan per 30 Juni 2026, MBAP juga belum memenuhi ketentuan tersebut.",
+   "Dalam suratnya, MBAP yang ditandatangani direktur utama perseroan menyatakan pemenuhan syarat free float 15 persen akan berdampak pada perubahan struktur kepemilikan saham, sehingga perusahaan masih melakukan kajian menyeluruh untuk menentukan mekanisme yang paling sesuai. Kajian itu mencakup verifikasi komposisi kepemilikan saham, pemenuhan aspek hukum dan regulasi, dampak terhadap struktur permodalan, hingga proses persetujuan sesuai tata kelola perseroan. Sampai surat ini dibuat, perseroan menegaskan belum ada keputusan final mengenai jalan yang akan ditempuh.",
+   "Perseroan memaparkan enam langkah yang akan ditempuh: verifikasi dan rekonsiliasi data kepemilikan saham, kajian opsi mekanisme pemenuhan sesuai ketentuan pasar modal, koordinasi dengan organ perseroan serta pemegang saham utama dan pengendali, memperoleh persetujuan internal sesuai anggaran dasar, menyusun rencana pelaksanaan, dan memenuhi kewajiban keterbukaan informasi apabila mekanisme yang dipilih termasuk aksi korporasi. MBAP juga meminta dukungan Bursa berupa konsultasi teknis soal kriteria dan perhitungan free float, arahan prosedur, serta kesempatan konsultasi lanjutan setelah kajian awal perseroan rampung."
+  ],
+  "fotoAdegan": "Aerial view of a coal mining and loading terminal with conveyor belts and stacked coal piles under bright daylight",
+  "takeaway": "Laporan ini condong negatif bagi MBAP, karena saham free float perusahaan baru 9,7 persen, jauh di bawah syarat minimum 15 persen yang ditetapkan bursa, dan perseroan sendiri mengakui belum punya keputusan final soal cara memenuhinya. Yang tersentuh adalah komposisi pemegang saham publik, sebab aturan bursa mewajibkan minimal 15 persen saham dipegang oleh pihak di luar pengendali dan pemegang saham utama agar saham dianggap cukup likuid diperdagangkan; kalau nantinya MBAP memenuhi syarat ini lewat penerbitan saham baru, jumlah saham beredar bertambah dan laba per saham berpotensi terdilusi, sedangkan kalau lewat pelepasan saham milik pengendali, hak suara pengendali bisa berkurang. Yang perlu dipantau berikutnya adalah keputusan final soal mekanisme pemenuhan, yang menurut perseroan baru akan disampaikan ke bursa setelah kajian internal rampung dan mendapat persetujuan organ perusahaan, tanpa tenggat pasti yang disebutkan dalam surat ini selain batas masa transisi berdasarkan kategori ukuran perusahaan yang berlaku bagi MBAP.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "klbf-ajukan-ulang-buyback-rp500-miliar-usai-dibatalkan",
+  "category": "Aksi Korporasi",
+  "title": "KLBF Ajukan Ulang Buyback [Rp500 Miliar] Usai Dibatalkan",
+  "deck": "Kalbe Farma mengajukan kembali rencana pembelian kembali saham senilai maksimal Rp500 miliar, sehari setelah rencana serupa dengan angka sama dibatalkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T08:11:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0273d2c81_4c9fa08b78.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KLBF",
+  "tags": [
+   "KLBF",
+   "buyback saham",
+   "Kalbe Farma",
+   "pasar modal"
+  ],
+  "body": [
+   "Kalbe Farma Tbk (KLBF) mengajukan kembali rencana pembelian kembali saham (buyback) dengan skema pasar berfluktuasi signifikan, mengacu pada Surat OJK No. S-112/D.04/2026 tanggal 9 September 2026 serta POJK No. 13/2023 dan POJK No. 29/2023. Sesuai surat yang ditandatangani Corporate Secretary Maria Teresa Fabiola pada 16 September 2026, periode buyback berlangsung sejak 17 September 2026 sampai 17 Desember 2026, maksimum tiga bulan sesuai batas aturan, kecuali perseroan mengakhirinya lebih awal. Perkiraan nilai nominal saham yang dibeli kembali adalah sebesar-besarnya Rp500 miliar, dengan biaya perantara pedagang efek dan biaya lain dibatasi maksimal 0,1 persen dari nilai transaksi buyback.",
+   "Perseroan menyatakan akan membiayai buyback ini seluruhnya dari kas internal, tanpa penambahan utang. Sebagai konsekuensinya, Kalbe memperkirakan pendapatan bunga akan turun sekitar Rp8,4 miliar setelah periode buyback selesai, karena dana yang dipakai membeli saham tidak lagi mengendap sebagai simpanan berbunga. Di sisi lain, perseroan memperkirakan laba per saham proforma jika buyback dilaksanakan seluruhnya naik menjadi Rp81,44, dibandingkan laba per saham yang tercatat untuk tahun buku 2025 sebesar Rp80,51. Transaksi akan dilakukan di Bursa Efek Indonesia melalui jasa perantara pedagang efek, dengan harga yang dianggap wajar oleh perseroan sesuai ketentuan yang berlaku.",
+   "Pengajuan ini muncul sehari setelah The Signal memberitakan bahwa Kalbe sempat mengumumkan rencana buyback dengan nilai dan proyeksi laba per saham yang persis sama, lalu membatalkannya pada hari yang sama, 15 September 2026. Seluruh angka dalam pengajuan terbaru ini, mulai dari nilai buyback, batas biaya, hingga proyeksi laba per saham, identik dengan rencana yang sebelumnya dibatalkan, sehingga dokumen ini pada dasarnya adalah pengajuan ulang atas rencana yang sama."
+  ],
+  "fotoAdegan": "Exterior of the Indonesia Stock Exchange tower in Jakarta's Sudirman business district, pedestrians and taxis passing along the street at midday",
+  "takeaway": "Rencana ini condong netral bagi Kalbe Farma untuk saat ini, karena seluruh angkanya persis sama dengan rencana yang sempat diumumkan lalu dibatalkan sehari sebelumnya, jadi belum ada dampak kas yang benar-benar terjadi. Pos yang tersentuh kalau rencana ini benar-benar jalan adalah kas dan laba per saham, yaitu keuntungan bersih perusahaan dibagi jumlah saham yang beredar di pasar: dana buyback diambil dari kas sendiri tanpa utang baru, jumlah saham beredar berkurang karena sebagian dibeli balik oleh perusahaan sendiri, sehingga laba per saham diproyeksikan naik tipis dari Rp80,51 menjadi Rp81,44, meski pendapatan bunga simpanan perusahaan ikut berkurang sekitar Rp8,4 miliar. Yang perlu dipantau adalah apakah rencana ini benar-benar dieksekusi sampai tenggat 17 Desember 2026, mengingat rencana identik sebelumnya sudah pernah diumumkan lalu dibatalkan pada hari yang sama, sehingga rekam jejak pelaksanaannya masih perlu dibuktikan sebelum bisa dinilai sebagai sinyal positif yang nyata.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kemnaker-mulai-seleksi-peserta-maganghub-batch-2-angkatan-ii",
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Mulai [Seleksi] Peserta MagangHub Batch 2 Angkatan II",

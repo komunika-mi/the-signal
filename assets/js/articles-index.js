@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "psgo-jelaskan-rencana-penuhi-syarat-free-float-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "PSGO Jelaskan Rencana Penuhi Syarat [Free Float] ke BEI",
+  "deck": "PSGO menanggapi surat Bursa soal rencana pemenuhan saham beredar bebas minimum, dengan tenggat 31 Maret 2029 setelah pengendali melepas 308,6 juta saham sepanjang 2026.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSGO",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce4799d4e2_1b3804335c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dada-panggil-rupst-ketiga-usai-kuorum-gagal-dua-kali",
+  "category": "Aksi Korporasi",
+  "title": "DADA Panggil RUPST Ketiga usai [Kuorum] Gagal Dua Kali",
+  "deck": "PT Diamond Citra Propertindo menggelar RUPST ketiga pada 24 September 2026 setelah rapat kedua pada Juli lalu gagal mencapai kuorum kehadiran pemegang saham.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DADA",
+   "RUPST",
+   "kuorum",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd9a3293e8_1175719ecc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-panggil-rupslb-ubah-kegiatan-usaha-dan-dana-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "CASH panggil RUPSLB, ubah [kegiatan usaha] dan dana rights issue",
+  "deck": "Cashlez Worldwide Indonesia mengundang pemegang saham ke RUPSLB 8 Oktober 2026 untuk membahas perubahan kegiatan usaha, penggunaan dana rights issue, alamat kantor, dan susunan direksi-komisaris.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "RUPSLB",
+   "Cashlez",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51b32c73f6_ce627c1918.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbap-free-float-baru-9-7-jauh-di-bawah-syarat-15",
+  "category": "Aksi Korporasi",
+  "title": "MBAP: [Free Float] Baru 9,7%, Jauh di Bawah Syarat 15%",
+  "deck": "MBAP melaporkan ke Bursa bahwa saham beredar bebasnya baru 9,702% dari total saham tercatat, masih jauh di bawah syarat minimum 15% dan perusahaan belum punya keputusan final soal cara memenuhinya.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBAP",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan pencatatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/79e5388e5f_262f226a71.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "klbf-ajukan-ulang-buyback-rp500-miliar-usai-dibatalkan",
+  "category": "Aksi Korporasi",
+  "title": "KLBF Ajukan Ulang Buyback [Rp500 Miliar] Usai Dibatalkan",
+  "deck": "Kalbe Farma mengajukan kembali rencana pembelian kembali saham senilai maksimal Rp500 miliar, sehari setelah rencana serupa dengan angka sama dibatalkan.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KLBF",
+   "buyback saham",
+   "Kalbe Farma",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0273d2c81_4c9fa08b78.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemnaker-mulai-seleksi-peserta-maganghub-batch-2-angkatan-ii",
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Mulai [Seleksi] Peserta MagangHub Batch 2 Angkatan II",
@@ -6413,86 +6493,6 @@ var ARTICLES = [
    "BUMN Karya"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c59cd71cae_1ea75f3b93.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tguk-konfirmasi-proses-tender-offer-wajib-masih-berlanjut",
-  "category": "Aksi Korporasi",
-  "title": "TGUK Konfirmasi Proses [Tender Offer] Wajib Masih Berlanjut",
-  "deck": "Menjawab permintaan penjelasan volatilitas transaksi dari BEI, Platinum Wahab Nusantara (TGUK) menegaskan proses tender offer wajib dalam pengambilalihan perseroan masih berjalan setelah sempat tertunda pada 2025.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGUK",
-   "tender offer",
-   "akuisisi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1edea03255_55f05cfc11.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-jadwalkan-rupslb-15-oktober-agenda-menyusul",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Jadwalkan RUPSLB [15 Oktober], Agenda Menyusul",
-  "deck": "PT Bhineka Inovasi Ketahanan Energi Tbk menjadwalkan RUPSLB dan RUPS Independen pada 15 Oktober 2026, panggilan resmi berisi agenda terbit 23 September.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "RUPSLB",
-   "RUPS Independen",
-   "Bhineka Inovasi Ketahanan Energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9838de1dd7_16e4341e66.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inklusi-keuangan-syariah-baru-13-persen-jauh-tertinggal",
-  "category": "Perbankan",
-  "title": "Inklusi Keuangan Syariah Baru [13] Persen, Jauh Tertinggal",
-  "deck": "Pemerintah menyoroti kesenjangan akses keuangan syariah yang baru menjangkau 13 persen masyarakat, jauh di bawah layanan konvensional yang sudah 93,53 persen.",
-  "date": "8 September 2026",
-  "image": "assets/img/teller-bank.jpg",
-  "tags": [
-   "ekonomi syariah",
-   "inklusi keuangan",
-   "UMKM",
-   "KUR syariah"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7085/perkuat-ekosistem-ekonomi-syariah-menko-airlangga-dorong-inklusi-keuangan-dan-pemberdayaan-ekonomi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "sofa-panggil-rupslb-untuk-ubah-kegiatan-usaha-ke-pembiayaan",
-  "category": "Aksi Korporasi",
-  "title": "SOFA Panggil RUPSLB untuk [Ubah] Kegiatan Usaha ke Pembiayaan",
-  "deck": "SOFA memanggil RUPSLB 30 September 2026 untuk meminta persetujuan penambahan kegiatan usaha ke bidang induk usaha dan pembiayaan conduit, serta perubahan anggaran dasar.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOFA",
-   "RUPSLB",
-   "Transaksi Material",
-   "Perubahan Kegiatan Usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4ec8f82a8_837a9e309f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untd-jelaskan-rugi-bruto-fasilitas-ocbc-diperpanjang-sebulan",
-  "category": "Aksi Korporasi",
-  "title": "UNTD Jelaskan [Rugi Bruto], Fasilitas OCBC Diperpanjang Sebulan",
-  "deck": "Terang Dunia Internusa menjawab permintaan penjelasan Bursa soal rugi bruto semester I 2026, pergeseran distribusi ke Bintang Mas Lestari, dan fasilitas kredit OCBC yang baru diperpanjang sebulan.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTD",
-   "rugi bruto",
-   "OCBC",
-   "penggunaan dana IPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12fec88189_fa65702b77.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "HPspwP35M3M",
+  "title": "Bea Cukai Gagalkan Penyelundupan 29 Kg Emas dari Bandara",
+  "category": "Bisnis",
+  "program": "AKIP",
+  "summary": "Bea Cukai menggagalkan penyelundupan 29 kilogram emas di empat bandara dengan nilai barang mencapai Rp73,3 miliar dan potensi penerimaan negara sebesar Rp8,5 miliar.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut potensi kerugian penerimaan negara dari sektor perdagangan dan pengawasan arus barang lintas batas."
+ },
+ {
   "id": "0fcZP7ltl3k",
   "title": "Kadin Manggarai dan Manggarai Timur Gelar Pelantikan Ketua",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "Direktorat Jenderal Bea dan Cukai Kementerian Keuangan menyiapkan langkah baru untuk memperlancar arus barang di pelabuhan sekaligus menekan dwelling time dan biaya logistik.",
   "takeaway": "Kebijakan ini relevan bagi pelaku usaha karena dwelling time dan biaya logistik pelabuhan berpengaruh langsung pada daya saing perdagangan nasional."
- },
- {
-  "id": "GF044yQHWCM",
-  "title": "Serikat Buruh Temui Menaker Bahas RUU Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Pagi",
-  "summary": "Serikat buruh menemui Menteri Ketenagakerjaan Yassierli untuk menyampaikan kekecewaan atas draf RUU Ketenagakerjaan yang dinilai belum mengakomodasi usulan mereka.",
-  "takeaway": "Perkembangan RUU Ketenagakerjaan penting diikuti karena berdampak pada hubungan industrial serta kepastian hukum bagi pekerja dan dunia usaha."
  }
 ];

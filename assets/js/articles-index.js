@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemnaker-mulai-seleksi-peserta-maganghub-batch-2-angkatan-ii",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker Mulai [Seleksi] Peserta MagangHub Batch 2 Angkatan II",
+  "deck": "Kemnaker menjaring peserta Pemagangan Nasional (MagangHub) 2026 Batch 2 Angkatan II pada 16-18 September, dengan program magang dimulai 21 September 2026.",
+  "date": "16 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "MagangHub",
+   "Kemnaker",
+   "Pemagangan Nasional",
+   "Ketenagakerjaan"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-segera-seleksi-dan-tetapkan-peserta-maganghub-batch-2-angkatan-ii",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
   "slug": "ica-cepa-diratifikasi-kanada-pangkas-tarif-90-produk-ri",
   "category": "Global",
   "title": "ICA-CEPA [Diratifikasi], Kanada Pangkas Tarif 90% Produk RI",
@@ -241,7 +257,7 @@ var ARTICLES = [
   "title": "Pemerintah Tetapkan [26] Hari Libur Nasional dan Cuti Bersama 2027",
   "deck": "SKB Tiga Menteri menetapkan 18 hari libur nasional dan 8 hari cuti bersama untuk 2027, total 26 hari, sekaligus mengatur ketentuan lembur dan cuti tahunan bagi pekerja.",
   "date": "15 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "tags": [
    "Libur Nasional 2027",
    "Cuti Bersama",
@@ -708,7 +724,7 @@ var ARTICLES = [
   "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",
   "deck": "Menaker Yassierli menyebut AI yang sekadar jadi asisten kerja hanya menaikkan produktivitas sekitar 5 persen, sementara perombakan proses kerja bisa mendongkraknya sampai 40 persen.",
   "date": "15 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "tags": [
    "AI",
    "Ketenagakerjaan",
@@ -1340,7 +1356,7 @@ var ARTICLES = [
   "title": "UU PPRT [Atur] Hak dan Kewajiban Pekerja Rumah Tangga",
   "deck": "UU Nomor 2 Tahun 2026 memberi payung hukum bagi pekerja rumah tangga, mengatur upah, jam kerja, THR, jaminan sosial, hingga cara penyelesaian sengketa dengan majikan.",
   "date": "15 September 2026",
-  "image": "assets/img/bursa-kerja-antre.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "tags": [
    "PRT",
    "UU PPRT",
@@ -1356,7 +1372,7 @@ var ARTICLES = [
   "title": "RUU Ketenagakerjaan Masuk Tahap [Panja] di DPR",
   "deck": "Pemerintah menyerahkan Daftar Inventarisasi Masalah RUU Pelindungan Ketenagakerjaan ke DPR, Komisi IX bentuk Panja lanjutkan pembahasan.",
   "date": "15 September 2026",
-  "image": "assets/img/gudang-logistik.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "tags": [
    "RUU Ketenagakerjaan",
    "DPR",
@@ -3266,7 +3282,7 @@ var ARTICLES = [
   "title": "Seleksi MagangHub Berlangsung, Hasil Keluar [18 September]",
   "deck": "Seleksi peserta Program Pemagangan Nasional (MagangHub) Batch 2 Angkatan II berlangsung 9-15 September, hasil diumumkan 18 September, magang mulai 21 September 2026.",
   "date": "11 September 2026",
-  "image": "assets/img/kantor-startup.jpg",
+  "image": "assets/img/pelatihan-vokasi.jpg",
   "tags": [
    "MagangHub",
    "Kemnaker",
@@ -5294,7 +5310,7 @@ var ARTICLES = [
   "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
   "deck": "Kemnaker, Kementerian Investasi, dan Kementerian Imigrasi menyatukan izin penggunaan tenaga kerja asing dalam satu sistem OSS untuk memangkas proses lintas kementerian.",
   "date": "10 September 2026",
-  "image": "assets/img/pelatihan-vokasi.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "TKA",
    "OSS",
@@ -6477,22 +6493,6 @@ var ARTICLES = [
    "penggunaan dana IPO"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12fec88189_fa65702b77.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tlkm-gelar-rupslb-30-september-pisahkan-segmen-fiber-ke-tif",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Gelar RUPSLB 30 September, [Pisahkan] Segmen Fiber ke TIF",
-  "deck": "Telkom mengundang RUPSLB 30 September 2026 untuk menyetujui pemisahan tahap dua bisnis fiber ke TIF dan perubahan susunan direksi-komisaris.",
-  "date": "8 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "RUPSLB",
-   "spin-off",
-   "Telkom Infrastruktur Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/568a02c46f_5906b7a305.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "HPspwP35M3M",
+  "title": "Bea Cukai Gagalkan Penyelundupan 29 Kg Emas dari Bandara",
+  "category": "Bisnis",
+  "program": "AKIP",
+  "summary": "Bea Cukai menggagalkan penyelundupan 29 kilogram emas di empat bandara dengan nilai barang mencapai Rp73,3 miliar dan potensi penerimaan negara sebesar Rp8,5 miliar.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut potensi kerugian penerimaan negara dari sektor perdagangan dan pengawasan arus barang lintas batas.",
+  "terbit": "2026-09-16T00:55:35+00:00"
+ },
+ {
   "id": "0fcZP7ltl3k",
   "title": "Kadin Manggarai dan Manggarai Timur Gelar Pelantikan Ketua",
   "category": "Bisnis",

@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "vici-gelar-public-expose-usai-saham-disuspensi-bei",
+  "category": "Aksi Korporasi",
+  "title": "VICI Gelar Public Expose Usai Saham [Disuspensi] BEI",
+  "deck": "VICI akan menggelar public expose insidental pada 18 September 2026 setelah sahamnya disuspensi BEI sejak 14 September 2026 lewat mekanisme cooling down.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T19:47:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2ba77fefa_aac20d2823.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "suspensi saham",
+   "public expose",
+   "BEI"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) akan menggelar public expose insidental pada Jumat, 18 September 2026, pukul 11.00 WIB melalui aplikasi Zoom. Acara ini digelar atas permintaan Bursa Efek Indonesia (BEI), bukan atas inisiatif perseroan sendiri, menyusul penghentian sementara perdagangan (suspensi) saham VICI sejak 14 September 2026. Suspensi tersebut merujuk pada Pengumuman Bursa Nomor Peng-SPT-00175/BEI.WAS/09-2026 tanggal 11 September 2026 mengenai mekanisme cooling down.",
+   "Investor yang ingin mengikuti acara harus mendaftar lebih dulu melalui tautan yang dicantumkan dalam surat resmi perseroan ke BEI. Tautan Zoom untuk mengikuti public expose baru akan dikirim ke peserta terdaftar paling lambat 18 September 2026 pukul 09.00 WIB. Materi paparan public expose sendiri wajib diunggah lebih dulu di situs web BEI (www.idx.co.id) pada 17 September 2026, sehari sebelum acara berlangsung.",
+   "Acara ini akan dihadiri jajaran Direksi perseroan. Surat pemberitahuan ke BEI ditandatangani oleh Corporate Secretary VICI, Alfonsa Sheila Widyatna, sementara laporan keterbukaan informasi ke sistem pelaporan elektronik bursa dilaporkan atas nama Direktur Erwan Irawan Noer."
+  ],
+  "fotoAdegan": "Workers on a cosmetics production line packaging skincare bottles, industrial lighting, clean factory floor in Indonesia",
+  "takeaway": "Laporan ini netral bagi fundamental VICI, karena public expose ini dipicu oleh mekanisme rutin bursa, bukan oleh temuan masalah keuangan atau operasional di internal perusahaan. Suspensi cooling down biasa dipasang BEI saat harga saham naik sangat cepat dalam waktu singkat, sebagai jeda agar investor tidak ikut memborong saham hanya karena euforia harga sementara belum ada informasi resmi yang menjelaskannya; selama suspensi berlangsung, saham VICI tidak bisa diperjualbelikan di pasar reguler sehingga likuiditasnya terhenti sementara. Yang perlu dipantau adalah pelaksanaan public expose pada Jumat, 18 September 2026 pukul 11.00 WIB, serta materi paparan yang wajib diunggah ke situs BEI sehari sebelumnya, 17 September 2026, karena di situlah akan terlihat apakah manajemen punya penjelasan fundamental di balik pergerakan harga saham belakangan ini atau tidak.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gmfi-cetak-laba-us-10-8-juta-di-semester-i-ekuitas-balik-positif",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Cetak [Laba] US$10,8 Juta di Semester I, Ekuitas Balik Positif",
+  "deck": "Laporan keuangan interim GMFI per Juni 2026 menunjukkan ekuitas berbalik positif dan pendapatan naik 51 persen, meski laba per saham turun akibat penambahan saham dari rights issue.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T19:39:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916195327-64320-0/FinancialStatement-2026-II-GMFI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GMFI",
+  "tags": [
+   "GMFI",
+   "laporan keuangan",
+   "rights issue",
+   "ekuitas"
+  ],
+  "body": [
+   "PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) menyampaikan laporan keuangan konsolidasian interim untuk semester pertama yang berakhir 30 Juni 2026 kepada OJK dan Bursa Efek Indonesia, sesuai kewajiban pelaporan berkala berdasarkan POJK Nomor 14/2022. Surat penyampaian tertanggal 15 September 2026 ditandatangani Direktur Utama Andi Fahrurrozi. Laporan ini telah diaudit oleh KAP Rintis, Jumadi, Rianto & Rekan dengan opini wajar tanpa modifikasian (opini bersih) yang ditandatangani partner Ika Gunawan pada 7 September 2026, menggantikan auditor tahun sebelumnya, KAP Purwanto Susanti dan Surja, dengan partner Ronny Stewart.",
+   "Dari sisi kinerja, pendapatan GMFI pada semester pertama 2026 tercatat US$270,29 juta, naik 51 persen dibandingkan US$178,96 juta pada periode yang sama tahun lalu. Laba bersih ikut naik menjadi US$10,81 juta dari US$8,77 juta. Namun laba per saham justru turun dari US$0,00024 menjadi US$0,0001, karena jumlah saham beredar melonjak signifikan menjadi 28,23 miliar saham seri A dan 96,60 miliar saham seri B pada Juni 2026, dari 91,79 miliar saham seri B pada akhir 2025, seiring penambahan modal dari rights issue besar yang direalisasikan sepanjang 2025.",
+   "Total aset GMFI naik menjadi US$826,50 juta pada Juni 2026, dari US$812,98 juta di akhir 2025 dan US$424,63 juta di akhir 2024, sementara total liabilitas relatif stabil di US$681,88 juta. Yang lebih mencolok, jumlah ekuitas perusahaan berbalik menjadi positif US$144,62 juta pada Juni 2026, melanjutkan pemulihan dari US$114,57 juta di akhir 2025, setelah sebelumnya berada dalam kondisi defisiensi modal sebesar US$257,90 juta pada akhir 2024. Rasio lancar, yaitu perbandingan aset lancar terhadap liabilitas jangka pendek, juga membaik ke 108,5 persen dari 99,6 persen di akhir 2025 dan 87 persen di akhir 2024, dan laporan opini auditor untuk periode ini tidak lagi mencantumkan paragraf penekanan mengenai kelangsungan usaha yang sempat muncul pada laporan tahunan 2025 dan 2024."
+  ],
+  "fotoAdegan": "Aircraft maintenance technicians in overalls inspecting a jet engine under bright hangar lights, tools and equipment carts nearby",
+  "takeaway": "Laporan ini condong positif bagi GMFI karena pendapatan dan laba bersih sama-sama tumbuh dua digit pada semester pertama, dan yang lebih penting, ekuitas perusahaan keluar dari kondisi defisit modal senilai US$257,9 juta pada akhir 2024 menjadi positif US$144,62 juta pada Juni 2026. Ekuitas adalah selisih antara aset dan utang perusahaan, jadi angka ini menggambarkan bantalan keuangan yang tersedia untuk menyerap kerugian sebelum kreditur ikut menanggung risiko, dan makin tebal bantalan itu, makin kecil kerentanan perusahaan saat kondisi memburuk. Di sisi lain, laba per saham malah turun karena jumlah saham beredar melonjak signifikan setelah rights issue tahun lalu, sehingga laba yang sama kini terbagi ke lebih banyak lembar saham, sebuah efek yang lazim disebut dilusi. Yang perlu dipantau berikutnya adalah apakah perbaikan rasio lancar ke 108,5 persen dan hilangnya paragraf penekanan going concern di opini auditor bisa bertahan pada laporan kuartal berikutnya, mengingat dua laporan tahunan sebelumnya masih mencantumkan catatan keraguan atas kelangsungan usaha akibat liabilitas jangka pendek yang melampaui aset lancar.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bnii-rampungkan-pengambilalihan-981-juta-saham-aeii",
+  "category": "Aksi Korporasi",
+  "title": "BNII Rampungkan Pengambilalihan 981 Juta Saham [AEII]",
+  "deck": "PT Bank Maybank Indonesia Tbk merampungkan pengambilalihan 981,3 juta saham PT Asuransi Etiqa Internasional Indonesia dari Etiqa International Holdings Sdn. Bhd.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T19:05:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ce35427a1_71c2e4a74a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNII",
+  "tags": [
+   "BNII",
+   "akuisisi",
+   "Maybank Indonesia",
+   "asuransi"
+  ],
+  "body": [
+   "PT Bank Maybank Indonesia Tbk (BNII) bersama Direksi PT Asuransi Etiqa Internasional Indonesia (PT AEII) menerbitkan pengumuman di surat kabar Neraca pada 16 September 2026 yang menyatakan proses pengambilalihan saham PT AEII telah rampung. Pengambilalihan dilakukan melalui pengalihan 191.250.000 saham Seri A dan 790.138.247 saham Seri B di PT AEII, atau totalnya sekitar 981,3 juta saham, dari pemegang saham lama Etiqa International Holdings Sdn. Bhd. kepada BNII.",
+   "Dasar hukum peralihan ini adalah Akta Pernyataan Keputusan Pemegang Saham tertanggal 31 Agustus 2026 Nomor 65 yang dibuat di hadapan notaris Aulia Taufani, S.H. di Jakarta Selatan. Perubahan data perusahaan akibat transaksi ini juga sudah diterima Kementerian Hukum Republik Indonesia lewat surat tertanggal 8 September 2026 Nomor AHU-AH.01.09-0400479. Pengumuman di surat kabar ini sendiri wajib dilakukan untuk memenuhi Pasal 133 Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, yang mengatur kewajiban pemberitahuan publik setelah pengambilalihan saham suatu perusahaan.",
+   "BNII menyatakan informasi ini tidak berdampak material terhadap kegiatan operasional maupun kelangsungan usaha perseroan. Laporan keterbukaan ke OJK dan Bursa Efek Indonesia untuk peristiwa ini juga ditembuskan ke sejumlah unit pengawasan OJK, termasuk Departemen Pengawasan Konglomerasi Keuangan, yang lazim mengawasi grup usaha yang menaungi bank sekaligus perusahaan asuransi. PT AEII sendiri berkedudukan di Thamrin Plaza, Jakarta Pusat."
+  ],
+  "fotoAdegan": "Bank employees reviewing insurance policy folders at a desk inside a modern branch office, soft daylight through glass windows in Jakarta",
+  "takeaway": "Laporan ini condong netral bagi BNII, karena inti transaksinya adalah pemindahan kepemilikan saham asuransi Etiqa dari pemegang saham lamanya di Malaysia ke bank ini sendiri, bukan penambahan modal segar atau bisnis baru dari luar grup. Yang berubah adalah pos investasi pada entitas anak di neraca BNII, karena begitu PT AEII resmi jadi anak usaha yang dikendalikan langsung oleh bank, aset dan kewajiban bisnis asuransi itu mulai tercermin dalam laporan keuangan konsolidasi grup, hal yang biasa mendapat perhatian otoritas karena risiko bisnis asuransi berbeda dari risiko perbankan. Dokumen ini tidak menyebut nilai transaksi maupun persentase kepemilikan BNII di PT AEII setelah peralihan, sehingga besar kecilnya dampak terhadap permodalan bank belum bisa dipastikan hanya dari laporan ini. Yang perlu dipantau berikutnya adalah tindak lanjut Departemen Pengawasan Konglomerasi Keuangan OJK, yang menerima tembusan surat ini, serta apakah laporan keuangan BNII pada periode mendatang sudah mengonsolidasikan bisnis asuransi tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bantuan-pasang-listrik-ke-400-ribu-rumah-tangga-ditarget-2027",
   "category": "Energi",
   "title": "Bantuan Pasang Listrik ke [400 Ribu] Rumah Tangga Ditarget 2027",
@@ -59,6 +137,32 @@ var ARTICLES = [
   "imageV": "mu40bfqb"
  },
  {
+  "slug": "mcor-direktur-zhu-yong-resmi-mundur-rupslb-digelar",
+  "category": "Aksi Korporasi",
+  "title": "MCOR: Direktur [Zhu Yong] Resmi Mundur, RUPSLB Digelar",
+  "deck": "Bank China Construction Bank Indonesia (MCOR) menerima surat pengunduran diri Direktur Zhu Yong pada 14 September 2026, disusul RUPSLB sehari kemudian untuk membahas suksesi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T17:53:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/711cc0a7fc_338473431e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MCOR",
+  "tags": [
+   "MCOR",
+   "direksi",
+   "perbankan",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Bank China Construction Bank Indonesia Tbk (MCOR) mengumumkan bahwa Direktur Zhu Yong mengundurkan diri dari jabatannya. Surat pengunduran diri itu diterima perseroan pada 14 September 2026, sebagaimana disampaikan dalam laporan keterbukaan informasi bernomor 240/CCBI/DDIR-OJK/IX/2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia.",
+   "Sehari setelah surat itu diterima, tepatnya 15 September 2026, perseroan menggelar Rapat Umum Pemegang Saham Luar Biasa untuk membahas pengunduran diri tersebut. Manajemen menyatakan langkah ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan, karena perusahaan sudah memiliki mekanisme penunjukan direktur pengganti apabila salah satu direktur berhalangan menjalankan tugas.",
+   "Laporan ditandatangani oleh Corporate Secretary MCOR, Thomas Widianto, dan ditembuskan ke Bursa Efek Indonesia. Dalam laporan ini, perseroan belum mengumumkan nama pengganti Zhu Yong sebagai direktur."
+  ],
+  "fotoAdegan": "Bank tellers assisting customers at a modern branch counter in Jakarta, soft indoor lighting, mid-morning",
+  "takeaway": "Laporan ini netral bagi emiten, sebab pengunduran diri satu direktur ini diiringi RUPSLB yang digelar sehari kemudian, tanda bahwa suksesi sudah dipersiapkan sebelum surat resmi diterima dan bukan keputusan mendadak. Pergantian direksi tunggal seperti ini tidak menyentuh ekuitas, arus kas, atau laba per saham perseroan secara langsung, tapi tetap diperhatikan pelaku pasar karena kestabilan jajaran direksi menjadi salah satu indikator kesinambungan strategi bisnis bank, apalagi bank wajib menjaga komposisi direksinya sesuai aturan OJK. Yang perlu dipantau selanjutnya adalah siapa yang akan menggantikan Zhu Yong, sebab calon direktur bank masih harus melalui uji kemampuan dan kepatutan dari OJK sebelum resmi menjabat, sementara laporan ini belum menyebutkan nama penggantinya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pelindo-luncurkan-listrik-darat-kapal-di-tanjung-priok",
   "category": "BUMN",
   "title": "Pelindo Luncurkan [Listrik] Darat Kapal di Tanjung Priok",
@@ -111,6 +215,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah klaim baru dari Presiden Prabowo Subianto: pemerintah menyebut menemukan kebocoran penerimaan ekspor senilai Rp15 triliun yang terkumpul selama 34 tahun, akibat barang yang dilaporkan lebih sedikit dari yang sebenarnya dikirim ke luar negeri. Pihak yang berpotensi terdampak adalah instansi bea cukai dan lembaga pengawas ekspor lain, karena Presiden Prabowo Subianto menyinggung kemungkinan ada oknum di dalamnya yang menerima suap. Berita ini belum menyebut langkah konkret seperti audit resmi, penyelidikan hukum, atau perubahan aturan bea cukai, sehingga belum bisa dibaca apakah pengungkapan ini akan berlanjut ke penindakan atau berhenti sebagai pernyataan. Yang perlu dipantau adalah apakah Direktorat Jenderal Bea dan Cukai atau aparat penegak hukum mengeluarkan tindak lanjut resmi dalam waktu dekat, karena itu yang akan menentukan apakah temuan ini membawa konsekuensi nyata.",
   "imageV": "mu40bgjx"
+ },
+ {
+  "slug": "akku-rilis-materi-public-expose-soal-suspensi-saham-dan-rugi-naik",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Rilis Materi Public Expose Soal [Suspensi] Saham dan Rugi Naik",
+  "deck": "AKKU membeberkan materi paparan publik insidentil, termasuk rincian opini auditor dan rugi semester I 2026 yang melonjak lebih dari tiga kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T17:30:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1d8756400a_d32f20320f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKKU",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "public expose",
+   "opini audit"
+  ],
+  "body": [
+   "PT Anugerah Kagum Karya Utama Tbk (AKKU) mengoreksi surat sebelumnya (No. 006/AKKU-PUBEX/IX/2026 tanggal 15 September 2026) dan menyampaikan materi lengkap untuk Public Expose Insidentil yang dijadwalkan 18 September 2026. Surat ditandatangani Corporate Secretary Irwan Suryadi, yang juga menjabat Presiden Direktur perseroan. Materi tersebut menjelaskan bahwa saham AKKU disuspensi sejak 1 April 2026 melalui pengumuman Bursa Efek Indonesia No. Peng-SPT-00002/BEI.PP1/04-2026, akibat perseroan dua kali berturut-turut menerima opini Tidak Menyatakan Pendapat (disclaimer) dari auditor atas laporan keuangan tahun buku 2024 dan 2025.",
+   "Untuk laporan keuangan 2025, auditor dari Kantor Akuntan Publik Ruslim & Ruslim menyatakan tidak mendapat cukup bukti atas hampir seluruh pos utama, mulai dari kas dan setara kas, piutang usaha, piutang lain-lain, persediaan, uang muka, aset tetap, aset lain-lain, utang usaha, utang lain-lain, biaya yang masih harus dibayar, utang bank, beban usaha, hingga pendapatan dan beban lain-lain. Untuk periode enam bulan hingga 30 Juni 2026, auditor baru, Kantor Akuntan Publik Irfan Waluyo & Rekan, menaikkan opini menjadi Wajar Dengan Pengecualian. Pengecualian itu kini hanya menyangkut dua pos, yaitu piutang non-usaha dan uang muka, dan menurut auditor tidak memengaruhi keandalan rugi bersih periode berjalan sebesar Rp2,55 miliar karena rugi tersebut berasal dari kegiatan operasional, bukan dari dua pos yang dikecualikan.",
+   "Secara angka, pendapatan jasa manajemen AKKU naik dari Rp3,57 miliar pada semester I 2025 menjadi Rp3,76 miliar pada semester I 2026. Namun rugi periode berjalan melonjak dari Rp707 juta menjadi Rp2,55 miliar, terutama akibat beban dan pendapatan lain-lain yang berbalik dari minus Rp78 juta menjadi minus Rp2,27 miliar. Total aset perseroan turun tipis dari Rp695,1 miliar per 31 Desember 2025 menjadi Rp694,63 miliar per 30 Juni 2026, sementara jumlah ekuitas turun dari Rp393,84 miliar menjadi Rp390,47 miliar dan liabilitas naik dari Rp301,26 miliar menjadi Rp304,16 miliar.",
+   "Materi itu juga memuat komposisi pemegang saham dari total 6.449.463.636 saham beredar: PT Renaldijaya Ekainti memegang 1.036.756.100 saham, PT Bintang Bersinar Cemerlang 721.187.100 saham, PT Gema Busana Raya 394.611.900 saham, PT Korek Api Guna Mandiri 358.795.300 saham, dan masyarakat 3.938.113.236 saham. Susunan pengurus saat ini terdiri dari Dharmithea Kiemas Hamidy sebagai Presiden Komisaris, Wilhelmina sebagai Komisaris Independen, Irwan Suryadi sebagai Presiden Direktur, dan Heni Supartini sebagai Direktur. Agenda paparan publik 18 September 2026 meliputi sekilas perseroan, informasi keuangan, penjelasan atas opini audit, dan sesi tanya jawab."
+  ],
+  "fotoAdegan": "Quiet mid-scale hotel entrance with palm trees and a tiled driveway in a tropical Indonesian city, midday light",
+  "takeaway": "Laporan ini condong negatif bagi AKKU, sebab perbaikan opini auditor tidak menutupi fakta bahwa rugi periode berjalan melonjak lebih dari tiga kali lipat dan modal pemegang saham ikut menyusut, sementara sahamnya masih disetop dari perdagangan. Yang tersentuh adalah ekuitas, yaitu total modal pemilik saham dalam perusahaan, yang turun dari Rp393,84 miliar menjadi Rp390,47 miliar dalam enam bulan, serta rugi bersih yang membesar dari Rp707 juta menjadi Rp2,55 miliar, dua ukuran yang biasa dipakai investor untuk menilai apakah nilai perusahaan sedang menciut atau membesar. Opini auditor sendiri membaik dari Tidak Menyatakan Pendapat, yakni auditor sama sekali tidak berani menyimpulkan kewajaran laporan karena buktinya dianggap kurang, menjadi Wajar Dengan Pengecualian, yang berarti hanya dua pos yaitu piutang non-usaha dan uang muka yang belum bisa dipastikan wajar sementara pos lain sudah dianggap wajar. Yang perlu dipantau berikutnya adalah paparan publik pada 18 September 2026, tempat manajemen akan menjelaskan langsung opini audit dan menjawab pertanyaan investor, serta laporan keuangan tahunan berikutnya yang akan menentukan apakah Bursa bersedia mencabut suspensi saham AKKU.",
+  "sentimen": "negatif"
  },
  {
   "slug": "idea-tanggapi-bei-66-58-saham-tetap-beralih-ke-nawasena",

@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "vici-gelar-public-expose-usai-saham-disuspensi-bei",
+  "category": "Aksi Korporasi",
+  "title": "VICI Gelar Public Expose Usai Saham [Disuspensi] BEI",
+  "deck": "VICI akan menggelar public expose insidental pada 18 September 2026 setelah sahamnya disuspensi BEI sejak 14 September 2026 lewat mekanisme cooling down.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "suspensi saham",
+   "public expose",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2ba77fefa_aac20d2823.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gmfi-cetak-laba-us-10-8-juta-di-semester-i-ekuitas-balik-positif",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Cetak [Laba] US$10,8 Juta di Semester I, Ekuitas Balik Positif",
+  "deck": "Laporan keuangan interim GMFI per Juni 2026 menunjukkan ekuitas berbalik positif dan pendapatan naik 51 persen, meski laba per saham turun akibat penambahan saham dari rights issue.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "laporan keuangan",
+   "rights issue",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916195327-64320-0/FinancialStatement-2026-II-GMFI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnii-rampungkan-pengambilalihan-981-juta-saham-aeii",
+  "category": "Aksi Korporasi",
+  "title": "BNII Rampungkan Pengambilalihan 981 Juta Saham [AEII]",
+  "deck": "PT Bank Maybank Indonesia Tbk merampungkan pengambilalihan 981,3 juta saham PT Asuransi Etiqa Internasional Indonesia dari Etiqa International Holdings Sdn. Bhd.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNII",
+   "akuisisi",
+   "Maybank Indonesia",
+   "asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ce35427a1_71c2e4a74a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bantuan-pasang-listrik-ke-400-ribu-rumah-tangga-ditarget-2027",
   "category": "Energi",
   "title": "Bantuan Pasang Listrik ke [400 Ribu] Rumah Tangga Ditarget 2027",
@@ -41,6 +89,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "mcor-direktur-zhu-yong-resmi-mundur-rupslb-digelar",
+  "category": "Aksi Korporasi",
+  "title": "MCOR: Direktur [Zhu Yong] Resmi Mundur, RUPSLB Digelar",
+  "deck": "Bank China Construction Bank Indonesia (MCOR) menerima surat pengunduran diri Direktur Zhu Yong pada 14 September 2026, disusul RUPSLB sehari kemudian untuk membahas suksesi.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MCOR",
+   "direksi",
+   "perbankan",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/711cc0a7fc_338473431e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pelindo-luncurkan-listrik-darat-kapal-di-tanjung-priok",
   "category": "BUMN",
   "title": "Pelindo Luncurkan [Listrik] Darat Kapal di Tanjung Priok",
@@ -73,6 +137,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467498-prabowo-bongkar-kebocoran-ekspor-34-tahun-rp15-triliun-disebut-raib-akibat-underinvoicing"
+ },
+ {
+  "slug": "akku-rilis-materi-public-expose-soal-suspensi-saham-dan-rugi-naik",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Rilis Materi Public Expose Soal [Suspensi] Saham dan Rugi Naik",
+  "deck": "AKKU membeberkan materi paparan publik insidentil, termasuk rincian opini auditor dan rugi semester I 2026 yang melonjak lebih dari tiga kali lipat.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "public expose",
+   "opini audit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1d8756400a_d32f20320f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "idea-tanggapi-bei-66-58-saham-tetap-beralih-ke-nawasena",
@@ -6418,87 +6498,6 @@ var ARTICLES = [
    "Arkora Hydro"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/beb1b0de64_1d48b8d914.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgjo-dan-mdia-keluar-dari-pemantauan-khusus-bei",
-  "category": "Aksi Korporasi",
-  "title": "PGJO dan MDIA Keluar dari [Pemantauan Khusus] BEI",
-  "deck": "Bursa mencabut status pemantauan khusus saham PGJO dan MDIA, efektif 3 September 2026, sebagai koreksi atas pengumuman sebelumnya tertanggal 2 September 2026.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGJO",
-   "MDIA",
-   "BEI",
-   "Pemantauan Khusus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/47591356e2_5cf0234ace.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csmi-masuk-pemantauan-khusus-bei-mulai-10-september",
-  "category": "Aksi Korporasi",
-  "title": "CSMI Masuk [Pemantauan Khusus] BEI Mulai 10 September",
-  "deck": "BEI memasukkan saham CSMI (Cipta Selera Murni) ke daftar Pemantauan Khusus mulai 10 September 2026, menyusul suspensi perdagangan lebih dari satu hari bursa.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSMI",
-   "Pemantauan Khusus",
-   "BEI",
-   "Cipta Selera Murni"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e4d0046cc4_4d83ca17bb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "banggar-dpr-ketok-pagu-tkd-2027-jadi-rp735-triliun",
-  "category": "Makroekonomi",
-  "title": "Banggar DPR Ketok Pagu TKD 2027 Jadi [Rp735 Triliun]",
-  "deck": "Banggar DPR dan pemerintah menyepakati pagu Transfer ke Daerah 2027 sebesar Rp735 triliun, naik 5,5 persen dari perkiraan realisasi 2026.",
-  "date": "9 September 2026",
-  "image": "assets/img/banggar-dpr-ketok-pagu-tkd-2027-jadi-rp735-triliun.jpg",
-  "imageV": "mtu065df",
-  "tags": [
-   "TKD 2027",
-   "Banggar DPR",
-   "RAPBN 2027",
-   "Dana Desa"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465996-banggar-dpr-ketok-pagu-tkd-2027-rp735-triliun-ini-rincian-dana-untuk-daerah"
- },
- {
-  "slug": "yelo-panggil-rupslb-kedua-setelah-kuorum-pertama-gagal",
-  "category": "Aksi Korporasi",
-  "title": "YELO Panggil RUPSLB [Kedua] Setelah Kuorum Pertama Gagal",
-  "deck": "RUPSLB pertama YELO pada 3 September gagal kuorum, sehingga rapat kedua digelar 17 September 2026 untuk mengubah pasal usaha di anggaran dasar sesuai klasifikasi KBLI baru.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YELO",
-   "RUPSLB",
-   "anggaran dasar",
-   "KBLI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a806f80f26_5c57ff9249.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "grph-gelar-public-expose-usai-suspensi-cooling-down-bei",
-  "category": "Aksi Korporasi",
-  "title": "GRPH Gelar Public Expose usai [Suspensi] Cooling Down BEI",
-  "deck": "BEI menyuspensi saham GRPH sejak 8 September 2026 dan mewajibkan perseroan menggelar public expose insidentil pada 15 September 2026 untuk menjelaskan kinerja operasional dan keuangan.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GRPH",
-   "suspensi saham",
-   "public expose",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba0fd5b715_2c416270e1.pdf",
   "sourceLabel": "IDX"
  }
 ];

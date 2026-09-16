@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "5gWtcjrGZqc",
+  "title": "Temuan Beras Fortifikasi Dijual dengan Harga Tak Wajar",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Pertanian Andi Amran Sulaiman mengungkap 25 merek beras yang diduga beras fortifikasi palsu, diduga tidak memenuhi kadar sesuai standar namun dijual dengan harga tidak wajar.",
+  "takeaway": "Temuan ini relevan bagi pembaca ekonomi karena menyangkut standar mutu pangan dan praktik penetapan harga di pasar beras yang berdampak pada konsumen dan pelaku usaha.",
+  "terbit": "2026-09-16T08:31:20+00:00"
+ },
+ {
   "id": "HPspwP35M3M",
   "title": "Bea Cukai Gagalkan Penyelundupan 29 Kg Emas dari Bandara",
   "category": "Bisnis",

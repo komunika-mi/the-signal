@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "5gWtcjrGZqc",
+  "title": "Temuan Beras Fortifikasi Dijual dengan Harga Tak Wajar",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Pertanian Andi Amran Sulaiman mengungkap 25 merek beras yang diduga beras fortifikasi palsu, diduga tidak memenuhi kadar sesuai standar namun dijual dengan harga tidak wajar.",
+  "takeaway": "Temuan ini relevan bagi pembaca ekonomi karena menyangkut standar mutu pangan dan praktik penetapan harga di pasar beras yang berdampak pada konsumen dan pelaku usaha."
+ },
+ {
   "id": "HPspwP35M3M",
   "title": "Bea Cukai Gagalkan Penyelundupan 29 Kg Emas dari Bandara",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Presiden Prabowo Subianto bertemu Presiden Rusia Vladimir Putin di sela Eastern Economic Forum ke-11 di Vladivostok dalam format business breakfast untuk membahas penguatan kerja sama bilateral kedua negara.",
   "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena berlangsung di forum ekonomi internasional dan berpotensi membuka peluang kerja sama dagang serta investasi antara Indonesia dan Rusia."
- },
- {
-  "id": "iSPeZH9NzP0",
-  "title": "Bea Cukai Siapkan Strategi Atasi Kemacetan Arus Barang di Pelabuhan",
-  "category": "Bisnis",
-  "program": "Kabar Pagi",
-  "summary": "Direktorat Jenderal Bea dan Cukai Kementerian Keuangan menyiapkan langkah baru untuk memperlancar arus barang di pelabuhan sekaligus menekan dwelling time dan biaya logistik.",
-  "takeaway": "Kebijakan ini relevan bagi pelaku usaha karena dwelling time dan biaya logistik pelabuhan berpengaruh langsung pada daya saing perdagangan nasional."
  }
 ];

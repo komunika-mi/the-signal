@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemnaker-klh-bagi-99-alat-latih-teknisi-pendingin-ke-14-balai",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker-KLH Bagi [99] Alat Latih Teknisi Pendingin ke 14 Balai",
+  "deck": "Kemnaker dan KLH menyerahkan 99 unit alat pelatihan refrigerasi ke 14 balai vokasi dari Aceh hingga Sorong untuk melatih ulang teknisi AC memakai pendingin ramah lingkungan.",
+  "date": "16 September 2026",
+  "image": "assets/img/pelatihan-vokasi.jpg",
+  "tags": [
+   "Kemnaker",
+   "Hari Ozon",
+   "Green Jobs",
+   "Pelatihan Vokasi"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-klh-perkuat-kompetensi-teknisi-pendingin-untuk-dukung-pelindungan-ozon",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "phr-teken-kontrak-migas-non-konvensional-rokan",
+  "category": "Energi",
+  "title": "PHR Teken Kontrak Migas Non Konvensional [Rokan]",
+  "deck": "PT Pertamina Hulu Rokan menandatangani kontrak bagi hasil pengembangan migas non konvensional pertama di Indonesia, menandai proyek percontohan di Zona Rokan.",
+  "date": "16 September 2026",
+  "image": "assets/img/phr-teken-kontrak-migas-non-konvensional-rokan.jpg",
+  "imageV": "mu3us1id",
+  "tags": [
+   "Pertamina",
+   "Migas Non Konvensional",
+   "Rokan",
+   "Energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467477-migas-non-konvensional-rokan-tonggak-baru-pionir-pengembangan-mnk-indonesia-oleh-pertamina"
+ },
+ {
   "slug": "anggaran-esdm-2027-rp27-37-t-82-persen-untuk-infrastruktur",
   "category": "Energi",
   "title": "Anggaran ESDM 2027 Rp27,37 T, 82 Persen untuk [Infrastruktur]",
@@ -3625,7 +3658,7 @@ var ARTICLES = [
   "title": "Seleksi MagangHub Berlangsung, Hasil Keluar [18 September]",
   "deck": "Seleksi peserta Program Pemagangan Nasional (MagangHub) Batch 2 Angkatan II berlangsung 9-15 September, hasil diumumkan 18 September, magang mulai 21 September 2026.",
   "date": "11 September 2026",
-  "image": "assets/img/pelatihan-vokasi.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "MagangHub",
    "Kemnaker",
@@ -4798,7 +4831,7 @@ var ARTICLES = [
   "title": "RI-Malaysia-Thailand Kejar Rampungkan [92] Proyek IMT-GT",
   "deck": "Pertemuan Tingkat Menteri IMT-GT ke-32 di Medan menetapkan target 92 proyek kerja sama rampung, disertai delapan MoU bisnis baru dan cetak biru 2027-2031.",
   "date": "10 September 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "IMT-GT",
    "Airlangga Hartarto",
@@ -5089,7 +5122,7 @@ var ARTICLES = [
   "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
   "deck": "Indonesia resmi mengambil alih keketuaan forum kerja sama ekonomi IMT-GT dan membuka forum bisnis yang mempertemukan lebih dari 300 pelaku usaha dari lima negara di Medan.",
   "date": "10 September 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "IMT-GT",
    "Kemenko Perekonomian",
@@ -5653,7 +5686,7 @@ var ARTICLES = [
   "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
   "deck": "Kemnaker, Kementerian Investasi, dan Kementerian Imigrasi menyatukan izin penggunaan tenaga kerja asing dalam satu sistem OSS untuk memangkas proses lintas kementerian.",
   "date": "10 September 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "TKA",
    "OSS",
@@ -6464,39 +6497,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465922-indeks-keyakinan-konsumen-agustus-2026-naik-jadi-1185"
- },
- {
-  "slug": "survei-bi-keyakinan-konsumen-naik-lagi-pada-agustus-2026",
-  "category": "Makroekonomi",
-  "title": "Survei BI: Keyakinan Konsumen [Naik] Lagi pada Agustus 2026",
-  "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 118,5 pada Agustus 2026 dari 116,8 di Juli, didorong membaiknya penilaian kondisi ekonomi saat ini dan harapan ke depan.",
-  "date": "9 September 2026",
-  "image": "assets/img/survei-bi-keyakinan-konsumen-naik-lagi-pada-agustus-2026.jpg",
-  "imageV": "mttm7usg",
-  "tags": [
-   "Bank Indonesia",
-   "Keyakinan Konsumen",
-   "Survei Konsumen",
-   "Konsumsi Rumah Tangga"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818326.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "bbkp-lunasi-obligasi-senilai-rp1-14-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BBKP Lunasi [Obligasi] Senilai Rp1,14 Triliun",
-  "deck": "Bank KB Indonesia melunasi pokok dan bunga dua seri obligasi senilai total Rp1,14 triliun pada 9 September 2026, menuntaskan seluruh kewajiban atas obligasi tersebut.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBKP",
-   "obligasi",
-   "KB Bank",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba6d8a1914_8f5c01d9d0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

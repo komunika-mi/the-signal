@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "idea-tanggapi-bei-66-58-saham-tetap-beralih-ke-nawasena",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Tanggapi BEI, [66,58%] Saham Tetap Beralih ke Nawasena",
+  "deck": "BEI meminta penjelasan volatilitas transaksi saham IDEA. Perseroan menegaskan pengalihan 707,32 juta saham (66,58%) ke PT Nawasena Nugra Investama tetap berjalan.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDEA",
+   "Nawasena Nugra Investama",
+   "pengambilalihan",
+   "volatilitas transaksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4bf631375_c90ee13f97.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-masuk-daftar-pemantauan-khusus-bei-mulai-17-september",
+  "category": "Aksi Korporasi",
+  "title": "PACK Masuk Daftar [Pemantauan Khusus] BEI Mulai 17 September",
+  "deck": "BEI memasukkan saham PACK, PT Abadi Nusantara Hijau Investama Tbk, ke daftar pemantauan khusus efektif 17 September 2026 setelah sebelumnya kena suspensi perdagangan lebih dari sehari.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "pemantauan khusus",
+   "BEI",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d5c7932ba_b65e77f0c8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iiff-siap-lunasi-obligasi-rp245-miliar-jatuh-tempo-22-desember",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Siap Lunasi Obligasi Rp245 Miliar [Jatuh Tempo] 22 Desember",
+  "deck": "IIFF menyatakan siap membayar pokok Rp245,06 miliar obligasi yang jatuh tempo 22 Desember 2026, didukung rencana obligasi baru Rp2 triliun dan kredit bank Rp2,65 triliun yang belum ditarik.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IIFF",
+   "obligasi",
+   "refinancing",
+   "pembiayaan infrastruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/db45206741_99890699fb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "grph-jelaskan-suspensi-ke-bursa-laba-bruto-naik-0-5",
+  "category": "Aksi Korporasi",
+  "title": "GRPH Jelaskan Suspensi ke Bursa, Laba Bruto Naik [0,5%]",
+  "deck": "Dalam public expose pasca suspensi BEI, manajemen GRPH merinci penyebab laba bruto seret dan mengungkap penjajakan awal peluang bisnis baru yang belum mengikat.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GRPH",
+   "public expose",
+   "suspensi saham",
+   "Griptha Putra Persada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ae575ce57c_f6fb9bc1cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-beri-sanksi-refi-usai-telat-setor-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "BEI Beri Sanksi REFI Usai Telat Setor [Laporan Keuangan]",
+  "deck": "Bursa Efek Indonesia menjatuhkan peringatan tertulis kedua kepada REFI karena belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 hingga batas waktu 3 September 2026, tanpa denda rupiah.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "REFI",
+   "BEI",
+   "sanksi",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9068c67c91_a6617f5b7c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "humi-panggil-rupslb-ubah-susunan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "HUMI Panggil RUPSLB, [Ubah] Susunan Direksi-Komisaris",
+  "deck": "HUMI menggelar RUPSLB pada 8 Oktober 2026 untuk membahas pengangkatan kembali atau perubahan susunan direksi dan dewan komisaris perseroan.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HUMI",
+   "RUPSLB",
+   "direksi",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c75168f50d_f52bd9f718.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mrei-kena-sanksi-denda-rp50-juta-karena-telat-lapor-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "MREI Kena [Sanksi] Denda Rp50 Juta karena Telat Lapor Keuangan",
+  "deck": "Bursa Efek Indonesia menjatuhkan Peringatan Tertulis II dan denda Rp50 juta kepada MREI karena telat menyampaikan laporan keuangan interim per 30 Juni 2026, batas akhirnya 30 Agustus 2026.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MREI",
+   "sanksi BEI",
+   "laporan keuangan",
+   "denda"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/43d1fb3c05_9ac0349456.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boat-jawab-bursa-kas-susut-utang-usaha-membengkak",
+  "category": "Aksi Korporasi",
+  "title": "BOAT Jawab Bursa: Kas Susut, [Utang Usaha] Membengkak",
+  "deck": "BOAT menjawab permintaan penjelasan BEI soal laporan keuangan, mengungkap kas yang jauh lebih kecil dari utang usaha dan turunnya pendapatan kapal milik.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOAT",
+   "Newport Marine Services",
+   "keterbukaan informasi",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97ed3aa81a_9c3b5465bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "giaa-panggil-rupslb-8-oktober-agendakan-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Panggil RUPSLB 8 Oktober, Agendakan [Perubahan] Direksi",
+  "deck": "Garuda Indonesia mengundang pemegang saham menghadiri RUPS Luar Biasa pada 8 Oktober 2026 secara elektronik, dengan agenda tunggal perubahan pengurus perseroan.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GIAA",
+   "RUPSLB",
+   "Garuda Indonesia",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7b1a46df40_68709c2186.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-ungkap-rencana-private-placement-usai-saham-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "INPS Ungkap Rencana [Private Placement] Usai Saham Melonjak",
+  "deck": "INPS menjelaskan ke Bursa lonjakan harga sahamnya 21,43 persen ke Rp850, sekaligus mengungkap rencana akuisisi dan private placement untuk memperbaiki keuangan.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "private placement",
+   "volatilitas saham",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d8a76d7086_a319d829cd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rugi-true-membengkak-jadi-rp11-8-miliar-di-kuartal-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "Rugi TRUE Membengkak Jadi [Rp11,8 Miliar] di Kuartal I 2026",
+  "deck": "Kerugian bersih PT Triniti Dinamik Tbk naik hampir dua kali lipat dibanding periode sama tahun lalu, dipicu lonjakan beban umum dan bunga pinjaman.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "Triniti Dinamik",
+   "properti",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916155530-64393-0/FinancialStatement-2026-I-TRUE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemnaker-klh-bagi-99-alat-latih-teknisi-pendingin-ke-14-balai",
   "category": "Ketenagakerjaan",
   "title": "Kemnaker-KLH Bagi [99] Alat Latih Teknisi Pendingin ke 14 Balai",
@@ -36,6 +212,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467477-migas-non-konvensional-rokan-tonggak-baru-pionir-pengembangan-mnk-indonesia-oleh-pertamina"
+ },
+ {
+  "slug": "true-koreksi-laporan-keuangan-2025-aset-susut-jadi-rp681-85-m",
+  "category": "Aksi Korporasi",
+  "title": "TRUE Koreksi Laporan Keuangan 2025, [Aset] Susut jadi Rp681,85 M",
+  "deck": "Laporan keuangan tahunan versi koreksi TRUE untuk 2025 menunjukkan total aset turun ke Rp681,85 miliar dan utang berelasi jangka panjang baru sebesar Rp49,96 miliar.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "Laporan Keuangan",
+   "Properti",
+   "Triniti Dinamik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260916154013-64406-0/FinancialStatement-2025-Tahunan-TRUE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "moli-jawab-bursa-soal-free-float-beri-tenggat-2029",
+  "category": "Aksi Korporasi",
+  "title": "MOLI Jawab Bursa soal [Free Float], Beri Tenggat 2029",
+  "deck": "MOLI menanggapi permintaan penjelasan BEI soal rencana pemenuhan syarat minimum saham beredar bebas 15 persen, dengan opsi penjualan saham pendiri paling lambat Maret 2029.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MOLI",
+   "free float",
+   "BEI",
+   "Madusari Murni Indah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3c29707612_d56dc6b911.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppi-koreksi-laporan-realisasi-dana-obligasi-sukuk-rp3-65-t",
+  "category": "Aksi Korporasi",
+  "title": "LPPI [Koreksi] Laporan Realisasi Dana Obligasi-Sukuk Rp3,65 T",
+  "deck": "LPPI mengoreksi laporan realisasi dana obligasi dan sukuk berkelanjutan senilai total Rp3,65 triliun, dengan sisa Rp162,84 miliar masih ditempatkan di deposito BNI menunggu pencairan modal kerja.",
+  "date": "16 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/61175a0e5b_2b7d806439.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "anggaran-esdm-2027-rp27-37-t-82-persen-untuk-infrastruktur",
@@ -6270,232 +6494,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465970-purbaya-sidak-lnsw-soroti-data-belum-terintegrasi-dan-siapkan-ai-untuk-kejar-potensi-pajak"
- },
- {
-  "slug": "meja-rugi-rp8-88-miliar-auditor-soroti-kelangsungan-usaha",
-  "category": "Aksi Korporasi",
-  "title": "MEJA Rugi Rp8,88 Miliar, Auditor Soroti [Kelangsungan Usaha]",
-  "deck": "Auditor memberi opini wajar tanpa modifikasian namun menyoroti keraguan signifikan atas kelangsungan usaha PT Harta Djaya Karya Tbk setelah rugi periode berjalan mencapai Rp8,88 miliar.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEJA",
-   "laporan keuangan",
-   "kelangsungan usaha",
-   "waran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260909161310-64383-0/FinancialStatement-2026-II-MEJA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sini-gelar-public-expose-usai-suspensi-bahas-akuisisi-cuan",
-  "category": "Aksi Korporasi",
-  "title": "SINI Gelar Public Expose usai Suspensi, Bahas [Akuisisi] CUAN",
-  "deck": "Setelah sahamnya disetop BEI, Singaraja Putra menggelar paparan publik Jumat ini untuk membahas negosiasi akuisisi oleh Petrindo Jaya Kreasi (CUAN) serta kondisi keuangan terkini.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SINI",
-   "CUAN",
-   "akuisisi",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5fd7e5f18_c1535fc3f9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-menguat-ke-rp17-507-diproyeksi-lanjut-besok",
-  "category": "Moneter",
-  "title": "Rupiah [Menguat] ke Rp17.507, Diproyeksi Lanjut Besok",
-  "deck": "Rupiah menguat 125 poin ke Rp17.507 per dolar AS, ditopang data ritel dan keyakinan konsumen yang membaik. Penguatan diperkirakan berlanjut ke sekitar Rp17.480 besok.",
-  "date": "9 September 2026",
-  "image": "assets/img/rupiah-menguat-ke-rp17-507-diproyeksi-lanjut-besok.jpg",
-  "imageV": "mtu066ag",
-  "tags": [
-   "rupiah",
-   "kurs",
-   "nilai tukar",
-   "dolar AS"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465974-rupiah-ditutup-menguat-rp17507-pengamat-sebut-ada-kabar-baik-untuk-perdagangan-besok"
- },
- {
-  "slug": "zp-14-waran-terstruktur-jatuh-tempo-30-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "ZP: 14 Waran Terstruktur [Jatuh Tempo] 30 September 2026",
-  "deck": "14 seri waran terstruktur ZP atas saham ACES, ADRO, BBTN, BUKA, HRUM, INDY, ISAT, JSMR, MIKA, MYOR, PGAS, PTBA, PTRO, dan UNVR jatuh tempo 30 September 2026 dan diselesaikan tunai.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "waran terstruktur",
-   "Maybank Sekuritas",
-   "jatuh tempo waran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2fa476db44_d054a5b460.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dvla-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "DVLA Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "Darya-Varia Laboratoria menyatakan tak ada informasi material yang belum diungkap dan tak ada rencana aksi korporasi dalam tiga bulan ke depan setelah ditanya BEI soal pergerakan sahamnya.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DVLA",
-   "Darya-Varia Laboratoria",
-   "volatilitas saham",
-   "keterbukaan informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/679bd9df60_6e98cb1eb8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdln-gelar-rupslb-kedua-kuorum-pertama-gagal-capai-75",
-  "category": "Aksi Korporasi",
-  "title": "MDLN Gelar RUPSLB Kedua, Kuorum Pertama [Gagal] Capai 75%",
-  "deck": "RUPSLB kedua MDLN digelar 14 September 2026, setelah rapat pertama gagal kuorum 75 persen untuk agenda pengalihan aset di atas separuh kekayaan bersih perusahaan.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLN",
-   "RUPSLB",
-   "Modernland Realty",
-   "pengalihan aset"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f000d6b07_c5d80a6fce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-sengketa-tanah-sarana-steel-tak-pengaruhi-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "BAJA: Sengketa Tanah Sarana Steel Tak Pengaruhi [Rights Issue]",
-  "deck": "Saranacentral Bajatama (BAJA) menegaskan bukan pihak dalam sengketa tanah yang melibatkan PT Sarana Steel dan menyatakan rencana rights issue tetap berjalan.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "rights issue",
-   "sengketa tanah",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fd93c60baa_c501bb1046.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "truk-akui-tak-tahu-pemicu-kenaikan-harga-sahamnya-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "TRUK Akui Tak Tahu Pemicu [Kenaikan] Harga Sahamnya ke Bursa",
-  "deck": "Menjawab permintaan penjelasan Bursa soal kenaikan harga sahamnya, PT Guna Timur Raya Tbk menyatakan tidak ada kontrak, transaksi, atau informasi material baru yang belum diungkapkan.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUK",
-   "Guna Timur Raya",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/19d2a8b461_f6ec830e1d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "life-ungkap-laba-melonjak-69-sebelum-public-expose-insidentil",
-  "category": "Aksi Korporasi",
-  "title": "LIFE Ungkap Laba [Melonjak] 69% Sebelum Public Expose Insidentil",
-  "deck": "LIFE merilis materi Public Expose Insidental usai BEI menghentikan sementara perdagangan sahamnya akibat lonjakan harga, dengan laba bersih H1 2026 naik 69 persen.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LIFE",
-   "MSIG Life",
-   "Public Expose",
-   "penghentian sementara BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11cae592e8_96c7b0de3d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-coret-agenda-ekspansi-usaha-dari-rupslb-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Coret Agenda [Ekspansi Usaha] dari RUPSLB PMTHMETD",
-  "deck": "MKNT mencabut agenda ekspansi usaha sebagai holding dari RUPSLB, sementara konversi utang Rp822,9 miliar kreditur menjadi saham tetap dibawa ke RUPSLB 14 September 2026.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "PMTHMETD",
-   "RUPSLB",
-   "konversi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/00d7aa890a_9399c2aabd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gmfi-koreksi-laporan-dana-rights-issue-rp6-02-triliun",
-  "category": "Aksi Korporasi",
-  "title": "GMFI Koreksi Laporan Dana Rights Issue [Rp6,02 Triliun]",
-  "deck": "GMF Aero Asia mengoreksi laporan realisasi dana rights issue per 30 Juni 2026 usai ditelaah OJK, sisa dana Rp47,61 miliar masih mengendap di bank afiliasi.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GMFI",
-   "rights issue",
-   "penggunaan dana",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/353060c2d0_2c8b7e4450.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tol-yogya-bawen-ambarawa-bawen-beroperasi-november-2026",
-  "category": "BUMN",
-  "title": "Tol Yogya-Bawen Ambarawa-Bawen [Beroperasi] November 2026",
-  "deck": "Jasa Marga menargetkan Seksi 6 Ambarawa-Bawen tol Yogyakarta-Bawen beroperasi penuh November 2026, melengkapi ruas sepanjang 75,12 km dari Sleman hingga Bawen.",
-  "date": "9 September 2026",
-  "image": "assets/img/tol-yogya-bawen-ambarawa-bawen-beroperasi-november-2026.jpg",
-  "imageV": "mttupr4e",
-  "tags": [
-   "Jasa Marga",
-   "Tol Yogya-Bawen",
-   "Infrastruktur",
-   "Kementerian PU"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465963-tol-yogya-bawen-seksi-6-akan-beroperasi-november-tahun-ini"
- },
- {
-  "slug": "bbni-ungkap-materi-public-expose-kredit-tumbuh-24-yoy",
-  "category": "Aksi Korporasi",
-  "title": "BBNI Ungkap Materi Public Expose, Kredit Tumbuh [24%] YoY",
-  "deck": "BNI mengoreksi surat sebelumnya dan merilis materi Public Expose Tahunan 1H26, memuat data kredit tumbuh 24% YoY, laba Rp10,8 triliun, dan CAR 18,1%.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBNI",
-   "Bank Negara Indonesia",
-   "Public Expose",
-   "Kinerja Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/43f6f25197_e02b1191d8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "keyakinan-konsumen-agustus-naik-jadi-118-5",
-  "category": "Makroekonomi",
-  "title": "Keyakinan Konsumen Agustus [Naik] jadi 118,5",
-  "deck": "Bank Indonesia mencatat Indeks Keyakinan Konsumen naik ke 118,5 pada Agustus 2026, ditopang membaiknya persepsi lapangan kerja dan minat beli barang tahan lama.",
-  "date": "9 September 2026",
-  "image": "assets/img/keyakinan-konsumen-agustus-naik-jadi-118-5.jpg",
-  "imageV": "mttp30yj",
-  "tags": [
-   "indeks keyakinan konsumen",
-   "bank indonesia",
-   "survei konsumen",
-   "lapangan kerja"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465922-indeks-keyakinan-konsumen-agustus-2026-naik-jadi-1185"
  }
 ];

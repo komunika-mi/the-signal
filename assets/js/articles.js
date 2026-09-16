@@ -3,6 +3,294 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "idea-tanggapi-bei-66-58-saham-tetap-beralih-ke-nawasena",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Tanggapi BEI, [66,58%] Saham Tetap Beralih ke Nawasena",
+  "deck": "BEI meminta penjelasan volatilitas transaksi saham IDEA. Perseroan menegaskan pengalihan 707,32 juta saham (66,58%) ke PT Nawasena Nugra Investama tetap berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T17:23:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4bf631375_c90ee13f97.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDEA",
+  "tags": [
+   "IDEA",
+   "Nawasena Nugra Investama",
+   "pengambilalihan",
+   "volatilitas transaksi"
+  ],
+  "body": [
+   "PT Idea Indonesia Akademi Tbk (IDEA) menyampaikan tanggapan resmi atas permintaan penjelasan Bursa Efek Indonesia terkait volatilitas transaksi efeknya, sebagaimana diminta BEI melalui surat nomor S-11930/BEI.PP3/09-2026 tanggal 14 September 2026. Dalam surat balasan bernomor 01.205/AG/SPK/IIA/IX/2026 tertanggal 16 September 2026 yang ditandatangani Corporate Secretary IDEA, Nurul Hidayati, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik, selain yang sudah disampaikan sebelumnya melalui surat nomor 01.202/AG/Spem/IIA/IX/2026 pada tanggal yang sama, perihal negosiasi rencana pengambilalihan perseroan.",
+   "Poin paling substansial dari penjelasan ini ada pada konfirmasi rencana pemegang saham utama dan pengendali. IDEA menyatakan telah menanyakan langsung kepada Eko Desriyanto dan PT Idea Asia Investama, yang berencana mengalihkan 707.322.700 saham milik mereka di IDEA, setara 66,58% dari total modal ditempatkan dan disetor penuh perseroan, kepada PT Nawasena Nugra Investama. Pengalihan ini akan menjadikan PT Nawasena Nugra Investama sebagai calon pengendali baru IDEA, sekaligus bagian dari rencana pengambilalihan yang sebelumnya sudah diungkapkan perseroan pada hari yang sama.",
+   "Selain itu, IDEA menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dan tidak memiliki rencana aksi korporasi lain dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di bursa. Perseroan menyebut pelaksanaan pengalihan saham kepada Nawasena akan tetap memperhatikan ketentuan peraturan perundang-undangan yang berlaku, tanpa merinci jadwal maupun nilai transaksi pengalihan tersebut."
+  ],
+  "fotoAdegan": "Two business people shaking hands over a conference table in a modern Jakarta office, blurred paperwork in soft focus, afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental IDEA karena hanya mengonfirmasi ulang rencana pengambilalihan yang sudah diketahui pasar sejak surat sebelumnya di hari yang sama, tanpa nilai transaksi baru atau syarat tambahan. Yang benar-benar bergeser di sini adalah hak suara dan struktur pengendalian, sebab begitu 707,32 juta saham atau 66,58% kepemilikan berpindah ke PT Nawasena Nugra Investama, kendali perseroan praktis beralih dari Eko Desriyanto dan PT Idea Asia Investama ke pemilik baru, meski belum ada dampak langsung ke laba atau kas perusahaan. Volatilitas transaksi yang membuat BEI meminta penjelasan ini wajar terjadi, karena pergantian pengendali berpotensi mengubah arah bisnis dan kebijakan perusahaan ke depan. Yang perlu dipantau berikutnya adalah RUPSLB yang menurut jadwal perseroan digelar 23 Oktober 2026 dengan daftar pemegang saham per 30 September 2026, serta kelanjutan proses pengambilalihan yang menurut IDEA masih akan mengikuti ketentuan peraturan perundang-undangan yang berlaku.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pack-masuk-daftar-pemantauan-khusus-bei-mulai-17-september",
+  "category": "Aksi Korporasi",
+  "title": "PACK Masuk Daftar [Pemantauan Khusus] BEI Mulai 17 September",
+  "deck": "BEI memasukkan saham PACK, PT Abadi Nusantara Hijau Investama Tbk, ke daftar pemantauan khusus efektif 17 September 2026 setelah sebelumnya kena suspensi perdagangan lebih dari sehari.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T17:19:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d5c7932ba_b65e77f0c8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "PACK",
+   "pemantauan khusus",
+   "BEI",
+   "suspensi saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan saham berkode PACK, milik PT Abadi Nusantara Hijau Investama Tbk, masuk ke dalam daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus. Status ini efektif berlaku mulai 17 September 2026, sesuai surat pengumuman bernomor Peng-PK-00068/BEI.PLP/09-2026 yang ditandatangani Teuku Fahmi Ariandar, Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI.",
+   "Dalam pengumuman itu, BEI mencantumkan kriteria nomor 10 sebagai alasan masuknya PACK ke pemantauan khusus, yaitu saham tersebut pernah dikenakan penghentian sementara perdagangan (suspensi) selama lebih dari satu hari bursa yang disebabkan oleh aktivitas perdagangan sahamnya sendiri. BEI mencatat status 'Masuk' atau 'Enter' untuk saham ini, menandakan PACK baru pertama kali tercatat dalam daftar tersebut pada periode ini.",
+   "Saham PACK tercatat di Papan Akselerasi dan bukan merupakan efek dengan hak suara multiple (SDHSM ditandai 'Tidak'). BEI juga melampirkan sepuluh kriteria lain yang bisa memicu status pemantauan khusus, mulai dari harga saham di bawah Rp51 disertai likuiditas rendah, opini disclaimer atas laporan keuangan, ekuitas negatif, hingga kondisi PKPU atau pailit, namun dalam pengumuman ini hanya kriteria terkait suspensi perdagangan yang berlaku untuk PACK."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's financial district, low angle, soft morning light, no readable signage visible.",
+  "takeaway": "Ini sinyal negatif bagi PACK, karena masuk pemantauan khusus berarti bursa secara resmi menandai sahamnya bermasalah, dalam hal ini akibat pernah disetop diperdagangkan lebih dari sehari karena pergerakan transaksinya sendiri. Status ini biasanya berdampak pada mekanisme perdagangan saham, misalnya dipindah ke sistem lelang berkala yang membuat saham lebih sulit dan lambat diperjualbelikan, sehingga investor yang sudah memegang saham ini akan lebih sulit keluar dengan cepat. Dokumen ini tidak menyebut kondisi ekuitas, laba, atau arus kas perusahaan, jadi belum tentu ada masalah fundamental di luar riwayat suspensi tersebut. Yang perlu dipantau selanjutnya adalah tanggal efektif 17 September 2026 saat status ini mulai berlaku, serta evaluasi berkala berikutnya dari BEI untuk menentukan apakah PACK bisa keluar dari daftar pemantauan khusus atau justru kena pembatasan tambahan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "iiff-siap-lunasi-obligasi-rp245-miliar-jatuh-tempo-22-desember",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Siap Lunasi Obligasi Rp245 Miliar [Jatuh Tempo] 22 Desember",
+  "deck": "IIFF menyatakan siap membayar pokok Rp245,06 miliar obligasi yang jatuh tempo 22 Desember 2026, didukung rencana obligasi baru Rp2 triliun dan kredit bank Rp2,65 triliun yang belum ditarik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T17:07:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/db45206741_99890699fb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IIFF",
+  "tags": [
+   "IIFF",
+   "obligasi",
+   "refinancing",
+   "pembiayaan infrastruktur"
+  ],
+  "body": [
+   "PT Indonesia Infrastructure Finance (IIFF) menyampaikan surat kesiapan pembayaran pokok Obligasi Berkelanjutan II Indonesia Infrastructure Finance Tahap I Tahun 2023 Seri B kepada Bursa Efek Indonesia. Surat bernomor S.1471/IX/IIF/2026 itu diteken pada 15 September 2026 oleh Eri Wibowo yang menjabat Direktur Keuangan sekaligus Direktur Investasi Sementara. Obligasi tersebut akan jatuh tempo pada 22 Desember 2026 dengan nilai pokok Rp245.060.000.000, atau setara Rp245,06 miliar.",
+   "Dalam surat itu, IIF menjelaskan dua sumber dana yang disiapkan untuk melunasi kewajiban tersebut. Pertama, perusahaan berencana melunasi obligasi yang jatuh tempo menggunakan dana hasil penerbitan obligasi atau pendanaan utang baru senilai Rp2 triliun, yang ditargetkan terbit pada akhir November 2026. Kedua, per 30 Juni 2026 IIF masih memiliki kelonggaran tarik fasilitas kredit perbankan yang belum digunakan senilai total Rp2,65 triliun, yang bisa dicairkan sewaktu-waktu untuk mendukung kebutuhan pendanaan termasuk pembayaran kewajiban obligasi ini.",
+   "Manajemen menegaskan pemenuhan kewajiban keuangan kepada pemegang obligasi secara tepat waktu dan tepat jumlah menjadi komitmen perusahaan. Dalam formulir keterbukaan informasi yang ditandatangani Suli Indah Lestari selaku Head of Legal and Corporate Secretary, IIF menyatakan peristiwa ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan."
+  ],
+  "fotoAdegan": "Aerial view of a toll road bridge under construction spanning a wide river, cranes and workers visible, overcast afternoon light",
+  "takeaway": "Laporan ini condong positif bagi IIF karena bantalan dana yang disiapkan jauh lebih besar dari kewajiban yang jatuh tempo, yakni fasilitas kredit bank senilai Rp2,65 triliun yang belum ditarik untuk menutup kewajiban Rp245,06 miliar. Yang tersentuh di sini adalah arus kas dan beban bunga perusahaan, pembayaran pokok obligasi mengurangi utang berjalan, tapi rencana menerbitkan obligasi baru senilai Rp2 triliun berarti IIF akan menanggung bunga baru begitu instrumen itu terbit, sesuatu yang wajar bagi perusahaan pembiayaan yang memang mengandalkan penerbitan utang untuk mendanai bisnisnya. Fasilitas kredit yang belum ditarik itu ibarat pagu pinjaman dari bank yang sudah disetujui tapi belum dicairkan, sehingga bisa dipakai sewaktu-waktu tanpa proses persetujuan baru. Yang perlu dipantau selanjutnya adalah realisasi penerbitan obligasi baru yang ditargetkan terbit akhir November 2026, serta pembayaran pokok Rp245,06 miliar pada tanggal jatuh tempo 22 Desember 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "grph-jelaskan-suspensi-ke-bursa-laba-bruto-naik-0-5",
+  "category": "Aksi Korporasi",
+  "title": "GRPH Jelaskan Suspensi ke Bursa, Laba Bruto Naik [0,5%]",
+  "deck": "Dalam public expose pasca suspensi BEI, manajemen GRPH merinci penyebab laba bruto seret dan mengungkap penjajakan awal peluang bisnis baru yang belum mengikat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T17:04:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ae575ce57c_f6fb9bc1cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GRPH",
+  "tags": [
+   "GRPH",
+   "public expose",
+   "suspensi saham",
+   "Griptha Putra Persada"
+  ],
+  "body": [
+   "PT Griptha Putra Persada Tbk (GRPH) menggelar Public Expose Insidentil pada Selasa, 15 September 2026 pukul 14.00 WIB lewat Zoom, memenuhi permintaan Bursa Efek Indonesia menyusul penghentian sementara perdagangan sahamnya sejak 8 September 2026. Acara dihadiri Direktur Utama Edwin Leonardo dan Direktur Oei, Selima Ivena Wijaya, serta 21 peserta di luar manajemen dan karyawan perseroan.",
+   "Dalam sesi tanya jawab, manajemen menjelaskan bahwa pendapatan perseroan tumbuh 6,7 persen, tetapi laba bruto hanya naik 0,5 persen karena harga pokok penjualan naik lebih tinggi. Selain kenaikan harga bahan baku, penyebabnya adalah perubahan kebijakan pembayaran THR dan bonus untuk kepala bagian, supervisor, asisten manajer, dan manajer, yang tahun sebelumnya dibayarkan pada kuartal ketiga dan kini digeser ke kuartal kedua. Manajemen juga menyebut penurunan aset tidak signifikan, karena dipakai membayar liabilitas, sementara penurunan liabilitas justru lebih besar dari penurunan aset dan diperkuat kenaikan ekuitas.",
+   "Soal operasional, tingkat okupansi hotel baru naik tipis dari 68,10 persen menjadi 69,83 persen hingga Juni 2026, dengan target di atas 70 persen pada akhir tahun lewat kamar Executive Room dan kerja sama korporasi, pemerintahan, serta agen perjalanan daring. Perseroan juga memperluas lini usaha lewat salon, rebranding kafe Teman Canda menjadi Kopi100 yang menargetkan kontribusi sekitar 5 persen dari total omset dengan titik impas 9 sampai 12 bulan, serta videotron untuk MICE yang berstatus investasi sendiri dan ditargetkan mendorong pertumbuhan segmen ini 20 sampai 25 persen per tahun.",
+   "Manajemen mengungkapkan sedang menjajaki peluang bisnis yang bersifat anorganik dan transformatif yang berpotensi memperbesar skala perseroan, namun menegaskan tahapannya masih sangat awal dan belum ada perjanjian mengikat sehingga realisasinya belum pasti. Perseroan juga menyatakan tidak ada rencana divestasi dari pemegang saham pengendali saat ini, dan berkomitmen menyampaikan informasi secara tepat waktu dan proaktif agar tidak kembali disuspensi."
+  ],
+  "fotoAdegan": "Hotel cafe staff arranging fried chicken and coffee dishes on a counter in a small Central Java city, warm morning light",
+  "takeaway": "Laporan ini kami nilai netral bagi GRPH: penjelasan manajemen meredakan sebagian kekhawatiran soal beban yang membengkak, tapi tidak mengubah gambaran bahwa pertumbuhan usaha inti masih tipis. Yang tersentuh adalah ekuitas dan arus kas, karena manajemen mengklaim kas dipakai melunasi utang sehingga liabilitas turun lebih banyak dari aset dan ekuitas justru naik, sementara laba bruto tetap seret akibat HPP naik lebih cepat dari pendapatan. Pelaku pasar biasanya mencermati ekuitas dan beban pokok karena keduanya jadi indikator apakah perusahaan menambah utang atau justru menopang diri sendiri. Yang perlu dipantau berikutnya adalah apakah BEI mencabut suspensi perdagangan saham GRPH setelah laporan ini disampaikan, tercapainya target okupansi di atas 70 persen pada akhir 2026, dan kelanjutan penjajakan peluang anorganik yang menurut perseroan akan diumumkan begitu ada kepastian, baik terealisasi maupun tidak.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-beri-sanksi-refi-usai-telat-setor-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "BEI Beri Sanksi REFI Usai Telat Setor [Laporan Keuangan]",
+  "deck": "Bursa Efek Indonesia menjatuhkan peringatan tertulis kedua kepada REFI karena belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 hingga batas waktu 3 September 2026, tanpa denda rupiah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T16:58:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9068c67c91_a6617f5b7c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "REFI",
+  "tags": [
+   "REFI",
+   "BEI",
+   "sanksi",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengenakan sanksi Peringatan Tertulis Kedua (SP2) kepada REFI, PT Usaha Pembiayaan Reliance Indonesia, karena belum menyampaikan Laporan Keuangan Tengah Tahunan per 30 Juni 2026 hingga batas waktu 3 September 2026. Sanksi serupa juga dijatuhkan kepada PT Pos Indonesia (Persero) dengan kode POST. Meski berstatus SP2, BEI tidak mengenakan denda uang kepada keduanya alias nilainya nol rupiah.",
+   "Berdasarkan pemantauan BEI per 3 September 2026, dari 62 perusahaan tercatat yang memiliki obligasi, sukuk, atau efek beragun aset di bursa, baru 46 perusahaan yang tepat waktu menyampaikan laporan keuangan tengah tahunannya. Sebanyak 13 perusahaan belum menyampaikan laporan, dengan rincian dua perusahaan yaitu REFI dan POST terkena SP2 karena bahkan laporan keuangan tanpa opini akuntan publik pun belum diserahkan, enam perusahaan lain masih menunggu penyampaian laporan versi audit oleh akuntan publik, empat penerbit Efek Beragun Aset Berbentuk Surat Partisipasi (EBA-SP), dan satu penerbit efek serupa berbasis syariah (EBAS-SP). Tiga entitas lain, yaitu dua EBA-KIK dan Pemerintah Republik Indonesia selaku penerbit Surat Utang Negara, memang tidak diwajibkan menyampaikan laporan jenis ini.",
+   "Dokumen BEI juga mencatat bahwa REFI telah menyerahkan rencana penyampaian laporan keuangan versi audit pada 7 September 2026, empat hari setelah tenggat SP2. Ini berarti hingga saat pemantauan dilakukan, publik dan pemegang instrumen efek REFI belum bisa melihat angka keuangan resmi perusahaan untuk periode Januari sampai Juni 2026."
+  ],
+  "fotoAdegan": "Auditors reviewing stacks of paper documents at a cluttered desk in a dim Jakarta office at night, papers blurred",
+  "takeaway": "Laporan ini condong negatif bagi REFI karena keterlambatan hingga terkena peringatan tertulis kedua menunjukkan lemahnya kepatuhan pelaporan, bukan sekadar keterlambatan administratif sekali waktu. Yang tersentuh di sini bukan angka laba atau arus kas secara langsung, melainkan keterbukaan informasi itu sendiri, sehingga investor dan pemegang efek REFI belum bisa menilai kondisi keuangan riil perusahaan pembiayaan ini untuk semester pertama 2026 karena laporannya belum juga terbit. Pelaku pasar biasanya mencurigai keterlambatan berulang sebagai tanda ada kendala internal dalam menyusun laporan, meski dokumen ini sendiri tidak merinci penyebabnya. Yang perlu dipantau selanjutnya adalah apakah REFI benar merilis laporan keuangan tengah tahunan versi audit sesuai rencana yang sudah diserahkan ke BEI pada 7 September 2026, sebab penyampaian itu akan menentukan apakah sanksi berlanjut atau berhenti di level peringatan kedua.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "humi-panggil-rupslb-ubah-susunan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "HUMI Panggil RUPSLB, [Ubah] Susunan Direksi-Komisaris",
+  "deck": "HUMI menggelar RUPSLB pada 8 Oktober 2026 untuk membahas pengangkatan kembali atau perubahan susunan direksi dan dewan komisaris perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T16:57:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c75168f50d_f52bd9f718.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HUMI",
+  "tags": [
+   "HUMI",
+   "RUPSLB",
+   "direksi",
+   "komisaris"
+  ],
+  "body": [
+   "PT Humpuss Maritim Internasional Tbk (HUMI) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 8 Oktober 2026 pukul 14.30 WIB di Meeting Room Lantai 26, Mangkuluhur City Tower One, Jalan Gatot Subroto, Jakarta Selatan. Pemegang saham juga bisa mengikuti rapat secara elektronik lewat aplikasi eASY.KSEI tanpa perlu datang fisik. Pemanggilan ini menyusul surat pemberitahuan sebelumnya, Nomor 647a/DU-HUMI/IX/2026 tertanggal 1 September 2026, dan yang berhak hadir atau memberi suara adalah pemegang saham yang namanya tercatat dalam daftar pemegang saham per 15 September 2026 pukul 16.00 WIB.",
+   "Agenda tunggal RUPSLB ini adalah persetujuan pengangkatan kembali atau perubahan susunan direksi dan dewan komisaris. Perseroan menjelaskan, mengacu pada Pasal 94 dan 111 UU Perseroan Terbatas serta POJK No. 33/2014, calon pengurus yang akan diajukan ke rapat merupakan hasil rekomendasi Komite Nominasi dan Remunerasi (KNR) perseroan. Masa jabatan pengurus baru, bila disetujui, berlaku efektif sejak penutupan rapat hingga penutupan RUPS Tahunan pada akhir satu periode jabatan yang akan diadakan tahun 2026, tanpa mengurangi hak RUPS untuk memberhentikan pengurus sewaktu-waktu. Daftar riwayat hidup para calon akan diunggah tersendiri di situs web perseroan, sehingga nama-nama calon direksi dan komisaris belum diumumkan dalam dokumen pemanggilan ini.",
+   "Agar keputusan sah, rapat harus dihadiri pemegang saham atau kuasanya yang mewakili lebih dari separuh total saham dengan hak suara. Bagi pemegang saham yang ingin memberi kuasa elektronik atau mengubah pilihan suaranya lewat eASY.KSEI, batas waktunya 7 Oktober 2026 pukul 16.00 WIB, sedangkan surat kuasa manual harus sudah diterima Biro Administrasi Efek PT EDI Indonesia paling lambat 6 Oktober 2026 pukul 17.00 WIB. Konfirmasi kehadiran fisik dibatasi kuota terbatas dan wajib dikirim ke corpsec@humi.co.id paling lambat 7 Oktober 2026 pukul 12.00 WIB."
+  ],
+  "fotoAdegan": "Tugboat guiding a cargo vessel through a busy Jakarta harbor channel at dusk, cranes silhouetted in the background",
+  "takeaway": "Pemanggilan RUPSLB ini bersifat netral bagi HUMI, karena isinya baru mengumumkan rencana rapat, bukan keputusan final soal siapa yang akan mengisi kursi direksi dan komisaris. Pergantian pengurus tidak langsung mengubah pos keuangan seperti ekuitas, arus kas, atau laba per saham, tapi pelaku pasar tetap memperhatikannya karena susunan direksi dan komisaris yang baru bisa mengubah arah strategi bisnis serta pengambilan keputusan perusahaan ke depan. Yang perlu dipantau adalah pelaksanaan RUPSLB pada 8 Oktober 2026, saat nama-nama calon direksi dan komisaris akan diumumkan dan disahkan lewat pemungutan suara, sekaligus apakah kuorum lebih dari separuh saham berhak suara bisa tercapai agar keputusan rapat sah secara hukum.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mrei-kena-sanksi-denda-rp50-juta-karena-telat-lapor-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "MREI Kena [Sanksi] Denda Rp50 Juta karena Telat Lapor Keuangan",
+  "deck": "Bursa Efek Indonesia menjatuhkan Peringatan Tertulis II dan denda Rp50 juta kepada MREI karena telat menyampaikan laporan keuangan interim per 30 Juni 2026, batas akhirnya 30 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T16:55:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/43d1fb3c05_9ac0349456.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MREI",
+  "tags": [
+   "MREI",
+   "sanksi BEI",
+   "laporan keuangan",
+   "denda"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menjatuhkan sanksi kepada Maskapai Reasuransi Indonesia Tbk (MREI) berupa Peringatan Tertulis II dan denda Rp50 juta, karena perusahaan belum menyampaikan Laporan Keuangan Interim per 30 Juni 2026 hingga batas waktu 30 Agustus 2026. Sanksi ini tercantum dalam pengumuman resmi bursa nomor Peng-S-00029/BEI.PLP/09-2026 yang terbit 15 September 2026, mengacu pada Peraturan Bursa Nomor I-E tentang Kewajiban Penyampaian Informasi dan Peraturan Nomor I-H tentang Sanksi.",
+   "MREI bukan satu-satunya yang kena. Bursa mencatat total 66 perusahaan tercatat di Papan Utama, Pengembangan, dan Ekonomi Baru menerima sanksi serupa, yaitu Peringatan Tertulis II dan denda Rp50 juta masing-masing, karena belum menyerahkan laporan keuangan tidak diaudit hingga 30 Agustus 2026. Beberapa nama besar dalam daftar itu antara lain Bakrie Telecom (BTEL), Sri Rejeki Isman atau Sritex (SRIL), dan Visi Media Asia (VIVA). Di luar itu, empat emiten di Papan Akselerasi kena Peringatan Tertulis II tanpa denda tunai, dan lima emiten lain, termasuk Perusahaan Gas Negara (PGAS) dan Toba Pulp Lestari (INRU), kena Peringatan Tertulis I karena laporan yang sudah ditelaah akuntan publik belum juga disampaikan hingga 31 Agustus 2026.",
+   "Secara keseluruhan, dari 956 perusahaan tercatat yang wajib menyerahkan laporan keuangan interim per 30 Juni 2026, baru 860 yang sudah menyampaikannya menurut pemantauan bursa hingga 31 Agustus 2026. Sisanya, 102 perusahaan belum menyerahkan laporan, dan 27 di antaranya menurut catatan bursa sedang menunggu hasil audit akuntan publik sebelum menyampaikan laporannya."
+  ],
+  "fotoAdegan": "Financial district office workers reviewing paperwork at a cluttered desk, stacks of folders, blurred documents, late afternoon light through blinds",
+  "takeaway": "Sanksi ini menambah catatan negatif bagi tata kelola MREI, karena keterlambatan menyampaikan laporan keuangan biasanya mengindikasikan ada kendala internal, entah di proses audit atau pencatatan, yang membuat investor sulit menilai kinerja terkini perusahaan secara tepat waktu. Yang tersentuh langsung memang cuma kas, denda Rp50 juta itu relatif kecil dibanding skala usaha reasuransi MREI, tapi yang lebih penting adalah laporan keuangan itu sendiri, dasar yang dipakai investor untuk menghitung untung rugi, arus kas, dan kesehatan modal perusahaan, sehingga keterlambatannya membuat pasar sementara buta terhadap kondisi terbaru MREI. Yang perlu dipantau berikutnya adalah kapan MREI benar-benar menyerahkan laporan keuangan interim per 30 Juni 2026 itu, sebab kalau keterlambatan berlanjut, bursa bisa menjatuhkan sanksi lebih berat sampai ke penghentian sementara perdagangan sahamnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "boat-jawab-bursa-kas-susut-utang-usaha-membengkak",
+  "category": "Aksi Korporasi",
+  "title": "BOAT Jawab Bursa: Kas Susut, [Utang Usaha] Membengkak",
+  "deck": "BOAT menjawab permintaan penjelasan BEI soal laporan keuangan, mengungkap kas yang jauh lebih kecil dari utang usaha dan turunnya pendapatan kapal milik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T16:33:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97ed3aa81a_9c3b5465bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOAT",
+  "tags": [
+   "BOAT",
+   "Newport Marine Services",
+   "keterbukaan informasi",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Newport Marine Services Tbk (BOAT) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan Nomor S-11917/BEI.PP1/09-2026 tanggal 11 September 2026, yang mempertanyakan sejumlah pos dalam laporan keuangan per 31 Desember 2025 dan 30 Juni 2026. Tanggapan yang ditandatangani Ahmad Wisya Pratama selaku Direktur merangkap Sekretaris Perusahaan ini mencakup penjelasan atas piutang usaha, uang muka, penjualan aset tetap yang merugi, refinancing pinjaman bank, kenaikan utang usaha, dan penurunan pendapatan kapal milik sendiri.",
+   "Soal piutang, perseroan menjelaskan piutang kepada GUS Co Ltd naik karena pada kuartal I 2026 GUS menyewa 2 unit kapal BOAT, dari sebelumnya hanya 1 unit pada periode laporan Desember 2025. Sementara piutang kepada PT Suasa Benua Sukses (SBS) naik karena SBS sempat melunasi lebih cepat pada periode Desember 2025 dibanding Juni 2026. Perseroan menyebut kedua piutang itu lancar, dengan pembayaran yang sudah diterima hingga 30 Agustus 2026 masing-masing sebesar US$1.308.374 dari GUS dan US$519.339 dari SBS, dengan rata-rata masa penagihan 67 hari untuk GUS dan 84 hari untuk SBS. Piutang ini juga menjadi jaminan fasilitas pinjaman bank, sehingga perseroan menerapkan verifikasi kredit dan batas plafon per pelanggan.",
+   "Perseroan juga mengakui kas dan setara kasnya per 30 Juni 2026 sekitar 6 kali lebih kecil dibandingkan utang usahanya, yang menurut penjelasan mereka timbul dari meningkatnya aktivitas sewa kapal charter dari pemilik kapal lain, dengan jatuh tempo pembayaran 60 hingga 90 hari. Untuk mengatasinya, perseroan menyebut langkah seperti mempercepat penagihan piutang, memprioritaskan pembayaran utang yang jatuh tempo, dan menjaga Current Ratio minimal 1 kali. Perseroan juga baru merefinancing fasilitas pinjaman dari Lembaga Pembiayaan Ekspor Indonesia (LPEI) ke PT Bank Negara Indonesia (Persero) Tbk berupa fasilitas modal kerja Rp9 miliar untuk membayar biaya charter kapal lain dan uang muka operasional kapal sendiri, dengan syarat menjaga Current Ratio minimal 1 kali, rasio utang terhadap ekuitas maksimal 2,5 kali, dan rasio kemampuan bayar utang minimal 100 persen. Selain itu, piutang kepada pihak berelasi NOS terkait biaya operasional kapal NMS Sapphire akan dilunasi sebagian oleh NOS pada kuartal IV 2026, sementara pelanggan Cranium Offshore Pte Ltd berkomitmen melunasi piutangnya sebelum tutup buku akhir 2026.",
+   "Di sisi operasional, tingkat utilisasi armada kapal milik sendiri pada semester I 2026 tercatat 78 persen, turun 6 poin persentase dari periode yang sama tahun lalu, karena 2 unit kapal Anchor Handling Tug Supply (AHTS) sedang menjalani perawatan sekaligus pemasangan sistem Dynamic Positioning baru. Perseroan berencana memperluas peluang komersial di Asia Tenggara untuk mendongkrak utilisasi. Perseroan juga mencatat kerugian dari penjualan dua kendaraan, Alphard 2.5G A/T dan Mazda CX9 FWD, akibat selisih nilai buku dengan harga jual serta perbedaan mata uang fungsional dolar AS dengan mata uang transaksi rupiah, yang tercatat pada akun penghasilan usaha lainnya neto. Adapun kontrak dengan pelanggan utama GUS Co Ltd berlaku sampai 31 Desember 2026 dengan opsi perpanjangan 30 hari."
+  ],
+  "fotoAdegan": "A weathered offshore supply vessel docked at an Indonesian port, crew coiling thick ropes on the deck under bright afternoon sun",
+  "takeaway": "Penjelasan ini condong negatif bagi Newport Marine Services, karena di balik jawaban yang rinci, dua angka intinya menunjukkan tekanan keuangan nyata: kas perusahaan per Juni 2026 sekitar enam kali lebih kecil dari utang usaha yang harus dibayar, dan utilisasi armada kapal milik sendiri turun ke 78 persen akibat kapal-kapal utamanya sedang diperbaiki. Yang tersentuh di sini adalah arus kas dan kesehatan neraca, karena kas yang jauh lebih kecil dari kewajiban jangka pendek berarti perseroan bergantung pada kelancaran penagihan piutang dan kelonggaran waktu bayar dari pemasok agar tidak telat membayar utangnya sendiri, sementara rasio-rasio seperti syarat modal kerja minimal dan batas utang terhadap modal yang disyaratkan bank BNI kini jadi acuan yang wajib dijaga agar fasilitas pinjaman tidak ditarik. Sisi baiknya, perseroan berhasil menambah kontrak charter dari GUS Co Ltd dan piutangnya tergolong lancar, jadi bukan sinyal gagal bayar. Yang perlu dipantau berikutnya adalah realisasi janji NOS melunasi sebagian utangnya pada kuartal IV 2026, komitmen Cranium Offshore melunasi piutang sebelum tutup buku akhir 2026, dan apakah kontrak GUS Co Ltd yang berakhir 31 Desember 2026 diperpanjang mengingat besarnya ketergantungan pendapatan pada pelanggan tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "giaa-panggil-rupslb-8-oktober-agendakan-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Panggil RUPSLB 8 Oktober, Agendakan [Perubahan] Direksi",
+  "deck": "Garuda Indonesia mengundang pemegang saham menghadiri RUPS Luar Biasa pada 8 Oktober 2026 secara elektronik, dengan agenda tunggal perubahan pengurus perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T16:01:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7b1a46df40_68709c2186.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "RUPSLB",
+   "Garuda Indonesia",
+   "Direksi"
+  ],
+  "body": [
+   "Garuda Indonesia (Persero) Tbk memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 8 Oktober 2026, pukul 14.00 WIB. Rapat digelar secara elektronik melalui sistem eASY.KSEI, menindaklanjuti surat pemberitahuan sebelumnya bernomor GARUDA/JKTDS/SPE-20012/2026 tanggal 1 September 2026. Agenda tunggal rapat adalah perubahan pengurus perseroan, mengacu pada Pasal 11 ayat 6 dan ayat 24 huruf d Anggaran Dasar Perseroan yang mewajibkan perubahan susunan direksi atau komisaris diputuskan melalui RUPS. Dokumen tidak merinci nama pengurus yang akan diganti maupun calon penggantinya.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 15 September 2026 pukul 16.00 WIB, atau pemilik saham di sub rekening efek KSEI pada penutupan perdagangan di Bursa Efek Indonesia pada tanggal yang sama. Perseroan tidak mengirimkan undangan terpisah, sehingga pemanggilan ini berlaku sebagai undangan resmi. Batas waktu bagi pemegang saham untuk menyampaikan deklarasi kehadiran elektronik, kuasa elektronik (e-proxy), atau suara elektronik adalah paling lambat pukul 12.00 WIB pada satu hari kerja sebelum RUPS, yakni 7 Oktober 2026. Pemegang saham yang terlambat atau gagal melakukan registrasi elektronik tidak akan diperhitungkan dalam kuorum kehadiran.",
+   "Surat pemanggilan ditandatangani oleh Andreas Tumpal H. Hutapea selaku Corporate Secretary Group Head Garuda Indonesia, tertanggal 16 September 2026. Bahan-bahan RUPS dapat diakses dan diunduh melalui situs resmi perusahaan maupun sistem eASY.KSEI sejak tanggal pemanggilan ini hingga hari pelaksanaan rapat."
+  ],
+  "fotoAdegan": "Ground crew and ladder trucks servicing a wide-body passenger jet on an airport tarmac at dawn",
+  "takeaway": "Pemanggilan ini netral bagi penilaian kinerja Garuda karena dokumen belum menyebut siapa yang akan diganti atau siapa penggantinya, sehingga arah dampaknya terhadap strategi maskapai belum bisa dinilai dari sini. Perubahan pengurus tidak langsung mengubah pos keuangan seperti modal pemegang saham atau kas perusahaan, tapi pelaku pasar tetap mencermati komposisi direksi dan komisaris karena merekalah yang mengambil keputusan bisnis, termasuk soal utang dan proses pemulihan Garuda pascapandemi. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 8 Oktober 2026 pukul 14.00 WIB, yaitu nama-nama pengurus baru yang disetujui pemegang saham, serta batas waktu pemberian suara elektronik pada 7 Oktober 2026 pukul 12.00 WIB bagi pemegang saham yang ingin ikut menentukan hasilnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inps-ungkap-rencana-private-placement-usai-saham-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "INPS Ungkap Rencana [Private Placement] Usai Saham Melonjak",
+  "deck": "INPS menjelaskan ke Bursa lonjakan harga sahamnya 21,43 persen ke Rp850, sekaligus mengungkap rencana akuisisi dan private placement untuk memperbaiki keuangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T15:55:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d8a76d7086_a319d829cd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "private placement",
+   "volatilitas saham",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) merespons permintaan penjelasan Bursa Efek Indonesia nomor S-11909/BEI.PP1/09-2026 tanggal 11 September 2026 terkait lonjakan transaksi sahamnya. Dalam surat balasan nomor 009/INPS-BEI/IX/2026 tertanggal 16 September 2026, perseroan menyebutkan harga sahamnya naik kumulatif Rp150 atau 21,43 persen, dari Rp700 menjadi Rp850, sepanjang 2 hingga 10 September 2026, disertai peningkatan rata-rata aktivitas transaksi. Perseroan menyatakan tidak mengetahui adanya informasi material yang belum diungkap, tidak melakukan tindakan apa pun untuk memengaruhi harga sahamnya, dan menyebut kenaikan itu sebagai mekanisme pasar di luar kendalinya. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan POJK Nomor 4 Tahun 2024.",
+   "Yang baru dari surat ini adalah pengakuan rencana dua aksi korporasi. Pertama, kajian akuisisi perusahaan lain untuk dijadikan entitas anak, yang menurut perseroan masih tahap awal dan belum ada kesepakatan mengikat dengan pihak mana pun. Kedua, rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu atau private placement mengacu POJK Nomor 14/POJK.04/2019, yang disebut ditujukan untuk memperbaiki kondisi keuangan perseroan. Kajian ini sudah masuk tahap penentuan harga pelaksanaan oleh penilai independen atau KJPP, tetapi belum ada keputusan final dari direksi maupun persetujuan RUPS, sehingga jumlah saham baru, harga pelaksanaan, calon investor, dan waktu pelaksanaannya belum bisa dipastikan.",
+   "Perseroan juga mengonfirmasi bahwa pemegang saham pengendali, PT Graha Inti Guna Persada, telah ditanya oleh Corporate Secretary dan menyatakan tidak punya rencana mengalihkan pengendalian maupun menjaminkan sahamnya, serta tetap berkomitmen sebagai pengendali. Surat ditandatangani oleh Direktur Utama Eddy Purwanto Winata pada 16 September 2026 pukul 15.55 WIB melalui sistem pelaporan elektronik IDXnet."
+  ],
+  "fotoAdegan": "Wide street-level view of modern high-rise office towers in Jakarta's business district at late afternoon, light traffic below",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama, karena rencana private placement justru muncul dengan alasan 'memperbaiki kondisi keuangan perseroan', sinyal bahwa kas perusahaan sedang butuh suntikan dari luar. Private placement berarti saham baru dijual langsung ke investor tertentu tanpa menawari pemegang saham lama untuk ikut membeli sesuai porsinya, sehingga begitu terlaksana, persentase kepemilikan dan hak suara pemegang saham lama otomatis mengecil dan laba per saham berpotensi terbagi ke jumlah saham yang lebih banyak. Rencana akuisisi anak usaha masih terlalu dini dan belum mengikat, sehingga belum bisa dinilai dampaknya, sementara lonjakan harga saham ke Rp850 sendiri diklaim perseroan murni mekanisme pasar tanpa aksi korporasi baru di baliknya. Yang perlu dipantau selanjutnya adalah hasil kajian penilai independen atas harga pelaksanaan private placement itu serta keputusan final direksi dan persetujuan RUPS, karena baru setelah itu jumlah saham baru dan harganya akan jelas.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rugi-true-membengkak-jadi-rp11-8-miliar-di-kuartal-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "Rugi TRUE Membengkak Jadi [Rp11,8 Miliar] di Kuartal I 2026",
+  "deck": "Kerugian bersih PT Triniti Dinamik Tbk naik hampir dua kali lipat dibanding periode sama tahun lalu, dipicu lonjakan beban umum dan bunga pinjaman.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T15:43:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916155530-64393-0/FinancialStatement-2026-I-TRUE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUE",
+  "tags": [
+   "TRUE",
+   "Triniti Dinamik",
+   "properti",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Triniti Dinamik Tbk (TRUE) membukukan rugi bersih Rp11,8 miliar untuk kuartal pertama 2026, hampir dua kali lipat dari rugi Rp5,9 miliar pada kuartal pertama 2025. Rugi per saham dasar ikut melebar menjadi Rp1,56, dari sebelumnya Rp0,79, berdasarkan laporan keuangan interim tidak diaudit yang disampaikan perusahaan ke Bursa Efek Indonesia pada 16 September 2026. Laporan itu ditandatangani Direktur Utama Yohanes Eddy Christianto pada 15 September 2026.",
+   "Penjualan perusahaan properti ini sebenarnya naik menjadi Rp12,8 miliar dari Rp10,7 miliar, dan laba kotor ikut naik menjadi Rp4,9 miliar dari Rp3,8 miliar. Namun kenaikan itu tertutup oleh melonjaknya beban umum dan administrasi menjadi Rp12,7 miliar dari Rp7,3 miliar, serta beban penjualan dan pemasaran yang naik menjadi Rp4,0 miliar dari Rp2,6 miliar. Di laporan arus kas, pembayaran beban bunga dan keuangan melonjak menjadi Rp5,8 miliar dari hanya Rp615 juta pada periode yang sama tahun lalu.",
+   "Arus kas dari aktivitas operasi berbalik menjadi negatif Rp16,4 miliar, dari positif Rp13,1 miliar setahun sebelumnya. Untuk menutup kebutuhan kas, perusahaan menerima tambahan pinjaman dari pihak berelasi senilai Rp17,6 miliar, sehingga total utang jangka panjang ke pihak berelasi naik menjadi Rp67,6 miliar dari Rp50,0 miliar pada akhir 2025. Total ekuitas perusahaan turun menjadi Rp213,0 miliar dari Rp224,8 miliar dalam tiga bulan, sementara kas dan setara kas berada di Rp7,2 miliar per akhir Maret 2026. PT Agung Perkasa Investindo tercatat sebagai entitas induk dan Heriyanto sebagai pemegang saham pengendali TRUE."
+  ],
+  "fotoAdegan": "Construction workers finishing exterior walls of a mid-rise residential building on a suburban development site near Jakarta, late afternoon light.",
+  "takeaway": "Laporan ini condong negatif bagi TRUE karena rugi bersih justru melebar hampir dua kali lipat meski penjualan tumbuh, tanda bahwa beban operasional dan bunga pinjaman naik lebih cepat daripada pendapatan. Yang paling mencolok adalah arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar dihasilkan dari bisnis sehari-hari, yang berbalik dari positif Rp13,1 miliar menjadi negatif Rp16,4 miliar, sehingga perusahaan harus menutup kekurangan itu dengan pinjaman baru dari pihak berelasi senilai Rp17,6 miliar. Ekuitas, yaitu kekayaan bersih milik pemegang saham setelah dikurangi seluruh utang, ikut tergerus dari Rp224,8 miliar menjadi Rp213,0 miliar dalam tiga bulan karena rugi berjalan. Yang perlu dipantau pada laporan kuartal berikutnya adalah apakah ketergantungan pada pinjaman pihak berelasi ini terus membesar, karena itu menunjukkan seberapa jauh TRUE mengandalkan dukungan pemegang saham pengendali untuk menjaga kas perusahaan tetap berjalan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "kemnaker-klh-bagi-99-alat-latih-teknisi-pendingin-ke-14-balai",
   "category": "Ketenagakerjaan",
   "title": "Kemnaker-KLH Bagi [99] Alat Latih Teknisi Pendingin ke 14 Balai",
@@ -54,6 +342,84 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah adalah status proyek MNK Rokan, dari sekadar uji pengeboran di dua sumur menjadi kontrak bagi hasil resmi, dengan sokongan aturan baru Kepmen ESDM Nomor 246.K/MG.04/MEM.M/2026 yang memberi kepastian pajak dan izin usaha bagi kontraktor migas non konvensional. Yang terdampak langsung adalah PHR dan anak usahanya PHE Rokan Nonkonvensional sebagai operator, serta secara lebih luas industri migas non konvensional Indonesia yang selama ini belum punya proyek pengembangan berskala komersial untuk dijadikan acuan. Dengan struktur North Aman diperkirakan menyimpan 724 juta barel setara minyak dan tiga struktur lain, yakni South Aman, Rangau, dan Balam, sudah dipetakan sebagai kandidat lanjutan, arah proyek ini tampak menuju Rokan sebagai proyek percontohan sebelum polanya direplikasi ke wilayah kerja migas lain di Indonesia. Yang akan memastikan arah ini adalah hasil tahap appraisal lanjutan di North Aman, sebab baru dari situ akan terlihat apakah estimasi 724 juta barel setara minyak itu benar-benar bisa diproduksikan secara ekonomis.",
   "imageV": "mu3us1id"
+ },
+ {
+  "slug": "true-koreksi-laporan-keuangan-2025-aset-susut-jadi-rp681-85-m",
+  "category": "Aksi Korporasi",
+  "title": "TRUE Koreksi Laporan Keuangan 2025, [Aset] Susut jadi Rp681,85 M",
+  "deck": "Laporan keuangan tahunan versi koreksi TRUE untuk 2025 menunjukkan total aset turun ke Rp681,85 miliar dan utang berelasi jangka panjang baru sebesar Rp49,96 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T15:27:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260916154013-64406-0/FinancialStatement-2025-Tahunan-TRUE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUE",
+  "tags": [
+   "TRUE",
+   "Laporan Keuangan",
+   "Properti",
+   "Triniti Dinamik"
+  ],
+  "body": [
+   "PT Triniti Dinamik Tbk (TRUE) menyampaikan koreksi atas laporan keuangan tahunan 2025 kepada Bursa Efek Indonesia pada 16 September 2026. Surat pernyataan direksi ditandatangani Direktur Utama Yohanes Eddy Christianto. Auditor KAP Jamaludin, Ardi, Sukimto dan Rekan, dengan partner penandatangan Wisnu Adi Nugraha yang baru pertama kali menandatangani laporan TRUE, memberikan opini wajar tanpa modifikasian atau opini bersih atas laporan keuangan konsolidasian per 31 Desember 2025. Dalam catatan auditor, pengakuan pendapatan dari penjualan apartemen disebut sebagai hal audit utama karena pendapatan Grup terutama berasal dari penjualan apartemen senilai Rp60,76 miliar dan membutuhkan pertimbangan manajemen yang signifikan dalam menentukan waktu pengakuannya.",
+   "Total aset TRUE per akhir 2025 tercatat Rp681,85 miliar, turun dari Rp770,16 miliar pada akhir 2024. Penurunan ini terutama berasal dari aset real estat lancar, yakni persediaan properti siap jual, yang turun dari Rp475,08 miliar menjadi Rp414,06 miliar, serta piutang lain-lain yang turun dari Rp78,51 miliar menjadi Rp76,65 miliar. Di sisi liabilitas, total utang perusahaan turun dari Rp510,46 miliar menjadi Rp457,04 miliar, ditopang pelunasan sebagian besar utang usaha pihak ketiga dari Rp62,65 miliar menjadi Rp16,06 miliar dan uang muka pelanggan yang turun dari Rp140,07 miliar menjadi Rp90,38 miliar. Namun di sisi lain, muncul pos baru berupa utang pihak berelasi jangka panjang senilai Rp49,96 miliar, yang sebelumnya nihil pada akhir 2024.",
+   "Laporan auditor independen juga menyebutkan bahwa Grup melakukan penyajian kembali atas laporan posisi keuangan, laporan laba rugi, dan laporan arus kas untuk tahun-tahun yang berakhir 31 Desember 2024 dan 31 Desember 2023, sehubungan dengan penyesuaian pada akun-akun tertentu, sebagaimana diuraikan pada Catatan 35 laporan keuangan. Selisih antara total aset dan total liabilitas menunjukkan ekuitas TRUE turun dari sekitar Rp259,70 miliar pada akhir 2024 menjadi Rp224,81 miliar pada akhir 2025."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a mid-rise apartment building site in an Indonesian city, overcast afternoon light, crane in background",
+  "takeaway": "Laporan ini condong negatif bagi TRUE, sebab meski auditor memberi opini bersih, total aset dan ekuitas perusahaan sama-sama menyusut dalam setahun terakhir, dan muncul utang baru ke pihak berelasi yang menggantikan uang muka pelanggan yang mengering. Ekuitas, yakni kekayaan bersih yang jadi hak pemegang saham setelah dikurangi semua utang, turun dari sekitar Rp259,70 miliar menjadi Rp224,81 miliar, sementara uang muka pelanggan anjlok dari Rp140,07 miliar menjadi Rp90,38 miliar, sinyal penjualan unit properti baru melambat karena uang muka itu salah satu sumber dana murah bagi pengembang untuk membiayai proyek. Pemegang saham perlu mencermati laporan tahunan lengkap yang menurut auditor baru tersedia setelah 8 September 2026, yang akan merinci penyajian kembali angka 2023 dan 2024 sesuai Catatan 35, serta hasil kuartal berikutnya untuk melihat apakah tren rugi yang membengkak pada kuartal I 2026, seperti sudah diberitakan sebelumnya, masih berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "moli-jawab-bursa-soal-free-float-beri-tenggat-2029",
+  "category": "Aksi Korporasi",
+  "title": "MOLI Jawab Bursa soal [Free Float], Beri Tenggat 2029",
+  "deck": "MOLI menanggapi permintaan penjelasan BEI soal rencana pemenuhan syarat minimum saham beredar bebas 15 persen, dengan opsi penjualan saham pendiri paling lambat Maret 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T15:27:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3c29707612_d56dc6b911.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MOLI",
+  "tags": [
+   "MOLI",
+   "free float",
+   "BEI",
+   "Madusari Murni Indah"
+  ],
+  "body": [
+   "PT Madusari Murni Indah Tbk. (MOLI) menjawab surat Bursa Efek Indonesia (BEI) No. S-11615/BEI.PP2/09-2026 tanggal 10 September 2026 yang meminta penjelasan atas rencana perseroan memenuhi ketentuan minimum saham beredar bebas atau free float sebesar 15 persen. Tanggapan itu dikirim lewat surat No. 041/MMI/EXT/JGT/IX/2026 tertanggal 16 September 2026, ditandatangani oleh Direktur Utama yang merangkap Sekretaris Perusahaan, dan ditujukan kepada Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryanto.",
+   "Dalam suratnya, manajemen menyebut dua alternatif yang masih dipertimbangkan bersama para pemegang saham pendiri. Pertama, seluruh pemegang saham pendiri akan menjual sebagian kepemilikan masing-masing kepada publik secara proporsional untuk memenuhi syarat free float 15 persen, paling lambat 31 Maret 2029. Kedua, manajemen akan terus mengevaluasi peluang ekspansi dan mempertimbangkan penggalangan dana lewat penawaran umum sekunder atau penerbitan saham baru kepada publik.",
+   "Perseroan tidak merinci kendala spesifik yang membuatnya belum memenuhi ketentuan tersebut, meskipun BEI secara eksplisit memintanya. MOLI hanya menegaskan komitmen mematuhi peraturan pasar modal dan bursa, serta meminta arahan dan dukungan teknis dari BEI mengenai langkah yang bisa ditempuh. Perseroan menyatakan akan terus memantau kondisi pasar dan berkoordinasi dengan pemegang saham untuk menentukan alternatif dan waktu pelaksanaan yang paling tepat."
+  ],
+  "fotoAdegan": "Rows of stainless steel distillation tanks at an ethanol processing plant in rural East Java, workers in uniform, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi MOLI karena perusahaan mengonfirmasi belum memenuhi syarat minimum saham beredar bebas alias free float sebesar 15 persen, dan baru menjanjikan kepatuhan penuh paling lambat Maret 2029, tenggat yang masih hampir tiga tahun lagi. Dua opsi yang disebut sama-sama menyentuh struktur pemegang saham: penjualan saham pendiri ke publik akan menambah porsi saham yang beredar bebas diperdagangkan, sementara penawaran umum sekunder berarti penerbitan saham baru yang bisa membuat laba per saham milik pemegang lama terdilusi, karena laba yang sama harus dibagi ke lebih banyak lembar saham. Sampai surat ini terbit, MOLI belum memutuskan opsi mana yang akan dijalankan, sehingga belum ada kepastian jumlah saham, harga, atau jadwal transaksi. Yang perlu dipantau berikutnya adalah tanggapan lanjutan BEI atas penjelasan ini, serta apakah MOLI mulai merealisasikan salah satu dari dua opsi tersebut sebelum tenggat 31 Maret 2029.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lppi-koreksi-laporan-realisasi-dana-obligasi-sukuk-rp3-65-t",
+  "category": "Aksi Korporasi",
+  "title": "LPPI [Koreksi] Laporan Realisasi Dana Obligasi-Sukuk Rp3,65 T",
+  "deck": "LPPI mengoreksi laporan realisasi dana obligasi dan sukuk berkelanjutan senilai total Rp3,65 triliun, dengan sisa Rp162,84 miliar masih ditempatkan di deposito BNI menunggu pencairan modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 September 2026",
+  "isoDate": "2026-09-16T15:18:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/61175a0e5b_2b7d806439.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Lontar Papyrus Pulp & Paper Industry (LPPI) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum obligasi dan sukuk berkelanjutan yang sebelumnya disampaikan pada 8 September 2026. Surat koreksi bernomor 018CRPLP/IX/2026 ini ditandatangani Direktur Kosim Sutiono dan mencakup empat instrumen yang sama-sama efektif sejak 2 Desember 2025, yaitu Obligasi Berkelanjutan IV Tahap II senilai Rp1,05 triliun, Sukuk Mudharabah Berkelanjutan II Tahap II senilai Rp1,55 triliun, Obligasi Berkelanjutan IV Tahap III senilai Rp800,9 miliar, dan Sukuk Mudharabah Berkelanjutan II Tahap III senilai Rp272,04 miliar. Setelah dikurangi biaya emisi yang berkisar Rp1,33 miliar hingga Rp8,37 miliar per instrumen, total dana bersih yang diterima perseroan dari keempat instrumen itu mencapai sekitar Rp3,65 triliun.",
+   "Dari seluruh dana bersih tersebut, mayoritas sudah dipakai membayar pokok dan bunga utang bank serta obligasi lama. Obligasi Tahap II menyalurkan 73 persen dananya, atau Rp759,56 miliar, untuk pembayaran utang dan 27 persen atau Rp283,6 miliar untuk modal kerja, keduanya sudah terealisasi penuh. Sukuk Tahap II menyalurkan 71 persen atau Rp1,1 triliun untuk pembayaran utang dan 29 persen atau Rp446,78 miliar untuk modal kerja, juga terealisasi penuh. Sukuk Tahap III menyalurkan 79 persen atau Rp213,04 miliar untuk pembayaran utang dan 21 persen atau Rp57,67 miliar untuk modal kerja, keduanya sudah tuntas.",
+   "Yang belum tuntas adalah Obligasi Tahap III. Dari rencana modal kerja Rp232,35 miliar atau 29 persen dari dana bersih, baru Rp69,51 miliar atau 9 persen yang terealisasi. Sisanya, Rp162,84 miliar, masih mengendap di rekening giro PT Bank Negara Indonesia (Persero) Tbk dengan bunga 6,5 persen, dan menurut perseroan akan dicairkan bertahap untuk kebutuhan modal kerja dengan target realisasi Oktober 2026. Bagian pembayaran utang di tahap ini, Rp564,86 miliar atau 71 persen dari dana bersih, sudah terealisasi penuh."
+  ],
+  "fotoAdegan": "Stacks of pulp bales and paper rolls inside an industrial mill warehouse, a forklift operator working under overhead lighting",
+  "takeaway": "Laporan ini netral bagi kinerja LPPI, karena isinya hanya mengonfirmasi bahwa realisasi dana obligasi dan sukuk berjalan sesuai rencana di prospektus, tanpa penyimpangan berarti dari empat penawaran yang efektif sejak Desember 2025. Pos yang tersentuh adalah beban bunga, sebab total Rp2,63 triliun dari dana ini dipakai membayar pokok dan bunga utang bank serta obligasi lama, yang bila benar mengganti pinjaman berbunga lebih mahal bisa menekan beban bunga perusahaan ke depan, sementara sisanya sekitar Rp857,56 miliar dipakai untuk modal kerja operasional pabrik bubur kertas dan kertas tisu. Yang perlu dipantau adalah sisa dana Rp162,84 miliar dari Obligasi Berkelanjutan IV Tahap III yang masih mengendap di giro Bank Negara Indonesia dengan bunga 6,5 persen, karena perseroan menjanjikan pencairannya sebagai modal kerja pada Oktober 2026, dan realisasi pada tanggal itu akan jadi ukuran apakah rencana penggunaan dana benar-benar dijalankan tepat waktu.",
+  "sentimen": "netral"
  },
  {
   "slug": "anggaran-esdm-2027-rp27-37-t-82-persen-untuk-infrastruktur",

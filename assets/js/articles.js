@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "inps-klaim-free-float-capai-22-89-penuhi-syarat-bursa",
+  "category": "Aksi Korporasi",
+  "title": "INPS Klaim [Free Float] Capai 22,89%, Penuhi Syarat Bursa",
+  "deck": "INPS menjawab surat BEI soal syarat minimum saham publik, mengklaim porsi free float sudah 22,89% per 11 September 2026, di atas ambang 15%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T22:05:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cb0b6d5a37_4eed397626.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "free float",
+   "BEI",
+   "suspensi saham"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) menyampaikan surat penjelasan bernomor 010/INPS-BEI/IX/2026 tertanggal 16 September 2026, sebagai jawaban atas surat Bursa Efek Indonesia Nomor S-11728/BEI.PP1/09-2026 tanggal 10 September 2026. Surat BEI itu mempertanyakan pemenuhan syarat minimum saham publik (free float) berdasarkan laporan bulanan registrasi kepemilikan saham per 30 Juni 2026, yang menunjukkan INPS belum memenuhi Ketentuan V.1.1 Peraturan Bursa Nomor I-A. Surat jawaban ditandatangani Direktur Utama INPS, Eddy Purwanto Winata.",
+   "Dalam jawabannya, INPS memaparkan Daftar Pemegang Saham (DPS) per 11 September 2026 yang diterbitkan biro administrasi efek PT Adimitra Jasa Korpora. Pemegang saham pengendali, PT Graha Inti Guna Persada, tercatat menguasai 501.208.000 saham atau 77,11 persen. Sisanya, 148.792.000 saham atau 22,89 persen, tersebar ke 1.089 pemegang saham publik yang masing-masing memiliki kurang dari 5 persen, terdiri dari 1.086 investor lokal dengan 148.783.300 saham dan 3 investor asing dengan 8.700 saham. Total saham tercatat INPS adalah 650.000.000 lembar dan perseroan menegaskan tidak memiliki saham treasury serta tidak ada pemegang saham lain selain Graha Inti Guna Persada yang memiliki 5 persen atau lebih.",
+   "Dengan angka 22,89 persen itu, INPS menyatakan sudah memenuhi syarat minimum free float 15 persen sesuai Peraturan Bursa I-A. Sesuai prosedur, perseroan wajib menyampaikan penjelasan ini paling lambat 5 hari bursa sejak menerima permintaan Bursa, melalui sistem SPE-IDXnet secara non-publish dengan form E074, dan hasilnya akan menjadi bahan pertimbangan Bursa dalam menentukan kebijakan free float INPS selanjutnya."
+  ],
+  "fotoAdegan": "Exterior view of modern high-rise office towers in Jakarta's central business district, street traffic below, midday haze",
+  "takeaway": "Laporan ini netral bagi pemegang saham karena isinya sebatas mengklarifikasi angka kepemilikan saham publik, tanpa mengubah struktur kendali atau menambah aset dan arus kas perusahaan. Yang tersentuh adalah komposisi pemegang saham dan sebaran hak suara: pengendali PT Graha Inti Guna Persada tetap menguasai 77,11 persen suara, sementara sisanya terpecah ke 1.089 pemegang saham publik yang masing-masing di bawah 5 persen, sehingga tidak ada pergeseran kendali. Pelaku pasar mencermati rasio saham beredar di publik karena angka ini menentukan mudah tidaknya saham diperjualbelikan dan apakah Bursa akan menjatuhkan sanksi tambahan jika syaratnya tidak terpenuhi. Yang perlu dipantau berikutnya adalah keputusan Bursa atas penjelasan ini, mengingat saham INPS sudah lebih dulu disuspensi menyusul status pemantauan khusus selama setahun, sehingga klaim pemenuhan free float per 11 September 2026 ini akan menjadi salah satu pertimbangan apakah status suspensi tersebut bisa berubah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adhi-ke-bursa-utang-jatuh-tempo-capai-rp17-02-t-likuiditas",
+  "category": "Aksi Korporasi",
+  "title": "ADHI ke Bursa: Utang Jatuh Tempo Capai Rp17,02 T [Likuiditas]",
+  "deck": "ADHI menjawab permintaan penjelasan BEI: arus kas operasional melebar jadi negatif Rp751 miliar, liabilitas jatuh tempo setahun ke depan capai Rp17,02 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T22:03:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fa2bff373_de553b2950.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "likuiditas",
+   "arus kas",
+   "konstruksi"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) menyampaikan jawaban resmi atas surat permintaan penjelasan Bursa Efek Indonesia tertanggal 15 September 2026 terkait laporan keuangan per 30 Juni 2026. Surat itu disampaikan ke bursa oleh Corporate Secretary Siswanto, sementara isi jawabannya sendiri ditandatangani jajaran direksi. Poin utama yang disorot bursa adalah arus kas dari aktivitas operasional yang tercatat negatif Rp751,0 miliar, melebar jauh dibandingkan negatif Rp181,4 miliar pada periode yang sama tahun lalu. Menurut penjelasan ADHI, pelebaran itu terjadi karena penerimaan kas dari pelanggan turun 16,05 persen dari Rp4.993,4 miliar menjadi Rp4.192,3 miliar, sementara pengeluaran kas untuk pemasok, karyawan, dan pajak hanya turun 4,47 persen, dari Rp5.174,8 miliar menjadi Rp4.943,3 miliar. Perusahaan menyebut proyek Tol Solo-Jogja Paket 1.2 dan Tol Jogja-Bawen Paket 1 yang mendekati akhir masa konstruksi sebagai salah satu penyebab, dengan kontribusi kas dari dua proyek itu turun dari Rp1.005,3 miliar menjadi Rp756,4 miliar.",
+   "Dalam jawabannya, manajemen ADHI mengutip Catatan 55 laporan keuangan soal asumsi kelangsungan usaha yang menyebut kinerja keuangan dan likuiditas Grup berada di bawah tekanan. Penyebabnya antara lain profil piutang usaha dan tagihan bruto pemberi kerja yang besar dan sebagian berumur panjang, liabilitas keuangan yang jatuh tempo dalam 12 bulan ke depan senilai Rp17,02 triliun, serta perlambatan penerimaan kas dari pelanggan. Untuk memperbaiki kondisi ini dalam sisa tahun 2026, ADHI menyebut enam langkah: mempercepat penagihan piutang proyek LRT Jabodebek, Tol Aceh-Sigli, dan Tol Cisumdawu; menata ulang jadwal dan pengelompokan utang kepada kreditur; melepas aset non inti seperti penyertaan saham di PT Jasamarga Jogja Solo, PT Dumai Tirta Persada, PT Jasamarga Jogja Bawen, serta aset hotel secara bertahap dalam maksimal dua tahun; mengupayakan dukungan dana tunai maupun non tunai dari pemegang saham yang menurut perusahaan masih dalam pembahasan; memperkuat bisnis inti jasa konstruksi; dan mengikuti program penyehatan BUMN Karya di bawah pengawasan PT Danantara Aset Management selaku pemegang saham mayoritas.",
+   "Soal piutang usaha, ADHI mencatat total piutang bruto Rp3,46 triliun per Juni 2026, turun menjadi neto Rp2,06 triliun setelah dikurangi cadangan kerugian sebesar Rp1.401,1 miliar atau 40,4 persen dari piutang bruto. Piutang yang menunggak lebih dari 36 bulan tercatat Rp1.813,9 miliar, didominasi proyek pemerintah, BUMN, dan pengembang properti yang penyelesaian pembayarannya memerlukan proses administrasi berjenjang. Piutang kepada PT Semesta Marga Raya yang telah menunggak lebih dari 36 bulan sebesar Rp404 miliar baru dicadangkan Rp135,9 miliar karena ada jadwal pembayaran hingga tahun 2029 sesuai perjanjian perdamaian antara kedua pihak. Di sisi kewajiban, ADHI juga memiliki utang pajak Rp705,59 miliar, sebagian besar berupa PPN dan PPh final, yang menurut perusahaan naik signifikan terutama di entitas anak PT Adhi Persada Gedung.",
+   "ADHI turut memerinci rencana pelepasan sejumlah lahan miliknya untuk menambah likuiditas, termasuk lahan Sinduadi 2 di Yogyakarta senilai Rp56,86 miliar, Pejaten di Jakarta senilai Rp247,11 miliar, The Anggana Village di Bogor senilai Rp88,35 miliar, Dhika Universe Malang senilai Rp101,67 miliar, dan Mardhika Park di Bekasi senilai Rp12,41 miliar, yang semuanya berstatus rencana divestasi. Perusahaan juga melaporkan aset lancar lain-lain senilai Rp1,21 triliun yang didominasi klaim proyek Tol Sigli-Banda Aceh sebesar Rp832,5 miliar, masih dalam proses mediasi dengan pemberi kerja proyek, PT Hutama Karya."
+  ],
+  "fotoAdegan": "Construction workers finishing an elevated toll road section at dusk, heavy machinery and safety barriers nearby, Indonesia infrastructure site",
+  "takeaway": "Laporan ini condong negatif, karena jawaban resmi ADHI ke bursa justru menegaskan bahwa tekanan kas yang sudah diketahui publik ternyata lebih dalam: arus kas operasional minus Rp751 miliar, empat kali lipat dari minus Rp181,4 miliar tahun lalu, sementara utang yang jatuh tempo dalam setahun ke depan mencapai Rp17,02 triliun. Yang tersentuh adalah arus kas operasional, yaitu selisih uang tunai yang benar-benar masuk dan keluar dari kegiatan usaha sehari-hari, bukan sekadar laba di atas kertas, sehingga minusnya berarti perusahaan makin bergantung pada pinjaman baru atau suntikan dana untuk membiayai proyek dan membayar kewajiban. Piutang yang menunggak lebih dari tiga tahun sebesar Rp1,81 triliun juga sudah dicadangkan sebagai potensi kerugian sampai Rp1,4 triliun, tanda bahwa sebagian tagihan itu berisiko tidak tertagih penuh. Yang perlu dipantau selanjutnya adalah realisasi rencana ADHI melepas aset non inti, termasuk sejumlah lahan dan penyertaan saham di ruas tol, dalam maksimal dua tahun ke depan, serta hasil pembahasan dukungan dana dari pemegang saham yang menurut perusahaan masih berlangsung tanpa kepastian waktu, plus perbaikan arus kas operasional yang dijanjikan tercapai sampai akhir tahun 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mglv-ekuitas-turun-10-88-akuisisi-data-center-disebut-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "MGLV: Ekuitas Turun 10,88%, Akuisisi Data Center Disebut [Afiliasi]",
+  "deck": "Paparan publik insidentil MGLV mengungkap ekuitas turun 10,88 persen dan liabilitas naik 16,86 persen, sementara akuisisi NAC dan NGC dikonfirmasi sebagai transaksi afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T21:23:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9f8dd19da_ca33d9bf6e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "data center",
+   "rights issue",
+   "transaksi afiliasi"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menggelar paparan publik insidentil secara daring pada Rabu, 16 September 2026 pukul 14.00 hingga 15.00 WIB, sebagai tindak lanjut dari paparan publik sebelumnya pada 15 September 2026. Acara dihadiri Direktur Utama Ahmad Zulfikar dan Direktur sekaligus Corporate Secretary Putra Harianto Bate'e, dengan 13 peserta eksternal dari kalangan analis dan investor. Agenda mencakup perkembangan kinerja dan operasional terkini, ringkasan laporan keuangan terakhir, serta rencana usaha Perseroan dan anak perusahaan ke depan.",
+   "Dalam sesi tanya jawab, manajemen menegaskan bahwa seluruh rangkaian transaksi, yakni pengambilalihan NAC dan NGC, divestasi 13 perusahaan anak beserta pengalihan aset dan kewajibannya, dan rencana penawaran umum terbatas atau PMHMETD I, telah disetujui pemegang saham dalam RUPSLB dan RUPS Independen pada 7 September 2026. Manajemen juga mengonfirmasi bahwa akuisisi NAC dan NGC merupakan transaksi afiliasi karena Perseroan, NAC, dan NGC berada di bawah pengendali yang sama, yaitu PT Nextier Datamate Center. Total kapasitas data center dari NAC dan NGC mencapai 102 megawatt, dengan rencana tambahan 96 megawatt di Jababeka dan Batang, yang pendanaannya berasal dari dana hasil PMHMETD I senilai Rp2,54 triliun ditambah sumber lain termasuk dukungan pemegang saham dan fasilitas pendanaan bertahap.",
+   "Soal kondisi keuangan, manajemen memaparkan posisi per 30 Juni 2026 dibandingkan 31 Desember 2025, yakni sebelum transaksi akuisisi dan perubahan kegiatan usaha dijalankan: total aset turun 2,06 persen, total liabilitas naik 16,86 persen, dan total ekuitas turun 10,88 persen. Manajemen berdalih penurunan pendapatan 74,56 persen dan kerugian neto yang sebelumnya diungkap tidak mencerminkan bisnis Perseroan ke depan, karena berasal dari 13 anak usaha lama yang sudah dilepas, dan kontribusi bisnis data center dari NAC dan NGC baru akan terlihat secara bertahap seiring beroperasinya kapasitas baru."
+  ],
+  "fotoAdegan": "Technicians in hard hats inspecting rows of server racks and cooling pipes inside an industrial data center under construction, dim ambient lighting",
+  "takeaway": "Laporan ini condong negatif bagi fundamental MGLV, sebab data yang diungkap menunjukkan ekuitas menyusut 10,88 persen dan liabilitas melonjak 16,86 persen dalam semester pertama 2026, sementara akuisisi NAC dan NGC ternyata transaksi dengan pengendali yang sama, sehingga menambah pertanyaan soal independensi harga bagi pemegang saham minoritas meski penilai independen sudah dilibatkan. Ekuitas adalah nilai kekayaan bersih milik pemegang saham setelah dikurangi utang, jadi penyusutannya berarti buku perusahaan menipis, sementara kenaikan liabilitas menandakan beban utang bertambah dan bisa menekan arus kas jika tidak segera diimbangi pendapatan baru dari bisnis data center. Perseroan sendiri mengakui bahwa penurunan pendapatan 74,56 persen dan kerugian sebelumnya adalah warisan bisnis lama yang sudah didivestasikan, sehingga kinerja sesungguhnya baru akan terlihat setelah NAC dan NGC beroperasi penuh. Yang perlu dipantau selanjutnya adalah realisasi pembangunan tambahan kapasitas 96 megawatt di Jababeka dan Batang serta apakah dana rights issue Rp2,54 triliun cukup menutup kebutuhan belanja modal itu, karena Perseroan mengaku sisa kekurangan dana akan dicari bertahap dari sumber lain tanpa kepastian jumlah atau tenggat waktu.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "penerimaan-pajak-ekonomi-digital-capai-rp57-23-triliun-per-agustus",
   "category": "Makroekonomi",
   "title": "Penerimaan Pajak Ekonomi Digital Capai [Rp57,23] Triliun per Agustus",
@@ -57,6 +136,58 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Dari tambahan Rp428,71 miliar yang disetujui, porsi terbesar pagu Kemendag 2027, yaitu Rp1,35 triliun dari total Rp1,56 triliun, masuk ke Program Dukungan Manajemen, semacam anggaran operasional dan administrasi kementerian. Sementara itu program teknis yang langsung menyentuh dunia usaha, yakni Perdagangan Dalam Negeri dan Luar Negeri, hanya kebagian sekitar Rp211 miliar gabungan. Artinya pihak yang lebih dulu merasakan dampak kenaikan anggaran ini adalah struktur kerja internal Kemendag, sementara pedagang pasar rakyat yang disebut sebagai prioritas revitalisasi belum punya kepastian angka karena tidak muncul sebagai pos tersendiri dalam rincian program. Pola ini mengarah ke anggaran tambahan yang lebih banyak menopang operasional kementerian ketimbang langsung membiayai proyek di lapangan. Kejelasannya baru akan terlihat saat Kemendag menerbitkan rincian DIPA atau RKA-KL 2027, karena di situlah akan tampak apakah revitalisasi pasar rakyat mendapat pos anggaran sendiri atau hanya menumpang di anggaran rutin.",
   "imageV": "mu5mg2mj"
+ },
+ {
+  "slug": "yelo-jadwalkan-rupslb-pada-26-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "YELO jadwalkan [RUPSLB] pada 26 Oktober 2026",
+  "deck": "PT Yelooo Integra Datanet Tbk akan menggelar RUPSLB di Jakarta pada 26 Oktober 2026; pemegang saham per 1 Oktober 2026 berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T20:53:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d532314bfb_8323bd2b8a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YELO",
+  "tags": [
+   "YELO",
+   "RUPSLB",
+   "IDX",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Yelooo Integra Datanet Tbk (YELO) mengumumkan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 26 Oktober 2026 pukul 14.00 WIB di Jakarta. Lokasi persis rapat belum diumumkan dan baru akan disampaikan lewat iklan pemanggilan resmi. Pemanggilan rapat, termasuk agenda lengkapnya, baru akan terbit pada Jumat, 2 Oktober 2026, melalui situs web perusahaan (passpod.com), situs Bursa Efek Indonesia, dan situs eASY KSEI.",
+   "Yang berhak hadir atau diwakili dalam RUPSLB adalah pemegang saham yang namanya tercatat di Daftar Pemegang Saham (DPS) Perseroan, atau yang memiliki saham di sub rekening efek KSEI, per Kamis, 1 Oktober 2026, sampai penutupan perdagangan saham YELO hari itu. Perseroan juga membuka jalur bagi pemegang saham yang mewakili minimal 1/20 atau 5 persen dari total saham berhak suara untuk mengusulkan agenda rapat. Usulan harus disampaikan tertulis kepada Direksi disertai alasan dan dokumen pendukung, paling lambat Jumat, 25 September 2026.",
+   "Untuk pemberian kuasa, Perseroan menyediakan dua jalur, yaitu secara elektronik lewat fasilitas eASY.KSEI, atau lewat formulir surat kuasa manual yang tersedia di situs web perusahaan. Ketentuan teknis lengkap soal tata cara kuasa dan penggunaan hak suara akan dijelaskan rinci dalam pemanggilan resmi yang terbit awal Oktober."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs facing a lectern in a modern Jakarta office hall, morning light, staff preparing for a formal meeting",
+  "takeaway": "Pemberitahuan ini netral bagi penilaian kinerja YELO, sebab isinya baru sebatas jadwal dan mekanisme rapat, sementara agenda RUPSLB yang sesungguhnya, misalnya soal perubahan modal, penunjukan direksi, atau aksi korporasi lain, belum diungkap dan baru muncul lewat pemanggilan resmi pada 2 Oktober 2026. Karena agenda belum diketahui, dampaknya terhadap pos-pos seperti ekuitas, jumlah saham beredar, atau hak suara pemegang saham belum bisa dinilai dari dokumen ini saja, dan pemegang saham perlu menunggu isi pemanggilan untuk tahu apakah rapat ini akan mengubah struktur kepemilikan atau modal perusahaan. Yang perlu dipantau berikutnya adalah batas waktu pengajuan usul agenda oleh pemegang saham pada 25 September 2026, terbitnya pemanggilan resmi berisi agenda lengkap pada 2 Oktober 2026, serta pelaksanaan RUPSLB itu sendiri pada 26 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vici-rilis-materi-public-expose-laba-bersih-anjlok-44",
+  "category": "Aksi Korporasi",
+  "title": "VICI Rilis Materi Public Expose, Laba Bersih [Anjlok] 44%",
+  "deck": "Materi public expose insidental VICI menunjukkan laba bersih turun 44 persen dan EBITDA turun 38 persen pada semester I 2026, di tengah suspensi saham oleh BEI akibat lonjakan harga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T20:45:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3055f01c8_f15f77b6e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "Public Expose",
+   "Suspensi BEI",
+   "Laba Bersih"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) menyampaikan materi Public Expose Insidental kepada Bursa Efek Indonesia melalui surat No. 030/VICI-CORSEC/IX/2026 tanggal 17 September 2026. Penyelenggaraan paparan publik ini bermula dari pengumuman BEI Nomor Peng-SPT-00175/BEI.WAS/09-2026 tanggal 11 September 2026, yang menghentikan sementara perdagangan saham VICI pada 14 September 2026 karena kenaikan harga kumulatif yang signifikan. Sehari setelah suspensi, BEI meminta VICI melalui surat elektronik untuk menggelar Public Expose Insidental, yang dijadwalkan berlangsung 18 September 2026 secara daring lewat Zoom dalam Bahasa Indonesia, dengan sesi tanya jawab dibatasi maksimal lima penanya.",
+   "Materi yang disampaikan memuat kinerja keuangan semester I 2026 dibanding periode sama tahun lalu. Pendapatan naik 10,14 persen menjadi Rp745,3 miliar dan laba kotor naik 4,64 persen menjadi Rp394,8 miliar. Namun laba bersih justru turun 44,15 persen, dari Rp80,7 miliar menjadi Rp45,1 miliar, dan EBITDA turun 38,08 persen dari Rp123,5 miliar menjadi Rp76,5 miliar. Total aset naik 3,27 persen menjadi Rp1,36 triliun, total liabilitas turun tipis 0,91 persen menjadi Rp255,6 miliar, dan total ekuitas naik 4,28 persen menjadi Rp1,10 triliun. Perseroan juga mencatat penjualan lewat kanal daring menyumbang 26,4 persen dari total penjualan hingga Juni 2026.",
+   "Dokumen itu turut memuat struktur kepemilikan saham VICI: PT Sukses Sejati Sejahtera menguasai 84,95 persen, disusul Henny Soetanto 0,15 persen, Luhur Dino Herlambang 0,10 persen, Andi Sulistiawan 0,08 persen, Sumardi Widjaja 0,07 persen, dan masyarakat 14,65 persen. PT Sukses Sejati Sejahtera sendiri dikuasai 99,95 persen oleh PT Gemilang Tunggal Prakarsa. Perseroan menyebut tengah menjajaki akuisisi sejumlah merek untuk memperluas pasar, meningkatkan margin, dan memperkuat likuiditas, tanpa menyebut nama calon target atau nilai transaksi, serta menegaskan tidak ada informasi material lain yang belum diungkapkan ke publik selain yang sudah disampaikan sebelumnya."
+  ],
+  "fotoAdegan": "Factory workers in blue uniforms inspecting bottled haircare and skincare products on a manufacturing line in Semarang, bright industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi VICI, karena kenaikan pendapatan 10 persen pada semester pertama 2026 tidak diikuti kenaikan laba, laba bersih malah anjlok 44 persen dan EBITDA turun 38 persen dibanding periode sama tahun lalu. Ini terjadi persis ketika harga sahamnya melonjak signifikan hingga bursa menghentikan sementara perdagangannya, sehingga pelaku pasar patut mempertanyakan apakah kenaikan harga itu didukung kinerja bisnis yang justru sedang melemah. EBITDA adalah ukuran laba dari bisnis inti sebelum dikurangi bunga, pajak, dan penyusutan aset, sementara laba bersih adalah sisa keuntungan setelah semua biaya dibayarkan, dan keduanya turun tajam menandakan tekanan pada profitabilitas meski penjualan tumbuh. Yang perlu dipantau adalah paparan publik insidental pada 18 September 2026, saat manajemen VICI wajib menjelaskan langsung kepada investor dan bursa penyebab lonjakan harga saham di tengah pelemahan laba tersebut.",
+  "sentimen": "negatif"
  },
  {
   "slug": "qris-melonjak-dua-kali-lipat-bi-soroti-kesenjangan-literasi",

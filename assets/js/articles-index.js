@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "inps-klaim-free-float-capai-22-89-penuhi-syarat-bursa",
+  "category": "Aksi Korporasi",
+  "title": "INPS Klaim [Free Float] Capai 22,89%, Penuhi Syarat Bursa",
+  "deck": "INPS menjawab surat BEI soal syarat minimum saham publik, mengklaim porsi free float sudah 22,89% per 11 September 2026, di atas ambang 15%.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "free float",
+   "BEI",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cb0b6d5a37_4eed397626.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-ke-bursa-utang-jatuh-tempo-capai-rp17-02-t-likuiditas",
+  "category": "Aksi Korporasi",
+  "title": "ADHI ke Bursa: Utang Jatuh Tempo Capai Rp17,02 T [Likuiditas]",
+  "deck": "ADHI menjawab permintaan penjelasan BEI: arus kas operasional melebar jadi negatif Rp751 miliar, liabilitas jatuh tempo setahun ke depan capai Rp17,02 triliun.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "likuiditas",
+   "arus kas",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fa2bff373_de553b2950.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-ekuitas-turun-10-88-akuisisi-data-center-disebut-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "MGLV: Ekuitas Turun 10,88%, Akuisisi Data Center Disebut [Afiliasi]",
+  "deck": "Paparan publik insidentil MGLV mengungkap ekuitas turun 10,88 persen dan liabilitas naik 16,86 persen, sementara akuisisi NAC dan NGC dikonfirmasi sebagai transaksi afiliasi.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "data center",
+   "rights issue",
+   "transaksi afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9f8dd19da_ca33d9bf6e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penerimaan-pajak-ekonomi-digital-capai-rp57-23-triliun-per-agustus",
   "category": "Makroekonomi",
   "title": "Penerimaan Pajak Ekonomi Digital Capai [Rp57,23] Triliun per Agustus",
@@ -39,6 +87,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/raker-dengan-komisi-vi-dpr-ri-mendag-busan-apresiasi-disetujuinya-pagu-anggaran-kemendag-2027",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "yelo-jadwalkan-rupslb-pada-26-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "YELO jadwalkan [RUPSLB] pada 26 Oktober 2026",
+  "deck": "PT Yelooo Integra Datanet Tbk akan menggelar RUPSLB di Jakarta pada 26 Oktober 2026; pemegang saham per 1 Oktober 2026 berhak hadir.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YELO",
+   "RUPSLB",
+   "IDX",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d532314bfb_8323bd2b8a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vici-rilis-materi-public-expose-laba-bersih-anjlok-44",
+  "category": "Aksi Korporasi",
+  "title": "VICI Rilis Materi Public Expose, Laba Bersih [Anjlok] 44%",
+  "deck": "Materi public expose insidental VICI menunjukkan laba bersih turun 44 persen dan EBITDA turun 38 persen pada semester I 2026, di tengah suspensi saham oleh BEI akibat lonjakan harga.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "Public Expose",
+   "Suspensi BEI",
+   "Laba Bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3055f01c8_f15f77b6e4.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "qris-melonjak-dua-kali-lipat-bi-soroti-kesenjangan-literasi",
@@ -6422,88 +6502,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466210-anggaran-sekolah-rakyat-2027-jebol-rp715-triliun-kapasitas-siswa-diusulkan-naik-lebih-dari-2-kali-lipat"
- },
- {
-  "slug": "astra-pertahankan-dividen-45-50-persen-di-2026",
-  "category": "Pasar Modal",
-  "title": "Astra Pertahankan [Dividen] 45-50 Persen di 2026",
-  "deck": "Astra menegaskan akan membagikan 45-50 persen laba sebagai dividen untuk 2026, meski laba bersih semester I turun 19 persen akibat pelemahan bisnis pertambangan dan alat berat.",
-  "date": "10 September 2026",
-  "image": "assets/img/astra-pertahankan-dividen-45-50-persen-di-2026.jpg",
-  "imageV": "mtvfkjuy",
-  "tags": [
-   "astra",
-   "dividen",
-   "rupst",
-   "asii"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466208-astra-bakal-pertahankan-dividend-payout-ratio-45-50-persen"
- },
- {
-  "slug": "indonesia-pimpin-imt-gt-forum-bisnis-tarik-300-investor",
-  "category": "Global",
-  "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
-  "deck": "Indonesia resmi mengambil alih keketuaan forum kerja sama ekonomi IMT-GT dan membuka forum bisnis yang mempertemukan lebih dari 300 pelaku usaha dari lima negara di Medan.",
-  "date": "10 September 2026",
-  "image": "assets/img/bisnis-resto.jpg",
-  "tags": [
-   "IMT-GT",
-   "Kemenko Perekonomian",
-   "Investasi",
-   "Sumatera"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7088/indonesia-dorong-reimajinasi-pembangunan-konektivitas-dan-langkah-langkah-transformatif-untuk-kemajuan-bersama",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kewajiban-neto-luar-negeri-ri-turun-jadi-us-197-4-miliar",
-  "category": "Makroekonomi",
-  "title": "Kewajiban Neto Luar Negeri RI [Turun] Jadi US$197,4 Miliar",
-  "deck": "Bank Indonesia mencatat kewajiban neto Posisi Investasi Internasional turun jadi US$197,4 miliar pada triwulan II 2026, dari US$223,0 miliar pada triwulan sebelumnya.",
-  "date": "10 September 2026",
-  "image": "assets/img/kewajiban-neto-luar-negeri-ri-turun-jadi-us-197-4-miliar.jpg",
-  "imageV": "mtva8o25",
-  "tags": [
-   "Bank Indonesia",
-   "Posisi Investasi Internasional",
-   "Neraca Eksternal",
-   "Triwulan II 2026"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818526.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "psab-kantongi-restu-esdm-rampungkan-akuisisi-jrbm",
-  "category": "Aksi Korporasi",
-  "title": "PSAB Kantongi [Restu] ESDM, Rampungkan Akuisisi JRBM",
-  "deck": "Kementerian ESDM merestui perubahan pemegang saham JRBM, anak usaha PSAB. PT J Resources Nusantara kini menguasai 99,99 persen saham JRBM tanpa pemegang saham minoritas.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSAB",
-   "JRBM",
-   "tambang emas",
-   "konsolidasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6c69f32f15_4b0a3e30c8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "scnp-bukukan-turnaround-laba-usaha-pendapatan-naik-41-7",
-  "category": "Aksi Korporasi",
-  "title": "SCNP Bukukan [Turnaround] Laba Usaha, Pendapatan Naik 41,7%",
-  "deck": "Pendapatan SCNP naik 41,7% jadi Rp156,58 miliar pada semester I 2026, laba usaha berbalik untung Rp6,74 miliar dari rugi tahun lalu, dan dividen tunai Rp10 miliar telah dibayar penuh.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SCNP",
-   "kinerja keuangan",
-   "dividen",
-   "ekspansi pabrik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58606f5ee5_5d1a8a46ca.pdf",
-  "sourceLabel": "IDX"
  }
 ];

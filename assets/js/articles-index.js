@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "qris-melonjak-dua-kali-lipat-bi-soroti-kesenjangan-literasi",
+  "category": "Perbankan",
+  "title": "QRIS Melonjak Dua Kali Lipat, BI Soroti Kesenjangan [Literasi]",
+  "deck": "Bank Indonesia menggelar seminar internasional soal pelindungan konsumen keuangan digital di Bali, di tengah lonjakan transaksi QRIS dan kesenjangan literasi keuangan yang masih lebar.",
+  "date": "17 September 2026",
+  "image": "assets/img/qris-melonjak-dua-kali-lipat-bi-soroti-kesenjangan-literasi.jpg",
+  "imageV": "mu5kzk6l",
+  "tags": [
+   "QRIS",
+   "Bank Indonesia",
+   "pelindungan konsumen",
+   "keuangan digital"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819026.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "bjbs-pefindo-turunkan-peringkat-bank-dan-sukuknya",
   "category": "Aksi Korporasi",
   "title": "BJBS: Pefindo [Turunkan] Peringkat Bank dan Sukuknya",
@@ -21,6 +39,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bahlil-tunjuk-dirjen-minerba-kawal-batu-bara-pln",
+  "category": "Energi",
+  "title": "Bahlil Tunjuk Dirjen Minerba [Kawal] Batu Bara PLN",
+  "deck": "Menteri ESDM Bahlil Lahadalia menugaskan Dirjen Minerba Tri Winarno mengawal langsung pengadaan batu bara PLN agar RKAB tak lagi jadi alasan pemadaman listrik.",
+  "date": "17 September 2026",
+  "image": "assets/img/bahlil-tunjuk-dirjen-minerba-kawal-batu-bara-pln.jpg",
+  "imageV": "mu5kzkn3",
+  "tags": [
+   "batu bara",
+   "PLN",
+   "Bahlil Lahadalia",
+   "RKAB"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467733-bahlil-tunjuk-dirjen-minerba-jadi-pengawal-batu-bara-pln-pastikan-tak-ada-lagi-alasan-rkab"
+ },
+ {
   "slug": "untd-jawab-bursa-hpp-naik-68-8-covenant-bca-tak-terpenuhi",
   "category": "Aksi Korporasi",
   "title": "UNTD Jawab Bursa: HPP Naik 68,8%, Covenant BCA [Tak Terpenuhi]",
@@ -35,6 +70,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/868d3a7188_5771c9d6f3.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sk-manajer-kopdes-merah-putih-terbit-gaji-diatur",
+  "category": "UMKM",
+  "title": "SK Manajer Kopdes Merah Putih Terbit, [Gaji] Diatur",
+  "deck": "Menteri Koperasi Ferry Juliantono menyebut SK pengangkatan manajer Kopdes Merah Putih, lengkap dengan gaji dan tunjangan, terbit paling lambat dua hari lagi.",
+  "date": "17 September 2026",
+  "image": "assets/img/sk-manajer-kopdes-merah-putih-terbit-gaji-diatur.jpg",
+  "imageV": "mu5kzl2j",
+  "tags": [
+   "Kopdes Merah Putih",
+   "Kementerian Koperasi",
+   "koperasi desa",
+   "Ferry Juliantono"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467722-sk-manajer-kopdes-merah-putih-terbit-1-2-hari-lagi-gaji-dan-tunjangan-ikut-diatur"
  },
  {
   "slug": "koin-nihil-refloat-saham-kuartal-ii-2026-sisa-wajib-10-62",
@@ -6448,54 +6500,6 @@ var ARTICLES = [
    "Data Center"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/194adca546_8de96adcb8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-msja-naik-21-53-dan-volume-turun-ini-penjelasannya",
-  "category": "Aksi Korporasi",
-  "title": "Saham MSJA Naik 21,53% dan Volume [Turun], Ini Penjelasannya",
-  "deck": "PT Multi Spunindo Jaya Tbk (MSJA) menjelaskan ke Bursa Efek Indonesia bahwa lonjakan harga saham 21,53 persen dalam sepekan terakhir tidak dipicu informasi material yang belum diungkapkan.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSJA",
-   "volatilitas saham",
-   "Unusual Market Activity",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d66571dd6_bfb4ed94d3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "obat-jawab-bei-tak-ada-aksi-korporasi-dekat-ini",
-  "category": "Aksi Korporasi",
-  "title": "OBAT Jawab BEI: Tak Ada [Aksi Korporasi] Dekat Ini",
-  "deck": "OBAT menjawab surat permintaan penjelasan BEI soal volatilitas transaksi sahamnya: tidak ada informasi material dan belum ada rencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OBAT",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5e9b0fbb91_340799a733.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fire-bantah-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "[FIRE] Bantah Ada Info Material di Balik Volatilitas Saham",
-  "deck": "PT Alfa Energi Investama Tbk (FIRE) menjawab surat BEI soal volatilitas transaksi sahamnya, menegaskan tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FIRE",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffa2f908ee_304ec3a604.pdf",
   "sourceLabel": "IDX"
  }
 ];

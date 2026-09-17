@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "04_u3bOZE-0",
+  "title": "Presiden Prabowo Pimpin Rapat Dewan Energi Nasional",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Presiden Prabowo Subianto memimpin rapat paripurna Dewan Energi Nasional bersama unsur pemerintah, masyarakat, dan akademisi untuk membahas arah kebijakan energi nasional.",
+  "takeaway": "Pembahasan kebijakan energi nasional relevan bagi pelaku usaha karena berkaitan dengan biaya produksi, subsidi, dan pasokan energi dalam negeri.",
+  "terbit": "2026-09-17T13:03:33+00:00"
+ },
+ {
   "id": "bRh7ZdTV0zI",
   "title": "Pemerintah Kejar Target Produksi E20 dalam Dua Tahun",
   "category": "Energi",

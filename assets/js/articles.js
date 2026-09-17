@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "qris-melonjak-dua-kali-lipat-bi-soroti-kesenjangan-literasi",
+  "category": "Perbankan",
+  "title": "QRIS Melonjak Dua Kali Lipat, BI Soroti Kesenjangan [Literasi]",
+  "deck": "Bank Indonesia menggelar seminar internasional soal pelindungan konsumen keuangan digital di Bali, di tengah lonjakan transaksi QRIS dan kesenjangan literasi keuangan yang masih lebar.",
+  "image": "assets/img/qris-melonjak-dua-kali-lipat-bi-soroti-kesenjangan-literasi.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T13:38:24.347Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819026.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "QRIS",
+   "Bank Indonesia",
+   "pelindungan konsumen",
+   "keuangan digital"
+  ],
+  "body": [
+   "Bank Indonesia membuka seminar internasional dua hari di Bali, 17-18 September 2026, yang membahas pelindungan konsumen dan integritas keuangan di tengah pesatnya transaksi digital lintas negara. Acara ini diikuti sejumlah lembaga internasional seperti World Bank, OECD, ADB, UNODC, CGAP, INTERPOL, serta bank sentral India, Malaysia, dan Brasil. Deputi Gubernur BI Filianingsih Hendarta menekankan bahwa kepercayaan masyarakat terhadap sistem pembayaran digital hanya bisa terjaga lewat tata kelola yang kuat, bukan sekadar kecanggihan teknologi.",
+   "Data yang dipaparkan menunjukkan transaksi QRIS pada semester I 2026 mencapai 12,55 miliar transaksi, dua kali lipat dibanding periode sama tahun sebelumnya, dengan nilai sekitar Rp600,7 triliun. Layanan ini sudah dipakai lebih dari 66 juta orang dan hampir 45 juta pedagang, yang sebagian besar adalah usaha kecil dan menengah. Namun, survei nasional BI mencatat indeks literasi keuangan baru 69,57 persen, jauh di bawah indeks inklusi keuangan yang sudah mencapai 93,61 persen, artinya banyak orang sudah memakai layanan keuangan digital tanpa cukup memahami risikonya.",
+   "Untuk merespons kesenjangan itu, BI menyebut penguatan pelindungan konsumen kini masuk dalam Peraturan Bank Indonesia Nomor 6 Tahun 2026 tentang Pelindungan Konsumen Bank Indonesia. BI juga menjalankan kolaborasi lewat Indonesia Anti-Scam Centre, yang bertugas mempercepat deteksi, pelaporan, dan pemulihan dana korban kejahatan digital. Di forum internasional, BI turut ambil bagian dalam kelompok kerja OECD dan FinCoNet untuk ikut membentuk standar pelindungan konsumen keuangan digital secara global.",
+   "Selain itu, seminar ini membahas topik-topik seperti harmonisasi regulasi antarnegara untuk menangani kejahatan keuangan lintas batas, pemanfaatan kecerdasan artifisial dan blockchain untuk deteksi dini penipuan, penguatan literasi lewat komunitas, hingga tanggung jawab etika industri keuangan digital."
+  ],
+  "fotoAdegan": "Street food vendor accepting a phone payment tap from a customer at a busy Indonesian market stall, morning light.",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2819026/Cover-sp_2819026.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang konkret dari siaran ini adalah aturan baru, Peraturan BI Nomor 6 Tahun 2026 tentang Pelindungan Konsumen, dan kerja sama lewat Indonesia Anti-Scam Centre yang dibentuk untuk melacak serta mengembalikan dana korban penipuan digital. Yang membuat aturan ini relevan adalah kesenjangan yang terungkap dari data BI sendiri, 93,6 persen masyarakat sudah punya akses ke layanan keuangan, tapi cuma 69,6 persen yang benar-benar paham cara memakainya dengan aman. Pihak yang paling terdampak adalah puluhan juta pengguna QRIS dan pedagang kecil, karena merekalah pemakai terbesar sistem pembayaran ini sementara sebagian belum tentu paham risiko penipuan digital. Arahnya terlihat ke penguatan lapisan pengamanan di sistem pembayaran, bukan sekadar imbauan, mengingat transaksi QRIS sendiri sudah dua kali lipat dalam setahun. Yang akan menentukan apakah aturan ini benar-benar bekerja adalah data konkret dari Indonesia Anti-Scam Centre soal berapa banyak dana korban yang berhasil dikembalikan, karena angka itu belum disebutkan dalam siaran ini.",
+  "imageV": "mu5kzk6l"
+ },
+ {
   "slug": "bjbs-pefindo-turunkan-peringkat-bank-dan-sukuknya",
   "category": "Aksi Korporasi",
   "title": "BJBS: Pefindo [Turunkan] Peringkat Bank dan Sukuknya",
@@ -27,6 +55,32 @@ var ARTICLES = [
   "fotoAdegan": "Evening street scene on a colonial era avenue in Bandung, pedestrians and cars passing historic building facades, warm lamplight",
   "takeaway": "Laporan ini condong negatif bagi BJBS karena peringkat perusahaan maupun peringkat sukuknya sama-sama turun satu tingkat, mengikuti penurunan peringkat induk usahanya. Yang tersentuh di sini adalah biaya bunga alias ongkos pinjam dana ke depan, karena peringkat kredit yang lebih rendah biasanya membuat investor meminta imbal hasil lebih tinggi saat BJBS menerbitkan sukuk atau instrumen utang baru, dan juga bisa mempengaruhi persepsi investor yang sudah memegang sukuk Seri A dan Seri B ini. Penurunan yang dipicu oleh perubahan peringkat induk perusahaan, bukan oleh masalah internal BJBS sendiri, sedikit meredam kekhawatiran, tapi tetap jadi sinyal bahwa dukungan dari induk terhadap anak usaha sedang melemah. Yang perlu dipantau berikutnya adalah hasil pemantauan Pefindo selanjutnya sebelum periode ini berakhir pada 1 Februari 2027, karena saat itu peringkat bisa dipertahankan, diturunkan lagi, atau dipulihkan tergantung perkembangan kondisi induk usahanya.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "bahlil-tunjuk-dirjen-minerba-kawal-batu-bara-pln",
+  "category": "Energi",
+  "title": "Bahlil Tunjuk Dirjen Minerba [Kawal] Batu Bara PLN",
+  "deck": "Menteri ESDM Bahlil Lahadalia menugaskan Dirjen Minerba Tri Winarno mengawal langsung pengadaan batu bara PLN agar RKAB tak lagi jadi alasan pemadaman listrik.",
+  "image": "assets/img/bahlil-tunjuk-dirjen-minerba-kawal-batu-bara-pln.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T19:30:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467733-bahlil-tunjuk-dirjen-minerba-jadi-pengawal-batu-bara-pln-pastikan-tak-ada-lagi-alasan-rkab",
+  "tags": [
+   "batu bara",
+   "PLN",
+   "Bahlil Lahadalia",
+   "RKAB"
+  ],
+  "body": [
+   "Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia menugaskan Direktur Jenderal Mineral dan Batu Bara Tri Winarno untuk ikut memastikan langsung kebutuhan batu bara PT PLN (Persero) terpenuhi. Langkah ini diambil agar urusan izin RKAB batu bara tidak lagi bisa dijadikan alasan ketika pasokan ke pembangkit listrik terganggu. Bagi masyarakat, penegasan ini penting karena menyangkut jaminan pasokan listrik yang sempat padam di sejumlah wilayah.",
+   "Penugasan ini muncul setelah terjadi pemadaman listrik di sejumlah wilayah, termasuk Kalimantan dan Sulawesi, beberapa waktu lalu. Dalam rapat dengar pendapat dengan Komisi XII DPR RI, Kamis (17/9/2026), Bahlil mengatakan Tri Winarno kini merangkap fungsi yang setara dengan pengawas pengadaan batu bara untuk PLN, dengan pemantauan yang dilakukan hampir setiap hari. Menurut Bahlil, dengan pengawasan langsung dari Dirjen Minerba, tidak boleh lagi ada pemadaman listrik yang beralasan RKAB belum selesai.",
+   "RKAB atau Rencana Kerja dan Anggaran Biaya adalah izin tahunan yang wajib dimiliki perusahaan tambang sebelum bisa menambang dan menjual batu baranya, dan selama ini proses persetujuannya kerap disebut sebagai penyebab tersendatnya pasokan ke pembangkit PLN. Penugasan kepada Tri Winarno melengkapi langkah sebelumnya, yaitu pembentukan tim khusus untuk pengadaan batu bara kalori sedang yang dibutuhkan pembangkit PLN, yang juga dibentuk Bahlil setelah insiden pemadaman listrik."
+  ],
+  "fotoAdegan": "Coal trucks unloading black coal onto a large stockpile near a coastal power plant, conveyor belts and cranes in the background, overcast daylight.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/25/6a8d951c7b72e-menteri-esdm-bahlil-lahadalia-dalam-launching-dan-groundbreaking-program-plts-100-gwp-di-bali_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah peran Dirjen Minerba Tri Winarno, yang sekarang tidak cuma mengurus izin tambang tapi juga ikut memantau langsung, hampir setiap hari, apakah batu bara benar-benar sampai ke pembangkit PLN. RKAB sendiri adalah izin tahunan wajib yang membolehkan perusahaan tambang menambang dan menjual batu baranya, dan selama ini keterlambatan RKAB sering dipakai sebagai alasan kalau pasokan ke PLN seret. Pihak yang paling terdampak adalah perusahaan tambang pemasok PLN, karena pengawasan RKAB mereka sekarang dipegang langsung oleh pejabat yang sama yang biasa menerbitkan izin itu, sementara PLN sendiri kehilangan alasan RKAB kalau pembangkitnya kekurangan batu bara. Digabung dengan tim khusus batu bara kalori sedang yang sudah dibentuk Bahlil sebelumnya, ini menunjukkan arah pemerintah yang makin turun tangan langsung mengurus rantai pasok batu bara PLN, bukan sekadar membuat aturan lalu menyerahkannya ke mekanisme perusahaan. Yang akan membuktikan apakah cara ini benar-benar berjalan adalah apakah pemadaman listrik seperti yang terjadi di Kalimantan dan Sulawesi masih berulang dalam beberapa bulan ke depan.",
+  "imageV": "mu5kzkn3"
  },
  {
   "slug": "untd-jawab-bursa-hpp-naik-68-8-covenant-bca-tak-terpenuhi",
@@ -54,6 +108,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers assembling rows of electric bicycles on a factory line, warehouse racks of frames in the background, industrial lighting",
   "takeaway": "Laporan ini condong negatif bagi UNTD, karena EBITDA perusahaan minus Rp23,8 miliar sehingga rasio kemampuan bayar utang ke BCA cuma 0,40 kali, jauh di bawah syarat minimal 1 kali yang diminta bank, sementara margin laba kotor sepeda listrik ambruk dari 37,5 persen jadi 2,5 persen akibat lonjakan biaya pokok produksi. EBITDA adalah ukuran laba operasional sebelum bunga, pajak, dan penyusutan yang biasa dipakai bank untuk menilai kemampuan perusahaan membayar cicilan utang, jadi kegagalan memenuhi syarat ini menjadi sinyal tekanan arus kas, meski dua syarat lain ke BCA yaitu rasio utang terhadap modal dan rasio lancar masih terpenuhi. Konsentrasi penjualan ke satu distributor, PT Bintang Mas Lestari, yang kini menyumbang 61,2 persen dari total penjualan juga menambah risiko karena kinerja perusahaan jadi sangat bergantung pada satu mitra dagang, walau manajemen sudah menyiapkan rencana menambah distributor baru. Yang perlu dipantau berikutnya adalah penandatanganan amandemen fasilitas kredit dengan OCBC yang dijadwalkan 24 September 2026, sebelum masa perpanjangan sementara fasilitas itu berakhir 27 September 2026, karena bank mensyaratkan tambahan jaminan tanah dan bangunan hingga 125 persen dari nilai appraisal.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "sk-manajer-kopdes-merah-putih-terbit-gaji-diatur",
+  "category": "UMKM",
+  "title": "SK Manajer Kopdes Merah Putih Terbit, [Gaji] Diatur",
+  "deck": "Menteri Koperasi Ferry Juliantono menyebut SK pengangkatan manajer Kopdes Merah Putih, lengkap dengan gaji dan tunjangan, terbit paling lambat dua hari lagi.",
+  "image": "assets/img/sk-manajer-kopdes-merah-putih-terbit-gaji-diatur.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T19:00:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467722-sk-manajer-kopdes-merah-putih-terbit-1-2-hari-lagi-gaji-dan-tunjangan-ikut-diatur",
+  "tags": [
+   "Kopdes Merah Putih",
+   "Kementerian Koperasi",
+   "koperasi desa",
+   "Ferry Juliantono"
+  ],
+  "body": [
+   "Surat Keputusan pengangkatan manajer Koperasi Desa/Kelurahan Merah Putih (Kopdes Merah Putih) dipastikan terbit dalam satu hingga dua hari ke depan. Menteri Koperasi Ferry Juliantono menyampaikan hal ini saat rapat kerja dengan Komisi VI DPR RI di Senayan, Jakarta, Kamis (17/9/2026). Kabar ini penting karena selama ini status kerja dan penghasilan para calon manajer koperasi desa belum jelas, sementara ribuan Kopdes Merah Putih sudah dibentuk di berbagai daerah.",
+   "Ferry menjelaskan penerbitan SK sempat tertahan karena pemerintah masih menunggu Peraturan Presiden tentang tata kelola operasional Koperasi Desa/Kelurahan Merah Putih. Perpres itu disebutnya baru terbit, sehingga proses administrasi pengangkatan manajer bisa dilanjutkan. Selain mengesahkan penunjukan manajer, SK tersebut juga akan mencantumkan besaran gaji dan tunjangan yang menjadi hak mereka.",
+   "Meski memastikan komponen gaji dan tunjangan akan tertuang dalam SK, Ferry belum membuka angka pastinya kepada publik. Ia juga menyebut penetapan besaran gaji tersebut bukan kewenangan Kementerian Koperasi, tanpa merinci lembaga mana yang menentukannya."
+  ],
+  "fotoAdegan": "Small village cooperative store with wooden shelves of daily goods, staff arranging items, morning light through open door",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/07/21/687dfe955c092-resmi-diluncurkan-prabowo-dpr-ri-ungkap-kopdes-merah-putih-harapan-sistem-ekonomi-pedesaan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan soal duit yang sudah cair, melainkan hambatan administrasi yang akhirnya terbuka: aturan turunan soal tata kelola Kopdes Merah Putih sudah keluar, jadi SK pengangkatan manajer yang sempat tertahan kini bisa diproses. Yang kena dampak langsung adalah calon manajer koperasi desa yang selama ini menunggu kepastian status kerja dan penghasilan, sekaligus koperasi desa itu sendiri yang baru bisa jalan penuh begitu ada manajer definitif. Arahnya terlihat menuju percepatan operasional program Kopdes Merah Putih setelah lama tersendat payung hukum, tapi satu hal penting masih menggantung: berapa besaran gaji dan tunjangannya, dan siapa yang sebenarnya menetapkan angka itu, karena Ferry sendiri bilang itu bukan wewenang Kementerian Koperasi. Yang akan memastikan arah ini benar adalah terbitnya SK itu sendiri dalam satu dua hari ke depan, sekitar 18 sampai 19 September 2026, lengkap dengan angka gaji yang selama ini ditutupi.",
+  "imageV": "mu5kzl2j"
  },
  {
   "slug": "koin-nihil-refloat-saham-kuartal-ii-2026-sisa-wajib-10-62",

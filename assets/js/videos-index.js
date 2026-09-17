@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "04_u3bOZE-0",
+  "title": "Presiden Prabowo Pimpin Rapat Dewan Energi Nasional",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Presiden Prabowo Subianto memimpin rapat paripurna Dewan Energi Nasional bersama unsur pemerintah, masyarakat, dan akademisi untuk membahas arah kebijakan energi nasional.",
+  "takeaway": "Pembahasan kebijakan energi nasional relevan bagi pelaku usaha karena berkaitan dengan biaya produksi, subsidi, dan pasokan energi dalam negeri."
+ },
+ {
   "id": "bRh7ZdTV0zI",
   "title": "Pemerintah Kejar Target Produksi E20 dalam Dua Tahun",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "IBF tvOne",
   "summary": "Di tengah tekanan akibat rentetan bencana, pemerintah tetap optimistis target pertumbuhan ekonomi bisa tercapai. Menteri Keuangan Purbaya Yudhi Sadewa membahas dampak bencana terhadap perekonomian.",
   "takeaway": "Sikap optimisme pemerintah penting diketahui pembaca yang menakar arah kebijakan fiskal ke depan."
- },
- {
-  "id": "r6-VnmpnK8A",
-  "title": "Pertumbuhan Ekonomi Terhambat Akibat Bencana, Kata Komisi XI DPR",
-  "category": "Makroekonomi",
-  "program": "IBF tvOne",
-  "summary": "Anggota Komisi XI DPR RI menanggapi dampak rentetan bencana terhadap perlambatan pertumbuhan ekonomi. Menteri Keuangan Purbaya Yudhi Sadewa sebelumnya mengakui adanya tekanan tersebut.",
-  "takeaway": "Pandangan dari Komisi XI DPR relevan sebagai pembanding perspektif legislatif atas kebijakan fiskal pemerintah."
  }
 ];

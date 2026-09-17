@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bahlil-ungkap-sebab-antrean-bbm-makassar-tangki-modifikasi-1-ton",
+  "category": "Energi",
+  "title": "Bahlil Ungkap Sebab Antrean BBM Makassar, Tangki [Modifikasi] 1 Ton",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut antrean BBM di Makassar dipicu perpindahan konsumen ke BBM subsidi dan tangki kendaraan modifikasi berkapasitas hingga 1 ton yang ditemukan polisi.",
+  "image": "assets/img/bahlil-ungkap-sebab-antrean-bbm-makassar-tangki-modifikasi-1-ton.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T17:30:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467704-bahlil-ungkap-2-penyebab-antrean-bbm-mengular-di-makassar-ada-tangki-modifikasi-1-ton",
+  "tags": [
+   "BBM subsidi",
+   "antrean BBM",
+   "Bahlil Lahadalia",
+   "tangki modifikasi"
+  ],
+  "body": [
+   "Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia menjelaskan dua faktor di balik antrean panjang kendaraan di sejumlah SPBU Makassar, Sulawesi Selatan. Penjelasan ini penting karena antrean BBM biasanya dikaitkan dengan kelangkaan pasokan, padahal menurut Bahlil pemicunya justru perubahan pola konsumsi masyarakat dan penyalahgunaan tangki kendaraan.",
+   "Penyebab pertama, kata Bahlil, adalah perpindahan sebagian konsumen dari BBM nonsubsidi beroktan RON 92 dan 95 ke BBM bersubsidi. Perpindahan ini terjadi karena harga BBM nonsubsidi dinilai semakin memberatkan, sehingga permintaan terhadap BBM subsidi ikut melonjak dan memperpanjang waktu tunggu di SPBU.",
+   "Penyebab kedua berasal dari temuan kepolisian mengenai kendaraan yang tangkinya sengaja dimodifikasi jauh melebihi kapasitas normal, ada yang mencapai 700 liter, bahkan 1 ton. Bahlil mencontohkan kendaraan seperti Pajero yang diisi penuh menggunakan tangki hasil modifikasi tersebut, sehingga satu kendaraan membutuhkan waktu pengisian jauh lebih lama dan turut memperpanjang antrean di belakangnya.",
+   "Menanggapi temuan tersebut, Bahlil menyatakan pemerintah akan melakukan penertiban terhadap praktik modifikasi tangki kendaraan ini."
+  ],
+  "fotoAdegan": "Long line of cars and motorcycles queued nose to tail at a fuel pump nozzle, Indonesian city street, midday sun, blurred background signage",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/13/6aa6453b491ff-antrean-bbm-di-salah-satu-spbu-pertamina-yang-ada-di-makassar_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pengakuan resmi bahwa antrean BBM di Makassar bukan soal pasokan yang menipis, melainkan dua praktik yang saling menumpuk, yakni warga beralih ke BBM subsidi karena harga BBM nonsubsidi dianggap mahal, dan sebagian kendaraan sengaja dipasangi tangki raksasa sampai 1 ton supaya bisa memborong BBM sekali isi. Yang terdampak langsung adalah pengendara biasa di Makassar yang harus antre lebih lama gara-gara segelintir kendaraan modifikasi menyedot waktu pengisian, sementara pemilik kendaraan bertangki modifikasi kini jadi sasaran penertiban polisi dan ESDM. Arahnya tampak menuju pengetatan pengawasan distribusi BBM subsidi lewat penertiban kendaraan dan tangki, bukan lewat penambahan pasokan, karena Bahlil sendiri menempatkan akar masalahnya pada penyalahgunaan, bukan kekurangan stok. Yang akan menentukan apakah arah ini serius atau sekadar pernyataan adalah bentuk konkret penertiban itu sendiri, misalnya razia tangki modifikasi di SPBU atau aturan baru soal batas kapasitas tangki kendaraan, yang belum dirinci Bahlil dalam keterangannya.",
+  "imageV": "mu5fkilq"
+ },
+ {
   "slug": "boss-undur-rups-ke-29-oktober-audit-3-tahun-buku-belum-kelar",
   "category": "Aksi Korporasi",
   "title": "BOSS Undur RUPS ke 29 Oktober, [Audit] 3 Tahun Buku Belum Kelar",

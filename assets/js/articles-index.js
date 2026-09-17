@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bahlil-ungkap-sebab-antrean-bbm-makassar-tangki-modifikasi-1-ton",
+  "category": "Energi",
+  "title": "Bahlil Ungkap Sebab Antrean BBM Makassar, Tangki [Modifikasi] 1 Ton",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut antrean BBM di Makassar dipicu perpindahan konsumen ke BBM subsidi dan tangki kendaraan modifikasi berkapasitas hingga 1 ton yang ditemukan polisi.",
+  "date": "17 September 2026",
+  "image": "assets/img/bahlil-ungkap-sebab-antrean-bbm-makassar-tangki-modifikasi-1-ton.jpg",
+  "imageV": "mu5fkilq",
+  "tags": [
+   "BBM subsidi",
+   "antrean BBM",
+   "Bahlil Lahadalia",
+   "tangki modifikasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467704-bahlil-ungkap-2-penyebab-antrean-bbm-mengular-di-makassar-ada-tangki-modifikasi-1-ton"
+ },
+ {
   "slug": "boss-undur-rups-ke-29-oktober-audit-3-tahun-buku-belum-kelar",
   "category": "Aksi Korporasi",
   "title": "BOSS Undur RUPS ke 29 Oktober, [Audit] 3 Tahun Buku Belum Kelar",
@@ -6479,22 +6496,6 @@ var ARTICLES = [
    "pengendali saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8bbf5a4d99_7859c60970.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "swat-penjualan-anjlok-63-ekuitas-tergerus-79-di-2025",
-  "category": "Aksi Korporasi",
-  "title": "SWAT: Penjualan Anjlok 63%, [Ekuitas] Tergerus 79% di 2025",
-  "deck": "Materi public expose tahunan SWAT menunjukkan penjualan 2025 turun 63 persen dan ekuitas tergerus 79 persen menjadi Rp12,46 miliar, meski rugi bersih menyempit dibanding 2024.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SWAT",
-   "public expose",
-   "kinerja keuangan",
-   "laporan tahunan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1365af1381_8bd3b81d48.pdf",
   "sourceLabel": "IDX"
  }
 ];

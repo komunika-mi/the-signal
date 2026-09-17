@@ -23,6 +23,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  },
  {
+  "slug": "cakk-akui-free-float-baru-11-4-masih-kaji-opsi",
+  "category": "Aksi Korporasi",
+  "title": "CAKK Akui [Free Float] Baru 11,4%, Masih Kaji Opsi",
+  "deck": "CAKK menjelaskan ke Bursa bahwa free float per 30 Juni 2026 baru 11,357%, di bawah syarat minimum 15%, dan masih mengkaji opsi divestasi atau aksi korporasi.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CAKK",
+   "free float",
+   "Bursa Efek Indonesia",
+   "saham publik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/689274374a_f10e112048.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgl-jawab-bursa-soal-divestasi-jaya-rp44-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Jawab Bursa soal Divestasi [JAYA] Rp44,6 Miliar",
+  "deck": "PPGL menjawab permintaan penjelasan Bursa soal divestasi 45,79% saham JAYA senilai Rp44,60 miliar ke pihak terafiliasi, aset yang ternyata menyumbang 90% dari total aset Perseroan.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "divestasi",
+   "keterbukaan informasi",
+   "JAYA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8bfeb6222e_d1f1e0eedb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-ptro-naik-semester-i-2026-bunga-utang-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "Laba PTRO Naik Semester I 2026, Bunga Utang [Melonjak]",
+  "deck": "Petrosea (PTRO) membukukan laba bersih US$9,17 juta pada semester I 2026, naik dari US$1,29 juta, namun sebagian besar berasal dari keuntungan sekali jalan atas operasi yang dihentikan.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTRO",
+   "Petrosea",
+   "laporan keuangan",
+   "beban bunga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260917235433-64402-0/FinancialStatement-2026-II-PTRO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tpia-dan-bren-raih-kesgi-awards-2026-dari-katadata",
   "category": "Bisnis",
   "title": "TPIA dan BREN Raih [KESGI] Awards 2026 dari Katadata",
@@ -223,6 +271,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "kkgi-komisaris-tambah-saham-200-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "KKGI: Komisaris [Tambah] Saham 200.000 Lembar",
+  "deck": "Dewan Komisaris KKGI, Drs. Hendro Martowardojo, menambah kepemilikan saham lewat pembelian tidak langsung senilai sekitar Rp62 juta pada 16 September 2026.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KKGI",
+   "Resource Alam Indonesia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-2728-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sk-manajer-kopdes-merah-putih-terbit-gaji-diatur",
   "category": "UMKM",
   "title": "SK Manajer Kopdes Merah Putih Terbit, [Gaji] Diatur",
@@ -288,6 +352,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "oasa-direksi-jual-34-27-juta-saham-senilai-rp8-57-m",
+  "category": "Aksi Korporasi",
+  "title": "OASA: [Direksi] Jual 34,27 Juta Saham Senilai Rp8,57 M",
+  "deck": "Direktur OASA Gafur Sulistyo Umar melepas 34,27 juta saham senilai Rp8,57 miliar pada 17 September 2026, hak suaranya turun dari 32,55% menjadi 32,01%.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OASA",
+   "Maharaksa Biru Energi",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-7716-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bahlil-ungkap-sebab-antrean-bbm-makassar-tangki-modifikasi-1-ton",
   "category": "Energi",
   "title": "Bahlil Ungkap Sebab Antrean BBM Makassar, Tangki [Modifikasi] 1 Ton",
@@ -334,6 +414,38 @@ var ARTICLES = [
    "restrukturisasi utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4dfd9286c3_3ccab7b376.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-lepas-904-juta-saham-suara-ke-16-62",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Lepas 904 Juta Saham, Suara ke [16,62%]",
+  "deck": "Direksi NSSS menjual 903,99 juta saham lewat repurchase agreement bertujuan substitusi, memangkas hak suaranya dari 20,42 persen menjadi 16,62 persen.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-5620-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kdtn-putrasakti-mandiri-beli-balik-500-000-saham-grup-usaha",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri [beli balik] 500.000 saham grup usaha",
+  "deck": "Putrasakti Mandiri membeli 500.000 saham KDTN seharga Rp389 per lembar pada 16 September 2026, menaikkan hak suaranya tipis dari 32,11% menjadi 32,15%.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "kepemilikan saham",
+   "Putrasakti Mandiri",
+   "restrukturisasi kelompok usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-1849-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6390,119 +6502,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0c5c8edf5d_6f945f7eb9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-ungkap-laba-rp190-7-m-di-public-expose-ebit-minus",
-  "category": "Aksi Korporasi",
-  "title": "PACK Ungkap Laba Rp190,7 M di Public Expose, [EBIT] Minus",
-  "deck": "Materi public expose insidentil ANHI (PACK) memuat data keuangan 1H2026: laba bersih melonjak ke Rp190,7 miliar, tapi laba usaha (EBIT) minus Rp12,3 miliar dan marjin kotor menyusut ke 3 persen.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "nikel",
-   "public expose",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/501f9b2d20_242f3f48c1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tfas-tuntas-alihkan-9-8-juta-saham-hasil-buyback-ke-pasar",
-  "category": "Aksi Korporasi",
-  "title": "TFAS [Tuntas] Alihkan 9,8 Juta Saham Hasil Buyback ke Pasar",
-  "deck": "TFAS melaporkan telah menuntaskan pengalihan kembali 9,8 juta saham hasil buyback ke pasar melalui Bursa Efek Indonesia hingga September 2026.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TFAS",
-   "buyback saham",
-   "pasar modal",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c6af64db7_8685d9f424.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpxl-catat-laba-bersih-berbalik-untung-rp4-11-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MPXL Catat Laba Bersih [Berbalik] Untung Rp4,11 Miliar",
-  "deck": "MPXL mengungkap laba bersih berbalik untung jadi Rp4,11 miliar dan margin kotor naik ke 20,63% dalam public expose tahunan, didorong efisiensi rute dan ekspansi ke CPO serta batu bara.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPXL",
-   "Public Expose",
-   "Kinerja Keuangan",
-   "Logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/830b579238_a56a4e6ec4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-cuan-melejit-7-98-jelang-akuisisi-sini",
-  "category": "Pasar Modal",
-  "title": "Saham [CUAN] Melejit 7,98% Jelang Akuisisi SINI",
-  "deck": "Saham Petrindo Jaya Kreasi melonjak 7,98% ke Rp1.015, transaksi tembus Rp731,29 miliar, di tengah rencana akuisisi Singaraja Putra oleh anak usaha Prajogo Pangestu.",
-  "date": "10 September 2026",
-  "image": "assets/img/saham-cuan-melejit-7-98-jelang-akuisisi-sini.jpg",
-  "imageV": "mtvfkizc",
-  "tags": [
-   "saham CUAN",
-   "Petrindo Jaya Kreasi",
-   "akuisisi SINI",
-   "Prajogo Pangestu"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466217-saham-cuan-melejit-798-transaksi-tembus-rp731-miliar-di-tengah-rencana-akuisisi-sini"
- },
- {
-  "slug": "wsbp-gelar-rupslb-2-oktober-ratifikasi-konversi-utang-jadi-saham",
-  "category": "Aksi Korporasi",
-  "title": "WSBP Gelar RUPSLB 2 Oktober, Ratifikasi [Konversi] Utang Jadi Saham",
-  "deck": "RUPSLB WSBP pada 2 Oktober 2026 akan meratifikasi konversi utang menjadi saham seri C bagi kreditur tertentu, bagian dari pelaksanaan Perjanjian Perdamaian restrukturisasi utang.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "RUPSLB",
-   "restrukturisasi utang",
-   "Waskita Beton Precast"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/13cf38ea2f_2d03c38ad5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "relf-jawab-bursa-tak-ada-aksi-korporasi-di-balik-volatilitas",
-  "category": "Aksi Korporasi",
-  "title": "RELF Jawab Bursa: Tak Ada Aksi Korporasi di Balik [Volatilitas]",
-  "deck": "RELF menjawab permintaan BEI soal volatilitas transaksi: tidak ada informasi material, tidak ada rencana aksi korporasi, dan komisaris pengendali tak berniat menambah saham.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RELF",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/53a1583e9d_60f10e18d5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ltls-ungkap-rencana-bayar-obligasi-rp135-m-jatuh-tempo-november",
-  "category": "Aksi Korporasi",
-  "title": "LTLS ungkap rencana bayar [obligasi] Rp135 M jatuh tempo November",
-  "deck": "Dalam public expose 8 September 2026, manajemen Lautan Luas menjelaskan rencana pelunasan obligasi Rp135 miliar yang jatuh tempo November 2026 serta kondisi margin dan utang perseroan.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LTLS",
-   "Lautan Luas",
-   "obligasi",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67d8732e5c_5a209db615.pdf",
   "sourceLabel": "IDX"
  }
 ];

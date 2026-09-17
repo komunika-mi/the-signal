@@ -31,6 +31,86 @@ var ARTICLES = [
   "imageV": "mu5sh4jv"
  },
  {
+  "slug": "cakk-akui-free-float-baru-11-4-masih-kaji-opsi",
+  "category": "Aksi Korporasi",
+  "title": "CAKK Akui [Free Float] Baru 11,4%, Masih Kaji Opsi",
+  "deck": "CAKK menjelaskan ke Bursa bahwa free float per 30 Juni 2026 baru 11,357%, di bawah syarat minimum 15%, dan masih mengkaji opsi divestasi atau aksi korporasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T23:46:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/689274374a_f10e112048.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CAKK",
+  "tags": [
+   "CAKK",
+   "free float",
+   "Bursa Efek Indonesia",
+   "saham publik"
+  ],
+  "body": [
+   "PT Cahayaputra Asa Keramik Tbk (CAKK) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia (BEI) terkait rencana pemenuhan syarat minimum saham beredar publik atau free float. Surat penjelasan bernomor 033/BEI/CAKK/IX/2026 ini merupakan jawaban atas surat permintaan penjelasan BEI No. S-1173/BEI.PPI/09-2026 tertanggal 10 September 2026. Berdasarkan Ketentuan V.1.1 Peraturan I-A, perusahaan tercatat wajib menjaga porsi saham publik minimal 15 persen dari total saham tercatat agar tetap bisa mempertahankan status pencatatannya di bursa.",
+   "Dalam suratnya, CAKK yang ditandatangani Direktur Utama Johan Silitonga dan Corporate Secretary Cynthia Ayu Mayanda mengakui bahwa berdasarkan pemantauan BEI atas laporan registrasi kepemilikan saham per 30 Juni 2026, porsi saham publik perusahaan baru mencapai 11,357 persen, masih di bawah batas minimum 15 persen. Perseroan menyebut sudah mengetahui kewajiban ini sejak menerima surat pengingat BEI No. S-04849/BEI.PLP/04-2026 pada 30 April 2026, namun hingga kini belum menuntaskan langkah pemenuhannya. Perusahaan mengaku masih menelaah berbagai opsi strategis bersama pemegang saham utama, termasuk kemungkinan divestasi sebagian saham milik pemegang saham pengendali atau aksi korporasi lain, tanpa menyebutkan skema maupun target waktu yang pasti.",
+   "CAKK juga meminta dukungan dari BEI berupa program pendampingan teknis dan edukasi berkelanjutan, termasuk webinar khusus soal strategi pemenuhan syarat free float serta jalur konsultasi atau helpdesk. Selain itu, perusahaan secara eksplisit meminta relaksasi atau perpanjangan tenggat waktu pemenuhan ketentuan tersebut, yang menandakan Perseroan belum memiliki kepastian kapan syarat 15 persen itu bisa dicapai."
+  ],
+  "fotoAdegan": "Workers stacking glazed ceramic floor tiles onto wooden pallets inside a large tile factory warehouse, forklift nearby",
+  "takeaway": "Laporan ini condong negatif bagi CAKK karena menunjukkan perusahaan belum juga menuntaskan kewajiban free float minimum lebih dari lima bulan sejak menerima peringatan pertama dari Bursa, dan penjelasannya masih berupa kajian tanpa kepastian langkah maupun waktu. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara: kalau opsi yang dipilih nanti berupa pelepasan sebagian saham pemegang saham pengendali, porsi saham beredar bebas di publik akan bertambah namun kendali pemegang saham utama bisa berkurang, sementara kalau opsinya berupa aksi korporasi seperti penerbitan saham baru, jumlah saham beredar bertambah dan itu bisa membuat laba per saham investor yang sudah ada menjadi lebih kecil karena dibagi ke lebih banyak lembar saham. Yang perlu dipantau selanjutnya adalah keputusan konkret Perseroan atas opsi divestasi atau aksi korporasi yang masih dikaji itu, serta apakah Bursa mengabulkan permintaan relaksasi tenggat waktu, karena sampai laporan ini terbit belum ada kepastian kapan syarat minimum 15 persen tersebut akan terpenuhi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ppgl-jawab-bursa-soal-divestasi-jaya-rp44-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Jawab Bursa soal Divestasi [JAYA] Rp44,6 Miliar",
+  "deck": "PPGL menjawab permintaan penjelasan Bursa soal divestasi 45,79% saham JAYA senilai Rp44,60 miliar ke pihak terafiliasi, aset yang ternyata menyumbang 90% dari total aset Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T23:40:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8bfeb6222e_d1f1e0eedb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "divestasi",
+   "keterbukaan informasi",
+   "JAYA"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk. (PPGL) menyampaikan jawaban resmi atas surat permintaan penjelasan Bursa Efek Indonesia terkait divestasi 45,79% kepemilikannya di PT Armada Berjaya Trans Tbk (JAYA). Surat bernomor 008/PGL/IX/2026 itu ditandatangani Direktur Utama Darmawan Suryadi SM. Bursa mempertanyakan kewajaran nilai transaksi Rp44,60 miliar, mengingat bagian aset neto JAYA yang dilepas tercatat Rp56,33 miliar dan nilai pasar versi penilai independen (KJPP) hanya Rp42,81 miliar, serta keterlibatan pengendali PPGL sebagai pembeli dalam transaksi tersebut.",
+   "Dalam jawabannya, PPGL merujuk pada laporan KJPP Dasa'at Yudistira & Rekan tertanggal 22 Januari 2026 yang menilai 45,79% ekuitas JAYA sebesar Rp42,8 miliar per 30 September 2025 menggunakan metode arus kas terdiskonto dan pembanding perusahaan sejenis, sehingga menurut Perseroan harga transaksi Rp44,60 miliar masih wajar. PPGL menyebut JAYA sebagai aset non-inti agar bisa fokus ke bisnis inti jasa pengurusan transportasi, meski Bursa mencatat JAYA dan entitas anaknya sebelumnya menyumbang 90,09 persen dari total aset, 40,84 persen dari pendapatan, dan 45,80 persen dari laba bersih konsolidasian PPGL.",
+   "Dampak pelepasan ini pada laporan keuangan per 30 Juni 2026 cukup besar: kas Perseroan turun dari Rp10,13 miliar menjadi Rp4 miliar, aset tetap neto anjlok dari Rp252,47 miliar menjadi Rp478,56 juta, properti investasi dan aset hak-guna menjadi nihil dari sebelumnya masing-masing Rp58,28 miliar dan Rp6,09 miliar, serta utang lain-lain sebesar Rp138,46 miliar (terutama kepada PT Rahardja Ekalancar Rp78,19 miliar dan PT Tunas Mobilindo Perkasa Rp59,50 miliar) ikut hilang dari pembukuan karena JAYA tidak lagi dikonsolidasikan. Dari nilai transaksi Rp44,60 miliar, piutang PPGL kepada pemegang saham masih tersisa Rp21,62 miliar per 30 Juni 2026 setelah sebagian dilunasi lewat pembayaran dividen Rp30,46 miliar pada 17 Juni 2026, dan menurut PPGL sisa piutang itu kini dikenakan bunga bulanan.",
+   "Soal kemampuan menjaga kelangsungan usaha pascadivestasi, yang juga ditanyakan Bursa mengingat penurunan signifikan pendapatan, laba, dan aset produktif, PPGL hanya menjawab akan terus melakukan diversifikasi pelanggan potensial melalui langkah pemasaran, tanpa menyebut target atau rencana konkret lainnya."
+  ],
+  "fotoAdegan": "Rows of cargo trucks parked in a logistics yard at dusk, workers checking containers, industrial outskirts of Jakarta.",
+  "takeaway": "Laporan ini condong negatif bagi fundamental PPGL, karena aset yang dilepas ke pihak terafiliasi ternyata menyumbang 90,09 persen dari total aset dan hampir separuh laba bersih Perseroan, sehingga menyebutnya sebagai 'aset non-inti' patut dipertanyakan. Pos yang paling tersentuh adalah aset tetap, yaitu kekayaan fisik seperti kendaraan dan properti yang jadi modal perusahaan menghasilkan pendapatan, yang anjlok dari Rp252,47 miliar menjadi hanya Rp478,56 juta, sementara kas perusahaan menyusut dari Rp10,13 miliar menjadi Rp4 miliar. Sisa piutang dari transaksi ini kepada pemegang saham pengendali sebesar Rp21,62 miliar juga belum lunas, artinya sebagian dana hasil pelepasan aset itu belum benar-benar masuk ke kas Perseroan. Yang perlu dipantau selanjutnya adalah apakah Bursa akan meminta penjelasan lebih rinci soal kelangsungan usaha Perseroan, karena jawaban PPGL kali ini masih berupa rencana umum tanpa target atau jadwal jelas, serta perkembangan pelunasan piutang pemegang saham tersebut pada laporan keuangan kuartal berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "laba-ptro-naik-semester-i-2026-bunga-utang-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "Laba PTRO Naik Semester I 2026, Bunga Utang [Melonjak]",
+  "deck": "Petrosea (PTRO) membukukan laba bersih US$9,17 juta pada semester I 2026, naik dari US$1,29 juta, namun sebagian besar berasal dari keuntungan sekali jalan atas operasi yang dihentikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T23:37:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260917235433-64402-0/FinancialStatement-2026-II-PTRO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTRO",
+  "tags": [
+   "PTRO",
+   "Petrosea",
+   "laporan keuangan",
+   "beban bunga"
+  ],
+  "body": [
+   "Petrosea Tbk (PTRO) menyampaikan laporan keuangan konsolidasian interim teraudit untuk periode enam bulan yang berakhir 30 Juni 2026 kepada OJK dan Bursa Efek Indonesia melalui surat No. CORSEC/L/2026/IX-0128 tertanggal 17 September 2026 yang ditandatangani Direktur Ruddy Santoso. Auditor KAP Liana Ramon Xenia & Rekan dengan partner penanggung jawab Kasman memberikan opini wajar tanpa modifikasian, dengan satu hal audit utama yaitu cadangan kerugian kredit ekspektasian atas piutang usaha.",
+   "Pendapatan konsolidasian Petrosea mencapai US$543,98 juta pada semester I 2026, naik 59,6 persen dari US$340,94 juta pada periode sama tahun lalu. Namun laba kotor nyaris stagnan di US$47,03 juta dari US$48,30 juta, sehingga margin kotor turun dari sekitar 14,2 persen menjadi 8,6 persen karena beban usaha langsung tumbuh lebih cepat dari pendapatan. Beban bunga dan keuangan melonjak 60,9 persen menjadi US$33,43 juta dari US$20,78 juta, sejalan dengan kenaikan pinjaman bank jangka pendek dari US$33,57 juta menjadi US$63,23 juta. Akibatnya, laba dari operasi yang dilanjutkan turun menjadi US$1,55 juta dari US$4,13 juta pada periode sama tahun lalu.",
+   "Laba bersih total periode berjalan justru melonjak menjadi US$9,17 juta dari US$1,29 juta, tetapi kenaikan itu terutama ditopang laba US$7,62 juta dari operasi yang dihentikan, berbalik dari rugi US$2,84 juta pada semester I 2025. Sejalan dengan itu, nilai goodwill perusahaan turun dari US$21,40 juta menjadi US$2,41 juta dan aset tak berwujud dari US$134,25 juta menjadi US$60,09 juta, mengindikasikan pelepasan sebagian unit usaha. Total ekuitas naik menjadi US$321,29 juta dari US$307,46 juta, didorong antara lain oleh setoran modal dari kepentingan nonpengendali di anak usaha senilai US$16,01 juta. Arus kas dari aktivitas operasi berbalik positif US$27,08 juta, dari sebelumnya minus US$57,65 juta pada semester I 2025, seiring penerimaan kas dari pelanggan yang naik menjadi US$528,06 juta.",
+   "Laba per saham dasar dari operasi yang dilanjutkan turun menjadi US$0,0003 dari US$0,0004 pada periode sama tahun lalu, sementara dari operasi yang dihentikan berbalik menjadi US$0,0008 dari rugi US$0,0003, dihitung berdasarkan jumlah saham setelah stock split yang berlaku efektif 7 Januari 2025."
+  ],
+  "fotoAdegan": "Wide shot of heavy mining haul trucks queueing at an open-pit coal mine access road, dust in the air, early morning light",
+  "takeaway": "Laporan ini netral bagi Petrosea, karena kenaikan laba bersih yang mencolok sebagian besar bukan berasal dari bisnis inti, melainkan dari keuntungan sekali jalan atas pelepasan operasi yang dihentikan, sementara operasi yang berlanjut justru mencatat penurunan laba dan margin kotor yang menipis. Yang perlu diperhatikan investor adalah beban bunga yang naik 60,9 persen seiring bertambahnya pinjaman bank jangka pendek, karena beban bunga yang membengkak menggerus laba operasional dan bisa ikut menekan laba per saham meski pendapatan tumbuh pesat. Di sisi lain, arus kas dari operasi yang berbalik positif US$27,08 juta menunjukkan perbaikan nyata dalam penagihan piutang dan pengelolaan kas sehari-hari, sinyal yang lebih mencerminkan kesehatan operasional dibanding angka laba akuntansi semata. Kenaikan ekuitas juga banyak ditopang setoran modal dari pemegang saham minoritas anak usaha, bukan dari akumulasi laba ditahan, sehingga porsi kepemilikan lama di anak usaha tersebut otomatis mengecil. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal berikutnya, untuk melihat apakah tren kenaikan beban bunga dan tekanan margin kotor ini berlanjut atau mereda.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tpia-dan-bren-raih-kesgi-awards-2026-dari-katadata",
   "category": "Bisnis",
   "title": "TPIA dan BREN Raih [KESGI] Awards 2026 dari Katadata",
@@ -352,6 +432,31 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "kkgi-komisaris-tambah-saham-200-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "KKGI: Komisaris [Tambah] Saham 200.000 Lembar",
+  "deck": "Dewan Komisaris KKGI, Drs. Hendro Martowardojo, menambah kepemilikan saham lewat pembelian tidak langsung senilai sekitar Rp62 juta pada 16 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T19:03:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-2728-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KKGI",
+  "tags": [
+   "KKGI",
+   "Resource Alam Indonesia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris PT Resource Alam Indonesia Tbk (KKGI), Drs. Hendro Martowardojo, melaporkan penambahan kepemilikan saham perusahaan kepada Otoritas Jasa Keuangan pada 17 September 2026. Berdasarkan laporan tersebut, ia melakukan dua transaksi pembelian saham secara tidak langsung pada 16 September 2026 dengan tujuan investasi, yaitu 185.300 lembar saham biasa pada harga Rp310 per lembar dan 14.700 lembar saham biasa pada harga Rp308 per lembar. Total pembelian mencapai 200.000 lembar dengan nilai transaksi sekitar Rp62 juta.",
+   "Dengan tambahan ini, kepemilikan saham Hendro di KKGI naik dari 5.514.528 lembar menjadi 5.714.528 lembar, atau bertambah 3,63 persen dari jumlah yang dipegangnya sebelumnya. Hak suaranya di perusahaan turut naik, meski tipis, dari 0,1103 persen menjadi 0,1143 persen dari total saham beredar KKGI."
+  ],
+  "fotoAdegan": "Wide shot of a quiet Jakarta stock exchange trading floor with digital ticker boards glowing in the background, blurred",
+  "takeaway": "Laporan ini netral bagi KKGI karena pembelian sebesar 200.000 lembar itu memang menaikkan kepemilikan pribadi Hendro sebesar 3,63 persen, tetapi porsinya terhadap seluruh saham beredar perusahaan tetap sangat kecil, hanya naik dari 0,1103 persen menjadi 0,1143 persen hak suara. Yang tersentuh di sini hanyalah struktur kepemilikan saham, yakni siapa memegang berapa persen dari saham beredar KKGI, bukan ekuitas, arus kas, atau beban bunga perusahaan, sebab transaksi ini terjadi di pasar sekunder antar investor dan tidak menambah dana ke kas perusahaan. Pembelian oleh komisaris kadang dibaca pelaku pasar sebagai tanda kepercayaan orang dalam terhadap perusahaannya, tetapi nilainya yang hanya sekitar Rp62 juta terlalu kecil untuk disebut sinyal kuat. Yang perlu dipantau selanjutnya adalah apakah Hendro kembali membeli saham dalam laporan kepemilikan berikutnya, karena pola pembelian berulang oleh orang dalam biasanya baru dianggap berarti kalau muncul beberapa kali secara konsisten.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "sk-manajer-kopdes-merah-putih-terbit-gaji-diatur",
   "category": "UMKM",
   "title": "SK Manajer Kopdes Merah Putih Terbit, [Gaji] Diatur",
@@ -456,6 +561,31 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "oasa-direksi-jual-34-27-juta-saham-senilai-rp8-57-m",
+  "category": "Aksi Korporasi",
+  "title": "OASA: [Direksi] Jual 34,27 Juta Saham Senilai Rp8,57 M",
+  "deck": "Direktur OASA Gafur Sulistyo Umar melepas 34,27 juta saham senilai Rp8,57 miliar pada 17 September 2026, hak suaranya turun dari 32,55% menjadi 32,01%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T17:35:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-7716-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OASA",
+  "tags": [
+   "OASA",
+   "Maharaksa Biru Energi",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direktur PT Maharaksa Biru Energi Tbk (OASA), Ir. Gafur Sulistyo Umar MBA, melaporkan penjualan 34.274.000 saham perusahaan pada 17 September 2026. Transaksi dilakukan secara tidak langsung dengan harga Rp250 per saham, sehingga nilai totalnya sekitar Rp8,57 miliar. Dalam laporan kepemilikan saham yang disampaikan ke Otoritas Jasa Keuangan, tujuan transaksi ini disebutkan sebagai realokasi investasi.",
+   "Sebelum transaksi, Gafur tercatat memegang 2.066.136.693 saham OASA, setara dengan 32,55 persen hak suara perusahaan. Setelah penjualan tersebut, kepemilikannya berkurang menjadi 2.031.862.693 saham, dengan hak suara turun menjadi 32,01 persen. Saham yang dilepas hanya sekitar 1,66 persen dari total saham yang sebelumnya dipegangnya, sehingga mayoritas kepemilikannya di perusahaan tetap dipertahankan."
+  ],
+  "fotoAdegan": "Rows of solar panel arrays under bright daylight with a maintenance technician checking wiring in a rural Indonesian field",
+  "takeaway": "Laporan ini netral bagi OASA karena saham yang dilepas cuma sekitar 1,66 persen dari kepemilikan Gafur sebelumnya, dan dia masih memegang hak suara di atas 32 persen setelah transaksi, jadi bukan tanda dia mundur dari perusahaan. Transaksi jual beli seperti ini terjadi di pasar sekunder antar pemegang saham, bukan penerbitan saham baru oleh emiten, sehingga tidak menambah jumlah saham beredar OASA maupun mengencerkan laba per saham pemegang saham lain. Yang perlu terus dipantau adalah apakah pelepasan bertahap semacam ini berlanjut, sebab setiap perubahan kepemilikan direksi wajib dilaporkan lagi begitu terjadi, dan rangkaian penjualan yang berulang bisa memberi sinyal berbeda dari satu transaksi tunggal seperti ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bahlil-ungkap-sebab-antrean-bbm-makassar-tangki-modifikasi-1-ton",
   "category": "Energi",
   "title": "Bahlil Ungkap Sebab Antrean BBM Makassar, Tangki [Modifikasi] 1 Ton",
@@ -532,6 +662,57 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers in hard hats inspecting rebar and scaffolding at a large highrise construction site, cranes overhead, midday light",
   "takeaway": "Laporan ini sendiri netral karena isinya cuma jadwal acara, tidak memuat angka kinerja atau keputusan korporasi baru, tapi momennya penting untuk dipantau karena ini forum publik pertama WIKA sejak PEFINDO menurunkan peringkat empat obligasinya ke level gagal bayar pekan lalu. Public Expose adalah forum tahunan wajib bagi emiten untuk memaparkan kondisi bisnis ke investor dan analis, dan agenda Corporate Update di sini biasanya jadi kesempatan direksi menjelaskan posisi arus kas serta langkah pembayaran utang setelah sebuah perusahaan gagal bayar. Investor dan pemegang obligasi WIKA perlu mencatat paparan pada Kamis, 1 Oktober 2026 pukul 10.00 WIB, sebab materinya wajib diunggah ke situs Bursa Efek Indonesia paling lambat hari itu juga dan menjadi kesempatan pertama manajemen menjawab langsung ke publik soal status gagal bayar tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-direksi-lepas-904-juta-saham-suara-ke-16-62",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Lepas 904 Juta Saham, Suara ke [16,62%]",
+  "deck": "Direksi NSSS menjual 903,99 juta saham lewat repurchase agreement bertujuan substitusi, memangkas hak suaranya dari 20,42 persen menjadi 16,62 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T17:05:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-5620-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repurchase agreement"
+  ],
+  "body": [
+   "Seorang direksi PT Nusantara Sawit Sejahtera Tbk (NSSS), tercatat dalam sistem pelaporan sebagai Samuel Sekuritas Indonesia, melaporkan pelepasan 903.994.200 saham NSSS pada 17 September 2026. Berdasarkan laporan keterbukaan informasi kepada Otoritas Jasa Keuangan, jumlah saham yang dipegangnya turun dari 4.860.938.900 lembar menjadi 3.956.944.700 lembar, setara 18,6 persen dari kepemilikannya sebelum transaksi. Akibatnya, hak suaranya di perusahaan turun dari 20,42 persen menjadi 16,62 persen.",
+   "Penjualan ini dilakukan dalam empat tahap lewat skema repurchase agreement, yakni saham dijual dengan janji dibeli kembali di kemudian hari, dengan status kepemilikan langsung dan tujuan transaksi tertulis sebagai 'substitution'. Rinciannya: 228.714.900 saham biasa di harga Rp600 per lembar, 209.896.400 saham biasa di harga Rp795 per lembar, 252.427.300 saham biasa di harga Rp1.050 per lembar, dan 212.955.600 saham biasa di harga Rp1.000 per lembar. Seluruh transaksi tercatat pada tanggal yang sama, 17 September 2026, dengan total nilai sekitar Rp782,1 miliar berdasarkan harga dan jumlah yang tertulis dalam laporan."
+  ],
+  "fotoAdegan": "Workers loading palm oil fresh fruit bunches onto a truck at a plantation collection point, tropical morning light.",
+  "takeaway": "Laporan ini saya nilai negatif bagi NSSS, karena melanjutkan tren pelepasan saham oleh direksi yang sama dalam sepekan terakhir, dan kali ini porsinya cukup besar, yaitu 18,6 persen dari kepemilikannya, sehingga hak suaranya di perusahaan turun dari 20,42 persen menjadi 16,62 persen. Yang tersentuh di sini adalah konsentrasi kepemilikan dan hak suara pemegang saham internal, karena repurchase agreement pada dasarnya adalah saham yang dijual dengan janji dibeli kembali dan biasa dipakai sebagai jaminan pinjaman, sehingga pasar memantaunya untuk menilai apakah direksi sedang membutuhkan dana tunai lewat mekanisme ini. Tujuan transaksi yang tertulis sebagai 'substitution' mengindikasikan saham ini dipakai mengganti jaminan lain, bukan pelepasan tunai biasa, meski efeknya terhadap hak suara tetap sama besarnya. Yang perlu dipantau berikutnya adalah laporan lanjutan dari direksi ini, mengingat dalam sepekan terakhir kepemilikannya sudah berubah lewat skema repo yang sama sebanyak tiga kali, sementara dokumen ini sendiri tidak menyebutkan tanggal jatuh tempo pembelian kembali sahamnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kdtn-putrasakti-mandiri-beli-balik-500-000-saham-grup-usaha",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri [beli balik] 500.000 saham grup usaha",
+  "deck": "Putrasakti Mandiri membeli 500.000 saham KDTN seharga Rp389 per lembar pada 16 September 2026, menaikkan hak suaranya tipis dari 32,11% menjadi 32,15%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T17:00:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-1849-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "kepemilikan saham",
+   "Putrasakti Mandiri",
+   "restrukturisasi kelompok usaha"
+  ],
+  "body": [
+   "PUTRASAKTI MANDIRI, salah satu pemegang saham PT Puri Sentul Permai Tbk (KDTN), melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya membeli 500.000 lembar saham KDTN pada 16 September 2026 dengan harga Rp389 per saham, atau senilai sekitar Rp194,5 juta. Dalam laporan tersebut, jenis transaksi dicatat sebagai repurchase agreement dengan status kepemilikan langsung, dan tujuan yang dicantumkan adalah restrukturisasi kepemilikan saham dalam kelompok usaha.",
+   "Dengan pembelian ini, jumlah saham KDTN yang dipegang Putrasakti Mandiri naik dari 401.500.000 lembar menjadi 402.000.000 lembar, bertambah 500.000 lembar atau sekitar 0,12% dari kepemilikan sebelumnya. Porsi hak suaranya di KDTN ikut naik tipis, dari 32,11% menjadi 32,15%.",
+   "Transaksi ini muncul sepekan setelah Putrasakti Mandiri melaporkan pelepasan 2,3 juta saham KDTN kepada pihak lain dalam kelompok usaha yang sama, yang ketika itu menurunkan hak suaranya dari 32,32% menjadi sekitar 32,11%. Pembelian 500.000 saham kali ini hanya mengembalikan sebagian kecil dari jumlah yang sebelumnya dilepas."
+  ],
+  "fotoAdegan": "Aerial view of a hillside residential housing complex under construction near Sentul, red-tiled rooftops, green hills and morning mist in the background.",
+  "takeaway": "Laporan ini netral bagi KDTN karena ukurannya kecil, pembelian 500.000 saham cuma setara 0,12% dari kepemilikan Putrasakti Mandiri dan hanya mengerek hak suaranya dari 32,11% menjadi 32,15%, jauh dari cukup untuk mengubah status atau kendalinya di perusahaan. Pos yang tersentuh sebatas hak suara pemegang saham, sebab ini transaksi jual beli saham yang sudah beredar antar pihak dalam kelompok usaha, bukan setoran modal baru, sehingga tidak menambah kas ke perusahaan maupun mengubah jumlah total saham beredar KDTN. Yang menarik justru polanya: sepekan sebelumnya Putrasakti Mandiri melepas 2,3 juta saham dengan alasan restrukturisasi serupa, dan pembelian kecil kali ini baru menutup sebagian kecil dari jumlah itu. Publik perlu memantau apakah rangkaian transaksi internal kelompok usaha ini berlanjut dengan volume yang lebih besar, karena hanya laporan kepemilikan berikutnya yang bisa menunjukkan apakah peta kendali KDTN benar-benar bergeser.",
   "sentimen": "netral"
  },
  {

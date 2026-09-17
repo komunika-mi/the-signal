@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "widi-koreksi-laporan-realisasi-dana-ipo-rp37-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "WIDI Koreksi Laporan [Realisasi] Dana IPO Rp37,8 Miliar",
+  "deck": "Widiant Jaya Krenindo menyampaikan ulang laporan realisasi dana IPO Rp37,8 miliar dalam dua bahasa sesuai aturan OJK, seluruh dana sudah terserap penuh.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIDI",
+   "IPO",
+   "penggunaan dana",
+   "waran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54b51ee56d_52feff0327.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bptr-jelaskan-ke-bursa-kendala-penuhi-free-float-minimum",
+  "category": "Aksi Korporasi",
+  "title": "BPTR Jelaskan ke Bursa Kendala Penuhi [Free Float] Minimum",
+  "deck": "BPTR menjawab permintaan penjelasan Bursa Efek Indonesia soal rencana pemenuhan syarat minimum saham beredar bebas, dan menyebut pemenuhannya bergantung pada keputusan pemegang saham.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BPTR",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/610d87d705_3feaefb998.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apli-baru-kantongi-free-float-7-82-wajib-15-pada-2029",
+  "category": "Aksi Korporasi",
+  "title": "APLI Baru Kantongi [Free Float] 7,82%, Wajib 15% pada 2029",
+  "deck": "Asiaplast menjelaskan ke Bursa bahwa saham beredar bebasnya baru 7,82%, jauh dari syarat minimum 15%. Pengendali berencana melepas sekitar 97,8 juta saham secara bertahap hingga 2029.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APLI",
+   "free float",
+   "Asiaplast Industries",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c164b34a69_b8c56b1168.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kkgi-angkat-wimpi-salim-jadi-direktur-utama-baru",
+  "category": "Aksi Korporasi",
+  "title": "KKGI Angkat Wimpi Salim Jadi [Direktur Utama] Baru",
+  "deck": "KKGI mengangkat Wimpi Salim sebagai Direktur Utama baru menggantikan Pintarso Adijanto, serta Lucky Ciptadi Wibowo sebagai direktur baru menggantikan Winanto, efektif 15 September 2026.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KKGI",
+   "Resource Alam Indonesia",
+   "Pergantian Direksi",
+   "Tata Kelola Perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a550b38626_dfa5eb1dec.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sdra-komisaris-independen-ahmad-fajarprana-mundur",
   "category": "Aksi Korporasi",
   "title": "SDRA: Komisaris Independen Ahmad Fajarprana [Mundur]",
@@ -6431,70 +6495,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466131-rupiah-melemah-di-rp17513-per-dolar-as-diprediksi-menguat-ditopang-konsumsi-domestik-dan-keyakinan-konsumen"
- },
- {
-  "slug": "rsch-bantah-ada-informasi-material-picu-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "RSCH Bantah Ada Informasi Material Picu [Volatilitas] Saham",
-  "deck": "PT Charlie Hospital Semarang Tbk (RSCH) menjawab permintaan BEI dan menyatakan tidak ada informasi material di balik volatilitas transaksi sahamnya.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RSCH",
-   "Charlie Hospital Semarang",
-   "Bursa Efek Indonesia",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a1b6645185_159668a09c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jihd-buka-suara-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "JIHD Buka Suara soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "Merespons permintaan Bursa Efek Indonesia, JIHD menyatakan tidak mengetahui informasi material di balik pergerakan sahamnya dan tidak berencana melakukan aksi korporasi dalam tiga bulan ke depan.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JIHD",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e2782fcea5_bea6a36acd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-pangan-10-september-cabai-rawit-merah-melonjak-10",
-  "category": "Makroekonomi",
-  "title": "Harga Pangan 10 September: Cabai Rawit Merah [Melonjak] 10%",
-  "deck": "Cabai rawit merah naik paling tajam, Rp8.300 menjadi Rp91.000 per kilogram, sementara harga beras dan daging sapi juga merangkak naik menurut data PIHPS Kamis pagi.",
-  "date": "10 September 2026",
-  "image": "assets/img/harga-pangan-10-september-cabai-rawit-merah-melonjak-10.jpg",
-  "imageV": "mtuzield",
-  "tags": [
-   "harga pangan",
-   "cabai rawit merah",
-   "PIHPS",
-   "harga beras"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466117-harga-pangan-hari-ini-10-september-2026-bikin-emak-emak-pusing-cabai-rawit-merah-naik-10-persen"
- },
- {
-  "slug": "inds-sij-sewakan-ruko-ke-planet-ban-rp378-3-juta",
-  "category": "Aksi Korporasi",
-  "title": "INDS: SIJ sewakan ruko ke [Planet Ban] Rp378,3 juta",
-  "deck": "Anak usaha Indospring, PT Sinar Indranusa Jaya, menyewakan ruko di Gresik ke PT Surganya Motor Indonesia (Planet Ban) senilai Rp378,3 juta untuk enam tahun.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDS",
-   "transaksi afiliasi",
-   "Indospring",
-   "Planet Ban"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d1e5255638_4acbd4bacb.pdf",
-  "sourceLabel": "IDX"
  }
 ];

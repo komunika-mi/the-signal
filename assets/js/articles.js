@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "widi-koreksi-laporan-realisasi-dana-ipo-rp37-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "WIDI Koreksi Laporan [Realisasi] Dana IPO Rp37,8 Miliar",
+  "deck": "Widiant Jaya Krenindo menyampaikan ulang laporan realisasi dana IPO Rp37,8 miliar dalam dua bahasa sesuai aturan OJK, seluruh dana sudah terserap penuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T12:02:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54b51ee56d_52feff0327.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIDI",
+  "tags": [
+   "WIDI",
+   "IPO",
+   "penggunaan dana",
+   "waran"
+  ],
+  "body": [
+   "PT Widiant Jaya Krenindo Tbk (WIDI) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum periode per 30 Juni 2026 yang sebelumnya disampaikan lewat surat Nomor 040/WIDI-CORSEC/VII/2026 tanggal 15 Juli 2026. Koreksi dilakukan karena laporan awal hanya memakai bahasa Indonesia, padahal Pasal 25 ayat (2) POJK Nomor 40 Tahun 2025 mewajibkan laporan disampaikan dalam bahasa Indonesia dan bahasa Inggris sekaligus. Dari sisi angka, IPO WIDI yang efektif 10 Juli 2023 meraih dana Rp40 miliar, dipotong biaya penawaran umum Rp2.158.078.550, sehingga dana bersih yang bisa dipakai perseroan adalah Rp37.841.921.450 dan seluruhnya sudah terserap, tanpa sisa.",
+   "Dana bersih tersebut dialokasikan untuk dua pos, yaitu pembelian alat berat dan modal kerja lainnya. Sesuai prospektus, rencana awalnya adalah Rp26.360.994.895 (69,66 persen) untuk alat berat dan Rp11.480.926.555 (30,34 persen) untuk modal kerja. Realisasinya bergeser tipis, dana untuk alat berat naik menjadi Rp26.456.420.585 (69,91 persen), sementara modal kerja turun menjadi Rp11.385.500.865 (30,09 persen). Perubahan alokasi ini sudah mendapat persetujuan Rapat Umum Pemegang Saham Luar Biasa pada 12 Agustus 2025 dan 28 Oktober 2025.",
+   "Rincian biaya penawaran umum sebesar Rp2.158.078.550 itu terbagi ke beberapa pos, biaya penjamin pelaksana emisi paling besar yaitu Rp872.000.000 atau 40,41 persen, disusul biaya kantor akuntan publik Rp454.530.000 (21,06 persen), konsultan hukum Rp421.555.970 (19,53 persen), biro administrasi efek Rp119.900.000 (5,56 persen), biaya publikasi Rp108.642.580 (5,03 persen), notaris Rp108.500.000 (5,03 persen), biaya pendaftaran OJK Rp23.000.000 (1,07 persen), dan biaya KSEI Rp22.200.000 (1,03 persen).",
+   "Laporan ini juga mencantumkan status konversi Waran Seri I dengan kode WIDI-W yang diterbitkan 10 Januari 2024 sebanyak 420 juta lembar dengan harga pelaksanaan Rp120 per waran, atau berpotensi mendatangkan dana hingga Rp50,4 miliar jika seluruhnya dikonversi. Sampai 30 Juni 2026, baru 31.683 waran yang dikonversi pemegang saham menjadi saham, senilai Rp3.801.960, dan seluruhnya sudah dipakai untuk modal kerja perusahaan. Dengan begitu, masih ada 419.968.317 waran yang belum dikonversi."
+  ],
+  "fotoAdegan": "Yellow excavators and heavy construction machinery parked in a gravel yard, mechanics inspecting engines, overcast afternoon light in Indonesia.",
+  "takeaway": "Laporan ini netral bagi kinerja WIDI, karena isinya cuma mengulang data yang sudah pernah dilaporkan Juli lalu dalam format dwi bahasa sesuai kewajiban OJK, tanpa ada perubahan dana baru. Pos yang tersentuh adalah arus kas perusahaan, sebab seluruh Rp37,8 miliar hasil IPO sudah habis terpakai untuk alat berat dan modal kerja sehingga tidak ada dana menganggur yang perlu dipertanyakan investor. Yang perlu dicermati adalah potensi dilusi dari waran, sebab dari total 420 juta Waran Seri I WIDI-W yang beredar, baru 31.683 lembar yang dikonversi pemegang saham, sehingga sisa 419,97 juta waran masih menyimpan potensi tambahan saham beredar yang bisa menekan laba per saham kalau suatu saat dieksekusi. Yang perlu dipantau selanjutnya adalah laju konversi waran tersebut ke depan, karena setiap eksekusi baru akan menambah kas perusahaan sekaligus jumlah saham yang beredar di pasar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bptr-jelaskan-ke-bursa-kendala-penuhi-free-float-minimum",
+  "category": "Aksi Korporasi",
+  "title": "BPTR Jelaskan ke Bursa Kendala Penuhi [Free Float] Minimum",
+  "deck": "BPTR menjawab permintaan penjelasan Bursa Efek Indonesia soal rencana pemenuhan syarat minimum saham beredar bebas, dan menyebut pemenuhannya bergantung pada keputusan pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T11:45:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/610d87d705_3feaefb998.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BPTR",
+  "tags": [
+   "BPTR",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan emiten"
+  ],
+  "body": [
+   "PT Batavia Prosperindo Trans Tbk. (BPTR) mengirim surat penjelasan kepada Bursa Efek Indonesia untuk menjawab permintaan penjelasan bursa nomor S-11614/BEI.PP2/09-2026 tertanggal 10 September 2026 mengenai rencana pemenuhan ketentuan minimum saham beredar bebas atau free float. Surat balasan bernomor 0098/BPT/DIR/IX/2026 itu ditandatangani Direktur Utama Paulus Handigdo dan disampaikan ke bursa pada 17 September 2026 pukul 11:45.",
+   "Dalam surat itu, BPTR menjelaskan bahwa kendala utama pemenuhan syarat free float berkaitan dengan komposisi kepemilikan saham dan rencana pengalihan sebagian saham yang saat ini masih berada di tangan pemegang saham perseroan. Perseroan menegaskan bahwa keputusan untuk mengalihkan atau melepas saham tersebut sepenuhnya ada di tangan masing-masing pemegang saham, sehingga BPTR tidak punya kewenangan untuk memerintahkan, menentukan, atau memastikan kapan pengalihan itu akan terjadi.",
+   "Soal rencana ke depan, BPTR menyatakan akan terus berkoordinasi dan berkomunikasi dengan pemegang saham terkait serta memantau perkembangan komposisi kepemilikan saham, namun belum bisa memastikan waktu maupun bentuk transaksi yang akan dilakukan untuk memenuhi ketentuan tersebut. Perseroan juga meminta arahan dan dukungan dari bursa, termasuk kemungkinan keringanan administratif atau biaya apabila harus menjalankan aksi korporasi untuk mengejar syarat free float. Untuk poin informasi tambahan, BPTR menyatakan tidak ada hal lain yang relevan untuk disampaikan."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's financial district, pedestrians crossing a busy street at midday.",
+  "takeaway": "Penjelasan ini condong negatif bagi BPTR karena perseroan sendiri mengakui belum memenuhi syarat minimum saham beredar bebas dan tidak punya kendali atau kepastian waktu penyelesaiannya, sebab keputusan pengalihan saham ada di tangan pemegang saham lama, bukan di tangan perseroan. Free float atau saham beredar bebas adalah porsi saham yang dipegang publik di luar pemegang saham pengendali, dan bursa mewajibkan jumlah minimum tertentu supaya saham cukup ramai diperdagangkan dan harganya tidak mudah dikendalikan segelintir pihak. Kalau syarat ini terus tidak terpenuhi, emiten berisiko menghadapi sanksi administratif atau pengawasan tambahan dari bursa yang pada akhirnya bisa mengurangi minat investor pada saham BPTR. Dokumen ini tidak mencantumkan tenggat baru dari bursa, jadi yang perlu dipantau selanjutnya adalah apakah BEI memberi batas waktu formal atau tindakan lanjutan setelah menerima jawaban ini, serta apakah pemegang saham BPTR benar-benar merealisasikan pengalihan sahamnya ke publik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "apli-baru-kantongi-free-float-7-82-wajib-15-pada-2029",
+  "category": "Aksi Korporasi",
+  "title": "APLI Baru Kantongi [Free Float] 7,82%, Wajib 15% pada 2029",
+  "deck": "Asiaplast menjelaskan ke Bursa bahwa saham beredar bebasnya baru 7,82%, jauh dari syarat minimum 15%. Pengendali berencana melepas sekitar 97,8 juta saham secara bertahap hingga 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T11:40:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c164b34a69_b8c56b1168.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APLI",
+  "tags": [
+   "APLI",
+   "free float",
+   "Asiaplast Industries",
+   "BEI"
+  ],
+  "body": [
+   "PT Asiaplast Industries Tbk (APLI) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia terkait belum terpenuhinya syarat minimum saham free float, yaitu porsi saham yang diperdagangkan bebas di pasar dan tidak dikuasai pemegang saham pengendali. Surat tertanggal 17 September 2026 ini merupakan jawaban atas permintaan penjelasan Bursa tanggal 10 September 2026, yang diterima Perseroan pada 11 September. Berdasarkan perhitungan ulang Bursa atas Laporan Bulanan Registrasi Kepemilikan Efek per 31 Maret 2026, free float APLI hanya 7,82% dari 1.362.671.400 saham tercatat, dengan nilai kapitalisasi saham Rp310.689.079.200. Sesuai aturan transisi Peraturan I-A, karena kapitalisasinya di bawah Rp5 triliun, APLI wajib mencapai free float minimal 15% paling lambat 31 Maret 2029, yang berarti masih membutuhkan tambahan sekurang-kurangnya 7,18% atau sekitar 97.839.807 saham.",
+   "Perseroan menjelaskan kendala utamanya adalah struktur kepemilikan yang sangat terkonsentrasi. PT Maco Amangraha dan Alexander Agung Pranoto, selaku pengendali, bersama-sama menguasai 87,30% saham APLI, sehingga pemenuhan free float secara efektif hanya bisa dicapai lewat pelepasan sebagian saham mereka ke pihak yang tidak terafiliasi. Menurut Perseroan, pelepasan belum dilakukan karena likuiditas perdagangan saham APLI di bursa relatif terbatas dibandingkan jumlah saham yang harus dilepas, sehingga pelepasan sekaligus berisiko menekan harga dan merugikan seluruh pemegang saham, termasuk publik. Kondisi industri lembaran plastik yang tertekan fluktuasi harga bahan baku juga disebut membuat minat investor terhadap saham APLI belum optimal.",
+   "Sebagai rencana tindak lanjut, PT Maco Amangraha, Alexander Agung Pranoto, dan/atau afiliasinya berencana melepas sekurang-kurangnya 7,18% saham atau sekitar 97.839.807 saham secara bertahap kepada investor yang tidak terafiliasi, dengan kepemilikan akhir masing-masing pembeli baru di bawah 5%. Kepada Bursa, Perseroan meminta dua dukungan konkret: konsultasi dan konfirmasi perhitungan free float atas skema pelepasan tersebut sebelum transaksi dijalankan, serta pertimbangan agar pemenuhan dilakukan bertahap dengan memperhatikan kondisi pasar dan likuiditas saham. Surat itu juga menegaskan bahwa masa transisi ini tidak menghapus sanksi yang sudah dikenakan Bursa atas pelanggaran ketentuan free float sebelumnya, dan jika suspensi perdagangan pernah dijatuhkan, masa suspensi itu tetap diperhitungkan sebagai salah satu penyebab potensi delisting."
+  ],
+  "fotoAdegan": "Factory workers monitoring large rolls of flexible plastic sheeting moving through an industrial extrusion line under overhead lighting",
+  "takeaway": "Laporan ini netral bagi Asiaplast untuk saat ini, karena isinya baru berupa rencana dan permintaan konsultasi ke Bursa, belum ada transaksi pelepasan saham yang benar-benar terjadi. Yang tersentuh bukan pos laporan keuangan seperti laba atau arus kas, melainkan syarat pencatatan di bursa, yaitu porsi saham publik minimum yang harus dijaga agar saham tetap boleh diperdagangkan; kalau syarat 15% tidak tercapai sampai batas waktu, Bursa bisa menjatuhkan sanksi hingga penghentian sementara perdagangan, yang membuat pemegang saham publik sulit menjual sahamnya. Ukuran pelepasan yang direncanakan, sekitar 97,8 juta saham dari kepemilikan pengendali sebesar 87,3%, cukup besar untuk mengubah komposisi pemegang saham jika terealisasi, tapi sampai surat ini terbit belum ada jadwal pasti kapan pelepasan dimulai. Yang perlu dipantau berikutnya adalah apakah PT Maco Amangraha dan Alexander Agung Pranoto mulai merealisasikan pelepasan bertahap tersebut, respons Bursa atas permintaan konsultasi perhitungan free float, dan progres Perseroan menjelang tenggat akhir 31 Maret 2029.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kkgi-angkat-wimpi-salim-jadi-direktur-utama-baru",
+  "category": "Aksi Korporasi",
+  "title": "KKGI Angkat Wimpi Salim Jadi [Direktur Utama] Baru",
+  "deck": "KKGI mengangkat Wimpi Salim sebagai Direktur Utama baru menggantikan Pintarso Adijanto, serta Lucky Ciptadi Wibowo sebagai direktur baru menggantikan Winanto, efektif 15 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T11:35:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a550b38626_dfa5eb1dec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KKGI",
+  "tags": [
+   "KKGI",
+   "Resource Alam Indonesia",
+   "Pergantian Direksi",
+   "Tata Kelola Perusahaan"
+  ],
+  "body": [
+   "Resource Alam Indonesia Tbk (KKGI) mengumumkan pergantian pengurus perseroan melalui keterbukaan informasi yang diteken Corporate Secretary Leny pada 17 September 2026. Wimpi Salim resmi menjabat sebagai Direktur Utama sejak 15 September 2026, menggantikan Pintarso Adijanto. Pada tanggal yang sama, Lucky Ciptadi Wibowo diangkat sebagai Direktur baru, menggantikan Winanto.",
+   "Dua direktur lain tidak berubah posisinya. Agoes Soegiarto Soeparman tetap menjabat Direktur sejak 30 Juni 2022, saat itu menggantikan posisi yang sebelumnya dipegang Wimpi Salim, dan Tan Ying Mei tetap menjabat Direktur sejak 12 Desember 2025.",
+   "Jajaran Dewan Komisaris tidak mengalami perubahan. Hendro Martowardojo tetap menjabat Komisaris Utama dan Suparno Adijanto tetap menjabat Komisaris, keduanya sejak 30 Juni 2022, sementara GE Luiyanto Yamin tetap menjabat Komisaris Independen sejak tanggal yang sama. Wonchil Yu, yang sebelumnya tercatat dengan nama Wayne Won Chil Yu, tetap menjabat Komisaris, dan Darma Putra Wati tetap menjabat Komisaris Independen sejak 7 Desember 2023."
+  ],
+  "fotoAdegan": "Wide shot of coal stockpiles and heavy loader trucks at an open pit mine site under a hazy sky, no signage visible",
+  "takeaway": "Pergantian direksi ini bersifat netral bagi fundamental KKGI karena dokumen tidak menyebutkan alasan pergantian, dan tidak ada indikasi masalah keuangan atau hukum di baliknya. Pergantian direktur utama dan satu direktur tidak langsung mengubah pos-pos keuangan seperti ekuitas, arus kas, atau laba per saham, tetapi pelaku pasar tetap memperhatikannya karena direksi adalah pihak yang menjalankan strategi operasional perusahaan sehari-hari, sehingga pergantian nakhoda bisa mengubah arah bisnis ke depan. Yang perlu dipantau berikutnya adalah bagaimana Wimpi Salim, yang sebelumnya sudah pernah menjabat direktur sebelum digantikan pada 2022, menjalankan perannya sebagai direktur utama baru sejak 15 September 2026, serta apakah manajemen memberikan penjelasan lanjutan soal alasan pergantian ini kepada bursa.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "sdra-komisaris-independen-ahmad-fajarprana-mundur",
   "category": "Aksi Korporasi",
   "title": "SDRA: Komisaris Independen Ahmad Fajarprana [Mundur]",

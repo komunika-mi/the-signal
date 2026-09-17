@@ -69,6 +69,18 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "harga-emas-antam-naik-rp5-000-jadi-rp2-598-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Rp5.000 jadi Rp2.598.000/Gram",
+  "deck": "Harga emas batangan Antam naik tipis ke Rp2.598.000 per gram, sementara harga buyback bertahan di Rp2.438.000 per gram.",
+  "date": "17 September 2026",
+  "image": "assets/img/harga-emas-antam-naik-rp5-000-jadi-rp2-598-000-gram.jpg",
+  "imageV": "mu52njx3",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467625-harga-emas-antam-hari-ini-17-september-2026-naik-rp5000-ke-angka-rp2598000-per-gram-buyback-stagnan"
+ },
+ {
   "slug": "babp-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
   "category": "Aksi Korporasi",
   "title": "BABP Jawab Bursa soal [Volatilitas] Transaksi Sahamnya",
@@ -6483,22 +6495,6 @@ var ARTICLES = [
    "Planet Ban"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d1e5255638_4acbd4bacb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "issp-public-expose-ungkap-laba-semester-i-naik-12",
-  "category": "Aksi Korporasi",
-  "title": "ISSP: Public Expose Ungkap Laba Semester I Naik [12%]",
-  "deck": "Dalam public expose tahunan, manajemen ISSP mengungkap utilisasi produksi, proyek pipa gas Dumai-Sei Mangkei, dan target pertumbuhan laba 2026.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ISSP",
-   "public expose",
-   "industri baja",
-   "kinerja emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a9d352dac_ea6eeb9dab.pdf",
   "sourceLabel": "IDX"
  }
 ];

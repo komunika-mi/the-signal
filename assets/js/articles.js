@@ -107,6 +107,28 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "harga-emas-antam-naik-rp5-000-jadi-rp2-598-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Rp5.000 jadi Rp2.598.000/Gram",
+  "deck": "Harga emas batangan Antam naik tipis ke Rp2.598.000 per gram, sementara harga buyback bertahan di Rp2.438.000 per gram.",
+  "image": "assets/img/harga-emas-antam-naik-rp5-000-jadi-rp2-598-000-gram.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T09:25:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467625-harga-emas-antam-hari-ini-17-september-2026-naik-rp5000-ke-angka-rp2598000-per-gram-buyback-stagnan",
+  "tags": [],
+  "body": [
+   "Harga emas batangan Antam pada 17 September 2026 naik Rp5.000 per gram menjadi Rp2.598.000, dari sebelumnya Rp2.593.000. Kenaikan ini relevan bagi masyarakat yang menyimpan emas sebagai instrumen investasi atau sedang berencana membeli maupun menjual emas fisik dalam waktu dekat.",
+   "Berdasarkan data Logam Mulia, kenaikan harga jual ini hanya berselisih Rp5.000 dibanding hari sebelumnya, tergolong pergerakan tipis. Sementara itu, harga buyback, yakni harga yang dibayar Antam saat nasabah menjual kembali emas batangannya, tercatat stagnan di angka Rp2.438.000 per gram.",
+   "Dengan harga jual Rp2.598.000 dan buyback Rp2.438.000, selisih antara keduanya berada di kisaran Rp160.000 per gram. Selisih ini penting diketahui pembeli karena mencerminkan potensi nilai yang berkurang jika emas dijual kembali dalam waktu dekat setelah pembelian.",
+   "Pihak Antam maupun Logam Mulia mengingatkan bahwa harga emas batangan ini bersifat dinamis dan bisa berubah sewaktu-waktu mengikuti pergerakan pasar."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini hanya kenaikan tipis Rp5.000 pada harga jual, sementara harga buyback atau harga beli kembali oleh Antam tidak bergerak sama sekali. Ini berarti selisih antara harga beli dan harga jual kembali emas, yang jadi ongkos tersembunyi bagi siapa pun yang membeli lalu menjual dalam waktu dekat, sedikit melebar menjadi sekitar Rp160.000 per gram. Data satu hari ini belum cukup untuk membaca apakah ini awal tren kenaikan atau sekadar fluktuasi harian biasa, karena tidak ada perbandingan pergerakan beberapa hari terakhir atau kaitannya dengan harga emas dunia. Yang perlu dipantau adalah harga esok dan lusa, apakah kenaikan berlanjut dengan pola serupa atau justru berbalik turun.",
+  "imageV": "mu52njx3"
+ },
+ {
   "slug": "babp-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
   "category": "Aksi Korporasi",
   "title": "BABP Jawab Bursa soal [Volatilitas] Transaksi Sahamnya",

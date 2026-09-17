@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-17T01:19:52.563+07:00",
+ "diperbarui": "2026-09-18T01:27:23.304+07:00",
  "entri": [
+  {
+   "id": "2026-09-17-3",
+   "edisi": "2026-09-17",
+   "benang": "Pemerintah Turun Tangan di Rantai Energi",
+   "klaim": "Pemerintah kian mengambil peran operasional langsung di titik distribusi energi, dari lelang ulang blok migas hulu hingga pengawalan langsung Dirjen Minerba atas pengadaan batu bara ke PLN, justru ketika minat investor di sisi hulu belum sepenuhnya pulih.",
+   "penanda": "Hasil lelang ulang tiga blok migas (Rombebai, Maratua II, Jayapura) dan apakah pengawalan langsung Dirjen Minerba mencegah pemadaman listrik pada bulan-bulan mendatang",
+   "tenggat": null,
+   "tenggatLabel": "hasil lelang ulang tiga blok migas tadi dan apakah pengawalan langsung Dirjen Minerba benar mencegah pemadaman pada bulan-bulan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-17-2",
+   "edisi": "2026-09-17",
+   "benang": "Pengawasan Emiten Bermasalah Menajam",
+   "klaim": "Pengawasan Bursa terhadap emiten kecil dan menengah yang menunjukkan tekanan keuangan nyata (seperti ADHI, UNTD, MGLV, VICI, dan BJBS) akan terus menajam, dengan langkah berikutnya yang layak dipantau adalah public expose WIKA.",
+   "penanda": "Public expose WIKA, forum publik pertama sejak peringkat empat obligasinya diturunkan ke status gagal bayar",
+   "tenggat": "2026-10-01",
+   "tenggatLabel": "public expose WIKA pada 1 Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-17-1",
+   "edisi": "2026-09-17",
+   "benang": "Kepatuhan Free Float Masih Molor",
+   "klaim": "Bursa akan terus memberi perpanjangan waktu ketimbang menuntut kepatuhan segera kepada delapan emiten yang belum memenuhi syarat free float 15 persen, sehingga tidak satu pun dari mereka bakal dikenai sanksi langsung soal free float dalam waktu dekat, berbeda dengan penegakan keras yang justru datang lewat jalur pemantauan khusus seperti kasus suspensi INPS.",
+   "penanda": "Pencapaian target free float YUPI sebesar 12,5 persen",
+   "tenggat": "2027-03-31",
+   "tenggatLabel": "target YUPI mencapai 12,5 persen pada Maret 2027",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-16-3",
    "edisi": "2026-09-16",

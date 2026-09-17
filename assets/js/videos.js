@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "bRh7ZdTV0zI",
+  "title": "Pemerintah Kejar Target Produksi E20 dalam Dua Tahun",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah menargetkan produksi bahan bakar campuran etanol 20 persen atau E20 rampung dalam dua tahun. Untuk mengejar target itu, pemerintah menyiapkan lahan tebu sebagai bahan baku etanol.",
+  "takeaway": "Kebijakan bauran bahan bakar nabati ini menyangkut ketahanan energi nasional sekaligus rantai pasok industri gula.",
+  "terbit": "2026-09-17T08:35:12+00:00"
+ },
+ {
   "id": "jwi5v-WaW9Q",
   "title": "Kementerian Investasi Gelar Anugerah Layanan Investasi 2026",
   "category": "Bisnis",

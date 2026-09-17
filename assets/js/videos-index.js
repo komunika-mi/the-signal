@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "bRh7ZdTV0zI",
+  "title": "Pemerintah Kejar Target Produksi E20 dalam Dua Tahun",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah menargetkan produksi bahan bakar campuran etanol 20 persen atau E20 rampung dalam dua tahun. Untuk mengejar target itu, pemerintah menyiapkan lahan tebu sebagai bahan baku etanol.",
+  "takeaway": "Kebijakan bauran bahan bakar nabati ini menyangkut ketahanan energi nasional sekaligus rantai pasok industri gula."
+ },
+ {
   "id": "jwi5v-WaW9Q",
   "title": "Kementerian Investasi Gelar Anugerah Layanan Investasi 2026",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "IBF tvOne",
   "summary": "Anggota Komisi XI DPR RI menanggapi dampak rentetan bencana terhadap perlambatan pertumbuhan ekonomi. Menteri Keuangan Purbaya Yudhi Sadewa sebelumnya mengakui adanya tekanan tersebut.",
   "takeaway": "Pandangan dari Komisi XI DPR relevan sebagai pembanding perspektif legislatif atas kebijakan fiskal pemerintah."
- },
- {
-  "id": "Os8sgt5j4qc",
-  "title": "Pakar Kebijakan Publik: Anggaran Bencana Harusnya Dilonggarkan",
-  "category": "Makroekonomi",
-  "program": "IBF tvOne",
-  "summary": "Pakar kebijakan publik mengusulkan pelonggaran anggaran penanganan bencana menyusul tekanan rentetan bencana terhadap pertumbuhan ekonomi. Menteri Keuangan sebelumnya mengakui dampak tersebut.",
-  "takeaway": "Usulan pelonggaran anggaran bencana menyentuh isu alokasi APBN yang penting bagi pembaca ekonomi."
  }
 ];

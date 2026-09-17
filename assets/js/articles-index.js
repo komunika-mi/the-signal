@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-umumkan-pemenang-lelang-migas-3-blok-tak-laku",
+  "category": "Energi",
+  "title": "ESDM Umumkan Pemenang Lelang Migas, 3 Blok [Tak] Laku",
+  "deck": "Pemerintah menetapkan pemenang lelang enam blok migas tahap I 2026, tiga blok lain tak laku dan ditawarkan ulang, sementara lelang tahap II untuk delapan blok baru dibuka hingga 2027.",
+  "date": "18 September 2026",
+  "image": "assets/img/esdm-umumkan-pemenang-lelang-migas-3-blok-tak-laku.jpg",
+  "imageV": "mu5sh4jv",
+  "tags": [
+   "ESDM",
+   "Migas",
+   "Lelang Wilayah Kerja",
+   "Investasi Energi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pemerintah-umumkan-pemenang-lelang-penawaran-langsung-dan-lelang-reguler-area-studi-abt-2025-wilayah-kerja-minyak-dan-gas-bumi-tahap-i-tahun-2026-dan-umumkan-penawaran-lelang-wilayah-kerja-minyak-dan-gas-bumi-tahap-ii-tahun-2026",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "tpia-dan-bren-raih-kesgi-awards-2026-dari-katadata",
+  "category": "Bisnis",
+  "title": "TPIA dan BREN Raih [KESGI] Awards 2026 dari Katadata",
+  "deck": "Chandra Asri Pacific dan Barito Renewables Energy, dua anak usaha Barito Pacific, meraih penghargaan ESG Katadata atas kinerja emisi, energi, dan SDM.",
+  "date": "17 September 2026",
+  "image": "assets/img/tpia-dan-bren-raih-kesgi-awards-2026-dari-katadata.jpg",
+  "imageV": "mu5sh50y",
+  "tags": [
+   "ESG",
+   "Barito Pacific",
+   "Chandra Asri",
+   "Barito Renewables"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467772-dua-anak-usaha-barito-pacific-raih-kesgi-awards-2026-kinerja-hijau-tpia-dan-bren-jadi-sorotan"
+ },
+ {
   "slug": "inps-klaim-free-float-capai-22-89-penuhi-syarat-bursa",
   "category": "Aksi Korporasi",
   "title": "INPS Klaim [Free Float] Capai 22,89%, Penuhi Syarat Bursa",
@@ -6469,38 +6504,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67d8732e5c_5a209db615.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "miti-lewat-wasesa-line-beli-4-kapal-rp22-75-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MITI Lewat Wasesa Line [Beli] 4 Kapal Rp22,75 Miliar",
-  "deck": "Anak usaha MITI, PT Wasesa Line, membeli tiga kapal tunda dan satu unit landing craft dari PT Imako Perkasa Lines senilai total Rp22,75 miliar dalam transaksi afiliasi.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MITI",
-   "transaksi afiliasi",
-   "pelayaran",
-   "kapal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d909d7e4ea_5ccfa5fb5f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "anggaran-sekolah-rakyat-2027-jebol-usai-kapasitas-naik-2x-lipat",
-  "category": "Makroekonomi",
-  "title": "Anggaran Sekolah Rakyat 2027 [Jebol] Usai Kapasitas Naik 2x Lipat",
-  "deck": "Usulan menaikkan kapasitas Sekolah Rakyat dari 1.080 ke 2.520 siswa per lokasi membuat kebutuhan anggaran 2027 melonjak ke Rp104,09 triliun, jauh melebihi pagu Kementerian PU Rp32,57 triliun.",
-  "date": "10 September 2026",
-  "image": "assets/img/anggaran-sekolah-rakyat-2027-jebol-usai-kapasitas-naik-2x-lipat.jpg",
-  "imageV": "mtvfkjht",
-  "tags": [
-   "Sekolah Rakyat",
-   "Anggaran 2027",
-   "Kementerian PU",
-   "APBN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466210-anggaran-sekolah-rakyat-2027-jebol-rp715-triliun-kapasitas-siswa-diusulkan-naik-lebih-dari-2-kali-lipat"
  }
 ];

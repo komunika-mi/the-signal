@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "Add-wORF9vQ",
+  "title": "Groundbreaking PSEL dan PSE Pirolisis di Galuga Bogor",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Pemerintah memulai pembangunan pembangkit listrik dari sampah (PSEL) dan instalasi PSE pirolisis di kawasan TPA Galuga, Bogor, yang ditargetkan mulai beroperasi pada 2027.",
+  "takeaway": "Proyek ini menandai investasi infrastruktur energi berbasis sampah yang berpotensi menambah kapasitas energi terbarukan nasional."
+ },
+ {
   "id": "R1Od9Mxhxts",
   "title": "Menteri PKP Bahas Kendala Program Tiga Juta Rumah",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "PT Agrinas Palma Nusantara menggelar pasar rakyat dengan membagikan 500 paket sembako terjangkau serta layanan kesehatan gratis bagi masyarakat sekitar.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya BUMN perkebunan sawit menjaga keterjangkauan harga bahan pokok di tingkat masyarakat."
- },
- {
-  "id": "acvuV-9gESM",
-  "title": "Bencana Alam Bertubi-Tubi Bikin Ekonomi RI Terhambat?",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Rentetan bencana alam di berbagai wilayah Indonesia dinilai turut menekan aktivitas dan pertumbuhan ekonomi nasional. Menteri Keuangan Purbaya Yudhi Sadewa mengakui adanya dampak tersebut.",
-  "takeaway": "Pernyataan Menteri Keuangan soal dampak bencana terhadap ekonomi relevan bagi pembaca yang mengikuti proyeksi pertumbuhan nasional."
  }
 ];

@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-umumkan-pemenang-lelang-migas-3-blok-tak-laku",
+  "category": "Energi",
+  "title": "ESDM Umumkan Pemenang Lelang Migas, 3 Blok [Tak] Laku",
+  "deck": "Pemerintah menetapkan pemenang lelang enam blok migas tahap I 2026, tiga blok lain tak laku dan ditawarkan ulang, sementara lelang tahap II untuk delapan blok baru dibuka hingga 2027.",
+  "image": "assets/img/esdm-umumkan-pemenang-lelang-migas-3-blok-tak-laku.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-17T17:08:27.189Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pemerintah-umumkan-pemenang-lelang-penawaran-langsung-dan-lelang-reguler-area-studi-abt-2025-wilayah-kerja-minyak-dan-gas-bumi-tahap-i-tahun-2026-dan-umumkan-penawaran-lelang-wilayah-kerja-minyak-dan-gas-bumi-tahap-ii-tahun-2026",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Migas",
+   "Lelang Wilayah Kerja",
+   "Investasi Energi"
+  ],
+  "body": [
+   "Kementerian ESDM mengumumkan pemenang lelang enam blok migas yang ditawarkan pada tahap pertama tahun ini, sekaligus membuka babak baru lelang untuk delapan blok tambahan. Pengumuman ini penting karena menyangkut siapa yang akan menggarap eksplorasi minyak dan gas di sejumlah wilayah, sekaligus jadi indikator seberapa besar minat investor terhadap blok migas Indonesia saat ini.",
+   "Berdasarkan Surat Keputusan Menteri ESDM Nomor 108.K/MG.4/DJM/2026 tanggal 17 September 2026, pemerintah menetapkan pemenang untuk Wilayah Kerja Sapukala dan Natuna D-Alpha lewat skema lelang penawaran langsung, serta Bengara II, Pesut Mahakam, Puri, dan Rupat lewat lelang reguler area studi ABT 2025. Salah satu pemenang yang disebutkan Kementerian ESDM adalah Sinopec International Energy Investment (HK) Holdings Limited. Namun tiga blok lain dalam tahap yang sama, yaitu Rombebai, Maratua II, dan Jayapura, tidak menemukan pemenang dan kini dibuka kembali sebagai wilayah kerja yang bisa diajukan langsung oleh perusahaan tanpa melalui lelang bersaing.",
+   "Pada saat yang sama, Kementerian ESDM membuka lelang tahap kedua untuk delapan blok migas baru. Tujuh blok, yakni Jago, Mahesa, Rafflesia, Belibis, Talu, Manta, dan Palu, ditawarkan lewat skema penawaran langsung, dengan masa akses dokumen lelang mulai 17 September hingga 31 Oktober 2026 dan batas akhir pemasukan dokumen partisipasi pada 2 November 2026. Satu blok lainnya, Leti Selatan, ditawarkan lewat lelang reguler dengan jadwal lebih panjang, yakni akses dokumen dan batas partisipasi sama-sama jatuh pada 14 Januari 2027.",
+   "Kementerian ESDM juga menyebutkan sejumlah aturan yang sudah diubah untuk menarik minat investor, di antaranya porsi bagi hasil yang lebih besar untuk kontraktor dan bagian awal produksi sebesar 10 persen yang langsung menjadi hak kontraktor. Kontraktor juga tidak diwajibkan mengembalikan sebagian wilayah kerjanya dalam tiga tahun pertama masa kontrak, bisa memilih skema bagi hasil yang paling sesuai, dan wajib menjual sebagian hasil produksi ke pasar dalam negeri dengan harga penuh atau 100 persen. Mereka juga berhak mengajukan insentif tambahan jika pengembangan blok terkendala secara keekonomian."
+  ],
+  "fotoAdegan": "Offshore drilling platform standing in open sea at sunrise, support vessel moored alongside, engineers in hard hats on the deck",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-pemerintah-umumkan-pemenang-lelang-penawaran-langsung-dan-lelang-reguler-area-studi-abt-2025-wilayah-kerja-minyak-dan-gas-bumi-tahap-i-tahun-2026-dan-umumkan-penawaran-lelang-wilayah-kerja-minyak-dan-gas-bumi-tahap-ii-tahun-2026-lzfqky9.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah: dari sembilan blok migas yang ditawarkan pemerintah pada lelang tahap pertama tahun ini, cuma enam yang berhasil mendapat pemenang. Tiga blok lainnya, yaitu Rombebai, Maratua II, dan Jayapura, tidak laku dan sekarang ditawarkan lagi lewat jalur yang lebih mudah, perusahaan bisa langsung mengajukan diri tanpa harus bersaing dengan peserta lain. Yang terdampak adalah perusahaan migas yang sedang mencari lahan eksplorasi baru, termasuk Sinopec International Energy Investment yang disebut sebagai salah satu pemenang lelang tahap pertama, serta investor baru yang kini punya peluang lebih besar mendapatkan tiga blok yang gagal terjual itu. Gagalnya sepertiga blok terjual, meski pemerintah sudah memberi sejumlah kemudahan seperti porsi keuntungan lebih besar untuk perusahaan penggarap dan aturan wajib jual sebagian hasil ke pasar dalam negeri dengan harga penuh, menunjukkan minat investor masih belum merata ke semua wilayah kerja yang ditawarkan. Yang akan memperjelas apakah pola ini berubah adalah hasil lelang tahap kedua untuk delapan blok baru, dengan tenggat pengajuan dokumen 2 November 2026 untuk tujuh blok dan 14 Januari 2027 untuk blok Leti Selatan.",
+  "imageV": "mu5sh4jv"
+ },
+ {
+  "slug": "tpia-dan-bren-raih-kesgi-awards-2026-dari-katadata",
+  "category": "Bisnis",
+  "title": "TPIA dan BREN Raih [KESGI] Awards 2026 dari Katadata",
+  "deck": "Chandra Asri Pacific dan Barito Renewables Energy, dua anak usaha Barito Pacific, meraih penghargaan ESG Katadata atas kinerja emisi, energi, dan SDM.",
+  "image": "assets/img/tpia-dan-bren-raih-kesgi-awards-2026-dari-katadata.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T22:54:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467772-dua-anak-usaha-barito-pacific-raih-kesgi-awards-2026-kinerja-hijau-tpia-dan-bren-jadi-sorotan",
+  "tags": [
+   "ESG",
+   "Barito Pacific",
+   "Chandra Asri",
+   "Barito Renewables"
+  ],
+  "body": [
+   "Dua entitas usaha Grup Barito Pacific, yakni Chandra Asri Pacific (TPIA) dan Barito Renewables Energy (BREN), meraih penghargaan dalam ajang Katadata ESG Insight (KESGI) Awards 2026. Penghargaan diserahkan Kamis (17/9) di Jakarta, dalam rangkaian acara Katadata Sustainability Action for Future Economy (SAFE) 2026. Pengakuan ini menempatkan dua emiten besar milik Grup Barito Pacific dalam pemetaan kinerja lingkungan, sosial, dan tata kelola perusahaan, yang lazim disingkat ESG, di kalangan perusahaan besar Indonesia.",
+   "Chandra Asri Pacific diganjar penghargaan atas pengelolaan emisi di sektor kimia dan kemasan, serta dinilai unggul dalam pengembangan dan retensi karyawan lewat program pelatihan, jenjang karier, suksesi, dan mobilitas talenta. Barito Renewables Energy meraih penghargaan atas efisiensi dan pengelolaan energi di sektor utilitas dan listrik, mencakup penerapan sistem manajemen energi serta pengelolaan pembangkit listrik dari panas bumi dan tenaga bayu.",
+   "Co-Founder sekaligus Chief Content Officer Katadata, Heri Susanto, menjelaskan bahwa penghargaan ini disusun dari dashboard KESGI yang dikembangkan Katadata selama empat tahun terakhir untuk mengolah data perusahaan menjadi tolok ukur kinerja ESG yang bisa dibandingkan antar perusahaan. \"Dari dashboard ini data kita ubah menjadi insight. Dari insight kita menganalisis, mendapatkan benchmark dan akhirnya recognition yang kredibel,\" kata Heri. Tahun ini, pemetaan KESGI mencakup sekitar 400 perusahaan dengan 100 indikator yang dikumpulkan dan dianalisis.",
+   "Barito Pacific menyebut pencapaian dua anak usahanya ini sejalan dengan upaya kelompok usaha memperluas investasi pada energi terbarukan, teknologi bersih, dan efisiensi energi secara lebih luas."
+  ],
+  "fotoAdegan": "Steam rising from geothermal power plant pipes on a forested hillside in Indonesia, workers in hard hats inspecting valves, misty morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/17/6aac09816b71f-grup-barito-pacific-kesgi-awards-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pengakuan pihak ketiga: dari sekitar 400 perusahaan yang dipetakan Katadata memakai 100 indikator, dua anak usaha Barito Pacific, Chandra Asri Pacific dan Barito Renewables Energy, masuk daftar peraih penghargaan ESG tahun ini. ESG sendiri singkatan dari lingkungan, sosial, dan tata kelola, semacam rapor perusahaan di luar urusan untung rugi biasa. Yang terdampak langsung adalah kedua perusahaan itu sendiri, karena rapor semacam ini biasa dipakai investor institusi dan pengelola dana untuk menyaring saham mana yang masuk portofolio ramah lingkungan. Katadata menyebut dashboard penilaian ini sudah dikembangkan empat tahun dan cakupannya terus membesar, yang menunjukkan penilaian ESG di Indonesia sedang mengarah menjadi rujukan standar yang makin dipakai, bukan sekadar acara seremonial tahunan. Yang akan memastikan apakah rujukan ini benar-benar berpengaruh ke keputusan investor atau pembiayaan adalah apakah skor semacam ini mulai dikutip perusahaan dalam laporan tahunan atau syarat pinjaman berkelanjutan pada tahun-tahun mendatang.",
+  "imageV": "mu5sh50y"
+ },
+ {
   "slug": "inps-klaim-free-float-capai-22-89-penuhi-syarat-bursa",
   "category": "Aksi Korporasi",
   "title": "INPS Klaim [Free Float] Capai 22,89%, Penuhi Syarat Bursa",

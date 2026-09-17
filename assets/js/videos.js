@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Add-wORF9vQ",
+  "title": "Groundbreaking PSEL dan PSE Pirolisis di Galuga Bogor",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Pemerintah memulai pembangunan pembangkit listrik dari sampah (PSEL) dan instalasi PSE pirolisis di kawasan TPA Galuga, Bogor, yang ditargetkan mulai beroperasi pada 2027.",
+  "takeaway": "Proyek ini menandai investasi infrastruktur energi berbasis sampah yang berpotensi menambah kapasitas energi terbarukan nasional.",
+  "terbit": "2026-09-17T16:14:49+00:00"
+ },
+ {
   "id": "R1Od9Mxhxts",
   "title": "Menteri PKP Bahas Kendala Program Tiga Juta Rumah",
   "category": "Industri",

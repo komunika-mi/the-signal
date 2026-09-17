@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penilaian-bkpm-76-persen-layanan-investasi-masuk-kategori-baik",
+  "category": "Bisnis",
+  "title": "Penilaian BKPM: 76 Persen Layanan Investasi Masuk [Kategori] Baik",
+  "deck": "BKPM menilai kinerja layanan investasi di 571 instansi, terdiri dari pemerintah daerah dan kementerian/lembaga. Sebanyak 76 persen di antaranya meraih kategori baik atau sangat baik.",
+  "date": "17 September 2026",
+  "image": "assets/img/penilaian-bkpm-76-persen-layanan-investasi-masuk-kategori-baik.jpg",
+  "imageV": "mu5841d0",
+  "tags": [
+   "BKPM",
+   "investasi",
+   "PTSP",
+   "ALI 2026"
+  ],
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/ali-2026-apresiasi-kinerja-layanan-investasi-dorong-kemudahan-berusaha",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
   "slug": "widi-koreksi-laporan-realisasi-dana-ipo-rp37-8-miliar",
   "category": "Aksi Korporasi",
   "title": "WIDI Koreksi Laporan [Realisasi] Dana IPO Rp37,8 Miliar",
@@ -6478,22 +6496,5 @@ var ARTICLES = [
   "tags": [],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466136-minyak-dunia-tembus-us100-bikin-rupiah-tertekan-geopolitik-dunia-jadi-biang-kerok"
- },
- {
-  "slug": "rupiah-melemah-tipis-ke-rp17-513-analis-prediksi-menguat",
-  "category": "Moneter",
-  "title": "Rupiah [Melemah] Tipis ke Rp17.513, Analis Prediksi Menguat",
-  "deck": "Rupiah melemah tipis ke Rp17.513 per dolar AS Kamis pagi, meski analis memprediksi penguatan menuju Rp17.480 ditopang membaiknya penjualan ritel dan keyakinan konsumen.",
-  "date": "10 September 2026",
-  "image": "assets/img/rupiah-melemah-tipis-ke-rp17-513-analis-prediksi-menguat.jpg",
-  "imageV": "mtuzie35",
-  "tags": [
-   "rupiah",
-   "kurs dolar AS",
-   "Bank Indonesia",
-   "konsumsi domestik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466131-rupiah-melemah-di-rp17513-per-dolar-as-diprediksi-menguat-ditopang-konsumsi-domestik-dan-keyakinan-konsumen"
  }
 ];

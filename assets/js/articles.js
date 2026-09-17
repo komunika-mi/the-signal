@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "penilaian-bkpm-76-persen-layanan-investasi-masuk-kategori-baik",
+  "category": "Bisnis",
+  "title": "Penilaian BKPM: 76 Persen Layanan Investasi Masuk [Kategori] Baik",
+  "deck": "BKPM menilai kinerja layanan investasi di 571 instansi, terdiri dari pemerintah daerah dan kementerian/lembaga. Sebanyak 76 persen di antaranya meraih kategori baik atau sangat baik.",
+  "image": "assets/img/penilaian-bkpm-76-persen-layanan-investasi-masuk-kategori-baik.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T07:37:08.855Z",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/ali-2026-apresiasi-kinerja-layanan-investasi-dorong-kemudahan-berusaha",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "tags": [
+   "BKPM",
+   "investasi",
+   "PTSP",
+   "ALI 2026"
+  ],
+  "body": [
+   "Kementerian Investasi dan Hilirisasi/BKPM mengumumkan hasil penilaian kinerja pelayanan investasi tahun 2026 yang mencakup 571 instansi, terdiri dari 546 pemerintah daerah dan 25 kementerian/lembaga. Penilaian ini menyasar loket perizinan terpadu satu pintu (PTSP) serta kecepatan proses kemudahan berusaha di masing-masing instansi, dan berlangsung sejak April 2026 hingga puncaknya dalam ajang Anugerah Layanan Investasi (ALI) 2026. Hasilnya penting bagi pelaku usaha karena menggambarkan seberapa siap loket perizinan di daerah dan pusat dalam memproses izin investasi.",
+   "Dari 571 instansi yang dinilai, BKPM menyebut 76 persen di antaranya berada pada kategori baik dan sangat baik. Proses penilaian melibatkan tim gabungan dari Kementerian Koordinator Bidang Perekonomian, Kementerian Dalam Negeri, Sekretariat Kabinet, Kementerian PANRB, Bappenas, BKPM, KADIN Indonesia, dan KPPOD, dengan tahapan mulai dari penilaian mandiri, verifikasi dan validasi, hingga uji petik langsung ke lapangan. Dasar hukum penilaian ini adalah Peraturan Presiden Nomor 42 Tahun 2020 tentang penghargaan dan sanksi bagi kementerian/lembaga serta pemerintah daerah, dan diatur lebih rinci lewat Peraturan Menteri Investasi/Kepala BKPM Nomor 2 Tahun 2022.",
+   "Dalam acara tersebut, Kementerian Perumahan dan Kawasan Permukiman tercatat meraih peringkat ketiga untuk salah satu kategori penghargaan, meski rincian peraih peringkat pertama dan kedua tidak disebutkan dalam siaran pers ini. Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani menyampaikan bahwa kualitas layanan investasi berpengaruh pada kepercayaan dunia usaha, dan menekankan pentingnya proses perizinan yang terukur, transparan, serta memberi kepastian waktu bagi investor."
+  ],
+  "fotoAdegan": "Civil servant helping a small business owner fill out forms at a public licensing service counter, morning light, government office interior",
+  "fotoSumber": "https://bkpm.go.id/storage/image/origin/webp/zxrdpWOLQKDaMGNjZcMGJbhFmcGMly.webp",
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "takeaway": "Yang berubah di sini adalah rilis skor tahunan BKPM atas kinerja loket perizinan investasi, dengan klaim 76 persen dari 571 instansi masuk kategori baik atau sangat baik, mengacu pada Perpres 42/2020 dan aturan turunannya. Pihak yang terdampak langsung adalah pemerintah daerah dan kementerian/lembaga yang mengelola perizinan usaha, serta secara tidak langsung pelaku usaha dan calon investor yang bergantung pada cepat-lambatnya loket ini bekerja. Yang belum bisa disimpulkan dari siaran pers ini adalah apakah angka 76 persen itu naik atau turun dibanding penilaian tahun sebelumnya, karena tidak ada pembanding yang disebutkan. Daftar lengkap peraih peringkat pertama dan kedua di tiap kategori juga tidak dicantumkan, padahal itu yang biasanya menunjukkan daerah atau instansi mana yang benar-benar unggul. Pembaca yang ingin menilai apakah kualitas layanan investasi benar membaik perlu menunggu publikasi skor pembanding tahun lalu atau daftar lengkap pemenang dari BKPM.",
+  "imageV": "mu5841d0"
+ },
+ {
   "slug": "widi-koreksi-laporan-realisasi-dana-ipo-rp37-8-miliar",
   "category": "Aksi Korporasi",
   "title": "WIDI Koreksi Laporan [Realisasi] Dana IPO Rp37,8 Miliar",

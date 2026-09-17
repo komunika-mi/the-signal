@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bbrm-belum-penuhi-syarat-minimum-free-float-ditegur-bursa",
+  "category": "Aksi Korporasi",
+  "title": "BBRM Belum Penuhi Syarat Minimum [Free Float], Ditegur Bursa",
+  "deck": "Bursa Efek Indonesia meminta penjelasan tertulis BBRM setelah porsi saham publik per 30 Juni 2026 belum mencapai syarat minimum 15 persen dari total saham tercatat.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBRM",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan pencatatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0d485eaee9_39cf7da8de.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbrm-lonjakan-saham-9-september-murni-mekanisme-pasar",
+  "category": "Aksi Korporasi",
+  "title": "BBRM: Lonjakan Saham 9 September Murni [Mekanisme Pasar]",
+  "deck": "BBRM menjawab permintaan Bursa usai volume transaksi sahamnya melonjak 26 kali lipat dan harga naik 7,5 persen pada 9 September 2026.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBRM",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/500f67e172_212430a912.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "giias-semarang-2026-digelar-30-september-4-oktober",
   "category": "Industri",
   "title": "GIIAS [Semarang] 2026 Digelar 30 September-4 Oktober",
@@ -6475,38 +6507,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466068-muf-genjot-adopsi-kendaraan-listrik-bank-mandiri-perkuat-kolaborasi-dengan-dealer"
- },
- {
-  "slug": "bunga-pinjaman-kdmp-rp13-4-t-disorot-banggar-dpr",
-  "category": "Makroekonomi",
-  "title": "Bunga Pinjaman KDMP [Rp13,4 T] Disorot Banggar DPR",
-  "deck": "Banggar DPR mempersoalkan bunga cicilan pinjaman program Koperasi Desa Merah Putih senilai Rp13,4 triliun yang dinilai membebani APBN di tengah ruang fiskal terbatas.",
-  "date": "9 September 2026",
-  "image": "assets/img/bunga-pinjaman-kdmp-rp13-4-t-disorot-banggar-dpr.jpg",
-  "imageV": "mtu8p7ma",
-  "tags": [
-   "KDMP",
-   "Banggar DPR",
-   "APBN",
-   "Himbara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466056-banggar-dpr-soroti-bunga-cicilan-kdmp-rp134-triliun-apbn-jangan-sampai-terbebani"
- },
- {
-  "slug": "tlkm-kupas-rencana-divestasi-neutradc-us-1-5-m-di-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Kupas Rencana Divestasi [NeutraDC] US$1,5 M di Public Expose",
-  "deck": "Public expose TLKM mengungkap rencana divestasi 70 persen saham NeutraDC senilai US$1,5 miliar, akuisisi penuh Digiserve, dan kejelasan rasio dividen 60-90 persen dari laba bersih.",
-  "date": "9 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "Telkom Indonesia",
-   "NeutraDC",
-   "Public Expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2bd44d4177_48fe3ca3bd.pdf",
-  "sourceLabel": "IDX"
  }
 ];

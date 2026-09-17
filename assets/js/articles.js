@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bbrm-belum-penuhi-syarat-minimum-free-float-ditegur-bursa",
+  "category": "Aksi Korporasi",
+  "title": "BBRM Belum Penuhi Syarat Minimum [Free Float], Ditegur Bursa",
+  "deck": "Bursa Efek Indonesia meminta penjelasan tertulis BBRM setelah porsi saham publik per 30 Juni 2026 belum mencapai syarat minimum 15 persen dari total saham tercatat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T06:35:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0d485eaee9_39cf7da8de.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBRM",
+  "tags": [
+   "BBRM",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan pencatatan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengirim surat permintaan penjelasan kepada direksi PT Pelayaran Nasional Bina Buana Raya Tbk (BBRM) terkait pemenuhan syarat minimum saham beredar bebas atau free float. Berdasarkan Ketentuan V.1.1 Peraturan Bursa Nomor I-A tentang Pencatatan Saham dan Efek Bersifat Ekuitas Selain Saham, setiap perusahaan tercatat wajib menjaga porsi saham free float paling sedikit 15 persen dari total saham tercatat, dengan batas waktu pemenuhan mengacu pada Surat Keputusan Direksi Bursa Nomor Kep-00045/BEI/03-2026.",
+   "Bursa menyatakan, berdasarkan pemantauan laporan bulanan registrasi kepemilikan saham per 30 Juni 2026, BBRM belum memenuhi ketentuan tersebut. Karena itu, Bursa meminta perseroan menjelaskan secara tertulis kendala spesifik yang menghambat pemenuhan free float, rencana konkret untuk memenuhinya, dukungan yang diharapkan dari Bursa, serta informasi lain yang relevan. Perseroan diberi waktu paling lambat 5 hari bursa sejak surat diterima, dengan jawaban disampaikan lewat sistem pelaporan elektronik SPE-IDXnet menggunakan form E074 secara non-publish, artinya isi jawaban tidak dipublikasikan ke publik luas.",
+   "Menanggapi permintaan tersebut, Corporate Secretary BBRM Susanti Novita mengirimkan surat tanggapan pada 17 September 2026 pukul 06.35 WIB, dengan melampirkan dokumen bernomor S-11821 bertajuk Rencana Pemenuhan Free Float. Dalam suratnya, Bursa juga mengingatkan bahwa jika BBRM berencana menempuh aksi korporasi untuk memenuhi kewajiban free float, perseroan wajib menyampaikan keterbukaan informasi terpisah sesuai ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "Tugboat and supply vessel docked at an Indonesian port terminal, cranes in background, overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi BBRM, sebab teguran resmi Bursa menunjukkan porsi saham yang beredar bebas di tangan publik masih di bawah batas minimum yang disyaratkan untuk tetap tercatat. Yang tersentuh di sini adalah struktur kepemilikan saham, bukan laporan keuangan: free float yang rendah berarti sebagian besar saham dikuasai segelintir pihak, sehingga jumlah saham yang bisa diperdagangkan investor publik jadi tipis, membuat harga lebih mudah bergerak liar dan likuiditas perdagangannya rendah, dua hal yang biasanya membuat investor institusi enggan masuk. Yang perlu dipantau selanjutnya adalah isi rencana pemenuhan free float yang sudah diserahkan BBRM ke Bursa lewat form E074, serta apakah perseroan akan menempuh aksi korporasi seperti pelepasan sebagian saham pengendali ke publik, karena hal itu akan menentukan apakah Bursa memberi kelonggaran waktu atau mengambil langkah lebih lanjut terhadap status pencatatan BBRM.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bbrm-lonjakan-saham-9-september-murni-mekanisme-pasar",
+  "category": "Aksi Korporasi",
+  "title": "BBRM: Lonjakan Saham 9 September Murni [Mekanisme Pasar]",
+  "deck": "BBRM menjawab permintaan Bursa usai volume transaksi sahamnya melonjak 26 kali lipat dan harga naik 7,5 persen pada 9 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T06:24:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/500f67e172_212430a912.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBRM",
+  "tags": [
+   "BBRM",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "free float"
+  ],
+  "body": [
+   "PT Pelayaran Nasional Bina Buana Raya Tbk (BBRM) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul lonjakan transaksi sahamnya pada 9 September 2026. Dalam surat permintaan penjelasan bernomor S-11877/BEI.PP3/09-2026 tertanggal 10 September 2026, Bursa mencatat volume transaksi BBRM melonjak menjadi 91.772.500 saham dengan frekuensi 8.072 kali, dibandingkan hari bursa sebelumnya yang hanya 3.540.300 saham dengan frekuensi 457 kali. Harga saham BBRM ditutup naik Rp9 atau 7,50 persen, dari Rp120 menjadi Rp129, sementara pada hari yang sama Indeks Harga Saham Gabungan justru turun 8,24 poin dan indeks sektor energi naik 26,37 poin.",
+   "Menjawab permintaan itu melalui surat bernomor 019/CORPSEC/BBR-JKT/IX/2026 tertanggal 17 September 2026, Corporate Secretary BBRM Susanti Novita menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efek, baik yang diatur POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E, selain yang sudah diungkapkan dalam laporan tahunan, laporan keberlanjutan, dan laporan kuartalan. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024, tidak memiliki rencana aksi korporasi yang berdampak pada pencatatan saham dalam tiga bulan mendatang, dan menegaskan bahwa pemegang saham utama tidak memiliki rencana lain atas kepemilikan sahamnya di BBRM setelah dikonfirmasi langsung oleh Corporate Secretary.",
+   "Perseroan menyimpulkan bahwa lonjakan harga dan volume transaksi tersebut semata mata akibat mekanisme pasar, tanpa ada fakta atau kejadian penting yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Tugboats and cargo vessels moored at a busy Indonesian port terminal, cranes loading containers under a hazy afternoon sky",
+  "takeaway": "Laporan ini netral bagi BBRM, sebab isinya hanya jawaban administratif standar kepada Bursa yang menyangkal adanya informasi material baru, tanpa mengungkap perubahan apa pun pada kinerja atau rencana korporasi. Yang lebih relevan justru konteksnya, saham beredar bebas BBRM diketahui masih di bawah batas minimum sesuai teguran Bursa yang terbit hari yang sama, sehingga porsi saham yang benar benar diperjualbelikan di pasar sangat tipis. Pada kondisi seperti itu, transaksi yang secara nominal tidak besar sudah cukup mengguncang harga karena jumlah saham yang tersedia untuk diperdagangkan bebas terbatas, itu sebabnya volume yang melonjak sekitar 26 kali lipat bisa mengiringi kenaikan harga 7,5 persen dalam sehari. Yang perlu dipantau berikutnya adalah apakah pola transaksi tidak wajar semacam ini berulang, sebab jika terjadi lagi Bursa berwenang mengambil langkah lanjutan seperti pemantauan khusus atau penghentian sementara perdagangan, sementara penyelesaian masalah free float BBRM sendiri belum memiliki kepastian waktu dari perseroan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "giias-semarang-2026-digelar-30-september-4-oktober",
   "category": "Industri",
   "title": "GIIAS [Semarang] 2026 Digelar 30 September-4 Oktober",

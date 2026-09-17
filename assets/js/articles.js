@@ -30,6 +30,85 @@ var ARTICLES = [
   "imageV": "mu5841d0"
  },
  {
+  "slug": "mmix-buka-data-pemegang-saham-imbas-pemeriksaan-bursa",
+  "category": "Aksi Korporasi",
+  "title": "MMIX Buka Data Pemegang Saham Imbas [Pemeriksaan] Bursa",
+  "deck": "PT Multi Medika Internasional Tbk merinci pemegang saham dan susunan manajemen per Januari 2024 setelah Bursa Efek Indonesia meminta penjelasan terkait pemeriksaan transaksi sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T14:09:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6c699ce69b_81989c2601.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MMIX",
+  "tags": [
+   "MMIX",
+   "pemegang saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Multi Medika Internasional Tbk (MMIX) mengirim surat bernomor 041/MMI-CORP/IX/2026 tertanggal 16 September 2026 sebagai tanggapan atas surat Bursa Efek Indonesia No. S-12043/BEI.PP1/09-2026 tertanggal 15 September 2026. Surat Bursa itu berisi permintaan penjelasan sehubungan dengan pemeriksaan transaksi saham perseroan. Dalam tanggapannya, MMIX menyampaikan data pemegang saham dan susunan manajemen yang berlaku pada 26 Januari 2024, dengan mengacu pada Surat Keputusan Kementerian Hukum dan Hak Asasi Manusia tertanggal 14 Juli 2023, dan menegaskan tidak ada perubahan pada data tersebut sampai dengan 11 Juni 2024.",
+   "Berdasarkan data yang dilampirkan, Direktur Utama Mengky Mangarek dan Direktur Eveline Natalia Susanto masing-masing memegang 144 juta lembar saham atau 6 persen, sementara Direktur Christopher Lee tidak memiliki saham. Di jajaran komisaris, Komisaris Utama Hillary Josephine dan Komisaris Allen Feliciano masing-masing memegang 36 juta lembar saham atau 2 persen, sedangkan Komisaris Independen Togu Cornelius Simanjuntak tidak memegang saham. Pemegang saham mayoritas, PT Multi Inti Usaha, menguasai 1,44 miliar lembar saham atau 60 persen, sementara sisa 600 juta lembar saham atau 25 persen dipegang oleh masyarakat.",
+   "Perseroan juga menyatakan bahwa per 26 Januari 2024 belum memiliki anak usaha, sehingga tidak ada data pemegang saham maupun susunan manajemen anak perusahaan yang bisa disampaikan untuk periode tersebut kepada Bursa."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise stock exchange building in Jakarta with pedestrians crossing a busy street at midday",
+  "takeaway": "Penjelasan ini netral bagi MMIX karena isinya hanya memastikan ulang struktur kepemilikan yang sudah berjalan, tanpa transaksi baru atau pergantian pengendali. Yang tersentuh adalah komposisi pemegang saham dan hak suara, sebab PT Multi Inti Usaha tetap menguasai 60 persen saham sebagai pengendali sementara publik memegang 25 persen, jadi peta kendali perusahaan tidak berubah dari sebelumnya. Yang perlu dipantau adalah kelanjutan pemeriksaan transaksi saham yang melatarbelakangi surat Bursa No. S-12043/BEI.PP1/09-2026 tertanggal 15 September 2026, karena pemegang saham publik perlu tahu apakah pemeriksaan itu nantinya menghasilkan temuan atau tindakan lebih lanjut dari Bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "saham-inps-disuspensi-bei-usai-setahun-di-pemantauan-khusus",
+  "category": "Aksi Korporasi",
+  "title": "Saham INPS Disuspensi BEI Usai Setahun di [Pemantauan Khusus]",
+  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham INPS di seluruh pasar mulai 17 September 2026, setelah perseroan lebih dari setahun berada di Papan Pemantauan Khusus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T14:08:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9442d54b3_a1022a1ee5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "suspensi saham",
+   "BEI",
+   "Papan Pemantauan Khusus"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan saham PT Indah Prakasa Sentosa Tbk (INPS) di seluruh pasar, efektif sejak Sesi IV Periodic Call Auction pada Kamis, 17 September 2026. Pengumuman bernomor Peng-SPT-00008/BEI.PP1/09-2026 ini ditandatangani oleh Aditya Nugraha selaku Pejabat Sementara (PH) Kepala Divisi Penilaian Perusahaan 1, bersama Pande Made Kusuma Ari A, Kepala Divisi Pengaturan dan Operasional Perdagangan.",
+   "Penghentian ini didasarkan pada Peraturan Bursa Nomor I-X tentang Penempatan Pencatatan Efek Bersifat Ekuitas Pada Papan Pemantauan Khusus, yang diterbitkan melalui Surat Keputusan Direksi Bursa Nomor Kep-00035/BEI/06-2025. Ketentuan V.1 dari peraturan itu mewajibkan Bursa mensuspensi saham perusahaan tercatat yang telah berada di Papan Pemantauan Khusus lebih dari satu tahun berturut-turut, jika memenuhi salah satu kriteria tertentu dalam ketentuan III.1. Dalam pengumuman ini, BEI menyebut INPS sebagai satu-satunya perusahaan tercatat yang memenuhi kriteria III.1.5 dan telah melewati batas waktu setahun tersebut, sehingga sahamnya disuspensi di seluruh pasar, bukan hanya pasar reguler atau tunai.",
+   "BEI menyatakan langkah ini diambil untuk menjaga perdagangan efek yang teratur, wajar, dan efisien, dan meminta pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi lanjutan yang disampaikan oleh perseroan. Pengumuman tidak menyebutkan tanggal berakhirnya suspensi."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's financial district skyscrapers at dusk, city lights beginning to glow, traffic below",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham INPS, karena bukan sekadar administrasi tapi penghentian total akses jual beli saham di seluruh pasar, akibat status bermasalah di Papan Pemantauan Khusus yang sudah berlangsung lebih dari setahun. Yang tersentuh di sini adalah likuiditas saham itu sendiri, yakni kemampuan pemegang saham untuk mencairkan atau menambah kepemilikannya, karena selama suspensi berlaku investor tidak bisa bertransaksi sama sekali di bursa. Ini juga sejalan dengan riwayat sehari sebelumnya, saat INPS mengungkap rencana private placement dengan alasan memperbaiki kondisi keuangan, sinyal bahwa masalah fundamental perseroan memang sudah berlangsung lama. Yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan dari INPS yang diminta BEI, serta apakah dan kapan perseroan bisa memenuhi syarat untuk keluar dari Papan Pemantauan Khusus sehingga suspensi bisa dicabut, karena pengumuman ini sendiri tidak mencantumkan tanggal berakhirnya penghentian perdagangan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "vtny-jelaskan-ke-bursa-opini-wdp-dan-piutang-bermasalah-naik",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Jelaskan ke Bursa: [Opini WDP] dan Piutang Bermasalah Naik",
+  "deck": "Venteny menjawab permintaan penjelasan Bursa soal opini wajar dengan pengecualian dan lonjakan cadangan kerugian piutang yang lebih cepat dari pertumbuhan piutangnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T14:05:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/69f6092dc0_2b56ccd113.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "opini audit",
+   "kualitas piutang",
+   "Venteny Fortuna"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) menyampaikan surat penjelasan bertanggal 8 September 2026 kepada Bursa Efek Indonesia, menanggapi surat BEI No. S-11264/BEI.PP2/09-2026 tanggal 3 September 2026 perihal penelaahan laporan keuangan interim kuartal II 2026. Salah satu poin yang dijelaskan adalah opini wajar dengan pengecualian (WDP) dari auditor Andi Ruswandi Wisnu & Rekan, yang muncul karena laporan keuangan dua entitas anak di luar negeri, Venteny Pte. Ltd. di Singapura dan Venteny GK di Jepang, tidak diaudit oleh auditor independen. Total aset kedua entitas itu Rp35,33 miliar atau 2,37 persen dari total aset konsolidasian Rp1,49 triliun per 30 Juni 2026. Perseroan beralasan fokus audit diarahkan ke PT Lampung Berkah Finansial Teknologi, PT Venteny Matahari Indonesia, dan laporan konsolidasian, serta menyatakan tidak ada potensi dampak material dari kedua entitas yang tidak diaudit tersebut.",
+   "Poin yang lebih menyita perhatian ada pada kualitas piutang pinjaman. Piutang kotor dari aktivitas pemberian pinjaman naik Rp78,63 miliar atau 6,80 persen, dari Rp1,16 triliun per akhir 2025 menjadi Rp1,24 triliun per 30 Juni 2026. Namun cadangan penurunan nilai, yaitu dana yang disisihkan untuk piutang berisiko tak tertagih, naik lebih cepat, Rp13,38 miliar atau 23,41 persen, dari Rp57,15 miliar menjadi Rp70,53 miliar, sehingga rasio cadangan terhadap piutang kotor naik dari 4,94 persen ke 5,71 persen. Perseroan menjelaskan kenaikan ini murni akibat bertambahnya piutang yang telah jatuh tempo lebih dari 180 hari serta peningkatan volume penyaluran pinjaman, bukan karena perubahan asumsi penghitungan cadangan. Perusahaan juga menyebut piutang dengan usia tunggakan 60 hari sebesar 5,3 persen dan usia 150 hari sebesar 0,8 persen dari total piutang kotor.",
+   "Di sisi liabilitas, utang obligasi jangka pendek turun Rp90,31 miliar atau 28,26 persen menjadi Rp229,33 miliar, sementara utang obligasi jangka panjang turun Rp133,89 miliar atau 39,21 persen menjadi Rp207,60 miliar, keduanya karena pembayaran pokok pinjaman. Perseroan juga mengonfirmasi adanya perubahan klasifikasi akun untuk perbandingan periode 31 Desember 2025 antara laporan yang dipublikasikan April 2026 dan laporan yang dipublikasikan Agustus 2026, dengan pergeseran nilai sekitar Rp341,49 miliar pada pos utang obligasi jangka panjang serta pos utang lain-lain dan pinjaman pihak ketiga. Perusahaan menegaskan ini adalah reklasifikasi berdasarkan jangka waktu jatuh tempo yang sudah melewati 12 bulan, bukan koreksi kesalahan penyajian sebelumnya, dan tidak mengubah jumlah total liabilitas, beban, maupun laba rugi.",
+   "Perseroan juga menjelaskan lonjakan beban branding dari Rp785,25 juta menjadi Rp4,86 miliar akibat kegiatan sponsorship, yang berbanding terbalik dengan beban iklan dan pemasaran yang turun dari Rp1,97 miliar menjadi Rp4,34 juta karena perubahan strategi. Selain itu, pendapatan bunga melonjak 403 persen menjadi Rp1,57 miliar akibat sisa dana yang masih mengendap sejak akhir 2025, dan pendapatan lain-lain naik menjadi Rp12,06 miliar dari hasil negosiasi pembayaran utang yang dipercepat sebelum jatuh tempo, yang menurut perusahaan bersifat tidak berulang."
+  ],
+  "fotoAdegan": "Call center agents wearing headsets working at rows of computer desks in a modern open-plan Jakarta office, afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi Venteny, sebab sinyal risiko kredit yang muncul lebih menonjol ketimbang perbaikan yang sedang ditempuh perusahaan. Cadangan yang disisihkan untuk piutang berisiko tak tertagih naik 23,4 persen menjadi Rp70,53 miliar, jauh lebih cepat dari pertumbuhan piutang yang cuma 6,8 persen, dan kenaikan cadangan itu sendiri, Rp13,38 miliar, sudah lebih besar dari laba sebelum pajak perusahaan sepanjang semester yang hanya Rp7,82 miliar. Pos ini penting dipantau karena langsung memotong laba bersih, dan kenaikannya yang lebih cepat dari piutang biasanya jadi tanda awal memburuknya kualitas nasabah pinjaman, meski di sini pendorongnya menurut perusahaan adalah piutang yang makin lama menunggak, bukan perubahan cara hitung. Opini wajar dengan pengecualian dari auditor, karena laporan keuangan dua anak usaha di luar negeri tidak diaudit independen, menambah catatan meski nilainya kecil, cuma 2,37 persen dari total aset. Yang perlu ditunggu berikutnya adalah tren usia tunggakan dan rasio cadangan ini di laporan kuartal III 2026, serta rincian utang obligasi Venteny GK yang menurut perusahaan baru akan diungkap lengkap di laporan keuangan tahunan auditan 2026.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "widi-koreksi-laporan-realisasi-dana-ipo-rp37-8-miliar",
   "category": "Aksi Korporasi",
   "title": "WIDI Koreksi Laporan [Realisasi] Dana IPO Rp37,8 Miliar",

@@ -23,6 +23,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
  },
  {
+  "slug": "mmix-buka-data-pemegang-saham-imbas-pemeriksaan-bursa",
+  "category": "Aksi Korporasi",
+  "title": "MMIX Buka Data Pemegang Saham Imbas [Pemeriksaan] Bursa",
+  "deck": "PT Multi Medika Internasional Tbk merinci pemegang saham dan susunan manajemen per Januari 2024 setelah Bursa Efek Indonesia meminta penjelasan terkait pemeriksaan transaksi sahamnya.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MMIX",
+   "pemegang saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6c699ce69b_81989c2601.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-inps-disuspensi-bei-usai-setahun-di-pemantauan-khusus",
+  "category": "Aksi Korporasi",
+  "title": "Saham INPS Disuspensi BEI Usai Setahun di [Pemantauan Khusus]",
+  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham INPS di seluruh pasar mulai 17 September 2026, setelah perseroan lebih dari setahun berada di Papan Pemantauan Khusus.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "suspensi saham",
+   "BEI",
+   "Papan Pemantauan Khusus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9442d54b3_a1022a1ee5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vtny-jelaskan-ke-bursa-opini-wdp-dan-piutang-bermasalah-naik",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Jelaskan ke Bursa: [Opini WDP] dan Piutang Bermasalah Naik",
+  "deck": "Venteny menjawab permintaan penjelasan Bursa soal opini wajar dengan pengecualian dan lonjakan cadangan kerugian piutang yang lebih cepat dari pertumbuhan piutangnya.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "opini audit",
+   "kualitas piutang",
+   "Venteny Fortuna"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/69f6092dc0_2b56ccd113.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "widi-koreksi-laporan-realisasi-dana-ipo-rp37-8-miliar",
   "category": "Aksi Korporasi",
   "title": "WIDI Koreksi Laporan [Realisasi] Dana IPO Rp37,8 Miliar",
@@ -6448,53 +6496,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/73c4041bda_8dcb9e0d96.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "10-produk-umkm-pangan-tembus-rak-ritel-aeon",
-  "category": "UMKM",
-  "title": "10 Produk UMKM Pangan [Tembus] Rak Ritel AEON",
-  "deck": "Sepuluh UMKM pangan binaan Kemendag resmi masuk 19 gerai AEON Indonesia lewat MoU dan kontrak dagang, di tengah kurasi lanjutan dari lebih 1.200 pendaftar.",
-  "date": "10 September 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
-  "imageV": "mtuzic2x",
-  "tags": [
-   "UMKM",
-   "AEON",
-   "Kemendag",
-   "Ritel Modern"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sepuluh-produk-umkm-pangan-binaan-kemendag-tembus-jaringan-ritel-aeon-indonesia",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "pertumbuhan-penjualan-eceran-agustus-diprakirakan-melambat",
-  "category": "Makroekonomi",
-  "title": "Pertumbuhan Penjualan Eceran Agustus Diprakirakan [Melambat]",
-  "deck": "Bank Indonesia memperkirakan penjualan eceran Agustus 2026 tumbuh 0,5 persen dari tahun lalu, melambat dari Juli, sementara ekspektasi harga ke depan menurun.",
-  "date": "10 September 2026",
-  "image": "assets/img/pertumbuhan-penjualan-eceran-agustus-diprakirakan-melambat.jpg",
-  "imageV": "mtuzidn5",
-  "tags": [
-   "penjualan eceran",
-   "Bank Indonesia",
-   "ekspektasi inflasi",
-   "konsumsi rumah tangga"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818426.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "brent-tembus-us-100-rupiah-ikut-tertekan",
-  "category": "Moneter",
-  "title": "Brent [Tembus] US$100, Rupiah Ikut Tertekan",
-  "deck": "Harga minyak Brent menembus US$100 per barel dan WTI naik ke atas US$96 di tengah eskalasi perang Rusia-Ukraina, ikut menyeret rupiah melemah.",
-  "date": "10 September 2026",
-  "image": "assets/img/brent-tembus-us-100-rupiah-ikut-tertekan.jpg",
-  "imageV": "mtv4i1jn",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466136-minyak-dunia-tembus-us100-bikin-rupiah-tertekan-geopolitik-dunia-jadi-biang-kerok"
  }
 ];

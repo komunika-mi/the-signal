@@ -3,6 +3,162 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sdra-komisaris-independen-ahmad-fajarprana-mundur",
+  "category": "Aksi Korporasi",
+  "title": "SDRA: Komisaris Independen Ahmad Fajarprana [Mundur]",
+  "deck": "Bank Woori Saudara Indonesia 1906 (SDRA) melaporkan pengunduran diri Ahmad Fajarprana dari jabatan Komisaris Independen per 16 September 2026, menunggu keputusan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T10:48:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/44c55ebb66_f48be9443b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SDRA",
+  "tags": [
+   "SDRA",
+   "Bank Woori Saudara",
+   "komisaris independen",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Bank Woori Saudara Indonesia 1906 Tbk (SDRA) menyampaikan keterbukaan informasi bahwa perseroan telah menerima surat pengunduran diri Ahmad Fajarprana dari jabatannya selaku Komisaris Independen, tertanggal 16 September 2026. Laporan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia ini ditandatangani oleh Wiwit Sundari, Kepala Divisi Kepatuhan perseroan, dan disampaikan pada 17 September 2026 pukul 10.48 WIB.",
+   "Dalam dokumen tersebut, perseroan menyatakan tidak ada dampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha akibat pengunduran diri ini. Alasan di balik keputusan Fajarprana tidak dijelaskan dalam laporan.",
+   "Perseroan menegaskan bahwa permohonan pengunduran diri ini belum final. Statusnya baru akan diputuskan secara resmi dalam Rapat Umum Pemegang Saham (RUPS) sesuai peraturan yang berlaku, artinya Fajarprana masih menjabat sampai RUPS menyetujui permohonannya."
+  ],
+  "fotoAdegan": "Facade of a modern glass high-rise office tower in Jakarta's Sudirman business district under a hazy afternoon sky",
+  "takeaway": "Laporan ini netral bagi emiten karena Woori Saudara sendiri menyatakan tidak ada dampak operasional, hukum, atau keuangan dari pengunduran diri ini, dan tidak ada indikasi konflik atau tekanan di baliknya dalam dokumen. Yang tersentuh bukan pos keuangan seperti ekuitas atau laba per saham, melainkan struktur pengawasan bank: komisaris independen bertugas mengawasi manajemen secara bebas dari kepentingan pemegang saham pengendali, sehingga kekosongan satu kursi ini relevan diperhatikan investor sampai ada kejelasan pengganti, meski tidak mengubah modal maupun arus kas perseroan. Yang perlu dipantau selanjutnya adalah keputusan RUPS atas permohonan pengunduran diri ini serta siapa yang akan mengisi kursi Komisaris Independen tersebut, karena itu yang menentukan kapan jabatan Fajarprana resmi berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "indr-akui-belum-penuhi-syarat-free-float-tenggat-2029",
+  "category": "Aksi Korporasi",
+  "title": "INDR Akui Belum Penuhi Syarat [Free Float], Tenggat 2029",
+  "deck": "Indo-Rama Synthetics menjelaskan ke Bursa bahwa saham beredar publiknya belum capai batas minimum, dengan rencana pemenuhan paling lambat 31 Maret 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T10:23:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/754fcf668b_0346bd23ae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDR",
+  "tags": [
+   "INDR",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan emiten"
+  ],
+  "body": [
+   "PT Indo-Rama Synthetics Tbk (INDR) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan Bursa terkait belum terpenuhinya kewajiban minimum saham free float sesuai Ketentuan V.1.1 Peraturan Bursa Nomor I-A. Penjelasan disampaikan lewat surat bernomor IRS/CS-0926/032 tertanggal 14 September 2026, ditandatangani Presiden Direktur V S Baldwa. Dalam surat itu, perseroan menyatakan tidak ada kendala yang menghambat pemenuhan kewajiban tersebut.",
+   "Soal langkah ke depan, INDR hanya menyebut akan merencanakan upaya-upaya yang diperlukan agar dapat memenuhi kewajiban persentase minimum saham free float sebelum batas waktu 31 Maret 2029, tanpa merinci upaya konkret apa yang akan ditempuh, misalnya lewat penerbitan saham baru atau pelepasan sebagian saham milik pengendali. Perseroan juga menyatakan tidak memerlukan dukungan khusus dari Bursa dan tidak ada informasi tambahan lain yang relevan dengan rencana pemenuhan tersebut.",
+   "Bursa sendiri meminta penjelasan ini disampaikan paling lambat lima hari bursa sejak surat permintaan diterima, dan menyebut jawaban perseroan akan menjadi bahan pertimbangan Bursa dalam menentukan kebijakan terkait status free float INDR ke depan."
+  ],
+  "fotoAdegan": "Workers monitoring spools of polyester yarn on industrial looms inside a large textile factory, morning light through high windows",
+  "takeaway": "Penjelasan ini netral bagi kinerja keuangan INDR, tapi mengandung sinyal peringatan tata kelola karena perseroan mengakui belum memenuhi syarat minimum saham beredar untuk publik dan hanya menjawab dengan janji rencana tanpa langkah konkret atau angka free float saat ini. Free float adalah porsi saham yang beredar bebas di tangan investor publik, di luar pemegang saham pengendali. Semakin kecil porsinya, semakin tipis perdagangan saham di pasar sehingga harga lebih rentan bergerak tajam hanya dari transaksi kecil, karena itu Bursa mewajibkan batas minimum agar saham cukup ramai diperjualbelikan. Yang perlu dipantau adalah apakah INDR merilis langkah konkret, misalnya rencana pelepasan saham pengendali atau penerbitan saham baru, jauh sebelum tenggat 31 Maret 2029, serta apakah Bursa memberi respons atau notasi khusus atas jawaban minim detail ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "saham-jecc-melonjak-25-ke-auto-rejection-bursa-minta-klarifikasi",
+  "category": "Aksi Korporasi",
+  "title": "Saham JECC Melonjak [25%] ke Auto-Rejection, Bursa Minta Klarifikasi",
+  "deck": "Bursa meminta penjelasan setelah saham JECC melonjak 25 persen ke Rp825 dan menyentuh batas atas auto-rejection pada 10 September 2026, di tengah IHSG yang justru melemah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T10:07:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf81b011d6_0a50f468ae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECC",
+  "tags": [
+   "JECC",
+   "UMA",
+   "volatilitas saham",
+   "IDX"
+  ],
+  "body": [
+   "Bursa Efek Indonesia meminta penjelasan kepada Jembo Cable Company Tbk (JECC) melalui surat nomor S-11904/BEI.PP3/09-2026 tertanggal 11 September 2026, menyusul lonjakan volume dan harga saham perseroan pada 10 September 2026. Volume transaksi melonjak menjadi 957.100 saham dengan frekuensi 672 kali, dibandingkan hari bursa sebelumnya yang hanya 45.900 saham dengan frekuensi 74 kali. Harga saham ditutup naik Rp165 atau 25 persen, dari Rp660 menjadi Rp825, dan menyentuh batas atas auto-rejection, yaitu batas kenaikan harga maksimum yang diizinkan bursa dalam sehari.",
+   "Lonjakan itu terjadi saat arah pasar secara umum justru melemah: IHSG turun 88,86 poin dan indeks sektor industri turun 20,76 poin pada hari yang sama, sehingga pergerakan saham JECC berlawanan dengan tren pasar secara keseluruhan.",
+   "Dalam surat balasan bertanggal 17 September 2026 yang ditandatangani Corporate Secretary Antonius Benady, Jembo Cable menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik dan dapat memengaruhi harga sahamnya. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu yang mungkin memicu lonjakan tersebut, serta tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada pencatatan sahamnya di bursa. Seluruh lima poin pertanyaan standar dari bursa, mulai dari fakta material, ketentuan Peraturan I-E, aktivitas pemegang saham tertentu, hingga rencana korporasi, dijawab dengan penyangkalan serupa."
+  ],
+  "fotoAdegan": "Workers spooling thick industrial copper cable onto large reels inside a manufacturing warehouse under bright overhead lighting",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental Jembo Cable karena perseroan menegaskan tidak ada peristiwa baru yang mendasari lonjakan harga sahamnya. Tidak disebut ada perubahan pada ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, padahal pos-pos itulah yang biasanya dipakai pelaku pasar untuk menilai wajar tidaknya harga suatu saham, sehingga kenaikan 25 persen dalam sehari ini tidak bisa dikaitkan dengan perbaikan kinerja apa pun. Yang perlu dipantau berikutnya adalah apakah pola transaksi tidak wajar ini berulang pada hari-hari bursa mendatang, mengingat perseroan sendiri menyatakan tidak punya rencana aksi korporasi dalam tiga bulan ke depan yang bisa menjelaskan pergerakan harga tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bukk-belum-penuhi-free-float-minimum-bursa-minta-penjelasan",
+  "category": "Aksi Korporasi",
+  "title": "BUKK Belum Penuhi [Free Float] Minimum, Bursa Minta Penjelasan",
+  "deck": "Bukaka Teknik Utama menjawab permintaan penjelasan Bursa Efek Indonesia soal syarat free float minimum 15 persen yang belum terpenuhi, dengan target bertahap ke 7,5 persen lalu 15 persen pada 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T09:40:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/24440b5c02_325805b678.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUKK",
+  "tags": [
+   "BUKK",
+   "free float",
+   "Bukaka Teknik Utama",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bukaka Teknik Utama Tbk (BUKK) menyampaikan tanggapan kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-11798/BEI.PP3/09-2026 tertanggal 11 September 2026, yang ditujukan kepada Kepala Divisi PP3, Lidia M. Panjaitan. Surat bursa itu menyoroti bahwa berdasarkan Ketentuan V.1.1 Peraturan I-A, perusahaan tercatat wajib menjaga saham free float atau saham yang beredar bebas di tangan publik minimal 15 persen dari total saham tercatat. Berdasarkan pemantauan bursa atas laporan bulanan registrasi kepemilikan saham per 30 Juni 2026, Bukaka belum memenuhi ketentuan tersebut, sehingga bursa meminta penjelasan tertulis mengenai kendala, rencana pemenuhan, dukungan yang dibutuhkan, dan informasi lain yang relevan.",
+   "Dalam tanggapan yang diterbitkan 17 September 2026 lewat surat nomor 045/BTU/DIR-CORSEC/IX-26, Bukaka menyatakan masih menelaah sejumlah opsi, salah satunya penjualan saham dari pemegang saham utama kepada masyarakat, untuk mengejar syarat free float minimal 15 persen pada 2029. Perseroan menyebut rencana jangka pendeknya tidak berubah dari yang sudah disampaikan sebelumnya lewat surat nomor 031/BTU-DIR-CORSEC/VI/26 tanggal 12 Juni 2026, yakni mengejar rasio free float ke level 7,5 persen dalam waktu dekat, sebelum mencapai 15 persen pada 2029 sesuai batas waktu yang diatur dalam Surat Keputusan Direksi Bursa Kep-00045/BEI/03-2026.",
+   "Sebagai dukungan, Bukaka meminta bursa memberi waktu bagi perseroan untuk memenuhi ketentuan free float sesuai Ketentuan V.1.1 Peraturan I-A. Perseroan juga menegaskan bahwa seluruh informasi material terkait upaya pemenuhan ketentuan ini sudah diungkapkan kepada publik melalui Otoritas Jasa Keuangan, Bursa Efek Indonesia, dan situs web perseroan. Surat tanggapan ini disampaikan secara elektronik oleh Manager Accounting Iwan Satiyawan mewakili Direksi Bukaka."
+  ],
+  "fotoAdegan": "Workers welding large steel bridge trusses in an outdoor industrial fabrication yard under bright daylight.",
+  "takeaway": "Laporan ini condong negatif bagi Bukaka karena menunjukkan perseroan masih gagal memenuhi syarat minimum saham beredar bebas atau free float sebesar 15 persen yang menjadi prasyarat pencatatan di bursa, dan rencana pemenuhannya pun masih berupa opsi yang sedang ditelaah, bukan langkah pasti. Yang tersentuh di sini adalah komposisi jumlah saham beredar yang dipegang publik, bukan kinerja keuangan perseroan secara langsung, tetapi pelaku pasar tetap memperhatikannya karena free float yang tipis membuat saham kurang likuid diperdagangkan dan berisiko kena sanksi administratif dari bursa kalau tidak kunjung dipenuhi. Rencana Bukaka mengandalkan penjualan saham oleh pemegang saham utama kepada publik, yang kalau terealisasi menambah porsi saham di tangan masyarakat tanpa mengubah jumlah total saham beredar perseroan. Yang perlu dipantau selanjutnya adalah realisasi target free float 7,5 persen dalam waktu dekat sebagai batu loncatan sebelum tenggat akhir 15 persen pada 2029, serta apakah bursa memberikan kelonggaran waktu tambahan seperti yang diminta Bukaka dalam surat 17 September 2026 ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "babp-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "BABP Jawab Bursa soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Bank MNC Internasional (BABP) menegaskan tidak ada informasi material di balik pergerakan sahamnya, merespons permintaan penjelasan BEI atas volatilitas transaksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T08:48:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1a8d811b25_d0cb1729d1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BABP",
+  "tags": [
+   "BABP",
+   "volatilitas saham",
+   "Bank MNC Internasional",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Bank MNC Internasional Tbk (BABP) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menanggapi permintaan klarifikasi atas volatilitas transaksi efeknya. Permintaan itu dikirim BEI melalui surat nomor S-11912/BEI.PP2/09-2026 tertanggal 11 September 2026. BABP membalas melalui surat nomor 249/MNCB/DIR/IX/2026 tertanggal 15 September 2026, yang dipublikasikan lewat keterbukaan informasi pada 17 September 2026 pukul 08.48 WIB dan ditandatangani Corporate Secretary Edward Kennetze.",
+   "Dalam suratnya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal sebagaimana diatur POJK Nomor 31/POJK.04/2015, dan juga tidak mengetahui informasi yang dapat memengaruhi harga saham sebagaimana diatur Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan atau perubahan kepemilikan saham serta aktivitas penjaminan saham.",
+   "Terkait rencana ke depan, BABP menegaskan belum memiliki rencana aksi korporasi dalam tiga bulan mendatang yang akan berdampak pada status pencatatan sahamnya di bursa, serta tidak ada informasi atau kejadian material lain yang belum diungkapkan ke publik. Surat balasan tersebut ditandatangani oleh Presiden Direktur Rita Montagna Siahaan dan Direktur Kepatuhan Tiolina Tumanggor."
+  ],
+  "fotoAdegan": "Exterior of a modern glass-walled bank office tower in a Jakarta business district, low angle, late afternoon light",
+  "takeaway": "Penjelasan ini netral bagi fundamental BABP karena isinya hanya menegaskan tidak ada informasi atau rencana korporasi tersembunyi, tanpa data baru soal modal, kas, atau laba yang bisa dinilai pasar. Surat semacam ini biasanya keluar setelah bursa mendeteksi pergerakan harga saham yang tidak wajar dan meminta emiten mengonfirmasi apakah ada kabar tersembunyi di baliknya, semacam pemeriksaan rutin agar pemodal tidak dirugikan oleh informasi yang tidak merata. Karena BABP menyatakan tidak ada rencana aksi korporasi dalam tiga bulan ke depan dan tidak ada perubahan kepemilikan saham yang diketahui, pos-pos seperti jumlah saham beredar atau struktur pemegang saham untuk sementara tidak berubah. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham BABP kembali ke pola normal setelah penjelasan ini terbit pada 17 September 2026, atau apakah bursa akan mengirim permintaan serupa lagi bila volatilitas berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "yoii-volume-saham-melonjak-40x-emiten-bantah-ada-kabar-baru",
+  "category": "Aksi Korporasi",
+  "title": "YOII: Volume Saham [Melonjak] 40x, Emiten Bantah Ada Kabar Baru",
+  "deck": "Saham PT Asuransi Digital Bersama Tbk naik 4,94% ke Rp85 dengan volume melonjak ke 131,5 juta lembar dan 10.286 kali transaksi pada 15 September 2026, memicu permintaan penjelasan dari BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T08:08:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/39d018120b_8d8c29372e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YOII",
+  "tags": [
+   "YOII",
+   "volatilitas saham",
+   "BEI",
+   "Asuransi Digital Bersama"
+  ],
+  "body": [
+   "PT Asuransi Digital Bersama Tbk (YOII) menjawab permintaan penjelasan Bursa Efek Indonesia lewat surat nomor S-12080/BEI.PP3/09-2026 tertanggal 16 September 2026, menyusul lonjakan transaksi sahamnya pada 15 September 2026. Volume perdagangan melonjak menjadi 131.526.200 saham dengan 10.286 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 3.316.900 saham dengan 132 kali transaksi. Harga penutupan naik Rp4 atau 4,94 persen, dari Rp81 menjadi Rp85.",
+   "Dalam surat bernomor 181/ADB-DIR/IX/2026 yang ditandatangani Direktur Keuangan Randy Tandra, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek atau keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga menegaskan tidak mendapati aktivitas dari pemegang saham tertentu terkait perubahan kepemilikan atau penjaminan saham sesuai POJK Nomor 4 Tahun 2024.",
+   "Perseroan menyebut tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa, dan tidak ada informasi material lain yang belum diungkap ke publik. Corporate Secretary juga telah mengonfirmasi kepada pemegang saham utama, yang menyatakan tidak ada rencana mengubah kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Rows of trading terminals in a Jakarta brokerage office, screens angled away and blurred, staff monitoring quietly in afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental YOII, sebab isinya cuma bantahan resmi bahwa tidak ada kabar khusus di balik lonjakan transaksi, bukan pengumuman rencana bisnis atau perubahan keuangan apa pun. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh di sini, karena surat ini murni menjawab pertanyaan bursa soal pergerakan harga dan volume, bukan laporan keuangan perusahaan. Yang mencolok justru datanya sendiri, volume transaksi melompat dari 3,3 juta lembar menjadi 131,5 juta lembar dan jumlah transaksi naik dari 132 kali menjadi 10.286 kali hanya dalam sehari, pola yang biasa membuat bursa meminta klarifikasi seperti ini. Karena emiten menyatakan tidak ada rencana aksi korporasi dan pemegang saham utama tidak berencana mengubah kepemilikan, kenaikan harga 4,94 persen ke Rp85 tampak lebih terkait aktivitas transaksi jangka pendek ketimbang perubahan nilai perusahaan. Yang perlu dipantau adalah apakah Bursa Efek Indonesia melanjutkan pengawasan khusus atas saham ini pada hari-hari perdagangan berikutnya, mengingat tidak ada dasar fundamental baru yang diungkap dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bbrm-belum-penuhi-syarat-minimum-free-float-ditegur-bursa",
   "category": "Aksi Korporasi",
   "title": "BBRM Belum Penuhi Syarat Minimum [Free Float], Ditegur Bursa",

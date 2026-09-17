@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sdra-komisaris-independen-ahmad-fajarprana-mundur",
+  "category": "Aksi Korporasi",
+  "title": "SDRA: Komisaris Independen Ahmad Fajarprana [Mundur]",
+  "deck": "Bank Woori Saudara Indonesia 1906 (SDRA) melaporkan pengunduran diri Ahmad Fajarprana dari jabatan Komisaris Independen per 16 September 2026, menunggu keputusan RUPS.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SDRA",
+   "Bank Woori Saudara",
+   "komisaris independen",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/44c55ebb66_f48be9443b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indr-akui-belum-penuhi-syarat-free-float-tenggat-2029",
+  "category": "Aksi Korporasi",
+  "title": "INDR Akui Belum Penuhi Syarat [Free Float], Tenggat 2029",
+  "deck": "Indo-Rama Synthetics menjelaskan ke Bursa bahwa saham beredar publiknya belum capai batas minimum, dengan rencana pemenuhan paling lambat 31 Maret 2029.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDR",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/754fcf668b_0346bd23ae.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-jecc-melonjak-25-ke-auto-rejection-bursa-minta-klarifikasi",
+  "category": "Aksi Korporasi",
+  "title": "Saham JECC Melonjak [25%] ke Auto-Rejection, Bursa Minta Klarifikasi",
+  "deck": "Bursa meminta penjelasan setelah saham JECC melonjak 25 persen ke Rp825 dan menyentuh batas atas auto-rejection pada 10 September 2026, di tengah IHSG yang justru melemah.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECC",
+   "UMA",
+   "volatilitas saham",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf81b011d6_0a50f468ae.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bukk-belum-penuhi-free-float-minimum-bursa-minta-penjelasan",
+  "category": "Aksi Korporasi",
+  "title": "BUKK Belum Penuhi [Free Float] Minimum, Bursa Minta Penjelasan",
+  "deck": "Bukaka Teknik Utama menjawab permintaan penjelasan Bursa Efek Indonesia soal syarat free float minimum 15 persen yang belum terpenuhi, dengan target bertahap ke 7,5 persen lalu 15 persen pada 2029.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUKK",
+   "free float",
+   "Bukaka Teknik Utama",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/24440b5c02_325805b678.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "babp-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "BABP Jawab Bursa soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Bank MNC Internasional (BABP) menegaskan tidak ada informasi material di balik pergerakan sahamnya, merespons permintaan penjelasan BEI atas volatilitas transaksi.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BABP",
+   "volatilitas saham",
+   "Bank MNC Internasional",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1a8d811b25_d0cb1729d1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "yoii-volume-saham-melonjak-40x-emiten-bantah-ada-kabar-baru",
+  "category": "Aksi Korporasi",
+  "title": "YOII: Volume Saham [Melonjak] 40x, Emiten Bantah Ada Kabar Baru",
+  "deck": "Saham PT Asuransi Digital Bersama Tbk naik 4,94% ke Rp85 dengan volume melonjak ke 131,5 juta lembar dan 10.286 kali transaksi pada 15 September 2026, memicu permintaan penjelasan dari BEI.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YOII",
+   "volatilitas saham",
+   "BEI",
+   "Asuransi Digital Bersama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/39d018120b_8d8c29372e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bbrm-belum-penuhi-syarat-minimum-free-float-ditegur-bursa",
   "category": "Aksi Korporasi",
   "title": "BBRM Belum Penuhi Syarat Minimum [Free Float], Ditegur Bursa",
@@ -6404,108 +6500,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a9d352dac_ea6eeb9dab.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "izin-tenaga-kerja-asing-kini-satu-pintu-lewat-oss",
-  "category": "Ketenagakerjaan",
-  "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
-  "deck": "Kemnaker, Kementerian Investasi, dan Kementerian Imigrasi menyatukan izin penggunaan tenaga kerja asing dalam satu sistem OSS untuk memangkas proses lintas kementerian.",
-  "date": "10 September 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
-  "tags": [
-   "TKA",
-   "OSS",
-   "Kemnaker",
-   "Investasi Asing"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/perkuat-tata-kelola-investasi-pemerintah-integrasikan-perizinan-tka",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "giias-bandung-2026-pajak-kendaraan-diskon-10-persen",
-  "category": "Industri",
-  "title": "GIIAS Bandung 2026: Pajak Kendaraan [Diskon] 10 Persen",
-  "deck": "Pemprov Jawa Barat memberi diskon pajak kendaraan 10 persen selama GIIAS Bandung 2026 untuk mendorong transaksi otomotif, sektor yang menyumbang Rp10 triliun ke pendapatan daerah.",
-  "date": "10 September 2026",
-  "image": "assets/img/giias-bandung-2026-pajak-kendaraan-diskon-10-persen.jpg",
-  "imageV": "mtuoqowc",
-  "tags": [
-   "GIIAS Bandung 2026",
-   "pajak kendaraan",
-   "Jawa Barat",
-   "mobil listrik"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/pameran-giias-bandung-2026-sediakan-arena-berburu-mobil-listrik-perkotaan/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "rupslb-elnusa-elsa-tetapkan-dua-direktur-baru",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB Elnusa [ELSA] Tetapkan Dua Direktur Baru",
-  "deck": "RUPSLB Elnusa mengganti Direktur Pengembangan Usaha dan Direktur SDM & Umum, efektif sejak penutupan rapat pada 9 September 2026, tanpa mengubah dampak terhadap kondisi keuangan perusahaan.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ELSA",
-   "Elnusa",
-   "RUPSLB",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f95f51f0d_ceac20ede8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jabar-diskon-pajak-kendaraan-10-persen-saat-giias-bandung-2026",
-  "category": "Industri",
-  "title": "Jabar Diskon [Pajak] Kendaraan 10 Persen Saat GIIAS Bandung 2026",
-  "deck": "Pemprov Jawa Barat memberi diskon 10 persen bea balik nama dan pajak tahunan kendaraan bermotor selama gelaran GIIAS Bandung 2026 yang dibuka 9 September.",
-  "date": "10 September 2026",
-  "image": "assets/img/jabar-diskon-pajak-kendaraan-10-persen-saat-giias-bandung-2026.jpg",
-  "imageV": "mtuilay0",
-  "tags": [
-   "GIIAS",
-   "Jawa Barat",
-   "pajak kendaraan",
-   "otomotif"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/giias-bandung-2026-pemprov-jawa-barat-beri-diskon-bbn-dan-pajak-kendaraan/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "kemendag-gandeng-meta-latih-200-umkm-pakai-ai-untuk-ekspor",
-  "category": "UMKM",
-  "title": "Kemendag Gandeng Meta Latih [200] UMKM Pakai AI untuk Ekspor",
-  "deck": "Kementerian Perdagangan bersama Meta Indonesia melatih 200 UMKM di Jakarta, Bandung, dan Batam memakai AI untuk pemasaran digital demi menembus pasar ekspor.",
-  "date": "10 September 2026",
-  "image": "assets/img/kemendag-gandeng-meta-latih-200-umkm-pakai-ai-untuk-ekspor.jpg",
-  "imageV": "mtud1d0p",
-  "tags": [
-   "UMKM",
-   "Kemendag",
-   "AI",
-   "Ekspor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-dorong-optimalisasi-ai-untuk-pemasaran-produk-umkm",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "muf-dan-mandiri-dorong-adopsi-kendaraan-listrik-di-bali",
-  "category": "Bisnis",
-  "title": "MUF dan Mandiri Dorong Adopsi Kendaraan [Listrik] di Bali",
-  "deck": "MUF bersama Bank Mandiri dan jaringan dealer menggelar uji coba kendaraan listrik dan hybrid di Bali, lengkap dengan penawaran pembiayaan khusus bagi nasabah.",
-  "date": "9 September 2026",
-  "image": "assets/img/muf-dan-mandiri-dorong-adopsi-kendaraan-listrik-di-bali.jpg",
-  "imageV": "mtu8p4wk",
-  "tags": [
-   "kendaraan listrik",
-   "MUF",
-   "Bank Mandiri",
-   "hybrid"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466068-muf-genjot-adopsi-kendaraan-listrik-bank-mandiri-perkuat-kolaborasi-dengan-dealer"
  }
 ];

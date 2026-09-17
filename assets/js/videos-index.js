@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "R1Od9Mxhxts",
+  "title": "Menteri PKP Bahas Kendala Program Tiga Juta Rumah",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Menteri Perumahan dan Kawasan Permukiman mengungkap sejumlah tantangan dalam merealisasikan program pemerintah membangun tiga juta rumah.",
+  "takeaway": "Program perumahan berskala besar ini menyangkut anggaran negara dan berdampak langsung ke sektor konstruksi serta properti."
+ },
+ {
   "id": "04_u3bOZE-0",
   "title": "Presiden Prabowo Pimpin Rapat Dewan Energi Nasional",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Rentetan bencana alam di berbagai wilayah Indonesia dinilai turut menekan aktivitas dan pertumbuhan ekonomi nasional. Menteri Keuangan Purbaya Yudhi Sadewa mengakui adanya dampak tersebut.",
   "takeaway": "Pernyataan Menteri Keuangan soal dampak bencana terhadap ekonomi relevan bagi pembaca yang mengikuti proyeksi pertumbuhan nasional."
- },
- {
-  "id": "ZFHQxYYzIMY",
-  "title": "Optimisme Capai Pertumbuhan di Tengah Bencana",
-  "category": "Makroekonomi",
-  "program": "IBF tvOne",
-  "summary": "Di tengah tekanan akibat rentetan bencana, pemerintah tetap optimistis target pertumbuhan ekonomi bisa tercapai. Menteri Keuangan Purbaya Yudhi Sadewa membahas dampak bencana terhadap perekonomian.",
-  "takeaway": "Sikap optimisme pemerintah penting diketahui pembaca yang menakar arah kebijakan fiskal ke depan."
  }
 ];

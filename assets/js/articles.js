@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "penerimaan-pajak-ekonomi-digital-capai-rp57-23-triliun-per-agustus",
+  "category": "Makroekonomi",
+  "title": "Penerimaan Pajak Ekonomi Digital Capai [Rp57,23] Triliun per Agustus",
+  "deck": "Penerimaan pajak dari transaksi digital, termasuk e-commerce lintas negara, kripto, dan pinjaman online, mencapai Rp57,23 triliun hingga akhir Agustus 2026, menurut Direktorat Jenderal Pajak.",
+  "image": "assets/img/penerimaan-pajak-ekonomi-digital-capai-rp57-23-triliun-per-agustus.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T14:19:10.515Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/djp-catat-penerimaan-pajak-ekonomi-digital-rp5723-triliun",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "pajak digital",
+   "DJP",
+   "PPN PMSE",
+   "pajak kripto"
+  ],
+  "body": [
+   "Direktorat Jenderal Pajak (DJP) mencatat penerimaan pajak dari sektor ekonomi digital mencapai Rp57,23 triliun hingga 31 Agustus 2026. Angka ini terkumpul dari empat jenis pungutan berbeda, yaitu PPN atas transaksi belanja daring lintas negara, pajak aset kripto, pajak dari layanan pinjaman online, dan pajak yang dipungut lewat sistem pengadaan pemerintah secara elektronik. Data ini jadi salah satu ukuran sejauh mana negara sudah bisa menjaring pajak dari bisnis digital yang selama ini dianggap lebih sulit diawasi dibanding usaha konvensional.",
+   "Kontribusi terbesar datang dari PPN atas transaksi belanja daring lintas negara, yakni Rp44,05 triliun, disetor oleh 244 dari total 277 platform digital asing yang sudah ditunjuk DJP sebagai pemungut pajak. Setoran jenis ini terus naik sejak aturan berlaku pada 2020, dari Rp731,4 miliar di tahun pertama menjadi Rp10,32 triliun sepanjang 2025, dan sudah tercatat Rp8,38 triliun untuk periode Januari hingga Agustus 2026 saja. Pada Agustus 2026, DJP menambah dua pemungut baru, yaitu STAAH Limited dan Aghanim Inc., sekaligus mencabut status pemungut dari Expedia Lodging Partner Services Sarl.",
+   "Selain itu, pajak dari transaksi aset kripto sudah terkumpul Rp2,15 triliun sejak 2022, dengan setoran Rp268,95 miliar untuk periode Januari-Agustus 2026, terdiri atas pajak penghasilan Rp1,27 triliun dan pajak pertambahan nilai dalam negeri Rp881,82 miliar sepanjang periode berjalan. Pajak dari layanan pinjaman online (fintech peer-to-peer lending) mencapai Rp5,28 triliun, dengan rincian pajak penghasilan atas bunga pinjaman dari peminjam dalam negeri Rp1,48 triliun, pajak dari peminjam luar negeri Rp728,13 miliar, dan pajak pertambahan nilai dalam negeri Rp3,08 triliun.",
+   "Adapun pajak yang dipungut lewat sistem pengadaan pemerintah secara elektronik sudah mencapai Rp5,75 triliun sejak 2022, terdiri atas pajak penghasilan Rp417,65 miliar dan pajak pertambahan nilai Rp5,33 triliun."
+  ],
+  "fotoAdegan": "Courier riders loading parcel boxes onto motorbikes outside a logistics hub in Jakarta, early morning light",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah bukan cuma soal total, tapi juga daftar pemungutnya: DJP menambah dua platform asing baru, STAAH Limited dan Aghanim Inc., sebagai pemungut pajak transaksi digital, sementara Expedia Lodging Partner Services Sarl dicabut statusnya. Dari 277 platform yang sudah ditunjuk, baru 244 yang benar-benar menyetor, jadi masih ada selisih platform yang belum patuh. Yang menarik, arah tren tiap sektor ternyata berbeda: setoran pajak dari pengadaan pemerintah secara elektronik sudah Rp1,67 triliun dalam delapan bulan, sudah melampaui total sepanjang 2025 yang cuma Rp1,23 triliun, sementara setoran pajak dari transaksi kripto justru anjlok jauh, baru Rp268,95 miliar dibanding Rp796,74 miliar sepanjang tahun lalu. Pola ini mengarah ke kepatuhan yang menguat di sektor pengadaan digital pemerintah tapi melemah di sektor kripto, kemungkinan mengikuti naik turunnya transaksi di pasar aset kripto itu sendiri. Yang akan memastikan pola ini adalah angka penerimaan pada akhir 2026, terutama apakah setoran pajak kripto membaik di sisa tahun atau makin tertinggal dari capaian 2025.",
+  "imageV": "mu5mfrau"
+ },
+ {
+  "slug": "dpr-setujui-anggaran-kemendag-2027-naik-jadi-rp1-56-triliun",
+  "category": "Makroekonomi",
+  "title": "DPR Setujui Anggaran Kemendag 2027 [Naik] Jadi Rp1,56 Triliun",
+  "deck": "Komisi VI DPR menyetujui pagu anggaran Kementerian Perdagangan 2027 sebesar Rp1,56 triliun, naik Rp428,71 miliar dari usulan awal, untuk mendukung program dagang dan revitalisasi pasar rakyat.",
+  "image": "assets/img/dpr-setujui-anggaran-kemendag-2027-naik-jadi-rp1-56-triliun.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T14:18:49.090Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/raker-dengan-komisi-vi-dpr-ri-mendag-busan-apresiasi-disetujuinya-pagu-anggaran-kemendag-2027",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Kemendag",
+   "Anggaran 2027",
+   "DPR",
+   "Revitalisasi Pasar"
+  ],
+  "body": [
+   "Komisi VI DPR RI menyetujui pagu anggaran Kementerian Perdagangan untuk tahun 2027 sebesar Rp1,56 triliun dalam rapat kerja di Gedung DPR, Jakarta, Kamis (17/9). Persetujuan ini penting karena menentukan besaran dana yang bisa dipakai Kemendag tahun depan untuk program dagang dalam dan luar negeri, termasuk rencana revitalisasi pasar rakyat.",
+   "Angka Rp1,56 triliun itu naik Rp428,71 miliar dibanding pagu indikatif awal yang hanya Rp1,13 triliun. Menteri Perdagangan Budi Santoso menyebut tambahan anggaran tersebut disusun dengan mengacu pada Surat Bersama Pagu Anggaran yang menjadi acuan bersama antara kementerian dan DPR. Dari total pagu itu, Program Perdagangan Dalam Negeri mendapat Rp91,28 miliar, Program Perdagangan Luar Negeri Rp120,24 miliar, sedangkan Program Dukungan Manajemen mendapat porsi terbesar, yakni Rp1,35 triliun.",
+   "Sejumlah anggota Komisi VI turut menyampaikan dukungan dalam rapat tersebut. Firnando H. Ganindito mendukung penggunaan tambahan anggaran untuk membiayai revitalisasi pasar rakyat yang menurutnya memang dibutuhkan pasar-pasar di berbagai daerah. Anggota lain, Achmad, mendukung penambahan anggaran itu dengan harapan diikuti perbaikan kinerja Kementerian Perdagangan.",
+   "Rapat kerja ini turut dihadiri Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri, jajaran pejabat eselon I Kemendag, serta Ketua Badan Perlindungan Konsumen Nasional Muhammad Mufti Mubarok."
+  ],
+  "fotoAdegan": "Vendors restocking produce stalls in a traditional Indonesian market with worn wooden stands and a partially repaired roof",
+  "fotoSumber": "https://www.kemendag.go.id/albums/2HOhx35SMTBtTuqFq6FnIy7z3QnEPN9Ba2wehhkh.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Dari tambahan Rp428,71 miliar yang disetujui, porsi terbesar pagu Kemendag 2027, yaitu Rp1,35 triliun dari total Rp1,56 triliun, masuk ke Program Dukungan Manajemen, semacam anggaran operasional dan administrasi kementerian. Sementara itu program teknis yang langsung menyentuh dunia usaha, yakni Perdagangan Dalam Negeri dan Luar Negeri, hanya kebagian sekitar Rp211 miliar gabungan. Artinya pihak yang lebih dulu merasakan dampak kenaikan anggaran ini adalah struktur kerja internal Kemendag, sementara pedagang pasar rakyat yang disebut sebagai prioritas revitalisasi belum punya kepastian angka karena tidak muncul sebagai pos tersendiri dalam rincian program. Pola ini mengarah ke anggaran tambahan yang lebih banyak menopang operasional kementerian ketimbang langsung membiayai proyek di lapangan. Kejelasannya baru akan terlihat saat Kemendag menerbitkan rincian DIPA atau RKA-KL 2027, karena di situlah akan tampak apakah revitalisasi pasar rakyat mendapat pos anggaran sendiri atau hanya menumpang di anggaran rutin.",
+  "imageV": "mu5mg2mj"
+ },
+ {
   "slug": "qris-melonjak-dua-kali-lipat-bi-soroti-kesenjangan-literasi",
   "category": "Perbankan",
   "title": "QRIS Melonjak Dua Kali Lipat, BI Soroti Kesenjangan [Literasi]",

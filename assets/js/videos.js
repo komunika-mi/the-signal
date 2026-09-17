@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "R1Od9Mxhxts",
+  "title": "Menteri PKP Bahas Kendala Program Tiga Juta Rumah",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Menteri Perumahan dan Kawasan Permukiman mengungkap sejumlah tantangan dalam merealisasikan program pemerintah membangun tiga juta rumah.",
+  "takeaway": "Program perumahan berskala besar ini menyangkut anggaran negara dan berdampak langsung ke sektor konstruksi serta properti.",
+  "terbit": "2026-09-17T14:09:54+00:00"
+ },
+ {
   "id": "04_u3bOZE-0",
   "title": "Presiden Prabowo Pimpin Rapat Dewan Energi Nasional",
   "category": "Energi",

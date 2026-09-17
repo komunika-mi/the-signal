@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penerimaan-pajak-ekonomi-digital-capai-rp57-23-triliun-per-agustus",
+  "category": "Makroekonomi",
+  "title": "Penerimaan Pajak Ekonomi Digital Capai [Rp57,23] Triliun per Agustus",
+  "deck": "Penerimaan pajak dari transaksi digital, termasuk e-commerce lintas negara, kripto, dan pinjaman online, mencapai Rp57,23 triliun hingga akhir Agustus 2026, menurut Direktorat Jenderal Pajak.",
+  "date": "17 September 2026",
+  "image": "assets/img/penerimaan-pajak-ekonomi-digital-capai-rp57-23-triliun-per-agustus.jpg",
+  "imageV": "mu5mfrau",
+  "tags": [
+   "pajak digital",
+   "DJP",
+   "PPN PMSE",
+   "pajak kripto"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/djp-catat-penerimaan-pajak-ekonomi-digital-rp5723-triliun",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "dpr-setujui-anggaran-kemendag-2027-naik-jadi-rp1-56-triliun",
+  "category": "Makroekonomi",
+  "title": "DPR Setujui Anggaran Kemendag 2027 [Naik] Jadi Rp1,56 Triliun",
+  "deck": "Komisi VI DPR menyetujui pagu anggaran Kementerian Perdagangan 2027 sebesar Rp1,56 triliun, naik Rp428,71 miliar dari usulan awal, untuk mendukung program dagang dan revitalisasi pasar rakyat.",
+  "date": "17 September 2026",
+  "image": "assets/img/dpr-setujui-anggaran-kemendag-2027-naik-jadi-rp1-56-triliun.jpg",
+  "imageV": "mu5mg2mj",
+  "tags": [
+   "Kemendag",
+   "Anggaran 2027",
+   "DPR",
+   "Revitalisasi Pasar"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/raker-dengan-komisi-vi-dpr-ri-mendag-busan-apresiasi-disetujuinya-pagu-anggaran-kemendag-2027",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "qris-melonjak-dua-kali-lipat-bi-soroti-kesenjangan-literasi",
   "category": "Perbankan",
   "title": "QRIS Melonjak Dua Kali Lipat, BI Soroti Kesenjangan [Literasi]",
@@ -6468,38 +6504,6 @@ var ARTICLES = [
    "ekspansi pabrik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58606f5ee5_5d1a8a46ca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "halo-jawab-bei-tak-ada-aksi-korporasi-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "HALO Jawab BEI: Tak Ada [Aksi Korporasi] di Balik Volatilitas Saham",
-  "deck": "HALO menjawab permintaan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada aksi korporasi atau informasi material yang belum diungkap ke publik.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HALO",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11aed3a178_705b5eb730.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dmas-proyeksi-recurring-income-rp300-400-miliar-tahun-ini",
-  "category": "Aksi Korporasi",
-  "title": "DMAS Proyeksi [Recurring Income] Rp300-400 Miliar Tahun Ini",
-  "deck": "Dalam public expose 7 September 2026, manajemen DMAS memaparkan kas Rp2,08 triliun, target recurring income Rp300-400 miliar, dan komitmen dividen 30 persen dari laba bersih.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMAS",
-   "Puradelta Lestari",
-   "Public Expose",
-   "Data Center"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/194adca546_8de96adcb8.pdf",
   "sourceLabel": "IDX"
  }
 ];

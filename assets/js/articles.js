@@ -3,6 +3,137 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bjbs-pefindo-turunkan-peringkat-bank-dan-sukuknya",
+  "category": "Aksi Korporasi",
+  "title": "BJBS: Pefindo [Turunkan] Peringkat Bank dan Sukuknya",
+  "deck": "Pefindo menurunkan peringkat bank bjb syariah dari idAA- menjadi idA+, dan peringkat sukuk subordinasinya dari idA(sy) menjadi idA-(sy), menyusul perubahan peringkat induk perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T19:42:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ee5edc072b_5f9e70af51.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BJBS",
+  "tags": [
+   "BJBS",
+   "peringkat kredit",
+   "Pefindo",
+   "sukuk subordinasi"
+  ],
+  "body": [
+   "PT Bank Jabar Banten Syariah (BJBS) melaporkan ke Bursa Efek Indonesia bahwa PT Pemeringkat Efek Indonesia (Pefindo) menurunkan peringkat perusahaan dari idAA-/Stable menjadi idA+/Stable, sekaligus menurunkan peringkat Sukuk Wakalah bi al-Istitsmar Subordinasi I bank bjb syariah Tahun 2025 Seri A dan Seri B dari idA(sy) menjadi idA-(sy). Keputusan ini diambil dalam rapat Panitia Pemeringkat Pefindo pada Selasa, 15 September 2026, tertuang dalam surat nomor RC-1278/PEF-DIR/IX/2026 untuk peringkat perusahaan dan RC-1277/PEF-DIR/IX/2026 untuk peringkat sukuk. Peringkat baru berlaku untuk periode pemantauan 15 September 2026 sampai 1 Februari 2027.",
+   "Sukuk Seri A bernilai pokok Rp240 miliar jatuh tempo 2 Juli 2030, sedangkan Seri B bernilai Rp60 miliar jatuh tempo 2 Juli 2032, sehingga total penerbitan yang terdampak mencapai Rp300 miliar. Dalam suratnya, Pefindo menjelaskan penurunan ini mengikuti perubahan peringkat induk perusahaan, karena peringkat bank bjb syariah turut dipengaruhi oleh faktor dukungan dari induknya. Surat pemberitahuan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia ditandatangani Direktur Utama Arief Setyahadi dan Direktur Kepatuhan Anwar Munawar, tertanggal 17 September 2026.",
+   "Pefindo menjelaskan makna peringkat idA sebagai kemampuan yang kuat dibandingkan obligor Indonesia lain untuk memenuhi komitmen keuangan jangka panjang, namun lebih rentan terhadap perubahan kondisi ekonomi yang memburuk dibandingkan peringkat yang lebih tinggi. Tanda plus pada idA+ menunjukkan posisi di atas rata-rata kategori tersebut, sementara tanda minus pada idA-(sy) untuk sukuk menunjukkan posisi di bawah rata-rata kategorinya."
+  ],
+  "fotoAdegan": "Evening street scene on a colonial era avenue in Bandung, pedestrians and cars passing historic building facades, warm lamplight",
+  "takeaway": "Laporan ini condong negatif bagi BJBS karena peringkat perusahaan maupun peringkat sukuknya sama-sama turun satu tingkat, mengikuti penurunan peringkat induk usahanya. Yang tersentuh di sini adalah biaya bunga alias ongkos pinjam dana ke depan, karena peringkat kredit yang lebih rendah biasanya membuat investor meminta imbal hasil lebih tinggi saat BJBS menerbitkan sukuk atau instrumen utang baru, dan juga bisa mempengaruhi persepsi investor yang sudah memegang sukuk Seri A dan Seri B ini. Penurunan yang dipicu oleh perubahan peringkat induk perusahaan, bukan oleh masalah internal BJBS sendiri, sedikit meredam kekhawatiran, tapi tetap jadi sinyal bahwa dukungan dari induk terhadap anak usaha sedang melemah. Yang perlu dipantau berikutnya adalah hasil pemantauan Pefindo selanjutnya sebelum periode ini berakhir pada 1 Februari 2027, karena saat itu peringkat bisa dipertahankan, diturunkan lagi, atau dipulihkan tergantung perkembangan kondisi induk usahanya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "untd-jawab-bursa-hpp-naik-68-8-covenant-bca-tak-terpenuhi",
+  "category": "Aksi Korporasi",
+  "title": "UNTD Jawab Bursa: HPP Naik 68,8%, Covenant BCA [Tak Terpenuhi]",
+  "deck": "UNTD membalas permintaan penjelasan lanjutan BEI dengan rincian kenaikan HPP 68,8%, konsentrasi penjualan 61,2% ke satu distributor, dan covenant EBITDA ke BCA yang belum terpenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T19:10:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/868d3a7188_5771c9d6f3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTD",
+  "tags": [
+   "UNTD",
+   "covenant",
+   "sepeda listrik",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Terang Dunia Internusa Tbk (UNTD) menjawab surat permintaan penjelasan lanjutan Bursa Efek Indonesia bernomor S-11943/BEI.PP2/09-2026. Perusahaan merinci kenaikan harga pokok penjualan (HPP) sebesar 68,8 persen atau Rp88,1 miliar, yang berasal dari perubahan volume penjualan Rp36,3 miliar (28 persen kontribusi), kenaikan harga barang impor Rp9,7 miliar (8 persen), pelemahan kurs rupiah Rp7,5 miliar (6 persen), biaya freight dan logistik Rp13,9 miliar (11 persen), penurunan harga jual Rp11,0 miliar (9 persen), perubahan bauran produk Rp2,7 miliar (2 persen), dan faktor lain Rp7,0 miliar (5 persen). Akibatnya, margin laba kotor turun di semua segmen, dengan margin sepeda listrik anjlok dari 37,5 persen menjadi hanya 2,5 persen.",
+   "Perusahaan juga mengonfirmasi pengalihan jaringan distribusi dari PT Sepeda Bersama Indonesia Tbk (SBI) ke PT Bintang Mas Lestari (BML), efektif sejak 1 Mei 2026, menyusul berakhirnya status SBI sebagai pihak berelasi dan berakhirnya perjanjian distributor dengan SBI pada akhir April 2026. Penjualan ke BML melonjak dari Rp4,5 miliar pada semester I 2025 menjadi Rp132,6 miliar pada semester I 2026, atau setara 61,2 persen dari total penjualan Perseroan. Sebagai mitigasi risiko ketergantungan, manajemen menyebut rencana menambah distributor independen baru di wilayah sekunder, membagi volume ke distributor skala menengah, dan mengembangkan kanal penjualan langsung ke konsumen.",
+   "Soal kepatuhan terhadap syarat pinjaman bank (covenant) per 30 Juni 2026, UNTD melaporkan rasio EBITDA terhadap kewajiban bunga dan cicilan ke Bank BCA hanya 0,40 kali, tidak memenuhi syarat minimal 1 kali, meski dua syarat lain ke BCA yaitu rasio utang terhadap ekuitas 1,20 kali dan rasio lancar 1,62 kali masih terpenuhi. EBITDA Perseroan tercatat minus Rp23,8 miliar. Ke Bank OCBC NISP, seluruh syarat masih terpenuhi, namun fasilitas kredit itu baru diperpanjang sementara sampai 27 September 2026 dengan syarat baru berupa peningkatan nilai jaminan hak tanggungan atas tanah dan bangunan menjadi minimal 125 persen dari nilai appraisal terbaru. Penandatanganan akad amandemen perpanjangan dijadwalkan 24 September 2026.",
+   "Perusahaan turut melaporkan akumulasi rugi fiskal Rp80,5 miliar yang dapat dikompensasikan hingga tahun pajak 2031, dengan proyeksi laba kena pajak Rp12,0 miliar pada 2027, Rp18,5 miliar pada 2028, dan Rp25,0 miliar pada 2029 untuk mendukung pemulihan aset pajak tangguhan Rp3,6 miliar. Realisasi dana hasil penawaran umum per 30 Juni 2026 mencapai Rp248,1 miliar dari rencana alokasi Rp384,6 miliar, dengan rincian realisasi komponen frame 60 persen, baterai/dinamo 67 persen, wheel set 65 persen, multi-information display 95 persen, sistem rem 96 persen, dan suspensi 77 persen, menyisakan total alokasi belum terpakai Rp136,5 miliar."
+  ],
+  "fotoAdegan": "Workers assembling rows of electric bicycles on a factory line, warehouse racks of frames in the background, industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi UNTD, karena EBITDA perusahaan minus Rp23,8 miliar sehingga rasio kemampuan bayar utang ke BCA cuma 0,40 kali, jauh di bawah syarat minimal 1 kali yang diminta bank, sementara margin laba kotor sepeda listrik ambruk dari 37,5 persen jadi 2,5 persen akibat lonjakan biaya pokok produksi. EBITDA adalah ukuran laba operasional sebelum bunga, pajak, dan penyusutan yang biasa dipakai bank untuk menilai kemampuan perusahaan membayar cicilan utang, jadi kegagalan memenuhi syarat ini menjadi sinyal tekanan arus kas, meski dua syarat lain ke BCA yaitu rasio utang terhadap modal dan rasio lancar masih terpenuhi. Konsentrasi penjualan ke satu distributor, PT Bintang Mas Lestari, yang kini menyumbang 61,2 persen dari total penjualan juga menambah risiko karena kinerja perusahaan jadi sangat bergantung pada satu mitra dagang, walau manajemen sudah menyiapkan rencana menambah distributor baru. Yang perlu dipantau berikutnya adalah penandatanganan amandemen fasilitas kredit dengan OCBC yang dijadwalkan 24 September 2026, sebelum masa perpanjangan sementara fasilitas itu berakhir 27 September 2026, karena bank mensyaratkan tambahan jaminan tanah dan bangunan hingga 125 persen dari nilai appraisal.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "koin-nihil-refloat-saham-kuartal-ii-2026-sisa-wajib-10-62",
+  "category": "Aksi Korporasi",
+  "title": "KOIN Nihil [Refloat] Saham Kuartal II 2026, Sisa Wajib 10,62%",
+  "deck": "Kokoh Inti Arebama (KOIN) tak merealisasikan pengalihan kembali saham pengendali ke publik pada April-Juni 2026; kewajiban divestasi 104,16 juta lembar atau 10,62% saham masih tersisa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T17:54:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f6cef76fa_c727b78ecb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOIN",
+  "tags": [
+   "KOIN",
+   "refloat saham",
+   "free float",
+   "tender offer"
+  ],
+  "body": [
+   "Kokoh Inti Arebama Tbk (KOIN) melaporkan kepada Bursa Efek Indonesia bahwa sepanjang periode 1 April hingga 30 Juni 2026, tidak ada realisasi pengalihan kembali (refloat) saham dari pemegang saham pengendali kepada publik. Laporan keterbukaan informasi ini ditandatangani secara elektronik oleh Corporate Secretary KOIN, Ng Novalia, pada 17 September 2026.",
+   "Kewajiban refloat ini berasal dari penawaran tender wajib yang berakhir pada 3 Agustus 2011, ketika kepemilikan pemegang saham pengendali mencapai 971.902.488 lembar saham atau 99,09 persen dari total saham KOIN, sehingga porsi saham yang beredar di publik saat itu nyaris habis. Sejak saat itu hingga akhir Juni 2026, pengendali baru berhasil melepas kembali 8,47 persen saham ke publik secara akumulatif, sementara pada kuartal terakhir yang dilaporkan, persentase pengalihannya nol persen, artinya tidak ada transaksi refloat sama sekali selama tiga bulan tersebut.",
+   "Perusahaan masih menyisakan kewajiban pengalihan sebanyak 104.161.503 lembar saham, setara 10,62 persen dari total saham beredar, yang belum dikembalikan ke publik. Hingga akhir periode laporan, jumlah pemegang saham KOIN tercatat sebanyak 870 pihak."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in a busy Jakarta business district with commuters walking past at midday",
+  "takeaway": "Laporan ini netral bagi fundamental KOIN untuk kuartal berjalan karena tidak ada perubahan komposisi saham yang tercatat, namun nihilnya realisasi refloat pada April-Juni 2026 menunjukkan proses pengembalian saham ke publik yang berlarut-larut sejak tender wajib 2011 belum juga tuntas. Yang tersentuh di sini adalah porsi saham yang benar-benar diperdagangkan bebas di publik, biasa disebut free float, karena makin kecil porsi ini makin tipis likuiditas saham di pasar dan makin besar risiko emiten dikenai sanksi atau pembatasan oleh bursa akibat belum memenuhi syarat minimum kepemilikan publik. Total saham yang masih wajib dilepas pengendali ke publik tersisa 104,16 juta lembar atau 10,62 persen dari seluruh saham KOIN. Yang perlu dipantau berikutnya adalah laporan realisasi periode Juli-September 2026, untuk melihat apakah proses divestasi ini mulai bergerak lagi setelah tiga bulan tanpa transaksi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-cabut-dooh-dari-pemantauan-khusus-mulai-18-september",
+  "category": "Aksi Korporasi",
+  "title": "BEI Cabut DOOH dari [Pemantauan Khusus] Mulai 18 September",
+  "deck": "BEI mencabut saham DOOH dari daftar pemantauan khusus mulai 18 September 2026, setelah sempat masuk akibat penghentian perdagangan lebih dari satu hari bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T17:48:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9d270bc75_19935987bf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "DOOH",
+   "BEI",
+   "pemantauan khusus",
+   "Era Media Sejahtera"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mencabut saham PT Era Media Sejahtera Tbk (DOOH) dari daftar pemantauan khusus (watchlist), berdasarkan pengumuman resmi bernomor Peng-CK-00071/BEI.PLP/09-2026 yang diteken Kadiv Peraturan dan Layanan Perusahaan Tercatat BEI, Teuku Fahmi Ariandar, pada 17 September 2026 pukul 17.48. Akibat pencabutan ini, papan pencatatan DOOH berubah dari Pemantauan Khusus menjadi Papan Pengembangan, efektif mulai 18 September 2026.",
+   "Dalam dokumen itu, BEI menandai kriteria nomor 10 pada saham DOOH dengan status Keluar/Exit. Kriteria tersebut mengatur bahwa saham bisa masuk pemantauan khusus jika pernah dikenakan penghentian sementara perdagangan (suspensi) selama lebih dari satu hari bursa akibat aktivitas perdagangan sahamnya sendiri. Status Keluar/Exit ini menandakan kondisi yang dulu membuat DOOH masuk daftar tersebut sudah tidak lagi berlaku menurut penilaian bursa.",
+   "BEI menetapkan sebelas kriteria yang bisa membuat suatu saham masuk pemantauan khusus, mulai dari harga rata-rata di bawah Rp51 disertai likuiditas rendah, opini disclaimer atas laporan keuangan auditan, tidak membukukan pendapatan, ekuitas negatif, hingga kondisi perusahaan yang dimohonkan PKPU atau pailit. Dokumen pengumuman ini hanya mencantumkan kriteria nomor 10 sebagai alasan status DOOH, tanpa menyebut kriteria lain yang pernah berlaku pada saham tersebut."
+  ],
+  "fotoAdegan": "Modern Jakarta financial district skyscrapers reflecting a cloudy sky, busy street traffic in the foreground, late afternoon",
+  "takeaway": "Kabar ini condong positif bagi DOOH karena bursa menilai kondisi yang sebelumnya membuatnya diawasi ketat, yaitu riwayat penghentian perdagangan akibat aktivitas transaksi sahamnya sendiri, sudah tidak berlaku lagi. Yang tersentuh di sini bukan laporan keuangan seperti ekuitas atau laba, melainkan status likuiditas dan reputasi perdagangan saham. Pemantauan khusus adalah daftar saham berisiko tinggi yang diawasi ketat bursa, dan investor umumnya menghindari saham dalam daftar ini karena dianggap rawan masalah, sehingga keluar dari daftar tersebut bisa memulihkan minat pasar terhadap saham DOOH. Yang perlu dipantau berikutnya adalah bagaimana kondisi DOOH setelah perubahan papan pencatatan efektif pada 18 September 2026, termasuk apakah kinerja dan aktivitas perdagangannya ke depan tetap memenuhi syarat sehingga tidak kembali masuk pemantauan khusus.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pmmp-kena-tambahan-kriteria-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "PMMP Kena Tambahan Kriteria [Pemantauan Khusus] BEI",
+  "deck": "BEI menambahkan kriteria opini disclaimer pada status pemantauan khusus saham PMMP, menyusul harga di bawah Rp51 dan ekuitas negatif, efektif 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T17:46:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23ea2c3ecc_89a68d6b05.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "PMMP",
+   "Pemantauan Khusus",
+   "BEI",
+   "Panca Mitra Multiperdana"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan perubahan status saham PT Panca Mitra Multiperdana Tbk (PMMP) dalam Pemantauan Khusus. Saham ini sebelumnya tercatat di Papan Pengembangan, dan kini masuk Papan Pemantauan Khusus dengan tambahan satu kriteria baru, sehingga total kriteria yang terpenuhi menjadi tiga, yaitu kriteria nomor 1, 2, dan 5. Perubahan ini berlaku efektif mulai 18 September 2026.",
+   "Kriteria nomor 1 berarti harga rata-rata saham PMMP di Pasar Reguler berada di bawah Rp51 per saham, disertai likuiditas rendah, yakni nilai transaksi harian rata-rata di bawah Rp5 juta dan volume transaksi harian rata-rata di bawah 10.000 saham selama tiga bulan terakhir. Kriteria nomor 2, yang baru ditambahkan dalam pengumuman ini, menyebutkan bahwa laporan keuangan auditan terakhir PMMP mendapat opini tidak menyatakan pendapat alias disclaimer dari auditor. Kriteria nomor 5 mencatat bahwa perseroan memiliki ekuitas negatif pada laporan keuangan terakhirnya.",
+   "Pengumuman ditandatangani oleh Teuku Fahmi Ariandar, Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI, dan diterbitkan pada 17 September 2026. Bursa menyebut rincian lengkap daftar efek dalam pemantauan khusus dapat dilihat melalui laman pengumuman resmi IDX."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise office tower in Jakarta's financial district under hazy afternoon light, low angle view",
+  "takeaway": "Penilaian kami negatif, karena tiga kriteria yang kini melekat pada PMMP semuanya menunjuk masalah fundamental, bukan sekadar administratif. Opini disclaimer artinya auditor tidak bisa memastikan kewajaran laporan keuangan perseroan karena bukti pendukung dianggap tidak memadai, ini sinyal kepercayaan yang serius bagi investor. Ekuitas negatif berarti total utang perseroan sudah melebihi total asetnya, sementara likuiditas yang sangat rendah membuat pemegang saham publik akan kesulitan menjual sahamnya tanpa menekan harga lebih jauh. Yang perlu dipantau selanjutnya adalah apakah PMMP mampu memperbaiki kondisi keuangannya sehingga bisa keluar dari status pemantauan khusus, atau justru berlanjut ke risiko lebih berat seperti penghapusan pencatatan jika kriteria ini tidak membaik pasca efektif 18 September 2026.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bahlil-ungkap-sebab-antrean-bbm-makassar-tangki-modifikasi-1-ton",
   "category": "Energi",
   "title": "Bahlil Ungkap Sebab Antrean BBM Makassar, Tangki [Modifikasi] 1 Ton",

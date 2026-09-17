@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bjbs-pefindo-turunkan-peringkat-bank-dan-sukuknya",
+  "category": "Aksi Korporasi",
+  "title": "BJBS: Pefindo [Turunkan] Peringkat Bank dan Sukuknya",
+  "deck": "Pefindo menurunkan peringkat bank bjb syariah dari idAA- menjadi idA+, dan peringkat sukuk subordinasinya dari idA(sy) menjadi idA-(sy), menyusul perubahan peringkat induk perusahaan.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BJBS",
+   "peringkat kredit",
+   "Pefindo",
+   "sukuk subordinasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ee5edc072b_5f9e70af51.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untd-jawab-bursa-hpp-naik-68-8-covenant-bca-tak-terpenuhi",
+  "category": "Aksi Korporasi",
+  "title": "UNTD Jawab Bursa: HPP Naik 68,8%, Covenant BCA [Tak Terpenuhi]",
+  "deck": "UNTD membalas permintaan penjelasan lanjutan BEI dengan rincian kenaikan HPP 68,8%, konsentrasi penjualan 61,2% ke satu distributor, dan covenant EBITDA ke BCA yang belum terpenuhi.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTD",
+   "covenant",
+   "sepeda listrik",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/868d3a7188_5771c9d6f3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "koin-nihil-refloat-saham-kuartal-ii-2026-sisa-wajib-10-62",
+  "category": "Aksi Korporasi",
+  "title": "KOIN Nihil [Refloat] Saham Kuartal II 2026, Sisa Wajib 10,62%",
+  "deck": "Kokoh Inti Arebama (KOIN) tak merealisasikan pengalihan kembali saham pengendali ke publik pada April-Juni 2026; kewajiban divestasi 104,16 juta lembar atau 10,62% saham masih tersisa.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOIN",
+   "refloat saham",
+   "free float",
+   "tender offer"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f6cef76fa_c727b78ecb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-cabut-dooh-dari-pemantauan-khusus-mulai-18-september",
+  "category": "Aksi Korporasi",
+  "title": "BEI Cabut DOOH dari [Pemantauan Khusus] Mulai 18 September",
+  "deck": "BEI mencabut saham DOOH dari daftar pemantauan khusus mulai 18 September 2026, setelah sempat masuk akibat penghentian perdagangan lebih dari satu hari bursa.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "BEI",
+   "pemantauan khusus",
+   "Era Media Sejahtera"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9d270bc75_19935987bf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pmmp-kena-tambahan-kriteria-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "PMMP Kena Tambahan Kriteria [Pemantauan Khusus] BEI",
+  "deck": "BEI menambahkan kriteria opini disclaimer pada status pemantauan khusus saham PMMP, menyusul harga di bawah Rp51 dan ekuitas negatif, efektif 18 September 2026.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PMMP",
+   "Pemantauan Khusus",
+   "BEI",
+   "Panca Mitra Multiperdana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23ea2c3ecc_89a68d6b05.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bahlil-ungkap-sebab-antrean-bbm-makassar-tangki-modifikasi-1-ton",
   "category": "Energi",
   "title": "Bahlil Ungkap Sebab Antrean BBM Makassar, Tangki [Modifikasi] 1 Ton",
@@ -6416,86 +6496,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffa2f908ee_304ec3a604.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "visi-rampungkan-tender-wajib-nihil-saham-publik-terjual",
-  "category": "Aksi Korporasi",
-  "title": "VISI Rampungkan Tender Wajib, [Nihil] Saham Publik Terjual",
-  "deck": "PT Harmoni Semesta Investama merampungkan penawaran tender wajib atas saham VISI senilai maksimal Rp325 miliar, namun tak ada pemegang saham publik yang menjual sahamnya.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "tender wajib",
-   "pengambilalihan",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b26f37c837_f86471639e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apia-pertahankan-rating-idaaa-laba-semester-i-turun-tajam",
-  "category": "Aksi Korporasi",
-  "title": "APIA pertahankan rating [idAAA], laba semester I turun tajam",
-  "deck": "PEFINDO menegaskan peringkat idAAA stabil untuk Angkasa Pura Indonesia dan seluruh obligasi serta sukuknya, meski laba bersih semester I 2026 menyusut tajam.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APIA",
-   "PEFINDO",
-   "obligasi",
-   "peringkat kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9f74bad2ea_eaf84b3a4b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apai-pertahankan-peringkat-idaaa-ekuitas-turun-rp6-7-t",
-  "category": "Aksi Korporasi",
-  "title": "APAI Pertahankan Peringkat [idAAA], Ekuitas Turun Rp6,7 T",
-  "deck": "PEFINDO mempertahankan peringkat idAAA stabil untuk APAI dan sembilan obligasi/sukuknya, meski ekuitas perusahaan turun Rp6,7 triliun dalam enam bulan terakhir.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APAI",
-   "PEFINDO",
-   "obligasi",
-   "peringkat kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c9525d4939_1d055e7838.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lckm-disuspensi-bursa-imbas-ketidakpastian-usaha",
-  "category": "Aksi Korporasi",
-  "title": "LCKM [Disuspensi] Bursa Imbas Ketidakpastian Usaha",
-  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham LCKM di seluruh pasar mulai sesi II Kamis, 10 September 2026, menyusul ketidakpastian kelangsungan usaha perseroan.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LCKM",
-   "suspensi saham",
-   "going concern",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b5a671b8af_c3817c16cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekad-ungkap-fujian-kuasai-51-saham-eip-susut-ke-31",
-  "category": "Aksi Korporasi",
-  "title": "EKAD Ungkap Fujian Kuasai [51%] Saham, EIP Susut ke 31%",
-  "deck": "Ekadharma International (EKAD) merinci ke Bursa struktur kepemilikan baru pascaakuisisi oleh Fujian Youjia, sementara harga pembelian saham masih belum ditetapkan.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EKAD",
-   "akuisisi",
-   "Fujian Youjia",
-   "pengendali saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8bbf5a4d99_7859c60970.pdf",
   "sourceLabel": "IDX"
  }
 ];

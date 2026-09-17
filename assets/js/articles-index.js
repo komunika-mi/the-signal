@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "boss-undur-rups-ke-29-oktober-audit-3-tahun-buku-belum-kelar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Undur RUPS ke 29 Oktober, [Audit] 3 Tahun Buku Belum Kelar",
+  "deck": "RUPS Tahunan BOSS untuk tahun buku 2023 diundur ke 29 Oktober 2026, sementara akuntan publik menyatakan audit laporan keuangan 2023, 2024, dan 2025 masih berjalan.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "Audit",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d54025b06d_d25c7c2403.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-jadwalkan-public-expose-tahunan-pada-1-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [Public Expose] Tahunan pada 1 Oktober 2026",
+  "deck": "WIKA akan menggelar Public Expose Tahunan secara daring pada 1 Oktober 2026, forum publik pertama sejak peringkat obligasinya diturunkan ke status gagal bayar.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "Public Expose",
+   "Wijaya Karya",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4dfd9286c3_3ccab7b376.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pmjs-belum-penuhi-syarat-free-float-masih-kaji-opsi",
+  "category": "Aksi Korporasi",
+  "title": "PMJS Belum Penuhi Syarat [Free Float], Masih Kaji Opsi",
+  "deck": "PT Putra Mandiri Jembar Tbk menjawab permintaan penjelasan Bursa Efek Indonesia soal kewajiban minimum saham beredar bebas yang belum terpenuhi.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PMJS",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/21d3d6713f_c969349488.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "link-jadwalkan-rupslb-26-oktober-2026-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "LINK Jadwalkan RUPSLB [26 Oktober 2026], Agenda Menyusul",
+  "deck": "Link Net akan menggelar RUPSLB pada 26 Oktober 2026 secara fisik dan elektronik. Pemanggilan resmi berisi agenda baru terbit 2 Oktober 2026.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LINK",
+   "RUPSLB",
+   "Link Net",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/07707eae69_6d671ea9bb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unsp-jelaskan-metode-revaluasi-aset-ke-bursa-efek-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Jelaskan Metode [Revaluasi] Aset ke Bursa Efek Indonesia",
+  "deck": "Bakrie Sumatera Plantations menjawab permintaan penjelasan BEI soal perubahan kebijakan akuntansi revaluasi aset tanah dan tanaman produktif di sembilan entitas anak.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "revaluasi aset",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a851623875_9136329a9e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "city-belum-penuhi-syarat-free-float-minimum-janji-oktober",
+  "category": "Aksi Korporasi",
+  "title": "CITY belum penuhi syarat [free float] minimum, janji Oktober",
+  "deck": "Natura City Developments menjelaskan ke Bursa bahwa porsi sahamnya yang beredar di publik belum capai batas minimum 15 persen, dan berjanji memenuhinya paling lambat akhir Oktober 2026.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CITY",
+   "free float",
+   "BEI",
+   "kepatuhan emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d3a85a1979_75ff646ca6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hygn-bagi-dividen-rp3-saham-luncurkan-unit-bisnis-udara-bersih",
+  "category": "Aksi Korporasi",
+  "title": "HYGN Bagi [Dividen] Rp3/Saham, Luncurkan Unit Bisnis Udara Bersih",
+  "deck": "Ecocare Indo Pasifik (HYGN) memaparkan materi public expose tahunan, termasuk pembagian dividen Rp3 per saham dan peluncuran unit bisnis ecoCare Pure Air.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HYGN",
+   "dividen",
+   "public expose",
+   "Ecocare Indo Pasifik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6048d57af0_7ef3b45f0e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "yupi-baru-penuhi-10-free-float-kejar-12-5-di-2027",
+  "category": "Aksi Korporasi",
+  "title": "YUPI Baru Penuhi 10% [Free Float], Kejar 12,5% di 2027",
+  "deck": "Yupi Indo Jelly Gum menjelaskan ke BEI bahwa free float sahamnya baru 10%, dengan target bertahap 12,5% pada Maret 2027 dan 15% pada Maret 2028.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YUPI",
+   "free float",
+   "BEI",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/14deacd12e_f44d33f869.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smra-laporkan-pengurangan-modal-rp10-m-di-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "SMRA Laporkan [Pengurangan] Modal Rp10 M di Anak Usaha",
+  "deck": "Summarecon Agung melaporkan transaksi afiliasi berupa pengurangan modal PT Kharisma Intan Properti senilai Rp10 miliar, yang sahamnya dipegang oleh anak usaha lain, PT Summarecon Investment Property.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMRA",
+   "transaksi afiliasi",
+   "Summarecon Agung",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ce86baad8_21b65074a1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kkgi-bagikan-dividen-tunai-rp97-47-miliar-tahun-buku-2025",
+  "category": "Aksi Korporasi",
+  "title": "KKGI Bagikan [Dividen] Tunai Rp97,47 Miliar Tahun Buku 2025",
+  "deck": "Resource Alam Indonesia menetapkan dividen tunai Rp20 per saham senilai total Rp97,47 miliar, dibayar paling lambat 15 Oktober 2026.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KKGI",
+   "dividen tunai",
+   "Resource Alam Indonesia",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2b17cf85a3_5b3c0582e4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sanf-rombak-susunan-direksi-dan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "SANF Rombak Susunan [Direksi] dan Komisaris",
+  "deck": "SANF mengganti direktur dan komisaris usai dua pejabat mengundurkan diri; tiga pengurus baru menunggu hasil fit and proper test OJK sebelum resmi menjabat.",
+  "date": "17 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SANF",
+   "pergantian direksi",
+   "komisaris",
+   "ASTRA Financial"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/758dd2f039_8d2c19196e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penilaian-bkpm-76-persen-layanan-investasi-masuk-kategori-baik",
   "category": "Bisnis",
   "title": "Penilaian BKPM: 76 Persen Layanan Investasi Masuk [Kategori] Baik",
@@ -6319,182 +6495,6 @@ var ARTICLES = [
    "laporan tahunan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1365af1381_8bd3b81d48.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cani-koreksi-pengurus-komisaris-utama-beralih-ke-ang-kok-tian",
-  "category": "Aksi Korporasi",
-  "title": "CANI Koreksi Pengurus, [Komisaris Utama] Beralih ke Ang Kok Tian",
-  "deck": "CANI mengoreksi laporan perubahan pengurus: Ang Kok Tian jadi Komisaris Utama, Jansen Warokka jadi Komisaris Independen, menggantikan Richie Limson dan Heryanto Cokro yang mengundurkan diri.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CANI",
-   "Capitol Nusantara Indonesia",
-   "Komisaris Utama",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0204cc6ad_a2a932ae3e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dkhh-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "DKHH Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Menjawab surat resmi Bursa Efek Indonesia soal volatilitas transaksi efeknya, direksi DKHH menegaskan tidak ada informasi material atau rencana aksi korporasi di baliknya.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DKHH",
-   "Cipta Sarana Medika",
-   "Bursa Efek Indonesia",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2de61cebc7_d9f9172b18.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smii-dana-obligasi-rp2-triliun-baru-49-9-tersalur-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "SMII: Dana Obligasi Rp2 Triliun Baru 49,9% Tersalur [obligasi]",
-  "deck": "SMII melapor ke OJK: sukuk mudharabah Rp500 miliar sudah 100% tersalur, sementara obligasi Rp2 triliun baru 49,86% terpakai per Juli 2026, sisanya masih mengendap di deposito.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMII",
-   "obligasi",
-   "sukuk mudharabah",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fc7ccb21ee_33bd2e2170.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "agii-siapkan-dana-rp72-5-miliar-untuk-pelunasan-obligasi-dan-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "AGII Siapkan Dana Rp72,5 Miliar untuk [Pelunasan] Obligasi dan Sukuk",
-  "deck": "Samator Indo Gas Tbk menyatakan dana pelunasan pokok obligasi dan sukuk ijarah senilai total Rp72,5 miliar yang jatuh tempo 10 Oktober 2026 sudah tersedia di rekening perusahaan.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGII",
-   "obligasi",
-   "sukuk ijarah",
-   "Samator Indo Gas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/95a8e33da7_497181d1d3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oliv-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "OLIV Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "BEI meminta penjelasan atas volatilitas transaksi saham OLIV. Manajemen menjawab tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OLIV",
-   "volatilitas saham",
-   "BEI",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6dac3d4e5e_210885e020.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "reli-free-float-14-45-pendapatan-transaksi-naik-31",
-  "category": "Aksi Korporasi",
-  "title": "RELI: Free Float 14,45%, [Pendapatan] Transaksi Naik 31%",
-  "deck": "Sesi tanya jawab public expose RELI mengungkap free float baru 14,45%, pendapatan transaksi semester I 2026 naik 31,22%, dan posisi market share di urutan 47-48.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RELI",
-   "Public Expose",
-   "Free Float",
-   "Sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9ed729c43_eeabbd53e7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "irra-tegaskan-tak-ada-info-material-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "IRRA Tegaskan Tak Ada Info Material soal [Volatilitas] Saham",
-  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Itama Ranoraya (IRRA) menyatakan tidak ada informasi material, rencana aksi korporasi, atau perubahan kepemilikan pemegang saham utama.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IRRA",
-   "Itama Ranoraya",
-   "Bursa Efek Indonesia",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9cae5e897_2160d2c13b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-baru-capai-1-85-juta-pelanggan-target-3-juta-fwa",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Baru Capai 1,85 Juta Pelanggan, Target 3 Juta [FWA]",
-  "deck": "Dalam public expose tahunan, manajemen WIFI memaparkan realisasi Capex Rp1 triliun semester I 2026 dari total anggaran Rp7 triliun, serta progres pelanggan FWA dan FTTH menuju target akhir tahun.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "Public Expose",
-   "Telekomunikasi",
-   "FWA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7961d860b0_ebdbe5e1d7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pola-konfirmasi-rencana-pelepasan-26-saham-oleh-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "POLA konfirmasi rencana [pelepasan] 26% saham oleh pengendali",
-  "deck": "Menjawab permintaan BEI soal volatilitas transaksi, Pool Advista Finance (POLA) menegaskan tidak ada info material baru, tapi membenarkan rencana pemegang saham pengendali melepas hingga 26% saham.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POLA",
-   "volatilitas saham",
-   "pemegang saham pengendali",
-   "POOL"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/435e1fcff8_2bd8c0e26c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nayz-gelar-rupslb-tegaskan-pengendali-baru-saiko-consultancy",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ Gelar RUPSLB, Tegaskan [Pengendali] Baru Saiko Consultancy",
-  "deck": "RUPSLB PT Hassana Boga Sejahtera Tbk pada 2 Oktober 2026 akan mengesahkan pengendali baru Saiko Consultancy Pte. Ltd. dan mengubah susunan direksi-komisaris.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NAYZ",
-   "RUPSLB",
-   "Hassana Boga Sejahtera",
-   "Saiko Consultancy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97e382440c_d778bbccdb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hdfa-pembiayaan-baru-turun-41-4-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "HDFA: Pembiayaan Baru [Turun 41,4%] di Semester I-2026",
-  "deck": "Public Expose Tahunan HDFA mengungkap pembiayaan baru semester I-2026 turun 41,4 persen yoy karena kehati-hatian di sektor tambang dan perkebunan yang mendominasi portofolio.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HDFA",
-   "public expose",
-   "multifinance",
-   "pembiayaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/73c4041bda_8dcb9e0d96.pdf",
   "sourceLabel": "IDX"
  }
 ];

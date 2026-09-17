@@ -3,6 +3,292 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "boss-undur-rups-ke-29-oktober-audit-3-tahun-buku-belum-kelar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Undur RUPS ke 29 Oktober, [Audit] 3 Tahun Buku Belum Kelar",
+  "deck": "RUPS Tahunan BOSS untuk tahun buku 2023 diundur ke 29 Oktober 2026, sementara akuntan publik menyatakan audit laporan keuangan 2023, 2024, dan 2025 masih berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T17:25:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d54025b06d_d25c7c2403.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "Audit",
+   "Laporan Keuangan"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk. (BOSS) mengumumkan perubahan jadwal Rapat Umum Pemegang Saham Tahunan dan Luar Biasa untuk tahun buku yang berakhir 31 Desember 2023. Melalui surat No 12.157/SL.e/Corsec/BOSS/IX/2026 tertanggal 17 September 2026, yang merujuk surat sebelumnya No 12.137/SL.e/Corsec/BOSS/IX/2026, perseroan menetapkan RUPS akan digelar di Jakarta pada Kamis, 29 Oktober 2026, pukul 10.00 WIB. Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per 6 Oktober 2026. Surat pemberitahuan ini ditandatangani oleh Direktur BOSS, Widodo Nurly S.",
+   "RUPS ini sejatinya adalah RUPS Tahunan untuk tahun buku 2023, yang menurut aturan bursa mestinya digelar paling lambat enam bulan setelah tahun buku berakhir, atau sekitar Juni 2024. Dengan jadwal baru pada akhir Oktober 2026, penyelenggaraannya tertunda hampir tiga tahun dari batas normal tersebut.",
+   "Dalam lampiran kedua, Kantor Akuntan Publik Mohammad Sunusi & Rekan menerbitkan surat keterangan bernomor 0131/S/MSR-MMS/IX/2026, tertanggal 16 September 2026, yang menyatakan bahwa PT Borneo Olah Sarana Sukses dan entitas anak saat ini masih dalam proses audit atas laporan keuangan untuk tiga tahun buku sekaligus, yakni yang berakhir pada 31 Desember 2023, 2024, dan 2025. Surat ini ditandatangani oleh Martogi Marojahan Sitinjak, CPA, selaku partner kantor akuntan tersebut."
+  ],
+  "fotoAdegan": "Exterior view of a modern high-rise office building in Jakarta's business district at dusk, facade lights turning on",
+  "takeaway": "Laporan ini condong negatif bagi emiten, karena RUPS Tahunan untuk tahun buku 2023 baru terlaksana pada akhir Oktober 2026, hampir tiga tahun melewati tenggat normal, dan itu menandakan BOSS tertinggal jauh dalam kewajiban pelaporan keuangannya. Pos yang tersentuh adalah laporan keuangan auditan itu sendiri: karena akuntan publik menyebut audit tahun buku 2023, 2024, dan 2025 masih berjalan bersamaan, investor belum bisa melihat kondisi ekuitas, arus kas, maupun beban utang perusahaan selama tiga tahun terakhir, sehingga sulit menilai apakah kinerjanya membaik atau memburuk. Ketertinggalan pelaporan sebesar ini biasanya berkaitan dengan status saham yang ditahan perdagangannya oleh otoritas bursa sampai laporan keuangan rampung. Yang perlu dipantau berikutnya adalah apakah audit ketiga tahun buku itu benar-benar selesai sebelum RUPS digelar pada 29 Oktober 2026, dan agenda apa saja yang akan dibawa dalam RUPS Luar Biasa yang digabung dalam jadwal yang sama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-jadwalkan-public-expose-tahunan-pada-1-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [Public Expose] Tahunan pada 1 Oktober 2026",
+  "deck": "WIKA akan menggelar Public Expose Tahunan secara daring pada 1 Oktober 2026, forum publik pertama sejak peringkat obligasinya diturunkan ke status gagal bayar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T17:07:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4dfd9286c3_3ccab7b376.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "Public Expose",
+   "Wijaya Karya",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) melaporkan ke Bursa Efek Indonesia rencana penyelenggaraan Public Expose Tahunan untuk tahun buku 2026. Acara dijadwalkan berlangsung Kamis, 1 Oktober 2026, pukul 10.00 sampai 11.00 WIB, secara daring melalui Zoom Meeting dengan ID 806 358 0453 dan passcode pubexwika, atau lewat tautan yang dicantumkan perseroan dalam suratnya ke bursa. Agenda yang tercantum adalah Corporate Update.",
+   "Perseroan menyebutkan acara ini akan dihadiri jajaran Direksi WIKA, dan materi paparan wajib disampaikan ke publik lewat situs web Bursa Efek Indonesia paling lambat pada hari pelaksanaan, 1 Oktober 2026. Surat pemberitahuan ini merujuk pada Peraturan Bursa Nomor I-E tentang Kewajiban Penyampaian Informasi, dan ditandatangani secara elektronik oleh Corporate Secretary WIKA, Mahendra Vijaya.",
+   "Laporan ini muncul kurang dari sepekan setelah PEFINDO menurunkan peringkat empat obligasi WIKA ke level idD dan idD(sy), peringkat terendah yang menandakan status gagal bayar. Belum ada rincian tambahan soal rencana restrukturisasi utang dalam surat ini, karena isinya terbatas pada jadwal dan tata cara mengikuti acara."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting rebar and scaffolding at a large highrise construction site, cranes overhead, midday light",
+  "takeaway": "Laporan ini sendiri netral karena isinya cuma jadwal acara, tidak memuat angka kinerja atau keputusan korporasi baru, tapi momennya penting untuk dipantau karena ini forum publik pertama WIKA sejak PEFINDO menurunkan peringkat empat obligasinya ke level gagal bayar pekan lalu. Public Expose adalah forum tahunan wajib bagi emiten untuk memaparkan kondisi bisnis ke investor dan analis, dan agenda Corporate Update di sini biasanya jadi kesempatan direksi menjelaskan posisi arus kas serta langkah pembayaran utang setelah sebuah perusahaan gagal bayar. Investor dan pemegang obligasi WIKA perlu mencatat paparan pada Kamis, 1 Oktober 2026 pukul 10.00 WIB, sebab materinya wajib diunggah ke situs Bursa Efek Indonesia paling lambat hari itu juga dan menjadi kesempatan pertama manajemen menjawab langsung ke publik soal status gagal bayar tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pmjs-belum-penuhi-syarat-free-float-masih-kaji-opsi",
+  "category": "Aksi Korporasi",
+  "title": "PMJS Belum Penuhi Syarat [Free Float], Masih Kaji Opsi",
+  "deck": "PT Putra Mandiri Jembar Tbk menjawab permintaan penjelasan Bursa Efek Indonesia soal kewajiban minimum saham beredar bebas yang belum terpenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T16:58:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/21d3d6713f_c969349488.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PMJS",
+  "tags": [
+   "PMJS",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan emiten"
+  ],
+  "body": [
+   "PT Putra Mandiri Jembar Tbk (PMJS) menyampaikan jawaban resmi kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-11742/BEI.PP1/09-2026 tentang pemenuhan kewajiban saham free float sesuai Ketentuan V.1.1 Peraturan Bursa Nomor I-A. Jawaban perusahaan tertuang dalam surat nomor 023/CORPSEC/PMJS/IX/2026 tertanggal 17 September 2026 pukul 16.58, yang ditandatangani oleh Direktur Utama Ie Putra.",
+   "Dalam surat itu, PMJS menyatakan tiga hal. Pertama, perusahaan masih mempertimbangkan aksi korporasi yang paling sesuai dengan kondisi perseroan maupun ketentuan bursa saat ini untuk memenuhi kewajiban minimum free float, tanpa menyebut jenis aksi korporasi yang dimaksud. Kedua, perusahaan menyatakan berkomitmen memenuhi ketentuan tersebut sesuai batas waktu yang diatur dalam Surat Keputusan Direksi Bursa Nomor Kep-00045/BEI/03-2026 tentang perubahan Peraturan I-A. Ketiga, PMJS menegaskan akan memenuhi syarat jumlah saham free float paling sedikit 15 persen dari total saham yang tercatat, agar sahamnya tetap bisa diperdagangkan di bursa.",
+   "Bursa sebelumnya meminta PMJS menyampaikan penjelasan ini paling lambat 5 hari bursa sejak permintaan diterima, melalui sistem pelaporan elektronik SPE-IDXnet. Bursa menyebut jawaban ini akan menjadi salah satu pertimbangan dalam menentukan kebijakan terkait status free float perusahaan."
+  ],
+  "fotoAdegan": "Wide exterior view of modern glass office towers in Jakarta's central business district under late afternoon light.",
+  "takeaway": "Jawaban ini condong negatif bagi PMJS, karena perusahaan mengonfirmasi belum memenuhi syarat minimum saham beredar bebas dan belum punya rencana konkret, hanya menyebut 'masih mempertimbangkan' opsi tanpa detail langkah maupun jadwalnya. Yang tersentuh di sini adalah jumlah saham beredar bebas atau free float, yakni porsi saham yang dipegang publik dan bisa diperjualbelikan sehari-hari di pasar. Bursa memantau angka ini karena free float yang terlalu kecil membuat saham sepi transaksi dan rentan digerakkan harga oleh sedikit pihak, sehingga ada ambang minimum yang wajib dijaga agar saham tetap tercatat. Yang perlu dipantau selanjutnya adalah aksi korporasi konkret yang akan diambil PMJS untuk menambah porsi saham publik, serta apakah perusahaan bisa memenuhi tenggat yang ditetapkan dalam Surat Keputusan Direksi Bursa Kep-00045/BEI/03-2026, karena dokumen ini belum menyebut tanggal batas akhir yang pasti.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "link-jadwalkan-rupslb-26-oktober-2026-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "LINK Jadwalkan RUPSLB [26 Oktober 2026], Agenda Menyusul",
+  "deck": "Link Net akan menggelar RUPSLB pada 26 Oktober 2026 secara fisik dan elektronik. Pemanggilan resmi berisi agenda baru terbit 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T16:49:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/07707eae69_6d671ea9bb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LINK",
+  "tags": [
+   "LINK",
+   "RUPSLB",
+   "Link Net",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Link Net Tbk (LINK) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 26 Oktober 2026 pukul 10.00 WIB. Rapat akan digelar secara fisik sekaligus elektronik melalui fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, sementara lokasi fisiknya belum diumumkan perseroan.",
+   "Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat dalam Daftar Pemegang Saham perseroan atau rekening efeknya terdaftar di KSEI pada penutupan perdagangan Kamis, 1 Oktober 2026 pukul 16.00 WIB. Pemanggilan resmi yang memuat mata acara rapat baru akan disampaikan pada Jumat, 2 Oktober 2026 melalui situs web Bursa Efek Indonesia, sistem eASY.KSEI, dan situs Link Net.",
+   "Perseroan juga membuka kesempatan bagi pemegang saham yang mewakili sedikitnya 1/20 atau 5 persen dari total saham berhak suara untuk mengusulkan mata acara rapat. Usulan tersebut harus diterima direksi selambatnya Jumat, 25 September 2026 pukul 16.00 WIB, diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, disertai alasan dan bahan usulan, serta tidak bertentangan dengan anggaran dasar maupun peraturan yang berlaku. Untuk hadir atau memberi suara, pemegang saham dianjurkan menggunakan fasilitas eASY.KSEI atau memberikan kuasa, baik secara elektronik maupun konvensional kepada PT Sharestar Indonesia selaku biro administrasi efek perseroan."
+  ],
+  "fotoAdegan": "Rows of empty conference hall chairs facing a stage, staff arranging microphones and cables before a corporate shareholders meeting",
+  "takeaway": "Pengumuman ini netral bagi Link Net karena baru sebatas jadwal prosedural RUPSLB, belum memuat satu pun agenda atau keputusan korporasi yang bisa dinilai arah dampaknya. RUPSLB sendiri adalah forum tertinggi pemegang saham untuk mengambil keputusan strategis, misalnya perubahan jumlah saham beredar, susunan direksi dan komisaris, atau pembagian dividen, yang semuanya bisa memengaruhi laba per saham dan hak suara pemegang saham, sehingga pelaku pasar biasanya menunggu isi agendanya sebelum bereaksi. Yang perlu dipantau selanjutnya adalah batas waktu usulan agenda oleh pemegang saham pada 25 September 2026, pemanggilan resmi berisi mata acara rapat pada 2 Oktober 2026, dan pelaksanaan RUPSLB pada 26 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "unsp-jelaskan-metode-revaluasi-aset-ke-bursa-efek-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Jelaskan Metode [Revaluasi] Aset ke Bursa Efek Indonesia",
+  "deck": "Bakrie Sumatera Plantations menjawab permintaan penjelasan BEI soal perubahan kebijakan akuntansi revaluasi aset tanah dan tanaman produktif di sembilan entitas anak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T16:19:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a851623875_9136329a9e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNSP",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "revaluasi aset",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bakrie Sumatera Plantations Tbk (UNSP) menyampaikan tanggapan resmi atas surat Bursa Efek Indonesia No. S-12076/BEI.PP1/09-2026 tanggal 16 September 2026 yang meminta penjelasan soal perubahan kebijakan akuntansi perusahaan. Melalui surat bernomor 042/CS-BSP/KIK/IX/2026 tertanggal 17 September 2026, Corporate Secretary UNSP Aditya Indrajati menjelaskan bahwa penilaian ulang atas aset tanah dan tanaman produktif dari model biaya menjadi model revaluasi, sesuai PSAK 216 paragraf 36-38, hanya diterapkan pada perusahaan induk dan sembilan entitas anak yang memang memiliki aset tersebut, yakni PT Bakrie Pasaman Plantations, PT Agrowiyana, PT Monrad Intan Barakat, PT Agro Mitra Madani, PT Grahadura Leidongprima, PT Citalaras Cipta Indonesia, PT Sumbertama Nusapertiwi, PT Huma Indah Mekar, dan PT Air Muring. Perusahaan menegaskan revaluasi ini diterapkan serentak pada periode dan tanggal penilaian yang sama, sementara aset tetap lainnya tetap memakai model biaya.",
+   "Dalam surat itu, UNSP merinci metodologi penilaian dari Kantor Jasa Penilai Publik (KJPP). Untuk aset tanah, penilai memakai metode perbandingan pasar dengan tiga data pembanding di tiap lokasi, misalnya tanah UNSP di Sumatera Utara dibandingkan dengan lahan di Kecamatan Rahuning, Sei Kepayang Timur, dan Bandar Pulau di Kabupaten Asahan, sementara lahan anak usaha di Sumatera Barat, Jambi, Lampung, Bengkulu, dan Kalimantan Selatan masing-masing dibandingkan dengan tiga lokasi setempat. Untuk aset tanaman produktif, penilai memakai metode discounted cash flow dengan proyeksi harga jual tandan buah segar jangka panjang Rp3.025 sampai Rp3.556 per kilogram dan harga karet Rp20.802 sampai Rp33.572 per kilogram, serta tingkat diskonto 10,6 persen yang berasal dari cost of equity 12,37 persen dan cost of debt 9,43 persen dengan komposisi ekuitas 40 persen dan utang 60 persen.",
+   "UNSP juga menjelaskan bahwa kenaikan total aset di masing-masing entitas anak per 31 Agustus 2026 terutama berasal dari kenaikan nilai aset tanah dan tanaman akibat perubahan model akuntansi tersebut, bukan faktor lain seperti akuisisi atau ekspansi lahan baru. Perusahaan menyatakan revaluasi hanya diterapkan pada kelompok tanah dan tanaman produktif karena keduanya dianggap aset operasional utama penghasil arus kas, dan menutup surat dengan menegaskan tidak ada informasi atau fakta material lain yang dapat memengaruhi kelangsungan usaha maupun harga saham perusahaan."
+  ],
+  "fotoAdegan": "Workers walking along a rubber plantation row at sunrise, misty tropical fields in rural Sumatra, distant hills",
+  "takeaway": "Penjelasan ini netral bagi UNSP karena hanya menjawab pertanyaan teknis Bursa soal dasar penilaian, tanpa mengubah angka ekuitas positif Rp2,76 triliun yang sudah lebih dulu diumumkan. Yang disentuh adalah keandalan metode di balik kenaikan ekuitas itu, sebab revaluasi aset tanah dan tanaman berarti nilai buku perusahaan naik dari penilaian ulang oleh penilai independen, bukan dari laba operasional atau kas yang benar-benar masuk, sehingga pelaku pasar wajar mempertimbangkan bahwa kualitas kenaikan ekuitas ini berbeda dari laba riil. Fakta bahwa Bursa sampai mengirim surat permintaan penjelasan resmi menunjukkan ada perhatian ekstra atas kewajaran revaluasi ini, meski jawaban UNSP merujuk pada standar akuntansi PSAK 216 dan metodologi penilaian yang lazim dipakai untuk properti dan perkebunan. Yang perlu dipantau selanjutnya adalah apakah Bursa menerima penjelasan ini atau justru meminta klarifikasi lanjutan, serta apakah laporan keuangan resmi periode berikutnya mencantumkan revaluasi ini secara konsisten dengan angka yang sudah diumumkan sebelumnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "city-belum-penuhi-syarat-free-float-minimum-janji-oktober",
+  "category": "Aksi Korporasi",
+  "title": "CITY belum penuhi syarat [free float] minimum, janji Oktober",
+  "deck": "Natura City Developments menjelaskan ke Bursa bahwa porsi sahamnya yang beredar di publik belum capai batas minimum 15 persen, dan berjanji memenuhinya paling lambat akhir Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T16:12:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d3a85a1979_75ff646ca6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CITY",
+  "tags": [
+   "CITY",
+   "free float",
+   "BEI",
+   "kepatuhan emiten"
+  ],
+  "body": [
+   "PT Natura City Developments Tbk (CITY) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-11731/BEI.PP1/09-2026 tertanggal 10 September 2026, terkait pemenuhan ketentuan jumlah saham free float. Berdasarkan Ketentuan V.1.1 Peraturan Bursa Nomor I-A, perusahaan tercatat wajib menjaga saham yang beredar di publik atau free float paling sedikit 15 persen dari total saham tercatat. Bursa memantau laporan registrasi kepemilikan saham CITY per 30 Juni 2026 dan menyimpulkan perusahaan belum memenuhi ambang batas tersebut.",
+   "Dalam surat balasannya yang dikirim melalui Corporate Secretary Rio Tinto Sirait pada 17 September 2026, manajemen CITY mengakui belum memenuhi ketentuan itu dan menyatakan persoalan free float masih dalam pembahasan internal manajemen. Perusahaan menyebut sampai saat ini tidak ada kendala yang dihadapi dalam proses tersebut, dan menargetkan pemenuhan kewajiban free float selambat lambatnya akhir Oktober 2026. CITY juga menyatakan belum memerlukan dukungan dari Bursa untuk memenuhi kewajiban ini dan tidak ada informasi lain yang relevan untuk disampaikan.",
+   "Surat penjelasan ini merupakan respons wajib atas permintaan Bursa, yang mengharuskan perusahaan tercatat menjawab paling lambat 5 hari bursa sejak permintaan diterima. Jawaban disampaikan melalui sistem pelaporan elektronik SPE-IDXnet menggunakan form E074, dan hasilnya akan menjadi bahan pertimbangan Bursa dalam menentukan kebijakan lebih lanjut terkait status free float CITY."
+  ],
+  "fotoAdegan": "Wide exterior view of a modern high-rise property development with cranes under a hazy Bogor sky, midday",
+  "takeaway": "Laporan ini condong negatif bagi CITY, karena perusahaan sendiri mengonfirmasi belum memenuhi syarat minimum free float sampai pertengahan September 2026, sementara jawabannya ke Bursa hanya berupa janji tanggal tanpa langkah konkret yang dijelaskan, seperti lewat penjualan saham oleh pemegang saham pengendali atau aksi korporasi lain. Free float adalah porsi saham yang beredar bebas di tangan publik, di luar pemegang saham pengendali dan afiliasinya. Pelaku pasar memperhatikan angka ini karena semakin kecil porsi saham publik, semakin tipis pula saham yang benar benar bisa diperjualbelikan, sehingga harga lebih mudah bergerak liar dan saham berisiko kena sanksi administratif dari Bursa kalau ketentuan terus tidak dipenuhi. Yang perlu dipantau adalah realisasi janji CITY memenuhi syarat 15 persen itu paling lambat akhir Oktober 2026, serta apakah Bursa menerima penjelasan ini atau meminta langkah lanjutan setelah tenggat tersebut lewat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "hygn-bagi-dividen-rp3-saham-luncurkan-unit-bisnis-udara-bersih",
+  "category": "Aksi Korporasi",
+  "title": "HYGN Bagi [Dividen] Rp3/Saham, Luncurkan Unit Bisnis Udara Bersih",
+  "deck": "Ecocare Indo Pasifik (HYGN) memaparkan materi public expose tahunan, termasuk pembagian dividen Rp3 per saham dan peluncuran unit bisnis ecoCare Pure Air.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T16:06:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6048d57af0_7ef3b45f0e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HYGN",
+  "tags": [
+   "HYGN",
+   "dividen",
+   "public expose",
+   "Ecocare Indo Pasifik"
+  ],
+  "body": [
+   "PT Ecocare Indo Pasifik Tbk (HYGN) menyampaikan materi public expose tahunan ke Bursa Efek Indonesia pada 17 September 2026, sebagai tindak lanjut dari rencana pelaksanaan public expose yang telah diumumkan lewat surat tertanggal 8 September 2026. Salah satu poin utama dalam materi tersebut adalah rincian penggunaan laba bersih tahun buku 2025 sebesar Rp19,71 miliar, tepatnya Rp19.714.109.181. Dari jumlah itu, Rp7,49 miliar atau 38,01 persen dibagikan sebagai dividen tunai kepada pemegang saham, setara Rp3 per lembar saham. Sisanya, Rp12,22 miliar, ditahan sebagai laba ditahan untuk memperkuat modal internal perusahaan.",
+   "Materi tersebut juga memuat struktur pemegang saham pengendali per akhir 2025. Hendrik Yong menguasai 47,53 persen saham dan menjabat Komisaris Utama, Hermes Thamrin 19,80 persen sebagai Komisaris, Rondy Yunanda 8,04 persen, dan Wincent Yunanda yang menjabat Direktur Utama memegang 3,96 persen. Sisanya, 20,67 persen, dimiliki publik. Jajaran direksi lain yang disebutkan adalah Heny Cahyadi, Flora Chandra, dan Sudaryanto, sementara di jajaran komisaris ada tambahan Alwi Kosasih sebagai Komisaris Independen.",
+   "Dari sisi bisnis, HYGN memaparkan perluasan armada kendaraan listrik dari 10 unit motor listrik pada 2024 menjadi 52 unit per Mei 2026, terdiri dari 50 motor listrik dan 2 mobil listrik. Perusahaan juga mengumumkan peluncuran tiga inisiatif baru: ecoCare Pure Air, unit bisnis pemantauan kualitas udara berbasis internet of things (IoT); ecoCare Scent Nano, sistem distribusi aroma otomatis untuk gedung perkantoran dan ritel; serta ecoCare Diamond Series, lini peralatan hygiene dengan desain premium. Di sisi digital, perusahaan menyebut telah meluncurkan enam inisiatif pada 2025, mulai dari aplikasi penjualan terintegrasi CRM bernama Super Sales App hingga sistem pelaporan pengendalian hama tanpa kertas yang disebut e-Pest Monitoring."
+  ],
+  "fotoAdegan": "Rows of small electric scooters parked in a service yard, technicians in blue uniforms checking battery packs, morning light",
+  "takeaway": "Laporan ini condong positif bagi HYGN karena perusahaan tetap membagikan dividen tunai di tengah ekspansi ke tiga lini bisnis baru, tanda arus kas operasionalnya masih cukup sehat untuk membiayai keduanya sekaligus. Pembayaran dividen Rp7,49 miliar mengurangi kas perusahaan, sementara sisa laba yang ditahan Rp12,22 miliar menambah ekuitas, yaitu modal sendiri perusahaan yang mencerminkan seberapa besar aset yang benar-benar milik pemegang saham setelah dikurangi utang. Dokumen ini tidak menyertakan data pertumbuhan pendapatan atau laba dibanding tahun sebelumnya, sehingga belum bisa dipastikan apakah ekspansi ke ecoCare Pure Air, Scent Nano, dan Diamond Series sudah mulai menyumbang pendapatan atau masih tahap awal. Yang perlu dipantau selanjutnya adalah pelaksanaan Public Expose Tahunan itu sendiri, forum tanya jawab langsung antara manajemen dan investor, serta laporan keuangan kuartal berikutnya untuk melihat apakah lini bisnis baru ini mulai menunjukkan hasil.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "yupi-baru-penuhi-10-free-float-kejar-12-5-di-2027",
+  "category": "Aksi Korporasi",
+  "title": "YUPI Baru Penuhi 10% [Free Float], Kejar 12,5% di 2027",
+  "deck": "Yupi Indo Jelly Gum menjelaskan ke BEI bahwa free float sahamnya baru 10%, dengan target bertahap 12,5% pada Maret 2027 dan 15% pada Maret 2028.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T15:59:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/14deacd12e_f44d33f869.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YUPI",
+  "tags": [
+   "YUPI",
+   "free float",
+   "BEI",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Yupi Indo Jelly Gum Tbk (YUPI) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI Nomor S-11764/BEI.PP1/09-2026 tanggal 10 September 2026 soal rencana pemenuhan ketentuan minimum saham free float. Dalam surat bertanggal 17 September 2026 yang ditandatangani Direktur Keuangan Rusman Apandi, perseroan mengungkapkan bahwa berdasarkan data kepemilikan saham per 31 Agustus 2026, porsi saham free float baru mencapai 10 persen dari modal ditempatkan dan disetor penuh. YUPI tercatat di bursa sejak 25 Maret 2025. Menyusul perubahan Peraturan Bursa I-A yang berlaku sejak 31 Maret 2026, perseroan mendapat masa transisi untuk memenuhi kewajiban itu secara bertahap, yakni minimal 12,5 persen pada 31 Maret 2027 dan minimal 15 persen pada 31 Maret 2028.",
+   "Perseroan menjelaskan kendala yang dihadapi bersifat teknis dan komersial, bukan soal keengganan. Dua faktor yang disebut adalah kondisi pasar, termasuk tingkat valuasi saham YUPI saat ini yang perlu dipertimbangkan agar pelepasan saham dilakukan pada kondisi wajar, dan daya serap pasar, mengingat sejumlah perusahaan tercatat lain juga tengah sama-sama berupaya memenuhi ketentuan free float dalam waktu berdekatan sehingga pasar berisiko kebanjiran pasokan saham baru jika tidak diatur waktunya.",
+   "Untuk menambah porsi saham publik, YUPI bersama pemegang saham pengendali sedang mengevaluasi empat alternatif tanpa menyebut jumlah saham atau nilai transaksi tertentu: divestasi sebagian saham milik pemegang saham pengendali kepada investor publik, penambahan modal tanpa hak memesan efek terlebih dahulu alias private placement kepada investor strategis atau institusi, penambahan modal dengan hak memesan efek terlebih dahulu atau rights issue yang sekaligus memperkuat permodalan, dan program kepemilikan saham karyawan atau ESOP secara bertahap. Perseroan menegaskan belum menetapkan mekanisme final dan akan memilih opsi atau kombinasi opsi sesuai hasil evaluasi serta kondisi pasar saat pelaksanaan nanti. Perseroan juga meminta dukungan BEI berupa konsultasi teknis, fasilitasi program roadshow dan pertemuan dengan investor, serta informasi perkembangan daya serap pasar."
+  ],
+  "fotoAdegan": "Rows of colorful gummy candies moving along a conveyor belt inside a candy factory, workers in hairnets nearby, bright industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi YUPI karena mengonfirmasi bahwa porsi saham publiknya masih jauh dari ketentuan, baru 10 persen, dan setelah lebih dari setahun sejak melantai perseroan masih belum punya mekanisme pasti untuk menutup kekurangan itu, hanya daftar opsi yang masih dievaluasi. Dua dari empat opsi yang disebut, yaitu private placement dan rights issue, berarti perseroan menerbitkan saham baru, sehingga jumlah saham beredar bertambah dan laba bersih perseroan akan dibagi ke lebih banyak lembar saham, membuat laba per saham bagi pemegang saham lama berpotensi terdilusi jika opsi itu yang akhirnya dipilih. Di sisi lain, opsi divestasi oleh pemegang saham pengendali tidak menambah saham baru sehingga tidak berdampak dilusi, hanya memindahkan kepemilikan ke investor publik. Yang perlu dipantau selanjutnya adalah tenggat pertama pada 31 Maret 2027, saat free float YUPI wajib mencapai minimal 12,5 persen, disusul 15 persen pada 31 Maret 2028, serta pengumuman lanjutan begitu perseroan memutuskan mekanisme definitif yang dipakai.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smra-laporkan-pengurangan-modal-rp10-m-di-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "SMRA Laporkan [Pengurangan] Modal Rp10 M di Anak Usaha",
+  "deck": "Summarecon Agung melaporkan transaksi afiliasi berupa pengurangan modal PT Kharisma Intan Properti senilai Rp10 miliar, yang sahamnya dipegang oleh anak usaha lain, PT Summarecon Investment Property.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T15:55:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ce86baad8_21b65074a1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMRA",
+  "tags": [
+   "SMRA",
+   "transaksi afiliasi",
+   "Summarecon Agung",
+   "properti"
+  ],
+  "body": [
+   "PT Summarecon Agung Tbk (SMRA) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia sebuah transaksi afiliasi berupa pengurangan modal yang terjadi di antara dua perusahaan yang sama-sama dikendalikan perseroan. Laporan bertanggal 17 September 2026 ini merujuk pada peristiwa yang terjadi sehari sebelumnya, 16 September 2026, dan disampaikan sesuai kewajiban keterbukaan berdasarkan Peraturan OJK Nomor 42/POJK.04/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan.",
+   "Berdasarkan rincian yang dilampirkan, perusahaan yang melakukan pengurangan modal adalah PT Kharisma Intan Properti. Pemegang saham yang mengurangi penyertaan modalnya di perusahaan tersebut adalah PT Summarecon Investment Property, yang juga merupakan perusahaan terkendali SMRA. Nilai pengurangan modal tercatat Rp10 miliar, dengan tanggal persetujuan perubahan anggaran dasar pada 16 September 2026. Surat laporan ditandatangani secara elektronik oleh Corporate Secretary SMRA, Lydia Tjio.",
+   "Dalam laporannya, manajemen SMRA menyatakan bahwa transaksi ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Empty office corridor inside a modern property development building in Jakarta, soft afternoon light through glass windows",
+  "takeaway": "Laporan ini condong netral bagi SMRA karena transaksinya adalah pemindahan dana di antara dua perusahaan yang sama-sama berada dalam grup usaha perseroan, dengan nilai Rp10 miliar yang tergolong kecil dibandingkan skala bisnis properti SMRA, dan manajemen sendiri menyatakan tidak ada dampak ke operasional maupun keuangan. Yang tersentuh di sini adalah struktur permodalan anak usaha, bukan ekuitas SMRA secara konsolidasi. Sebab uang yang dikembalikan dari PT Kharisma Intan Properti ke PT Summarecon Investment Property tetap berputar di dalam grup, sehingga tidak mengubah jumlah saham beredar, laba per saham, atau posisi kas gabungan perseroan secara berarti. Yang perlu dipantau selanjutnya adalah laporan keuangan konsolidasi SMRA pada kuartal berikutnya, untuk melihat apakah restrukturisasi permodalan semacam ini di tingkat anak usaha berlanjut atau berdiri sendiri sebagai penataan internal yang sudah rampung pada 16 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kkgi-bagikan-dividen-tunai-rp97-47-miliar-tahun-buku-2025",
+  "category": "Aksi Korporasi",
+  "title": "KKGI Bagikan [Dividen] Tunai Rp97,47 Miliar Tahun Buku 2025",
+  "deck": "Resource Alam Indonesia menetapkan dividen tunai Rp20 per saham senilai total Rp97,47 miliar, dibayar paling lambat 15 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T15:51:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2b17cf85a3_5b3c0582e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KKGI",
+  "tags": [
+   "KKGI",
+   "dividen tunai",
+   "Resource Alam Indonesia",
+   "RUPSLB"
+  ],
+  "body": [
+   "Resource Alam Indonesia Tbk (KKGI) mengumumkan rencana pembagian dividen tunai untuk tahun buku 2025, sesuai keputusan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 15 September 2026. Total dividen yang dibagikan senilai Rp97.466.588.000, atau setara Rp20 per saham. Berdasarkan angka itu, jumlah saham yang berhak menerima dividen diperkirakan sekitar 4,87 miliar lembar.",
+   "Perseroan menetapkan jadwal rinci pembagian dividen. Tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 23 September 2026, disusul tanggal ex dividen pada 24 September 2026. Tanggal pencatatan pemegang saham yang berhak atas dividen (recording date) ditetapkan 25 September 2026 pukul 16.00 WIB, bersamaan dengan tanggal cum dividen di pasar tunai, sementara ex dividen di pasar tunai jatuh pada 28 September 2026. Pembayaran dividen dijadwalkan paling lambat 15 Oktober 2026.",
+   "Data keuangan yang mendasari pembagian dividen ini mencatat laba bersih yang dapat diatribusikan kepada entitas induk sebesar US$2.421.546. Saldo laba ditahan yang tidak dibatasi penggunaannya tercatat US$180.406.039, sementara total ekuitas perusahaan sebesar US$151.153.898. Tanggal efektif keputusan ini adalah 15 September 2026, dan dokumen ditandatangani oleh Corporate Secretary KKGI, Leny."
+  ],
+  "fotoAdegan": "Aerial view of a coal stockpile yard near a river port, conveyor belts and loaders, hazy tropical daylight",
+  "takeaway": "Pembagian dividen ini condong POSITIF bagi pemegang saham KKGI karena perusahaan memastikan pengembalian kas senilai Rp97,47 miliar dengan jadwal yang sudah pasti, bukan sekadar rencana. Pos yang tersentuh adalah ekuitas dan arus kas, karena saldo laba ditahan yang tidak dibatasi penggunaannya, yaitu bagian keuntungan lama yang belum dibagi dan bebas dipakai perusahaan, tercatat US$180,4 juta, jauh melebihi laba bersih tahun berjalan yang cuma US$2,42 juta. Artinya sebagian dividen ini diambil dari cadangan laba tahun-tahun sebelumnya, bukan murni dari untung setahun terakhir, sehingga ekuitas perusahaan akan berkurang sejumlah dividen yang keluar sebagai kas ke pemegang saham. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 25 September 2026 pukul 16.00 WIB untuk menentukan siapa yang berhak menerima dividen, serta tanggal pembayaran pada 15 Oktober 2026 sebagai batas akhir realisasi janji ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "sanf-rombak-susunan-direksi-dan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "SANF Rombak Susunan [Direksi] dan Komisaris",
+  "deck": "SANF mengganti direktur dan komisaris usai dua pejabat mengundurkan diri; tiga pengurus baru menunggu hasil fit and proper test OJK sebelum resmi menjabat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 September 2026",
+  "isoDate": "2026-09-17T15:09:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/758dd2f039_8d2c19196e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SANF",
+  "tags": [
+   "SANF",
+   "pergantian direksi",
+   "komisaris",
+   "ASTRA Financial"
+  ],
+  "body": [
+   "PT Surya Artha Nusantara Finance (SANF), perusahaan pembiayaan anggota ASTRA Financial, melaporkan perubahan susunan direksi dan dewan komisaris kepada Bursa Efek Indonesia dan OJK. Handri Susanto mengundurkan diri dari jabatan Direktur dan Arietta Adrianti mengundurkan diri dari jabatan Komisaris, keduanya efektif 31 Agustus 2026. Posisi Handri Susanto digantikan oleh Eddy Kurnia yang menjabat Direktur sejak 1 September 2026. Perubahan ini tertuang dalam Akta Pernyataan Keputusan Para Pemegang Saham Nomor 2 tanggal 1 September 2026 di hadapan Notaris Wiwik Condro, S.H., dan sudah tercatat di Kementerian Hukum dengan nomor AHU-AH.01.09-0404137 tertanggal 16 September 2026.",
+   "Dengan perubahan ini, susunan direksi SANF untuk masa jabatan sampai penutupan RUPST 2028 menjadi Wempy Kunto Wiambodo sebagai Presiden Direktur, serta Maria Inawati Bernard, Eddy Kurnia, dan Kiyoshi Kuribara sebagai Direktur. Sementara dewan komisaris terdiri dari Hamdani Dzulkarnaen S. sebagai Presiden Komisaris, Takashi Araki sebagai Komisaris, serta Buntoro Muljono dan Handoko Pranoto sebagai Komisaris Independen.",
+   "Perusahaan menyebutkan syarat tambahan bagi tiga nama: jabatan Eddy Kurnia sebagai Direktur, Hamdani Dzulkarnaen S. sebagai Presiden Komisaris, dan Takashi Araki sebagai Komisaris baru berlaku efektif setelah masing-masing dinyatakan lulus Fit and Proper Test, yaitu uji kepatutan dan kelayakan yang diwajibkan Otoritas Jasa Keuangan bagi pengurus perusahaan pembiayaan."
+  ],
+  "fotoAdegan": "Business professionals in formal attire walking through a modern corporate office lobby in Jakarta, soft morning light",
+  "takeaway": "Laporan ini netral bagi SANF karena pergantian pengurus terjadi lewat mekanisme normal, pengunduran diri diikuti penunjukan pengganti yang sudah disetujui pemegang saham, tanpa indikasi sengketa atau masalah keuangan yang mendasarinya. Perubahan direksi dan komisaris tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham secara langsung, tapi tetap relevan bagi pemegang saham karena kualitas tata kelola dan kesinambungan strategi bisnis perusahaan pembiayaan bergantung pada siapa yang memimpinnya. Yang perlu dipantau selanjutnya adalah hasil Fit and Proper Test OJK untuk Eddy Kurnia, Hamdani Dzulkarnaen S., dan Takashi Araki, karena ketiganya baru resmi menjalankan wewenang penuh setelah dinyatakan lulus oleh regulator.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "penilaian-bkpm-76-persen-layanan-investasi-masuk-kategori-baik",
   "category": "Bisnis",
   "title": "Penilaian BKPM: 76 Persen Layanan Investasi Masuk [Kategori] Baik",

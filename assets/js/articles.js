@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pnmp-listing-obligasi-dan-sukuk-rp2-59-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "PNMP [listing] obligasi dan sukuk Rp2,59 triliun di BEI",
+  "deck": "PNM mencatatkan obligasi dan sukuk baru senilai Rp2,59 triliun di BEI mulai 21 September 2026, bagian dari program dana berkelanjutan bertarget Rp16 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:59:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5f1c2dc347_3598ffdd96.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNMP",
+  "tags": [
+   "PNMP",
+   "obligasi",
+   "sukuk",
+   "BEI"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM), lembaga pembiayaan milik negara dengan kode emiten PNMP, mencatatkan dua instrumen surat utang baru di Bursa Efek Indonesia mulai 21 September 2026. Kedua instrumen itu adalah Obligasi Berwawasan Sosial Orange Berkelanjutan I Tahap IV Tahun 2026 dan Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I Tahap V Tahun 2026, dengan wali amanat PT Bank KB Indonesia Tbk. Pemeringkat efek PEFINDO memberi peringkat idAAA untuk obligasi dan idAAA(sy) untuk sukuk syariah ini, peringkat tertinggi yang tersedia.",
+   "Obligasi tahap IV bernilai total Rp591,265 miliar dan terbagi dua seri. Seri A senilai Rp421,25 miliar berbunga tetap 7,05 persen per tahun dengan jangka waktu 370 hari sejak tanggal emisi, jatuh tempo 28 September 2027. Seri B senilai Rp170,015 miliar berbunga 7,10 persen per tahun untuk jangka waktu tiga tahun, jatuh tempo 18 September 2029. Sukuk mudharabah tahap V bernilai total Rp1.999,435 miliar, juga dengan dua seri: Seri A senilai Rp1.363,825 miliar dengan nisbah bagi hasil 70,48 persen dari pendapatan yang dibagihasilkan, setara indikasi imbal hasil 7,05 persen per tahun, jatuh tempo 28 September 2027, dan Seri B senilai Rp635,61 miliar dengan nisbah 70,98 persen, indikasi imbal hasil 7,10 persen per tahun, jatuh tempo 18 September 2029. Bunga obligasi dan bagi hasil sukuk dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 18 Desember 2026.",
+   "Penerbitan ini merupakan bagian dari program penawaran umum berkelanjutan yang efektif sejak 26 Juni 2025, dengan target dana Rp6 triliun untuk lini obligasi dan Rp10 triliun untuk lini sukuk. Hingga tahap ini, PNM telah merealisasikan sekitar Rp3,1 triliun dari target obligasi dan Rp6,99 triliun dari target sukuk, sehingga total dana yang terkumpul dari program ini mencapai sekitar Rp10,1 triliun dari target keseluruhan Rp16 triliun. Penjaminan emisi dilakukan dengan skema kesanggupan penuh oleh PT Bahana Sekuritas, PT BRI Danareksa Sekuritas, PT Indo Premier Sekuritas, PT Mandiri Sekuritas, dan PT Trimegah Sekuritas Indonesia Tbk. Surat utang ini tidak memiliki jaminan khusus, melainkan dijamin dengan seluruh harta kekayaan PNM, dan kedudukan pemegangnya bersifat pari passu tanpa hak preferen dibanding kreditur PNM lainnya. Perseroan menyebut risiko utama yang dihadapi adalah risiko pembiayaan, yakni potensi konsumen atau debitur gagal membayar kembali pinjaman pokok maupun bunganya."
+  ],
+  "fotoAdegan": "A microfinance loan officer meeting with a group of women market vendors under stall awnings in an Indonesian village square, mid-morning",
+  "takeaway": "Penerbitan tahap baru ini tergolong netral bagi kinerja PNM, karena merupakan bagian rutin dari program dana berkelanjutan yang sudah direncanakan sejak pernyataan efektif OJK pada Juni 2025, bukan tanda mendadak butuh dana darurat. Yang tersentuh adalah beban bunga, sebab PNM kini wajib membayar bunga obligasi dan bagi hasil sukuk setiap tiga bulan mulai 18 Desember 2026, sementara di sisi lain kas perseroan bertambah sekitar Rp2,59 triliun yang menurut dokumen ini akan mendukung penyaluran pembiayaan mikro lewat jaringan UlaMM dan PNM Mekaar. Peringkat idAAA dari PEFINDO, peringkat tertinggi yang bisa diberikan lembaga pemeringkat, menandakan pasar menilai kemampuan PNM membayar kembali utangnya masih kuat, meski bisnis intinya adalah pembiayaan mikro yang secara alami rawan gagal bayar dari debitur kecil. Yang perlu dipantau berikutnya adalah kelancaran pencatatan resmi di BEI pada 21 September 2026 dan pembayaran bunga atau bagi hasil pertama pada 18 Desember 2026, sebagai indikator awal kesehatan seri ini. Dari total target program Rp16 triliun, PNM baru merealisasikan sekitar Rp10,1 triliun, sehingga tahap-tahap penerbitan berikutnya kemungkinan masih akan menyusul.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jmas-ke-bursa-utang-klaim-rp11-24-miliar-tak-diakui",
+  "category": "Aksi Korporasi",
+  "title": "JMAS ke bursa: utang klaim Rp11,24 miliar [tak diakui]",
+  "deck": "Emiten asuransi syariah ini juga mengakui ada kesalahan pencatatan kas dan liabilitas polis dalam laporan keuangan September 2025, serta audit tahunan yang molor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:39:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0f238266bb_7d78828e74.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JMAS",
+  "tags": [
+   "JMAS",
+   "asuransi syariah",
+   "laporan keuangan",
+   "utang klaim"
+  ],
+  "body": [
+   "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk (JMAS) menjawab permintaan penjelasan Bursa Efek Indonesia terkait pengaduan utang klaim dari mitra bisnisnya, PT Mitra Proteksi Madani Insurance Broker (MPMIB). Bursa mempertanyakan 93 klaim senilai total sekitar Rp11,24 miliar yang belum dibayarkan JMAS, dari 126 klaim yang pernah diajukan MPMIB. JMAS menjelaskan bahwa kerja sama pengelolaan asuransi jiwa pembiayaan dengan MPMIB sudah berjalan sejak 2018, lalu dihentikan pada 2021 setelah kedua pihak sepakat mengembalikan (refund) kontribusi peserta yang polisnya masih aktif. Karena refund itu, JMAS menganggap tanggung jawabnya atas peserta tersebut sudah berakhir sehingga menolak mengakui utang klaim itu sebagai kewajiban, sekalipun MPMIB masih menagihnya. Dalam laporan keuangan per 30 September 2025, JMAS hanya mencatat utang klaim Rp1,73 miliar dan menyatakan itu sudah lunas seluruhnya, tanpa rencana merevisi laporan keuangan atas perkara ini.",
+   "JMAS juga mengakui ada dua kesalahan pencatatan dalam laporan keuangannya. Pertama, catatan atas laporan keuangan (CALK) untuk pos kas dan setara kas mencatat total Rp9,65 miliar per 30 September 2025, padahal di neraca (laporan posisi keuangan) angka yang tercatat hanya Rp5,4 miliar. JMAS menjelaskan bahwa nilai deposito berjangka Rp4,25 miliar yang masuk dalam catatan itu seharusnya nol, dan perseroan berjanji merevisi CALK tersebut. Kedua, ada selisih serupa pada pos liabilitas kepada pemegang polis: catatan menyebut liabilitas manfaat polis masa depan Rp70,59 miliar dan penyisihan kontribusi yang belum menjadi hak Rp59,72 miliar, sementara neraca mencatat masing-masing Rp70,42 miliar dan Rp59,89 miliar.",
+   "Di luar soal utang klaim dan salah catat, JMAS melaporkan sejumlah pos yang melonjak signifikan. Piutang kontribusi naik 64,71 persen dari Rp25,63 miliar menjadi Rp42,21 miliar, yang menurut perseroan didorong oleh pertumbuhan produk pembiayaan yang pendapatannya diakui secara akrual, yakni dicatat sebagai pendapatan sebelum uangnya benar-benar diterima. Uang muka dan biaya dibayar dimuka melonjak dari Rp72,31 juta menjadi Rp2,37 miliar, terutama karena uang muka acara Rp263,8 juta dan komisi broker Rp1,83 miliar yang belum dibukukan sebagai biaya. Investasi pada deposito mudharabah, yaitu simpanan berjangka syariah berbasis bagi hasil, naik dari Rp32,42 miliar menjadi Rp103,47 miliar seiring kenaikan kontribusi dan penurunan klaim serta beban operasional. JMAS juga mengonfirmasi bahwa laporan keuangan auditan tahun 2025 masih dalam proses dan menurut kantor akuntan publik baru akan selesai akhir September 2026, mundur dari perkiraan sebelumnya yang menyebut akhir Agustus 2026."
+  ],
+  "fotoAdegan": "Office workers reviewing stacks of paper files and using calculators at a busy desk, soft window light, Jakarta financial district",
+  "takeaway": "Laporan ini condong negatif bagi JMAS, karena mengungkap sengketa utang klaim Rp11,24 miliar yang ditolak perseroan di tengah tagihan mitra bisnisnya, ditambah kesalahan pencatatan pada laporan keuangan resmi yang sudah lebih dulu dipublikasikan dan proses audit tahunan yang molor dari jadwal. Kalau nanti utang klaim itu benar harus diakui, ekuitas dan liabilitas perseroan langsung terdampak, sementara selisih pencatatan kas menimbulkan keraguan soal seberapa akurat posisi likuiditas yang dilaporkan ke publik selama ini. Lonjakan piutang kontribusi 64,71 persen juga perlu dicermati karena itu berarti pendapatan sudah dibukukan meski uangnya belum masuk kas, sehingga arus kas riil bisa lebih ketat dari yang terlihat di laporan laba rugi. Yang perlu dipantau berikutnya adalah penerbitan laporan keuangan auditan 2025 yang ditargetkan akhir September 2026, revisi CALK kas dan setara kas yang dijanjikan perseroan, serta apakah sengketa dengan MPMIB berlanjut ke ranah hukum atau pengawasan OJK mengingat kedua pihak masih berbeda pendapat soal klaim yang ditolak.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "asdf-catatkan-obligasi-rp2-55-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "ASDF Catatkan [Obligasi] Rp2,55 Triliun di BEI",
+  "deck": "ASDF mencatatkan obligasi Rp2,55 triliun di BEI mulai 21 September 2026, terbagi dua seri dengan bunga tetap 7,15% dan 7,40%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:37:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aa9ec73742_16dfece44f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASDF",
+  "tags": [
+   "ASDF",
+   "obligasi korporasi",
+   "Astra Sedaya Finance",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Astra Sedaya Finance (ASDF) akan mencatatkan Obligasi Berkelanjutan VII Tahap IV Tahun 2026 senilai total Rp2,55 triliun di Bursa Efek Indonesia mulai 21 September 2026. Obligasi ini terbit dalam dua seri: Seri A senilai Rp1.550.775.000.000 dengan bunga tetap 7,15 persen per tahun, berjangka waktu 370 hari kalender hingga jatuh tempo 28 September 2027, dan Seri B senilai Rp999.225.000.000 dengan bunga tetap 7,40 persen per tahun, berjangka waktu 36 bulan hingga jatuh tempo 18 September 2029. Kedua seri diterbitkan pada 18 September 2026 dengan nilai penuh, yaitu 100 persen dari pokok utang, dan pembayaran bunga pertama untuk kedua seri dijadwalkan 18 Desember 2026, selanjutnya dibayar setiap tiga bulan.",
+   "Obligasi ini adalah bagian dari Obligasi Berkelanjutan VII yang menargetkan total dana Rp12 triliun. Sebelumnya perseroan sudah menerbitkan Tahap I senilai Rp1 triliun pada 2025, Tahap II senilai Rp2 triliun pada 2025, dan Tahap III senilai Rp1.030.935.000.000 pada 2026, sehingga dengan Tahap IV ini total obligasi yang sudah diterbitkan dari program tersebut mencapai sekitar Rp6,58 triliun. Obligasi ini mendapat peringkat idAAA (Triple A) dari Pefindo dan wali amanatnya adalah PT Bank Rakyat Indonesia (Persero) Tbk. Penjaminan emisi dengan skema kesanggupan penuh dilakukan oleh PT BRI Danareksa Sekuritas, PT DBS Vickers Sekuritas Indonesia, PT Indo Premier Sekuritas, PT Mandiri Sekuritas, PT Mega Capital Sekuritas, dan PT Trimegah Sekuritas Indonesia Tbk.",
+   "Obligasi ini tidak dijamin dengan agunan khusus berupa aset tertentu milik perseroan, melainkan dijamin secara pari passu oleh seluruh kekayaan perseroan bersama kreditur lain yang juga tidak dijamin secara khusus, sesuai Pasal 1131 dan 1132 Kitab Undang-Undang Hukum Perdata. Perseroan berhak membeli kembali sebagian atau seluruh obligasi sebelum jatuh tempo, tetapi opsi ini baru bisa dijalankan satu tahun setelah tanggal penjatahan pada 16 September 2026. Dokumen menyebut risiko utama perseroan adalah risiko pembiayaan, yaitu kemungkinan nasabah atau debitur gagal membayar kembali fasilitas pembiayaan yang sudah diberikan."
+  ],
+  "fotoAdegan": "Customers examining rows of parked cars at an Indonesian vehicle dealership showroom, staff explaining financing paperwork, bright indoor lighting",
+  "takeaway": "Laporan ini netral bagi ASDF karena penerbitan obligasi ini adalah kelanjutan program pendanaan yang sudah direstui pemegang saham sejak Maret 2026, dan peringkatnya tetap idAAA, level tertinggi dari Pefindo, sehingga tidak mengubah profil risiko perseroan secara berarti. Yang tersentuh adalah beban bunga, yakni biaya yang wajib dibayar perseroan kepada pemegang obligasi setiap tiga bulan, dan makin besar utang berbunga yang diterbitkan makin besar pula beban yang menekan laba ke depan, meski di sisi lain dana ini juga jadi modal baru yang bisa disalurkan sebagai pembiayaan ke nasabah. Yang perlu dipantau selanjutnya adalah pembayaran bunga pertama pada 18 Desember 2026, jatuh tempo Seri A pada 28 September 2027 dan Seri B pada 18 September 2029, serta kemungkinan penerbitan Tahap V untuk melengkapi sisa target dana sekitar Rp5,42 triliun dari total program Rp12 triliun.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jmas-koreksi-laporan-kuartal-iii-laba-naik-ke-rp5-39-miliar",
+  "category": "Aksi Korporasi",
+  "title": "JMAS koreksi laporan kuartal III, [laba] naik ke Rp5,39 miliar",
+  "deck": "Laporan keuangan kuartal III 2025 yang dikoreksi menunjukkan aset JMAS naik 39,2 persen dan liabilitas naik 46,4 persen, sementara laba bersih naik hampir dua kali lipat jadi Rp5,39 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:37:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2de71b14f8_5206cae45d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JMAS",
+  "tags": [
+   "JMAS",
+   "laporan keuangan",
+   "asuransi syariah",
+   "IDX"
+  ],
+  "body": [
+   "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk (JMAS) mengoreksi laporan keuangan kuartal III 2025 yang sebelumnya disampaikan pada 30 Oktober 2025. Laporan koreksi ini diteken Corporate Secretary Mawar Arsiarni Djunaid dan disampaikan ke Bursa Efek Indonesia pada 18 September 2026. Berdasarkan laporan posisi keuangan per 30 September 2025, ekuitas perseroan tercatat Rp128,24 miliar, naik dari Rp122,50 miliar pada akhir 2024. Total aset mencapai Rp426,43 miliar, naik 39,2 persen atau Rp120,14 miliar dari Rp306,29 miliar pada akhir 2024, sementara total liabilitas naik lebih cepat, yakni 46,4 persen atau Rp107,51 miliar, dari Rp231,47 miliar menjadi Rp338,98 miliar.",
+   "Kenaikan aset lancar sebesar 23,9 persen menjadi Rp329,31 miliar terutama didorong investasi deposito mudharabah yang melonjak dari Rp32,42 miliar menjadi Rp103,47 miliar, seiring naiknya kontribusi dana tabarru pada produk pembiayaan. Aset tidak lancar melompat 139,3 persen menjadi Rp97,12 miliar, ditopang aset reasuransi yang naik dari Rp26,41 miliar menjadi Rp48,86 miliar karena makin besar porsi kontribusi peserta yang disesikan ke perusahaan reasuransi. Di sisi kewajiban, liabilitas jangka pendek naik 33,2 persen menjadi Rp214,25 miliar, terutama karena penyisihan kontribusi yang belum menjadi hak naik dari Rp42,4 miliar menjadi Rp59,9 miliar, sedangkan liabilitas jangka panjang naik 76,7 persen menjadi Rp124,74 miliar, didorong liabilitas manfaat polis masa depan yang melonjak dari Rp29,1 miliar menjadi Rp70,4 miliar.",
+   "Pada laporan laba rugi, pendapatan usaha JMAS untuk periode sembilan bulan justru turun tipis dari Rp63,06 miliar pada September 2024 menjadi Rp60,83 miliar pada September 2025, berkurang Rp2,23 miliar. Meski begitu, laba tahun berjalan naik dari Rp2,78 miliar menjadi Rp5,39 miliar, sehingga laba per saham dasar ikut naik dari Rp2,78 menjadi Rp5,39 per saham dengan jumlah saham beredar tetap 1 miliar lembar. Kas dan setara kas turun dari Rp8,75 miliar menjadi Rp5,40 miliar, sementara arus kas bersih dari aktivitas operasi melonjak dari Rp13,09 miliar menjadi Rp70,87 miliar, dan utang klaim turun dari Rp11,26 miliar menjadi Rp1,74 miliar. Laporan ini juga menyertakan surat penjelasan kepada bursa terkait Peraturan Bursa I-E Pasal III.1.1.4 soal perubahan aset dan liabilitas lebih dari 20 persen, yang ditandatangani Direktur Utama Basuki Agus."
+  ],
+  "fotoAdegan": "An insurance agent explaining a policy folder to a client across a desk in a modern Jakarta office, warm morning light",
+  "takeaway": "Laporan ini condong positif bagi JMAS, karena laba bersih dan laba per saham naik hampir dua kali lipat meski pendapatan sedikit menyusut, tanda perseroan menekan beban operasional lebih efisien. Yang tersentuh adalah arus kas dari kegiatan operasional, yang melonjak dari Rp13,09 miliar menjadi Rp70,87 miliar, menunjukkan uang tunai yang benar-benar masuk ke kas perusahaan bertambah jauh lebih besar dibanding laba di atas kertas. Ekuitas, yaitu selisih antara aset dan utang yang menjadi modal milik pemegang saham, juga naik tipis ke Rp128,24 miliar, sementara jumlah saham beredar tidak berubah sehingga kenaikan laba per saham murni berasal dari perbaikan kinerja, bukan pengurangan jumlah saham. Yang perlu dicermati adalah liabilitas yang tumbuh lebih cepat, 46,4 persen, dibanding aset yang 39,2 persen, hal yang lazim pada asuransi yang sedang tumbuh karena premi yang diterima otomatis tercatat sebagai kewajiban ke pemegang polis, tapi tetap layak dipantau agar tidak menggerus modal ke depan. Karena angka di laporan ini masih berstatus tidak diaudit dan sudah sekali dikoreksi dari versi 30 Oktober 2025, laporan keuangan tahunan teraudit untuk tahun buku 2025 akan jadi penentu apakah angka-angka ini bertahan atau berubah lagi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "chek-rampungkan-buyback-80-juta-saham-rp11-99-m",
+  "category": "Aksi Korporasi",
+  "title": "CHEK Rampungkan [Buyback] 80 Juta Saham Rp11,99 M",
+  "deck": "PT Diastika Biotekindo Tbk (CHEK) menutup program pembelian kembali saham senilai Rp11,99 miliar, menyerap 80 juta lembar saham atau 1,94 persen dari saham tercatat di BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:15:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93cd12fd23_f3104eb818.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CHEK",
+  "tags": [
+   "CHEK",
+   "buyback saham",
+   "Diastika Biotekindo",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Diastika Biotekindo Tbk (CHEK) mengumumkan telah menyelesaikan program pembelian kembali saham (buyback) yang berjalan sejak 18 Juni 2026 hingga 18 September 2026. Program ini dijalankan tanpa persetujuan Rapat Umum Pemegang Saham karena memakai skema khusus Otoritas Jasa Keuangan untuk kondisi pasar yang berfluktuasi signifikan, sesuai POJK Nomor 13 Tahun 2023 dan POJK Nomor 29 Tahun 2023. Laporan bernomor 139/DIR/DB/IX/2026 ini ditandatangani Direktur Utama Franciscus Xaverius Yoshua R dan merupakan tindak lanjut dari keterbukaan informasi awal Nomor 118/DIR/DB/VI/2026 yang mengumumkan rencana buyback tersebut.",
+   "Dalam periode itu, perseroan membeli kembali 80.000.000 lembar saham, setara 1,94 persen dari total saham CHEK yang tercatat di Bursa Efek Indonesia. Dana yang terpakai mencapai Rp11.987.865.437, dengan harga perolehan rata-rata Rp140,95 per saham. Menurut tabel realisasi yang dilampirkan, perseroan sebelumnya mengalokasikan dana maksimal hingga Rp15 miliar untuk program ini, sehingga dana yang benar-benar terpakai berada di bawah pagu tersebut.",
+   "Perseroan menghentikan program ini karena realisasi pembelian sudah mencapai target yang direncanakan, sekaligus disebut sebagai bagian dari langkah mengoptimalkan operasional perseroan. Direksi menyatakan penyelesaian buyback ini tidak menimbulkan dampak material terhadap perseroan, dan seluruh informasi yang disampaikan dalam laporan dijamin benar, lengkap, serta tidak menyesatkan sesuai ketentuan pasar modal yang berlaku."
+  ],
+  "fotoAdegan": "Warehouse workers stacking boxes of medical equipment supplies onto pallets under fluorescent industrial lighting",
+  "takeaway": "Penyelesaian buyback ini condong netral bagi fundamental Diastika: ukurannya, 1,94 persen dari saham beredar dengan dana sekitar Rp11,99 miliar dari pagu maksimal Rp15 miliar, tergolong kecil untuk dibaca sebagai sinyal kuat, dan perseroan sendiri menegaskan tidak ada dampak material. Yang tersentuh adalah jumlah saham beredar dan kas perseroan. Saham yang dibeli balik keluar dari peredaran dan menjadi saham treasury, sehingga porsi kepemilikan pemegang saham yang tersisa sedikit membesar dan laba per saham berpotensi naik tipis karena jumlah saham pembaginya mengecil, sementara kas perseroan berkurang sebesar dana yang dipakai untuk membeli saham tersebut. Yang perlu dipantau berikutnya adalah keputusan perseroan atas nasib 80 juta saham treasury itu, apakah akan dijual kembali ke pasar, dipakai untuk program insentif karyawan, atau dihapus permanen, karena pilihan itu yang menentukan apakah pengurangan jumlah saham beredar ini bersifat tetap atau hanya sementara.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "cirebon-bangun-ulang-pelabuhan-ikan-senilai-rp459-miliar",
   "category": "Industri",
   "title": "Cirebon Bangun Ulang Pelabuhan Ikan Senilai [Rp459] Miliar",
@@ -59,6 +189,32 @@ var ARTICLES = [
   "imageV": "mu6v4giv"
  },
  {
+  "slug": "pefindo-pangkas-peringkat-adhi-ke-default-usai-gagal-bayar-kupon",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Pangkas Peringkat ADHI ke [Default] Usai Gagal Bayar Kupon",
+  "deck": "PEFINDO menurunkan peringkat PT Adhi Karya menjadi idSD (Selective Default) setelah emiten gagal melunasi kupon dua seri obligasi senilai total Rp2,46 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:10:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7bbcd09cd6_40aee85da2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "obligasi",
+   "gagal bayar",
+   "PEFINDO"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menurunkan peringkat korporasi PT Adhi Karya (Persero) Tbk dari idCCC dengan CreditWatch berimplikasi negatif menjadi idSD atau Selective Default, berdasarkan surat PEFINDO Nomor RC-1275/PEF-DIR/IX/2026 tertanggal 15 September 2026. Penurunan ini menyusul belum terbayarnya kupon Obligasi Berkelanjutan III Tahap III Tahun 2022 Seri B dan Seri C, setelah masa remedial atau tenggang waktu tambahan untuk membayar berakhir pada 14 September 2026 tanpa pelunasan.",
+   "Dua seri obligasi yang gagal dibayar itu juga diturunkan peringkatnya dari idCCC menjadi idD atau Default, status yang menurut PEFINDO diberikan begitu peristiwa gagal bayar pertama kali terjadi. Seri B bernilai pokok Rp667,5 miliar dengan jatuh tempo 24 Mei 2027, sedangkan Seri C bernilai Rp1,7963 triliun dengan jatuh tempo 24 Mei 2029, sehingga total kedua seri itu mencapai Rp2,4638 triliun. Adapun Obligasi Berkelanjutan IV Tahap I Tahun 2024 senilai Rp102,715 miliar yang jatuh tempo 9 Juli 2027 tetap berada di peringkat idCCC, level yang oleh PEFINDO digambarkan sebagai rentan gagal bayar namun belum masuk status default. Surat ke Otoritas Jasa Keuangan ini ditandatangani Corporate Secretary ADHI, Siswanto, dan penilaian PEFINDO didasarkan pada laporan keuangan tidak diaudit per 30 Juni 2026 serta laporan audit per 31 Desember 2025.",
+   "Manajemen ADHI menyatakan akan terus berkoordinasi dengan wali amanat dan para pemegang obligasi untuk mencari langkah penyelesaian sesuai Akta Perjanjian Perwaliamanatan, termasuk melalui Rapat Umum Pemegang Obligasi (RUPO). Seluruh peringkat baru ini berlaku untuk periode 15 September 2026 sampai 1 Maret 2027."
+  ],
+  "fotoAdegan": "Construction workers crossing an elevated infrastructure project at dusk, steel beams and tower cranes silhouetted against the sky",
+  "takeaway": "Ini kabar negatif bagi ADHI, karena penurunan peringkat ke status gagal bayar menegaskan bahwa tekanan likuiditas yang sebelumnya sudah diakui manajemen sendiri kini benar-benar berujung pada tidak terbayarnya kupon obligasi. Yang tersentuh adalah beban bunga dan arus kas untuk membayar utang, sebab begitu satu kewajiban gagal dilunasi, biaya pinjaman berikutnya bagi perusahaan cenderung naik dan akses ke pendanaan baru menyempit karena kreditur menilai risikonya lebih tinggi. Perlu dicatat, idD dan idSD bukan sekadar telat bayar administratif, melainkan penilaian resmi bahwa perusahaan sudah tidak memenuhi janji pembayaran ke sebagian pemegang surat utangnya. Yang perlu dipantau selanjutnya adalah hasil pembicaraan ADHI dengan wali amanat dan pemegang obligasi lewat Rapat Umum Pemegang Obligasi, forum resmi bagi pemegang surat utang untuk menyepakati skema penyelesaian, serta apakah ada realisasi pembayaran sebelum masa berlaku peringkat ini berakhir pada 1 Maret 2027.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "kemendag-andalkan-25-perjanjian-dagang-buat-tarik-investasi-ekspor",
   "category": "Bisnis",
   "title": "Kemendag Andalkan [25] Perjanjian Dagang buat Tarik Investasi Ekspor",
@@ -85,6 +241,111 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Angka konkret dari acara ini adalah peta jumlah perjanjian dagang yang dikejar Kemendag: 25 sudah berjalan, 2 tinggal menunggu pengesahan, dan 13 lagi masih dirundingkan, artinya pemerintah masih terus menambah jumlah negara mitra dagang, bukan berhenti di angka sekarang. Program UMKM BISA Ekspor turut mencatat transaksi US$347 juta sepanjang Januari-Agustus 2026, dan sebagian besar pesertanya baru pertama kali menembus pasar luar negeri, jadi yang disasar kebijakan ini bukan cuma investor besar melainkan juga usaha kecil yang baru merintis ekspor. Arahnya, pemerintah memakai jaringan perjanjian dagang sebagai daya tarik utama untuk mengundang investor membangun basis produksi di Indonesia, bukan sekadar memperlancar arus barang ekspor. Yang akan menunjukkan apakah strategi ini membuahkan hasil nyata adalah gelaran Trade Expo Indonesia pada 14-18 Oktober 2026, karena di sana biasanya diumumkan nilai transaksi dan kesepakatan dagang baru yang bisa dibandingkan dengan capaian tahun-tahun sebelumnya.",
   "imageV": "mu6v4jc9"
+ },
+ {
+  "slug": "rgas-jelaskan-ke-bursa-piutang-berelasi-turun-98",
+  "category": "Aksi Korporasi",
+  "title": "RGAS Jelaskan ke Bursa, [Piutang] Berelasi Turun 98%",
+  "deck": "RGAS menjawab permintaan penjelasan BEI soal piutang usaha pihak berelasi yang turun Rp45,72 miliar dan piutang lain-lain yang naik Rp6,67 miliar pada semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T17:56:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/099fe76bf8_2acc349ca8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RGAS",
+  "tags": [
+   "RGAS",
+   "piutang berelasi",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "body": [
+   "PT Kian Santang Muliatama Tbk (RGAS) menyampaikan jawaban resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan terkait laporan keuangan periode 30 Juni 2026 dan realisasi proyeksi keuangan perseroan. Surat bernomor 397/KSM-Corsec/IX/2026 itu ditandatangani Direktur RGAS, Sutarno, dan disampaikan pada 18 September 2026 sesuai ketentuan II.9 Peraturan Bursa Nomor I-E yang mewajibkan emiten menjelaskan permintaan otoritas bursa selambatnya dua hari bursa setelah surat diterima.",
+   "Salah satu yang disoroti bursa adalah anjloknya saldo piutang usaha kepada pihak berelasi, yaitu uang yang belum dibayar oleh perusahaan terafiliasi atas barang yang sudah dijual RGAS. Saldo ini turun dari Rp46,55 miliar pada akhir Desember 2025 menjadi hanya Rp829,45 juta pada 30 Juni 2026, atau berkurang Rp45,72 miliar, setara 98,22 persen. RGAS menjelaskan penurunan itu murni berasal dari pelunasan oleh KSO Noorel-KSM, kerja sama operasi yang berstatus pihak berelasi perseroan, tanpa ada penghapusan piutang maupun pemindahan ke akun lain.",
+   "Di sisi lain, saldo piutang lain-lain kepada pihak berelasi justru melonjak dari Rp2,30 miliar menjadi Rp8,97 miliar, naik Rp6,67 miliar atau 290,52 persen. RGAS menjelaskan ini bukan piutang dari penjualan barang, melainkan dana talangan yang diberikan kepada KSO Noorel-KSM untuk membiayai operasional proyek selagi KSO tersebut menunggu pembayaran termin dari pemberi kerja. Perseroan memastikan seluruh dana talangan itu sudah dikembalikan penuh sebelum 28 Agustus 2026, bertepatan dengan berakhirnya kontrak KSO dengan pemberi kerja, sehingga saldo akun ini per laporan keuangan triwulan III 2026 sudah nihil.",
+   "RGAS juga merinci lonjakan saldo pekerjaan proyek dalam pelaksanaan, yaitu biaya proyek konstruksi yang sudah dikeluarkan tetapi belum sampai tahap penagihan ke pelanggan, dari Rp4,48 miliar menjadi Rp6,43 miliar, naik Rp1,96 miliar atau 43,74 persen. Lima proyek dirinci: pengadaan kalibrator meter turbin dan rotary piston untuk PT PGAS Solution dengan nilai kontrak Rp7,38 miliar dan pekerjaan dalam proses Rp937,81 juta, baru rampung 20,39 persen; pembangunan jaringan gas Gaskita di Kabupaten Sleman untuk PT Perusahaan Gas Negara Tbk senilai kontrak Rp9,28 miliar dengan pekerjaan dalam proses Rp460,30 juta, sudah rampung 89,90 persen; proyek serupa tahap II senilai kontrak Rp6,24 miliar dengan pekerjaan dalam proses Rp401,27 juta, rampung 42,14 persen; proyek metering gas turbin 4 inci di lokasi PT Smelting Gresik untuk PT Sadikun Niagamas Raya senilai kontrak Rp2,02 miliar dengan pekerjaan dalam proses Rp1,38 miliar; serta proyek kalibrasi basah meter ultrasonik untuk PT Pertamina Gas senilai kontrak Rp3,48 miliar dengan pekerjaan dalam proses Rp3,25 miliar. RGAS menargetkan seluruh proyek itu sudah selesai ditagih penuh pada triwulan III 2026, dengan kendala yang dihadapi sejauh ini hanya di sisi administrasi seperti penerbitan berita acara serah terima, bukan pada penyelesaian fisik pekerjaan."
+  ],
+  "fotoAdegan": "Technicians in helmets calibrating industrial gas meter valves inside a steel piping facility under daylight",
+  "takeaway": "Penjelasan ini condong netral bagi RGAS, isinya klarifikasi atas permintaan bursa, bukan aksi korporasi baru, tapi angka yang diungkap justru menenangkan karena piutang besar dari pihak berelasi berhasil ditagih dan dana talangan yang sempat membengkak sudah lunas penuh sebelum jatuh tempo kontraknya. Pos yang tersentuh adalah piutang usaha dan piutang lain-lain kepada pihak berelasi, dua akun yang menunjukkan seberapa cepat uang RGAS kembali dari transaksi dengan perusahaan yang masih satu kelompok usaha, sehingga investor memperhatikannya sebagai ukuran risiko uang macet. Pos pekerjaan proyek dalam pelaksanaan juga naik 43,74 persen karena sejumlah proyek konstruksi sudah menyerap biaya tapi belum sampai tahap penagihan, yang berarti pendapatan dari proyek itu belum masuk ke laporan laba rugi perseroan. Yang perlu dipantau selanjutnya adalah laporan keuangan triwulan III 2026, karena RGAS menjanjikan seluruh lima proyek yang dirinci di atas sudah ditagih penuh pada periode itu, sementara saldo piutang lain-lain kepada KSO Noorel-KSM dipastikan sudah nihil sejak pelunasan sebelum 28 Agustus 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptpp-digugat-pkpu-rp4-25-miliar-oleh-dua-subkontraktor-proyek",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Digugat [PKPU] Rp4,25 Miliar oleh Dua Subkontraktor Proyek",
+  "deck": "PTPP menerima panggilan sidang PKPU dari dua subkontraktor proyek Museum KCBN Muarajambi atas tagihan yang belum dibayar sekitar Rp4,25 miliar; perseroan menyebut belum ada dampak signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T17:44:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9833985dc3_8da3b48596.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "PKPU",
+   "konstruksi",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk menerima relaas panggilan sidang dari Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat pada 18 September 2026, terkait permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) dengan nomor register perkara 277/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst. Permohonan diajukan oleh dua subkontraktor, yakni PT Atap Perkasa sebagai Pemohon PKPU I dan CV Citra Pratama sebagai Pemohon PKPU II, sehubungan dengan utang Kerja Sama Operasi (KSO) PP-URBAN. Dalam perkara ini PTPP berkedudukan sebagai Termohon PKPU II.",
+   "Kedua pemohon merupakan subkontraktor pada proyek pembangunan Museum Kawasan Cagar Budaya Nasional (KCBN) Muarajambi di Provinsi Jambi. PT Atap Perkasa mengerjakan rangka dan penutup atap berdasarkan surat perjanjian subkontraktor sejak 22 Juli 2024 beserta adendumnya pada 6 Maret 2025, dengan sisa kewajiban pembayaran yang sudah jatuh tempo, mencakup tagihan pokok dan retensi, sebesar Rp1.479.093.600. CV Citra Pratama mengerjakan plafon fibersemen serta pekerjaan tambahan kisi-kisi WPC lewat rangkaian perjanjian dan tiga adendum sejak Agustus 2024, dengan total kewajiban yang belum dibayar sebesar Rp2.771.346.271, terdiri dari tagihan jatuh tempo, tagihan progres 100 persen, dan tagihan retensi. Total permohonan pembayaran dari kedua pemohon mencapai sekitar Rp4,25 miliar.",
+   "Perseroan menyatakan akan bersikap kooperatif dan mengikuti prosedur hukum yang berlaku dengan didampingi kuasa hukum. PTPP menyebut permohonan PKPU ini belum berdampak signifikan terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya. Surat keterbukaan informasi ini ditandatangani Direktur Keuangan Faizal Rahmad dan disampaikan ke publik melalui Sekretaris Perusahaan Joko Raharjo."
+  ],
+  "fotoAdegan": "Construction workers assembling roof trusses on a heritage-style museum building surrounded by scaffolding in a rural Sumatran site, overcast light.",
+  "takeaway": "Laporan ini condong netral bagi PTPP, sebab nilai gugatan PKPU sekitar Rp4,25 miliar tergolong kecil untuk perusahaan konstruksi BUMN sebesar ini, sehingga dampak finansialnya memang belum berarti seperti yang disampaikan manajemen. Yang tersentuh adalah pos kewajiban usaha dan arus kas dari proyek KSO PP-URBAN, karena PKPU sendiri adalah jalur hukum yang dipakai kreditor untuk menagih utang jatuh tempo lewat pengadilan niaga, yang bisa berujung pada jadwal pembayaran baru bila tidak tercapai perdamaian. Yang perlu dicermati, gugatan ini muncul tak lama setelah PTPP meneken MRA untuk restrukturisasi utang besarnya, sehingga menunjukkan masih ada tagihan mitra proyek yang belum tuntas di luar skema restrukturisasi utama. Yang dipantau berikutnya adalah jalannya sidang di Pengadilan Niaga Jakarta Pusat atas perkara nomor 277/Pdt.Sus-PKPU/2026, termasuk apakah PTPP mencapai kesepakatan pembayaran dengan PT Atap Perkasa dan CV Citra Pratama sebelum proses PKPU berlanjut ke tahap berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dmnd-kaji-aksi-korporasi-genjot-free-float-di-tengah-jawaban-bei",
+  "category": "Aksi Korporasi",
+  "title": "DMND Kaji Aksi Korporasi Genjot [Free Float] di Tengah Jawaban BEI",
+  "deck": "DMND menjawab permintaan BEI soal volatilitas sahamnya, menyatakan tidak ada informasi material tersembunyi, sekaligus mengungkap tengah mengkaji aksi korporasi untuk menambah porsi saham beredar di publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T17:40:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c15b8215c4_c396eaadea.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMND",
+  "tags": [
+   "DMND",
+   "free float",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Diamond Food Indonesia Tbk. (DMND) menjawab surat Bursa Efek Indonesia nomor S-12078/BEI.PP2/09-2026 yang diterima perseroan pada 16 September 2026 terkait permintaan penjelasan atas volatilitas transaksi sahamnya. Dalam surat balasan bernomor DU/L-109/IDX/IX/2026 tertanggal 18 September 2026 yang ditandatangani Corporate Secretary Arinta Meidia Harsono, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, sesuai POJK Nomor 31/POJK.04/2015 dan Peraturan I-E BEI. Perseroan juga menyatakan tidak mengetahui aktivitas khusus dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024, dan belum memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang berdampak pada status pencatatan sahamnya di bursa.",
+   "Soal rencana pemegang saham utama, perseroan menyebut telah mengonfirmasi langsung kepada pemegang saham mayoritasnya, Chen Tsen Nan, yang menyatakan tidak mengetahui adanya transaksi tertentu atas saham DMND dan tidak berencana melakukan transaksi atas kepemilikannya dalam waktu dekat.",
+   "Namun surat ini juga mengungkap bahwa perseroan sedang menghadapi kewajiban pemenuhan jumlah saham beredar publik atau free float sesuai Peraturan Bursa Nomor I-A. Untuk itu, DMND mengaku terus berkoordinasi dengan pemegang saham utama, lembaga penunjang, dan profesi penunjang pasar modal, serta tengah mengkaji sejumlah alternatif aksi korporasi guna menambah porsi saham free float tersebut. Perseroan menegaskan kajian itu masih pada tahap awal, sehingga bentuk, waktu pelaksanaan, maupun dampaknya terhadap porsi kepemilikan pemegang saham utama belum diputuskan."
+  ],
+  "fotoAdegan": "Workers packing snack food products on a factory conveyor belt under bright industrial lighting in Indonesia",
+  "takeaway": "Surat ini pada dasarnya netral karena isinya menegaskan tidak ada informasi material yang disembunyikan dan pemegang saham mayoritas tidak berencana menjual atau menambah kepemilikannya dalam waktu dekat. Yang patut dicermati adalah pengakuan bahwa Diamond Food belum memenuhi kewajiban jumlah saham beredar di publik atau free float sesuai aturan bursa, sehingga perseroan tengah menimbang opsi aksi korporasi, misalnya menerbitkan saham baru untuk pihak di luar pemegang saham utama, guna menambah porsi saham yang beredar di publik. Kalau opsi itu nantinya berupa penerbitan saham baru, jumlah saham beredar bertambah dan itu berpotensi mengurangi laba per saham yang didapat tiap pemegang saham lama, sesuatu yang biasa diawasi pelaku pasar karena bisa mengecilkan bagian keuntungan per lembar saham mereka. Yang perlu dipantau selanjutnya adalah kapan Diamond Food mengumumkan bentuk dan jadwal pasti aksi korporasi tersebut, karena hingga surat 18 September 2026 ini terbit, keputusannya masih tahap kajian awal dan belum ada kepastian dampaknya terhadap porsi kepemilikan Chen Tsen Nan selaku pemegang saham mayoritas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "prda-buyback-saham-tembus-11-74-juta-lembar-per-18-september",
+  "category": "Aksi Korporasi",
+  "title": "PRDA [Buyback] Saham Tembus 11,74 Juta Lembar per 18 September",
+  "deck": "PT Prodia Widyahusada Tbk melaporkan realisasi pembelian kembali saham mencapai 11,74 juta lembar atau 1,24 persen dari total saham beredar per 18 September 2026, dengan sisa dana Rp118,02 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T17:03:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d5aa8b4bf_e3f7f7f054.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) melaporkan hasil pelaksanaan pembelian kembali saham periode 20 Agustus hingga 18 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, merujuk pada keterbukaan informasi rencana buyback tertanggal 19 Agustus 2026 dan Pasal 12 ayat 1 Peraturan OJK Nomor 13 Tahun 2023 tentang kebijakan menjaga stabilitas pasar pada kondisi fluktuasi signifikan. Laporan yang ditandatangani Corporate Secretary Marina Eka Amalia pada 18 September 2026 pukul 17.03 itu mencatat total 11.740.000 lembar saham telah dibeli kembali sepanjang periode tersebut, setara 1,24 persen dari seluruh saham PRDA yang tercatat di bursa. Pada transaksi terakhir tanggal 18 September, perseroan membeli 338.800 saham dengan harga rata-rata Rp2.799 per lembar.",
+   "Rincian transaksi harian menunjukkan pembelian terbesar terjadi pada 7 September 2026 sebanyak 2.616.500 lembar dengan harga rata-rata Rp2.795, setara 0,28 persen dari total saham tercatat, jauh di atas transaksi harian lain yang umumnya berkisar ratusan ribu lembar. Harga rata-rata pembelian juga cenderung naik sepanjang periode, dari Rp2.548 per lembar pada transaksi pertama 20 Agustus 2026 menjadi Rp2.799 pada 18 September 2026. Seiring pembelian berjalan, sisa dana yang dialokasikan untuk buyback menyusut dari Rp148,48 miliar pada 20 Agustus 2026 menjadi Rp118,02 miliar per 18 September 2026.",
+   "Dibandingkan laporan sebelumnya per 11 September 2026 yang mencatat realisasi 9,8 juta lembar, jumlah saham yang dibeli kembali bertambah sekitar 1,94 juta lembar dalam sepekan terakhir. Meski begitu, total pembelian kembali sejauh ini masih tergolong kecil dibandingkan keseluruhan saham PRDA yang beredar di bursa."
+  ],
+  "fotoAdegan": "Laboratory technicians in white coats sorting blood sample tubes on a rack inside a modern diagnostic lab, Jakarta",
+  "takeaway": "Buyback ini tetap netral bagi Prodia karena skalanya masih kecil, 11,74 juta lembar atau 1,24 persen dari total saham beredar belum cukup untuk mengubah struktur kepemilikan atau mendongkrak laba per saham secara berarti. Pembelian kembali saham memang mengurangi jumlah saham yang beredar di pasar, sehingga secara teori bisa membuat laba per saham naik sedikit karena laba yang sama dibagi ke saham yang lebih sedikit, tapi transaksi ini juga menyedot kas perusahaan, yang tampak dari sisa dana buyback yang terus menyusut menjadi Rp118,02 miliar. Kecepatan pembelian sempat melonjak pada 7 September dengan pembelian 2,6 juta lembar dalam sehari, menunjukkan perseroan cukup agresif memanfaatkan momentum harga saat itu. Yang perlu dipantau berikutnya adalah laporan pelaksanaan buyback selanjutnya yang wajib disampaikan Prodia ke OJK dan BEI setiap kali ada transaksi baru, serta apakah sisa dana Rp118,02 miliar akan terus terpakai hingga mendekati habis, yang akan menandai berakhirnya program ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "dfam-bantah-punya-info-pemicu-volatilitas-transaksi-saham",

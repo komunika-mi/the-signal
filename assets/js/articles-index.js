@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pnmp-listing-obligasi-dan-sukuk-rp2-59-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "PNMP [listing] obligasi dan sukuk Rp2,59 triliun di BEI",
+  "deck": "PNM mencatatkan obligasi dan sukuk baru senilai Rp2,59 triliun di BEI mulai 21 September 2026, bagian dari program dana berkelanjutan bertarget Rp16 triliun.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNMP",
+   "obligasi",
+   "sukuk",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5f1c2dc347_3598ffdd96.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jmas-ke-bursa-utang-klaim-rp11-24-miliar-tak-diakui",
+  "category": "Aksi Korporasi",
+  "title": "JMAS ke bursa: utang klaim Rp11,24 miliar [tak diakui]",
+  "deck": "Emiten asuransi syariah ini juga mengakui ada kesalahan pencatatan kas dan liabilitas polis dalam laporan keuangan September 2025, serta audit tahunan yang molor.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JMAS",
+   "asuransi syariah",
+   "laporan keuangan",
+   "utang klaim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0f238266bb_7d78828e74.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asdf-catatkan-obligasi-rp2-55-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "ASDF Catatkan [Obligasi] Rp2,55 Triliun di BEI",
+  "deck": "ASDF mencatatkan obligasi Rp2,55 triliun di BEI mulai 21 September 2026, terbagi dua seri dengan bunga tetap 7,15% dan 7,40%.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASDF",
+   "obligasi korporasi",
+   "Astra Sedaya Finance",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aa9ec73742_16dfece44f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jmas-koreksi-laporan-kuartal-iii-laba-naik-ke-rp5-39-miliar",
+  "category": "Aksi Korporasi",
+  "title": "JMAS koreksi laporan kuartal III, [laba] naik ke Rp5,39 miliar",
+  "deck": "Laporan keuangan kuartal III 2025 yang dikoreksi menunjukkan aset JMAS naik 39,2 persen dan liabilitas naik 46,4 persen, sementara laba bersih naik hampir dua kali lipat jadi Rp5,39 miliar.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JMAS",
+   "laporan keuangan",
+   "asuransi syariah",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2de71b14f8_5206cae45d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "chek-rampungkan-buyback-80-juta-saham-rp11-99-m",
+  "category": "Aksi Korporasi",
+  "title": "CHEK Rampungkan [Buyback] 80 Juta Saham Rp11,99 M",
+  "deck": "PT Diastika Biotekindo Tbk (CHEK) menutup program pembelian kembali saham senilai Rp11,99 miliar, menyerap 80 juta lembar saham atau 1,94 persen dari saham tercatat di BEI.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CHEK",
+   "buyback saham",
+   "Diastika Biotekindo",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93cd12fd23_f3104eb818.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cirebon-bangun-ulang-pelabuhan-ikan-senilai-rp459-miliar",
   "category": "Industri",
   "title": "Cirebon Bangun Ulang Pelabuhan Ikan Senilai [Rp459] Miliar",
@@ -41,6 +121,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Kelautan dan Perikanan"
  },
  {
+  "slug": "pefindo-pangkas-peringkat-adhi-ke-default-usai-gagal-bayar-kupon",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Pangkas Peringkat ADHI ke [Default] Usai Gagal Bayar Kupon",
+  "deck": "PEFINDO menurunkan peringkat PT Adhi Karya menjadi idSD (Selective Default) setelah emiten gagal melunasi kupon dua seri obligasi senilai total Rp2,46 triliun.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "obligasi",
+   "gagal bayar",
+   "PEFINDO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7bbcd09cd6_40aee85da2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemendag-andalkan-25-perjanjian-dagang-buat-tarik-investasi-ekspor",
   "category": "Bisnis",
   "title": "Kemendag Andalkan [25] Perjanjian Dagang buat Tarik Investasi Ekspor",
@@ -57,6 +153,70 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-attec-global-investment-forum-mendag-busan-dorong-investasi-berorientasi-ekspor",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "rgas-jelaskan-ke-bursa-piutang-berelasi-turun-98",
+  "category": "Aksi Korporasi",
+  "title": "RGAS Jelaskan ke Bursa, [Piutang] Berelasi Turun 98%",
+  "deck": "RGAS menjawab permintaan penjelasan BEI soal piutang usaha pihak berelasi yang turun Rp45,72 miliar dan piutang lain-lain yang naik Rp6,67 miliar pada semester I 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RGAS",
+   "piutang berelasi",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/099fe76bf8_2acc349ca8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-digugat-pkpu-rp4-25-miliar-oleh-dua-subkontraktor-proyek",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Digugat [PKPU] Rp4,25 Miliar oleh Dua Subkontraktor Proyek",
+  "deck": "PTPP menerima panggilan sidang PKPU dari dua subkontraktor proyek Museum KCBN Muarajambi atas tagihan yang belum dibayar sekitar Rp4,25 miliar; perseroan menyebut belum ada dampak signifikan.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "PKPU",
+   "konstruksi",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9833985dc3_8da3b48596.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dmnd-kaji-aksi-korporasi-genjot-free-float-di-tengah-jawaban-bei",
+  "category": "Aksi Korporasi",
+  "title": "DMND Kaji Aksi Korporasi Genjot [Free Float] di Tengah Jawaban BEI",
+  "deck": "DMND menjawab permintaan BEI soal volatilitas sahamnya, menyatakan tidak ada informasi material tersembunyi, sekaligus mengungkap tengah mengkaji aksi korporasi untuk menambah porsi saham beredar di publik.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMND",
+   "free float",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c15b8215c4_c396eaadea.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-buyback-saham-tembus-11-74-juta-lembar-per-18-september",
+  "category": "Aksi Korporasi",
+  "title": "PRDA [Buyback] Saham Tembus 11,74 Juta Lembar per 18 September",
+  "deck": "PT Prodia Widyahusada Tbk melaporkan realisasi pembelian kembali saham mencapai 11,74 juta lembar atau 1,24 persen dari total saham beredar per 18 September 2026, dengan sisa dana Rp118,02 miliar.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d5aa8b4bf_e3f7f7f054.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dfam-bantah-punya-info-pemicu-volatilitas-transaksi-saham",
@@ -6344,167 +6504,6 @@ var ARTICLES = [
    "Ingria Pratama Capitalindo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a11c6a845_079a40769a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inet-bukukan-laba-rp34-2-miliar-ekuitas-melonjak-ke-rp3-8-t",
-  "category": "Aksi Korporasi",
-  "title": "INET Bukukan Laba Rp34,2 Miliar, [Ekuitas] Melonjak ke Rp3,8 T",
-  "deck": "Pendapatan INET melonjak ke Rp926,5 miliar dan ekuitas naik jadi Rp3,8 triliun pada semester I 2026, didorong rights issue, penerbitan obligasi-sukuk Rp1 triliun, dan akuisisi anak usaha.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INET",
-   "laporan keuangan",
-   "rights issue",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/27ab0e8a51_c370cad22d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-lepas-289-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Lepas 289 Juta Saham Lewat [Repo]",
-  "deck": "Direksi NSSS lewat Samuel Sekuritas Indonesia menjual 289,3 juta saham senilai sekitar Rp160,6 miliar pada 10 September 2026, memangkas hak suaranya dari 26,61% menjadi 25,40%.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-2845-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "palm-ganti-direktur-gomos-benjamin-silitonga-masuk-jajaran",
-  "category": "Aksi Korporasi",
-  "title": "PALM Ganti Direktur, [Gomos Benjamin Silitonga] Masuk Jajaran",
-  "deck": "Provident Investasi Bersama mengumumkan Gomos Benjamin Silitonga menjadi Direktur baru menggantikan Budianto Purwahjo, sementara mayoritas pengurus lain dipertahankan.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PALM",
-   "pergantian direksi",
-   "tata kelola perusahaan",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4463982088_781f13f0bc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uvcr-laba-bersih-ultra-voucher-melonjak-600-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "UVCR: Laba bersih Ultra Voucher melonjak [600%] semester I 2026",
-  "deck": "Dalam public expose tahunan 10 September 2026, manajemen UVCR memaparkan lonjakan laba bersih lebih dari 600% dan pendapatan 42,5% pada semester I 2026, didorong ekspansi B2B dan UVGC.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "Ultra Voucher",
-   "UVGC",
-   "Kinerja Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd877c6b42_7c35ab18e9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kapolri-minta-pengusaha-jadikan-buruh-mitra-keluarga",
-  "category": "Ketenagakerjaan",
-  "title": "Kapolri Minta Pengusaha Jadikan Buruh [Mitra] Keluarga",
-  "deck": "Kapolri Listyo Sigit Prabowo mendorong pengusaha menjadikan buruh sebagai aset dan mitra, bukan sekadar tenaga kerja, dalam forum konsolidasi FSPMI di Bekasi.",
-  "date": "11 September 2026",
-  "image": "assets/img/kapolri-minta-pengusaha-jadikan-buruh-mitra-keluarga.jpg",
-  "imageV": "mtwpks3e",
-  "tags": [
-   "buruh",
-   "kapolri",
-   "hubungan industrial",
-   "FSPMI"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466383-bicara-nasib-buruh-kapolri-sampaikan-pesan-ke-pengusaha-jadikan-mereka-aset-mitra-dan-keluarga-perusahaan"
- },
- {
-  "slug": "hais-pendapatan-berpotensi-tertekan-hingga-20-di-2026",
-  "category": "Aksi Korporasi",
-  "title": "HAIS: Pendapatan Berpotensi Tertekan hingga [20%] di 2026",
-  "deck": "Manajemen HAIS proyeksikan pendapatan 2026 terkoreksi 10-20 persen akibat penyesuaian volume batu bara, sementara biaya bahan bakar yang tinggi turut menekan margin perusahaan pelayaran ini.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HAIS",
-   "public expose",
-   "pelayaran batu bara",
-   "Floating Crane"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1cee8afa65_f17bf0fffe.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "soho-tanggapi-bursa-ungkap-evaluasi-pemenuhan-free-float",
-  "category": "Aksi Korporasi",
-  "title": "SOHO Tanggapi Bursa, Ungkap Evaluasi Pemenuhan [Free Float]",
-  "deck": "Menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, SOHO menyatakan tidak ada informasi material yang belum diungkap, tapi tengah mengevaluasi cara memenuhi syarat saham beredar publik.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOHO",
-   "free float",
-   "volatilitas saham",
-   "Soho Global Health"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9221fd2ad9_b609eda88d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-direksi-jual-29-6-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Jual 29,6 Juta Saham Lewat [Repo]",
-  "deck": "Direksi Samuel Sekuritas Indonesia melepas 29,6 juta saham RLCO seharga Rp2.200 per saham untuk pencairan repo, hak suara turun dari 6,57% menjadi 5,62%.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan saham",
-   "direksi",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-1536-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asbi-presiden-direktur-mundur-bertepatan-rupslb-30-september",
-  "category": "Aksi Korporasi",
-  "title": "ASBI: Presiden Direktur [Mundur] Bertepatan RUPSLB 30 September",
-  "deck": "Hastanto Sri Margi Widodo mundur dari kursi Presiden Direktur merangkap Direktur Teknik ASBI, efektif 30 September 2026, bertepatan dengan RUPSLB perusahaan.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASBI",
-   "pengunduran diri direksi",
-   "RUPSLB",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/75aa7c73ce_21857a0272.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdla-marjin-kotor-turun-ke-9-3-meski-pendapatan-naik-10-1",
-  "category": "Aksi Korporasi",
-  "title": "MDLA: Marjin Kotor [Turun] ke 9,3% Meski Pendapatan Naik 10,1%",
-  "deck": "Public expose MDLA ungkap marjin kotor turun ke 9,3% pada semester I 2026, porsi saham publik 16,89% penuhi syarat minimum, dan penjualan alat kesehatan tumbuh 34%.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLA",
-   "Medela Potentia",
-   "public expose",
-   "marjin kotor"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a63dfb90c7_c6069b5274.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "arko-digugat-pkpu-oleh-pemasok-tagihan-rp70-juta",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Digugat [PKPU] oleh Pemasok, Tagihan Rp70 Juta",
+  "deck": "PT Arkora Hydro Tbk digugat penundaan kewajiban pembayaran utang oleh pemasok bernama Bima senilai Rp70 juta, yang menurut perseroan berdampak material bagi keuangannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T22:06:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E018_66c32c76-46a5-44a2-ad80-c10cfcd812c8-20260918220533.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "PKPU",
+   "Arkora Hydro",
+   "Gugatan Pailit"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) melaporkan ke Bursa Efek Indonesia bahwa perseroan menghadapi perkara penundaan kewajiban pembayaran utang (PKPU) yang diajukan oleh pihak bernama Bima. Gugatan ini terkait tagihan yang diklaim sebagai kewajiban perseroan kepada pemasoknya, dengan tanggal kejadian yang tercatat pada 19 September 2026.",
+   "Jumlah tagihan yang diperkarakan sebesar Rp70 juta. Perseroan menyatakan kewajiban ini berdampak material terhadap keuangannya, setara dengan 1 persen dari total aset perseroan berdasarkan laporan keuangan per 6 September 2026. Jangka waktu pemenuhan kewajiban ditetapkan dari 13 September 2026 hingga 28 September 2026, sehingga perseroan memiliki waktu sekitar dua minggu sejak tanggal pelaporan ini untuk menuntaskan tagihan tersebut.",
+   "Dalam laporan itu, perseroan tidak merinci secara spesifik alasan belum terpenuhinya pembayaran kepada pemasok maupun penjelasan lengkap manajemen atas gugatan tersebut. Dokumen keterbukaan ini ditandatangani oleh Rana, disebut sebagai pihak yang menyetujui (approver) laporan, atas nama PT Arkora Hydro Tbk."
+  ],
+  "fotoAdegan": "Workers inspecting turbine and pipe machinery inside a small hydroelectric power plant control room, industrial gauges visible",
+  "takeaway": "Laporan ini condong negatif bagi ARKO karena menandakan perseroan belum membayar tepat waktu kepada pemasoknya, sampai berujung gugatan penundaan kewajiban pembayaran utang di pengadilan, sebuah proses hukum yang oleh perseroan sendiri disebut berdampak material. Pos yang tersentuh adalah arus kas, yaitu ketersediaan uang tunai perseroan untuk melunasi kewajiban jangka pendek, karena kegagalan menuntaskan tagihan sekecil apa pun bisa membuka jalan bagi kreditor lain mengambil langkah hukum serupa jika perkara ini berlanjut ke tahap pailit. Nilai tagihan yang diperkarakan memang kecil secara nominal, hanya Rp70 juta, tetapi karena perseroan sendiri menyebutnya setara 1 persen dari total asetnya, itu mengindikasikan basis aset ARKO yang tidak besar sehingga sensitif terhadap tagihan sekecil ini. Yang perlu dipantau selanjutnya adalah batas waktu penyelesaian kewajiban pada 28 September 2026, serta apakah perkara ini berlanjut ke persidangan pengadilan niaga yang menentukan status PKPU atau risiko pailit bagi perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "arko-pefindo-pertahankan-rating-outlook-positif",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: PEFINDO Pertahankan Rating, Outlook [Positif]",
+  "deck": "PEFINDO mempertahankan peringkat obligasi ARKO01AGN senilai Rp318,06 miliar milik Arkora Hydro dengan outlook positif, tidak berubah dari peringkat sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T22:04:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E030_df23c827-cbb9-477f-9f69-c7de068213f9-20260918220358.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "PEFINDO",
+   "obligasi",
+   "pemeringkatan"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) menyampaikan keterbukaan informasi hasil pemeringkatan tahunan atas obligasi ARKO01AGN dengan jumlah pokok Rp318,06 miliar dan tanggal jatuh tempo 8 Agustus 2026. Lembaga pemeringkat PEFINDO menetapkan outlook positif atas efek ini, dan peringkat saat ini dinyatakan tidak berbeda dari peringkat sebelumnya alias dipertahankan.",
+   "Hasil pemeringkatan diterbitkan PEFINDO pada 8 September 2026, diterima manajemen ARKO pada 15 September 2026, dan akan dipublikasikan resmi ke publik pada 21 September 2026. Surat keterbukaan ditandatangani secara elektronik oleh Rana Approver mewakili PT Arkora Hydro Tbk.",
+   "Laporan ini terbit di hari yang sama dengan pemberitaan bahwa ARKO digugat penundaan kewajiban pembayaran utang (PKPU) oleh salah satu pemasoknya atas tagihan Rp70 juta, sehingga dua kabar dengan arah berbeda muncul bersamaan bagi pemegang saham dan pemegang obligasi perseroan."
+  ],
+  "fotoAdegan": "Small hydroelectric power station with water rushing through turbine penstocks in a forested Sumatran valley, overcast morning light",
+  "takeaway": "Laporan ini condong positif bagi ARKO dari sisi utang jangka panjangnya: PEFINDO mempertahankan peringkat obligasi ARKO01AGN dan memberi outlook positif, artinya lembaga pemeringkat masih menilai kemampuan perseroan membayar bunga dan pokok utangnya cukup terjaga, meski belum ada kenaikan peringkat aktual. Yang tersentuh di sini adalah beban bunga dan arus kas perseroan, karena peringkat kredit ikut menentukan seberapa mahal biaya utang baru yang harus ditanggung Arkora Hydro ke depan, dan outlook positif membuka peluang kenaikan peringkat bila kinerja keuangan tetap terjaga. Catatan ini perlu dibaca berdampingan dengan gugatan PKPU senilai Rp70 juta dari pemasok yang menimpa ARKO pada hari yang sama, sebab itu menandakan masih ada keterlambatan pembayaran di level operasional meski peringkat utang jangka panjangnya stabil. Yang perlu dipantau berikutnya adalah publikasi resmi hasil pemeringkatan oleh PEFINDO pada 21 September 2026 serta kelanjutan proses PKPU tersebut, karena keduanya bersama-sama akan menentukan apakah outlook positif ini bisa bertahan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tks-korsfu-gelar-rups-bahas-dividen-dan-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "TKS-KORSFU Gelar RUPS, Bahas Dividen dan [PMTHMETD]",
+  "deck": "TKS-KORSFU menggelar RUPS Tahunan, Luar Biasa, dan Independen pada 18 September 2026, membahas dividen tunai, saham bonus, dan penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T21:54:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_TKS-KORSFU_E049_4f0cf407-0c7d-499e-bfe1-0f04859233a1-20260918215359.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TKS-KORSFU",
+  "tags": [
+   "TKS-KORSFU",
+   "RUPS",
+   "dividen",
+   "PMTHMETD"
+  ],
+  "body": [
+   "Perusahaan dengan kode emiten TKS-KORSFU menyampaikan pemberitahuan mata acara Rapat Umum Pemegang Saham (RUPS) Tahunan, Luar Biasa, dan Independen yang akan digelar pada 18 September 2026 pukul 10.00 WIB di Jakarta Selatan. Rapat akan diselenggarakan melalui sarana elektronik Easy KSEI, dengan tanggal pemanggilan dan pengumuman RUPS yang sama, yakni 18 September 2026.",
+   "Dalam RUPS Tahunan, agenda tunggal yang diajukan adalah persetujuan penggunaan laba bersih tahun buku 2026 dalam bentuk dividen tunai. Pada RUPS Luar Biasa, perseroan mengajukan persetujuan pembagian saham bonus untuk tahun buku 2026. Sementara itu, RUPS Independen akan meminta persetujuan pemegang saham independen atas rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) untuk tahun buku yang sama.",
+   "Dokumen pemberitahuan ini belum mencantumkan nominal dividen, rasio pembagian saham bonus, atau jumlah dan harga saham baru dalam rencana PMTHMETD. Rincian tersebut baru akan diketahui setelah RUPS berlangsung dan hasilnya diumumkan ke publik."
+  ],
+  "fotoAdegan": "Empty formal corporate meeting hall with rows of chairs facing a stage, soft morning light through tall windows in Jakarta",
+  "takeaway": "Penilaian atas agenda ini netral, sebab RUPS sekaligus membawa dua kabar berlawanan arah, yaitu rencana dividen tunai yang menguntungkan pemegang saham dan rencana penambahan modal tanpa hak memesan efek terlebih dahulu yang berpotensi mengurangi porsi kepemilikan mereka, sementara besaran keduanya belum diumumkan sehingga dampak bersihnya belum bisa dihitung. Yang tersentuh adalah jumlah saham beredar dan potensi laba per saham: pembagian saham bonus menambah jumlah saham yang beredar tanpa mengubah proporsi kepemilikan tiap pemegang saham, sedangkan penambahan modal lewat PMTHMETD bisa menambah saham beredar dari pemegang baru sehingga porsi kepemilikan pemegang saham lama yang tidak ikut serta bisa mengecil. Yang perlu dipantau adalah hasil resmi RUPS pada 18 September 2026 pukul 10.00 WIB di Jakarta Selatan, yang akan mengumumkan nilai dividen per saham, rasio saham bonus, dan skema lengkap PMTHMETD termasuk jumlah serta harga saham baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-obligasi-rp318-miliar-jatuh-tempo-dihapus-dari-bei",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Obligasi Rp318 Miliar [Jatuh Tempo], Dihapus dari BEI",
+  "deck": "Bursa akan menghapus pencatatan obligasi hijau ARKO01AGN milik Arkora Hydro senilai Rp318,06 miliar mulai 30 September 2026 karena sudah jatuh tempo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T21:50:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_B012_076ee20c-fbd7-4d5d-a302-bceda6390749-20260918214955.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mengumumkan penghapusan pencatatan obligasi berkode ARKO01AGN milik PT Arkora Hydro Tbk (ARKO) dari perdagangan bursa, efektif mulai 30 September 2026. Obligasi bernama Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri A ini diterbitkan pada 8 Agustus 2023 dengan nilai emisi yang saat ini tercatat Rp318,06 miliar, dan telah mencapai tanggal jatuh temponya pada 8 Agustus 2026.",
+   "Setelah tanggal 30 September 2026, efek ini tidak lagi tercatat dan tidak dapat diperdagangkan melalui BEI. Ini merupakan prosedur administratif rutin yang dilakukan bursa terhadap setiap obligasi begitu masa tenornya berakhir, dan pengumuman ini sendiri tidak menyebutkan status pelunasan, apakah ARKO sudah membayar penuh pokok obligasi kepada pemegang obligasinya.",
+   "Obligasi ini adalah seri yang sama yang belum lama ini mendapat pernyataan dari lembaga pemeringkat PEFINDO, yang mempertahankan peringkatnya dengan outlook positif. Di hari yang sama dengan pengumuman ini, ARKO juga diberitakan digugat penundaan kewajiban pembayaran utang (PKPU) oleh salah satu pemasoknya atas tagihan senilai Rp70 juta."
+  ],
+  "fotoAdegan": "Wide view of a small hydroelectric dam and turbine house beside a fast flowing river in a forested Indonesian valley, morning mist",
+  "takeaway": "Pengumuman ini sendiri netral, sebab isinya murni prosedur administratif bursa menghapus pencatatan obligasi begitu masa jatuh temponya lewat, bukan pernyataan baru soal kondisi keuangan ARKO. Yang disentuh di sini adalah pos utang jangka panjang di neraca ARKO, karena begitu obligasi Rp318,06 miliar ini jatuh tempo, perusahaan wajib mengeluarkan kas dalam jumlah besar untuk melunasi pokoknya kepada pemegang obligasi, dan pasar biasanya mengamati kemampuan bayar semacam ini terutama kalau ada tanda-tanda tekanan arus kas di tempat lain. Tanda tekanan itu justru muncul hari yang sama lewat gugatan PKPU dari pemasok atas tagihan yang jauh lebih kecil, Rp70 juta, sehingga kombinasi kedua kabar ini pantas dicermati bersama. Yang perlu dipantau selanjutnya adalah apakah ARKO akan mengumumkan konfirmasi pelunasan penuh obligasi ARKO01AGN kepada wali amanat dan bursa, serta bagaimana kelanjutan proses PKPU yang diajukan pemasoknya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "smdr-suntik-modal-rp33-7-miliar-ke-anak-usaha-properti",
   "category": "Aksi Korporasi",
   "title": "SMDR Suntik Modal [Rp33,7 Miliar] ke Anak Usaha Properti",

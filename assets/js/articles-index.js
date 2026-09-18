@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "arko-digugat-pkpu-oleh-pemasok-tagihan-rp70-juta",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Digugat [PKPU] oleh Pemasok, Tagihan Rp70 Juta",
+  "deck": "PT Arkora Hydro Tbk digugat penundaan kewajiban pembayaran utang oleh pemasok bernama Bima senilai Rp70 juta, yang menurut perseroan berdampak material bagi keuangannya.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "PKPU",
+   "Arkora Hydro",
+   "Gugatan Pailit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E018_66c32c76-46a5-44a2-ad80-c10cfcd812c8-20260918220533.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-pefindo-pertahankan-rating-outlook-positif",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: PEFINDO Pertahankan Rating, Outlook [Positif]",
+  "deck": "PEFINDO mempertahankan peringkat obligasi ARKO01AGN senilai Rp318,06 miliar milik Arkora Hydro dengan outlook positif, tidak berubah dari peringkat sebelumnya.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "PEFINDO",
+   "obligasi",
+   "pemeringkatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E030_df23c827-cbb9-477f-9f69-c7de068213f9-20260918220358.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tks-korsfu-gelar-rups-bahas-dividen-dan-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "TKS-KORSFU Gelar RUPS, Bahas Dividen dan [PMTHMETD]",
+  "deck": "TKS-KORSFU menggelar RUPS Tahunan, Luar Biasa, dan Independen pada 18 September 2026, membahas dividen tunai, saham bonus, dan penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TKS-KORSFU",
+   "RUPS",
+   "dividen",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_TKS-KORSFU_E049_4f0cf407-0c7d-499e-bfe1-0f04859233a1-20260918215359.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-obligasi-rp318-miliar-jatuh-tempo-dihapus-dari-bei",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Obligasi Rp318 Miliar [Jatuh Tempo], Dihapus dari BEI",
+  "deck": "Bursa akan menghapus pencatatan obligasi hijau ARKO01AGN milik Arkora Hydro senilai Rp318,06 miliar mulai 30 September 2026 karena sudah jatuh tempo.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_B012_076ee20c-fbd7-4d5d-a302-bceda6390749-20260918214955.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smdr-suntik-modal-rp33-7-miliar-ke-anak-usaha-properti",
   "category": "Aksi Korporasi",
   "title": "SMDR Suntik Modal [Rp33,7 Miliar] ke Anak Usaha Properti",
@@ -6442,70 +6506,6 @@ var ARTICLES = [
    "pemantauan khusus"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/269c001c5b_5995ccd9cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smmt-umumkan-rencana-rupslb-pada-20-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "SMMT Umumkan Rencana [RUPSLB] pada 20 Oktober 2026",
-  "deck": "Golden Eagle Energy (SMMT) akan menggelar RUPSLB di Jakarta pada 20 Oktober 2026. Pemegang saham per 25 September 2026 berhak hadir, agenda rapat baru diumumkan 28 September 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMT",
-   "RUPSLB",
-   "Golden Eagle Energy",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d15e5342e_9c92938bb2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "towr-ungkap-alasan-akuisisi-bmg-dalam-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "TOWR Ungkap Alasan Akuisisi [BMG] dalam Public Expose",
-  "deck": "Manajemen TOWR menjelaskan alasan akuisisi BMG dan cara menjaga beban bunga di public expose tahunan yang dihadiri 117 investor.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "Sarana Menara Nusantara",
-   "Public Expose",
-   "Akuisisi BMG"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0bf37a25f4_c2685feb69.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-komisaris-jual-431-200-saham-senilai-rp1-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Komisaris [Jual] 431.200 Saham Senilai Rp1 Miliar",
-  "deck": "PT Investindo Arya, yang menjabat komisaris TAPG, melepas 431.200 saham TAPG pada 8 September 2026 seharga Rp2.320 per saham, mengurangi hak suaranya menjadi 0,0119%.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "kepemilikan saham",
-   "komisaris",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-9487-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "suni-jawab-bursa-laba-turun-piutang-macet-melonjak-609",
-  "category": "Aksi Korporasi",
-  "title": "SUNI Jawab Bursa: Laba Turun, Piutang Macet [Melonjak] 609%",
-  "deck": "SUNI menjawab permintaan penjelasan Bursa Efek Indonesia soal laporan keuangan Juni 2026: penjualan dan laba turun, piutang macet melonjak, namun rasio utang ke bank masih aman.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUNI",
-   "laporan keuangan",
-   "piutang macet",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fecfddcaab_254548d8f6.pdf",
   "sourceLabel": "IDX"
  }
 ];

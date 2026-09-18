@@ -4,6 +4,46 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "2AxYH_wOjdI",
+  "title": "Rekomendasi DEN DPI dan GovTech soal Rekening Massal",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "DEN DPI dan GovTech menyampaikan rekomendasi soal rencana pembukaan rekening bank secara massal, yang diperkirakan membutuhkan anggaran APBN hingga Rp11 triliun dan menuai pro kontra.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut penggunaan anggaran negara skala triliunan rupiah dan arah kebijakan inklusi keuangan."
+ },
+ {
+  "id": "OZ0u11KR5GU",
+  "title": "Kemensos Jelaskan Data Tunggal Sosial dan Ekonomi Nasional",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Kementerian Sosial memaparkan skema Data Tunggal Sosial dan Ekonomi Nasional sebagai alternatif rencana pembukaan rekening bank massal yang membutuhkan anggaran APBN hingga Rp11 triliun.",
+  "takeaway": "Menyorot arah kebijakan penyaluran bantuan sosial yang berdampak pada efisiensi anggaran negara."
+ },
+ {
+  "id": "jQvSoo1dI8g",
+  "title": "Rekening Massal, Bansos Makin Tepat Sasaran?",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi membahas apakah rencana pembukaan rekening bank massal, yang diperkirakan menelan anggaran APBN hingga Rp11 triliun, akan membuat penyaluran bantuan sosial lebih tepat sasaran.",
+  "takeaway": "Membahas efektivitas kebijakan yang berpotensi menyerap anggaran negara dalam jumlah besar."
+ },
+ {
+  "id": "wS38Uvlhe3s",
+  "title": "Polemik Rekening Massal Rp11 Triliun, Ini Kata Ekonom",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Kalangan ekonom menanggapi polemik rencana pembukaan rekening bank secara massal yang diperkirakan menghabiskan anggaran APBN hingga Rp11 triliun.",
+  "takeaway": "Memberi perspektif ekonom atas kebijakan yang menuai pro dan kontra di publik."
+ },
+ {
+  "id": "E956iAU2iRY",
+  "title": "FKBI: Rekening Massal Berpotensi Jadi Rekening Dormant",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "FKBI menilai rencana pembukaan rekening bank secara massal berpotensi menghasilkan banyak rekening dormant, di tengah anggaran APBN yang ditaksir mencapai Rp11 triliun.",
+  "takeaway": "Menyoal efektivitas kebijakan perbankan yang berisiko memboroskan anggaran negara."
+ },
+ {
   "id": "XGzXU5F6o90",
   "title": "Cukai Vape 2025 Tembus Rp2,8 Triliun",
   "category": "Makroekonomi",
@@ -442,45 +482,5 @@ var VIDEOS = [
   "program": "AKIS",
   "summary": "Antrean kendaraan di sejumlah SPBU Kota Makassar, Sulawesi Selatan, mengular hingga sekitar 1 kilometer akibat keterbatasan pasokan BBM jenis Solar dan Pertalite.",
   "takeaway": "Kelangkaan BBM bersubsidi menyangkut isu distribusi energi yang berdampak langsung pada mobilitas dan aktivitas ekonomi masyarakat."
- },
- {
-  "id": "ir9FK2LlTQs",
-  "title": "PT Ratu Wisata Universal Raih Penghargaan APSI 2026",
-  "category": "Bisnis",
-  "program": "AKIS",
-  "summary": "PT Ratu Wisata Universal meraih penghargaan sebagai penjual tiket Saudia terbanyak periode 2022-2025 dalam ajang Anugerah Perjalanan Suci Indonesia 2026.",
-  "takeaway": "Capaian ini menggambarkan kinerja pelaku usaha di sektor jasa perjalanan umrah dan haji yang terus berkembang."
- },
- {
-  "id": "JnywAQRvTlM",
-  "title": "Dirut Bank Kalbar Kunjungi Kantor Pusat tvOne",
-  "category": "Perbankan",
-  "program": "tvOneNews",
-  "summary": "Direktur Utama Bank Kalbar melakukan audiensi ke kantor pusat tvOne untuk memperkuat sinergi antara perbankan daerah dan media.",
-  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan bank pembangunan daerah dan upaya perluasan jangkauan bisnisnya."
- },
- {
-  "id": "gUoSGKarSZc",
-  "title": "Harga Beras Melonjak Akibat Kemarau Panjang",
-  "category": "Makroekonomi",
-  "program": "Kabar Petang",
-  "summary": "Harga beras naik dalam sebulan terakhir setelah kemarau panjang membuat petani gagal panen sehingga produksi dan pasokan padi menurun.",
-  "takeaway": "Kenaikan harga beras berpotensi mendorong inflasi pangan dan menekan daya beli masyarakat, sehingga penting dipantau pembaca ekonomi."
- },
- {
-  "id": "YKMQnyptEhk",
-  "title": "Indonesia-Tiongkok Kerja Sama Membangun Perumahan",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Perumahan dan Kawasan Permukiman Maruarar Sirait bertemu Duta Besar Tiongkok untuk Indonesia membahas tindak lanjut kerja sama pembangunan perumahan kedua negara.",
-  "takeaway": "Kerja sama lintas negara di sektor perumahan ini berpotensi membuka peluang investasi dan proyek konstruksi baru bagi industri properti nasional."
- },
- {
-  "id": "gY_d2mAeQU4",
-  "title": "BRI dan BSI Ditunjuk Siapkan Rekening Warga",
-  "category": "Perbankan",
-  "program": "Kabar Merah Putih",
-  "summary": "Presiden Prabowo Subianto meminta masyarakat Indonesia memiliki rekening bank, dan Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyebut BRI dan BSI ditunjuk menyiapkan rekening bagi warga.",
-  "takeaway": "Kebijakan ini menyangkut perluasan inklusi keuangan yang berdampak langsung pada industri perbankan dan penyaluran layanan keuangan ke masyarakat luas."
  }
 ];

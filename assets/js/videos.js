@@ -2,6 +2,51 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "2AxYH_wOjdI",
+  "title": "Rekomendasi DEN DPI dan GovTech soal Rekening Massal",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "DEN DPI dan GovTech menyampaikan rekomendasi soal rencana pembukaan rekening bank secara massal, yang diperkirakan membutuhkan anggaran APBN hingga Rp11 triliun dan menuai pro kontra.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut penggunaan anggaran negara skala triliunan rupiah dan arah kebijakan inklusi keuangan.",
+  "terbit": "2026-09-18T15:50:29+00:00"
+ },
+ {
+  "id": "OZ0u11KR5GU",
+  "title": "Kemensos Jelaskan Data Tunggal Sosial dan Ekonomi Nasional",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Kementerian Sosial memaparkan skema Data Tunggal Sosial dan Ekonomi Nasional sebagai alternatif rencana pembukaan rekening bank massal yang membutuhkan anggaran APBN hingga Rp11 triliun.",
+  "takeaway": "Menyorot arah kebijakan penyaluran bantuan sosial yang berdampak pada efisiensi anggaran negara.",
+  "terbit": "2026-09-18T15:24:04+00:00"
+ },
+ {
+  "id": "jQvSoo1dI8g",
+  "title": "Rekening Massal, Bansos Makin Tepat Sasaran?",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi membahas apakah rencana pembukaan rekening bank massal, yang diperkirakan menelan anggaran APBN hingga Rp11 triliun, akan membuat penyaluran bantuan sosial lebih tepat sasaran.",
+  "takeaway": "Membahas efektivitas kebijakan yang berpotensi menyerap anggaran negara dalam jumlah besar.",
+  "terbit": "2026-09-18T15:22:02+00:00"
+ },
+ {
+  "id": "wS38Uvlhe3s",
+  "title": "Polemik Rekening Massal Rp11 Triliun, Ini Kata Ekonom",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Kalangan ekonom menanggapi polemik rencana pembukaan rekening bank secara massal yang diperkirakan menghabiskan anggaran APBN hingga Rp11 triliun.",
+  "takeaway": "Memberi perspektif ekonom atas kebijakan yang menuai pro dan kontra di publik.",
+  "terbit": "2026-09-18T15:15:02+00:00"
+ },
+ {
+  "id": "E956iAU2iRY",
+  "title": "FKBI: Rekening Massal Berpotensi Jadi Rekening Dormant",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "FKBI menilai rencana pembukaan rekening bank secara massal berpotensi menghasilkan banyak rekening dormant, di tengah anggaran APBN yang ditaksir mencapai Rp11 triliun.",
+  "takeaway": "Menyoal efektivitas kebijakan perbankan yang berisiko memboroskan anggaran negara.",
+  "terbit": "2026-09-18T15:00:03+00:00"
+ },
+ {
   "id": "XGzXU5F6o90",
   "title": "Cukai Vape 2025 Tembus Rp2,8 Triliun",
   "category": "Makroekonomi",

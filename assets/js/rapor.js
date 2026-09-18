@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-18T01:27:23.304+07:00",
+ "diperbarui": "2026-09-19T00:50:13.393+07:00",
  "entri": [
+  {
+   "id": "2026-09-18-3",
+   "edisi": "2026-09-18",
+   "benang": "Gelombang Tambah Modal Non-HMETD Menyebar",
+   "klaim": "Aksi tambah modal sedang marak menjelang klaster RUPSLB akhir Oktober, dan penentu arahnya adalah bagaimana penggunaan dana masing-masing diungkap setelah rapat-rapat itu digelar.",
+   "penanda": "Pengungkapan penggunaan dana masing-masing emiten setelah klaster RUPSLB akhir Oktober digelar",
+   "tenggat": "2026-10-31",
+   "tenggatLabel": "klaster RUPSLB akhir Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-18-2",
+   "edisi": "2026-09-18",
+   "benang": "Pengawasan Bursa Meluas ke Free Float",
+   "klaim": "Melanjutkan pola dari edisi kemarin, jumlah emiten yang terjaring masalah kepatuhan dan pelaporan di bursa terus bertambah, dan arah ini akan terkonfirmasi lebih jauh saat PTSN dan DMND benar-benar merealisasikan aksi korporasi yang mereka sebut untuk memenuhi syarat free float.",
+   "penanda": "PTSN dan DMND merealisasikan aksi korporasi yang mereka sebut untuk memenuhi syarat minimum saham beredar publik",
+   "tenggat": null,
+   "tenggatLabel": "saat PTSN dan DMND benar-benar merealisasikan aksi korporasi yang mereka sebut",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-18-1",
+   "edisi": "2026-09-18",
+   "benang": "Tekanan Gagal Bayar Menjalar di BUMN Karya",
+   "klaim": "Tekanan likuiditas menjalar di sektor konstruksi pelat merah dan tidak lagi terbatas pada satu emiten, dengan arah ini akan makin terlihat dari apakah ADHI dan WIKA mampu menuntaskan restrukturisasi kupon dan bagi hasil yang tertunda sebelum jatuh tempo pembayaran berikutnya.",
+   "penanda": "Apakah ADHI dan WIKA mampu menuntaskan restrukturisasi kupon dan bagi hasil yang tertunda",
+   "tenggat": null,
+   "tenggatLabel": "sebelum jatuh tempo pembayaran berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-17-3",
    "edisi": "2026-09-17",
@@ -535,8 +568,13 @@ var RAPOR = {
    "penanda": "Hasil kuorum RUPSU WIKA yang menentukan apakah pemegang sukuk menyetujui penundaan pokok dan bagi hasil berjalan tertib atau berubah menjadi gagal bayar resmi",
    "tenggat": "2026-09-15",
    "tenggatLabel": "empat RUPSU WIKA dalam rentang 9 sampai 15 September",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "wika-suspensi-berlanjut-usai-gagal-bayar-sukuk-mudharabah",
+    "judul": "WIKA Suspensi Berlanjut Usai Gagal Bayar Sukuk Mudharabah",
+    "tanggal": "18 September 2026",
+    "alasan": "Artikel ini melaporkan WIKA gagal bayar sukuk mudharabah dan suspensi berlanjut, menunjukkan hasil RUPSU/proses restrukturisasi berujung status gagal bayar resmi, bukan penundaan yang tertib disetujui."
+   }
   },
   {
    "id": "2026-08-25-2",

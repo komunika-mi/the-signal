@@ -5,6 +5,214 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dfam-bantah-punya-info-pemicu-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "DFAM Bantah Punya Info Pemicu [Volatilitas] Transaksi Saham",
+  "deck": "Menjawab permintaan penjelasan BEI, Dafam Property menyatakan tak tahu penyebab lonjakan transaksi sahamnya dan tak punya rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DFAM",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/382aceee27_3f5f3fdf83.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uvcr-rencanakan-pmthmetd-hingga-200-juta-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Rencanakan [PMTHMETD] hingga 200 Juta Saham Baru",
+  "deck": "Trimegah Karya Pratama (UVCR) berencana menerbitkan maksimal 200 juta saham baru tanpa hak memesan efek terlebih dahulu, menunggu persetujuan RUPSLB pada 27 Oktober 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR",
+   "PMTHMETD",
+   "Ultra Voucher",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/538cf82b2f_a744976607.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-suspensi-berlanjut-usai-gagal-bayar-sukuk-mudharabah",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Suspensi] Berlanjut Usai Gagal Bayar Sukuk Mudharabah",
+  "deck": "BEI melanjutkan suspensi saham WIKA di seluruh pasar setelah perseroan menunda pembayaran bagi hasil Sukuk Mudharabah yang jatuh tempo 18 September 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "gagal bayar",
+   "sukuk mudharabah",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a54db63538_cbb1926c75.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtmh-ubah-perjanjian-kredit-dengan-bca-geser-rp60-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MTMH Ubah Perjanjian Kredit dengan [BCA], Geser Rp60 Miliar",
+  "deck": "Murni Sadar mengubah perjanjian kredit dengan BCA, mengalihkan Rp60 miliar dari fasilitas KI 7 MS Tranche D ke fasilitas baru Kredit Investasi 8 untuk anak usahanya, PT MS.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTMH",
+   "BCA",
+   "kredit",
+   "rumah sakit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84e7e149ca_cd42986c83.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "refi-kena-sanksi-sp2-bei-laporan-keuangan-masih-telat",
+  "category": "Aksi Korporasi",
+  "title": "REFI Kena Sanksi [SP2] BEI, Laporan Keuangan Masih Telat",
+  "deck": "BEI mengoreksi pengumuman sanksi REFI dan POST yang belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 hingga batas waktu 3 September 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "REFI",
+   "BEI",
+   "sanksi",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8f59cba950_f87374a6f1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgl-koreksi-jawaban-bursa-piutang-rp21-6-m-ke-pengendali-mandek",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Koreksi Jawaban Bursa: [Piutang] Rp21,6 M ke Pengendali Mandek",
+  "deck": "PPGL mengoreksi jawabannya ke Bursa soal divestasi JAYA, piutang Rp21,62 miliar ke pemegang saham pengendali dari transaksi itu masih belum lunas meski dividen sudah dibagikan lebih dulu.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "divestasi JAYA",
+   "piutang pihak berelasi",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb3646c0e2_c3c0dd7b89.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "doid-suntik-us-4-7-juta-ke-moura-via-buma-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "DOID Suntik US$4,7 Juta ke [Moura] via BUMA Indonesia",
+  "deck": "BUMA Indonesia, anak usaha DOID, menambah modal US$4,7 juta ke Grup Moura Materials di Australia, transaksi intra-grup yang dikecualikan dari persetujuan RUPS.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOID",
+   "Transaksi Material",
+   "Moura Materials",
+   "BUMA Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/78d0e6e7cb_78062d1e82.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kios-jadwalkan-rupslb-27-oktober-usul-agenda-tutup-28-sep",
+  "category": "Aksi Korporasi",
+  "title": "KIOS Jadwalkan [RUPSLB] 27 Oktober, Usul Agenda Tutup 28 Sep",
+  "deck": "Kioson Komersial Indonesia mengumumkan rencana RUPSLB pada 27 Oktober 2026 di Jakarta, dengan tenggat usul agenda pemegang saham 28 September dan pencatatan pemegang saham per 2 Oktober 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KIOS",
+   "RUPSLB",
+   "Kioson Komersial Indonesia",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3fae0af454_ba04e9adea.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "csmi-keluar-dari-pemantauan-khusus-bei-mulai-21-september",
+  "category": "Aksi Korporasi",
+  "title": "CSMI Keluar dari [Pemantauan Khusus] BEI Mulai 21 September",
+  "deck": "Bursa Efek Indonesia mencabut saham PT Cipta Selera Murni Tbk (CSMI) dari papan pemantauan khusus dan memindahkannya ke Papan Pengembangan, efektif 21 September 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSMI",
+   "BEI",
+   "Pemantauan Khusus",
+   "Papan Pengembangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/341b17bce5_12aeb65c4c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "life-dan-grph-masuk-pemantauan-khusus-bei-mulai-21-september",
+  "category": "Aksi Korporasi",
+  "title": "LIFE dan GRPH masuk [Pemantauan Khusus] BEI mulai 21 September",
+  "deck": "BEI memasukkan saham MSIG Life Insurance Indonesia (LIFE) dan Griptha Putra Persada (GRPH) ke daftar pemantauan khusus, efektif 21 September 2026, karena riwayat penghentian perdagangan.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LIFE",
+   "GRPH",
+   "Pemantauan Khusus",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b362b3e6be_473a63c817.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uvcr-jadwalkan-rupslb-27-oktober-bahas-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Jadwalkan RUPSLB [27 Oktober], Bahas Saham Baru",
+  "deck": "UVCR menjadwalkan RUPSLB pada 27 Oktober 2026, dengan pemanggilan resmi 5 Oktober dan pencatatan pemegang saham berhak hadir per 2 Oktober 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR",
+   "RUPSLB",
+   "Trimegah Karya Pratama",
+   "Ultra Voucher"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/82febb9b0b_3106f97983.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "defi-jawab-bei-soal-volatilitas-buka-pintu-mitra-strategis",
+  "category": "Aksi Korporasi",
+  "title": "DEFI Jawab BEI soal Volatilitas, Buka Pintu [Mitra Strategis]",
+  "deck": "Danasupra Erapacific menjawab permintaan penjelasan BEI atas volatilitas sahamnya, menegaskan tidak ada informasi material baru namun membuka diri pada calon mitra strategis.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEFI",
+   "Danasupra Erapacific",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b87f0353a9_995b241da3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpro-ungkap-ke-bursa-rugi-rp16-2-m-kas-tinggal-rp5-m",
+  "category": "Aksi Korporasi",
+  "title": "MPRO Ungkap ke Bursa: [Rugi] Rp16,2 M, Kas Tinggal Rp5 M",
+  "deck": "Menjawab permintaan penjelasan dan site visit BEI, MPRO mengungkap rugi bersih Rp16,2 miliar, kas Rp5 miliar, dan lahan Maja 318 hektare yang belum bersertifikat sejak 2022.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPRO",
+   "properti",
+   "rugi bersih",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d47a385796_e4ebb7fc56.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ultj-tanggapi-permintaan-bursa-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "ULTJ Tanggapi Permintaan Bursa soal [Volatilitas] Saham",
@@ -6290,219 +6498,6 @@ var ARTICLES = [
    "pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-1074-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "peruri-raih-bintang-5-di-top-grc-awards-2026",
-  "category": "BUMN",
-  "title": "Peruri Raih [Bintang 5] di Top GRC Awards 2026",
-  "deck": "Peruri kembali meraih predikat tertinggi Bintang 5 dan Golden Trophy di Top GRC Awards 2026, sementara direktur teknologi dan manajemen risikonya meraih penghargaan individu.",
-  "date": "11 September 2026",
-  "image": "assets/img/peruri-raih-bintang-5-di-top-grc-awards-2026.jpg",
-  "imageV": "mtweww5y",
-  "tags": [
-   "Peruri",
-   "BUMN",
-   "Tata Kelola",
-   "GovTech Indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466349-peruri-kembali-raih-top-grc-awards-2026-perkuat-tata-kelola-dan-manajemen-risiko"
- },
- {
-  "slug": "ptpp-restrukturisasi-utang-rp18-2-triliun-ke-bank-bumn",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Restrukturisasi Utang [Rp18,2 Triliun] ke Bank BUMN",
-  "deck": "PTPP menandatangani Master Restructuring Agreement senilai Rp18,2 triliun dengan empat bank BUMN untuk restrukturisasi utang, efektif setelah RUPS dan sejumlah syarat terpenuhi.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "restrukturisasi utang",
-   "Master Restructuring Agreement",
-   "bank BUMN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2e3adfea4_f31a257d6c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pkpk-konfirmasi-akuisisi-saham-dpal-tahap-kedua-masih-berjalan",
-  "category": "Aksi Korporasi",
-  "title": "PKPK Konfirmasi Akuisisi Saham [DPAL] Tahap Kedua Masih Berjalan",
-  "deck": "Menjawab permintaan BEI soal volatilitas transaksi, PKPK menyatakan tidak ada fakta material tersembunyi dan proses akuisisi saham DPAL Tahap Kedua dari DIR dan KNG masih berjalan.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PKPK",
-   "Paragon Karya Perkasa",
-   "volatilitas saham",
-   "akuisisi DPAL"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3a92026e0b_932465bfc9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-dibuka-melemah-ekor-bursa-asia-dan-wall-street",
-  "category": "Pasar Modal",
-  "title": "IHSG Dibuka [Melemah], Ekor Bursa Asia dan Wall Street",
-  "deck": "IHSG dibuka turun 0,55 persen ke 6.552, mengikuti pelemahan bursa Asia-Pasifik dan Wall Street akibat lonjakan harga minyak dan kekhawatiran suku bunga The Fed.",
-  "date": "11 September 2026",
-  "image": "assets/img/ihsg-dibuka-melemah-ekor-bursa-asia-dan-wall-street.jpg",
-  "imageV": "mtwewwkx",
-  "tags": [
-   "IHSG",
-   "harga minyak",
-   "The Fed",
-   "bursa Asia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466344-ihsg-dibuka-memerah-dibayangi-pelemahan-serupa-bursa-asia-pasifik-dan-wall-street"
- },
- {
-  "slug": "scnp-jelaskan-ke-bursa-alasan-free-float-belum-15",
-  "category": "Aksi Korporasi",
-  "title": "SCNP Jelaskan ke Bursa Alasan [Free Float] Belum 15%",
-  "deck": "SCNP menjelaskan ke BEI bahwa harga sahamnya kini di bawah harga buyback, sehingga sulit melepas saham treasuri untuk memenuhi syarat minimum saham publik 15 persen.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SCNP",
-   "free float",
-   "saham treasuri",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7dae3c86e3_dddc63249c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penerimaan-pajak-tumbuh-23-7-persen-jadi-rp1-224-3-t",
-  "category": "Makroekonomi",
-  "title": "Penerimaan Pajak [Tumbuh] 23,7 Persen jadi Rp1.224,3 T",
-  "deck": "Penerimaan pajak Juli 2026 naik 23,7 persen menjadi Rp1.224,3 triliun tanpa kenaikan tarif, sementara defisit APBN melebar ke 0,91 persen PDB.",
-  "date": "11 September 2026",
-  "image": "assets/img/penerimaan-pajak-tumbuh-23-7-persen-jadi-rp1-224-3-t.jpg",
-  "imageV": "mtwewx2y",
-  "tags": [
-   "pajak",
-   "APBN",
-   "Kementerian Keuangan",
-   "defisit anggaran"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466335-purbaya-penerimaan-pajak-capai-rp-12243-triliun-di-juli-2026-tumbuh-237-persen"
- },
- {
-  "slug": "blog-realisasi-capex-baru-rp200-m-dari-target-rp500-m",
-  "category": "Aksi Korporasi",
-  "title": "BLOG: Realisasi Capex Baru Rp200 M dari Target [Rp500 M]",
-  "deck": "Hasil public expose tahunan BLOG mengungkap realisasi capex baru sekitar Rp200 miliar dari target Rp500 miliar, target laba tumbuh di atas 10 persen, dan dividen tahun ini belum diputuskan.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLOG",
-   "public expose",
-   "capex",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9df3c24459_1f6f77f187.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-peringkat-utang-turun-ke-idb-creditwatch-negatif",
-  "category": "Aksi Korporasi",
-  "title": "PTPP: Peringkat Utang Turun ke idB, [CreditWatch] Negatif",
-  "deck": "PEFINDO memangkas peringkat PT PP dari idBB ke idB dengan status CreditWatch negatif, setelah pemegang obligasi dan sukuk menolak usulan restrukturisasi bunga dan jatuh tempo utang.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "PEFINDO",
-   "peringkat utang",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a3be6272ee_219c9001f2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "izin-kerja-tka-diintegrasi-terbit-maksimal-4-hari",
-  "category": "Bisnis",
-  "title": "Izin Kerja TKA Diintegrasi, Terbit Maksimal [4 Hari]",
-  "deck": "Pemerintah menyambungkan sistem OSS, Kemnaker, dan Imigrasi untuk mengurus izin kerja dan tinggal tenaga asing, dengan batas waktu layanan dan izin otomatis terbit jika telat.",
-  "date": "11 September 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
-  "tags": [
-   "TKA",
-   "BKPM",
-   "OSS",
-   "Investasi"
-  ],
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/perkuat-daya-tarik-investasi-pemerintah-integrasikan-sistem-layanan-tka",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "rupslb-hais-sahkan-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB HAIS Sahkan Perubahan [Direksi]",
-  "deck": "RUPSLB HAIS menyetujui pengunduran diri Direktur Rahmad Pudjotomo dan menetapkan susunan direksi serta komisaris baru, efektif 9 September 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HAIS",
-   "direksi",
-   "RUPSLB",
-   "Hasnur Group"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ec2b7a821_9589db8e6a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-minyak-indonesia-naik-ke-us-89-43-per-barel-agustus",
-  "category": "Energi",
-  "title": "Harga Minyak Indonesia [Naik] ke US$89,43 per Barel Agustus",
-  "deck": "ICP Agustus 2026 naik ke US$89,43 per barel dipicu ketegangan di Selat Hormuz dan Laut Merah; September diproyeksikan US$83-87 per barel.",
-  "date": "11 September 2026",
-  "image": "assets/img/harga-minyak-indonesia-naik-ke-us-89-43-per-barel-agustus.jpg",
-  "imageV": "mtw5d3nt",
-  "tags": [
-   "ICP",
-   "Harga Minyak Mentah",
-   "ESDM",
-   "Geopolitik Energi"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/icp-agustus-naik-ke-us-8943-per-barel-pemerintah-cermati-dinamika-pasar-global",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "ipac-jadwalkan-rupslb-20-oktober-dps-25-september",
-  "category": "Aksi Korporasi",
-  "title": "IPAC Jadwalkan RUPSLB 20 Oktober, DPS [25 September]",
-  "deck": "Era Graharealty (IPAC) akan menggelar RUPSLB pada 20 Oktober 2026. Pemegang saham yang berhak hadir dicatat per 25 September 2026 pukul 16.00 WIB.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPAC",
-   "RUPSLB",
-   "Era Graharealty",
-   "korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/22b028bb1a_e5485154f2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ipac-ajukan-delisting-tender-saham-publik-rp250-saham",
-  "category": "Aksi Korporasi",
-  "title": "IPAC Ajukan [Delisting], Tender Saham Publik Rp250/Saham",
-  "deck": "APAC Investment 2 Pte Ltd, pengendali IPAC, menawarkan Rp250 per saham untuk membeli sisa 9,4 persen saham publik, premi sekitar 44 persen dari rata-rata harga. RUPSLB digelar 20 Oktober 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPAC",
-   "go private",
-   "delisting",
-   "tender offer saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/24e3984bcc_151daa1854.pdf",
   "sourceLabel": "IDX"
  }
 ];

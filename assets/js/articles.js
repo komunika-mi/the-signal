@@ -3,6 +3,345 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dfam-bantah-punya-info-pemicu-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "DFAM Bantah Punya Info Pemicu [Volatilitas] Transaksi Saham",
+  "deck": "Menjawab permintaan penjelasan BEI, Dafam Property menyatakan tak tahu penyebab lonjakan transaksi sahamnya dan tak punya rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:45:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/382aceee27_3f5f3fdf83.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DFAM",
+  "tags": [
+   "DFAM",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Dafam Property Indonesia Tbk (DFAM) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-12112/BEI/PP1/09-2026 terkait volatilitas transaksi saham perseroan. Dalam surat tertanggal 18 September 2026, Corporate Secretary DFAM Soviadi Nor Rachman menyatakan perseroan mengetahui adanya aturan POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi material, tetapi tidak mengetahui sama sekali informasi atau fakta apa pun yang menyebabkan peningkatan transaksi sahamnya.",
+   "Perseroan juga menegaskan tidak mengetahui adanya informasi material yang dapat memengaruhi harga efeknya sebagaimana diatur dalam Peraturan Nomor I-E BEI, maupun aktivitas pemegang saham tertentu yang memicu kenaikan transaksi, meski perseroan menyadari kewajiban pelaporan kepemilikan saham sesuai POJK Nomor 4 Tahun 2024. Terkait rencana ke depan, DFAM menyatakan tidak ada rencana aksi korporasi dalam tiga bulan mendatang yang berdampak pada status pencatatan sahamnya di bursa, dan tidak ada rencana apa pun dari pemegang saham utama maupun pengendali terkait kepemilikan sahamnya.",
+   "Perseroan menutup penjelasannya dengan menyatakan hingga saat ini tidak ada informasi, fakta, atau kejadian penting lain yang material dan berpotensi memengaruhi harga efek maupun kelangsungan usaha perseroan yang belum diungkapkan kepada publik."
+  ],
+  "fotoAdegan": "Distant, blurred electronic stock ticker board above a busy Jakarta brokerage floor, brokers walking briskly, evening light",
+  "takeaway": "Penjelasan ini condong netral bagi DFAM karena seluruh isinya adalah bantahan standar, tanpa angka transaksi, aksi korporasi, atau perubahan kepemilikan yang bisa mengubah gambaran fundamental perseroan. Tidak ada pos kinerja yang tersentuh di sini, bukan ekuitas atau modal sendiri perusahaan, bukan arus kas, bukan beban bunga, bukan jumlah saham beredar, karena surat ini murni menjawab pertanyaan bursa soal pola perdagangan, bukan laporan keuangan, dan itu berarti lonjakan transaksi sahamnya kemungkinan besar didorong aksi jual beli di pasar, bukan perubahan kinerja perusahaan. Yang perlu dipantau selanjutnya adalah apakah Bursa Efek Indonesia memberi status pemantauan tambahan pada saham DFAM jika volatilitas transaksinya berlanjut, dan apakah benar tidak ada aksi korporasi yang muncul dalam tiga bulan ke depan seperti yang dinyatakan perseroan dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "uvcr-rencanakan-pmthmetd-hingga-200-juta-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Rencanakan [PMTHMETD] hingga 200 Juta Saham Baru",
+  "deck": "Trimegah Karya Pratama (UVCR) berencana menerbitkan maksimal 200 juta saham baru tanpa hak memesan efek terlebih dahulu, menunggu persetujuan RUPSLB pada 27 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:43:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/538cf82b2f_a744976607.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "PMTHMETD",
+   "Ultra Voucher",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Trimegah Karya Pratama Tbk (UVCR), perusahaan induk Ultra Voucher, mengumumkan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dengan menerbitkan sebanyak-banyaknya 200.000.000 saham biasa baru bernilai nominal Rp20 per saham, atau setara maksimal 10 persen dari modal yang telah ditempatkan dan disetor penuh. Berdasarkan Daftar Pemegang Saham per 31 Agustus 2026, total saham beredar UVCR saat ini adalah 2.000.144.838 lembar. Rencana ini masih memerlukan persetujuan Pemegang Saham Independen dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada Selasa, 27 Oktober 2026, serta persetujuan pencatatan tambahan saham dari Bursa Efek Indonesia.",
+   "Komposisi pemegang saham UVCR saat ini terdiri dari PT Trimegah Sumber Mas sebagai pemegang saham utama dengan 623.557.467 saham (31,18 persen), masyarakat dengan 1.246.818.871 saham (62,34 persen), Direktur Riky Boy H. Permata dengan 81.500.000 saham (4,07 persen), Direktur Utama Hady Kuswanto dengan 47.432.400 saham (2,37 persen), dan Komisaris Rangga Ananta dengan 836.100 saham (0,04 persen). Perusahaan menyatakan harga pelaksanaan saham baru akan ditetapkan Direksi mengacu pada aturan Bursa Efek Indonesia yang berlaku saat permohonan pencatatan diajukan, dengan target eksekusi 3 sampai 6 bulan setelah RUPSLB dan paling lambat 2 tahun sejak tanggal RUPSLB.",
+   "Dana hasil PMTHMETD akan dipakai untuk kebutuhan modal kerja operasional perdagangan voucher digital dan layanan teknologi, pengembangan produk dan kapasitas operasional, serta kegiatan pemasaran dan akuisisi pelanggan. Dari sisi keuangan, penjualan neto perseroan naik dari Rp441,4 miliar pada semester I 2025 menjadi Rp628,9 miliar pada semester I 2026, dengan laba neto melonjak dari Rp1,19 miliar menjadi Rp8,37 miliar pada periode yang sama. Namun arus kas dari aktivitas operasi justru minus Rp57,09 miliar pada semester I 2026, memburuk dibanding minus Rp23,66 miliar pada semester I 2025, sementara ekuitas perseroan tercatat Rp110,99 miliar per 30 Juni 2026, naik dari Rp103,62 miliar di akhir 2025."
+  ],
+  "fotoAdegan": "Warehouse-style office workers at computer stations processing digital retail orders, cardboard shipping boxes stacked nearby, fluorescent lighting",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama karena penerbitan saham baru sampai 200 juta lembar, atau maksimal 10 persen dari total saham beredar, dilakukan tanpa hak memesan efek terlebih dahulu, artinya pemegang saham lama tidak otomatis mendapat kesempatan menjaga porsi kepemilikannya dan berisiko tergerus kalau tidak diundang ambil bagian dalam penerbitan ini. Yang tersentuh adalah jumlah saham beredar dan laba per saham, karena begitu saham baru terbit, laba perusahaan harus dibagi ke lebih banyak lembar saham sehingga bagian laba per saham bisa mengecil meski laba total naik, dan ini jadi perhatian pelaku pasar karena memengaruhi nilai kepemilikan tiap pemegang saham. Perlu dicatat pula arus kas dari kegiatan usaha sehari-hari perseroan justru minus dan makin dalam, dari minus Rp23,66 miliar jadi minus Rp57,09 miliar dalam setahun, uang tunai riil yang keluar dari operasional ini berbeda dari laba di atas kertas yang justru melonjak, sehingga kebutuhan dana segar lewat PMTHMETD masuk akal tapi juga menandakan tekanan kas. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 27 Oktober 2026 yang menentukan apakah rencana ini disetujui pemegang saham independen, serta penetapan harga pelaksanaan oleh Direksi begitu proses pencatatan saham tambahan diajukan ke Bursa Efek Indonesia.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-suspensi-berlanjut-usai-gagal-bayar-sukuk-mudharabah",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Suspensi] Berlanjut Usai Gagal Bayar Sukuk Mudharabah",
+  "deck": "BEI melanjutkan suspensi saham WIKA di seluruh pasar setelah perseroan menunda pembayaran bagi hasil Sukuk Mudharabah yang jatuh tempo 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:43:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a54db63538_cbb1926c75.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "gagal bayar",
+   "sukuk mudharabah",
+   "suspensi saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan melanjutkan penghentian sementara (suspensi) perdagangan saham PT Wijaya Karya (Persero) Tbk (WIKA) di seluruh pasar, berlaku sejak sesi I, 18 September 2026. Alasan resmi yang tercantum dalam pengumuman bursa adalah tidak bayar kupon bunga. WIKA saat ini tetap tercatat di papan pemantauan khusus.",
+   "Penyebab suspensi ini adalah tertundanya pembayaran dua bagi hasil Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap I Tahun 2020, yaitu bagi hasil ke-22 untuk Seri B (SMWIKA01BCN1) dan bagi hasil ke-23 untuk Seri C (SMWIKA01CCN1), yang seharusnya dibayar pada 18 September 2026. BEI mendasarkan pengumuman ini pada surat WIKA nomor SE.01.00/A.CORSEC.00239/2026 tanggal 31 Juli 2026 tentang informasi pembayaran pokok, bunga obligasi, dan bagi hasil sukuk, serta surat konfirmasi dari PT Kustodian Sentral Efek Indonesia (KSEI) nomor KSEI-6791/DIR/0926 tanggal 17 September 2026 yang menyatakan pembayaran tersebut ditunda.",
+   "Bursa menyatakan penundaan pembayaran itu mengindikasikan adanya permasalahan pada kelangsungan usaha WIKA, dan meminta pihak-pihak terkait terus memperhatikan keterbukaan informasi lanjutan dari perseroan. Suspensi berlaku hingga ada pengumuman lebih lanjut dari BEI, tanpa kepastian tanggal pencabutan."
+  ],
+  "fotoAdegan": "Idle cranes and scaffolding at a quiet construction site in late afternoon light, no workers visible, Jakarta skyline in the distance",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena bursa secara eksplisit mengaitkan penundaan pembayaran bagi hasil sukuk dengan masalah kelangsungan usaha perusahaan, bukan sekadar keterlambatan administratif biasa. Yang tersentuh adalah arus kas, yakni kemampuan perusahaan menyediakan uang tunai untuk membayar kewajiban yang jatuh tempo; kalau dana bagi hasil sukuk saja tertunda, itu sinyal tekanan likuiditas yang lebih luas, sejalan dengan penurunan peringkat sejumlah obligasi WIKA ke level gagal bayar oleh PEFINDO pekan lalu. Yang perlu dipantau berikutnya adalah pengumuman lanjutan dari BEI soal kapan suspensi bisa dicabut, serta apakah WIKA memberi kepastian jadwal baru pembayaran bagi hasil untuk pemegang Sukuk Seri B dan Seri C tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mtmh-ubah-perjanjian-kredit-dengan-bca-geser-rp60-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MTMH Ubah Perjanjian Kredit dengan [BCA], Geser Rp60 Miliar",
+  "deck": "Murni Sadar mengubah perjanjian kredit dengan BCA, mengalihkan Rp60 miliar dari fasilitas KI 7 MS Tranche D ke fasilitas baru Kredit Investasi 8 untuk anak usahanya, PT MS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:32:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84e7e149ca_cd42986c83.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTMH",
+  "tags": [
+   "MTMH",
+   "BCA",
+   "kredit",
+   "rumah sakit"
+  ],
+  "body": [
+   "PT Murni Sadar Tbk (MTMH), operator RS Murni Teguh, menandatangani perubahan atas perjanjian kredit dengan PT Bank Central Asia Tbk (BCA) pada 17 September 2026. Perjanjian ini melibatkan Perseroan bersama entitas anaknya. Penandatanganan dilakukan oleh Clement Zichri Ang selaku Direktur.",
+   "Perubahan tersebut mencakup tiga hal. Pertama, sebagian plafon fasilitas Kredit Investasi 7 MS Tranche D senilai Rp60 miliar dialihkan menjadi fasilitas baru bernama Kredit Investasi 8 untuk PT MS, entitas anak Perseroan. Akibatnya, plafon fasilitas KI 7 MS Tranche D berkurang dari sebelumnya menjadi Rp190 miliar. Kedua, batas waktu penarikan dan penggunaan diperpanjang untuk tiga fasilitas lain, yaitu Kredit Lokal berbentuk rekening koran, fasilitas L/C dan/atau SKBDN, serta fasilitas Time Loan Revolving. Ketiga, sejumlah syarat dan ketentuan dalam perjanjian kredit turut diubah, meski rinciannya tidak dijabarkan dalam laporan.",
+   "Perseroan mengklasifikasikan transaksi ini sebagai transaksi material berdasarkan Pasal 11 huruf b POJK No. 17/POJK.04/2020, yakni pinjaman yang diterima langsung dari bank, sehingga wajib dilaporkan ke Otoritas Jasa Keuangan paling lambat dua hari setelah tanggal transaksi. Manajemen menyatakan perubahan ini tidak berdampak merugikan terhadap kelangsungan usaha, operasional, maupun kondisi keuangan Perseroan dan entitas anaknya."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding finishing a hospital building exterior, cranes visible, tropical daylight in a Sumatran city",
+  "takeaway": "Laporan ini condong netral bagi MTMH, karena isinya adalah realokasi dan perpanjangan fasilitas kredit yang sudah ada, bukan tambahan utang baru maupun pelunasan yang mengubah struktur permodalan secara berarti. Yang tersentuh di sini adalah arus kas dan likuiditas perusahaan, yaitu ketersediaan dana tunai untuk operasional, karena perpanjangan batas waktu penarikan pada fasilitas rekening koran dan Time Loan Revolving memberi Perseroan ruang napas lebih panjang untuk mencairkan dana saat dibutuhkan. Pemindahan Rp60 miliar dari satu fasilitas investasi ke fasilitas investasi baru bernama Kredit Investasi 8 juga mengindikasikan ada pos belanja modal baru di entitas anak PT MS, meski dokumen tidak merinci peruntukannya. Yang perlu dipantau berikutnya adalah laporan resmi Perseroan ke OJK yang jatuh tempo paling lambat 19 September 2026, dua hari setelah tanggal transaksi, serta realisasi penggunaan fasilitas Kredit Investasi 8 oleh PT MS di laporan keuangan mendatang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "refi-kena-sanksi-sp2-bei-laporan-keuangan-masih-telat",
+  "category": "Aksi Korporasi",
+  "title": "REFI Kena Sanksi [SP2] BEI, Laporan Keuangan Masih Telat",
+  "deck": "BEI mengoreksi pengumuman sanksi REFI dan POST yang belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 hingga batas waktu 3 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:30:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8f59cba950_f87374a6f1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "REFI",
+  "tags": [
+   "REFI",
+   "BEI",
+   "sanksi",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia menerbitkan koreksi atas pengumuman sanksi bernomor Peng-S-00028/BEI.PLP/09-2026 yang sebelumnya terbit 16 September 2026. Isinya tetap sama: REFI dan PT Pos Indonesia (Persero) atau POST dikenai sanksi peringatan tertulis kedua (SP2) karena belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 yang tidak disertai laporan akuntan publik, sampai batas waktu 3 September 2026. Sanksi ini tidak disertai denda alias nilainya Rp0.",
+   "Dokumen tersebut juga memuat status lengkap kepatuhan pelaporan seluruh perusahaan tercatat yang menerbitkan obligasi, sukuk, EBA-SP, dan EBAS-SP di BEI. Dari 62 perusahaan yang wajib lapor per 30 Juni 2026, 46 di antaranya sudah menyampaikan laporan tepat waktu. Sisanya 13 perusahaan belum menyampaikan: dua di antaranya, yaitu REFI dan POST, kena SP2 karena tidak menyampaikan versi tanpa audit sama sekali. Enam perusahaan lain, yakni Bukit Makmur Mandiri Utama (WISL), Indomobil Finance Indonesia (IJEE), KB Finansia Multi Finance (FMFN), BPD Sulawesi Selatan dan Sulawesi Barat (BSSB), Perusahaan Pengelola Aset (PPAP), dan BRI Multifinance Indonesia (BRIF), akan menyampaikan laporan versi teraudit, begitu pula empat penerbit EBA-SP seri SMF-BTN dan satu penerbit EBAS-SP seri SMF-BRIS. Tiga pihak lain, yaitu dua EBA-KIK dan Pemerintah Republik Indonesia, dikecualikan dari kewajiban ini.",
+   "Khusus untuk REFI, dokumen mencatat bahwa perseroan sudah menyampaikan rencana penyampaian laporan keuangan versi teraudit pada 7 September 2026, empat hari setelah batas waktu SP2 terlewati. Namun karena rencana itu baru masuk setelah tanggal pemantauan BEI pada 3 September 2026, sanksi peringatan tertulis kedua tetap dijatuhkan kepada REFI."
+  ],
+  "fotoAdegan": "Jakarta financial district skyscrapers at dusk with illuminated office windows, viewed from a busy street below",
+  "takeaway": "Laporan koreksi ini tetap condong negatif bagi REFI, karena perseroan sampai dua kali kena teguran tertulis BEI akibat belum menyampaikan laporan keuangan tengah tahunan meski tenggat sudah lewat sejak 3 September 2026. Yang tersentuh di sini bukan angka laba atau ekuitas, melainkan transparansi pelaporan itu sendiri, artinya pelaku pasar dan pemegang obligasi REFI untuk sementara belum bisa menilai kondisi keuangan terbaru perseroan karena laporannya belum tersedia secara resmi. Sisi yang meringankan, sanksi ini tidak disertai denda dan REFI sudah menjanjikan penyampaian laporan versi audit sejak 7 September 2026, meski dokumen ini belum mencantumkan tenggat pasti kapan janji itu harus direalisasikan. Yang perlu dipantau berikutnya adalah apakah REFI benar-benar merealisasikan penyampaian laporan keuangan teraudit tersebut, karena keterlambatan lanjutan berpotensi membawa sanksi yang lebih berat dari BEI.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ppgl-koreksi-jawaban-bursa-piutang-rp21-6-m-ke-pengendali-mandek",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Koreksi Jawaban Bursa: [Piutang] Rp21,6 M ke Pengendali Mandek",
+  "deck": "PPGL mengoreksi jawabannya ke Bursa soal divestasi JAYA, piutang Rp21,62 miliar ke pemegang saham pengendali dari transaksi itu masih belum lunas meski dividen sudah dibagikan lebih dulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:29:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb3646c0e2_c3c0dd7b89.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "divestasi JAYA",
+   "piutang pihak berelasi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk. (PPGL) mengoreksi surat jawabannya kepada Bursa Efek Indonesia yang sebelumnya dikirim pada 17 September 2026, terkait permintaan penjelasan seputar divestasi 45,79 persen saham PT Armada Berjaya Trans Tbk (JAYA). Manajemen menjelaskan nilai transaksi divestasi sebesar Rp44,60 miliar mengacu pada penilaian Kantor Jasa Penilai Publik Dasa'at Yudistira & Rekan tertanggal 22 Januari 2026, yang menghitung nilai pasar wajar 45,79 persen ekuitas JAYA sebesar Rp42,8 miliar memakai dua metode, yaitu proyeksi arus kas masa depan yang didiskon ke nilai sekarang dan perbandingan dengan perusahaan sejenis yang sudah tercatat di bursa. Harga transaksi Rp44,60 miliar berada di atas nilai pasar hasil appraisal itu, meski masih di bawah porsi aset neto JAYA yang tercatat Rp56,33 miliar. Transaksi ini sudah disetujui pemegang saham lewat RUPSLB yang aktanya diteken notaris Gatot Widodo pada 12 Maret 2026.",
+   "Dampak pelepasan JAYA terlihat jelas pada laporan keuangan PPGL per 30 Juni 2026, karena JAYA dan entitas anaknya tidak lagi dikonsolidasikan. Kas dan setara kas turun menjadi Rp4 miliar dari Rp10,13 miliar, sementara deposito berjangka turun menjadi Rp2 miliar dari Rp5,01 miliar. Sejumlah pos bahkan nihil sama sekali setelah sebelumnya bernilai besar, antara lain properti investasi yang hilang dari Rp58,28 miliar, aset tetap neto yang anjlok tinggal Rp478,56 juta dari Rp252,47 miliar, aset hak-guna dari Rp6,09 miliar, utang bank dari Rp2,98 miliar, dan utang lain-lain dari Rp138,46 miliar yang sebagian besar sebelumnya adalah kewajiban kepada PT Rahardja Ekalancar sebesar Rp78,19 miliar dan PT Tunas Mobilindo Perkasa sebesar Rp59,50 miliar untuk pembelian kendaraan. Perseroan menyebut piutang usaha Rp21,9 miliar dan utang usaha Rp2,04 miliar per akhir Juni 2026 sudah lunas seluruhnya pada saat jawaban ini disampaikan.",
+   "Poin yang belum tuntas ada pada piutang lain-lain kepada pemegang saham senilai Rp21,62 miliar per 30 Juni 2026, sisa dari total nilai divestasi JAYA Rp44,60 miliar setelah sebagian dipakai membayar dividen Rp30,46 miliar pada 17 Juni 2026. Perseroan menyatakan piutang ini dikenakan bunga yang dihitung bulanan sesuai perjanjian dengan pemegang saham, mengoreksi asumsi Bursa yang sebelumnya mempertanyakan kemungkinan fasilitas tanpa bunga. Menjawab pertanyaan Bursa soal kemampuan menjaga kelangsungan usaha setelah kehilangan JAYA, yang sebelumnya menyumbang 90,09 persen total aset dan 45,80 persen laba bersih PPGL, manajemen hanya menyebut akan fokus memasarkan jasa ke pelanggan potensial tanpa merinci langkah atau target konkret."
+  ],
+  "fotoAdegan": "Container trucks lined up in a logistics yard at dusk, workers checking cargo straps near a warehouse loading dock, Jakarta industrial area.",
+  "takeaway": "Laporan ini condong negatif bagi fundamental PPGL, sebab jawaban soal kelangsungan usaha pascadivestasi JAYA masih sangat umum, sementara hampir separuh dari uang hasil pelepasan JAYA, yaitu Rp21,62 miliar, masih berupa piutang ke pemegang saham pengendali yang belum dibayar tunai meski Perseroan sudah lebih dulu membagikan dividen Rp30,46 miliar dari dana yang sama. Piutang semacam ini penting dicermati karena artinya kas hasil penjualan aset belum benar-benar masuk ke kantong Perseroan, hanya tercatat sebagai janji bayar berbunga bulanan, sementara kas riil Perseroan justru menipis dari Rp10,13 miliar menjadi Rp4 miliar pada periode yang sama. Di sisi lain, pelunasan penuh piutang dan utang usaha operasional sedikit meringankan, meski tidak mengubah gambaran besar bahwa aset produktif Perseroan menyusut drastis setelah JAYA, yang dulu menyumbang 90,09 persen total aset dan 45,80 persen laba bersih, lepas dari neraca konsolidasian. Yang perlu dipantau selanjutnya adalah pelunasan sisa piutang Rp21,62 miliar dari pemegang saham pengendali, serta RUPSLB yang dijadwalkan 23 Oktober 2026 untuk memilih jajaran direksi baru yang akan menentukan arah bisnis PPGL pascadivestasi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "doid-suntik-us-4-7-juta-ke-moura-via-buma-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "DOID Suntik US$4,7 Juta ke [Moura] via BUMA Indonesia",
+  "deck": "BUMA Indonesia, anak usaha DOID, menambah modal US$4,7 juta ke Grup Moura Materials di Australia, transaksi intra-grup yang dikecualikan dari persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:29:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/78d0e6e7cb_78062d1e82.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOID",
+  "tags": [
+   "DOID",
+   "Transaksi Material",
+   "Moura Materials",
+   "BUMA Indonesia"
+  ],
+  "body": [
+   "Pada 16 September 2026, PT Bukit Makmur Mandiri Utama (BUMA Indonesia), anak usaha yang 99,99% sahamnya dimiliki PT BUMA Internasional Grup Tbk (DOID), melakukan penambahan modal senilai US$4,7 juta ke Grup Moura Materials di Australia, yang terdiri dari Moura Materials HoldCo Pty Ltd, Moura Materials MidCo Pty Ltd, Moura Materials BidCo Pty Ltd, dan Moura Materials Services Pty Ltd. Dana tersebut disalurkan secara berjenjang dari HoldCo ke MidCo, lalu BidCo, hingga Services, sebagai satu rangkaian pendanaan dan bukan investasi terpisah di masing-masing entitas. Seluruh entitas Moura Materials sudah dimiliki penuh, langsung maupun tidak langsung, oleh BUMA Indonesia baik sebelum maupun sesudah transaksi ini, sehingga struktur kepemilikan di dalam grup tidak berubah.",
+   "Nilai penambahan modal ini setara 188,22 persen dari total ekuitas konsolidasian interim DOID per 30 Juni 2026 yang tercatat US$2.497.133, sehingga menurut aturan masuk kategori Transaksi Material sesuai POJK 17/2020. Namun perseroan menyatakan transaksi ini dikecualikan dari kewajiban memakai penilai independen dan persetujuan RUPS berdasarkan Pasal 11 huruf (a) POJK 17/2020, karena dilakukan antar sesama perusahaan terkendali dalam satu grup yang sama. Transaksi ini juga tergolong Transaksi Afiliasi menurut POJK 42/2020, tetapi manajemen menegaskan tidak ada benturan kepentingan di dalamnya. Keterbukaan informasi ini disampaikan oleh Direktur Dian Paramita dan Corporate Secretary Olga Oktavia Patuwo.",
+   "Perseroan menjelaskan bahwa dana tersebut digunakan untuk mendukung kegiatan usaha Grup Moura Materials, dan manajemen menilai transaksi ini tidak berdampak material terhadap kondisi keuangan DOID secara keseluruhan. Nilai suntikan modal ini nantinya akan dikonversi ke dolar Australia berdasarkan kurs yang ditetapkan Reserve Bank of Australia pada tanggal dana diterima."
+  ],
+  "fotoAdegan": "Massive yellow mining haul trucks moving across an open-pit coal mine under a wide dusty sky in rural Queensland, Australia",
+  "takeaway": "Laporan ini bersifat netral bagi pemegang saham DOID, karena dana yang disuntikkan tetap berputar di dalam grup yang sama, dari BUMA Indonesia ke anak-anak usahanya di Australia, tanpa mengubah proporsi kepemilikan atau melibatkan pihak luar. Pos yang tersentuh di sini adalah ekuitas dan arus kas: ekuitas adalah selisih antara aset dan utang perusahaan, dan suntikan modal US$4,7 juta ini tercatat setara 188,22 persen dari ekuitas DOID yang cuma US$2,5 juta per akhir Juni 2026, sehingga otomatis masuk kategori transaksi material yang wajib diumumkan meski uangnya tidak keluar dari grup. Arus kas DOID berkurang sementara karena dana mengalir keluar dari BUMA Indonesia menuju entitas Moura Materials di Australia, walau secara konsolidasi kas itu masih berada di dalam grup yang sama. Yang perlu dipantau berikutnya adalah laporan keuangan konsolidasian DOID selanjutnya, untuk melihat apakah suntikan dana ke Moura Materials mulai memberi hasil, mengingat perseroan sendiri menyebut ini bagian dari satu rangkaian pendanaan yang mengindikasikan kemungkinan tambahan modal serupa di kemudian hari.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kios-jadwalkan-rupslb-27-oktober-usul-agenda-tutup-28-sep",
+  "category": "Aksi Korporasi",
+  "title": "KIOS Jadwalkan [RUPSLB] 27 Oktober, Usul Agenda Tutup 28 Sep",
+  "deck": "Kioson Komersial Indonesia mengumumkan rencana RUPSLB pada 27 Oktober 2026 di Jakarta, dengan tenggat usul agenda pemegang saham 28 September dan pencatatan pemegang saham per 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:27:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3fae0af454_ba04e9adea.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KIOS",
+  "tags": [
+   "KIOS",
+   "RUPSLB",
+   "Kioson Komersial Indonesia",
+   "Pasar Modal"
+  ],
+  "body": [
+   "PT Kioson Komersial Indonesia Tbk (KIOS) mengumumkan rencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 27 Oktober 2026 pukul 14.00 WIB di Jakarta. Lokasi persis penyelenggaraan belum diumumkan dan akan disampaikan menyusul lewat iklan resmi. Surat pemberitahuan bernomor 44/KIOS-OJK/IX/2026 ini merujuk surat sebelumnya nomor 42/KIOS-OJK/IX/2026, ditandatangani oleh Direksi Perseroan di Jakarta pada 18 September 2026, dengan penanggung jawab pengiriman Ornela Bartin Sutan Giri.",
+   "Perusahaan menetapkan bahwa pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per Jumat, 2 Oktober 2026, sampai penutupan perdagangan saham KIOS di Bursa Efek Indonesia. Sesuai Pasal 16 POJK 15/2020, satu atau lebih pemegang saham yang mewakili minimal 1/20 atau sekitar 5 persen dari total saham berhak suara dapat mengusulkan mata acara rapat, dengan syarat usulan disertai alasan dan dokumen pendukung, dan harus sudah diterima Direksi Perseroan paling lambat Senin, 28 September 2026.",
+   "Pemanggilan resmi yang memuat agenda lengkap RUPSLB dijadwalkan diumumkan pada Senin, 5 Oktober 2026, melalui situs web perusahaan (kioson.co.id), situs Bursa Efek Indonesia, dan situs eASY KSEI. Perusahaan juga membuka opsi pemberian kuasa secara elektronik melalui fasilitas eASY.KSEI atau lewat formulir surat kuasa di situs perusahaan, dengan ketentuan teknis pemberian kuasa dan penggunaan hak suara akan dijelaskan lebih rinci dalam pemanggilan resmi tersebut."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a modern Jakarta corporate meeting hall, soft morning light, no people yet",
+  "takeaway": "Laporan ini netral karena baru berupa pemberitahuan rencana rapat, belum memuat agenda RUPSLB sehingga pasar belum bisa menilai dampaknya terhadap kinerja Kioson. RUPSLB adalah forum resmi bagi pemegang saham untuk memutuskan hal besar seperti perubahan permodalan, restrukturisasi utang, atau pergantian pengurus, yang nantinya bisa mengubah jumlah saham beredar atau ekuitas perusahaan, tapi sampai agendanya diumumkan belum ada pos kinerja yang bisa dipastikan tersentuh. Yang perlu dicatat pemegang saham adalah dua tenggat konkret: batas usul agenda oleh pemegang saham yang mewakili minimal 5 persen saham berhak suara pada 28 September 2026, dan status kepemilikan yang dihitung dari posisi pada 2 Oktober 2026. Pemanggilan resmi berisi agenda lengkap dijadwalkan terbit 5 Oktober 2026, sebelum rapat digelar di Jakarta pada 27 Oktober 2026, dan itulah dokumen yang akan menentukan apakah RUPSLB ini membawa dampak positif atau negatif bagi perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "csmi-keluar-dari-pemantauan-khusus-bei-mulai-21-september",
+  "category": "Aksi Korporasi",
+  "title": "CSMI Keluar dari [Pemantauan Khusus] BEI Mulai 21 September",
+  "deck": "Bursa Efek Indonesia mencabut saham PT Cipta Selera Murni Tbk (CSMI) dari papan pemantauan khusus dan memindahkannya ke Papan Pengembangan, efektif 21 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:26:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/341b17bce5_12aeb65c4c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "CSMI",
+   "BEI",
+   "Pemantauan Khusus",
+   "Papan Pengembangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan pencabutan status pemantauan khusus atas saham PT Cipta Selera Murni Tbk dengan kode CSMI, melalui surat bernomor Peng-CK-00072/BEI.PLP/09-2026 yang diteken Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat, Teuku Fahmi Ariandar. Saham CSMI yang sebelumnya tercatat di papan pemantauan khusus akan dipindahkan ke Papan Pengembangan, dengan keterangan status 'Keluar/Exit' dari daftar pemantauan. Perubahan ini mulai berlaku efektif pada 21 September 2026.",
+   "Menurut dokumen bursa, CSMI masuk pemantauan khusus sebelumnya karena memenuhi kriteria nomor 10 dari 11 kriteria yang diatur bursa, yakni pernah dikenakan penghentian sementara perdagangan efek (suspensi) selama lebih dari satu hari bursa akibat aktivitas perdagangan sahamnya sendiri. Kriteria lain dalam aturan pemantauan khusus mencakup hal-hal seperti harga saham di bawah Rp51 per lembar, opini disclaimer dari auditor, ekuitas negatif, hingga status pailit atau PKPU, namun dokumen ini hanya mencantumkan kriteria nomor 10 sebagai alasan CSMI masuk daftar tersebut.",
+   "Bursa menyatakan pengumuman lengkap dapat diakses melalui laman resmi IDX dengan kata kunci 'Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus'. Dokumen tidak mencantumkan data harga saham, volume transaksi, atau laporan keuangan terbaru CSMI yang menjadi dasar penilaian bursa untuk mengeluarkan saham ini dari daftar pemantauan."
+  ],
+  "fotoAdegan": "Wide shot of a modern Jakarta office tower facade reflecting morning light, busy street traffic below, no visible signage",
+  "takeaway": "Kabar ini condong positif bagi pemegang saham CSMI, karena keluarnya sebuah saham dari daftar pemantauan khusus berarti bursa menilai emiten tersebut sudah tidak lagi memenuhi kriteria berisiko yang sebelumnya membuatnya diawasi ketat. Papan pemantauan khusus adalah kelompok pencatatan khusus bagi saham dengan masalah tertentu, seperti riwayat suspensi panjang seperti kasus CSMI ini, dan biasanya perdagangan sahamnya dibatasi dengan mekanisme berbeda dari saham normal, sehingga keluar dari daftar ini umumnya mengembalikan pola perdagangan ke skema Papan Pengembangan yang lebih longgar. Dokumen ini tidak menyebutkan data keuangan atau likuiditas terbaru CSMI, sehingga belum bisa dinilai apakah perbaikan ini didukung oleh kinerja fundamental atau semata perbaikan teknis perdagangan. Yang perlu dipantau selanjutnya adalah tanggal efektif perpindahan papan pada 21 September 2026, serta apakah CSMI mampu menjaga likuiditas dan kepatuhannya agar tidak kembali masuk pemantauan khusus di kemudian hari.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "life-dan-grph-masuk-pemantauan-khusus-bei-mulai-21-september",
+  "category": "Aksi Korporasi",
+  "title": "LIFE dan GRPH masuk [Pemantauan Khusus] BEI mulai 21 September",
+  "deck": "BEI memasukkan saham MSIG Life Insurance Indonesia (LIFE) dan Griptha Putra Persada (GRPH) ke daftar pemantauan khusus, efektif 21 September 2026, karena riwayat penghentian perdagangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:25:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b362b3e6be_473a63c817.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "LIFE",
+   "GRPH",
+   "Pemantauan Khusus",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia melalui pengumuman No. Peng-PK-00069/BEI.PLP/09-2026 tanggal 18 September 2026 menetapkan dua saham masuk ke daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus, yaitu LIFE (PT MSIG Life Insurance Indonesia Tbk.) dan GRPH (PT Griptha Putra Persada Tbk.). Keduanya tercatat di Papan Pengembangan dan berstatus 'Masuk' atau baru pertama kali masuk daftar ini, bukan perpanjangan status sebelumnya. Perubahan ini berlaku efektif mulai 21 September 2026.",
+   "Dari sebelas kriteria yang bisa membuat saham masuk pemantauan khusus, seperti harga rata-rata di bawah Rp51, opini disclaimer dari auditor, ekuitas negatif, atau free float di bawah batas minimum, dokumen menandai kedua saham ini kena kriteria nomor 10. Kriteria itu adalah penghentian sementara perdagangan saham selama lebih dari satu hari bursa yang disebabkan oleh aktivitas perdagangan saham itu sendiri, bukan karena masalah keuangan atau administrasi pencatatan.",
+   "Pengumuman ini tidak menyertakan rincian kondisi keuangan LIFE maupun GRPH, seperti nilai ekuitas atau pendapatan, karena dasar masuknya ke daftar bukan dari laporan keuangan melainkan dari riwayat perdagangan sahamnya di bursa. BEI menyebut pengumuman lengkap bisa diakses lewat laman resminya dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's financial district, pedestrians crossing below, midday light.",
+  "takeaway": "Laporan ini condong negatif bagi kedua emiten, karena masuk daftar pemantauan khusus BEI biasanya berujung pada perlakuan perdagangan yang lebih ketat, seperti mekanisme lelang berkala yang membuat harga hanya terbentuk pada waktu tertentu, bukan sepanjang jam bursa seperti biasa. Pos yang tersentuh di sini bukan laporan keuangan seperti ekuitas atau laba per saham, melainkan mekanisme perdagangan dan likuiditas, yaitu seberapa mudah saham itu diperjualbelikan tanpa mengguncang harganya, yang ikut menentukan seberapa nyaman investor keluar masuk dari saham tersebut. Kriteria pemicunya, penghentian perdagangan lebih dari sehari akibat aktivitas transaksi, menunjukkan ada gejolak harga atau volume yang sebelumnya sempat memaksa bursa menghentikan sementara perdagangan kedua saham ini. Yang perlu dipantau berikutnya adalah tanggal efektif 21 September 2026, saat status ini mulai berlaku, serta apakah LIFE dan GRPH memberikan penjelasan resmi ke publik soal penyebab gejolak perdagangan yang membawa mereka masuk daftar ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "uvcr-jadwalkan-rupslb-27-oktober-bahas-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Jadwalkan RUPSLB [27 Oktober], Bahas Saham Baru",
+  "deck": "UVCR menjadwalkan RUPSLB pada 27 Oktober 2026, dengan pemanggilan resmi 5 Oktober dan pencatatan pemegang saham berhak hadir per 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:15:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/82febb9b0b_3106f97983.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "RUPSLB",
+   "Trimegah Karya Pratama",
+   "Ultra Voucher"
+  ],
+  "body": [
+   "PT Trimegah Karya Pratama Tbk (UVCR), pemilik platform Ultra Voucher, mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 27 Oktober 2026 pukul 14.00 WIB. Rapat akan digelar secara hybrid, yaitu online melalui sistem KSEI dan offline di kantor Ultra. Pemanggilan resmi yang berisi mata acara rapat baru akan diumumkan pada Senin, 5 Oktober 2026, melalui situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs perseroan.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Jumat, 2 Oktober 2026 pukul 16.00 WIB, atau pemilik rekening efek di penitipan kolektif KSEI pada penutupan perdagangan hari yang sama. Perseroan mengimbau pemegang saham yang sahamnya berada di penitipan kolektif KSEI untuk memberikan kuasa kepada biro administrasi efek perseroan, PT Adimitra Jasa Korpora, melalui sistem eASY.KSEI.",
+   "Pemegang saham yang ingin mengusulkan mata acara RUPSLB harus mewakili paling sedikit 1/20 atau 5 persen dari total saham dengan hak suara sah, dan usulan itu wajib diterima Direksi paling lambat 7 hari sebelum tanggal pemanggilan resmi, yakni sekitar 28 September 2026. Perseroan juga menyebutkan bahwa pengumuman rapat ini turut menyertakan keterbukaan informasi atas salah satu mata acara rapat, yang dilaporkan melalui dokumen terpisah dari pengumuman ini."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with rows of chairs facing a blank projection screen and video camera setup, Jakarta office tower, daylight",
+  "takeaway": "Laporan ini sendiri netral karena baru memberi jadwal dan mekanisme rapat, belum ada keputusan yang mengubah struktur permodalan perseroan. Yang perlu diingat, salah satu mata acara RUPSLB ini kemungkinan terkait rencana penerbitan saham baru tanpa hak memesan efek terlebih dahulu hingga 200 juta lembar yang sudah diberitakan terpisah hari ini, dan kalau disetujui akan menambah jumlah saham beredar sehingga laba bersih perseroan harus dibagi ke lebih banyak lembar saham, yang berarti laba per saham bisa terdilusi. Yang dipantau berikutnya adalah pemanggilan resmi berisi mata acara lengkap pada 5 Oktober 2026, tenggat pengajuan usul agenda oleh pemegang saham sekitar 28 September 2026, dan hasil keputusan pada RUPSLB itu sendiri tanggal 27 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "defi-jawab-bei-soal-volatilitas-buka-pintu-mitra-strategis",
+  "category": "Aksi Korporasi",
+  "title": "DEFI Jawab BEI soal Volatilitas, Buka Pintu [Mitra Strategis]",
+  "deck": "Danasupra Erapacific menjawab permintaan penjelasan BEI atas volatilitas sahamnya, menegaskan tidak ada informasi material baru namun membuka diri pada calon mitra strategis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:07:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b87f0353a9_995b241da3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEFI",
+  "tags": [
+   "DEFI",
+   "Danasupra Erapacific",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "Danasupra Erapacific Tbk (DEFI) menyampaikan tanggapan resmi atas permintaan penjelasan dari Bursa Efek Indonesia melalui surat nomor S-12081/BEI.PP3/09-2026 terkait volatilitas transaksi efek perusahaan. Dalam surat balasan bernomor 082/IX/DE-DIR/2026 tertanggal 18 September 2026 yang ditandatangani Presiden Direktur Irianto Kusumadjaja, perseroan menyatakan tidak ada fakta atau informasi material tambahan berdasarkan POJK 31/2015 yang perlu diungkapkan ke publik, dan tidak ada informasi yang dapat memengaruhi harga efek sebagaimana diatur dalam ketentuan III.2.1 Peraturan Nomor I-E BEI.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta belum memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang dapat berakibat pada status pencatatan sahamnya di bursa.",
+   "Bagian yang menarik ada pada poin keenam surat itu. DEFI mengakui belum memperoleh konfirmasi resmi dari pemegang saham utama soal rencana perubahan atau pengalihan kepemilikan saham. Namun perseroan menyebut telah menerima pertanyaan dari beberapa pihak terkait kondisi perusahaan, dan menyatakan tetap terbuka menjajaki kerja sama dengan pihak yang berpotensi menjadi mitra strategis untuk mendukung pengembangan usaha dan peningkatan kinerja, sebagaimana pernah disampaikan dalam keterbukaan informasi sebelumnya."
+  ],
+  "fotoAdegan": "Exterior of modern glass office towers in Jakarta's SCBD business district at dusk, pedestrians crossing below",
+  "takeaway": "Laporan ini condong netral bagi DEFI, karena inti jawabannya adalah penyangkalan standar bahwa tidak ada informasi material baru, tanpa satu pun angka keuangan atau perubahan konkret yang bisa dinilai sebagai sinyal kuat. Tidak ada pos kinerja yang tersentuh di sini, bukan ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham, karena dokumen ini murni surat kepatuhan menjawab pertanyaan bursa soal pergerakan harga saham yang tidak wajar, bukan laporan keuangan atau aksi korporasi. Yang perlu dicermati adalah pernyataan soal keterbukaan pada mitra strategis, sebab itu mengonfirmasi ada pihak yang sedang menjajaki perusahaan meski belum ada kepastian bentuk maupun waktunya. Pembaca sebaiknya menunggu apakah pembicaraan dengan calon mitra strategis itu berlanjut menjadi keterbukaan informasi baru, dan apakah volatilitas harga saham DEFI mereda atau justru membuat bursa kembali meminta penjelasan serupa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mpro-ungkap-ke-bursa-rugi-rp16-2-m-kas-tinggal-rp5-m",
+  "category": "Aksi Korporasi",
+  "title": "MPRO Ungkap ke Bursa: [Rugi] Rp16,2 M, Kas Tinggal Rp5 M",
+  "deck": "Menjawab permintaan penjelasan dan site visit BEI, MPRO mengungkap rugi bersih Rp16,2 miliar, kas Rp5 miliar, dan lahan Maja 318 hektare yang belum bersertifikat sejak 2022.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T15:50:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d47a385796_e4ebb7fc56.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPRO",
+  "tags": [
+   "MPRO",
+   "properti",
+   "rugi bersih",
+   "BEI"
+  ],
+  "body": [
+   "PT Maha Properti Indonesia Tbk (MPRO) menyampaikan tanggapan tertulis kepada Bursa Efek Indonesia atas surat permintaan penjelasan dan pemberitahuan site visit bertanggal 16 September 2026. Dalam surat yang diteken Iwan Kurniawan selaku Direktur dan Corporate Secretary itu, perseroan merinci empat proyek propertinya: The Kahyangan di Solo, Jawa Tengah seluas 63.999 meter persegi yang baru 6.205 meter persegi dikembangkan; Simprug Signature di Jakarta seluas 51.676 meter persegi yang seluruhnya belum dikembangkan; Tanjung Layar Beachfront City di Makassar seluas 73.916 meter persegi yang juga belum digarap; serta The Grand Maja di Maja, Banten seluas 3.176.175 meter persegi yang seluruhnya masih berupa lahan kosong.",
+   "Untuk 2026-2027, perseroan berencana menyewakan unit apartemen lewat kerja sama dengan agen perjalanan daring, menggandeng minimarket dan lembaga pendidikan, serta membangun rumah tapak di kawasan The Kahyangan, sementara Simprug Signature akan dilanjutkan dengan konsep baru dan dua proyek lain masih tahap perencanaan. Perseroan membukukan pendapatan Rp3,2 miliar pada semester I 2026, naik dari Rp2 miliar pada periode sama tahun lalu berkat penjualan tiga unit apartemen dibanding dua unit tahun sebelumnya. Namun perseroan tetap mencatat rugi bersih Rp16,2 miliar, dengan beban umum dan administrasi Rp7,2 miliar setara 230 persen dari pendapatan dan beban keuangan Rp9,8 miliar atau 311 persen dari pendapatan yang berasal dari bunga pinjaman bank.",
+   "Perseroan mengonfirmasi telah memperpanjang utang bank kepada PT Bank Mayapada Internasional Tbk senilai Rp249,8 miliar, yang semula jatuh tempo 19 Juli 2026, menjadi 19 Juli 2027, dengan rencana pelunasan dari hasil penjualan unit apartemen. Selain itu ada utang pihak ketiga Rp74,8 miliar milik anak usaha PT Bintang Dwi Lestari kepada PT Cipta Anugerah Sejati yang jatuh tempo 31 Desember 2025 dan kini masih dalam proses perpanjangan legalitas tanpa bunga, serta utang lain Rp27,3 miliar kepada pemegang saham dan pihak ketiga yang juga tanpa bunga. Kas dan setara kas perseroan per akhir Juni 2026 hanya Rp5 miliar, sementara arus kas operasional tercatat negatif setiap tahun karena penerimaan penjualan masih lebih kecil dari biaya operasional. Perseroan menyebut persediaan unit apartemen yang belum terjual sebagai andalan untuk menambah kas ke depan.",
+   "Terkait lahan seluas 3.176.175 meter persegi atau sekitar 318 hektare di Maja, Lebak, Banten yang dibeli sejak 2022, perseroan menjelaskan status tanah masih Girik alias belum bersertifikat karena proses pembebasan lahan dari banyak pemilik individu dengan luas kepemilikan berbeda-beda belum selesai, sehingga uang muka pembelian belum bisa direklasifikasi menjadi aset real estat. Perseroan memperkirakan proses pembelian tanah tersebut baru rampung dalam dua tahun ke depan. Perseroan juga menyatakan tidak ada rencana divestasi dari pemegang saham mayoritas, tidak ada aksi korporasi dalam 12 bulan ke depan, dan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "A partially built apartment tower with idle construction cranes and stacked rebar under an overcast suburban Jakarta sky.",
+  "takeaway": "Laporan ini condong negatif bagi MPRO, sebab di balik kenaikan pendapatan, perseroan tetap membukukan rugi bersih Rp16,2 miliar dengan kas yang menipis ke Rp5 miliar dan arus kas dari operasional yang minus setiap tahun. Pos yang tersentuh adalah beban bunga dan arus kas: beban keuangan Rp9,8 miliar setara 311 persen dari pendapatan berarti hampir seluruh uang masuk dari penjualan apartemen habis untuk membayar bunga pinjaman bank, bukan menambah kas perusahaan, sementara kerugian yang terus berulang lambat laun mengikis modal pemegang saham. Uang muka pembelian lahan Maja senilai ratusan miliar rupiah yang sudah mengendap sejak 2022 tanpa kejelasan sertifikat juga menahan aset perseroan dalam bentuk yang belum produktif. Yang perlu dipantau berikutnya adalah realisasi pelunasan utang bank Rp249,8 miliar ke PT Bank Mayapada Internasional Tbk yang kini jatuh tempo baru pada 19 Juli 2027, serta kelanjutan negosiasi utang Rp74,8 miliar ke PT Cipta Anugerah Sejati yang sebenarnya sudah lewat jatuh tempo sejak 31 Desember 2025.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ultj-tanggapi-permintaan-bursa-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "ULTJ Tanggapi Permintaan Bursa soal [Volatilitas] Saham",

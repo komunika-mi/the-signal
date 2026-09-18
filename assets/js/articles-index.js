@@ -5,6 +5,60 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cirebon-bangun-ulang-pelabuhan-ikan-senilai-rp459-miliar",
+  "category": "Industri",
+  "title": "Cirebon Bangun Ulang Pelabuhan Ikan Senilai [Rp459] Miliar",
+  "deck": "KKP memulai pembangunan Pelabuhan Kejawanan di Cirebon dengan dukungan pembiayaan Islamic Development Bank, menyasar kapasitas dan produksi ikan yang jauh lebih besar dalam dua tahun.",
+  "date": "18 September 2026",
+  "image": "assets/img/cirebon-bangun-ulang-pelabuhan-ikan-senilai-rp459-miliar.jpg",
+  "imageV": "mu6v4c1s",
+  "tags": [
+   "Pelabuhan Perikanan",
+   "Cirebon",
+   "IsDB",
+   "KKP"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-kembangkan-ppn-kejawanan-jadi-bertaraf-internasional-targetkan-serap-8000-tenaga-kerja-beri-akses-khusus-nelayan-kecil-5RDK.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "kkp-mulai-bangun-pelabuhan-ikan-modern-di-cirebon",
+  "category": "Industri",
+  "title": "KKP Mulai Bangun Pelabuhan Ikan [Modern] di Cirebon",
+  "deck": "KKP memulai pembangunan pelabuhan ikan modern di Kejawanan, Cirebon, dengan target kapasitas kapal dan hasil tangkapan naik signifikan.",
+  "date": "18 September 2026",
+  "image": "assets/img/kkp-mulai-bangun-pelabuhan-ikan-modern-di-cirebon.jpg",
+  "imageV": "mu6v4giv",
+  "tags": [
+   "KKP",
+   "pelabuhan perikanan",
+   "Cirebon",
+   "PPN Kejawanan"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-modernisasi-pelabuhan-perikanan-ppn-kejawanan-jadi-langkah-awal-6BEV.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "kemendag-andalkan-25-perjanjian-dagang-buat-tarik-investasi-ekspor",
+  "category": "Bisnis",
+  "title": "Kemendag Andalkan [25] Perjanjian Dagang buat Tarik Investasi Ekspor",
+  "deck": "Kemendag membuka forum ATTEC dan mengaitkan 25 perjanjian dagang yang berjalan dengan upaya menarik investasi berorientasi ekspor, termasuk lewat capaian UMKM BISA Ekspor.",
+  "date": "18 September 2026",
+  "image": "assets/img/kemendag-andalkan-25-perjanjian-dagang-buat-tarik-investasi-ekspor.jpg",
+  "imageV": "mu6v4jc9",
+  "tags": [
+   "Kemendag",
+   "Investasi Ekspor",
+   "UMKM",
+   "Perjanjian Dagang"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-attec-global-investment-forum-mendag-busan-dorong-investasi-berorientasi-ekspor",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "dfam-bantah-punya-info-pemicu-volatilitas-transaksi-saham",
   "category": "Aksi Korporasi",
   "title": "DFAM Bantah Punya Info Pemicu [Volatilitas] Transaksi Saham",
@@ -211,6 +265,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d47a385796_e4ebb7fc56.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "telin-kelola-79-sampah-acara-batic-2026",
+  "category": "BUMN",
+  "title": "Telin Kelola [79%] Sampah Acara BATIC 2026",
+  "deck": "Telin, anak usaha Telkom, menjalankan program keberlanjutan di BATIC 2026 di Bali, termasuk pengelolaan 2,3 ton sampah dengan tingkat daur ulang 79 persen.",
+  "date": "18 September 2026",
+  "image": "assets/img/telin-kelola-79-sampah-acara-batic-2026.jpg",
+  "imageV": "mu6v4jrs",
+  "tags": [
+   "Telin",
+   "Telkom",
+   "BATIC 2026",
+   "keberlanjutan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467870-dari-green-journey-hingga-aksi-karbon-begini-upaya-keberlanjutan-telin-di-batic-2026"
  },
  {
   "slug": "ultj-tanggapi-permintaan-bursa-soal-volatilitas-saham",
@@ -6434,70 +6505,6 @@ var ARTICLES = [
    "marjin kotor"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a63dfb90c7_c6069b5274.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sqmi-cgs-international-jual-bersih-126-juta-saham-wilton-makmur",
-  "category": "Aksi Korporasi",
-  "title": "SQMI: CGS International [Jual] Bersih 126 Juta Saham Wilton Makmur",
-  "deck": "CGS International Securities Singapore melaporkan penjualan bersih 126 juta saham Wilton Makmur pada 4 September 2026, menurunkan hak suaranya dari 19,58% menjadi 18,77%.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SQMI",
-   "kepemilikan saham",
-   "CGS International",
-   "Wilton Makmur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-0829-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "life-ungkap-pemicu-laba-naik-investasi-ke-sinar-mas-disorot",
-  "category": "Aksi Korporasi",
-  "title": "LIFE Ungkap Pemicu Laba Naik, Investasi ke [Sinar Mas] Disorot",
-  "deck": "Dalam public expose insidentil, manajemen LIFE menjelaskan penyebab kenaikan laba serta menjawab pertanyaan analis soal penempatan dana di entitas Grup Sinar Mas.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LIFE",
-   "MSIG Life Insurance",
-   "Public Expose",
-   "Grup Sinar Mas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e167318277_708de80761.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "emmi-yulie-sekuritas-tambah-saham-lewati-10",
-  "category": "Aksi Korporasi",
-  "title": "EMMI: Yulie Sekuritas Tambah Saham, Lewati [10%]",
-  "deck": "Yulie Sekuritas Indonesia menambah 1.441.900 lembar saham EMMI pada 9-10 September 2026, membuat hak suaranya naik dari 9,95 persen menjadi 10,06 persen.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMMI",
-   "kepemilikan saham",
-   "Yulie Sekuritas",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-6017-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "spre-kepemilikan-moch-adhi-pamungkas-melonjak-ke-5-52",
-  "category": "Aksi Korporasi",
-  "title": "SPRE: Kepemilikan Moch Adhi Pamungkas [Melonjak] ke 5,52%",
-  "deck": "Investor non-direksi menambah kepemilikan saham SPRE dari 3,6 juta menjadi 44,2 juta unit, hak suara naik jadi 5,52 persen.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SPRE",
-   "kepemilikan saham",
-   "OJK",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-1074-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

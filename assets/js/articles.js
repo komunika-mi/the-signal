@@ -3,6 +3,90 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cirebon-bangun-ulang-pelabuhan-ikan-senilai-rp459-miliar",
+  "category": "Industri",
+  "title": "Cirebon Bangun Ulang Pelabuhan Ikan Senilai [Rp459] Miliar",
+  "deck": "KKP memulai pembangunan Pelabuhan Kejawanan di Cirebon dengan dukungan pembiayaan Islamic Development Bank, menyasar kapasitas dan produksi ikan yang jauh lebih besar dalam dua tahun.",
+  "image": "assets/img/cirebon-bangun-ulang-pelabuhan-ikan-senilai-rp459-miliar.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T11:10:59.225Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-kembangkan-ppn-kejawanan-jadi-bertaraf-internasional-targetkan-serap-8000-tenaga-kerja-beri-akses-khusus-nelayan-kecil-5RDK.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "Pelabuhan Perikanan",
+   "Cirebon",
+   "IsDB",
+   "KKP"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) memulai pembangunan Pelabuhan Perikanan Nusantara (PPN) Kejawanan di Cirebon, Jawa Barat, lewat seremoni peletakan batu pertama pada Kamis (17/9). Proyek senilai sekitar Rp459 miliar ini dibiayai dengan dukungan Islamic Development Bank (IsDB) dan ditargetkan rampung dalam dua tahun, mengubah pelabuhan yang sudah beroperasi puluhan tahun itu menjadi fasilitas yang diklaim bertaraf internasional dan lebih ramah lingkungan.",
+   "Menurut kajian KKP, kolam pelabuhan yang saat ini hanya menampung 241 kapal akan diperluas hingga mampu menampung 500 kapal. Produksi ikan yang didaratkan diproyeksikan melonjak dari 5.600 ton menjadi 32.000 ton per tahun, sementara penerimaan negara dari retribusi dan aktivitas di pelabuhan diperkirakan naik dari Rp15 miliar menjadi Rp53 miliar per tahun. Jumlah pekerja yang terserap ditaksir bertambah dari sekitar 2.900 orang saat ini menjadi 8.000 orang setelah pelabuhan beroperasi penuh.",
+   "Pengembangan ini mencakup pemisahan zona bersih dan zona kotor di area pelabuhan, penambahan dermaga termasuk dermaga khusus untuk kapal nelayan tradisional, tempat pelelangan ikan baru yang dilengkapi instalasi pengolahan air limbah, gedung layanan sertifikasi produk, serta pemecah gelombang di sisi barat dan timur untuk melindungi kolam pelabuhan dari abrasi. KKP menyebut fasilitas itu disiapkan agar pelabuhan bisa menjadi pusat bisnis dan ekspor hasil tangkapan sekaligus memberi akses bagi nelayan kecil untuk ikut bersaing.",
+   "Perwakilan IsDB, Anisa Pratiwi, menyebut pembiayaan proyek ini melanjutkan kerja sama lembaganya dengan pemerintah Indonesia yang sudah berjalan sekitar 50 tahun, sekaligus bagian dari komitmen mendukung tata kelola perikanan berkelanjutan dan penguatan rantai pasok perikanan dari hulu hingga akses pasar domestik maupun internasional."
+  ],
+  "fotoAdegan": "Wooden fishing boats crowded together in a harbor basin, construction cranes and machinery in the background, overcast morning light",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-kembangkan-ppn-kejawanan-jadi-bertaraf-internasional-targetkan-serap-8000-tenaga-kerja-beri-akses-khusus-nelayan-kecil-5RDK.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Proyek ini baru pada tahap peletakan batu pertama, sehingga angka-angka yang disebut KKP, kapasitas 500 kapal, produksi 32.000 ton per tahun, dan penyerapan 8.000 pekerja, semuanya masih proyeksi setelah pembangunan rampung dua tahun lagi, bukan hasil yang sudah terjadi. Yang sudah pasti berubah adalah mulainya konstruksi senilai Rp459 miliar yang dibiayai lembaga keuangan Islam IsDB, bukan sepenuhnya dari anggaran negara, menandakan pemerintah memakai skema pembiayaan lembaga multilateral untuk proyek pelabuhan perikanan. Pihak yang paling terdampak adalah nelayan tradisional Cirebon yang dijanjikan dermaga khusus, serta calon pekerja dan pelaku usaha ekspor ikan lokal jika target produksi tercapai. Yang akan membuktikan apakah proyeksi ini realistis adalah laporan progres fisik pembangunan dalam dua tahun ke depan dan apakah lonjakan penerimaan pelabuhan dari Rp15 miliar menjadi Rp53 miliar per tahun benar-benar terjadi setelah pelabuhan beroperasi penuh.",
+  "imageV": "mu6v4c1s"
+ },
+ {
+  "slug": "kkp-mulai-bangun-pelabuhan-ikan-modern-di-cirebon",
+  "category": "Industri",
+  "title": "KKP Mulai Bangun Pelabuhan Ikan [Modern] di Cirebon",
+  "deck": "KKP memulai pembangunan pelabuhan ikan modern di Kejawanan, Cirebon, dengan target kapasitas kapal dan hasil tangkapan naik signifikan.",
+  "image": "assets/img/kkp-mulai-bangun-pelabuhan-ikan-modern-di-cirebon.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T11:10:53.597Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-modernisasi-pelabuhan-perikanan-ppn-kejawanan-jadi-langkah-awal-6BEV.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "KKP",
+   "pelabuhan perikanan",
+   "Cirebon",
+   "PPN Kejawanan"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) memulai pembangunan Pelabuhan Perikanan Nusantara (PPN) Kejawanan di Cirebon, Jawa Barat, menjadi pelabuhan ikan modern setara negara maju. Proyek ini jadi contoh awal sebelum KKP melanjutkan pengembangan serupa di PPN Pengambengan, Bali, sehingga hasilnya akan menentukan pola pembangunan pelabuhan perikanan di daerah lain.",
+   "Peletakan batu pertama proyek dilakukan Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono pada Kamis, 17 September 2026. KKP menyebut rencana pengembangan ini disusun berdasarkan kajian dan perbandingan dengan pelabuhan perikanan di Jepang, Australia, dan sejumlah negara Eropa. Desain baru akan memisahkan zona bersih dan zona kotor, serta menyatukan kegiatan sandar kapal, pendaratan ikan, pengolahan, dan pemasaran dalam satu kawasan dengan layanan terpadu.",
+   "Menurut proyeksi KKP, kapasitas kolam pelabuhan untuk sandar kapal naik dari 241 menjadi sekitar 500 kapal. Volume ikan yang bisa didaratkan diperkirakan melonjak dari 5.600 ton menjadi 32.000 ton per tahun. KKP juga memproyeksikan penyerapan tenaga kerja bertambah dari sekitar 2.900 menjadi 8.000 orang, sementara penerimaan negara bukan pajak dari aktivitas pelabuhan naik dari Rp15 miliar menjadi Rp53 miliar per tahun.",
+   "Gubernur Jawa Barat Dedi Mulyadi menyatakan dukungan atas proyek ini dan berjanji menambah infrastruktur jalan dari gerbang tol menuju pelabuhan. Sementara itu, nelayan tradisional asal Desa Cangkol, Mulyadi, berharap adanya dermaga khusus nelayan tradisional beserta tempat pelelangan ikan akan membuat hasil tangkapan lebih mudah terserap pembeli dengan harga yang lebih stabil. Ia juga berharap anak-anak nelayan setempat bisa bekerja di pelabuhan sebagai alternatif pekerjaan yang lebih pasti dibanding melaut."
+  ],
+  "fotoAdegan": "Wide view of small wooden fishing boats docked along a busy harbor, workers unloading crates of fish at early morning light",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-modernisasi-pelabuhan-perikanan-ppn-kejawanan-jadi-langkah-awal-6BEV.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah di sini adalah dimulainya pembangunan fisik pelabuhan ikan Kejawanan di Cirebon, ditandai peletakan batu pertama pekan ini. Menurut proyeksi KKP sendiri, kapasitas sandar kapal bakal naik dari 241 menjadi 500 kapal dan hasil ikan yang bisa didaratkan melonjak dari 5.600 ton menjadi 32.000 ton per tahun, angka yang kalau tercapai berarti pelabuhan ini jauh lebih ramai dan produktif dari sekarang. Yang terdampak langsung adalah nelayan Cirebon, terutama nelayan tradisional yang dijanjikan dermaga dan tempat lelang ikan sendiri supaya harga jual lebih stabil, serta calon pekerja pelabuhan karena KKP memproyeksikan lapangan kerja bertambah dari sekitar 2.900 menjadi 8.000 orang. Proyek ini disebut sebagai proyek percontohan yang akan disusul pengembangan serupa di Pengambengan, Bali, sehingga arahnya tampak menuju program modernisasi pelabuhan perikanan yang bertahap ke berbagai daerah, bukan proyek satu kali selesai. Karena semua angka produktivitas dan pendapatan itu masih proyeksi KKP untuk tahap konstruksi awal, yang perlu ditunggu adalah progres fisik pembangunan Kejawanan dan apakah pengembangan Pengambengan benar-benar mulai berjalan menyusul.",
+  "imageV": "mu6v4giv"
+ },
+ {
+  "slug": "kemendag-andalkan-25-perjanjian-dagang-buat-tarik-investasi-ekspor",
+  "category": "Bisnis",
+  "title": "Kemendag Andalkan [25] Perjanjian Dagang buat Tarik Investasi Ekspor",
+  "deck": "Kemendag membuka forum ATTEC dan mengaitkan 25 perjanjian dagang yang berjalan dengan upaya menarik investasi berorientasi ekspor, termasuk lewat capaian UMKM BISA Ekspor.",
+  "image": "assets/img/kemendag-andalkan-25-perjanjian-dagang-buat-tarik-investasi-ekspor.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T11:08:51.352Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-attec-global-investment-forum-mendag-busan-dorong-investasi-berorientasi-ekspor",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Kemendag",
+   "Investasi Ekspor",
+   "UMKM",
+   "Perjanjian Dagang"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso membuka forum ATTEC Global Investment Forum di Jakarta pada Jumat (18/9), bagian dari rangkaian Jakarta International Investment, Trade, Tourism, and SMEs Expo (JITEX) 2026 yang berlangsung 16-19 September. Dalam sambutannya, ia menyatakan perluasan akses pasar ekspor Indonesia menjadi cara pemerintah menarik investor untuk menjadikan Indonesia basis produksi dan bagian dari rantai pasok global, yaitu jaringan produksi yang tersebar di berbagai negara.",
+   "Budi Santoso menyebut Indonesia saat ini memiliki 25 perjanjian perdagangan yang sudah berjalan, dua perjanjian dalam proses ratifikasi atau menunggu pengesahan, dan 13 lainnya masih dalam tahap negosiasi. Menurutnya, perjanjian-perjanjian ini berfungsi memperluas akses pasar sekaligus memberi kepastian bagi pelaku usaha yang ingin berdagang maupun berinvestasi di Indonesia.",
+   "Di sisi UMKM, program UMKM BISA Ekspor tercatat membukukan transaksi ekspor senilai US$347 juta sepanjang Januari-Agustus 2026, dengan sebagian besar pesertanya adalah UMKM yang belum pernah mengekspor sebelumnya. Program ini memberi pendampingan mulai dari kurasi produk, pertemuan dengan calon pembeli, hingga dukungan perwakilan dagang di negara tujuan. Kemendag juga mengajak pelaku usaha memanfaatkan Trade Expo Indonesia 2026 yang akan digelar 14-18 Oktober mendatang, serta memperluas akses UMKM ke pasar domestik lewat kerja sama dengan Himpunan Peritel dan Penyewa Pusat Perbelanjaan Indonesia (HIPPINDO), dengan syarat produk memenuhi standar kualitas dan daya saing.",
+   "Ketua Umum HIPPINDO Budihardjo Iduansjah menyebut forum ini mempertemukan sektor perdagangan, pariwisata, investasi, dan UMKM, sekaligus melibatkan kerja sama dengan Pemerintah Provinsi DKI Jakarta. Ia juga menyinggung potensi pengembangan kawasan ekonomi khusus dan kawasan industri yang berjalan beriringan dengan penyediaan hunian bagi pekerja untuk mendukung mobilitas dan aktivitas ekonomi."
+  ],
+  "fotoAdegan": "Warehouse workers loading stacked cardboard boxes onto a delivery truck for export shipment in daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/B0qH4lSsoWAbndKf33XvZpwZOLp2U0NGujHIUAA1.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Angka konkret dari acara ini adalah peta jumlah perjanjian dagang yang dikejar Kemendag: 25 sudah berjalan, 2 tinggal menunggu pengesahan, dan 13 lagi masih dirundingkan, artinya pemerintah masih terus menambah jumlah negara mitra dagang, bukan berhenti di angka sekarang. Program UMKM BISA Ekspor turut mencatat transaksi US$347 juta sepanjang Januari-Agustus 2026, dan sebagian besar pesertanya baru pertama kali menembus pasar luar negeri, jadi yang disasar kebijakan ini bukan cuma investor besar melainkan juga usaha kecil yang baru merintis ekspor. Arahnya, pemerintah memakai jaringan perjanjian dagang sebagai daya tarik utama untuk mengundang investor membangun basis produksi di Indonesia, bukan sekadar memperlancar arus barang ekspor. Yang akan menunjukkan apakah strategi ini membuahkan hasil nyata adalah gelaran Trade Expo Indonesia pada 14-18 Oktober 2026, karena di sana biasanya diumumkan nilai transaksi dan kesepakatan dagang baru yang bisa dibandingkan dengan capaian tahun-tahun sebelumnya.",
+  "imageV": "mu6v4jc9"
+ },
+ {
   "slug": "dfam-bantah-punya-info-pemicu-volatilitas-transaksi-saham",
   "category": "Aksi Korporasi",
   "title": "DFAM Bantah Punya Info Pemicu [Volatilitas] Transaksi Saham",
@@ -340,6 +424,32 @@ var ARTICLES = [
   "fotoAdegan": "A partially built apartment tower with idle construction cranes and stacked rebar under an overcast suburban Jakarta sky.",
   "takeaway": "Laporan ini condong negatif bagi MPRO, sebab di balik kenaikan pendapatan, perseroan tetap membukukan rugi bersih Rp16,2 miliar dengan kas yang menipis ke Rp5 miliar dan arus kas dari operasional yang minus setiap tahun. Pos yang tersentuh adalah beban bunga dan arus kas: beban keuangan Rp9,8 miliar setara 311 persen dari pendapatan berarti hampir seluruh uang masuk dari penjualan apartemen habis untuk membayar bunga pinjaman bank, bukan menambah kas perusahaan, sementara kerugian yang terus berulang lambat laun mengikis modal pemegang saham. Uang muka pembelian lahan Maja senilai ratusan miliar rupiah yang sudah mengendap sejak 2022 tanpa kejelasan sertifikat juga menahan aset perseroan dalam bentuk yang belum produktif. Yang perlu dipantau berikutnya adalah realisasi pelunasan utang bank Rp249,8 miliar ke PT Bank Mayapada Internasional Tbk yang kini jatuh tempo baru pada 19 Juli 2027, serta kelanjutan negosiasi utang Rp74,8 miliar ke PT Cipta Anugerah Sejati yang sebenarnya sudah lewat jatuh tempo sejak 31 Desember 2025.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "telin-kelola-79-sampah-acara-batic-2026",
+  "category": "BUMN",
+  "title": "Telin Kelola [79%] Sampah Acara BATIC 2026",
+  "deck": "Telin, anak usaha Telkom, menjalankan program keberlanjutan di BATIC 2026 di Bali, termasuk pengelolaan 2,3 ton sampah dengan tingkat daur ulang 79 persen.",
+  "image": "assets/img/telin-kelola-79-sampah-acara-batic-2026.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T15:30:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467870-dari-green-journey-hingga-aksi-karbon-begini-upaya-keberlanjutan-telin-di-batic-2026",
+  "tags": [
+   "Telin",
+   "Telkom",
+   "BATIC 2026",
+   "keberlanjutan"
+  ],
+  "body": [
+   "PT Telekomunikasi Indonesia International atau Telin, anak usaha PT Telkom Indonesia (Persero) Tbk, menjalankan rangkaian aksi keberlanjutan di ajang Bali Annual Telkom International Conference (BATIC) 2026 yang digelar di Nusa Dua, Bali, pada 24 hingga 28 Agustus 2026. Program ini dibagi ke dalam tiga pilar, yaitu BATIC Green Journey, Connected by Purpose, dan Collective Carbon Action, dengan tema besar acara Better Together.",
+   "Dari ketiganya, pilar Green Journey yang paling rinci dijalankan, mencakup tiga program yaitu Green Travel, Green Stay, dan Waste Management. Green Travel menyediakan transportasi bersama bagi peserta agar tidak semua orang membawa kendaraan sendiri, sementara Green Stay bekerja sama dengan hotel dan lokasi acara yang punya sertifikasi ramah lingkungan.",
+   "Pada sisi pengelolaan sampah, panitia mencatat sekitar 2,3 ton sampah berhasil dikelola selama BATIC 2026 berlangsung, dan 79 persen di antaranya didaur ulang sehingga tidak berakhir di tempat pembuangan akhir. Chief Executive Officer Telin, Abdul Rahman Ansyori, menyampaikan bahwa keberlanjutan menjadi bagian penting dari cara Telin membangun ekosistem digital, dan forum bisnis semacam ini diharapkan memberi dampak yang melampaui kepentingan bisnis semata."
+  ],
+  "fotoAdegan": "Conference staff loading recyclable waste bins onto a cart near an outdoor event tent in Bali, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/18/6aacf600353d9-dari-green-journey-hingga-aksi-karbon-begini-upaya-keberlanjutan-telin-di-batic-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang benar-benar berubah dan terukur di sini baru satu dari tiga program yang diumumkan Telin: pengelolaan sampah di ajang BATIC 2026, dengan 2,3 ton sampah tertangani dan 79 persen di antaranya didaur ulang alih-alih dibuang ke tempat pembuangan akhir. Yang terdampak langsung adalah peserta, mitra, dan penyelenggara konferensi itu sendiri, karena programnya baru mengatur transportasi bersama dan pemilihan hotel berlabel ramah lingkungan selama acara berlangsung. Dua pilar lain yang disebut, Connected by Purpose dan Collective Carbon Action, belum dijelaskan mekanismenya sama sekali di sini, jadi belum bisa dibaca apakah keduanya program dengan target dan angka yang jelas atau baru sebatas nama payung. Yang perlu ditunggu adalah apakah Telkom Group merilis rincian dan capaian dua pilar itu setelah BATIC 2026 selesai, serta apakah angka pengelolaan sampah seperti ini akan diukur ulang dan dibandingkan pada edisi BATIC berikutnya.",
+  "imageV": "mu6v4jrs"
  },
  {
   "slug": "ultj-tanggapi-permintaan-bursa-soal-volatilitas-saham",

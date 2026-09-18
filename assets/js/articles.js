@@ -3,6 +3,137 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ultj-rights-issue-rp16-9-triliun-frieslandcampina-jadi-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Rights Issue Rp16,9 Triliun, [FrieslandCampina] Jadi Pengendali",
+  "deck": "Ultrajaya akan menerbitkan hingga 7,88 miliar saham baru senilai Rp2.150 per saham untuk mengakuisisi saham Frisian Flag Indonesia, dan FrieslandCampina bakal menjadi pengendali baru perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T13:51:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/99927124a8_2aafee09e8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "Frisian Flag Indonesia",
+   "FrieslandCampina",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) mengumumkan rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD IV) sekaligus transaksi material untuk mengambil alih seluruh saham PT Frisian Flag Indonesia (FFI). Perseroan akan menerbitkan saham baru sebanyak-banyaknya 7.878.669.985 lembar dengan nilai nominal Rp50 per saham, pada harga pelaksanaan Rp2.150 per saham. Pembayarannya bukan berupa uang tunai, melainkan penyetoran modal dalam bentuk saham FFI (inbreng) oleh tiga pemegang saham FFI, yaitu FrieslandCampina International Holding B.V. (FCIH), Blue Waves Group Ventures Pte. Ltd. (BWG), dan PT Bahtera Wiraniaga Internusa (BWI).",
+   "Mekanismenya, enam pemegang saham utama ULTJ akan mengalihkan seluruh hak memesan efek terlebih dahulu (HMETD) miliknya kepada tiga pemegang saham FFI tersebut. Sabana Prawirawidjaja selaku pemegang saham pengendali dengan 5.528.219.300 saham (53,17 persen) berhak atas 4.188.717.215 HMETD, PT Prawirawidjaja Prakarsa dengan 2.472.304.260 saham (23,78 persen) berhak atas 1.873.258.431 HMETD, disusul Samudera Prawirawidjaja dan Nila S yang masing-masing memegang 375.000.000 saham (3,61 persen), Suhendra Prawirawidjaja dengan 157.710.360 saham (1,52 persen), dan Lili Melati dengan 35.630.000 saham (0,34 persen). Seluruh HMETD itu akan dialihkan dengan rincian 5.291.626.319 HMETD ke FCIH, 1.146.278.726 HMETD ke BWG, dan 338.837.108 HMETD ke BWI, yang kemudian dilaksanakan ketiganya sebagai setoran saham FFI ke ULTJ.",
+   "Perseroan menyebut nilai transaksi ini setara 178,24 persen dari ekuitas ULTJ, sementara total aset FFI setara 96,4 persen aset ULTJ, laba bersih FFI setara 121,44 persen laba bersih ULTJ, dan pendapatan usaha FFI setara 36,08 persen pendapatan usaha ULTJ, yang menunjukkan ukuran FFI sebanding dengan ULTJ sendiri. Penilai independen KJPP Rengganis, Hamid & Rekan melalui penilai Hamid Yusuf telah menerbitkan laporan penilaian dan pendapat kewajaran per 31 Juli 2026 yang menyatakan transaksi ini wajar. Setelah transaksi rampung, FCIH akan menjadi pengendali baru ULTJ menggantikan keluarga Prawirawidjaja, dan sesuai aturan OJK soal pengambilalihan perusahaan terbuka, FCIH wajib melakukan penawaran tender kepada pemegang saham publik yang tersisa. Rencana ini masih memerlukan persetujuan pemegang saham dalam RUPS Luar Biasa yang dijadwalkan pada 27 Oktober 2026, serta pernyataan efektif dari OJK atas penerbitan saham barunya."
+  ],
+  "fotoAdegan": "Workers in white uniforms inspecting stainless steel milk processing tanks inside a modern dairy factory, early morning shift in West Java",
+  "takeaway": "Transaksi ini netral bagi fundamental Ultrajaya, karena bentuknya pertukaran saham dengan Frisian Flag Indonesia, bukan aliran uang tunai yang bisa langsung dinilai untung atau rugi bagi kas perusahaan. Yang jelas berubah adalah dua pos, modal atau ekuitas perusahaan akan membesar karena aset Frisian Flag Indonesia masuk sebagai setoran saham, sementara jumlah saham beredar bertambah hingga 7,88 miliar lembar, sehingga laba per saham pemegang saham lama berpotensi terpecah lebih tipis meski laba perusahaan gabungan ikut membesar setelah Frisian Flag dikonsolidasikan. Hal lain yang perlu dicermati investor adalah pergantian pengendali, dari keluarga Prawirawidjaja yang selama ini menguasai mayoritas suara, ke FrieslandCampina International Holding yang akan menjadi pemegang saham pengendali baru dan wajib menawar beli sisa saham publik. Yang akan menentukan apakah rencana ini berjalan adalah persetujuan pemegang saham dalam RUPS Luar Biasa pada 27 Oktober 2026, disusul pernyataan efektif dari OJK atas penerbitan saham barunya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cint-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "CINT Bantah Ada [Info Material] di Balik Volatilitas Sahamnya",
+  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, manajemen Chitose Internasional menyatakan tidak mengetahui adanya informasi material yang memengaruhi harga saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T13:43:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/86fd776dd9_20566327ed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CINT",
+  "tags": [
+   "CINT",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Chitose Internasional Tbk (CINT) mengirim surat penjelasan bernomor 42/DIR/CINT/IX/2026 kepada Bursa Efek Indonesia pada 18 September 2026, menjawab permintaan BEI melalui surat nomor S-12115/BEI.PP1/09-2026 tertanggal 17 September 2026 perihal volatilitas transaksi efek perseroan. Surat ditandatangani oleh Direktur R. Nurwulan Kusumawati.",
+   "Dalam jawabannya, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, dan menyebut perubahan nilai saham semata terjadi karena mekanisme pasar. Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta tidak memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang berdampak pada status pencatatan sahamnya di bursa.",
+   "Perseroan turut menegaskan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik. Terkait pemegang saham utama dan pengendali, corporate secretary telah mengonfirmasi langsung dan mendapat jawaban bahwa belum ada rencana terkait kepemilikan saham mereka di perseroan."
+  ],
+  "fotoAdegan": "Workers assembling metal chair frames on a furniture factory floor in West Java, daylight through tall windows",
+  "takeaway": "Laporan ini netral bagi fundamental CINT karena isinya adalah bantahan standar, bukan pengungkapan fakta baru yang mengubah kondisi keuangan atau operasional perusahaan. Surat semacam ini muncul karena BEI memantau pergerakan harga atau volume transaksi saham yang dianggap tidak wajar, lalu meminta emiten mengonfirmasi apakah ada informasi tersembunyi di baliknya. Karena CINT menjawab tidak ada fakta material apa pun, termasuk dari sisi pemegang saham utama, penjelasan ini tidak mengubah gambaran kinerja perseroan, melainkan sekadar memenuhi kewajiban keterbukaan. Yang perlu dipantau selanjutnya adalah apakah BEI menindaklanjuti dengan status pemantauan khusus atas volatilitas saham CINT, serta apakah pergerakan harga dan volume transaksinya mereda dalam beberapa hari perdagangan ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "true-bukukan-rugi-rp12-3-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "TRUE Bukukan [Rugi] Rp12,3 Miliar di Semester I 2026",
+  "deck": "Rugi bersih Triniti Dinamik melebar jadi Rp12,3 miliar pada semester I 2026, arus kas operasi berbalik negatif, dan utang ke pihak berelasi bertambah Rp17,6 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T13:30:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918134111-64411-0/FinancialStatement-2026-II-TRUE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUE",
+  "tags": [
+   "TRUE",
+   "Triniti Dinamik",
+   "Properti",
+   "Laporan Keuangan"
+  ],
+  "body": [
+   "PT Triniti Dinamik Tbk (TRUE) menyampaikan laporan keuangan interim tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2026. Perusahaan properti ini mencatat rugi bersih Rp12.302.247.719, melebar dari rugi Rp9.970.532.979 pada periode sama tahun 2025, atau naik sekitar 23 persen. Rugi per saham dasar tercatat Rp1,62, dibanding Rp1,32 pada semester I 2025.",
+   "Penjualan sebenarnya naik tipis dari Rp23,88 miliar menjadi Rp24,77 miliar. Namun beban pokok penjualan naik lebih cepat, dari Rp17,34 miliar menjadi Rp19,86 miliar, sehingga laba kotor justru turun dari Rp6,55 miliar menjadi Rp4,91 miliar. Di neraca, total aset turun dari Rp681,85 miliar menjadi Rp675,59 miliar, sementara total ekuitas menyusut dari Rp224,81 miliar menjadi Rp212,51 miliar seiring defisit saldo laba yang membengkak dari Rp76,50 miliar menjadi Rp88,80 miliar.",
+   "Arus kas dari aktivitas operasi berbalik menjadi negatif Rp16,37 miliar, padahal pada semester I 2025 masih positif Rp11,27 miliar. Kas dan setara kas akhir periode turun menjadi Rp7,17 miliar dari Rp7,84 miliar di awal tahun. Untuk menambal kebutuhan kas, TRUE menerima pinjaman baru dari pihak berelasi senilai Rp17,64 miliar, sehingga total utang jangka panjang ke pihak berelasi naik dari Rp49,96 miliar menjadi Rp67,60 miliar.",
+   "PT Agung Perkasa Investindo tercatat sebagai entitas induk dan Heriyanto, yang juga menjabat Komisaris Utama, sebagai pemegang saham pengendali. Dua anak usaha turut dilaporkan, PT Sukses Bangun Sinergi Property Management di Banten yang sudah beroperasi sejak 2019 dengan aset Rp16,24 miliar dan kepemilikan 99 persen, serta PT Triniti Dinamik Santoz Property di Banten yang belum beroperasi dengan aset Rp107,84 miliar dan kepemilikan 85 persen."
+  ],
+  "fotoAdegan": "Construction crew working on an unfinished residential apartment tower, scaffolding and cranes visible, cloudy afternoon light in Jakarta",
+  "takeaway": "Laporan ini condong negatif bagi TRUE, karena rugi bersih melebar sekitar 23 persen dibanding semester I 2025, laba kotor menyusut, dan arus kas dari kegiatan operasional berbalik menjadi minus setelah tahun lalu masih positif, tanda bahwa penjualan properti belum cukup menutup biaya operasional dan bunga pinjaman. Yang tersentuh adalah ekuitas dan arus kas, ekuitas turun karena defisit saldo laba terus menumpuk, sementara arus kas negatif berarti perusahaan lebih mengandalkan pinjaman baru daripada hasil penjualan untuk menutup kebutuhan kasnya, terlihat dari utang ke pihak berelasi yang naik Rp17,64 miliar hanya dalam enam bulan. Kenaikan utang ke pihak berelasi ini menambah beban yang harus dibayar di masa depan meski belum membebani laba periode berjalan. Selanjutnya perlu dipantau laporan keuangan kuartal III 2026, sebab tren rugi yang terus melebar dari kuartal I ke semester I akan menentukan apakah perusahaan bisa membalikkan arah sebelum tutup tahun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ultj-jadwalkan-rupslb-27-oktober-dps-per-2-oktober",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Jadwalkan [RUPSLB] 27 Oktober, DPS per 2 Oktober",
+  "deck": "Ultrajaya mengumumkan rencana RUPSLB digelar elektronik pada 27 Oktober 2026, dengan pencatatan pemegang saham yang berhak hadir per 2 Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T13:10:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0fe3bc8d0e_4d1c4c88b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "RUPSLB",
+   "Ultrajaya",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 27 Oktober 2026 pukul 10.00 WIB. Pengumuman ditandatangani secara elektronik oleh Corporate Secretary Helina Widayani. Rapat akan digelar dari kantor perusahaan di Jalan Raya Cimareme No 131, Kabupaten Bandung Barat, Jawa Barat, namun sepenuhnya secara elektronik (e-RUPS) tanpa kehadiran fisik pemegang saham atau kuasanya.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Jumat, 2 Oktober 2026 pukul 16.00 WIB. Bagi saham yang berada dalam penitipan kolektif, yang berhak adalah pemegang rekening atau bank kustodian yang tercatat di PT Kustodian Sentral Efek Indonesia (KSEI) hingga penutupan perdagangan bursa pada tanggal yang sama. Pemanggilan resmi yang memuat mata acara rapat baru akan diumumkan pada Senin, 5 Oktober 2026, lewat situs Bursa Efek Indonesia, situs perusahaan, dan sistem eASY KSEI. Perusahaan menghimbau pemegang saham memakai fasilitas eASY KSEI agar bisa hadir elektronik atau memberi kuasa elektronik (e-Proxy).",
+   "Pemegang saham yang ingin mengusulkan mata acara RUPS bisa menyampaikannya ke Direksi, dengan syarat memenuhi ketentuan Pasal 12 ayat 8 Anggaran Dasar Perseroan dan Pasal 16 POJK No.15/2020, serta usulan itu harus diterima Direksi paling lambat 7 hari sebelum tanggal pemanggilan rapat, yakni sekitar 28 September 2026."
+  ],
+  "fotoAdegan": "Exterior of a dairy processing plant with delivery trucks parked at a loading dock, soft morning light, West Java",
+  "takeaway": "Pengumuman ini netral, sebab isinya baru soal jadwal dan tata cara RUPSLB, belum memuat mata acara rapat yang menentukan dampaknya bagi pemegang saham. Yang perlu diperhatikan, jadwal ini muncul di hari yang sama dengan pengumuman rencana rights issue senilai Rp16,9 triliun yang akan menjadikan FrieslandCampina sebagai pengendali baru Ultrajaya, sehingga RUPSLB ini kemungkinan besar menjadi forum yang akan memutuskan transaksi tersebut meski dokumen ini sendiri belum menyebutkan agendanya secara eksplisit. Kalau rights issue itu memang jadi agendanya, keputusan RUPSLB akan menentukan jumlah saham beredar Ultrajaya, sebab penerbitan saham baru bisa membuat laba per saham investor lama terdilusi atau berkurang porsinya. Pemegang saham yang ingin ikut menentukan keputusan itu perlu memastikan namanya tercatat di Daftar Pemegang Saham per Jumat, 2 Oktober 2026 pukul 16.00 WIB. Yang perlu dipantau berikutnya adalah pemanggilan resmi berisi agenda rapat pada 5 Oktober 2026, dan pelaksanaan RUPSLB itu sendiri pada 27 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lflo-klaim-tak-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "LFLO Klaim Tak Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "PT Imago Mulia Persada Tbk menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T12:12:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/137dd3de08_492856ca40.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LFLO",
+  "tags": [
+   "LFLO",
+   "Imago Mulia Persada",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Imago Mulia Persada Tbk (LFLO) menjawab surat Bursa Efek Indonesia nomor S-12113/BEI.PP1/09-2026 yang meminta penjelasan atas volatilitas transaksi efek perseroan. Tanggapan dikirim melalui surat nomor 064/IMP/DIR/IX/2026 tertanggal 18 September 2026, ditandatangani oleh Erlangga Ksatria selaku Direktur Utama.",
+   "Dalam suratnya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham.",
+   "Perseroan menambahkan bahwa dalam tiga bulan ke depan tidak ada rencana tindakan korporasi yang bisa memengaruhi status pencatatan sahamnya di bursa, dan tidak ada informasi material lain yang belum diungkap yang dapat memengaruhi harga efek atau kelangsungan usahanya. Pemegang saham utama dan pengendali perseroan juga disebut tidak memiliki rencana apa pun terkait kepemilikan sahamnya saat ini."
+  ],
+  "fotoAdegan": "Wide shot of a busy stock exchange trading floor in Jakarta with blurred distant screens and people walking, indoor lighting",
+  "takeaway": "Laporan ini netral bagi emiten, karena isinya adalah bantahan standar tanpa informasi baru, sekadar menegaskan tidak ada faktor material di balik pergerakan sahamnya. Dokumen ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, karena sifatnya murni pemenuhan kewajiban keterbukaan setelah bursa mempertanyakan lonjakan harga atau volume transaksi yang tidak biasa. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham LFLO mereda atau justru berlanjut pada hari-hari perdagangan berikutnya, sebab jika volatilitas terus terjadi, Bursa berpotensi mengirim permintaan penjelasan lanjutan atau bahkan menghentikan sementara perdagangan sahamnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "smra-bantah-ada-info-material-di-tengah-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "SMRA Bantah Ada Info Material di Tengah [Volatilitas] Saham",

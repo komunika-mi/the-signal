@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ultj-rights-issue-rp16-9-triliun-frieslandcampina-jadi-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Rights Issue Rp16,9 Triliun, [FrieslandCampina] Jadi Pengendali",
+  "deck": "Ultrajaya akan menerbitkan hingga 7,88 miliar saham baru senilai Rp2.150 per saham untuk mengakuisisi saham Frisian Flag Indonesia, dan FrieslandCampina bakal menjadi pengendali baru perseroan.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "Frisian Flag Indonesia",
+   "FrieslandCampina",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/99927124a8_2aafee09e8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cint-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "CINT Bantah Ada [Info Material] di Balik Volatilitas Sahamnya",
+  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, manajemen Chitose Internasional menyatakan tidak mengetahui adanya informasi material yang memengaruhi harga saham.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CINT",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/86fd776dd9_20566327ed.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "true-bukukan-rugi-rp12-3-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "TRUE Bukukan [Rugi] Rp12,3 Miliar di Semester I 2026",
+  "deck": "Rugi bersih Triniti Dinamik melebar jadi Rp12,3 miliar pada semester I 2026, arus kas operasi berbalik negatif, dan utang ke pihak berelasi bertambah Rp17,6 miliar.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "Triniti Dinamik",
+   "Properti",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918134111-64411-0/FinancialStatement-2026-II-TRUE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ultj-jadwalkan-rupslb-27-oktober-dps-per-2-oktober",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Jadwalkan [RUPSLB] 27 Oktober, DPS per 2 Oktober",
+  "deck": "Ultrajaya mengumumkan rencana RUPSLB digelar elektronik pada 27 Oktober 2026, dengan pencatatan pemegang saham yang berhak hadir per 2 Oktober.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "RUPSLB",
+   "Ultrajaya",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0fe3bc8d0e_4d1c4c88b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lflo-klaim-tak-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "LFLO Klaim Tak Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "PT Imago Mulia Persada Tbk menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LFLO",
+   "Imago Mulia Persada",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/137dd3de08_492856ca40.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smra-bantah-ada-info-material-di-tengah-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "SMRA Bantah Ada Info Material di Tengah [Volatilitas] Saham",
@@ -6423,87 +6503,6 @@ var ARTICLES = [
    "pembiayaan individu"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/040f744126_c1bf31a152.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kadin-dorong-tambang-ri-pakai-ai-hadapi-tekanan-geopolitik",
-  "category": "Energi",
-  "title": "Kadin Dorong Tambang RI Pakai [AI] Hadapi Tekanan Geopolitik",
-  "deck": "Kadin ESDM dan MIND ID mendorong perusahaan tambang mempercepat adopsi AI, elektrifikasi, dan efisiensi modal di tengah tekanan geopolitik dan harga komoditas yang bergejolak.",
-  "date": "10 September 2026",
-  "image": "assets/img/kadin-dorong-tambang-ri-pakai-ai-hadapi-tekanan-geopolitik.jpg",
-  "imageV": "mtvo1fcb",
-  "tags": [
-   "Kadin",
-   "Tambang",
-   "AI",
-   "ESDM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466269-hadapi-geopolitik-dan-era-ai-kadin-paparkan-strategi-untuk-masa-depan-industri-tambang-indonesia"
- },
- {
-  "slug": "mglv-wajib-gelar-public-expose-usai-disuspensi-cooling-down",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Wajib Gelar Public Expose Usai Disuspensi [Cooling Down]",
-  "deck": "Perdagangan saham MGLV disetop sementara oleh BEI untuk cooling down, dan Perseroan diminta memaparkan kinerja terkini secara virtual pada 16 September 2026.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "suspensi saham",
-   "public expose",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f15b2865e_d9c43ac35d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-setop-perdagangan-saham-ipac-era-graharealty-go-private",
-  "category": "Aksi Korporasi",
-  "title": "BEI Setop Perdagangan Saham [IPAC], Era Graharealty Go Private",
-  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham IPAC di seluruh pasar mulai sesi I, 11 September 2026, menyusul rencana voluntary delisting dan go private Era Graharealty Tbk.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPAC",
-   "delisting",
-   "suspensi saham",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2575fdb07b_1df879f57f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-malaysia-thailand-kejar-rampungkan-92-proyek-imt-gt",
-  "category": "Global",
-  "title": "RI-Malaysia-Thailand Kejar Rampungkan [92] Proyek IMT-GT",
-  "deck": "Pertemuan Tingkat Menteri IMT-GT ke-32 di Medan menetapkan target 92 proyek kerja sama rampung, disertai delapan MoU bisnis baru dan cetak biru 2027-2031.",
-  "date": "10 September 2026",
-  "image": "assets/img/moneter-bi.jpg",
-  "tags": [
-   "IMT-GT",
-   "Airlangga Hartarto",
-   "Kerja Sama Ekonomi",
-   "ASEAN"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7089/dari-rencana-ke-lapangan-kerja-menko-airlangga-jadikan-pertemuan-imt-gt-tahun-ini-sebagai-ministerial-meeting-of-implementation",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "mglv-patok-harga-rights-issue-rp8-880-kejar-rp2-54-triliun",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Patok Harga Rights Issue Rp8.880, Kejar [Rp2,54 Triliun]",
-  "deck": "MGLV mematok harga pelaksanaan rights issue Rp8.880 per saham dan menargetkan dana hingga Rp2,54 triliun, dengan pemegang saham utama NDC berkomitmen menyerap seluruh haknya senilai Rp1,65 triliun.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "rights issue",
-   "HMETD",
-   "data center"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/881c3a5b7b_ce2450a4f0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "apia-ganti-komisaris-independen-romy-bareno-gantikan-abdul-muis",
+  "category": "Aksi Korporasi",
+  "title": "APIA Ganti [Komisaris] Independen: Romy Bareno Gantikan Abdul Muis",
+  "deck": "Pemegang saham APIA memberhentikan Abdul Muis dan mengangkat Romy Bareno sebagai Komisaris Independen baru, efektif 16 September 2026, lewat keputusan di luar RUPS.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APIA",
+   "Angkasa Pura Indonesia",
+   "Dewan Komisaris",
+   "Perubahan Pengurus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8471b1cd9e_5179895cc3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "silo-akuisisi-14-rs-senilai-rp9-triliun-dari-first-reit",
   "category": "Aksi Korporasi",
   "title": "SILO Akuisisi 14 RS Senilai Rp9 Triliun dari [First REIT]",
@@ -34,6 +50,70 @@ var ARTICLES = [
    "going concern"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60c1de8224_099a10997a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-pelaksanaan-waran-terstruktur-bbri-put-berakhir-18-september",
+  "category": "Aksi Korporasi",
+  "title": "DR: Pelaksanaan [Waran Terstruktur] BBRI Put Berakhir 18 September",
+  "deck": "RHB Sekuritas mengumumkan pelaksanaan waran terstruktur put BBRIDRPN5A atas saham BBRI pada 18 September 2026, harga Rp3.500, jumlah 100 juta unit.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "RHB Sekuritas",
+   "waran terstruktur",
+   "BBRI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_DR_E081_88f74c52-7e23-40ad-9680-3c3795593c00-20260919015035.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-lanjutkan-buyback-sudah-beli-70-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Lanjutkan [Buyback], Sudah Beli 70 Juta Saham",
+  "deck": "ARKO melaporkan realisasi buyback per 23 September 2026: akumulasi 70 juta saham dibeli, dana Rp910,28 juta terpakai, sisa anggaran nyaris habis.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "buyback",
+   "Arkora Hydro",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E006_c6301f04-0f88-4469-8c56-42e82a812087-20260919014840.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-pengendali-baru-beli-6-juta-dari-40-juta-saham-tender",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Pengendali Baru Beli 6 Juta dari 40 Juta Saham [Tender]",
+  "deck": "Pengendali baru ARKO baru merealisasikan 6 juta dari 40 juta saham yang wajib dibeli lewat penawaran tender wajib yang rampung 19 September 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "tender wajib",
+   "pengendali baru",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E010_232c46b3-5d29-4569-bb8d-982a343f2276-20260919015113.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-jadwalkan-rups-tahunan-19-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Jadwalkan [RUPS] Tahunan 19 September 2026",
+  "deck": "ARKO menjadwalkan RUPS Tahunan pada 19 September 2026 di Jakarta lewat e-proxy dan e-voting KSEI, meski tanggal pemanggilan dan DPS di dokumen tercatat setelah tanggal rapat itu.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "RUPS Tahunan",
+   "Arkora Hydro",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E001_719d61e9-7bb7-49ca-8466-60c28b55bb31-20260919014821.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -114,6 +194,22 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_SRIL_B031_46506f3b-cb18-4129-95b2-01384c125b00-20260918213441.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-konversi-obligasi-hijau-outstanding-turun-ke-rp2-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO [Konversi] Obligasi Hijau, Outstanding Turun ke Rp2,8 Miliar",
+  "deck": "ARKO melaporkan konversi Rp432,3 juta obligasi hijau Seri B pada 2 September 2026, menurunkan nilai outstanding dari Rp3,23 miliar menjadi Rp2,80 miliar.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "obligasi hijau",
+   "konversi obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E034_f3496fa8-0e2f-44cc-a949-302c341fdaa9-20260919015024.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6410,102 +6506,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c8799e8b4d_79b4c6373d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medc-pertahankan-panduan-produksi-2026-meski-1h-lampaui-target",
-  "category": "Aksi Korporasi",
-  "title": "MEDC Pertahankan [Panduan] Produksi 2026 Meski 1H Lampaui Target",
-  "deck": "MedcoEnergi mempertahankan target produksi 2026 di 165-170 mboepd meski semester pertama sudah melampauinya, dan mengkaji opsi monetisasi sebagian saham di Amman Mineral senilai US$2,6 miliar.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "Migas",
-   "Amman Mineral",
-   "Public Expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12c010a1ab_5dd124867d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "doid-bakal-terima-bagian-dari-dividen-spesial-us-93-juta-asiamet",
-  "category": "Aksi Korporasi",
-  "title": "DOID Bakal Terima Bagian dari [Dividen] Spesial US$93 Juta Asiamet",
-  "deck": "Asiamet Resources, yang 44,15% sahamnya dimiliki DOID, merampungkan penjualan Indokal Limited ke Norin Mining dan menyetujui dividen khusus US$93 juta kepada pemegang saham.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOID",
-   "Asiamet Resources",
-   "dividen khusus",
-   "Norin Mining"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/39c7aca55a_859563ff68.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inru-jawab-bei-akui-jadi-tersangka-kasus-pajak-rp2-triliun",
-  "category": "Aksi Korporasi",
-  "title": "INRU Jawab BEI, Akui Jadi [Tersangka] Kasus Pajak Rp2 Triliun",
-  "deck": "INRU mengonfirmasi menerima surat penetapan tersangka dari Kejaksaan Agung soal dugaan korupsi transfer pricing Rp2 triliun, dan laporan keuangan kuartal II masih tertunda.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INRU",
-   "Toba Pulp Lestari",
-   "korupsi pajak",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cb92233b16_17483f7b0e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-pertahankan-rating-idaa-outlook-positif-dari-pefindo",
-  "category": "Aksi Korporasi",
-  "title": "TPIA Pertahankan Rating idAA- Outlook [Positif] dari PEFINDO",
-  "deck": "PEFINDO menegaskan peringkat idAA- dengan outlook positif untuk seluruh obligasi berkelanjutan TPIA senilai total sekitar Rp14 triliun, berlaku hingga September 2027.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "PEFINDO",
-   "obligasi korporasi",
-   "Chandra Asri Pacific"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12bb4e9a4c_f16f4c00d6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "heal-manajemen-target-ebitda-ikn-positif-akhir-2026",
-  "category": "Aksi Korporasi",
-  "title": "HEAL: Manajemen Target [EBITDA] IKN Positif Akhir 2026",
-  "deck": "Public expose tahunan Hermina memaparkan sisa capex Rp500 miliar untuk alat medis dan renovasi RS, kontribusi Astra-Djarum 10% pendapatan, serta proyeksi EBITDA IKN positif akhir tahun.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEAL",
-   "public expose",
-   "rumah sakit",
-   "EBITDA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6958b1d54b_fd5ff2cc08.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-teken-mra-mulai-implementasi-restrukturisasi-utang",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Teken [MRA], Mulai Implementasi Restrukturisasi Utang",
-  "deck": "PT PP (Persero) Tbk menandatangani Master Restructuring Agreement dengan Danantara Aset Manajemen dan bank kreditur, menandai masuknya restrukturisasi utang ke tahap implementasi.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "restrukturisasi utang",
-   "Danantara Aset Manajemen",
-   "MRA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e46bac39e0_b97439a159.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "apia-ganti-komisaris-independen-romy-bareno-gantikan-abdul-muis",
+  "category": "Aksi Korporasi",
+  "title": "APIA Ganti [Komisaris] Independen: Romy Bareno Gantikan Abdul Muis",
+  "deck": "Pemegang saham APIA memberhentikan Abdul Muis dan mengangkat Romy Bareno sebagai Komisaris Independen baru, efektif 16 September 2026, lewat keputusan di luar RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T02:35:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8471b1cd9e_5179895cc3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APIA",
+  "tags": [
+   "APIA",
+   "Angkasa Pura Indonesia",
+   "Dewan Komisaris",
+   "Perubahan Pengurus"
+  ],
+  "body": [
+   "PT Angkasa Pura Indonesia (Persero) atau APIA mengumumkan perubahan susunan Dewan Komisaris. Abdul Muis diberhentikan dengan hormat dari jabatan Komisaris Independen yang dipegangnya sejak 6 September 2024, dan posisinya digantikan oleh Romy Bareno sebagai Komisaris Independen baru. Perubahan ini ditetapkan lewat Keputusan Para Pemegang Saham Nomor 402 Tahun 2026 dan Nomor KEP.DU.01/08.03.01/16/09/2026 tertanggal 16 September 2026, yang diambil di luar Rapat Umum Pemegang Saham dengan persetujuan tertulis seluruh pemegang saham, sesuai ketentuan Pasal 91 UU Perseroan Terbatas. Keputusan itu diteken oleh Dony Oskaria selaku Kepala Badan Pengaturan BUMN yang mewakili pemegang saham Seri A Dwiwarna, dan Maya Watono, Direktur Utama PT Aviasi Pariwisata Indonesia, selaku pemegang saham Seri B.",
+   "Masa jabatan Romy Bareno berlaku paling lama sampai penutupan RUPS Tahunan kelima sejak keputusan ini ditetapkan, tanpa mengurangi hak RUPS untuk memberhentikannya sewaktu-waktu. Keputusan tersebut juga mengatur bahwa jika Romy Bareno masih menjabat posisi lain yang menurut aturan tidak boleh dirangkap dengan kursi Komisaris BUMN, ia harus mengundurkan diri atau diberhentikan dari jabatan lain tersebut. Dengan perubahan ini, susunan Dewan Komisaris APIA menjadi: Antoni Arif Priadi sebagai Komisaris Utama, Erwan Agus Purwanto, Djamaluddin (Komisaris Independen), Dita Indah Sari, Imelda Sari (Komisaris Independen), Eva Yuliana (Komisaris Independen), Elly Engelbert Lasut, Yunus Nusi (Komisaris Independen), dan Romy Bareno (Komisaris Independen).",
+   "Laporan keterbukaan informasi ini disampaikan kepada Otoritas Jasa Keuangan oleh Arie Ahsanurrohim selaku Corporate Secretary Group Head APIA pada 18 September 2026, dengan tembusan antara lain kepada Bursa Efek Indonesia, wali amanat PT Bank Mega Tbk dan PT Bank KB Indonesia Tbk, serta agen pemantau PT Bank Syariah Indonesia Tbk, pihak-pihak yang lazim mengawasi kepatuhan emiten atas surat utang yang beredar."
+  ],
+  "fotoAdegan": "Aerial view of an airport apron with parked commercial aircraft and ground service vehicles under soft morning light in Indonesia",
+  "takeaway": "Perubahan ini netral bagi kondisi keuangan APIA karena hanya mengganti satu dari sembilan kursi Dewan Komisaris tanpa mengubah kendali pemegang saham atau struktur permodalan perusahaan. Dewan Komisaris bertugas mengawasi kinerja direksi, termasuk kepatuhan terhadap kewajiban kepada pemegang obligasi dan sukuk yang diterbitkan APIA, sehingga pergantian ini tidak menyentuh pos-pos seperti ekuitas, arus kas, atau beban bunga secara langsung. Yang perlu dipantau berikutnya adalah masa jabatan Romy Bareno, yang berlaku hingga penutupan RUPS Tahunan kelima sejak keputusan ini ditetapkan pada 16 September 2026, serta kemungkinan penyesuaian lanjutan di jajaran direksi maupun komisaris menyusul penataan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "silo-akuisisi-14-rs-senilai-rp9-triliun-dari-first-reit",
   "category": "Aksi Korporasi",
   "title": "SILO Akuisisi 14 RS Senilai Rp9 Triliun dari [First REIT]",
@@ -53,6 +79,107 @@ var ARTICLES = [
   "fotoAdegan": "Excavators and dump trucks working at a waste processing plant construction site, sorted refuse piles, overcast tropical sky in Indonesia",
   "takeaway": "Laporan ini condong negatif bagi SOFA, sebab di tengah rencana ekspansi besar ke proyek pengolahan sampah senilai Rp131 miliar, perseroan sendiri mengakui auditornya meragukan kelangsungan usahanya karena akumulasi kerugian Rp16 miliar per Juni 2026. Opini ketidakpastian material soal kelangsungan usaha itu artinya auditor melihat ada keraguan nyata perusahaan bisa terus beroperasi tanpa suntikan dana baru, dan rencana pendanaan ekspansi lewat rights issue berarti perseroan akan menerbitkan saham baru yang menambah jumlah saham beredar, sehingga laba per saham pemegang lama berpotensi terdilusi. Di sisi lain perseroan juga berencana menambah utang bank untuk mendanai proyek, yang berarti beban bunga ke depan bisa naik meski proyeknya belum menghasilkan pendapatan selama masa konstruksi. Yang perlu dipantau berikutnya adalah penyampaian pernyataan pendaftaran rights issue ke OJK yang ditargetkan awal kuartal IV 2026, dan penandatanganan perjanjian jual beli listrik untuk proyek Bogor Raya yang juga ditargetkan pada periode yang sama. Kedua tenggat itu akan menentukan apakah rencana pendanaan perseroan berjalan sesuai jadwal atau justru tertunda di tengah kondisi keuangan yang sudah rapuh.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "dr-pelaksanaan-waran-terstruktur-bbri-put-berakhir-18-september",
+  "category": "Aksi Korporasi",
+  "title": "DR: Pelaksanaan [Waran Terstruktur] BBRI Put Berakhir 18 September",
+  "deck": "RHB Sekuritas mengumumkan pelaksanaan waran terstruktur put BBRIDRPN5A atas saham BBRI pada 18 September 2026, harga Rp3.500, jumlah 100 juta unit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T22:30:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_DR_E081_88f74c52-7e23-40ad-9680-3c3795593c00-20260919015035.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "RHB Sekuritas",
+   "waran terstruktur",
+   "BBRI"
+  ],
+  "body": [
+   "RHB Sekuritas Indonesia (DR) mengumumkan pelaksanaan waran terstruktur berkode BBRIDRPN5A, jenis put warrant atas saham BBRI, pada 18 September 2026. Waran ini bernama \"Put Warrant BBRI DR Exp 21 Juli 2025\" dan mengacu pada prospektus yang diterbitkan 31 Januari 2023. Harga pelaksanaan ditetapkan Rp3.500 per unit, dengan jumlah waran yang dilaksanakan sebanyak 100.000.000 unit.",
+   "Setelah tanggal pelaksanaan tersebut, efek BBRIDRPN5A tidak lagi dapat diperdagangkan melalui Bursa Efek Indonesia. Pengumuman ini menjalankan mekanisme baku yang sudah diatur sejak waran ini pertama kali dicatatkan, bukan keputusan baru dari penerbit maupun dari BBRI selaku saham acuan."
+  ],
+  "fotoAdegan": "Financial district skyscrapers in Jakarta reflecting morning sunlight, busy street below with commuters and taxis passing by",
+  "takeaway": "Pengumuman ini netral bagi RHB Sekuritas selaku penerbit waran maupun bagi BBRI selaku saham acuan, karena isinya murni menjalankan jadwal yang sudah ditetapkan sejak waran ini pertama diterbitkan pada Januari 2023, bukan keputusan bisnis baru. Waran terstruktur semacam ini adalah produk yang dijual dan diterbitkan oleh RHB Sekuritas, bukan oleh BBRI, sehingga pelaksanaannya tidak menyentuh ekuitas, arus kas, atau jumlah saham beredar BBRI, ini murni transaksi antara RHB dan pemegang waran. Yang perlu diperhatikan pemegang waran adalah tanggal 18 September 2026 itu sendiri, karena sejak hari itu BBRIDRPN5A tidak bisa lagi diperjualbelikan di Bursa Efek Indonesia.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-lanjutkan-buyback-sudah-beli-70-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Lanjutkan [Buyback], Sudah Beli 70 Juta Saham",
+  "deck": "ARKO melaporkan realisasi buyback per 23 September 2026: akumulasi 70 juta saham dibeli, dana Rp910,28 juta terpakai, sisa anggaran nyaris habis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T22:10:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E006_c6301f04-0f88-4469-8c56-42e82a812087-20260919014840.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "buyback",
+   "Arkora Hydro",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) melaporkan pelaksanaan pembelian kembali saham (buyback) dalam skema kondisi pasar yang berfluktuasi signifikan, merujuk pada keterbukaan informasi tertanggal 19 September 2026. Dalam skema tersebut, perseroan diizinkan membeli kembali maksimal 132.333 saham dengan harga maksimal Rp1 per saham, dan periode pembelian ini berakhir pada 30 September 2026.",
+   "Untuk transaksi pada 23 September 2026, ARKO membeli 151 saham dengan harga rata-rata Rp519 per saham, setara 62 persen dari total rencana pembelian sesuai keterbukaan informasi tersebut. Dana yang digunakan pada transaksi hari itu tercatat Rp530.821.",
+   "Secara akumulasi sejak program ini berjalan, ARKO telah membeli kembali 70.000.000 saham, atau 23,423 persen dari total saham yang disetor perseroan. Total dana yang telah digunakan untuk pembelian kembali saham mencapai Rp910.283.098, sementara sisa anggaran yang masih bisa dipakai untuk buyback tinggal Rp100.004."
+  ],
+  "fotoAdegan": "Small hydroelectric power plant with water rushing through an intake channel in a green forested valley, overcast morning light",
+  "takeaway": "Laporan ini condong positif bagi ARKO karena skala buyback yang sudah terealisasi cukup besar, yakni 70 juta saham atau 23,4 persen dari total saham beredar, sehingga perseroan menyerap kembali porsi signifikan sahamnya dari pasar di tengah kondisi pasar yang berfluktuasi. Yang tersentuh dari aksi ini adalah jumlah saham beredar dan kas perseroan: mengurangi saham beredar biasanya membuat laba per saham, yaitu bagian laba yang jadi hak tiap lembar saham, bisa terlihat lebih besar, namun konsekuensinya kas perseroan berkurang karena sudah menghabiskan Rp910,28 juta untuk aksi ini. Perlu dicermati juga bahwa alokasi dana sebesar itu terjadi tak lama setelah ARKO digugat PKPU oleh salah satu pemasoknya senilai Rp70 juta, sehingga prioritas penggunaan kas perseroan layak diperhatikan investor. Yang perlu dipantau berikutnya adalah batas akhir periode buyback pada 30 September 2026, sekaligus laporan realisasi akhir program ini ke bursa, mengingat sisa anggaran yang tercatat tinggal Rp100.004.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "arko-pengendali-baru-beli-6-juta-dari-40-juta-saham-tender",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Pengendali Baru Beli 6 Juta dari 40 Juta Saham [Tender]",
+  "deck": "Pengendali baru ARKO baru merealisasikan 6 juta dari 40 juta saham yang wajib dibeli lewat penawaran tender wajib yang rampung 19 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T22:08:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E010_232c46b3-5d29-4569-bb8d-982a343f2276-20260919015113.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "tender wajib",
+   "pengendali baru",
+   "BEI"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) melaporkan hasil sementara penawaran tender wajib yang dilakukan pengendali baru perseroan kepada Bursa Efek Indonesia. Dari total 40.000.000 saham yang wajib dibeli dalam penawaran ini, baru 6.000.000 saham yang berhasil diserap sepanjang periode pelaksanaan 6 September hingga 19 September 2026. Tanggal penyelesaian transaksi ditetapkan pada 19 September 2026, yang berarti proses ini akan rampung dalam waktu dekat.",
+   "Laporan itu juga mencantumkan komposisi kepemilikan saham pengendali baru. Sebelum penawaran tender wajib berjalan, pengendali baru tercatat memegang 239.809.123 saham atau 12 persen dari total saham ARKO. Setelah proses berjalan, laporan menyebut kepemilikannya menjadi 1.000.000 saham atau 10 persen. Dokumen ditandatangani secara elektronik oleh Rana Approver atas nama PT Arkora Hydro Tbk."
+  ],
+  "fotoAdegan": "Wide shot of a small run-of-river hydroelectric plant beside a forested river in rural Indonesia, morning mist rising",
+  "takeaway": "Laporan ini bersifat netral karena baru memuat progres, bukan hasil akhir: dari 40 juta saham yang wajib dibeli pengendali baru ARKO, realisasinya baru 6 juta saham atau sekitar 15 persen menjelang batas waktu penyelesaian. Yang tersentuh di sini adalah komposisi kepemilikan dan porsi saham yang beredar bebas di publik, sebab tender wajib semacam ini lazimnya muncul setelah ada pergantian pengendali yang mewajibkan penawaran beli saham milik pemegang saham publik lainnya. Angka komposisi kepemilikan pengendali baru dalam laporan, dari 239.809.123 saham atau 12 persen sebelum tender menjadi 1.000.000 saham atau 10 persen sesudahnya, tidak sejalan secara matematis dan sebaiknya dikonfirmasi ulang oleh perseroan agar tidak membingungkan pemegang saham publik. Yang perlu dipantau selanjutnya adalah hasil akhir penawaran tender wajib pada tanggal penyelesaian 19 September 2026, termasuk berapa total saham yang akhirnya terserap dan bagaimana itu mengubah peta kepemilikan ARKO.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-jadwalkan-rups-tahunan-19-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Jadwalkan [RUPS] Tahunan 19 September 2026",
+  "deck": "ARKO menjadwalkan RUPS Tahunan pada 19 September 2026 di Jakarta lewat e-proxy dan e-voting KSEI, meski tanggal pemanggilan dan DPS di dokumen tercatat setelah tanggal rapat itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T22:07:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E001_719d61e9-7bb7-49ca-8466-60c28b55bb31-20260919014821.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "RUPS Tahunan",
+   "Arkora Hydro",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) pada 19 September 2026 pukul 17.00 WIB, bertempat di Jakarta. Rapat akan digelar melalui sarana Easy KSEI dengan mekanisme e-proxy dan e-voting, sehingga pemegang saham bisa memberi kuasa dan memberikan suara secara elektronik tanpa perlu hadir langsung.",
+   "Dalam dokumen yang sama, perseroan mencantumkan tanggal Daftar Pemegang Saham (DPS) yang berhak hadir dalam RUPS pada 30 September 2026, serta tanggal pemanggilan resmi RUPS pada 21 September 2026. Kedua tanggal itu sama-sama jatuh setelah tanggal pelaksanaan rapat yang tercantum, yakni 19 September 2026, urutan yang tidak lazim untuk prosedur RUPS emiten dan sebaiknya dikonfirmasi ulang oleh perseroan atau Bursa Efek Indonesia. Pengumuman ini juga belum memuat agenda atau mata acara yang akan dibahas dalam rapat."
+  ],
+  "fotoAdegan": "A run-of-river hydroelectric powerhouse beside a fast-flowing forested river in Indonesia, mist rising at dawn, no people visible",
+  "takeaway": "Pengumuman ini netral bagi ARKO, karena isinya sebatas jadwal dan mekanisme RUPS Tahunan lewat platform Easy KSEI, tanpa agenda atau keputusan finansial yang mengubah kondisi keuangan maupun permodalan perseroan. Yang tersentuh di sini bukan pos keuangan seperti laba atau arus kas, melainkan hak tata kelola pemegang saham, sebab RUPS Tahunan adalah forum tempat pemegang saham memutuskan hal seperti pengesahan laporan tahunan, pembagian dividen, atau perubahan pengurus, dan tanggal DPS menentukan siapa yang berhak memberi suara. Yang perlu dipantau berikutnya adalah agenda resmi RUPS yang biasanya baru terbit lewat surat pemanggilan, sekaligus klarifikasi dari perseroan atas kejanggalan urutan tanggal dalam dokumen ini, karena tanggal pemanggilan (21 September 2026) dan DPS (30 September 2026) tercatat setelah tanggal rapat (19 September 2026).",
+  "sentimen": "netral"
  },
  {
   "slug": "arko-digugat-pkpu-oleh-pemasok-tagihan-rp70-juta",
@@ -183,6 +310,31 @@ var ARTICLES = [
   "fotoAdegan": "Rows of idle industrial sewing machines and stacked fabric rolls inside a quiet textile factory hall, soft morning light through high windows",
   "takeaway": "Laporan ini condong negatif bagi SRIL, sebab penempatan sahamnya di papan pemantauan khusus dipicu oleh ekuitas negatif, bukan sekadar perubahan administratif pencatatan. Pos yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan yang secara sederhana mencerminkan kekayaan bersih milik pemegang saham; kalau angkanya negatif, berarti utang SRIL sudah melebihi nilai seluruh asetnya, sehingga secara akuntansi saham publik tidak lagi punya nilai buku pendukung. Bursa juga mencantumkan kriteria tambahan nomor 11 tanpa merinci kondisi spesifiknya, yang menandakan ada pertimbangan lain dari OJK di luar sekadar angka ekuitas. Yang perlu dipantau berikutnya adalah laporan keuangan SRIL pada periode selanjutnya, karena bursa dapat mengambil langkah lebih lanjut, termasuk potensi penghapusan pencatatan atau delisting, apabila kondisi ekuitas negatif ini tidak kunjung membaik.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "arko-konversi-obligasi-hijau-outstanding-turun-ke-rp2-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO [Konversi] Obligasi Hijau, Outstanding Turun ke Rp2,8 Miliar",
+  "deck": "ARKO melaporkan konversi Rp432,3 juta obligasi hijau Seri B pada 2 September 2026, menurunkan nilai outstanding dari Rp3,23 miliar menjadi Rp2,80 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T20:54:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E034_f3496fa8-0e2f-44cc-a949-302c341fdaa9-20260919015024.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "obligasi hijau",
+   "konversi obligasi"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) melaporkan ke Bursa Efek Indonesia informasi konversi atas Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri B. Berdasarkan laporan yang ditandatangani oleh Razika Approver, jumlah yang dikonversi tercatat Rp432.342.130 dengan tanggal konversi 2 September 2026.",
+   "Dengan konversi tersebut, nilai outstanding obligasi seri ini turun dari Rp3.231.233.213 menjadi Rp2.798.891.083, atau berkurang sekitar 13,4 persen dari nilai sebelumnya. Laporan tidak merinci mekanisme konversi, apakah nilai tersebut dikonversi menjadi saham baru atau instrumen lain, maupun harga atau rasio konversi yang dipakai."
+  ],
+  "fotoAdegan": "Small hydroelectric power station beside a fast flowing river in a forested Indonesian valley, technicians inspecting turbine housing, overcast sky",
+  "takeaway": "Laporan ini netral bagi ARKO, sebab skalanya kecil, hanya sekitar Rp432 juta dari total outstanding obligasi seri ini yang memang sudah tergolong mini yakni Rp3,23 miliar, sehingga dampaknya ke keuangan perusahaan tidak signifikan. Pos yang tersentuh adalah jumlah utang obligasi yang harus dibayar perseroan, yang otomatis berarti beban bunga ke depan atas seri obligasi ini juga mengecil karena pokok utangnya berkurang. Yang perlu dicermati adalah apakah proses konversi bertahap ini berlanjut pada sisa nilai outstanding Rp2,80 miliar yang masih tercatat, karena dokumen ini tidak menyebut jadwal atau tenggat konversi berikutnya maupun rincian apakah dana ini berubah menjadi saham baru yang bisa mempengaruhi jumlah saham beredar.",
+  "sentimen": "netral"
  },
  {
   "slug": "arko-konversi-sebagian-obligasi-hijau-sisa-rp2-8-miliar",

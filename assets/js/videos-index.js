@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "XGzXU5F6o90",
+  "title": "Cukai Vape 2025 Tembus Rp2,8 Triliun",
+  "category": "Makroekonomi",
+  "program": "Dua Sisi",
+  "summary": "Penerimaan cukai rokok elektrik pada 2025 tercatat Rp2,8 triliun, di tengah usulan BNN agar penggunaan vape dilarang total karena disalahgunakan sebagai alat konsumsi narkotika.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut besaran penerimaan cukai negara sekaligus potensi kebijakan pelarangan yang bisa mengguncang industri rokok elektrik."
+ },
+ {
   "id": "Q870WQYSNPM",
   "title": "Menkeu Umumkan Defisit APBN Agustus 2026 Capai Rp240,1 Triliun",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Presiden Prabowo Subianto meminta masyarakat Indonesia memiliki rekening bank, dan Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyebut BRI dan BSI ditunjuk menyiapkan rekening bagi warga.",
   "takeaway": "Kebijakan ini menyangkut perluasan inklusi keuangan yang berdampak langsung pada industri perbankan dan penyaluran layanan keuangan ke masyarakat luas."
- },
- {
-  "id": "xxLrjG3tTXQ",
-  "title": "Pemerintah Antisipasi Stok Beras Akibat Kekeringan",
-  "category": "Makroekonomi",
-  "program": "Apa Kabar Indonesia Pagi",
-  "summary": "Harga beras mulai naik seiring musim kemarau yang menekan produksi padi, dan pemerintah menyiapkan langkah antisipasi menjaga pasokan.",
-  "takeaway": "Kenaikan harga beras berkaitan langsung dengan tekanan inflasi pangan dan daya beli masyarakat."
  }
 ];

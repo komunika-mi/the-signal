@@ -69,6 +69,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "lpdb-koperasi-jemput-bola-danai-umkm-di-borobudur-expo",
+  "category": "UMKM",
+  "title": "LPDB Koperasi [Jemput Bola] Danai UMKM di Borobudur Expo",
+  "deck": "LPDB Koperasi membuka layanan konsultasi dana bergulir di Borobudur Expo 2026, 17-20 September, untuk mendekatkan akses pembiayaan bagi koperasi dan UMKM di kawasan Borobudur.",
+  "date": "18 September 2026",
+  "image": "assets/img/lpdb-koperasi-jemput-bola-danai-umkm-di-borobudur-expo.jpg",
+  "imageV": "mu70d10k",
+  "tags": [
+   "LPDB Koperasi",
+   "dana bergulir",
+   "Borobudur Expo",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467925-menkop-dorong-koperasi-manfaatkan-dana-bergulir-lpdb-koperasi-jemput-bola-di-borobudur-expo-2026"
+ },
+ {
   "slug": "jmas-ke-bursa-utang-klaim-rp11-24-miliar-tak-diakui",
   "category": "Aksi Korporasi",
   "title": "JMAS ke bursa: utang klaim Rp11,24 miliar [tak diakui]",
@@ -457,6 +474,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b87f0353a9_995b241da3.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "telkom-satukan-ai-cloud-dan-siber-lewat-scale",
+  "category": "Teknologi",
+  "title": "Telkom Satukan AI, Cloud, dan Siber Lewat [SCALE]",
+  "deck": "Telkom meluncurkan program transformasi SCALE untuk menyatukan agenda AI, cloud, dan keamanan siber di seluruh TelkomGroup.",
+  "date": "18 September 2026",
+  "image": "assets/img/telkom-satukan-ai-cloud-dan-siber-lewat-scale.jpg",
+  "imageV": "mu70d1da",
+  "tags": [
+   "Telkom",
+   "SCALE",
+   "AI",
+   "Keamanan Siber"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467877-telkom-luncurkan-scale-integrasikan-ai-cloud-dan-keamanan-siber"
  },
  {
   "slug": "mpro-ungkap-ke-bursa-rugi-rp16-2-m-kas-tinggal-rp5-m",
@@ -6472,38 +6506,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fecfddcaab_254548d8f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "grph-balas-bursa-beban-gaji-naik-68-lampaui-pendapatan",
-  "category": "Aksi Korporasi",
-  "title": "GRPH Balas Bursa: [Beban] Gaji Naik 68%, Lampaui Pendapatan",
-  "deck": "Griptha Putra Persada menjawab surat permintaan penjelasan BEI soal lonjakan beban gaji, piutang usaha, dan koreksi laporan keuangan periode pembanding.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GRPH",
-   "Griptha Putra Persada",
-   "laporan keuangan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8bc6d0d70_e871d425c0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "swat-opini-auditor-dikualifikasi-utang-bank-tak-tercatat-rp29-m",
-  "category": "Aksi Korporasi",
-  "title": "SWAT: Opini Auditor [Dikualifikasi], Utang Bank Tak Tercatat Rp29 M",
-  "deck": "Auditor memberi opini dengan pengecualian atas laporan keuangan 2025 SWAT karena sekitar Rp29 miliar utang bank belum tercatat, di tengah rugi bersih Rp48,8 miliar dan keraguan kelangsungan usaha.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SWAT",
-   "laporan keuangan",
-   "opini auditor",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260911145807-64381-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
   "sourceLabel": "IDX"
  }
 ];

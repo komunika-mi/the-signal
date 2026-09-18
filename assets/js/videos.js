@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "XGzXU5F6o90",
+  "title": "Cukai Vape 2025 Tembus Rp2,8 Triliun",
+  "category": "Makroekonomi",
+  "program": "Dua Sisi",
+  "summary": "Penerimaan cukai rokok elektrik pada 2025 tercatat Rp2,8 triliun, di tengah usulan BNN agar penggunaan vape dilarang total karena disalahgunakan sebagai alat konsumsi narkotika.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut besaran penerimaan cukai negara sekaligus potensi kebijakan pelarangan yang bisa mengguncang industri rokok elektrik.",
+  "terbit": "2026-09-18T13:00:09+00:00"
+ },
+ {
   "id": "Q870WQYSNPM",
   "title": "Menkeu Umumkan Defisit APBN Agustus 2026 Capai Rp240,1 Triliun",
   "category": "Makroekonomi",

@@ -109,6 +109,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "lpdb-koperasi-jemput-bola-danai-umkm-di-borobudur-expo",
+  "category": "UMKM",
+  "title": "LPDB Koperasi [Jemput Bola] Danai UMKM di Borobudur Expo",
+  "deck": "LPDB Koperasi membuka layanan konsultasi dana bergulir di Borobudur Expo 2026, 17-20 September, untuk mendekatkan akses pembiayaan bagi koperasi dan UMKM di kawasan Borobudur.",
+  "image": "assets/img/lpdb-koperasi-jemput-bola-danai-umkm-di-borobudur-expo.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:53:19+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467925-menkop-dorong-koperasi-manfaatkan-dana-bergulir-lpdb-koperasi-jemput-bola-di-borobudur-expo-2026",
+  "tags": [
+   "LPDB Koperasi",
+   "dana bergulir",
+   "Borobudur Expo",
+   "UMKM"
+  ],
+  "body": [
+   "Lembaga Pengelola Dana Bergulir (LPDB) Koperasi hadir langsung di Borobudur Expo 2026 yang digelar di Alun-alun Kota Magelang, 17 hingga 20 September 2026. Kehadiran ini penting bagi pelaku usaha kecil di kawasan wisata Borobudur karena membuka jalur konsultasi langsung soal pembiayaan pemerintah, tanpa harus mengurus ke kantor pusat atau daerah lain.",
+   "Melalui layanan Coaching Clinic, koperasi dan masyarakat bisa bertanya langsung soal skema pinjaman dana bergulir, syarat pengajuan, hingga cara memanfaatkannya untuk mengembangkan usaha. Menteri Koperasi Ferry Juliantono membuka acara ini pada Kamis, 17 September 2026, sembari menegaskan bahwa koperasi perlu jadi wadah resmi bagi pelaku UMKM, ekonomi kreatif, dan sektor pariwisata agar bisa didampingi, diinkubasi, dan dibiayai oleh Kementerian Koperasi.",
+   "Sasaran pendekatan ini cukup luas, mulai dari pelaku usaha kuliner, pengrajin, pelaku fashion, sanggar seni, sampai profesi kreatif baru seperti ilustrator, animator, dan content creator yang didorong membentuk koperasi sesuai karakteristik usaha masing-masing. Usai seremoni pembukaan, Ferry bersama Sekretaris Daerah Provinsi Jawa Tengah dan Wali Kota Magelang meninjau langsung booth Coaching Clinic LPDB untuk membahas akses pembiayaan koperasi di Jawa Tengah, termasuk yang berada di kawasan Destinasi Pariwisata Super Prioritas Borobudur."
+  ],
+  "fotoAdegan": "Small vendors arranging handmade crafts and batik textiles at an outdoor expo stall near Borobudur, morning sunlight, visitors browsing nearby tables",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/18/6aad24fe1e74c-menteri-koperasi-ferry-juliantono-saat-membuka-borobudur-expo-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan cara penyampaian layanan yang sudah ada: LPDB Koperasi, lembaga di bawah Kementerian Koperasi yang menyalurkan pinjaman bergulir ke koperasi, membuka gerai konsultasi langsung selama empat hari di Borobudur Expo. Yang berpotensi terdampak adalah koperasi dan pelaku UMKM di Magelang serta kawasan wisata Borobudur, termasuk pengrajin, pelaku kuliner, sanggar seni, sampai profesi kreatif seperti animator dan content creator yang didorong berbadan hukum koperasi supaya bisa dibiayai. Berita ini belum menyebut angka konkret seperti plafon pinjaman, bunga, atau target jumlah koperasi yang akan dibiayai lewat gerai ini, jadi belum bisa dibaca apakah langkah jemput bola ini akan menambah penyaluran dana bergulir secara nyata atau sekadar sosialisasi. Yang perlu ditunggu adalah data realisasi penyaluran LPDB ke koperasi di Jawa Tengah setelah expo ini selesai, untuk melihat apakah layanan konsultasi langsung ini benar-benar mendorong pengajuan baru.",
+  "imageV": "mu70d10k"
+ },
+ {
   "slug": "jmas-ke-bursa-utang-klaim-rp11-24-miliar-tak-diakui",
   "category": "Aksi Korporasi",
   "title": "JMAS ke bursa: utang klaim Rp11,24 miliar [tak diakui]",
@@ -738,6 +764,33 @@ var ARTICLES = [
   "fotoAdegan": "Exterior of modern glass office towers in Jakarta's SCBD business district at dusk, pedestrians crossing below",
   "takeaway": "Laporan ini condong netral bagi DEFI, karena inti jawabannya adalah penyangkalan standar bahwa tidak ada informasi material baru, tanpa satu pun angka keuangan atau perubahan konkret yang bisa dinilai sebagai sinyal kuat. Tidak ada pos kinerja yang tersentuh di sini, bukan ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham, karena dokumen ini murni surat kepatuhan menjawab pertanyaan bursa soal pergerakan harga saham yang tidak wajar, bukan laporan keuangan atau aksi korporasi. Yang perlu dicermati adalah pernyataan soal keterbukaan pada mitra strategis, sebab itu mengonfirmasi ada pihak yang sedang menjajaki perusahaan meski belum ada kepastian bentuk maupun waktunya. Pembaca sebaiknya menunggu apakah pembicaraan dengan calon mitra strategis itu berlanjut menjadi keterbukaan informasi baru, dan apakah volatilitas harga saham DEFI mereda atau justru membuat bursa kembali meminta penjelasan serupa.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "telkom-satukan-ai-cloud-dan-siber-lewat-scale",
+  "category": "Teknologi",
+  "title": "Telkom Satukan AI, Cloud, dan Siber Lewat [SCALE]",
+  "deck": "Telkom meluncurkan program transformasi SCALE untuk menyatukan agenda AI, cloud, dan keamanan siber di seluruh TelkomGroup.",
+  "image": "assets/img/telkom-satukan-ai-cloud-dan-siber-lewat-scale.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T15:51:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467877-telkom-luncurkan-scale-integrasikan-ai-cloud-dan-keamanan-siber",
+  "tags": [
+   "Telkom",
+   "SCALE",
+   "AI",
+   "Keamanan Siber"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk melalui Direktorat IT Digital resmi meluncurkan program transformasi bernama SCALE pada Kamis (17/9). Program ini menjadi payung strategi yang menyatukan agenda perubahan teknologi, mulai dari kecerdasan buatan (AI), komputasi awan (cloud), hingga keamanan siber, di seluruh perusahaan induk dan anak usaha (operating company) TelkomGroup. Langkah ini menyangkut bagaimana perusahaan telekomunikasi milik negara ini menata ulang cara kerja teknologinya yang sebelumnya tersebar di banyak unit usaha.",
+   "Peluncuran ini merespons transformasi TelkomGroup yang makin luas dan rumit, sehingga membutuhkan penyelarasan pola kerja, kapabilitas teknologi, dan pemakaian sumber daya agar tidak tumpang tindih antar unit usaha. Dalam kerangka SCALE, Direktorat IT Digital berperan sebagai penyelenggara strategis yang mengatur arsitektur, standar, tata kelola, dan kepatuhan teknologi, sekaligus memastikan kapabilitas digital itu benar-benar menopang kebutuhan bisnis di seluruh grup.",
+   "Nama SCALE sendiri mewakili lima fokus utama. Synergize memperkuat sinergi antara holding dan anak usaha; Culture membangun budaya kerja baru serta tenaga kerja yang dibantu teknologi; Automate mendorong otomatisasi demi menekan biaya operasional; Lead memperkuat kepemimpinan teknologi agar Telkom bergerak menuju perusahaan telekomunikasi berbasis AI; dan Expand menjadikan kapabilitas digital sebagai pendorong pertumbuhan bisnis baru.",
+   "Kelima fokus itu diterjemahkan ke dalam 13 program strategis, antara lain perubahan model operasi teknologi informasi, pembentukan pusat unggulan kecerdasan buatan, model operasi keamanan siber, transformasi digital, penataan arsitektur dan data di tingkat grup, pemanfaatan AI untuk kebutuhan internal, layanan bersama TI dan keamanan siber, transformasi ke komputasi awan, inovasi berbasis teknologi, serta pengembangan kapabilitas AI, keamanan siber, dan layanan TI untuk mendukung pertumbuhan bisnis. Direktur IT Digital Telkom, Faizal Rochmad Djoemadi, menegaskan bahwa SCALE bukan sekadar soal penerapan teknologi, melainkan juga soal mengubah cara kerja dan menciptakan nilai baru bagi TelkomGroup, dengan tujuan menyatukan arah seluruh inisiatif agar dampaknya bisa dirasakan oleh semua pemangku kepentingan."
+  ],
+  "fotoAdegan": "Technicians inspecting server racks and cable bundles inside a modern data center, blue status lights, Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/18/6aacfb13d8dff-pt-telkom-indonesia-persero-tbk-telkom-melalui-direktorat-it-digital-resmi-meluncurkan-scale-pada-kamis-179_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan produk yang langsung dirasakan pelanggan, melainkan cara kerja internal Telkom Group: Direktorat IT Digital kini menyatukan aturan, standar, dan tata kelola teknologi untuk seluruh anak usaha lewat lima fokus dan 13 program, mulai dari otomatisasi biaya sampai konsolidasi layanan AI dan keamanan siber. Pihak yang langsung terdampak adalah karyawan dan unit-unit operating company TelkomGroup, karena merekalah yang harus menyesuaikan pola kerja dan standar baru itu, sementara dampak ke konsumen atau pemegang saham baru akan terasa belakangan lewat efisiensi biaya atau layanan yang lebih terintegrasi. Yang masih kurang dari pengumuman ini adalah angka konkret, tidak ada nilai investasi, target penghematan biaya, atau tenggat waktu penyelesaian 13 program itu, sehingga belum bisa dipastikan seberapa besar dan secepat apa perubahan ini akan terasa. Yang perlu dipantau selanjutnya adalah apakah Telkom merilis rincian anggaran atau linimasa program SCALE ini, misalnya lewat laporan kinerja triwulanan atau paparan publik berikutnya.",
+  "imageV": "mu70d1da"
  },
  {
   "slug": "mpro-ungkap-ke-bursa-rugi-rp16-2-m-kas-tinggal-rp5-m",

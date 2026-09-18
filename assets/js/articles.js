@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "silo-akuisisi-14-rs-senilai-rp9-triliun-dari-first-reit",
+  "category": "Aksi Korporasi",
+  "title": "SILO Akuisisi 14 RS Senilai Rp9 Triliun dari [First REIT]",
+  "deck": "SILO berencana mengambil alih 14 perusahaan pemilik rumah sakit yang disewanya dari First REIT senilai Rp9 triliun, dibiayai pinjaman bank baru Rp8,9 triliun. RUPSLB digelar 22 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T23:44:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65c2aa31b9_5ef1d1c0da.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SILO",
+  "tags": [
+   "SILO",
+   "First REIT",
+   "Akuisisi Rumah Sakit",
+   "Transaksi Material"
+  ],
+  "body": [
+   "PT Siloam International Hospitals Tbk (SILO) menyampaikan keterbukaan informasi mengenai rencana transaksi material berupa pengambilalihan saham pada 14 perusahaan pemilik aset rumah sakit dari entitas anak First Real Estate Investment Trust (First REIT), trust investasi properti kesehatan yang berbasis di Singapura. Rencana ini dibagi dua tahap. Tahap pertama adalah pengambilalihan 100 persen saham pada delapan perusahaan sesuai delapan Perjanjian Jual Beli Saham Bersyarat tertanggal 1 April 2026, yaitu pemilik Siloam Hospitals Sriwijaya Palembang, Siloam Hospitals Purwakarta, Siloam Hospitals Lippo Village di Tangerang, Siloam Hospitals Kebon Jeruk di Jakarta Barat, Siloam Hospitals Denpasar, Siloam Hospitals Kupang, Siloam Hospitals Baubau, dan Siloam Hospitals Manado. Tahap kedua mencakup enam perusahaan lain, yaitu pemilik Siloam Hospitals Labuan Bajo, Siloam Hospitals TB Simatupang di Jakarta Selatan, Siloam Hospitals Makassar, Mochtar Riady Comprehensive Cancer Centre di Jakarta Pusat, Siloam Hospitals Lippo Cikarang, dan Siloam Hospitals Yogyakarta, yang baru terlaksana jika para pemegang opsi jual menggunakan haknya berdasarkan Perjanjian Opsi Jual yang juga diteken 1 April 2026.",
+   "Nilai transaksi berdasarkan harga properti yang telah disepakati para pihak mencapai total Rp9 triliun, terdiri dari Rp5,12 triliun untuk tahap pertama dan Rp3,88 triliun untuk tahap kedua. Nilai ini masih dapat disesuaikan saat transaksi selesai berdasarkan nilai aset bersih dan komitmen belanja modal yang disepakati. Dengan asumsi nilai buku per 31 Maret 2026, estimasi nilai transaksi adalah Rp6,91 triliun. Karena nilainya melebihi 50 persen dari ekuitas Perseroan per Laporan Keuangan 31 Maret 2026, transaksi ini masuk kategori transaksi material menurut POJK No. 17/POJK.04/2020 sehingga wajib mendapat persetujuan pemegang saham dalam RUPSLB yang dijadwalkan Selasa, 22 September 2026. Kantor Jasa Penilai Publik Budi, Edy, Saptono dan Rekan menerbitkan pendapat kewajaran atas rencana ini, dalam versi revisi tertanggal 15 September 2026 yang mengganti laporan sebelumnya tertanggal 13 Agustus 2026 karena ada penyesuaian narasi di sejumlah bab.",
+   "Simulasi keuangan proforma yang diasumsikan berlaku sejak 1 Januari 2026 menunjukkan dampak transaksi ini terhadap posisi keuangan Perseroan pada 31 Maret 2026. Total aset naik dari Rp15,32 triliun menjadi Rp23,91 triliun, terutama karena tambahan aset tetap Rp8,53 triliun dari perusahaan target, setelah memperhitungkan penghapusan aset hak guna sebesar Rp452,3 miliar yang sebelumnya tercatat karena SILO menyewa rumah sakit rumah sakit itu dari First REIT. Akuisisi ini dibiayai dengan penarikan utang bank jangka panjang baru sebesar Rp8,88 triliun, yang membuat total liabilitas Perseroan melonjak dari Rp5,1 triliun menjadi Rp13,73 triliun. Secara proforma, laba periode berjalan turun dari Rp293,57 miliar menjadi Rp250,46 miliar, karena tambahan beban keuangan Rp139,18 miliar dari utang baru tersebut lebih besar dibanding tambahan laba usaha dari rumah sakit yang diakuisisi."
+  ],
+  "fotoAdegan": "Modern multi-story hospital building exterior with covered ambulance entrance, tropical palm trees, bright midday light in Indonesia",
+  "takeaway": "Laporan ini condong negatif dalam jangka pendek karena akuisisi senilai Rp9 triliun ini hampir seluruhnya dibiayai utang bank baru Rp8,9 triliun, dan berdasarkan simulasi proforma perusahaan, beban bunga dari utang itu langsung menekan laba periode berjalan turun sekitar Rp43 miliar dibanding tanpa transaksi, meski di sisi lain SILO mengubah statusnya dari penyewa menjadi pemilik langsung 14 rumah sakit yang selama ini dioperasikannya. Pos yang tersentuh adalah utang jangka panjang, yaitu pinjaman yang baru harus dilunasi bertahun tahun ke depan, yang melonjak dari hampir nol menjadi Rp8,88 triliun, serta beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjaman tersebut, dan keduanya membuat perusahaan jauh lebih tergantung pada utang dibanding sebelumnya. Pemegang saham perlu mencermati apakah RUPSLB pada 22 September 2026 menyetujui rencana ini, serta apakah pemegang opsi jual pada enam perusahaan tahap kedua benar benar melaksanakan opsinya, karena itu yang akan menentukan apakah seluruh 14 aset rumah sakit ini jadi berpindah tangan atau hanya delapan yang pertama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sofa-akui-ketidakpastian-usaha-di-tengah-ekspansi-proyek-wte",
+  "category": "Aksi Korporasi",
+  "title": "SOFA akui [ketidakpastian] usaha di tengah ekspansi proyek WTE",
+  "deck": "SOFA merespons permintaan penjelasan bursa soal proyek waste-to-energy Rp131 miliar yang akan didanai rights issue dan utang bank, di tengah akumulasi kerugian Rp16 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T22:59:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60c1de8224_099a10997a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOFA",
+  "tags": [
+   "SOFA",
+   "waste to energy",
+   "rights issue",
+   "going concern"
+  ],
+  "body": [
+   "PT Solusi Environment Asia Tbk (SOFA) menyampaikan penjelasan tertulis kepada Bursa Efek Indonesia atas permintaan penjelasan bursa tertanggal 16 September 2026 terkait rencana penambahan kegiatan usaha perseroan ke bidang pengolahan sampah menjadi energi listrik (waste-to-energy). Dalam suratnya, perseroan menjelaskan bahwa anak usahanya, PT Ananta Energi Asia (AEA), telah menyertakan modal senilai US$200.000 atau setara sekitar Rp3,36 miliar ke dua entitas konsorsium proyek, yaitu PT Weiming Nusantara Alpha (WNA) dan PT Weiming Nusantara Gamma (WNG), masing-masing sesuai porsi kepemilikan AEA sebesar 10 persen. Pemegang saham mayoritas di kedua entitas itu adalah grup Zhejiang Weiming Environment Protection dengan porsi 79 persen, disusul Lentera Merah Investment Pte Ltd 10 persen dan PT Perkasa Eka Cipta Investama 1 persen. Total kebutuhan pendanaan proyek WTE hingga kuartal II 2028 diperkirakan mencapai Rp131 miliar, dan setoran modal AEA akan bertambah secara bertahap mengikuti permintaan modal (capital call) dari WNA dan WNG.",
+   "Perseroan menyebut sumber dana tambahan untuk penyertaan modal itu akan berasal dari Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD atau rights issue) dan/atau pinjaman bank. Rencana rights issue itu sendiri sudah mendapat persetujuan Rapat Umum Pemegang Saham Tahunan pada 21 Mei 2026, dan perseroan menargetkan penyampaian pernyataan pendaftaran ke Otoritas Jasa Keuangan pada awal kuartal IV 2026. Proyek acuan utama adalah pembangkit listrik tenaga sampah (PLTSa) Denpasar Raya berkapasitas 30 megawatt, yang perjanjian jual beli listriknya dengan PT PLN (Persero) sudah diteken pada 8 Juli 2026, lengkap dengan perjanjian penggunaan lahan bersama Pemerintah Kota Denpasar dan serah terima lahan pada tanggal yang sama. Adapun proyek serupa di Bogor Raya masih dalam tahap penelaahan perjanjian, dengan target tanda tangan pada awal kuartal IV 2026.",
+   "Dalam surat yang sama, perseroan juga menanggapi temuan dalam laporan keuangan interim kedua tahun 2026 yang telah diaudit, yang mencatat akumulasi kerugian grup sebesar Rp16 miliar per 30 Juni 2026 dan menimbulkan opini ketidakpastian material terkait kelangsungan usaha. Perseroan menyebut sejumlah langkah yang sedang ditempuh, antara lain memperluas jaringan pemasaran dan penjualan serta meningkatkan kerja sama dengan berbagai pihak, meski rincian lengkap upaya tersebut terpotong dalam dokumen yang diterima. Perseroan juga memaparkan lima kategori risiko dari ekspansi ke bisnis perusahaan induk dan pembiayaan intra-grup, yaitu risiko manajemen investasi, risiko kredit karena perseroan tetap menanggung kewajiban ke bank meski dana yang disalurkan belum kembali, risiko konsentrasi investasi, risiko keuangan terkait struktur permodalan, dan risiko perubahan regulasi di sektor energi dan lingkungan."
+  ],
+  "fotoAdegan": "Excavators and dump trucks working at a waste processing plant construction site, sorted refuse piles, overcast tropical sky in Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi SOFA, sebab di tengah rencana ekspansi besar ke proyek pengolahan sampah senilai Rp131 miliar, perseroan sendiri mengakui auditornya meragukan kelangsungan usahanya karena akumulasi kerugian Rp16 miliar per Juni 2026. Opini ketidakpastian material soal kelangsungan usaha itu artinya auditor melihat ada keraguan nyata perusahaan bisa terus beroperasi tanpa suntikan dana baru, dan rencana pendanaan ekspansi lewat rights issue berarti perseroan akan menerbitkan saham baru yang menambah jumlah saham beredar, sehingga laba per saham pemegang lama berpotensi terdilusi. Di sisi lain perseroan juga berencana menambah utang bank untuk mendanai proyek, yang berarti beban bunga ke depan bisa naik meski proyeknya belum menghasilkan pendapatan selama masa konstruksi. Yang perlu dipantau berikutnya adalah penyampaian pernyataan pendaftaran rights issue ke OJK yang ditargetkan awal kuartal IV 2026, dan penandatanganan perjanjian jual beli listrik untuk proyek Bogor Raya yang juga ditargetkan pada periode yang sama. Kedua tenggat itu akan menentukan apakah rencana pendanaan perseroan berjalan sesuai jadwal atau justru tertunda di tengah kondisi keuangan yang sudah rapuh.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "arko-digugat-pkpu-oleh-pemasok-tagihan-rp70-juta",
   "category": "Aksi Korporasi",
   "title": "ARKO Digugat [PKPU] oleh Pemasok, Tagihan Rp70 Juta",
@@ -105,6 +157,58 @@ var ARTICLES = [
   "fotoAdegan": "Wide view of a small hydroelectric dam and turbine house beside a fast flowing river in a forested Indonesian valley, morning mist",
   "takeaway": "Pengumuman ini sendiri netral, sebab isinya murni prosedur administratif bursa menghapus pencatatan obligasi begitu masa jatuh temponya lewat, bukan pernyataan baru soal kondisi keuangan ARKO. Yang disentuh di sini adalah pos utang jangka panjang di neraca ARKO, karena begitu obligasi Rp318,06 miliar ini jatuh tempo, perusahaan wajib mengeluarkan kas dalam jumlah besar untuk melunasi pokoknya kepada pemegang obligasi, dan pasar biasanya mengamati kemampuan bayar semacam ini terutama kalau ada tanda-tanda tekanan arus kas di tempat lain. Tanda tekanan itu justru muncul hari yang sama lewat gugatan PKPU dari pemasok atas tagihan yang jauh lebih kecil, Rp70 juta, sehingga kombinasi kedua kabar ini pantas dicermati bersama. Yang perlu dipantau selanjutnya adalah apakah ARKO akan mengumumkan konfirmasi pelunasan penuh obligasi ARKO01AGN kepada wali amanat dan bursa, serta bagaimana kelanjutan proses PKPU yang diajukan pemasoknya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "sril-masuk-papan-pemantauan-khusus-imbas-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "SRIL Masuk Papan [Pemantauan Khusus] Imbas Ekuitas Negatif",
+  "deck": "Bursa menempatkan saham SRIL di papan pemantauan khusus mulai 3 September 2026 setelah laporan keuangan terakhir mencatat ekuitas negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T21:35:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_SRIL_B031_46506f3b-cb18-4129-95b2-01384c125b00-20260918213441.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRIL",
+  "tags": [
+   "SRIL",
+   "Pemantauan Khusus",
+   "Ekuitas Negatif",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan penempatan saham PT Sri Rejeki Isman Tbk (SRIL) ke papan pemantauan khusus, efektif sejak 3 September 2026. Dalam pengumuman itu, bursa mencantumkan dua kriteria yang dipenuhi SRIL dari sebelas kriteria yang berlaku dalam aturan pemantauan khusus, yaitu kriteria nomor 5 dan 11, dengan keterangan tambahan bahwa kondisi tersebut melekat langsung pada Perseroan.",
+   "Kriteria nomor 5 menyebutkan bahwa emiten memiliki ekuitas negatif pada laporan keuangan terakhir. Artinya, total kewajiban atau utang SRIL tercatat lebih besar daripada total aset yang dimilikinya, sehingga secara akuntansi tidak ada lagi nilai buku yang tersisa untuk pemegang saham publik. Kriteria nomor 11 mengacu pada kondisi lain yang ditetapkan bursa setelah mendapat persetujuan atau perintah dari Otoritas Jasa Keuangan (OJK), namun dokumen pengumuman ini tidak merinci lebih lanjut kondisi spesifik yang dimaksud di luar acuan tersebut.",
+   "Papan pemantauan khusus adalah kategori pencatatan yang dibentuk bursa untuk menandai saham emiten dengan kondisi keuangan atau kepatuhan pencatatan yang bermasalah, mulai dari ekuitas negatif, opini disclaimer atas laporan keuangan, likuiditas perdagangan yang sangat rendah, hingga status pailit atau penundaan kewajiban pembayaran utang. Penempatan SRIL di papan ini menjadi penanda resmi dari bursa bahwa kondisi keuangan perseroan perlu mendapat perhatian lebih dari investor publik."
+  ],
+  "fotoAdegan": "Rows of idle industrial sewing machines and stacked fabric rolls inside a quiet textile factory hall, soft morning light through high windows",
+  "takeaway": "Laporan ini condong negatif bagi SRIL, sebab penempatan sahamnya di papan pemantauan khusus dipicu oleh ekuitas negatif, bukan sekadar perubahan administratif pencatatan. Pos yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan yang secara sederhana mencerminkan kekayaan bersih milik pemegang saham; kalau angkanya negatif, berarti utang SRIL sudah melebihi nilai seluruh asetnya, sehingga secara akuntansi saham publik tidak lagi punya nilai buku pendukung. Bursa juga mencantumkan kriteria tambahan nomor 11 tanpa merinci kondisi spesifiknya, yang menandakan ada pertimbangan lain dari OJK di luar sekadar angka ekuitas. Yang perlu dipantau berikutnya adalah laporan keuangan SRIL pada periode selanjutnya, karena bursa dapat mengambil langkah lebih lanjut, termasuk potensi penghapusan pencatatan atau delisting, apabila kondisi ekuitas negatif ini tidak kunjung membaik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "arko-konversi-sebagian-obligasi-hijau-sisa-rp2-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO [Konversi] Sebagian Obligasi Hijau, Sisa Rp2,8 Miliar",
+  "deck": "Arkora Hydro mengonversi Rp432.342.130 dari Obligasi Berwawasan Lingkungan I Seri B pada 2 September 2026, outstanding turun jadi Rp2.798.891.083.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T20:54:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E034_f3496fa8-0e2f-44cc-a949-302c341fdaa9-20260918205323.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "obligasi hijau",
+   "konversi utang"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk. (ARKO) menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia terkait konversi atas Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri B. Berdasarkan dokumen yang diteken atas nama Direksi oleh Razika Approver, jumlah yang dikonversi sebesar Rp432.342.130 dengan tanggal konversi 2 September 2026.",
+   "Dengan konversi tersebut, nilai outstanding obligasi seri ini turun dari Rp3.231.233.213 menjadi Rp2.798.891.083, atau berkurang sekitar 13,4 persen. Dokumen resmi ini tidak merinci mekanisme konversi lebih lanjut, termasuk apakah bagian yang dikonversi berubah menjadi saham baru atau bentuk lain, maupun jumlah saham yang mungkin diterbitkan sebagai konsekuensinya.",
+   "Laporan ini terbit di tengah sorotan atas kondisi keuangan Arkora Hydro. Pekan ini perseroan juga diberitakan digugat penundaan kewajiban pembayaran utang oleh pemasok senilai Rp70 juta, sementara lembaga pemeringkat PEFINDO mempertahankan peringkat obligasi ARKO01AGN dengan outlook positif."
+  ],
+  "fotoAdegan": "Small hydroelectric power station beside a forested Indonesian river, water rushing through turbine intake channel, misty morning light",
+  "takeaway": "Laporan ini condong positif bagi ARKO karena utang berbunga dari obligasi hijau Seri B berkurang sekitar 13,4 persen, dari Rp3,23 miliar menjadi Rp2,8 miliar, di tengah sorotan atas kemampuan bayar perseroan setelah digugat PKPU oleh pemasok. Pos yang tersentuh adalah jumlah utang berbunga dan berpotensi jumlah saham beredar, sebab kalau konversi ini berarti sebagian obligasi ditukar jadi saham baru, laba per saham bisa sedikit terdilusi, tetapi dokumen ini tidak merinci jumlah saham baru sehingga besaran dilusinya belum bisa dipastikan. Pelaku pasar biasanya mencermati pos ini karena utang yang menyusut berarti beban bunga ke depan ikut berkurang, meringankan arus kas perseroan. Yang perlu dipantau berikutnya adalah sisa outstanding Rp2.798.891.083 dari obligasi ini, apakah akan terus dikonversi atau dilunasi bertahap, serta perkembangan gugatan PKPU senilai Rp70 juta yang masih berjalan terhadap Arkora Hydro.",
+  "sentimen": "positif"
  },
  {
   "slug": "smdr-suntik-modal-rp33-7-miliar-ke-anak-usaha-properti",

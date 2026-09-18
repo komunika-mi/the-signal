@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "silo-akuisisi-14-rs-senilai-rp9-triliun-dari-first-reit",
+  "category": "Aksi Korporasi",
+  "title": "SILO Akuisisi 14 RS Senilai Rp9 Triliun dari [First REIT]",
+  "deck": "SILO berencana mengambil alih 14 perusahaan pemilik rumah sakit yang disewanya dari First REIT senilai Rp9 triliun, dibiayai pinjaman bank baru Rp8,9 triliun. RUPSLB digelar 22 September 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SILO",
+   "First REIT",
+   "Akuisisi Rumah Sakit",
+   "Transaksi Material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65c2aa31b9_5ef1d1c0da.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sofa-akui-ketidakpastian-usaha-di-tengah-ekspansi-proyek-wte",
+  "category": "Aksi Korporasi",
+  "title": "SOFA akui [ketidakpastian] usaha di tengah ekspansi proyek WTE",
+  "deck": "SOFA merespons permintaan penjelasan bursa soal proyek waste-to-energy Rp131 miliar yang akan didanai rights issue dan utang bank, di tengah akumulasi kerugian Rp16 miliar.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOFA",
+   "waste to energy",
+   "rights issue",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60c1de8224_099a10997a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "arko-digugat-pkpu-oleh-pemasok-tagihan-rp70-juta",
   "category": "Aksi Korporasi",
   "title": "ARKO Digugat [PKPU] oleh Pemasok, Tagihan Rp70 Juta",
@@ -66,6 +98,38 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_B012_076ee20c-fbd7-4d5d-a302-bceda6390749-20260918214955.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sril-masuk-papan-pemantauan-khusus-imbas-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "SRIL Masuk Papan [Pemantauan Khusus] Imbas Ekuitas Negatif",
+  "deck": "Bursa menempatkan saham SRIL di papan pemantauan khusus mulai 3 September 2026 setelah laporan keuangan terakhir mencatat ekuitas negatif.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRIL",
+   "Pemantauan Khusus",
+   "Ekuitas Negatif",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_SRIL_B031_46506f3b-cb18-4129-95b2-01384c125b00-20260918213441.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-konversi-sebagian-obligasi-hijau-sisa-rp2-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO [Konversi] Sebagian Obligasi Hijau, Sisa Rp2,8 Miliar",
+  "deck": "Arkora Hydro mengonversi Rp432.342.130 dari Obligasi Berwawasan Lingkungan I Seri B pada 2 September 2026, outstanding turun jadi Rp2.798.891.083.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "obligasi hijau",
+   "konversi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E034_f3496fa8-0e2f-44cc-a949-302c341fdaa9-20260918205323.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6442,70 +6506,6 @@ var ARTICLES = [
    "MRA"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e46bac39e0_b97439a159.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kici-catat-rugi-rp2-8-miliar-meski-penjualan-naik-18",
-  "category": "Aksi Korporasi",
-  "title": "KICI Catat [Rugi] Rp2,8 Miliar meski Penjualan Naik 18%",
-  "deck": "Kedaung Indah Can menjelaskan ke BEI penyebab kenaikan aset dan utang, serta penurunan ekuitas dan laba bersih pada semester I 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KICI",
-   "Kedaung Indah Can",
-   "laporan keuangan",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/264608455e_3afd407a5d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "abda-ganti-direksi-julien-pierre-combaret-mundur",
-  "category": "Aksi Korporasi",
-  "title": "ABDA Ganti Direksi, [Julien Pierre Combaret] Mundur",
-  "deck": "RUPSLB ABDA pada 7 September 2026 menyetujui pengunduran diri Direktur Julien Pierre Combaret efektif 17 September 2026, sekaligus menegaskan susunan direksi dan komisaris baru.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ABDA",
-   "perubahan direksi",
-   "RUPSLB",
-   "asuransi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/908ea7a7b6_2931bb91fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-jadwalkan-rupslb-pada-20-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Jadwalkan [RUPSLB] pada 20 Oktober 2026",
-  "deck": "Leyand International Tbk mengumumkan RUPSLB digelar 20 Oktober 2026 di Jakarta. Pemegang saham yang berhak hadir dicatat per 25 September 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "RUPSLB",
-   "Leyand International",
-   "rapat pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d5d2ea48d7_1802a7ea31.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "alka-dan-agar-keluar-dari-pemantauan-khusus-bei",
-  "category": "Aksi Korporasi",
-  "title": "ALKA dan AGAR keluar dari [pemantauan khusus] BEI",
-  "deck": "Bursa mencabut status pemantauan khusus saham ALKA dan AGAR mulai 14 September 2026, keduanya kembali ke Papan Pengembangan dengan mekanisme perdagangan normal.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ALKA",
-   "AGAR",
-   "BEI",
-   "pemantauan khusus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/269c001c5b_5995ccd9cf.pdf",
   "sourceLabel": "IDX"
  }
 ];

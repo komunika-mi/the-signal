@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "wOm5ihandBM",
+  "title": "Rekening Massal, Bansos Makin Tepat Sasaran?",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Rencana pembukaan rekening massal untuk penyaluran bansos menuai pro dan kontra karena diperkirakan membutuhkan anggaran APBN hingga Rp11 triliun, sementara sebagian pihak menilai perbaikan Data Tunggal Sosial lebih mendesak.",
+  "takeaway": "Menyangkut efisiensi belanja APBN dan tata kelola program perlindungan sosial yang berdampak langsung pada anggaran negara."
+ },
+ {
   "id": "2AxYH_wOjdI",
   "title": "Rekomendasi DEN DPI dan GovTech soal Rekening Massal",
   "category": "Perbankan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Harga minyak mentah dunia melonjak mendekati US$100 dan sempat menembus kisaran US$101 per barel, dipicu eskalasi konflik militer AS-Iran yang meluas ke sejumlah negara Teluk lain.",
   "takeaway": "Lonjakan harga minyak dunia berpotensi mendorong kenaikan biaya energi dan tekanan inflasi, termasuk bagi Indonesia sebagai negara pengimpor minyak."
- },
- {
-  "id": "uHa2hQrCtoU",
-  "title": "Antrean BBM Solar-Pertalite di Makassar Mengular 1 Km",
-  "category": "Energi",
-  "program": "AKIS",
-  "summary": "Antrean kendaraan di sejumlah SPBU Kota Makassar, Sulawesi Selatan, mengular hingga sekitar 1 kilometer akibat keterbatasan pasokan BBM jenis Solar dan Pertalite.",
-  "takeaway": "Kelangkaan BBM bersubsidi menyangkut isu distribusi energi yang berdampak langsung pada mobilitas dan aktivitas ekonomi masyarakat."
  }
 ];

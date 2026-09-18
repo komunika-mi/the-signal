@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "wOm5ihandBM",
+  "title": "Rekening Massal, Bansos Makin Tepat Sasaran?",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Rencana pembukaan rekening massal untuk penyaluran bansos menuai pro dan kontra karena diperkirakan membutuhkan anggaran APBN hingga Rp11 triliun, sementara sebagian pihak menilai perbaikan Data Tunggal Sosial lebih mendesak.",
+  "takeaway": "Menyangkut efisiensi belanja APBN dan tata kelola program perlindungan sosial yang berdampak langsung pada anggaran negara.",
+  "terbit": "2026-09-18T16:30:08+00:00"
+ },
+ {
   "id": "2AxYH_wOjdI",
   "title": "Rekomendasi DEN DPI dan GovTech soal Rekening Massal",
   "category": "Perbankan",

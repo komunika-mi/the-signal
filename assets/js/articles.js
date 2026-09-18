@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smra-bantah-ada-info-material-di-tengah-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMRA Bantah Ada Info Material di Tengah [Volatilitas] Saham",
+  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, SMRA menyatakan tidak ada info material baru dan menyinggung kasus BPN Bogor yang diberitakan media.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T10:14:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abfb59b2b0_ea3b06eee4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMRA",
+  "tags": [
+   "SMRA",
+   "Summarecon Agung",
+   "BEI",
+   "BPN Bogor"
+  ],
+  "body": [
+   "PT Summarecon Agung Tbk (SMRA) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi efeknya. Permintaan itu disampaikan BEI lewat surat nomor S-12073/BEI.PP2/09-2026 tertanggal 17 September 2026, dan dijawab perseroan melalui surat nomor 0708/IX/DIR/SMRA/26 tertanggal 18 September 2026 yang ditandatangani Corporate Secretary Lydia Tjio.",
+   "Dalam jawabannya, SMRA menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal sesuai Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi, maupun ketentuan serupa dalam Peraturan Bursa Nomor I-E. Namun perseroan mengakui adanya berbagai pemberitaan media massa terkait asas praduga tak bersalah dalam kasus yang disebut sebagai kasus BPN Bogor, tanpa merinci lebih lanjut substansi kasus tersebut. Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur dalam Peraturan OJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham.",
+   "SMRA menegaskan belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa, dan tidak ada informasi material lain yang belum diungkapkan ke publik. Perseroan juga menyatakan telah mengonfirmasi langsung kepada pemegang saham utama, yang menjawab saat ini tidak memiliki rencana apa pun terkait kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Unfinished apartment towers and construction cranes at a large housing estate site in Indonesia, midday light",
+  "takeaway": "Laporan ini netral bagi SMRA: perseroan menegaskan tidak ada rencana aksi korporasi baru, tidak ada info material yang disembunyikan, dan pemegang saham utama menyatakan tidak berniat mengubah kepemilikannya, sehingga secara fundamental tidak ada yang berubah dari sisi bisnis. Surat semacam ini wajib dikirim emiten setiap kali harga atau volume perdagangan sahamnya bergerak di luar kebiasaan dalam periode tertentu, supaya investor tidak salah menebak penyebab pergerakan itu dan tahu apakah ada sebab yang disembunyikan perusahaan. Yang justru patut dicermati adalah penyebutan berulang soal kasus BPN Bogor, yakni perkara hukum yang melibatkan Badan Pertanahan Nasional Bogor dan sedang diberitakan media, meski SMRA menegaskan belum ada dampak material yang wajib diungkapkan dan mengingatkan asas praduga tak bersalah. Investor perlu menunggu apakah ada perkembangan resmi soal kasus tersebut atau permintaan penjelasan lanjutan dari bursa, karena surat ini sendiri tidak mencantumkan tenggat atau agenda baru selain konfirmasi bahwa tidak ada aksi korporasi dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "excl-panggil-rupslb-12-oktober-ganti-komisaris-vivek-sood",
+  "category": "Aksi Korporasi",
+  "title": "EXCL Panggil RUPSLB 12 Oktober, Ganti [Komisaris] Vivek Sood",
+  "deck": "XLSMART Telecom (EXCL) memanggil RUPSLB 12 Oktober 2026 untuk menyetujui pengunduran diri komisaris Vivek Sood dan pengangkatan Thomas Hundt sebagai penggantinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T10:09:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a8eff5b6b_ba15ac2bbb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EXCL",
+  "tags": [
+   "EXCL",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "XLSMART"
+  ],
+  "body": [
+   "PT XLSMART Telecom Sejahtera Tbk (EXCL) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 12 Oktober 2026, pukul 09.00 sampai 10.30 WIB secara hybrid di XLSMART Tower, Jalan HR Rasuna Said Kav 11-12 Blok X5, Jakarta Selatan. Rapat ini hanya membawa satu agenda, yaitu perubahan susunan Dewan Komisaris perusahaan. Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 17 September 2026.",
+   "Pemanggilan ini merupakan tindak lanjut dari surat pengunduran diri Vivek Sood sebagai anggota Dewan Komisaris yang diterima perusahaan pada 26 Agustus 2026. Berdasarkan Pasal 17 ayat (3) dan (8) Anggaran Dasar Perseroan serta Pasal 111 ayat (1) UU Perseroan Terbatas, perusahaan wajib menggelar RUPS untuk memutuskan pengunduran diri komisaris paling lambat 50 hari sejak surat diterima. Dalam rapat ini, EXCL mengusulkan persetujuan pengunduran diri Vivek Sood sekaligus pengangkatan Thomas Hundt sebagai komisaris baru. Jika disetujui, susunan Dewan Komisaris EXCL pasca rapat berjumlah sembilan orang: M. Arsjad Rasjid P.M sebagai Presiden Komisaris, lalu Nik Rizal Kamil Bin Ibrahim Kamil, Lay Krisnan Cahya, Thomas Hundt, Sean Quek Chin Haur, dan David Robert Dean sebagai Komisaris, serta Retno Lestari Priansari Marsudi, Robert Pakpahan, dan Willem Lucas Timmermans sebagai Komisaris Independen.",
+   "Rapat akan digelar secara hybrid melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, sementara kehadiran fisik hanya dibatasi untuk PT Datindo Entrycom selaku Biro Administrasi Efek yang bertindak sebagai penerima kuasa pemegang saham. Perusahaan tidak mengirimkan undangan terpisah karena pemanggilan ini dianggap sudah sah sesuai Anggaran Dasar dan POJK 15/2020. Pemegang saham yang ingin memberi kuasa elektronik (e-Proxy) dapat melakukannya sejak tanggal pemanggilan hingga 9 Oktober 2026 pukul 12.00 WIB."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district, pedestrians walking below, soft morning light",
+  "takeaway": "Perubahan ini netral bagi EXCL karena sifatnya pergantian satu posisi komisaris untuk memenuhi kewajiban hukum, bukan perombakan besar yang mengubah jumlah kursi atau peta kendali di jajaran komisaris. Pergantian komisaris tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham, sebab Dewan Komisaris bertugas mengawasi kinerja direksi, bukan menjalankan operasional harian perusahaan, sehingga dampaknya lebih ke sisi tata kelola jangka panjang ketimbang angka di laporan keuangan. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 12 Oktober 2026, karena keputusan final soal pengunduran diri Vivek Sood dan pengangkatan Thomas Hundt baru sah setelah disetujui pemegang saham dalam rapat tersebut, dengan batas akhir pemberian kuasa elektronik pada 9 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptsn-jelaskan-ke-bursa-cara-penuhi-syarat-free-float",
+  "category": "Aksi Korporasi",
+  "title": "PTSN Jelaskan ke Bursa Cara Penuhi Syarat [Free Float]",
+  "deck": "Sat Nusapersada menjawab surat Bursa soal syarat minimum saham beredar publik, termasuk opsi mengalihkan sebagian saham Inditeck Technology Hong Kong yang menguasai 10 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T09:32:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b193827690_18899ec2e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTSN",
+  "tags": [
+   "PTSN",
+   "free float",
+   "Bursa Efek Indonesia",
+   "Sat Nusapersada"
+  ],
+  "body": [
+   "Sat Nusapersada Tbk (PTSN) mengirim surat penjelasan ke Bursa Efek Indonesia pada 17 September 2026 sebagai jawaban atas surat bursa nomor S-11577/BEI.PP2/09-2026 tertanggal 10 September 2026 yang meminta penjelasan soal rencana pemenuhan ketentuan minimum saham free float. Surat itu ditandatangani Direktur Utama PTSN dan dilaporkan ke bursa oleh Rina Dewi selaku Corporate Secretary pada 18 September 2026.",
+   "Dalam suratnya, PTSN menyebut kendala utamanya adalah likuiditas perdagangan sahamnya di bursa yang relatif terbatas. Perusahaan memaparkan empat opsi yang masih dikaji beserta kendala masing-masing: rights issue yang prosesnya panjang dan tetap terhambat likuiditas pasar, private placement yang sulit mencari investor karena alasan serupa, penjualan bertahap di pasar yang berisiko tidak mencapai target free float tepat waktu tanpa mengganggu harga saham, serta pelepasan saham dari pemegang saham pengendali yang dinilai memakan waktu lama dan berpotensi memicu persepsi negatif di pasar.",
+   "Selain berkonsultasi dengan sejumlah perusahaan sekuritas, PTSN mengungkapkan sedang menjajaki opsi konkret dengan Inditeck Technology Hong Kong Limited, pemegang saham non afiliasi yang menguasai 10 persen saham PTSN, untuk merestrukturisasi dan/atau mengalihkan sebagian kepemilikannya ke beberapa entitas anak usaha yang memenuhi kriteria sebagai pemegang saham free float. PTSN menyatakan penjajakan ini masih bergantung pada hasil kajian, kesesuaian aturan, serta persetujuan pihak terkait, dan meminta arahan bursa mengenai kriteria afiliasi dan pengendalian yang berlaku untuk entitas penerima saham tersebut."
+  ],
+  "fotoAdegan": "Workers assembling circuit boards on a bright electronics factory production line in Batam, Indonesia",
+  "takeaway": "Laporan ini condong negatif tipis bagi PTSN karena mengonfirmasi perusahaan masih belum memenuhi syarat wajib bursa soal porsi saham yang beredar bebas di publik, dan solusinya baru sebatas opsi yang sedang dikaji, bukan keputusan final. Dua opsi yang disebut, yaitu menerbitkan saham baru untuk pemegang saham lama atau menjual saham baru ke investor tertentu, sama-sama menambah jumlah saham beredar, sehingga bila salah satunya dijalankan, laba per saham milik investor yang sudah ada berpotensi terdilusi. Opsi lain berupa pengalihan sebagian saham Inditeck Technology Hong Kong Limited yang menguasai 10 persen PTSN ke entitas anak usahanya tidak menambah jumlah saham, tapi bisa mengubah siapa sebenarnya memegang hak suara jika entitas penerima ternyata masih terafiliasi. Yang perlu dipantau berikutnya adalah arahan resmi bursa soal kriteria afiliasi dan pengendalian untuk skema Inditeck ini serta opsi mana yang akhirnya dipilih PTSN, karena dokumen ini belum menyebutkan tenggat waktu pasti pemenuhan syarat free float.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mkpi-jadwalkan-rupslb-pada-27-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "MKPI Jadwalkan [RUPSLB] pada 27 Oktober 2026",
+  "deck": "Metropolitan Kentjana (MKPI) mengumumkan rencana RUPS Luar Biasa pada 27 Oktober 2026, dengan tanggal pencatatan pemegang saham 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T08:21:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ad6338ec40_65f2b1dae2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKPI",
+  "tags": [
+   "MKPI",
+   "RUPSLB",
+   "Metropolitan Kentjana",
+   "RUPS"
+  ],
+  "body": [
+   "Metropolitan Kentjana Tbk (MKPI) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), merujuk pada surat sebelumnya bernomor 0859/CS/MK/IX/2026. Rapat dijadwalkan berlangsung pada Selasa, 27 Oktober 2026, pukul 14.00 WIB, bertempat di Pondok Indah Office Tower 3, Ruang Duta, Lantai LG, Jalan Iskandar Muda Kav. V-TA.",
+   "Perseroan menetapkan 2 Oktober 2026 sebagai tanggal Daftar Pemegang Saham (DPS) yang berhak hadir dan memberikan suara dalam RUPSLB tersebut. Artinya, investor yang ingin ikut menentukan keputusan dalam rapat ini harus sudah tercatat sebagai pemegang saham MKPI paling lambat pada tanggal itu. Surat pemberitahuan ini belum mencantumkan agenda atau mata acara RUPSLB, sehingga materi yang akan dibahas dan diputuskan belum terungkap.",
+   "Pengumuman ditandatangani oleh Corporate Secretary MKPI, Jeffri Sandra Tanudjaja, pada 18 September 2026. Sesuai praktik lazim di bursa, panggilan resmi yang memuat agenda lengkap biasanya baru diterbitkan menjelang tanggal rapat."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with rows of chairs facing a podium, glass office tower windows, soft morning light",
+  "takeaway": "Laporan ini netral bagi emiten, karena isinya baru sebatas jadwal dan lokasi, belum memuat agenda yang bisa dinilai dampaknya terhadap kinerja MKPI. Yang tersentuh sejauh ini hanya soal hak suara pemegang saham, yakni siapa yang berhak hadir dan memberikan keputusan, ditentukan oleh status kepemilikan saham per tanggal pencatatan 2 Oktober 2026, bukan pos keuangan seperti ekuitas atau laba per saham. Pelaku pasar biasanya menahan penilaian sampai agenda resmi terbit, karena rapat semacam ini bisa membahas apa saja, mulai dari perubahan pengurus sampai aksi korporasi yang lebih besar. Yang perlu dipantau berikutnya adalah panggilan resmi RUPSLB berisi agenda lengkap, yang umumnya terbit dalam beberapa pekan mendatang, serta pelaksanaan rapat itu sendiri pada 27 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ifii-bagikan-dividen-interim-rp5-per-saham-total-rp47-06-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IFII Bagikan [Dividen] Interim Rp5 per Saham, Total Rp47,06 Miliar",
+  "deck": "Direksi IFII menetapkan dividen interim tahun buku 2026 sebesar Rp5 per saham senilai Rp47,06 miliar, dibayarkan 15 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T08:15:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abd0c71411_8214a9a26c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IFII",
+  "tags": [
+   "IFII",
+   "dividen interim",
+   "pasar modal",
+   "Indonesia Fibreboard Industry"
+  ],
+  "body": [
+   "PT Indonesia Fibreboard Industry Tbk (IFII) memutuskan membagikan dividen interim untuk tahun buku 2026 sebesar Rp5 per saham, dengan total nilai Rp47,06 miliar. Keputusan ini diambil direksi pada Rabu, 16 September 2026, dengan persetujuan dewan komisaris, mengacu pada Pasal 22 ayat 4 anggaran dasar perseroan dan Pasal 72 Undang-Undang Perseroan Terbatas. Dividen interim ini nantinya akan diperhitungkan dengan dividen yang akan diputuskan dalam Rapat Umum Pemegang Saham Tahunan berikutnya.",
+   "Jadwalnya, saham IFII akan cum dividen di pasar reguler dan negosiasi pada 28 September 2026, lalu masuk masa ex dividen pada 29 September 2026. Di pasar tunai, cum dividen jatuh pada 30 September 2026 dan ex dividen pada 1 Oktober 2026. Pemegang saham yang tercatat dalam Daftar Pemegang Saham per 30 September 2026 pukul 16.00 WIB berhak atas dividen ini, yang akan dibayarkan paling lambat 15 Oktober 2026. Pembayaran dilakukan melalui KSEI bagi saham dalam penitipan kolektif, sementara pemegang saham di luar penitipan kolektif akan menerima cek yang dikirim ke alamat masing-masing.",
+   "Dasar pembagian dividen ini adalah data keuangan perseroan yang belum diaudit per 30 Juni 2026, yaitu laba periode berjalan Rp78,12 miliar, saldo laba ditahan yang belum ditentukan penggunaannya Rp453,72 miliar, dan total ekuitas Rp1,4067 triliun. Perseroan juga mengingatkan bahwa dividen interim ini dikenakan pajak sesuai aturan berlaku. Pemegang saham perorangan dalam negeri bebas pajak penghasilan bila dividen diinvestasikan kembali di Indonesia dalam jangka waktu tertentu, sementara pemegang saham asing dari negara yang punya perjanjian penghindaran pajak berganda dengan Indonesia bisa memperoleh tarif lebih rendah jika menyerahkan surat keterangan domisili ke KSEI atau biro administrasi efek paling lambat 30 September 2026 pukul 16.00 WIB."
+  ],
+  "fotoAdegan": "Workers stacking wood fiberboard panels inside a large timber processing warehouse, forklift moving pallets, industrial daylight.",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi pemegang saham IFII, karena perusahaan tetap membayar tunai dari kantong laba yang sudah terkumpul tanpa terlihat memberatkan kondisi keuangannya. Dana Rp47,06 miliar yang keluar itu akan mengurangi arus kas perusahaan dan sedikit menggerus saldo laba ditahan, yaitu keuntungan tahun-tahun sebelumnya yang belum dibagikan dan biasanya disimpan sebagai bantalan keuangan, tapi porsinya cuma sekitar sepersepuluh dari total saldo laba ditahan yang belum ditentukan penggunaannya sebesar Rp453,72 miliar, sehingga ekuitas perusahaan yang mencapai Rp1,4067 triliun praktis tidak terganggu. Pelaku pasar biasanya melihat kemampuan bagi dividen di tengah tahun buku sebagai tanda arus kas perusahaan cukup sehat untuk menutup kebutuhan operasional sambil tetap mengembalikan uang ke pemegang saham. Yang perlu dicermati berikutnya adalah keputusan Rapat Umum Pemegang Saham Tahunan mendatang, karena dividen interim ini sifatnya sementara dan akan diperhitungkan ulang dengan keputusan dividen final di rapat tersebut. Investor juga perlu mencatat tenggat 30 September 2026 pukul 16.00 WIB sebagai batas pencatatan pemegang saham yang berhak, serta tanggal pembayaran 15 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "presiden-prabowo-minta-esdm-siapkan-program-e50-gantikan-bbm-impor",
   "category": "Energi",
   "title": "Presiden Prabowo Minta ESDM Siapkan Program [E50] Gantikan BBM Impor",

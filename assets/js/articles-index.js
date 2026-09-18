@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smra-bantah-ada-info-material-di-tengah-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMRA Bantah Ada Info Material di Tengah [Volatilitas] Saham",
+  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, SMRA menyatakan tidak ada info material baru dan menyinggung kasus BPN Bogor yang diberitakan media.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMRA",
+   "Summarecon Agung",
+   "BEI",
+   "BPN Bogor"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abfb59b2b0_ea3b06eee4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "excl-panggil-rupslb-12-oktober-ganti-komisaris-vivek-sood",
+  "category": "Aksi Korporasi",
+  "title": "EXCL Panggil RUPSLB 12 Oktober, Ganti [Komisaris] Vivek Sood",
+  "deck": "XLSMART Telecom (EXCL) memanggil RUPSLB 12 Oktober 2026 untuk menyetujui pengunduran diri komisaris Vivek Sood dan pengangkatan Thomas Hundt sebagai penggantinya.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EXCL",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "XLSMART"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a8eff5b6b_ba15ac2bbb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptsn-jelaskan-ke-bursa-cara-penuhi-syarat-free-float",
+  "category": "Aksi Korporasi",
+  "title": "PTSN Jelaskan ke Bursa Cara Penuhi Syarat [Free Float]",
+  "deck": "Sat Nusapersada menjawab surat Bursa soal syarat minimum saham beredar publik, termasuk opsi mengalihkan sebagian saham Inditeck Technology Hong Kong yang menguasai 10 persen.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTSN",
+   "free float",
+   "Bursa Efek Indonesia",
+   "Sat Nusapersada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b193827690_18899ec2e7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mkpi-jadwalkan-rupslb-pada-27-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "MKPI Jadwalkan [RUPSLB] pada 27 Oktober 2026",
+  "deck": "Metropolitan Kentjana (MKPI) mengumumkan rencana RUPS Luar Biasa pada 27 Oktober 2026, dengan tanggal pencatatan pemegang saham 2 Oktober 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKPI",
+   "RUPSLB",
+   "Metropolitan Kentjana",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ad6338ec40_65f2b1dae2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ifii-bagikan-dividen-interim-rp5-per-saham-total-rp47-06-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IFII Bagikan [Dividen] Interim Rp5 per Saham, Total Rp47,06 Miliar",
+  "deck": "Direksi IFII menetapkan dividen interim tahun buku 2026 sebesar Rp5 per saham senilai Rp47,06 miliar, dibayarkan 15 Oktober 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IFII",
+   "dividen interim",
+   "pasar modal",
+   "Indonesia Fibreboard Industry"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abd0c71411_8214a9a26c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "presiden-prabowo-minta-esdm-siapkan-program-e50-gantikan-bbm-impor",
   "category": "Energi",
   "title": "Presiden Prabowo Minta ESDM Siapkan Program [E50] Gantikan BBM Impor",
@@ -6424,86 +6504,6 @@ var ARTICLES = [
    "data center"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/881c3a5b7b_ce2450a4f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bumi-danai-akuisisi-loyal-metals-dari-utang-glencore",
-  "category": "Aksi Korporasi",
-  "title": "BUMI Danai Akuisisi Loyal Metals dari [Utang] Glencore",
-  "deck": "Bumi Resources mengoreksi nilai akuisisi Loyal Metals menjadi Rp1,004 triliun dan mengungkap dana US$54 juta berasal dari pinjaman Glencore Australia, sisanya dari kas internal.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUMI",
-   "Loyal Metals",
-   "akuisisi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d22e77149_12e6084dc3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-laba-bersih-anjlok-88-jadi-rp956-miliar-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "UNTR: Laba Bersih [Anjlok] 88% jadi Rp956 Miliar di Semester I 2026",
-  "deck": "Public expose UNTR mengungkap laba bersih turun 88% jadi Rp956 miliar, terbebani impairment geotermal Rp2,76 triliun, sementara buyback saham terus berlanjut.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "public expose",
-   "laba bersih",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/25a46a2e69_83bf6d45e1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-elsa-laba-bersih-melonjak-29-2-ke-rp435-miliar",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose ELSA: Laba Bersih [Melonjak] 29,2% ke Rp435 Miliar",
-  "deck": "Manajemen Elnusa memaparkan laba bersih semester I 2026 naik 29,2% menjadi Rp435 miliar dalam public expose 7 September 2026, didorong efisiensi dan laba kurs.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ELSA",
-   "Elnusa",
-   "public expose",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/defbe0ae6c_6575ce6a53.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raja-jelaskan-ke-bursa-akuisisi-5-lng-senilai-us-43-7-juta",
-  "category": "Aksi Korporasi",
-  "title": "RAJA Jelaskan ke Bursa, Akuisisi 5% LNG Senilai [US$43,7 Juta]",
-  "deck": "RAJA menjelaskan ke BEI bahwa akuisisi 5% saham PT Layar Nusantara Gas oleh anak usahanya senilai US$43,7 juta didanai pinjaman bank dan bukan transaksi material maupun afiliasi.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAJA",
-   "akuisisi LNG",
-   "Bursa Efek Indonesia",
-   "Genting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/57f2d6853f_6a45011c0e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sini-paparkan-laba-rp674-m-usai-suspensi-ekuitas-balik-positif",
-  "category": "Aksi Korporasi",
-  "title": "SINI Paparkan Laba Rp674 M usai Suspensi, [Ekuitas] Balik Positif",
-  "deck": "Singaraja Putra merilis materi public expose insidentil usai suspensi BEI, membukukan laba Rp674,2 miliar dan ekuitas berbalik positif Rp3,59 triliun berkat rights issue dan akuisisi KMS.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SINI",
-   "Public Expose",
-   "Rights Issue",
-   "Akuisisi KMS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7b1e037afc_73d85c0e1a.pdf",
   "sourceLabel": "IDX"
  }
 ];

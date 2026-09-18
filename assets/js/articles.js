@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smdr-suntik-modal-rp33-7-miliar-ke-anak-usaha-properti",
+  "category": "Aksi Korporasi",
+  "title": "SMDR Suntik Modal [Rp33,7 Miliar] ke Anak Usaha Properti",
+  "deck": "Samudera Indonesia menambah modal Rp33,7 miliar ke anak usaha PT Samudera Properti Indonesia lewat penerbitan saham baru, memperbesar kepemilikannya jadi 99,59 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T19:59:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3690cf04ff_37bb8e8596.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMDR",
+  "tags": [
+   "SMDR",
+   "Samudera Indonesia",
+   "transaksi afiliasi",
+   "properti"
+  ],
+  "body": [
+   "PT Samudera Indonesia Tbk (SMDR) melakukan penambahan modal ke anak usahanya, PT Samudera Properti Indonesia (SPI), senilai Rp33,7 miliar. Penambahan modal ini dilakukan melalui penerbitan 33.700 saham baru oleh SPI dengan harga Rp1 juta per saham, berdasarkan akta rapat pemegang saham nomor 94 tanggal 31 Agustus 2026 yang perubahan anggaran dasarnya baru disetujui Kementerian Hukum pada 16 September 2026.",
+   "Dengan suntikan modal ini, jumlah saham SPI yang dimiliki SMDR naik dari 27.500 lembar menjadi 61.200 lembar, sehingga porsi kepemilikan SMDR di SPI naik dari 99,099 persen menjadi 99,593 persen. Dua pemegang saham minoritas SPI, yaitu PT Samudera Indonesia Tangguh dan PT Samudera Wadah Mitra, tidak ikut menambah saham sehingga porsi kepemilikan mereka terdilusi, masing-masing dari 0,883 persen menjadi 0,399 persen dan dari 0,018 persen menjadi 0,008 persen.",
+   "Karena SPI adalah anak usaha yang sekitar 99 persen sahamnya dikuasai SMDR, transaksi ini tergolong transaksi afiliasi sesuai POJK 42/2020, namun dikecualikan dari kewajiban keterbukaan tambahan berdasarkan Pasal 6 ayat 1 aturan tersebut. Perseroan juga menyatakan transaksi ini bukan transaksi material menurut POJK 17/2020, karena nilai Rp33,7 miliar hanya setara 0,24 persen dari total ekuitas SMDR yang tercatat US$787,78 juta per 30 Juni 2026 dalam laporan keuangan konsolidasian yang belum diaudit.",
+   "Perseroan menyebut penambahan modal ini sebagai langkah memperkuat struktur permodalan SPI untuk mendukung pengembangan lini bisnis properti, dengan harapan dapat mendorong kontribusi pendapatan segmen tersebut ke laporan konsolidasian SMDR."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete on a mid-rise building site with tower cranes overhead in a Jakarta suburb, late afternoon light.",
+  "takeaway": "Transaksi ini bernada netral bagi Samudera Indonesia, karena hanya memindahkan dana dari kas induk usaha ke modal anak usahanya sendiri, bukan menyuntikkan dana segar dari luar kelompok usaha atau menambah utang. Yang tersentuh di sini adalah ekuitas, yaitu modal sendiri perusahaan, tapi karena SPI sudah masuk laporan keuangan konsolidasian SMDR, penambahan modal ini secara grup hanya memindahkan pos dari kas menjadi aset di anak usaha, bukan menambah kekayaan bersih baru bagi grup. Nilainya pun tergolong kecil, hanya 0,24 persen dari total ekuitas SMDR, sehingga transaksi ini tidak masuk kategori transaksi material yang wajib mendapat persetujuan pemegang saham publik. Yang perlu dipantau selanjutnya adalah bagaimana PT Samudera Properti Indonesia memakai tambahan modal ini, karena dokumen keterbukaan ini tidak merinci proyek properti spesifik yang akan dibiayai dari dana tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smdr-suntik-modal-rp7-miliar-ke-anak-usaha-cumawis",
+  "category": "Aksi Korporasi",
+  "title": "SMDR Suntik Modal [Rp7 Miliar] ke Anak Usaha Cumawis",
+  "deck": "Samudera Indonesia menambah modal Rp7 miliar ke anak usahanya, PT Perusahaan Pelayaran Cumawis, lewat penerbitan 7.000 saham baru, menaikkan kepemilikan induk menjadi 99,988 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T19:56:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/78f3b9fd0a_4473e94118.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMDR",
+  "tags": [
+   "SMDR",
+   "transaksi afiliasi",
+   "penambahan modal",
+   "Samudera Indonesia"
+  ],
+  "body": [
+   "PT Samudera Indonesia Tbk (SMDR) melaporkan transaksi afiliasi berupa penambahan modal senilai Rp7 miliar ke PT Perusahaan Pelayaran Cumawis, anak usaha yang sahamnya dikuasai hampir penuh oleh perseroan. Transaksi yang tercatat pada 16 September 2026 ini dilakukan melalui penerbitan 7.000 lembar saham baru oleh Cumawis, masing-masing senilai Rp1 juta per lembar.",
+   "Dengan suntikan modal ini, komposisi pemegang saham Cumawis berubah. Sebelum transaksi, SMDR memegang 36.395 saham atau 99,986 persen dari modal disetor Rp36,4 miliar, sementara PT Samudera Wadah Mitra memegang 5 saham atau 0,014 persen. Setelah transaksi, kepemilikan SMDR naik menjadi 43.395 saham atau 99,988 persen dari modal disetor yang membesar menjadi Rp43,4 miliar, sedangkan porsi Samudera Wadah Mitra turun tipis menjadi 0,012 persen.",
+   "Dasar transaksi ini adalah Akta Pernyataan Keputusan Rapat Para Pemegang Saham Nomor 95 tanggal 31 Agustus 2026 di hadapan notaris Jessy Darmawan, yang mendapat persetujuan Kementerian Hukum RI pada 16 September 2026. Perseroan menyebut tujuannya untuk memperkuat lini usaha pelayaran, mempererat sinergi operasional dalam grup, serta mendukung pengembangan usaha Cumawis agar pendapatannya bisa ikut menopang pendapatan SMDR. Manajemen menyatakan nilai transaksi ini setara sekitar 0,05 persen dari ekuitas perseroan yang tercatat US$787,8 juta per 30 Juni 2026, sehingga tidak masuk kategori transaksi material dan dikecualikan dari kewajiban keterbukaan tambahan berdasarkan POJK 42/2020."
+  ],
+  "fotoAdegan": "Cargo ship being loaded at a busy Indonesian container port, cranes stacking containers under afternoon sun.",
+  "takeaway": "Transaksi ini netral bagi Samudera Indonesia, karena dana yang disuntikkan berasal dari kas internal perseroan sendiri ke anak usaha yang memang sudah dikuasai hampir penuh, bukan dana segar dari pihak luar yang menambah kapasitas grup secara riil. Yang berubah hanyalah struktur permodalan Cumawis, yaitu modal disetornya naik dari Rp36,4 miliar menjadi Rp43,4 miliar, sementara di laporan keuangan konsolidasi SMDR sendiri ini cuma pemindahan dana antar entitas dalam grup sehingga tidak menambah ekuitas maupun kas gabungan perseroan. Nilainya pun sangat kecil, hanya sekitar 0,05 persen dari total ekuitas SMDR, sehingga dampaknya ke kinerja keuangan induk nyaris tidak terasa dalam jangka pendek. Yang perlu dipantau berikutnya adalah apakah suntikan ini benar mendongkrak pendapatan Cumawis seperti alasan yang disampaikan manajemen, yang baru bisa terlihat dari laporan keuangan konsolidasi SMDR pada kuartal-kuartal mendatang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbkp-laba-bersih-anjlok-95-persen-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "[BBKP] Laba Bersih Anjlok 95 Persen di Semester I 2026",
+  "deck": "BBKP mencatat laba bersih semester I 2026 turun tajam ke Rp19,02 miliar dari Rp389,67 miliar setahun sebelumnya, meski aset dan ekuitas masih tumbuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T19:41:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918194352-64403-0/FinancialStatement-2026-II-BBKP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBKP",
+  "tags": [
+   "BBKP",
+   "Bank KB Indonesia",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank KB Indonesia Tbk (BBKP) menyampaikan laporan keuangan konsolidasian interim yang telah diaudit untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Bursa Efek Indonesia pada 18 September 2026, lewat surat nomor 20665/FDI/IX/2026. Auditor independen KAP Mirawati Sensi Idris, dengan partner penandatangan Fendri Sutejo, memberikan opini wajar tanpa modifikasian atau opini bersih tanpa catatan atas laporan ini. Auditor mencatat dua hal audit utama, yaitu penilaian cadangan kerugian penurunan nilai untuk kredit yang diberikan, serta pengukuran nilai wajar instrumen keuangan level 2.",
+   "Dari sisi neraca, total aset BBKP naik dari Rp89,79 triliun pada akhir Desember 2025 menjadi Rp93,01 triliun pada akhir Juni 2026. Total liabilitas juga naik dari Rp81,75 triliun menjadi Rp84,75 triliun, sementara total ekuitas pemegang saham bertambah dari Rp8,04 triliun menjadi Rp8,26 triliun. Kredit yang diberikan neto tumbuh tipis dari Rp47,09 triliun menjadi Rp47,51 triliun, dengan cadangan kerugian atas kredit bermasalah turun sedikit dari Rp2,78 triliun menjadi Rp2,77 triliun.",
+   "Yang mencolok ada di laporan laba rugi. Laba bersih semester I 2026 hanya Rp19,02 miliar, anjlok dari Rp389,67 miliar pada semester I 2025. Namun dokumen ini juga menunjukkan bahwa laba operasional dari bisnis perbankan utama justru membaik, berbalik dari rugi Rp65,39 miliar pada semester I 2025 menjadi laba Rp38,02 miliar pada semester I 2026. Penyebab utama anjloknya laba bersih adalah pos pendapatan non operasional, yang tercatat untung besar Rp563,52 miliar pada semester I 2025 namun berbalik rugi Rp18,32 miliar pada semester I 2026. Akibatnya, laba per saham dari operasi berkelanjutan turun dari Rp2,03 menjadi Rp0,07 per saham.",
+   "Laporan ini juga mencantumkan dua anak usaha BBKP. PT Bank KB Bukopin Syariah di Jakarta, beroperasi sejak 1990, memiliki aset Rp8,01 triliun dengan kepemilikan BBKP sebesar 95,92 persen. PT KB Bukopin Finance di Jakarta, beroperasi sejak 1983 di bidang pembiayaan, memiliki aset Rp1,46 triliun dengan kepemilikan BBKP sebesar 99,24 persen."
+  ],
+  "fotoAdegan": "Bank tellers assisting customers at a counter inside a modern Jakarta bank branch, soft morning light through glass windows",
+  "takeaway": "Kami menilai laporan ini netral bagi BBKP, karena anjloknya laba bersih tidak mencerminkan bisnis perbankan yang memburuk, melainkan hilangnya untung non operasional besar yang sempat mendongkrak laba tahun lalu dan tidak terulang tahun ini. Yang perlu diperhatikan pemegang saham adalah laba per saham, yaitu bagian laba perusahaan yang menjadi hak setiap lembar saham, karena angka ini turun tajam dari Rp2,03 jadi Rp0,07 meski ekuitas atau total modal pemegang saham justru naik dari Rp8,04 triliun menjadi Rp8,26 triliun. Cadangan kerugian kredit juga masih besar, Rp2,77 triliun, mengingat auditor sendiri menyoroti penilaian cadangan ini sebagai salah satu hal audit utama. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, untuk melihat apakah pemulihan laba dari kegiatan perbankan inti bisa berlanjut tanpa bantuan pos non operasional seperti yang terjadi tahun lalu.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pnmp-listing-obligasi-dan-sukuk-rp2-59-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "PNMP [listing] obligasi dan sukuk Rp2,59 triliun di BEI",

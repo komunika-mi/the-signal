@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smdr-suntik-modal-rp33-7-miliar-ke-anak-usaha-properti",
+  "category": "Aksi Korporasi",
+  "title": "SMDR Suntik Modal [Rp33,7 Miliar] ke Anak Usaha Properti",
+  "deck": "Samudera Indonesia menambah modal Rp33,7 miliar ke anak usaha PT Samudera Properti Indonesia lewat penerbitan saham baru, memperbesar kepemilikannya jadi 99,59 persen.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMDR",
+   "Samudera Indonesia",
+   "transaksi afiliasi",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3690cf04ff_37bb8e8596.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smdr-suntik-modal-rp7-miliar-ke-anak-usaha-cumawis",
+  "category": "Aksi Korporasi",
+  "title": "SMDR Suntik Modal [Rp7 Miliar] ke Anak Usaha Cumawis",
+  "deck": "Samudera Indonesia menambah modal Rp7 miliar ke anak usahanya, PT Perusahaan Pelayaran Cumawis, lewat penerbitan 7.000 saham baru, menaikkan kepemilikan induk menjadi 99,988 persen.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMDR",
+   "transaksi afiliasi",
+   "penambahan modal",
+   "Samudera Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/78f3b9fd0a_4473e94118.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbkp-laba-bersih-anjlok-95-persen-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "[BBKP] Laba Bersih Anjlok 95 Persen di Semester I 2026",
+  "deck": "BBKP mencatat laba bersih semester I 2026 turun tajam ke Rp19,02 miliar dari Rp389,67 miliar setahun sebelumnya, meski aset dan ekuitas masih tumbuh.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBKP",
+   "Bank KB Indonesia",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918194352-64403-0/FinancialStatement-2026-II-BBKP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pnmp-listing-obligasi-dan-sukuk-rp2-59-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "PNMP [listing] obligasi dan sukuk Rp2,59 triliun di BEI",
@@ -6456,54 +6504,6 @@ var ARTICLES = [
    "going concern"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260911145807-64381-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mapi-cetak-laba-rp1-45-triliun-di-semester-i-2026-naik-27",
-  "category": "Aksi Korporasi",
-  "title": "MAPI Cetak Laba [Rp1,45 Triliun] di Semester I 2026, Naik 27%",
-  "deck": "Laporan keuangan interim terkoreksi MAPI menunjukkan pendapatan naik 23 persen dan laba bersih naik 27 persen pada semester I 2026, sementara utang bank melonjak 35 persen.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAPI",
-   "laporan keuangan",
-   "ritel",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260911150925-64360-0/FinancialStatement-2026-II-MAPI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aces-target-tambah-40-50-toko-neka-sepanjang-2026",
-  "category": "Aksi Korporasi",
-  "title": "ACES Target Tambah 40-50 Toko [NEKA] Sepanjang 2026",
-  "deck": "Dalam laporan hasil public expose tahunan, direksi ACES memaparkan laba bersih semester I naik 33%, jaringan 274 toko AZKO dan 20 toko NEKA, serta target ekspansi NEKA hingga 50 toko baru tahun ini.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ACES",
-   "AZKO",
-   "NEKA",
-   "ritel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9236970505_968885405e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gria-ganti-direksi-bambang-eko-prabowo-gantikan-dody-supriyadi",
-  "category": "Aksi Korporasi",
-  "title": "GRIA Ganti [Direksi]: Bambang Eko Prabowo Gantikan Dody Supriyadi",
-  "deck": "GRIA mengoreksi pengumuman perubahan direksi: Bambang Eko Prabowo gantikan Moch Dody Supriyadi, sementara satu kursi direktur dihapus sesuai hasil RUPS 30 Juni 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GRIA",
-   "Direksi",
-   "RUPS",
-   "Ingria Pratama Capitalindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a11c6a845_079a40769a.pdf",
   "sourceLabel": "IDX"
  }
 ];

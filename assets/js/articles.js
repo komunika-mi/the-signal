@@ -3,6 +3,164 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ultj-tanggapi-permintaan-bursa-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Tanggapi Permintaan Bursa soal [Volatilitas] Saham",
+  "deck": "Ultrajaya menjawab permintaan penjelasan Bursa Efek Indonesia atas lonjakan volume dan harga sahamnya pada 15 September 2026, membantah ada informasi material yang belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T14:39:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7bd1bdc09f_26ed7216be.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "rights issue",
+   "Bursa Efek Indonesia",
+   "pengalihan pengendali"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-12075/BEI.PP1/09-2026 tertanggal 16 September 2026, yang mempertanyakan lonjakan aktivitas dan harga saham ULTJ pada 15 September 2026. Dalam surat balasan yang diteken Corporate Secretary Helina Widayani dan Presiden Direktur Sabana Prawira Widjaja pada 18 September 2026, Ultrajaya menyatakan tidak mengetahui informasi atau fakta material yang belum diungkapkan ke publik sesuai POJK Nomor 31/2015, dan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4/2024.",
+   "Terkait rencana aksi korporasi, Ultrajaya menegaskan kembali rencana penerbitan saham baru lewat mekanisme Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD), dengan menggunakan laporan keuangan audit untuk periode yang berakhir 31 Juli 2026 sebagai dasar perhitungan. Rencana ini sebelumnya sudah disampaikan lewat surat pemberitahuan RUPSLB nomor 200/UJ-DIR/Corsec/IX/26 tanggal 11 September 2026 dan diumumkan resmi sebagai keterbukaan informasi pada 18 September 2026.",
+   "Perseroan juga mengonfirmasi bahwa transaksi PMHMETD ini disertai rencana penyertaan modal dalam bentuk inbreng atau setoran saham nontunai dari pemegang saham baru, yang akan membuat pemegang saham baru tersebut memperoleh hak pengendalian atas Ultrajaya setelah transaksi rampung. Pengalihan pengendalian ini sejalan dengan rencana kerja sama dengan FrieslandCampina yang sudah diberitakan sebelumnya."
+  ],
+  "fotoAdegan": "Stainless steel milk processing tanks and pipelines inside a modern dairy factory, workers in white uniforms checking gauges",
+  "takeaway": "Tanggapan ini netral bagi fundamental Ultrajaya, karena isinya sebatas konfirmasi formal atas pertanyaan bursa dan tidak memuat angka baru yang mengubah proyeksi keuangan perseroan. Yang menarik dicermati, lonjakan volume dan harga saham yang dipertanyakan bursa terjadi pada 15 September, tiga hari sebelum Ultrajaya resmi mengumumkan rencana rights issue dan pergantian pengendali pada 18 September, sehingga jeda waktu ini layak diawasi meski perseroan membantah mengetahui adanya kebocoran informasi. Rencana penerbitan saham baru lewat PMHMETD, yaitu jatah beli saham baru bagi pemegang saham lama, akan menambah jumlah saham beredar sehingga bisa menekan laba per saham bagi pemegang saham yang tidak ikut menyerap haknya, sementara hak suara mayoritas berpotensi berpindah begitu setoran saham nontunai dari pemegang saham baru rampung. Yang perlu dipantau selanjutnya adalah RUPSLB pada 27 Oktober 2026, dengan daftar pemegang saham yang berhak hadir dihitung per 2 Oktober 2026, karena di forum itulah pemegang saham memutuskan restu atas seluruh rencana ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bafi-batalkan-direktur-baru-susun-ulang-direksi",
+  "category": "Aksi Korporasi",
+  "title": "BAFI Batalkan Direktur Baru, Susun Ulang [Direksi]",
+  "deck": "Pemegang saham BAFI membatalkan pengangkatan Anditya Soepardi sebagai direktur dan menetapkan ulang susunan direksi, sementara satu calon direktur lain masih menunggu persetujuan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T14:34:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/18a69064b2_c714b28b3d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAFI",
+  "tags": [
+   "BAFI",
+   "perubahan direksi",
+   "OJK",
+   "multifinance"
+  ],
+  "body": [
+   "PT Bussan Auto Finance (BAFI) melaporkan bahwa pemegang saham perseroan, melalui Keputusan Pemegang Saham Secara Sirkuler tertanggal 16 September 2026, menyetujui perubahan atas keputusan sirkuler sebelumnya tanggal 30 Juni 2026 mengenai susunan direksi. Hasilnya, rencana pengangkatan Anditya Soepardi sebagai direktur yang sempat diumumkan sebelumnya tidak dilanjutkan, sehingga pengangkatan tersebut dinyatakan belum pernah berlaku efektif.",
+   "Dengan keputusan itu, susunan direksi BAFI saat ini adalah Koji Kato sebagai Presiden Direktur, dengan tiga Wakil Presiden Direktur yaitu Yasunori Suita, Sigit Sembodo, dan Yu Oyama, serta dua Direktur yaitu Yudono dan Ivan Sebastian. Khusus untuk Ivan Sebastian yang diangkat pada 30 Juni 2026, jabatannya belum efektif karena masih menunggu persetujuan hasil Penilaian Kemampuan dan Kepatutan dari Otoritas Jasa Keuangan.",
+   "Sementara itu, susunan Dewan Komisaris tidak berubah, terdiri dari Toshiyuki Kojima sebagai Presiden Komisaris, serta lima Komisaris yaitu Dani Firmansjah, Prabowo, Naotaka Takeshita, Nurdayadi, dan Masami Shiobara. Dani Firmansjah dan Nurdayadi tercatat berstatus komisaris independen. Surat keterbukaan informasi ini ditandatangani oleh Sigit Sembodo selaku Wakil Presiden Direktur."
+  ],
+  "fotoAdegan": "Motorcycles lined up outside a financing company branch office in Jakarta, an employee assisting a customer, late afternoon light",
+  "takeaway": "Laporan ini netral karena hanya mengoreksi susunan pengurus tanpa dampak keuangan langsung, sebagaimana diakui perusahaan sendiri pada kolom dampak yang diisi tanda strip. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan siapa yang memegang kendali keputusan sehari hari di perusahaan pembiayaan ini, sehingga pelaku pasar tetap mencatatnya sebagai indikator stabilitas manajemen. Menariknya, rencana pengangkatan Anditya Soepardi yang sebelumnya sudah diumumkan kini dibatalkan, sementara kursi direktur itu justru diisi Ivan Sebastian yang belum bisa menjabat efektif. Yang perlu dipantau berikutnya adalah kapan Otoritas Jasa Keuangan mengeluarkan persetujuan uji kemampuan dan kepatutan untuk Ivan Sebastian, karena tanpa itu susunan direksi BAFI masih dianggap sementara.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baby-laba-operasional-melonjak-270-usai-integrasi-egi",
+  "category": "Aksi Korporasi",
+  "title": "BABY: Laba Operasional [Melonjak] 270% Usai Integrasi EGI",
+  "deck": "Integrasi bisnis Multitrend Indo (BABY) dengan Emway Globalindo pasca akuisisi mendorong laba operasional kuartal II 2026 melonjak 270,9% dan pendapatan konsolidasi naik 17% secara tahunan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T14:33:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/314c7a7d40_5076cd0112.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BABY",
+  "tags": [
+   "BABY",
+   "Multitrend Indo",
+   "Emway Globalindo",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Multitrend Indo Tbk (BABY) menerima penghargaan IDX Channel Anugerah Inovasi Indonesia (ICAII) 2026 untuk inovasi berjudul \"MTI and EGI Strategic Business Model Integration - Internal Process Innovation\", atas program integrasi proses bisnis perseroan dengan PT Emway Globalindo (EGI) pasca akuisisi. Program bernama MTI x EGI Integration Beat Plan ini mencakup 108 milestone di lima area, yaitu People, Systems, Legal, Strategic, dan E-Commerce, yang dipantau lewat satu dashboard terpusat sehingga manajemen bisa melihat status pekerjaan yang sudah selesai, sedang berjalan, maupun belum dimulai dalam satu tempat.",
+   "Hingga akhir kuartal kedua 2026, proses integrasi mencapai 56 persen, dengan 61 dari 108 milestone selesai, 20 berjalan, dan 27 belum dimulai, tanpa ada aktivitas yang berstatus berisiko atau tertahan. Sejumlah indikator operasional turut membaik: tingkat layanan keseluruhan atau Overall SLA naik dari 91,65 persen jadi 94,80 persen, SLA keuangan naik dari 68,83 persen jadi 78,89 persen, sementara SLA distribusi mencapai 98,03 persen dan SLA gudang 98,24 persen. Siklus konversi kas, yaitu waktu yang dibutuhkan perusahaan mengubah persediaan menjadi uang tunai, memendek 29 hari dari 213 menjadi 184 hari, dan hari persediaan turun dari 226 ke 214 hari, membantu perseroan membukukan posisi kas bersih Rp32,68 miliar per akhir Juni 2026.",
+   "Dari sisi bisnis, penjualan bersih distribusi MTI dan EGI pada kuartal kedua mencapai Rp241,8 miliar, naik 28 persen dibanding periode sama tahun lalu, dengan margin kas (cash margin) Rp85,3 miliar, naik 44 persen secara tahunan. Secara konsolidasi, penjualan bersih kuartal kedua tercatat Rp458,97 miliar, naik 17 persen dari tahun sebelumnya dan 8 persen di atas anggaran. Laba operasional melonjak 270,9 persen menjadi Rp12,18 miliar, sementara EBITDA operasional mencapai Rp18,07 miliar. CEO Multitrend Indo, Niraj Jain, menyebut kerangka Integration Beat Plan ini dirancang agar bisa dipakai ulang untuk integrasi bisnis atau entitas lain di masa depan, termasuk ekspansi kategori dan pengembangan saluran penjualan."
+  ],
+  "fotoAdegan": "Warehouse staff sorting boxes of children's clothing and toy packages on shelves, forklift moving pallets, distribution center in Jakarta.",
+  "takeaway": "Laporan ini condong positif bagi BABY, karena angka yang diungkap menunjukkan perbaikan nyata, bukan sekadar klaim penghargaan: laba operasional kuartal II 2026 melonjak lebih dari tiga kali lipat dan penjualan konsolidasi tumbuh dua digit di atas anggaran. Yang tersentuh di sini adalah arus kas dan efisiensi modal kerja, siklus konversi kas atau lamanya uang perusahaan tertahan di persediaan sebelum kembali jadi kas memendek 29 hari, dan posisi kas bersih tercatat positif Rp32,68 miliar, dua hal yang biasa dicermati investor karena menunjukkan perusahaan makin cepat mengubah stok jadi uang tunai dan makin longgar dari beban utang. Lonjakan laba operasional 270,9 persen perlu dibaca hati-hati karena kemungkinan besar terdorong basis pembanding tahun lalu yang masih rendah pasca akuisisi, bukan jaminan tingkat laba ini berulang tiap kuartal. Yang perlu dipantau selanjutnya adalah apakah tren kuartal II ini berlanjut ke laporan keuangan kuartal III dan akhir tahun 2026, terutama karena 27 dari 108 milestone integrasi masih belum dimulai dan bisa memengaruhi kelancaran proses ke depan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "apex-jelaskan-ke-bei-pendapatan-anjlok-21-7-phm-96-6",
+  "category": "Aksi Korporasi",
+  "title": "APEX Jelaskan ke BEI: [Pendapatan] Anjlok 21,7%, PHM 96,6%",
+  "deck": "Menjawab surat permintaan penjelasan BEI, Apexindo blak-blakan soal utang, ketergantungan pada satu pelanggan, dan sewa rig ke pihak berelasi yang naik 151 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T14:21:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0b65b46f7c_fdea5ce1e5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "Apexindo Pratama Duta",
+   "PMTHMETD",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Apexindo Pratama Duta Tbk (APEX) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia (BEI) bernomor S-12051/BEI.PP1/09-2026 tertanggal 16 September 2026, lewat surat nomor 265/DIR-IX/2026 tertanggal 18 September 2026 yang ditandatangani Corporate Secretary Frieda Salvantina. BEI meminta rincian atas sejumlah pos dalam laporan keuangan per 30 Juni 2026, termasuk rasio keuangan yang disyaratkan kreditor sindikasi luar negeri dalam perjanjian restrukturisasi utang. Perseroan menyebut Debt Service Coverage Ratio berada di 14,33 kali, Net Debt terhadap EBITDA di 3,58 kali per akhir Desember 2025, dan Collateral Ratio di 12,07 kali, semuanya di atas batas minimum yang disyaratkan.",
+   "Soal piutang usaha, Perseroan menjelaskan saldo piutang yang telah jatuh tempo turun dari US$1,3 juta pada akhir 2025 menjadi US$409.193 pada 30 Juni 2026. Penurunan tajam pada kategori piutang yang menunggak kurang dari satu bulan, dari US$716.069 menjadi hanya US$3.366, terjadi karena sebagian tertagih dan sebagian lagi bergeser ke kategori tunggakan yang lebih lama. Sisa piutang senilai US$405.827 pada kategori satu sampai tiga bulan disebut masih outstanding hingga surat ini diterbitkan dan terus ditagih. Adapun persediaan suku cadang naik tipis 0,85 persen menjadi US$26,28 juta meski nilai rig diturunkan US$15,34 juta akibat rendahnya utilisasi, karena Perseroan menjaga stok minimum di setiap rig, termasuk yang sedang tidak beroperasi, dan menyatakan tidak ada barang usang dalam persediaan tersebut.",
+   "Perseroan juga mengonfirmasi bahwa liabilitas sewa dalam laporan keuangan terkait Bareboat Charter Agreement penyewaan Rig Tasha dari pihak berelasi, Tasha Energy Limited, dengan jangka waktu sewa 3,5 tahun sejak awal perjanjian yang akan berakhir Agustus 2028. Pembayaran sewa rig ini melonjak 151,25 persen secara tahunan, dari US$1,45 juta menjadi US$3,64 juta pada semester pertama 2026, akibat kenaikan tarif melalui adendum yang disepakati September 2025, dengan liabilitas sewa tersebut kini setara 9,06 persen dari total liabilitas Perseroan. Manajemen menyatakan tarif tetap mengacu prinsip kewajaran usaha meski dengan pihak berelasi. Di bagian lain, Perseroan mengakui pendapatan semester pertama 2026 turun 21,68 persen menjadi US$33,57 juta dari US$42,86 juta setahun sebelumnya, akibat utilisasi rig yang menurun, durasi kontrak yang pendek atau maksimal sekitar 12 bulan, serta penundaan jadwal pengeboran dan tender dari pelanggan. Perseroan turut mengonfirmasi kontribusi PT Pertamina Hulu Mahakam terhadap total pendapatan tetap dominan, sekitar 96,60 persen pada Juni 2026 dibandingkan 96,86 persen pada Juni 2025, dengan dua kontrak rig lepas pantai yang berjalan hingga Agustus 2028 dan Agustus 2029.",
+   "Soal harga pelaksanaan saham baru sebesar Rp325 per saham dalam skema penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) untuk membayar utang ke kreditor sindikasi luar negeri, Perseroan menyatakan tidak menggunakan jasa penilai independen (KJPP). Harga tersebut disepakati langsung dengan kreditor sindikasi yang berstatus pihak tidak terafiliasi, berada di atas rata-rata harga penutupan saham 25 hari bursa terakhir, dan jauh di atas batas harga terendah perdagangan Rp50 per saham. Perseroan juga memaparkan susunan free float sebelum dan sesudah PMTHMETD per akhir Juli 2026, saham yang dimiliki pemegang di bawah 5 persen akan naik dari 1.263.269.735 menjadi 1.481.360.052 lembar, sementara kepemilikan direksi dan komisaris (28.551.560 lembar), pengendali (24.876 lembar), afiliasi pengendali (159.330.229 lembar), saham treasuri (420.344 lembar), dan kepemilikan modal ventura serta private equity (12.233.629 lembar) tidak berubah."
+  ],
+  "fotoAdegan": "Offshore jack-up drilling rig standing in calm sea waters with a supply boat nearby, workers in safety gear on deck, midday light",
+  "takeaway": "Penjelasan ini condong negatif bagi pemegang saham lama, karena mengonfirmasi bahwa penambahan modal untuk membayar utang berjalan di tengah pendapatan yang turun 21,68 persen dan ketergantungan hampir total pada satu pelanggan, PT Pertamina Hulu Mahakam, yang menyumbang 96,60 persen pendapatan. Pos yang tersentuh adalah jumlah saham beredar, sebab penerbitan saham baru untuk melunasi utang otomatis memperkecil porsi kepemilikan pemegang saham lama dan berpotensi menyusutkan laba per lembar saham, sementara arus kas jangka pendek masih tertahan karena US$405.827 tagihan pelanggan belum dibayar. Di sisi lain, syarat pinjaman dari kreditor, yaitu kemampuan membayar cicilan utang, perbandingan utang bersih terhadap laba operasional, dan nilai jaminan dibanding pinjaman, semuanya masih jauh di atas batas minimum yang disyaratkan, sehingga bantalan keuangan Perseroan terhadap risiko gagal bayar masih relatif aman untuk saat ini. Yang perlu dipantau berikutnya adalah keputusan RUPSLB yang akan mengesahkan penambahan modal tanpa hak memesan efek ini, serta angka utang bersih dibanding laba operasional untuk sepanjang tahun 2026 yang menurut Perseroan baru bisa dihitung setelah laporan keuangan tahunan terbit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "baja-rights-issue-900-juta-saham-harga-rp500-efektif",
+  "category": "Aksi Korporasi",
+  "title": "BAJA Rights Issue 900 Juta Saham, Harga Rp500 [Efektif]",
+  "deck": "Saranacentral Bajatama menerbitkan 900 juta saham baru lewat rights issue dengan rasio 2:1 dan harga pelaksanaan Rp500 per saham, efektif dari OJK sejak 17 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T14:10:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dc2b4b4de2_4af43e9461.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Saranacentral Bajatama Tbk (BAJA) mengumumkan penerbitan Hak Memesan Efek Terlebih Dahulu (HMETD) atau rights issue sejumlah 900.000.000 saham baru dengan nilai nominal Rp100 per saham. Rencana ini merupakan tindak lanjut dari keputusan Rapat Umum Pemegang Saham Luar Biasa pada 31 Maret 2026, dan telah dinyatakan efektif oleh Otoritas Jasa Keuangan pada 17 September 2026.",
+   "Rasio HMETD ditetapkan 2:1, artinya setiap pemegang 2 saham lama yang namanya tercatat dalam Daftar Pemegang Saham per 29 September 2026 pukul 16.00 WIB berhak atas 1 hak untuk membeli 1 saham baru. Harga pelaksanaan ditetapkan Rp500 per saham, sehingga total dana yang berpotensi terkumpul dari aksi korporasi ini mencapai Rp450 miliar sebelum dikurangi biaya emisi. Penerbitan ini tidak disertai waran.",
+   "Perseroan menetapkan tanggal cum HMETD di pasar reguler dan negosiasi pada 25 September 2026, dengan tanggal ex pada 28 September 2026. Untuk pasar tunai, cum date jatuh pada 29 September 2026 dan ex date pada 30 September 2026, bersamaan dengan tanggal distribusi HMETD. Saham hasil rights issue akan dicatatkan di Bursa Efek Indonesia pada 1 Oktober 2026, dengan periode perdagangan dan pelaksanaan HMETD berlangsung dari 1 hingga 7 Oktober 2026. Batas akhir pembayaran pesanan saham tambahan ditetapkan 9 Oktober 2026, penjatahan pada 12 Oktober 2026, dan pengembalian kelebihan uang pesanan pada 14 Oktober 2026.",
+   "Dokumen ini menyebutkan bahwa dana hasil rights issue, setelah dikurangi seluruh biaya terkait, akan digunakan oleh perseroan, namun rincian spesifik alokasinya tidak dicantumkan dalam keterbukaan informasi ini."
+  ],
+  "fotoAdegan": "Workers inspecting large rolls of coated steel sheets on an industrial factory production line, wearing helmets",
+  "takeaway": "Laporan ini kami nilai netral bagi BAJA, karena aksi ini memang menambah modal segar bagi perseroan tetapi sekaligus mendilusi kepemilikan pemegang saham yang tidak ikut serta, sementara penggunaan dana yang lebih rinci belum diungkap dalam keterbukaan ini. Dengan rasio 2:1, saham lama diperkirakan sekitar 1,8 miliar lembar, sehingga 900 juta saham baru itu setara sekitar sepertiga dari total saham perseroan setelah rights issue, porsi yang cukup besar untuk mengencerkan laba per saham jika pemegang saham lama tidak ikut menambah porsi mereka. Di sisi lain, dana Rp450 miliar yang masuk akan memperkuat ekuitas atau modal sendiri perseroan, yang bisa dipakai melunasi utang atau membiayai operasional, tergantung pada peruntukan yang akan dijelaskan lebih lanjut dalam prospektus. Yang perlu dipantau berikutnya adalah tanggal pencatatan saham baru di BEI pada 1 Oktober 2026 dan batas akhir pembayaran pesanan saham tambahan pada 9 Oktober 2026, karena tingkat penyerapan HMETD oleh pemegang saham lama akan menentukan seberapa besar dilusi riil yang terjadi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-cabut-suspensi-saham-true-setelah-penuhi-kewajiban-lapor",
+  "category": "Aksi Korporasi",
+  "title": "BEI Cabut [Suspensi] Saham TRUE Setelah Penuhi Kewajiban Lapor",
+  "deck": "Bursa Efek Indonesia mencabut suspensi perdagangan saham TRUE mulai sesi kedua Jumat, 18 September 2026, setelah perusahaan memenuhi kewajiban pelaporan keuangan yang sempat tertunda dua kali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T14:02:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/50c9724e68_d076c60505.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "TRUE",
+   "BEI",
+   "suspensi saham",
+   "Triniti Dinamik"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mencabut penghentian sementara perdagangan (suspensi) saham PT Triniti Dinamik Tbk (TRUE) di pasar reguler dan pasar tunai, efektif mulai sesi kedua perdagangan pada Jumat, 18 September 2026. Pencabutan ini tertuang dalam pengumuman bernomor Peng-UPT-00019/BEI.PLP/09-2026, menyusul terpenuhinya seluruh kewajiban TRUE yang menjadi penyebab suspensi serta tidak adanya kondisi lain yang menghalangi pencabutan.",
+   "Saham TRUE, yang tercatat di Papan Pengembangan, sebelumnya disuspensi dua kali dalam waktu berdekatan. Suspensi pertama dijatuhkan lewat pengumuman Peng-S-00020/BEI.PLP/06-2026 tanggal 30 Juni 2026 sebagai sanksi atas keterlambatan penyampaian laporan keuangan auditan tahunan per 31 Desember 2025. Suspensi kedua menyusul melalui pengumuman Peng-S-00024/BEI.PLP/07-2026 tanggal 30 Juli 2026, terkait sanksi keterlambatan penyampaian laporan keuangan interim per 31 Maret 2026.",
+   "Bursa menyatakan TRUE telah memenuhi seluruh kewajiban yang menjadi penyebab kedua suspensi tersebut sehingga perdagangan sahamnya dapat dibuka kembali. BEI juga meminta seluruh pihak yang berkepentingan untuk terus mencermati keterbukaan informasi yang disampaikan perusahaan ke depannya. Pengumuman ditandatangani oleh Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat Teuku Fahmi Ariandar dan Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A."
+  ],
+  "fotoAdegan": "Busy pedestrian crossing in front of a modern glass office tower in Jakarta's Sudirman financial district at midday",
+  "takeaway": "Pencabutan suspensi ini netral bagi TRUE, sebab statusnya sekadar kembali normal setelah kewajiban pelaporan dipenuhi, tanpa ada perubahan pada modal, arus kas, atau kinerja keuangan yang membuatnya layak disebut sinyal positif maupun negatif secara fundamental. Suspensi sendiri adalah penghentian sementara perdagangan yang dijatuhkan bursa sebagai sanksi, dan dalam kasus ini pemicunya adalah TRUE dua kali terlambat menyerahkan laporan keuangan, yakni laporan tahunan auditan 2025 dan laporan interim kuartal pertama 2026; pelaku pasar mencermati hal ini karena laporan yang telat membuat mereka kesulitan menilai kondisi perusahaan secara tepat waktu. Yang perlu dipantau selanjutnya adalah rekam jejak kepatuhan pelaporan TRUE ke depan, terutama apakah laporan keuangan periode berikutnya disampaikan tepat waktu, karena dua sanksi dalam kurun kurang dari tiga bulan bisa memicu pengawasan lebih ketat dari bursa jika terulang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ultj-rights-issue-rp16-9-triliun-frieslandcampina-jadi-pengendali",
   "category": "Aksi Korporasi",
   "title": "ULTJ Rights Issue Rp16,9 Triliun, [FrieslandCampina] Jadi Pengendali",

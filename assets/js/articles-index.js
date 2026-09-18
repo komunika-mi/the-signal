@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ultj-tanggapi-permintaan-bursa-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Tanggapi Permintaan Bursa soal [Volatilitas] Saham",
+  "deck": "Ultrajaya menjawab permintaan penjelasan Bursa Efek Indonesia atas lonjakan volume dan harga sahamnya pada 15 September 2026, membantah ada informasi material yang belum diungkap.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "rights issue",
+   "Bursa Efek Indonesia",
+   "pengalihan pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7bd1bdc09f_26ed7216be.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bafi-batalkan-direktur-baru-susun-ulang-direksi",
+  "category": "Aksi Korporasi",
+  "title": "BAFI Batalkan Direktur Baru, Susun Ulang [Direksi]",
+  "deck": "Pemegang saham BAFI membatalkan pengangkatan Anditya Soepardi sebagai direktur dan menetapkan ulang susunan direksi, sementara satu calon direktur lain masih menunggu persetujuan OJK.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAFI",
+   "perubahan direksi",
+   "OJK",
+   "multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/18a69064b2_c714b28b3d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baby-laba-operasional-melonjak-270-usai-integrasi-egi",
+  "category": "Aksi Korporasi",
+  "title": "BABY: Laba Operasional [Melonjak] 270% Usai Integrasi EGI",
+  "deck": "Integrasi bisnis Multitrend Indo (BABY) dengan Emway Globalindo pasca akuisisi mendorong laba operasional kuartal II 2026 melonjak 270,9% dan pendapatan konsolidasi naik 17% secara tahunan.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BABY",
+   "Multitrend Indo",
+   "Emway Globalindo",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/314c7a7d40_5076cd0112.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apex-jelaskan-ke-bei-pendapatan-anjlok-21-7-phm-96-6",
+  "category": "Aksi Korporasi",
+  "title": "APEX Jelaskan ke BEI: [Pendapatan] Anjlok 21,7%, PHM 96,6%",
+  "deck": "Menjawab surat permintaan penjelasan BEI, Apexindo blak-blakan soal utang, ketergantungan pada satu pelanggan, dan sewa rig ke pihak berelasi yang naik 151 persen.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APEX",
+   "Apexindo Pratama Duta",
+   "PMTHMETD",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0b65b46f7c_fdea5ce1e5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baja-rights-issue-900-juta-saham-harga-rp500-efektif",
+  "category": "Aksi Korporasi",
+  "title": "BAJA Rights Issue 900 Juta Saham, Harga Rp500 [Efektif]",
+  "deck": "Saranacentral Bajatama menerbitkan 900 juta saham baru lewat rights issue dengan rasio 2:1 dan harga pelaksanaan Rp500 per saham, efektif dari OJK sejak 17 September 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dc2b4b4de2_4af43e9461.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-cabut-suspensi-saham-true-setelah-penuhi-kewajiban-lapor",
+  "category": "Aksi Korporasi",
+  "title": "BEI Cabut [Suspensi] Saham TRUE Setelah Penuhi Kewajiban Lapor",
+  "deck": "Bursa Efek Indonesia mencabut suspensi perdagangan saham TRUE mulai sesi kedua Jumat, 18 September 2026, setelah perusahaan memenuhi kewajiban pelaporan keuangan yang sempat tertunda dua kali.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "BEI",
+   "suspensi saham",
+   "Triniti Dinamik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/50c9724e68_d076c60505.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ultj-rights-issue-rp16-9-triliun-frieslandcampina-jadi-pengendali",
   "category": "Aksi Korporasi",
   "title": "ULTJ Rights Issue Rp16,9 Triliun, [FrieslandCampina] Jadi Pengendali",
@@ -6407,102 +6503,6 @@ var ARTICLES = [
    "tender offer saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/24e3984bcc_151daa1854.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beer-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "BEER Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",
-  "deck": "PT Jobubu Jarum Minahasa Tbk mengundang pemegang saham ke RUPSLB 2 Oktober 2026 untuk membahas revisi Pasal 3 anggaran dasar dan kemungkinan pergantian direksi serta komisaris.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEER",
-   "RUPSLB",
-   "Direksi",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a565fb2c56_b522fff865.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smdr-jawab-bei-margin-susut-laba-nyaris-stagnan",
-  "category": "Aksi Korporasi",
-  "title": "SMDR Jawab BEI: [Margin] Susut, Laba Nyaris Stagnan",
-  "deck": "SMDR menjelaskan ke BEI penyebab margin kotor yang menyusut, beban penyusutan naik 71 persen, dan laba bersih semester I 2026 yang nyaris tak tumbuh.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMDR",
-   "Samudera Indonesia",
-   "laporan keuangan",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/241bd87170_44053c6d09.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptba-beber-laba-naik-218-proyek-kramasan-alami-keterlambatan",
-  "category": "Aksi Korporasi",
-  "title": "PTBA Beber Laba Naik 218%, Proyek [Kramasan] Alami Keterlambatan",
-  "deck": "Public expose PTBA memaparkan laba bersih semester I 2026 melonjak 218 persen menjadi Rp2,64 triliun, sementara proyek Dermaga Kramasan molor dari jadwal semula.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTBA",
-   "Bukit Asam",
-   "Public Expose",
-   "Kramasan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aafbb37770_dcbb02c8e6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "isea-jawab-bursa-utang-lampaui-proyeksi-marjin-turun",
-  "category": "Aksi Korporasi",
-  "title": "ISEA Jawab Bursa: [Utang] Lampaui Proyeksi, Marjin Turun",
-  "deck": "ISEA menjawab permintaan penjelasan Bursa Efek Indonesia soal rasio utang yang melampaui proyeksi IPO, margin laba kotor yang menyusut, dan piutang usaha yang seluruhnya telah jatuh tempo.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ISEA",
-   "Bursa Efek Indonesia",
-   "ekspor udang",
-   "tarif AS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/26897befd3_af1cd42d3c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-tawarkan-obligasi-dan-sukuk-tahap-iv-rp1-68-triliun",
-  "category": "Aksi Korporasi",
-  "title": "LPPI Tawarkan Obligasi dan Sukuk Tahap IV [Rp1,68 Triliun]",
-  "deck": "LPPI menawarkan obligasi tahap IV senilai sebanyak-banyaknya Rp1 triliun dan sukuk mudharabah Rp676,63 miliar, dengan bunga tetap 10-10,5 persen dan masa penawaran 23-25 September 2026.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "obligasi",
-   "sukuk",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/de4474cc13_86305c0da0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btps-rinci-ekspansi-pembiayaan-individu-dan-nbfi-di-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "BTPS Rinci Ekspansi Pembiayaan Individu dan [NBFI] di Public Expose",
-  "deck": "BTPN Syariah membukukan laba Rp655 miliar pada semester satu 2026 dan memaparkan rincian ekspansi ke pembiayaan individu, wealth management, dan pembiayaan ke lembaga keuangan non-bank.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "Bank BTPN Syariah",
-   "public expose",
-   "pembiayaan individu"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/040f744126_c1bf31a152.pdf",
   "sourceLabel": "IDX"
  }
 ];

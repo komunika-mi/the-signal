@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "Q870WQYSNPM",
+  "title": "Menkeu Umumkan Defisit APBN Agustus 2026 Capai Rp240,1 Triliun",
+  "category": "Makroekonomi",
+  "program": "Kabar Siang",
+  "summary": "Menteri Keuangan Suahasil Nazara memaparkan realisasi APBN Agustus 2026 yang mencatat defisit Rp240,1 triliun melalui program APBNKita.",
+  "takeaway": "Angka defisit APBN menjadi indikator penting kesehatan fiskal pemerintah dan acuan bagi pelaku pasar dalam menilai arah kebijakan anggaran ke depan."
+ },
+ {
   "id": "Add-wORF9vQ",
   "title": "Groundbreaking PSEL dan PSE Pirolisis di Galuga Bogor",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Apa Kabar Indonesia Pagi",
   "summary": "Harga beras mulai naik seiring musim kemarau yang menekan produksi padi, dan pemerintah menyiapkan langkah antisipasi menjaga pasokan.",
   "takeaway": "Kenaikan harga beras berkaitan langsung dengan tekanan inflasi pangan dan daya beli masyarakat."
- },
- {
-  "id": "1RQbUny23CQ",
-  "title": "PT Agrinas Palma Gelar Pasar Rakyat, Sembako Murah untuk Warga",
-  "category": "BUMN",
-  "program": "Kabar Hari Ini",
-  "summary": "PT Agrinas Palma Nusantara menggelar pasar rakyat dengan membagikan 500 paket sembako terjangkau serta layanan kesehatan gratis bagi masyarakat sekitar.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya BUMN perkebunan sawit menjaga keterjangkauan harga bahan pokok di tingkat masyarakat."
  }
 ];

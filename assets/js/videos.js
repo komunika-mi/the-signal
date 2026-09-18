@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Q870WQYSNPM",
+  "title": "Menkeu Umumkan Defisit APBN Agustus 2026 Capai Rp240,1 Triliun",
+  "category": "Makroekonomi",
+  "program": "Kabar Siang",
+  "summary": "Menteri Keuangan Suahasil Nazara memaparkan realisasi APBN Agustus 2026 yang mencatat defisit Rp240,1 triliun melalui program APBNKita.",
+  "takeaway": "Angka defisit APBN menjadi indikator penting kesehatan fiskal pemerintah dan acuan bagi pelaku pasar dalam menilai arah kebijakan anggaran ke depan.",
+  "terbit": "2026-09-18T06:26:02+00:00"
+ },
+ {
   "id": "Add-wORF9vQ",
   "title": "Groundbreaking PSEL dan PSE Pirolisis di Galuga Bogor",
   "category": "Energi",

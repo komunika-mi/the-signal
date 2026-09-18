@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-minta-esdm-siapkan-program-e50-gantikan-bbm-impor",
+  "category": "Energi",
+  "title": "Presiden Prabowo Minta ESDM Siapkan Program [E50] Gantikan BBM Impor",
+  "deck": "Setelah program biodiesel B50, pemerintah mulai menyusun program bioetanol E50 untuk mengurangi impor BBM, sambil mendorong eksplorasi sumur baru dan optimalisasi 45.000 sumur tua migas.",
+  "date": "18 September 2026",
+  "image": "assets/img/presiden-prabowo-minta-esdm-siapkan-program-e50-gantikan-bbm-impor.jpg",
+  "imageV": "mu69mble",
+  "tags": [
+   "E50",
+   "BBM impor",
+   "sumur tua",
+   "BUK Migas"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/usai-b50-pemerintah-siapkan-e50-langkah-baru-kurangi-ketergantungan-bbm-impor",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "esdm-umumkan-pemenang-lelang-migas-3-blok-tak-laku",
   "category": "Energi",
   "title": "ESDM Umumkan Pemenang Lelang Migas, 3 Blok [Tak] Laku",
@@ -6486,22 +6504,6 @@ var ARTICLES = [
    "Akuisisi KMS"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7b1e037afc_73d85c0e1a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbyb-lengkapi-direksi-ojk-restui-direktur-manajemen-risiko",
-  "category": "Aksi Korporasi",
-  "title": "BBYB Lengkapi Direksi, [OJK] Restui Direktur Manajemen Risiko",
-  "deck": "Bank Neo Commerce melaporkan OJK telah menyetujui Indra Aditya Sanjaya sebagai Direktur Manajemen Risiko, melengkapi susunan direksi dan komisaris hasil RUPST April 2026.",
-  "date": "10 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBYB",
-   "Bank Neo Commerce",
-   "Direksi",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0c5c8edf5d_6f945f7eb9.pdf",
   "sourceLabel": "IDX"
  }
 ];

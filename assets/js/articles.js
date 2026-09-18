@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-minta-esdm-siapkan-program-e50-gantikan-bbm-impor",
+  "category": "Energi",
+  "title": "Presiden Prabowo Minta ESDM Siapkan Program [E50] Gantikan BBM Impor",
+  "deck": "Setelah program biodiesel B50, pemerintah mulai menyusun program bioetanol E50 untuk mengurangi impor BBM, sambil mendorong eksplorasi sumur baru dan optimalisasi 45.000 sumur tua migas.",
+  "image": "assets/img/presiden-prabowo-minta-esdm-siapkan-program-e50-gantikan-bbm-impor.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T01:06:46.244Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/usai-b50-pemerintah-siapkan-e50-langkah-baru-kurangi-ketergantungan-bbm-impor",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "E50",
+   "BBM impor",
+   "sumur tua",
+   "BUK Migas"
+  ],
+  "body": [
+   "Pemerintah tengah menyiapkan program baru bernama E50, campuran bahan bakar nabati untuk bensin, sebagai langkah lanjutan setelah menjalankan B50 pada solar. Arahan ini disampaikan Presiden Prabowo Subianto dalam Sidang Paripurna Dewan Energi Nasional pertama tahun 2026 di Istana Merdeka, Jakarta, Kamis (17/9). Bagi masyarakat, langkah ini penting karena menyasar salah satu penyebab utama impor BBM, yaitu konsumsi bensin yang selama ini masih banyak dipasok dari luar negeri.",
+   "Menteri ESDM Bahlil Lahadalia mengatakan Presiden meminta jajarannya mempelajari pengalaman B50, yang menurut pemerintah berhasil menekan impor solar jenis CN48, lalu menerapkan pola serupa untuk menyusun E50. Ia menyebut konsumsi solar nasional saat ini sekitar 39 juta kiloliter per tahun, sementara konsumsi bensin berkisar 39 hingga 40 juta kiloliter per tahun, angka yang menggambarkan besarnya kebutuhan BBM yang masih bergantung pada pasokan impor. Namun pemerintah belum mengungkap target waktu, rasio campuran final, maupun sumber bahan baku etanol yang akan dipakai untuk E50.",
+   "Selain program E50, pemerintah juga mendorong eksplorasi cekungan dan blok minyak baru serta optimalisasi produksi dari sumur-sumur tua dengan bantuan teknologi. Bahlil menyebut ada sekitar 45.000 sumur tua yang akan digarap ulang, dengan penekanan agar pengelolaannya dilakukan secara profesional dan tidak terjadi penyimpangan seperti penjualan hasil produksi langsung di lokasi sumur.",
+   "Di sisi regulasi, ESDM tengah menyiapkan usulan pembentukan Badan Usaha Khusus (BUK) Migas melalui revisi Undang-Undang Migas, dengan lembaga itu nantinya bertanggung jawab langsung ke Presiden. Bahlil menyebut fokus penyusunannya adalah mencari formula perizinan yang tidak menghambat proses lintas sektor, yang selama ini dianggap memperlambat peningkatan produksi migas siap jual atau lifting."
+  ],
+  "fotoAdegan": "Workers in coveralls maintaining an aging oil pump jack on a rural Indonesian field under overcast afternoon sky, no signage visible",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-usai-b50-pemerintah-siapkan-e50-langkah-baru-kurangi-ketergantungan-bbm-impor-qqojjra.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah dari sidang ini adalah instruksi Presiden Prabowo Subianto agar Kementerian ESDM meniru pola B50 untuk membangun E50, campuran bahan bakar nabati pada bensin, ditambah rencana membentuk Badan Usaha Khusus Migas lewat revisi UU Migas agar perizinan hulu migas tidak berbelit. Pihak yang berpotensi terdampak adalah pelaku usaha bahan bakar nabati dan penyedia bahan baku etanol seperti tebu atau singkong, produsen otomotif yang mesinnya harus menyesuaikan kadar etanol lebih tinggi, konsumen bensin secara luas, serta pelaku usaha migas yang mengelola 45.000 sumur tua dan proses perizinan lifting. Yang masih kurang untuk membaca ke mana kebijakan ini benar-benar bergerak adalah kejelasan soal jadwal peluncuran E50, rasio campuran final, dan dari mana bahan baku etanolnya akan dipasok, karena arahan ini baru berhenti di tahap instruksi dan belum memuat peta jalan. Perkembangan yang perlu ditunggu adalah draf roadmap E50 dari ESDM dan progres pembahasan RUU Migas soal BUK, karena dari situ baru terlihat apakah program ini dieksekusi bertahap seperti B50 atau berhenti sebagai wacana.",
+  "imageV": "mu69mble"
+ },
+ {
   "slug": "esdm-umumkan-pemenang-lelang-migas-3-blok-tak-laku",
   "category": "Energi",
   "title": "ESDM Umumkan Pemenang Lelang Migas, 3 Blok [Tak] Laku",

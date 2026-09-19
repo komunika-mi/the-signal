@@ -443,6 +443,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "bike-teken-mou-kembangkan-pasar-minggu-investasi-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Teken MoU Kembangkan Pasar Minggu, Investasi [Rp1 Triliun]",
+  "deck": "Anak usaha BIKE, PT Ratu Karya, menandatangani MoU dengan Perumda Pasar Jaya untuk mengembangkan kawasan Pasar Minggu, Jakarta Selatan, dengan perkiraan nilai investasi Rp1 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T23:01:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2fbeebd6d7_d775f1a93b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "properti",
+   "Pasar Minggu",
+   "MoU"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) melaporkan bahwa anak usahanya, PT Ratu Karya, menandatangani Memorandum of Understanding (MoU) dengan Perumda Pasar Jaya pada 17 September 2026. Kerja sama ini terkait rencana pembangunan dan pengembangan kawasan Pasar Minggu, Jakarta Selatan. Perseroan menyebut langkah ini sebagai bagian dari perluasan portofolio usaha ke bidang properti, infrastruktur, dan pengembangan kawasan, di luar bisnis inti BIKE selama ini di perdagangan alat olahraga dan alat transportasi darat.",
+   "Dalam keterbukaan informasi ke Bursa Efek Indonesia, BIKE menjelaskan bahwa MoU tersebut merupakan kesepahaman awal untuk mempersiapkan pelaksanaan kerja sama pengembangan kawasan Pasar Minggu. Proyek yang direncanakan mencakup kios dan los untuk pelaku usaha mikro, kecil, dan menengah (UMKM), rumah susun, rumah sakit, gedung perkantoran, pusat perbelanjaan, hingga food court. Perseroan memperkirakan nilai investasi yang akan diserap dari pelaksanaan pembangunan Pasar Minggu ini mencapai Rp1 triliun.",
+   "BIKE menegaskan bahwa pelaksanaan lebih lanjut dari kerja sama ini masih bergantung pada hasil kajian serta pemenuhan sejumlah persyaratan, yaitu aspek teknis, legal, komersial, finansial, perizinan, dan persetujuan korporasi, di samping ketentuan peraturan perundang-undangan yang berlaku. Laporan fakta material ini ditandatangani oleh Direktur BIKE, Winston Mulyadi, dan disampaikan ke bursa pada 18 September 2026 pukul 23.01 WIB. Perseroan menyatakan akan menyampaikan informasi lebih lanjut kepada pihak terkait sesuai perkembangan proyek."
+  ],
+  "fotoAdegan": "Traditional market alley with small vendor stalls and covered walkways, construction cranes rising in the background, overcast Jakarta afternoon.",
+  "takeaway": "MoU ini condong positif bagi BIKE karena menandakan ekspansi bisnis anak usahanya, PT Ratu Karya, ke sektor properti dan pengembangan kawasan dengan skala investasi yang disebutkan mencapai Rp1 triliun, jauh lebih besar dibanding lini usaha inti Perseroan di perdagangan alat olahraga dan transportasi darat. Yang perlu digarisbawahi, MoU baru kesepahaman awal yang belum mengikat, sehingga belum berdampak langsung pada arus kas atau ekuitas Perseroan sampai proyek ini masuk tahap perjanjian definitif, yang biasanya membutuhkan pendanaan besar lewat utang baru atau tambahan modal yang bisa menambah jumlah saham beredar dan menggerus laba per saham jika ditempuh lewat penerbitan saham baru. Investor perlu memantau hasil kajian teknis, legal, komersial, finansial, dan perizinan proyek, serta persetujuan korporasi yang disebut dalam dokumen sebagai syarat sebelum kerja sama ini berlanjut ke tahap pembangunan, karena dokumen ini tidak mencantumkan tenggat waktu pasti untuk tahap tersebut.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "sofa-akui-ketidakpastian-usaha-di-tengah-ekspansi-proyek-wte",
   "category": "Aksi Korporasi",
   "title": "SOFA akui [ketidakpastian] usaha di tengah ekspansi proyek WTE",
@@ -492,6 +518,32 @@ var ARTICLES = [
   "fotoAdegan": "Financial district skyscrapers in Jakarta reflecting morning sunlight, busy street below with commuters and taxis passing by",
   "takeaway": "Pengumuman ini netral bagi RHB Sekuritas selaku penerbit waran maupun bagi BBRI selaku saham acuan, karena isinya murni menjalankan jadwal yang sudah ditetapkan sejak waran ini pertama diterbitkan pada Januari 2023, bukan keputusan bisnis baru. Waran terstruktur semacam ini adalah produk yang dijual dan diterbitkan oleh RHB Sekuritas, bukan oleh BBRI, sehingga pelaksanaannya tidak menyentuh ekuitas, arus kas, atau jumlah saham beredar BBRI, ini murni transaksi antara RHB dan pemegang waran. Yang perlu diperhatikan pemegang waran adalah tanggal 18 September 2026 itu sendiri, karena sejak hari itu BBRIDRPN5A tidak bisa lagi diperjualbelikan di Bursa Efek Indonesia.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "towr-direksi-anita-anwar-lepas-99-99-saham-hak-suara-nol",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Direksi Anita Anwar Lepas [99,99%] Saham, Hak Suara Nol",
+  "deck": "Direksi TOWR Anita Anwar menjual 32,16 juta saham pada 16 September 2026 seharga Rp437 per lembar, melepas 99,99 persen kepemilikannya hingga hak suaranya menjadi nol persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T22:29:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-8160-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "saham",
+   "direksi",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Anita Anwar, anggota Direksi Sarana Menara Nusantara Tbk (TOWR), melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 32.164.000 lembar saham TOWR pada 16 September 2026 dengan harga Rp437 per saham. Total nilai transaksi tersebut sekitar Rp14,06 miliar. Penjualan ini tercatat bersifat tidak langsung dengan tujuan divestasi.",
+   "Sebelum transaksi, Anita memegang 32.166.600 lembar saham TOWR, setara 0,054 persen dari seluruh saham beredar perusahaan. Setelah penjualan, kepemilikannya tersisa hanya 2.600 lembar, sehingga hak suaranya di perusahaan turun menjadi 0,00 persen. Dengan kata lain, ia melepas 99,99 persen dari saham yang sebelumnya ia miliki.",
+   "Laporan ini muncul berdekatan dengan laporan direksi TOWR lainnya, Indra Gunawan, yang juga melepas 97,1 persen dari seluruh saham TOWR yang ia miliki. Dalam rentang waktu yang berdekatan, dua anggota direksi TOWR sama-sama melepas hampir seluruh kepemilikan saham mereka di perusahaan."
+  ],
+  "fotoAdegan": "Technicians inspecting a tall steel telecommunications tower against a clear sky in rural Indonesia, safety harnesses visible.",
+  "takeaway": "Laporan ini negatif bagi persepsi pasar terhadap TOWR, karena Anita Anwar tidak sekadar mengurangi sebagian kecil kepemilikannya, melainkan melepas 99,99 persen sahamnya hingga hak suaranya di perusahaan menjadi nol. Yang tersentuh di sini adalah komposisi kepemilikan insider dan hak suara, bukan laporan keuangan perusahaan, tapi pelaku pasar tetap memperhatikannya karena pelepasan besar oleh direksi bisa mencerminkan pandangan mereka sendiri terhadap prospek perusahaan ke depan. Ini menambah rentetan laporan serupa, setelah direksi TOWR lainnya, Indra Gunawan, juga melepas 97,1 persen sahamnya dalam waktu berdekatan, sehingga pola pelepasan oleh lebih dari satu direksi patut dicermati. Yang perlu dipantau selanjutnya adalah apakah ada laporan kepemilikan serupa dari direksi atau komisaris TOWR lain, dan apakah perusahaan memberi penjelasan resmi ke bursa soal alasan di balik pelepasan saham insider yang beruntun ini.",
+  "sentimen": "negatif"
  },
  {
   "slug": "arko-lanjutkan-buyback-sudah-beli-70-juta-saham",
@@ -880,6 +932,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "bbkp-nim-kb-bank-membaik-ke-1-96-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "BBKP: NIM KB Bank [Membaik] ke 1,96% di Semester I 2026",
+  "deck": "KB Bank melaporkan aset, kredit, dan dana pihak ketiga tumbuh dua digit pada semester I 2026, dengan margin bunga bersih dan kualitas kredit yang ikut membaik dari tahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T20:32:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1d99b5423_77773099b3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBKP",
+  "tags": [
+   "BBKP",
+   "KB Bank",
+   "kinerja keuangan",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank KB Indonesia Tbk (BBKP) atau KB Bank mencatat total aset tumbuh 12,71 persen secara tahunan menjadi Rp86,11 triliun pada semester I 2026. Perusahaan menyebut pertumbuhan ini ditopang penguatan fungsi intermediasi, yaitu penyaluran kredit, dan fungsi pendanaan bank. Total kredit yang disalurkan mencapai Rp44,97 triliun, naik 4,38 persen dibanding periode sama tahun lalu, dengan manajemen menyebut penyalurannya dilakukan selektif dengan tetap memperhatikan kualitas aset dan profil risiko.",
+   "Di sisi pendanaan, dana pihak ketiga (DPK) naik 12,44 persen menjadi Rp45,57 triliun. Dana murah dari giro dan tabungan atau CASA tumbuh lebih cepat, 15,25 persen, menjadi Rp14,71 triliun, sehingga rasio CASA terhadap total DPK naik ke 32,27 persen dan tetap berada di atas 30 persen. Pendapatan bunga bersih (NII) melonjak 54,44 persen menjadi Rp695 miliar, sementara margin bunga bersih (NIM) naik dari 1,33 persen pada semester I 2025 menjadi 1,96 persen. Kualitas kredit juga membaik, tercermin dari rasio kredit berisiko (Loan at Risk) yang turun dari 24,45 persen menjadi 21,93 persen.",
+   "Direktur Utama KB Bank, Kunardy Darma Lie, mengatakan penguatan fundamental ini dijalankan secara selektif dan terukur dengan menjaga keseimbangan antara pertumbuhan bisnis, kualitas aset, dan keberlanjutan kinerja. Perusahaan juga mengungkapkan bahwa laporan keuangan semester I 2026 telah melalui proses audit sebagai bagian dari pembentukan Perusahaan Induk Konglomerasi Keuangan (PIKK) serta untuk mendukung rencana penerbitan obligasi global KB Bank, meski belum ada tanggal pasti yang diumumkan untuk kedua proses tersebut."
+  ],
+  "fotoAdegan": "Bank employees assisting customers at a teller counter in a busy Jakarta branch, soft afternoon light, people waiting in line",
+  "takeaway": "Laporan ini condong positif bagi KB Bank, karena hampir seluruh indikator inti perbankannya membaik serentak, bukan sekadar pertumbuhan aset di atas kertas. Yang paling berarti adalah margin bunga bersih atau selisih antara bunga yang diterima bank dari kredit dan bunga yang dibayarkannya ke nasabah, yang naik dari 1,33 persen jadi 1,96 persen, tanda bank makin efisien mengelola dana murahnya. Kualitas kredit juga menguat, terlihat dari porsi kredit berisiko yang turun dari 24,45 persen jadi 21,93 persen, sehingga potensi kredit bermasalah mengecil. Data ini melengkapi laporan kami sebelumnya bahwa laba bersih KB Bank anjlok 95 persen pada semester yang sama akibat hilangnya untung non operasional besar tahun lalu, sementara siaran pers ini menunjukkan bisnis inti perbankannya justru menguat. Yang perlu dipantau berikutnya adalah kelanjutan pembentukan Perusahaan Induk Konglomerasi Keuangan dan rencana penerbitan obligasi global KB Bank yang disebut menjadi alasan laporan keuangan ini diaudit, karena keduanya bisa mengubah struktur permodalan dan pendanaan bank ke depan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "smdr-suntik-modal-rp33-7-miliar-ke-anak-usaha-properti",
   "category": "Aksi Korporasi",
   "title": "SMDR Suntik Modal [Rp33,7 Miliar] ke Anak Usaha Properti",
@@ -960,6 +1038,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "towr-direksi-lepas-88-5-saham-hak-suara-ke-0-02",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Direksi [Lepas] 88,5% Saham, Hak Suara ke 0,02%",
+  "deck": "Direksi TOWR Ferdinandus Aming Santoso menjual 96,99 juta saham pada 16 September 2026, memangkas 88,49 persen kepemilikannya dan menurunkan hak suara jadi 0,0213 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T19:25:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-6018-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "divestasi saham",
+   "direksi"
+  ],
+  "body": [
+   "Ferdinandus Aming Santoso, anggota Direksi PT Sarana Menara Nusantara Tbk (TOWR), melaporkan penjualan 96.998.000 lembar saham TOWR kepada Otoritas Jasa Keuangan pada 18 September 2026. Transaksi tercatat sebagai penjualan tidak langsung dengan tujuan divestasi, dilakukan pada 16 September 2026 di harga Rp437 per saham.",
+   "Sebelum transaksi, Ferdinandus tercatat memiliki 109.611.281 lembar saham TOWR, setara 0,1854 persen hak suara perusahaan. Setelah pelepasan tersebut, kepemilikannya tersisa 12.613.281 lembar dengan hak suara turun menjadi 0,0213 persen. Jumlah saham yang dilepas setara 88,49 persen dari seluruh kepemilikannya sebelum transaksi.",
+   "Laporan ini menyusul dua laporan serupa dari jajaran direksi TOWR dalam pekan yang sama. Pada 18 September 2026, direksi Anita Anwar melaporkan pelepasan 99,99 persen sahamnya hingga hak suaranya mendekati nol, dan direksi Indra Gunawan melaporkan pelepasan 97,1 persen sahamnya, keduanya juga bertransaksi di harga Rp437 per saham."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians inspecting steel lattice structure on a hillside at dusk in rural Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi persepsi pasar terhadap TOWR, karena Ferdinandus melepas 88,49 persen dari seluruh sahamnya sendiri, menambah rentetan tiga direksi yang menjual mayoritas kepemilikan pribadi mereka dalam pekan yang sama dan di harga jual yang sama, Rp437 per saham. Transaksi ini adalah pengalihan kepemilikan antar pihak, bukan penerbitan saham baru, sehingga tidak menambah jumlah saham beredar TOWR maupun mengubah laba per saham, tetapi pelaku pasar tetap memperhatikan pola pelepasan besar oleh orang dalam karena biasanya dibaca sebagai sinyal soal keyakinan manajemen atas prospek perusahaan. Yang perlu dipantau berikutnya adalah apakah direksi atau komisaris TOWR lain turut melaporkan pelepasan serupa dalam waktu dekat, dan apakah manajemen memberi penjelasan resmi ke bursa soal alasan di balik rentetan divestasi ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "towr-komisaris-divestasi-saham-senilai-rp3-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Komisaris [Divestasi] Saham Senilai Rp3,4 Miliar",
+  "deck": "Komisaris TOWR Ario Wibisono melepas 7,86 juta saham tidak langsung senilai sekitar Rp3,4 miliar pada 16 September 2026, namun porsinya hanya 3,15 persen dari kepemilikannya sendiri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T19:05:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-8351-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Anggota Dewan Komisaris Sarana Menara Nusantara Tbk (TOWR), Ario Wibisono, melaporkan penjualan 7.861.000 lembar saham TOWR yang dimilikinya secara tidak langsung. Transaksi dilakukan pada 16 September 2026 dengan harga Rp437 per saham, sehingga nilainya sekitar Rp3,44 miliar, dengan tujuan yang tertulis dalam laporan sebagai divestasi. Laporan disampaikan ke Otoritas Jasa Keuangan pada 18 September 2026 sesuai kewajiban keterbukaan kepemilikan saham perusahaan terbuka.",
+   "Dengan penjualan ini, jumlah saham TOWR yang dipegang Ario berkurang dari 249.516.800 lembar menjadi 241.655.800 lembar. Hak suaranya di perusahaan turun tipis dari 0,422 persen menjadi 0,4089 persen. Dibandingkan total kepemilikannya sendiri, saham yang dilepas hanya setara 3,15 persen.",
+   "Laporan ini melanjutkan rentetan pelaporan penjualan saham TOWR oleh jajaran direksi dan komisaris dalam sepekan terakhir. Sebelumnya, Anita Anwar melepas 99,99 persen sahamnya hingga hak suaranya nol, Ferdinandus melepas 88,5 persen sahamnya, dan Indra Gunawan melepas 97,1 persen sahamnya, semuanya di harga yang sama, Rp437 per saham."
+  ],
+  "fotoAdegan": "Telecommunication transmission towers rising above a rural landscape at dusk, a technician inspecting equipment near the base.",
+  "takeaway": "Laporan ini netral bagi persepsi pasar terhadap TOWR, karena saham yang dilepas Ario Wibisono cuma 3,15 persen dari kepemilikannya sendiri dan hak suaranya di perusahaan nyaris tidak bergeser, dari 0,422 persen menjadi 0,4089 persen. Transaksi sekecil ini tidak menyentuh jumlah saham beredar perusahaan maupun laba per saham, yaitu keuntungan yang dibagi rata ke tiap lembar saham TOWR, karena porsi kepemilikan Ario di perusahaan memang kecil sejak awal. Yang justru perlu dicermati adalah polanya, bukan transaksi tunggal ini: laporan ini adalah laporan keempat dari direksi atau komisaris TOWR yang melepas saham dalam sepekan terakhir, setelah tiga laporan sebelumnya menunjukkan pelepasan dalam porsi jauh lebih besar oleh Anita Anwar, Ferdinandus, dan Indra Gunawan. Pasar akan memperhatikan apakah tren pelepasan saham oleh jajaran insider TOWR ini berlanjut pada laporan-laporan berikutnya ke OJK.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pnmp-listing-obligasi-dan-sukuk-rp2-59-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "PNMP [listing] obligasi dan sukuk Rp2,59 triliun di BEI",
@@ -984,6 +1114,32 @@ var ARTICLES = [
   "fotoAdegan": "A microfinance loan officer meeting with a group of women market vendors under stall awnings in an Indonesian village square, mid-morning",
   "takeaway": "Penerbitan tahap baru ini tergolong netral bagi kinerja PNM, karena merupakan bagian rutin dari program dana berkelanjutan yang sudah direncanakan sejak pernyataan efektif OJK pada Juni 2025, bukan tanda mendadak butuh dana darurat. Yang tersentuh adalah beban bunga, sebab PNM kini wajib membayar bunga obligasi dan bagi hasil sukuk setiap tiga bulan mulai 18 Desember 2026, sementara di sisi lain kas perseroan bertambah sekitar Rp2,59 triliun yang menurut dokumen ini akan mendukung penyaluran pembiayaan mikro lewat jaringan UlaMM dan PNM Mekaar. Peringkat idAAA dari PEFINDO, peringkat tertinggi yang bisa diberikan lembaga pemeringkat, menandakan pasar menilai kemampuan PNM membayar kembali utangnya masih kuat, meski bisnis intinya adalah pembiayaan mikro yang secara alami rawan gagal bayar dari debitur kecil. Yang perlu dipantau berikutnya adalah kelancaran pencatatan resmi di BEI pada 21 September 2026 dan pembayaran bunga atau bagi hasil pertama pada 18 Desember 2026, sebagai indikator awal kesehatan seri ini. Dari total target program Rp16 triliun, PNM baru merealisasikan sekitar Rp10,1 triliun, sehingga tahap-tahap penerbitan berikutnya kemungkinan masih akan menyusul.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "towr-komisaris-divestasi-100-saham-suara-nol",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Komisaris [Divestasi] 100% Saham, Suara Nol",
+  "deck": "Kenny Harjo, Komisaris Sarana Menara Nusantara, melepas seluruh 7.861.000 sahamnya di harga Rp437 per lembar pada 16 September 2026, hak suaranya jadi nol.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:56:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-4128-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "Kepemilikan Saham",
+   "Komisaris"
+  ],
+  "body": [
+   "Kenny Harjo, anggota Dewan Komisaris Sarana Menara Nusantara Tbk (TOWR), melaporkan ke Otoritas Jasa Keuangan bahwa ia telah menjual seluruh 7.861.000 lembar saham TOWR yang dimilikinya. Transaksi tercatat pada 16 September 2026 dengan harga Rp437 per saham, sehingga nilai totalnya sekitar Rp3,44 miliar. Jenis transaksi dicatat sebagai Repurchase Agreement dengan tujuan divestasi, dan kepemilikan Kenny Harjo di TOWR kini menjadi nol lembar.",
+   "Sebelum transaksi, hak suara Kenny Harjo di TOWR tercatat 0,0133 persen. Setelah seluruh sahamnya terjual, hak suaranya turun menjadi 0 persen, yang berarti ia sudah tidak lagi memiliki kepentingan kepemilikan apa pun di perusahaan menara telekomunikasi tersebut.",
+   "Laporan ini merupakan yang kelima dalam sepekan terakhir dari jajaran direksi dan komisaris TOWR yang melepas saham dalam porsi besar. Sebelumnya Anita Anwar melepas 99,99 persen sahamnya, Indra Gunawan 97,1 persen, dan Ferdinandus 88,5 persen, sementara Ario Wibisono hanya melepas 3,15 persen dari kepemilikannya sendiri."
+  ],
+  "fotoAdegan": "Telecommunication towers rising above a rural Indonesian landscape at dusk, a technician checking equipment near the base",
+  "takeaway": "Laporan ini negatif bagi persepsi pasar terhadap TOWR, karena Kenny Harjo tidak menyisakan sedikit pun sahamnya dan hak suaranya di perusahaan turun dari 0,0133 persen menjadi nol. Hak suara mencerminkan porsi kendali seorang pemegang saham dalam rapat perusahaan, jadi ketika seorang komisaris melepas seluruh sahamnya, pasar biasanya membaca itu sebagai tanda ia sudah tidak punya kepentingan langsung lagi di kinerja perusahaan ke depan. Laporan ini juga jadi yang kelima dalam sepekan terakhir dari insider TOWR yang melepas saham dalam porsi besar dengan harga sama, Rp437 per saham, dan tanggal transaksi sama, 16 September 2026, sebuah pola yang lebih mencolok dibanding satu laporan berdiri sendiri. Yang perlu dipantau berikutnya adalah apakah masih ada laporan serupa menyusul dari insider TOWR lainnya, dan apakah perusahaan memberi penjelasan ke bursa mengenai alasan di balik rentetan pelepasan saham yang seragam ini.",
+  "sentimen": "negatif"
  },
  {
   "slug": "lpdb-koperasi-jemput-bola-danai-umkm-di-borobudur-expo",
@@ -1088,6 +1244,32 @@ var ARTICLES = [
   "fotoAdegan": "An insurance agent explaining a policy folder to a client across a desk in a modern Jakarta office, warm morning light",
   "takeaway": "Laporan ini condong positif bagi JMAS, karena laba bersih dan laba per saham naik hampir dua kali lipat meski pendapatan sedikit menyusut, tanda perseroan menekan beban operasional lebih efisien. Yang tersentuh adalah arus kas dari kegiatan operasional, yang melonjak dari Rp13,09 miliar menjadi Rp70,87 miliar, menunjukkan uang tunai yang benar-benar masuk ke kas perusahaan bertambah jauh lebih besar dibanding laba di atas kertas. Ekuitas, yaitu selisih antara aset dan utang yang menjadi modal milik pemegang saham, juga naik tipis ke Rp128,24 miliar, sementara jumlah saham beredar tidak berubah sehingga kenaikan laba per saham murni berasal dari perbaikan kinerja, bukan pengurangan jumlah saham. Yang perlu dicermati adalah liabilitas yang tumbuh lebih cepat, 46,4 persen, dibanding aset yang 39,2 persen, hal yang lazim pada asuransi yang sedang tumbuh karena premi yang diterima otomatis tercatat sebagai kewajiban ke pemegang polis, tapi tetap layak dipantau agar tidak menggerus modal ke depan. Karena angka di laporan ini masih berstatus tidak diaudit dan sudah sekali dikoreksi dari versi 30 Oktober 2025, laporan keuangan tahunan teraudit untuk tahun buku 2025 akan jadi penentu apakah angka-angka ini bertahan atau berubah lagi.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "bmri-kepemilikan-direksi-tak-berubah-usai-transaksi-repo",
+  "category": "Aksi Korporasi",
+  "title": "BMRI: Kepemilikan Direksi Tak Berubah usai Transaksi [Repo]",
+  "deck": "Direksi Bank Mandiri melaporkan transaksi perjanjian jual beli kembali atas 477.752 saham pada 31 Agustus 2026, namun kepemilikannya tetap di 21.036 lembar setara 1 persen hak suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:22:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-9305-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "Bank Mandiri",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "PT Bank Mandiri (Persero) Tbk (BMRI) menerima laporan kepemilikan saham dari salah satu anggota direksinya, Muhammad Haikal Hi Bayan, tertanggal 18 September 2026. Laporan itu menyebutkan jumlah saham yang dipegangnya sebelum dan sesudah transaksi sama-sama 21.036 lembar, dengan hak suara tetap berada di posisi 1,00 persen, sehingga tidak terjadi perubahan kepemilikan bersih.",
+   "Dalam rincian transaksi, dokumen mencatat dua entri dengan tanggal yang sama, 31 Agustus 2026. Entri pertama berupa eksekusi atas saham yang sebelumnya dijaminkan lewat perjanjian jual beli kembali atau repurchase agreement, sebanyak 477.752 lembar saham biasa dengan nilai tercatat Rp480.047. Entri kedua berupa pembelian kembali dalam jumlah dan tanggal yang persis sama. Tujuan kedua transaksi tercatat sebagai \"aset\" dalam formulir pelaporan kepada Otoritas Jasa Keuangan.",
+   "Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 1 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi dan komisaris perusahaan terbuka melaporkan setiap perubahan kepemilikan maupun aktivitas penjaminan saham perusahaan kepada regulator."
+  ],
+  "fotoAdegan": "Exterior facade of a modern bank headquarters building in Jakarta with reflective glass windows under a clear blue sky",
+  "takeaway": "Laporan ini netral bagi Bank Mandiri, sebab kepemilikan direksi pelapor sama sekali tidak berubah, tetap 21.036 lembar dengan hak suara 1,00 persen baik sebelum maupun sesudah transaksi. Yang tersentuh di sini hanyalah aktivitas gadai dan pembelian kembali saham pribadi sang direksi lewat perjanjian repo, bukan struktur permodalan atau arus kas perusahaan, sehingga jumlah saham beredar BMRI dan laba per saham tidak terpengaruh. Penjaminan saham oleh direksi tetap layak dicermati karena menunjukkan adanya keterlibatan utang pribadi yang dijamin dengan saham perusahaan, meski dalam skala yang sangat kecil dibanding total saham beredar bank. Yang perlu dipantau selanjutnya adalah apakah direksi ini kembali menjaminkan sahamnya pada periode berikutnya, mengingat siklus repo yang dilaporkan kali ini sudah tuntas per 31 Agustus 2026 tanpa mengubah posisi kepemilikannya.",
+  "sentimen": "netral"
  },
  {
   "slug": "chek-rampungkan-buyback-80-juta-saham-rp11-99-m",
@@ -1226,6 +1408,32 @@ var ARTICLES = [
   "imageV": "mu6v4jc9"
  },
  {
+  "slug": "towr-direksi-lepas-90-8-saham-suara-ke-0-007",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Direksi [Lepas] 90,8% Saham, Suara ke 0,007%",
+  "deck": "Direksi TOWR Eko Santoso Hadiprodjo menjual 39,67 juta lembar saham senilai sekitar Rp17,34 miliar pada 16 September 2026, melepas 90,85 persen kepemilikannya untuk tujuan divestasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:02:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-6867-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "divestasi saham",
+   "kepemilikan direksi",
+   "Sarana Menara Nusantara"
+  ],
+  "body": [
+   "Eko Santoso Hadiprodjo, anggota Direksi PT Sarana Menara Nusantara Tbk (TOWR), melaporkan penjualan tidak langsung sebanyak 39.673.000 lembar saham TOWR pada 16 September 2026 dengan harga Rp437 per saham, sehingga total nilai transaksi sekitar Rp17,34 miliar. Kepemilikannya di TOWR turun dari 43.670.000 lembar menjadi 3.997.000 lembar, atau berkurang 90,85 persen dari saham yang sebelumnya ia pegang. Tujuan transaksi yang dicantumkan dalam laporan ke Otoritas Jasa Keuangan adalah divestasi.",
+   "Akibat penjualan ini, hak suara Eko Santoso di TOWR anjlok dari 0,074 persen menjadi 0,007 persen. Laporan disampaikan pada 18 September 2026, sesuai kewajiban keterbukaan kepemilikan saham perusahaan terbuka yang berlaku bagi direksi dan komisaris.",
+   "Laporan ini menambah daftar pelepasan saham oleh jajaran direksi dan komisaris TOWR dalam sepekan terakhir. Sebelumnya, Direksi Anita Anwar melepas 99,99 persen sahamnya hingga hak suara nol, Direksi Ferdinandus melepas 88,49 persen, Komisaris Kenny Harjo melepas seluruh sahamnya, dan Direksi Indra Gunawan melepas 97,1 persen sahamnya di harga yang sama, Rp437 per saham. Hanya laporan Komisaris Ario Wibisono yang tergolong kecil, yakni 3,15 persen dari kepemilikannya."
+  ],
+  "fotoAdegan": "Telecommunication tower technician in safety harness inspecting antenna equipment high on a steel lattice tower, clear sky",
+  "takeaway": "Laporan ini negatif bagi persepsi pasar terhadap TOWR, karena Eko Santoso melepas 90,85 persen dari seluruh saham yang ia pegang, bukan sekadar sebagian kecil, sehingga hak suaranya nyaris hilang dari 0,074 persen menjadi 0,007 persen. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham dalam rapat umum, bukan langsung laporan keuangan perusahaan, tapi pelaku pasar tetap memperhatikannya karena pelepasan besar-besaran oleh orang dalam biasa dibaca sebagai sinyal soal keyakinan manajemen terhadap perusahaan sendiri. Laporan ini juga menambah rentetan pelepasan saham serupa dari jajaran direksi dan komisaris TOWR dalam sepekan terakhir, setidaknya empat laporan lain sebelumnya mencatat pelepasan mayoritas saham oleh Anita Anwar, Ferdinandus, Kenny Harjo, dan Indra Gunawan. Yang perlu dipantau selanjutnya adalah apakah manajemen TOWR memberi penjelasan resmi ke Bursa Efek Indonesia soal pola pelepasan saham beruntun ini, dan apakah masih ada direksi atau komisaris lain yang akan menyusul dalam waktu dekat.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "rgas-jelaskan-ke-bursa-piutang-berelasi-turun-98",
   "category": "Aksi Korporasi",
   "title": "RGAS Jelaskan ke Bursa, [Piutang] Berelasi Turun 98%",
@@ -1303,6 +1511,57 @@ var ARTICLES = [
   "fotoAdegan": "Workers packing snack food products on a factory conveyor belt under bright industrial lighting in Indonesia",
   "takeaway": "Surat ini pada dasarnya netral karena isinya menegaskan tidak ada informasi material yang disembunyikan dan pemegang saham mayoritas tidak berencana menjual atau menambah kepemilikannya dalam waktu dekat. Yang patut dicermati adalah pengakuan bahwa Diamond Food belum memenuhi kewajiban jumlah saham beredar di publik atau free float sesuai aturan bursa, sehingga perseroan tengah menimbang opsi aksi korporasi, misalnya menerbitkan saham baru untuk pihak di luar pemegang saham utama, guna menambah porsi saham yang beredar di publik. Kalau opsi itu nantinya berupa penerbitan saham baru, jumlah saham beredar bertambah dan itu berpotensi mengurangi laba per saham yang didapat tiap pemegang saham lama, sesuatu yang biasa diawasi pelaku pasar karena bisa mengecilkan bagian keuntungan per lembar saham mereka. Yang perlu dipantau selanjutnya adalah kapan Diamond Food mengumumkan bentuk dan jadwal pasti aksi korporasi tersebut, karena hingga surat 18 September 2026 ini terbit, keputusannya masih tahap kajian awal dan belum ada kepastian dampaknya terhadap porsi kepemilikan Chen Tsen Nan selaku pemegang saham mayoritas.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "impc-tunggal-jaya-investama-tambah-pembelian-3-35-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "IMPC: Tunggal Jaya Investama Tambah [Pembelian] 3,35 Juta Saham",
+  "deck": "Tunggal Jaya Investama membeli 3,35 juta saham IMPC pada 15 dan 17 September 2026, menambah kepemilikannya menjadi 21,1 miliar lembar tanpa mengubah hak suara di 38,42 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T17:32:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-6972-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IMPC",
+  "tags": [
+   "IMPC",
+   "Impack Pratama Industri",
+   "kepemilikan saham",
+   "OJK"
+  ],
+  "body": [
+   "Tunggal Jaya Investama, pemegang saham PT Impack Pratama Industri Tbk (IMPC) dengan hak suara 38,42 persen, melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya membeli saham IMPC dalam dua transaksi pada pertengahan September 2026. Pembelian pertama sebanyak 3.150.000 saham dilakukan pada 15 September 2026 dengan harga Rp1.646 per saham, disusul pembelian kedua sebanyak 200.000 saham pada 17 September 2026 dengan harga Rp1.672 per saham. Kedua transaksi dicatat sebagai pembelian tidak langsung dengan tujuan investasi.",
+   "Dengan tambahan itu, kepemilikan Tunggal Jaya Investama di IMPC naik dari 21.092.717.194 lembar menjadi 21.096.067.194 lembar, atau bertambah 3.350.000 lembar saham. Kendati jumlah sahamnya bertambah, hak suara Tunggal Jaya Investama di IMPC tetap tercatat 38,42 persen, sama seperti sebelum transaksi, karena porsi tambahan tersebut hanya sekitar 0,016 persen dari total kepemilikannya."
+  ],
+  "fotoAdegan": "Workers inspecting rolls of plastic roofing sheets inside an industrial warehouse, sunlight streaming through skylights",
+  "takeaway": "Laporan ini netral bagi IMPC karena pembelian 3,35 juta saham oleh Tunggal Jaya Investama hanya setara 0,016 persen dari kepemilikannya yang sudah mencapai lebih dari 21 miliar lembar, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan besar terhadap prospek perusahaan. Yang tersentuh di sini adalah komposisi pemegang saham dan hak suara, yaitu porsi suara yang dipegang seseorang dalam rapat pemegang saham, dan pasar memperhatikannya karena hak suara yang tetap di 38,42 persen berarti tidak ada pergeseran kendali di IMPC. Yang perlu dicermati selanjutnya adalah apakah Tunggal Jaya Investama kembali menambah kepemilikannya dalam laporan-laporan berikutnya ke OJK, sebab akumulasi bertahap seperti ini baru punya arti kalau berlanjut dalam jumlah yang jauh lebih besar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-direksi-jual-611-juta-saham-suara-turun-ke-14-06",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi [Jual] 611 Juta Saham, Suara Turun ke 14,06%",
+  "deck": "Direksi Nusantara Sawit Sejahtera melepas 611,3 juta saham senilai sekitar Rp571,3 miliar lewat dua transaksi repo, hak suara turun dari 16,62% jadi 14,06%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T17:20:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7390-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo saham"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) melaporkan ke Otoritas Jasa Keuangan bahwa seorang direksi perseroan, yang tercatat dengan nama Samuel Sekuritas Indonesia sesuai Single Investor Identification (SID), menjual 611.331.200 saham NSSS pada 18 September 2026. Jumlah saham yang dimiliki direksi tersebut berkurang dari 3.956.944.700 lembar menjadi 3.345.613.500 lembar, sementara hak suaranya di perseroan turun dari 16,62% menjadi 14,06%.",
+   "Penjualan dilakukan lewat dua transaksi yang berstatus Repurchase Agreement, yakni perjanjian jual saham dengan janji membeli kembali yang biasa dipakai sebagai skema pembiayaan berbasis saham. Transaksi pertama melepas 304.484.200 saham pada harga Rp1.050 per saham dengan tujuan preterminate atau pengakhiran perjanjian repo lebih awal, senilai sekitar Rp319,71 miliar. Transaksi kedua melepas 306.847.000 saham pada harga Rp820 per saham dengan tujuan pencairan, senilai sekitar Rp251,61 miliar. Total nilai kedua transaksi ini sekitar Rp571,32 miliar.",
+   "Laporan ini merupakan yang ketiga dari direksi yang sama dalam sepekan terakhir terkait skema repo saham NSSS. Pada 17 September, direksi ini sudah melaporkan pelepasan 904 juta saham yang membuat hak suaranya turun ke 16,62%, dan pada 15 September melepas 1,18 miliar saham dengan hak suara turun ke 20,42%, setelah sebelumnya sempat menerima kembali saham dari pengembalian repo. Dengan laporan terbaru ini, hak suara direksi tersebut kini berada di 14,06%, level terendah dalam rangkaian laporan sepekan ini."
+  ],
+  "fotoAdegan": "Workers harvesting fresh oil palm fruit bunches in a plantation, loaded trucks nearby, tropical morning light",
+  "takeaway": "Laporan ini saya nilai negatif bagi NSSS, karena melanjutkan rangkaian pelepasan saham oleh direksi yang sama sepanjang pekan ini, dengan hak suaranya kini menyusut ke 14,06% dari sempat berada di atas 20% beberapa hari sebelumnya. Yang tersentuh di sini bukan ekuitas atau laba perseroan, sebab jumlah saham beredar NSSS tidak berubah, melainkan konsentrasi kepemilikan dan hak suara direksi. Repurchase Agreement pada dasarnya adalah pembiayaan dengan saham sebagai jaminan, sehingga pelepasan berulang lewat skema ini bisa berarti direksi butuh dana tunai atau memilih mengurangi eksposurnya sendiri, dan pola semacam ini biasa dicermati pasar sebagai sinyal soal keyakinan orang dalam terhadap sahamnya. Yang perlu dipantau berikutnya adalah apakah direksi yang sama akan kembali melaporkan pelepasan lewat repo dalam beberapa hari ke depan, mengingat sudah tiga laporan keterbukaan serupa muncul dalam lima hari terakhir, dan apakah hak suaranya akan terus tergerus dari level 14,06% saat ini.",
+  "sentimen": "negatif"
  },
  {
   "slug": "prda-buyback-saham-tembus-11-74-juta-lembar-per-18-september",
@@ -1487,6 +1746,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "mglv-nextier-jual-7-juta-saham-senilai-rp70-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MGLV: Nextier Jual [7 Juta] Saham Senilai Rp70 Miliar",
+  "deck": "PT Nextier Datamate Center melepas 7 juta saham MGLV secara tidak langsung dalam dua transaksi, menurunkan hak suaranya dari 63,07% menjadi 62,71%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:29:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7714-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "Kepemilikan Saham",
+   "Nextier Datamate Center",
+   "Pasar Modal"
+  ],
+  "body": [
+   "PT Nextier Datamate Center, pemegang saham PT Panca Anugrah Wisesa Tbk (MGLV) yang bukan berasal dari jajaran direksi atau komisaris, melaporkan penjualan saham secara tidak langsung sebanyak 7.000.000 lembar saham biasa MGLV. Penjualan dilakukan dalam dua transaksi terpisah pada 17 dan 18 September 2026, masing-masing di harga Rp10.000 per lembar, sehingga total nilai transaksi sekitar Rp70 miliar.",
+   "Rinciannya, pada 17 September 2026 terjual 6.896.500 lembar saham, disusul 103.500 lembar pada 18 September 2026. Dengan transaksi ini, kepemilikan Nextier di MGLV berkurang dari 1.201.500.000 lembar menjadi 1.194.500.000 lembar.",
+   "Akibat penjualan tersebut, hak suara Nextier di MGLV turun dari 63,07 persen menjadi 62,71 persen. Meski begitu, Nextier tetap memegang lebih dari separuh hak suara perusahaan sehingga statusnya sebagai pemegang saham mayoritas tidak berubah."
+  ],
+  "fotoAdegan": "Technicians walking between rows of humming server racks in a data center, cool blue indicator lights, wide corridor view",
+  "takeaway": "Laporan ini netral bagi fundamental MGLV, karena saham yang dilepas Nextier hanya sekitar 0,58 persen dari kepemilikannya dan hak suaranya nyaris tidak bergeser, dari 63,07 menjadi 62,71 persen, jadi belum bisa dibaca sebagai sinyal pemegang saham pengendali mulai keluar. Yang disentuh di sini adalah komposisi hak suara, yaitu porsi kendali seorang pemegang saham atas keputusan perusahaan lewat RUPS, dan pasar memperhatikannya karena perubahan besar bisa mengubah arah kebijakan perusahaan. Yang perlu dicermati selanjutnya adalah apakah Nextier melanjutkan pelepasan saham dalam laporan berikutnya, sebab jika pola penjualan bertahap ini berlanjut dan mendekati ambang 50 persen, statusnya sebagai pemegang saham mayoritas MGLV bisa mulai goyah.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "doid-suntik-us-4-7-juta-ke-moura-via-buma-indonesia",
   "category": "Aksi Korporasi",
   "title": "DOID Suntik US$4,7 Juta ke [Moura] via BUMA Indonesia",
@@ -1591,6 +1876,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "cpin-ubs-jual-1-19-juta-saham-untuk-lindung-nilai-derivatif",
+  "category": "Aksi Korporasi",
+  "title": "CPIN: UBS Jual [1,19 Juta] Saham untuk Lindung Nilai Derivatif",
+  "deck": "UBS AG London Branch melepas 1,19 juta saham CPIN pada 15 September 2026 untuk lindung nilai transaksi derivatif nasabah, hak suaranya turun tipis ke 5,9995 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:20:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7771-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CPIN",
+  "tags": [
+   "CPIN",
+   "UBS AG",
+   "kepemilikan saham",
+   "Charoen Pokphand"
+  ],
+  "body": [
+   "UBS AG London Branch A/C Client melaporkan penjualan 1.192.600 saham Charoen Pokphand Indonesia Tbk (CPIN) pada 15 September 2026 dengan harga Rp3.111 per saham, atau senilai sekitar Rp3,71 miliar. Dalam laporan ke Otoritas Jasa Keuangan yang diterbitkan 18 September 2026, UBS menyebut transaksi itu dilakukan melalui skema repurchase agreement dengan tujuan lindung nilai atas aktivitas transaksi derivatif nasabahnya.",
+   "Dengan penjualan ini, kepemilikan UBS AG London Branch A/C Client di CPIN berkurang dari 984.998.447 lembar saham menjadi 983.805.847 lembar saham. Hak suara mereka di perusahaan pun turun tipis dari 6,01 persen menjadi 5,9995 persen. UBS melaporkan diri sebagai pemegang langsung dan bukan bagian dari jajaran direksi atau dewan komisaris CPIN, serta tercatat sebagai warga negara asing dalam laporan tersebut.",
+   "Laporan yang sama turut mencantumkan sejumlah entitas terafiliasi dalam grup pelapor, yaitu Credit Suisse International, Credit Suisse Securities (Europe) Limited, UBS AG Hong Kong, UBS AG Singapore, dan UBS Switzerland AG, sebagai bagian dari kelompok pemilik saham yang sama."
+  ],
+  "fotoAdegan": "Workers inspecting stacked feed sacks inside a large poultry feed mill warehouse, forklift nearby, industrial daylight",
+  "takeaway": "Laporan ini netral bagi CPIN karena volume yang dilepas UBS hanya 0,12 persen dari kepemilikan mereka sendiri, terlalu kecil untuk dibaca sebagai sinyal soal prospek perusahaan. Yang tersentuh di sini adalah hak suara pemegang saham, yakni proporsi suara yang bisa dipakai UBS dalam RUPS, yang turun tipis dari 6,01 persen menjadi 5,9995 persen. Pasar memperhatikan pos ini karena pemegang saham di atas 5 persen wajib melaporkan setiap perubahan kepemilikannya ke OJK, jadi pergerakan kecil sekalipun tetap tercatat publik. Transaksi ini sendiri dilakukan lewat skema repurchase agreement untuk kebutuhan lindung nilai atas transaksi derivatif nasabah UBS, bukan keputusan strategis atas saham CPIN. Yang perlu dipantau berikutnya adalah apakah UBS terus mengurangi porsinya hingga di bawah ambang 5 persen, karena jika itu terjadi mereka tidak lagi wajib melaporkan perubahan kepemilikan lanjutan ke bursa.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "uvcr-jadwalkan-rupslb-27-oktober-bahas-saham-baru",
   "category": "Aksi Korporasi",
   "title": "UVCR Jadwalkan RUPSLB [27 Oktober], Bahas Saham Baru",
@@ -1617,6 +1928,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "lopi-sentra-amanah-ventura-jual-2-13-juta-saham-kendali-bertahan",
+  "category": "Aksi Korporasi",
+  "title": "LOPI: Sentra Amanah Ventura [Jual] 2,13 Juta Saham, Kendali Bertahan",
+  "deck": "Pengendali LOPI, Sentra Amanah Ventura, menjual 2.134.200 saham senilai Rp131,7 juta pada 9 September 2026. Hak suara turun tipis dari 56,14 persen menjadi 55,94 persen, status pengendali tetap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:15:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7238-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LOPI",
+  "tags": [
+   "LOPI",
+   "kepemilikan saham",
+   "pengendali",
+   "OJK"
+  ],
+  "body": [
+   "PT Logisticsplus International Tbk (LOPI) mendapat laporan perubahan kepemilikan saham dari pemegang saham pengendalinya, Sentra Amanah Ventura, yang disampaikan ke Otoritas Jasa Keuangan pada 18 September 2026. Jumlah saham yang dipegang Sentra Amanah Ventura turun dari 617.503.200 lembar menjadi 615.369.000 lembar, atau berkurang 2.134.200 lembar. Akibatnya, hak suaranya di LOPI turun dari 56,14 persen menjadi 55,94 persen.",
+   "Penurunan ini berasal dari dua transaksi penjualan saham secara tidak langsung yang sama-sama terjadi pada 9 September 2026. Transaksi pertama melepas 620.000 saham biasa pada harga Rp61 per saham, dan transaksi kedua melepas 1.514.200 saham biasa pada harga Rp62 per saham. Total nilai kedua transaksi tersebut sekitar Rp131,7 juta. Dalam dokumen, tujuan transaksi ditulis untuk mengurangi porsi kepemilikan tanpa mengurangi dan melepaskan status kepemilikan mayoritas.",
+   "Sentra Amanah Ventura menegaskan dalam laporan bahwa dirinya tetap berstatus pengendali LOPI dan berniat mempertahankan posisi pengendalian tersebut ke depan. Tidak ada keterangan mengenai anggota kelompok yang terorganisasi dalam laporan ini, dan pelaporan dilakukan langsung oleh Sentra Amanah Ventura sendiri tanpa kuasa dari pihak lain."
+  ],
+  "fotoAdegan": "Warehouse forklift operators stacking cargo pallets inside a logistics distribution center, morning light through high windows",
+  "takeaway": "Laporan ini netral bagi LOPI karena saham yang dilepas Sentra Amanah Ventura hanya sekitar 0,35 persen dari kepemilikannya sendiri, sehingga ukurannya terlalu kecil untuk dibaca sebagai sinyal perubahan sikap pengendali terhadap perusahaan. Yang tersentuh di sini adalah struktur hak suara, yaitu porsi kendali yang dipegang pemegang saham utama, yang turun tipis dari 56,14 persen menjadi 55,94 persen tapi masih jauh di atas ambang mayoritas sehingga tidak mengubah siapa yang mengendalikan LOPI. Transaksi ini juga tidak memengaruhi kas atau ekuitas perusahaan karena sahamnya berpindah tangan di pasar sekunder, bukan penerbitan saham baru oleh LOPI. Yang perlu dipantau adalah apakah Sentra Amanah Ventura akan melanjutkan pelepasan bertahap serupa pada periode berikutnya, karena aturan OJK mewajibkan pelaporan setiap kali terjadi perubahan kepemilikan oleh pemegang saham pengendali.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "defi-jawab-bei-soal-volatilitas-buka-pintu-mitra-strategis",
   "category": "Aksi Korporasi",
   "title": "DEFI Jawab BEI soal Volatilitas, Buka Pintu [Mitra Strategis]",
@@ -1640,6 +1977,57 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Exterior of modern glass office towers in Jakarta's SCBD business district at dusk, pedestrians crossing below",
   "takeaway": "Laporan ini condong netral bagi DEFI, karena inti jawabannya adalah penyangkalan standar bahwa tidak ada informasi material baru, tanpa satu pun angka keuangan atau perubahan konkret yang bisa dinilai sebagai sinyal kuat. Tidak ada pos kinerja yang tersentuh di sini, bukan ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham, karena dokumen ini murni surat kepatuhan menjawab pertanyaan bursa soal pergerakan harga saham yang tidak wajar, bukan laporan keuangan atau aksi korporasi. Yang perlu dicermati adalah pernyataan soal keterbukaan pada mitra strategis, sebab itu mengonfirmasi ada pihak yang sedang menjajaki perusahaan meski belum ada kepastian bentuk maupun waktunya. Pembaca sebaiknya menunggu apakah pembicaraan dengan calon mitra strategis itu berlanjut menjadi keterbukaan informasi baru, dan apakah volatilitas harga saham DEFI mereda atau justru membuat bursa kembali meminta penjelasan serupa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-1-24-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 1,24 juta saham",
+  "deck": "Edwin Soeryadjaya membeli tambahan 1,24 juta saham SRTG pada 16-17 September 2026 di harga Rp1.771 per saham, menaikkan hak suaranya tipis ke 35,9442 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:02:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-4386-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "Edwin Soeryadjaya",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Dewan Komisaris PT Saratoga Investama Sedaya Tbk (SRTG), Edwin Soeryadjaya, melaporkan penambahan kepemilikan saham perseroan lewat dua transaksi pembelian tidak langsung. Transaksi pertama sebanyak 900.000 lembar dieksekusi pada 16 September 2026, disusul 340.000 lembar pada 17 September 2026. Keduanya dilakukan di harga yang sama, Rp1.771 per saham, dengan tujuan yang tercatat sebagai investasi.",
+   "Dengan tambahan total 1.240.000 lembar tersebut, kepemilikan Edwin di SRTG naik dari 4.874.529.190 lembar menjadi 4.875.769.190 lembar. Hak suaranya di perseroan bergerak tipis dari 35,935 persen menjadi 35,9442 persen. Laporan ini disampaikan ke Otoritas Jasa Keuangan pada 18 September 2026 sesuai kewajiban keterbukaan bagi direksi dan komisaris emiten.",
+   "Ini merupakan laporan kedua soal penambahan saham oleh Edwin Soeryadjaya dalam kurun waktu kurang dari sepekan, setelah laporan serupa pada 14 September 2026 untuk transaksi yang berbeda."
+  ],
+  "fotoAdegan": "Quiet marble lobby of a Jakarta corporate high-rise office, soft afternoon light through tall windows, no signage visible",
+  "takeaway": "Laporan ini netral bagi SRTG, karena volume yang dibeli terlalu kecil untuk dibaca sebagai pernyataan sikap komisaris terhadap prospek perusahaan. Yang tersentuh di sini cuma komposisi kepemilikan dan hak suara, bukan kas atau kinerja operasional perusahaan, dan pergeseran hak suara dari 35,935 persen ke 35,9442 persen nyaris tidak mengubah kendali Edwin atas SRTG. Yang perlu dipantau adalah apakah pola pembelian bertahap ini berlanjut di laporan-laporan berikutnya, mengingat ini sudah laporan kedua dalam sepekan terakhir, karena jika terus berulang dan terakumulasi, jumlah gabungannya baru bisa berarti sesuatu meski secara terpisah masing-masing kecil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lopi-sentra-amanah-ventura-jual-14-71-juta-saham-kendali-bertahan",
+  "category": "Aksi Korporasi",
+  "title": "LOPI: Sentra Amanah Ventura Jual 14,71 Juta Saham, [Kendali] Bertahan",
+  "deck": "Sentra Amanah Ventura melepas 14,71 juta saham LOPI dalam lima transaksi pada 8-17 September 2026, menurunkan hak suaranya dari 57,47 persen menjadi 56,14 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T15:59:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-8647-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LOPI",
+  "tags": [
+   "LOPI",
+   "kepemilikan saham",
+   "Logisticsplus International",
+   "pemegang saham mayoritas"
+  ],
+  "body": [
+   "PT Logisticsplus International Tbk (LOPI) menerima laporan perubahan kepemilikan saham dari salah satu pemegang sahamnya, Sentra Amanah Ventura, yang disampaikan ke Otoritas Jasa Keuangan pada 18 September 2026. Berdasarkan laporan itu, jumlah saham LOPI yang dimiliki Sentra Amanah Ventura berkurang dari 632.213.200 lembar menjadi 617.503.200 lembar, atau turun 14.710.000 lembar. Akibatnya, hak suara Sentra Amanah Ventura di LOPI turun dari 57,47 persen menjadi 56,14 persen.",
+   "Penjualan dilakukan secara tidak langsung dalam lima transaksi dengan skema repurchase agreement pada 8 September 2026 dan baru tercatat selesai pada 17 September 2026. Rinciannya adalah penjualan 593.800 saham dengan hak suara multipel seharga Rp64 per saham, serta empat transaksi saham biasa masing-masing 3.928.200 saham di harga Rp61, 3.946.000 saham di harga Rp62, 2.595.200 saham di harga Rp60, dan 3.646.800 saham di harga Rp63 per saham. Dokumen menyebutkan tujuan seluruh transaksi ini adalah mengurangi porsi kepemilikan tanpa mengurangi dan melepaskan status kepemilikan mayoritas."
+  ],
+  "fotoAdegan": "Forklifts moving stacked cargo pallets inside a large logistics warehouse, workers in safety vests, morning light through skylights",
+  "takeaway": "Laporan ini kami nilai netral bagi LOPI karena meski jumlahnya lebih besar dari laporan sehari sebelumnya, porsi yang dilepas Sentra Amanah Ventura hanya 2,33 persen dari kepemilikannya sendiri dan hak suaranya masih di atas 50 persen, sehingga status pemegang saham mayoritas belum berubah. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pengendali, bukan arus kas atau laba perusahaan. Pelaku pasar tetap memperhatikan siapa pemegang saham mayoritas karena pihak inilah yang biasanya menentukan arah keputusan penting lewat rapat pemegang saham. Yang perlu dipantau berikutnya adalah apakah pola penjualan bertahap ini berlanjut, sebab hak suara Sentra Amanah Ventura sudah turun dari 57,47 persen menjadi 56,14 persen hanya dalam hitungan hari, dan bila tren itu terus berlanjut mendekati 50 persen, status pengendali LOPI bisa ikut berubah.",
   "sentimen": "netral"
  },
  {
@@ -1721,6 +2109,31 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang benar-benar berubah dan terukur di sini baru satu dari tiga program yang diumumkan Telin: pengelolaan sampah di ajang BATIC 2026, dengan 2,3 ton sampah tertangani dan 79 persen di antaranya didaur ulang alih-alih dibuang ke tempat pembuangan akhir. Yang terdampak langsung adalah peserta, mitra, dan penyelenggara konferensi itu sendiri, karena programnya baru mengatur transportasi bersama dan pemilihan hotel berlabel ramah lingkungan selama acara berlangsung. Dua pilar lain yang disebut, Connected by Purpose dan Collective Carbon Action, belum dijelaskan mekanismenya sama sekali di sini, jadi belum bisa dibaca apakah keduanya program dengan target dan angka yang jelas atau baru sebatas nama payung. Yang perlu ditunggu adalah apakah Telkom Group merilis rincian dan capaian dua pilar itu setelah BATIC 2026 selesai, serta apakah angka pengelolaan sampah seperti ini akan diukur ulang dan dibandingkan pada edisi BATIC berikutnya.",
   "imageV": "mu6v4jrs"
+ },
+ {
+  "slug": "hrum-direksi-beli-241-000-saham-baru-rp1-003-lembar",
+  "category": "Aksi Korporasi",
+  "title": "HRUM: Direksi [Beli] 241.000 Saham Baru Rp1.003/Lembar",
+  "deck": "Direktur Harum Energy, Stephanus E.D. Sutantio, untuk pertama kalinya memiliki saham HRUM setelah membeli 241.000 lembar pada 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T15:02:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-4173-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRUM",
+  "tags": [
+   "HRUM",
+   "Harum Energy",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Stephanus E.D. Sutantio, yang menjabat sebagai Direksi PT Harum Energy Tbk (HRUM), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 241.000 saham biasa HRUM pada 18 September 2026 dengan harga Rp1.003 per saham. Transaksi ini tercatat dengan tujuan investasi dan dimiliki secara tidak langsung, sesuai laporan yang disampaikan melalui sistem KSEI berdasarkan Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka.",
+   "Sebelum transaksi ini, Stephanus sama sekali belum memegang saham HRUM, dengan hak suara tercatat 0 persen. Setelah pembelian, kepemilikannya menjadi 241.000 unit saham biasa, yang mengangkat hak suaranya menjadi 0,002 persen dari total saham HRUM yang beredar."
+  ],
+  "fotoAdegan": "Coal stockpiles and loading conveyors at a busy river port, tugboat waiting nearby, hazy morning light",
+  "takeaway": "Pembelian ini netral bagi HRUM, karena porsinya sangat kecil, hanya mengangkat hak suara Stephanus dari 0 persen menjadi 0,002 persen, sehingga terlalu tipis untuk dibaca sebagai sinyal keyakinan besar dari jajaran direksi terhadap sahamnya sendiri. Yang tersentuh dari laporan ini cuma pos hak suara milik pelapor secara individu, bukan struktur permodalan HRUM, sebab ini transaksi jual beli di pasar sekunder, bukan penerbitan saham baru, sehingga jumlah saham beredar dan laba per saham perusahaan tidak berubah. Pelaku pasar biasanya memantau transaksi orang dalam semacam ini untuk membaca pandangan mereka terhadap prospek perusahaannya sendiri, meski dalam kasus ini porsinya belum cukup besar untuk disimpulkan sebagai sikap tertentu. Yang perlu dipantau berikutnya adalah apakah Stephanus atau direksi HRUM lain kembali menambah kepemilikan dalam laporan-laporan selanjutnya, karena pola pembelian yang berulang baru bisa menunjukkan arah keyakinan direksi terhadap sahamnya sendiri.",
+  "sentimen": "netral"
  },
  {
   "slug": "ultj-tanggapi-permintaan-bursa-soal-volatilitas-saham",
@@ -1958,6 +2371,31 @@ var ARTICLES = [
   "fotoAdegan": "Construction crew working on an unfinished residential apartment tower, scaffolding and cranes visible, cloudy afternoon light in Jakarta",
   "takeaway": "Laporan ini condong negatif bagi TRUE, karena rugi bersih melebar sekitar 23 persen dibanding semester I 2025, laba kotor menyusut, dan arus kas dari kegiatan operasional berbalik menjadi minus setelah tahun lalu masih positif, tanda bahwa penjualan properti belum cukup menutup biaya operasional dan bunga pinjaman. Yang tersentuh adalah ekuitas dan arus kas, ekuitas turun karena defisit saldo laba terus menumpuk, sementara arus kas negatif berarti perusahaan lebih mengandalkan pinjaman baru daripada hasil penjualan untuk menutup kebutuhan kasnya, terlihat dari utang ke pihak berelasi yang naik Rp17,64 miliar hanya dalam enam bulan. Kenaikan utang ke pihak berelasi ini menambah beban yang harus dibayar di masa depan meski belum membebani laba periode berjalan. Selanjutnya perlu dipantau laporan keuangan kuartal III 2026, sebab tren rugi yang terus melebar dari kuartal I ke semester I akan menentukan apakah perusahaan bisa membalikkan arah sebelum tutup tahun.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "tebe-direksi-denny-ramdhani-divestasi-seluruh-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "TEBE: Direksi Denny Ramdhani [Divestasi] Seluruh Sahamnya",
+  "deck": "Direksi TEBE, GT. Denny Ramdhani, melepas seluruh 50.000 lembar sahamnya seharga Rp2.130 per saham pada 18 September 2026, mengakhiri kepemilikannya di perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T13:10:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7561-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEBE",
+  "tags": [
+   "TEBE",
+   "Dana Brata Luhur",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "PT Dana Brata Luhur Tbk (TEBE) melaporkan ke Otoritas Jasa Keuangan bahwa GT. Denny Ramdhani, anggota Direksi perseroan, telah menjual seluruh saham TEBE yang ia miliki. Berdasarkan laporan kepemilikan saham yang disampaikan 18 September 2026, Denny Ramdhani melepas 50.000 lembar saham biasa TEBE pada tanggal yang sama dengan harga Rp2.130 per saham, dengan tujuan transaksi tercatat sebagai divestasi.",
+   "Sebelum transaksi, Denny Ramdhani memegang 50.000 unit saham TEBE yang setara 0,0038 persen hak suara perseroan. Setelah penjualan tersebut, kepemilikannya menjadi nol saham dengan hak suara 0,00 persen, yang berarti ia sudah tidak lagi tercatat sebagai pemegang saham TEBE. Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, dengan nomor registrasi LK/18092026/0001/1."
+  ],
+  "fotoAdegan": "Heavy mining trucks parked at a dusty coal stockpile site in Kalimantan, early morning light, no signage visible",
+  "takeaway": "Laporan ini netral bagi fundamental Dana Brata Luhur karena nilai transaksinya kecil, sekitar Rp106,5 juta untuk 50.000 lembar saham yang hanya setara 0,0038 persen hak suara perusahaan, sehingga tidak mengubah struktur pemodalan atau kendali perseroan meski Denny Ramdhani kini resmi tidak lagi memegang satu pun saham TEBE. Yang tersentuh di sini adalah jumlah saham di tangan direksi dan hak suaranya, bukan kas, utang, atau laba perusahaan, sebab ini transaksi pribadi seorang direksi menjual portofolionya sendiri, bukan aksi korporasi seperti penerbitan saham baru. Pelaku pasar biasanya tetap mencatat transaksi insider semacam ini untuk melihat apakah ada pola serupa dari direksi atau komisaris lain yang bisa mengindikasikan sikap orang dalam terhadap prospek perusahaan, meski satu transaksi sekecil ini belum cukup untuk disimpulkan sebagai sinyal apa pun. Yang perlu dipantau berikutnya adalah apakah laporan kepemilikan saham dari direksi atau komisaris TEBE lainnya dalam beberapa bulan ke depan menunjukkan pola pelepasan yang lebih luas, karena dokumen ini sendiri tidak mencantumkan agenda korporasi lanjutan seperti RUPS atau tenggat baru.",
+  "sentimen": "netral"
  },
  {
   "slug": "ultj-jadwalkan-rupslb-27-oktober-dps-per-2-oktober",

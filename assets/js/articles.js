@@ -3,6 +3,56 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bei-delisting-etf-xbig-efektif-21-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "BEI Delisting [ETF] XBIG Efektif 21 September 2026",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan ETF XBIG mulai 21 September 2026, hanya dua hari sejak pengumuman, karena permasalahan material di manajer investasi atau bank kustodian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T11:26:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_XBIG_B006_de5c7661-e25c-40cb-b037-cc82961b1356-20260919112559.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XBIG",
+  "tags": [
+   "XBIG",
+   "delisting",
+   "ETF",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan penghapusan pencatatan (delisting) atas Exchange Traded Fund (ETF) berkode XBIG, yaitu Reksa Dana Indeks BNP Paribas IDX Growth30 ETF, yang aset dasarnya berupa saham-saham dalam indeks IDX Growth30. Berdasarkan pengumuman bernomor TEST-B006-19092026-2 yang diterbitkan Divisi Penilaian Perusahaan 1 BEI pada 19 September 2026, jumlah unit penyertaan ETF ini yang tercatat di bursa mencapai 12.700.000.000 unit. Delisting akan berlaku efektif pada 21 September 2026, atau hanya dua hari setelah pengumuman ini terbit.",
+   "Dalam dokumen tersebut, BEI menyebut penyebab delisting adalah adanya permasalahan material menurut Manajer Investasi dan/atau Bank Kustodian pengelola ETF ini, tanpa merinci lebih lanjut bentuk permasalahan yang dimaksud. Pengumuman ini merupakan keputusan sepihak dari bursa terhadap Kontrak Investasi Kolektif (KIK) XBIG, bukan laporan yang diajukan oleh manajer investasinya sendiri."
+  ],
+  "fotoAdegan": "Wide daylight shot of the Indonesia Stock Exchange glass tower facade in Jakarta reflecting nearby skyscrapers, street-level angle",
+  "takeaway": "Laporan ini condong negatif bagi pemegang unit penyertaan XBIG, karena delisting dijatuhkan mendadak, hanya berselang dua hari dari pengumuman ke tanggal efektif, dan sebabnya disebut sebagai 'permasalahan material' tanpa penjelasan rinci apa yang sebenarnya terjadi di manajer investasi atau bank kustodiannya. Yang tersentuh langsung adalah status likuiditas unit penyertaan, yakni kemampuan pemegang ETF menjual unitnya di pasar bursa. Dengan 12,7 miliar unit yang tercatat, setelah delisting pemegang unit umumnya hanya bisa mencairkan dananya lewat mekanisme penjualan kembali (redemption) langsung ke manajer investasi, bukan lagi lewat transaksi di bursa. Yang perlu dipantau berikutnya adalah tanggal efektif delisting pada 21 September 2026, serta apakah manajer investasi BNP Paribas Asset Management atau bank kustodian akan mengeluarkan penjelasan lanjutan soal permasalahan material yang dimaksud dan mekanisme pengembalian dana ke pemegang unit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "testdire03-delisting-dari-bei-efektif-28-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "TESTDIRE03 [Delisting] dari BEI efektif 28 September 2026",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan DIRE TESTDIRE03 karena memenuhi kondisi pembubaran sesuai aturan OJK tentang DIRE berbentuk KIK, efektif 28 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T11:24:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_TESTDIRE03_B006_d7cec0a8-78ec-4fd8-b998-fc9ad1d102b6-20260919112332.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TESTDIRE03",
+  "tags": [
+   "TESTDIRE03",
+   "delisting",
+   "DIRE",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan penghapusan pencatatan (delisting) atas DIRE TESTDIRE03 dengan kode DIRE TESTDIREKD03. Total unit penyertaan yang tercatat di bursa mencapai 3.000.000 unit. Penyebab delisting adalah terpenuhinya kondisi pembubaran sebagaimana diatur dalam POJK tentang DIRE berbentuk Kontrak Investasi Kolektif (KIK).",
+   "Menurut pengumuman bernomor TEST-B006-18092026-5 yang diterbitkan Divisi Penilaian Perusahaan 1 BEI pada 19 September 2026 pukul 11.24 WIB, tanggal efektif delisting ditetapkan pada 28 September 2026. Sejak tanggal tersebut, unit penyertaan TESTDIRE03 tidak lagi dapat diperdagangkan di papan bursa."
+  ],
+  "fotoAdegan": "Aerial view of commercial office towers and rooftops in a Jakarta business district under late afternoon haze",
+  "takeaway": "Delisting ini condong negatif bagi pemegang unit penyertaan TESTDIRE03, karena instrumen mereka berhenti diperdagangkan di bursa mulai 28 September 2026 sehingga sarana jual beli di pasar sekunder hilang. Yang tersentuh adalah kelangsungan dana itu sendiri: DIRE ini berbentuk KIK, semacam wadah kolektif yang mengumpulkan dana dari 3.000.000 unit penyertaan untuk dikelola manajer investasi, dan pembubarannya berarti wadah tersebut dibubarkan sesuai aturan OJK sehingga aset di dalamnya harus dilikuidasi dan hasilnya dibagikan kepada pemegang unit. Yang perlu dipantau pemegang unit adalah tanggal efektif delisting pada 28 September 2026, serta pengumuman lanjutan soal jadwal dan mekanisme pembagian hasil likuidasi.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "arko-tunjuk-ulang-direktur-utama-lewat-rups",
   "category": "Aksi Korporasi",
   "title": "ARKO Tunjuk Ulang Direktur Utama Lewat [RUPS]",
@@ -362,6 +412,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of idle industrial sewing machines and stacked fabric rolls inside a quiet textile factory hall, soft morning light through high windows",
   "takeaway": "Laporan ini condong negatif bagi SRIL, sebab penempatan sahamnya di papan pemantauan khusus dipicu oleh ekuitas negatif, bukan sekadar perubahan administratif pencatatan. Pos yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan yang secara sederhana mencerminkan kekayaan bersih milik pemegang saham; kalau angkanya negatif, berarti utang SRIL sudah melebihi nilai seluruh asetnya, sehingga secara akuntansi saham publik tidak lagi punya nilai buku pendukung. Bursa juga mencantumkan kriteria tambahan nomor 11 tanpa merinci kondisi spesifiknya, yang menandakan ada pertimbangan lain dari OJK di luar sekadar angka ekuitas. Yang perlu dipantau berikutnya adalah laporan keuangan SRIL pada periode selanjutnya, karena bursa dapat mengambil langkah lebih lanjut, termasuk potensi penghapusan pencatatan atau delisting, apabila kondisi ekuitas negatif ini tidak kunjung membaik.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "arko-konversi-obligasi-hijau-utang-turun-ke-rp2-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Konversi Obligasi Hijau, Utang Turun ke [Rp2,8 Miliar]",
+  "deck": "ARKO mengonversi Rp432,34 juta dari Obligasi Berwawasan Lingkungan I Seri B pada 2 September 2026, sehingga outstanding obligasi turun dari Rp3,23 miliar menjadi Rp2,80 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T20:54:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E034_f3496fa8-0e2f-44cc-a949-302c341fdaa9-20260919094532.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "obligasi",
+   "konversi utang",
+   "Arkora Hydro"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) melaporkan konversi sebagian Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri B kepada Bursa Efek Indonesia. Konversi senilai Rp432.342.130 itu berlangsung pada 2 September 2026, sebagaimana disampaikan direksi perseroan dalam keterbukaan informasi tertanggal 18 September 2026.",
+   "Dengan konversi tersebut, nilai outstanding atau sisa kewajiban obligasi seri ini turun dari Rp3.231.233.213 menjadi Rp2.798.891.083. Artinya, sekitar 13 persen dari total obligasi seri ini yang sebelumnya beredar sudah dikonversi. Dokumen yang diserahkan ARKO ke bursa tidak merinci apakah bagian yang dikonversi ini berubah menjadi saham baru perseroan atau dilunasi secara tunai kepada pemegang obligasi.",
+   "Obligasi ini merupakan bagian dari rangkaian instrumen utang ARKO yang belakangan juga menjadi sorotan, setelah lembaga pemeringkat PEFINDO mempertahankan peringkat obligasi ARKO01AGN dengan outlook positif pekan lalu."
+  ],
+  "fotoAdegan": "Engineers in hard hats inspecting turbine machinery inside a small hydroelectric power plant, tropical river visible through open bay doors.",
+  "takeaway": "Laporan ini netral bagi ARKO karena informasinya baru sebatas angka pengurangan nilai obligasi, tanpa kepastian apakah bagian yang dikonversi berubah menjadi saham baru atau dilunasi tunai, sehingga arah dampaknya bagi pemegang saham belum bisa dipastikan. Yang tersentuh di sini adalah pos utang jangka panjang perseroan, yang turun sekitar 13 persen untuk seri obligasi ini; kalau konversi ini berbentuk saham baru, jumlah saham beredar ARKO akan bertambah dan bagian laba untuk tiap pemegang saham lama bisa mengecil karena dibagi ke lebih banyak pihak. Sebaliknya, kalau ini pelunasan tunai, beban utang dan bunga yang harus dibayar ARKO ke depan justru berkurang. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal ARKO berikutnya atau penjelasan lanjutan ke bursa yang merinci bentuk penyelesaian konversi ini, mengingat perseroan saat ini juga tengah menjalani proses buyback saham dan pembelian oleh pengendali baru yang sama-sama memengaruhi struktur permodalannya.",
+  "sentimen": "netral"
  },
  {
   "slug": "arko-konversi-obligasi-hijau-outstanding-turun-ke-rp2-8-miliar",

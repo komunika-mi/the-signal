@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bei-delisting-etf-xbig-efektif-21-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "BEI Delisting [ETF] XBIG Efektif 21 September 2026",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan ETF XBIG mulai 21 September 2026, hanya dua hari sejak pengumuman, karena permasalahan material di manajer investasi atau bank kustodian.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XBIG",
+   "delisting",
+   "ETF",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_XBIG_B006_de5c7661-e25c-40cb-b037-cc82961b1356-20260919112559.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "testdire03-delisting-dari-bei-efektif-28-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "TESTDIRE03 [Delisting] dari BEI efektif 28 September 2026",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan DIRE TESTDIRE03 karena memenuhi kondisi pembubaran sesuai aturan OJK tentang DIRE berbentuk KIK, efektif 28 September 2026.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TESTDIRE03",
+   "delisting",
+   "DIRE",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_TESTDIRE03_B006_d7cec0a8-78ec-4fd8-b998-fc9ad1d102b6-20260919112332.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "arko-tunjuk-ulang-direktur-utama-lewat-rups",
   "category": "Aksi Korporasi",
   "title": "ARKO Tunjuk Ulang Direktur Utama Lewat [RUPS]",
@@ -226,6 +258,22 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_SRIL_B031_46506f3b-cb18-4129-95b2-01384c125b00-20260918213441.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-konversi-obligasi-hijau-utang-turun-ke-rp2-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Konversi Obligasi Hijau, Utang Turun ke [Rp2,8 Miliar]",
+  "deck": "ARKO mengonversi Rp432,34 juta dari Obligasi Berwawasan Lingkungan I Seri B pada 2 September 2026, sehingga outstanding obligasi turun dari Rp3,23 miliar menjadi Rp2,80 miliar.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "obligasi",
+   "konversi utang",
+   "Arkora Hydro"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E034_f3496fa8-0e2f-44cc-a949-302c341fdaa9-20260919094532.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6458,54 +6506,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-7235-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-rencanakan-rights-issue-rp100-miliar-dilusi-50",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Rencanakan [Rights Issue] Rp100 Miliar, Dilusi 50%",
-  "deck": "Leyand International (LAPD) berencana menerbitkan hingga 2 miliar saham baru lewat rights issue kedua, disetor pengendali JSI Sinergi Mas via aset tambang batu bara senilai Rp44,4 miliar.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "rights issue",
-   "HMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/75095f685b_927d47843a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-putrasakti-mandiri-lepas-2-3-juta-saham-ke-grup-usaha",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Putrasakti Mandiri [lepas] 2,3 juta saham ke grup usaha",
-  "deck": "Pemegang saham Putrasakti Mandiri menjual 2,3 juta saham Puri Sentul Permai seharga Rp408 per lembar untuk restrukturisasi internal kelompok usaha, hak suara turun tipis ke 32,13%.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "Puri Sentul Permai",
-   "kepemilikan saham",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-2028-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-buyback-saham-tembus-9-8-juta-lembar-per-11-september",
-  "category": "Aksi Korporasi",
-  "title": "PRDA [Buyback] Saham Tembus 9,8 Juta Lembar per 11 September",
-  "deck": "Prodia membeli kembali 343.600 saham pada 11 September, sehingga total buyback sejak 20 Agustus mencapai 9,81 juta lembar dengan sisa dana Rp123,46 miliar.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "buyback saham",
-   "Prodia Widyahusada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6e2be5e66f_575e623a29.pdf",
   "sourceLabel": "IDX"
  }
 ];

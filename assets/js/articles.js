@@ -1064,6 +1064,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "pgeo-catat-557-165-saham-baru-dari-mesop-tahap-i-iii",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catat 557.165 [Saham] Baru dari MESOP Tahap I-III",
+  "deck": "BEI mencatat 557.165 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III, menambah total saham beredar menjadi 41,92 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T19:05:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eeb366a861_0d3855d10d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "ESOP",
+   "saham baru"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mencatatkan 557.165 saham baru PT Pertamina Geothermal Energy Tbk (PGEO) hasil pelaksanaan program opsi saham untuk manajemen dan karyawan (MESOP) Tahap I dan Tahap III. Saham baru ini mulai tercatat dan diperdagangkan pada 18 September 2026, terdiri dari 439.761 saham dari Tahap I dan 117.404 saham dari Tahap III.",
+   "Berdasarkan surat PT Datindo Entrycom selaku biro administrasi efek PGEO tertanggal 17 September 2026, penerbitan saham baru ini merupakan tindak lanjut permohonan pelaksanaan opsi MESOP tanggal 16 September 2026. Dengan tambahan ini, total saham ditempatkan dan disetor penuh PGEO naik dari 41.920.791.322 menjadi 41.921.348.487 saham. Surat tersebut ditandatangani oleh Direktur Utama Datindo Entrycom, E. Agung Setiawati, dan ditembuskan kepada Corporate Secretary PGEO, Muhammad Taufik.",
+   "Pengumuman BEI juga mencatat sisa jatah opsi yang belum dilaksanakan, yaitu 31.154.393 saham untuk Tahap I dan 18.683.032 saham untuk Tahap III. Sisa ini menunjukkan program MESOP PGEO masih berjalan dan berpotensi menambah jumlah saham beredar lagi pada pencatatan berikutnya."
+  ],
+  "fotoAdegan": "Steam plumes rising from geothermal power plant cooling towers surrounded by tropical forest in Indonesia, technician checking pipeline valves at dawn.",
+  "takeaway": "Laporan ini netral bagi PGEO karena tambahan 557.165 saham hasil pelaksanaan opsi MESOP Tahap I dan III hanya sekitar 0,0013 persen dari total saham beredar sebelumnya, sehingga hampir tidak mengubah peta kepemilikan maupun hak suara pemegang saham lama. Pos yang tersentuh adalah jumlah saham beredar, yang naik dari 41.920.791.322 menjadi 41.921.348.487 lembar, dan ini bisa sedikit mengencerkan laba per saham karena laba perusahaan nantinya dibagi ke jumlah saham yang lebih banyak, meski efeknya nyaris tidak terasa pada skala sekecil ini. Yang perlu dipantau selanjutnya adalah sisa jatah opsi yang belum dieksekusi, yaitu 31.154.393 saham di Tahap I dan 18.683.032 saham di Tahap III, karena pencatatan serupa berpotensi terjadi lagi setiap kali pemegang opsi menggunakan haknya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "towr-komisaris-divestasi-saham-senilai-rp3-4-miliar",
   "category": "Aksi Korporasi",
   "title": "TOWR: Komisaris [Divestasi] Saham Senilai Rp3,4 Miliar",
@@ -1194,6 +1220,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "admf-terbitkan-obligasi-rp1-65-triliun-dan-sukuk-rp500-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ADMF Terbitkan [Obligasi] Rp1,65 Triliun dan Sukuk Rp500 Miliar",
+  "deck": "Adira Dinamika Multi Finance menawarkan obligasi Rp1,65 triliun dan sukuk mudharabah Rp500 miliar tahap keempat 2026, dengan peringkat tertinggi idAAA dari Pefindo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:37:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d50ad3c095_465fde6f47.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADMF",
+  "tags": [
+   "ADMF",
+   "obligasi",
+   "sukuk",
+   "Adira Finance"
+  ],
+  "body": [
+   "Adira Dinamika Multi Finance Tbk (ADMF) menyampaikan prospektus untuk penawaran umum obligasi berkelanjutan VII tahap IV tahun 2026 senilai Rp1,65 triliun dan sukuk mudharabah berkelanjutan VI tahap IV tahun 2026 senilai Rp500 miliar. Obligasi ini terbagi dua seri, yaitu seri A senilai Rp1,08 triliun dengan bunga tetap 7,10 persen per tahun berjangka waktu 370 hari kalender dan jatuh tempo 16 Oktober 2027, serta seri B senilai Rp570,096 miliar dengan bunga tetap 7,35 persen per tahun berjangka waktu 36 bulan dan jatuh tempo 6 Oktober 2029. Sukuk mudharabah juga terbagi dua seri dengan struktur serupa, seri A senilai Rp325,41 miliar dengan nisbah bagi hasil 59,17 persen setara imbal hasil 7,10 persen per tahun, dan seri B senilai Rp174,59 miliar dengan nisbah 61,25 persen setara 7,35 persen per tahun.",
+   "Masa penawaran umum berlangsung 29 September hingga 1 Oktober 2026, dengan tanggal penjatahan 2 Oktober 2026, distribusi elektronik 6 Oktober 2026, dan pencatatan di Bursa Efek Indonesia pada 7 Oktober 2026. Penjamin pelaksana emisi terdiri dari BNI Sekuritas, BRI Danareksa Sekuritas, Indo Premier Sekuritas, Mandiri Sekuritas, Mega Capital Sekuritas, Sucor Sekuritas, dan Trimegah Sekuritas Indonesia, dengan Bank Rakyat Indonesia bertindak sebagai wali amanat. Pefindo memberikan peringkat idAAA untuk obligasi dan idAAA syariah untuk sukuk, peringkat tertinggi yang tersedia, dan penawaran ini dijamin secara kesanggupan penuh oleh para penjamin emisi.",
+   "Dengan penerbitan tahap IV ini, total dana yang sudah dihimpun dari program Obligasi Berkelanjutan VII mencapai Rp6,5 triliun dari target maksimal Rp8 triliun, menyisakan ruang sekitar Rp1,5 triliun untuk tahap selanjutnya yang belum ditentukan jadwalnya. Sementara itu, program Sukuk Mudharabah Berkelanjutan VI sudah mencapai Rp2 triliun, sama persis dengan target awal perseroan, sehingga tahap IV ini menjadi tahap terakhir sukuk dari program tersebut. Obligasi dan sukuk ini tidak dijamin dengan agunan khusus, melainkan dengan seluruh harta kekayaan perseroan, dan risiko utama yang disebutkan dalam dokumen adalah risiko kredit, yaitu potensi nasabah pembiayaan gagal membayar cicilan tepat waktu."
+  ],
+  "fotoAdegan": "Rows of new motorcycles parked inside a dealership showroom in Indonesia, morning sunlight through glass windows",
+  "takeaway": "Penerbitan ini condong netral bagi ADMF, karena menambah utang berbunga tapi merupakan bagian rutin dari pendanaan bisnis pembiayaan konsumen yang memang mengandalkan penerbitan surat utang berkala, didukung peringkat idAAA dari Pefindo yang menunjukkan kepercayaan pasar tetap tinggi. Dana sekitar Rp2,15 triliun dari obligasi dan sukuk ini akan menambah beban bunga tahunan sekitar 7,1 hingga 7,35 persen yang harus dibayar perseroan, tapi di sisi lain menambah arus kas masuk yang bisa disalurkan sebagai pembiayaan baru ke konsumen, sumber utama pendapatan ADMF. Yang perlu dipantau adalah tanggal penjatahan pada 2 Oktober 2026 dan pencatatan di Bursa Efek Indonesia pada 7 Oktober 2026, untuk melihat apakah penawaran ini terserap penuh, serta apakah perseroan akan menerbitkan tahap V dari sisa plafon Rp1,5 triliun pada program obligasi berkelanjutan VII.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "asdf-catatkan-obligasi-rp2-55-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "ASDF Catatkan [Obligasi] Rp2,55 Triliun di BEI",
@@ -1244,6 +1296,32 @@ var ARTICLES = [
   "fotoAdegan": "An insurance agent explaining a policy folder to a client across a desk in a modern Jakarta office, warm morning light",
   "takeaway": "Laporan ini condong positif bagi JMAS, karena laba bersih dan laba per saham naik hampir dua kali lipat meski pendapatan sedikit menyusut, tanda perseroan menekan beban operasional lebih efisien. Yang tersentuh adalah arus kas dari kegiatan operasional, yang melonjak dari Rp13,09 miliar menjadi Rp70,87 miliar, menunjukkan uang tunai yang benar-benar masuk ke kas perusahaan bertambah jauh lebih besar dibanding laba di atas kertas. Ekuitas, yaitu selisih antara aset dan utang yang menjadi modal milik pemegang saham, juga naik tipis ke Rp128,24 miliar, sementara jumlah saham beredar tidak berubah sehingga kenaikan laba per saham murni berasal dari perbaikan kinerja, bukan pengurangan jumlah saham. Yang perlu dicermati adalah liabilitas yang tumbuh lebih cepat, 46,4 persen, dibanding aset yang 39,2 persen, hal yang lazim pada asuransi yang sedang tumbuh karena premi yang diterima otomatis tercatat sebagai kewajiban ke pemegang polis, tapi tetap layak dipantau agar tidak menggerus modal ke depan. Karena angka di laporan ini masih berstatus tidak diaudit dan sudah sekali dikoreksi dari versi 30 Oktober 2025, laporan keuangan tahunan teraudit untuk tahun buku 2025 akan jadi penentu apakah angka-angka ini bertahan atau berubah lagi.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "koci-catat-konversi-20-975-saham-baru-dari-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "KOCI Catat [Konversi] 20.975 Saham Baru dari Waran Seri I",
+  "deck": "Bursa mencatatkan tambahan 20.975 saham baru PT Kokoh Exa Nusantara hasil exercise waran seri I, menambah total saham beredar menjadi 4,46 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T18:36:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b061b2100b_e061b27afd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOCI",
+  "tags": [
+   "KOCI",
+   "waran",
+   "pencatatan saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mencatatkan tambahan 20.975 saham baru PT Kokoh Exa Nusantara Tbk (KOCI) pada 18 September 2026, hasil dari konversi waran seri I berkode KOCI-W. Berdasarkan surat PT Adimitra Jasa Korpora selaku biro administrasi efek KOCI kepada Direksi BEI, pemegang waran melaksanakan haknya pada 16 September 2026 dan saham baru diterbitkan sehari kemudian, 17 September 2026, sebelum resmi tercatat dan diperdagangkan di bursa.",
+   "Dengan tambahan itu, total saham KOCI naik dari 4.467.630.537 lembar menjadi 4.467.651.512 lembar. Di sisi lain, sisa waran seri I yang belum dikonversi berkurang dari 397.959.463 lembar menjadi 397.938.488 lembar. Pengumuman resmi bernomor Peng-P-01085/BEI.PP1/09-2026 ini ditandatangani Kadiv Pengaturan dan Operasional Perdagangan BEI, Pande Made Kusuma Ari A, dan PH Kepala Divisi Penilaian Perusahaan 1, Aditya Nugraha.",
+   "Konversi ini terjadi beberapa hari setelah KOCI menjelaskan kepada bursa rencananya memenuhi ketentuan free float minimum, dengan tenggat yang telah diperpanjang hingga 2029. Penambahan saham dari exercise waran seperti ini, jika berlanjut, ikut menambah jumlah saham yang beredar di pasar."
+  ],
+  "fotoAdegan": "Office workers reviewing stock certificates and ledgers at a desk, blurred financial district skyscrapers visible through the window",
+  "takeaway": "Konversi ini netral bagi KOCI karena skalanya sangat kecil, tambahan 20.975 lembar saham hanya sekitar 0,0005 persen dari basis 4,46 miliar saham yang sudah beredar, sehingga struktur kepemilikan dan hak suara pemegang saham lain praktis tidak berubah. Yang tersentuh adalah jumlah saham beredar, yaitu basis pembagi untuk menghitung laba per saham, tapi karena penambahannya kecil maka potensi pengenceran laba per saham nyaris tidak terasa. Yang perlu dipantau adalah sisa 397.938.488 waran seri I yang masih berpotensi dikonversi ke depan, apakah pelaksanaannya akan terus bertahap kecil seperti ini atau suatu saat dalam jumlah besar, mengingat KOCI juga sedang mengejar tenggat pemenuhan free float minimum hingga 2029.",
+  "sentimen": "netral"
  },
  {
   "slug": "bmri-kepemilikan-direksi-tak-berubah-usai-transaksi-repo",
@@ -1484,6 +1562,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Construction workers assembling roof trusses on a heritage-style museum building surrounded by scaffolding in a rural Sumatran site, overcast light.",
   "takeaway": "Laporan ini condong netral bagi PTPP, sebab nilai gugatan PKPU sekitar Rp4,25 miliar tergolong kecil untuk perusahaan konstruksi BUMN sebesar ini, sehingga dampak finansialnya memang belum berarti seperti yang disampaikan manajemen. Yang tersentuh adalah pos kewajiban usaha dan arus kas dari proyek KSO PP-URBAN, karena PKPU sendiri adalah jalur hukum yang dipakai kreditor untuk menagih utang jatuh tempo lewat pengadilan niaga, yang bisa berujung pada jadwal pembayaran baru bila tidak tercapai perdamaian. Yang perlu dicermati, gugatan ini muncul tak lama setelah PTPP meneken MRA untuk restrukturisasi utang besarnya, sehingga menunjukkan masih ada tagihan mitra proyek yang belum tuntas di luar skema restrukturisasi utama. Yang dipantau berikutnya adalah jalannya sidang di Pengadilan Niaga Jakarta Pusat atas perkara nomor 277/Pdt.Sus-PKPU/2026, termasuk apakah PTPP mencapai kesepakatan pembayaran dengan PT Atap Perkasa dan CV Citra Pratama sebelum proses PKPU berlanjut ke tahap berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nisp-tunjuk-aini-masruroh-anggota-baru-dps",
+  "category": "Aksi Korporasi",
+  "title": "NISP Tunjuk Aini Masruroh Anggota Baru [DPS]",
+  "deck": "OCBC NISP mengangkat Aini Masruroh sebagai anggota Dewan Pengawas Syariah efektif 18 September 2026, setelah lolos uji kelayakan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T17:42:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f3f436d4d_9e9158fc69.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NISP",
+  "tags": [
+   "NISP",
+   "Bank OCBC NISP",
+   "Dewan Pengawas Syariah",
+   "Perbankan Syariah"
+  ],
+  "body": [
+   "PT Bank OCBC NISP Tbk (NISP) melaporkan perubahan susunan Dewan Pengawas Syariah (DPS) menyusul hasil Rapat Umum Pemegang Saham Tahunan (RUPST) 9 April 2026. Pengangkatan Aini Masruroh sebagai anggota DPS resmi berlaku efektif 18 September 2026, setelah Otoritas Jasa Keuangan (OJK) menerbitkan Keputusan Dewan Komisioner Nomor KEPR-166/D.03/2026 tanggal 16 September 2026 yang menyatakan Aini Masruroh lolos uji kemampuan dan kepatutan.",
+   "Dengan pengangkatan ini, susunan DPS Bank OCBC NISP menjadi lengkap tiga orang: Mohammad Bagus Teguh Perwira sebagai Ketua, serta Habibullah dan Aini Masruroh sebagai Anggota. DPS bertugas mengawasi kepatuhan prinsip syariah pada unit usaha syariah bank, termasuk memastikan produk dan operasional perbankan syariah sesuai fatwa dan aturan yang berlaku.",
+   "Bank menegaskan perubahan susunan DPS ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ke OJK ditandatangani oleh Corporate Secretary Murti Kusuma Dewi, sementara pemberitahuan kepada Bursa Efek Indonesia disampaikan oleh Assistant Corporate Secretary Wiwin Sitinjak."
+  ],
+  "fotoAdegan": "A modern glass office tower in Jakarta's financial district reflecting the morning sky, low street level view with pedestrians walking past.",
+  "takeaway": "Laporan ini netral bagi kinerja emiten karena isinya murni governance rutin, yaitu pelantikan satu anggota Dewan Pengawas Syariah yang sudah disetujui RUPST sejak April dan baru bisa efektif setelah lolos uji kelayakan OJK. DPS bertugas mengawasi kepatuhan syariah pada unit usaha syariah bank, bukan mengelola keuangan perusahaan, sehingga perubahan ini tidak menyentuh pos seperti ekuitas, arus kas, beban bunga, atau laba per saham yang biasa dipantau pelaku pasar. Yang perlu dipantau selanjutnya adalah bagaimana kinerja unit usaha syariah OCBC NISP tercermin pada laporan keuangan berikutnya, karena dokumen ini sendiri tidak menyebutkan agenda atau tenggat lanjutan setelah pengangkatan efektif per 18 September 2026.",
   "sentimen": "netral"
  },
  {
@@ -1876,6 +1980,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "tlkm-kantongi-100-saham-tde-dari-telkomsigma-konsolidasi",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Kantongi 100% Saham TDE dari Telkomsigma [Konsolidasi]",
+  "deck": "Telkom membeli 19,19% sisa saham PT Telkom Data Ekosistem dari anak usahanya, Telkomsigma, sehingga kini menguasai penuh seluruh saham perusahaan tersebut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:22:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ca0098258_1f62187a57.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "Telkom",
+   "Telkom Data Ekosistem",
+   "Telkomsigma"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk mengumumkan pembelian 1.445.020 saham seri A dan 2.015.637.361.776 saham seri B di PT Telkom Data Ekosistem (TDE), atau setara 19,19 persen dari seluruh saham TDE yang beredar. Saham tersebut dibeli dari PT Sigma Cipta Caraka atau Telkomsigma, yang merupakan anak usaha Telkom sendiri. Transaksi ini tercatat terjadi pada 17 September 2026 dan dilaporkan ke Otoritas Jasa Keuangan pada 18 September 2026 oleh VP Corporate Office Support Telkom, Ambar Permana.",
+   "Dengan pembelian ini, seluruh 10.504.517.594.408 lembar saham TDE, atau 100 persen, kini sepenuhnya dimiliki Telkom. Perusahaan menyebut langkah ini sebagai bagian dari upaya mendukung apa yang mereka sebut Unlock DC Co Telkom melalui kemitraan strategis, sekaligus bagian dari program perampingan struktur atau streamlining di lingkup Telkom Group. Karena transaksi berlangsung antara induk usaha dan anak usahanya, Telkom mengklasifikasikannya sebagai transaksi afiliasi sesuai Pasal 6 POJK 42/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan, namun menegaskan tidak ada benturan kepentingan dalam transaksi ini.",
+   "Dalam surat yang ditandatangani SVP Corporate Secretary Telkom, Edie Kurniawan, perusahaan menyatakan transaksi ini tidak berdampak signifikan terhadap kondisi keuangan Telkom, mengingat uang yang berpindah hanya bergerak di antara entitas dalam satu grup. Dokumen tidak mencantumkan nilai atau harga pembelian saham tersebut."
+  ],
+  "fotoAdegan": "Rows of server racks in a modern data center hall, technicians in uniforms checking cables, blue indicator lights, wide angle",
+  "takeaway": "Transaksi ini netral bagi kondisi keuangan Telkom saat ini, karena hanya memindahkan kepemilikan saham dari satu anak usaha ke induknya tanpa ada dana segar yang masuk ke grup maupun nilai transaksi yang diungkap ke publik. Yang berubah hanyalah struktur kepemilikan TDE, bukan pos-pos utama seperti ekuitas, arus kas, atau laba per saham Telkom, karena TDE sebelumnya juga sudah dikendalikan Telkom lewat Telkomsigma sehingga secara konsolidasi tidak banyak bergeser. Istilah transaksi afiliasi berarti transaksi ini melibatkan pihak-pihak yang masih satu grup usaha, yang biasanya diawasi lebih ketat oleh OJK karena berpotensi menguntungkan satu pihak secara tidak wajar, meski dalam kasus ini Telkom menyatakan tidak ada benturan kepentingan. Yang lebih menentukan ke depan adalah rencana yang disebut Telkom sendiri, yaitu kemitraan strategis untuk TDE selaku entitas pengelola bisnis pusat data, karena konsolidasi 100 persen kepemilikan ini kemungkinan menjadi langkah persiapan sebelum Telkom menggandeng mitra strategis baru di bisnis tersebut. Pasar perlu menunggu pengumuman lanjutan soal siapa mitra strategis itu dan bagaimana skema kerja samanya, karena dokumen ini belum mengungkap detail tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "cpin-ubs-jual-1-19-juta-saham-untuk-lindung-nilai-derivatif",
   "category": "Aksi Korporasi",
   "title": "CPIN: UBS Jual [1,19 Juta] Saham untuk Lindung Nilai Derivatif",
@@ -1951,6 +2081,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Warehouse forklift operators stacking cargo pallets inside a logistics distribution center, morning light through high windows",
   "takeaway": "Laporan ini netral bagi LOPI karena saham yang dilepas Sentra Amanah Ventura hanya sekitar 0,35 persen dari kepemilikannya sendiri, sehingga ukurannya terlalu kecil untuk dibaca sebagai sinyal perubahan sikap pengendali terhadap perusahaan. Yang tersentuh di sini adalah struktur hak suara, yaitu porsi kendali yang dipegang pemegang saham utama, yang turun tipis dari 56,14 persen menjadi 55,94 persen tapi masih jauh di atas ambang mayoritas sehingga tidak mengubah siapa yang mengendalikan LOPI. Transaksi ini juga tidak memengaruhi kas atau ekuitas perusahaan karena sahamnya berpindah tangan di pasar sekunder, bukan penerbitan saham baru oleh LOPI. Yang perlu dipantau adalah apakah Sentra Amanah Ventura akan melanjutkan pelepasan bertahap serupa pada periode berikutnya, karena aturan OJK mewajibkan pelaporan setiap kali terjadi perubahan kepemilikan oleh pemegang saham pengendali.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "eral-perbesar-fasilitas-kredit-bca-jadi-rp1-14-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ERAL Perbesar [Fasilitas Kredit] BCA jadi Rp1,14 Triliun",
+  "deck": "Sinar Eka Selaras dan 15 entitas anaknya menambah plafon kredit dari BCA, mayoritas untuk modal kerja dan transaksi valuta asing, berlaku hingga Mei 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T16:12:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/89d9ea36e4_b3ae84362d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAL",
+  "tags": [
+   "ERAL",
+   "kredit bank",
+   "BCA",
+   "fasilitas kredit"
+  ],
+  "body": [
+   "PT Sinar Eka Selaras Tbk (ERAL) bersama 15 entitas anak yang sahamnya dikuasai di atas 99 persen menandatangani perjanjian penambahan fasilitas kredit dengan PT Bank Central Asia Tbk pada 16 September 2026. Penandatanganan ini dilaporkan oleh Corporate Secretary ERAL, Badar Teguh Mancik Alam, kepada OJK dan Bursa Efek Indonesia pada 18 September 2026.",
+   "Ada dua fasilitas yang ditambah. Fasilitas Time Loan naik dari Rp450 miliar menjadi Rp600 miliar. Fasilitas Multi Credit dalam denominasi rupiah naik dari Rp190 miliar menjadi Rp540 miliar, sementara plafon dalam dolar Amerika Serikat (US$10 juta) dan dolar Singapura (SGD3,5 juta) tetap, dan ditambahkan plafon baru dalam yen Jepang sebesar JPY50 miliar. Kedua fasilitas berjangka waktu sampai dengan 13 Mei 2027, dan perseroan menyebut dana ini dipakai untuk membiayai modal kerja perseroan dan entitas anak serta mendukung transaksi berbasis valuta asing.",
+   "Perseroan menegaskan tidak ada hubungan afiliasi antara para debitur dan BCA selaku kreditur, sehingga transaksi ini bukan transaksi afiliasi maupun benturan kepentingan menurut aturan OJK. Karena itu, transaksi dikecualikan dari kewajiban memakai penilai independen dan tidak perlu persetujuan RUPS, sesuai Pasal 11 POJK 17/2020 tentang transaksi penerimaan fasilitas kredit dari bank."
+  ],
+  "fotoAdegan": "Interior of a modern Jakarta bank branch with tellers assisting customers at counters, soft ambient lighting, blurred background",
+  "takeaway": "Laporan ini netral bagi ERAL: penambahan plafon kredit baru menaikkan batas maksimal pinjaman yang tersedia, bukan pencairan dana yang langsung masuk ke kas perusahaan, jadi belum tentu menambah beban utang saat ini. Yang tersentuh adalah pos beban bunga dan arus kas ke depan, karena begitu fasilitas ini benar dipakai, biaya bunga yang harus dibayar perseroan berpotensi naik seiring plafon yang lebih besar, sementara arus kas perusahaan akan bergantung pada seberapa besar dana ini ditarik. Perlu dicermati laporan keuangan kuartal mendatang untuk melihat berapa besar fasilitas ini benar terpakai, serta batas waktu fasilitas pada 13 Mei 2027 yang menjadi acuan kapan perjanjian ini harus dievaluasi ulang.",
   "sentimen": "netral"
  },
  {

@@ -664,6 +664,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pgeo-catat-557-165-saham-baru-dari-mesop-tahap-i-iii",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catat 557.165 [Saham] Baru dari MESOP Tahap I-III",
+  "deck": "BEI mencatat 557.165 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III, menambah total saham beredar menjadi 41,92 miliar lembar.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "ESOP",
+   "saham baru"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eeb366a861_0d3855d10d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "towr-komisaris-divestasi-saham-senilai-rp3-4-miliar",
   "category": "Aksi Korporasi",
   "title": "TOWR: Komisaris [Divestasi] Saham Senilai Rp3,4 Miliar",
@@ -745,6 +761,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "admf-terbitkan-obligasi-rp1-65-triliun-dan-sukuk-rp500-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ADMF Terbitkan [Obligasi] Rp1,65 Triliun dan Sukuk Rp500 Miliar",
+  "deck": "Adira Dinamika Multi Finance menawarkan obligasi Rp1,65 triliun dan sukuk mudharabah Rp500 miliar tahap keempat 2026, dengan peringkat tertinggi idAAA dari Pefindo.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMF",
+   "obligasi",
+   "sukuk",
+   "Adira Finance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d50ad3c095_465fde6f47.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "asdf-catatkan-obligasi-rp2-55-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "ASDF Catatkan [Obligasi] Rp2,55 Triliun di BEI",
@@ -774,6 +806,22 @@ var ARTICLES = [
    "IDX"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2de71b14f8_5206cae45d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "koci-catat-konversi-20-975-saham-baru-dari-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "KOCI Catat [Konversi] 20.975 Saham Baru dari Waran Seri I",
+  "deck": "Bursa mencatatkan tambahan 20.975 saham baru PT Kokoh Exa Nusantara hasil exercise waran seri I, menambah total saham beredar menjadi 4,46 miliar lembar.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOCI",
+   "waran",
+   "pencatatan saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b061b2100b_e061b27afd.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -924,6 +972,22 @@ var ARTICLES = [
    "restrukturisasi utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9833985dc3_8da3b48596.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nisp-tunjuk-aini-masruroh-anggota-baru-dps",
+  "category": "Aksi Korporasi",
+  "title": "NISP Tunjuk Aini Masruroh Anggota Baru [DPS]",
+  "deck": "OCBC NISP mengangkat Aini Masruroh sebagai anggota Dewan Pengawas Syariah efektif 18 September 2026, setelah lolos uji kelayakan OJK.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NISP",
+   "Bank OCBC NISP",
+   "Dewan Pengawas Syariah",
+   "Perbankan Syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f3f436d4d_9e9158fc69.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1167,6 +1231,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tlkm-kantongi-100-saham-tde-dari-telkomsigma-konsolidasi",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Kantongi 100% Saham TDE dari Telkomsigma [Konsolidasi]",
+  "deck": "Telkom membeli 19,19% sisa saham PT Telkom Data Ekosistem dari anak usahanya, Telkomsigma, sehingga kini menguasai penuh seluruh saham perusahaan tersebut.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "Telkom",
+   "Telkom Data Ekosistem",
+   "Telkomsigma"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ca0098258_1f62187a57.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cpin-ubs-jual-1-19-juta-saham-untuk-lindung-nilai-derivatif",
   "category": "Aksi Korporasi",
   "title": "CPIN: UBS Jual [1,19 Juta] Saham untuk Lindung Nilai Derivatif",
@@ -1212,6 +1292,22 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7238-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "eral-perbesar-fasilitas-kredit-bca-jadi-rp1-14-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ERAL Perbesar [Fasilitas Kredit] BCA jadi Rp1,14 Triliun",
+  "deck": "Sinar Eka Selaras dan 15 entitas anaknya menambah plafon kredit dari BCA, mayoritas untuk modal kerja dan transaksi valuta asing, berlaku hingga Mei 2027.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAL",
+   "kredit bank",
+   "BCA",
+   "fasilitas kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/89d9ea36e4_b3ae84362d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6409,104 +6505,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466630-apjati-perkuat-kemitraan-ketenagakerjaan-indonesiamalaysia-lewat-employment-business-matching-2026"
- },
- {
-  "slug": "puskopkar-ptpn-viii-diversifikasi-bisnis-lewat-dana-lpdb",
-  "category": "UMKM",
-  "title": "Puskopkar PTPN VIII [Diversifikasi] Bisnis Lewat Dana LPDB",
-  "deck": "Puskopkar PTPN VIII memperluas bisnis ke agrowisata, laundry coin, dan barbershop dengan dukungan dana bergulir LPDB Koperasi sejak 2021, demi mengurangi ketergantungan pada bisnis induk perusahaan.",
-  "date": "12 September 2026",
-  "image": "assets/img/puskopkar-ptpn-viii-diversifikasi-bisnis-lewat-dana-lpdb.jpg",
-  "imageV": "mty51cr7",
-  "tags": [
-   "puskopkar",
-   "ptpn viii",
-   "lpdb koperasi",
-   "dana bergulir"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466617-dana-bergulir-lpdb-koperasi-perkuat-puskopkar-ptpn-viii-bisnis-teh-hingga-agrowisata-berhasil-dikembangkan"
- },
- {
-  "slug": "anindya-bakrie-bawa-visi-hilirisasi-ri-ke-forum-brics",
-  "category": "Global",
-  "title": "Anindya Bakrie Bawa Visi [Hilirisasi] RI ke Forum BRICS",
-  "deck": "Ketua Kadin Anindya Bakrie sampaikan visi ekonomi Presiden Prabowo di forum bisnis BRICS New Delhi, di hadapan Putin, Modi, dan pemimpin dunia lain.",
-  "date": "12 September 2026",
-  "image": "assets/img/anindya-bakrie-bawa-visi-hilirisasi-ri-ke-forum-brics.jpg",
-  "imageV": "mtxz1jb2",
-  "tags": [
-   "brics",
-   "kadin indonesia",
-   "anindya bakrie",
-   "hilirisasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466602-disimak-putin-hingga-modi-anindya-bakrie-pidato-bawa-visi-prabowo-ke-forum-brics"
- },
- {
-  "slug": "bumdes-sulap-lahan-kosong-jadi-wisata-petik-melon",
-  "category": "UMKM",
-  "title": "BUMDes Sulap Lahan Kosong Jadi Wisata Petik [Melon]",
-  "deck": "BUMDes Panjunan mengubah lahan kosong jadi greenhouse melon hidroponik yang bisa dipetik langsung, panen 400 buah tiap tiga bulan.",
-  "date": "12 September 2026",
-  "image": "assets/img/bumdes-sulap-lahan-kosong-jadi-wisata-petik-melon.jpg",
-  "imageV": "mtxz1jrt",
-  "tags": [
-   "BUMDes",
-   "melon hidroponik",
-   "wisata petik",
-   "ketahanan pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466599-lahan-bumdes-disulap-jadi-wisata-petik-melon-3-bulan-sekali-panen-400-buah"
- },
- {
-  "slug": "rupst-gria-tanpa-dividen-direktur-pemasaran-dihapus",
-  "category": "Aksi Korporasi",
-  "title": "RUPST GRIA: Tanpa [Dividen], Direktur Pemasaran Dihapus",
-  "deck": "RUPST GRIA pada 30 Juni 2026 memutuskan tidak membagi dividen tahun buku 2025, menghapus jabatan Direktur Pemasaran, dan mengangkat Bambang Eko Prabowo sebagai Direktur Operasional baru.",
-  "date": "12 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GRIA",
-   "RUPST",
-   "dividen",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a12886f4ea_29c1331b54.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-bahas-rencana-ekspansi-kapasitas-nikel-di-publik-expose",
-  "category": "Aksi Korporasi",
-  "title": "PACK Bahas Rencana [Ekspansi] Kapasitas Nikel di Publik Expose",
-  "deck": "Manajemen PACK mengaku tengah mempertimbangkan aksi korporasi untuk menambah kapasitas bijih nikel, dan menegaskan EEP tetap jadi pemegang saham pengendali, bukan Haji Isam.",
-  "date": "12 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "Public Expose",
-   "Aksi Korporasi",
-   "Nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/44d3c65149_5efe3b8fa6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dssa-pangkas-modal-ganti-presiden-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "DSSA [Pangkas] Modal, Ganti Presiden Komisaris",
-  "deck": "RUPSLB DSSA menyetujui pengurangan modal lewat penarikan 3,85 miliar saham buyback dan menunjuk David Fernando Audy sebagai Presiden Komisaris baru.",
-  "date": "12 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DSSA",
-   "RUPSLB",
-   "pengurangan modal",
-   "pergantian komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/484dae9803_a612d61cbd.pdf",
-  "sourceLabel": "IDX"
  }
 ];

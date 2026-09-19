@@ -134,6 +134,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "winr-pemegang-saham-besar-jual-saham-demi-tambah-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Besar Jual Saham demi Tambah [Free Float]",
+  "deck": "Pemenang Nusantara Internasional melepas 20,7 juta saham WINR senilai sekitar Rp562 juta pada 15 September 2026, menurunkan hak suaranya dari 47,72 persen menjadi 47,33 persen.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19092026-7762-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bei-delisting-etf-xbig-efektif-21-september-2026",
   "category": "Aksi Korporasi",
   "title": "BEI Delisting [ETF] XBIG Efektif 21 September 2026",
@@ -211,6 +227,22 @@ var ARTICLES = [
    "Transaksi Material"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65c2aa31b9_5ef1d1c0da.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "towr-direksi-lepas-97-saham-divestasi-di-harga-rp437",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Direksi Lepas 97% Saham, [Divestasi] di Harga Rp437",
+  "deck": "Direksi TOWR Indra Gunawan melepas 39,67 juta saham (97% kepemilikannya) secara tidak langsung di harga Rp437 pada 16 September 2026, untuk tujuan divestasi.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "kepemilikan saham",
+   "divestasi direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-3007-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6477,38 +6509,6 @@ var ARTICLES = [
    "BUMN Konstruksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2881464c6_faa33c07c3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "seleksi-maganghub-berlangsung-hasil-keluar-18-september",
-  "category": "Ketenagakerjaan",
-  "title": "Seleksi MagangHub Berlangsung, Hasil Keluar [18 September]",
-  "deck": "Seleksi peserta Program Pemagangan Nasional (MagangHub) Batch 2 Angkatan II berlangsung 9-15 September, hasil diumumkan 18 September, magang mulai 21 September 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/pasar-modal.jpg",
-  "tags": [
-   "MagangHub",
-   "Kemnaker",
-   "Pemagangan",
-   "Ketenagakerjaan"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/maganghub-batch-2-angkatan-ii-masuki-tahap-seleksi-hasil-diumumkan-18-september",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "pthk-rombak-komite-audit-anggota-baru-gantikan-mudanto-hatta",
-  "category": "Aksi Korporasi",
-  "title": "PTHK Rombak Komite Audit, [Anggota] Baru Gantikan Mudanto Hatta",
-  "deck": "Hutama Karya (PTHK) mengganti satu anggota komite audit. Maulidya Indah Junica menggantikan Mudanto Hatta sebagai Wakil Ketua, efektif 11 September 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTHK",
-   "Hutama Karya",
-   "Komite Audit",
-   "Tata Kelola Perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/deb33df7b8_282b2af9d9.pdf",
   "sourceLabel": "IDX"
  }
 ];

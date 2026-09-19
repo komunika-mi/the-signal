@@ -209,6 +209,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "winr-pemegang-saham-besar-jual-saham-demi-tambah-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Besar Jual Saham demi Tambah [Free Float]",
+  "deck": "Pemenang Nusantara Internasional melepas 20,7 juta saham WINR senilai sekitar Rp562 juta pada 15 September 2026, menurunkan hak suaranya dari 47,72 persen menjadi 47,33 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T13:01:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19092026-7762-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "OJK"
+  ],
+  "body": [
+   "Pemenang Nusantara Internasional, pemegang saham PT Winner Nusantara Jaya Tbk (WINR) yang bukan berasal dari jajaran direksi atau komisaris, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikannya di WINR berkurang. Sebelum transaksi, pelapor memegang 2.498.476.700 saham dengan hak suara 47,72 persen. Setelah transaksi, kepemilikannya menjadi 2.477.727.500 saham dengan hak suara 47,33 persen.",
+   "Pengurangan itu berasal dari dua transaksi penjualan tidak langsung pada 15 September 2026. Transaksi pertama melepas 18.686.900 saham biasa di harga Rp27 per saham, dan transaksi kedua melepas 2.062.300 saham biasa di harga Rp28 per saham. Total saham yang dijual mencapai 20.749.200 lembar dengan nilai sekitar Rp562,31 juta, dan dokumen mencatat tujuan transaksi sebagai upaya menambah saham free float atau porsi saham yang beredar bebas di publik.",
+   "Laporan disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan pemegang saham signifikan melaporkan setiap perubahan kepemilikannya ke OJK."
+  ],
+  "fotoAdegan": "Financial clerks in a Jakarta brokerage back office reviewing paperwork at wooden desks, computer screens blurred in background, morning light.",
+  "takeaway": "Laporan ini tergolong netral bagi WINR, karena saham yang dilepas hanya sekitar 0,83 persen dari kepemilikan pelapor dan hak suaranya cuma turun tipis dari 47,72 persen menjadi 47,33 persen, sehingga posisinya sebagai pemegang saham besar tidak tergoyahkan. Transaksi ini menambah jumlah saham WINR yang beredar bebas di pasar, dikenal sebagai free float, yakni porsi saham yang bisa diperjualbelikan publik di luar genggaman pemegang saham besar. Semakin besar free float, biasanya semakin mudah investor lain keluar masuk tanpa membuat harga saham bergejolak tajam saat ada transaksi besar. Yang perlu dipantau selanjutnya adalah apakah pelapor melanjutkan pelepasan bertahap semacam ini di laporan-laporan berikutnya, karena jika berlanjut, kepemilikannya yang kini masih di atas 47 persen bisa tergerus lebih jauh.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bei-delisting-etf-xbig-efektif-21-september-2026",
   "category": "Aksi Korporasi",
   "title": "BEI Delisting [ETF] XBIG Efektif 21 September 2026",
@@ -334,6 +360,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Modern multi-story hospital building exterior with covered ambulance entrance, tropical palm trees, bright midday light in Indonesia",
   "takeaway": "Laporan ini condong negatif dalam jangka pendek karena akuisisi senilai Rp9 triliun ini hampir seluruhnya dibiayai utang bank baru Rp8,9 triliun, dan berdasarkan simulasi proforma perusahaan, beban bunga dari utang itu langsung menekan laba periode berjalan turun sekitar Rp43 miliar dibanding tanpa transaksi, meski di sisi lain SILO mengubah statusnya dari penyewa menjadi pemilik langsung 14 rumah sakit yang selama ini dioperasikannya. Pos yang tersentuh adalah utang jangka panjang, yaitu pinjaman yang baru harus dilunasi bertahun tahun ke depan, yang melonjak dari hampir nol menjadi Rp8,88 triliun, serta beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjaman tersebut, dan keduanya membuat perusahaan jauh lebih tergantung pada utang dibanding sebelumnya. Pemegang saham perlu mencermati apakah RUPSLB pada 22 September 2026 menyetujui rencana ini, serta apakah pemegang opsi jual pada enam perusahaan tahap kedua benar benar melaksanakan opsinya, karena itu yang akan menentukan apakah seluruh 14 aset rumah sakit ini jadi berpindah tangan atau hanya delapan yang pertama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "towr-direksi-lepas-97-saham-divestasi-di-harga-rp437",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Direksi Lepas 97% Saham, [Divestasi] di Harga Rp437",
+  "deck": "Direksi TOWR Indra Gunawan melepas 39,67 juta saham (97% kepemilikannya) secara tidak langsung di harga Rp437 pada 16 September 2026, untuk tujuan divestasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T23:19:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-3007-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "kepemilikan saham",
+   "divestasi direksi"
+  ],
+  "body": [
+   "Indra Gunawan, anggota Direksi Sarana Menara Nusantara Tbk (TOWR), melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 39.673.000 lembar saham biasa TOWR secara tidak langsung pada 16 September 2026 dengan harga Rp437 per saham. Tujuan transaksi yang dicantumkan dalam laporan adalah divestasi. Kolom nama pemilik langsung pada laporan dikosongkan, menandakan saham tersebut sebelumnya dipegang melalui pihak lain, bukan atas nama Indra Gunawan sendiri.",
+   "Sebelum transaksi, Indra Gunawan tercatat memiliki 40.840.490 lembar saham TOWR, setara hak suara 0,0691 persen. Setelah penjualan, kepemilikannya tersisa 1.167.490 lembar saham dengan hak suara 0,0019 persen. Dengan kata lain, ia melepas 97,14 persen dari seluruh saham TOWR yang sebelumnya ia miliki, dengan nilai transaksi kotor sekitar Rp17,3 miliar berdasarkan harga yang tercantum dalam laporan.",
+   "Laporan ini disampaikan sebagai kewajiban keterbukaan sesuai Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians inspecting a steel lattice structure against a clear morning sky",
+  "takeaway": "Laporan ini condong negatif dari sisi sinyal insider, karena Indra Gunawan melepas 97,1 persen dari seluruh saham TOWR yang ia miliki, bukan sekadar sebagian kecil untuk keperluan pribadi. Yang tersentuh adalah hak suara direksi, yaitu porsi suara seseorang dalam keputusan pemegang saham, yang anjlok dari 0,0691 persen menjadi 0,0019 persen, meski secara nilai terhadap total saham TOWR yang beredar porsinya tetap sangat kecil. Karena ini transaksi jual beli antarpihak di pasar sekunder, bukan aksi korporasi TOWR, arus kas dan ekuitas perusahaan sendiri tidak terpengaruh langsung oleh transaksi ini. Yang perlu dicermati berikutnya adalah apakah direksi atau komisaris TOWR lain menyusul dengan pelepasan serupa dalam waktu dekat, karena laporan ini sendiri tidak menyebut agenda korporasi lanjutan seperti RUPSLB atau tenggat baru.",
   "sentimen": "negatif"
  },
  {

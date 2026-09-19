@@ -3,6 +3,83 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mtwi-cetak-laba-rp12-25-miliar-di-2024-aset-naik-64",
+  "category": "Aksi Korporasi",
+  "title": "MTWI Cetak [Laba] Rp12,25 Miliar di 2024, Aset Naik 64%",
+  "deck": "Laporan keuangan auditan 2024 menunjukkan MTWI membukukan laba bersih Rp12,25 miliar, berbalik dari rugi Rp8,37 miliar setahun sebelumnya, ditopang lonjakan pendapatan premi asuransi 57,8 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T15:42:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-27b08954-b399-455f-935a-fbb0531529f9-1/FinancialStatement-2024-Tahunan-MTWI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTWI",
+  "tags": [
+   "MTWI",
+   "laporan keuangan",
+   "asuransi",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Malacca Trust Wuwungan Insurance Tbk. (MTWI) menyampaikan laporan keuangan tahunan auditan untuk tahun buku yang berakhir pada 31 Desember 2024. Auditor independen dari Kantor Akuntan Publik Hendrawinata Hanny Erwin Sumargo, dengan partner penandatangan Welly Adrianto, memberikan opini wajar tanpa modifikasian atau opini bersih atas laporan tersebut. Ini merupakan tahun pertama Welly Adrianto menandatangani laporan MTWI, menggantikan auditor tahun sebelumnya dari Kantor Akuntan Publik Kosasih, Nurdiyaman, Tjahjo Rekan dengan partner Juninho Widjaja. Surat pernyataan tanggung jawab direksi atas laporan ini ditandatangani pada 26 Maret 2025.",
+   "Secara kinerja, MTWI membukukan laba bersih Rp12,25 miliar pada 2024, berbalik dari rugi Rp8,37 miliar pada 2023. Pendapatan dari premi asuransi naik 57,8 persen menjadi Rp1,01 triliun, dari sebelumnya Rp641,16 miliar. Total aset perusahaan tumbuh 64,4 persen menjadi Rp1,63 triliun, sementara total liabilitas naik lebih tajam lagi, 79,6 persen, menjadi Rp1,35 triliun. Ekuitas atau modal pemegang saham naik 16,9 persen menjadi Rp280,68 miliar, ditopang antara lain oleh penambahan modal saham biasa dari Rp264,70 miliar menjadi Rp292,45 miliar.",
+   "Dalam laporan ini, auditor mencantumkan dua hal audit utama. Pertama, penilaian aset reasuransi sebesar Rp678,39 miliar, setara 41,7 persen dari total aset, dan liabilitas reasuransi sebesar Rp875,36 miliar atau 65 persen dari total liabilitas. Aset dan liabilitas reasuransi ini adalah bagian risiko polis yang dilimpahkan ke perusahaan reasuransi lain, dan nilainya bergantung pada estimasi aktuaria serta pertimbangan manajemen atas cadangan teknis, yaitu dana yang disisihkan perusahaan untuk membayar klaim di masa depan. Kedua, auditor juga menyoroti penilaian dan keberadaan investasi pada efek milik MTWI, yang diperiksa antara lain lewat konfirmasi langsung ke bank kustodian dan pengujian ulang perhitungan pendapatan investasi."
+  ],
+  "fotoAdegan": "Customer service staff assisting a client at an insurance company service counter in a modern Jakarta office lobby",
+  "takeaway": "Laporan ini condong positif karena MTWI berhasil membalikkan kerugian tahun sebelumnya menjadi laba bersih Rp12,25 miliar pada 2024, didorong pendapatan premi asuransi yang melonjak 57,8 persen. Pos yang tersentuh adalah ekuitas, yakni modal milik pemegang saham yang mencerminkan kekayaan bersih perusahaan, yang naik 16,9 persen menjadi Rp280,68 miliar, sebagian berasal dari penambahan saham biasa senilai Rp27,75 miliar sehingga jumlah saham beredar ikut bertambah. Investor juga perlu mencermati ketergantungan MTWI pada reasuransi, yaitu praktik melimpahkan sebagian risiko polis ke perusahaan asuransi lain, karena nilainya mencapai 65 persen dari total liabilitas dan bergantung pada estimasi aktuaria atas cadangan teknis, yaitu dana yang disisihkan untuk membayar klaim di masa depan. Yang perlu dipantau berikutnya adalah apakah perbaikan laba ini berlanjut pada laporan-laporan kuartalan 2025, mengingat pernyataan direksi atas laporan ini baru ditandatangani 26 Maret 2025 dan belum mencakup perkembangan tahun berjalan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "dummypoc-masuk-papan-pemantauan-khusus-akibat-likuiditas-rendah",
+  "category": "Aksi Korporasi",
+  "title": "DUMMYPOC Masuk Papan [Pemantauan Khusus] Akibat Likuiditas Rendah",
+  "deck": "Bursa Efek Indonesia menempatkan saham berkode DUMMYPOC di papan pemantauan khusus mulai 19 September 2026 karena tidak memenuhi syarat free float dan likuiditas transaksi yang rendah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T15:39:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_DUMMYPOC_B031_43f9299e-7886-4634-9629-8e1bbf320d9e-20260919153827.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DUMMYPOC",
+  "tags": [
+   "DUMMYPOC",
+   "pemantauan khusus",
+   "BEI",
+   "likuiditas saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan perubahan penempatan papan pencatatan saham berkode DUMMYPOC ke papan Pemantauan Khusus dengan kategori Akselerasi, efektif berlaku mulai 19 September 2026. Dalam pengumuman bernomor TESTING-1013131313 itu, BEI mencantumkan dua kriteria yang menjadi dasar penempatan, yaitu kriteria nomor 6 dan nomor 7 dari sebelas kriteria pemantauan khusus yang berlaku di bursa, dengan keterangan status 'KETET'.",
+   "Kriteria nomor 6 menyebutkan saham DUMMYPOC tidak memenuhi ketentuan jumlah saham free float sebagaimana diatur dalam Peraturan Bursa Nomor I-A dan I-V, yaitu jumlah saham beredar di publik minimal 50 juta lembar dan di atas 5 persen dari total saham tercatat untuk papan Utama, Pengembangan, maupun Akselerasi. Kriteria nomor 7 menyebutkan saham ini juga masuk kategori likuiditas rendah, dengan rata-rata nilai transaksi harian di bawah Rp5.000.000 dan rata-rata volume transaksi harian di bawah 10.000 lembar saham di Pasar Reguler dan/atau Pasar Lelang Berkala Panggilan Reguler, selama tiga bulan terakhir.",
+   "BEI menjelaskan bahwa papan pemantauan khusus sendiri mencakup sebelas kemungkinan kriteria, mulai dari harga saham di bawah Rp51 per lembar, opini disclaimer pada laporan keuangan audit, ekuitas negatif, hingga kondisi perusahaan yang dimintakan PKPU atau pailit. Dalam kasus DUMMYPOC, hanya dua kriteria itu, yakni free float dan likuiditas, yang dicatat berlaku saat ini."
+  ],
+  "fotoAdegan": "Exterior of a tall glass office tower in Jakarta's financial district reflecting soft morning sunlight, pedestrians crossing below",
+  "takeaway": "Laporan ini condong negatif bagi emiten, karena penempatan di papan pemantauan khusus adalah penanda resmi dari bursa bahwa sahamnya bermasalah dari sisi struktur kepemilikan publik dan minat transaksi pasar. Dua pos yang tersentuh di sini adalah jumlah saham beredar di publik (free float), yaitu porsi saham yang tidak dikuasai pemegang saham pengendali sehingga bisa diperjualbelikan bebas, dan likuiditas saham, yaitu seberapa mudah saham itu diperjualbelikan tanpa membuat harganya bergerak liar; keduanya penting karena free float yang terlalu tipis dan transaksi yang terlalu sepi membuat investor sulit masuk atau keluar dari saham ini dengan harga wajar. Yang perlu dipantau berikutnya adalah apakah DUMMYPOC mampu memperbaiki dua kondisi ini pada evaluasi bursa selanjutnya, karena status pemantauan khusus biasanya ditinjau ulang secara berkala dan bisa berlanjut ke pembatasan perdagangan yang lebih ketat jika kriteria yang sama masih terpenuhi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "saham-bima-disetop-sementara-usai-mogok-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "Saham BIMA Disetop Sementara Usai [Mogok] Karyawan",
+  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham Primarindo Asia Infrastructure (BIMA) mulai 19 September 2026 akibat pemogokan karyawan, berlaku di seluruh pasar sejak sesi pra-pembukaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T15:18:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_BIMA_B007_8775acbf-6af4-4ad0-9f66-3f5adced629d-20260919151736.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIMA",
+  "tags": [
+   "BIMA",
+   "Primarindo Asia Infrastructure",
+   "suspensi saham",
+   "mogok karyawan"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan penghentian sementara perdagangan atau suspensi saham PT Primarindo Asia Infrastructure Tbk dengan kode BIMA, mulai 19 September 2026. Dalam pengumuman resmi bernomor TEST-B007-BIMA, bursa mencantumkan pemogokan karyawan sebagai penyebab suspensi. Penghentian berlaku sejak sesi pra-pembukaan untuk mekanisme perdagangan lelang berkelanjutan atau continuous auction, dan mencakup seluruh pasar, yakni pasar reguler, tunai, maupun negosiasi.",
+   "Bursa tidak mencantumkan keterangan tambahan mengenai skala pemogokan, jumlah karyawan yang terlibat, atau tuntutan yang diajukan. Kolom penyebab lain dalam dokumen diisi 'Tidak Ada', yang berarti pemogokan karyawan menjadi satu-satunya alasan resmi yang diungkap otoritas bursa untuk menghentikan sementara transaksi saham perseroan. Pengumuman ditandatangani secara elektronik oleh Rana Approver dari Divisi Penilaian Perusahaan 1 BEI, dan tidak mencantumkan tanggal atau syarat pencabutan suspensi."
+  ],
+  "fotoAdegan": "A group of factory workers gathered outside a manufacturing plant gate during a labor dispute, tense morning atmosphere",
+  "takeaway": "Laporan ini condong negatif bagi Primarindo Asia Infrastructure, karena bursa sampai perlu menghentikan perdagangan sahamnya akibat pemogokan karyawan, tanda ada masalah hubungan kerja yang cukup serius di internal perusahaan. Pos yang tersentuh ada dua, arus kas dan likuiditas saham. Kalau pemogokan menghentikan kegiatan produksi, uang yang masuk dari penjualan bisa tertahan sehingga arus kas perusahaan tertekan, sementara suspensi membuat investor untuk sementara tidak bisa menjual atau membeli saham BIMA sampai dicabut oleh bursa. Yang perlu dipantau selanjutnya adalah pengumuman pencabutan suspensi dari BEI serta penjelasan resmi manajemen Primarindo soal penyebab dan penyelesaian pemogokan ini, karena dokumen yang beredar belum mencantumkan tanggal berakhirnya penghentian perdagangan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pnm-ubah-lorong-padat-jadi-kebun-sayur-lewat-agro-urban-madani",
   "category": "UMKM",
   "title": "PNM Ubah Lorong Padat Jadi Kebun Sayur Lewat [Agro Urban Madani]",

@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mtwi-cetak-laba-rp12-25-miliar-di-2024-aset-naik-64",
+  "category": "Aksi Korporasi",
+  "title": "MTWI Cetak [Laba] Rp12,25 Miliar di 2024, Aset Naik 64%",
+  "deck": "Laporan keuangan auditan 2024 menunjukkan MTWI membukukan laba bersih Rp12,25 miliar, berbalik dari rugi Rp8,37 miliar setahun sebelumnya, ditopang lonjakan pendapatan premi asuransi 57,8 persen.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTWI",
+   "laporan keuangan",
+   "asuransi",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-27b08954-b399-455f-935a-fbb0531529f9-1/FinancialStatement-2024-Tahunan-MTWI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dummypoc-masuk-papan-pemantauan-khusus-akibat-likuiditas-rendah",
+  "category": "Aksi Korporasi",
+  "title": "DUMMYPOC Masuk Papan [Pemantauan Khusus] Akibat Likuiditas Rendah",
+  "deck": "Bursa Efek Indonesia menempatkan saham berkode DUMMYPOC di papan pemantauan khusus mulai 19 September 2026 karena tidak memenuhi syarat free float dan likuiditas transaksi yang rendah.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DUMMYPOC",
+   "pemantauan khusus",
+   "BEI",
+   "likuiditas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_DUMMYPOC_B031_43f9299e-7886-4634-9629-8e1bbf320d9e-20260919153827.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-bima-disetop-sementara-usai-mogok-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "Saham BIMA Disetop Sementara Usai [Mogok] Karyawan",
+  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham Primarindo Asia Infrastructure (BIMA) mulai 19 September 2026 akibat pemogokan karyawan, berlaku di seluruh pasar sejak sesi pra-pembukaan.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIMA",
+   "Primarindo Asia Infrastructure",
+   "suspensi saham",
+   "mogok karyawan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_BIMA_B007_8775acbf-6af4-4ad0-9f66-3f5adced629d-20260919151736.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pnm-ubah-lorong-padat-jadi-kebun-sayur-lewat-agro-urban-madani",
   "category": "UMKM",
   "title": "PNM Ubah Lorong Padat Jadi Kebun Sayur Lewat [Agro Urban Madani]",
@@ -6462,51 +6510,6 @@ var ARTICLES = [
    "RUPS"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/45961ea227_cd55195f38.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-king-melonjak-7-49-manajemen-sebut-tak-ada-info-material",
-  "category": "Aksi Korporasi",
-  "title": "Saham KING Melonjak 7,49%, Manajemen Sebut Tak Ada Info [Material]",
-  "deck": "Direksi PT Hoffmen Cleanindo Tbk menyatakan tidak ada informasi material yang mendasari lonjakan harga dan volume transaksi saham KING awal September 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KING",
-   "Hoffmen Cleanindo",
-   "UMA",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba0275e3db_9447d9c280.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmtp-bentuk-10-regional-ceo-disetujui-ojk",
-  "category": "Aksi Korporasi",
-  "title": "BMTP Bentuk 10 [Regional CEO], Disetujui OJK",
-  "deck": "PT Bank Mandiri Taspen membentuk 10 kantor wilayah dengan Regional CEO di berbagai kota, sebagai bagian dari penguatan tata kelola organisasi.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMTP"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3fce1d3803_ff4c31eaca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nice-jelaskan-arus-kas-operasi-negatif-meski-laba-naik",
-  "category": "Aksi Korporasi",
-  "title": "NICE jelaskan [arus kas] operasi negatif meski laba naik",
-  "deck": "NICE menjelaskan ke BEI: laba semester I 2026 naik 80,8% ke Rp170,14 miliar, tapi arus kas operasi minus Rp106,48 miliar akibat denda kehutanan Rp185,93 miliar.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICE",
-   "laporan keuangan",
-   "arus kas",
-   "likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f763dff22b_fce51aab52.pdf",
   "sourceLabel": "IDX"
  }
 ];

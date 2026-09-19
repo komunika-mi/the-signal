@@ -3,6 +3,31 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "devisa-pariwisata-ri-tembus-us-8-43-miliar-semester-i-2026",
+  "category": "Makroekonomi",
+  "title": "Devisa Pariwisata RI [Tembus] US$8,43 Miliar Semester I 2026",
+  "deck": "Sektor pariwisata menyumbang devisa US$8,43 miliar pada semester I 2026, melanjutkan capaian tahun lalu senilai US$18,27 miliar.",
+  "image": "assets/img/devisa-pariwisata-ri-tembus-us-8-43-miliar-semester-i-2026.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T17:29:20+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468077-devisa-pariwisata-indonesia-tembus-843-miliar-dolar-as-pada-semester-i-2026",
+  "tags": [
+   "devisa",
+   "pariwisata",
+   "wisatawan mancanegara"
+  ],
+  "body": [
+   "Sektor pariwisata Indonesia mencatatkan devisa US$8,43 miliar sepanjang semester pertama 2026, menurut Wakil Menteri Pariwisata Ni Luh Puspa. Angka ini penting karena pariwisata menjadi salah satu sumber utama penerimaan devisa negara di luar ekspor komoditas, sehingga pergerakannya ikut memengaruhi cadangan devisa serta lapangan kerja di sektor perhotelan, transportasi, dan usaha wisata lainnya.",
+   "Capaian semester pertama ini melanjutkan tren tahun 2025, ketika Indonesia menerima 15,39 juta kunjungan wisatawan mancanegara dan mencatat sekitar 1,2 miliar perjalanan wisatawan domestik sepanjang tahun. Total devisa pariwisata sepanjang 2025 tercatat US$18,27 miliar, sehingga realisasi semester pertama 2026 setara sekitar 46 persen dari capaian penuh tahun sebelumnya.",
+   "Ni Luh menyebut tren ini menunjukkan pariwisata tetap menjadi penggerak penting ekonomi nasional, sekaligus mendorong agar pengembangan ke depan tidak hanya mengejar jumlah kunjungan tapi juga kualitas dan keberlanjutan. Pesan itu ia sampaikan saat menghadiri wisuda Politeknik Pariwisata Makassar, seraya berharap lulusan menjadi tenaga kerja pariwisata yang tangguh, adaptif, dan mampu bekerja lintas budaya, tanpa meninggalkan nilai kearifan lokal Sulawesi Selatan seperti sipakainge, sipakatau, dan sipakalebbi."
+  ],
+  "fotoAdegan": "Tourists boarding a traditional wooden boat at a busy tropical harbor, luggage being loaded, bright midday sun",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/12/24/694bc699009af-wakil-menteri-pariwisata-wamenpar-ni-luh-enik-ermawati-alias-ni-luh-puspa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Berita ini tidak menyebutkan berapa devisa pariwisata pada semester pertama 2025 sebagai pembanding langsung. Tanpa angka itu sulit dipastikan apakah performa tahun ini benar tumbuh lebih cepat, sebab separuh dari capaian penuh 2025 saja sudah sekitar US$9,1 miliar, sedikit di atas realisasi semester pertama 2026 yang US$8,43 miliar. Yang jelas terdampak adalah pelaku usaha perhotelan, transportasi wisata, dan daerah tujuan wisata, karena devisa ini pada dasarnya berasal dari uang yang dibelanjakan turis asing selama di Indonesia. Untuk mengetahui ke mana arah tren ini sebenarnya bergerak, perlu ditunggu data kunjungan wisatawan mancanegara semester pertama 2026 serta perbandingan devisa yoy, yaitu dibandingkan periode yang sama tahun sebelumnya, yang biasanya dirilis Kementerian Pariwisata atau BPS secara berkala.",
+  "imageV": "mu8aeh2k"
+ },
+ {
   "slug": "mtwi-cetak-laba-rp12-25-miliar-di-2024-aset-naik-64",
   "category": "Aksi Korporasi",
   "title": "MTWI Cetak [Laba] Rp12,25 Miliar di 2024, Aset Naik 64%",

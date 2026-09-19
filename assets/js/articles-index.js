@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "devisa-pariwisata-ri-tembus-us-8-43-miliar-semester-i-2026",
+  "category": "Makroekonomi",
+  "title": "Devisa Pariwisata RI [Tembus] US$8,43 Miliar Semester I 2026",
+  "deck": "Sektor pariwisata menyumbang devisa US$8,43 miliar pada semester I 2026, melanjutkan capaian tahun lalu senilai US$18,27 miliar.",
+  "date": "19 September 2026",
+  "image": "assets/img/devisa-pariwisata-ri-tembus-us-8-43-miliar-semester-i-2026.jpg",
+  "imageV": "mu8aeh2k",
+  "tags": [
+   "devisa",
+   "pariwisata",
+   "wisatawan mancanegara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468077-devisa-pariwisata-indonesia-tembus-843-miliar-dolar-as-pada-semester-i-2026"
+ },
+ {
   "slug": "mtwi-cetak-laba-rp12-25-miliar-di-2024-aset-naik-64",
   "category": "Aksi Korporasi",
   "title": "MTWI Cetak [Laba] Rp12,25 Miliar di 2024, Aset Naik 64%",
@@ -6495,21 +6511,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466473-sinar-mas-land-resmi-luncurkan-dance-platform-networking-dan-community-engagement-bagi-ekosistem-digital-hub"
- },
- {
-  "slug": "vici-komisaris-dan-komisaris-independen-mundur",
-  "category": "Aksi Korporasi",
-  "title": "VICI: Komisaris dan Komisaris Independen [Mundur]",
-  "deck": "Komisaris Vibhav Panandiker dan Komisaris Independen Van Schoote Christian Pierre B mengundurkan diri dari VICI pada 10 September 2026, memicu rencana RUPS.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICI",
-   "komisaris independen",
-   "pengunduran diri",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/45961ea227_cd55195f38.pdf",
-  "sourceLabel": "IDX"
  }
 ];

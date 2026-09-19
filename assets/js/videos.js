@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "2eJh0E0aX_U",
+  "title": "DEN-DPI dan GovTech: Perlu Akuntabilitas Anggaran yang Jelas",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Rencana pembukaan rekening bank massal yang diperkirakan membutuhkan anggaran APBN hingga Rp11 triliun menuai pro dan kontra, sementara sejumlah pihak mendorong perbaikan Data Tunggal Sosial sebagai alternatif.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut efisiensi penggunaan anggaran negara untuk program inklusi keuangan.",
+  "terbit": "2026-09-19T11:15:47+00:00"
+ },
+ {
   "id": "uXO7E1yTWbg",
   "title": "Rengginang Bertahan di Tengah Gempuran Jajanan Modern",
   "category": "UMKM",

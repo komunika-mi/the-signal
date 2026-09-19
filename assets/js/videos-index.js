@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "2eJh0E0aX_U",
+  "title": "DEN-DPI dan GovTech: Perlu Akuntabilitas Anggaran yang Jelas",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Rencana pembukaan rekening bank massal yang diperkirakan membutuhkan anggaran APBN hingga Rp11 triliun menuai pro dan kontra, sementara sejumlah pihak mendorong perbaikan Data Tunggal Sosial sebagai alternatif.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut efisiensi penggunaan anggaran negara untuk program inklusi keuangan."
+ },
+ {
   "id": "uXO7E1yTWbg",
   "title": "Rengginang Bertahan di Tengah Gempuran Jajanan Modern",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Menteri Desa dan Pembangunan Daerah Tertinggal Yandri Susanto berdialog dengan petani kopi dan pengelola BUMDesa di Desa Megamendung, Bogor, membahas pengembangan usaha desa.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti penguatan usaha desa dan pertanian kopi sebagai penopang ekonomi masyarakat setempat."
- },
- {
-  "id": "popw6u-6nbc",
-  "title": "Kadin dan Pemerintah Dorong Regulasi Sektor Wisata",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Kadin Indonesia dan pemerintah membahas dorongan regulasi baru untuk sektor wisata dalam forum diplomasi ekonomi bulanan di Kementerian Pariwisata, Jakarta.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan yang berdampak pada iklim usaha di sektor pariwisata."
  }
 ];

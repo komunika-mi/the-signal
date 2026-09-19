@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "unvr-ungkap-keberlanjutan-tak-cukup-sekadar-csr",
+  "category": "Industri",
+  "title": "UNVR Ungkap [Keberlanjutan] Tak Cukup Sekadar CSR",
+  "deck": "Unilever Indonesia menyebut prinsip keberlanjutan kini harus melekat di seluruh rantai bisnis, dari bahan baku hingga kemasan, dengan target emisi nol bersih pada 2039.",
+  "image": "assets/img/unvr-ungkap-keberlanjutan-tak-cukup-sekadar-csr.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T20:47:21+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468104-keberlanjutan-tak-cuma-soal-csr-unilever-unvr-ungkap-perlunya-integrasi-dalam-rantai-bisnis",
+  "tags": [
+   "Unilever",
+   "keberlanjutan",
+   "UNVR",
+   "plastik"
+  ],
+  "body": [
+   "Unilever Indonesia menegaskan bahwa keberlanjutan tidak lagi cukup dijalankan sebagai program tanggung jawab sosial perusahaan yang terpisah dari bisnis inti. Prinsip itu, menurut perusahaan, perlu menyatu dengan seluruh tahapan usaha, mulai dari pemilihan bahan baku, proses produksi, sampai pengelolaan kemasan setelah dipakai konsumen. Pernyataan ini menunjukkan pergeseran cara salah satu produsen barang konsumsi terbesar di Indonesia memperlakukan isu lingkungan, dari sekadar kegiatan amal menjadi bagian dari cara mereka berbisnis sehari-hari.",
+   "Director of Communication, Corporate Affairs & Sustainability Unilever Indonesia, Nurdiana Darus, menyampaikan hal itu dalam diskusi bertajuk Growing with Purpose di ajang Katadata SAFE 2026, Sabtu (19/9/2026). Ia menyebut komitmen keberlanjutan perusahaan sudah berjalan lebih dari 20 tahun dan kini memasuki fase ketiga, dengan target emisi nol bersih pada 2039. Bedanya dengan fase-fase sebelumnya, kata Nurdiana, keberlanjutan kini melekat langsung pada proses bisnis, bukan lagi program tambahan di luar operasional.",
+   "Pada sisi bahan baku, Unilever menjalankan komitmen penelusuran asal bahan atau sustainable sourcing sejak 2010, sehingga perusahaan bisa memastikan bahan yang dipakai berasal dari sumber yang ramah bagi manusia dan lingkungan. Di lini produksi, prinsip serupa diterapkan lewat standar operasional dan sistem penjaminan mutu untuk menjaga keamanan dan kualitas produk.",
+   "Untuk kemasan, Unilever memegang empat komitmen soal plastik: mengurangi penggunaan plastik baru, memperbanyak pemakaian material daur ulang, mengembangkan kemasan yang bisa didaur ulang, dipakai ulang, atau terurai secara hayati, serta mengumpulkan dan mengolah sampah plastik dalam jumlah yang melebihi total plastik yang mereka pakai. Nurdiana menyebut seluruh komitmen ini berasal dari kebijakan global perusahaan dan diterapkan di semua pasar, termasuk Indonesia yang menjadi salah satu dari lima pasar terbesar Unilever di dunia."
+  ],
+  "fotoAdegan": "Workers sorting recycled plastic bottles on a conveyor belt inside a busy Indonesian recycling facility, daylight through skylights",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/19/6aae8fabbf19c-sesi-diskusi-growing-with-purpose-business-leadership-for-sustainable-impact_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan pemerintah, melainkan cara Unilever menempatkan keberlanjutan, dari program CSR yang terpisah menjadi bagian melekat di rantai bisnis, mulai dari penelusuran asal bahan baku sejak 2010 sampai target emisi nol bersih pada 2039. Yang terdampak langsung adalah pemasok bahan baku yang harus memenuhi standar keterlusuran, serta ekosistem pengelolaan sampah kemasan karena Unilever menjanjikan mengumpulkan plastik melebihi yang mereka pakai sendiri. Yang belum bisa dibaca dari pernyataan ini adalah seberapa jauh implementasinya sudah berjalan, sebab belum ada angka realisasi seperti persentase bahan baku yang sudah tertelusuri atau berapa ton sampah plastik yang benar-benar terkumpul. Yang perlu ditunggu adalah laporan keberlanjutan tahunan Unilever Indonesia yang biasanya memuat angka realisasi itu, sehingga klaim di forum ini bisa dibandingkan dengan data konkret di lapangan.",
+  "imageV": "mu8hy5hg"
+ },
+ {
+  "slug": "pertamina-kembali-puncaki-fortune-indonesia-100-2026",
+  "category": "BUMN",
+  "title": "Pertamina Kembali [Puncaki] Fortune Indonesia 100 2026",
+  "deck": "Pertamina kembali puncaki Fortune Indonesia 100 2026 dengan pendapatan Rp1.189,74 triliun dan laba bersih Rp56,23 triliun pada tahun fiskal 2025.",
+  "image": "assets/img/pertamina-kembali-puncaki-fortune-indonesia-100-2026.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T20:04:56+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468097-pertamina-raih-posisi-puncak-di-fortune-indonesia-100-gala-2026-buktikan-ketahanan-kinerja-cemerlang",
+  "tags": [
+   "Pertamina",
+   "Fortune Indonesia 100",
+   "BUMN",
+   "Laba Bersih"
+  ],
+  "body": [
+   "Pertamina kembali menempati posisi puncak Fortune Indonesia 100 2026 sebagai perusahaan dengan pendapatan terbesar di Indonesia. Pengumuman ini disampaikan dalam ajang Fortune Indonesia 100 Gala 2026 di Hotel Mulia, Senayan, Jakarta, pada Kamis, 17 September 2026. Predikat ini menegaskan posisi Pertamina sebagai kontributor utama perekonomian nasional, mengingat pemeringkatan tersebut didasarkan murni pada kinerja keuangan yang telah dipublikasikan perusahaan.",
+   "Berdasarkan kinerja tahun fiskal 2025, Fortune Indonesia mencatat pendapatan Pertamina sebesar Rp1.189,74 triliun, dengan laba bersih, yaitu keuntungan yang tersisa setelah dikurangi seluruh biaya, sebesar Rp56,23 triliun. Angka tersebut dikonversi dari dolar Amerika Serikat memakai kurs rata-rata tahun fiskal 2025 sebesar Rp16.785 per US$1. Pencapaian ini disebut mencerminkan ketahanan kinerja perusahaan di tengah gejolak ekonomi global, sekaligus menjaga perannya dalam memastikan pasokan energi bagi masyarakat dan industri dalam negeri.",
+   "Secara keseluruhan, dari 100 perusahaan yang masuk daftar Fortune Indonesia 100 edisi 2026, sebanyak 66 persen mencatat kenaikan pendapatan, namun hanya 49 perusahaan yang berhasil menaikkan laba bersihnya. Chief Operating Officer sekaligus Co-Founder IDN Media, William Utomo, menyebut pemeringkatan ini menggambarkan penilaian objektif berdasarkan data dan capaian bisnis yang telah dipublikasikan tiap perusahaan.",
+   "Sementara itu, VP Corporate Communication Pertamina, Muhammad Baron, menyatakan penghargaan tersebut merupakan bentuk apresiasi atas kerja seluruh pekerja Pertamina dalam menjaga kinerja perusahaan. Ia menyebut Pertamina tetap menjaga kondisi operasional dan keuangan yang sehat di tengah dinamika global, sambil menjalankan peran strategisnya dalam mendukung ketahanan energi nasional."
+  ],
+  "fotoAdegan": "Industrial oil refinery towers and pipelines under an evening sky, steam rising, distant tanker ships in the harbor.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/19/6aae87c78fc8f-pertamina-sabet-posisi-puncak-di-fortune-indonesia-100-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data di balik pemeringkatan ini justru lebih menarik dari sekadar gelar juara Pertamina. Dari 100 perusahaan besar yang masuk daftar Fortune Indonesia 100 2026, 66 di antaranya berhasil menaikkan pendapatan, tapi hanya 49 yang laba bersihnya ikut naik. Artinya lebih dari separuh perusahaan besar itu omzetnya membesar namun keuntungan yang dibawa pulang justru stagnan atau menyusut, pertanda biaya operasional dan tekanan persaingan ikut menggerus keuntungan di tengah ketidakpastian ekonomi global. Pertamina termasuk yang berhasil menjaga pendapatan dan laba bersih tumbuh bersamaan, tapi pola di seluruh daftar ini mengarah ke tahun yang lebih berat bagi keuntungan korporasi besar Indonesia dibanding soal omzet semata. Yang akan memastikan apakah ini tren berlanjut atau cuma sekali jalan adalah laporan kinerja kuartalan perusahaan-perusahaan besar dalam beberapa bulan ke depan, serta edisi Fortune Indonesia 100 tahun berikutnya.",
+  "imageV": "mu8hyhdn"
+ },
+ {
   "slug": "devisa-pariwisata-ri-tembus-us-8-43-miliar-semester-i-2026",
   "category": "Makroekonomi",
   "title": "Devisa Pariwisata RI [Tembus] US$8,43 Miliar Semester I 2026",

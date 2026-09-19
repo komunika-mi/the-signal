@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "XzEPCg9Qz38",
+  "title": "Mixue Alihkan Fokus ke Kualitas dan Profit, Bukan Ekspansi Gerai",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Mixue kini memprioritaskan peningkatan kualitas produk, layanan, dan profitabilitas dari sekitar 2.000 gerainya di Indonesia, ketimbang mengejar target pembukaan toko baru.",
+  "takeaway": "Pergeseran strategi ini relevan bagi pembaca ekonomi karena menandai perubahan pola bisnis waralaba makanan minuman di Indonesia dari ekspansi jumlah gerai ke efisiensi dan profitabilitas."
+ },
+ {
   "id": "2eJh0E0aX_U",
   "title": "DEN-DPI dan GovTech: Perlu Akuntabilitas Anggaran yang Jelas",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "HainanTicket.com meraih penghargaan APSI 2026 di kategori Inovasi Layanan Travel Muslim Haji dan Umrah, diterima langsung oleh Presiden Direktur perusahaan, Sastra Wijaya.",
   "takeaway": "Relevan bagi pembaca karena menggambarkan pertumbuhan industri perjalanan ibadah sebagai segmen bisnis yang terus berinovasi."
- },
- {
-  "id": "bqL0-LXX3-U",
-  "title": "Mendes Yandri Berdialog dengan Petani Kopi Bogor",
-  "category": "UMKM",
-  "program": "Kabar Hari Ini",
-  "summary": "Menteri Desa dan Pembangunan Daerah Tertinggal Yandri Susanto berdialog dengan petani kopi dan pengelola BUMDesa di Desa Megamendung, Bogor, membahas pengembangan usaha desa.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti penguatan usaha desa dan pertanian kopi sebagai penopang ekonomi masyarakat setempat."
  }
 ];

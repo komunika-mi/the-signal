@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "unvr-ungkap-keberlanjutan-tak-cukup-sekadar-csr",
+  "category": "Industri",
+  "title": "UNVR Ungkap [Keberlanjutan] Tak Cukup Sekadar CSR",
+  "deck": "Unilever Indonesia menyebut prinsip keberlanjutan kini harus melekat di seluruh rantai bisnis, dari bahan baku hingga kemasan, dengan target emisi nol bersih pada 2039.",
+  "date": "19 September 2026",
+  "image": "assets/img/unvr-ungkap-keberlanjutan-tak-cukup-sekadar-csr.jpg",
+  "imageV": "mu8hy5hg",
+  "tags": [
+   "Unilever",
+   "keberlanjutan",
+   "UNVR",
+   "plastik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468104-keberlanjutan-tak-cuma-soal-csr-unilever-unvr-ungkap-perlunya-integrasi-dalam-rantai-bisnis"
+ },
+ {
+  "slug": "pertamina-kembali-puncaki-fortune-indonesia-100-2026",
+  "category": "BUMN",
+  "title": "Pertamina Kembali [Puncaki] Fortune Indonesia 100 2026",
+  "deck": "Pertamina kembali puncaki Fortune Indonesia 100 2026 dengan pendapatan Rp1.189,74 triliun dan laba bersih Rp56,23 triliun pada tahun fiskal 2025.",
+  "date": "19 September 2026",
+  "image": "assets/img/pertamina-kembali-puncaki-fortune-indonesia-100-2026.jpg",
+  "imageV": "mu8hyhdn",
+  "tags": [
+   "Pertamina",
+   "Fortune Indonesia 100",
+   "BUMN",
+   "Laba Bersih"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468097-pertamina-raih-posisi-puncak-di-fortune-indonesia-100-gala-2026-buktikan-ketahanan-kinerja-cemerlang"
+ },
+ {
   "slug": "devisa-pariwisata-ri-tembus-us-8-43-miliar-semester-i-2026",
   "category": "Makroekonomi",
   "title": "Devisa Pariwisata RI [Tembus] US$8,43 Miliar Semester I 2026",
@@ -6477,38 +6511,6 @@ var ARTICLES = [
    "perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a0b0c69e40_f1d2e2da77.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pefindo-turunkan-peringkat-obligasi-wika-ke-idd-usai-gagal-bayar",
-  "category": "Aksi Korporasi",
-  "title": "PEFINDO Turunkan Peringkat Obligasi [WIKA] ke idD Usai Gagal Bayar",
-  "deck": "PEFINDO menurunkan peringkat empat obligasi dan sukuk WIKA dari idCCC menjadi idD, menyusul tertundanya pembayaran pokok dan kupon Rp1,6 triliun pada 8 September 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "obligasi",
-   "gagal bayar",
-   "PEFINDO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bf49fc1f14_b3dd7d72eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wton-ungkap-margin-bersih-tipis-0-07-di-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "WTON Ungkap Margin Bersih [Tipis] 0,07% di Public Expose",
-  "deck": "Dalam Public Expose Tahunan, manajemen WIKA Beton membeberkan margin laba bersih kuartal II 2026 hanya 0,07% serta target kontrak baru Rp3,8-4 triliun di akhir tahun.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WTON",
-   "Wijaya Karya Beton",
-   "Public Expose",
-   "BUMN Konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2881464c6_faa33c07c3.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "XzEPCg9Qz38",
+  "title": "Mixue Alihkan Fokus ke Kualitas dan Profit, Bukan Ekspansi Gerai",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Mixue kini memprioritaskan peningkatan kualitas produk, layanan, dan profitabilitas dari sekitar 2.000 gerainya di Indonesia, ketimbang mengejar target pembukaan toko baru.",
+  "takeaway": "Pergeseran strategi ini relevan bagi pembaca ekonomi karena menandai perubahan pola bisnis waralaba makanan minuman di Indonesia dari ekspansi jumlah gerai ke efisiensi dan profitabilitas.",
+  "terbit": "2026-09-19T14:19:52+00:00"
+ },
+ {
   "id": "2eJh0E0aX_U",
   "title": "DEN-DPI dan GovTech: Perlu Akuntabilitas Anggaran yang Jelas",
   "category": "Makroekonomi",

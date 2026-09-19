@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pnm-ubah-lorong-padat-jadi-kebun-sayur-lewat-agro-urban-madani",
+  "category": "UMKM",
+  "title": "PNM Ubah Lorong Padat Jadi Kebun Sayur Lewat [Agro Urban Madani]",
+  "deck": "PNM memanfaatkan lorong dan gang di kawasan padat penduduk untuk budidaya sayur hidroponik, memberdayakan nasabah Mekaar demi ketahanan pangan keluarga.",
+  "date": "19 September 2026",
+  "image": "assets/img/pnm-ubah-lorong-padat-jadi-kebun-sayur-lewat-agro-urban-madani.jpg",
+  "imageV": "mu8523oj",
+  "tags": [
+   "PNM",
+   "Agro Urban Madani",
+   "Mekaar",
+   "ketahanan pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468061-pnm-sulap-lorong-kota-menjadi-sumber-pangan-lewat-program-agro-urban-madani"
+ },
+ {
   "slug": "mknt-ganti-seluruh-direksi-dan-komisaris-usai-rupslb",
   "category": "Aksi Korporasi",
   "title": "MKNT Ganti Seluruh [Direksi] dan Komisaris Usai RUPSLB",
@@ -6490,22 +6507,6 @@ var ARTICLES = [
    "likuiditas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f763dff22b_fce51aab52.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akra-paparkan-kinerja-semester-i-lahan-jiipe-terjual-58-hektare",
-  "category": "Aksi Korporasi",
-  "title": "AKRA Paparkan Kinerja Semester I, Lahan [JIIPE] Terjual 58 Hektare",
-  "deck": "Dalam public expose 8 September 2026, AKR Corporindo memaparkan penjualan lahan JIIPE sekitar 58 hektare, ROE 7%, dan realisasi capex Rp546 miliar dari target Rp1 triliun.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKRA",
-   "AKR Corporindo",
-   "Public Expose",
-   "JIIPE"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0c9d2b042_6e1d16efe7.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pnm-ubah-lorong-padat-jadi-kebun-sayur-lewat-agro-urban-madani",
+  "category": "UMKM",
+  "title": "PNM Ubah Lorong Padat Jadi Kebun Sayur Lewat [Agro Urban Madani]",
+  "deck": "PNM memanfaatkan lorong dan gang di kawasan padat penduduk untuk budidaya sayur hidroponik, memberdayakan nasabah Mekaar demi ketahanan pangan keluarga.",
+  "image": "assets/img/pnm-ubah-lorong-padat-jadi-kebun-sayur-lewat-agro-urban-madani.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T15:04:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468061-pnm-sulap-lorong-kota-menjadi-sumber-pangan-lewat-program-agro-urban-madani",
+  "tags": [
+   "PNM",
+   "Agro Urban Madani",
+   "Mekaar",
+   "ketahanan pangan"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (Persero) meluncurkan program bernama Agro Urban Madani yang mengajak nasabah program pinjaman mikro Mekaar bercocok tanam di lahan sempit. Sasarannya adalah keluarga di kawasan padat penduduk yang rumahnya berhimpitan dan tidak punya halaman atau tanah kosong untuk berkebun. Dengan sistem hidroponik, lorong dan gang yang biasanya hanya jadi jalur lalu lalang warga kini bisa dipakai menanam sayuran.",
+   "Salah satu contohnya ada di Sukmajaya, Depok, tempat Ibu Dewi dan kelompoknya menanam pakcoy, kangkung, dan bayam di sekitar tempat tinggal mereka. Kegiatan mulai dari menanam, merawat, sampai memanen dilakukan bersama-sama. Menurut Dewi, hasil panen yang dibawa pulang untuk dimasak keluarga membantu menghemat pengeluaran belanja rumah tangga.",
+   "Program ini disebut sudah berjalan di 10 titik lain selain Depok dan menjangkau ratusan nasabah Mekaar. Direktur Utama PNM Kindaris menyampaikan, program ini menjadi wadah bagi nasabah untuk belajar mandiri pangan sekaligus mendorong produktivitas. Ia menambahkan, pengetahuan budidaya yang dibagikan antarnasabah memperkuat kebersamaan dan hasil panennya berpotensi dijual untuk menambah pendapatan keluarga."
+  ],
+  "fotoAdegan": "Women tending small hydroponic vegetable planters lining a narrow residential alley, morning light, urban Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/19/6aae411c2521a-program-agro-urban-madani-dari-pnm_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah PNM memperluas program menanam sayur di lorong sempit ini, kini tercatat di 11 titik total, yaitu 10 lokasi lain ditambah Sukmajaya Depok, dan sudah menjangkau ratusan nasabah program pinjaman mikro Mekaar. Yang terdampak adalah nasabah Mekaar, kebanyakan ibu-ibu pelaku usaha mikro di kawasan padat penduduk, yang kini bisa dapat tambahan sayuran dari kebun bersama tanpa harus membeli. Berita ini belum menyebutkan berapa besar penghematan nyata per keluarga, berapa target jumlah titik ke depan, atau apakah program ini dikaitkan dengan kelancaran cicilan nasabah, jadi belum bisa disimpulkan apakah ini sekadar kegiatan pemberdayaan tambahan atau bagian dari strategi PNM memperkuat daya tahan ekonomi nasabahnya secara terukur. Yang perlu dipantau adalah apakah PNM nanti merilis angka konkret soal dampak program ini, misalnya jumlah titik baru atau nilai penghematan pangan per keluarga.",
+  "imageV": "mu8523oj"
+ },
+ {
   "slug": "mknt-ganti-seluruh-direksi-dan-komisaris-usai-rupslb",
   "category": "Aksi Korporasi",
   "title": "MKNT Ganti Seluruh [Direksi] dan Komisaris Usai RUPSLB",

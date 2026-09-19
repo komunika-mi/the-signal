@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "uXO7E1yTWbg",
+  "title": "Rengginang Bertahan di Tengah Gempuran Jajanan Modern",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Rengginang, camilan tradisional berbahan ketan, masih bertahan di pasar meski bersaing dengan beragam jajanan modern yang terus bermunculan.",
+  "takeaway": "Menggambarkan daya tahan pelaku usaha kuliner tradisional di tengah persaingan industri makanan ringan modern.",
+  "terbit": "2026-09-19T06:09:21+00:00"
+ },
+ {
+  "id": "X3ofVDlYZOU",
+  "title": "Pengusaha Kuliner Keluhkan Pungli Parkir yang Membebani Usaha",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Seorang pengusaha kuliner mengaku telah menghabiskan biaya hingga jutaan rupiah akibat dugaan pungutan liar parkir yang menambah beban operasional usahanya.",
+  "takeaway": "Menyoroti dampak pungutan liar terhadap biaya operasional pelaku usaha kuliner kecil dan menengah.",
+  "terbit": "2026-09-19T05:59:21+00:00"
+ },
+ {
   "id": "wOm5ihandBM",
   "title": "Rekening Massal, Bansos Makin Tepat Sasaran?",
   "category": "Makroekonomi",

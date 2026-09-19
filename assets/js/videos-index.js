@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "uXO7E1yTWbg",
+  "title": "Rengginang Bertahan di Tengah Gempuran Jajanan Modern",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Rengginang, camilan tradisional berbahan ketan, masih bertahan di pasar meski bersaing dengan beragam jajanan modern yang terus bermunculan.",
+  "takeaway": "Menggambarkan daya tahan pelaku usaha kuliner tradisional di tengah persaingan industri makanan ringan modern."
+ },
+ {
+  "id": "X3ofVDlYZOU",
+  "title": "Pengusaha Kuliner Keluhkan Pungli Parkir yang Membebani Usaha",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Seorang pengusaha kuliner mengaku telah menghabiskan biaya hingga jutaan rupiah akibat dugaan pungutan liar parkir yang menambah beban operasional usahanya.",
+  "takeaway": "Menyoroti dampak pungutan liar terhadap biaya operasional pelaku usaha kuliner kecil dan menengah."
+ },
+ {
   "id": "wOm5ihandBM",
   "title": "Rekening Massal, Bansos Makin Tepat Sasaran?",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Kadin Indonesia dan pemerintah membahas dorongan regulasi baru untuk sektor wisata dalam forum diplomasi ekonomi bulanan di Kementerian Pariwisata, Jakarta.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan yang berdampak pada iklim usaha di sektor pariwisata."
- },
- {
-  "id": "IMNsjazEOQM",
-  "title": "Kadin Minta Tarif Administrasi Perusahaan Diseragamkan",
-  "category": "UMKM",
-  "program": "Kabar Utama",
-  "summary": "Kamar Dagang dan Industri Indonesia mendorong pemerintah menyeragamkan tarif administrasi perusahaan guna memberi kepastian regulasi bagi pelaku usaha, terutama UMKM.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kepastian biaya dan regulasi usaha yang berdampak pada iklim investasi dan pelaku UMKM."
- },
- {
-  "id": "vY06rqWFuYI",
-  "title": "Harga Minyak Dunia Melonjak ke US$101 per Barel",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Harga minyak mentah dunia melonjak mendekati US$100 dan sempat menembus kisaran US$101 per barel, dipicu eskalasi konflik militer AS-Iran yang meluas ke sejumlah negara Teluk lain.",
-  "takeaway": "Lonjakan harga minyak dunia berpotensi mendorong kenaikan biaya energi dan tekanan inflasi, termasuk bagi Indonesia sebagai negara pengimpor minyak."
  }
 ];

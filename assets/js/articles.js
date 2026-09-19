@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "arko-tunjuk-ulang-direktur-utama-lewat-rups",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Tunjuk Ulang Direktur Utama Lewat [RUPS]",
+  "deck": "RUPS ARKO pada 10 September 2026 mengangkat kembali Aldo Henry Artoko sebagai Direktur Utama dan Arya Pradana Setidadharma sebagai Komisaris Utama, masa jabatan hingga 2032.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T09:03:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_ARKO_E036_63b69155-fd96-489e-add3-2a0b585e2b01-20260919090227.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Direksi",
+   "Komisaris",
+   "RUPS"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk melaporkan hasil Rapat Umum Pemegang Saham pada 10 September 2026 yang mengangkat kembali Aldo Henry Artoko sebagai Direktur Utama. Ini merupakan periode jabatan keduanya di posisi yang sama, terhitung sejak 3 September 2026 hingga 10 September 2032. Karena berstatus pengangkatan kembali, tidak ada pergantian orang di kursi puncak direksi ARKO.",
+   "RUPS yang sama juga mengangkat kembali Arya Pradana Setidadharma sebagai Komisaris Utama, dengan masa jabatan dari 3 September 2026 sampai 1 September 2032, juga penunjukan kedua kalinya untuk posisi tersebut. Statusnya tetap komisaris non independen, sama seperti periode sebelumnya. Dokumen menyebut Arya juga merangkap sebagai pengawas di PT Anugerah Kagum Karya Utama Tbk, entitas afiliasi yang ikut dicatat dalam laporan perubahan pengurus ini.",
+   "Dengan keputusan ini, susunan direksi dan dewan komisaris ARKO tidak berubah dari sebelumnya. Yang berubah hanya jangka waktu jabatan yang diperpanjang hingga 2032 untuk keduanya."
+  ],
+  "fotoAdegan": "Small hydroelectric power station with a turbine house and water channel nestled among green hills, soft morning light",
+  "takeaway": "Laporan ini netral bagi ARKO karena isinya sebatas perpanjangan masa jabatan pejabat yang sudah menjabat sebelumnya, bukan pergantian orang baru yang bisa mengubah arah strategi perusahaan. Tidak ada pos keuangan seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang bergerak akibat keputusan ini, tapi pelaku pasar tetap mencermati siapa yang duduk di direksi dan komisaris karena merekalah yang nantinya memutuskan kebijakan utang, investasi, dan pembagian dividen perusahaan. Yang perlu dipantau adalah bagaimana kepengurusan baru ini menjalankan masa jabatannya sampai berakhir pada 2032, terutama karena Komisaris Utama ARKO juga merangkap posisi pengawas di PT Anugerah Kagum Karya Utama Tbk seperti disebut dalam laporan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "apia-ganti-komisaris-independen-romy-bareno-gantikan-abdul-muis",
   "category": "Aksi Korporasi",
   "title": "APIA Ganti [Komisaris] Independen: Romy Bareno Gantikan Abdul Muis",
@@ -257,6 +283,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Empty formal corporate meeting hall with rows of chairs facing a stage, soft morning light through tall windows in Jakarta",
   "takeaway": "Penilaian atas agenda ini netral, sebab RUPS sekaligus membawa dua kabar berlawanan arah, yaitu rencana dividen tunai yang menguntungkan pemegang saham dan rencana penambahan modal tanpa hak memesan efek terlebih dahulu yang berpotensi mengurangi porsi kepemilikan mereka, sementara besaran keduanya belum diumumkan sehingga dampak bersihnya belum bisa dihitung. Yang tersentuh adalah jumlah saham beredar dan potensi laba per saham: pembagian saham bonus menambah jumlah saham yang beredar tanpa mengubah proporsi kepemilikan tiap pemegang saham, sedangkan penambahan modal lewat PMTHMETD bisa menambah saham beredar dari pemegang baru sehingga porsi kepemilikan pemegang saham lama yang tidak ikut serta bisa mengecil. Yang perlu dipantau adalah hasil resmi RUPS pada 18 September 2026 pukul 10.00 WIB di Jakarta Selatan, yang akan mengumumkan nilai dividen per saham, rasio saham bonus, dan skema lengkap PMTHMETD termasuk jumlah serta harga saham baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "obligasi-arko-rp318-miliar-jatuh-tempo-stop-transaksi-30-sep",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi ARKO Rp318 Miliar [Jatuh Tempo], Stop Transaksi 30 Sep",
+  "deck": "BEI menghentikan pencatatan obligasi hijau ARKO senilai Rp318,06 miliar mulai 30 September 2026, menyusul jatuh tempo pada 8 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T21:50:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_B012_076ee20c-fbd7-4d5d-a302-bceda6390749-20260919094258.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa mulai 30 September 2026, Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri A dengan kode ARKO01AGN tidak lagi tercatat dan tidak bisa diperdagangkan di bursa. Obligasi ini diterbitkan PT Arkora Hydro Tbk (ARKO) pada 8 Agustus 2023 dengan nilai pokok Rp318,06 miliar, dan jatuh tempo pada 8 Agustus 2026.",
+   "Penghentian pencatatan ini merupakan prosedur standar begitu sebuah obligasi mencapai tanggal jatuh temponya, karena sejak itu instrumen tersebut tidak lagi berlaku sebagai efek yang diperjualbelikan di pasar sekunder. Bagi pemegang obligasi, ini menandai bahwa kewajiban perseroan atas seri ini dianggap berakhir sesuai jadwal, dan proses selanjutnya adalah pelunasan pokok beserta kupon terakhir langsung ke pemegang obligasi lewat KSEI.",
+   "Obligasi hijau ini sebelumnya juga disinggung dalam laporan pemeringkatan PEFINDO yang mempertahankan rating dan memberi outlook positif atas seri ARKO01AGN. Namun, jatuh temponya bersamaan dengan sejumlah tekanan kas lain yang dihadapi ARKO, termasuk gugatan penundaan kewajiban pembayaran utang dari pemasok senilai Rp70 juta dan program pembelian kembali saham yang sudah menyerap dana untuk 70 juta lembar saham."
+  ],
+  "fotoAdegan": "A small hydroelectric power station beside a fast flowing river in a forested Indonesian valley, morning mist rising",
+  "takeaway": "Laporan ini netral bagi ARKO karena penghentian pencatatan obligasi yang jatuh tempo adalah prosedur baku bursa, bukan sinyal soal kemampuan bayar perseroan, apalagi PEFINDO baru saja mempertahankan rating obligasi ini dengan outlook positif. Yang tersentuh adalah pos utang dan arus kas perusahaan: begitu pokok Rp318,06 miliar dilunasi, beban utang jangka panjang berkurang sebesar itu, tapi kas dalam jumlah besar juga harus disiapkan bersamaan dengan dana yang sudah terpakai untuk buyback saham. Pelaku pasar biasanya mencermati pos ini karena arus kas yang tergerus bisa membatasi ruang gerak perusahaan menghadapi kewajiban lain, termasuk gugatan PKPU dari pemasok yang masih berjalan. Yang perlu dipantau berikutnya adalah pengumuman resmi ARKO soal pelunasan pokok dan kupon terakhir obligasi ini, serta laporan keuangan kuartal mendatang untuk melihat dampak riil pembayaran Rp318,06 miliar terhadap posisi kas perseroan.",
   "sentimen": "netral"
  },
  {

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "arko-tunjuk-ulang-direktur-utama-lewat-rups",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Tunjuk Ulang Direktur Utama Lewat [RUPS]",
+  "deck": "RUPS ARKO pada 10 September 2026 mengangkat kembali Aldo Henry Artoko sebagai Direktur Utama dan Arya Pradana Setidadharma sebagai Komisaris Utama, masa jabatan hingga 2032.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Direksi",
+   "Komisaris",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_ARKO_E036_63b69155-fd96-489e-add3-2a0b585e2b01-20260919090227.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "apia-ganti-komisaris-independen-romy-bareno-gantikan-abdul-muis",
   "category": "Aksi Korporasi",
   "title": "APIA Ganti [Komisaris] Independen: Romy Bareno Gantikan Abdul Muis",
@@ -162,6 +178,22 @@ var ARTICLES = [
    "PMTHMETD"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_TKS-KORSFU_E049_4f0cf407-0c7d-499e-bfe1-0f04859233a1-20260918215359.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "obligasi-arko-rp318-miliar-jatuh-tempo-stop-transaksi-30-sep",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi ARKO Rp318 Miliar [Jatuh Tempo], Stop Transaksi 30 Sep",
+  "deck": "BEI menghentikan pencatatan obligasi hijau ARKO senilai Rp318,06 miliar mulai 30 September 2026, menyusul jatuh tempo pada 8 Agustus 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_B012_076ee20c-fbd7-4d5d-a302-bceda6390749-20260919094258.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6474,38 +6506,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6e2be5e66f_575e623a29.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "assa-sewa-lahan-dari-kerabat-presdir-dalam-transaksi-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "ASSA Sewa Lahan dari Kerabat Presdir dalam Transaksi [Afiliasi]",
-  "deck": "Anak usaha ASSA, PT Adi Sarana Transportasi, menyewa lahan 5.175 meter persegi milik kerabat Presiden Direktur senilai Rp2 miliar untuk tiga tahun.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASSA",
-   "transaksi afiliasi",
-   "Adi Sarana Armada",
-   "sewa lahan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ed058ab606_eca465d126.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptmr-akui-salah-saji-laporan-keuangan-janji-revisi-menyeluruh",
-  "category": "Aksi Korporasi",
-  "title": "PTMR akui salah saji laporan keuangan, janji [revisi] menyeluruh",
-  "deck": "Menjawab permintaan penjelasan BEI, Master Print mengakui rentetan kejanggalan pada laporan keuangan semester I 2026 dan berjanji merevisi jumlah saham, piutang, dan aset tetap.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTMR",
-   "Master Print",
-   "laporan keuangan",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c8799e8b4d_79b4c6373d.pdf",
   "sourceLabel": "IDX"
  }
 ];

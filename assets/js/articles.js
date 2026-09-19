@@ -157,6 +157,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "arko-obligasi-hijau-rp21-8-miliar-delisting-2027",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Obligasi Hijau Rp21,8 Miliar [Delisting] 2027",
+  "deck": "PT Arkora Hydro Tbk (ARKO) mengumumkan seri obligasi hijau senilai Rp21,8 miliar akan berhenti diperdagangkan di bursa mulai 18 September 2027, menjelang jatuh tempo 8 Agustus 2028.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T13:21:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_ARKO_B012_bf57994d-fb5f-4a62-abb8-0c57f3a9e278-20260919174934.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "obligasi hijau",
+   "jatuh tempo obligasi"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mengumumkan bahwa mulai 18 September 2027, salah satu seri obligasi PT Arkora Hydro Tbk (ARKO) tidak lagi tercatat dan tidak bisa diperdagangkan di bursa. Obligasi yang dimaksud adalah Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri B dengan kode ARKO01BGN, bernilai Rp21,8 miliar berdasarkan prospektus yang terbit pada 2 Agustus 2023.",
+   "Obligasi seri B ini pertama kali diterbitkan pada 8 Agustus 2023 dan memiliki tanggal jatuh tempo pada 8 Agustus 2028. Begitu obligasi jatuh tempo, perseroan wajib melunasi seluruh pokok utang senilai Rp21,8 miliar kepada para pemegang obligasi, dan setelah itu efek tersebut otomatis dihapus dari pencatatan perdagangan di BEI.",
+   "Obligasi hijau ini merupakan bagian dari pendanaan Arkora Hydro untuk proyek pembangkit listrik tenaga air yang menjadi bisnis inti perseroan. Selain seri B ini, ARKO juga memiliki seri obligasi lain berkode ARKO01AGN yang baru saja mendapat konfirmasi peringkat dari PEFINDO dengan outlook positif, menandakan lembaga pemeringkat masih menilai perseroan mampu memenuhi kewajiban utangnya."
+  ],
+  "fotoAdegan": "Wide shot of a small hydroelectric dam and turbine house beside a fast-flowing river in a forested Indonesian valley, misty morning light",
+  "takeaway": "Pengumuman ini netral bagi ARKO, karena penghapusan pencatatan obligasi begitu mendekati jatuh tempo adalah prosedur baku bursa, bukan sinyal baru soal kondisi keuangan perusahaan. Yang tersentuh adalah pos utang dan arus kas perseroan: begitu obligasi seri B ini jatuh tempo pada 8 Agustus 2028, Arkora Hydro wajib menyediakan dana tunai untuk melunasi pokok senilai Rp21,8 miliar kepada pemegang obligasi, dan keterlambatan membayar bisa berdampak pada peringkat kreditnya. Pelaku pasar akan mencermati kesiapan dana pelunasan itu, apalagi belakangan ARKO juga sempat digugat PKPU oleh pemasok meski dengan nilai tagihan yang jauh lebih kecil, sehingga kemampuan membayar tepat waktu tetap layak dipantau. Dua tanggal yang perlu dicatat adalah 18 September 2027, saat obligasi ini resmi berhenti diperdagangkan di bursa, dan 8 Agustus 2028 sebagai batas akhir pelunasan pokoknya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kaef-gelar-rups-bahas-dividen-hingga-saham-baru",
   "category": "Aksi Korporasi",
   "title": "KAEF Gelar RUPS, Bahas [Dividen] hingga Saham Baru",
@@ -388,6 +414,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "arko-tender-wajib-rampung-6-dari-40-juta-saham-terealisasi",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Tender Wajib Rampung, 6 dari 40 Juta Saham [Terealisasi]",
+  "deck": "Pengendali baru ARKO baru merealisasikan 6 juta dari 40 juta saham wajib beli dalam tender yang berakhir 19 September 2026, jauh dari target.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T22:08:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E010_232c46b3-5d29-4569-bb8d-982a343f2276-20260919152412.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "tender wajib",
+   "pengendali baru",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) melaporkan hasil penawaran tender wajib oleh pengendali baru perseroan kepada Bursa Efek Indonesia. Dalam laporan itu disebutkan pengendali baru wajib membeli 40 juta saham publik ARKO selama periode 6 September sampai 19 September 2026, dengan tanggal penyelesaian pada 19 September 2026. Sampai batas waktu itu, jumlah saham yang benar-benar terbeli baru 6 juta saham, atau sekitar 15 persen dari kewajiban yang seharusnya dipenuhi.",
+   "Dokumen tersebut juga mencantumkan perubahan komposisi kepemilikan pengendali baru. Sebelum pelaksanaan tender, pengendali baru tercatat memegang 239.809.123 saham ARKO atau setara 12 persen. Setelah tender berakhir, laporan menyebut kepemilikannya menjadi 1.000.000 saham atau 10 persen.",
+   "Penawaran tender wajib semacam ini lazim terjadi setelah terjadi perpindahan pengendali suatu perusahaan tercatat, karena aturan pasar modal mewajibkan pengendali baru menawarkan pembelian saham kepada pemegang saham publik lainnya. Laporan ini merupakan kelanjutan dari perkembangan yang sebelumnya sudah dilaporkan ARKO, yang saat itu baru menyebut realisasi 6 juta saham sebagai progres, bukan hasil akhir periode tender."
+  ],
+  "fotoAdegan": "Wide shot of a small hydroelectric power plant with water flowing through turbine intake channels in a forested mountain valley, overcast morning light",
+  "takeaway": "Laporan ini netral bagi kondisi keuangan ARKO, karena transaksi tender wajib ini hanya memindahkan kepemilikan saham antar pemegang saham dan tidak menambah setoran modal, mengubah jumlah saham beredar, atau memengaruhi arus kas perseroan. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, bukan pos ekuitas atau laba per saham, karena porsi saham yang berpindah tangan menentukan siapa yang mengendalikan ARKO ke depan, bukan berapa besar modal atau labanya. Yang mencolok adalah realisasinya jauh dari target: dari kewajiban 40 juta saham, baru 6 juta atau sekitar 15 persen yang terbeli saat batas waktu penyelesaian jatuh pada 19 September 2026. Perlu dipantau apakah Bursa atau OJK meminta penjelasan resmi soal rendahnya realisasi ini, serta apakah ada langkah lanjutan dari pengendali baru untuk memenuhi sisa kewajiban pembeliannya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "arko-pengendali-baru-beli-6-juta-dari-40-juta-saham-tender",
   "category": "Aksi Korporasi",
   "title": "ARKO: Pengendali Baru Beli 6 Juta dari 40 Juta Saham [Tender]",
@@ -539,6 +591,31 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Empty formal corporate meeting hall with rows of chairs facing a stage, soft morning light through tall windows in Jakarta",
   "takeaway": "Penilaian atas agenda ini netral, sebab RUPS sekaligus membawa dua kabar berlawanan arah, yaitu rencana dividen tunai yang menguntungkan pemegang saham dan rencana penambahan modal tanpa hak memesan efek terlebih dahulu yang berpotensi mengurangi porsi kepemilikan mereka, sementara besaran keduanya belum diumumkan sehingga dampak bersihnya belum bisa dihitung. Yang tersentuh adalah jumlah saham beredar dan potensi laba per saham: pembagian saham bonus menambah jumlah saham yang beredar tanpa mengubah proporsi kepemilikan tiap pemegang saham, sedangkan penambahan modal lewat PMTHMETD bisa menambah saham beredar dari pemegang baru sehingga porsi kepemilikan pemegang saham lama yang tidak ikut serta bisa mengecil. Yang perlu dipantau adalah hasil resmi RUPS pada 18 September 2026 pukul 10.00 WIB di Jakarta Selatan, yang akan mengumumkan nilai dividen per saham, rasio saham bonus, dan skema lengkap PMTHMETD termasuk jumlah serta harga saham baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-obligasi-hijau-rp318-miliar-delisting-per-30-september",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Obligasi Hijau Rp318 Miliar [Delisting] per 30 September",
+  "deck": "Obligasi Berwawasan Lingkungan I Arkora Hydro Seri A senilai Rp318,06 miliar dihapus dari pencatatan bursa mulai 30 September 2026, menyusul jatuh tempo pada 8 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T21:50:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_B012_076ee20c-fbd7-4d5d-a302-bceda6390749-20260919152959.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "obligasi",
+   "delisting",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan penghapusan pencatatan Obligasi Berwawasan Lingkungan I Arkora Hydro Tahun 2023 Seri A dengan kode ARKO01AGN. Obligasi bernilai Rp318,06 miliar ini diterbitkan pada 8 Agustus 2023 dan telah jatuh tempo pada 8 Agustus 2026. Mulai 30 September 2026, obligasi tersebut tidak lagi tercatat dan tidak dapat diperdagangkan melalui BEI.",
+   "Penghapusan pencatatan ini merupakan konsekuensi standar begitu sebuah obligasi mencapai akhir masa jatuh temponya, sesuai ketentuan bursa. Pengumuman ini tidak disertai keterangan rinci dari PT Arkora Hydro Tbk mengenai status pelunasan pokok utang kepada pemegang obligasi, sehingga informasi yang dipastikan sejauh ini baru soal berhentinya perdagangan obligasi di bursa, bukan konfirmasi pembayaran."
+  ],
+  "fotoAdegan": "Wide shot of a small hydroelectric dam and turbine house beside a fast flowing river in a mountainous Indonesian valley",
+  "takeaway": "Laporan ini netral bagi ARKO, karena penghapusan pencatatan obligasi begitu jatuh tempo adalah prosedur baku bursa yang memang sudah bisa diperkirakan sejak obligasi ini terbit tiga tahun lalu, bukan sinyal baru soal kondisi keuangan perusahaan. Yang tersentuh adalah pos utang dan arus kas perusahaan: jika pokok senilai Rp318,06 miliar itu sudah dilunasi ke pemegang obligasi, beban bunga tahunan yang selama ini dibayar ARKO akan hilang, tapi kas perusahaan juga berkurang sebesar nilai pelunasan tersebut. Yang perlu dipantau selanjutnya adalah apakah ARKO merilis keterbukaan informasi terpisah yang menegaskan pokok obligasi ini sudah dibayar lunas ke pemegang obligasi, serta memastikan proses delisting berjalan sesuai jadwal pada 30 September 2026.",
   "sentimen": "netral"
  },
  {

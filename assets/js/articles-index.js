@@ -102,6 +102,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "arko-obligasi-hijau-rp21-8-miliar-delisting-2027",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Obligasi Hijau Rp21,8 Miliar [Delisting] 2027",
+  "deck": "PT Arkora Hydro Tbk (ARKO) mengumumkan seri obligasi hijau senilai Rp21,8 miliar akan berhenti diperdagangkan di bursa mulai 18 September 2027, menjelang jatuh tempo 8 Agustus 2028.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "obligasi hijau",
+   "jatuh tempo obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_ARKO_B012_bf57994d-fb5f-4a62-abb8-0c57f3a9e278-20260919174934.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kaef-gelar-rups-bahas-dividen-hingga-saham-baru",
   "category": "Aksi Korporasi",
   "title": "KAEF Gelar RUPS, Bahas [Dividen] hingga Saham Baru",
@@ -246,6 +262,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "arko-tender-wajib-rampung-6-dari-40-juta-saham-terealisasi",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Tender Wajib Rampung, 6 dari 40 Juta Saham [Terealisasi]",
+  "deck": "Pengendali baru ARKO baru merealisasikan 6 juta dari 40 juta saham wajib beli dalam tender yang berakhir 19 September 2026, jauh dari target.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "tender wajib",
+   "pengendali baru",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E010_232c46b3-5d29-4569-bb8d-982a343f2276-20260919152412.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "arko-pengendali-baru-beli-6-juta-dari-40-juta-saham-tender",
   "category": "Aksi Korporasi",
   "title": "ARKO: Pengendali Baru Beli 6 Juta dari 40 Juta Saham [Tender]",
@@ -339,6 +371,22 @@ var ARTICLES = [
    "PMTHMETD"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_TKS-KORSFU_E049_4f0cf407-0c7d-499e-bfe1-0f04859233a1-20260918215359.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-obligasi-hijau-rp318-miliar-delisting-per-30-september",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Obligasi Hijau Rp318 Miliar [Delisting] per 30 September",
+  "deck": "Obligasi Berwawasan Lingkungan I Arkora Hydro Seri A senilai Rp318,06 miliar dihapus dari pencatatan bursa mulai 30 September 2026, menyusul jatuh tempo pada 8 Agustus 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "obligasi",
+   "delisting",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_B012_076ee20c-fbd7-4d5d-a302-bceda6390749-20260919152959.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6462,54 +6510,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/deb33df7b8_282b2af9d9.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-sini-grup-pjk-bidik-pengambilalihan-wajib-mto",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose SINI: Grup PJK Bidik [Pengambilalihan], Wajib MTO",
-  "deck": "SINI ungkap negosiasi pengambilalihan oleh Grup PJK yang berpotensi memicu tender offer wajib, serta penggunaan dana rights issue dan cadangan batu bara yang naik ke 231 juta ton.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SINI",
-   "Grup PJK",
-   "tender offer wajib",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5621143147_7ebbc52798.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "antm-cetak-laba-bersih-rp6-91-triliun-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "ANTM Cetak [Laba Bersih] Rp6,91 Triliun Semester I 2026",
-  "deck": "ANTAM membukukan pendapatan Rp62,71 triliun dan laba bersih Rp6,91 triliun pada semester I 2026, ditopang bisnis emas, nikel, dan bauksit.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANTM",
-   "laba bersih",
-   "emas",
-   "nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7d140c191a_77507ccfd5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sinar-mas-land-luncurkan-platform-digital-d-a-n-c-e",
-  "category": "Teknologi",
-  "title": "Sinar Mas Land Luncurkan Platform [Digital] D.A.N.C.E",
-  "deck": "Sinar Mas Land meluncurkan D.A.N.C.E, platform digital untuk mempertemukan puluhan perusahaan di ekosistem Digital Hub BSD City lewat program pilot dan agenda komunitas.",
-  "date": "11 September 2026",
-  "image": "assets/img/sinar-mas-land-luncurkan-platform-digital-d-a-n-c-e.jpg",
-  "imageV": "mtwxd8xq",
-  "tags": [
-   "Sinar Mas Land",
-   "Digital Hub",
-   "BSD City",
-   "D.A.N.C.E"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466473-sinar-mas-land-resmi-luncurkan-dance-platform-networking-dan-community-engagement-bagi-ekosistem-digital-hub"
  }
 ];

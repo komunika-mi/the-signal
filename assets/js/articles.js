@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mknt-ganti-seluruh-direksi-dan-komisaris-usai-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Ganti Seluruh [Direksi] dan Komisaris Usai RUPSLB",
+  "deck": "RUPSLB MKNT menyetujui pengunduran seluruh direksi dan komisaris lama, sekaligus mengangkat Santoso Widjojo sebagai Direktur Utama dan Handoyo Setiawan sebagai Komisaris Utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T13:48:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cfe8014c6_aeafdcc36f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "perubahan pengurus",
+   "RUPSLB",
+   "direksi dan komisaris"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk. (MKNT) mengumumkan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) tanggal 14 September 2026 yang merombak seluruh jajaran direksi dan komisaris. RUPSLB menerima pengunduran diri Jefri Junaedi dari jabatan Direktur Utama dan Samuel Eben Heizer T. dari jabatan Direktur, lalu langsung mengangkat Santoso Widjojo sebagai Direktur Utama baru dan Jehuda Ebenhaezer Winata sebagai Direktur baru. Perubahan ini berlaku efektif sejak RUPSLB ditutup pada hari yang sama.",
+   "Di jajaran komisaris, RUPSLB menerima pengunduran diri Irwan Raharja yang sebelumnya merangkap posisi Komisaris Utama sekaligus Komisaris Independen, serta Muhamad Zidane Alfarizi dari jabatan Komisaris. Sebagai gantinya, RUPSLB mengangkat Handoyo Setiawan sebagai Komisaris Utama, Idrus Marham sebagai Komisaris, dan Erry Firmansyah sebagai Komisaris Independen, sehingga posisi komisaris utama dan komisaris independen kini dipegang dua orang berbeda, tidak lagi dirangkap satu orang. Seluruh pengangkatan ini berlaku sampai penutupan Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2026 yang akan digelar pada 2027.",
+   "Keterbukaan informasi ini merupakan pelengkap dari pengumuman ringkasan risalah RUPSLB yang sudah disampaikan perseroan pada 16 September 2026. Perseroan menyatakan perubahan susunan pengurus ini tidak berdampak material terhadap kegiatan operasional, kondisi hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "A polished modern boardroom with a long table and empty leather chairs, soft morning light through tall office windows.",
+  "takeaway": "Laporan ini condong positif dibanding kekhawatiran sebelumnya, karena RUPSLB yang sama yang menerima pengunduran diri seluruh direksi dan komisaris juga langsung mengisi semua kursi itu tanpa jeda, sehingga kekosongan kepemimpinan yang sempat dikhawatirkan tidak benar-benar terjadi. Pergantian pengurus seperti ini tidak langsung mengubah angka di laporan keuangan seperti modal pemilik perusahaan (ekuitas) atau laba per lembar saham, tapi direksi dan komisaris barulah yang nantinya menentukan arah kebijakan perusahaan, termasuk soal pengelolaan kas dan utang ke depan. Perlu diingat juga bahwa struktur komisaris berubah dari satu orang yang merangkap Komisaris Utama sekaligus Komisaris Independen menjadi dua jabatan terpisah, yang secara umum dianggap tata kelola lebih baik karena fungsi independen tidak menyatu dengan pimpinan komisaris. Yang perlu dipantau selanjutnya adalah bagaimana kinerja pengurus baru ini sampai masa jabatannya berakhir pada penutupan RUPST tahun buku 2026 yang dijadwalkan tahun 2027, serta apakah perseroan akan menjelaskan lebih jauh alasan pergantian menyeluruh ini kepada pemegang saham.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "kaef-gelar-rups-bahas-dividen-hingga-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "KAEF Gelar RUPS, Bahas [Dividen] hingga Saham Baru",
+  "deck": "Kimia Farma mengumumkan agenda RUPS Tahunan, Luar Biasa, dan Independen pada 19 September 2026, mencakup dividen, perubahan direksi, dan penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 September 2026",
+  "isoDate": "2026-09-19T13:05:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_KAEF_E049_cfc81ddd-e707-460f-a2ef-224bed423710-20260919130430.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KAEF",
+  "tags": [
+   "KAEF",
+   "Kimia Farma",
+   "RUPS",
+   "PMTHMETD"
+  ],
+  "body": [
+   "PT Kimia Farma (Persero) Tbk (KAEF) menyampaikan pemberitahuan agenda Rapat Umum Pemegang Saham (RUPS) Tahunan, RUPS Luar Biasa, dan RUPS Independen yang digelar pada 19 September 2026 pukul 12.00 WIB di Jakarta Selatan. Pemanggilan dan pengumuman RUPS ini sama-sama dilakukan pada tanggal itu juga.",
+   "RUPS Tahunan membawa satu agenda, yaitu persetujuan penggunaan laba bersih tahun buku 2026 dalam bentuk dividen tunai. RUPS Luar Biasa membahas persetujuan pengangkatan kembali atau perubahan susunan direksi perseroan untuk tahun buku 2026. Sementara RUPS Independen mengagendakan persetujuan rencana penambahan modal tanpa hak memesan efek terlebih dahulu, atau PMTHMETD, juga untuk tahun buku 2026.",
+   "Dokumen keterbukaan ini hanya memuat daftar agenda yang akan dibahas dan belum mencantumkan angka, seperti besaran dividen per saham, nama direksi yang diusulkan, atau jumlah saham baru yang hendak diterbitkan lewat PMTHMETD. Rincian tersebut baru akan diketahui setelah RUPS berlangsung dan hasilnya diumumkan."
+  ],
+  "fotoAdegan": "Pharmacists arranging medicine boxes on shelves inside a busy Indonesian pharmacy, fluorescent lighting, morning customers waiting",
+  "takeaway": "Laporan ini netral bagi pemegang saham karena baru berisi pemberitahuan agenda rapat, belum ada angka final soal besaran dividen, siapa direksi yang diganti, atau berapa banyak saham baru yang akan diterbitkan. Tiga pos kinerja yang bakal tersentuh tergantung hasil RUPS: arus kas perusahaan berkurang jika dividen tunai disetujui dan dibayarkan ke pemegang saham, sementara jumlah saham beredar berpotensi bertambah lewat PMTHMETD, yaitu skema penerbitan saham baru tanpa lebih dulu ditawarkan secara proporsional ke pemegang saham lama, sehingga bila disetujui bisa menurunkan persentase kepemilikan pemegang saham yang tidak ikut serta dan membuat laba per saham lebih tipis. Yang perlu dipantau adalah hasil RUPS pada 19 September 2026 itu sendiri, yaitu berapa dividen yang disetujui, siapa susunan direksi baru, dan berapa besar penambahan modal yang disahkan dalam PMTHMETD, karena dokumen ini baru memuat agenda, bukan keputusannya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bei-delisting-etf-xbig-efektif-21-september-2026",
   "category": "Aksi Korporasi",
   "title": "BEI Delisting [ETF] XBIG Efektif 21 September 2026",
@@ -308,6 +360,32 @@ var ARTICLES = [
   "fotoAdegan": "Small hydroelectric power station with water rushing through turbine penstocks in a forested Sumatran valley, overcast morning light",
   "takeaway": "Laporan ini condong positif bagi ARKO dari sisi utang jangka panjangnya: PEFINDO mempertahankan peringkat obligasi ARKO01AGN dan memberi outlook positif, artinya lembaga pemeringkat masih menilai kemampuan perseroan membayar bunga dan pokok utangnya cukup terjaga, meski belum ada kenaikan peringkat aktual. Yang tersentuh di sini adalah beban bunga dan arus kas perseroan, karena peringkat kredit ikut menentukan seberapa mahal biaya utang baru yang harus ditanggung Arkora Hydro ke depan, dan outlook positif membuka peluang kenaikan peringkat bila kinerja keuangan tetap terjaga. Catatan ini perlu dibaca berdampingan dengan gugatan PKPU senilai Rp70 juta dari pemasok yang menimpa ARKO pada hari yang sama, sebab itu menandakan masih ada keterlambatan pembayaran di level operasional meski peringkat utang jangka panjangnya stabil. Yang perlu dipantau berikutnya adalah publikasi resmi hasil pemeringkatan oleh PEFINDO pada 21 September 2026 serta kelanjutan proses PKPU tersebut, karena keduanya bersama-sama akan menentukan apakah outlook positif ini bisa bertahan.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "tks-korsfu-panggil-rups-ada-agenda-baru-saham-bonus",
+  "category": "Aksi Korporasi",
+  "title": "TKS-KORSFU Panggil RUPS, Ada Agenda Baru [Saham Bonus]",
+  "deck": "RUPS gabungan TKS-KORSFU akan membahas dividen tunai, pembagian saham bonus, dan rencana penambahan modal tanpa hak memesan efek terlebih dahulu untuk tahun buku 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 September 2026",
+  "isoDate": "2026-09-18T21:56:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_TKS-KORSFU_E002_89fc9336-af4c-46e1-b756-9c1205bf9989-20260919133916.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TKS-KORSFU",
+  "tags": [
+   "TKS-KORSFU",
+   "RUPS",
+   "saham bonus",
+   "dividen"
+  ],
+  "body": [
+   "Emiten berkode TKS-KORSFU mengirim pemberitahuan resmi pemanggilan rapat umum pemegang saham yang menggabungkan tiga forum sekaligus, yaitu RUPS Tahunan, RUPS Luar Biasa, dan RUPS Independen untuk tahun buku 2026. Surat bernomor TEST/09/018/021/2026-TEST43 ini diterbitkan pada 18 September 2026 pukul 21.56 WIB, dan rapat akan digelar melalui sarana elektronik Easy KSEI e-Proxy dan e-Voting.",
+   "RUPS Tahunan membawa satu mata acara, yaitu persetujuan penggunaan laba bersih dalam bentuk dividen tunai untuk tahun buku 2026. RUPS Luar Biasa mengagendakan persetujuan pembagian saham bonus untuk tahun buku yang sama, agenda yang belum pernah dirinci dalam pemberitaan sebelumnya soal RUPS ini. Adapun RUPS Independen mengagendakan persetujuan rencana penambahan modal tanpa hak memesan efek terlebih dahulu, atau PMTHMETD, juga untuk tahun buku 2026.",
+   "Dokumen pemanggilan ini tidak mencantumkan tanggal pelaksanaan RUPS, rasio pembagian saham bonus, besaran dividen, maupun ukuran PMTHMETD. Nama resmi perusahaan juga tidak tercantum dalam dokumen sehingga hanya kode emiten TKS-KORSFU yang bisa disebutkan."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a small podium in a modern corporate meeting room, city skyline through large windows, morning light",
+  "takeaway": "Penilaian tetap netral karena tiga agenda ini saling menyeimbangkan, dividen tunai menguntungkan pemegang saham, sementara PMTHMETD berpotensi mengecilkan porsi kepemilikan pemegang saham yang tidak ikut serta menambah modal. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab pembagian saham bonus menambah lembar saham yang beredar meski proporsi kepemilikan pemegang saham lama tidak berubah, dan laba bersih yang sama akan terbagi ke lebih banyak lembar saham. Ekuitas juga berpotensi terpengaruh lewat PMTHMETD, karena skema ini memungkinkan penerbitan saham baru ke pihak tertentu tanpa menawarkan dulu ke pemegang saham lama. Yang perlu dipantau berikutnya adalah undangan resmi RUPS yang memuat tanggal rapat serta rincian angka pasti dividen, rasio saham bonus, dan ukuran PMTHMETD, sebelum pemegang saham menggunakan hak suaranya lewat e-Proxy dan e-Voting.",
+  "sentimen": "netral"
  },
  {
   "slug": "tks-korsfu-gelar-rups-bahas-dividen-dan-pmthmetd",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mknt-ganti-seluruh-direksi-dan-komisaris-usai-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Ganti Seluruh [Direksi] dan Komisaris Usai RUPSLB",
+  "deck": "RUPSLB MKNT menyetujui pengunduran seluruh direksi dan komisaris lama, sekaligus mengangkat Santoso Widjojo sebagai Direktur Utama dan Handoyo Setiawan sebagai Komisaris Utama.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "perubahan pengurus",
+   "RUPSLB",
+   "direksi dan komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cfe8014c6_aeafdcc36f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kaef-gelar-rups-bahas-dividen-hingga-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "KAEF Gelar RUPS, Bahas [Dividen] hingga Saham Baru",
+  "deck": "Kimia Farma mengumumkan agenda RUPS Tahunan, Luar Biasa, dan Independen pada 19 September 2026, mencakup dividen, perubahan direksi, dan penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "date": "19 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KAEF",
+   "Kimia Farma",
+   "RUPS",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_KAEF_E049_cfc81ddd-e707-460f-a2ef-224bed423710-20260919130430.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bei-delisting-etf-xbig-efektif-21-september-2026",
   "category": "Aksi Korporasi",
   "title": "BEI Delisting [ETF] XBIG Efektif 21 September 2026",
@@ -194,6 +226,22 @@ var ARTICLES = [
    "pemeringkatan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E030_df23c827-cbb9-477f-9f69-c7de068213f9-20260918220358.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tks-korsfu-panggil-rups-ada-agenda-baru-saham-bonus",
+  "category": "Aksi Korporasi",
+  "title": "TKS-KORSFU Panggil RUPS, Ada Agenda Baru [Saham Bonus]",
+  "deck": "RUPS gabungan TKS-KORSFU akan membahas dividen tunai, pembagian saham bonus, dan rencana penambahan modal tanpa hak memesan efek terlebih dahulu untuk tahun buku 2026.",
+  "date": "18 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TKS-KORSFU",
+   "RUPS",
+   "saham bonus",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_TKS-KORSFU_E002_89fc9336-af4c-46e1-b756-9c1205bf9989-20260919133916.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6458,54 +6506,6 @@ var ARTICLES = [
    "JIIPE"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0c9d2b042_6e1d16efe7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vici-teken-kredit-rp270-65-miliar-dari-bni-gantikan-fasilitas-bca",
-  "category": "Aksi Korporasi",
-  "title": "VICI Teken Kredit [Rp270,65 Miliar] dari BNI, Gantikan Fasilitas BCA",
-  "deck": "Victoria Care Indonesia menandatangani lima fasilitas kredit dari Bank BNI senilai Rp270,65 miliar, setara 24,78 persen ekuitas, untuk modal kerja dan pengalihan pinjaman dari BCA.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICI",
-   "kredit perbankan",
-   "Bank BNI",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e4912b009c_bd05e62b6b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rans-klarifikasi-ke-bursa-soal-pemegang-saham-ditolak-masuk-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "RANS Klarifikasi ke Bursa soal Pemegang Saham Ditolak Masuk [RUPSLB]",
-  "deck": "RANS menanggapi permintaan penjelasan Bursa Efek Indonesia usai media memberitakan pemegang saham dilarang masuk RUPSLB tatap muka di BSD pada 10 September 2026.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RANS",
-   "RUPSLB",
-   "Bursa Efek Indonesia",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9677f559c5_93e36134c1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impc-tunggal-jaya-investama-tambah-saham-rp7-85-miliar",
-  "category": "Aksi Korporasi",
-  "title": "IMPC: Tunggal Jaya Investama [Tambah] Saham Rp7,85 Miliar",
-  "deck": "Tunggal Jaya Investama membeli 4,76 juta saham IMPC senilai sekitar Rp7,85 miliar pada 8 dan 10 September 2026, menaikkan hak suaranya tipis ke 38,41 persen.",
-  "date": "11 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMPC",
-   "kepemilikan saham",
-   "Tunggal Jaya Investama",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-7235-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

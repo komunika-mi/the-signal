@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bmbl-direksi-jual-2-5-juta-saham-demi-likuiditas",
+  "category": "Aksi Korporasi",
+  "title": "BMBL: Direksi [Jual] 2,5 Juta Saham demi Likuiditas",
+  "deck": "Direksi BMBL, Sentra Investa Maksima, melepas 2,5 juta saham senilai sekitar Rp76,5 juta pada 16 September 2026, sehingga hak suaranya turun dari 9,00 persen menjadi 8,76 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T08:07:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20092026-5384-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMBL",
+  "tags": [
+   "BMBL",
+   "kepemilikan saham",
+   "direksi",
+   "OJK"
+  ],
+  "body": [
+   "PT Lavender Bina Cendikia Tbk (BMBL) melaporkan perubahan kepemilikan saham oleh salah satu direksinya, Sentra Investa Maksima, kepada Otoritas Jasa Keuangan pada 20 September 2026. Sebelum transaksi, Sentra Investa Maksima memegang 92.733.000 lembar saham BMBL, setara 9,00 persen hak suara perseroan. Setelah transaksi, kepemilikannya berkurang menjadi 90.233.000 lembar dengan hak suara turun menjadi 8,76 persen.",
+   "Pengurangan sebanyak 2.500.000 lembar saham itu dilakukan lewat dua transaksi penjualan tidak langsung pada 16 September 2026. Rinciannya, 1.500.000 saham dijual pada harga Rp31 per lembar dan 1.000.000 saham lainnya pada harga Rp30 per lembar, sehingga total nilai penjualan sekitar Rp76,5 juta. Dalam laporan ke bursa, tujuan kedua transaksi itu dicatat sebagai kebutuhan likuiditas.",
+   "Jumlah saham yang dilepas setara 2,7 persen dari total kepemilikan Sentra Investa Maksima di BMBL sebelum transaksi berlangsung. Meski hak suaranya berkurang tipis, direksi tersebut masih mengantongi 90.233.000 lembar saham BMBL setelah transaksi ini rampung."
+  ],
+  "fotoAdegan": "Financial district skyscrapers in Jakarta's Sudirman area at dusk, glass facades reflecting sunset light, wide street view.",
+  "takeaway": "Penjualan ini condong netral bagi BMBL, sebab meski porsinya sedikit di atas ambang remah sekitar 1 persen dari kepemilikan pelapor, angka 2,7 persen tetap tergolong kecil dan direksi bersangkutan masih menggenggam mayoritas sahamnya semula. Yang tersentuh di sini adalah hak suara direksi, yaitu porsi suara yang menentukan pengaruhnya dalam keputusan pemegang saham, yang turun tipis dari 9,00 persen menjadi 8,76 persen, penurunan yang belum mengubah posisi pengendaliannya di perseroan. Alasan resmi yang dicatat adalah kebutuhan likuiditas pribadi, bukan pernyataan sikap soal prospek usaha BMBL. Yang perlu dipantau berikutnya adalah apakah direksi ini melanjutkan pengurangan kepemilikan pada laporan-laporan mendatang, mengingat dalam sepekan terakhir BMBL juga sempat melaporkan pelepasan saham besar oleh pemegang saham lain dan pergantian direktur keuangan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "unvr-ungkap-keberlanjutan-tak-cukup-sekadar-csr",
   "category": "Industri",
   "title": "UNVR Ungkap [Keberlanjutan] Tak Cukup Sekadar CSR",

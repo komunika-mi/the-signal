@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bmbl-direksi-jual-2-5-juta-saham-demi-likuiditas",
+  "category": "Aksi Korporasi",
+  "title": "BMBL: Direksi [Jual] 2,5 Juta Saham demi Likuiditas",
+  "deck": "Direksi BMBL, Sentra Investa Maksima, melepas 2,5 juta saham senilai sekitar Rp76,5 juta pada 16 September 2026, sehingga hak suaranya turun dari 9,00 persen menjadi 8,76 persen.",
+  "date": "20 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMBL",
+   "kepemilikan saham",
+   "direksi",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20092026-5384-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "unvr-ungkap-keberlanjutan-tak-cukup-sekadar-csr",
   "category": "Industri",
   "title": "UNVR Ungkap [Keberlanjutan] Tak Cukup Sekadar CSR",
@@ -6488,22 +6504,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466661-presiden-prabowo-dijadwalkan-bicara-di-dua-sesi-utama-ktt-ke-18-brics-india"
- },
- {
-  "slug": "apjati-perluas-penempatan-kerja-ke-malaysia",
-  "category": "Ketenagakerjaan",
-  "title": "APJATI Perluas Penempatan Kerja ke [Malaysia]",
-  "deck": "APJATI menggelar forum bisnis ketenagakerjaan terbesarnya di Kuala Lumpur, mempertemukan puluhan agensi penyalur tenaga kerja Indonesia dan Malaysia untuk penempatan pekerja migran resmi.",
-  "date": "12 September 2026",
-  "image": "assets/img/apjati-perluas-penempatan-kerja-ke-malaysia.jpg",
-  "imageV": "mty51ca3",
-  "tags": [
-   "APJATI",
-   "Malaysia",
-   "pekerja migran",
-   "P3MI"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466630-apjati-perkuat-kemitraan-ketenagakerjaan-indonesiamalaysia-lewat-employment-business-matching-2026"
  }
 ];

@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-kejar-1-juta-shm-gratis-untuk-mbr-di-2026",
+  "category": "Bisnis",
+  "title": "Pemerintah Kejar [1 Juta] SHM Gratis untuk MBR di 2026",
+  "deck": "Pemerintah menargetkan 1 juta sertifikat tanah gratis bagi masyarakat berpenghasilan rendah pada 2026, menuju total 8 juta sertifikat sampai 2028.",
+  "image": "assets/img/pemerintah-kejar-1-juta-shm-gratis-untuk-mbr-di-2026.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T21:20:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468278-1-juta-shm-gratis-2026-cek-3-kelompok-mbr-yang-bisa-dapat-sertifikat-tanpa-biaya",
+  "tags": [
+   "SHM gratis",
+   "MBR",
+   "ATR BPN",
+   "sertifikat tanah"
+  ],
+  "body": [
+   "Pemerintah menargetkan penerbitan 1 juta Sertifikat Hak Milik (SHM) tanpa biaya bagi masyarakat berpenghasilan rendah (MBR) sepanjang 2026, sebagai bagian dari program yang direncanakan mencapai total 8 juta sertifikat hingga 2028. Program ini menyasar rumah milik warga MBR yang selama ini belum memiliki bukti kepemilikan tanah resmi, sehingga rentan sengketa dan sulit dijadikan jaminan pinjaman ke bank. Kolaborasi ini melibatkan Kementerian Perumahan dan Kawasan Permukiman (PKP) serta Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN).",
+   "Menteri PKP Maruarar Sirait menyebut kerja sama ini difokuskan pada sertifikasi gratis bagi MBR, sementara Menteri ATR/BPN Nusron Wahid memastikan target tahunan dimulai dari 1 juta sertifikat pada 2026. Salah satu dasar penentuan sasaran program adalah data penerima Bantuan Stimulan Perumahan Swadaya (BSPS), yaitu program bedah rumah pemerintah yang berjalan sejak 2015 hingga 2024.",
+   "Dari sekitar 1,4 juta rumah penerima BSPS selama periode tersebut, hasil verifikasi ATR/BPN menemukan 1,1 juta di antaranya belum memiliki sertifikat tanah. Nusron menyebut penerima BSPS yang belum bersertifikat ini menjadi salah satu dari tiga kelompok masyarakat yang disasar program SHM gratis, meski rincian dua kelompok lainnya belum dipaparkan dalam keterangan tersebut."
+  ],
+  "fotoAdegan": "Land surveyor measuring a modest residential plot with a measuring wheel in a working-class neighborhood, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/21/6a5edb0860cd7-ilustrasi-perumahan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pemerintah memberi angka pasti untuk pertama kalinya, yaitu target 1 juta sertifikat tanah gratis pada 2026 menuju total 8 juta sampai 2028, dengan basis data konkret: dari 1,4 juta rumah penerima program bedah rumah (BSPS) sejak 2015, sebanyak 1,1 juta di antaranya ternyata belum punya sertifikat resmi. Yang terdampak langsung adalah keluarga berpenghasilan rendah yang rumahnya sudah pernah direnovasi lewat bantuan pemerintah tapi status tanahnya masih menggantung, karena tanpa SHM mereka tidak bisa memakai rumah itu sebagai jaminan pinjaman ke bank atau memastikan haknya tidak disengketakan orang lain. Arahnya tampak menuju sertifikasi bertahap yang dimulai dari kelompok yang datanya sudah tersedia, yakni bekas penerima bantuan bedah rumah, sebelum meluas ke kelompok MBR lain. Yang masih kurang untuk memastikan arah ini adalah rincian resmi soal dua kelompok penerima lainnya, serta apakah target 1 juta sertifikat benar tercapai sepanjang 2026 mengingat proses verifikasi lapangan seperti yang dipakai pada data BSPS biasanya makan waktu.",
+  "imageV": "mu9ygouw"
+ },
+ {
+  "slug": "utang-blbi-krisis-1998-lunas-pemerintah-pakai-surplus-bi",
+  "category": "Makroekonomi",
+  "title": "Utang BLBI Krisis 1998 [Lunas], Pemerintah Pakai Surplus BI",
+  "deck": "Pemerintah melunasi seluruh surat utang penanganan krisis BLBI 1997-1998 pada Agustus 2026, dibayar Rp58 triliun dari surplus Bank Indonesia.",
+  "image": "assets/img/utang-blbi-krisis-1998-lunas-pemerintah-pakai-surplus-bi.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T20:00:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468261-utang-blbi-era-krisis-1998-lunas-pemerintah-bayar-rp58-triliun-dari-surplus-bi",
+  "tags": [
+   "BLBI",
+   "utang negara",
+   "Bank Indonesia",
+   "Kementerian Keuangan"
+  ],
+  "body": [
+   "Pemerintah resmi menuntaskan pembayaran seluruh surat utang yang diterbitkan untuk menangani krisis perbankan 1997-1998, termasuk yang terkait Bantuan Likuiditas Bank Indonesia (BLBI). Menteri Keuangan Suahasil Nazara mengonfirmasi pelunasan ini rampung pada Agustus 2026, menandai berakhirnya salah satu beban utang warisan krisis ekonomi yang sudah berjalan hampir tiga dekade.",
+   "Pembayaran ini memakai dana Rp58 triliun yang berasal dari surplus Bank Indonesia hasil audit buku tahun 2025. Surplus tersebut disetorkan BI ke kas negara sesuai ketentuan yang berlaku, lalu tercatat sebagai pendapatan Kementerian Keuangan dari pos Kekayaan Negara yang Dipisahkan, yaitu kekayaan negara yang ditempatkan di lembaga seperti BI dan tidak langsung dipegang pemerintah sehari-hari.",
+   "Dana sebesar Rp58 triliun itu kemudian dialokasikan khusus untuk melunasi sisa kewajiban surat utang negara yang diterbitkan pada masa penanganan krisis 1997-1998. Dengan pelunasan ini, pemerintah tidak lagi menanggung cicilan pokok maupun bunga dari instrumen utang tersebut dalam anggaran negara pada tahun-tahun berikutnya."
+  ],
+  "fotoAdegan": "Exterior of a classic colonial-era bank building facade in downtown Jakarta, pedestrians passing by, overcast afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/14/6aa8223a1f38d-suahasil-nazara-menteri-keuangan-yang-baru-dilantik-oleh-presiden-praboao-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah tuntasnya pembayaran surat utang krisis BLBI 1997-1998 senilai Rp58 triliun, dan sumber dananya bukan pajak atau utang baru melainkan surplus tahunan Bank Indonesia yang disetor ke kas negara. Pihak yang terdampak langsung adalah keuangan negara sendiri, karena beban bunga dan cicilan pokok utang warisan krisis ini hilang dari anggaran ke depan, sementara dampaknya ke masyarakat atau pelaku usaha tidak terlihat langsung dari data ini. Arahnya, penyelesaian ini menutup salah satu pos utang tertua pemerintah sekaligus memperlihatkan pola bahwa surplus BI bisa dipakai untuk menutup kewajiban negara tertentu, bukan sekadar masuk kas umum begitu saja. Yang akan menentukan apakah pola ini berlanjut adalah pengumuman penggunaan surplus BI hasil audit buku 2026 tahun depan, serta laporan total posisi utang pemerintah dari Kementerian Keuangan berikutnya.",
+  "imageV": "mu9ygp8m"
+ },
+ {
   "slug": "adhi-teken-mra-restrukturisasi-utang-rp3-triliun-ke-bank-bumn",
   "category": "Aksi Korporasi",
   "title": "ADHI Teken MRA, [Restrukturisasi] Utang Rp3 Triliun ke Bank BUMN",

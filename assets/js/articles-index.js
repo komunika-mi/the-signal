@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-kejar-1-juta-shm-gratis-untuk-mbr-di-2026",
+  "category": "Bisnis",
+  "title": "Pemerintah Kejar [1 Juta] SHM Gratis untuk MBR di 2026",
+  "deck": "Pemerintah menargetkan 1 juta sertifikat tanah gratis bagi masyarakat berpenghasilan rendah pada 2026, menuju total 8 juta sertifikat sampai 2028.",
+  "date": "20 September 2026",
+  "image": "assets/img/pemerintah-kejar-1-juta-shm-gratis-untuk-mbr-di-2026.jpg",
+  "imageV": "mu9ygouw",
+  "tags": [
+   "SHM gratis",
+   "MBR",
+   "ATR BPN",
+   "sertifikat tanah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468278-1-juta-shm-gratis-2026-cek-3-kelompok-mbr-yang-bisa-dapat-sertifikat-tanpa-biaya"
+ },
+ {
+  "slug": "utang-blbi-krisis-1998-lunas-pemerintah-pakai-surplus-bi",
+  "category": "Makroekonomi",
+  "title": "Utang BLBI Krisis 1998 [Lunas], Pemerintah Pakai Surplus BI",
+  "deck": "Pemerintah melunasi seluruh surat utang penanganan krisis BLBI 1997-1998 pada Agustus 2026, dibayar Rp58 triliun dari surplus Bank Indonesia.",
+  "date": "20 September 2026",
+  "image": "assets/img/utang-blbi-krisis-1998-lunas-pemerintah-pakai-surplus-bi.jpg",
+  "imageV": "mu9ygp8m",
+  "tags": [
+   "BLBI",
+   "utang negara",
+   "Bank Indonesia",
+   "Kementerian Keuangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468261-utang-blbi-era-krisis-1998-lunas-pemerintah-bayar-rp58-triliun-dari-surplus-bi"
+ },
+ {
   "slug": "adhi-teken-mra-restrukturisasi-utang-rp3-triliun-ke-bank-bumn",
   "category": "Aksi Korporasi",
   "title": "ADHI Teken MRA, [Restrukturisasi] Utang Rp3 Triliun ke Bank BUMN",
@@ -6466,38 +6500,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4bf4620c56_4cabb5d4ac.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "foru-umumkan-jadwal-rights-issue-rp27-1-t-dilusi-99-79",
-  "category": "Aksi Korporasi",
-  "title": "FORU Umumkan Jadwal Rights Issue Rp27,1 T, Dilusi [99,79%]",
-  "deck": "Fortune Indonesia (FORU) menetapkan jadwal rights issue hingga Rp27,1 triliun, harga Rp126 per saham. Pemegang saham non-partisipan bisa terdilusi hingga 99,79 persen.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "Fortune Indonesia",
-   "rights issue",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f3af967f21_227e591471.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brics-dorong-pembentukan-bursa-gandum-bersama",
-  "category": "Global",
-  "title": "BRICS Dorong Pembentukan [Bursa Gandum] Bersama",
-  "deck": "Pemimpin BRICS di KTT New Delhi sepakat melanjutkan pembahasan bursa perdagangan gandum bersama dan membuka opsi perluasan ke komoditas pertanian lain.",
-  "date": "13 September 2026",
-  "image": "assets/img/brics-dorong-pembentukan-bursa-gandum-bersama.jpg",
-  "imageV": "mtzpv50e",
-  "tags": [
-   "BRICS",
-   "gandum",
-   "ketahanan pangan",
-   "New Delhi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466858-brics-dorong-pembentukan-bursa-gandum-bersama-perdagangan-komoditas-pertanian-akan-diperluas"
  }
 ];

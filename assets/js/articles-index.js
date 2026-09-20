@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bps-rilis-kbji-2026-gantikan-standar-jabatan-2014",
+  "category": "Ketenagakerjaan",
+  "title": "BPS Rilis [KBJI] 2026, Gantikan Standar Jabatan 2014",
+  "deck": "BPS menerbitkan Klasifikasi Baku Jabatan Indonesia (KBJI) 2026 lewat Peraturan BPS Nomor 7/2026, menggantikan versi 2014 dan diselaraskan dengan standar internasional ISCO.",
+  "date": "21 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "KBJI",
+   "Kemnaker",
+   "BPS",
+   "Pasar Kerja"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-kbji-2026-jadi-acuan-bersama-dunia-kerja",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
   "slug": "winr-pemegang-saham-utama-lepas-10-juta-saham-lagi",
   "category": "Aksi Korporasi",
   "title": "WINR: Pemegang Saham Utama Lepas [10 Juta] Saham Lagi",
@@ -3826,7 +3842,7 @@ var ARTICLES = [
   "title": "Kemnaker Mulai [Seleksi] Peserta MagangHub Batch 2 Angkatan II",
   "deck": "Kemnaker menjaring peserta Pemagangan Nasional (MagangHub) 2026 Batch 2 Angkatan II pada 16-18 September, dengan program magang dimulai 21 September 2026.",
   "date": "16 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "tags": [
    "MagangHub",
    "Kemnaker",
@@ -4073,7 +4089,7 @@ var ARTICLES = [
   "title": "Pemerintah Tetapkan [26] Hari Libur Nasional dan Cuti Bersama 2027",
   "deck": "SKB Tiga Menteri menetapkan 18 hari libur nasional dan 8 hari cuti bersama untuk 2027, total 26 hari, sekaligus mengatur ketentuan lembur dan cuti tahunan bagi pekerja.",
   "date": "15 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "tags": [
    "Libur Nasional 2027",
    "Cuti Bersama",
@@ -4540,7 +4556,7 @@ var ARTICLES = [
   "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",
   "deck": "Menaker Yassierli menyebut AI yang sekadar jadi asisten kerja hanya menaikkan produktivitas sekitar 5 persen, sementara perombakan proses kerja bisa mendongkraknya sampai 40 persen.",
   "date": "15 September 2026",
-  "image": "assets/img/bursa-kerja-antre.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "tags": [
    "AI",
    "Ketenagakerjaan",
@@ -5172,7 +5188,7 @@ var ARTICLES = [
   "title": "UU PPRT [Atur] Hak dan Kewajiban Pekerja Rumah Tangga",
   "deck": "UU Nomor 2 Tahun 2026 memberi payung hukum bagi pekerja rumah tangga, mengatur upah, jam kerja, THR, jaminan sosial, hingga cara penyelesaian sengketa dengan majikan.",
   "date": "15 September 2026",
-  "image": "assets/img/gudang-logistik.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "tags": [
    "PRT",
    "UU PPRT",
@@ -5188,7 +5204,7 @@ var ARTICLES = [
   "title": "RUU Ketenagakerjaan Masuk Tahap [Panja] di DPR",
   "deck": "Pemerintah menyerahkan Daftar Inventarisasi Masalah RUU Pelindungan Ketenagakerjaan ke DPR, Komisi IX bentuk Panja lanjutkan pembahasan.",
   "date": "15 September 2026",
-  "image": "assets/img/kantor-startup.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "RUU Ketenagakerjaan",
    "DPR",
@@ -6482,23 +6498,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466943-bansos-beras-30-kilogram-cair-september-2026-begini-cara-cek-status-penerima-bansos"
- },
- {
-  "slug": "petani-diduga-diminta-tebusan-rp150-juta-untuk-alsintan",
-  "category": "Bisnis",
-  "title": "Petani Diduga Diminta Tebusan [Rp150 Juta] untuk Alsintan",
-  "deck": "Kementerian Pertanian membuka jalur pengaduan setelah petani di Banggai mengaku diminta membayar Rp150 juta untuk mendapat bantuan combine harvester.",
-  "date": "14 September 2026",
-  "image": "assets/img/petani-diduga-diminta-tebusan-rp150-juta-untuk-alsintan.jpg",
-  "imageV": "mu0jt6bh",
-  "tags": [
-   "alsintan",
-   "pungli bantuan",
-   "Kementerian Pertanian",
-   "Banggai"
-  ],
-  "kreditFoto": "Kementerian Pertanian",
-  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8131",
-  "sourceLabel": "Kementerian Pertanian"
  }
 ];

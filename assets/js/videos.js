@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "H4qqPp2_6GY",
+  "title": "PT KAI Luncurkan Kereta Wisata Mewah Nusantara Explorer",
+  "category": "BUMN",
+  "program": "Kabar Siang",
+  "summary": "PT KAI menghadirkan Nusantara Explorer, kereta wisata premium dengan kabin bermalam, restoran, dan lounge bertema kapal pesiar di atas rel.",
+  "takeaway": "Peluncuran produk ini mencerminkan langkah PT KAI memperluas lini bisnis pariwisata sebagai sumber pendapatan baru di luar layanan angkutan reguler.",
+  "terbit": "2026-09-20T06:11:06+00:00"
+ },
+ {
   "id": "XzEPCg9Qz38",
   "title": "Mixue Alihkan Fokus ke Kualitas dan Profit, Bukan Ekspansi Gerai",
   "category": "Bisnis",

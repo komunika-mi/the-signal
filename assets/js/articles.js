@@ -3,6 +3,87 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ojol-pekerja-atau-mitra-pemerintah-belum-ambil-sikap",
+  "category": "Ketenagakerjaan",
+  "title": "Ojol Pekerja atau [Mitra]? Pemerintah Belum Ambil Sikap",
+  "deck": "Perdebatan status hukum pengemudi ojol antara pekerja dan mitra kembali mengemuka, sementara pemerintah belum menentukan sikap resmi di tengah pertumbuhan ekonomi platform.",
+  "image": "assets/img/ojol-pekerja-atau-mitra-pemerintah-belum-ambil-sikap.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T15:24:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468219-ojol-pekerja-atau-mitra-pemerintah-dihadapkan-pada-status-baru-di-era-ekonomi-platform",
+  "tags": [
+   "ojol",
+   "ekonomi platform",
+   "ketenagakerjaan",
+   "ksos"
+  ],
+  "body": [
+   "Status hukum pengemudi ojek online kembali jadi bahan perdebatan seiring makin besarnya ekonomi berbasis aplikasi. Pemerintah dihadapkan pada pilihan yang tidak sederhana, apakah pengemudi ojol perlu diakui sebagai pekerja atau buruh dengan segala haknya, atau tetap dalam skema kemitraan seperti selama ini. Pilihan ini penting karena akan menentukan apakah jutaan pengemudi mendapat perlindungan seperti pekerja pada umumnya, atau tetap bekerja dengan status yang lebih longgar namun minim jaminan.",
+   "Perbedaan sikap ini terlihat jelas di lapangan. Sebagian pengemudi mendorong agar mereka diakui sebagai pekerja atau buruh, sementara Konfederasi Serikat Ojol Sulawesi Selatan (KSOS) justru menegaskan pengemudi ojol lebih tepat berstatus sebagai pekerja mandiri yang mempertahankan skema kemitraan karena memberi keleluasaan mengatur pola kerja sendiri.",
+   "Akademisi Universitas Hasanuddin, Rizal Pauzi, menilai perbedaan sikap KSOS dengan kelompok lain justru menunjukkan bahwa aspirasi pengemudi ojol tidak seragam, sehingga pemerintah tidak bisa menjadikan satu suara sebagai wakil semua pengemudi. Ia menyebut persoalan ini tidak bisa diselesaikan hanya dengan mengganti istilah, melainkan harus melihat sejauh mana platform mengontrol pengemudi, seberapa bebas pengemudi menentukan jam kerja, dan bagaimana pola pemberian imbalan diatur.",
+   "Rizal menambahkan, karakter pengemudi ojol pun beragam, ada yang bergantung penuh pada satu aplikasi, ada yang memakai beberapa platform sekaligus, dan tidak sedikit yang punya usaha lain di luar mengemudi. Menurutnya, keragaman ini harus jadi pertimbangan pemerintah sebelum menetapkan status hukum pengemudi ojol, sebab kebijakan yang menyamaratakan semua pengemudi berisiko tidak sesuai dengan kebutuhan nyata di lapangan."
+  ],
+  "fotoAdegan": "Motorcycle taxi drivers gathered with their bikes along a busy Indonesian city street, adjusting helmets and phone mounts, midday traffic in the background.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/07/6a9e90af8ec93-direktorat-lalu-lintas-polda-metro-jaya-membagikan-sebanyak-20000-masker-kepada-pengemudi-ojek-online-ojol-di-tiga-titik-pangkalan-yakni-mall-gandaria-city-stasiun-kebayoran-lama-dan-mrt-blok-m_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan, melainkan tekanan yang makin terasa ke pemerintah untuk akhirnya menentukan sikap, apakah pengemudi ojol berstatus pekerja dengan hak seperti upah minimum dan jaminan sosial, atau tetap jadi mitra yang bebas mengatur jam kerja sendiri tapi tanpa perlindungan itu. Yang terdampak jelas pengemudi ojol, tapi berita ini menunjukkan mereka tidak satu suara, KSOS di Sulawesi Selatan justru memilih bertahan sebagai pekerja mandiri lewat skema kemitraan, sementara kelompok pengemudi lain mendorong status pekerja penuh. Yang masih kurang untuk bisa membaca ke mana arah kebijakan ini adalah sikap resmi pemerintah sendiri, sejauh ini belum ada draf aturan atau agenda pembahasan dari Kementerian Ketenagakerjaan maupun Kementerian Perhubungan yang disebut dalam pemberitaan. Yang perlu dipantau selanjutnya adalah apakah muncul kajian atau rancangan regulasi resmi soal status ojol, karena selama itu belum ada, tarik-menarik pandangan antar pengemudi ini akan terus berputar tanpa titik temu.",
+  "imageV": "mu9ln7d9"
+ },
+ {
+  "slug": "25-merek-beras-fortifikasi-disanksi-gizi-tak-sesuai-label",
+  "category": "Industri",
+  "title": "25 Merek Beras [Fortifikasi] Disanksi, Gizi Tak Sesuai Label",
+  "deck": "Bapanas menindak 25 merek beras fortifikasi karena kandungan gizinya tak sesuai klaim di kemasan, mulai dari setop produksi hingga cabut izin edar.",
+  "image": "assets/img/25-merek-beras-fortifikasi-disanksi-gizi-tak-sesuai-label.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T15:00:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468212-25-merek-beras-fortifikasi-kena-sanksi-kandungan-gizi-tak-sesuai-label",
+  "tags": [
+   "beras fortifikasi",
+   "bapanas",
+   "SNI beras",
+   "keamanan pangan"
+  ],
+  "body": [
+   "Badan Pangan Nasional (Bapanas) menjatuhkan sanksi kepada 25 merek beras berlabel fortifikasi setelah uji laboratorium menemukan kandungan gizi dan mutunya tidak sesuai dengan yang tertulis di kemasan. Temuan ini penting bagi konsumen karena beras fortifikasi biasanya dijual dengan harga lebih mahal atas klaim tambahan zat gizi, sehingga pembeli yang membayar lebih berisiko tidak mendapatkan manfaat gizi yang dijanjikan.",
+   "Penindakan ini muncul di tengah maraknya produk beras yang mengklaim diri sebagai beras fortifikasi tanpa terbukti memenuhi ketentuan yang berlaku. Menteri Pertanian sekaligus Kepala Bapanas, Andi Amran Sulaiman, mengatakan pemerintah langsung bertindak begitu hasil uji laboratorium menunjukkan ketidaksesuaian. \"Setelah kita cek di laboratorium, ternyata tidak sesuai dengan labelnya. Ini yang kita tindak,\" ujar Amran saat meninjau pengawasan dan pengujian laboratorium di Jakarta, Selasa, 15 September 2026. Sanksi yang dijatuhkan bertingkat, mulai dari penghentian produksi, penarikan produk dari peredaran, hingga pencabutan izin edar bagi kasus yang lebih berat.",
+   "Acuan penindakan ini adalah SNI 9372:2025 tentang Beras Fortifikasi, yang mengatur syarat fisik seperti warna, aroma, kadar air, dan tingkat homogenitas atau keseragaman campuran butiran beras. Kadar air maksimal ditetapkan 14 persen dan tingkat homogenitas maksimal 15 persen, di luar syarat kandungan gizi mikro minimal yang wajib ada dalam setiap 100 gram produk. Proses pembuatannya sendiri mengacu ke SNI 9314:2024 tentang Kernel Beras Fortifikan, yakni butiran khusus pembawa vitamin dan mineral tambahan yang dicampurkan ke beras biasa untuk menghasilkan beras fortifikasi.",
+   "Dengan kedua standar itu berlaku, setiap produk yang mencantumkan klaim sebagai beras fortifikasi kini wajib bisa dibuktikan lewat uji laboratorium, bukan sekadar keterangan di label kemasan."
+  ],
+  "fotoAdegan": "Workers inspecting stacked sacks of packaged rice inside a rice milling warehouse, industrial lighting, Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/15/6aa8f850ccd84-penemuan-pemalsuan-beras-fortifikasi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma teguran, tapi tindakan langsung: 25 merek kena setop produksi sampai cabut izin edar karena kadar airnya, keseragaman butirannya, atau kandungan gizi mikronya tidak sesuai standar SNI 9372:2025. Yang kena dampak jelas dua sisi, produsen beras yang produknya ditarik dari pasar, dan konsumen yang selama ini membayar lebih mahal untuk beras berlabel fortifikasi tanpa tahu isinya benar atau tidak. Ini terlihat sebagai bagian dari penegakan standar mutu pangan yang makin ketat sejak dua SNI itu berlaku, apalagi berita ini sendiri menyebut banyak produk lain juga mengklaim fortifikasi tanpa terbukti memenuhi ketentuan, artinya pengujian kemungkinan akan berlanjut ke merek lain. Yang masih kurang untuk pembaca adalah daftar resmi 25 nama merek tersebut, sehingga sampai Bapanas mempublikasikannya, konsumen belum bisa mengecek langsung apakah beras yang mereka beli termasuk yang kena sanksi atau tidak.",
+  "imageV": "mu9ln82e"
+ },
+ {
+  "slug": "rupiah-melemah-tujuh-hari-beruntun-ke-rp17-758-us",
+  "category": "Moneter",
+  "title": "[Rupiah] Melemah Tujuh Hari Beruntun ke Rp17.758/US$",
+  "deck": "Rupiah melemah ketujuh kalinya beruntun ke Rp17.758 per dolar AS setelah The Fed menaikkan suku bunga, menambah tekanan biaya impor bagi industri manufaktur dan tekstil.",
+  "image": "assets/img/rupiah-melemah-tujuh-hari-beruntun-ke-rp17-758-us.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T14:35:25+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468210-rupiah-tertekan-7-hari-beruntun-industri-mulai-waspadai-lonjakan-biaya-impor",
+  "tags": [
+   "rupiah",
+   "the fed",
+   "suku bunga",
+   "dolar as"
+  ],
+  "body": [
+   "Nilai tukar rupiah kembali melemah pada penutupan perdagangan Jumat, 18 September 2026, turun 0,03 persen atau lima poin menjadi Rp17.758 per dolar AS dibanding hari sebelumnya di Rp17.753. Pelemahan ini menjadi yang ketujuh berturut-turut, sehingga dalam sepekan rupiah sudah terkoreksi 0,83 persen. Tren yang berkepanjangan ini mulai dirasakan pelaku industri yang bergantung pada bahan baku impor, termasuk sektor manufaktur, tekstil, dan farmasi, karena belanja dalam dolar mereka jadi lebih mahal.",
+   "Berdasarkan kurs referensi JISDOR Bank Indonesia, rupiah tercatat di Rp17.745 per dolar AS, sedikit menguat dibanding hari sebelumnya namun tetap melemah 0,76 persen secara mingguan. Tekanan ini terjadi setelah bank sentral Amerika Serikat, The Fed, menaikkan suku bunga acuannya sebesar 25 basis poin pada 16 September 2026 menjadi kisaran 3,75-4,00 persen. Kenaikan itu mendorong indeks dolar AS naik ke level 100, sehingga menekan hampir semua mata uang di kawasan Asia.",
+   "Won Korea Selatan dan yen Jepang ikut melemah akibat penguatan dolar tersebut, sementara yuan China justru bergerak berlawanan arah dan menguat hingga menembus level 6,69 per dolar AS. Perbedaan arah pergerakan ini memperlihatkan bagaimana kebijakan moneter AS dan harga energi dunia turut memengaruhi arus modal serta sentimen investor di kawasan Asia.",
+   "Di dalam negeri, tingginya harga minyak dunia turut membebani pergerakan rupiah karena levelnya sudah berada di atas asumsi APBN. Analis Bank Woori Saudara, Rully Nova, menyebut penguatan obligasi pemerintah masih dibayangi risiko harga minyak yang tinggi tersebut. Ia juga melihat ekspektasi pasar terhadap berlanjutnya pengetatan moneter AS semakin kuat, dengan peluang kenaikan suku bunga The Fed pada Oktober sudah diperkirakan di atas 50 persen."
+  ],
+  "fotoAdegan": "Workers operating textile weaving machines in a garment factory, rows of colorful thread spools, industrial lighting.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/04/6a21aa6439946-mata-uang-rupiah-dan-dolar-as_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan cuma angka rupiah yang turun tipis, tapi arah kebijakan bunga Amerika Serikat yang tampaknya belum berhenti naik. The Fed baru saja menaikkan bunga acuannya, semacam patokan biaya pinjaman di sana, jadi 3,75-4,00 persen pada 16 September, dan pelaku pasar memperkirakan peluang kenaikan lagi bulan depan sudah di atas 50 persen. Kalau itu terjadi, dolar berpotensi terus menguat dan rupiah bisa makin tertekan, yang paling terasa bagi industri yang bahan bakunya masih impor seperti tekstil, farmasi, dan manufaktur, karena biaya produksi mereka dihitung dalam dolar. Yang akan memastikan arah ini adalah keputusan The Fed pada pertemuan Oktober mendatang: kalau bunga naik lagi, tekanan ke rupiah kemungkinan berlanjut, tapi kalau ditahan, ruang bagi rupiah untuk stabil kembali terbuka.",
+  "imageV": "mu9ln8hk"
+ },
+ {
   "slug": "pajak-air-tanah-10-kendalikan-pemakaian-di-jakarta",
   "category": "Bisnis",
   "title": "Pajak Air Tanah [10%] Kendalikan Pemakaian di Jakarta",

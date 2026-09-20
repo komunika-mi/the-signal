@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "H4qqPp2_6GY",
+  "title": "PT KAI Luncurkan Kereta Wisata Mewah Nusantara Explorer",
+  "category": "BUMN",
+  "program": "Kabar Siang",
+  "summary": "PT KAI menghadirkan Nusantara Explorer, kereta wisata premium dengan kabin bermalam, restoran, dan lounge bertema kapal pesiar di atas rel.",
+  "takeaway": "Peluncuran produk ini mencerminkan langkah PT KAI memperluas lini bisnis pariwisata sebagai sumber pendapatan baru di luar layanan angkutan reguler."
+ },
+ {
   "id": "XzEPCg9Qz38",
   "title": "Mixue Alihkan Fokus ke Kualitas dan Profit, Bukan Ekspansi Gerai",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Inspirasi Pagi",
   "summary": "Pemerintah daerah mulai menerapkan sistem parkir digital untuk meningkatkan transparansi dan mengoptimalkan Pendapatan Asli Daerah (PAD).",
   "takeaway": "Relevan karena menyangkut upaya optimalisasi penerimaan daerah melalui digitalisasi layanan publik."
- },
- {
-  "id": "MV_RUX_1zD4",
-  "title": "Hainantiket Raih Penghargaan Inovasi Layanan Travel Haji Umrah",
-  "category": "Bisnis",
-  "program": "Kabar Siang",
-  "summary": "HainanTicket.com meraih penghargaan APSI 2026 di kategori Inovasi Layanan Travel Muslim Haji dan Umrah, diterima langsung oleh Presiden Direktur perusahaan, Sastra Wijaya.",
-  "takeaway": "Relevan bagi pembaca karena menggambarkan pertumbuhan industri perjalanan ibadah sebagai segmen bisnis yang terus berinovasi."
  }
 ];

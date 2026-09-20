@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ojol-pekerja-atau-mitra-pemerintah-belum-ambil-sikap",
+  "category": "Ketenagakerjaan",
+  "title": "Ojol Pekerja atau [Mitra]? Pemerintah Belum Ambil Sikap",
+  "deck": "Perdebatan status hukum pengemudi ojol antara pekerja dan mitra kembali mengemuka, sementara pemerintah belum menentukan sikap resmi di tengah pertumbuhan ekonomi platform.",
+  "date": "20 September 2026",
+  "image": "assets/img/ojol-pekerja-atau-mitra-pemerintah-belum-ambil-sikap.jpg",
+  "imageV": "mu9ln7d9",
+  "tags": [
+   "ojol",
+   "ekonomi platform",
+   "ketenagakerjaan",
+   "ksos"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468219-ojol-pekerja-atau-mitra-pemerintah-dihadapkan-pada-status-baru-di-era-ekonomi-platform"
+ },
+ {
+  "slug": "25-merek-beras-fortifikasi-disanksi-gizi-tak-sesuai-label",
+  "category": "Industri",
+  "title": "25 Merek Beras [Fortifikasi] Disanksi, Gizi Tak Sesuai Label",
+  "deck": "Bapanas menindak 25 merek beras fortifikasi karena kandungan gizinya tak sesuai klaim di kemasan, mulai dari setop produksi hingga cabut izin edar.",
+  "date": "20 September 2026",
+  "image": "assets/img/25-merek-beras-fortifikasi-disanksi-gizi-tak-sesuai-label.jpg",
+  "imageV": "mu9ln82e",
+  "tags": [
+   "beras fortifikasi",
+   "bapanas",
+   "SNI beras",
+   "keamanan pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468212-25-merek-beras-fortifikasi-kena-sanksi-kandungan-gizi-tak-sesuai-label"
+ },
+ {
+  "slug": "rupiah-melemah-tujuh-hari-beruntun-ke-rp17-758-us",
+  "category": "Moneter",
+  "title": "[Rupiah] Melemah Tujuh Hari Beruntun ke Rp17.758/US$",
+  "deck": "Rupiah melemah ketujuh kalinya beruntun ke Rp17.758 per dolar AS setelah The Fed menaikkan suku bunga, menambah tekanan biaya impor bagi industri manufaktur dan tekstil.",
+  "date": "20 September 2026",
+  "image": "assets/img/rupiah-melemah-tujuh-hari-beruntun-ke-rp17-758-us.jpg",
+  "imageV": "mu9ln8hk",
+  "tags": [
+   "rupiah",
+   "the fed",
+   "suku bunga",
+   "dolar as"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468210-rupiah-tertekan-7-hari-beruntun-industri-mulai-waspadai-lonjakan-biaya-impor"
+ },
+ {
   "slug": "pajak-air-tanah-10-kendalikan-pemakaian-di-jakarta",
   "category": "Bisnis",
   "title": "Pajak Air Tanah [10%] Kendalikan Pemakaian di Jakarta",
@@ -6453,56 +6504,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/552df66a4a_dda76e348f.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bea-cukai-raih-kepuasan-tinggi-tarif-impor-disorot",
-  "category": "Bisnis",
-  "title": "Bea Cukai Raih Kepuasan Tinggi, Tarif Impor [Disorot]",
-  "deck": "Survei IDM 2026 mencatat kepuasan tinggi atas layanan Bea Cukai, tapi tarif bea masuk dan aturan pembebasan bea kiriman belanja online masih dikritik pelaku usaha.",
-  "date": "12 September 2026",
-  "image": "assets/img/bea-cukai-raih-kepuasan-tinggi-tarif-impor-disorot.jpg",
-  "imageV": "mtyljr30",
-  "tags": [
-   "Bea Cukai",
-   "DJBC",
-   "Tarif Impor",
-   "Survei IDM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466716-survei-idm-2026-kepuasan-pengguna-jasa-bea-cukai-tinggi-tapi-tarif-dan-aturan-barang-impor-jadi-sorotan"
- },
- {
-  "slug": "pertamina-tambah-nozzle-bbm-subsidi-di-12-spbu-makassar",
-  "category": "Energi",
-  "title": "Pertamina [Tambah] Nozzle BBM Subsidi di 12 SPBU Makassar",
-  "deck": "Pertamina Patra Niaga mengubah konfigurasi dan menambah nozzle BBM subsidi di 12 SPBU Makassar untuk mengantisipasi lonjakan permintaan.",
-  "date": "12 September 2026",
-  "image": "assets/img/pertamina-tambah-nozzle-bbm-subsidi-di-12-spbu-makassar.jpg",
-  "imageV": "mtygtilk",
-  "tags": [
-   "bbm subsidi",
-   "spbu",
-   "pertamina patra niaga",
-   "makassar"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466682-antisipasi-lonjakan-bbm-pertamina-patra-niaga-ubah-konfigurasi-dan-tambah-nozzle-bbm-subsidi-di-belasan-spbu-makassar"
- },
- {
-  "slug": "ojk-dukung-rekening-massal-bank-wajib-hati-hati",
-  "category": "Perbankan",
-  "title": "OJK Dukung Rekening Massal, Bank Wajib [Hati-hati]",
-  "deck": "OJK mendukung program pembukaan rekening massal bagi warga baru 17 tahun dan penerima bansos, tapi menegaskan bank tetap harus menjalankan proses pengecekan identitas nasabah secara ketat.",
-  "date": "12 September 2026",
-  "image": "assets/img/ojk-dukung-rekening-massal-bank-wajib-hati-hati.jpg",
-  "imageV": "mtyafu5w",
-  "tags": [
-   "OJK",
-   "rekening massal",
-   "bansos",
-   "LPS"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466675-ojk-klaim-pembukaan-rekening-massal-strategis-untuk-perkuat-literasi-keuangan-tapi-bank-tetap-wajib-hati-hati"
  }
 ];

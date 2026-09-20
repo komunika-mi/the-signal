@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pajak-air-tanah-10-kendalikan-pemakaian-di-jakarta",
+  "category": "Bisnis",
+  "title": "Pajak Air Tanah [10%] Kendalikan Pemakaian di Jakarta",
+  "deck": "Pemprov DKI Jakarta mengenakan Pajak Air Tanah sebesar 10% untuk menekan eksploitasi air tanah sekaligus menambah pendapatan daerah dari sektor usaha.",
+  "image": "assets/img/pajak-air-tanah-10-kendalikan-pemakaian-di-jakarta.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T10:00:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468137-pajak-air-tanah-bantu-kendalikan-penggunaan-air-sekaligus-dukung-pembangunan-jakarta",
+  "tags": [
+   "pajak air tanah",
+   "DKI Jakarta",
+   "pajak daerah",
+   "air tanah"
+  ],
+  "body": [
+   "Pemerintah Provinsi DKI Jakarta memungut Pajak Air Tanah sebesar 10 persen dari pelaku usaha yang memanfaatkan air tanah untuk kegiatan operasionalnya. Ketentuan ini penting bagi pemilik usaha di Jakarta karena air tanah selama ini jadi sumber daya yang banyak dipakai untuk kebutuhan komersial, sementara pengambilannya yang berlebihan berisiko mempercepat penurunan permukaan tanah di ibu kota.",
+   "Pajak ini diatur dalam Peraturan Daerah Nomor 1 Tahun 2024 dan punya dua peran. Pertama, sebagai alat pengendali agar pengambilan air tanah tidak berlebihan dan tidak memperparah penurunan muka tanah. Kedua, sebagai sumber penerimaan pajak daerah yang ikut mendanai pembangunan dan layanan publik di Jakarta.",
+   "Kewajiban ini menyasar usaha yang mengandalkan air tanah dalam jumlah besar untuk operasional sehari-hari, yaitu perhotelan dan akomodasi, industri dan manufaktur, restoran dan usaha kuliner, perkantoran dan pusat pertokoan, serta berbagai usaha jasa dan kegiatan komersial lainnya."
+  ],
+  "fotoAdegan": "Industrial groundwater pump and pipes in a factory yard on the outskirts of Jakarta, worker checking a valve, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/20/6aaee7dc73513-ilustrasi-kegiatan-usaha-yang-termasuk-objek-pajak-air-tanah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang perlu digarisbawahi, tarif 10 persen ini bukan aturan baru, melainkan ketentuan yang sudah berjalan lewat Peraturan Daerah Nomor 1 Tahun 2024, dan pihak yang kena aturan ini adalah pelaku usaha padat air seperti hotel, pabrik, restoran, serta pengelola gedung perkantoran dan pusat belanja di Jakarta. Berita ini belum menyebut apakah penerapannya makin ketat, misalnya lewat penambahan sektor yang diawasi atau kenaikan tarif ke depan, karena tidak ada angka realisasi penerimaan pajak ini per tahun maupun jumlah wajib pajak atau sumur yang terdaftar. Untuk menilai ke arah mana kebijakan ini bergerak, longgar atau makin ketat, data yang layak ditunggu adalah laporan realisasi Pajak Air Tanah DKI Jakarta pada laporan keuangan daerah berikutnya, serta data resmi soal laju penurunan muka tanah Jakarta yang biasa dirilis instansi terkait tata ruang dan lingkungan.",
+  "imageV": "mu9avee3"
+ },
+ {
   "slug": "bmbl-direksi-jual-2-5-juta-saham-demi-likuiditas",
   "category": "Aksi Korporasi",
   "title": "BMBL: Direksi [Jual] 2,5 Juta Saham demi Likuiditas",

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pajak-air-tanah-10-kendalikan-pemakaian-di-jakarta",
+  "category": "Bisnis",
+  "title": "Pajak Air Tanah [10%] Kendalikan Pemakaian di Jakarta",
+  "deck": "Pemprov DKI Jakarta mengenakan Pajak Air Tanah sebesar 10% untuk menekan eksploitasi air tanah sekaligus menambah pendapatan daerah dari sektor usaha.",
+  "date": "20 September 2026",
+  "image": "assets/img/pajak-air-tanah-10-kendalikan-pemakaian-di-jakarta.jpg",
+  "imageV": "mu9avee3",
+  "tags": [
+   "pajak air tanah",
+   "DKI Jakarta",
+   "pajak daerah",
+   "air tanah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468137-pajak-air-tanah-bantu-kendalikan-penggunaan-air-sekaligus-dukung-pembangunan-jakarta"
+ },
+ {
   "slug": "bmbl-direksi-jual-2-5-juta-saham-demi-likuiditas",
   "category": "Aksi Korporasi",
   "title": "BMBL: Direksi [Jual] 2,5 Juta Saham demi Likuiditas",
@@ -6487,22 +6504,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466675-ojk-klaim-pembukaan-rekening-massal-strategis-untuk-perkuat-literasi-keuangan-tapi-bank-tetap-wajib-hati-hati"
- },
- {
-  "slug": "presiden-prabowo-bicara-di-dua-sesi-utama-ktt-brics-india",
-  "category": "Global",
-  "title": "Presiden Prabowo Bicara di [Dua Sesi] Utama KTT BRICS India",
-  "deck": "Presiden Prabowo Subianto dijadwalkan menyampaikan pandangan Indonesia dalam dua sesi utama KTT ke-18 BRICS di New Delhi, termasuk isu reformasi WTO, IMF, dan Bank Dunia.",
-  "date": "12 September 2026",
-  "image": "assets/img/presiden-prabowo-bicara-di-dua-sesi-utama-ktt-brics-india.jpg",
-  "imageV": "mtyafula",
-  "tags": [
-   "BRICS",
-   "Presiden Prabowo",
-   "India",
-   "Reformasi Ekonomi Global"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466661-presiden-prabowo-dijadwalkan-bicara-di-dua-sesi-utama-ktt-ke-18-brics-india"
  }
 ];

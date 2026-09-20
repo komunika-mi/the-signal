@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "cGoQhvE8mJY",
+  "title": "PT KAI Hadirkan Nusantara Explorer, Kereta Wisata Premium",
+  "category": "BUMN",
+  "program": "Kabar Petang",
+  "summary": "PT KAI meluncurkan Nusantara Explorer, layanan kereta wisata premium bergaya luxury sleeper dengan fasilitas mewah untuk mendongkrak sektor pariwisata.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan langkah diversifikasi bisnis BUMN perkeretaapian ke segmen pariwisata bernilai tambah tinggi."
+ },
+ {
   "id": "H4qqPp2_6GY",
   "title": "PT KAI Luncurkan Kereta Wisata Mewah Nusantara Explorer",
   "category": "BUMN",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Apa Kabar Indonesia Akhir Pekan",
   "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menyampaikan visi Presiden Prabowo Subianto soal hilirisasi, peningkatan kualitas sumber daya manusia, dan kemandirian di forum BRICS.",
   "takeaway": "Pidato ini mencerminkan arah kebijakan hilirisasi dan pengembangan SDM yang dibawa Indonesia ke panggung ekonomi global lewat forum BRICS."
- },
- {
-  "id": "E_niyqHImIU",
-  "title": "Digitalisasi Parkir untuk Cegah Kebocoran PAD",
-  "category": "Makroekonomi",
-  "program": "Inspirasi Pagi",
-  "summary": "Pemerintah daerah mulai menerapkan sistem parkir digital untuk meningkatkan transparansi dan mengoptimalkan Pendapatan Asli Daerah (PAD).",
-  "takeaway": "Relevan karena menyangkut upaya optimalisasi penerimaan daerah melalui digitalisasi layanan publik."
  }
 ];

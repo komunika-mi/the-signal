@@ -3,6 +3,55 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-targetkan-emisi-turun-96-pada-2050",
+  "category": "BUMN",
+  "title": "Pupuk Indonesia Targetkan Emisi [Turun] 96% pada 2050",
+  "deck": "Pupuk Indonesia menargetkan penurunan emisi 96 persen pada 2050 lewat amonia bersih, energi hijau, dan pengolahan CO2 jadi soda ash di Bontang.",
+  "image": "assets/img/pupuk-indonesia-targetkan-emisi-turun-96-pada-2050.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T18:18:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468251-pupuk-indonesia-kejar-penurunan-emisi-96-pada-2050-kembangkan-clean-ammonia-hingga-co2-jadi-soda-ash",
+  "tags": [],
+  "body": [
+   "PT Pupuk Indonesia (Persero) menetapkan target penurunan emisi gas rumah kaca hingga 96 persen pada 2050 sebagai bagian dari peta jalan menuju net zero emission, kondisi ketika emisi karbon yang dilepas perusahaan diimbangi habis oleh emisi yang dikurangi atau diserap kembali. Target ini relevan karena industri pupuk termasuk sektor padat emisi lantaran memakai gas bumi sebagai bahan baku utama, sehingga langkah salah satu BUMN produsen pupuk terbesar ini bisa jadi tolok ukur bagi industri sejenis.",
+   "Menurut Senior Project Manager Sustainability and Clean Ammonia Pupuk Indonesia, Erlangga Rismantojo, penurunan 96 persen itu setara sekitar 24,9 juta ton gas CO2 dan dicapai lewat inisiatif berbasis teknologi, antara lain efisiensi pemakaian energi, modernisasi pabrik, pengembangan amonia bersih, penggunaan energi hijau, serta teknologi penangkapan karbon. Sisa 4 persen untuk mencapai penurunan 100 persen akan ditutup lewat inisiatif berbasis alam, seperti pemulihan lahan atau hutan yang menyerap karbon.",
+   "Salah satu proyek konkret dari strategi ini adalah pabrik soda ash di Bontang, Kalimantan Timur, yang mengolah gas CO2 hasil produksi pupuk menjadi bahan baku soda ash. Produk ini dipakai oleh industri kaca dan deterjen, sehingga gas buang yang tadinya terbuang percuma diubah menjadi bahan baku yang bisa dijual.",
+   "Erlangga menyebut pemanfaatan CO2 ini berpotensi membuka rantai industri baru berbasis karbon, misalnya kaca hasil olahan soda ash yang bisa dipakai untuk panel surya, sehingga menyambungkan proyek ini dengan pengembangan energi terbarukan. Paparan ini disampaikan dalam sesi diskusi Decarbonizing Business: Driving ESG Performance and Competitiveness di Jakarta, dikutip Minggu (20/9/2026)."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/20/6aafbed208985-pupuk-indonesia-memaparkan-peta-jalan-dekarbonisasi-perusahaan-menuju-net-zero-emission-2050_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan cuma angka target di atas kertas, melainkan adanya proyek nyata yang mengubah limbah karbon pabrik pupuk menjadi barang yang bisa dijual, yaitu soda ash di Bontang, Kalimantan Timur, yang dipakai industri kaca dan deterjen. Yang terdampak langsung adalah Pupuk Indonesia sendiri sebagai penanggung target, serta industri kaca dan deterjen dalam negeri yang berpotensi mendapat pasokan bahan baku baru dari pengolahan karbon tersebut. Arahnya menunjukkan pergeseran strategi dari sekadar menekan biaya energi dan memenuhi target emisi, menuju mencari model bisnis baru dari karbon yang ditangkap, ketimbang menganggap dekarbonisasi cuma beban kepatuhan. Yang masih kurang untuk memastikan arah ini benar-benar berjalan adalah kapan pabrik soda ash Bontang mulai beroperasi penuh dan berapa kapasitas produksinya, sebab data yang ada baru sebatas target 2050 dan konsep proyek, belum jadwal atau angka produksi aktual.",
+  "imageV": "mu9qylgt"
+ },
+ {
+  "slug": "pertamina-eco-runfest-2026-ajak-publik-plogging-jaga-lingkungan",
+  "category": "BUMN",
+  "title": "Pertamina Eco RunFest 2026 Ajak Publik [Plogging] Jaga Lingkungan",
+  "deck": "PT Pertamina memulai rangkaian Road to Eco RunFest 2026 menuju ajang puncak 6 Desember 2026, memadukan olahraga, musik, dan program keberlanjutan lingkungan.",
+  "image": "assets/img/pertamina-eco-runfest-2026-ajak-publik-plogging-jaga-lingkungan.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T17:05:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468238-road-to-pertamina-eco-runfest-2026-mengajak-masyarakat-wujudkan-aksi-nyata-jaga-lingkungan",
+  "tags": [
+   "Pertamina",
+   "Eco RunFest 2026",
+   "BUMN",
+   "Lingkungan"
+  ],
+  "body": [
+   "PT Pertamina (Persero) memulai rangkaian Road to Pertamina Eco RunFest 2026 menjelang penyelenggaraan puncak pada 6 Desember 2026. Memasuki penyelenggaraan ke-13, ajang yang semula dikenal sebagai lomba lari ini terus diperluas menjadi festival yang menggabungkan olahraga, musik, gaya hidup, dan komunitas dengan pesan menjaga lingkungan, mengusung tema Spark the Change, Leave Zero Trace.",
+   "Rangkaian menuju hari puncak dibagi menjadi tiga bagian. Innovation Lab menjadi wadah bagi pelajar dan generasi muda untuk mengembangkan ide serta solusi atas masalah lingkungan. Spark the Road mendorong masyarakat menjadikan olahraga sebagai bagian gaya hidup yang lebih bertanggung jawab, antara lain lewat plogging atau memungut sampah sambil berolahraga, sementara Sound of Change memakai musik dan kreativitas untuk menyebarkan pesan keberlanjutan. Kegiatan plogging pada rangkaian ini sudah dilakukan bersama perwakilan siswa dari 10 sekolah di DKI Jakarta.",
+   "Semangat itu diturunkan menjadi tujuh program yang disebut Pertamina sebagai Eco Initiatives, yaitu Eco Jersey, Eco Innovation, Eco Mission, Eco Talent, Eco Production, Eco Waste Management, dan Eco Education. Eco Jersey memakai bahan daur ulang untuk jersey peserta, Eco Innovation mendorong solusi lingkungan dari generasi muda, Eco Mission menjanjikan seluruh keuntungan penjualan tiket disalurkan untuk mendukung aksi lingkungan, dan Eco Talent melibatkan musisi, figur publik, serta kreator untuk menyebarkan pesan keberlanjutan.",
+   "Vice President Corporate Communication Pertamina, Muhammad Baron, mengatakan semangat keberlanjutan dalam Eco RunFest tidak berhenti sebagai pesan, melainkan diwujudkan lewat aksi nyata. \"Kami ingin semangat eco tidak berhenti sebagai sebuah pesan. Melalui Road to Pertamina Eco RunFest, masyarakat diajak untuk mengalami, melakukan, dan menjadi bagian dari perubahan itu sendiri. Perubahan dapat dimulai dari kebiasaan sederhana yang dilakukan bersama,\" ujar Baron."
+  ],
+  "fotoAdegan": "Group of young runners in matching shirts picking up plastic waste along a city park jogging path at sunrise, Jakarta streetscape in background.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/20/6aafaeee16716-road-to-pertamina-eco-runfest-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah, Eco RunFest yang sudah berjalan 13 tahun kini dibungkus jadi tujuh program berkelanjutan sekaligus, mulai dari jersey berbahan daur ulang sampai janji menyalurkan seluruh keuntungan penjualan tiket untuk aksi lingkungan. Yang terdampak langsung baru kalangan terbatas, yaitu pelajar dari 10 sekolah di Jakarta yang diajak memungut sampah, serta musisi dan kreator yang dilibatkan menyebarkan pesan acara. Pola ini menunjukkan Pertamina makin menjadikan ajang olahraga sebagai kanal komunikasi keberlanjutan perusahaan, bukan sekadar sponsor lomba lari tahunan biasa. Yang akan menunjukkan seberapa nyata dampaknya adalah jumlah peserta dan berapa dana yang benar-benar tersalurkan lewat program Eco Mission setelah acara puncak digelar 6 Desember 2026.",
+  "imageV": "mu9qylwz"
+ },
+ {
   "slug": "ojol-pekerja-atau-mitra-pemerintah-belum-ambil-sikap",
   "category": "Ketenagakerjaan",
   "title": "Ojol Pekerja atau [Mitra]? Pemerintah Belum Ambil Sikap",

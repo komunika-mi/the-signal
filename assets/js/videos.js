@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "cGoQhvE8mJY",
+  "title": "PT KAI Hadirkan Nusantara Explorer, Kereta Wisata Premium",
+  "category": "BUMN",
+  "program": "Kabar Petang",
+  "summary": "PT KAI meluncurkan Nusantara Explorer, layanan kereta wisata premium bergaya luxury sleeper dengan fasilitas mewah untuk mendongkrak sektor pariwisata.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan langkah diversifikasi bisnis BUMN perkeretaapian ke segmen pariwisata bernilai tambah tinggi.",
+  "terbit": "2026-09-20T11:22:03+00:00"
+ },
+ {
   "id": "H4qqPp2_6GY",
   "title": "PT KAI Luncurkan Kereta Wisata Mewah Nusantara Explorer",
   "category": "BUMN",

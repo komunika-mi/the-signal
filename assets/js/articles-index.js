@@ -5,6 +5,35 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-targetkan-emisi-turun-96-pada-2050",
+  "category": "BUMN",
+  "title": "Pupuk Indonesia Targetkan Emisi [Turun] 96% pada 2050",
+  "deck": "Pupuk Indonesia menargetkan penurunan emisi 96 persen pada 2050 lewat amonia bersih, energi hijau, dan pengolahan CO2 jadi soda ash di Bontang.",
+  "date": "20 September 2026",
+  "image": "assets/img/pupuk-indonesia-targetkan-emisi-turun-96-pada-2050.jpg",
+  "imageV": "mu9qylgt",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468251-pupuk-indonesia-kejar-penurunan-emisi-96-pada-2050-kembangkan-clean-ammonia-hingga-co2-jadi-soda-ash"
+ },
+ {
+  "slug": "pertamina-eco-runfest-2026-ajak-publik-plogging-jaga-lingkungan",
+  "category": "BUMN",
+  "title": "Pertamina Eco RunFest 2026 Ajak Publik [Plogging] Jaga Lingkungan",
+  "deck": "PT Pertamina memulai rangkaian Road to Eco RunFest 2026 menuju ajang puncak 6 Desember 2026, memadukan olahraga, musik, dan program keberlanjutan lingkungan.",
+  "date": "20 September 2026",
+  "image": "assets/img/pertamina-eco-runfest-2026-ajak-publik-plogging-jaga-lingkungan.jpg",
+  "imageV": "mu9qylwz",
+  "tags": [
+   "Pertamina",
+   "Eco RunFest 2026",
+   "BUMN",
+   "Lingkungan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468238-road-to-pertamina-eco-runfest-2026-mengajak-masyarakat-wujudkan-aksi-nyata-jaga-lingkungan"
+ },
+ {
   "slug": "ojol-pekerja-atau-mitra-pemerintah-belum-ambil-sikap",
   "category": "Ketenagakerjaan",
   "title": "Ojol Pekerja atau [Mitra]? Pemerintah Belum Ambil Sikap",
@@ -6471,38 +6500,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466843-amran-direstui-prabowo-untuk-hajar-mafia-beras-93-persen-sampel-beras-fortifikasi-bermasalah"
- },
- {
-  "slug": "ptk-kembangkan-kapal-hijau-bertenaga-surya-dan-baterai",
-  "category": "BUMN",
-  "title": "PTK Kembangkan Kapal [Hijau] Bertenaga Surya dan Baterai",
-  "deck": "Anak usaha Pertamina ini memasang panel surya di kapal penunjang dan menyiapkan uji coba sistem baterai mulai 2027, bagian dari transformasi menuju armada maritim rendah emisi.",
-  "date": "13 September 2026",
-  "image": "assets/img/ptk-kembangkan-kapal-hijau-bertenaga-surya-dan-baterai.jpg",
-  "imageV": "mtzpv60p",
-  "tags": [
-   "PTK",
-   "Pertamina",
-   "Green Vessel",
-   "Maritim"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466828-dorong-green-vessel-jadi-masa-depan-industri-maritim-ptk-andalkan-plts-hingga-teknologi-baterai"
- },
- {
-  "slug": "wskt-naik-peringkat-dari-default-ke-idb-creditwatch-negatif",
-  "category": "Aksi Korporasi",
-  "title": "WSKT Naik Peringkat dari Default ke [idB]/CreditWatch Negatif",
-  "deck": "PEFINDO menaikkan peringkat WSKT dari status gagal bayar (idSD) ke idB/CreditWatch Negatif, menyusul kuorum restrukturisasi obligasi yang disetujui pemegang obligasi di RUPO 3 September 2026.",
-  "date": "13 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "Waskita Karya",
-   "peringkat obligasi",
-   "PEFINDO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/552df66a4a_dda76e348f.pdf",
-  "sourceLabel": "IDX"
  }
 ];

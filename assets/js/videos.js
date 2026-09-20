@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "U5Tw4qPK4JI",
+  "title": "Kadin Gorontalo Lantik Pengurus Kabupaten/Kota",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Enam kepengurusan Kamar Dagang dan Industri kabupaten/kota di Provinsi Gorontalo resmi dilantik, disertai pesan tegas dari Ketua Umum Karateker Kadin setempat.",
+  "takeaway": "Pergantian pengurus Kadin daerah penting diikuti karena menyangkut arah kebijakan dan pendampingan bagi pelaku usaha di Gorontalo.",
+  "terbit": "2026-09-20T16:48:50+00:00"
+ },
+ {
   "id": "cGoQhvE8mJY",
   "title": "PT KAI Hadirkan Nusantara Explorer, Kereta Wisata Premium",
   "category": "BUMN",

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "adhi-teken-mra-restrukturisasi-utang-rp3-triliun-ke-bank-bumn",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Teken MRA, [Restrukturisasi] Utang Rp3 Triliun ke Bank BUMN",
+  "deck": "PT Adhi Karya menandatangani Master Restructuring Agreement senilai total Rp3 triliun dengan Bank Mandiri, BRI, dan BNI untuk merestrukturisasi utangnya.",
+  "date": "20 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "restrukturisasi utang",
+   "Bank Mandiri",
+   "BUMN Karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a1159ea22_3321df6211.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pupuk-indonesia-targetkan-emisi-turun-96-pada-2050",
   "category": "BUMN",
   "title": "Pupuk Indonesia Targetkan Emisi [Turun] 96% pada 2050",
@@ -6483,22 +6499,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466858-brics-dorong-pembentukan-bursa-gandum-bersama-perdagangan-komoditas-pertanian-akan-diperluas"
- },
- {
-  "slug": "presiden-prabowo-restui-amran-buru-mafia-beras-fortifikasi",
-  "category": "Industri",
-  "title": "Presiden Prabowo Restui Amran Buru [Mafia] Beras Fortifikasi",
-  "deck": "Amran mengklaim mendapat restu Presiden Prabowo Subianto untuk mengusut mafia beras, menyusul temuan beras fortifikasi yang dijual jauh di atas nilai sebenarnya.",
-  "date": "13 September 2026",
-  "image": "assets/img/presiden-prabowo-restui-amran-buru-mafia-beras-fortifikasi.jpg",
-  "imageV": "mtzpv5li",
-  "tags": [
-   "beras fortifikasi",
-   "mafia beras",
-   "Andi Amran Sulaiman",
-   "Bapanas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466843-amran-direstui-prabowo-untuk-hajar-mafia-beras-93-persen-sampel-beras-fortifikasi-bermasalah"
  }
 ];

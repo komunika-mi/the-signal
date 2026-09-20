@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "adhi-teken-mra-restrukturisasi-utang-rp3-triliun-ke-bank-bumn",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Teken MRA, [Restrukturisasi] Utang Rp3 Triliun ke Bank BUMN",
+  "deck": "PT Adhi Karya menandatangani Master Restructuring Agreement senilai total Rp3 triliun dengan Bank Mandiri, BRI, dan BNI untuk merestrukturisasi utangnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T18:42:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a1159ea22_3321df6211.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "restrukturisasi utang",
+   "Bank Mandiri",
+   "BUMN Karya"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk menandatangani Master Restructuring Agreement (MRA) atau perjanjian restrukturisasi kredit pada 18 September 2026 dengan tiga bank pelat merah selaku kreditur, yaitu Bank Mandiri, Bank Rakyat Indonesia (BRI), dan Bank Negara Indonesia (BNI), dengan Bank Mandiri bertindak sebagai agen fasilitas. Total kewajiban yang direstrukturisasi, mencakup pokok dan bunga per Juli 2026, mencapai Rp3 triliun. Laporan ke bursa ditandatangani Corporate Secretary Siswanto dan surat resminya diteken Direktur Keuangan Bani Iqbal.",
+   "Utang tersebut dipecah menjadi tiga kelompok pembayaran. Tranche A senilai Rp1,55 triliun (Rp1.546.885.366.367) akan dilunasi selama 15 tahun sejak tanggal efektif dengan skema balloon payment, yaitu cicilan kecil di awal dan pembayaran besar di akhir masa pinjaman, berbunga 3,5 persen per tahun, dengan 1 persen dibayar tunai setiap tiga bulan dan 2,5 persen sisanya ditangguhkan hingga 2041. Tranche B senilai Rp1,46 triliun (Rp1.455.728.987.624) dilunasi dalam 5 tahun lewat skema bullet payment, yakni dibayar sekaligus di akhir periode, dengan sumber dana dari hasil divestasi atau penjualan aset perseroan, berbunga 1 persen per tahun. Tranche C berisi bunga yang timbul sejak tanggal persetujuan standstill sampai tanggal efektif, dicicil selama 18 bulan tanpa bunga tambahan.",
+   "Perseroan menyatakan transaksi ini tergolong transaksi afiliasi karena ADHI dan ketiga bank kreditur sama-sama dikendalikan oleh pemegang saham yang sama, yaitu Pemerintah Republik Indonesia dan PT Danantara Asset Management, namun dikecualikan dari ketentuan POJK 42/2020 tentang transaksi afiliasi dan POJK 17/2020 tentang transaksi material. MRA baru berlaku efektif setelah digelar Rapat Umum Pemegang Saham (RUPS) dan sejumlah syarat lain dalam perjanjian dipenuhi. Jumlah utang final juga masih akan direkonsiliasi ulang selambat-lambatnya dua hari sebelum tanggal efektif tersebut."
+  ],
+  "fotoAdegan": "Construction workers in helmets checking rebar and scaffolding at a toll road overpass project site, overcast afternoon light",
+  "takeaway": "Laporan ini condong positif bagi ADHI, karena penandatanganan MRA ini menjadi langkah konkret pertama menuju kepastian setelah rentetan kabar buruk sepekan terakhir, mulai dari pengakuan tekanan likuiditas hingga pemangkasan peringkat ke status gagal bayar oleh Pefindo. Yang tersentuh adalah beban bunga dan arus kas perseroan: dari total Rp3 triliun yang direstrukturisasi, sebagian bunga Tranche A justru ditangguhkan sampai 2041 sehingga meringankan kas dalam jangka pendek, tapi pelunasan Tranche B senilai Rp1,46 triliun dalam lima tahun bergantung pada hasil penjualan aset perseroan yang belum terjadi, sehingga menjadi taruhan besar bagi kemampuan bayar ke depan. Yang perlu dipantau selanjutnya adalah RUPS yang menjadi syarat MRA berlaku efektif serta proses rekonsiliasi jumlah utang final yang harus rampung paling lambat dua hari sebelum tanggal efektif itu. Sampai kedua syarat itu tuntas, kesepakatan restrukturisasi ini secara hukum belum sepenuhnya mengikat.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pupuk-indonesia-targetkan-emisi-turun-96-pada-2050",
   "category": "BUMN",
   "title": "Pupuk Indonesia Targetkan Emisi [Turun] 96% pada 2050",

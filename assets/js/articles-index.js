@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "winr-pemegang-saham-utama-lepas-10-juta-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Utama Lepas [10 Juta] Saham Lagi",
+  "deck": "Pemegang saham besar WINR menjual 10 juta saham pada 16 September 2026 seharga Rp25 per saham, melanjutkan pelepasan bertahap untuk menambah porsi saham beredar bebas.",
+  "date": "20 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20092026-3558-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-kejar-1-juta-shm-gratis-untuk-mbr-di-2026",
   "category": "Bisnis",
   "title": "Pemerintah Kejar [1 Juta] SHM Gratis untuk MBR di 2026",
@@ -6484,21 +6500,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8131",
   "sourceLabel": "Kementerian Pertanian"
- },
- {
-  "slug": "foru-kantongi-restu-ojk-rights-issue-inbreng-rp20-8-triliun",
-  "category": "Aksi Korporasi",
-  "title": "FORU Kantongi Restu OJK, Rights Issue [Inbreng] Rp20,8 Triliun",
-  "deck": "FORU menyerahkan prospektus resmi rights issue Rp27,1 triliun. Pengendali IMR Asia Holding menyetor 49% saham Borneo Prima senilai Rp20,8 triliun, bukan uang tunai.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "rights issue",
-   "HMETD",
-   "Borneo Prima"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4bf4620c56_4cabb5d4ac.pdf",
-  "sourceLabel": "IDX"
  }
 ];

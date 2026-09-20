@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "winr-pemegang-saham-utama-lepas-10-juta-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Utama Lepas [10 Juta] Saham Lagi",
+  "deck": "Pemegang saham besar WINR menjual 10 juta saham pada 16 September 2026 seharga Rp25 per saham, melanjutkan pelepasan bertahap untuk menambah porsi saham beredar bebas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 September 2026",
+  "isoDate": "2026-09-20T23:18:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20092026-3558-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "pemegang saham"
+  ],
+  "body": [
+   "Pemenang Nusantara Internasional, pemegang saham besar PT Winner Nusantara Jaya Tbk (WINR) yang bukan anggota direksi maupun dewan komisaris, melaporkan penjualan 10.000.000 saham WINR pada 16 September 2026 dengan harga Rp25 per saham. Dalam laporan yang disampaikan ke Otoritas Jasa Keuangan pada 20 September 2026 sesuai POJK Nomor 4/2024, tujuan transaksi ini disebutkan untuk menambah porsi saham free float perusahaan.",
+   "Sebelum transaksi, pelapor menggenggam 2.477.727.500 saham WINR yang setara 47,33 persen hak suara. Setelah penjualan, kepemilikannya turun menjadi 2.467.727.500 saham dengan hak suara 47,14 persen. Artinya saham yang dilepas hanya sekitar 0,40 persen dari total kepemilikan pelapor sebelumnya.",
+   "Transaksi ini melanjutkan pola serupa yang sudah dilaporkan sehari sebelumnya, saat hak suara pemegang saham yang sama juga tercatat turun dari 47,72 persen menjadi 47,33 persen dengan alasan yang sama, yakni menambah saham beredar bebas. Dengan laporan terbaru ini, hak suara pelapor sudah turun dua kali berturut-turut dalam waktu berdekatan."
+  ],
+  "fotoAdegan": "Wide shot of a modern stock exchange building facade in Jakarta with glass towers, daytime, pedestrians passing by",
+  "takeaway": "Laporan ini netral bagi WINR, karena saham yang dilepas cuma sekitar 0,40 persen dari kepemilikan pelapor dan tidak mengubah statusnya sebagai pemegang saham dengan hak suara mayoritas di atas 47 persen. Yang tersentuh di sini adalah struktur kepemilikan dan porsi saham beredar bebas atau free float, yakni bagian saham yang bisa diperjualbelikan bebas oleh publik di luar genggaman pemegang saham besar. Semakin besar free float, biasanya semakin mudah saham itu diperdagangkan, tapi transaksi ini tidak mengubah jumlah total saham beredar perusahaan maupun laba per saham karena sifatnya jual beli di pasar sekunder, bukan penerbitan saham baru. Yang perlu dipantau adalah apakah pelepasan bertahap ini berlanjut di laporan-laporan berikutnya, sebab dalam dua hari terakhir saja hak suara pelapor sudah turun dari 47,72 persen ke 47,14 persen, dan jika tren ini terus berlanjut dalam jumlah besar, statusnya sebagai pemegang saham utama bisa mulai tergerus.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pemerintah-kejar-1-juta-shm-gratis-untuk-mbr-di-2026",
   "category": "Bisnis",
   "title": "Pemerintah Kejar [1 Juta] SHM Gratis untuk MBR di 2026",

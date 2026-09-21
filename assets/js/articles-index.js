@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya",
+  "category": "Moneter",
+  "title": "Rupiah [Tertekan] ke Rp17.847, BI Sebut Penyebabnya",
+  "deck": "BI mengaitkan pelemahan rupiah ke Rp17.847 per dolar AS dengan lonjakan harga minyak akibat gejolak Timur Tengah, kebutuhan valas importir, dan dana asing yang keluar.",
+  "date": "21 September 2026",
+  "image": "assets/img/rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya.jpg",
+  "imageV": "mubcbj8k",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "Bank Indonesia",
+   "harga minyak"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468482-rupiah-tertekan-ke-rp17847-per-dolar-bi-ungkap-biang-keroknya"
+ },
+ {
   "slug": "kkp-musnahkan-pakan-dan-alat-tangkap-ilegal-di-aceh",
   "category": "Industri",
   "title": "KKP [Musnahkan] Pakan dan Alat Tangkap Ilegal di Aceh",
@@ -6482,22 +6499,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76e782e761_90f387a606.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "menkeu-suahasil-janji-segera-paparkan-data-apbn",
-  "category": "Makroekonomi",
-  "title": "Menkeu Suahasil Janji Segera [Paparkan] Data APBN",
-  "deck": "Menkeu baru Suahasil Nazara berjanji segera menggelar konferensi pers ALCo untuk memaparkan data realisasi APBN Juli dan Agustus 2026 yang belum dipublikasikan.",
-  "date": "15 September 2026",
-  "image": "assets/img/menkeu-suahasil-janji-segera-paparkan-data-apbn.jpg",
-  "imageV": "mu24r65h",
-  "tags": [
-   "APBN",
-   "Kemenkeu",
-   "Suahasil Nazara",
-   "ALCo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467138-menkeu-suahasil-akan-paparkan-data-apbn-secepatnya"
  }
 ];

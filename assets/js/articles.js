@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya",
+  "category": "Moneter",
+  "title": "Rupiah [Tertekan] ke Rp17.847, BI Sebut Penyebabnya",
+  "deck": "BI mengaitkan pelemahan rupiah ke Rp17.847 per dolar AS dengan lonjakan harga minyak akibat gejolak Timur Tengah, kebutuhan valas importir, dan dana asing yang keluar.",
+  "image": "assets/img/rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T21:15:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468482-rupiah-tertekan-ke-rp17847-per-dolar-bi-ungkap-biang-keroknya",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "Bank Indonesia",
+   "harga minyak"
+  ],
+  "body": [
+   "Nilai tukar rupiah melemah ke level Rp17.847 per dolar Amerika Serikat pada Senin, 21 September 2026. Bank Indonesia menyebut tekanan ini muncul dari kombinasi sentimen global dan kebutuhan valuta asing di dalam negeri. Pelemahan ini penting bagi pembaca karena rupiah yang lebih lemah membuat barang impor, mulai dari bahan baku pabrik sampai bahan bakar minyak, menjadi lebih mahal dalam rupiah.",
+   "Salah satu pemicu utama adalah meningkatnya ketegangan di Timur Tengah yang mendorong harga minyak dunia naik hingga menembus US$100 per barel. Harga minyak setinggi itu memperbesar kekhawatiran inflasi di banyak negara, termasuk Indonesia yang masih mengimpor sebagian kebutuhan minyaknya. Semakin mahal minyak yang harus dibeli dari luar negeri, semakin besar pula permintaan dolar untuk membayarnya, dan itu ikut menekan rupiah.",
+   "Kepala Departemen Pengelolaan Moneter dan Aset Sekuritas BI, Erwin Gunawan Hutapea, mengatakan tekanan juga datang dari dalam negeri. \"Tekanan nilai tukar juga didorong oleh kebutuhan valas importir serta arus keluar dana dari portofolio aset domestik,\" ujarnya. Importir dalam negeri butuh dolar untuk membayar barang yang mereka beli dari luar negeri, sementara investor asing terpantau melepas saham dan obligasi Indonesia lalu membawa dananya keluar, sehingga permintaan dolar di pasar semakin bertambah.",
+   "Dengan begitu, BI menyimpulkan pelemahan rupiah kali ini bukan berasal dari satu sebab tunggal, melainkan gabungan faktor eksternal berupa gejolak geopolitik dan harga minyak, serta faktor domestik berupa kebutuhan valas importir dan keluarnya dana investor asing."
+  ],
+  "fotoAdegan": "An oil tanker anchored at an Indonesian refinery terminal, cranes and pipelines in the foreground, overcast harbor light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/12/05/6751330527292-ilustrasi-rupiah-dan-dolar-as_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah rupiah melemah ke Rp17.847 per dolar AS, dan BI mengaitkannya dengan empat hal sekaligus: harga minyak dunia yang naik di atas US$100 per barel akibat gejolak Timur Tengah, kebutuhan dolar dari importir, dan investor asing yang melepas saham serta obligasi Indonesia. Yang paling langsung kena dampak adalah importir dan pelaku usaha yang bahan bakunya dari luar negeri, karena belanja mereka dalam rupiah jadi lebih mahal begitu kurs melemah, dan efeknya bisa menjalar ke konsumen lewat harga barang impor serta bahan bakar. Arah tekanan ini kemungkinan berlanjut selama harga minyak bertahan di atas US$100 per barel dan ketegangan Timur Tengah belum mereda, tapi itu baru bisa dipastikan dari dua hal konkret: pergerakan harga minyak dunia pada hari-hari mendatang, dan data aliran modal asing mingguan yang rutin dirilis BI, yaitu catatan berapa banyak dana investor asing yang keluar atau justru mulai masuk lagi ke pasar Indonesia.",
+  "imageV": "mubcbj8k"
+ },
+ {
   "slug": "kkp-musnahkan-pakan-dan-alat-tangkap-ilegal-di-aceh",
   "category": "Industri",
   "title": "KKP [Musnahkan] Pakan dan Alat Tangkap Ilegal di Aceh",
@@ -56,7 +83,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan pembaruan angka: tim penyelesai hambatan investasi pemerintah sudah menuntaskan 135 dari 177 aduan pelaku usaha per akhir Agustus, dan 25 kawasan ekonomi khusus tercatat menyerap investasi Rp368 triliun serta lebih dari 283 ribu pekerja hingga Juni 2026. Yang terdampak langsung adalah pelaku usaha yang mengajukan keluhan soal izin, pajak, atau logistik, dan pemerintah daerah yang mengelola kawasan investasi tersebut. Dorongan keterbukaan informasi, mulai dari profil daerah sampai rantai pasok lokal, menunjukkan pemerintah mengandalkan kemudahan akses data sebagai salah satu jalan mengejar target pertumbuhan investasi menuju PDB 6 persen pada 2027 dan 8 persen pada 2029, bukan sekadar insentif fiskal baru. Yang akan menentukan apakah pendekatan ini berhasil adalah angka realisasi investasi kuartal III 2026 yang biasanya dirilis BKPM pada akhir Oktober, serta apakah jumlah aduan yang tuntas ditangani terus bertambah dari 135 kasus saat ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "asian-games-2026-gratis-di-maxstream-tv-indihome",

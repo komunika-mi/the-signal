@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "asean-godok-peta-jalan-semikonduktor-dan-koridor-kalimantan",
+  "category": "Global",
+  "title": "ASEAN Godok Peta Jalan [Semikonduktor] dan Koridor Kalimantan",
+  "deck": "Pertemuan Menteri Ekonomi ASEAN di Manila membahas progres agenda prioritas ekonomi, dari peta jalan semikonduktor hingga kesiapan Koridor Kalimantan yang ditargetkan beroperasi 2027.",
+  "image": "assets/img/asean-godok-peta-jalan-semikonduktor-dan-koridor-kalimantan.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T06:23:48.828Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-apresiasi-kemajuan-capaian-prioritas-ekonomi-asean-di-bawah-keketuaan-filipina",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ASEAN",
+   "Semikonduktor",
+   "Perdagangan Internasional",
+   "Borneo Corridor"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri mewakili Indonesia dalam Pertemuan ke-58 Menteri Ekonomi ASEAN di Metro Manila, Filipina, akhir pekan lalu. Pertemuan yang berlangsung di bawah keketuaan Filipina ini membahas sejumlah agenda ekonomi kawasan, mulai dari peta jalan industri semikonduktor, pusat unggulan bagi usaha mikro kecil dan menengah, hingga kesiapan jalur logistik baru yang menghubungkan Kalimantan dengan negara ASEAN lain. Agenda semacam ini penting bagi pelaku usaha Indonesia karena aturan main perdagangan dan investasi lintas ASEAN, termasuk soal insentif dan infrastruktur, ikut dibentuk dari forum ini.",
+   "ASEAN mencatat pertumbuhan ekonomi 4,9 persen pada 2025 dan diproyeksikan melambat menjadi 4,5 persen pada 2026, menurut data yang dipaparkan dalam pertemuan tersebut. Perdagangan barang di kawasan ini tumbuh 13,7 persen sepanjang 2025 menjadi US$4,4 triliun, naik dari US$3,8 triliun pada tahun sebelumnya. Investasi asing langsung yang masuk ke ASEAN juga naik 10,1 persen menjadi US$245,7 miliar, sementara perdagangan jasa antarnegara ASEAN tumbuh sekitar 5,1 persen.",
+   "Dari sejumlah agenda prioritas ekonomi yang dibahas, baru satu yang benar-benar rampung, yaitu program perluasan akses layanan keuangan ke lebih banyak masyarakat dan pelaku usaha. Tiga agenda lain masih berproses, yakni aturan pergerakan pekerja digital lintas negara ASEAN, pusat unggulan untuk UMKM, dan peta jalan pengembangan industri semikonduktor kawasan. Khusus semikonduktor, Indonesia meminta agar negara ASEAN tidak saling bersaing menawarkan insentif investasi yang berbeda-beda, sembari mendorong pelibatan kalangan kampus untuk riset dan penguatan pasokan bahan baku mineral kritis.",
+   "Indonesia juga menyatakan tengah menyiapkan aspek hukum dan infrastruktur dalam negeri untuk mendukung Borneo Corridor, jalur logistik lintas negara di Kalimantan yang ditargetkan mulai beroperasi pada 2027. Dalam pertemuan ini, para menteri ekonomi ASEAN turut mengesahkan deklarasi percepatan penerapan sementara protokol kedua perjanjian dagang barang ASEAN, sebagai tindak lanjut arahan para pemimpin ASEAN pada Mei 2026. Di sela pertemuan, Wamendag Roro juga dijadwalkan bertemu secara bilateral dengan Inggris, Rusia, dan Organisasi Kerja Sama Ekonomi dan Pembangunan (OECD)."
+  ],
+  "fotoAdegan": "Technicians in cleanroom suits examining silicon wafers on an automated semiconductor production line, blue ambient lighting",
+  "fotoSumber": "https://www.kemendag.go.id/albums/wVc6sCcfCVUMa0GhNqSjiMRyJFClRstbdvn1XGta.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari pertemuan ini adalah sejumlah agenda ekonomi ASEAN mulai mendekati titik akhir, terutama deklarasi percepatan aturan perdagangan barang ASEAN dan target Borneo Corridor mulai beroperasi pada 2027, sementara peta jalan semikonduktor kawasan masih digodok. Yang terdampak langsung adalah pelaku industri semikonduktor yang mempertimbangkan investasi di ASEAN termasuk Indonesia, UMKM yang menunggu kejelasan pusat unggulan ASEAN, serta pelaku usaha logistik dan perdagangan di jalur Kalimantan. Arah yang terlihat adalah ASEAN mencoba mengoordinasikan aturan mainnya, dari insentif investasi semikonduktor sampai jalur distribusi barang, ketimbang membiarkan tiap negara bersaing sendiri-sendiri menawarkan kemudahan berbeda. Yang akan menentukan apakah arah ini benar-benar terwujud adalah apakah peta jalan semikonduktor yang masih berstatus 'dalam proses' itu rampung dengan kesepakatan insentif bersama, dan apakah kesiapan hukum serta infrastruktur Kalimantan benar-benar tuntas sebelum target Borneo Corridor beroperasi pada 2027.",
+  "imageV": "muav8f7y"
+ },
+ {
+  "slug": "telkom-angkut-5-1-ton-sampah-dari-kali-krukut",
+  "category": "BUMN",
+  "title": "Telkom [Angkut] 5,1 Ton Sampah dari Kali Krukut",
+  "deck": "TelkomGroup bersama Pemprov DKI Jakarta mengangkut 5,1 ton sampah dari Kali Krukut dalam aksi bersih memperingati Hari Sungai dan World Cleanup Day.",
+  "image": "assets/img/telkom-angkut-5-1-ton-sampah-dari-kali-krukut.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T12:21:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468365-peringati-hari-sungai-dan-world-cleanup-day-telkomgroup-angkut-51-ton-sampah-dari-kali-krukut",
+  "tags": [
+   "Telkom",
+   "Kali Krukut",
+   "World Cleanup Day",
+   "ESG"
+  ],
+  "body": [
+   "PT Telkom Indonesia Tbk bersama anak usahanya, PT Telkom Landmark Tower, menggelar aksi bersih sungai di kawasan The Telkom Hub, Jakarta, pada Jumat, 18 September 2026. Kegiatan yang digelar dalam rangka peringatan Hari Sungai dan World Cleanup Day ini berhasil mengangkut sekitar 19 meter kubik, atau setara 5,1 ton sampah, dari sejumlah titik di sepanjang aliran Kali Krukut.",
+   "Kali Krukut yang membentang sepanjang 31,39 kilometer dan melintasi area The Telkom Hub selama ini masih bermasalah dengan sampah yang menggenang di permukaan air maupun menumpuk di bantaran sungai. Kondisi ini dinilai mengganggu kebersihan kawasan sekaligus berpotensi memengaruhi ekosistem dan kenyamanan warga yang beraktivitas di sekitar aliran sungai. Aksi bersih ini mendapat dukungan Pemerintah Provinsi DKI Jakarta hingga jajaran kecamatan dan kelurahan setempat.",
+   "Pembersihan melibatkan karyawan TelkomGroup bersama petugas kebersihan lingkungan atau Pasukan Oren, dan petugas penanganan saluran air serta banjir atau Pasukan Biru, yang turun langsung mengangkat sampah mulai dari permukaan air hingga bantaran sungai. SVP Group Sustainability & Corporate Communication Telkom, Ahmad Reza, menyebut kegiatan ini sebagai bukti implementasi program ESG Telkom yang berkelanjutan. \"Aksi sederhana seperti ini menjadi salah satu bukti nyata bagaimana implementasi program ESG Telkom bukan hanya sekedar pelengkap, tapi suatu program berkelanjutan dengan dampak positif yang luas. Karena ketika lingkungan terjaga, yang ikut tumbuh bukan hanya produktivitas bisnis Telkom, tetapi juga ekosistem di sekitarnya,\" ujarnya.",
+   "VP Sustainability Telkom, Gunawan Wasisto Ciptaning Andri, menambahkan bahwa persoalan lingkungan seperti sungai tidak mengenal batas wilayah administratif. \"Sungai mengajarkan kita bahwa lingkungan tidak mengenal batas administratif. Apa yang terjadi di satu wilayah pada akhirnya dapat berdampak pada wilayah lainnya. Karena itu, kami melihat aksi hari ini bukan hanya sebagai upaya membersihkan sungai, tetapi sebagai bagian dari komitmen TelkomGroup untuk terus menjaga ruang hidup bersama, terutama di lingkungan operasional kami, dan memberikan manfaat yang lebih bagi lingkungan dan masyarakat sekitar,\" katanya."
+  ],
+  "fotoAdegan": "Volunteers in orange and blue uniforms pulling plastic waste from a murky urban riverbank in Jakarta, overcast morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/21/6ab0bdbe1d803-pt-telkom-indonesia-persero-tbk-telkom-bersama-operating-company-pt-telkom-landmark-tower-tlt-menggelar-aksi-bersih-kali-krukut-di-sekitar-kawasan-the-telkom-hub-jakarta-pada-jumat-189_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini hanya satu peristiwa: pada 18 September, TelkomGroup bersama Pemprov DKI Jakarta mengangkut 19 meter kubik, atau 5,1 ton sampah, dari Kali Krukut yang panjangnya 31,39 kilometer, bertepatan dengan peringatan Hari Sungai dan World Cleanup Day. Yang terdampak langsung adalah lingkungan sekitar The Telkom Hub dan warga yang beraktivitas di bantaran sungai itu, sementara pelaksanaannya melibatkan karyawan Telkom bersama petugas kebersihan Pasukan Oren dan petugas penanganan banjir Pasukan Biru. Berita ini tidak menyebutkan apakah aksi bersih semacam ini rutin dilakukan Telkom di lokasi yang sama sepanjang tahun atau hanya seremoni tahunan mengikuti peringatan Hari Sungai dan World Cleanup Day, sehingga belum bisa disimpulkan apakah angka 5,1 ton ini menunjukkan sungai makin bersih atau makin kotor dibanding aksi sebelumnya. Yang perlu dicermati ke depan adalah apakah TelkomGroup mempublikasikan data pembanding dari aksi bersih sungai berikutnya, karena itu yang akan menentukan apakah ini bagian dari program ESG berkelanjutan atau sekadar agenda seremonial tahunan.",
+  "imageV": "muav8g62"
+ },
+ {
   "slug": "unsp-rinci-dasar-diskonto-revaluasi-kebun-ke-bursa",
   "category": "Aksi Korporasi",
   "title": "UNSP Rinci Dasar Diskonto Revaluasi [Kebun] ke Bursa",

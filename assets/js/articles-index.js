@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "asean-godok-peta-jalan-semikonduktor-dan-koridor-kalimantan",
+  "category": "Global",
+  "title": "ASEAN Godok Peta Jalan [Semikonduktor] dan Koridor Kalimantan",
+  "deck": "Pertemuan Menteri Ekonomi ASEAN di Manila membahas progres agenda prioritas ekonomi, dari peta jalan semikonduktor hingga kesiapan Koridor Kalimantan yang ditargetkan beroperasi 2027.",
+  "date": "21 September 2026",
+  "image": "assets/img/asean-godok-peta-jalan-semikonduktor-dan-koridor-kalimantan.jpg",
+  "imageV": "muav8f7y",
+  "tags": [
+   "ASEAN",
+   "Semikonduktor",
+   "Perdagangan Internasional",
+   "Borneo Corridor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-apresiasi-kemajuan-capaian-prioritas-ekonomi-asean-di-bawah-keketuaan-filipina",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "telkom-angkut-5-1-ton-sampah-dari-kali-krukut",
+  "category": "BUMN",
+  "title": "Telkom [Angkut] 5,1 Ton Sampah dari Kali Krukut",
+  "deck": "TelkomGroup bersama Pemprov DKI Jakarta mengangkut 5,1 ton sampah dari Kali Krukut dalam aksi bersih memperingati Hari Sungai dan World Cleanup Day.",
+  "date": "21 September 2026",
+  "image": "assets/img/telkom-angkut-5-1-ton-sampah-dari-kali-krukut.jpg",
+  "imageV": "muav8g62",
+  "tags": [
+   "Telkom",
+   "Kali Krukut",
+   "World Cleanup Day",
+   "ESG"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468365-peringati-hari-sungai-dan-world-cleanup-day-telkomgroup-angkut-51-ton-sampah-dari-kali-krukut"
+ },
+ {
   "slug": "unsp-rinci-dasar-diskonto-revaluasi-kebun-ke-bursa",
   "category": "Aksi Korporasi",
   "title": "UNSP Rinci Dasar Diskonto Revaluasi [Kebun] ke Bursa",
@@ -6465,38 +6500,6 @@ var ARTICLES = [
    "volatilitas transaksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ca9588eee_4f6f230246.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptro-pertahankan-peringkat-ida-stable-dari-pefindo",
-  "category": "Aksi Korporasi",
-  "title": "PTRO Pertahankan Peringkat [idA+]/Stable dari PEFINDO",
-  "deck": "Petrosea mempertahankan peringkat korporasi idA+/Stable serta peringkat obligasi dan sukuk senilai total Rp2,92 triliun untuk periode September 2026 sampai 2027.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTRO",
-   "PEFINDO",
-   "peringkat obligasi",
-   "sukuk ijarah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4e44624a38_09c0e0e203.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smsm-tegaskan-dividen-tak-dibiayai-utang-ekspor-melemah",
-  "category": "Aksi Korporasi",
-  "title": "SMSM Tegaskan [Dividen] Tak Dibiayai Utang, Ekspor Melemah",
-  "deck": "Manajemen SMSM memastikan kenaikan dividen tidak dibiayai utang jangka pendek, kas masih di atas Rp1 triliun, meski penjualan ke Australia dan Eropa melemah pada semester I 2026.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMSM",
-   "paparan publik",
-   "dividen",
-   "ekspor otomotif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/225a7123c1_2fcaa66218.pdf",
   "sourceLabel": "IDX"
  }
 ];

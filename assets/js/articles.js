@@ -3,6 +3,135 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "amran-minta-25-merek-beras-fortifikasi-setop-produksi",
+  "category": "Industri",
+  "title": "Amran Minta 25 Merek Beras Fortifikasi [Setop] Produksi",
+  "deck": "Kementan menemukan 25 merek beras fortifikasi diduga melanggar standar kandungan vitamin, Bulog diminta tambah pasokan ke ritel.",
+  "image": "assets/img/amran-minta-25-merek-beras-fortifikasi-setop-produksi.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T18:30:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468447-amran-minta-25-merek-beras-fortifikasi-setop-produksi-izin-terancam-dicabut",
+  "tags": [],
+  "body": [
+   "Menteri Pertanian sekaligus Kepala Badan Pangan Nasional (Bapanas) Andi Amran Sulaiman meminta produsen beras fortifikasi menghentikan sementara produksinya. Permintaan ini menyusul temuan pemerintah bahwa 25 merek beras fortifikasi diduga melebih-lebihkan klaim kandungan vitamin pada kemasannya, sehingga dijual dengan harga lebih mahal dari seharusnya.",
+   "Amran menjelaskan penindakan terhadap produsen bermasalah akan berjalan lewat tiga tahap, yaitu pencabutan izin usaha, moratorium produksi, dan proses hukum. \"Dimoratoriumkan cabut izinnya dulu. Kalau moratorium gimana? Berhenti kan? Terus dicabut izinnya gimana? Ada tiga proses. Cabut izinnya, moratorium, diproses hukum,\" ujar Amran di kediamannya, Jakarta Selatan, Senin (21/9/2026).",
+   "Amran menegaskan penghentian produksi merek bermasalah tidak akan mengganggu ketersediaan beras secara nasional karena stok masih aman. Ia menyebut kekosongan produk fortifikasi tertentu di sejumlah ritel merupakan konsekuensi wajar dari proses penindakan yang sedang berjalan.",
+   "Sebagai Kepala Bapanas, Amran juga memerintahkan Perum Bulog memperbesar penyaluran beras ke ritel, dari rencana awal 110 ribu ton menjadi hingga 300 ribu ton bila diperlukan. \"Kami sudah perintahkan Bulog. Berasnya banyak, kurang lebih 5 juta ton. Kita sewa gudang, 2 juta ton. Udah, kita kirim. Beras aman,\" kata Amran."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/15/6aa8f850ccd84-penemuan-pemalsuan-beras-fortifikasi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perintah moratorium ini bukan sekadar teguran, tapi awal dari tiga tahap yang ujungnya bisa berupa pencabutan izin usaha, artinya produsen yang terbukti melanggar berisiko kehilangan hak jual secara permanen, bukan cuma berhenti sementara. Pihak yang langsung terdampak adalah 25 produsen merek beras fortifikasi yang disebut Amran, sementara konsumen yang selama ini membayar lebih mahal karena klaim kandungan vitamin berisiko sudah membeli produk dengan klaim yang dilebih-lebihkan. Langkah Bulog menaikkan rencana penyaluran dari 110 ribu ton menjadi sampai 300 ribu ton, hampir tiga kali lipat, menunjukkan pemerintah sebenarnya menyiapkan penyangga untuk kekosongan pasokan ritel akibat penghentian produksi itu, meski Amran menyebut stok nasional aman. Pola ini mengarah ke pengetatan pengawasan klaim gizi pada produk pangan komersial, bukan sekadar imbauan sesaat. Yang akan memastikan arah ini adalah apakah Kementan benar-benar mencabut izin merek yang terbukti melanggar dalam waktu dekat, atau moratorium ini berhenti di tahap peringatan saja.",
+  "imageV": "mub6o399"
+ },
+ {
+  "slug": "bpkh-tempatkan-70-dana-haji-rp184-t-di-sukuk-negara",
+  "category": "Perbankan",
+  "title": "BPKH Tempatkan 70% Dana Haji Rp184 T di [Sukuk] Negara",
+  "deck": "BPKH mengelola dana haji Rp184 triliun dengan mengutamakan keamanan dan likuiditas, menempatkan mayoritas portofolio di sukuk negara demi profil investasi yang konservatif.",
+  "image": "assets/img/bpkh-tempatkan-70-dana-haji-rp184-t-di-sukuk-negara.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T18:10:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468448-dana-haji-tembus-rp184-triliun-bpkh-prioritaskan-keamanan-dan-likuiditas",
+  "tags": [
+   "BPKH",
+   "dana haji",
+   "sukuk negara",
+   "SBSN"
+  ],
+  "body": [
+   "Badan Pengelola Keuangan Haji atau BPKH memastikan dana haji senilai Rp184 triliun dikelola dengan mengutamakan keamanan dan ketersediaan dana tunai, bukan mengejar keuntungan setinggi mungkin. Ini penting bagi jutaan calon jemaah karena dana itu berasal dari setoran mereka sendiri dan menjadi penopang biaya penyelenggaraan haji setiap tahun, sehingga keamanannya menyangkut kepastian keberangkatan mereka.",
+   "Kepala Badan Pelaksana BPKH, Fadlul Imansyah, merinci bahwa sekitar 70 persen dana ditempatkan di Surat Berharga Syariah Negara atau SBSN, yaitu surat utang pemerintah berbasis syariah yang dianggap berisiko rendah karena dijamin negara. Sebanyak 5 persen lagi disebar ke lembaga pembiayaan Islam di luar negeri, termasuk melalui BPKH Limited di Arab Saudi, sementara 25 persen sisanya disimpan sebagai deposito di sekitar 30 bank syariah di Indonesia agar dana bisa dicairkan sewaktu-waktu dibutuhkan.",
+   "Fadlul mengakui pendekatan konservatif ini membuat dana aman, tetapi belum tentu memberikan hasil pengembangan yang paling besar, karena BPKH memang tidak diberi mandat untuk berinvestasi secara agresif. Ia mencontohkan setoran awal pendaftaran haji reguler sebesar Rp25 juta sebagai bagian dari dana jemaah yang ikut dikelola dan dikembangkan dalam jangka panjang mengikuti aturan yang berlaku.",
+   "Fadlul juga menyinggung adanya pembagian tugas antara Kementerian Haji dan Umrah dengan BPKH, meski rincian pembagian tugas tersebut tidak dijelaskan lebih lanjut dalam keterangannya."
+  ],
+  "fotoAdegan": "Interior of an Islamic bank branch in Jakarta with customers queuing at teller counters, soft morning light streaming through windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/28/69a2fb811a244-ilustrasi-kantor-pusat-bpkh_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan BPKH kali ini bukan kebijakan baru, melainkan potret komposisi dana haji yang sudah berjalan: 70 persen di surat utang syariah pemerintah, 5 persen di lembaga pembiayaan Islam luar negeri, dan 25 persen disimpan sebagai dana siap cair di puluhan bank syariah dalam negeri. Yang terdampak langsung adalah calon jemaah haji, sebab setoran awal Rp25 juta yang mereka bayar saat mendaftar ikut masuk ke kolam dana ini, dan hasil pengembangannya memengaruhi besaran subsidi yang mereka terima saat berangkat nanti. Kepala BPKH sendiri mengakui pilihan konservatif ini membuat dana aman tapi belum tentu memberi hasil maksimal, artinya ada trade-off antara keamanan dana dan besar kecilnya manfaat yang bisa dinikmati jemaah. Dari keterangan ini belum bisa disimpulkan ke arah mana tren pengelolaannya bergerak, karena tidak ada angka pembanding seperti pertumbuhan dana dari tahun ke tahun atau besaran nilai manfaat yang dibagikan tahun ini. Angka pembanding itu biasanya baru muncul saat BPKH merilis laporan kinerja tahunan atau saat mengumumkan besaran nilai manfaat menjelang musim haji berikutnya.",
+  "imageV": "mub6o3oy"
+ },
+ {
+  "slug": "harga-pertamax-tidak-berubah-pertamina-bantah-hoaks",
+  "category": "Energi",
+  "title": "Harga Pertamax [Tidak] Berubah, Pertamina Bantah Hoaks",
+  "deck": "Pertamina Patra Niaga menegaskan harga BBM nonsubsidi termasuk Pertamax tidak berubah pada 21 September 2026, membantah kabar kenaikan harga yang beredar di media sosial.",
+  "image": "assets/img/harga-pertamax-tidak-berubah-pertamina-bantah-hoaks.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T18:00:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468440-harga-bbm-pertamina-21-september-2026-tak-berubah-isu-pertamax-naik-dipastikan-hoaks",
+  "tags": [
+   "harga BBM",
+   "Pertamax",
+   "Pertamina",
+   "hoaks"
+  ],
+  "body": [
+   "PT Pertamina Patra Niaga memastikan tidak ada perubahan harga BBM nonsubsidi, termasuk Pertamax, di seluruh SPBU Pertamina per Senin, 21 September 2026. Pernyataan ini sekaligus meluruskan kabar yang beredar di media sosial mengenai dugaan penyesuaian harga BBM nonsubsidi pada tanggal yang sama. Bagi masyarakat, klarifikasi ini penting karena isu kenaikan harga BBM biasanya cepat memicu kepanikan dan mendorong sebagian orang memburu bahan bakar lebih awal.",
+   "VP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, menyatakan harga BBM nonsubsidi yang berlaku saat ini masih mengikuti ketetapan sebelumnya, tanpa ada penyesuaian baru. Ia menegaskan bahwa informasi soal perubahan harga pada 21 September 2026 yang tersebar di media sosial tidak benar. Kitty juga mengimbau masyarakat untuk tidak buru-buru mempercayai atau menyebarkan kabar semacam itu sebelum memastikan kebenarannya lewat sumber resmi perusahaan.",
+   "Dengan konfirmasi ini, konsumen yang mengisi BBM nonsubsidi seperti Pertamax pada hari ini tetap membayar sesuai harga yang sudah berlaku, bukan mengikuti angka yang beredar di media sosial. Pertamina Patra Niaga menyebut setiap perubahan harga resmi akan selalu diumumkan lewat kanal komunikasi resminya, sehingga informasi dari sumber lain di luar itu perlu dicurigai. Masyarakat juga bisa mengecek langsung ke Pertamina Contact Center di nomor 135 jika ragu terhadap kabar seputar harga maupun layanan BBM."
+  ],
+  "fotoAdegan": "A fuel station attendant filling a car's tank at a pump nozzle, motorbikes waiting nearby, tropical afternoon light in Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/01/6a6dc0a1a749f-harga-pertamax-series_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah sebenarnya nol, dan itu justru inti kabar ini: Pertamina memastikan harga BBM nonsubsidi seperti Pertamax tetap sama pada 21 September 2026 dan membantah kabar kenaikan yang sempat beredar di media sosial. Yang terdampak adalah pengguna kendaraan yang mengisi BBM nonsubsidi, karena merekalah yang berpotensi salah mengambil keputusan kalau ikut memercayai kabar keliru itu. Pernyataan resmi ini tidak menyebutkan angka harga yang berlaku maupun asal-usul kabar kenaikan tersebut, jadi belum ada bukti untuk menilai apakah ini cuma kesalahpahaman sesaat atau ada motif tertentu di baliknya. Pegangan yang bisa dipakai pembaca adalah kanal resmi Pertamina dan Pertamina Contact Center di nomor 135, karena perusahaan menegaskan setiap perubahan harga sungguhan hanya akan diumumkan lewat jalur itu.",
+  "imageV": "mub6o47g"
+ },
+ {
+  "slug": "telkomgroup-gandeng-china-unicom-garap-5-sektor-digital",
+  "category": "Teknologi",
+  "title": "TelkomGroup Gandeng [China Unicom], Garap 5 Sektor Digital",
+  "deck": "TelkomGroup bersama Telkomsel, InfraNexia, dan Mitratel meneken nota kesepahaman dengan China Unicom Indonesia untuk menjajaki kerja sama di lima bidang digital, dari pusat data hingga IoT.",
+  "image": "assets/img/telkomgroup-gandeng-china-unicom-garap-5-sektor-digital.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T17:56:14+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468445-telkomgroup-dan-china-unicom-jalin-kemitraan-strategis-ada-5-sektor-digital-jadi-sasaran",
+  "tags": [
+   "Telkom",
+   "China Unicom",
+   "InfraNexia",
+   "infrastruktur digital"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk bersama tiga anak usahanya, yakni Telkomsel, PT Telkom Infrastruktur Indonesia (InfraNexia), dan PT Dayamitra Telekomunikasi Tbk (Mitratel), resmi meneken nota kesepahaman dengan PT China Unicom Indonesia Operations di Jakarta, Senin (21/9). Kesepakatan ini membuka jalan bagi kolaborasi di lima bidang digital, yaitu ekosistem pusat data, kecerdasan buatan, solusi 5G, konektivitas, dan Internet of Things. Langkah ini penting karena menggabungkan infrastruktur dan basis pelanggan Telkom di dalam negeri dengan pengalaman teknologi global milik mitranya asal Tiongkok.",
+   "Penandatanganan dilakukan oleh Direktur Network Telkom Nanang Hendarno bersama jajaran direksi Telkomsel, InfraNexia, dan Mitratel, serta Direktur China Unicom Wu Xu Hua. Prosesnya disaksikan Direktur Strategic Business Development & Portfolio Telkom Seno Soemadji. Skema kerja sama ini bersifat multilateral dan resiprokal, sehingga keempat entitas TelkomGroup dan China Unicom sama-sama membuka akses ke kapabilitas masing-masing sesuai kesepakatan yang akan dirinci lebih lanjut.",
+   "China Unicom membawa jaringan global yang menjangkau lebih dari 1,2 miliar pengguna, didukung hampir 5 juta menara pemancar sinyal 5G dan lebih dari 670.000 kilometer kabel bawah laut. Kolaborasi ini diarahkan untuk mengembangkan produk dan layanan bagi pelanggan korporat di Indonesia, sekaligus membuka peluang akses ke pasar global bagi TelkomGroup sesuai kapabilitas yang nanti disepakati.",
+   "Sejauh ini kesepakatan baru berbentuk nota kesepahaman, belum menyebut proyek spesifik atau nilai kerja sama di salah satu dari lima bidang yang disasar. Kedua pihak menyatakan akan terus menjajaki peluang lanjutan yang mendukung pertumbuhan bisnis dan daya saing industri bagi para pemangku kepentingan."
+  ],
+  "fotoAdegan": "Technician inspecting fiber optic cable trays inside a busy telecom data center in Jakarta, blue indicator lights glowing on racks",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/21/6ab10b42bb94b-telkomgroup-dan-china-unicom-jalin-kemitraan-strategis_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru sebatas kerangka kerja sama, bukan proyek yang sudah pasti jalan: nota kesepahaman ini membuka pintu diskusi di lima bidang, pusat data, kecerdasan buatan, 5G, konektivitas, dan IoT, tanpa menyebut nilai investasi atau proyek konkret yang akan digarap. Yang langsung terdampak adalah empat entitas TelkomGroup, yaitu Telkom, Telkomsel, InfraNexia, dan Mitratel, karena merekalah yang akan menegosiasikan detail teknis dengan China Unicom, sementara pelanggan korporat baru akan merasakan manfaatnya kalau kerja sama ini berlanjut ke tahap kontrak. Yang masih kurang untuk bisa membaca ke mana arah kemitraan ini adalah kesepakatan lanjutan yang lebih mengikat, misalnya proyek pusat data atau layanan 5G yang benar-benar berjalan beserta nilainya, sebab nota kesepahaman sendiri tidak mengikat dan bisa saja tidak berlanjut. Yang perlu dipantau adalah pengumuman berikutnya dari TelkomGroup atau China Unicom soal proyek konkret di salah satu dari lima bidang tersebut.",
+  "imageV": "mub6o5du"
+ },
+ {
+  "slug": "ojk-soroti-bank-buffer-tipis-ldr-perbankan-88-38",
+  "category": "Perbankan",
+  "title": "OJK Soroti Bank Buffer [Tipis], LDR Perbankan 88,38%",
+  "deck": "OJK mengawasi bank dengan cadangan likuiditas tipis, sementara rasio kredit terhadap simpanan perbankan naik ke 88,38 persen pada Juli 2026.",
+  "image": "assets/img/ojk-soroti-bank-buffer-tipis-ldr-perbankan-88-38.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T17:30:00+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468424-ojk-soroti-bank-dengan-buffer-likuiditas-tipis-rasio-ldr-capai-8838-persen",
+  "tags": [
+   "OJK",
+   "likuiditas perbankan",
+   "LDR",
+   "LCR"
+  ],
+  "body": [
+   "Otoritas Jasa Keuangan (OJK) memperketat pengawasan terhadap bank-bank yang memiliki cadangan dana siap pakai atau buffer likuiditas relatif tipis, serta bank dengan rasio likuiditas yang mulai mendekati batas aman. Langkah ini penting bagi nasabah karena likuiditas adalah kemampuan bank membayar kewajiban jangka pendek, termasuk penarikan dana oleh nasabah sewaktu-waktu, sehingga bank dengan bantalan tipis lebih rentan menghadapi tekanan mendadak.",
+   "Kepala Eksekutif Pengawas Perbankan OJK Dian Ediana Rae menyatakan pengawasan berbasis risiko ini dilakukan agar bank-bank yang disorot punya langkah mitigasi memadai untuk menjaga kecukupan dana dan mengantisipasi tekanan likuiditas. OJK juga terus berkoordinasi dengan Bank Indonesia, Kementerian Keuangan, dan Lembaga Penjamin Simpanan melalui Komite Stabilitas Sistem Keuangan, forum bersama yang memantau kesehatan sistem keuangan nasional.",
+   "Secara industri, rasio kredit terhadap simpanan nasabah atau loan to deposit ratio (LDR) tercatat 88,38 persen pada Juli 2026, naik dibanding bulan sebelumnya maupun tahun sebelumnya. Artinya, dari setiap Rp100 dana simpanan nasabah yang dihimpun bank, Rp88,38 sudah disalurkan menjadi kredit, menyisakan bantalan dana cair yang makin menipis. Dian menjelaskan kenaikan ini terjadi karena pertumbuhan kredit lebih cepat dibandingkan pertumbuhan dana pihak ketiga, yakni total simpanan nasabah di bank.",
+   "Meski begitu, OJK menyebut indikator lain masih menunjukkan kondisi aman. Liquidity coverage ratio atau rasio kecukupan aset likuid jangka pendek tercatat 187,50 persen, jauh di atas syarat minimum 100 persen, yang berarti bank secara rata-rata masih memegang aset yang bisa dicairkan cepat jauh melebihi kebutuhan dana keluar mendadak dalam sebulan ke depan."
+  ],
+  "fotoAdegan": "Bank teller counter with customers queuing for transactions inside a modern Indonesian bank branch, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a57676ecafcc-ilustrasi-ojk-blokir-akses-pelaku-judi-online-512-ribu-nasabah-diputus-hubungan-dengan-bank-28-juta-calon-nasabah-ditolak_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma angka LDR yang naik ke 88,38 persen, melainkan penyebabnya: kredit tumbuh lebih cepat dari simpanan nasabah, artinya bantalan dana cair di perbankan mengecil sedikit demi sedikit meski secara industri belum mengkhawatirkan. Yang terdampak langsung adalah bank-bank dengan buffer tipis yang kini disorot OJK, sementara nasabah dan dunia usaha terpapar tidak langsung lewat stabilitas sistem keuangan yang dijaga lewat KSSK. Arahnya mengarah ke pengawasan pencegahan dini pada bank tertentu, bukan tanda krisis likuiditas industri, sebab LCR industri masih 187,50 persen atau jauh di atas syarat minimum 100 persen. Yang akan memastikan apakah tren ini berlanjut atau mereda adalah data LDR dan LCR industri periode Agustus 2026 berikutnya, terutama apakah kredit terus tumbuh lebih cepat dari simpanan nasabah.",
+  "imageV": "mub6o5ta"
+ },
+ {
   "slug": "pssi-bagi-saham-bonus-173-4-juta-lembar-dari-treasuri-rasio-30-1",
   "category": "Aksi Korporasi",
   "title": "PSSI Bagi [Saham Bonus] 173,4 Juta Lembar dari Treasuri, Rasio 30:1",
@@ -27,6 +156,33 @@ var ARTICLES = [
   "fotoAdegan": "Container ship being loaded at a busy Indonesian port terminal, gantry cranes working under bright daylight, tugboats idling nearby",
   "takeaway": "Rencana ini condong netral bagi pemegang saham, karena saham bonus dibagikan proporsional kepada seluruh pemegang saham sesuai kepemilikannya, sehingga persentase kepemilikan masing-masing tidak berubah, berbeda dari opsi menjual saham treasuri ke pasar terbuka yang akan menambah porsi kepemilikan pihak luar. Yang tersentuh adalah jumlah saham beredar, yang akan bertambah sekitar 3,3 persen mengikuti rasio 30:1, sehingga laba per saham dan nilai buku per saham otomatis terbagi ke basis saham yang lebih banyak meski nilai ekuitas perusahaan secara keseluruhan tidak berkurang. Langkah ini juga sekadar memenuhi kewajiban regulasi OJK agar 324,4 juta saham hasil buyback 2021-2025 tidak terus mengendap di kas perusahaan. Yang perlu dipantau berikutnya adalah persetujuan RUPSLB pada 28 Oktober 2026, penetapan pemegang saham berhak pada recording date 9 November 2026, dan realisasi pembagian saham bonus yang dijadwalkan 27 November 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "ihsg-terjun-56-poin-ke-6-384-72-jelang-keputusan-bi",
+  "category": "Pasar Modal",
+  "title": "IHSG [Terjun] 56 Poin ke 6.384,72 Jelang Keputusan BI",
+  "deck": "IHSG ditutup melemah 0,88 persen ke 6.384,72 saat investor menanti keputusan suku bunga RDG BI pekan ini, di tengah tekanan yield AS dan dolar.",
+  "image": "assets/img/ihsg-terjun-56-poin-ke-6-384-72-jelang-keputusan-bi.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T17:00:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468421-ihsg-terjun-56-poin-ke-638472-investor-bersiap-hadapi-keputusan-suku-bunga-bi",
+  "tags": [
+   "ihsg",
+   "bank indonesia",
+   "suku bunga",
+   "bursa efek indonesia"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) ditutup melemah 0,88 persen ke level 6.384,72 pada perdagangan Senin, 21 September 2026, setelah bergerak di zona merah sepanjang hari. Pelemahan ini terjadi menjelang Rapat Dewan Gubernur (RDG) Bank Indonesia pekan ini, forum yang menentukan suku bunga acuan, sehingga banyak investor memilih menahan diri sambil menunggu arah kebijakan moneter.",
+   "IHSG turun 56,43 poin dari penutupan sebelumnya. Pada sesi pertama, indeks sempat melemah 0,27 persen ke 6.423,51, lalu terus tertekan hingga menyentuh titik terendah intraday di 6.388,25 sebelum akhirnya ditutup di 6.384,72.",
+   "Aktivitas perdagangan tetap ramai di tengah pelemahan ini. Volume transaksi tercatat 26,78 miliar saham dengan nilai total sekitar Rp11,77 triliun. Dari seluruh saham yang diperdagangkan, 354 saham ditutup melemah, 280 saham menguat, dan 156 saham lainnya stagnan.",
+   "Selain sentimen suku bunga domestik, tekanan juga datang dari pasar global. Imbal hasil obligasi pemerintah Amerika Serikat bertenor 10 tahun kembali berada di sekitar 5 persen, sementara dolar AS menguat dan menekan nilai tukar rupiah. Harga minyak dunia yang masih tinggi turut menjadi perhatian karena berpotensi memengaruhi ekspektasi inflasi dan arah kebijakan moneter di berbagai negara."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's financial district at dusk, busy street traffic below, warm sunset light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/05/04/69f7cce47a526-pekerja-berjalan-di-samping-layar-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini konkret, IHSG turun 0,88 persen ke 6.384,72, dengan 354 saham melemah berbanding 280 saham menguat dan nilai transaksi Rp11,77 triliun. Yang terdampak langsung adalah investor di pasar saham domestik, yang tampak menahan diri sambil menunggu keputusan suku bunga acuan dari rapat dewan gubernur Bank Indonesia pekan ini. Ada dua kekuatan yang saling tarik menjelang keputusan itu, imbal hasil obligasi pemerintah Amerika Serikat bertenor 10 tahun yang naik ke sekitar 5 persen dan dolar AS yang menguat biasanya membuat bank sentral negara berkembang, termasuk Indonesia, condong menahan atau bahkan menaikkan suku bunga supaya rupiah tidak makin melemah, sementara kebutuhan mendorong pertumbuhan ekonomi domestik bisa jadi alasan untuk tetap melonggarkan bunga. Yang akan memperjelas ke arah mana BI bergerak adalah hasil rapat dewan gubernur itu sendiri pekan ini, ditambah pergerakan rupiah dan yield obligasi AS dalam beberapa hari mendatang.",
+  "imageV": "mub6o73u"
  },
  {
   "slug": "aims-ungkap-ekuitas-anjlok-usai-pendapatan-cuma-rp93-juta",
@@ -82,6 +238,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pegadaian-dan-blu-buka-investasi-emas-modal-rp10-000",
+  "category": "Perbankan",
+  "title": "Pegadaian dan blu Buka Investasi Emas Modal [Rp10.000]",
+  "deck": "BCA Digital dan Pegadaian meluncurkan bluInvest Emas di aplikasi blu, memungkinkan nasabah membeli dan memantau emas digital mulai dari Rp10.000 dalam satu aplikasi.",
+  "image": "assets/img/pegadaian-dan-blu-buka-investasi-emas-modal-rp10-000.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:53:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468427-pegadaian-gandeng-blu-lewat-bluinvest-emas-dengan-modal-rp10-ribu-investasi-emas-makin-mudah",
+  "tags": [
+   "Pegadaian",
+   "blu BCA Digital",
+   "Tabungan Emas",
+   "investasi emas"
+  ],
+  "body": [
+   "PT Bank Digital BCA (BCA Digital) meluncurkan fitur investasi emas digital bernama bluInvest Emas di dalam aplikasi blu, hasil kerja sama dengan PT Pegadaian (Persero). Lewat fitur ini, nasabah bisa mulai menabung emas dengan modal awal Rp10.000, jauh lebih kecil dibanding kebiasaan membeli emas fisik yang biasanya butuh dana lebih besar. Langkah ini menyasar generasi muda yang makin terbiasa mengelola keuangan lewat aplikasi digital.",
+   "Seluruh proses investasi, mulai dari pendaftaran Tabungan Emas, transaksi jual beli, hingga pemantauan nilai portofolio secara real time, kini bisa dilakukan langsung dari aplikasi blu tanpa perlu berpindah ke aplikasi lain. Head of Retail & Digital Business BCA Digital, Edwin Tirta, menyebut kemudahan ini sebagai bagian dari upaya blu menjadi mitra keuangan yang lebih dekat dengan gaya hidup masyarakat modern.",
+   "Direktur TI dan Digital Pegadaian, Yos Iman Jaya Dappu, mengingatkan masyarakat agar tidak ikut-ikutan membeli emas hanya karena harganya sedang naik. Menurutnya, momentum yang lebih baik justru saat harga emas turun, sementara dana yang dipakai sebaiknya berasal dari uang dingin, bukan dana darurat. Ia menambahkan bahwa dalam tren sepuluh tahun terakhir harga emas cenderung terus naik meski fluktuasi harian tetap terjadi.",
+   "Kerja sama ini menambah jumlah kanal digital untuk mengakses Tabungan Emas Pegadaian, setelah sebelumnya sudah tersedia lewat aplikasi Tring milik Pegadaian sendiri. Dengan makin banyak platform yang menawarkan investasi emas bermodal kecil, akses masyarakat untuk mulai berinvestasi emas digital pun makin terbuka."
+  ],
+  "fotoAdegan": "Macro shot of small gold bars and coins on a wooden counter beside a blurred out-of-focus smartphone, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/21/6ab0fd16a45a2-pegadaian-gandeng-blu-lewat-bluinvest-emas-dengan-modal-rp10-ribu_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah bertambahnya saluran untuk menabung emas di Pegadaian, setelah sebelumnya tersedia lewat aplikasi Tring milik Pegadaian sendiri, kini juga bisa diakses dari aplikasi blu milik BCA Digital dengan setoran awal mulai Rp10.000. Yang terdampak adalah nasabah blu, terutama kalangan muda yang belum punya rekening Tabungan Emas terpisah, karena pendaftaran, transaksi jual beli, sampai pemantauan saldo emas kini bisa dilakukan tanpa pindah aplikasi. Yang belum terlihat dari kerja sama ini adalah skala dampaknya, sebab berita ini tidak menyebut berapa nasabah Tabungan Emas Pegadaian saat ini atau target penambahan nasabah dari blu. Yang perlu ditunggu adalah apakah Pegadaian atau BCA Digital merilis angka pertumbuhan jumlah nasabah atau volume transaksi Tabungan Emas pada laporan kinerja berikutnya, karena itu yang akan menunjukkan apakah strategi menambah kanal digital ini benar-benar memperluas basis nasabah baru atau sekadar memindahkan nasabah lama ke aplikasi lain.",
+  "imageV": "mub6o7in"
+ },
+ {
   "slug": "mdla-direksi-beli-100-000-saham-senilai-rp20-4-juta",
   "category": "Aksi Korporasi",
   "title": "MDLA: Direksi [Beli] 100.000 Saham Senilai Rp20,4 Juta",
@@ -129,6 +312,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "esdm-targetkan-setop-impor-bensin-lewat-e50",
+  "category": "Energi",
+  "title": "ESDM Targetkan Setop Impor Bensin Lewat [E50]",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut RI berpeluang tak lagi impor bensin jadi jika program E50 berhasil diterapkan, menyusul suksesnya biodiesel B50.",
+  "image": "assets/img/esdm-targetkan-setop-impor-bensin-lewat-e50.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:44:06+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468420-dorong-penerapan-e50-menteri-esdm-bahlil-sebut-ri-berpeluang-tak-lagi-impor-bensin-jadi",
+  "tags": [
+   "E50",
+   "bioetanol",
+   "impor BBM",
+   "ESDM"
+  ],
+  "body": [
+   "Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia menyatakan Indonesia berpeluang menghentikan impor bensin siap pakai apabila program pencampuran bahan bakar bensin dengan etanol sebesar 50 persen, yang disebut E50, berhasil diterapkan. Pernyataan itu disampaikan Bahlil di sela acara donor darah Direktorat Jenderal Mineral dan Batubara di Jakarta, Senin (21/9). Bagi masyarakat, ini berarti sebagian bensin yang selama ini didatangkan jadi dari luar negeri berpotensi digantikan produksi dalam negeri.",
+   "Keyakinan tersebut berkaca dari program serupa untuk solar, yaitu B50, yang mencampur 50 persen bahan bakar nabati berbasis sawit dengan 50 persen solar murni dan sudah berjalan sukses. Menurut Bahlil, pencapaian itu membuat Indonesia berada di posisi terdepan secara global untuk urusan bahan bakar campuran nabati. Keberhasilan itu yang kemudian mendorong pemerintah merambah sektor bensin lewat E50, sekaligus sebagai langkah berjaga di tengah gejolak geopolitik dunia yang bisa mengganggu pasokan energi dari luar negeri.",
+   "Pemerintah tengah menyusun peta jalan bertahap untuk mewujudkan target itu, dimulai dari penerapan E10 pada 2027 dan naik ke E20 pada 2028. Bahlil mencontohkan Brasil yang sudah berhasil menerapkan campuran etanol hingga E100. Di dalam negeri, pemerintah sudah memetakan sejumlah komoditas pertanian yang berpotensi diolah menjadi etanol, yakni tebu, ubi kayu atau singkong, dan jagung.",
+   "Bahlil menegaskan pasokan etanol untuk program ini wajib berasal dari bahan baku dalam negeri, bukan impor. Menurutnya, jika etanolnya tetap didatangkan dari luar negeri, tujuan program ini untuk memperkuat kemandirian energi nasional tidak akan tercapai."
+  ],
+  "fotoAdegan": "Rows of sugarcane and cassava fields under open sky, farm workers harvesting near a rural processing shed, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/21/6ab0fbc7c8a6c-menteri-energi-dan-sumber-daya-mineral-esdm-bahlil-lahadalia-tengah-ketika-ditemui-di-sela-sela-acara-donor-darah-ditjen-minerba-yang-digelar-di-jakarta-senin-219_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: pemerintah menyusun peta jalan campuran bensin dengan etanol, dimulai 10 persen etanol pada 2027, naik ke 20 persen pada 2028, dengan target akhir 50 persen. Polanya meniru program biodiesel yang lebih dulu jalan, yaitu mencampur solar dengan bahan bakar nabati dari sawit, yang butuh waktu bertahun-tahun untuk naik bertahap sampai akhirnya mencapai campuran 50 persen. Pihak yang berpotensi kena dampak cukup luas, mulai dari pengendara mobil dan motor berbensin, petani tebu, singkong, dan jagung yang bahan bakunya dibidik jadi sumber etanol, sampai neraca perdagangan karena selama ini bensin jadi didatangkan dari luar negeri. Arahnya terlihat bertahap, bukan lompatan langsung ke 50 persen, sama seperti pola kenaikan bertahap pada program biodiesel sebelumnya, dan yang akan menentukan apakah target 2027 itu realistis adalah kemampuan kebun tebu, singkong, dan jagung dalam negeri memasok etanol dalam jumlah besar, mengingat Bahlil sendiri menegaskan tidak mau bergantung pada etanol impor.",
+  "imageV": "mub6o8r2"
+ },
+ {
   "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-15-58",
   "category": "Aksi Korporasi",
   "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 15,58%",
@@ -153,6 +363,33 @@ var ARTICLES = [
   "fotoAdegan": "Workers loading harvested oil palm fruit bunches onto a truck at a rural plantation collection point, morning haze",
   "takeaway": "Laporan ini saya nilai netral bagi fundamental NSSS, karena tambahan saham berasal dari penempatan repo, bukan pembelian dengan dana segar di pasar terbuka, sehingga sulit dibaca sebagai sinyal keyakinan baru direksi terhadap prospek perusahaan, meski nilainya cukup besar yaitu sekitar 10,86 persen dari kepemilikan sebelumnya. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, bukan kas atau ekuitas NSSS, karena repo pada dasarnya adalah saham yang dijadikan jaminan pinjaman dengan janji dibeli kembali, sehingga jumlah saham beredar perusahaan secara keseluruhan tidak berubah, hanya berpindah tangan sementara. Yang perlu dipantau berikutnya adalah apakah pola bolak balik penempatan dan pencairan repo oleh direksi yang sama ini masih berlanjut di laporan-laporan selanjutnya, karena frekuensinya yang tinggi dalam sepekan terakhir mengindikasikan ada kebutuhan pendanaan aktif di balik transaksi ini yang belum dijelaskan dalam laporan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "ojk-batasi-kepemilikan-saham-bursa-efek-maksimal-5",
+  "category": "Pasar Modal",
+  "title": "OJK [Batasi] Kepemilikan Saham Bursa Efek Maksimal 5%",
+  "deck": "POJK Nomor 13/2026 membuka jalan demutualisasi Bursa Efek Indonesia, dengan batas kepemilikan saham maksimal 5 persen per pihak.",
+  "image": "assets/img/ojk-batasi-kepemilikan-saham-bursa-efek-maksimal-5.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:38:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468418-ojk-terbitkan-aturan-baru-pemegang-saham-bursa-efek-kepemilikan-dibatasi-maksimal-5-persen",
+  "tags": [
+   "OJK",
+   "POJK 13/2026",
+   "demutualisasi",
+   "bursa efek"
+  ],
+  "body": [
+   "Otoritas Jasa Keuangan menerbitkan Peraturan OJK Nomor 13 Tahun 2026 tentang Pemegang Saham Bursa Efek, yang membatasi kepemilikan saham bursa maksimal 5 persen per pihak. Aturan ini menjadi dasar hukum bagi Bursa Efek Indonesia untuk menjalankan demutualisasi, yaitu mengubah status bursa dari milik tertutup kalangan anggotanya sendiri menjadi entitas dengan pemegang saham yang lebih beragam. Perubahan ini penting karena menentukan siapa saja yang ke depan boleh memiliki saham lembaga yang mengelola perdagangan efek di Indonesia.",
+   "Selama ini saham BEI hanya boleh dipegang oleh anggota bursa, yakni perusahaan sekuritas yang berstatus pialang. Lewat aturan baru, kepemilikan bisa diperluas ke perorangan dan badan hukum Indonesia lain, baik yang berstatus anggota bursa maupun bukan, sepanjang tidak melebihi batas 5 persen per pihak. Ketentuan ini merupakan tindak lanjut dari mandat Pasal 8 angka 63 angka 3a Undang-Undang Nomor 4 Tahun 2026 tentang Perubahan atas Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan, yang memberi wewenang kepada OJK untuk mengatur lebih lanjut struktur pemegang saham bursa efek.",
+   "Kepala Eksekutif Pengawas Pasar Modal, Keuangan Derivatif, dan Bursa Karbon OJK Hasan Fawzi menyebut demutualisasi sebagai bagian penting dari transformasi bursa efek, yang menyasar bukan cuma struktur kepemilikan tapi juga tata kelola yang lebih transparan, efisien, dan inovatif. \"Struktur demutualisasi bursa efek yang memungkinkan kepemilikan secara luas oleh anggota bursa, investor strategis, dan publik akan mendorong peningkatan kualitas tata kelola, membuka akses permodalan yang lebih luas, dan percepatan pengembangan bagi bursa efek,\" kata Hasan di Jakarta, Senin (21/9/2026).",
+   "OJK menyebut penerbitan POJK ini sebagai bagian dari percepatan reformasi integritas pasar modal Indonesia secara lebih luas, dengan sejumlah ketentuan lanjutan mengenai struktur kepemilikan dan tata kelola bursa efek."
+  ],
+  "fotoAdegan": "Financial district skyscrapers in Jakarta at dusk, illuminated office windows, taxis and pedestrians moving on the street below.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2023/01/06/63b82061c00b2-gedung-ojk_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret dari aturan ini adalah pembukaan kepemilikan saham Bursa Efek Indonesia, yang sebelumnya tertutup hanya untuk perusahaan sekuritas anggota bursa, menjadi terbuka bagi perorangan dan badan hukum Indonesia lain, dengan batas maksimal 5 persen kepemilikan per pihak. Pihak yang paling terdampak adalah perusahaan sekuritas yang selama ini otomatis menjadi pemegang saham BEI karena status keanggotaannya, sebab begitu pintu kepemilikan dibuka untuk pihak luar, porsi mereka berpotensi terdilusi meski batas 5 persen mencegah satu pemodal baru langsung mendominasi. Arah besarnya menuju demutualisasi penuh, yaitu memisahkan status keanggotaan bursa dari kepemilikan sahamnya, sehingga BEI berpotensi memiliki pemegang saham strategis atau publik di luar kalangan broker. Yang belum terjawab dari POJK ini adalah jadwal pelaksanaannya, sebab OJK baru menyediakan payung hukum dan belum mengumumkan kapan proses pelepasan saham BEI ke pemegang saham baru akan dimulai. Yang perlu dipantau selanjutnya adalah aturan turunan atau rencana teknis dari BEI sendiri soal tahapan demutualisasi tersebut.",
+  "imageV": "mub6o95a"
  },
  {
   "slug": "pssi-jadwalkan-rupslb-pada-28-oktober-2026",

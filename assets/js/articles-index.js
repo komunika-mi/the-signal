@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "amran-minta-25-merek-beras-fortifikasi-setop-produksi",
+  "category": "Industri",
+  "title": "Amran Minta 25 Merek Beras Fortifikasi [Setop] Produksi",
+  "deck": "Kementan menemukan 25 merek beras fortifikasi diduga melanggar standar kandungan vitamin, Bulog diminta tambah pasokan ke ritel.",
+  "date": "21 September 2026",
+  "image": "assets/img/amran-minta-25-merek-beras-fortifikasi-setop-produksi.jpg",
+  "imageV": "mub6o399",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468447-amran-minta-25-merek-beras-fortifikasi-setop-produksi-izin-terancam-dicabut"
+ },
+ {
+  "slug": "bpkh-tempatkan-70-dana-haji-rp184-t-di-sukuk-negara",
+  "category": "Perbankan",
+  "title": "BPKH Tempatkan 70% Dana Haji Rp184 T di [Sukuk] Negara",
+  "deck": "BPKH mengelola dana haji Rp184 triliun dengan mengutamakan keamanan dan likuiditas, menempatkan mayoritas portofolio di sukuk negara demi profil investasi yang konservatif.",
+  "date": "21 September 2026",
+  "image": "assets/img/bpkh-tempatkan-70-dana-haji-rp184-t-di-sukuk-negara.jpg",
+  "imageV": "mub6o3oy",
+  "tags": [
+   "BPKH",
+   "dana haji",
+   "sukuk negara",
+   "SBSN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468448-dana-haji-tembus-rp184-triliun-bpkh-prioritaskan-keamanan-dan-likuiditas"
+ },
+ {
+  "slug": "harga-pertamax-tidak-berubah-pertamina-bantah-hoaks",
+  "category": "Energi",
+  "title": "Harga Pertamax [Tidak] Berubah, Pertamina Bantah Hoaks",
+  "deck": "Pertamina Patra Niaga menegaskan harga BBM nonsubsidi termasuk Pertamax tidak berubah pada 21 September 2026, membantah kabar kenaikan harga yang beredar di media sosial.",
+  "date": "21 September 2026",
+  "image": "assets/img/harga-pertamax-tidak-berubah-pertamina-bantah-hoaks.jpg",
+  "imageV": "mub6o47g",
+  "tags": [
+   "harga BBM",
+   "Pertamax",
+   "Pertamina",
+   "hoaks"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468440-harga-bbm-pertamina-21-september-2026-tak-berubah-isu-pertamax-naik-dipastikan-hoaks"
+ },
+ {
+  "slug": "telkomgroup-gandeng-china-unicom-garap-5-sektor-digital",
+  "category": "Teknologi",
+  "title": "TelkomGroup Gandeng [China Unicom], Garap 5 Sektor Digital",
+  "deck": "TelkomGroup bersama Telkomsel, InfraNexia, dan Mitratel meneken nota kesepahaman dengan China Unicom Indonesia untuk menjajaki kerja sama di lima bidang digital, dari pusat data hingga IoT.",
+  "date": "21 September 2026",
+  "image": "assets/img/telkomgroup-gandeng-china-unicom-garap-5-sektor-digital.jpg",
+  "imageV": "mub6o5du",
+  "tags": [
+   "Telkom",
+   "China Unicom",
+   "InfraNexia",
+   "infrastruktur digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468445-telkomgroup-dan-china-unicom-jalin-kemitraan-strategis-ada-5-sektor-digital-jadi-sasaran"
+ },
+ {
+  "slug": "ojk-soroti-bank-buffer-tipis-ldr-perbankan-88-38",
+  "category": "Perbankan",
+  "title": "OJK Soroti Bank Buffer [Tipis], LDR Perbankan 88,38%",
+  "deck": "OJK mengawasi bank dengan cadangan likuiditas tipis, sementara rasio kredit terhadap simpanan perbankan naik ke 88,38 persen pada Juli 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/ojk-soroti-bank-buffer-tipis-ldr-perbankan-88-38.jpg",
+  "imageV": "mub6o5ta",
+  "tags": [
+   "OJK",
+   "likuiditas perbankan",
+   "LDR",
+   "LCR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468424-ojk-soroti-bank-dengan-buffer-likuiditas-tipis-rasio-ldr-capai-8838-persen"
+ },
+ {
   "slug": "pssi-bagi-saham-bonus-173-4-juta-lembar-dari-treasuri-rasio-30-1",
   "category": "Aksi Korporasi",
   "title": "PSSI Bagi [Saham Bonus] 173,4 Juta Lembar dari Treasuri, Rasio 30:1",
@@ -19,6 +99,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fae8c5faca_11772ea6b1.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ihsg-terjun-56-poin-ke-6-384-72-jelang-keputusan-bi",
+  "category": "Pasar Modal",
+  "title": "IHSG [Terjun] 56 Poin ke 6.384,72 Jelang Keputusan BI",
+  "deck": "IHSG ditutup melemah 0,88 persen ke 6.384,72 saat investor menanti keputusan suku bunga RDG BI pekan ini, di tengah tekanan yield AS dan dolar.",
+  "date": "21 September 2026",
+  "image": "assets/img/ihsg-terjun-56-poin-ke-6-384-72-jelang-keputusan-bi.jpg",
+  "imageV": "mub6o73u",
+  "tags": [
+   "ihsg",
+   "bank indonesia",
+   "suku bunga",
+   "bursa efek indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468421-ihsg-terjun-56-poin-ke-638472-investor-bersiap-hadapi-keputusan-suku-bunga-bi"
  },
  {
   "slug": "aims-ungkap-ekuitas-anjlok-usai-pendapatan-cuma-rp93-juta",
@@ -53,6 +150,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pegadaian-dan-blu-buka-investasi-emas-modal-rp10-000",
+  "category": "Perbankan",
+  "title": "Pegadaian dan blu Buka Investasi Emas Modal [Rp10.000]",
+  "deck": "BCA Digital dan Pegadaian meluncurkan bluInvest Emas di aplikasi blu, memungkinkan nasabah membeli dan memantau emas digital mulai dari Rp10.000 dalam satu aplikasi.",
+  "date": "21 September 2026",
+  "image": "assets/img/pegadaian-dan-blu-buka-investasi-emas-modal-rp10-000.jpg",
+  "imageV": "mub6o7in",
+  "tags": [
+   "Pegadaian",
+   "blu BCA Digital",
+   "Tabungan Emas",
+   "investasi emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468427-pegadaian-gandeng-blu-lewat-bluinvest-emas-dengan-modal-rp10-ribu-investasi-emas-makin-mudah"
+ },
+ {
   "slug": "mdla-direksi-beli-100-000-saham-senilai-rp20-4-juta",
   "category": "Aksi Korporasi",
   "title": "MDLA: Direksi [Beli] 100.000 Saham Senilai Rp20,4 Juta",
@@ -82,6 +196,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "esdm-targetkan-setop-impor-bensin-lewat-e50",
+  "category": "Energi",
+  "title": "ESDM Targetkan Setop Impor Bensin Lewat [E50]",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut RI berpeluang tak lagi impor bensin jadi jika program E50 berhasil diterapkan, menyusul suksesnya biodiesel B50.",
+  "date": "21 September 2026",
+  "image": "assets/img/esdm-targetkan-setop-impor-bensin-lewat-e50.jpg",
+  "imageV": "mub6o8r2",
+  "tags": [
+   "E50",
+   "bioetanol",
+   "impor BBM",
+   "ESDM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468420-dorong-penerapan-e50-menteri-esdm-bahlil-sebut-ri-berpeluang-tak-lagi-impor-bensin-jadi"
+ },
+ {
   "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-15-58",
   "category": "Aksi Korporasi",
   "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 15,58%",
@@ -96,6 +227,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7501-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ojk-batasi-kepemilikan-saham-bursa-efek-maksimal-5",
+  "category": "Pasar Modal",
+  "title": "OJK [Batasi] Kepemilikan Saham Bursa Efek Maksimal 5%",
+  "deck": "POJK Nomor 13/2026 membuka jalan demutualisasi Bursa Efek Indonesia, dengan batas kepemilikan saham maksimal 5 persen per pihak.",
+  "date": "21 September 2026",
+  "image": "assets/img/ojk-batasi-kepemilikan-saham-bursa-efek-maksimal-5.jpg",
+  "imageV": "mub6o95a",
+  "tags": [
+   "OJK",
+   "POJK 13/2026",
+   "demutualisasi",
+   "bursa efek"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468418-ojk-terbitkan-aturan-baru-pemegang-saham-bursa-efek-kepemilikan-dibatasi-maksimal-5-persen"
  },
  {
   "slug": "pssi-jadwalkan-rupslb-pada-28-oktober-2026",
@@ -6355,151 +6503,6 @@ var ARTICLES = [
    "kinerja perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e45bf0b681_5f51678b83.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "safe-masuk-daftar-pemantauan-khusus-bei-mulai-15-september",
-  "category": "Aksi Korporasi",
-  "title": "SAFE [Masuk] Daftar Pemantauan Khusus BEI Mulai 15 September",
-  "deck": "BEI memasukkan saham Steady Safe Tbk (SAFE) ke daftar Efek Dalam Pemantauan Khusus mulai 15 September 2026, menyusul penghentian sementara perdagangan lebih dari satu hari bursa.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAFE",
-   "BEI",
-   "pemantauan khusus",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/31c0cef6cc_82fde4728f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-beli-saham-rp1-6-miliar-dalam-sepekan",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi [Beli] Saham Rp1,6 Miliar dalam Sepekan",
-  "deck": "Direksi ITSEC Asia, Patrick Rudolf Dannacher, membeli 3,08 juta saham CYBR senilai sekitar Rp1,6 miliar lewat 17 transaksi pada 8-11 September 2026.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham direksi",
-   "insider buying"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-1642-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-doni-mora-jual-saham-rp27-5-juta",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi Doni Mora [Jual] Saham Rp27,5 Juta",
-  "deck": "Direksi ITSEC Asia Doni Mora melepas 51.900 saham CYBR seharga Rp530 per lembar, sekitar Rp27,5 juta, hak suaranya turun dari 0,035% jadi 0,034%.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "transaksi direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-3661-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-berbalik-usai-suahasil-nazara-jadi-menkeu-baru",
-  "category": "Pasar Modal",
-  "title": "IHSG [Berbalik] Usai Suahasil Nazara Jadi Menkeu Baru",
-  "deck": "IHSG sempat anjlok 2,5 persen sebelum ditutup melemah tipis 0,10 persen ke 6.534,69, bertepatan dengan pelantikan Suahasil Nazara sebagai Menteri Keuangan.",
-  "date": "14 September 2026",
-  "image": "assets/img/ihsg-berbalik-usai-suahasil-nazara-jadi-menkeu-baru.jpg",
-  "imageV": "mu16dmro",
-  "tags": [
-   "IHSG",
-   "Suahasil Nazara",
-   "Menteri Keuangan",
-   "Bursa Efek Indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467056-sempat-anjlok-25-ihsg-berbalik-arah-usai-suahasil-nazara-dilantik-jadi-menkeu"
- },
- {
-  "slug": "hexa-laba-bersih-turun-48-5-di-tahun-buku-2025",
-  "category": "Aksi Korporasi",
-  "title": "HEXA: Laba Bersih [Turun] 48,5% di Tahun Buku 2025",
-  "deck": "Materi Public Expose Tahunan Hexindo Adiperkasa menunjukkan laba bersih FY2025 turun 48,5 persen dan meleset dari target, jelang paparan publik 17 September 2026.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEXA",
-   "Hexindo Adiperkasa",
-   "alat berat",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b34f12525_1a19bf7de8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cmry-tambah-penyertaan-modal-rp125-miliar-ke-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "CMRY Tambah Penyertaan Modal [Rp125 Miliar] ke Anak Usaha",
-  "deck": "Cimory menyuntik modal Rp125 miliar secara bertahap ke anak usaha Macrosentra Niagaboga untuk perluasan pusat distribusi dan modal kerja.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CMRY",
-   "Cimory",
-   "Transaksi Afiliasi",
-   "Macrosentra Niagaboga"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93c8329398_37a4864ade.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cmry-suntik-modal-rp200-miliar-ke-macroprima-panganutama",
-  "category": "Aksi Korporasi",
-  "title": "CMRY [Suntik] Modal Rp200 Miliar ke Macroprima Panganutama",
-  "deck": "Cisarua Mountain Dairy menambah penyertaan modal Rp200 miliar secara bertahap ke anak usaha PT Macroprima Panganutama untuk memperluas kapasitas produksi dan modal kerja.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CMRY",
-   "Transaksi Afiliasi",
-   "Cimory",
-   "Macroprima Panganutama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/584ccc07ae_8cc0e51d01.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-nyatakan-force-majeure-rkab-anak-usaha-belum-terbit",
-  "category": "Aksi Korporasi",
-  "title": "BYAN Nyatakan [Force Majeure], RKAB Anak Usaha Belum Terbit",
-  "deck": "Bayan Resources dan tiga anak usahanya menyatakan force majeure atas kewajiban pasokan batu bara karena revisi RKAB 2026 belum disetujui pemerintah.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "Bayan Resources",
-   "force majeure",
-   "RKAB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a347393c9_05f5002a56.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-kota-bahas-rights-issue-dan-akuisisi-dua-perusahaan",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB KOTA Bahas [Rights Issue] dan Akuisisi Dua Perusahaan",
-  "deck": "PT DMS Propertindo Tbk (KOTA) memanggil RUPSLB pada 6 Oktober 2026 untuk membahas rights issue, akuisisi dua perusahaan, dan realokasi dana IPO.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOTA",
-   "RUPSLB",
-   "rights issue",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b2dedab3f_19829e9d0a.pdf",
   "sourceLabel": "IDX"
  }
 ];

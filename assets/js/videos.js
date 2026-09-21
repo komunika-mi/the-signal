@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "uL-CzQJ1Amw",
+  "title": "Dua Kandidat Bersaing di Musprov Kadin Gorontalo",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Musyawarah Provinsi Kadin Gorontalo mempertemukan dua kandidat yang bersaing memperebutkan kursi ketua, masing-masing membawa visi pengembangan dunia usaha daerah.",
+  "takeaway": "Pergantian kepemimpinan Kadin daerah berpengaruh pada arah kebijakan dan advokasi bagi pelaku usaha di Gorontalo.",
+  "terbit": "2026-09-21T08:45:52+00:00"
+ },
+ {
+  "id": "rbUdJ91cMbk",
+  "title": "Menteri Perdagangan Pantau Harga Sembako di Sleman",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Perdagangan Budi Santoso meninjau harga bahan pokok di Sleman sebagai bagian dari upaya pemerintah menjaga stabilitas harga dan daya beli masyarakat.",
+  "takeaway": "Pemantauan harga sembako oleh pemerintah menjadi indikator penting kondisi inflasi dan daya beli masyarakat.",
+  "terbit": "2026-09-21T08:37:28+00:00"
+ },
+ {
   "id": "U5Tw4qPK4JI",
   "title": "Kadin Gorontalo Lantik Pengurus Kabupaten/Kota",
   "category": "Bisnis",

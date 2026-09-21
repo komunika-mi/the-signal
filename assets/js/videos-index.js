@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "uL-CzQJ1Amw",
+  "title": "Dua Kandidat Bersaing di Musprov Kadin Gorontalo",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Musyawarah Provinsi Kadin Gorontalo mempertemukan dua kandidat yang bersaing memperebutkan kursi ketua, masing-masing membawa visi pengembangan dunia usaha daerah.",
+  "takeaway": "Pergantian kepemimpinan Kadin daerah berpengaruh pada arah kebijakan dan advokasi bagi pelaku usaha di Gorontalo."
+ },
+ {
+  "id": "rbUdJ91cMbk",
+  "title": "Menteri Perdagangan Pantau Harga Sembako di Sleman",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Perdagangan Budi Santoso meninjau harga bahan pokok di Sleman sebagai bagian dari upaya pemerintah menjaga stabilitas harga dan daya beli masyarakat.",
+  "takeaway": "Pemantauan harga sembako oleh pemerintah menjadi indikator penting kondisi inflasi dan daya beli masyarakat."
+ },
+ {
   "id": "U5Tw4qPK4JI",
   "title": "Kadin Gorontalo Lantik Pengurus Kabupaten/Kota",
   "category": "Bisnis",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Konflik di Timur Tengah yang kembali memanas mendorong harga minyak mentah dunia melonjak hingga mendekati US$101 per barel, membebani harga-harga di Amerika Serikat.",
   "takeaway": "Lonjakan harga minyak dunia berisiko merembet ke biaya energi dan inflasi di berbagai negara, termasuk Indonesia."
- },
- {
-  "id": "2pHOiUx2_Gk",
-  "title": "Anindya Bakrie Paparkan Visi Hilirisasi di Forum BRICS",
-  "category": "Global",
-  "program": "AKIM",
-  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menyampaikan visi ekonomi Presiden Prabowo Subianto soal hilirisasi, peningkatan kualitas sumber daya manusia, dan kemandirian ekonomi di forum pemimpin BRICS.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan arah kebijakan hilirisasi dan posisi diplomasi ekonomi Indonesia di forum multilateral BRICS."
- },
- {
-  "id": "GuVSDcktZlc",
-  "title": "Antrean Panjang Kendaraan di SPBU Kota Makassar",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Antrean kendaraan untuk mengisi bahan bakar minyak mengular di sejumlah SPBU Kota Makassar dan sekitarnya, dengan pengendara rela menunggu berjam-jam.",
-  "takeaway": "Fenomena antrean BBM ini penting disimak pembaca ekonomi karena menyangkut kelancaran pasokan energi yang berdampak langsung pada aktivitas masyarakat dan dunia usaha."
  }
 ];

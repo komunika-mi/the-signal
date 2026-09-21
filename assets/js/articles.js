@@ -3,6 +3,145 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bioetanol-e20-kemitraan-rakyat-wajib-30-persen",
+  "category": "Energi",
+  "title": "Bioetanol E20: Kemitraan Rakyat Wajib [30 Persen]",
+  "deck": "Kementan menaikkan syarat kemitraan bioetanol untuk rakyat jadi minimal 30 persen, seiring target kebutuhan bioetanol 5,53 juta kiloliter hingga 2029 untuk program E20.",
+  "image": "assets/img/bioetanol-e20-kemitraan-rakyat-wajib-30-persen.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T09:10:36.630Z",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8161",
+  "sourceLabel": "Kementerian Pertanian",
+  "tags": [
+   "bioetanol",
+   "Kementan",
+   "energi terbarukan",
+   "kemitraan petani"
+  ],
+  "body": [
+   "Kementerian Pertanian menggelar rapat persiapan program bioetanol pada Senin, 21 September 2026, yang dihadiri 44 bupati dari berbagai daerah serta Menteri Sekretaris Negara Prasetyo Hadi secara virtual. Dalam pertemuan itu, Menteri Pertanian Andi Amran Sulaiman menegaskan bahwa porsi kemitraan bahan baku bioetanol untuk masyarakat dinaikkan menjadi minimal 30 persen, dari sebelumnya minimal 20 persen. Ketentuan ini penting karena menentukan seberapa besar petani dan warga daerah penghasil bahan baku ikut menikmati keuntungan dari proyek energi berskala nasional tersebut.",
+   "Program bioetanol disebut sebagai kelanjutan dari swasembada delapan komoditas pangan dan penghentian impor bahan baku biodiesel yang menurut Kementan sudah tercapai. Tahap berikutnya adalah pengembangan bahan bakar campuran E20, yakni bensin yang dicampur 20 persen etanol dari sumber nabati. Untuk mendukung implementasi E20 hingga 2029, pemerintah memperkirakan kebutuhan bioetanol nasional mencapai sekitar 5,53 juta kiloliter, dengan bahan baku utama berupa tebu, singkong, dan jagung yang penanamannya disesuaikan dengan kondisi iklim tiap daerah. Industri pengolahan bioetanol disebut tengah disiapkan untuk memenuhi kebutuhan tersebut.",
+   "Untuk tebu, Amran mencontohkan skema fleksibel seperti di Brasil, di mana hasil panen bisa diarahkan menjadi gula saat harganya tinggi, atau menjadi etanol saat harga gula rendah. Skema ini disebut memberi ruang bagi daerah untuk memilih pemanfaatan bahan baku sesuai kondisi pasar. Pemerintah turut meminta dukungan para bupati untuk menyiapkan lahan dan memastikan pengembangan bahan baku berjalan sesuai potensi masing-masing wilayah.",
+   "Amran menyebut kesejahteraan petani dapat didorong lewat kepastian harga dan pasar yang menguntungkan, dan menyatakan program bioetanol tidak boleh dikuasai sepihak oleh perusahaan pengolah. Kenaikan syarat kemitraan menjadi minimal 30 persen untuk rakyat, menurutnya, menjadi cara agar investor dan masyarakat setempat tumbuh bersama dalam proyek ini."
+  ],
+  "fotoAdegan": "Farmers cutting sugarcane stalks by hand in a large field, hazy morning light over rural Indonesian farmland.",
+  "fotoSumber": "https://www.pertanian.go.id/img_viewer.php?content-type=news&img-type=img_slider&id=8161",
+  "kreditFoto": "Kementerian Pertanian",
+  "takeaway": "Yang berubah di sini adalah syarat kemitraan dalam proyek bahan baku bioetanol, dari sebelumnya minimal 20 persen untuk rakyat menjadi minimal 30 persen, dan target kebutuhan bioetanol untuk campuran E20 diperkirakan mencapai 5,53 juta kiloliter hingga 2029. Yang terdampak langsung adalah petani tebu, singkong, dan jagung di daerah yang akan jadi pemasok bahan baku, serta pemerintah di 44 kabupaten yang diminta menyiapkan lahan sesuai potensi wilayahnya masing-masing. Arahnya menuju perluasan energi berbasis hasil pertanian dengan skema bagi hasil yang lebih besar untuk masyarakat, mengikuti pola yang sudah lebih dulu diterapkan pada program biodiesel sawit. Yang belum jelas dari keterangan ini adalah apakah angka kemitraan 30 persen dan target 5,53 juta kiloliter itu sudah dituangkan dalam aturan resmi seperti peraturan menteri, atau masih berupa arahan lisan dalam rapat. Perkembangan yang perlu ditunggu adalah peta jalan resmi program bioetanol E20 beserta aturan turunan yang mengunci syarat kemitraan tersebut secara hukum.",
+  "imageV": "mub1978p"
+ },
+ {
+  "slug": "kementan-kejar-lahan-bioetanol-2-juta-hektare",
+  "category": "Energi",
+  "title": "Kementan Kejar Lahan Bioetanol [2 Juta] Hektare",
+  "deck": "Kementerian Pertanian menyiapkan lahan tebu, singkong, dan jagung hingga 2 juta hektare untuk bahan baku bioetanol, dengan pembiayaan pabrik dibagi antara BUMN dan swasta.",
+  "image": "assets/img/kementan-kejar-lahan-bioetanol-2-juta-hektare.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T09:10:36.021Z",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8162",
+  "sourceLabel": "Kementerian Pertanian",
+  "tags": [
+   "bioetanol",
+   "Kementerian Pertanian",
+   "energi terbarukan",
+   "lahan pertanian"
+  ],
+  "body": [
+   "Kementerian Pertanian mulai menggerakkan rencana besar pengembangan bioetanol dari tiga komoditas, yakni tebu, singkong, dan jagung. Dalam rapat bersama 44 bupati di Jakarta, Senin (21/9), Menteri Pertanian Andi Amran Sulaiman menyatakan pemerintah akan menyiapkan lahan hingga 2 juta hektare sebagai fondasi sebelum pabrik-pabrik pengolahan dibangun.",
+   "Dari total itu, kebutuhan lahan tebu saja diperkirakan mencapai 1 juta hektare, sementara singkong dan jagung akan dikembangkan di daerah yang sesuai kondisi lahannya. Untuk pembiayaan industri, Amran menyebut skema pembagian sekitar 30 persen dari BUMN dan 70 persen dari swasta, dengan alasan investor swasta akan lebih tertarik karena penyediaan lahan ditanggung negara. Pemerintah juga mewajibkan skema kemitraan dengan porsi manfaat minimal 30 persen untuk masyarakat sekitar, naik dari ketentuan sebelumnya yang di bawah 20 persen.",
+   "Sebagai langkah awal, Kementan akan memberi dukungan lahan percontohan jagung seluas 500 hingga 1.000 hektare per kabupaten, yang bisa diperluas sampai 1.500 hektare bagi daerah dengan hasil produksi baik. Evaluasi hasil tanam ini direncanakan pada Januari, dan akan menentukan penambahan luas lahan berikutnya. Pemerintah juga menjanjikan bantuan alat dan mesin pertanian, serta menegaskan prioritas penyiapan lahan pada kawasan yang secara teknis sesuai dan berstatus legal jelas, sementara pelepasan kawasan hutan disebut sebagai pilihan terakhir.",
+   "Dalam jangka panjang, pemerintah mengarahkan program ini untuk menaikkan porsi campuran etanol dalam bahan bakar secara bertahap, dari kisaran 5 sampai 20 persen pada 2029 hingga kemungkinan 40 persen pada 2030-2031, menurut perkiraan Amran. Kementan juga mengklaim program ini berpotensi menciptakan hingga 8 juta lapangan kerja permanen, sebuah proyeksi yang disampaikan Kementan sendiri dan belum disertai rincian metode perhitungannya."
+  ],
+  "fotoAdegan": "Wide sugarcane field under bright daylight with a dirt access road, distant hills, a small irrigation ditch visible",
+  "fotoSumber": "https://www.pertanian.go.id/img_viewer.php?content-type=news&img-type=img_slider&id=8162",
+  "kreditFoto": "Kementerian Pertanian",
+  "takeaway": "Yang benar-benar konkret dari rapat ini baru sebatas pembagian peran: pemerintah menyiapkan lahan sampai 2 juta hektare untuk tebu, singkong, dan jagung, pembiayaan pabrik dibagi 30 persen BUMN dan 70 persen swasta, serta kewajiban bagi hasil minimal 30 persen untuk masyarakat sekitar lahan. Yang langsung terdampak adalah 44 kabupaten yang hadir dalam rapat, sebab merekalah yang akan memetakan lahan dan menjalankan uji coba jagung seluas 500 sampai 1.500 hektare per daerah. Target besar seperti campuran etanol 40 persen pada 2030-2031 dan penyerapan 8 juta tenaga kerja masih berupa perkiraan lisan Menteri Pertanian, belum dituangkan dalam aturan atau anggaran resmi. Yang perlu dipantau adalah hasil evaluasi uji coba jagung pada Januari, karena dari situ akan terlihat apakah rencana 1-2 juta hektare ini benar bergerak menjadi program lapangan atau baru sebatas kesepakatan rapat koordinasi.",
+  "imageV": "mub197yj"
+ },
+ {
+  "slug": "mendag-pantau-pasar-sleman-harga-bapok-diklaim-stabil",
+  "category": "Makroekonomi",
+  "title": "Mendag Pantau Pasar Sleman, Harga Bapok Diklaim [Stabil]",
+  "deck": "Menteri Perdagangan Budi Santoso memantau harga bahan pokok di Pasar Potrojayan, Sleman, dan menyebut mayoritas komoditas masih di bawah harga acuan pemerintah.",
+  "image": "assets/img/mendag-pantau-pasar-sleman-harga-bapok-diklaim-stabil.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T09:08:38.880Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pantau-pasar-potrojayan-di-sleman-mendag-busan-pemerintah-terus-jaga-harga-keseimbangan-bapok",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "harga pangan",
+   "Kementerian Perdagangan",
+   "Sleman",
+   "HET-HA"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mendatangi Pasar Potrojayan di Kabupaten Sleman, Daerah Istimewa Yogyakarta, Senin (21/9), untuk mengecek langsung harga dan ketersediaan bahan pokok di lapangan. Hasil pantauannya menunjukkan pasokan di pasar tersebut relatif mencukupi, dengan sebagian besar komoditas dijual di bawah batas Harga Eceran Tertinggi (HET) dan Harga Acuan (HA) yang ditetapkan pemerintah.",
+   "Budi menjelaskan, HET dan HA berfungsi sebagai batas atas harga jual yang dihitung dari biaya produksi dan distribusi, agar pedagang tetap punya margin untuk berjualan tanpa membebani daya beli konsumen. Menurutnya, harga yang terlalu rendah berisiko menekan produsen dan mengurangi insentif untuk terus berproduksi, sementara harga yang terlalu tinggi merugikan konsumen.",
+   "Dari pantauan di pasar itu, harga daging ayam ras tercatat Rp38.000 per kilogram, telur ayam ras Rp26.000 per kilogram, bawang merah Rp30.000 per kilogram, bawang putih honan Rp30.000 per kilogram, dan cabai merah keriting Rp45.000 per kilogram. Beras SPHP dari Bulog dijual Rp12.500 per kilogram, minyak goreng bersubsidi MINYAKITA Rp15.700 per liter, minyak goreng curah Rp18.400 per liter, minyak goreng kemasan premium Rp24.000 per liter, tepung terigu Rp12.000 per kilogram, dan cabai merah besar Rp45.000 per kilogram. Sementara itu, beras medium dijual Rp14.000 per kilogram, beras premium Rp15.000 per kilogram, gula pasir Rp18.000 per kilogram, daging sapi Rp150.000 per kilogram, dan cabai rawit merah Rp65.000 per kilogram.",
+   "Budi juga menyebut program Makan Bergizi Gratis (MBG) turut membantu menyerap pasokan telur dan ayam ras, karena permintaan dari program itu ikut menjaga keberlangsungan produksi kedua komoditas tersebut. Untuk memantau harga secara berkelanjutan, Kementerian Perdagangan menggunakan Sistem Pemantauan Pasar Kebutuhan Pokok (SP2KP) yang datanya dipakai sebagai rujukan pengendalian inflasi daerah sekaligus peringatan dini bila ada gangguan pasokan. Kementerian ini juga berkoordinasi dengan Perum Bulog untuk penyaluran beras SPHP, serta menugaskan BUMN pangan PT Berdikari dan PT Perusahaan Perdagangan Indonesia (PPI) untuk mengoptimalkan distribusi daging sapi di pasar rakyat.",
+   "Sejumlah pedagang di Pasar Potrojayan membenarkan kondisi pasokan yang lancar. Pedagang kelontong, Nur, menyebut harga telur di tokonya bahkan turun ke kisaran Rp24.000 hingga Rp25.000 per kilogram, sementara pedagang beras, Sukirman, menyatakan pasokan beras SPHP dari Bulog di tokonya berjalan tanpa hambatan dengan harga Rp12.500 per kilogram."
+  ],
+  "fotoAdegan": "Vendors arranging trays of eggs, whole chickens, and fresh vegetables at a busy traditional market stall, morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/MHOYsHHLkPiUFR23Bv0IOSb8g03oVIdTGWgzld0m.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah bukan aturan baru, melainkan konfirmasi bahwa program Makan Bergizi Gratis kini ikut menopang permintaan telur dan ayam ras, dua komoditas yang harganya sering naik turun tajam. Artinya peternak unggas mendapat pasar tambahan yang relatif stabil, sementara pedagang pasar tradisional dan konsumen kelas menengah-bawah tetap jadi pihak yang paling terasa dampaknya kalau harga bapok bergerak. Pola ini menunjukkan pemerintah semakin mengandalkan program belanja seperti MBG, di samping batas harga HET dan HA, sebagai cara menjaga pasokan pangan tetap jalan. Yang akan membuktikan apakah pola ini bertahan adalah data penyerapan telur dan ayam oleh MBG serta laporan pemantauan SP2KP pada bulan-bulan mendatang, terutama saat cakupan program MBG diperluas.",
+  "imageV": "mub199zj"
+ },
+ {
+  "slug": "bahlil-ubah-aturan-pnbp-kini-lebih-penting-dari-produksi",
+  "category": "Energi",
+  "title": "Bahlil Ubah Aturan, PNBP Kini Lebih [Penting] dari Produksi",
+  "deck": "Menteri ESDM Bahlil Lahadalia menata batu bara dan nikel lewat BMKS dan ekspor satu pintu Danantara SDI, produksi tak lagi jadi ukuran utama dibanding penerimaan negara.",
+  "image": "assets/img/bahlil-ubah-aturan-pnbp-kini-lebih-penting-dari-produksi.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T15:56:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468410-bahlil-ungkap-cara-baru-atur-batu-bara-dan-nikel-produksi-tak-lagi-jadi-patokan-utama",
+  "tags": [
+   "Batu Bara",
+   "Nikel",
+   "BMKS",
+   "PNBP Minerba"
+  ],
+  "body": [
+   "Kementerian ESDM mengubah cara mengelola komoditas batu bara dan nikel, tidak lagi semata bertumpu pada besar-kecilnya volume produksi. Menteri ESDM Bahlil Lahadalia menyebut perubahan ini ditempuh lewat pembentukan Bursa Mineral dan Komoditas Strategis (BMKS) serta mekanisme ekspor satu pintu melalui PT Danantara Sumberdaya Indonesia (SDI). Alasannya, selama ini harga nikel dan batu bara Indonesia banyak ditentukan oleh pembeli atau pihak dari luar negeri, sehingga hasil penjualan komoditas strategis nasional dinilai belum optimal.",
+   "Bahlil mengklaim penataan keseimbangan pasokan dan permintaan yang mulai dijalankan pemerintah membuat harga batu bara Indonesia kini lebih diperhitungkan di pasar internasional. Ia juga menyebut harga nikel tidak lagi mudah dipermainkan pihak tertentu, meski tidak merinci mekanisme pengendalian harga tersebut atau kapan BMKS mulai beroperasi penuh.",
+   "Sebagai gambaran, produksi batu bara nasional sepanjang 2025 tercatat 817,48 juta ton, menurut data Direktorat Jenderal Mineral dan Batu Bara Kementerian ESDM. Produksi Januari-Juli 2026 baru mencapai 423,71 juta ton, dengan rata-rata sekitar 60,5 juta ton per bulan, lebih rendah dibanding rata-rata bulanan 2025 yang sekitar 68 juta ton. Meski produksi melambat, Bahlil menyebut penerimaan negara bukan pajak (PNBP) dari sektor batu bara justru meningkat.",
+   "Bahlil menegaskan fokus pemerintah bukan lagi mengejar volume produksi setinggi mungkin, melainkan memaksimalkan pendapatan negara dari sektor tambang. \"Artinya, kita ingin produksinya tidak terlalu banyak, tapi pendapatan negara itu yang paling penting,\" ujar Bahlil di Balai Sudirman, Jakarta, Senin (21/9/2026)."
+  ],
+  "fotoAdegan": "Coal loader stacking rows of coal onto a bulk carrier at a busy Indonesian port, cranes and haze in the background",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/25/6a8d951c7b72e-menteri-esdm-bahlil-lahadalia-dalam-launching-dan-groundbreaking-program-plts-100-gwp-di-bali_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya ada pada dua alat baru: BMKS, semacam pasar khusus tempat batu bara dan nikel diperjualbelikan supaya harganya tidak sepenuhnya ditentukan pembeli dari luar negeri, dan ekspor satu pintu lewat Danantara SDI, badan investasi negara yang kini jadi perantara tunggal penjualan ke luar negeri. Yang kena dampak langsung adalah perusahaan tambang dan eksportir batu bara serta nikel yang harus mengikuti jalur baru ini, sementara dampaknya ke publik lewat penerimaan negara yang menjadi bagian anggaran pemerintah. Angka yang mendukung arah ini sudah kelihatan, rata-rata produksi batu bara Januari-Juli 2026 cuma 60,5 juta ton per bulan, turun dari rata-rata 68 juta ton per bulan sepanjang 2025, sementara menurut Bahlil penerimaan negara dari batu bara malah naik. Ini mengarah ke strategi menahan volume produksi supaya harga dan pendapatan negara lebih terjaga, ketimbang terus mengejar produksi sebanyak-banyaknya. Yang akan memastikan arah ini bertahan adalah angka resmi PNBP minerba 2026 begitu tahun berjalan selesai, serta kapan BMKS resmi mulai beroperasi penuh.",
+  "imageV": "mub19ai8"
+ },
+ {
+  "slug": "asing-lepas-bumi-adro-rp348-m-brms-diburu",
+  "category": "Pasar Modal",
+  "title": "Asing [Lepas] BUMI-ADRO Rp348 M, BRMS Diburu",
+  "deck": "Investor asing menjual saham BUMI dan ADRO senilai Rp348,4 miliar dalam sepekan, sementara BRMS mencatat pembelian bersih asing terbesar di sektor tambang.",
+  "image": "assets/img/asing-lepas-bumi-adro-rp348-m-brms-diburu.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T15:00:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468397-asing-cabut-rp3484-miliar-dari-bumi-dan-adro-saham-tambang-lain-malah-diburu",
+  "tags": [
+   "bumi",
+   "adro",
+   "brms",
+   "saham tambang"
+  ],
+  "body": [
+   "Investor asing melepas saham PT Bumi Resources Tbk (BUMI) dan PT Alamtri Resources Indonesia Tbk (ADRO) senilai total Rp348,4 miliar di pasar reguler Bursa Efek Indonesia sepanjang 14-18 September 2026. Tekanan jual ini menarik perhatian karena terjadi bersamaan dengan aksi beli asing yang justru deras masuk ke sejumlah saham tambang lain, termasuk BRMS, ANTM, AADI, dan EMAS, menurut data Stockbit Sekuritas.",
+   "Saham BUMI menjadi salah satu yang paling tertekan, dengan nilai jual bersih asing mencapai Rp178,7 miliar dalam sepekan. Pada penutupan perdagangan Jumat, 18 September 2026, harga BUMI anjlok 4,4 persen ke Rp193 per saham, sehingga penurunan dalam sepekan mencapai 8,9 persen. Meski begitu, secara bulanan BUMI masih mencatat kenaikan 6,6 persen, sedangkan sejak awal tahun harganya masih ambles 47,2 persen.",
+   "ADRO mengalami tekanan serupa dengan nilai jual bersih asing sebesar Rp169,7 miliar pada periode yang sama. Harga saham ini ditutup turun 1,1 persen ke Rp2.640 pada Jumat, membuat pergerakannya dalam sepekan relatif stagnan. Namun performa bulanannya masih positif dengan kenaikan 4,3 persen, dan sejak awal tahun ADRO bahkan telah melesat 45,8 persen.",
+   "Di sisi lain, BRMS mencatatkan pembelian bersih asing terbesar di antara saham tambang dengan nilai Rp367,1 miliar pada pekan yang sama. Sejumlah saham tambang lain seperti ANTM, AADI, dan EMAS juga turut diburu investor asing pada periode tersebut, menunjukkan bahwa aliran dana asing tidak sepenuhnya meninggalkan sektor pertambangan."
+  ],
+  "fotoAdegan": "Coal hauling trucks moving across a dusty open-pit mine in Kalimantan, heavy machinery under overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/05/18/6829731942c55-pt-alamtri-resources-indonesia-tbk-adro-buyback-saham-rp4-triliun-tanpa-rups_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang terjadi bukan asing kabur dari sektor tambang, melainkan pergeseran dana antar saham dalam sektor yang sama. Dalam sepekan yang sama, asing menjual BUMI dan ADRO senilai Rp348,4 miliar, tapi membeli BRMS saja senilai Rp367,1 miliar, ditambah ANTM, AADI, dan EMAS. Yang terdampak langsung adalah pemegang saham BUMI dan ADRO, karena harga BUMI sudah turun 8,9 persen dan ADRO tertahan dalam sepekan terakhir, sementara BUMI sendiri masih anjlok 47,2 persen sejak awal tahun meski sempat naik bulanan. Untuk memastikan apakah ini rotasi sesaat atau pergeseran preferensi asing yang lebih permanen di saham tambang, perlu dilihat data net sell dan net buy asing pada pekan-pekan berikutnya, apakah BUMI dan ADRO terus ditinggalkan atau kembali diminati.",
+  "imageV": "mub19ayd"
+ },
+ {
   "slug": "safe-pengendali-jual-294-300-saham-lewat-repo",
   "category": "Aksi Korporasi",
   "title": "SAFE: Pengendali Jual 294.300 Saham Lewat [Repo]",

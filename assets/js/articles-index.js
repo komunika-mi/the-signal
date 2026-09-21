@@ -5,6 +5,94 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bioetanol-e20-kemitraan-rakyat-wajib-30-persen",
+  "category": "Energi",
+  "title": "Bioetanol E20: Kemitraan Rakyat Wajib [30 Persen]",
+  "deck": "Kementan menaikkan syarat kemitraan bioetanol untuk rakyat jadi minimal 30 persen, seiring target kebutuhan bioetanol 5,53 juta kiloliter hingga 2029 untuk program E20.",
+  "date": "21 September 2026",
+  "image": "assets/img/bioetanol-e20-kemitraan-rakyat-wajib-30-persen.jpg",
+  "imageV": "mub1978p",
+  "tags": [
+   "bioetanol",
+   "Kementan",
+   "energi terbarukan",
+   "kemitraan petani"
+  ],
+  "kreditFoto": "Kementerian Pertanian",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8161",
+  "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "kementan-kejar-lahan-bioetanol-2-juta-hektare",
+  "category": "Energi",
+  "title": "Kementan Kejar Lahan Bioetanol [2 Juta] Hektare",
+  "deck": "Kementerian Pertanian menyiapkan lahan tebu, singkong, dan jagung hingga 2 juta hektare untuk bahan baku bioetanol, dengan pembiayaan pabrik dibagi antara BUMN dan swasta.",
+  "date": "21 September 2026",
+  "image": "assets/img/kementan-kejar-lahan-bioetanol-2-juta-hektare.jpg",
+  "imageV": "mub197yj",
+  "tags": [
+   "bioetanol",
+   "Kementerian Pertanian",
+   "energi terbarukan",
+   "lahan pertanian"
+  ],
+  "kreditFoto": "Kementerian Pertanian",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8162",
+  "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "mendag-pantau-pasar-sleman-harga-bapok-diklaim-stabil",
+  "category": "Makroekonomi",
+  "title": "Mendag Pantau Pasar Sleman, Harga Bapok Diklaim [Stabil]",
+  "deck": "Menteri Perdagangan Budi Santoso memantau harga bahan pokok di Pasar Potrojayan, Sleman, dan menyebut mayoritas komoditas masih di bawah harga acuan pemerintah.",
+  "date": "21 September 2026",
+  "image": "assets/img/mendag-pantau-pasar-sleman-harga-bapok-diklaim-stabil.jpg",
+  "imageV": "mub199zj",
+  "tags": [
+   "harga pangan",
+   "Kementerian Perdagangan",
+   "Sleman",
+   "HET-HA"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pantau-pasar-potrojayan-di-sleman-mendag-busan-pemerintah-terus-jaga-harga-keseimbangan-bapok",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bahlil-ubah-aturan-pnbp-kini-lebih-penting-dari-produksi",
+  "category": "Energi",
+  "title": "Bahlil Ubah Aturan, PNBP Kini Lebih [Penting] dari Produksi",
+  "deck": "Menteri ESDM Bahlil Lahadalia menata batu bara dan nikel lewat BMKS dan ekspor satu pintu Danantara SDI, produksi tak lagi jadi ukuran utama dibanding penerimaan negara.",
+  "date": "21 September 2026",
+  "image": "assets/img/bahlil-ubah-aturan-pnbp-kini-lebih-penting-dari-produksi.jpg",
+  "imageV": "mub19ai8",
+  "tags": [
+   "Batu Bara",
+   "Nikel",
+   "BMKS",
+   "PNBP Minerba"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468410-bahlil-ungkap-cara-baru-atur-batu-bara-dan-nikel-produksi-tak-lagi-jadi-patokan-utama"
+ },
+ {
+  "slug": "asing-lepas-bumi-adro-rp348-m-brms-diburu",
+  "category": "Pasar Modal",
+  "title": "Asing [Lepas] BUMI-ADRO Rp348 M, BRMS Diburu",
+  "deck": "Investor asing menjual saham BUMI dan ADRO senilai Rp348,4 miliar dalam sepekan, sementara BRMS mencatat pembelian bersih asing terbesar di sektor tambang.",
+  "date": "21 September 2026",
+  "image": "assets/img/asing-lepas-bumi-adro-rp348-m-brms-diburu.jpg",
+  "imageV": "mub19ayd",
+  "tags": [
+   "bumi",
+   "adro",
+   "brms",
+   "saham tambang"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468397-asing-cabut-rp3484-miliar-dari-bumi-dan-adro-saham-tambang-lain-malah-diburu"
+ },
+ {
   "slug": "safe-pengendali-jual-294-300-saham-lewat-repo",
   "category": "Aksi Korporasi",
   "title": "SAFE: Pengendali Jual 294.300 Saham Lewat [Repo]",
@@ -6416,88 +6504,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2b65cf0f7f_9a8352b1fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lobster-budi-daya-batam-ekspor-perdana-ke-singapura",
-  "category": "Industri",
-  "title": "Lobster Budi Daya Batam [Ekspor] Perdana ke Singapura",
-  "deck": "Sebanyak 339,5 kilogram lobster budi daya asal Batam terjual ke Singapura, dan KKP menyiapkan perluasan model budi daya ke Situbondo dan Lombok.",
-  "date": "14 September 2026",
-  "image": "assets/img/lobster-budi-daya-batam-ekspor-perdana-ke-singapura.jpg",
-  "imageV": "mu11481r",
-  "tags": [
-   "lobster",
-   "budi daya",
-   "ekspor",
-   "KKP"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/lobster-modeling-batam-tembus-pasar-ekspor-kkp-dorong-pengembangan-budi-daya-lobster-x2g3.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "arto-tegaskan-belum-ada-rencana-merger-dengan-bfi-finance",
-  "category": "Aksi Korporasi",
-  "title": "ARTO Tegaskan Belum Ada Rencana [Merger] dengan BFI Finance",
-  "deck": "Dalam sesi tanya jawab Public Expose Tahunan 2026, manajemen Bank Jago juga menyebut dividen tunai baru dipertimbangkan 3-4 tahun ke depan dan biaya dana naik ke 3,8 persen pada Agustus.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARTO",
-   "Bank Jago",
-   "Cost of Fund",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec14a8cea5_82ac84662c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lmsh-rugi-2025-menyusut-arus-kas-operasi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "LMSH: Rugi 2025 Menyusut, [Arus Kas] Operasi Negatif",
-  "deck": "Lionmesh Prima (LMSH) mencatat rugi bersih Rp4,81 miliar di 2025, menyusut dari Rp7,48 miliar, tapi arus kas operasi berbalik negatif dan kas turun 23,7 persen.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LMSH",
-   "Lionmesh Prima",
-   "laporan keuangan",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260914161915-64396-0/FinancialStatement-2025-Tahunan-LMSH.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lion-rugi-rp26-04-miliar-penjualan-turun-seperlima-di-2025",
-  "category": "Aksi Korporasi",
-  "title": "LION [Rugi] Rp26,04 Miliar, Penjualan Turun Seperlima di 2025",
-  "deck": "Lion Metal Works membukukan rugi bersih Rp26,04 miliar pada 2025, berbalik dari laba Rp10,57 miliar setahun sebelumnya, seiring penjualan yang turun ke Rp339,12 miliar.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LION",
-   "Lion Metal Works",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260914162054-64395-0/FinancialStatement-2025-Tahunan-LION.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uang-buka-kendala-penuhi-syarat-free-float-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "UANG Buka Kendala Penuhi Syarat [Free Float] ke Bursa",
-  "deck": "PT Pakuan Tbk (UANG) menjelaskan ke BEI kendala pemenuhan syarat minimum saham beredar bebas, termasuk saham warkat dan rencana pelepasan saham pengendali.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UANG",
-   "free float",
-   "PT Pakuan Tbk",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2a09ce3670_6cee856ff1.pdf",
   "sourceLabel": "IDX"
  }
 ];

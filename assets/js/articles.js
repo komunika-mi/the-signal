@@ -267,7 +267,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan pembaruan angka: tim penyelesai hambatan investasi pemerintah sudah menuntaskan 135 dari 177 aduan pelaku usaha per akhir Agustus, dan 25 kawasan ekonomi khusus tercatat menyerap investasi Rp368 triliun serta lebih dari 283 ribu pekerja hingga Juni 2026. Yang terdampak langsung adalah pelaku usaha yang mengajukan keluhan soal izin, pajak, atau logistik, dan pemerintah daerah yang mengelola kawasan investasi tersebut. Dorongan keterbukaan informasi, mulai dari profil daerah sampai rantai pasok lokal, menunjukkan pemerintah mengandalkan kemudahan akses data sebagai salah satu jalan mengejar target pertumbuhan investasi menuju PDB 6 persen pada 2027 dan 8 persen pada 2029, bukan sekadar insentif fiskal baru. Yang akan menentukan apakah pendekatan ini berhasil adalah angka realisasi investasi kuartal III 2026 yang biasanya dirilis BKPM pada akhir Oktober, serta apakah jumlah aduan yang tuntas ditangani terus bertambah dari 135 kasus saat ini.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "asian-games-2026-gratis-di-maxstream-tv-indihome",

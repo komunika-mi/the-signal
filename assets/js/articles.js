@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "laba-bersih-medc-melonjak-ke-us-287-6-juta-pada-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba Bersih MEDC [Melonjak] ke US$287,6 Juta pada Semester I 2026",
+  "deck": "MedcoEnergi (MEDC) mencatat laba bersih US$287,6 juta pada semester I 2026, melonjak dari US$36,1 juta tahun sebelumnya, ditopang produksi migas dan kontribusi Amman Mineral.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T23:55:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260921165840-64414-0/FinancialStatement-2026-II-MEDC.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "laba bersih",
+   "minyak dan gas",
+   "Amman Mineral"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk (MEDC) melaporkan produksi minyak dan gas semester I 2026 mencapai 170 ribu barel setara minyak per hari, sesuai dengan target tahun ini, dengan gas menyumbang sekitar 72 persen dari total produksi. Capaian ini ditopang oleh tambahan hak partisipasi di Blok Corridor, kinerja produksi Lapangan Forel dan Terubuk di South Natuna Sea Block B, pengeboran pengembangan di Lapangan Bualuang Thailand, rampungnya proyek Bisat C di Blok 60 Oman, serta beroperasi penuhnya proyek Senoro Fase 2A sejak Juni 2026. Perseroan juga menandatangani Kontrak Bagi Hasil untuk Blok Nawasena di Jawa Timur dan Blok Cendramas di Malaysia, di mana MEDC ditunjuk sebagai operator, sekaligus menandai operasi produksi pertamanya di Malaysia.",
+   "Dari sisi keuangan, MEDC membukukan pendapatan US$1.415 juta pada semester I 2026, dengan EBITDA US$805 juta dan laba kotor US$588 juta. Laba bersih periode berjalan mencapai US$287,6 juta, melonjak dari US$36,1 juta pada semester I 2025, di mana US$275 juta di antaranya menjadi bagian pemilik entitas induk. Kenaikan ini didorong oleh produksi minyak dan gas yang lebih tinggi, harga minyak dunia yang membaik, serta kontribusi dari investasi tambang tembaga dan emas di PT Amman Mineral Internasional setelah smelternya beroperasi penuh. Laba per saham dasar naik dari US$0,00124 menjadi US$0,01115, sementara biaya kas produksi minyak dan gas terjaga di US$8,4 per barel setara minyak, di bawah panduan tahun ini yang mematok di bawah US$10 per barel.",
+   "Total aset Perseroan tercatat US$9.033,3 juta per 30 Juni 2026, naik dari US$8.362,7 juta pada akhir 2025, dengan total ekuitas US$2.528,8 juta. Utang konsolidasi berada di US$4.128 juta dengan kas dan setara kas US$1.402 juta, sementara rasio utang bersih terhadap EBITDA untuk Restricted Group terjaga di 1,4 kali, di bawah batas panduan 2,5 kali yang dihitung dengan asumsi harga minyak jangka panjang US$65 per barel. Peringkat kredit idAA- dari Pefindo serta peringkat internasional dari Fitch, S&P, dan Moody's dipertahankan. Laporan keuangan ini memperoleh opini wajar tanpa modifikasian dari auditor KAP Purwanto Susanti dan Surja, anggota jaringan Ernst & Young.",
+   "Segmen ketenagalistrikan mencatat penjualan listrik 2.323 GWh, naik dibanding periode yang sama tahun lalu, ditopang operasi Dalle Energy Batam, ekspansi Energi Listrik Batam, dan beroperasinya PLTS Bali Timur, dengan energi terbarukan menyumbang sekitar 25 persen dari total penjualan listrik. MEDC mempertahankan panduan kinerja 2026 berupa produksi migas 165-170 ribu barel setara minyak per hari dan penjualan listrik 4.550 GWh, namun menaikkan panduan belanja modal tahun ini menjadi US$450-475 juta untuk segmen minyak dan gas serta hingga US$50 juta untuk segmen ketenagalistrikan."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting pipeline valves on an offshore oil and gas platform, drilling derrick visible against open sea horizon",
+  "takeaway": "Laporan ini condong positif bagi MEDC karena laba bersihnya melonjak hampir delapan kali lipat dari US$36,1 juta menjadi US$287,6 juta hanya dalam setahun, sementara beban utangnya tidak ikut membengkak. Lonjakan laba ini langsung terasa di laba per saham, yang naik dari US$0,00124 menjadi US$0,01115, artinya nilai keuntungan yang mewakili setiap lembar saham kini jauh lebih besar dari tahun lalu. Rasio utang bersih terhadap EBITDA, yaitu ukuran seberapa berat beban utang perusahaan dibandingkan kemampuannya menghasilkan kas dari operasi, tetap di 1,4 kali dan masih jauh di bawah batas aman 2,5 kali yang mereka tetapkan sendiri, menandakan ruang keuangan yang masih longgar meski belanja modal dinaikkan. Yang perlu dipantau selanjutnya adalah realisasi belanja modal yang dinaikkan menjadi US$450-475 juta untuk segmen minyak dan gas, apakah akan didanai dari kas hasil operasi atau justru menambah utang baru, serta progres proyek gas Sakakemang yang ditargetkan mengalirkan gas pertama pada kuartal III 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cani-ungkap-identitas-pembeli-kapal-tunda-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "CANI ungkap identitas [pembeli] kapal tunda ke BEI",
+  "deck": "CANI menanggapi permintaan penjelasan BEI soal penjualan kapal tunda QAL Ranger, mengungkap identitas pembeli PT Lestari Lautan Mulia dan meminta perpanjangan waktu hingga 24 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T23:45:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11b5bfae26_cad26f168e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CANI",
+  "tags": [
+   "CANI",
+   "keterbukaan informasi",
+   "BEI",
+   "penjualan aset"
+  ],
+  "body": [
+   "PT Capitol Nusantara Indonesia Tbk. (CANI) menyampaikan tanggapan atas surat permintaan penjelasan Bursa Efek Indonesia (BEI) bernomor S-12123/BEI.PP3/09-2026 tertanggal 17 September 2026. Perseroan menyebut baru menerima surat tersebut melalui portal BEI pada Senin, 21 September 2026, sehingga meminta tambahan waktu hingga Kamis, 24 September 2026 untuk menjawab seluruh pertanyaan secara lengkap. Meski begitu, dua poin pertanyaan sudah dijawab dalam surat yang ditandatangani Direktur Jansen Warokka dan Corporate Secretary Riduwan Kosasih ini.",
+   "Poin pertama menyangkut penjualan kapal tunda (tug boat) bernama QAL Ranger senilai US$508.791 yang sudah diumumkan CANI pada 7 September 2026. BEI mempertanyakan perhitungan Perseroan yang menyebut nilai transaksi itu setara 7,11 persen dari total aset, sementara hitungan BEI sendiri menghasilkan 6,45 persen jika memakai total aset akhir 2025 sebesar US$7.892.291. CANI menjelaskan bahwa angka 7,11 persen yang benar, karena basis perhitungannya memakai laporan keuangan interim per 31 Maret 2026 dengan total aset US$7.160.045, yaitu laporan interim terakhir sebelum tanggal keterbukaan informasi.",
+   "Poin kedua adalah identitas pembeli kapal tersebut, PT Lestari Lautan Mulia (LLM), yang beralamat di The Mansion Kemayoran Bougenville Tower Fontana lantai 50, Pademangan Timur, Jakarta Utara. Perseroan menyebut LLM dipimpin oleh Direktur Mus Mulyadi dan Komisaris Helmy Yahya, serta menegaskan tidak ada hubungan afiliasi antara LLM dengan CANI. Perseroan juga menyatakan bahwa jawaban atas pertanyaan-pertanyaan lain, yang akan disampaikan paling lambat 24 September 2026, akan diajukan secara rahasia (non publish, Form E074) dan tidak dipublikasikan seperti biasanya karena menyangkut kepentingan pihak pembeli di luar Perseroan."
+  ],
+  "fotoAdegan": "A weathered tugboat moored at a working Indonesian harbor dock, coiled ropes and rusted bollards in foreground, overcast afternoon light.",
+  "takeaway": "Isi balasan ini tergolong netral bagi fundamental CANI, karena isinya sebatas koreksi metode hitung dan konfirmasi identitas pihak pembeli, bukan informasi yang mengubah gambaran kinerja perusahaan. Pos yang tersentuh adalah total aset, sebab penjualan kapal tunda QAL Ranger senilai US$508.791 mengurangi aset tetap sekaligus mendatangkan kas masuk, dan karena basis perhitungannya memakai laporan keuangan interim Maret 2026 yang aset totalnya lebih kecil dari laporan akhir 2025, porsi transaksi itu terhadap total aset tercatat naik menjadi 7,11 persen. Investor perlu mencermati bahwa sebagian jawaban penting soal transaksi ini baru akan disampaikan CANI ke BEI paling lambat Kamis, 24 September 2026, dan sebagian dari jawaban itu justru diajukan secara rahasia sehingga publik kemungkinan tidak memperoleh rincian lengkapnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wskt-restrukturisasi-obligasi-efektif-kupon-turun-ke-5",
+  "category": "Aksi Korporasi",
+  "title": "WSKT [Restrukturisasi] Obligasi Efektif, Kupon Turun ke 5%",
+  "deck": "WSKT dan wali amanat PT Bank Mega resmi mengubah perjanjian obligasi Seri B, jatuh tempo mundur ke 2034 dan kupon turun jadi 5 persen, efektif 17 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T23:44:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a547f3f4ad_8febaaaa51.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "obligasi",
+   "restrukturisasi utang",
+   "wali amanat"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk resmi mengubah Perjanjian Perwaliamanatan Obligasi Berkelanjutan III Tahap IV Tahun 2019 Seri B setelah Waskita dan PT Bank Mega Tbk selaku wali amanat menandatangani perubahan Akta Perjanjian Perwaliamanatan dan Akta Pengakuan Utang pada Kamis, 17 September 2026. Dengan penandatanganan itu, skema restrukturisasi yang sebelumnya disetujui 97,14 persen pemegang obligasi yang hadir dalam Rapat Umum Pemegang Obligasi tanggal 3 September 2026 resmi berlaku efektif pada tanggal yang sama.",
+   "Perubahan utama mencakup mundurnya tanggal jatuh tempo obligasi dari semula 16 Mei 2024 menjadi 31 Desember 2034, serta tingkat kupon yang turun dari 9,75 persen per tahun menjadi 5,00 persen per tahun ditambah kupon standstill. Kupon standstill berlaku sejak hari setelah pembayaran kupon terakhir hingga tanggal jatuh tempo awal sebesar 9,75 persen per tahun, dan sejak tanggal jatuh tempo awal hingga hari sebelum efektifnya perjanjian baru sebesar 5,00 persen per tahun.",
+   "Waskita menyampaikan pembayaran kewajiban pertama pasca restrukturisasi akan dilakukan pada 23 Desember 2026 senilai total Rp36.256.593.750, terdiri dari kupon standstill Rp17.910.795.139 dan kupon restrukturisasi awal Rp18.345.798.611. Perusahaan juga melampirkan jadwal lengkap pembayaran kupon hingga jatuh tempo baru pada 31 Desember 2034, dengan total seluruh kewajiban kupon mencapai Rp922.585.625.000 yang dibayarkan tiap tiga bulan. Waskita mencatat bahwa jumlah pembayaran pertama dan jadwal tersebut masih tunduk pada konfirmasi dari wali amanat."
+  ],
+  "fotoAdegan": "Elevated toll road construction site at dusk, cranes and concrete pillars silhouetted against a dim orange sky, workers small in distance.",
+  "takeaway": "Restrukturisasi ini condong positif bagi arus kas jangka pendek Waskita karena kupon yang harus dibayar turun hampir separuh dan kewajiban pokok tidak jatuh tempo sampai 2034, meski perlu diingat perubahan ini lahir dari kondisi lalai pembayaran atas obligasi lama sehingga bukan sepenuhnya kabar gembira. Beban bunga, yaitu biaya yang harus dibayar perusahaan atas utangnya, berkurang signifikan, dan itu yang paling diperhatikan pelaku pasar karena langsung mengurangi tekanan pada laba dan arus kas alias uang tunai yang keluar masuk perusahaan tiap periode. Yang perlu dipantau berikutnya adalah pembayaran pertama pasca restrukturisasi pada 23 Desember 2026 senilai Rp36,26 miliar, karena itu jadi ujian pertama apakah Waskita bisa konsisten memenuhi jadwal baru, dan realisasinya masih menunggu konfirmasi resmi dari PT Bank Mega Tbk selaku wali amanat.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "vast-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "VAST Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
+  "deck": "Merespons surat permintaan penjelasan BEI, Vastland Indonesia menyatakan tidak ada informasi material yang belum diungkap dan tidak ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T23:28:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0b21cb57b8_d99f2f038e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VAST",
+  "tags": [
+   "VAST",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Vastland Indonesia Tbk (VAST) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-12120/BEI.PP2/09-2026 tertanggal 18 September 2026, yang meminta perseroan mengklarifikasi volatilitas transaksi sahamnya. Dalam surat balasan bernomor 042/VAST-Corsec/IX/2026 tertanggal 21 September 2026 yang ditandatangani Corporate Secretary Stanley V. Gunawan, perseroan menegaskan hingga tanggal surat tersebut tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Nomor I-E BEI.",
+   "Perseroan juga menyatakan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham, dan tidak memiliki rencana tindakan korporasi yang akan berdampak pada status pencatatan sahamnya di bursa dalam tiga bulan mendatang. Tidak ada pula informasi, fakta, atau kejadian penting lain yang material dan belum diungkapkan ke publik. Perseroan berjanji akan melapor jika ke depan muncul fakta material sesuai ketentuan yang berlaku.",
+   "Poin tambahan dalam surat menyebutkan bahwa BEI juga meminta konfirmasi mengenai rencana pemegang saham utama terkait kepemilikan sahamnya. Menjawab hal ini, Corporate Secretary menyatakan pemegang saham utama, yaitu PT Tembesu Elang Perkasa, tidak memiliki rencana untuk mengambil tindakan apa pun terkait kepemilikan sahamnya di Vastland Indonesia sampai saat surat ini diterbitkan."
+  ],
+  "fotoAdegan": "Brokers in a busy stock brokerage office reacting to price swings, animated gestures, motion blur, fluorescent office lighting",
+  "takeaway": "Penjelasan ini netral bagi fundamental Vastland karena isinya semata menyangkal adanya informasi baru, bukan mengumumkan perubahan apa pun pada bisnis atau keuangan perusahaan. Surat semacam ini lazim diminta Bursa saat harga saham bergerak tidak wajar dan manajemen diminta mengonfirmasi apakah ada pemicu yang belum diungkap; jawaban 'tidak ada' di sini berarti pergerakan harga sahamnya kemungkinan besar didorong aksi jual beli di pasar, bukan perubahan pada ekuitas, arus kas, atau laba perusahaan, sehingga tidak ada pos kinerja yang benar-benar tersentuh dari surat ini. Yang perlu dipantau selanjutnya adalah apakah Bursa menindaklanjuti dengan tindakan lain seperti penghentian sementara perdagangan jika volatilitas berlanjut, serta apakah pemegang saham utama PT Tembesu Elang Perkasa memang tidak mengubah kepemilikannya dalam tiga bulan ke depan seperti yang dinyatakan perseroan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "freeport-ungkap-130-spesies-baru-di-ekosistem-papua",
   "category": "Industri",
   "title": "Freeport Ungkap [130] Spesies Baru di Ekosistem Papua",
@@ -970,6 +1075,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret: pemerintah menyusun peta jalan campuran bensin dengan etanol, dimulai 10 persen etanol pada 2027, naik ke 20 persen pada 2028, dengan target akhir 50 persen. Polanya meniru program biodiesel yang lebih dulu jalan, yaitu mencampur solar dengan bahan bakar nabati dari sawit, yang butuh waktu bertahun-tahun untuk naik bertahap sampai akhirnya mencapai campuran 50 persen. Pihak yang berpotensi kena dampak cukup luas, mulai dari pengendara mobil dan motor berbensin, petani tebu, singkong, dan jagung yang bahan bakunya dibidik jadi sumber etanol, sampai neraca perdagangan karena selama ini bensin jadi didatangkan dari luar negeri. Arahnya terlihat bertahap, bukan lompatan langsung ke 50 persen, sama seperti pola kenaikan bertahap pada program biodiesel sebelumnya, dan yang akan menentukan apakah target 2027 itu realistis adalah kemampuan kebun tebu, singkong, dan jagung dalam negeri memasok etanol dalam jumlah besar, mengingat Bahlil sendiri menegaskan tidak mau bergantung pada etanol impor.",
   "imageV": "mub6o8r2"
+ },
+ {
+  "slug": "ppgl-rinci-rencana-pmthmetd-77-juta-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Rinci Rencana [PMTHMETD] 77 Juta Saham Baru",
+  "deck": "PPGL merilis keterbukaan informasi rinci soal rencana penerbitan hingga 77.117.802 saham baru tanpa hak memesan efek terlebih dahulu, dengan RUPSLB dijadwalkan 23 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:43:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b217cbc52_5cce030f7a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "PMTHMETD",
+   "rights issue",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) merilis keterbukaan informasi yang merinci rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD). Perseroan berencana menerbitkan saham baru sebanyak-banyaknya 77.117.802 lembar, setara maksimal 10 persen dari modal ditempatkan dan disetor, dengan nilai nominal Rp22 per saham. Rencana ini masih memerlukan persetujuan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada 23 Oktober 2026.",
+   "Harga pelaksanaan saham baru ditetapkan paling sedikit 90 persen dari rata-rata harga penutupan saham PPGL selama 25 hari bursa berturut-turut sebelum tanggal permohonan pencatatan saham tambahan, mengikuti aturan Bursa Efek Indonesia. Perseroan punya waktu maksimal dua tahun sejak RUPSLB menyetujui aksi ini untuk merealisasikannya, yaitu dari 23 Oktober 2026 sampai 23 Oktober 2028. Seluruh dana yang terkumpul, setelah dikurangi biaya-biaya PMTHMETD, akan dipakai sebagai modal kerja Perseroan.",
+   "Berdasarkan daftar pemegang saham per 31 Agustus 2026, Direktur Utama Darmawan Suryadi SM memegang 409.637.667 saham atau 53,12 persen, Komisaris Utama Jap Astrid Patricia memegang 175.818.833 saham atau 22,80 persen, sementara sisanya 185.721.520 saham atau 24,08 persen dimiliki publik dengan kepemilikan di bawah 5 persen. Total saham beredar saat ini 771.178.020 lembar. Karena penerbitan saham baru ini tidak memberi hak pesan lebih dahulu kepada pemegang saham lama, porsi kepemilikan mereka berpotensi tergerus hingga sekitar 9 persen jika seluruh jatah 10 persen saham baru terserap.",
+   "Perseroan juga memaparkan proyeksi dampak keuangan seandainya PMTHMETD terlaksana penuh, dihitung dari basis laporan keuangan per 31 Desember 2025. Total aset diproyeksikan naik 0,41 persen dari Rp411,85 miliar menjadi Rp413,55 miliar, dan ekuitas naik 1,18 persen dari Rp144,33 miliar menjadi Rp146,02 miliar. Sementara itu, pendapatan usaha Rp175,23 miliar dan laba tahun berjalan Rp9,55 miliar untuk 2025, yang masing-masing turun dibanding tahun sebelumnya sebesar Rp211,73 miliar dan Rp12,88 miliar, tidak berubah dalam proyeksi ini karena dana PMTHMETD belum dihitung memengaruhi hasil operasional."
+  ],
+  "fotoAdegan": "Dock workers moving cargo pallets with a forklift inside a busy freight warehouse, morning light through open doors.",
+  "takeaway": "Laporan ini condong netral bagi fundamental PPGL, karena dampak proforma terhadap ekuitas dan aset perusahaan tergolong kecil, masing-masing hanya naik 1,18 persen dan 0,41 persen, dan dana yang masuk akan dipakai untuk modal kerja, bukan sesuatu yang mengubah bentuk usaha secara mendasar. Yang tersentuh dari aksi ini adalah ekuitas, yaitu modal sendiri perusahaan yang bertambah karena ada dana segar masuk, serta jumlah saham beredar yang bisa naik hingga 10 persen sehingga porsi kepemilikan pemegang saham lama, termasuk investor publik, otomatis mengecil karena mereka tidak diberi jatah untuk membeli saham baru ini lebih dulu. Pasar juga perlu mengingat konteks sebelumnya: PPGL baru saja melepas aset JAYA ke pihak terafiliasi dengan piutang Rp21,6 miliar yang belum juga cair, sehingga penggalangan dana modal kerja lewat penerbitan saham baru ini pantas dicermati apakah untuk ekspansi atau justru menambal kebutuhan kas jangka pendek. Yang perlu dipantau berikutnya adalah RUPSLB pada 23 Oktober 2026 yang menentukan apakah rencana ini disetujui pemegang saham, disusul pengumuman harga pelaksanaan yang wajib disampaikan Perseroan paling lambat 5 hari kerja sebelum penerbitan dan hasil akhirnya paling lambat 2 hari kerja setelahnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-15-58",

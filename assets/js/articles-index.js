@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "laba-bersih-medc-melonjak-ke-us-287-6-juta-pada-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba Bersih MEDC [Melonjak] ke US$287,6 Juta pada Semester I 2026",
+  "deck": "MedcoEnergi (MEDC) mencatat laba bersih US$287,6 juta pada semester I 2026, melonjak dari US$36,1 juta tahun sebelumnya, ditopang produksi migas dan kontribusi Amman Mineral.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "laba bersih",
+   "minyak dan gas",
+   "Amman Mineral"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260921165840-64414-0/FinancialStatement-2026-II-MEDC.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cani-ungkap-identitas-pembeli-kapal-tunda-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "CANI ungkap identitas [pembeli] kapal tunda ke BEI",
+  "deck": "CANI menanggapi permintaan penjelasan BEI soal penjualan kapal tunda QAL Ranger, mengungkap identitas pembeli PT Lestari Lautan Mulia dan meminta perpanjangan waktu hingga 24 September 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CANI",
+   "keterbukaan informasi",
+   "BEI",
+   "penjualan aset"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11b5bfae26_cad26f168e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-restrukturisasi-obligasi-efektif-kupon-turun-ke-5",
+  "category": "Aksi Korporasi",
+  "title": "WSKT [Restrukturisasi] Obligasi Efektif, Kupon Turun ke 5%",
+  "deck": "WSKT dan wali amanat PT Bank Mega resmi mengubah perjanjian obligasi Seri B, jatuh tempo mundur ke 2034 dan kupon turun jadi 5 persen, efektif 17 September 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "obligasi",
+   "restrukturisasi utang",
+   "wali amanat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a547f3f4ad_8febaaaa51.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vast-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "VAST Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
+  "deck": "Merespons surat permintaan penjelasan BEI, Vastland Indonesia menyatakan tidak ada informasi material yang belum diungkap dan tidak ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VAST",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0b21cb57b8_d99f2f038e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "freeport-ungkap-130-spesies-baru-di-ekosistem-papua",
   "category": "Industri",
   "title": "Freeport Ungkap [130] Spesies Baru di Ekosistem Papua",
@@ -604,6 +668,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468420-dorong-penerapan-e50-menteri-esdm-bahlil-sebut-ri-berpeluang-tak-lagi-impor-bensin-jadi"
+ },
+ {
+  "slug": "ppgl-rinci-rencana-pmthmetd-77-juta-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Rinci Rencana [PMTHMETD] 77 Juta Saham Baru",
+  "deck": "PPGL merilis keterbukaan informasi rinci soal rencana penerbitan hingga 77.117.802 saham baru tanpa hak memesan efek terlebih dahulu, dengan RUPSLB dijadwalkan 23 Oktober 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "PMTHMETD",
+   "rights issue",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b217cbc52_5cce030f7a.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-15-58",
@@ -6419,87 +6499,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-7881-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-beber-rencana-private-placement-dan-akuisisi-di-2027",
-  "category": "Aksi Korporasi",
-  "title": "RATU Beber Rencana Private Placement dan Akuisisi di [2027]",
-  "deck": "Dalam public expose, manajemen RATU memaparkan penggunaan dana private placement hingga 10% saham dan target akuisisi minimal satu aset pada 2027.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "private placement",
-   "akuisisi migas",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eee1833801_bca286592b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-lepas-1-18-miliar-saham-suara-ke-20-42",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi [Lepas] 1,18 Miliar Saham, Suara ke 20,42%",
-  "deck": "Seorang direksi NSSS melepas 1,18 miliar saham lewat repo pada 14 September 2026, menurunkan hak suaranya dari 25,40% menjadi 20,42%.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-1947-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-lagi-ke-rp2-592-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Lagi ke Rp2.592.000/Gram",
-  "deck": "Harga emas Antam hari ini turun Rp10.000 menjadi Rp2.592.000 per gram, sementara harga buyback ikut turun ke Rp2.437.000 per gram.",
-  "date": "15 September 2026",
-  "image": "assets/img/harga-emas-antam-turun-lagi-ke-rp2-592-000-gram.jpg",
-  "imageV": "mu24r5qz",
-  "tags": [
-   "emas",
-   "harga emas",
-   "Antam",
-   "investasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467163-terpantau-turun-lagi-harga-emas-antam-hari-ini-15-september-2026-rp2592000-per-gram"
- },
- {
-  "slug": "rlco-direksi-beli-balik-29-6-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Beli Balik 29,6 Juta Saham Lewat [Repo]",
-  "deck": "Direksi RLCO membeli balik 29,6 juta saham lewat perjanjian repo pada 14 September 2026, mengembalikan hak suaranya dari 5,62% menjadi 6,57%.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan saham",
-   "repo",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-7799-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bksl-saham-direksi-bertambah-2-87-miliar-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "BKSL: Saham Direksi Bertambah 2,87 Miliar via [Repo]",
-  "deck": "Direksi BKSL menambah 2,87 miliar saham lewat transaksi repurchase agreement pada 14 September 2026, mengerek hak suaranya dari 3,65 menjadi 5,36 persen.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKSL",
-   "Sentul City",
-   "kepemilikan saham",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-1521-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

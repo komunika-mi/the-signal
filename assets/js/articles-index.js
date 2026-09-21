@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "safe-pengendali-jual-294-300-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "SAFE: Pengendali Jual 294.300 Saham Lewat [Repo]",
+  "deck": "Infiniti Wahana, pengendali Steady Safe, melepas 294.300 saham SAFE senilai Rp1.270 per lembar lewat skema repo, hak suara nyaris tak berubah.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAFE",
+   "Steady Safe",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7514-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "safe-pengendali-jual-188-600-saham-lewat-repo-suara-ke-56-59",
+  "category": "Aksi Korporasi",
+  "title": "SAFE: Pengendali Jual 188.600 Saham Lewat [Repo], Suara ke 56,59%",
+  "deck": "Infiniti Wahana melepas 188.600 saham Steady Safe lewat repurchase agreement pada 17 September, hak suara pengendali turun tipis ke 56,59%.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAFE",
+   "Steady Safe",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-1402-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pyfa-gelar-rupo-obligasi-berkelanjutan-i-pada-19-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "PYFA Gelar RUPO Obligasi [Berkelanjutan] I pada 19 Oktober 2026",
+  "deck": "Pyridam Farma menjadwalkan Rapat Umum Pemegang Obligasi untuk Obligasi Berkelanjutan I Tahap I Tahun 2022 pada 19 Oktober 2026 di Jakarta, tanpa mencantumkan agenda rapat.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PYFA",
+   "obligasi",
+   "RUPO",
+   "Pyridam Farma"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4f02c39a34_76114fb83b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tcpi-kepemilikan-cgs-international-naik-ke-5-09-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "TCPI: Kepemilikan CGS International Naik ke [5,09%] Lewat Repo",
+  "deck": "CGS International Sekuritas Indonesia melaporkan penambahan 14,4 juta saham TCPI sebagai jaminan repo, mengangkat hak suaranya dari 4,79% menjadi 5,09% dan melewati ambang wajib lapor 5%.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TCPI",
+   "kepemilikan saham",
+   "repo saham",
+   "CGS International"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-9960-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-direksi-doni-mora-jual-lagi-saham-rp53-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi Doni Mora Jual [Lagi] Saham Rp53,5 Juta",
+  "deck": "Direksi ITSEC Asia (CYBR), Doni Mora, kembali menjual saham, 100.000 lembar senilai Rp53,5 juta pada 18 September 2026, tanpa mengubah hak suaranya yang tetap 0,033%.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "transaksi saham direksi",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0586-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-direksi-asing-borong-saham-lagi-rp370-juta",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi Asing [Borong] Saham Lagi Rp370 Juta",
+  "deck": "Patrick Rudolf Dannacher, direksi ITSEC Asia, kembali membeli 706.700 saham CYBR senilai sekitar Rp370 juta dalam 11 transaksi pada 14-18 September 2026, melanjutkan aksi beli pekan sebelumnya.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-1557-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cpin-ubs-tambah-3-2-juta-saham-via-repurchase-agreement",
+  "category": "Aksi Korporasi",
+  "title": "CPIN: UBS Tambah 3,2 Juta Saham via [Repurchase Agreement]",
+  "deck": "UBS AG London menambah kepemilikan saham CPIN sebanyak 3,2 juta lembar lewat perjanjian pembelian kembali untuk lindung nilai transaksi derivatif nasabahnya.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CPIN",
+   "UBS",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2312-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgli-bantah-ada-info-material-soal-lonjakan-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PGLI Bantah Ada Info Material soal [Lonjakan] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta penjelasan PGLI setelah harga dan transaksi sahamnya melonjak pada 16 September 2026, perseroan menyatakan tidak mengetahui penyebabnya.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGLI",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6915255ac7_6b94824fe9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "asean-godok-peta-jalan-semikonduktor-dan-koridor-kalimantan",
   "category": "Global",
   "title": "ASEAN Godok Peta Jalan [Semikonduktor] dan Koridor Kalimantan",
@@ -119,6 +247,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-4729-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ketr-direksi-kuasai-1-70-saham-via-transaksi-repo",
+  "category": "Aksi Korporasi",
+  "title": "KETR: Direksi Kuasai [1,70%] Saham via Transaksi Repo",
+  "deck": "Direktur KETR Dani Samsul Ependi kini memiliki 48,3 juta saham perseroan senilai sekitar Rp9,66 miliar lewat transaksi repurchase agreement tidak langsung pada 17 September 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "kepemilikan saham",
+   "direksi",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7205-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -282,6 +426,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-transisi-hijau-buka-peluang-baru-bagi-tenaga-kerja",
   "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "hexa-jadwalkan-dividen-tunai-us-11-19-juta-bayar-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "HEXA Jadwalkan [Dividen] Tunai US$11,19 Juta, Bayar 21 Oktober",
+  "deck": "Hexindo Adiperkasa menetapkan jadwal pembayaran dividen tunai tahun buku 2025 senilai US$11,19 juta, dengan tanggal pencatatan pemegang saham 29 September dan pembayaran 21 Oktober 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEXA",
+   "dividen",
+   "Hexindo Adiperkasa",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54b224f129_540743fd54.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bps-rilis-kbji-2026-gantikan-standar-jabatan-2014",
@@ -6338,168 +6498,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2a09ce3670_6cee856ff1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "intd-belum-punya-rencana-pasti-penuhi-free-float-minimum",
-  "category": "Aksi Korporasi",
-  "title": "INTD Belum Punya Rencana Pasti Penuhi [Free Float] Minimum",
-  "deck": "INTD menjawab teguran bursa soal syarat minimum saham beredar bebas hanya dengan janji akan mengupayakannya secepatnya, tanpa target waktu atau angka pasti.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INTD",
-   "free float",
-   "Bursa Efek Indonesia",
-   "kepatuhan emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fd4c67348e_2e953f86e6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sido-bukukan-laba-rp334-miliar-semester-i-ekspor-naik-28",
-  "category": "Aksi Korporasi",
-  "title": "SIDO Bukukan Laba Rp334 Miliar Semester I, Ekspor [Naik 28%]",
-  "deck": "Dalam public expose tahunan, manajemen SIDO memaparkan laba bersih semester I 2026 sebesar Rp334 miliar dan penjualan ekspor tumbuh 28 persen dari tahun lalu.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SIDO",
-   "Sido Muncul",
-   "public expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58f38a0332_e593fc397d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tcpi-resmi-angkat-ade-supandi-jadi-komisaris-utama",
-  "category": "Aksi Korporasi",
-  "title": "TCPI Resmi Angkat Ade Supandi Jadi [Komisaris Utama]",
-  "deck": "RUPSLB TCPI menyetujui Ade Supandi sebagai Komisaris Utama dan Haru Koesmahargyo sebagai Komisaris Independen dengan dukungan 99,999 persen suara pemegang saham yang hadir.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TCPI",
-   "RUPSLB",
-   "Komisaris",
-   "Tata Kelola Perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8e6553132_c5ca9f7bcb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jsmr-bukukan-pertumbuhan-ebitda-8-1-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "JSMR Bukukan Pertumbuhan [EBITDA] 8,1% di Semester I 2026",
-  "deck": "Public expose 9 September 2026: Jasa Marga catat pendapatan usaha naik 7,6% dan EBITDA tumbuh 8,1% pada semester I 2026, dengan rasio utang tetap jauh di bawah batas kreditur.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JSMR",
-   "Jasa Marga",
-   "kinerja keuangan",
-   "jalan tol"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/17412e83d2_64b9fbf516.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kek-industropolis-batang-genjot-investasi-manufaktur-hijau",
-  "category": "Industri",
-  "title": "KEK Industropolis Batang Genjot Investasi [Manufaktur] Hijau",
-  "deck": "Forum investasi Jawa Tengah 2026 membawa calon investor mengunjungi KEK Industropolis Batang, kawasan seluas 4.300 hektare yang disiapkan untuk industri manufaktur maju dan energi hijau.",
-  "date": "14 September 2026",
-  "image": "assets/img/kek-industropolis-batang-genjot-investasi-manufaktur-hijau.jpg",
-  "imageV": "mu1148kk",
-  "tags": [
-   "KEK Batang",
-   "investasi",
-   "Jawa Tengah",
-   "industri manufaktur"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467016-investor-high-tech-mulai-masuk-kek-industropolis-batang-tawarkan-ekosistem-industri-masa-depan"
- },
- {
-  "slug": "heal-direksi-beli-75-000-saham-rp51-juta",
-  "category": "Aksi Korporasi",
-  "title": "HEAL: Direksi [Beli] 75.000 Saham Rp51 Juta",
-  "deck": "Direksi Medikaloka Hermina (HEAL) menambah 75.000 saham senilai sekitar Rp51 juta pada 8 September 2026, namun porsi kepemilikannya di perusahaan tetap sangat kecil.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEAL",
-   "Medikaloka Hermina",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-5158-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-championship-2026-27-resmi-bergulir",
-  "category": "BUMN",
-  "title": "Pegadaian [Championship] 2026/27 Resmi Bergulir",
-  "deck": "Pegadaian resmi jadi sponsor utama Pegadaian Championship musim 2026/27 untuk tahun keempat berturut-turut, dimulai dari laga PSIS Semarang vs PSPS Pekanbaru.",
-  "date": "14 September 2026",
-  "image": "assets/img/pegadaian-championship-2026-27-resmi-bergulir.jpg",
-  "imageV": "mu1148yz",
-  "tags": [
-   "Pegadaian Championship",
-   "PT Pegadaian",
-   "I.League",
-   "sponsorship BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467007-pegadaian-championship-musim-202627-resmi-digelar-bukti-komitmen-pegadaian-tak-henti-dukung-generasi-muda-lewat-sepak-bola-nasional"
- },
- {
-  "slug": "lapd-jawab-bursa-rights-issue-rp100-m-harga-rp50-saham",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Jawab Bursa: Rights Issue Rp100 M, Harga [Rp50]/Saham",
-  "deck": "Leyand International merinci rencana rights issue ke BEI: harga pelaksanaan Rp50 per saham, dana dipakai akuisisi PT BSS lewat setoran aset dari pengendali JSI Sinergi Mas.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "rights issue",
-   "PMHMETD",
-   "Leyand International"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/40ad8664c8_88cd27a1e7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-edwin-soeryadjaya-tambah-kepemilikan-saham",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Edwin Soeryadjaya [tambah] kepemilikan saham",
-  "deck": "Komisaris SRTG Edwin Soeryadjaya membeli 1.018.100 saham dalam dua transaksi pada 10-11 September 2026, hak suaranya naik tipis menjadi 35,93 persen.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Saratoga Investama Sedaya",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-2267-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vico-jawab-permintaan-bei-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "VICO Jawab Permintaan BEI soal [Volatilitas] Saham",
-  "deck": "PT Victoria Investama menyatakan tidak ada informasi material atau rencana korporasi yang memicu pergerakan tak biasa pada transaksi sahamnya, menyusul permintaan penjelasan dari BEI.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICO",
-   "Victoria Investama",
-   "BEI",
-   "volatilitas transaksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ca9588eee_4f6f230246.pdf",
   "sourceLabel": "IDX"
  }
 ];

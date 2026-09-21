@@ -3,6 +3,212 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "safe-pengendali-jual-294-300-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "SAFE: Pengendali Jual 294.300 Saham Lewat [Repo]",
+  "deck": "Infiniti Wahana, pengendali Steady Safe, melepas 294.300 saham SAFE senilai Rp1.270 per lembar lewat skema repo, hak suara nyaris tak berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T14:53:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7514-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SAFE",
+  "tags": [
+   "SAFE",
+   "Steady Safe",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "body": [
+   "Infiniti Wahana, pemegang saham pengendali Steady Safe Tbk (SAFE), melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya menjual 294.300 lembar saham SAFE pada 18 September 2026 dengan harga Rp1.270 per lembar. Transaksi ini tercatat dengan jenis repurchase agreement atau repo, yaitu penjualan saham disertai komitmen membeli kembali di kemudian hari, cara yang lazim dipakai untuk mendapatkan dana tunai dengan saham sebagai jaminan tanpa harus melepas kepemilikan secara permanen.",
+   "Setelah transaksi ini, jumlah saham SAFE yang dipegang Infiniti Wahana berkurang dari 464.750.613 lembar menjadi 464.456.313 lembar, persis sebesar 294.300 lembar yang dijual. Hak suaranya di perusahaan turun tipis dari 56,59 persen menjadi 56,56 persen. Laporan disampaikan sesuai kewajiban Peraturan OJK Nomor 4/2024 tentang laporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka.",
+   "Ini merupakan laporan kedua dari Infiniti Wahana ke bursa pada hari yang sama, setelah sebelumnya juga melaporkan penambahan 100.200 saham SAFE yang membawa hak suaranya sempat naik ke 56,57 persen. Dengan dua laporan ini, terlihat Infiniti Wahana aktif melakukan transaksi kecil atas saham SAFE dalam waktu berdekatan, namun total perubahan kepemilikannya tetap tipis dibanding total saham yang dipegang."
+  ],
+  "fotoAdegan": "Rows of parked sedan taxis in a company depot yard, drivers checking vehicles, early morning light in Jakarta",
+  "takeaway": "Netral bagi Steady Safe, karena penjualan 294.300 saham ini cuma sekitar 0,06 persen dari total kepemilikan Infiniti Wahana dan hak suaranya nyaris tak bergeser, dari 56,59 persen jadi 56,56 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal pengendali mulai menjauh dari perusahaan. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham pengendali, bukan pos di laporan keuangan seperti ekuitas atau laba per saham, sebab transaksi terjadi antar pemegang saham di pasar sekunder, bukan penerbitan saham baru oleh perusahaan. Skema repo yang dipakai berarti Infiniti Wahana pada dasarnya meminjam dana dengan saham sebagai jaminan dan berkomitmen membeli kembali belakangan, jadi bukan pelepasan permanen. Yang perlu dipantau selanjutnya adalah apakah Infiniti Wahana akan menuntaskan pembelian kembali sesuai skema repo ini, dan apakah akan ada laporan transaksi susulan mengingat dalam sehari ini saja sudah ada dua laporan berbeda dari pihak yang sama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "safe-pengendali-jual-188-600-saham-lewat-repo-suara-ke-56-59",
+  "category": "Aksi Korporasi",
+  "title": "SAFE: Pengendali Jual 188.600 Saham Lewat [Repo], Suara ke 56,59%",
+  "deck": "Infiniti Wahana melepas 188.600 saham Steady Safe lewat repurchase agreement pada 17 September, hak suara pengendali turun tipis ke 56,59%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T14:49:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-1402-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SAFE",
+  "tags": [
+   "SAFE",
+   "Steady Safe",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "body": [
+   "Infiniti Wahana, pemegang saham pengendali Steady Safe Tbk (SAFE), melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya menjual 188.600 lembar saham SAFE pada 17 September 2026 dengan harga Rp1.160 per saham. Transaksi ini dilakukan lewat mekanisme repurchase agreement atau repo, yaitu penjualan saham dengan kesepakatan untuk dibeli kembali di kemudian hari, dan statusnya tercatat sebagai kepemilikan tidak langsung.",
+   "Setelah transaksi tersebut, jumlah saham SAFE yang dikuasai Infiniti Wahana berkurang dari 464.939.213 lembar menjadi 464.750.613 lembar. Hak suaranya di perseroan turun tipis dari 56,62 persen menjadi 56,59 persen. Dibandingkan total kepemilikannya, saham yang dilepas kali ini hanya sekitar 0,04 persen, sehingga porsi saham yang dikuasai Infiniti Wahana praktis tidak banyak berubah.",
+   "Laporan ini merupakan laporan kepemilikan ketiga dari Infiniti Wahana dalam sepekan terakhir. Sebelumnya, pada hari yang sama, pihak ini juga melaporkan penjualan 294.300 saham lewat repo dan penambahan 100.200 saham, yang membuat hak suaranya sempat bergerak naik turun tipis di kisaran 56,5 persen hingga 56,6 persen."
+  ],
+  "fotoAdegan": "Fleet of taxi sedans parked in a depot yard at dusk, drivers checking vehicles before their shift",
+  "takeaway": "Netral bagi Steady Safe, karena saham yang dijual cuma sekitar 0,04 persen dari kepemilikan Infiniti Wahana dan hak suaranya nyaris tidak bergeser dari 56,62 menjadi 56,59 persen. Yang tersentuh di sini adalah hak suara pengendali dan komposisi saham beredar, bukan kondisi keuangan perseroan, dan repo sendiri artinya saham dijual dengan janji dibeli kembali nanti, cara yang lazim dipakai pemegang saham besar untuk mendapat dana tunai jangka pendek dengan menjaminkan sahamnya. Yang perlu dicermati adalah apakah rangkaian transaksi repo kecil-kecil dari Infiniti Wahana ini terus berlanjut di laporan-laporan berikutnya, karena pola berulang semacam ini bisa jadi sinyal pengendali sedang aktif mengelola kebutuhan likuiditas jangka pendeknya lewat saham SAFE.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pyfa-gelar-rupo-obligasi-berkelanjutan-i-pada-19-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "PYFA Gelar RUPO Obligasi [Berkelanjutan] I pada 19 Oktober 2026",
+  "deck": "Pyridam Farma menjadwalkan Rapat Umum Pemegang Obligasi untuk Obligasi Berkelanjutan I Tahap I Tahun 2022 pada 19 Oktober 2026 di Jakarta, tanpa mencantumkan agenda rapat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T14:31:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4f02c39a34_76114fb83b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PYFA",
+  "tags": [
+   "PYFA",
+   "obligasi",
+   "RUPO",
+   "Pyridam Farma"
+  ],
+  "body": [
+   "PT Pyridam Farma Tbk (PYFA) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Obligasi (RUPO) untuk instrumen Obligasi Berkelanjutan I Pyridam Farma Tahap I Tahun 2022. Rapat dijadwalkan berlangsung pada Senin, 19 Oktober 2026, pukul 10.00 WIB, bertempat di Sinar Mas Land Plaza Sudirman, Lantai 12, Jalan Jenderal Sudirman Kavling 21, Jakarta Selatan.",
+   "Pemberitahuan ini disampaikan melalui surat bernomor 238/PYFA-CS/IX/2026 tertanggal 21 September 2026, ditandatangani secara elektronik oleh Herdiasti Anggitya Dwisani selaku Corporate Secretary Pyridam Farma. Dalam dokumen resmi tersebut, kolom agenda dan jenis rapat justru dikosongkan, sehingga belum diketahui perkara spesifik apa yang akan dimintakan persetujuan kepada pemegang obligasi dalam pertemuan ini.",
+   "Rapat pemegang obligasi seperti ini lazimnya digelar wali amanat dan penerbit untuk membahas hal-hal seperti perubahan syarat dan ketentuan obligasi, permintaan pengesampingan atas suatu klausul perjanjian, penggantian wali amanat, atau penyesuaian jadwal pembayaran. Namun karena agenda belum dicantumkan dalam pemberitahuan tanggal 21 September 2026 ini, pemegang obligasi PYFA perlu menunggu pengumuman lanjutan sebelum tanggal rapat untuk mengetahui materi yang sesungguhnya akan dibahas."
+  ],
+  "fotoAdegan": "Exterior of a modern glass high-rise office tower in Jakarta's Sudirman business district, street-level view at midday",
+  "takeaway": "Laporan ini netral bagi emiten karena pemberitahuan RUPO belum mencantumkan agenda spesifik, sehingga belum ada dasar untuk menyimpulkan apakah pertemuan ini menyangkut masalah keuangan atau sekadar mekanisme administratif rutin sesuai perjanjian perwaliamanatan. Yang berpotensi tersentuh adalah pos arus kas dan beban bunga PYFA, sebab RUPO umumnya dipanggil ketika ada usulan perubahan skema pembayaran pokok atau bunga obligasi, dan pelaku pasar biasa mencermati pos ini karena menyangkut kemampuan perusahaan membayar kewajibannya tepat waktu. Yang perlu dipantau berikutnya adalah pengumuman agenda resmi RUPO sebelum pelaksanaan, serta hasil rapat itu sendiri pada 19 Oktober 2026, karena keputusan yang diambil pemegang obligasi pada tanggal tersebut akan menentukan apakah ada perubahan pada kewajiban obligasi PYFA ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tcpi-kepemilikan-cgs-international-naik-ke-5-09-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "TCPI: Kepemilikan CGS International Naik ke [5,09%] Lewat Repo",
+  "deck": "CGS International Sekuritas Indonesia melaporkan penambahan 14,4 juta saham TCPI sebagai jaminan repo, mengangkat hak suaranya dari 4,79% menjadi 5,09% dan melewati ambang wajib lapor 5%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T14:10:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-9960-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TCPI",
+  "tags": [
+   "TCPI",
+   "kepemilikan saham",
+   "repo saham",
+   "CGS International"
+  ],
+  "body": [
+   "CGS International Sekuritas Indonesia melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di PT Transcoal Pacific Tbk (TCPI) bertambah dari 239.965.400 lembar menjadi 254.365.400 lembar, atau naik 14.400.000 lembar setara 6,0009 persen dari kepemilikan sebelumnya. Dengan tambahan ini, hak suara CGS International di TCPI naik dari 4,79 persen menjadi 5,09 persen, melewati ambang 5 persen yang mewajibkan pelaporan rutin kepemilikan saham perusahaan terbuka sesuai POJK 4/2024.",
+   "Dalam rincian transaksi yang dilampirkan, jenis transaksinya tercatat sebagai Repurchase Agreement (repo) dengan tujuan penambahan jaminan saham REPO. Sebanyak 15.000.000 lembar saham biasa TCPI, dengan harga Rp1.705 per saham, dicatatkan sebagai transaksi pada 17 September 2026, berstatus kepemilikan langsung. Laporan juga menegaskan bahwa CGS International bukan anggota direksi maupun dewan komisaris TCPI, sehingga pelaporan ini murni terkait posisi lembaga tersebut sebagai pemegang saham publik."
+  ],
+  "fotoAdegan": "Brokers exchanging stacks of paperwork at a busy Jakarta stock brokerage counter, documents blurred, afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental TCPI, karena transaksi repo semacam ini adalah mekanisme pembiayaan berbasis jaminan saham antara pemegang saham dan sekuritas, bukan aksi korporasi yang mengubah kas, utang, atau laba perusahaan. Pos yang tersentuh bukan ekuitas atau laba per saham TCPI, melainkan peta pemegang saham, yaitu siapa saja yang memegang hak suara signifikan dan berpotensi memengaruhi keputusan dalam RUPS, dan di sinilah CGS International kini resmi masuk kategori pemegang saham di atas 5 persen yang wajib lapor rutin. Yang perlu dipantau berikutnya adalah apakah CGS International menambah lagi kepemilikannya atau justru melepasnya begitu jaminan repo ini jatuh tempo atau dilunasi, karena pergerakan lanjutan itu akan tampak dari laporan kepemilikan berikutnya ke bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cybr-direksi-doni-mora-jual-lagi-saham-rp53-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi Doni Mora Jual [Lagi] Saham Rp53,5 Juta",
+  "deck": "Direksi ITSEC Asia (CYBR), Doni Mora, kembali menjual saham, 100.000 lembar senilai Rp53,5 juta pada 18 September 2026, tanpa mengubah hak suaranya yang tetap 0,033%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T13:58:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0586-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "transaksi saham direksi",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Doni Mora, anggota Direksi PT ITSEC Asia Tbk (CYBR), melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 100.000 saham perusahaan secara tidak langsung pada 18 September 2026. Transaksi dilakukan pada harga Rp535 per saham, sehingga total nilainya sekitar Rp53,5 juta. Tujuan transaksi tercatat sebagai investasi lainnya.",
+   "Dengan penjualan ini, kepemilikan Doni Mora turun dari 4.509.300 saham menjadi 4.409.300 saham, atau berkurang sekitar 2,22 persen dari jumlah yang ia pegang sebelumnya. Meski begitu, hak suaranya di ITSEC Asia tidak berubah, tetap di angka 0,033% baik sebelum maupun sesudah transaksi, karena porsi kepemilikannya terhadap total saham beredar perusahaan memang kecil.",
+   "Laporan ini merupakan penjualan kedua oleh Doni Mora dalam kurang dari sepekan terakhir, setelah sebelumnya ia juga melepas saham senilai sekitar Rp27,5 juta."
+  ],
+  "fotoAdegan": "Wide shot of a modern glass office tower facade in Jakarta's financial district at dusk, soft reflected city lights, no visible signage",
+  "takeaway": "Laporan ini netral bagi ITSEC Asia karena skala penjualannya kecil, hanya Rp53,5 juta dan sekitar 2,22 persen dari kepemilikan pribadi Doni Mora, sementara hak suaranya di perusahaan tidak bergeser sama sekali. Hak suara menunjukkan seberapa besar pengaruh seorang pemegang saham atas keputusan perusahaan, dan karena angka 0,033% itu tetap sama sebelum maupun sesudah transaksi, penjualan ini tidak mengubah posisi Doni Mora dalam struktur pengendalian perusahaan. Yang perlu dicermati adalah polanya, sebab ini sudah transaksi kedua Doni Mora melepas saham dalam waktu kurang dari sepekan, sehingga pemegang saham publik sebaiknya memantau apakah pelepasan bertahap semacam ini berlanjut di laporan-laporan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cybr-direksi-asing-borong-saham-lagi-rp370-juta",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi Asing [Borong] Saham Lagi Rp370 Juta",
+  "deck": "Patrick Rudolf Dannacher, direksi ITSEC Asia, kembali membeli 706.700 saham CYBR senilai sekitar Rp370 juta dalam 11 transaksi pada 14-18 September 2026, melanjutkan aksi beli pekan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T13:48:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-1557-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direktur PT ITSEC Asia Tbk (CYBR) yang berkewarganegaraan asing, Patrick Rudolf Dannacher, melaporkan penambahan kepemilikan saham perusahaan kepada Otoritas Jasa Keuangan pada 21 September 2026. Berdasarkan laporan itu, jumlah saham yang dipegangnya naik dari 96.466.500 lembar menjadi 97.173.200 lembar, bertambah 706.700 lembar atau sekitar 0,73 persen dari kepemilikannya sebelum transaksi. Hak suaranya di perusahaan turut naik tipis dari 0,715 persen menjadi 0,72 persen.",
+   "Penambahan ini berasal dari 11 transaksi pembelian tidak langsung atas saham biasa CYBR yang dilakukan bertahap antara 14 dan 18 September 2026, dengan harga bervariasi antara Rp510 dan Rp535 per saham. Transaksi terbesar terjadi pada 18 September sebanyak 200.200 lembar seharga Rp520 per saham, sementara transaksi lain berkisar dari 100 lembar hingga 150.300 lembar. Seluruh transaksi tercatat dengan tujuan investasi, dengan total nilai pembelian sekitar Rp369,9 juta.",
+   "Pembelian ini menyambung aksi serupa yang sudah dilaporkan pekan sebelumnya, saat Dannacher tercatat membeli saham CYBR senilai sekitar Rp1,6 miliar dalam 17 transaksi terpisah. Dengan tambahan terbaru ini, direksi asing tersebut sudah melakukan sedikitnya 28 transaksi pembelian saham CYBR dalam waktu kurang dari dua pekan."
+  ],
+  "fotoAdegan": "Technicians working among server racks in a dim data center, blue status lights blinking, Jakarta technology office",
+  "takeaway": "Laporan ini condong positif bagi ITSEC Asia karena mencerminkan kelanjutan pola pembelian, bukan penjualan, oleh direksi asingnya dalam waktu singkat. Yang tersentuh di sini adalah hak suara pelapor dalam rapat pemegang saham, yang naik tipis dari 0,715 persen menjadi 0,72 persen, sementara jumlah total saham beredar ITSEC Asia sendiri tidak berubah karena ini transaksi pembelian di pasar, bukan penerbitan saham baru. Nilai pembelian pekan ini, sekitar Rp369,9 juta, sebenarnya kecil dibanding total kepemilikan sang direktur sehingga sulit dibaca sebagai sinyal besar sendirian, tetapi digabung dengan pembelian sekitar Rp1,6 miliar pekan sebelumnya, totalnya mendekati Rp2 miliar dalam kurang dari dua pekan, pola yang lebih meyakinkan ketimbang satu transaksi tunggal. Yang perlu dipantau berikutnya adalah apakah laporan kepemilikan KSEI dari Dannacher pada pekan-pekan mendatang masih menunjukkan tren beli yang sama atau berhenti di titik ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cpin-ubs-tambah-3-2-juta-saham-via-repurchase-agreement",
+  "category": "Aksi Korporasi",
+  "title": "CPIN: UBS Tambah 3,2 Juta Saham via [Repurchase Agreement]",
+  "deck": "UBS AG London menambah kepemilikan saham CPIN sebanyak 3,2 juta lembar lewat perjanjian pembelian kembali untuk lindung nilai transaksi derivatif nasabahnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T13:43:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2312-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CPIN",
+  "tags": [
+   "CPIN",
+   "UBS",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "body": [
+   "UBS AG LDN Branch A/C Client, investor berkewarganegaraan asing yang tercatat sebagai bagian dari grup Credit Suisse International, Credit Suisse Securities (Europe), UBS AG Hong Kong, UBS AG Singapore, dan UBS Switzerland AG, melaporkan penambahan kepemilikan saham Charoen Pokphand Indonesia Tbk (CPIN) kepada Otoritas Jasa Keuangan pada 21 September 2026. Penambahan dilakukan secara tidak langsung melalui skema repurchase agreement pada 16 September 2026, sebanyak 3.206.900 lembar saham biasa dengan harga Rp3.138 per saham. UBS menyebut tujuan transaksi adalah membeli saham untuk lindung nilai atas aktivitas perdagangan derivatif nasabahnya.",
+   "Dengan tambahan itu, jumlah saham CPIN yang dikuasai UBS naik dari 983.805.847 lembar menjadi 987.012.747 lembar. Hak suara UBS di CPIN pun bergeser dari 5,9995 persen menjadi 6,0191 persen, melewati ambang 6 persen. Volume yang ditambahkan setara 0,33 persen dari kepemilikan UBS sendiri sebelum transaksi."
+  ],
+  "fotoAdegan": "Financial district office workers at trading desks with blurred computer monitors, Jakarta skyline through windows, soft morning light",
+  "takeaway": "Laporan ini netral bagi CPIN, karena volume yang ditambah UBS hanya 0,33 persen dari kepemilikan mereka sendiri, terlalu kecil untuk dibaca sebagai sinyal soal prospek perusahaan, apalagi transaksinya berupa lindung nilai derivatif, bukan taruhan arah harga. Yang tersentuh di sini cuma peta hak suara pemegang saham, bukan pos kinerja CPIN seperti ekuitas atau laba per saham, sebab transaksi ini terjadi di pasar sekunder antar investor dan tidak menambah jumlah saham beredar perusahaan. Pelaku pasar tetap mencatat pergerakan ini karena UBS kini melewati ambang batas kepemilikan 6 persen, sehingga perubahan lanjutan pada posisi mereka wajib dilaporkan lagi ke bursa jika terjadi. Yang perlu dipantau adalah apakah UBS akan terus menambah posisi dalam laporan-laporan berikutnya, mengingat kelompok yang sama tercatat aktif bertransaksi saham CPIN dalam sepekan terakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgli-bantah-ada-info-material-soal-lonjakan-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PGLI Bantah Ada Info Material soal [Lonjakan] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta penjelasan PGLI setelah harga dan transaksi sahamnya melonjak pada 16 September 2026, perseroan menyatakan tidak mengetahui penyebabnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T13:26:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6915255ac7_6b94824fe9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGLI",
+  "tags": [
+   "PGLI",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Pembangunan Graha Lestari Indah Tbk (PGLI) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait lonjakan aktivitas dan harga transaksi sahamnya pada 16 September 2026. Permintaan itu disampaikan bursa melalui surat nomor S-12121/BEI.PP2/09-2026 tertanggal 17 September 2026, dan PGLI meresponsnya lewat surat nomor 164/MDN/PGLI/IX/2026 yang diteken Lukmanul Hakim selaku FA Manager pada 21 September 2026.",
+   "Dalam jawabannya, PGLI menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal sebagaimana diatur POJK Nomor 31/POJK.04/2015, dan menyebut fluktuasi harga sahamnya murni dipengaruhi mekanisme pasar. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan POJK Nomor 4 Tahun 2024 tentang kepemilikan saham, serta belum memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa.",
+   "PGLI menambahkan bahwa perseroan sudah mengonfirmasi langsung kepada pemegang saham utamanya, dan pemegang saham utama tersebut menyatakan belum ada rencana untuk mengubah kepemilikan sahamnya di PGLI. Surat awal yang mendasari permintaan ini, tertanggal 18 September 2026, ditandatangani Animan Hutapea selaku Wakil Presiden Direktur dan ditujukan kepada Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryanto."
+  ],
+  "fotoAdegan": "Facade of a small business hotel on a tropical city street in Medan, motorbikes passing by, midday light, no readable signage",
+  "takeaway": "Penjelasan ini netral bagi fundamental PGLI, sebab isinya hanya penegasan bahwa perseroan tidak mengetahui informasi material apa pun di balik lonjakan transaksi sahamnya pada 16 September 2026, tanpa ada angka keuangan atau rencana korporasi baru yang terungkap. Permintaan semacam ini biasanya muncul ketika harga dan volume saham bergerak jauh dari kebiasaan sehingga bursa mencurigai ada transaksi yang digerakkan spekulasi ketimbang perubahan kinerja perusahaan, dan jawaban PGLI menunjukkan tidak ada perubahan pada sisi bisnis, kepemilikan pengendali, atau rencana aksi korporasi yang bisa menjelaskan pergerakan itu. Perseroan juga menyebut sudah mengonfirmasi ke pemegang saham utama dan belum ada rencana perubahan kepemilikan dari sana. Yang perlu dipantau selanjutnya adalah apakah Bursa Efek Indonesia menaikkan status pengawasan atas saham ini jika volatilitas berlanjut, serta apakah pernyataan soal tidak adanya rencana korporasi dalam tiga bulan ke depan ini tetap konsisten hingga sekitar pertengahan Desember 2026, batas waktu yang disebut sendiri oleh perseroan dalam suratnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "asean-godok-peta-jalan-semikonduktor-dan-koridor-kalimantan",
   "category": "Global",
   "title": "ASEAN Godok Peta Jalan [Semikonduktor] dan Koridor Kalimantan",
@@ -186,6 +392,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Financial district skyscrapers in Jakarta at dusk, glass towers reflecting city lights, traffic streaming on a wide avenue below.",
   "takeaway": "Laporan ini condong netral bagi RLCO, sebab kenaikan kepemilikan Samuel Tumbuh Bersama berasal dari pengembalian saham lewat perjanjian repo, bukan dari pembelian saham baru di pasar terbuka yang biasanya dibaca sebagai bentuk keyakinan direksi terhadap prospek perusahaan. Yang tersentuh di sini murni hak suara dan jumlah saham yang dipegang perorangan, bukan jumlah saham beredar RLCO secara keseluruhan, sehingga tidak ada dana baru yang masuk ke perusahaan maupun perubahan struktur modal emiten. Pelaku pasar tetap memperhatikan pergeseran hak suara individu seperti ini karena bisa menggeser peta kendali internal emiten, apalagi porsi milik Samuel kini naik dari 3,58 persen menjadi 7,42 persen, lebih dari dua kali lipat. Perlu dipantau apakah rangkaian transaksi repo saham RLCO, yang sudah tercatat dua kali dalam sepekan terakhir yakni 29,6 juta saham pada 15 September dan 120 juta saham pada 16 September, masih akan berlanjut dan mengubah komposisi kepemilikan direksi lainnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ketr-direksi-kuasai-1-70-saham-via-transaksi-repo",
+  "category": "Aksi Korporasi",
+  "title": "KETR: Direksi Kuasai [1,70%] Saham via Transaksi Repo",
+  "deck": "Direktur KETR Dani Samsul Ependi kini memiliki 48,3 juta saham perseroan senilai sekitar Rp9,66 miliar lewat transaksi repurchase agreement tidak langsung pada 17 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T11:12:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7205-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "kepemilikan saham",
+   "direksi",
+   "repurchase agreement"
+  ],
+  "body": [
+   "Dani Samsul Ependi SE, anggota Direksi PT Ketrosden Triasmitra Tbk (KETR), melaporkan kepada Otoritas Jasa Keuangan bahwa ia kini memiliki 48.301.257 saham perseroan, naik dari sebelumnya nol saham. Hak suaranya di KETR pun berubah dari 0 persen menjadi 1,70 persen.",
+   "Transaksi tercatat sebagai pembelian tidak langsung lewat skema repurchase agreement, yaitu perjanjian jual beli saham dengan janji dibeli kembali di kemudian hari, yang terjadi pada 17 September 2026 dengan harga Rp200 per saham. Dengan jumlah tersebut, nilai transaksinya sekitar Rp9,66 miliar, dan tujuan yang dicantumkan dalam laporan adalah investasi.",
+   "Jumlah saham yang diterima Dani, yakni 48.301.257 lembar, sama persis dengan jumlah saham yang dilepas pemegang saham mayoritas KETR, Fajar Sejahtera Mandiri Nusantara, lewat skema repo yang dilaporkan pada hari yang sama. Ini menunjukkan kedua laporan kemungkinan merupakan dua sisi dari satu transaksi repo yang sama, di mana Fajar Sejahtera Mandiri Nusantara tetap tercatat sebagai pemegang saham mayoritas."
+  ],
+  "fotoAdegan": "Technicians inspecting fiber optic cable spools at an outdoor telecommunications equipment yard in Indonesia, midday light",
+  "takeaway": "Laporan ini netral bagi KETR, karena pergeseran saham terjadi lewat mekanisme pembiayaan antar pemegang saham lama, bukan dana segar yang masuk ke kas perseroan atau pergantian pengendali. Jumlah saham beredar KETR tidak bertambah sebab ini transaksi atas saham yang sudah ada, bukan penerbitan baru, sehingga laba per saham pemegang saham lain tidak terdilusi. Skema repurchase agreement pada dasarnya adalah saham yang dijual dengan janji dibeli kembali nanti, mirip jaminan pinjaman, sehingga transaksi ini lebih mencerminkan pembiayaan ketimbang keputusan investasi jangka panjang. Yang perlu dipantau berikutnya adalah apakah Fajar Sejahtera Mandiri Nusantara akan melaporkan realisasi pembelian kembali saham sesuai perjanjian repo ini, serta apakah muncul laporan kepemilikan lanjutan dari pihak lain yang terkait skema yang sama.",
   "sentimen": "netral"
  },
  {
@@ -448,6 +680,32 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari acara ini sebenarnya tipis: tidak ada kurikulum baru, anggaran, atau aturan yang diumumkan, isinya adalah penegasan target lama pemerintah, yaitu 5,01 sampai 5,32 juta tenaga kerja hijau pada 2029, disertai imbauan agar pelatihan vokasi digarap bersama industri. Yang berpotensi terdampak adalah peserta pelatihan vokasi, balai pelatihan seperti BBPVP, dan industri kendaraan listrik serta energi terbarukan yang nantinya diharapkan menyerap lulusan. Yang masih kurang untuk bisa membaca ke mana arah kebijakan ini adalah kejelasan siapa yang membiayai perluasan pelatihan, skema keterlibatan industri yang mengikat, dan apakah target 2029 itu punya rencana tahunan yang terukur. Yang perlu dipantau adalah apakah Kemnaker merilis peta jalan atau alokasi program pelatihan hijau secara konkret setelah acara ini, sebab tanpa itu pernyataan target hanya berulang tanpa kemajuan yang bisa diverifikasi."
+ },
+ {
+  "slug": "hexa-jadwalkan-dividen-tunai-us-11-19-juta-bayar-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "HEXA Jadwalkan [Dividen] Tunai US$11,19 Juta, Bayar 21 Oktober",
+  "deck": "Hexindo Adiperkasa menetapkan jadwal pembayaran dividen tunai tahun buku 2025 senilai US$11,19 juta, dengan tanggal pencatatan pemegang saham 29 September dan pembayaran 21 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T06:57:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54b224f129_540743fd54.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEXA",
+  "tags": [
+   "HEXA",
+   "dividen",
+   "Hexindo Adiperkasa",
+   "pasar modal"
+  ],
+  "body": [
+   "Hexindo Adiperkasa Tbk (HEXA) menetapkan jadwal pembagian dividen tunai tahun buku 2025 menyusul hasil Rapat Umum Pemegang Saham Tahunan pada 17 September 2026. Total dividen yang dibagikan sebesar US$11.187.960, setara US$0,013319 per saham, dan seluruhnya dibayarkan sekaligus tanpa ada dividen interim sepanjang tahun buku tersebut.",
+   "Perseroan menetapkan 29 September 2026 pukul 16.00 sebagai batas pencatatan pemegang saham yang berhak menerima dividen. Untuk transaksi di pasar reguler dan pasar negosiasi, tanggal cum dividen jatuh pada 25 September 2026 dan tanggal ex dividen pada 28 September 2026, artinya pembeli saham setelah tanggal ex dividen tidak lagi berhak atas dividen ini. Sementara di pasar tunai, cum dividen jatuh pada 29 September dan ex dividen pada 30 September 2026. Dividen akan dibayarkan paling lambat pada 21 Oktober 2026.",
+   "Dasar perhitungan dividen ini merujuk pada data keuangan per 31 Maret 2026, yaitu laba bersih yang diatribusikan kepada entitas induk sebesar US$11.187.960, saldo laba ditahan yang tidak dibatasi penggunaannya US$4.795.159, dan total ekuitas perseroan US$165.000.120. Dokumen ini ditandatangani secara elektronik oleh Listiana A. Kurniawati selaku Corporate Secretary Hexindo Adiperkasa."
+  ],
+  "fotoAdegan": "Rows of heavy yellow excavators lined up in an equipment dealership yard, workers inspecting machinery, bright daylight",
+  "takeaway": "Laporan ini netral bagi pemegang saham HEXA, karena isinya hanya realisasi jadwal teknis dari keputusan dividen yang sudah disetujui RUPS pekan lalu, bukan perubahan kebijakan atau kejutan baru. Pembagian dividen ini akan mengurangi kas dan ekuitas perusahaan sebesar nilai yang dibayarkan, karena dividen diambil dari laba ditahan, uang perusahaan yang selama ini disimpan dan sebenarnya bisa dipakai untuk operasional atau investasi. Yang perlu dicermati investor adalah tanggal ex dividen di pasar reguler pada 28 September 2026, karena pembelian saham setelah tanggal itu tidak lagi mendapat jatah dividen ini, sementara pencairan dananya baru terjadi pada 21 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "bps-rilis-kbji-2026-gantikan-standar-jabatan-2014",

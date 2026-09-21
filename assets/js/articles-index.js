@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "freeport-ungkap-130-spesies-baru-di-ekosistem-papua",
+  "category": "Industri",
+  "title": "Freeport Ungkap [130] Spesies Baru di Ekosistem Papua",
+  "deck": "Freeport Indonesia memaparkan temuan 130 spesies baru dan 14 tipe ekosistem di wilayah kerjanya dekat Taman Nasional Lorentz, sekaligus menekankan pentingnya data dan kolaborasi untuk konservasi.",
+  "date": "21 September 2026",
+  "image": "assets/img/freeport-ungkap-130-spesies-baru-di-ekosistem-papua.jpg",
+  "imageV": "mubh43b6",
+  "tags": [
+   "Freeport",
+   "Papua",
+   "Konservasi",
+   "Lingkungan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468500-130-spesies-baru-ditemukan-freeport-soroti-pentingnya-data-untuk-jaga-ekosistem-di-papua"
+ },
+ {
   "slug": "wskt-restrukturisasi-obligasi-jatuh-tempo-mundur-ke-2034",
   "category": "Aksi Korporasi",
   "title": "WSKT [Restrukturisasi] Obligasi, Jatuh Tempo Mundur ke 2034",
@@ -19,6 +36,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a6566e08a9_ba7b52190f.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "data-coretax-diklaim-bocor-djp-bantah-ada-kejanggalan",
+  "category": "Teknologi",
+  "title": "Data Coretax Diklaim Bocor, DJP Bantah Ada [Kejanggalan]",
+  "deck": "DJP membantah klaim kebocoran data wajib pajak di sistem Coretax yang viral di media sosial, dan menyebut ada kejanggalan pada data yang beredar.",
+  "date": "21 September 2026",
+  "image": "assets/img/data-coretax-diklaim-bocor-djp-bantah-ada-kejanggalan.jpg",
+  "imageV": "mubh4456",
+  "tags": [
+   "Coretax",
+   "DJP",
+   "kebocoran data",
+   "wajib pajak"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468484-data-coretax-diklaim-bocor-djp-buka-suara-dan-ungkap-kejanggalan"
  },
  {
   "slug": "rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya",
@@ -6466,38 +6500,6 @@ var ARTICLES = [
    "repo saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-1521-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbut-jawab-permintaan-bei-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "CBUT Jawab Permintaan BEI soal [Volatilitas] Saham",
-  "deck": "BEI meminta penjelasan atas pergerakan tak wajar saham CBUT. Perseroan menyatakan tidak ada informasi material maupun rencana aksi korporasi tiga bulan ke depan.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBUT",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83e0eff592_d3c4b15f6a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "idpr-klarifikasi-ke-bursa-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "IDPR Klarifikasi ke Bursa soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "PT Indonesia Pondasi Raya Tbk (IDPR) menjawab permintaan penjelasan BEI atas pergerakan tak biasa transaksi sahamnya, dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IDPR",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fb867c4f27_6c506f1540.pdf",
   "sourceLabel": "IDX"
  }
 ];

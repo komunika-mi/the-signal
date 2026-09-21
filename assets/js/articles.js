@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "freeport-ungkap-130-spesies-baru-di-ekosistem-papua",
+  "category": "Industri",
+  "title": "Freeport Ungkap [130] Spesies Baru di Ekosistem Papua",
+  "deck": "Freeport Indonesia memaparkan temuan 130 spesies baru dan 14 tipe ekosistem di wilayah kerjanya dekat Taman Nasional Lorentz, sekaligus menekankan pentingnya data dan kolaborasi untuk konservasi.",
+  "image": "assets/img/freeport-ungkap-130-spesies-baru-di-ekosistem-papua.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T23:08:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468500-130-spesies-baru-ditemukan-freeport-soroti-pentingnya-data-untuk-jaga-ekosistem-di-papua",
+  "tags": [
+   "Freeport",
+   "Papua",
+   "Konservasi",
+   "Lingkungan"
+  ],
+  "body": [
+   "PT Freeport Indonesia mengungkapkan bahwa wilayah kerjanya di Timika, Papua, yang berdekatan dengan Taman Nasional Lorentz, mencakup 14 tipe ekosistem berbeda dan menjadi tempat ditemukannya 130 spesies baru. Temuan ini disampaikan Koordinator Konservasi dan Pemantauan Keanekaragaman Hayati Freeport Indonesia, Kukuh Indra Kusuma, dalam talkshow bertema pelestarian ekosistem Papua pada acara Katadata SAFE 2026 di Jakarta, Kamis lalu. Ia menekankan bahwa menjaga kelestarian kawasan seluas dan sekompleks itu tidak bisa dilakukan sendirian oleh satu pihak, sekalipun berada di area konsesi perusahaan.",
+   "Menurut Kukuh, tantangan utama datang dari kondisi geografis yang sangat beragam, dengan bentang ketinggian mulai dari permukaan laut hingga 4.200 meter di atas permukaan laut dalam satu kawasan kerja. Ia mencontohkan Timika sebagai wilayah yang unik karena topografinya berubah dari dataran sepanjang 50 kilometer menjadi kawasan sangat terjal, sehingga pengelolaan lingkungan di sana menjadi jauh lebih rumit dibanding daerah dengan kontur seragam. Selain faktor alam, ketersediaan data yang memadai turut menjadi tantangan tersendiri, termasuk dalam kegiatan reboisasi atau penanaman kembali pohon di area yang rusak.",
+   "Freeport menyatakan kebutuhan untuk melibatkan masyarakat lokal, pemerintah daerah, dan pemangku kepentingan lain agar pengelolaan ekosistem dapat berjalan lebih menyeluruh. Pendekatan ini disebut penting mengingat kawasan kerja perusahaan bersinggungan langsung dengan Taman Nasional Lorentz, salah satu kawasan konservasi utama di Papua."
+  ],
+  "fotoAdegan": "Misty highland forest slope in Papua with dense tropical canopy, a narrow dirt trail winding through undergrowth, natural daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/06/15/666d35131ca51-foto-udara-pelabuhan-amamapare-timika-papua-yang-menjadi-pusat-lokasi-kegiatan-ekspor-pt-freeport-indonesia-dimana-bijih-mineral-yang-ditambang-akan-diproses-hingga-menjadi-konsentrat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang baru dari pernyataan ini adalah angka konkretnya, Freeport mengklaim menemukan 130 spesies baru dan memetakan 14 tipe ekosistem di wilayah kerjanya yang berbatasan dengan Taman Nasional Lorentz, kawasan konservasi yang membentang dari permukaan laut hingga 4.200 meter. Pihak yang paling terkait adalah masyarakat lokal Papua dan pemerintah daerah yang disebut Freeport perlu dilibatkan dalam pengelolaan kawasan, mengingat area ini juga menjadi ruang hidup warga sekitar tambang. Namun berita ini belum menjelaskan spesies apa saja yang dimaksud, metode dan periode survei yang menghasilkan angka 130 tersebut, atau lembaga independen yang memverifikasinya, sehingga klaim ini masih sebatas pernyataan sepihak dari acara talkshow. Yang perlu ditunggu adalah publikasi laporan atau data keanekaragaman hayati resmi dari Freeport maupun otoritas konservasi setempat untuk mengukur seberapa jauh klaim ini bisa diverifikasi.",
+  "imageV": "mubh43b6"
+ },
+ {
   "slug": "wskt-restrukturisasi-obligasi-jatuh-tempo-mundur-ke-2034",
   "category": "Aksi Korporasi",
   "title": "WSKT [Restrukturisasi] Obligasi, Jatuh Tempo Mundur ke 2034",
@@ -27,6 +53,33 @@ var ARTICLES = [
   "fotoAdegan": "Workers and cranes on an elevated toll road construction site in Jakarta, overcast late afternoon light",
   "takeaway": "Restrukturisasi ini condong positif bagi Waskita Karya karena langsung meringankan beban keuangan jangka pendek, bunga utang seri obligasi ini turun hampir separuh dari 9,75 persen menjadi 5 persen, dan kewajiban pokok yang sebenarnya sudah jatuh tempo sejak Mei 2024 kini mendapat waktu hingga akhir 2034. Pos yang tersentuh adalah beban bunga, yaitu bunga yang wajib dibayar perusahaan atas utangnya, karena semakin kecil beban bunga semakin besar sisa kas untuk operasional dan proyek berjalan, dan arus kas perusahaan turut terbantu karena kewajiban pelunasan pokok tidak lagi menumpuk dalam waktu dekat. Meski begitu, kebutuhan merestrukturisasi utang dengan tenor sepanjang ini tetap menandakan Waskita masih dalam proses pemulihan dari tekanan keuangan yang berlangsung beberapa tahun terakhir. Yang perlu dipantau selanjutnya adalah terbitnya salinan resmi kedua akta notaris yang menurut perseroan masih diproses, serta apakah skema serupa akan diterapkan juga pada seri-seri obligasi Waskita lain yang belum direstrukturisasi.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "data-coretax-diklaim-bocor-djp-bantah-ada-kejanggalan",
+  "category": "Teknologi",
+  "title": "Data Coretax Diklaim Bocor, DJP Bantah Ada [Kejanggalan]",
+  "deck": "DJP membantah klaim kebocoran data wajib pajak di sistem Coretax yang viral di media sosial, dan menyebut ada kejanggalan pada data yang beredar.",
+  "image": "assets/img/data-coretax-diklaim-bocor-djp-bantah-ada-kejanggalan.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T21:30:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468484-data-coretax-diklaim-bocor-djp-buka-suara-dan-ungkap-kejanggalan",
+  "tags": [
+   "Coretax",
+   "DJP",
+   "kebocoran data",
+   "wajib pajak"
+  ],
+  "body": [
+   "Sistem pajak digital Coretax milik Direktorat Jenderal Pajak (DJP) Kementerian Keuangan disorot setelah klaim kebocoran data wajib pajak beredar dan viral di media sosial pada Senin (21/9/2026). DJP merespons dengan menyatakan telah melakukan pemeriksaan dan validasi internal, menemukan sejumlah kejanggalan pada data yang beredar, sekaligus membantah adanya kebocoran. Isu ini penting karena Coretax menyimpan data pribadi wajib pajak di seluruh Indonesia dan dibangun dengan investasi sekitar Rp1,3 triliun.",
+   "Klaim kebocoran pertama kali muncul dari akun @DailyDarkWeb di platform X, yang menyebut basis data otoritas pajak Indonesia diduga dibobol sejak Sabtu (19/9/2026), dengan kata sandi dan token autentikasi pengguna diklaim ikut dicuri. Akun tersebut mengunggah apa yang mereka sebut sebagai sampel data yang terkait dengan DJP, unit di bawah Kementerian Keuangan.",
+   "Data yang diklaim bocor mencakup Nomor Pokok Wajib Pajak (NPWP), nama, alamat email, nomor telepon, alamat rumah, kata sandi, ID pengguna, alamat IP, catatan login terakhir, token autentikasi, hingga token 'ingat saya' yang biasa dipakai agar pengguna tidak perlu login ulang. Data yang beredar juga disebut memuat catatan waktu pembuatan dan pembaruan akun.",
+   "Menanggapi kabar yang telanjur viral itu, DJP langsung melakukan pemeriksaan dan validasi internal terhadap data yang beredar. Dari hasil pemeriksaan itu, DJP menyimpulkan ada kejanggalan pada data tersebut dan membantah bahwa data wajib pajak di Coretax benar-benar bocor."
+  ],
+  "fotoAdegan": "A dim server room with rows of blinking data racks and tangled network cables, cool blue light, no visible screens or text",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/11/20/673dd649b6d16-ilustrasi-pajak_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru sebatas klaim lawan bantahan: akun anonim di media sosial mengklaim membobol basis data Coretax dan mengunggah sampel data seperti NPWP, kata sandi, dan alamat wajib pajak, sementara DJP setelah memeriksa internal menyatakan ada kejanggalan namun belum merinci kejanggalan itu apa. Yang berpotensi terdampak adalah wajib pajak yang datanya tersimpan di Coretax, sistem yang menelan investasi Rp1,3 triliun dan sempat bermasalah sejak awal diluncurkan. Ada dua kemungkinan arah dari sini: kalau kejanggalan yang dimaksud DJP terbukti, misalnya data sampel itu ternyata palsu atau daur ulang dari kebocoran lama, klaim ini akan mereda seperti sejumlah kasus serupa sebelumnya. Tapi kalau muncul bukti independen bahwa data itu valid dan bisa diakses pihak luar, tekanan ke DJP untuk membuka detail insiden akan membesar, dan yang perlu ditunggu adalah penjelasan rinci soal kejanggalan tersebut atau konfirmasi dari lembaga keamanan siber independen.",
+  "imageV": "mubh4456"
  },
  {
   "slug": "rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya",
@@ -109,7 +162,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan pembaruan angka: tim penyelesai hambatan investasi pemerintah sudah menuntaskan 135 dari 177 aduan pelaku usaha per akhir Agustus, dan 25 kawasan ekonomi khusus tercatat menyerap investasi Rp368 triliun serta lebih dari 283 ribu pekerja hingga Juni 2026. Yang terdampak langsung adalah pelaku usaha yang mengajukan keluhan soal izin, pajak, atau logistik, dan pemerintah daerah yang mengelola kawasan investasi tersebut. Dorongan keterbukaan informasi, mulai dari profil daerah sampai rantai pasok lokal, menunjukkan pemerintah mengandalkan kemudahan akses data sebagai salah satu jalan mengejar target pertumbuhan investasi menuju PDB 6 persen pada 2027 dan 8 persen pada 2029, bukan sekadar insentif fiskal baru. Yang akan menentukan apakah pendekatan ini berhasil adalah angka realisasi investasi kuartal III 2026 yang biasanya dirilis BKPM pada akhir Oktober, serta apakah jumlah aduan yang tuntas ditangani terus bertambah dari 135 kasus saat ini.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "asian-games-2026-gratis-di-maxstream-tv-indihome",

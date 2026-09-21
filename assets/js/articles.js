@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wskt-restrukturisasi-obligasi-jatuh-tempo-mundur-ke-2034",
+  "category": "Aksi Korporasi",
+  "title": "WSKT [Restrukturisasi] Obligasi, Jatuh Tempo Mundur ke 2034",
+  "deck": "Waskita Karya mengubah jatuh tempo obligasi Seri B dari Mei 2024 menjadi Desember 2034 dan memangkas kupon dari 9,75% jadi 5% usai disetujui RUPO.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T22:34:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a6566e08a9_ba7b52190f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "obligasi",
+   "restrukturisasi utang",
+   "Waskita Karya"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk (WSKT) mengumumkan perubahan Perjanjian Perwaliamanatan untuk Obligasi Berkelanjutan III Waskita Karya Tahap IV Tahun 2019 Seri B, menyusul hasil Rapat Umum Pemegang Obligasi (RUPO) pada 3 September 2026 yang menyetujui skema restrukturisasi yang diajukan perseroan. Berdasarkan surat bernomor 988/WK/DIR/2026 yang diteken Sekretaris Perusahaan Steven Subianto, tanggal jatuh tempo obligasi seri ini diundur dari semula 16 Mei 2024 menjadi 31 Desember 2034, mundur lebih dari sepuluh tahun. Tingkat kupon juga dipangkas dari 9,75 persen menjadi 5,00 persen ditambah kupon standstill, dengan perubahan ini berlaku efektif 17 September 2026.",
+   "Perubahan ini dituangkan dalam dua akta notaris yang dibuat di hadapan Notaris Dewantari Handayani pada 17 September 2026, yaitu Akta Perubahan II Perjanjian Perwaliamanatan nomor 19 yang mengubah sejumlah ketentuan premis dan pasal dalam perjanjian, serta Akta Perubahan I Pengakuan Utang nomor 20 yang mengubah premis dan Pasal 1 ayat 1.1 dari dokumen pengakuan utang. Dasar perubahan ini mengacu pada Surat Keterangan Notaris nomor 205/NOT/SK/WSKT/IX/2026 tanggal 17 September 2026, sementara perseroan menyebut salinan resmi kedua akta tersebut masih dalam proses penyelesaian di kantor notaris.",
+   "Pemberitahuan resmi kepada Bursa Efek Indonesia ini juga ditembuskan kepada Otoritas Jasa Keuangan dan PT Kustodian Sentral Efek Indonesia selaku pihak yang turut mengawasi pelaksanaan obligasi tersebut."
+  ],
+  "fotoAdegan": "Workers and cranes on an elevated toll road construction site in Jakarta, overcast late afternoon light",
+  "takeaway": "Restrukturisasi ini condong positif bagi Waskita Karya karena langsung meringankan beban keuangan jangka pendek, bunga utang seri obligasi ini turun hampir separuh dari 9,75 persen menjadi 5 persen, dan kewajiban pokok yang sebenarnya sudah jatuh tempo sejak Mei 2024 kini mendapat waktu hingga akhir 2034. Pos yang tersentuh adalah beban bunga, yaitu bunga yang wajib dibayar perusahaan atas utangnya, karena semakin kecil beban bunga semakin besar sisa kas untuk operasional dan proyek berjalan, dan arus kas perusahaan turut terbantu karena kewajiban pelunasan pokok tidak lagi menumpuk dalam waktu dekat. Meski begitu, kebutuhan merestrukturisasi utang dengan tenor sepanjang ini tetap menandakan Waskita masih dalam proses pemulihan dari tekanan keuangan yang berlangsung beberapa tahun terakhir. Yang perlu dipantau selanjutnya adalah terbitnya salinan resmi kedua akta notaris yang menurut perseroan masih diproses, serta apakah skema serupa akan diterapkan juga pada seri-seri obligasi Waskita lain yang belum direstrukturisasi.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya",
   "category": "Moneter",
   "title": "Rupiah [Tertekan] ke Rp17.847, BI Sebut Penyebabnya",
@@ -166,6 +192,33 @@ var ARTICLES = [
   "imageV": "mubbytlp"
  },
  {
+  "slug": "jsmr-jtt-beri-pinjaman-rp6-5-triliun-ke-anak-usaha-jjc",
+  "category": "Aksi Korporasi",
+  "title": "JSMR: JTT Beri Pinjaman [Rp6,5 Triliun] ke Anak Usaha JJC",
+  "deck": "PT Jasamarga Transjawa Tol memberikan pinjaman pemegang saham Rp6,55 triliun kepada anak usahanya, PT Jasamarga Jalanlayang Cikampek, untuk kebutuhan bridging refinancing dan operasional 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T20:18:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b65f89912f_a4927e5a88.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JSMR",
+  "tags": [
+   "JSMR",
+   "Transaksi Afiliasi",
+   "Jasamarga Transjawa Tol",
+   "Jasamarga Jalanlayang Cikampek"
+  ],
+  "body": [
+   "PT Jasa Marga Tbk (JSMR) melaporkan transaksi afiliasi berupa pemberian pinjaman pemegang saham (shareholder loan) senilai Rp6.546.671.000.000 dari anak usahanya, PT Jasamarga Transjawa Tol (JTT), kepada PT Jasamarga Jalanlayang Cikampek (JJC). Perjanjian pinjaman diteken pada Kamis, 17 September 2026, di kantor pusat JTT, Plaza Tol Jakarta-Cikampek, Bekasi.",
+   "JTT dimiliki Jasa Marga sebesar 65 persen, sisanya oleh Metro Pacific Tollways Indonesia Services 20,30 persen, Warrington Investment Pte Ltd 10,465 persen, dan PT Marga Utama Nusantara 4,235 persen. Adapun JJC dimiliki JTT 40 persen, PT Margautama Nusantara 40 persen, dan PT Ranggi Sugironperkasa 20 persen. Karena JTT dikendalikan langsung oleh Jasa Marga dan JJC dikendalikan tidak langsung melalui JTT, transaksi ini masuk kategori transaksi afiliasi sesuai POJK 42/2020.",
+   "Perseroan menyebut dana ini untuk memenuhi kebutuhan bridging refinancing JJC pada 2026 serta kebutuhan operasional lainnya. Penilai independen, KJPP Budi, Edy, Saptono & Rekan, menyimpulkan tingkat suku bunga pinjaman berada dalam kisaran suku bunga pasar, transaksi tidak berdampak negatif terhadap laporan keuangan Jasa Marga, dan secara keseluruhan rencana transaksi ini wajar. Direksi dan Dewan Komisaris Jasa Marga juga menyatakan transaksi tidak mengandung benturan kepentingan dan bukan transaksi material menurut POJK 17/2020.",
+   "Dari sisi neraca proforma, transaksi ini menurunkan saldo kas dan setara kas Jasa Marga sekaligus menambah saldo piutang lain-lain, masing-masing sebesar Rp6.546.671.000.000. Laporan proforma laba rugi konsolidasi tidak menunjukkan perubahan pada pendapatan maupun beban perusahaan akibat transaksi ini."
+  ],
+  "fotoAdegan": "Elevated concrete toll highway with light vehicle traffic, support pillars and ground-level road below, overcast afternoon sky",
+  "takeaway": "Transaksi ini cenderung netral bagi Jasa Marga, karena dana yang dipinjamkan hanya berpindah tempat dari kas menjadi piutang di dalam grup usaha yang sama, dan penilai independen menyimpulkan suku bunganya sudah sesuai kisaran pasar serta tidak merugikan keuangan perusahaan induk. Pos yang tersentuh adalah kas dan setara kas, yaitu uang tunai serta simpanan yang bisa langsung dipakai perusahaan, yang berkurang Rp6,55 triliun dan berpindah menjadi piutang lain-lain dengan jumlah yang sama, sehingga tidak memengaruhi ekuitas atau laba per saham Jasa Marga. Yang perlu dipantau selanjutnya adalah realisasi rencana bridging refinancing JJC sepanjang 2026, karena pinjaman ini sifatnya sementara sebelum JJC menuntaskan pembiayaan ulang utangnya, dan laporan keuangan berikutnya akan menunjukkan apakah dana ini sudah kembali ke JTT atau masih mengendap sebagai piutang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "dyan-teken-ppjb-tanah-bangunan-senilai-rp36-miliar",
   "category": "Aksi Korporasi",
   "title": "DYAN Teken PPJB Tanah-Bangunan Senilai [Rp36 Miliar]",
@@ -294,6 +347,32 @@ var ARTICLES = [
   "fotoAdegan": "Wide view of a Jakarta financial district street at dusk, glass office towers lit from inside, light traffic below",
   "takeaway": "Laporan ini netral bagi Danareksa, karena isinya adalah konfirmasi rutin yang wajib disampaikan setiap emiten obligasi menjelang tanggal pembayaran, bukan indikasi khusus soal membaik atau memburuknya kondisi keuangan perusahaan. Yang tersentuh adalah arus kas dan beban bunga, yaitu total dana sekitar Rp531,97 miliar yang akan keluar dari kas perseroan dalam waktu dekat untuk melunasi pokok utang dan membayar bunga obligasi, dua pos yang selalu diawasi pemegang obligasi karena menentukan apakah perusahaan mampu menepati jadwal pembayaran utangnya. Yang perlu dipantau selanjutnya adalah dua tanggal konkret dari surat ini, yaitu pembayaran kupon pada 9 Oktober 2026 dan pelunasan pokok obligasi pada 9 Januari 2027, karena realisasi tepat waktu pada kedua tanggal itulah yang akan membuktikan kebenaran konfirmasi kesiapan dana ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "foru-rasio-hmetd-100-46-235-harga-teoretis-turun-ke-rp131-dilusi",
+  "category": "Aksi Korporasi",
+  "title": "FORU: Rasio HMETD 100:46.235, Harga Teoretis Turun ke Rp131 [dilusi]",
+  "deck": "BEI menetapkan harga teoretis saham FORU Rp131 usai aksi rights issue dengan rasio 100:46.235 pada harga pelaksanaan Rp126 per saham, berlaku mulai 22 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T19:30:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Harga Teoretis FORU 260921-No. Peng-00174BEI.POP09-2026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "HMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan harga teoretis saham PT Fortune Indonesia Tbk (FORU) menyusul aksi korporasi penerbitan Hak Memesan Efek Terlebih Dahulu (HMETD atau rights issue) yang sebelumnya diungkapkan perseroan lewat surat No. 074/FORU-CS/IX/2026 tanggal 14 September 2026. Rasio HMETD ditetapkan 100:46.235, artinya setiap pemegang 100 saham lama FORU berhak atas 46.235 hak untuk membeli saham baru dengan harga pelaksanaan Rp126 per saham.",
+   "Harga saham FORU pada penutupan sesi cum di pasar reguler tanggal 21 September 2026 tercatat Rp2.560 per saham. Dengan formula rata-rata tertimbang antara harga cum dan harga pelaksanaan HMETD, BEI menghitung harga teoretis sebesar Rp131,253 yang setelah disesuaikan dengan fraksi harga dibulatkan menjadi Rp131. Harga inilah yang akan tercantum di sistem perdagangan JATS untuk pasar reguler maupun pasar negosiasi mulai 22 September 2026, dan menjadi acuan tawar menawar serta perhitungan Indeks Harga Saham Gabungan dan indeks saham individual FORU.",
+   "BEI juga menetapkan penyesuaian harga dasar baru untuk perhitungan indeks harga saham individual FORU, yaitu turun dari 130 menjadi 6,652, hasil perkalian antara rasio harga teoretis terhadap harga cum sebelumnya. Angka ini teknis dipakai bursa untuk menjaga kesinambungan perhitungan indeks, bukan cerminan nilai wajar baru perusahaan."
+  ],
+  "fotoAdegan": "Busy trading floor inside a Jakarta brokerage office, analysts studying blurred computer screens under fluorescent light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama karena skala penambahan sahamnya sangat besar, rasio 100:46.235 berarti jumlah saham baru yang berpotensi terbit lebih dari 462 kali jumlah saham lama, jauh di atas rights issue pada umumnya. Yang tersentuh adalah jumlah saham beredar dan laba per saham, yakni laba bersih perusahaan yang nantinya dibagi rata ke jauh lebih banyak lembar saham, sehingga bagian laba tiap lembar berisiko menyusut tajam kalau pemegang saham lama tidak ikut menyerap haknya. Di sisi lain, kalau seluruh hak terserap, ekuitas perusahaan bisa bertambah signifikan dari dana yang masuk, yang bisa positif kalau dipakai memperkuat permodalan atau melunasi utang. Harga teoretis Rp131 ini sendiri hanya penyesuaian mekanis akibat penambahan jumlah saham, bukan penilaian pasar atas kinerja perusahaan. Yang perlu dipantau selanjutnya adalah pergerakan harga FORU begitu skema harga teoretis ini berlaku di pasar reguler dan negosiasi mulai 22 September 2026, serta realisasi pelaksanaan HMETD sesuai keterbukaan informasi 14 September 2026 yang menjadi dasar aksi korporasi ini.",
+  "sentimen": "negatif"
  },
  {
   "slug": "wika-jadwalkan-rupsu-sukuk-usai-gagal-bayar-21-oktober",

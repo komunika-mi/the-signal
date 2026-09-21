@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wskt-restrukturisasi-obligasi-jatuh-tempo-mundur-ke-2034",
+  "category": "Aksi Korporasi",
+  "title": "WSKT [Restrukturisasi] Obligasi, Jatuh Tempo Mundur ke 2034",
+  "deck": "Waskita Karya mengubah jatuh tempo obligasi Seri B dari Mei 2024 menjadi Desember 2034 dan memangkas kupon dari 9,75% jadi 5% usai disetujui RUPO.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "obligasi",
+   "restrukturisasi utang",
+   "Waskita Karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a6566e08a9_ba7b52190f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya",
   "category": "Moneter",
   "title": "Rupiah [Tertekan] ke Rp17.847, BI Sebut Penyebabnya",
@@ -107,6 +123,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468479-pemerintah-perketat-pengawasan-beras-fortifikasi-25-merek-diduga-tak-sesuai-standar"
  },
  {
+  "slug": "jsmr-jtt-beri-pinjaman-rp6-5-triliun-ke-anak-usaha-jjc",
+  "category": "Aksi Korporasi",
+  "title": "JSMR: JTT Beri Pinjaman [Rp6,5 Triliun] ke Anak Usaha JJC",
+  "deck": "PT Jasamarga Transjawa Tol memberikan pinjaman pemegang saham Rp6,55 triliun kepada anak usahanya, PT Jasamarga Jalanlayang Cikampek, untuk kebutuhan bridging refinancing dan operasional 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JSMR",
+   "Transaksi Afiliasi",
+   "Jasamarga Transjawa Tol",
+   "Jasamarga Jalanlayang Cikampek"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b65f89912f_a4927e5a88.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dyan-teken-ppjb-tanah-bangunan-senilai-rp36-miliar",
   "category": "Aksi Korporasi",
   "title": "DYAN Teken PPJB Tanah-Bangunan Senilai [Rp36 Miliar]",
@@ -185,6 +217,22 @@ var ARTICLES = [
    "BUMN"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1054cb2c87_b2a3e08086.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-rasio-hmetd-100-46-235-harga-teoretis-turun-ke-rp131-dilusi",
+  "category": "Aksi Korporasi",
+  "title": "FORU: Rasio HMETD 100:46.235, Harga Teoretis Turun ke Rp131 [dilusi]",
+  "deck": "BEI menetapkan harga teoretis saham FORU Rp131 usai aksi rights issue dengan rasio 100:46.235 pada harga pelaksanaan Rp126 per saham, berlaku mulai 22 September 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "HMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Harga Teoretis FORU 260921-No. Peng-00174BEI.POP09-2026.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6450,54 +6498,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fb867c4f27_6c506f1540.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sanf-raih-afirmasi-peringkat-aa-dari-fitch-outlook-stabil",
-  "category": "Aksi Korporasi",
-  "title": "SANF Raih Afirmasi Peringkat [AA+] dari Fitch, Outlook Stabil",
-  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang SANF di AA+ dengan outlook stabil, mencakup tiga seri obligasi berkelanjutan senilai total Rp1,6 triliun.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SANF",
-   "Fitch Ratings",
-   "peringkat kredit",
-   "obligasi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7fdeb17897_1b29f1a20a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baik-buka-outlet-agn-signature-baru-di-sampang",
-  "category": "Aksi Korporasi",
-  "title": "BAIK Buka Outlet [AGN Signature] Baru di Sampang",
-  "deck": "PT Bersama Mencapai Puncak Tbk meresmikan outlet Ayam Goreng Nelongso Signature di Sampang, Jawa Timur, sebagai bagian dari strategi ekspansi jaringan usahanya.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAIK",
-   "AGN Signature",
-   "ekspansi outlet",
-   "rumah makan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8223beed3d_5c53f59cf7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ceka-jelaskan-ke-bursa-rencana-penuhi-free-float-15",
-  "category": "Aksi Korporasi",
-  "title": "CEKA Jelaskan ke Bursa Rencana Penuhi [Free Float] 15%",
-  "deck": "CEKA menanggapi permintaan penjelasan BEI soal rencana pemenuhan syarat minimum saham beredar bebas 15%, menyusul free float yang baru 13,86% per akhir Agustus 2026.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CEKA",
-   "Wilmar Cahaya Indonesia",
-   "free float",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76e782e761_90f387a606.pdf",
   "sourceLabel": "IDX"
  }
 ];

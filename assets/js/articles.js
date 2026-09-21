@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pnbp-minerba-rp108-13-triliun-esdm-klaim-harga-membaik",
+  "category": "Energi",
+  "title": "PNBP Minerba Rp108,13 Triliun, ESDM Klaim Harga [Membaik]",
+  "deck": "Kementerian ESDM melaporkan PNBP minerba tembus Rp108,13 triliun hingga Agustus 2026, sembari mengklaim harga batu bara dan nikel membaik berkat penataan tata kelola.",
+  "image": "assets/img/pnbp-minerba-rp108-13-triliun-esdm-klaim-harga-membaik.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-21T23:07:24.111Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasil-dari-perbaikan-tata-kelola-harga-komoditas-membaik-dan-pnbp-meningkat",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "minerba",
+   "PNBP",
+   "ESDM",
+   "batu bara"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral melaporkan penerimaan negara bukan pajak dari sektor mineral dan batu bara terus meningkat, seiring klaim pemerintah bahwa harga batu bara dan nikel Indonesia mulai membaik setelah penataan ulang pengaturan pasokan dan permintaan komoditas. Klaim ini disampaikan Menteri ESDM Bahlil Lahadalia saat membuka acara donor darah di lingkungan Kementerian ESDM di Jakarta pada 21 September, sekaligus menyebut capaian sektor minerba sebagai bukti reformasi tata kelola yang ia jalankan sejak menjabat.",
+   "Berdasarkan data Direktorat Jenderal Mineral dan Batu Bara, penerimaan negara bukan pajak subsektor minerba tercatat Rp135,16 triliun sepanjang 2025, dan hingga Agustus 2026 sudah mencapai Rp108,13 triliun. Investasi subsektor minerba pada 2025 tercatat US$6,7 miliar, sementara tenaga kerja yang terserap di sektor ini mencapai 685.724 orang per semester I 2026. Bahlil menyebut produksi batu bara tahun ini lebih rendah dibanding 2025, namun penerimaan negara dari sektor tersebut justru lebih tinggi dibanding periode yang sama tahun lalu.",
+   "Pemerintah menyebut kondisi itu sebagai hasil reformasi tata kelola minerba, termasuk penguatan pengaturan pasokan-permintaan dan penataan Rencana Kerja dan Anggaran Biaya atau RKAB, yakni rencana produksi dan anggaran tahunan yang harus disetujui pemerintah sebelum perusahaan tambang boleh berproduksi. Arah kebijakan ini juga diarahkan mendorong hilirisasi serta penerapan kaidah teknik pertambangan yang baik, dengan tujuan mengubah industri ekstraktif menjadi industri bernilai tambah.",
+   "Selain penerimaan negara, Kementerian ESDM juga mencatat sekitar 2.587 UMKM binaan perusahaan tambang minerba yang bergerak di bidang kriya dan kuliner, sebagai bagian dari Program Pengembangan dan Pemberdayaan Masyarakat bagi warga di sekitar wilayah tambang, mulai dari cincin terdekat atau Ring I hingga cincin terjauh atau Ring III dari lokasi operasi."
+  ],
+  "fotoAdegan": "Aerial view of an open-pit coal mine in Indonesia with terraced roads and haul trucks moving ore under an overcast sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-hasil-dari-perbaikan-tata-kelola-harga-komoditas-membaik-dan-pnbp-meningkat-6tosqyh.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Data yang disampaikan Kementerian ESDM menunjukkan penerimaan negara bukan pajak, yaitu pendapatan negara di luar pajak yang di sektor tambang berasal dari royalti dan iuran produksi, dari sektor minerba hingga Agustus 2026 sudah mencapai Rp108,13 triliun, atau sekitar 80 persen dari total sepanjang 2025 yang sebesar Rp135,16 triliun, padahal tahun berjalan baru delapan bulan. Yang menarik, menurut Menteri ESDM, produksi batu bara tahun ini lebih rendah dibanding 2025, tapi penerimaan negaranya justru lebih tinggi, yang mengindikasikan kemungkinan kenaikan pungutan per ton atau pembatasan volume produksi sambil menjaga harga tetap tinggi. Yang paling terdampak adalah perusahaan tambang batu bara dan nikel pembayar royalti, karena kalau pola ini berlanjut beban per ton produksi mereka bisa makin besar meski volume dibatasi, sementara daerah dan pekerja di sekitar tambang bergantung pada seberapa stabil produksi itu dijaga. Arah kebijakannya tampak menuju pengetatan pasokan untuk mendongkrak pendapatan negara per unit, bukan sekadar mengejar volume produksi maksimal, dan yang akan mengonfirmasi pola ini adalah angka PNBP minerba akhir tahun 2026 serta rincian per komoditas dari Direktorat Jenderal Minerba.",
+  "imageV": "mubv2fo3"
+ },
+ {
   "slug": "laba-bersih-medc-melonjak-ke-us-287-6-juta-pada-semester-i-2026",
   "category": "Aksi Korporasi",
   "title": "Laba Bersih MEDC [Melonjak] ke US$287,6 Juta pada Semester I 2026",

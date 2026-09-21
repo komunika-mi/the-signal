@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pnbp-minerba-rp108-13-triliun-esdm-klaim-harga-membaik",
+  "category": "Energi",
+  "title": "PNBP Minerba Rp108,13 Triliun, ESDM Klaim Harga [Membaik]",
+  "deck": "Kementerian ESDM melaporkan PNBP minerba tembus Rp108,13 triliun hingga Agustus 2026, sembari mengklaim harga batu bara dan nikel membaik berkat penataan tata kelola.",
+  "date": "22 September 2026",
+  "image": "assets/img/pnbp-minerba-rp108-13-triliun-esdm-klaim-harga-membaik.jpg",
+  "imageV": "mubv2fo3",
+  "tags": [
+   "minerba",
+   "PNBP",
+   "ESDM",
+   "batu bara"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasil-dari-perbaikan-tata-kelola-harga-komoditas-membaik-dan-pnbp-meningkat",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "laba-bersih-medc-melonjak-ke-us-287-6-juta-pada-semester-i-2026",
   "category": "Aksi Korporasi",
   "title": "Laba Bersih MEDC [Melonjak] ke US$287,6 Juta pada Semester I 2026",
@@ -6484,21 +6502,5 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818726.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "bmbl-pemegang-saham-lepas-35-juta-saham-suara-ke-15-62",
-  "category": "Aksi Korporasi",
-  "title": "BMBL: Pemegang Saham [Lepas] 35 Juta Saham, Suara ke 15,62%",
-  "deck": "Pemegang saham individu BMBL melepas 35 juta saham dalam tiga transaksi pada 10 September 2026, memangkas hak suaranya dari 19,02 persen menjadi 15,62 persen.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMBL",
-   "kepemilikan saham",
-   "pemegang saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-7881-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

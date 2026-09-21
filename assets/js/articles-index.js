@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "vici-ungkap-rencana-akuisisi-secret-garden-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "VICI Ungkap Rencana Akuisisi [Secret Garden] di Public Expose",
+  "deck": "Direksi VICI membeberkan penjajakan akuisisi brand Secret Garden, capex Rp20-30 miliar, dan penyebab laba tertekan meski penjualan tumbuh dua digit.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "Public Expose",
+   "Victoria Care Indonesia",
+   "Akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0ca1edc8e_659dd17e14.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xkgs-etf-emas-syariah-kim-melantai-di-bei-22-september",
+  "category": "Aksi Korporasi",
+  "title": "XKGS: [ETF] Emas Syariah KIM Melantai di BEI 22 September",
+  "deck": "Bursa Efek Indonesia mencatatkan 32,4 juta unit penyertaan Reksa Dana Syariah KIM Gold ETF Sharia dengan kode XKGS, mulai diperdagangkan 22 September 2026 dengan harga perdana Rp310 per unit.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XKGS",
+   "ETF",
+   "reksa dana syariah",
+   "emas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/566b369146_d8eeddd1ec.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dnrk-siapkan-dana-pelunasan-obligasi-viii-rp520-miliar",
+  "category": "Aksi Korporasi",
+  "title": "DNRK Siapkan Dana [Pelunasan] Obligasi VIII Rp520 Miliar",
+  "deck": "PT Danareksa (Persero) mengonfirmasi ke BEI kesiapan dana untuk membayar pokok Rp520 miliar dan kupon 7,70% Obligasi VIII Seri B.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DNRK",
+   "obligasi",
+   "Danareksa",
+   "BUMN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1054cb2c87_b2a3e08086.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-jadwalkan-rupsu-sukuk-usai-gagal-bayar-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPSU] Sukuk usai Gagal Bayar, 21 Oktober",
+  "deck": "WIKA akan menggelar Rapat Umum Pemegang Sukuk Mudharabah Berkelanjutan III Tahap I 2022 pada 21 Oktober 2026, menyusul gagal bayar bagi hasil sukuk tersebut.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0c01935696_81842fa472.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-jadwalkan-rupo-obligasi-tahap-ii-2022-20-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPO] Obligasi Tahap II 2022, 20 Oktober",
+  "deck": "WIKA menjadwalkan RUPO Obligasi Berkelanjutan II Tahap II 2022 pada 20 Oktober 2026, sehari sebelum rapat pemegang sukuk mudharabah, di tengah gagal bayar dan suspensi saham perseroan.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "obligasi korporasi",
+   "RUPO",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/15737de547_a3c4ad9f35.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgeo-catatkan-474-554-saham-baru-dari-opsi-mesop",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catatkan 474.554 Saham Baru dari Opsi [MESOP]",
+  "deck": "Bursa mencatatkan 474.554 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III mulai 22 September 2026, menambah total saham beredar menjadi 41.922.757.485 lembar.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "Pertamina Geothermal Energy",
+   "pencatatan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e436e519c1_e52fe4160e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bssr-bagikan-dividen-interim-us-60-juta-cair-9-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BSSR Bagikan [Dividen] Interim US$60 Juta, Cair 9 Oktober",
+  "deck": "Baramulti Suksessarana membagikan dividen interim tahun buku 2026 senilai US$60 juta atau Rp406,16 per saham, dengan pembayaran dijadwalkan 9 Oktober 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSSR",
+   "dividen interim",
+   "Baramulti Suksessarana",
+   "emiten batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/327ed9e2d4_8146ecfed4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "amran-minta-25-merek-beras-fortifikasi-setop-produksi",
   "category": "Industri",
   "title": "Amran Minta 25 Merek Beras Fortifikasi [Setop] Produksi",
@@ -66,6 +178,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468445-telkomgroup-dan-china-unicom-jalin-kemitraan-strategis-ada-5-sektor-digital-jadi-sasaran"
+ },
+ {
+  "slug": "jecx-sarana-meditama-tambah-saham-hak-suara-ke-33",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Sarana Meditama Tambah Saham, Hak Suara ke [33%]",
+  "deck": "PT Sarana Meditama Metropolitan Tbk menambah kepemilikan tidak langsung di JECX sebanyak 1.174.500 saham pada 18 September 2026, menaikkan hak suaranya dari 32,97% menjadi 33,00%.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "Sarana Meditama Metropolitan",
+   "kepemilikan saham",
+   "JEC Eye Hospitals"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7121-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ojk-soroti-bank-buffer-tipis-ldr-perbankan-88-38",
@@ -689,6 +817,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8153",
   "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "btps-panggil-rupslb-usulkan-buyback-saham-hingga-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Panggil RUPSLB, Usulkan [Buyback] Saham hingga Rp1 Triliun",
+  "deck": "RUPSLB BTPS digelar 13 Oktober 2026 untuk memutuskan rencana pembelian kembali saham hingga 10 persen modal dengan dana maksimal Rp1 triliun.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "RUPSLB",
+   "buyback saham",
+   "Bank BTPN Syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c8cebd70e_8b0b842574.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "crab-laba-bersih-anjlok-53-utang-naik-di-semester-i-2026",
@@ -6358,151 +6502,6 @@ var ARTICLES = [
    "bank bjb"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffecd2006a_24f49478e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adcp-bertahan-di-idccc-pefindo-waspadai-gagal-bayar-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "ADCP Bertahan di idCCC, PEFINDO [Waspadai] Gagal Bayar Sukuk",
-  "deck": "PEFINDO mempertahankan peringkat idCCC untuk ADCP dengan status CreditWatch Negatif karena risiko gagal bayar kupon Sukuk Ijarah yang jatuh tempo 26 Oktober 2026.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADCP",
-   "PEFINDO",
-   "obligasi",
-   "peringkat kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3ce7294a00_b31213c6df.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adcp-digugat-pkpu-kontraktor-proyek-adhi-city-sentul",
-  "category": "Aksi Korporasi",
-  "title": "ADCP Digugat [PKPU] Kontraktor Proyek Adhi City Sentul",
-  "deck": "PT Burda Contraco mengajukan permohonan PKPU terhadap ADCP ke Pengadilan Niaga Jakarta Pusat atas utang proyek Adhi City Sentul, sidang pertama digelar 17 September 2026.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADCP",
-   "PKPU",
-   "Adhi City Sentul",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/748c7bcc7a_31561d6485.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "idx-aktifkan-kembali-short-selling-mulai-15-september",
-  "category": "Aksi Korporasi",
-  "title": "IDX Aktifkan Kembali [Short Selling] Mulai 15 September",
-  "deck": "BEI memberlakukan kembali pembiayaan transaksi short selling mulai 15 September 2026, menyusul arahan bertahap dari OJK setelah sempat ditunda sejak 2025.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IDX",
-   "short selling",
-   "OJK",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Short Selling Peng-00168-No. Peng-00168BEI.POP09-2026.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tcpi-angkat-komisaris-utama-baru-isi-kursi-lama-kosong",
-  "category": "Aksi Korporasi",
-  "title": "TCPI Angkat [Komisaris] Utama Baru, Isi Kursi Lama Kosong",
-  "deck": "RUPSLB TCPI menyetujui Ade Supandi sebagai Komisaris Utama merangkap Independen, mengisi kursi yang sebelumnya kosong, serta Haru Koesmahargyo sebagai Komisaris Independen baru.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TCPI",
-   "Transcoal Pacific",
-   "Dewan Komisaris",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ce5c74d9d_92f2cc028c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sini-divestasi-54-saham-ikn-senilai-rp31-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SINI [Divestasi] 54% Saham IKN Senilai Rp31,8 Miliar",
-  "deck": "Singaraja Putra melepas 54 persen saham anak usahanya, PT Interkayu Nusantara, ke Hendra Hasan Kustarjo senilai Rp31,8 miliar.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SINI",
-   "divestasi",
-   "Interkayu Nusantara",
-   "portofolio investasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ea94f58653_0f4d0460e6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-catatkan-saham-baru-dari-pelaksanaan-mesop",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Catatkan Saham Baru dari Pelaksanaan [MESOP]",
-  "deck": "PGEO mencatatkan 2.185.709 saham baru hasil pelaksanaan opsi karyawan MESOP Tahap I dan III pada 14 September 2026, menambah total saham beredar menjadi 41,92 miliar.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "MESOP",
-   "saham baru",
-   "Pertamina Geothermal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1a9afc7b7d_af90fe6183.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inet-cetak-74-232-saham-baru-dari-konversi-waran",
-  "category": "Aksi Korporasi",
-  "title": "INET Cetak 74.232 Saham Baru dari Konversi [Waran]",
-  "deck": "Bursa mencatat 74.232 saham baru INET hasil konversi waran seri II, efektif diperdagangkan 15 September 2026, sehingga total saham beredar menjadi 22.377.753.318 lembar.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INET",
-   "waran",
-   "saham baru",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0834881137_c8af13962d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "suahasil-nazara-jadi-menkeu-baru-kadin-minta-didengar",
-  "category": "Makroekonomi",
-  "title": "Suahasil Nazara Jadi [Menkeu] Baru, Kadin Minta Didengar",
-  "deck": "Suahasil Nazara resmi dilantik sebagai Menteri Keuangan menggantikan Purbaya Yudhi Sadewa; Kadin berharap kebijakan fiskal baru mendukung industri dan perdagangan.",
-  "date": "14 September 2026",
-  "image": "assets/img/suahasil-nazara-jadi-menkeu-baru-kadin-minta-didengar.jpg",
-  "imageV": "mu1boo93",
-  "tags": [
-   "Kemenkeu",
-   "Suahasil Nazara",
-   "Kadin",
-   "reshuffle kabinet"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467062-suahasil-nazara-gantikan-purbaya-saleh-husin-harap-menkeu-baru-mendengar-dunia-usaha-dan-industri"
- },
- {
-  "slug": "bbca-buyback-rp3-5-triliun-rasio-dividen-naik-ke-72",
-  "category": "Aksi Korporasi",
-  "title": "BBCA: Buyback [Rp3,5 Triliun], Rasio Dividen Naik ke 72%",
-  "deck": "Public expose BCA ungkap progres buyback saham, kenaikan rasio dividen ke 72 persen, dan pertumbuhan kredit 8 persen pada semester I 2026.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBCA",
-   "Public Expose",
-   "Bank Central Asia",
-   "kinerja perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e45bf0b681_5f51678b83.pdf",
   "sourceLabel": "IDX"
  }
 ];

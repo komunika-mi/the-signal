@@ -3,6 +3,187 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "vici-ungkap-rencana-akuisisi-secret-garden-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "VICI Ungkap Rencana Akuisisi [Secret Garden] di Public Expose",
+  "deck": "Direksi VICI membeberkan penjajakan akuisisi brand Secret Garden, capex Rp20-30 miliar, dan penyebab laba tertekan meski penjualan tumbuh dua digit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T19:44:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0ca1edc8e_659dd17e14.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "Public Expose",
+   "Victoria Care Indonesia",
+   "Akuisisi"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) menggelar public expose insidentil pada Jumat, 18 September 2026, pukul 11.00 WIB melalui Zoom, dihadiri tiga direktur Perseroan yakni Erwan Irawan Noer, Luhur Dino Herlambang, dan Andi Sulistiawan. Sebanyak 13 peserta teregistrasi hadir, terdiri dari pemegang saham, perwakilan institusi seperti Tuntun Sekuritas, PT Indovesta Utama Mandiri, Omaha Investments, dan analis dari sebuah private equity, serta wartawan dari Kontan dan Bisnis Indonesia.",
+   "Menjawab pertanyaan soal rencana akuisisi brand, Erwan menyebut Perseroan masih dalam tahap penjajakan dengan beberapa brand potensial, tidak terbatas pada satu nama. Salah satu yang tengah dijajaki adalah Secret Garden, brand yang berada dalam grup kepemilikan yang sama dengan VICI sehingga proses diskusinya dinilai lebih mudah. Manajemen menargetkan penambahan portofolio brand ini rampung pada semester pertama tahun depan, dengan kriteria brand yang bisa mendongkrak margin dan memperluas pasar lewat kombinasi kanal online dan retail. Nilai investasi akuisisi belum diungkapkan dalam sesi ini.",
+   "Soal kinerja, VICI mencatat pertumbuhan penjualan lebih dari 10 persen pada semester pertama 2026 dibanding periode sama tahun lalu, namun laba tertekan akibat fluktuasi nilai tukar dan kenaikan harga minyak bumi yang mendorong naiknya biaya bahan baku dan kemasan. Belanja modal tahun ini diperkirakan berkisar Rp20 miliar sampai Rp30 miliar, difokuskan untuk modernisasi peralatan produksi guna meningkatkan efisiensi, bukan untuk ekspansi kapasitas baru. Untuk menjaga penjualan, Perseroan akan memperluas kanal modern outlet, menambah jumlah SKU, dan memperkuat aktivasi di dalam toko. Direksi juga menegaskan tidak dapat mengaitkan rencana akuisisi dengan kenaikan harga saham VICI yang sempat memicu suspensi perdagangan."
+  ],
+  "fotoAdegan": "Workers packaging bottled personal care products on a factory assembly line in Indonesia, bright industrial lighting, quality checks underway",
+  "takeaway": "Laporan ini netral bagi fundamental VICI, karena isinya masih berupa paparan rencana dan penjelasan manajemen, bukan angka transaksi atau kesepakatan yang sudah final. Yang tersentuh adalah margin kotor, yaitu selisih antara harga jual dan biaya produksi setelah dikurangi ongkos bahan baku dan kemasan, yang menurut direksi tertekan akibat pelemahan kurs dan kenaikan harga minyak bumi sepanjang semester pertama 2026. Rencana belanja modal Rp20 miliar sampai Rp30 miliar juga akan memengaruhi arus kas Perseroan tahun ini karena dana itu dipakai untuk modernisasi mesin produksi, bukan ekspansi baru. Yang perlu dipantau berikutnya adalah kelanjutan penjajakan akuisisi brand Secret Garden yang ditargetkan rampung pada semester pertama 2027, serta apakah realisasi penjualan dan margin pada paruh kedua 2026 benar-benar mampu mengimbangi kenaikan biaya bahan baku seperti yang dijanjikan manajemen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "xkgs-etf-emas-syariah-kim-melantai-di-bei-22-september",
+  "category": "Aksi Korporasi",
+  "title": "XKGS: [ETF] Emas Syariah KIM Melantai di BEI 22 September",
+  "deck": "Bursa Efek Indonesia mencatatkan 32,4 juta unit penyertaan Reksa Dana Syariah KIM Gold ETF Sharia dengan kode XKGS, mulai diperdagangkan 22 September 2026 dengan harga perdana Rp310 per unit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T19:41:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/566b369146_d8eeddd1ec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XKGS",
+  "tags": [
+   "XKGS",
+   "ETF",
+   "reksa dana syariah",
+   "emas"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mencatatkan Reksa Dana Syariah KIM Gold ETF Sharia dengan kode perdagangan XKGS mulai 22 September 2026. Persetujuan pencatatan diberikan Direksi BEI pada 17 September 2026, dengan jumlah unit penyertaan yang dicatatkan pertama kali sebanyak 32.400.000 unit.",
+   "Nilai aktiva bersih awal reksa dana ini tercatat Rp10.039.950.000, dengan harga perdana Rp310 per unit penyertaan. BEI menetapkan batas maksimum unit penyertaan yang bisa diterbitkan sebanyak 20 miliar unit, jauh di atas jumlah yang dicatatkan saat peluncuran, sehingga dana ini masih punya ruang besar untuk menghimpun dana tambahan dari investor di kemudian hari.",
+   "Pengelolaan reksa dana ini dipegang oleh PT Korea Investment Management Indonesia sebagai manajer investasi, dengan PT Bank Rakyat Indonesia (Persero) Tbk. bertindak sebagai bank kustodian yang menyimpan aset dana. PT Mirae Asset Sekuritas Indonesia ditunjuk sebagai dealer partisipan, pihak yang bertugas menjaga agar harga unit penyertaan di bursa tetap mendekati nilai aset yang mendasarinya, dalam hal ini emas, sesuai prinsip syariah."
+  ],
+  "fotoAdegan": "Stacked gold bars glinting under cool vault lighting, a metal security cage visible in the foreground, no people in frame",
+  "takeaway": "Pencatatan ini bersifat netral, sekadar menambah satu pilihan produk investasi berbasis emas syariah di bursa, bukan sinyal soal kinerja emiten operasional tertentu. Yang layak diperhatikan adalah jumlah unit penyertaan yang beredar saat ini, baru 32,4 juta dari batas maksimum 20 miliar unit atau sekitar 0,16 persen dari kapasitas penuhnya, sehingga ukuran dana ini masih sangat kecil dan transaksinya berpotensi tipis pada tahap awal perdagangan. Investor yang membeli unit ini pada dasarnya membeli eksposur ke harga emas lewat skema yang mengikuti prinsip syariah, jadi pergerakan nilainya lebih ditentukan oleh harga emas dunia ketimbang kinerja satu perusahaan. Yang perlu dipantau berikutnya adalah perdagangan perdana pada 22 September 2026, terutama seberapa aktif unit ini ditransaksikan pada hari-hari awal, karena itu akan menunjukkan seberapa besar minat investor terhadap produk baru ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dnrk-siapkan-dana-pelunasan-obligasi-viii-rp520-miliar",
+  "category": "Aksi Korporasi",
+  "title": "DNRK Siapkan Dana [Pelunasan] Obligasi VIII Rp520 Miliar",
+  "deck": "PT Danareksa (Persero) mengonfirmasi ke BEI kesiapan dana untuk membayar pokok Rp520 miliar dan kupon 7,70% Obligasi VIII Seri B.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T19:30:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1054cb2c87_b2a3e08086.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DNRK",
+  "tags": [
+   "DNRK",
+   "obligasi",
+   "Danareksa",
+   "BUMN"
+  ],
+  "body": [
+   "PT Danareksa (Persero) dengan kode emiten DNRK menyampaikan konfirmasi kesiapan dana kepada Bursa Efek Indonesia untuk memenuhi kewajiban pembayaran pokok Obligasi VIII Danareksa Tahun 2023 Seri B. Nilai pokok obligasi ini sebesar Rp520 miliar dengan jangka waktu tiga tahun dan jatuh tempo pada 9 Januari 2027. Selain pokok, perseroan juga akan membayar kupon ke-11 dengan tingkat bunga 7,70 persen senilai Rp11,9725 miliar pada 9 Oktober 2026. Surat konfirmasi bernomor S-20/DR/DKR/09/2026 ditandatangani oleh Ahmad Fauzie Nur, Direktur Keuangan dan Manajemen Risiko Danareksa, dan merujuk pada ketentuan Peraturan Nomor I-E BEI tentang Kewajiban Penyampaian Informasi.",
+   "Surat ini ditembuskan kepada lima pihak yang berkepentingan dengan obligasi tersebut, yaitu Otoritas Jasa Keuangan, PT Bank Rakyat Indonesia (Persero) Tbk selaku wali amanat, PT Pemeringkat Efek Indonesia, PT Kustodian Sentral Efek Indonesia, dan Dewan Komisaris PT Danareksa (Persero). Pengiriman ke wali amanat dan lembaga pemeringkat menunjukkan bahwa proses ini mengikuti mekanisme baku pengawasan pembayaran utang obligasi korporasi sebelum dana benar-benar dicairkan kepada pemegang efek."
+  ],
+  "fotoAdegan": "Wide view of a Jakarta financial district street at dusk, glass office towers lit from inside, light traffic below",
+  "takeaway": "Laporan ini netral bagi Danareksa, karena isinya adalah konfirmasi rutin yang wajib disampaikan setiap emiten obligasi menjelang tanggal pembayaran, bukan indikasi khusus soal membaik atau memburuknya kondisi keuangan perusahaan. Yang tersentuh adalah arus kas dan beban bunga, yaitu total dana sekitar Rp531,97 miliar yang akan keluar dari kas perseroan dalam waktu dekat untuk melunasi pokok utang dan membayar bunga obligasi, dua pos yang selalu diawasi pemegang obligasi karena menentukan apakah perusahaan mampu menepati jadwal pembayaran utangnya. Yang perlu dipantau selanjutnya adalah dua tanggal konkret dari surat ini, yaitu pembayaran kupon pada 9 Oktober 2026 dan pelunasan pokok obligasi pada 9 Januari 2027, karena realisasi tepat waktu pada kedua tanggal itulah yang akan membuktikan kebenaran konfirmasi kesiapan dana ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wika-jadwalkan-rupsu-sukuk-usai-gagal-bayar-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPSU] Sukuk usai Gagal Bayar, 21 Oktober",
+  "deck": "WIKA akan menggelar Rapat Umum Pemegang Sukuk Mudharabah Berkelanjutan III Tahap I 2022 pada 21 Oktober 2026, menyusul gagal bayar bagi hasil sukuk tersebut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T19:22:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0c01935696_81842fa472.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Sukuk (RUPSU) untuk Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022. Rapat dijadwalkan pada Rabu, 21 Oktober 2026, pukul 14.00 WIB, di WIKA Tower 2, Jakarta. Pemberitahuan ini ditandatangani oleh Corporate Secretary WIKA, Mahendra Vijaya, dan agenda rinci rapat belum dicantumkan dalam dokumen.",
+   "PT Bank Mega Tbk bertindak sebagai wali amanat sukuk ini, berdasarkan Perjanjian Perwaliamanatan Akta No. 47 tanggal 20 Juli 2022 yang dibuat di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito. Penyelenggaraan RUPSU ini mengacu pada Peraturan OJK No. 20/POJK.04/2020 tentang Kontrak Perwaliamanatan Efek Bersifat Utang dan/atau Sukuk. Panggilan resmi untuk RUPSU akan dimuat di satu surat kabar harian nasional pada Senin, 5 Oktober 2026, sebagai syarat sah pemanggilan rapat.",
+   "Rencana RUPSU ini terbit tak lama setelah WIKA gagal membayar bagi hasil sukuk seri ini, yang sebelumnya membuat bursa memperpanjang suspensi saham perseroan karena mengaitkan penundaan pembayaran itu dengan risiko kelangsungan usaha, bukan sekadar keterlambatan administratif."
+  ],
+  "fotoAdegan": "Construction cranes and an unfinished high-rise silhouette against a hazy Jakarta skyline at late afternoon",
+  "takeaway": "Laporan ini sendiri netral karena isinya baru sebatas jadwal rapat, belum memuat agenda rinci atau keputusan apa pun. Yang tersentuh adalah arus kas dan kewajiban utang WIKA, sebab RUPSU seperti ini lazimnya jadi forum bagi pemegang surat utang untuk menyepakati langkah lanjutan atas gagal bayar, misalnya perpanjangan waktu pembayaran atau perubahan syarat utang, dan hasilnya berpengaruh langsung ke beban bunga dan kondisi kas perusahaan ke depan. Yang perlu dipantau adalah pemuatan panggilan resmi RUPSU di media cetak nasional pada 5 Oktober 2026 sebagai syarat sahnya rapat, lalu pelaksanaan RUPSU itu sendiri pada 21 Oktober 2026, karena keputusan dalam rapat itu akan menentukan bagaimana kewajiban WIKA kepada pemegang sukuk ini diselesaikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wika-jadwalkan-rupo-obligasi-tahap-ii-2022-20-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPO] Obligasi Tahap II 2022, 20 Oktober",
+  "deck": "WIKA menjadwalkan RUPO Obligasi Berkelanjutan II Tahap II 2022 pada 20 Oktober 2026, sehari sebelum rapat pemegang sukuk mudharabah, di tengah gagal bayar dan suspensi saham perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T19:21:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/15737de547_a3c4ad9f35.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "obligasi korporasi",
+   "RUPO",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk mengumumkan rencana Rapat Umum Pemegang Obligasi (RUPO) untuk pemegang Obligasi Berkelanjutan II Wijaya Karya Tahap II Tahun 2022. Surat pemberitahuan bernomor SE.01.00/A.CORSEC.00313/2026 ditandatangani secara elektronik oleh Corporate Secretary Mahendra Vijaya pada 21 September 2026 pukul 19.21 WIB. Rapat dijadwalkan Selasa, 20 Oktober 2026, pukul 09.00 WIB, bertempat di WIKA Tower, Jakarta. Agenda rapat belum dicantumkan dalam surat ini.",
+   "Dalam pengumuman terpisah yang dilampirkan, PT Bank Mega Tbk selaku wali amanat, yang bertindak berdasarkan Perjanjian Perwaliamanatan Akta No. 48 tanggal 21 Januari 2022 di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito, menyebutkan bahwa panggilan resmi untuk RUPO akan dimuat di satu surat kabar harian berperedaran nasional pada Senin, 5 Oktober 2026. Publikasi panggilan ini mengacu pada ketentuan Peraturan Otoritas Jasa Keuangan No. 20/POJK.04/2020 tentang Kontrak Perwaliamanatan Efek Bersifat Utang dan/atau Sukuk.",
+   "RUPO untuk obligasi ini terjadwal hanya sehari sebelum Rapat Umum Pemegang Sukuk (RUPSU) untuk sukuk mudharabah WIKA yang sudah lebih dulu diumumkan pada 21 Oktober 2026, menyusul gagal bayar bagi hasil sukuk yang membuat saham WIKA disuspensi bursa."
+  ],
+  "fotoAdegan": "Exterior of a tall modern office tower in Jakarta's business district, seen from street level at dusk with traffic passing by.",
+  "takeaway": "Pengumuman ini netral bagi WIKA karena isinya baru soal jadwal rapat, belum ada agenda, syarat, atau angka restrukturisasi utang yang dibuka ke publik. Yang tersentuh adalah arus kas dan kewajiban utang perusahaan, sebab rapat pemegang obligasi seperti ini lazim dipakai emiten untuk meminta persetujuan perubahan jadwal bayar bunga atau pokok utang kepada kreditur pemegang surat utangnya. RUPO Obligasi Berkelanjutan II Tahap II 2022 ini dijadwalkan 20 Oktober 2026, hanya sehari sebelum RUPSU sukuk mudharabah WIKA pada 21 Oktober 2026, tanda bahwa tekanan utang perusahaan tidak terbatas pada satu seri surat utang saja. Yang perlu dipantau selanjutnya adalah panggilan resmi RUPO yang wajib dimuat di media nasional pada 5 Oktober 2026, karena di situlah agenda rapat dan kemungkinan permintaan restrukturisasi baru akan diumumkan secara rinci.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgeo-catatkan-474-554-saham-baru-dari-opsi-mesop",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catatkan 474.554 Saham Baru dari Opsi [MESOP]",
+  "deck": "Bursa mencatatkan 474.554 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III mulai 22 September 2026, menambah total saham beredar menjadi 41.922.757.485 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T19:17:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e436e519c1_e52fe4160e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "Pertamina Geothermal Energy",
+   "pencatatan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan saham baru PT Pertamina Geothermal Energy Tbk (PGEO) hasil pelaksanaan opsi program MESOP, efektif dicatat dan diperdagangkan mulai 22 September 2026. Saham baru itu berasal dari dua tahap sekaligus, Tahap I sebanyak 317.782 saham dan Tahap III sebanyak 156.772 saham, sehingga jumlah saham PGEO yang tercatat di bursa bertambah menjadi 41.922.757.485 lembar. Sisa opsi yang belum dilaksanakan masih ada, yakni 30.283.576 saham untuk Tahap I dan 18.144.851 saham untuk Tahap III.",
+   "Surat biro administrasi efek PT Datindo Entrycom kepada Bursa menjelaskan proses di baliknya. PGEO mengajukan permohonan penerbitan saham baru pada 18 September 2026, dan saham tersebut resmi diterbitkan pada 21 September 2026 dengan total 474.554 saham, gabungan dari pelaksanaan Tahap I dan Tahap III. Total saham ditempatkan dan disetor penuh PGEO sebelum penambahan ini tercatat 41.922.282.931 saham, sehingga setelah pelaksanaan opsi jumlahnya naik menjadi 41.922.757.485 saham. Surat itu ditandatangani Direktur Utama Datindo Entrycom, E. Agung Setiawati, dengan tembusan kepada Corporate Secretary PGEO, Muhammad Taufik.",
+   "MESOP sendiri merupakan program opsi saham yang diberikan perusahaan kepada manajemen dan karyawan sebagai bagian dari kompensasi, yang bisa ditebus menjadi saham baru sesuai jadwal dan harga yang sudah ditentukan sebelumnya. Dengan masih tersisanya puluhan juta opsi Tahap I dan Tahap III yang belum ditebus, penambahan saham serupa berpotensi kembali terjadi pada periode pencatatan berikutnya."
+  ],
+  "fotoAdegan": "Steam rising from geothermal power plant pipelines on a forested highland slope, technicians in hard hats inspecting valves, misty morning light",
+  "takeaway": "Laporan ini netral bagi PGEO karena tambahan 474.554 saham baru dari opsi MESOP hanya sekitar 0,0011 persen dari total saham beredar sebelumnya, jauh terlalu kecil untuk mengubah peta kepemilikan atau hak suara pemegang saham lama. Pos yang tersentuh adalah jumlah saham beredar, karena setiap penambahan saham tanpa kenaikan laba yang sebanding secara teori membuat laba per saham sedikit terdilusi, meski dalam kasus ini besarannya nyaris tidak berarti secara praktis. Yang perlu dipantau berikutnya adalah sisa opsi MESOP yang belum ditebus, yaitu 30.283.576 saham di Tahap I dan 18.144.851 saham di Tahap III, karena keduanya berpotensi menambah saham beredar lagi lewat pencatatan serupa di kemudian hari.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bssr-bagikan-dividen-interim-us-60-juta-cair-9-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BSSR Bagikan [Dividen] Interim US$60 Juta, Cair 9 Oktober",
+  "deck": "Baramulti Suksessarana membagikan dividen interim tahun buku 2026 senilai US$60 juta atau Rp406,16 per saham, dengan pembayaran dijadwalkan 9 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T18:31:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/327ed9e2d4_8146ecfed4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSSR",
+  "tags": [
+   "BSSR",
+   "dividen interim",
+   "Baramulti Suksessarana",
+   "emiten batu bara"
+  ],
+  "body": [
+   "PT Baramulti Suksessarana Tbk (BSSR) akan membagikan dividen interim pertama untuk tahun buku 2026 senilai US$60 juta, setelah keputusan tersebut disetujui direksi dan dewan komisaris pada 17 September 2026. Nilai itu setara US$0,0229314 atau Rp406,1609 per saham, dihitung dari kurs tengah Bank Indonesia pada tanggal yang sama, yaitu US$1 setara Rp17.712. Dividen ini dibagikan untuk seluruh 2.616.500.000 saham yang telah ditempatkan dan disetor penuh.",
+   "Jadwalnya, periode cum dividen atau batas terakhir membeli saham dengan hak dividen berakhir 29 September 2026 di pasar reguler dan negosiasi, serta 1 Oktober 2026 di pasar tunai. Tanggal pencatatan pemegang saham yang berhak (recording date) jatuh pada 1 Oktober 2026, dan dividen akan dibayarkan pada 9 Oktober 2026. Bagi pemegang saham yang sahamnya berada dalam penitipan kolektif KSEI, dana akan masuk ke rekening dana nasabah di perusahaan efek atau bank kustodian masing-masing, sementara pemegang saham di luar penitipan kolektif menerima transfer langsung.",
+   "Perseroan mendasarkan pembagian ini pada data keuangan per 30 Juni 2026, dengan laba bersih yang diatribusikan kepada entitas induk sebesar US$63.014.791, saldo laba ditahan yang tidak dibatasi penggunaannya US$190.133.393, dan total ekuitas US$266.353.748. Soal pajak, dividen dikecualikan dari pajak penghasilan bagi pemegang saham badan dalam negeri, serta bagi pemegang saham perorangan dalam negeri sepanjang dana dividen diinvestasikan kembali di Indonesia. Pemegang saham asing yang ingin memakai tarif pajak berganda wajib menyerahkan dokumen DGT atau Surat Keterangan Domisili ke KSEI, jika tidak maka dikenakan PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Wide shot of a coal loading conveyor feeding a bulk carrier at an Indonesian port, workers in hard hats nearby, daylight",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham, karena BSSR membagikan US$60 juta dividen interim, hampir sama besar dengan seluruh laba bersih semester pertama 2026 yang tercatat US$63 juta, menandakan kas perusahaan cukup kuat untuk membayar tunai sebesar itu tanpa menunggu tutup buku tahunan. Pos yang tersentuh adalah ekuitas dan saldo laba ditahan, yaitu keuntungan yang selama ini disimpan perusahaan sebagai cadangan, karena setelah dividen ini dibayarkan, total ekuitas akan menyusut dari US$266,4 juta menjadi sekitar US$206,4 juta akibat kas keluar dalam jumlah besar sekaligus. Pelaku pasar biasanya mencermati langkah semacam ini sebagai sinyal manajemen percaya diri dengan arus kas ke depan, meski itu juga berarti lebih sedikit dana yang ditahan untuk ekspansi. Yang perlu dipantau berikutnya adalah tenggat pembelian saham sebelum tanggal ex dividen 30 September 2026 di pasar reguler bagi investor yang ingin memperoleh hak dividen ini, dengan pencatatan pemegang saham pada 1 Oktober 2026 dan pembayaran tunai pada 9 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "amran-minta-25-merek-beras-fortifikasi-setop-produksi",
   "category": "Industri",
   "title": "Amran Minta 25 Merek Beras Fortifikasi [Setop] Produksi",
@@ -103,6 +284,31 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini baru sebatas kerangka kerja sama, bukan proyek yang sudah pasti jalan: nota kesepahaman ini membuka pintu diskusi di lima bidang, pusat data, kecerdasan buatan, 5G, konektivitas, dan IoT, tanpa menyebut nilai investasi atau proyek konkret yang akan digarap. Yang langsung terdampak adalah empat entitas TelkomGroup, yaitu Telkom, Telkomsel, InfraNexia, dan Mitratel, karena merekalah yang akan menegosiasikan detail teknis dengan China Unicom, sementara pelanggan korporat baru akan merasakan manfaatnya kalau kerja sama ini berlanjut ke tahap kontrak. Yang masih kurang untuk bisa membaca ke mana arah kemitraan ini adalah kesepakatan lanjutan yang lebih mengikat, misalnya proyek pusat data atau layanan 5G yang benar-benar berjalan beserta nilainya, sebab nota kesepahaman sendiri tidak mengikat dan bisa saja tidak berlanjut. Yang perlu dipantau adalah pengumuman berikutnya dari TelkomGroup atau China Unicom soal proyek konkret di salah satu dari lima bidang tersebut.",
   "imageV": "mub6o5du"
+ },
+ {
+  "slug": "jecx-sarana-meditama-tambah-saham-hak-suara-ke-33",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Sarana Meditama Tambah Saham, Hak Suara ke [33%]",
+  "deck": "PT Sarana Meditama Metropolitan Tbk menambah kepemilikan tidak langsung di JECX sebanyak 1.174.500 saham pada 18 September 2026, menaikkan hak suaranya dari 32,97% menjadi 33,00%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T17:49:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7121-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "Sarana Meditama Metropolitan",
+   "kepemilikan saham",
+   "JEC Eye Hospitals"
+  ],
+  "body": [
+   "PT Sarana Meditama Metropolitan Tbk melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya membeli tambahan saham PT Nitrasanata Dharma Tbk (JECX), operator jaringan rumah sakit mata JEC Eye Hospitals & Clinics, secara tidak langsung sebanyak 1.174.500 lembar saham pada 18 September 2026. Pembelian dilakukan pada harga Rp1.370 per saham dengan tujuan investasi.",
+   "Dengan tambahan tersebut, kepemilikan Sarana Meditama Metropolitan di JECX naik dari 1.072.500.000 lembar saham menjadi 1.073.674.500 lembar saham. Hak suaranya di perseroan turut naik dari 32,97% menjadi 33,00%. Laporan ini disampaikan sesuai kewajiban keterbukaan informasi berdasarkan POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Exterior of a modern eye hospital building with a glass facade in a quiet Jakarta neighborhood, daytime, pedestrians passing by",
+  "takeaway": "Laporan ini netral bagi JECX, sebab tambahan 1,17 juta saham hanya sekitar 0,11% dari kepemilikan Sarana Meditama Metropolitan sebelumnya, terlalu kecil untuk dibaca sebagai sinyal perubahan sikap pemegang saham. Yang tersentuh di sini adalah struktur hak suara, yaitu porsi suara yang bisa dipakai pemegang saham dalam rapat umum pemegang saham, yang naik tipis dari 32,97% menjadi 33,00% tanpa mengubah siapa pengendali utama JECX. Pergerakan seperti ini lazim terjadi pada pemegang saham besar yang rutin menambah posisi di pasar dan belum menandakan rencana korporasi khusus. Yang perlu dipantau berikutnya adalah apakah Sarana Meditama Metropolitan terus menambah kepemilikannya mendekati ambang batas tertentu, serta laporan kepemilikan lanjutan yang wajib disampaikan setiap kali terjadi perubahan saham di perusahaan terbuka ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "ojk-soroti-bank-buffer-tipis-ldr-perbankan-88-38",
@@ -1101,6 +1307,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "takeaway": "Yang berubah di sini adalah penambahan alat, bukan aturan atau anggaran baru yang diumumkan resmi. Kementan menyebut sekitar seribu unit pompa irigasi sudah disalurkan untuk kebun, ditambah 545 pompa pemadam kebakaran lahan yang dibagikan ke sembilan provinsi rawan karhutla sejak 2022. Yang terdampak jelas pekebun di wilayah rawan kering dan kebakaran seperti Riau dan sejumlah daerah di Kalimantan, tapi Kementan sendiri tidak merinci sejak kapan seribu unit pompa itu dihitung, berapa anggarannya, atau berapa luas kebun yang tercakup. Karena angka-angka ini masih klaim sepihak tanpa rincian waktu dan cakupan, arah kebijakannya baru bisa dibaca lebih jelas kalau ada laporan realisasi bantuan per wilayah atau data luas kebun yang benar-benar terselamatkan setelah musim kemarau tahun ini berakhir.",
   "imageV": "muarfsnz"
+ },
+ {
+  "slug": "btps-panggil-rupslb-usulkan-buyback-saham-hingga-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Panggil RUPSLB, Usulkan [Buyback] Saham hingga Rp1 Triliun",
+  "deck": "RUPSLB BTPS digelar 13 Oktober 2026 untuk memutuskan rencana pembelian kembali saham hingga 10 persen modal dengan dana maksimal Rp1 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T11:19:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c8cebd70e_8b0b842574.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "RUPSLB",
+   "buyback saham",
+   "Bank BTPN Syariah"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 13 Oktober 2026 pukul 10.00 WIB di Menara SMBC Lantai 16, CBD Mega Kuningan, Jakarta. Agenda tunggal rapat ini adalah persetujuan rencana pembelian kembali saham perseroan atau buyback. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Jumat, 18 September 2026 pukul 16.00 WIB.",
+   "Dalam dokumen penjelasan mata acara, manajemen mengusulkan agar jumlah saham yang dibeli kembali tidak melebihi 10 persen dari total modal yang telah ditempatkan perseroan, dengan dana yang dikeluarkan paling banyak Rp1 triliun. Angka itu sudah termasuk komisi perantara pedagang efek dan biaya lain yang terkait dengan transaksi buyback. Jika disetujui, direksi akan diberi kuasa penuh untuk melaksanakan pembelian tersebut, termasuk menentukan sendiri harga beli sahamnya. Rencana ini juga merujuk pada surat Otoritas Jasa Keuangan Departemen Pengawasan Bank Syariah Nomor S-96/PB.22/2026 tanggal 27 Agustus 2026 yang menyatakan OJK telah mencatat rencana buyback tersebut.",
+   "Agar sah, RUPSLB ini harus dihadiri pemegang saham atau kuasanya yang mewakili lebih dari dua pertiga total saham berhak suara. Keputusan diambil lewat musyawarah mufakat, atau jika tidak tercapai, disetujui oleh suara setuju dari lebih dari separuh saham yang hadir dalam rapat. Pemegang saham yang ingin memberi kuasa elektronik lewat aplikasi eASY.KSEI harus melakukannya paling lambat Senin, 12 Oktober 2026 pukul 12.00 WIB, sementara surat kuasa fisik harus diterima Biro Administrasi Efek PT Datindo Entrycom paling lambat tiga hari kerja sebelum rapat, yakni Kamis, 8 Oktober 2026."
+  ],
+  "fotoAdegan": "Interior of a modern bank branch in Jakarta, tellers assisting customers behind glass counters, soft morning light",
+  "takeaway": "Rencana buyback ini terhitung netral bagi BTPS, sebab dokumen ini baru meminta persetujuan pagu maksimal, bukan komitmen belanja pasti, dan seberapa besar dana yang benar-benar terpakai baru akan terlihat setelah direksi merealisasikannya. Yang tersentuh adalah jumlah saham beredar dan laba per saham, karena kalau direksi benar membeli kembali hingga 10 persen saham senilai Rp1 triliun, saham yang beredar di pasar berkurang sehingga laba perusahaan akan dibagi ke lebih sedikit saham, tapi di sisi lain kas dan modal perusahaan berkurang sebesar dana yang dipakai. Sebagai bank, pengurangan modal lewat buyback juga perlu dicermati karena bisa menggerus bantalan modal yang selama ini menopang kemampuan menyalurkan pembiayaan. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 13 Oktober 2026, yang baru sah jika dihadiri pemegang saham dengan lebih dari dua pertiga total saham berhak suara, serta pengumuman lanjutan soal harga dan jumlah saham yang benar-benar dibeli kembali begitu direksi mulai merealisasikan program ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "crab-laba-bersih-anjlok-53-utang-naik-di-semester-i-2026",

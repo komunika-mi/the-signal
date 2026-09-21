@@ -3,6 +3,262 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pssi-bagi-saham-bonus-173-4-juta-lembar-dari-treasuri-rasio-30-1",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Bagi [Saham Bonus] 173,4 Juta Lembar dari Treasuri, Rasio 30:1",
+  "deck": "PSSI berencana membagikan 173,4 juta saham bonus dari saham treasuri dengan rasio 30:1, memenuhi kewajiban pengalihan saham hasil buyback 2021-2025 sesuai aturan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T17:25:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fae8c5faca_11772ea6b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "saham bonus",
+   "saham treasuri",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) mengumumkan rencana pembagian saham bonus yang berasal dari saham treasuri perusahaan, dengan rasio 30:1, artinya setiap pemegang 30 saham akan mendapat tambahan 1 saham bonus. Rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 28 Oktober 2026 pukul 10.00 WIB di Graha Irama, Kuningan, Jakarta Selatan. Pengumuman dan keterbukaan informasi ini dipublikasikan pada 21 September 2026, sedangkan pemanggilan resmi RUPSLB akan menyusul pada 6 Oktober 2026.",
+   "Langkah ini berkaitan dengan tiga program pembelian kembali saham (buyback) yang dilakukan PSSI sepanjang 2021 hingga 2025, dengan total 324.365.400 saham. Periode pertama mencakup 167.596.800 saham dengan harga rata-rata Rp358 per saham, dan dari jumlah itu 28.491.400 saham sudah dialihkan lebih dulu lewat program kepemilikan saham karyawan dan manajemen (MESOP). Periode kedua sebanyak 40.167.900 saham dibeli pada harga rata-rata Rp629 per saham, dan periode ketiga sebanyak 116.600.700 saham pada harga rata-rata Rp347 per saham. Berdasarkan aturan OJK No. 29/2023, saham hasil buyback yang sudah didiamkan lebih dari tiga tahun wajib mulai dialihkan perusahaan dalam waktu paling lama dua tahun berikutnya, dan pembagian saham bonus adalah salah satu metode pengalihan yang diizinkan.",
+   "Dari total saham treasuri tersebut, sebanyak 173.448.234 saham akan dialihkan lewat mekanisme saham bonus ini. Karena bukan pembagian dividen saham, jumlah saham bonus ditentukan berdasarkan nilai nominal saham Rp100 per lembar, sehingga total nilai nominal saham bonus yang dibagikan mencapai Rp17,34 triliun setara 17.344.823.400 rupiah. Perusahaan sudah mengirim surat permohonan persetujuan ke OJK pada 11 September 2026. Jika RUPSLB menyetujui, pemegang saham yang berhak adalah yang namanya tercatat dalam daftar pemegang saham per 9 November 2026, dengan saham bonus dijadwalkan dibagikan pada 27 November 2026 atau paling lambat 30 hari setelah ringkasan risalah RUPSLB diumumkan. Jika perhitungan menghasilkan pecahan saham, pembulatan dilakukan ke bawah."
+  ],
+  "fotoAdegan": "Container ship being loaded at a busy Indonesian port terminal, gantry cranes working under bright daylight, tugboats idling nearby",
+  "takeaway": "Rencana ini condong netral bagi pemegang saham, karena saham bonus dibagikan proporsional kepada seluruh pemegang saham sesuai kepemilikannya, sehingga persentase kepemilikan masing-masing tidak berubah, berbeda dari opsi menjual saham treasuri ke pasar terbuka yang akan menambah porsi kepemilikan pihak luar. Yang tersentuh adalah jumlah saham beredar, yang akan bertambah sekitar 3,3 persen mengikuti rasio 30:1, sehingga laba per saham dan nilai buku per saham otomatis terbagi ke basis saham yang lebih banyak meski nilai ekuitas perusahaan secara keseluruhan tidak berkurang. Langkah ini juga sekadar memenuhi kewajiban regulasi OJK agar 324,4 juta saham hasil buyback 2021-2025 tidak terus mengendap di kas perusahaan. Yang perlu dipantau berikutnya adalah persetujuan RUPSLB pada 28 Oktober 2026, penetapan pemegang saham berhak pada recording date 9 November 2026, dan realisasi pembagian saham bonus yang dijadwalkan 27 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aims-ungkap-ekuitas-anjlok-usai-pendapatan-cuma-rp93-juta",
+  "category": "Aksi Korporasi",
+  "title": "AIMS Ungkap Ekuitas [Anjlok] Usai Pendapatan Cuma Rp93 Juta",
+  "deck": "Public expose tahunan AIMS mengungkap pendapatan 2025 anjlok ke Rp93 juta, membuat perusahaan merugi dan ekuitas turun tajam akibat kendala regulasi RKAB tambang rekanan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T17:00:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6c60b2c061_63f2b2baca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AIMS",
+  "tags": [
+   "AIMS",
+   "public expose",
+   "ekuitas",
+   "batu bara"
+  ],
+  "body": [
+   "PT Artha Mahiya Investama Tbk (AIMS) menyampaikan laporan hasil Public Expose Tahunan 2026 kepada Bursa Efek Indonesia. Acara berlangsung Kamis, 17 September 2026 pukul 11.00 WIB di Chora 1 dan 2, Level 2 The Tribrata, Darmawangsa Jakarta, serta disiarkan lewat Zoom. Manajemen yang hadir adalah Komisaris Utama Mohammad Rafil Perdana, Komisaris Endru Adhikara, Direktur Utama Calvin Lutvi, Direktur Pandu Andakara, dan Direktur Mohammad Adil Triansyah, sementara Komisaris Independen Akhmad Ali Fahmi tidak hadir. Total peserta dari luar manajemen tercatat 38 orang, terdiri dari 30 orang hadir langsung dan 8 orang lewat Zoom.",
+   "Menjawab pertanyaan investor Christ J. Daely soal prospek bisnis 2026 dan 2027, manajemen menjelaskan bahwa AIMS awalnya berbisnis batu bara dan cadangan tambangnya habis (mineout) pada 2025 sehingga beralih ke aktivitas dagang (trading) komoditas. Namun aturan Rencana Kerja dan Anggaran Biaya (RKAB) dari perusahaan tambang rekanan membuat usaha trading Perseroan melambat drastis. Sejak akhir tahun lalu, Perseroan mulai merambah bisnis manajemen tambang dan manajemen eksplorasi, dan manajemen menyebut 2026 serta 2027 sebagai periode penting untuk memperkuat fondasi bisnis baru itu.",
+   "Pertanyaan paling tajam datang dari investor Arianto, yang mempersoalkan pendapatan Perseroan yang anjlok menjadi Rp93 juta sehingga menyebabkan kerugian besar, kenaikan tajam liabilitas, serta penurunan tajam ekuitas. Manajemen menjelaskan bahwa sepanjang 2025 Perseroan tidak bisa membeli stok komoditas dari mitra tambang sesuai rencana akibat kendala RKAB, sehingga kehilangan peluang pendapatan dari aktivitas trading dan mengalami periode kosong kegiatan usaha. Kondisi itu berujung pada kerugian dan tergerusnya ekuitas Perseroan, dan manajemen menyatakan tengah menjalankan rencana usaha alternatif berupa manajemen tambang dan eksplorasi bersama mitra pemegang izin untuk memperbaiki kinerja ke depan.",
+   "Soal keterkaitan bisnis dengan lingkungan dan tanggung jawab sosial, manajemen menyebut Perseroan tidak memiliki izin maupun area tambang sendiri, sehingga kegiatan eksplorasinya dilakukan bersama perusahaan tambang rekanan berdasarkan surat penunjukan, mencakup pemetaan area dan pemanfaatan drone. Perseroan belum memiliki program CSR yang melekat pada satu wilayah tambang karena tidak mengoperasikan tambang sendiri, namun mempekerjakan tenaga kerja lokal harian saat kegiatan eksplorasi berlangsung."
+  ],
+  "fotoAdegan": "Two geologists inspecting rock samples beside a survey drone on a forested Indonesian hillside, overcast morning light",
+  "takeaway": "Laporan ini condong negatif bagi AIMS, karena sesi tanya jawab justru membongkar kondisi keuangan yang lebih buruk dari yang biasa terlihat di laporan rutin: pendapatan 2025 nyaris hilang di angka Rp93 juta, Perseroan merugi, liabilitas naik tajam, dan ekuitas turun tajam. Ekuitas adalah modal bersih milik pemegang saham setelah dikurangi semua utang, jadi penurunan tajamnya berarti bantalan keuangan Perseroan menipis dan ruang geraknya untuk menyerap kerugian lanjutan makin sempit, sementara liabilitas yang naik tajam menandakan Perseroan makin bergantung pada utang atau kewajiban ke pihak lain. Pelaku pasar wajar mencermati kombinasi ini karena kerugian yang berlanjut bisa memaksa perusahaan mencari suntikan dana baru, yang pada gilirannya berisiko menambah jumlah saham beredar dan mengurangi porsi kepemilikan investor lama. Yang perlu dipantau berikutnya adalah realisasi rencana bisnis alternatif Perseroan di bidang manajemen tambang dan eksplorasi sepanjang 2026 dan 2027, periode yang oleh manajemen sendiri disebut sebagai masa krusial membangun fondasi bisnis baru, serta apakah kendala regulasi RKAB pada mitra tambangnya akan mereda.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tnca-ganti-ketua-komite-audit-per-18-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "TNCA Ganti Ketua [Komite Audit] per 18 September 2026",
+  "deck": "TNCA mengganti ketua komite audit dari Achmad Sutjipto ke R. Bagus Panuntun efektif 18 September 2026, sementara dua anggota lain tetap menjabat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:56:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a3c07675d1_8e848f7f7d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TNCA",
+  "tags": [
+   "TNCA",
+   "komite audit",
+   "tata kelola perusahaan",
+   "Trimuda Nuansa Citra"
+  ],
+  "body": [
+   "PT Trimuda Nuansa Citra Tbk (TNCA) mengumumkan pergantian ketua komite audit efektif 18 September 2026. Berdasarkan Surat Keputusan Dewan Komisaris Nomor 001/GED-CORSEC/SK/IX/2026 yang ditetapkan di Jakarta pada tanggal yang sama, kursi ketua komite audit berpindah dari Achmad Sutjipto ke R. Bagus Panuntun. Dua anggota lain, Agustine Rosmaulina Munthe dan Meri Binti Sabon, tetap menjabat pada periode ke-1 seperti sebelumnya.",
+   "Dalam surat keputusan itu, Dewan Komisaris menyebut dasar pembentukan komite audit ini adalah anggaran dasar perseroan serta Peraturan Otoritas Jasa Keuangan (POJK) Nomor 55/POJK.04/2015, yang mewajibkan setiap emiten dan perusahaan publik memiliki komite audit yang bertanggung jawab langsung kepada Dewan Komisaris. Surat keputusan tersebut dinyatakan berlaku sejak tanggal ditetapkan sampai ada peninjauan kembali oleh Dewan Komisaris, tanpa batas waktu yang ditentukan sejak awal.",
+   "Keterbukaan informasi ini disampaikan oleh Corporate Secretary TNCA, Felicia Fanny, kepada Bursa Efek Indonesia pada 21 September 2026 pukul 16.56 WIB, dengan melampirkan salinan surat keputusan pengangkatan komite audit sebagai dokumen pendukung."
+  ],
+  "fotoAdegan": "Warehouse staff sorting parcels along a conveyor belt inside a busy logistics distribution center, fluorescent lighting overhead",
+  "takeaway": "Perubahan ini netral bagi TNCA, karena yang berganti hanya struktur pengawasan internal, bukan angka di laporan keuangan atau posisi bisnis perseroan. Yang tersentuh adalah kualitas pengawasan atas laporan keuangan, sebab komite audit adalah organ yang memeriksa keandalan laporan keuangan dan kinerja auditor sebelum diserahkan ke publik, sehingga pemegang saham wajar ingin tahu siapa yang memimpinnya. Kesinambungan pengawasan relatif terjaga karena dua dari tiga anggota, Agustine Rosmaulina Munthe dan Meri Binti Sabon, tidak berganti. Dokumen ini tidak menyebut agenda RUPS atau tenggat lanjutan terkait perubahan ini, sehingga satu-satunya penanda waktu yang jelas adalah tanggal efektifnya sendiri, 18 September 2026, dan masa berlakunya baru berakhir jika ada peninjauan baru oleh Dewan Komisaris.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdla-direksi-beli-100-000-saham-senilai-rp20-4-juta",
+  "category": "Aksi Korporasi",
+  "title": "MDLA: Direksi [Beli] 100.000 Saham Senilai Rp20,4 Juta",
+  "deck": "Direksi PT Medela Potentia Tbk, Edbert Orotodan, menambah kepemilikan saham perseroan sebanyak 100.000 lembar pada 18 September 2026, menaikkan hak suaranya menjadi 0,014%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:51:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-8484-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLA",
+  "tags": [
+   "MDLA",
+   "Medela Potentia",
+   "kepemilikan saham direksi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Edbert Orotodan, anggota direksi PT Medela Potentia Tbk (MDLA), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 100.000 saham biasa perseroan secara tidak langsung pada 18 September 2026 dengan harga Rp204 per saham. Transaksi bernilai sekitar Rp20,4 juta itu membuat jumlah saham yang dikuasainya bertambah dari 1.840.900 lembar menjadi 1.940.900 lembar. Dalam laporan yang disampaikan lewat sistem pelaporan KSEI sesuai POJK Nomor 4/2024, Edbert mencantumkan tujuan pembelian sebagai investasi.",
+   "Penambahan 100.000 saham tersebut setara dengan 5,4321% dari jumlah saham yang sebelumnya sudah dimiliki Edbert. Namun porsinya terhadap total saham beredar MDLA tetap sangat kecil, hak suaranya di perseroan hanya naik tipis dari 0,013% menjadi 0,014%. Laporan semacam ini wajib disampaikan setiap kali direksi atau komisaris perusahaan terbuka mengalami perubahan kepemilikan saham, berapa pun jumlahnya."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise office tower in Jakarta's financial district, busy street traffic below, midday light",
+  "takeaway": "Laporan ini netral bagi emiten karena ukuran transaksinya kecil, pembelian 100.000 saham senilai sekitar Rp20,4 juta oleh seorang direksi belum cukup besar untuk dibaca sebagai sinyal kuat kepercayaan pada prospek perseroan, apalagi hak suara Edbert di MDLA cuma naik dari 0,013% jadi 0,014%. Transaksi ini juga tidak menambah kas ke perseroan atau mengubah jumlah saham beredar MDLA, karena sahamnya dibeli dari pasar sekunder secara tidak langsung, bukan dari penerbitan saham baru, sehingga tidak berdampak pada laba per saham. Yang perlu dicermati selanjutnya adalah apakah pembelian kecil seperti ini berlanjut atau diikuti direksi dan komisaris lain MDLA, sebab satu transaksi sekecil ini saja belum cukup untuk menyimpulkan arah kepercayaan manajemen terhadap sahamnya sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fore-pemegang-saham-tambah-kepemilikan-jadi-6",
+  "category": "Aksi Korporasi",
+  "title": "FORE: Pemegang Saham [Tambah] Kepemilikan Jadi 6%",
+  "deck": "Ferry Sudjono membeli 2,21 juta saham FORE senilai sekitar Rp1,68 miliar pada 16 September 2026, menaikkan hak suaranya dari 5,97 persen menjadi 6 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:51:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0022-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORE",
+  "tags": [
+   "FORE"
+  ],
+  "body": [
+   "PT Fore Kopi Indonesia Tbk (FORE) menerima laporan keterbukaan informasi dari Ferry Sudjono, seorang pemegang saham yang bukan anggota direksi maupun dewan komisaris perusahaan. Dalam laporan yang disampaikan ke Otoritas Jasa Keuangan pada 21 September 2026, Ferry melaporkan pembelian tidak langsung sebanyak 2.215.500 saham biasa FORE pada 16 September 2026 dengan harga Rp760 per saham. Total nilai transaksi tersebut sekitar Rp1,68 miliar, dengan tujuan yang disebutkan dalam dokumen sebagai investasi untuk memperoleh potensi capital gain atau selisih harga jual beli saham.",
+   "Dengan pembelian ini, jumlah saham yang dimiliki Ferry Sudjono di FORE bertambah dari 532.980.400 lembar menjadi 535.195.900 lembar. Hak suaranya di perusahaan naik dari 5,97 persen menjadi 6 persen. Laporan ini wajib disampaikan karena diatur dalam Peraturan OJK Nomor 4/2024 tentang pelaporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Laporan ini netral bagi FORE karena penambahan saham yang dilaporkan hanya sekitar 0,42 persen dari kepemilikan Ferry Sudjono sebelumnya, dan hak suaranya pun cuma naik tipis dari 5,97 persen ke 6 persen, jauh dari mengubah kendali atas perusahaan. Yang tersentuh di sini murni struktur kepemilikan saham dan hak suara pemegang saham, bukan kas atau ekuitas perusahaan, karena transaksi ini terjadi antar investor di pasar sekunder dan tidak melibatkan penerbitan saham baru oleh FORE. Pelaku pasar tetap mencatat perubahan kepemilikan seperti ini karena pemegang saham dengan andil di atas 5 persen wajib melaporkan setiap perubahan, sehingga pola pembelian atau penjualan mereka bisa jadi indikator dini soal keyakinan pihak besar terhadap perusahaan. Yang perlu dipantau selanjutnya adalah apakah Ferry Sudjono kembali menambah kepemilikannya dalam laporan-laporan berikutnya, yang akan menunjukkan apakah pembelian kali ini sekadar transaksi kecil atau bagian dari akumulasi yang lebih besar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-15-58",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 15,58%",
+  "deck": "Samuel Sekuritas Indonesia selaku direksi NSSS mencatat penambahan bersih 363,4 juta saham lewat transaksi repo pada 21 September 2026, mengerek hak suaranya ke 15,58 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:41:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7501-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "repo saham",
+   "kepemilikan direksi",
+   "hak suara"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) menerima laporan kepemilikan saham dari Samuel Sekuritas Indonesia, yang menjabat sebagai direksi perusahaan, tertanggal 21 September 2026. Dalam laporan itu, jumlah saham yang dimiliki bertambah dari 3.345.613.500 lembar menjadi 3.709.040.500 lembar, atau naik 363.427.000 lembar. Hak suaranya di perusahaan pun naik dari 14,06 persen menjadi 15,58 persen.",
+   "Kenaikan itu berasal dari dua transaksi pada tanggal yang sama. Pertama, pembelian 422.244.400 lembar saham biasa dengan harga Rp750 per saham untuk tujuan penempatan repurchase agreement atau repo. Kedua, penjualan 58.817.400 lembar saham biasa dengan harga Rp685 per saham untuk tujuan pencairan repo. Selisih bersih dari kedua transaksi itu menghasilkan tambahan 363.427.000 lembar saham, setara sekitar 10,86 persen dari saham yang sudah dimiliki direksi tersebut sebelum transaksi.",
+   "Laporan ini melanjutkan rangkaian transaksi repo saham oleh direksi yang sama sepanjang pekan terakhir, di mana hak suaranya sempat naik turun tajam, dari sekitar 14 persen sampai di atas 20 persen, seiring saham yang berulang kali ditempatkan dan dicairkan lewat skema repo."
+  ],
+  "fotoAdegan": "Workers loading harvested oil palm fruit bunches onto a truck at a rural plantation collection point, morning haze",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental NSSS, karena tambahan saham berasal dari penempatan repo, bukan pembelian dengan dana segar di pasar terbuka, sehingga sulit dibaca sebagai sinyal keyakinan baru direksi terhadap prospek perusahaan, meski nilainya cukup besar yaitu sekitar 10,86 persen dari kepemilikan sebelumnya. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, bukan kas atau ekuitas NSSS, karena repo pada dasarnya adalah saham yang dijadikan jaminan pinjaman dengan janji dibeli kembali, sehingga jumlah saham beredar perusahaan secara keseluruhan tidak berubah, hanya berpindah tangan sementara. Yang perlu dipantau berikutnya adalah apakah pola bolak balik penempatan dan pencairan repo oleh direksi yang sama ini masih berlanjut di laporan-laporan selanjutnya, karena frekuensinya yang tinggi dalam sepekan terakhir mengindikasikan ada kebutuhan pendanaan aktif di balik transaksi ini yang belum dijelaskan dalam laporan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pssi-jadwalkan-rupslb-pada-28-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Jadwalkan [RUPSLB] pada 28 Oktober 2026",
+  "deck": "PT IMC Pelita Logistik Tbk mengumumkan rencana RUPSLB 28 Oktober 2026, dengan cutoff pemegang saham 5 Oktober dan pemanggilan resmi 6 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:30:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/62cacb1ade_aa34ec18a7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "RUPSLB",
+   "IMC Pelita Logistik",
+   "pasar modal"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 28 Oktober 2026 pukul 10.00 WIB, bertempat di Graha Irama Lantai 8, Jalan H.R. Rasuna Said, Kuningan Timur, Jakarta. Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada penutupan perdagangan bursa tanggal 5 Oktober 2026. Artinya, transaksi jual beli saham PSSI setelah tanggal tersebut tidak lagi memberi hak suara di RUPSLB ini.",
+   "Perseroan akan menerbitkan pemanggilan resmi yang memuat mata acara rapat pada 6 Oktober 2026, disebarkan lewat laman Bursa Efek Indonesia, situs perusahaan, dan situs PT Kustodian Sentral Efek Indonesia (KSEI), sesuai Peraturan OJK Nomor 15/POJK.04/2020 dan Pasal 18 Anggaran Dasar Perseroan. Dokumen pengumuman ini belum mencantumkan agenda rapat, sehingga isu yang akan dibahas baru akan diketahui saat pemanggilan terbit. Rapat akan digelar secara fisik terbatas sekaligus elektronik lewat aplikasi eASY.KSEI, dengan detail teknis menyusul di pemanggilan.",
+   "Perseroan juga membuka ruang bagi pemegang saham yang memenuhi syarat untuk mengusulkan mata acara tambahan. Usulan beserta penjelasannya harus dikirim lewat surat tercatat kepada Direksi Perseroan paling lambat tujuh hari sebelum tanggal pemanggilan, yakni sekitar 29 September 2026, pada jam kantor Perseroan."
+  ],
+  "fotoAdegan": "Tugboats guiding cargo barges through a busy Indonesian port channel, stacked containers on the dock, midday light.",
+  "takeaway": "Laporan ini netral bagi pemegang saham, karena isinya baru sebatas jadwal dan mekanisme RUPSLB, belum memuat agenda atau keputusan apa pun yang bisa dinilai dampaknya ke bisnis Perseroan. Yang tersentuh di sini murni soal hak suara: siapa yang tercatat sebagai pemegang saham per 5 Oktober 2026 itulah yang berhak ikut menentukan keputusan di rapat nanti, bukan pos keuangan seperti ekuitas atau laba per saham, karena belum ada agenda transaksi yang diumumkan. Mengingat PSSI belakangan aktif dengan aksi korporasi lain, pembagian saham bonus 173,4 juta lembar dan pelepasan saham treasuri 85 juta lembar, ada kemungkinan RUPSLB ini berkaitan dengan salah satu dari itu, tapi ini masih dugaan karena mata acaranya belum diumumkan. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 6 Oktober 2026 yang akan memuat agenda lengkap, serta pelaksanaan RUPSLB itu sendiri pada 28 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rupst-aims-sepakat-tanpa-dividen-laba-ditahan-jadi-modal",
+  "category": "Aksi Korporasi",
+  "title": "RUPST AIMS Sepakat [Tanpa Dividen], Laba Ditahan Jadi Modal",
+  "deck": "RUPST AIMS mengesahkan laporan tahunan 2025, memutuskan tidak membagikan dividen, dan menyerahkan penentuan gaji direksi serta penunjukan auditor 2026 ke Dewan Komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:25:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/416d501ab7_0799f21681.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AIMS",
+  "tags": [
+   "AIMS",
+   "RUPST",
+   "dividen",
+   "laba ditahan"
+  ],
+  "body": [
+   "PT Artha Mahiya Investama Tbk (AIMS) menggelar Rapat Umum Pemegang Saham Tahunan pada Kamis, 17 September 2026, di Jakarta, dihadiri pemegang saham yang mewakili 164.264.591 saham atau 74,66 persen dari total saham berhak suara. Rapat yang berlangsung sekitar 34 menit itu menyetujui laporan tahunan dan laporan keuangan untuk tahun buku 2025, sekaligus memberikan pembebasan dan pelunasan tanggung jawab (acquit et de charge) kepada Direktur Utama Calvin Lutvi, Direktur Pandu Andakara, Direktur M. Adil Triansyah, Komisaris Utama Mohammad Rafil Perdana, dan Komisaris Endru Adhikara atas kepengurusan dan pengawasan mereka selama 2025. Setiap agenda disetujui 164.264.591 suara atau 100 persen dari suara yang sah, dengan 303.500 suara abstain atau 0,18 persen dan nihil suara menolak.",
+   "Pemegang saham memutuskan untuk tidak membagikan dividen tunai. Laba usaha tahun buku 2025 akan dibukukan seluruhnya sebagai laba ditahan, dengan alasan resmi untuk memperkuat permodalan jangka panjang serta mendukung pertumbuhan bisnis dan rencana investasi Perseroan. Artinya, pemegang saham AIMS tidak menerima pembagian keuntungan tunai dari tahun buku ini.",
+   "Rapat juga memberi kuasa kepada Dewan Komisaris untuk menetapkan gaji, honorarium, dan tunjangan direksi serta komisaris untuk tahun buku 2026, dan mendelegasikan penunjukan akuntan publik yang akan mengaudit laporan keuangan tahun buku 2026 kepada Dewan Komisaris. Kriteria akuntan publik yang boleh ditunjuk disyaratkan terdaftar di Otoritas Jasa Keuangan, berpengalaman mengaudit bisnis sejenis Perseroan, memiliki sumber daya manusia yang memadai, dan independen. Dewan Komisaris juga diberi wewenang menentukan honorarium akuntan publik tersebut. Susunan direksi dan komisaris sendiri tidak berubah, dengan masa jabatan seluruh anggota berlaku hingga 18 Oktober 2028."
+  ],
+  "fotoAdegan": "Empty upscale hotel conference room set with rows of chairs facing a long table, soft morning light through curtains, Jakarta interior",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham AIMS, karena tidak ada dividen yang dibagikan dan seluruh laba usaha 2025 ditahan di perusahaan, sejalan dengan sorotan sebelumnya bahwa pendapatan Perseroan tahun itu hanya sekitar Rp93 juta dan ekuitasnya tergerus. Yang tersentuh di sini adalah pos ekuitas dan arus kas ke pemegang saham: laba ditahan menambah modal di atas kertas, tapi tidak keluar sebagai uang tunai ke kantong pemegang saham, jadi klaim untuk memperkuat permodalan jangka panjang perlu dicermati mengingat kondisi keuangan yang sedang lemah. Yang perlu dipantau berikutnya adalah keputusan Dewan Komisaris soal akuntan publik yang akan mengaudit laporan keuangan tahun buku 2026, serta besaran gaji direksi dan komisaris untuk 2026 yang kini sepenuhnya di tangan Dewan Komisaris tanpa persetujuan RUPS lebih lanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-masukkan-cash-ke-pemantauan-khusus-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "BEI Masukkan CASH ke Pemantauan Khusus, Ekuitas [Negatif]",
+  "deck": "Bursa Efek Indonesia memasukkan saham CASH ke daftar Pemantauan Khusus mulai 22 September 2026 setelah ekuitas perusahaan tercatat negatif pada laporan keuangan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:15:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3f2a0425ed_b2aed5aa6b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "CASH",
+   "Cashlez",
+   "Pemantauan Khusus",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi memasukkan saham PT Cashlez Worldwide Indonesia Tbk (CASH) ke dalam daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus, sesuai pengumuman bernomor Peng-PK-00070/BEI.PLP/09-2026 yang terbit 21 September 2026. Status \"Masuk\" ini berlaku efektif mulai 22 September 2026 untuk saham CASH yang tercatat di Papan Akselerasi.",
+   "Menurut BEI, penyebab masuknya CASH ke daftar pemantauan khusus adalah kriteria nomor 5 dari sebelas kriteria yang ditetapkan bursa, yaitu perusahaan memiliki ekuitas negatif pada laporan keuangan terakhir. Ekuitas negatif berarti total kewajiban atau utang perusahaan lebih besar daripada total asetnya, sehingga secara akuntansi modal pemegang saham sudah berada di bawah nol.",
+   "Pengumuman ini ditandatangani oleh Kadiv Peraturan dan Layanan Perusahaan Tercatat BEI, Teuku Fahmi Ariandar. BEI menyebutkan bahwa daftar lengkap efek dalam pemantauan khusus dapat dilihat melalui situs resmi bursa dengan kata kunci \"Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus\"."
+  ],
+  "fotoAdegan": "A shopkeeper tapping a debit card on a small handheld payment terminal at a convenience store counter, natural daylight",
+  "takeaway": "Laporan ini condong negatif bagi Cashlez, karena status pemantauan khusus ini dipicu oleh ekuitas negatif, pertanda modal pemegang saham perusahaan sudah tergerus habis oleh utang dan kerugian yang terkumpul. Pos yang tersentuh adalah ekuitas alias modal sendiri perusahaan, yaitu selisih antara total aset dan total utang; kalau angkanya minus, kewajiban CASH sudah melebihi hartanya, dan pelaku pasar biasanya membaca ini sebagai sinyal kesehatan keuangan yang lemah karena bantalan untuk menyerap kerugian lanjutan sudah menipis atau habis. Status ini berlaku efektif mulai 22 September 2026, dan yang perlu dicermati berikutnya adalah laporan keuangan CASH periode mendatang, apakah ekuitasnya membaik dan keluar dari kriteria pemantauan khusus atau justru kondisi ini berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bksl-saham-direksi-berkurang-281-juta-via-pencairan-repo",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Saham Direksi Berkurang 281 Juta via [Pencairan Repo]",
+  "deck": "Samuel Sekuritas Indonesia melaporkan pelepasan 281,29 juta saham BKSL seharga Rp64 per lembar untuk pencairan repo, hak suaranya turun dari 7,02% menjadi 6,85%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:11:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-9029-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BKSL",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "body": [
+   "Samuel Sekuritas Indonesia, yang tercatat menjabat sebagai anggota Direksi Sentul City Tbk (BKSL), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perseroan berkurang 281.290.300 lembar saham biasa. Transaksi berupa penjualan langsung ini dilakukan pada 21 September 2026 dengan harga Rp64 per saham, dan tujuannya dicatat sebagai pencairan repo, yakni pelunasan atas saham yang sebelumnya dijadikan jaminan dalam perjanjian repurchase agreement.",
+   "Dengan transaksi ini, jumlah saham yang dipegang berkurang dari 11.766.798.600 unit menjadi 11.485.508.300 unit. Akibatnya, hak suara pelapor di BKSL turun dari 7,02 persen menjadi 6,85 persen. Jumlah saham yang dilepas setara sekitar 2,39 persen dari total kepemilikan pelapor sebelum transaksi.",
+   "Laporan ini menyusul keterbukaan serupa pada 15 September 2026, saat kepemilikan saham pelapor yang sama justru bertambah 2,87 miliar lembar melalui mekanisme substitusi jaminan dalam perjanjian repo. Kedua laporan menunjukkan bahwa posisi saham Samuel Sekuritas Indonesia di BKSL masih aktif bergerak lewat skema jaminan repo dalam rentang waktu yang berdekatan."
+  ],
+  "fotoAdegan": "Exterior of a modern Jakarta financial district office tower at dusk, glass facade reflecting sunset light, wide street view",
+  "takeaway": "Laporan ini netral bagi Sentul City, sebab saham yang dilepas hanya sekitar 2,4 persen dari kepemilikan pelapor sebelumnya dan hak suaranya cuma turun tipis dari 7,02 persen menjadi 6,85 persen, jauh dari ukuran yang biasa dibaca sebagai sinyal kuat soal arah perusahaan. Yang tersentuh di sini adalah hak suara pelapor selaku Direksi, bukan jumlah saham beredar atau ekuitas Sentul City, karena pencairan repo berarti saham yang tadinya jadi jaminan pinjaman dana dijual untuk melunasi kewajiban itu, sehingga transaksinya bersifat administrasi keuangan pribadi pelapor, bukan aksi korporasi perusahaan. Menariknya, pekan lalu tepatnya 15 September, saham pelapor yang sama sempat bertambah 2,87 miliar lembar lewat substitusi jaminan repo, sehingga naik turunnya kepemilikan ini tampak sebagai bagian dari pengelolaan posisi jaminan yang masih berjalan, bukan keputusan investasi biasa. Yang perlu dipantau berikutnya adalah apakah Samuel Sekuritas Indonesia kembali menyampaikan laporan kepemilikan dalam waktu dekat, karena pola bolak balik lewat mekanisme repo dalam waktu berdekatan seperti ini biasanya menandakan masih ada aktivitas jaminan yang belum tuntas.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bioetanol-e20-kemitraan-rakyat-wajib-30-persen",
   "category": "Energi",
   "title": "Bioetanol E20: Kemitraan Rakyat Wajib [30 Persen]",
@@ -88,6 +344,56 @@ var ARTICLES = [
   "imageV": "mub199zj"
  },
  {
+  "slug": "real-enam-berlian-sinergi-lepas-100-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "REAL: Enam Berlian Sinergi Lepas [100 Juta] Saham",
+  "deck": "PT Enam Berlian Sinergi mengurangi kepemilikan di REAL sebanyak 100 juta saham pada 17 September 2026, hak suara turun dari 46,72% menjadi 45,22%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:03:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0949-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "REAL",
+  "tags": [
+   "REAL",
+   "PT Enam Berlian Sinergi",
+   "kepemilikan saham",
+   "OJK"
+  ],
+  "body": [
+   "PT Enam Berlian Sinergi, pemegang saham PT Repower Asia Indonesia Tbk (REAL), melaporkan kepada Otoritas Jasa Keuangan bahwa mereka menjual 100 juta lembar saham REAL pada 17 September 2026 dengan harga Rp55 per saham. Transaksi ini tercatat sebagai penjualan tidak langsung melalui mekanisme repurchase agreement, dengan tujuan pengembangan usaha. Laporan disampaikan sesuai POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan pemegang saham melaporkan setiap perubahan kepemilikannya kepada bursa.",
+   "Akibat transaksi tersebut, jumlah saham REAL yang dipegang PT Enam Berlian Sinergi berkurang dari 3.099.480.000 lembar menjadi 2.999.480.000 lembar. Persentase hak suaranya di REAL pun turun dari 46,72 persen menjadi 45,22 persen. Meski begitu, PT Enam Berlian Sinergi masih menggenggam lebih dari 45 persen hak suara REAL, sehingga posisinya sebagai pemegang saham mayoritas belum berubah."
+  ],
+  "fotoAdegan": "Engineers in hard hats walking past rows of large power generation turbines at an industrial plant, overcast daylight",
+  "takeaway": "Laporan ini condong netral bagi REAL, sebab pengurangan kepemilikan PT Enam Berlian Sinergi tergolong sedang, sekitar 3,2 persen dari saham yang dipegangnya sendiri, dan hak suaranya di REAL hanya turun dari 46,72 persen menjadi 45,22 persen sehingga pemegang saham ini tetap memegang kendali mayoritas. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, bukan laba atau kas perusahaan, karena hak suara menentukan siapa punya kata akhir dalam keputusan strategis seperti pengangkatan direksi atau persetujuan aksi korporasi, sehingga pelaku pasar memantau siapa pengendali riil sebuah emiten. Transaksi ini tercatat lewat mekanisme repurchase agreement, yakni saham dijual dengan perjanjian bisa dibeli kembali di kemudian hari, dengan alasan pengembangan usaha, bukan kebutuhan mendesak seperti pelunasan utang. Yang perlu dipantau selanjutnya adalah apakah PT Enam Berlian Sinergi melanjutkan pengurangan kepemilikannya, sebab aturan OJK mewajibkan pelaporan setiap kali terjadi perubahan kepemilikan saham perusahaan terbuka, sehingga setiap langkah lanjutan akan tercatat resmi ke bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "film-direksi-lepas-100-8-juta-saham-via-pencairan-repo",
+  "category": "Aksi Korporasi",
+  "title": "FILM: Direksi Lepas 100,8 Juta Saham via [Pencairan Repo]",
+  "deck": "Direksi FILM melaporkan pencairan repo saham senilai sekitar Rp143,6 miliar, hak suaranya turun dari 9,64% menjadi 8,71% usai melepas 100,8 juta saham pada 21 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T16:01:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-5719-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FILM",
+  "tags": [
+   "FILM",
+   "MD Entertainment",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "body": [
+   "PT MD Entertainment Tbk (FILM) menerima laporan kepemilikan saham dari Samuel Sekuritas Indonesia, yang tercatat sebagai anggota direksi perusahaan berkewarganegaraan Indonesia. Dalam laporan bertanggal 21 September 2026 yang disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, jumlah saham pelapor berkurang dari 1.049.325.300 lembar menjadi 948.524.800 lembar, atau turun 100.800.500 lembar. Perubahan ini membuat hak suaranya di FILM turun dari 9,64% menjadi 8,71%.",
+   "Transaksi tercatat sebagai penjualan langsung dengan jenis Repurchase Agreement dan tujuan pencairan repo, dilakukan pada 21 September 2026 dengan harga Rp1.425 per saham untuk saham biasa. Dengan volume 100.800.500 lembar, nilai transaksi ini diperkirakan mencapai sekitar Rp143,6 miliar. Repo yang dimaksud adalah perjanjian pinjaman dengan saham sebagai jaminan, dan pencairan berarti saham jaminan tersebut dijual untuk menyelesaikan kewajiban pinjaman itu."
+  ],
+  "fotoAdegan": "Film production crew adjusting camera and lighting equipment on a dim movie soundstage in Jakarta",
+  "takeaway": "Laporan ini condong negatif bagi FILM karena pelapor melepas 9,6% dari kepemilikan sahamnya sendiri lewat pencairan repo, sehingga hak suaranya turun dari 9,64% menjadi 8,71%, penurunan yang cukup besar untuk tidak diabaikan. Repo adalah cara meminjam dana dengan menjaminkan saham, dan pencairan berarti saham jaminan itu akhirnya dijual untuk melunasi kewajiban tersebut, bukan penjualan biasa di pasar terbuka. Yang tersentuh di sini bukan pos keuangan perusahaan seperti ekuitas atau laba per saham, sebab jumlah saham beredar FILM secara keseluruhan tidak berubah, melainkan konsentrasi kepemilikan dan kekuatan suara salah satu direksi. Yang perlu dipantau berikutnya adalah apakah pelapor kembali melaporkan pencairan repo lanjutan dari sisa 948,5 juta sahamnya, karena pola semacam ini bisa menandakan kebutuhan likuiditas yang berkelanjutan dari pihak pelapor.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bahlil-ubah-aturan-pnbp-kini-lebih-penting-dari-produksi",
   "category": "Energi",
   "title": "Bahlil Ubah Aturan, PNBP Kini Lebih [Penting] dari Produksi",
@@ -113,6 +419,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Perubahan konkretnya ada pada dua alat baru: BMKS, semacam pasar khusus tempat batu bara dan nikel diperjualbelikan supaya harganya tidak sepenuhnya ditentukan pembeli dari luar negeri, dan ekspor satu pintu lewat Danantara SDI, badan investasi negara yang kini jadi perantara tunggal penjualan ke luar negeri. Yang kena dampak langsung adalah perusahaan tambang dan eksportir batu bara serta nikel yang harus mengikuti jalur baru ini, sementara dampaknya ke publik lewat penerimaan negara yang menjadi bagian anggaran pemerintah. Angka yang mendukung arah ini sudah kelihatan, rata-rata produksi batu bara Januari-Juli 2026 cuma 60,5 juta ton per bulan, turun dari rata-rata 68 juta ton per bulan sepanjang 2025, sementara menurut Bahlil penerimaan negara dari batu bara malah naik. Ini mengarah ke strategi menahan volume produksi supaya harga dan pendapatan negara lebih terjaga, ketimbang terus mengejar produksi sebanyak-banyaknya. Yang akan memastikan arah ini bertahan adalah angka resmi PNBP minerba 2026 begitu tahun berjalan selesai, serta kapan BMKS resmi mulai beroperasi penuh.",
   "imageV": "mub19ai8"
+ },
+ {
+  "slug": "gmfi-direksi-tri-hartono-tambah-saham-5-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "GMFI: Direksi Tri Hartono [Tambah] Saham 5.000 Lembar",
+  "deck": "Direktur GMFI Tri Hartono membeli 5.000 lembar saham pada 16 September 2026 seharga Rp59 per lembar, menggandakan kepemilikannya menjadi 10.000 lembar meski hak suaranya tetap 0,00 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T15:36:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7719-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GMFI",
+  "tags": [
+   "GMFI",
+   "kepemilikan saham",
+   "direksi",
+   "laporan OJK"
+  ],
+  "body": [
+   "Direktur PT Garuda Maintenance Facility Aero Asia Tbk (GMFI), Tri Hartono, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 5.000 lembar saham biasa perusahaan pada 16 September 2026 dengan harga Rp59 per lembar. Transaksi tersebut tercatat sebagai pembelian tidak langsung dengan tujuan menambah portofolio investasi pribadi, sesuai kewajiban pelaporan berdasarkan POJK Nomor 4/2024.",
+   "Dengan tambahan ini, kepemilikan saham Tri Hartono di GMFI naik dua kali lipat, dari 5.000 lembar sebelum transaksi menjadi 10.000 lembar setelah transaksi. Meski jumlah sahamnya bertambah 100 persen dari kepemilikan sebelumnya, porsi hak suaranya di perusahaan tercatat tetap 0,00 persen baik sebelum maupun sesudah pembelian, yang menunjukkan jumlah saham tersebut masih jauh lebih kecil dibandingkan total saham GMFI yang beredar.",
+   "Laporan ini terdaftar dengan nomor LK/21092026/0016/1 dan disampaikan melalui sistem pelaporan KSEI sebagaimana diwajibkan bagi anggota direksi dan dewan komisaris perusahaan terbuka setiap kali kepemilikan sahamnya berubah."
+  ],
+  "fotoAdegan": "Technicians in coveralls working beneath a wide-body aircraft engine inside a large maintenance hangar, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi GMFI karena nilai transaksinya sangat kecil, sekitar Rp295 ribu, jauh dari cukup untuk dibaca sebagai pernyataan sikap direksi terhadap prospek perusahaan. Yang tersentuh di sini murni kepemilikan pribadi sang direktur, bukan struktur permodalan atau kinerja keuangan GMFI, dan hak suaranya di perusahaan tetap tercatat 0,00 persen sebelum maupun sesudah pembelian sehingga tidak mengubah peta kendali maupun jumlah saham beredar perusahaan. Yang perlu dipantau selanjutnya adalah apakah pembelian kecil semacam ini diikuti oleh direksi atau komisaris lain GMFI dalam waktu dekat, karena laporan individual seperti ini baru relevan secara fundamental kalau terakumulasi dalam jumlah besar dari banyak pihak dalam manajemen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "visi-berencana-pmthmetd-ubah-bisnis-dan-domisili",
+  "category": "Aksi Korporasi",
+  "title": "VISI Berencana [PMTHMETD], Ubah Bisnis dan Domisili",
+  "deck": "Menjawab surat BEI soal volatilitas transaksi, Satu Visi Putra Tbk mengungkap rencana private placement, perubahan bisnis, domisili, dan penyertaan saham di PT Hasna Medika Bakti Cirebon dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T15:02:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8003d4c448_1e14dcd4c0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "PMTHMETD",
+   "RUPS",
+   "Hasna Medika Bakti Cirebon"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk (VISI) menyampaikan penjelasan resmi menanggapi permintaan Bursa Efek Indonesia melalui surat nomor S-12117/BEI.PP3/09-2026 terkait volatilitas transaksi saham perseroan. Dalam surat bernomor 08/SAVITRA/IX/2026 yang ditandatangani Direktur Utama David Dwiputra, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik, dan tidak mengetahui aktivitas pemegang saham tertentu yang belum dilaporkan sesuai POJK Nomor 4 Tahun 2024.",
+   "Meski begitu, perseroan mengonfirmasi memiliki sejumlah rencana tindakan korporasi dalam tiga bulan mendatang. Perseroan akan menggelar RUPS Independen untuk meminta persetujuan pelaksanaan Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu (PMTHMETD), yakni penerbitan saham baru tanpa menawarkan hak beli lebih dulu kepada pemegang saham lama. Perseroan juga akan menggelar RUPS Luar Biasa untuk meminta persetujuan atas tiga hal sekaligus: perubahan kegiatan usaha, perubahan domisili perseroan, dan rencana transaksi material berupa penyertaan saham pada PT Hasna Medika Bakti Cirebon. Perseroan menyebut semua rencana ini masih bergantung pada persetujuan RUPS, ketentuan peraturan yang berlaku, serta persetujuan pihak berwenang bila diperlukan.",
+   "Terkait rencana pemegang saham utama, Corporate Secretary perseroan telah meminta konfirmasi langsung dan menerima jawaban bahwa sampai tanggal surat ini pemegang saham utama tidak berencana mengalihkan, menjual, mengurangi, atau menambah kepemilikan sahamnya di VISI. Pemegang saham utama menyatakan akan memenuhi kewajiban pelaporan dan keterbukaan informasi apabila rencana tersebut berubah di kemudian hari."
+  ],
+  "fotoAdegan": "Nurses walking through a modern hospital corridor past empty wheelchairs, soft morning light, Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama karena Satu Visi Putra berencana menambah modal lewat PMTHMETD, yaitu penerbitan saham baru tanpa memberi kesempatan beli lebih dulu kepada pemegang saham lama, sehingga yang tidak ikut ambil bagian bisa melihat persentase kepemilikannya tergerus begitu saja. Rencana ini bergandengan dengan perubahan bidang usaha, perubahan domisili, dan penyertaan saham pada PT Hasna Medika Bakti Cirebon, kombinasi yang berarti jumlah saham beredar berpotensi bertambah sementara arah bisnis perusahaan ikut berubah, dua hal yang langsung menyentuh laba per saham dan struktur ekuitas ke depan. Dokumen ini belum menyebut berapa lembar saham baru yang akan diterbitkan atau berapa nilai penyertaan ke Hasna Medika Bakti Cirebon, sehingga besaran dampaknya belum bisa dipastikan. Sebagai penyeimbang, pemegang saham utama menyatakan tidak berencana menjual atau menambah kepemilikannya, jadi tekanan yang perlu diwaspadai datang dari aksi korporasi ini, bukan dari pergerakan pemegang saham yang ada. Yang perlu dipantau berikutnya adalah jadwal RUPS Independen untuk menyetujui PMTHMETD dan RUPS Luar Biasa untuk perubahan bisnis, domisili, serta transaksi penyertaan saham tersebut, yang menurut surat ini akan digelar dalam tiga bulan ke depan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "asing-lepas-bumi-adro-rp348-m-brms-diburu",
@@ -374,6 +732,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah dari pertemuan ini adalah sejumlah agenda ekonomi ASEAN mulai mendekati titik akhir, terutama deklarasi percepatan aturan perdagangan barang ASEAN dan target Borneo Corridor mulai beroperasi pada 2027, sementara peta jalan semikonduktor kawasan masih digodok. Yang terdampak langsung adalah pelaku industri semikonduktor yang mempertimbangkan investasi di ASEAN termasuk Indonesia, UMKM yang menunggu kejelasan pusat unggulan ASEAN, serta pelaku usaha logistik dan perdagangan di jalur Kalimantan. Arah yang terlihat adalah ASEAN mencoba mengoordinasikan aturan mainnya, dari insentif investasi semikonduktor sampai jalur distribusi barang, ketimbang membiarkan tiap negara bersaing sendiri-sendiri menawarkan kemudahan berbeda. Yang akan menentukan apakah arah ini benar-benar terwujud adalah apakah peta jalan semikonduktor yang masih berstatus 'dalam proses' itu rampung dengan kesepakatan insentif bersama, dan apakah kesiapan hukum serta infrastruktur Kalimantan benar-benar tuntas sebelum target Borneo Corridor beroperasi pada 2027.",
   "imageV": "muav8f7y"
+ },
+ {
+  "slug": "kopi-jawab-permintaan-bursa-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "KOPI Jawab Permintaan Bursa soal [Volatilitas] Sahamnya",
+  "deck": "PT Mitra Energi Persada Tbk menegaskan tidak ada informasi material di balik pergerakan saham KOPI, menyusul permintaan penjelasan dari Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T12:55:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eddf65841b_2041658f23.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOPI",
+  "tags": [
+   "KOPI",
+   "Mitra Energi Persada",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Mitra Energi Persada Tbk (KOPI) mengirim surat penjelasan ke Bursa Efek Indonesia pada 21 September 2026, menjawab permintaan klarifikasi bursa bernomor S-12118/BEI.PP3/09-2026 tertanggal 17 September 2026 terkait volatilitas transaksi efeknya. Surat itu ditandatangani Direktur Husni Heron dan dikirim melalui Corporate Finance Inge Siswanto.",
+   "Dalam surat tersebut, perusahaan menjawab enam pertanyaan standar bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek atau keputusan investasi pemodal sesuai POJK Nomor 31/POJK.04/2015, maupun fakta material lain menurut ketentuan Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024, dan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang akan berdampak pada status pencatatan sahamnya di bursa.",
+   "Poin yang lebih spesifik ada pada pertanyaan keenam. Corporate Secretary perseroan mengaku telah mengonfirmasi langsung kepada pemegang saham utama mengenai rencana atas kepemilikan sahamnya, dan pemegang saham utama itu menyatakan tidak memiliki rencana apapun terhadap saham yang dipegangnya di KOPI saat ini."
+  ],
+  "fotoAdegan": "Workers checking rows of stacked gas cylinders in an industrial distribution warehouse, forklift nearby, fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi emiten, sebab isinya sepenuhnya berupa bantahan atas dugaan adanya informasi tersembunyi, bukan pengumuman rencana atau perubahan apa pun pada bisnis perusahaan. Yang tersentuh di sini bukan angka kinerja seperti laba atau arus kas, melainkan soal kepercayaan pasar, karena permintaan penjelasan dari bursa biasanya muncul ketika harga saham bergerak tidak wajar dan otoritas ingin memastikan tidak ada pihak yang bertransaksi berdasarkan info yang belum terbuka ke publik. Konfirmasi bahwa pemegang saham utama tidak berencana menambah atau melepas kepemilikannya juga relevan, karena rencana semacam itu bisa mengubah komposisi kendali perusahaan kalau benar terjadi. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham KOPI di hari-hari perdagangan berikutnya masih tergolong tidak wajar, sebab jika volatilitas berlanjut, bursa bisa kembali meminta penjelasan atau bahkan mengenakan status pemantauan khusus.",
+  "sentimen": "netral"
  },
  {
   "slug": "telkom-angkut-5-1-ton-sampah-dari-kali-krukut",

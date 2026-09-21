@@ -5,6 +5,163 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pssi-bagi-saham-bonus-173-4-juta-lembar-dari-treasuri-rasio-30-1",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Bagi [Saham Bonus] 173,4 Juta Lembar dari Treasuri, Rasio 30:1",
+  "deck": "PSSI berencana membagikan 173,4 juta saham bonus dari saham treasuri dengan rasio 30:1, memenuhi kewajiban pengalihan saham hasil buyback 2021-2025 sesuai aturan OJK.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "saham bonus",
+   "saham treasuri",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fae8c5faca_11772ea6b1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aims-ungkap-ekuitas-anjlok-usai-pendapatan-cuma-rp93-juta",
+  "category": "Aksi Korporasi",
+  "title": "AIMS Ungkap Ekuitas [Anjlok] Usai Pendapatan Cuma Rp93 Juta",
+  "deck": "Public expose tahunan AIMS mengungkap pendapatan 2025 anjlok ke Rp93 juta, membuat perusahaan merugi dan ekuitas turun tajam akibat kendala regulasi RKAB tambang rekanan.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AIMS",
+   "public expose",
+   "ekuitas",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6c60b2c061_63f2b2baca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tnca-ganti-ketua-komite-audit-per-18-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "TNCA Ganti Ketua [Komite Audit] per 18 September 2026",
+  "deck": "TNCA mengganti ketua komite audit dari Achmad Sutjipto ke R. Bagus Panuntun efektif 18 September 2026, sementara dua anggota lain tetap menjabat.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TNCA",
+   "komite audit",
+   "tata kelola perusahaan",
+   "Trimuda Nuansa Citra"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a3c07675d1_8e848f7f7d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdla-direksi-beli-100-000-saham-senilai-rp20-4-juta",
+  "category": "Aksi Korporasi",
+  "title": "MDLA: Direksi [Beli] 100.000 Saham Senilai Rp20,4 Juta",
+  "deck": "Direksi PT Medela Potentia Tbk, Edbert Orotodan, menambah kepemilikan saham perseroan sebanyak 100.000 lembar pada 18 September 2026, menaikkan hak suaranya menjadi 0,014%.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLA",
+   "Medela Potentia",
+   "kepemilikan saham direksi",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-8484-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fore-pemegang-saham-tambah-kepemilikan-jadi-6",
+  "category": "Aksi Korporasi",
+  "title": "FORE: Pemegang Saham [Tambah] Kepemilikan Jadi 6%",
+  "deck": "Ferry Sudjono membeli 2,21 juta saham FORE senilai sekitar Rp1,68 miliar pada 16 September 2026, menaikkan hak suaranya dari 5,97 persen menjadi 6 persen.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORE"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0022-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-15-58",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 15,58%",
+  "deck": "Samuel Sekuritas Indonesia selaku direksi NSSS mencatat penambahan bersih 363,4 juta saham lewat transaksi repo pada 21 September 2026, mengerek hak suaranya ke 15,58 persen.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "repo saham",
+   "kepemilikan direksi",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7501-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pssi-jadwalkan-rupslb-pada-28-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Jadwalkan [RUPSLB] pada 28 Oktober 2026",
+  "deck": "PT IMC Pelita Logistik Tbk mengumumkan rencana RUPSLB 28 Oktober 2026, dengan cutoff pemegang saham 5 Oktober dan pemanggilan resmi 6 Oktober 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "RUPSLB",
+   "IMC Pelita Logistik",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/62cacb1ade_aa34ec18a7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupst-aims-sepakat-tanpa-dividen-laba-ditahan-jadi-modal",
+  "category": "Aksi Korporasi",
+  "title": "RUPST AIMS Sepakat [Tanpa Dividen], Laba Ditahan Jadi Modal",
+  "deck": "RUPST AIMS mengesahkan laporan tahunan 2025, memutuskan tidak membagikan dividen, dan menyerahkan penentuan gaji direksi serta penunjukan auditor 2026 ke Dewan Komisaris.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AIMS",
+   "RUPST",
+   "dividen",
+   "laba ditahan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/416d501ab7_0799f21681.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-masukkan-cash-ke-pemantauan-khusus-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "BEI Masukkan CASH ke Pemantauan Khusus, Ekuitas [Negatif]",
+  "deck": "Bursa Efek Indonesia memasukkan saham CASH ke daftar Pemantauan Khusus mulai 22 September 2026 setelah ekuitas perusahaan tercatat negatif pada laporan keuangan terakhir.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "Cashlez",
+   "Pemantauan Khusus",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3f2a0425ed_b2aed5aa6b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bksl-saham-direksi-berkurang-281-juta-via-pencairan-repo",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Saham Direksi Berkurang 281 Juta via [Pencairan Repo]",
+  "deck": "Samuel Sekuritas Indonesia melaporkan pelepasan 281,29 juta saham BKSL seharga Rp64 per lembar untuk pencairan repo, hak suaranya turun dari 7,02% menjadi 6,85%.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-9029-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bioetanol-e20-kemitraan-rakyat-wajib-30-persen",
   "category": "Energi",
   "title": "Bioetanol E20: Kemitraan Rakyat Wajib [30 Persen]",
@@ -59,6 +216,38 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "real-enam-berlian-sinergi-lepas-100-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "REAL: Enam Berlian Sinergi Lepas [100 Juta] Saham",
+  "deck": "PT Enam Berlian Sinergi mengurangi kepemilikan di REAL sebanyak 100 juta saham pada 17 September 2026, hak suara turun dari 46,72% menjadi 45,22%.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "REAL",
+   "PT Enam Berlian Sinergi",
+   "kepemilikan saham",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0949-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "film-direksi-lepas-100-8-juta-saham-via-pencairan-repo",
+  "category": "Aksi Korporasi",
+  "title": "FILM: Direksi Lepas 100,8 Juta Saham via [Pencairan Repo]",
+  "deck": "Direksi FILM melaporkan pencairan repo saham senilai sekitar Rp143,6 miliar, hak suaranya turun dari 9,64% menjadi 8,71% usai melepas 100,8 juta saham pada 21 September 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "MD Entertainment",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-5719-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bahlil-ubah-aturan-pnbp-kini-lebih-penting-dari-produksi",
   "category": "Energi",
   "title": "Bahlil Ubah Aturan, PNBP Kini Lebih [Penting] dari Produksi",
@@ -74,6 +263,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468410-bahlil-ungkap-cara-baru-atur-batu-bara-dan-nikel-produksi-tak-lagi-jadi-patokan-utama"
+ },
+ {
+  "slug": "gmfi-direksi-tri-hartono-tambah-saham-5-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "GMFI: Direksi Tri Hartono [Tambah] Saham 5.000 Lembar",
+  "deck": "Direktur GMFI Tri Hartono membeli 5.000 lembar saham pada 16 September 2026 seharga Rp59 per lembar, menggandakan kepemilikannya menjadi 10.000 lembar meski hak suaranya tetap 0,00 persen.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "kepemilikan saham",
+   "direksi",
+   "laporan OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7719-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-berencana-pmthmetd-ubah-bisnis-dan-domisili",
+  "category": "Aksi Korporasi",
+  "title": "VISI Berencana [PMTHMETD], Ubah Bisnis dan Domisili",
+  "deck": "Menjawab surat BEI soal volatilitas transaksi, Satu Visi Putra Tbk mengungkap rencana private placement, perubahan bisnis, domisili, dan penyertaan saham di PT Hasna Medika Bakti Cirebon dalam tiga bulan ke depan.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "PMTHMETD",
+   "RUPS",
+   "Hasna Medika Bakti Cirebon"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8003d4c448_1e14dcd4c0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "asing-lepas-bumi-adro-rp348-m-brms-diburu",
@@ -237,6 +458,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-apresiasi-kemajuan-capaian-prioritas-ekonomi-asean-di-bawah-keketuaan-filipina",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "kopi-jawab-permintaan-bursa-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "KOPI Jawab Permintaan Bursa soal [Volatilitas] Sahamnya",
+  "deck": "PT Mitra Energi Persada Tbk menegaskan tidak ada informasi material di balik pergerakan saham KOPI, menyusul permintaan penjelasan dari Bursa Efek Indonesia.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOPI",
+   "Mitra Energi Persada",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eddf65841b_2041658f23.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "telkom-angkut-5-1-ton-sampah-dari-kali-krukut",
@@ -6263,247 +6500,6 @@ var ARTICLES = [
    "akuisisi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b2dedab3f_19829e9d0a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-solution-sabet-penghargaan-b2b-ict-dari-kgi",
-  "category": "BUMN",
-  "title": "Telkom Solution Sabet [Penghargaan] B2B ICT dari KGI",
-  "deck": "Telkom Solution, unit B2B ICT Telkom Indonesia, meraih penghargaan Business Impact & Industry Growth dari Kabar Group Indonesia atas kontribusinya pada kinerja bisnis pelanggan enterprise dan BUMN.",
-  "date": "14 September 2026",
-  "image": "assets/img/telkom-solution-sabet-penghargaan-b2b-ict-dari-kgi.jpg",
-  "imageV": "mu16dn78",
-  "tags": [
-   "Telkom Solution",
-   "BUMN",
-   "ICT",
-   "Digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467051-telkom-solution-sabet-penghargaan-business-impact-industry-growth-untuk-market-b2b-ict-di-indonesia"
- },
- {
-  "slug": "rans-direktur-grandy-prajayakti-mundur-rupslb-setujui",
-  "category": "Aksi Korporasi",
-  "title": "RANS: Direktur Grandy Prajayakti [Mundur], RUPSLB Setujui",
-  "deck": "RUPSLB RANS menyetujui pengunduran diri Direktur Grandy Prajayakti dengan pelepasan tanggung jawab penuh, disetujui hampir bulat oleh pemegang saham yang hadir.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RANS",
-   "RUPSLB",
-   "Direksi",
-   "Pergantian Direktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/02edaae353_fbfed34945.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-9-waran-rhb-kedaluwarsa-tanpa-nilai-eraa-cair",
-  "category": "Aksi Korporasi",
-  "title": "DR: 9 Waran RHB Kedaluwarsa Tanpa Nilai, [ERAA] Cair",
-  "deck": "Sepuluh waran terstruktur RHB Sekuritas berkode DR jatuh tempo 14 September 2026. Sembilan berakhir tanpa nilai, hanya pemegang waran ERAA yang menerima uang tunai.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas",
-   "ERAA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/87d8b08e53_0a9c8026b5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-waran-heal-dan-hrum-rhb-kedaluwarsa-tanpa-nilai",
-  "category": "Aksi Korporasi",
-  "title": "DR: Waran HEAL dan HRUM RHB [Kedaluwarsa] Tanpa Nilai",
-  "deck": "RHB Sekuritas menghentikan perdagangan 10 waran terstruktur seri Penerbitan ke-33 pada 14 September 2026. Dua di antaranya, HEAL dan HRUM, dipastikan tidak membayar apa pun kepada pemegangnya.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fa731e0364_9d212c7d77.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "koci-jelaskan-ke-bursa-rencana-penuhi-free-float-minimum",
-  "category": "Aksi Korporasi",
-  "title": "KOCI Jelaskan ke Bursa Rencana Penuhi [Free Float] Minimum",
-  "deck": "PT Kokoh Exa Nusantara merespons permintaan penjelasan Bursa Efek Indonesia soal rencana memenuhi syarat minimum saham beredar bebas yang kini baru 12,79 persen.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOCI",
-   "free float",
-   "Bursa Efek Indonesia",
-   "waran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/15e5c72dfe_5d28bbcd15.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mgna-bantah-ada-fakta-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "MGNA Bantah Ada Fakta Material di Balik [Volatilitas] Sahamnya",
-  "deck": "PT Magna Investama Mandiri Tbk (MGNA) menjawab permintaan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang mempengaruhi harga saham.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGNA",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b2f0b56ffe_c6e1b96175.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pssi-lepas-saham-treasuri-85-juta-lembar-mulai-21-september",
-  "category": "Aksi Korporasi",
-  "title": "PSSI Lepas Saham Treasuri [85 Juta] Lembar Mulai 21 September",
-  "deck": "PT IMC Pelita Logistik akan menjual hingga 85 juta saham treasuri lewat pasar negosiasi BEI pada 21 September-21 Oktober 2026, digarap Danatama Makmur Sekuritas.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "saham treasuri",
-   "buyback",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a590898da2_a5d0e6c2b5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smle-ungkap-rencana-ekspor-minyak-nilam-ke-india-mulai-2027",
-  "category": "Aksi Korporasi",
-  "title": "SMLE Ungkap Rencana [Ekspor] Minyak Nilam ke India Mulai 2027",
-  "deck": "Public Expose Tahunan SMLE 11 September 2026 memaparkan rencana ekspor minyak nilam ke India dan Eropa mulai 2027, serta kepastian belum ada rencana dividen tahun buku 2026.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMLE",
-   "public expose",
-   "ekspor minyak nilam",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fd6f8b32a1_105b9d2a3a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aksi-melonjak-12-95-emiten-bilang-tak-ada-info-material",
-  "category": "Aksi Korporasi",
-  "title": "AKSI [Melonjak] 12,95%, Emiten Bilang Tak Ada Info Material",
-  "deck": "Saham AKSI melonjak 12,95% dengan volume transaksi naik hampir 15 kali lipat pada 9 September 2026. Manajemen menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKSI",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60ba42d90e_136276b804.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unsp-revaluasi-aset-ekuitas-berbalik-positif-rp2-76-triliun",
-  "category": "Aksi Korporasi",
-  "title": "UNSP Revaluasi Aset, [Ekuitas] Berbalik Positif Rp2,76 Triliun",
-  "deck": "Revaluasi aset tanah dan tanaman produktif membuat ekuitas UNSP berbalik positif Rp2,76 triliun, dari defisit Rp5,27 triliun akhir 2025, meski laba masih rugi.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNSP",
-   "revaluasi aset",
-   "ekuitas",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83a2c3b103_f1e433db51.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "grph-ungkap-kinerja-semester-i-jelang-public-expose-suspensi",
-  "category": "Aksi Korporasi",
-  "title": "GRPH Ungkap Kinerja Semester I Jelang Public Expose [Suspensi]",
-  "deck": "Griptha Putra Persada merilis materi public expose insidentil buntut suspensi BEI, memuat kinerja keuangan semester I 2026 dan rencana kerja hotel di Kudus.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GRPH",
-   "public expose",
-   "suspensi saham",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d7dd042798_58f714237d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-akui-tekanan-likuiditas-restrukturisasi-september",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Akui Tekanan Likuiditas, Restrukturisasi [September]",
-  "deck": "Manajemen ADHI mengakui tekanan likuiditas menghambat pembayaran ke vendor, sembari menargetkan penandatanganan perjanjian restrukturisasi utang bulan ini.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "restrukturisasi utang",
-   "likuiditas",
-   "BUMN Karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/411f496bde_f2973ce876.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uvcr-rampungkan-buyback-9-6-juta-saham-rp1-5-miliar",
-  "category": "Aksi Korporasi",
-  "title": "UVCR Rampungkan [Buyback] 9,6 Juta Saham Rp1,5 Miliar",
-  "deck": "Ultra Voucher menyelesaikan pembelian kembali 9,6 juta saham atau 0,48% dari saham beredar senilai Rp1,5 miliar dengan harga rata-rata Rp156 per saham.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "buyback saham",
-   "Ultra Voucher",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbbbcf2b71_9177a07216.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "roda-jawab-bei-janji-lepas-saham-penuhi-free-float",
-  "category": "Aksi Korporasi",
-  "title": "RODA Jawab BEI, Janji Lepas Saham Penuhi [Free Float]",
-  "deck": "RODA menjawab permintaan penjelasan BEI soal free float, menyebut pemegang saham pengendali akan melepas sebagian saham karena kondisi properti high rise masih lesu.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RODA",
-   "free float",
-   "Bursa Efek Indonesia",
-   "Pikko Land Development"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aa19ed1264_9cc4222d34.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "roda-jawab-bei-lahan-kosong-rp132-45-m-nganggur-di-signature-park",
-  "category": "Aksi Korporasi",
-  "title": "RODA Jawab BEI: [Lahan] Kosong Rp132,45 M Nganggur di Signature Park",
-  "deck": "RODA mengungkap ke BEI lahan kosong 1,8 hektare senilai Rp132,45 miliar di Signature Park Grande menganggur, karyawan menyusut jadi 132 orang, dan proyek Hampton Lebak Bulus tertunda.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RODA",
-   "Pikko Land Development",
-   "properti",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2b65cf0f7f_9a8352b1fc.pdf",
   "sourceLabel": "IDX"
  }
 ];

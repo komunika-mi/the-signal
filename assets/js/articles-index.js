@@ -5,12 +5,28 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "menaker-kebutuhan-tenaga-kerja-hijau-terus-meningkat",
+  "category": "Ketenagakerjaan",
+  "title": "Menaker: Kebutuhan Tenaga Kerja [Hijau] Terus Meningkat",
+  "deck": "Menaker Yassierli menyebut kebutuhan tenaga kerja di sektor hijau akan terus naik seiring berkembangnya kendaraan listrik dan energi terbarukan, dengan target hingga 5,32 juta pekerja pada 2029.",
+  "date": "21 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "Ketenagakerjaan",
+   "Transisi Hijau",
+   "Vokasi",
+   "Kendaraan Listrik"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-transisi-hijau-buka-peluang-baru-bagi-tenaga-kerja",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
   "slug": "bps-rilis-kbji-2026-gantikan-standar-jabatan-2014",
   "category": "Ketenagakerjaan",
   "title": "BPS Rilis [KBJI] 2026, Gantikan Standar Jabatan 2014",
   "deck": "BPS menerbitkan Klasifikasi Baku Jabatan Indonesia (KBJI) 2026 lewat Peraturan BPS Nomor 7/2026, menggantikan versi 2014 dan diselaraskan dengan standar internasional ISCO.",
   "date": "21 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "tags": [
    "KBJI",
    "Kemnaker",
@@ -3842,7 +3858,7 @@ var ARTICLES = [
   "title": "Kemnaker Mulai [Seleksi] Peserta MagangHub Batch 2 Angkatan II",
   "deck": "Kemnaker menjaring peserta Pemagangan Nasional (MagangHub) 2026 Batch 2 Angkatan II pada 16-18 September, dengan program magang dimulai 21 September 2026.",
   "date": "16 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "tags": [
    "MagangHub",
    "Kemnaker",
@@ -4089,7 +4105,7 @@ var ARTICLES = [
   "title": "Pemerintah Tetapkan [26] Hari Libur Nasional dan Cuti Bersama 2027",
   "deck": "SKB Tiga Menteri menetapkan 18 hari libur nasional dan 8 hari cuti bersama untuk 2027, total 26 hari, sekaligus mengatur ketentuan lembur dan cuti tahunan bagi pekerja.",
   "date": "15 September 2026",
-  "image": "assets/img/bursa-kerja-antre.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "tags": [
    "Libur Nasional 2027",
    "Cuti Bersama",
@@ -4556,7 +4572,7 @@ var ARTICLES = [
   "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",
   "deck": "Menaker Yassierli menyebut AI yang sekadar jadi asisten kerja hanya menaikkan produktivitas sekitar 5 persen, sementara perombakan proses kerja bisa mendongkraknya sampai 40 persen.",
   "date": "15 September 2026",
-  "image": "assets/img/gudang-logistik.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "tags": [
    "AI",
    "Ketenagakerjaan",
@@ -5188,7 +5204,7 @@ var ARTICLES = [
   "title": "UU PPRT [Atur] Hak dan Kewajiban Pekerja Rumah Tangga",
   "deck": "UU Nomor 2 Tahun 2026 memberi payung hukum bagi pekerja rumah tangga, mengatur upah, jam kerja, THR, jaminan sosial, hingga cara penyelesaian sengketa dengan majikan.",
   "date": "15 September 2026",
-  "image": "assets/img/kantor-startup.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "PRT",
    "UU PPRT",
@@ -5204,7 +5220,7 @@ var ARTICLES = [
   "title": "RUU Ketenagakerjaan Masuk Tahap [Panja] di DPR",
   "deck": "Pemerintah menyerahkan Daftar Inventarisasi Masalah RUU Pelindungan Ketenagakerjaan ke DPR, Komisi IX bentuk Panja lanjutkan pembahasan.",
   "date": "15 September 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "RUU Ketenagakerjaan",
    "DPR",
@@ -6481,22 +6497,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e44eb4f439_f239e28d1c.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bansos-beras-30-kg-cair-september-ini-cara-cek-status",
-  "category": "Makroekonomi",
-  "title": "Bansos Beras 30 Kg [Cair] September, Ini Cara Cek Status",
-  "deck": "Bapanas menyalurkan bantuan pangan 30 kilogram beras, hasil rapel tiga bulan, kepada 33,2 juta keluarga penerima manfaat pada September 2026.",
-  "date": "14 September 2026",
-  "image": "assets/img/bansos-beras-30-kg-cair-september-ini-cara-cek-status.jpg",
-  "imageV": "mu0pd8yp",
-  "tags": [
-   "bansos",
-   "beras",
-   "DTSEN",
-   "Bapanas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466943-bansos-beras-30-kilogram-cair-september-2026-begini-cara-cek-status-penerima-bansos"
  }
 ];

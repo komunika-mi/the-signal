@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-19T00:50:13.393+07:00",
+ "diperbarui": "2026-09-22T02:46:34.563+07:00",
  "entri": [
+  {
+   "id": "2026-09-21-3",
+   "edisi": "2026-09-21",
+   "benang": "Laba Tambang-Migas Tinggi, Negara Perketat Ekspor",
+   "klaim": "Negara memperbesar kendali atas rente dari windfall sektor tambang dan migas lewat penataan ulang tata kelola batu bara dan nikel melalui bursa komoditas domestik BMKS dan ekspor satu pintu Danantara SDI.",
+   "penanda": "Realisasi transaksi pertama lewat BMKS serta volume ekspor yang benar-benar melalui skema satu pintu Danantara SDI",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-21-2",
+   "edisi": "2026-09-21",
+   "benang": "Restrukturisasi Utang BUMN Karya Berlanjut",
+   "klaim": "Pola penyelesaian gagal bayar di BUMN Karya tampak mengikuti jejak yang sama seperti Waskita, yaitu perpanjangan tenor dan pemotongan kupon, sehingga WIKA diperkirakan akan menempuh pola restrukturisasi serupa.",
+   "penanda": "Hasil rapat-rapat pemegang utang WIKA (RUPSU Sukuk Mudharabah Tahap I 2021 dan RUPO Obligasi Berkelanjutan II Tahap I 2021 pada 19 Oktober, RUPO Obligasi Berkelanjutan II Tahap II 2022 pada 20 Oktober, serta RUPSU Sukuk Mudharabah Tahap I 2022 pada 21 Oktober)",
+   "tenggat": "2026-10-21",
+   "tenggatLabel": "19 sampai 21 Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-21-1",
+   "edisi": "2026-09-21",
+   "benang": "Rupiah dan IHSG Tertekan Jelang Keputusan BI",
+   "klaim": "Pelaku pasar condong memperkirakan Bank Indonesia akan menahan suku bunga acuan pekan ini meski tekanan eksternal terhadap rupiah dan IHSG masih berlanjut.",
+   "penanda": "Hasil resmi Rapat Dewan Gubernur BI pekan ini",
+   "tenggat": "2026-09-27",
+   "tenggatLabel": "pekan ini",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-18-3",
    "edisi": "2026-09-18",
@@ -195,8 +228,13 @@ var RAPOR = {
    "penanda": "Perkembangan gangguan pelayaran di Selat Hormuz dan Laut Merah",
    "tenggat": "2026-09-18",
    "tenggatLabel": "dalam beberapa hari mendatang",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya",
+    "judul": "Rupiah Tertekan ke Rp17.847, BI Sebut Penyebabnya",
+    "tanggal": "21 September 2026",
+    "alasan": "Artikel ini melaporkan rupiah melemah ke Rp17.847 dan BI mengaitkannya dengan lonjakan harga minyak dunia di atas US$100 per barel akibat gejolak yang mengindikasikan tekanan berlanjut sesuai arah klaim."
+   }
   },
   {
    "id": "2026-09-11-1",

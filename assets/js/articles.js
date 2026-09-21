@@ -3,6 +3,57 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "safe-pengendali-tambah-100-200-saham-hak-suara-ke-56-57",
+  "category": "Aksi Korporasi",
+  "title": "SAFE: Pengendali Tambah 100.200 Saham, Hak Suara ke [56,57%]",
+  "deck": "Infiniti Wahana, pemegang saham pengendali Steady Safe Tbk, membeli 100.200 saham tidak langsung seharga Rp380 per saham, menaikkan hak suara ke 56,57 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T09:55:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-5017-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SAFE",
+  "tags": [
+   "SAFE",
+   "Steady Safe",
+   "kepemilikan saham",
+   "pemegang saham pengendali"
+  ],
+  "body": [
+   "Infiniti Wahana, pemegang saham PT Steady Safe Tbk (SAFE) yang bukan berstatus direksi maupun komisaris, melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya membeli 100.200 lembar saham biasa SAFE secara tidak langsung. Transaksi tercatat pada harga Rp380 per saham dan terjadi pada 11 Februari 2026, dengan tujuan transaksi tercatat sebagai pembelian.",
+   "Dengan tambahan ini, jumlah saham SAFE yang dikuasai Infiniti Wahana naik dari 464.495.713 lembar menjadi 464.595.913 lembar, sementara hak suaranya di perusahaan bergerak tipis dari 56,56 persen menjadi 56,57 persen. Nilai transaksi ini, dengan mengalikan 100.200 lembar dan harga Rp380, setara sekitar Rp38 juta. Laporan yang disampaikan ke OJK pada 21 September 2026 ini menyebut jenis kepemilikannya tidak langsung, tanpa efek bersifat ekuitas lain seperti opsi yang belum dilaksanakan."
+  ],
+  "fotoAdegan": "Rows of parked taxis lined up in a company depot yard at dusk with the Jakarta skyline in the distance",
+  "takeaway": "Laporan ini netral bagi Steady Safe karena tambahan 100.200 lembar saham hanya sekitar 0,02 persen dari kepemilikan Infiniti Wahana yang sudah di atas 464 juta lembar, sehingga tidak mengubah peta kendali perusahaan. Yang tersentuh adalah hak suara, yaitu bobot suara pemegang saham dalam rapat umum pemegang saham, yang bergeser sangat tipis dari 56,56 persen menjadi 56,57 persen sehingga posisi Infiniti Wahana sebagai pemegang saham pengendali SAFE tetap kokoh. Patut dicermati bahwa transaksi ini terjadi pada 11 Februari 2026 namun baru dilaporkan tujuh bulan kemudian pada 21 September 2026, jarak yang jauh dari kebiasaan pelaporan kepemilikan yang biasanya cepat. Yang perlu dipantau selanjutnya adalah apakah pembelian bertahap oleh pemegang saham pengendali ini berlanjut pada laporan berikutnya, karena akumulasi kecil yang konsisten dari waktu ke waktu bisa perlahan mengubah komposisi pemegang saham publik SAFE.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jecx-direktur-keuangan-mundur-rups-digelar-maks-90-hari",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Direktur Keuangan [Mundur], RUPS Digelar Maks 90 Hari",
+  "deck": "Direktur Keuangan JECX, Budi Djatmiko Musaffa, mengajukan pengunduran diri efektif paling lambat 1 Januari 2027. Perseroan akan menggelar RUPS untuk memutuskan permohonan tersebut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T08:57:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d6fce94b8_28b2530122.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "Direksi",
+   "Direktur Keuangan",
+   "RUPS"
+  ],
+  "body": [
+   "PT Nitrasanata Dharma Tbk (JECX) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa pada 18 September 2026 perseroan menerima surat permohonan pengunduran diri dari Budi Djatmiko Musaffa dari jabatannya sebagai Direktur Keuangan. Dalam suratnya, Budi menyatakan pengunduran dirinya diharapkan berlaku efektif paling lambat 1 Januari 2027. Hingga tanggal laporan, ia masih menjabat penuh sebagai Direktur Keuangan dengan seluruh tugas dan tanggung jawabnya, dan baru akan berhenti pada tanggal efektif yang ditetapkan lewat keputusan Rapat Umum Pemegang Saham (RUPS).",
+   "Sesuai Pasal 8 ayat 3 POJK Nomor 33/POJK.04/2014, perseroan wajib menggelar RUPS paling lambat 90 hari sejak menerima surat permohonan, yaitu sekitar pertengahan Desember 2026, untuk memutuskan permohonan tersebut dan, jika sudah siap, sekaligus menetapkan perubahan susunan Direksi. Perseroan menyebut tengah menyiapkan transisi fungsi keuangan sekaligus proses pengisian jabatan Direktur Keuangan yang baru.",
+   "Manajemen menyatakan peristiwa ini tidak berdampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan, dan memastikan fungsi keuangan, pelaporan keuangan, serta pengendalian internal tetap berjalan. Perseroan berjanji menyampaikan keterbukaan informasi lanjutan setelah ada keputusan RUPS atau perkembangan material lainnya."
+  ],
+  "fotoAdegan": "Medical staff walking briskly through a modern hospital corridor with glass doors, soft morning light, no visible signage",
+  "takeaway": "Laporan ini condong netral bagi JECX, karena pengunduran diri satu direktur disertai masa transisi panjang, lebih dari tiga bulan, dan perseroan sudah menegaskan fungsi keuangan serta pengendalian internal tetap berjalan sambil menyiapkan pengganti. Direktur Keuangan adalah pos yang mengawasi langsung pelaporan keuangan dan pengendalian internal perusahaan, jadi pasar biasanya mencermati kelancaran pergantian orang di posisi ini karena bisa memengaruhi kecepatan dan kualitas laporan keuangan berikutnya, meski di sini belum ada tanda gangguan. Yang perlu dipantau adalah RUPS yang wajib digelar paling lambat 90 hari sejak 18 September 2026, sekitar pertengahan Desember 2026, karena di situlah baru diputuskan apakah pengunduran diri disetujui dan siapa pengganti Direktur Keuangan, sebelum tanggal efektif yang diminta yaitu 1 Januari 2027.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "menaker-kebutuhan-tenaga-kerja-hijau-terus-meningkat",
   "category": "Ketenagakerjaan",
   "title": "Menaker: Kebutuhan Tenaga Kerja [Hijau] Terus Meningkat",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "safe-pengendali-tambah-100-200-saham-hak-suara-ke-56-57",
+  "category": "Aksi Korporasi",
+  "title": "SAFE: Pengendali Tambah 100.200 Saham, Hak Suara ke [56,57%]",
+  "deck": "Infiniti Wahana, pemegang saham pengendali Steady Safe Tbk, membeli 100.200 saham tidak langsung seharga Rp380 per saham, menaikkan hak suara ke 56,57 persen.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAFE",
+   "Steady Safe",
+   "kepemilikan saham",
+   "pemegang saham pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-5017-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jecx-direktur-keuangan-mundur-rups-digelar-maks-90-hari",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Direktur Keuangan [Mundur], RUPS Digelar Maks 90 Hari",
+  "deck": "Direktur Keuangan JECX, Budi Djatmiko Musaffa, mengajukan pengunduran diri efektif paling lambat 1 Januari 2027. Perseroan akan menggelar RUPS untuk memutuskan permohonan tersebut.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "Direksi",
+   "Direktur Keuangan",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d6fce94b8_28b2530122.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "menaker-kebutuhan-tenaga-kerja-hijau-terus-meningkat",
   "category": "Ketenagakerjaan",
   "title": "Menaker: Kebutuhan Tenaga Kerja [Hijau] Terus Meningkat",
@@ -6463,39 +6495,6 @@ var ARTICLES = [
    "hak suara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-8980-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-tipis-ke-rp2-602-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.602.000/Gram",
-  "deck": "Harga emas Antam turun Rp2.000 menjadi Rp2.602.000 per gram pada 14 September 2026, sementara harga buyback juga turun ke Rp2.452.000 per gram.",
-  "date": "14 September 2026",
-  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-602-000-gram.jpg",
-  "imageV": "mu0pd8kl",
-  "tags": [
-   "harga emas",
-   "emas antam",
-   "logam mulia",
-   "investasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466949-turun-tipis-rp2000-harga-emas-antam-hari-ini-14-september-2026-rp2602000-per-gram"
- },
- {
-  "slug": "smfp-angkat-budi-susanto-jadi-direktur-utama-baru",
-  "category": "Aksi Korporasi",
-  "title": "SMFP Angkat Budi Susanto Jadi [Direktur Utama] Baru",
-  "deck": "Kementerian Keuangan selaku pemegang saham mengangkat Budi Susanto sebagai Direktur Utama SMFP, menggantikan Ananta Wiyogo yang sebelumnya menjabat pelaksana tugas.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMFP",
-   "direksi",
-   "BUMN",
-   "pergantian direktur utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e44eb4f439_f239e28d1c.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,91 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-musnahkan-pakan-dan-alat-tangkap-ilegal-di-aceh",
+  "category": "Industri",
+  "title": "KKP [Musnahkan] Pakan dan Alat Tangkap Ilegal di Aceh",
+  "deck": "KKP memusnahkan 1.075 kg pakan-obat ikan ilegal dan 15 alat tangkap merusak di Aceh, serta menyerahkan 4 kompresor sitaan ke tiga SMK.",
+  "date": "21 September 2026",
+  "image": "assets/img/kkp-musnahkan-pakan-dan-alat-tangkap-ilegal-di-aceh.jpg",
+  "imageV": "mubbyqq9",
+  "tags": [
+   "KKP",
+   "Perikanan Ilegal",
+   "Banda Aceh",
+   "Pengawasan Laut"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-musnahkan-satu-ton-pakan-obat-ikan-dan-alat-tangkap-ilegal-di-banda-aceh-kr3N.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "realisasi-investasi-ri-semester-i-tumbuh-7-2-persen-ke-rp1-010-6-t",
+  "category": "Makroekonomi",
+  "title": "Realisasi Investasi RI Semester I [Tumbuh] 7,2 Persen ke Rp1.010,6 T",
+  "deck": "Kemenko Perekonomian paparkan data ekonomi terkini: investasi semester I 2026 tumbuh 7,2 persen jadi Rp1.010,6 triliun, Satgas Debottlenecking selesaikan 135 dari 177 aduan usaha.",
+  "date": "21 September 2026",
+  "image": "assets/img/pasar-ikan.jpg",
+  "tags": [
+   "investasi",
+   "hilirisasi",
+   "kawasan ekonomi khusus",
+   "makroekonomi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7106/dorong-investasi-berkualitas-dan-pertumbuhan-ekonomi-daerah-pemerintah-perkuat-keterbukaan-informasi-publik",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "asian-games-2026-gratis-di-maxstream-tv-indihome",
+  "category": "Bisnis",
+  "title": "Asian Games 2026 [Gratis] di MAXStream TV IndiHome",
+  "deck": "Pelanggan Paket Internet + TV IndiHome bisa nonton siaran Asian Games 2026 lewat MAXStream TV tanpa biaya tambahan, 19 September hingga 4 Oktober 2026.",
+  "date": "21 September 2026",
+  "image": "assets/img/asian-games-2026-gratis-di-maxstream-tv-indihome.jpg",
+  "imageV": "mubbyrwp",
+  "tags": [
+   "Telkomsel",
+   "IndiHome",
+   "MAXStream TV",
+   "Asian Games 2026"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468490-asian-games-2026-tayang-di-maxstream-tv-indihome-tanpa-biaya-tambahan-semangat-indonesia-hadir-di-rumah"
+ },
+ {
+  "slug": "bei-turunkan-batas-harga-saham-ke-rp1-per-28-september",
+  "category": "Pasar Modal",
+  "title": "BEI Turunkan Batas Harga Saham ke [Rp1] per 28 September",
+  "deck": "BEI menurunkan batas harga saham terendah dari Rp50 menjadi Rp1 mulai 28 September 2026, disertai penyesuaian aturan auto rejection atas dan bawah.",
+  "date": "21 September 2026",
+  "image": "assets/img/bei-turunkan-batas-harga-saham-ke-rp1-per-28-september.jpg",
+  "imageV": "mubbyt4t",
+  "tags": [
+   "BEI",
+   "saham Rp1",
+   "auto rejection",
+   "ARA ARB"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468480-mulai-28-september-harga-saham-di-bei-bisa-turun-hingga-rp1-ini-aturan-barunya"
+ },
+ {
+  "slug": "pemerintah-perketat-awasi-beras-fortifikasi",
+  "category": "Industri",
+  "title": "Pemerintah [Perketat] Awasi Beras Fortifikasi",
+  "deck": "25 merek beras fortifikasi diduga tak penuhi standar gizi. Pemerintah perintahkan penarikan usai uji di empat laboratorium.",
+  "date": "21 September 2026",
+  "image": "assets/img/pemerintah-perketat-awasi-beras-fortifikasi.jpg",
+  "imageV": "mubbytlp",
+  "tags": [
+   "beras fortifikasi",
+   "Bapanas",
+   "Kementan",
+   "pengawasan pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468479-pemerintah-perketat-pengawasan-beras-fortifikasi-25-merek-diduga-tak-sesuai-standar"
+ },
+ {
   "slug": "dyan-teken-ppjb-tanah-bangunan-senilai-rp36-miliar",
   "category": "Aksi Korporasi",
   "title": "DYAN Teken PPJB Tanah-Bangunan Senilai [Rp36 Miliar]",
@@ -51,6 +136,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/566b369146_d8eeddd1ec.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "imf-utang-dunia-nyaris-sentuh-100-persen-pdb-global",
+  "category": "Global",
+  "title": "IMF: Utang Dunia [Nyaris] Sentuh 100 Persen PDB Global",
+  "deck": "IMF memperingatkan utang publik dunia hampir menyentuh 100 persen PDB global, melampaui puncak pasca Perang Dunia II, di tengah kenaikan biaya pinjaman negara-negara berutang tinggi.",
+  "date": "21 September 2026",
+  "image": "assets/img/imf-utang-dunia-nyaris-sentuh-100-persen-pdb-global.jpg",
+  "imageV": "mubbyu21",
+  "tags": [
+   "utang dunia",
+   "IMF",
+   "Kristalina Georgieva",
+   "ekonomi global"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468473-imf-peringatkan-utang-dunia-makin-berat-as-hingga-negara-berkembang-terancam-tertekan"
  },
  {
   "slug": "dnrk-siapkan-dana-pelunasan-obligasi-viii-rp520-miliar",
@@ -6397,106 +6499,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467138-menkeu-suahasil-akan-paparkan-data-apbn-secepatnya"
- },
- {
-  "slug": "uu-pprt-atur-hak-dan-kewajiban-pekerja-rumah-tangga",
-  "category": "Ketenagakerjaan",
-  "title": "UU PPRT [Atur] Hak dan Kewajiban Pekerja Rumah Tangga",
-  "deck": "UU Nomor 2 Tahun 2026 memberi payung hukum bagi pekerja rumah tangga, mengatur upah, jam kerja, THR, jaminan sosial, hingga cara penyelesaian sengketa dengan majikan.",
-  "date": "15 September 2026",
-  "image": "assets/img/pasar-modal.jpg",
-  "tags": [
-   "PRT",
-   "UU PPRT",
-   "Kemnaker",
-   "Ketenagakerjaan"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-uu-pprt-perjelas-hak-dan-kewajiban-pekerja-rumah-tangga",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "ruu-ketenagakerjaan-masuk-tahap-panja-di-dpr",
-  "category": "Ketenagakerjaan",
-  "title": "RUU Ketenagakerjaan Masuk Tahap [Panja] di DPR",
-  "deck": "Pemerintah menyerahkan Daftar Inventarisasi Masalah RUU Pelindungan Ketenagakerjaan ke DPR, Komisi IX bentuk Panja lanjutkan pembahasan.",
-  "date": "15 September 2026",
-  "image": "assets/img/moneter-bi.jpg",
-  "tags": [
-   "RUU Ketenagakerjaan",
-   "DPR",
-   "Kemnaker",
-   "Panja"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/pemerintah-serahkan-dim-ruu-pelindungan-ketenagakerjaan-kepada-dpr",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "esdm-harga-bbm-subsidi-tak-naik-meski-pasokan-minyak-seret",
-  "category": "Energi",
-  "title": "ESDM: Harga BBM Subsidi [Tak] Naik Meski Pasokan Minyak Seret",
-  "deck": "Pemerintah menegaskan harga BBM bersubsidi tak akan naik meski harga minyak dunia bergejolak, sembari menjajaki pasokan minyak dari Rusia dan memperkuat aturan hilirisasi nikel.",
-  "date": "15 September 2026",
-  "image": "assets/img/esdm-harga-bbm-subsidi-tak-naik-meski-pasokan-minyak-seret.jpg",
-  "imageV": "mu1wr07k",
-  "tags": [
-   "BBM bersubsidi",
-   "ESDM",
-   "hilirisasi nikel",
-   "pasokan minyak"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/di-tengah-gejolak-geopolitik-dunia-bahlil-jaga-harga-bbm-bersubsidi-dan-dorong-hilirisasi-berkeadilan",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "kemendag-sebut-elpiji-3-kg-di-17-spbe-sesuai-takaran",
-  "category": "Energi",
-  "title": "Kemendag Sebut Elpiji 3 Kg di 17 SPBE [Sesuai] Takaran",
-  "deck": "Wamendag Dyah Roro Esti meninjau SPBE Pertamina di Bandung Barat, menyusul hasil pengawasan Kemendag yang menyatakan elpiji 3 kg di 17 SPBE sampel sudah sesuai takaran.",
-  "date": "15 September 2026",
-  "image": "assets/img/kemendag-sebut-elpiji-3-kg-di-17-spbe-sesuai-takaran.jpg",
-  "imageV": "mu1wr3k0",
-  "tags": [
-   "elpiji 3 kg",
-   "Kemendag",
-   "Pertamina",
-   "BDKT"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tinjau-spbe-padalarang-wamendag-roro-dorong-elpiji-3-kg-tepat-takaran",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "nasi-pemegang-saham-jual-2-28-juta-saham-suara-turun-ke-5-59",
-  "category": "Aksi Korporasi",
-  "title": "NASI: Pemegang Saham [Jual] 2,28 Juta Saham, Suara Turun ke 5,59%",
-  "deck": "Hartarto Ciputra menjual 2,28 juta saham Wahana Inti Makmur pada 14 September 2026 seharga Rp162 per saham, memangkas hak suaranya dari 5,87% menjadi 5,59%.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NASI",
-   "Wahana Inti Makmur",
-   "pemegang saham",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-2164-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal",
-  "category": "UMKM",
-  "title": "2,35 Juta [UMKM] Binaan PNM Naik Kelas ke Bank Formal",
-  "deck": "Dalam lima tahun Holding Ultra Mikro, 2,35 juta nasabah PNM naik kelas ke layanan keuangan formal lewat sinergi dengan BRI dan Pegadaian, mencakup tabungan hingga investasi emas.",
-  "date": "14 September 2026",
-  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
-  "imageV": "mu1nf6v4",
-  "tags": [
-   "umkm",
-   "pnm",
-   "bri",
-   "pegadaian"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467106-25-juta-umkm-tercatat-naik-kelas-tuju-layanan-keuangan-formal"
  }
 ];

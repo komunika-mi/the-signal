@@ -3,6 +3,142 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kkp-musnahkan-pakan-dan-alat-tangkap-ilegal-di-aceh",
+  "category": "Industri",
+  "title": "KKP [Musnahkan] Pakan dan Alat Tangkap Ilegal di Aceh",
+  "deck": "KKP memusnahkan 1.075 kg pakan-obat ikan ilegal dan 15 alat tangkap merusak di Aceh, serta menyerahkan 4 kompresor sitaan ke tiga SMK.",
+  "image": "assets/img/kkp-musnahkan-pakan-dan-alat-tangkap-ilegal-di-aceh.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T14:12:16.664Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-musnahkan-satu-ton-pakan-obat-ikan-dan-alat-tangkap-ilegal-di-banda-aceh-kr3N.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "KKP",
+   "Perikanan Ilegal",
+   "Banda Aceh",
+   "Pengawasan Laut"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan memusnahkan 1.075 kilogram pakan dan obat ikan ilegal serta 15 set alat tangkap yang dianggap merusak lingkungan laut di Banda Aceh, beberapa hari lalu. Bersamaan dengan itu, KKP juga menyerahkan empat unit kompresor hasil sitaan ke tiga sekolah kejuruan setempat. Tindakan ini menyasar praktik yang selama ini dipakai sebagian nelayan dan pembudidaya ikan di sekitar Aceh, yaitu penggunaan alat tangkap terlarang dan pakan atau obat ikan yang belum terdaftar resmi.",
+   "Direktur Jenderal Pengawasan Sumber Daya Kelautan dan Perikanan (PSDKP) Pung Nugroho Saksono menjelaskan, barang-barang tersebut diamankan saat patroli laut dan pengawasan unit usaha budidaya di wilayah kerja Pangkalan PSDKP Lampulo. Dari alat tangkap yang dimusnahkan, 14 di antaranya adalah mini trawl dan satu alat setrum ikan, keduanya dianggap mengancam kelestarian sumber daya laut. Pakan dan obat ikan turut dimusnahkan karena belum terdaftar di KKP sehingga keamanan dan kualitasnya tidak bisa dipastikan.",
+   "Empat kompresor yang diserahkan ke SMK Negeri 4 Banda Aceh, SMK Negeri 1 Calang Aceh Jaya, dan SMK Negeri 1 Samatiga Aceh Barat sebelumnya dipakai sebagai alat bantu pernapasan saat menyelam menangkap ikan, praktik yang dilarang karena berisiko bagi keselamatan penyelam dan dapat merusak ekosistem laut. Kompresor itu akan dipakai untuk mendukung praktikum siswa di bidang teknik mesin dan otomotif.",
+   "Direktur Pengawasan Sumber Daya Perikanan Sahono Budianto menegaskan, barang-barang yang dimusnahkan atau dihibahkan itu bukan barang bukti tindak pidana, melainkan hasil pengawasan yang diserahkan sukarela oleh masyarakat atau ditemukan tanpa pemilik yang jelas. Kepala Pangkalan PSDKP Lampulo Abdul Quddus menambahkan, pemusnahan barang cair seperti obat ikan sebagian dilakukan bersamaan di Satuan PSDKP Padang, Sumatera Barat, karena pertimbangan keamanan."
+  ],
+  "fotoAdegan": "Fishing harbor workers stacking confiscated small trawl nets and feed sacks on a concrete dock, overcast morning light, Sumatra coastline",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-musnahkan-satu-ton-pakan-obat-ikan-dan-alat-tangkap-ilegal-di-banda-aceh-kr3N.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah konkret di lapangan: KKP menyingkirkan 1.075 kilogram pakan dan obat ikan tak terdaftar serta melarang pemakaian 14 mini trawl dan satu alat setrum karena tergolong alat tangkap merusak, sementara empat kompresor sitaan yang tadinya dipakai menyelam kini dialihkan ke sekolah kejuruan. Yang kena dampak adalah nelayan dan pembudidaya kecil di sekitar Banda Aceh yang selama ini memakai alat atau pakan tak berizin itu, serta pedagang pakan dan obat ikan yang belum mendaftarkan produknya ke KKP. Pemusnahan yang berlangsung bersamaan di Padang, Sumatera Barat, menunjukkan pengawasan ini berjalan di lebih dari satu wilayah, bukan cuma kejadian tunggal di Aceh. Yang belum bisa dipastikan dari siaran pers ini adalah apakah ini bagian dari operasi pengawasan nasional yang lebih luas atau sekadar rutinitas lokal, karena KKP tidak menyebutkan total temuan serupa di wilayah lain sepanjang tahun ini.",
+  "imageV": "mubbyqq9"
+ },
+ {
+  "slug": "realisasi-investasi-ri-semester-i-tumbuh-7-2-persen-ke-rp1-010-6-t",
+  "category": "Makroekonomi",
+  "title": "Realisasi Investasi RI Semester I [Tumbuh] 7,2 Persen ke Rp1.010,6 T",
+  "deck": "Kemenko Perekonomian paparkan data ekonomi terkini: investasi semester I 2026 tumbuh 7,2 persen jadi Rp1.010,6 triliun, Satgas Debottlenecking selesaikan 135 dari 177 aduan usaha.",
+  "image": "assets/img/pasar-ikan.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T14:10:37.329Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7106/dorong-investasi-berkualitas-dan-pertumbuhan-ekonomi-daerah-pemerintah-perkuat-keterbukaan-informasi-publik",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "investasi",
+   "hilirisasi",
+   "kawasan ekonomi khusus",
+   "makroekonomi"
+  ],
+  "body": [
+   "Kementerian Koordinator Bidang Perekonomian memaparkan sejumlah data terbaru perekonomian dan investasi Indonesia dalam forum diseminasi informasi publik di Kementerian Investasi dan Hilirisasi/BKPM, Senin (21/9/2026). Paparan ini penting bagi pelaku usaha dan investor karena merangkum kondisi ekonomi RI paling mutakhir, mulai dari pertumbuhan ekonomi, inflasi, hingga realisasi investasi, yang lazim menjadi acuan sebelum mengambil keputusan bisnis.",
+   "Menurut Staf Ahli Menko Perekonomian Bidang Pembangunan Daerah, Haryo Limanseto, ekonomi Indonesia tumbuh 5,45 persen pada semester I 2026, sementara inflasi Agustus 2026 tercatat 3,19 persen dibanding tahun sebelumnya. Realisasi investasi pada semester I 2026 mencapai Rp1.010,6 triliun, naik 7,2 persen dari periode yang sama tahun lalu. Cadangan devisa Agustus 2026 tercatat sekitar US$146 miliar dan neraca perdagangan Januari-Juni 2026 mencatat surplus US$3,58 miliar. Lembaga pemeringkat S&P juga mempertahankan peringkat utang Indonesia di level BBB untuk jangka panjang dengan prospek stabil, yang berarti lembaga itu menilai kemampuan Indonesia membayar utang masih tergolong layak investasi.",
+   "Pemerintah juga melaporkan perkembangan tim penyelesai hambatan investasi yang disebut Satgas Debottlenecking. Hingga 31 Agustus 2026, tim ini menerima 177 aduan dari pelaku usaha terkait perizinan, pajak, bea cukai, tata ruang, logistik, dan energi, dan sudah menyelesaikan 135 di antaranya. Sistem perizinan berusaha berbasis risiko atau OSS, yang diatur Peraturan Pemerintah Nomor 28 Tahun 2025, disebut sebagai jalur utama pemerintah menjamin kepastian izin usaha bagi investor.",
+   "Untuk kawasan ekonomi khusus atau KEK, yaitu kawasan yang diberi insentif pajak dan kemudahan khusus untuk menarik investasi, pemerintah mencatat 25 KEK dengan investasi kumulatif sekitar Rp368 triliun dan penyerapan lebih dari 283 ribu pekerja hingga Juni 2026. Di sektor hilirisasi, yakni pengolahan bahan mentah menjadi produk bernilai tambah lebih tinggi sebelum diekspor, pemerintah mengidentifikasi 28 komoditas prioritas dari sektor tambang, perkebunan, perikanan, dan kehutanan dengan potensi investasi US$618,1 miliar, potensi ekspor US$857,9 miliar, serta proyeksi penyerapan lebih dari 3 juta tenaga kerja hingga 2040."
+  ],
+  "fotoAdegan": "Workers inspecting machinery inside a metal smelting plant within an industrial economic zone in Indonesia, daylight",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan pembaruan angka: tim penyelesai hambatan investasi pemerintah sudah menuntaskan 135 dari 177 aduan pelaku usaha per akhir Agustus, dan 25 kawasan ekonomi khusus tercatat menyerap investasi Rp368 triliun serta lebih dari 283 ribu pekerja hingga Juni 2026. Yang terdampak langsung adalah pelaku usaha yang mengajukan keluhan soal izin, pajak, atau logistik, dan pemerintah daerah yang mengelola kawasan investasi tersebut. Dorongan keterbukaan informasi, mulai dari profil daerah sampai rantai pasok lokal, menunjukkan pemerintah mengandalkan kemudahan akses data sebagai salah satu jalan mengejar target pertumbuhan investasi menuju PDB 6 persen pada 2027 dan 8 persen pada 2029, bukan sekadar insentif fiskal baru. Yang akan menentukan apakah pendekatan ini berhasil adalah angka realisasi investasi kuartal III 2026 yang biasanya dirilis BKPM pada akhir Oktober, serta apakah jumlah aduan yang tuntas ditangani terus bertambah dari 135 kasus saat ini.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "asian-games-2026-gratis-di-maxstream-tv-indihome",
+  "category": "Bisnis",
+  "title": "Asian Games 2026 [Gratis] di MAXStream TV IndiHome",
+  "deck": "Pelanggan Paket Internet + TV IndiHome bisa nonton siaran Asian Games 2026 lewat MAXStream TV tanpa biaya tambahan, 19 September hingga 4 Oktober 2026.",
+  "image": "assets/img/asian-games-2026-gratis-di-maxstream-tv-indihome.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T20:51:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468490-asian-games-2026-tayang-di-maxstream-tv-indihome-tanpa-biaya-tambahan-semangat-indonesia-hadir-di-rumah",
+  "tags": [
+   "Telkomsel",
+   "IndiHome",
+   "MAXStream TV",
+   "Asian Games 2026"
+  ],
+  "body": [
+   "Telkomsel membuka akses menonton Asian Games 2026 Aichi-Nagoya secara gratis bagi pelanggan IndiHome lewat layanan IPTV MAXStream TV. Langkah ini memudahkan masyarakat mengikuti perjuangan kontingen Indonesia langsung dari rumah tanpa perlu berlangganan paket olahraga tambahan.",
+   "Akses gratis ini berlaku mulai 19 September hingga 4 Oktober 2026 bagi pelanggan dengan status langganan Paket Internet + TV IndiHome yang masih aktif. Siarannya bisa disaksikan melalui dua saluran, yaitu Champions TV 7 di kanal 727 dan Champions TV 8 di kanal 728, yang bisa langsung diakses lewat Set Top Box MAXStream TV yang sudah tersedia dalam paket.",
+   "Dengan skema ini, pelanggan tidak perlu membeli paket tambahan apa pun karena kedua kanal tersebut sudah termasuk dalam Paket Internet + TV IndiHome yang secara keseluruhan menawarkan akses hingga 204 saluran televisi. Informasi lengkap soal pilihan paket dan cara berlangganan tersedia di situs resmi Telkomsel.",
+   "VP Digital Lifestyle Telkomsel Kemas M. Fadhli mengatakan dukungan untuk Indonesia terasa lebih dekat ketika keluarga bisa menyaksikan setiap perjuangan bersama-sama dari rumah. Ia menyebut langkah ini sebagai bagian dari komitmen Telkomsel menghadirkan hiburan yang relevan dan memberi nilai tambah bagi pelanggan tanpa membebani mereka dengan biaya ekstra."
+  ],
+  "fotoAdegan": "Close-up of a set-top box and remote control on a wooden TV console, television glowing softly out of focus in a home living room",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/21/6ab1356b17769-telkomsel-memberikan-kemudahan-bagi-masyarakat-untuk-mengawal-langsung-perjuangan-kontingen-indonesia-di-ajang-asian-games-2026-aichi-nagoya-melalui-platform-iptv-indihome-maxstream-tv_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: Telkomsel menambahkan akses gratis ke dua kanal siaran Asian Games 2026 selama 16 hari untuk pelanggan Paket Internet + TV IndiHome yang sudah aktif, tanpa menaikkan biaya berlangganan. Yang terdampak adalah pelanggan existing kombo internet dan TV, bukan pelanggan internet saja atau calon pelanggan baru yang belum memiliki paket TV. Pola menambah konten eksklusif event olahraga besar seperti ini lazim dipakai operator IPTV untuk menahan pelanggan di tengah gempuran platform streaming, tapi data yang tersedia belum menyebutkan jumlah pelanggan Paket Internet + TV saat ini maupun apakah strategi serupa akan diulang untuk event besar lain. Yang perlu dipantau adalah apakah Telkomsel mengulang pola bundling semacam ini pada ajang olahraga besar berikutnya, serta apakah ada pengumuman soal penambahan jumlah pelanggan setelah periode promosi ini berakhir pada 4 Oktober 2026.",
+  "imageV": "mubbyrwp"
+ },
+ {
+  "slug": "bei-turunkan-batas-harga-saham-ke-rp1-per-28-september",
+  "category": "Pasar Modal",
+  "title": "BEI Turunkan Batas Harga Saham ke [Rp1] per 28 September",
+  "deck": "BEI menurunkan batas harga saham terendah dari Rp50 menjadi Rp1 mulai 28 September 2026, disertai penyesuaian aturan auto rejection atas dan bawah.",
+  "image": "assets/img/bei-turunkan-batas-harga-saham-ke-rp1-per-28-september.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T20:50:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468480-mulai-28-september-harga-saham-di-bei-bisa-turun-hingga-rp1-ini-aturan-barunya",
+  "tags": [
+   "BEI",
+   "saham Rp1",
+   "auto rejection",
+   "ARA ARB"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mulai memberlakukan aturan baru soal batas bawah harga saham pada Senin, 28 September 2026. Batas terendah yang selama ini dipatok Rp50 per saham diturunkan menjadi Rp1, perubahan yang langsung berdampak pada saham-saham yang selama ini tertahan di harga dasar tersebut. Perubahan ini disertai penyesuaian ketentuan auto rejection atas dan bawah, yakni batas maksimal kenaikan dan penurunan harga saham dalam sehari, untuk saham dan dana investasi infrastruktur yang diperdagangkan di pasar reguler dan pasar tunai.",
+   "Sekretaris Perusahaan BEI Elsierra Putri Yosita menjelaskan perubahan ini memberi ruang gerak harga yang lebih lebar bagi saham yang sebelumnya mentok di Rp50, agar proses pembentukan harga wajar berjalan lebih baik dan transaksi jual belinya lebih ramai. Selama ini banyak saham kecil tertahan di harga Rp50 karena itu sudah jadi batas dasar, sehingga harganya tidak bisa turun lebih jauh meski peminatnya sedikit.",
+   "Aturan baru membagi ketentuan auto rejection berdasarkan rentang harga saham. Untuk saham Rp1 sampai Rp10, batas naik maupun turun harganya dipatok Rp1, bukan persentase. Saham di atas Rp10 hingga Rp200 boleh naik maksimal 35 persen dan turun maksimal 15 persen dalam sehari. Saham di atas Rp200 hingga Rp5.000 punya batas naik 25 persen dan turun 15 persen, sementara saham di atas Rp5.000 batas naiknya 20 persen dan turunnya tetap 15 persen.",
+   "BEI mempertahankan batas turun sebesar 15 persen untuk saham di atas Rp10 sampai 31 Desember 2026, sebelum masuk ke skema berikutnya yang mulai berlaku 1 Januari 2027. Dengan kata lain, ketentuan yang berlaku mulai 28 September ini sifatnya transisi, bukan aturan final."
+  ],
+  "fotoAdegan": "Wide shot of the Indonesia Stock Exchange building facade in Jakarta with glass towers reflecting morning light, people walking below",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8d0465745-bursa-efek-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma angka Rp50 menjadi Rp1, tapi juga cara kerja rem otomatis harga saham. Dulu batas naik turun dihitung persen dari harga, sekarang untuk saham di bawah Rp10 batasnya dipatok Rp1 secara tetap, sementara saham di atas Rp10 tetap memakai batas turun 15 persen sampai akhir tahun. Yang paling kena dampak adalah saham-saham kecil yang selama ini tertahan di harga dasar Rp50, karena sekarang harganya bisa bergerak lebih dalam lagi kalau peminatnya memang sedikit, ini berpotensi menambah gairah transaksi saham murah tapi juga membuka risiko harga yang lebih bergejolak bagi investor yang terbiasa menganggap Rp50 sebagai batas aman. BEI sendiri menyebut aturan 28 September ini sebagai tahap awal, dengan skema berbeda menyusul mulai 1 Januari 2027, jadi arahnya adalah pelonggaran mekanisme harga secara bertahap, bukan perubahan sekali jadi. Yang akan menentukan apakah pelonggaran ini benar menambah likuiditas atau malah memicu gejolak di saham-saham eks Rp50 adalah pergerakan harga saham tersebut dalam tiga bulan ke depan, sebelum skema tahap berikutnya berlaku awal 2027.",
+  "imageV": "mubbyt4t"
+ },
+ {
+  "slug": "pemerintah-perketat-awasi-beras-fortifikasi",
+  "category": "Industri",
+  "title": "Pemerintah [Perketat] Awasi Beras Fortifikasi",
+  "deck": "25 merek beras fortifikasi diduga tak penuhi standar gizi. Pemerintah perintahkan penarikan usai uji di empat laboratorium.",
+  "image": "assets/img/pemerintah-perketat-awasi-beras-fortifikasi.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T20:25:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468479-pemerintah-perketat-pengawasan-beras-fortifikasi-25-merek-diduga-tak-sesuai-standar",
+  "tags": [
+   "beras fortifikasi",
+   "Bapanas",
+   "Kementan",
+   "pengawasan pangan"
+  ],
+  "body": [
+   "Pemerintah memperketat pengawasan terhadap produk pangan berklaim gizi, termasuk beras fortifikasi, setelah menemukan 25 merek yang diduga tidak memenuhi standar. Langkah ini penting karena menyangkut kepercayaan konsumen terhadap label gizi yang selama ini dijadikan pegangan saat membeli produk pangan.",
+   "Temuan itu diumumkan Kementerian Pertanian bersama Badan Pangan Nasional pada 15 September 2026, berdasarkan hasil pengujian di empat laboratorium terhadap beras yang beredar di pasaran. Hasil uji menunjukkan kandungan gizi 25 merek tersebut tidak sesuai dengan informasi yang tercantum pada label, dan produk yang bermasalah diperintahkan ditarik dari peredaran.",
+   "Kepala Badan Komunikasi Pemerintah RI Muhammad Qodari menegaskan pemerintah ingin memberikan perlindungan dan kepastian kepada masyarakat, sekaligus memastikan pihak yang diduga melanggar bertanggung jawab sesuai proses yang berlaku. Beras fortifikasi sendiri dirancang untuk membantu memenuhi kebutuhan gizi kelompok rentan seperti ibu hamil, ibu menyusui, dan balita, sebagai bagian dari upaya pencegahan stunting."
+  ],
+  "fotoAdegan": "Close-up of white rice grains poured into a laboratory sample tray, gloved hands, sterile indoor lighting, no readable text",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/01/05/695bb62dc1036-ilustrasi-beras-dan-uang_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah status 25 merek beras fortifikasi, dari sekadar temuan pengujian menjadi perintah penarikan produk, setelah uji laboratorium di empat lokasi menunjukkan kandungan gizinya tidak cocok dengan label kemasan. Yang terdampak adalah produsen dan penjual dari merek-merek itu, sekaligus konsumen yang mengandalkan label tersebut, terutama ibu hamil, ibu menyusui, dan keluarga dengan balita yang memang menjadi sasaran program beras fortifikasi untuk mencegah stunting. Arah kebijakan ini belum bisa dibaca jauh karena data yang beredar belum menyebut nama-nama merek yang bermasalah, bentuk sanksi bagi produsennya, atau batas waktu penarikan produk dari pasaran. Yang perlu ditunggu adalah pengumuman resmi Kementan dan Bapanas berisi daftar lengkap 25 merek tersebut beserta aturan sanksinya, karena dari situ baru terlihat apakah ini langkah sekali jalan atau awal pengawasan rutin terhadap produk pangan berklaim gizi.",
+  "imageV": "mubbytlp"
+ },
+ {
   "slug": "dyan-teken-ppjb-tanah-bangunan-senilai-rp36-miliar",
   "category": "Aksi Korporasi",
   "title": "DYAN Teken PPJB Tanah-Bangunan Senilai [Rp36 Miliar]",
@@ -79,6 +215,33 @@ var ARTICLES = [
   "fotoAdegan": "Stacked gold bars glinting under cool vault lighting, a metal security cage visible in the foreground, no people in frame",
   "takeaway": "Pencatatan ini bersifat netral, sekadar menambah satu pilihan produk investasi berbasis emas syariah di bursa, bukan sinyal soal kinerja emiten operasional tertentu. Yang layak diperhatikan adalah jumlah unit penyertaan yang beredar saat ini, baru 32,4 juta dari batas maksimum 20 miliar unit atau sekitar 0,16 persen dari kapasitas penuhnya, sehingga ukuran dana ini masih sangat kecil dan transaksinya berpotensi tipis pada tahap awal perdagangan. Investor yang membeli unit ini pada dasarnya membeli eksposur ke harga emas lewat skema yang mengikuti prinsip syariah, jadi pergerakan nilainya lebih ditentukan oleh harga emas dunia ketimbang kinerja satu perusahaan. Yang perlu dipantau berikutnya adalah perdagangan perdana pada 22 September 2026, terutama seberapa aktif unit ini ditransaksikan pada hari-hari awal, karena itu akan menunjukkan seberapa besar minat investor terhadap produk baru ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "imf-utang-dunia-nyaris-sentuh-100-persen-pdb-global",
+  "category": "Global",
+  "title": "IMF: Utang Dunia [Nyaris] Sentuh 100 Persen PDB Global",
+  "deck": "IMF memperingatkan utang publik dunia hampir menyentuh 100 persen PDB global, melampaui puncak pasca Perang Dunia II, di tengah kenaikan biaya pinjaman negara-negara berutang tinggi.",
+  "image": "assets/img/imf-utang-dunia-nyaris-sentuh-100-persen-pdb-global.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T19:31:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468473-imf-peringatkan-utang-dunia-makin-berat-as-hingga-negara-berkembang-terancam-tertekan",
+  "tags": [
+   "utang dunia",
+   "IMF",
+   "Kristalina Georgieva",
+   "ekonomi global"
+  ],
+  "body": [
+   "Direktur Pelaksana IMF Kristalina Georgieva memperingatkan bahwa utang pemerintah di seluruh dunia kini hampir menyamai seluruh nilai ekonomi global dalam setahun, level yang bahkan melampaui puncak setelah Perang Dunia II. Peringatan itu disampaikan usai pertemuan menteri keuangan dan gubernur bank sentral G20 di Asheville, Amerika Serikat, pada 1 September 2026. Bagi pembaca, ini relevan karena beban utang yang makin berat pada akhirnya membatasi ruang gerak anggaran pemerintah, termasuk kemampuan membiayai subsidi, infrastruktur, atau bantuan sosial saat dibutuhkan.",
+   "Georgieva memperkirakan ekonomi dunia masih akan tumbuh sekitar 3 persen pada 2026, namun pertumbuhan itu berlangsung di tengah risiko gangguan pasokan energi dan tekanan utang yang tinggi. Ia menggambarkan pergerakan utang pemerintah seperti anak tangga, melonjak tajam setiap kali terjadi guncangan ekonomi, tapi begitu kondisi membaik penurunannya tidak sebanding, bahkan kerap tidak turun sama sekali. Pola inilah yang membuat rasio utang publik dunia terhadap produk domestik bruto (PDB) global terus merangkak naik dan kini nyaris menyentuh 100 persen.",
+   "Data Trading Economics yang dikutip menunjukkan rasio utang terhadap PDB sejumlah negara pada 2025: Jepang sekitar 249 persen, Singapura 171 persen, Italia 137 persen, dan Amerika Serikat 123 persen. Sebagai perbandingan, rasio utang Indonesia jauh lebih rendah, yaitu 41 persen dari PDB.",
+   "Georgieva menambahkan bahwa persoalannya tidak berhenti pada besarnya pinjaman, sebab negara yang harus membayar atau memperpanjang utang lama kini menghadapi biaya pinjaman yang lebih mahal. Imbal hasil obligasi di negara maju disebut sudah berada di level tertinggi dalam beberapa tahun terakhir, kondisi yang ikut mendorong naiknya biaya pinjaman di berbagai negara lain."
+  ],
+  "fotoAdegan": "Wide dusk view of a financial district skyline with lit office towers and a central bank building in the foreground",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/04/18/6801af888ce2b-logo-dana-moneter-internasional-imf-di-kantor-pusatnya-di-washington_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar angka rasio utang, melainkan polanya: menurut Georgieva, utang pemerintah naik tajam tiap kali ada guncangan ekonomi tapi nyaris tidak turun begitu krisis reda, sehingga rasio utang dunia terhadap PDB, yaitu perbandingan total utang dengan ukuran ekonomi setahun, kini sudah melewati puncak yang pernah tercatat setelah Perang Dunia II. Yang paling terdampak adalah negara dengan rasio utang tinggi seperti Jepang (249 persen PDB), Singapura (171 persen), Italia (137 persen), dan Amerika Serikat (123 persen), karena mereka harus terus memperpanjang atau membiayai ulang utang lama, sementara imbal hasil obligasi, yaitu bunga yang wajib dibayar pemerintah saat menerbitkan surat utang baru, di negara-negara maju itu sudah berada di titik tertinggi dalam beberapa tahun terakhir. Indonesia, dengan rasio utang 41 persen PDB, relatif lebih aman dari tekanan ini, tapi tetap ikut terpapar lewat biaya pinjaman global yang naik. Arah yang terlihat dari pola ini adalah beban bunga yang makin berat bagi negara-negara berutang tinggi, ketimbang lonjakan utang baru yang besar, dan penanda paling langsung untuk memastikannya adalah apakah imbal hasil obligasi negara maju itu terus naik atau mulai mereda dalam beberapa bulan mendatang.",
+  "imageV": "mubbyu21"
  },
  {
   "slug": "dnrk-siapkan-dana-pelunasan-obligasi-viii-rp520-miliar",
@@ -31451,7 +31614,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Harga Impor RI [Naik] Lebih Cepat dari Ekspor Triwulan II-2026",
   "deck": "BPS mencatat indeks harga ekspor dan impor Indonesia sama-sama naik pada triwulan II-2026, tapi kenaikan harga impor lebih tinggi, terutama untuk kelompok migas.",
-  "image": "assets/img/pasar-ikan.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2613",
@@ -31477,7 +31640,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Nilai Tukar Petani [Naik] 1,05 Persen ke 129,19",
   "deck": "NTP nasional Agustus 2026 naik ke 129,19 karena harga hasil panen naik lebih cepat dibanding biaya hidup dan produksi yang ditanggung petani.",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/panen-sawah.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2612",

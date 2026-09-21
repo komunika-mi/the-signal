@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "unsp-rinci-dasar-diskonto-revaluasi-kebun-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Rinci Dasar Diskonto Revaluasi [Kebun] ke Bursa",
+  "deck": "Menjawab pertanyaan lanjutan BEI, UNSP membeberkan asumsi beta, imbal hasil obligasi, dan suku bunga di balik surplus revaluasi kebun Rp3,06 triliun yang mengangkat ekuitasnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T11:54:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5bb4aea5d2_f9a50dd4ed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNSP",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "revaluasi aset",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bakrie Sumatera Plantations Tbk (UNSP) mengirim tanggapan kedua ke Bursa Efek Indonesia pada 21 September 2026, menjawab surat permintaan penjelasan lanjutan BEI bernomor S-12154/BEI.PP1/09-2026 tanggal 18 September 2026. Surat ditandatangani Corporate Secretary Aditya Indrajati dan berisi rincian teknis atas revaluasi tanaman produktif, yaitu kebun sawit dan karet perseroan, yang per 31 Juli 2026 dinilai kembali menjadi Rp4.628.407.900.000 dari nilai tercatat sebelumnya Rp1.570.271.340.092. Selisihnya, surplus revaluasi sebesar Rp3.058.136.559.908, adalah angka yang mendasari perbaikan ekuitas UNSP yang sudah lebih dulu diumumkan.",
+   "Bursa mempertanyakan enam hal soal cara Kantor Jasa Penilai Publik (KJPP) Benedictus Darmapuspita dan Rekan menghitung tingkat diskonto 10,6 persen yang dipakai dalam revaluasi. UNSP menjelaskan, beta atau ukuran fluktuasi risiko ditetapkan 1,00 secara hipotetis karena tidak ada data beta khusus properti perkebunan. Imbal hasil obligasi pemerintah dipilih dari tenor 25 tahun sebesar 7,33 persen, dengan alasan umur ekonomis tanaman sawit dan karet memang sekitar 25 tahun. Suku bunga pinjaman investasi Mei 2026 sebesar 8,07 persen, yang bersumber dari data resmi Bank Indonesia, digunakan untuk menghitung tingkat pengembalian modal (capital recovery) sebesar 9,43 persen, dan tarif pajak ditetapkan nol karena perhitungan arus kas properti memakai dasar sebelum pajak sesuai Standar Penilaian Indonesia edisi VII-2018.",
+   "Dalam surat yang sama, UNSP juga menegaskan tidak ada informasi atau fakta material lain yang dapat memengaruhi kelangsungan usaha maupun harga sahamnya di luar yang sudah diungkapkan."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fruit bunches in a tropical plantation row, wicker baskets and long harvesting poles, humid morning light",
+  "takeaway": "Laporan ini netral bagi UNSP: seluruh angka finansialnya sama dengan yang sudah diumumkan sebelumnya, dan isinya cuma memperdalam justifikasi teknis atas asumsi yang sudah dipakai perseroan. Yang tersentuh adalah keyakinan pasar atas angka ekuitas UNSP, karena surplus revaluasi kebun Rp3,06 triliun inilah yang selama ini mengangkat modal perusahaan dari posisi minus menjadi positif, jadi kalau asumsi tingkat diskonto di baliknya longgar, angka ekuitas itu ikut rapuh. Bursa yang sampai mengirim pertanyaan lanjutan menandakan proses verifikasi independen atas revaluasi ini belum tuntas, bukan sekadar formalitas. Yang perlu dipantau berikutnya adalah apakah BEI akan menerima jawaban kedua ini atau kembali meminta klarifikasi tambahan, karena dokumen ini sendiri tidak menyebut tenggat baru untuk tahap selanjutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cpin-hery-tambah-6-95-juta-saham-via-repurchase-agreement",
+  "category": "Aksi Korporasi",
+  "title": "CPIN: HERY Tambah 6,95 Juta Saham via [Repurchase Agreement]",
+  "deck": "HERY menambah 6,95 juta saham CPIN lewat repurchase agreement seharga Rp3.090 per lembar pada 16 September 2026, mengerek hak suaranya dari 5,52 persen menjadi 5,56 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T11:43:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2278-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CPIN",
+  "tags": [
+   "CPIN",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "Charoen Pokphand"
+  ],
+  "body": [
+   "Pemegang saham CPIN bernama HERY, yang bukan anggota direksi maupun dewan komisaris, melaporkan penambahan kepemilikan saham Charoen Pokphand Indonesia Tbk kepada Otoritas Jasa Keuangan. Sebelum transaksi, HERY memegang 905.540.960 lembar saham setara 5,52 persen hak suara. Setelah transaksi pada 16 September 2026, jumlah sahamnya naik menjadi 912.490.960 lembar dengan hak suara 5,56 persen, atau bertambah 6.950.000 lembar saham biasa.",
+   "Transaksi dilakukan melalui skema pembelian dengan repurchase agreement, yaitu perjanjian jual beli saham dengan komitmen membeli kembali di kemudian hari, pada harga Rp3.090 per saham. Kepemilikan tambahan ini berstatus tidak langsung, dipegang oleh Royalton Equities Corp dan afiliasinya melalui dua kustodian di Singapura, UOB Kay Hian Pte Ltd dan Bonham Nominees Pte Ltd.",
+   "Pelaporan ini merupakan kewajiban rutin berdasarkan POJK Nomor 4/2024, yang mengharuskan pemegang saham dengan kepemilikan signifikan di sebuah perusahaan terbuka melaporkan setiap perubahan kepemilikan sahamnya kepada OJK."
+  ],
+  "fotoAdegan": "Workers in hairnets and aprons moving trays of packaged chicken products along a conveyor belt inside a modern processing plant",
+  "takeaway": "Laporan ini netral bagi CPIN. Penambahan 6,95 juta saham oleh HERY hanya setara 0,77 persen dari kepemilikannya sendiri sebelum transaksi, jumlah yang terlalu kecil untuk dibaca sebagai sinyal kuat soal keyakinan besar terhadap prospek perusahaan, meski arah transaksinya adalah pembelian. Yang tersentuh dari transaksi ini cuma hak suara milik HERY sendiri, naik tipis dari 5,52 persen ke 5,56 persen, sementara jumlah total saham beredar CPIN dan laba per saham perusahaan tidak berubah karena ini jual beli antar investor di pasar sekunder, bukan penerbitan saham baru oleh perusahaan. Karena kepemilikan HERY sudah di atas ambang 5 persen, setiap perubahan porsi selanjutnya wajib dilaporkan lagi ke OJK, sehingga pasar bisa memantau apakah pembelian kali ini jadi awal tren akumulasi atau berhenti di sini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kementan-kerahkan-seribu-pompa-air-untuk-kebun-hadapi-kemarau",
   "category": "Industri",
   "title": "Kementan Kerahkan [Seribu] Pompa Air untuk Kebun Hadapi Kemarau",
@@ -28,6 +80,188 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "takeaway": "Yang berubah di sini adalah penambahan alat, bukan aturan atau anggaran baru yang diumumkan resmi. Kementan menyebut sekitar seribu unit pompa irigasi sudah disalurkan untuk kebun, ditambah 545 pompa pemadam kebakaran lahan yang dibagikan ke sembilan provinsi rawan karhutla sejak 2022. Yang terdampak jelas pekebun di wilayah rawan kering dan kebakaran seperti Riau dan sejumlah daerah di Kalimantan, tapi Kementan sendiri tidak merinci sejak kapan seribu unit pompa itu dihitung, berapa anggarannya, atau berapa luas kebun yang tercakup. Karena angka-angka ini masih klaim sepihak tanpa rincian waktu dan cakupan, arah kebijakannya baru bisa dibaca lebih jelas kalau ada laporan realisasi bantuan per wilayah atau data luas kebun yang benar-benar terselamatkan setelah musim kemarau tahun ini berakhir.",
   "imageV": "muarfsnz"
+ },
+ {
+  "slug": "crab-laba-bersih-anjlok-53-utang-naik-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "CRAB: Laba Bersih Anjlok 53%, [Utang] Naik di Semester I 2026",
+  "deck": "Materi paparan publik tahunan CRAB menunjukkan laba bersih semester I 2026 turun jadi Rp3,94 miliar dari Rp8,42 miliar setahun sebelumnya, sementara liabilitas naik ke Rp125,23 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T11:17:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b36da3f32b_f2f9afbc55.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRAB",
+  "tags": [
+   "CRAB",
+   "Toba Surimi Industries",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Toba Surimi Industries Tbk (CRAB) menyampaikan materi Paparan Publik Tahunan kepada Bursa Efek Indonesia melalui surat bernomor 032/TSI/CORSEC/IX/2026 yang ditandatangani Direktur Utama Gindra Tardy. Paparan publik akan digelar Jumat, 25 September 2026 di Medan, membahas kinerja tahun buku 2025 dan kuartal II 2026.",
+   "Materi yang dilampirkan memuat ikhtisar keuangan Perseroan. Total aset naik dari Rp300,05 miliar pada Juni 2025 menjadi Rp367,79 miliar pada Juni 2026. Penjualan neto ikut naik dari Rp298,29 miliar menjadi Rp322,14 miliar pada periode yang sama. Namun laba bruto justru turun dari Rp36,33 miliar menjadi Rp19,98 miliar, dan laba bersih turun lebih tajam lagi dari Rp8,42 miliar menjadi Rp3,94 miliar. Total liabilitas melonjak dari Rp72,40 miliar menjadi Rp125,23 miliar, sementara rasio utang terhadap ekuitas naik dari 0,32 kali menjadi 0,52 kali dan rasio lancar turun dari 3,67 kali menjadi 2,65 kali.",
+   "Dalam materi itu, manajemen menyebut tantangan utama tahun 2026 adalah dampak perang yang memicu inflasi dan menurunkan daya beli. Sebagai respons, Perseroan menyebut sejumlah langkah antara lain memperkuat riset dan pengembangan produk, memperluas jaringan distribusi ritel di pasar lokal dan internasional, menambah kapasitas produksi terutama cold storage, serta menjaga hubungan dengan pemasok dan pembeli untuk mengurangi risiko bahan baku."
+  ],
+  "fotoAdegan": "Workers in blue uniforms sorting crab meat on stainless steel tables inside a coastal seafood processing plant, cold storage lighting",
+  "takeaway": "Laporan ini condong negatif karena laba bersih Perseroan anjlok tajam pada semester I 2026 meski penjualan justru naik, artinya biaya produksi atau operasional membengkak lebih cepat dari pendapatan. Pos yang tersentuh adalah laba bersih, yang turun dari Rp8,42 miliar menjadi Rp3,94 miliar, serta rasio utang terhadap ekuitas (perbandingan antara utang dan modal sendiri Perseroan) yang naik dari 0,32 kali menjadi 0,52 kali, menandakan porsi utang terhadap modal makin besar meski nilainya masih lebih kecil dari ekuitas. Rasio lancar, yaitu ukuran kemampuan membayar kewajiban jangka pendek dengan aset yang mudah dicairkan, juga turun dari 3,67 kali menjadi 2,65 kali, walau masih tergolong sehat karena di atas satu kali. Pelaku pasar akan mencermati apakah tekanan pada laba ini berlanjut atau hanya sementara, dan penjelasannya kemungkinan besar akan disampaikan manajemen dalam Paparan Publik Tahunan yang dijadwalkan Jumat, 25 September 2026 di Medan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rlco-direksi-terima-kembali-120-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Terima Kembali [120 Juta] Saham Lewat Repo",
+  "deck": "Direksi RLCO, Samuel Tumbuh Bersama, menerima kembali 120 juta saham lewat perjanjian repo pada 16 September 2026, menaikkan hak suaranya dari 3,58 persen menjadi 7,42 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T11:15:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-4729-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "kepemilikan direksi",
+   "repo saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Abadi Lestari Indonesia Tbk (RLCO) melaporkan kepada Otoritas Jasa Keuangan bahwa salah satu anggota direksinya, Samuel Tumbuh Bersama, mengalami perubahan jumlah kepemilikan saham perusahaan. Sebelum transaksi ia memegang 112.000.000 lembar saham dengan hak suara 3,58 persen. Setelah transaksi, jumlah sahamnya menjadi 232.000.000 lembar dengan hak suara 7,42 persen, bertambah 120.000.000 lembar.",
+   "Berdasarkan dokumen laporan, jenis transaksinya adalah perjanjian jual beli saham dengan janji pembelian kembali, atau dikenal sebagai repurchase agreement, dengan tujuan pengembalian saham. Transaksi ini tercatat berlangsung pada 16 September 2026 atas 120.000.000 lembar saham biasa RLCO, dengan status kepemilikan tidak langsung. Dokumen tidak mencantumkan harga transaksi.",
+   "Transaksi ini menyambung rangkaian aktivitas serupa. Pada 15 September 2026, RLCO juga melaporkan direksi yang membeli balik 29,6 juta saham lewat skema repo dengan tujuan substitusi. Dengan tambahan laporan ini, aktivitas gadai dan pengembalian saham oleh direksi RLCO berlanjut dalam sepekan terakhir."
+  ],
+  "fotoAdegan": "Financial district skyscrapers in Jakarta at dusk, glass towers reflecting city lights, traffic streaming on a wide avenue below.",
+  "takeaway": "Laporan ini condong netral bagi RLCO, sebab kenaikan kepemilikan Samuel Tumbuh Bersama berasal dari pengembalian saham lewat perjanjian repo, bukan dari pembelian saham baru di pasar terbuka yang biasanya dibaca sebagai bentuk keyakinan direksi terhadap prospek perusahaan. Yang tersentuh di sini murni hak suara dan jumlah saham yang dipegang perorangan, bukan jumlah saham beredar RLCO secara keseluruhan, sehingga tidak ada dana baru yang masuk ke perusahaan maupun perubahan struktur modal emiten. Pelaku pasar tetap memperhatikan pergeseran hak suara individu seperti ini karena bisa menggeser peta kendali internal emiten, apalagi porsi milik Samuel kini naik dari 3,58 persen menjadi 7,42 persen, lebih dari dua kali lipat. Perlu dipantau apakah rangkaian transaksi repo saham RLCO, yang sudah tercatat dua kali dalam sepekan terakhir yakni 29,6 juta saham pada 15 September dan 120 juta saham pada 16 September, masih akan berlanjut dan mengubah komposisi kepemilikan direksi lainnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-suara-direksi-melonjak-ke-36-75-usai-saham-repo-kembali",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Suara Direksi Melonjak ke [36,75%] Usai Saham Repo Kembali",
+  "deck": "Direksi NSSS Samuel Tumbuh Bersama menerima kembali 3,59 miliar saham dari perjanjian repo per 18 September 2026, mengangkat hak suaranya dari 21,63% menjadi 36,75%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T11:10:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-6242-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "body": [
+   "Direksi PT Nusantara Sawit Sejahtera Tbk (NSSS), Samuel Tumbuh Bersama, melaporkan perubahan kepemilikan saham perseroan kepada Otoritas Jasa Keuangan pada 21 September 2026. Berdasarkan laporan itu, jumlah sahamnya bertambah dari 5.147.638.700 lembar menjadi 8.745.940.500 lembar, atau naik 3.598.301.800 lembar. Kenaikan ini mengangkat hak suaranya di perseroan dari 21,63 persen menjadi 36,75 persen.",
+   "Transaksi ini tercatat sebagai penyelesaian perjanjian gadai saham atau repurchase agreement, dengan tujuan transaksi yang disebutkan dalam dokumen adalah pengembalian saham. Saham sejumlah 3.598.301.800 lembar itu berstatus kepemilikan tidak langsung dan masuk klasifikasi saham dengan hak suara multiple, yakni saham yang tiap lembarnya membawa bobot suara lebih besar dari saham biasa. Transaksi tercatat berlangsung pada 18 September 2026.",
+   "Laporan ini melengkapi rangkaian perubahan kepemilikan saham oleh direksi NSSS dalam sepekan terakhir. Sebelumnya, pada 15, 17, dan 18 September tercatat tiga kali pelepasan saham berturut-turut oleh direksi yang sama, yang menekan hak suaranya hingga ke 14,06 persen, serta satu laporan pengembalian saham repo lain pada 15 September. Laporan hari ini menandai posisi kepemilikan direksi kembali naik signifikan lewat mekanisme yang sama."
+  ],
+  "fotoAdegan": "Palm oil plantation workers loading fresh fruit bunches onto a truck at sunrise, tropical estate in the background",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental NSSS, karena kenaikan kepemilikan ini berasal dari pengembalian saham lewat perjanjian repo, bukan pembelian baru di pasar terbuka atau suntikan dana segar ke kas perusahaan. Yang tersentuh di sini adalah komposisi pemegang saham dan hak suara, bukan pos keuangan seperti ekuitas atau arus kas perseroan, sehingga pergerakannya lebih mencerminkan siklus jaminan saham direksi ketimbang perubahan kinerja usaha. Perlu dicermati bahwa saham yang dikembalikan berjenis saham dengan hak suara multiple, sehingga porsi kendali direksi bisa naik lebih tajam dibanding porsi ekonominya. Yang perlu dipantau berikutnya adalah apakah rangkaian bolak-balik kepemilikan direksi ini masih berlanjut, mengingat dalam sepekan terakhir sudah ada empat laporan perubahan kepemilikan dari direksi yang sama sebelum pengembalian pada 18 September 2026 ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-saham-direksi-kembali-dari-repo-suara-ke-21-63",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Saham Direksi Kembali dari Repo, Suara ke [21,63%]",
+  "deck": "Direksi Samuel Tumbuh Bersama menerima kembali 1,79 miliar saham lewat perjanjian repo, hak suaranya di NSSS naik dari 14,07 persen menjadi 21,63 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T11:06:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2472-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo saham"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) melaporkan perubahan kepemilikan saham oleh Samuel Tumbuh Bersama, anggota Direksi perseroan, kepada Otoritas Jasa Keuangan pada 21 September 2026. Berdasarkan laporan tersebut, yang bersangkutan menerima tambahan 1.798.550.000 lembar saham biasa NSSS pada 17 September 2026 melalui skema Repurchase Agreement, dengan tujuan transaksi tercatat sebagai pengembalian saham. Kepemilikan ini berstatus tidak langsung dan harga transaksi tidak dicantumkan dalam laporan.",
+   "Dengan tambahan tersebut, jumlah saham yang dikuasai Samuel Tumbuh Bersama naik dari 3.349.088.700 lembar menjadi 5.147.638.700 lembar, atau bertambah sekitar 53,7 persen dari posisi sebelumnya. Hak suaranya di NSSS pun terangkat dari 14,07 persen menjadi 21,63 persen.",
+   "Laporan ini merupakan bagian dari rangkaian transaksi saham oleh direksi yang sama sepanjang pekan terakhir, yang sebelumnya diwarnai sejumlah pelepasan saham beruntun sehingga hak suaranya sempat turun ke kisaran 14 persen. Repo yang dimaksud dalam laporan ini adalah perjanjian jual beli saham dengan janji dibeli kembali, sehingga saham yang sempat dijaminkan kini kembali ke tangan direksi tersebut."
+  ],
+  "fotoAdegan": "Aerial view of a palm oil plantation with rows of trees stretching to the horizon, worker walking a dirt path, morning haze",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental NSSS, karena kenaikan kepemilikan berasal dari pengembalian saham lewat perjanjian repo, bukan pembelian baru dengan dana segar di pasar terbuka. Yang tersentuh di sini adalah komposisi hak suara dan jumlah saham yang dikuasai direksi, bukan kondisi keuangan perusahaan itu sendiri, sebab repo pada dasarnya hanya memindahkan kembali saham yang sebelumnya dijaminkan tanpa mengubah jumlah saham beredar NSSS secara keseluruhan. Yang perlu dicermati adalah pola keluar masuk saham direksi ini yang berubah cepat dalam sepekan terakhir, dari pelepasan besar ke pengembalian repo, karena pola semacam ini membuat porsi kepemilikan dan hak suaranya terus bergerak dan patut dipantau pada laporan keterbukaan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ketr-pemegang-mayoritas-lepas-48-3-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "KETR: Pemegang mayoritas lepas 48,3 juta saham via [repo]",
+  "deck": "Pemegang saham mayoritas KETR melepas 48,3 juta saham lewat perjanjian jual beli kembali (repo) senilai Rp9,66 miliar untuk kebutuhan modal kerja, hak suaranya turun dari 54,83% menjadi 53,13%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T11:06:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-4165-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "pemegang saham mayoritas"
+  ],
+  "body": [
+   "Pemegang saham mayoritas PT Ketrosden Triasmitra Tbk (KETR), Fajar Sejahtera Mandiri Nusantara, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di KETR berkurang dari 1.557.864.674 lembar menjadi 1.509.563.417 lembar per 17 September 2026. Selisihnya sebanyak 48.301.257 lembar saham yang dilepas melalui kepemilikan tidak langsung.",
+   "Transaksi ini tercatat berjenis Repurchase Agreement, yaitu perjanjian jual beli saham dengan janji beli kembali, berstatus penjualan pada harga Rp200 per saham. Dengan demikian nilai transaksinya sekitar Rp9,66 miliar. Dalam laporan yang diterima bursa pada 21 September 2026 dengan nomor LK/21092026/0004/1 itu, tujuan transaksi disebutkan untuk kebutuhan modal kerja.",
+   "Akibat pelepasan ini, hak suara Fajar Sejahtera Mandiri Nusantara di KETR turun dari 54,83 persen menjadi 53,13 persen. Meski berkurang, kepemilikan tersebut masih di atas 50 persen, sehingga statusnya sebagai pemegang saham pengendali KETR belum berubah. Laporan tidak mencantumkan batas akhir periode pelaksanaan perjanjian repo tersebut."
+  ],
+  "fotoAdegan": "Workers coiling fiber optic cable spools on a dockside near a cable-laying vessel, overcast Indonesian coast",
+  "takeaway": "Laporan ini netral bagi KETR: saham yang dilepas hanya sekitar 3,1 persen dari kepemilikan Fajar Sejahtera Mandiri Nusantara sendiri, dan setelah transaksi pemegang saham ini masih menguasai lebih dari separuh saham perusahaan, sehingga posisinya sebagai pengendali tidak goyah. Yang tersentuh adalah hak suara pemegang saham utama, yang turun tipis dari 54,83 persen menjadi 53,13 persen, ukuran yang menunjukkan seberapa besar kendali seseorang atas keputusan penting lewat rapat pemegang saham seperti pengangkatan direksi. Skema yang dipakai berupa perjanjian jual beli saham dengan janji beli kembali atau repo, cara umum bagi pemegang saham besar memperoleh dana tunai dengan menjaminkan sahamnya, bukan melepas kepemilikan secara permanen. Yang perlu dipantau berikutnya adalah laporan susulan dari Fajar Sejahtera Mandiri Nusantara ke OJK, karena skema repo lazimnya diikuti laporan baru saat saham ditebus kembali atau saat perjanjian berakhir, sementara batas waktu pelaksanaannya sendiri tidak dicantumkan dalam laporan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mkpi-direksi-samuel-tumbuh-bersama-tambah-saham-jadi-5-33",
+  "category": "Aksi Korporasi",
+  "title": "MKPI: [Direksi] Samuel Tumbuh Bersama Tambah Saham jadi 5,33%",
+  "deck": "Direksi MKPI Samuel Tumbuh Bersama melaporkan penambahan 21,1 juta saham lewat pengembalian dari perjanjian repurchase, hak suaranya naik jadi 5,33 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T10:56:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7529-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKPI",
+  "tags": [
+   "MKPI",
+   "kepemilikan saham",
+   "direksi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Metropolitan Kentjana Tbk (MKPI) melaporkan perubahan kepemilikan saham oleh salah satu anggota direksinya, Samuel Tumbuh Bersama, kepada Otoritas Jasa Keuangan pada 21 September 2026. Laporan ini merupakan kewajiban sesuai Peraturan OJK Nomor 4/2024 tentang laporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka.",
+   "Berdasarkan dokumen tersebut, jumlah saham yang dimiliki Samuel bertambah dari 29.400.000 lembar menjadi 50.500.000 lembar, atau naik 21.100.000 lembar. Kenaikan itu membuat hak suaranya di MKPI naik dari 3,10 persen menjadi 5,33 persen. Transaksi berstatus kepemilikan tidak langsung, dengan jenis transaksi berupa perjanjian pembelian kembali (repurchase agreement) dan tujuan yang tertulis sebagai 'pengembalian saham', terjadi pada 16 September 2026. Dokumen tidak mencantumkan harga transaksi.",
+   "Laporan ini menjadi bagian dari kewajiban keterbukaan informasi yang harus disampaikan setiap kali direksi atau komisaris mengalami perubahan kepemilikan saham di perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Modern mixed-use property and shopping mall exterior in Jakarta, covered walkways, overcast afternoon light, no people close up",
+  "takeaway": "Laporan ini netral bagi fundamental MKPI, karena yang berubah hanyalah peta kepemilikan saham yang sudah beredar di antara pihak terkait direksi, bukan penambahan dana atau penerbitan saham baru oleh perusahaan. Jumlah total saham beredar MKPI tidak bertambah akibat transaksi ini sebab sahamnya berasal dari pengembalian saham yang sebelumnya terikat perjanjian pembelian kembali, semacam skema jaminan saham, sehingga tidak menyentuh ekuitas, arus kas, maupun laba per saham perusahaan. Yang berubah adalah kendali personal, hak suara Samuel Tumbuh Bersama di MKPI naik dari 3,10 persen menjadi 5,33 persen, cukup signifikan bagi seorang direksi meski masih jauh dari ambang batas pengendali. Yang perlu dipantau berikutnya adalah RUPSLB yang sudah dijadwalkan MKPI pada 27 Oktober 2026, karena pemegang saham dengan hak suara yang membesar seperti ini akan ikut menentukan hasil pemungutan suara begitu agendanya diumumkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rlco-direksi-terima-kembali-58-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Terima Kembali [58 Juta] Saham Lewat Repo",
+  "deck": "Direktur RLCO, Samuel Tumbuh Bersama, menerima kembali 58 juta saham lewat perjanjian repo, menaikkan kepemilikannya jadi 290 juta saham dan hak suara ke 9,28 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T10:48:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0754-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "repo saham"
+  ],
+  "body": [
+   "Direktur PT Abadi Lestari Indonesia Tbk (RLCO), Samuel Tumbuh Bersama, melaporkan penambahan kepemilikan saham perusahaan melalui skema perjanjian jual beli kembali atau repurchase agreement (repo). Dalam laporan yang disampaikan ke Otoritas Jasa Keuangan pada 21 September 2026, jumlah sahamnya bertambah dari 232.000.000 lembar menjadi 290.000.000 lembar saham biasa, atau naik 58.000.000 lembar. Transaksi tercatat terjadi pada 17 September 2026 dengan tujuan yang tertulis sebagai pengembalian saham, dan status kepemilikannya bersifat tidak langsung.",
+   "Penambahan ini turut mengerek hak suara Samuel di RLCO dari 7,42 persen menjadi 9,28 persen. Dokumen tidak mencantumkan harga transaksi, dan tidak ada opsi saham yang belum dilaksanakan terkait laporan ini.",
+   "Ini adalah laporan ketiga soal pengembalian saham lewat skema repo di RLCO dalam sepekan terakhir. Sebelumnya pada 15 September 2026 tercatat pengembalian 29,6 juta saham, disusul 120 juta saham pada hari yang sama dengan laporan ini, 21 September 2026. Dengan tambahan 58 juta saham kali ini, total saham yang kembali ke tangan direksi RLCO lewat mekanisme repo dalam sepekan terakhir mencapai sekitar 207,6 juta lembar."
+  ],
+  "fotoAdegan": "Rows of secured safe deposit boxes inside a bank vault, dim overhead lighting, no people visible, muted metallic tones",
+  "takeaway": "Laporan ini condong netral bagi RLCO, sebab kenaikan kepemilikan Samuel Tumbuh Bersama berasal dari pengembalian saham lewat perjanjian repo, bukan pembelian baru di pasar, jadi bukan sinyal keyakinan insider terhadap prospek perusahaan. Yang tersentuh dari laporan ini adalah hak suara pelapor, bukan pos kinerja keuangan seperti ekuitas atau laba per saham, karena total saham beredar RLCO tidak berubah, hanya saham yang sebelumnya dipakai sebagai jaminan lewat skema repo yang kembali ke pemiliknya. Yang perlu dipantau berikutnya adalah apakah rangkaian pengembalian saham lewat repo ini masih berlanjut, mengingat sudah tiga laporan serupa muncul di RLCO hanya dalam sepekan, pada 15 dan dua kali pada 21 September 2026, serta apakah emiten memberi penjelasan resmi ke bursa soal skema repo yang mendasari ketiga transaksi tersebut.",
+  "sentimen": "netral"
  },
  {
   "slug": "rupiah-melemah-ke-rp17-783-usai-suku-bunga-the-fed-naik",
@@ -186,6 +420,59 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah standar rujukan resmi untuk mengelompokkan jabatan, dari KBJI 2014 ke KBJI 2026, yang dikukuhkan lewat Peraturan BPS Nomor 7 Tahun 2026 dan diselaraskan dengan standar internasional ISCO. Pihak yang langsung memakainya adalah BPS sendiri lewat Sakernas, serta perusahaan dan lembaga pendidikan yang menjadikan klasifikasi ini acuan untuk rekrutmen, penataan jabatan, dan program pelatihan. Yang belum jelas adalah bagaimana standar ini benar-benar sampai ke tangan pengguna, sebab Menaker sendiri mengakui belum ada jadwal revisi berkala yang pasti maupun platform digital yang dijanjikan, padahal keduanya disebut sebagai pekerjaan rumah yang belum selesai. Jadi arah kebijakan ini baru sebatas niat memperbarui standar dan mempermudah akses, dan yang akan menentukan apakah niat itu berjalan adalah apakah BPS dan Kemnaker benar-benar merilis jadwal revisi berkala serta layanan digital KBJI yang sempat disinggung dalam peluncuran ini."
+ },
+ {
+  "slug": "ammn-raup-laba-us-504-juta-h1-2026-utang-bersih-turun-13",
+  "category": "Aksi Korporasi",
+  "title": "AMMN raup laba US$504 juta H1 2026, utang bersih [turun] 13%",
+  "deck": "AMMN membukukan lonjakan penjualan bersih menjadi US$2,05 miliar dan laba bersih US$504 juta pada semester I 2026, sekaligus memangkas utang bersih 13 persen menjadi US$5,03 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T05:12:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fe5ca7679d_ed147552f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMMN",
+  "tags": [
+   "AMMN",
+   "tambang tembaga",
+   "kinerja keuangan",
+   "smelter"
+  ],
+  "body": [
+   "PT Amman Mineral Internasional Tbk (AMMN) melaporkan hasil kinerja keuangan dan operasional teraudit untuk semester I 2026 kepada Bursa Efek Indonesia pada 21 September 2026, disampaikan Sekretaris Perusahaan Vemmy Febrianti. Penjualan bersih perseroan melonjak menjadi US$2,05 miliar dari US$183 juta pada semester I 2025, didorong peningkatan volume produksi dan penjualan serta harga komoditas yang mendukung. EBITDA naik menjadi US$1,13 miliar dengan margin 55 persen dari US$86 juta dengan margin 47 persen setahun sebelumnya, sementara laba bersih tercatat US$504 juta dengan margin 25 persen, berbalik dari rugi bersih US$146 juta pada semester I 2025.",
+   "Dari sisi produksi, AMMAN, melalui anak usaha PT Amman Mineral Nusa Tenggara dan PT Amman Mineral Industri, mencatat produksi konsentrat tembaga 347.307 metrik ton kering, naik 81 persen secara tahunan, dengan kandungan sekitar 211 juta pon tembaga dan 346.354 ons emas. Perseroan menjual 120.079 metrik ton kering konsentrat lewat izin ekspor sementara yang berlaku hingga April 2026. Produksi katoda tembaga dari smelter mencapai 48.756 ton dengan penjualan 48.654 ton, sedangkan produksi emas murni dari fasilitas Precious Metal Refinery mencapai 122.131 ons dengan penjualan 65.544 ons. Perseroan juga meraih Completion and Project Acceptance Certificate, sertifikat serah terima yang menandai rampungnya konstruksi dan uji kinerja smelter serta fasilitas pemurnian logam mulia, pada 24 Juli 2026.",
+   "Di sisi neraca, total utang turun 9 persen menjadi US$5,85 miliar per 30 Juni 2026 dari US$6,43 miliar pada akhir 2025, setelah perseroan melunasi utang US$588 juta sepanjang semester berjalan. Dengan kas dan setara kas US$819 juta, utang bersih tercatat US$5,03 miliar, turun 13 persen, sehingga rasio utang bersih terhadap EBITDA membaik dari 5,4 kali menjadi 2,4 kali. Perseroan berencana melunasi tambahan US$350 juta pada kuartal III 2026. Belanja modal turun 82 persen menjadi US$130 juta seiring rampungnya proyek-proyek ekspansi utama. Perseroan juga merevisi naik panduan produksi emas dalam konsentrat tahun 2026 sebesar 34 persen menjadi 775.000 ons, sementara panduan tembaga dalam konsentrat tetap di 485 juta pon, serta merilis panduan baru produksi katoda tembaga 130.000 ton dan emas murni 350.000 ons untuk tahun ini.",
+   "Pembaruan laporan cadangan bijih sesuai standar JORC per 30 Juni 2026, yang disetujui Competent Person independen dari AMC Consultants, mencatat cadangan bijih Batu Hijau naik 10,2 persen meski sudah berproduksi 18 bulan, dengan kandungan tembaga naik 2,6 persen dan kandungan emas turun 6,7 persen. Cadangan bijih Elang naik sekitar 2,0 persen dari sisi tonase, kandungan tembaga, dan kandungan emas, dengan asumsi harga emas dinaikkan menjadi US$2.500 per ons dari US$1.800 per ons. Umur tambang Batu Hijau diperpanjang hingga 2031/2032, sedangkan Keputusan Investasi Final proyek Elang ditargetkan pada 2027 dengan produksi bijih pertama pada 2031/2032."
+  ],
+  "fotoAdegan": "Wide view of an open-pit copper mine with terraced slopes and haul trucks descending under bright tropical daylight in eastern Indonesia",
+  "takeaway": "Laporan ini positif bagi AMMN, karena hampir seluruh indikator utama, dari pendapatan, laba, sampai arus kas, membaik tajam dibanding periode rugi tahun lalu, sementara beban utang justru menyusut. Yang paling mencolok adalah arus kas dari kegiatan operasi yang berbalik dari minus US$644 juta menjadi plus US$763 juta, artinya bisnis inti perusahaan kini benar-benar menghasilkan uang tunai, bukan sekadar laba di atas kertas. Rasio utang bersih terhadap EBITDA, yaitu perbandingan utang setelah dikurangi kas dengan laba operasional sebelum bunga, pajak, dan penyusutan, turun dari 5,4 kali menjadi 2,4 kali, tanda bahwa kemampuan perusahaan membayar utang dari hasil operasinya jauh lebih longgar dibanding akhir tahun lalu. Ekuitas ikut naik 8 persen menjadi US$5,86 miliar, menunjukkan modal pemegang saham yang membesar seiring akumulasi laba. Yang perlu dipantau berikutnya adalah rencana pelunasan utang tambahan US$350 juta pada kuartal III 2026 serta kelanjutan Keputusan Investasi Final proyek tambang Elang yang ditargetkan rampung tahun 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hexa-bagikan-dividen-us-11-19-juta-rotasi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "HEXA Bagikan [Dividen] US$11,19 Juta, Rotasi Komisaris",
+  "deck": "RUPS Hexindo menyetujui dividen tunai 70 persen laba bersih senilai US$11,19 juta, sekaligus menukar posisi presiden komisaris antara Harry Danui dan Toto Wahyudiyanto.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T04:55:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a71c414081_be85d54f6e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEXA",
+  "tags": [
+   "HEXA",
+   "RUPS",
+   "dividen",
+   "Hexindo Adiperkasa"
+  ],
+  "body": [
+   "PT Hexindo Adiperkasa Tbk (HEXA) menggelar Rapat Umum Pemegang Saham Tahunan dan Luar Biasa pada Kamis, 17 September 2026, di kantor pusat perseroan di Kawasan Industri Pulogadung, Jakarta Timur. RUPS Tahunan dihadiri pemegang saham yang mewakili 687.241.756 saham atau 81,815 persen dari 840.000.000 saham dengan hak suara sah, sementara RUPS Luar Biasa dihadiri 686.963.656 saham atau 81,781 persen. Kedua rapat mengesahkan laporan tahunan untuk tahun buku yang berakhir 31 Maret 2026, menunjuk Kantor Akuntan Publik Purwanto Susanti dan Surja untuk mengaudit laporan keuangan tahun buku hingga 31 Maret 2027, serta menetapkan kenaikan gaji dan tunjangan Dewan Komisaris paling banyak 9 persen dari tahun buku 2025.",
+   "Pemegang saham menyetujui pembagian 70 persen dari laba bersih tahun buku 2026, senilai US$11.187.960, sebagai dividen tunai, setara US$0,013319 per saham. Sisa 30 persen laba dibukukan sebagai laba ditahan. Tanggal pencatatan pemegang saham yang berhak menerima dividen adalah 29 September 2026 pukul 16.00 WIB. Saham diperdagangkan tanpa hak dividen (ex-dividend) di pasar reguler dan negosiasi mulai 28 September 2026, serta di pasar tunai mulai 30 September 2026. Pembayaran dividen dilakukan mulai 21 Oktober 2026.",
+   "RUPS juga merombak posisi di jajaran Dewan Komisaris. Harry Danui, yang sebelumnya menjabat Komisaris Independen, naik menjadi Presiden Komisaris merangkap Komisaris Independen, menggantikan Toto Wahyudiyanto yang kini beralih menjadi Komisaris Independen biasa. Susunan Direksi tidak berubah, dengan Dwi Swasono tetap sebagai Presiden Direktur bersama tujuh direktur lain. Masa jabatan Direksi berlaku hingga RUPS Tahunan 2027, sedangkan Dewan Komisaris hingga RUPS Tahunan 2029. RUPS Luar Biasa juga menyetujui perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan maksud, tujuan, dan kegiatan usaha dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025, yang menurut perseroan bukan merupakan perubahan kegiatan usaha."
+  ],
+  "fotoAdegan": "Rows of yellow heavy excavators parked in a machinery dealership yard, industrial area in Jakarta, midday light",
+  "takeaway": "Laporan ini netral bagi pemegang saham HEXA: RUPS hanya mengonfirmasi kebijakan dividen 70 persen dari laba yang lazim dijalankan perseroan tiap tahun, dan menata ulang posisi di internal Dewan Komisaris tanpa mengubah pengendali atau menambah anggota baru. Yang tersentuh adalah arus kas dan ekuitas: pembayaran dividen tunai US$11,19 juta pada 21 Oktober 2026 akan mengurangi kas perseroan, sementara sisa laba yang ditahan menambah ekuitas, yaitu modal sendiri yang menjadi bantalan keuangan perusahaan. Pelaku pasar biasanya memperhatikan rasio pembagian laba semacam ini karena menunjukkan seberapa besar perusahaan memilih membagikan untung ke pemegang saham dibanding menahannya untuk ekspansi atau membayar utang. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 29 September 2026 pukul 16.00 WIB, yang menentukan siapa berhak menerima dividen, serta realisasi pembayarannya pada 21 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "winr-pemegang-saham-utama-lepas-10-juta-saham-lagi",

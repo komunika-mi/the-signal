@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "unsp-rinci-dasar-diskonto-revaluasi-kebun-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Rinci Dasar Diskonto Revaluasi [Kebun] ke Bursa",
+  "deck": "Menjawab pertanyaan lanjutan BEI, UNSP membeberkan asumsi beta, imbal hasil obligasi, dan suku bunga di balik surplus revaluasi kebun Rp3,06 triliun yang mengangkat ekuitasnya.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "revaluasi aset",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5bb4aea5d2_f9a50dd4ed.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cpin-hery-tambah-6-95-juta-saham-via-repurchase-agreement",
+  "category": "Aksi Korporasi",
+  "title": "CPIN: HERY Tambah 6,95 Juta Saham via [Repurchase Agreement]",
+  "deck": "HERY menambah 6,95 juta saham CPIN lewat repurchase agreement seharga Rp3.090 per lembar pada 16 September 2026, mengerek hak suaranya dari 5,52 persen menjadi 5,56 persen.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CPIN",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "Charoen Pokphand"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2278-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kementan-kerahkan-seribu-pompa-air-untuk-kebun-hadapi-kemarau",
   "category": "Industri",
   "title": "Kementan Kerahkan [Seribu] Pompa Air untuk Kebun Hadapi Kemarau",
@@ -21,6 +53,118 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8153",
   "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "crab-laba-bersih-anjlok-53-utang-naik-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "CRAB: Laba Bersih Anjlok 53%, [Utang] Naik di Semester I 2026",
+  "deck": "Materi paparan publik tahunan CRAB menunjukkan laba bersih semester I 2026 turun jadi Rp3,94 miliar dari Rp8,42 miliar setahun sebelumnya, sementara liabilitas naik ke Rp125,23 miliar.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRAB",
+   "Toba Surimi Industries",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b36da3f32b_f2f9afbc55.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-direksi-terima-kembali-120-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Terima Kembali [120 Juta] Saham Lewat Repo",
+  "deck": "Direksi RLCO, Samuel Tumbuh Bersama, menerima kembali 120 juta saham lewat perjanjian repo pada 16 September 2026, menaikkan hak suaranya dari 3,58 persen menjadi 7,42 persen.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "kepemilikan direksi",
+   "repo saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-4729-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-suara-direksi-melonjak-ke-36-75-usai-saham-repo-kembali",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Suara Direksi Melonjak ke [36,75%] Usai Saham Repo Kembali",
+  "deck": "Direksi NSSS Samuel Tumbuh Bersama menerima kembali 3,59 miliar saham dari perjanjian repo per 18 September 2026, mengangkat hak suaranya dari 21,63% menjadi 36,75%.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-6242-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-saham-direksi-kembali-dari-repo-suara-ke-21-63",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Saham Direksi Kembali dari Repo, Suara ke [21,63%]",
+  "deck": "Direksi Samuel Tumbuh Bersama menerima kembali 1,79 miliar saham lewat perjanjian repo, hak suaranya di NSSS naik dari 14,07 persen menjadi 21,63 persen.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2472-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ketr-pemegang-mayoritas-lepas-48-3-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "KETR: Pemegang mayoritas lepas 48,3 juta saham via [repo]",
+  "deck": "Pemegang saham mayoritas KETR melepas 48,3 juta saham lewat perjanjian jual beli kembali (repo) senilai Rp9,66 miliar untuk kebutuhan modal kerja, hak suaranya turun dari 54,83% menjadi 53,13%.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "pemegang saham mayoritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-4165-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mkpi-direksi-samuel-tumbuh-bersama-tambah-saham-jadi-5-33",
+  "category": "Aksi Korporasi",
+  "title": "MKPI: [Direksi] Samuel Tumbuh Bersama Tambah Saham jadi 5,33%",
+  "deck": "Direksi MKPI Samuel Tumbuh Bersama melaporkan penambahan 21,1 juta saham lewat pengembalian dari perjanjian repurchase, hak suaranya naik jadi 5,33 persen.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKPI",
+   "kepemilikan saham",
+   "direksi",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7529-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-direksi-terima-kembali-58-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Terima Kembali [58 Juta] Saham Lewat Repo",
+  "deck": "Direktur RLCO, Samuel Tumbuh Bersama, menerima kembali 58 juta saham lewat perjanjian repo, menaikkan kepemilikannya jadi 290 juta saham dan hak suara ke 9,28 persen.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0754-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rupiah-melemah-ke-rp17-783-usai-suku-bunga-the-fed-naik",
@@ -119,6 +263,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-kbji-2026-jadi-acuan-bersama-dunia-kerja",
   "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "ammn-raup-laba-us-504-juta-h1-2026-utang-bersih-turun-13",
+  "category": "Aksi Korporasi",
+  "title": "AMMN raup laba US$504 juta H1 2026, utang bersih [turun] 13%",
+  "deck": "AMMN membukukan lonjakan penjualan bersih menjadi US$2,05 miliar dan laba bersih US$504 juta pada semester I 2026, sekaligus memangkas utang bersih 13 persen menjadi US$5,03 miliar.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMMN",
+   "tambang tembaga",
+   "kinerja keuangan",
+   "smelter"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fe5ca7679d_ed147552f8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hexa-bagikan-dividen-us-11-19-juta-rotasi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "HEXA Bagikan [Dividen] US$11,19 Juta, Rotasi Komisaris",
+  "deck": "RUPS Hexindo menyetujui dividen tunai 70 persen laba bersih senilai US$11,19 juta, sekaligus menukar posisi presiden komisaris antara Harry Danui dan Toto Wahyudiyanto.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEXA",
+   "RUPS",
+   "dividen",
+   "Hexindo Adiperkasa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a71c414081_be85d54f6e.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "winr-pemegang-saham-utama-lepas-10-juta-saham-lagi",
@@ -6322,183 +6498,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/225a7123c1_2fcaa66218.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "itmg-air-mahakam-surut-kapasitas-tongkang-turun-30-40",
-  "category": "Aksi Korporasi",
-  "title": "ITMG: Air Mahakam surut, kapasitas tongkang turun [30-40%]",
-  "deck": "Public expose ITMG mengungkap kapasitas tongkang dari Melak turun akibat surutnya Sungai Mahakam, capex baru terealisasi 42%, dan cadangan Jorong menipis ke sekitar 2 juta ton.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ITMG",
-   "batu bara",
-   "public expose",
-   "Sungai Mahakam"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a529ee773d_57516f2762.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "casa-jelaskan-lonjakan-volume-transaksi-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "CASA Jelaskan Lonjakan [Volume] Transaksi ke Bursa",
-  "deck": "Volume transaksi saham CASA melonjak lebih dari 50 kali lipat pada 10 September, tapi harga saham cuma turun tipis 0,28 persen ke Rp1.800.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASA",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "UMA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4b71fd5b42_0bc6857ecd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "niro-jawab-permintaan-bei-soal-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "NIRO Jawab Permintaan BEI soal [Volatilitas] Sahamnya",
-  "deck": "City Retail Developments menegaskan tidak mengetahui informasi material yang memicu volatilitas transaksi sahamnya, menjawab permintaan penjelasan Bursa Efek Indonesia.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NIRO",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/33e2f0b916_8b8642e1a0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-dibuka-melemah-ke-6-533-analis-prediksi-rebound",
-  "category": "Pasar Modal",
-  "title": "IHSG Dibuka [Melemah] ke 6.533, Analis Prediksi Rebound",
-  "deck": "IHSG dibuka melemah 0,11 persen ke 6.533 pada Senin, mengikuti pelemahan bursa Asia-Pasifik akhir pekan lalu akibat lonjakan harga minyak yang sempat menekan saham AS.",
-  "date": "14 September 2026",
-  "image": "assets/img/ihsg-dibuka-melemah-ke-6-533-analis-prediksi-rebound.jpg",
-  "imageV": "mu0pd7qu",
-  "tags": [
-   "ihsg",
-   "bursa asia",
-   "harga minyak",
-   "wall street"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466956-ihsg-dibuka-melemah-pada-perdagangan-14-september-2026-serupa-bursa-asia-pasifik-wall-street-menguat-terimbas-harga-minyak"
- },
- {
-  "slug": "ccsi-bantah-info-material-konfirmasi-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "CCSI Bantah Info Material, Konfirmasi [Rights Issue]",
-  "deck": "CCSI menjawab surat Bursa soal volatilitas sahamnya, menegaskan tak ada info material baru, sementara rencana rights issue hasil persetujuan RUPS masih dalam tahap persiapan.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CCSI",
-   "rights issue",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6e3f6f9c6b_8ff3444f4f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atla-komisaris-jual-15-juta-saham-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "ATLA: Komisaris Jual 15 Juta Saham via [Repo]",
-  "deck": "Komisaris ATLA, Rudi R Sutantra, melepas 15 juta saham seharga Rp50 per lembar lewat skema repurchase agreement pada 14 Agustus 2026.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATLA",
-   "kepemilikan saham",
-   "Dewan Komisaris",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-0165-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-seluruh-direksi-dan-komisaris-mundur-serentak",
-  "category": "Aksi Korporasi",
-  "title": "MKNT: Seluruh Direksi dan Komisaris [Mundur] Serentak",
-  "deck": "Empat direksi dan komisaris PT Mitra Komunikasi Nusantara Tbk, termasuk Direktur Utama dan Komisaris Utama, kompak mengundurkan diri efektif 10 September 2026 tanpa penjelasan alasan.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "pergantian direksi",
-   "komisaris",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b2115f2e8e_12887b556f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "foru-lakukan-right-issue-danai-akuisisi-tambang-borneo-prima",
-  "category": "Aksi Korporasi",
-  "title": "FORU Lakukan [Right Issue], Danai Akuisisi Tambang Borneo Prima",
-  "deck": "Fortune Indonesia bakal menerbitkan saham baru lewat rights issue untuk menyetor 49 persen saham PT Borneo Prima secara inbreng, plus pinjaman modal kerja ke perusahaan tambang itu.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "Rights Issue",
-   "HMETD",
-   "Borneo Prima"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0919b6e104_f291641ea2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atla-komisaris-jual-5-juta-saham-lewat-skema-repo",
-  "category": "Aksi Korporasi",
-  "title": "ATLA: Komisaris Jual [5 Juta] Saham Lewat Skema Repo",
-  "deck": "Rudi R Sutantra, komisaris Atlantis Subsea Indonesia, melepas 5 juta saham lewat repurchase agreement, transaksi kedua beruntun setelah pelepasan 15 juta saham sebelumnya.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATLA",
-   "kepemilikan saham",
-   "komisaris",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-6686-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atla-komisaris-jual-10-juta-saham-lagi-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "ATLA: Komisaris Jual 10 Juta Saham Lagi Lewat [Repo]",
-  "deck": "Rudi R Sutantra melaporkan penjualan 10 juta saham ATLA lewat skema repo pada 27 Juli 2026, laporan repo ketiganya yang diserahkan hari ini.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATLA",
-   "Rudi Sutantra",
-   "repo saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-4130-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-menguat-tipis-harga-minyak-bayangi-fiskal",
-  "category": "Moneter",
-  "title": "Rupiah [Menguat] Tipis, Harga Minyak Bayangi Fiskal",
-  "deck": "Rupiah menguat tipis ke Rp17.605 per dolar AS, sementara harga minyak dunia di atas US$100 per barel membebani anggaran subsidi BBM.",
-  "date": "14 September 2026",
-  "image": "assets/img/rupiah-menguat-tipis-harga-minyak-bayangi-fiskal.jpg",
-  "imageV": "mu0pd86o",
-  "tags": [
-   "rupiah",
-   "kurs dolar AS",
-   "harga minyak",
-   "APBN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/466952-rupiah-menguat-ke-rp17605-per-dolar-as-di-tengah-tekanan-harga-minyak-dunia-terhadap-ketahanan-fiskal-ri"
  }
 ];

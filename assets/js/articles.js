@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dyan-teken-ppjb-tanah-bangunan-senilai-rp36-miliar",
+  "category": "Aksi Korporasi",
+  "title": "DYAN Teken PPJB Tanah-Bangunan Senilai [Rp36 Miliar]",
+  "deck": "Anak usaha DYAN, Dyandra Promosindo, mengikat pembelian tanah dan bangunan seluas 1.505 m² dari Dana Pensiun Kompas Gramedia, dibayar bertahap hingga 2028.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T20:00:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d9a1c05b18_6254d70d8a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DYAN",
+  "tags": [
+   "DYAN",
+   "Dyandra Promosindo",
+   "PPJB",
+   "aset tanah dan bangunan"
+  ],
+  "body": [
+   "PT Dyandra Promosindo, anak usaha PT Dyandra Media International Tbk (DYAN) yang sahamnya dikuasai 99,56 persen oleh perseroan, menandatangani Perjanjian Pengikatan Jual Beli (PPJB) dengan Dana Pensiun Kompas Gramedia pada 21 September 2026. Objek transaksinya adalah sebidang tanah seluas 1.505 meter persegi beserta bangunan seluas 2.589 meter persegi yang berlokasi di Jalan Gelora VII Nomor 15, Kelurahan Gelora, Kecamatan Tanah Abang, Jakarta Pusat.",
+   "Berdasarkan resume penilaian Kantor Jasa Penilai Publik MBPRU & Rekan tertanggal 2 Juli 2026, dengan tanggal inspeksi dan penilaian pada 22 Juni 2026, nilai pasar aset tersebut ditaksir Rp36,04 miliar. Harga jual beli yang disepakati kedua pihak sebesar Rp36 miliar, sedikit di bawah taksiran itu, dan akan dibayarkan Dyandra Promosindo kepada penjual secara bertahap sampai pelunasan paling lambat 21 September 2028 sesuai jadwal dalam PPJB.",
+   "Perseroan menyebut transaksi ini bertujuan jangka panjang sebagai pengadaan aset tetap untuk mendukung kegiatan operasional Dyandra Promosindo, dengan salah satu manfaatnya adalah efisiensi biaya sewa. Dalam dokumen keterbukaan informasi ke Bursa Efek Indonesia, DYAN menyatakan tidak ada dampak langsung terhadap kegiatan operasional saat ini, namun penandatanganan PPJB menimbulkan kewajiban hukum bagi Dyandra Promosindo untuk memenuhi pembayaran sesuai tahapan yang disepakati, serta akan mengeluarkan kas secara bertahap sepanjang periode pembayaran."
+  ],
+  "fotoAdegan": "A mid-rise commercial building facade along a busy Jakarta street, parked cars and pedestrians passing by in daylight",
+  "takeaway": "Transaksi ini netral bagi fundamental DYAN: nilainya Rp36 miliar, tergolong kecil untuk sebuah akuisisi aset tetap, dan harganya justru sedikit di bawah taksiran independen sehingga tidak merugikan perseroan. Pos yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar dari kegiatan usaha, karena Dyandra Promosindo harus menyisihkan dana secara bertahap sampai 2028, meski di sisi lain perusahaan bisa menghemat biaya sewa gedung yang sebelumnya rutin dikeluarkan. Yang perlu dipantau selanjutnya adalah realisasi pembayaran bertahap tersebut dan batas waktu pelunasan pada 21 September 2028, sebab keterlambatan pembayaran berpotensi menimbulkan konsekuensi hukum dari PPJB yang sudah diteken.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "vici-ungkap-rencana-akuisisi-secret-garden-di-public-expose",
   "category": "Aksi Korporasi",
   "title": "VICI Ungkap Rencana Akuisisi [Secret Garden] di Public Expose",
@@ -158,6 +184,59 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "uang-ganti-ketua-komite-audit-yoshihiro-kobi-gantikan-bonny-harry",
+  "category": "Aksi Korporasi",
+  "title": "UANG Ganti Ketua [Komite Audit], Yoshihiro Kobi Gantikan Bonny Harry",
+  "deck": "Komite Audit PT Pakuan Tbk berganti susunan efektif 21 September 2026, dari empat menjadi tiga anggota, dengan Yoshihiro Kobi sebagai ketua baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T18:39:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f20b7dff1_edfb50eec9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UANG",
+  "tags": [
+   "UANG",
+   "Komite Audit",
+   "Tata Kelola Perusahaan",
+   "PT Pakuan Tbk"
+  ],
+  "body": [
+   "PT Pakuan Tbk (UANG) mengumumkan perubahan susunan Komite Audit yang berlaku efektif 21 September 2026. Ketua Komite Audit berganti dari Bonny Harry menjadi Yoshihiro Kobi, Komisaris Independen berkewarganegaraan Jepang. Perubahan ini diputuskan lewat Keputusan Tertulis Dewan Komisaris Nomor 001/SK DEKOM/LGL-PAKUAN/IX/2026 tertanggal 10 September 2026, yang ditandatangani oleh seluruh anggota Dewan Komisaris, yaitu Bonny Harry sebagai Komisaris Utama, Sumantri sebagai Wakil Komisaris Utama, dan Yoshihiro Kobi sendiri sebagai Komisaris Independen.",
+   "Selain posisi ketua, dua kursi anggota juga berganti. Margini Setyaningsih digantikan oleh Eko Julianto, sementara Irma Sundari Sulaeman digantikan oleh Riza Ardiyanto. Eko Julianto sebelumnya sudah menjabat sebagai anggota Komite Audit, sehingga dalam susunan baru ia tetap bertahan sementara dua anggota lain berganti. Dengan perubahan ini, jumlah anggota Komite Audit berkurang dari empat orang menjadi tiga orang. Surat resmi Perseroan kepada Otoritas Jasa Keuangan menyebut susunan barunya adalah Yoshihiro Kobi sebagai ketua, dengan Eko Julianto dan Riza Ardiyanto sebagai anggota.",
+   "Pemberhentian Bonny Harry dari posisi ketua disertai pembebasan tanggung jawab penuh atas masa jabatannya, sepanjang tindakannya selama menjabat tidak bertentangan dengan anggaran dasar Perseroan. Perubahan ini merujuk pada Peraturan OJK Nomor 55/POJK.04/2015 tentang Pembentukan dan Pedoman Pelaksanaan Kerja Komite Audit, yang mewajibkan emiten memiliki komite audit beranggotakan minimal tiga orang, dengan sekurang-kurangnya satu anggota berlatar belakang akuntansi atau keuangan. Pengumuman ditandatangani oleh Corporate Secretary Asa Nisi Siahaan."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long table, city skyline visible through floor-to-ceiling windows, late afternoon light",
+  "takeaway": "Perubahan Komite Audit ini netral bagi fundamental UANG, karena yang berganti adalah orang dan struktur pengawasan, bukan angka keuangan, kas, atau modal perusahaan. Yang tersentuh adalah kualitas pengawasan independen atas laporan keuangan, sebab Komite Audit bertugas menelaah laporan keuangan sebelum dipublikasikan, mengawasi kerja auditor eksternal, dan memastikan tidak ada kejanggalan akuntansi, sehingga pemegang saham wajar ingin tahu siapa yang mengisi peran ini. Satu hal yang perlu dicermati, susunan baru hanya berisi tiga orang, yaitu jumlah minimum yang diwajibkan aturan OJK, sehingga ruang cadangan kalau ada anggota berhalangan menjadi lebih tipis dibanding susunan lama yang berjumlah empat orang. Pemegang saham bisa memantau efektivitas komite baru ini lewat laporan tahunan kegiatan Komite Audit yang wajib dimuat dalam Laporan Tahunan Perseroan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sdra-efektifkan-felix-aristo-ardian-jadi-direktur-konsumer",
+  "category": "Aksi Korporasi",
+  "title": "SDRA [Efektifkan] Felix Aristo Ardian Jadi Direktur Konsumer",
+  "deck": "Woori Saudara (SDRA) mengefektifkan Felix Aristo Ardian sebagai Direktur Konsumer per 18 September 2026, sekaligus melaporkan realisasi dana rights issue 2024 senilai Rp3,06 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T18:36:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7f277c8ed8_b73873130a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SDRA",
+  "tags": [
+   "SDRA",
+   "Bank Woori Saudara",
+   "Direksi",
+   "Rights Issue"
+  ],
+  "body": [
+   "PT Bank Woori Saudara Indonesia 1906 Tbk (SDRA) mengumumkan bahwa Felix Aristo Ardian resmi menjabat sebagai Direktur Konsumer perseroan, efektif sejak 18 September 2026. Pengangkatan itu menyusul persetujuan Otoritas Jasa Keuangan atas uji kemampuan dan kepatutan, yang dituangkan dalam Keputusan Anggota Dewan Komisioner OJK Nomor KEPR-165/D.03/2026 tanggal 16 September 2026. Dasar pengangkatan awalnya adalah keputusan Rapat Umum Pemegang Saham Tahunan pada 26 Mei 2026, dan efektivitasnya baru ditetapkan lewat Surat Keputusan Direksi Nomor 100/KEP-DIR/HC.II/IX/2026 tanggal 18 September 2026.",
+   "RUPS Tahunan 26 Mei 2026 sebenarnya menyetujui perombakan susunan pengurus yang lebih luas. Selain Felix, RUPS mengangkat calon direktur baru yaitu Ricko Irwanto, Dandy Indrawardhana Pandi, dan Adityo Kristianto, serta calon komisaris baru yaitu Ahmad Fajarprana sebagai calon Presiden Komisaris Independen, Tippy Joesoef, dan Yudi Permana sebagai Komisaris Independen. Seperti halnya Felix, pengangkatan mereka baru berlaku efektif setelah masing-masing lolos fit and proper test OJK, sehingga belum seluruhnya efektif. RUPS itu juga mengukuhkan pengunduran diri Wuryanto dari jabatan Direktur, efektif sejak 15 April 2026.",
+   "Berdasarkan hasil RUPS tersebut, susunan Direksi setelah seluruh pengangkatan efektif akan menjadi Presiden Direktur Han Chang Sik, dengan Direktur Kim Wook Bae, Moon Sungwon, Adityo Kristianto, Felix Aristo Ardian, Dandy Indrawardhana Pandi, dan Ricko Irwanto. Dewan Komisaris akan diisi Ahmad Fajarprana sebagai Presiden Komisaris Independen, Kim Ki Joo sebagai Komisaris, serta Tippy Joesoef dan Yudi Permana sebagai Komisaris Independen.",
+   "Dokumen pendukung yang dilampirkan juga memuat laporan pertanggungjawaban realisasi dana hasil penawaran umum dengan hak memesan efek terlebih dahulu (rights issue) keempat perseroan pada 2024. Dari total dana yang diperoleh sebesar Rp3.061.977.762.500, setelah dikurangi biaya emisi Rp5.384.399.598, dana bersih yang terkumpul mencapai Rp3.056.593.362.902. Sesuai prospektus, sekitar 90,39 persen dana dialokasikan sebagai modal kerja untuk ekspansi kredit, dan 9,61 persen untuk pengembangan teknologi informasi, infrastruktur, serta rekrutmen dan pengembangan sumber daya manusia. Per 31 Desember 2025, realisasinya adalah Rp2.762.854.740.727 disalurkan untuk kredit dan Rp232.838.577.104 untuk investasi aset tetap termasuk teknologi informasi, sehingga sisa dana yang belum direalisasikan sebesar Rp60.900.045.071."
+  ],
+  "fotoAdegan": "Bank employees in business attire walking through a modern glass office lobby in a high-rise tower, soft morning light",
+  "takeaway": "Laporan ini netral bagi emiten: pengangkatan direktur konsumer adalah kelanjutan proses administratif yang sudah disetujui RUPS sejak Mei, dan laporan realisasi dana rights issue menunjukkan penyerapan dana sesuai rencana awal tanpa penyimpangan berarti. Pos yang tersentuh adalah struktur direksi, yang menentukan siapa mengelola lini bisnis konsumer bank, dan penggunaan dana hasil penawaran umum tambahan modal atau rights issue 2024, yaitu dana segar dari penjualan saham baru yang menurut laporan ini sebagian besar sudah disalurkan jadi kredit sehingga langsung menambah kapasitas bisnis bank. Pelaku pasar memperhatikan realisasi dana semacam ini karena membuktikan apakah janji penggunaan dana saat penggalangan modal benar-benar dijalankan. Yang perlu dipantau berikutnya adalah penuntasan susunan direksi dan komisaris baru lewat akta notaris, karena Ricko Irwanto, Dandy Indrawardhana Pandi, Adityo Kristianto, dan sejumlah komisaris baru masih menunggu hasil fit and proper test OJK masing-masing, serta sisa dana rights issue sebesar Rp60,9 miliar yang belum direalisasikan per akhir 2025.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bssr-bagikan-dividen-interim-us-60-juta-cair-9-oktober",
   "category": "Aksi Korporasi",
   "title": "BSSR Bagikan [Dividen] Interim US$60 Juta, Cair 9 Oktober",
@@ -204,6 +283,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Perintah moratorium ini bukan sekadar teguran, tapi awal dari tiga tahap yang ujungnya bisa berupa pencabutan izin usaha, artinya produsen yang terbukti melanggar berisiko kehilangan hak jual secara permanen, bukan cuma berhenti sementara. Pihak yang langsung terdampak adalah 25 produsen merek beras fortifikasi yang disebut Amran, sementara konsumen yang selama ini membayar lebih mahal karena klaim kandungan vitamin berisiko sudah membeli produk dengan klaim yang dilebih-lebihkan. Langkah Bulog menaikkan rencana penyaluran dari 110 ribu ton menjadi sampai 300 ribu ton, hampir tiga kali lipat, menunjukkan pemerintah sebenarnya menyiapkan penyangga untuk kekosongan pasokan ritel akibat penghentian produksi itu, meski Amran menyebut stok nasional aman. Pola ini mengarah ke pengetatan pengawasan klaim gizi pada produk pangan komersial, bukan sekadar imbauan sesaat. Yang akan memastikan arah ini adalah apakah Kementan benar-benar mencabut izin merek yang terbukti melanggar dalam waktu dekat, atau moratorium ini berhenti di tahap peringatan saja.",
   "imageV": "mub6o399"
+ },
+ {
+  "slug": "mncn-teken-kerja-sama-strategis-dengan-rmab-nilai-belum-diungkap",
+  "category": "Aksi Korporasi",
+  "title": "MNCN Teken [Kerja Sama] Strategis dengan RMAB, Nilai Belum Diungkap",
+  "deck": "MNCN menandatangani perjanjian kerja sama strategis dan usaha patungan dengan RMAB atas PT IMG Media Network, tapi nilai transaksi dan porsi saham yang berpindah belum diungkapkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T18:25:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffd3b970b6_07392aa8a9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MNCN",
+  "tags": [
+   "MNCN",
+   "IMG Media Network",
+   "RMAB",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Media Nusantara Citra Tbk (MNCN) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah diminta mengklarifikasi pemberitaan media yang menyebut perseroan melepas iNews Group ke entitas yang disebut terkait industri pertahanan bernama Republikorp. Dalam surat bernomor 052-BEI/MNC-CS/INT/IX/2026 yang diteken Corporate Secretary Cahyarina A. Asri, MNCN membenarkan bahwa pada Senin, 14 September 2026, perseroan menandatangani Perjanjian Kerja Sama Strategis dan Perjanjian Usaha Patungan dengan PT Republik Media Anak Bangsa (RMAB). Kedua perjanjian itu disebut bersifat mengikat dan bukan sekadar nota kesepahaman. Objek kerja samanya adalah PT IMG Media Network (IMG), perusahaan induk yang menaungi bisnis televisi, radio, portal berita, dan platform digital di bawah payung iNews Media Group, termasuk anak usaha PT MNC Televisi Network, PT MNC Multimedia Network, dan IDX Channel.",
+   "Meski perjanjian sudah mengikat, MNCN menyatakan nilai transaksi, dasar penentuan harga, serta mekanisme dan jadwal pembayaran baru akan ditentukan para pihak saat transaksi benar-benar selesai (closing). Transaksi diklaim tidak melibatkan pihak berafiliasi dengan perseroan, pemegang saham pengendali, direksi, maupun komisaris, baik dengan RMAB, Republikorp Group, maupun PT Sinergi Terang Abadi (STA). Karena nilainya diperkirakan di bawah 20 persen dari ekuitas konsolidasian perseroan per 30 Juni 2026 yang tercatat Rp23,45 triliun, MNCN menilai transaksi ini bukan transaksi material menurut aturan OJK sehingga tidak memerlukan penilaian independen dari Kantor Jasa Penilai Publik. Perseroan juga belum bisa memastikan apakah masih akan menjadi pengendali IMG setelah transaksi rampung, karena proses masih menunggu sejumlah syarat pendahuluan berupa persetujuan korporasi masing-masing pihak, penandatanganan akta notaris, dan persetujuan dari lembaga berwenang. MNCN menargetkan seluruh proses ini selesai pada akhir September 2026.",
+   "Soal seberapa besar dampaknya, MNCN membeberkan bahwa IMG beserta anak usahanya menyumbang 3,99 persen dari total pendapatan konsolidasian, 1,03 persen dari laba bersih, 8,84 persen dari total aset, dan 19,94 persen dari total liabilitas perseroan per 30 Juni 2026. Dana yang bakal diterima perseroan dari kerja sama ini, jika ada, rencananya dipakai untuk mendukung pengembangan bisnis digital, sejalan dengan rencana strategis yang sudah disampaikan dalam RUPST 25 Juni 2026. MNCN menegaskan masih akan tetap memiliki pengaruh dan manfaat dari kerja sama ini, serta menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Broadcast satellite dishes and antenna towers on a media company rooftop in Jakarta under a hazy afternoon sky",
+  "takeaway": "Laporan ini netral bagi MNCN untuk saat ini, sebab dua angka yang paling menentukan arah penilaian, yaitu nilai transaksi dan persentase kepemilikan IMG yang akan berpindah tangan, sama sekali belum diungkapkan meski perjanjiannya sudah mengikat secara hukum. Yang menarik dicermati adalah komposisi kontribusi IMG terhadap laporan keuangan gabungan MNCN: unit usaha ini hanya menyumbang sekitar 1 hingga 4 persen dari pendapatan dan laba bersih perseroan, tapi menanggung hampir 20 persen dari total utang gabungan perseroan, artinya IMG relatif banyak menyumbang beban ketimbang untung bagi induknya. Kalau nanti IMG benar-benar lepas dari pencatatan keuangan gabungan MNCN, perseroan berpotensi melepas beban utang yang cukup besar dengan mengorbankan pendapatan yang relatif kecil, tapi MNCN sendiri belum memastikan apakah masih akan mengendalikan IMG setelah transaksi rampung. Yang perlu dipantau adalah target penyelesaian transaksi pada akhir September 2026, setelah syarat pendahuluan berupa persetujuan korporasi, akta notaris, dan izin dari lembaga berwenang terpenuhi, karena baru pada titik itu nilai transaksi dan struktur kepemilikan sebenarnya akan terungkap.",
+  "sentimen": "netral"
  },
  {
   "slug": "bpkh-tempatkan-70-dana-haji-rp184-t-di-sukuk-negara",
@@ -864,6 +969,33 @@ var ARTICLES = [
   "imageV": "mub19ai8"
  },
  {
+  "slug": "mrei-rombak-anggaran-dasar-ubah-masa-jabatan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "MREI Rombak Anggaran Dasar, Ubah [Masa Jabatan] Direksi-Komisaris",
+  "deck": "RUPSLB 14 Agustus 2026 mengubah masa jabatan direksi dan komisaris MREI menjadi tetap 5 tahun, mengubah aturan rapat komisaris, dan menyederhanakan aturan pengumuman dividen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T15:53:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a35034319a_7040ed4a45.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MREI",
+  "tags": [
+   "MREI",
+   "Anggaran Dasar",
+   "Tata Kelola",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Maskapai Reasuransi Indonesia Tbk (MREI) mengumumkan perubahan Anggaran Dasar perseroan sesuai keputusan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) tanggal 14 Agustus 2026, yang dituangkan dalam Akta Notaris Nomor 37 oleh Notaris Mala Mukti, S.H., LL.M. Perubahan ini telah mendapat persetujuan Menteri Hukum Republik Indonesia melalui Surat Keputusan Nomor AHU-0095374.AH.01.02.TAHUN 2026 tanggal 18 September 2026, dan dilaporkan ke Bursa Efek Indonesia oleh Sekretaris Perusahaan Lukcimo Jahja pada 21 September 2026.",
+   "Salah satu perubahan substansial ada pada Pasal 3 mengenai bidang usaha, yang disesuaikan dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia. Jika sebelumnya usaha syariah hanya berstatus unit kerja di kantor pusat yang mengoordinasikan kantor cabang berbasis syariah, kini Reasuransi Syariah berdiri sebagai lini usaha utama tersendiri yang mengelola risiko berdasarkan prinsip syariah bagi perusahaan asuransi syariah, perusahaan penjaminan syariah, maupun perusahaan reasuransi syariah lain.",
+   "Perubahan lain menyangkut tata kelola direksi dan komisaris. Pasal 13 dan Pasal 16 mengubah masa jabatan anggota Direksi dan Dewan Komisaris, dari sebelumnya terhitung sejak RUPS pengangkatan sampai penutupan RUPS Tahunan kelima dengan syarat pengangkatan kembali berdasarkan pencapaian target kinerja, menjadi masa jabatan tetap 5 tahun sejak tanggal yang ditentukan RUPS tanpa syarat evaluasi kinerja, meski RUPS tetap berhak memberhentikan mereka sewaktu-waktu sebelum masa jabatan berakhir. Aturan serupa turut berlaku bagi Dewan Pengawas Syariah pada Pasal 19, yang masa jabatannya diperpanjang dari 4 tahun menjadi 5 tahun. Selain itu, Pasal 18 mengubah kewajiban rapat Dewan Komisaris, dari sebelumnya rapat gabungan dengan Direksi minimal sekali setiap 4 bulan, menjadi minimal 4 kali rapat mengundang Direksi dan minimal 1 kali rapat mengundang auditor eksternal dalam setahun.",
+   "Pasal 21 mengenai pengumuman dividen juga disederhanakan. Aturan lama mewajibkan pengumuman dividen dimuat di sedikitnya satu surat kabar harian berbahasa Indonesia berperedaran nasional, situs web bursa, dan situs web perusahaan dalam dua bahasa. Aturan baru cukup mengikuti tata cara yang diatur dalam peraturan Pasar Modal, tanpa menyebutkan lagi kewajiban iklan di surat kabar. Perubahan lain di Pasal 2, 4, 5, 10, dan 11 bersifat penyesuaian redaksional, antara lain memperjelas tanggal pendirian perseroan pada 4 Juni 1953 dan pengesahan badan hukum pada 17 Desember 1953, serta menambahkan rujukan Undang-Undang Nomor 6 Tahun 2023 tentang Cipta Kerja dalam ketentuan hak pemegang saham."
+  ],
+  "fotoAdegan": "Exterior view of a modern high-rise office tower in Jakarta's business district, glass facade reflecting afternoon light, street traffic below.",
+  "takeaway": "Perubahan anggaran dasar ini bersifat netral bagi fundamental MREI, karena isinya menata ulang mekanisme tata kelola dan bukan mengubah struktur modal, pendapatan, atau kewajiban keuangan perseroan. Tidak ada pos ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh di sini, sebab yang berubah hanya masa jabatan direksi dan komisaris, frekuensi rapat pengawasan, klasifikasi lini usaha, dan cara pengumuman dividen. Yang patut dicermati, masa jabatan direksi dan komisaris kini otomatis lima tahun tanpa syarat evaluasi pencapaian target seperti aturan lama, sehingga mekanisme peninjauan kinerja di tengah periode jabatan menjadi lebih longgar meski RUPS tetap bisa memberhentikan mereka kapan saja. Pemegang saham perlu memantau bagaimana aturan pengumuman dividen yang baru, yang tidak lagi mewajibkan iklan di surat kabar nasional, diterapkan pada pembagian dividen berikutnya, serta memastikan penerapan masa jabatan baru mulai berlaku efektif pada RUPS Tahunan mendatang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "gmfi-direksi-tri-hartono-tambah-saham-5-000-lembar",
   "category": "Aksi Korporasi",
   "title": "GMFI: Direksi Tri Hartono [Tambah] Saham 5.000 Lembar",
@@ -1230,6 +1362,58 @@ var ARTICLES = [
   "imageV": "muav8g62"
  },
  {
+  "slug": "wika-jadwalkan-rupsu-sukuk-mudharabah-tahap-i-2021-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPSU] Sukuk Mudharabah Tahap I 2021, 19 Oktober",
+  "deck": "WIKA mengumumkan rencana rapat pemegang Sukuk Mudharabah Berkelanjutan II Tahap I 2021 pada 19 Oktober 2026, salah satu dari beberapa rapat kreditur yang dijadwalkan setelah gagal bayar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T12:18:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bf99bb7d9f_6ecde0cc22.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Sukuk (RUPSU) untuk Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap I Tahun 2021. Rapat dijadwalkan berlangsung pada Senin, 19 Oktober 2026, pukul 14.00 WIB, bertempat di WIKA Tower 2, Jakarta. Wali amanat sukuk ini adalah PT Bank Mega Tbk, sesuai Perjanjian Perwaliamanatan Akta Nomor 7 tanggal 2 Juli 2021 yang dibuat di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito, S.H.",
+   "Dalam dokumen pemberitahuan ini, agenda RUPSU belum dirinci dan masih ditulis kosong. Sesuai ketentuan Peraturan OJK Nomor 20/POJK.04/2020 tentang Kontrak Perwaliamanatan Efek Bersifat Utang dan Sukuk, panggilan resmi untuk RUPSU tersebut baru akan dimuat pada satu surat kabar harian berperedaran nasional pada Senin, 5 Oktober 2026. Pengumuman ditandatangani oleh Mahendra Vijaya selaku Corporate Secretary WIKA.",
+   "Rapat pemegang Sukuk Tahap I 2021 ini terpisah dari dua rapat pemegang surat utang WIKA lain yang juga dijadwalkan pekan ini, yaitu RUPSU untuk seri sukuk lain pada 21 Oktober 2026 dan RUPO Obligasi Berkelanjutan Tahap II 2022 pada 20 Oktober 2026. Ketiganya muncul setelah WIKA tercatat gagal membayar bagi hasil sukuk mudharabah, yang sebelumnya membuat saham perseroan disuspensi oleh bursa."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs arranged in a corporate meeting hall with tall windows and soft morning light in a Jakarta office tower.",
+  "takeaway": "Laporan ini netral bagi WIKA, karena isinya baru pemberitahuan jadwal rapat pemegang sukuk, belum memuat agenda, usulan restrukturisasi, atau keputusan apa pun yang bisa dinilai baik atau buruk. Yang tersentuh adalah arus kas dan kewajiban utang jangka pendek perseroan, sebab RUPSU semacam ini biasanya jadi forum bagi perusahaan dan pemegang sukuk membahas skema pembayaran ulang atau perpanjangan waktu setelah gagal bayar, yang ujungnya menentukan berapa besar dana yang harus dikeluarkan WIKA dan kapan. Yang perlu dipantau adalah pemuatan panggilan resmi di koran nasional pada 5 Oktober 2026 dan pelaksanaan RUPSU pada 19 Oktober 2026, karena baru pada saat itu agenda sebenarnya, termasuk kemungkinan skema restrukturisasi, akan terbuka ke publik.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wika-jadwalkan-rupo-obligasi-berkelanjutan-ii-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPO] Obligasi Berkelanjutan II, 19 Oktober",
+  "deck": "WIKA akan menggelar RUPO untuk Obligasi Berkelanjutan II Tahap I 2021 pada 19 Oktober 2026, rapat pemegang utang keempat yang dijadwalkan perseroan dalam sepekan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T12:17:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36dd64f183_e661f5faef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "RUPO",
+   "utang"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi Berkelanjutan II Wijaya Karya Tahap I Tahun 2021. Rapat dijadwalkan berlangsung Senin, 19 Oktober 2026 pukul 09.00 WIB di WIKA Tower 2, Jakarta. Dalam pengumuman resmi ke Bursa Efek Indonesia, agenda rapat belum dicantumkan.",
+   "Wali amanat obligasi ini adalah PT Bank Mega Tbk, yang bertindak berdasarkan Perjanjian Perwaliamanatan Akta Nomor 3 tanggal 2 Juli 2021 yang dibuat di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito. Sesuai Peraturan OJK Nomor 20/POJK.04/2020 tentang Kontrak Perwaliamanatan Efek Bersifat Utang dan/atau Sukuk, panggilan resmi untuk RUPO ini akan dimuat di satu surat kabar harian berperedaran nasional pada Senin, 5 Oktober 2026. Pengumuman ditandatangani Corporate Secretary WIKA, Mahendra Vijaya, pada 21 September 2026.",
+   "RUPO ini menambah daftar rapat pemegang utang yang dijadwalkan WIKA dalam sepekan terakhir, setelah sebelumnya perseroan juga mengumumkan jadwal RUPSU untuk Sukuk Mudharabah Tahap I 2021, RUPSU pasca gagal bayar sukuk, dan RUPO untuk Obligasi Tahap II 2022. Meski keempatnya menyangkut seri surat utang yang berbeda, rentetan pengumuman ini menunjukkan bahwa kewajiban utang WIKA yang perlu dibahas dengan kreditur mencakup banyak instrumen sekaligus, bukan cuma satu."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta at dusk, city lights reflecting on the facade, quiet street below",
+  "takeaway": "Laporan ini sendiri netral bagi WIKA, sebab isinya baru pemberitahuan jadwal rapat, belum memuat agenda, usulan restrukturisasi, atau perubahan syarat pembayaran yang bisa dinilai searah tertentu. Yang tersentuh adalah arus kas dan kewajiban utang perseroan, karena RUPO adalah forum bagi perusahaan dan pemegang obligasi untuk membahas kelanjutan pembayaran pokok atau bunga surat utang, jadi keberadaannya sendiri menandakan ada hal yang perlu dirundingkan dengan kreditur. Konteks yang lebih penting justru di luar dokumen ini, WIKA sudah gagal bayar bagi hasil sukuk mudharabah dan kini menjadwalkan RUPO untuk setidaknya empat instrumen utang berbeda dalam waktu berdekatan, pola yang lebih layak dipantau sebagai satu rangkaian ketimbang laporan tunggal ini. Yang perlu dipantau berikutnya adalah pemuatan panggilan resmi RUPO di surat kabar nasional pada 5 Oktober 2026 dan agenda yang akan diumumkan menjelang rapat pada 19 Oktober 2026, karena di situlah baru akan terlihat apakah ada usulan perubahan jadwal atau syarat pembayaran kepada pemegang obligasi.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "unsp-rinci-dasar-diskonto-revaluasi-kebun-ke-bursa",
   "category": "Aksi Korporasi",
   "title": "UNSP Rinci Dasar Diskonto Revaluasi [Kebun] ke Bursa",
@@ -1307,6 +1491,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "takeaway": "Yang berubah di sini adalah penambahan alat, bukan aturan atau anggaran baru yang diumumkan resmi. Kementan menyebut sekitar seribu unit pompa irigasi sudah disalurkan untuk kebun, ditambah 545 pompa pemadam kebakaran lahan yang dibagikan ke sembilan provinsi rawan karhutla sejak 2022. Yang terdampak jelas pekebun di wilayah rawan kering dan kebakaran seperti Riau dan sejumlah daerah di Kalimantan, tapi Kementan sendiri tidak merinci sejak kapan seribu unit pompa itu dihitung, berapa anggarannya, atau berapa luas kebun yang tercakup. Karena angka-angka ini masih klaim sepihak tanpa rincian waktu dan cakupan, arah kebijakannya baru bisa dibaca lebih jelas kalau ada laporan realisasi bantuan per wilayah atau data luas kebun yang benar-benar terselamatkan setelah musim kemarau tahun ini berakhir.",
   "imageV": "muarfsnz"
+ },
+ {
+  "slug": "yelo-gagal-penuhi-kuorum-rupslb-kedua-tunggu-rupslb-ketiga",
+  "category": "Aksi Korporasi",
+  "title": "YELO Gagal Penuhi [Kuorum] RUPSLB Kedua, Tunggu RUPSLB Ketiga",
+  "deck": "RUPSLB kedua YELO pada 17 September 2026 hanya dihadiri 36,533 persen pemegang saham, gagal penuhi syarat kuorum sehingga perseroan harus menggelar RUPSLB ketiga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T11:28:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac5d6257c8_47ecf6a7f1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YELO",
+  "tags": [
+   "YELO",
+   "RUPSLB",
+   "kuorum",
+   "OJK"
+  ],
+  "body": [
+   "RUPSLB Kedua PT Yelooo Integra Datanet Tbk (YELO) digelar pada 17 September 2026 di Axa Tower Lantai 42, Jakarta Selatan, dengan agenda tunggal berupa persetujuan perubahan Pasal 3 Anggaran Dasar Perseroan untuk menyesuaikan klasifikasi baku lapangan usaha (KBLI) sesuai Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025. Berdasarkan laporan resmi ke bursa yang ditandatangani Corporate Secretary Rosi Diani, rapat hanya dihadiri pemegang saham dan/atau kuasanya yang mewakili 699.180.048 saham, setara 36,533 persen dari seluruh saham dengan hak suara sah yang telah diterbitkan perseroan.",
+   "Jumlah kehadiran itu tidak memenuhi ketentuan kuorum minimal yang diatur dalam Pasal 22 ayat 3 huruf (c) Anggaran Dasar Perseroan dan Pasal 42 huruf (c) POJK Nomor 15/POJK.04/2020, sehingga agenda perubahan anggaran dasar tersebut tidak bisa diputuskan. Menurut ringkasan risalah dari notaris Rini Yulianti yang menaungi rapat, ini adalah kegagalan kuorum kedua setelah RUPSLB pertama pada 3 September 2026 juga tidak memenuhi syarat kehadiran. Rapat kedua ini sendiri hanya berlangsung sekitar sepuluh menit, dari pukul 14.06 hingga 14.16 WIB, dengan Komisaris Utama Sunil Ramesh Tolani hadir mewakili jajaran Dewan Komisaris.",
+   "Karena kuorum kembali tidak tercapai, perseroan akan menggelar RUPSLB Ketiga dengan syarat kuorum kehadiran dan kuorum keputusan yang besarannya kali ini ditetapkan oleh Otoritas Jasa Keuangan, bukan lagi mengacu pada anggaran dasar perseroan. Perseroan wajib mengajukan permohonan penetapan tersebut kepada OJK paling lambat 14 hari setelah RUPSLB Kedua, atau sekitar 1 Oktober 2026. Jadwal pemanggilan dan pelaksanaan RUPSLB Ketiga baru akan ditentukan setelah OJK mengeluarkan penetapannya."
+  ],
+  "fotoAdegan": "Empty rows of chairs facing a podium in a high-rise conference hall in Jakarta, morning sunlight, no attendees yet",
+  "takeaway": "Laporan ini netral bagi penilaian kinerja YELO, sebab agenda yang gagal disahkan hanya penyesuaian kode klasifikasi usaha mengikuti aturan BPS terbaru, bukan aksi korporasi yang mengubah permodalan, arus kas, atau jumlah saham beredar perusahaan. Tidak ada pos kinerja utama seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh oleh perubahan administratif ini; yang terpengaruh murni soal tata kelola, yakni kegagalan berulang mengumpulkan kuorum yang bisa menandakan basis pemegang saham publik yang terpencar atau kurang aktif berpartisipasi dalam rapat. Yang perlu dipantau berikutnya adalah batas waktu sekitar 1 Oktober 2026 saat perseroan wajib mengajukan permohonan penetapan kuorum RUPSLB Ketiga ke OJK, serta jadwal pemanggilan RUPSLB Ketiga itu sendiri begitu OJK mengeluarkan penetapannya.",
+  "sentimen": "netral"
  },
  {
   "slug": "btps-panggil-rupslb-usulkan-buyback-saham-hingga-rp1-triliun",

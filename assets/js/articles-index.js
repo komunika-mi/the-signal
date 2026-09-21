@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dyan-teken-ppjb-tanah-bangunan-senilai-rp36-miliar",
+  "category": "Aksi Korporasi",
+  "title": "DYAN Teken PPJB Tanah-Bangunan Senilai [Rp36 Miliar]",
+  "deck": "Anak usaha DYAN, Dyandra Promosindo, mengikat pembelian tanah dan bangunan seluas 1.505 m² dari Dana Pensiun Kompas Gramedia, dibayar bertahap hingga 2028.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DYAN",
+   "Dyandra Promosindo",
+   "PPJB",
+   "aset tanah dan bangunan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d9a1c05b18_6254d70d8a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "vici-ungkap-rencana-akuisisi-secret-garden-di-public-expose",
   "category": "Aksi Korporasi",
   "title": "VICI Ungkap Rencana Akuisisi [Secret Garden] di Public Expose",
@@ -101,6 +117,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "uang-ganti-ketua-komite-audit-yoshihiro-kobi-gantikan-bonny-harry",
+  "category": "Aksi Korporasi",
+  "title": "UANG Ganti Ketua [Komite Audit], Yoshihiro Kobi Gantikan Bonny Harry",
+  "deck": "Komite Audit PT Pakuan Tbk berganti susunan efektif 21 September 2026, dari empat menjadi tiga anggota, dengan Yoshihiro Kobi sebagai ketua baru.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UANG",
+   "Komite Audit",
+   "Tata Kelola Perusahaan",
+   "PT Pakuan Tbk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f20b7dff1_edfb50eec9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sdra-efektifkan-felix-aristo-ardian-jadi-direktur-konsumer",
+  "category": "Aksi Korporasi",
+  "title": "SDRA [Efektifkan] Felix Aristo Ardian Jadi Direktur Konsumer",
+  "deck": "Woori Saudara (SDRA) mengefektifkan Felix Aristo Ardian sebagai Direktur Konsumer per 18 September 2026, sekaligus melaporkan realisasi dana rights issue 2024 senilai Rp3,06 triliun.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SDRA",
+   "Bank Woori Saudara",
+   "Direksi",
+   "Rights Issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7f277c8ed8_b73873130a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bssr-bagikan-dividen-interim-us-60-juta-cair-9-oktober",
   "category": "Aksi Korporasi",
   "title": "BSSR Bagikan [Dividen] Interim US$60 Juta, Cair 9 Oktober",
@@ -127,6 +175,22 @@ var ARTICLES = [
   "tags": [],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468447-amran-minta-25-merek-beras-fortifikasi-setop-produksi-izin-terancam-dicabut"
+ },
+ {
+  "slug": "mncn-teken-kerja-sama-strategis-dengan-rmab-nilai-belum-diungkap",
+  "category": "Aksi Korporasi",
+  "title": "MNCN Teken [Kerja Sama] Strategis dengan RMAB, Nilai Belum Diungkap",
+  "deck": "MNCN menandatangani perjanjian kerja sama strategis dan usaha patungan dengan RMAB atas PT IMG Media Network, tapi nilai transaksi dan porsi saham yang berpindah belum diungkapkan.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MNCN",
+   "IMG Media Network",
+   "RMAB",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffd3b970b6_07392aa8a9.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bpkh-tempatkan-70-dana-haji-rp184-t-di-sukuk-negara",
@@ -541,6 +605,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468410-bahlil-ungkap-cara-baru-atur-batu-bara-dan-nikel-produksi-tak-lagi-jadi-patokan-utama"
  },
  {
+  "slug": "mrei-rombak-anggaran-dasar-ubah-masa-jabatan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "MREI Rombak Anggaran Dasar, Ubah [Masa Jabatan] Direksi-Komisaris",
+  "deck": "RUPSLB 14 Agustus 2026 mengubah masa jabatan direksi dan komisaris MREI menjadi tetap 5 tahun, mengubah aturan rapat komisaris, dan menyederhanakan aturan pengumuman dividen.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MREI",
+   "Anggaran Dasar",
+   "Tata Kelola",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a35034319a_7040ed4a45.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "gmfi-direksi-tri-hartono-tambah-saham-5-000-lembar",
   "category": "Aksi Korporasi",
   "title": "GMFI: Direksi Tri Hartono [Tambah] Saham 5.000 Lembar",
@@ -769,6 +849,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468365-peringati-hari-sungai-dan-world-cleanup-day-telkomgroup-angkut-51-ton-sampah-dari-kali-krukut"
  },
  {
+  "slug": "wika-jadwalkan-rupsu-sukuk-mudharabah-tahap-i-2021-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPSU] Sukuk Mudharabah Tahap I 2021, 19 Oktober",
+  "deck": "WIKA mengumumkan rencana rapat pemegang Sukuk Mudharabah Berkelanjutan II Tahap I 2021 pada 19 Oktober 2026, salah satu dari beberapa rapat kreditur yang dijadwalkan setelah gagal bayar.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bf99bb7d9f_6ecde0cc22.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-jadwalkan-rupo-obligasi-berkelanjutan-ii-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPO] Obligasi Berkelanjutan II, 19 Oktober",
+  "deck": "WIKA akan menggelar RUPO untuk Obligasi Berkelanjutan II Tahap I 2021 pada 19 Oktober 2026, rapat pemegang utang keempat yang dijadwalkan perseroan dalam sepekan terakhir.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "RUPO",
+   "utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36dd64f183_e661f5faef.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "unsp-rinci-dasar-diskonto-revaluasi-kebun-ke-bursa",
   "category": "Aksi Korporasi",
   "title": "UNSP Rinci Dasar Diskonto Revaluasi [Kebun] ke Bursa",
@@ -817,6 +929,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8153",
   "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "yelo-gagal-penuhi-kuorum-rupslb-kedua-tunggu-rupslb-ketiga",
+  "category": "Aksi Korporasi",
+  "title": "YELO Gagal Penuhi [Kuorum] RUPSLB Kedua, Tunggu RUPSLB Ketiga",
+  "deck": "RUPSLB kedua YELO pada 17 September 2026 hanya dihadiri 36,533 persen pemegang saham, gagal penuhi syarat kuorum sehingga perseroan harus menggelar RUPSLB ketiga.",
+  "date": "21 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YELO",
+   "RUPSLB",
+   "kuorum",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac5d6257c8_47ecf6a7f1.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "btps-panggil-rupslb-usulkan-buyback-saham-hingga-rp1-triliun",
@@ -6370,138 +6498,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467106-25-juta-umkm-tercatat-naik-kelas-tuju-layanan-keuangan-formal"
- },
- {
-  "slug": "smdr-jawab-bei-soal-volatilitas-transaksi-sebut-tak-ada-info-baru",
-  "category": "Aksi Korporasi",
-  "title": "SMDR Jawab BEI soal [Volatilitas] Transaksi, Sebut Tak Ada Info Baru",
-  "deck": "Samudera Indonesia menjawab surat penjelasan yang diminta BEI setelah harga sahamnya bergejolak, menyatakan tidak ada informasi material atau rencana aksi korporasi baru dalam tiga bulan ke depan.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMDR",
-   "Samudera Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/957e4d7ad7_377c9887f9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bnba-ganti-komisaris-independen-tolak-mundur-presiden-direktur",
-  "category": "Aksi Korporasi",
-  "title": "BNBA Ganti Komisaris Independen, Tolak [Mundur] Presiden Direktur",
-  "deck": "RUPSLB Bank Bumi Arta menyetujui pergantian dua komisaris independen, tapi menolak permohonan mundur Presiden Direktur Wikan Aryono S sehingga jabatannya tetap terisi.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BNBA",
-   "RUPSLB",
-   "Bank Bumi Arta",
-   "komisaris independen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b3fd54d59c_625d89a567.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rsgk-pengendali-pertahankan-saham-di-tengah-volatilitas-harga",
-  "category": "Aksi Korporasi",
-  "title": "RSGK: Pengendali [Pertahankan] Saham di Tengah Volatilitas Harga",
-  "deck": "RSGK menyatakan tidak ada informasi material di balik lonjakan harga sahamnya pada 9 September 2026, sementara pemegang saham pengendali menegaskan tetap mempertahankan kepemilikan sahamnya.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RSGK",
-   "volatilitas saham",
-   "BEI",
-   "RS Grha Kedoya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9f70a008c_b0ee480c9e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-kembangkan-pusat-riset-bioetanol-di-lampung",
-  "category": "Energi",
-  "title": "Pertamina Kembangkan Pusat Riset [Bioetanol] di Lampung",
-  "deck": "Pertamina NRE meresmikan pusat riset bioetanol skala percontohan di Lampung, dilengkapi dua nota kesepahaman dengan Pemprov Lampung dan grup Toyota.",
-  "date": "14 September 2026",
-  "image": "assets/img/pertamina-kembangkan-pusat-riset-bioetanol-di-lampung.jpg",
-  "imageV": "mu1h1wc9",
-  "tags": [
-   "pertamina",
-   "bioetanol",
-   "lampung",
-   "energi terbarukan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467090-pertamina-nre-terus-dorong-pengembangan-bioetanol-berbasis-multi-feedstock-dan-multi-generation"
- },
- {
-  "slug": "mncn-gandeng-rmab-sta-rmab-jadi-pengakuisisi-media",
-  "category": "Aksi Korporasi",
-  "title": "MNCN Gandeng RMAB-STA, RMAB Jadi [Pengakuisisi] Media",
-  "deck": "MNCN, Republikorp Group lewat RMAB, dan Sinergi Terang Abadi menandatangani kerja sama strategis membangun ekosistem media terintegrasi, dengan RMAB sebagai pihak pengakuisisi.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MNCN",
-   "media",
-   "kemitraan strategis",
-   "iNews"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f3bf7ed092_521a6e1a67.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-bulgaria-perkuat-kerja-sama-dagang-bidik-pasar-ue",
-  "category": "Global",
-  "title": "RI-Bulgaria [Perkuat] Kerja Sama Dagang, Bidik Pasar UE",
-  "deck": "Mendag Budi Santoso dan Wakil PM Bulgaria Alexander Poulev bahas penguatan investasi dan perdagangan, menjelang implementasi I-EU CEPA yang ditargetkan awal 2027.",
-  "date": "14 September 2026",
-  "image": "assets/img/ri-bulgaria-perkuat-kerja-sama-dagang-bidik-pasar-ue.jpg",
-  "imageV": "mu1bolsh",
-  "tags": [
-   "Bulgaria",
-   "I-EU CEPA",
-   "Trade Expo Indonesia",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-mendag-ri-dan-wakil-perdana-menteri-bulgaria-perkuat-kerja-sama-perdagangan-dan-investasi",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ri-bulgaria-perkuat-dagang-incar-pasar-eropa-via-i-eu-cepa",
-  "category": "Global",
-  "title": "RI-Bulgaria Perkuat Dagang, Incar Pasar [Eropa] via I-EU CEPA",
-  "deck": "Mendag Budi Santoso dan Wakil PM Bulgaria Alexander Poulev sepakat perkuat kerja sama dagang dan investasi, dengan Bulgaria diincar sebagai pintu masuk ke pasar Uni Eropa.",
-  "date": "14 September 2026",
-  "image": "assets/img/ri-bulgaria-perkuat-dagang-incar-pasar-eropa-via-i-eu-cepa.jpg",
-  "imageV": "mu1bonrt",
-  "tags": [
-   "Kemendag",
-   "Bulgaria",
-   "I-EU CEPA",
-   "Trade Expo Indonesia"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-mendag-ri-dan-wakil-perdana-menteri-bulgaria-perkuat-kerja-sama-perdagangan-dan-investasi-1789391594",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bjbr-pefindo-turunkan-peringkat-sejumlah-obligasi-bank-bjb",
-  "category": "Aksi Korporasi",
-  "title": "BJBR: PEFINDO [Turunkan] Peringkat Sejumlah Obligasi Bank BJB",
-  "deck": "PEFINDO menurunkan peringkat sejumlah obligasi dan surat berharga perpetual Bank BJB satu tingkat menjadi idAA- hingga idA-, outlook stabil.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BJBR",
-   "PEFINDO",
-   "peringkat obligasi",
-   "bank bjb"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffecd2006a_24f49478e4.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kementan-kerahkan-seribu-pompa-air-untuk-kebun-hadapi-kemarau",
+  "category": "Industri",
+  "title": "Kementan Kerahkan [Seribu] Pompa Air untuk Kebun Hadapi Kemarau",
+  "deck": "Kementerian Pertanian menyalurkan sekitar 1.000 unit irigasi pompa untuk kebun serta 545 pompa pemadam kebakaran lahan ke sembilan provinsi guna mengantisipasi kekeringan.",
+  "image": "assets/img/kementan-kerahkan-seribu-pompa-air-untuk-kebun-hadapi-kemarau.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T04:39:49.908Z",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8153",
+  "sourceLabel": "Kementerian Pertanian",
+  "tags": [
+   "Kementan",
+   "Irigasi",
+   "Kekeringan",
+   "Perkebunan"
+  ],
+  "body": [
+   "Kementerian Pertanian memperkuat pasokan air ke lahan perkebunan lewat irigasi pompa, sebagai antisipasi dampak musim kemarau terhadap produksi kebun. Langkah ini penting karena tanaman perkebunan seperti kelapa sawit, karet, atau kopi membutuhkan pasokan air stabil, dan kekeringan yang berkepanjangan bisa menekan hasil panen serta pendapatan pekebun.",
+   "Plt. Direktur Jenderal Perkebunan Heru Tri Widarto menyebut pemerintah telah menyalurkan sekitar 1.000 unit irigasi pompa untuk tanaman perkebunan, meski Kementan tidak merinci periode penyalurannya. Selain itu, sepanjang 2022 hingga 2024 Kementan juga membagikan 545 unit pompa untuk penanganan kebakaran lahan perkebunan ke sembilan provinsi rawan karhutla, yaitu Riau, Jambi, Sumatera Selatan, Kalimantan Timur, Kalimantan Selatan, Kalimantan Tengah, Nusa Tenggara Barat, Sumatera Utara, dan Kalimantan Barat.",
+   "Pompa irigasi berfungsi menjaga ketersediaan air saat sumber air alami menyusut, sementara pompa pemadam disiapkan untuk kesiapsiagaan menghadapi risiko kebakaran lahan. Kementan menyatakan terus berkoordinasi dengan BNPB, termasuk untuk modifikasi cuaca atau rekayasa hujan buatan, sebagai langkah tambahan di wilayah yang berpotensi terdampak kekeringan."
+  ],
+  "fotoAdegan": "Water pump and hose irrigating rows of plantation crops in dry season, worker adjusting pipe, rural field, midday light.",
+  "fotoSumber": "https://www.pertanian.go.id/img_viewer.php?content-type=news&img-type=img_slider&id=8153",
+  "kreditFoto": "Kementerian Pertanian",
+  "takeaway": "Yang berubah di sini adalah penambahan alat, bukan aturan atau anggaran baru yang diumumkan resmi. Kementan menyebut sekitar seribu unit pompa irigasi sudah disalurkan untuk kebun, ditambah 545 pompa pemadam kebakaran lahan yang dibagikan ke sembilan provinsi rawan karhutla sejak 2022. Yang terdampak jelas pekebun di wilayah rawan kering dan kebakaran seperti Riau dan sejumlah daerah di Kalimantan, tapi Kementan sendiri tidak merinci sejak kapan seribu unit pompa itu dihitung, berapa anggarannya, atau berapa luas kebun yang tercakup. Karena angka-angka ini masih klaim sepihak tanpa rincian waktu dan cakupan, arah kebijakannya baru bisa dibaca lebih jelas kalau ada laporan realisasi bantuan per wilayah atau data luas kebun yang benar-benar terselamatkan setelah musim kemarau tahun ini berakhir.",
+  "imageV": "muarfsnz"
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp17-783-usai-suku-bunga-the-fed-naik",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.783 usai Suku Bunga The Fed Naik",
+  "deck": "Rupiah melemah tipis ke Rp17.783 per dolar AS dipicu naiknya imbal hasil obligasi AS usai The Fed menaikkan suku bunga, sementara BI diperkirakan menahan suku bunga pada RDG pekan ini.",
+  "image": "assets/img/rupiah-melemah-ke-rp17-783-usai-suku-bunga-the-fed-naik.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T10:25:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468353-rupiah-melemah-ke-rp17783-per-dolar-as-dipengaruhi-kenaikan-imbal-hasil-obligasi-as",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "BI",
+   "The Fed"
+  ],
+  "body": [
+   "Nilai tukar rupiah terhadap dolar Amerika Serikat melemah pada pembukaan perdagangan Senin (21/9/2026), turun 25 poin atau 0,14 persen menjadi Rp17.783 per dolar AS dibandingkan penutupan sebelumnya di Rp17.758. Pelemahan ini penting dicermati karena terjadi persis menjelang keputusan suku bunga Bank Indonesia yang akan diumumkan pekan ini.",
+   "Analis Doo Financial, Lukman Leong, menyebut pelemahan rupiah dipicu kenaikan imbal hasil obligasi AS, yang menurutnya masih akan menekan rupiah menjelang Rapat Dewan Gubernur BI pada Rabu (23/9/2026). Tekanan ini muncul setelah bank sentral AS, The Federal Reserve, menaikkan suku bunga acuan federal funds rate ke kisaran 3,75-4,0 persen pada Rabu (16/9/2026), kenaikan pertama sejak Juli 2023.",
+   "The Fed masih punya dua pertemuan lagi tahun ini, yakni akhir Oktober dan awal Desember 2026. Proyeksi ekonomi terbaru dari para pejabat FOMC menunjukkan sebagian besar memperkirakan suku bunga acuan akan naik lagi ke kisaran 4 sampai 4,25 persen pada akhir tahun.",
+   "Di sisi lain, BI diperkirakan menahan suku bunga acuan pada RDG bulanan yang digelar 22-23 September 2026. Dengan mempertimbangkan faktor-faktor tersebut, rupiah diprediksi bergerak di kisaran Rp17.700 hingga Rp17.850 per dolar AS."
+  ],
+  "fotoAdegan": "Currency traders at desks in a Jakarta financial district office, blurred monitors in the background, focused on their work, daytime.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bddf204303e-ilustrasi-rupiah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pelemahan rupiah kali ini terhitung tipis, hanya 25 poin atau 0,14 persen ke Rp17.783 per dolar AS, tapi pemicunya jelas, yaitu naiknya imbal hasil obligasi AS setelah The Fed menaikkan suku bunga acuan ke 3,75-4,0 persen pekan lalu, kenaikan pertama sejak Juli 2023. Imbal hasil obligasi yang naik membuat dana asing lebih tertarik menaruh uangnya di AS ketimbang di pasar negara berkembang seperti Indonesia, sehingga permintaan dolar naik dan rupiah tertekan. Pihak yang langsung merasakan dampaknya adalah importir dan pelaku usaha dengan utang dalam dolar, karena biaya mereka jadi lebih mahal, sementara BI sendiri berada di bawah tekanan menjelang RDG Rabu (23/9/2026). Dengan The Fed masih punya dua pertemuan lagi tahun ini dan memproyeksikan suku bunga naik ke kisaran 4 sampai 4,25 persen pada akhir tahun, sementara BI diperkirakan justru menahan suku bunganya, tekanan pelemahan pada rupiah kemungkinan berlanjut secara bertahap ketimbang mereda cepat. Yang akan memastikan arah ini adalah hasil RDG BI pada 23 September dan pertemuan The Fed berikutnya akhir Oktober.",
+  "imageV": "muarft6r"
+ },
+ {
   "slug": "safe-pengendali-tambah-100-200-saham-hak-suara-ke-56-57",
   "category": "Aksi Korporasi",
   "title": "SAFE: Pengendali Tambah 100.200 Saham, Hak Suara ke [56,57%]",
@@ -26,6 +80,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of parked taxis lined up in a company depot yard at dusk with the Jakarta skyline in the distance",
   "takeaway": "Laporan ini netral bagi Steady Safe karena tambahan 100.200 lembar saham hanya sekitar 0,02 persen dari kepemilikan Infiniti Wahana yang sudah di atas 464 juta lembar, sehingga tidak mengubah peta kendali perusahaan. Yang tersentuh adalah hak suara, yaitu bobot suara pemegang saham dalam rapat umum pemegang saham, yang bergeser sangat tipis dari 56,56 persen menjadi 56,57 persen sehingga posisi Infiniti Wahana sebagai pemegang saham pengendali SAFE tetap kokoh. Patut dicermati bahwa transaksi ini terjadi pada 11 Februari 2026 namun baru dilaporkan tujuh bulan kemudian pada 21 September 2026, jarak yang jauh dari kebiasaan pelaporan kepemilikan yang biasanya cepat. Yang perlu dipantau selanjutnya adalah apakah pembelian bertahap oleh pemegang saham pengendali ini berlanjut pada laporan berikutnya, karena akumulasi kecil yang konsisten dari waktu ke waktu bisa perlahan mengubah komposisi pemegang saham publik SAFE.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-emas-antam-turun-rp10-000-ke-rp2-628-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Rp10.000 ke Rp2.628.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp10.000 menjadi Rp2.628.000 per gram pada 21 September 2026, sementara harga buyback juga melemah ke Rp2.463.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-rp10-000-ke-rp2-628-000-gram.jpg",
+  "date": "21 September 2026",
+  "isoDate": "2026-09-21T09:30:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468346-harga-emas-antam-hari-ini-21-september-2026-turun-rp10000-jadi-rp2628000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam pada 21 September 2026 tercatat turun Rp10.000 per gram menjadi Rp2.628.000, berdasarkan data resmi di laman Logam Mulia. Sehari sebelumnya harga masih berada di Rp2.638.000 per gram. Bagi masyarakat yang berencana membeli emas Antam hari ini, penurunan ini membuat harga sedikit lebih murah dibanding hari sebelumnya.",
+   "Harga buyback, yaitu harga yang dibayarkan Antam kepada masyarakat yang menjual kembali emas batangannya, juga ikut turun ke Rp2.463.000 per gram. Dengan begitu, selisih antara harga jual dan harga buyback saat ini sekitar Rp165.000 per gram. Selisih ini pada dasarnya adalah biaya yang harus ditanggung seseorang jika membeli emas lalu langsung menjualnya kembali pada hari yang sama.",
+   "Antam menegaskan bahwa harga emas batangannya bisa berubah sewaktu-waktu mengikuti pergerakan pasar. Artinya, angka yang berlaku hari ini tidak otomatis sama dengan hari-hari berikutnya."
+  ],
+  "fotoAdegan": "Close-up of gold bars stacked on a velvet display tray inside a jewelry shop case, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini murni angka harian, harga jual emas Antam turun Rp10.000 jadi Rp2.628.000 per gram dan harga jual kembalinya turun ke Rp2.463.000 per gram. Yang kena dampak langsung adalah masyarakat yang bertransaksi emas fisik pada hari ini, pembeli diuntungkan karena harganya sedikit lebih murah, sementara yang menjual kembali menerima uang lebih sedikit dibanding kemarin. Data yang tersedia cuma potret satu hari tanpa perbandingan harga emas dunia atau tren beberapa hari terakhir, jadi belum bisa disimpulkan apakah ini awal koreksi harga atau sekadar fluktuasi harian biasa. Yang perlu dipantau adalah pergerakan harga Antam dalam beberapa hari ke depan, karena dari situ baru terlihat apakah penurunan ini berlanjut atau berbalik naik.",
+  "imageV": "muarftn0"
  },
  {
   "slug": "jecx-direktur-keuangan-mundur-rups-digelar-maks-90-hari",

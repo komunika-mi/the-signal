@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kementan-kerahkan-seribu-pompa-air-untuk-kebun-hadapi-kemarau",
+  "category": "Industri",
+  "title": "Kementan Kerahkan [Seribu] Pompa Air untuk Kebun Hadapi Kemarau",
+  "deck": "Kementerian Pertanian menyalurkan sekitar 1.000 unit irigasi pompa untuk kebun serta 545 pompa pemadam kebakaran lahan ke sembilan provinsi guna mengantisipasi kekeringan.",
+  "date": "21 September 2026",
+  "image": "assets/img/kementan-kerahkan-seribu-pompa-air-untuk-kebun-hadapi-kemarau.jpg",
+  "imageV": "muarfsnz",
+  "tags": [
+   "Kementan",
+   "Irigasi",
+   "Kekeringan",
+   "Perkebunan"
+  ],
+  "kreditFoto": "Kementerian Pertanian",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8153",
+  "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp17-783-usai-suku-bunga-the-fed-naik",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.783 usai Suku Bunga The Fed Naik",
+  "deck": "Rupiah melemah tipis ke Rp17.783 per dolar AS dipicu naiknya imbal hasil obligasi AS usai The Fed menaikkan suku bunga, sementara BI diperkirakan menahan suku bunga pada RDG pekan ini.",
+  "date": "21 September 2026",
+  "image": "assets/img/rupiah-melemah-ke-rp17-783-usai-suku-bunga-the-fed-naik.jpg",
+  "imageV": "muarft6r",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "BI",
+   "The Fed"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468353-rupiah-melemah-ke-rp17783-per-dolar-as-dipengaruhi-kenaikan-imbal-hasil-obligasi-as"
+ },
+ {
   "slug": "safe-pengendali-tambah-100-200-saham-hak-suara-ke-56-57",
   "category": "Aksi Korporasi",
   "title": "SAFE: Pengendali Tambah 100.200 Saham, Hak Suara ke [56,57%]",
@@ -19,6 +54,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-5017-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-turun-rp10-000-ke-rp2-628-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Rp10.000 ke Rp2.628.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp10.000 menjadi Rp2.628.000 per gram pada 21 September 2026, sementara harga buyback juga melemah ke Rp2.463.000 per gram.",
+  "date": "21 September 2026",
+  "image": "assets/img/harga-emas-antam-turun-rp10-000-ke-rp2-628-000-gram.jpg",
+  "imageV": "muarftn0",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468346-harga-emas-antam-hari-ini-21-september-2026-turun-rp10000-jadi-rp2628000-per-gram"
  },
  {
   "slug": "jecx-direktur-keuangan-mundur-rups-digelar-maks-90-hari",
@@ -6448,53 +6500,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466952-rupiah-menguat-ke-rp17605-per-dolar-as-di-tengah-tekanan-harga-minyak-dunia-terhadap-ketahanan-fiskal-ri"
- },
- {
-  "slug": "mdla-pastikan-free-float-16-89-genjot-ekspor-medical-device",
-  "category": "Aksi Korporasi",
-  "title": "MDLA Pastikan Free Float 16,89%, Genjot [Ekspor] Medical Device",
-  "deck": "Dalam Public Expose Tahunan 2026, manajemen Medela Potentia memastikan porsi saham publik 16,89% dan memaparkan rencana perluasan bisnis medical device serta ekspor ke ASEAN dan Afrika.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLA",
-   "Public Expose",
-   "Free Float",
-   "Medical Device"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f258f5f2d8_cb93def460.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-direksi-george-oetomo-lepas-net-550-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Direksi George Oetomo Lepas Net [550.000] Saham",
-  "deck": "Direksi TAPG George Oetomo menjual 800.000 saham lalu membeli balik 250.000 saham dalam dua hari, kepemilikannya turun bersih 550.000 lembar.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "kepemilikan saham",
-   "direksi",
-   "Triputra Agro Persada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-8217-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-komisaris-ibnu-susanto-tambah-saham-hak-suara-ke-17-07",
-  "category": "Aksi Korporasi",
-  "title": "BAJA: Komisaris [Ibnu Susanto] Tambah Saham, Hak Suara ke 17,07%",
-  "deck": "Komisaris Ibnu Susanto menambah kepemilikan saham BAJA lewat sejumlah transaksi di pasar pada April 2026, menaikkan hak suaranya menjadi 17,07 persen.",
-  "date": "14 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "kepemilikan saham",
-   "komisaris",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-8980-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

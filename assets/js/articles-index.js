@@ -23,6 +23,86 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "dmas-rombak-direksi-yoneda-gantikan-uehara",
+  "category": "Aksi Korporasi",
+  "title": "DMAS [Rombak] Direksi, Yoneda Gantikan Uehara",
+  "deck": "RUPSLB Puradelta Lestari menyetujui pengunduran diri Atsushi Uehara sebagai Wakil Presiden Direktur dan mengangkat Shinji Yoneda sebagai penggantinya.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMAS",
+   "RUPSLB",
+   "Direksi",
+   "Puradelta Lestari"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d23adf1924_acd5f39752.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-gelar-public-expose-insidentil-usai-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Gelar Public Expose Insidentil usai [Suspensi]",
+  "deck": "Bursa memerintahkan BIKE menggelar paparan publik insidentil pada Kamis, 24 September 2026, menyusul suspensi cooling down sahamnya sehari sebelumnya.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "Suspensi saham",
+   "Public Expose",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec0601cc0d_3ec761a437.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-terbitkan-saham-baru-investor-lama-terdilusi-ke-0-53",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Terbitkan Saham Baru, Investor Lama [Terdilusi] ke 0,53%",
+  "deck": "PMTHMETD MKNT menerbitkan 1,02 triliun saham baru senilai Rp1 per saham untuk tujuh pihak, termasuk PT Headwell Bintang Energi Hijau yang akan menguasai mayoritas saham perseroan.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "PMTHMETD",
+   "dilusi saham",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/433e20a35b_07be089b7c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zone-vanda-gunawan-tambah-kepemilikan-saham-jadi-12-37",
+  "category": "Aksi Korporasi",
+  "title": "ZONE: Vanda Gunawan Tambah [Kepemilikan] Saham Jadi 12,37%",
+  "deck": "Vanda Gunawan membeli 1,4 juta saham ZONE secara tidak langsung seharga Rp670 per lembar pada 11 September 2026, menaikkan hak suaranya dari 12,21% menjadi 12,37%.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZONE",
+   "Mega Perintis",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-0390-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gsmf-tunda-jadwal-pmthmetd-tahap-ii-ke-kuartal-iv-2026",
+  "category": "Aksi Korporasi",
+  "title": "GSMF Tunda Jadwal [PMTHMETD] Tahap II ke Kuartal IV 2026",
+  "deck": "Equity Development Investment menggeser rencana penambahan modal tanpa hak memesan efek terlebih dahulu Tahap II dari akhir September ke kuartal IV 2026, tanpa mengubah nilai maupun pihak penyetor modal.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GSMF",
+   "PMTHMETD",
+   "penambahan modal",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/63cc82f5bc_de79129416.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pnm-hadirkan-trauma-healing-bagi-nasabah-ntt-pascagempa",
   "category": "UMKM",
   "title": "PNM Hadirkan [Trauma Healing] bagi Nasabah NTT Pascagempa",
@@ -636,6 +716,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468572-ubah-produk-samping-jadi-solusi-agroindustri-petrokimia-gresik-raih-paten-inovasi-silika"
  },
  {
+  "slug": "supr-protelindo-perpanjang-tender-sukarela-hingga-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "SUPR: Protelindo Perpanjang [Tender Sukarela] hingga 21 Oktober",
+  "deck": "Protelindo memperpanjang masa tender sukarela saham SUPR untuk kedua kalinya hingga 21 Oktober 2026, periode terakhir yang diizinkan aturan OJK, setelah 74,39% saham publik ikut serta.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUPR",
+   "tender offer",
+   "go private",
+   "Protelindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cbb1ba81a9_cf8b60d5c4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pbsa-rombak-nilai-saham-lewat-stock-split-ke-rp25",
   "category": "Aksi Korporasi",
   "title": "PBSA Rombak Nilai Saham Lewat [Stock Split] ke Rp25",
@@ -649,6 +745,38 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05ab9e1487_cdc994147c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prtl-perpanjang-tender-saham-solusi-tunas-pratama-terakhir",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Perpanjang Tender Saham Solusi Tunas Pratama, [Terakhir]",
+  "deck": "Protelindo memperpanjang untuk kedua kalinya masa penawaran tender sukarela atas saham Solusi Tunas Pratama hingga 21 Oktober 2026, periode terakhir yang diizinkan aturan OJK.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRTL",
+   "tender offer",
+   "Solusi Tunas Pratama",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03f82f6c17_4e956c9f33.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbyb-jadwalkan-rupslb-pada-29-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BBYB Jadwalkan [RUPSLB] pada 29 Oktober 2026",
+  "deck": "Bank Neo Commerce mengumumkan rencana RUPSLB 29 Oktober 2026, lengkap dengan tenggat usul agenda pemegang saham dan tanggal pencatatan pemegang saham yang berhak hadir.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBYB",
+   "RUPSLB",
+   "Bank Neo Commerce",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f7378ecd17_e9af4af860.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -714,6 +842,22 @@ var ARTICLES = [
    "hak suara multiple"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-1484-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untr-tambah-saham-di-sma-rp9-5-m-transaksi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Tambah Saham di SMA Rp9,5 M, Transaksi [Afiliasi]",
+  "deck": "Anak usaha UNTR, DTN dan ASPR, menambah kepemilikan saham di PT Stargate Mineral Asia senilai total Rp9,5 miliar untuk menjaga porsi kepemilikan dan memenuhi modal kerja SMA.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "Transaksi Afiliasi",
+   "Stargate Mineral Asia",
+   "Tambang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d62d8c982_aa9c54996d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6366,152 +6510,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pabrik-grease-shell-mulai-beroperasi-wamendag-roro-momentum-strategis-perkuat-rantai-pasok-domestik",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "pertamina-perkuat-diversifikasi-lng-di-gastech-2026",
-  "category": "Energi",
-  "title": "Pertamina Perkuat Diversifikasi [LNG] di Gastech 2026",
-  "deck": "Pertamina memaparkan strategi diversifikasi pasokan LNG domestik dan internasional serta infrastruktur gas dalam forum Gastech 2026 di Bangkok, Thailand.",
-  "date": "15 September 2026",
-  "image": "assets/img/pertamina-perkuat-diversifikasi-lng-di-gastech-2026.jpg",
-  "imageV": "mu2td78z",
-  "tags": [
-   "Pertamina",
-   "LNG",
-   "gas",
-   "ketahanan energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467335-pertamina-terus-perkuat-ketahanan-energi-melalui-integrasi-portofolio-dan-infrastruktur-lng"
- },
- {
-  "slug": "antm-paparkan-laba-naik-34-dan-capex-rp7-t-di-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "ANTM Paparkan Laba Naik 34% dan [Capex] Rp7 T di Public Expose",
-  "deck": "Public Expose Live 2026 ANTM merinci laba bersih semester I naik 34 persen jadi Rp6,91 triliun, ditopang emas dan nikel, serta rencana belanja modal Rp7 triliun.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANTM",
-   "Antam",
-   "public expose",
-   "hilirisasi nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d53a1dda1_6aafab19bd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "epac-pastikan-ada-tender-wajib-pengendali-dalam-12-bulan",
-  "category": "Aksi Korporasi",
-  "title": "EPAC Pastikan Ada [Tender Wajib] Pengendali dalam 12 Bulan",
-  "deck": "Menjawab permintaan penjelasan Bursa, EPAC ungkap penutupan segmen kemasan konvensional, ekspansi dibiayai rights issue dan leasing, serta tender wajib oleh pengendali dalam 12 bulan ke depan.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EPAC",
-   "rights issue",
-   "tender wajib",
-   "kemasan fleksibel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e10612deea_03d505f9a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkomsel-genjot-pemasaran-warung-lewat-data-digiads",
-  "category": "Bisnis",
-  "title": "Telkomsel Genjot Pemasaran Warung lewat Data [DigiAds]",
-  "deck": "Telkomsel Enterprise memakai data pelanggan dan jaringan warung DigiPOS untuk menyambungkan iklan digital dengan penjualan di toko, dicoba bersama Rinso di Jawa Barat.",
-  "date": "15 September 2026",
-  "image": "assets/img/telkomsel-genjot-pemasaran-warung-lewat-data-digiads.jpg",
-  "imageV": "mu2td7mj",
-  "tags": [
-   "telkomsel",
-   "digiads",
-   "umkm",
-   "pemasaran digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467327-dari-ponsel-untuk-umkm-telkomsel-enterprise-terus-dorong-pemasaran-yang-lebih-terukur"
- },
- {
-  "slug": "raja-beber-rencana-pipa-bbm-rp1-5-triliun-dan-ipo-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "RAJA Beber Rencana Pipa BBM [Rp1,5 Triliun] dan IPO Anak Usaha",
-  "deck": "Hasil Public Expose Tahunan RAJA mengungkap rencana investasi pipa BBM Balsam, akuisisi kapal LNG/LPG, dan IPO anak usaha, di tengah target pertumbuhan kinerja 2026.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAJA",
-   "Rukun Raharja",
-   "Public Expose",
-   "FLNG"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3dabc6ef9a_e9e12656f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arto-resmikan-nicholas-tan-yanming-jadi-direktur-retail-banking",
-  "category": "Aksi Korporasi",
-  "title": "ARTO Resmikan [Nicholas Tan Yanming] Jadi Direktur Retail Banking",
-  "deck": "Bank Jago mengefektifkan penambahan satu direktur baru untuk bisnis retail banking, setelah disetujui OJK dan RUPST Mei lalu.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARTO",
-   "Bank Jago",
-   "Direksi",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/48d5792c66_2183c05673.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inco-paparkan-public-expose-capex-capai-us-700-juta-2026",
-  "category": "Aksi Korporasi",
-  "title": "INCO Paparkan Public Expose, [Capex] Capai US$700 Juta 2026",
-  "deck": "Public expose tahunan Vale Indonesia mengungkap capex 2026 sekitar US$700 juta, kas cuma US$111 juta di semester I, dan dividen belum jadi prioritas selama masa ekspansi 2026-2027.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INCO",
-   "Vale Indonesia",
-   "Public Expose",
-   "HPAL"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/73f697eb7e_dea0cc751f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpum-tegaskan-tak-ada-info-baru-selain-rencana-mto",
-  "category": "Aksi Korporasi",
-  "title": "DPUM Tegaskan Tak Ada Info Baru Selain Rencana [MTO]",
-  "deck": "Menjawab permintaan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, DPUM menegaskan tidak ada fakta material lain selain pengambilalihan oleh PT Rama Indonesia dan rencana penawaran tender wajib.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DPUM",
-   "akuisisi",
-   "tender offer",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f94b9e212c_977f3fa85f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mendagri-ingatkan-pemda-soal-risiko-obligasi-daerah",
-  "category": "Makroekonomi",
-  "title": "Mendagri Ingatkan Pemda soal Risiko [Obligasi] Daerah",
-  "deck": "Mendagri Tito Karnavian meminta pemerintah daerah menghitung kemampuan fiskal sebelum menerbitkan obligasi, supaya utang lama tidak membebani kepala daerah yang baru menjabat.",
-  "date": "15 September 2026",
-  "image": "assets/img/mendagri-ingatkan-pemda-soal-risiko-obligasi-daerah.jpg",
-  "imageV": "mu2o3033",
-  "tags": [
-   "obligasi daerah",
-   "Tito Karnavian",
-   "utang daerah",
-   "kepala daerah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467302-tito-imbau-pemda-hati-hati-terbitkan-obligasi-daerah-jangan-timbulkan-beban-bagi-kepala-daerah-baru"
  }
 ];

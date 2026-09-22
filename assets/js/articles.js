@@ -31,6 +31,135 @@ var ARTICLES = [
   "imageV": "muclytdt"
  },
  {
+  "slug": "dmas-rombak-direksi-yoneda-gantikan-uehara",
+  "category": "Aksi Korporasi",
+  "title": "DMAS [Rombak] Direksi, Yoneda Gantikan Uehara",
+  "deck": "RUPSLB Puradelta Lestari menyetujui pengunduran diri Atsushi Uehara sebagai Wakil Presiden Direktur dan mengangkat Shinji Yoneda sebagai penggantinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T18:39:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d23adf1924_acd5f39752.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMAS",
+  "tags": [
+   "DMAS",
+   "RUPSLB",
+   "Direksi",
+   "Puradelta Lestari"
+  ],
+  "body": [
+   "PT Puradelta Lestari Tbk (DMAS), pengembang kawasan industri Kota Deltamas, menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 22 September 2026 di Le Premier Hotel Kota Deltamas, Cikarang, Kabupaten Bekasi. Rapat memutuskan menyetujui perubahan susunan Dewan Direksi perusahaan, dengan menerima pengunduran diri Atsushi Uehara dari jabatan Wakil Presiden Direktur dan mengangkat Shinji Yoneda sebagai penggantinya.",
+   "\"RUPS Luar Biasa PT Puradelta Lestari Tbk telah memutuskan untuk menyetujui perubahan susunan Dewan Direksi,\" kata Tondy Suwanto, Direktur dan Sekretaris Perusahaan DMAS. Dengan keputusan ini, susunan Direksi DMAS yang baru menjadi: Hongky Jeffry Nantung sebagai Presiden Direktur, Shinji Yoneda sebagai Wakil Presiden Direktur, serta Monik William dan Tondy Suwanto masing-masing sebagai Direktur.",
+   "DMAS mengelola kawasan terpadu Kota Deltamas di Cikarang Pusat dengan luas pengembangan sekitar 3.200 hektare, yang mencakup area industri, hunian, dan komersial. Pemegang saham mayoritas sekaligus pengendali perusahaan adalah PT Sumber Arusmulia dengan 57,28 persen saham, bagian dari Sinar Mas Land, dan Sojitz Corporation dari Jepang dengan 25,00 persen saham."
+  ],
+  "fotoAdegan": "Wide paved road inside a landscaped industrial estate with warehouses and green buffer strips, soft morning light near Cikarang",
+  "takeaway": "Laporan ini netral bagi DMAS karena isinya murni pergantian pengurus di level direksi, tanpa ada perubahan pengendalian pemegang saham atau angka keuangan yang disebutkan. Pergantian Wakil Presiden Direktur tidak menyentuh ekuitas, arus kas, jumlah saham beredar, maupun laba per saham perusahaan, jadi dampaknya lebih ke arah tata kelola, yaitu siapa yang mengambil keputusan operasional sehari-hari, dan itu baru terasa pengaruhnya pada kinerja jika strategi perusahaan ikut berubah. Komposisi pemegang saham pengendali, yaitu Sumber Arusmulia dan Sojitz Corporation, tidak berubah, sehingga arah bisnis besar Kota Deltamas kemungkinan tetap berlanjut seperti sebelumnya. Yang perlu dipantau selanjutnya adalah bagaimana kinerja operasional Kota Deltamas pada laporan keuangan kuartal berikutnya setelah susunan direksi baru ini efektif sejak 22 September 2026, sebagai indikator awal apakah transisi kepemimpinan ini membawa perubahan strategi atau tidak.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bike-gelar-public-expose-insidentil-usai-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Gelar Public Expose Insidentil usai [Suspensi]",
+  "deck": "Bursa memerintahkan BIKE menggelar paparan publik insidentil pada Kamis, 24 September 2026, menyusul suspensi cooling down sahamnya sehari sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T18:27:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec0601cc0d_3ec761a437.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "Suspensi saham",
+   "Public Expose",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) akan menggelar Public Expose Insidentil secara daring melalui Zoom pada Kamis, 24 September 2026 pukul 15.00 WIB. Rapat ini digelar atas permintaan Bursa Efek Indonesia (BEI) yang disampaikan lewat surat elektronik pada 21 September 2026, menyusul pengumuman BEI Nomor Peng-SPT-00181/BEI.WAS/09-2026 tertanggal sama perihal penghentian sementara perdagangan saham BIKE atau suspensi cooling down.",
+   "Dalam suratnya kepada Direktur Utama BEI, Direktur Utama BIKE Erick Kusuma menyampaikan empat agenda yang akan dibahas: perkembangan kinerja dan operasional terkini perseroan beserta anak usahanya, ringkasan laporan keuangan terbaru, rencana usaha perseroan dan anak usaha ke depan, serta informasi material lain yang belum pernah diumumkan ke publik. Perseroan menyediakan tautan pendaftaran bagi investor yang ingin mengikuti sesi tersebut, dan tautan akses Zoom akan dikirim melalui email setelah registrasi.",
+   "Materi paparan publik itu sendiri baru akan dibagikan sehari sebelum acara, yakni Rabu, 23 September 2026. Laporan ini ditandatangani secara elektronik oleh Direktur BIKE, Winston Mulyadi, pada 22 September 2026 pukul 18.27 WIB."
+  ],
+  "fotoAdegan": "Small group of professionals watching an online video conference on a laptop in a modern Jakarta office, screen angled away, daytime light",
+  "takeaway": "Laporan ini netral bagi fundamental BIKE, karena isinya prosedural, memenuhi permintaan bursa untuk memberi penjelasan, bukan pengumuman kinerja atau aksi korporasi baru. Yang membuatnya penting adalah pemicunya: suspensi cooling down biasanya dijatuhkan bursa ketika harga saham bergerak tidak wajar dalam waktu singkat, sehingga bursa meminta perusahaan menjelaskan langsung apakah ada informasi material yang mendasarinya, termasuk soal kinerja operasional dan rencana usaha ke depan yang belum terungkap ke publik. Suspensi ini muncul empat hari setelah BIKE mengumumkan MoU investasi Rp1 triliun lewat anak usahanya PT Ratu Karya untuk pengembangan kawasan Pasar Minggu, sehingga pasar akan mencermati apakah paparan nanti memperkuat atau justru meluruskan optimisme yang sempat mendorong pergerakan sahamnya. Yang perlu dipantau adalah jalannya Public Expose Insidentil pada Kamis, 24 September 2026 pukul 15.00 WIB, serta materi presentasi yang dijanjikan beredar sehari sebelumnya pada 23 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mknt-terbitkan-saham-baru-investor-lama-terdilusi-ke-0-53",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Terbitkan Saham Baru, Investor Lama [Terdilusi] ke 0,53%",
+  "deck": "PMTHMETD MKNT menerbitkan 1,02 triliun saham baru senilai Rp1 per saham untuk tujuh pihak, termasuk PT Headwell Bintang Energi Hijau yang akan menguasai mayoritas saham perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T18:25:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/433e20a35b_07be089b7c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "PMTHMETD",
+   "dilusi saham",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk (MKNT) mengumumkan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) setelah mendapat restu Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 14 September 2026. Perseroan akan menerbitkan 1.024.490.000.000 saham seri B baru dengan nilai nominal dan harga pelaksanaan yang sama, yaitu Rp1 per saham, sehingga total dana yang masuk ke perseroan mencapai Rp1,02 triliun. Jumlah saham beredar akan melonjak dari 5,5 miliar lembar menjadi sekitar 1,03 triliun lembar, dan modal ditempatkan serta disetor penuh perseroan naik dari Rp110 miliar menjadi Rp1,134 triliun.",
+   "Saham baru itu akan diserap oleh tujuh pihak. PT Headwell Bintang Energi Hijau mengambil porsi terbesar, yaitu 668 miliar lembar, setara sekitar 64,9 persen dari total saham perseroan setelah transaksi selesai. Disusul PT Mantra Capital Persadan dengan 156,49 miliar lembar, lalu Suripto dan Antony Lesmana masing-masing 50 miliar lembar, serta Daniel Tejakusuma, Rossa Lina, dan Jhon Veter Firdaus masing-masing 25 miliar lembar. Dengan komposisi ini, porsi kepemilikan pemegang saham lama akan tersisa sekitar 0,53 persen dari seluruh saham perseroan.",
+   "Perseroan menyatakan penerbitan saham baru ini ditujukan untuk perbaikan posisi keuangan dan memperkuat struktur permodalan. Jadwalnya, penerbitan dan penyetoran saham baru dilakukan pada 30 September 2026, pencatatan saham baru hasil PMTHMETD di Bursa Efek Indonesia pada 1 Oktober 2026, dan pengumuman hasil pelaksanaan pada 2 Oktober 2026. Rencana ini menyusul RUPSLB yang juga mengganti seluruh jajaran direksi dan komisaris perseroan pada tanggal yang sama."
+  ],
+  "fotoAdegan": "Rows of server racks and tangled fiber-optic cables in a dim data center corridor, blinking status lights",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama karena penerbitan saham barunya begitu besar sehingga porsi kepemilikan mereka susut dari seluruhnya menjadi hanya sekitar 0,53 persen dari total saham perseroan setelah transaksi. Jumlah saham yang beredar melonjak dari 5,5 miliar menjadi sekitar 1,03 triliun lembar, sehingga laba per saham dan hak suara pemegang lama otomatis terdilusi tajam, sementara di sisi lain modal disetor perseroan bertambah dari Rp110 miliar menjadi lebih dari Rp1,13 triliun yang bisa memperbaiki posisi ekuitas kalau dana itu benar dipakai menutup kewajiban atau menambah modal kerja. PT Headwell Bintang Energi Hijau, yang mengambil 668 miliar dari total saham baru, berpotensi menjadi pemegang saham pengendali baru dengan porsi sekitar 64,9 persen dari total saham perseroan pasca transaksi. Yang perlu dipantau berikutnya adalah tanggal pencatatan saham baru di bursa pada 1 Oktober 2026 dan pengumuman resmi hasil pelaksanaan pada 2 Oktober 2026, termasuk apakah perubahan pengendali ini disertai perbaikan kinerja keuangan yang dijanjikan perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "zone-vanda-gunawan-tambah-kepemilikan-saham-jadi-12-37",
+  "category": "Aksi Korporasi",
+  "title": "ZONE: Vanda Gunawan Tambah [Kepemilikan] Saham Jadi 12,37%",
+  "deck": "Vanda Gunawan membeli 1,4 juta saham ZONE secara tidak langsung seharga Rp670 per lembar pada 11 September 2026, menaikkan hak suaranya dari 12,21% menjadi 12,37%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T18:22:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-0390-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZONE",
+  "tags": [
+   "ZONE",
+   "Mega Perintis",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Mega Perintis Tbk (ZONE) melaporkan perubahan kepemilikan saham oleh Vanda Gunawan, pemegang saham yang bukan anggota direksi maupun dewan komisaris perseroan. Dalam laporan kepada Otoritas Jasa Keuangan tertanggal 22 September 2026, Vanda Gunawan tercatat melakukan pembelian 1.400.000 lembar saham biasa ZONE secara tidak langsung, dengan harga Rp670 per lembar pada 11 September 2026. Total nilai transaksi ini sekitar Rp938 juta, dengan tujuan transaksi tercatat sebagai pembelian.",
+   "Dengan tambahan tersebut, kepemilikan Vanda Gunawan di ZONE naik dari 106.225.000 lembar saham menjadi 107.625.000 lembar saham. Hak suaranya di perseroan ikut naik dari 12,21% menjadi 12,37%. Jumlah tambahan saham ini setara dengan 1,318% dari kepemilikannya sebelum transaksi, sehingga posisinya sebagai salah satu pemegang saham dengan porsi signifikan di ZONE semakin menguat tipis."
+  ],
+  "fotoAdegan": "Warehouse staff folding and stacking casual clothing on metal shelves inside a busy garment distribution center, soft morning light",
+  "takeaway": "Laporan ini netral bagi ZONE, karena transaksinya adalah jual beli saham antarinvestor di pasar sekunder, bukan aliran dana baru ke kas perusahaan maupun penerbitan saham baru. Yang berubah hanya hak suara pribadi Vanda Gunawan, yaitu persentase kekuatan suaranya saat rapat pemegang saham, yang naik tipis dari 12,21% menjadi 12,37% karena penambahan 1,4 juta lembar saham. Pos kinerja perusahaan seperti ekuitas, arus kas, jumlah saham beredar, dan laba per saham tidak tersentuh sama sekali oleh transaksi ini. Yang perlu dipantau berikutnya adalah apakah Vanda Gunawan terus menambah kepemilikannya di laporan-laporan berikutnya, mengingat aturan OJK POJK 4/2024 mewajibkan pelaporan setiap kali ada perubahan kepemilikan saham perusahaan terbuka. Pola akumulasi bertahap semacam ini biasanya baru terlihat signifikan kalau berlangsung berulang dalam beberapa laporan berturut-turut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gsmf-tunda-jadwal-pmthmetd-tahap-ii-ke-kuartal-iv-2026",
+  "category": "Aksi Korporasi",
+  "title": "GSMF Tunda Jadwal [PMTHMETD] Tahap II ke Kuartal IV 2026",
+  "deck": "Equity Development Investment menggeser rencana penambahan modal tanpa hak memesan efek terlebih dahulu Tahap II dari akhir September ke kuartal IV 2026, tanpa mengubah nilai maupun pihak penyetor modal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T18:18:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/63cc82f5bc_de79129416.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GSMF",
+  "tags": [
+   "GSMF",
+   "PMTHMETD",
+   "penambahan modal",
+   "rights issue"
+  ],
+  "body": [
+   "Equity Development Investment Tbk (GSMF) menyesuaikan jadwal pelaksanaan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) Tahap II, dari rencana semula akhir September 2026 menjadi kuartal IV 2026. Penyesuaian ini disampaikan dalam keterbukaan informasi tertanggal 22 September 2026 yang ditandatangani Corporate Secretary Timothy Sulastyo. PMTHMETD ini merupakan rencana penambahan modal yang sudah diumumkan sejak 11 Juni 2026 dan disetujui dalam RUPSLB Independen pada 15 Juni 2026, dengan pelaksanaan dibagi dua tahap, yaitu Tahap I dan Tahap II.",
+   "Perseroan menjelaskan penyesuaian waktu ini dilakukan berdasarkan evaluasi lebih lanjut atas kebutuhan pendanaan dan tahapan pelaksanaan berbagai inisiatif perusahaan, dengan tujuan agar pengelolaan modal bisa berjalan lebih efektif dan optimal. GSMF menegaskan bahwa perubahan ini hanya menyangkut waktu pelaksanaan. Nilai penyetoran modal, pihak yang akan melakukan penyetoran, dan rencana penggunaan dana secara keseluruhan tetap mengacu pada keterbukaan informasi yang sudah disampaikan sebelumnya dan tidak dirinci ulang dalam dokumen ini.",
+   "Meski jadwalnya bergeser, pelaksanaan PMTHMETD Tahap II tetap harus berada dalam jangka waktu dua tahun sejak persetujuan RUPSLB Independen pada 15 Juni 2026, yang berarti batas akhirnya sekitar pertengahan 2028. Perseroan menyatakan penyesuaian jadwal ini tidak menimbulkan dampak material terhadap kegiatan operasional, kondisi keuangan, maupun kelangsungan usahanya, dan akan menyampaikan informasi lebih lanjut mengenai jadwal serta ketentuan pelaksanaan sesuai aturan OJK dan BEI yang berlaku."
+  ],
+  "fotoAdegan": "Wide view of glass office towers in Jakarta's financial district under a golden late afternoon sky, street traffic below",
+  "takeaway": "Laporan ini netral bagi GSMF karena yang berubah cuma waktu pelaksanaan, bukan nilai penyetoran modal, harga, atau pihak yang menyetor, dan perusahaan sendiri menyatakan tidak ada dampak material dari pergeseran ini. PMTHMETD adalah penerbitan saham baru tanpa memberi hak lebih dulu kepada pemegang saham lama untuk membelinya, sehingga begitu Tahap II benar-benar berjalan, jumlah saham beredar akan bertambah dan itu berpotensi mengecilkan laba per saham setiap pemegang saham lama, itu sebabnya pasar mengawasi tahapannya. Yang perlu dipantau berikutnya adalah apakah Tahap II benar terlaksana pada kuartal IV 2026 seperti jadwal baru ini, serta batas akhir pelaksanaan pada 15 Juni 2028 sesuai persetujuan RUPSLB, karena penundaan lebih lanjut bisa menjadi sinyal perusahaan masih mencari waktu atau investor yang tepat untuk masuk.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pnm-hadirkan-trauma-healing-bagi-nasabah-ntt-pascagempa",
   "category": "UMKM",
   "title": "PNM Hadirkan [Trauma Healing] bagi Nasabah NTT Pascagempa",
@@ -1020,6 +1149,32 @@ var ARTICLES = [
   "imageV": "mucadwrq"
  },
  {
+  "slug": "supr-protelindo-perpanjang-tender-sukarela-hingga-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "SUPR: Protelindo Perpanjang [Tender Sukarela] hingga 21 Oktober",
+  "deck": "Protelindo memperpanjang masa tender sukarela saham SUPR untuk kedua kalinya hingga 21 Oktober 2026, periode terakhir yang diizinkan aturan OJK, setelah 74,39% saham publik ikut serta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T11:40:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cbb1ba81a9_cf8b60d5c4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPR",
+  "tags": [
+   "SUPR",
+   "tender offer",
+   "go private",
+   "Protelindo"
+  ],
+  "body": [
+   "PT Solusi Tunas Pratama Tbk (SUPR) menyampaikan salinan pengumuman dari PT Profesional Telekomunikasi Indonesia (Protelindo) soal perpanjangan kedua masa penawaran tender sukarela atau voluntary tender offer (VTO) atas saham SUPR. Perpanjangan ini berlangsung selama 28 hari, mulai 24 September 2026 pukul 08.30 WIB hingga 21 Oktober 2026 pukul 16.00 WIB. Berdasarkan Peraturan OJK Nomor 54/2015, total masa pelaksanaan VTO paling lama 90 hari, sehingga periode kedua ini menjadi periode terakhir penawaran tender Protelindo atas saham SUPR.",
+   "Harga penawaran tetap sama seperti sebelumnya, yaitu Rp45.000 per saham. Pemegang saham publik yang ingin ikut serta wajib melengkapi dan menyerahkan dokumen ke perusahaan sekuritas atau bank kustodian masing-masing paling lambat 21 Oktober 2026 pukul 16.00 WIB, dengan pembayaran kepada peserta dilakukan paling lambat 2 November 2026. Sampai dengan 21 September 2026 pukul 16.00 WIB, tercatat 80 pemegang saham publik yang telah berpartisipasi, mewakili 729.102 saham atau setara 74,39 persen dari total saham publik SUPR.",
+   "Protelindo menyatakan pelaksanaan VTO ini merupakan bentuk perlindungan hak pemegang saham publik sesuai POJK 45/2024, sekaligus terkait rencana go private dan delisting SUPR dari bursa. Jika perseroan nantinya memenuhi syarat dan mendapat persetujuan OJK serta Bursa Efek Indonesia untuk rencana tersebut, pemegang saham publik yang tidak ikut serta dalam VTO ini akan tetap menjadi pemegang saham di perusahaan berstatus tertutup, alias tidak lagi tercatat di bursa. Informasi lebih lanjut dapat diperoleh melalui biro administrasi efek PT Raya Saham Registra atau perusahaan sekuritas PT Bahana Sekuritas yang ditunjuk dalam proses ini."
+  ],
+  "fotoAdegan": "Telecommunication towers standing on a green hillside in rural Indonesia, a technician checking equipment at the base, late afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental SUPR karena hanya memperpanjang jadwal proses tender offer yang sudah berjalan, dengan harga dan syarat yang sama seperti sebelumnya, sehingga tidak ada perubahan langsung pada kinerja keuangan perusahaan. Yang tersentuh adalah komposisi pemegang saham publik atau free float, karena 74,39 persen saham publik sudah dilepas ke Protelindo per 21 September 2026, sehingga saham SUPR yang beredar bebas di pasar berpotensi makin menyusut dan memengaruhi likuiditas perdagangannya. Perlu dicatat, perpanjangan kedua ini adalah periode terakhir yang diizinkan, karena aturan OJK membatasi total masa tender offer maksimal 90 hari sejak dimulai. Yang perlu dipantau berikutnya adalah batas akhir partisipasi pada 21 Oktober 2026 pukul 16.00 WIB, pembayaran kepada peserta yang paling lambat dilakukan 2 November 2026, serta kelanjutan proses persetujuan OJK dan Bursa Efek Indonesia atas rencana go private, yaitu perusahaan keluar dari status perusahaan publik dan sahamnya tidak lagi diperdagangkan di bursa (delisting).",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pbsa-rombak-nilai-saham-lewat-stock-split-ke-rp25",
   "category": "Aksi Korporasi",
   "title": "PBSA Rombak Nilai Saham Lewat [Stock Split] ke Rp25",
@@ -1043,6 +1198,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Bulldozer grading a wide reddish brown haul road through a Kalimantan coal mining site, misty morning light, no signage visible",
   "takeaway": "Keputusan RUPSLB ini netral bagi fundamental Paramita Bangun Sarana, sebab stock split cuma memecah nilai nominal saham dan tidak mengubah ekuitas, kas, atau laba perusahaan sama sekali. Yang berubah adalah jumlah saham beredar, yang berpotensi naik dua kali lipat seiring nominal per saham turun dari Rp50 menjadi Rp25, sehingga laba per saham akan tercatat lebih kecil secara nominal meski porsi kepemilikan tiap pemegang saham tidak berkurang. Langkah semacam ini lazim dipakai emiten untuk membuat harga saham per lembar lebih terjangkau bagi investor ritel dan menambah likuiditas perdagangan, tanpa mengubah nilai fundamental perusahaan. Yang perlu dipantau berikutnya adalah proses pengesahan perubahan Pasal 4 Anggaran Dasar oleh Kementerian Hukum dan HAM serta jadwal resmi pelaksanaan stock split yang baru akan ditetapkan Direksi sesuai ketentuan OJK dan BEI, karena RUPSLB baru memberi kuasa dan belum menetapkan tanggal efektifnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "prtl-perpanjang-tender-saham-solusi-tunas-pratama-terakhir",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Perpanjang Tender Saham Solusi Tunas Pratama, [Terakhir]",
+  "deck": "Protelindo memperpanjang untuk kedua kalinya masa penawaran tender sukarela atas saham Solusi Tunas Pratama hingga 21 Oktober 2026, periode terakhir yang diizinkan aturan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T11:09:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03f82f6c17_4e956c9f33.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRTL",
+  "tags": [
+   "PRTL",
+   "tender offer",
+   "Solusi Tunas Pratama",
+   "delisting"
+  ],
+  "body": [
+   "PT Profesional Telekomunikasi Indonesia (PRTL) menyampaikan kepada OJK dan Bursa Efek Indonesia bahwa perusahaan memperpanjang untuk kedua kalinya masa penawaran tender sukarela atas saham PT Solusi Tunas Pratama Tbk. Laporan ditandatangani Corporate Secretary PRTL, Monalisa Irawan, pada 22 September 2026. Harga penawaran tetap sama seperti yang diumumkan sejak 23 Juli 2026, yaitu Rp45.000 per saham. Perpanjangan kedua ini berlangsung 28 hari, mulai 24 September 2026 pukul 08.30 WIB hingga 21 Oktober 2026 pukul 16.00 WIB. Karena POJK 54/2015 membatasi total masa penawaran tender maksimal 90 hari, periode ini merupakan perpanjangan terakhir yang bisa diberikan.",
+   "Sampai dengan 21 September 2026 pukul 16.00 WIB, yaitu hari kerja terakhir sebelum perpanjangan ini diumumkan, sebanyak 80 pemegang saham publik telah ikut serta dalam penawaran tender, mewakili 729.102 saham atau 74,39 persen dari total saham publik Solusi Tunas Pratama. Pemegang saham publik yang ingin ikut serta pada periode perpanjangan wajib melengkapi dan menyerahkan dokumen yang dipersyaratkan kepada perusahaan sekuritas atau bank kustodian masing-masing paling lambat 21 Oktober 2026 pukul 16.00 WIB. Pembayaran harga penawaran kepada peserta akan dilakukan paling lambat 2 November 2026. Administrasi penawaran ditangani oleh PT Raya Saham Registra sebagai biro administrasi efek dan PT Bahana Sekuritas sebagai perusahaan efek.",
+   "Penawaran tender ini merupakan bagian dari rencana go private dan delisting Solusi Tunas Pratama. Dalam dokumen disebutkan, jika Solusi Tunas Pratama memenuhi syarat dan mendapat persetujuan dari OJK serta BEI terkait rencana tersebut, pemegang saham publik yang tidak ikut serta dalam penawaran tender ini akan tetap menjadi pemegang saham di perusahaan yang sudah tidak lagi tercatat di bursa."
+  ],
+  "fotoAdegan": "Technicians in safety harnesses inspecting a steel telecommunication tower against a bright sky in a suburban Indonesian town",
+  "takeaway": "Perpanjangan ini bersifat netral bagi Protelindo karena hanya menambah waktu tanpa mengubah harga Rp45.000 per saham maupun syarat penawaran yang sudah diumumkan sejak Juli. Yang tersentuh adalah arus kas Protelindo ke depan, karena perusahaan harus menyiapkan dana tunai untuk membayar setiap saham publik Solusi Tunas Pratama yang ikut serta, sementara partisipasi baru mencapai 74,39 persen dari saham publik sehingga total dana yang harus dikeluarkan masih bisa bertambah pada periode terakhir ini. Pelaku pasar juga mencermati kelanjutan rencana go private dan delisting Solusi Tunas Pratama, yaitu rencana keluarnya saham itu dari pencatatan bursa jika seluruh syarat regulator terpenuhi. Yang perlu dipantau berikutnya adalah batas akhir penyerahan dokumen partisipasi pada 21 Oktober 2026 pukul 16.00 WIB, sebab setelah tanggal itu tidak ada perpanjangan lagi sesuai batas maksimal 90 hari dalam POJK 54/2015, dan dilanjutkan dengan pembayaran kepada peserta paling lambat 2 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbyb-jadwalkan-rupslb-pada-29-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BBYB Jadwalkan [RUPSLB] pada 29 Oktober 2026",
+  "deck": "Bank Neo Commerce mengumumkan rencana RUPSLB 29 Oktober 2026, lengkap dengan tenggat usul agenda pemegang saham dan tanggal pencatatan pemegang saham yang berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T11:07:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f7378ecd17_e9af4af860.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBYB",
+  "tags": [
+   "BBYB",
+   "RUPSLB",
+   "Bank Neo Commerce",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Neo Commerce Tbk (BBYB) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 29 Oktober 2026 pukul 14.00 WIB, bertempat di kantor perseroan, Gedung Pacific Century Place lantai 23, Jakarta. Pengumuman ini merujuk pada surat sebelumnya bernomor 046/BNC-Tbk/E-Report/IDX/IX/2026 dan ditandatangani Heru Sulistiadhi selaku Head of Corporate Secretary pada 22 September 2026. Agenda atau tujuan RUPSLB belum diungkapkan dalam dokumen ini karena, sesuai Peraturan OJK No.15/POJK.04/2020, mata acara rapat baru akan dimuat dalam surat pemanggilan resmi.",
+   "Perseroan menetapkan bahwa pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang tercatat sah di Biro Administrasi Efek PT Ficomindo Buana Registrar, atau tercatat di sub rekening efek KSEI, hingga Selasa, 6 Oktober 2026 pukul 16.00 WIB. Pemanggilan resmi RUPSLB, yang akan memuat agenda rapat, dijadwalkan diumumkan melalui situs Bursa Efek Indonesia, KSEI, dan situs perseroan pada Rabu, 7 Oktober 2026. Pemegang saham yang mewakili minimal 1/20 dari total saham dengan hak suara berhak mengusulkan mata acara rapat, dengan syarat usulan tertulis disertai alasan sudah diterima direksi paling lambat Rabu, 30 September 2026, yakni tujuh hari sebelum tanggal pemanggilan.",
+   "Perseroan juga menghimbau pemegang saham untuk hadir dan memberikan suara secara elektronik melalui fasilitas Electronic General Meeting System KSEI (eASY.KSEI). Fasilitas ini akan tersedia sejak tanggal pemanggilan hingga Rabu, 28 Oktober 2026 pukul 12.00 WIB, atau sehari sebelum RUPSLB berlangsung."
+  ],
+  "fotoAdegan": "Glass-fronted office tower in Jakarta's central business district seen from street level, taxis passing in the foreground, late afternoon light",
+  "takeaway": "Penilaian: netral, sebab dokumen ini baru memberitahukan jadwal dan mekanisme RUPSLB, sementara agenda rapat yang sesungguhnya belum diungkapkan sehingga belum ada dasar untuk menilai dampaknya terhadap kinerja perusahaan. RUPSLB pada emiten biasanya jadi forum untuk meminta persetujuan pemegang saham atas aksi korporasi yang bisa menyentuh pos seperti jumlah saham beredar atau struktur permodalan, sehingga wajar bila pelaku pasar menahan penilaian sampai agenda resminya keluar. Yang perlu dipantau berikutnya adalah pengumuman pemanggilan resmi pada Rabu, 7 Oktober 2026, yang menurut aturan OJK wajib sudah memuat mata acara rapat, serta pelaksanaan RUPSLB itu sendiri pada Kamis, 29 Oktober 2026.",
   "sentimen": "netral"
  },
  {
@@ -1147,6 +1354,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rows of cargo trucks parked at a logistics depot in Indonesia during early morning, drivers checking tires before departure",
   "takeaway": "Laporan ini netral bagi fundamental Guna Timur Raya karena transaksinya berupa pengalihan kepemilikan tidak langsung lewat repurchase agreement antar pemegang saham, bukan penerbitan saham baru yang mengalirkan dana segar ke kas perusahaan. Yang tersentuh hanya struktur hak suara, bukan jumlah saham beredar perusahaan secara keseluruhan; karena saham yang berpindah tangan berjenis hak suara multiple, pengaruh HAKIMSON GROWTH CAPITAL terhadap keputusan RUPS berpotensi lebih besar daripada sekadar angka 5 persen kepemilikan ekonomisnya. Pasar perlu mencermati apakah pelapor ini terafiliasi dengan pemegang saham baru lain yang pada hari yang sama juga dilaporkan menguasai 15 persen hak suara TRUK, sebab jika keduanya satu kelompok, porsi gabungan bisa mendekati level yang biasanya memicu kewajiban keterbukaan tambahan. Yang perlu dipantau berikutnya adalah kemungkinan laporan susulan dari KSEI atau keterbukaan informasi dari TRUK yang menjelaskan hubungan antar pemegang saham baru ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "untr-tambah-saham-di-sma-rp9-5-m-transaksi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Tambah Saham di SMA Rp9,5 M, Transaksi [Afiliasi]",
+  "deck": "Anak usaha UNTR, DTN dan ASPR, menambah kepemilikan saham di PT Stargate Mineral Asia senilai total Rp9,5 miliar untuk menjaga porsi kepemilikan dan memenuhi modal kerja SMA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T10:41:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d62d8c982_aa9c54996d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "Transaksi Afiliasi",
+   "Stargate Mineral Asia",
+   "Tambang"
+  ],
+  "body": [
+   "PT United Tractors Tbk (UNTR) melaporkan transaksi afiliasi berupa peningkatan kepemilikan saham dua anak usahanya, PT Danusa Tambang Nusantara (DTN) dan PT Anugerah Surya Pacific Resources (ASPR), di PT Stargate Mineral Asia (SMA). Transaksi ini berlangsung pada 18 September 2026 dengan nilai total Rp9,5 miliar, setelah Kementerian Hukum menerbitkan surat persetujuan perubahan anggaran dasar SMA pada tanggal yang sama sehingga peningkatan kepemilikan itu langsung berlaku efektif.",
+   "Dalam transaksi tersebut, DTN menambah 6.650 lembar saham SMA senilai Rp6,65 miliar, sementara ASPR menambah 2.850 lembar saham senilai Rp2,85 miliar. Setelah penambahan ini, kepemilikan DTN di SMA menjadi 8.750 lembar saham atau senilai Rp8,75 miliar, sedangkan ASPR memiliki 3.750 lembar saham senilai Rp3,75 miliar. UNTR menyatakan penambahan modal ini dilakukan untuk memenuhi kebutuhan modal kerja SMA sekaligus mempertahankan porsi kepemilikan DTN dan ASPR di perusahaan tersebut.",
+   "DTN sepenuhnya dimiliki UNTR baik langsung maupun tidak langsung, sedangkan ASPR 66,67 persen sahamnya dimiliki UNTR secara tidak langsung melalui DTN. Hubungan afiliasi juga tampak dari kesamaan manajemen: Presiden Direktur UNTR Iwan Hadiantoro menjabat Presiden Komisaris DTN, Direktur UNTR Hendra Hutahean merangkap Komisaris DTN, Presiden Komisaris ASPR, dan Presiden Komisaris SMA, sementara Direktur UNTR Vilihati Surya merangkap Komisaris ASPR dan Komisaris SMA. UNTR menegaskan transaksi ini bukan transaksi benturan kepentingan dan tidak memenuhi ambang batas transaksi material menurut POJK 17/2020, sehingga cukup diumumkan sebagai keterbukaan informasi ke publik dan Otoritas Jasa Keuangan sesuai POJK 42/2020, tanpa memerlukan persetujuan pemegang saham independen."
+  ],
+  "fotoAdegan": "Mining excavator loading ore onto a haul truck at an open-pit site, dust in the air, tropical daylight",
+  "takeaway": "Transaksi ini tergolong netral bagi UNTR karena nilainya, Rp9,5 miliar, sangat kecil dibandingkan skala aset dan pendapatan UNTR yang mencapai puluhan triliun rupiah, sehingga bukan sinyal perubahan arah bisnis melainkan sekadar penambahan modal kerja rutin untuk anak usaha tambang. Dampaknya ada di pos investasi dan arus kas UNTR, sebab dana Rp9,5 miliar itu keluar sebagai penyertaan modal ke SMA lewat DTN dan ASPR, bukan pinjaman, sehingga tidak menambah beban bunga tapi memperbesar nilai investasi UNTR di sektor mineral. Yang perlu dicermati adalah kelanjutan kebutuhan modal kerja SMA, sebab penyertaan modal semacam ini bisa berulang kalau operasi tambangnya belum menghasilkan kas sendiri, dan investor bisa memantau apakah ada keterbukaan informasi serupa dengan nilai yang membesar di periode berikutnya.",
   "sentimen": "netral"
  },
  {

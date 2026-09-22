@@ -3,6 +3,343 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "vici-jadwalkan-rupslb-pada-29-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "VICI Jadwalkan [RUPSLB] pada 29 Oktober 2026",
+  "deck": "Victoria Care Indonesia mengumumkan RUPSLB 29 Oktober 2026, dengan batas usulan pemegang saham 30 September dan pencatatan pemegang saham 6 Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T14:56:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac2f1dccd8_6d938c8943.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "RUPSLB",
+   "Victoria Care Indonesia",
+   "Pasar Modal"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 29 Oktober 2026 pukul 10.00 WIB. Lokasi rapat belum diumumkan dan akan disampaikan bersamaan dengan surat pemanggilan resmi. Pemegang saham yang berhak hadir atau diwakili adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Selasa, 6 Oktober 2026 pukul 16.00 WIB.",
+   "Sesuai Pasal 52 ayat 1 POJK No.15/POJK.04/2020, pemanggilan resmi RUPSLB berikut mata acara lengkapnya baru akan diumumkan pada Rabu, 7 Oktober 2026, melalui sistem Electronic General Meeting System milik Kustodian Sentral Efek Indonesia (eASY.KSEI), situs Bursa Efek Indonesia, dan situs perusahaan. Dokumen pemberitahuan ini sendiri belum memuat agenda atau mata acara rapat.",
+   "Perseroan juga membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat usulan tersebut memenuhi ketentuan Pasal 16 POJK No.15/POJK.04/2020 dan disampaikan kepada Direksi paling lambat tujuh hari sebelum pemanggilan, yaitu Rabu, 30 September 2026. Surat pemberitahuan ditandatangani oleh Direktur Erwan Irawan Noer, sementara surat pengantar ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia ditandatangani oleh Corporate Secretary Alfonsa Sheila Widyatna."
+  ],
+  "fotoAdegan": "Workers arranging bottled personal care products along a factory conveyor belt, bright fluorescent lighting, quality checks underway",
+  "takeaway": "Laporan ini netral bagi fundamental VICI, karena isinya baru sebatas jadwal prosedural RUPSLB, sedangkan mata acara yang akan dibahas belum diungkap sama sekali dalam dokumen ini. Tanpa agenda, belum bisa dinilai pos kinerja mana yang bakal tersentuh, apakah ini terkait susunan pengurus setelah komisaris independen mengundurkan diri pekan lalu, atau restu pemegang saham atas rencana akuisisi Secret Garden yang baru dipaparkan dalam public expose. Yang perlu dipantau adalah pemanggilan resmi pada 7 Oktober 2026, yang seharusnya memuat mata acara lengkap RUPSLB, serta batas waktu usulan pemegang saham pada 30 September 2026 bagi yang ingin menambahkan agenda.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cybr-pemegang-saham-asing-mb-investment-jual-292-400-saham",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Pemegang Saham Asing MB Investment [Jual] 292.400 Saham",
+  "deck": "MB Investment Management Pte Ltd melepas 292.400 saham ITSEC Asia (CYBR) senilai sekitar Rp150,5 juta dalam dua transaksi pekan ini, menyisakan hak suara 26,18 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T14:53:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6817-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "pemegang saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "MB Investment Management Pte Ltd, pemegang saham asing PT ITSEC Asia Tbk (CYBR) yang bukan berasal dari jajaran direksi atau komisaris, melaporkan ke Otoritas Jasa Keuangan bahwa kepemilikannya di perusahaan berkurang dari 3.531.304.014 saham menjadi 3.531.011.614 saham, atau turun 292.400 saham. Hak suaranya di CYBR bergeser tipis dari 26,189 persen menjadi 26,18 persen. Laporan bernomor LK/22092026/0006/1 ini disampaikan pada 22 September 2026 sesuai kewajiban pelaporan kepemilikan saham perusahaan terbuka berdasarkan POJK Nomor 4/2024.",
+   "Pengurangan itu berasal dari dua transaksi penjualan saham secara tidak langsung. Pada 18 September 2026, MB Investment menjual 92.400 saham biasa CYBR di harga Rp525 per saham, disusul penjualan 200.000 saham pada 21 September 2026 di harga Rp510 per saham. Dokumen mencantumkan tujuan kedua transaksi tersebut sebagai investasi lainnya, dengan total nilai penjualan sekitar Rp150,5 juta."
+  ],
+  "fotoAdegan": "Technicians working among humming server racks in a dim data center, blue status lights, Jakarta at night.",
+  "takeaway": "Laporan ini netral bagi ITSEC Asia karena pelepasan 292.400 saham oleh MB Investment Management Pte Ltd hanya setara 0,0083 persen dari kepemilikannya, dan hak suaranya di perusahaan nyaris tidak bergeser dari 26,189 persen menjadi 26,18 persen. Yang tersentuh di sini adalah komposisi pemegang saham utama, bukan jumlah saham beredar perusahaan, sebab transaksi ini cuma perpindahan kepemilikan antar investor di pasar sekunder, bukan penerbitan saham baru oleh emiten. Pelaku pasar tetap memantau pergerakan MB Investment karena statusnya sebagai salah satu pemegang saham terbesar CYBR dengan porsi lebih dari seperempat perusahaan, sehingga polanya bisa jadi indikator sentimen investor asing. Yang perlu dipantau berikutnya adalah apakah penjualan bertahap seperti ini berlanjut di laporan-laporan kepemilikan saham selanjutnya, karena dokumen ini sendiri tidak menyebut agenda korporasi lain seperti RUPS atau tenggat tertentu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-830-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 830.000 saham",
+  "deck": "Edwin Soeryadjaya menambah kepemilikan saham Saratoga Investama Sedaya lewat dua transaksi pembelian pada 18 dan 21 September 2026, menaikkan hak suaranya tipis ke 35,9503 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T14:43:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8437-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "kepemilikan saham",
+   "Edwin Soeryadjaya"
+  ],
+  "body": [
+   "Dewan Komisaris PT Saratoga Investama Sedaya Tbk (SRTG), Edwin Soeryadjaya, melaporkan penambahan kepemilikan saham perusahaan kepada Otoritas Jasa Keuangan pada 22 September 2026. Jumlah sahamnya naik dari 4.875.769.190 lembar menjadi 4.876.599.190 lembar, atau bertambah 830.000 lembar. Hak suaranya di perseroan naik tipis dari 35,9442 persen menjadi 35,9503 persen.",
+   "Penambahan itu berasal dari dua transaksi pembelian tidak langsung. Pada 18 September 2026, Edwin membeli 340.000 saham biasa dengan harga Rp1.782 per saham. Tiga hari berikutnya, pada 21 September 2026, ia kembali membeli 490.000 saham biasa dengan harga Rp1.805 per saham. Kedua transaksi tersebut, menurut laporan yang disampaikan, bertujuan untuk investasi."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's financial district, afternoon haze, cars passing below",
+  "takeaway": "Laporan ini netral bagi SRTG, sebab penambahan 830.000 saham hanya setara 0,017 persen dari kepemilikan Edwin Soeryadjaya sebelumnya, sehingga hak suaranya nyaris tidak bergeser dan terlalu kecil untuk dibaca sebagai pernyataan sikap terhadap prospek perusahaan. Yang tersentuh di sini cuma komposisi pemegang saham pengendali, bukan pos kinerja keuangan seperti ekuitas atau laba per saham, karena transaksi ini murni jual beli saham di pasar sekunder antar investor, bukan penerbitan saham baru oleh perusahaan. Yang perlu dipantau adalah apakah pola pembelian bertahap dalam jumlah kecil seperti ini, yang juga tercatat pada laporan sebelumnya tanggal 18 September 2026, terus berlanjut dalam laporan-laporan berikutnya, karena akumulasi dari waktu ke waktu baru akan terlihat jelas dampaknya bila terjadi berulang kali.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "euro-rombak-direksi-restui-rights-issue-2-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "EURO Rombak Direksi, Restui [Rights Issue] 2 Miliar Saham",
+  "deck": "Pemegang saham EURO merestui rights issue hingga 2 miliar saham baru, penambahan komisaris dan direksi baru, serta perubahan klasifikasi usaha dalam RUPSLB 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T14:39:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/879cf3428e_8ddf859998.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EURO",
+  "tags": [
+   "EURO",
+   "rights issue",
+   "RUPSLB",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Estee Gold Feet Tbk (EURO) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 18 September 2026 di Jakarta Selatan. Rapat dihadiri pemegang saham yang mewakili 2.096.978.420 saham, atau 82,27 persen dari total 2.548.826.428 saham perusahaan yang beredar, sehingga memenuhi syarat kuorum. Seluruh empat agenda rapat disetujui dengan suara bulat, tanpa ada pemegang saham yang menolak atau abstain.",
+   "Agenda utama rapat adalah persetujuan rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD I), yaitu penerbitan saham baru dengan skema rights issue. Perseroan mendapat restu untuk menerbitkan saham baru sebanyak-banyaknya 2.000.000.000 lembar dengan nilai nominal Rp5 per saham. Dalam skema ini, pemegang saham lama berhak membeli lebih dulu saham baru itu secara proporsional sesuai porsi kepemilikannya. Rapat juga memberi kuasa penuh kepada direksi, dengan persetujuan dewan komisaris, untuk menentukan sejumlah hal teknis yang belum diputuskan saat ini, yaitu harga pelaksanaan, rasio saham, tanggal daftar pemegang saham yang berhak, jadwal penawaran, hingga rencana penggunaan dana hasil rights issue.",
+   "Rapat juga menyetujui perombakan susunan pengurus. Darren Nathaniel Tandra diberhentikan dengan hormat dari jabatan Komisaris Independen, dan pada saat bersamaan diangkat sebagai Direktur baru Perseroan. Kursi Komisaris Independen yang ditinggalkannya diisi oleh Dionisius Indri Priyobodo. Dengan perubahan ini, susunan Dewan Komisaris EURO menjadi Sumadi Rusli sebagai Komisaris Utama dan Dionisius Indri Priyobodo sebagai Komisaris Independen, sementara jajaran Direksi menjadi Marianti Hidayat sebagai Direktur Utama, didampingi Suryati dan Darren Nathaniel Tandra sebagai Direktur.",
+   "Agenda terakhir adalah persetujuan perubahan Pasal 3 Anggaran Dasar Perseroan mengenai maksud, tujuan, dan kegiatan usaha, untuk disesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025) yang diterbitkan Badan Pusat Statistik. Direksi diberi kuasa mengurus seluruh proses persetujuan perubahan anggaran dasar ini ke Kementerian Hukum."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with rows of chairs around a long table, floor-to-ceiling windows overlooking Jakarta's skyline, soft morning light.",
+  "takeaway": "Rencana ini netral cenderung perlu diwaspadai bagi pemegang saham EURO, sebab jumlah saham baru yang disetujui, sebanyak-banyaknya 2 miliar lembar, setara hampir 79 persen dari total saham yang sudah beredar, sementara harga pelaksanaan dan rencana penggunaan dananya belum ditentukan dan diserahkan sepenuhnya ke direksi. Yang tersentuh adalah jumlah saham beredar, kalau seluruh jatah rights issue terserap maka laba perusahaan akan dibagi ke basis saham yang jauh lebih besar sehingga laba per saham berpotensi terdilusi, meski di sisi lain modal atau ekuitas perusahaan bertambah dari dana segar yang masuk. Pemegang saham lama sebenarnya diberi hak lebih dulu untuk membeli saham baru ini secara proporsional, sehingga dilusi sebenarnya hanya menimpa mereka yang memilih tidak memakai haknya. Yang perlu dipantau berikutnya adalah pernyataan pendaftaran rights issue ini ke OJK serta prospektus yang akan mengungkap harga pelaksanaan, rasio pembagian saham baru, dan jadwal resminya, karena RUPSLB ini baru memberi restu payung, bukan rincian pelaksanaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtfn-raih-opini-kualifikasian-atas-laporan-keuangan-2025",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Raih Opini [Kualifikasian] atas Laporan Keuangan 2025",
+  "deck": "Auditor memberi opini kualifikasian atas laporan keuangan 2025 MTFN karena pengungkapan ketidakpastian usaha tiga entitas anak yang akan dilepas dinilai belum memadai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T14:33:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/be7c1ab721_bb816ae05e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTFN",
+  "tags": [
+   "MTFN",
+   "opini kualifikasian",
+   "laporan keuangan",
+   "Capitalinc Investment"
+  ],
+  "body": [
+   "PT Capitalinc Investment Tbk (MTFN) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia terkait opini Kualifikasian atau Wajar Dengan Pengecualian yang diberikan auditor independen atas laporan keuangan konsolidasian tahun 2025. Penjelasan ini wajib disampaikan sesuai Peraturan BEI No. I-E butir III.I.I.7 setiap kali laporan keuangan auditan perusahaan tercatat memperoleh opini kualifikasian. Opini tersebut berkaitan dengan tiga entitas anak yang diklasifikasikan sebagai kelompok aset yang dimiliki untuk dijual, yaitu Greenstar Assets Limited (GSAL), PT Cahaya Batu Raja Blok (CBRB), dan PT Kutai Etam Petroleum (KEP).",
+   "Menurut surat yang ditandatangani Corporate Secretary Gideon Tampubolon, auditor independen menilai kondisi keuangan ketiga entitas anak tersebut menunjukkan ketidakpastian material atas kemampuan mereka mempertahankan kelangsungan usaha. Masalahnya bukan pada besaran angka, melainkan pada pengungkapan: laporan keuangan konsolidasian dinilai belum memadai dalam menjelaskan sifat dan dampak ketidakpastian itu. Surat tersebut juga menegaskan bahwa bagian basis opini tidak mencantumkan penyesuaian nominal tertentu terhadap pos-pos laporan keuangan, sehingga masalahnya murni soal kelengkapan penjelasan, bukan koreksi angka.",
+   "Manajemen menyatakan akan meningkatkan kecukupan pengungkapan pada laporan keuangan berikutnya, memastikan kepatuhan terhadap Standar Akuntansi Keuangan, terus berkoordinasi dengan pihak terkait, serta mempercepat proses divestasi GSAL, CBRB, dan KEP. Auditor sendiri menegaskan bahwa di luar isu tersebut, laporan keuangan konsolidasian per 31 Desember 2025 menyajikan secara wajar posisi keuangan, kinerja, dan arus kas Grup sesuai Standar Akuntansi Keuangan di Indonesia."
+  ],
+  "fotoAdegan": "Silhouettes of oil pump jacks scattered across a flat grassy field at dusk in rural East Kalimantan, distant hills",
+  "takeaway": "Laporan ini condong negatif bagi Capitalinc Investment karena auditor secara eksplisit menyebut pengungkapan soal risiko kelangsungan usaha tiga anak perusahaan belum memadai, sesuatu yang jarang muncul dalam opini audit dan berarti ada risiko yang belum sepenuhnya terbuka ke investor. Yang tersentuh adalah keandalan nilai aset di neraca, karena Greenstar Assets Limited, PT Cahaya Batu Raja Blok, dan PT Kutai Etam Petroleum sudah digolongkan sebagai aset yang akan dijual, tetapi auditor meragukan kemampuan ketiganya bertahan sebagai usaha yang berjalan sementara dampaknya ke laporan keuangan tidak dijelaskan secara rinci. Opini kualifikasian sendiri berarti auditor menilai laporan keuangan secara keseluruhan tetap wajar, kecuali untuk satu masalah spesifik ini, jadi bukan penolakan total atas laporan keuangan perusahaan. Yang perlu dipantau selanjutnya adalah kelanjutan proses divestasi ketiga entitas anak tersebut, yang menurut manajemen akan dipercepat, serta apakah laporan keuangan periode berikutnya sudah memuat pengungkapan yang cukup rinci untuk menghilangkan pengecualian ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inaf-jadwalkan-rupslb-pada-29-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "INAF Jadwalkan [RUPSLB] pada 29 Oktober 2026",
+  "deck": "Indofarma mengumumkan RUPSLB digelar 29 Oktober 2026, dengan tenggat usulan agenda pemegang saham 30 September dan pencatatan pemegang saham 6 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T14:25:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1b128e2100_6f3099728d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INAF",
+  "tags": [
+   "INAF",
+   "RUPSLB",
+   "Indofarma",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Indofarma (Persero) Tbk melalui surat resmi nomor 0934/DIR/IX/2026 mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 29 Oktober 2026 pukul 14.00 WIB, di lokasi yang dalam dokumen tercatat sebagai IHLI Bio Farma Group. Pemanggilan resmi rapat, yang akan memuat agenda lengkap, dijadwalkan disampaikan pada 7 Oktober 2026 melalui platform eASY.KSEI, situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs resmi Indofarma.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan, termasuk pemilik saldo saham di rekening efek KSEI, per penutupan perdagangan pada 6 Oktober 2026. Sesuai Pasal 16 POJK Nomor 15/2020, pemegang saham yang mewakili minimal 1/20 atau 5 persen dari seluruh saham berhak suara, atau pemegang Saham Seri A Dwiwarna, yaitu saham khusus milik negara yang membawa hak veto, berhak mengusulkan mata acara RUPSLB. Usulan wajib disampaikan tertulis kepada Direksi paling lambat 30 September 2026, tujuh hari sebelum tanggal pemanggilan, disertai alasan dan bahan pendukung.",
+   "Dokumen pengumuman ini belum mencantumkan agenda RUPSLB. Rincian mata acara rapat baru akan diketahui publik bersamaan dengan pemanggilan resmi pada 7 Oktober 2026."
+  ],
+  "fotoAdegan": "Pharmaceutical factory workers in white coats inspecting medicine packaging on a production line, bright sterile lighting",
+  "takeaway": "Pengumuman ini netral bagi Indofarma karena baru berisi jadwal dan syarat administratif RUPSLB, belum ada keputusan atau agenda yang berdampak langsung ke kondisi keuangan perusahaan. Dokumen ini belum menyentuh pos kinerja seperti ekuitas, jumlah saham beredar, atau laba per saham, sebab agenda rapat memang belum diungkap, padahal RUPSLB kerap jadi wadah keputusan yang bisa memengaruhi pos-pos itu, misalnya penambahan modal atau perubahan struktur kepemilikan. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 7 Oktober 2026 yang akan membuka agenda lengkap rapat, tenggat pengajuan usulan mata acara oleh pemegang saham pada 30 September 2026, dan pelaksanaan RUPSLB itu sendiri pada 29 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pipa-69-dana-ipo-berakhir-jadi-cadangan-kerugian",
+  "category": "Aksi Korporasi",
+  "title": "PIPA: 69% Dana IPO Berakhir Jadi Cadangan [Kerugian]",
+  "deck": "Koreksi LRPD PIPA menunjukkan Rp64,55 miliar dari dana IPO, atau 68,85% dari total, berakhir sebagai cadangan kerugian penurunan nilai, bukan untuk ekspansi pabrik seperti rencana awal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T14:06:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac52858693_0e29b84b2e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIPA",
+  "tags": [
+   "PIPA",
+   "Oxala Energy",
+   "penggunaan dana IPO",
+   "cadangan kerugian"
+  ],
+  "body": [
+   "PT Oxala Energy International Tbk (PIPA), dahulu bernama PT Multi Makmur Lemindo Tbk, menyampaikan koreksi atas Laporan Realisasi Penggunaan Dana (LRPD) hasil IPO untuk periode per 30 Juni 2026, mengoreksi laporan sebelumnya tertanggal 14 Juli 2026. Perusahaan menyatakan laporan ini adalah LRPD terakhir. Dari total dana IPO saham sebesar Rp97,125 miliar yang diperoleh sejak pencatatan saham pada 31 Maret 2023, setelah dikurangi biaya penawaran umum Rp3,37 miliar yang terdiri dari biaya penjaminan, biaya penyelenggaraan, biaya penjualan, serta jasa profesi dan lembaga penunjang pasar modal, dana bersih yang tersedia adalah Rp93,755 miliar. Seluruh dana itu sudah direalisasikan sehingga sisa dana tercatat nihil.",
+   "Dalam prospektus awal, dana tersebut direncanakan dipakai untuk lima pos, yaitu pembangunan fasilitas baru Rp19,29 miliar atau 20,58 persen dari dana, pembelian mesin dan fasilitas produksi Rp41,79 miliar atau 44,57 persen, pembelian kendaraan operasional Rp1,86 miliar atau 1,98 persen, pembayaran pokok utang Rp3 miliar atau 3,20 persen, dan modal kerja Rp27,82 miliar atau 29,67 persen. Realisasinya jauh berbeda dari rencana itu. Fasilitas baru hanya terserap Rp2,54 miliar atau 2,71 persen, mesin dan fasilitas produksi Rp6,24 miliar atau 6,66 persen, kendaraan operasional nihil sama sekali, sementara pembayaran utang justru melampaui rencana menjadi Rp14,79 miliar atau 15,78 persen, dan modal kerja hanya terpakai Rp5,63 miliar atau 6,01 persen.",
+   "Sebagai gantinya, muncul pos yang sama sekali tidak ada dalam rencana awal, yaitu cadangan kerugian penurunan nilai senilai Rp64,55 miliar, setara 68,85 persen dari seluruh dana bersih hasil IPO. Laporan yang ditandatangani Direktur Noprian Fadli di Jakarta pada 30 Juni 2026 ini disampaikan secara resmi oleh Corporate Secretary Haerul Maelani pada 22 September 2026."
+  ],
+  "fotoAdegan": "Rows of large steel pipes stacked in an outdoor industrial yard, idle machinery nearby, overcast afternoon light, no workers visible",
+  "takeaway": "Laporan ini condong negatif bagi Oxala Energy karena hampir 69 persen dana IPO, senilai Rp64,55 miliar, ternyata tidak dipakai membangun fasilitas baru atau membeli mesin produksi seperti dijanjikan dalam prospektus, melainkan berakhir sebagai cadangan kerugian penurunan nilai. Cadangan kerugian penurunan nilai adalah pencadangan akuntansi ketika nilai suatu aset, misalnya persediaan atau aset produksi, diperkirakan tidak bisa kembali sepenuhnya, dan pencadangan ini langsung memangkas laba serta ekuitas perusahaan. Dengan kata lain, dana segar dari investor yang mestinya menambah kapasitas pabrik malah dipakai menutup kerugian yang sudah terjadi di pos lain. Karena perusahaan menegaskan ini sebagai laporan realisasi dana IPO yang terakhir, tidak akan ada lagi laporan progres serupa, sehingga pemegang saham perlu mencermati laporan keuangan berikutnya untuk melihat dampak pencadangan ini terhadap ekuitas dan kinerja produksi perusahaan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bird-ganti-dua-anggota-komite-audit-ketua-bertahan",
+  "category": "Aksi Korporasi",
+  "title": "BIRD Ganti Dua Anggota [Komite Audit], Ketua Bertahan",
+  "deck": "Blue Bird Tbk mengganti dua anggota komite audit efektif 22 September 2026, sementara Setyo Wasisto melanjutkan sebagai ketua untuk periode kedua.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T14:06:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/30e8475a38_db03c11987.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIRD",
+  "tags": [
+   "BIRD",
+   "Blue Bird",
+   "komite audit",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Blue Bird Tbk (BIRD) mengumumkan perubahan susunan Komite Audit perseroan yang berlaku efektif 22 September 2026. Perubahan ini merujuk pada Peraturan Otoritas Jasa Keuangan Nomor 55/POJK.04/2015 tentang Pembentukan dan Pedoman Pelaksanaan Kerja Komite Audit, serta keputusan Rapat Dewan Komisaris perseroan.",
+   "Posisi ketua komite audit tetap dipegang Setyo Wasisto, kini memasuki periode kedua masa jabatannya. Sementara itu, dua kursi anggota berganti orang. Bambang Utoyo menggantikan Agung Nugroho Soedibyo, dan Wiwiek M. Daryanto menggantikan Pradana Ramadhian Gandasubrata. Keduanya memulai periode pertama sebagai anggota komite audit.",
+   "Surat pemberitahuan kepada Otoritas Jasa Keuangan ditandatangani oleh Direktur Utama Adrianto Djokosoetono dan Direktur Irawaty Salim, sedangkan keterbukaan informasi ke bursa disampaikan oleh Corporate Secretary Jusuf Salman."
+  ],
+  "fotoAdegan": "Rows of blue taxis parked in a company fleet yard at dawn, drivers inspecting vehicles before their shift",
+  "takeaway": "Perubahan ini netral bagi Blue Bird karena hanya menyangkut personel pengawas internal, bukan transaksi yang mengubah struktur keuangan atau operasional perusahaan. Komite audit bertugas mengawasi proses pelaporan keuangan dan kepatuhan perusahaan, jadi pergantian anggotanya tidak menyentuh pos-pos seperti ekuitas, arus kas, atau laba per saham secara langsung, tapi tetap relevan karena berkaitan dengan kualitas pengawasan atas laporan keuangan yang nantinya dibaca investor. Yang perlu dipantau selanjutnya adalah bagaimana kinerja komite dengan susunan baru ini tercermin dalam laporan tahunan dan proses audit Blue Bird ke depan, mengingat kedua anggota baru baru memulai periode pertama mereka.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wskt-pemegang-obligasi-setujui-restrukturisasi-kupon-5",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Pemegang Obligasi Setujui [Restrukturisasi] Kupon 5%",
+  "deck": "97,14 persen pemegang Obligasi Berkelanjutan III Tahap IV Waskita menyetujui restrukturisasi kupon dari 9,75 menjadi 5 persen, dengan pembayaran pertama Rp36,26 miliar pada 23 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T13:34:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf5bc0eeae_91fdccbd0f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "restrukturisasi obligasi",
+   "Waskita Karya",
+   "obligasi korporasi"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk mengoreksi laporan keterbukaan informasi tertanggal 21 September 2026 soal perubahan Perjanjian Perwaliamanatan atas Obligasi Berkelanjutan III Tahap IV Tahun 2019 Seri B. Dalam surat resmi kepada Bursa Efek Indonesia, perseroan memastikan bahwa dalam Rapat Umum Pemegang Obligasi (RUPO) pada 3 September 2026, sebanyak 97,14 persen pemegang obligasi yang hadir menyetujui usulan restrukturisasi. Waskita dan PT Bank Mega Tbk selaku wali amanat telah menandatangani perubahan akta perjanjian pada 17 September 2026, sehingga restrukturisasi resmi berlaku efektif sejak tanggal itu. Isi perubahan meliputi penurunan kupon dari 9,75 persen menjadi 5 persen per tahun ditambah kupon standstill, serta perpanjangan jatuh tempo dari semula 16 Mei 2024 menjadi 31 Desember 2034.",
+   "Waskita juga memerinci jadwal pembayaran kepada pemegang obligasi. Pembayaran pertama dijadwalkan pada 23 Desember 2026 senilai total Rp36,26 miliar, terdiri dari kupon standstill Rp17,91 miliar dan kupon restrukturisasi awal Rp18,35 miliar. Setelahnya, perseroan wajib membayar kupon setiap tiga bulan dengan nilai reguler sekitar Rp17,02 miliar ditambah kupon tertunda (deferred) sebesar Rp17,91 miliar hingga jadwal deferred berakhir pada 23 September 2031, sebelum akhirnya hanya membayar kupon reguler sampai jatuh tempo akhir pada 31 Desember 2034 senilai Rp18,35 miliar. Total seluruh kewajiban kupon sepanjang sisa tenor obligasi ini mencapai Rp922,59 miliar.",
+   "Perseroan mencatat bahwa jumlah pembayaran pertama dan jadwal pembayaran kupon tersebut masih tunduk pada konfirmasi dari wali amanat kepada Waskita."
+  ],
+  "fotoAdegan": "Elevated toll road construction site with cranes and workers pouring concrete, hazy afternoon light on the outskirts of Jakarta",
+  "takeaway": "Laporan ini condong positif bagi Waskita karena mengonfirmasi dukungan mayoritas mutlak pemegang obligasi, 97,14 persen suara yang hadir, dan restrukturisasi sudah mengikat secara hukum sejak 17 September 2026, bukan sekadar rencana. Pos yang tersentuh adalah beban bunga dan arus kas: kupon yang harus dibayar Waskita ke pemegang obligasi turun hampir separuh dari 9,75 menjadi 5 persen per tahun, sehingga kas yang keluar untuk bunga tiap tiga bulan berkurang signifikan meski totalnya sepanjang sisa tenor tetap besar, Rp922,59 miliar sampai 2034. Jatuh tempo pokok utang yang mundur sepuluh tahun, dari 2024 ke 2034, juga melonggarkan tekanan pembayaran dalam jangka pendek. Yang perlu dipantau berikutnya adalah realisasi pembayaran pertama pada 23 Desember 2026 senilai Rp36,26 miliar, karena itu jadi ujian awal apakah Waskita mampu menjalankan jadwal baru sesuai kesepakatan, dengan catatan jadwal itu sendiri masih menunggu konfirmasi akhir dari wali amanat.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ayls-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "AYLS Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta AYLS menjelaskan lonjakan volatilitas transaksi sahamnya. Perseroan menjawab tidak ada informasi material atau rencana korporasi yang mendasarinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T13:33:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c66c1f1591_7fdcc22809.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AYLS",
+  "tags": [
+   "AYLS",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Arkayana Lestari Grup Tbk (AYLS) mengirim surat penjelasan bernomor 0002/LO-AYL/IX/2026 kepada Bursa Efek Indonesia pada 22 September 2026, menanggapi permintaan penjelasan bursa lewat surat nomor S-12157/BEI.PP3/09-2026 perihal volatilitas transaksi efek perseroan. Surat itu ditandatangani oleh Direktur Utama AYLS, Yang Chuan.",
+   "Dalam jawabannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan keterbukaan informasi OJK maupun ketentuan pemantauan harga saham BEI. Perseroan juga mengaku tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu, termasuk soal perubahan kepemilikan atau penjaminan saham yang diatur POJK Nomor 4 Tahun 2024. Soal rencana aksi korporasi dalam tiga bulan ke depan, perseroan menyebut masih dalam tahap evaluasi internal dan belum ada yang final, serta berjanji akan menyampaikan keterbukaan informasi jika ada aksi korporasi yang wajib diumumkan.",
+   "Terkait rencana pemegang saham utama, Corporate Secretary AYLS mengonfirmasi bahwa pemegang saham utama tidak memiliki rencana mengubah kepemilikan sahamnya di perseroan. Perseroan juga menegaskan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Wide shot of a busy Indonesian stock brokerage floor with blurred ticker screens in the background, employees focused at desks, daytime light",
+  "takeaway": "Netral, sebab surat ini hanya berisi bantahan standar dan tidak membawa angka atau rencana baru yang mengubah gambaran fundamental AYLS. Tidak ada pos kinerja yang tersentuh di sini, ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham semuanya tidak disebut berubah, dan pemegang saham utama pun disebut tidak berencana menambah atau melepas kepemilikannya. Yang justru perlu dicatat adalah pemicunya, surat semacam ini keluar karena bursa melihat pergerakan transaksi saham AYLS di luar kebiasaan, jadi meski isinya bantahan kosong, keberadaannya sendiri menandakan sahamnya sedang diawasi lebih ketat. Yang perlu dipantau berikutnya adalah apakah AYLS akan mengeluarkan keterbukaan informasi baru menyusul rencana strategis yang disebut masih “dalam tahap evaluasi”, serta apakah volatilitas transaksi sahamnya mereda atau justru berlanjut dalam beberapa hari perdagangan ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smma-suntik-rp9-93-miliar-ke-sof-usai-merger-dengan-om",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Suntik Rp9,93 Miliar ke SOF Usai [Merger] dengan OM",
+  "deck": "SMMA menambah penyertaan modal Rp9,93 miliar di Summit Oto Finance untuk mempertahankan porsi 15% setelah Oto Multiartha melebur ke perusahaan itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T13:32:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d9c1131a2_9a4cf0d066.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMA",
+  "tags": [
+   "SMMA",
+   "merger",
+   "Summit Oto Finance",
+   "OJK"
+  ],
+  "body": [
+   "PT Sinar Mas Multiartha Tbk (SMMA) mengumumkan bahwa perseroan bersama PT Bank SMBC Indonesia Tbk (dahulu Bank BTPN) dan PT Summit Auto Group telah menandatangani keputusan sirkuler pengganti rapat umum pemegang saham luar biasa untuk menyetujui penggabungan dua anak usaha pembiayaan, PT Oto Multiartha (OM) dan PT Summit Oto Finance (SOF), dengan SOF sebagai entitas yang bertahan. Bersamaan dengan penggabungan itu, SMMA menambah penyertaan modal di SOF dengan mengambil 19.868 lembar saham seri A senilai Rp9,93 miliar. Transaksi ini dilaksanakan pada Senin, 21 September 2026.",
+   "Sebelum merger, susunan pemegang saham OM dan SOF sama-sama diisi PT Bank SMBC Indonesia Tbk sebesar 51%, PT Summit Auto Group 34%, dan SMMA 15%. Begitu saham OM dikonversi dan digabungkan ke SOF, komposisi otomatis bergeser menjadi SMBC Indonesia 51,13%, Summit Auto Group 34,08%, dan porsi SMMA turun tipis ke 14,79% akibat rasio konversi saham antara kedua entitas. Setoran modal tambahan Rp9,93 miliar itulah yang dipakai SMMA untuk mengembalikan porsinya persis ke 15%, sesuai ketentuan Peraturan OJK Nomor 47 Tahun 2020 yang mewajibkan kepemilikan saham lokal minimal sebesar itu di perusahaan pembiayaan. Pengendali SOF pasca penggabungan tetap PT Bank SMBC Indonesia Tbk.",
+   "Perseroan menegaskan nilai transaksi tidak melebihi 20% dari ekuitas SMMA sehingga tidak tergolong transaksi material, bukan transaksi afiliasi, dan bukan transaksi benturan kepentingan sebagaimana diatur dalam Peraturan Nomor IX.E.1. Direksi dengan persetujuan dewan komisaris menyatakan seluruh informasi terkait transaksi ini telah diungkapkan dan tidak menyesatkan. Surat keterbukaan ini ditandatangani oleh Wakil Direktur Utama SMMA, Eric Buntoro."
+  ],
+  "fotoAdegan": "Rows of new motorcycles parked outside a dealership showroom in Jakarta, staff assisting customers in the afternoon light",
+  "takeaway": "Laporan ini netral bagi SMMA: dana Rp9,93 miliar yang disetor hanya untuk mempertahankan porsi kepemilikan 15% yang memang sudah dipegang sebelumnya, bukan menambah kendali atau memperbesar taruhan bisnis baru. Yang tersentuh di sini adalah ekuitas, yaitu modal sendiri perusahaan, yang bertambah sedikit karena penyertaan saham baru di SOF, sementara struktur kendali tidak berubah karena PT Bank SMBC Indonesia Tbk tetap memegang mayoritas sekitar 51% baik sebelum maupun sesudah penggabungan. Investor tetap perlu tahu prosesnya karena penggabungan dua anak usaha pembiayaan otomotif, OM dan SOF, menyatukan dua neraca menjadi satu entitas yang bertahan yaitu SOF, sehingga skala bisnis pembiayaan grup di segmen ini membesar meski dampaknya ke laporan keuangan SMMA sendiri disebut tidak signifikan. Yang perlu dipantau berikutnya adalah kapan penggabungan OM ke SOF resmi berlaku secara hukum dan apakah ada keterbukaan lanjutan begitu prosesnya rampung, sebab dokumen ini baru mencatat persetujuan sirkuler dan realisasi setoran modal per 21 September 2026, bukan penyelesaian penggabungan itu sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smma-tambah-modal-rp5-miliar-ke-anak-usaha-dsb",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Tambah Modal Rp5 Miliar ke Anak Usaha [DSB]",
+  "deck": "SMMA menyuntik modal Rp5 miliar ke anak usahanya PT Dana Saham Bersama, menaikkan kepemilikannya dari 99,98 persen menjadi 99,99 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T13:25:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/30332f57e0_d4cdf5bc3d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMA",
+  "tags": [
+   "SMMA",
+   "Dana Saham Bersama",
+   "penyertaan modal",
+   "anak usaha"
+  ],
+  "body": [
+   "PT Sinar Mas Multiartha Tbk (SMMA) melakukan tambahan setoran modal sebesar Rp5 miliar ke anak usahanya, PT Dana Saham Bersama (DSB), yang berkedudukan di Jakarta Barat. Transaksi ini dilaksanakan pada Senin, 21 September 2026, dan dilaporkan ke Otoritas Jasa Keuangan oleh Wakil Direktur Utama SMMA, Eric Buntoro.",
+   "Sebelum transaksi, modal DSB terdiri dari 5.000 lembar saham senilai Rp5 miliar, dengan SMMA memegang 4.999 lembar atau 99,98 persen dan PT Shinta Utama memegang 1 lembar atau 0,02 persen. Setelah setoran tambahan, total saham DSB naik menjadi 10.000 lembar senilai Rp10 miliar. Porsi SMMA bertambah menjadi 9.999 lembar atau 99,99 persen, sementara porsi PT Shinta Utama yang tetap 1 lembar otomatis terdilusi menjadi 0,01 persen. SMMA tetap tercatat sebagai pihak pengendali DSB.",
+   "Dalam suratnya, SMMA menyatakan nilai penyertaan modal ini tidak melebihi 20 persen dari ekuitas perusahaan sehingga tergolong transaksi tidak material menurut aturan keterbukaan informasi OJK. Perseroan juga menegaskan tidak ada dampak terhadap kegiatan operasional, kondisi keuangan, aspek hukum, maupun kelangsungan usaha akibat transaksi ini."
+  ],
+  "fotoAdegan": "Modern glass office tower facade in Jakarta's central business district, reflecting midday sky, pedestrians on sidewalk below",
+  "takeaway": "Transaksi ini netral bagi SMMA karena dana yang disetor mengalir ke anak usaha yang sudah dikuasai hampir penuh, hanya menegaskan kembali kendali yang memang sudah ada, bukan mengambil alih aset atau bisnis baru dari luar grup. Yang tersentuh adalah kas SMMA, yang berkurang Rp5 miliar untuk dipindahkan menjadi modal disetor di DSB, sementara total ekuitas konsolidasi grup pada dasarnya tidak berubah karena uang itu tetap berputar di dalam grup yang sama. Perseroan sendiri menegaskan nilainya di bawah 20 persen ekuitas sehingga tidak memerlukan restu RUPSLB maupun keterbukaan tambahan. Yang perlu dicermati ke depan adalah apakah pola suntikan modal ke anak usaha seperti ini berlanjut ke entitas lain dalam grup Sinarmas Multiartha, karena SMMA belum lama ini juga menambah modal ke anak usaha lain, SOF, dengan nilai Rp9,93 miliar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pnlf-jawab-bursa-tak-ada-info-material-picu-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "PNLF Jawab Bursa: Tak Ada Info Material Picu [Volatilitas]",
+  "deck": "Menjawab permintaan penjelasan BEI atas lonjakan transaksi sahamnya, manajemen Panin Financial menyatakan tidak mengetahui informasi material apa pun dan tidak ada rencana aksi korporasi dalam waktu dekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T13:20:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/824ed3c8dd_2e250dd896.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNLF",
+  "tags": [
+   "PNLF",
+   "Panin Financial",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Panin Financial Tbk (PNLF) mengirim surat penjelasan ke Bursa Efek Indonesia pada 22 September 2026, menanggapi permintaan BEI melalui surat nomor S-12206/BEI.PP1/09-2026 tanggal 21 September 2026 perihal volatilitas transaksi efek perseroan. Dalam surat balasan bernomor 058/IX/PF/2026, manajemen menyatakan bahwa peningkatan aktivitas transaksi dan pergerakan harga sahamnya berada di luar kendali perseroan dan sepenuhnya bergantung pada mekanisme pasar.",
+   "Perseroan menjawab tidak untuk seluruh enam pertanyaan standar bursa. PNLF menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek atau keputusan investasi pemodal sebagaimana diatur POJK 31/2015, maupun fakta material menurut ketentuan III.2.1 Peraturan I-E BEI. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa.",
+   "Untuk dua pertanyaan terakhir, perseroan menyatakan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik, serta tidak ada rencana dari pengendali atau pemegang saham utama terkait kepemilikan sahamnya yang disampaikan kepada manajemen. Surat ditandatangani oleh Corporate Secretary Marwan Noor untuk laporan elektronik ke bursa, sementara surat fisik yang dilampirkan ditandatangani oleh Wakil Presiden Direktur Dedi Setiawan dan Direktur Priskila Gabrielia Ciahaya."
+  ],
+  "fotoAdegan": "Wide shot of a Jakarta stock exchange trading floor with people walking past electronic ticker displays, blurred and distant",
+  "takeaway": "Laporan ini netral bagi PNLF, karena isinya sebatas membantah adanya informasi rahasia di balik lonjakan transaksi sahamnya, bukan kabar buruk maupun kabar baik yang konkret. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh dalam surat ini, sebab isinya murni jawaban prosedural atas permintaan bursa, bukan data keuangan baru. Yang perlu dipantau selanjutnya adalah apakah volatilitas harga saham PNLF mereda atau justru berlanjut dalam hari-hari mendatang, karena bursa bisa kembali meminta penjelasan atau menghentikan sementara perdagangan jika lonjakan transaksi tetap tidak wajar. Investor juga bisa mengecek konsistensi pernyataan perseroan bahwa tidak ada rencana aksi korporasi dalam tiga bulan ke depan, yang berarti pernyataan itu berlaku hingga sekitar Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "petrokimia-gresik-raih-paten-manfaatkan-silika-limbah",
   "category": "Industri",
   "title": "Petrokimia Gresik Raih Paten Manfaatkan [Silika] Limbah",

@@ -5,6 +5,214 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "vici-jadwalkan-rupslb-pada-29-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "VICI Jadwalkan [RUPSLB] pada 29 Oktober 2026",
+  "deck": "Victoria Care Indonesia mengumumkan RUPSLB 29 Oktober 2026, dengan batas usulan pemegang saham 30 September dan pencatatan pemegang saham 6 Oktober.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "RUPSLB",
+   "Victoria Care Indonesia",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac2f1dccd8_6d938c8943.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-pemegang-saham-asing-mb-investment-jual-292-400-saham",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Pemegang Saham Asing MB Investment [Jual] 292.400 Saham",
+  "deck": "MB Investment Management Pte Ltd melepas 292.400 saham ITSEC Asia (CYBR) senilai sekitar Rp150,5 juta dalam dua transaksi pekan ini, menyisakan hak suara 26,18 persen.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "pemegang saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6817-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-830-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 830.000 saham",
+  "deck": "Edwin Soeryadjaya menambah kepemilikan saham Saratoga Investama Sedaya lewat dua transaksi pembelian pada 18 dan 21 September 2026, menaikkan hak suaranya tipis ke 35,9503 persen.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "kepemilikan saham",
+   "Edwin Soeryadjaya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8437-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "euro-rombak-direksi-restui-rights-issue-2-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "EURO Rombak Direksi, Restui [Rights Issue] 2 Miliar Saham",
+  "deck": "Pemegang saham EURO merestui rights issue hingga 2 miliar saham baru, penambahan komisaris dan direksi baru, serta perubahan klasifikasi usaha dalam RUPSLB 18 September 2026.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EURO",
+   "rights issue",
+   "RUPSLB",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/879cf3428e_8ddf859998.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtfn-raih-opini-kualifikasian-atas-laporan-keuangan-2025",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Raih Opini [Kualifikasian] atas Laporan Keuangan 2025",
+  "deck": "Auditor memberi opini kualifikasian atas laporan keuangan 2025 MTFN karena pengungkapan ketidakpastian usaha tiga entitas anak yang akan dilepas dinilai belum memadai.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTFN",
+   "opini kualifikasian",
+   "laporan keuangan",
+   "Capitalinc Investment"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/be7c1ab721_bb816ae05e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inaf-jadwalkan-rupslb-pada-29-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "INAF Jadwalkan [RUPSLB] pada 29 Oktober 2026",
+  "deck": "Indofarma mengumumkan RUPSLB digelar 29 Oktober 2026, dengan tenggat usulan agenda pemegang saham 30 September dan pencatatan pemegang saham 6 Oktober 2026.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INAF",
+   "RUPSLB",
+   "Indofarma",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1b128e2100_6f3099728d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pipa-69-dana-ipo-berakhir-jadi-cadangan-kerugian",
+  "category": "Aksi Korporasi",
+  "title": "PIPA: 69% Dana IPO Berakhir Jadi Cadangan [Kerugian]",
+  "deck": "Koreksi LRPD PIPA menunjukkan Rp64,55 miliar dari dana IPO, atau 68,85% dari total, berakhir sebagai cadangan kerugian penurunan nilai, bukan untuk ekspansi pabrik seperti rencana awal.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIPA",
+   "Oxala Energy",
+   "penggunaan dana IPO",
+   "cadangan kerugian"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac52858693_0e29b84b2e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bird-ganti-dua-anggota-komite-audit-ketua-bertahan",
+  "category": "Aksi Korporasi",
+  "title": "BIRD Ganti Dua Anggota [Komite Audit], Ketua Bertahan",
+  "deck": "Blue Bird Tbk mengganti dua anggota komite audit efektif 22 September 2026, sementara Setyo Wasisto melanjutkan sebagai ketua untuk periode kedua.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIRD",
+   "Blue Bird",
+   "komite audit",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/30e8475a38_db03c11987.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-pemegang-obligasi-setujui-restrukturisasi-kupon-5",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Pemegang Obligasi Setujui [Restrukturisasi] Kupon 5%",
+  "deck": "97,14 persen pemegang Obligasi Berkelanjutan III Tahap IV Waskita menyetujui restrukturisasi kupon dari 9,75 menjadi 5 persen, dengan pembayaran pertama Rp36,26 miliar pada 23 Desember 2026.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "restrukturisasi obligasi",
+   "Waskita Karya",
+   "obligasi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf5bc0eeae_91fdccbd0f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ayls-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "AYLS Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta AYLS menjelaskan lonjakan volatilitas transaksi sahamnya. Perseroan menjawab tidak ada informasi material atau rencana korporasi yang mendasarinya.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AYLS",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c66c1f1591_7fdcc22809.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smma-suntik-rp9-93-miliar-ke-sof-usai-merger-dengan-om",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Suntik Rp9,93 Miliar ke SOF Usai [Merger] dengan OM",
+  "deck": "SMMA menambah penyertaan modal Rp9,93 miliar di Summit Oto Finance untuk mempertahankan porsi 15% setelah Oto Multiartha melebur ke perusahaan itu.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMA",
+   "merger",
+   "Summit Oto Finance",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d9c1131a2_9a4cf0d066.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smma-tambah-modal-rp5-miliar-ke-anak-usaha-dsb",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Tambah Modal Rp5 Miliar ke Anak Usaha [DSB]",
+  "deck": "SMMA menyuntik modal Rp5 miliar ke anak usahanya PT Dana Saham Bersama, menaikkan kepemilikannya dari 99,98 persen menjadi 99,99 persen.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMA",
+   "Dana Saham Bersama",
+   "penyertaan modal",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/30332f57e0_d4cdf5bc3d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnlf-jawab-bursa-tak-ada-info-material-picu-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "PNLF Jawab Bursa: Tak Ada Info Material Picu [Volatilitas]",
+  "deck": "Menjawab permintaan penjelasan BEI atas lonjakan transaksi sahamnya, manajemen Panin Financial menyatakan tidak mengetahui informasi material apa pun dan tidak ada rencana aksi korporasi dalam waktu dekat.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNLF",
+   "Panin Financial",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/824ed3c8dd_2e250dd896.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "petrokimia-gresik-raih-paten-manfaatkan-silika-limbah",
   "category": "Industri",
   "title": "Petrokimia Gresik Raih Paten Manfaatkan [Silika] Limbah",
@@ -6301,215 +6509,6 @@ var ARTICLES = [
    "BBCA"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d03fa0a44_a4ae1967dd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rhb-dr-waran-terstruktur-bmri-tidak-disesuaikan-usai-dividen",
-  "category": "Aksi Korporasi",
-  "title": "RHB (DR): Waran Terstruktur BMRI [Tidak Disesuaikan] usai Dividen",
-  "deck": "RHB Sekuritas memastikan tiga waran terstruktur berbasis saham BMRI, BMRIDRCX6A, BMRIDRCH7A, dan BMRIDRPV6A, tidak berubah syaratnya meski BMRI membagikan dividen tunai.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "BMRI",
-   "waran terstruktur",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/078ab2ce04_7fc3889bf9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meds-jelaskan-ke-bursa-soal-koreksi-laba-dan-piutang-macet",
-  "category": "Aksi Korporasi",
-  "title": "MEDS Jelaskan ke Bursa soal [Koreksi] Laba dan Piutang Macet",
-  "deck": "Hetzer Medical menjawab permintaan penjelasan BEI soal koreksi laba kuartal I 2026, piutang macet dari distributor akibat tunggakan rumah sakit pemerintah, dan reklasifikasi utang bank ke BCA.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDS",
-   "Hetzer Medical",
-   "laporan keuangan",
-   "piutang macet"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f8ebb47af5_b603d9c16c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "truk-masuk-papan-pemantauan-khusus-bei-mulai-16-september",
-  "category": "Aksi Korporasi",
-  "title": "TRUK Masuk Papan [Pemantauan Khusus] BEI Mulai 16 September",
-  "deck": "Bursa Efek Indonesia menempatkan saham TRUK (PT Guna Timur Raya Tbk) ke papan pemantauan khusus efektif 16 September 2026 akibat riwayat penghentian sementara perdagangan.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUK",
-   "pemantauan khusus",
-   "BEI",
-   "watchlist"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5e2390da31_a8aa15fd15.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akku-jadwalkan-public-expose-insidentil-usai-rugi-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "AKKU Jadwalkan [Public Expose] Insidentil usai Rugi Melonjak",
-  "deck": "AKKU akan menggelar paparan publik insidentil pada 18 September 2026 menjelaskan opini audit, seiring rugi semester I 2026 melonjak ke Rp2,55 miliar dan ekuitas terus menyusut.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKKU",
-   "suspensi saham",
-   "public expose",
-   "opini audit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2026bb9b41_43b4fcd064.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menaker-ai-di-tempat-kerja-harus-naikkan-produktivitas",
-  "category": "Ketenagakerjaan",
-  "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",
-  "deck": "Menaker Yassierli menyebut AI yang sekadar jadi asisten kerja hanya menaikkan produktivitas sekitar 5 persen, sementara perombakan proses kerja bisa mendongkraknya sampai 40 persen.",
-  "date": "15 September 2026",
-  "image": "assets/img/kantor-startup.jpg",
-  "tags": [
-   "AI",
-   "Ketenagakerjaan",
-   "Produktivitas",
-   "Kemnaker"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-adopsi-ai-harus-berorientasi-pada-manusia-dan-tingkatkan-produktivitas",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "sraj-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "SRAJ Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
-  "deck": "Sejahteraraya Anugrahjaya menjawab surat BEI soal lonjakan transaksi sahamnya, menyebut peluncuran klinik gigi baru dan kerja sama bedah robotik sebagai pemicu sentimen pasar.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRAJ",
-   "Bursa Efek Indonesia",
-   "Mayapada Hospital",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/53a0c23661_4ae1888b9d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "life-jelaskan-ke-bursa-aset-turun-laba-melonjak-68",
-  "category": "Aksi Korporasi",
-  "title": "LIFE Jelaskan ke Bursa: Aset Turun, [Laba] Melonjak 68%",
-  "deck": "MSIG Life menjelaskan ke otoritas bursa bahwa aset dan ekuitasnya tergerus nilai pasar investasi dan dividen, sementara laba bersih naik 68,61 persen pada semester I 2026.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LIFE",
-   "asuransi",
-   "keterbukaan informasi",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8043a0fab6_31df62cd5a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppro-umumkan-rencana-rupslb-pada-22-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "PPRO Umumkan Rencana [RUPSLB] pada 22 Oktober 2026",
-  "deck": "PT PP Properti Tbk menjadwalkan RUPSLB pada 22 Oktober 2026, dengan tanggal pencatatan pemegang saham 29 September dan batas usul agenda 22 September 2026.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRO",
-   "RUPSLB",
-   "PP Properti",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0984ad025_5b66fe2a8b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbtn-catat-pertumbuhan-kredit-11-2-lampaui-target-tahunan",
-  "category": "Aksi Korporasi",
-  "title": "BBTN Catat Pertumbuhan Kredit 11,2%, [Lampaui] Target Tahunan",
-  "deck": "Public expose tahunan BBTN mengungkap kredit tumbuh 11,2 persen hingga Juni 2026, dividend payout ratio target tetap 20 persen, dan BSN jadi bank syariah terbesar kedua di Indonesia.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBTN",
-   "Bank Tabungan Negara",
-   "kredit perbankan",
-   "BSN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bde1859dcc_f31f9fee07.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-ggrm-volume-rokok-anjlok-13-6-di-h1-2026-volume",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose GGRM: Volume Rokok Anjlok 13,6% di H1 2026 [Volume]",
-  "deck": "Public expose GGRM ungkap volume rokok turun 13,6 persen di semester I 2026 akibat persaingan rokok ilegal, sementara dividen Rp800 per saham dipertahankan.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GGRM",
-   "Gudang Garam",
-   "Public Expose",
-   "Rokok Ilegal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/551a811872_ebdff2cb1a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "klbf-rencanakan-buyback-saham-rp500-miliar",
-  "category": "Aksi Korporasi",
-  "title": "KLBF Rencanakan Buyback Saham [Rp500 Miliar]",
-  "deck": "Kalbe Farma mengajukan rencana pembelian kembali saham senilai maksimal Rp500 miliar dari dana internal, memanfaatkan relaksasi OJK untuk kondisi pasar yang bergejolak.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KLBF",
-   "buyback saham",
-   "Kalbe Farma",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/656a7155bc_8f77a5c9ce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kementan-bongkar-25-merek-beras-fortifikasi-palsu",
-  "category": "Bisnis",
-  "title": "Kementan Bongkar 25 Merek Beras Fortifikasi [Palsu]",
-  "deck": "Pemerintah menduga 25 merek beras fortifikasi tak sesuai klaim label dan dijual jauh di atas harga acuan, mengancam program gizi kelompok rentan.",
-  "date": "15 September 2026",
-  "image": "assets/img/kementan-bongkar-25-merek-beras-fortifikasi-palsu.jpg",
-  "imageV": "mu2ggt9u",
-  "tags": [
-   "beras fortifikasi",
-   "pemalsuan pangan",
-   "Kementan",
-   "perlindungan konsumen"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467233-pemerintah-temukan-dugaan-pemalsuan-beras-fortifikasi-konsumen-terancam-rugi-rp89-triliun"
- },
- {
-  "slug": "ptsn-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "PTSN Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Menjawab permintaan penjelasan BEI, Sat Nusapersada memastikan tak ada informasi material yang belum diungkap terkait fluktuasi harga dan volume sahamnya pada 11 September 2026.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTSN",
-   "Sat Nusapersada",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3029b42e89_895d7127e7.pdf",
   "sourceLabel": "IDX"
  }
 ];

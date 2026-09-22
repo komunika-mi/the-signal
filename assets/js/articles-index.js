@@ -5,6 +5,58 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rcep-sepakat-bentuk-kelompok-kerja-aksesi-4-ekonomi-baru",
+  "category": "Global",
+  "title": "RCEP Sepakat Bentuk Kelompok Kerja [Aksesi] 4 Ekonomi Baru",
+  "deck": "Pertemuan menteri RCEP di Filipina menyetujui pembentukan kelompok kerja aksesi untuk Bangladesh, Chile, Hong Kong, dan Sri Lanka, serta mencatat kemajuan sekretariat permanen RCEP di Indonesia.",
+  "date": "22 September 2026",
+  "image": "assets/img/rcep-sepakat-bentuk-kelompok-kerja-aksesi-4-ekonomi-baru.jpg",
+  "imageV": "muclytdt",
+  "tags": [
+   "RCEP",
+   "Kementerian Perdagangan",
+   "ASEAN",
+   "Perdagangan Internasional"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pimpin-pertemuan-ke-5-para-menteri-rcep-indonesia-tekankan-pentingnya-meningkatkan-pemanfaatan-rcep",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pnm-hadirkan-trauma-healing-bagi-nasabah-ntt-pascagempa",
+  "category": "UMKM",
+  "title": "PNM Hadirkan [Trauma Healing] bagi Nasabah NTT Pascagempa",
+  "deck": "PNM Peduli menggelar pendampingan psikologis bagi sekitar 250 karyawan dan lebih dari 700 nasabah di Ruteng, Reok, dan Soa, NTT, untuk membantu mereka pulih dan kembali menjalankan usaha pascagempa.",
+  "date": "22 September 2026",
+  "image": "assets/img/pnm-hadirkan-trauma-healing-bagi-nasabah-ntt-pascagempa.jpg",
+  "imageV": "muclyttj",
+  "tags": [
+   "PNM",
+   "PNM Peduli",
+   "NTT",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468684-pnm-peduli-hadirkan-trauma-healing-untuk-dukung-nasabah-flores-ntt-bangkit-dan-kembali-berusaha"
+ },
+ {
+  "slug": "dekarbonisasi-pertamina-lampaui-target-118-di-semester-i",
+  "category": "Energi",
+  "title": "Dekarbonisasi Pertamina [Lampaui] Target 118% di Semester I",
+  "deck": "Pertamina catat pengurangan emisi karbon 118 persen dari target RKAP 2026 pada semester pertama, sekaligus pertahankan peringkat ESG nomor satu dunia untuk sub-industri migas terintegrasi.",
+  "date": "22 September 2026",
+  "image": "assets/img/dekarbonisasi-pertamina-lampaui-target-118-di-semester-i.jpg",
+  "imageV": "muclyuc2",
+  "tags": [
+   "Pertamina",
+   "ESG",
+   "dekarbonisasi",
+   "NZE"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468679-dekarbonisasi-pertamina-capai-118-pada-semester-1-2026-di-atas-target-pengurangan-emisi-tahunan"
+ },
+ {
   "slug": "akku-public-expose-suspensi-berlanjut-opini-audit-membaik",
   "category": "Aksi Korporasi",
   "title": "AKKU Public Expose: Suspensi Berlanjut, Opini Audit [Membaik]",
@@ -146,6 +198,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ihsg-ambruk-1-39-saham-energi-dan-bank-jadi-beban",
+  "category": "Pasar Modal",
+  "title": "IHSG [Ambruk] 1,39%, Saham Energi dan Bank Jadi Beban",
+  "deck": "IHSG ditutup melemah 1,39% ke 6.295,92 pada Selasa, tertekan sektor energi dan perbankan di tengah pelemahan yang merata di hampir seluruh pasar.",
+  "date": "22 September 2026",
+  "image": "assets/img/ihsg-ambruk-1-39-saham-energi-dan-bank-jadi-beban.jpg",
+  "imageV": "muclyusf",
+  "tags": [
+   "IHSG",
+   "Saham Energi",
+   "Bursa Efek Indonesia",
+   "BUMI"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468661-ihsg-ambruk-139-ke-629592-saham-energi-hingga-bank-jadi-beban-pasar"
+ },
+ {
   "slug": "winr-pemegang-saham-utama-lepas-12-juta-saham-lagi",
   "category": "Aksi Korporasi",
   "title": "WINR: Pemegang Saham Utama [Lepas] 12 Juta Saham Lagi",
@@ -176,6 +245,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/265a24a8e4_af52af6a57.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uang-purbaya-diburu-bi-tegaskan-tetap-sah",
+  "category": "Moneter",
+  "title": "Uang Purbaya Diburu, BI Tegaskan Tetap [Sah]",
+  "deck": "Bank Indonesia memastikan uang rupiah kertas bertanda tangan mantan Menkeu Purbaya Yudhi Sadewa tetap sah dipakai meski pejabat penandatangan sudah berganti.",
+  "date": "22 September 2026",
+  "image": "assets/img/uang-purbaya-diburu-bi-tegaskan-tetap-sah.jpg",
+  "imageV": "muclyw6i",
+  "tags": [
+   "Bank Indonesia",
+   "rupiah",
+   "Purbaya Yudhi Sadewa",
+   "pergantian pejabat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468653-uang-rupiah-bertanda-tangan-purbaya-jadi-buruan-bi-angkat-bicara-soal-keabsahannya"
  },
  {
   "slug": "cdia-bagikan-dividen-interim-us-10-juta-cair-22-oktober",
@@ -6427,86 +6513,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467302-tito-imbau-pemda-hati-hati-terbitkan-obligasi-daerah-jangan-timbulkan-beban-bagi-kepala-daerah-baru"
- },
- {
-  "slug": "coal-rpp-ekspor-sda-diklaim-tak-berdampak-ke-kinerja",
-  "category": "Aksi Korporasi",
-  "title": "COAL: RPP Ekspor SDA Diklaim Tak [Berdampak] ke Kinerja",
-  "deck": "Black Diamond Resources menjawab permintaan penjelasan Bursa soal rencana aturan pemerintah mengenai tata kelola ekspor sumber daya alam, dan menyebut dampaknya ke kinerja perseroan tidak signifikan.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "COAL",
-   "Black Diamond Resources",
-   "ekspor sumber daya alam",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2fd36f9439_dc67cd3903.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-tetapkan-26-hari-libur-nasional-dan-cuti-bersama-2027",
-  "category": "Ketenagakerjaan",
-  "title": "Pemerintah Tetapkan [26] Hari Libur Nasional dan Cuti Bersama 2027",
-  "deck": "SKB Tiga Menteri menetapkan 18 hari libur nasional dan 8 hari cuti bersama untuk 2027, total 26 hari, sekaligus mengatur ketentuan lembur dan cuti tahunan bagi pekerja.",
-  "date": "15 September 2026",
-  "image": "assets/img/gudang-logistik.jpg",
-  "tags": [
-   "Libur Nasional 2027",
-   "Cuti Bersama",
-   "Kemnaker",
-   "Idulfitri"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/pemerintah-tetapkan-18-hari-libur-nasional-dan-8-hari-cuti-bersama-tahun-2027",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "bioetanol-lampung-ditarget-produksi-desember-2026",
-  "category": "Energi",
-  "title": "Bioetanol Lampung Ditarget Produksi [Desember 2026]",
-  "deck": "Kementerian Investasi/BKPM, Pertamina, dan Toyota membangun pusat pengembangan bioetanol di Lampung, kapasitas awal 60 kiloliter, target produksi Desember 2026.",
-  "date": "15 September 2026",
-  "image": "assets/img/spbu-bbm.jpg",
-  "tags": [
-   "bioetanol",
-   "BKPM",
-   "Pertamina",
-   "Lampung"
-  ],
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-resmikan-peluncuran-bioethanol-development-center-di-lampung",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "hilirisasi-nikel-ubah-wajah-ekonomi-morowali",
-  "category": "Industri",
-  "title": "Hilirisasi Nikel [Ubah] Wajah Ekonomi Morowali",
-  "deck": "Hilirisasi nikel mendorong pergeseran struktur ekonomi Morowali dan Morowali Utara dari tambang ke industri, dengan PDRB per kapita naik lebih dari 20 persen dalam satu dekade.",
-  "date": "15 September 2026",
-  "image": "assets/img/hilirisasi-nikel-ubah-wajah-ekonomi-morowali.jpg",
-  "imageV": "mu2o30kr",
-  "tags": [
-   "nikel",
-   "hilirisasi",
-   "Morowali",
-   "MIND ID"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467299-hilirisasi-nikel-mulai-berdampak-terhadap-peningkatan-ekonomi-daerah"
- },
- {
-  "slug": "lpkr-anak-usaha-beli-piutang-rp8-35-m-dari-ciptadana",
-  "category": "Aksi Korporasi",
-  "title": "LPKR: Anak Usaha Beli [Piutang] Rp8,35 M dari Ciptadana",
-  "deck": "Anak usaha LPKR, PT Asiatic Sejahtera Finance, mengambil alih piutang pembiayaan senilai Rp16,62 miliar dari PT Ciptadana Multifinance seharga Rp8,35 miliar dalam transaksi afiliasi.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPKR",
-   "Transaksi Afiliasi",
-   "Lippo Karawaci",
-   "Ciptadana Multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6a218e5892_c968b28b51.pdf",
-  "sourceLabel": "IDX"
  }
 ];

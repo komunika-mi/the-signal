@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "5m4Fin5qa4g",
+  "title": "Petani Garam Terdampak Kekeringan, Produksi Terhambat",
+  "category": "Industri",
+  "program": "Kabar Petang",
+  "summary": "Kemarau panjang membuat air laut surut di Desa Ketitangwetan, Batangan, Pati, sehingga pasokan ke tambak garam tersendat dan lebih dari 300 hektare lahan tidak bisa berproduksi.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan dampak cuaca ekstrem terhadap rantai pasok komoditas garam dalam negeri."
+ },
+ {
+  "id": "67pSsmE-450",
+  "title": "Andi Ilham Terpilih Jadi Ketua Umum Kadin Gorontalo",
+  "category": "Bisnis",
+  "program": "Kabar Petang",
+  "summary": "Andi Ilham terpilih sebagai Ketua Umum Kadin Provinsi Gorontalo dalam musyawarah provinsi kelima organisasi kamar dagang dan industri tersebut.",
+  "takeaway": "Pergantian pucuk pimpinan Kadin daerah penting diikuti karena berpengaruh pada arah advokasi dan kebijakan dunia usaha setempat."
+ },
+ {
+  "id": "EHxL8A6H1Ww",
+  "title": "Bea Cukai Ungkap Penyelundupan Beras, Garam, dan Pakaian",
+  "category": "Bisnis",
+  "program": "Kabar Petang",
+  "summary": "Bea Cukai menggagalkan dugaan impor ilegal senilai Rp27,339 miliar sepanjang Agustus hingga September 2026, mencakup 30 kontainer beras dan garam serta 1.435 bal pakaian bekas.",
+  "takeaway": "Penindakan ini mencerminkan upaya pemerintah melindungi industri dan pasar dalam negeri dari barang impor ilegal."
+ },
+ {
   "id": "u6cMPnErGa0",
   "title": "Mendag Sidak Harga Sembako, Cabai Masih Meroket",
   "category": "Bisnis",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "AKIS tvOne",
   "summary": "Antrean kendaraan mengular hingga beberapa kilometer di sejumlah SPBU Jeneponto akibat keterbatasan pasokan bahan bakar minyak.",
   "takeaway": "Kelangkaan BBM di daerah berdampak langsung pada mobilitas warga dan biaya operasional pelaku usaha setempat."
- },
- {
-  "id": "2KknPsZQs4w",
-  "title": "Ekosistem Pangan Sirkular Pondok Pesantren Annuqayah",
-  "category": "UMKM",
-  "program": "Kabar Jawa Tengah",
-  "summary": "Kantor Perwakilan Bank Indonesia Jawa Timur meluncurkan program Jelajah UMKM dan Pondok Pesantren 2026, menyoroti Ponpes Annuqayah yang mengembangkan ekosistem pangan sirkular dari potensi alam sekitarnya.",
-  "takeaway": "Menunjukkan peran Bank Indonesia mendorong pemberdayaan ekonomi berbasis pesantren dan UMKM di daerah."
- },
- {
-  "id": "W90GcF5uyCA",
-  "title": "Kadin Gelar Audiensi dengan Dirjen Amerika dan Eropa Kemenlu",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie bertemu dengan Direktur Jenderal Amerika dan Eropa Kementerian Luar Negeri, Grata Endah Werdaningtyas, untuk membahas hubungan kedua kawasan.",
-  "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena menyangkut peran Kadin sebagai representasi dunia usaha dalam menjajaki peluang kerja sama dagang dan investasi dengan mitra di Amerika dan Eropa."
- },
- {
-  "id": "d_bShxSkAxE",
-  "title": "BBM Langka, SPBU Makassar Dipadati Antrean Kendaraan",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Antrean panjang kendaraan terjadi di sejumlah SPBU Makassar akibat kelangkaan BBM yang dipicu hambatan pasokan dan distribusi bahan bakar ke wilayah tersebut.",
-  "takeaway": "Gangguan pasokan BBM di Makassar mencerminkan persoalan distribusi energi yang bisa berdampak pada aktivitas ekonomi dan pelaku usaha di Sulawesi Selatan."
  }
 ];

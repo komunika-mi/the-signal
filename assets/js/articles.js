@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rcep-sepakat-bentuk-kelompok-kerja-aksesi-4-ekonomi-baru",
+  "category": "Global",
+  "title": "RCEP Sepakat Bentuk Kelompok Kerja [Aksesi] 4 Ekonomi Baru",
+  "deck": "Pertemuan menteri RCEP di Filipina menyetujui pembentukan kelompok kerja aksesi untuk Bangladesh, Chile, Hong Kong, dan Sri Lanka, serta mencatat kemajuan sekretariat permanen RCEP di Indonesia.",
+  "image": "assets/img/rcep-sepakat-bentuk-kelompok-kerja-aksesi-4-ekonomi-baru.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T11:40:25.252Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pimpin-pertemuan-ke-5-para-menteri-rcep-indonesia-tekankan-pentingnya-meningkatkan-pemanfaatan-rcep",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "RCEP",
+   "Kementerian Perdagangan",
+   "ASEAN",
+   "Perdagangan Internasional"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri memimpin Pertemuan ke-5 Para Menteri Regional Comprehensive Economic Partnership (RCEP) di Pasay City, Filipina, pada Senin (21/9), bersama anggota parlemen Selandia Baru Shane Reti. Pertemuan ini merupakan bagian dari rangkaian Pertemuan Menteri Ekonomi ASEAN (AEM) ke-58 yang berlangsung 17-22 September 2026. Hasil paling konkret dari pertemuan ini adalah persetujuan membentuk kelompok kerja khusus yang akan memproses permohonan bergabung dari empat ekonomi baru, yaitu Bangladesh, Chile, Hong Kong, dan Sri Lanka.",
+   "RCEP saat ini beranggotakan 10 negara ASEAN, yakni Brunei Darussalam, Kamboja, Indonesia, Laos, Malaysia, Myanmar, Filipina, Singapura, Thailand, dan Vietnam, ditambah lima negara mitra yaitu Australia, Tiongkok, Jepang, Korea Selatan, dan Selandia Baru. Perundingan perjanjian ini dimulai pada 2012 dan resmi ditandatangani pada 2020. Selain membahas perluasan keanggotaan, para menteri juga menyambut peluncuran situs resmi RCEP di rcepsec.org sebagai kanal informasi publik mengenai ketentuan dan perkembangan implementasi perjanjian.",
+   "Pertemuan tersebut juga mencatat kemajuan pembentukan kantor sekretariat tetap RCEP yang rencananya berkedudukan di Indonesia. RCEP Joint Committee diminta melanjutkan pembahasan rancangan kerangka acuan (Terms of Reference) serta persiapan lain untuk sekretariat itu. Para menteri turut mendorong seluruh negara anggota menuntaskan komitmen yang masih berjalan dan ASEAN mengoptimalkan dukungan kerja sama ekonomi dan teknis yang tersedia.",
+   "Indonesia dalam pertemuan ini menekankan pentingnya meningkatkan pemanfaatan RCEP, termasuk oleh pelaku usaha mikro, kecil, dan menengah, melalui sosialisasi yang lebih luas agar manfaat perjanjian dirasakan secara nyata. Delegasi Indonesia dipimpin Direktur Jenderal Perundingan Perdagangan Internasional Johni Martha, didampingi Direktur Perundingan ASEAN Nugraheni Prasetya Hastuti."
+  ],
+  "fotoAdegan": "Cargo containers being loaded onto a large container ship at a busy Southeast Asian port terminal, cranes overhead, daytime haze",
+  "fotoSumber": "https://www.kemendag.go.id/albums/O5hApzhPNeld4ZbR3tw9NoqbsrVWjRJ8dWvfHFOh.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret dari pertemuan ini adalah persetujuan membentuk kelompok kerja khusus untuk memproses permohonan bergabung dari Bangladesh, Chile, Hong Kong, dan Sri Lanka ke RCEP, serta kemajuan pembentukan kantor sekretariat tetap RCEP yang rencananya berkedudukan di Indonesia. Pihak yang terdampak adalah pelaku usaha di 15 negara anggota RCEP saat ini, termasuk UMKM yang menurut Kementerian Perdagangan masih perlu didorong lagi pemanfaatannya, karena bertambahnya anggota berarti jumlah mitra dagang yang tercakup dalam satu perjanjian ini makin banyak. Arahnya, RCEP sedang bergerak dari perjanjian yang sekadar dijalankan menjadi blok dagang yang mulai membuka pintu bagi anggota baru, sementara Indonesia memosisikan diri sebagai tuan rumah sekretariatnya sendiri. Yang belum jelas adalah berapa lama proses aksesi empat ekonomi tadi akan berjalan karena kelompok kerjanya baru dibentuk, dan sejauh mana draf aturan kerja sekretariat di Indonesia sudah rampung, jadi hasil pertemuan RJC berikutnya perlu dipantau.",
+  "imageV": "muclytdt"
+ },
+ {
+  "slug": "pnm-hadirkan-trauma-healing-bagi-nasabah-ntt-pascagempa",
+  "category": "UMKM",
+  "title": "PNM Hadirkan [Trauma Healing] bagi Nasabah NTT Pascagempa",
+  "deck": "PNM Peduli menggelar pendampingan psikologis bagi sekitar 250 karyawan dan lebih dari 700 nasabah di Ruteng, Reok, dan Soa, NTT, untuk membantu mereka pulih dan kembali menjalankan usaha pascagempa.",
+  "image": "assets/img/pnm-hadirkan-trauma-healing-bagi-nasabah-ntt-pascagempa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T17:51:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468684-pnm-peduli-hadirkan-trauma-healing-untuk-dukung-nasabah-flores-ntt-bangkit-dan-kembali-berusaha",
+  "tags": [
+   "PNM",
+   "PNM Peduli",
+   "NTT",
+   "UMKM"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (Persero) melalui program PNM Peduli menghadirkan pendampingan psikologis atau trauma healing bagi karyawan dan nasabah di Nusa Tenggara Timur yang terdampak gempa. Langkah ini melengkapi peran PNM yang selama ini dikenal sebagai penyalur modal usaha mikro, kini turut membantu pemulihan mental warga agar bisa kembali menjalankan usahanya.",
+   "Pendampingan menyasar sekitar 250 karyawan unit kerja PNM di Ruteng, Reok, dan Soa, yang dilatih teknik menenangkan diri seperti pengaturan napas, mengenali lima benda di sekitar untuk memulihkan fokus, dan butterfly hug, yakni menyilangkan tangan di dada sambil menepuk bergantian. Dukungan serupa juga diberikan kepada lebih dari 700 nasabah PNM lewat kegiatan bertajuk Bangkit Berusaha, tempat mereka diajak bercerita dan berlatih mengelola emosi agar percaya diri melanjutkan usaha pascabencana.",
+   "Fitri, salah satu karyawan unit terdampak, mengatakan teknik butterfly hug paling berkesan baginya karena mengajarkan cara menenangkan diri sendiri tanpa bergantung pada orang lain. Teknik pengaturan napas yang ia pelajari kini juga dipakainya saat mendampingi nasabah yang emosinya belum stabil setelah gempa.",
+   "Psikolog pendamping, Christin Florentin Meinarty Bebok, menyebut pendampingan ini sebagai bentuk kehadiran PNM agar nasabah tidak merasa sendirian dalam proses pemulihan usaha. Direktur Utama PNM Kindaris menambahkan bahwa karyawan dan nasabah terdampak adalah bagian dari keluarga besar perusahaan, sejalan dengan program ini yang merupakan hasil kolaborasi PNM Peduli dengan program PELITA."
+  ],
+  "fotoAdegan": "A small circle of villagers sitting together under a simple wooden pavilion in a hilly Flores town, quiet conversation, soft morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/22/6ab25c850ca88-pnm-peduli-hadirkan-trauma-healing-untuk-nasabah-flores-ntt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah PNM menambah dukungan psikologis untuk sekitar 250 karyawan dan lebih dari 700 nasabahnya di Ruteng, Reok, dan Soa, NTT, yang terdampak gempa. Yang kena dampaknya jelas, yaitu nasabah usaha mikro binaan PNM yang harus bangkit sambil masih menanggung cicilan pinjaman, serta karyawan lapangan yang setiap hari bertemu nasabah dalam kondisi emosi belum stabil. Berita ini belum menyebut apakah PNM juga memberi keringanan pembayaran, seperti penundaan atau pengurangan cicilan, bagi nasabah yang usahanya rusak akibat gempa, padahal itu yang biasanya paling menentukan apakah usaha mereka bisa benar-benar jalan lagi. Untuk melihat ke arah mana dukungan PNM ini bergerak, apakah sebatas pemulihan mental atau juga disertai bantuan keuangan, perlu ditunggu pengumuman lanjutan dari PNM soal skema pembiayaan bagi nasabah terdampak gempa NTT.",
+  "imageV": "muclyttj"
+ },
+ {
+  "slug": "dekarbonisasi-pertamina-lampaui-target-118-di-semester-i",
+  "category": "Energi",
+  "title": "Dekarbonisasi Pertamina [Lampaui] Target 118% di Semester I",
+  "deck": "Pertamina catat pengurangan emisi karbon 118 persen dari target RKAP 2026 pada semester pertama, sekaligus pertahankan peringkat ESG nomor satu dunia untuk sub-industri migas terintegrasi.",
+  "image": "assets/img/dekarbonisasi-pertamina-lampaui-target-118-di-semester-i.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T17:45:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468679-dekarbonisasi-pertamina-capai-118-pada-semester-1-2026-di-atas-target-pengurangan-emisi-tahunan",
+  "tags": [
+   "Pertamina",
+   "ESG",
+   "dekarbonisasi",
+   "NZE"
+  ],
+  "body": [
+   "PT Pertamina (Persero) melaporkan pencapaian pengurangan emisi karbon sebesar 118 persen dari target yang ditetapkan dalam rencana kerja tahunan perusahaan untuk 2026, capaian yang sudah terlihat hanya dalam enam bulan pertama tahun ini. Vice President Corporate Communication Pertamina Muhammad Baron menyebut hasil ini sebagai bagian dari komitmen perusahaan menjalankan prinsip ESG, singkatan dari tata kelola lingkungan, sosial, dan perusahaan, di seluruh lini bisnisnya. Menurut Baron, program dekarbonisasi ini juga sejalan dengan target pemerintah mencapai emisi karbon nol bersih atau net zero emission pada 2060.",
+   "Selain pengurangan emisi, kinerja bisnis rendah karbon Pertamina sepanjang Januari hingga Juni 2026 tercatat 101 persen dari target RKAP 2026, ditopang program bioetanol, biofuel, dan efisiensi energi. Program tata kelola lainnya, mulai dari pengadaan barang dan jasa berkelanjutan, penandaan anggaran keberlanjutan, hingga pemberdayaan masyarakat, secara keseluruhan mencapai 102 persen dari target yang dipasang.",
+   "Baron menyebut rangkaian capaian ini turut mengukuhkan posisi Pertamina sebagai perusahaan dengan peringkat ESG nomor satu dunia untuk sub-industri minyak dan gas terintegrasi. Dalam penilaian lembaga Carbon Disclosure Project (CDP), Pertamina memperoleh skor B untuk kategori perubahan iklim dan A- untuk keamanan air. Dari sisi tata kelola, skor Good Corporate Governance atau GCG Pertamina pada 2025 tercatat 97,14 persen dengan kategori Sangat Baik.",
+   "Baron menegaskan berbagai capaian tersebut menjadi pendorong bagi Pertamina untuk terus memperkuat pengelolaan lingkungan, tanggung jawab sosial, dan tata kelola perusahaan ke depan."
+  ],
+  "fotoAdegan": "Workers inspecting large bioethanol processing tanks and pipelines at an industrial energy plant, tropical morning haze",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/09/6a78034a543cf-pertamina_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah angka realisasi: Pertamina mengklaim sudah memangkas emisi karbon 118 persen dari target yang mereka tetapkan sendiri untuk 2026, padahal baru berjalan enam bulan, dan bisnis energi rendah karbonnya juga sudah 101 persen dari target. Yang terdampak langsung adalah Pertamina sendiri sebagai perusahaan pelat merah yang jadi tumpuan target pemerintah menekan emisi hingga nol bersih pada 2060, serta pihak yang menilai kelayakan investasi berdasarkan skor lingkungan seperti ini. Yang masih kurang untuk membaca ke mana arah capaian ini sebenarnya bergerak adalah rincian volume produksi bioetanol dan biofuel, serta apakah angka di atas 100 persen ini muncul karena kinerja yang memang melesat atau karena target awalnya dipasang rendah. Skor independen yang disebut, yaitu penilaian iklim dan keamanan air dari CDP serta skor tata kelola perusahaan, masih memakai data tahun 2025, sehingga belum bisa memastikan klaim capaian semester pertama 2026 ini. Yang perlu ditunggu adalah laporan realisasi RKAP penuh pada akhir 2026, karena baru di situ terlihat apakah kecepatan pengurangan emisi ini bertahan atau melambat pada semester kedua.",
+  "imageV": "muclyuc2"
+ },
+ {
   "slug": "akku-public-expose-suspensi-berlanjut-opini-audit-membaik",
   "category": "Aksi Korporasi",
   "title": "AKKU Public Expose: Suspensi Berlanjut, Opini Audit [Membaik]",
@@ -233,6 +315,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "ihsg-ambruk-1-39-saham-energi-dan-bank-jadi-beban",
+  "category": "Pasar Modal",
+  "title": "IHSG [Ambruk] 1,39%, Saham Energi dan Bank Jadi Beban",
+  "deck": "IHSG ditutup melemah 1,39% ke 6.295,92 pada Selasa, tertekan sektor energi dan perbankan di tengah pelemahan yang merata di hampir seluruh pasar.",
+  "image": "assets/img/ihsg-ambruk-1-39-saham-energi-dan-bank-jadi-beban.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:43:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468661-ihsg-ambruk-139-ke-629592-saham-energi-hingga-bank-jadi-beban-pasar",
+  "tags": [
+   "IHSG",
+   "Saham Energi",
+   "Bursa Efek Indonesia",
+   "BUMI"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) ditutup di level 6.295,92 pada Selasa, 22 September 2026, melemah 1,39 persen dan tergelincir ke bawah level 6.300. Penurunan ini terasa berat bagi investor karena tekanan jual terjadi hampir merata di seluruh sektor, bukan hanya pada beberapa saham besar.",
+   "Pelemahan sebenarnya sudah terlihat sejak sesi pertama, saat IHSG berada di 6.313,57 atau turun 1,11 persen, setelah sempat berada di kisaran 6.400 pada awal perdagangan. Alih-alih membaik, tekanan jual justru berlanjut di sesi kedua hingga indeks makin dalam terkoreksi. Sektor energi menjadi yang paling tertekan dengan penurunan 2,21 persen, diikuti saham-saham perbankan yang juga banyak dilepas investor asing. Dari total saham yang diperdagangkan, 513 saham ditutup melemah sementara hanya 147 saham yang menguat, sehingga jumlah saham yang turun lebih dari tiga kali lipat dibanding yang naik.",
+   "Posisi IHSG hari ini juga tercatat sebagai salah satu yang paling tertekan di antara bursa saham negara berkembang di kawasan Asia Pasifik. Salah satu saham dengan transaksi teramai adalah PT Bumi Resources Tbk (BUMI), yang ditutup di harga Rp192, turun Rp1 atau 0,52 persen. Volume perdagangan BUMI mencapai 1,81 miliar saham dengan nilai transaksi Rp351,98 miliar dan frekuensi 36.119 kali, menunjukkan saham ini tetap ramai ditransaksikan di tengah pelemahan pasar secara umum."
+  ],
+  "fotoAdegan": "Wide view of an oil and gas refinery complex with pipelines and storage tanks along an Indonesian industrial coastline, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef97b6908c-ilustrasi-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret hari ini: IHSG turun dari kisaran 6.400 di awal sesi menjadi 6.295,92 di penutupan, dan pelemahannya justru membesar dari sesi pertama (1,11 persen) ke sesi kedua (1,39 persen), tanda tekanan jual berlanjut sepanjang hari, bukan cuma di pembukaan lalu mereda. Yang paling kena dampak adalah pemegang saham sektor energi, yang terkoreksi paling dalam yaitu 2,21 persen, dan sektor perbankan, yang juga jadi sasaran jual investor asing sejak sesi pertama. Lebar pelemahan pun timpang, 513 saham turun berbanding hanya 147 saham naik, jadi ini bukan koreksi di segelintir saham besar melainkan tekanan yang menyebar ke hampir seluruh pasar. Berita ini tidak menyebutkan pemicu spesifik di balik pelemahan, entah dari sentimen global, harga komoditas, atau data ekonomi domestik, sehingga belum bisa dipastikan apakah ini awal tren pelemahan berkelanjutan atau koreksi satu hari saja. Yang perlu dipantau adalah pergerakan IHSG pada perdagangan berikutnya, terutama apakah sektor energi dan perbankan kembali jadi sasaran jual atau mulai pulih.",
+  "imageV": "muclyusf"
+ },
+ {
   "slug": "winr-pemegang-saham-utama-lepas-12-juta-saham-lagi",
   "category": "Aksi Korporasi",
   "title": "WINR: Pemegang Saham Utama [Lepas] 12 Juta Saham Lagi",
@@ -283,6 +391,33 @@ var ARTICLES = [
   "fotoAdegan": "Empty rows of chairs facing a podium in a modern office meeting hall, soft morning light through large glass windows",
   "takeaway": "Laporan ini condong positif bagi pemegang saham GoTo. Perseroan memilih menghapus permanen 32,19 miliar saham hasil pembelian kembali tahun 2024-2025, alih-alih membagikannya ke karyawan dan direksi lewat program kepemilikan saham yang sebelumnya sudah disetujui pada Juni 2025. Yang tersentuh adalah jumlah saham beredar dan laba per saham: kalau saham itu jadi dibagikan ke karyawan, jumlah saham beredar bertambah dan laba bersih perseroan harus dibagi ke lebih banyak lembar sehingga nilainya per lembar mengecil, istilah pasarnya dilusi. Dengan dibatalkan dan ditarik permanen lewat pengurangan modal, risiko dilusi itu hilang, meski agenda kedua soal pengunduran diri Wakil Direktur Utama Catherine Hindra Sutjahyo sebenarnya sudah diumumkan sejak 28 Agustus 2026 sehingga RUPSLB ini hanya formalitas persetujuan. Yang perlu dipantau adalah hasil pemungutan suara pada RUPSLB 14 Oktober 2026, termasuk batas akhir pemberian kuasa pemegang saham pada 13 Oktober 2026 pukul 12.00 WIB, karena persetujuan pengurangan modal ini butuh dukungan suara mayoritas pemegang saham yang hadir.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "uang-purbaya-diburu-bi-tegaskan-tetap-sah",
+  "category": "Moneter",
+  "title": "Uang Purbaya Diburu, BI Tegaskan Tetap [Sah]",
+  "deck": "Bank Indonesia memastikan uang rupiah kertas bertanda tangan mantan Menkeu Purbaya Yudhi Sadewa tetap sah dipakai meski pejabat penandatangan sudah berganti.",
+  "image": "assets/img/uang-purbaya-diburu-bi-tegaskan-tetap-sah.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:30:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468653-uang-rupiah-bertanda-tangan-purbaya-jadi-buruan-bi-angkat-bicara-soal-keabsahannya",
+  "tags": [
+   "Bank Indonesia",
+   "rupiah",
+   "Purbaya Yudhi Sadewa",
+   "pergantian pejabat"
+  ],
+  "body": [
+   "Uang rupiah kertas bertanda tangan mantan Menteri Keuangan Purbaya Yudhi Sadewa ramai diburu warganet karena dianggap barang langka. Bank Indonesia turun tangan menegaskan bahwa uang tersebut tetap sah dipakai bertransaksi di seluruh Indonesia, jadi masyarakat tidak perlu khawatir uang itu tiba-tiba tidak berlaku.",
+   "Kepala Departemen Komunikasi BI Ramdan Denny Prakoso menjelaskan bahwa pergantian Menteri Keuangan maupun Gubernur BI tidak memengaruhi keabsahan uang yang sudah dicetak dan beredar. Uang cetakan 2026 yang jadi sorotan itu mencantumkan tanda tangan Purbaya Yudhi Sadewa sebagai Menteri Keuangan saat itu dan Perry Warjiyo sebagai Gubernur BI saat itu, dan keduanya dicetak sesuai prosedur resmi yang berlaku.",
+   "Sorotan ini muncul karena kedua pejabat tersebut kini sudah tidak menjabat. Suahasil Nazara dilantik sebagai Menteri Keuangan pada 14 September 2026 menggantikan Purbaya, berdasarkan Keputusan Presiden Nomor 97/P Tahun 2026. Adapun Destry Damayanti resmi menjabat Gubernur BI sejak 2 September 2026 lewat Keppres Nomor 92/P Tahun 2026, setelah sebelumnya menjadi pejabat sementara menyusul mundurnya Perry Warjiyo pada Juli 2026.",
+   "BI menambahkan bahwa uang rupiah kertas yang dicetak pada periode berikutnya akan menyesuaikan dengan tanda tangan Menteri Keuangan dan Gubernur BI yang tengah menjabat, mengikuti tahapan pengelolaan uang rupiah yang sudah diatur. Setiap uang kertas juga wajib memuat tanda tangan dari unsur Pemerintah dan Bank Indonesia."
+  ],
+  "fotoAdegan": "Wide shot of Bank Indonesia's modern glass headquarters building in Jakarta with the national flag flying, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/06/21/6855fba1251fe-ilustrasi-uang-rupiah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan ekonomi, melainkan konfirmasi hukum: BI menegaskan uang kertas cetakan 2026 bertanda tangan Purbaya Yudhi Sadewa dan Perry Warjiyo tetap berlaku sebagai alat pembayaran sah, meski keduanya sudah tidak menjabat sejak September 2026. Yang terdampak langsung adalah masyarakat yang memegang atau memburu uang itu sebagai barang koleksi, karena BI memastikan tidak ada rencana penarikan atau penukaran wajib. Berita ini belum menyebutkan berapa banyak lembar uang bertanda tangan Purbaya yang sempat dicetak dan beredar, atau kapan pencetakan uang baru dengan tanda tangan Suahasil Nazara dan Destry Damayanti mulai berjalan. Dua angka itu yang perlu dipantau sebelum bisa dipastikan apakah uang edisi Purbaya benar-benar akan jadi barang langka atau cuma ramai sesaat di media sosial.",
+  "imageV": "muclyw6i"
  },
  {
   "slug": "cdia-bagikan-dividen-interim-us-10-juta-cair-22-oktober",

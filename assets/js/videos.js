@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "5m4Fin5qa4g",
+  "title": "Petani Garam Terdampak Kekeringan, Produksi Terhambat",
+  "category": "Industri",
+  "program": "Kabar Petang",
+  "summary": "Kemarau panjang membuat air laut surut di Desa Ketitangwetan, Batangan, Pati, sehingga pasokan ke tambak garam tersendat dan lebih dari 300 hektare lahan tidak bisa berproduksi.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan dampak cuaca ekstrem terhadap rantai pasok komoditas garam dalam negeri.",
+  "terbit": "2026-09-22T11:18:49+00:00"
+ },
+ {
+  "id": "67pSsmE-450",
+  "title": "Andi Ilham Terpilih Jadi Ketua Umum Kadin Gorontalo",
+  "category": "Bisnis",
+  "program": "Kabar Petang",
+  "summary": "Andi Ilham terpilih sebagai Ketua Umum Kadin Provinsi Gorontalo dalam musyawarah provinsi kelima organisasi kamar dagang dan industri tersebut.",
+  "takeaway": "Pergantian pucuk pimpinan Kadin daerah penting diikuti karena berpengaruh pada arah advokasi dan kebijakan dunia usaha setempat.",
+  "terbit": "2026-09-22T11:18:45+00:00"
+ },
+ {
+  "id": "EHxL8A6H1Ww",
+  "title": "Bea Cukai Ungkap Penyelundupan Beras, Garam, dan Pakaian",
+  "category": "Bisnis",
+  "program": "Kabar Petang",
+  "summary": "Bea Cukai menggagalkan dugaan impor ilegal senilai Rp27,339 miliar sepanjang Agustus hingga September 2026, mencakup 30 kontainer beras dan garam serta 1.435 bal pakaian bekas.",
+  "takeaway": "Penindakan ini mencerminkan upaya pemerintah melindungi industri dan pasar dalam negeri dari barang impor ilegal.",
+  "terbit": "2026-09-22T11:11:43+00:00"
+ },
+ {
   "id": "u6cMPnErGa0",
   "title": "Mendag Sidak Harga Sembako, Cabai Masih Meroket",
   "category": "Bisnis",

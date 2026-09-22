@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "petrokimia-gresik-raih-paten-manfaatkan-silika-limbah",
+  "category": "Industri",
+  "title": "Petrokimia Gresik Raih Paten Manfaatkan [Silika] Limbah",
+  "deck": "Petrokimia Gresik meraih paten sederhana atas inovasi memakai produk samping silika sebagai pengganti bahan penyaring impor dalam produksi asam sulfat.",
+  "date": "22 September 2026",
+  "image": "assets/img/petrokimia-gresik-raih-paten-manfaatkan-silika-limbah.jpg",
+  "imageV": "mucadwrq",
+  "tags": [
+   "Petrokimia Gresik",
+   "paten",
+   "silika",
+   "asam sulfat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468572-ubah-produk-samping-jadi-solusi-agroindustri-petrokimia-gresik-raih-paten-inovasi-silika"
+ },
+ {
   "slug": "pbsa-rombak-nilai-saham-lewat-stock-split-ke-rp25",
   "category": "Aksi Korporasi",
   "title": "PBSA Rombak Nilai Saham Lewat [Stock Split] ke Rp25",
@@ -19,6 +36,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05ab9e1487_cdc994147c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp17-879-investor-tunggu-rdg-bi",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.879, Investor Tunggu RDG BI",
+  "deck": "Rupiah melemah 32 poin ke Rp17.879 per dolar AS jelang keputusan suku bunga BI, di tengah kenaikan suku bunga The Fed, BOJ, dan ECB.",
+  "date": "22 September 2026",
+  "image": "assets/img/rupiah-melemah-ke-rp17-879-investor-tunggu-rdg-bi.jpg",
+  "imageV": "mucadx9a",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "Bank Indonesia",
+   "The Fed"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468553-rupiah-melemah-ke-rp17879-per-dolar-as-seiring-wait-and-see-investor-jelang-rdg-bi"
  },
  {
   "slug": "truk-pemegang-saham-baru-kuasai-15-hak-suara-guna-timur-raya",
@@ -6476,38 +6510,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3029b42e89_895d7127e7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-gelar-public-expose-usai-suspensi-laba-berbalik-rugi",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Gelar Public Expose Usai Suspensi, Laba Berbalik [Rugi]",
-  "deck": "NexAI Digital Infrastruktur (MGLV) menggelar public expose insidentil usai disuspensi BEI, mengungkap pendapatan semester I 2026 anjlok 74,6 persen dan berbalik rugi neto Rp14,1 miliar.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "NexAI Digital Infrastruktur",
-   "suspensi BEI",
-   "data center"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c65af9c967_b70d899bf6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "puri-baru-capai-14-74-free-float-diberi-waktu-hingga-2029",
-  "category": "Aksi Korporasi",
-  "title": "PURI Baru Capai [14,74%] Free Float, Diberi Waktu hingga 2029",
-  "deck": "PURI menjelaskan ke Bursa Efek Indonesia bahwa free float publiknya baru 14,74%, di bawah syarat minimum 15%, dan berjanji memenuhinya sebelum 31 Maret 2029.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PURI",
-   "free float",
-   "kepemilikan saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4b57675dc_f0b0b602c9.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "petrokimia-gresik-raih-paten-manfaatkan-silika-limbah",
+  "category": "Industri",
+  "title": "Petrokimia Gresik Raih Paten Manfaatkan [Silika] Limbah",
+  "deck": "Petrokimia Gresik meraih paten sederhana atas inovasi memakai produk samping silika sebagai pengganti bahan penyaring impor dalam produksi asam sulfat.",
+  "image": "assets/img/petrokimia-gresik-raih-paten-manfaatkan-silika-limbah.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T12:21:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468572-ubah-produk-samping-jadi-solusi-agroindustri-petrokimia-gresik-raih-paten-inovasi-silika",
+  "tags": [
+   "Petrokimia Gresik",
+   "paten",
+   "silika",
+   "asam sulfat"
+  ],
+  "body": [
+   "PT Petrokimia Gresik mengembangkan inovasi yang mengubah silika, produk samping dari proses produksi aluminium fluorida, menjadi bahan penyaring belerang cair pada proses produksi asam sulfat. Direktur Utama Petrokimia Gresik, Daconi Khotob, mengatakan pada Senin (21/9) bahwa inovasi ini telah mendapat Sertifikat Paten Sederhana dari Kementerian Hukum. Terobosan ini mengubah material yang selama ini menjadi beban pengelolaan menjadi bahan bernilai guna, sekaligus mengurangi ketergantungan perusahaan pada bahan penyaring dari pihak luar.",
+   "Sertifikat paten tersebut diserahkan oleh Menteri Hukum Supratman Andi Agtas kepada Senior Vice President Operasi III Petrokimia Gresik, Bambang Ariwibowo, dalam acara What's Up Campus Calls Out yang digelar Kementerian Hukum di Airlangga Convention Center. Selama ini, penyaringan belerang cair mengandalkan diatomaceous earth yang dibeli dari pihak lain. Padahal, setiap bulan unit produksi aluminium fluorida Petrokimia Gresik menghasilkan sekitar 990 ton silika padat yang membutuhkan area penyimpanan dan pengelolaan tersendiri.",
+   "Asam sulfat merupakan salah satu bahan baku dalam produksi pupuk, dan proses pembuatannya memerlukan tahap penyaringan belerang cair agar hasilnya bersih dan sesuai standar mutu. Dengan memanfaatkan silika sebagai alternatif bahan penyaring, Petrokimia Gresik dapat mengoptimalkan produk samping sekaligus mengurangi kebutuhan pembelian bahan dari pihak ketiga. Perusahaan memproyeksikan langkah ini bisa menghemat biaya produksi hingga sekitar Rp259,6 juta per tahun."
+  ],
+  "fotoAdegan": "Workers in safety gear inspecting steel filtration tanks and pipelines inside a large chemical fertilizer plant, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/22/6ab20f4834da3-petrokimia-gresik-raih-paten-inovasi-silika_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya, Petrokimia Gresik kini bisa mengganti diatomaceous earth, tanah halus yang biasa dibeli dari pihak lain untuk menyaring cairan, dengan silika, sisa dari produksi aluminium fluorida yang selama ini cuma jadi limbah sebanyak 990 ton per bulan dan butuh gudang khusus. Pihak yang terdampak langsung adalah Petrokimia Gresik sendiri lewat penghematan biaya bahan baku dan pengelolaan limbah, sementara pemasok diatomaceous earth berpotensi kehilangan sebagian permintaan dari perusahaan ini. Potensi hemat yang disebutkan sekitar Rp259,6 juta per tahun tergolong kecil untuk perusahaan sebesar Petrokimia Gresik, sehingga langkah ini lebih tepat dibaca sebagai efisiensi teknis dan pengelolaan limbah ketimbang perubahan besar pada struktur biaya produksi pupuk. Yang akan menunjukkan apakah pola ini berlanjut adalah apakah Petrokimia Gresik atau perusahaan lain di grup Pupuk Indonesia mengulang cara serupa, yakni mengubah produk samping pabrik menjadi bahan baku pengganti impor.",
+  "imageV": "mucadwrq"
+ },
+ {
   "slug": "pbsa-rombak-nilai-saham-lewat-stock-split-ke-rp25",
   "category": "Aksi Korporasi",
   "title": "PBSA Rombak Nilai Saham Lewat [Stock Split] ke Rp25",
@@ -27,6 +53,33 @@ var ARTICLES = [
   "fotoAdegan": "Bulldozer grading a wide reddish brown haul road through a Kalimantan coal mining site, misty morning light, no signage visible",
   "takeaway": "Keputusan RUPSLB ini netral bagi fundamental Paramita Bangun Sarana, sebab stock split cuma memecah nilai nominal saham dan tidak mengubah ekuitas, kas, atau laba perusahaan sama sekali. Yang berubah adalah jumlah saham beredar, yang berpotensi naik dua kali lipat seiring nominal per saham turun dari Rp50 menjadi Rp25, sehingga laba per saham akan tercatat lebih kecil secara nominal meski porsi kepemilikan tiap pemegang saham tidak berkurang. Langkah semacam ini lazim dipakai emiten untuk membuat harga saham per lembar lebih terjangkau bagi investor ritel dan menambah likuiditas perdagangan, tanpa mengubah nilai fundamental perusahaan. Yang perlu dipantau berikutnya adalah proses pengesahan perubahan Pasal 4 Anggaran Dasar oleh Kementerian Hukum dan HAM serta jadwal resmi pelaksanaan stock split yang baru akan ditetapkan Direksi sesuai ketentuan OJK dan BEI, karena RUPSLB baru memberi kuasa dan belum menetapkan tanggal efektifnya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp17-879-investor-tunggu-rdg-bi",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.879, Investor Tunggu RDG BI",
+  "deck": "Rupiah melemah 32 poin ke Rp17.879 per dolar AS jelang keputusan suku bunga BI, di tengah kenaikan suku bunga The Fed, BOJ, dan ECB.",
+  "image": "assets/img/rupiah-melemah-ke-rp17-879-investor-tunggu-rdg-bi.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T10:52:53+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468553-rupiah-melemah-ke-rp17879-per-dolar-as-seiring-wait-and-see-investor-jelang-rdg-bi",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "Bank Indonesia",
+   "The Fed"
+  ],
+  "body": [
+   "Nilai tukar rupiah dibuka melemah 32 poin atau 0,18 persen ke Rp17.879 per dolar AS pada Selasa, dari posisi penutupan sebelumnya di Rp17.847. Pelemahan ini terjadi menjelang Rapat Dewan Gubernur Bank Indonesia, sehingga banyak investor memilih menahan diri dan menunggu hasil keputusan sebelum mengambil posisi baru.",
+   "Analis Bank Woori Saudara, Rully Nova, menyebut sikap wait and see itu sebagai pemicu utama pelemahan rupiah hari ini. Bank Indonesia diperkirakan akan menahan suku bunga acuan demi menjaga momentum pertumbuhan ekonomi, dengan mengandalkan lelang Sekuritas Rupiah Bank Indonesia, swap point, dan intervensi di pasar obligasi untuk menstabilkan rupiah dalam jangka pendek.",
+   "Di sisi lain, bank sentral Amerika Serikat, Jepang, dan Eropa sama-sama menaikkan suku bunga acuan masing-masing 25 basis poin pada September 2026. Harga minyak dunia juga masih bertahan di atas asumsi APBN sebesar US$70 per barel meski trennya menurun, sebuah kondisi yang dikhawatirkan memperlebar defisit anggaran dan neraca perdagangan.",
+   "Dengan sejumlah faktor tersebut, rupiah diproyeksikan bergerak di kisaran Rp17.800 hingga Rp17.900 per dolar AS."
+  ],
+  "fotoAdegan": "Teller arranging foreign currency notes at a money changer counter, blurred exchange rate board behind, soft morning light in Jakarta",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bddf204303e-ilustrasi-rupiah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma angka rupiah yang turun tipis, tapi arah suku bunga global yang mulai berbeda dari sikap Bank Indonesia. The Fed, bank sentral Jepang, dan bank sentral Eropa sama-sama menaikkan bunga 25 basis poin bulan ini, sementara BI diperkirakan menahan bunganya, artinya selisih bunga antara rupiah dan mata uang utama dunia melebar dan itu biasanya membuat investor asing lebih tertarik memegang dolar ketimbang rupiah. Ditambah harga minyak dunia yang masih di atas patokan anggaran pemerintah sebesar US$70 per barel, tekanan ke anggaran negara dan neraca perdagangan berpotensi berlanjut, yang ujungnya bisa menambah beban bagi pelaku usaha yang mengimpor bahan baku serta pemerintah yang menanggung subsidi energi. Arah ini akan lebih jelas begitu hasil Rapat Dewan Gubernur BI diumumkan, karena keputusan itu akan menentukan apakah selisih bunga tadi melebar lebih jauh atau tertahan.",
+  "imageV": "mucadx9a"
  },
  {
   "slug": "truk-pemegang-saham-baru-kuasai-15-hak-suara-guna-timur-raya",

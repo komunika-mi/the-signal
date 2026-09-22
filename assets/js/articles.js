@@ -3,6 +3,114 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "investasi-plts-100-gw-tembus-rp1-306-triliun",
+  "category": "Energi",
+  "title": "Investasi PLTS 100 GW Tembus [Rp1.306] Triliun",
+  "deck": "Menteri ESDM Bahlil Lahadalia mengungkap kebutuhan investasi 100 gigawatt PLTS mencapai Rp1,306 triliun, ditargetkan rampung dalam tiga tahun.",
+  "image": "assets/img/investasi-plts-100-gw-tembus-rp1-306-triliun.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T19:30:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468700-bahlil-ungkap-investasi-plts-100-gw-tembus-rp1306-triliun-ditarget-rampung-3-tahun",
+  "tags": [
+   "PLTS",
+   "ESDM",
+   "Bahlil Lahadalia",
+   "net zero emission"
+  ],
+  "body": [
+   "Pemerintah melalui Kementerian ESDM mengungkap kebutuhan investasi untuk membangun pembangkit listrik tenaga surya (PLTS) berkapasitas total 100 gigawatt diperkirakan mencapai US$70 miliar hingga US$73 miliar, atau setara Rp1.252 triliun hingga Rp1.306 triliun berdasarkan kurs Rp17.895,94 per dolar AS. Proyek berskala besar ini ditargetkan rampung dalam tiga tahun dan menjadi salah satu program energi hijau andalan pemerintahan Presiden Prabowo Subianto.",
+   "Menteri ESDM Bahlil Lahadalia menyampaikan rencana tersebut dalam forum MKI Electricity Connect 2026, Selasa (22/9/2026). Ia menyebut penambahan kapasitas PLTS ini sebagai langkah konkret pemerintah menjalankan komitmen Indonesia terhadap target net zero emission, yaitu kondisi ketika emisi karbon yang dilepas seimbang dengan yang diserap, pada rentang tahun 2050 sampai 2060.",
+   "Bahlil menegaskan komitmen itu tetap dipegang pemerintah meski sejumlah negara mulai menarik diri dari Paris Agreement, kesepakatan internasional soal pengurangan emisi karbon, dan kembali mengandalkan energi fosil. \"Sekalipun negara-negara lain keluar daripada Paris Agreement untuk net zero emission dengan menggantikan fosil mereka kepada energi baru terbarukan, Bapak Presiden Prabowo memerintahkan kepada kita bahwa Indonesia, sekalipun negara yang hebat-hebat itu keluar, Indonesia tetap akan konsisten untuk memenuhi target net zero emission kita di 2050 sampai dengan 2060,\" kata Bahlil.",
+   "Komitmen ini diterjemahkan lewat revisi Rencana Usaha Penyediaan Tenaga Listrik (RUPTL), yang mematok porsi energi baru terbarukan mencapai 70 persen dari bauran energi sekaligus menambah 100 gigawatt kapasitas PLTS. Menurut Bahlil, perhitungan investasi US$70 miliar hingga US$73 miliar tersebut sudah disusun Kementerian ESDM dan menggambarkan besarnya peluang pengembangan energi surya di dalam negeri."
+  ],
+  "fotoAdegan": "Workers installing long rows of solar panels across an open field under bright midday sun in Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/17/6aab9595ddd0f-pabrik-furnitur-di-jawa-timur-gunakan-plts-atap_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah pemerintah kini punya angka pasti untuk proyek penambahan pembangkit listrik tenaga surya sebesar 100 gigawatt, satuan daya listrik berskala sangat besar, dengan kebutuhan dana US$70 miliar sampai US$73 miliar dan target rampung tiga tahun. Yang terdampak langsung adalah PLN dan calon investor pembangkit listrik swasta, sebab dana sebesar itu mustahil ditanggung anggaran negara sendirian sehingga proyek ini bakal sangat bergantung pada masuknya modal swasta dan asing. Arahnya jelas ke ekspansi energi surya besar-besaran, dipertegas lewat revisi rencana resmi kelistrikan PLN yang mematok porsi energi terbarukan 70 persen, dan ini dilakukan justru saat sejumlah negara maju mengendurkan komitmennya pada Paris Agreement. Yang akan membuktikan apakah target ini bergerak nyata atau sekadar rencana di atas kertas adalah isi revisi RUPTL itu sendiri, termasuk jadwal lelang proyek dan pembagian kapasitas per tahun, yang belum diungkap dalam pernyataan Bahlil kali ini.",
+  "imageV": "muco4bfm"
+ },
+ {
+  "slug": "menkeu-siapkan-3-strategi-perkuat-pengawasan-bea-cukai",
+  "category": "Makroekonomi",
+  "title": "Menkeu Siapkan 3 Strategi [Perkuat] Pengawasan Bea Cukai",
+  "deck": "Suahasil Nazara memaparkan tiga langkah memperkuat pengawasan DJBC: penguatan SDM, pemanfaatan teknologi, dan pembenahan proses bisnis.",
+  "image": "assets/img/menkeu-siapkan-3-strategi-perkuat-pengawasan-bea-cukai.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T19:25:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468715-jurus-menkeu-suahasil-untuk-perkuat-pengawasan-bea-cukai-siapkan-3-strategi",
+  "tags": [
+   "bea cukai",
+   "DJBC",
+   "Kemenkeu",
+   "Suahasil Nazara"
+  ],
+  "body": [
+   "Menteri Keuangan Suahasil Nazara mengumumkan tiga langkah yang akan ditempuh pemerintah untuk memperkuat pengawasan Direktorat Jenderal Bea dan Cukai (DJBC), yaitu peningkatan kualitas sumber daya manusia, pemanfaatan teknologi, dan pembenahan proses bisnis. Pernyataan itu disampaikan dalam konferensi pers di Kantor Pusat DJBC, Jakarta, Selasa (22/9/2026). Rencana ini penting karena Bea Cukai menjadi garda depan pengawasan arus barang impor dan ekspor, sekaligus penjaga penerimaan negara dari sektor kepabeanan dan cukai.",
+   "Suahasil menempatkan penguatan SDM sebagai langkah pertama dan fondasi utama, karena efektivitas pengawasan sangat bergantung pada integritas petugas di lapangan. Ia meminta seluruh aparat pengawasan menjalankan tugas secara tertib dan disiplin, serta terus meningkatkan kompetensi, dengan alasan upaya membersihkan sistem tidak akan berhasil kalau dilakukan oleh pihak yang sendiri belum bersih. Ia juga memastikan sistem dan regulasi internal DJBC akan terus diperkuat untuk mendukung pelaksanaan tugas pengawasan tersebut.",
+   "Langkah kedua adalah optimalisasi teknologi. Suahasil menyebut skala pengawasan yang terus membesar membuat pemeriksaan manual satu per satu kontainer sudah tidak lagi realistis, sehingga teknologi diperlukan agar pengawasan tetap efektif meski volume barang yang diawasi terus bertambah.",
+   "Adapun langkah ketiga, pembenahan proses bisnis, hanya disebut Suahasil sebagai bagian dari tiga strategi tersebut tanpa penjelasan lebih lanjut soal bentuk dan tahapan pelaksanaannya dalam kesempatan itu."
+  ],
+  "fotoAdegan": "Customs officers checking rows of shipping containers at a busy seaport terminal, cranes and cargo ships in the background.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bdbd7f28f26-ilustrasi-kantor-bea-cukai-pusat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru berupa kerangka besar, bukan aturan teknis. Menkeu menyebut tiga arah kerja, yakni memperkuat SDM, memakai teknologi, dan membenahi proses bisnis, tanpa target waktu, anggaran, atau ukuran keberhasilan yang bisa dicek publik. Pihak yang langsung kena dampak adalah petugas Bea Cukai sendiri, karena disiplin dan integritas mereka disorot langsung oleh Menkeu, sementara pelaku usaha importir dan eksportir baru akan merasakan efeknya kalau pengawasan berbasis teknologi ini benar diterapkan di lapangan. Yang masih kurang untuk bisa membaca arahnya adalah rincian sistem teknologi apa yang dipakai, berapa anggarannya, dan kapan mulai berjalan, sebab tanpa itu belum jelas apakah ini program reformasi konkret atau baru pernyataan umum. Yang perlu dipantau adalah apakah DJBC merilis aturan turunan atau rencana kerja dengan tenggat waktu setelah pernyataan ini, sebagai tanda tiga strategi tersebut benar dijalankan.",
+  "imageV": "muco4eak"
+ },
+ {
+  "slug": "indodana-dapat-suntikan-rp700-miliar-dari-hsbc-untuk-paylater",
+  "category": "Perbankan",
+  "title": "Indodana Dapat Suntikan [Rp700 Miliar] dari HSBC untuk PayLater",
+  "deck": "PayLater kian populer namun risiko kredit macet mengintai. Indodana Finance memperkuat pembiayaan lewat dana Rp700 miliar dari Bank HSBC Indonesia.",
+  "image": "assets/img/indodana-dapat-suntikan-rp700-miliar-dari-hsbc-untuk-paylater.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T19:01:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468702-paylater-makin-populer-indodana-finance-perkuat-pembiayaan-sehat-dengan-dana-rp700-miliar",
+  "tags": [
+   "paylater",
+   "indodana finance",
+   "bnpl",
+   "hsbc indonesia"
+  ],
+  "body": [
+   "Layanan Buy Now Pay Later atau PayLater semakin diminati masyarakat Indonesia, bergeser dari sekadar metode pembayaran alternatif menjadi bagian dari kebiasaan belanja digital. Di tengah tren ini, PT Indodana Multi Finance memperkuat pembiayaannya melalui kemitraan strategis dengan Bank HSBC Indonesia, ditandai dengan penyaluran dana senilai Rp700 miliar.",
+   "Pertumbuhan PayLater didorong oleh kemudahannya menjangkau masyarakat yang belum tersentuh layanan perbankan konvensional, serta keterhubungannya dengan berbagai platform digital seperti e-commerce, aplikasi transportasi online, hingga pemesanan tiket perjalanan. Proses pengajuan yang cepat dan sederhana membuat layanan ini kian digemari, meski di sisi lain memunculkan kekhawatiran soal kredit macet dan potensi utang yang menumpuk di luar kemampuan bayar pengguna.",
+   "Untuk menjaga kualitas pembiayaan, penyedia PayLater didorong memperkuat penilaian kelayakan calon peminjam dengan memanfaatkan data dan teknologi, bukan sekadar mengejar pertumbuhan jumlah pengguna. Hal ini penting karena kemudahan bertransaksi berpotensi mendorong pembelian impulsif di luar kemampuan pendapatan bulanan, dan tunggakan pembayaran PayLater akan tercatat dalam Sistem Layanan Informasi Keuangan OJK, yang bisa memengaruhi peluang pengguna saat mengajukan kredit lain seperti KPR atau pembiayaan usaha di kemudian hari.",
+   "Pengelolaan risiko ini membutuhkan peran bersama tiga pihak. Penyelenggara PayLater perlu menyesuaikan limit kredit berdasarkan rekam jejak pembayaran dan mendeteksi potensi gagal bayar sejak dini, regulator berperan mengawasi serta menegakkan aturan perlindungan konsumen, sementara pengguna diingatkan bahwa PayLater tetap merupakan fasilitas pembiayaan yang wajib dilunasi, bukan dana tambahan tanpa konsekuensi."
+  ],
+  "fotoAdegan": "Close-up of a hand holding a smartphone at a small shop checkout counter in Jakarta, screen tilted away from camera, natural light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/08/21/68a6b2583a376-ilustrasi-duh-terlanjur-pake-paylater-buat-kebutuhan-memangnya-haram-dalam-islam-ternyata-hukum-beli-sekarang-bayar-nanti-menurut-islam-begini_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah masuknya dana Rp700 miliar dari Bank HSBC Indonesia ke Indodana Finance, sinyal bahwa investor masih mau menambah modal ke perusahaan PayLater meski risiko utang menumpuk dan kredit macet di industri ini semakin disorot. Yang terdampak langsung adalah nasabah PayLater Indodana, karena dana segar ini kemungkinan dipakai memperbesar kapasitas pembiayaan mereka, sementara pengguna PayLater secara umum perlu makin waspada sebab tunggakan kini tercatat di SLIK OJK dan bisa menyulitkan pengajuan KPR atau kredit usaha di kemudian hari. Beritanya belum menyebut berapa lama tenor pendanaan ini atau syarat apa yang mengikat penggunaannya, jadi belum jelas apakah dana ini datang bersama komitmen memperketat manajemen risiko atau sekadar modal kerja untuk ekspansi biasa. Yang perlu dipantau berikutnya adalah bagaimana Indodana dan pemain PayLater lain melaporkan angka kredit macet mereka, karena itu yang akan menunjukkan apakah suntikan dana seperti ini dibarengi perbaikan kualitas pembiayaan atau justru mempercepat pertumbuhan tanpa pengereman yang memadai.",
+  "imageV": "muco4eyw"
+ },
+ {
+  "slug": "t50-summit-rilis-50-raksasa-mesin-tambang-dunia",
+  "category": "Industri",
+  "title": "T50 Summit [Rilis] 50 Raksasa Mesin Tambang Dunia",
+  "deck": "T50 Summit Indonesia Forum 2026 di Jakarta merilis peringkat 50 produsen mesin tambang dunia dengan total pendapatan US$74,29 miliar, dipimpin Komatsu dan Caterpillar.",
+  "image": "assets/img/t50-summit-rilis-50-raksasa-mesin-tambang-dunia.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T18:53:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468698-t50-summit-2026-rilis-50-raksasa-mesin-tambang-dunia-pendapatan-tembus-us7429-miliar",
+  "tags": [
+   "T50 Summit",
+   "mesin tambang",
+   "industri pertambangan",
+   "Komatsu"
+  ],
+  "body": [
+   "T50 Summit Indonesia Forum 2026 digelar di Shangri-La Hotel Jakarta, menandai kali kedua forum internasional produsen mesin konstruksi dan tambang ini berlangsung di Indonesia. Dalam forum tersebut, panitia merilis daftar 50 produsen mesin pertambangan terbesar dunia yang secara gabungan mencatat pendapatan US$74,29 miliar dari lini bisnis tambang, penggalian, dan pengolahan material.",
+   "Perusahaan dalam daftar berasal dari 17 negara, dengan Amerika Serikat menyumbang 11 perusahaan dan China 10 perusahaan sebagai dua kontributor terbanyak. Jerman menempatkan lima perusahaan, Jepang empat, Swedia tiga, sementara Austria, Kanada, Finlandia, India, dan Inggris masing-masing menyumbang dua perusahaan. Tujuh negara lain, yaitu Australia, Belarus, Belgia, Denmark, Polandia, Afrika Selatan, dan Korea Selatan, masing-masing menempatkan satu perusahaan.",
+   "Komatsu dan Caterpillar menempati posisi puncak, diikuti Sandvik, Epiroc, dan Metso di lima besar. Posisi keenam hingga kesepuluh diisi Hitachi Construction Machinery-LANDCROS, Volvo, FLSmidth, Weir Group, dan Liebherr. Sepuluh perusahaan teratas ini membukukan pendapatan gabungan US$57,72 miliar, atau sekitar 77,7 persen dari total pendapatan seluruh 50 perusahaan dalam daftar.",
+   "T50 Summit sendiri berdiri sejak 2011 dan rutin merilis sejumlah pemeringkatan tahunan, termasuk daftar produsen mesin konstruksi dunia, perusahaan penyewaan alat berat, dan perusahaan heavy-lift di Asia. Forum ini juga jadi ajang pembahasan laporan pasar dan tren industri konstruksi serta pertambangan global, dengan kriteria penilaian mencakup kepemimpinan pasar, inovasi, keberlanjutan, dan nilai bagi pelanggan."
+  ],
+  "fotoAdegan": "Rows of yellow mining excavators and haul trucks parked at a dusty mine site staging area under an overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/22/6ab269249265c-t50-summit-indonesia-forum-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan, melainkan status Jakarta sebagai tuan rumah forum global alat berat tambang untuk kedua kalinya, sekaligus rilis data bahwa sepuluh dari lima puluh produsen alat berat tambang terbesar dunia menguasai 77,7 persen dari total pendapatan gabungan mereka, sekitar US$57,72 miliar. Ini menunjukkan pasar mesin tambang dunia sangat terpusat di segelintir perusahaan besar seperti Komatsu dan Caterpillar, bukan tersebar merata ke banyak pemain. Yang berpotensi terdampak adalah pelaku industri pertambangan dan penyedia alat berat di Indonesia, karena forum ini menyebut RI sebagai salah satu pasar yang tumbuh pesat di sektor tambang, energi, dan infrastruktur. Namun berita ini belum memuat angka investasi, kontrak, atau komitmen konkret dari perusahaan-perusahaan tersebut ke Indonesia, jadi klaim itu masih perlu dibuktikan lewat data realisasi investasi alat berat atau kontrak proyek tambang yang muncul setelah forum ini selesai.",
+  "imageV": "muco4gum"
+ },
+ {
   "slug": "rcep-sepakat-bentuk-kelompok-kerja-aksesi-4-ekonomi-baru",
   "category": "Global",
   "title": "RCEP Sepakat Bentuk Kelompok Kerja [Aksesi] 4 Ekonomi Baru",

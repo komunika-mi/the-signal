@@ -5,6 +5,74 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "investasi-plts-100-gw-tembus-rp1-306-triliun",
+  "category": "Energi",
+  "title": "Investasi PLTS 100 GW Tembus [Rp1.306] Triliun",
+  "deck": "Menteri ESDM Bahlil Lahadalia mengungkap kebutuhan investasi 100 gigawatt PLTS mencapai Rp1,306 triliun, ditargetkan rampung dalam tiga tahun.",
+  "date": "22 September 2026",
+  "image": "assets/img/investasi-plts-100-gw-tembus-rp1-306-triliun.jpg",
+  "imageV": "muco4bfm",
+  "tags": [
+   "PLTS",
+   "ESDM",
+   "Bahlil Lahadalia",
+   "net zero emission"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468700-bahlil-ungkap-investasi-plts-100-gw-tembus-rp1306-triliun-ditarget-rampung-3-tahun"
+ },
+ {
+  "slug": "menkeu-siapkan-3-strategi-perkuat-pengawasan-bea-cukai",
+  "category": "Makroekonomi",
+  "title": "Menkeu Siapkan 3 Strategi [Perkuat] Pengawasan Bea Cukai",
+  "deck": "Suahasil Nazara memaparkan tiga langkah memperkuat pengawasan DJBC: penguatan SDM, pemanfaatan teknologi, dan pembenahan proses bisnis.",
+  "date": "22 September 2026",
+  "image": "assets/img/menkeu-siapkan-3-strategi-perkuat-pengawasan-bea-cukai.jpg",
+  "imageV": "muco4eak",
+  "tags": [
+   "bea cukai",
+   "DJBC",
+   "Kemenkeu",
+   "Suahasil Nazara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468715-jurus-menkeu-suahasil-untuk-perkuat-pengawasan-bea-cukai-siapkan-3-strategi"
+ },
+ {
+  "slug": "indodana-dapat-suntikan-rp700-miliar-dari-hsbc-untuk-paylater",
+  "category": "Perbankan",
+  "title": "Indodana Dapat Suntikan [Rp700 Miliar] dari HSBC untuk PayLater",
+  "deck": "PayLater kian populer namun risiko kredit macet mengintai. Indodana Finance memperkuat pembiayaan lewat dana Rp700 miliar dari Bank HSBC Indonesia.",
+  "date": "22 September 2026",
+  "image": "assets/img/indodana-dapat-suntikan-rp700-miliar-dari-hsbc-untuk-paylater.jpg",
+  "imageV": "muco4eyw",
+  "tags": [
+   "paylater",
+   "indodana finance",
+   "bnpl",
+   "hsbc indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468702-paylater-makin-populer-indodana-finance-perkuat-pembiayaan-sehat-dengan-dana-rp700-miliar"
+ },
+ {
+  "slug": "t50-summit-rilis-50-raksasa-mesin-tambang-dunia",
+  "category": "Industri",
+  "title": "T50 Summit [Rilis] 50 Raksasa Mesin Tambang Dunia",
+  "deck": "T50 Summit Indonesia Forum 2026 di Jakarta merilis peringkat 50 produsen mesin tambang dunia dengan total pendapatan US$74,29 miliar, dipimpin Komatsu dan Caterpillar.",
+  "date": "22 September 2026",
+  "image": "assets/img/t50-summit-rilis-50-raksasa-mesin-tambang-dunia.jpg",
+  "imageV": "muco4gum",
+  "tags": [
+   "T50 Summit",
+   "mesin tambang",
+   "industri pertambangan",
+   "Komatsu"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468698-t50-summit-2026-rilis-50-raksasa-mesin-tambang-dunia-pendapatan-tembus-us7429-miliar"
+ },
+ {
   "slug": "rcep-sepakat-bentuk-kelompok-kerja-aksesi-4-ekonomi-baru",
   "category": "Global",
   "title": "RCEP Sepakat Bentuk Kelompok Kerja [Aksesi] 4 Ekonomi Baru",
@@ -6442,73 +6510,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-segera-seleksi-dan-tetapkan-peserta-maganghub-batch-2-angkatan-ii",
   "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "ica-cepa-diratifikasi-kanada-pangkas-tarif-90-produk-ri",
-  "category": "Global",
-  "title": "ICA-CEPA [Diratifikasi], Kanada Pangkas Tarif 90% Produk RI",
-  "deck": "Indonesia dan Kanada resmi meratifikasi ICA-CEPA, perjanjian dagang bilateral pertama Kanada dengan ASEAN, yang akan memangkas tarif pada lebih dari 90 persen produk kedua negara.",
-  "date": "16 September 2026",
-  "image": "assets/img/kapal-batubara.jpg",
-  "tags": [
-   "ICA-CEPA",
-   "Indonesia-Kanada",
-   "Tarif Dagang",
-   "ASEAN"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7095/menko-airlangga-ajak-pelaku-usaha-asean-kanada-manfaatkan-implementasi-ica-cepa-dengan-maksimal",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "indonesia-perketat-tata-kelola-ekspor-teknologi-strategis",
-  "category": "Industri",
-  "title": "Indonesia Perketat Tata Kelola [Ekspor] Teknologi Strategis",
-  "deck": "Pemerintah menyiapkan kerangka pengendalian perdagangan barang dan teknologi strategis, seiring ekspor semikonduktor RI melonjak ke US$4,1 miliar pada 2025.",
-  "date": "15 September 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
-  "tags": [
-   "semikonduktor",
-   "ekspor",
-   "kebijakan perdagangan",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7094/wujudkan-perdagangan-aman-dan-terpercaya-indonesia-perkuat-strategic-trade-management",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "distribusi-b50-tembus-94-persen-spbu-esdm-kejar-tenggat",
-  "category": "Energi",
-  "title": "Distribusi B50 Tembus [94] Persen SPBU, ESDM Kejar Tenggat",
-  "deck": "Hingga pertengahan September, distribusi B50 mencapai 94 persen dari 6.412 SPBU, sementara 28 dari 104 terminal penyalur masih beralih dari B40 sebelum tenggat 30 September.",
-  "date": "15 September 2026",
-  "image": "assets/img/distribusi-b50-tembus-94-persen-spbu-esdm-kejar-tenggat.jpg",
-  "imageV": "mu2tczi1",
-  "tags": [
-   "B50",
-   "biodiesel",
-   "ESDM",
-   "SPBU"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kawal-implementasi-b50-kementerian-esdm-perkuat-uji-teknis-dan-dialog-dengan-industri-otomotif",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "pabrik-pelumas-shell-beroperasi-pasokan-lokal-ke-98",
-  "category": "Industri",
-  "title": "Pabrik Pelumas Shell Beroperasi, Pasokan Lokal ke [98%]",
-  "deck": "Shell mulai mengoperasikan pabrik gemuk/pelumas baru di Indonesia berkapasitas 12 juta liter per tahun, mendorong pasokan pelumas lokal naik ke lebih dari 98 persen.",
-  "date": "15 September 2026",
-  "image": "assets/img/pabrik-pelumas-shell-beroperasi-pasokan-lokal-ke-98.jpg",
-  "imageV": "mu2td6nw",
-  "tags": [
-   "Shell Indonesia",
-   "Manufaktur",
-   "Investasi",
-   "Substitusi Impor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pabrik-grease-shell-mulai-beroperasi-wamendag-roro-momentum-strategis-perkuat-rantai-pasok-domestik",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

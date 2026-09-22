@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "btps-jelaskan-volatilitas-saham-imbas-rebalancing-ftse-russell",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Jelaskan Volatilitas Saham Imbas [Rebalancing] FTSE Russell",
+  "deck": "BTPN Syariah menyebut volatilitas saham BTPS pada 18 September 2026 dipicu rebalancing indeks FTSE Russell yang mengubah statusnya dari Small Cap ke Micro Cap, bukan informasi material baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T21:00:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d11ee4e37e_51c240cd64.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "BTPN Syariah",
+   "volatilitas saham",
+   "FTSE Russell"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) mengirim surat penjelasan bernomor S.366/DIR/FCA/IX/2026 tertanggal 22 September 2026 kepada Bursa Efek Indonesia, menjawab permintaan penjelasan bursa bernomor S-12205/BEI.PP1/09-2026 tertanggal 21 September 2026 terkait volatilitas transaksi saham BTPS. Perusahaan menegaskan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik, baik yang diatur POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun ketentuan Peraturan Bursa Nomor I-E, yang dapat mempengaruhi harga sahamnya atau keputusan investor.",
+   "Soal kemungkinan aktivitas pemegang saham tertentu yang memicu pergerakan harga, sesuai POJK Nomor 4 Tahun 2024, BTPS menyatakan tidak mengetahui adanya aktivitas semacam itu. Namun setelah menelaah perdagangan pada 18 September 2026, perusahaan mendapati pergerakan sahamnya bersamaan dengan pelaksanaan rebalancing FTSE Russell, sebagai tindak lanjut hasil review indeks bulan September 2026. Dalam rebalancing itu, BTPS berubah klasifikasi dari kategori Small Cap menjadi Micro Cap. Perusahaan menyebut perubahan klasifikasi ini sebagai evaluasi rutin dari penyedia indeks dan merupakan faktor eksternal di luar kendalinya.",
+   "Terkait rencana aksi korporasi dalam tiga bulan ke depan, BTPS merujuk pada keterbukaan informasi rencana RUPSLB yang sudah disampaikan melalui surat Nomor S.341/DIR/CSGC/IX/2026 tanggal 4 September 2026, yakni rencana pembelian kembali saham perusahaan setelah mendapat persetujuan RUPS. Perusahaan juga menyatakan sudah mengonfirmasi ke pemegang saham pengendali dan pemegang saham utama, dan tidak menemukan rencana aksi terkait kepemilikan saham yang wajib diungkapkan. BTPS menutup surat dengan pendapat bahwa pergerakan harga dan lonjakan volume pada 18 September 2026 lebih mencerminkan respons pasar terhadap rebalancing dan penyesuaian portofolio investor, bukan perubahan fundamental atau kondisi operasional perusahaan. Surat ini disampaikan secara elektronik oleh Corporate Secretary and General Counsel Head Yunita C. Haerani, sementara salinan pindaian surat ditandatangani Direktur Kepatuhan Arief Ismail dan Direktur Fachmy Achmad."
+  ],
+  "fotoAdegan": "Traders in a busy Jakarta brokerage office glancing at distant blurred monitors, phones in hand, morning light",
+  "takeaway": "Penjelasan ini netral bagi BTPS, karena isinya murni menjelaskan pemicu teknis di balik lonjakan transaksi, bukan mengungkap perubahan bisnis atau keuangan perusahaan. Yang perlu dipahami pembaca, klasifikasi Small Cap dan Micro Cap dari FTSE Russell itu sekadar pengelompokan berdasarkan nilai pasar saham (harga saham dikali jumlah saham beredar), dan ketika BTPS turun kelas ke Micro Cap, dana investasi yang portofolionya mengikuti indeks tersebut bisa ikut menyesuaikan kepemilikannya, sehingga muncul lonjakan jual beli yang sebenarnya tidak berkaitan dengan kinerja bank. Yang perlu dipantau selanjutnya adalah jadwal RUPSLB dan realisasi rencana pembelian kembali saham hingga Rp1 triliun yang sudah diumumkan sejak 4 September 2026, karena pembelian kembali itu akan mengurangi jumlah saham beredar dan berpotensi mengubah laba per saham BTPS ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kkgi-komisaris-hendro-tambah-93-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "KKGI: Komisaris Hendro Tambah [93.000] Saham Lagi",
+  "deck": "Komisaris KKGI Hendro Martowardojo membeli 93.000 saham secara tidak langsung di harga Rp328, menyusul pembelian serupa pekan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T20:19:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-9273-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KKGI",
+  "tags": [
+   "KKGI",
+   "Kepemilikan Saham",
+   "Komisaris",
+   "Resource Alam Indonesia"
+  ],
+  "body": [
+   "Anggota Dewan Komisaris Resource Alam Indonesia Tbk (KKGI), Drs. Hendro Martowardojo, melaporkan pembelian 93.000 lembar saham perusahaan kepada Otoritas Jasa Keuangan pada 22 September 2026. Transaksi dilakukan secara tidak langsung pada 21 September 2026 dengan harga Rp328 per saham, dengan tujuan investasi.",
+   "Berdasarkan laporan tersebut, kepemilikan Hendro naik dari 5.714.528 lembar menjadi 5.807.528 lembar saham KKGI, atau bertambah 93.000 lembar. Kenaikan ini membawa hak suaranya di perusahaan naik tipis dari 0,1143 persen menjadi 0,1162 persen dari total saham beredar.",
+   "Pembelian ini menyusul transaksi serupa yang dilaporkan Hendro pada 17 September 2026, saat ia menambah 200.000 lembar saham KKGI. Dengan dua transaksi dalam sepekan terakhir, komisaris tersebut telah menambah total 293.000 lembar saham KKGI, meski porsinya terhadap seluruh saham beredar perusahaan masih sangat kecil."
+  ],
+  "fotoAdegan": "Open-pit coal mine haul road with heavy trucks and a loading conveyor under an overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi KKGI karena tambahan 93.000 lembar saham hanya menggeser hak suara Hendro dari 0,1143 persen menjadi 0,1162 persen dari seluruh saham beredar, perubahan yang nyaris tidak berarti bagi peta kendali perusahaan. Yang tersentuh di sini adalah jumlah saham beredar dan sebaran kepemilikannya, bukan kinerja keuangan KKGI, sehingga pelaku pasar biasanya melihatnya sebagai sinyal kepercayaan pribadi komisaris, bukan indikator arus kas atau laba perusahaan. Sepanjang pembelian dilakukan bertahap dalam jumlah kecil seperti ini, dampaknya ke struktur saham tetap minim, tapi pola pembelian berulang dalam sepekan terakhir, dari 200.000 lembar pada 17 September menjadi tambahan 93.000 lembar pada 21 September, layak terus dipantau untuk melihat apakah akumulasi ini berlanjut ke jumlah yang lebih signifikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bafi-terbitkan-obligasi-dan-sukuk-rp902-miliar-rating-aaa",
+  "category": "Aksi Korporasi",
+  "title": "BAFI Terbitkan Obligasi dan Sukuk Rp902 Miliar, Rating [AAA]",
+  "deck": "BAFI menerbitkan obligasi tahap II senilai Rp552,26 miliar dan sukuk mudharabah Rp350 miliar, dengan bunga tetap 7,10-7,35 persen per tahun dan peringkat AAA dari Fitch dan Pefindo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T19:56:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fe18f57d56_9bbfced863.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAFI",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "sukuk",
+   "multifinance"
+  ],
+  "body": [
+   "PT Bussan Auto Finance (BAFI) menyampaikan informasi tambahan terkait penerbitan Obligasi Berkelanjutan IV Tahap II dan Sukuk Mudharabah Berkelanjutan II Tahap II Tahun 2026, bagian dari program penawaran umum berkelanjutan yang menargetkan total dana Rp4 triliun untuk obligasi dan Rp1 triliun untuk sukuk mudharabah. Pada tahap II ini, perseroan menerbitkan obligasi dengan jumlah pokok Rp552,26 miliar dan sukuk mudharabah senilai Rp350 miliar, sehingga total dana yang dihimpun pada tahap ini mencapai Rp902,26 miliar.",
+   "Obligasi tahap II terbagi dua seri. Seri A senilai Rp481,875 miliar menawarkan bunga tetap 7,10 persen per tahun dengan jangka waktu 370 hari kalender sejak tanggal emisi. Seri B senilai Rp70,385 miliar menawarkan bunga tetap 7,35 persen per tahun dengan jangka waktu tiga tahun. Bunga dibayarkan setiap triwulan, dimulai 8 Januari 2027, dengan pelunasan pokok pada 18 Oktober 2027 untuk seri A dan 8 Oktober 2029 untuk seri B.",
+   "Sukuk mudharabah tahap II juga terbagi dua seri dengan skema bagi hasil, bukan bunga. Seri A senilai Rp293,675 miliar memberikan nisbah pemegang sukuk 16,14 persen dari pendapatan yang dibagihasilkan, setara indikasi bagi hasil 7,10 persen per tahun untuk jangka waktu 370 hari kalender. Seri B senilai Rp56,325 miliar memberikan nisbah 16,70 persen, setara 7,35 persen per tahun untuk jangka waktu tiga tahun. Masa penawaran umum berlangsung 1 sampai 5 Oktober 2026, penjatahan 6 Oktober 2026, tanggal emisi 8 Oktober 2026, dan pencatatan di Bursa Efek Indonesia pada 9 Oktober 2026.",
+   "Obligasi dan sukuk ini memperoleh peringkat tertinggi AAA dari Fitch Ratings Indonesia dan Pefindo, dengan sukuk mendapat peringkat idAAA syariah dari Pefindo. Penjamin pelaksana emisi terdiri dari PT Indo Premier Sekuritas, PT Mandiri Sekuritas, dan PT Trimegah Sekuritas Indonesia Tbk, dengan PT Bank Mandiri (Persero) Tbk bertindak sebagai wali amanat. Ini menyusul tahap I yang sudah diterbitkan sebelumnya senilai Rp366,845 miliar untuk obligasi dan Rp100 miliar untuk sukuk mudharabah. Perseroan juga terikat menjaga rasio pinjaman terhadap ekuitas tidak melebihi 10 banding 1 sesuai ketentuan OJK."
+  ],
+  "fotoAdegan": "Rows of new motorcycles lined up inside a bright dealership showroom in Jakarta, a salesperson assisting a customer nearby",
+  "takeaway": "Penerbitan obligasi dan sukuk tahap II ini netral bagi fundamental BAFI karena merupakan bagian rutin dari program pendanaan perusahaan pembiayaan, bukan sinyal tekanan keuangan atau ekspansi luar biasa, apalagi keduanya mendapat peringkat tertinggi AAA dari dua lembaga pemeringkat sekaligus. Yang tersentuh adalah sisi utang dan beban bunga: dana Rp902,26 miliar yang masuk menambah kewajiban perseroan yang harus dibayar bunganya setiap tiga bulan hingga jatuh tempo di 2027 dan 2029, sementara di sisi lain kas segar ini lazimnya disalurkan kembali sebagai pembiayaan konsumen sehingga mendukung bisnis inti perseroan. Perseroan sendiri berkomitmen menjaga rasio utang terhadap modal tidak lebih dari 10 banding 1, jadi penambahan utang ini masih dalam koridor yang mereka janjikan ke pemegang obligasi. Yang perlu dipantau berikutnya adalah masa penawaran umum pada 1 sampai 5 Oktober 2026 serta pencatatan resmi di Bursa Efek Indonesia pada 9 Oktober 2026, karena baru pada tahap itu dana benar-benar terkumpul dan tercatat.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "investasi-plts-100-gw-tembus-rp1-306-triliun",
   "category": "Energi",
   "title": "Investasi PLTS 100 GW Tembus [Rp1.306] Triliun",
@@ -57,6 +136,32 @@ var ARTICLES = [
   "imageV": "muco4eak"
  },
  {
+  "slug": "skbm-rinci-dampak-kebakaran-gudang-nilai-asuransi-rp115-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SKBM Rinci Dampak [Kebakaran] Gudang, Nilai Asuransi Rp115 Miliar",
+  "deck": "Sekar Bumi menjelaskan ke BEI bahwa kebakaran gudang cold storage di Tangerang pada 17 September tak menghentikan operasional, dengan aset terdampak diasuransikan senilai Rp115 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T19:02:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/671e6acfb4_af85e6f287.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SKBM",
+  "tags": [
+   "SKBM",
+   "kebakaran",
+   "asuransi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Sekar Bumi Tbk menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menanggapi surat permintaan penjelasan bursa Nomor S-12175/BEI.PP1/09-2026 tertanggal 18 September 2026, terkait kejadian kebakaran di gudang cold storage milik perseroan. Dalam surat bertanggal 22 September 2026 yang ditandatangani Direktur Freddy Adam, perseroan menjelaskan kebakaran terjadi pada Kamis, 17 September 2026 sekitar pukul 10.30 WIB di gudang cold storage yang berlokasi di Kawasan Industri Millennium, Desa Peusar, Kecamatan Panongan, Kabupaten Tangerang, Banten, dan berhasil dipadamkan sekitar pukul 14.30 WIB pada hari yang sama.",
+   "Perseroan menegaskan kegiatan operasional dan produksi tetap berjalan meski sebagian area gudang sempat terganggu untuk proses pembersihan pascakebakaran. Persediaan yang terdampak, berupa sebagian bahan baku dan bahan pendukung, disebut hanya porsi yang tidak material dari total stok perseroan karena masih ada persediaan di lokasi lain yang tidak terkena dampak. Penyebab kebakaran masih dalam proses investigasi internal dan koordinasi dengan pihak berwenang, sementara tingkat kerusakan aset, baik bangunan gudang maupun persediaan di dalamnya, belum bisa ditentukan secara final karena masih menunggu pemeriksaan dan penilaian lebih lanjut.",
+   "Soal keuangan, manajemen menyatakan aset yang terdampak sudah diasuransikan dengan nilai pertanggungan Rp90 miliar untuk bangunan atau fasilitas gudang dan Rp25 miliar untuk persediaan, sehingga total nilai pertanggungan mencapai Rp115 miliar. Perseroan sudah melapor ke perusahaan asuransi dan tengah mengurus proses klaim, namun perhitungan pasti nilai kerugian dan dampak finansialnya masih berjalan. Manajemen memperkirakan kerugian dari kejadian ini tidak berdampak material terhadap kondisi keuangan perseroan, meski belum memberi kepastian waktu penyelesaian perbaikan dan pemulihan gudang, dan menyatakan tidak ada informasi material lain terkait kejadian ini yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Firefighters hosing down smoke rising from an industrial cold storage warehouse in a factory complex, early morning light",
+  "takeaway": "Laporan ini netral bagi Sekar Bumi: aset yang terbakar sudah diasuransikan penuh dan manajemen menegaskan operasional maupun produksi tidak berhenti, tapi belum bisa dibilang sepenuhnya aman karena penyebab kebakaran dan besaran kerusakan belum final. Yang tersentuh adalah pos persediaan, yaitu stok bahan baku dan bahan pendukung di gudang cold storage, serta aset tetap berupa bangunan gudang; keduanya berpotensi memengaruhi biaya dan laba perseroan kalau nanti nilai klaim asuransi yang cair lebih kecil dari kerugian sebenarnya, karena selisihnya harus ditanggung sendiri oleh perseroan. Pemegang saham perlu mencermati ini karena sampai sekarang perseroan sendiri belum tahu persis seberapa besar kerugiannya. Yang perlu dipantau berikutnya adalah hasil investigasi penyebab kebakaran, hasil penilaian akhir tingkat kerusakan aset, dan proses pencairan klaim ke perusahaan asuransi atas nilai pertanggungan Rp90 miliar untuk bangunan dan Rp25 miliar untuk persediaan, mengingat perseroan belum memberi tenggat waktu pemulihan fasilitas.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "indodana-dapat-suntikan-rp700-miliar-dari-hsbc-untuk-paylater",
   "category": "Perbankan",
   "title": "Indodana Dapat Suntikan [Rp700 Miliar] dari HSBC untuk PayLater",
@@ -82,6 +187,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah adalah masuknya dana Rp700 miliar dari Bank HSBC Indonesia ke Indodana Finance, sinyal bahwa investor masih mau menambah modal ke perusahaan PayLater meski risiko utang menumpuk dan kredit macet di industri ini semakin disorot. Yang terdampak langsung adalah nasabah PayLater Indodana, karena dana segar ini kemungkinan dipakai memperbesar kapasitas pembiayaan mereka, sementara pengguna PayLater secara umum perlu makin waspada sebab tunggakan kini tercatat di SLIK OJK dan bisa menyulitkan pengajuan KPR atau kredit usaha di kemudian hari. Beritanya belum menyebut berapa lama tenor pendanaan ini atau syarat apa yang mengikat penggunaannya, jadi belum jelas apakah dana ini datang bersama komitmen memperketat manajemen risiko atau sekadar modal kerja untuk ekspansi biasa. Yang perlu dipantau berikutnya adalah bagaimana Indodana dan pemain PayLater lain melaporkan angka kredit macet mereka, karena itu yang akan menunjukkan apakah suntikan dana seperti ini dibarengi perbaikan kualitas pembiayaan atau justru mempercepat pertumbuhan tanpa pengereman yang memadai.",
   "imageV": "muco4eyw"
+ },
+ {
+  "slug": "mknt-rilis-detail-pemodal-baru-headwell-kuasai-64-9-saham",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Rilis Detail Pemodal Baru, [Headwell] Kuasai 64,9% Saham",
+  "deck": "Koreksi keterbukaan informasi menyebut PT Headwell Bintang Energi Hijau bakal menguasai 64,9 persen saham MKNT lewat penambahan modal tanpa hak memesan efek terlebih dahulu senilai Rp1,02 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T19:00:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/176c81f95e_e26b86b82c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "penambahan modal",
+   "dilusi saham",
+   "Headwell Bintang Energi Hijau"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk (MKNT) mengoreksi keterbukaan informasi tentang rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) yang sebelumnya disampaikan pada 22 September 2026. Merujuk pada hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) tanggal 14 September 2026, perseroan akan menerbitkan 1.024.490.000.000 saham baru seri B dengan nilai nominal Rp1 per saham, setara dengan sebanyak-banyaknya 99,46 persen dari total saham perseroan setelah transaksi ini rampung.",
+   "Saham baru tersebut akan diserap oleh tujuh pihak. PT Headwell Bintang Energi Hijau mendapat porsi terbesar dengan 668.000.000.000 saham, disusul PT Mantra Capital Persadan dengan 156.490.000.000 saham. Sisanya dibagi ke lima pihak perorangan: Suripto sebanyak 50.000.000.000 saham, Jhon Veter Firdaus sebanyak 50.000.000.000 saham, Antony Lesmana sebanyak 50.000.000.000 saham, Daniel Tejakusuma sebanyak 25.000.000.000 saham, dan Rossa Lina sebanyak 25.000.000.000 saham. Dengan alokasi ini, PT Headwell Bintang Energi Hijau akan menguasai sekitar 64,9 persen dari total saham MKNT setelah penambahan modal, menjadikannya pemegang saham mayoritas baru perseroan.",
+   "Setelah aksi ini, modal ditempatkan dan disetor perseroan akan naik dari Rp110 miliar menjadi Rp1.134.490.000.000. Jumlah saham beredar bertambah dari 5,5 miliar menjadi 1.029.990.000.000 lembar, yang berarti porsi kepemilikan pemegang saham lama akan tergerus dari semula 100 persen menjadi sekitar 0,53 persen jika mereka tidak ikut menambah kepemilikan. Perseroan menyatakan penerbitan saham baru ini bertujuan memperbaiki posisi keuangan perusahaan. Jadwalnya, saham baru diterbitkan dan disetor pada 30 September 2026, dicatatkan di bursa pada 1 Oktober 2026, dan hasil pelaksanaannya diumumkan pada 2 Oktober 2026."
+  ],
+  "fotoAdegan": "Wide distant exterior view of a modern Jakarta stock exchange tower, busy street traffic below, midday sunlight, signage indistinct at that distance.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama MKNT, karena kepemilikan mereka tergerus habis dari seluruhnya menjadi hanya sekitar 0,53 persen begitu 1,02 triliun saham baru diterbitkan, sementara PT Headwell Bintang Energi Hijau langsung menguasai mayoritas dengan hampir 65 persen saham perusahaan. Yang tersentuh adalah jumlah saham beredar, yang melonjak dari 5,5 miliar menjadi lebih dari 1 triliun lembar, sehingga laba bersih perusahaan nantinya harus dibagi ke jauh lebih banyak lembar saham dan otomatis memperkecil laba per saham bagi investor yang bertahan. Di sisi lain, suntikan modal sebesar itu bisa memperbaiki posisi ekuitas perusahaan seperti disebutkan dalam dokumen, meski harga pelaksanaannya hanya Rp1 per saham, jauh di bawah nilai nominal saham lama yang Rp20 per saham. Yang perlu dipantau berikutnya adalah tanggal pencatatan saham baru di bursa pada 1 Oktober 2026 dan pengumuman resmi hasil pelaksanaan pada 2 Oktober 2026, karena di situ baru akan terlihat apakah rencana ini benar-benar terealisasi sesuai jadwal.",
+  "sentimen": "negatif"
  },
  {
   "slug": "t50-summit-rilis-50-raksasa-mesin-tambang-dunia",

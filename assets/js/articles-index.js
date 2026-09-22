@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "btps-jelaskan-volatilitas-saham-imbas-rebalancing-ftse-russell",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Jelaskan Volatilitas Saham Imbas [Rebalancing] FTSE Russell",
+  "deck": "BTPN Syariah menyebut volatilitas saham BTPS pada 18 September 2026 dipicu rebalancing indeks FTSE Russell yang mengubah statusnya dari Small Cap ke Micro Cap, bukan informasi material baru.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "BTPN Syariah",
+   "volatilitas saham",
+   "FTSE Russell"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d11ee4e37e_51c240cd64.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kkgi-komisaris-hendro-tambah-93-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "KKGI: Komisaris Hendro Tambah [93.000] Saham Lagi",
+  "deck": "Komisaris KKGI Hendro Martowardojo membeli 93.000 saham secara tidak langsung di harga Rp328, menyusul pembelian serupa pekan sebelumnya.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KKGI",
+   "Kepemilikan Saham",
+   "Komisaris",
+   "Resource Alam Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-9273-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bafi-terbitkan-obligasi-dan-sukuk-rp902-miliar-rating-aaa",
+  "category": "Aksi Korporasi",
+  "title": "BAFI Terbitkan Obligasi dan Sukuk Rp902 Miliar, Rating [AAA]",
+  "deck": "BAFI menerbitkan obligasi tahap II senilai Rp552,26 miliar dan sukuk mudharabah Rp350 miliar, dengan bunga tetap 7,10-7,35 persen per tahun dan peringkat AAA dari Fitch dan Pefindo.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "sukuk",
+   "multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fe18f57d56_9bbfced863.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "investasi-plts-100-gw-tembus-rp1-306-triliun",
   "category": "Energi",
   "title": "Investasi PLTS 100 GW Tembus [Rp1.306] Triliun",
@@ -39,6 +87,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468715-jurus-menkeu-suahasil-untuk-perkuat-pengawasan-bea-cukai-siapkan-3-strategi"
  },
  {
+  "slug": "skbm-rinci-dampak-kebakaran-gudang-nilai-asuransi-rp115-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SKBM Rinci Dampak [Kebakaran] Gudang, Nilai Asuransi Rp115 Miliar",
+  "deck": "Sekar Bumi menjelaskan ke BEI bahwa kebakaran gudang cold storage di Tangerang pada 17 September tak menghentikan operasional, dengan aset terdampak diasuransikan senilai Rp115 miliar.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SKBM",
+   "kebakaran",
+   "asuransi",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/671e6acfb4_af85e6f287.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indodana-dapat-suntikan-rp700-miliar-dari-hsbc-untuk-paylater",
   "category": "Perbankan",
   "title": "Indodana Dapat Suntikan [Rp700 Miliar] dari HSBC untuk PayLater",
@@ -54,6 +118,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468702-paylater-makin-populer-indodana-finance-perkuat-pembiayaan-sehat-dengan-dana-rp700-miliar"
+ },
+ {
+  "slug": "mknt-rilis-detail-pemodal-baru-headwell-kuasai-64-9-saham",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Rilis Detail Pemodal Baru, [Headwell] Kuasai 64,9% Saham",
+  "deck": "Koreksi keterbukaan informasi menyebut PT Headwell Bintang Energi Hijau bakal menguasai 64,9 persen saham MKNT lewat penambahan modal tanpa hak memesan efek terlebih dahulu senilai Rp1,02 triliun.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "penambahan modal",
+   "dilusi saham",
+   "Headwell Bintang Energi Hijau"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/176c81f95e_e26b86b82c.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "t50-summit-rilis-50-raksasa-mesin-tambang-dunia",
@@ -6429,86 +6509,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd9a3293e8_1175719ecc.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-panggil-rupslb-ubah-kegiatan-usaha-dan-dana-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "CASH panggil RUPSLB, ubah [kegiatan usaha] dan dana rights issue",
-  "deck": "Cashlez Worldwide Indonesia mengundang pemegang saham ke RUPSLB 8 Oktober 2026 untuk membahas perubahan kegiatan usaha, penggunaan dana rights issue, alamat kantor, dan susunan direksi-komisaris.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "RUPSLB",
-   "Cashlez",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51b32c73f6_ce627c1918.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbap-free-float-baru-9-7-jauh-di-bawah-syarat-15",
-  "category": "Aksi Korporasi",
-  "title": "MBAP: [Free Float] Baru 9,7%, Jauh di Bawah Syarat 15%",
-  "deck": "MBAP melaporkan ke Bursa bahwa saham beredar bebasnya baru 9,702% dari total saham tercatat, masih jauh di bawah syarat minimum 15% dan perusahaan belum punya keputusan final soal cara memenuhinya.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBAP",
-   "free float",
-   "Bursa Efek Indonesia",
-   "kepatuhan pencatatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/79e5388e5f_262f226a71.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ica-cepa-implementasi-ri-bidik-ekspor-kanada-us-11-8-m",
-  "category": "Global",
-  "title": "ICA-CEPA [Implementasi], RI Bidik Ekspor Kanada US$11,8 M",
-  "deck": "Airlangga Hartarto memastikan ICA-CEPA siap berlaku penuh akhir tahun ini, dengan proyeksi ekspor Indonesia ke Kanada tembus US$11,8 miliar pada 2030.",
-  "date": "16 September 2026",
-  "image": "assets/img/ica-cepa-implementasi-ri-bidik-ekspor-kanada-us-11-8-m.jpg",
-  "imageV": "mu3nc7zj",
-  "tags": [
-   "ICA-CEPA",
-   "ekspor",
-   "Kanada",
-   "Airlangga Hartarto"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467387-ica-cepa-masuk-tahap-implementasi-airlangga-bidik-lonjakan-ekspor-ri-ke-kanada-hingga-us118-miliar"
- },
- {
-  "slug": "klbf-ajukan-ulang-buyback-rp500-miliar-usai-dibatalkan",
-  "category": "Aksi Korporasi",
-  "title": "KLBF Ajukan Ulang Buyback [Rp500 Miliar] Usai Dibatalkan",
-  "deck": "Kalbe Farma mengajukan kembali rencana pembelian kembali saham senilai maksimal Rp500 miliar, sehari setelah rencana serupa dengan angka sama dibatalkan.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KLBF",
-   "buyback saham",
-   "Kalbe Farma",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0273d2c81_4c9fa08b78.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemnaker-mulai-seleksi-peserta-maganghub-batch-2-angkatan-ii",
-  "category": "Ketenagakerjaan",
-  "title": "Kemnaker Mulai [Seleksi] Peserta MagangHub Batch 2 Angkatan II",
-  "deck": "Kemnaker menjaring peserta Pemagangan Nasional (MagangHub) 2026 Batch 2 Angkatan II pada 16-18 September, dengan program magang dimulai 21 September 2026.",
-  "date": "16 September 2026",
-  "image": "assets/img/bursa-kerja-antre.jpg",
-  "tags": [
-   "MagangHub",
-   "Kemnaker",
-   "Pemagangan Nasional",
-   "Ketenagakerjaan"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-segera-seleksi-dan-tetapkan-peserta-maganghub-batch-2-angkatan-ii",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
  }
 ];

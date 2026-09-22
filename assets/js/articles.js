@@ -3,6 +3,314 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "akku-public-expose-suspensi-berlanjut-opini-audit-membaik",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Public Expose: Suspensi Berlanjut, Opini Audit [Membaik]",
+  "deck": "Dalam paparan publik insidentil 18 September, manajemen AKKU mengaku belum menerima keluhan pemegang saham soal suspensi dan menargetkan opini audit tahun ini tak lagi disclaimer.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T17:22:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb668ff428_c73313662a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKKU",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "public expose",
+   "opini audit"
+  ],
+  "body": [
+   "PT Anugerah Kagum Karya Utama Tbk (AKKU) menyampaikan laporan hasil Public Expose Insidentil yang digelar Jumat, 18 September 2026, pukul 11.00 WIB di Grand Asia Afrika Residence, Jalan Karapitan, Bandung. Perseroan diwakili oleh Direktur Utama Irwan Suryadi, Direktur Heni Supartini, dan Komisaris Independen Wilhelmina. Acara dihadiri 9 orang dari kalangan masyarakat dan 1 wartawan. Laporan ini merupakan koreksi atas surat sebelumnya dengan nomor sama yang dikirim pada hari yang sama, 22 September 2026.",
+   "Dalam sesi tanya jawab, peserta bernama Wendi mempertanyakan status suspensi saham AKKU yang sudah berlangsung sejak April 2026, termasuk apakah ada pemegang saham yang mengeluhkan hal tersebut. Manajemen menjawab belum menerima keluhan, baik langsung maupun tidak langsung, dari pemegang saham. Soal kepastian jangka waktu suspensi, manajemen menyebut terus berkomunikasi dengan Bursa Efek Indonesia, dan public expose insidentil ini merupakan bagian dari langkah yang diminta Bursa sebagai syarat menuju pencabutan suspensi.",
+   "Peserta lain, Diah Vita, menanyakan penyebab suspensi yang berasal dari opini disclaimer atas laporan keuangan Perseroan dua tahun berturut-turut, serta langkah AKKU agar opini itu tidak berulang tahun ini. Manajemen menjelaskan bahwa laporan keuangan per 30 Juni 2026 sudah diaudit lebih awal dan memperoleh opini Wajar Dengan Pengecualian (WDP), naik dari opini disclaimer sebelumnya, meski belum mencapai opini wajar tanpa pengecualian. Perseroan menyatakan optimistis laporan keuangan akhir tahun 2026 tidak akan kembali mendapat opini disclaimer, dan berharap suspensi saham dapat dibuka setelah pelaksanaan public expose ini."
+  ],
+  "fotoAdegan": "Modern office tower exterior in Bandung's business district, office workers crossing the plaza, midday sunlight, wide angle",
+  "takeaway": "Laporan ini netral bagi AKKU: ada perbaikan opini auditor dari disclaimer menjadi Wajar Dengan Pengecualian, tapi suspensi saham masih berlangsung tanpa kepastian tanggal pencabutan, jadi belum ada perubahan nyata bagi pemegang saham saat ini. Yang tersentuh di sini adalah kualitas laporan keuangan dan likuiditas saham, opini auditor yang membaik menandakan catatan akuntansi perseroan makin bisa dipercaya, sementara suspensi berarti pemegang saham AKKU masih belum bisa menjual atau membeli sahamnya di pasar sampai Bursa mencabut penghentian itu. Yang perlu dipantau adalah opini auditor atas laporan keuangan penuh tahun 2026, yang akan menentukan apakah AKKU akhirnya lepas dari opini disclaimer, serta keputusan Bursa soal pencabutan suspensi setelah public expose insidentil 18 September ini dievaluasi otoritas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "agii-jawab-permintaan-penjelasan-volatilitas-saham-dari-bei",
+  "category": "Aksi Korporasi",
+  "title": "AGII Jawab Permintaan Penjelasan [Volatilitas] Saham dari BEI",
+  "deck": "Samator Indo Gas menyatakan tidak ada informasi material tersembunyi maupun rencana aksi korporasi usai diminta BEI menjelaskan pergerakan tak wajar sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T17:09:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/028a8da8ac_c18f1d97fa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGII",
+  "tags": [
+   "AGII",
+   "Samator Indo Gas",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Samator Indo Gas Tbk (AGII) mengirim surat tanggapan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan BEI lewat surat nomor S-12156/BEI.PP3/09-2026 tertanggal 18 September 2026 terkait volatilitas transaksi efek perseroan. Tanggapan bernomor 228/SIG-IX/2026 itu disampaikan pada 21 September 2026 dan ditandatangani Imelda Mulyani Harsono, Wakil Direktur Utama sekaligus Corporate Secretary AGII.",
+   "Dalam surat itu, manajemen menegaskan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu, baik perubahan kepemilikan maupun penjaminan saham, yang belum dilaporkan sesuai POJK Nomor 4 Tahun 2024.",
+   "Terkait rencana ke depan, AGII menyebut belum memiliki rencana aksi korporasi dalam tiga bulan mendatang yang akan berdampak pada status pencatatan sahamnya di bursa. Perseroan juga memastikan tidak ada informasi material lain yang belum diungkap ke publik, dan pemegang saham pengendali maupun utama tidak memiliki rencana mengubah kepemilikan sahamnya di AGII."
+  ],
+  "fotoAdegan": "Exterior of a tall glass office tower in Jakarta's Sudirman business district, pedestrians crossing below, midday light",
+  "takeaway": "Laporan ini netral bagi AGII karena isinya murni bantahan standar, tidak ada informasi baru yang mengubah gambaran bisnis atau keuangan perseroan. Permintaan penjelasan seperti ini muncul ketika harga atau volume perdagangan suatu saham bergerak tidak wajar dalam waktu singkat, sehingga bursa meminta emiten mengonfirmasi apakah ada kabar tersembunyi di baliknya, dan di sini AGII menjawab tidak ada. Dokumen ini sendiri tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham karena sifatnya administratif, bukan laporan kinerja. Yang perlu dipantau berikutnya adalah apakah harga saham AGII kembali stabil dalam beberapa hari perdagangan ke depan, serta apakah perseroan benar-benar tidak mengambil aksi korporasi hingga sekitar Desember 2026 seperti yang dinyatakan dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bapa-investor-cutloss-lepas-seluruh-saham-suara-ke-nol",
+  "category": "Aksi Korporasi",
+  "title": "BAPA: Investor [Cutloss] Lepas Seluruh Saham, Suara ke Nol",
+  "deck": "Belvin Tannadi melepas seluruh 76,38 juta sahamnya di BAPA seharga Rp145 per lembar pada 22 September 2026, dengan alasan cutloss. Hak suaranya turun dari 11,54% menjadi nol.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T17:07:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-4712-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAPA",
+  "tags": [
+   "BAPA",
+   "kepemilikan saham",
+   "cutloss",
+   "hak suara"
+  ],
+  "body": [
+   "Belvin Tannadi, seorang warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris Bekasi Asri Pemula Tbk (BAPA), melaporkan ke Otoritas Jasa Keuangan bahwa ia telah menjual seluruh 76.384.700 saham BAPA yang dimilikinya. Sebelum transaksi, kepemilikan itu setara 11,54 persen hak suara perusahaan. Setelah transaksi, jumlah sahamnya menjadi nol dan hak suaranya pun ikut turun menjadi nol persen, artinya ia sudah sama sekali tidak lagi menjadi pemegang saham BAPA.",
+   "Lampiran laporan mencantumkan dua catatan transaksi penjualan dengan harga yang sama, yaitu Rp145 per saham. Satu tercatat pada 3 September 2026 untuk 76.384.700 saham berklasifikasi 'saham dengan hak suara multiple', dengan tujuan transaksi yang ditulis sebagai 'butuh modal'. Satu lagi tercatat pada 22 September 2026, hari yang sama dengan penyampaian laporan ini, dengan klasifikasi 'saham biasa' dan tujuan transaksi 'cutloss' alias menjual dengan kerugian.",
+   "Dokumen tidak menyebutkan siapa pembeli dari saham yang dilepas tersebut. Total nilai transaksi berdasarkan harga Rp145 per saham dan jumlah 76.384.700 saham yang berpindah tangan mencapai sekitar Rp11,08 miliar."
+  ],
+  "fotoAdegan": "Rows of half-finished houses in a suburban housing development site near Bekasi, workers laying bricks under midday sun",
+  "takeaway": "Laporan ini condong negatif bagi persepsi pasar terhadap BAPA, karena satu pemegang saham melepas seluruh kepemilikannya yang mencapai 11,54 persen hak suara sekaligus, dan alasan yang dicantumkan sendiri, 'cutloss', menunjukkan investor tersebut keluar dalam keadaan rugi. Transaksi ini adalah perpindahan kepemilikan di pasar sekunder antar investor, sehingga tidak menambah atau mengurangi kas maupun aset BAPA secara langsung. Yang berubah adalah peta pemegang saham signifikan: 11,54 persen hak suara yang tadinya di tangan satu pihak kini beralih ke pembeli baru yang belum diketahui publik dari dokumen ini. Yang perlu dipantau berikutnya adalah apakah muncul laporan kepemilikan saham baru dari pembeli 76.384.700 saham tersebut, yang akan mengungkap siapa pemilik baru di balik porsi 11,54 persen ini, serta apakah BAPA menerbitkan keterbukaan informasi lanjutan untuk menjelaskan perubahan struktur pemegang saham ini ke bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "byan-direksi-mcleod-jual-185-200-saham-rp2-47-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: Direksi McLeod [Jual] 185.200 Saham, Rp2,47 Miliar",
+  "deck": "Direksi BYAN Alastair Gordon Christopher McLeod menjual 185.200 saham senilai Rp13.352 per lembar pada 21 September 2026, memangkas kepemilikannya jadi 3,81 juta lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T17:00:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8820-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN"
+  ],
+  "body": [
+   "Alastair Gordon Christopher McLeod, anggota direksi PT Bayan Resources Tbk (BYAN) yang berkewarganegaraan asing, melaporkan kepada Otoritas Jasa Keuangan (OJK) bahwa ia telah menjual saham BYAN miliknya. Laporan bernomor LK/22092026/0010/1 ini disampaikan pada 22 September 2026, sehari setelah transaksi berlangsung pada 21 September 2026 dengan harga Rp13.352 per saham. Jenis saham yang dijual adalah saham biasa, dengan tujuan transaksi tercatat sebagai penjualan.",
+   "Sebelum transaksi, McLeod memegang 4.000.000 lembar saham BYAN. Setelah penjualan 185.200 lembar saham secara tidak langsung, kepemilikannya berkurang menjadi 3.814.800 lembar, atau turun 4,63 persen dari jumlah yang dipegangnya sebelumnya. Dengan harga Rp13.352 per lembar, nilai total saham yang dilepas sekitar Rp2,47 miliar.",
+   "Meski jumlah lembar yang dijual berkurang, porsi hak suara McLeod di Bayan Resources tidak bergeser sama sekali, tetap tercatat 0,01 persen baik sebelum maupun sesudah transaksi. Ini menunjukkan bahwa posisi kepemilikannya di perusahaan memang sangat kecil dibanding total saham beredar BYAN."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Transaksi ini netral bagi Bayan Resources karena ukurannya kecil dan tidak mengubah peta kendali perusahaan. Hak suara McLeod tetap 0,01 persen sebelum dan sesudah penjualan, artinya porsi kepemilikannya memang jauh di bawah level yang bisa memengaruhi struktur pemegang saham pengendali atau jumlah saham beredar BYAN secara keseluruhan. Yang perlu dicermati bukan transaksi tunggal ini, melainkan apakah muncul laporan serupa dari McLeod sendiri atau direksi lain BYAN dalam waktu dekat, sebab aturan OJK mewajibkan setiap perubahan kepemilikan saham insider dilaporkan meski nilainya kecil, dan pola penjualan berturut-turut oleh beberapa direksi sekaligus baru pantas dibaca sebagai sinyal yang lebih berarti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dlta-komite-audit-ketua-baru-gantikan-samuel-nitisaputra",
+  "category": "Aksi Korporasi",
+  "title": "DLTA [Komite Audit]: Ketua Baru Gantikan Samuel Nitisaputra",
+  "deck": "Delta Djakarta menunjuk Manginar Rico Sinaga sebagai Ketua Komite Audit baru menggantikan Samuel Nitisaputra, efektif 21 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T17:00:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c7c5e06aa7_d234839596.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DLTA",
+  "tags": [
+   "DLTA",
+   "Delta Djakarta",
+   "komite audit",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "Delta Djakarta Tbk (DLTA) mengumumkan pergantian Ketua Komite Audit yang berlaku efektif 21 September 2026. Manginar Rico Sinaga, yang menjabat sebagai Komisaris Independen perusahaan, ditunjuk sebagai Ketua Komite Audit menggantikan Samuel Nitisaputra. Penunjukan ini didasarkan pada Keputusan Dewan Komisaris Nomor 01/BOC-PTD/IX/2026 tertanggal 21 September 2026.",
+   "Dua anggota komite audit lainnya, Danilo R. Alcantara dan Carmelito J. Regalado, tetap menjabat dan memasuki periode kedua masa tugas mereka. Masa jabatan susunan komite audit yang baru ini berlaku sejak tanggal keputusan Dewan Komisaris hingga berakhirnya Rapat Umum Pemegang Saham Tahunan Perseroan yang akan diselenggarakan pada 2029, tanpa mengurangi hak Dewan Komisaris untuk mengganti anggota sebelum masa jabatan berakhir.",
+   "Perubahan ini dilaporkan kepada Otoritas Jasa Keuangan melalui surat Nomor 049/Corp.Sec-PTD/IX/2026 tertanggal 22 September 2026, sesuai kewajiban pemberitahuan berdasarkan POJK Nomor 55/POJK.04/2015 tentang Pembentukan dan Pedoman Pelaksanaan Kerja Komite Audit. Surat pemberitahuan ditandatangani oleh Ma. Joe De Castro Perucho selaku Direktur Keuangan sekaligus Sekretaris Perusahaan Delta Djakarta."
+  ],
+  "fotoAdegan": "Rows of beer bottles moving along a conveyor belt inside an Indonesian brewery bottling plant, workers in uniform nearby",
+  "takeaway": "Pergantian ketua komite audit ini netral bagi Delta Djakarta karena sifatnya administratif dan mengikuti mekanisme tata kelola rutin, bukan sinyal soal arah bisnis atau kondisi keuangan perusahaan. Komite audit bertugas mengawasi kualitas laporan keuangan dan sistem pengendalian internal sebelum dilaporkan ke pemegang saham, jadi pergantian ketuanya bisa mengubah gaya pengawasan itu, meski tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau laba per saham. Dua anggota lain yang bertahan memberi unsur kesinambungan di tengah pergantian pimpinan. Yang perlu dipantau selanjutnya adalah bagaimana kinerja pengawasan komite yang baru tercermin pada laporan tahunan berikutnya, sementara masa jabatan mereka sendiri baru akan berakhir pada RUPS Tahunan Perseroan tahun 2029.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "post-rupsi-tolak-usulan-restrukturisasi-sukuk-ijarah",
+  "category": "Aksi Korporasi",
+  "title": "POST: RUPSI Tolak Usulan [Restrukturisasi] Sukuk Ijarah",
+  "deck": "Rapat pemegang Sukuk Ijarah Pos Indonesia menolak seluruh usulan restrukturisasi, termasuk penundaan pembayaran imbal jasa yang diminta perseroan hingga akhir 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:52:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/400c2c7bf4_ab14c25592.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "Sukuk Ijarah",
+   "RUPSI"
+  ],
+  "body": [
+   "PT Pos Indonesia (Persero) menggelar Rapat Umum Pemegang Sukuk Ijarah (RUPSI) untuk Sukuk Ijarah Berkelanjutan I Tahap I Tahun 2024 pada 21 September 2026 di Culture Hall PosBloc, Jakarta Pusat. Rapat dihadiri pemegang sukuk yang mewakili Rp920,806 miliar suara atau 95,64% dari total suara yang berhak hadir, yakni Rp962,796 miliar setelah dikurangi Rp37,204 miliar sukuk yang dipegang afiliasi perseroan dari total pokok penerbitan Rp1 triliun. Perseroan diwakili Direktur Utama Muhammad Iskandar dan Direktur Keuangan Fathul Anwar, sementara PT Bank Tabungan Negara (Persero) Tbk hadir selaku wali amanat.",
+   "Dari enam agenda, hanya agenda pertama yang bersifat penjelasan tanpa pemungutan suara. Agenda kedua, permintaan penundaan sementara (standstill) pembayaran imbal jasa sukuk sampai 31 Desember 2026, ditolak 66,35% suara berbanding 33,65% yang setuju. Agenda ketiga soal perubahan tingkat imbal jasa ditolak tegas dengan 78,19% suara menolak. Agenda keempat, perpanjangan tenor Sukuk Ijarah Seri A dan B sampai 2032, ditolak 74,48% berbanding 25,52%. Agenda kelima, pengalihan sisa dana sukuk dari peruntukan investasi menjadi modal kerja perseroan, ditolak 62,16% berbanding 37,84%. Agenda keenam, permintaan pengesampingan (waiver) syarat rasio keuangan (financial covenant) untuk laporan keuangan audited tahun buku 2025 dan 2026, ditolak 73,95% berbanding 26,05%.",
+   "Berdasarkan perjanjian perwaliamanatan dan POJK Nomor 20/2020, keputusan RUPSI baru sah bila disetujui minimal tiga perempat dari suara yang hadir. Karena tidak ada satu pun agenda substantif yang mencapai ambang itu, hasil resminya adalah agenda 3 dinyatakan tidak disetujui, sementara agenda 2, 4, 5, dan 6 dinyatakan tidak memenuhi kuorum keputusan sehingga belum ada keputusan yang mengikat atas usulan-usulan tersebut. Dengan kata lain, permintaan penundaan pembayaran yang diajukan perseroan pascagagal bayar belum mendapat persetujuan pemegang sukuk."
+  ],
+  "fotoAdegan": "Rows of yellow postal delivery vans parked in a depot yard at dusk, workers loading parcel crates, hazy Jakarta skyline",
+  "takeaway": "Laporan ini negatif bagi Pos Indonesia, karena seluruh proposal restrukturisasi utang sukuk yang mereka ajukan, termasuk permintaan penundaan pembayaran yang paling mendesak, ditolak pemegang sukuk dan tidak mencapai kuorum keputusan. Yang tersentuh langsung adalah arus kas perusahaan, yaitu aliran uang masuk dan keluar dari kas perseroan, karena tanpa persetujuan standstill, kewajiban membayar imbal jasa sukuk sesuai jadwal semula tetap berlaku meski perseroan sudah dinyatakan gagal bayar oleh Fitch pekan lalu. Penolakan atas perpanjangan tenor dan waiver syarat rasio keuangan juga berarti perseroan belum punya kelonggaran resmi dari pemegang sukuk untuk menata ulang kewajibannya. Yang perlu dipantau berikutnya adalah apakah perseroan dan wali amanat BTN akan mengagendakan RUPSI lanjutan untuk empat agenda yang gagal kuorum, mengingat tenggat standstill yang diajukan sebelumnya adalah 31 Desember 2026 dan periode itu kini tanpa dasar persetujuan yang sah.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bjbr-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "BJBR Jawab Bursa soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Bank bjb menyatakan tidak mengetahui informasi material di balik gejolak transaksi sahamnya, menyusul surat permintaan penjelasan dari Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:49:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cfd6933fae_7db317670f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BJBR",
+  "tags": [
+   "BJBR",
+   "Bank bjb",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk (BJBR) menjawab surat Bursa Efek Indonesia nomor S-12210/BEI.PP2/09-2026 yang meminta penjelasan atas volatilitas transaksi efek perseroan. Jawaban resmi dikirim lewat surat nomor 939/DIR-CSE/2026 tertanggal 22 September 2026, ditandatangani Irwan Riswandi selaku Corporate Secretary yang berperan sebagai approver dokumen.",
+   "Dalam jawabannya, BJBR menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga sahamnya, baik yang diatur dalam POJK Nomor 31/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024, tidak memiliki rencana aksi korporasi yang akan memengaruhi status pencatatan sahamnya dalam tiga bulan ke depan, dan tidak ada fakta material lain yang belum diungkap ke publik.",
+   "Terkait rencana pemegang saham utama, BJBR menyatakan setelah berkonsultasi, pemegang saham utama saat ini tidak berniat mengubah kepemilikan sahamnya di perseroan. Surat permintaan penjelasan dari bursa ini muncul tidak lama setelah PEFINDO memangkas peringkat sejumlah obligasi subordinasi dan surat berharga perpetual BJBR ke idAA- pada 15 September 2026, sehingga volatilitas yang dipertanyakan bursa kemungkinan terkait dengan reaksi pasar atas penurunan peringkat tersebut."
+  ],
+  "fotoAdegan": "Exterior of a modern regional Indonesian bank office tower with glass facade, busy street traffic below, late afternoon light",
+  "takeaway": "Laporan ini netral bagi BJBR karena isinya hanya bantahan standar, perseroan mengaku tidak punya informasi baru yang menjelaskan gejolak transaksi sahamnya, bukan pengungkapan fakta baru yang mengubah kondisi keuangan. Permintaan penjelasan volatilitas semacam ini adalah mekanisme rutin bursa untuk mengecek apakah ada kabar belum terbuka ke publik yang membuat sebagian pihak berdagang lebih dulu dengan informasi yang tidak dimiliki investor lain, dan di sini tidak ada pos keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh langsung. Yang perlu dipantau adalah apakah gejolak harga saham BJBR mereda atau justru berlanjut dalam beberapa pekan ke depan, mengingat pemicunya diduga terkait pemangkasan peringkat obligasi oleh PEFINDO pada 15 September 2026, serta apakah pernyataan perseroan bahwa tidak ada aksi korporasi dalam tiga bulan ke depan, kira-kira hingga pertengahan Desember 2026, tetap konsisten dengan langkah manajemen selanjutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "post-pemegang-obligasi-tolak-restrukturisasi-bunga-2022",
+  "category": "Aksi Korporasi",
+  "title": "POST: Pemegang Obligasi [Tolak] Restrukturisasi Bunga 2022",
+  "deck": "RUPO Obligasi I Pos Indonesia Tahun 2022 menolak permintaan standstill bunga, penyesuaian suku bunga, perpanjangan tenor, dan pembebasan kovenan keuangan perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:49:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/34c74619bb_1943d587bd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "obligasi",
+   "restrukturisasi utang",
+   "RUPO"
+  ],
+  "body": [
+   "PT Pos Indonesia (Persero) menggelar Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi I Pos Indonesia Tahun 2022 pada 21 September 2026 di Culture Hall PosBloc, Jakarta Pusat. Rapat dihadiri pemegang obligasi yang mewakili Rp338 miliar suara atau 84,5 persen dari total pokok obligasi yang belum lunas sebesar Rp400 miliar, sehingga kuorum terpenuhi. Perusahaan diwakili Direktur Utama Muhammad Iskandar dan Direktur Keuangan Fathul Anwar, didampingi wali amanat PT Bank Tabungan Negara (Persero) Tbk dan notaris Dewantari Handayani.",
+   "Empat agenda substantif dalam rapat ini seluruhnya ditolak pemegang obligasi. Permintaan penundaan sementara pembayaran bunga (standstill) sampai 31 Desember 2026 ditolak oleh 94,08 persen suara, dengan hanya 1,48 persen setuju dan 4,44 persen abstain. Permintaan penyesuaian tingkat suku bunga dan perpanjangan tenor Obligasi Seri B sampai tahun 2032 juga ditolak dengan proporsi suara yang persis sama. Sesuai POJK No. 14 Tahun 2025, suara abstain dihitung mengikuti suara mayoritas yang tidak setuju, sehingga total penolakan pada ketiga agenda tersebut naik menjadi 98,52 persen. Permintaan keempat, yaitu pembebasan syarat kovenan keuangan berdasarkan laporan keuangan audit periode 31 Desember 2025 dan 31 Desember 2026, ditolak 91,72 persen suara dan naik menjadi 98,52 persen setelah realokasi suara abstain.",
+   "Dengan hasil ini, RUPO secara sah dan mengikat memutuskan tidak menyetujui seluruh permintaan restrukturisasi utang obligasi tersebut. Artinya Pos Indonesia tidak memperoleh penundaan pembayaran bunga, tidak ada penyesuaian suku bunga, tidak ada perpanjangan tenor Seri B, dan tidak ada pembebasan kovenan keuangan yang sebelumnya diajukan perusahaan kepada pemegang obligasi."
+  ],
+  "fotoAdegan": "Rows of yellow postal delivery trucks parked in an operational depot yard, overcast afternoon light, Jakarta",
+  "takeaway": "Hasil RUPO ini negatif bagi Pos Indonesia, karena seluruh permintaan restrukturisasi untuk Obligasi I 2022, mulai dari penundaan bunga, penyesuaian suku bunga, perpanjangan tenor, sampai pembebasan syarat keuangan, ditolak pemegang obligasi. Penolakan ini langsung menekan arus kas perusahaan, sebab kewajiban bunga yang tadinya ingin ditunda sampai akhir 2026 kini tetap harus dibayar sesuai jadwal lama, padahal Fitch baru sepekan lalu menurunkan peringkat POST ke C(idn) setelah perusahaan gagal bayar kewajiban ijarah. Gagalnya penyesuaian suku bunga dan perpanjangan tenor juga berarti beban bunga, yaitu biaya rutin yang harus dibayar perusahaan atas utangnya, tetap mengikuti skema lama yang sebelumnya dianggap memberatkan. Yang perlu dipantau berikutnya adalah apakah Pos Indonesia mampu memenuhi kewajiban bunga obligasi ini sesuai jadwal semula tanpa adanya standstill, serta langkah lanjutan apa yang akan diumumkan perusahaan kepada bursa dan pemegang obligasi menyusul penolakan RUPO ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smle-sinergi-asia-corporindo-jual-9-25-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMLE: Sinergi Asia Corporindo [Jual] 9,25 Juta Saham",
+  "deck": "Pemegang saham SMLE, Sinergi Asia Corporindo, menjual 9,25 juta saham senilai sekitar Rp1,97 miliar pada 16 September 2026, hak suaranya masih di atas 56 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:46:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6210-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMLE",
+  "tags": [
+   "SMLE",
+   "kepemilikan saham",
+   "free float",
+   "divestasi"
+  ],
+  "body": [
+   "Sinergi Asia Corporindo, pemegang saham PT Sinergi Multi Lestarindo Tbk (SMLE), melaporkan kepada Otoritas Jasa Keuangan bahwa mereka menjual 9.250.000 saham SMLE pada harga Rp213 per saham pada 16 September 2026, dengan nilai transaksi sekitar Rp1,97 miliar. Transaksi ini dicatat sebagai penjualan tidak langsung dengan tujuan yang disebutkan dalam laporan sebagai divestasi, peningkatan jumlah pemegang saham, serta rasio free float. Laporan tersebut diterima Bursa Efek Indonesia pada 22 September 2026.",
+   "Dengan penjualan itu, jumlah saham SMLE yang dipegang Sinergi Asia Corporindo turun dari 1.320.720.200 unit menjadi 1.311.470.200 unit, setara 0,7 persen dari kepemilikannya sebelum transaksi. Porsi hak suara Sinergi Asia Corporindo di SMLE ikut turun tipis, dari 56,728 persen menjadi 56,3309 persen, namun tetap menempatkannya sebagai pemegang saham mayoritas perusahaan."
+  ],
+  "fotoAdegan": "Jakarta financial district skyscrapers reflected in glass facades, busy pedestrian crossing below, midday light",
+  "takeaway": "Laporan ini netral bagi SMLE karena porsi saham yang dilepas Sinergi Asia Corporindo hanya 0,7 persen dari kepemilikannya, dan hak suaranya di perusahaan masih bertahan di atas 56 persen sehingga status sebagai pemegang saham mayoritas tidak goyah. Yang tersentuh oleh transaksi ini bukan jumlah saham beredar, karena ini jual beli di pasar sekunder antar investor, melainkan rasio free float, yaitu porsi saham yang beredar bebas di tangan publik di luar pemegang saham besar. Free float yang lebih besar biasanya membuat saham lebih mudah diperjualbelikan karena lebih banyak pihak bisa bertransaksi tanpa mengubah kendali perusahaan. Yang perlu dipantau selanjutnya adalah apakah Sinergi Asia Corporindo akan melanjutkan pelepasan bertahap seperti ini, mengingat tujuan yang disebutkan dalam laporan, yakni menambah jumlah pemegang saham dan rasio free float, mengindikasikan langkah ini bisa jadi bagian dari rencana yang berkelanjutan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "winr-pemegang-saham-utama-lepas-12-juta-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Utama [Lepas] 12 Juta Saham Lagi",
+  "deck": "PEMENANG NUSANTARA INTERNASIONAL kembali menjual 12,06 juta saham WINR pada 17 September 2026, hak suara turun tipis ke 46,91 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:41:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6182-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "pemegang saham"
+  ],
+  "body": [
+   "Pemegang saham WINR bernama PEMENANG NUSANTARA INTERNASIONAL, yang bukan berstatus direksi maupun komisaris, melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menjual secara tidak langsung 12.063.100 lembar saham PT Winner Nusantara Jaya Tbk pada 17 September 2026 dengan harga Rp24 per saham. Tujuan transaksi yang dicantumkan dalam laporan adalah menambah saham free float, yakni porsi saham yang beredar bebas dan bisa diperdagangkan publik. Akibat penjualan ini, kepemilikan pelapor turun dari 2.467.727.500 lembar menjadi 2.455.664.400 lembar, sementara hak suaranya di perusahaan turun dari 47,14 persen menjadi 46,91 persen.",
+   "Ini merupakan laporan ketiga dalam tiga hari terakhir dari pemegang saham yang sama dengan pola serupa. Pada 19 September, hak suaranya tercatat turun dari 47,72 persen setelah melepas sekitar 0,83 persen dari kepemilikannya. Sehari berikutnya, 20 September, pelapor kembali melepas 10 juta saham. Ditambah transaksi hari ini, total saham yang dilepas dalam rangkaian tiga laporan tersebut lebih dari 22 juta lembar, dengan hak suara pelapor turun kumulatif dari 47,72 persen menjadi 46,91 persen dalam tiga hari."
+  ],
+  "fotoAdegan": "Exterior plaza of a modern stock exchange building in Jakarta with pedestrians walking by, midday light, no readable signage.",
+  "takeaway": "Netral, karena penjualan hari ini hanya setara 0,49 persen dari kepemilikan pelapor sendiri, dan rangkaian tiga transaksi dalam tiga hari terakhir baru menggeser hak suaranya kurang dari satu poin persentase, dari 47,72 persen ke 46,91 persen, sehingga pelapor tetap menjadi pemegang saham dengan hak suara terbesar di WINR. Yang tersentuh dari laporan ini adalah komposisi pemegang saham dan hak suara, bukan laporan keuangan perusahaan; hak suara menunjukkan besar kendali seorang pemegang saham dalam keputusan RUPS, sedangkan free float adalah porsi saham yang beredar bebas di luar penguasaan pemegang saham pengendali, dan porsi yang lebih besar biasanya membuat saham lebih mudah diperjualbelikan di pasar. Yang perlu dipantau berikutnya adalah apakah pelapor akan melanjutkan pola pelepasan bertahap ini pada hari-hari mendatang, karena jika berlanjut dengan kecepatan serupa, hak suaranya bisa terus tergerus meski saat ini statusnya sebagai pemegang saham mayoritas belum berubah; belum ada RUPSLB atau tenggat baru yang disebutkan dalam laporan ini maupun dua laporan sebelumnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "goto-panggil-rupslb-batalkan-esop-demi-pengurangan-modal",
+  "category": "Aksi Korporasi",
+  "title": "GOTO Panggil RUPSLB, Batalkan ESOP demi [Pengurangan Modal]",
+  "deck": "RUPSLB GoTo 14 Oktober 2026 membahas pengurangan modal lewat penarikan 32,19 miliar saham tresuri serta persetujuan pengunduran diri Wakil Dirut Catherine Hindra Sutjahyo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:33:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/265a24a8e4_af52af6a57.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GOTO",
+  "tags": [
+   "GOTO",
+   "RUPSLB",
+   "Pengurangan Modal",
+   "Direksi"
+  ],
+  "body": [
+   "PT GoTo Gojek Tokopedia Tbk (GOTO) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 14 Oktober 2026, pukul 10.00-11.30 WIB, di Kantor GoTo, Gedung Pasaraya Blok M lantai 7, Jakarta Selatan. Rapat digelar secara hibrida, yakni elektronik lewat platform eASY.KSEI dan fisik dengan kapasitas terbatas hingga 80 orang berbasis siapa cepat dia dapat. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 21 September 2026. Ada dua agenda utama: persetujuan pengurangan modal perseroan dan persetujuan pengunduran diri Wakil Direktur Utama.",
+   "Agenda pertama adalah pengurangan modal ditempatkan dan disetor perseroan dengan menarik kembali 32.186.417.803 saham Seri A hasil pembelian kembali (buyback) yang dilakukan sepanjang 12 Juni 2024 hingga 11 Juni 2025. Sebelumnya, sebagaimana diumumkan lewat keterbukaan informasi 28 Juli 2026, saham hasil buyback itu rencananya dialihkan untuk program kepemilikan saham karyawan, direksi, dan komisaris (ESOP/MSOP) yang sudah disetujui RUPSLB 18 Juni 2025. Namun perseroan membatalkan rencana itu dengan mempertimbangkan kondisi pasar global dan nasional terkini, dan memilih menarik saham tersebut secara permanen lewat pengurangan modal, yang akan mengubah Pasal 4 ayat (2) Anggaran Dasar perseroan. Untuk agenda ini, pemegang saham Seri B memiliki hak suara setara Seri A, yaitu satu saham mewakili satu suara.",
+   "Agenda kedua adalah persetujuan atas pengunduran diri Catherine Hindra Sutjahyo dari jabatan Wakil Direktur Utama, sesuai surat pengunduran dirinya tertanggal 28 Agustus 2026 yang sudah diumumkan pada hari yang sama sesuai kewajiban POJK 33/2014. Untuk agenda ini, pemegang saham Seri B mendapat hak suara khusus sebesar 30 suara per saham. Jika disetujui, susunan direksi perseroan menjadi Direktur Utama Hans Patuwo, dengan Direktur Simon Tak Leung Ho, Sudhanshu Raheja, R.A. Koesoemohadiani, Monica Lynn Mulyanto, dan Wuzhen (William) Xiong, tanpa lagi posisi Wakil Direktur Utama. Susunan dewan komisaris tidak berubah: Komisaris Utama Agus D.W. Martowardojo, Komisaris Independen John A. Prasetio, Dirk Van den Berghe, dan Marjorie Tiu Lao, serta Komisaris Wishnutama Kusubandio, Andre Soelistyo, dan Santoso Kartono.",
+   "Pemegang saham yang ingin hadir elektronik wajib mendeklarasikan kehadiran di eASY.KSEI paling lambat 13 Oktober 2026 pukul 12.00 WIB. Bagi yang memberi kuasa konvensional, formulir yang sudah ditandatangani harus disampaikan ke PT Datindo Entrycom selaku Biro Administrasi Efek paling lambat waktu yang sama, baik secara fisik ke Jl. Hayam Wuruk No. 28, Jakarta, atau lewat email dm@datindo.com. Perseroan tidak mengirim undangan terpisah ke masing-masing pemegang saham maupun menyediakan salinan bahan RUPSLB secara fisik, sehingga materi hanya bisa diakses lewat situs web perseroan dan eASY.KSEI."
+  ],
+  "fotoAdegan": "Empty rows of chairs facing a podium in a modern office meeting hall, soft morning light through large glass windows",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham GoTo. Perseroan memilih menghapus permanen 32,19 miliar saham hasil pembelian kembali tahun 2024-2025, alih-alih membagikannya ke karyawan dan direksi lewat program kepemilikan saham yang sebelumnya sudah disetujui pada Juni 2025. Yang tersentuh adalah jumlah saham beredar dan laba per saham: kalau saham itu jadi dibagikan ke karyawan, jumlah saham beredar bertambah dan laba bersih perseroan harus dibagi ke lebih banyak lembar sehingga nilainya per lembar mengecil, istilah pasarnya dilusi. Dengan dibatalkan dan ditarik permanen lewat pengurangan modal, risiko dilusi itu hilang, meski agenda kedua soal pengunduran diri Wakil Direktur Utama Catherine Hindra Sutjahyo sebenarnya sudah diumumkan sejak 28 Agustus 2026 sehingga RUPSLB ini hanya formalitas persetujuan. Yang perlu dipantau adalah hasil pemungutan suara pada RUPSLB 14 Oktober 2026, termasuk batas akhir pemberian kuasa pemegang saham pada 13 Oktober 2026 pukul 12.00 WIB, karena persetujuan pengurangan modal ini butuh dukungan suara mayoritas pemegang saham yang hadir.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cdia-bagikan-dividen-interim-us-10-juta-cair-22-oktober",
+  "category": "Aksi Korporasi",
+  "title": "CDIA Bagikan [Dividen] Interim US$10 Juta, Cair 22 Oktober",
+  "deck": "Chandra Daya Investasi menjadwalkan dividen interim tahun buku 2026 sebesar Rp1,422181 per saham, senilai total US$10 juta, dibayar pada 22 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:22:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a29f48d58_b6437681b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CDIA",
+  "tags": [
+   "CDIA",
+   "dividen interim",
+   "Chandra Daya Investasi",
+   "jadwal dividen"
+  ],
+  "body": [
+   "PT Chandra Daya Investasi Tbk (CDIA) memutuskan membagikan dividen interim untuk tahun buku 2026 setelah keputusan Direksi disetujui Dewan Komisaris pada 18 September 2026. Dividen ditetapkan sebesar Rp1,422181 per saham, berasal dari laba bersih periode yang berakhir 30 Juni 2026 yang dapat diatribusikan kepada pemilik entitas induk. Total nilai dividen, baik batas minimum maupun maksimum, sama-sama ditetapkan senilai US$10 juta.",
+   "Jadwalnya sebagai berikut: tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 30 September 2026, dengan ex dividen sehari setelahnya pada 1 Oktober 2026. Di pasar tunai, cum dividen berlaku 2 Oktober 2026 dan ex dividen 5 Oktober 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada 2 Oktober 2026 pukul 16.00 WIB berhak atas dividen, yang akan dibayarkan pada 22 Oktober 2026.",
+   "Data keuangan per 30 Juni 2026 yang mendasari pembagian ini menunjukkan laba bersih yang diatribusikan ke entitas induk sebesar US$17.287.439, saldo laba ditahan yang tidak dibatasi penggunaannya US$98.899.055, dan total ekuitas US$1.107.143.094. Perseroan juga mengingatkan soal pajak: pemegang saham dalam negeri wajib menyerahkan salinan NPWP, sementara pemegang saham luar negeri wajib menyerahkan surat keterangan domisili pajak, keduanya paling lambat 2 Oktober 2026 pukul 16.00 WIB ke Perseroan, BAE PT Datindo Entrycom, atau KSEI. Pemegang saham luar negeri yang negaranya tidak punya perjanjian penghindaran pajak berganda dengan Indonesia, atau yang tidak melengkapi dokumen tepat waktu, akan dikenakan pajak penghasilan 20 persen sesuai Pasal 26 UU Pajak Penghasilan."
+  ],
+  "fotoAdegan": "Office workers walking briskly through a modern Jakarta business district plaza, glass skyscrapers reflecting golden afternoon light",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi pemegang saham CDIA, karena nilainya hanya sekitar 0,9 persen dari total ekuitas perusahaan yang mencapai US$1,1 miliar dan masih tertutup nyaman oleh saldo laba ditahan sebesar US$98,9 juta, sehingga tidak membebani kondisi keuangan perusahaan. Yang tersentuh dari aksi ini adalah kas dan ekuitas perusahaan, sebab dividen dibayar tunai dari laba yang sudah dihasilkan, bukan dari utang baru, jadi begitu dividen cair kas perusahaan akan berkurang sekitar US$10 juta dan ekuitas ikut menyusut sebesar itu. Pelaku pasar biasanya melihat kemauan dan kemampuan membagikan dividen sebagai sinyal arus kas perusahaan cukup sehat untuk memenuhi kewajiban ke pemegang saham tanpa mengganggu operasional. Yang perlu dipantau berikutnya adalah tenggat 2 Oktober 2026 pukul 16.00 WIB, batas terakhir tercatat sebagai pemegang saham berhak sekaligus batas penyerahan dokumen pajak seperti NPWP atau surat keterangan domisili, dan tanggal pembayaran pada 22 Oktober 2026 saat dividen benar-benar cair ke rekening pemegang saham.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pemerintah-kejar-investasi-listrik-100-gw-menuju-nze-2050",
   "category": "Energi",
   "title": "Pemerintah Kejar Investasi Listrik [100 GW] Menuju NZE 2050",
@@ -31,6 +339,29 @@ var ARTICLES = [
   "imageV": "mucgn999"
  },
  {
+  "slug": "impc-tunggal-jaya-investama-tambah-6-3-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "IMPC: Tunggal Jaya Investama [Tambah] 6,3 Juta Saham",
+  "deck": "Tunggal Jaya Investama melaporkan pembelian tidak langsung 6,32 juta saham IMPC pada 18 dan 21 September 2026, menaikkan hak suaranya tipis ke 38,43 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:08:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6940-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IMPC",
+  "tags": [
+   "IMPC"
+  ],
+  "body": [
+   "PT Impack Pratama Industri Tbk (IMPC) menerima laporan keterbukaan informasi dari Tunggal Jaya Investama, pemegang saham berkewarganegaraan Indonesia, terkait penambahan kepemilikan saham perseroan. Berdasarkan laporan yang disampaikan ke Otoritas Jasa Keuangan pada 22 September 2026, Tunggal Jaya Investama melakukan dua kali pembelian saham secara tidak langsung dengan tujuan investasi.",
+   "Transaksi pertama terjadi pada 18 September 2026 sebanyak 3.134.100 saham biasa dengan harga Rp1.696 per saham. Transaksi kedua menyusul pada 21 September 2026 sebanyak 3.191.000 saham biasa dengan harga Rp1.648 per saham. Total tambahan kepemilikan dari dua transaksi ini mencapai 6.325.100 saham, dengan nilai gabungan sekitar Rp10,57 miliar berdasarkan harga yang tercantum di laporan.",
+   "Dengan tambahan tersebut, jumlah saham IMPC yang dikuasai Tunggal Jaya Investama naik dari 21.096.067.194 unit menjadi 21.102.392.294 unit. Porsi hak suaranya di perseroan bergerak tipis dari 38,42 persen menjadi 38,43 persen. Tunggal Jaya Investama tercatat bukan anggota direksi maupun dewan komisaris IMPC."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Laporan ini netral bagi IMPC karena tambahan 6,32 juta saham hanya setara sekitar 0,03 persen dari kepemilikan Tunggal Jaya Investama yang sudah lebih dari 21 miliar lembar, dan hak suaranya nyaris tidak bergeser dari 38,42 menjadi 38,43 persen. Yang tersentuh di sini adalah peta hak suara pemegang saham, bukan kondisi keuangan IMPC seperti kas atau laba, sehingga pelaku pasar biasanya hanya mencatatnya sebagai penambahan kendali yang sangat kecil, bukan sinyal soal prospek bisnis. Tunggal Jaya Investama juga tercatat melaporkan pembelian serupa pada 18 September, sehingga transaksi kali ini melanjutkan pola akumulasi bertahap yang sama. Yang perlu dipantau adalah apakah pola pembelian rutin ini terus berlanjut di laporan-laporan kepemilikan berikutnya, karena akumulasi kecil yang konsisten dari waktu ke waktu bisa mengubah peta pengendalian meski satu per satu terlihat remeh.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "amran-buka-peluang-bumn-kelola-cadangan-kedelai",
   "category": "BUMN",
   "title": "Amran Buka Peluang [BUMN] Kelola Cadangan Kedelai",
@@ -55,6 +386,59 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Amran belum mengambil keputusan, ia baru membuka pintu, BUMN dipersilakan mengajukan diri, tapi izinnya baru bisa keluar setelah dicocokkan dengan aturan yang masih akan dilihat ulang. Artinya yang berubah hari ini cuma sinyal keterbukaan, belum ada nama BUMN yang ditunjuk, belum ada angka berapa banyak kedelai yang mau dicadangkan, dan belum ada aturan turunan yang mengatur skemanya. Kalau rencana ini jalan, pihak yang paling merasakan dampaknya adalah pengusaha tahu dan tempe, karena harga kedelai impor selama ini langsung menekan biaya produksi mereka setiap kali kurs rupiah atau harga kedelai dunia bergerak. Yang perlu ditunggu untuk tahu apakah wacana ini serius adalah BUMN mana yang benar-benar mengajukan diri dan draf aturan Bapanas soal skema cadangan pangan strategis, sebab tanpa dua hal itu rencana ini masih bisa berhenti sebatas pernyataan.",
   "imageV": "mucgn9nn"
+ },
+ {
+  "slug": "akku-gelar-public-expose-klaim-belum-ada-keluhan-soal-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Gelar Public Expose, Klaim Belum Ada [Keluhan] Soal Suspensi",
+  "deck": "AKKU gelar public expose insidentil 18 September, direksi ungkap belum ada keluhan pemegang saham dan optimistis opini disclaimer tak berulang di laporan akhir 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T15:56:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9bf2124a2e_5a14b10308.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKKU",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "public expose",
+   "opini audit"
+  ],
+  "body": [
+   "PT Anugerah Kagum Karya Utama Tbk (AKKU) menggelar public expose insidentil pada Jumat, 18 September 2026, pukul 11.00 WIB di Apartemen Grand Asia Afrika, Bandung, Jawa Barat. Acara ini dihadiri oleh Direktur Utama Irwan Suryadi, Direktur Heni Supartini, dan Komisaris Independen Wilhelmina, serta 10 peserta dari luar manajemen dan karyawan perseroan, terdiri atas sembilan orang masyarakat dan satu wartawan. Dalam paparannya, Irwan Suryadi menjelaskan latar belakang suspensi saham oleh Bursa, visi dan misi perusahaan, profil dan struktur perseroan, komposisi pemegang saham, serta kinerja perusahaan hingga kuartal II 2026.",
+   "Dalam sesi tanya jawab, peserta bernama Wendi menanyakan apakah ada pemegang saham yang mengeluhkan suspensi yang telah berlangsung sejak April 2026, serta sejauh mana komunikasi perseroan dengan Bursa soal lama suspensi ini akan dikenakan. Irwan Suryadi menjawab bahwa hingga saat ini belum ada keluhan yang diterima perseroan, baik secara langsung maupun tidak langsung, dari pemegang saham. Ia menambahkan bahwa perseroan terus berkomunikasi dengan Bursa, dan public expose insidentil ini merupakan salah satu langkah yang diminta Bursa sebagai bagian dari proses menuju pencabutan suspensi.",
+   "Peserta lain, Diah Vita, mempertanyakan langkah perseroan agar laporan keuangan tahun ini tidak kembali mendapat opini disclaimer dari auditor, setelah opini itu diterima dua tahun berturut-turut dan menjadi penyebab suspensi saham. Manajemen menjawab bahwa perseroan telah mempercepat proses audit sebagai antisipasi. Laporan keuangan per 30 Juni 2026 yang sebelumnya telah dipaparkan kini telah diaudit dan mendapat opini Wajar Dengan Pengecualian (WDP), naik dari opini disclaimer sebelumnya. Perseroan menyatakan optimistis laporan keuangan akhir tahun 2026 tidak akan lagi mendapat opini disclaimer, meski belum tentu mencapai opini Wajar Tanpa Pengecualian. Soal kepastian tanggal pencabutan suspensi, manajemen menyebut komunikasi terakhir dengan Bursa hanya meminta perseroan menggelar public expose insidentil ini, dan perseroan berharap suspensi dapat dibuka setelah acara ini dilaksanakan.",
+   "Suspensi saham AKKU sendiri telah berlangsung sejak April 2026 dan sampai laporan ini terbit belum ada kepastian tanggal pencabutannya dari Bursa."
+  ],
+  "fotoAdegan": "Exterior of a modern mid-rise apartment building in Bandung under afternoon light, street trees in the foreground",
+  "takeaway": "Laporan ini netral bagi AKKU: ada itikad perbaikan lewat audit yang dipercepat, tapi belum ada kepastian kapan suspensi sahamnya dicabut. Yang tersentuh di sini adalah opini auditor, yaitu penilaian independen atas kewajaran laporan keuangan perusahaan. Opini ini penting karena syarat utama Bursa untuk membuka kembali perdagangan saham AKKU adalah laporan keuangan yang tidak lagi mendapat opini disclaimer, yaitu kondisi ketika auditor bahkan tidak sanggup memberi pendapat sama sekali atas laporan itu. Setelah dua tahun berturut-turut kena disclaimer, laporan per 30 Juni 2026 sudah naik level menjadi Wajar Dengan Pengecualian, artinya auditor mulai bisa memberi pendapat meski dengan sejumlah catatan. Yang perlu dipantau selanjutnya adalah hasil audit laporan keuangan akhir tahun 2026, yang akan menentukan apakah opini disclaimer benar-benar hilang, serta keputusan Bursa soal pencabutan suspensi pasca pelaksanaan public expose insidentil ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "unsp-bakrie-sumatera-keluar-dari-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Bakrie Sumatera Keluar dari [Pemantauan Khusus] BEI",
+  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham UNSP dan memindahkannya ke Papan Pengembangan, efektif 23 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T15:55:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b0083c4538_97b65792d5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "BEI",
+   "pemantauan khusus"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan pencabutan status pemantauan khusus atas saham PT Bakrie Sumatera Plantations Tbk (UNSP) melalui surat No. Peng-CK-00073/BEI.PLP/09-2026 yang diteken Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat, Teuku Fahmi Ariandar. Saham UNSP dipindahkan dari Papan Pemantauan Khusus ke Papan Pengembangan, dengan perubahan berlaku efektif mulai 23 September 2026.",
+   "Dalam pengumuman itu, kriteria yang sebelumnya membuat UNSP masuk daftar pemantauan khusus tercatat sebagai kriteria nomor 5, yakni ekuitas negatif pada laporan keuangan terakhir. Kolom keterangan untuk UNSP ditulis 'Keluar/Exit', yang menandakan bahwa BEI menilai saham ini sudah tidak lagi memenuhi kondisi yang menjadi dasar pemantauan khusus tersebut, sehingga dicabut dari daftar.",
+   "BEI juga mencantumkan bahwa status free float saham UNSP dalam kondisi 'Tidak' pada kolom SDHSM, yang berarti belum ada masalah pada rasio saham beredar bebas yang terkait langsung dengan pencabutan ini. Pengumuman lengkap mengenai Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus dapat diakses melalui laman resmi pengumuman BEI."
+  ],
+  "fotoAdegan": "Rows of oil palm trees on a plantation with workers loading harvested fruit bunches onto a truck, tropical morning light",
+  "takeaway": "Pencabutan status pemantauan khusus ini condong positif bagi UNSP, karena menandakan emiten sudah tidak lagi terjebak dalam kondisi yang memicu masuknya saham ke kategori berisiko tinggi di mata bursa. Pos yang tersentuh adalah ekuitas, yaitu selisih antara total aset perusahaan dengan total utangnya. Ekuitas negatif berarti utang UNSP lebih besar dari asetnya, kondisi yang membuat pelaku pasar was-was karena menunjukkan bantalan keuangan perusahaan sudah habis. Saham yang masuk pemantauan khusus juga biasanya diperdagangkan dengan mekanisme lebih ketat, sehingga keluarnya UNSP dari daftar ini berpotensi mengembalikan mekanisme perdagangan yang lebih longgar. Yang perlu dipantau berikutnya adalah laporan keuangan UNSP setelah 23 September 2026, untuk melihat apakah perbaikan ekuitas yang mendasari pencabutan status ini benar-benar tercermin dalam neraca perusahaan pada periode pelaporan mendatang.",
+  "sentimen": "positif"
  },
  {
   "slug": "dprd-dki-minta-rencana-obligasi-daerah-ditinjau-ulang",
@@ -922,6 +1306,32 @@ var ARTICLES = [
   "fotoAdegan": "Mechanics servicing a car under fluorescent lights inside a small auto repair garage, tools and tires stacked along the wall",
   "takeaway": "Laporan ini netral bagi MPXL, karena nilai investasinya kecil, modal yang disetor MPXL ke anak usaha baru ini hanya Rp1,65 miliar, sehingga belum akan mengubah signifikan kondisi keuangan perusahaan secara langsung. Pos yang tersentuh adalah ekuitas dan arus kas MPXL, sebagian dana perusahaan berpindah menjadi penyertaan di anak usaha, yang nantinya baru tercermin sebagai penambah pendapatan konsolidasi kalau bengkel dan gerai suku cadang ini sudah beroperasi dan menghasilkan uang. Perlu dicatat juga bahwa perusahaan sendiri mengakui ada afiliasi di jajaran pengurus anak usaha ini, artinya ada hubungan kedekatan antara pengurus MPXL dan pengurus Auto Prime Indonesia, yang membuat transaksi semacam ini pantas diperhatikan oleh pemegang saham dari sisi tata kelola meski secara aturan sudah diungkapkan. Yang perlu dipantau selanjutnya adalah realisasi operasional Auto Prime Indonesia serta kemungkinan setoran modal tambahan, mengingat modal disetor baru Rp3 miliar dari modal dasar Rp12 miliar, sehingga masih ada ruang penambahan modal hingga Rp9 miliar di kemudian hari.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "boss-ralat-pengumuman-rups-digelar-29-oktober-untuk-3-tahun-buku",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Ralat Pengumuman RUPS, Digelar [29 Oktober] untuk 3 Tahun Buku",
+  "deck": "Perseroan mengoreksi pengumuman RUPS sebelumnya dan memastikan RUPST tiga tahun buku (2023-2025) beserta RUPSLB digelar 29 Oktober 2026 di Jakarta, dengan batas usul agenda 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T08:40:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84d9e56943_00419b76a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "RUPST",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menerbitkan surat koreksi atas pengumuman sebelumnya, nomor 12.137/SL.e/Corsec/BOSS/IX/2026 tertanggal 3 September 2026, terkait rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) dan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Surat koreksi ini ditandatangani Direktur Widodo Nurly S dan diterbitkan 22 September 2026. Dalam koreksi ini, perseroan memastikan RUPST akan mencakup tiga tahun buku sekaligus, yaitu 2023, 2024, dan 2025, digabung dengan RUPSLB dalam satu forum yang sama.",
+   "Rapat dijadwalkan berlangsung Kamis, 29 Oktober 2026 pukul 10.00 WIB sampai selesai, bertempat di Wisma 77 Tower 1 Lantai 8, Jalan Letjen S. Parman Kav 77, Slipi, Palmerah, Jakarta Barat. Pemegang saham yang berhak hadir atau diwakili adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham (DPS) perseroan pada Selasa, 6 Oktober 2026 hingga pukul 16.00 WIB. Panggilan resmi rapat akan dipublikasikan melalui situs KSEI lewat aplikasi eASY.KSEI, situs Bursa Efek Indonesia, dan situs resmi perseroan pada 7 Oktober 2026.",
+   "Perseroan juga mengingatkan bahwa sesuai Pasal 16 POJK 15/2020, pemegang saham atau kelompok pemegang saham yang mewakili minimal 1/20 dari total saham dengan hak suara dapat mengusulkan mata acara rapat secara tertulis kepada Direksi, paling lambat tujuh hari sebelum tanggal panggilan rapat, yakni Rabu, 30 September 2026."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs arranged in a corporate meeting hall before a shareholders meeting, soft morning light, blurred stage in background",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena menegaskan bahwa pertanggungjawaban laporan keuangan untuk tahun buku 2023 baru akan disahkan pemegang saham pada akhir Oktober 2026, hampir tiga tahun setelah tahun buku itu berakhir, dan kini digabung sekaligus dengan tahun buku 2024 dan 2025 dalam satu rapat. Penumpukan tiga tahun buku dalam satu RUPST biasanya jadi sinyal bahwa proses audit atau penyusunan laporan keuangan perseroan tersendat cukup lama, yang membuat pelaku pasar sulit menilai kondisi keuangan terkini perseroan secara tepat waktu, sesuatu yang biasanya dijaga ketat oleh regulator pasar modal. Yang perlu dipantau berikutnya adalah batas waktu usul mata acara rapat oleh pemegang saham pada 30 September 2026, batas pencatatan pemegang saham yang berhak hadir pada 6 Oktober 2026, terbitnya panggilan resmi pada 7 Oktober 2026, dan pelaksanaan rapat itu sendiri pada 29 Oktober 2026.",
+  "sentimen": "negatif"
  },
  {
   "slug": "qris-antarnegara-raih-penghargaan-global-transaksi-rp7-6-triliun",

@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "gaikindo-gelar-pameran-otomotif-serentak-di-10-kota",
+  "category": "Industri",
+  "title": "GAIKINDO Gelar Pameran Otomotif [Serentak] di 10 Kota",
+  "deck": "GAIKINDO menggelar Permata Bank GAIKINDO Auto Week 2026 pada 20-29 November, untuk pertama kali serentak di 10 kota, tidak hanya di Jakarta seperti tahun-tahun sebelumnya.",
+  "date": "23 September 2026",
+  "image": "assets/img/gaikindo-gelar-pameran-otomotif-serentak-di-10-kota.jpg",
+  "imageV": "mucyshz8",
+  "tags": [
+   "GAIKINDO",
+   "Otomotif",
+   "Pameran",
+   "Permata Bank"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/permata-bank-gaikindo-auto-week-2026-serentak-di-10-kota-besar-se-indonesia/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
   "slug": "halo-direktur-keuangan-taufan-kurniawan-mundur",
   "category": "Aksi Korporasi",
   "title": "HALO: Direktur Keuangan Taufan Kurniawan [Mundur]",
@@ -220,6 +238,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468731-7-umk-binaan-pertamina-tampil-di-caexpo-2026-akses-pasar-global-kian-terbuka-di-china"
+ },
+ {
+  "slug": "nasib-pembatasan-pertalite-desil-9-10-masih-mengambang",
+  "category": "Energi",
+  "title": "Nasib Pembatasan Pertalite Desil 9-10 Masih [Mengambang]",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut rencana pembatasan Pertalite bagi kelompok desil 9-10 belum diputuskan, menunggu pembahasan dengan Menteri Keuangan baru dan validasi data.",
+  "date": "22 September 2026",
+  "image": "assets/img/nasib-pembatasan-pertalite-desil-9-10-masih-mengambang.jpg",
+  "imageV": "mucysiiq",
+  "tags": [
+   "pertalite",
+   "subsidi bbm",
+   "bahlil lahadalia",
+   "desil 9-10"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468703-pembatasan-pertalite-untuk-desil-9-10-belum-pasti-bahlil-pemerintah-masih-cek-data"
  },
  {
   "slug": "bafi-terbitkan-obligasi-dan-sukuk-rp902-miliar-rating-aaa",
@@ -6486,37 +6521,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467459-telkomsel-dan-map-luncurkan-maprivilege-hubungkan-pelanggan-dengan-beragam-manfaat-gaya-hidup"
- },
- {
-  "slug": "epmt-akui-free-float-belum-capai-15-rencana-belum-final",
-  "category": "Aksi Korporasi",
-  "title": "EPMT Akui Free Float Belum Capai 15%, [Rencana] Belum Final",
-  "deck": "EPMT menjawab surat BEI soal rencana pemenuhan syarat minimum free float 15 persen, namun belum merinci jadwal atau caranya.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EPMT",
-   "free float",
-   "Bursa Efek Indonesia",
-   "Enseval Putera Megatrading"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/88393ffbd4_8246b116ce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-laba-semester-i-turun-target-2026-tipis-2",
-  "category": "Aksi Korporasi",
-  "title": "VTNY: Laba Semester I Turun, Target 2026 [Tipis] 2%",
-  "deck": "Public expose tahunan Venteny mengungkap laba bersih semester I 2026 turun akibat kenaikan biaya operasional, dengan target laba penuh tahun 2026 hanya naik sekitar 2 persen.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "Venteny Fortuna International",
-   "laba bersih",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef597c6be3_95a4fea027.pdf",
-  "sourceLabel": "IDX"
  }
 ];

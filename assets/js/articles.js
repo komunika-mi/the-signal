@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "gaikindo-gelar-pameran-otomotif-serentak-di-10-kota",
+  "category": "Industri",
+  "title": "GAIKINDO Gelar Pameran Otomotif [Serentak] di 10 Kota",
+  "deck": "GAIKINDO menggelar Permata Bank GAIKINDO Auto Week 2026 pada 20-29 November, untuk pertama kali serentak di 10 kota, tidak hanya di Jakarta seperti tahun-tahun sebelumnya.",
+  "image": "assets/img/gaikindo-gelar-pameran-otomotif-serentak-di-10-kota.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-22T17:43:45.332Z",
+  "sourceUrl": "https://www.gaikindo.or.id/permata-bank-gaikindo-auto-week-2026-serentak-di-10-kota-besar-se-indonesia/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GAIKINDO",
+   "Otomotif",
+   "Pameran",
+   "Permata Bank"
+  ],
+  "body": [
+   "Gabungan Industri Kendaraan Bermotor Indonesia (GAIKINDO) akan menggelar pameran tahunan Permata Bank GAIKINDO Auto Week 2026 pada 20 sampai 29 November 2026. Untuk pertama kalinya, pameran ini berlangsung serentak di 10 kota besar, yaitu Jakarta, Denpasar, Balikpapan, Bandung, Makassar, Medan, Palembang, Semarang, Solo, dan Surabaya, tidak lagi terpusat di Jakarta seperti penyelenggaraan-penyelenggaraan sebelumnya.",
+   "Di Jakarta, pameran ditempatkan di Indonesia Convention Exhibition (ICE), BSD City, Kabupaten Tangerang. Sementara di sembilan kota lainnya, pameran digelar di pusat perbelanjaan agar lebih mudah dijangkau pengunjung. Selama pameran, publik bisa melihat berbagai merek dan model kendaraan terbaru sekaligus mencoba test drive sebelum memutuskan membeli, dengan Permata Bank kembali menjadi sponsor yang menawarkan skema pembiayaan bagi pengunjung yang ingin mengganti kendaraan.",
+   "Ketua Umum GAIKINDO Putu Juli Ardika menyebut penyelenggaraan serentak di 10 kota ini sebagai langkah strategis untuk mendorong penjualan kendaraan bermotor sekaligus menjaga momentum penjualan nasional menjelang akhir tahun. Ketua Harian sekaligus Ketua Penyelenggara Pameran dan Konferensi GAIKINDO, Anton Kumonty, menambahkan bahwa format ini membuka kesempatan bagi konsumen di berbagai kota yang selama ini belum bisa menghadiri pameran-pameran otomotif GAIKINDO seperti GIIAS.",
+   "GAIKINDO menyebut pameran-pameran yang mereka selenggarakan, termasuk GIIAS dan GIICOMVEC, selama ini turut menyumbang pada pencatatan penjualan kendaraan bermotor nasional, tanpa merinci angka kontribusinya dalam pengumuman ini."
+  ],
+  "fotoAdegan": "Wide convention hall floor filled with rows of new cars under bright lights, visitors walking between vehicles on a weekend afternoon.",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/09/ja.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Yang berubah adalah format pamerannya sendiri, bukan isi acaranya: untuk pertama kali, GAIKINDO menggelar Auto Week secara bersamaan di 10 kota pada 20-29 November 2026, bukan cuma di Jakarta seperti biasanya. Yang terdampak langsung adalah calon pembeli mobil di sembilan kota di luar Jakarta, seperti Medan, Makassar, dan Surabaya, yang selama ini jarang kebagian pameran otomotif besar GAIKINDO, sekaligus diler dan pabrikan yang mengejar target penjualan sebelum tahun tutup buku, serta Permata Bank yang menyediakan pembiayaan di lokasi. Langkah ini terlihat sebagai upaya GAIKINDO memperluas jangkauan pamerannya ke luar Jakarta secara lebih permanen, bukan sekadar coba-coba satu kali. Yang akan memastikan arah itu adalah apakah format serentak ini diulang lagi di pameran GAIKINDO berikutnya seperti GIIAS, dan apakah GAIKINDO merilis angka penjualan riil dari Auto Week 2026 setelah acara ini selesai akhir November.",
+  "imageV": "mucyshz8"
+ },
+ {
   "slug": "halo-direktur-keuangan-taufan-kurniawan-mundur",
   "category": "Aksi Korporasi",
   "title": "HALO: Direktur Keuangan Taufan Kurniawan [Mundur]",
@@ -54,7 +82,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkret dari rapat ini ada di dua ujung rantai tekstil sekaligus. Di hulu, pemerintah akan meninjau ulang aturan Pertek, semacam izin teknis yang selama ini menjadi syarat masuknya bahan baku tekstil, dengan tujuan mempermudah pasokan bagi pabrik dalam negeri yang justru masih net importer sebesar US$8,4 miliar. Di hilir, Bea Cukai diminta menertibkan impor pakaian bekas lewat jalur kiloan dan ball press, yang selama ini bersaing langsung dengan produsen garmen lokal, sektor yang justru sudah surplus ekspor US$8,7 miliar. Yang terdampak jelas ada di dua sisi berbeda, yaitu importir dan pabrik bahan baku yang menunggu kemudahan di satu sisi, produsen garmen dalam negeri yang dirugikan banjir pakaian bekas di sisi lain. Arahnya tampak menuju kombinasi pelonggaran di hulu dan pengetatan di hilir, tapi baik revisi aturan Pertek maupun instruksi penertiban Bea Cukai belum punya tenggat pasti, jadi yang perlu ditunggu adalah apakah instruksi rapat terbatas ini benar-benar berubah menjadi revisi aturan resmi atau data penindakan impor pakaian bekas dalam beberapa bulan mendatang.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ri-percepat-perjanjian-dagang-ieu-cepa-dengan-uni-eropa",
@@ -82,7 +110,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan isi kesepakatannya, melainkan tahapannya: dokumen IEU-CEPA sedang disiapkan dalam bahasa Inggris supaya bisa masuk ke meja Parlemen Eropa, langkah sebelum Indonesia sendiri meratifikasinya di dalam negeri. Pihak yang paling terdampak adalah pelaku usaha ekspor Indonesia, karena kesepakatan ini pada akhirnya menentukan seberapa mudah produk mereka masuk pasar Uni Eropa tanpa hambatan tarif yang selama ini berlaku. Rencana kunjungan Komisioner Uni Eropa Maroš Šefčovič serta pimpinan Uni Eropa ke Indonesia akhir Oktober atau awal November menunjukkan proses ini memang sedang didorong dari kedua sisi, bukan cuma keinginan sepihak Indonesia. Namun target pemerintah, yaitu ratifikasi pada semester kedua 2026 dan berlaku awal 2027, sebagian bergantung pada jadwal Parlemen Eropa yang tidak dikendalikan Indonesia, sehingga kunjungan akhir Oktober atau awal November itu menjadi penanda paling dekat untuk melihat apakah target tersebut masih di jalur atau mulai meleset.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "kemendag-luncurkan-inaexport-platform-ekspor-terintegrasi",
@@ -351,6 +379,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah dari sisi konkret adalah tujuh UMK binaan Pertamina, dengan produk mulai dari keripik tempe sampai kerajinan kayu jati, mendapat panggung lima hari di pameran dagang internasional di Nanning. Yang terdampak langsung adalah ketujuh UMK itu sendiri dan calon mitra dagang mereka di Tiongkok dan ASEAN, bukan UMK Indonesia secara umum. Yang masih kurang untuk menilai ke mana arah program ini adalah angka: berita ini tidak menyebut berapa nilai transaksi atau berapa calon pembeli yang benar-benar terjaring selama pameran, padahal Konjen RI sendiri mengingatkan agar hasilnya jangan berhenti pada transaksi satu kali. Tanpa laporan tindak lanjut, sulit dibedakan apakah ini langkah menuju kerja sama dagang berkelanjutan atau sekadar seremoni pameran tahunan. Yang perlu dipantau adalah apakah Pertamina merilis data hasil konkret, seperti nilai kontrak atau jumlah kesepakatan awal, setelah pameran ini selesai.",
   "imageV": "muctmn74"
+ },
+ {
+  "slug": "nasib-pembatasan-pertalite-desil-9-10-masih-mengambang",
+  "category": "Energi",
+  "title": "Nasib Pembatasan Pertalite Desil 9-10 Masih [Mengambang]",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut rencana pembatasan Pertalite bagi kelompok desil 9-10 belum diputuskan, menunggu pembahasan dengan Menteri Keuangan baru dan validasi data.",
+  "image": "assets/img/nasib-pembatasan-pertalite-desil-9-10-masih-mengambang.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T20:00:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468703-pembatasan-pertalite-untuk-desil-9-10-belum-pasti-bahlil-pemerintah-masih-cek-data",
+  "tags": [
+   "pertalite",
+   "subsidi bbm",
+   "bahlil lahadalia",
+   "desil 9-10"
+  ],
+  "body": [
+   "Pemerintah belum memastikan apakah rencana pembatasan pembelian Pertalite bagi kelompok masyarakat desil 9 dan 10 akan benar-benar diberlakukan. Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia menyatakan keputusan itu masih menunggu pembahasan lebih lanjut, termasuk dengan Menteri Keuangan yang baru, Suahasil Nazara. Ini penting bagi konsumen Pertalite dari kelompok ekonomi menengah-atas karena hasil pembahasan itu akan menentukan apakah mereka tetap bisa membeli BBM bersubsidi seperti biasa.",
+   "Sebelumnya Bahlil menjelaskan rencana ini masih tahap kajian, dengan fokus utama memastikan akurasi data pengelompokan desil yang dipakai untuk menyaring penerima subsidi. Ia mengakui masih ada keluhan bahwa data desil belum selalu mencerminkan kondisi ekonomi masyarakat yang sebenarnya, sehingga berisiko salah sasaran. Pernyataan itu disampaikan di Gedung Nusantara I DPR, Jakarta Pusat, pada Senin, 31 Agustus 2026.",
+   "Pergantian Menteri Keuangan turut menjadi salah satu alasan kajian ini belum tuntas, karena pembahasan lintas kementerian perlu diulang bersama pejabat baru. Pemerintah menegaskan tujuan pembatasan adalah agar subsidi BBM tidak dinikmati kelompok yang sebenarnya mampu, namun kebijakan itu juga berisiko meleset dan membebani masyarakat kurang mampu jika data desil yang dipakai ternyata keliru."
+  ],
+  "fotoAdegan": "A gas station attendant filling a motorcycle fuel tank at a pump nozzle, riders waiting in queue on an ordinary Indonesian street, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/11/17/691b1cf8cd713-terungkap-penyebab-394-ribu-kendaraan-tidak-bisa-isi-pertalite-lagi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari kabar sebelumnya bukan kebijakannya, melainkan waktunya: rencana pembatasan Pertalite untuk desil 9 dan 10 yang sejak akhir Agustus disebut masih dikaji karena soal data, kini tertunda lagi karena harus dibahas ulang bersama Menteri Keuangan baru, Suahasil Nazara. Yang terdampak adalah pemilik kendaraan dari kelompok ekonomi menengah-atas yang selama ini masih membeli Pertalite, karena merekalah yang akan tersaring keluar jika batas desil 9-10 dipakai. Ada dua kemungkinan arah dari sini, kalau pembahasan dengan Menkeu baru berjalan cepat, pembatasan bisa tetap berlaku begitu data desil dianggap valid, tapi kalau pola penundaan yang sudah berulang sejak Agustus terus berlanjut, kebijakan ini berisiko mengambang tanpa target waktu yang jelas. Yang akan menunjukkan arah mana yang benar adalah hasil rapat lanjutan Bahlil dengan Suahasil Nazara dan ada tidaknya jadwal resmi yang diumumkan setelah itu.",
+  "imageV": "mucysiiq"
  },
  {
   "slug": "bafi-terbitkan-obligasi-dan-sukuk-rp902-miliar-rating-aaa",

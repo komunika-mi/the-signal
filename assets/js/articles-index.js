@@ -5,6 +5,90 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-tertibkan-impor-baju-bekas-longgarkan-bahan-baku-tekstil",
+  "category": "Industri",
+  "title": "Pemerintah [Tertibkan] Impor Baju Bekas, Longgarkan Bahan Baku Tekstil",
+  "deck": "Rapat terbatas dengan Presiden Prabowo Subianto menghasilkan rencana peninjauan aturan impor bahan baku tekstil dan penertiban impor pakaian bekas ilegal.",
+  "date": "22 September 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "tekstil",
+   "TPT",
+   "impor pakaian bekas",
+   "investasi industri"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7107/industri-tekstil-dan-produk-tekstil-tetap-strategis-pemerintah-dorong-penguatan-daya-saing-dan-investasi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ri-percepat-perjanjian-dagang-ieu-cepa-dengan-uni-eropa",
+  "category": "Global",
+  "title": "RI Percepat Perjanjian Dagang [IEU-CEPA] dengan Uni Eropa",
+  "deck": "Presiden Prabowo Subianto meminta penyelesaian kesepakatan dagang RI-Uni Eropa dipercepat, dengan target ratifikasi semester kedua 2026 dan berlaku awal 2027.",
+  "date": "22 September 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "Ekspor",
+   "Prabowo Subianto"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7108/menko-airlangga-penyelesaian-ieu-cepa-dipacu-untuk-perluas-akses-pasar-eropa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "kemendag-luncurkan-inaexport-platform-ekspor-terintegrasi",
+  "category": "UMKM",
+  "title": "Kemendag Luncurkan [InaExport], Platform Ekspor Terintegrasi",
+  "deck": "Kementerian Perdagangan merilis lima layanan baru di platform InaExport dan meneken kerja sama dengan 19 mitra untuk memperluas akses pasar ekspor UMKM.",
+  "date": "22 September 2026",
+  "image": "assets/img/kemendag-luncurkan-inaexport-platform-ekspor-terintegrasi.jpg",
+  "imageV": "muctm54j",
+  "tags": [
+   "InaExport",
+   "UMKM",
+   "Ekspor",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/layanan-baru-inaexport-perkuat-akses-pasar-produk-produk-indonesia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "sungai-surut-pasokan-batu-bara-ke-semen-tersendat",
+  "category": "Energi",
+  "title": "Sungai Surut, Pasokan Batu Bara ke Semen [Tersendat]",
+  "deck": "Debit sungai di Kalimantan turun dan mengganggu pasokan batu bara industri semen serta distribusi BBM. ESDM targetkan tuntas pekan ini atau depan.",
+  "date": "22 September 2026",
+  "image": "assets/img/sungai-surut-pasokan-batu-bara-ke-semen-tersendat.jpg",
+  "imageV": "muctm5ma",
+  "tags": [
+   "batu bara",
+   "ESDM",
+   "industri semen",
+   "Kalimantan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468752-pasokan-batu-bara-untuk-industri-semen-tersendat-akibat-sungai-di-kalimantan-surut-esdm-cari-alternatif"
+ },
+ {
+  "slug": "bandara-soetta-uji-coba-insinerator-tanpa-asap-20-ton-hari",
+  "category": "BUMN",
+  "title": "Bandara Soetta Uji Coba Insinerator [Tanpa Asap] 20 Ton/Hari",
+  "deck": "Bandara Soekarno-Hatta mulai menguji insinerator PARK PYRO berkapasitas 20 ton sampah per hari tanpa asap, hasil kerja sama Angkasa Pura Indonesia dengan dua mitra teknologi sejak Maret 2026.",
+  "date": "22 September 2026",
+  "image": "assets/img/bandara-soetta-uji-coba-insinerator-tanpa-asap-20-ton-hari.jpg",
+  "imageV": "muctm65c",
+  "tags": [
+   "Bandara Soekarno-Hatta",
+   "Angkasa Pura Indonesia",
+   "pengelolaan sampah",
+   "teknologi ramah lingkungan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468737-bandara-soetta-uji-coba-teknologi-baru-pengelolaan-sampah-tanpa-asap-menuju-zero-waste-zero-emisi"
+ },
+ {
   "slug": "btps-jelaskan-volatilitas-saham-imbas-rebalancing-ftse-russell",
   "category": "Aksi Korporasi",
   "title": "BTPS Jelaskan Volatilitas Saham Imbas [Rebalancing] FTSE Russell",
@@ -21,6 +105,57 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pemerintah-bentuk-bumn-tekstil-danantara-jadi-integrator",
+  "category": "BUMN",
+  "title": "Pemerintah Bentuk BUMN Tekstil, Danantara Jadi [Integrator]",
+  "deck": "Danantara memastikan pemerintah sepakat membentuk BUMN tekstil baru sebagai integrator industri, meski waktu realisasi dan modal awal belum ditentukan.",
+  "date": "22 September 2026",
+  "image": "assets/img/pemerintah-bentuk-bumn-tekstil-danantara-jadi-integrator.jpg",
+  "imageV": "muctm6mo",
+  "tags": [
+   "BUMN tekstil",
+   "Danantara",
+   "Rosan Roeslani",
+   "industri tekstil"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468714-bumn-tekstil-baru-bakal-dibentuk-danantara-siapkan-integrator-untuk-bangkitkan-industri"
+ },
+ {
+  "slug": "transnusa-buka-rute-bali-surabaya-tiket-mulai-rp800-ribu",
+  "category": "Bisnis",
+  "title": "TransNusa Buka Rute Bali-Surabaya, Tiket Mulai [Rp800 Ribu]",
+  "deck": "TransNusa membuka penerbangan langsung Denpasar-Surabaya mulai 21 September 2026 dengan tarif mulai Rp800 ribu, dan menambah frekuensi jadi dua kali sehari mulai 10 Oktober 2026.",
+  "date": "22 September 2026",
+  "image": "assets/img/transnusa-buka-rute-bali-surabaya-tiket-mulai-rp800-ribu.jpg",
+  "imageV": "muctm72i",
+  "tags": [
+   "TransNusa",
+   "penerbangan domestik",
+   "rute Bali Surabaya",
+   "tiket pesawat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468705-transnusa-buka-rute-bali-surabaya-tiket-mulai-rp800-ribu-dan-terbang-2-kali-sehari"
+ },
+ {
+  "slug": "menkeu-suahasil-beberkan-tiga-langkah-perkuat-bea-cukai",
+  "category": "Makroekonomi",
+  "title": "Menkeu Suahasil Beberkan [Tiga] Langkah Perkuat Bea Cukai",
+  "deck": "Menteri Keuangan Suahasil Nazara memaparkan tiga langkah penguatan pengawasan Direktorat Jenderal Bea dan Cukai: sumber daya manusia, teknologi, dan proses bisnis.",
+  "date": "22 September 2026",
+  "image": "assets/img/menkeu-suahasil-beberkan-tiga-langkah-perkuat-bea-cukai.jpg",
+  "imageV": "muctmmbh",
+  "tags": [
+   "Bea Cukai",
+   "Kemenkeu",
+   "Suahasil Nazara",
+   "Pengawasan Impor"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468740-menkeu-suahasil-beberkan-langkah-pengawasan-bea-cukai"
+ },
+ {
   "slug": "kkgi-komisaris-hendro-tambah-93-000-saham-lagi",
   "category": "Aksi Korporasi",
   "title": "KKGI: Komisaris Hendro Tambah [93.000] Saham Lagi",
@@ -35,6 +170,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-9273-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "presiden-komisi-eropa-ke-ri-bahas-percepatan-cepa",
+  "category": "Global",
+  "title": "Presiden Komisi Eropa ke RI Bahas [Percepatan] CEPA",
+  "deck": "Airlangga sebut Presiden Komisi Eropa Ursula von der Leyen dan Komisioner Dagang Maros Sefcovic akan ke Indonesia akhir Oktober-awal November bahas percepatan IEU-CEPA.",
+  "date": "22 September 2026",
+  "image": "assets/img/presiden-komisi-eropa-ke-ri-bahas-percepatan-cepa.jpg",
+  "imageV": "muctmmrn",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "Airlangga Hartarto",
+   "perjanjian dagang"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468734-ungkap-perkembangan-ieu-cepa-airlangga-sebut-presiden-komisi-eropa-akan-ke-ri-bahas-percepatan-perjanjian-dagang"
+ },
+ {
+  "slug": "7-umk-binaan-pertamina-tembus-pameran-caexpo-di-china",
+  "category": "UMKM",
+  "title": "7 UMK Binaan Pertamina [Tembus] Pameran CAEXPO di China",
+  "deck": "Tujuh usaha mikro dan kecil mitra binaan Pertamina memamerkan produk di China-ASEAN Expo 2026 untuk menjaring pembeli dari Tiongkok dan ASEAN.",
+  "date": "22 September 2026",
+  "image": "assets/img/7-umk-binaan-pertamina-tembus-pameran-caexpo-di-china.jpg",
+  "imageV": "muctmn74",
+  "tags": [
+   "UMK",
+   "Pertamina",
+   "CAEXPO",
+   "ekspor UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468731-7-umk-binaan-pertamina-tampil-di-caexpo-2026-akses-pasar-global-kian-terbuka-di-china"
  },
  {
   "slug": "bafi-terbitkan-obligasi-dan-sukuk-rp902-miliar-rating-aaa",
@@ -6348,166 +6517,6 @@ var ARTICLES = [
    "penggunaan dana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/364c03abe5_30bd2610d1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bcic-ungkap-free-float-baru-13-74-syarat-bursa-15",
-  "category": "Aksi Korporasi",
-  "title": "BCIC Ungkap Free Float Baru 13,74%, Syarat Bursa [15%]",
-  "deck": "Bank JTrust Indonesia menjelaskan ke Bursa bahwa porsi saham publiknya baru 13,74% per akhir Agustus 2026, masih di bawah batas minimum 15% yang diwajibkan aturan bursa.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BCIC",
-   "free float",
-   "Bank JTrust Indonesia",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c91f97aab1_597b6f5f12.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "idea-gelar-rupslb-23-oktober-dps-30-september",
-  "category": "Aksi Korporasi",
-  "title": "IDEA Gelar [RUPSLB] 23 Oktober, DPS 30 September",
-  "deck": "PT Idea Indonesia Akademi Tbk akan menggelar RUPSLB pada 23 Oktober 2026. Pemegang saham yang tercatat hingga 30 September 2026 berhak hadir, agenda rapat baru diumumkan 1 Oktober 2026.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IDEA",
-   "RUPSLB",
-   "pasar modal",
-   "corporate action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a106de941b_85b315d593.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-kanada-genjot-implementasi-ica-cepa-akhir-2026",
-  "category": "Global",
-  "title": "RI-Kanada Genjot [Implementasi] ICA-CEPA Akhir 2026",
-  "deck": "Menko Airlangga dan Menteri Perdagangan Kanada membahas persiapan implementasi ICA-CEPA, perjanjian dagang yang ditargetkan berjalan akhir 2026.",
-  "date": "16 September 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
-  "tags": [
-   "ICA-CEPA",
-   "Indonesia-Kanada",
-   "perdagangan internasional",
-   "tarif ekspor"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7096/bertemu-menteri-perdagangan-internasional-kanada-menko-airlangga-dorong-percepatan-implementasi-ica-cepa",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ri-china-teken-mou-investasi-rp51-triliun-di-twin-parks",
-  "category": "Industri",
-  "title": "RI-China Teken MoU Investasi [Rp51 Triliun] di Twin Parks",
-  "deck": "Indonesia dan Tiongkok menandatangani MoU investasi baru Rp51 triliun dalam kerja sama kawasan industri Two Countries Twin Parks, membuat total komitmen mencapai Rp88,1 triliun.",
-  "date": "16 September 2026",
-  "image": "assets/img/industri-tekstil.jpg",
-  "tags": [
-   "Investasi",
-   "Tiongkok",
-   "Kawasan Industri",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7097/indonesia-dan-tiongkok-perkuat-kerja-sama-investasi-melalui-chinaindonesia-two-countries-twin-parks-investment-promotion-conference",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ikpm-koreksi-laporan-dana-ipo-capex-baru-76-rencana",
-  "category": "Aksi Korporasi",
-  "title": "IKPM Koreksi Laporan Dana IPO, [Capex] Baru 76% Rencana",
-  "deck": "PT Ikapharmindo Putramas Tbk mengoreksi laporan realisasi dana IPO per 30 Juni 2026. Sisa Rp2,07 miliar dana belanja modal masih mengendap di rekening giro tanpa bunga.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IKPM",
-   "penggunaan dana IPO",
-   "belanja modal",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12c4e1d6e8_f7e4d4a151.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fitch-turunkan-peringkat-post-ke-c-idn-usai-gagal-bayar",
-  "category": "Aksi Korporasi",
-  "title": "Fitch [Turunkan] Peringkat POST ke C(idn) usai Gagal Bayar",
-  "deck": "Fitch menurunkan peringkat Pos Indonesia dan tujuh obligasi/sukuknya senilai Rp1,9 triliun menjadi C(idn) setelah emiten gagal bayar imbalan ijarah yang jatuh tempo 28 Agustus 2026.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "Pos Indonesia",
-   "Fitch Ratings",
-   "gagal bayar sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1c018982e_85e00a6b5d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nawasena-incar-66-58-saham-pengendali-idea",
-  "category": "Aksi Korporasi",
-  "title": "Nawasena Incar 66,58% Saham [Pengendali] IDEA",
-  "deck": "PT Nawasena Nugra Investama berencana mengambil alih 707,3 juta saham atau 66,58% saham IDEA dari Eko Desriyanto dan PT Idea Asia Investama, membuka jalan penawaran tender wajib.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IDEA",
-   "akuisisi",
-   "pengambilalihan",
-   "tender offer"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/63c379c4d8_9cc64b14ff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "psgo-jelaskan-rencana-penuhi-syarat-free-float-ke-bei",
-  "category": "Aksi Korporasi",
-  "title": "PSGO Jelaskan Rencana Penuhi Syarat [Free Float] ke BEI",
-  "deck": "PSGO menanggapi surat Bursa soal rencana pemenuhan saham beredar bebas minimum, dengan tenggat 31 Maret 2029 setelah pengendali melepas 308,6 juta saham sepanjang 2026.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSGO",
-   "free float",
-   "Bursa Efek Indonesia",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce4799d4e2_1b3804335c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-naik-tipis-ke-rp2-593-000-per-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Naik] Tipis ke Rp2.593.000 per Gram",
-  "deck": "Harga emas batangan Antam naik Rp1.000 menjadi Rp2.593.000 per gram pada 16 September 2026, sementara harga buyback ikut naik ke Rp2.438.000 per gram.",
-  "date": "16 September 2026",
-  "image": "assets/img/harga-emas-antam-naik-tipis-ke-rp2-593-000-per-gram.jpg",
-  "imageV": "mu3nc7ls",
-  "tags": [
-   "emas",
-   "harga emas antam",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467393-harga-emas-antam-hari-ini-16-september-2026-naik-tipis-rp1000-kini-jadi-rp2593000-per-gram"
- },
- {
-  "slug": "dada-panggil-rupst-ketiga-usai-kuorum-gagal-dua-kali",
-  "category": "Aksi Korporasi",
-  "title": "DADA Panggil RUPST Ketiga usai [Kuorum] Gagal Dua Kali",
-  "deck": "PT Diamond Citra Propertindo menggelar RUPST ketiga pada 24 September 2026 setelah rapat kedua pada Juli lalu gagal mencapai kuorum kehadiran pemegang saham.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DADA",
-   "RUPST",
-   "kuorum",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd9a3293e8_1175719ecc.pdf",
   "sourceLabel": "IDX"
  }
 ];

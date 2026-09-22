@@ -3,6 +3,144 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-tertibkan-impor-baju-bekas-longgarkan-bahan-baku-tekstil",
+  "category": "Industri",
+  "title": "Pemerintah [Tertibkan] Impor Baju Bekas, Longgarkan Bahan Baku Tekstil",
+  "deck": "Rapat terbatas dengan Presiden Prabowo Subianto menghasilkan rencana peninjauan aturan impor bahan baku tekstil dan penertiban impor pakaian bekas ilegal.",
+  "image": "assets/img/industri-tekstil.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T15:13:39.860Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7107/industri-tekstil-dan-produk-tekstil-tetap-strategis-pemerintah-dorong-penguatan-daya-saing-dan-investasi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "tekstil",
+   "TPT",
+   "impor pakaian bekas",
+   "investasi industri"
+  ],
+  "body": [
+   "Pemerintah menegaskan industri tekstil dan produk tekstil (TPT) masih menjadi sektor strategis bagi perekonomian nasional, kata Menteri Koordinator Bidang Perekonomian Airlangga Hartarto usai rapat terbatas bersama Presiden Prabowo Subianto di Jakarta, Selasa (22/9). Pemerintah berencana memperkuat daya saing industri ini dari hulu hingga hilir sekaligus membuka ruang investasi baru, di tengah tekanan persaingan global maupun impor ilegal yang selama ini merugikan produsen dalam negeri.",
+   "Menurut Airlangga, sektor TPT menyumbang sekitar 0,97 persen dari produk domestik bruto, menyerap sekitar 4 juta tenaga kerja, dan mencatatkan nilai ekspor sekitar US$12 miliar. Tingkat pemakaian kapasitas pabrik tekstil saat ini berada di kisaran 75 persen, yang berarti masih ada ruang bagi pabrik untuk menambah produksi tanpa perlu membangun fasilitas baru.",
+   "Kinerja perdagangan sektor ini timpang antara hulu dan hilir. Untuk bahan baku tekstil, Indonesia masih berposisi sebagai net importer dengan nilai impor sekitar US$8,4 miliar berbanding ekspor sekitar US$3,1 miliar. Sebaliknya, sektor pakaian jadi mencatat surplus, dengan ekspor sekitar US$8,7 miliar dibanding impor sekitar US$690 juta. Untuk mendorong pasokan bahan baku sekaligus melindungi produsen garmen lokal, pemerintah akan meninjau ulang aturan Pertek, yakni izin teknis yang menjadi syarat impor bahan baku, dan meminta Direktorat Jenderal Bea Cukai menertibkan impor pakaian bekas yang masuk lewat jalur kiloan maupun ball press.",
+   "Pemerintah juga membuka kemudahan sertifikasi halal untuk bahan baku berbasis kulit guna mendukung industri tekstil dan alas kaki. Airlangga menyampaikan bahwa Presiden Prabowo menegaskan industri tekstil bukan tergolong sunset industry atau industri yang mulai ditinggalkan, sehingga masih terbuka peluang bagi pelaku usaha untuk melakukan reinvestasi maupun menambah modal kerja."
+  ],
+  "fotoAdegan": "Rows of fabric rolls and sewing stations inside a textile factory, workers checking cloth quality under industrial lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Perubahan konkret dari rapat ini ada di dua ujung rantai tekstil sekaligus. Di hulu, pemerintah akan meninjau ulang aturan Pertek, semacam izin teknis yang selama ini menjadi syarat masuknya bahan baku tekstil, dengan tujuan mempermudah pasokan bagi pabrik dalam negeri yang justru masih net importer sebesar US$8,4 miliar. Di hilir, Bea Cukai diminta menertibkan impor pakaian bekas lewat jalur kiloan dan ball press, yang selama ini bersaing langsung dengan produsen garmen lokal, sektor yang justru sudah surplus ekspor US$8,7 miliar. Yang terdampak jelas ada di dua sisi berbeda, yaitu importir dan pabrik bahan baku yang menunggu kemudahan di satu sisi, produsen garmen dalam negeri yang dirugikan banjir pakaian bekas di sisi lain. Arahnya tampak menuju kombinasi pelonggaran di hulu dan pengetatan di hilir, tapi baik revisi aturan Pertek maupun instruksi penertiban Bea Cukai belum punya tenggat pasti, jadi yang perlu ditunggu adalah apakah instruksi rapat terbatas ini benar-benar berubah menjadi revisi aturan resmi atau data penindakan impor pakaian bekas dalam beberapa bulan mendatang.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "ri-percepat-perjanjian-dagang-ieu-cepa-dengan-uni-eropa",
+  "category": "Global",
+  "title": "RI Percepat Perjanjian Dagang [IEU-CEPA] dengan Uni Eropa",
+  "deck": "Presiden Prabowo Subianto meminta penyelesaian kesepakatan dagang RI-Uni Eropa dipercepat, dengan target ratifikasi semester kedua 2026 dan berlaku awal 2027.",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T15:13:36.929Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7108/menko-airlangga-penyelesaian-ieu-cepa-dipacu-untuk-perluas-akses-pasar-eropa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "Ekspor",
+   "Prabowo Subianto"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto meminta agar penyelesaian Indonesia-European Union Comprehensive Economic Partnership Agreement (IEU-CEPA) dipercepat. Arahan itu disampaikan dalam rapat bersama sejumlah menteri di Kompleks Istana Kepresidenan, Jakarta, Selasa (22/9). Menteri Koordinator Bidang Perekonomian Airlangga Hartarto mengatakan percepatan ini penting karena kesepakatan tersebut berpotensi membuka akses yang lebih luas bagi produk Indonesia ke pasar Eropa.",
+   "Menurut Airlangga, proses IEU-CEPA saat ini memasuki tahap penyiapan kelengkapan dokumen dalam bahasa Inggris. Dokumen tersebut nantinya akan dibawa ke Parlemen Eropa untuk diproses. Setelah tahap itu selesai, Indonesia akan melanjutkan dengan proses ratifikasi melalui mekanisme yang berlaku di dalam negeri.",
+   "Airlangga juga menyebut rencana kunjungan Komisioner Perdagangan dan Keamanan Ekonomi Uni Eropa Maroš Šefčovič ke Indonesia. Selain itu, pimpinan Uni Eropa dijadwalkan berkunjung ke Indonesia pada akhir Oktober atau awal November mendatang.",
+   "Pemerintah menargetkan ratifikasi IEU-CEPA rampung pada semester kedua 2026, dengan harapan kesepakatan itu mulai diterapkan pada awal 2027."
+  ],
+  "fotoAdegan": "Cargo containers stacked at a busy Indonesian seaport with a crane loading a container ship, late afternoon light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini bukan isi kesepakatannya, melainkan tahapannya: dokumen IEU-CEPA sedang disiapkan dalam bahasa Inggris supaya bisa masuk ke meja Parlemen Eropa, langkah sebelum Indonesia sendiri meratifikasinya di dalam negeri. Pihak yang paling terdampak adalah pelaku usaha ekspor Indonesia, karena kesepakatan ini pada akhirnya menentukan seberapa mudah produk mereka masuk pasar Uni Eropa tanpa hambatan tarif yang selama ini berlaku. Rencana kunjungan Komisioner Uni Eropa Maroš Šefčovič serta pimpinan Uni Eropa ke Indonesia akhir Oktober atau awal November menunjukkan proses ini memang sedang didorong dari kedua sisi, bukan cuma keinginan sepihak Indonesia. Namun target pemerintah, yaitu ratifikasi pada semester kedua 2026 dan berlaku awal 2027, sebagian bergantung pada jadwal Parlemen Eropa yang tidak dikendalikan Indonesia, sehingga kunjungan akhir Oktober atau awal November itu menjadi penanda paling dekat untuk melihat apakah target tersebut masih di jalur atau mulai meleset.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "kemendag-luncurkan-inaexport-platform-ekspor-terintegrasi",
+  "category": "UMKM",
+  "title": "Kemendag Luncurkan [InaExport], Platform Ekspor Terintegrasi",
+  "deck": "Kementerian Perdagangan merilis lima layanan baru di platform InaExport dan meneken kerja sama dengan 19 mitra untuk memperluas akses pasar ekspor UMKM.",
+  "image": "assets/img/kemendag-luncurkan-inaexport-platform-ekspor-terintegrasi.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T15:13:15.972Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/layanan-baru-inaexport-perkuat-akses-pasar-produk-produk-indonesia",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "InaExport",
+   "UMKM",
+   "Ekspor",
+   "Kemendag"
+  ],
+  "body": [
+   "Kementerian Perdagangan meluncurkan secara terbatas versi baru platform InaExport dengan lima layanan tambahan, menandai langkah menjadikan platform ini sebagai gerbang ekspor nasional. Menteri Perdagangan Budi Santoso mengatakan langkah ini untuk memberi pelaku usaha, terutama UMKM, etalase digital yang bisa membantu produk mereka menembus pasar luar negeri. Peluncuran ini penting karena menyatukan sejumlah layanan ekspor yang sebelumnya tersebar menjadi satu sistem.",
+   "Lima layanan baru itu meliputi CEK Ekspor, alat asesmen mandiri untuk mengukur kesiapan sebuah usaha melakukan ekspor sekaligus memetakan kebutuhan pembinaan atau pembiayaan. Ada pula Export Sandbox dan Chatbot yang menyediakan simulasi tarif, syarat sertifikasi, regulasi, dan kalkulator biaya ekspor ke berbagai negara tujuan. Layanan lain berupa sistem permintaan pembeli (inquiry) yang mempertemukan calon pembeli asing dengan eksportir yang siap, Dashboard Peluang Ekspor berisi data tarif preferensi di negara tujuan, serta layanan pendukung seperti fasilitasi pameran, penjajakan bisnis, dan misi dagang.",
+   "Direktur Jenderal Pengembangan Ekspor Nasional Kemendag, Fajarini Puntodewi, menyebutkan sejak Januari 2026 InaExport telah dikunjungi 866 ribu kali, naik 497 persen dibanding total kunjungan sepanjang 2025 yang hanya 145 ribu. Anggota platform yang sudah terverifikasi mencapai sekitar 15 ribu, dan dari permintaan yang masuk dari pembeli internasional maupun perwakilan dagang RI, sekitar 160 di antaranya sudah ditindaklanjuti oleh eksportir yang sesuai. Bersamaan dengan peluncuran ini, Kemendag juga meneken nota kesepahaman dengan 19 mitra strategis dari kementerian, lembaga, pelaku usaha, dan perguruan tinggi, agar program Campuspreneur, Desa BISA Ekspor, dan UMKM BISA Ekspor bisa terhubung dalam satu ekosistem InaExport.",
+   "Program UMKM BISA Ekspor, yang dijalankan lewat 46 perwakilan dagang Indonesia di 33 negara, menurut Kemendag menghasilkan transaksi US$134,87 juta sepanjang 2025, dan pada Januari-Agustus 2026 saja nilainya sudah mencapai US$346,99 juta. Kemendag juga menggandeng 24 perguruan tinggi lewat program Campuspreneur, dengan peserta terpilih berkesempatan tampil di Trade Expo Indonesia 2026 pada 14-18 Oktober. Sejumlah asosiasi usaha seperti produsen alat kesehatan dan produsen sepeda motor listrik turut meneken kerja sama, dengan harapan platform ini membantu memperluas pasar bagi anggotanya."
+  ],
+  "fotoAdegan": "Small business workers packing local handicraft and food products into boxes for export inside a modest workshop, daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/tLB6x8wKhLcnK7spIwkO7omIlhAdwCZpXgP5pz7I.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah bukan sekadar tampilan baru situs InaExport, melainkan penggabungan program ekspor UMKM yang tadinya berjalan sendiri-sendiri, yaitu UMKM BISA Ekspor, Desa BISA Ekspor, Campuspreneur, dan Kemitraan UMKM, ke satu platform, dikuatkan lewat kerja sama tertulis dengan 19 mitra dari kementerian, lembaga, pelaku usaha, dan kampus. Yang terdampak langsung adalah pelaku UMKM dan asosiasi industri seperti produsen alat kesehatan dan sepeda motor listrik yang mengandalkan platform ini mencari pembeli di luar negeri, serta mahasiswa peserta Campuspreneur di 24 kampus. Arahnya terlihat menuju satu pintu digital untuk layanan ekspor UMKM, didukung data kunjungan yang naik hampir enam kali lipat menjadi 866 ribu dan nilai transaksi UMKM BISA Ekspor yang dalam delapan bulan pertama 2026 saja sudah melampaui total setahun penuh 2025. Namun Kemendag baru menyebut 160 permintaan pembeli yang berhasil ditindaklanjuti tanpa menyatakan berapa total permintaan yang masuk, sehingga belum jelas seberapa besar lonjakan kunjungan dan keanggotaan itu benar-benar berubah jadi transaksi nyata. Trade Expo Indonesia pada 14-18 Oktober 2026 akan jadi kesempatan pertama untuk melihat apakah peserta Campuspreneur dan mitra baru dalam ekosistem ini menghasilkan kesepakatan dagang konkret.",
+  "imageV": "muctm54j"
+ },
+ {
+  "slug": "sungai-surut-pasokan-batu-bara-ke-semen-tersendat",
+  "category": "Energi",
+  "title": "Sungai Surut, Pasokan Batu Bara ke Semen [Tersendat]",
+  "deck": "Debit sungai di Kalimantan turun dan mengganggu pasokan batu bara industri semen serta distribusi BBM. ESDM targetkan tuntas pekan ini atau depan.",
+  "image": "assets/img/sungai-surut-pasokan-batu-bara-ke-semen-tersendat.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T21:10:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468752-pasokan-batu-bara-untuk-industri-semen-tersendat-akibat-sungai-di-kalimantan-surut-esdm-cari-alternatif",
+  "tags": [
+   "batu bara",
+   "ESDM",
+   "industri semen",
+   "Kalimantan"
+  ],
+  "body": [
+   "Kementerian ESDM tengah mencari sumber pasokan batu bara alternatif untuk industri semen yang terganggu akibat menyusutnya debit sungai di Kalimantan. Pemerintah menargetkan persoalan ini tuntas pekan ini atau paling lambat pekan depan, hal yang penting karena batu bara adalah bahan bakar utama proses produksi semen.",
+   "Direktur Jenderal Mineral dan Batu Bara Tri Winarno mengatakan kementeriannya menerima sejumlah laporan kekurangan pasokan dari pabrik semen dan sedang berupaya mengalihkan atau mencari pasokan dari tempat lain. Ia menyebut penurunan debit sungai sebagai salah satu penyebab utama terhambatnya distribusi, sejalan dengan keterangan Wakil Menteri ESDM Yuliot yang sebelumnya menyoroti gangguan serupa di Kalimantan Timur.",
+   "Sungai yang surut lebih dulu mengganggu distribusi bahan bakar minyak. Direktur Jenderal Minyak dan Gas Bumi Laode Sulaeman, dalam rapat dengan Komisi XII DPR RI akhir Agustus lalu, mengungkap kapal pengangkut BBM lewat jalur sungai di Kalimantan terkendala beroperasi. Pemerintah merespons dengan menambah jumlah truk pengangkut lewat darat, meski kapasitas angkutan darat jauh lebih terbatas dibanding kapal sungai.",
+   "Dampak kemarau panjang ini merembet sampai ke pasokan air bersih. Wali Kota Samarinda Andi Harun meminta warga mengurangi pemakaian air bersih karena debit Sungai Mahakam menyusut dan kadar kloridanya naik akibat kemarau berkepanjangan."
+  ],
+  "fotoAdegan": "Low river water exposing sandbars around moored coal barges on a Kalimantan river, workers checking ropes, hazy dry-season sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/23/6a62080c9b9f8-ilustrasi-batu-bara_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Sungai surut di Kalimantan ternyata bukan cuma menghambat pasokan batu bara ke pabrik semen, tapi juga distribusi BBM dan air bersih warga, artinya satu penyebab yang sama, yaitu kemarau panjang, sudah merembet ke tiga sektor sekaligus. Yang kena langsung adalah industri semen yang butuh batu bara sebagai bahan bakar produksinya, distributor BBM yang terpaksa mengganti kapal sungai dengan truk berkapasitas lebih kecil, dan warga Samarinda yang diminta menghemat air. ESDM menargetkan pasokan batu bara pulih pekan ini atau pekan depan, tapi kendala BBM yang serupa sudah dilaporkan sejak akhir Agustus dan belum tuntas juga, jadi pola yang terlihat lebih mirip gangguan musiman berulang ketimbang masalah sesaat. Yang akan menunjukkan apakah penanganannya kali ini lebih cepat adalah apakah target pekan depan itu benar-benar tercapai, atau berlanjut seperti kasus BBM yang sudah sebulan lebih belum kelar.",
+  "imageV": "muctm5ma"
+ },
+ {
+  "slug": "bandara-soetta-uji-coba-insinerator-tanpa-asap-20-ton-hari",
+  "category": "BUMN",
+  "title": "Bandara Soetta Uji Coba Insinerator [Tanpa Asap] 20 Ton/Hari",
+  "deck": "Bandara Soekarno-Hatta mulai menguji insinerator PARK PYRO berkapasitas 20 ton sampah per hari tanpa asap, hasil kerja sama Angkasa Pura Indonesia dengan dua mitra teknologi sejak Maret 2026.",
+  "image": "assets/img/bandara-soetta-uji-coba-insinerator-tanpa-asap-20-ton-hari.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T21:01:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468737-bandara-soetta-uji-coba-teknologi-baru-pengelolaan-sampah-tanpa-asap-menuju-zero-waste-zero-emisi",
+  "tags": [
+   "Bandara Soekarno-Hatta",
+   "Angkasa Pura Indonesia",
+   "pengelolaan sampah",
+   "teknologi ramah lingkungan"
+  ],
+  "body": [
+   "Bandara Internasional Soekarno-Hatta mulai menjalani tahap uji coba atau proof of concept untuk teknologi insinerator ramah lingkungan bernama PARK PYRO Series pada Selasa, 22 September 2026. Mesin ini dirancang untuk memusnahkan sampah tanpa menghasilkan asap pembakaran yang mencemari udara, sejalan dengan target 'zero waste zero emisi' di kawasan bandara. Kapasitas olahnya mencapai 20 ton sampah per hari, sesuai dengan volume sampah harian yang tinggi di gerbang udara utama Indonesia.",
+   "Uji coba ini merupakan hasil kolaborasi PT Park Tahta Berjaya selaku penyedia teknologi, PT Angkasa Pura Indonesia selaku pengelola bandara, dan PT IAS Support Indonesia yang menangani operasional sumber daya manusia di lapangan. Persiapannya sudah berjalan sejak Maret 2026, mencakup instalasi mesin, pengujian teknis, hingga pelatihan keselamatan kerja bagi para operator.",
+   "Deputy General Manager Airport Facility, Equipment & Technology Services CGK Angkasa Pura Indonesia, Gani Wijaya, menyebut uji coba ini sebagai fondasi evaluasi tata kelola sampah di lingkungan penerbangan, dengan harapan dapat menjadi percontohan bagi bandara-bandara lain di Indonesia. Manpower & Facility Services Operation Group Head IAS Support Indonesia, Andy Ihza Mahendra, menambahkan bahwa alih teknologi ini turut meningkatkan pemahaman sumber daya manusia lokal dalam mengoperasikan mesin secara tepat dan aman.",
+   "Direktur PT Park Tahta Berjaya, Anatolia Gita, menjelaskan bahwa PARK PYRO dirancang khusus sebagai solusi pemusnahan sampah tanpa asap pembakaran yang mencemari udara. Sebelum diuji di Soekarno-Hatta, teknologi ini lebih dulu diterapkan untuk mengolah 10 ton sampah per hari di Mataram dan 20 ton sampah per hari di kawasan wisata Gili Trawangan, sehingga penerapan kali ini menjadi lokasi ketiga sekaligus yang pertama di infrastruktur transportasi berskala nasional."
+  ],
+  "fotoAdegan": "Workers in safety gear feeding sorted waste into a large industrial incinerator unit inside an airport service yard, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/22/6ab27e5333fe6-bandara-soeta-uji-coba-teknologi-baru-pengelolaan-sampah-tanpa-asap-menuju-zero-waste-zero-emisi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah tahap uji coba, bukan keputusan final. Bandara Soekarno-Hatta baru memasuki uji coba awal atas mesin pembakar sampah tanpa asap berkapasitas 20 ton per hari, hasil kerja sama tiga perusahaan yang sudah disiapkan sejak Maret 2026. Yang terdampak langsung adalah Angkasa Pura Indonesia selaku pengelola bandara, dua mitra penyedia teknologinya, serta pekerja lapangan yang sedang dilatih mengoperasikan mesin baru ini. Polanya terlihat dari riwayat teknologi ini sendiri, mesin yang sama sebelumnya sudah diuji lebih dulu di Mataram dan Gili Trawangan, dua lokasi yang jauh lebih kecil dibanding Soekarno-Hatta sebagai bandara tersibuk di Indonesia, sehingga arahnya tampak bertahap dari destinasi wisata ke infrastruktur transportasi utama, bukan langsung diterapkan secara nasional. Yang akan menentukan apakah arah ini berlanjut adalah hasil evaluasi uji coba ini sendiri dan apakah Angkasa Pura Indonesia benar-benar merealisasikan rencana menjadikannya percontohan di bandara-bandara lain, seperti yang disampaikan pihak Angkasa Pura.",
+  "imageV": "muctm65c"
+ },
+ {
   "slug": "btps-jelaskan-volatilitas-saham-imbas-rebalancing-ftse-russell",
   "category": "Aksi Korporasi",
   "title": "BTPS Jelaskan Volatilitas Saham Imbas [Rebalancing] FTSE Russell",
@@ -29,6 +167,86 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pemerintah-bentuk-bumn-tekstil-danantara-jadi-integrator",
+  "category": "BUMN",
+  "title": "Pemerintah Bentuk BUMN Tekstil, Danantara Jadi [Integrator]",
+  "deck": "Danantara memastikan pemerintah sepakat membentuk BUMN tekstil baru sebagai integrator industri, meski waktu realisasi dan modal awal belum ditentukan.",
+  "image": "assets/img/pemerintah-bentuk-bumn-tekstil-danantara-jadi-integrator.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T20:41:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468714-bumn-tekstil-baru-bakal-dibentuk-danantara-siapkan-integrator-untuk-bangkitkan-industri",
+  "tags": [
+   "BUMN tekstil",
+   "Danantara",
+   "Rosan Roeslani",
+   "industri tekstil"
+  ],
+  "body": [
+   "CEO BPI Danantara Rosan Roeslani mengonfirmasi pemerintah telah sepakat membentuk perusahaan BUMN baru di sektor tekstil, seusai rapat terbatas di Istana yang membahas industri tekstil, Selasa (22/9/2026). Rosan menegaskan kesepakatan itu sudah bulat, tetapi kapan perusahaan ini benar-benar berdiri masih belum bisa dipastikan.",
+   "Menurut Rosan, BUMN baru ini tidak dirancang sebagai pemain tunggal yang membangun segalanya dari nol. Perusahaan ini akan berperan sebagai integrator, yakni pihak yang menghubungkan dan mengoordinasikan kerja sama dengan perusahaan tekstil yang sudah berjalan, terutama yang dinilai punya potensi dari sisi mesin dan teknologi produksinya. Pengembangan bersama itu akan diarahkan dalam satu kawasan terintegrasi.",
+   "Rosan menyebut tekstil dilirik pemerintah karena kemampuannya menyerap tenaga kerja dalam jumlah besar. Namun ia menegaskan Danantara tetap mensyaratkan tingkat pengembalian investasi yang baik sebelum dana benar-benar dikucurkan, sehingga skala dan waktu peluncuran BUMN tekstil ini masih bergantung pada kalkulasi tersebut."
+  ],
+  "fotoAdegan": "Rows of industrial textile looms weaving fabric on a factory floor, workers in uniform inspecting machinery, fluorescent lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/06/04/68402c1dcbcd0-gedung-danantara_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah status rencananya, dari wacana menjadi keputusan resmi yang sudah disepakati pemerintah, tetapi Danantara belum menyebut angka modal awal maupun target waktu perusahaan ini mulai beroperasi. Yang terdampak adalah perusahaan tekstil yang sudah berjalan, karena skema integrator membuka peluang mereka digandeng pemerintah kalau mesin dan teknologinya dinilai punya potensi, sekaligus pekerja di sektor ini yang jadi alasan utama pemerintah turun tangan. Arah kebijakannya belum bisa dibaca pasti sebab dua hal krusial masih kosong, yaitu besaran modal yang disiapkan dan perusahaan mana saja yang akan digandeng, sementara Danantara sendiri menjadikan syarat pengembalian investasi yang baik sebagai penentu akhir sebelum dana cair. Yang perlu dipantau adalah pengumuman resmi soal nama perusahaan yang dipilih dan besaran modal awalnya, karena itu yang akan menentukan apakah proyek ini benar berjalan atau berhenti di tahap kesepakatan.",
+  "imageV": "muctm6mo"
+ },
+ {
+  "slug": "transnusa-buka-rute-bali-surabaya-tiket-mulai-rp800-ribu",
+  "category": "Bisnis",
+  "title": "TransNusa Buka Rute Bali-Surabaya, Tiket Mulai [Rp800 Ribu]",
+  "deck": "TransNusa membuka penerbangan langsung Denpasar-Surabaya mulai 21 September 2026 dengan tarif mulai Rp800 ribu, dan menambah frekuensi jadi dua kali sehari mulai 10 Oktober 2026.",
+  "image": "assets/img/transnusa-buka-rute-bali-surabaya-tiket-mulai-rp800-ribu.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T20:30:20+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468705-transnusa-buka-rute-bali-surabaya-tiket-mulai-rp800-ribu-dan-terbang-2-kali-sehari",
+  "tags": [
+   "TransNusa",
+   "penerbangan domestik",
+   "rute Bali Surabaya",
+   "tiket pesawat"
+  ],
+  "body": [
+   "TransNusa resmi mengoperasikan rute penerbangan langsung Denpasar-Surabaya pulang pergi mulai 21 September 2026, dengan tiket dibanderol mulai Rp800 ribu. Rute baru ini memberi pilihan bagi masyarakat yang bepergian antara Bali dan Surabaya tanpa perlu transit, sekaligus memperluas jaringan domestik maskapai yang menjadikan Bali sebagai salah satu basisnya.",
+   "Pada tahap awal, penerbangan dilayani satu kali sehari untuk masing-masing arah. Dari Denpasar, penerbangan bernomor 8B-5376 berangkat pukul 18.05 dan tiba di Surabaya pukul 18.10 waktu setempat. Sebaliknya, penerbangan 8B-5377 dari Surabaya berangkat pukul 18.50 dan mendarat di Denpasar pukul 20.55.",
+   "Mulai 10 Oktober 2026, TransNusa menambah frekuensi menjadi dua kali sehari dengan memasukkan jadwal pagi. Penerbangan 8B-5370 dari Denpasar berangkat pukul 07.10 dan tiba di Surabaya pukul 07.05 waktu setempat, sementara penerbangan 8B-5371 dari Surabaya berangkat pukul 07.35 dan tiba di Denpasar pukul 09.25. Dengan tambahan ini, penumpang punya pilihan jadwal pagi maupun sore untuk kedua arah perjalanan.",
+   "Group CEO TransNusa Datuk Bernard Francis menyebut penambahan rute ini sebagai bagian dari upaya memperluas konektivitas domestik sekaligus memperkuat posisi Denpasar dalam jaringan penerbangan perusahaan. Ia menjelaskan Bali berfungsi sebagai basis operasional yang menghubungkan berbagai destinasi domestik dan regional bagi TransNusa."
+  ],
+  "fotoAdegan": "Small commercial turboprop airplane parked on tarmac at a regional Indonesian airport, ground crew loading luggage, late afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/27/6a8fe341b8405-group-ceo-transnusa-datuk-bernard-francis_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah TransNusa membuka penerbangan langsung Denpasar-Surabaya dengan tarif mulai Rp800 ribu, dimulai satu kali sehari lalu naik jadi dua kali sehari per 10 Oktober 2026, lengkap dengan jadwal pagi dan sore untuk kedua arah. Yang terdampak langsung adalah penumpang yang selama ini harus transit atau mencari maskapai lain untuk rute ini, baik wisatawan maupun pelaku usaha yang bolak-balik Bali dan Surabaya. Pola penambahan frekuensi dalam waktu kurang dari sebulan sejak penerbangan perdana, ditambah pernyataan CEO TransNusa bahwa Bali diposisikan sebagai basis penghubung ke berbagai destinasi domestik dan regional, mengarah ke kemungkinan TransNusa menambah rute atau frekuensi baru lagi dari Denpasar ke depan, bukan berhenti di satu rute ini saja. Yang akan memastikan pembacaan ini adalah apakah TransNusa benar mempertahankan jadwal dua kali sehari setelah 10 Oktober atau malah mengumumkan rute domestik baru lain dari Bali dalam beberapa bulan mendatang.",
+  "imageV": "muctm72i"
+ },
+ {
+  "slug": "menkeu-suahasil-beberkan-tiga-langkah-perkuat-bea-cukai",
+  "category": "Makroekonomi",
+  "title": "Menkeu Suahasil Beberkan [Tiga] Langkah Perkuat Bea Cukai",
+  "deck": "Menteri Keuangan Suahasil Nazara memaparkan tiga langkah penguatan pengawasan Direktorat Jenderal Bea dan Cukai: sumber daya manusia, teknologi, dan proses bisnis.",
+  "image": "assets/img/menkeu-suahasil-beberkan-tiga-langkah-perkuat-bea-cukai.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T20:29:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468740-menkeu-suahasil-beberkan-langkah-pengawasan-bea-cukai",
+  "tags": [
+   "Bea Cukai",
+   "Kemenkeu",
+   "Suahasil Nazara",
+   "Pengawasan Impor"
+  ],
+  "body": [
+   "Menteri Keuangan Suahasil Nazara memaparkan tiga langkah yang disiapkan pemerintah untuk memperkuat pengawasan di Direktorat Jenderal Bea dan Cukai (DJBC). Pernyataan ini disampaikan dalam konferensi pers di Kantor Pusat DJBC, Jakarta, menyusul sorotan publik terhadap kinerja pengawasan lembaga tersebut. Suahasil menegaskan bahwa penguatan pengawasan akan memanfaatkan seluruh instrumen yang dimiliki Kemenkeu, mulai dari aparat, teknologi, hingga tata kerja internal.",
+   "Langkah pertama adalah penguatan sumber daya manusia. Suahasil menyebut kualitas dan integritas petugas yang berhadapan langsung dengan aktivitas kepabeanan dan cukai sebagai fondasi pengawasan yang efektif. Ia meminta aparat di lapangan bekerja disiplin, terus mengasah kompetensi, dan menjaga integritas, sembari menegaskan bahwa sistem serta aturan internal juga akan disesuaikan agar mendukung tugas tersebut. Baginya, upaya membersihkan praktik yang menyimpang tidak akan efektif bila dilakukan oleh aparat yang integritasnya sendiri dipertanyakan.",
+   "Langkah kedua adalah optimalisasi teknologi. Menurut Suahasil, skala pekerjaan pengawasan yang terus membesar membuat petugas mustahil memeriksa setiap kontainer secara manual satu per satu, sehingga teknologi seperti pemindai X-ray dibutuhkan untuk menyaring kontainer mana yang perlu diperiksa lebih lanjut. Sistem berbasis teknologi ini juga diarahkan untuk mendeteksi kejanggalan pada dokumen impor, misalnya perubahan kode klasifikasi barang (Harmonized System atau HS) maupun jenis barang yang dilaporkan, sebagai tanda peringatan dini bagi petugas.",
+   "Langkah ketiga adalah pembenahan proses bisnis pengawasan. Suahasil menekankan bahwa pengawasan yang lebih ketat harus tetap berjalan tanpa menghambat arus keluar masuk barang yang dibutuhkan roda perekonomian, sehingga penataan prosedur kerja menjadi bagian penting dari paket penguatan ini."
+  ],
+  "fotoAdegan": "Customs officers standing beside an X-ray scanning machine at a busy shipping port, stacked containers in the background, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/22/6ab2815262cb5-ki-ka-direktur-jenderal-bea-dan-cukai-kemenkeu-djaka-budhi-utama-menteri-keuangan-suahasil-nazara-menteri-pertaniankepala-bapanas-andi-amran-sulaiman-dan-sestama-bapanas-ito-hediarto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari keterangan ini adalah kerangka pengawasan Bea Cukai yang kini dipecah menjadi tiga jalur sekaligus, yaitu perbaikan orang, penambahan alat, dan penataan prosedur, bukan sekadar janji umum memperketat pengawasan. Pihak yang langsung terdampak adalah petugas Bea Cukai di lapangan yang akan menghadapi standar disiplin dan integritas baru, serta pelaku usaha importir yang barangnya akan lebih sering disaring lewat pemindai X-ray dan sistem deteksi perubahan kode klasifikasi barang. Kutipan Menkeu bahwa pembersihan tidak bisa dilakukan oleh aparat yang sendiri belum bersih menunjukkan arah penekanan sedang bergeser ke evaluasi internal, bukan cuma penambahan perangkat pengawasan. Yang masih kurang untuk memastikan ke mana langkah ini benar-benar bergerak adalah rincian teknis, seperti target waktu pelaksanaan, jumlah pegawai yang akan dievaluasi, atau anggaran teknologi yang belum disebutkan dalam keterangan ini, sehingga perlu ditunggu apakah rencana ini akan dituangkan menjadi aturan resmi atau target kinerja yang terukur.",
+  "imageV": "muctmmbh"
+ },
+ {
   "slug": "kkgi-komisaris-hendro-tambah-93-000-saham-lagi",
   "category": "Aksi Korporasi",
   "title": "KKGI: Komisaris Hendro Tambah [93.000] Saham Lagi",
@@ -53,6 +271,60 @@ var ARTICLES = [
   "fotoAdegan": "Open-pit coal mine haul road with heavy trucks and a loading conveyor under an overcast tropical sky",
   "takeaway": "Laporan ini netral bagi KKGI karena tambahan 93.000 lembar saham hanya menggeser hak suara Hendro dari 0,1143 persen menjadi 0,1162 persen dari seluruh saham beredar, perubahan yang nyaris tidak berarti bagi peta kendali perusahaan. Yang tersentuh di sini adalah jumlah saham beredar dan sebaran kepemilikannya, bukan kinerja keuangan KKGI, sehingga pelaku pasar biasanya melihatnya sebagai sinyal kepercayaan pribadi komisaris, bukan indikator arus kas atau laba perusahaan. Sepanjang pembelian dilakukan bertahap dalam jumlah kecil seperti ini, dampaknya ke struktur saham tetap minim, tapi pola pembelian berulang dalam sepekan terakhir, dari 200.000 lembar pada 17 September menjadi tambahan 93.000 lembar pada 21 September, layak terus dipantau untuk melihat apakah akumulasi ini berlanjut ke jumlah yang lebih signifikan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "presiden-komisi-eropa-ke-ri-bahas-percepatan-cepa",
+  "category": "Global",
+  "title": "Presiden Komisi Eropa ke RI Bahas [Percepatan] CEPA",
+  "deck": "Airlangga sebut Presiden Komisi Eropa Ursula von der Leyen dan Komisioner Dagang Maros Sefcovic akan ke Indonesia akhir Oktober-awal November bahas percepatan IEU-CEPA.",
+  "image": "assets/img/presiden-komisi-eropa-ke-ri-bahas-percepatan-cepa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T20:10:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468734-ungkap-perkembangan-ieu-cepa-airlangga-sebut-presiden-komisi-eropa-akan-ke-ri-bahas-percepatan-perjanjian-dagang",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "Airlangga Hartarto",
+   "perjanjian dagang"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto mengungkapkan Presiden Komisi Eropa Ursula von der Leyen berencana berkunjung ke Indonesia pada akhir Oktober atau awal November 2026. Kunjungan ini terkait upaya mempercepat penyelesaian Indonesia-European Union Comprehensive Economic Partnership Agreement atau IEU-CEPA, perjanjian dagang yang sudah lama dirundingkan kedua pihak.",
+   "Selain von der Leyen, Komisioner Perdagangan dan Keamanan Ekonomi Uni Eropa Maros Sefcovic juga dijadwalkan datang ke Indonesia dalam rangka yang sama. Airlangga menyampaikan hal ini di Kompleks Istana Kepresidenan, Jakarta, Selasa (22/9/2026), sembari menyebut Presiden Prabowo Subianto telah meminta agar proses penyelesaian IEU-CEPA segera dirampungkan.",
+   "Menurut Airlangga, IEU-CEPA saat ini sedang memasuki tahap penyempurnaan dokumen dalam bahasa Inggris. Dokumen itu selanjutnya akan dibawa ke Parlemen Eropa untuk diproses, sebelum Indonesia melanjutkan tahapan ratifikasinya sendiri melalui DPR. Pemerintah menargetkan ratifikasi bisa selesai pada semester II 2026, sehingga perjanjian diharapkan mulai berlaku awal 2027.",
+   "Perjanjian ini diharapkan memperluas akses pasar, mendorong perdagangan dan investasi, serta memperkuat hubungan ekonomi Indonesia dengan Uni Eropa. Presiden Prabowo sebelumnya juga menekankan pentingnya penguatan hubungan ekonomi Indonesia dan Eropa, dengan menyebut penyelesaian IEU-CEPA akan memberi manfaat bagi dunia usaha di kedua kawasan."
+  ],
+  "fotoAdegan": "Cargo ship being loaded with shipping containers at a busy Indonesian export port under morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/30/6a43546d36e46-menko-perekonomian-airlangga-hartarto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan isi perundingan, melainkan tahapnya. Dokumen IEU-CEPA sedang dirampungkan dalam bahasa Inggris untuk diserahkan ke Parlemen Eropa, sebelum masuk proses ratifikasi di DPR, dengan target rampung semester II 2026 dan mulai berlaku awal 2027. Rencana kunjungan Presiden Komisi Eropa Ursula von der Leyen dan Komisioner Dagang Maros Sefcovic ke Indonesia akhir Oktober atau awal November menunjukkan tahap ini sudah mendekati penandatanganan resmi, bukan lagi negosiasi ulang substansi, dan yang paling terdampak adalah pelaku usaha ekspor di kedua kawasan yang menunggu akses pasar lebih luas. Arah ini akan lebih terkonfirmasi kalau dokumen berbahasa Inggris benar rampung sebelum kunjungan tersebut berlangsung dan Parlemen Eropa mulai memprosesnya sesuai jadwal yang disebut Airlangga.",
+  "imageV": "muctmmrn"
+ },
+ {
+  "slug": "7-umk-binaan-pertamina-tembus-pameran-caexpo-di-china",
+  "category": "UMKM",
+  "title": "7 UMK Binaan Pertamina [Tembus] Pameran CAEXPO di China",
+  "deck": "Tujuh usaha mikro dan kecil mitra binaan Pertamina memamerkan produk di China-ASEAN Expo 2026 untuk menjaring pembeli dari Tiongkok dan ASEAN.",
+  "image": "assets/img/7-umk-binaan-pertamina-tembus-pameran-caexpo-di-china.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T20:03:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468731-7-umk-binaan-pertamina-tampil-di-caexpo-2026-akses-pasar-global-kian-terbuka-di-china",
+  "tags": [
+   "UMK",
+   "Pertamina",
+   "CAEXPO",
+   "ekspor UMKM"
+  ],
+  "body": [
+   "Tujuh usaha mikro dan kecil (UMK) mitra binaan PT Pertamina (Persero) tampil di ajang China-ASEAN Expo (CAEXPO) ke-23 di Nanning International Convention and Exhibition Center, Guangxi, Tiongkok, pada 17 sampai 21 September 2026. Keikutsertaan ini penting karena membuka jalur langsung bagi produk skala kecil Indonesia untuk bertemu calon pembeli dari Tiongkok dan negara-negara ASEAN, akses yang biasanya sulit dijangkau UMK secara mandiri.",
+   "Konsul Jenderal Republik Indonesia di Guangzhou, Arianto Surojo, menyebut CAEXPO sebagai momentum untuk memperkenalkan produk Indonesia sekaligus membangun hubungan bisnis jangka panjang, bukan sekadar transaksi sekali jalan. Ia menilai produk UMK Indonesia punya keunikan dan nilai tambah untuk bersaing di pasar global, asalkan konsistensi kualitas, kapasitas produksi, dan pemahaman kebutuhan pasar tujuan terus diperkuat. Vice President Corporate Communication Pertamina, Muhammad Baron, menambahkan bahwa fasilitasi ini bagian dari komitmen mendampingi UMK binaan agar naik kelas lewat penguatan kapasitas usaha dan perluasan akses pasar.",
+   "Tujuh UMK yang tampil yaitu keripik tempe Kritebar produksi H&G Makmur, kitchenware dan tableware kayu jati bersertifikat SVLK dari Jati Alasku, permainan edukatif Puzzle IQ Jogja, kerajinan rotan Rindik ArtShop, sapu rayung Sakoda Broom, kerajinan berbahan kerang IndsCraft, serta produk olahan kelapa dan minuman jahe dari PT Agriutama Mandiri Indonesia Jaya.",
+   "Pertamina menyebut program pembinaan dan perluasan akses pasar ini mendukung Tujuan Pembangunan Berkelanjutan, khususnya soal pekerjaan layak dan pertumbuhan ekonomi serta industri, inovasi, dan infrastruktur. Perusahaan juga mengaitkannya dengan agenda Asta Cita pemerintah dalam memperkuat kewirausahaan dan mengembangkan industri kreatif nasional."
+  ],
+  "fotoAdegan": "Small wooden kitchenware and woven rattan handicrafts arranged on a trade fair booth table, visitors browsing nearby under exhibition hall lighting.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/22/6ab27af32705c-pelaku-usaha-mikro-dan-kecil-umk-binaan-pertamina-di-ajang-the-23rd-china-asean-expo-caexpo-2026-di-nanning-guangxi-tiongkok_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari sisi konkret adalah tujuh UMK binaan Pertamina, dengan produk mulai dari keripik tempe sampai kerajinan kayu jati, mendapat panggung lima hari di pameran dagang internasional di Nanning. Yang terdampak langsung adalah ketujuh UMK itu sendiri dan calon mitra dagang mereka di Tiongkok dan ASEAN, bukan UMK Indonesia secara umum. Yang masih kurang untuk menilai ke mana arah program ini adalah angka: berita ini tidak menyebut berapa nilai transaksi atau berapa calon pembeli yang benar-benar terjaring selama pameran, padahal Konjen RI sendiri mengingatkan agar hasilnya jangan berhenti pada transaksi satu kali. Tanpa laporan tindak lanjut, sulit dibedakan apakah ini langkah menuju kerja sama dagang berkelanjutan atau sekadar seremoni pameran tahunan. Yang perlu dipantau adalah apakah Pertamina merilis data hasil konkret, seperti nilai kontrak atau jumlah kesepakatan awal, setelah pameran ini selesai.",
+  "imageV": "muctmn74"
  },
  {
   "slug": "bafi-terbitkan-obligasi-dan-sukuk-rp902-miliar-rating-aaa",
@@ -10285,7 +10557,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI-Kanada Genjot [Implementasi] ICA-CEPA Akhir 2026",
   "deck": "Menko Airlangga dan Menteri Perdagangan Kanada membahas persiapan implementasi ICA-CEPA, perjanjian dagang yang ditargetkan berjalan akhir 2026.",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "16 September 2026",
   "isoDate": "2026-09-16T05:08:42.388Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7096/bertemu-menteri-perdagangan-internasional-kanada-menko-airlangga-dorong-percepatan-implementasi-ica-cepa",
@@ -10314,7 +10586,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "RI-China Teken MoU Investasi [Rp51 Triliun] di Twin Parks",
   "deck": "Indonesia dan Tiongkok menandatangani MoU investasi baru Rp51 triliun dalam kerja sama kawasan industri Two Countries Twin Parks, membuat total komitmen mencapai Rp88,1 triliun.",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/buruh-pabrik.jpg",
   "date": "16 September 2026",
   "isoDate": "2026-09-16T05:08:39.647Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7097/indonesia-dan-tiongkok-perkuat-kerja-sama-investasi-melalui-chinaindonesia-two-countries-twin-parks-investment-promotion-conference",
@@ -10629,7 +10901,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "ICA-CEPA [Diratifikasi], Kanada Pangkas Tarif 90% Produk RI",
   "deck": "Indonesia dan Kanada resmi meratifikasi ICA-CEPA, perjanjian dagang bilateral pertama Kanada dengan ASEAN, yang akan memangkas tarif pada lebih dari 90 persen produk kedua negara.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "date": "16 September 2026",
   "isoDate": "2026-09-15T17:41:56.461Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7095/menko-airlangga-ajak-pelaku-usaha-asean-kanada-manfaatkan-implementasi-ica-cepa-dengan-maksimal",
@@ -10658,7 +10930,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Indonesia Perketat Tata Kelola [Ekspor] Teknologi Strategis",
   "deck": "Pemerintah menyiapkan kerangka pengendalian perdagangan barang dan teknologi strategis, seiring ekspor semikonduktor RI melonjak ke US$4,1 miliar pada 2025.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "date": "15 September 2026",
   "isoDate": "2026-09-15T15:08:35.429Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7094/wujudkan-perdagangan-aman-dan-terpercaya-indonesia-perkuat-strategic-trade-management",
@@ -12109,7 +12381,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "KADI [Selidiki] Dugaan Dumping Baja Impor Tiongkok",
   "deck": "KADI membuka penyelidikan antidumping atas baja lapis seng asal Tiongkok yang menguasai 81 persen impor Indonesia, menyusul aduan dua produsen lokal.",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "date": "15 September 2026",
   "isoDate": "2026-09-15T06:12:03.487Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-impor-baja-lapis-seng-asal-tiongkok",
@@ -12427,7 +12699,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Patokan Ekspor Emas [Naik] 1,63 Persen per 15 September",
   "deck": "Kemendag menaikkan HPE dan HR emas untuk periode 15-30 September 2026, dasar penghitungan bea keluar dan royalti ekspor emas dari Indonesia.",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "date": "15 September 2026",
   "isoDate": "2026-09-15T03:38:40.713Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sentimen-global-picu-berlanjutnya-peningkatan-hpe-dan-hr-emas-pada-periode-kedua-september-2026",
@@ -22916,7 +23188,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Realisasi Investasi [Hilirisasi] Tembus Rp300,1 Triliun",
   "deck": "Realisasi investasi sektor hilirisasi RI naik 6,9 persen menjadi Rp300,1 triliun pada semester I 2026, ditopang strategi perencanaan, kemudahan izin, dan insentif pajak.",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/mesin-tekstil.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-07T19:15:18.816Z",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-ungkap-tiga-strategi-jemput-investasi-dan-perkuat-hilirisasi",
@@ -31886,7 +32158,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Harga Acuan Ekspor Kakao [Melonjak], Sawit Naik Tipis",
   "deck": "Harga patokan ekspor biji kakao naik hampir 4 persen imbas gangguan pasokan di Afrika Barat, sementara harga referensi CPO naik tipis 1,1 persen untuk periode September 2026.",
-  "image": "assets/img/jalur-perakitan.jpg",
+  "image": "assets/img/aadi-rombak-direksi-komisaris-rups-setujui-pmthmetd.jpg",
   "date": "2 September 2026",
   "isoDate": "2026-09-01T21:48:22.453Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/september-2026-hr-cpo-naik-hpe-biji-kakao-dan-getah-pinus-naik-hpe-produk-kulit-tetap-serta-hpe-produk-kayu-bervariasi",
@@ -32919,7 +33191,7 @@ var ARTICLES = [
   "category": "Perdagangan",
   "title": "Neraca Dagang Juli Surplus Tipis [0,12 Miliar Dolar]",
   "deck": "Surplus perdagangan Indonesia naik 127,06% dari Juni yang defisit, namun anjlok 97,08% dibanding Juli 2025.",
-  "image": "assets/img/aadi-rombak-direksi-komisaris-rups-setujui-pmthmetd.jpg",
+  "image": "assets/img/aadi-siapkan-penambahan-modal-lewat-hmetd-rups-besok.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:55:18.059Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -32946,7 +33218,7 @@ var ARTICLES = [
   "category": "Perdagangan",
   "title": "Impor RI Juli 2026 Tembus US$26,1 M, [Naik 27%]",
   "deck": "BPS mencatat nilai impor Juli 2026 naik tipis 0,72% dari Juni, namun melonjak 27,02% dibanding Juli tahun lalu.",
-  "image": "assets/img/aadi-siapkan-penambahan-modal-lewat-hmetd-rups-besok.jpg",
+  "image": "assets/img/abda-panggil-rupslb-agendakan-perubahan-susunan-direksi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:54:49.314Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -32973,7 +33245,7 @@ var ARTICLES = [
   "category": "Perdagangan",
   "title": "Ekspor RI Juli 2026 [Naik Jadi US$26,2 M]",
   "deck": "BPS mencatat nilai ekspor Juli 2026 naik dibanding Juni maupun periode sama tahun lalu, melanjutkan tren kenaikan sejak Mei.",
-  "image": "assets/img/abda-panggil-rupslb-agendakan-perubahan-susunan-direksi.jpg",
+  "image": "assets/img/acst-hadapi-gugatan-pkpu-dari-rekanan-proyek-baja.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:54:17.834Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -33793,7 +34065,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Harga Patokan Ekspor Emas [Naik] 7,87 Persen per September",
   "deck": "Kementerian Perdagangan menaikkan Harga Patokan Ekspor emas 7,87 persen menjadi US$142.154,10 per kilogram untuk periode 1-14 September 2026, mengikuti kenaikan harga emas dunia.",
-  "image": "assets/img/mesin-tekstil.jpg",
+  "image": "assets/img/adcp-akui-event-of-default-utang-ke-cgif-rp12-36-m.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T21:56:54.150Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/permintaan-emas-naik-kemendag-tetapkan-kenaikan-hpe-emas-di-periode-pertama-september-2026",
@@ -39380,7 +39652,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/acst-hadapi-gugatan-pkpu-dari-rekanan-proyek-baja.jpg",
+  "image": "assets/img/adcp-tunda-pembayaran-kupon-obligasi-ke-mei-2027.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

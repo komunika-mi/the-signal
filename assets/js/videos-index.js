@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "tYJQGA17zpM",
+  "title": "Pemerintah Percepat Pengembangan Bioetanol sebagai BBM Alternatif",
+  "category": "Energi",
+  "program": "Kabar Pagi",
+  "summary": "Pemerintah pusat menggandeng pemerintah kabupaten dan kota untuk mempercepat pengembangan bioetanol sebagai bahan bakar alternatif, termasuk koordinasi penyiapan lahan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya diversifikasi energi nasional dan pengurangan ketergantungan pada bahan bakar fosil impor."
+ },
+ {
   "id": "uL-CzQJ1Amw",
   "title": "Dua Kandidat Bersaing di Musprov Kadin Gorontalo",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Kantor Perwakilan Bank Indonesia Provinsi Jawa Timur meluncurkan program Jelajah UMKM dan Pondok Pesantren Jawa Timur 2026 lewat kick off di Surabaya pada 30 Juli 2026.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan peran bank sentral daerah dalam mendorong penguatan UMKM berbasis pesantren."
- },
- {
-  "id": "x6_CE4e0D00",
-  "title": "Konflik Timur Tengah Kerek Harga Minyak Dunia ke US$101",
-  "category": "Energi",
-  "program": "tvOneNews",
-  "summary": "Konflik di Timur Tengah yang kembali memanas mendorong harga minyak mentah dunia melonjak hingga mendekati US$101 per barel, membebani harga-harga di Amerika Serikat.",
-  "takeaway": "Lonjakan harga minyak dunia berisiko merembet ke biaya energi dan inflasi di berbagai negara, termasuk Indonesia."
  }
 ];

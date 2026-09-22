@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "tYJQGA17zpM",
+  "title": "Pemerintah Percepat Pengembangan Bioetanol sebagai BBM Alternatif",
+  "category": "Energi",
+  "program": "Kabar Pagi",
+  "summary": "Pemerintah pusat menggandeng pemerintah kabupaten dan kota untuk mempercepat pengembangan bioetanol sebagai bahan bakar alternatif, termasuk koordinasi penyiapan lahan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya diversifikasi energi nasional dan pengurangan ketergantungan pada bahan bakar fosil impor.",
+  "terbit": "2026-09-22T00:10:06+00:00"
+ },
+ {
   "id": "uL-CzQJ1Amw",
   "title": "Dua Kandidat Bersaing di Musprov Kadin Gorontalo",
   "category": "Bisnis",

@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "qris-antarnegara-raih-penghargaan-global-transaksi-rp7-6-triliun",
+  "category": "Moneter",
+  "title": "QRIS Antarnegara Raih Penghargaan Global, Transaksi [Rp7,6] Triliun",
+  "deck": "Bank Indonesia meraih penghargaan internasional untuk QRIS Antarnegara di sela Sidang Majelis Umum PBB, dengan transaksi lintas negara tembus Rp7,63 triliun sejak 2022.",
+  "image": "assets/img/qris-antarnegara-raih-penghargaan-global-transaksi-rp7-6-triliun.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T00:08:23.160Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819126.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "QRIS",
+   "Bank Indonesia",
+   "pembayaran lintas negara",
+   "UMKM"
+  ],
+  "body": [
+   "Bank Indonesia meraih penghargaan '50-in-5 Awards 2026' kategori Kolaborasi untuk inovasi QRIS Antarnegara, yang diberikan oleh Digital Public Goods Alliance dan Co-Develop. Penghargaan diserahkan langsung kepada Deputi Gubernur BI, Filianingsih Hendarta, dalam rangkaian Sidang Majelis Umum PBB ke-81 di New York pada 21 September 2026. Pengakuan ini menyasar sistem pembayaran QR yang menghubungkan Indonesia dengan sejumlah negara mitra tanpa mengharuskan penyeragaman sistem pembayaran domestik masing-masing negara.",
+   "Sejak diimplementasikan pertama kali pada 2022 hingga Juli 2026, transaksi QRIS Antarnegara oleh warga negara mitra saat bertransaksi di Indonesia mencapai 21 juta transaksi senilai Rp5,90 triliun. Sebaliknya, transaksi warga Indonesia di negara mitra tercatat 4,67 juta transaksi senilai Rp1,73 triliun. Dengan demikian, dana yang masuk ke Indonesia dari transaksi ini lebih besar Rp4,17 triliun dibanding dana yang keluar.",
+   "Konektivitas ini sudah mencakup Thailand, Malaysia, Singapura, Jepang, Korea Selatan, dan Tiongkok. Di sisi domestik, ekosistem QRIS per Juli 2026 telah menjangkau 45,46 juta merchant, dengan 96,69 persen di antaranya adalah pelaku UMKM yang bisa menerima pembayaran dari wisatawan asing memakai infrastruktur yang sudah mereka pakai sehari-hari.",
+   "Bank Indonesia menyatakan akan terus memperluas kerja sama QRIS Antarnegara ke negara mitra potensial lain, terutama yang memiliki keterkaitan dagang, pariwisata, dan mobilitas penduduk yang kuat dengan Indonesia. Pengembangan lanjutan disebut akan memakai kerangka kerja dari kolaborasi yang sudah berjalan, dengan penyesuaian pada karakteristik masing-masing negara."
+  ],
+  "fotoAdegan": "A tourist paying with a smartphone at a small warung food stall in Indonesia, vendor smiling, blurred QR code sticker on the counter, daylight",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/sp_2819126.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Angka yang patut digarisbawahi dari siaran ini bukan soal penghargaannya, melainkan soal siapa yang diuntungkan: belanja turis mancanegara di Indonesia lewat QRIS mencapai Rp5,9 triliun sejak 2022, jauh lebih besar dari belanja warga Indonesia di luar negeri yang cuma Rp1,73 triliun, sehingga ada selisih dana masuk Rp4,17 triliun. Pihak yang paling terdampak adalah pelaku UMKM, karena dari 45,46 juta merchant QRIS, 96,69 persen adalah usaha kecil yang kini bisa melayani turis asing tanpa perlu alat pembayaran baru. Bank Indonesia menyebut akan memperluas kerja sama ini ke negara mitra lain yang punya hubungan dagang dan pariwisata kuat, jadi arahnya adalah penambahan negara secara bertahap, bukan berhenti di enam negara yang sudah berjalan. Yang akan memastikan arah ini adalah pengumuman negara mitra baru berikutnya dan data transaksi setelah Juli 2026, yang bisa menunjukkan apakah selisih dana masuk itu terus melebar atau justru menyempit.",
+  "imageV": "mubx7yar"
+ },
+ {
   "slug": "pnbp-minerba-rp108-13-triliun-esdm-klaim-harga-membaik",
   "category": "Energi",
   "title": "PNBP Minerba Rp108,13 Triliun, ESDM Klaim Harga [Membaik]",

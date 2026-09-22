@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "qris-antarnegara-raih-penghargaan-global-transaksi-rp7-6-triliun",
+  "category": "Moneter",
+  "title": "QRIS Antarnegara Raih Penghargaan Global, Transaksi [Rp7,6] Triliun",
+  "deck": "Bank Indonesia meraih penghargaan internasional untuk QRIS Antarnegara di sela Sidang Majelis Umum PBB, dengan transaksi lintas negara tembus Rp7,63 triliun sejak 2022.",
+  "date": "22 September 2026",
+  "image": "assets/img/qris-antarnegara-raih-penghargaan-global-transaksi-rp7-6-triliun.jpg",
+  "imageV": "mubx7yar",
+  "tags": [
+   "QRIS",
+   "Bank Indonesia",
+   "pembayaran lintas negara",
+   "UMKM"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819126.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "pnbp-minerba-rp108-13-triliun-esdm-klaim-harga-membaik",
   "category": "Energi",
   "title": "PNBP Minerba Rp108,13 Triliun, ESDM Klaim Harga [Membaik]",
@@ -6484,23 +6502,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sentimen-global-picu-berlanjutnya-peningkatan-hpe-dan-hr-emas-pada-periode-kedua-september-2026",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bi-proyeksi-kredit-tumbuh-8-12-persen-di-2026",
-  "category": "Perbankan",
-  "title": "BI Proyeksi Kredit Tumbuh [8-12] Persen di 2026",
-  "deck": "Bank Indonesia menyebut modal perbankan tetap tebal dan kredit macet rendah per Juni 2026, sambil menargetkan pertumbuhan kredit 8-12 persen tahun ini.",
-  "date": "15 September 2026",
-  "image": "assets/img/bi-proyeksi-kredit-tumbuh-8-12-persen-di-2026.jpg",
-  "imageV": "mu24r5bl",
-  "tags": [
-   "Bank Indonesia",
-   "Stabilitas Keuangan",
-   "Kredit Perbankan",
-   "NPL"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818726.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

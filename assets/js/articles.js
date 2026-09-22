@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mpxl-dirikan-anak-usaha-otomotif-auto-prime-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "MPXL Dirikan Anak Usaha Otomotif [Auto Prime Indonesia]",
+  "deck": "MPX Logistics mendirikan PT Auto Prime Indonesia untuk bisnis bengkel, cuci mobil, dan suku cadang, dengan modal disetor Rp3 miliar dan MPXL menguasai 55 persen saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T09:20:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a7cd0a51c3_2c541258ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPXL",
+  "tags": [
+   "MPXL",
+   "anak usaha",
+   "otomotif",
+   "diversifikasi bisnis"
+  ],
+  "body": [
+   "PT MPX Logistics International Tbk (MPXL) mengumumkan berdirinya anak usaha baru, PT Auto Prime Indonesia, yang mendapat status badan hukum dari Kementerian Hukum dan Hak Asasi Manusia pada 18 September 2026 melalui Surat Keputusan No. AHU.0075679.AH.01.01 Tahun 2026. Pendirian ini berdasarkan Akta Pendirian No. 23 tanggal 18 September 2026 yang dibuat di hadapan Notaris Maureen Felicia Widyasari, S.H., M.Kn. Perusahaan baru ini berkedudukan di Kabupaten Serang dan akan bergerak di tiga lini usaha, yaitu reparasi mobil, jasa pencucian dan salon mobil, serta perdagangan eceran suku cadang dan aksesoris mobil.",
+   "Dari sisi permodalan, Auto Prime Indonesia memiliki modal dasar Rp12 miliar yang terbagi atas 12.000 lembar saham, sementara modal yang sudah ditempatkan dan disetor baru Rp3 miliar atau 3.000 lembar saham. MPXL menjadi pemegang saham mayoritas dengan porsi 55 persen atau 1.650 lembar saham senilai Rp1,65 miliar. Sisanya, 45 persen atau 1.350 lembar saham senilai Rp1,35 miliar, dipegang oleh individu bernama Irwan Wijaya Dharma.",
+   "Susunan pengurus Auto Prime Indonesia terdiri dari James Sigit Chandra sebagai Komisaris dan Irwan Wijaya Dharma sebagai Direktur. Dalam laporannya ke Otoritas Jasa Keuangan, MPXL yang ditandatangani oleh James S. Chandra selaku Direktur sekaligus Corporate Secretary, menyatakan terdapat afiliasi pada pengurus anak usaha ini, tanpa merinci lebih lanjut bentuk afiliasi tersebut. Perusahaan menyebut pendirian anak usaha ini sebagai bentuk diversifikasi bisnis yang diharapkan menambah pendapatan usaha dan memperkuat kinerja perseroan."
+  ],
+  "fotoAdegan": "Mechanics servicing a car under fluorescent lights inside a small auto repair garage, tools and tires stacked along the wall",
+  "takeaway": "Laporan ini netral bagi MPXL, karena nilai investasinya kecil, modal yang disetor MPXL ke anak usaha baru ini hanya Rp1,65 miliar, sehingga belum akan mengubah signifikan kondisi keuangan perusahaan secara langsung. Pos yang tersentuh adalah ekuitas dan arus kas MPXL, sebagian dana perusahaan berpindah menjadi penyertaan di anak usaha, yang nantinya baru tercermin sebagai penambah pendapatan konsolidasi kalau bengkel dan gerai suku cadang ini sudah beroperasi dan menghasilkan uang. Perlu dicatat juga bahwa perusahaan sendiri mengakui ada afiliasi di jajaran pengurus anak usaha ini, artinya ada hubungan kedekatan antara pengurus MPXL dan pengurus Auto Prime Indonesia, yang membuat transaksi semacam ini pantas diperhatikan oleh pemegang saham dari sisi tata kelola meski secara aturan sudah diungkapkan. Yang perlu dipantau selanjutnya adalah realisasi operasional Auto Prime Indonesia serta kemungkinan setoran modal tambahan, mengingat modal disetor baru Rp3 miliar dari modal dasar Rp12 miliar, sehingga masih ada ruang penambahan modal hingga Rp9 miliar di kemudian hari.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "qris-antarnegara-raih-penghargaan-global-transaksi-rp7-6-triliun",
   "category": "Moneter",
   "title": "QRIS Antarnegara Raih Penghargaan Global, Transaksi [Rp7,6] Triliun",

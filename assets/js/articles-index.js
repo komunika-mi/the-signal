@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mpxl-dirikan-anak-usaha-otomotif-auto-prime-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "MPXL Dirikan Anak Usaha Otomotif [Auto Prime Indonesia]",
+  "deck": "MPX Logistics mendirikan PT Auto Prime Indonesia untuk bisnis bengkel, cuci mobil, dan suku cadang, dengan modal disetor Rp3 miliar dan MPXL menguasai 55 persen saham.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPXL",
+   "anak usaha",
+   "otomotif",
+   "diversifikasi bisnis"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a7cd0a51c3_2c541258ff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "qris-antarnegara-raih-penghargaan-global-transaksi-rp7-6-triliun",
   "category": "Moneter",
   "title": "QRIS Antarnegara Raih Penghargaan Global, Transaksi [Rp7,6] Triliun",
@@ -6486,21 +6502,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-2198-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "patokan-ekspor-emas-naik-1-63-persen-per-15-september",
-  "category": "Industri",
-  "title": "Patokan Ekspor Emas [Naik] 1,63 Persen per 15 September",
-  "deck": "Kemendag menaikkan HPE dan HR emas untuk periode 15-30 September 2026, dasar penghitungan bea keluar dan royalti ekspor emas dari Indonesia.",
-  "date": "15 September 2026",
-  "image": "assets/img/tambang-mineral.jpg",
-  "tags": [
-   "HPE emas",
-   "bea keluar",
-   "ekspor emas",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sentimen-global-picu-berlanjutnya-peningkatan-hpe-dan-hr-emas-pada-periode-kedua-september-2026",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

@@ -3,6 +3,142 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "giias-semarang-2026-digelar-mobil-listrik-dominasi-peserta",
+  "category": "Industri",
+  "title": "GIIAS Semarang 2026 Digelar, [Mobil Listrik] Dominasi Peserta",
+  "deck": "GIIAS Semarang 2026 digelar 30 September-4 Oktober dengan 19 merek peserta, mayoritas mobil listrik, sementara Pemprov Jawa Tengah mempertimbangkan relaksasi pajak kendaraan bermotor.",
+  "image": "assets/img/giias-semarang-2026-digelar-mobil-listrik-dominasi-peserta.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T03:40:28.043Z",
+  "sourceUrl": "https://www.gaikindo.or.id/tingkatkan-ekonomi-giias-semarang-2026-mendapat-dukungan-pemprov-jawa-tengah/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GIIAS Semarang 2026",
+   "GAIKINDO",
+   "mobil listrik",
+   "Jawa Tengah"
+  ],
+  "body": [
+   "Gabungan Industri Kendaraan Bermotor Indonesia (GAIKINDO) akan menggelar pameran GIIAS Semarang 2026 pada 30 September hingga 4 Oktober, dengan dukungan Pemerintah Provinsi Jawa Tengah yang berharap pameran ini mendongkrak penjualan kendaraan bermotor sekaligus pendapatan daerah. Gubernur Jawa Tengah Ahmad Luthfi menerima audiensi pengurus GAIKINDO di kantornya pada Senin, 21 September 2026, dan menyebut pergerakan orang dan barang lewat industri otomotif sebagai salah satu prioritas provinsi.",
+   "Tahun ini pameran diikuti 19 merek kendaraan bermotor, terdiri dari 18 merek mobil dan satu merek sepeda motor, ditambah 25 perusahaan pendukung industri (supporting industry). Dari 18 merek mobil tersebut, 12 merupakan mobil listrik dan hanya enam merek mobil konvensional. Ketua Harian GAIKINDO sekaligus Ketua Pameran GIIAS Semarang 2026, Anton Kumonty, mengatakan jumlah merek mobil listrik yang berpartisipasi tahun ini lebih banyak dibanding tahun sebelumnya.",
+   "Kepala Badan Pengelola Pendapatan Daerah (Bapenda) Jawa Tengah, Muhamad Masrofi, mengatakan pendapatan daerah dari Bea Balik Nama Kendaraan Bermotor pada 2026 sudah meningkat dibanding 2025, menurut data Bapenda. Ia membuka kemungkinan pemberian relaksasi atau keringanan pajak kendaraan bermotor untuk mendukung penjualan selama pameran, namun menyebut besarannya masih dihitung dan belum ada keputusan final."
+  ],
+  "fotoAdegan": "Rows of electric cars parked under bright exhibition hall lighting, visitors walking between vehicles, convention center in Indonesia",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/09/mp.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Yang konkret berubah ada di komposisi peserta pameran: dari 18 merek mobil yang ikut, 12 di antaranya mobil listrik, jadi mayoritas peserta sekarang justru bukan mobil bermesin konvensional seperti sebelumnya. Yang berpotensi kena dampak lebih luas adalah konsumen dan calon pembeli kendaraan di Jawa Tengah, karena Bapenda sedang mempertimbangkan keringanan Bea Balik Nama Kendaraan Bermotor, yaitu pajak yang dibayar saat kendaraan pindah kepemilikan, untuk mendorong transaksi selama pameran. Arahnya masih terbelah, bisa saja Pemprov benar memberi potongan pajak khusus selama periode GIIAS untuk mengejar target pendapatan daerah, atau rencana itu tidak jadi karena perhitungannya belum rampung. Yang akan menentukan mana yang terjadi adalah pengumuman resmi Bapenda Jawa Tengah, idealnya keluar sebelum pameran berakhir pada 4 Oktober 2026, karena momentum mendorong penjualan lewat pameran itu sendiri akan lewat setelah tanggal tersebut.",
+  "imageV": "muc4vv59"
+ },
+ {
+  "slug": "pendapatan-pupuk-indonesia-naik-ke-rp90-4-triliun-pada-2025",
+  "category": "BUMN",
+  "title": "Pendapatan Pupuk Indonesia Naik ke [Rp90,4] Triliun pada 2025",
+  "deck": "Pendapatan Pupuk Indonesia naik dari Rp81,6 triliun menjadi Rp90,4 triliun pada 2025, seiring perubahan skema subsidi pupuk dan penurunan harga eceran tertinggi 20 persen bagi petani.",
+  "image": "assets/img/pendapatan-pupuk-indonesia-naik-ke-rp90-4-triliun-pada-2025.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T03:40:25.240Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/883/kinerja-dan-transformasi-bisnis-perkuat-posisi-pupuk-indonesia-di-fortune-indonesia-100",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "Pupuk Indonesia",
+   "subsidi pupuk",
+   "BUMN",
+   "Fortune Indonesia 100"
+  ],
+  "body": [
+   "Pemerintah lewat Peraturan Presiden Nomor 113 Tahun 2025 mengubah cara subsidi pupuk dihitung dan dibayarkan ke Pupuk Indonesia, sekaligus menyederhanakan alur distribusinya lewat Perpres Nomor 6 Tahun 2025. Perubahan ini berbarengan dengan kenaikan pendapatan Pupuk Indonesia dari Rp81,6 triliun pada 2024 menjadi Rp90,4 triliun pada 2025, yang mengantarnya naik ke peringkat 14 dalam pemeringkatan Fortune Indonesia 100 2026 sekaligus tercatat sebagai BUMN dengan pendapatan terbesar kedelapan di Tanah Air. Bagi petani, dampak yang paling terasa adalah harga eceran tertinggi pupuk bersubsidi yang turun 20 persen sejak Oktober 2025.",
+   "Perpres 6/2025 menyederhanakan tata kelola penyaluran pupuk bersubsidi, dan menurut Pupuk Indonesia hasilnya terlihat pada realisasi penyaluran pupuk subsidi 2025 yang mencapai 8,11 juta ton, naik 10,68 persen dibanding tahun sebelumnya. Sementara itu, Perpres 113/2025 mengubah cara pemerintah membayar subsidi ke Pupuk Indonesia. Sebelumnya perusahaan mendapat penggantian biaya produksi ditambah margin tetap berapa pun harga bahan bakunya, sekarang besaran subsidi mengikuti harga pasar bahan baku dan pembayaran bahan bakunya dilakukan di muka. Mekanisme baru ini, menurut perusahaan, membantu menjaga pasokan bahan baku agar distribusi pupuk ke petani tidak terganggu.",
+   "Di sisi operasional, Pupuk Indonesia menargetkan pembangunan dan peremajaan delapan pabrik dalam lima tahun untuk meningkatkan efisiensi energi dan kapasitas produksi. Satu proyek yang sudah rampung adalah revamping pabrik amonia kedua milik Pupuk Kalimantan Timur, yang diklaim menurunkan konsumsi gas lebih dari 10 persen. Perusahaan juga memperluas bisnis ke luar pupuk lewat pembangunan pabrik soda ash serta rencana pabrik metanol, sebagai bagian dari upaya menjadi produsen bahan kimia yang lebih terdiversifikasi dan mengurangi ketergantungan pada impor bahan baku strategis."
+  ],
+  "fotoAdegan": "Farmer spreading granular fertilizer by hand across a green rice paddy field in rural Indonesia, morning light.",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1845/conversions/Fortune-100---2026-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Perubahan konkret di balik berita ini ada pada skema subsidi pupuk: dulu pemerintah mengganti biaya produksi pupuk ditambah keuntungan tetap berapa pun harga bahan bakunya, sekarang besaran subsidi mengikuti harga pasar bahan baku dan pembayarannya dilakukan di muka lewat Perpres 113/2025. Yang merasakan dampak langsung adalah petani, terlihat dari harga eceran tertinggi pupuk bersubsidi yang turun 20 persen sejak Oktober 2025 dan volume pupuk subsidi yang disalurkan naik 10,68 persen menjadi 8,11 juta ton sepanjang 2025. Di sisi lain, Pupuk Indonesia sendiri terlihat bergerak menjauh dari sekadar mengandalkan bisnis pupuk bersubsidi, lewat rencana revitalisasi delapan pabrik dalam lima tahun (baru satu yang rampung) serta ekspansi ke pabrik soda ash dan rencana pabrik metanol. Arah besarnya adalah dari perusahaan pupuk bersubsidi menuju pemain kimia yang lebih terdiversifikasi dan efisien secara operasional. Yang akan memastikan arah ini benar berlanjut adalah apakah penyaluran subsidi 2026 tetap tumbuh di atas 10 persen dan berapa banyak dari tujuh pabrik tersisa yang benar-benar mulai dibangun.",
+  "imageV": "muc4vw9t"
+ },
+ {
+  "slug": "anak-krakatau-turun-status-jadi-waspada-radius-2-km-tetap",
+  "category": "Energi",
+  "title": "Anak Krakatau [Turun] Status jadi Waspada, Radius 2 Km Tetap",
+  "deck": "Badan Geologi ESDM menurunkan status Gunung Anak Krakatau dari Siaga ke Waspada mulai 21 September 2026, setelah aktivitas kegempaan dan deformasi mereda sejak awal bulan.",
+  "image": "assets/img/anak-krakatau-turun-status-jadi-waspada-radius-2-km-tetap.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T03:37:02.318Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/aktivitas-anak-krakatau-menurun-badan-geologi-turunkan-status-dari-siaga-menjadi-waspada",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Anak Krakatau",
+   "Badan Geologi",
+   "ESDM",
+   "Status Gunung Api"
+  ],
+  "body": [
+   "Badan Geologi Kementerian ESDM menurunkan status aktivitas Gunung Anak Krakatau di Selat Sunda, dari Level III atau Siaga menjadi Level II atau Waspada, berlaku sejak 21 September 2026 pukul 18.30 WIB. Keputusan ini diambil Kepala Badan Geologi Lana Saria berdasarkan pemantauan yang menunjukkan aktivitas gunung mereda dalam beberapa pekan terakhir. Penurunan status ini relevan bagi warga pesisir Banten dan Lampung serta wisatawan dan pendaki yang berencana mendekati kawasan gunung, karena sebagian batasan lama tetap berlaku.",
+   "Status Siaga sebelumnya ditetapkan sejak 2 Juli 2026, setelah terdeteksi peningkatan gempa vulkanik dan perubahan bentuk tubuh gunung yang disebut deformasi. Selama periode itu, Badan Geologi mencatat 224 kali erupsi hingga 3 September 2026, disusul erupsi menerus sekitar 25 jam pada 4-6 September 2026 yang mengalirkan lava ke arah barat laut, barat, dan barat daya kawah. Sejak itu aktivitas cenderung menurun, ditandai data deformasi yang menunjukkan gunung mengempis atau deflasi, serta hanya satu kali gempa berfrekuensi rendah dan getaran menerus beramplitudo rata-rata 2 milimeter yang tercatat pada 20 September 2026.",
+   "Meski status turun, Badan Geologi tetap melarang warga, pengunjung, wisatawan, dan pendaki memasuki radius 2 kilometer dari pusat aktivitas gunung. Masyarakat juga diminta waspada terhadap potensi lontaran batu pijar dan hujan abu lebat, sementara warga pesisir Banten dan Lampung diimbau tidak mempercayai isu bahwa erupsi Anak Krakatau akan memicu tsunami. Badan Geologi menyatakan pemantauan akan terus berlangsung dan evaluasi status dilakukan secara berkala atau bila terjadi perubahan aktivitas yang signifikan."
+  ],
+  "fotoAdegan": "Small wooden fishing boats along a calm Sunda Strait shoreline, a distant conical volcanic island venting a thin steam plume under overcast sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-aktivitas-anak-krakatau-menurun-badan-geologi-turunkan-status-dari-siaga-menjadi-waspada-l0k35cw.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah adalah status resmi turun satu tingkat, dari Siaga ke Waspada, tapi batas larangan mendekat masih sama yaitu radius 2 kilometer dari kawah, tidak ikut mengecil. Yang terdampak langsung adalah wisatawan dan pendaki yang berencana ke kawasan gunung, serta warga pesisir Banten dan Lampung yang selama ini resah oleh isu tsunami susulan seperti erupsi besar 2018. Pola datanya menunjukkan arah mereda, dari 224 kali erupsi ditambah letusan menerus 25 jam awal September, turun ke hanya satu gempa berfrekuensi rendah pada 20 September. Tapi karena status belum turun ke Level I dan radius bahaya tetap dipertahankan, ini lebih terbaca sebagai jeda yang masih dipantau ketat ketimbang kepastian reda total, dan hasil evaluasi berkala berikutnya dari Badan Geologi yang akan menentukan apakah status turun lagi atau justru naik bila kegempaan kembali meningkat.",
+  "imageV": "muc4vxcn"
+ },
+ {
+  "slug": "produk-umkm-pilihan-busan-kemendag-masuk-tokopedia-dan-tiktok-shop",
+  "category": "UMKM",
+  "title": "Produk UMKM Pilihan Busan Kemendag Masuk [Tokopedia] dan TikTok Shop",
+  "deck": "Kemendag menggandeng Tokopedia dan TikTok Shop membuka etalase khusus bagi produk UMKM kurasi Pilihan Busan, seiring aturan baru yang meminta lokapasar mengutamakan produk lokal.",
+  "image": "assets/img/produk-umkm-pilihan-busan-kemendag-masuk-tokopedia-dan-tiktok-shop.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T03:36:49.537Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/produk-pilihan-busan-masuk-tokopedia-dan-tiktok-shop-kemendag-dorong-umkm-manfaatkan-social-commerce",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Tokopedia",
+   "TikTok Shop",
+   "Kemendag"
+  ],
+  "body": [
+   "Kementerian Perdagangan bekerja sama dengan Tokopedia dan TikTok Shop menghadirkan etalase khusus bernama Pilihan Busan, kumpulan produk UMKM yang dikurasi kementerian, di kolom Beli Lokal kedua platform tersebut. Langkah ini membuka jalur pemasaran digital baru bagi UMKM yang sebelumnya hanya tampil di pameran fisik dan rak ritel, sehingga produk mereka kini bisa dicari langsung oleh konsumen lewat lokapasar dan fitur belanja siaran langsung (live shopping).",
+   "Peluncuran dilakukan di Surakarta pada Senin, 21 September 2026, dalam rangkaian kampanye Beli Lokal yang sudah dijalankan Tokopedia dan TikTok Shop sejak Desember 2023. Sebelum masuk kedua platform ini, produk Pilihan Busan, yang menurut Kemendag diperbarui setiap dua hingga tiga bulan, lebih dulu dipromosikan lewat stan di Trade Expo Indonesia 2025 dan gerai Indomaret. Di Tokopedia dan TikTok Shop, produk terpilih mendapat tampilan di laman utama, dukungan promosi, dan diskon khusus.",
+   "Kemendag mengaitkan kolaborasi ini dengan Peraturan Menteri Perdagangan Nomor 19 Tahun 2026, yang menurut kementerian mewajibkan platform lokapasar mengutamakan produk dalam negeri. Siaran pers ini tidak merinci lebih jauh isi aturan tersebut, seperti target jumlah produk lokal yang harus ditampilkan atau tenggat penerapannya bagi platform.",
+   "Sejumlah pelaku UMKM turut hadir dalam acara ini, termasuk produsen kukis Kwacis Seeds Cookies yang sebelumnya sudah mengikuti beberapa program Kemendag lain seperti Pangan Nusa Expo 2025 dan fasilitasi masuk ritel Indomaret serta AEON. Perwakilan usaha tersebut menyebut kebutuhan mereka saat ini justru pada fasilitasi sertifikasi untuk produk makanan sehat guna menembus pasar ekspor, bukan sekadar akses etalase digital."
+  ],
+  "fotoAdegan": "A small home workshop where a vendor packs snack boxes and small accessories into shipping bags, ring light and smartphone nearby, warm lighting",
+  "fotoSumber": "https://www.kemendag.go.id/albums/zZriNR1QxEohzEhldpdRNY2Kdb2bysGfK4R5hvEM.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah konkret adalah akses jualan, bukan sekadar seremoni: produk UMKM kurasi Kemendag kini punya etalase khusus di Tokopedia dan TikTok Shop, lengkap tampilan di laman utama dan diskon khusus, setelah sebelumnya hanya dipajang di pameran dan rak Indomaret. Pihak yang jelas terdampak ada dua, UMKM yang produknya terpilih masuk program ini, dan pengelola kedua platform yang kini disebut Kemendag harus mengutamakan produk dalam negeri. Kemendag mengaitkan langkah ini dengan Permendag Nomor 19 Tahun 2026, tapi siaran pers ini tidak menjelaskan isi aturan itu secara rinci, misalnya apakah ada target jumlah produk lokal yang wajib ditampilkan atau tenggat penerapannya bagi lokapasar. Salah satu UMKM yang ikut program, produsen kukis Kwacis Seeds Cookies, malah menyebut kebutuhannya justru bantuan sertifikasi ekspor, bukan etalase digital, sehingga belum jelas apakah program ini menjawab kebutuhan UMKM secara luas atau baru menyentuh sebagian kecil dari mereka. Yang perlu ditunggu adalah detail teknis Permendag 19/2026 serta apakah Kemendag merilis data penjualan dari etalase Pilihan Busan setelah program ini berjalan beberapa bulan.",
+  "imageV": "muc4vzub"
+ },
+ {
+  "slug": "bi-kucurkan-rp2-97-miliar-untuk-7-provinsi-korban-karhutla",
+  "category": "Makroekonomi",
+  "title": "BI Kucurkan [Rp2,97 Miliar] untuk 7 Provinsi Korban Karhutla",
+  "deck": "Bank Indonesia menyalurkan bantuan kemanusiaan Rp2,97 miliar dan menerjunkan 40 tenaga kesehatan ke tujuh provinsi yang terdampak kebakaran hutan dan lahan di Kalimantan serta Sumatra.",
+  "image": "assets/img/bi-kucurkan-rp2-97-miliar-untuk-7-provinsi-korban-karhutla.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T03:36:33.180Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819226.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "karhutla",
+   "bantuan kemanusiaan",
+   "Kalimantan"
+  ],
+  "body": [
+   "Bank Indonesia menyalurkan bantuan kemanusiaan senilai Rp2,97 miliar kepada masyarakat di tujuh provinsi yang terdampak kebakaran hutan dan lahan, yaitu Kalimantan Selatan, Kalimantan Tengah, Kalimantan Barat, Kalimantan Timur, Riau, Sumatra Selatan, dan Jambi. Bantuan diserahkan secara simbolis oleh Gubernur BI Destry Damayanti bersama Deputi Gubernur Ricky P. Gozali kepada Badan Nasional Penanggulangan Bencana dan pemerintah daerah setempat di Balikpapan, Minggu (20/9). Langkah ini penting bagi warga di kawasan tersebut karena kabut asap karhutla setiap tahun mengganggu kesehatan pernapasan, terutama anak-anak dan lansia.",
+   "Bantuan itu mencakup penguatan sarana operasional pemadaman kebakaran, perangkat medis untuk menangani gangguan pernapasan, posko layanan kesehatan gratis, serta dukungan ketahanan pangan bagi keluarga terdampak. Bank Indonesia juga mengerahkan 40 tenaga kesehatan pada 21 hingga 27 September 2026 untuk melayani warga di 10 titik di wilayah Kalimantan dan Sumatra. Layanan yang diberikan meliputi pemeriksaan medis, terapi inhalasi darurat, dan pemberian obat untuk gangguan pernapasan akibat asap.",
+   "Destry menyampaikan keprihatinan atas dampak karhutla yang dirasakan masyarakat dan menginstruksikan seluruh kantor perwakilan BI di daerah terdampak untuk memperkuat koordinasi dengan pemerintah daerah serta lembaga terkait, agar bantuan tepat sasaran dan pemulihan berjalan lebih cepat. Bank Indonesia menyebut langkah ini sejalan dengan mandat Undang-Undang Pengembangan dan Penguatan Sektor Keuangan, yang mewajibkan bank sentral berperan dalam edukasi dan pemberdayaan masyarakat serta lingkungan, di samping tugas utamanya menjaga stabilitas moneter."
+  ],
+  "fotoAdegan": "A health worker examines a young patient with a stethoscope inside a hazy outdoor clinic tent near a smoldering peatland forest, thick smoke visible.",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2819226/Cover-sp_2819226.png",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Bantuan Rp2,97 miliar ini bukan kebijakan moneter, melainkan program tanggung jawab sosial Bank Indonesia yang diwajibkan Undang-Undang Pengembangan dan Penguatan Sektor Keuangan, aturan yang antara lain mengharuskan bank sentral ikut mendanai program edukasi dan pemberdayaan masyarakat di luar tugas utamanya mengatur uang beredar dan suku bunga. Yang terdampak langsung adalah warga di tujuh provinsi rawan asap, terutama anak-anak dan lansia yang jadi sasaran posko kesehatan gratis, serta pemerintah daerah dan BNPB yang mengelola penyalurannya di lapangan. Skala bantuan ini tergolong kecil dibanding luasnya wilayah terdampak, dan tenaga kesehatan hanya dikerahkan sepekan, 21 sampai 27 September, sehingga polanya terlihat sebagai respons darurat musiman ketimbang program penanganan karhutla jangka panjang. Yang perlu dicermati setelah tenggat itu adalah apakah kabut asap masih berlangsung dan apakah Bank Indonesia atau BNPB menambah dukungan lanjutan, karena itu akan menentukan apakah bantuan ini cukup atau baru respons awal.",
+  "imageV": "muc4wf04"
+ },
+ {
   "slug": "mpxl-dirikan-anak-usaha-otomotif-auto-prime-indonesia",
   "category": "Aksi Korporasi",
   "title": "MPXL Dirikan Anak Usaha Otomotif [Auto Prime Indonesia]",

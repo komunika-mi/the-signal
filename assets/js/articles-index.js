@@ -5,6 +5,96 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "giias-semarang-2026-digelar-mobil-listrik-dominasi-peserta",
+  "category": "Industri",
+  "title": "GIIAS Semarang 2026 Digelar, [Mobil Listrik] Dominasi Peserta",
+  "deck": "GIIAS Semarang 2026 digelar 30 September-4 Oktober dengan 19 merek peserta, mayoritas mobil listrik, sementara Pemprov Jawa Tengah mempertimbangkan relaksasi pajak kendaraan bermotor.",
+  "date": "22 September 2026",
+  "image": "assets/img/giias-semarang-2026-digelar-mobil-listrik-dominasi-peserta.jpg",
+  "imageV": "muc4vv59",
+  "tags": [
+   "GIIAS Semarang 2026",
+   "GAIKINDO",
+   "mobil listrik",
+   "Jawa Tengah"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/tingkatkan-ekonomi-giias-semarang-2026-mendapat-dukungan-pemprov-jawa-tengah/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
+  "slug": "pendapatan-pupuk-indonesia-naik-ke-rp90-4-triliun-pada-2025",
+  "category": "BUMN",
+  "title": "Pendapatan Pupuk Indonesia Naik ke [Rp90,4] Triliun pada 2025",
+  "deck": "Pendapatan Pupuk Indonesia naik dari Rp81,6 triliun menjadi Rp90,4 triliun pada 2025, seiring perubahan skema subsidi pupuk dan penurunan harga eceran tertinggi 20 persen bagi petani.",
+  "date": "22 September 2026",
+  "image": "assets/img/pendapatan-pupuk-indonesia-naik-ke-rp90-4-triliun-pada-2025.jpg",
+  "imageV": "muc4vw9t",
+  "tags": [
+   "Pupuk Indonesia",
+   "subsidi pupuk",
+   "BUMN",
+   "Fortune Indonesia 100"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/883/kinerja-dan-transformasi-bisnis-perkuat-posisi-pupuk-indonesia-di-fortune-indonesia-100",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "anak-krakatau-turun-status-jadi-waspada-radius-2-km-tetap",
+  "category": "Energi",
+  "title": "Anak Krakatau [Turun] Status jadi Waspada, Radius 2 Km Tetap",
+  "deck": "Badan Geologi ESDM menurunkan status Gunung Anak Krakatau dari Siaga ke Waspada mulai 21 September 2026, setelah aktivitas kegempaan dan deformasi mereda sejak awal bulan.",
+  "date": "22 September 2026",
+  "image": "assets/img/anak-krakatau-turun-status-jadi-waspada-radius-2-km-tetap.jpg",
+  "imageV": "muc4vxcn",
+  "tags": [
+   "Anak Krakatau",
+   "Badan Geologi",
+   "ESDM",
+   "Status Gunung Api"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/aktivitas-anak-krakatau-menurun-badan-geologi-turunkan-status-dari-siaga-menjadi-waspada",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "produk-umkm-pilihan-busan-kemendag-masuk-tokopedia-dan-tiktok-shop",
+  "category": "UMKM",
+  "title": "Produk UMKM Pilihan Busan Kemendag Masuk [Tokopedia] dan TikTok Shop",
+  "deck": "Kemendag menggandeng Tokopedia dan TikTok Shop membuka etalase khusus bagi produk UMKM kurasi Pilihan Busan, seiring aturan baru yang meminta lokapasar mengutamakan produk lokal.",
+  "date": "22 September 2026",
+  "image": "assets/img/produk-umkm-pilihan-busan-kemendag-masuk-tokopedia-dan-tiktok-shop.jpg",
+  "imageV": "muc4vzub",
+  "tags": [
+   "UMKM",
+   "Tokopedia",
+   "TikTok Shop",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/produk-pilihan-busan-masuk-tokopedia-dan-tiktok-shop-kemendag-dorong-umkm-manfaatkan-social-commerce",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bi-kucurkan-rp2-97-miliar-untuk-7-provinsi-korban-karhutla",
+  "category": "Makroekonomi",
+  "title": "BI Kucurkan [Rp2,97 Miliar] untuk 7 Provinsi Korban Karhutla",
+  "deck": "Bank Indonesia menyalurkan bantuan kemanusiaan Rp2,97 miliar dan menerjunkan 40 tenaga kesehatan ke tujuh provinsi yang terdampak kebakaran hutan dan lahan di Kalimantan serta Sumatra.",
+  "date": "22 September 2026",
+  "image": "assets/img/bi-kucurkan-rp2-97-miliar-untuk-7-provinsi-korban-karhutla.jpg",
+  "imageV": "muc4wf04",
+  "tags": [
+   "Bank Indonesia",
+   "karhutla",
+   "bantuan kemanusiaan",
+   "Kalimantan"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819226.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "mpxl-dirikan-anak-usaha-otomotif-auto-prime-indonesia",
   "category": "Aksi Korporasi",
   "title": "MPXL Dirikan Anak Usaha Otomotif [Auto Prime Indonesia]",
@@ -6421,86 +6511,6 @@ var ARTICLES = [
    "paparan publik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9706ab7cc_4e28676355.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tins-targetkan-capex-rp446-miliar-harga-timah-diproyeksi-kuat-2026",
-  "category": "Aksi Korporasi",
-  "title": "TINS Targetkan [Capex] Rp446 Miliar, Harga Timah Diproyeksi Kuat 2026",
-  "deck": "Dalam public expose tahunan, manajemen Timah memaparkan target capex Rp446 miliar, proyeksi cash cost naik ke US$23.000-24.000 per ton, dan penjajakan mitra tanah jarang.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TINS",
-   "Timah",
-   "public expose",
-   "tanah jarang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbb88bdf7a_fcfc4a7a25.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apex-panggil-rupslb-terbitkan-218-juta-saham-baru-bayar-utang",
-  "category": "Aksi Korporasi",
-  "title": "APEX Panggil RUPSLB, Terbitkan [218 Juta] Saham Baru Bayar Utang",
-  "deck": "Apexindo Pratama Duta (APEX) memanggil RUPSLB 7 Oktober 2026 untuk menyetujui penerbitan 218.090.317 saham seri B baru senilai Rp325 per saham guna melunasi utang ke kreditor pihak ketiga.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APEX",
-   "RUPSLB",
-   "PMTHMETD",
-   "Apexindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/55e68b4fda_0b0874b707.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-saham-direksi-naik-58-9-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Saham Direksi Naik 58,9% Lewat [Repo]",
-  "deck": "Direksi Samuel Tumbuh Bersama menerima kembali 1,24 miliar saham NSSS lewat perjanjian repo, hak suaranya naik dari 8,86% jadi 14,07%.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-5182-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "heal-direksi-tambah-1-16-juta-saham-rp782-juta",
-  "category": "Aksi Korporasi",
-  "title": "HEAL: Direksi [Tambah] 1,16 Juta Saham Rp782 Juta",
-  "deck": "Direksi Hermina, Yulisar Khiat, menambah 1,16 juta lembar saham lewat dua transaksi pembelian pada 11 dan 14 September 2026, senilai sekitar Rp782 juta.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEAL",
-   "Medikaloka Hermina",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-1138-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-jual-150-000-saham-lagi-kali-kedua-sepekan",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris [Jual] 150.000 Saham Lagi, Kali Kedua Sepekan",
-  "deck": "Henry Liem, Dewan Komisaris AKPI, melepas 150.000 saham secara tidak langsung pada 14 September 2026 seharga Rp525 per saham, hak suaranya turun tipis ke 1,2283 persen.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Henry Liem",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-2198-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

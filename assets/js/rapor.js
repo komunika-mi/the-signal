@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-22T02:46:34.563+07:00",
+ "diperbarui": "2026-09-23T01:15:17.420+07:00",
  "entri": [
+  {
+   "id": "2026-09-22-3",
+   "edisi": "2026-09-22",
+   "benang": "Pemerintah Buka Banyak Pintu Perdagangan Sekaligus",
+   "klaim": "Arah kebijakan pemerintah konsisten menata ulang jalur masuk bahan baku industri tekstil di dalam negeri sambil memperluas dan mempercepat akses pasar ekspor lewat IEU-CEPA, RCEP, dan InaExport.",
+   "penanda": "Realisasi konkret seperti revisi aturan Pertek atau hasil kunjungan Presiden Komisi Eropa Ursula von der Leyen",
+   "tenggat": "2026-11-01",
+   "tenggatLabel": "akhir Oktober hingga awal November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-22-2",
+   "edisi": "2026-09-22",
+   "benang": "Restrukturisasi Utang BUMN Mulai Terbelah",
+   "klaim": "Hasil negosiasi restrukturisasi utang BUMN kini terbelah, dengan Waskita berhasil mendapat persetujuan pemegang obligasi sementara Pos Indonesia gagal dan ditolak seluruh proposalnya oleh pemegang sukuk dan obligasi.",
+   "penanda": "Penyusunan proposal restrukturisasi baru Pos Indonesia atau pencarian sumber lain untuk memenuhi kewajiban yang jatuh tempo",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-22-1",
+   "edisi": "2026-09-22",
+   "benang": "Tekanan Pasar Berlanjut Jelang Keputusan RDG BI",
+   "klaim": "Tekanan pelemahan rupiah dan IHSG yang terus membesar sepanjang sesi ini akan berlanjut dan belum mereda menjelang keputusan Bank Indonesia.",
+   "penanda": "Hasil Rapat Dewan Gubernur (RDG) Bank Indonesia",
+   "tenggat": null,
+   "tenggatLabel": "akan diumumkan dalam beberapa hari ke depan",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-21-3",
    "edisi": "2026-09-21",

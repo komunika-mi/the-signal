@@ -3,6 +3,109 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pbsa-rombak-nilai-saham-lewat-stock-split-ke-rp25",
+  "category": "Aksi Korporasi",
+  "title": "PBSA Rombak Nilai Saham Lewat [Stock Split] ke Rp25",
+  "deck": "RUPSLB Paramita Bangun Sarana menyetujui pemecahan nilai nominal saham dari Rp50 menjadi Rp25 per lembar, disetujui 99,99% suara yang hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T11:13:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05ab9e1487_cdc994147c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PBSA",
+  "tags": [
+   "PBSA",
+   "stock split",
+   "RUPSLB",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Paramita Bangun Sarana Tbk (PBSA) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 18 September 2026 di Shanghai Meeting Room, Merlynn Park Hotel Jakarta, dan dihadiri pemegang saham yang mewakili 2.645.298.100 lembar saham atau 88,62 persen dari total 2.984.886.300 saham dengan hak suara sah. Rapat menyetujui dua agenda: pemecahan nilai nominal saham (stock split) dari Rp50 menjadi Rp25 per saham, serta perubahan Pasal 4 Anggaran Dasar mengenai modal yang menyertainya. Kedua agenda disetujui dengan suara nyaris bulat, yakni 2.645.297.600 saham setuju atau 99,99 persen, tanpa suara menolak, dan 500 saham abstain.",
+   "Dalam keputusan itu, RUPSLB memberi kuasa kepada Direksi Perseroan untuk melaksanakan stock split sesuai kondisi pasar modal serta ketentuan Otoritas Jasa Keuangan dan Bursa Efek Indonesia, termasuk menetapkan tata cara dan jadwal pelaksanaannya. Salah satu anggota Direksi juga diberi wewenang dengan hak substitusi untuk menandatangani akta notaris dan mengurus persetujuan perubahan Anggaran Dasar ke instansi berwenang. Risalah rapat ini tercatat dalam akta notaris nomor 142 tanggal 18 September 2026 yang dibuat oleh notaris Yulia, S.H., dan salinan aktanya masih dalam proses penyelesaian di kantor notaris tersebut.",
+   "RUPSLB turut mengonfirmasi susunan Direksi dan Dewan Komisaris Perseroan tidak berubah untuk periode kedua yang berjalan sejak 25 Mei 2023 hingga 24 Mei 2028. Direksi terdiri dari Vincentius Susanto sebagai Direktur Utama, Evelyn Tanuwidjaja, dan Alexander Sayidiman sebagai Direktur. Dewan Komisaris terdiri dari Halim Susanto sebagai Komisaris Utama dan Roesdiman Soegiarso sebagai Komisaris."
+  ],
+  "fotoAdegan": "Bulldozer grading a wide reddish brown haul road through a Kalimantan coal mining site, misty morning light, no signage visible",
+  "takeaway": "Keputusan RUPSLB ini netral bagi fundamental Paramita Bangun Sarana, sebab stock split cuma memecah nilai nominal saham dan tidak mengubah ekuitas, kas, atau laba perusahaan sama sekali. Yang berubah adalah jumlah saham beredar, yang berpotensi naik dua kali lipat seiring nominal per saham turun dari Rp50 menjadi Rp25, sehingga laba per saham akan tercatat lebih kecil secara nominal meski porsi kepemilikan tiap pemegang saham tidak berkurang. Langkah semacam ini lazim dipakai emiten untuk membuat harga saham per lembar lebih terjangkau bagi investor ritel dan menambah likuiditas perdagangan, tanpa mengubah nilai fundamental perusahaan. Yang perlu dipantau berikutnya adalah proses pengesahan perubahan Pasal 4 Anggaran Dasar oleh Kementerian Hukum dan HAM serta jadwal resmi pelaksanaan stock split yang baru akan ditetapkan Direksi sesuai ketentuan OJK dan BEI, karena RUPSLB baru memberi kuasa dan belum menetapkan tanggal efektifnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "truk-pemegang-saham-baru-kuasai-15-hak-suara-guna-timur-raya",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Pemegang Saham Baru Kuasai [15%] Hak Suara Guna Timur Raya",
+  "deck": "PT Pukul Rata Kanan membeli 65,25 juta saham TRUK senilai Rp27,93 miliar lewat repurchase agreement, hak suaranya melompat dari 0 menjadi 15 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T10:48:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-1723-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUK",
+  "tags": [
+   "TRUK",
+   "Guna Timur Raya",
+   "kepemilikan saham",
+   "OJK"
+  ],
+  "body": [
+   "PT Guna Timur Raya Tbk (TRUK) menerima laporan kepemilikan saham dari PT Pukul Rata Kanan yang disampaikan ke Otoritas Jasa Keuangan pada 22 September 2026. Pelapor bukan anggota direksi maupun dewan komisaris TRUK. Dalam laporan itu disebutkan bahwa sebelum transaksi, PT Pukul Rata Kanan sama sekali tidak memegang saham TRUK, dengan hak suara 0 persen. Setelah transaksi, kepemilikannya menjadi 65.250.000 saham, setara 15 persen hak suara di perusahaan.",
+   "Transaksi dilakukan pada 18 September 2026 dengan harga Rp428 per saham, sehingga total nilainya sekitar Rp27,93 miliar. Status kepemilikannya tercatat sebagai pembelian tidak langsung, dengan jenis transaksi berupa repurchase agreement, yakni perjanjian jual beli saham yang disertai kesepakatan untuk dibeli kembali di kemudian hari, bentuk yang lazim dipakai sebagai skema pembiayaan berjaminan saham. Tujuan transaksi yang dicantumkan dalam laporan adalah investasi."
+  ],
+  "fotoAdegan": "Line of medium cargo trucks parked in a logistics yard at sunrise, workers inspecting tires and cargo straps",
+  "takeaway": "Laporan ini netral bagi fundamental Guna Timur Raya karena transaksinya berlangsung di pasar sekunder antar pemegang saham lewat repurchase agreement, bukan penjualan saham baru dari perusahaan, sehingga tidak ada dana segar yang masuk ke kas TRUK maupun perubahan jumlah saham beredar. Yang berubah hanya peta kepemilikan: PT Pukul Rata Kanan yang tadinya nol persen kini menguasai 15 persen hak suara, cukup besar untuk membuatnya wajib melapor sebagai pemegang saham substansial setiap kali kepemilikannya berubah lagi. Repurchase agreement sendiri berarti pembelian saham yang dibarengi janji dibeli kembali oleh pihak lain di kemudian hari, sehingga kepemilikan ini bisa jadi bersifat sementara dan bukan investasi jangka panjang biasa. Yang perlu dipantau selanjutnya adalah apakah PT Pukul Rata Kanan akan terus menambah kepemilikannya mendekati ambang batas pemegang saham pengendali, serta laporan susulan yang wajib muncul begitu ada perubahan kepemilikan lagi di TRUK.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fast-gelar-rupslb-14-oktober-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "FAST Gelar RUPSLB 14 Oktober, Bahas [Perubahan] Direksi",
+  "deck": "PT Fast Food Indonesia Tbk (FAST) memanggil pemegang saham untuk RUPSLB 14 Oktober 2026, membahas perubahan susunan direksi dan penyesuaian anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T10:42:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0441faf775_c005706033.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FAST",
+  "tags": [
+   "FAST",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Fast Food Indonesia Tbk (FAST) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 14 Oktober 2026 pukul 10.00 WIB. Rapat digelar secara hybrid, yaitu fisik di Gedung Gelael Lantai 5, Jl. MT Haryono Kav 7, Tebet, Jakarta Selatan, sekaligus virtual melalui platform eASY KSEI. Pemegang saham yang berhak hadir atau memberi kuasa adalah yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan 21 September 2026, dibuktikan dengan Konfirmasi Tertulis Untuk Rapat (KTUR).",
+   "Ada dua agenda dalam RUPSLB ini. Pertama, persetujuan perubahan susunan Direksi Perseroan, namun pemanggilan ini belum merinci nama direktur yang akan diganti atau ditambah. Kedua, persetujuan perubahan Pasal 3 Anggaran Dasar tentang Maksud dan Tujuan Perseroan, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 sesuai Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025. Perseroan menegaskan dalam dokumen bahwa perubahan dan penambahan kode KBLI ini tidak mengubah kegiatan usaha Perseroan yang sebenarnya, jadi sifatnya administratif mengikuti kewajiban penyesuaian kode klasifikasi usaha baru dari pemerintah.",
+   "Bagi pemegang saham yang ingin memberi kuasa di luar mekanisme eASY.KSEI, formulir kuasa tersedia di situs resmi Perseroan dan harus dikirimkan kepada Biro Administrasi Efek, PT Raya Saham Registra. Batas waktu pengisian deklarasi kehadiran, pemberian kuasa, maupun pengajuan pertanyaan atas agenda RUPSLB adalah satu hari kerja sebelum rapat, yakni Selasa, 13 Oktober 2026 pukul 12.00 WIB. Perseroan juga menyebutkan bahwa anggota Direksi, Dewan Komisaris, dan karyawan Perseroan boleh bertindak sebagai kuasa pemegang saham, tetapi suara yang mereka wakili tidak dihitung dalam pengambilan keputusan RUPSLB."
+  ],
+  "fotoAdegan": "Busy fried chicken quick-service restaurant counter inside an Indonesian shopping mall, staff serving customers, bright afternoon light, no visible signage.",
+  "takeaway": "Laporan ini netral bagi FAST, karena agenda RUPSLB hanya berisi rencana perubahan susunan direksi yang belum dirinci namanya, dan penyesuaian kode klasifikasi usaha yang secara eksplisit dinyatakan Perseroan tidak mengubah kegiatan usaha sebenarnya. Perubahan direksi memang menyentuh tata kelola perusahaan, yaitu siapa yang mengambil keputusan strategis ke depan, tapi dampaknya baru bisa dinilai setelah nama-nama pengganti diumumkan karena RUPSLB ini tidak menyebut satu pun. Agenda kedua soal anggaran dasar juga tidak menyentuh pos keuangan seperti ekuitas atau laba per saham, sifatnya cuma menyesuaikan istilah kode usaha dengan aturan baru Badan Pusat Statistik. Yang perlu dipantau adalah hasil RUPSLB pada 14 Oktober 2026 itu sendiri, termasuk siapa yang akhirnya masuk atau keluar dari jajaran direksi, dengan tenggat pemberian kuasa dan pertanyaan pemegang saham jatuh pada 13 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "truk-pemegang-saham-baru-kuasai-5-via-repurchase-agreement",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Pemegang Saham Baru Kuasai 5% via [Repurchase Agreement]",
+  "deck": "HAKIMSON GROWTH CAPITAL melaporkan kepemilikan baru 21,75 juta saham TRUK berjenis hak suara multiple lewat repurchase agreement, hak suara naik dari 0 persen menjadi 5 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T10:41:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-1484-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUK",
+  "tags": [
+   "TRUK",
+   "Guna Timur Raya",
+   "kepemilikan saham",
+   "hak suara multiple"
+  ],
+  "body": [
+   "PT Guna Timur Raya Tbk (TRUK) menerima laporan keterbukaan informasi dari HAKIMSON GROWTH CAPITAL, pihak yang bukan direksi maupun komisaris perusahaan, yang menyatakan kini menguasai 21.750.000 saham TRUK. Sebelumnya pelapor sama sekali tidak memegang saham perusahaan ini. Dengan tambahan tersebut, hak suaranya di TRUK naik dari 0 persen menjadi 5 persen, sesuai laporan bernomor LK/22092026/0003/1 yang disampaikan ke Otoritas Jasa Keuangan pada 22 September 2026.",
+   "Transaksi tercatat terjadi pada 18 September 2026 dengan harga Rp428 per saham, berupa pembelian tidak langsung melalui mekanisme repurchase agreement, yaitu perjanjian pembelian kembali yang lazim dipakai untuk memindahkan sementara kepemilikan saham antar pihak, bukan penjualan saham baru dari perusahaan. Saham yang berpindah tangan berklasifikasi saham dengan hak suara multiple, jenis saham yang memberi bobot suara lebih besar per lembarnya dibanding saham biasa di rapat pemegang saham.",
+   "Kolom jumlah EBE yang belum dilaksanakan dan batas akhir periode pelaksanaan pada laporan ini kosong, menandakan transaksi bukan bagian dari program opsi saham karyawan atau instrumen sejenis. Laporan ini muncul pada hari yang sama dengan laporan lain yang menyebut pemegang saham baru TRUK menguasai 15 persen hak suara, sehingga ada dua perubahan kepemilikan signifikan yang dilaporkan ke bursa dalam waktu berdekatan."
+  ],
+  "fotoAdegan": "Rows of cargo trucks parked at a logistics depot in Indonesia during early morning, drivers checking tires before departure",
+  "takeaway": "Laporan ini netral bagi fundamental Guna Timur Raya karena transaksinya berupa pengalihan kepemilikan tidak langsung lewat repurchase agreement antar pemegang saham, bukan penerbitan saham baru yang mengalirkan dana segar ke kas perusahaan. Yang tersentuh hanya struktur hak suara, bukan jumlah saham beredar perusahaan secara keseluruhan; karena saham yang berpindah tangan berjenis hak suara multiple, pengaruh HAKIMSON GROWTH CAPITAL terhadap keputusan RUPS berpotensi lebih besar daripada sekadar angka 5 persen kepemilikan ekonomisnya. Pasar perlu mencermati apakah pelapor ini terafiliasi dengan pemegang saham baru lain yang pada hari yang sama juga dilaporkan menguasai 15 persen hak suara TRUK, sebab jika keduanya satu kelompok, porsi gabungan bisa mendekati level yang biasanya memicu kewajiban keterbukaan tambahan. Yang perlu dipantau berikutnya adalah kemungkinan laporan susulan dari KSEI atau keterbukaan informasi dari TRUK yang menjelaskan hubungan antar pemegang saham baru ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "giias-semarang-2026-digelar-mobil-listrik-dominasi-peserta",
   "category": "Industri",
   "title": "GIIAS Semarang 2026 Digelar, [Mobil Listrik] Dominasi Peserta",
@@ -137,6 +240,137 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Bantuan Rp2,97 miliar ini bukan kebijakan moneter, melainkan program tanggung jawab sosial Bank Indonesia yang diwajibkan Undang-Undang Pengembangan dan Penguatan Sektor Keuangan, aturan yang antara lain mengharuskan bank sentral ikut mendanai program edukasi dan pemberdayaan masyarakat di luar tugas utamanya mengatur uang beredar dan suku bunga. Yang terdampak langsung adalah warga di tujuh provinsi rawan asap, terutama anak-anak dan lansia yang jadi sasaran posko kesehatan gratis, serta pemerintah daerah dan BNPB yang mengelola penyalurannya di lapangan. Skala bantuan ini tergolong kecil dibanding luasnya wilayah terdampak, dan tenaga kesehatan hanya dikerahkan sepekan, 21 sampai 27 September, sehingga polanya terlihat sebagai respons darurat musiman ketimbang program penanganan karhutla jangka panjang. Yang perlu dicermati setelah tenggat itu adalah apakah kabut asap masih berlangsung dan apakah Bank Indonesia atau BNPB menambah dukungan lanjutan, karena itu akan menentukan apakah bantuan ini cukup atau baru respons awal.",
   "imageV": "muc4wf04"
+ },
+ {
+  "slug": "hexa-akui-margin-tergerus-pangsa-pasar-ke-16-7-persen",
+  "category": "Aksi Korporasi",
+  "title": "HEXA Akui Margin Tergerus, [Pangsa Pasar] ke 16,7 Persen",
+  "deck": "Paparan publik tahunan HEXA mengungkap margin laba tergerus, pangsa pasar turun ke 16,7 persen, dan realisasi kuartal pertama 2026 baru sekitar seperlima dari target tahunan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T10:35:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac656a24ad_c309aedba7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEXA",
+  "tags": [
+   "HEXA",
+   "public expose",
+   "pangsa pasar",
+   "Hexindo Adiperkasa"
+  ],
+  "body": [
+   "PT Hexindo Adiperkasa Tbk (HEXA) menggelar Public Expose Tahunan pada Kamis, 17 September 2026, pukul 14.00 sampai 15.30 WIB secara virtual melalui Ms Teams. Sebanyak 16 peserta hadir di luar jajaran manajemen dan karyawan perseroan, terdiri dari investor, analis, serta wartawan dari Bisnis Indonesia dan Kontan. Presiden Direktur Dwi Swasono dan Direktur Yoshendri tampil sebagai pembicara memaparkan ikhtisar kinerja operasional dan keuangan, dengan Corporate Secretary Listiana A. Kurniawati sebagai moderator sesi tanya jawab.",
+   "Menjawab pertanyaan analis soal margin laba yang terus menurun beberapa tahun terakhir dan berlanjut di kuartal pertama tahun buku 2026, Yoshendri menjelaskan bahwa perseroan mencatat laporan keuangan dalam dolar AS namun bertransaksi dalam rupiah sesuai aturan di Indonesia, sementara pembelian inventori alat berat dilakukan dalam dolar AS. Ketika rupiah melemah, biaya pembelian naik, tetapi perseroan tidak selalu bisa menaikkan harga jual karena harus mempertimbangkan persaingan, sehingga marjin penjualan tergerus. Manajemen menyebut sedang mengevaluasi apakah akan tetap memakai dolar AS dalam transaksi atau beralih sepenuhnya ke rupiah. Harga komoditas seperti batu bara, sawit, dan pulp juga disebut berpengaruh besar terhadap bisnis alat berat perseroan.",
+   "Dwi Swasono mengungkapkan pangsa pasar Hexindo turun dari 19,3 persen pada tahun buku 2020 menjadi 16,7 persen pada tahun buku 2025, akibat makin banyaknya pemain baru dari luar Jepang, termasuk produsen alat berat asal Tiongkok. Untuk tahun 2026, manajemen menargetkan pangsa pasar sekitar 18 persen dengan sektor agro sebagai kontributor terbesar. Untuk target keuangan, manajemen membidik pendapatan US$589 juta dan laba bersih US$18,4 juta sepanjang 2026, sementara realisasi kuartal pertama yang berakhir Juni 2026 baru mencatat pendapatan US$113,8 juta dan laba bersih US$4,9 juta. Manajemen menyebut pesanan pelanggan tambang yang sempat tertahan karena menunggu izin RKAB batu bara kini bisa mulai direalisasikan sampai Februari 2027, terutama untuk ekskavator kelas 120 ton dan 200 ton.",
+   "Perseroan juga mengonfirmasi rencana perubahan nama merek Hitachi menjadi LANDCROS yang efektif berlaku 1 April 2027, sebagai langkah ekspansi dari fokus ekskavator ke lini alat berat lain, dengan produk dan kualitas yang disebut tidak berubah. Di luar itu, Hexindo tengah merambah lini bisnis baru seperti truk Foton, alat berat WIXIM, dan aplikasi berbasis kecerdasan buatan, yang menurut manajemen ditujukan menambah portofolio produk tanpa mengorbankan fokus pada bisnis inti."
+  ],
+  "fotoAdegan": "Heavy excavators lined up at a machinery yard near a palm oil plantation, technicians checking tracks, hazy tropical morning light",
+  "takeaway": "Laporan ini condong negatif bagi Hexindo, karena manajemen sendiri mengakui margin laba terus tergerus beberapa tahun terakhir dan pangsa pasar turun dari 19,3 persen jadi 16,7 persen, sementara realisasi pendapatan kuartal pertama baru sekitar seperlima dari target setahun. Yang tersentuh di sini adalah marjin laba dan pendapatan, dua pos yang langsung menentukan seberapa besar untung yang bisa dinikmati pemegang saham dari setiap rupiah penjualan; kalau marjin terus menyusut sementara realisasi jauh di bawah target, laba bersih akhir tahun berisiko meleset lagi seperti yang terjadi pada tahun buku 2025. Ada faktor yang bisa meredam tekanan ini, yaitu backlog pesanan alat berat tambang yang sempat tertahan menunggu izin RKAB batu bara kini bisa mulai dikirim sampai Februari 2027, dan permintaan sektor agro yang jadi kontributor terbesar Hexindo diperkirakan naik seiring harga sawit. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal ketiga dan keempat 2026, untuk melihat apakah pengiriman backlog benar terealisasi dan target pendapatan US$589 juta serta laba bersih US$18,4 juta bisa terkejar, mengingat realisasi kuartal pertama masih jauh tertinggal dari target tahunan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "truk-catur-dharma-lepas-seluruh-20-saham-guna-timur-raya",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Catur Dharma [Lepas] Seluruh 20% Saham Guna Timur Raya",
+  "deck": "Catur Dharma Anugerah Surya melepas seluruh 87 juta saham atau 20 persen hak suaranya di Guna Timur Raya (TRUK) lewat repurchase agreement seharga Rp428 per saham pada 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T10:31:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-7169-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUK",
+  "tags": [
+   "TRUK",
+   "Guna Timur Raya",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "body": [
+   "Catur Dharma Anugerah Surya, pemegang saham PT Guna Timur Raya Tbk (TRUK) yang bukan anggota direksi maupun dewan komisaris, melaporkan kepada Otoritas Jasa Keuangan bahwa ia telah menjual seluruh 87.000.000 lembar saham miliknya di TRUK. Sebelum transaksi, kepemilikannya setara 20 persen hak suara perusahaan, setelah transaksi hak suaranya menjadi nol persen. Penjualan dilakukan secara tidak langsung lewat skema repurchase agreement pada 18 September 2026, dengan harga Rp428 per saham, dan dicatat dengan tujuan rebalancing portofolio.",
+   "Laporan ini melengkapi dua laporan keterbukaan informasi TRUK yang terbit pada hari yang sama, yang masing-masing mencatat munculnya pemegang saham baru dengan 15 persen dan 5 persen hak suara lewat skema repurchase agreement serupa. Jumlah keduanya, 20 persen, persis sama dengan hak suara yang dilepas Catur Dharma Anugerah Surya, sehingga tiga laporan ini tampak sebagai satu rangkaian pemindahan kepemilikan 20 persen saham TRUK dari satu pihak ke dua pihak baru.",
+   "Pelaporan ini merupakan kewajiban sesuai Pasal 2 Ayat 2 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap pemegang saham yang kepemilikannya berubah signifikan melaporkan hal itu kepada OJK melalui sistem KSEI."
+  ],
+  "fotoAdegan": "Fleet of parked cargo trucks in a logistics yard at dawn, drivers inspecting tires, warehouse silhouette in background",
+  "takeaway": "Laporan ini netral bagi fundamental Guna Timur Raya, karena pelepasan 87 juta saham ini adalah transaksi pasar sekunder lewat repurchase agreement antar pemegang saham, bukan penerbitan saham baru yang menambah jumlah saham beredar perusahaan. Yang tersentuh hanya komposisi pemegang saham dan hak suara, sementara ekuitas dan jumlah saham beredar TRUK di pasar tidak berubah, sehingga tidak ada dampak langsung ke laba per saham atau arus kas perusahaan. Yang perlu dipantau adalah apakah kepemilikan gabungan dua pemegang saham baru itu mengubah siapa pengendali TRUK, sesuatu yang biasanya harus diumumkan lewat keterbukaan informasi terpisah menyusul tanggal transaksi 18 September 2026 ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vico-bagikan-dividen-tunai-rp121-7-m-29-pemegang-saham-menolak",
+  "category": "Aksi Korporasi",
+  "title": "VICO Bagikan [Dividen] Tunai Rp121,7 M, 29% Pemegang Saham Menolak",
+  "deck": "RUPSLB VICO menyetujui dividen tunai Rp8 per saham senilai Rp121,7 miliar, tapi hampir 29 persen suara yang hadir menyatakan tidak setuju.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T10:19:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cb9b1a9ac_15e0b021ac.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICO",
+  "tags": [
+   "VICO",
+   "dividen",
+   "RUPSLB",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Victoria Investama Tbk (VICO) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 18 September 2026 di Graha BIP, Jakarta Selatan, yang dihadiri pemegang saham mewakili 13.982.928.786 saham atau 91,89 persen dari total 15.217.075.658 saham perseroan. Rapat dipimpin jajaran direksi dan komisaris, yaitu Direktur Utama Aldo Jusuf Tjahaja, Direktur Ruly Dwi Rahayu, Komisaris Utama Untung Woenardi, dan Komisaris Independen Retno Dwiyanti. Agenda tunggal rapat adalah persetujuan penggunaan sebagian laba ditahan tahun buku 2025 untuk dibagikan sebagai dividen tunai, dengan nilai Rp121.736.605.264 atau 8,27 persen dari saldo laba ditahan perseroan, setara Rp8 untuk setiap saham.",
+   "Keputusan ini tidak disetujui secara bulat. Dari total suara yang hadir, 9.932.070.348 suara atau 71,03 persen menyatakan setuju, sementara 4.050.850.438 suara atau 28,97 persen menyatakan tidak setuju, dan tidak ada suara abstain. Tidak ada pemegang saham yang mengajukan pertanyaan atau pendapat selama pembahasan agenda ini, meski hampir sepertiga suara akhirnya menolak keputusan dividen tersebut.",
+   "Perseroan juga merinci jadwal pembagian dividen. Periode perdagangan saham yang masih mengandung hak dividen berakhir pada 28 September 2026 untuk pasar reguler dan negosiasi, serta 30 September 2026 untuk pasar tunai. Tanggal pencatatan pemegang saham yang berhak menerima dividen ditetapkan 30 September 2026 pukul 16.00 WIB, dan pembayaran dividen tunai dijadwalkan pada 22 Oktober 2026 melalui KSEI bagi pemegang saham tanpa warkat. Rapat juga memberi wewenang penuh kepada direksi untuk mengatur tata cara dan jadwal teknis pelaksanaan pembayaran dividen tersebut. Laporan ini merupakan koreksi atas surat perseroan sebelumnya bernomor 018/VI/DIR/IX/2026 yang membahas topik sama, namun isi hasil keputusan yang disampaikan pada koreksi ini tidak berbeda dari yang telah dipaparkan."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with rows of chairs facing a podium, tall windows overlooking Jakarta's skyline, soft morning light.",
+  "takeaway": "Pembagian dividen tunai ini condong netral bagi VICO. Uang memang mengalir ke pemegang saham, tapi porsinya cuma 8,27 persen dari total laba ditahan sehingga bantalan kas perseroan masih tebal, dan yang justru mencolok adalah hampir 29 persen suara yang hadir menolak keputusan ini, angka penolakan yang tidak lazim untuk agenda dividen yang biasanya disetujui nyaris bulat. Begitu dibayarkan, dividen ini akan mengurangi pos laba ditahan dan kas perseroan sebesar Rp121,7 miliar, sementara jumlah saham beredar tidak berubah sehingga tidak ada risiko pengenceran kepemilikan bagi pemegang saham lama. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham yang berhak menerima dividen pada 30 September 2026 dan tanggal pembayaran pada 22 Oktober 2026, sekaligus apakah perseroan nantinya menjelaskan alasan di balik proporsi penolakan yang cukup besar dalam RUPSLB ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-33-700-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem Jual [33.700] Saham Lagi",
+  "deck": "Henry Liem melepas 33.700 saham AKPI pada 21 September di harga Rp530, penjualan ketiga dalam kurang dari dua pekan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T10:00:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8137-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima Industry",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan penjualan 33.700 lembar saham perseroan kepada Otoritas Jasa Keuangan. Transaksi dilakukan pada 21 September 2026 dengan harga Rp530 per saham, dengan tujuan yang tertulis dalam laporan sebagai 'jual saham'. Penjualan dilakukan secara tidak langsung.",
+   "Dengan transaksi ini, kepemilikan Henry Liem di AKPI berkurang dari 7.520.459 lembar menjadi 7.486.759 lembar saham. Hak suaranya di perseroan pun turun tipis dari 1,2283 persen menjadi 1,2228 persen. Jumlah saham yang dilepas setara 0,4481 persen dari total kepemilikannya sebelum transaksi.",
+   "Laporan ini merupakan yang ketiga dari Henry Liem dalam waktu kurang dari dua pekan. Sebelumnya pada 15 September 2026, ia juga melaporkan penjualan yang membuat hak suaranya turun dari 1,2528 persen menjadi 1,2283 persen."
+  ],
+  "fotoAdegan": "Workers monitoring rolls of clear plastic packaging film on an industrial extrusion line inside a factory, bright fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi AKPI karena porsi saham yang dijual kembali sangat kecil, kurang dari setengah persen dari kepemilikan Henry Liem, dan hak suaranya di perseroan nyaris tidak berubah, dari 1,2283 persen menjadi 1,2228 persen. Yang tersentuh di sini murni struktur kepemilikan pemegang saham, bukan kondisi keuangan perseroan seperti kas atau utang, karena jumlah total saham beredar AKPI tidak berubah oleh transaksi ini. Yang perlu dicermati adalah polanya, sebab ini penjualan ketiga oleh komisaris yang sama dalam waktu kurang dari dua pekan sejak 15 September 2026. Kalau tren pelepasan bertahap ini berlanjut di laporan-laporan berikutnya, pelaku pasar biasanya mulai memperhatikan apakah ada alasan di baliknya, meski secara individual setiap transaksi masih tergolong kecil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vico-jadwalkan-pembayaran-dividen-rp121-7-m-22-oktober",
+  "category": "Aksi Korporasi",
+  "title": "VICO Jadwalkan Pembayaran Dividen Rp121,7 M [22 Oktober]",
+  "deck": "RUPSLB VICO menyetujui dividen tunai Rp8 per saham, dengan tanggal pencatatan pemegang saham 30 September dan pembayaran 22 Oktober 2026, setelah 29 persen suara menolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T09:51:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b134757b35_21dd1889e8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICO",
+  "tags": [
+   "VICO",
+   "dividen",
+   "RUPSLB",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Victoria Investama Tbk (VICO) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 18 September 2026 yang dihadiri pemegang saham mewakili 13.982.928.786 saham atau 91,89 persen dari total 15.217.075.658 saham beredar. Dalam pemungutan suara, 9.932.070.348 suara atau 71,03 persen setuju dengan agenda pembagian dividen, sementara 4.050.850.438 suara atau 28,97 persen menolak dan tidak ada suara abstain. Rapat akhirnya menyetujui penggunaan sebagian laba ditahan tahun buku 2025, yang telah diaudit Kantor Akuntan Publik Heliantono dan Rekan Parker Russell International, sebesar Rp121.736.605.264 atau setara 8,27 persen dari saldo laba ditahan, untuk dibagikan sebagai dividen tunai Rp8 per saham.",
+   "Perseroan juga merinci jadwal pelaksanaannya. Periode perdagangan saham yang masih mengandung hak dividen berlangsung hingga 28 September 2026 di pasar reguler dan negosiasi, serta hingga 30 September 2026 di pasar tunai. Setelahnya, saham diperdagangkan tanpa hak dividen mulai 29 September 2026 di pasar reguler dan negosiasi, serta mulai 1 Oktober 2026 di pasar tunai. Tanggal pencatatan pemegang saham yang berhak atas dividen ditetapkan 30 September 2026 pukul 16.00 WIB, dan dividen akan dibayarkan pada 22 Oktober 2026 melalui KSEI ke rekening perusahaan efek atau bank kustodian.",
+   "Rapat dipimpin jajaran manajemen Perseroan, yaitu Direktur Utama Aldo Jusuf Tjahaja, Direktur Ruly Dwi Rahayu, Komisaris Utama Untung Woenardi, dan Komisaris Independen Retno Dwiyanti, dengan notaris Fathiah Helmi turut hadir mencatat risalah. Direksi juga diberi wewenang penuh untuk mengatur teknis pembagian dan pembayaran dividen tersebut. Dokumen turut mengatur bahwa dividen bagi wajib pajak badan dalam negeri dikecualikan dari pemotongan pajak penghasilan, sementara pemegang saham asing dapat memperoleh tarif pajak lebih rendah sesuai perjanjian penghindaran pajak berganda jika menyerahkan dokumen domisili pajak paling lambat 30 September 2026."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower along Jalan Gatot Subroto in Jakarta, seen from street level in late afternoon light.",
+  "takeaway": "Laporan ini netral bagi VICO karena dividen yang disetujui hanya mengambil 8,27 persen dari saldo laba ditahan, porsi yang relatif kecil sehingga tidak menggerus bantalan modal perusahaan secara berarti, meski hampir 29 persen suara pemegang saham menolak usulan ini saat rapat berlangsung. Pos yang tersentuh adalah laba ditahan dan arus kas Perseroan, karena begitu dibayarkan pada 22 Oktober 2026, kas internal VICO akan berkurang Rp121,7 miliar tanpa melibatkan utang baru atau penerbitan saham tambahan. Yang perlu dipantau pemegang saham adalah tanggal pencatatan 30 September 2026 pukul 16.00 WIB, karena hanya nama yang tercatat di daftar pemegang saham pada saat itu yang berhak menerima dividen, sebelum dana benar-benar cair pada 22 Oktober 2026 melalui KSEI.",
+  "sentimen": "netral"
  },
  {
   "slug": "mpxl-dirikan-anak-usaha-otomotif-auto-prime-indonesia",

@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pbsa-rombak-nilai-saham-lewat-stock-split-ke-rp25",
+  "category": "Aksi Korporasi",
+  "title": "PBSA Rombak Nilai Saham Lewat [Stock Split] ke Rp25",
+  "deck": "RUPSLB Paramita Bangun Sarana menyetujui pemecahan nilai nominal saham dari Rp50 menjadi Rp25 per lembar, disetujui 99,99% suara yang hadir.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PBSA",
+   "stock split",
+   "RUPSLB",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05ab9e1487_cdc994147c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "truk-pemegang-saham-baru-kuasai-15-hak-suara-guna-timur-raya",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Pemegang Saham Baru Kuasai [15%] Hak Suara Guna Timur Raya",
+  "deck": "PT Pukul Rata Kanan membeli 65,25 juta saham TRUK senilai Rp27,93 miliar lewat repurchase agreement, hak suaranya melompat dari 0 menjadi 15 persen.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "Guna Timur Raya",
+   "kepemilikan saham",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-1723-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fast-gelar-rupslb-14-oktober-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "FAST Gelar RUPSLB 14 Oktober, Bahas [Perubahan] Direksi",
+  "deck": "PT Fast Food Indonesia Tbk (FAST) memanggil pemegang saham untuk RUPSLB 14 Oktober 2026, membahas perubahan susunan direksi dan penyesuaian anggaran dasar.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FAST",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0441faf775_c005706033.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "truk-pemegang-saham-baru-kuasai-5-via-repurchase-agreement",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Pemegang Saham Baru Kuasai 5% via [Repurchase Agreement]",
+  "deck": "HAKIMSON GROWTH CAPITAL melaporkan kepemilikan baru 21,75 juta saham TRUK berjenis hak suara multiple lewat repurchase agreement, hak suara naik dari 0 persen menjadi 5 persen.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "Guna Timur Raya",
+   "kepemilikan saham",
+   "hak suara multiple"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-1484-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "giias-semarang-2026-digelar-mobil-listrik-dominasi-peserta",
   "category": "Industri",
   "title": "GIIAS Semarang 2026 Digelar, [Mobil Listrik] Dominasi Peserta",
@@ -93,6 +157,86 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819226.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "hexa-akui-margin-tergerus-pangsa-pasar-ke-16-7-persen",
+  "category": "Aksi Korporasi",
+  "title": "HEXA Akui Margin Tergerus, [Pangsa Pasar] ke 16,7 Persen",
+  "deck": "Paparan publik tahunan HEXA mengungkap margin laba tergerus, pangsa pasar turun ke 16,7 persen, dan realisasi kuartal pertama 2026 baru sekitar seperlima dari target tahunan.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEXA",
+   "public expose",
+   "pangsa pasar",
+   "Hexindo Adiperkasa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac656a24ad_c309aedba7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "truk-catur-dharma-lepas-seluruh-20-saham-guna-timur-raya",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Catur Dharma [Lepas] Seluruh 20% Saham Guna Timur Raya",
+  "deck": "Catur Dharma Anugerah Surya melepas seluruh 87 juta saham atau 20 persen hak suaranya di Guna Timur Raya (TRUK) lewat repurchase agreement seharga Rp428 per saham pada 18 September 2026.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "Guna Timur Raya",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-7169-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vico-bagikan-dividen-tunai-rp121-7-m-29-pemegang-saham-menolak",
+  "category": "Aksi Korporasi",
+  "title": "VICO Bagikan [Dividen] Tunai Rp121,7 M, 29% Pemegang Saham Menolak",
+  "deck": "RUPSLB VICO menyetujui dividen tunai Rp8 per saham senilai Rp121,7 miliar, tapi hampir 29 persen suara yang hadir menyatakan tidak setuju.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICO",
+   "dividen",
+   "RUPSLB",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cb9b1a9ac_15e0b021ac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-33-700-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem Jual [33.700] Saham Lagi",
+  "deck": "Henry Liem melepas 33.700 saham AKPI pada 21 September di harga Rp530, penjualan ketiga dalam kurang dari dua pekan.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima Industry",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8137-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vico-jadwalkan-pembayaran-dividen-rp121-7-m-22-oktober",
+  "category": "Aksi Korporasi",
+  "title": "VICO Jadwalkan Pembayaran Dividen Rp121,7 M [22 Oktober]",
+  "deck": "RUPSLB VICO menyetujui dividen tunai Rp8 per saham, dengan tanggal pencatatan pemegang saham 30 September dan pembayaran 22 Oktober 2026, setelah 29 persen suara menolak.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICO",
+   "dividen",
+   "RUPSLB",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b134757b35_21dd1889e8.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "mpxl-dirikan-anak-usaha-otomotif-auto-prime-indonesia",
@@ -6364,153 +6508,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4b57675dc_f0b0b602c9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ibst-go-private-bei-buka-sementara-suspensi-untuk-crossing-saham",
-  "category": "Aksi Korporasi",
-  "title": "IBST [Go Private]: BEI Buka Sementara Suspensi untuk Crossing Saham",
-  "deck": "Bursa membuka sementara perdagangan saham IBST di Pasar Negosiasi Selasa siang untuk transaksi crossing saham hasil buyback dalam proses go private dan delisting perseroan.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IBST",
-   "delisting",
-   "go private",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c09a000776_7b301b4ce1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lpck-ganti-komisaris-kinerja-1h26-menguat",
-  "category": "Aksi Korporasi",
-  "title": "LPCK Ganti [Komisaris], Kinerja 1H26 Menguat",
-  "deck": "RUPSLB Lippo Cikarang menyetujui Ketut Budi Wijaya sebagai komisaris baru menggantikan Charles Rigoux, seiring pra-penjualan dan margin EBITDA perseroan yang naik pada semester I 2026.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPCK",
-   "Lippo Cikarang",
-   "RUPSLB",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d23a2f8113_728bd37024.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kadi-selidiki-dugaan-dumping-baja-impor-tiongkok",
-  "category": "Industri",
-  "title": "KADI [Selidiki] Dugaan Dumping Baja Impor Tiongkok",
-  "deck": "KADI membuka penyelidikan antidumping atas baja lapis seng asal Tiongkok yang menguasai 81 persen impor Indonesia, menyusul aduan dua produsen lokal.",
-  "date": "15 September 2026",
-  "image": "assets/img/pabrik-gula.jpg",
-  "tags": [
-   "antidumping",
-   "baja",
-   "impor Tiongkok",
-   "KADI"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-impor-baja-lapis-seng-asal-tiongkok",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "utang-luar-negeri-ri-naik-swasta-justru-tertekan",
-  "category": "Makroekonomi",
-  "title": "Utang Luar Negeri RI Naik, Swasta Justru [Tertekan]",
-  "deck": "ULN Indonesia naik jadi US$454,8 miliar pada Juli 2026, ditopang penerbitan surat utang pemerintah, sementara utang luar negeri swasta justru menyusut.",
-  "date": "15 September 2026",
-  "image": "assets/img/utang-luar-negeri-ri-naik-swasta-justru-tertekan.jpg",
-  "imageV": "mu2a627h",
-  "tags": [
-   "utang luar negeri",
-   "Bank Indonesia",
-   "surat utang negara",
-   "APBN"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818826.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "maya-jonathan-tahir-jual-523-juta-saham-untuk-lunasi-utang",
-  "category": "Aksi Korporasi",
-  "title": "MAYA: Jonathan Tahir Jual 523 Juta Saham untuk [Lunasi Utang]",
-  "deck": "Jonathan Tahir menjual 523,36 juta saham MAYA senilai Rp10 per saham untuk melunasi utang, memangkas hak suaranya dari 5,89% menjadi 3,89%.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAYA",
-   "Bank Mayapada",
-   "kepemilikan saham",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15092026-9276-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "drma-bentuk-joint-venture-dengan-minth-group",
-  "category": "Aksi Korporasi",
-  "title": "DRMA Bentuk [Joint Venture] dengan Minth Group",
-  "deck": "PT Dharma Polimetal menggandeng Minth Group mendirikan PT Dharma Minth Indonesia, JV komponen otomotif kendaraan roda empat dengan modal disetor Rp45 miliar.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DRMA",
-   "joint venture",
-   "Minth Group",
-   "komponen otomotif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/32b011d038_afe61d4f85.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lulusan-ciputra-bangun-bisnis-soto-di-sidoarjo",
-  "category": "UMKM",
-  "title": "Lulusan Ciputra Bangun Bisnis [Soto] di Sidoarjo",
-  "deck": "Anisa Intan Amalia, 24 tahun, mendirikan restoran soto khas Ngawi di Sidoarjo dengan bekal pendidikan bisnis kuliner dari Universitas Ciputra.",
-  "date": "15 September 2026",
-  "image": "assets/img/lulusan-ciputra-bangun-bisnis-soto-di-sidoarjo.jpg",
-  "imageV": "mu2a62qd",
-  "tags": [
-   "UMKM",
-   "bisnis kuliner",
-   "Sidoarjo",
-   "Universitas Ciputra"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467185-belajar-culinary-business-di-universitas-ciputra-anisa-kembangkan-soko-pawon-dengan-soto-khas-ngawi"
- },
- {
-  "slug": "mega-klaim-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "MEGA Klaim Tak Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "Bank Mega menjawab permintaan penjelasan BEI atas lonjakan transaksi dan penurunan harga sahamnya pada 10 September 2026, dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEGA",
-   "Bank Mega",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f71f736f7_a8456e8a60.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "paparan-publik-mika-laba-bersih-naik-ke-rp728-miliar-di-1h26",
-  "category": "Aksi Korporasi",
-  "title": "Paparan Publik MIKA: Laba Bersih Naik ke [Rp728 Miliar] di 1H26",
-  "deck": "Manajemen MIKA memaparkan laba bersih Rp728 miliar di semester I 2026, progres dua rumah sakit baru di BSD dan Malang, serta kebijakan dividen di atas 25 persen laba dalam Paparan Publik Tahunan.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MIKA",
-   "Mitra Keluarga",
-   "rumah sakit",
-   "paparan publik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9706ab7cc_4e28676355.pdf",
   "sourceLabel": "IDX"
  }
 ];

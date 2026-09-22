@@ -82,7 +82,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkret dari rapat ini ada di dua ujung rantai tekstil sekaligus. Di hulu, pemerintah akan meninjau ulang aturan Pertek, semacam izin teknis yang selama ini menjadi syarat masuknya bahan baku tekstil, dengan tujuan mempermudah pasokan bagi pabrik dalam negeri yang justru masih net importer sebesar US$8,4 miliar. Di hilir, Bea Cukai diminta menertibkan impor pakaian bekas lewat jalur kiloan dan ball press, yang selama ini bersaing langsung dengan produsen garmen lokal, sektor yang justru sudah surplus ekspor US$8,7 miliar. Yang terdampak jelas ada di dua sisi berbeda, yaitu importir dan pabrik bahan baku yang menunggu kemudahan di satu sisi, produsen garmen dalam negeri yang dirugikan banjir pakaian bekas di sisi lain. Arahnya tampak menuju kombinasi pelonggaran di hulu dan pengetatan di hilir, tapi baik revisi aturan Pertek maupun instruksi penertiban Bea Cukai belum punya tenggat pasti, jadi yang perlu ditunggu adalah apakah instruksi rapat terbatas ini benar-benar berubah menjadi revisi aturan resmi atau data penindakan impor pakaian bekas dalam beberapa bulan mendatang.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "ri-percepat-perjanjian-dagang-ieu-cepa-dengan-uni-eropa",
@@ -110,7 +110,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan isi kesepakatannya, melainkan tahapannya: dokumen IEU-CEPA sedang disiapkan dalam bahasa Inggris supaya bisa masuk ke meja Parlemen Eropa, langkah sebelum Indonesia sendiri meratifikasinya di dalam negeri. Pihak yang paling terdampak adalah pelaku usaha ekspor Indonesia, karena kesepakatan ini pada akhirnya menentukan seberapa mudah produk mereka masuk pasar Uni Eropa tanpa hambatan tarif yang selama ini berlaku. Rencana kunjungan Komisioner Uni Eropa Maroš Šefčovič serta pimpinan Uni Eropa ke Indonesia akhir Oktober atau awal November menunjukkan proses ini memang sedang didorong dari kedua sisi, bukan cuma keinginan sepihak Indonesia. Namun target pemerintah, yaitu ratifikasi pada semester kedua 2026 dan berlaku awal 2027, sebagian bergantung pada jadwal Parlemen Eropa yang tidak dikendalikan Indonesia, sehingga kunjungan akhir Oktober atau awal November itu menjadi penanda paling dekat untuk melihat apakah target tersebut masih di jalur atau mulai meleset.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "kemendag-luncurkan-inaexport-platform-ekspor-terintegrasi",

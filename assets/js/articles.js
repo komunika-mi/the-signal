@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "halo-direktur-keuangan-taufan-kurniawan-mundur",
+  "category": "Aksi Korporasi",
+  "title": "HALO: Direktur Keuangan Taufan Kurniawan [Mundur]",
+  "deck": "Taufan Kurniawan mengundurkan diri dari jabatan Direktur Keuangan PT Haloni Jane Tbk efektif 21 Oktober 2026, perseroan akan mengikuti ketentuan POJK 33/2014 untuk penunjukan pengganti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T22:29:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf4c454e97_f588f172c7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HALO",
+  "tags": [
+   "HALO",
+   "pergantian direksi",
+   "tata kelola perusahaan",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Haloni Jane Tbk (HALO) menyampaikan keterbukaan informasi bahwa perseroan menerima surat pengunduran diri dari Taufan Kurniawan selaku Direktur Keuangan pada 21 September 2026. Surat pemberitahuan resmi kepada Otoritas Jasa Keuangan ditandatangani oleh Louis Hans Laurence selaku direktur perseroan.",
+   "Dalam surat pengunduran dirinya, Taufan Kurniawan menyebut pengunduran diri berlaku efektif pada 21 Oktober 2026, setelah menjabat Direktur Keuangan selama dua tahun. Ia menyatakan akan tetap membantu proses transisi selama masa pemberitahuan, termasuk penyiapan laporan keuangan, koordinasi dengan tim terkait, dan pelatihan bagi penggantinya.",
+   "Perseroan menyatakan akan menjalankan proses lanjutan sesuai Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik. Dokumen ini belum menyebutkan nama calon pengganti maupun jadwal rapat umum pemegang saham untuk mengangkat direktur baru."
+  ],
+  "fotoAdegan": "Workers inspecting rows of medical rubber gloves on an automated production line inside a factory, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi HALO. Ini pengunduran diri satu direktur secara sukarela, disertai komitmen transisi selama masa pemberitahuan, tanpa indikasi sengketa atau temuan bermasalah di laporan keuangan. Posisi yang ditinggalkan adalah Direktur Keuangan, jabatan yang bertanggung jawab atas penyusunan dan keandalan laporan keuangan perseroan, sehingga kekosongan sementara di posisi ini biasa membuat pelaku pasar mencermati siapa dan seberapa cepat penggantinya ditunjuk. Berdasarkan POJK 33/2014, perseroan wajib mengangkat direktur pengganti melalui rapat umum pemegang saham dalam waktu tertentu, jadi yang perlu dipantau adalah kapan RUPS itu digelar dan siapa yang akan mengisi kursi Direktur Keuangan sebelum tanggal efektif pengunduran diri pada 21 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pemerintah-tertibkan-impor-baju-bekas-longgarkan-bahan-baku-tekstil",
   "category": "Industri",
   "title": "Pemerintah [Tertibkan] Impor Baju Bekas, Longgarkan Bahan Baku Tekstil",

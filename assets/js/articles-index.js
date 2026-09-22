@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "halo-direktur-keuangan-taufan-kurniawan-mundur",
+  "category": "Aksi Korporasi",
+  "title": "HALO: Direktur Keuangan Taufan Kurniawan [Mundur]",
+  "deck": "Taufan Kurniawan mengundurkan diri dari jabatan Direktur Keuangan PT Haloni Jane Tbk efektif 21 Oktober 2026, perseroan akan mengikuti ketentuan POJK 33/2014 untuk penunjukan pengganti.",
+  "date": "22 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HALO",
+   "pergantian direksi",
+   "tata kelola perusahaan",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf4c454e97_f588f172c7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-tertibkan-impor-baju-bekas-longgarkan-bahan-baku-tekstil",
   "category": "Industri",
   "title": "Pemerintah [Tertibkan] Impor Baju Bekas, Longgarkan Bahan Baku Tekstil",
@@ -6501,22 +6517,6 @@ var ARTICLES = [
    "public expose"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef597c6be3_95a4fea027.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-koreksi-laporan-realisasi-dana-rp3-4-triliun-obligasi-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "INKP Koreksi Laporan [Realisasi] Dana Rp3,4 Triliun Obligasi-Sukuk",
-  "deck": "Indah Kiat Pulp & Paper mengoreksi laporan realisasi dana Obligasi VI dan Sukuk Mudharabah V senilai total Rp4,61 triliun, dengan sisa dana Rp3,41 triliun masih tersimpan di bank.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi",
-   "sukuk mudharabah",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/364c03abe5_30bd2610d1.pdf",
   "sourceLabel": "IDX"
  }
 ];

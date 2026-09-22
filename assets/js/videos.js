@@ -2,6 +2,78 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "u6cMPnErGa0",
+  "title": "Mendag Sidak Harga Sembako, Cabai Masih Meroket",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Perdagangan Budi Santoso memantau harga sembako di Pasar Potro Jayan, Sleman, sementara harga cabai di sejumlah pasar masih bertahan tinggi.",
+  "takeaway": "Pemantauan harga pangan oleh pemerintah relevan bagi pembaca yang mengikuti tren inflasi dan daya beli masyarakat.",
+  "terbit": "2026-09-22T08:52:02+00:00"
+ },
+ {
+  "id": "UHgV9LrHJBk",
+  "title": "Bea Cukai Ungkap Penyelundupan Beras dan Garam",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Bea Cukai membongkar penyelundupan beras, garam, dan pakaian bekas ke Indonesia melalui modus pemberitahuan barang yang tidak sesuai.",
+  "takeaway": "Kasus ini menyangkut pengawasan arus barang impor yang berdampak pada perlindungan pasar dalam negeri.",
+  "terbit": "2026-09-22T08:45:59+00:00"
+ },
+ {
+  "id": "pI2nBFxDmuY",
+  "title": "Koperasi Desa Merah Putih Operasikan PLTS di Batam",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Koperasi Desa Merah Putih Galang Baru di Batam disiapkan untuk mengelola pembangkit listrik tenaga surya beserta sejumlah fasilitas pendukung.",
+  "takeaway": "Model koperasi energi ini menunjukkan arah baru pengelolaan energi terbarukan berbasis komunitas di daerah.",
+  "terbit": "2026-09-22T08:44:11+00:00"
+ },
+ {
+  "id": "yfCDFc54QBo",
+  "title": "DPR Setujui Revisi UU Kadin Jadi RUU Inisiatif",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "DPR RI menyetujui revisi Undang-Undang Nomor 1 Tahun 1987 tentang Kamar Dagang dan Industri menjadi RUU usul inisiatif parlemen.",
+  "takeaway": "Revisi UU Kadin berpotensi mengubah tata kelola organisasi dunia usaha yang berdampak luas bagi pelaku bisnis nasional.",
+  "terbit": "2026-09-22T08:43:22+00:00"
+ },
+ {
+  "id": "_ezfbwyRvi0",
+  "title": "Harga Cabai Rawit Merah Tembus Rp80.000 di Pasar Klender",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Harga cabai rawit merah di Pasar Klender, Jakarta, mencapai Rp80.000 per kilogram di tengah pemantauan harga sembako oleh Kementerian Perdagangan.",
+  "takeaway": "Lonjakan harga cabai menjadi salah satu indikator tekanan inflasi pangan yang dirasakan langsung masyarakat.",
+  "terbit": "2026-09-22T08:37:36+00:00"
+ },
+ {
+  "id": "gqIM5TsIJF0",
+  "title": "Harga Cabai di Pasar Pagesangan Surabaya Melonjak",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Harga cabai rawit di Pasar Pagesangan, Surabaya, melonjak hingga mencapai Rp60.000 per kilogram.",
+  "takeaway": "Kenaikan harga cabai di Surabaya menambah daftar daerah dengan tekanan inflasi pangan yang meningkat.",
+  "terbit": "2026-09-22T08:33:38+00:00"
+ },
+ {
+  "id": "QAwOactC_ww",
+  "title": "Pemkab Berau Dorong UMKM Tembus Pasar Internasional",
+  "category": "UMKM",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah Kabupaten Berau mengikuti Apkasi Otonomi Expo 2026 sembari mendorong UMKM lokal meningkatkan kualitas produk dan akses pasar internasional.",
+  "takeaway": "Upaya ini penting bagi pembaca yang mengikuti perkembangan daya saing UMKM daerah di pasar global.",
+  "terbit": "2026-09-22T08:22:02+00:00"
+ },
+ {
+  "id": "RN8kSid-9nA",
+  "title": "Menkeu Umumkan Utang BLBI Resmi Lunas",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Keuangan Suahasil Nazara mengumumkan kewajiban surat utang pemerintah terkait Bantuan Likuiditas Bank Indonesia era krisis 1997-1998 telah dinyatakan lunas.",
+  "takeaway": "Pelunasan utang BLBI menandai penyelesaian warisan krisis keuangan yang selama ini membebani fiskal negara.",
+  "terbit": "2026-09-22T08:18:03+00:00"
+ },
+ {
   "id": "tYJQGA17zpM",
   "title": "Pemerintah Percepat Pengembangan Bioetanol sebagai BBM Alternatif",
   "category": "Energi",

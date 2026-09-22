@@ -4,6 +4,70 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "u6cMPnErGa0",
+  "title": "Mendag Sidak Harga Sembako, Cabai Masih Meroket",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Perdagangan Budi Santoso memantau harga sembako di Pasar Potro Jayan, Sleman, sementara harga cabai di sejumlah pasar masih bertahan tinggi.",
+  "takeaway": "Pemantauan harga pangan oleh pemerintah relevan bagi pembaca yang mengikuti tren inflasi dan daya beli masyarakat."
+ },
+ {
+  "id": "UHgV9LrHJBk",
+  "title": "Bea Cukai Ungkap Penyelundupan Beras dan Garam",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Bea Cukai membongkar penyelundupan beras, garam, dan pakaian bekas ke Indonesia melalui modus pemberitahuan barang yang tidak sesuai.",
+  "takeaway": "Kasus ini menyangkut pengawasan arus barang impor yang berdampak pada perlindungan pasar dalam negeri."
+ },
+ {
+  "id": "pI2nBFxDmuY",
+  "title": "Koperasi Desa Merah Putih Operasikan PLTS di Batam",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Koperasi Desa Merah Putih Galang Baru di Batam disiapkan untuk mengelola pembangkit listrik tenaga surya beserta sejumlah fasilitas pendukung.",
+  "takeaway": "Model koperasi energi ini menunjukkan arah baru pengelolaan energi terbarukan berbasis komunitas di daerah."
+ },
+ {
+  "id": "yfCDFc54QBo",
+  "title": "DPR Setujui Revisi UU Kadin Jadi RUU Inisiatif",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "DPR RI menyetujui revisi Undang-Undang Nomor 1 Tahun 1987 tentang Kamar Dagang dan Industri menjadi RUU usul inisiatif parlemen.",
+  "takeaway": "Revisi UU Kadin berpotensi mengubah tata kelola organisasi dunia usaha yang berdampak luas bagi pelaku bisnis nasional."
+ },
+ {
+  "id": "_ezfbwyRvi0",
+  "title": "Harga Cabai Rawit Merah Tembus Rp80.000 di Pasar Klender",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Harga cabai rawit merah di Pasar Klender, Jakarta, mencapai Rp80.000 per kilogram di tengah pemantauan harga sembako oleh Kementerian Perdagangan.",
+  "takeaway": "Lonjakan harga cabai menjadi salah satu indikator tekanan inflasi pangan yang dirasakan langsung masyarakat."
+ },
+ {
+  "id": "gqIM5TsIJF0",
+  "title": "Harga Cabai di Pasar Pagesangan Surabaya Melonjak",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Harga cabai rawit di Pasar Pagesangan, Surabaya, melonjak hingga mencapai Rp60.000 per kilogram.",
+  "takeaway": "Kenaikan harga cabai di Surabaya menambah daftar daerah dengan tekanan inflasi pangan yang meningkat."
+ },
+ {
+  "id": "QAwOactC_ww",
+  "title": "Pemkab Berau Dorong UMKM Tembus Pasar Internasional",
+  "category": "UMKM",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah Kabupaten Berau mengikuti Apkasi Otonomi Expo 2026 sembari mendorong UMKM lokal meningkatkan kualitas produk dan akses pasar internasional.",
+  "takeaway": "Upaya ini penting bagi pembaca yang mengikuti perkembangan daya saing UMKM daerah di pasar global."
+ },
+ {
+  "id": "RN8kSid-9nA",
+  "title": "Menkeu Umumkan Utang BLBI Resmi Lunas",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Keuangan Suahasil Nazara mengumumkan kewajiban surat utang pemerintah terkait Bantuan Likuiditas Bank Indonesia era krisis 1997-1998 telah dinyatakan lunas.",
+  "takeaway": "Pelunasan utang BLBI menandai penyelesaian warisan krisis keuangan yang selama ini membebani fiskal negara."
+ },
+ {
   "id": "tYJQGA17zpM",
   "title": "Pemerintah Percepat Pengembangan Bioetanol sebagai BBM Alternatif",
   "category": "Energi",
@@ -418,69 +482,5 @@ var VIDEOS = [
   "program": "AKIM",
   "summary": "Antrean panjang kendaraan terjadi di sejumlah SPBU Makassar akibat kelangkaan BBM yang dipicu hambatan pasokan dan distribusi bahan bakar ke wilayah tersebut.",
   "takeaway": "Gangguan pasokan BBM di Makassar mencerminkan persoalan distribusi energi yang bisa berdampak pada aktivitas ekonomi dan pelaku usaha di Sulawesi Selatan."
- },
- {
-  "id": "PTVe3F8goO8",
-  "title": "SPBU di Barito Utara Dipenuhi Antrean Panjang Kendaraan",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Antrean panjang kendaraan terjadi setiap hari di sejumlah SPBU Kabupaten Barito Utara, Kalimantan Tengah, akibat kelangkaan pasokan BBM.",
-  "takeaway": "Menunjukkan dampak gangguan distribusi BBM di daerah terhadap mobilitas dan aktivitas ekonomi warga."
- },
- {
-  "id": "UUUgB3qscSA",
-  "title": "BPH Migas Pastikan Stok BBM Bersubsidi Aman",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "BPH Migas menjamin stok BBM bersubsidi maupun non subsidi tersedia dan terkendali, di tengah antrean panjang yang terjadi selama sepekan terakhir.",
-  "takeaway": "Relevan bagi pembaca karena menyangkut kepastian pasokan energi yang berpengaruh pada aktivitas ekonomi sehari-hari."
- },
- {
-  "id": "VrZC6qrtlNA",
-  "title": "Presiden Prabowo Rombak Kabinet, Menkeu Purbaya Diganti Suahasil",
-  "category": "Makroekonomi",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto merombak jajaran Kabinet Merah Putih dengan mengganti Menteri Keuangan Purbaya melalui Suahasil Nazara, sesuai kabar awal yang beredar Senin (14/9/2026).",
-  "takeaway": "Pergantian Menteri Keuangan penting dicermati pelaku pasar karena berpotensi memengaruhi arah kebijakan fiskal dan anggaran negara."
- },
- {
-  "id": "T-XFqBNsV4s",
-  "title": "Suahasil Nazara Dilantik Jadi Menkeu Gantikan Purbaya",
-  "category": "Makroekonomi",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto resmi melantik Suahasil Nazara, yang sebelumnya menjabat Wakil Menteri Keuangan, sebagai Menteri Keuangan baru di Istana Negara, Jakarta, Senin (14/9/2026).",
-  "takeaway": "Rekam jejak Suahasil Nazara sebagai mantan Wamenkeu memberi sinyal kesinambungan kebijakan fiskal di bawah kepemimpinan baru Kementerian Keuangan."
- },
- {
-  "id": "DTqXGOACddY",
-  "title": "Presiden Prabowo Lantik Suahasil Nazara Jadi Menkeu Baru",
-  "category": "Makroekonomi",
-  "program": "Breaking News",
-  "summary": "Suahasil Nazara resmi dilantik Presiden Prabowo Subianto sebagai Menteri Keuangan Republik Indonesia yang baru di Istana Negara, Jakarta, Senin (14/9/2026).",
-  "takeaway": "Pelantikan resmi ini menegaskan siapa yang akan memegang kendali kebijakan fiskal dan pengelolaan APBN ke depan."
- },
- {
-  "id": "bsO6Z0g1uVY",
-  "title": "Pantauan SPBU Makassar Usai Distribusi BBM",
-  "category": "Energi",
-  "program": "AKIS",
-  "summary": "Sejumlah SPBU di Makassar dipantau usai distribusi BBM dilakukan, menyusul kelangkaan pasokan yang sempat mengganggu aktivitas warga dan sekolah di Sulawesi Selatan.",
-  "takeaway": "Kelancaran distribusi BBM di daerah menjadi indikator penting stabilitas pasokan energi yang berdampak langsung pada aktivitas ekonomi masyarakat."
- },
- {
-  "id": "KWBEIs6fpA4",
-  "title": "Pertamina Perpanjang Jam Operasional SPBU di Makassar",
-  "category": "Energi",
-  "program": "AKIS",
-  "summary": "Pertamina memperpanjang jam operasional SPBU di Makassar dan menaikkan distribusi Pertalite dari sekitar 800 menjadi 1.300 kiloliter per hari, dengan 25 SPBU dioperasikan untuk mengurai antrean.",
-  "takeaway": "Langkah Pertamina menambah pasokan dan jam layanan mencerminkan respons korporasi energi negara terhadap gangguan rantai distribusi BBM di daerah."
- },
- {
-  "id": "M_RFzCtzpec",
-  "title": "BI Jatim Luncurkan Program Jelajah UMKM dan Pondok Pesantren",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Kantor Perwakilan Bank Indonesia Provinsi Jawa Timur meluncurkan program Jelajah UMKM dan Pondok Pesantren Jawa Timur 2026 lewat kick off di Surabaya pada 30 Juli 2026.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan peran bank sentral daerah dalam mendorong penguatan UMKM berbasis pesantren."
  }
 ];

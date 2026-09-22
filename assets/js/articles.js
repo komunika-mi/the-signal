@@ -3,6 +3,114 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-kejar-investasi-listrik-100-gw-menuju-nze-2050",
+  "category": "Energi",
+  "title": "Pemerintah Kejar Investasi Listrik [100 GW] Menuju NZE 2050",
+  "deck": "Pemerintah mematok kebutuhan investasi US$70-73 miliar untuk menambah kapasitas pembangkit listrik 100 gigawatt dan menaikkan porsi energi terbarukan menjadi 70 persen dalam RUPTL.",
+  "image": "assets/img/pemerintah-kejar-investasi-listrik-100-gw-menuju-nze-2050.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T09:10:44.764Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/menuju-nze-2050-2060-pemerintah-dorong-investasi-kelistrikan-100-gw-dan-penguatan-ebt",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "EBT",
+   "RUPTL",
+   "PLN",
+   "Investasi Listrik"
+  ],
+  "body": [
+   "Pemerintah menegaskan rencana pengembangan pembangkit listrik hingga 100 gigawatt (GW), satuan untuk mengukur kapasitas listrik dalam skala besar, sebagai bagian dari upaya mengejar target net zero emission atau nol emisi bersih pada rentang 2050 hingga 2060. Rencana ini disampaikan Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia dalam pembukaan forum Electricity Connect 2026 di Tangerang. Bagi masyarakat, arah kebijakan ini menyangkut dari mana pasokan listrik nasional akan berasal satu dekade ke depan, termasuk seberapa besar porsi energi bersih yang menggantikan pembangkit berbasis batu bara.",
+   "Bahlil menyebut pemerintah mendorong porsi energi baru terbarukan naik hingga 70 persen dalam Rencana Usaha Penyediaan Tenaga Listrik atau RUPTL, dokumen resmi yang memuat rencana pembangunan pembangkit dan jaringan listrik PLN untuk sepuluh tahun ke depan. Untuk merealisasikan tambahan 100 GW pembangkit itu, pemerintah memperkirakan kebutuhan investasi mencapai US$70-73 miliar, dengan syarat penggunaan komponen dalam negeri tetap diperhatikan dalam setiap proyeknya.",
+   "Direktur Utama PT PLN (Persero) Darmawan Prasodjo menambahkan, selain pembangkit baru, rencana ini juga mencakup pembangunan jaringan transmisi sepanjang 48.000 kilometer sirkuit untuk menyalurkan listrik dari lokasi pembangkit ke wilayah yang membutuhkan. Ia menyatakan kesiapan PLN menjalankan rencana tersebut sesuai arahan Kementerian ESDM.",
+   "Electricity Connect 2026 sendiri menjadi forum yang mempertemukan pemerintah, PLN, pelaku usaha, akademisi, dan investor dari dalam maupun luar negeri untuk membahas pendanaan dan pelaksanaan proyek kelistrikan tersebut."
+  ],
+  "fotoAdegan": "Engineers securing cables on a tall transmission tower amid green rice fields in rural Indonesia, overcast afternoon light.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-menuju-nze-2050-2060-pemerintah-dorong-investasi-kelistrikan-100-gw-dan-penguatan-ebt-hiisnyr.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah dari siaran ini bukan targetnya, karena porsi EBT 70 persen dan tambahan kapasitas 100 GW sebenarnya sudah tercantum dalam RUPTL yang diteken sebelumnya, melainkan angka kebutuhan investasi yang disebut eksplisit di forum ini, yaitu US$70-73 miliar, ditambah rencana jaringan transmisi baru sepanjang 48.000 kilometer sirkuit. Pihak yang paling terdampak adalah investor pembangkit dan produsen komponen listrik dalam negeri, karena pemerintah menegaskan syarat kandungan lokal, serta PLN yang harus membangun jaringan transmisi sepanjang itu. Sejauh ini forum seperti Electricity Connect 2026 baru sebatas ajang penegasan ulang rencana dan penjaringan minat investor, belum memuat kontrak atau komitmen investasi yang konkret. Yang akan menunjukkan apakah target 100 GW dan investasi US$70-73 miliar ini berjalan sesuai jadwal atau kembali molor seperti sejumlah proyek kelistrikan sebelumnya adalah laporan realisasi investasi dan progres pembangunan transmisi pada evaluasi RUPTL berikutnya.",
+  "imageV": "mucgn999"
+ },
+ {
+  "slug": "amran-buka-peluang-bumn-kelola-cadangan-kedelai",
+  "category": "BUMN",
+  "title": "Amran Buka Peluang [BUMN] Kelola Cadangan Kedelai",
+  "deck": "Kepala Bapanas Amran Sulaiman menyatakan BUMN bisa direkomendasikan mengelola cadangan kedelai nasional, asal sesuai regulasi yang masih akan dikaji.",
+  "image": "assets/img/amran-buka-peluang-bumn-kelola-cadangan-kedelai.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T16:00:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468623-amran-buka-peluang-bumn-kelola-cadangan-kedelai-stok-2026-diproyeksi-surplus-2909-ribu-ton",
+  "tags": [
+   "kedelai",
+   "BUMN",
+   "Bapanas",
+   "ketahanan pangan"
+  ],
+  "body": [
+   "Kepala Badan Pangan Nasional (Bapanas) yang juga Menteri Pertanian, Andi Amran Sulaiman, membuka peluang bagi badan usaha milik negara untuk mengelola cadangan kedelai nasional. Pernyataan ini disampaikan saat ia menjawab pertanyaan soal pentingnya cadangan kedelai di tengah pasokan dalam negeri yang masih bergantung pada impor. Bila rencana ini terwujud, pemerintah akan punya alat tambahan untuk menahan gejolak harga kedelai, komoditas yang selama ini ikut menentukan biaya produksi tahu dan tempe di berbagai daerah.",
+   "Amran mengatakan pemerintah tidak akan menghalangi apabila ada BUMN yang berminat menjalankan penugasan tersebut. Ia menyebut BUMN sebagai pihak yang semestinya mengelola cadangan kedelai, bukan kementerian yang ia pimpin. Meski begitu, ia belum menunjuk BUMN tertentu dan menegaskan pelaksanaannya baru bisa berjalan setelah dicocokkan dengan regulasi yang masih harus ditelaah lebih dulu.",
+   "Pernyataan itu disampaikan Amran di Jakarta, Selasa (22/9/2026), di sela penerimaan keluarga aparatur sipil negara Dinas Pertanian Kabupaten Jayawijaya yang gugur ditembak saat menyalurkan bantuan peternakan di Papua Pegunungan. Amran menilai keberadaan cadangan kedelai nasional penting agar pemerintah punya penyangga saat distribusi terganggu atau harga di pasar domestik bergejolak, mengingat sebagian besar kebutuhan kedelai nasional masih dipenuhi dari impor."
+  ],
+  "fotoAdegan": "Dock workers unloading large sacks of soybeans from a cargo ship at a busy Indonesian port, cranes overhead",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a97144e3305b-menteri-pertanian-andi-amran-sulaiman-kedua-kiri-bersama-jajaran-pejabat-lingkup-kementerian-pertanian-dalam-rapat-kerja-komisi-iv-dpr-ri-di-jakarta-selasa-192026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Amran belum mengambil keputusan, ia baru membuka pintu, BUMN dipersilakan mengajukan diri, tapi izinnya baru bisa keluar setelah dicocokkan dengan aturan yang masih akan dilihat ulang. Artinya yang berubah hari ini cuma sinyal keterbukaan, belum ada nama BUMN yang ditunjuk, belum ada angka berapa banyak kedelai yang mau dicadangkan, dan belum ada aturan turunan yang mengatur skemanya. Kalau rencana ini jalan, pihak yang paling merasakan dampaknya adalah pengusaha tahu dan tempe, karena harga kedelai impor selama ini langsung menekan biaya produksi mereka setiap kali kurs rupiah atau harga kedelai dunia bergerak. Yang perlu ditunggu untuk tahu apakah wacana ini serius adalah BUMN mana yang benar-benar mengajukan diri dan draf aturan Bapanas soal skema cadangan pangan strategis, sebab tanpa dua hal itu rencana ini masih bisa berhenti sebatas pernyataan.",
+  "imageV": "mucgn9nn"
+ },
+ {
+  "slug": "dprd-dki-minta-rencana-obligasi-daerah-ditinjau-ulang",
+  "category": "Pasar Modal",
+  "title": "DPRD DKI Minta Rencana [Obligasi] Daerah Ditinjau Ulang",
+  "deck": "Anggota Komisi A DPRD DKI Kevin Wu meminta Pemprov DKI meninjau ulang rencana obligasi daerah karena beban pembayarannya berisiko menjadi tanggungan warga Jakarta.",
+  "image": "assets/img/dprd-dki-minta-rencana-obligasi-daerah-ditinjau-ulang.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T15:40:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468626-dprd-dki-soroti-rencana-obligasi-daerah-beban-utang-jangan-sampai-jadi-tanggungan-warga",
+  "tags": [
+   "obligasi daerah",
+   "DPRD DKI Jakarta",
+   "Pemprov DKI",
+   "Kevin Wu"
+  ],
+  "body": [
+   "Anggota Komisi A DPRD DKI Jakarta dari fraksi PSI, Kevin Wu, meminta Pemerintah Provinsi DKI Jakarta meninjau ulang rencana penerbitan obligasi daerah. Permintaan ini penting karena menyangkut potensi utang baru yang harus ditanggung Jakarta, sementara pembayarannya bisa berlangsung bertahun-tahun ke depan.",
+   "Rencana obligasi daerah ini sebelumnya sempat mendapat dukungan dari Wali Kota New York Zohran Kwame Mamdani. Menurut Kevin, penerbitan obligasi memang bisa menjadi salah satu jalan bagi Pemprov DKI untuk memperoleh dana pembangunan, tetapi di sisi lain menimbulkan kewajiban pembayaran dalam jangka waktu tertentu yang harus dipenuhi pemerintah daerah.",
+   "Kevin mencontohkan, jika obligasi diterbitkan dengan jangka waktu tujuh tahun, kewajiban pelunasannya berpotensi belum selesai meski masa jabatan gubernur yang menerbitkannya sudah berakhir. Ia mempertanyakan siapa yang akan menanggung beban tersebut dalam kondisi demikian, dan menegaskan bahwa persoalan utang bukan hanya soal dana yang diperoleh, melainkan juga cara pengembaliannya.",
+   "Kevin menilai rencana ini bisa menjadi terobosan baru dalam pembiayaan pembangunan Jakarta, namun ia meminta Pemprov DKI mencermati lebih jauh risiko yang mungkin muncul. Menurutnya, kemampuan pengembalian serta dampaknya terhadap keuangan daerah dan masyarakat Jakarta perlu menjadi bagian penting dari pertimbangan sebelum rencana ini dilanjutkan."
+  ],
+  "fotoAdegan": "Wide view of elevated Jakarta toll roads and office towers under construction cranes, hazy late afternoon skyline, no visible signage.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/04/15/69dfbd15d21ed-anggota-komisi-a-dprd-dki-fraksi-psi-kevin-wu_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan angka atau keputusan resmi, melainkan sikap politik: anggota DPRD DKI dari fraksi PSI, Kevin Wu, secara terbuka meminta rencana penerbitan obligasi daerah ditinjau ulang. Obligasi daerah sendiri sederhananya adalah pemerintah daerah meminjam uang dari investor dengan janji mengembalikannya berikut bunga dalam jangka waktu tertentu, misalnya tujuh tahun seperti yang dicontohkan Kevin. Yang berpotensi terdampak adalah warga Jakarta, sebab kewajiban membayar cicilan utang itu bisa terus berjalan meski masa jabatan Gubernur Pramono Anung sudah selesai, sehingga menjadi beban anggaran daerah ke depan. Berita ini belum menyebut berapa nilai obligasi yang direncanakan, kapan akan diterbitkan, atau bagaimana sikap fraksi-fraksi lain di DPRD, sehingga arah rencana ini baru akan lebih jelas setelah Pemprov DKI mengajukan proposal resmi lengkap dengan angkanya ke DPRD.",
+  "imageV": "mucgna2g"
+ },
+ {
+  "slug": "bahlil-orang-mampu-jangan-pakai-pertalite-lagi",
+  "category": "Energi",
+  "title": "Bahlil: Orang Mampu [Jangan] Pakai Pertalite Lagi",
+  "deck": "Menteri ESDM Bahlil Lahadalia minta masyarakat mampu tak pakai Pertalite, menyusul temuan polisi soal Pajero bertangki modifikasi untuk menampung BBM subsidi di Makassar.",
+  "image": "assets/img/bahlil-orang-mampu-jangan-pakai-pertalite-lagi.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T15:00:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468610-bahlil-minta-orang-berduit-jangan-pakai-pertalite-soroti-modus-pajero-tampung-bbm-subsidi",
+  "tags": [
+   "Bahlil Lahadalia",
+   "Pertalite",
+   "BBM subsidi",
+   "Kementerian ESDM"
+  ],
+  "body": [
+   "Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia mengimbau masyarakat berpenghasilan besar dan kondisi ekonomi menengah ke atas untuk berhenti membeli BBM bersubsidi seperti Pertalite. Imbauan ini penting karena kuota BBM subsidi terbatas dan seharusnya diprioritaskan bagi masyarakat yang benar-benar berhak, sehingga pemakaian oleh kelompok mampu berisiko mengurangi jatah bagi yang membutuhkan.",
+   "Bahlil menyampaikan imbauan itu saat berada di ICE BSD, Tangerang, Selasa (22/9/2026). Ia meminta masyarakat yang memiliki kendaraan bagus dan penghasilan tinggi memberi kesempatan kepada kelompok yang memang berhak menerima subsidi BBM.",
+   "Bahlil juga menyoroti praktik penyalahgunaan BBM subsidi, salah satunya kasus yang ditemukan polisi di Makassar berupa mobil Pajero dengan tangki yang sudah dimodifikasi diperbesar. Tangki itu digunakan untuk menampung BBM subsidi dalam jumlah besar, yang kemudian dijual kembali oleh pemiliknya untuk meraih keuntungan.",
+   "Menurut Bahlil, praktik semacam itu membuat BBM subsidi berpindah dari tangan masyarakat yang berhak ke pihak yang justru mampu secara ekonomi. Ia menyebut kondisi ini sebagai bentuk ketidakadilan karena jatah subsidi yang semestinya untuk masyarakat kurang mampu justru diambil alih oleh pemilik kendaraan bagus untuk dijual lagi."
+  ],
+  "fotoAdegan": "SUV being refueled at a busy Indonesian gas station forecourt, attendant holding the pump nozzle, midday light, other pumps blurred behind.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/25/6a8d951c7b72e-menteri-esdm-bahlil-lahadalia-dalam-launching-dan-groundbreaking-program-plts-100-gwp-di-bali_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan Bahlil ini masih sebatas imbauan lisan, bukan aturan resmi yang membatasi pembelian Pertalite berdasarkan penghasilan atau jenis kendaraan. Yang berpotensi terdampak ada dua sisi, masyarakat mampu yang selama ini leluasa membeli BBM subsidi, dan masyarakat kurang mampu yang jatahnya berkurang kalau praktik penampungan seperti kasus Pajero bertangki modifikasi di Makassar terus terjadi. Yang belum jelas dari pernyataan ini adalah apakah imbauan bakal ditindaklanjuti dengan aturan pembatasan yang benar-benar mengikat di SPBU, misalnya lewat verifikasi kendaraan atau data pendapatan, atau berhenti sebagai imbauan tanpa sanksi seperti yang berulang kali disampaikan pejabat ESDM sebelumnya. Yang perlu dipantau adalah apakah kasus Pajero di Makassar berlanjut ke proses hukum dan apakah pemerintah mengumumkan skema pembatasan Pertalite yang lebih konkret dalam waktu dekat.",
+  "imageV": "mucgnak2"
+ },
+ {
   "slug": "vici-jadwalkan-rupslb-pada-29-oktober-2026",
   "category": "Aksi Korporasi",
   "title": "VICI Jadwalkan [RUPSLB] pada 29 Oktober 2026",
@@ -52,6 +160,33 @@ var ARTICLES = [
   "fotoAdegan": "Technicians working among humming server racks in a dim data center, blue status lights, Jakarta at night.",
   "takeaway": "Laporan ini netral bagi ITSEC Asia karena pelepasan 292.400 saham oleh MB Investment Management Pte Ltd hanya setara 0,0083 persen dari kepemilikannya, dan hak suaranya di perusahaan nyaris tidak bergeser dari 26,189 persen menjadi 26,18 persen. Yang tersentuh di sini adalah komposisi pemegang saham utama, bukan jumlah saham beredar perusahaan, sebab transaksi ini cuma perpindahan kepemilikan antar investor di pasar sekunder, bukan penerbitan saham baru oleh emiten. Pelaku pasar tetap memantau pergerakan MB Investment karena statusnya sebagai salah satu pemegang saham terbesar CYBR dengan porsi lebih dari seperempat perusahaan, sehingga polanya bisa jadi indikator sentimen investor asing. Yang perlu dipantau berikutnya adalah apakah penjualan bertahap seperti ini berlanjut di laporan-laporan kepemilikan saham selanjutnya, karena dokumen ini sendiri tidak menyebut agenda korporasi lain seperti RUPS atau tenggat tertentu.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "utang-blbi-era-krisis-1998-akhirnya-lunas",
+  "category": "Makroekonomi",
+  "title": "Utang BLBI Era Krisis 1998 Akhirnya [Lunas]",
+  "deck": "Pemerintah melunasi utang obligasi BLBI warisan krisis 1997-1998 pada Agustus 2026, dibayar memakai surplus Bank Indonesia senilai Rp55 triliun.",
+  "image": "assets/img/utang-blbi-era-krisis-1998-akhirnya-lunas.jpg",
+  "date": "22 September 2026",
+  "isoDate": "2026-09-22T14:49:55+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468619-utang-blbi-warisan-krisis-1998-akhirnya-lunas-pemerintah-bayar-pada-agustus-2026",
+  "tags": [
+   "BLBI",
+   "utang pemerintah",
+   "Bank Indonesia",
+   "APBN"
+  ],
+  "body": [
+   "Pemerintah resmi melunasi kewajiban surat utang yang terkait Bantuan Likuiditas Bank Indonesia (BLBI), obligasi yang diterbitkan saat krisis keuangan 1997-1998. Menteri Keuangan Suahasil Nazara mengumumkan pelunasan itu terjadi pada Agustus 2026, menandai selesainya salah satu beban utang tertua yang masih tercatat dalam neraca pemerintah.",
+   "Pembayaran dilakukan dengan memakai surplus Bank Indonesia hasil audit laporan keuangan 2025, yang nilainya Rp55 triliun. Sesuai aturan yang berlaku, surplus BI itu disetorkan ke kas negara, lalu dipakai pemerintah untuk menutup sisa kewajiban obligasi BLBI kepada BI sendiri.",
+   "Suahasil menyampaikan hal ini kepada Presiden Prabowo Subianto di Istana Merdeka, Jakarta Pusat, Selasa (22/9/2026), sebagai bagian dari laporan rutin soal Anggaran Pendapatan dan Belanja Negara (APBN). Ia menyebut penyelesaian ini hasil kerja sama Kementerian Keuangan dan Bank Indonesia dalam pengelolaan APBN jangka panjang.",
+   "Secara keseluruhan, obligasi yang diterbitkan pemerintah untuk menangani krisis 1997-1998 dulu bernilai sekitar Rp640 triliun, mencakup berbagai jenis surat utang, bukan hanya yang terkait BLBI."
+  ],
+  "fotoAdegan": "Wide exterior view of a central bank building in Jakarta with the national flag, pedestrians passing on the sidewalk, late afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/19/6a85234d3fd80-wamenkeu-suahasil-nazara_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah pos utang BLBI, obligasi yang diterbitkan pemerintah 28 tahun lalu untuk menomboki bank-bank yang nyaris kolaps saat krisis 1998, sekarang dinyatakan lunas dan dibayar pakai setoran surplus Bank Indonesia sebesar Rp55 triliun. Yang langsung terdampak adalah neraca keuangan pemerintah sendiri, karena satu kewajiban lama akhirnya tercoret, sementara Bank Indonesia hanya menjalankan kewajiban rutinnya menyetor surplus tahunan ke kas negara. Yang belum jelas dari berita ini adalah berapa besar bagian dari total Rp640 triliun obligasi krisis 1998 yang sudah lunas sebelumnya dan berapa yang tersisa di luar utang BLBI ini, sebab angka Rp640 triliun itu mencakup banyak jenis surat utang, bukan cuma yang barusan dibayar. Fakta bahwa pelunasan kali ini hanya butuh satu surplus tahunan sebesar Rp55 triliun mengindikasikan sisa utang BLBI memang sudah mengecil setelah dicicil bertahun-tahun, tapi kepastian soal sisa kewajiban utang warisan krisis lainnya baru akan terlihat di Laporan Keuangan Pemerintah Pusat (LKPP) 2026 yang diaudit tahun depan.",
+  "imageV": "mucgnay5"
  },
  {
   "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-830-000-saham",

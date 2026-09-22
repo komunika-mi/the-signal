@@ -5,6 +5,75 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-kejar-investasi-listrik-100-gw-menuju-nze-2050",
+  "category": "Energi",
+  "title": "Pemerintah Kejar Investasi Listrik [100 GW] Menuju NZE 2050",
+  "deck": "Pemerintah mematok kebutuhan investasi US$70-73 miliar untuk menambah kapasitas pembangkit listrik 100 gigawatt dan menaikkan porsi energi terbarukan menjadi 70 persen dalam RUPTL.",
+  "date": "22 September 2026",
+  "image": "assets/img/pemerintah-kejar-investasi-listrik-100-gw-menuju-nze-2050.jpg",
+  "imageV": "mucgn999",
+  "tags": [
+   "EBT",
+   "RUPTL",
+   "PLN",
+   "Investasi Listrik"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/menuju-nze-2050-2060-pemerintah-dorong-investasi-kelistrikan-100-gw-dan-penguatan-ebt",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "amran-buka-peluang-bumn-kelola-cadangan-kedelai",
+  "category": "BUMN",
+  "title": "Amran Buka Peluang [BUMN] Kelola Cadangan Kedelai",
+  "deck": "Kepala Bapanas Amran Sulaiman menyatakan BUMN bisa direkomendasikan mengelola cadangan kedelai nasional, asal sesuai regulasi yang masih akan dikaji.",
+  "date": "22 September 2026",
+  "image": "assets/img/amran-buka-peluang-bumn-kelola-cadangan-kedelai.jpg",
+  "imageV": "mucgn9nn",
+  "tags": [
+   "kedelai",
+   "BUMN",
+   "Bapanas",
+   "ketahanan pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468623-amran-buka-peluang-bumn-kelola-cadangan-kedelai-stok-2026-diproyeksi-surplus-2909-ribu-ton"
+ },
+ {
+  "slug": "dprd-dki-minta-rencana-obligasi-daerah-ditinjau-ulang",
+  "category": "Pasar Modal",
+  "title": "DPRD DKI Minta Rencana [Obligasi] Daerah Ditinjau Ulang",
+  "deck": "Anggota Komisi A DPRD DKI Kevin Wu meminta Pemprov DKI meninjau ulang rencana obligasi daerah karena beban pembayarannya berisiko menjadi tanggungan warga Jakarta.",
+  "date": "22 September 2026",
+  "image": "assets/img/dprd-dki-minta-rencana-obligasi-daerah-ditinjau-ulang.jpg",
+  "imageV": "mucgna2g",
+  "tags": [
+   "obligasi daerah",
+   "DPRD DKI Jakarta",
+   "Pemprov DKI",
+   "Kevin Wu"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468626-dprd-dki-soroti-rencana-obligasi-daerah-beban-utang-jangan-sampai-jadi-tanggungan-warga"
+ },
+ {
+  "slug": "bahlil-orang-mampu-jangan-pakai-pertalite-lagi",
+  "category": "Energi",
+  "title": "Bahlil: Orang Mampu [Jangan] Pakai Pertalite Lagi",
+  "deck": "Menteri ESDM Bahlil Lahadalia minta masyarakat mampu tak pakai Pertalite, menyusul temuan polisi soal Pajero bertangki modifikasi untuk menampung BBM subsidi di Makassar.",
+  "date": "22 September 2026",
+  "image": "assets/img/bahlil-orang-mampu-jangan-pakai-pertalite-lagi.jpg",
+  "imageV": "mucgnak2",
+  "tags": [
+   "Bahlil Lahadalia",
+   "Pertalite",
+   "BBM subsidi",
+   "Kementerian ESDM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468610-bahlil-minta-orang-berduit-jangan-pakai-pertalite-soroti-modus-pajero-tampung-bbm-subsidi"
+ },
+ {
   "slug": "vici-jadwalkan-rupslb-pada-29-oktober-2026",
   "category": "Aksi Korporasi",
   "title": "VICI Jadwalkan [RUPSLB] pada 29 Oktober 2026",
@@ -35,6 +104,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6817-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "utang-blbi-era-krisis-1998-akhirnya-lunas",
+  "category": "Makroekonomi",
+  "title": "Utang BLBI Era Krisis 1998 Akhirnya [Lunas]",
+  "deck": "Pemerintah melunasi utang obligasi BLBI warisan krisis 1997-1998 pada Agustus 2026, dibayar memakai surplus Bank Indonesia senilai Rp55 triliun.",
+  "date": "22 September 2026",
+  "image": "assets/img/utang-blbi-era-krisis-1998-akhirnya-lunas.jpg",
+  "imageV": "mucgnay5",
+  "tags": [
+   "BLBI",
+   "utang pemerintah",
+   "Bank Indonesia",
+   "APBN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468619-utang-blbi-warisan-krisis-1998-akhirnya-lunas-pemerintah-bayar-pada-agustus-2026"
  },
  {
   "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-830-000-saham",
@@ -6429,86 +6515,6 @@ var ARTICLES = [
    "tata kelola perusahaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f5c7ef061_37be6c9d39.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-laporkan-sisa-dana-obligasi-sukuk-rp3-4-triliun-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "INKP Laporkan Sisa Dana Obligasi-Sukuk Rp3,4 Triliun [Obligasi]",
-  "deck": "Indah Kiat melaporkan koreksi realisasi dana hasil obligasi dan sukuk senilai Rp4,6 triliun yang terbit Maret 2026. Sisa dana Rp3,4 triliun masih mengendap di bank.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi",
-   "sukuk",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/01da1eadc0_3817612c6b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "edge-terima-pinjaman-us-50-juta-dari-dehk-untuk-data-center",
-  "category": "Aksi Korporasi",
-  "title": "EDGE Terima [Pinjaman] US$50 Juta dari DEHK untuk Data Center",
-  "deck": "PT Indointernet Tbk (EDGE) mengumumkan transaksi afiliasi berupa pinjaman US$50 juta dari pengendali DEHK ke dua anak usahanya untuk mendanai pengembangan pusat data.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "transaksi afiliasi",
-   "pusat data",
-   "Digital Edge"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/31c7c2bf5d_c94fe7b2c9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-rhb-umumkan-jadwal-pelaksanaan-waran-terstruktur-ke-21",
-  "category": "Aksi Korporasi",
-  "title": "DR: RHB Umumkan Jadwal [Pelaksanaan] Waran Terstruktur ke-21",
-  "deck": "RHB Sekuritas mengumumkan jadwal pelaksanaan otomatis lima waran terstruktur seri ke-21 dengan acuan saham AUTO, AVIA, BBTN, ITMG, dan MIKA, jatuh tempo 2 Oktober 2026.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/15f3d73e91_5f7e7b47b4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-rhb-jadwalkan-pelaksanaan-waran-terstruktur-ke-35",
-  "category": "Aksi Korporasi",
-  "title": "DR: RHB Jadwalkan Pelaksanaan [Waran] Terstruktur ke-35",
-  "deck": "Delapan waran terstruktur RHB dengan saham acuan AADI, ANTM, CUAN, ESSA, ENRG, INDY, ITMG, dan TLKM berakhir 2 Oktober 2026, perdagangan terakhir 29 September 2026.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e40b595409_5c557e4ead.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-rhb-jadwalkan-pelaksanaan-waran-terstruktur-ke-37",
-  "category": "Aksi Korporasi",
-  "title": "DR: RHB Jadwalkan Pelaksanaan Waran Terstruktur [ke-37]",
-  "deck": "RHB Sekuritas mengumumkan jadwal pelaksanaan otomatis Waran Terstruktur Penerbitan ke-37 atas delapan saham acuan, berakhir dan delisting awal Oktober 2026.",
-  "date": "15 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "Waran Terstruktur",
-   "RHB Sekuritas",
-   "BBCA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d03fa0a44_a4ae1967dd.pdf",
   "sourceLabel": "IDX"
  }
 ];

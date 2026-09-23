@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "nick-jelaskan-rugi-portofolio-rp33-m-ke-bursa-klaim-sementara",
+  "category": "Aksi Korporasi",
+  "title": "NICK Jelaskan Rugi Portofolio Rp33 M ke Bursa, Klaim [Sementara]",
+  "deck": "PT Charnic Capital Tbk menjawab permintaan penjelasan Bursa soal kerugian portofolio saham, pendapatan anak usaha, dan penyebab kenaikan harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T20:49:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f06552aa14_1894ac4cd8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Charnic Capital Tbk (NICK) menyampaikan jawaban resmi atas surat permintaan penjelasan Bursa Efek Indonesia nomor S-12259/BEI.PP2/09-2026 tanggal 22 September 2026. Dalam surat balasan bernomor 057/CC/IX/2026 yang ditandatangani Direktur Utama Anton Santoso, perusahaan menjelaskan bahwa bisnisnya mencakup penyewaan aset properti perkantoran milik sendiri, portofolio investasi di saham-saham tercatat di bursa, serta tiga anak usaha yaitu PT Charnic Land Investment (penyewaan properti), PT Energindo Nusantara (kelistrikan), dan PT Okansa Pacific (green mobility lewat penyewaan kendaraan listrik). Untuk tahun 2026, perusahaan menyatakan fokus strategisnya adalah mengembangkan bisnis EV melalui Okansa Pacific.",
+   "Perusahaan mengonfirmasi kerugian investasi portofolio efek sebesar Rp33 miliar per 30 Juni 2026. Manajemen menjelaskan kerugian itu berasal dari penurunan nilai yang belum direalisasikan, dihitung dengan metode mark to market karena pelemahan Indeks Harga Saham Gabungan sepanjang 2026 akibat situasi geopolitik dan perubahan kebijakan pasar modal. Charnic Capital menyebut kerugian ini bersifat sementara dan meyakini saham blue chip di portofolionya akan pulih serta menguntungkan dalam jangka panjang, dengan strategi tetap berinvestasi di perusahaan sektor esensial berbasis analisis fundamental.",
+   "Soal kinerja anak usaha, penjualan barang dan servis sebesar Rp24,9 miliar per Juni 2026 seluruhnya berasal dari konsolidasi PT Energindo Nusantara, dengan beban pokok pendapatan Rp10,8 miliar dari kegiatan yang sama. Pelanggan terbesar yang disebutkan adalah PT Perusahaan Listrik Negara (Persero), PT Norgantara Energy Engineering, PT Wibon Kreasi Mandiri, dan PT Berkat Jaya Elektro, sementara vendor barang dagangnya adalah RTDS Technologies Inc asal Kanada dan ALL-TEST Pro asal Amerika Serikat. Perusahaan menegaskan tidak memerlukan gudang karena menerapkan sistem zero inventory, yakni barang baru dibeli setelah ada pesanan pelanggan dan langsung dikirim tanpa disimpan. Manajemen juga menilai kenaikan harga saham NICK didorong oleh membaiknya kegiatan usaha Okansa Pacific dan Energindo Nusantara, serta memastikan tidak ada perkara hukum, kontrak baru yang material, atau informasi material lain yang belum diungkapkan ke Bursa."
+  ],
+  "fotoAdegan": "Rows of electric vehicles charging at an outdoor station in Jakarta, technicians checking charging cables, midday sunlight.",
+  "takeaway": "Penjelasan ini condong netral bagi pemegang saham NICK, karena isinya jawaban rutin atas permintaan klarifikasi Bursa yang mencampur satu kabar kurang menggembirakan dengan satu kabar yang lebih menjanjikan, bukan sinyal tegas ke satu arah. Kerugian Rp33 miliar pada portofolio saham per 30 Juni 2026 memang mengurangi nilai buku ekuitas perusahaan di atas kertas, karena dihitung dengan metode mark to market, yaitu menilai ulang harga saham yang dipegang sesuai harga pasar terkini meski belum benar-benar dijual sehingga belum menjadi kerugian tunai. Di sisi lain, pendapatan Rp24,9 miliar dari anak usaha PT Energindo Nusantara dan penjelasan manajemen bahwa kenaikan harga saham didorong membaiknya kinerja Energindo Nusantara serta PT Okansa Pacific menunjukkan mesin bisnis operasional perusahaan tetap berjalan. Yang perlu dipantau adalah laporan keuangan kuartal III 2026 mendatang, untuk melihat apakah kerugian portofolio yang diklaim manajemen bersifat sementara ini benar-benar berbalik menjadi untung seperti yang mereka yakini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jarr-jelaskan-ke-bursa-soal-akuisisi-byan-oleh-jhonlin-baratama",
+  "category": "Aksi Korporasi",
+  "title": "JARR Jelaskan ke Bursa Soal Akuisisi [BYAN] oleh Jhonlin Baratama",
+  "deck": "JARR menegaskan tidak terlibat dan tidak menyediakan dana dalam rencana akuisisi saham BYAN oleh Jhonlin Baratama, meski keduanya satu grup dan punya pengendali utama yang sama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T20:42:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a5245f70d_2d2702e4b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JARR",
+  "tags": [
+   "JARR",
+   "BYAN",
+   "Jhonlin Baratama",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Jhonlin Agro Raya Tbk (JARR) menyampaikan surat tanggapan bernomor 092/EXT-CORSEC/JARR/IX/2026 kepada Bursa Efek Indonesia untuk menjawab surat permintaan penjelasan Bursa Nomor S-12170/BEI.PP2/09-2026 tanggal 21 September 2026. Permintaan itu muncul setelah PT Bayan Resources Tbk (BYAN) mengumumkan pada 17 September 2026 penandatanganan perjanjian jual beli saham bersyarat, yang menurut informasi tersebut melibatkan PT Jhonlin Baratama sebagai pembeli.",
+   "Dalam surat yang ditandatangani Direktur Utama Indra Irawan tertanggal 23 September 2026, JARR menjelaskan bahwa Perseroan tidak memiliki hubungan kepemilikan saham, baik langsung maupun tidak langsung, dengan PT Jhonlin Baratama. Namun keduanya memiliki pengendali utama yang sama, yaitu Bapak H. Samsudin Andi Arsyad, dan berada di bawah payung grup usaha yang sama, PT Jhonlin Group. JARR menegaskan tidak ada kesamaan anggota Direksi maupun Dewan Komisaris antara kedua entitas, dan pengurus JARR disebut menjalankan tugas secara independen.",
+   "Terkait rencana akuisisi saham BYAN oleh Jhonlin Baratama, JARR menyatakan tidak memiliki keterlibatan dalam perencanaan maupun pelaksanaannya, tidak mengalokasikan aset, fasilitas, atau sumber daya apa pun untuk transaksi itu, dan hingga tanggal surat belum menyediakan pendanaan, pinjaman, atau bentuk dukungan keuangan lain kepada Jhonlin Baratama sehubungan dengan transaksi tersebut. Perseroan juga menyatakan transaksi itu tidak berpotensi menimbulkan dampak material terhadap operasional, kondisi keuangan, arus kas, maupun kelangsungan usaha JARR, dan mengonfirmasi tidak ada fakta material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Coal loading conveyor extending over a barge at a river port in South Kalimantan, overcast sky, workers in hard hats monitoring the belt",
+  "takeaway": "Laporan ini netral bagi JARR karena akuisisi saham BYAN dilakukan oleh Jhonlin Baratama, bukan oleh JARR sendiri, dan JARR menegaskan tidak mengucurkan dana, aset, atau jaminan apa pun untuk transaksi itu. Karena tidak ada aliran dana atau jaminan keuangan yang disebut, arus kas dan ekuitas JARR, yaitu pos yang mencerminkan kas masuk keluar perusahaan dan modal milik pemegang saham, tetap tidak tersentuh oleh urusan Jhonlin Baratama ini. Yang perlu dicermati pelaku pasar ke depan adalah apakah nanti muncul transaksi afiliasi konkret, misalnya pasokan barang, jaminan, atau pinjaman, antara JARR dan Jhonlin Baratama setelah akuisisi BYAN rampung, karena kesamaan pengendali utama membuat potensi benturan kepentingan tetap perlu diawasi meski belum terjadi saat ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kkp-undp-kirim-alat-dan-bibit-ke-petani-rumput-laut-sidoarjo",
   "category": "UMKM",
   "title": "KKP-UNDP Kirim Alat dan [Bibit] ke Petani Rumput Laut Sidoarjo",

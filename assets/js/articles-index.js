@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "nick-jelaskan-rugi-portofolio-rp33-m-ke-bursa-klaim-sementara",
+  "category": "Aksi Korporasi",
+  "title": "NICK Jelaskan Rugi Portofolio Rp33 M ke Bursa, Klaim [Sementara]",
+  "deck": "PT Charnic Capital Tbk menjawab permintaan penjelasan Bursa soal kerugian portofolio saham, pendapatan anak usaha, dan penyebab kenaikan harga sahamnya.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f06552aa14_1894ac4cd8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jarr-jelaskan-ke-bursa-soal-akuisisi-byan-oleh-jhonlin-baratama",
+  "category": "Aksi Korporasi",
+  "title": "JARR Jelaskan ke Bursa Soal Akuisisi [BYAN] oleh Jhonlin Baratama",
+  "deck": "JARR menegaskan tidak terlibat dan tidak menyediakan dana dalam rencana akuisisi saham BYAN oleh Jhonlin Baratama, meski keduanya satu grup dan punya pengendali utama yang sama.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JARR",
+   "BYAN",
+   "Jhonlin Baratama",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a5245f70d_2d2702e4b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kkp-undp-kirim-alat-dan-bibit-ke-petani-rumput-laut-sidoarjo",
   "category": "UMKM",
   "title": "KKP-UNDP Kirim Alat dan [Bibit] ke Petani Rumput Laut Sidoarjo",
@@ -6474,38 +6506,6 @@ var ARTICLES = [
    "properti"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ce86baad8_21b65074a1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkgi-bagikan-dividen-tunai-rp97-47-miliar-tahun-buku-2025",
-  "category": "Aksi Korporasi",
-  "title": "KKGI Bagikan [Dividen] Tunai Rp97,47 Miliar Tahun Buku 2025",
-  "deck": "Resource Alam Indonesia menetapkan dividen tunai Rp20 per saham senilai total Rp97,47 miliar, dibayar paling lambat 15 Oktober 2026.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KKGI",
-   "dividen tunai",
-   "Resource Alam Indonesia",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2b17cf85a3_5b3c0582e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sanf-rombak-susunan-direksi-dan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "SANF Rombak Susunan [Direksi] dan Komisaris",
-  "deck": "SANF mengganti direktur dan komisaris usai dua pejabat mengundurkan diri; tiga pengurus baru menunggu hasil fit and proper test OJK sebelum resmi menjabat.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SANF",
-   "pergantian direksi",
-   "komisaris",
-   "ASTRA Financial"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/758dd2f039_8d2c19196e.pdf",
   "sourceLabel": "IDX"
  }
 ];

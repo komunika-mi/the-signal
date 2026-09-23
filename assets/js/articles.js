@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mglv-setor-modal-rp98-miliar-ke-afiliasi-nac-dan-ngc",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Setor Modal Rp98 Miliar ke [Afiliasi] NAC dan NGC",
+  "deck": "Perseroan menyuntik modal Rp49 miliar ke masing-masing anak usaha NAC dan NGC, total Rp98 miliar, tergolong transaksi material karena melebihi 20 persen ekuitas Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T19:22:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a2755e5864_d3a1d2a224.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "transaksi afiliasi",
+   "penyertaan modal",
+   "data center"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menambah penyertaan modal ke dua anak usahanya, PT Nextier Askara Center (NAC) dan PT Nextier GenAi Center (NGC), masing-masing senilai Rp49 miliar, sehingga total dana yang disetor mencapai Rp98 miliar. Transaksi ini resmi tercatat pada 17 September 2026 lewat dua akta notaris terpisah yang dibuat di hadapan notaris Jose Dima Satria di Jakarta Selatan, dan sudah mendapat persetujuan Kementerian Hukum pada hari yang sama.",
+   "Di NAC, modal ditempatkan dan disetor naik dari 1.000 saham senilai Rp1 miliar menjadi 50.000 saham senilai Rp50 miliar. Seluruh tambahan 49.000 saham diambil oleh Perseroan, sehingga kepemilikannya di NAC naik dari 99,90 persen menjadi 99,99 persen, sementara saham milik Glenn T Sugita, yang juga menjabat komisaris di Perseroan sekaligus komisaris di NAC, tetap satu lembar dan porsinya tergerus dari 0,10 persen menjadi 0,01 persen. Pola serupa terjadi di NGC: modal disetor naik dari Rp1 miliar menjadi Rp50 miliar, kepemilikan Perseroan naik menjadi 99,99 persen, dan porsi Suriyanto, yang menjabat komisaris utama Perseroan sekaligus direktur di NAC, tergerus dari 0,10 persen menjadi 0,01 persen.",
+   "Perseroan menyebut transaksi ini masuk kategori Transaksi Material sesuai POJK 17/2020 karena nilai masing-masing penyertaan modal melebihi 20 persen dari ekuitas Perseroan berdasarkan laporan keuangan konsolidasian per 30 April 2026. Transaksi ini juga tergolong Transaksi Afiliasi menurut POJK 42/2020 karena NAC dan NGC adalah perusahaan terkendali dengan kepemilikan saham Perseroan, namun perusahaan menegaskan ini bukan transaksi benturan kepentingan. Karena kepemilikan Perseroan di kedua anak usaha sudah di atas 99 persen, Perseroan tidak wajib memakai penilai independen untuk menilai kewajaran transaksi dan cukup menyampaikan keterbukaan informasi ini kepada pemegang saham tanpa memerlukan persetujuan RUPS."
+  ],
+  "fotoAdegan": "Rows of server racks inside a data center corridor, a technician inspecting cable connections under cool blue lighting",
+  "takeaway": "Laporan ini condong negatif bagi fundamental MGLV. Dana Rp98 miliar yang disetor ke dua anak usaha ini muncul tak lama setelah laporan keterbukaan sebelumnya menunjukkan ekuitas Perseroan sudah menyusut 10,88 persen dan liabilitas naik 16,86 persen pada semester pertama 2026, sehingga modal yang mengalir keluar dari induk usaha kembali membesar di saat bantalan keuangannya justru menipis. Yang tersentuh adalah ekuitas dan kas Perseroan, sebab penyertaan modal berarti uang tunai atau aset di level induk berpindah menjadi investasi permanen di anak usaha, sehingga dana itu tidak lagi bisa dipakai bebas oleh induk meski secara konsolidasi kekayaan grup tidak berkurang. Fakta bahwa nilai transaksi ini saja sudah melebihi 20 persen ekuitas Perseroan, dua kali berturut-turut untuk NAC dan NGC, menunjukkan basis modal induk yang relatif tipis dibanding dana yang digelontorkan. Yang perlu dipantau berikutnya adalah laporan keuangan konsolidasian periode berikutnya, karena angka ekuitas yang dipakai sebagai acuan transaksi ini masih per 30 April 2026, sehingga dampak penuh keluarnya Rp98 miliar terhadap posisi kas dan ekuitas Perseroan baru akan terlihat pada laporan berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mglv-jamin-utang-rp10-75-triliun-bni-ke-dua-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "MGLV [Jamin] Utang Rp10,75 Triliun BNI ke Dua Anak Usaha",
+  "deck": "MGLV menandatangani fasilitas kredit BNI senilai Rp10,75 triliun untuk anak usaha NAC dan NGC, dijamin dengan corporate guarantee dari induk perusahaan, dan tergolong transaksi material sekaligus afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T19:20:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8e6ca96f45_ffbafc1bba.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "transaksi afiliasi",
+   "corporate guarantee",
+   "data center"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menandatangani dua perjanjian fasilitas pinjaman dari PT Bank Negara Indonesia (Persero) Tbk (BNI) untuk dua anak usahanya, PT Nextier Askara Center (NAC) dan PT Nextier GenAi Center (NGC), pada 21 September 2026. Total nilai kedua fasilitas mencapai Rp10,75 triliun, dan Perseroan bertindak sebagai penanggung lewat jaminan perusahaan atau corporate guarantee kepada BNI.",
+   "NAC, yang 99,9 persen sahamnya dimiliki MGLV, memperoleh fasilitas senilai Rp4,13 triliun dengan tenor sampai enam tahun dan bisa diperpanjang dua kali, masing-masing satu tahun. NGC, juga dimiliki 99,9 persen oleh MGLV, mendapat fasilitas senilai Rp6,63 triliun dengan tenor sampai tujuh tahun dan bisa diperpanjang satu kali untuk satu tahun. Bunga kedua fasilitas mengikuti suku bunga acuan pasar uang antar bank semalam rata-rata 90 hari (IndONIA) ditambah 1,9 persen. Sebagai jaminan, NAC dan NGC memberikan hak tanggungan atas tanah dan bangunan, fidusia atas mesin, peralatan, dan piutang, gadai saham milik pemegang saham minoritas di masing-masing anak usaha, pengalihan bersyarat atas kontrak-kontrak material, serta jaminan perusahaan dari MGLV. Kedua debitur juga wajib mematuhi pembatasan tertentu, antara lain larangan menambah utang, melepas aset, dan mengubah pengendalian tanpa memenuhi ketentuan dalam perjanjian.",
+   "Transaksi ini tergolong Transaksi Material karena nilainya melebihi 50 persen dari ekuitas Perseroan berdasarkan laporan keuangan konsolidasian per 30 April 2026, dan sekaligus tergolong Transaksi Afiliasi karena melibatkan anak usaha sendiri, meski bukan Transaksi Benturan Kepentingan. Karena transaksi berupa pinjaman langsung dari bank kepada anak usaha, MGLV tidak wajib menggunakan penilai independen maupun meminta persetujuan RUPS independen, dan kewajibannya hanya mengumumkan keterbukaan informasi ini kepada pemegang saham."
+  ],
+  "fotoAdegan": "Technicians walking between rows of server racks in a data center, cables neatly bundled, cool blue ambient lighting, Indonesia.",
+  "takeaway": "Laporan ini condong negatif bagi fundamental MGLV. Nilai fasilitas pinjaman Rp10,75 triliun ini melebihi separuh ekuitas Perseroan sendiri, dan karena laporan keuangan NAC dan NGC dikonsolidasikan ke MGLV, utang sebesar itu akan langsung membesarkan liabilitas di neraca konsolidasi perusahaan. Perseroan juga menanggung risiko tambahan lewat jaminan perusahaan ke BNI, artinya kalau NAC atau NGC gagal membayar cicilan, MGLV yang harus menanggung kewajibannya, sementara bunga pinjamannya mengambang mengikuti acuan pasar uang antar bank sehingga bisa naik jika likuiditas mengetat. Transaksi ini tidak memerlukan persetujuan RUPS karena tergolong pinjaman langsung dari bank, jadi yang perlu dipantau pemegang saham adalah laporan keuangan periode berikutnya untuk melihat besaran dana yang benar-benar dicairkan dan dampaknya terhadap rasio utang, serta kepatuhan NAC dan NGC terhadap pembatasan dalam perjanjian seperti larangan menambah utang atau melepas aset tanpa izin BNI.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "prdl-alihkan-rp2-5-miliar-dana-ipo-ke-ahu-ruang-produksi",
+  "category": "Aksi Korporasi",
+  "title": "PRDL alihkan Rp2,5 miliar dana IPO ke [AHU] ruang produksi",
+  "deck": "Prodia Diagnostic Line mengalihkan Rp2,5 miliar dana IPO dari rencana mesin Hematologi ke pengadaan alat pengatur suhu ruang produksi kering.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T18:42:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4af0b66823_d8e484c85e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDL",
+  "tags": [
+   "PRDL",
+   "IPO",
+   "penggunaan dana IPO",
+   "alat kesehatan"
+  ],
+  "body": [
+   "PT Prodia Diagnostic Line Tbk (PRDL) mengubah rencana penggunaan dana hasil penawaran umum saham perdana (IPO) berdasarkan Keputusan Direksi Nomor 007/SK/PROLINE/IX/2026 tertanggal 15 September 2026. Direktur Utama Cristina Sandjaja menyampaikan keterbukaan informasi ini pada 23 September 2026, menyatakan bahwa perubahan berupa pengalihan dana sekitar Rp2,5 miliar, atau 3,98 persen dari total dana bersih IPO sebesar Rp57,7 miliar. Dana tersebut semula dialokasikan untuk pembelian mesin produksi Hematologi otomatis (Automatic System by Robotic and Manual Pallet Dispensing), namun kini dialihkan untuk pengadaan Air Handling Unit, yaitu alat pengatur suhu dan kelembapan udara, di ruang produksi kering (dry production room) milik perseroan.",
+   "Perseroan beralasan tingkat pemakaian fasilitas produksi Hematologi saat ini masih sangat rendah, sekitar 0,3 persen, sehingga mesin otomatis tersebut belum menjadi kebutuhan mendesak. Sebaliknya, ruang produksi kering memerlukan pengendalian suhu dan kelembapan yang lebih ketat untuk menjaga stabilitas bahan baku dan konsistensi mutu produk, terutama seiring rencana pengembangan produk baru perseroan.",
+   "Perubahan ini menggeser klasifikasi dana sekitar Rp2,5 miliar dari pos modal kerja atau aset lancar menjadi belanja modal atau aset tidak lancar dalam laporan keuangan, namun tidak mengubah total aset, total liabilitas, maupun total ekuitas perseroan. Manajemen menegaskan nilai perubahan ini di bawah ambang batas 20 persen dari total dana IPO yang mewajibkan persetujuan RUPS, dan realisasinya akan dilaporkan secara berkala kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia melalui Laporan Realisasi Penggunaan Dana, yang menurut dokumen ini belum menjadi laporan terakhir."
+  ],
+  "fotoAdegan": "Technicians in white cleanroom suits inspecting large air handling ducts inside a sterile medical device production facility, Indonesia.",
+  "takeaway": "Perubahan ini netral bagi kinerja Prodia Diagnostic Line, sebab nilainya kecil, hanya 3,98 persen dari total dana IPO, dan tidak mengubah angka total aset, liabilitas, atau ekuitas perseroan. Yang tersentuh cuma komposisi aset, dana yang semula dihitung sebagai modal kerja atau kas yang bisa dipakai sewaktu-waktu kini masuk aset tidak lancar berupa peralatan pabrik, sehingga likuiditas jangka pendek sedikit mengetat tanpa mengubah kekuatan modal perseroan secara keseluruhan. Yang perlu dipantau adalah laporan realisasi penggunaan dana berikutnya kepada OJK dan BEI, karena laporan kali ini secara eksplisit bukan laporan terakhir, sehingga masih mungkin ada penyesuaian lanjutan sebelum seluruh dana IPO terserap penuh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nasi-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "NASI Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab surat Bursa Efek Indonesia, PT Wahana Inti Makmur menyatakan tidak ada informasi material maupun rencana aksi korporasi di balik lonjakan transaksi saham NASI belakangan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T18:33:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8f0c1fdf50_126eafcec5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NASI",
+  "tags": [
+   "NASI",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Wahana Inti Makmur Tbk (NASI) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi bernomor S-12178/BEI.PP1/09-2026 tanggal 21 September 2026 terkait volatilitas transaksi saham perseroan. Jawaban perusahaan dikirim lewat surat nomor 001/WIM-BEI/IX/2026 yang diteken Direktur Utama Piero Mustafa pada 23 September 2026 pukul 18.33 WIB, hanya dua hari setelah surat bursa terbit.",
+   "Dalam surat itu, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/2015 tentang Keterbukaan Informasi maupun ketentuan Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak ada aktivitas khusus dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta meyakini volatilitas transaksi yang terjadi merupakan mekanisme perdagangan reguler di pasar.",
+   "Perseroan menegaskan belum memiliki rencana tindakan korporasi dalam waktu dekat, setidaknya dalam tiga bulan ke depan, yang dapat berakibat pada status pencatatan sahamnya di bursa. Manajemen juga menyampaikan, berdasarkan konfirmasi dari para pemegang saham, tidak ada rencana apa pun dari pemegang saham utama dan pengendali terkait kepemilikan sahamnya di NASI. Tidak ada informasi material lain yang belum diungkapkan ke publik, menurut perseroan."
+  ],
+  "fotoAdegan": "Busy Jakarta stock exchange trading floor with clerks walking between desks, blurred distant monitors, morning daylight streaming in",
+  "takeaway": "Penjelasan ini bersifat netral bagi NASI karena isinya hanya bantahan standar, tidak ada angka, rencana aksi korporasi, atau perubahan kepemilikan konkret yang mengubah gambaran fundamental perseroan. Surat semacam ini muncul ketika bursa mendeteksi pergerakan harga atau volume transaksi saham yang tidak biasa dan mencurigai kemungkinan ada informasi orang dalam yang belum terbuka ke publik, jadi isinya lebih ke soal keterbukaan informasi ketimbang kinerja keuangan, tidak menyentuh ekuitas, arus kas, atau laba per saham perseroan. Yang perlu dipantau pelaku pasar selanjutnya adalah apakah Bursa Efek Indonesia akan menetapkan status pengawasan khusus atau notasi tambahan pada saham NASI, serta apakah volatilitas transaksi mereda pada hari-hari perdagangan setelah penjelasan ini terbit pada 23 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "maxi-koreksi-laporan-realisasi-dana-ipo-rp45-miliar-tuntas",
+  "category": "Aksi Korporasi",
+  "title": "MAXI [koreksi] laporan realisasi dana IPO Rp45 miliar tuntas",
+  "deck": "PT Maxindo Karya Anugerah mengoreksi laporan penggunaan dana IPO per 30 Juni 2026, menyatakan seluruh dana Rp45 miliar sudah terpakai untuk modal kerja, tersisa Rp150.635 di rekening BCA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T18:19:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/006db8ce0e_205ef6d526.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAXI",
+  "tags": [
+   "MAXI",
+   "penggunaan dana IPO",
+   "laporan keuangan",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Maxindo Karya Anugerah Tbk (MAXI) menyampaikan koreksi atas laporan penggunaan dana hasil penawaran umum yang sebelumnya dikirim 15 Juli 2026, kali ini untuk posisi per 30 Juni 2026. Perseroan mencatat hasil IPO pada 12 Juni 2023 sebesar Rp45 miliar, berasal dari penjualan 450 juta saham dengan harga pelaksanaan Rp100 per saham. Setelah dipotong biaya penawaran umum Rp2,74 miliar, yang terdiri dari biaya jasa penjaminan Rp300 juta, biaya jasa penyelenggaraan Rp650 juta, biaya jasa penjualan Rp300 juta, biaya jasa profesi penunjang pasar modal Rp687,6 juta, biaya jasa lembaga penunjang pasar modal Rp90 juta, dan biaya lain-lain Rp712,9 juta, hasil bersih yang diterima perseroan adalah Rp42,26 miliar.",
+   "Seluruh hasil bersih itu dialokasikan untuk modal kerja perseroan sesuai rencana dalam prospektus. Realisasi penggunaan dana yang dilaporkan mencapai Rp42,27 miliar, dan sisa dana yang masih tersimpan di rekening operasional Bank BCA nomor 0954145758 per 30 Juni 2026 hanya Rp150.635, tanpa bunga dan tanpa hubungan afiliasi dengan pihak ketiga mana pun. Selain dana IPO, perseroan juga melaporkan hasil pelaksanaan Waran Seri I yang berlangsung 12 Desember 2023 sampai 11 Juni 2025, senilai Rp9.998.100, yang juga dilaporkan telah seluruhnya terpakai untuk modal kerja.",
+   "Dalam surat pengantar bertanggal 14 Juli 2026 yang menjadi dasar laporan ini, Direktur Utama perseroan menyatakan bahwa dana hasil IPO yang diterima sejak 12 Juni 2023 telah habis terpakai seluruhnya. Laporan ini merupakan pemenuhan kewajiban rutin sesuai POJK Nomor 30/POJK.04/2015 tentang Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum, dan ditandatangani secara elektronik oleh Direktur Keuangan Carolina Djaja."
+  ],
+  "fotoAdegan": "Workers packing cassava chip snacks along a factory conveyor belt, industrial kitchen equipment, bright fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi MAXI, sifatnya koreksi teknis atas laporan realisasi dana IPO sebelumnya, bukan sinyal perubahan kinerja atau strategi. Yang tersentuh adalah arus kas perseroan, yaitu aliran uang masuk dan keluar dari kegiatan usaha, karena seluruh dana hasil IPO Rp45 miliar dari tahun 2023 kini sudah habis dipakai untuk modal kerja, istilah untuk dana operasional sehari-hari seperti bahan baku dan biaya produksi. Sisa dana yang tercatat di rekening BCA cuma Rp150.635, nyaris nol dibanding total dana yang pernah diterima, sehingga bantalan kas dari hasil IPO praktis sudah tidak tersisa. Pemegang saham perlu memantau laporan keuangan periode berikutnya untuk melihat dari mana perseroan membiayai kebutuhan modal kerja ke depan, apakah murni dari arus kas operasional atau memerlukan tambahan pembiayaan seperti utang bank.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kemnaker-luncurkan-maganghub-batch-2-40-962-peserta-lolos",
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Luncurkan [MagangHub] Batch 2, 40.962 Peserta Lolos",
@@ -55,6 +185,58 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Angka paling konkret dari pernyataan ini adalah target pertumbuhan 6 persen untuk 2027, naik dari realisasi 5,45 persen pada semester I 2026, dengan dua alat kebijakan yang sudah berjalan yakni PP 28/2025 dan Keppres 4/2026 untuk memangkas hambatan izin usaha, serta 25 perjanjian dagang yang sudah diimplementasikan. Pihak yang paling terdampak adalah pelaku usaha padat karya seperti industri tekstil yang disebut eksplisit jadi sasaran program restrukturisasi, juga investor yang mengincar insentif di Kawasan Ekonomi Khusus dan Danantara. Target 6 persen ini tampak sebagai batu loncatan bertahap menuju 8 persen dalam jangka menengah, bukan lompatan langsung, karena Airlangga sendiri memasang tiga syarat sekaligus yaitu investasi, produktivitas, dan ekspor, yang belum satu pun tercapai saat pernyataan ini disampaikan. Yang akan memperlihatkan apakah lintasan ini realistis adalah data pertumbuhan ekonomi kuartal III 2026 yang bakal dirilis Badan Pusat Statistik awal November, sebab paruh kedua tahun ini perlu berakselerasi cukup jauh dari capaian 5,45 persen di semester pertama.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "asrm-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ASRM: Tak Ada Info Material di Balik Volatilitas [Saham]",
+  "deck": "Menjawab permintaan penjelasan BEI, Asuransi Ramayana Tbk memastikan tidak ada informasi material atau rencana aksi korporasi di balik pergerakan transaksi sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T17:51:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05fa73a498_31131d121c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASRM",
+  "tags": [
+   "ASRM",
+   "Asuransi Ramayana",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Asuransi Ramayana Tbk (ASRM) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan klarifikasi bernomor S-12207/BEI.PP3/09-2026 tanggal 21 September 2026 perihal volatilitas transaksi efek perseroan. Jawaban perseroan dikirim melalui surat nomor 1141/DIR/Corp.Sec/IX/2026 tertanggal 22 September 2026, ditandatangani oleh Adi Ratna Punggawa selaku Corporate Secretary, dan diterima sistem pelaporan bursa pada 23 September 2026 pukul 17.51 WIB.",
+   "Dalam suratnya, ASRM menegaskan hingga tanggal surat tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal sebagaimana diatur POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, serta tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada status pencatatan sahamnya di bursa.",
+   "Poin paling konkret ada pada bagian keenam surat, di mana Corporate Secretary mengonfirmasi telah menanyakan langsung kepada pemegang saham utama dan pengendali perseroan. Hasilnya, pemegang saham utama menyatakan sampai dengan tanggal surat tidak berencana mengalihkan, menjual, mengurangi, atau menambah kepemilikan sahamnya di ASRM, dan berjanji akan memenuhi kewajiban keterbukaan informasi apabila rencana tersebut berubah di kemudian hari."
+  ],
+  "fotoAdegan": "Jakarta financial district street with office towers, pedestrians and taxis passing under afternoon light, slight motion blur",
+  "takeaway": "Penjelasan ini netral bagi ASRM karena isinya semata konfirmasi bahwa tidak ada aksi korporasi atau perubahan rencana pemegang saham utama yang menjelaskan pergerakan transaksi sahamnya belakangan ini. Yang tersentuh di sini adalah struktur kepemilikan saham, sebab pemegang saham utama dan pengendali memastikan tidak berencana mengalihkan, menjual, mengurangi, atau menambah porsi sahamnya, sehingga peta hak suara di ASRM untuk saat ini tidak berubah, dan investor biasa mencermati hal ini karena pergeseran kepemilikan pengendali sering jadi sinyal awal sebelum aksi korporasi besar seperti akuisisi atau penerbitan saham baru. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi ASRM mereda atau justru berlanjut, sebab bursa bisa kembali meminta penjelasan serupa jika pola transaksi masih dinilai tidak wajar, dan perseroan sudah berjanji akan mengumumkan lebih dulu jika rencana pemegang saham utama berubah di kemudian hari.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "silo-tanggapi-bei-rupslb-kunci-akuisisi-rs-aset-dijaminkan",
+  "category": "Aksi Korporasi",
+  "title": "SILO Tanggapi BEI: RUPSLB Kunci [Akuisisi] RS, Aset Dijaminkan",
+  "deck": "SILO merespons permintaan penjelasan BEI atas lonjakan transaksi 18 September, sekaligus mengonfirmasi RUPSLB menyetujui akuisisi rumah sakit Rp9 triliun dan penjaminan aset sebagai agunan utang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T17:37:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f8f8697310_cf7a710a76.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SILO",
+  "tags": [
+   "SILO",
+   "akuisisi rumah sakit",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Siloam International Hospitals Tbk (SILO) menyampaikan surat tanggapan resmi kepada Bursa Efek Indonesia (BEI) atas permintaan penjelasan terkait lonjakan aktivitas transaksi dan pergerakan harga sahamnya pada 18 September 2026. Surat bernomor 134/Corsec-SIH/IX/2026 tertanggal 23 September 2026 itu, yang ditandatangani Sekretaris Perusahaan Lewi Aga Basoeki, merupakan jawaban atas surat BEI nomor S-12212/BEI.PP2/09-2026 tanggal 21 September 2026. Perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik, dan mencatat bahwa lonjakan transaksi pada 18 September itu bersamaan dengan pengumuman Perubahan dan/atau Tambahan Keterbukaan Informasi pada tanggal yang sama.",
+   "Dalam surat itu, Siloam mengungkapkan bahwa Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 22 September 2026 telah menyetujui tiga hal sekaligus: perubahan Pasal 3 Anggaran Dasar soal maksud dan tujuan usaha, rencana pengambilalihan saham perusahaan-perusahaan pemilik portofolio aset rumah sakit dan penunjangnya yang berstatus transaksi material sesuai POJK Nomor 17/2020, serta penjaminan aset dan harta kekayaan Perseroan maupun anak usahanya untuk memperoleh pendanaan bagi transaksi tersebut. Perseroan menegaskan aksi korporasi ini tidak akan menerbitkan saham baru dan tidak berdampak pada status pencatatan saham SILO di bursa.",
+   "Mengacu pada surat sebelumnya bernomor 125/Corsec-SIH/IX/2026 tanggal 3 September 2026, penyelesaian Transaksi Tahap Pertama ditargetkan rampung pada kuartal keempat 2026, dengan batas waktu atau Long Stop Date pada 1 Desember 2026. Sementara itu, Transaksi Tahap Kedua bergantung pada pelaksanaan opsi jual yang harus dilakukan paling lambat 31 Maret 2027. Perseroan juga menyatakan telah menginformasikan permintaan BEI kepada pemegang saham mayoritas, dan sejauh ini belum menerima informasi mengenai aktivitas pemegang saham mayoritas yang wajib dilaporkan namun belum dilaporkan, maupun rencana transaksi saham tertentu dari pihak tersebut."
+  ],
+  "fotoAdegan": "Exterior of a modern private hospital building with ambulances parked near the entrance, late afternoon light in Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi Siloam, karena RUPSLB baru saja mengunci rencana akuisisi rumah sakit senilai triliunan rupiah yang sebagian besar dibiayai utang bank, dan kali ini perusahaan juga menyetujui menjaminkan asetnya sendiri maupun anak usaha sebagai agunan pinjaman tersebut. Penjaminan aset berarti kalau suatu saat Siloam kesulitan membayar utangnya, bank pemberi pinjaman berhak mengambil alih aset yang dijaminkan itu, sehingga fleksibilitas keuangan perusahaan berkurang dan risikonya bertambah dibanding akuisisi yang dibiayai tanpa agunan. Pos yang perlu dicermati investor adalah arus kas dan beban bunga ke depan, karena utang baru untuk akuisisi ini akan membebani laporan keuangan Siloam setidaknya sampai transaksi rampung. Yang perlu dipantau selanjutnya adalah penyelesaian Transaksi Tahap Pertama yang ditargetkan rampung pada kuartal keempat 2026 dengan batas akhir 1 Desember 2026, serta Tahap Kedua yang bergantung pada pelaksanaan opsi jual paling lambat 31 Maret 2027.",
+  "sentimen": "negatif"
  },
  {
   "slug": "sqmi-cgs-international-kurangi-saham-hak-suara-ke-15-56",
@@ -1046,6 +1228,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rolls of clear plastic packaging film winding through machinery on an industrial factory line, workers monitoring equipment, bright warehouse lighting",
   "takeaway": "Laporan ini netral bagi AKPI, karena meski Henry Liem menjual bersih 250.100 saham, dampaknya terhadap posisinya di perusahaan sangat kecil, hak suaranya hanya turun dari 1,2228 persen menjadi 1,182 persen dan ia tetap menjabat komisaris tanpa ada perubahan status kendali. Yang tersentuh di sini cuma jumlah saham pribadi milik Henry Liem, bukan struktur permodalan AKPI, sehingga tidak memengaruhi ekuitas maupun laba per saham perusahaan; hak suara yang disebut di sini sekadar persentase saham yang ia pegang dibanding total saham AKPI yang beredar, jadi turunnya 0,04 poin persentase itu praktis tidak mengubah apa pun. Yang perlu dipantau adalah apakah penjualan bertahap ini berlanjut, sebab dalam dua hari beruntun (22 dan 23 September 2026) Henry Liem sudah melepas total 283.800 saham, dan baru jika pola ini terus berulang dalam laporan-laporan berikutnya, akumulasinya pantas dibaca sebagai sinyal yang lebih berarti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bnba-dana-rights-issue-ke-ekspansi-usaha-0-terealisasi",
+  "category": "Aksi Korporasi",
+  "title": "BNBA: dana rights issue ke [ekspansi usaha] 0% terealisasi",
+  "deck": "BNBA mengoreksi laporan dana rights issue 2022: dana infrastruktur baru 5,66% terealisasi, ekspansi usaha 0%, sisa Rp118 miliar mengendap di giro.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T10:49:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f9cef653ec_11e5d24b69.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNBA",
+  "tags": [
+   "BNBA",
+   "Bank Bumi Arta",
+   "rights issue",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Bank Bumi Arta Tbk (BNBA) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum yang sebelumnya disampaikan pada 15 Juli 2026. Laporan ini terkait Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu II (rights issue bersimbol BNBA-R) yang efektif sejak 21 November 2022. Dana yang terkumpul dari aksi korporasi tersebut sebesar Rp828,52 miliar, dengan biaya penawaran umum Rp5,11 miliar, sehingga hasil bersihnya Rp823,4 miliar, dilaporkan per posisi 30 Juni 2026.",
+   "Menurut rencana di prospektus, 80 persen dana atau Rp658,73 miliar dialokasikan untuk penyaluran kredit, masing-masing 10 persen atau Rp82,34 miliar untuk infrastruktur TI dan sumber daya manusia, serta untuk ekspansi usaha. Sampai akhir Juni 2026, porsi penyaluran kredit sudah terealisasi penuh sesuai rencana. Namun realisasi dana untuk infrastruktur TI dan SDM baru mencapai Rp46,64 miliar, setara 5,66 persen dari total dana, jauh di bawah rencana 10 persen. Dana untuk ekspansi usaha bahkan belum terealisasi sama sekali, tercatat Rp0 dari rencana Rp82,34 miliar. Secara keseluruhan, realisasi dana baru mencapai Rp705,36 miliar atau 85,66 persen, menyisakan Rp118,04 miliar atau 14,34 persen yang belum digunakan.",
+   "Sisa dana tersebut ditempatkan di rekening giro PT Bank Oke Indonesia Tbk dengan bunga 5 persen per tahun, dan disebutkan sebagai pihak yang tidak terafiliasi dengan BNBA. Total biaya penawaran umum Rp5,11 miliar terdiri dari biaya jasa profesi penunjang pasar modal Rp3,57 miliar (69,85 persen), biaya jasa konsultasi keuangan Rp832,5 juta (16,28 persen), biaya jasa lembaga penunjang pasar modal Rp111,01 juta (2,17 persen), dan biaya lain-lain Rp598,41 juta (11,7 persen). Laporan ditandatangani secara elektronik oleh Corporate Secretary BNBA, Lyvinia Sari, pada 23 September 2026."
+  ],
+  "fotoAdegan": "Bank tellers assisting customers at a busy counter inside a modern Indonesian bank branch, warm interior lighting, midday",
+  "takeaway": "Laporan ini netral cenderung perlu diwaspadai, karena dua dari tiga pos penggunaan dana rights issue meleset jauh dari rencana: dana infrastruktur TI dan SDM baru terpakai 5,66 persen dari total dana padahal rencananya 10 persen, dan dana untuk ekspansi usaha sama sekali belum tersentuh meski sudah direncanakan sejak 2022. Yang tersentuh di sini adalah ekuitas dan arus kas bank, karena dana rights issue menambah modal perseroan, dan sisa dana yang belum dipakai, Rp118 miliar, saat ini hanya mengendap sebagai simpanan giro berbunga 5 persen, bukan disalurkan sebagai kredit atau investasi produktif yang biasanya memberi imbal hasil lebih tinggi bagi bank. Sisi positifnya, porsi terbesar dana yakni penyaluran kredit senilai Rp658,73 miliar sudah terealisasi penuh sesuai rencana, sehingga fungsi utama modal untuk memperbesar bisnis pembiayaan sudah berjalan. Yang perlu dipantau berikutnya adalah laporan realisasi periode mendatang, karena dokumen menyebut seluruh dana direncanakan habis dipakai secara bertahap hingga semester II 2029, dan jika pos infrastruktur serta ekspansi usaha terus mandek maka investor patut mempertanyakan alasan penundaannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bnba-koreksi-laporan-dana-rights-issue-sisa-rp44-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BNBA [koreksi] laporan dana rights issue, sisa Rp44,7 miliar",
+  "deck": "Bank Bumi Arta mengoreksi laporan realisasi dana rights issue 2021. Kredit terserap penuh, pengembangan digital banking baru 64 persen, sisa Rp44,66 miliar mengendap di giro bank lain.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T10:48:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/28d05869e2_19132cb8f2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNBA",
+  "tags": [
+   "BNBA",
+   "Bank Bumi Arta",
+   "rights issue",
+   "realisasi dana"
+  ],
+  "body": [
+   "Bank Bumi Arta Tbk (BNBA) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil penawaran umum yang sebelumnya dikirim ke Otoritas Jasa Keuangan lewat surat nomor 015/BNBA/VII/2026 tertanggal 15 Juli 2026. Koreksi ini merinci ulang penggunaan dana hasil penawaran umum terbatas (rights issue) PMHMETD I yang efektif sejak 1 Desember 2021. Total dana yang terkumpul dari aksi korporasi itu Rp621,39 miliar, setelah dipotong biaya penawaran umum Rp3,13 miliar, dana bersih yang bisa dipakai perseroan tercatat Rp618,26 miliar.",
+   "Menurut prospektus, dana bersih itu direncanakan untuk dua pos: 80 persen atau Rp494,60 miliar untuk pemberian kredit, dan 20 persen atau Rp123,65 miliar untuk pengembangan digital banking. Per 30 Juni 2026, pos pemberian kredit sudah terserap penuh sesuai rencana, yakni Rp494,60 miliar. Sementara pos pengembangan digital banking baru terealisasi Rp78,99 miliar, atau sekitar 64 persen dari rencana Rp123,65 miliar untuk pos itu. Total realisasi dana hingga periode itu mencapai Rp573,60 miliar atau 92,78 persen dari dana bersih, menyisakan Rp44,66 miliar atau 7,22 persen yang belum tersalurkan.",
+   "Sisa dana itu ditempatkan dalam bentuk rekening giro di PT Bank Oke Indonesia Tbk, pihak yang tidak terafiliasi dengan BNBA, dengan bunga 5 persen per tahun. Dari sisi biaya penawaran umum, rincian terbesar adalah biaya jasa profesi penunjang pasar modal Rp1,82 miliar (57,9 persen), biaya jasa konsultasi keuangan Rp825 juta (26,32 persen), biaya lain-lain termasuk biaya pendaftaran Rp412,1 juta (13,15 persen), dan biaya jasa lembaga penunjang pasar modal Rp82,51 juta (2,63 persen), dengan total biaya Rp3,13 miliar. Laporan koreksi ini ditandatangani oleh Corporate Secretary BNBA, Lyvinia Sari, pada 23 September 2026."
+  ],
+  "fotoAdegan": "Bank teller assisting a customer at a counter inside a modern Indonesian bank branch, soft midday light, no readable signage",
+  "takeaway": "Laporan koreksi ini netral bagi BNBA, karena angka yang diperbarui justru menunjukkan realisasi dana rights issue sudah mencapai 92,78 persen dari dana bersih Rp618,26 miliar, jauh dari kesan macet yang sempat tergambar dari laporan sebelumnya. Yang tersentuh di sini adalah arus kas dan efisiensi modal bank: dana Rp44,66 miliar yang belum tersalurkan sebagai kredit masih mengendap di rekening giro bank lain dengan bunga cuma 5 persen per tahun, padahal kalau disalurkan sebagai kredit oleh BNBA sendiri biasanya bisa menghasilkan margin bunga yang lebih besar, sehingga ada biaya kesempatan selama dana itu belum terpakai. Perlu dicatat pula pos pengembangan digital banking baru terserap 64 persen dari rencana meski rights issue-nya sudah efektif sejak Desember 2021, hampir lima tahun lalu, sehingga kecepatan proyek digitalnya patut dicermati. Yang perlu dipantau berikutnya adalah laporan realisasi periode selanjutnya, untuk melihat apakah sisa Rp44,66 miliar itu akhirnya tersalurkan sepenuhnya sesuai prospektus, mengingat data dalam laporan ini baru mencakup posisi sampai 30 Juni 2026.",
   "sentimen": "netral"
  },
  {

@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mglv-setor-modal-rp98-miliar-ke-afiliasi-nac-dan-ngc",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Setor Modal Rp98 Miliar ke [Afiliasi] NAC dan NGC",
+  "deck": "Perseroan menyuntik modal Rp49 miliar ke masing-masing anak usaha NAC dan NGC, total Rp98 miliar, tergolong transaksi material karena melebihi 20 persen ekuitas Perseroan.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "transaksi afiliasi",
+   "penyertaan modal",
+   "data center"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a2755e5864_d3a1d2a224.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-jamin-utang-rp10-75-triliun-bni-ke-dua-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "MGLV [Jamin] Utang Rp10,75 Triliun BNI ke Dua Anak Usaha",
+  "deck": "MGLV menandatangani fasilitas kredit BNI senilai Rp10,75 triliun untuk anak usaha NAC dan NGC, dijamin dengan corporate guarantee dari induk perusahaan, dan tergolong transaksi material sekaligus afiliasi.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "transaksi afiliasi",
+   "corporate guarantee",
+   "data center"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8e6ca96f45_ffbafc1bba.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prdl-alihkan-rp2-5-miliar-dana-ipo-ke-ahu-ruang-produksi",
+  "category": "Aksi Korporasi",
+  "title": "PRDL alihkan Rp2,5 miliar dana IPO ke [AHU] ruang produksi",
+  "deck": "Prodia Diagnostic Line mengalihkan Rp2,5 miliar dana IPO dari rencana mesin Hematologi ke pengadaan alat pengatur suhu ruang produksi kering.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDL",
+   "IPO",
+   "penggunaan dana IPO",
+   "alat kesehatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4af0b66823_d8e484c85e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nasi-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "NASI Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab surat Bursa Efek Indonesia, PT Wahana Inti Makmur menyatakan tidak ada informasi material maupun rencana aksi korporasi di balik lonjakan transaksi saham NASI belakangan ini.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NASI",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8f0c1fdf50_126eafcec5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "maxi-koreksi-laporan-realisasi-dana-ipo-rp45-miliar-tuntas",
+  "category": "Aksi Korporasi",
+  "title": "MAXI [koreksi] laporan realisasi dana IPO Rp45 miliar tuntas",
+  "deck": "PT Maxindo Karya Anugerah mengoreksi laporan penggunaan dana IPO per 30 Juni 2026, menyatakan seluruh dana Rp45 miliar sudah terpakai untuk modal kerja, tersisa Rp150.635 di rekening BCA.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAXI",
+   "penggunaan dana IPO",
+   "laporan keuangan",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/006db8ce0e_205ef6d526.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemnaker-luncurkan-maganghub-batch-2-40-962-peserta-lolos",
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Luncurkan [MagangHub] Batch 2, 40.962 Peserta Lolos",
@@ -35,6 +115,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7109/menko-airlangga-investasi-produktivitas-dan-ekspor-bernilai-tambah-jadi-kunci-pertumbuhan-ekonomi-2027",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "asrm-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ASRM: Tak Ada Info Material di Balik Volatilitas [Saham]",
+  "deck": "Menjawab permintaan penjelasan BEI, Asuransi Ramayana Tbk memastikan tidak ada informasi material atau rencana aksi korporasi di balik pergerakan transaksi sahamnya.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASRM",
+   "Asuransi Ramayana",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05fa73a498_31131d121c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "silo-tanggapi-bei-rupslb-kunci-akuisisi-rs-aset-dijaminkan",
+  "category": "Aksi Korporasi",
+  "title": "SILO Tanggapi BEI: RUPSLB Kunci [Akuisisi] RS, Aset Dijaminkan",
+  "deck": "SILO merespons permintaan penjelasan BEI atas lonjakan transaksi 18 September, sekaligus mengonfirmasi RUPSLB menyetujui akuisisi rumah sakit Rp9 triliun dan penjaminan aset sebagai agunan utang.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SILO",
+   "akuisisi rumah sakit",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f8f8697310_cf7a710a76.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "sqmi-cgs-international-kurangi-saham-hak-suara-ke-15-56",
@@ -650,6 +762,38 @@ var ARTICLES = [
    "dewan komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7452-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnba-dana-rights-issue-ke-ekspansi-usaha-0-terealisasi",
+  "category": "Aksi Korporasi",
+  "title": "BNBA: dana rights issue ke [ekspansi usaha] 0% terealisasi",
+  "deck": "BNBA mengoreksi laporan dana rights issue 2022: dana infrastruktur baru 5,66% terealisasi, ekspansi usaha 0%, sisa Rp118 miliar mengendap di giro.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNBA",
+   "Bank Bumi Arta",
+   "rights issue",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f9cef653ec_11e5d24b69.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnba-koreksi-laporan-dana-rights-issue-sisa-rp44-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BNBA [koreksi] laporan dana rights issue, sisa Rp44,7 miliar",
+  "deck": "Bank Bumi Arta mengoreksi laporan realisasi dana rights issue 2021. Kredit terserap penuh, pengembangan digital banking baru 64 persen, sisa Rp44,66 miliar mengendap di giro bank lain.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNBA",
+   "Bank Bumi Arta",
+   "rights issue",
+   "realisasi dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/28d05869e2_19132cb8f2.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6363,146 +6507,6 @@ var ARTICLES = [
    "kepatuhan emiten"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/610d87d705_3feaefb998.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apli-baru-kantongi-free-float-7-82-wajib-15-pada-2029",
-  "category": "Aksi Korporasi",
-  "title": "APLI Baru Kantongi [Free Float] 7,82%, Wajib 15% pada 2029",
-  "deck": "Asiaplast menjelaskan ke Bursa bahwa saham beredar bebasnya baru 7,82%, jauh dari syarat minimum 15%. Pengendali berencana melepas sekitar 97,8 juta saham secara bertahap hingga 2029.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APLI",
-   "free float",
-   "Asiaplast Industries",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c164b34a69_b8c56b1168.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkgi-angkat-wimpi-salim-jadi-direktur-utama-baru",
-  "category": "Aksi Korporasi",
-  "title": "KKGI Angkat Wimpi Salim Jadi [Direktur Utama] Baru",
-  "deck": "KKGI mengangkat Wimpi Salim sebagai Direktur Utama baru menggantikan Pintarso Adijanto, serta Lucky Ciptadi Wibowo sebagai direktur baru menggantikan Winanto, efektif 15 September 2026.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KKGI",
-   "Resource Alam Indonesia",
-   "Pergantian Direksi",
-   "Tata Kelola Perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a550b38626_dfa5eb1dec.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sdra-komisaris-independen-ahmad-fajarprana-mundur",
-  "category": "Aksi Korporasi",
-  "title": "SDRA: Komisaris Independen Ahmad Fajarprana [Mundur]",
-  "deck": "Bank Woori Saudara Indonesia 1906 (SDRA) melaporkan pengunduran diri Ahmad Fajarprana dari jabatan Komisaris Independen per 16 September 2026, menunggu keputusan RUPS.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SDRA",
-   "Bank Woori Saudara",
-   "komisaris independen",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/44c55ebb66_f48be9443b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indr-akui-belum-penuhi-syarat-free-float-tenggat-2029",
-  "category": "Aksi Korporasi",
-  "title": "INDR Akui Belum Penuhi Syarat [Free Float], Tenggat 2029",
-  "deck": "Indo-Rama Synthetics menjelaskan ke Bursa bahwa saham beredar publiknya belum capai batas minimum, dengan rencana pemenuhan paling lambat 31 Maret 2029.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDR",
-   "free float",
-   "Bursa Efek Indonesia",
-   "kepatuhan emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/754fcf668b_0346bd23ae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-jecc-melonjak-25-ke-auto-rejection-bursa-minta-klarifikasi",
-  "category": "Aksi Korporasi",
-  "title": "Saham JECC Melonjak [25%] ke Auto-Rejection, Bursa Minta Klarifikasi",
-  "deck": "Bursa meminta penjelasan setelah saham JECC melonjak 25 persen ke Rp825 dan menyentuh batas atas auto-rejection pada 10 September 2026, di tengah IHSG yang justru melemah.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECC",
-   "UMA",
-   "volatilitas saham",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf81b011d6_0a50f468ae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bukk-belum-penuhi-free-float-minimum-bursa-minta-penjelasan",
-  "category": "Aksi Korporasi",
-  "title": "BUKK Belum Penuhi [Free Float] Minimum, Bursa Minta Penjelasan",
-  "deck": "Bukaka Teknik Utama menjawab permintaan penjelasan Bursa Efek Indonesia soal syarat free float minimum 15 persen yang belum terpenuhi, dengan target bertahap ke 7,5 persen lalu 15 persen pada 2029.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUKK",
-   "free float",
-   "Bukaka Teknik Utama",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/24440b5c02_325805b678.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-naik-rp5-000-jadi-rp2-598-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Naik] Rp5.000 jadi Rp2.598.000/Gram",
-  "deck": "Harga emas batangan Antam naik tipis ke Rp2.598.000 per gram, sementara harga buyback bertahan di Rp2.438.000 per gram.",
-  "date": "17 September 2026",
-  "image": "assets/img/harga-emas-antam-naik-rp5-000-jadi-rp2-598-000-gram.jpg",
-  "imageV": "mu52njx3",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467625-harga-emas-antam-hari-ini-17-september-2026-naik-rp5000-ke-angka-rp2598000-per-gram-buyback-stagnan"
- },
- {
-  "slug": "babp-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "BABP Jawab Bursa soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "Bank MNC Internasional (BABP) menegaskan tidak ada informasi material di balik pergerakan sahamnya, merespons permintaan penjelasan BEI atas volatilitas transaksi.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BABP",
-   "volatilitas saham",
-   "Bank MNC Internasional",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1a8d811b25_d0cb1729d1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "yoii-volume-saham-melonjak-40x-emiten-bantah-ada-kabar-baru",
-  "category": "Aksi Korporasi",
-  "title": "YOII: Volume Saham [Melonjak] 40x, Emiten Bantah Ada Kabar Baru",
-  "deck": "Saham PT Asuransi Digital Bersama Tbk naik 4,94% ke Rp85 dengan volume melonjak ke 131,5 juta lembar dan 10.286 kali transaksi pada 15 September 2026, memicu permintaan penjelasan dari BEI.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YOII",
-   "volatilitas saham",
-   "BEI",
-   "Asuransi Digital Bersama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/39d018120b_8d8c29372e.pdf",
   "sourceLabel": "IDX"
  }
 ];

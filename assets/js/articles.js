@@ -528,7 +528,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka paling konkret dari pernyataan ini adalah target pertumbuhan 6 persen untuk 2027, naik dari realisasi 5,45 persen pada semester I 2026, dengan dua alat kebijakan yang sudah berjalan yakni PP 28/2025 dan Keppres 4/2026 untuk memangkas hambatan izin usaha, serta 25 perjanjian dagang yang sudah diimplementasikan. Pihak yang paling terdampak adalah pelaku usaha padat karya seperti industri tekstil yang disebut eksplisit jadi sasaran program restrukturisasi, juga investor yang mengincar insentif di Kawasan Ekonomi Khusus dan Danantara. Target 6 persen ini tampak sebagai batu loncatan bertahap menuju 8 persen dalam jangka menengah, bukan lompatan langsung, karena Airlangga sendiri memasang tiga syarat sekaligus yaitu investasi, produktivitas, dan ekspor, yang belum satu pun tercapai saat pernyataan ini disampaikan. Yang akan memperlihatkan apakah lintasan ini realistis adalah data pertumbuhan ekonomi kuartal III 2026 yang bakal dirilis Badan Pusat Statistik awal November, sebab paruh kedua tahun ini perlu berakselerasi cukup jauh dari capaian 5,45 persen di semester pertama.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "asrm-tak-ada-info-material-di-balik-volatilitas-saham",

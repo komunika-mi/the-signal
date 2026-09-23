@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pt-pal-siapkan-galangan-di-lamongan-bisa-garap-kapal-selam",
+  "category": "BUMN",
+  "title": "PT PAL Siapkan Galangan di Lamongan, Bisa Garap [Kapal Selam]",
+  "deck": "PT PAL menyiapkan galangan kapal di Lamongan untuk kapal komersial hingga kapal perang dan kapal selam, memanfaatkan kapasitas reparasi kapal di Jawa Timur yang masih sangat terbatas.",
+  "image": "assets/img/pt-pal-siapkan-galangan-di-lamongan-bisa-garap-kapal-selam.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T15:25:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468874-pt-pal-tangani-berbagai-jenis-kapal-termasuk-kapal-temour-dan-selam-di-lamongan-optimis-dongkrak-pad",
+  "tags": [
+   "Lamongan",
+   "PT PAL",
+   "galangan kapal",
+   "kapal selam"
+  ],
+  "body": [
+   "PT PAL Indonesia tengah menyiapkan galangan kapal baru di Desa Sidokelar, Kecamatan Paciran, Kabupaten Lamongan, Jawa Timur. Fasilitas ini dirancang untuk melayani berbagai jenis kapal, mulai dari kapal niaga biasa hingga kapal perang dan kapal selam. Ketua Tim Penyertaan Modal Negara (PMN) PT PAL, Uut Tata Wijaya, menyebut proyek ini sebagai upaya perusahaan pelat merah tersebut memperluas kapasitas reparasi dan pembuatan kapal di dalam negeri.",
+   "Lokasi Sidokelar dipilih PT PAL setelah melakukan survei ke belasan daerah lain, termasuk Batam dan Kalimantan. Uut menjelaskan kawasan itu punya sejumlah keunggulan, seperti riwayat pernah digunakan sebagai galangan kapal, kedalaman laut yang memadai, dan garis pantai yang panjang, sehingga dinilai paling cocok dibanding lokasi lain yang disurvei.",
+   "Potensi pasar reparasi kapal di Jawa Timur, menurut Uut, masih jauh dari terlayani. Berdasarkan data yang dipegang PT PAL, ada sekitar 22.891 kunjungan kapal ke Jawa Timur setiap tahun, sementara kapasitas galangan yang tersedia saat ini hanya mampu menangani sekitar 984 kapal, atau sekitar 4,29 persen dari total kunjungan itu. Selain membidik pasar Jawa Timur, PT PAL juga menyasar kapal-kapal dari wilayah timur dan tengah Indonesia, yang selama ini menghadapi biaya perbaikan lebih mahal akibat keterbatasan fasilitas galangan di daerah tersebut.",
+   "Untuk tahap awal, galangan di Paciran ini akan difokuskan pada perbaikan kapal, mencakup kapal kargo, tongkang, hingga kapal perang. Uut menyebut pembangunan kapal baru baru akan dilakukan belakangan, kalau memang ada kebutuhan. Ia menambahkan, kondisi perairan di sekitar galangan memungkinkan untuk menangani uji coba kapal militer berukuran besar, termasuk kapal selam, karena kedalaman lautnya dinilai mencukupi."
+  ],
+  "fotoAdegan": "Shipyard workers welding a ship hull in a dry dock beside a calm coastline, cranes and scaffolding overhead, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/23/6ab38b61838fa-pt-pal-tangani-berbagai-jenis-kapal-termasuk-kapal-temour-dan-kapal-selam-di-lamongan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan sekadar rencana investasi baru, melainkan target pasar yang sudah dipetakan PT PAL: dari sekitar 22.891 kunjungan kapal ke Jawa Timur tiap tahun, galangan yang ada sekarang cuma sanggup menangani 984 kapal, atau kurang dari 5 persen. Artinya sebagian besar kapal yang butuh perbaikan selama ini terpaksa antre lama atau dikirim ke luar daerah dengan ongkos lebih mahal, dan celah itulah yang coba diisi PT PAL lewat fasilitas baru di Lamongan. Yang kena dampak langsung adalah pemilik kapal niaga dan tongkang di Jawa Timur serta Indonesia timur dan tengah, sementara untuk jangka lebih panjang ini juga menyangkut kebutuhan TNI Angkatan Laut karena galangan ini disiapkan mampu menangani kapal perang dan kapal selam. Arahnya sendiri masih bertahap dan belum pasti, sebab PT PAL menegaskan tahap awal hanya untuk perbaikan kapal, sedangkan pembangunan kapal baru baru dilakukan kalau ada kebutuhan, jadi belum ada kepastian kapan galangan ini benar-benar bisa membangun kapal perang atau kapal selam sendiri. Yang akan memastikan arah itu adalah apakah PT PAL nantinya mengumumkan nilai investasi dan target waktu operasional galangan, serta apakah kontrak reparasi kapal pertama di lokasi ini benar-benar terealisasi.",
+  "imageV": "muduto2v"
+ },
+ {
   "slug": "kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim",
   "category": "Industri",
   "title": "KKP Sita [1.048] Ton Udang Impor Diduga Bocor ke Pasar Jatim",

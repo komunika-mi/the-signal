@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pt-pal-siapkan-galangan-di-lamongan-bisa-garap-kapal-selam",
+  "category": "BUMN",
+  "title": "PT PAL Siapkan Galangan di Lamongan, Bisa Garap [Kapal Selam]",
+  "deck": "PT PAL menyiapkan galangan kapal di Lamongan untuk kapal komersial hingga kapal perang dan kapal selam, memanfaatkan kapasitas reparasi kapal di Jawa Timur yang masih sangat terbatas.",
+  "date": "23 September 2026",
+  "image": "assets/img/pt-pal-siapkan-galangan-di-lamongan-bisa-garap-kapal-selam.jpg",
+  "imageV": "muduto2v",
+  "tags": [
+   "Lamongan",
+   "PT PAL",
+   "galangan kapal",
+   "kapal selam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468874-pt-pal-tangani-berbagai-jenis-kapal-termasuk-kapal-temour-dan-selam-di-lamongan-optimis-dongkrak-pad"
+ },
+ {
   "slug": "kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim",
   "category": "Industri",
   "title": "KKP Sita [1.048] Ton Udang Impor Diduga Bocor ke Pasar Jatim",
@@ -6497,22 +6514,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916195327-64320-0/FinancialStatement-2026-II-GMFI.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-kerajinan",
-  "category": "UMKM",
-  "title": "Nasabah PNM Mekaar [Sulap] Sampah Pasar Jadi Kerajinan",
-  "deck": "Seorang mantan guru mengubah kulit jagung dan pecahan kaca dari sampah pasar menjadi kerajinan bernilai jual setelah penghasilannya anjlok akibat pandemi.",
-  "date": "16 September 2026",
-  "image": "assets/img/nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-kerajinan.jpg",
-  "imageV": "mu45r2ng",
-  "tags": [
-   "pnm mekaar",
-   "umkm",
-   "kerajinan limbah",
-   "usaha rumahan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467536-jeli-melihat-peluang-nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-usaha-beromzet-jutaan"
  }
 ];

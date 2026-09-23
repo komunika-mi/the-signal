@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "049bWNI1hNw",
+  "title": "Batasan Usia Jadi Batu Sandungan Pelamar di Job Fair",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "Sejumlah bursa kerja masih menerapkan batas usia bagi pelamar, sehingga pencari kerja yang melewati batas tersebut kehilangan kesempatan mendapat pekerjaan.",
+  "takeaway": "Isu ini menyoroti hambatan struktural di pasar tenaga kerja yang berpotensi memperlebar angka pengangguran usia produktif."
+ },
+ {
   "id": "5m4Fin5qa4g",
   "title": "Petani Garam Terdampak Kekeringan, Produksi Terhambat",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Purbaya Yudhi Sadewa resmi menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara dalam acara serah terima di Jakarta.",
   "takeaway": "Pergantian Menteri Keuangan berpotensi memengaruhi arah kebijakan fiskal yang menjadi perhatian pelaku pasar dan dunia usaha."
- },
- {
-  "id": "Zg1hXYe0N1E",
-  "title": "Ratusan Kendaraan di Jeneponto Antre Panjang Demi BBM",
-  "category": "Energi",
-  "program": "AKIS tvOne",
-  "summary": "Antrean kendaraan mengular hingga beberapa kilometer di sejumlah SPBU Jeneponto akibat keterbatasan pasokan bahan bakar minyak.",
-  "takeaway": "Kelangkaan BBM di daerah berdampak langsung pada mobilitas warga dan biaya operasional pelaku usaha setempat."
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "049bWNI1hNw",
+  "title": "Batasan Usia Jadi Batu Sandungan Pelamar di Job Fair",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "Sejumlah bursa kerja masih menerapkan batas usia bagi pelamar, sehingga pencari kerja yang melewati batas tersebut kehilangan kesempatan mendapat pekerjaan.",
+  "takeaway": "Isu ini menyoroti hambatan struktural di pasar tenaga kerja yang berpotensi memperlebar angka pengangguran usia produktif.",
+  "terbit": "2026-09-23T11:02:29+00:00"
+ },
+ {
   "id": "5m4Fin5qa4g",
   "title": "Petani Garam Terdampak Kekeringan, Produksi Terhambat",
   "category": "Industri",

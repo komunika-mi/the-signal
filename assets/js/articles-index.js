@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemnaker-luncurkan-maganghub-batch-2-40-962-peserta-lolos",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker Luncurkan [MagangHub] Batch 2, 40.962 Peserta Lolos",
+  "deck": "Kemnaker memulai MagangHub Batch 2 Angkatan II dengan 40.962 peserta lolos seleksi, termasuk 15 penyandang disabilitas, untuk magang enam bulan di berbagai instansi dan sektor industri.",
+  "date": "23 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "MagangHub",
+   "Kemnaker",
+   "pemagangan",
+   "lulusan perguruan tinggi"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-mulai-maganghub-batch-2-sebanyak-40962-peserta-siap-ikuti-pemagangan",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "pemerintah-targetkan-pertumbuhan-ekonomi-6-pada-2027",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Targetkan Pertumbuhan Ekonomi [6%] pada 2027",
+  "deck": "Menko Airlangga menyebut investasi, produktivitas, dan ekspor bernilai tambah jadi syarat utama mengejar target pertumbuhan 6 persen pada 2027, menuju 8 persen dalam jangka menengah.",
+  "date": "23 September 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "pertumbuhan ekonomi",
+   "Airlangga Hartarto",
+   "investasi 2027",
+   "target OECD"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7109/menko-airlangga-investasi-produktivitas-dan-ekspor-bernilai-tambah-jadi-kunci-pertumbuhan-ekonomi-2027",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "sqmi-cgs-international-kurangi-saham-hak-suara-ke-15-56",
   "category": "Aksi Korporasi",
   "title": "[SQMI] CGS International Kurangi Saham, Hak Suara ke 15,56%",
@@ -3684,7 +3716,7 @@ var ARTICLES = [
   "title": "Menaker: Kebutuhan Tenaga Kerja [Hijau] Terus Meningkat",
   "deck": "Menaker Yassierli menyebut kebutuhan tenaga kerja di sektor hijau akan terus naik seiring berkembangnya kendaraan listrik dan energi terbarukan, dengan target hingga 5,32 juta pekerja pada 2029.",
   "date": "21 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/pelatihan-vokasi.jpg",
   "tags": [
    "Ketenagakerjaan",
    "Transisi Hijau",
@@ -6471,38 +6503,6 @@ var ARTICLES = [
    "Asuransi Digital Bersama"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/39d018120b_8d8c29372e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbrm-belum-penuhi-syarat-minimum-free-float-ditegur-bursa",
-  "category": "Aksi Korporasi",
-  "title": "BBRM Belum Penuhi Syarat Minimum [Free Float], Ditegur Bursa",
-  "deck": "Bursa Efek Indonesia meminta penjelasan tertulis BBRM setelah porsi saham publik per 30 Juni 2026 belum mencapai syarat minimum 15 persen dari total saham tercatat.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBRM",
-   "free float",
-   "Bursa Efek Indonesia",
-   "kepatuhan pencatatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0d485eaee9_39cf7da8de.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbrm-lonjakan-saham-9-september-murni-mekanisme-pasar",
-  "category": "Aksi Korporasi",
-  "title": "BBRM: Lonjakan Saham 9 September Murni [Mekanisme Pasar]",
-  "deck": "BBRM menjawab permintaan Bursa usai volume transaksi sahamnya melonjak 26 kali lipat dan harga naik 7,5 persen pada 9 September 2026.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBRM",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/500f67e172_212430a912.pdf",
   "sourceLabel": "IDX"
  }
 ];

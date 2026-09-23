@@ -5,6 +5,246 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sqmi-cgs-international-kurangi-saham-hak-suara-ke-15-56",
+  "category": "Aksi Korporasi",
+  "title": "[SQMI] CGS International Kurangi Saham, Hak Suara ke 15,56%",
+  "deck": "CGS International Securities Singapore melepas 123 juta saham SQMI pada 17 September 2026, memangkas hak suaranya dari 16,35% menjadi 15,56%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SQMI",
+   "kepemilikan saham",
+   "CGS International",
+   "Wilton Makmur Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4216-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bipp-incar-pmthmetd-hingga-10-rupslb-25-september",
+  "category": "Aksi Korporasi",
+  "title": "BIPP incar [PMTHMETD] hingga 10%, RUPSLB 25 September",
+  "deck": "BIPP mengubah dan menambah informasi rencana penambahan modal tanpa HMETD hingga 502,86 juta saham baru, disetujui RUPSLB Jumat 25 September 2026.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "RUPSLB",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1420ad2827_ec2dd07b37.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnbn-jelaskan-volatilitas-transaksi-usai-harga-anjlok-3-95",
+  "category": "Aksi Korporasi",
+  "title": "PNBN Jelaskan [Volatilitas] Transaksi Usai Harga Anjlok 3,95%",
+  "deck": "PNBN menjawab permintaan BEI atas lonjakan volume dan penurunan harga saham 3,95% pada 18 September, menyatakan tidak ada informasi material yang belum diungkap.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNBN",
+   "Bank Panin",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bed47120e5_096c3384ac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "winr-pemegang-saham-utama-lepas-31-juta-saham-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Utama Lepas 31 Juta Saham [Free Float]",
+  "deck": "PEMENANG NUSANTARA INTERNASIONAL kembali menjual 31 juta saham WINR secara tidak langsung pada 18 September 2026, hak suaranya turun dari 46,91 persen menjadi 46,31 persen.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1639-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fast-jelaskan-pkpu-rp2-83-miliar-ke-bei-sudah-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "FAST Jelaskan [PKPU] Rp2,83 Miliar ke BEI, Sudah Dicabut",
+  "deck": "FAST menjawab permintaan penjelasan BEI soal permohonan PKPU senilai Rp2,83 miliar yang berasal dari sengketa hak cipta, namun sudah dicabut pemohon pada 17 September 2026.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FAST",
+   "PKPU",
+   "Pengadilan Niaga",
+   "sengketa hak cipta"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4b97da00ca_b86ac296f1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hoki-jelaskan-lonjakan-transaksi-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "HOKI Jelaskan Lonjakan Transaksi, Tak Ada Info [Material]",
+  "deck": "Volume saham HOKI melonjak 23 kali lipat dalam sehari, tapi harga hanya naik 4 persen. Manajemen menyatakan tidak ada informasi material di baliknya.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HOKI",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9fbfa71e7e_f4cb44cda2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-anak-usaha-kunci-pinjaman-us-9-8-juta-dari-smi",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Anak Usaha Kunci Pinjaman [US$9,8 Juta] dari SMI",
+  "deck": "Anak usaha ARKO, EES, menandatangani perjanjian pembiayaan maksimum US$9,8 juta dengan PT SMI untuk mendanai proyek PLTS yang sudah beroperasi komersial.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "pembiayaan infrastruktur",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba5862d76d_52781e2512.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "brms-direktur-adika-bakrie-beli-750-500-saham-rp665-lembar",
+  "category": "Aksi Korporasi",
+  "title": "BRMS: Direktur Adika Bakrie [Beli] 750.500 Saham Rp665/Lembar",
+  "deck": "Direktur BRMS Adika Aryasthana Bakrie melaporkan pembelian tidak langsung 750.500 saham perseroan seharga Rp665 per lembar pada 22 September 2026.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRMS",
+   "kepemilikan saham",
+   "direksi",
+   "Bumi Resources Minerals"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7171-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "safe-keluar-dari-pemantauan-khusus-bei-efektif-24-september",
+  "category": "Aksi Korporasi",
+  "title": "SAFE Keluar dari [Pemantauan Khusus] BEI, Efektif 24 September",
+  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham Steady Safe Tbk (SAFE) mulai 24 September 2026, setelah kriteria terkait riwayat suspensi perdagangan tidak lagi terpenuhi.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAFE",
+   "Steady Safe Tbk",
+   "pemantauan khusus",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca8f98ff2c_aaf52c7b32.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asii-komisaris-prijono-sugiarto-beli-8-700-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Komisaris Prijono Sugiarto [beli] 8.700 saham baru",
+  "deck": "Komisaris Astra International Prijono Sugiarto membeli 8.700 saham ASII seharga Rp4.850 per lembar pada 21 September 2026, menambah kepemilikannya menjadi 5.595.800 lembar.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-3032-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-utang-wwe-rp16-44-miliar-dinovasi-ke-wki-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Utang WWE Rp16,44 Miliar Dinovasi ke WKI [Afiliasi]",
+  "deck": "Waskita Karya Infrastruktur mengambil alih utang Rp16,44 miliar milik Waskita Wado Energi kepada induk usaha Waskita Karya, bagian dari rencana penambahan modal WWE untuk proyek PLTA Wado.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "transaksi afiliasi",
+   "PLTA Wado"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1da298ade6_ad9b3815e4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asii-direksi-rudy-borong-4-4-juta-saham-kepemilikan-naik-3x",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Direksi Rudy [borong] 4,4 juta saham, kepemilikan naik 3x",
+  "deck": "Direksi Astra International, Rudy, membeli 4,4 juta saham ASII senilai sekitar Rp21 miliar dalam dua hari, menambah kepemilikannya lebih dari tiga kali lipat menjadi 5,6 juta saham.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1413-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hgii-direksi-tambah-kepemilikan-450-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "HGII: Direksi [Tambah] Kepemilikan 450.000 Saham",
+  "deck": "Direksi Robin Sunyoto membeli 450.000 saham HGII senilai sekitar Rp61,3 juta pada 16-22 September 2026, menaikkan hak suaranya dari 0,24% menjadi 0,25%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HGII",
+   "kepemilikan saham",
+   "direksi",
+   "insider trading"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-8237-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-investor-lepas-10-3-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Investor Lepas 10,3 Juta Saham via [Repo]",
+  "deck": "Sujito Ngatiman menjual 10,3 juta saham DEWI seharga Rp184 per lembar lewat skema repurchase agreement, menurunkan hak suaranya dari 8,04% jadi 7,53%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-6812-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-tambah-saham-jadi-8-04",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman [Tambah] Saham Jadi 8,04%",
+  "deck": "Sujito Ngatiman membeli 8,89 juta saham DEWI lewat perjanjian pembelian kembali (repo) seharga Rp170 per lembar, hak suaranya naik dari 7,59% menjadi 8,04%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repo",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4072-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pt-pal-siapkan-galangan-di-lamongan-bisa-garap-kapal-selam",
   "category": "BUMN",
   "title": "PT PAL Siapkan Galangan di Lamongan, Bisa Garap [Kapal Selam]",
@@ -20,6 +260,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468874-pt-pal-tangani-berbagai-jenis-kapal-termasuk-kapal-temour-dan-selam-di-lamongan-optimis-dongkrak-pad"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-lepas-12-9-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman [Lepas] 12,9 Juta Saham via Repo",
+  "deck": "Sujito Ngatiman melepas 12,86 juta saham DEWI seharga Rp176 per lembar lewat perjanjian jual beli kembali, menurunkan hak suaranya dari 8,24 persen menjadi 7,60 persen.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repo saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-6035-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim",
@@ -6247,272 +6503,6 @@ var ARTICLES = [
    "free float"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/500f67e172_212430a912.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "giias-semarang-2026-digelar-30-september-4-oktober",
-  "category": "Industri",
-  "title": "GIIAS [Semarang] 2026 Digelar 30 September-4 Oktober",
-  "deck": "Pameran otomotif GIIAS singgah ke Semarang pada 30 September-4 Oktober 2026, seiring klaim investasi Rp15 triliun di kawasan industri kendaraan listrik Kendal, Jawa Tengah.",
-  "date": "17 September 2026",
-  "image": "assets/img/giias-semarang-2026-digelar-30-september-4-oktober.jpg",
-  "imageV": "mu4mlbwl",
-  "tags": [
-   "GIIAS",
-   "Otomotif",
-   "Kendaraan Listrik",
-   "Jawa Tengah"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/gaikindo-pameran-giias-semarang-30-september-4-oktober-dorong-peningkatan-investasi-industri-otomoif-jawa-tengah/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "taspen-dorong-mahasiswa-usu-rencanakan-pensiun-sejak-dini",
-  "category": "BUMN",
-  "title": "TASPEN Dorong Mahasiswa USU [Rencanakan] Pensiun Sejak Dini",
-  "deck": "TASPEN gandeng USU gelar edukasi keuangan bagi seribu mahasiswa dan teken MoU kepesertaan TASPEN Group, bagian kampanye literasi dana pensiun nasional OJK 2026.",
-  "date": "16 September 2026",
-  "image": "assets/img/taspen-dorong-mahasiswa-usu-rencanakan-pensiun-sejak-dini.jpg",
-  "imageV": "mu4czdt2",
-  "tags": [
-   "TASPEN",
-   "dana pensiun",
-   "literasi keuangan",
-   "USU"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467581-taspen-goes-to-campus-dorong-generasi-muda-siapkan-kesejahteraan-finansial-sejak-dini"
- },
- {
-  "slug": "ppgl-bagikan-saham-bonus-rasio-6-4-dari-agio-ipo",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Bagikan [Saham Bonus] Rasio 6:4 dari Agio IPO",
-  "deck": "PT Prima Globalindo Logistik mengusulkan saham bonus rasio 6:4 dari kapitalisasi agio IPO 2025, menerbitkan hingga 514,1 juta saham baru senilai Rp11,31 miliar.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "saham bonus",
-   "RUPSLB",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54566cc6e6_30f9cbeea6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "irsx-balik-untung-tapi-liabilitas-melonjak-347-semester-i",
-  "category": "Aksi Korporasi",
-  "title": "IRSX Balik Untung, tapi [Liabilitas] Melonjak 347% Semester I",
-  "deck": "Folago Global Nusantara (IRSX) membalikkan rugi jadi laba Rp7,72 miliar pada semester I 2026, tapi liabilitas naik 347% dan kas menyusut hampir separuh menjadi Rp57,38 miliar.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IRSX",
-   "Folago Global Nusantara",
-   "laporan keuangan",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916222132-64272-0/FinancialStatement-2026-II-IRSX.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgl-bakal-terbitkan-77-juta-saham-baru-tanpa-hmetd",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Bakal Terbitkan 77 Juta Saham Baru [Tanpa HMETD]",
-  "deck": "Perseroan berencana menerbitkan hingga 77,1 juta saham baru tanpa hak memesan efek terlebih dahulu, setara 10 persen modal, untuk memperkuat modal kerja. RUPSLB persetujuan digelar 23 Oktober 2026.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "PMTHMETD",
-   "penambahan modal",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aa712ca9ab_82d2c128a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "djp-evaluasi-ulang-ratusan-pejabat-era-purbaya",
-  "category": "Makroekonomi",
-  "title": "DJP [Evaluasi] Ulang Ratusan Pejabat Era Purbaya",
-  "deck": "Ditjen Pajak mengecek ulang ratusan pejabat yang dilantik Purbaya Yudhi Sadewa saat menjabat Menkeu; yang tak lolos penilaian kompetensi dikembalikan ke jabatan lama.",
-  "date": "16 September 2026",
-  "image": "assets/img/djp-evaluasi-ulang-ratusan-pejabat-era-purbaya.jpg",
-  "imageV": "mu4czeac",
-  "tags": [
-   "Kemenkeu",
-   "Purbaya Yudhi Sadewa",
-   "Ditjen Pajak",
-   "Mutasi Pejabat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467544-begini-nasib-ratusan-pejabat-yang-dilantik-purbaya-saat-jadi-menkeu"
- },
- {
-  "slug": "klbf-margin-diprediksi-tertekan-hingga-semester-ii-2026",
-  "category": "Aksi Korporasi",
-  "title": "KLBF: [Margin] Diprediksi Tertekan hingga Semester II 2026",
-  "deck": "CFO Kalbe Farma menyebut tekanan margin akibat pelemahan rupiah dan bahan baku impor belum akan membaik signifikan di semester II 2026, sementara anak usaha EPMT masih berisiko delisting.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KLBF",
-   "Kalbe Farma",
-   "public expose",
-   "EPMT"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3ed33290e6_0ed0434665.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgl-jadwalkan-rupslb-23-oktober-sertakan-cv-calon-direksi",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Jadwalkan RUPSLB 23 Oktober, Sertakan CV Calon [Direksi]",
-  "deck": "PPGL menjadwalkan RUPSLB pada 23 Oktober 2026 untuk mengesahkan saham bonus rasio 6:4 dan penambahan modal tanpa HMETD, sekaligus melampirkan riwayat hidup calon direksi baru.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "RUPSLB",
-   "Direksi",
-   "Saham Bonus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a0eafc2b58_4f90557177.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkp-targetkan-40-000-titik-mini-ras-perikanan-hingga-2029",
-  "category": "Industri",
-  "title": "KKP Targetkan [40.000] Titik Mini RAS Perikanan hingga 2029",
-  "deck": "Menteri KKP dan Menko Pangan meninjau mockup Mini RAS di Depok, bagian dari rencana membangun 40.000 titik budi daya ikan di desa hingga 2029.",
-  "date": "16 September 2026",
-  "image": "assets/img/kkp-targetkan-40-000-titik-mini-ras-perikanan-hingga-2029.jpg",
-  "imageV": "mu45qz3f",
-  "tags": [
-   "KKP",
-   "Mini RAS",
-   "Budi Daya Ikan",
-   "Ketahanan Pangan"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/menteri-trenggono-dan-menko-pangan-tinjau-mockup-tematik-mini-ras-di-depok-RPzO.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "esdm-targetkan-produksi-minyak-ri-naik-ke-1-juta-barel-hari",
-  "category": "Energi",
-  "title": "ESDM Targetkan Produksi Minyak RI Naik ke [1 Juta] Barel/Hari",
-  "deck": "Wamen ESDM Yuliot memaparkan strategi ketahanan energi Indonesia di forum G20 Houston, termasuk target produksi minyak 1 juta barel per hari dan program B50 pencampuran biodiesel 50 persen.",
-  "date": "16 September 2026",
-  "image": "assets/img/esdm-targetkan-produksi-minyak-ri-naik-ke-1-juta-barel-hari.jpg",
-  "imageV": "mu45r142",
-  "tags": [
-   "ESDM",
-   "G20",
-   "produksi minyak",
-   "B50"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hadapi-gejolak-energi-global-wamen-esdm-ungkap-jurus-jitu-ri-di-forum-g20",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "kemenkeu-dorong-big-data-dan-ai-untuk-optimalkan-pajak",
-  "category": "Makroekonomi",
-  "title": "Kemenkeu Dorong [Big Data] dan AI untuk Optimalkan Pajak",
-  "deck": "Wamenkeu Juda Agung menilai big data dan AI dapat optimalkan penerimaan pajak, sembari mendorong reformasi pajak berbasis bukti dan riset akademisi.",
-  "date": "16 September 2026",
-  "image": "assets/img/kemenkeu-dorong-big-data-dan-ai-untuk-optimalkan-pajak.jpg",
-  "imageV": "mu45r1o5",
-  "tags": [
-   "pajak",
-   "big data",
-   "kecerdasan buatan",
-   "Kemenkeu"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467519-big-data-dan-ai-dinilai-bisa-optimalkan-penerimaan-pajak-kemenkeu-dorong-kebijakan-berbasis-data"
- },
- {
-  "slug": "fish-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "FISH Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "FKS Multi Agro (FISH) menjawab permintaan penjelasan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FISH",
-   "FKS Multi Agro",
-   "volatilitas saham",
-   "keterbukaan informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/012df4c660_b66e96da45.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbma-siapkan-buyback-rp1-38-triliun-di-tengah-pasar-bergejolak",
-  "category": "Aksi Korporasi",
-  "title": "MBMA Siapkan [Buyback] Rp1,38 Triliun di Tengah Pasar Bergejolak",
-  "deck": "MBMA berencana membeli kembali maksimal 1,465 miliar saham senilai Rp1,38 triliun pada 17 September-16 Desember 2026, memanfaatkan aturan OJK untuk kondisi pasar bergejolak.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBMA",
-   "buyback saham",
-   "OJK",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7aadf3d844_837e57f47d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bapanas-bongkar-25-merek-beras-fortifikasi-culas",
-  "category": "Industri",
-  "title": "Bapanas Bongkar 25 Merek Beras Fortifikasi [Culas]",
-  "deck": "Bapanas menyebut 25 merek beras fortifikasi diduga menyalahi klaim gizi dan label, 12 merek sudah ditarik dari peredaran, dengan potensi kerugian konsumen Rp89 triliun.",
-  "date": "16 September 2026",
-  "image": "assets/img/bapanas-bongkar-25-merek-beras-fortifikasi-culas.jpg",
-  "imageV": "mu45r252",
-  "tags": [
-   "beras fortifikasi",
-   "Bapanas",
-   "Andi Amran Sulaiman",
-   "perlindungan konsumen"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467545-geger-beras-fortifikasi-culas-25-merek-diduga-bermasalah-dengan-potensi-kerugian-konsumen-capai-rp89-triliun"
- },
- {
-  "slug": "vici-gelar-public-expose-usai-saham-disuspensi-bei",
-  "category": "Aksi Korporasi",
-  "title": "VICI Gelar Public Expose Usai Saham [Disuspensi] BEI",
-  "deck": "VICI akan menggelar public expose insidental pada 18 September 2026 setelah sahamnya disuspensi BEI sejak 14 September 2026 lewat mekanisme cooling down.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICI",
-   "suspensi saham",
-   "public expose",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2ba77fefa_aac20d2823.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gmfi-cetak-laba-us-10-8-juta-di-semester-i-ekuitas-balik-positif",
-  "category": "Aksi Korporasi",
-  "title": "GMFI Cetak [Laba] US$10,8 Juta di Semester I, Ekuitas Balik Positif",
-  "deck": "Laporan keuangan interim GMFI per Juni 2026 menunjukkan ekuitas berbalik positif dan pendapatan naik 51 persen, meski laba per saham turun akibat penambahan saham dari rights issue.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GMFI",
-   "laporan keuangan",
-   "rights issue",
-   "ekuitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916195327-64320-0/FinancialStatement-2026-II-GMFI.pdf",
   "sourceLabel": "IDX"
  }
 ];

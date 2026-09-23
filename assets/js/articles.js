@@ -3,6 +3,396 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sqmi-cgs-international-kurangi-saham-hak-suara-ke-15-56",
+  "category": "Aksi Korporasi",
+  "title": "[SQMI] CGS International Kurangi Saham, Hak Suara ke 15,56%",
+  "deck": "CGS International Securities Singapore melepas 123 juta saham SQMI pada 17 September 2026, memangkas hak suaranya dari 16,35% menjadi 15,56%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T17:31:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4216-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SQMI",
+  "tags": [
+   "SQMI",
+   "kepemilikan saham",
+   "CGS International",
+   "Wilton Makmur Indonesia"
+  ],
+  "body": [
+   "Perusahaan sekuritas asing CGS International Securities Singapore Pte Ltd melaporkan penjualan 123.000.000 lembar saham Wilton Makmur Indonesia Tbk (SQMI) pada 17 September 2026, seharga Rp98 per saham. Berdasarkan laporan keterbukaan informasi yang diterima Bursa Efek Indonesia pada 23 September 2026, transaksi dicatat sebagai penjualan saham yang dimiliki secara tidak langsung, dengan tujuan transaksi tercatat sebagai \"sale trade in exchange\" alias dijual melalui mekanisme perdagangan di bursa. Nilai transaksi ini sekitar Rp12,05 miliar.",
+   "Sebelum transaksi, CGS International tercatat memegang 2.540.224.329 lembar saham SQMI, setara 16,35 persen hak suara di perusahaan. Setelah penjualan, kepemilikannya berkurang menjadi 2.417.224.329 lembar, atau 15,56 persen hak suara, turun 0,79 poin persentase. Jumlah yang dilepas setara sekitar 4,8 persen dari total saham yang sebelumnya dipegang CGS International. Pelapor bukan anggota direksi maupun dewan komisaris SQMI, dan tercatat sebagai warga negara asing sesuai identitas badan hukumnya sebagai perusahaan sekuritas berbasis di Singapura.",
+   "Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 1 Peraturan OJK Nomor 4/2024, yang mewajibkan pemegang saham perusahaan terbuka melaporkan setiap perubahan kepemilikan saham mereka kepada Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Modern glass office towers in a Jakarta financial district at dusk, illuminated windows, busy street traffic below",
+  "takeaway": "Penjualan ini kami nilai netral bagi fundamental Wilton Makmur Indonesia, sebab yang berpindah tangan hanya kepemilikan di pasar sekunder, bukan dana yang masuk atau keluar dari kas perusahaan. Yang tersentuh di sini cuma komposisi pemegang saham dan hak suara, bukan pos-pos di laporan keuangan SQMI seperti ekuitas atau jumlah saham beredar perusahaan, sehingga laba per saham SQMI tidak ikut berubah akibat transaksi ini. CGS International memang mengurangi porsinya dari 16,35 persen menjadi 15,56 persen, tapi jumlah 123 juta saham yang dilepas itu hanya sekitar 4,8 persen dari kepemilikannya sebelumnya, sehingga statusnya sebagai salah satu pemegang saham besar SQMI belum berubah. Yang perlu dipantau selanjutnya adalah apakah CGS International kembali menyampaikan laporan pengurangan kepemilikan dalam waktu dekat, karena pelepasan bertahap oleh pemegang saham besar bisa menambah jumlah saham yang beredar bebas di pasar dan biasa dicermati pelaku pasar saat menakar pasokan saham SQMI ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bipp-incar-pmthmetd-hingga-10-rupslb-25-september",
+  "category": "Aksi Korporasi",
+  "title": "BIPP incar [PMTHMETD] hingga 10%, RUPSLB 25 September",
+  "deck": "BIPP mengubah dan menambah informasi rencana penambahan modal tanpa HMETD hingga 502,86 juta saham baru, disetujui RUPSLB Jumat 25 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T17:23:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1420ad2827_ec2dd07b37.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "RUPSLB",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Bhuwanatala Indah Permai Tbk (BIPP) menyampaikan perubahan dan tambahan informasi atas rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD). Perseroan berencana menerbitkan sebanyak-banyaknya 502.866.937 saham seri B baru dengan nilai nominal Rp100 per saham, atau setara maksimal 10 persen dari jumlah saham yang telah ditempatkan dan disetor penuh. Jika rencana ini dilaksanakan penuh, kepemilikan pemegang saham lama akan terdilusi hingga 9,09 persen. Rencana ini akan dimintakan persetujuan pemegang saham independen dalam RUPSLB pada Jumat, 25 September 2026 pukul 15.00 di Gedung Graha BIP lantai 11, Jakarta Selatan.",
+   "Dana hasil PMTHMETD akan disetor dalam bentuk uang tunai dan digunakan untuk memperkuat struktur permodalan serta memenuhi kebutuhan modal kerja dan ekspansi usaha Perseroan maupun entitas anaknya, termasuk belanja modal dan operasional. Pelaksanaan bisa dilakukan sekaligus atau bertahap dalam jangka waktu dua tahun sejak RUPSLB menyetujui. Harga pelaksanaan belum ditetapkan, tapi menurut Peraturan I-A Bursa Efek Indonesia harganya paling sedikit 90 persen dari rata-rata harga penutupan saham BIPP selama 25 hari bursa terakhir sebelum permohonan pencatatan saham tambahan. Investor yang akan membeli saham baru ini juga belum ditentukan sehingga identitasnya belum bisa diungkapkan dalam dokumen ini.",
+   "Berdasarkan laporan keuangan per 30 Juni 2026 dan dengan asumsi PMTHMETD terlaksana penuh, total aset Perseroan diproyeksikan naik dari Rp1,83 triliun menjadi Rp1,88 triliun, sementara total ekuitas naik dari Rp954,36 miliar menjadi Rp1,004 triliun, kenaikan 5,27 persen. Rasio liabilitas terhadap ekuitas membaik dari 0,92 kali menjadi 0,87 kali. Rugi bersih tahun berjalan tetap Rp37,17 miliar, namun rugi per saham menyusut dari Rp7,39 menjadi Rp6,72 karena jumlah saham beredar bertambah.",
+   "Dari sisi struktur pemegang saham, porsi Safire Capital Pte Ltd selaku pengendali turun dari 61,62 persen menjadi 56,02 persen, PT Victoria Investama Tbk dari 11,40 persen menjadi 10,36 persen, dan porsi publik dari 26,98 persen menjadi 24,53 persen, sementara investor PMTHMETD baru akan menguasai hingga 9,09 persen. Penerima manfaat akhir dari Safire Capital adalah Louise Li. Selain persetujuan PMTHMETD, RUPSLB juga akan meminta persetujuan perubahan anggaran dasar terkait peningkatan modal ditempatkan dan disetor, serta penyesuaian pasal 3 anggaran dasar soal kegiatan usaha agar sesuai Klasifikasi Baku Lapangan Usaha Indonesia 2025."
+  ],
+  "fotoAdegan": "Wide street-level view of a modern glass office tower in South Jakarta's business district under late afternoon light.",
+  "takeaway": "Laporan ini netral bagi BIPP: dana segar hingga sekitar Rp50,29 miliar memang memperkuat modal perusahaan, tapi manfaat itu diimbangi oleh dilusi kepemilikan hingga 9,09 persen dan fakta bahwa investor pembeli saham baru maupun harganya belum ditentukan. Yang tersentuh adalah ekuitas, yang bertambah karena ada suntikan dana baru, rasio utang terhadap modal sendiri yang membaik dari 0,92 kali jadi 0,87 kali, dan rugi per saham yang mengecil karena beban kerugian kini dibagi ke lebih banyak lembar saham, bukan karena kinerja membaik. Pelaku pasar mencermati pos-pos ini karena menunjukkan apakah tambahan modal benar-benar memperkuat bantalan keuangan Perseroan yang masih mencatat rugi bersih Rp37,17 miliar. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada Jumat, 25 September 2026, serta kejelasan siapa investor yang akan membeli saham baru dan berapa harga pelaksanaannya begitu ditetapkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pnbn-jelaskan-volatilitas-transaksi-usai-harga-anjlok-3-95",
+  "category": "Aksi Korporasi",
+  "title": "PNBN Jelaskan [Volatilitas] Transaksi Usai Harga Anjlok 3,95%",
+  "deck": "PNBN menjawab permintaan BEI atas lonjakan volume dan penurunan harga saham 3,95% pada 18 September, menyatakan tidak ada informasi material yang belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T17:22:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bed47120e5_096c3384ac.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNBN",
+  "tags": [
+   "PNBN",
+   "Bank Panin",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) meminta penjelasan tertulis dari Bank Pan Indonesia Tbk (PNBN) melalui surat nomor S-12204/BEI.PP1/09-2026 tanggal 21 September 2026, setelah memantau lonjakan aktivitas dan penurunan harga saham perseroan. Menurut data yang dikutip BEI, pada 18 September 2026 volume transaksi saham PNBN melonjak menjadi 21.443.600 saham dengan 769 kali transaksi, jauh di atas hari bursa sebelumnya yang hanya 834.300 saham dengan 232 kali transaksi. Pada hari yang sama, harga saham PNBN ditutup turun Rp35 atau 3,95 persen, dari Rp885 menjadi Rp850, di tengah IHSG yang melemah 21,27 poin dan indeks sektor keuangan yang turun 12,83 poin.",
+   "Menjawab permintaan tersebut lewat surat nomor 673/DIR/EXT/26 tertanggal 23 September 2026, Corporate Secretary PNBN Jasman Ginting Munthe menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham.",
+   "Dalam surat yang sama, manajemen PNBN memastikan tidak memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang akan berdampak pada status pencatatan sahamnya di bursa, dan tidak ada informasi material lain yang belum diungkapkan ke publik. Terkait rencana pemegang saham pengendali atas kepemilikan sahamnya di PNBN, perseroan menyebut sampai tanggal surat disampaikan belum ada rencana apa pun yang disampaikan pemegang saham pengendali kepada manajemen."
+  ],
+  "fotoAdegan": "A busy stock exchange trading floor screen room from a distance, financial workers reviewing paper reports, Jakarta office interior",
+  "takeaway": "Laporan ini netral bagi PNBN, karena isinya adalah bantahan resmi bahwa tidak ada informasi material yang memicu lonjakan transaksi dan penurunan harga sahamnya, bukan pengungkapan kabar baru soal kinerja perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh di sini, surat ini murni bagian dari mekanisme pengawasan bursa: setiap kali volume transaksi dan harga saham bergerak tidak wajar dalam sehari, BEI otomatis meminta emiten mengonfirmasi apakah ada informasi tersembunyi yang belum dibuka ke publik, sebagai upaya mencegah kebocoran informasi atau spekulasi yang tidak berdasar. Yang perlu dipantau selanjutnya adalah rentang tiga bulan ke depan, sekitar akhir Desember 2026, apakah muncul rencana korporasi atau langkah dari pemegang saham pengendali yang sebelumnya disebut belum disampaikan ke manajemen, karena PNBN wajib mengumumkannya begitu ada kepastian.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "winr-pemegang-saham-utama-lepas-31-juta-saham-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Utama Lepas 31 Juta Saham [Free Float]",
+  "deck": "PEMENANG NUSANTARA INTERNASIONAL kembali menjual 31 juta saham WINR secara tidak langsung pada 18 September 2026, hak suaranya turun dari 46,91 persen menjadi 46,31 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T16:38:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1639-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "hak suara"
+  ],
+  "body": [
+   "PEMENANG NUSANTARA INTERNASIONAL, pemegang saham WINR yang bukan bagian dari jajaran direksi maupun komisaris, melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menjual 31.000.000 saham biasa PT Winner Nusantara Jaya Tbk secara tidak langsung pada 18 September 2026 dengan harga Rp23 per saham. Dalam laporan yang diterima bursa pada 23 September 2026 itu, tujuan transaksi dicatat untuk menambah saham beredar bebas atau free float perseroan.",
+   "Sebelum transaksi, pelapor memegang 2.455.664.400 saham WINR dengan hak suara 46,91 persen. Setelah penjualan, kepemilikannya berkurang menjadi 2.424.664.400 saham dengan hak suara 46,31 persen, sehingga hak suaranya turun 0,60 poin persentase. Jumlah saham yang dilepas kali ini setara 1,26 persen dari total kepemilikan pelapor sendiri.",
+   "Transaksi ini merupakan laporan keempat dari pemegang saham yang sama dalam kurang dari sepekan terakhir, setelah penjualan serupa yang dilaporkan pada 19, 20, dan 22 September 2026 dengan tujuan yang sama, yakni menambah free float WINR."
+  ],
+  "fotoAdegan": "Wide aerial view of Jakarta's financial district skyscrapers at dusk, glowing office lights, busy street traffic below",
+  "takeaway": "Laporan ini netral bagi WINR, karena 31 juta saham yang dilepas cuma 1,26 persen dari kepemilikan pelapor sendiri dan hak suaranya masih bertahan di atas 46 persen, jauh dari batas yang bisa mengubah status kendalinya. Pos yang tersentuh adalah komposisi hak suara dan jumlah saham beredar bebas atau free float, yakni porsi saham yang boleh diperjualbelikan publik sehari-hari, dan pasar memperhatikannya karena free float yang lebih besar biasanya membuat saham lebih mudah ditransaksikan. Yang perlu dicermati adalah polanya, sebab hak suara pelapor sudah turun dari 47,72 persen pada 19 September menjadi 46,31 persen hari ini lewat empat laporan penjualan beruntun. Pantau apakah rangkaian penjualan bertahap ini masih berlanjut pada laporan-laporan berikutnya, karena arah penurunan yang konsisten dalam waktu singkat bisa berarti lebih dari sekadar transaksi tunggal meski besaran per laporannya kecil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fast-jelaskan-pkpu-rp2-83-miliar-ke-bei-sudah-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "FAST Jelaskan [PKPU] Rp2,83 Miliar ke BEI, Sudah Dicabut",
+  "deck": "FAST menjawab permintaan penjelasan BEI soal permohonan PKPU senilai Rp2,83 miliar yang berasal dari sengketa hak cipta, namun sudah dicabut pemohon pada 17 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T16:28:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4b97da00ca_b86ac296f1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FAST",
+  "tags": [
+   "FAST",
+   "PKPU",
+   "Pengadilan Niaga",
+   "sengketa hak cipta"
+  ],
+  "body": [
+   "PT Fast Food Indonesia Tbk (FAST) menjawab surat permintaan penjelasan Bursa Efek Indonesia bernomor S-12198/BEI.PP2/09-2026 terkait permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) yang terdaftar di Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat dengan nomor perkara 283/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst. Permohonan itu diajukan pada 15 September 2026 dan didaftarkan sehari setelahnya, 16 September 2026, oleh empat pemohon yaitu Geniati Heneve Ngantoeng, Sena Meaya Ngantung, Kamang Solana, dan Christie Pricilla Ngantung. Dalam perkara ini FAST berstatus sebagai termohon PKPU, dan perusahaan mengonfirmasi telah menerima secara resmi relaas panggilan, salinan permohonan, serta dokumen pendukung lainnya.",
+   "Dasar permohonan adalah putusan Pengadilan Niaga pada PN Jakarta Pusat Nomor 4/Pdt.Sus-HKI/Hak Cipta/2025/PN.Niaga.Jkt.Pst tanggal 22 Mei 2025 dalam sengketa hak cipta, yang dikuatkan oleh putusan kasasi Mahkamah Agung Nomor 517K/Pdt.Sus-HKI/2026 tanggal 3 Juni 2026. Putusan tersebut menghukum FAST membayar ganti rugi materiil kepada keempat pemohon dengan total nilai Rp2.831.400.000. Nilai inilah yang kemudian dijadikan dasar pengajuan PKPU oleh para pemohon terhadap FAST.",
+   "Namun, para pemohon PKPU mencabut permohonannya melalui pendaftaran di kepaniteraan Pengadilan Negeri Jakarta Pusat pada 17 September 2026, dan pencabutan itu dibacakan dalam sidang pada 23 September 2026, hari yang sama dengan tanggal surat penjelasan ini. FAST menegaskan permohonan yang sudah dicabut tersebut tidak berdampak material terhadap kegiatan operasional, kondisi keuangan, kelangsungan usaha, maupun reputasi perusahaan, dan menilai nilai utang yang menjadi dasar permohonan juga tidak material bagi perseroan. Perusahaan menyatakan akan menerbitkan laporan informasi atau fakta material tersendiri begitu menerima salinan resmi penetapan pencabutan PKPU dari pengadilan. Surat penjelasan ini ditandatangani oleh Direktur FAST, Wachjudi Martono, dan disampaikan ke bursa oleh Corporate Secretary FAST, Yohannes Kristiarto Soeryo Legowo."
+  ],
+  "fotoAdegan": "Wide shot of a commercial court building entrance in Jakarta, people in formal business attire walking up the front steps, midday light",
+  "takeaway": "Laporan ini netral bagi FAST, karena permohonan PKPU yang sempat terdaftar sudah dicabut hanya sehari setelah masuk pengadilan, dan nilai utang yang jadi dasarnya, Rp2,83 miliar, tergolong sangat kecil untuk perusahaan sebesar operator jaringan KFC di Indonesia. PKPU sendiri adalah proses hukum di pengadilan niaga yang biasanya jadi langkah awal sebelum kepailitan jika perusahaan dianggap tak mampu membayar utang, sehingga pos yang sebenarnya tersentuh di sini adalah potensi kewajiban di neraca perusahaan dan risiko reputasi hukum, bukan kinerja operasional inti. Karena sudah dicabut, risiko itu praktis hilang untuk perkara ini. Yang perlu dipantau selanjutnya adalah laporan keterbukaan tambahan yang dijanjikan FAST begitu perusahaan menerima salinan resmi penetapan pencabutan PKPU dari Pengadilan Niaga Jakarta Pusat, karena dokumen itu akan menjadi konfirmasi hukum final bahwa perkara ini benar-benar selesai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hoki-jelaskan-lonjakan-transaksi-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "HOKI Jelaskan Lonjakan Transaksi, Tak Ada Info [Material]",
+  "deck": "Volume saham HOKI melonjak 23 kali lipat dalam sehari, tapi harga hanya naik 4 persen. Manajemen menyatakan tidak ada informasi material di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T16:12:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9fbfa71e7e_f4cb44cda2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HOKI",
+  "tags": [
+   "HOKI",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Buyung Poetra Sembada Tbk (HOKI) memberikan penjelasan kepada Bursa Efek Indonesia menyusul permintaan klarifikasi lewat surat nomor S-12257/BEI.PP2/09-2026 terkait lonjakan aktivitas perdagangan sahamnya. Menurut data yang dikutip BEI, pada 21 September 2026 volume transaksi saham HOKI melonjak menjadi 496.374.600 saham dengan frekuensi 16.030 kali, dibandingkan hari bursa sebelumnya yang hanya 20.941.400 saham dengan frekuensi 1.194 kali. Meski volume dan frekuensi transaksi melonjak drastis, harga saham hanya bergerak naik Rp2 atau 4,00 persen, dari Rp50 menjadi Rp52.",
+   "Dalam surat balasan bernomor 018/BPS-DIR/IX/26 tertanggal 23 September 2026, manajemen HOKI menjawab enam pertanyaan standar dari otoritas bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai atau harga efeknya sebagaimana diatur POJK 31/POJK.04/2015 maupun Peraturan I-E BEI. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sesuai POJK 4/2024 tentang laporan kepemilikan saham, dan tidak memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang bisa berdampak pada status pencatatan sahamnya di bursa.",
+   "Terkait rencana pemegang saham utama, Corporate Secretary Victor R. Lanes menyatakan telah menanyakan langsung kepada pemegang saham utama, dan jawabannya adalah tidak ada rencana untuk mengubah kepemilikan saham di perseroan. Surat ini ditujukan kepada Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryanto, dan ditandatangani secara elektronik oleh Muliati selaku approver perseroan."
+  ],
+  "fotoAdegan": "Workers stacking rice sacks inside a busy rice mill warehouse, forklift moving pallets, industrial lighting",
+  "takeaway": "Penjelasan ini netral bagi fundamental HOKI, karena perseroan menegaskan tidak ada informasi atau rencana korporasi baru yang mendasari lonjakan transaksi tersebut. Yang mencolok justru pada perdagangannya sendiri: volume melonjak sekitar 23 kali dan frekuensi transaksi naik lebih dari 13 kali dalam sehari, tapi harga saham cuma bergerak 4 persen, pola yang biasanya menandakan banyak transaksi bolak-balik tanpa mengubah nilai perusahaan, bukan aksi beli atau jual besar oleh pihak tertentu. Laporan ini tidak menyentuh pos-pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, sehingga secara fundamental tidak ada yang berubah dari sisi perseroan. Yang perlu dipantau selanjutnya adalah apakah BEI akan mengambil langkah lanjutan seperti notasi khusus atau penghentian sementara perdagangan jika pola volume tak wajar ini berlanjut, serta apakah perseroan benar-benar tidak mengumumkan aksi korporasi dalam tiga bulan ke depan seperti yang dinyatakan dalam suratnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-anak-usaha-kunci-pinjaman-us-9-8-juta-dari-smi",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Anak Usaha Kunci Pinjaman [US$9,8 Juta] dari SMI",
+  "deck": "Anak usaha ARKO, EES, menandatangani perjanjian pembiayaan maksimum US$9,8 juta dengan PT SMI untuk mendanai proyek PLTS yang sudah beroperasi komersial.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T16:10:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba5862d76d_52781e2512.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "pembiayaan infrastruktur",
+   "transaksi material"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) mengumumkan bahwa anak usaha tidak langsungnya, PT Endorshine Energy Solutions (EES), yang dimiliki melalui PT Arkora Tenaga Matahari dan PT Arjuna Hidro, pada 21 September 2026 menandatangani Akta Perjanjian Pembiayaan Nomor 48 dengan PT Sarana Multi Infrastruktur (Persero) atau SMI, perusahaan pembiayaan infrastruktur milik negara. Akta dibuat di hadapan notaris Monica Kusumadewi di Jakarta dan memberi EES fasilitas pembiayaan dengan nilai maksimum US$9,8 juta. Dana ini ditujukan untuk membiayai proyek Pembangkit Listrik Tenaga Surya (PLTS) milik EES yang sudah beroperasi secara komersial.",
+   "Dalam rupiah, nilai transaksi ini tercatat Rp174,57 miliar, setara 34 persen dari ekuitas ARKO berdasarkan laporan keuangan auditan per 31 Desember 2025 yang diperiksa Kantor Akuntan Publik Liana Ramon Xenia dan Rekan. Karena melebihi ambang 20 persen dari ekuitas, transaksi ini masuk kategori Transaksi Material sesuai POJK 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Meski begitu, perseroan tidak perlu meminta persetujuan RUPS maupun memakai jasa penilai independen, karena transaksi ini termasuk pengecualian dalam Pasal 11 huruf b POJK tersebut, yaitu pinjaman yang diterima langsung dari perusahaan pembiayaan infrastruktur.",
+   "Manajemen menyatakan perjanjian ini berdampak positif terhadap operasional, kondisi keuangan, dan kelangsungan usaha perseroan. Keterbukaan informasi ini ditandatangani Direktur Utama ARKO, Aldo Artoko, dan diumumkan di situs web perseroan pada 23 September 2026."
+  ],
+  "fotoAdegan": "Rows of solar panels stretching across an open field in Indonesia, a technician in a hard hat inspecting wiring, midday sun",
+  "takeaway": "Laporan ini condong positif bagi ARKO, karena anak usahanya berhasil mengamankan pendanaan dari lembaga pembiayaan infrastruktur milik negara untuk proyek pembangkit yang sudah menghasilkan pendapatan, bukan proyek yang masih berisiko konstruksi. Fasilitas senilai maksimum US$9,8 juta ini tetap menambah utang di neraca kelompok usaha ARKO, sehingga beban bunga yang harus dibayar dari kas operasional berpotensi naik, meski proyek yang dibiayai sudah beroperasi dan punya pemasukan sendiri untuk mencicil. Karena ini pinjaman, bukan penerbitan saham baru, jumlah saham beredar dan hak suara pemegang saham ARKO tidak berubah oleh transaksi ini. Yang perlu dipantau berikutnya adalah untuk apa persisnya dana ini dipakai, misalnya melunasi utang konstruksi sebelumnya atau membiayai ekspansi, yang biasanya baru terlihat jelas di laporan keuangan kuartal mendatang.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "brms-direktur-adika-bakrie-beli-750-500-saham-rp665-lembar",
+  "category": "Aksi Korporasi",
+  "title": "BRMS: Direktur Adika Bakrie [Beli] 750.500 Saham Rp665/Lembar",
+  "deck": "Direktur BRMS Adika Aryasthana Bakrie melaporkan pembelian tidak langsung 750.500 saham perseroan seharga Rp665 per lembar pada 22 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T16:10:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7171-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRMS",
+  "tags": [
+   "BRMS",
+   "kepemilikan saham",
+   "direksi",
+   "Bumi Resources Minerals"
+  ],
+  "body": [
+   "Direktur Bumi Resources Minerals Tbk (BRMS), Adika Aryasthana Bakrie, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 750.500 saham biasa perseroan secara tidak langsung. Sebelum transaksi ia tidak memegang satu pun saham BRMS, dan setelah transaksi kepemilikannya menjadi 750.500 lembar. Transaksi tercatat terjadi pada 22 September 2026 dengan harga Rp665 per saham, sehingga nilai totalnya sekitar Rp499 juta. Dalam formulir pelaporan, tujuan transaksi ini dicantumkan sebagai investasi.",
+   "Laporan tersebut merupakan pemenuhan kewajiban sesuai Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan anggota direksi dan dewan komisaris melaporkan setiap perubahan kepemilikan saham mereka di perusahaan terbuka tempat mereka menjabat. Dokumen mencantumkan hak suara Adika sebelum dan sesudah transaksi sama sama tercatat 0,00 persen, menandakan porsi saham yang dibeli sangat kecil dibandingkan total saham BRMS yang beredar."
+  ],
+  "fotoAdegan": "Excavator loading crushed ore onto a haul truck at an open pit mineral mine, dusty morning light, Indonesia",
+  "takeaway": "Laporan ini bersifat netral bagi BRMS karena ukuran transaksinya terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan, terlihat dari hak suara yang tetap tercatat 0,00 persen sebelum dan sesudah pembelian. Pos yang tersentuh hanya komposisi kepemilikan pribadi sang direktur, bukan jumlah saham beredar perusahaan secara keseluruhan, sehingga transaksi ini tidak memengaruhi laba per saham BRMS yang dihitung dari total saham yang beredar. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris BRMS lain turut menambah kepemilikan mereka dalam waktu dekat, karena pola pembelian berulang oleh jajaran manajemen baru bisa dibaca sebagai sinyal keyakinan yang lebih berarti dibanding transaksi tunggal seperti ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "safe-keluar-dari-pemantauan-khusus-bei-efektif-24-september",
+  "category": "Aksi Korporasi",
+  "title": "SAFE Keluar dari [Pemantauan Khusus] BEI, Efektif 24 September",
+  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham Steady Safe Tbk (SAFE) mulai 24 September 2026, setelah kriteria terkait riwayat suspensi perdagangan tidak lagi terpenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T16:08:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca8f98ff2c_aaf52c7b32.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "SAFE",
+   "Steady Safe Tbk",
+   "pemantauan khusus",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan pencabutan status pemantauan khusus atas saham PT Steady Safe Tbk (SAFE) melalui surat No. Peng-CK-00074/BEI.PLP/09-2026 tertanggal 23 September 2026. Dengan pencabutan ini, papan pencatatan saham SAFE berubah dari Papan Pemantauan Khusus menjadi Papan Pengembangan, efektif mulai 24 September 2026.",
+   "Menurut dokumen tersebut, SAFE sebelumnya masuk daftar pemantauan khusus karena memenuhi kriteria nomor 10 dalam aturan BEI, yaitu pernah dikenakan penghentian sementara perdagangan efek selama lebih dari satu hari bursa akibat aktivitas perdagangan. Dalam pengumuman ini, BEI menandai kriteria tersebut dengan keterangan Keluar atau Exit, yang berarti SAFE sudah tidak lagi memenuhi kondisi yang membuatnya masuk pemantauan khusus.",
+   "Pengumuman ditandatangani oleh Teuku Fahmi Ariandar, Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI, dan berlaku otomatis tanpa memerlukan tindakan tambahan dari perusahaan tercatat."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, reflecting morning sky, pedestrians crossing busy street below.",
+  "takeaway": "Pencabutan ini condong positif bagi Steady Safe karena menandakan sahamnya sudah tidak lagi memenuhi kriteria bermasalah versi BEI, khususnya riwayat penghentian sementara perdagangan yang sebelumnya membuatnya masuk daftar pemantauan khusus. Status pemantauan khusus biasanya membatasi cara saham diperdagangkan, misalnya lewat mekanisme lelang berkala yang membuat transaksi lebih lambat dan terbatas, sehingga keluar dari status ini berarti saham SAFE kembali bisa diperdagangkan dengan mekanisme reguler penuh di Papan Pengembangan. Perubahan papan pencatatan ini mulai berlaku 24 September 2026, dan hal yang perlu dipantau selanjutnya adalah apakah Steady Safe bisa menjaga kepatuhannya terhadap syarat pencatatan bursa agar tidak kembali masuk daftar pemantauan khusus di kemudian hari.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "asii-komisaris-prijono-sugiarto-beli-8-700-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Komisaris Prijono Sugiarto [beli] 8.700 saham baru",
+  "deck": "Komisaris Astra International Prijono Sugiarto membeli 8.700 saham ASII seharga Rp4.850 per lembar pada 21 September 2026, menambah kepemilikannya menjadi 5.595.800 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T16:08:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-3032-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASII",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris PT Astra International Tbk (ASII), Prijono Sugiarto, melaporkan pembelian 8.700 lembar saham ASII kepada Otoritas Jasa Keuangan. Transaksi tercatat pada 21 September 2026 dengan harga Rp4.850 per saham, dilakukan secara tidak langsung, dengan tujuan investasi.",
+   "Dengan pembelian ini, jumlah saham Prijono di ASII bertambah dari 5.587.100 lembar menjadi 5.595.800 lembar, naik 8.700 lembar atau sekitar 0,16 persen dari kepemilikannya sebelum transaksi. Nilai transaksi tersebut sekitar Rp42,2 juta. Hak suaranya di perusahaan tetap di angka 0,0138 persen, tidak berubah dari sebelum transaksi.",
+   "Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 1 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan anggota direksi dan dewan komisaris melaporkan setiap perubahan kepemilikan saham di perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Rows of new sedans parked at a car dealership lot in Jakarta, glass showroom facade reflecting afternoon sunlight, no signage visible",
+  "takeaway": "Laporan ini netral bagi ASII karena pembelian 8.700 saham oleh Prijono Sugiarto hanya sekitar 0,16 persen dari kepemilikannya sendiri dan tidak mengubah hak suaranya yang tetap di 0,0138 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran terhadap prospek perusahaan. Yang tersentuh di sini hanya komposisi kepemilikan pribadi sang komisaris, bukan struktur permodalan ASII secara keseluruhan, sebab jumlah saham beredar perusahaan tidak berubah oleh transaksi individu semacam ini. Pelaku pasar biasanya memperhatikan transaksi orang dalam untuk membaca arah keyakinan manajemen, tapi nilai transaksi ini yang hanya sekitar Rp42,2 juta jauh dari kategori material. Yang perlu dipantau selanjutnya adalah apakah Prijono atau direksi dan komisaris ASII lain melakukan pembelian serupa berulang kali di laporan-laporan mendatang, karena pola akumulasi bertahap baru punya arti kalau terjadi konsisten, bukan sekali transaksi kecil saja.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wskt-utang-wwe-rp16-44-miliar-dinovasi-ke-wki-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Utang WWE Rp16,44 Miliar Dinovasi ke WKI [Afiliasi]",
+  "deck": "Waskita Karya Infrastruktur mengambil alih utang Rp16,44 miliar milik Waskita Wado Energi kepada induk usaha Waskita Karya, bagian dari rencana penambahan modal WWE untuk proyek PLTA Wado.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T16:06:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1da298ade6_ad9b3815e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "transaksi afiliasi",
+   "PLTA Wado"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk melaporkan transaksi afiliasi berupa novasi utang yang terjadi pada 21 September 2026. Dalam transaksi ini, PT Waskita Karya Infrastruktur (WKI), anak usaha Waskita yang sahamnya 99,99 persen dimiliki langsung oleh Waskita, menggantikan kedudukan PT Waskita Wado Energi (WWE) sebagai penanggung utang kepada Waskita. Nilai utang yang dinovasi tercatat Rp16.440.425.064, sudah termasuk PPN 11 persen. Dasar hukumnya adalah Akta Pengambilalihan Utang (Novasi) Nomor 9 tanggal 21 September 2026 yang dibuat di hadapan notaris Dr. Yurisa Martanti di Jakarta.",
+   "Utang ini berasal dari Perjanjian Perencanaan PLTA Wado berkapasitas 50 megawatt yang diteken WWE dan Waskita sejak 15 Desember 2017. Berdasarkan perjanjian itu, WWE masih punya kewajiban pembayaran ke Waskita sebesar Rp16,44 miliar tersebut. Kesepakatan pengalihan utang dari WWE ke WKI sendiri sudah dituangkan lebih dulu dalam Berita Acara Pengalihan Utang tertanggal 20 Februari 2026, sebelum akhirnya diformalkan lewat akta novasi bulan ini. Karena WKI menguasai 99,97 persen saham WWE dan Waskita menguasai 99,99 persen saham WKI, transaksi ini dikecualikan dari kewajiban memakai jasa penilai independen sesuai POJK 42/2020, yang memang membebaskan transaksi antar perusahaan terkendali dengan kepemilikan saham minimal 99 persen.",
+   "Waskita menyebut langkah ini sebagai bentuk dukungan WKI terhadap WWE dalam pelaksanaan proyek PLTA Wado, sekaligus bagian dari rencana WKI menambah modal WWE. Dengan utang tersebut kini menjadi kewajiban WKI, bukan lagi WWE, penyelesaiannya disebut dilakukan lewat mekanisme penyertaan modal ke depan. Direksi dan Dewan Komisaris Waskita menyatakan transaksi ini bukan transaksi benturan kepentingan."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting turbine equipment at a small hydroelectric dam construction site in a river valley, tropical vegetation",
+  "takeaway": "Transaksi ini netral bagi Waskita karena sifatnya cuma memindahkan siapa yang berutang di dalam grup usaha sendiri, dari WWE ke WKI, sementara Waskita sebagai induk tetap jadi pihak yang berpiutang dan tidak ada uang baru yang masuk atau keluar dari grup. Pos yang tersentuh adalah piutang Waskita ke anak usahanya, tapi karena WKI dan WWE sama-sama dikonsolidasikan ke laporan keuangan Waskita, transaksi semacam ini lazimnya saling menghapus saat laporan digabung sehingga dampaknya ke laba atau kas Waskita secara keseluruhan minim. Nilainya pun kecil, Rp16,44 miliar, jauh di bawah skala modal disetor Waskita yang mencapai Rp2,88 triliun. Yang perlu dipantau selanjutnya adalah realisasi rencana peningkatan modal WWE yang disebut dalam dokumen ini sebagai tujuan akhir dari novasi utang, serta perkembangan proyek PLTA Wado 50 megawatt yang sudah berjalan sejak 2017 namun belum disebutkan target rampungnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asii-direksi-rudy-borong-4-4-juta-saham-kepemilikan-naik-3x",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Direksi Rudy [borong] 4,4 juta saham, kepemilikan naik 3x",
+  "deck": "Direksi Astra International, Rudy, membeli 4,4 juta saham ASII senilai sekitar Rp21 miliar dalam dua hari, menambah kepemilikannya lebih dari tiga kali lipat menjadi 5,6 juta saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T16:00:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1413-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASII",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Rudy, anggota Direksi PT Astra International Tbk (ASII), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli saham ASII lewat dua transaksi pembelian tidak langsung dengan tujuan investasi. Pada 21 September 2026 ia membeli 2.200.000 saham dengan harga Rp4.820 per saham, dan sehari berikutnya, 22 September 2026, ia membeli 2.200.000 saham lagi dengan harga Rp4.790 per saham.",
+   "Dengan tambahan total 4.400.000 saham dari kedua transaksi tersebut, kepemilikan Rudy di ASII naik dari 1.200.000 saham menjadi 5.600.000 saham, meningkat lebih dari tiga kali lipat dibanding posisi sebelumnya. Hak suaranya di perusahaan ikut berubah, dari 0,003 persen menjadi 0,0138 persen dari total saham ASII yang beredar.",
+   "Berdasarkan harga yang tercantum di laporan, nilai total pembelian dua hari itu sekitar Rp21,1 miliar. Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang pelaporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Workers polishing rows of new sedans on a busy car dealership showroom floor in Jakarta, bright overhead lighting",
+  "takeaway": "Laporan ini condong positif bagi ASII karena mencerminkan aksi beli signifikan oleh direksinya sendiri, kepemilikan Rudy melonjak lebih dari tiga kali lipat dalam dua hari transaksi berturut-turut, bukan pelepasan saham yang biasa dibaca sebagai sinyal kekhawatiran. Yang berubah di sini adalah struktur kepemilikan orang dalam, yakni porsi saham yang dipegang direksi dan komisaris, bukan jumlah total saham ASII yang beredar, sebab pembelian ini terjadi di pasar sekunder tanpa penerbitan saham baru sehingga laba per saham pemegang saham lain tidak ikut terdilusi. Pembelian oleh direksi dalam jumlah besar relatif terhadap portofolio pribadinya kerap dibaca pelaku pasar sebagai bentuk kepercayaan terhadap prospek perusahaan, meskipun itu tidak memastikan ke mana arah harga saham selanjutnya. Yang perlu dipantau berikutnya adalah apakah Rudy melanjutkan pola pembelian ini pada laporan-laporan kepemilikan berikutnya, karena dua transaksi beruntun dalam dua hari bisa menjadi tanda awal dari akumulasi yang lebih besar.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hgii-direksi-tambah-kepemilikan-450-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "HGII: Direksi [Tambah] Kepemilikan 450.000 Saham",
+  "deck": "Direksi Robin Sunyoto membeli 450.000 saham HGII senilai sekitar Rp61,3 juta pada 16-22 September 2026, menaikkan hak suaranya dari 0,24% menjadi 0,25%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T15:44:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-8237-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HGII",
+  "tags": [
+   "HGII",
+   "kepemilikan saham",
+   "direksi",
+   "insider trading"
+  ],
+  "body": [
+   "PT Hero Global Investment Tbk (HGII) melaporkan kepada Otoritas Jasa Keuangan bahwa Robin Sunyoto, anggota direksi perusahaan, menambah kepemilikan sahamnya melalui tiga kali pembelian di pasar sepanjang 16 sampai 22 September 2026. Berdasarkan laporan yang disampaikan pada 23 September 2026, jumlah saham Robin bertambah dari 16.050.000 lembar menjadi 16.500.000 lembar, atau naik 450.000 lembar.",
+   "Rinciannya, Robin membeli 188.400 saham pada 16 September dengan harga Rp135 per saham, lalu 11.600 saham pada 17 September di harga Rp138 per saham, dan 250.000 saham pada 22 September di harga Rp137 per saham. Ketiga transaksi itu tercatat sebagai pembelian tidak langsung dengan tujuan investasi, dengan total nilai sekitar Rp61,3 juta.",
+   "Dengan penambahan ini, hak suara Robin di HGII naik tipis dari 0,24 persen menjadi 0,25 persen dari total saham beredar perusahaan. Laporan disampaikan sesuai kewajiban keterbukaan bagi direksi dan komisaris berdasarkan Peraturan OJK Nomor 4/2024 tentang pelaporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Brokerage office interior, a trader's hands on a keyboard with multiple monitors blurred softly in the background, Jakarta",
+  "takeaway": "Transaksi ini tergolong netral bagi HGII karena nilainya kecil, sekitar Rp61,3 juta, dan hanya menambah 2,8 persen dari saham yang sudah dimiliki Robin sebelumnya, sehingga tidak bisa dibaca sebagai sinyal kuat soal pandangan direksi terhadap prospek perusahaan. Yang berubah di sini adalah hak suara, yaitu porsi suara pemegang saham dalam rapat umum pemegang saham, dan pada kasus ini hanya naik dari 0,24 persen menjadi 0,25 persen, jauh dari cukup untuk menggeser peta kendali perusahaan. Pos kinerja perusahaan seperti ekuitas, laba per saham, atau arus kas tidak tersentuh sama sekali karena ini jual beli di pasar sekunder antar investor, bukan setoran modal baru ke kas perusahaan. Yang perlu dipantau berikutnya adalah apakah Robin atau direksi HGII lain melanjutkan pola pembelian ini di laporan-laporan berikutnya ke OJK, karena dokumen ini sendiri tidak mencantumkan agenda korporasi lain seperti RUPS atau tenggat tertentu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dewi-investor-lepas-10-3-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Investor Lepas 10,3 Juta Saham via [Repo]",
+  "deck": "Sujito Ngatiman menjual 10,3 juta saham DEWI seharga Rp184 per lembar lewat skema repurchase agreement, menurunkan hak suaranya dari 8,04% jadi 7,53%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T15:29:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-6812-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) menerima laporan keterbukaan kepemilikan saham dari Sujito Ngatiman, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perseroan, tertanggal 23 September 2026. Dalam laporan itu, Sujito melaporkan penjualan 10.300.900 lembar saham DEWI pada 18 September 2026 dengan harga Rp184 per lembar, atau senilai sekitar Rp1,9 miliar.",
+   "Setelah transaksi, jumlah saham yang dipegang Sujito berkurang dari 160.865.600 lembar menjadi 150.564.700 lembar, turun 6,4 persen dari kepemilikannya sebelum transaksi. Hak suaranya di DEWI ikut turun dari 8,04 persen menjadi 7,53 persen. Saham yang dijual tercatat berjenis saham dengan hak suara multiple, dan jenis transaksinya adalah repurchase agreement, yaitu penjualan saham yang disertai perjanjian pembelian kembali, dengan batas akhir periode pelaksanaan pada 21 September 2026.",
+   "Karena hak suaranya masih di atas 5 persen, Sujito tetap wajib melaporkan setiap perubahan kepemilikan sahamnya di DEWI ke Otoritas Jasa Keuangan. Dalam sepekan terakhir, DEWI juga tercatat menerima beberapa laporan kepemilikan saham lain dari pemegang saham berbeda, baik berupa penambahan maupun pelepasan."
+  ],
+  "fotoAdegan": "Distant, softly blurred view of a stock exchange trading floor with rows of desks and monitors, quiet morning light",
+  "takeaway": "Laporan ini condong negatif bagi DEWI, karena pemegang saham dengan hak suara di atas 5 persen melepas 6,4 persen dari total saham yang dipegangnya sendiri, bukan jumlah remeh, sehingga hak suaranya turun dari 8,04 persen menjadi 7,53 persen. Yang tersentuh di sini adalah peta pemegang saham dan hak suara, bukan laporan keuangan perseroan, tapi pelaku pasar tetap mencermatinya karena penyusutan kepemilikan pemegang saham besar bisa menjadi tanda awal pergeseran kendali perusahaan. Perlu dicatat, transaksi ini berbentuk repurchase agreement, penjualan saham yang dibarengi janji membeli kembali, sehingga ada kemungkinan saham ini kembali ke tangan Sujito jika perjanjiannya terealisasi, dan ini melunakkan kesan pelepasan permanen. Yang perlu dipantau berikutnya adalah apakah laporan susulan menunjukkan Sujito benar membeli kembali sahamnya sesuai batas akhir periode pelaksanaan yang tercantum pada 21 September 2026, atau justru kepemilikannya terus menyusut mendekati ambang 5 persen yang mewajibkan pelaporan ke OJK.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-tambah-saham-jadi-8-04",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman [Tambah] Saham Jadi 8,04%",
+  "deck": "Sujito Ngatiman membeli 8,89 juta saham DEWI lewat perjanjian pembelian kembali (repo) seharga Rp170 per lembar, hak suaranya naik dari 7,59% menjadi 8,04%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T15:26:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4072-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repo",
+   "pemegang saham"
+  ],
+  "body": [
+   "Sujito Ngatiman, warga negara Indonesia yang bukan berstatus direksi atau komisaris, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menambah kepemilikan saham PT Dewi Shri Farmindo Tbk (DEWI). Sebelum transaksi ia memegang 151.967.300 saham dengan hak suara 7,59 persen. Setelah transaksi, kepemilikannya naik menjadi 160.865.600 saham dengan hak suara 8,04 persen.",
+   "Penambahan itu berasal dari pembelian 8.898.300 saham pada 17 September 2026 seharga Rp170 per lembar, dengan status kepemilikan langsung. Transaksi dilakukan lewat skema repurchase agreement atau perjanjian pembelian kembali, dan saham yang dibeli tercatat berklasifikasi saham dengan hak suara multiple. Batas akhir periode pelaksanaan transaksi ini tertulis 18 September 2026, dan tujuan transaksi disebutkan sebagai pembelian.",
+   "Laporan ini merupakan salah satu dari beberapa laporan perubahan kepemilikan saham DEWI yang masuk pada hari yang sama, namun menyangkut pelapor dan jumlah saham yang berbeda dari laporan-laporan lain soal DEWI sebelumnya."
+  ],
+  "fotoAdegan": "Jakarta financial district skyline at dusk, office towers with lights turning on, street level wide view",
+  "takeaway": "Laporan ini condong positif bagi DEWI, karena transaksinya adalah pembelian tambahan senilai sekitar Rp1,51 miliar oleh pemegang saham yang sudah menguasai lebih dari 5 persen perusahaan, dan porsi yang ditambah, 5,86 persen dari saham yang sudah ia pegang, cukup besar untuk dibaca sebagai penambahan posisi, bukan transaksi remeh. Yang tersentuh di sini adalah hak suara pelapor, yang naik dari 7,59 persen ke 8,04 persen, angka yang penting karena pemegang saham di atas 5 persen wajib lapor tiap kali kepemilikannya berubah dan bisa memengaruhi peta pengendalian perusahaan. Skema transaksinya berupa repurchase agreement, yaitu perjanjian jual beli saham yang disertai kesepakatan pembelian kembali di kemudian hari, biasa dipakai sebagai bentuk pembiayaan jangka pendek dengan saham sebagai jaminan. Batas akhir periode pelaksanaan tertulis 18 September 2026, sudah lewat saat laporan ini disampaikan, sehingga yang perlu dipantau selanjutnya adalah apakah muncul laporan lanjutan bila posisi ini berubah lagi ketika perjanjian repo tersebut jatuh tempo atau diselesaikan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pt-pal-siapkan-galangan-di-lamongan-bisa-garap-kapal-selam",
   "category": "BUMN",
   "title": "PT PAL Siapkan Galangan di Lamongan, Bisa Garap [Kapal Selam]",
@@ -28,6 +418,31 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan sekadar rencana investasi baru, melainkan target pasar yang sudah dipetakan PT PAL: dari sekitar 22.891 kunjungan kapal ke Jawa Timur tiap tahun, galangan yang ada sekarang cuma sanggup menangani 984 kapal, atau kurang dari 5 persen. Artinya sebagian besar kapal yang butuh perbaikan selama ini terpaksa antre lama atau dikirim ke luar daerah dengan ongkos lebih mahal, dan celah itulah yang coba diisi PT PAL lewat fasilitas baru di Lamongan. Yang kena dampak langsung adalah pemilik kapal niaga dan tongkang di Jawa Timur serta Indonesia timur dan tengah, sementara untuk jangka lebih panjang ini juga menyangkut kebutuhan TNI Angkatan Laut karena galangan ini disiapkan mampu menangani kapal perang dan kapal selam. Arahnya sendiri masih bertahap dan belum pasti, sebab PT PAL menegaskan tahap awal hanya untuk perbaikan kapal, sedangkan pembangunan kapal baru baru dilakukan kalau ada kebutuhan, jadi belum ada kepastian kapan galangan ini benar-benar bisa membangun kapal perang atau kapal selam sendiri. Yang akan memastikan arah itu adalah apakah PT PAL nantinya mengumumkan nilai investasi dan target waktu operasional galangan, serta apakah kontrak reparasi kapal pertama di lokasi ini benar-benar terealisasi.",
   "imageV": "muduto2v"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-lepas-12-9-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman [Lepas] 12,9 Juta Saham via Repo",
+  "deck": "Sujito Ngatiman melepas 12,86 juta saham DEWI seharga Rp176 per lembar lewat perjanjian jual beli kembali, menurunkan hak suaranya dari 8,24 persen menjadi 7,60 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T15:20:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-6035-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repo saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) menerima laporan perubahan kepemilikan saham dari Sujito Ngatiman, pemegang saham perorangan berkewarganegaraan Indonesia yang bukan anggota direksi maupun dewan komisaris perusahaan. Dalam laporan bertanggal 23 September 2026 itu, Sujito melaporkan penjualan 12.859.000 lembar saham DEWI pada 17 September 2026 seharga Rp176 per saham, sehingga jumlah kepemilikannya turun dari 164.817.300 lembar menjadi 151.958.300 lembar.",
+   "Transaksi ini dilakukan lewat skema perjanjian jual beli kembali atau repurchase agreement, yakni saham dijual dengan kesepakatan bahwa penjualnya berhak membeli kembali di kemudian hari, cara yang biasa dipakai untuk mendapatkan dana tunai dengan saham sebagai jaminan. Nilai transaksi ini sekitar Rp2,26 miliar. Akibat penjualan tersebut, hak suara Sujito di DEWI turun dari 8,24 persen menjadi 7,60 persen, sementara saham yang dilepas setara 7,8 persen dari total kepemilikannya sebelum transaksi."
+  ],
+  "fotoAdegan": "Workers stacking sacks of animal feed inside a rural Indonesian warehouse, forklift nearby, dim industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi DEWI, karena pemegang saham dengan hak suara di atas 5 persen melepas 7,8 persen dari total saham yang dipegangnya sendiri, bukan porsi remeh, sehingga hak suaranya turun cukup terasa dari 8,24 menjadi 7,60 persen. Yang tersentuh adalah struktur pemegang saham dan sebaran hak suara di DEWI, bukan langsung kas atau laba perusahaan, karena transaksi ini terjadi antar investor lewat skema repo, semacam gadai saham untuk pinjaman tunai, sehingga uangnya tidak masuk ke kas emiten. Yang perlu dipantau berikutnya adalah apakah Sujito akan menebus kembali sahamnya sesuai perjanjian repo atau justru terus melepas kepemilikan, mengingat DEWI dalam sepekan terakhir mencatat beberapa laporan perubahan kepemilikan saham lain dengan arah yang berbeda-beda.",
+  "sentimen": "negatif"
  },
  {
   "slug": "kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim",

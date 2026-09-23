@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "the-telkom-hub-capai-status-net-zero-emisi-karbon",
+  "category": "Energi",
+  "title": "The Telkom Hub Capai Status [Net Zero] Emisi Karbon",
+  "deck": "Telkom mengklaim kawasan The Telkom Hub capai nol emisi karbon langsung dan dari listrik lewat sertifikat energi terbarukan, bagian dari peta jalan menuju net zero emission 2060.",
+  "image": "assets/img/the-telkom-hub-capai-status-net-zero-emisi-karbon.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T21:46:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468975-the-telkom-hub-capai-net-zero-emisi-66-lokasi-pop-telkom-menggunakan-21-persen-energi-terbarukan",
+  "tags": [
+   "Telkom",
+   "Net Zero Emission",
+   "Energi Terbarukan",
+   "Dekarbonisasi"
+  ],
+  "body": [
+   "PT Telkom Indonesia Tbk mengumumkan bahwa kawasan kantor dan gedung The Telkom Hub kini berstatus nol emisi bersih, baik untuk emisi karbon langsung dari operasionalnya maupun emisi dari pemakaian listrik, yang secara teknis disebut Cakupan 1 dan Cakupan 2. Status ini diperoleh setelah Telkom menerima sertifikat energi terbarukan atau Renewable Energy Certificate (REC) dan Sertifikat Pengurangan Emisi Gas Rumah Kaca (SPE GRK). Pencapaian ini penting karena menjadi bukti bahwa target besar Telkom mencapai net zero emission pada 2060 mulai diterjemahkan ke langkah operasional konkret, bukan sekadar target di atas kertas.",
+   "Untuk sampai ke status ini, Telkom menempuh beberapa langkah sekaligus, mulai dari efisiensi penggunaan energi, pemanfaatan energi baru terbarukan, elektrifikasi peralatan, hingga pembelian instrumen sertifikat hijau seperti REC dan SPE GRK. Sertifikat REC pada dasarnya adalah bukti bahwa sejumlah listrik yang dipakai berasal dari sumber energi terbarukan, sedangkan SPE GRK adalah bukti pengurangan emisi gas rumah kaca yang bisa dibeli untuk mengimbangi emisi yang masih dihasilkan. Proses ini dibantu oleh PT Energy Management Indonesia (EMI), konsultan yang fokus pada energi terbarukan, efisiensi energi, dan layanan dekarbonisasi.",
+   "Pengelola The Telkom Hub, PT Telkom Landmark Tower, juga tengah menerapkan teknologi Building Management System serta melakukan asesmen energi pada aspek teknis dan perangkat untuk terus menekan pemakaian energi gedung. Direktur Utama Telkom Landmark Tower, Suratman, menyebut sertifikat REC dan SPE GRK yang diterima sebagai bentuk komitmen untuk terus meningkatkan efisiensi dari waktu ke waktu.",
+   "Capaian di The Telkom Hub merupakan bagian dari Rencana Transisi Iklim TelkomGroup yang diluncurkan pada 2025, dengan target penurunan emisi Cakupan 1 dan 2 secara bertahap: 20 persen pada 2030, 40 persen pada 2040, dan 70 persen pada 2050, sebelum mencapai nol bersih penuh pada 2060. VP Sustainability Telkom, Gunawan Wasisto Ciptaning Andri, menyatakan pihaknya akan memperkuat langkah dekarbonisasi ini hingga mencakup seluruh operasional TelkomGroup, tidak hanya di kawasan The Telkom Hub."
+  ],
+  "fotoAdegan": "Technicians inspecting solar panel installations on a corporate office tower rooftop, cables and inverters visible, bright midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/23/6ab3e5b04def4-telkom-menerima-certificate-of-appreciation-dari-pt-energy-management-indonesia-persero-emi-atas-pemanfaatan-renewable-energy-certificate-rec-dan-sertifikat-pengurangan-emisi-gas-rumah-kaca-spe-grk_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah status emisi di satu kawasan, The Telkom Hub, yang kini diklaim nol bersih untuk emisi langsung dan emisi dari pemakaian listrik setelah Telkom mengantongi sertifikat REC dan SPE GRK. Perlu dicatat, status ini didapat lewat kombinasi efisiensi energi dan pembelian sertifikat hijau, bukan karena seluruh sumber listrik di kawasan itu sudah otomatis terbarukan. Yang terdampak langsung adalah unit pengelola gedung, Telkom Landmark Tower, sementara capaian ini dijadikan contoh yang hendak didorong ke seluruh operasional TelkomGroup. Perusahaan sendiri menyebut ini baru langkah awal dari peta jalan bertahap menuju target 20 persen penurunan emisi pada 2030, sehingga pencapaian di titik itu nanti akan jadi penanda apakah kecepatan dekarbonisasi ini bisa dijaga di level grup, bukan hanya di satu kawasan kantor.",
+  "imageV": "mued3d5z"
+ },
+ {
   "slug": "wskt-gagal-lunasi-pokok-obligasi-rp722-miliar-klaim-penjaminan",
   "category": "Aksi Korporasi",
   "title": "WSKT [Gagal] Lunasi Pokok Obligasi Rp722 Miliar, Klaim Penjaminan",
@@ -474,7 +501,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka paling konkret dari pernyataan ini adalah target pertumbuhan 6 persen untuk 2027, naik dari realisasi 5,45 persen pada semester I 2026, dengan dua alat kebijakan yang sudah berjalan yakni PP 28/2025 dan Keppres 4/2026 untuk memangkas hambatan izin usaha, serta 25 perjanjian dagang yang sudah diimplementasikan. Pihak yang paling terdampak adalah pelaku usaha padat karya seperti industri tekstil yang disebut eksplisit jadi sasaran program restrukturisasi, juga investor yang mengincar insentif di Kawasan Ekonomi Khusus dan Danantara. Target 6 persen ini tampak sebagai batu loncatan bertahap menuju 8 persen dalam jangka menengah, bukan lompatan langsung, karena Airlangga sendiri memasang tiga syarat sekaligus yaitu investasi, produktivitas, dan ekspor, yang belum satu pun tercapai saat pernyataan ini disampaikan. Yang akan memperlihatkan apakah lintasan ini realistis adalah data pertumbuhan ekonomi kuartal III 2026 yang bakal dirilis Badan Pusat Statistik awal November, sebab paruh kedua tahun ini perlu berakselerasi cukup jauh dari capaian 5,45 persen di semester pertama.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "asrm-tak-ada-info-material-di-balik-volatilitas-saham",

@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "ykJ-AWHckEQ",
+  "title": "Simalakama Bisnis Rokok di Indonesia",
+  "category": "Industri",
+  "program": "IBF tvOne",
+  "summary": "Program IBF tvOne mengulas industri hasil tembakau yang menyumbang hampir 10 persen penerimaan negara, sekitar Rp200 triliun, dan menyerap lebih dari 440 ribu tenaga kerja.",
+  "takeaway": "Angka kontribusi cukai rokok terhadap APBN dan jumlah tenaga kerja yang bergantung padanya relevan bagi pembaca yang mengikuti kebijakan fiskal dan industri manufaktur.",
+  "terbit": "2026-09-23T15:50:34+00:00"
+ },
+ {
+  "id": "G-VKMCpTC7o",
+  "title": "Wacana Tambah Layer Cukai Dikhawatirkan Picu Downtrading",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Diskusi IBF tvOne mengangkat kekhawatiran bahwa penambahan layer tarif cukai rokok dapat memicu downtrading, yakni pergeseran konsumen ke produk rokok murah atau ilegal.",
+  "takeaway": "Wacana kenaikan struktur cukai berdampak langsung pada penerimaan negara dan pola pasar rokok legal, sehingga penting dipantau pelaku industri dan investor.",
+  "terbit": "2026-09-23T15:18:19+00:00"
+ },
+ {
+  "id": "1WM_QmpJ1uE",
+  "title": "Ekonom Prasasti: Industri Rokok RI Sangat Besar",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Ekonom senior Prasasti memaparkan dalam IBF tvOne bahwa industri hasil tembakau Indonesia tergolong sangat besar, dengan kontribusi ke penerimaan negara hampir 10 persen atau sekitar Rp200 triliun.",
+  "takeaway": "Pandangan ekonom soal skala industri rokok memberi konteks bagi pembaca dalam menilai arah kebijakan cukai dan dampaknya ke perekonomian.",
+  "terbit": "2026-09-23T15:05:29+00:00"
+ },
+ {
   "id": "QtT2X31DJU0",
   "title": "Simalakama Bisnis Rokok di Indonesia",
   "category": "Industri",

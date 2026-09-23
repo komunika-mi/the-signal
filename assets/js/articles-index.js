@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "the-telkom-hub-capai-status-net-zero-emisi-karbon",
+  "category": "Energi",
+  "title": "The Telkom Hub Capai Status [Net Zero] Emisi Karbon",
+  "deck": "Telkom mengklaim kawasan The Telkom Hub capai nol emisi karbon langsung dan dari listrik lewat sertifikat energi terbarukan, bagian dari peta jalan menuju net zero emission 2060.",
+  "date": "23 September 2026",
+  "image": "assets/img/the-telkom-hub-capai-status-net-zero-emisi-karbon.jpg",
+  "imageV": "mued3d5z",
+  "tags": [
+   "Telkom",
+   "Net Zero Emission",
+   "Energi Terbarukan",
+   "Dekarbonisasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468975-the-telkom-hub-capai-net-zero-emisi-66-lokasi-pop-telkom-menggunakan-21-persen-energi-terbarukan"
+ },
+ {
   "slug": "wskt-gagal-lunasi-pokok-obligasi-rp722-miliar-klaim-penjaminan",
   "category": "Aksi Korporasi",
   "title": "WSKT [Gagal] Lunasi Pokok Obligasi Rp722 Miliar, Klaim Penjaminan",
@@ -6490,22 +6507,6 @@ var ARTICLES = [
    "kepatuhan emiten"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/21d3d6713f_c969349488.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "link-jadwalkan-rupslb-26-oktober-2026-agenda-menyusul",
-  "category": "Aksi Korporasi",
-  "title": "LINK Jadwalkan RUPSLB [26 Oktober 2026], Agenda Menyusul",
-  "deck": "Link Net akan menggelar RUPSLB pada 26 Oktober 2026 secara fisik dan elektronik. Pemanggilan resmi berisi agenda baru terbit 2 Oktober 2026.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LINK",
-   "RUPSLB",
-   "Link Net",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/07707eae69_6d671ea9bb.pdf",
   "sourceLabel": "IDX"
  }
 ];

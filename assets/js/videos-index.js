@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "ykJ-AWHckEQ",
+  "title": "Simalakama Bisnis Rokok di Indonesia",
+  "category": "Industri",
+  "program": "IBF tvOne",
+  "summary": "Program IBF tvOne mengulas industri hasil tembakau yang menyumbang hampir 10 persen penerimaan negara, sekitar Rp200 triliun, dan menyerap lebih dari 440 ribu tenaga kerja.",
+  "takeaway": "Angka kontribusi cukai rokok terhadap APBN dan jumlah tenaga kerja yang bergantung padanya relevan bagi pembaca yang mengikuti kebijakan fiskal dan industri manufaktur."
+ },
+ {
+  "id": "G-VKMCpTC7o",
+  "title": "Wacana Tambah Layer Cukai Dikhawatirkan Picu Downtrading",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Diskusi IBF tvOne mengangkat kekhawatiran bahwa penambahan layer tarif cukai rokok dapat memicu downtrading, yakni pergeseran konsumen ke produk rokok murah atau ilegal.",
+  "takeaway": "Wacana kenaikan struktur cukai berdampak langsung pada penerimaan negara dan pola pasar rokok legal, sehingga penting dipantau pelaku industri dan investor."
+ },
+ {
+  "id": "1WM_QmpJ1uE",
+  "title": "Ekonom Prasasti: Industri Rokok RI Sangat Besar",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Ekonom senior Prasasti memaparkan dalam IBF tvOne bahwa industri hasil tembakau Indonesia tergolong sangat besar, dengan kontribusi ke penerimaan negara hampir 10 persen atau sekitar Rp200 triliun.",
+  "takeaway": "Pandangan ekonom soal skala industri rokok memberi konteks bagi pembaca dalam menilai arah kebijakan cukai dan dampaknya ke perekonomian."
+ },
+ {
   "id": "QtT2X31DJU0",
   "title": "Simalakama Bisnis Rokok di Indonesia",
   "category": "Industri",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Purbaya Yudhi Sadewa mengaku bisa lebih tenang setelah menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara.",
   "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan perlu dicermati karena berkaitan dengan arah kebijakan fiskal ke depan."
- },
- {
-  "id": "RQ-a1erV1UQ",
-  "title": "Sertijab Menteri Keuangan dari Purbaya ke Suahasil Nazara",
-  "category": "Makroekonomi",
-  "program": "Kabar Petang",
-  "summary": "Purbaya Yudhi Sadewa resmi menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara dan berencana menikmati waktu luang di rumah.",
-  "takeaway": "Transisi kepemimpinan Kementerian Keuangan relevan bagi pembaca yang mencermati kesinambungan kebijakan fiskal."
- },
- {
-  "id": "tLiDYgAm13c",
-  "title": "Heri Jufri Terpilih Jadi Ketua Kadin Ende",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "Musyawarah Kabupaten Kadin Ende menetapkan Heri Jufri sebagai ketua untuk periode kedua, melanjutkan kepemimpinan organisasi pengusaha di daerah tersebut.",
-  "takeaway": "Pergantian pimpinan Kadin daerah relevan bagi pelaku usaha lokal yang membutuhkan advokasi dan jejaring bisnis."
- },
- {
-  "id": "Mus9J4uDlqQ",
-  "title": "Kementan Temukan Beras Fortifikasi Tidak Sesuai Label",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Kementerian Pertanian menemukan sedikitnya 25 merek beras fortifikasi yang tidak sesuai ketentuan label, menurut Menteri Pertanian Andi Amran Sulaiman.",
-  "takeaway": "Temuan ini penting bagi konsumen dan pelaku usaha beras karena menyangkut kepatuhan standar mutu dan perlindungan pasar."
  }
 ];

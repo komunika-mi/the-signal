@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-tawarkan-energi-hijau-genjot-investasi-pusat-data",
+  "category": "Energi",
+  "title": "ESDM Tawarkan Energi Hijau Genjot Investasi [Pusat Data]",
+  "deck": "Menteri ESDM Bahlil Lahadalia menawarkan potensi PLTA Sungai Mamberamo 23 GW dan Sungai Kayan 12 GW untuk menarik investor membangun pusat data di Indonesia.",
+  "date": "23 September 2026",
+  "image": "assets/img/esdm-tawarkan-energi-hijau-genjot-investasi-pusat-data.jpg",
+  "imageV": "muddpja1",
+  "tags": [
+   "ESDM",
+   "Data Center",
+   "PLTA",
+   "Energi Terbarukan"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kebutuhan-energi-meningkat-industri-digital-berkembang-pesat-indonesia-siap-menjadi-pusat-data",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "gaikindo-gelar-pameran-otomotif-serentak-di-10-kota",
   "category": "Industri",
   "title": "GAIKINDO Gelar Pameran Otomotif [Serentak] di 10 Kota",
@@ -6504,22 +6522,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467462-12-proyek-lrt-city-bakal-dilanjutkan-pemerintah-siapkan-rp456-miliar"
- },
- {
-  "slug": "telkomsel-map-luncurkan-maprivilege-poin-jadi-diskon",
-  "category": "Bisnis",
-  "title": "Telkomsel-MAP Luncurkan [MAPrivilege], Poin Jadi Diskon",
-  "deck": "Telkomsel dan MAP meluncurkan MAPrivilege, program yang memungkinkan pelanggan tertentu menukar poin Telkomsel untuk manfaat di jaringan ritel gaya hidup MAP.",
-  "date": "16 September 2026",
-  "image": "assets/img/telkomsel-map-luncurkan-maprivilege-poin-jadi-diskon.jpg",
-  "imageV": "mu3tt0zu",
-  "tags": [
-   "Telkomsel",
-   "MAP",
-   "MAPrivilege",
-   "loyalitas pelanggan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467459-telkomsel-dan-map-luncurkan-maprivilege-hubungkan-pelanggan-dengan-beragam-manfaat-gaya-hidup"
  }
 ];

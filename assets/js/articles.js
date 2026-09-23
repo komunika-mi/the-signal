@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-tawarkan-energi-hijau-genjot-investasi-pusat-data",
+  "category": "Energi",
+  "title": "ESDM Tawarkan Energi Hijau Genjot Investasi [Pusat Data]",
+  "deck": "Menteri ESDM Bahlil Lahadalia menawarkan potensi PLTA Sungai Mamberamo 23 GW dan Sungai Kayan 12 GW untuk menarik investor membangun pusat data di Indonesia.",
+  "image": "assets/img/esdm-tawarkan-energi-hijau-genjot-investasi-pusat-data.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T00:36:36.049Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kebutuhan-energi-meningkat-industri-digital-berkembang-pesat-indonesia-siap-menjadi-pusat-data",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Data Center",
+   "PLTA",
+   "Energi Terbarukan"
+  ],
+  "body": [
+   "Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia mengajak investor membangun pusat data (data center) di Indonesia dengan memanfaatkan potensi energi terbarukan dalam negeri. Ajakan ini disampaikan saat membuka forum Electricity Connect 2026 di ICE BSD, Tangerang, Selasa (22/9), yang dihadiri ribuan delegasi, investor, pelaku usaha, dan akademisi dari dalam maupun luar negeri. Isu ini relevan karena kebutuhan listrik untuk pusat data melonjak seiring pesatnya perkembangan industri digital global, sementara sejumlah negara mulai kesulitan memenuhi pasokan energi bersih untuk kebutuhan tersebut.",
+   "Menurut Bahlil, Indonesia memiliki potensi pembangkit listrik tenaga air yang besar dan belum banyak dimanfaatkan, termasuk di Sungai Mamberamo, Papua, dengan potensi sekitar 23 gigawatt, serta Sungai Kayan, Kalimantan, sekitar 12 gigawatt. Gigawatt adalah satuan kapasitas pembangkit listrik, semakin besar angkanya, semakin banyak listrik yang bisa dihasilkan sebuah pembangkit. Perlu dicatat bahwa angka-angka itu baru sebatas potensi sumber daya, bukan kapasitas yang sudah terbangun atau proyek yang sudah dipastikan berjalan.",
+   "Pemerintah juga menyebut sejumlah target dalam Rencana Usaha Penyediaan Tenaga Listrik (RUPTL) 2025-2034, yaitu tambahan kapasitas pembangkit sebesar 69,5 gigawatt, dengan 70 persen di antaranya berasal dari energi baru terbarukan. Selain itu, ada program pembangkit listrik tenaga surya berkapasitas 100 gigawatt yang ditargetkan rampung dalam tiga tahun. Bahlil menyebut ekonomi Indonesia pada kuartal kedua tahun ini tumbuh di atas 5 persen dengan inflasi sekitar 3 persen, serta populasi hampir 300 juta jiwa, sebagai daya tarik tambahan bagi investor pusat data.",
+   "Forum Electricity Connect 2026 mengangkat tema penguatan keandalan, keterjangkauan, dan kebersihan sistem kelistrikan nasional di tengah industrialisasi, hilirisasi, dan digitalisasi. Bahlil menutup sambutannya dengan menekankan bahwa momentum saat ini dinilai tepat bagi investor untuk masuk ke sektor energi dan pusat data di Indonesia."
+  ],
+  "fotoAdegan": "Rows of industrial server racks with cooling pipes and blinking status lights inside a large data center hall, technician walking between aisles",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-kebutuhan-energi-meningkat-industri-digital-berkembang-pesat-indonesia-siap-menjadi-pusat-data-bt5hirq.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan pemerintah secara eksplisit menjadikan potensi listrik tenaga air raksasa yang belum tergarap, 23 gigawatt di Sungai Mamberamo dan 12 gigawatt di Sungai Kayan, sebagai kartu tawar untuk menarik investor pusat data. Yang berpotensi terdampak adalah calon investor pusat data dan pelaku usaha energi terbarukan, dan kalau proyek ini benar terealisasi, juga masyarakat serta tenaga kerja di Papua dan Kalimantan sebagai lokasi pembangkit. Ada dua kemungkinan arah dari sini. Kalau ajakan ini diikuti kesepakatan konkret, seperti nota kesepahaman dengan investor atau insentif khusus pusat data, ini menandai langkah nyata menggarap energi Papua dan Kalimantan. Tapi kalau tidak ada kelanjutan setelah forum ini usai, ajakan tersebut berisiko berhenti sebagai materi promosi investasi seperti yang berulang kali disampaikan sebelumnya, dan itu akan terlihat dari apakah progres RUPTL 2025-2034 serta program PLTS 100 gigawatt yang ditargetkan rampung dalam tiga tahun benar berjalan sesuai jadwal.",
+  "imageV": "muddpja1"
+ },
+ {
   "slug": "gaikindo-gelar-pameran-otomotif-serentak-di-10-kota",
   "category": "Industri",
   "title": "GAIKINDO Gelar Pameran Otomotif [Serentak] di 10 Kota",
@@ -82,7 +110,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkret dari rapat ini ada di dua ujung rantai tekstil sekaligus. Di hulu, pemerintah akan meninjau ulang aturan Pertek, semacam izin teknis yang selama ini menjadi syarat masuknya bahan baku tekstil, dengan tujuan mempermudah pasokan bagi pabrik dalam negeri yang justru masih net importer sebesar US$8,4 miliar. Di hilir, Bea Cukai diminta menertibkan impor pakaian bekas lewat jalur kiloan dan ball press, yang selama ini bersaing langsung dengan produsen garmen lokal, sektor yang justru sudah surplus ekspor US$8,7 miliar. Yang terdampak jelas ada di dua sisi berbeda, yaitu importir dan pabrik bahan baku yang menunggu kemudahan di satu sisi, produsen garmen dalam negeri yang dirugikan banjir pakaian bekas di sisi lain. Arahnya tampak menuju kombinasi pelonggaran di hulu dan pengetatan di hilir, tapi baik revisi aturan Pertek maupun instruksi penertiban Bea Cukai belum punya tenggat pasti, jadi yang perlu ditunggu adalah apakah instruksi rapat terbatas ini benar-benar berubah menjadi revisi aturan resmi atau data penindakan impor pakaian bekas dalam beberapa bulan mendatang.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "ri-percepat-perjanjian-dagang-ieu-cepa-dengan-uni-eropa",
@@ -110,7 +139,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan isi kesepakatannya, melainkan tahapannya: dokumen IEU-CEPA sedang disiapkan dalam bahasa Inggris supaya bisa masuk ke meja Parlemen Eropa, langkah sebelum Indonesia sendiri meratifikasinya di dalam negeri. Pihak yang paling terdampak adalah pelaku usaha ekspor Indonesia, karena kesepakatan ini pada akhirnya menentukan seberapa mudah produk mereka masuk pasar Uni Eropa tanpa hambatan tarif yang selama ini berlaku. Rencana kunjungan Komisioner Uni Eropa Maroš Šefčovič serta pimpinan Uni Eropa ke Indonesia akhir Oktober atau awal November menunjukkan proses ini memang sedang didorong dari kedua sisi, bukan cuma keinginan sepihak Indonesia. Namun target pemerintah, yaitu ratifikasi pada semester kedua 2026 dan berlaku awal 2027, sebagian bergantung pada jadwal Parlemen Eropa yang tidak dikendalikan Indonesia, sehingga kunjungan akhir Oktober atau awal November itu menjadi penanda paling dekat untuk melihat apakah target tersebut masih di jalur atau mulai meleset.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "kemendag-luncurkan-inaexport-platform-ekspor-terintegrasi",

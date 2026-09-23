@@ -106,6 +106,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "harga-emas-antam-naik-tipis-ke-rp2-630-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Tipis ke Rp2.630.000/Gram",
+  "deck": "Harga emas Antam naik tipis Rp3.000 menjadi Rp2.630.000 per gram pada 23 September 2026, harga buyback ikut naik ke Rp2.465.000 per gram.",
+  "image": "assets/img/harga-emas-antam-naik-tipis-ke-rp2-630-000-gram.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T10:01:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468812-harga-emas-antam-hari-ini-23-september-2026-rp2630000-per-gram-naik-tipis-rp3000",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam pada 23 September 2026 naik tipis Rp3.000 menjadi Rp2.630.000 per gram, dari Rp2.627.000 pada hari sebelumnya. Pergerakan harga ini menjadi acuan bagi masyarakat yang membeli atau menjual emas batangan sebagai simpanan maupun investasi.",
+   "Selain harga jual, harga buyback atau harga beli kembali oleh Antam turut naik ke Rp2.465.000 per gram. Angka buyback ini penting bagi pemegang emas yang ingin mencairkan simpanannya, karena selisih antara harga jual dan buyback menentukan besaran kerugian atau keuntungan saat emas dijual kembali.",
+   "Antam mengingatkan bahwa harga emas batangan tersebut bisa berubah sewaktu-waktu mengikuti pergerakan pasar."
+  ],
+  "fotoAdegan": "Stacks of small gold bullion bars arranged on a velvet display tray inside a jewelry shop counter, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Kenaikan Rp3.000 hari ini tergolong tipis dibanding pergerakan harga emas Antam yang dalam beberapa periode bisa melompat puluhan ribu rupiah per gram sehari. Yang terdampak langsung adalah masyarakat pemegang emas batangan Antam, baik yang baru mau membeli maupun yang berencana menjual kembali lewat skema buyback. Data ini belum cukup untuk membaca apakah pergerakan tipis ini pertanda harga emas dunia mulai mendatar setelah kenaikan panjang, atau sekadar jeda sehari, karena tidak ada informasi soal harga emas global maupun nilai tukar rupiah yang biasanya jadi penggerak utama harga emas Antam. Yang perlu dipantau adalah apakah kenaikan tipis ini berlanjut dalam beberapa hari ke depan atau berbalik turun, sebagai penanda arah tren berikutnya.",
+  "imageV": "mudnaozj"
+ },
+ {
   "slug": "rlco-direksi-tambah-40-juta-saham-lewat-repo-substitusi",
   "category": "Aksi Korporasi",
   "title": "RLCO: [Direksi] Tambah 40 Juta Saham Lewat Repo Substitusi",

@@ -69,6 +69,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "harga-emas-antam-naik-tipis-ke-rp2-630-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Tipis ke Rp2.630.000/Gram",
+  "deck": "Harga emas Antam naik tipis Rp3.000 menjadi Rp2.630.000 per gram pada 23 September 2026, harga buyback ikut naik ke Rp2.465.000 per gram.",
+  "date": "23 September 2026",
+  "image": "assets/img/harga-emas-antam-naik-tipis-ke-rp2-630-000-gram.jpg",
+  "imageV": "mudnaozj",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468812-harga-emas-antam-hari-ini-23-september-2026-rp2630000-per-gram-naik-tipis-rp3000"
+ },
+ {
   "slug": "rlco-direksi-tambah-40-juta-saham-lewat-repo-substitusi",
   "category": "Aksi Korporasi",
   "title": "RLCO: [Direksi] Tambah 40 Juta Saham Lewat Repo Substitusi",
@@ -6499,22 +6516,6 @@ var ARTICLES = [
    "akuisisi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d8a76d7086_a319d829cd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rugi-true-membengkak-jadi-rp11-8-miliar-di-kuartal-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "Rugi TRUE Membengkak Jadi [Rp11,8 Miliar] di Kuartal I 2026",
-  "deck": "Kerugian bersih PT Triniti Dinamik Tbk naik hampir dua kali lipat dibanding periode sama tahun lalu, dipicu lonjakan beban umum dan bunga pinjaman.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUE",
-   "Triniti Dinamik",
-   "properti",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916155530-64393-0/FinancialStatement-2026-I-TRUE.pdf",
   "sourceLabel": "IDX"
  }
 ];

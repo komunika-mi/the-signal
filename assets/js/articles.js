@@ -3,6 +3,161 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-21-64",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 21,64%",
+  "deck": "Samuel Sekuritas Indonesia selaku Direksi NSSS menambah 1,44 miliar saham lewat mekanisme repurchase agreement pada 22 September 2026, mengerek hak suaranya dari 15,58% jadi 21,64%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T10:48:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-8317-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "repo",
+   "direksi"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) melaporkan perubahan kepemilikan saham oleh Samuel Sekuritas Indonesia, yang menjabat sebagai Direksi perseroan, kepada Otoritas Jasa Keuangan pada 23 September 2026 dengan nomor surat LK/23092026/0003/1. Sebelum transaksi, kepemilikannya tercatat 3.709.040.500 lembar saham setara 15,58% hak suara. Setelah transaksi, jumlahnya naik menjadi 5.151.407.000 lembar, mengangkat hak suaranya menjadi 21,64%, atau bertambah 1.442.366.500 lembar saham.",
+   "Penambahan itu berasal dari dua transaksi pada 22 September 2026, keduanya berjenis repurchase agreement atau perjanjian gadai saham dengan janji beli kembali, dan keduanya berstatus pembelian atas nama langsung pelapor. Transaksi pertama berupa penempatan repo sebanyak 472.622.100 lembar saham biasa dengan harga Rp750 per saham. Transaksi kedua, berlabel substitution atau penggantian jaminan, sebanyak 969.744.400 lembar saham biasa dengan harga yang sama, Rp750 per saham.",
+   "Laporan ini melanjutkan rangkaian transaksi kepemilikan saham NSSS oleh pelapor yang sama sepanjang sepekan terakhir. Pekan lalu tercatat pelepasan 904 juta saham dan 611 juta saham yang menekan hak suara ke bawah 15%, kemudian tiga laporan pada 21 September 2026 mencatat kenaikan lewat pengembalian saham dari repo hingga sempat menyentuh 36,75% sebelum turun lagi. Laporan terbaru ini menjadi titik terbaru dari siklus naik turun tersebut, dengan posisi hak suara kini di 21,64%."
+  ],
+  "fotoAdegan": "Workers loading fresh palm oil fruit bunches onto a truck at a plantation collection point, tropical morning light.",
+  "takeaway": "Saya menilai laporan ini netral bagi fundamental NSSS, karena penambahan kepemilikan berasal dari mekanisme repurchase agreement dan substitusi jaminan, bukan pembelian saham baru dengan dana segar di pasar terbuka, sehingga sulit dibaca sebagai pernyataan keyakinan direksi terhadap prospek perusahaan meski jumlahnya besar. Pos yang tersentuh di sini adalah hak suara direksi dalam RUPS, yang naik dari 15,58% menjadi 21,64%, sementara jumlah saham beredar perusahaan secara keseluruhan dan laba per saham tidak berubah karena ini hanya perpindahan kepemilikan lewat skema gadai saham, bukan penerbitan saham baru. Yang perlu dipantau berikutnya adalah apakah siklus cepat jual beli lewat repo oleh pelapor yang sama akan terus berulang, mengingat dalam sepekan terakhir posisinya sudah berpindah dari pelepasan besar-besaran ke penambahan lewat repo sebanyak beberapa kali, sehingga laporan berikutnya akan menentukan apakah posisi 21,64% ini bertahan atau kembali bergeser.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cnaf-dana-sukuk-rp900-miliar-terserap-penuh-sisa-nol",
+  "category": "Aksi Korporasi",
+  "title": "CNAF: Dana Sukuk Rp900 Miliar [Terserap] Penuh, Sisa Nol",
+  "deck": "CNAF melaporkan dana Rp896,45 miliar dari sukuk syariah tahap IV 2026 sudah terserap 100 persen untuk pembiayaan kendaraan, properti, dan haji-umrah syariah, tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T10:14:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3f6e161a51_44ae392926.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CNAF",
+  "tags": [
+   "CNAF",
+   "sukuk syariah",
+   "penggunaan dana IPO",
+   "pembiayaan syariah"
+  ],
+  "body": [
+   "CNAF (PT CIMB Niaga Auto Finance) melaporkan realisasi penggunaan dana hasil penerbitan Sukuk Wakalah Bi Al-Istitsmar Berkelanjutan I Tahap IV Tahun 2026 senilai Rp900 miliar, yang efektif sejak 5 Maret 2026. Setelah dipotong biaya penawaran umum sebesar Rp3,55 miliar, dana bersih yang diterima perusahaan tercatat Rp896,45 miliar. Per 30 Juni 2026, seluruh dana tersebut sudah terpakai 100 persen dan tidak menyisakan dana yang belum digunakan.",
+   "Dana tersebut dipakai untuk kegiatan usaha pembiayaan syariah, mencakup kendaraan roda empat, properti, kendaraan roda dua, serta jasa penyelenggaraan haji dan umrah, dengan skema akad Murabahah, Ijarah Muntahiya Bittamlik, dan akad syariah lainnya. Angka realisasi ini sama persis dengan rencana yang tertulis di prospektus, artinya perusahaan menjalankan penggunaan dana sesuai janji awal kepada investor sukuk.",
+   "Dari total biaya penawaran umum Rp3,55 miliar, porsi terbesar adalah biaya jasa penjaminan (underwriting fee) sebesar Rp1,8 miliar atau 51 persen, disusul biaya jasa lembaga penunjang pasar modal Rp795,87 juta (22 persen), biaya lain-lain yang diatribusikan langsung sebagai biaya emisi Rp674,16 juta (19 persen), dan biaya jasa profesi penunjang pasar modal Rp276,6 juta (8 persen). Tidak ada biaya jasa penyelenggaraan maupun jasa konsultasi keuangan dalam penerbitan ini. Laporan ditandatangani Direktur CNAF, M Imron Rosyadi Nur, dan disampaikan ke OJK mengacu pada POJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum."
+  ],
+  "fotoAdegan": "Rows of sedans and motorcycles parked at an Indonesian vehicle dealership yard, staff walking between vehicles, warm afternoon light",
+  "takeaway": "Laporan ini netral bagi CNAF, karena isinya hanya menegaskan dana sukuk sudah terpakai sesuai rencana tanpa penyimpangan atau kejutan apa pun. Yang tersentuh adalah struktur pendanaan dan arus kas perusahaan, sebab sukuk ini pada dasarnya utang syariah, sehingga terserapnya seluruh Rp896,45 miliar ke pembiayaan kendaraan dan properti berarti CNAF mulai menanggung kewajiban bagi hasil atas dana itu, sembari berharap pendapatan dari piutang pembiayaan yang dibiayai dana ini bisa menutupinya. Karena sisa dana sudah nol, tidak akan ada lagi laporan realisasi susulan untuk sukuk tahap IV ini. Yang perlu dipantau investor selanjutnya adalah kualitas piutang pembiayaan syariah yang dibiayai dana tersebut, yang baru akan terlihat pada laporan keuangan kuartalan CNAF berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "plas-gelar-buyback-rp51-saham-jelang-delisting",
+  "category": "Aksi Korporasi",
+  "title": "PLAS Gelar Buyback Rp51/Saham Jelang [Delisting]",
+  "deck": "Polaris Investama (PLAS) akan membeli kembali seluruh saham publik seharga Rp51 per lembar mulai 24 September hingga 6 November 2026, menjelang delisting efektif 10 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T10:14:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d46d7fbfd9_1b70bc69e0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PLAS",
+  "tags": [
+   "PLAS",
+   "delisting",
+   "buyback saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Polaris Investama Tbk (PLAS) menyampaikan keterbukaan informasi kepada pemegang saham mengenai tata cara pembelian kembali atau buyback saham dalam rangka pembatalan pencatatan alias delisting dari Bursa Efek Indonesia. Langkah ini merujuk pada surat Otoritas Jasa Keuangan Nomor S-1420/PM.221/2026 tanggal 29 Juli 2026 serta tiga surat pengumuman Bursa Efek Indonesia bernomor Peng-DEL-00001/BEI.PP1/04-2026, Peng-DEL-00002/BEI.PP2/04-2026, dan Peng-DEL-00001/BEI.PP3/04-2026 tertanggal 10 April 2026, yang menetapkan delisting saham PLAS berlaku efektif pada 10 November 2026.",
+   "Perseroan akan membeli kembali seluruh saham milik pemegang saham publik sebanyak 1.184.200.000 lembar, yang menurut dokumen perusahaan setara dengan 100 persen modal ditempatkan dan disetor penuh, dengan nilai nominal Rp100 per saham. Harga penawaran buyback ditetapkan Rp51 per lembar, sehingga total dana yang disiapkan Polaris untuk membiayai aksi ini mencapai Rp60,39 miliar. Proses pembelian berlangsung selama 44 hari, mulai 24 September 2026 pukul 09.00 WIB hingga 6 November 2026 pukul 15.00 WIB, dengan PT Pilarmas Investindo Sekuritas ditunjuk sebagai broker pembeli dan PT Sharestar Indonesia sebagai biro administrasi efek.",
+   "Bagi pemegang saham dengan saham tanpa warkat (scripless), formulir pendaftaran buyback harus diisi dan dikirim ke email Polaris, email perusahaan sekuritas tempat saham dititipkan, serta email PT Pilarmas Investindo Sekuritas, dengan salinan cetak dikirim ke PT Sharestar Indonesia di Jakarta Selatan. Penyelesaian administrasi dengan perusahaan sekuritas paling lambat dilakukan 6 November 2026, dan tanggal penyelesaian transaksi buyback ditetapkan 9 November 2026. Sementara itu, pemegang saham dengan saham warkat (scrip) wajib terlebih dahulu mengonversi sahamnya menjadi bentuk elektronik sebelum bisa mengikuti mekanisme yang sama. Perseroan menyatakan tujuan buyback ini adalah mengurangi jumlah pemegang saham publik hingga kurang dari 50 pihak, sebagai salah satu syarat proses delisting."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's Sudirman business district at dusk, light traffic on the avenue below",
+  "takeaway": "Bagi pemegang saham publik, langkah ini condong negatif karena begitu delisting efektif 10 November 2026, saham PLAS tidak lagi bisa diperjualbelikan di bursa, dan buyback wajib seharga Rp51 per lembar ini praktis menjadi satu-satunya jalan keluar bagi mereka yang ingin melepas kepemilikannya. Yang tersentuh adalah kas perusahaan, karena Polaris harus mengeluarkan dana sekitar Rp60,39 miliar untuk membeli kembali seluruh saham milik publik, dan saham yang dibeli itu disimpan sebagai saham treasuri, yakni saham milik perusahaan sendiri yang untuk sementara tidak diperdagangkan lagi. Pemegang saham yang tidak ikut menjual lewat mekanisme ini berisiko menjadi pemegang saham minoritas di perusahaan yang sudah tidak tercatat di bursa, dengan kemampuan menjual saham yang jauh lebih terbatas di kemudian hari. Yang perlu dipantau adalah tenggat administrasi bagi pemegang saham scripless pada 6 November 2026, tanggal penyelesaian transaksi pada 9 November 2026, dan efektifnya delisting pada 10 November 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "idx-saham-nick-terkonsentrasi-99-28-free-float-menipis",
+  "category": "Aksi Korporasi",
+  "title": "IDX: Saham NICK Terkonsentrasi 99,28%, [Free Float] Menipis",
+  "deck": "Bursa Efek Indonesia dan KSEI mengumumkan 99,28% saham Charnic Capital (NICK) dikuasai sejumlah kecil pemegang saham per 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T10:04:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6548082c4a_8be7d0889c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "free float",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) menerbitkan pengumuman resmi bernomor Peng-HSC-00061/BEI.WAS/09-2026 dan Peng-0002/PWS/KSEI/0926 tertanggal 22 September 2026 mengenai kepemilikan saham terkonsentrasi tinggi pada PT Charnic Capital Tbk (NICK), emiten yang tercatat di Papan Pencatatan Pengembangan. Berdasarkan metodologi penentuan Kepemilikan Saham Terkonsentrasi Tinggi atas struktur kepemilikan saham dalam bentuk warkat dan tanpa warkat per 18 September 2026, saham NICK diketahui dikuasai oleh sejumlah tertentu pemegang saham yang secara agregat menguasai 99,28 persen dari total saham perseroan, baik yang berbentuk fisik (warkat) maupun elektronik (tanpa warkat).",
+   "Pengumuman ini ditandatangani oleh Yulianto Aji Sadono selaku Direktur BEI dan Eqy Essiqy selaku Direktur KSEI. Dalam dokumen tersebut disebutkan secara eksplisit bahwa pengumuman ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan dan ketentuan yang berlaku di bidang pasar modal. Dokumen tidak merinci nama-nama pemegang saham yang termasuk dalam kelompok terkonsentrasi tersebut, dan hanya memuat angka agregat 99,28 persen sebagai hasil perhitungan metodologi bursa."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district at dusk, empty plaza in foreground, no signage visible",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik NICK, karena angka 99,28 persen berarti saham yang benar-benar beredar bebas di pasar, atau biasa disebut free float, tinggal kurang dari 1 persen dari seluruh saham perseroan. Free float yang setipis ini membuat transaksi jual beli saham NICK rawan bergerak liar hanya dengan order dalam jumlah kecil, karena jumlah saham yang bisa diperdagangkan investor umum sangat terbatas, sehingga harga lebih mudah dipermainkan atau berfluktuasi tajam dibanding saham dengan sebaran kepemilikan yang lebih luas. Bursa sendiri menegaskan pengumuman ini bukan berarti ada pelanggaran aturan pasar modal, jadi ini murni informasi struktur kepemilikan, bukan tuduhan. Dokumen ini tidak mencantumkan tenggat atau agenda lanjutan seperti RUPSLB, sehingga yang perlu dipantau investor adalah apakah BEI dan KSEI kembali merilis pembaruan status konsentrasi ini secara berkala, serta apakah manajemen NICK mengambil langkah menambah porsi saham publik agar likuiditas perdagangannya membaik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rlco-direksi-tambah-40-juta-saham-lewat-repo-substitusi",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: [Direksi] Tambah 40 Juta Saham Lewat Repo Substitusi",
+  "deck": "Samuel Sekuritas Indonesia, direksi RLCO, menambah kepemilikan 40,07 juta saham lewat transaksi repurchase agreement bertujuan substitusi, hak suaranya naik dari 5,29% menjadi 6,57%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T09:43:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1949-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "body": [
+   "Samuel Sekuritas Indonesia, yang menjabat sebagai anggota Direksi PT Abadi Lestari Indonesia Tbk (RLCO), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di RLCO bertambah. Sebelum transaksi, ia memegang 165.263.200 lembar saham atau setara 5,29 persen hak suara. Setelah transaksi pada 22 September 2026, kepemilikannya naik menjadi 205.334.300 lembar saham, setara 6,57 persen hak suara, atau bertambah 40.071.100 lembar.",
+   "Penambahan saham ini dilakukan lewat transaksi repurchase agreement, yakni perjanjian jual beli saham dengan janji dibeli kembali, dengan status kepemilikan langsung. Harga transaksi tercatat Rp4.290 per saham, dengan tujuan yang disebutkan dalam laporan adalah substitusi atau penggantian, bukan pembelian saham baru di pasar terbuka.",
+   "Laporan ini menyusul dua laporan serupa pada 21 September 2026 yang mengungkapkan pengembalian saham RLCO lewat mekanisme repo kepada pihak lain, masing-masing sebesar 120 juta dan 58 juta lembar. Rangkaian laporan ini menunjukkan sejumlah saham RLCO tengah berputar melalui skema pendanaan berbasis saham dalam sepekan terakhir."
+  ],
+  "fotoAdegan": "Brokers at desks on an Indonesian stock exchange trading floor reviewing paper documents, muted afternoon light, blurred background screens",
+  "takeaway": "Kenaikan kepemilikan ini condong netral bagi RLCO, sebab sahamnya berasal dari transaksi repurchase agreement bertujuan substitusi, bukan pembelian langsung di pasar yang biasanya mencerminkan keyakinan direksi terhadap prospek perusahaan. Yang tersentuh di sini adalah hak suara pelapor, yaitu porsi suara pemegang saham dalam rapat umum pemegang saham, yang naik dari 5,29 persen menjadi 6,57 persen setelah tambahan 40,07 juta lembar saham, kenaikan yang cukup besar karena setara seperempat dari kepemilikan sebelumnya. Kenaikan hak suara sebesar ini biasanya dicermati pelaku pasar karena bisa menggeser peta pengaruh pemegang saham dalam pengambilan keputusan perusahaan, meski pemicunya di sini adalah mekanisme pendanaan berbasis saham, bukan akumulasi murni di pasar. RLCO sendiri sudah beberapa kali melaporkan transaksi repo serupa dalam sepekan terakhir, sehingga perputaran saham lewat skema ini pada emiten tersebut patut terus diikuti. Yang perlu dipantau berikutnya adalah apakah menyusul laporan lanjutan soal penyelesaian perjanjian repo ini, mengingat dokumen tidak mencantumkan batas akhir periode pelaksanaannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bksl-saham-direksi-berkurang-2-7-miliar-lembar-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Saham Direksi Berkurang 2,7 Miliar Lembar lewat [Repo]",
+  "deck": "Transaksi repurchase agreement memangkas kepemilikan pelapor berjabatan Direksi sebesar 23,9 persen, hak suaranya turun dari 6,85 persen menjadi 5,21 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T09:04:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2410-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BKSL",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "body": [
+   "Sentul City Tbk (BKSL) melaporkan perubahan kepemilikan saham oleh pelapor bernama Samuel Sekuritas Indonesia yang tercatat menjabat Direksi perusahaan. Berdasarkan laporan tertanggal 23 September 2026 itu, jumlah saham yang dipegang berkurang dari 11.485.508.300 lembar menjadi 8.737.846.400 lembar, atau turun 2.747.661.900 lembar. Akibatnya, hak suara pelapor di BKSL turun dari 6,85 persen menjadi 5,21 persen.",
+   "Perubahan ini berasal dari dua transaksi berjenis repurchase agreement (repo) yang sama-sama terjadi pada 22 September 2026. Pertama, penjualan 3.751.424.600 saham biasa dengan harga Rp69 per saham untuk tujuan substitusi jaminan. Kedua, pembelian 1.003.580.700 saham biasa dengan harga Rp64 per saham untuk keperluan penempatan repo baru. Selisih antara saham yang dilepas dan yang diterima kembali itulah yang membuat kepemilikan pelapor menyusut secara neto.",
+   "Laporan ini merupakan kewajiban keterbukaan informasi sesuai POJK 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi, komisaris, atau pemegang saham utama melaporkan setiap perubahan kepemilikan saham emiten kepada Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Wide shot of a busy Jakarta stock brokerage floor, analysts at desks with blurred distant monitors, soft afternoon light",
+  "takeaway": "Laporan ini condong negatif tipis bagi Sentul City, sebab meski dibungkus sebagai transaksi repo, porsi saham yang berpindah tangan mencapai hampir seperempat dari kepemilikan pelapor dan menggerus hak suaranya dari 6,85 persen menjadi 5,21 persen, jauh di atas ukuran remah yang biasa diabaikan pasar. Repurchase agreement pada dasarnya adalah mekanisme saham dijadikan jaminan pembiayaan lalu ditukar atau ditebus kembali di kemudian hari, sehingga yang tersentuh bukan kas atau laba perusahaan, melainkan konsentrasi kepemilikan dan hak suara insider di BKSL, hal yang diperhatikan pasar karena mencerminkan seberapa besar kendali orang dalam atas keputusan pemegang saham. Yang perlu dipantau selanjutnya adalah apakah ada laporan susulan dari pelapor yang sama atau pihak terkait lain yang menunjukkan kelanjutan pola pengurangan kepemilikan ini, mengingat hak suaranya kini sudah mendekati ambang 5 persen yang menjadi batas pelaporan pemegang saham signifikan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "esdm-tawarkan-energi-hijau-genjot-investasi-pusat-data",
   "category": "Energi",
   "title": "ESDM Tawarkan Energi Hijau Genjot Investasi [Pusat Data]",
@@ -29,6 +184,57 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan pemerintah secara eksplisit menjadikan potensi listrik tenaga air raksasa yang belum tergarap, 23 gigawatt di Sungai Mamberamo dan 12 gigawatt di Sungai Kayan, sebagai kartu tawar untuk menarik investor pusat data. Yang berpotensi terdampak adalah calon investor pusat data dan pelaku usaha energi terbarukan, dan kalau proyek ini benar terealisasi, juga masyarakat serta tenaga kerja di Papua dan Kalimantan sebagai lokasi pembangkit. Ada dua kemungkinan arah dari sini. Kalau ajakan ini diikuti kesepakatan konkret, seperti nota kesepahaman dengan investor atau insentif khusus pusat data, ini menandai langkah nyata menggarap energi Papua dan Kalimantan. Tapi kalau tidak ada kelanjutan setelah forum ini usai, ajakan tersebut berisiko berhenti sebagai materi promosi investasi seperti yang berulang kali disampaikan sebelumnya, dan itu akan terlihat dari apakah progres RUPTL 2025-2034 serta program PLTS 100 gigawatt yang ditargetkan rampung dalam tiga tahun benar berjalan sesuai jadwal.",
   "imageV": "muddpja1"
+ },
+ {
+  "slug": "clpi-panggil-rupslb-15-oktober-bahas-penyesuaian-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "CLPI Panggil RUPSLB 15 Oktober, Bahas [Penyesuaian] Anggaran Dasar",
+  "deck": "Colorpak Indonesia (CLPI) memanggil RUPSLB pada 15 Oktober 2026 untuk menyetujui penyesuaian Pasal 3 anggaran dasar mengikuti klasifikasi usaha baru KBLI 2025, tanpa mengubah kegiatan usaha inti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T03:18:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0fe24f3bcc_a98eb71580.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CLPI",
+  "tags": [
+   "CLPI",
+   "Colorpak Indonesia",
+   "RUPSLB",
+   "anggaran dasar"
+  ],
+  "body": [
+   "PT Colorpak Indonesia Tbk (CLPI) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 15 Oktober 2026, pukul 10.00 WIB di kantor perusahaan, Jalan Cideng Barat No. 14-17, Jakarta Pusat. Satu-satunya mata acara rapat adalah persetujuan penyesuaian Pasal 3 anggaran dasar mengenai maksud, tujuan, dan kegiatan usaha perseroan, agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025.",
+   "Dalam penjelasannya, Colorpak menegaskan penyesuaian ini semata-mata bersifat administratif dan tidak termasuk kategori perubahan kegiatan usaha sebagaimana diatur dalam Peraturan OJK Nomor 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Dengan kata lain, perusahaan hanya menyelaraskan bunyi pasal legal dengan kode klasifikasi usaha terbaru dari pemerintah, bukan mengubah lini bisnis yang sudah berjalan.",
+   "Pemegang saham yang berhak hadir dan memberi suara adalah mereka yang namanya tercatat dalam daftar pemegang saham pada penutupan perdagangan bursa, Selasa, 22 September 2026. Kehadiran bisa dilakukan secara fisik di lokasi rapat atau elektronik melalui aplikasi eASY.KSEI, dengan batas waktu pengisian deklarasi kehadiran, kuasa, atau suara pukul 12.00 WIB pada satu hari kerja sebelum rapat, yakni 14 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers operating a printing press producing colorful packaging labels on an industrial factory floor in Jakarta, daytime",
+  "takeaway": "Laporan ini netral bagi Colorpak, karena perusahaan sendiri menyatakan tegas bahwa penyesuaian pasal anggaran dasar ini murni administratif untuk mengikuti kode klasifikasi usaha baru dari pemerintah, bukan perubahan arah bisnis. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar yang tersentuh oleh agenda ini, karena RUPSLB hanya mengesahkan kecocokan dokumen legal dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025, bukan menambah atau mengurangi kegiatan usaha yang sudah berjalan. Yang perlu dipantau adalah hasil pemungutan suara pada RUPSLB tanggal 15 Oktober 2026, serta batas waktu pengiriman deklarasi kehadiran atau kuasa elektronik pada pukul 12.00 WIB, 14 Oktober 2026, sehari sebelum rapat digelar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptpp-tunda-bayar-bunga-obligasi-rp11-1-miliar-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "PTPP [Tunda] Bayar Bunga Obligasi Rp11,1 Miliar ke 2027",
+  "deck": "RUPO menyetujui penundaan bunga Obligasi Berkelanjutan IV Tahap I 2024 senilai Rp11,1 miliar hingga 2027 tanpa denda, sehingga PTPP tak lagi wajib bayar pada 25 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T02:25:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b3fa9d5640_10e78def9a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "obligasi",
+   "RUPO",
+   "BUMN karya"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk (PTPP) melaporkan kepada Bursa Efek Indonesia bahwa perusahaan tidak lagi memiliki kewajiban membayar bunga Obligasi Berkelanjutan IV Tahap I Tahun 2024 yang semula jatuh tempo pada 25 September 2026. Merujuk surat PT Kustodian Sentral Efek Indonesia (KSEI) tertanggal 14 September 2026, tagihan bunga ke-9 dari obligasi ini bernilai Rp11.137.137.500. Namun Rapat Umum Pemegang Obligasi (RUPO) yang digelar pada 1 September 2026 telah menyetujui penundaan pembayaran bunga tersebut sampai dengan tanggal jatuh tempo obligasi pada 2027, tanpa dikenakan denda atas keterlambatan atau kelalaian.",
+   "Hasil RUPO itu telah disampaikan PTPP ke BEI pada 2 September 2026 melalui sistem pelaporan elektronik SPE-OJK/IDX Net, dan ke KSEI pada 3 September 2026 lewat surat resmi bernomor 228/EXT/PP/CORSEC/2026. Perseroan menyebut saat ini masih menunggu penyesuaian jadwal jatuh tempo pada sistem KSEI agar sesuai dengan hasil RUPO tersebut. Surat kesiapan pembayaran bunga bernomor 2975/EXT/PP/DK/2026 ini ditandatangani oleh Direktur Keuangan PTPP, Faizal Rahmad, dan dilaporkan ke bursa oleh Sekretaris Perusahaan Joko Raharjo."
+  ],
+  "fotoAdegan": "Construction workers inspecting scaffolding and rebar at a large building site, tower cranes in the background, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi PTPP, sebab meski disetujui pemegang obligasi dan bebas denda, penundaan bunga senilai Rp11,1 miliar ke tahun 2027 tetap menandakan perusahaan belum punya kas cukup untuk memenuhi kewajiban rutin yang sudah dijadwalkan. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang keluar masuk perusahaan: menunda pembayaran ini sementara meringankan kas PTPP, tapi beban bunga yang tertahan akan menumpuk dan harus dilunasi sekaligus pada jatuh tempo baru di 2027. Yang perlu dipantau adalah penyesuaian jadwal di sistem KSEI serta kepastian pembayaran saat 2027 tiba, apalagi pada 18 September lalu PTPP juga digugat PKPU oleh dua subkontraktor senilai Rp4,25 miliar, sehingga pola tekanan kas perusahaan konstruksi pelat merah ini layak terus diawasi.",
+  "sentimen": "negatif"
  },
  {
   "slug": "gaikindo-gelar-pameran-otomotif-serentak-di-10-kota",

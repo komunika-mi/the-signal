@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-21-64",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 21,64%",
+  "deck": "Samuel Sekuritas Indonesia selaku Direksi NSSS menambah 1,44 miliar saham lewat mekanisme repurchase agreement pada 22 September 2026, mengerek hak suaranya dari 15,58% jadi 21,64%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "repo",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-8317-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cnaf-dana-sukuk-rp900-miliar-terserap-penuh-sisa-nol",
+  "category": "Aksi Korporasi",
+  "title": "CNAF: Dana Sukuk Rp900 Miliar [Terserap] Penuh, Sisa Nol",
+  "deck": "CNAF melaporkan dana Rp896,45 miliar dari sukuk syariah tahap IV 2026 sudah terserap 100 persen untuk pembiayaan kendaraan, properti, dan haji-umrah syariah, tanpa sisa dana.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CNAF",
+   "sukuk syariah",
+   "penggunaan dana IPO",
+   "pembiayaan syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3f6e161a51_44ae392926.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "plas-gelar-buyback-rp51-saham-jelang-delisting",
+  "category": "Aksi Korporasi",
+  "title": "PLAS Gelar Buyback Rp51/Saham Jelang [Delisting]",
+  "deck": "Polaris Investama (PLAS) akan membeli kembali seluruh saham publik seharga Rp51 per lembar mulai 24 September hingga 6 November 2026, menjelang delisting efektif 10 November 2026.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PLAS",
+   "delisting",
+   "buyback saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d46d7fbfd9_1b70bc69e0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "idx-saham-nick-terkonsentrasi-99-28-free-float-menipis",
+  "category": "Aksi Korporasi",
+  "title": "IDX: Saham NICK Terkonsentrasi 99,28%, [Free Float] Menipis",
+  "deck": "Bursa Efek Indonesia dan KSEI mengumumkan 99,28% saham Charnic Capital (NICK) dikuasai sejumlah kecil pemegang saham per 18 September 2026.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "free float",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6548082c4a_8be7d0889c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-direksi-tambah-40-juta-saham-lewat-repo-substitusi",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: [Direksi] Tambah 40 Juta Saham Lewat Repo Substitusi",
+  "deck": "Samuel Sekuritas Indonesia, direksi RLCO, menambah kepemilikan 40,07 juta saham lewat transaksi repurchase agreement bertujuan substitusi, hak suaranya naik dari 5,29% menjadi 6,57%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1949-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bksl-saham-direksi-berkurang-2-7-miliar-lembar-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Saham Direksi Berkurang 2,7 Miliar Lembar lewat [Repo]",
+  "deck": "Transaksi repurchase agreement memangkas kepemilikan pelapor berjabatan Direksi sebesar 23,9 persen, hak suaranya turun dari 6,85 persen menjadi 5,21 persen.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2410-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "esdm-tawarkan-energi-hijau-genjot-investasi-pusat-data",
   "category": "Energi",
   "title": "ESDM Tawarkan Energi Hijau Genjot Investasi [Pusat Data]",
@@ -21,6 +117,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kebutuhan-energi-meningkat-industri-digital-berkembang-pesat-indonesia-siap-menjadi-pusat-data",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "clpi-panggil-rupslb-15-oktober-bahas-penyesuaian-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "CLPI Panggil RUPSLB 15 Oktober, Bahas [Penyesuaian] Anggaran Dasar",
+  "deck": "Colorpak Indonesia (CLPI) memanggil RUPSLB pada 15 Oktober 2026 untuk menyetujui penyesuaian Pasal 3 anggaran dasar mengikuti klasifikasi usaha baru KBLI 2025, tanpa mengubah kegiatan usaha inti.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CLPI",
+   "Colorpak Indonesia",
+   "RUPSLB",
+   "anggaran dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0fe24f3bcc_a98eb71580.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-tunda-bayar-bunga-obligasi-rp11-1-miliar-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "PTPP [Tunda] Bayar Bunga Obligasi Rp11,1 Miliar ke 2027",
+  "deck": "RUPO menyetujui penundaan bunga Obligasi Berkelanjutan IV Tahap I 2024 senilai Rp11,1 miliar hingga 2027 tanpa denda, sehingga PTPP tak lagi wajib bayar pada 25 September 2026.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "obligasi",
+   "RUPO",
+   "BUMN karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b3fa9d5640_10e78def9a.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "gaikindo-gelar-pameran-otomotif-serentak-di-10-kota",
@@ -6388,139 +6516,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260916155530-64393-0/FinancialStatement-2026-I-TRUE.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "kemnaker-klh-bagi-99-alat-latih-teknisi-pendingin-ke-14-balai",
-  "category": "Ketenagakerjaan",
-  "title": "Kemnaker-KLH Bagi [99] Alat Latih Teknisi Pendingin ke 14 Balai",
-  "deck": "Kemnaker dan KLH menyerahkan 99 unit alat pelatihan refrigerasi ke 14 balai vokasi dari Aceh hingga Sorong untuk melatih ulang teknisi AC memakai pendingin ramah lingkungan.",
-  "date": "16 September 2026",
-  "image": "assets/img/pelatihan-vokasi.jpg",
-  "tags": [
-   "Kemnaker",
-   "Hari Ozon",
-   "Green Jobs",
-   "Pelatihan Vokasi"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-klh-perkuat-kompetensi-teknisi-pendingin-untuk-dukung-pelindungan-ozon",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "phr-teken-kontrak-migas-non-konvensional-rokan",
-  "category": "Energi",
-  "title": "PHR Teken Kontrak Migas Non Konvensional [Rokan]",
-  "deck": "PT Pertamina Hulu Rokan menandatangani kontrak bagi hasil pengembangan migas non konvensional pertama di Indonesia, menandai proyek percontohan di Zona Rokan.",
-  "date": "16 September 2026",
-  "image": "assets/img/phr-teken-kontrak-migas-non-konvensional-rokan.jpg",
-  "imageV": "mu3us1id",
-  "tags": [
-   "Pertamina",
-   "Migas Non Konvensional",
-   "Rokan",
-   "Energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467477-migas-non-konvensional-rokan-tonggak-baru-pionir-pengembangan-mnk-indonesia-oleh-pertamina"
- },
- {
-  "slug": "true-koreksi-laporan-keuangan-2025-aset-susut-jadi-rp681-85-m",
-  "category": "Aksi Korporasi",
-  "title": "TRUE Koreksi Laporan Keuangan 2025, [Aset] Susut jadi Rp681,85 M",
-  "deck": "Laporan keuangan tahunan versi koreksi TRUE untuk 2025 menunjukkan total aset turun ke Rp681,85 miliar dan utang berelasi jangka panjang baru sebesar Rp49,96 miliar.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUE",
-   "Laporan Keuangan",
-   "Properti",
-   "Triniti Dinamik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260916154013-64406-0/FinancialStatement-2025-Tahunan-TRUE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "moli-jawab-bursa-soal-free-float-beri-tenggat-2029",
-  "category": "Aksi Korporasi",
-  "title": "MOLI Jawab Bursa soal [Free Float], Beri Tenggat 2029",
-  "deck": "MOLI menanggapi permintaan penjelasan BEI soal rencana pemenuhan syarat minimum saham beredar bebas 15 persen, dengan opsi penjualan saham pendiri paling lambat Maret 2029.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MOLI",
-   "free float",
-   "BEI",
-   "Madusari Murni Indah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3c29707612_d56dc6b911.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-koreksi-laporan-realisasi-dana-obligasi-sukuk-rp3-65-t",
-  "category": "Aksi Korporasi",
-  "title": "LPPI [Koreksi] Laporan Realisasi Dana Obligasi-Sukuk Rp3,65 T",
-  "deck": "LPPI mengoreksi laporan realisasi dana obligasi dan sukuk berkelanjutan senilai total Rp3,65 triliun, dengan sisa Rp162,84 miliar masih ditempatkan di deposito BNI menunggu pencairan modal kerja.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "obligasi korporasi",
-   "sukuk mudharabah",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/61175a0e5b_2b7d806439.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "anggaran-esdm-2027-rp27-37-t-82-persen-untuk-infrastruktur",
-  "category": "Energi",
-  "title": "Anggaran ESDM 2027 Rp27,37 T, 82 Persen untuk [Infrastruktur]",
-  "deck": "Komisi XII DPR menyetujui pagu anggaran ESDM 2027 senilai Rp27,37 triliun, dengan Rp22,51 triliun diarahkan untuk infrastruktur listrik desa dan jaringan gas rumah tangga.",
-  "date": "16 September 2026",
-  "image": "assets/img/anggaran-esdm-2027-rp27-37-t-82-persen-untuk-infrastruktur.jpg",
-  "imageV": "mu3tsygq",
-  "tags": [
-   "ESDM",
-   "Listrik Desa",
-   "Anggaran 2027",
-   "Jaringan Gas"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dorong-pemerataan-akses-energi-82-persen-anggaran-esdm-2027-untuk-infrastruktur",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "mendag-dmo-komoditas-strategis-jangan-otomatis-ke-semua",
-  "category": "Bisnis",
-  "title": "Mendag: DMO Komoditas Strategis Jangan [Otomatis] ke Semua",
-  "deck": "Mendag Budi Santoso mengusulkan ke DPR agar kewajiban pasok domestik dan ekspor satu pintu lewat BUMN diterapkan selektif, bukan otomatis ke seluruh komoditas strategis.",
-  "date": "16 September 2026",
-  "image": "assets/img/mendag-dmo-komoditas-strategis-jangan-otomatis-ke-semua.jpg",
-  "imageV": "mu3tszzf",
-  "tags": [
-   "RUU Komoditas Strategis",
-   "DMO",
-   "Ekspor BUMN",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/beri-masukan-terhadap-ruu-komoditas-strategis-di-dpr-ri-mendag-busan-pengaturan-harus-menjaga-kepentingan-nasional",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m",
-  "category": "BUMN",
-  "title": "12 Proyek LRT City [Dilanjutkan], Danantara Kucurkan Rp456 M",
-  "deck": "Pemerintah pastikan seluruh 12 proyek LRT City yang mangkrak akan digarap lagi, dengan suntikan dana Rp456 miliar dari Danantara Indonesia.",
-  "date": "16 September 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
-  "imageV": "mu3tt0i8",
-  "tags": [
-   "LRT City",
-   "Danantara",
-   "Adhi Karya",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467462-12-proyek-lrt-city-bakal-dilanjutkan-pemerintah-siapkan-rp456-miliar"
  }
 ];

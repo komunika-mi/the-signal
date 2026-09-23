@@ -5,6 +5,60 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim",
+  "category": "Industri",
+  "title": "KKP Sita [1.048] Ton Udang Impor Diduga Bocor ke Pasar Jatim",
+  "deck": "KKP menyita 1.048 ton udang impor asal Kanada, Argentina, dan Ekuador di Jawa Timur yang diduga bocor dari Kawasan Berikat ke pasar dalam negeri.",
+  "date": "23 September 2026",
+  "image": "assets/img/kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim.jpg",
+  "imageV": "mudtw0kv",
+  "tags": [
+   "KKP",
+   "udang impor",
+   "Jawa Timur",
+   "Kawasan Berikat"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-amankan-1048-ton-udang-impor-diduga-langgar-aturan-di-jawa-timur-v830.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "kkp-amankan-1-048-ton-udang-impor-diduga-ilegal-di-jatim",
+  "category": "Industri",
+  "title": "KKP [Amankan] 1.048 Ton Udang Impor Diduga Ilegal di Jatim",
+  "deck": "KKP menyita 1.048 ton udang impor asal Kanada, Argentina, dan Ekuador di Jawa Timur yang diduga tidak sesuai peruntukan, lalu menggandeng Ditjen Pajak untuk pendalaman.",
+  "date": "23 September 2026",
+  "image": "assets/img/kkp-amankan-1-048-ton-udang-impor-diduga-ilegal-di-jatim.jpg",
+  "imageV": "mudtwc50",
+  "tags": [
+   "udang impor",
+   "KKP",
+   "Jawa Timur",
+   "pembudidaya lokal"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/pengamanan-1048-ton-udang-impor-di-jatim-untuk-lindungi-pembudidaya-lokal-wK31.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "bi-tahan-suku-bunga-acuan-5-75-di-tengah-rupiah-tertekan",
+  "category": "Moneter",
+  "title": "BI [Tahan] Suku Bunga Acuan 5,75% di Tengah Rupiah Tertekan",
+  "deck": "Bank Indonesia menahan BI-Rate di 5,75 persen sambil memperluas insentif menjaga rupiah, di tengah inflasi Agustus yang naik ke 3,19 persen dan bunga acuan Amerika Serikat yang kembali naik.",
+  "date": "23 September 2026",
+  "image": "assets/img/bi-tahan-suku-bunga-acuan-5-75-di-tengah-rupiah-tertekan.jpg",
+  "imageV": "mudtwip8",
+  "tags": [
+   "BI-Rate",
+   "Bank Indonesia",
+   "Rupiah",
+   "Inflasi"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819326.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "dewi-pemegang-saham-tambah-kepemilikan-ke-8-05",
   "category": "Aksi Korporasi",
   "title": "DEWI: Pemegang Saham [Tambah] Kepemilikan ke 8,05%",
@@ -99,6 +153,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/be2a74aed5_be9d62f69c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ihsg-menguat-0-64-di-sesi-i-asing-lepas-saham-rp335-8-m",
+  "category": "Pasar Modal",
+  "title": "IHSG [Menguat] 0,64% di Sesi I, Asing Lepas Saham Rp335,8 M",
+  "deck": "IHSG naik 0,64% ke 6.317,46 pada sesi I perdagangan Rabu, ditopang saham domestik, sementara investor asing melepas saham senilai Rp335,80 miliar menjelang keputusan suku bunga BI.",
+  "date": "23 September 2026",
+  "image": "assets/img/ihsg-menguat-0-64-di-sesi-i-asing-lepas-saham-rp335-8-m.jpg",
+  "imageV": "mudtwj9f",
+  "tags": [
+   "ihsg",
+   "bi rate",
+   "saham asing",
+   "rupiah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468852-ihsg-menguat-064-di-sesi-i-tapi-investor-asing-justru-lepas-saham-rp33580-miliar"
  },
  {
   "slug": "ppln-wakil-komisaris-utama-mundur-jadi-menteri-keuangan",
@@ -6443,72 +6514,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467536-jeli-melihat-peluang-nasabah-pnm-mekaar-sulap-sampah-pasar-jadi-usaha-beromzet-jutaan"
- },
- {
-  "slug": "22-kampus-adu-gagasan-energi-di-final-nasional-pgtc",
-  "category": "BUMN",
-  "title": "22 Kampus Adu [Gagasan] Energi di Final Nasional PGTC",
-  "deck": "16 tim debat energi dan 10 finalis inovasi dari 22 kampus di 12 provinsi berlaga di Final Nasional Pertamina Goes to Campus 2026, Jakarta, 22-23 September 2026.",
-  "date": "16 September 2026",
-  "image": "assets/img/22-kampus-adu-gagasan-energi-di-final-nasional-pgtc.jpg",
-  "imageV": "mu45r3dw",
-  "tags": [
-   "Pertamina",
-   "PGTC 2026",
-   "Transisi Energi",
-   "Mahasiswa"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467533-dorong-inovasi-dan-pengembangan-talenta-22-kampus-se-indonesia-siap-beradu-gagasan-di-final-nasional-pgtc-2026"
- },
- {
-  "slug": "bnii-rampungkan-pengambilalihan-981-juta-saham-aeii",
-  "category": "Aksi Korporasi",
-  "title": "BNII Rampungkan Pengambilalihan 981 Juta Saham [AEII]",
-  "deck": "PT Bank Maybank Indonesia Tbk merampungkan pengambilalihan 981,3 juta saham PT Asuransi Etiqa Internasional Indonesia dari Etiqa International Holdings Sdn. Bhd.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BNII",
-   "akuisisi",
-   "Maybank Indonesia",
-   "asuransi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ce35427a1_71c2e4a74a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bimo-batalkan-rotasi-pejabat-pajak-tanpa-seleksi",
-  "category": "Makroekonomi",
-  "title": "Bimo [Batalkan] Rotasi Pejabat Pajak Tanpa Seleksi",
-  "deck": "Dirjen Pajak Bimo Wijayanto membatalkan penempatan pejabat DJP yang masuk daftar rotasi tanpa melalui proses seleksi resmi, lalu mengembalikan mereka ke posisi semula.",
-  "date": "16 September 2026",
-  "image": "assets/img/bimo-batalkan-rotasi-pejabat-pajak-tanpa-seleksi.jpg",
-  "imageV": "mu45r3um",
-  "tags": [
-   "DJP",
-   "Bimo Wijayanto",
-   "Kemenkeu",
-   "rotasi pejabat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467513-rotasi-pejabat-pajak-jadi-sorotan-bimo-batalkan-nama-yang-tak-ikut-seleksi"
- },
- {
-  "slug": "pertamina-ajak-mahasiswa-its-bahas-energi-masa-depan",
-  "category": "Energi",
-  "title": "Pertamina Ajak Mahasiswa ITS Bahas [Energi] Masa Depan",
-  "deck": "Pertamina Patra Niaga menggelar Pertamina Goes to Campus 2026 di ITS Surabaya, mengajak mahasiswa membahas tantangan industri energi dan peluang karier di sektor ini.",
-  "date": "16 September 2026",
-  "image": "assets/img/pertamina-ajak-mahasiswa-its-bahas-energi-masa-depan.jpg",
-  "imageV": "mu45r4bn",
-  "tags": [
-   "Pertamina Patra Niaga",
-   "PGTC 2026",
-   "ITS Surabaya",
-   "industri energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467510-pgtc-2026-digelar-di-its-ajak-mahasiswa-bahas-tantangan-industri-energi-masa-depan"
  }
 ];

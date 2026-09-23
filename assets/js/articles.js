@@ -3,6 +3,90 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim",
+  "category": "Industri",
+  "title": "KKP Sita [1.048] Ton Udang Impor Diduga Bocor ke Pasar Jatim",
+  "deck": "KKP menyita 1.048 ton udang impor asal Kanada, Argentina, dan Ekuador di Jawa Timur yang diduga bocor dari Kawasan Berikat ke pasar dalam negeri.",
+  "image": "assets/img/kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T08:10:59.889Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-amankan-1048-ton-udang-impor-diduga-langgar-aturan-di-jawa-timur-v830.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "KKP",
+   "udang impor",
+   "Jawa Timur",
+   "Kawasan Berikat"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) menyita 1.048 ton udang impor asal Kanada, Argentina, dan Ekuador yang tersebar di beberapa wilayah Jawa Timur. Udang tersebut diduga seharusnya hanya untuk diolah lalu diekspor kembali melalui skema Kawasan Berikat, bukan dijual bebas di pasar dalam negeri. Jika benar, praktik ini merugikan negara sekaligus menekan harga jual petambak udang lokal yang bersaing dengan udang impor.",
+   "Rinciannya, KKP menyegel 19,16 ton udang pink asal Kanada di Probolinggo dan Pasuruan, 885,3 ton udang merah asal Argentina, serta 144 ton udang vaname asal Ekuador. Menurut KKP, langkah ini menyelamatkan potensi kerugian negara senilai Rp405,8 miliar, meski angka tersebut merupakan klaim lembaga dan belum diverifikasi secara independen.",
+   "Direktur Jenderal Pengawasan Sumber Daya Kelautan dan Perikanan (PSDKP) Pung Nugroho Saksono mengatakan pengawasan ini merupakan respons atas aduan masyarakat yang resah dengan peredaran udang impor di pasar lokal. Ia menegaskan pelanggaran administratif akan diproses sesuai aturan, sementara temuan yang memenuhi unsur pidana akan dilanjutkan ke jalur hukum pidana.",
+   "Dalam proses pendalaman, Ditjen PSDKP menggandeng Direktorat Jenderal Pajak Kementerian Keuangan untuk menelusuri kemungkinan ketidakpatuhan perpajakan dari importir yang terlibat. Jika ditemukan indikasi pelanggaran pajak, DJP disebut akan menindaklanjuti sesuai kewenangannya."
+  ],
+  "fotoAdegan": "Workers inspecting stacked frozen shrimp boxes inside a cold storage warehouse near a busy harbor, fluorescent lighting overhead",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-amankan-1048-ton-udang-impor-diduga-langgar-aturan-di-jawa-timur-v830-v830.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "KKP menyita 1.048 ton udang impor asal Kanada, Argentina, dan Ekuador karena diduga bocor dari Kawasan Berikat, yaitu zona khusus tempat barang impor boleh masuk tanpa bea masuk asalkan diolah lalu diekspor kembali, bukan dijual di pasar dalam negeri. Kalau benar udang itu dijual bebas di Jawa Timur, importir berpotensi menghindari bea dan pajak yang seharusnya dibayar, sekaligus menjual produk lebih murah yang bisa menekan harga jual petambak udang lokal. KKP kini menggandeng Ditjen Pajak Kementerian Keuangan untuk menelusuri kemungkinan pelanggaran pajak dari kasus ini, tanda penindakan bergerak ke arah lintas lembaga, tidak hanya soal izin perikanan. Yang akan menentukan apakah ini kasus tunggal atau bagian dari pengawasan yang lebih ketat adalah apakah KKP mengumumkan tindak lanjut pidana atau temuan serupa di komoditas impor lain dalam waktu dekat.",
+  "imageV": "mudtw0kv"
+ },
+ {
+  "slug": "kkp-amankan-1-048-ton-udang-impor-diduga-ilegal-di-jatim",
+  "category": "Industri",
+  "title": "KKP [Amankan] 1.048 Ton Udang Impor Diduga Ilegal di Jatim",
+  "deck": "KKP menyita 1.048 ton udang impor asal Kanada, Argentina, dan Ekuador di Jawa Timur yang diduga tidak sesuai peruntukan, lalu menggandeng Ditjen Pajak untuk pendalaman.",
+  "image": "assets/img/kkp-amankan-1-048-ton-udang-impor-diduga-ilegal-di-jatim.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T08:10:59.339Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/pengamanan-1048-ton-udang-impor-di-jatim-untuk-lindungi-pembudidaya-lokal-wK31.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "udang impor",
+   "KKP",
+   "Jawa Timur",
+   "pembudidaya lokal"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) mengamankan 1.048 ton udang impor di sejumlah wilayah Jawa Timur karena diduga tidak sesuai peruntukan penggunaannya. Langkah ini penting bagi pembudidaya udang dalam negeri, sebab udang impor yang masuk lewat jalur yang salah bisa membanjiri pasar domestik dengan harga yang sulit disaingi produsen lokal.",
+   "Penyitaan dilakukan di tiga lokasi dengan tiga negara asal. Di Probolinggo dan Pasuruan, KKP mengamankan 19 ton udang pink asal Kanada. Di Pasuruan juga ditemukan 885 ton udang merah asal Argentina, sementara di Lamongan diamankan 144 ton udang vaname asal Ekuador. Seluruh udang tersebut masuk ke Jawa Timur melalui Kawasan Berikat, area khusus untuk barang impor yang semestinya diolah atau diekspor kembali, dan diduga justru akan diedarkan ke pasar lokal.",
+   "KKP menyatakan seluruh udang yang diamankan akan diperiksa lebih lanjut, termasuk dari sisi mutu dan asal-usulnya. Dalam proses ini, KKP menggandeng Direktorat Jenderal Pajak Kementerian Keuangan untuk mendalami dugaan pelanggaran di masing-masing kewenangan. Jika ditemukan indikasi ketidakpatuhan pajak, Ditjen Pajak akan menindaklanjuti sesuai aturan yang berlaku.",
+   "KKP juga menyebut tengah mengembangkan budidaya udang terintegrasi di Kebumen dan Waingapu sebagai bagian dari upaya memperkuat daya saing udang nasional, termasuk di pasar Amerika Serikat yang menurut KKP memiliki keunggulan tarif bea masuk."
+  ],
+  "fotoAdegan": "Workers sorting large frozen shrimp in plastic crates inside a cold storage warehouse near an Indonesian seaport",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/pengamanan-1048-ton-udang-impor-di-jatim-untuk-lindungi-pembudidaya-lokal-wK31.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan penegakan atas aturan lama soal Kawasan Berikat, yaitu wilayah khusus tempat barang impor semestinya diolah atau diekspor kembali, bukan langsung dijual ke pasar dalam negeri. KKP menuduh 1.048 ton udang dari Kanada, Argentina, dan Ekuador bocor dari jalur itu ke pasar Jawa Timur. Yang langsung terdampak adalah pembudidaya udang lokal yang selama ini bersaing dengan udang impor semacam ini, serta perusahaan pengimpor yang kini juga diperiksa Ditjen Pajak soal kemungkinan pelanggaran pajak. Pelibatan otoritas pajak, bukan cuma teguran dari KKP, mengarah ke pengawasan impor yang lebih ketat lewat jalur kawasan berikat. Yang akan menentukan apakah ini langkah sekali jalan atau pola pengawasan baru adalah hasil pendalaman Ditjen Pajak dan ada tidaknya sanksi terhadap perusahaan pengimpor yang terlibat.",
+  "imageV": "mudtwc50"
+ },
+ {
+  "slug": "bi-tahan-suku-bunga-acuan-5-75-di-tengah-rupiah-tertekan",
+  "category": "Moneter",
+  "title": "BI [Tahan] Suku Bunga Acuan 5,75% di Tengah Rupiah Tertekan",
+  "deck": "Bank Indonesia menahan BI-Rate di 5,75 persen sambil memperluas insentif menjaga rupiah, di tengah inflasi Agustus yang naik ke 3,19 persen dan bunga acuan Amerika Serikat yang kembali naik.",
+  "image": "assets/img/bi-tahan-suku-bunga-acuan-5-75-di-tengah-rupiah-tertekan.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T08:08:37.996Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819326.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "BI-Rate",
+   "Bank Indonesia",
+   "Rupiah",
+   "Inflasi"
+  ],
+  "body": [
+   "Bank Indonesia memutuskan mempertahankan suku bunga acuan BI-Rate di level 5,75 persen dalam Rapat Dewan Gubernur pada 22-23 September 2026. Suku bunga simpanan bank di BI (Deposit Facility) juga ditahan di 4,75 persen, sementara suku bunga pinjaman (Lending Facility) tetap di 6,50 persen. Keputusan ini penting bagi masyarakat karena suku bunga acuan biasanya jadi patokan bank menentukan bunga kredit dan tabungan, sehingga menahannya berarti biaya pinjaman tidak ikut naik meski ada tekanan dari luar negeri.",
+   "Tekanan itu datang dari memanasnya kembali konflik di Timur Tengah, yang sempat mendorong harga minyak dunia menembus US$132 per barel sebelum turun lagi ke bawah US$100 pada 22 September 2026. Bank Indonesia memperkirakan pertumbuhan ekonomi dunia tahun ini melambat ke sekitar 3,0 persen, sementara inflasi global justru naik ke sekitar 4,6 persen. Bank sentral Amerika Serikat juga baru menaikkan suku bunga acuannya menjadi 3,75-4,00 persen pada September 2026, membuat dolar AS tetap kuat dan investor global menahan diri menanam modal di negara berkembang seperti Indonesia.",
+   "Di dalam negeri, nilai tukar rupiah tercatat Rp17.855 per dolar AS pada 22 September 2026, melemah 0,78 persen dibanding akhir Agustus, setelah sempat menguat sejak Agustus hingga pertengahan September. Cadangan devisa Indonesia akhir Agustus 2026 tercatat US$146,5 miliar, setara kebutuhan impor 5,4 bulan dan masih di atas standar aman internasional sekitar tiga bulan impor. Neraca perdagangan Juli 2026 mencatat surplus US$0,12 miliar, membaik dibanding defisit US$0,45 miliar pada bulan sebelumnya, sementara dana investor asing yang masuk lewat surat utang dan obligasi pemerintah pada kuartal III 2026 hingga 21 September tercatat US$0,4 miliar.",
+   "Inflasi harga konsumen (IHK) pada Agustus 2026 tercatat 3,19 persen dibanding tahun sebelumnya, naik dari 2,88 persen pada Juli, meski masih berada dalam target Bank Indonesia sebesar 2,5 plus minus 1 persen. Bank Indonesia memperkirakan ekonomi Indonesia tahun ini tumbuh di kisaran 4,9 hingga 5,7 persen, ditopang belanja rumah tangga yang terjaga oleh berbagai stimulus fiskal pemerintah serta investasi yang didorong terutama oleh proyek-proyek pemerintah."
+  ],
+  "fotoAdegan": "Container ship being loaded at a busy Indonesian port at dusk, cranes lifting cargo containers above the water",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/sp_2819326.png",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah bukan suku bunganya, yang tetap di 5,75 persen, melainkan tekanan di sekelilingnya: inflasi naik dari 2,88 menjadi 3,19 persen dalam sebulan, dan rupiah melemah 0,78 persen ke Rp17.855 per dolar AS gara-gara bunga acuan Amerika Serikat naik lagi. Bank Indonesia memilih tidak menaikkan bunga untuk menahan pelemahan rupiah, melainkan memperluas insentif bagi bank dan investor yang meminjam dari luar negeri, berupa potongan biaya proteksi risiko kurs, supaya dolar tetap mau masuk tanpa memperketat kredit di dalam negeri. Yang paling merasakan dampaknya adalah pelaku usaha yang mengandalkan pinjaman bank, karena bunga kredit berpeluang tetap landai, sementara importir dan pihak yang punya utang dalam dolar AS menanggung beban dari rupiah yang lebih lemah. Arahnya, Bank Indonesia tampak memilih menjaga kredit tetap longgar demi pertumbuhan ekonomi ketimbang buru-buru mengerem inflasi lewat kenaikan bunga, pilihan yang akan diuji oleh data inflasi September yang terbit awal Oktober, karena batas atas target Bank Indonesia ada di 3,5 persen dan Agustus sudah di 3,19 persen.",
+  "imageV": "mudtwip8"
+ },
+ {
   "slug": "dewi-pemegang-saham-tambah-kepemilikan-ke-8-05",
   "category": "Aksi Korporasi",
   "title": "DEWI: Pemegang Saham [Tambah] Kepemilikan ke 8,05%",
@@ -155,6 +239,33 @@ var ARTICLES = [
   "fotoAdegan": "Stacks of steel pipes at an industrial fabrication yard near a shipyard in Batam, workers in safety vests, overcast morning light",
   "takeaway": "Laporan ini netral bagi penilaian kinerja Citra Tubindo, karena baru sebatas panggilan rapat dan belum menyebut nama calon direksi, alasan pergantian, atau siapa yang akan masuk maupun keluar dari jajaran direksi. Agenda ini tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham secara langsung, tapi pergantian direksi tetap layak dipantau karena bisa mengubah arah strategi dan kebijakan operasional perusahaan ke depan. Tanggal pencatatan pemegang saham yang berhak hadir sudah lewat, yakni 22 September 2026 pukul 16.00 WIB, sehingga pembeli saham baru setelah tanggal itu tidak akan bisa ikut memberi suara di rapat ini. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 15 Oktober 2026, terutama nama-nama yang diumumkan masuk atau keluar dari Direksi dan apakah ada perubahan arah kebijakan yang menyertainya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "ihsg-menguat-0-64-di-sesi-i-asing-lepas-saham-rp335-8-m",
+  "category": "Pasar Modal",
+  "title": "IHSG [Menguat] 0,64% di Sesi I, Asing Lepas Saham Rp335,8 M",
+  "deck": "IHSG naik 0,64% ke 6.317,46 pada sesi I perdagangan Rabu, ditopang saham domestik, sementara investor asing melepas saham senilai Rp335,80 miliar menjelang keputusan suku bunga BI.",
+  "image": "assets/img/ihsg-menguat-0-64-di-sesi-i-asing-lepas-saham-rp335-8-m.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T14:02:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468852-ihsg-menguat-064-di-sesi-i-tapi-investor-asing-justru-lepas-saham-rp33580-miliar",
+  "tags": [
+   "ihsg",
+   "bi rate",
+   "saham asing",
+   "rupiah"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) menutup sesi pertama perdagangan Rabu, 23 September 2026, di zona hijau dengan kenaikan 0,64 persen atau 40,42 poin ke level 6.317,46. Namun, kenaikan ini terjadi bersamaan dengan keluarnya dana asing dari pasar saham, dengan investor asing mencatat penjualan bersih senilai Rp335,80 miliar. Kombinasi ini penting karena berarti penguatan indeks lebih banyak ditopang pembelian investor domestik, sementara asing justru bersikap hati-hati.",
+   "Sepanjang sesi, pergerakan IHSG cukup fluktuatif. Indeks dibuka di 6.446,90, sempat menanjak ke titik tertinggi 6.451,33, lalu berbalik turun hingga menyentuh level terendah 6.381,57, sebelum akhirnya ditutup di 6.317,46 pada akhir sesi I. Penguatan ditopang sektor konsumer kebutuhan pokok yang melesat 3,5 persen, disusul sektor bahan baku dasar yang naik 1,7 persen dan sektor energi yang bertambah 1,1 persen. Sebanyak 416 saham menguat, 224 melemah, dan 323 stagnan, dengan nilai transaksi sesi ini mencapai sekitar Rp6,04 triliun.",
+   "Sentimen pasar hari ini juga dibayangi penantian investor terhadap hasil Rapat Dewan Gubernur Bank Indonesia. Keputusan suku bunga acuan ini menjadi sorotan karena menjadi keputusan pertama yang diambil Destry Damayanti sejak dilantik sebagai Gubernur BI definitif pada 2 September 2026. Mayoritas responden dalam survei CNBC Indonesia memperkirakan BI Rate akan dipertahankan di level 5,75 persen.",
+   "Dari sisi eksternal, nilai tukar rupiah juga turut menjadi perhatian pelaku pasar. Mata uang rupiah tercatat sempat melemah hingga menyentuh level Rp17.850 per dolar Amerika Serikat pada perdagangan sebelumnya."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's financial district skyline with glass office towers, busy street traffic below, soft morning haze",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef97b6908c-ilustrasi-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah pada sesi ini adalah arah investor asing berlawanan dengan arah indeks: IHSG naik 0,64 persen ke 6.317,46, tapi asing justru menarik dana bersih Rp335,80 miliar dari pasar saham, artinya nilai saham yang mereka jual lebih besar daripada yang mereka beli. Penguatan indeks sesi ini lebih banyak ditopang pembelian investor domestik, terutama di saham sektor konsumer kebutuhan pokok yang melesat 3,5 persen, sehingga yang paling terdampak adalah pelaku pasar modal dan pemegang saham di sektor itu. Sikap keluar asing ini kemungkinan besar terkait sikap menunggu hasil Rapat Dewan Gubernur Bank Indonesia sore ini, keputusan suku bunga acuan pertama di bawah Gubernur BI definitif Destry Damayanti, dengan mayoritas perkiraan pasar bahwa suku bunga akan dipertahankan di 5,75 persen. Kalau keputusan itu sesuai perkiraan, arus keluar dana asing berpotensi mereda karena tidak ada kejutan, tapi kalau BI mengubah suku bunga, arah pergerakan asing pada sesi II sore ini dan hari-hari berikutnya akan jadi penentu apakah tekanan jual asing ini sementara atau berlanjut.",
+  "imageV": "mudtwj9f"
  },
  {
   "slug": "ppln-wakil-komisaris-utama-mundur-jadi-menteri-keuangan",

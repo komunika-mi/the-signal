@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ruu-pelindungan-ketenagakerjaan-ditarget-sah-8-oktober-2026",
+  "category": "Ketenagakerjaan",
+  "title": "RUU Pelindungan Ketenagakerjaan Ditarget [Sah] 8 Oktober 2026",
+  "deck": "Pemerintah dan DPR menargetkan RUU Pelindungan Ketenagakerjaan disahkan 8 Oktober 2026, dengan aturan alih daya dan usulan bantuan iuran jaminan sosial pekerja jadi sorotan.",
+  "date": "24 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "RUU Ketenagakerjaan",
+   "outsourcing",
+   "KSBSI",
+   "Kemnaker"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/wamenaker-pengesahan-ruu-pelindungan-ketenagakerjaan-ditargetkan-8-oktober-2026",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
   "slug": "bike-rugi-rp19-18-m-ungkap-rencana-akuisisi-tambang-publex",
   "category": "Aksi Korporasi",
   "title": "BIKE Rugi Rp19,18 M, Ungkap Rencana Akuisisi Tambang [Publex]",
@@ -303,7 +319,7 @@ var ARTICLES = [
   "title": "Kemnaker Luncurkan [MagangHub] Batch 2, 40.962 Peserta Lolos",
   "deck": "Kemnaker memulai MagangHub Batch 2 Angkatan II dengan 40.962 peserta lolos seleksi, termasuk 15 penyandang disabilitas, untuk magang enam bulan di berbagai instansi dan sektor industri.",
   "date": "23 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "tags": [
    "MagangHub",
    "Kemnaker",
@@ -6490,22 +6506,6 @@ var ARTICLES = [
    "Panca Mitra Multiperdana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23ea2c3ecc_89a68d6b05.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oasa-direksi-jual-34-27-juta-saham-senilai-rp8-57-m",
-  "category": "Aksi Korporasi",
-  "title": "OASA: [Direksi] Jual 34,27 Juta Saham Senilai Rp8,57 M",
-  "deck": "Direktur OASA Gafur Sulistyo Umar melepas 34,27 juta saham senilai Rp8,57 miliar pada 17 September 2026, hak suaranya turun dari 32,55% menjadi 32,01%.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OASA",
-   "Maharaksa Biru Energi",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-7716-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

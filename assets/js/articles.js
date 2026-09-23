@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bike-rugi-rp19-18-m-ungkap-rencana-akuisisi-tambang-publex",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Rugi Rp19,18 M, Ungkap Rencana Akuisisi Tambang [Publex]",
+  "deck": "Materi Public Expose Insidentil BIKE ungkap rugi bersih Rp19,18 miliar di semester I 2026, sekaligus rencana akuisisi lahan tambang dan enam anak usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T23:46:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/843fd0cdbe_2e84ce55ea.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "Public Expose",
+   "Suspensi Saham",
+   "Akuisisi Tambang"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) menyampaikan materi Public Expose Insidentil yang akan digelar Kamis, 24 September 2026 pukul 15.00 WIB melalui Zoom Meeting. Acara ini merupakan tindak lanjut dari surat penghentian sementara perdagangan saham (suspensi cooling down) yang dikeluarkan Bursa Efek Indonesia pada 21 September 2026 dengan nomor Peng-SPT-00181/BEI.WAS/09-2026, menyusul kenaikan harga saham BIKE yang signifikan secara kumulatif. Suspensi itu dibuka kembali sehari kemudian melalui surat Peng-UPT-00191/BEI.WAS/09-2026. Paparan akan dibawakan tiga direksi sebagai panelis, yaitu Direktur Utama Eric Kusuma, Direktur Muhammad Kuswandi, dan Direktur Nadila Syafira.",
+   "Dalam materi tersebut, BIKE membuka kondisi keuangan per 30 Juni 2026. Pendapatan bersih perusahaan tercatat Rp121,12 miliar dan perusahaan membukukan rugi bersih Rp19,18 miliar untuk periode Januari hingga Juni 2026. Total aset perusahaan berada di angka Rp98,02 miliar, dengan total liabilitas Rp32,50 miliar dan total ekuitas Rp65,52 miliar.",
+   "Soal rencana usaha, BIKE menyatakan tetap menjalankan bisnis inti sepeda dan alat olahraga, sembari menjajaki kerja sama baru yang sudah dituangkan dalam beberapa nota kesepahaman (MoU) tahap awal. Perusahaan tengah mengkaji penambahan izin usaha di bidang Energi, IT, Golf, Industri, dan Investasi melalui studi kelayakan oleh Kantor Jasa Penilai Publik (KJPP), sekaligus mengkaji penguatan modal kerja lewat kajian fairness opinion oleh KJPP yang sama. Perusahaan juga mengaku telah melakukan kajian akuisisi atas enam anak usaha, yaitu PT RK, PT PEG, PT FDP, PT SMI, PT MTI, dan PT KBI, serta rencana akuisisi lahan tambang milik PT BSR seluas 9.660 hektare, PT TBM seluas 8.126 hektare, dan PT WCM seluas 10.000 hektare. Seluruh rencana ini disebut masih dalam tahap kajian dan menunggu persetujuan serta perizinan yang diperlukan.",
+   "Terkait lonjakan harga sahamnya, BIKE menegaskan pergerakan itu merupakan hasil dinamika pasar yang berada di luar kendali perusahaan, dan hingga pelaksanaan public expose ini tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "A land surveyor using a tripod instrument to measure a large forested hillside plot in rural Indonesia, overcast sky, no signage visible.",
+  "takeaway": "Materi ini condong negatif bagi persepsi BIKE, karena perusahaan sendiri menegaskan tidak ada informasi material baru yang mendasari lonjakan harga sahamnya, sementara laporan keuangan terbaru justru menunjukkan rugi bersih Rp19,18 miliar pada semester I 2026. Rugi bersih berarti beban perusahaan lebih besar dari pendapatannya dalam periode itu, dan ini menggerus ekuitas atau modal sendiri perusahaan yang kini tercatat Rp65,52 miliar; sementara rencana mengakuisisi enam anak usaha sekaligus tiga lahan tambang, kalau nanti direalisasikan, berpotensi menambah utang atau menuntut modal baru, yang layak dicermati investor karena bisa mengubah struktur keuangan dan jumlah saham beredar ke depan. Semua rencana akuisisi dan penambahan izin usaha itu sendiri masih berstatus kajian oleh KJPP, belum ada yang final. Yang perlu dipantau berikutnya adalah jalannya Public Expose Insidentil pada 24 September 2026 pukul 15.00 WIB serta penyampaian hasil pelaksanaannya yang menurut jadwal perusahaan jatuh pada 25 September 2026, termasuk apakah kajian KJPP soal akuisisi dan penambahan izin usaha itu berlanjut ke tahap yang lebih pasti.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "the-telkom-hub-capai-status-net-zero-emisi-karbon",
   "category": "Energi",
   "title": "The Telkom Hub Capai Status [Net Zero] Emisi Karbon",
@@ -530,6 +557,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "asli-wahana-konstruksi-mandiri-tambah-saham-ke-52",
+  "category": "Aksi Korporasi",
+  "title": "ASLI: Wahana Konstruksi Mandiri [Tambah] Saham ke 52%",
+  "deck": "Wahana Konstruksi Mandiri, pemegang saham pengendali ASLI, membeli tambahan 62,5 juta saham senilai sekitar Rp20,3 miliar, menaikkan hak suaranya dari 51 persen menjadi 52 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T17:44:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-8816-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASLI",
+  "tags": [
+   "ASLI",
+   "kepemilikan saham",
+   "pemegang saham pengendali",
+   "OJK"
+  ],
+  "body": [
+   "PT Asri Karya Lestari Tbk (ASLI) mendapat laporan kepemilikan saham dari Wahana Konstruksi Mandiri, pemegang saham perusahaan, yang membeli tambahan 62.500.000 lembar saham pada 21 September 2026 dengan harga Rp325 per saham. Nilai transaksi tersebut sekitar Rp20,3 miliar. Transaksi dicatat sebagai pembelian langsung dengan skema repurchase agreement dan tujuan investasi.",
+   "Dengan pembelian ini, kepemilikan Wahana Konstruksi Mandiri di ASLI naik dari 3.187.500.000 lembar saham menjadi 3.250.000.000 lembar saham. Hak suaranya di perusahaan pun bertambah dari 51,00 persen menjadi 52,00 persen, yang berarti posisinya sebagai pemegang saham pengendali semakin kuat. Pelapor tercatat bukan anggota direksi maupun dewan komisaris ASLI.",
+   "Laporan ini disampaikan ke Otoritas Jasa Keuangan pada 23 September 2026, sesuai kewajiban keterbukaan berdasarkan Pasal 3 Ayat 3 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete at a mid-rise building site in an Indonesian city, cranes overhead, late afternoon light",
+  "takeaway": "Laporan ini condong positif bagi ASRI Karya Lestari karena pemegang saham pengendalinya menambah kepemilikan dengan membeli, bukan melepas, saham, yang biasanya dibaca pasar sebagai tanda keyakinan pada prospek perusahaan. Yang tersentuh di sini adalah hak suara sang pengendali, yang naik dari 51 persen menjadi 52 persen, indikator penting karena makin besar porsi suara pengendali, makin kuat kendalinya atas keputusan strategis seperti pengangkatan direksi atau aksi korporasi. Nilai pembelian sekitar Rp20,3 miliar untuk 62,5 juta lembar saham itu setara sekitar 1,96 persen dari kepemilikan pengendali sebelumnya, jadi bukan lonjakan besar, tapi arah penambahannya tetap positif. Yang perlu dipantau selanjutnya adalah apakah Wahana Konstruksi Mandiri kembali menambah kepemilikan dalam laporan-laporan berikutnya ke OJK, karena pola akumulasi bertahap seperti ini umumnya dilaporkan setiap kali terjadi perubahan kepemilikan sesuai POJK Nomor 4/2024.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "silo-tanggapi-bei-rupslb-kunci-akuisisi-rs-aset-dijaminkan",
   "category": "Aksi Korporasi",
   "title": "SILO Tanggapi BEI: RUPSLB Kunci [Akuisisi] RS, Aset Dijaminkan",
@@ -1046,6 +1099,31 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "dewi-sujito-ngatiman-beli-12-9-juta-saham-suara-8-44",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman Beli 12,9 Juta Saham, Suara [8,44%]",
+  "deck": "Sujito Ngatiman membeli 12,9 juta saham DEWI seharga Rp162 per lembar lewat perjanjian pembelian kembali, menambah hak suaranya dari 7,59% menjadi 8,44%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T15:13:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2105-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) melaporkan ke Otoritas Jasa Keuangan bahwa Sujito Ngatiman, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perusahaan, menambah kepemilikan sahamnya di DEWI. Sebelum transaksi ia memegang 151.859.600 lembar saham atau setara 7,59 persen hak suara. Setelah transaksi, kepemilikannya naik menjadi 164.768.200 lembar atau 8,44 persen hak suara.",
+   "Penambahan sebanyak 12.908.600 lembar saham itu dilakukan lewat pembelian pada 14 September 2026 dengan harga Rp162 per saham, menggunakan skema repurchase agreement atau perjanjian pembelian kembali. Dokumen mencantumkan batas akhir periode pelaksanaan transaksi pada 15 September 2026. Jumlah saham yang ditambahkan ini setara sekitar 8,5 persen dari saham yang sudah dipegang Sujito Ngatiman sebelumnya, bukan porsi yang kecil."
+  ],
+  "fotoAdegan": "Jakarta financial district skyscrapers at dusk, illuminated office windows, busy street traffic below, wide angle",
+  "takeaway": "Laporan ini condong positif bagi DEWI, karena Sujito Ngatiman menambah kepemilikan lewat pembelian langsung, bukan melepas saham, dan porsi tambahan sekitar 8,5 persen dari saham yang sudah dipegangnya bukan jumlah remeh, sehingga wajar dibaca sebagai penguatan posisi. Yang tersentuh di sini adalah hak suara, yaitu bobot pengaruh seorang pemegang saham dalam rapat umum pemegang saham (RUPS), yang naik dari 7,59 persen menjadi 8,44 persen, sementara jumlah saham beredar perusahaan sendiri tidak berubah karena ini transaksi antar pihak, bukan penerbitan saham baru. Yang perlu dicermati berikutnya adalah apakah saham ini akan dilepas kembali dalam siklus repo berikutnya, mengingat perjanjian pembelian kembali pada dasarnya bersifat sementara dan pola transaksi bolak-balik oleh pemegang saham yang sama sudah beberapa kali terjadi belakangan ini, sehingga laporan kepemilikan susulan dari Sujito Ngatiman patut ditunggu.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim",
   "category": "Industri",
   "title": "KKP Sita [1.048] Ton Udang Impor Diduga Bocor ke Pasar Jatim",
@@ -1102,6 +1180,31 @@ var ARTICLES = [
   "imageV": "mudtwc50"
  },
  {
+  "slug": "dewi-sujito-ngatiman-jual-13-5-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman [Jual] 13,5 Juta Saham via Repo",
+  "deck": "Sujito Ngatiman melepas 13,52 juta saham DEWI lewat perjanjian jual beli kembali, menekan hak suaranya dari 8,27 persen menjadi 7,60 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T15:09:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9885-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repo saham",
+   "Sujito Ngatiman"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) melaporkan ke Otoritas Jasa Keuangan bahwa Sujito Ngatiman, pemegang saham perorangan berkewarganegaraan Indonesia yang bukan anggota direksi maupun dewan komisaris, menjual 13.520.000 saham perseroan pada 11 September 2026. Transaksi dilakukan melalui perjanjian jual beli kembali atau repurchase agreement, dengan harga Rp162 per saham, sehingga nilai transaksinya sekitar Rp2,19 miliar. Status kepemilikan tercatat langsung atas namanya sendiri.",
+   "Dengan penjualan ini, kepemilikan Sujito Ngatiman di DEWI turun dari 165.549.100 lembar menjadi 152.029.100 lembar. Hak suaranya di perseroan ikut turun dari 8,27 persen menjadi 7,60 persen. Tujuan transaksi yang dicantumkan dalam laporan adalah penjualan, dan laporan ini disampaikan ke OJK pada 23 September 2026, dua belas hari setelah tanggal transaksi."
+  ],
+  "fotoAdegan": "Workers loading sacks of agricultural fertilizer onto a truck at a rural Indonesian warehouse, midday sun, forklift nearby",
+  "takeaway": "Laporan ini condong negatif bagi DEWI, karena saham yang dilepas mencapai sekitar 8,2 persen dari kepemilikan Sujito Ngatiman sendiri, cukup besar untuk dibaca sebagai sinyal, bukan sekadar remah transaksi. Yang tersentuh di sini adalah struktur hak suara pemegang saham signifikan, bukan jumlah total saham beredar perseroan, sebab repurchase agreement pada dasarnya adalah penjualan saham disertai janji membeli kembali di kemudian hari, sehingga sering dipakai sebagai cara mendapat dana segar lewat saham yang dijaminkan, bukan selalu tanda pelepasan permanen. Perlu dicatat pula bahwa dalam beberapa hari terakhir Sujito Ngatiman tercatat berulang kali keluar masuk posisi lewat mekanisme serupa, jual dan beli bergantian, yang membuat pola ini terlihat lebih seperti aktivitas pembiayaan berulang ketimbang satu keputusan arah yang tegas. Yang perlu dipantau selanjutnya adalah apakah saham yang dijual lewat repo ini akan dibeli kembali sesuai perjanjian, serta apakah akan ada laporan susulan dari Sujito Ngatiman yang mengubah lagi porsi kepemilikannya di DEWI.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bi-tahan-suku-bunga-acuan-5-75-di-tengah-rupiah-tertekan",
   "category": "Moneter",
   "title": "BI [Tahan] Suku Bunga Acuan 5,75% di Tengah Rupiah Tertekan",
@@ -1128,6 +1231,58 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah bukan suku bunganya, yang tetap di 5,75 persen, melainkan tekanan di sekelilingnya: inflasi naik dari 2,88 menjadi 3,19 persen dalam sebulan, dan rupiah melemah 0,78 persen ke Rp17.855 per dolar AS gara-gara bunga acuan Amerika Serikat naik lagi. Bank Indonesia memilih tidak menaikkan bunga untuk menahan pelemahan rupiah, melainkan memperluas insentif bagi bank dan investor yang meminjam dari luar negeri, berupa potongan biaya proteksi risiko kurs, supaya dolar tetap mau masuk tanpa memperketat kredit di dalam negeri. Yang paling merasakan dampaknya adalah pelaku usaha yang mengandalkan pinjaman bank, karena bunga kredit berpeluang tetap landai, sementara importir dan pihak yang punya utang dalam dolar AS menanggung beban dari rupiah yang lebih lemah. Arahnya, Bank Indonesia tampak memilih menjaga kredit tetap longgar demi pertumbuhan ekonomi ketimbang buru-buru mengerem inflasi lewat kenaikan bunga, pilihan yang akan diuji oleh data inflasi September yang terbit awal Oktober, karena batas atas target Bank Indonesia ada di 3,5 persen dan Agustus sudah di 3,19 persen.",
   "imageV": "mudtwip8"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-beli-17-3-juta-saham-ke-8-23",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman [Beli] 17,3 Juta Saham ke 8,23%",
+  "deck": "Sujito Ngatiman membeli 17,3 juta saham DEWI seharga Rp155 per lembar lewat skema perjanjian pembelian kembali, kepemilikannya naik dari 7,52% jadi 8,23% suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T15:04:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2121-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repo",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) melaporkan ke Otoritas Jasa Keuangan bahwa Sujito Ngatiman, pemegang saham berkewarganegaraan Indonesia yang bukan anggota direksi maupun dewan komisaris, membeli 17.300.000 saham perseroan pada 8 September 2026. Transaksi dilakukan pada harga Rp155 per lembar, atau senilai sekitar Rp2,68 miliar, lewat skema repurchase agreement alias perjanjian pembelian kembali saham, dengan batas akhir periode pelaksanaan pada 9 September 2026.",
+   "Dengan tambahan itu, kepemilikan Sujito naik dari 150.461.800 lembar menjadi 167.761.800 lembar saham DEWI. Porsi hak suaranya di perseroan ikut naik dari 7,52 persen menjadi 8,23 persen. Jumlah saham yang dibeli setara 11,5 persen dari kepemilikannya sebelum transaksi, sehingga bukan penambahan dalam jumlah remeh.",
+   "Laporan ini merupakan salah satu dari beberapa laporan kepemilikan saham DEWI atas nama Sujito Ngatiman yang tercatat dalam beberapa hari terakhir, dengan pola transaksi yang bergantian antara pembelian dan pelepasan lewat skema repo serupa."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, wide angle, daytime, no visible signage",
+  "takeaway": "Laporan ini condong positif bagi DEWI, karena Sujito Ngatiman menambah kepemilikannya lewat pembelian senilai sekitar Rp2,68 miliar, setara 11,5 persen dari saham yang sudah ia pegang sebelumnya, cukup besar untuk dibaca sebagai penambahan porsi, bukan sekadar remah. Yang tersentuh adalah jumlah saham yang dikuasainya dan hak suaranya di perseroan, yang naik dari 7,52 persen menjadi 8,23 persen. Transaksi ini dilakukan lewat perjanjian pembelian kembali saham, yaitu saham dibeli dengan kesepakatan untuk diperjualbelikan lagi dalam periode tertentu, jadi sifatnya bisa berbeda dari pembelian saham biasa yang permanen. Yang perlu dipantau adalah apakah Sujito melepas kembali saham ini setelah batas akhir periode pelaksanaan repo pada 9 September 2026, mengingat riwayat transaksinya di DEWI belakangan ini bolak-balik antara membeli dan menjual lewat skema serupa.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-lepas-11-5-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman Lepas [11,5 Juta] Saham via Repo",
+  "deck": "Sujito Ngatiman melepas 11,5 juta saham DEWI lewat perjanjian repurchase (repo) pada 7 September 2026, hak suaranya turun dari 8,09 persen menjadi 7,52 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T14:59:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-5602-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repo saham",
+   "Sujito Ngatiman"
+  ],
+  "body": [
+   "Sujito Ngatiman, pemegang saham PT Dewi Shri Farmindo Tbk (DEWI) yang bukan berasal dari jajaran direksi maupun komisaris, melaporkan ke Otoritas Jasa Keuangan bahwa ia telah melepas 11.503.800 lembar saham DEWI pada 7 September 2026. Transaksi dilakukan melalui skema repurchase agreement atau perjanjian jual saham dengan janji beli kembali, pada harga Rp156 per saham, dengan tujuan penjualan. Setelah transaksi ini, kepemilikan Sujito turun dari 161.965.600 lembar menjadi 150.461.800 lembar, sehingga hak suaranya di DEWI berkurang dari 8,09 persen menjadi 7,52 persen.",
+   "Saham yang dilepas Sujito termasuk klasifikasi saham dengan hak suara multiple, jenis saham yang memberi bobot suara lebih besar dibanding saham biasa pada umumnya. Berdasarkan perhitungan resmi, jumlah yang dilepas setara 7,1 persen dari total kepemilikan Sujito sebelum transaksi ini, porsi yang cukup besar untuk dianggap sebagai sinyal, bukan sekadar transaksi kecil. Dalam dokumen laporan yang sama, kolom jumlah hak yang belum dilaksanakan (EBE) tercatat kosong, menandakan tidak ada sisa hak opsi saham yang masih menggantung dari transaksi ini.",
+   "Laporan ini merupakan salah satu dari beberapa laporan kepemilikan saham DEWI atas nama Sujito Ngatiman yang muncul dalam waktu berdekatan, dengan pola jual dan beli yang silih berganti. Ketentuan POJK Nomor 4/2024 mewajibkan pelaporan setiap kali terjadi perubahan kepemilikan saham perusahaan terbuka, agar publik dapat memantau pergerakan kepemilikan pemegang saham dengan hak suara signifikan seperti Sujito, yang sebelum transaksi ini menguasai lebih dari 8 persen hak suara DEWI."
+  ],
+  "fotoAdegan": "Exterior facade of a modern Jakarta stock exchange building at dusk, pedestrians walking past, illuminated windows glowing",
+  "takeaway": "Laporan ini condong negatif bagi DEWI, karena volume yang dilepas Sujito Ngatiman, 11,5 juta lembar atau 7,1 persen dari kepemilikannya sendiri, cukup besar untuk dibaca sebagai sinyal pengurangan posisi, bukan sekadar transaksi remeh. Yang tersentuh adalah hak suara dan komposisi pemegang saham dengan kepemilikan signifikan, karena saham yang dijual berjenis hak suara multiple sehingga penurunannya berdampak lebih besar terhadap kendali suara dibanding saham biasa dalam jumlah sama, hak suara Sujito pun turun dari 8,09 persen menjadi 7,52 persen. Pasar mencermati pergerakan pemegang saham berpengaruh seperti ini karena bisa mengindikasikan kebutuhan likuiditas pemilik atau pergeseran peta kendali perusahaan, meski satu transaksi belum tentu mencerminkan pandangan jangka panjang. Karena transaksi ini berbentuk perjanjian repo, yang perlu dipantau adalah apakah Sujito kelak membeli kembali saham tersebut untuk menutup perjanjian, serta apakah pola jual beli berulang oleh pelapor yang sama dalam waktu berdekatan ini berlanjut di laporan-laporan berikutnya.",
+  "sentimen": "negatif"
  },
  {
   "slug": "dewi-pemegang-saham-tambah-kepemilikan-ke-8-05",

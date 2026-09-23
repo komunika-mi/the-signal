@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bike-rugi-rp19-18-m-ungkap-rencana-akuisisi-tambang-publex",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Rugi Rp19,18 M, Ungkap Rencana Akuisisi Tambang [Publex]",
+  "deck": "Materi Public Expose Insidentil BIKE ungkap rugi bersih Rp19,18 miliar di semester I 2026, sekaligus rencana akuisisi lahan tambang dan enam anak usaha.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "Public Expose",
+   "Suspensi Saham",
+   "Akuisisi Tambang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/843fd0cdbe_2e84ce55ea.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "the-telkom-hub-capai-status-net-zero-emisi-karbon",
   "category": "Energi",
   "title": "The Telkom Hub Capai Status [Net Zero] Emisi Karbon",
@@ -330,6 +346,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "asli-wahana-konstruksi-mandiri-tambah-saham-ke-52",
+  "category": "Aksi Korporasi",
+  "title": "ASLI: Wahana Konstruksi Mandiri [Tambah] Saham ke 52%",
+  "deck": "Wahana Konstruksi Mandiri, pemegang saham pengendali ASLI, membeli tambahan 62,5 juta saham senilai sekitar Rp20,3 miliar, menaikkan hak suaranya dari 51 persen menjadi 52 persen.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASLI",
+   "kepemilikan saham",
+   "pemegang saham pengendali",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-8816-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "silo-tanggapi-bei-rupslb-kunci-akuisisi-rs-aset-dijaminkan",
   "category": "Aksi Korporasi",
   "title": "SILO Tanggapi BEI: RUPSLB Kunci [Akuisisi] RS, Aset Dijaminkan",
@@ -648,6 +680,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "dewi-sujito-ngatiman-beli-12-9-juta-saham-suara-8-44",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman Beli 12,9 Juta Saham, Suara [8,44%]",
+  "deck": "Sujito Ngatiman membeli 12,9 juta saham DEWI seharga Rp162 per lembar lewat perjanjian pembelian kembali, menambah hak suaranya dari 7,59% menjadi 8,44%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2105-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim",
   "category": "Industri",
   "title": "KKP Sita [1.048] Ton Udang Impor Diduga Bocor ke Pasar Jatim",
@@ -684,6 +732,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Kelautan dan Perikanan"
  },
  {
+  "slug": "dewi-sujito-ngatiman-jual-13-5-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman [Jual] 13,5 Juta Saham via Repo",
+  "deck": "Sujito Ngatiman melepas 13,52 juta saham DEWI lewat perjanjian jual beli kembali, menekan hak suaranya dari 8,27 persen menjadi 7,60 persen.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repo saham",
+   "Sujito Ngatiman"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9885-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bi-tahan-suku-bunga-acuan-5-75-di-tengah-rupiah-tertekan",
   "category": "Moneter",
   "title": "BI [Tahan] Suku Bunga Acuan 5,75% di Tengah Rupiah Tertekan",
@@ -700,6 +764,38 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819326.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-beli-17-3-juta-saham-ke-8-23",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman [Beli] 17,3 Juta Saham ke 8,23%",
+  "deck": "Sujito Ngatiman membeli 17,3 juta saham DEWI seharga Rp155 per lembar lewat skema perjanjian pembelian kembali, kepemilikannya naik dari 7,52% jadi 8,23% suara.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repo",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2121-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-lepas-11-5-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman Lepas [11,5 Juta] Saham via Repo",
+  "deck": "Sujito Ngatiman melepas 11,5 juta saham DEWI lewat perjanjian repurchase (repo) pada 7 September 2026, hak suaranya turun dari 8,09 persen menjadi 7,52 persen.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "repo saham",
+   "Sujito Ngatiman"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-5602-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dewi-pemegang-saham-tambah-kepemilikan-ke-8-05",
@@ -6410,103 +6506,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-7716-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bahlil-ungkap-sebab-antrean-bbm-makassar-tangki-modifikasi-1-ton",
-  "category": "Energi",
-  "title": "Bahlil Ungkap Sebab Antrean BBM Makassar, Tangki [Modifikasi] 1 Ton",
-  "deck": "Menteri ESDM Bahlil Lahadalia menyebut antrean BBM di Makassar dipicu perpindahan konsumen ke BBM subsidi dan tangki kendaraan modifikasi berkapasitas hingga 1 ton yang ditemukan polisi.",
-  "date": "17 September 2026",
-  "image": "assets/img/bahlil-ungkap-sebab-antrean-bbm-makassar-tangki-modifikasi-1-ton.jpg",
-  "imageV": "mu5fkilq",
-  "tags": [
-   "BBM subsidi",
-   "antrean BBM",
-   "Bahlil Lahadalia",
-   "tangki modifikasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467704-bahlil-ungkap-2-penyebab-antrean-bbm-mengular-di-makassar-ada-tangki-modifikasi-1-ton"
- },
- {
-  "slug": "boss-undur-rups-ke-29-oktober-audit-3-tahun-buku-belum-kelar",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Undur RUPS ke 29 Oktober, [Audit] 3 Tahun Buku Belum Kelar",
-  "deck": "RUPS Tahunan BOSS untuk tahun buku 2023 diundur ke 29 Oktober 2026, sementara akuntan publik menyatakan audit laporan keuangan 2023, 2024, dan 2025 masih berjalan.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "RUPS",
-   "Audit",
-   "Laporan Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d54025b06d_d25c7c2403.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-jadwalkan-public-expose-tahunan-pada-1-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Jadwalkan [Public Expose] Tahunan pada 1 Oktober 2026",
-  "deck": "WIKA akan menggelar Public Expose Tahunan secara daring pada 1 Oktober 2026, forum publik pertama sejak peringkat obligasinya diturunkan ke status gagal bayar.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "Public Expose",
-   "Wijaya Karya",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4dfd9286c3_3ccab7b376.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-lepas-904-juta-saham-suara-ke-16-62",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Lepas 904 Juta Saham, Suara ke [16,62%]",
-  "deck": "Direksi NSSS menjual 903,99 juta saham lewat repurchase agreement bertujuan substitusi, memangkas hak suaranya dari 20,42 persen menjadi 16,62 persen.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-5620-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-putrasakti-mandiri-beli-balik-500-000-saham-grup-usaha",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Putrasakti Mandiri [beli balik] 500.000 saham grup usaha",
-  "deck": "Putrasakti Mandiri membeli 500.000 saham KDTN seharga Rp389 per lembar pada 16 September 2026, menaikkan hak suaranya tipis dari 32,11% menjadi 32,15%.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "kepemilikan saham",
-   "Putrasakti Mandiri",
-   "restrukturisasi kelompok usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-1849-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pmjs-belum-penuhi-syarat-free-float-masih-kaji-opsi",
-  "category": "Aksi Korporasi",
-  "title": "PMJS Belum Penuhi Syarat [Free Float], Masih Kaji Opsi",
-  "deck": "PT Putra Mandiri Jembar Tbk menjawab permintaan penjelasan Bursa Efek Indonesia soal kewajiban minimum saham beredar bebas yang belum terpenuhi.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PMJS",
-   "free float",
-   "Bursa Efek Indonesia",
-   "kepatuhan emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/21d3d6713f_c969349488.pdf",
   "sourceLabel": "IDX"
  }
 ];

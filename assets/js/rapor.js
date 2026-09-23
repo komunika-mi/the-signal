@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-23T01:15:17.420+07:00",
+ "diperbarui": "2026-09-24T01:32:55.800+07:00",
  "entri": [
+  {
+   "id": "2026-09-23-3",
+   "edisi": "2026-09-23",
+   "benang": "Pemerintah Pacu Perjanjian Dagang Kejar Target Pertumbuhan",
+   "klaim": "Pemerintah menumpuk lebih banyak akses pasar dagang sebagai salah satu tumpuan untuk mengejar target pertumbuhan ekonomi yang lebih tinggi pada 2027.",
+   "penanda": "Rampungnya reviu AITIGA dan tuntasnya perundingan FTA ASEAN-Kanada sebelum KTT ASEAN",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "reviu AITIGA ditargetkan rampung tahun ini, dan FTA ASEAN-Kanada digadang tuntas sebelum KTT ASEAN awal November 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-23-2",
+   "edisi": "2026-09-23",
+   "benang": "Utang Jatuh Tempo Kian Berat bagi BUMN Karya",
+   "klaim": "Tekanan pembayaran utang pada BUMN karya mencerminkan pola kas jangka pendek yang tidak cukup memenuhi jadwal kewajiban di lebih dari satu perusahaan, dan tekanan ini belum tentu mereda.",
+   "penanda": "Hasil klaim penjaminan obligasi Waskita dan realisasi pembayaran PTPP setelah tenggat baru",
+   "tenggat": null,
+   "tenggatLabel": "hasil klaim penjaminan obligasi Waskita dan realisasi pembayaran PTPP setelah tenggat baru di 2027",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-23-1",
+   "edisi": "2026-09-23",
+   "benang": "Rupiah dan Pasar Saham Tertekan Meski Bunga Ditahan",
+   "klaim": "Tekanan eksternal terhadap rupiah dan keluarnya dana asing masih akan berlanjut, sementara Bank Indonesia tetap memilih instrumen non-bunga ketimbang menaikkan BI-Rate untuk meredamnya.",
+   "penanda": "Data aliran modal asing pekan berikutnya dan arah suku bunga The Fed selanjutnya",
+   "tenggat": null,
+   "tenggatLabel": "pekan berikutnya (data aliran modal asing) dan arah suku bunga The Fed selanjutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-22-3",
    "edisi": "2026-09-22",
@@ -508,8 +541,13 @@ var RAPOR = {
    "penanda": "Keputusan suku bunga acuan pada rapat dewan gubernur BI berikutnya",
    "tenggat": "2026-09-15",
    "tenggatLabel": "rapat dewan gubernur BI berikutnya di pertengahan September",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "bi-tahan-suku-bunga-acuan-5-75-di-tengah-rupiah-tertekan",
+    "judul": "BI Tahan Suku Bunga Acuan 5,75% di Tengah Rupiah Tertekan",
+    "tanggal": "23 September 2026",
+    "alasan": "Pada rapat dewan gubernur BI berikutnya, rupiah justru dilaporkan tertekan (melemah 0,78%) dan inflasi naik dari 2,88% ke 3,19%, berlawanan dengan arah penguatan rupiah dan sentimen makro yang diklaim."
+   }
   },
   {
    "id": "2026-08-31-3",

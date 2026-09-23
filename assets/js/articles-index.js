@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-undp-kirim-alat-dan-bibit-ke-petani-rumput-laut-sidoarjo",
+  "category": "UMKM",
+  "title": "KKP-UNDP Kirim Alat dan [Bibit] ke Petani Rumput Laut Sidoarjo",
+  "deck": "KKP dan UNDP Indonesia memberi ekskavator, bibit unggul, dan dukungan pembiayaan ke pembudidaya rumput laut Gracilaria di Sidoarjo, sambil mendorong investasi pengolahan.",
+  "date": "23 September 2026",
+  "image": "assets/img/kkp-undp-kirim-alat-dan-bibit-ke-petani-rumput-laut-sidoarjo.jpg",
+  "imageV": "mue5qzdx",
+  "tags": [
+   "rumput laut",
+   "KKP",
+   "UNDP",
+   "Sidoarjo"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-undp-dorong-peningkatan-produksi-dan-hilirisasi-rumput-laut-gracilaria-di-sidoarjo-BPWk.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "fta-asean-kanada-ditarget-rampung-sebelum-ktt-asean",
+  "category": "Global",
+  "title": "FTA ASEAN-Kanada Ditarget [Rampung] Sebelum KTT ASEAN",
+  "deck": "Indonesia mendorong ASEAN dan Kanada mempercepat perundingan FTA yang ditargetkan rampung sebelum KTT ASEAN awal November 2026, seiring lonjakan perdagangan dua arah kedua kawasan.",
+  "date": "23 September 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "ACAFTA",
+   "ASEAN-Kanada",
+   "Kementerian Perdagangan",
+   "Ekspor"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-percepatan-penyelesaian-perundingan-asean-canada-fta",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "mglv-setor-modal-rp98-miliar-ke-afiliasi-nac-dan-ngc",
   "category": "Aksi Korporasi",
   "title": "MGLV Setor Modal Rp98 Miliar ke [Afiliasi] NAC dan NGC",
@@ -35,6 +69,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8e6ca96f45_ffbafc1bba.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "perpres-terbit-kdkmp-segera-salurkan-beras-hingga-lpg-3-kg",
+  "category": "UMKM",
+  "title": "Perpres Terbit, [KDKMP] Segera Salurkan Beras hingga LPG 3 Kg",
+  "deck": "KSP Dudung Abdurachman menyebut Perpres 82/2026 menjadi dasar hukum bagi Koperasi Desa Merah Putih untuk mulai menyalurkan beras SPHP, LPG 3 kg, pupuk bersubsidi, dan MinyakKita ke warga.",
+  "date": "23 September 2026",
+  "image": "assets/img/perpres-terbit-kdkmp-segera-salurkan-beras-hingga-lpg-3-kg.jpg",
+  "imageV": "mue5r04x",
+  "tags": [
+   "KDKMP",
+   "Koperasi Merah Putih",
+   "Perpres 82/2026",
+   "LPG 3 Kg"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468929-ksp-dudung-ungkap-kdkmp-segera-beroperasi-beras-hingga-lpg-3-kg-jadi-pasokan-utama"
+ },
+ {
+  "slug": "trafik-pelabuhan-pelindo-regional-2-naik-hingga-agustus-2026",
+  "category": "BUMN",
+  "title": "Trafik Pelabuhan Pelindo Regional 2 [Naik] hingga Agustus 2026",
+  "deck": "Pelindo Regional 2 mencatat kenaikan kunjungan kapal, arus petikemas, barang, dan penumpang sepanjang Januari-Agustus 2026 dibanding periode sama tahun lalu.",
+  "date": "23 September 2026",
+  "image": "assets/img/trafik-pelabuhan-pelindo-regional-2-naik-hingga-agustus-2026.jpg",
+  "imageV": "mue5r0mk",
+  "tags": [
+   "pelindo",
+   "pelabuhan",
+   "petikemas",
+   "logistik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468933-trafik-pelabuhan-regional-2-meningkat-pelindo-catat-pertumbuhan-arus-petikemas-dan-barang-hingga-agustus-2026"
  },
  {
   "slug": "prdl-alihkan-rp2-5-miliar-dana-ipo-ke-ahu-ruang-produksi",
@@ -197,6 +265,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rekening-gratis-rp50-ribu-untuk-76-juta-warga-mulai-2027",
+  "category": "Perbankan",
+  "title": "Rekening Gratis Rp50 Ribu untuk [76 Juta] Warga Mulai 2027",
+  "deck": "Pemerintah menyiapkan rekening bank gratis bersaldo awal Rp50 ribu bagi warga 17 tahun ke atas yang belum punya rekening, dengan anggaran Rp3,8 triliun dan target mulai 2027.",
+  "date": "23 September 2026",
+  "image": "assets/img/rekening-gratis-rp50-ribu-untuk-76-juta-warga-mulai-2027.jpg",
+  "imageV": "mue5r13h",
+  "tags": [
+   "rekening gratis",
+   "saldo Rp50 ribu",
+   "Airlangga Hartarto",
+   "inklusi keuangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468897-pemerintah-siapkan-rekening-gratis-untuk-76-juta-warga-ada-saldo-awal-rp50-ribu"
+ },
+ {
   "slug": "winr-pemegang-saham-utama-lepas-31-juta-saham-free-float",
   "category": "Aksi Korporasi",
   "title": "WINR: Pemegang Saham Utama Lepas 31 Juta Saham [Free Float]",
@@ -323,6 +408,18 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1da298ade6_ad9b3815e4.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uang-rp100-ribu-tanda-tangan-purbaya-diburu-kolektor",
+  "category": "Moneter",
+  "title": "Uang Rp100 Ribu Tanda Tangan [Purbaya] Diburu Kolektor",
+  "deck": "Uang Rp100.000 bertanda tangan Purbaya Yudhi Sadewa dan Perry Warjiyo viral diburu kolektor, tapi Bank Indonesia memastikan uang itu tetap sah untuk bertransaksi.",
+  "date": "23 September 2026",
+  "image": "assets/img/uang-rp100-ribu-tanda-tangan-purbaya-diburu-kolektor.jpg",
+  "imageV": "mue5r1o4",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/468885-viral-rupiah-bertanda-tangan-purbaya-diburu-kolektor-benarkah-langka-dan-mahal"
  },
  {
   "slug": "asii-direksi-rudy-borong-4-4-juta-saham-kepemilikan-naik-3x",
@@ -1015,7 +1112,7 @@ var ARTICLES = [
   "title": "RI Percepat Perjanjian Dagang [IEU-CEPA] dengan Uni Eropa",
   "deck": "Presiden Prabowo Subianto meminta penyelesaian kesepakatan dagang RI-Uni Eropa dipercepat, dengan target ratifikasi semester kedua 2026 dan berlaku awal 2027.",
   "date": "22 September 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -6409,104 +6506,6 @@ var ARTICLES = [
    "ASTRA Financial"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/758dd2f039_8d2c19196e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penilaian-bkpm-76-persen-layanan-investasi-masuk-kategori-baik",
-  "category": "Bisnis",
-  "title": "Penilaian BKPM: 76 Persen Layanan Investasi Masuk [Kategori] Baik",
-  "deck": "BKPM menilai kinerja layanan investasi di 571 instansi, terdiri dari pemerintah daerah dan kementerian/lembaga. Sebanyak 76 persen di antaranya meraih kategori baik atau sangat baik.",
-  "date": "17 September 2026",
-  "image": "assets/img/penilaian-bkpm-76-persen-layanan-investasi-masuk-kategori-baik.jpg",
-  "imageV": "mu5841d0",
-  "tags": [
-   "BKPM",
-   "investasi",
-   "PTSP",
-   "ALI 2026"
-  ],
-  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/ali-2026-apresiasi-kinerja-layanan-investasi-dorong-kemudahan-berusaha",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "mmix-buka-data-pemegang-saham-imbas-pemeriksaan-bursa",
-  "category": "Aksi Korporasi",
-  "title": "MMIX Buka Data Pemegang Saham Imbas [Pemeriksaan] Bursa",
-  "deck": "PT Multi Medika Internasional Tbk merinci pemegang saham dan susunan manajemen per Januari 2024 setelah Bursa Efek Indonesia meminta penjelasan terkait pemeriksaan transaksi sahamnya.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MMIX",
-   "pemegang saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6c699ce69b_81989c2601.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-inps-disuspensi-bei-usai-setahun-di-pemantauan-khusus",
-  "category": "Aksi Korporasi",
-  "title": "Saham INPS Disuspensi BEI Usai Setahun di [Pemantauan Khusus]",
-  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham INPS di seluruh pasar mulai 17 September 2026, setelah perseroan lebih dari setahun berada di Papan Pemantauan Khusus.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "suspensi saham",
-   "BEI",
-   "Papan Pemantauan Khusus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9442d54b3_a1022a1ee5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-jelaskan-ke-bursa-opini-wdp-dan-piutang-bermasalah-naik",
-  "category": "Aksi Korporasi",
-  "title": "VTNY Jelaskan ke Bursa: [Opini WDP] dan Piutang Bermasalah Naik",
-  "deck": "Venteny menjawab permintaan penjelasan Bursa soal opini wajar dengan pengecualian dan lonjakan cadangan kerugian piutang yang lebih cepat dari pertumbuhan piutangnya.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "opini audit",
-   "kualitas piutang",
-   "Venteny Fortuna"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/69f6092dc0_2b56ccd113.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "widi-koreksi-laporan-realisasi-dana-ipo-rp37-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "WIDI Koreksi Laporan [Realisasi] Dana IPO Rp37,8 Miliar",
-  "deck": "Widiant Jaya Krenindo menyampaikan ulang laporan realisasi dana IPO Rp37,8 miliar dalam dua bahasa sesuai aturan OJK, seluruh dana sudah terserap penuh.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIDI",
-   "IPO",
-   "penggunaan dana",
-   "waran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54b51ee56d_52feff0327.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bptr-jelaskan-ke-bursa-kendala-penuhi-free-float-minimum",
-  "category": "Aksi Korporasi",
-  "title": "BPTR Jelaskan ke Bursa Kendala Penuhi [Free Float] Minimum",
-  "deck": "BPTR menjawab permintaan penjelasan Bursa Efek Indonesia soal rencana pemenuhan syarat minimum saham beredar bebas, dan menyebut pemenuhannya bergantung pada keputusan pemegang saham.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BPTR",
-   "free float",
-   "Bursa Efek Indonesia",
-   "kepatuhan emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/610d87d705_3feaefb998.pdf",
   "sourceLabel": "IDX"
  }
 ];

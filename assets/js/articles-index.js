@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppln-wakil-komisaris-utama-mundur-jadi-menteri-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "PPLN: Wakil Komisaris Utama [Mundur] Jadi Menteri Keuangan",
+  "deck": "Suahasil Nazara mengakhiri jabatan Wakil Komisaris Utama PLN usai diangkat sebagai Menteri Keuangan RI. Susunan direksi tidak berubah.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPLN",
+   "PLN",
+   "Dewan Komisaris",
+   "Suahasil Nazara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/38387cce57_ca154ac9b1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "abmm-panggil-rupslb-15-oktober-bahas-pergantian-direksi",
+  "category": "Aksi Korporasi",
+  "title": "ABMM Panggil RUPSLB 15 Oktober, Bahas [Pergantian] Direksi",
+  "deck": "ABM Investama menggelar RUPSLB pada 15 Oktober 2026 untuk mengesahkan perubahan susunan direksi, menyusul pengunduran diri Haris Mustarto.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ABMM",
+   "RUPSLB",
+   "ABM Investama",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7d9540f69c_d23420e3eb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "army-umumkan-rencana-rupslb-pada-30-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "ARMY Umumkan Rencana [RUPSLB] pada 30 Oktober 2026",
+  "deck": "PT Armidian Karyatama Tbk akan menggelar RUPSLB pada 30 Oktober 2026. Pemegang saham per 7 Oktober berhak hadir, agenda rapat belum diumumkan.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARMY",
+   "RUPSLB",
+   "Armidian Karyatama",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/71cd91f0c9_2504546e4b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "byan-direksi-mcleod-jual-lagi-524-300-saham-rp7-01-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: Direksi [McLeod] Jual Lagi 524.300 Saham, Rp7,01 Miliar",
+  "deck": "Direksi Bayan Resources, Alastair Gordon Christopher McLeod, menjual 524.300 saham BYAN pada 22 September 2026, hari kedua berturut-turut ia mengurangi kepemilikannya.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "McLeod",
+   "laporan kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9874-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suspensi-unsp-dicabut-saham-kembali-diperdagangkan",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi UNSP Dicabut, Saham [Kembali] Diperdagangkan",
+  "deck": "IDX mencabut suspensi saham Bakrie Sumatera Plantations (UNSP) mulai pra-pembukaan Rabu, 23 September 2026, setelah laporan keuangan Agustus mencatat ekuitas positif.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNSP",
+   "suspensi saham",
+   "Bursa Efek Indonesia",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/097410eb29_2bf9cc088d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-pinjamkan-saham-via-repo-suara-24-57",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Pinjamkan Saham via Repo, Suara [24,57%]",
+  "deck": "Direksi NSSS, Samuel Tumbuh Bersama, melepas 1,84 miliar saham lewat repurchase agreement untuk peminjaman saham pada 22 September 2026, menurunkan hak suaranya dari 32,29 persen menjadi 24,57 persen.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2558-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-lepas-saham-via-repo-suara-ke-32-29",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Lepas Saham via [Repo], Suara ke 32,29%",
+  "deck": "Samuel Tumbuh Bersama melepas 1,06 miliar saham NSSS lewat perjanjian repo pada 21 September 2026, menurunkan hak suaranya dari 36,75% menjadi 32,29%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7669-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apex-konversi-utang-us-4-1-juta-ke-saham-dilusi-5-79",
+  "category": "Aksi Korporasi",
+  "title": "APEX Konversi Utang US$4,1 Juta ke Saham, [Dilusi] 5,79%",
+  "deck": "Apexindo menerbitkan 218,09 juta saham baru seharga Rp325 per saham untuk melunasi utang US$4,1 juta ke sindikasi kreditur asing, RUPSLB digelar 7 Oktober 2026.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APEX",
+   "Apexindo",
+   "konversi utang",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d833e27606_e3b2eaff15.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mkpi-hak-suara-direksi-anjlok-jadi-0-78-usai-peminjaman-saham",
+  "category": "Aksi Korporasi",
+  "title": "MKPI: Hak Suara Direksi Anjlok jadi 0,78% usai [Peminjaman] Saham",
+  "deck": "Direksi MKPI Samuel Tumbuh Bersama melaporkan pengalihan 49,4 juta saham lewat skema peminjaman saham, hak suaranya turun dari 5,99% menjadi 0,78%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKPI",
+   "kepemilikan saham",
+   "direksi",
+   "peminjaman saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-6148-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-direksi-lepas-178-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi [Lepas] 178 Juta Saham Lewat Repo",
+  "deck": "Samuel Tumbuh Bersama, direksi RLCO, melepas 178 juta saham lewat skema peminjaman saham dalam perjanjian repo pada 22 September 2026, hak suaranya anjlok dari 9,28 persen jadi 3,58 persen.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4282-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-250-100-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 250.100 Saham Lagi",
+  "deck": "Komisaris AKPI Henry Liem melaporkan penjualan bersih 250.100 saham senilai sekitar Rp125,25 juta, hak suaranya turun menjadi 1,182 persen.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "kepemilikan saham",
+   "dewan komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7452-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-21-64",
   "category": "Aksi Korporasi",
   "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 21,64%",
@@ -6339,183 +6515,6 @@ var ARTICLES = [
    "opini audit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1d8756400a_d32f20320f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "idea-tanggapi-bei-66-58-saham-tetap-beralih-ke-nawasena",
-  "category": "Aksi Korporasi",
-  "title": "IDEA Tanggapi BEI, [66,58%] Saham Tetap Beralih ke Nawasena",
-  "deck": "BEI meminta penjelasan volatilitas transaksi saham IDEA. Perseroan menegaskan pengalihan 707,32 juta saham (66,58%) ke PT Nawasena Nugra Investama tetap berjalan.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IDEA",
-   "Nawasena Nugra Investama",
-   "pengambilalihan",
-   "volatilitas transaksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4bf631375_c90ee13f97.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-masuk-daftar-pemantauan-khusus-bei-mulai-17-september",
-  "category": "Aksi Korporasi",
-  "title": "PACK Masuk Daftar [Pemantauan Khusus] BEI Mulai 17 September",
-  "deck": "BEI memasukkan saham PACK, PT Abadi Nusantara Hijau Investama Tbk, ke daftar pemantauan khusus efektif 17 September 2026 setelah sebelumnya kena suspensi perdagangan lebih dari sehari.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "pemantauan khusus",
-   "BEI",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d5c7932ba_b65e77f0c8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iiff-siap-lunasi-obligasi-rp245-miliar-jatuh-tempo-22-desember",
-  "category": "Aksi Korporasi",
-  "title": "IIFF Siap Lunasi Obligasi Rp245 Miliar [Jatuh Tempo] 22 Desember",
-  "deck": "IIFF menyatakan siap membayar pokok Rp245,06 miliar obligasi yang jatuh tempo 22 Desember 2026, didukung rencana obligasi baru Rp2 triliun dan kredit bank Rp2,65 triliun yang belum ditarik.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IIFF",
-   "obligasi",
-   "refinancing",
-   "pembiayaan infrastruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/db45206741_99890699fb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "grph-jelaskan-suspensi-ke-bursa-laba-bruto-naik-0-5",
-  "category": "Aksi Korporasi",
-  "title": "GRPH Jelaskan Suspensi ke Bursa, Laba Bruto Naik [0,5%]",
-  "deck": "Dalam public expose pasca suspensi BEI, manajemen GRPH merinci penyebab laba bruto seret dan mengungkap penjajakan awal peluang bisnis baru yang belum mengikat.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GRPH",
-   "public expose",
-   "suspensi saham",
-   "Griptha Putra Persada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ae575ce57c_f6fb9bc1cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-beri-sanksi-refi-usai-telat-setor-laporan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "BEI Beri Sanksi REFI Usai Telat Setor [Laporan Keuangan]",
-  "deck": "Bursa Efek Indonesia menjatuhkan peringatan tertulis kedua kepada REFI karena belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 hingga batas waktu 3 September 2026, tanpa denda rupiah.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "REFI",
-   "BEI",
-   "sanksi",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9068c67c91_a6617f5b7c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "humi-panggil-rupslb-ubah-susunan-direksi-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "HUMI Panggil RUPSLB, [Ubah] Susunan Direksi-Komisaris",
-  "deck": "HUMI menggelar RUPSLB pada 8 Oktober 2026 untuk membahas pengangkatan kembali atau perubahan susunan direksi dan dewan komisaris perseroan.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HUMI",
-   "RUPSLB",
-   "direksi",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c75168f50d_f52bd9f718.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mrei-kena-sanksi-denda-rp50-juta-karena-telat-lapor-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "MREI Kena [Sanksi] Denda Rp50 Juta karena Telat Lapor Keuangan",
-  "deck": "Bursa Efek Indonesia menjatuhkan Peringatan Tertulis II dan denda Rp50 juta kepada MREI karena telat menyampaikan laporan keuangan interim per 30 Juni 2026, batas akhirnya 30 Agustus 2026.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MREI",
-   "sanksi BEI",
-   "laporan keuangan",
-   "denda"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/43d1fb3c05_9ac0349456.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indodana-finance-terapkan-intelligent-grc-jaga-risiko-bisnis",
-  "category": "Perbankan",
-  "title": "Indodana Finance Terapkan [Intelligent GRC] Jaga Risiko Bisnis",
-  "deck": "Indodana Finance menerapkan pendekatan Intelligent GRC agar pertumbuhan bisnis pembiayaan tetap diimbangi pengelolaan risiko dan kualitas portofolio yang terjaga.",
-  "date": "16 September 2026",
-  "image": "assets/img/indodana-finance-terapkan-intelligent-grc-jaga-risiko-bisnis.jpg",
-  "imageV": "mu40bgxx",
-  "tags": [
-   "Indodana Finance",
-   "GRC",
-   "BNPL",
-   "OJK"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467492-pertumbuhan-bisnis-harus-diimbangi-pengelolaan-risiko-indodana-finance-terapkan-intelligent-grc"
- },
- {
-  "slug": "boat-jawab-bursa-kas-susut-utang-usaha-membengkak",
-  "category": "Aksi Korporasi",
-  "title": "BOAT Jawab Bursa: Kas Susut, [Utang Usaha] Membengkak",
-  "deck": "BOAT menjawab permintaan penjelasan BEI soal laporan keuangan, mengungkap kas yang jauh lebih kecil dari utang usaha dan turunnya pendapatan kapal milik.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOAT",
-   "Newport Marine Services",
-   "keterbukaan informasi",
-   "likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97ed3aa81a_9c3b5465bc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "giaa-panggil-rupslb-8-oktober-agendakan-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Panggil RUPSLB 8 Oktober, Agendakan [Perubahan] Direksi",
-  "deck": "Garuda Indonesia mengundang pemegang saham menghadiri RUPS Luar Biasa pada 8 Oktober 2026 secara elektronik, dengan agenda tunggal perubahan pengurus perseroan.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "RUPSLB",
-   "Garuda Indonesia",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7b1a46df40_68709c2186.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-ungkap-rencana-private-placement-usai-saham-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "INPS Ungkap Rencana [Private Placement] Usai Saham Melonjak",
-  "deck": "INPS menjelaskan ke Bursa lonjakan harga sahamnya 21,43 persen ke Rp850, sekaligus mengungkap rencana akuisisi dan private placement untuk memperbaiki keuangan.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "private placement",
-   "volatilitas saham",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d8a76d7086_a319d829cd.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,291 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ppln-wakil-komisaris-utama-mundur-jadi-menteri-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "PPLN: Wakil Komisaris Utama [Mundur] Jadi Menteri Keuangan",
+  "deck": "Suahasil Nazara mengakhiri jabatan Wakil Komisaris Utama PLN usai diangkat sebagai Menteri Keuangan RI. Susunan direksi tidak berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T14:00:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/38387cce57_ca154ac9b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPLN",
+  "tags": [
+   "PPLN",
+   "PLN",
+   "Dewan Komisaris",
+   "Suahasil Nazara"
+  ],
+  "body": [
+   "PT Perusahaan Listrik Negara (Persero) atau PPLN melaporkan perubahan susunan Dewan Komisaris menyusul berakhirnya masa jabatan Suahasil Nazara sebagai Wakil Komisaris Utama, efektif 14 September 2026. Perubahan ini terjadi setelah Keputusan Presiden Nomor 97/P Tahun 2026 mengangkat Suahasil Nazara sebagai Menteri Keuangan Republik Indonesia, yang kemudian ditindaklanjuti dengan surat pengunduran dirinya dari kursi komisaris PLN pada tanggal yang sama.",
+   "Dengan berakhirnya jabatan tersebut, posisi Wakil Komisaris Utama saat ini kosong dan susunan Dewan Komisaris PLN menjadi sembilan orang: Burhanuddin Abdullah sebagai Komisaris Utama merangkap Komisaris Independen, lalu Aminuddin Ma'ruf, Ahmad Erani Yustika, Jisman Parada Hutajulu, dan Bambang Eko Suhariyanto sebagai Komisaris, serta Yazid Fanani, Mutanto Juwono, Andi Arief, dan Ali Masykur Musa sebagai Komisaris Independen. Perseroan menyatakan tidak ada dampak material dari perubahan ini terhadap kegiatan usahanya.",
+   "Sementara itu, susunan Direksi PLN tidak mengalami perubahan. Darmawan Prasodjo tetap menjabat Direktur Utama sejak 14 November 2024, didampingi Yusuf Didi Setiarto sebagai Wakil Direktur Utama serta sepuluh direktur lain yang membidangi berbagai fungsi operasional dan korporasi. Laporan ini disampaikan PLN kepada BEI dan OJK sebagai bagian dari kewajiban keterbukaan informasi sesuai POJK Nomor 45 Tahun 2024 dan POJK Nomor 31/POJK.04/2015."
+  ],
+  "fotoAdegan": "Wide shot of high-voltage transmission towers and power lines crossing green rural terrain under overcast sky",
+  "takeaway": "Perubahan ini netral bagi PLN, sebab sifatnya administratif akibat perpindahan orang ke kabinet, bukan cerminan masalah kinerja atau keuangan perseroan, dan perusahaan sendiri menegaskan tidak ada dampak material. Yang tersentuh di sini murni struktur pengawasan, yakni Dewan Komisaris yang bertugas mengawasi kebijakan direksi, bukan pos-pos keuangan seperti ekuitas, arus kas, atau laba per saham, sehingga investor tidak perlu membaca ini sebagai sinyal soal kesehatan bisnis PLN. Yang perlu dipantau selanjutnya adalah apakah dan kapan posisi Wakil Komisaris Utama yang kini kosong akan diisi kembali, mengingat dokumen ini belum mencantumkan jadwal RUPSLB atau proses pengangkatan penggantinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "abmm-panggil-rupslb-15-oktober-bahas-pergantian-direksi",
+  "category": "Aksi Korporasi",
+  "title": "ABMM Panggil RUPSLB 15 Oktober, Bahas [Pergantian] Direksi",
+  "deck": "ABM Investama menggelar RUPSLB pada 15 Oktober 2026 untuk mengesahkan perubahan susunan direksi, menyusul pengunduran diri Haris Mustarto.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T13:57:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7d9540f69c_d23420e3eb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ABMM",
+  "tags": [
+   "ABMM",
+   "RUPSLB",
+   "ABM Investama",
+   "direksi"
+  ],
+  "body": [
+   "PT ABM Investama Tbk (ABMM) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 15 Oktober 2026, pukul 14.00 hingga 15.00 WIB. Rapat diselenggarakan secara elektronik melalui fasilitas eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia, dengan mekanisme fisik terbatas di Jakarta Selatan yang hanya dihadiri pimpinan rapat, direksi, dewan komisaris, notaris, dan pihak penunjang lain. Pemegang saham yang berhak hadir adalah mereka yang tercatat dalam Daftar Pemegang Saham per 22 September 2026 pukul 16.00 WIB.",
+   "Agenda tunggal RUPSLB ini adalah perubahan susunan anggota direksi perseroan, sebagai tindak lanjut dari pengunduran diri Haris Mustarto dari jabatan anggota direksi. Perseroan menyebut langkah ini untuk memenuhi Pasal 17 ayat 9 Anggaran Dasar serta Pasal 8 juncto Pasal 9 juncto Pasal 27 POJK No. 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik. Pengunduran diri Haris Mustarto sebenarnya sudah diumumkan lebih dulu lewat surat keterbukaan informasi perseroan tertanggal 21 Agustus 2026, sehingga RUPSLB kali ini berfungsi memformalkan perubahan tersebut lewat persetujuan pemegang saham.",
+   "Bagi pemegang saham yang tidak dapat hadir langsung, perseroan mendorong pemberian kuasa kepada Biro Administrasi Efek, PT Datindo Entrycom, baik lewat e-Proxy di eASY.KSEI paling lambat 14 Oktober 2026, maupun surat kuasa konvensional asli yang harus diterima BAE di Jalan Hayam Wuruk No. 28, Jakarta Pusat, paling lambat 13 Oktober 2026 pukul 16.00 WIB. Bahan mata acara rapat tersedia di situs resmi perseroan sejak tanggal pemanggilan ini hingga hari pelaksanaan RUPSLB."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's Cilandak business district at dusk, lit windows, quiet street",
+  "takeaway": "Laporan ini netral bagi ABM Investama, karena isinya adalah proses formal memformalkan satu pengunduran diri direktur yang sudah diumumkan sebulan sebelumnya, tanpa indikasi konflik internal atau masalah keuangan yang menyertainya. Pergantian direksi tidak langsung menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham, tapi pelaku pasar tetap mencermati pergantian pengurus karena bisa mempengaruhi arah strategi dan kesinambungan operasional perusahaan ke depan. Yang perlu dipantau selanjutnya adalah jalannya RUPSLB pada 15 Oktober 2026, termasuk siapa yang akan mengisi kursi direksi yang ditinggalkan Haris Mustarto, serta tenggat penyerahan surat kuasa konvensional ke BAE pada 13 Oktober 2026 pukul 16.00 WIB bagi pemegang saham yang memilih diwakilkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "army-umumkan-rencana-rupslb-pada-30-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "ARMY Umumkan Rencana [RUPSLB] pada 30 Oktober 2026",
+  "deck": "PT Armidian Karyatama Tbk akan menggelar RUPSLB pada 30 Oktober 2026. Pemegang saham per 7 Oktober berhak hadir, agenda rapat belum diumumkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T13:52:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/71cd91f0c9_2504546e4b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARMY",
+  "tags": [
+   "ARMY",
+   "RUPSLB",
+   "Armidian Karyatama",
+   "korporasi"
+  ],
+  "body": [
+   "PT Armidian Karyatama Tbk (ARMY) menyampaikan pemberitahuan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) melalui surat bernomor 038/ARMY/DIR/IX/2026 tertanggal 23 September 2026, merujuk pada surat sebelumnya nomor 036/ARMY/DIR/IX/2026. Rapat dijadwalkan berlangsung Jumat, 30 Oktober 2026 pukul 10.00 WIB di Apartement Ambassade Residences, Jalan Denpasar Raya Kav. 5-7, Karet, Kuningan, Setiabudi, Jakarta Selatan. Dokumen ini baru tahap pengumuman awal, sehingga agenda atau topik yang akan dibahas dalam RUPSLB belum diungkapkan. Perseroan menyebut bahwa surat pemanggilan resmi yang memuat agenda rapat baru akan disampaikan lewat situs web Bursa Efek Indonesia, penyedia e-RUPS, dan situs web Perseroan pada 8 Oktober 2026.",
+   "Perseroan menetapkan bahwa pemegang saham yang berhak hadir dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham (DPS) Perseroan hingga Rabu, 7 Oktober 2026 pukul 16.00 WIB. Bagi pemegang saham yang ingin mengajukan usulan agenda tambahan, Perseroan menyebut usul tersebut harus memenuhi ketentuan Pasal 12 ayat (7) Anggaran Dasar dan sudah diterima Direksi paling lambat tujuh hari kalender sebelum tanggal pemanggilan rapat, atau sekitar 1 Oktober 2026.",
+   "Surat pemberitahuan ini ditandatangani oleh Direktur Utama ARMY, Firdaus, dan ditembuskan kepada Direksi Bursa Efek Indonesia, Direksi PT Kustodian Sentral Efek Indonesia, Direksi PT Ficomindo Buana Registrar selaku biro administrasi efek, serta Dewan Komisaris Perseroan. Perseroan juga menegaskan telah melaksanakan kewajiban pengumuman rapat sesuai POJK Nomor 15/POJK.04/2020 dan POJK Nomor 16/POJK.04/2020 tentang penyelenggaraan RUPS perusahaan terbuka."
+  ],
+  "fotoAdegan": "Rows of unfinished suburban houses under construction on a red-soil development site, workers laying bricks, midday light",
+  "takeaway": "Laporan ini netral, sebab isinya baru pemberitahuan rencana dan belum memuat agenda RUPSLB, jadi belum ada keputusan konkret yang bisa dinilai dampaknya terhadap bisnis ARMY. Agenda resminya baru akan terbit lewat surat pemanggilan pada 8 Oktober 2026, dan RUPSLB semacam ini biasanya dipakai perusahaan untuk memutuskan hal-hal yang menyentuh struktur permodalan, misalnya perubahan jumlah saham beredar atau susunan pengurus, yang ujungnya bisa memengaruhi ekuitas dan laba per saham pemegang lama. Daftar pemegang saham yang dipakai untuk menentukan siapa berhak hadir dan memberi suara akan dikunci pada Rabu, 7 Oktober 2026 pukul 16.00 WIB. Pemegang saham yang ingin mengusulkan agenda tambahan harus mengirim usulnya ke Direksi paling lambat sekitar 1 Oktober 2026, yakni tujuh hari sebelum tanggal pemanggilan. Yang perlu dipantau berikutnya adalah isi surat pemanggilan pada 8 Oktober 2026, karena di situlah agenda RUPSLB baru akan diketahui publik, sebelum rapatnya sendiri digelar pada 30 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "byan-direksi-mcleod-jual-lagi-524-300-saham-rp7-01-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: Direksi [McLeod] Jual Lagi 524.300 Saham, Rp7,01 Miliar",
+  "deck": "Direksi Bayan Resources, Alastair Gordon Christopher McLeod, menjual 524.300 saham BYAN pada 22 September 2026, hari kedua berturut-turut ia mengurangi kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T12:47:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9874-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "McLeod",
+   "laporan kepemilikan saham"
+  ],
+  "body": [
+   "Alastair Gordon Christopher McLeod, anggota direksi Bayan Resources Tbk (BYAN) yang berkewarganegaraan asing, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 524.300 saham BYAN yang dimilikinya secara tidak langsung pada 22 September 2026. Jumlah saham yang ia pegang berkurang dari 3.814.800 unit menjadi 3.290.500 unit. Harga jual tercatat Rp13.373 per saham, atau senilai sekitar Rp7,01 miliar untuk keseluruhan transaksi, dengan tujuan transaksi tercatat sebagai penjualan saham biasa. Hak suara McLeod di perusahaan tetap di 0,01 persen baik sebelum maupun sesudah penjualan.",
+   "Penjualan ini adalah yang kedua dalam dua hari berturut-turut. Sehari sebelumnya, pada 21 September 2026, McLeod telah melepas 185.200 saham BYAN senilai sekitar Rp2,47 miliar. Dengan tambahan penjualan terbaru ini, total saham yang ia lepas dalam dua hari mencapai 709.500 unit, dari posisi awal sekitar 4.000.000 unit menjadi 3.290.500 unit saat ini.",
+   "Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 1 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi dan komisaris perusahaan terbuka melaporkan setiap perubahan kepemilikan saham kepada OJK."
+  ],
+  "fotoAdegan": "Aerial view of a large coal stockpile yard with haul trucks and conveyor belts under an overcast tropical sky",
+  "takeaway": "Penjualan ini condong negatif dari sisi sinyal personal insider, karena porsi yang dilepas McLeod mencapai 13,74 persen dari saham yang ia pegang sebelumnya, jauh di atas ambang kecil yang biasa diabaikan, dan ini sudah hari kedua berturut-turut ia mengurangi kepemilikan setelah menjual 185.200 saham sehari sebelumnya. Yang tersentuh di sini adalah komposisi pemegang saham BYAN, bukan pos keuangan perusahaan, sebab hak suara McLeod tetap di 0,01 persen sebelum dan sesudah transaksi sehingga pengaruhnya terhadap peta kendali perusahaan nyaris tidak ada. Pelaku pasar biasanya mencermati pola penjualan beruntun oleh direksi karena bisa mencerminkan kebutuhan likuiditas pribadi atau perubahan pandangan terhadap prospek perusahaan, meski dengan porsi kepemilikan McLeod yang sangat kecil terhadap total saham beredar BYAN, sinyal ini belum tentu mencerminkan sikap manajemen secara keseluruhan. Yang perlu dipantau berikutnya adalah apakah pola penjualan dua hari beruntun ini berlanjut lewat laporan kepemilikan susulan dari McLeod atau direksi lain Bayan Resources dalam waktu dekat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "suspensi-unsp-dicabut-saham-kembali-diperdagangkan",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi UNSP Dicabut, Saham [Kembali] Diperdagangkan",
+  "deck": "IDX mencabut suspensi saham Bakrie Sumatera Plantations (UNSP) mulai pra-pembukaan Rabu, 23 September 2026, setelah laporan keuangan Agustus mencatat ekuitas positif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T12:28:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/097410eb29_2bf9cc088d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNSP",
+  "tags": [
+   "UNSP",
+   "suspensi saham",
+   "Bursa Efek Indonesia",
+   "ekuitas"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mencabut penghentian sementara perdagangan (suspensi) saham PT Bakrie Sumatera Plantations Tbk (UNSP) di seluruh pasar, efektif sejak pra-pembukaan perdagangan Rabu, 23 September 2026. Saham UNSP, yang tercatat di Papan Pengembangan, kembali bisa diperjualbelikan setelah dihentikan sejak 1 Juli 2026.",
+   "Suspensi sebelumnya dijatuhkan lewat tiga pengumuman Bursa tertanggal 30 Juni 2026, yaitu Peng-SPT-00004/BEI.PP1, Peng-SPT-00011/BEI.PP2, dan Peng-SPT-00015/BEI.PP3. Bursa mencabutnya setelah menerima Laporan Keuangan Konsolidasian UNSP yang tidak diaudit per 31 Agustus 2026, yang disampaikan perseroan pada 14 September 2026 dan menunjukkan ekuitas sudah kembali positif. Bursa juga mempertimbangkan dua surat tanggapan perseroan, yaitu surat nomor 042/CS-BSP/KIK/IX/2026 tanggal 17 September 2026 soal perubahan kebijakan akuntansi, dan surat nomor 044/CS-BSP/KIK/IX/2026 tanggal 21 September 2026 yang menjawab permintaan penjelasan lanjutan dari Bursa.",
+   "Dengan pencabutan ini, seluruh efek UNSP dapat kembali diperdagangkan di seluruh pasar. Bursa meminta pihak-pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi yang disampaikan oleh perseroan ke depan."
+  ],
+  "fotoAdegan": "Plantation workers loading harvested oil palm fruit bunches onto a truck in a tropical estate, early morning light.",
+  "takeaway": "Pencabutan suspensi ini positif bagi pemegang saham UNSP karena mengembalikan hak paling dasar investor, yaitu bisa menjual atau membeli sahamnya lagi setelah hampir tiga bulan terkunci sejak 1 Juli 2026. Dasar pencabutannya adalah ekuitas, selisih antara total aset perusahaan dan total utangnya, yang tercatat kembali positif dalam laporan keuangan per 31 Agustus 2026 setelah sebelumnya negatif, kondisi yang membuat Bursa menghentikan perdagangan demi melindungi investor. Ekuitas jadi salah satu pos yang paling dipantau pelaku pasar karena mencerminkan kekayaan bersih perusahaan setelah dikurangi seluruh kewajiban. Yang perlu dicermati, angka ini masih berasal dari laporan keuangan yang belum diaudit, sehingga hasil audit final periode tersebut berpotensi mengoreksi angka ekuitas yang dijadikan dasar pencabutan suspensi. Investor juga sebaiknya terus mengikuti keterbukaan informasi lanjutan dari UNSP, seperti yang diminta Bursa dalam pengumuman ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "nsss-direksi-pinjamkan-saham-via-repo-suara-24-57",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Pinjamkan Saham via Repo, Suara [24,57%]",
+  "deck": "Direksi NSSS, Samuel Tumbuh Bersama, melepas 1,84 miliar saham lewat repurchase agreement untuk peminjaman saham pada 22 September 2026, menurunkan hak suaranya dari 32,29 persen menjadi 24,57 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T11:54:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2558-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "body": [
+   "Samuel Tumbuh Bersama, direksi PT Nusantara Sawit Sejahtera Tbk (NSSS), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan berkurang dari 7.686.357.300 lembar menjadi 5.846.916.900 lembar, atau turun 1.839.440.400 lembar. Jumlah itu setara 23,93 persen dari total kepemilikannya sebelum transaksi. Pengurangan ini terjadi lewat skema perjanjian pembelian kembali atau repurchase agreement, dengan tujuan peminjaman saham, pada 22 September 2026.",
+   "Saham yang berkurang berstatus kepemilikan tidak langsung dengan klasifikasi saham biasa, dan dokumen tidak mencantumkan harga transaksi. Akibat perubahan ini, hak suara Samuel di NSSS turun dari 32,29 persen menjadi 24,57 persen.",
+   "Laporan ini menyambung rangkaian transaksi repo yang sama sepanjang pekan terakhir, di mana kepemilikan Samuel di NSSS naik turun akibat mekanisme peminjaman dan pengembalian saham lewat perjanjian repo, bukan transaksi jual beli langsung di pasar terbuka."
+  ],
+  "fotoAdegan": "Workers loading fresh palm oil fruit bunches onto a truck at a plantation collection point, morning haze",
+  "takeaway": "Saya menilai laporan ini negatif bagi NSSS, karena porsi saham yang dilepas Samuel Tumbuh Bersama lewat mekanisme repo ini tergolong besar, 23,93 persen dari kepemilikannya, dan membuat hak suaranya di perusahaan turun tajam dari 32,29 persen menjadi 24,57 persen dalam satu hari. Hak suara ini penting karena menentukan seberapa besar pengaruh seorang direksi dalam keputusan pemegang saham seperti RUPS, dan penurunan setajam ini berarti kendalinya atas perusahaan mengecil, meski secara teknis bentuknya peminjaman saham lewat repo yang mungkin bisa kembali di kemudian hari, bukan penjualan permanen ke pasar. Yang perlu dipantau selanjutnya adalah laporan kepemilikan berikutnya dari Samuel Tumbuh Bersama, karena sepanjang pekan ini kepemilikannya sudah beberapa kali naik turun lewat mekanisme repo serupa, sehingga arah akhirnya baru akan jelas setelah rangkaian transaksi ini berhenti bergerak.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nsss-direksi-lepas-saham-via-repo-suara-ke-32-29",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Lepas Saham via [Repo], Suara ke 32,29%",
+  "deck": "Samuel Tumbuh Bersama melepas 1,06 miliar saham NSSS lewat perjanjian repo pada 21 September 2026, menurunkan hak suaranya dari 36,75% menjadi 32,29%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T11:50:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7669-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) menerima laporan kepemilikan saham dari Samuel Tumbuh Bersama, salah satu anggota direksi perusahaan, pada 23 September 2026. Dalam laporan itu, jumlah saham NSSS yang dimiliki Samuel berkurang dari 8.745.950.500 lembar menjadi 7.686.357.300 lembar, atau turun 1.059.593.200 lembar, setara 12,1 persen dari kepemilikannya sebelum transaksi.",
+   "Perubahan ini tercatat sebagai transaksi repurchase agreement, yaitu perjanjian jual beli kembali saham atau yang lazim disebut repo, dengan tujuan peminjaman saham. Transaksi dilakukan pada 21 September 2026 atas 1.059.583.200 saham biasa yang dimiliki Samuel secara tidak langsung, tanpa harga transaksi yang dicantumkan dalam dokumen. Akibat pengurangan ini, hak suara Samuel di NSSS turun dari 36,75 persen menjadi 32,29 persen.",
+   "Transaksi ini melanjutkan rangkaian pergerakan saham Samuel lewat mekanisme repo sepanjang sepekan terakhir. Sebelumnya hak suaranya sempat naik turun tajam, dari 14,06 persen pada 18 September, sempat melonjak ke 36,75 persen pada 21 September setelah saham repo dikembalikan, hingga kini turun lagi ke 32,29 persen setelah sebagian dipinjamkan kembali."
+  ],
+  "fotoAdegan": "Workers loading palm oil fresh fruit bunches onto a truck at a rural plantation collection point, tropical morning light",
+  "takeaway": "Saya menilai laporan ini negatif bagi NSSS, karena Samuel Tumbuh Bersama melepas 12,1 persen dari total sahamnya lewat perjanjian repo dalam satu transaksi, sehingga hak suaranya di perusahaan turun dari 36,75 persen menjadi 32,29 persen. Repo di sini berarti saham dipindahkan sementara ke pihak lain sebagai jaminan atau pinjaman, jadi kepemilikan langsung Samuel berkurang untuk sementara waktu, dan yang disorot pasar adalah bobot suaranya di rapat pemegang saham yang ikut menyusut selama saham itu belum kembali. Dalam sepekan terakhir, saham yang sama sudah bolak balik keluar masuk lewat mekanisme repo serupa, sehingga pola ini lebih mencerminkan rotasi jaminan ketimbang sinyal keyakinan atau keraguan direksi terhadap sahamnya sendiri. Yang perlu dipantau berikutnya adalah apakah 1,06 miliar lembar saham ini kembali ke Samuel seperti pola repo sebelumnya atau berpindah tangan lebih lama, karena dokumen ini tidak mencantumkan tanggal jatuh tempo perjanjian repo tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "apex-konversi-utang-us-4-1-juta-ke-saham-dilusi-5-79",
+  "category": "Aksi Korporasi",
+  "title": "APEX Konversi Utang US$4,1 Juta ke Saham, [Dilusi] 5,79%",
+  "deck": "Apexindo menerbitkan 218,09 juta saham baru seharga Rp325 per saham untuk melunasi utang US$4,1 juta ke sindikasi kreditur asing, RUPSLB digelar 7 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T11:46:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d833e27606_e3b2eaff15.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "Apexindo",
+   "konversi utang",
+   "PMTHMETD"
+  ],
+  "body": [
+   "PT Apexindo Pratama Duta Tbk (APEX) akan menerbitkan 218.090.317 saham baru seri B dengan nilai nominal dan harga pelaksanaan sama-sama Rp325 per saham. Jumlah ini setara 5,79 persen dari total saham perusahaan setelah penerbitan, sehingga pemegang saham lama akan terdilusi sebesar persentase yang sama. Penerbitan saham tanpa hak memesan efek terlebih dahulu atau PMTHMETD ini dilakukan untuk melunasi utang sebesar US$4.108.948, atau sekitar Rp70,88 miliar dengan kurs Rp17.250 per dolar AS, kepada dua kreditur sindikasi luar negeri, yaitu HSBC Bank PLC dan The Hongkong and Shanghai Banking Corporation Limited. Perseroan akan meminta persetujuan rencana ini dalam Rapat Umum Pemegang Saham Luar Biasa pada 7 Oktober 2026, dan penerbitan saham wajib dilakukan selambat-lambatnya 31 Oktober 2026.",
+   "Utang ini berasal dari fasilitas pinjaman berjangka senilai US$35 juta yang diteken Apexindo pada 2022, bagian dari penataan kembali kewajiban perusahaan setelah perjanjian perdamaian yang dihomologasi pengadilan pada 2019. Sisa pokok pinjaman semestinya lunas pada 18 Mei 2026, tetapi tenggatnya diperpanjang tiga kali, yakni ke 8 Juni, 8 Juli, dan terakhir 31 Juli 2026, karena arus kas perusahaan saat jatuh tempo belum sepenuhnya mencukupi untuk membayar seluruh kewajiban. Kesepakatan akhirnya dituangkan dalam Conditional Share Issuance Agreement pada 11 Agustus 2026 dan 2026 Amendment and Restatement Deed, yang isinya kreditur menerima saham baru sebagai pelunasan penuh, bukan lagi pembayaran tunai.",
+   "Dengan konversi ini, porsi kepemilikan PT Aserra Capital selaku pengendali turun dari 53,51 persen menjadi 50,41 persen, sementara porsi pemegang saham publik turun dari 39,46 persen menjadi 37,17 persen. Perseroan menyatakan tidak ada perubahan pengendali akibat transaksi ini karena PT Aserra Capital tetap memegang lebih dari separuh saham. HSBC Bank PLC dan The Hongkong and Shanghai Banking Corporation Limited akan memegang saham baru masing-masing 1,66 persen dan 4,14 persen dari total saham perseroan setelah transaksi. Perusahaan menyebut dana dari utang yang dikonversi ini sebelumnya dipakai untuk membiayai kembali pinjaman investasi dan modal kerja."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting drill pipe racks on an offshore oil rig deck, grey sea and overcast sky, Indonesia.",
+  "takeaway": "Laporan ini condong negatif bagi Apexindo, sebab konversi utang menjadi saham ini terjadi karena arus kas perusahaan tidak cukup untuk melunasi utang US$4,1 juta secara tunai, setelah tenggat pembayarannya diperpanjang tiga kali sejak Mei 2026. Yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu keuntungan perusahaan yang dibagi rata ke tiap lembar saham: menambah 218 juta saham baru membuat angka itu berpotensi terdilusi hingga 5,79 persen, meski di sisi lain beban utang dan bunga perusahaan berkurang karena kewajiban dianggap lunas begitu saham diserahkan ke kreditur. Pemegang saham lama seperti PT Aserra Capital dan publik tidak kehilangan kendali, karena penurunan porsi kepemilikan hanya sekitar 2 sampai 3 poin persentase dan status pengendali tidak berubah. Yang perlu dipantau berikutnya adalah persetujuan RUPSLB pada 7 Oktober 2026, serta batas waktu penerbitan saham selambat-lambatnya 31 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mkpi-hak-suara-direksi-anjlok-jadi-0-78-usai-peminjaman-saham",
+  "category": "Aksi Korporasi",
+  "title": "MKPI: Hak Suara Direksi Anjlok jadi 0,78% usai [Peminjaman] Saham",
+  "deck": "Direksi MKPI Samuel Tumbuh Bersama melaporkan pengalihan 49,4 juta saham lewat skema peminjaman saham, hak suaranya turun dari 5,99% menjadi 0,78%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T11:41:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-6148-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKPI",
+  "tags": [
+   "MKPI",
+   "kepemilikan saham",
+   "direksi",
+   "peminjaman saham"
+  ],
+  "body": [
+   "Samuel Tumbuh Bersama, anggota Direksi Metropolitan Kentjana Tbk (MKPI), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan berubah signifikan. Sebelum transaksi ia tercatat memiliki 56.800.000 lembar saham dengan hak suara 5,99 persen. Setelah transaksi, jumlah itu tersisa 7.400.000 lembar dengan hak suara 0,78 persen, selisih 49.400.000 lembar atau sekitar 87 persen dari kepemilikannya semula.",
+   "Dalam laporan bertanggal 23 September 2026 itu, jenis transaksi dicatat sebagai 'Lainnya' dengan skema repurchase agreement, dan tujuan transaksi disebutkan sebagai peminjaman saham. Saham yang berpindah berstatus kepemilikan tidak langsung, diklasifikasikan sebagai saham biasa, dengan tanggal transaksi 22 September 2026. Dokumen tidak mencantumkan harga per lembar maupun identitas pihak yang menerima pinjaman saham tersebut.",
+   "Laporan ini terbit hanya dua hari setelah MKPI melaporkan penambahan kepemilikan saham oleh direksi yang sama menjadi 5,33 persen pada 21 September 2026, menunjukkan posisi kepemilikan Samuel Tumbuh Bersama bergerak cukup aktif dalam sepekan terakhir."
+  ],
+  "fotoAdegan": "Exterior of an upscale Jakarta shopping mall complex with a palm-lined driveway, parked cars, soft late afternoon sunlight, no visible signage",
+  "takeaway": "Laporan ini condong negatif dari sisi keselarasan kepentingan, karena hak suara Samuel Tumbuh Bersama di MKPI turun tajam dari 5,99 persen menjadi 0,78 persen, meski secara teknis transaksinya berbentuk peminjaman saham, bukan penjualan permanen. Yang tersentuh adalah porsi kepemilikan orang dalam, yaitu jumlah saham perusahaan yang dikuasai jajaran direksi, yang biasa dipantau investor sebagai ukuran seberapa besar kepentingan pribadi direksi sejalan dengan kinerja perusahaan; makin kecil porsi itu, makin kecil pula insentif langsung mereka terhadap naik turunnya saham. Sebanyak 49,4 juta lembar saham yang dimiliki secara tidak langsung dipinjamkan pada 22 September 2026 tanpa keterangan harga atau pihak penerima pinjaman. Investor MKPI perlu memantau RUPSLB yang dijadwalkan 27 Oktober 2026, karena agenda yang belum diumumkan itu bisa menjelaskan rangkaian pergeseran kepemilikan oleh direksi yang sama dalam sepekan terakhir.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rlco-direksi-lepas-178-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi [Lepas] 178 Juta Saham Lewat Repo",
+  "deck": "Samuel Tumbuh Bersama, direksi RLCO, melepas 178 juta saham lewat skema peminjaman saham dalam perjanjian repo pada 22 September 2026, hak suaranya anjlok dari 9,28 persen jadi 3,58 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T11:37:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4282-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "repo saham"
+  ],
+  "body": [
+   "Direksi PT Abadi Lestari Indonesia Tbk (RLCO), Samuel Tumbuh Bersama, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya berkurang dari 290.000.000 lembar menjadi 112.000.000 lembar, atau turun 178.000.000 lembar, setara 61,38 persen dari saham yang sebelumnya ia pegang. Akibatnya, hak suaranya di RLCO turun dari 9,28 persen menjadi 3,58 persen. Transaksi tercatat pada 22 September 2026 dengan jenis peminjaman saham dalam skema perjanjian repurchase, dan status kepemilikannya tetap langsung atas nama Samuel sendiri. Dokumen tidak mencantumkan harga karena sifat transaksinya peminjaman saham, bukan jual beli di pasar terbuka.",
+   "Laporan ini menyusul tiga laporan kepemilikan saham RLCO lainnya oleh direksi yang sama dalam sepekan terakhir: penambahan 120 juta saham lewat pengembalian repo pada 21 September, penambahan 58 juta saham lewat mekanisme serupa pada hari yang sama, dan penambahan 40 juta saham lewat substitusi repo pada 23 September. Rangkaian transaksi bolak balik ini menunjukkan Samuel aktif menggunakan sahamnya sebagai agunan dalam perjanjian repo, sehingga jumlah saham yang tercatat atas namanya naik turun mengikuti siklus peminjaman dan pengembalian, bukan mencerminkan keputusan membeli atau menjual di pasar terbuka."
+  ],
+  "fotoAdegan": "Exterior view of Jakarta's financial district skyscrapers at dusk, office lights turning on, wide street level angle",
+  "takeaway": "Laporan ini condong negatif dari sisi kendali pemegang saham, sebab hak suara Samuel di RLCO anjlok lebih dari separuh, dari 9,28 persen menjadi 3,58 persen, meski sahamnya tidak dijual di pasar melainkan dipinjamkan sebagai agunan dalam perjanjian repo. Yang tersentuh di sini adalah proporsi saham yang efektif dikuasai direksi dan hak suaranya dalam rapat pemegang saham, bukan kas atau laba perusahaan, karena repo pada dasarnya adalah pinjaman dengan saham sebagai jaminan, bukan pelepasan bersih kepemilikan. Sepanjang pekan ini Samuel sudah empat kali melapor transaksi serupa dengan jumlah saham yang naik turun, sehingga arah bersih kepemilikannya baru bisa dinilai setelah siklus repo ini tuntas. Yang perlu dipantau berikutnya adalah apakah 178 juta saham yang dipinjamkan pada 22 September 2026 ini akan dikembalikan seperti pola transaksi sebelumnya, dan apakah RLCO mengungkap ke bursa jangka waktu serta tujuan di balik rangkaian perjanjian repo ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-250-100-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 250.100 Saham Lagi",
+  "deck": "Komisaris AKPI Henry Liem melaporkan penjualan bersih 250.100 saham senilai sekitar Rp125,25 juta, hak suaranya turun menjadi 1,182 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T11:28:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7452-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "kepemilikan saham",
+   "dewan komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan ke Otoritas Jasa Keuangan tiga transaksi saham perusahaan yang seluruhnya dilakukan secara tidak langsung pada 22 September 2026. Ia membeli 200.000 saham AKPI di harga Rp500 per saham untuk tujuan yang tercatat sebagai \"beli saham\", kemudian menjual 40.100 saham di harga Rp505 per saham dan 410.000 saham di harga Rp500 per saham, keduanya untuk tujuan \"jual saham\".",
+   "Dengan menggabungkan ketiga transaksi tersebut, jumlah saham Henry Liem di AKPI berkurang bersih 250.100 lembar, dari 7.486.759 lembar sebelum transaksi menjadi 7.236.659 lembar setelahnya. Akibatnya, persentase hak suaranya di AKPI turun dari 1,2228 persen menjadi 1,182 persen. Nilai transaksi ini setara 3,34 persen dari saham yang ia pegang sebelum transaksi, dengan estimasi dana bersih yang masuk ke kantong Henry Liem sekitar Rp125,25 juta setelah dikurangi biaya pembelian.",
+   "Laporan ini menyusul laporan serupa sehari sebelumnya, 22 September 2026, ketika Henry Liem juga melaporkan pelepasan 33.700 saham AKPI. Dengan laporan terbaru ini, total saham AKPI yang dijual bersih oleh Henry Liem dalam dua hari terakhir mencapai 283.800 lembar."
+  ],
+  "fotoAdegan": "Rolls of clear plastic packaging film winding through machinery on an industrial factory line, workers monitoring equipment, bright warehouse lighting",
+  "takeaway": "Laporan ini netral bagi AKPI, karena meski Henry Liem menjual bersih 250.100 saham, dampaknya terhadap posisinya di perusahaan sangat kecil, hak suaranya hanya turun dari 1,2228 persen menjadi 1,182 persen dan ia tetap menjabat komisaris tanpa ada perubahan status kendali. Yang tersentuh di sini cuma jumlah saham pribadi milik Henry Liem, bukan struktur permodalan AKPI, sehingga tidak memengaruhi ekuitas maupun laba per saham perusahaan; hak suara yang disebut di sini sekadar persentase saham yang ia pegang dibanding total saham AKPI yang beredar, jadi turunnya 0,04 poin persentase itu praktis tidak mengubah apa pun. Yang perlu dipantau adalah apakah penjualan bertahap ini berlanjut, sebab dalam dua hari beruntun (22 dan 23 September 2026) Henry Liem sudah melepas total 283.800 saham, dan baru jika pola ini terus berulang dalam laporan-laporan berikutnya, akumulasinya pantas dibaca sebagai sinyal yang lebih berarti.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-21-64",
   "category": "Aksi Korporasi",
   "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 21,64%",

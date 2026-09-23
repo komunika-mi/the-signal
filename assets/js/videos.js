@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "QtT2X31DJU0",
+  "title": "Simalakama Bisnis Rokok di Indonesia",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Industri hasil tembakau di Indonesia menyumbang hampir 10 persen penerimaan negara, sekitar Rp200 triliun, meski bisnis ini menghadapi dilema kebijakan yang rumit.",
+  "takeaway": "Angka kontribusi fiskal industri tembakau ini penting bagi pembaca yang mengikuti perdebatan kebijakan cukai dan industri strategis nasional.",
+  "terbit": "2026-09-23T09:21:03+00:00"
+ },
+ {
   "id": "049bWNI1hNw",
   "title": "Batasan Usia Jadi Batu Sandungan Pelamar di Job Fair",
   "category": "Ketenagakerjaan",

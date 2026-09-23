@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "QtT2X31DJU0",
+  "title": "Simalakama Bisnis Rokok di Indonesia",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Industri hasil tembakau di Indonesia menyumbang hampir 10 persen penerimaan negara, sekitar Rp200 triliun, meski bisnis ini menghadapi dilema kebijakan yang rumit.",
+  "takeaway": "Angka kontribusi fiskal industri tembakau ini penting bagi pembaca yang mengikuti perdebatan kebijakan cukai dan industri strategis nasional."
+ },
+ {
   "id": "049bWNI1hNw",
   "title": "Batasan Usia Jadi Batu Sandungan Pelamar di Job Fair",
   "category": "Ketenagakerjaan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Kementerian Pertanian menemukan sedikitnya 25 merek beras fortifikasi yang tidak sesuai ketentuan label, menurut Menteri Pertanian Andi Amran Sulaiman.",
   "takeaway": "Temuan ini penting bagi konsumen dan pelaku usaha beras karena menyangkut kepatuhan standar mutu dan perlindungan pasar."
- },
- {
-  "id": "dDcMWN0XStw",
-  "title": "Purbaya Serahkan Jabatan Menteri Keuangan ke Suahasil Nazara",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Purbaya Yudhi Sadewa resmi menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara dalam acara serah terima di Jakarta.",
-  "takeaway": "Pergantian Menteri Keuangan berpotensi memengaruhi arah kebijakan fiskal yang menjadi perhatian pelaku pasar dan dunia usaha."
  }
 ];

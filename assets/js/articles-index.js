@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-dukung-reviu-perjanjian-dagang-asean-india-rampung-2026",
+  "category": "Global",
+  "title": "RI Dukung Reviu Perjanjian Dagang ASEAN-India [Rampung] 2026",
+  "deck": "Wamendag Dyah Roro Esti menyatakan dukungan Indonesia agar reviu perjanjian dagang AITIGA dengan India rampung tahun ini, di sela pertemuan menteri ekonomi ASEAN-India di Filipina.",
+  "date": "23 September 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "AITIGA",
+   "ASEAN-India",
+   "Kementerian Perdagangan",
+   "Perdagangan Internasional"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-konsultasi-ke-23-aem-india-indonesia-dukung-penyelesaian-aitiga-reviu-di-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "nick-jelaskan-rugi-portofolio-rp33-m-ke-bursa-klaim-sementara",
   "category": "Aksi Korporasi",
   "title": "NICK Jelaskan Rugi Portofolio Rp33 M ke Bursa, Klaim [Sementara]",
@@ -60,7 +76,7 @@ var ARTICLES = [
   "title": "FTA ASEAN-Kanada Ditarget [Rampung] Sebelum KTT ASEAN",
   "deck": "Indonesia mendorong ASEAN dan Kanada mempercepat perundingan FTA yang ditargetkan rampung sebelum KTT ASEAN awal November 2026, seiring lonjakan perdagangan dua arah kedua kawasan.",
   "date": "23 September 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "ACAFTA",
    "ASEAN-Kanada",
@@ -1144,7 +1160,7 @@ var ARTICLES = [
   "title": "RI Percepat Perjanjian Dagang [IEU-CEPA] dengan Uni Eropa",
   "deck": "Presiden Prabowo Subianto meminta penyelesaian kesepakatan dagang RI-Uni Eropa dipercepat, dengan target ratifikasi semester kedua 2026 dan berlaku awal 2027.",
   "date": "22 September 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -6490,22 +6506,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/14deacd12e_f44d33f869.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smra-laporkan-pengurangan-modal-rp10-m-di-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "SMRA Laporkan [Pengurangan] Modal Rp10 M di Anak Usaha",
-  "deck": "Summarecon Agung melaporkan transaksi afiliasi berupa pengurangan modal PT Kharisma Intan Properti senilai Rp10 miliar, yang sahamnya dipegang oleh anak usaha lain, PT Summarecon Investment Property.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMRA",
-   "transaksi afiliasi",
-   "Summarecon Agung",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ce86baad8_21b65074a1.pdf",
   "sourceLabel": "IDX"
  }
 ];

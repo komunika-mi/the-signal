@@ -3,6 +3,160 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dewi-pemegang-saham-tambah-kepemilikan-ke-8-05",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Pemegang Saham [Tambah] Kepemilikan ke 8,05%",
+  "deck": "Sujito Ngatiman membeli 10,5 juta saham DEWI seharga Rp157 per lembar, menambah hak suaranya dari 7,53% menjadi 8,05%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T14:55:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1710-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "hak suara",
+   "pasar modal"
+  ],
+  "body": [
+   "Sujito Ngatiman, pemegang saham PT Dewi Shri Farmindo Tbk (DEWI) yang bukan berasal dari jajaran direksi maupun komisaris, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 10.500.000 saham DEWI pada 3 September 2026 dengan harga Rp157 per lembar. Sebelum transaksi ini, ia memegang 150.665.600 saham, setara 7,53 persen hak suara di perusahaan. Setelah pembelian, kepemilikannya naik menjadi 161.165.600 saham, setara 8,05 persen hak suara.",
+   "Transaksi dicatat sebagai pembelian langsung atas nama Sujito Ngatiman sendiri, dengan tujuan yang tertulis dalam laporan sebagai pembelian. Nilai pembelian 10,5 juta saham dengan harga Rp157 per lembar itu setara sekitar Rp1,65 miliar. Tambahan ini setara 6,97 persen dari jumlah saham yang sebelumnya sudah dimilikinya, sehingga menaikkan porsi kepemilikannya di DEWI."
+  ],
+  "fotoAdegan": "Exterior of a modern Jakarta stock exchange tower at dusk, commuters and motorbikes passing on the street below.",
+  "takeaway": "Laporan ini condong positif bagi DEWI, karena penambahan dilakukan oleh pemegang saham yang sudah menguasai lebih dari 5 persen perusahaan lewat pembelian langsung, bukan pelepasan, sehingga lebih terbaca sebagai sinyal keyakinan pada prospek perusahaan daripada kebutuhan mendadak akan uang tunai. Yang bergeser di sini adalah hak suara, yaitu porsi suara pemegang saham dalam rapat umum pemegang saham, yang naik dari 7,53 persen menjadi 8,05 persen dari seluruh saham DEWI. Pelaku pasar memperhatikan pergeseran semacam ini karena makin besar porsi suara yang terkumpul di satu tangan, makin besar pula pengaruh pemegang saham itu dalam keputusan penting perusahaan, termasuk penentuan direksi dan komisaris. Yang perlu dipantau berikutnya adalah apakah Sujito Ngatiman kembali menambah kepemilikannya dalam laporan-laporan selanjutnya, sebab jika tren ini berlanjut hingga mendekati 25 persen, statusnya bisa bergeser dari pemegang saham biasa menjadi pengendali yang membawa kewajiban tambahan seperti penawaran tender wajib.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "dewi-pemegang-saham-jual-13-1-juta-saham-suara-ke-7-53",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Pemegang Saham [Jual] 13,1 Juta Saham, Suara ke 7,53%",
+  "deck": "Sujito Ngatiman, pemegang saham DEWI, melepas 13,1 juta saham senilai sekitar Rp2,01 miliar pada 2 September 2026, hak suaranya turun dari 8,19% menjadi 7,53%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T14:50:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1979-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "pemegang saham",
+   "OJK"
+  ],
+  "body": [
+   "SUJITO NGATIMAN, pemegang saham PT Dewi Shri Farmindo Tbk (DEWI) yang bukan bagian dari jajaran direksi atau komisaris perusahaan, melaporkan penjualan 13.149.400 lembar saham DEWI kepada Otoritas Jasa Keuangan. Transaksi dilakukan pada 2 September 2026 dengan harga Rp153 per saham, sehingga nilai penjualan mencapai sekitar Rp2,01 miliar. Laporan ini disampaikan sesuai kewajiban keterbukaan berdasarkan POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka.",
+   "Dengan penjualan tersebut, jumlah saham DEWI yang dipegang Sujito berkurang dari 163.815.000 lembar menjadi 150.665.600 lembar, atau setara 8,03% dari kepemilikannya sendiri sebelum transaksi. Hak suaranya di DEWI pun turun dari 8,19% menjadi 7,53%, meski ia tetap berstatus sebagai pemegang saham di atas 5% yang wajib melaporkan setiap perubahan kepemilikannya ke bursa."
+  ],
+  "fotoAdegan": "Exterior of the Indonesia Stock Exchange building in Jakarta with pedestrians passing by, daytime, wide angle shot.",
+  "takeaway": "Laporan ini condong negatif bagi DEWI, karena pemegang saham dengan kepemilikan di atas 5% melepas lebih dari 8% dari total saham yang dipegangnya sendiri dan hak suaranya turun dari 8,19% menjadi 7,53% hanya dalam satu transaksi. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan kas atau laba perusahaan secara langsung, tapi pelaku pasar tetap memperhatikannya karena berkurangnya porsi pemegang saham besar bisa mengubah peta pengendalian dan kerap dibaca sebagai berkurangnya keyakinan pemegang saham terhadap prospek jangka pendek perusahaan. Sujito masih memegang 7,53% saham DEWI sehingga belum kehilangan status sebagai pemegang saham signifikan, tapi arah pelepasannya perlu dicermati apakah berlanjut. Yang perlu dipantau selanjutnya adalah apakah Sujito kembali melaporkan penjualan susulan dalam waktu dekat, mengingat kewajiban lapor setiap kali terjadi perubahan kepemilikan berdasarkan POJK 4/2024.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dewi-pemegang-saham-tambah-kepemilikan-ke-8-06",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Pemegang Saham [Tambah] Kepemilikan ke 8,06%",
+  "deck": "Sujito Ngatiman menambah kepemilikan di DEWI lewat pembelian 12,75 juta saham senilai sekitar Rp1,91 miliar, hak suara naik dari 7,42% menjadi 8,06%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T14:44:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4018-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "body": [
+   "Sujito Ngatiman, pemegang saham PT Dewi Shri Farmindo Tbk (DEWI) yang bukan anggota direksi maupun dewan komisaris, melaporkan ke Otoritas Jasa Keuangan pada 23 September 2026 bahwa kepemilikan sahamnya bertambah dari 148.585.600 lembar menjadi 161.335.600 lembar. Hak suaranya di perusahaan ikut naik dari 7,42 persen menjadi 8,06 persen.",
+   "Penambahan itu berasal dari pembelian 12.750.000 lembar saham biasa DEWI pada 1 September 2026 dengan harga Rp150 per saham, sehingga nilai transaksinya sekitar Rp1,91 miliar. Saham dibeli secara tidak langsung, dan tujuan transaksi yang tercatat dalam laporan adalah pembelian.",
+   "Jumlah saham yang dibeli setara 8,58 persen dari total saham yang sudah dipegang Sujito Ngatiman sebelum transaksi ini, sehingga cukup untuk mendorong hak suaranya melewati ambang 8 persen dari sebelumnya di bawah itu."
+  ],
+  "fotoAdegan": "Trucks and workers loading crates near rows of livestock barns at a rural farm compound in Java at dawn",
+  "takeaway": "Laporan ini condong positif bagi DEWI, karena pemegang saham menambah kepemilikan lewat pembelian, bukan melepas saham, dan porsi yang dibeli, 8,58 persen dari saham yang sudah dipegangnya, cukup besar untuk dibaca sebagai sinyal keyakinan, bukan sekadar transaksi rutin. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara dalam rapat pemegang saham, karena begitu satu pihak menguasai porsi suara lebih besar, pengaruhnya terhadap keputusan penting perusahaan ke depan, misalnya soal dividen atau pengangkatan pengurus, ikut membesar. Perlu dicatat, pelapor ini bukan anggota direksi atau komisaris DEWI, sehingga penambahan ini murni transaksi pasar dari pemegang saham publik, bukan pergerakan orang dalam manajemen. Yang perlu dipantau selanjutnya adalah apakah Sujito Ngatiman akan terus menambah kepemilikannya atau berhenti di level 8,06 persen seperti sekarang, karena laporan keterbukaan serupa biasanya muncul lagi begitu ada transaksi baru.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "inkp-rampungkan-realisasi-dana-obligasi-sukuk-rp1-43-t",
+  "category": "Aksi Korporasi",
+  "title": "INKP Rampungkan Realisasi Dana [Obligasi]-Sukuk Rp1,43 T",
+  "deck": "INKP melaporkan dana hasil emisi obligasi dan sukuk berkelanjutan, total Rp1,43 triliun plus US$15,37 juta, kini terealisasi penuh untuk pelunasan utang bank dan modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T14:38:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a470bee58_a042955a54.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "penggunaan dana"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil tiga instrumen surat utang yang efektif sejak 13 Maret 2026, yaitu Obligasi Berkelanjutan VI senilai Rp628,095 miliar, Sukuk Mudharabah Berkelanjutan V senilai Rp811,105 miliar, dan Obligasi USD Berkelanjutan III senilai US$15,525 juta. Setelah dikurangi biaya penawaran masing-masing Rp5,524 miliar, Rp6,160 miliar, dan US$160.201, dana bersih yang diperoleh adalah Rp622,571 miliar, Rp804,945 miliar, dan US$15,365 juta. Dalam laporan terbaru ini, seluruh dana bersih tersebut sudah terealisasi 100 persen sesuai rencana, dengan sisa dana nol di ketiga instrumen.",
+   "Rincian penggunaannya, dana dari Obligasi Berkelanjutan VI dipakai 82 persen atau Rp507,5 miliar untuk membayar pokok pinjaman bank jangka panjang beserta bunganya, dan 18 persen atau Rp115,071 miliar untuk modal kerja. Dana dari Sukuk Mudharabah Berkelanjutan V dipakai 21 persen atau Rp170 miliar untuk pelunasan utang bank serupa, dan 79 persen atau Rp634,945 miliar untuk modal kerja. Sementara dana dari Obligasi USD Berkelanjutan III dipakai 35 persen atau US$5,4 juta untuk pelunasan utang, dan 65 persen atau US$9,965 juta untuk modal kerja.",
+   "Laporan ini mengoreksi surat sebelumnya bernomor 034/CRP/IK/VI/2026 tanggal 10 Juni 2026 yang ditandatangani Direktur Kurniawan Yuwono. Versi koreksi disampaikan ulang pada 23 September 2026 oleh Corporate Secretary Heri Santoso, ditujukan kepada Otoritas Jasa Keuangan sesuai kewajiban pelaporan berkala penggunaan dana hasil penawaran umum."
+  ],
+  "fotoAdegan": "Workers inspecting large paper rolls inside an industrial pulp and paper mill, tall machinery, natural light from high windows",
+  "takeaway": "Laporan ini condong positif bagi INKP karena seluruh dana hasil obligasi dan sukuk sudah habis terpakai sesuai rencana, dengan porsi besar dipakai melunasi pokok pinjaman bank jangka panjang beserta bunganya. Pos yang tersentuh adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas utangnya, karena pelunasan pokok pinjaman biasanya diikuti berkurangnya beban bunga ke depan, dan arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena dana yang tadinya mengendap kini sudah disalurkan seluruhnya. Dibandingkan laporan koreksi sebelumnya pada 16 September yang mencatat penyerapan dana baru 16 persen, angka pada laporan ini melompat menjadi 100 persen dengan sisa dana nol di ketiga instrumen, jadi ada progres nyata bukan sekadar pengulangan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang, untuk melihat apakah pelunasan utang ini benar-benar terlihat menekan beban bunga INKP di angka laba bersihnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "goto-morgan-stanley-tambah-saham-jadi-7-03-hak-suara",
+  "category": "Aksi Korporasi",
+  "title": "GOTO: Morgan Stanley Tambah [Saham] Jadi 7,03% Hak Suara",
+  "deck": "Morgan Stanley and Co International Plc menambah 400 juta saham GOTO lewat perjanjian pembelian kembali pada 18 September 2026, menaikkan hak suaranya jadi 7,03%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T14:36:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9638-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GOTO",
+  "tags": [
+   "GOTO",
+   "kepemilikan saham",
+   "Morgan Stanley",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Morgan Stanley and Co International Plc, bersama entitas terkait dalam grupnya Morgan Stanley and Co. LLC-Client Account, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikannya atas saham PT GoTo Gojek Tokopedia Tbk (GOTO) bertambah. Berdasarkan laporan bernomor LK/23092026/0010/1 yang diterbitkan 23 September 2026, jumlah saham yang dipegang Morgan Stanley naik dari 80.539.349.984 lembar menjadi 80.939.349.984 lembar, bertambah 400 juta lembar. Dengan penambahan ini, hak suara Morgan Stanley di GoTo naik dari 6,9951% menjadi 7,0299%.",
+   "Penambahan saham dilakukan lewat skema repurchase agreement, yaitu perjanjian pembelian saham dengan komitmen menjual kembali di kemudian hari, secara tidak langsung, pada 18 September 2026. Transaksi tercatat pada harga Rp27 per lembar saham biasa, sehingga nilai totalnya sekitar Rp10,8 miliar. Dokumen menyebut tujuan transaksi sebagai investasi, tanpa keterangan tambahan mengenai jangka waktu perjanjian repo tersebut.",
+   "Morgan Stanley tercatat sebagai pemegang saham nonpengendali, bukan direksi maupun komisaris GoTo, sehingga laporan ini murni mencatat pergeseran kepemilikan di pasar sekunder tanpa memengaruhi jumlah saham beredar perseroan."
+  ],
+  "fotoAdegan": "Motorcycle taxi drivers in green jackets waiting at a busy Jakarta street corner, midday light, urban traffic",
+  "takeaway": "Penambahan ini kami nilai netral bagi GoTo karena porsinya hanya sekitar 0,5% dari saham yang sudah dimiliki Morgan Stanley sendiri, sehingga tidak cukup besar untuk dibaca sebagai sinyal keyakinan baru terhadap prospek perusahaan. Transaksi ini juga tidak menyentuh laporan keuangan GoTo sama sekali, karena sahamnya berpindah tangan antarinvestor di pasar sekunder lewat perjanjian repo, bukan penerbitan saham baru, sehingga jumlah saham beredar dan laba per saham perseroan tidak berubah. Yang berubah hanya peta kepemilikan, hak suara Morgan Stanley naik tipis dari 6,99% ke 7,03%, tetap di atas ambang 5% yang mewajibkan pelaporan setiap perubahan ke OJK. Yang perlu dipantau selanjutnya adalah apakah Morgan Stanley terus menambah posisinya dalam laporan-laporan berikutnya, karena pola akumulasi bertahap semacam ini biasanya baru terlihat signifikan kalau kepemilikannya mendekati ambang berikutnya di atas 10%.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ctbn-gelar-rupslb-15-oktober-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "CTBN Gelar RUPSLB 15 Oktober, Bahas [Perubahan] Direksi",
+  "deck": "Citra Tubindo memanggil RUPSLB pada 15 Oktober 2026 di Jakarta dengan agenda tunggal persetujuan perubahan susunan Direksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T14:27:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/be2a74aed5_be9d62f69c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CTBN",
+  "tags": [
+   "CTBN",
+   "RUPSLB",
+   "Direksi",
+   "Citra Tubindo"
+  ],
+  "body": [
+   "Citra Tubindo Tbk (CTBN) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 15 Oktober 2026 pukul 10.00 WIB di Sabang Room, World Trade Center 3, Jl. Jenderal Sudirman Kav. 29-31, Jakarta. Pemegang saham juga bisa mengikuti rapat secara elektronik melalui sistem eASY.KSEI. Agenda rapat hanya satu, yaitu persetujuan perubahan susunan Direksi Perseroan, dengan dasar hukum Pasal 16 ayat 2 dan Pasal 19 ayat 2 Anggaran Dasar Perseroan yang mengatur bahwa pengangkatan, pemberhentian, dan perubahan susunan Direksi maupun Dewan Komisaris harus diputuskan dalam RUPS.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Selasa, 22 September 2026 pukul 16.00 WIB. Pemegang saham dapat memberi kuasa kepada PT Raya Saham Registra selaku biro administrasi efek Perseroan, dengan surat kuasa asli yang wajib diterima paling lambat satu hari sebelum tanggal rapat, dikirim melalui surat tercatat ke alamat Gedung Plaza Sentral, Jl. Jenderal Sudirman Kav. 47-48, Jakarta.",
+   "Perseroan menyampaikan akan membatasi kehadiran fisik pemegang saham atau kuasanya sesuai kapasitas ruangan, dan berhak menolak kehadiran fisik bila kapasitas sudah terpenuhi. Perseroan menyarankan pemegang saham hadir atau memberi kuasa melalui eASY.KSEI. Materi rapat dapat diakses di laman resmi Perseroan maupun di kantor Perseroan, sementara pemegang saham berbadan hukum yang hadir fisik wajib membawa salinan anggaran dasar dan akta susunan pengurus terakhir."
+  ],
+  "fotoAdegan": "Stacks of steel pipes at an industrial fabrication yard near a shipyard in Batam, workers in safety vests, overcast morning light",
+  "takeaway": "Laporan ini netral bagi penilaian kinerja Citra Tubindo, karena baru sebatas panggilan rapat dan belum menyebut nama calon direksi, alasan pergantian, atau siapa yang akan masuk maupun keluar dari jajaran direksi. Agenda ini tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham secara langsung, tapi pergantian direksi tetap layak dipantau karena bisa mengubah arah strategi dan kebijakan operasional perusahaan ke depan. Tanggal pencatatan pemegang saham yang berhak hadir sudah lewat, yakni 22 September 2026 pukul 16.00 WIB, sehingga pembeli saham baru setelah tanggal itu tidak akan bisa ikut memberi suara di rapat ini. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 15 Oktober 2026, terutama nama-nama yang diumumkan masuk atau keluar dari Direksi dan apakah ada perubahan arah kebijakan yang menyertainya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ppln-wakil-komisaris-utama-mundur-jadi-menteri-keuangan",
   "category": "Aksi Korporasi",
   "title": "PPLN: Wakil Komisaris Utama [Mundur] Jadi Menteri Keuangan",

@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dewi-pemegang-saham-tambah-kepemilikan-ke-8-05",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Pemegang Saham [Tambah] Kepemilikan ke 8,05%",
+  "deck": "Sujito Ngatiman membeli 10,5 juta saham DEWI seharga Rp157 per lembar, menambah hak suaranya dari 7,53% menjadi 8,05%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "hak suara",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1710-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-pemegang-saham-jual-13-1-juta-saham-suara-ke-7-53",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Pemegang Saham [Jual] 13,1 Juta Saham, Suara ke 7,53%",
+  "deck": "Sujito Ngatiman, pemegang saham DEWI, melepas 13,1 juta saham senilai sekitar Rp2,01 miliar pada 2 September 2026, hak suaranya turun dari 8,19% menjadi 7,53%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "pemegang saham",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1979-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-pemegang-saham-tambah-kepemilikan-ke-8-06",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Pemegang Saham [Tambah] Kepemilikan ke 8,06%",
+  "deck": "Sujito Ngatiman menambah kepemilikan di DEWI lewat pembelian 12,75 juta saham senilai sekitar Rp1,91 miliar, hak suara naik dari 7,42% menjadi 8,06%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4018-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-rampungkan-realisasi-dana-obligasi-sukuk-rp1-43-t",
+  "category": "Aksi Korporasi",
+  "title": "INKP Rampungkan Realisasi Dana [Obligasi]-Sukuk Rp1,43 T",
+  "deck": "INKP melaporkan dana hasil emisi obligasi dan sukuk berkelanjutan, total Rp1,43 triliun plus US$15,37 juta, kini terealisasi penuh untuk pelunasan utang bank dan modal kerja.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a470bee58_a042955a54.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "goto-morgan-stanley-tambah-saham-jadi-7-03-hak-suara",
+  "category": "Aksi Korporasi",
+  "title": "GOTO: Morgan Stanley Tambah [Saham] Jadi 7,03% Hak Suara",
+  "deck": "Morgan Stanley and Co International Plc menambah 400 juta saham GOTO lewat perjanjian pembelian kembali pada 18 September 2026, menaikkan hak suaranya jadi 7,03%.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GOTO",
+   "kepemilikan saham",
+   "Morgan Stanley",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9638-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ctbn-gelar-rupslb-15-oktober-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "CTBN Gelar RUPSLB 15 Oktober, Bahas [Perubahan] Direksi",
+  "deck": "Citra Tubindo memanggil RUPSLB pada 15 Oktober 2026 di Jakarta dengan agenda tunggal persetujuan perubahan susunan Direksi.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CTBN",
+   "RUPSLB",
+   "Direksi",
+   "Citra Tubindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/be2a74aed5_be9d62f69c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ppln-wakil-komisaris-utama-mundur-jadi-menteri-keuangan",
   "category": "Aksi Korporasi",
   "title": "PPLN: Wakil Komisaris Utama [Mundur] Jadi Menteri Keuangan",
@@ -6414,107 +6510,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467510-pgtc-2026-digelar-di-its-ajak-mahasiswa-bahas-tantangan-industri-energi-masa-depan"
- },
- {
-  "slug": "bantuan-pasang-listrik-ke-400-ribu-rumah-tangga-ditarget-2027",
-  "category": "Energi",
-  "title": "Bantuan Pasang Listrik ke [400 Ribu] Rumah Tangga Ditarget 2027",
-  "deck": "ESDM menargetkan bantuan pasang listrik untuk 400 ribu rumah tangga pada 2027 dengan anggaran Rp949 miliar, di tengah desakan DPR agar penetapan penerima tak menunggu pembaruan data desil.",
-  "date": "16 September 2026",
-  "image": "assets/img/bantuan-pasang-listrik-ke-400-ribu-rumah-tangga-ditarget-2027.jpg",
-  "imageV": "mu40bcx1",
-  "tags": [
-   "BPBL",
-   "ESDM",
-   "elektrifikasi",
-   "DPR"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dpr-apresiasi-percepatan-penetapan-penerima-bpbl-esdm-dorong-akses-listrik-lebih-cepat",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "indonesia-sri-lanka-lanjutkan-perundingan-pta-ke-putaran-tiga",
-  "category": "Global",
-  "title": "Indonesia-Sri Lanka Lanjutkan Perundingan [PTA] ke Putaran Tiga",
-  "deck": "Mendag Budi Santoso mendorong perundingan dagang preferensial RI-Sri Lanka lanjut ke putaran ketiga, sementara Sri Lanka menjajaki kerja sama pupuk dan siap ikut Trade Expo Indonesia Oktober 2026.",
-  "date": "16 September 2026",
-  "image": "assets/img/indonesia-sri-lanka-lanjutkan-perundingan-pta-ke-putaran-tiga.jpg",
-  "imageV": "mu40bfqb",
-  "tags": [
-   "Kemendag",
-   "Sri Lanka",
-   "PTA",
-   "Ekspor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-dorong-kelanjutan-perundingan-indonesia-sri-lanka-pta",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "mcor-direktur-zhu-yong-resmi-mundur-rupslb-digelar",
-  "category": "Aksi Korporasi",
-  "title": "MCOR: Direktur [Zhu Yong] Resmi Mundur, RUPSLB Digelar",
-  "deck": "Bank China Construction Bank Indonesia (MCOR) menerima surat pengunduran diri Direktur Zhu Yong pada 14 September 2026, disusul RUPSLB sehari kemudian untuk membahas suksesi.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MCOR",
-   "direksi",
-   "perbankan",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/711cc0a7fc_338473431e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pelindo-luncurkan-listrik-darat-kapal-di-tanjung-priok",
-  "category": "BUMN",
-  "title": "Pelindo Luncurkan [Listrik] Darat Kapal di Tanjung Priok",
-  "deck": "Pelindo mengoperasikan pasokan listrik darat 500 kVA di Tanjung Priok agar kapal sandar bisa mematikan mesin bantu, emisi diklaim turun hingga 75 persen.",
-  "date": "16 September 2026",
-  "image": "assets/img/pelindo-luncurkan-listrik-darat-kapal-di-tanjung-priok.jpg",
-  "imageV": "mu40bg4d",
-  "tags": [
-   "Pelindo",
-   "Tanjung Priok",
-   "Onshore Power Supply",
-   "Green Port"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467502-pelindo-luncurkan-layanan-onshore-power-supply-di-tanjung-priok-dorong-transformasi-green-port"
- },
- {
-  "slug": "presiden-prabowo-ungkap-kebocoran-ekspor-rp15-t-34-tahun",
-  "category": "Makroekonomi",
-  "title": "Presiden Prabowo Ungkap Kebocoran Ekspor Rp15 T [34 Tahun]",
-  "deck": "Presiden Prabowo Subianto menyebut praktik pelaporan nilai ekspor lebih rendah dari sebenarnya berlangsung 34 tahun dan membuat negara kehilangan hingga Rp15 triliun.",
-  "date": "16 September 2026",
-  "image": "assets/img/presiden-prabowo-ungkap-kebocoran-ekspor-rp15-t-34-tahun.jpg",
-  "imageV": "mu40bgjx",
-  "tags": [
-   "underinvoicing",
-   "ekspor",
-   "bea cukai",
-   "Presiden Prabowo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467498-prabowo-bongkar-kebocoran-ekspor-34-tahun-rp15-triliun-disebut-raib-akibat-underinvoicing"
- },
- {
-  "slug": "akku-rilis-materi-public-expose-soal-suspensi-saham-dan-rugi-naik",
-  "category": "Aksi Korporasi",
-  "title": "AKKU Rilis Materi Public Expose Soal [Suspensi] Saham dan Rugi Naik",
-  "deck": "AKKU membeberkan materi paparan publik insidentil, termasuk rincian opini auditor dan rugi semester I 2026 yang melonjak lebih dari tiga kali lipat.",
-  "date": "16 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKKU",
-   "suspensi saham",
-   "public expose",
-   "opini audit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1d8756400a_d32f20320f.pdf",
-  "sourceLabel": "IDX"
  }
 ];

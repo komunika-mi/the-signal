@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wskt-gagal-lunasi-pokok-obligasi-rp722-miliar-klaim-penjaminan",
+  "category": "Aksi Korporasi",
+  "title": "WSKT [Gagal] Lunasi Pokok Obligasi Rp722 Miliar, Klaim Penjaminan",
+  "deck": "Waskita Karya tak sanggup melunasi pokok Obligasi III 2021 Seri A senilai Rp722 miliar yang jatuh tempo 24 September 2026; wali amanat ajukan klaim penjaminan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T21:28:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/691b7db3dc_439177adf4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "obligasi",
+   "gagal bayar",
+   "Waskita Karya"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk melaporkan kepada Bursa Efek Indonesia bahwa perusahaan tidak mampu melunasi pokok Obligasi III Tahun 2021 Seri A senilai Rp722 miliar yang jatuh tempo pada 24 September 2026. Dalam surat bernomor 997/WK/DIR/2026 tertanggal 23 September 2026 yang ditandatangani Sekretaris Perusahaan Steven Subianto, Waskita menyatakan telah menginformasikan ketidakmampuan tersebut kepada penjamin dan wali amanat obligasi.",
+   "Menindaklanjuti hal itu, wali amanat telah mengajukan klaim penjaminan kepada penjamin obligasi, yang saat ini sedang diproses sesuai Perjanjian Penjaminan dan ketentuan yang berlaku. Waskita menegaskan bahwa denda atau biaya lain yang timbul akibat keterlambatan pembayaran pokok ini tetap menjadi kewajiban perusahaan dan akan dihitung sesuai Perjanjian Perwaliamanatan.",
+   "Terpisah dari persoalan pokok utang, Waskita menyatakan kesiapan dana untuk pembayaran bunga. Sejak 20 Agustus 2026 perusahaan telah mencadangkan dana Rp28.877.500.000 untuk bunga ke-20 Obligasi III Tahun 2021 Seri A dan Seri B, dan pada 15 September 2026 mengirim standing instruction kepada Bank Mega selaku wali amanat agar mencairkan bunga tersebut ke rekening KSEI pada 23 September 2026."
+  ],
+  "fotoAdegan": "Elevated highway construction site at dusk with cranes and concrete pillars, workers in safety vests, Jakarta skyline in distance",
+  "takeaway": "Laporan ini jelas negatif bagi Waskita karena mengonfirmasi perusahaan gagal melunasi pokok obligasi Rp722 miliar tepat waktu, tanda tekanan arus kas yang masih berat meski kewajiban bunga tetap dibayar. Yang tersentuh adalah likuiditas, yakni ketersediaan uang tunai untuk membayar kewajiban jangka pendek, dan di sinilah wali amanat, pihak yang mewakili kepentingan pemegang obligasi, mengajukan klaim penjaminan alias tagihan ke penjamin agar merekalah yang menalangi pokok yang tidak terbayar. Pembaca perlu tahu kegagalan ini menambah beban baru berupa denda keterlambatan yang tetap jadi tanggungan Waskita di luar pokok dan bunga. Yang perlu dipantau berikutnya adalah hasil proses klaim penjaminan ke penjamin serta apakah Waskita mencapai kesepakatan pembayaran atau restrukturisasi lanjutan untuk pokok Seri A ini, mengingat tanggal jatuh temponya 24 September 2026 sudah di depan mata.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sema-bantah-punya-info-material-tersembunyi-usai-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "SEMA [Bantah] Punya Info Material Tersembunyi usai Suspensi",
+  "deck": "PT Semacom Integrated Tbk menjawab permintaan penjelasan Bursa terkait suspensi sahamnya, menyatakan tidak ada kontrak baru atau perkara hukum yang belum diungkapkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T21:17:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d4d3941fae_9750c43ad6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SEMA",
+  "tags": [
+   "SEMA",
+   "suspensi saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Semacom Integrated Tbk (SEMA) menyampaikan surat penjelasan koreksi bernomor SI-339a/WAS-IDX/09/2026 tertanggal 23 September 2026, menggantikan surat sebelumnya yang terbit di hari yang sama. Surat ini merupakan jawaban atas permintaan penjelasan Bursa Efek Indonesia nomor S-12262/BEI.PP2/09-2026 tanggal 22 September 2026, yang dikirim menyusul pengumuman penghentian sementara perdagangan saham SEMA oleh BEI pada 18 September 2026. Surat ditandatangani oleh Direktur Riany Sandra Widjaja.",
+   "Dalam jawabannya, manajemen menyatakan tidak ada perolehan kontrak, sumber pendapatan baru, atau transaksi material lain sejak laporan keuangan terakhir yang belum diungkapkan ke Bursa dan publik. Perseroan menegaskan bisnis intinya tetap berjalan di empat lini, yaitu Power Distribution, Electrical Panel atau Switchgear, Renewable Energy, dan Data Center. Untuk tahun 2026, perusahaan menyebut sembilan poin strategi, antara lain memperkuat bisnis panel dan switchgear, mengembangkan bisnis Data Center, memperluas pasar ke sektor industri yang butuh produk type-tested panel, memperkuat hubungan dengan PLN dan anak usahanya, melanjutkan pengembangan energi terbarukan seperti PLTS, serta meningkatkan efisiensi produksi.",
+   "Terkait pergerakan harga sahamnya, Semacom menyatakan tidak bisa menyimpulkan penyebab tunggal karena harga terbentuk lewat mekanisme pasar yang dipengaruhi banyak faktor. Perusahaan juga menegaskan tidak ada perkara hukum material yang melibatkan perseroan, anak usaha, direksi, maupun komisaris yang belum diungkapkan, serta tidak ada informasi material di media massa yang belum pernah dilaporkan ke Bursa. Surat ditutup oleh Corporate Secretary Dian Tresnawati."
+  ],
+  "fotoAdegan": "Workers assembling electrical switchgear panels inside an industrial workshop, cables and metal enclosures around them, overhead fluorescent lighting",
+  "takeaway": "Penilaian saya netral, karena isi surat ini seluruhnya berupa penyangkalan baku, tidak ada kontrak baru, tidak ada perkara hukum, tidak ada informasi tersembunyi, tanpa satu pun angka keuangan baru yang mengubah gambaran perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh di sini, karena surat ini murni klarifikasi administratif menyusul penghentian sementara perdagangan atau suspensi saham SEMA yang dijatuhkan Bursa pada 18 September lalu akibat pergerakan harga yang dianggap tidak wajar. Yang perlu dicatat, surat ini tidak benar-benar menjelaskan kenapa harga sahamnya bergejolak sampai disuspensi, ia hanya menyatakan tidak tahu penyebabnya. Yang perlu dipantau selanjutnya adalah apakah Bursa menganggap penjelasan ini cukup untuk mencabut suspensi, dan bagaimana harga serta volume saham SEMA bergerak begitu perdagangannya dibuka kembali.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ri-dukung-reviu-perjanjian-dagang-asean-india-rampung-2026",
   "category": "Global",
   "title": "RI Dukung Reviu Perjanjian Dagang ASEAN-India [Rampung] 2026",
@@ -28,6 +80,58 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan dorongan agar proses peninjauan ulang perjanjian dagang AITIGA, yang sudah berjalan, dirampungkan tahun ini, lengkap dengan daftar usulan konkret dari pelaku usaha seperti dasbor pemantauan implementasi dan proyek uji coba dagang digital dengan India. Yang terdampak adalah pelaku usaha lintas ASEAN dan India yang memakai tarif dan kemudahan dagang dalam AITIGA, termasuk UMKM yang jadi sasaran salah satu usulan fasilitasi. Soal arahnya, ada dua kemungkinan: reviu selesai sesuai target akhir 2026 seperti yang disebut Indonesia, atau molor karena delegasi India sendiri mengakui masih ada isu substantif yang belum disepakati kedua pihak. Yang akan menentukan mana yang terjadi adalah apakah target penyelesaian akhir 2026 itu benar tercapai, atau perundingan harus berlanjut ke putaran berikutnya."
+ },
+ {
+  "slug": "hygn-public-expose-target-laba-tumbuh-15-20-di-2026",
+  "category": "Aksi Korporasi",
+  "title": "HYGN Public Expose: Target Laba Tumbuh [15-20]% di 2026",
+  "deck": "Manajemen Ecocare Indo Pasifik memaparkan tekanan margin 2025 akibat kenaikan UMP dan biaya rebranding, sembari menegaskan target pertumbuhan laba 15-20% tahun ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T21:02:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f0e9bbce7_caf25707fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HYGN",
+  "tags": [
+   "HYGN",
+   "Ecocare Indo Pasifik",
+   "Public Expose",
+   "capex"
+  ],
+  "body": [
+   "PT Ecocare Indo Pasifik Tbk (HYGN) menggelar public expose tahunan pada Selasa, 22 September 2026, melalui Zoom Meeting dan disiarkan ulang di kanal YouTube perseroan. Acara berlangsung pukul 10.00 hingga 10.45 WIB, dihadiri jajaran direksi yaitu Direktur Utama Wincent Yunanda, serta tiga direktur, Heny Cahyadi, Flora Chandra, dan Sudaryanto. Selain manajemen, acara diikuti 27 peserta dari kalangan investor umum dan media, termasuk Investor Daily, Kontan, Investortrust, dan Beritasatu.com.",
+   "Dalam sesi tanya jawab, analis menyoroti pendapatan yang tumbuh 16 persen pada 2025 namun tidak diikuti kenaikan laba bersih yang sepadan. Manajemen menjelaskan margin tertekan karena kenaikan biaya sumber daya manusia akibat kenaikan upah minimum, ditambah biaya rebranding unit usaha yang menjadi bagian dari rencana pasca penawaran umum perdana saham (IPO). Perseroan juga mencatat belanja modal untuk digitalisasi teknologi informasi dan perekrutan program kaderisasi manajemen (management development program), dengan harapan margin membaik pada 2026.",
+   "Soal ekspansi, manajemen menyebut belanja modal untuk penambahan armada kendaraan listrik sekitar Rp2 miliar hingga Rp3 miliar pada 2025. Untuk lini bisnis baru, perseroan mengalokasikan capex sekitar Rp1,5 miliar hingga Rp2 miliar bagi unit Ecocare Pure Air dan Diamond Series, dengan pemasaran awal difokuskan di Jabodetabek sebelum diperluas sesuai permintaan, termasuk yang dipicu meningkatnya kepedulian terhadap kualitas udara akibat isu abu vulkanik. Perseroan juga meluncurkan produk baru seperti Scent Nano dan sedang mengembangkan Fly Catcher. Terkait proyeksi 2026, manajemen menyatakan per Juni 2026 pendapatan telah tumbuh 20 persen, dengan target pertumbuhan pendapatan 15 persen dan laba bersih 15-20 persen dibanding 2025, serta menilai pelemahan rupiah berdampak minim karena mayoritas pembelian bahan baku berasal dari pemasok lokal."
+  ],
+  "fotoAdegan": "Cleaning service technician in blue uniform operating a portable air purifier unit inside an office lobby, soft morning light",
+  "takeaway": "Laporan ini netral bagi HYGN karena sifatnya rekap tanya jawab rutin tahunan, bukan perubahan struktur modal atau angka kinerja resmi yang baru. Yang tersentuh adalah margin dan laba bersih, yakni selisih antara pendapatan dan biaya operasional, karena manajemen mengakui margin 2025 tertekan oleh kenaikan upah minimum dan biaya rebranding, sementara pendapatan tetap tumbuh dua digit, sehingga pelaku pasar biasa mencermati pos ini sebagai indikator efisiensi perusahaan. Yang perlu dipantau berikutnya adalah apakah realisasi akhir tahun 2026 benar-benar mencapai target pertumbuhan pendapatan 15 persen dan laba 15-20 persen seperti yang ditegaskan manajemen, serta perkembangan investasi di unit Ecocare Pure Air dan Diamond Series yang capexnya berpotensi membesar mengikuti permintaan pasar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bsml-jadwalkan-rupslb-30-oktober-2026-di-jakarta",
+  "category": "Aksi Korporasi",
+  "title": "BSML Jadwalkan RUPSLB [30 Oktober 2026] di Jakarta",
+  "deck": "PT Bintang Samudera Mandiri Lines Tbk mengumumkan rencana RUPSLB pada 30 Oktober 2026 di Jakarta. Pemegang saham per 7 Oktober berhak hadir dan bersuara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T21:02:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2a8874b440_bd016b476f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSML",
+  "tags": [
+   "BSML",
+   "RUPSLB",
+   "Bintang Samudera Mandiri Lines",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bintang Samudera Mandiri Lines Tbk (BSML) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 30 Oktober 2026 pukul 10.00 WIB di Jakarta. Pengumuman ini disampaikan melalui surat nomor 065/DIR-BSML/IX/2026 yang ditandatangani Corporate Secretary Pramayari, merujuk pada surat sebelumnya nomor 064/DIR-BSML/IX/2026.",
+   "Perseroan menetapkan Rabu, 7 Oktober 2026 pukul 16.00 WIB sebagai batas pencatatan Daftar Pemegang Saham (DPS). Hanya pemegang saham yang namanya tercatat di daftar tersebut, baik langsung di Perseroan maupun melalui rekening efek di PT Kustodian Sentral Efek Indonesia, yang berhak hadir dan memberikan suara dalam RUPSLB. Panggilan resmi beserta mata acara rapat baru akan diumumkan lebih lanjut pada Kamis, 8 Oktober 2026, melalui situs e-RUPS milik PT Kustodian Efek Indonesia, situs Bursa Efek Indonesia, dan situs resmi Perseroan.",
+   "Dokumen ini juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat memenuhi ketentuan Pasal 12 ayat 7 Anggaran Dasar Perseroan dan Pasal 16 POJK No.15/POJK.04/2020. Usulan harus disampaikan melalui surat tercatat disertai alasan, paling lambat tujuh hari kalender sebelum tanggal pemanggilan rapat, yaitu Kamis, 1 Oktober 2026."
+  ],
+  "fotoAdegan": "A small cargo ship docked at an Indonesian port at dawn, tugboat alongside, stacked containers on the pier.",
+  "takeaway": "Pengumuman ini netral bagi penilaian fundamental Perseroan, karena isinya baru soal jadwal dan mekanisme, belum memuat mata acara atau keputusan apa pun yang akan dibahas. RUPSLB sendiri belum menyentuh pos kinerja apa pun, tapi jenis rapat luar biasa seperti ini biasanya dipakai emiten untuk agenda besar, misalnya perubahan modal, akuisisi, atau pergantian pengurus, yang baru terlihat dampaknya ke ekuitas atau jumlah saham beredar begitu agendanya terungkap. Yang perlu dipantau pemegang saham adalah pengumuman resmi mata acara rapat pada Kamis, 8 Oktober 2026, serta batas akhir pengajuan usul agenda pada Kamis, 1 Oktober 2026, sebelum RUPSLB digelar pada 30 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "nick-jelaskan-rugi-portofolio-rp33-m-ke-bursa-klaim-sementara",

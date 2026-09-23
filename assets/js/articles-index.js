@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wskt-gagal-lunasi-pokok-obligasi-rp722-miliar-klaim-penjaminan",
+  "category": "Aksi Korporasi",
+  "title": "WSKT [Gagal] Lunasi Pokok Obligasi Rp722 Miliar, Klaim Penjaminan",
+  "deck": "Waskita Karya tak sanggup melunasi pokok Obligasi III 2021 Seri A senilai Rp722 miliar yang jatuh tempo 24 September 2026; wali amanat ajukan klaim penjaminan.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "obligasi",
+   "gagal bayar",
+   "Waskita Karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/691b7db3dc_439177adf4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sema-bantah-punya-info-material-tersembunyi-usai-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "SEMA [Bantah] Punya Info Material Tersembunyi usai Suspensi",
+  "deck": "PT Semacom Integrated Tbk menjawab permintaan penjelasan Bursa terkait suspensi sahamnya, menyatakan tidak ada kontrak baru atau perkara hukum yang belum diungkapkan.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SEMA",
+   "suspensi saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d4d3941fae_9750c43ad6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-dukung-reviu-perjanjian-dagang-asean-india-rampung-2026",
   "category": "Global",
   "title": "RI Dukung Reviu Perjanjian Dagang ASEAN-India [Rampung] 2026",
@@ -19,6 +51,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-konsultasi-ke-23-aem-india-indonesia-dukung-penyelesaian-aitiga-reviu-di-2026",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "hygn-public-expose-target-laba-tumbuh-15-20-di-2026",
+  "category": "Aksi Korporasi",
+  "title": "HYGN Public Expose: Target Laba Tumbuh [15-20]% di 2026",
+  "deck": "Manajemen Ecocare Indo Pasifik memaparkan tekanan margin 2025 akibat kenaikan UMP dan biaya rebranding, sembari menegaskan target pertumbuhan laba 15-20% tahun ini.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HYGN",
+   "Ecocare Indo Pasifik",
+   "Public Expose",
+   "capex"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f0e9bbce7_caf25707fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bsml-jadwalkan-rupslb-30-oktober-2026-di-jakarta",
+  "category": "Aksi Korporasi",
+  "title": "BSML Jadwalkan RUPSLB [30 Oktober 2026] di Jakarta",
+  "deck": "PT Bintang Samudera Mandiri Lines Tbk mengumumkan rencana RUPSLB pada 30 Oktober 2026 di Jakarta. Pemegang saham per 7 Oktober berhak hadir dan bersuara.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSML",
+   "RUPSLB",
+   "Bintang Samudera Mandiri Lines",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2a8874b440_bd016b476f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "nick-jelaskan-rugi-portofolio-rp33-m-ke-bursa-klaim-sementara",
@@ -6442,70 +6506,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/07707eae69_6d671ea9bb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unsp-jelaskan-metode-revaluasi-aset-ke-bursa-efek-indonesia",
-  "category": "Aksi Korporasi",
-  "title": "UNSP Jelaskan Metode [Revaluasi] Aset ke Bursa Efek Indonesia",
-  "deck": "Bakrie Sumatera Plantations menjawab permintaan penjelasan BEI soal perubahan kebijakan akuntansi revaluasi aset tanah dan tanaman produktif di sembilan entitas anak.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNSP",
-   "Bakrie Sumatera Plantations",
-   "revaluasi aset",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a851623875_9136329a9e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "city-belum-penuhi-syarat-free-float-minimum-janji-oktober",
-  "category": "Aksi Korporasi",
-  "title": "CITY belum penuhi syarat [free float] minimum, janji Oktober",
-  "deck": "Natura City Developments menjelaskan ke Bursa bahwa porsi sahamnya yang beredar di publik belum capai batas minimum 15 persen, dan berjanji memenuhinya paling lambat akhir Oktober 2026.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CITY",
-   "free float",
-   "BEI",
-   "kepatuhan emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d3a85a1979_75ff646ca6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hygn-bagi-dividen-rp3-saham-luncurkan-unit-bisnis-udara-bersih",
-  "category": "Aksi Korporasi",
-  "title": "HYGN Bagi [Dividen] Rp3/Saham, Luncurkan Unit Bisnis Udara Bersih",
-  "deck": "Ecocare Indo Pasifik (HYGN) memaparkan materi public expose tahunan, termasuk pembagian dividen Rp3 per saham dan peluncuran unit bisnis ecoCare Pure Air.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HYGN",
-   "dividen",
-   "public expose",
-   "Ecocare Indo Pasifik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6048d57af0_7ef3b45f0e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "yupi-baru-penuhi-10-free-float-kejar-12-5-di-2027",
-  "category": "Aksi Korporasi",
-  "title": "YUPI Baru Penuhi 10% [Free Float], Kejar 12,5% di 2027",
-  "deck": "Yupi Indo Jelly Gum menjelaskan ke BEI bahwa free float sahamnya baru 10%, dengan target bertahap 12,5% pada Maret 2027 dan 15% pada Maret 2028.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YUPI",
-   "free float",
-   "BEI",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/14deacd12e_f44d33f869.pdf",
   "sourceLabel": "IDX"
  }
 ];

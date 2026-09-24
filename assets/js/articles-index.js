@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "transaksi-ekonomi-digital-ri-tumbuh-40-agustus-2026",
+  "category": "Moneter",
+  "title": "Transaksi Ekonomi Digital RI [Tumbuh] 40% Agustus 2026",
+  "deck": "Bank Indonesia mencatat transaksi ekonomi digital naik 40,36 persen pada Agustus 2026, ditopang perluasan QRIS dan BI-FAST, sementara inflasi tetap dalam target.",
+  "date": "24 September 2026",
+  "image": "assets/img/transaksi-ekonomi-digital-ri-tumbuh-40-agustus-2026.jpg",
+  "imageV": "muffq7qm",
+  "tags": [
+   "ekonomi digital",
+   "QRIS",
+   "BI-FAST",
+   "inflasi"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819626.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "telkom-akses-rapikan-kabel-jaringan-di-banten",
+  "category": "Teknologi",
+  "title": "Telkom Akses Rapikan Kabel Jaringan di [Banten]",
+  "deck": "Telkom Akses menemui Gubernur Banten Andra Soni untuk membahas penataan kabel dan infrastruktur digital yang dipakai bersama banyak operator jaringan.",
+  "date": "24 September 2026",
+  "image": "assets/img/telkom-akses-rapikan-kabel-jaringan-di-banten.jpg",
+  "imageV": "muffq86k",
+  "tags": [
+   "Telkom Akses",
+   "Banten",
+   "infrastruktur digital",
+   "penataan kabel"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469151-temui-gubernur-banten-andra-soni-telkom-akses-dorong-penguatan-dan-penataan-infrastruktur-digital"
+ },
+ {
   "slug": "ibos-panggil-rupslb-sahkan-laporan-keuangan-2023-direvisi",
   "category": "Aksi Korporasi",
   "title": "IBOS Panggil RUPSLB, Sahkan Laporan Keuangan [2023] Direvisi",
@@ -6471,38 +6506,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0b65b46f7c_fdea5ce1e5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-rights-issue-900-juta-saham-harga-rp500-efektif",
-  "category": "Aksi Korporasi",
-  "title": "BAJA Rights Issue 900 Juta Saham, Harga Rp500 [Efektif]",
-  "deck": "Saranacentral Bajatama menerbitkan 900 juta saham baru lewat rights issue dengan rasio 2:1 dan harga pelaksanaan Rp500 per saham, efektif dari OJK sejak 17 September 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "rights issue",
-   "HMETD",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dc2b4b4de2_4af43e9461.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-cabut-suspensi-saham-true-setelah-penuhi-kewajiban-lapor",
-  "category": "Aksi Korporasi",
-  "title": "BEI Cabut [Suspensi] Saham TRUE Setelah Penuhi Kewajiban Lapor",
-  "deck": "Bursa Efek Indonesia mencabut suspensi perdagangan saham TRUE mulai sesi kedua Jumat, 18 September 2026, setelah perusahaan memenuhi kewajiban pelaporan keuangan yang sempat tertunda dua kali.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUE",
-   "BEI",
-   "suspensi saham",
-   "Triniti Dinamik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/50c9724e68_d076c60505.pdf",
   "sourceLabel": "IDX"
  }
 ];

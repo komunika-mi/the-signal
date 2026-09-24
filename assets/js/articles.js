@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "transaksi-ekonomi-digital-ri-tumbuh-40-agustus-2026",
+  "category": "Moneter",
+  "title": "Transaksi Ekonomi Digital RI [Tumbuh] 40% Agustus 2026",
+  "deck": "Bank Indonesia mencatat transaksi ekonomi digital naik 40,36 persen pada Agustus 2026, ditopang perluasan QRIS dan BI-FAST, sementara inflasi tetap dalam target.",
+  "image": "assets/img/transaksi-ekonomi-digital-ri-tumbuh-40-agustus-2026.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T11:08:04.304Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819626.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "ekonomi digital",
+   "QRIS",
+   "BI-FAST",
+   "inflasi"
+  ],
+  "body": [
+   "Bank Indonesia melaporkan transaksi ekonomi dan keuangan digital pada Agustus 2026 tumbuh 40,36 persen dibanding periode sama tahun lalu, mencapai 6,11 miliar transaksi. Data ini disampaikan dalam pembukaan Festival Ekonomi Keuangan Digital Indonesia dan Indonesia Fintech Summit & Expo (FEKDI x IFSE) 2026 di Jakarta International Convention Center, yang berlangsung 24-26 September 2026 dan digelar bersama oleh Bank Indonesia, Otoritas Jasa Keuangan, Kementerian Koordinator Bidang Perekonomian, Asosiasi Sistem Pembayaran Indonesia, dan Asosiasi Fintech Indonesia. Bagi pelaku usaha dan konsumen, angka ini menandakan transaksi nontunai semakin jadi kebiasaan sehari-hari, bukan sekadar pilihan tambahan.",
+   "Perluasan QRIS menjadi salah satu pendorong utama pertumbuhan itu. Sampai saat ini QRIS sudah digunakan oleh 69,32 juta pengguna dan diterima di 47,11 juta merchant, mayoritas pedagang kecil. Di sisi infrastruktur transfer antarbank, sistem BI-FAST mencatat 549 juta transaksi ritel dengan nilai total Rp1.346 triliun. Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyebut nilai ekonomi digital Indonesia mendekati US$100 miliar pada 2025, terbesar di Asia Tenggara, dan diproyeksikan naik menjadi US$180 miliar hingga US$340 miliar pada 2030.",
+   "Di sela acara ini, Bank Indonesia bersama pemerintah juga membahas pengendalian inflasi lewat Rapat Koordinasi Nasional Tim Pengendalian Inflasi Pusat dan Daerah. Inflasi konsumen pada Agustus 2026 tercatat 3,19 persen secara tahunan, dengan inflasi harga pangan bergejolak sebesar 4,06 persen, keduanya masih berada dalam target 2,5 plus minus 1 persen yang ditetapkan untuk tahun ini. Bank Indonesia menyatakan akan mengantisipasi risiko gangguan cuaca El Nino agar inflasi tetap terjaga hingga 2027. Dalam kesempatan yang sama diumumkan pemenang TPID Awards 2026 untuk kategori provinsi dan kabupaten/kota berkinerja terbaik, yang direkomendasikan mendapat tambahan insentif fiskal dari pemerintah pusat.",
+   "Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono mengingatkan bahwa QRIS dan BI-FAST baru pintu masuk transformasi digital. Menurutnya, tantangan berikutnya adalah memastikan manfaat digitalisasi merata sampai ke daerah, lewat infrastruktur digital yang terhubung dengan infrastruktur fisik seperti jalan dan jaringan logistik."
+  ],
+  "fotoAdegan": "A small food stall vendor accepting a QR code payment from a customer on a busy Jakarta street, midday light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2819626/Cover-sp_2819626.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Angka konkret dari acara ini adalah pertumbuhan transaksi ekonomi digital 40,36 persen dibanding Agustus tahun lalu menjadi 6,11 miliar transaksi, plus sistem transfer instan BI-FAST yang memproses 549 juta transaksi senilai Rp1.346 triliun. Yang paling terdampak adalah pedagang kecil pengguna QRIS, yang jumlahnya sudah 47,11 juta merchant, karena makin banyak pembeli beralih dari uang tunai ke kode QR, serta pemerintah daerah yang kinerjanya dalam menjaga inflasi kini diganjar insentif fiskal lewat TPID Awards. Arah yang terlihat adalah Bank Indonesia dan pemerintah mendorong basis pembayaran digital ini meluas sambil menjaganya tetap sejalan dengan kerja pengendalian inflasi daerah, bukan berdiri sendiri sebagai program teknologi. Yang akan menentukan apakah lonjakan transaksi Agustus ini adalah tren atau cuma dorongan musiman menjelang acara ini sendiri adalah data transaksi digital dan inflasi pada bulan-bulan berikutnya, terutama saat potensi gangguan cuaca El Nino yang disebut Bank Indonesia mulai terasa dan diuji lewat program GPIPS.",
+  "imageV": "muffq7qm"
+ },
+ {
+  "slug": "telkom-akses-rapikan-kabel-jaringan-di-banten",
+  "category": "Teknologi",
+  "title": "Telkom Akses Rapikan Kabel Jaringan di [Banten]",
+  "deck": "Telkom Akses menemui Gubernur Banten Andra Soni untuk membahas penataan kabel dan infrastruktur digital yang dipakai bersama banyak operator jaringan.",
+  "image": "assets/img/telkom-akses-rapikan-kabel-jaringan-di-banten.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T17:36:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469151-temui-gubernur-banten-andra-soni-telkom-akses-dorong-penguatan-dan-penataan-infrastruktur-digital",
+  "tags": [
+   "Telkom Akses",
+   "Banten",
+   "infrastruktur digital",
+   "penataan kabel"
+  ],
+  "body": [
+   "PT Telkom Akses, anak usaha PT Telkom Indonesia, menemui Gubernur Banten Andra Soni di Kantor Gubernur Banten, Serang, pada Selasa (22/9). Pertemuan ini membahas penataan infrastruktur telekomunikasi di wilayah Banten, termasuk masalah kabel jaringan yang selama ini dipasang oleh banyak operator sekaligus di ruang publik.",
+   "Jajaran komisaris dan direksi Telkom Akses, yakni Ricky HS Tamba, Irphan Wijaya, dan Ambari, berdiskusi dengan Gubernur soal kebutuhan dan rencana pengembangan jaringan di Banten. Andra Soni mendorong penataan kabel yang terintegrasi sebagai bagian dari program lingkungan Aman, Sehat, Resik, dan Indah (ASRI), dan meminta disusun peta jalan sistem jaringan utilitas terintegrasi atau SJUT yang bisa diterapkan seragam di setiap kabupaten dan kota di Banten.",
+   "Model penataan semacam ini sudah lebih dulu diterapkan di Kawasan Pusat Pemerintahan Provinsi Banten, tempat berbagai jaringan utilitas milik operator berbeda ditempatkan dalam satu sistem pengelolaan. Direktur Utama Telkom Akses Irphan Wijaya menyatakan pihaknya siap berkoordinasi dengan pemerintah provinsi, kabupaten, dan kota, serta penyelenggara jaringan lain, agar pekerjaan pemasangan kabel di lapangan berjalan tertib tanpa mengganggu layanan ke masyarakat."
+  ],
+  "fotoAdegan": "Telecom technicians organizing bundled fiber optic cables on a utility pole along an Indonesian city street, tropical morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/24/6ab4fcaca7ca4-pt-telkom-akses-telkom-akses-anak-usaha-pt-telkom-indonesia-persero-tbk-telkom-terus-mempererat-hubungan-kemitraan-strategis-dengan-pemerintah-daerah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru sebatas komitmen untuk berkoordinasi, bukan aturan yang sudah berlaku. Gubernur Banten meminta disusun peta jalan penataan kabel, dengan acuan pola yang sudah berjalan di Kawasan Pusat Pemerintahan Provinsi Banten, tempat kabel-kabel dari berbagai operator ditata dalam satu sistem. Yang langsung berkepentingan adalah Telkom Akses dan penyelenggara jaringan lain yang memasang kabel di ruang publik Banten, sebab merekalah yang nanti harus menyesuaikan cara kerja di lapangan kalau penataan ini jadi diberlakukan merata. Arahnya belum bisa dipastikan karena belum ada jadwal atau bentuk aturan resmi yang disebutkan dalam pertemuan ini, jadi yang perlu ditunggu adalah apakah Pemprov Banten benar menerbitkan peta jalan penataan kabel untuk tingkat kabupaten dan kota seperti yang diminta Gubernur, atau pertemuan ini berhenti sebagai forum koordinasi tanpa tindak lanjut konkret.",
+  "imageV": "muffq86k"
+ },
+ {
   "slug": "ibos-panggil-rupslb-sahkan-laporan-keuangan-2023-direvisi",
   "category": "Aksi Korporasi",
   "title": "IBOS Panggil RUPSLB, Sahkan Laporan Keuangan [2023] Direvisi",

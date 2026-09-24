@@ -5,6 +5,58 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bi-hong-kong-sepakati-kerja-sama-pembayaran-qr-lintas-negara",
+  "category": "Moneter",
+  "title": "BI-Hong Kong Sepakati Kerja Sama Pembayaran [QR] Lintas Negara",
+  "deck": "Bank Indonesia dan otoritas moneter Hong Kong menandatangani nota kesepahaman untuk membangun sistem pembayaran QR code lintas negara antara kedua wilayah.",
+  "date": "24 September 2026",
+  "image": "assets/img/bi-hong-kong-sepakati-kerja-sama-pembayaran-qr-lintas-negara.jpg",
+  "imageV": "muf2vtmi",
+  "tags": [
+   "Bank Indonesia",
+   "QRIS",
+   "Hong Kong",
+   "Pembayaran Digital"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819426.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pnm-dan-kementerian-umkm-luncurkan-program-laksmi-2026",
+  "category": "UMKM",
+  "title": "PNM dan Kementerian UMKM [Luncurkan] Program Laksmi 2026",
+  "deck": "Kementerian UMKM dan PNM luncurkan Program Laksmi 2026 di Surabaya, program pendampingan usaha mikro perempuan penerima PKH menuju kemandirian ekonomi.",
+  "date": "24 September 2026",
+  "image": "assets/img/pnm-dan-kementerian-umkm-luncurkan-program-laksmi-2026.jpg",
+  "imageV": "muf2vu4r",
+  "tags": [
+   "PNM",
+   "Program Laksmi 2026",
+   "Kementerian UMKM",
+   "PKH"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469046-pnm-bersama-kementerian-umkm-luncurkan-program-laksmi-perkuat-sinergi-pemberdayaan-usaha-mikro-perempuan"
+ },
+ {
+  "slug": "hsb-investasi-klaim-17-juta-unduhan-aplikasi-trading",
+  "category": "Bisnis",
+  "title": "HSB Investasi Klaim [17 Juta] Unduhan Aplikasi Trading",
+  "deck": "HSB Investasi melaporkan lebih dari 17 juta unduhan aplikasi trading forex dan komoditasnya sejak 2018, didukung izin BAPPEBTI, OJK, dan BI.",
+  "date": "24 September 2026",
+  "image": "assets/img/hsb-investasi-klaim-17-juta-unduhan-aplikasi-trading.jpg",
+  "imageV": "muf2vukc",
+  "tags": [
+   "HSB Investasi",
+   "aplikasi trading",
+   "BAPPEBTI",
+   "forex"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469044-aplikasi-trading-terbaik-di-indonesia-mengapa-hsb-investasi-layak-jadipilihan"
+ },
+ {
   "slug": "mglv-rinci-jaminan-utang-rp10-75-t-ke-bni-untuk-nac-ngc",
   "category": "Aksi Korporasi",
   "title": "MGLV Rinci [Jaminan] Utang Rp10,75 T ke BNI untuk NAC-NGC",
@@ -69,6 +121,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupiah-melemah-ke-rp17-864-tertekan-lonjakan-harga-minyak",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.864, Tertekan Lonjakan Harga Minyak",
+  "deck": "Nilai tukar rupiah turun 0,26 persen dipicu lonjakan harga minyak akibat ketegangan Iran-AS dan ekspektasi kenaikan suku bunga The Fed.",
+  "date": "24 September 2026",
+  "image": "assets/img/rupiah-melemah-ke-rp17-864-tertekan-lonjakan-harga-minyak.jpg",
+  "imageV": "muf2vv92",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "harga minyak",
+   "The Fed"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469033-rupiah-melemah-ke-rp17864-per-dolar-as-dipengaruhi-harga-minyak-yang-kembali-melonjak"
+ },
+ {
   "slug": "ppgl-komisaris-divestasi-175-8-juta-saham-hak-suara-nol",
   "category": "Aksi Korporasi",
   "title": "PPGL: Komisaris [Divestasi] 175,8 Juta Saham, Hak Suara Nol",
@@ -99,6 +168,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6151a80a69_74661618cb.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-hari-ini-turun-jadi-rp2-605-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam Hari Ini [Turun] Jadi Rp2.605.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp25.000 jadi Rp2.605.000 per gram hari ini, sementara harga buyback ikut turun ke Rp2.435.000 per gram.",
+  "date": "24 September 2026",
+  "image": "assets/img/harga-emas-antam-hari-ini-turun-jadi-rp2-605-000-gram.jpg",
+  "imageV": "muf2vvq0",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469025-harga-emas-antam-hari-ini-24-september-2026-turun-rp25000-jadi-rp2605000-per-gram"
  },
  {
   "slug": "mrat-direksi-beli-12-500-saham-senilai-rp4-5-juta",
@@ -6418,90 +6504,6 @@ var ARTICLES = [
    "suspensi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cb0b6d5a37_4eed397626.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-ke-bursa-utang-jatuh-tempo-capai-rp17-02-t-likuiditas",
-  "category": "Aksi Korporasi",
-  "title": "ADHI ke Bursa: Utang Jatuh Tempo Capai Rp17,02 T [Likuiditas]",
-  "deck": "ADHI menjawab permintaan penjelasan BEI: arus kas operasional melebar jadi negatif Rp751 miliar, liabilitas jatuh tempo setahun ke depan capai Rp17,02 triliun.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "likuiditas",
-   "arus kas",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fa2bff373_de553b2950.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-ekuitas-turun-10-88-akuisisi-data-center-disebut-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "MGLV: Ekuitas Turun 10,88%, Akuisisi Data Center Disebut [Afiliasi]",
-  "deck": "Paparan publik insidentil MGLV mengungkap ekuitas turun 10,88 persen dan liabilitas naik 16,86 persen, sementara akuisisi NAC dan NGC dikonfirmasi sebagai transaksi afiliasi.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "data center",
-   "rights issue",
-   "transaksi afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9f8dd19da_ca33d9bf6e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penerimaan-pajak-ekonomi-digital-capai-rp57-23-triliun-per-agustus",
-  "category": "Makroekonomi",
-  "title": "Penerimaan Pajak Ekonomi Digital Capai [Rp57,23] Triliun per Agustus",
-  "deck": "Penerimaan pajak dari transaksi digital, termasuk e-commerce lintas negara, kripto, dan pinjaman online, mencapai Rp57,23 triliun hingga akhir Agustus 2026, menurut Direktorat Jenderal Pajak.",
-  "date": "17 September 2026",
-  "image": "assets/img/penerimaan-pajak-ekonomi-digital-capai-rp57-23-triliun-per-agustus.jpg",
-  "imageV": "mu5mfrau",
-  "tags": [
-   "pajak digital",
-   "DJP",
-   "PPN PMSE",
-   "pajak kripto"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/djp-catat-penerimaan-pajak-ekonomi-digital-rp5723-triliun",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "dpr-setujui-anggaran-kemendag-2027-naik-jadi-rp1-56-triliun",
-  "category": "Makroekonomi",
-  "title": "DPR Setujui Anggaran Kemendag 2027 [Naik] Jadi Rp1,56 Triliun",
-  "deck": "Komisi VI DPR menyetujui pagu anggaran Kementerian Perdagangan 2027 sebesar Rp1,56 triliun, naik Rp428,71 miliar dari usulan awal, untuk mendukung program dagang dan revitalisasi pasar rakyat.",
-  "date": "17 September 2026",
-  "image": "assets/img/dpr-setujui-anggaran-kemendag-2027-naik-jadi-rp1-56-triliun.jpg",
-  "imageV": "mu5mg2mj",
-  "tags": [
-   "Kemendag",
-   "Anggaran 2027",
-   "DPR",
-   "Revitalisasi Pasar"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/raker-dengan-komisi-vi-dpr-ri-mendag-busan-apresiasi-disetujuinya-pagu-anggaran-kemendag-2027",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "yelo-jadwalkan-rupslb-pada-26-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "YELO jadwalkan [RUPSLB] pada 26 Oktober 2026",
-  "deck": "PT Yelooo Integra Datanet Tbk akan menggelar RUPSLB di Jakarta pada 26 Oktober 2026; pemegang saham per 1 Oktober 2026 berhak hadir.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YELO",
-   "RUPSLB",
-   "IDX",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d532314bfb_8323bd2b8a.pdf",
   "sourceLabel": "IDX"
  }
 ];

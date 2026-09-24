@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bi-hong-kong-sepakati-kerja-sama-pembayaran-qr-lintas-negara",
+  "category": "Moneter",
+  "title": "BI-Hong Kong Sepakati Kerja Sama Pembayaran [QR] Lintas Negara",
+  "deck": "Bank Indonesia dan otoritas moneter Hong Kong menandatangani nota kesepahaman untuk membangun sistem pembayaran QR code lintas negara antara kedua wilayah.",
+  "image": "assets/img/bi-hong-kong-sepakati-kerja-sama-pembayaran-qr-lintas-negara.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T05:10:19.143Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819426.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "QRIS",
+   "Hong Kong",
+   "Pembayaran Digital"
+  ],
+  "body": [
+   "Bank Indonesia dan Hong Kong Monetary Authority menandatangani nota kesepahaman pada 24 September 2026 untuk memperkuat kerja sama pembayaran lintas negara berbasis QR code. Penandatanganan dilakukan oleh Gubernur Bank Indonesia Destry Damayanti dan Chief Executive Hong Kong Monetary Authority Eddie Yue. Kesepakatan ini membuka jalan bagi transaksi berbasis QR antara Indonesia dan Hong Kong, yang relevan bagi pelaku usaha dan masyarakat yang bertransaksi lintas dua wilayah tersebut.",
+   "Berdasarkan nota kesepahaman itu, kedua otoritas akan menggelar dialog mengenai aspek teknis, operasional, dan regulasi yang diperlukan agar sistem pembayaran QR code bisa saling terhubung antara Indonesia dan Hong Kong. Keduanya juga akan menjajaki skema untuk mewujudkan interoperabilitas tersebut, dengan target akhir berupa pembayaran lintas negara yang lebih cepat, lebih murah, transparan, dan menjangkau lebih banyak kalangan.",
+   "Kerja sama ini masih berada pada tahap kesepakatan awal. Bank Indonesia dan Hong Kong Monetary Authority belum mengumumkan skema teknis rinci, penyedia jasa pembayaran yang akan dilibatkan, maupun jadwal implementasi sistem pembayaran QR lintas negara tersebut."
+  ],
+  "fotoAdegan": "A vendor at a small Jakarta shop scanning a customer's phone to complete a QR code payment, morning light, motorbikes passing behind",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2819426/IMG_0651.JPG",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah dari pengumuman ini baru sebatas komitmen dua otoritas moneter untuk mulai membahas cara menghubungkan sistem pembayaran QR code Indonesia dan Hong Kong, bukan sistem yang sudah bisa dipakai. Pihak yang berpotensi terdampak adalah pelaku usaha dan wisatawan yang bertransaksi antara Indonesia dan Hong Kong, serta penyedia jasa pembayaran di kedua wilayah yang nanti akan diminta menyesuaikan sistemnya. Siaran pers ini belum menyebut tanggal target sistem itu mulai bisa dipakai, skema teknis penghubungnya, atau bank dan penyedia pembayaran mana saja yang akan ikut serta. Yang perlu dipantau selanjutnya adalah hasil dialog teknis dan regulasi antara Bank Indonesia dan Hong Kong Monetary Authority, karena baru dari situ akan terlihat apakah kerja sama ini benar-benar berlanjut ke tahap operasional atau berhenti sebagai kesepakatan payung semata.",
+  "imageV": "muf2vtmi"
+ },
+ {
+  "slug": "pnm-dan-kementerian-umkm-luncurkan-program-laksmi-2026",
+  "category": "UMKM",
+  "title": "PNM dan Kementerian UMKM [Luncurkan] Program Laksmi 2026",
+  "deck": "Kementerian UMKM dan PNM luncurkan Program Laksmi 2026 di Surabaya, program pendampingan usaha mikro perempuan penerima PKH menuju kemandirian ekonomi.",
+  "image": "assets/img/pnm-dan-kementerian-umkm-luncurkan-program-laksmi-2026.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T11:14:02+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469046-pnm-bersama-kementerian-umkm-luncurkan-program-laksmi-perkuat-sinergi-pemberdayaan-usaha-mikro-perempuan",
+  "tags": [
+   "PNM",
+   "Program Laksmi 2026",
+   "Kementerian UMKM",
+   "PKH"
+  ],
+  "body": [
+   "Kementerian UMKM bersama PT Permodalan Nasional Madani (PNM) meluncurkan Program Laksmi 2026 di Taman Budaya Jawa Timur, Surabaya, pada Rabu, 23 September 2026. Program ini dirancang untuk mendampingi pelaku usaha mikro perempuan, khususnya keluarga penerima Program Keluarga Harapan (PKH), agar bisa naik kelas dan tidak terus-menerus bergantung pada bantuan sosial.",
+   "Materi pendampingan mencakup pengenalan fokus usaha, manajemen usaha dasar, sesi berbagi pengalaman antarpelaku usaha, hingga pengenalan platform digital SAPA UMKM. Pada tahap awal ini, program menjangkau sekitar 500 pengusaha mikro perempuan di Jawa Timur, dan 250 di antaranya sudah menjadi nasabah pembiayaan PNM.",
+   "Peluncuran Laksmi 2026 berlangsung bersamaan dengan penandatanganan nota kesepahaman antara Kementerian UMKM dan PNM, yang diteken oleh Direktur PNM dan Sekretaris Kementerian UMKM. Nota ini menjadi dasar kerja sama pembiayaan dan pemberdayaan usaha mikro secara berkelanjutan, sekaligus memastikan pendampingan bagi KPM PKH berjalan sesuai ruang lingkup yang disepakati kedua pihak.",
+   "Acara ini dihadiri Menteri UMKM Maman Abdurrahman dan Menteri Sosial Saifullah Yusuf, serta sejumlah pejabat lain, termasuk Wakil Gubernur Jawa Timur Emil Dardak, Sekretaris Kementerian UMKM Loto Srinaita Ginting, Deputi Bidang Usaha Mikro sekaligus Deputi Bidang Kewirausahaan Riza Damanik, Direktur Jenderal Pemberdayaan Sosial Kementerian Sosial Mira Riyati Kurniasih, dan Wakil Direktur Utama PNM Sunar Basuki."
+  ],
+  "fotoAdegan": "Indonesian women micro-entrepreneurs seated together at a community hall, reviewing handmade goods and discussing business plans, Surabaya",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/24/6ab4a2d65a132-pnm-bersama-kementerian-umkm-luncurkan-program-laksmi-perkuat-sinergi-pemberdayaan-usaha-mikro-perempuan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Program Laksmi tahap awal ini menyasar 500 pengusaha mikro perempuan di Jawa Timur, dan separuhnya, 250 orang, sudah menjadi nasabah pembiayaan PNM. Yang terdampak langsung adalah keluarga penerima Program Keluarga Harapan, sebab syarat masuk program ini memang berstatus KPM PKH yang didorong berhenti bergantung pada bantuan sosial dan mulai punya penghasilan dari usaha sendiri. Program ini disebut sebagai tahap pertama pendampingan di wilayah tersebut, yang mengindikasikan pemerintah berencana memperluas polanya ke daerah lain kalau modelnya berjalan di Jawa Timur. Yang akan memastikan arah itu adalah apakah Kementerian UMKM mengumumkan wilayah baru untuk Laksmi dalam waktu dekat, atau merilis angka berapa banyak KPM PKH yang benar-benar lepas dari bansos setelah mengikuti program ini.",
+  "imageV": "muf2vu4r"
+ },
+ {
+  "slug": "hsb-investasi-klaim-17-juta-unduhan-aplikasi-trading",
+  "category": "Bisnis",
+  "title": "HSB Investasi Klaim [17 Juta] Unduhan Aplikasi Trading",
+  "deck": "HSB Investasi melaporkan lebih dari 17 juta unduhan aplikasi trading forex dan komoditasnya sejak 2018, didukung izin BAPPEBTI, OJK, dan BI.",
+  "image": "assets/img/hsb-investasi-klaim-17-juta-unduhan-aplikasi-trading.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T11:09:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469044-aplikasi-trading-terbaik-di-indonesia-mengapa-hsb-investasi-layak-jadipilihan",
+  "tags": [
+   "HSB Investasi",
+   "aplikasi trading",
+   "BAPPEBTI",
+   "forex"
+  ],
+  "body": [
+   "HSB Investasi, penyedia platform trading forex dan komoditas berjangka yang beroperasi sejak 2018, melaporkan aplikasinya telah diunduh lebih dari 17 juta kali di Google Play Store dan App Store. Capaian ini menempatkan HSB sebagai salah satu aplikasi trading dengan basis pengguna besar di Indonesia, di tengah makin banyaknya platform investasi digital yang menyasar trader ritel.",
+   "Lewat aplikasinya, HSB menawarkan akses ke berbagai instrumen dalam satu platform, mulai dari forex, emas, minyak, indeks, hingga saham global. Transaksi bisa dimulai dari ukuran sangat kecil yaitu 0,01 lot, dengan pilihan leverage atau daya ungkit dari 1:200 sampai 1:400, artinya trader bisa membuka posisi ratusan kali lebih besar dari dana yang disetor, sehingga potensi untung maupun rugi ikut membesar sebanding. Perusahaan juga menyediakan fitur setor dan tarik dana yang diproses instan, akun demo untuk latihan, serta asisten AI untuk membantu analisis dan pengambilan keputusan trading.",
+   "Direktur Kepatuhan HSB Investasi, Wulan P. Pondaag, menyebut perusahaan beroperasi di bawah pengawasan tiga lembaga sekaligus, yaitu Badan Pengawas Perdagangan Berjangka Komoditi (BAPPEBTI), Otoritas Jasa Keuangan (OJK), dan Bank Indonesia (BI). Status izin dari BAPPEBTI menjadi penanda penting di industri ini, karena banyak platform trading forex dan komoditas ilegal beredar tanpa pengawasan resmi dan kerap merugikan penggunanya."
+  ],
+  "fotoAdegan": "A person's hands typing on a laptop at a home desk, softly blurred trading chart on the screen, coffee cup nearby, morning window light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/24/6ab4a17bd4f8b-aplikasi-trading-terbaik-di-indonesia-mengapa-hsb-investasi-layak-jadi-pilihan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Seluruh angka dalam berita ini, termasuk klaim 17 juta unduhan, berasal dari keterangan tertulis HSB Investasi sendiri, bukan dari data resmi OJK atau BAPPEBTI soal jumlah trader aktif atau volume transaksi di industri pialang berjangka. Yang terdampak langsung adalah trader ritel yang mempertimbangkan platform forex dan komoditas berjangka, segmen yang diawasi lebih ketat karena leverage setinggi 1:400 membuat potensi rugi bisa sebesar potensi untung. Yang belum tersedia di sini adalah data pembanding, seperti jumlah trader aktif, tingkat pengaduan nasabah, atau statistik industri pialang berjangka dari BAPPEBTI, yang bisa memastikan apakah pertumbuhan unduhan ini mencerminkan tren industri atau sekadar hasil kampanye pemasaran satu perusahaan. Rilis data statistik perdagangan berjangka komoditi dari BAPPEBTI atau OJK ke depan bisa jadi acuan untuk melihat apakah pertumbuhan platform semacam ini merata di seluruh industri.",
+  "imageV": "muf2vukc"
+ },
+ {
   "slug": "mglv-rinci-jaminan-utang-rp10-75-t-ke-bni-untuk-nac-ngc",
   "category": "Aksi Korporasi",
   "title": "MGLV Rinci [Jaminan] Utang Rp10,75 T ke BNI untuk NAC-NGC",
@@ -107,6 +187,33 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "rupiah-melemah-ke-rp17-864-tertekan-lonjakan-harga-minyak",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.864, Tertekan Lonjakan Harga Minyak",
+  "deck": "Nilai tukar rupiah turun 0,26 persen dipicu lonjakan harga minyak akibat ketegangan Iran-AS dan ekspektasi kenaikan suku bunga The Fed.",
+  "image": "assets/img/rupiah-melemah-ke-rp17-864-tertekan-lonjakan-harga-minyak.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T09:55:21+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469033-rupiah-melemah-ke-rp17864-per-dolar-as-dipengaruhi-harga-minyak-yang-kembali-melonjak",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "harga minyak",
+   "The Fed"
+  ],
+  "body": [
+   "Rupiah dibuka melemah pada perdagangan Kamis (24/9/2026), turun 46 poin atau 0,26 persen ke level Rp17.864 per dolar AS dibandingkan penutupan sebelumnya di Rp17.818. Analis Doo Financial, Lukman Leong, menyebut pelemahan ini terutama dipicu oleh lonjakan harga minyak dunia setelah Iran meragukan kemajuan perundingan damai dengan Amerika Serikat.",
+   "Harga minyak West Texas Intermediate untuk pengiriman November naik 1,64 dolar AS atau 1,81 persen dan ditutup pada 92,16 dolar AS per barel di New York Mercantile Exchange. Minyak mentah Brent untuk pengiriman November bahkan melonjak 3,83 dolar AS atau 3,86 persen, ditutup di 103,08 dolar AS per barel di ICE Futures London.",
+   "Di sisi lain, dolar AS juga menguat seiring meningkatnya ekspektasi pasar bahwa bank sentral AS, The Fed, akan menaikkan suku bunga acuan dalam waktu dekat. Menurut Lukman, pasar kini memperkirakan probabilitas 70 persen kenaikan 0,25 persen pada Oktober, ditambah peluang lebih dari 50 persen untuk kenaikan susulan pada Desember.",
+   "Berdasarkan kombinasi faktor harga minyak dan ekspektasi suku bunga tersebut, Lukman memperkirakan rupiah akan bergerak di kisaran Rp17.800 hingga Rp17.950 per dolar AS dalam waktu dekat."
+  ],
+  "fotoAdegan": "Fuel tanker trucks queuing at a depot in Jakarta at dusk, workers checking pipeline hoses, industrial lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bddf204303e-ilustrasi-rupiah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pelemahan rupiah kali ini datang dari dua tekanan yang kebetulan muncul bersamaan: harga minyak dunia yang melonjak karena Iran meragukan perundingan damai dengan Amerika Serikat, dan dolar AS yang menguat karena pasar mulai memperhitungkan bank sentral AS bakal menaikkan suku bunga, bukan menurunkannya. Kenaikan harga minyak Brent hingga 3,86 persen dalam semalam berarti biaya bahan bakar impor berpotensi ikut naik, sehingga pihak yang paling dulu merasakan dampaknya adalah importir dan industri yang bergantung pada energi impor, sebelum akhirnya menjalar ke harga barang di tingkat konsumen. Analis menyebut pasar sudah memasang probabilitas 70 persen bank sentral AS menaikkan bunga acuan 0,25 persen pada Oktober, dan peluang lebih dari separuh untuk kenaikan susulan pada Desember, yang berarti tekanan pada rupiah kemungkinan belum berhenti di level saat ini. Ke depan ada dua hal terpisah yang perlu dicermati, yaitu apakah ketegangan Iran-AS soal perundingan damai mereda atau justru melebar, dan apakah bank sentral AS benar-benar menaikkan bunganya pada pertemuan Oktober seperti yang sudah diperkirakan pasar. Kisaran Rp17.800 sampai Rp17.950 per dolar yang disebut analis untuk hari ini bisa jadi patokan awal untuk melihat apakah tekanan ini mereda atau berlanjut.",
+  "imageV": "muf2vv92"
+ },
+ {
   "slug": "ppgl-komisaris-divestasi-175-8-juta-saham-hak-suara-nol",
   "category": "Aksi Korporasi",
   "title": "PPGL: Komisaris [Divestasi] 175,8 Juta Saham, Hak Suara Nol",
@@ -157,6 +264,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of small electric motorcycles parked in a dealership showroom, a technician checking a battery pack, bright afternoon light",
   "takeaway": "Transaksi ini netral bagi PMUI. Perusahaan memang melangkah ke sektor motor listrik yang sedang tumbuh, tapi statusnya cuma investor minoritas tanpa kendali di Green Scooter Indonesia, dan nilai transaksinya dalam rupiah tidak diungkap sehingga besar dampaknya ke kinerja PMUI sulit diukur pasar. Yang tersentuh adalah kas dan ekuitas PMUI, karena dana pembelian 34 persen saham itu keluar dari kas perusahaan sementara nilainya sengaja dijaga di bawah seperlima ekuitas agar tidak masuk kategori transaksi material yang perlu persetujuan pemegang saham. Karena ambang itu membuat PMUI tidak wajib menggelar RUPS atau memakai penilai independen, investor perlu menunggu laporan keuangan kuartal berikutnya untuk melihat bagaimana investasi ini dicatat dan apakah Green Scooter Indonesia mulai menyumbang hasil bagi PMUI.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-emas-antam-hari-ini-turun-jadi-rp2-605-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam Hari Ini [Turun] Jadi Rp2.605.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp25.000 jadi Rp2.605.000 per gram hari ini, sementara harga buyback ikut turun ke Rp2.435.000 per gram.",
+  "image": "assets/img/harga-emas-antam-hari-ini-turun-jadi-rp2-605-000-gram.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T09:32:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469025-harga-emas-antam-hari-ini-24-september-2026-turun-rp25000-jadi-rp2605000-per-gram",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam turun Rp25.000 per gram pada hari ini, 24 September 2026, dari Rp2.630.000 menjadi Rp2.605.000 per gram. Penurunan ini relevan bagi masyarakat yang menyimpan emas sebagai aset maupun yang berencana membeli atau mencairkan logam mulia, karena angka inilah yang menjadi acuan transaksi resmi hari ini.",
+   "Selain harga jual, harga buyback atau pembelian kembali oleh Antam juga ikut turun menjadi Rp2.435.000 per gram. Dengan begitu, selisih antara harga jual dan harga beli kembali saat ini sekitar Rp170.000 per gram, angka yang mencerminkan margin yang ditanggung pemilik emas jika menjual kembali batangannya ke Antam.",
+   "Data harga ini dihimpun dari laman resmi Logam Mulia milik Antam. Perusahaan mengingatkan bahwa harga emas batangan bisa berubah sewaktu-waktu, sehingga angka yang tercatat hari ini belum tentu sama dengan yang berlaku pada hari berikutnya."
+  ],
+  "fotoAdegan": "A jeweler weighing small gold bars on a digital scale inside a traditional gold shop, close-up angle",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini adalah harga jual emas Antam turun Rp25.000 jadi Rp2.605.000 per gram, sementara harga buyback ikut turun ke Rp2.435.000, sehingga selisih keduanya sekitar Rp170.000 per gram, itulah biaya yang mesti ditanggung kalau pemilik emas menjual balik ke Antam hari ini. Yang terdampak adalah pemegang emas batangan yang berencana mencairkan asetnya serta calon pembeli yang sedang mempertimbangkan waktu masuk. Data yang tersedia baru potret satu hari, tanpa perbandingan dengan harga emas dunia atau kurs rupiah yang biasanya ikut menggerakkan harga emas Antam, sehingga belum bisa disimpulkan apakah ini awal tren turun atau sekadar koreksi harian. Yang perlu dipantau adalah harga Antam pada hari-hari berikutnya untuk melihat apakah penurunan ini berlanjut atau justru berbalik naik.",
+  "imageV": "muf2vvq0"
  },
  {
   "slug": "mrat-direksi-beli-12-500-saham-senilai-rp4-5-juta",

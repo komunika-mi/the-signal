@@ -53,6 +53,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "bmas-koreksi-laporan-dana-rights-issue-rp1-7-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BMAS [koreksi] laporan dana rights issue Rp1,7 triliun",
+  "deck": "Bank Kasikorn Indonesia mengoreksi laporan realisasi dana rights issue 2022. Penyaluran kredit sudah tercapai penuh, sisa Rp106,3 miliar ditempatkan di SRBI.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "rights issue",
+   "penggunaan dana",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/712432df51_af31636748.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wsbp-paparkan-rencana-pulihkan-ekuitas-negatif-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Paparkan Rencana Pulihkan [Ekuitas] Negatif ke Bursa",
+  "deck": "WSBP mengajukan rencana pemulihan ekuitas negatif ke BEI, mulai dari konversi utang jadi saham hingga penagihan piutang macet lewat kejaksaan.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "Waskita Beton Precast",
+   "suspensi saham",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c044712698_4635a9c4fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wsbp-berpotensi-tunda-pembayaran-kupon-obligasi-i-dan-ii-2022",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Berpotensi Tunda Pembayaran [Kupon] Obligasi I dan II 2022",
+  "deck": "WSBP mengaku berpotensi menunda pembayaran kupon ke-8 obligasi I dan II 2022 yang jatuh tempo 25 September 2026 karena kas untuk bayar utang tidak mencukupi.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "obligasi",
+   "kupon obligasi",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4125638f5_bbaa639855.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pray-tak-ada-fakta-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "PRAY: Tak Ada [Fakta Material] di Balik Volatilitas Saham",
@@ -6457,54 +6505,6 @@ var ARTICLES = [
    "fasilitas kredit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/89d9ea36e4_b3ae84362d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "defi-jawab-bei-soal-volatilitas-buka-pintu-mitra-strategis",
-  "category": "Aksi Korporasi",
-  "title": "DEFI Jawab BEI soal Volatilitas, Buka Pintu [Mitra Strategis]",
-  "deck": "Danasupra Erapacific menjawab permintaan penjelasan BEI atas volatilitas sahamnya, menegaskan tidak ada informasi material baru namun membuka diri pada calon mitra strategis.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEFI",
-   "Danasupra Erapacific",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b87f0353a9_995b241da3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-1-24-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 1,24 juta saham",
-  "deck": "Edwin Soeryadjaya membeli tambahan 1,24 juta saham SRTG pada 16-17 September 2026 di harga Rp1.771 per saham, menaikkan hak suaranya tipis ke 35,9442 persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Saratoga Investama Sedaya",
-   "Edwin Soeryadjaya",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-4386-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lopi-sentra-amanah-ventura-jual-14-71-juta-saham-kendali-bertahan",
-  "category": "Aksi Korporasi",
-  "title": "LOPI: Sentra Amanah Ventura Jual 14,71 Juta Saham, [Kendali] Bertahan",
-  "deck": "Sentra Amanah Ventura melepas 14,71 juta saham LOPI dalam lima transaksi pada 8-17 September 2026, menurunkan hak suaranya dari 57,47 persen menjadi 56,14 persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LOPI",
-   "kepemilikan saham",
-   "Logisticsplus International",
-   "pemegang saham mayoritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-8647-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

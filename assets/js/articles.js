@@ -86,6 +86,85 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "bmas-koreksi-laporan-dana-rights-issue-rp1-7-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BMAS [koreksi] laporan dana rights issue Rp1,7 triliun",
+  "deck": "Bank Kasikorn Indonesia mengoreksi laporan realisasi dana rights issue 2022. Penyaluran kredit sudah tercapai penuh, sisa Rp106,3 miliar ditempatkan di SRBI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T20:25:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/712432df51_af31636748.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "rights issue",
+   "penggunaan dana",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS), yang dulu bernama PT Bank Maspion Indonesia Tbk, menyampaikan koreksi atas laporan realisasi penggunaan dana hasil penawaran umum terbatas dengan hak memesan efek terlebih dahulu (rights issue) II yang efektif sejak 10 November 2022. Koreksi ini menggantikan surat sebelumnya bernomor XXXVII/442/AA/SBY/07/2026 tertanggal 9 Juli 2026, dan disampaikan lewat surat baru bernomor XXXVII/762/AA/SBY/09/2026 yang ditandatangani secara elektronik oleh Head of Corporate Secretary Iwan Djayawasita pada 24 September 2026.",
+   "Dari total dana hasil rights issue sebesar Rp1.712.510.076.450, setelah dipotong biaya penawaran umum Rp5.002.287.215, hasil bersih yang diterima perseroan adalah Rp1.707.507.789.235. Per posisi 30 Juni 2026, perseroan telah merealisasikan penggunaan dana sebesar Rp1.601.203.895.915,58, sehingga tersisa Rp106.303.893.319,42 yang ditempatkan pada instrumen SRBI (Sekuritas Rupiah Bank Indonesia) berjangka waktu 3 bulan dengan imbal hasil 6,79 persen, pada pihak yang tidak terkait dengan perseroan.",
+   "Rincian per pos penggunaan dana menunjukkan penyaluran kredit sudah terealisasi penuh Rp1.109.880.063.002,75 atau 65 persen dari dana, sesuai rencana awal di prospektus. Investasi teknologi informasi baru terealisasi Rp375.821.468.992,48 atau 22,01 persen, di bawah rencana 25 persen, karena proyek TI masih dalam tahap persiapan oleh tim internal perseroan dan ditargetkan rampung kuartal IV 2026. Pengembangan sumber daya manusia terealisasi Rp56.924.495.119,35 atau 3,33 persen dari rencana 5 persen dengan target kuartal IV 2028, sementara pengembangan jaringan kantor baru mencapai Rp58.577.868.801 atau 3,43 persen dari rencana 5 persen karena pembayaran sewa dua gedung belum jatuh tempo, dengan target realisasi kuartal I 2029.",
+   "Dari sisi biaya penawaran umum sebesar Rp5.002.287.215, komponen terbesar adalah biaya jasa profesi penunjang pasar modal Rp2.185.325.000, biaya konsultasi keuangan Rp1.660.000.000, biaya lain-lain yang diatribusikan langsung sebagai biaya emisi Rp1.045.952.215, dan biaya jasa lembaga penunjang pasar modal Rp111.010.000. Perseroan mencatat biaya jasa penjaminan, penyelenggaraan, dan penjualan emisi sebesar nol."
+  ],
+  "fotoAdegan": "Bank branch interior with a teller assisting a customer at the counter, soft morning light, modern Jakarta office building",
+  "takeaway": "Laporan ini netral bagi BMAS. Pos inti bisnis bank, yaitu penyaluran kredit, sudah terealisasi penuh sebesar 65 persen dari dana rights issue sesuai rencana, sementara pos pendukung seperti investasi teknologi informasi dan pengembangan jaringan kantor baru terealisasi sebagian. Yang tersentuh di sini adalah arus kas dan efisiensi modal perseroan, karena dana Rp106,3 miliar yang belum terpakai tidak menganggur, melainkan ditempatkan di SRBI, semacam surat utang jangka pendek terbitan Bank Indonesia, dengan bunga 6,79 persen sehingga tetap menghasilkan pendapatan. Yang perlu dipantau berikutnya adalah realisasi investasi teknologi informasi yang ditargetkan rampung kuartal IV 2026, serta pengembangan jaringan kantor yang molor sampai kuartal I 2029 karena menunggu jatuh tempo sewa dua gedung, dua tenggat yang akan menentukan apakah sisa dana rights issue ini benar-benar habis terpakai sesuai rencana awal.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wsbp-paparkan-rencana-pulihkan-ekuitas-negatif-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Paparkan Rencana Pulihkan [Ekuitas] Negatif ke Bursa",
+  "deck": "WSBP mengajukan rencana pemulihan ekuitas negatif ke BEI, mulai dari konversi utang jadi saham hingga penagihan piutang macet lewat kejaksaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T20:09:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c044712698_4635a9c4fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "Waskita Beton Precast",
+   "suspensi saham",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Waskita Beton Precast Tbk (WSBP) menyampaikan rencana pemulihan kondisi penyebab suspensi kepada Bursa Efek Indonesia pada 24 September 2026, melalui surat bernomor 799/WBP/DIR/2026 yang ditandatangani Direktur Keuangan, HCM, dan Manajemen Risiko, Koento Wahyudiat. Saham WSBP disuspensi berdasarkan Ketentuan V.1 dan V.3.1 Peraturan Bursa Nomor I-X karena ekuitas perusahaan tercatat negatif pada laporan keuangan terakhir, artinya total kewajiban perusahaan sudah melampaui total asetnya.",
+   "Langkah pertama adalah melanjutkan konversi utang dagang menjadi saham untuk Kreditur Tranche D Perjanjian Perdamaian, sesuai persetujuan RUPSLB 30 Juni 2023. Sampai 31 Juli 2026, WSBP sudah mengonversi utang Rp1,55 triliun dengan menerbitkan 39,35 miliar saham baru, dan masih menyisakan Rp158,20 miliar utang yang ditargetkan tuntas dikonversi Juni 2027 lewat skema penerbitan saham baru tanpa lebih dulu ditawarkan ke pemegang saham lama (PMTHMETD). Langkah kedua menyangkut Obligasi Wajib Konversi (OWK), yaitu surat utang yang wajib diubah menjadi saham, senilai total Rp1,85 triliun yang diterbitkan 12 Desember 2023 untuk Kreditur Tranche C. Perseroan punya hak mengonversi OWK ini menjadi saham dalam waktu 10 tahun sejak penerbitan, yakni hingga 12 Desember 2033, dan akan memulai dengan menunjuk agen konversi serta melapor kesiapan ke wali amanat.",
+   "Rencana ketiga adalah memulihkan nilai piutang usaha dan persediaan yang sudah dicadangkan sebagai kerugian. Per 30 Juni 2026, WSBP membukukan cadangan kerugian atas piutang usaha senilai Rp1.652,1 miliar, terdiri dari Rp996,85 miliar piutang ke pihak berelasi dan Rp655,25 miliar ke pihak ketiga, ditambah cadangan kerugian persediaan Rp98,51 miliar, dengan target pemulihan pada 2027. Untuk piutang, perusahaan akan menempuh mediasi dan arbitrase dengan pelanggan serta bekerja sama dengan Kejaksaan Negeri Jakarta Timur menagih piutang macet, sementara untuk persediaan akan menawarkan stok barang jadi ke calon pelanggan dan memakai sisa bahan baku untuk proyek yang masih berjalan."
+  ],
+  "fotoAdegan": "Workers inspecting stacked precast concrete beams in an industrial casting yard under overcast daylight.",
+  "takeaway": "Rencana ini condong negatif bagi pemegang saham lama, karena jalan keluar dari ekuitas negatif ditempuh dengan mencetak saham baru dalam jumlah besar, bukan dengan menyuntik kas segar dari luar. Setiap konversi utang menjadi saham menambah jumlah saham beredar, seperti yang sudah terjadi lewat 39,35 miliar saham baru untuk melunasi Rp1,55 triliun utang; makin banyak saham beredar, makin kecil porsi kepemilikan investor lama dan makin tipis potensi laba yang bisa dibagi per lembar saham. Sisa pekerjaan pun masih panjang, sisa utang Rp158,20 miliar ditargetkan tuntas dikonversi Juni 2027, sementara hak konversi obligasi wajib konversi senilai Rp1,85 triliun baru jatuh tempo Desember 2033, sehingga tekanan pada ekuitas belum akan hilang dalam waktu dekat. Upaya menagih piutang macet Rp1,65 triliun, termasuk lewat kerja sama dengan Kejaksaan Negeri Jakarta Timur, dan menjual sisa persediaan Rp98,51 miliar juga baru berstatus upaya dengan target 2027, bukan kepastian hasil. Yang perlu dipantau berikutnya adalah realisasi konversi sisa Tranche D pada Juni 2027 dan perkembangan penagihan piutang bermasalah yang melibatkan kejaksaan, karena keduanya jadi penentu apakah suspensi bisa segera dicabut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wsbp-berpotensi-tunda-pembayaran-kupon-obligasi-i-dan-ii-2022",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Berpotensi Tunda Pembayaran [Kupon] Obligasi I dan II 2022",
+  "deck": "WSBP mengaku berpotensi menunda pembayaran kupon ke-8 obligasi I dan II 2022 yang jatuh tempo 25 September 2026 karena kas untuk bayar utang tidak mencukupi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T20:08:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4125638f5_bbaa639855.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "obligasi",
+   "kupon obligasi",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Waskita Beton Precast Tbk (WSBP) menyampaikan keterbukaan informasi ke Otoritas Jasa Keuangan bahwa perusahaan berpotensi menunda pembayaran kupon ke-8 atas Obligasi Waskita Beton Precast I dan Obligasi Wajib Konversi Waskita Beton Precast II Tahun 2022, yang jatuh tempo pada 25 September 2026. Besaran kupon ditetapkan 2 persen per tahun dari nilai pokok obligasi. PT Kustodian Sentral Efek Indonesia (KSEI) telah mengirim surat permintaan dana bunga obligasi untuk kedua seri ini pada 11 September 2026.",
+   "Menurut Direktur Keuangan, HCM, dan Manajemen Risiko WSBP, Koento Wahyudiat, potensi penundaan itu terjadi karena tekanan likuiditas akibat kenaikan harga material dan tidak tercapainya target kas masuk dari pelanggan, sehingga dana kas yang tersedia untuk membayar utang, atau CFADS, tidak mencukupi kebutuhan pembayaran kepada para kreditur, termasuk Kreditur Tranche A dan Tranche B dalam skema Perjanjian Perdamaian hasil restrukturisasi utang perusahaan tahun 2022. Berdasarkan Pasal 5.8 Perjanjian Perdamaian yang disahkan Pengadilan Niaga Jakarta Pusat dan dikuatkan Putusan Mahkamah Agung Nomor 1455 K/Pdt.Sus-Pailit/2022, ketidakcukupan CFADS ini secara hukum tidak dianggap sebagai gagal bayar. Perusahaan diberi waktu paling lambat 90 hari sejak tanggal jatuh tempo untuk memastikan ketersediaan dana, yang berarti tenggatnya jatuh sekitar 24 Desember 2026.",
+   "Untuk memenuhi kewajiban itu, WSBP menyebut sejumlah langkah: menjaga proses produksi tetap berjalan, menjalin komunikasi proaktif dengan pelanggan untuk mempercepat pencairan piutang, mengevaluasi opsi penyelesaian piutang termasuk upaya hukum atas tagihan yang sudah jatuh tempo, serta menjalankan program efisiensi biaya. Perseroan menyatakan akan berkoordinasi dengan wali amanat obligasi untuk menempuh langkah penyelesaian sesuai Perjanjian Perdamaian dan perjanjian perwaliamanatan obligasi."
+  ],
+  "fotoAdegan": "Workers moving precast concrete beams with an overhead crane inside an industrial factory yard, overcast daylight.",
+  "takeaway": "Laporan ini condong negatif bagi WSBP, karena perusahaan secara terbuka mengakui kas operasionalnya tidak cukup untuk membayar bunga obligasi yang jatuh tempo besok, 25 September 2026, sehingga berpotensi menunda pembayaran kupon ke-8 senilai 2 persen dari pokok obligasi. Yang tersentuh di sini adalah arus kas, tepatnya CFADS atau dana kas yang tersisa untuk melayani utang setelah kebutuhan operasional terpenuhi, ukuran yang penting bagi pemegang obligasi karena langsung menunjukkan kemampuan bayar perusahaan, bukan sekadar angka laba di atas kertas. Sinyal ini menambah tekanan pada emiten yang hari ini juga memaparkan rencana pemulihan ekuitas negatif ke bursa lewat penerbitan saham baru dalam jumlah besar. Yang perlu dipantau adalah batas waktu 90 hari sejak jatuh tempo yang diberikan Perjanjian Perdamaian, yang jatuh sekitar 24 Desember 2026, karena di situlah akan terlihat apakah WSBP berhasil mencairkan piutang pelanggan atau justru tergelincir dari kepatuhan pada perjanjian perdamaian pascarestrukturisasi utangnya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pray-tak-ada-fakta-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "PRAY: Tak Ada [Fakta Material] di Balik Volatilitas Saham",

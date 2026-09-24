@@ -39,6 +39,38 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "zone-bukukan-laba-rp27-8-miliar-utang-bank-turun-tajam",
+  "category": "Aksi Korporasi",
+  "title": "ZONE Bukukan [Laba] Rp27,8 Miliar, Utang Bank Turun Tajam",
+  "deck": "Laba bersih PT Mega Perintis (ZONE) melonjak 138 persen jadi Rp27,8 miliar pada semester I 2026, ditopang penjualan naik 35 persen dan pelunasan sebagian utang bank.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZONE",
+   "Mega Perintis",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260924142909-64419-0/FinancialStatement-2026-II-ZONE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apii-koreksi-laporan-keuangan-laba-pemegang-saham-turun-22-7",
+  "category": "Aksi Korporasi",
+  "title": "APII Koreksi Laporan Keuangan, [Laba Pemegang Saham] Turun 22,7%",
+  "deck": "Laporan keuangan interim semester I 2026 yang dikoreksi menunjukkan penjualan APII naik 9,5 persen, tapi laba untuk pemegang saham utama turun 22,7 persen.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APII",
+   "laporan keuangan",
+   "laba per saham",
+   "kepentingan nonpengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260924143012-64425-0/FinancialStatement-2026-II-APII.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mpro-ralat-realisasi-dana-ipo-alokasi-ke-simprug-bergeser",
   "category": "Aksi Korporasi",
   "title": "MPRO Ralat Realisasi Dana IPO, Alokasi ke [Simprug] Bergeser",
@@ -6471,38 +6503,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/137dd3de08_492856ca40.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smra-bantah-ada-info-material-di-tengah-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "SMRA Bantah Ada Info Material di Tengah [Volatilitas] Saham",
-  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, SMRA menyatakan tidak ada info material baru dan menyinggung kasus BPN Bogor yang diberitakan media.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMRA",
-   "Summarecon Agung",
-   "BEI",
-   "BPN Bogor"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abfb59b2b0_ea3b06eee4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "excl-panggil-rupslb-12-oktober-ganti-komisaris-vivek-sood",
-  "category": "Aksi Korporasi",
-  "title": "EXCL Panggil RUPSLB 12 Oktober, Ganti [Komisaris] Vivek Sood",
-  "deck": "XLSMART Telecom (EXCL) memanggil RUPSLB 12 Oktober 2026 untuk menyetujui pengunduran diri komisaris Vivek Sood dan pengangkatan Thomas Hundt sebagai penggantinya.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EXCL",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "XLSMART"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a8eff5b6b_ba15ac2bbb.pdf",
   "sourceLabel": "IDX"
  }
 ];

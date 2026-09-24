@@ -58,6 +58,58 @@ var ARTICLES = [
   "takeaway": "Yang konkret berubah dari rangkaian pertemuan ini adalah sejumlah kerangka kerja sama baru: ASEAN dan Inggris mengesahkan deklarasi kerja sama ekonomi 2026 dan memperbarui rencana kerja bersama, sementara ASEAN dan Rusia merampungkan program kerja sama dagang dan investasi untuk 2026 hingga 2035. Pihak yang paling terdampak adalah eksportir dan importir Indonesia yang berdagang dengan Inggris, Uni Eropa, dan Rusia, termasuk UMKM yang disebut jadi sasaran program kerja sama dengan Rusia. Pola yang terlihat adalah Indonesia memperbanyak jalur kerja sama dagang ke berbagai mitra sekaligus, kemungkinan sebagai cara menyebar risiko di tengah ketidakpastian ekonomi global, ketimbang bergantung pada satu atau dua mitra dagang besar. Namun kerangka-kerangka ini baru berupa kesepakatan payung, belum aturan teknis yang langsung berlaku, jadi yang perlu dipantau adalah apakah Prinsip Perdagangan Digital ASEAN-Uni Eropa yang masih difinalisasi benar rampung, dan apakah kerja sama dengan Rusia berkembang menjadi kesepakatan dagang yang bisa dipakai pelaku usaha, bukan sekadar seminar dan dialog seperti yang berjalan sejauh ini."
  },
  {
+  "slug": "zone-bukukan-laba-rp27-8-miliar-utang-bank-turun-tajam",
+  "category": "Aksi Korporasi",
+  "title": "ZONE Bukukan [Laba] Rp27,8 Miliar, Utang Bank Turun Tajam",
+  "deck": "Laba bersih PT Mega Perintis (ZONE) melonjak 138 persen jadi Rp27,8 miliar pada semester I 2026, ditopang penjualan naik 35 persen dan pelunasan sebagian utang bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T14:18:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260924142909-64419-0/FinancialStatement-2026-II-ZONE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZONE",
+  "tags": [
+   "ZONE",
+   "Mega Perintis",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Mega Perintis Tbk (ZONE) menyampaikan laporan keuangan konsolidasian interim untuk semester I 2026 yang merupakan koreksi atas penyampaian sebelumnya kepada Bursa Efek Indonesia. Perseroan membukukan penjualan bersih Rp545,5 miliar pada semester I 2026, naik 35,3 persen dari Rp403,1 miliar pada periode yang sama tahun lalu. Laba bersih tahun berjalan melonjak 138,3 persen menjadi Rp27,78 miliar dari Rp11,66 miliar, dengan laba usaha naik dari Rp26,6 miliar menjadi Rp50,2 miliar. Kenaikan laba ini turut ditopang oleh turunnya beban keuangan dari Rp12,67 miliar menjadi Rp9,71 miliar.",
+   "Perseroan juga menyampaikan keterbukaan informasi terpisah karena sejumlah pos di neraca berubah lebih dari 20 persen dibandingkan akhir 2025. Total liabilitas turun 28,8 persen dari Rp376,8 miliar menjadi Rp268,3 miliar, terutama karena pelunasan utang bank jangka pendek dari Rp137,6 miliar menjadi Rp81,1 miliar dan utang usaha yang turun dari Rp116,5 miliar menjadi Rp71,5 miliar. Total aset ikut menyusut 12 persen menjadi Rp670,1 miliar, seiring piutang usaha pihak ketiga yang turun dari Rp34,4 miliar menjadi Rp16,5 miliar karena pelanggan melunasi tagihannya. Sebaliknya, kas dan bank naik dari Rp4,75 miliar menjadi Rp6,7 miliar.",
+   "Arus kas dari aktivitas operasi naik lebih dari dua kali lipat menjadi Rp114,4 miliar, yang sebagian besar dipakai untuk membayar utang bank sebesar Rp62,1 miliar, liabilitas sewa Rp33,2 miliar, dan dividen tunai Rp10,44 miliar kepada pemegang saham. Total ekuitas perseroan naik tipis dari Rp384,4 miliar menjadi Rp401,8 miliar. Laporan ini ditandatangani oleh Direktur Utama Franxiscus Afat Adinata Nursalim dan Direktur sekaligus Sekretaris Perusahaan Luki Rusli."
+  ],
+  "fotoAdegan": "Rows of folded casual clothing stacked on shelves inside a busy garment warehouse, workers checking inventory boxes under bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi fundamental ZONE, karena laba bersihnya melonjak lebih dari dua kali lipat dan kenaikan itu dibarengi pelunasan utang bank dalam jumlah besar, bukan sekadar catatan di atas kertas. Yang paling terlihat adalah beban bunga, yaitu biaya yang dibayarkan perusahaan atas pinjamannya, yang turun karena utang bank jangka pendek berkurang signifikan, sekitar 41 persen, dalam enam bulan, sehingga porsi laba yang bisa dinikmati pemegang saham menjadi lebih besar. Arus kas dari kegiatan usaha sehari-hari, yang menunjukkan uang tunai yang benar-benar diterima perusahaan dan bukan sekadar angka piutang, juga naik lebih dari dua kali lipat menjadi Rp114,4 miliar sehingga mendukung klaim bahwa laba tersebut didukung uang kas nyata. Ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, tetap naik tipis meski perseroan membagikan dividen tunai Rp10,44 miliar kepada pemegang saham. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal III 2026, untuk melihat apakah tren pelunasan utang dan pertumbuhan penjualan ini masih berlanjut menjelang musim belanja akhir tahun.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "apii-koreksi-laporan-keuangan-laba-pemegang-saham-turun-22-7",
+  "category": "Aksi Korporasi",
+  "title": "APII Koreksi Laporan Keuangan, [Laba Pemegang Saham] Turun 22,7%",
+  "deck": "Laporan keuangan interim semester I 2026 yang dikoreksi menunjukkan penjualan APII naik 9,5 persen, tapi laba untuk pemegang saham utama turun 22,7 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T14:15:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260924143012-64425-0/FinancialStatement-2026-II-APII.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APII",
+  "tags": [
+   "APII",
+   "laporan keuangan",
+   "laba per saham",
+   "kepentingan nonpengendali"
+  ],
+  "body": [
+   "PT Arita Prima Indonesia Tbk (APII) menyampaikan koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026, melalui surat Corporate Secretary Muhammad Farras Zulna bertanggal 28 Juli 2026. Secara konsolidasian, penjualan bersih perusahaan penyedia valve dan produk terkait ini naik menjadi Rp185,25 miliar pada semester I 2026, dari Rp169,19 miliar pada periode yang sama tahun lalu. Laba usaha juga naik dari Rp17,87 miliar menjadi Rp21,37 miliar, dan laba bersih konsolidasian, yaitu yang sudah termasuk bagian milik pemegang saham nonpengendali di anak usaha, naik dari Rp10,96 miliar menjadi Rp11,87 miliar.",
+   "Namun laba yang benar-benar menjadi hak pemegang saham utama APII justru turun dari Rp10,83 miliar menjadi Rp8,37 miliar, atau turun sekitar 22,7 persen. Penyebabnya, porsi laba yang jatuh ke pemegang saham nonpengendali di anak usaha melonjak drastis dari Rp131,8 juta menjadi Rp3,51 miliar. Dengan jumlah saham beredar tetap di 1.075.760.000 lembar, laba per saham yang menjadi hak pemegang saham utama turun dari sekitar Rp10,1 menjadi sekitar Rp7,8 per lembar. Di sisi neraca, kas dan setara kas perusahaan naik dari Rp13,84 miliar menjadi Rp23,25 miliar, sementara utang bank jangka pendek turun dari Rp136,39 miliar menjadi Rp121,0 miliar. Total ekuitas naik dari Rp429,27 miliar menjadi Rp443,45 miliar, meski perusahaan juga membagikan dividen Rp4,30 miliar pada periode ini.",
+   "Dalam catatan perusahaan, APII kini memiliki 11 entitas anak, bertambah satu dari periode sebelumnya dengan masuknya PT Amanah Nusantara Sejahtera yang bergerak di perdagangan klep dan jasa konstruksi di Jakarta serta mulai beroperasi tahun 2026. Dua anak usaha lain, PT Internasional Multi Jaya Tekindo dan PT Internasional Multi Jaya Logam di Purwakarta, tercatat belum beroperasi sejak didirikan pada 2025."
+  ],
+  "fotoAdegan": "Warehouse technicians inspecting stacked industrial valves and pipe fittings on steel shelving, forklift passing in the background, bright warehouse lighting.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham utama APII, sebab meski penjualan dan laba operasional naik, laba yang benar-benar menjadi hak mereka malah turun 22,7 persen menjadi Rp8,37 miliar. Penyebabnya ada di pos kepentingan nonpengendali, yaitu bagian laba anak usaha yang menjadi hak pemilik saham minoritas di tingkat anak perusahaan, bukan hak pemegang saham APII di bursa. Karena laba per saham dihitung dari bagian yang jatuh ke pemegang saham utama, kenaikan tajam porsi nonpengendali ini otomatis menggerus laba per saham meski bisnis inti tumbuh. Di sisi lain, posisi kas yang menebal dan utang bank jangka pendek yang menyusut cukup memberi bantalan likuiditas bagi perusahaan. Yang perlu dipantau berikutnya adalah apakah porsi laba nonpengendali ini tetap besar di laporan kuartal III 2026, karena itu akan menentukan apakah penurunan laba per saham kali ini sementara atau berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "mpro-ralat-realisasi-dana-ipo-alokasi-ke-simprug-bergeser",
   "category": "Aksi Korporasi",
   "title": "MPRO Ralat Realisasi Dana IPO, Alokasi ke [Simprug] Bergeser",

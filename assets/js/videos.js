@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "yFRpQil4Ync",
+  "title": "RUU Pelindungan Ketenagakerjaan Ditargetkan Rampung Oktober 2026",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Utama",
+  "summary": "DPR menargetkan pembahasan RUU Pelindungan Ketenagakerjaan selesai pada Oktober 2026, di tengah aksi demonstrasi buruh yang menuntut perbaikan aturan ketenagakerjaan.",
+  "takeaway": "RUU ini berpotensi mengubah aturan hubungan kerja dan berdampak langsung pada pekerja maupun pelaku usaha.",
+  "terbit": "2026-09-24T14:07:54+00:00"
+ },
+ {
   "id": "B9eb6usHfZ0",
   "title": "Ekonom Senior: Rokok Ilegal Beri Pengaruh Negatif",
   "category": "Industri",

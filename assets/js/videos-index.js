@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "yFRpQil4Ync",
+  "title": "RUU Pelindungan Ketenagakerjaan Ditargetkan Rampung Oktober 2026",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Utama",
+  "summary": "DPR menargetkan pembahasan RUU Pelindungan Ketenagakerjaan selesai pada Oktober 2026, di tengah aksi demonstrasi buruh yang menuntut perbaikan aturan ketenagakerjaan.",
+  "takeaway": "RUU ini berpotensi mengubah aturan hubungan kerja dan berdampak langsung pada pekerja maupun pelaku usaha."
+ },
+ {
   "id": "B9eb6usHfZ0",
   "title": "Ekonom Senior: Rokok Ilegal Beri Pengaruh Negatif",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Purbaya Yudhi Sadewa resmi menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara. Purbaya mengaku baru mengetahui pergantian tersebut sehari sebelumnya.",
   "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan penting diikuti karena berkaitan langsung dengan arah kebijakan fiskal dan anggaran negara."
- },
- {
-  "id": "65S9SbOdB1w",
-  "title": "Kadin Sambut Baik Pergantian Menteri Keuangan",
-  "category": "Makroekonomi",
-  "program": "Kabar Utama",
-  "summary": "Kamar Dagang dan Industri Indonesia menyambut positif pelantikan Suahasil Nazara sebagai Menteri Keuangan yang baru.",
-  "takeaway": "Reaksi kalangan pelaku usaha terhadap pergantian Menteri Keuangan mencerminkan ekspektasi dunia bisnis terhadap kelanjutan kebijakan fiskal."
  }
 ];

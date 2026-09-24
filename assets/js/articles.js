@@ -55,7 +55,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang benar-benar baru dari acara ini adalah kepastian bahwa mulai Oktober 2026, Kartu Kredit Indonesia, semacam kartu pembayaran resmi untuk belanja pemerintah, bisa dipakai langsung di e-katalog, sistem tempat kementerian dan pemerintah daerah membeli barang dan jasa. Ini melanjutkan tren yang sudah berjalan: hampir semua pemerintah daerah, 94,9 persen, sudah punya sistem digital sendiri, dan pembayaran pajak daerah secara nontunai naik 10,6 persen dalam setahun. Yang terdampak langsung adalah dinas pemerintah yang berbelanja lewat e-katalog serta pelaku usaha, termasuk UMKM, yang menjadi mitra di katalog itu, karena cara mereka menerima pembayaran akan berubah. Arahnya mengarah ke digitalisasi penuh alur belanja pemerintah, bukan cuma penerimaan pajak, tapi belum ada aturan turunan yang menjelaskan detail teknisnya. Yang perlu dipantau adalah apakah integrasi KKI ke e-katalog benar terealisasi awal Oktober 2026 sesuai jadwal, mengingat proyek integrasi sistem pemerintah kerap molor dari rencana.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ri-genjot-ekspor-furnitur-kurangi-ketergantungan-ke-as",
@@ -83,7 +83,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret: pemerintah menjadikan pameran IFFINA+ sebagai instrumen untuk mendorong pelaku industri furnitur mencari pembeli di luar pasar tradisional, karena saat ini sekitar 60 persen ekspor furnitur nasional hanya bertumpu pada satu negara, Amerika Serikat, meski sektor ini sudah surplus dagang sejak 2021. Yang paling terdampak adalah pelaku usaha kecil dan menengah, sebab 99,79 persen dari total unit usaha industri furnitur berskala IKM dan menyerap sebagian besar tenaga kerja sektor ini, sehingga insentif seperti PPh Pasal 21 yang ditanggung pemerintah dan kredit khusus industri padat karya lebih menentukan nasib mereka dibanding perusahaan besar. Arahnya tampak menuju upaya mengurangi ketergantungan pada satu pasar ekspor di tengah gejolak dagang global, tapi langkah yang disebutkan sejauh ini baru sebatas insentif fiskal dan fasilitasi pameran, belum berupa perjanjian dagang baru yang mengikat. Yang akan menunjukkan apakah diversifikasi ini benar terjadi adalah data realisasi ekspor furnitur ke pasar non-AS pada laporan neraca dagang tahun 2026 mendatang.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "bmas-koreksi-laporan-dana-rights-issue-rp1-7-triliun",

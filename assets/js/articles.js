@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lppi-tawarkan-obligasi-rp1-triliun-dan-sukuk-rp676-63-miliar",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Tawarkan [Obligasi] Rp1 Triliun dan Sukuk Rp676,63 Miliar",
+  "deck": "LPPI merilis informasi tambahan penerbitan obligasi tahap IV senilai maksimal Rp1 triliun dan sukuk mudharabah maksimal Rp676,63 miliar, dengan bunga tetap 10-10,5 persen per tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T07:32:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/304c880728_e940ca23b5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Lontar Papyrus Pulp & Paper Industry (LPPI) menyampaikan perbaikan dan tambahan informasi terkait rencana penawaran umum Obligasi Berkelanjutan IV Tahap IV Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Tahap IV Tahun 2026, melanjutkan surat perusahaan tertanggal 10 September 2026. Penerbitan ini merupakan tahap keempat dari program obligasi berkelanjutan yang bertarget total Rp5 triliun dan program sukuk mudharabah berkelanjutan yang bertarget total Rp3 triliun, keduanya sudah efektif sejak 2 Desember 2025. Sebelum tahap ini, LPPI sudah menerbitkan tiga tahap yakni pada 2025 senilai Rp500 miliar untuk masing-masing instrumen, lalu pada 2026 senilai Rp1.048,98 miliar obligasi dan Rp1.551,33 miliar sukuk pada tahap kedua, serta Rp800,895 miliar obligasi dan Rp272,04 miliar sukuk pada tahap ketiga.",
+   "Untuk obligasi tahap IV, jumlah pokok yang ditawarkan sebanyak-banyaknya Rp1 triliun. Dari jumlah itu, Rp795,09 miliar dijamin penuh oleh penjamin emisi dan terbagi dalam dua seri, yaitu Seri A senilai Rp608,59 miliar dengan bunga tetap 10 persen per tahun selama tiga tahun, dan Seri B senilai Rp186,5 miliar dengan bunga tetap 10,5 persen per tahun selama lima tahun. Sisanya, sebanyak-banyaknya Rp204,91 miliar, hanya dijamin dengan upaya terbaik, artinya jika porsi ini tidak laku terjual, perusahaan tidak wajib menerbitkannya. Bunga dibayar setiap tiga bulan, dengan pembayaran pertama pada 30 Desember 2026, dan pelunasan pokok jatuh pada 30 September 2029 untuk Seri A serta 30 September 2031 untuk Seri B.",
+   "Untuk sukuk mudharabah tahap IV, dana yang ditawarkan sebanyak-banyaknya Rp676,63 miliar, dengan Rp502,765 miliar dijamin penuh. Seri A senilai Rp481,985 miliar memakai nisbah bagi hasil 14,62 persen dengan indikasi setara 10 persen per tahun selama tiga tahun, sementara Seri B senilai Rp20,78 miliar memakai nisbah 15,35 persen dengan indikasi setara 10,5 persen per tahun selama lima tahun. Sisa Rp173,865 miliar juga hanya dijamin dengan upaya terbaik. Baik obligasi maupun sukuk ini tidak dijamin dengan aset khusus milik perusahaan, sehingga kedudukan pemegangnya setara dengan kreditor lain yang tidak memiliki jaminan istimewa.",
+   "Masa penawaran umum berlangsung 24 hingga 25 September 2026, dengan tanggal penjatahan pada 28 September 2026, pengembalian uang pemesanan serta distribusi elektronik pada 30 September 2026, dan pencatatan di Bursa Efek Indonesia pada 1 Oktober 2026. Pefindo memberi peringkat idA untuk obligasi dan idA Syariah untuk sukuk. Wali amanat dalam penerbitan ini adalah PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk, sedangkan penjaminan emisi ditangani delapan sekuritas, yaitu Aldiracita Sekuritas Indonesia, BCA Sekuritas, BNI Sekuritas, Indo Premier Sekuritas, KB Valbury Sekuritas, Mandiri Sekuritas, Maybank Sekuritas Indonesia, dan Trimegah Sekuritas Indonesia."
+  ],
+  "fotoAdegan": "Wide industrial shot of a pulp and paper mill's steel stacks, pipes and conveyor structures under an overcast Sumatran sky, no visible text",
+  "takeaway": "Laporan ini cenderung netral karena sekadar melengkapi syarat administratif dari program obligasi dan sukuk yang sudah efektif sejak akhir 2025, bukan keputusan pendanaan baru, dan dokumen ini sendiri tidak merinci untuk apa dananya dipakai. Yang tersentuh adalah beban bunga perusahaan, sebab obligasi dan sukuk baru ini menambah kewajiban membayar bunga tetap 10 sampai 10,5 persen per tahun dari pokok yang bisa mencapai gabungan Rp1,68 triliun, dan karena tidak dijamin aset khusus, klaim pemegangnya sejajar dengan kreditor lain milik perusahaan. Pelaku pasar biasanya mencermati pos ini karena kenaikan beban bunga bisa menggerus laba bersih ke depan meski dana yang masuk juga menambah kas perusahaan. Yang perlu dipantau selanjutnya adalah tanggal penjatahan 28 September 2026, yang akan menunjukkan seberapa besar porsi best effort senilai Rp204,91 miliar obligasi dan Rp173,865 miliar sukuk benar-benar terserap pasar, serta pencatatan resmi di Bursa Efek Indonesia pada 1 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ruu-pelindungan-ketenagakerjaan-ditarget-sah-8-oktober-2026",
   "category": "Ketenagakerjaan",
   "title": "RUU Pelindungan Ketenagakerjaan Ditarget [Sah] 8 Oktober 2026",

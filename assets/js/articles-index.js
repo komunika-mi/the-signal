@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lppi-tawarkan-obligasi-rp1-triliun-dan-sukuk-rp676-63-miliar",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Tawarkan [Obligasi] Rp1 Triliun dan Sukuk Rp676,63 Miliar",
+  "deck": "LPPI merilis informasi tambahan penerbitan obligasi tahap IV senilai maksimal Rp1 triliun dan sukuk mudharabah maksimal Rp676,63 miliar, dengan bunga tetap 10-10,5 persen per tahun.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/304c880728_e940ca23b5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ruu-pelindungan-ketenagakerjaan-ditarget-sah-8-oktober-2026",
   "category": "Ketenagakerjaan",
   "title": "RUU Pelindungan Ketenagakerjaan Ditarget [Sah] 8 Oktober 2026",
@@ -6490,22 +6506,6 @@ var ARTICLES = [
    "Era Media Sejahtera"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9d270bc75_19935987bf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pmmp-kena-tambahan-kriteria-pemantauan-khusus-bei",
-  "category": "Aksi Korporasi",
-  "title": "PMMP Kena Tambahan Kriteria [Pemantauan Khusus] BEI",
-  "deck": "BEI menambahkan kriteria opini disclaimer pada status pemantauan khusus saham PMMP, menyusul harga di bawah Rp51 dan ekuitas negatif, efektif 18 September 2026.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PMMP",
-   "Pemantauan Khusus",
-   "BEI",
-   "Panca Mitra Multiperdana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23ea2c3ecc_89a68d6b05.pdf",
   "sourceLabel": "IDX"
  }
 ];

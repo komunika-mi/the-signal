@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-salurkan-67-pupuk-subsidi-jelang-tanam",
+  "category": "BUMN",
+  "title": "Pupuk Indonesia Salurkan [67%] Pupuk Subsidi Jelang Tanam",
+  "deck": "Hingga 16 September 2026, Pupuk Indonesia menyalurkan 6,64 juta ton pupuk subsidi atau 67 persen dari jatah 9,8 juta ton tahun ini, menjelang musim tanam Oktober-Maret.",
+  "date": "24 September 2026",
+  "image": "assets/img/pupuk-indonesia-salurkan-67-pupuk-subsidi-jelang-tanam.jpg",
+  "imageV": "muf8a6hd",
+  "tags": [
+   "pupuk subsidi",
+   "musim tanam",
+   "Pupuk Indonesia",
+   "BUMN"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/884/kesiapan-pasokan-pupuk-jelang-musim-tanam",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "asean-perkuat-kerja-sama-dagang-dengan-ue-inggris-rusia",
+  "category": "Global",
+  "title": "ASEAN [Perkuat] Kerja Sama Dagang dengan UE, Inggris, Rusia",
+  "deck": "Wakil Menteri Perdagangan Dyah Roro Esti mendorong penguatan kerja sama ekonomi ASEAN dengan Inggris, Uni Eropa, dan Rusia dalam pertemuan di Filipina, 17-22 September 2026.",
+  "date": "24 September 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "ASEAN",
+   "Kementerian Perdagangan",
+   "Uni Eropa",
+   "Rusia"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-penguatan-ketahanan-dan-daya-saing-ekonomi-kawasan-pada-rangkaian-pertemuan-asean-dengan-mitra",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "mpro-ralat-realisasi-dana-ipo-alokasi-ke-simprug-bergeser",
   "category": "Aksi Korporasi",
   "title": "MPRO Ralat Realisasi Dana IPO, Alokasi ke [Simprug] Bergeser",
@@ -19,6 +53,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8da9248489_db181d011c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "panas-bumi-kamojang-diolah-petani-jadi-pupuk-hemat-rp82-juta",
+  "category": "Energi",
+  "title": "Panas Bumi Kamojang Diolah Petani Jadi Pupuk, [Hemat] Rp82 Juta",
+  "deck": "Petani di Kamojang memanfaatkan uap panas bumi Pertamina untuk mempercepat pengeringan pupuk organik dari 14 hari jadi 12 jam, dan menekan biaya produksi hingga puluhan juta rupiah.",
+  "date": "24 September 2026",
+  "image": "assets/img/panas-bumi-kamojang-diolah-petani-jadi-pupuk-hemat-rp82-juta.jpg",
+  "imageV": "muf8a6zw",
+  "tags": [
+   "Pertamina Geothermal",
+   "Kamojang",
+   "Hari Tani Nasional",
+   "Pupuk Organik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469064-hari-tani-nasional-dari-energi-terbarukan-tumbuh-pangan-dan-kemandirian-petani"
+ },
+ {
+  "slug": "kapasitas-pelabuhan-naik-simpul-logistik-darat-perlu-dikuatkan",
+  "category": "Industri",
+  "title": "Kapasitas Pelabuhan Naik, Simpul [Logistik] Darat Perlu Dikuatkan",
+  "deck": "Peneliti UGM dan praktisi ITL Trisakti menilai percepatan bongkar muat di pelabuhan tak berdampak maksimal jika depo, gudang, jalan, dan sistem distribusi darat tak berkembang setara.",
+  "date": "24 September 2026",
+  "image": "assets/img/kapasitas-pelabuhan-naik-simpul-logistik-darat-perlu-dikuatkan.jpg",
+  "imageV": "muf8a7fl",
+  "tags": [
+   "pelabuhan",
+   "logistik",
+   "odol",
+   "pelayaran"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469059-kapasitas-pelabuhan-naik-ekosistem-logistik-darat-diperkuat"
  },
  {
   "slug": "hrta-panggil-rupslb-minta-restu-terbitkan-saham-dilusi-10",
@@ -417,7 +485,7 @@ var ARTICLES = [
   "title": "RI Dukung Reviu Perjanjian Dagang ASEAN-India [Rampung] 2026",
   "deck": "Wamendag Dyah Roro Esti menyatakan dukungan Indonesia agar reviu perjanjian dagang AITIGA dengan India rampung tahun ini, di sela pertemuan menteri ekonomi ASEAN-India di Filipina.",
   "date": "23 September 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "AITIGA",
    "ASEAN-India",
@@ -515,7 +583,7 @@ var ARTICLES = [
   "title": "FTA ASEAN-Kanada Ditarget [Rampung] Sebelum KTT ASEAN",
   "deck": "Indonesia mendorong ASEAN dan Kanada mempercepat perundingan FTA yang ditargetkan rampung sebelum KTT ASEAN awal November 2026, seiring lonjakan perdagangan dua arah kedua kawasan.",
   "date": "23 September 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "ACAFTA",
    "ASEAN-Kanada",
@@ -1695,7 +1763,7 @@ var ARTICLES = [
   "title": "RI Percepat Perjanjian Dagang [IEU-CEPA] dengan Uni Eropa",
   "deck": "Presiden Prabowo Subianto meminta penyelesaian kesepakatan dagang RI-Uni Eropa dipercepat, dengan target ratifikasi semester kedua 2026 dan berlaku awal 2027.",
   "date": "22 September 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -6436,71 +6504,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a8eff5b6b_ba15ac2bbb.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ptsn-jelaskan-ke-bursa-cara-penuhi-syarat-free-float",
-  "category": "Aksi Korporasi",
-  "title": "PTSN Jelaskan ke Bursa Cara Penuhi Syarat [Free Float]",
-  "deck": "Sat Nusapersada menjawab surat Bursa soal syarat minimum saham beredar publik, termasuk opsi mengalihkan sebagian saham Inditeck Technology Hong Kong yang menguasai 10 persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTSN",
-   "free float",
-   "Bursa Efek Indonesia",
-   "Sat Nusapersada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b193827690_18899ec2e7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mkpi-jadwalkan-rupslb-pada-27-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "MKPI Jadwalkan [RUPSLB] pada 27 Oktober 2026",
-  "deck": "Metropolitan Kentjana (MKPI) mengumumkan rencana RUPS Luar Biasa pada 27 Oktober 2026, dengan tanggal pencatatan pemegang saham 2 Oktober 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKPI",
-   "RUPSLB",
-   "Metropolitan Kentjana",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ad6338ec40_65f2b1dae2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ifii-bagikan-dividen-interim-rp5-per-saham-total-rp47-06-miliar",
-  "category": "Aksi Korporasi",
-  "title": "IFII Bagikan [Dividen] Interim Rp5 per Saham, Total Rp47,06 Miliar",
-  "deck": "Direksi IFII menetapkan dividen interim tahun buku 2026 sebesar Rp5 per saham senilai Rp47,06 miliar, dibayarkan 15 Oktober 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IFII",
-   "dividen interim",
-   "pasar modal",
-   "Indonesia Fibreboard Industry"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abd0c71411_8214a9a26c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-prabowo-minta-esdm-siapkan-program-e50-gantikan-bbm-impor",
-  "category": "Energi",
-  "title": "Presiden Prabowo Minta ESDM Siapkan Program [E50] Gantikan BBM Impor",
-  "deck": "Setelah program biodiesel B50, pemerintah mulai menyusun program bioetanol E50 untuk mengurangi impor BBM, sambil mendorong eksplorasi sumur baru dan optimalisasi 45.000 sumur tua migas.",
-  "date": "18 September 2026",
-  "image": "assets/img/presiden-prabowo-minta-esdm-siapkan-program-e50-gantikan-bbm-impor.jpg",
-  "imageV": "mu69mble",
-  "tags": [
-   "E50",
-   "BBM impor",
-   "sumur tua",
-   "BUK Migas"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/usai-b50-pemerintah-siapkan-e50-langkah-baru-kurangi-ketergantungan-bbm-impor",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

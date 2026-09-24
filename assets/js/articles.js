@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-salurkan-67-pupuk-subsidi-jelang-tanam",
+  "category": "BUMN",
+  "title": "Pupuk Indonesia Salurkan [67%] Pupuk Subsidi Jelang Tanam",
+  "deck": "Hingga 16 September 2026, Pupuk Indonesia menyalurkan 6,64 juta ton pupuk subsidi atau 67 persen dari jatah 9,8 juta ton tahun ini, menjelang musim tanam Oktober-Maret.",
+  "image": "assets/img/pupuk-indonesia-salurkan-67-pupuk-subsidi-jelang-tanam.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T07:42:42.931Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/884/kesiapan-pasokan-pupuk-jelang-musim-tanam",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "pupuk subsidi",
+   "musim tanam",
+   "Pupuk Indonesia",
+   "BUMN"
+  ],
+  "body": [
+   "PT Pupuk Indonesia (Persero) mencatat realisasi penyaluran pupuk bersubsidi sebanyak 6.636.460 ton per 16 September 2026, atau sekitar 67 persen dari total alokasi nasional tahun ini sebesar 9,8 juta ton. Angka ini penting karena menjadi salah satu indikator kesiapan pasokan pupuk menjelang musim tanam Oktober 2026 hingga Maret 2027, periode tanam utama bagi petani di berbagai daerah.",
+   "Dari alokasi 9,8 juta ton tahun ini, pemerintah mengalokasikan 9,55 juta ton untuk sektor pertanian dan 295.676 ton untuk sektor budi daya ikan. Dengan realisasi penyaluran baru mencapai 67 persen, masih ada sisa alokasi sekitar 3,16 juta ton yang perlu disalurkan untuk menutupi kebutuhan hingga akhir tahun, termasuk periode awal musim tanam yang biasanya membutuhkan pasokan pupuk dalam jumlah besar.",
+   "Sebagai penyangga, Pupuk Indonesia melaporkan stok pupuk sekitar 1,7 juta ton per 16 September 2026, terdiri dari 1,30 juta ton pupuk subsidi dan 454.731 ton pupuk nonsubsidi. Perusahaan juga menyebut kapasitas produksi terpasang sebesar 14,8 juta ton per tahun, namun secara eksplisit menyatakan angka tersebut adalah kapasitas, bukan realisasi produksi aktual hingga September 2026.",
+   "Untuk menjaga keandalan produksi, perusahaan menyebut tengah melakukan revitalisasi sejumlah fasilitas pabrik yang sudah berusia lama serta memakai sensor dan pemantauan berbasis data pada proses produksinya. Langkah ini disebut sebagai bagian dari upaya menjaga fasilitas tetap beroperasi normal menjelang periode permintaan tinggi pada musim tanam mendatang."
+  ],
+  "fotoAdegan": "Workers stacking sacks of fertilizer onto pallets inside a large warehouse, forklift nearby, morning light through open doors",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1847/conversions/IMG_0012-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Data yang diungkap menunjukkan penyaluran pupuk subsidi baru mencapai 67 persen dari jatah 9,8 juta ton tahun ini, dengan stok cadangan sekitar 1,7 juta ton menjelang musim tanam Oktober 2026 sampai Maret 2027. Yang langsung terdampak adalah petani penerima pupuk bersubsidi serta pembudi daya ikan yang kebagian jatah 295.676 ton dari alokasi tersebut. Sisa alokasi sekitar 3,16 juta ton harus mencukupi kebutuhan pada masa awal musim tanam, periode saat permintaan pupuk biasanya melonjak tajam, sementara angka produksi riil perusahaan tidak diungkap dan yang dipublikasikan hanya kapasitas terpasang 14,8 juta ton per tahun. Yang perlu dipantau adalah laporan realisasi penyaluran pada Oktober dan November, karena di situlah akan terlihat apakah stok saat ini cukup menahan lonjakan permintaan di awal musim tanam atau justru menipis lebih cepat dari perkiraan.",
+  "imageV": "muf8a6hd"
+ },
+ {
+  "slug": "asean-perkuat-kerja-sama-dagang-dengan-ue-inggris-rusia",
+  "category": "Global",
+  "title": "ASEAN [Perkuat] Kerja Sama Dagang dengan UE, Inggris, Rusia",
+  "deck": "Wakil Menteri Perdagangan Dyah Roro Esti mendorong penguatan kerja sama ekonomi ASEAN dengan Inggris, Uni Eropa, dan Rusia dalam pertemuan di Filipina, 17-22 September 2026.",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T07:38:37.116Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-penguatan-ketahanan-dan-daya-saing-ekonomi-kawasan-pada-rangkaian-pertemuan-asean-dengan-mitra",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ASEAN",
+   "Kementerian Perdagangan",
+   "Uni Eropa",
+   "Rusia"
+  ],
+  "body": [
+   "Indonesia melalui Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri mendorong penguatan kerja sama ekonomi ASEAN dengan sejumlah mitra dagang utama, termasuk Inggris, Uni Eropa, dan Rusia, dalam rangkaian Pertemuan Menteri Ekonomi ASEAN di Pasay City, Filipina, pada 17 hingga 22 September 2026. Dorongan ini disampaikan di tengah ketidakpastian ekonomi global, dengan fokus pada ketahanan energi dan pangan, diversifikasi rantai pasok, transformasi digital, serta pelibatan usaha mikro, kecil, dan menengah. Bagi pelaku usaha Indonesia yang berdagang dengan kawasan-kawasan tersebut, arah kerja sama ini akan menentukan kemudahan akses pasar dan aturan dagang ke depan.",
+   "Dalam pertemuan Menteri Ekonomi KTT Asia Timur pada 21 September, Indonesia menekankan pentingnya kolaborasi negara-negara Asia Timur memperkuat ketahanan energi dan pangan serta membangun rantai pasok yang lebih terdiversifikasi. Indonesia mendorong pemanfaatan kerangka kerja ASEAN yang sudah ada, seperti Perjanjian Perdagangan Barang ASEAN dan Perjanjian Kerangka Ekonomi Digital, untuk memperkuat ketahanan kolektif kawasan di tengah meningkatnya kebutuhan energi akibat digitalisasi dan pusat data.",
+   "Dengan Inggris, ASEAN mengesahkan Deklarasi Bersama Kerja Sama Ekonomi Masa Depan 2026 dan memperbarui rencana kerja ekonomi bersama. Nilai perdagangan barang dan jasa ASEAN-Inggris pada 2025 tercatat £62 miliar, naik 17,4 persen dibandingkan 2024. Dengan Uni Eropa, perdagangan barang dua arah pada 2025 mencapai US$318,8 miliar, sementara investasi Uni Eropa ke ASEAN tercatat US$31,3 miliar, menjadikan Uni Eropa mitra dagang terbesar ketiga dan sumber investasi asing terbesar ASEAN. Kedua pihak juga tengah merampungkan Prinsip Perdagangan Digital ASEAN-Uni Eropa, menjelang peringatan 50 tahun hubungan kedua kawasan pada 2027.",
+   "Dengan Rusia, ASEAN merampungkan Program Strategis Kerja Sama Dagang dan Investasi untuk periode 2026-2035, yang menyasar sektor investasi, fasilitasi perdagangan, ketahanan energi, pertambangan, transformasi digital, dan pengembangan sumber daya manusia. ASEAN juga mendukung program kerja sama dengan Komisi Ekonomi Eurasia untuk periode 2026-2030, yang sejauh ini terwujud dalam bentuk seminar, dialog, dan pengembangan kapasitas bagi pelaku UMKM."
+  ],
+  "fotoAdegan": "Cargo containers stacked at a busy Indonesian seaport, cranes loading a container ship, overcast morning sky",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang konkret berubah dari rangkaian pertemuan ini adalah sejumlah kerangka kerja sama baru: ASEAN dan Inggris mengesahkan deklarasi kerja sama ekonomi 2026 dan memperbarui rencana kerja bersama, sementara ASEAN dan Rusia merampungkan program kerja sama dagang dan investasi untuk 2026 hingga 2035. Pihak yang paling terdampak adalah eksportir dan importir Indonesia yang berdagang dengan Inggris, Uni Eropa, dan Rusia, termasuk UMKM yang disebut jadi sasaran program kerja sama dengan Rusia. Pola yang terlihat adalah Indonesia memperbanyak jalur kerja sama dagang ke berbagai mitra sekaligus, kemungkinan sebagai cara menyebar risiko di tengah ketidakpastian ekonomi global, ketimbang bergantung pada satu atau dua mitra dagang besar. Namun kerangka-kerangka ini baru berupa kesepakatan payung, belum aturan teknis yang langsung berlaku, jadi yang perlu dipantau adalah apakah Prinsip Perdagangan Digital ASEAN-Uni Eropa yang masih difinalisasi benar rampung, dan apakah kerja sama dengan Rusia berkembang menjadi kesepakatan dagang yang bisa dipakai pelaku usaha, bukan sekadar seminar dan dialog seperti yang berjalan sejauh ini."
+ },
+ {
   "slug": "mpro-ralat-realisasi-dana-ipo-alokasi-ke-simprug-bergeser",
   "category": "Aksi Korporasi",
   "title": "MPRO Ralat Realisasi Dana IPO, Alokasi ke [Simprug] Bergeser",
@@ -27,6 +82,59 @@ var ARTICLES = [
   "fotoAdegan": "Construction workers on scaffolding at a high rise apartment tower building site in Jakarta, overcast afternoon light",
   "takeaway": "Laporan koreksi ini condong negatif bagi MPRO, sebab pergeseran drastis alokasi dana IPO dari proyek andalan Simprug Signature ke modal kerja operasional mengindikasikan proyek utama yang dijanjikan ke investor sejak 2018 itu tertahan, sementara dana lebih banyak dipakai menambal kebutuhan kas sehari hari. Yang tersentuh di sini adalah arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena dana yang semestinya membangun proyek malah menganggur sebagai kas berbunga 0 persen atau habis untuk modal kerja, sehingga tidak menghasilkan aset produktif baru. Pelaku pasar mencermati ini karena laporan MPRO pekan lalu mencatat rugi Rp16,2 miliar dengan kas hanya Rp5 miliar, sehingga sisa dana IPO Rp4,01 miliar yang masih mengendap ternyata menjadi bagian penting dari kas perseroan saat ini, bukan murni kas hasil operasional. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana periode selanjutnya, yang wajib disampaikan sesuai POJK 30/2015, untuk melihat apakah sisa dana itu akhirnya benar dialirkan ke Proyek Simprug Signature atau terus tergerus untuk menutup modal kerja.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "panas-bumi-kamojang-diolah-petani-jadi-pupuk-hemat-rp82-juta",
+  "category": "Energi",
+  "title": "Panas Bumi Kamojang Diolah Petani Jadi Pupuk, [Hemat] Rp82 Juta",
+  "deck": "Petani di Kamojang memanfaatkan uap panas bumi Pertamina untuk mempercepat pengeringan pupuk organik dari 14 hari jadi 12 jam, dan menekan biaya produksi hingga puluhan juta rupiah.",
+  "image": "assets/img/panas-bumi-kamojang-diolah-petani-jadi-pupuk-hemat-rp82-juta.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T12:47:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469064-hari-tani-nasional-dari-energi-terbarukan-tumbuh-pangan-dan-kemandirian-petani",
+  "tags": [
+   "Pertamina Geothermal",
+   "Kamojang",
+   "Hari Tani Nasional",
+   "Pupuk Organik"
+  ],
+  "body": [
+   "Di lereng pegunungan Kamojang, Kabupaten Bandung, panas bumi tidak hanya diolah menjadi listrik. Kelompok Tani Hutan Cikondang bersama PT Pertamina Geothermal Energy Area Kamojang memanfaatkan uap sisa dari sumur panas bumi untuk membantu petani mengolah limbah organik menjadi pupuk, merawat tanah, hingga menopang hasil panen.",
+   "Selama ini petani di kawasan tersebut menghadapi kendala cuaca lembap dengan curah hujan tinggi yang membuat pengeringan pupuk organik secara konvensional memakan waktu hingga 14 hari. Di sisi lain, pasokan pupuk bersubsidi terbatas sementara harga pupuk kimia terus naik, sehingga biaya produksi pertanian tertekan.",
+   "Dari kondisi itu lahir GeO-Fert, pupuk organik yang proses pengeringannya memanfaatkan uap panas bumi bersuhu sekitar 60 hingga 70 derajat Celsius melalui program Desa Energi Berdikari Kanyaah. Dengan cara ini, waktu pengeringan yang semula 14 hari bisa dipangkas menjadi sekitar 12 jam. Hingga 2026, sekitar 600 ton limbah organik telah diolah menjadi 300 ton pupuk GeO-Fert, yang sudah diaplikasikan pada 15 hektare lahan dan menjangkau sekitar 950 petani.",
+   "Dalam kegiatan panen bertajuk HAREPAN, lahan yang memakai pupuk GeO-Fert menghasilkan sekitar 15 ton kentang dan 40 ton kol, dengan penghematan biaya produksi mencapai sekitar Rp82 juta. \"Bagi kami, yang paling penting bukan hanya bisa membuat pupuk sendiri, tetapi bagaimana pupuk ini kembali ke tanah dan menghasilkan panen. Dari sesuatu yang sebelumnya dianggap limbah, sekarang bisa memberikan manfaat untuk pertanian dan petani,\" kata Hendro Gunawan, Local Hero KTH Cikondang. Vice President Corporate Communication Pertamina Muhammad Baron menyebut Hari Tani Nasional sebagai momentum untuk mendorong inovasi yang memperkuat produktivitas dan kemandirian petani."
+  ],
+  "fotoAdegan": "Farmers spreading dark organic compost onto terraced vegetable fields near steaming geothermal pipelines in misty highland terrain",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/24/6ab4b891a6afb-dari-lereng-pegunungan-kamojang-kabupaten-bandung-jawa-barat-panas-bumi-tak-hanya-dimanfaatkan-sebagai-sumber-energi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah proses produksi pupuk organik: dengan uap sisa dari sumur panas bumi bersuhu 60 hingga 70 derajat Celsius, waktu pengeringan yang tadinya 14 hari kini bisa dipangkas jadi sekitar 12 jam, sehingga sampai 2026 sudah 600 ton limbah organik diolah menjadi 300 ton pupuk untuk sekitar 950 petani di 15 hektare lahan. Yang terdampak langsung adalah petani sayuran di sekitar wilayah kerja panas bumi Kamojang, terutama anggota Kelompok Tani Hutan Cikondang yang selama ini bergantung pada pupuk kimia mahal atau pupuk subsidi yang terbatas jumlahnya. Pola ini menunjukkan arah pemanfaatan panas bumi yang mulai meluas dari sekadar pembangkit listrik menjadi sumber energi panas langsung untuk kebutuhan produksi masyarakat di sekitar area kerja, model yang bisa memperkuat hubungan perusahaan dengan warga sekitar sumur panas bumi. Yang belum terjawab dari berita ini adalah apakah pola serupa akan direplikasi di wilayah kerja panas bumi Pertamina lain, dan seberapa besar rencana perluasan program Desa Energi Berdikari ke depan.",
+  "imageV": "muf8a6zw"
+ },
+ {
+  "slug": "kapasitas-pelabuhan-naik-simpul-logistik-darat-perlu-dikuatkan",
+  "category": "Industri",
+  "title": "Kapasitas Pelabuhan Naik, Simpul [Logistik] Darat Perlu Dikuatkan",
+  "deck": "Peneliti UGM dan praktisi ITL Trisakti menilai percepatan bongkar muat di pelabuhan tak berdampak maksimal jika depo, gudang, jalan, dan sistem distribusi darat tak berkembang setara.",
+  "image": "assets/img/kapasitas-pelabuhan-naik-simpul-logistik-darat-perlu-dikuatkan.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T12:24:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469059-kapasitas-pelabuhan-naik-ekosistem-logistik-darat-diperkuat",
+  "tags": [
+   "pelabuhan",
+   "logistik",
+   "odol",
+   "pelayaran"
+  ],
+  "body": [
+   "Kapasitas bongkar muat pelabuhan peti kemas di Indonesia terus membaik, tetapi kalangan akademisi dan praktisi logistik mengingatkan bahwa perbaikan itu bisa sia-sia kalau sisi darat tidak ikut dibenahi. Kalau depo, gudang, dan jalan tidak berkembang secepat pelabuhan, titik macet dalam rantai distribusi hanya berpindah tempat, bukan hilang. Persoalan ini penting bagi pelaku usaha yang bergantung pada arus kontainer, sebab kecepatan barang keluar dari pelabuhan menentukan biaya dan waktu pengiriman.",
+   "Peneliti Pusat Studi Transportasi dan Logistik UGM, Kuncoro Harto Widodo, mengatakan volume peti kemas nasional tumbuh positif dalam lima tahun terakhir sehingga keterhubungan antarsimpul logistik menjadi makin krusial. Ia mendorong integrasi data antara terminal pelabuhan, perusahaan pelayaran, depo, perusahaan angkutan truk, kawasan industri, dan pemerintah, lewat sistem National Logistics Ecosystem atau NLE, semacam platform data bersama yang menyatukan informasi logistik lintas pihak. Menurutnya, idealnya aliran informasi soal pergerakan barang bisa tersedia lebih dulu sebelum barangnya sendiri bergerak. Ia juga mendorong pengembangan angkutan barang berbasis kereta api sebagai alternatif menuju pelabuhan, yang sekaligus bisa membantu menekan truk over dimension over load atau ODOL, yakni truk yang muatan atau ukurannya melebihi batas yang diizinkan di jalan raya.",
+   "Praktisi kepelabuhanan dari Institut Transportasi dan Logistik Trisakti, Wahyono Bimarso, menambahkan bahwa terminal peti kemas Indonesia sebenarnya sudah memenuhi standar internasional. Masalah utama justru muncul setelah kontainer keluar dari area pelabuhan, karena kecepatan bongkar muat tidak banyak berarti apabila depo, gudang, jalan, dan sistem distribusi di darat tidak berkembang dengan laju yang sama."
+  ],
+  "fotoAdegan": "Heavy cargo trucks lined up on an access road leading to a container port, stacked containers and gantry cranes visible, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/24/6ab4b2ee1b13e-kapasitas-pelabuhan-naik_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Berita ini bukan soal kebijakan baru, melainkan desakan dari peneliti UGM dan praktisi ITL Trisakti agar penguatan kapasitas bongkar muat pelabuhan dibarengi perbaikan di sisi darat, mulai dari depo dan gudang, integrasi data lewat NLE yang menyambungkan terminal, perusahaan pelayaran, trucking, dan kawasan industri, sampai pengembangan angkutan kereta barang yang disebut bisa membantu menekan truk ODOL di jalan raya. Pihak yang langsung terdampak adalah operator pelabuhan dan perusahaan pelayaran yang sudah berinvestasi mempercepat bongkar muat, sebab hasilnya bisa tidak maksimal kalau kontainer keluar pelabuhan lalu tertahan di jalur darat, dan efeknya menjalar ke kawasan industri serta eksportir yang bergantung pada rantai pasok berbasis kontainer. Beritanya sendiri tidak menyebut angka pasti pertumbuhan peti kemas, hanya disebut tumbuh positif dalam lima tahun terakhir, dan tidak ada tenggat atau target waktu kapan integrasi data NLE atau pengembangan jalur kereta ke pelabuhan itu akan direalisasikan. Yang perlu dipantau adalah apakah pemerintah atau operator pelabuhan merilis rencana konkret, misalnya jadwal proyek jalur kereta barang ke pelabuhan atau target cakupan NLE, karena tanpa itu desakan ini masih sebatas rekomendasi akademisi dan praktisi, belum jadi arah kebijakan yang pasti.",
+  "imageV": "muf8a7fl"
  },
  {
   "slug": "hrta-panggil-rupslb-minta-restu-terbitkan-saham-dilusi-10",
@@ -662,7 +770,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI Dukung Reviu Perjanjian Dagang ASEAN-India [Rampung] 2026",
   "deck": "Wamendag Dyah Roro Esti menyatakan dukungan Indonesia agar reviu perjanjian dagang AITIGA dengan India rampung tahun ini, di sela pertemuan menteri ekonomi ASEAN-India di Filipina.",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "23 September 2026",
   "isoDate": "2026-09-23T14:15:43.446Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-konsultasi-ke-23-aem-india-indonesia-dukung-penyelesaian-aitiga-reviu-di-2026",
@@ -821,7 +929,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "FTA ASEAN-Kanada Ditarget [Rampung] Sebelum KTT ASEAN",
   "deck": "Indonesia mendorong ASEAN dan Kanada mempercepat perundingan FTA yang ditargetkan rampung sebelum KTT ASEAN awal November 2026, seiring lonjakan perdagangan dua arah kedua kawasan.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "date": "23 September 2026",
   "isoDate": "2026-09-23T13:40:44.409Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-percepatan-penyelesaian-perundingan-asean-canada-fta",
@@ -2726,7 +2834,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI Percepat Perjanjian Dagang [IEU-CEPA] dengan Uni Eropa",
   "deck": "Presiden Prabowo Subianto meminta penyelesaian kesepakatan dagang RI-Uni Eropa dipercepat, dengan target ratifikasi semester kedua 2026 dan berlaku awal 2027.",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "22 September 2026",
   "isoDate": "2026-09-22T15:13:36.929Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7108/menko-airlangga-penyelesaian-ieu-cepa-dipacu-untuk-perluas-akses-pasar-eropa",
@@ -13275,7 +13383,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI-Kanada Genjot [Implementasi] ICA-CEPA Akhir 2026",
   "deck": "Menko Airlangga dan Menteri Perdagangan Kanada membahas persiapan implementasi ICA-CEPA, perjanjian dagang yang ditargetkan berjalan akhir 2026.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "date": "16 September 2026",
   "isoDate": "2026-09-16T05:08:42.388Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7096/bertemu-menteri-perdagangan-internasional-kanada-menko-airlangga-dorong-percepatan-implementasi-ica-cepa",
@@ -13619,7 +13727,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "ICA-CEPA [Diratifikasi], Kanada Pangkas Tarif 90% Produk RI",
   "deck": "Indonesia dan Kanada resmi meratifikasi ICA-CEPA, perjanjian dagang bilateral pertama Kanada dengan ASEAN, yang akan memangkas tarif pada lebih dari 90 persen produk kedua negara.",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "date": "16 September 2026",
   "isoDate": "2026-09-15T17:41:56.461Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7095/menko-airlangga-ajak-pelaku-usaha-asean-kanada-manfaatkan-implementasi-ica-cepa-dengan-maksimal",
@@ -14759,7 +14867,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Menaker: AI di Tempat Kerja Harus [Naikkan] Produktivitas",
   "deck": "Menaker Yassierli menyebut AI yang sekadar jadi asisten kerja hanya menaikkan produktivitas sekitar 5 persen, sementara perombakan proses kerja bisa mendongkraknya sampai 40 persen.",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "date": "15 September 2026",
   "isoDate": "2026-09-15T09:09:13.234Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-adopsi-ai-harus-berorientasi-pada-manusia-dan-tingkatkan-produktivitas",
@@ -15782,7 +15890,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "UU PPRT [Atur] Hak dan Kewajiban Pekerja Rumah Tangga",
   "deck": "UU Nomor 2 Tahun 2026 memberi payung hukum bagi pekerja rumah tangga, mengatur upah, jam kerja, THR, jaminan sosial, hingga cara penyelesaian sengketa dengan majikan.",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "date": "15 September 2026",
   "isoDate": "2026-09-14T23:55:30.554Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-uu-pprt-perjelas-hak-dan-kewajiban-pekerja-rumah-tangga",
@@ -15809,7 +15917,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "RUU Ketenagakerjaan Masuk Tahap [Panja] di DPR",
   "deck": "Pemerintah menyerahkan Daftar Inventarisasi Masalah RUU Pelindungan Ketenagakerjaan ke DPR, Komisi IX bentuk Panja lanjutkan pembahasan.",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
   "date": "15 September 2026",
   "isoDate": "2026-09-14T23:55:27.299Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/pemerintah-serahkan-dim-ruu-pelindungan-ketenagakerjaan-kepada-dpr",

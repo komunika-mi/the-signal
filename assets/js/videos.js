@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "B9eb6usHfZ0",
+  "title": "Ekonom Senior: Rokok Ilegal Beri Pengaruh Negatif",
+  "category": "Industri",
+  "program": "IBF",
+  "summary": "Ekonom senior menyoroti dampak negatif peredaran rokok ilegal terhadap industri hasil tembakau, yang menyumbang sekitar Rp200 triliun penerimaan negara dan menyerap lebih dari 440 ribu tenaga kerja.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut penerimaan negara dari cukai dan lapangan kerja di industri tembakau.",
+  "terbit": "2026-09-24T13:00:16+00:00"
+ },
+ {
+  "id": "b5NJrhv0Qws",
+  "title": "DEN Minta Penindakan Non-Cukai untuk Tekan Rokok Ilegal",
+  "category": "Industri",
+  "program": "IBF",
+  "summary": "DEN menyebut peredaran rokok legal terus turun sementara rokok ilegal justru naik, sehingga penindakan di luar jalur cukai dinilai perlu diperkuat untuk menjaga industri tembakau.",
+  "takeaway": "Menyangkut kebijakan pengawasan industri tembakau yang berpengaruh langsung pada penerimaan cukai negara.",
+  "terbit": "2026-09-24T12:30:14+00:00"
+ },
+ {
   "id": "sQQV104S7mQ",
   "title": "Rokok Ilegal Tekan Industri Rokok Legal",
   "category": "Industri",

@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "B9eb6usHfZ0",
+  "title": "Ekonom Senior: Rokok Ilegal Beri Pengaruh Negatif",
+  "category": "Industri",
+  "program": "IBF",
+  "summary": "Ekonom senior menyoroti dampak negatif peredaran rokok ilegal terhadap industri hasil tembakau, yang menyumbang sekitar Rp200 triliun penerimaan negara dan menyerap lebih dari 440 ribu tenaga kerja.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut penerimaan negara dari cukai dan lapangan kerja di industri tembakau."
+ },
+ {
+  "id": "b5NJrhv0Qws",
+  "title": "DEN Minta Penindakan Non-Cukai untuk Tekan Rokok Ilegal",
+  "category": "Industri",
+  "program": "IBF",
+  "summary": "DEN menyebut peredaran rokok legal terus turun sementara rokok ilegal justru naik, sehingga penindakan di luar jalur cukai dinilai perlu diperkuat untuk menjaga industri tembakau.",
+  "takeaway": "Menyangkut kebijakan pengawasan industri tembakau yang berpengaruh langsung pada penerimaan cukai negara."
+ },
+ {
   "id": "sQQV104S7mQ",
   "title": "Rokok Ilegal Tekan Industri Rokok Legal",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Kamar Dagang dan Industri Indonesia menyambut positif pelantikan Suahasil Nazara sebagai Menteri Keuangan yang baru.",
   "takeaway": "Reaksi kalangan pelaku usaha terhadap pergantian Menteri Keuangan mencerminkan ekspektasi dunia bisnis terhadap kelanjutan kebijakan fiskal."
- },
- {
-  "id": "X4lX10AGJfk",
-  "title": "Antrean Panjang di SPBU Jeneponto akibat Kelangkaan Pertalite",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Kelangkaan BBM jenis Pertalite di Kabupaten Jeneponto, Sulawesi Selatan, membuat antrean kendaraan di sejumlah SPBU mengular hingga ratusan meter dan mengganggu aktivitas masyarakat.",
-  "takeaway": "Gangguan pasokan BBM bersubsidi di daerah menunjukkan persoalan distribusi energi yang berdampak langsung pada roda ekonomi masyarakat setempat."
- },
- {
-  "id": "YsZNB9UrGPM",
-  "title": "Kelangkaan Solar di Lampung, Pemprov Usulkan Tambahan Kuota",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Antrean Biosolar kembali mengular di sejumlah SPBU Lampung. Sopir truk dan angkutan harus menunggu berjam-jam, sementara Pemprov Lampung mengusulkan penambahan kuota solar bersubsidi.",
-  "takeaway": "Kelangkaan solar bersubsidi berpotensi mengganggu kelancaran distribusi logistik dan menambah beban biaya operasional sektor transportasi."
  }
 ];

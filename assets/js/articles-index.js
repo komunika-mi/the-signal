@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kecelakaan-kerja-turun-drastis-kemnaker-dorong-higiene-industri",
+  "category": "Ketenagakerjaan",
+  "title": "Kecelakaan Kerja [Turun] Drastis, Kemnaker Dorong Higiene Industri",
+  "deck": "Data BPJS Ketenagakerjaan menunjukkan kasus kecelakaan kerja turun jadi 319.224 pada 2025, Wamenaker Afriansyah Noor dorong penerapan higiene industri di tempat kerja.",
+  "date": "24 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "K3",
+   "Kecelakaan Kerja",
+   "Kemnaker",
+   "Higiene Industri"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/wamenaker-higiene-industri-penting-cegah-kecelakaan-kerja",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "transaksi-nontunai-pemda-rp165-triliun-kki-meluas-ke-e-katalog",
+  "category": "Teknologi",
+  "title": "Transaksi Nontunai Pemda Rp165 Triliun, KKI Meluas ke [E-Katalog]",
+  "deck": "Kartu Kredit Indonesia bisa dipakai di e-katalog nasional mulai Oktober 2026, seiring transaksi nontunai pemerintah daerah tembus Rp165 triliun pada semester I 2026.",
+  "date": "24 September 2026",
+  "image": "assets/img/server-data.jpg",
+  "tags": [
+   "ekonomi digital",
+   "KKI",
+   "e-katalog",
+   "QRIS"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7113/perkuat-sinergi-dan-inovasi-pemerintah-dorong-akselerasi-ekonomi-keuangan-digital-untuk-dukung-pertumbuhan-ekonomi-nasional",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ri-genjot-ekspor-furnitur-kurangi-ketergantungan-ke-as",
+  "category": "Industri",
+  "title": "RI Genjot Ekspor Furnitur, Kurangi [Ketergantungan] ke AS",
+  "deck": "Pemerintah mendorong industri furnitur nasional memperluas pasar ekspor di IFFINA+ 2026, karena 60 persen ekspor masih bertumpu ke Amerika Serikat meski sektor ini surplus sejak 2021.",
+  "date": "24 September 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "furnitur",
+   "ekspor",
+   "industri manufaktur",
+   "IKM"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7112/menko-airlangga-dorong-industri-furnitur-perluas-pasar-dan-perkuat-daya-saing-global",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "pray-tak-ada-fakta-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "PRAY: Tak Ada [Fakta Material] di Balik Volatilitas Saham",
@@ -19,6 +67,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/debeb6a201_afd04e1cf8.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "merger-elnusa-pdsi-diwarnai-alarm-privatisasi-terselubung",
+  "category": "BUMN",
+  "title": "Merger Elnusa-PDSI Diwarnai Alarm [Privatisasi] Terselubung",
+  "deck": "Wacana penggabungan PDSI ke Elnusa memicu peringatan serikat pekerja Pertamina soal potensi privatisasi terselubung aset pengeboran negara.",
+  "date": "24 September 2026",
+  "image": "assets/img/merger-elnusa-pdsi-diwarnai-alarm-privatisasi-terselubung.jpg",
+  "imageV": "mufl6j1q",
+  "tags": [
+   "Elnusa",
+   "PDSI",
+   "Pertamina",
+   "Danantara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469156-wacana-merger-elnusa-dan-pdsi-serikat-pekerja-pertamina-ingatkan-potensi-privatisasi-terselubung"
  },
  {
   "slug": "moya-jelaskan-ke-bursa-pinjaman-naik-rp1-19-triliun",
@@ -631,7 +696,7 @@ var ARTICLES = [
   "title": "RUU Pelindungan Ketenagakerjaan Ditarget [Sah] 8 Oktober 2026",
   "deck": "Pemerintah dan DPR menargetkan RUU Pelindungan Ketenagakerjaan disahkan 8 Oktober 2026, dengan aturan alih daya dan usulan bantuan iuran jaminan sosial pekerja jadi sorotan.",
   "date": "24 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "tags": [
    "RUU Ketenagakerjaan",
    "outsourcing",
@@ -1974,7 +2039,7 @@ var ARTICLES = [
   "title": "Pemerintah [Tertibkan] Impor Baju Bekas, Longgarkan Bahan Baku Tekstil",
   "deck": "Rapat terbatas dengan Presiden Prabowo Subianto menghasilkan rencana peninjauan aturan impor bahan baku tekstil dan penertiban impor pakaian bekas ilegal.",
   "date": "22 September 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "tags": [
    "tekstil",
    "TPT",
@@ -4867,7 +4932,7 @@ var ARTICLES = [
   "title": "BPS Rilis [KBJI] 2026, Gantikan Standar Jabatan 2014",
   "deck": "BPS menerbitkan Klasifikasi Baku Jabatan Indonesia (KBJI) 2026 lewat Peraturan BPS Nomor 7/2026, menggantikan versi 2014 dan diselaraskan dengan standar internasional ISCO.",
   "date": "21 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "tags": [
    "KBJI",
    "Kemnaker",
@@ -6440,72 +6505,6 @@ var ARTICLES = [
    "pemegang saham mayoritas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-8647-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-satukan-ai-cloud-dan-siber-lewat-scale",
-  "category": "Teknologi",
-  "title": "Telkom Satukan AI, Cloud, dan Siber Lewat [SCALE]",
-  "deck": "Telkom meluncurkan program transformasi SCALE untuk menyatukan agenda AI, cloud, dan keamanan siber di seluruh TelkomGroup.",
-  "date": "18 September 2026",
-  "image": "assets/img/telkom-satukan-ai-cloud-dan-siber-lewat-scale.jpg",
-  "imageV": "mu70d1da",
-  "tags": [
-   "Telkom",
-   "SCALE",
-   "AI",
-   "Keamanan Siber"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467877-telkom-luncurkan-scale-integrasikan-ai-cloud-dan-keamanan-siber"
- },
- {
-  "slug": "mpro-ungkap-ke-bursa-rugi-rp16-2-m-kas-tinggal-rp5-m",
-  "category": "Aksi Korporasi",
-  "title": "MPRO Ungkap ke Bursa: [Rugi] Rp16,2 M, Kas Tinggal Rp5 M",
-  "deck": "Menjawab permintaan penjelasan dan site visit BEI, MPRO mengungkap rugi bersih Rp16,2 miliar, kas Rp5 miliar, dan lahan Maja 318 hektare yang belum bersertifikat sejak 2022.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPRO",
-   "properti",
-   "rugi bersih",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d47a385796_e4ebb7fc56.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telin-kelola-79-sampah-acara-batic-2026",
-  "category": "BUMN",
-  "title": "Telin Kelola [79%] Sampah Acara BATIC 2026",
-  "deck": "Telin, anak usaha Telkom, menjalankan program keberlanjutan di BATIC 2026 di Bali, termasuk pengelolaan 2,3 ton sampah dengan tingkat daur ulang 79 persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/telin-kelola-79-sampah-acara-batic-2026.jpg",
-  "imageV": "mu6v4jrs",
-  "tags": [
-   "Telin",
-   "Telkom",
-   "BATIC 2026",
-   "keberlanjutan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467870-dari-green-journey-hingga-aksi-karbon-begini-upaya-keberlanjutan-telin-di-batic-2026"
- },
- {
-  "slug": "hrum-direksi-beli-241-000-saham-baru-rp1-003-lembar",
-  "category": "Aksi Korporasi",
-  "title": "HRUM: Direksi [Beli] 241.000 Saham Baru Rp1.003/Lembar",
-  "deck": "Direktur Harum Energy, Stephanus E.D. Sutantio, untuk pertama kalinya memiliki saham HRUM setelah membeli 241.000 lembar pada 18 September 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRUM",
-   "Harum Energy",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-4173-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

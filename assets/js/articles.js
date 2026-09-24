@@ -3,6 +3,164 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ibos-panggil-rupslb-sahkan-laporan-keuangan-2023-direvisi",
+  "category": "Aksi Korporasi",
+  "title": "IBOS Panggil RUPSLB, Sahkan Laporan Keuangan [2023] Direvisi",
+  "deck": "IBOS memanggil RUPSLB pada 16 Oktober 2026 untuk mengesahkan laporan keuangan 2023 yang direvisi, mengubah anggaran dasar, dan menyesuaikan pemegang saham sesuai catatan BAE.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T17:01:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9702c2589_606bbf7b1c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IBOS",
+  "tags": [
+   "IBOS",
+   "RUPSLB",
+   "laporan keuangan",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Indo Boga Sukses Tbk (IBOS) resmi memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Jumat, 16 Oktober 2026, pukul 10.00 WIB di BAKI Restaurant, Jalan Randugowang, Sendangadi, Mlati, Sleman, DI Yogyakarta. Surat panggilan diterbitkan 24 September 2026, menyusul pemberitahuan awal perseroan pada 9 September 2026. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham pada penutupan perdagangan bursa Rabu, 23 September 2026.",
+   "Rapat akan membahas lima agenda. Pertama, pengesahan laporan keuangan tahunan tahun buku 2023 yang telah direvisi dan diaudit. Kedua, persetujuan perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha perseroan. Ketiga, penegasan kembali jumlah dan susunan modal serta perubahan pemegang saham dalam Pasal 4 dan Pasal 29 Anggaran Dasar, disesuaikan dengan Daftar Pemegang Saham yang diterbitkan Biro Administrasi Efek. Keempat, penetapan Komite Audit Perseroan. Kelima, penetapan akuntan publik dan/atau kantor akuntan publik untuk laporan keuangan tahun buku 2026.",
+   "Rapat digelar secara hibrida. Secara fisik hanya dihadiri pimpinan rapat, jajaran direksi dan komisaris, notaris, serta lembaga penunjang, sementara pemegang saham lain dapat hadir dan memberikan suara secara elektronik lewat aplikasi eASY.KSEI yang disediakan KSEI. Bahan rapat tersedia di kantor perseroan sejak 24 September 2026 hingga hari pelaksanaan. Batas waktu deklarasi kehadiran, pemberian kuasa, dan suara lewat eASY.KSEI adalah pukul 12.00 WIB pada satu hari kerja sebelum rapat, yakni 15 Oktober 2026."
+  ],
+  "fotoAdegan": "Empty banquet hall with rows of chairs facing a stage, morning light through windows, set up for a corporate meeting in Yogyakarta",
+  "takeaway": "Laporan ini condong negatif dari sisi tata kelola, karena Indo Boga Sukses baru akan mengesahkan laporan keuangan tahun buku 2023 yang sudah direvisi pada Oktober 2026, tiga tahun setelah periode itu berakhir, jeda yang biasanya menandakan ada masalah pencatatan atau audit yang belum tuntas sebelumnya. Agenda lain, yaitu penyesuaian Pasal 4 dan 29 anggaran dasar soal modal dan pemegang saham, sifatnya hanya menyelaraskan catatan resmi perusahaan dengan Daftar Pemegang Saham yang sudah ada di Biro Administrasi Efek, bukan penerbitan saham baru, sehingga tidak otomatis menambah jumlah saham beredar atau menggerus laba per saham pemegang saham lama. Yang perlu dicermati investor adalah penjelasan di forum rapat soal apa yang berubah antara laporan keuangan 2023 versi lama dan versi revisi, karena itu menentukan seberapa akurat kinerja yang selama ini dilaporkan perseroan. Titik pantau berikutnya adalah pelaksanaan RUPSLB pada 16 Oktober 2026, dengan batas akhir pendaftaran kehadiran atau suara elektronik pukul 12.00 WIB sehari sebelumnya, 15 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "truk-keluar-dari-pemantauan-khusus-bei-ke-papan-pengembangan",
+  "category": "Aksi Korporasi",
+  "title": "TRUK Keluar dari [Pemantauan Khusus] BEI, Ke Papan Pengembangan",
+  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham TRUK milik PT Guna Timur Raya Tbk, efektif 25 September 2026, setelah kondisi pemicunya sudah tidak terpenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T16:58:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b075c46c80_b69cff2d73.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "TRUK",
+   "BEI",
+   "pemantauan khusus",
+   "papan pencatatan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan pencabutan status Pemantauan Khusus atas saham PT Guna Timur Raya Tbk dengan kode TRUK. Papan pencatatan saham ini berubah dari Papan Pemantauan Khusus menjadi Papan Pengembangan, dengan perubahan berlaku efektif mulai 25 September 2026. Pengumuman bernomor Peng-CK-00075/BEI.PLP/09-2026 ini ditandatangani oleh Teuku Fahmi Ariandar, Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI, pada 24 September 2026.",
+   "Dalam tabel pencabutan yang dirilis bursa, TRUK tercatat keluar dari kriteria nomor 10, yaitu kondisi saham yang sempat dikenakan penghentian sementara perdagangan selama lebih dari satu hari bursa akibat aktivitas perdagangan. Keterangan pada dokumen menyebut status TRUK sebagai 'Keluar / Exit', yang berarti kondisi yang dulu membuat sahamnya masuk pemantauan khusus tersebut sudah tidak lagi terpenuhi menurut penilaian bursa.",
+   "Sistem pemantauan khusus BEI sendiri mencakup sebelas kriteria yang bisa membuat suatu saham masuk daftar tersebut, mulai dari harga saham di bawah Rp51 disertai likuiditas rendah, opini disclaimer dari auditor, ekuitas negatif, tidak adanya pendapatan usaha, permohonan PKPU atau pailit, hingga penghentian sementara perdagangan. Saham yang masuk kategori ini biasanya menghadapi pembatasan mekanisme transaksi tertentu, dan pencabutan status ini mengembalikan TRUK ke perlakuan perdagangan normal di Papan Pengembangan."
+  ],
+  "fotoAdegan": "Small cargo trucks parked in a row at a logistics depot, drivers checking loads, overcast afternoon light in an Indonesian industrial yard",
+  "takeaway": "Pencabutan status pemantauan khusus ini bersifat positif bagi TRUK karena menandakan bursa menilai kondisi pemicunya, yakni penghentian perdagangan lebih dari satu hari akibat aktivitas transaksi, sudah tidak lagi berlangsung. Status pemantauan khusus biasanya diikuti pembatasan mekanisme perdagangan seperti notasi khusus atau kendala transaksi marjin, sehingga pencabutannya berpotensi mengembalikan kemudahan bertransaksi bagi investor, meski tidak mengubah angka di laporan keuangan seperti ekuitas, arus kas, atau laba per saham. Yang perlu dipantau selanjutnya adalah apakah TRUK bisa menjaga likuiditas perdagangan dan kinerja keuangannya, sebab bursa mengevaluasi status ini secara berkala berdasarkan sebelas kriteria termasuk opini audit, ekuitas negatif, dan volume transaksi, sehingga saham berisiko masuk kembali ke pemantauan khusus jika salah satu kriteria itu terpenuhi lagi. Perubahan papan pencatatan dari Pemantauan Khusus ke Papan Pengembangan ini mulai berlaku efektif 25 September 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "nicl-bagikan-dividen-interim-rp6-per-saham-total-rp63-8-m",
+  "category": "Aksi Korporasi",
+  "title": "NICL Bagikan [Dividen] Interim Rp6 per Saham, Total Rp63,8 M",
+  "deck": "PAM Mineral (NICL) menetapkan dividen interim Rp6 per saham, total Rp63,8 miliar untuk tahun buku 2026. Recording date 6 Oktober, pembayaran paling lambat 14 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T16:40:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6430a0771_eaaa9129b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICL",
+  "tags": [
+   "NICL",
+   "dividen interim",
+   "PAM Mineral",
+   "tambang nikel"
+  ],
+  "body": [
+   "PT PAM Mineral Tbk (NICL) menetapkan pembagian dividen tunai interim untuk tahun buku 2026 setelah keputusan Direksi disetujui Dewan Komisaris pada 23 September 2026. Dividen ditetapkan sebesar Rp6 per saham, dengan total nilai Rp63.813.869.442, atau sekitar Rp63,8 miliar.",
+   "Perseroan menjadwalkan tanggal pencatatan pemegang saham (recording date) yang berhak menerima dividen ini pada 6 Oktober 2026 pukul 16.00. Sebelum itu, tanggal cum dividen atau batas akhir kepemilikan saham untuk mendapat dividen di pasar reguler dan negosiasi ditetapkan 2 Oktober 2026, dengan tanggal ex dividen atau mulai berlaku tanpa hak dividen pada 5 Oktober 2026. Untuk pasar tunai, cum dividen jatuh pada 6 Oktober 2026 dan ex dividen pada 7 Oktober 2026. Dividen akan dibayarkan kepada pemegang saham yang berhak paling lambat pada 14 Oktober 2026.",
+   "Dasar pembagian dividen ini adalah laporan keuangan per 30 Juni 2026, dengan laba bersih yang diatribusikan kepada entitas induk sebesar Rp121.196.973.151, saldo laba ditahan yang tidak dibatasi penggunaannya Rp142.488.730.936, dan total ekuitas Rp834.224.909.864. Berdasarkan keputusan Direksi, setelah dividen sebesar Rp63,8 miliar ini dibayarkan, kekayaan bersih Perseroan diperkirakan tetap berada di sekitar Rp767,4 miliar, jauh di atas jumlah modal disetor dan cadangan wajib sebesar Rp468,66 miliar, sehingga pembagian dividen ini dinilai tidak mengganggu kewajiban Perseroan kepada kreditor."
+  ],
+  "fotoAdegan": "Heavy dump trucks hauling reddish nickel ore across an open pit mining site under bright tropical sunlight, workers in the distance",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham NICL karena dividen tunai ini dibagikan dari laba operasional yang riil, bukan dari utang, dan kekayaan bersih Perseroan tetap tersisa jauh di atas batas minimum modal disetor dan cadangan wajib yang disyaratkan undang-undang. Yang tersentuh langsung adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan, karena kas sekitar Rp63,8 miliar akan keluar dari kas Perseroan untuk dibagikan ke pemegang saham sehingga otomatis mengurangi ekuitas dan saldo kas; pelaku pasar membedakan penurunan ekuitas semacam ini, yang berasal dari pembagian keuntungan, dengan penurunan akibat kerugian usaha. Yang perlu dipantau selanjutnya adalah kepastian daftar pemegang saham pada tanggal pencatatan 6 Oktober 2026 pukul 16.00 yang menentukan siapa berhak menerima dividen, serta realisasi pembayarannya paling lambat 14 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mpix-jawab-bursa-pinjaman-rp8-miliar-bunga-16-persen-beli-tanah",
+  "category": "Aksi Korporasi",
+  "title": "MPIX Jawab Bursa: Pinjaman Rp8 Miliar Bunga [16 Persen] Beli Tanah",
+  "deck": "MPIX menjelaskan ke BEI soal kredit investasi Rp8 miliar berbunga 16 persen dari BPR Bank Kertiawan untuk membeli tanah dan bangunan pusat pelatihan di Kota Batu, dengan agunan yang masih dalam proses balik nama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T16:39:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6006e3c925_4c59fbc56a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPIX",
+  "tags": [
+   "MPIX",
+   "BEI",
+   "kredit bank",
+   "MPStore"
+  ],
+  "body": [
+   "PT Mitra Pedagang Indonesia Tbk (MPIX) menjawab surat permintaan penjelasan Bursa Efek Indonesia Nomor S-12265/BEI.PP1/09-2026 tanggal 22 September 2026, yang merujuk pada dokumen proyeksi keuangan dan laporan keuangan perseroan periode 30 Juni 2026. Salah satu hal yang disoroti bursa adalah pembelian tanah dan bangunan senilai Rp8 miliar pada periode berjalan, yang didanai melalui fasilitas kredit investasi baru dari PT BPR Bank Kertiawan sebesar Rp8 miliar dengan bunga 16 persen per tahun, berdasarkan Surat Penegasan Persetujuan Permohonan Kredit tertanggal 21 Mei 2026. Fasilitas ini dijamin dengan agunan 4 bidang tanah di Desa Oro-Oro Ombo, Kota Batu, Jawa Timur, yang menurut catatan laporan keuangan perseroan masih dalam proses balik nama berdasarkan Perjanjian Pengikatan Jual Beli tanggal 26 Mei 2026.",
+   "Dalam jawabannya, perseroan menjelaskan tanah dan bangunan tersebut dipakai sendiri sebagai kantor cabang dan pusat pelatihan bagi tenaga penjualan dan mitra agen, untuk mendukung perluasan platform MPStore sebagai aplikasi super yang mencakup transaksi PPOB, QRIS, sistem kasir, rantai pasok ke distributor seperti Indomarco, toko daring, hingga akses permodalan Kredit Usaha Rakyat lewat PT Bank Nationalnobu Tbk. Soal status agunan, perseroan menyebut proses balik nama 4 bidang tanah tersebut sudah diajukan dan sedang diproses di Kantor Pertanahan, dengan estimasi rampung pada kuartal I 2027. Karena harga tanah sudah dibayar lunas sesuai Perjanjian Pengikatan Jual Beli, perseroan menilai risiko kegagalan balik nama tergolong rendah.",
+   "Perseroan juga merinci tujuh perjanjian penting yang diminta dijelaskan bursa, yakni tiga perjanjian kerja sama layanan perbankan dan penyaluran kredit usaha mitra dengan PT Bank Nationalnobu, kerja sama penyediaan produk digital dengan PT Selalu Siap Solusi dan PT Satulink Lintas Indonesia, kerja sama keagenan produk telekomunikasi dengan PT Rajawali Telekomunikasi Selular, serta kerja sama penyediaan produk EDC dengan PT Artha Digital Solusindo. Seluruh perjanjian yang masa keagenannya sudah jatuh tempo telah diperpanjang, tetapi dua perjanjian yang mendekati jatuh tempo, yaitu dengan PT Rajawali Telekomunikasi Selular dan PT Artha Digital Solusindo, tidak akan diperpanjang karena perseroan melanjutkan kerja sama serupa dengan pihak lain. Perseroan menegaskan tidak ada informasi material lain yang belum diungkapkan ke publik dan dapat memengaruhi harga efek maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Hillside plot of land with construction materials and a half-built single story building, misty mountains of Batu, East Java, early morning light.",
+  "takeaway": "Laporan ini netral bagi MPIX karena sifatnya klarifikasi atas pertanyaan bursa, bukan pengungkapan kejadian baru yang mengubah arah bisnis, meski dua detail di dalamnya layak dicermati investor. Bunga pinjaman 16 persen per tahun dari BPR Bank Kertiawan tergolong tinggi dibanding kredit bank umum, sehingga menambah beban bunga yang mengurangi laba bersih meski nilai pokoknya baru Rp8 miliar. Empat bidang tanah yang jadi agunan kredit itu juga belum resmi atas nama perseroan, sebuah pos aset tetap yang secara hukum baru sepenuhnya berpindah tangan setelah proses balik nama di kantor pertanahan selesai. Yang perlu dipantau berikutnya adalah penyelesaian balik nama tanah yang ditargetkan perseroan pada kuartal I 2027, serta realisasi mitra pengganti untuk dua perjanjian keagenan yang tidak diperpanjang, yakni dengan PT Rajawali Telekomunikasi Selular dan PT Artha Digital Solusindo.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "part-jelaskan-ke-bursa-uang-muka-melonjak-1-198-untuk-mesin",
+  "category": "Aksi Korporasi",
+  "title": "PART Jelaskan ke Bursa: Uang Muka Melonjak [1.198%] untuk Mesin",
+  "deck": "PT Cipta Perdana Lancar (PART) menjawab pertanyaan Bursa Efek Indonesia soal lonjakan uang muka pembelian mesin dan kenaikan piutang usaha dalam laporan keuangan semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T15:09:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce8a5b7016_3bade85bcf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PART",
+  "tags": [
+   "PART",
+   "laporan keuangan",
+   "piutang usaha",
+   "investasi mesin"
+  ],
+  "body": [
+   "PT Cipta Perdana Lancar Tbk (PART) menyampaikan surat tanggapan kepada Bursa Efek Indonesia atas permintaan penjelasan bursa nomor S-12233/BEI.PP2/09-2026 tanggal 22 September 2026 terkait laporan keuangan perseroan per 30 Juni 2026. Surat tanggapan bernomor S-164/PART-DIRUT/09-2026 itu ditandatangani Direktur Tjoeng Rino Saputra dan disampaikan pada 24 September 2026.",
+   "Perseroan menjelaskan saldo piutang usaha pihak ketiga naik 26,30 persen menjadi Rp44,97 miliar per 30 Juni 2026 dari Rp35,61 miliar pada akhir 2025, sejalan dengan penjualan semester I 2026 yang naik 24,93 persen menjadi Rp177,64 miliar dari Rp142,19 miliar pada periode yang sama tahun sebelumnya. Lima pelanggan menyumbang kenaikan piutang terbesar, yaitu PT Chandra Nugerahcipta naik Rp3,28 miliar menjadi Rp7,04 miliar, PT Kharisma Zahra Mandiri yang sebelumnya nihil menjadi Rp3,02 miliar, PT Anugerah Steel Mandiri naik Rp1,41 miliar menjadi Rp2,29 miliar, PT Yasufuku Indonesia naik Rp650 juta menjadi Rp2,17 miliar, dan PT Chemco Harapan Nusantara naik Rp297 juta menjadi Rp3,57 miliar. Perseroan menyebut telah menagih Rp72,7 miliar piutang sampai 31 Agustus 2026, terdiri dari Rp33,62 miliar pada Juli dan Rp39,08 miliar pada Agustus, sementara piutang macet di atas 90 hari senilai Rp2,77 miliar seluruhnya berasal dari satu pelanggan, PT Kurnia Karya Perdana Lancar, dan sudah dicadangkan penuh.",
+   "Di sisi lain, saldo persediaan turun 19,68 persen menjadi Rp49,98 miliar, terutama karena persediaan barang jadi turun Rp16,79 miliar menjadi Rp25,38 miliar setelah terjualnya produk Gas Oil Water Fryer, meski persediaan bahan baku dan barang dalam proses justru naik. Kecepatan perputaran persediaan melambat dari 3,84 kali pada semester I 2025 menjadi 2,63 kali pada semester I 2026. Uang muka perusahaan melonjak 1.198,07 persen menjadi Rp36,86 miliar, terdiri dari uang muka pembelian mesin Rp18,57 miliar kepada PT Gemilang Karya Metal Abadi dan ACL Sheet Indonesia, serta uang muka pembelian material impor Rp18,29 miliar kepada pemasok di Jepang dan Tiongkok, untuk memenuhi pesanan pembuatan mesin pengolahan limbah dan peralatan pertanian dari pelanggan.",
+   "Aset tetap bersih perseroan naik 17,42 persen menjadi Rp257,12 miliar, didorong penambahan mesin senilai Rp51,31 miliar berupa dies GKMA Rp28,16 miliar, mesin Yushida Straight Side Double Crank Press Machine 630T Rp21,50 miliar, serta mesin dan peralatan produksi lain Rp1,65 miliar untuk mendukung produksi komponen otomotif, yang dibiayai sebagian dari fasilitas pembiayaan perbankan. Sementara itu, utang usaha pihak ketiga turun 16,35 persen menjadi Rp12,25 miliar setelah dibayar dengan dana hasil pelaksanaan Waran Seri I, sedangkan pinjaman bank jangka pendek dari fasilitas Kredit Lokal BCA naik 197,19 persen menjadi Rp6,91 miliar untuk membiayai kebutuhan modal kerja."
+  ],
+  "fotoAdegan": "Workers operating a large metal stamping press machine on an automotive components factory floor, industrial lighting, metal sheets stacked nearby",
+  "takeaway": "Tanggapan ini condong positif bagi PART, karena kenaikan piutang dan uang muka usaha ternyata sejalan dengan penjualan yang tumbuh 24,93 persen dan investasi mesin baru untuk memenuhi pesanan pelanggan otomotif, bukan tanda masalah penagihan. Yang perlu dicermati investor adalah dua pos: Rp36,86 miliar dana perusahaan kini mengendap sebagai uang muka pembelian mesin dan material yang belum berubah jadi barang jadi, dan pinjaman bank jangka pendek ke BCA naik hampir tiga kali lipat menjadi Rp6,91 miliar sehingga beban bunga yang ditanggung perusahaan ikut bertambah. Piutang macet di atas 90 hari hanya Rp2,77 miliar dari satu pelanggan, PT Kurnia Karya Perdana Lancar, dan sudah dicadangkan penuh sehingga risikonya sudah diperhitungkan dalam laporan keuangan. Yang perlu dipantau selanjutnya adalah realisasi uang muka mesin dan material menjadi aset produksi, yang menurut manajemen ditargetkan rampung paling lambat akhir 2026, serta laporan keuangan kuartal berikutnya untuk melihat apakah investasi mesin ini benar mendongkrak penjualan seperti dijanjikan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "uvcr-jelaskan-ke-bursa-dampak-pmthmetd-roe-turun-19-6",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Jelaskan ke Bursa Dampak [PMTHMETD]: ROE Turun 19,6%",
+  "deck": "UVCR menjawab permintaan penjelasan BEI soal rencana 200 juta saham baru tanpa hak memesan efek dahulu, yang menurunkan ROE dan EPS, seluruhnya untuk pemegang saham pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T14:45:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/964fd2442d_bee248076d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "PMTHMETD",
+   "free float",
+   "buyback saham"
+  ],
+  "body": [
+   "PT Trimegah Karya Pratama Tbk (UVCR), pemilik platform Ultra Voucher, menyampaikan surat tanggapan bernomor 026/SK/LGL/TKP-IDX/IX/2026 tertanggal 24 September 2026 kepada Otoritas Jasa Keuangan, menjawab permintaan penjelasan OJK Nomor S-12232/BEI.PP2/09-2026 tanggal 22 September 2026 terkait rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD). Surat ditandatangani Direktur Utama Hady Kuswanto dan disampaikan lewat sistem pelaporan elektronik oleh Sekretaris Perusahaan Ayu Kusuma Trisyani.",
+   "Perseroan merinci rencana penggunaan dana PMTHMETD sebesar Rp27 miliar, yaitu Rp13,5 miliar (50 persen) untuk kebutuhan operasional dan manajemen aset, Rp5,4 miliar (20 persen) untuk pengembangan produk dan layanan voucher digital, Rp5,4 miliar (20 persen) untuk pemasaran dan akuisisi pelanggan-merchant, serta Rp2,7 miliar (10 persen) untuk modal kerja lain, dengan jangka waktu pelaksanaan Kuartal IV 2026 hingga Kuartal IV 2027. Harga pelaksanaan ditetapkan asumsi Rp135 per saham, yaitu 90 persen dari rata-rata harga penutupan saham 25 hari bursa, dan Perseroan menegaskan akan menyesuaikan harga itu sesuai Lampiran II Peraturan Bursa Nomor I-A apabila harga saham UVCR naik sebelum PMTHMETD direalisasikan.",
+   "Berdasarkan laporan keuangan proforma per 30 Juni 2026, PMTHMETD diproyeksikan menurunkan return on equity (ROE) dari 7,54 persen menjadi 6,07 persen dan laba per saham (EPS) dari Rp4,19 menjadi Rp3,81, sementara rasio utang terhadap modal (DER) membaik dari 1,13 kali menjadi 0,91 kali dan rasio lancar naik dari 1,66 kali menjadi 1,88 kali. Perseroan juga mengonfirmasi penyelesaian buyback 9.596.100 saham per 11 September 2026 yang dicatat sebagai saham treasuri pengurang ekuitas dan direncanakan untuk program kepemilikan saham karyawan (ESOP), serta tidak memiliki hak suara pada RUPSLB 27 Oktober 2026. Dari total 2.000.144.838 saham sebelum buyback, rencana penerbitan 200.000.000 saham baru dipastikan masih di bawah batas maksimum 10 persen modal disetor, yakni 200.014.483 saham.",
+   "Soal komposisi pemegang saham, Perseroan mengungkapkan bahwa sebelum PMTHMETD saham pengendali tercatat 623.557.467 lembar dan porsi saham publik (free float) 1.108.121.671 lembar atau 55,40 persen dari total 2.000.144.838 saham. Setelah PMTHMETD, total saham menjadi 2.200.144.838 lembar dengan saham pengendali naik menjadi 823.557.467 lembar, sedangkan jumlah saham free float tetap 1.108.121.671 lembar sehingga persentasenya turun menjadi 50,36 persen. Artinya, seluruh 200 juta saham baru mengalir ke pemegang saham pengendali, bukan ke publik."
+  ],
+  "fotoAdegan": "A customer tapping a smartphone to pay at a convenience store counter in Jakarta, cashier ringing up items, evening light.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik, karena seluruh 200 juta saham baru dari PMTHMETD mengalir ke pemegang saham pengendali, bukan ke publik, sehingga porsi saham pengendali naik dari 623,5 juta menjadi 823,5 juta lembar sementara jumlah saham beredar bebas milik publik tidak bertambah sama sekali. Dampaknya kelihatan di dua ukuran kinerja: laba per saham turun dari Rp4,19 jadi Rp3,81 karena laba yang sama kini dibagi ke lebih banyak lembar saham, dan return on equity, yaitu seberapa besar laba dibanding modal sendiri perusahaan, turun dari 7,54 persen jadi 6,07 persen. Di sisi lain rasio utang terhadap modal membaik dari 1,13 kali jadi 0,91 kali karena modal bertambah, jadi bukan sinyal yang seluruhnya buruk. Porsi saham beredar bebas alias free float, yaitu saham yang bisa diperjualbelikan publik di luar pengendali, turun dari 55,40 persen jadi 50,36 persen meski jumlah lembarnya tidak berubah, semata karena penyebutnya membesar. Yang perlu dipantau selanjutnya adalah RUPSLB 27 Oktober 2026 yang akan mengesahkan rencana ini, serta kemungkinan penyesuaian harga pelaksanaan jika harga saham UVCR naik sebelum PMTHMETD direalisasikan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pupuk-indonesia-salurkan-67-pupuk-subsidi-jelang-tanam",
   "category": "BUMN",
   "title": "Pupuk Indonesia Salurkan [67%] Pupuk Subsidi Jelang Tanam",

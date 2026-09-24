@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ibos-panggil-rupslb-sahkan-laporan-keuangan-2023-direvisi",
+  "category": "Aksi Korporasi",
+  "title": "IBOS Panggil RUPSLB, Sahkan Laporan Keuangan [2023] Direvisi",
+  "deck": "IBOS memanggil RUPSLB pada 16 Oktober 2026 untuk mengesahkan laporan keuangan 2023 yang direvisi, mengubah anggaran dasar, dan menyesuaikan pemegang saham sesuai catatan BAE.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IBOS",
+   "RUPSLB",
+   "laporan keuangan",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9702c2589_606bbf7b1c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "truk-keluar-dari-pemantauan-khusus-bei-ke-papan-pengembangan",
+  "category": "Aksi Korporasi",
+  "title": "TRUK Keluar dari [Pemantauan Khusus] BEI, Ke Papan Pengembangan",
+  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham TRUK milik PT Guna Timur Raya Tbk, efektif 25 September 2026, setelah kondisi pemicunya sudah tidak terpenuhi.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "BEI",
+   "pemantauan khusus",
+   "papan pencatatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b075c46c80_b69cff2d73.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nicl-bagikan-dividen-interim-rp6-per-saham-total-rp63-8-m",
+  "category": "Aksi Korporasi",
+  "title": "NICL Bagikan [Dividen] Interim Rp6 per Saham, Total Rp63,8 M",
+  "deck": "PAM Mineral (NICL) menetapkan dividen interim Rp6 per saham, total Rp63,8 miliar untuk tahun buku 2026. Recording date 6 Oktober, pembayaran paling lambat 14 Oktober 2026.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICL",
+   "dividen interim",
+   "PAM Mineral",
+   "tambang nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6430a0771_eaaa9129b4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpix-jawab-bursa-pinjaman-rp8-miliar-bunga-16-persen-beli-tanah",
+  "category": "Aksi Korporasi",
+  "title": "MPIX Jawab Bursa: Pinjaman Rp8 Miliar Bunga [16 Persen] Beli Tanah",
+  "deck": "MPIX menjelaskan ke BEI soal kredit investasi Rp8 miliar berbunga 16 persen dari BPR Bank Kertiawan untuk membeli tanah dan bangunan pusat pelatihan di Kota Batu, dengan agunan yang masih dalam proses balik nama.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPIX",
+   "BEI",
+   "kredit bank",
+   "MPStore"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6006e3c925_4c59fbc56a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "part-jelaskan-ke-bursa-uang-muka-melonjak-1-198-untuk-mesin",
+  "category": "Aksi Korporasi",
+  "title": "PART Jelaskan ke Bursa: Uang Muka Melonjak [1.198%] untuk Mesin",
+  "deck": "PT Cipta Perdana Lancar (PART) menjawab pertanyaan Bursa Efek Indonesia soal lonjakan uang muka pembelian mesin dan kenaikan piutang usaha dalam laporan keuangan semester I 2026.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PART",
+   "laporan keuangan",
+   "piutang usaha",
+   "investasi mesin"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce8a5b7016_3bade85bcf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uvcr-jelaskan-ke-bursa-dampak-pmthmetd-roe-turun-19-6",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Jelaskan ke Bursa Dampak [PMTHMETD]: ROE Turun 19,6%",
+  "deck": "UVCR menjawab permintaan penjelasan BEI soal rencana 200 juta saham baru tanpa hak memesan efek dahulu, yang menurunkan ROE dan EPS, seluruhnya untuk pemegang saham pengendali.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR",
+   "PMTHMETD",
+   "free float",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/964fd2442d_bee248076d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pupuk-indonesia-salurkan-67-pupuk-subsidi-jelang-tanam",
   "category": "BUMN",
   "title": "Pupuk Indonesia Salurkan [67%] Pupuk Subsidi Jelang Tanam",
@@ -6407,102 +6503,6 @@ var ARTICLES = [
    "Triniti Dinamik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/50c9724e68_d076c60505.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ultj-rights-issue-rp16-9-triliun-frieslandcampina-jadi-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "ULTJ Rights Issue Rp16,9 Triliun, [FrieslandCampina] Jadi Pengendali",
-  "deck": "Ultrajaya akan menerbitkan hingga 7,88 miliar saham baru senilai Rp2.150 per saham untuk mengakuisisi saham Frisian Flag Indonesia, dan FrieslandCampina bakal menjadi pengendali baru perseroan.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "Frisian Flag Indonesia",
-   "FrieslandCampina",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/99927124a8_2aafee09e8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cint-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "CINT Bantah Ada [Info Material] di Balik Volatilitas Sahamnya",
-  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, manajemen Chitose Internasional menyatakan tidak mengetahui adanya informasi material yang memengaruhi harga saham.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CINT",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/86fd776dd9_20566327ed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "true-bukukan-rugi-rp12-3-miliar-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "TRUE Bukukan [Rugi] Rp12,3 Miliar di Semester I 2026",
-  "deck": "Rugi bersih Triniti Dinamik melebar jadi Rp12,3 miliar pada semester I 2026, arus kas operasi berbalik negatif, dan utang ke pihak berelasi bertambah Rp17,6 miliar.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUE",
-   "Triniti Dinamik",
-   "Properti",
-   "Laporan Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918134111-64411-0/FinancialStatement-2026-II-TRUE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tebe-direksi-denny-ramdhani-divestasi-seluruh-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "TEBE: Direksi Denny Ramdhani [Divestasi] Seluruh Sahamnya",
-  "deck": "Direksi TEBE, GT. Denny Ramdhani, melepas seluruh 50.000 lembar sahamnya seharga Rp2.130 per saham pada 18 September 2026, mengakhiri kepemilikannya di perseroan.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEBE",
-   "Dana Brata Luhur",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7561-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ultj-jadwalkan-rupslb-27-oktober-dps-per-2-oktober",
-  "category": "Aksi Korporasi",
-  "title": "ULTJ Jadwalkan [RUPSLB] 27 Oktober, DPS per 2 Oktober",
-  "deck": "Ultrajaya mengumumkan rencana RUPSLB digelar elektronik pada 27 Oktober 2026, dengan pencatatan pemegang saham yang berhak hadir per 2 Oktober.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "RUPSLB",
-   "Ultrajaya",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0fe3bc8d0e_4d1c4c88b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lflo-klaim-tak-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "LFLO Klaim Tak Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "PT Imago Mulia Persada Tbk menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LFLO",
-   "Imago Mulia Persada",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/137dd3de08_492856ca40.pdf",
   "sourceLabel": "IDX"
  }
 ];

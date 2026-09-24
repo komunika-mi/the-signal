@@ -245,6 +245,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "impc-tunggal-jaya-investama-tambah-13-4-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "IMPC: Tunggal Jaya Investama Tambah [13,4 Juta] Saham",
+  "deck": "Pemegang saham Impack Pratama Industri (IMPC) membeli 13,4 juta saham tambahan dalam dua transaksi akhir September, melanjutkan pola akumulasi bertahap sepekan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T18:15:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-8391-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IMPC",
+  "tags": [
+   "IMPC",
+   "kepemilikan saham",
+   "pemegang saham",
+   "pasar modal"
+  ],
+  "body": [
+   "Tunggal Jaya Investama, pemegang saham PT Impack Pratama Industri Tbk (IMPC), melaporkan ke Otoritas Jasa Keuangan bahwa mereka membeli tambahan 13.413.200 saham IMPC lewat dua transaksi. Transaksi pertama sebanyak 5.413.200 saham dieksekusi pada 22 September 2026 seharga Rp1.573 per saham, dan transaksi kedua sebanyak 8.000.000 saham pada 23 September 2026 seharga Rp1.560 per saham. Kedua transaksi tercatat berstatus kepemilikan tidak langsung dengan tujuan investasi.",
+   "Dengan tambahan itu, kepemilikan saham biasa Tunggal Jaya Investama di IMPC naik dari 21.102.392.294 lembar menjadi 21.115.805.494 lembar. Porsi hak suaranya ikut bergeser tipis dari 38,43 persen menjadi 38,46 persen.",
+   "Ini merupakan laporan ketiga dari pemegang saham yang sama dalam sepekan terakhir. Sebelumnya, Tunggal Jaya Investama melaporkan penambahan 3,35 juta saham pada 18 September dan 6,32 juta saham pada 22 September. Dijumlahkan dengan laporan kali ini, total saham yang ditambah dalam rentang waktu tersebut mencapai sekitar 23 juta lembar."
+  ],
+  "fotoAdegan": "Workers stacking insulated PVC roofing panels inside a large industrial warehouse, forklift moving pallets near open bay doors",
+  "takeaway": "Laporan ini netral bagi IMPC karena penambahan 13,4 juta saham hanya setara sekitar 0,06 persen dari kepemilikan Tunggal Jaya Investama yang sudah lebih dari 21 miliar lembar, dan hak suaranya nyaris tidak bergeser dari 38,43 persen ke 38,46 persen. Transaksi ini tercatat sebagai pembelian dengan status kepemilikan tidak langsung, bukan penerbitan saham baru, sehingga jumlah saham beredar IMPC tidak bertambah dan laba per saham tidak ikut terdilusi, yang berubah hanya konsentrasi kepemilikan di tangan pemegang saham utama. Yang perlu dipantau adalah apakah pola pembelian bertahap ini berlanjut, mengingat ini sudah laporan ketiga beruntun sejak 18 September dengan total akumulasi sekitar 23 juta saham dalam sepekan, sehingga arah hak suara Tunggal Jaya Investama ke depan layak terus diikuti dari laporan-laporan serupa berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "transaksi-ekonomi-digital-ri-tumbuh-40-agustus-2026",
   "category": "Moneter",
   "title": "Transaksi Ekonomi Digital RI [Tumbuh] 40% Agustus 2026",
@@ -348,6 +374,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Modern bank branch lobby interior in Jakarta with staff assisting customers at teller counters under soft natural light.",
   "takeaway": "Laporan ini netral bagi emiten, karena isinya hanya menuntaskan proses administratif pengangkatan komisaris yang sebetulnya sudah disetujui pemegang saham sejak RUPST April 2026, dan kini tinggal menunggu restu regulator turun. Perubahan pengurus seperti ini tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham, tapi pelaku pasar tetap memperhatikan komposisi komisaris karena merekalah yang mengawasi arah strategi dan manajemen risiko bank, termasuk soal independensi karena masih ada empat dari delapan komisaris berstatus independen. Yang perlu dipantau selanjutnya adalah penyelesaian pemberitahuan akta perubahan pengurus ini ke Kementerian Hukum Republik Indonesia, yang menurut keterangan notaris per 24 September 2026 masih berjalan, sebelum status hukum susunan pengurus baru ini genap tercatat secara resmi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cpin-ubs-jual-4-juta-saham-untuk-lindung-nilai-derivatif",
+  "category": "Aksi Korporasi",
+  "title": "CPIN: UBS [Jual] 4 Juta Saham untuk Lindung Nilai Derivatif",
+  "deck": "UBS AG London Branch melepas 4,04 juta saham CPIN pada 21 September senilai Rp3.132 per saham untuk lindung nilai transaksi derivatif nasabahnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T17:15:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-5504-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CPIN",
+  "tags": [
+   "CPIN",
+   "UBS",
+   "kepemilikan saham",
+   "derivatif"
+  ],
+  "body": [
+   "UBS AG London Branch A/C Client melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menjual 4.046.633 saham biasa Charoen Pokphand Indonesia (CPIN) pada 21 September 2026 dengan harga Rp3.132 per saham. Transaksi ini berbentuk repurchase agreement dengan status penjualan tidak langsung, dan menurut laporan itu tujuannya adalah lindung nilai atas aktivitas perdagangan produk derivatif milik nasabah UBS, bukan keputusan investasi UBS sendiri terhadap CPIN.",
+   "Sebelum transaksi, UBS AG London Branch A/C Client tercatat memegang 987.529.800 saham CPIN atau setara 6,0223 persen hak suara. Setelah penjualan tersebut, kepemilikannya turun menjadi 983.483.167 saham dengan hak suara 5,9976 persen. Selisih 4.046.633 saham yang dilepas itu hanya sekitar 0,41 persen dari total kepemilikan UBS sendiri sebelum transaksi.",
+   "Laporan ini merupakan yang keempat dari UBS dan pihak terafiliasinya di CPIN dalam sepekan terakhir, setelah sebelumnya UBS tercatat menambah maupun mengurangi saham dalam jumlah kecil pada 18 dan 21 September 2026. Nama pelapor mencakup grup entitas UBS dan Credit Suisse yang kini bernaung di bawah UBS, termasuk cabang London, Hong Kong, Singapura, dan Swiss."
+  ],
+  "fotoAdegan": "Glass office towers of Jakarta's financial district reflecting early morning light, busy avenue traffic passing below",
+  "takeaway": "Laporan ini netral bagi CPIN, karena volume yang dilepas UBS cuma sekitar 0,41 persen dari kepemilikan mereka sendiri dan tujuannya adalah lindung nilai atas produk derivatif nasabah, bukan sikap UBS terhadap prospek perusahaan. Yang tersentuh di sini adalah hak suara UBS di CPIN, yang turun tipis dari 6,0223 persen menjadi 5,9976 persen sehingga kini berada di bawah ambang 6 persen. Pos ini dipantau pasar karena perubahan hak suara pemegang saham besar bisa memicu kewajiban lapor lanjutan kalau berlanjut jadi tren, bukan kejadian sekali jalan. Yang perlu dipantau berikutnya adalah apakah UBS kembali melaporkan transaksi serupa dalam hari-hari mendatang, mengingat sudah empat laporan kepemilikan dari grup ini muncul dalam sepekan terakhir, meski masing-masing transaksinya kecil dan berdiri sendiri.",
   "sentimen": "netral"
  },
  {
@@ -482,6 +534,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-784-100-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 784.100 saham",
+  "deck": "Edwin Soeryadjaya membeli 784.100 saham SRTG pada 22-23 September 2026, menaikkan hak suaranya tipis ke 35,96 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T15:07:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-4856-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "kepemilikan saham",
+   "komisaris",
+   "Edwin Soeryadjaya"
+  ],
+  "body": [
+   "Edwin Soeryadjaya, anggota Dewan Komisaris PT Saratoga Investama Sedaya Tbk (SRTG), melaporkan ke Otoritas Jasa Keuangan bahwa ia menambah kepemilikan saham perusahaan lewat dua transaksi pembelian tidak langsung. Transaksi pertama sebanyak 330.000 saham pada 22 September 2026 dengan harga Rp1.779 per saham, dan transaksi kedua sebanyak 454.100 saham pada 23 September 2026 dengan harga Rp1.791 per saham. Keduanya dicatat dengan tujuan investasi dan berstatus kepemilikan tidak langsung, artinya saham tercatat atas pihak lain, bukan langsung atas nama Edwin.",
+   "Dengan tambahan 784.100 lembar itu, jumlah saham Edwin di SRTG naik dari 4.876.599.190 lembar menjadi 4.877.383.290 lembar. Hak suaranya di perusahaan bergerak tipis dari 35,9503 persen menjadi 35,9561 persen. Laporan ini disampaikan ke bursa pada 24 September 2026, sesuai kewajiban pelaporan perubahan kepemilikan saham oleh direksi dan komisaris perusahaan terbuka.",
+   "Ini merupakan laporan ketiga soal pembelian saham SRTG oleh Edwin Soeryadjaya dalam sepekan terakhir, setelah laporan serupa pada 18 dan 22 September 2026 yang juga menyebut penambahan dalam jumlah kecil."
+  ],
+  "fotoAdegan": "Distant view of a stock exchange trading floor at dusk, rows of terminals glowing, screens blurred and out of focus",
+  "takeaway": "Laporan ini netral bagi SRTG. Penambahan 784.100 saham hanya setara 0,0161 persen dari kepemilikan Edwin Soeryadjaya sebelumnya, dan hak suaranya cuma bergeser dari 35,9503 persen ke 35,9561 persen, jadi terlalu kecil untuk dibaca sebagai pernyataan sikap terhadap prospek perusahaan. Yang tersentuh di sini murni komposisi kepemilikan pemegang saham utama, yaitu porsi suara yang bisa dipakai dalam rapat pemegang saham, bukan pos keuangan perusahaan seperti ekuitas atau arus kas, karena ini transaksi pasar sekunder antar pemegang saham, bukan aksi korporasi SRTG sendiri. Yang perlu dipantau adalah apakah pola pembelian berulang oleh Edwin ini, yang sudah tiga kali dilaporkan sejak 18 September, akan berlanjut dengan volume yang lebih besar pada laporan-laporan berikutnya ke bursa, karena baru dari situ bisa terlihat apakah ini sekadar rutinitas atau memang akumulasi yang berarti.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "uvcr-jelaskan-ke-bursa-dampak-pmthmetd-roe-turun-19-6",
   "category": "Aksi Korporasi",
   "title": "UVCR Jelaskan ke Bursa Dampak [PMTHMETD]: ROE Turun 19,6%",
@@ -564,6 +642,32 @@ var ARTICLES = [
   "takeaway": "Yang konkret berubah dari rangkaian pertemuan ini adalah sejumlah kerangka kerja sama baru: ASEAN dan Inggris mengesahkan deklarasi kerja sama ekonomi 2026 dan memperbarui rencana kerja bersama, sementara ASEAN dan Rusia merampungkan program kerja sama dagang dan investasi untuk 2026 hingga 2035. Pihak yang paling terdampak adalah eksportir dan importir Indonesia yang berdagang dengan Inggris, Uni Eropa, dan Rusia, termasuk UMKM yang disebut jadi sasaran program kerja sama dengan Rusia. Pola yang terlihat adalah Indonesia memperbanyak jalur kerja sama dagang ke berbagai mitra sekaligus, kemungkinan sebagai cara menyebar risiko di tengah ketidakpastian ekonomi global, ketimbang bergantung pada satu atau dua mitra dagang besar. Namun kerangka-kerangka ini baru berupa kesepakatan payung, belum aturan teknis yang langsung berlaku, jadi yang perlu dipantau adalah apakah Prinsip Perdagangan Digital ASEAN-Uni Eropa yang masih difinalisasi benar rampung, dan apakah kerja sama dengan Rusia berkembang menjadi kesepakatan dagang yang bisa dipakai pelaku usaha, bukan sekadar seminar dan dialog seperti yang berjalan sejauh ini."
  },
  {
+  "slug": "nsss-direksi-lepas-1-99-miliar-saham-repo-suara-ke-16-20",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi [Lepas] 1,99 Miliar Saham Repo, Suara ke 16,20%",
+  "deck": "Direksi NSSS Samuel Tumbuh Bersama melepas 1,99 miliar saham lewat perjanjian repo untuk dipinjamkan, hak suaranya turun dari 24,57 persen menjadi 16,20 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T14:27:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-4545-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "repo saham",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Nusantara Sawit Sejahtera Tbk (NSSS), Samuel Tumbuh Bersama, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan berkurang dari 5.846.916.900 lembar menjadi 3.855.673.100 lembar, atau berkurang 1.991.243.800 lembar saham biasa. Jumlah yang dilepas ini setara 34,06 persen dari total saham yang sebelumnya ia pegang. Akibatnya, hak suaranya di NSSS turun dari 24,57 persen menjadi 16,20 persen.",
+   "Berdasarkan formulir yang diserahkan, transaksi ini berbentuk repurchase agreement atau perjanjian repo dengan tujuan 'Pinjam Saham', dan status kepemilikannya langsung. Transaksi tercatat terjadi pada 23 September 2026, namun dokumen tidak mencantumkan harga per saham maupun batas akhir periode pelaksanaan perjanjian ini. Laporan terdaftar dengan nomor LK/24092026/0006/1 dan disampaikan ke Kepala Eksekutif Pengawas Pasar Modal, Keuangan Derivatif dan Bursa Karbon OJK.",
+   "Transaksi ini melanjutkan rangkaian pergerakan saham Samuel Tumbuh Bersama melalui skema repo dalam sepekan terakhir, yang membuat hak suaranya di NSSS naik turun tajam beberapa kali, dari kisaran 15 persen hingga di atas 36 persen dalam beberapa hari terakhir."
+  ],
+  "fotoAdegan": "Freshly harvested palm oil fruit bunches stacked at a rural collection point, workers loading them onto a truck, tropical morning light",
+  "takeaway": "Laporan ini saya nilai negatif bagi NSSS, karena Samuel Tumbuh Bersama melepas 1,99 miliar saham atau 34 persen dari kepemilikannya sendiri, sehingga hak suaranya di perusahaan anjlok dari 24,57 persen menjadi 16,20 persen hanya dalam satu transaksi. Yang tersentuh di sini adalah hak suara dan posisi pengendalian direksi, bukan pos keuangan perusahaan seperti ekuitas atau laba, sebab transaksinya berbentuk repurchase agreement, yaitu saham dipinjamkan sementara lewat perjanjian yang bisa ditarik kembali, bukan dijual putus ke pasar. Meski begitu, pelaku pasar tetap mencermati penurunan hak suara sebesar ini karena mengurangi kendali direksi atas keputusan strategis perusahaan selama saham tersebut belum kembali. Dokumen ini tidak mencantumkan batas akhir periode pelaksanaan, jadi yang perlu dipantau berikutnya adalah apakah muncul laporan susulan yang mengembalikan saham ini ke Samuel Tumbuh Bersama, mengingat pola serupa sudah berulang kali terjadi dalam sepekan terakhir.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "zone-bukukan-laba-rp27-8-miliar-utang-bank-turun-tajam",
   "category": "Aksi Korporasi",
   "title": "ZONE Bukukan [Laba] Rp27,8 Miliar, Utang Bank Turun Tajam",
@@ -614,6 +718,32 @@ var ARTICLES = [
   "fotoAdegan": "Warehouse technicians inspecting stacked industrial valves and pipe fittings on steel shelving, forklift passing in the background, bright warehouse lighting.",
   "takeaway": "Laporan ini condong negatif bagi pemegang saham utama APII, sebab meski penjualan dan laba operasional naik, laba yang benar-benar menjadi hak mereka malah turun 22,7 persen menjadi Rp8,37 miliar. Penyebabnya ada di pos kepentingan nonpengendali, yaitu bagian laba anak usaha yang menjadi hak pemilik saham minoritas di tingkat anak perusahaan, bukan hak pemegang saham APII di bursa. Karena laba per saham dihitung dari bagian yang jatuh ke pemegang saham utama, kenaikan tajam porsi nonpengendali ini otomatis menggerus laba per saham meski bisnis inti tumbuh. Di sisi lain, posisi kas yang menebal dan utang bank jangka pendek yang menyusut cukup memberi bantalan likuiditas bagi perusahaan. Yang perlu dipantau berikutnya adalah apakah porsi laba nonpengendali ini tetap besar di laporan kuartal III 2026, karena itu akan menentukan apakah penurunan laba per saham kali ini sementara atau berlanjut.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "tapg-investindo-arya-beli-500-000-saham-tambahan",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Investindo Arya [Beli] 500.000 Saham Tambahan",
+  "deck": "PT Investindo Arya, entitas yang menduduki kursi Dewan Komisaris TAPG, membeli 500.000 saham tambahan pada 23 September 2026 seharga Rp1.999 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T14:06:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-7754-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "PT Investindo Arya, yang mewakili kursi Dewan Komisaris PT Triputra Agro Persada Tbk (TAPG), melaporkan kepada Otoritas Jasa Keuangan bahwa mereka membeli 500.000 saham TAPG dengan status kepemilikan tidak langsung. Transaksi dilakukan pada 23 September 2026 dengan harga Rp1.999 per saham dan tujuan investasi.",
+   "Dengan pembelian ini, jumlah saham TAPG yang dimiliki Investindo Arya naik dari 2.365.000 lembar menjadi 2.865.000 lembar, bertambah 500.000 lembar atau sekitar 21,1 persen dari kepemilikan sebelumnya. Hak suara yang melekat pada kepemilikan tersebut ikut naik dari 0,0119 persen menjadi 0,0144 persen dari total saham beredar TAPG.",
+   "Laporan disampaikan sesuai Pasal 2 Ayat 1 Peraturan OJK Nomor 4/2024 tentang kewajiban pelaporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka. Dokumen tidak mencantumkan rencana transaksi lanjutan atau agenda korporasi lain terkait pembelian ini."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fruit bunches in a plantation, tractor loaded with fresh fruit bunches, tropical morning haze",
+  "takeaway": "Laporan ini condong positif tipis bagi TAPG karena entitas yang mewakili kursi Dewan Komisaris menambah kepemilikannya, bukan melepasnya, dan kenaikan 21,1 persen dari kepemilikan sebelumnya cukup besar untuk dibaca sebagai sinyal, bukan sekadar remah transaksi. Transaksi ini terjadi di pasar sekunder sehingga tidak menambah kas atau mengubah ekuitas TAPG, yang berubah hanya struktur kepemilikan dan hak suara pelapor, naik dari 0,0119 persen menjadi 0,0144 persen dari total saham beredar, angka yang tetap kecil secara absolut tapi dipantau pelaku pasar sebagai indikasi keyakinan orang dalam terhadap prospek perusahaan. Dokumen ini tidak menyebut agenda korporasi lanjutan seperti RUPS atau tenggat baru, sehingga yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris lain TAPG menyusul dengan laporan pembelian serupa dalam waktu dekat, yang akan memperkuat pembacaan sinyal ini.",
+  "sentimen": "positif"
  },
  {
   "slug": "mpro-ralat-realisasi-dana-ipo-alokasi-ke-simprug-bergeser",

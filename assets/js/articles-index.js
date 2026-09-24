@@ -150,6 +150,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "impc-tunggal-jaya-investama-tambah-13-4-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "IMPC: Tunggal Jaya Investama Tambah [13,4 Juta] Saham",
+  "deck": "Pemegang saham Impack Pratama Industri (IMPC) membeli 13,4 juta saham tambahan dalam dua transaksi akhir September, melanjutkan pola akumulasi bertahap sepekan terakhir.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IMPC",
+   "kepemilikan saham",
+   "pemegang saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-8391-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "transaksi-ekonomi-digital-ri-tumbuh-40-agustus-2026",
   "category": "Moneter",
   "title": "Transaksi Ekonomi Digital RI [Tumbuh] 40% Agustus 2026",
@@ -214,6 +230,22 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bb46bb9686_3eaacbc352.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cpin-ubs-jual-4-juta-saham-untuk-lindung-nilai-derivatif",
+  "category": "Aksi Korporasi",
+  "title": "CPIN: UBS [Jual] 4 Juta Saham untuk Lindung Nilai Derivatif",
+  "deck": "UBS AG London Branch melepas 4,04 juta saham CPIN pada 21 September senilai Rp3.132 per saham untuk lindung nilai transaksi derivatif nasabahnya.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CPIN",
+   "UBS",
+   "kepemilikan saham",
+   "derivatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-5504-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -297,6 +329,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-784-100-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 784.100 saham",
+  "deck": "Edwin Soeryadjaya membeli 784.100 saham SRTG pada 22-23 September 2026, menaikkan hak suaranya tipis ke 35,96 persen.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "kepemilikan saham",
+   "komisaris",
+   "Edwin Soeryadjaya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-4856-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "uvcr-jelaskan-ke-bursa-dampak-pmthmetd-roe-turun-19-6",
   "category": "Aksi Korporasi",
   "title": "UVCR Jelaskan ke Bursa Dampak [PMTHMETD]: ROE Turun 19,6%",
@@ -347,6 +395,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "nsss-direksi-lepas-1-99-miliar-saham-repo-suara-ke-16-20",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi [Lepas] 1,99 Miliar Saham Repo, Suara ke 16,20%",
+  "deck": "Direksi NSSS Samuel Tumbuh Bersama melepas 1,99 miliar saham lewat perjanjian repo untuk dipinjamkan, hak suaranya turun dari 24,57 persen menjadi 16,20 persen.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "repo saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-4545-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "zone-bukukan-laba-rp27-8-miliar-utang-bank-turun-tajam",
   "category": "Aksi Korporasi",
   "title": "ZONE Bukukan [Laba] Rp27,8 Miliar, Utang Bank Turun Tajam",
@@ -376,6 +440,22 @@ var ARTICLES = [
    "kepentingan nonpengendali"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260924143012-64425-0/FinancialStatement-2026-II-APII.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tapg-investindo-arya-beli-500-000-saham-tambahan",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Investindo Arya [Beli] 500.000 Saham Tambahan",
+  "deck": "PT Investindo Arya, entitas yang menduduki kursi Dewan Komisaris TAPG, membeli 500.000 saham tambahan pada 23 September 2026 seharga Rp1.999 per saham.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-7754-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6425,86 +6505,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b362b3e6be_473a63c817.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tlkm-kantongi-100-saham-tde-dari-telkomsigma-konsolidasi",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Kantongi 100% Saham TDE dari Telkomsigma [Konsolidasi]",
-  "deck": "Telkom membeli 19,19% sisa saham PT Telkom Data Ekosistem dari anak usahanya, Telkomsigma, sehingga kini menguasai penuh seluruh saham perusahaan tersebut.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "Telkom",
-   "Telkom Data Ekosistem",
-   "Telkomsigma"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ca0098258_1f62187a57.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cpin-ubs-jual-1-19-juta-saham-untuk-lindung-nilai-derivatif",
-  "category": "Aksi Korporasi",
-  "title": "CPIN: UBS Jual [1,19 Juta] Saham untuk Lindung Nilai Derivatif",
-  "deck": "UBS AG London Branch melepas 1,19 juta saham CPIN pada 15 September 2026 untuk lindung nilai transaksi derivatif nasabah, hak suaranya turun tipis ke 5,9995 persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CPIN",
-   "UBS AG",
-   "kepemilikan saham",
-   "Charoen Pokphand"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7771-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uvcr-jadwalkan-rupslb-27-oktober-bahas-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "UVCR Jadwalkan RUPSLB [27 Oktober], Bahas Saham Baru",
-  "deck": "UVCR menjadwalkan RUPSLB pada 27 Oktober 2026, dengan pemanggilan resmi 5 Oktober dan pencatatan pemegang saham berhak hadir per 2 Oktober 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "RUPSLB",
-   "Trimegah Karya Pratama",
-   "Ultra Voucher"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/82febb9b0b_3106f97983.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lopi-sentra-amanah-ventura-jual-2-13-juta-saham-kendali-bertahan",
-  "category": "Aksi Korporasi",
-  "title": "LOPI: Sentra Amanah Ventura [Jual] 2,13 Juta Saham, Kendali Bertahan",
-  "deck": "Pengendali LOPI, Sentra Amanah Ventura, menjual 2.134.200 saham senilai Rp131,7 juta pada 9 September 2026. Hak suara turun tipis dari 56,14 persen menjadi 55,94 persen, status pengendali tetap.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LOPI",
-   "kepemilikan saham",
-   "pengendali",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7238-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eral-perbesar-fasilitas-kredit-bca-jadi-rp1-14-triliun",
-  "category": "Aksi Korporasi",
-  "title": "ERAL Perbesar [Fasilitas Kredit] BCA jadi Rp1,14 Triliun",
-  "deck": "Sinar Eka Selaras dan 15 entitas anaknya menambah plafon kredit dari BCA, mayoritas untuk modal kerja dan transaksi valuta asing, berlaku hingga Mei 2027.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAL",
-   "kredit bank",
-   "BCA",
-   "fasilitas kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/89d9ea36e4_b3ae84362d.pdf",
   "sourceLabel": "IDX"
  }
 ];

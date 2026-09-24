@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mglv-rinci-jaminan-utang-rp10-75-t-ke-bni-untuk-nac-ngc",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Rinci [Jaminan] Utang Rp10,75 T ke BNI untuk NAC-NGC",
+  "deck": "Perseroan membuka rincian fasilitas pinjaman Rp10,75 triliun dari BNI ke anak usaha NAC dan NGC, lengkap dengan jaminan perusahaan dan jaminan aset, tanpa memerlukan persetujuan RUPS.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "transaksi material",
+   "utang",
+   "BNI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23e766b1a0_bc0a6dc4b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-350-000-saham-tiga-hari-beruntun",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 350.000 Saham, Tiga Hari Beruntun",
+  "deck": "Komisaris AKPI Henry Liem kembali menjual 350.000 saham pada 23 September 2026, hari ketiga beruntun ia melepas saham perseroan.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-2165-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-tunda-rupslb-lagi-mundur-ke-2-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIFI [Tunda] RUPSLB Lagi, Mundur ke 2 November 2026",
+  "deck": "Solusi Sinergi Digital menunda jadwal RUPSLB untuk ketiga kalinya, dari rencana semula 11 September menjadi 2 November 2026.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "Solusi Sinergi Digital",
+   "jadwal rapat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/95a4b25ca4_6497e200eb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bptr-beber-ke-bursa-pemegang-saham-utama-terus-beli-saham",
+  "category": "Aksi Korporasi",
+  "title": "BPTR Beber ke Bursa, Pemegang Saham Utama Terus [Beli] Saham",
+  "deck": "BPTR menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, dan menyebut pemegang saham utama masih membeli saham di pasar untuk tujuan investasi.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BPTR",
+   "volatilitas saham",
+   "free float",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d9bedd04e_3801b287c0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgl-komisaris-divestasi-175-8-juta-saham-hak-suara-nol",
+  "category": "Aksi Korporasi",
+  "title": "PPGL: Komisaris [Divestasi] 175,8 Juta Saham, Hak Suara Nol",
+  "deck": "Komisaris PPGL, Jap Astrid Patricia, melepas seluruh 175,8 juta sahamnya senilai sekitar Rp59,33 miliar dalam delapan tahap, membuat hak suaranya turun dari 22,80 persen menjadi nol.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "Jap Astrid Patricia",
+   "Divestasi Saham",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-3452-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pmui-beli-34-saham-main-dealer-motor-listrik-vinfast",
+  "category": "Aksi Korporasi",
+  "title": "PMUI Beli [34%] Saham Main Dealer Motor Listrik VinFast",
+  "deck": "PMUI mengakuisisi 34 persen saham PT Green Scooter Indonesia, main dealer motor listrik VinFast di Jawa Barat, tanpa mengambil alih kendali perusahaan itu.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PMUI",
+   "akuisisi saham",
+   "motor listrik",
+   "VinFast"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6151a80a69_74661618cb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mrat-direksi-beli-12-500-saham-senilai-rp4-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "MRAT: Direksi Beli [12.500] Saham Senilai Rp4,5 Juta",
+  "deck": "Direksi Mustika Ratu, Jodi Andrea Suryo Kusumo, membeli 12.500 saham perusahaan dalam dua transaksi pada 21 dan 22 September 2026.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MRAT",
+   "Mustika Ratu",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-7659-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-top-up-saham-repo-suara-ke-22-51",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi [Top-Up] Saham Repo, Suara ke 22,51%",
+  "deck": "Samuel Sekuritas Indonesia selaku direksi NSSS menambah 207,3 juta saham lewat top up perjanjian repo, mengerek hak suara dari 21,64% menjadi 22,51%.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "repo saham",
+   "kepemilikan direksi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-4495-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "lppi-tawarkan-obligasi-rp1-triliun-dan-sukuk-rp676-63-miliar",
   "category": "Aksi Korporasi",
   "title": "LPPI Tawarkan [Obligasi] Rp1 Triliun dan Sukuk Rp676,63 Miliar",
@@ -280,6 +408,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468933-trafik-pelabuhan-regional-2-meningkat-pelindo-catat-pertumbuhan-arus-petikemas-dan-barang-hingga-agustus-2026"
+ },
+ {
+  "slug": "waran-koci-w-delisting-mulai-5-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "Waran KOCI-W [Delisting] Mulai 5 Oktober 2026",
+  "deck": "BEI mengingatkan jadwal delisting Waran Seri I Kokoh Exa Nusantara (KOCI-W): pelaksanaan menjadi saham berakhir 5 Oktober 2026, setelah itu waran dihapus dari pencatatan bursa.",
+  "date": "23 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOCI",
+   "KOCI-W",
+   "waran",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan KOCI-W261002.-No. Peng-00176BEI.POP09-2026.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "prdl-alihkan-rp2-5-miliar-dana-ipo-ke-ahu-ruang-produksi",
@@ -6358,154 +6502,6 @@ var ARTICLES = [
    "pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d532314bfb_8323bd2b8a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vici-rilis-materi-public-expose-laba-bersih-anjlok-44",
-  "category": "Aksi Korporasi",
-  "title": "VICI Rilis Materi Public Expose, Laba Bersih [Anjlok] 44%",
-  "deck": "Materi public expose insidental VICI menunjukkan laba bersih turun 44 persen dan EBITDA turun 38 persen pada semester I 2026, di tengah suspensi saham oleh BEI akibat lonjakan harga.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICI",
-   "Public Expose",
-   "Suspensi BEI",
-   "Laba Bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3055f01c8_f15f77b6e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "qris-melonjak-dua-kali-lipat-bi-soroti-kesenjangan-literasi",
-  "category": "Perbankan",
-  "title": "QRIS Melonjak Dua Kali Lipat, BI Soroti Kesenjangan [Literasi]",
-  "deck": "Bank Indonesia menggelar seminar internasional soal pelindungan konsumen keuangan digital di Bali, di tengah lonjakan transaksi QRIS dan kesenjangan literasi keuangan yang masih lebar.",
-  "date": "17 September 2026",
-  "image": "assets/img/qris-melonjak-dua-kali-lipat-bi-soroti-kesenjangan-literasi.jpg",
-  "imageV": "mu5kzk6l",
-  "tags": [
-   "QRIS",
-   "Bank Indonesia",
-   "pelindungan konsumen",
-   "keuangan digital"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819026.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "bjbs-pefindo-turunkan-peringkat-bank-dan-sukuknya",
-  "category": "Aksi Korporasi",
-  "title": "BJBS: Pefindo [Turunkan] Peringkat Bank dan Sukuknya",
-  "deck": "Pefindo menurunkan peringkat bank bjb syariah dari idAA- menjadi idA+, dan peringkat sukuk subordinasinya dari idA(sy) menjadi idA-(sy), menyusul perubahan peringkat induk perusahaan.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BJBS",
-   "peringkat kredit",
-   "Pefindo",
-   "sukuk subordinasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ee5edc072b_5f9e70af51.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bahlil-tunjuk-dirjen-minerba-kawal-batu-bara-pln",
-  "category": "Energi",
-  "title": "Bahlil Tunjuk Dirjen Minerba [Kawal] Batu Bara PLN",
-  "deck": "Menteri ESDM Bahlil Lahadalia menugaskan Dirjen Minerba Tri Winarno mengawal langsung pengadaan batu bara PLN agar RKAB tak lagi jadi alasan pemadaman listrik.",
-  "date": "17 September 2026",
-  "image": "assets/img/bahlil-tunjuk-dirjen-minerba-kawal-batu-bara-pln.jpg",
-  "imageV": "mu5kzkn3",
-  "tags": [
-   "batu bara",
-   "PLN",
-   "Bahlil Lahadalia",
-   "RKAB"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467733-bahlil-tunjuk-dirjen-minerba-jadi-pengawal-batu-bara-pln-pastikan-tak-ada-lagi-alasan-rkab"
- },
- {
-  "slug": "untd-jawab-bursa-hpp-naik-68-8-covenant-bca-tak-terpenuhi",
-  "category": "Aksi Korporasi",
-  "title": "UNTD Jawab Bursa: HPP Naik 68,8%, Covenant BCA [Tak Terpenuhi]",
-  "deck": "UNTD membalas permintaan penjelasan lanjutan BEI dengan rincian kenaikan HPP 68,8%, konsentrasi penjualan 61,2% ke satu distributor, dan covenant EBITDA ke BCA yang belum terpenuhi.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTD",
-   "covenant",
-   "sepeda listrik",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/868d3a7188_5771c9d6f3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkgi-komisaris-tambah-saham-200-000-lembar",
-  "category": "Aksi Korporasi",
-  "title": "KKGI: Komisaris [Tambah] Saham 200.000 Lembar",
-  "deck": "Dewan Komisaris KKGI, Drs. Hendro Martowardojo, menambah kepemilikan saham lewat pembelian tidak langsung senilai sekitar Rp62 juta pada 16 September 2026.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KKGI",
-   "Resource Alam Indonesia",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17092026-2728-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sk-manajer-kopdes-merah-putih-terbit-gaji-diatur",
-  "category": "UMKM",
-  "title": "SK Manajer Kopdes Merah Putih Terbit, [Gaji] Diatur",
-  "deck": "Menteri Koperasi Ferry Juliantono menyebut SK pengangkatan manajer Kopdes Merah Putih, lengkap dengan gaji dan tunjangan, terbit paling lambat dua hari lagi.",
-  "date": "17 September 2026",
-  "image": "assets/img/sk-manajer-kopdes-merah-putih-terbit-gaji-diatur.jpg",
-  "imageV": "mu5kzl2j",
-  "tags": [
-   "Kopdes Merah Putih",
-   "Kementerian Koperasi",
-   "koperasi desa",
-   "Ferry Juliantono"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467722-sk-manajer-kopdes-merah-putih-terbit-1-2-hari-lagi-gaji-dan-tunjangan-ikut-diatur"
- },
- {
-  "slug": "koin-nihil-refloat-saham-kuartal-ii-2026-sisa-wajib-10-62",
-  "category": "Aksi Korporasi",
-  "title": "KOIN Nihil [Refloat] Saham Kuartal II 2026, Sisa Wajib 10,62%",
-  "deck": "Kokoh Inti Arebama (KOIN) tak merealisasikan pengalihan kembali saham pengendali ke publik pada April-Juni 2026; kewajiban divestasi 104,16 juta lembar atau 10,62% saham masih tersisa.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOIN",
-   "refloat saham",
-   "free float",
-   "tender offer"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f6cef76fa_c727b78ecb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-cabut-dooh-dari-pemantauan-khusus-mulai-18-september",
-  "category": "Aksi Korporasi",
-  "title": "BEI Cabut DOOH dari [Pemantauan Khusus] Mulai 18 September",
-  "deck": "BEI mencabut saham DOOH dari daftar pemantauan khusus mulai 18 September 2026, setelah sempat masuk akibat penghentian perdagangan lebih dari satu hari bursa.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "BEI",
-   "pemantauan khusus",
-   "Era Media Sejahtera"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9d270bc75_19935987bf.pdf",
   "sourceLabel": "IDX"
  }
 ];

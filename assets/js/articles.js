@@ -3,6 +3,213 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mglv-rinci-jaminan-utang-rp10-75-t-ke-bni-untuk-nac-ngc",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Rinci [Jaminan] Utang Rp10,75 T ke BNI untuk NAC-NGC",
+  "deck": "Perseroan membuka rincian fasilitas pinjaman Rp10,75 triliun dari BNI ke anak usaha NAC dan NGC, lengkap dengan jaminan perusahaan dan jaminan aset, tanpa memerlukan persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T10:51:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23e766b1a0_bc0a6dc4b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "transaksi material",
+   "utang",
+   "BNI"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menandatangani dokumen fasilitas pinjaman dari PT Bank Negara Indonesia Tbk (BNI) untuk dua anak usahanya pada 21 September 2026. PT Nextier Askara Center (NAC) memperoleh fasilitas hingga Rp4,13 triliun dengan tenor sampai 6 tahun yang bisa diperpanjang dua kali, masing-masing 1 tahun. PT Nextier GenAi Center (NGC) memperoleh fasilitas hingga Rp6,63 triliun dengan tenor sampai 7 tahun yang bisa diperpanjang sekali selama 1 tahun. Total nilai kedua fasilitas mencapai Rp10.754.099.000.000, dengan bunga mengambang mengikuti suku bunga pasar uang antar bank IndONIA tenor 90 hari ditambah 1,9 persen. BNI bertindak sebagai bank koordinator, penyusun fasilitas, sekaligus agen jaminan untuk kedua perjanjian.",
+   "Perseroan memberikan jaminan perusahaan atas kedua fasilitas ini, artinya MGLV menanggung langsung jika NAC atau NGC gagal membayar utangnya ke BNI. Jaminan tambahan yang diserahkan mencakup hak tanggungan atas tanah dan bangunan milik NAC, fidusia atas mesin, peralatan, piutang, dan klaim asuransi kedua anak usaha, gadai atas saham milik pemegang saham minoritas di NAC dan NGC, serta pengalihan bersyarat atas kontrak-kontrak material. Selama fasilitas berjalan, NAC dan NGC dibatasi untuk menambah utang baru, melepas aset, mengubah pengendalian perusahaan, melakukan penggabungan usaha atau akuisisi, dan membagikan dividen di luar yang diizinkan dalam perjanjian.",
+   "Perseroan menyatakan transaksi ini masuk kategori Transaksi Material karena nilainya melebihi 50 persen dari ekuitas Perseroan berdasarkan laporan keuangan per 30 April 2026, sekaligus tergolong Transaksi Afiliasi karena NAC dan NGC masing-masing dimiliki 99,9 persen oleh MGLV. Karena pinjaman diterima langsung oleh anak usaha dari bank dan jaminan yang diberikan Perseroan juga ditujukan untuk pinjaman bank tersebut, Perseroan menyebut dirinya dikecualikan dari kewajiban memakai penilai independen maupun meminta persetujuan RUPS berdasarkan Pasal 11 huruf b dan c POJK 17/2020. Sebagai gantinya, kewajiban Perseroan hanya mengumumkan keterbukaan informasi ini kepada pemegang saham."
+  ],
+  "fotoAdegan": "Exterior of a large industrial data center building with cooling units and power transmission lines, overcast daylight in Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi fundamental MGLV, karena rincian yang dibuka menegaskan bahwa fasilitas Rp10,75 triliun ini disangga penuh oleh jaminan Perseroan sendiri, ditambah aset anak usaha dan bahkan saham pemegang saham minoritas NAC serta NGC. Pos yang tersentuh adalah beban bunga, sebab bunga pinjaman ini mengambang mengikuti suku bunga pasar uang antar bank IndONIA ditambah 1,9 persen, sehingga cicilan bunga NAC dan NGC bisa naik ketika suku bunga pasar naik, dan jaminan perusahaan dari MGLV berarti kewajiban itu bisa berpindah ke neraca induk kalau anak usaha gagal bayar. Beban ini datang tak lama setelah ekuitas Perseroan tercatat turun 10,88 persen pada laporan sebelumnya, sehingga tambahan utang sebesar ini membuat rasio utang terhadap modal grup makin berat. Yang perlu dipantau selanjutnya adalah realisasi pencairan dana dari kedua fasilitas ini serta laporan keuangan kuartal mendatang, karena di situ akan terlihat apakah bunga mengambang tersebut mulai menggerus laba Perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-350-000-saham-tiga-hari-beruntun",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 350.000 Saham, Tiga Hari Beruntun",
+  "deck": "Komisaris AKPI Henry Liem kembali menjual 350.000 saham pada 23 September 2026, hari ketiga beruntun ia melepas saham perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T10:37:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-2165-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Anggota Dewan Komisaris Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan penjualan saham perseroan secara tidak langsung kepada Otoritas Jasa Keuangan pada 24 September 2026. Berdasarkan laporan tersebut, ia menjual 100.000 lembar saham pada harga Rp510 per saham dan 250.000 lembar saham pada harga Rp505 per saham, keduanya dieksekusi pada 23 September 2026 dengan tujuan transaksi tercatat sebagai jual saham. Total saham yang dilepas dalam laporan ini adalah 350.000 lembar.",
+   "Sebelum transaksi, Henry Liem tercatat memiliki 7.236.659 saham AKPI, setara dengan 1,182% hak suara di perseroan. Setelah penjualan, kepemilikannya berkurang menjadi 6.886.659 saham dengan hak suara turun menjadi 1,1248%. Jumlah saham yang dijual kali ini setara 4,84% dari total kepemilikannya sebelum transaksi, porsi yang lebih besar dibanding dua transaksi penjualan sebelumnya oleh komisaris yang sama.",
+   "Laporan ini merupakan yang ketiga dari Henry Liem dalam tiga hari beruntun. Sebelumnya, ia melaporkan penjualan 33.700 saham pada 22 September 2026, kemudian 250.100 saham pada 23 September 2026. Dengan tambahan 350.000 saham pada laporan ini, total saham AKPI yang dilepas Henry Liem dalam tiga hari terakhir mencapai sekitar 633.800 lembar."
+  ],
+  "fotoAdegan": "Workers monitoring large rolls of clear plastic film on an industrial extrusion line inside a packaging factory, fluorescent lighting",
+  "takeaway": "Laporan ini negatif tipis bagi AKPI, karena ini hari ketiga berturut-turut Henry Liem menjual sahamnya dan volumenya justru membesar setiap hari, dari 33.700 lembar pada 22 September, ke 250.100 lembar pada 23 September, ke 350.000 lembar pada laporan ini, sehingga totalnya sekitar 633.800 lembar dalam tiga hari. Yang tersentuh bukan kas atau modal AKPI, melainkan komposisi kepemilikan dan hak suara pengurus, sebab transaksi ini terjadi di pasar sekunder antar investor, bukan penerbitan saham baru oleh perseroan. Hak suara Henry Liem di AKPI turun dari 1,182% menjadi 1,1248%, dan meski porsinya masih kecil secara keseluruhan, pola tiga hari beruntun dengan volume yang terus membesar ini lebih terlihat seperti pengurangan eksposur yang terencana ketimbang transaksi sesekali. Yang perlu dipantau berikutnya adalah apakah Henry Liem kembali mengajukan laporan penjualan pada hari-hari mendatang, mengingat aturan OJK mewajibkan pelaporan transaksi kepemilikan saham pengurus paling lambat tiga hari kerja setelah eksekusi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wifi-tunda-rupslb-lagi-mundur-ke-2-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIFI [Tunda] RUPSLB Lagi, Mundur ke 2 November 2026",
+  "deck": "Solusi Sinergi Digital menunda jadwal RUPSLB untuk ketiga kalinya, dari rencana semula 11 September menjadi 2 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T10:15:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/95a4b25ca4_6497e200eb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "Solusi Sinergi Digital",
+   "jadwal rapat"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) kembali mengubah jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Rapat yang semula direncanakan pada 11 September 2026, sempat diundur ke 23 September 2026, lalu diundur lagi ke 21 Oktober 2026, kini dipastikan mundur untuk ketiga kalinya menjadi Senin, 2 November 2026 pukul 14.00 WIB. Pengumuman ini ditandatangani Direktur Utama WIFI, Hendrik Tee, pada 24 September 2026. Rapat akan digelar di Novotel Jakarta Mangga Dua Square, Ballroom Wakatobi Lantai 3, dan bisa diikuti secara elektronik lewat aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia.",
+   "Perseroan menetapkan sejumlah tanggal penting terkait jadwal baru ini. Pemegang saham yang berhak hadir dan memberi suara adalah mereka yang namanya tercatat di Daftar Pemegang Saham atau rekening efeknya terdaftar di KSEI per Kamis, 8 Oktober 2026 pukul 16.00 WIB. Usulan mata acara rapat dari pemegang saham harus diterima Direksi paling lambat Jumat, 2 Oktober 2026 pukul 16.00 WIB, yakni tujuh hari sebelum surat panggilan rapat yang akan diumumkan pada 9 Oktober 2026. Bagi yang ingin memberi kuasa lewat e-Proxy di aplikasi eASY.KSEI, batas waktunya Jumat, 30 Oktober 2026 pukul 12.00 WIB, satu hari kerja sebelum rapat berlangsung.",
+   "Bagi pemegang saham yang ingin hadir fisik di lokasi, perseroan mengingatkan bahwa kapasitas kehadiran langsung terbatas dan wajib membawa fotokopi KTP. Jika datang setelah proses registrasi ditutup atau kapasitas fisik sudah penuh, pemegang saham tetap bisa mengikuti rapat secara elektronik. Dokumen ini belum mengungkap mata acara RUPSLB itu sendiri, agenda lengkap baru akan disampaikan bersamaan dengan surat panggilan rapat pada 9 Oktober 2026."
+  ],
+  "fotoAdegan": "Technicians installing fiber-optic cables on a utility pole along a busy Jakarta street, midday light",
+  "takeaway": "Laporan ini netral bagi fundamental WIFI karena isinya murni soal penjadwalan ulang, bukan angka keuangan atau aksi korporasi baru. Yang patut dicermati justru polanya: ini sudah pengunduran ketiga sejak rencana awal pertengahan Agustus, dan dokumen ini tidak menjelaskan alasannya, sementara agenda rapat sendiri belum diumumkan sehingga pasar belum tahu keputusan apa yang sebenarnya sedang menunggu persetujuan pemegang saham. Penundaan berulang seperti ini biasanya berarti perseroan belum rampung menyiapkan materi atau perizinan untuk agenda yang akan dibahas, jadi belum tentu jadi masalah besar tapi layak diawasi. Yang perlu dipantau selanjutnya adalah surat panggilan resmi berisi mata acara rapat pada 9 Oktober 2026, batas usul agenda dari pemegang saham pada 2 Oktober 2026, serta pelaksanaan RUPSLB itu sendiri pada 2 November 2026, termasuk apakah jadwal ini akhirnya benar-benar berjalan tanpa mundur lagi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bptr-beber-ke-bursa-pemegang-saham-utama-terus-beli-saham",
+  "category": "Aksi Korporasi",
+  "title": "BPTR Beber ke Bursa, Pemegang Saham Utama Terus [Beli] Saham",
+  "deck": "BPTR menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, dan menyebut pemegang saham utama masih membeli saham di pasar untuk tujuan investasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T10:03:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d9bedd04e_3801b287c0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BPTR",
+  "tags": [
+   "BPTR",
+   "volatilitas saham",
+   "free float",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Batavia Prosperindo Trans Tbk (BPTR) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan terkait volatilitas transaksi efeknya, menyusul surat BEI Nomor S-12332/BEI.PP2/09-2026 tanggal 23 September 2026. Dalam surat bernomor 0101/BPT/DIR/IX/2026 yang ditandatangani Direktur Utama Paulus Handigdo pada 24 September 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, serta tidak memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di bursa. Perseroan menyebut tidak ada pula informasi atau fakta material lain yang belum diungkapkan ke publik.",
+   "Poin yang mencuat ada pada bagian keenam surat, saat BEI meminta rencana pemegang saham utama terkait kepemilikan sahamnya. BPTR menjawab bahwa pemegang saham utama tidak memiliki rencana spesifik, dan hanya melakukan pembelian saham di pasar dengan tujuan investasi. Perseroan tidak merinci jumlah saham yang dibeli maupun identitas pemegang saham utama yang dimaksud."
+  ],
+  "fotoAdegan": "Rows of white rental vans and cars parked in a Jakarta company lot at dusk, staff checking vehicles before dispatch",
+  "takeaway": "Laporan ini condong negatif bagi BPTR, karena mengonfirmasi pemegang saham utama masih terus membeli saham di pasar, padahal perseroan sendiri baru sepekan lalu mengakui belum memenuhi syarat minimum saham beredar bebas ke bursa. Yang tersentuh di sini adalah porsi saham beredar bebas atau free float, yaitu bagian saham yang dipegang publik di luar pengendali dan pihak terafiliasi. Pelaku pasar memperhatikan angka ini karena bursa mensyaratkan batas minimum free float agar saham cukup likuid diperdagangkan, dan kalau pemegang saham utama terus menambah kepemilikannya, porsi milik publik itu justru mengecil, bukan membesar. Yang perlu dipantau berikutnya adalah apakah BPTR akhirnya bisa memenuhi syarat free float tersebut, mengingat perseroan sebelumnya mengaku belum punya kepastian waktu penyelesaian, sementara pembelian oleh pemegang saham utama berjalan berlawanan arah dengan target itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ppgl-komisaris-divestasi-175-8-juta-saham-hak-suara-nol",
+  "category": "Aksi Korporasi",
+  "title": "PPGL: Komisaris [Divestasi] 175,8 Juta Saham, Hak Suara Nol",
+  "deck": "Komisaris PPGL, Jap Astrid Patricia, melepas seluruh 175,8 juta sahamnya senilai sekitar Rp59,33 miliar dalam delapan tahap, membuat hak suaranya turun dari 22,80 persen menjadi nol.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T09:51:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-3452-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "Jap Astrid Patricia",
+   "Divestasi Saham",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "Jap Astrid Patricia, anggota Dewan Komisaris PT Prima Globalindo Logistik Tbk (PPGL), melaporkan ke Otoritas Jasa Keuangan pada 24 September 2026 bahwa ia telah melepas seluruh 175.818.833 saham PPGL yang sebelumnya ia miliki, setara 22,80 persen hak suara perusahaan. Setelah transaksi, kepemilikannya menjadi nol saham dengan hak suara nol persen. Dalam laporan itu, ia menyatakan bukan merupakan pengendali PPGL.",
+   "Pelepasan saham dilakukan dalam delapan tahap sepanjang 18 sampai 24 September 2026, sebagian melalui kepemilikan tidak langsung dan sebagian langsung. Rinciannya: 25 juta saham dan 13.377.879 saham dijual pada 18 September, 25 juta saham pada 22 September, lalu pada 23 September dijual lagi 5 juta saham, dua kali 30 juta saham, dan 13.377.879 saham, serta 34.063.075 saham pada 24 September. Harga jual bervariasi antara Rp200 dan Rp400 per saham, dengan tujuan transaksi yang seluruhnya tercatat sebagai divestasi. Total nilai seluruh transaksi tersebut mencapai sekitar Rp59,33 miliar.",
+   "Penyelesaian transaksi dijadwalkan bertahap hingga 1 Oktober 2026, sesuai batas akhir periode pelaksanaan yang tercantum di setiap tahap penjualan. Laporan ini muncul beberapa hari setelah PPGL mengungkapkan ke Bursa Efek Indonesia bahwa piutang senilai Rp21,6 miliar dari hasil divestasi anak usaha JAYA ke pihak terafiliasi masih belum terbayar, serta bahwa aset JAYA yang dilepas itu sebelumnya menyumbang 90,09 persen dari total aset PPGL."
+  ],
+  "fotoAdegan": "Warehouse workers loading pallets onto a truck at a logistics depot, forklift moving crates, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental PPGL, karena Jap Astrid Patricia melepas habis seluruh 175,8 juta lembar sahamnya, bukan sebagian kecil, sehingga hak suaranya di perusahaan turun dari 22,80 persen menjadi nol dan ia praktis tidak lagi punya kepentingan finansial di PPGL. Yang tersentuh adalah komposisi pemegang saham dan hak suara, yaitu porsi kendali atas keputusan perusahaan lewat rapat pemegang saham. Pelaku pasar memperhatikan ini karena orang dalam yang paling tahu kondisi perusahaan memilih keluar total, apalagi transaksi ini terjadi persis setelah PPGL mengakui piutang Rp21,6 miliar dari divestasi JAYA masih mandek. Yang perlu dipantau adalah penyelesaian transaksi terakhir pada 1 Oktober 2026 dan apakah Jap Astrid Patricia akan mengundurkan diri dari kursi Dewan Komisaris, sebab laporan ini hanya mencatat pelepasan saham, bukan pengunduran diri dari jabatan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pmui-beli-34-saham-main-dealer-motor-listrik-vinfast",
+  "category": "Aksi Korporasi",
+  "title": "PMUI Beli [34%] Saham Main Dealer Motor Listrik VinFast",
+  "deck": "PMUI mengakuisisi 34 persen saham PT Green Scooter Indonesia, main dealer motor listrik VinFast di Jawa Barat, tanpa mengambil alih kendali perusahaan itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T09:39:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6151a80a69_74661618cb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PMUI",
+  "tags": [
+   "PMUI",
+   "akuisisi saham",
+   "motor listrik",
+   "VinFast"
+  ],
+  "body": [
+   "PT Prima Multi Usaha Indonesia Tbk (PMUI) menyampaikan keterbukaan informasi bahwa pada 22 September 2026 perusahaan membeli saham PT Green Scooter Indonesia, perseroan tertutup berkedudukan di Kota Bandung yang berstatus main dealer motor listrik VinFast untuk wilayah Jawa Barat. Saham yang dibeli setara 34 persen dari seluruh modal ditempatkan dan disetor Green Scooter Indonesia.",
+   "PMUI menyatakan nilai transaksi ini tidak melebihi 50 persen dari kekayaan bersih perusahaan dan berada di bawah 20 persen dari ekuitasnya, sehingga tidak melampaui batas yang diatur Pasal 16 ayat 10 anggaran dasar maupun ambang transaksi material dalam POJK 17/2020. Karena itu, PMUI tidak wajib memakai jasa penilai independen, tidak perlu membuat keterbukaan tambahan, dan tidak memerlukan persetujuan RUPS untuk transaksi ini. Meski memegang lebih dari sepertiga saham Green Scooter Indonesia, PMUI menegaskan tidak menjadi pengendali dan tidak berwenang menentukan pengelolaan maupun kebijakan perusahaan tersebut, sehingga transaksi ini tidak masuk kategori pengambilalihan menurut Pasal 125 UUPT. Perusahaan juga memastikan tidak ada hubungan afiliasi maupun benturan kepentingan antara direksi atau komisaris PMUI dengan pihak-pihak dalam transaksi.",
+   "PMUI menyebut informasi ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan. Dokumen ditandatangani oleh Ari Purwandini selaku Direktur sekaligus Corporate Secretary PMUI, di Cirebon pada 24 September 2026."
+  ],
+  "fotoAdegan": "Rows of small electric motorcycles parked in a dealership showroom, a technician checking a battery pack, bright afternoon light",
+  "takeaway": "Transaksi ini netral bagi PMUI. Perusahaan memang melangkah ke sektor motor listrik yang sedang tumbuh, tapi statusnya cuma investor minoritas tanpa kendali di Green Scooter Indonesia, dan nilai transaksinya dalam rupiah tidak diungkap sehingga besar dampaknya ke kinerja PMUI sulit diukur pasar. Yang tersentuh adalah kas dan ekuitas PMUI, karena dana pembelian 34 persen saham itu keluar dari kas perusahaan sementara nilainya sengaja dijaga di bawah seperlima ekuitas agar tidak masuk kategori transaksi material yang perlu persetujuan pemegang saham. Karena ambang itu membuat PMUI tidak wajib menggelar RUPS atau memakai penilai independen, investor perlu menunggu laporan keuangan kuartal berikutnya untuk melihat bagaimana investasi ini dicatat dan apakah Green Scooter Indonesia mulai menyumbang hasil bagi PMUI.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mrat-direksi-beli-12-500-saham-senilai-rp4-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "MRAT: Direksi Beli [12.500] Saham Senilai Rp4,5 Juta",
+  "deck": "Direksi Mustika Ratu, Jodi Andrea Suryo Kusumo, membeli 12.500 saham perusahaan dalam dua transaksi pada 21 dan 22 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T09:22:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-7659-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MRAT",
+  "tags": [
+   "MRAT",
+   "Mustika Ratu",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Jodi Andrea Suryo Kusumo, anggota direksi PT Mustika Ratu Tbk (MRAT), melaporkan pembelian saham perusahaan kepada Otoritas Jasa Keuangan pada 24 September 2026. Pembelian dilakukan secara tidak langsung dalam dua transaksi dengan tujuan investasi, yakni 4.200 lembar pada 21 September 2026 seharga Rp356 per saham, dan 8.300 lembar pada 22 September 2026 seharga Rp360 per saham. Total saham yang dibeli mencapai 12.500 lembar dengan nilai keseluruhan sekitar Rp4,48 juta.",
+   "Dengan tambahan tersebut, kepemilikan Jodi di Mustika Ratu naik dari 74.700 lembar menjadi 87.200 lembar, atau bertambah sekitar 16,7 persen dari kepemilikan sebelumnya. Hak suaranya di perusahaan ikut naik, meski tetap tipis, dari 0,017 persen menjadi 0,02 persen dari total saham beredar. Laporan ini disampaikan sesuai kewajiban keterbukaan bagi direksi dan komisaris berdasarkan POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Traditional Indonesian herbal cosmetics jars moving along a factory packaging line, workers in uniform, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi Mustika Ratu, karena nilai transaksinya sangat kecil, hanya sekitar Rp4,5 juta, sehingga tidak bisa dibaca sebagai sinyal keyakinan besar dari direksi terhadap prospek perusahaan, meski arahnya membeli bukan melepas saham. Yang tersentuh di sini murni kepemilikan pribadi sang direksi, bukan struktur keuangan perusahaan. Jumlah saham beredar Mustika Ratu secara keseluruhan tidak berubah, begitu juga ekuitas atau laba per saham perusahaan, karena ini transaksi jual beli di pasar antar pemegang saham, bukan penerbitan saham baru. Hak suara pelapor sendiri hanya bergeser dari 0,017 persen menjadi 0,02 persen, angka yang terlalu kecil untuk mengubah peta pengendalian perusahaan. Yang bisa dipantau selanjutnya adalah apakah direksi ini melanjutkan pola pembelian serupa dalam laporan-laporan berikutnya, yang baru akan berarti sesuatu kalau jumlahnya membesar signifikan dari waktu ke waktu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-direksi-top-up-saham-repo-suara-ke-22-51",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi [Top-Up] Saham Repo, Suara ke 22,51%",
+  "deck": "Samuel Sekuritas Indonesia selaku direksi NSSS menambah 207,3 juta saham lewat top up perjanjian repo, mengerek hak suara dari 21,64% menjadi 22,51%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T09:12:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-4495-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "repo saham",
+   "kepemilikan direksi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) melaporkan perubahan kepemilikan saham oleh Samuel Sekuritas Indonesia yang tercatat sebagai anggota direksi perseroan. Berdasarkan laporan keterbukaan yang diterima Otoritas Jasa Keuangan pada 24 September 2026, jumlah saham yang dimiliki bertambah dari 5.151.407.000 lembar menjadi 5.358.739.600 lembar, atau naik 207.332.600 lembar saham biasa.",
+   "Transaksi dilakukan pada 23 September 2026 dengan skema repurchase agreement atau perjanjian jual beli saham dengan janji beli kembali, berupa pembelian langsung senilai Rp760 per saham. Dokumen menyebut tujuan transaksi ini sebagai 'top up repo', yakni penambahan jumlah saham yang dijaminkan atau ditransaksikan dalam perjanjian repo yang sudah berjalan. Akibat penambahan ini, hak suara direksi tersebut di NSSS naik dari 21,64 persen menjadi 22,51 persen.",
+   "Laporan ini menambah rangkaian pelaporan kepemilikan saham NSSS lewat mekanisme repo yang cukup ramai sepanjang sepekan terakhir. Dalam periode yang sama, beberapa laporan serupa mencatat hak suara pihak terkait naik turun tajam, mulai dari 15,58 persen hingga sempat mencapai 36,75 persen, menunjukkan aktivitas jaminan atau pertukaran saham lewat repo yang berulang di internal perseroan."
+  ],
+  "fotoAdegan": "Brokers shaking hands over closed folders on a wooden desk in a Jakarta finance office, city skyline framed through the window, afternoon light.",
+  "takeaway": "Laporan ini saya nilai netral bagi NSSS, karena penambahan 207,3 juta saham ini hanya top up jaminan lewat perjanjian repo, bukan pembelian tunai baru di pasar terbuka, dan nilainya cuma sekitar 4 persen dari kepemilikan direksi tersebut sebelumnya. Yang bergerak di sini adalah hak suara direksi dalam rapat pemegang saham, naik dari 21,64 persen menjadi 22,51 persen, bukan jumlah total saham beredar NSSS, sehingga pemegang saham lain tidak ikut terdilusi oleh transaksi ini. Yang perlu dipantau adalah rangkaian transaksi repo serupa yang beruntun muncul sepanjang pekan ini dengan hak suara berbagai pihak naik turun tajam antara 15,58 persen sampai 36,75 persen, karena pola bolak-balik semacam ini biasanya menandakan saham sedang dipakai berulang kali sebagai jaminan utang, bukan sekadar akumulasi kepemilikan biasa.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "lppi-tawarkan-obligasi-rp1-triliun-dan-sukuk-rp676-63-miliar",
   "category": "Aksi Korporasi",
   "title": "LPPI Tawarkan [Obligasi] Rp1 Triliun dan Sukuk Rp676,63 Miliar",
@@ -451,6 +658,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah seluruh indikator operasional pelabuhan Pelindo Regional 2 naik bersamaan, bukan cuma satu saja, kunjungan kapal naik 2,4 persen, kontainer naik 3,7 persen, barang curah dan general cargo naik 10 persen, dan penumpang melonjak 32 persen. Yang terdampak langsung adalah pelaku usaha ekspor impor dan logistik yang memakai pelabuhan di wilayah kerja Regional 2, karena makin banyak kapal dan kontainer yang keluar masuk berarti barang mereka lebih lancar terkirim. Manajemen Pelindo sendiri mengaitkan kenaikan ini dengan dorongan Danantara, lembaga pengelola BUMN, agar perusahaan pelat merah makin produktif, sehingga laporan kinerja semacam ini kemungkinan akan terus muncul secara berkala sebagai bukti capaian ke publik. Yang perlu dicermati adalah apakah laporan Pelindo Regional lain menunjukkan pola kenaikan serupa, karena itu yang akan menentukan apakah pertumbuhan ini memang tren luas atau cuma menonjol di satu wilayah kerja saja.",
   "imageV": "mue5r0mk"
+ },
+ {
+  "slug": "waran-koci-w-delisting-mulai-5-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "Waran KOCI-W [Delisting] Mulai 5 Oktober 2026",
+  "deck": "BEI mengingatkan jadwal delisting Waran Seri I Kokoh Exa Nusantara (KOCI-W): pelaksanaan menjadi saham berakhir 5 Oktober 2026, setelah itu waran dihapus dari pencatatan bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 September 2026",
+  "isoDate": "2026-09-23T19:00:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan KOCI-W261002.-No. Peng-00176BEI.POP09-2026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOCI-W",
+  "tags": [
+   "KOCI",
+   "KOCI-W",
+   "waran",
+   "delisting"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menerbitkan pengumuman No. Peng-00176/BEI.POP/09-2026 pada 23 September 2026 untuk mengingatkan jadwal penghapusan pencatatan (delisting) Waran Seri I milik Kokoh Exa Nusantara Tbk dengan kode KOCI-W. Pengumuman ini merujuk pada ketentuan yang sudah ditetapkan BEI sejak 5 Oktober 2023 lewat surat Peng-P-01287/BEI.PP1/10-2023.",
+   "Berdasarkan jadwal tersebut, KOCI-W masih bisa diperdagangkan di Pasar Reguler dan Pasar Negosiasi sampai 30 September 2026, sementara di Pasar Tunai perdagangan berlangsung sampai 2 Oktober 2026. Pemegang waran masih punya kesempatan menukarkan (exercise) KOCI-W menjadi saham biasa Kokoh Exa Nusantara Tbk (KOCI) hingga 5 Oktober 2026.",
+   "Terhitung mulai 5 Oktober 2026, KOCI-W resmi tidak lagi diperdagangkan dan dikeluarkan dari Daftar Efek yang tercatat di BEI. Waran yang belum dieksekusi menjadi saham hingga tenggat tersebut akan kehilangan nilai bagi pemiliknya."
+  ],
+  "fotoAdegan": "Exterior of a stock exchange building in Jakarta's financial district with pedestrians passing by at midday",
+  "takeaway": "Pengumuman ini netral bagi emiten karena hanya menegaskan kembali jadwal yang sudah ditetapkan sejak Oktober 2023, tanpa membawa informasi baru soal kinerja Kokoh Exa Nusantara. Yang tersentuh adalah jumlah saham beredar: setiap pemegang KOCI-W yang menukar warannya menjadi saham sebelum tenggat akan menambah jumlah saham KOCI yang beredar, sehingga bisa mengecilkan porsi kepemilikan dan laba per saham pemegang saham lama, sementara waran yang tidak ditukar akan hangus tanpa nilai. Yang perlu dipantau berikutnya adalah batas akhir pelaksanaan waran pada 5 Oktober 2026, karena setelah tanggal itu KOCI-W otomatis dihapus dari pencatatan bursa dan pemegang yang belum menukarkan warannya kehilangan haknya.",
+  "sentimen": "netral"
  },
  {
   "slug": "prdl-alihkan-rp2-5-miliar-dana-ipo-ke-ahu-ruang-produksi",

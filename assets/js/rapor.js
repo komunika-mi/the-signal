@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-24T01:32:55.800+07:00",
+ "diperbarui": "2026-09-25T01:33:46.389+07:00",
  "entri": [
+  {
+   "id": "2026-09-24-3",
+   "edisi": "2026-09-24",
+   "benang": "Dilusi dan Keterlambatan Tata Kelola Emiten Kecil",
+   "klaim": "Sorotan bursa dan otoritas terhadap tata kelola emiten kecil akan terus berulang, dan hasilnya akan mulai terlihat saat pemegang saham independen menentukan menyetujui atau menolak rencana yang diajukan dalam RUPSLB HRTA dan IBOS.",
+   "penanda": "RUPSLB HRTA dan IBOS saat pemegang saham independen menentukan menyetujui atau menolak rencana yang diajukan",
+   "tenggat": "2026-10-16",
+   "tenggatLabel": "RUPSLB HRTA dan IBOS yang sama-sama dijadwalkan 16 Oktober 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-24-2",
+   "edisi": "2026-09-24",
+   "benang": "Rupiah dan IHSG Tertekan Bersamaan",
+   "klaim": "Arah rupiah dan IHSG masih condong melemah selama dua pemicu, harga minyak dunia dan ekspektasi The Fed menaikkan suku bunga, belum berbalik.",
+   "penanda": "perkembangan ketegangan Iran-AS dan sikap resmi The Fed",
+   "tenggat": null,
+   "tenggatLabel": "dalam waktu dekat",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-24-1",
+   "edisi": "2026-09-24",
+   "benang": "Gagal Bayar BUMN Karya Meluas",
+   "klaim": "Gagal bayar BUMN karya akan meluas ke entitas BUMN karya lain, yang terkonfirmasi jika Waskita Beton Precast benar menunda pembayaran kupon ke-8 Obligasi I dan II 2022 besok.",
+   "penanda": "Waskita Beton Precast benar menunda pembayaran kupon ke-8 Obligasi I dan II 2022 senilai 2 persen dari pokok yang jatuh tempo",
+   "tenggat": "2026-09-25",
+   "tenggatLabel": "besok, 25 September 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-23-3",
    "edisi": "2026-09-23",

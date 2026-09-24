@@ -2,6 +2,76 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-09-24",
+  "tanggalLabel": "Kamis, 24 September 2026",
+  "judul": "Gagal Bayar BUMN Karya Meluas, Rupiah dan Saham Ikut Tertekan",
+  "ringkas": "Waskita Karya resmi menunda pembayaran pokok obligasi yang jatuh tempo hari ini, sementara rupiah dan IHSG sama-sama melemah dan sejumlah emiten kecil kembali disorot ihwal dilusi pemegang saham minoritas.",
+  "benang": [
+   {
+    "judul": "Gagal Bayar BUMN Karya Meluas",
+    "isi": "Waskita Karya resmi menunda pembayaran pokok Obligasi III Seri A yang jatuh tempo hari ini, 24 September 2026, dan BEI melanjutkan suspensi sahamnya di seluruh pasar sambil menyebut ini indikasi masalah kelangsungan usaha. Sehari setelahnya, Waskita Beton Precast mengaku berpotensi menunda pembayaran kupon ke-8 Obligasi I dan II 2022 senilai 2 persen dari pokok yang jatuh tempo 25 September 2026, karena kas operasional tidak mencukupi. Waskita Beton Precast juga sudah mengajukan rencana pemulihan ekuitas negatif ke bursa lewat konversi utang jadi saham, setelah sebelumnya menerbitkan 39,35 miliar saham baru untuk keperluan serupa. Pola ini melanjutkan sinyal yang sudah terlihat kemarin soal utang jatuh tempo BUMN karya, dan kini terkonfirmasi lewat gagal bayar sungguhan, bukan sekadar potensi. Yang akan menentukan apakah ini meluas ke entitas BUMN karya lain adalah apakah Waskita Beton Precast benar menunda kupon besok, 25 September 2026."
+   },
+   {
+    "judul": "Rupiah dan IHSG Tertekan Bersamaan",
+    "isi": "Rupiah melemah 0,26 persen ke Rp17.864 per dolar AS, dipicu lonjakan harga minyak dunia akibat ketegangan Iran dan Amerika Serikat serta ekspektasi pasar bahwa The Fed akan menaikkan, bukan menurunkan, suku bunga. Data resmi sore ini menunjukkan pelemahan itu berlanjut ke Rp17.893 per dolar AS, sementara IHSG ikut turun 1,20 persen ke level 6.298,61. Tekanan ini melanjutkan pola kemarin, saat rupiah dan saham sama-sama tertekan meski Bank Indonesia menahan suku bunga acuan. Arahnya masih condong melemah selama dua pemicu itu, harga minyak dan ekspektasi The Fed, belum berbalik. Yang akan menguatkan atau mematahkan tekanan ini adalah perkembangan ketegangan Iran-AS dan sikap resmi The Fed dalam waktu dekat."
+   },
+   {
+    "judul": "Dilusi dan Keterlambatan Tata Kelola Emiten Kecil",
+    "isi": "Beberapa emiten kecil kembali menunjukkan pola yang sama, aksi korporasi yang mengurangi porsi pemegang saham minoritas atau keterlambatan transparansi laporan. UVCR mengonfirmasi rencana penerbitan 200 juta saham baru tanpa hak memesan efek dahulu yang seluruhnya mengalir ke pemegang saham pengendali, sehingga porsinya naik dari 623,5 juta menjadi 823,5 juta lembar sementara ROE turun 19,6 persen. HRTA memanggil RUPSLB pada 16 Oktober 2026 untuk meminta restu penerbitan saham dilusi hingga 10 persen, namun harga pelaksanaan dan calon pembelinya belum diungkap. Pola serupa terlihat dari sisi transparansi, DPNS dikenai sanksi Rp150 juta karena telat menyampaikan laporan keuangan untuk ketiga kalinya, dan IBOS baru akan mengesahkan laporan keuangan 2023 yang direvisi tiga tahun setelah periode itu berakhir. Sorotan bursa dan otoritas terhadap tata kelola emiten kecil ini tampak terus berulang, dan hasilnya akan mulai terlihat dari RUPSLB HRTA dan IBOS yang sama-sama dijadwalkan 16 Oktober 2026, saat pemegang saham independen menentukan menyetujui atau menolak rencana yang diajukan."
+   }
+  ],
+  "penutup": "Yang paling menentukan besok adalah apakah Waskita Beton Precast benar menunda pembayaran kupon obligasinya, karena itu akan menegaskan apakah gagal bayar BUMN karya masih kasus tunggal atau mulai meluas.",
+  "jumlahBahan": 45,
+  "bahanSlug": [
+   "kecelakaan-kerja-turun-drastis-kemnaker-dorong-higiene-industri",
+   "transaksi-nontunai-pemda-rp165-triliun-kki-meluas-ke-e-katalog",
+   "ri-genjot-ekspor-furnitur-kurangi-ketergantungan-ke-as",
+   "bmas-koreksi-laporan-dana-rights-issue-rp1-7-triliun",
+   "wsbp-paparkan-rencana-pulihkan-ekuitas-negatif-ke-bursa",
+   "wsbp-berpotensi-tunda-pembayaran-kupon-obligasi-i-dan-ii-2022",
+   "pray-tak-ada-fakta-material-di-balik-volatilitas-saham",
+   "merger-elnusa-pdsi-diwarnai-alarm-privatisasi-terselubung",
+   "moya-jelaskan-ke-bursa-pinjaman-naik-rp1-19-triliun",
+   "transaksi-ekonomi-digital-ri-tumbuh-40-agustus-2026",
+   "wskt-kena-suspensi-lanjutan-bei-gagal-bayar-pokok-obligasi",
+   "telkom-akses-rapikan-kabel-jaringan-di-banten",
+   "bnii-hasnita-dato-hashim-resmi-jadi-komisaris-bank-maybank",
+   "ibos-panggil-rupslb-sahkan-laporan-keuangan-2023-direvisi",
+   "truk-keluar-dari-pemantauan-khusus-bei-ke-papan-pengembangan",
+   "nicl-bagikan-dividen-interim-rp6-per-saham-total-rp63-8-m",
+   "mpix-jawab-bursa-pinjaman-rp8-miliar-bunga-16-persen-beli-tanah",
+   "part-jelaskan-ke-bursa-uang-muka-melonjak-1-198-untuk-mesin",
+   "uvcr-jelaskan-ke-bursa-dampak-pmthmetd-roe-turun-19-6",
+   "pupuk-indonesia-salurkan-67-pupuk-subsidi-jelang-tanam",
+   "asean-perkuat-kerja-sama-dagang-dengan-ue-inggris-rusia",
+   "zone-bukukan-laba-rp27-8-miliar-utang-bank-turun-tajam",
+   "apii-koreksi-laporan-keuangan-laba-pemegang-saham-turun-22-7",
+   "mpro-ralat-realisasi-dana-ipo-alokasi-ke-simprug-bergeser",
+   "panas-bumi-kamojang-diolah-petani-jadi-pupuk-hemat-rp82-juta",
+   "kapasitas-pelabuhan-naik-simpul-logistik-darat-perlu-dikuatkan",
+   "hrta-panggil-rupslb-minta-restu-terbitkan-saham-dilusi-10",
+   "bi-hong-kong-sepakati-kerja-sama-pembayaran-qr-lintas-negara",
+   "dpns-kena-sanksi-rp150-juta-telat-sampaikan-laporan-keuangan",
+   "pnm-dan-kementerian-umkm-luncurkan-program-laksmi-2026",
+   "hsb-investasi-klaim-17-juta-unduhan-aplikasi-trading",
+   "bike-tunda-rupslb-ojk-minta-penjelasan-agenda-rapat",
+   "mglv-rinci-jaminan-utang-rp10-75-t-ke-bni-untuk-nac-ngc",
+   "akpi-komisaris-henry-liem-jual-350-000-saham-tiga-hari-beruntun",
+   "wifi-tunda-rupslb-lagi-mundur-ke-2-november-2026",
+   "bptr-beber-ke-bursa-pemegang-saham-utama-terus-beli-saham",
+   "rupiah-melemah-ke-rp17-864-tertekan-lonjakan-harga-minyak",
+   "ppgl-komisaris-divestasi-175-8-juta-saham-hak-suara-nol",
+   "pmui-beli-34-saham-main-dealer-motor-listrik-vinfast",
+   "harga-emas-antam-hari-ini-turun-jadi-rp2-605-000-gram",
+   "mrat-direksi-beli-12-500-saham-senilai-rp4-5-juta",
+   "nsss-direksi-top-up-saham-repo-suara-ke-22-51",
+   "lppi-tawarkan-obligasi-rp1-triliun-dan-sukuk-rp676-63-miliar",
+   "suspensi-saham-akku-dicabut-bei-setelah-6-bulan",
+   "bata-presiden-direktur-mundur-tunggu-keputusan-rups"
+  ],
+  "dibuat": "2026-09-24T18:32:14.390Z"
+ },
+ {
   "tanggal": "2026-09-23",
   "tanggalLabel": "Rabu, 23 September 2026",
   "judul": "Rupiah Tertekan Meski BI Tahan Bunga, Utang BUMN Karya Kian Berat",
@@ -2039,28 +2109,5 @@ var HARIAN_ARSIP = [
   "penutup": "Yang paling menentukan besok adalah apakah rupiah mulai melandai setelah efek sentimen MSCI mereda, karena itu akan menunjukkan apakah tekanan hari ini benar bersifat sementara.",
   "jumlahBahan": 19,
   "dibuat": "2026-08-14T03:32:00.345Z"
- },
- {
-  "tanggal": "2026-08-12",
-  "tanggalLabel": "Rabu, 12 Agustus 2026",
-  "judul": "Pemerintah Isi Kursi Kunci Keuangan, Pasar Pantau Ketat",
-  "ringkas": "Hari ini sorotan pasar keuangan tertuju pada pengisian sejumlah posisi strategis, dari calon tunggal Gubernur Bank Indonesia hingga pembahasan kepemilikan Bursa Efek Indonesia, sementara data permintaan domestik Juli menunjukkan pola normalisasi musiman ketimbang pelemahan.",
-  "benang": [
-   {
-    "judul": "Kursi-kursi kunci sektor keuangan mulai terisi",
-    "isi": "Presiden Prabowo mengajukan Destry Damayanti sebagai calon tunggal Gubernur BI menggantikan Perry Warjiyo yang mundur akhir Juli, sementara pemerintah juga menyebut sudah mengantongi calon Gubernur PFII dari kalangan internal, dan Danantara masih membahas porsi kepemilikan sahamnya di BEI bersama OJK di tengah proses demutualisasi bursa. Ketiganya menunjukkan pola yang sama, tokoh dan entitas dari lingkaran pemerintah mengisi posisi-posisi strategis di lembaga keuangan yang sebelumnya lebih independen dari struktur pemerintahan sehari-hari. Pasar mengikuti dari dekat, rupiah bergerak dari Rp17.824 per dolar AS pada Selasa ke Rp17.848 pada Rabu pagi, dengan pencalonan Destry disebut sebagai salah satu faktor yang dicermati investor. Arah ini akan lebih terkonfirmasi begitu DPR menuntaskan uji kelayakan Destry dan Danantara resmi mengambil porsi saham di BEI."
-   },
-   {
-    "judul": "Permintaan domestik: normalisasi atau mulai melambat",
-    "isi": "Data Juli yang dirilis Bank Indonesia menunjukkan sinyal campuran. Penjualan eceran diproyeksikan naik 0,9 persen secara tahunan namun turun 0,3 persen dibanding Juni, yang menurut BI disebabkan normalisasi permintaan pasca hari besar keagamaan dan libur sekolah. Kontraksi penjualan properti residensial primer mengecil tajam dari 25,67 persen menjadi 2,36 persen secara tahunan, sementara uang primer tumbuh dipercepat dari 13,8 persen menjadi 17,1 persen yoy. Namun Indeks Keyakinan Konsumen justru melambat ke 116,8, dengan dua komponen pembentuknya, indeks kondisi ekonomi saat ini dan indeks ekspektasi konsumen, kompak turun. Bukti saat ini condong ke skenario normalisasi musiman ketimbang pelemahan struktural, karena penjelasan resmi BI sendiri mengaitkan penurunan bulanan dengan faktor libur panjang, dan likuiditas justru melebar. Yang membedakan dua skenario ini adalah apakah keyakinan konsumen dan penjualan eceran kembali naik begitu efek libur usai, atau justru terus melandai, dan itu akan mulai terlihat dari rilis Survei Konsumen BI serta data penjualan eceran untuk Agustus 2026 yang biasa dipublikasikan akhir Agustus hingga awal September."
-   },
-   {
-    "judul": "Ekspor digenjot ke pasar baru, mamin masih tertinggal",
-    "isi": "Kemendag mencatat sejumlah langkah dagang dalam sehari, penandatanganan ekspor cokelat bubuk dan karbon aktif senilai Rp3,5 miliar ke importir Arab Saudi, serta pembahasan perluasan ekspor otomotif dengan TMMIN menjelang target penyelesaian kerja sama dagang dengan negara-negara Teluk paling lambat November 2026. Di saat bersamaan, ekspor makanan dan minuman olahan Indonesia tercatat US$1,25 miliar pada 2025, masih di bawah Thailand dan Vietnam serta nyaris disusul Singapura, walau pasar mamin global tumbuh 7 persen per tahun. Skala kesepakatan yang muncul hari ini, Rp3,5 miliar untuk satu transaksi, tergolong kecil dibanding total perdagangan nonmigas RI-Arab Saudi yang mencapai US$1,68 miliar hanya dalam semester pertama 2026, sehingga besaran nyata dari dorongan diversifikasi pasar ke Timur Tengah ini belum terlihat dari angka hari ini. Penanda yang akan menunjukkan apakah dorongan ini membuahkan hasil signifikan adalah rampungnya perundingan kerja sama dagang dengan GCC yang ditargetkan tuntas paling lambat November 2026."
-   }
-  ],
-  "penutup": "Yang paling menentukan arah sehari ke depan adalah bagaimana pasar merespons begitu proses pencalonan Destry Damayanti mulai dibahas DPR, serta apakah data konsumsi berikutnya menegaskan pola normalisasi musiman atau justru pelemahan lanjutan.",
-  "jumlahBahan": 19,
-  "dibuat": "2026-08-12T13:13:55.110Z"
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "sQQV104S7mQ",
+  "title": "Rokok Ilegal Tekan Industri Rokok Legal",
+  "category": "Industri",
+  "program": "IBF tvOne",
+  "summary": "Industri hasil tembakau legal di Indonesia tertekan peredaran rokok ilegal, padahal sektor ini menyumbang hampir 10 persen penerimaan negara atau sekitar Rp200 triliun.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut penerimaan negara dan keberlangsungan tenaga kerja di industri tembakau legal.",
+  "terbit": "2026-09-24T00:33:07+00:00"
+ },
+ {
   "id": "ykJ-AWHckEQ",
   "title": "Simalakama Bisnis Rokok di Indonesia",
   "category": "Industri",

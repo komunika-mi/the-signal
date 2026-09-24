@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "sQQV104S7mQ",
+  "title": "Rokok Ilegal Tekan Industri Rokok Legal",
+  "category": "Industri",
+  "program": "IBF tvOne",
+  "summary": "Industri hasil tembakau legal di Indonesia tertekan peredaran rokok ilegal, padahal sektor ini menyumbang hampir 10 persen penerimaan negara atau sekitar Rp200 triliun.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut penerimaan negara dan keberlangsungan tenaga kerja di industri tembakau legal."
+ },
+ {
   "id": "ykJ-AWHckEQ",
   "title": "Simalakama Bisnis Rokok di Indonesia",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "AKIM",
   "summary": "Antrean Biosolar kembali mengular di sejumlah SPBU Lampung. Sopir truk dan angkutan harus menunggu berjam-jam, sementara Pemprov Lampung mengusulkan penambahan kuota solar bersubsidi.",
   "takeaway": "Kelangkaan solar bersubsidi berpotensi mengganggu kelancaran distribusi logistik dan menambah beban biaya operasional sektor transportasi."
- },
- {
-  "id": "XXQTmitcdwk",
-  "title": "Purbaya Mengaku Lega Usai Lepas Jabatan Menkeu",
-  "category": "Makroekonomi",
-  "program": "Kabar Petang",
-  "summary": "Purbaya Yudhi Sadewa mengaku bisa lebih tenang setelah menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara.",
-  "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan perlu dicermati karena berkaitan dengan arah kebijakan fiskal ke depan."
  }
 ];

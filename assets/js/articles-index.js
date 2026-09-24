@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pray-tak-ada-fakta-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "PRAY: Tak Ada [Fakta Material] di Balik Volatilitas Saham",
+  "deck": "Famon Awal Bros Sedaya menjawab permintaan penjelasan BEI soal gejolak transaksi sahamnya, menegaskan tak ada informasi material maupun rencana aksi korporasi yang disembunyikan.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRAY",
+   "Famon Awal Bros Sedaya",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/debeb6a201_afd04e1cf8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "moya-jelaskan-ke-bursa-pinjaman-naik-rp1-19-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MOYA Jelaskan ke Bursa, [Pinjaman] Naik Rp1,19 Triliun",
+  "deck": "PT Moya Indonesia (MOYA) menjawab permintaan penjelasan BEI atas laporan keuangan paruh pertama 2026, dari pelunasan piutang pihak berelasi hingga kenaikan pinjaman untuk proyek air minum.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MOYA",
+   "laporan keuangan",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0933d3562_46ed7dd7f5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "transaksi-ekonomi-digital-ri-tumbuh-40-agustus-2026",
   "category": "Moneter",
   "title": "Transaksi Ekonomi Digital RI [Tumbuh] 40% Agustus 2026",
@@ -23,6 +55,22 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "wskt-kena-suspensi-lanjutan-bei-gagal-bayar-pokok-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "WSKT Kena [Suspensi] Lanjutan BEI, Gagal Bayar Pokok Obligasi",
+  "deck": "BEI melanjutkan penghentian perdagangan saham WSKT di seluruh pasar sejak Kamis, setelah perseroan menunda pembayaran pokok Obligasi III Seri A yang jatuh tempo 24 September 2026.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5fe814b4b9_8d4803084a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkom-akses-rapikan-kabel-jaringan-di-banten",
   "category": "Teknologi",
   "title": "Telkom Akses Rapikan Kabel Jaringan di [Banten]",
@@ -38,6 +86,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469151-temui-gubernur-banten-andra-soni-telkom-akses-dorong-penguatan-dan-penataan-infrastruktur-digital"
+ },
+ {
+  "slug": "bnii-hasnita-dato-hashim-resmi-jadi-komisaris-bank-maybank",
+  "category": "Aksi Korporasi",
+  "title": "BNII: Hasnita Dato Hashim Resmi Jadi [Komisaris] Bank Maybank",
+  "deck": "OJK menyetujui Dr Hasnita Dato Hashim sebagai komisaris baru Bank Maybank Indonesia, efektif 23 September 2026, melengkapi hasil keputusan RUPST April 2026.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNII",
+   "Bank Maybank Indonesia",
+   "Komisaris",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bb46bb9686_3eaacbc352.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ibos-panggil-rupslb-sahkan-laporan-keuangan-2023-direvisi",
@@ -6442,70 +6506,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-4173-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ultj-tanggapi-permintaan-bursa-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "ULTJ Tanggapi Permintaan Bursa soal [Volatilitas] Saham",
-  "deck": "Ultrajaya menjawab permintaan penjelasan Bursa Efek Indonesia atas lonjakan volume dan harga sahamnya pada 15 September 2026, membantah ada informasi material yang belum diungkap.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "rights issue",
-   "Bursa Efek Indonesia",
-   "pengalihan pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7bd1bdc09f_26ed7216be.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bafi-batalkan-direktur-baru-susun-ulang-direksi",
-  "category": "Aksi Korporasi",
-  "title": "BAFI Batalkan Direktur Baru, Susun Ulang [Direksi]",
-  "deck": "Pemegang saham BAFI membatalkan pengangkatan Anditya Soepardi sebagai direktur dan menetapkan ulang susunan direksi, sementara satu calon direktur lain masih menunggu persetujuan OJK.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAFI",
-   "perubahan direksi",
-   "OJK",
-   "multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/18a69064b2_c714b28b3d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baby-laba-operasional-melonjak-270-usai-integrasi-egi",
-  "category": "Aksi Korporasi",
-  "title": "BABY: Laba Operasional [Melonjak] 270% Usai Integrasi EGI",
-  "deck": "Integrasi bisnis Multitrend Indo (BABY) dengan Emway Globalindo pasca akuisisi mendorong laba operasional kuartal II 2026 melonjak 270,9% dan pendapatan konsolidasi naik 17% secara tahunan.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BABY",
-   "Multitrend Indo",
-   "Emway Globalindo",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/314c7a7d40_5076cd0112.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apex-jelaskan-ke-bei-pendapatan-anjlok-21-7-phm-96-6",
-  "category": "Aksi Korporasi",
-  "title": "APEX Jelaskan ke BEI: [Pendapatan] Anjlok 21,7%, PHM 96,6%",
-  "deck": "Menjawab surat permintaan penjelasan BEI, Apexindo blak-blakan soal utang, ketergantungan pada satu pelanggan, dan sewa rig ke pihak berelasi yang naik 151 persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APEX",
-   "Apexindo Pratama Duta",
-   "PMTHMETD",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0b65b46f7c_fdea5ce1e5.pdf",
   "sourceLabel": "IDX"
  }
 ];

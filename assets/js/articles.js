@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pray-tak-ada-fakta-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "PRAY: Tak Ada [Fakta Material] di Balik Volatilitas Saham",
+  "deck": "Famon Awal Bros Sedaya menjawab permintaan penjelasan BEI soal gejolak transaksi sahamnya, menegaskan tak ada informasi material maupun rencana aksi korporasi yang disembunyikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T18:51:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/debeb6a201_afd04e1cf8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRAY",
+  "tags": [
+   "PRAY",
+   "Famon Awal Bros Sedaya",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Famon Awal Bros Sedaya Tbk (PRAY), operator jaringan Primaya Hospital, memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-12256/BEI.PP3/09-2026 tanggal 22 September 2026 terkait volatilitas transaksi efeknya. Tanggapan perusahaan disampaikan melalui surat nomor 027/Corpsec/FABS/IX/2026 tanggal 24 September 2026, ditandatangani oleh Leona Agustine Karnali selaku Direktur dan Chief Executive Officer.",
+   "Dalam suratnya, PRAY menyatakan tidak memiliki atau mengetahui informasi maupun fakta material yang wajib diumumkan dan dapat memengaruhi nilai efek atau keputusan investasi pemodal, sebagaimana diatur POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menegaskan tidak mengetahui atau menerima laporan mengenai aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham. Terkait rencana aksi korporasi, PRAY menyatakan belum memiliki rencana apa pun dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa.",
+   "Perusahaan menambahkan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik yang dapat memengaruhi harga efek atau kelangsungan usahanya. Corporate Secretary PRAY juga mengonfirmasi langsung kepada pemegang saham utama, dan hasilnya pemegang saham utama tersebut menyatakan tidak memiliki rencana apa pun terkait kepemilikan sahamnya di perseroan saat ini."
+  ],
+  "fotoAdegan": "Wide exterior shot of a modern private hospital entrance in Jakarta, an ambulance parked outside, people walking in under midday light",
+  "takeaway": "Penjelasan ini condong netral bagi PRAY, karena isinya sepenuhnya jawaban penolakan standar bahwa tidak ada informasi tersembunyi, bukan pengumuman perubahan apa pun pada bisnis atau keuangan perusahaan. Tidak ada pos kinerja yang tersentuh di sini, bukan ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham, karena isi surat murni kepatuhan terhadap permintaan bursa, bukan transaksi korporasi. Yang perlu dipantau berikutnya adalah apakah komitmen PRAY untuk selalu menyampaikan keterbukaan informasi benar dipegang jika ada aksi korporasi dalam tiga bulan ke depan, serta apakah Bursa Efek Indonesia masih akan memantau lebih lanjut pergerakan harga sahamnya usai penjelasan ini disampaikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "moya-jelaskan-ke-bursa-pinjaman-naik-rp1-19-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MOYA Jelaskan ke Bursa, [Pinjaman] Naik Rp1,19 Triliun",
+  "deck": "PT Moya Indonesia (MOYA) menjawab permintaan penjelasan BEI atas laporan keuangan paruh pertama 2026, dari pelunasan piutang pihak berelasi hingga kenaikan pinjaman untuk proyek air minum.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T18:23:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0933d3562_46ed7dd7f5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MOYA",
+  "tags": [
+   "MOYA",
+   "laporan keuangan",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Moya Indonesia (MOYA) menyampaikan tanggapan resmi atas surat permintaan penjelasan Bursa Efek Indonesia (BEI) Nomor S-12231/BEI.PP2/09-2026 tanggal 22 September 2026, terkait telaah laporan keuangan konsolidasian per 30 Juni 2026 dan 31 Desember 2025. Tanggapan ditandatangani secara elektronik oleh General Manager Elena Anindita pada 24 September 2026, dan mencakup sejumlah pos yang dipertanyakan bursa karena mengalami perubahan signifikan, mulai dari piutang, pajak, uang muka konstruksi, aset kontrak, pinjaman, hingga ekuitas.",
+   "Saldo piutang lain-lain kepada pihak berelasi anjlok 99,98 persen, dari Rp1.536,45 miliar pada akhir 2025 menjadi Rp343,14 juta per 30 Juni 2026, setelah tiga pihak berelasi yakni KMG, PMP, dan KHS melunasi utangnya senilai total Rp1.340,00 miliar pada 14 April 2026. Sisa piutang Rp343,14 juta kini hanya kepada TPE, salah satu pemegang saham Perseroan, yang berasal dari pinjaman untuk mendukung operasional TPE. Perusahaan sudah menerima cicilan Rp108,00 juta dari TPE dan memperkirakan pelunasan penuh rampung dalam sekitar 12 bulan ke depan. Di pos lain, pajak dibayar di muka bagian lancar naik 280,83 persen menjadi Rp38,06 miliar, didorong angsuran PPh Pasal 25 anak usaha sebesar Rp29,24 miliar, sementara sisa sengketa pajak tahun 2018 senilai Rp4,08 miliar masih menunggu putusan banding.",
+   "Biaya dibayar di muka dan uang muka melonjak 265,43 persen menjadi Rp389,65 miliar, terutama karena uang muka konstruksi terkait Perjanjian Kerja Sama (PKS) naik menjadi Rp285,79 miliar untuk membiayai proyek Sistem Penyediaan Air Minum (SPAM) dan jaringan distribusi air bersih, dengan realisasi bertahap hingga tahun 2028. Aset kontrak, yaitu hak tagih perusahaan atas pekerjaan konstruksi yang belum resmi ditagih ke mitra kerja sama, membengkak 36,40 persen menjadi Rp4.581,17 miliar, didominasi proyek Greenfield Bundling di Jatiluhur Hilir, Karian Serpong, dan Buaran 3 Hilir senilai Rp4.486,38 miliar yang masih dalam tahap konstruksi. Namun penagihan tunai atas kontrak itu selama semester pertama 2026 cuma Rp11,74 miliar, jauh di bawah Rp627,24 miliar yang tertagih sepanjang 2025, karena mekanisme penagihan ke pemberi konsesi baru cair setelah paket pekerjaan tertentu rampung, sementara pendapatannya sudah diakui lebih dulu sesuai standar akuntansi.",
+   "Di sisi pendanaan, pinjaman tidak lancar naik 22,55 persen menjadi Rp6.469,20 miliar, dengan pinjaman bank sindikasi bertambah Rp1.214,37 miliar menjadi Rp3.787,79 miliar dan pinjaman dari PT Sarana Multi Infrastruktur naik menjadi Rp144,35 miliar, seluruhnya untuk mendanai belanja modal proyek SPAM di anak usaha ABJ dan ABT. Perusahaan menyatakan sumber pembayaran cicilan utang berasal dari penjualan air, penagihan kontrak, dan dividen dari anak usaha. Perseroan juga menyajikan kembali akun Ekuitas Merging Entities yang sebelumnya nihil menjadi Rp380,15 miliar per 31 Desember 2025 dan Rp281,86 miliar per 1 Januari 2025, menyusul penerapan standar akuntansi PSAK 338 atas akuisisi PT Aetra Air Tangerang dan PT Air Semarang Barat pada Januari 2026, yang keduanya berada dalam pengendalian yang sama dengan Perseroan."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting large water pipes at an urban water treatment construction site, overcast morning light",
+  "takeaway": "Penjelasan ini netral bagi MOYA: pelunasan piutang pihak berelasi sebesar Rp1,34 triliun jelas menyehatkan neraca, tapi di sisi lain pinjaman tidak lancar bertambah Rp1,19 triliun dan aset kontrak menumpuk jauh lebih cepat dibanding uang yang benar-benar ditagih, sehingga dua sisi saling menyeimbangkan. Yang tersentuh adalah arus kas dan ekuitas: aset kontrak adalah hak tagih ke mitra kerja sama yang baru cair setelah syarat tertentu terpenuhi, jadi ketika nilainya naik jauh lebih cepat dari uang tunai yang masuk, penagihan cuma Rp11,74 miliar dibanding pendapatan yang diakui sekitar Rp1,23 triliun, itu tandanya kas yang benar-benar diterima perusahaan tertinggal dari laba yang dicatat di atas kertas. Ekuitas juga berubah karena akuisisi dua anak usaha air minum di Semarang dan Tangerang dicatat ulang secara retrospektif sesuai aturan akuntansi baru, bukan karena kinerja operasional berubah. Yang perlu dipantau berikutnya adalah pelunasan sisa piutang ke TPE senilai Rp343,14 juta yang ditargetkan tuntas dalam sekitar 12 bulan, hasil proses banding atas sengketa pajak 2018 senilai Rp4,08 miliar, serta realisasi proyek SPAM yang menyerap uang muka konstruksi hingga tahun 2028.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "transaksi-ekonomi-digital-ri-tumbuh-40-agustus-2026",
   "category": "Moneter",
   "title": "Transaksi Ekonomi Digital RI [Tumbuh] 40% Agustus 2026",
@@ -31,6 +84,32 @@ var ARTICLES = [
   "imageV": "muffq7qm"
  },
  {
+  "slug": "wskt-kena-suspensi-lanjutan-bei-gagal-bayar-pokok-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "WSKT Kena [Suspensi] Lanjutan BEI, Gagal Bayar Pokok Obligasi",
+  "deck": "BEI melanjutkan penghentian perdagangan saham WSKT di seluruh pasar sejak Kamis, setelah perseroan menunda pembayaran pokok Obligasi III Seri A yang jatuh tempo 24 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T18:05:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5fe814b4b9_8d4803084a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) memutuskan melanjutkan penghentian sementara perdagangan efek PT Waskita Karya (Persero) Tbk (WSKT) di seluruh pasar, berlaku sejak Sesi I Periodic Call Auction, Kamis, 24 September 2026, hingga ada pengumuman lebih lanjut. Saham WSKT saat ini tercatat di Papan Pemantauan Khusus. Alasan resmi yang tertulis BEI adalah kegagalan membayar kupon dan atau pokok obligasi.",
+   "Keputusan ini merujuk pada surat PT Kustodian Sentral Efek Indonesia (KSEI) Nomor KSEI-6955/DIR/0926 tanggal 23 September 2026 perihal penundaan pembayaran pokok Obligasi III Waskita Karya Tahun 2021 Seri A (WSKT03A), yang seharusnya efektif dibayar 24 September 2026. BEI juga mendasarkan keputusannya pada Ketentuan III.1.5 Peraturan Bursa Nomor I-L tentang Suspensi Efek. Dalam pengumumannya, BEI secara langsung menyatakan bahwa penundaan pembayaran ini menunjukkan adanya permasalahan pada kelangsungan usaha atau going concern perseroan.",
+   "Pengumuman ditandatangani Kepala Divisi Penilaian Perusahaan 3 BEI, Lidia M. Panjaitan, bersama Kepala Divisi Pengaturan dan Operasional Perdagangan, Pande Made Kusuma Ari A. BEI meminta seluruh pihak yang berkepentingan terus memantau keterbukaan informasi yang disampaikan Waskita. Sebagaimana pernah diberitakan, kegagalan bayar ini terkait pokok obligasi senilai Rp722 miliar yang seharusnya jatuh tempo pada tanggal yang sama."
+  ],
+  "fotoAdegan": "Idle construction cranes and unfinished elevated toll road pillars at a quiet infrastructure site, overcast afternoon light in Indonesia",
+  "takeaway": "Laporan ini negatif bagi Waskita Karya, sebab BEI sendiri secara eksplisit menyebut penundaan bayar pokok obligasi WSKT03A ini sebagai indikasi masalah kelangsungan usaha, dan sahamnya dihentikan diperdagangkan tanpa kepastian kapan dibuka lagi. Yang tersentuh di sini adalah arus kas, yaitu kemampuan perusahaan membayar kewajiban tepat waktu, karena gagal bayar pokok obligasi berarti kas perseroan belum cukup menutup utang yang jatuh tempo, dan suspensi membuat investor publik untuk sementara sama sekali tidak bisa membeli atau menjual saham WSKT di bursa. Yang perlu dipantau berikutnya adalah pengumuman BEI lanjutan soal syarat pencabutan suspensi ini, serta apakah Waskita akan menempuh restrukturisasi untuk seri WSKT03A ini, seperti yang sudah disepakati pemegang obligasi untuk seri lain pekan ini dengan penurunan kupon ke 5 persen.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "telkom-akses-rapikan-kabel-jaringan-di-banten",
   "category": "Teknologi",
   "title": "Telkom Akses Rapikan Kabel Jaringan di [Banten]",
@@ -55,6 +134,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini baru sebatas komitmen untuk berkoordinasi, bukan aturan yang sudah berlaku. Gubernur Banten meminta disusun peta jalan penataan kabel, dengan acuan pola yang sudah berjalan di Kawasan Pusat Pemerintahan Provinsi Banten, tempat kabel-kabel dari berbagai operator ditata dalam satu sistem. Yang langsung berkepentingan adalah Telkom Akses dan penyelenggara jaringan lain yang memasang kabel di ruang publik Banten, sebab merekalah yang nanti harus menyesuaikan cara kerja di lapangan kalau penataan ini jadi diberlakukan merata. Arahnya belum bisa dipastikan karena belum ada jadwal atau bentuk aturan resmi yang disebutkan dalam pertemuan ini, jadi yang perlu ditunggu adalah apakah Pemprov Banten benar menerbitkan peta jalan penataan kabel untuk tingkat kabupaten dan kota seperti yang diminta Gubernur, atau pertemuan ini berhenti sebagai forum koordinasi tanpa tindak lanjut konkret.",
   "imageV": "muffq86k"
+ },
+ {
+  "slug": "bnii-hasnita-dato-hashim-resmi-jadi-komisaris-bank-maybank",
+  "category": "Aksi Korporasi",
+  "title": "BNII: Hasnita Dato Hashim Resmi Jadi [Komisaris] Bank Maybank",
+  "deck": "OJK menyetujui Dr Hasnita Dato Hashim sebagai komisaris baru Bank Maybank Indonesia, efektif 23 September 2026, melengkapi hasil keputusan RUPST April 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T17:31:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bb46bb9686_3eaacbc352.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNII",
+  "tags": [
+   "BNII",
+   "Bank Maybank Indonesia",
+   "Komisaris",
+   "OJK"
+  ],
+  "body": [
+   "PT Bank Maybank Indonesia Tbk (BNII) melaporkan ke Bursa Efek Indonesia bahwa susunan Dewan Komisaris perseroan berubah setelah Otoritas Jasa Keuangan (OJK) menyetujui pengangkatan komisaris baru. Dr. Hasnita Dato' Hashim resmi menjabat sebagai Komisaris, berlaku efektif sejak 23 September 2026, menyusul surat persetujuan OJK Nomor SR-574/PB.13/2026 tanggal 21 September 2026 mengenai hasil penilaian kemampuan dan kepatutan atas pengangkatan komisaris non independen. Pengangkatan ini sebenarnya sudah diputuskan dalam Rapat Umum Pemegang Saham Tahunan (RUPST) pada 17 April 2026, namun baru berlaku setelah proses persetujuan regulator selesai, dengan masa jabatan sampai penutupan RUPST tahun 2029.",
+   "Dengan tambahan ini, susunan lengkap Dewan Komisaris BNII menjadi: Presiden Komisaris Dato' Zulkiflee Abbas Abdul Hamid, Komisaris Datuk Lim Hong Tat, Komisaris Dato' Sri Khairussaleh Ramli, Komisaris Independen Hendar, Komisaris Independen Putut Eko Bayuseno, Komisaris Independen Marina R. Tusin, Komisaris Independen Daniel James Rompas, dan Komisaris baru Dr. Hasnita Dato' Hashim. Susunan Direksi tidak mengalami perubahan, tetap dipimpin Presiden Direktur Steffano Ridwan bersama Direktur Irvandi Ferizal, Widya Permana, Bambang Andri Irawan, Shaiful Adhli Yazid, Yessika Effendi yang membawahkan fungsi kepatuhan, Romy Hardiansyah yang membawahkan unit usaha syariah, Bianto Surodjo, dan Mariana Husin.",
+   "Perubahan susunan pengurus ini dituangkan dalam akta notaris Nomor 62 tanggal 23 September 2026 yang dibuat di hadapan notaris Aulia Taufani, S.H. Menurut surat keterangan notaris, akta tersebut masih dalam proses pemberitahuan kepada Kementerian Hukum Republik Indonesia, sesuai kewajiban verifikasi berdasarkan Peraturan Menteri Hukum Nomor 49 Tahun 2025. Laporan ditandatangani oleh Head of Corporate Secretary BNII, Putu Dewika Angganingrum."
+  ],
+  "fotoAdegan": "Modern bank branch lobby interior in Jakarta with staff assisting customers at teller counters under soft natural light.",
+  "takeaway": "Laporan ini netral bagi emiten, karena isinya hanya menuntaskan proses administratif pengangkatan komisaris yang sebetulnya sudah disetujui pemegang saham sejak RUPST April 2026, dan kini tinggal menunggu restu regulator turun. Perubahan pengurus seperti ini tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham, tapi pelaku pasar tetap memperhatikan komposisi komisaris karena merekalah yang mengawasi arah strategi dan manajemen risiko bank, termasuk soal independensi karena masih ada empat dari delapan komisaris berstatus independen. Yang perlu dipantau selanjutnya adalah penyelesaian pemberitahuan akta perubahan pengurus ini ke Kementerian Hukum Republik Indonesia, yang menurut keterangan notaris per 24 September 2026 masih berjalan, sebelum status hukum susunan pengurus baru ini genap tercatat secara resmi.",
+  "sentimen": "netral"
  },
  {
   "slug": "ibos-panggil-rupslb-sahkan-laporan-keuangan-2023-direvisi",

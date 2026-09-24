@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mpro-ralat-realisasi-dana-ipo-alokasi-ke-simprug-bergeser",
+  "category": "Aksi Korporasi",
+  "title": "MPRO Ralat Realisasi Dana IPO, Alokasi ke [Simprug] Bergeser",
+  "deck": "PT Maha Properti Indonesia mengoreksi laporan realisasi dana IPO 2018: dana yang semula direncanakan 80 persen untuk Proyek Simprug Signature ternyata hanya terealisasi 15 persen.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPRO",
+   "IPO",
+   "penggunaan dana",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8da9248489_db181d011c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hrta-panggil-rupslb-minta-restu-terbitkan-saham-dilusi-10",
+  "category": "Aksi Korporasi",
+  "title": "HRTA Panggil RUPSLB, Minta Restu Terbitkan Saham [Dilusi] 10%",
+  "deck": "HRTA menggelar RUPSLB pada 16 Oktober 2026 untuk meminta persetujuan pemegang saham independen atas rencana penerbitan saham baru hingga 10 persen tanpa hak memesan efek lebih dulu.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRTA",
+   "RUPSLB",
+   "PMTHMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a166f65239_167f1f1625.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bi-hong-kong-sepakati-kerja-sama-pembayaran-qr-lintas-negara",
   "category": "Moneter",
   "title": "BI-Hong Kong Sepakati Kerja Sama Pembayaran [QR] Lintas Negara",
@@ -21,6 +53,22 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819426.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "dpns-kena-sanksi-rp150-juta-telat-sampaikan-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "DPNS Kena [Sanksi] Rp150 Juta Telat Sampaikan Laporan Keuangan",
+  "deck": "BEI menjatuhkan Peringatan Tertulis III dan denda Rp150 juta ke DPNS karena belum menyampaikan laporan keuangan interim audited Triwulan I 2026 hingga 29 Agustus 2026.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DPNS",
+   "sanksi BEI",
+   "laporan keuangan",
+   "Duta Pertiwi Nusantara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac8c0c6221_66eda0f66f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnm-dan-kementerian-umkm-luncurkan-program-laksmi-2026",
@@ -55,6 +103,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469044-aplikasi-trading-terbaik-di-indonesia-mengapa-hsb-investasi-layak-jadipilihan"
+ },
+ {
+  "slug": "bike-tunda-rupslb-ojk-minta-penjelasan-agenda-rapat",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Tunda RUPSLB, [OJK] Minta Penjelasan Agenda Rapat",
+  "deck": "RUPSLB BIKE yang sedianya digelar 15 Oktober 2026 ditunda tanpa jadwal pengganti, menyusul surat OJK yang mempersoalkan mata acara rapat.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "RUPSLB",
+   "OJK",
+   "Bhineka Inovasi Ketahanan Energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93f5c549f5_83aaaf32a9.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "mglv-rinci-jaminan-utang-rp10-75-t-ke-bni-untuk-nac-ngc",
@@ -232,6 +296,38 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/304c880728_e940ca23b5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suspensi-saham-akku-dicabut-bei-setelah-6-bulan",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi Saham AKKU [Dicabut] BEI Setelah 6 Bulan",
+  "deck": "BEI mencabut suspensi saham AKKU mulai sesi keempat perdagangan Kamis, setelah laporan keuangan per 30 Juni 2026 meraih opini wajar dengan pengecualian.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "BEI",
+   "opini audit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5010f349f2_57a0994d1a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bata-presiden-direktur-mundur-tunggu-keputusan-rups",
+  "category": "Aksi Korporasi",
+  "title": "BATA: Presiden Direktur [Mundur], Tunggu Keputusan RUPS",
+  "deck": "Amitav Nandy mengundurkan diri sebagai Presiden Direktur Sepatu Bata Tbk imbas rotasi jabatan di Bata Group. Keputusan final ada di tangan RUPS.",
+  "date": "24 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BATA",
+   "Sepatu Bata Tbk",
+   "Presiden Direktur",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58f3cbd896_c6d5c1e69f.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6406,104 +6502,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/usai-b50-pemerintah-siapkan-e50-langkah-baru-kurangi-ketergantungan-bbm-impor",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "esdm-umumkan-pemenang-lelang-migas-3-blok-tak-laku",
-  "category": "Energi",
-  "title": "ESDM Umumkan Pemenang Lelang Migas, 3 Blok [Tak] Laku",
-  "deck": "Pemerintah menetapkan pemenang lelang enam blok migas tahap I 2026, tiga blok lain tak laku dan ditawarkan ulang, sementara lelang tahap II untuk delapan blok baru dibuka hingga 2027.",
-  "date": "18 September 2026",
-  "image": "assets/img/esdm-umumkan-pemenang-lelang-migas-3-blok-tak-laku.jpg",
-  "imageV": "mu5sh4jv",
-  "tags": [
-   "ESDM",
-   "Migas",
-   "Lelang Wilayah Kerja",
-   "Investasi Energi"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pemerintah-umumkan-pemenang-lelang-penawaran-langsung-dan-lelang-reguler-area-studi-abt-2025-wilayah-kerja-minyak-dan-gas-bumi-tahap-i-tahun-2026-dan-umumkan-penawaran-lelang-wilayah-kerja-minyak-dan-gas-bumi-tahap-ii-tahun-2026",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "cakk-akui-free-float-baru-11-4-masih-kaji-opsi",
-  "category": "Aksi Korporasi",
-  "title": "CAKK Akui [Free Float] Baru 11,4%, Masih Kaji Opsi",
-  "deck": "CAKK menjelaskan ke Bursa bahwa free float per 30 Juni 2026 baru 11,357%, di bawah syarat minimum 15%, dan masih mengkaji opsi divestasi atau aksi korporasi.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CAKK",
-   "free float",
-   "Bursa Efek Indonesia",
-   "saham publik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/689274374a_f10e112048.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgl-jawab-bursa-soal-divestasi-jaya-rp44-6-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Jawab Bursa soal Divestasi [JAYA] Rp44,6 Miliar",
-  "deck": "PPGL menjawab permintaan penjelasan Bursa soal divestasi 45,79% saham JAYA senilai Rp44,60 miliar ke pihak terafiliasi, aset yang ternyata menyumbang 90% dari total aset Perseroan.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "divestasi",
-   "keterbukaan informasi",
-   "JAYA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8bfeb6222e_d1f1e0eedb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-ptro-naik-semester-i-2026-bunga-utang-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "Laba PTRO Naik Semester I 2026, Bunga Utang [Melonjak]",
-  "deck": "Petrosea (PTRO) membukukan laba bersih US$9,17 juta pada semester I 2026, naik dari US$1,29 juta, namun sebagian besar berasal dari keuntungan sekali jalan atas operasi yang dihentikan.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTRO",
-   "Petrosea",
-   "laporan keuangan",
-   "beban bunga"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260917235433-64402-0/FinancialStatement-2026-II-PTRO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-dan-bren-raih-kesgi-awards-2026-dari-katadata",
-  "category": "Bisnis",
-  "title": "TPIA dan BREN Raih [KESGI] Awards 2026 dari Katadata",
-  "deck": "Chandra Asri Pacific dan Barito Renewables Energy, dua anak usaha Barito Pacific, meraih penghargaan ESG Katadata atas kinerja emisi, energi, dan SDM.",
-  "date": "17 September 2026",
-  "image": "assets/img/tpia-dan-bren-raih-kesgi-awards-2026-dari-katadata.jpg",
-  "imageV": "mu5sh50y",
-  "tags": [
-   "ESG",
-   "Barito Pacific",
-   "Chandra Asri",
-   "Barito Renewables"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467772-dua-anak-usaha-barito-pacific-raih-kesgi-awards-2026-kinerja-hijau-tpia-dan-bren-jadi-sorotan"
- },
- {
-  "slug": "inps-klaim-free-float-capai-22-89-penuhi-syarat-bursa",
-  "category": "Aksi Korporasi",
-  "title": "INPS Klaim [Free Float] Capai 22,89%, Penuhi Syarat Bursa",
-  "deck": "INPS menjawab surat BEI soal syarat minimum saham publik, mengklaim porsi free float sudah 22,89% per 11 September 2026, di atas ambang 15%.",
-  "date": "17 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "free float",
-   "BEI",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cb0b6d5a37_4eed397626.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mpro-ralat-realisasi-dana-ipo-alokasi-ke-simprug-bergeser",
+  "category": "Aksi Korporasi",
+  "title": "MPRO Ralat Realisasi Dana IPO, Alokasi ke [Simprug] Bergeser",
+  "deck": "PT Maha Properti Indonesia mengoreksi laporan realisasi dana IPO 2018: dana yang semula direncanakan 80 persen untuk Proyek Simprug Signature ternyata hanya terealisasi 15 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T13:47:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8da9248489_db181d011c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPRO",
+  "tags": [
+   "MPRO",
+   "IPO",
+   "penggunaan dana",
+   "properti"
+  ],
+  "body": [
+   "PT Maha Properti Indonesia Tbk (MPRO) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum perdana (IPO) yang sebelumnya disampaikan pada 14 Juli 2026. Koreksi bertanggal 24 September 2026 ini ditandatangani Iwan Kurniawan selaku Direktur dan Corporate Secretary, dan mencakup periode laporan hingga 30 Juni 2026. Dari IPO saham MPRO yang efektif pada 28 September 2018, perseroan meraih dana Rp164,18 miliar, dan setelah dipotong biaya emisi Rp7,83 miliar atau setara 4,77 persen dari total dana, hasil bersih yang tercatat adalah Rp156,35 miliar, sama persis dengan rencana penggunaan dana di prospektus.",
+   "Dalam prospektus, perseroan awalnya merencanakan porsi terbesar dana, yakni 80 persen atau Rp125,08 miliar, untuk Proyek Simprug Signature. Sisanya dialokasikan 15 persen atau Rp23,45 miliar untuk Proyek Apartemen Apsara Tower 1, dan 5 persen atau Rp7,82 miliar untuk modal kerja operasional. Namun realisasi hingga 30 Juni 2026 bergeser jauh dari rencana itu, Proyek Simprug Signature hanya kebagian Rp22,99 miliar atau 15 persen, sementara modal kerja operasional justru menyerap Rp75,97 miliar atau 49 persen dan Proyek Apartemen Apsara Tower 1 menyerap Rp53,39 miliar atau 34 persen. Total dana yang sudah direalisasikan mencapai Rp152,34 miliar, menyisakan Rp4,01 miliar yang belum digunakan.",
+   "Sisa dana Rp4,01 miliar itu saat ini ditempatkan di kas besar perusahaan sendiri dengan bunga 0 persen, dan laporan menyebutkan penempatan ini berstatus afiliasi. Dari total biaya penawaran umum Rp7,83 miliar, komponen terbesar adalah biaya lain lain senilai Rp2,33 miliar, diikuti biaya jasa profesi penunjang pasar modal Rp1,71 miliar dan biaya jasa penjaminan emisi (underwriting fee) Rp1,64 miliar."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a high rise apartment tower building site in Jakarta, overcast afternoon light",
+  "takeaway": "Laporan koreksi ini condong negatif bagi MPRO, sebab pergeseran drastis alokasi dana IPO dari proyek andalan Simprug Signature ke modal kerja operasional mengindikasikan proyek utama yang dijanjikan ke investor sejak 2018 itu tertahan, sementara dana lebih banyak dipakai menambal kebutuhan kas sehari hari. Yang tersentuh di sini adalah arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena dana yang semestinya membangun proyek malah menganggur sebagai kas berbunga 0 persen atau habis untuk modal kerja, sehingga tidak menghasilkan aset produktif baru. Pelaku pasar mencermati ini karena laporan MPRO pekan lalu mencatat rugi Rp16,2 miliar dengan kas hanya Rp5 miliar, sehingga sisa dana IPO Rp4,01 miliar yang masih mengendap ternyata menjadi bagian penting dari kas perseroan saat ini, bukan murni kas hasil operasional. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana periode selanjutnya, yang wajib disampaikan sesuai POJK 30/2015, untuk melihat apakah sisa dana itu akhirnya benar dialirkan ke Proyek Simprug Signature atau terus tergerus untuk menutup modal kerja.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "hrta-panggil-rupslb-minta-restu-terbitkan-saham-dilusi-10",
+  "category": "Aksi Korporasi",
+  "title": "HRTA Panggil RUPSLB, Minta Restu Terbitkan Saham [Dilusi] 10%",
+  "deck": "HRTA menggelar RUPSLB pada 16 Oktober 2026 untuk meminta persetujuan pemegang saham independen atas rencana penerbitan saham baru hingga 10 persen tanpa hak memesan efek lebih dulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T12:19:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a166f65239_167f1f1625.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRTA",
+  "tags": [
+   "HRTA",
+   "RUPSLB",
+   "PMTHMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Hartadinata Abadi Tbk (HRTA) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) khusus pemegang saham independen pada Jumat, 16 Oktober 2026 pukul 10.00 WIB, di kantor perseroan di Jalan Kopo Sayati No. 165, Desa Sayati, Kecamatan Margahayu, Kabupaten Bandung, Jawa Barat. Agenda tunggal rapat ini adalah meminta persetujuan atas rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu atau PMTHMETD, yaitu penerbitan saham baru kepada pembeli tertentu tanpa menawarkan lebih dulu ke pemegang saham lama.",
+   "Perseroan berencana menerbitkan saham baru sebanyak-banyaknya 10 persen, atau maksimal 460.526.240 lembar, dari total modal ditempatkan dan disetor perseroan saat ini. Persetujuan yang diminta juga mencakup perubahan anggaran dasar terkait peningkatan modal tersebut, serta pelimpahan wewenang kepada direksi, dengan persetujuan dewan komisaris, untuk menentukan harga pelaksanaan, jadwal, dan tata cara penerbitan saham baru itu. Surat pemanggilan yang ditandatangani Corporate Secretary HRTA, Ong Deny, tidak menyebutkan harga pelaksanaan maupun calon pembeli saham baru tersebut.",
+   "Karena agenda ini menyangkut PMTHMETD, hanya suara pemegang saham independen, yakni pemegang saham yang bukan direksi, komisaris, pemegang saham utama, pengendali, atau pihak terafiliasi dengan perseroan, yang diperhitungkan dalam kuorum kehadiran dan pengambilan keputusan. Daftar pemegang saham yang berhak hadir dicatat per 23 September 2026 pukul 16.00 WIB. Rapat digelar secara hybrid, fisik dan elektronik lewat aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, dengan batas waktu deklarasi kehadiran elektronik pada Kamis, 15 Oktober 2026 pukul 12.00 WIB, dan registrasi fisik di lokasi ditutup pukul 09.55 WIB pada hari rapat."
+  ],
+  "fotoAdegan": "Goldsmiths polishing gold jewelry pieces on workbenches inside a busy manufacturing workshop, warm indoor lighting, Bandung",
+  "takeaway": "Rencana ini condong negatif bagi pemegang saham lama, karena penerbitan saham baru tanpa hak memesan efek terlebih dahulu berpotensi menggerus porsi kepemilikan mereka, sementara harga pelaksanaan dan calon pembelinya belum diungkap sama sekali dalam pemanggilan ini. Yang tersentuh adalah jumlah saham beredar: menambah saham hingga 10 persen dari modal disetor berarti kue laba perseroan akan dibagi ke lebih banyak lembar saham, sehingga laba per saham, yaitu keuntungan bersih dibagi jumlah saham beredar, berpotensi tertekan meski labanya sendiri tidak berubah. Yang perlu dipantau berikutnya adalah hasil pemungutan suara pemegang saham independen dalam RUPSLB pada 16 Oktober 2026, serta pengumuman lanjutan soal harga pelaksanaan dan pihak yang akan membeli saham baru tersebut begitu direksi menetapkannya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bi-hong-kong-sepakati-kerja-sama-pembayaran-qr-lintas-negara",
   "category": "Moneter",
   "title": "BI-Hong Kong Sepakati Kerja Sama Pembayaran [QR] Lintas Negara",
@@ -28,6 +80,31 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah dari pengumuman ini baru sebatas komitmen dua otoritas moneter untuk mulai membahas cara menghubungkan sistem pembayaran QR code Indonesia dan Hong Kong, bukan sistem yang sudah bisa dipakai. Pihak yang berpotensi terdampak adalah pelaku usaha dan wisatawan yang bertransaksi antara Indonesia dan Hong Kong, serta penyedia jasa pembayaran di kedua wilayah yang nanti akan diminta menyesuaikan sistemnya. Siaran pers ini belum menyebut tanggal target sistem itu mulai bisa dipakai, skema teknis penghubungnya, atau bank dan penyedia pembayaran mana saja yang akan ikut serta. Yang perlu dipantau selanjutnya adalah hasil dialog teknis dan regulasi antara Bank Indonesia dan Hong Kong Monetary Authority, karena baru dari situ akan terlihat apakah kerja sama ini benar-benar berlanjut ke tahap operasional atau berhenti sebagai kesepakatan payung semata.",
   "imageV": "muf2vtmi"
+ },
+ {
+  "slug": "dpns-kena-sanksi-rp150-juta-telat-sampaikan-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "DPNS Kena [Sanksi] Rp150 Juta Telat Sampaikan Laporan Keuangan",
+  "deck": "BEI menjatuhkan Peringatan Tertulis III dan denda Rp150 juta ke DPNS karena belum menyampaikan laporan keuangan interim audited Triwulan I 2026 hingga 29 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T11:52:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac8c0c6221_66eda0f66f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DPNS",
+  "tags": [
+   "DPNS",
+   "sanksi BEI",
+   "laporan keuangan",
+   "Duta Pertiwi Nusantara"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengenakan sanksi kepada PT Duta Pertiwi Nusantara Tbk (DPNS) berupa Peringatan Tertulis III dan denda Rp150 juta karena perusahaan belum menyampaikan laporan keuangan interim per 31 Maret 2026 yang telah diaudit akuntan publik. Batas waktu penyampaian, yang sudah diperpanjang setelah DPNS sebelumnya kena Peringatan Tertulis II dan denda Rp50 juta, jatuh pada Sabtu, 29 Agustus 2026. Sanksi ini diumumkan BEI pada 23 September 2026 lewat surat bernomor Peng-S-00030/BEI.PLP/09-2026 yang ditandatangani Teuku Fahmi Ariandar, Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat, bersama tiga pejabat divisi penilaian perusahaan lainnya.",
+   "Dalam pengumuman yang sama, BEI memaparkan hasil pemantauan penyampaian laporan keuangan interim triwulan I 2026 dari seluruh perusahaan tercatat. Dari 1.068 perusahaan yang dipantau, 904 di antaranya wajib menyampaikan laporan tersebut. Sebanyak 838 perusahaan sudah menyampaikan laporannya, sementara 73 perusahaan belum. Dari 73 perusahaan itu, 72 di antaranya belum menyampaikan laporan versi belum diaudit dan sudah disuspensi perdagangan sahamnya sejak 30 Juli 2026. DPNS menjadi satu-satunya perusahaan dalam kelompok berbeda, yakni yang belum menyampaikan laporan versi audited hingga 29 Agustus 2026, sehingga dikenakan sanksi Peringatan Tertulis III dan denda Rp150 juta seperti tercantum dalam lampiran pengumuman ini."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's financial district at dusk, other high-rises in the background",
+  "takeaway": "Sanksi ini condong negatif bagi DPNS, karena keterlambatan yang berulang, dari Peringatan Tertulis II dengan denda Rp50 juta hingga naik ke Peringatan Tertulis III dengan denda Rp150 juta, menunjukkan perusahaan masih belum bisa menuntaskan proses audit laporan keuangannya meski tenggat sudah beberapa kali diperpanjang. Yang tersentuh langsung adalah transparansi kinerja perusahaan: pemegang saham belum bisa melihat data resmi soal ekuitas, arus kas, dan laba periode Januari hingga Maret 2026 meski periode itu sudah berakhir lebih dari lima bulan lalu, sementara denda yang terus bertambah turut membebani kas perusahaan. Yang perlu dipantau selanjutnya adalah apakah DPNS akhirnya menyampaikan laporan keuangan auditednya dalam waktu dekat, sebab bila tidak, perusahaan berisiko menyusul 72 perusahaan lain yang sahamnya sudah disuspensi BEI sejak 30 Juli 2026 karena persoalan serupa.",
+  "sentimen": "negatif"
  },
  {
   "slug": "pnm-dan-kementerian-umkm-luncurkan-program-laksmi-2026",
@@ -81,6 +158,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Seluruh angka dalam berita ini, termasuk klaim 17 juta unduhan, berasal dari keterangan tertulis HSB Investasi sendiri, bukan dari data resmi OJK atau BAPPEBTI soal jumlah trader aktif atau volume transaksi di industri pialang berjangka. Yang terdampak langsung adalah trader ritel yang mempertimbangkan platform forex dan komoditas berjangka, segmen yang diawasi lebih ketat karena leverage setinggi 1:400 membuat potensi rugi bisa sebesar potensi untung. Yang belum tersedia di sini adalah data pembanding, seperti jumlah trader aktif, tingkat pengaduan nasabah, atau statistik industri pialang berjangka dari BAPPEBTI, yang bisa memastikan apakah pertumbuhan unduhan ini mencerminkan tren industri atau sekadar hasil kampanye pemasaran satu perusahaan. Rilis data statistik perdagangan berjangka komoditi dari BAPPEBTI atau OJK ke depan bisa jadi acuan untuk melihat apakah pertumbuhan platform semacam ini merata di seluruh industri.",
   "imageV": "muf2vukc"
+ },
+ {
+  "slug": "bike-tunda-rupslb-ojk-minta-penjelasan-agenda-rapat",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Tunda RUPSLB, [OJK] Minta Penjelasan Agenda Rapat",
+  "deck": "RUPSLB BIKE yang sedianya digelar 15 Oktober 2026 ditunda tanpa jadwal pengganti, menyusul surat OJK yang mempersoalkan mata acara rapat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T11:05:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93f5c549f5_83aaaf32a9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "RUPSLB",
+   "OJK",
+   "Bhineka Inovasi Ketahanan Energi"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE), yang dahulu bernama PT Sepeda Bersama Indonesia Tbk, menunda penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sedianya digelar Kamis, 15 Oktober 2026 pukul 14.00 WIB di Jl. Prof. Soepomo No. 332, Tebet, Jakarta Selatan. Dalam surat tertanggal 24 September 2026 yang ditandatangani Direktur Utama Erik Kusuma, perseroan menyebut penundaan ini merujuk pada surat Otoritas Jasa Keuangan Nomor S-2312/PM.221/2026 tertanggal 16 September 2026, yang meminta penjelasan atas mata acara RUPSLB tersebut.",
+   "Rencana RUPSLB itu awalnya disampaikan perseroan ke OJK lewat surat tertanggal 1 September 2026. Jadwal rapat kemudian sempat ditetapkan dengan tanggal daftar pemegang saham (DPS) yang berhak hadir pada 22 September 2026 dan pelaksanaan pada 15 Oktober 2026. Namun sebelum tanggal itu tiba, perseroan memutuskan menunda kembali rapat tersebut tanpa menetapkan jadwal pengganti. Direksi menyatakan akan menginformasikan lebih lanjut begitu ada kepastian tanggal baru.",
+   "Keterbukaan ini dilaporkan ke bursa oleh Direktur Winston Mulyadi, sementara surat penjelasan ke OJK ditandatangani Direktur Utama Erik Kusuma. Penundaan ini muncul di tengah sorotan otoritas terhadap BIKE, setelah perseroan sebelumnya menggelar public expose insidentil usai suspensi saham dan melaporkan rugi bersih Rp19,18 miliar."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a corporate meeting hall, Jakarta office building, soft morning light through tall windows",
+  "takeaway": "Laporan ini condong negatif bagi BIKE, karena penundaan RUPSLB kali ini bukan keputusan internal biasa, melainkan buntut langsung dari surat resmi OJK yang mempersoalkan agenda rapat, dan sampai saat ini perseroan belum bisa memastikan kapan agenda itu bisa dilanjutkan. RUPSLB adalah forum yang lazim dipakai emiten untuk meminta restu pemegang saham atas aksi korporasi, yang bisa menyentuh jumlah saham beredar dan struktur modal perseroan, jadi tertundanya rapat tanpa jadwal pasti berarti kepastian atas agenda tersebut, dan dampaknya ke laba per saham, ikut mengambang. Yang perlu dipantau berikutnya adalah kapan perseroan mengumumkan jadwal RUPSLB pengganti, serta apakah penjelasan yang diminta OJK lewat surat 16 September itu akhirnya dipublikasikan agar pemegang saham tahu persis agenda apa yang dipersoalkan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "mglv-rinci-jaminan-utang-rp10-75-t-ke-bni-untuk-nac-ngc",
@@ -367,6 +470,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Wide industrial shot of a pulp and paper mill's steel stacks, pipes and conveyor structures under an overcast Sumatran sky, no visible text",
   "takeaway": "Laporan ini cenderung netral karena sekadar melengkapi syarat administratif dari program obligasi dan sukuk yang sudah efektif sejak akhir 2025, bukan keputusan pendanaan baru, dan dokumen ini sendiri tidak merinci untuk apa dananya dipakai. Yang tersentuh adalah beban bunga perusahaan, sebab obligasi dan sukuk baru ini menambah kewajiban membayar bunga tetap 10 sampai 10,5 persen per tahun dari pokok yang bisa mencapai gabungan Rp1,68 triliun, dan karena tidak dijamin aset khusus, klaim pemegangnya sejajar dengan kreditor lain milik perusahaan. Pelaku pasar biasanya mencermati pos ini karena kenaikan beban bunga bisa menggerus laba bersih ke depan meski dana yang masuk juga menambah kas perusahaan. Yang perlu dipantau selanjutnya adalah tanggal penjatahan 28 September 2026, yang akan menunjukkan seberapa besar porsi best effort senilai Rp204,91 miliar obligasi dan Rp173,865 miliar sukuk benar-benar terserap pasar, serta pencatatan resmi di Bursa Efek Indonesia pada 1 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "suspensi-saham-akku-dicabut-bei-setelah-6-bulan",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi Saham AKKU [Dicabut] BEI Setelah 6 Bulan",
+  "deck": "BEI mencabut suspensi saham AKKU mulai sesi keempat perdagangan Kamis, setelah laporan keuangan per 30 Juni 2026 meraih opini wajar dengan pengecualian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T06:43:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5010f349f2_57a0994d1a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKKU",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "BEI",
+   "opini audit"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mencabut penghentian sementara perdagangan saham PT Anugerah Kagum Karya Utama Tbk (AKKU) di seluruh pasar, berlaku mulai sesi IV periodic call auction pada Kamis, 24 September 2026. Saham AKKU sebelumnya disetop sejak 2 April 2026 berdasarkan pengumuman Bursa No. Peng-SPT-00002/BEI.PP1/04-2026, sehingga pemegang saham tidak bisa memperjualbelikan sahamnya selama hampir enam bulan.",
+   "Alasan pencabutan menurut pengumuman bernomor Peng-UPT-00003/BEI.PP1/09-2026 ini adalah laporan keuangan interim perseroan per 30 Juni 2026 telah memperoleh opini Wajar Dengan Pengecualian (WDP) dari kantor akuntan publik Irfan Waluyo & Rekan, serta perseroan dinilai telah memenuhi kewajiban Peraturan I-E. Keputusan ini merujuk pada rangkaian surat perseroan ke Bursa, mulai dari penyampaian laporan keuangan interim revisi pada 25 Agustus 2026, dua surat penjelasan pada 31 Agustus 2026 yaitu soal opini tidak menyatakan pendapat (disclaimer) oleh KAP Ruslim & Ruslim atas laporan keuangan tahun 2025 dan soal opini WDP oleh KAP Irfan Waluyo & Rekan atas laporan per Juni 2026, penjelasan tambahan kepada Bursa pada 8 September 2026, hingga laporan paparan publik insidentil pada 22 September 2026.",
+   "Pengumuman ditandatangani oleh Aditya Nugraha selaku Pelaksana Harian Kepala Divisi Penilaian Perusahaan 1 dan Pande Made Kusuma Ari A. selaku Kepala Divisi Pengaturan dan Operasional Perdagangan. Meski suspensi dicabut, Bursa mencatat saham AKKU tetap berada di Papan Pemantauan Khusus dan meminta pihak yang berkepentingan terus mencermati keterbukaan informasi yang disampaikan perseroan ke depan."
+  ],
+  "fotoAdegan": "Brokerage staff monitoring stock charts on distant, blurred trading screens in a busy Jakarta office, morning light through windows",
+  "takeaway": "Ini kabar positif bagi pemegang saham AKKU, karena mengembalikan hak mereka memperdagangkan saham setelah hampir enam bulan terkunci total sejak awal April. Yang tersentuh di sini adalah likuiditas, yaitu kemampuan pemegang saham mengubah sahamnya jadi uang tunai kapan mereka mau, yang sempat hilang sama sekali selama suspensi, sekaligus opini auditor yang membaik dari disclaimer atau tidak menyatakan pendapat sama sekali atas laporan keuangan 2025, menjadi wajar dengan pengecualian untuk laporan Juni 2026, artinya auditor masih punya beberapa catatan tapi laporan sudah dianggap cukup bisa dipercaya. Yang perlu terus dipantau adalah status AKKU yang masih berada di Papan Pemantauan Khusus, sehingga risiko dan kewajiban keterbukaan tambahan belum sepenuhnya selesai, termasuk apakah opini auditor pada laporan tahunan berikutnya bisa naik menjadi wajar tanpa pengecualian.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bata-presiden-direktur-mundur-tunggu-keputusan-rups",
+  "category": "Aksi Korporasi",
+  "title": "BATA: Presiden Direktur [Mundur], Tunggu Keputusan RUPS",
+  "deck": "Amitav Nandy mengundurkan diri sebagai Presiden Direktur Sepatu Bata Tbk imbas rotasi jabatan di Bata Group. Keputusan final ada di tangan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 September 2026",
+  "isoDate": "2026-09-24T05:19:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58f3cbd896_c6d5c1e69f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BATA",
+  "tags": [
+   "BATA",
+   "Sepatu Bata Tbk",
+   "Presiden Direktur",
+   "Direksi"
+  ],
+  "body": [
+   "Sepatu Bata Tbk (BATA) melaporkan pengunduran diri Amitav Nandy dari jabatan Presiden Direktur perusahaan. Surat pengunduran diri diterima manajemen pada 23 September 2026. Dalam keterbukaan informasi yang ditandatangani Corporate Secretary Sanusi, perusahaan menyebut langkah ini terkait rotasi jabatan di lingkup Bata Group secara global, bukan disebabkan persoalan internal di operasional Indonesia.",
+   "Sesuai Pasal 19.9 Anggaran Dasar Perseroan dan Pasal 8 ayat (3) POJK Nomor 33/2014 tentang Direksi dan Dewan Komisaris Emiten, permohonan pengunduran diri ini tidak berlaku otomatis. Keputusan akhirnya baru akan ditetapkan dalam Rapat Umum Pemegang Saham (RUPS) Perseroan. Laporan ini belum mencantumkan jadwal RUPS tersebut maupun nama calon pengganti Presiden Direktur.",
+   "Manajemen menyatakan dalam laporan bahwa pengunduran diri ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Modern glass office tower entrance in a Jakarta business district, professionals walking through the lobby in morning light",
+  "takeaway": "Laporan ini netral bagi BATA karena pergantian pucuk pimpinan dipicu rotasi jabatan internal di jaringan global Bata Group, bukan oleh masalah kinerja atau keuangan perusahaan, dan manajemen menegaskan tidak ada dampak terhadap operasional maupun kondisi keuangan. Yang tersentuh di sini bukan angka di laporan keuangan seperti ekuitas atau arus kas, melainkan sisi kepemimpinan dan tata kelola, karena posisi Presiden Direktur menentukan arah strategi perusahaan sehingga kekosongan atau transisinya tetap layak dicermati investor. Yang perlu dipantau berikutnya adalah keputusan RUPS yang akan menyetujui atau menolak permohonan pengunduran diri ini, sebab sampai rapat itu digelar jabatan Amitav Nandy secara formal belum berakhir dan nama penggantinya juga belum diumumkan.",
   "sentimen": "netral"
  },
  {

@@ -1449,6 +1449,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "medc-komisaris-jual-3-juta-saham-kepemilikan-ke-0-04",
+  "category": "Aksi Korporasi",
+  "title": "MEDC: Komisaris [Jual] 3 Juta Saham, Kepemilikan ke 0,04%",
+  "deck": "Komisaris MEDC Roberto Lorato menjual 3 juta saham tidak langsung senilai sekitar Rp4,5 miliar pada 7 September 2026, hak suaranya turun jadi 0,04 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T15:25:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-5441-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "kepemilikan saham",
+   "komisaris",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk (MEDC) menerima laporan kepemilikan saham dari salah satu anggota Dewan Komisarisnya, Roberto Lorato, warga negara asing, yang melaporkan penjualan 3.000.000 lembar saham MEDC secara tidak langsung pada 7 September 2026. Transaksi dilakukan pada harga Rp1.500 per saham, dengan total nilai sekitar Rp4,5 miliar, dan tujuan transaksi disebutkan untuk keperluan pribadi.",
+   "Sebelum transaksi, Roberto Lorato tercatat memiliki 13.134.130 lembar saham MEDC, setara 0,05 persen dari total hak suara perusahaan. Setelah penjualan tersebut, kepemilikannya berkurang menjadi 10.134.130 lembar saham, dengan hak suara turun menjadi 0,04 persen. Jumlah yang dilepas ini setara sekitar 22,8 persen dari total saham yang sebelumnya dipegang Lorato secara pribadi.",
+   "Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 1 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap anggota direksi atau dewan komisaris perusahaan terbuka melaporkan setiap perubahan kepemilikan sahamnya kepada Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Technicians in helmets inspecting pipelines at an onshore oil and gas processing facility, golden afternoon light",
+  "takeaway": "Laporan ini condong negatif secara terbatas bagi MEDC: seorang komisaris melepas hampir seperempat dari saham pribadinya sendiri, bukan cuma remah kecil, meski nilainya tidak besar dibanding ukuran perusahaan. Yang tersentuh adalah hak suara pelapor, yaitu porsi kekuatan suara pemegang saham dalam rapat pemegang saham dibanding total saham beredar, yang turun dari 0,05 persen menjadi 0,04 persen; angka itu sendiri sangat kecil di level perusahaan karena porsi awal Lorato memang nyaris tidak berarti dibanding total saham MEDC yang beredar, jadi ini tidak mengubah peta kendali perusahaan. Yang membuat laporan ini tetap layak dicermati adalah skalanya terhadap kepemilikan pribadi sang komisaris, sekitar 22,8 persen dari sahamnya sendiri, jauh di atas ambang yang biasa dianggap sekadar transaksi rutin. Yang perlu dipantau berikutnya adalah apakah ada laporan serupa dari anggota direksi atau komisaris lain MEDC dalam waktu dekat, karena pola penjualan yang berulang oleh jajaran petinggi perusahaan baru terlihat jelas setelah beberapa laporan kepemilikan terkumpul, sementara dokumen ini sendiri tidak mencantumkan tenggat atau agenda RUPS lanjutan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",
   "category": "Aksi Korporasi",
   "title": "BIKE Publex Insidentil, [Akuisisi] Tambang Masih Buram",

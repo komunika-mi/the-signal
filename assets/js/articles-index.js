@@ -900,6 +900,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "medc-komisaris-jual-3-juta-saham-kepemilikan-ke-0-04",
+  "category": "Aksi Korporasi",
+  "title": "MEDC: Komisaris [Jual] 3 Juta Saham, Kepemilikan ke 0,04%",
+  "deck": "Komisaris MEDC Roberto Lorato menjual 3 juta saham tidak langsung senilai sekitar Rp4,5 miliar pada 7 September 2026, hak suaranya turun jadi 0,04 persen.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "kepemilikan saham",
+   "komisaris",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-5441-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",
   "category": "Aksi Korporasi",
   "title": "BIKE Publex Insidentil, [Akuisisi] Tambang Masih Buram",
@@ -6502,21 +6518,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468077-devisa-pariwisata-indonesia-tembus-843-miliar-dolar-as-pada-semester-i-2026"
- },
- {
-  "slug": "mtwi-cetak-laba-rp12-25-miliar-di-2024-aset-naik-64",
-  "category": "Aksi Korporasi",
-  "title": "MTWI Cetak [Laba] Rp12,25 Miliar di 2024, Aset Naik 64%",
-  "deck": "Laporan keuangan auditan 2024 menunjukkan MTWI membukukan laba bersih Rp12,25 miliar, berbalik dari rugi Rp8,37 miliar setahun sebelumnya, ditopang lonjakan pendapatan premi asuransi 57,8 persen.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTWI",
-   "laporan keuangan",
-   "asuransi",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-27b08954-b399-455f-935a-fbb0531529f9-1/FinancialStatement-2024-Tahunan-MTWI.pdf",
-  "sourceLabel": "IDX"
  }
 ];

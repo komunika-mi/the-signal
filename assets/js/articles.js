@@ -135,6 +135,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "cdia-jawab-bursa-laba-anjlok-75-dana-ipo-baru-78-laba",
+  "category": "Aksi Korporasi",
+  "title": "CDIA Jawab Bursa: Laba Anjlok 75%, Dana IPO Baru 78% [Laba]",
+  "deck": "CDIA menjelaskan ke Bursa bahwa laba bersih semester I 2026 turun dari US$76 juta menjadi US$19 juta, sementara dana IPO baru terealisasi 78,45 persen dari Rp2,37 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T19:14:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4a66766d8_d09efcb6f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CDIA",
+  "tags": [
+   "CDIA",
+   "laporan keuangan",
+   "dana IPO",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Chandra Daya Investasi Tbk (CDIA) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan Bursa No. S-12336/BEI.PP3/09-2026 tertanggal 23 September 2026. Tanggapan itu dikirim melalui surat bernomor 140/LCM-DOC/CDI/IX/2026 tertanggal 25 September 2026, ditandatangani oleh Direktur Merly, dan mencakup dua hal utama yang dipertanyakan Bursa yaitu realisasi penggunaan dana hasil penawaran umum (IPO) dan sejumlah pos dalam laporan keuangan Perseroan.",
+   "Dari total dana hasil IPO sebesar Rp2,37 triliun, Perseroan baru merealisasikan Rp1,86 triliun atau 78,45 persen sampai dengan Juni 2026, menyisakan Rp511,05 miliar yang belum terpakai. Seluruh sisa dana itu berasal dari pos penyetoran modal ke anak usaha PT Chandra Samudera Port (CSP), yang baru terealisasi 52,11 persen dari rencana Rp1,48 triliun. CDIA menjelaskan, penyetoran ke CSP dilakukan bertahap mengikuti kebutuhan proyek pembangunan fasilitas PT Chandra Cilegon Port, yang mencakup tangki penyimpanan dan pipa ethylene, dengan target rampung pada 2027. Sembari menunggu disalurkan, sisa dana ditempatkan di rekening giro sesuai ketentuan POJK No. 40 Tahun 2025 tentang penggunaan dana hasil penawaran umum.",
+   "Soal laporan keuangan, CDIA mengonfirmasi ekuitas Perseroan per Juni 2026 turun 2,53 persen dibanding akhir 2025, dipicu oleh laba tahun berjalan yang anjlok dari US$76 juta menjadi US$19 juta. Perseroan beralasan penurunan itu terutama berasal dari lebih rendahnya keuntungan non-operasional dibanding periode sebelumnya, sementara pendapatan usaha inti masih tumbuh 22,8 persen dan laba bruto naik 2,8 persen. Di sisi beban, beban pokok pendapatan naik 30,86 persen, beban penjualan melonjak 257,91 persen, beban umum dan administrasi naik 105,35 persen, dan beban bunga naik 65,90 persen akibat pemanfaatan fasilitas pinjaman bank untuk investasi. Liabilitas sewa turun 83,58 persen karena penghentian pengakuan aset hak-guna di salah satu anak usaha segmen logistik, sementara aset hak-guna Perseroan pada akhir 2025 justru melonjak dari US$86 ribu menjadi US$4 juta akibat penambahan sewa baru di segmen yang sama. Pendapatan diterima di muka juga naik 205,48 persen sepanjang 2025, terutama didorong aktivitas di segmen energi.",
+   "Perseroan menyatakan belum memiliki rencana tindakan korporasi material dalam 12 bulan ke depan dan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Storage tanks and pipelines under construction at an industrial port facility, workers in safety gear, overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi CDIA, karena laba bersih Perseroan turun sekitar 75 persen dari US$76 juta menjadi US$19 juta dalam semester I 2026, meski pendapatan usaha inti masih tumbuh 22,8 persen. Penurunan laba ini ikut menggerus ekuitas, yaitu total modal pemegang saham dalam perusahaan, sebesar 2,53 persen, dan karena laba per saham dihitung dari laba dibagi jumlah saham beredar, anjloknya laba berpotensi menekan angka itu; ditambah lonjakan beban penjualan, beban umum dan administrasi, serta beban bunga pinjaman bank yang menunjukkan biaya operasional membengkak lebih cepat dari pendapatan. Yang perlu dipantau berikutnya adalah realisasi sisa dana IPO sebesar Rp511 miliar yang menurut Perseroan baru akan disetor penuh ke PT Chandra Samudera Port seiring rampungnya proyek pelabuhan PT Chandra Cilegon Port pada 2027, serta apakah laba bersih pulih pada laporan keuangan kuartal berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok",
   "category": "Industri",
   "title": "KKP Operasikan [33] Kapal di Arafura Lewat Kerja Sama Tiongkok",
@@ -297,6 +324,33 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rows of motorcycles and cars at a busy vehicle dealership lot, a finance officer reviewing paperwork with a customer, daylight",
   "takeaway": "Laporan ini condong netral karena hanya mengonfirmasi dana obligasi sudah terpakai persis sesuai rencana, tanpa kabar baru soal ekspansi bisnis atau perubahan strategi. Yang tersentuh adalah arus kas dan beban bunga perusahaan: dana Rp1,2 triliun dari obligasi berbunga tetap ini sepenuhnya disalurkan jadi modal kerja, sehingga tidak ada dana menganggur yang tetap menanggung bunga tanpa dipakai, tapi kewajiban membayar bunga tetap ke pemegang obligasi tetap melekat pada SANF ke depan. Yang perlu dipantau adalah kelanjutan komunikasi dengan regulator, sebab laporan ini terbit sebagai revisi atas surat tanggapan OJK bernomor S-2441/PM.221/2026 terhadap laporan periode 30 Juni 2026, sehingga masih harus dilihat apakah revisi ini sudah dianggap lengkap oleh OJK atau masih akan diminta perbaikan lagi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdka-jawab-bursa-harga-dan-investor-pmthmetd-iv-belum-jelas",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Jawab Bursa: Harga dan Investor [PMTHMETD] IV Belum Jelas",
+  "deck": "Merdeka Copper Gold menjawab permintaan Bursa soal rencana PMTHMETD IV, namun harga saham baru, calon investor, dan jadwal pelaksanaan belum ditentukan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:20:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8670a8cd6b_27408c3603.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKA",
+  "tags": [
+   "MDKA",
+   "PMTHMETD",
+   "Bursa Efek Indonesia",
+   "Merdeka Copper Gold"
+  ],
+  "body": [
+   "PT Merdeka Copper Gold Tbk (MDKA) menyampaikan tanggapan resmi atas surat Bursa Efek Indonesia Nomor S-12325/BEI.PP1/09-2026 tertanggal 23 September 2026, melalui surat nomor 096/MDKA-JKT/CORSEC/IX/2026 yang ditandatangani Corporate Secretary Jessica J. pada 25 September 2026. Surat ini merespons pertanyaan Bursa terkait rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) IV, yang telah disetujui pemegang saham dalam RUPS Luar Biasa pada 23 Juni 2026.",
+   "Dalam tanggapannya, MDKA menyatakan belum bisa menyampaikan estimasi harga pelaksanaan maupun bentuk penyetoran saham baru, karena perseroan masih mengevaluasi kebutuhan pendanaan dan rencana strategis grup usahanya. Soal penggunaan dana, perseroan menegaskan 30 persen akan dipakai untuk modal kerja, sementara sisanya untuk pengembangan usaha berupa belanja modal, pembelian saham, aset, atau penyertaan saham, tetapi belum ada proyek atau transaksi spesifik yang ditetapkan. MDKA juga menyebut belum ada calon investor yang ditentukan atau sedang dinegosiasikan, dan rencana mencari investor baru akan ditempuh lewat pertemuan investor, roadshow, atau forum sejenis.",
+   "Berdasarkan laporan registrasi pemegang efek periode Agustus 2026 yang dipublikasikan 10 September 2026, total saham tercatat MDKA sebanyak 24.472.983.771 lembar, dengan saham free float sebesar 11.713.389.784 lembar atau 47,86 persen. Rincian pemegang saham di bawah 5 persen terdiri dari masyarakat umum 12.689.619.596 saham, direksi dan komisaris 255.689.364 saham, afiliasi pengendali 664.454.566 saham, treasury stock 53.341.100 saham, serta modal ventura dan private equity 2.744.782 saham, sementara saham milik pengendali langsung tercatat nol. Perseroan menegaskan jumlah saham baru yang akan diterbitkan dalam PMTHMETD IV maksimal 2.447.298.377 lembar, setara 10 persen dari saham yang telah ditempatkan dan disetor penuh saat ini, namun komposisi free float setelah aksi korporasi ini belum bisa dihitung karena rencana belum memasuki tahap pelaksanaan.",
+   "Soal jadwal, perseroan mengingatkan bahwa sesuai ketentuan OJK, pelaksanaan PMTHMETD harus dilakukan dalam jangka waktu dua tahun sejak persetujuan RUPSLB, namun belum bisa memberikan perkiraan waktu yang lebih rinci. MDKA juga menyatakan tidak ada informasi atau fakta material lain terkait rencana ini yang berpotensi memengaruhi harga efek atau keputusan investor yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Wide shot of an open-pit copper and gold mine with terraced roads and haul trucks, dusty golden afternoon light in Indonesia",
+  "takeaway": "Surat balasan ini sendiri condong netral bagi MDKA, karena tidak ada angka baru yang memburuk atau membaik, hanya konfirmasi bahwa rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) IV masih mentah, harga, investor, dan jadwalnya sama-sama belum ada kepastian. Yang perlu diperhatikan pemegang saham adalah potensi jumlah saham beredar bertambah hingga 2,44 miliar lembar atau 10 persen dari saham yang sudah beredar sekarang, sehingga jika rencana ini benar-benar berjalan, laba perusahaan akan terbagi ke lebih banyak lembar saham alias laba per saham bisa terdilusi. Angka free float 47,86 persen yang disebutkan, yaitu porsi saham yang beredar bebas di tangan publik di luar pemilik besar dan afiliasinya, juga jadi perhatian karena berkaitan dengan syarat minimum saham beredar bebas yang diwajibkan Bursa bagi perusahaan tercatat. Yang perlu dipantau berikutnya adalah apakah Merdeka Copper Gold akan mengumumkan harga pelaksanaan dan calon investor sebelum tenggat pelaksanaan PMTHMETD IV berakhir, yaitu paling lambat dua tahun sejak RUPSLB 23 Juni 2026 atau sekitar pertengahan 2028.",
   "sentimen": "netral"
  },
  {
@@ -770,6 +824,31 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "smar-siapkan-rp958-miliar-untuk-pelunasan-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Siapkan Rp958 Miliar untuk [Pelunasan] Obligasi Jatuh Tempo",
+  "deck": "SMART menyatakan telah menyiapkan dana Rp958 miliar untuk melunasi pokok Obligasi Berkelanjutan III Tahap II Seri C yang jatuh tempo 19 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:37:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0baf0398d7_9a5850854a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMAR",
+  "tags": [
+   "SMAR",
+   "obligasi korporasi",
+   "pelunasan utang",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Sinar Mas Agro Resources and Technology Tbk (SMART) menyampaikan keterbukaan informasi bahwa perseroan telah menyediakan dana sebesar Rp958.000.000.000 untuk melunasi pokok Obligasi Berkelanjutan III SMART Tahap II Tahun 2021 Seri C yang akan jatuh tempo pada 19 Oktober 2026. Laporan ini disampaikan mengacu pada Surat Keputusan Direksi PT Bursa Efek Indonesia No. Kep-00087/BEI/12-2025 tentang perubahan Peraturan Nomor I-E soal kewajiban penyampaian informasi. Perseroan menyebutkan bahwa ketersediaan dana ini didukung oleh posisi likuiditas yang tercermin dalam laporan keuangan konsolidasian per 30 Juni 2026.",
+   "Dana pelunasan pokok, termasuk pembayaran bunga atas obligasi tersebut, akan disetorkan ke rekening PT Kustodian Sentral Efek Indonesia secara tepat waktu sesuai jadwal yang telah ditentukan. Surat ditandatangani oleh Jimmy Pramono selaku Corporate Secretary SMART, dengan tembusan kepada Direktur Pengawasan Emiten dan Perusahaan Publik 2 Otoritas Jasa Keuangan serta PT Bank Mega Tbk selaku wali amanat obligasi ini. Perseroan menegaskan bahwa peristiwa ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Workers loading harvested palm oil fruit bunches onto a truck at a plantation collection point, tropical morning light",
+  "takeaway": "Laporan ini condong positif bagi SMART karena menunjukkan perusahaan punya kas yang cukup untuk melunasi utang senilai Rp958 miliar tanpa harus mencari pinjaman baru atau menerbitkan obligasi pengganti. Pos yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar dari kas perusahaan, karena pembayaran sebesar ini akan mengurangi kas pada Oktober, dan beban bunga, yang akan berkurang setelah obligasi ini lunas karena perusahaan tidak lagi membayar bunga atas pokok yang sudah dilunasi. Yang perlu dipantau adalah realisasi pembayaran pada tanggal jatuh tempo 19 Oktober 2026, saat dana harus benar-benar masuk ke rekening PT Kustodian Sentral Efek Indonesia sesuai jadwal yang dijanjikan perseroan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "telkom-gandeng-danantara-perkuat-keuangan-digital-ri",
   "category": "Teknologi",
   "title": "Telkom Gandeng Danantara [Perkuat] Keuangan Digital RI",
@@ -797,6 +876,32 @@ var ARTICLES = [
   "imageV": "mugwfmak"
  },
  {
+  "slug": "mpxl-tak-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "MPXL: Tak Ada [Informasi Material] di Balik Volatilitas Saham",
+  "deck": "Merespons surat Bursa Efek Indonesia soal volatilitas transaksi pada 23 September 2026, MPXL menyatakan tidak ada informasi material maupun rencana aksi korporasi di balik pergerakan sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:05:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2b539157e5_123150c8ec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPXL",
+  "tags": [
+   "MPXL",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT MPX Logistics International Tbk (MPXL) menjawab permintaan penjelasan dari Bursa Efek Indonesia melalui surat nomor S-12411/BEI.PP2/09-2026 tertanggal 24 September 2026, terkait volatilitas transaksi efek perseroan yang terjadi pada 23 September 2026. Jawaban resmi disampaikan lewat surat nomor 007/SP/MPXL-SEC/IX/2026 tertanggal 25 September 2026, ditandatangani oleh James S. Chandra selaku Director.",
+   "Dalam suratnya, MPXL menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga mengaku sudah melakukan konfirmasi kepada pemegang saham mayoritas, dan hasilnya tidak ditemukan aktivitas kepemilikan atau penjaminan saham yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024.",
+   "MPXL menambahkan bahwa perseroan belum memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang berpotensi memengaruhi status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan ke depan sejak surat ini disampaikan. Perseroan juga menegaskan tidak ada informasi atau kejadian penting lain yang material dan berdampak pada harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Fleet of cargo trucks parked in a logistics yard at dusk, a forklift moving pallets nearby, warehouse lights glowing.",
+  "takeaway": "Laporan ini netral bagi fundamental MPXL, sebab isinya semata konfirmasi bahwa tidak ada informasi baru yang mendasari pergerakan harga sahamnya, tanpa satu pun angka keuangan yang berubah. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau laba per saham yang tersentuh di sini, karena surat ini murni jawaban administratif atas permintaan Bursa terkait lonjakan transaksi pada 23 September 2026, bukan laporan keuangan. Pelaku pasar tetap perlu mencermati situasi ini, sebab kenaikan atau penurunan harga saham tanpa dukungan informasi fundamental biasanya bersifat spekulatif dan berisiko berbalik arah tanpa peringatan. Yang perlu dipantau berikutnya adalah apakah MPXL akhirnya merilis aksi korporasi dalam tiga bulan ke depan sejak 25 September 2026, mengingat perseroan sendiri menyatakan belum punya rencana semacam itu, serta apakah Bursa akan menaikkan status pemantauan bila volatilitas transaksi berlanjut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha",
   "category": "Perbankan",
   "title": "Bank Mandiri Perkuat [Livin' Merchant] untuk Pelaku Usaha",
@@ -821,6 +926,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah penguatan fitur, bukan produk baru: Livin' Merchant kini bisa menerima pembayaran lewat kode QR, baik yang dicetak tetap maupun yang dibuat otomatis sesuai nominal transaksi, dan memberi tahu pelaku usaha lewat suara begitu ada uang masuk. Yang terdampak jelas pelaku usaha, terutama pedagang kecil dan menengah yang selama ini mengandalkan pencatatan manual untuk penjualan dan stok. Berita ini tidak menyebutkan berapa banyak pelaku usaha yang sudah memakai Livin' Merchant atau seberapa besar nilai transaksi yang lewat aplikasi ini, jadi belum bisa dibaca apakah penguatan fitur ini benar mendorong lebih banyak usaha kecil beralih ke pembayaran digital atau sekadar pemutakhiran rutin. Yang perlu ditunggu adalah data jumlah pengguna atau volume transaksi Livin' Merchant, yang biasanya diungkap Bank Mandiri dalam laporan kinerja triwulanan berikutnya.",
   "imageV": "mugwfmpq"
+ },
+ {
+  "slug": "hrum-siapkan-buyback-rp120-miliar-saham-hingga-24-desember",
+  "category": "Aksi Korporasi",
+  "title": "HRUM Siapkan Buyback [Rp120 Miliar] Saham hingga 24 Desember",
+  "deck": "Harum Energy akan membeli kembali maksimal 111 juta saham atau 0,82 persen dari modal disetor, senilai hingga Rp120 miliar dari kas internal, mulai 28 September hingga 24 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:00:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/81d7e2a65a_d75d2a9ed5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRUM",
+  "tags": [
+   "HRUM",
+   "buyback saham",
+   "Harum Energy",
+   "pasar modal"
+  ],
+  "body": [
+   "Harum Energy Tbk (HRUM) mengumumkan rencana pembelian kembali (buyback) saham dengan merujuk pada aturan Otoritas Jasa Keuangan (OJK) No. 13/2023 tentang kebijakan menjaga stabilitas pasar modal saat kondisi berfluktuasi signifikan, sesuai Surat OJK No. S-112/D.04/2026 tertanggal 9 September 2026. Dengan payung aturan ini, Perseroan bisa langsung menjalankan buyback tanpa persetujuan Rapat Umum Pemegang Saham, cukup dengan menyampaikan keterbukaan informasi ke OJK dan Bursa Efek Indonesia. Buyback akan berlangsung selama tiga bulan, dari 28 September hingga 24 Desember 2026, dengan dana maksimal Rp120 miliar untuk membeli maksimal 111.000.000 lembar saham, setara 0,82 persen dari modal ditempatkan dan disetor Perseroan. Dengan nilai nominal Rp20 per saham, total nilai nominal saham yang dibeli kembali diperkirakan mencapai Rp2,22 miliar.",
+   "Perseroan menegaskan dana buyback berasal murni dari kas internal, bukan dari hasil penawaran umum maupun pinjaman atau utang dalam bentuk apa pun, dan penggunaannya tidak akan mengganggu kemampuan Perseroan memenuhi kewajiban yang jatuh tempo. Transaksi akan dilakukan melalui BEI lewat satu perantara pedagang efek yang akan ditunjuk Perseroan. Selama periode buyback, anggota Dewan Komisaris, anggota Direksi, pegawai, pemegang saham utama, serta pihak-pihak yang punya akses ke informasi orang dalam dilarang bertransaksi atas saham HRUM pada hari yang sama dengan pelaksanaan pembelian atau penjualan kembali saham oleh Perseroan.",
+   "Dokumen ini juga memuat proyeksi dampak keuangan berdasarkan laporan keuangan konsolidasian interim per 30 Juni 2026. Total aset diperkirakan turun dari US$3.829.721.639 menjadi US$3.822.981.202, dan total ekuitas turun dari US$1.947.697.844 menjadi US$1.940.957.407, keduanya berkurang sekitar US$6,74 juta atau setara Rp120 miliar memakai kurs tengah Bank Indonesia 24 September 2026 sebesar Rp17.803 per dolar AS. Laba tahun berjalan tetap di angka US$129.306.663, sementara laba per saham dasar diperkirakan naik tipis dari US$0,00278 menjadi US$0,00280 karena jumlah saham beredar berkurang."
+  ],
+  "fotoAdegan": "Coal barge loaded to the waterline moving along a wide brown river under overcast sky, tugboat alongside",
+  "takeaway": "Rencana buyback ini condong positif bagi HRUM karena seluruhnya dibiayai kas internal tanpa utang, tidak mengganggu kemampuan membayar kewajiban, dan proforma laporan keuangan menunjukkan laba per saham naik tipis dari US$0,00278 menjadi US$0,00280 meski ekuitas berkurang sekitar US$6,74 juta. Yang tersentuh adalah ekuitas, yaitu total kekayaan bersih perusahaan setelah dikurangi kewajiban, yang menyusut tipis karena sebagian kas dipakai membeli saham sendiri, sementara laba per saham naik karena laba yang sama kini dibagi ke jumlah saham beredar yang lebih sedikit. Skalanya tergolong kecil, hanya 0,82 persen dari total saham beredar, jadi ini lebih tepat dibaca sebagai langkah stabilisasi rutin di tengah gejolak pasar ketimbang sinyal besar. Yang perlu dipantau selanjutnya adalah realisasi pembelian sepanjang periode 28 September sampai 24 Desember 2026, serta laporan hasil akhir buyback yang wajib disampaikan Perseroan setelah periode tersebut berakhir.",
+  "sentimen": "positif"
  },
  {
   "slug": "bank-mandiri-dan-visa-dukung-hybrid-race-jakarta-2026",

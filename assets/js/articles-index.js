@@ -85,6 +85,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cdia-jawab-bursa-laba-anjlok-75-dana-ipo-baru-78-laba",
+  "category": "Aksi Korporasi",
+  "title": "CDIA Jawab Bursa: Laba Anjlok 75%, Dana IPO Baru 78% [Laba]",
+  "deck": "CDIA menjelaskan ke Bursa bahwa laba bersih semester I 2026 turun dari US$76 juta menjadi US$19 juta, sementara dana IPO baru terealisasi 78,45 persen dari Rp2,37 triliun.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CDIA",
+   "laporan keuangan",
+   "dana IPO",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4a66766d8_d09efcb6f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok",
   "category": "Industri",
   "title": "KKP Operasikan [33] Kapal di Arafura Lewat Kerja Sama Tiongkok",
@@ -186,6 +202,22 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/72dbe96352_b3613ee502.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdka-jawab-bursa-harga-dan-investor-pmthmetd-iv-belum-jelas",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Jawab Bursa: Harga dan Investor [PMTHMETD] IV Belum Jelas",
+  "deck": "Merdeka Copper Gold menjawab permintaan Bursa soal rencana PMTHMETD IV, namun harga saham baru, calon investor, dan jadwal pelaksanaan belum ditentukan.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKA",
+   "PMTHMETD",
+   "Bursa Efek Indonesia",
+   "Merdeka Copper Gold"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8670a8cd6b_27408c3603.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -478,6 +510,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "smar-siapkan-rp958-miliar-untuk-pelunasan-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Siapkan Rp958 Miliar untuk [Pelunasan] Obligasi Jatuh Tempo",
+  "deck": "SMART menyatakan telah menyiapkan dana Rp958 miliar untuk melunasi pokok Obligasi Berkelanjutan III Tahap II Seri C yang jatuh tempo 19 Oktober 2026.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMAR",
+   "obligasi korporasi",
+   "pelunasan utang",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0baf0398d7_9a5850854a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkom-gandeng-danantara-perkuat-keuangan-digital-ri",
   "category": "Teknologi",
   "title": "Telkom Gandeng Danantara [Perkuat] Keuangan Digital RI",
@@ -495,6 +543,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469347-hadir-di-fekdi-x-ifse-2026-telkom-solution-dukung-ekosistem-ekonomi-dan-keuangan-digital-indonesia"
  },
  {
+  "slug": "mpxl-tak-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "MPXL: Tak Ada [Informasi Material] di Balik Volatilitas Saham",
+  "deck": "Merespons surat Bursa Efek Indonesia soal volatilitas transaksi pada 23 September 2026, MPXL menyatakan tidak ada informasi material maupun rencana aksi korporasi di balik pergerakan sahamnya.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPXL",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2b539157e5_123150c8ec.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha",
   "category": "Perbankan",
   "title": "Bank Mandiri Perkuat [Livin' Merchant] untuk Pelaku Usaha",
@@ -510,6 +574,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469345-permudah-transaksi-pelaku-usaha-livin-merchant-dukung-pelaku-usaha-tumbuh-bersama-di-era-digital"
+ },
+ {
+  "slug": "hrum-siapkan-buyback-rp120-miliar-saham-hingga-24-desember",
+  "category": "Aksi Korporasi",
+  "title": "HRUM Siapkan Buyback [Rp120 Miliar] Saham hingga 24 Desember",
+  "deck": "Harum Energy akan membeli kembali maksimal 111 juta saham atau 0,82 persen dari modal disetor, senilai hingga Rp120 miliar dari kas internal, mulai 28 September hingga 24 Desember 2026.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRUM",
+   "buyback saham",
+   "Harum Energy",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/81d7e2a65a_d75d2a9ed5.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bank-mandiri-dan-visa-dukung-hybrid-race-jakarta-2026",
@@ -6435,86 +6515,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E006_c6301f04-0f88-4469-8c56-42e82a812087-20260919014840.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-tender-wajib-rampung-6-dari-40-juta-saham-terealisasi",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Tender Wajib Rampung, 6 dari 40 Juta Saham [Terealisasi]",
-  "deck": "Pengendali baru ARKO baru merealisasikan 6 juta dari 40 juta saham wajib beli dalam tender yang berakhir 19 September 2026, jauh dari target.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "tender wajib",
-   "pengendali baru",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E010_232c46b3-5d29-4569-bb8d-982a343f2276-20260919152412.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-pengendali-baru-beli-6-juta-dari-40-juta-saham-tender",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Pengendali Baru Beli 6 Juta dari 40 Juta Saham [Tender]",
-  "deck": "Pengendali baru ARKO baru merealisasikan 6 juta dari 40 juta saham yang wajib dibeli lewat penawaran tender wajib yang rampung 19 September 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "tender wajib",
-   "pengendali baru",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E010_232c46b3-5d29-4569-bb8d-982a343f2276-20260919015113.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-jadwalkan-rups-tahunan-19-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Jadwalkan [RUPS] Tahunan 19 September 2026",
-  "deck": "ARKO menjadwalkan RUPS Tahunan pada 19 September 2026 di Jakarta lewat e-proxy dan e-voting KSEI, meski tanggal pemanggilan dan DPS di dokumen tercatat setelah tanggal rapat itu.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "RUPS Tahunan",
-   "Arkora Hydro",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E001_719d61e9-7bb7-49ca-8466-60c28b55bb31-20260919014821.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-digugat-pkpu-oleh-pemasok-tagihan-rp70-juta",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Digugat [PKPU] oleh Pemasok, Tagihan Rp70 Juta",
-  "deck": "PT Arkora Hydro Tbk digugat penundaan kewajiban pembayaran utang oleh pemasok bernama Bima senilai Rp70 juta, yang menurut perseroan berdampak material bagi keuangannya.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "PKPU",
-   "Arkora Hydro",
-   "Gugatan Pailit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E018_66c32c76-46a5-44a2-ad80-c10cfcd812c8-20260918220533.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-pefindo-pertahankan-rating-outlook-positif",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: PEFINDO Pertahankan Rating, Outlook [Positif]",
-  "deck": "PEFINDO mempertahankan peringkat obligasi ARKO01AGN senilai Rp318,06 miliar milik Arkora Hydro dengan outlook positif, tidak berubah dari peringkat sebelumnya.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "PEFINDO",
-   "obligasi",
-   "pemeringkatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E030_df23c827-cbb9-477f-9f69-c7de068213f9-20260918220358.pdf",
   "sourceLabel": "IDX"
  }
 ];

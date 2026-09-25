@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Publex Insidentil, [Akuisisi] Tambang Masih Buram",
+  "deck": "Public expose insidentil BIKE menjawab pertanyaan investor, tapi harga, sumber dana, dan penjual akuisisi 6 anak usaha dan tambang 27.786 hektare tetap tidak diungkap.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "Public Expose",
+   "Akuisisi Tambang",
+   "Keterbukaan Informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5a88a287dc_616081b969.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgra-rilis-rencana-pemulihan-suspensi-via-private-placement",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Rilis Rencana Pemulihan Suspensi via [Private Placement]",
+  "deck": "Terregra Asia Energy menggandeng dua investor baru lewat private placement untuk mendanai proyek PLTMH yang mandek dan keluar dari suspensi saham, dengan RUPSLB dijadwalkan Desember 2026.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "suspensi saham",
+   "private placement",
+   "PLTMH"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a924068cac_1c6f6c61e7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asii-direksi-thomas-alim-beli-250-000-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Direksi Thomas Alim [beli] 250.000 saham baru",
+  "deck": "Direksi ASII Thomas Junaidi Alim W membeli 250.000 saham pada 23 September 2026, menambah kepemilikannya menjadi 1.657.800 lembar dan hak suara menjadi 0,0041 persen.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASII",
+   "kepemilikan saham",
+   "direksi",
+   "insider trading"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-1259-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bi-94-9-persen-pemda-sudah-digital-transaksi-keuangan",
   "category": "Perbankan",
   "title": "BI: 94,9 Persen Pemda Sudah [Digital] Transaksi Keuangan",
@@ -21,6 +69,70 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820026.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "swat-raih-opini-wdp-total-aset-susut-jadi-rp394-m",
+  "category": "Aksi Korporasi",
+  "title": "SWAT Raih Opini [WDP], Total Aset Susut jadi Rp394 M",
+  "deck": "Auditor memberi opini wajar dengan pengecualian pada laporan keuangan 2025 SWAT gara-gara selisih catatan pinjaman bank, sementara kas dan total aset perusahaan menyusut.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SWAT",
+   "opini audit",
+   "laporan keuangan",
+   "watchlist BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260925141118-64435-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-right-issue-rp4-1-triliun-bakrie-grup-perkuat-kendali-dilusi",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Right Issue Rp4,1 Triliun, Bakrie Grup Perkuat Kendali [Dilusi]",
+  "deck": "OJK menyatakan efektif rights issue IV ENRG senilai Rp4,12 triliun, dengan Bakrie Kalila Investment dan Bakrie Capital Indonesia bertindak sebagai pembeli siaga dan memperbesar kepemilikan mereka.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "rights issue",
+   "Bakrie Group",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c9e2b9d487_2eb3070d25.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tebe-gelar-paparan-publik-insidentil-usai-diminta-bursa",
+  "category": "Aksi Korporasi",
+  "title": "TEBE Gelar Paparan Publik [Insidentil] usai Diminta Bursa",
+  "deck": "Bursa meminta Dana Brata Luhur (TEBE) menggelar paparan publik insidentil pada 1 Oktober 2026 untuk menjelaskan pergerakan harga sahamnya, selain kinerja dan rencana bisnis.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEBE",
+   "Dana Brata Luhur",
+   "public expose",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/616ca18253_66b33bd144.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "emmi-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "EMMI Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "PT Esa Medika Mandiri Tbk menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMMI",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9fcef7b7f6_d2adf69871.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "putrasakti-mandiri-jual-1-juta-saham-kdtn-restrukturisasi-grup",
@@ -6398,118 +6510,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/099fe76bf8_2acc349ca8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-digugat-pkpu-rp4-25-miliar-oleh-dua-subkontraktor-proyek",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Digugat [PKPU] Rp4,25 Miliar oleh Dua Subkontraktor Proyek",
-  "deck": "PTPP menerima panggilan sidang PKPU dari dua subkontraktor proyek Museum KCBN Muarajambi atas tagihan yang belum dibayar sekitar Rp4,25 miliar; perseroan menyebut belum ada dampak signifikan.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "PKPU",
-   "konstruksi",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9833985dc3_8da3b48596.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nisp-tunjuk-aini-masruroh-anggota-baru-dps",
-  "category": "Aksi Korporasi",
-  "title": "NISP Tunjuk Aini Masruroh Anggota Baru [DPS]",
-  "deck": "OCBC NISP mengangkat Aini Masruroh sebagai anggota Dewan Pengawas Syariah efektif 18 September 2026, setelah lolos uji kelayakan OJK.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NISP",
-   "Bank OCBC NISP",
-   "Dewan Pengawas Syariah",
-   "Perbankan Syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f3f436d4d_9e9158fc69.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dmnd-kaji-aksi-korporasi-genjot-free-float-di-tengah-jawaban-bei",
-  "category": "Aksi Korporasi",
-  "title": "DMND Kaji Aksi Korporasi Genjot [Free Float] di Tengah Jawaban BEI",
-  "deck": "DMND menjawab permintaan BEI soal volatilitas sahamnya, menyatakan tidak ada informasi material tersembunyi, sekaligus mengungkap tengah mengkaji aksi korporasi untuk menambah porsi saham beredar di publik.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMND",
-   "free float",
-   "BEI",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c15b8215c4_c396eaadea.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impc-tunggal-jaya-investama-tambah-pembelian-3-35-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "IMPC: Tunggal Jaya Investama Tambah [Pembelian] 3,35 Juta Saham",
-  "deck": "Tunggal Jaya Investama membeli 3,35 juta saham IMPC pada 15 dan 17 September 2026, menambah kepemilikannya menjadi 21,1 miliar lembar tanpa mengubah hak suara di 38,42 persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMPC",
-   "Impack Pratama Industri",
-   "kepemilikan saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-6972-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-jual-611-juta-saham-suara-turun-ke-14-06",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi [Jual] 611 Juta Saham, Suara Turun ke 14,06%",
-  "deck": "Direksi Nusantara Sawit Sejahtera melepas 611,3 juta saham senilai sekitar Rp571,3 miliar lewat dua transaksi repo, hak suara turun dari 16,62% jadi 14,06%.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7390-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-buyback-saham-tembus-11-74-juta-lembar-per-18-september",
-  "category": "Aksi Korporasi",
-  "title": "PRDA [Buyback] Saham Tembus 11,74 Juta Lembar per 18 September",
-  "deck": "PT Prodia Widyahusada Tbk melaporkan realisasi pembelian kembali saham mencapai 11,74 juta lembar atau 1,24 persen dari total saham beredar per 18 September 2026, dengan sisa dana Rp118,02 miliar.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "buyback saham",
-   "Prodia Widyahusada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d5aa8b4bf_e3f7f7f054.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dfam-bantah-punya-info-pemicu-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "DFAM Bantah Punya Info Pemicu [Volatilitas] Transaksi Saham",
-  "deck": "Menjawab permintaan penjelasan BEI, Dafam Property menyatakan tak tahu penyebab lonjakan transaksi sahamnya dan tak punya rencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DFAM",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/382aceee27_3f5f3fdf83.pdf",
   "sourceLabel": "IDX"
  }
 ];

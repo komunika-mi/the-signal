@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Publex Insidentil, [Akuisisi] Tambang Masih Buram",
+  "deck": "Public expose insidentil BIKE menjawab pertanyaan investor, tapi harga, sumber dana, dan penjual akuisisi 6 anak usaha dan tambang 27.786 hektare tetap tidak diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T14:40:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5a88a287dc_616081b969.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "Public Expose",
+   "Akuisisi Tambang",
+   "Keterbukaan Informasi"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) menggelar public expose insidentil secara daring pada Kamis, 24 September 2026, pukul 15.00 hingga 16.00 WIB. Acara ini digelar memenuhi permintaan Bursa Efek Indonesia yang disampaikan lewat surat elektronik pada 21 September 2026, menyusul surat rencana penyelenggaraan yang dikirim Perseroan sehari setelahnya. Hadir mewakili manajemen adalah Erik Kusuma selaku Direktur Utama, serta Muhamad Kuswandi dan Nadila Syafira selaku Direktur. Di luar jajaran manajemen, acara ini diikuti 16 peserta yang terdiri dari analis pasar modal dan investor. Agenda yang dibahas mencakup perkembangan operasional Perseroan dan anak usaha, ringkasan laporan keuangan terakhir, rencana usaha ke depan, serta informasi material yang belum disampaikan ke publik.",
+   "Dalam sesi tanya jawab, manajemen ditanya soal kelanjutan nota kesepahaman pengembangan kawasan Pasar Minggu. Perseroan menjawab bahwa saat ini masih menyusun perencanaan detail teknis atau DED, dan konstruksi baru dimulai setelah tahap itu rampung, dengan estimasi pengerjaan selama 2 sampai 3 tahun. Investor juga mempertanyakan alasan Perseroan berekspansi ke sektor tambang, energi, dan golf di tengah kondisi rugi bersih Rp19,18 miliar dan ekuitas yang terbatas. Manajemen menjawab bahwa sektor tambang dan energi dinilai strategis untuk jangka panjang, dan menyebut adanya tawaran penguatan modal kerja dari pemegang saham pengendali yang saat ini masih dalam proses kajian oleh Kantor Jasa Penilai Publik (KJPP).",
+   "Pertanyaan paling tajam menyasar rencana akuisisi 6 anak usaha dan 3 lahan tambang seluas sekitar 27.786 hektare. Investor meminta kepastian bahwa transaksi ini berjalan wajar atau arm's length, mengingat harga, sumber dana, dan pihak penjual belum diungkapkan. Perseroan hanya menjawab akan mengikuti ketentuan Bursa dan OJK serta menerapkan tata kelola perusahaan yang baik, tanpa membuka angka atau nama pihak yang dimaksud. Perseroan juga ditanya mengapa sebelumnya menyatakan tidak ada informasi material yang belum diungkap, padahal rencana akuisisi besar ini baru dipaparkan bersamaan dengan lonjakan harga saham yang memicu suspensi perdagangan. Jawabannya, Perseroan mengaku telah menyampaikan informasi sesuai ketentuan keterbukaan yang berlaku berdasarkan data yang tersedia saat itu. Soal kesiapan legal dan perpajakan untuk mengonsolidasikan lini usaha tambang, energi, IT, dan golf ke dalam satu entitas terbuka, termasuk perizinan IUP yang clean and clear, Perseroan menyatakan masih mempersiapkannya bersama profesional eksternal."
+  ],
+  "fotoAdegan": "Wide view of undeveloped tropical land bordering forest and a small river, a possible mining concession area, overcast sky, Indonesia",
+  "takeaway": "Laporan ini condong negatif, karena meski BIKE akhirnya memenuhi permintaan Bursa untuk menggelar public expose insidentil, pertanyaan inti soal harga, sumber dana, dan pihak penjual dalam akuisisi 6 anak usaha dan lahan tambang seluas 27.786 hektare tetap tidak dijawab dengan angka atau nama pihak yang jelas. Yang tersentuh di sini adalah ekuitas dan laba rugi Perseroan, karena manajemen sendiri mengonfirmasi rugi bersih Rp19,18 miliar sementara berencana ekspansi ke sektor padat modal seperti tambang dan energi, dengan rencana suntikan modal dari pengendali yang masih menunggu hasil kajian lembaga penilai independen atau KJPP, yakni pihak yang menaksir kewajaran nilai aset atau modal sebelum transaksi disetujui. Yang perlu dipantau berikutnya adalah hasil kajian KJPP soal penguatan modal itu, progres perencanaan teknis proyek Pasar Minggu sebelum konstruksi 2 sampai 3 tahun dimulai, dan apakah rincian harga serta pihak penjual dalam akuisisi tambang akhirnya diungkapkan sebelum RUPSLB yang sebelumnya sempat ditunda atas permintaan penjelasan dari OJK.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tgra-rilis-rencana-pemulihan-suspensi-via-private-placement",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Rilis Rencana Pemulihan Suspensi via [Private Placement]",
+  "deck": "Terregra Asia Energy menggandeng dua investor baru lewat private placement untuk mendanai proyek PLTMH yang mandek dan keluar dari suspensi saham, dengan RUPSLB dijadwalkan Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T14:37:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a924068cac_1c6f6c61e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGRA",
+  "tags": [
+   "TGRA",
+   "suspensi saham",
+   "private placement",
+   "PLTMH"
+  ],
+  "body": [
+   "PT Terregra Asia Energy Tbk (TGRA) mengungkapkan bahwa pemegang saham pengendali perseroan telah meneken perjanjian investasi secara sirkuler dengan dua calon investor, PT Adidaya Mandiri Sejahtera dan PT Hilal Arkan Energi, yang disebut sebagai Konsorsium Investor. Perjanjian itu memuat rencana investasi awal secara tunai melalui mekanisme Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu, yaitu penerbitan saham baru yang tidak ditawarkan lebih dulu kepada pemegang saham lama. Menurut manajemen, kesepakatan ini juga memuat rencana strategis menciptakan pendapatan bagi TGRA agar bisa keluar dari sanksi suspensi saham di bursa dan melanjutkan pembangunan sejumlah PLTMH yang selama ini terkendala masalah keuangan.",
+   "Dalam laporan perkembangan yang disertakan, sejumlah tahapan sudah rampung 100 persen, antara lain penyediaan ruang data virtual bagi calon mitra, penandatanganan Head of Agreement pada 7 April 2026 di Bumi Serpong Damai, uji tuntas oleh konsultan mitra strategis pada 29 Mei sampai 29 Juni 2026, dan penerbitan laporan keuangan audited 2025 yang telah dikirim ke sistem pelaporan elektronik bursa pada 7 September 2026. Audit laporan keuangan per 30 September 2026 baru mencapai 50 persen, sementara penyelesaian kewajiban administrasi ke BEI, OJK, dan KSEI baru 70 persen dan disebut akan dipercepat. Penunjukan profesi penunjang pasar modal sudah 90 persen rampung, dengan KJPP, KAP, notaris, dan Biro Administrasi Efek sudah ditunjuk, sedangkan konsultan hukum masih dalam proses dengan target Oktober 2026.",
+   "Untuk pelaksanaan private placement itu sendiri, TGRA menjadwalkan laporan rencana RUPS ke OJK pada 3 November 2026, pengumuman RUPS pada 10 November, tanggal pencatatan pemegang saham pada 24 November, pemanggilan RUPS pada 25 November, serta penyelenggaraan RUPST dan RUPSLB pada 17 Desember 2026. Setelah itu, pengumuman hasil RUPS dijadwalkan 21 Desember, permohonan pencatatan saham ke BEI 23 Desember, distribusi saham baru pada 6 Januari 2027, dan pencatatan saham hasil private placement di bursa pada 7-8 Januari 2027. Perseroan menyebut progres tahap ini baru 25 sampai 50 persen karena masih menunggu hasil valuasi saham dan negosiasi harga dari KJPP, serta menunggu hasil audit laporan keuangan per 30 September 2026 yang akan menjadi dasar penentuan harga saham baru."
+  ],
+  "fotoAdegan": "Workers and machinery at a small hydroelectric plant construction site beside a forested river channel in Indonesia, overcast daylight.",
+  "takeaway": "Laporan ini netral bagi fundamental TGRA saat ini, sebab isinya baru berupa rencana dan progres administratif menuju pemulihan suspensi, belum ada dana yang benar-benar masuk atau angka valuasi final yang bisa dihitung dampaknya bagi pemegang saham. Yang tersentuh adalah pos ekuitas dan potensi laba per saham ke depan, karena skema penambahan modal tanpa hak memesan efek terlebih dahulu berarti saham baru tidak ditawarkan lebih dulu ke pemegang saham lama, sehingga porsi kepemilikan mereka bisa mengecil begitu saham baru terbit. Sisi baiknya, dana segar dari konsorsium investor jika terealisasi bisa membantu TGRA menuntaskan proyek PLTMH yang mandek dan mendatangkan pendapatan yang selama ini tidak ada karena sahamnya disuspensi. Yang perlu dipantau berikutnya adalah RUPST dan RUPSLB yang dijadwalkan 17 Desember 2026 untuk menyetujui aksi korporasi ini, serta hasil valuasi saham oleh KJPP dan audit laporan keuangan per 30 September 2026 yang akan menentukan harga dan jumlah saham baru yang diterbitkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asii-direksi-thomas-alim-beli-250-000-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Direksi Thomas Alim [beli] 250.000 saham baru",
+  "deck": "Direksi ASII Thomas Junaidi Alim W membeli 250.000 saham pada 23 September 2026, menambah kepemilikannya menjadi 1.657.800 lembar dan hak suara menjadi 0,0041 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T14:25:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-1259-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASII",
+  "tags": [
+   "ASII",
+   "kepemilikan saham",
+   "direksi",
+   "insider trading"
+  ],
+  "body": [
+   "Thomas Junaidi Alim W, anggota Direksi PT Astra International Tbk (ASII), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 250.000 saham ASII pada 23 September 2026 dengan harga Rp4.762 per saham, sehingga nilai transaksinya sekitar Rp1,19 miliar. Laporan yang disampaikan sesuai POJK Nomor 4/2024 ini mencatat jenis transaksi sebagai pembelian tidak langsung dengan tujuan investasi.",
+   "Dengan pembelian tersebut, kepemilikan saham Thomas di ASII naik dari 1.407.800 lembar menjadi 1.657.800 lembar, atau bertambah 17,76 persen dari kepemilikannya sebelum transaksi. Hak suaranya di perusahaan turut berubah, dari 0,0035 persen menjadi 0,0041 persen, meski secara keseluruhan porsi kepemilikannya di ASII tetap sangat kecil.",
+   "Laporan ini menambah rentetan pembelian saham oleh jajaran direksi dan komisaris ASII dalam sepekan terakhir. Sebelumnya, Komisaris Prijono Sugiarto melaporkan pembelian 8.700 saham dan seorang direksi bernama Rudy melaporkan pembelian 4,4 juta saham yang melipatgandakan kepemilikannya."
+  ],
+  "fotoAdegan": "Wide shot of a modern stock brokerage floor in Jakarta with brokers walking between desks, blurred monitors, daylight through glass windows",
+  "takeaway": "Laporan ini condong positif bagi ASII karena mencerminkan direksi menambah kepemilikan sahamnya sendiri lewat pembelian di pasar, bukan pelepasan, dengan nilai sekitar Rp1,19 miliar yang tidak bisa dibilang sekadar simbolis. Yang tersentuh di sini adalah hak suara pelapor, yaitu porsi suara pemegang saham dalam rapat perusahaan, yang naik tipis dari 0,0035 persen menjadi 0,0041 persen setelah pembelian 250 ribu lembar saham, kenaikan 17,8 persen dari kepemilikannya sebelumnya meski porsinya di level perusahaan tetap sangat kecil. Transaksi ini juga menambah daftar direksi dan komisaris ASII yang tercatat membeli saham dalam sepekan terakhir, setelah Prijono Sugiarto dan direksi bernama Rudy melaporkan pembelian serupa. Yang perlu dipantau berikutnya adalah apakah pola pembelian oleh jajaran direksi dan komisaris ASII ini berlanjut di laporan-laporan kepemilikan saham selanjutnya, karena satu transaksi kecil belum cukup menandakan perubahan sikap kolektif manajemen terhadap prospek perusahaan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bi-94-9-persen-pemda-sudah-digital-transaksi-keuangan",
   "category": "Perbankan",
   "title": "BI: 94,9 Persen Pemda Sudah [Digital] Transaksi Keuangan",
@@ -29,6 +107,111 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Data paling konkret dari acara ini adalah soal elektronifikasi transaksi pemerintah daerah, yakni sistem yang membuat penerimaan dan belanja uang pemerintah daerah tercatat secara elektronik. Hingga pertengahan 2026, 518 dari 546 pemerintah daerah atau hampir 95 persen sudah masuk kategori digital, artinya mayoritas provinsi dan kabupaten/kota sudah meninggalkan cara manual dalam mengelola kas publik. Yang masih tertinggal sekitar 28 pemerintah daerah yang belum digital, dan merekalah yang paling mungkin jadi sasaran program KATALIS P2DD ke depan. Arahnya menuju digitalisasi hampir penuh transaksi pemerintah daerah, dan yang akan memastikan tercapai atau tidaknya target itu adalah laporan ETPD semester kedua 2026 yang biasanya dirilis awal tahun berikutnya.",
   "imageV": "mugml6r6"
+ },
+ {
+  "slug": "swat-raih-opini-wdp-total-aset-susut-jadi-rp394-m",
+  "category": "Aksi Korporasi",
+  "title": "SWAT Raih Opini [WDP], Total Aset Susut jadi Rp394 M",
+  "deck": "Auditor memberi opini wajar dengan pengecualian pada laporan keuangan 2025 SWAT gara-gara selisih catatan pinjaman bank, sementara kas dan total aset perusahaan menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T14:04:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260925141118-64435-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SWAT",
+  "tags": [
+   "SWAT",
+   "opini audit",
+   "laporan keuangan",
+   "watchlist BEI"
+  ],
+  "body": [
+   "PT Sriwahana Adityakarta Tbk (SWAT) menyampaikan koreksi laporan keuangan tahunan untuk periode yang berakhir 31 Desember 2025. Kantor Akuntan Publik Herman, Dody, Tanumihardja & Rekan, dengan partner penandatangan Dody Hapsoro, memberikan opini Wajar Dengan Pengecualian (WDP) atas laporan tersebut per laporan audit tertanggal 4 September 2026, dengan dua hal audit utama yang diungkap. Auditor tahun sebelumnya adalah KAP Heliantono & Rekan dengan partner Andiek Nugroho, sehingga ada pergantian auditor pada laporan tahun ini. SWAT saat ini tercatat di papan pemantauan khusus (watchlist) Bursa Efek Indonesia.",
+   "Dalam surat tertanggal 23 September 2026 kepada Direktur BEI, manajemen menjelaskan bahwa opini WDP tersebut berkaitan dengan pinjaman bank pada perseroan dan entitas anak, yang disebabkan salah saji pada tahun-tahun sebelumnya. Perbedaan antara surat konfirmasi bank dan pencatatan internal perusahaan saat ini masih dikomunikasikan dengan pihak bank terkait. Manajemen menyatakan opini tersebut tidak memengaruhi kegiatan operasional dan kelangsungan usaha, serta mengklaim basis opini WDP tahun buku 2025 sudah membaik dibanding tahun buku 2024.",
+   "Dari sisi angka, total aset SWAT turun dari Rp481,50 miliar pada akhir 2024 menjadi Rp394,64 miliar pada akhir 2025. Kas dan setara kas anjlok dari Rp8,45 miliar menjadi Rp2,37 miliar, piutang usaha pihak ketiga turun dari Rp36,81 miliar menjadi Rp26,74 miliar, dan persediaan turun dari Rp65,76 miliar menjadi Rp44,78 miliar. Total liabilitas jangka pendek justru turun dari Rp41,32 miliar menjadi Rp32,87 miliar, meski porsi utang bank jangka panjang yang jatuh tempo dalam setahun naik dari Rp13,63 miliar menjadi Rp17,48 miliar. Utang kepada pemegang saham jangka pendek tetap di angka Rp9,06 miliar. Perusahaan juga melaporkan anak usahanya, PT Mulia Cipta Teknologi di Boyolali yang bergerak di industri dan perdagangan umum, sudah beroperasi sejak 2019 dengan aset Rp315,09 miliar dan kepemilikan SWAT sebesar 99,8 persen."
+  ],
+  "fotoAdegan": "Workers monitoring large rolls of paper moving along a production line inside an industrial paper mill in Central Java",
+  "takeaway": "Laporan ini condong negatif bagi SWAT karena auditor kembali memberi opini wajar dengan pengecualian, kali ini gara-gara catatan pinjaman bank perseroan dan anak usahanya tidak cocok dengan konfirmasi dari bank sendiri, sementara kas perusahaan susut dari Rp8,45 miliar menjadi Rp2,37 miliar dan total aset turun sekitar 18 persen dalam setahun. Opini wajar dengan pengecualian artinya auditor menemukan satu pos, dalam hal ini besaran utang bank, yang tidak bisa mereka pastikan kebenarannya, sehingga pembaca laporan keuangan belum bisa sepenuhnya yakin pada angka utang yang tercantum sampai selisih itu diluruskan. Kas yang menipis juga patut diperhatikan karena itu uang tunai yang bisa langsung dipakai membayar kewajiban jangka pendek, dan penurunan setajam ini biasanya jadi sinyal likuiditas yang menyempit meski manajemen menyebut operasional tidak terganggu. Yang perlu dipantau berikutnya adalah hasil rekonsiliasi data pinjaman antara SWAT dan pihak bank yang menurut surat perusahaan tertanggal 23 September 2026 masih berjalan, serta apakah opini auditor untuk laporan keuangan tahun buku 2026 sudah bersih dari pengecualian ini. Status SWAT di papan pemantauan khusus BEI juga masih menggantung selama isu tersebut belum tuntas.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "enrg-right-issue-rp4-1-triliun-bakrie-grup-perkuat-kendali-dilusi",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Right Issue Rp4,1 Triliun, Bakrie Grup Perkuat Kendali [Dilusi]",
+  "deck": "OJK menyatakan efektif rights issue IV ENRG senilai Rp4,12 triliun, dengan Bakrie Kalila Investment dan Bakrie Capital Indonesia bertindak sebagai pembeli siaga dan memperbesar kepemilikan mereka.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T13:53:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c9e2b9d487_2eb3070d25.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "rights issue",
+   "Bakrie Group",
+   "pasar modal"
+  ],
+  "body": [
+   "Energi Mega Persada Tbk (ENRG) mengumumkan bahwa Otoritas Jasa Keuangan (OJK) telah menyatakan efektif pernyataan pendaftaran penambahan modal dengan hak memesan efek terlebih dahulu (rights issue) IV perseroan, melalui surat No. S-120/D.04/2026 tanggal 24 September 2026. Dalam aksi korporasi ini, ENRG akan menerbitkan 13.282.271.875 saham baru Seri B dengan nilai nominal Rp100 per saham, setara 33,33 persen dari total saham perseroan setelah rights issue. Harga pelaksanaan ditetapkan Rp310 per saham, sehingga total dana yang bisa terkumpul mencapai Rp4,12 triliun. Setiap pemegang 2 saham lama yang tercatat dalam daftar pemegang saham pada 6 Oktober 2026 pukul 16.00 WIB berhak atas 1 hak memesan efek terlebih dahulu (HMETD), dan setiap 1 HMETD bisa ditukar dengan 1 saham baru.",
+   "Dokumen ini juga mengungkap manuver pemegang saham utama ENRG. PT Shima Global Kapital, pemegang saham pengendali dengan 4.661.422.413 saham atau 17,55 persen, menyatakan tidak akan menebus haknya sebanyak 2.330.711.205 HMETD dan mengalihkan seluruhnya ke PT Bakrie Kalila Investment (BKI), pihak yang terafiliasi dengan Shima. BKI, yang saat ini memegang 946.871.014 saham atau 3,56 persen, berkomitmen menebus seluruh haknya sendiri ditambah HMETD limpahan dari Shima, total 2.804.146.712 HMETD senilai Rp869,29 miliar. Sementara itu, PT Bakrie Capital Indonesia (BCI), pemegang 1.109.560.097 saham atau 4,18 persen, akan menebus seluruh 554.780.048 HMETD miliknya senilai Rp171,98 miliar. Bila masih ada saham baru yang tidak terserap pemegang saham lain, BKI dan BCI juga bertindak sebagai pembeli siaga yang menjamin membeli sisanya, masing-masing sampai maksimum Rp325,5 miliar dan Rp2,75 triliun, dengan total jaminan dana dari sejumlah bank sebesar Rp1,2 triliun untuk BKI dan Rp3,11 triliun untuk BCI.",
+   "Skema ini berpotensi mengubah komposisi kepemilikan ENRG secara signifikan. Dalam simulasi di mana hanya BKI dan BCI yang menebus haknya sementara pemegang saham lain tidak, kepemilikan BCI bisa melonjak dari 4,18 persen menjadi 26,45 persen, dan BKI dari 3,56 persen menjadi 12,05 persen. Sebaliknya, kepemilikan Shima terdilusi dari 17,55 persen menjadi 11,70 persen, sementara porsi publik atau pemegang saham di bawah 5 persen turun dari 47,74 persen menjadi 31,83 persen. Dokumen ini juga menyebut adanya Kesepakatan Bersama Terkait Pengendalian Perseroan yang diteken Shima, BKI, dan BCI pada 22 September 2026, namun rincian isi kesepakatan itu belum tercantum lengkap dalam dokumen yang diterima.",
+   "Sesuai jadwal resmi, periode perdagangan dan pelaksanaan HMETD berlangsung pada 8 hingga 21 Oktober 2026, dengan tenggat terakhir pelaksanaan pada 21 Oktober 2026. Pembayaran oleh pembeli siaga dijadwalkan pada 27 Oktober 2026, bersamaan dengan tanggal pengembalian uang pemesanan saham tambahan bagi pemegang saham yang pesanannya tidak terpenuhi."
+  ],
+  "fotoAdegan": "Onshore oil and gas pumping units silhouetted against a hazy Indonesian sunset, pipelines and storage tanks in the distance",
+  "takeaway": "Laporan ini condong positif bagi ENRG karena seluruh dana Rp4,12 triliun dari rights issue dijamin masuk lewat pembeli siaga Bakrie Kalila Investment dan Bakrie Capital Indonesia, sehingga perusahaan mendapat kepastian modal segar tanpa bergantung pada partisipasi pemegang saham publik, meski pemegang saham lama yang tidak menebus haknya akan tergerus kepemilikannya hingga sepertiga. Pos yang tersentuh adalah jumlah saham beredar, yang melonjak dari 26,56 miliar menjadi 39,85 miliar lembar sehingga laba per saham berpotensi terdilusi buat investor yang tidak menambah kepemilikan, sementara di sisi lain ekuitas perusahaan bertambah karena ada setoran modal baru senilai Rp4,12 triliun yang bisa dipakai membiayai eksplorasi dan produksi migas atau mengurangi utang. Yang perlu dipantau selanjutnya adalah tenggat pelaksanaan HMETD pada 21 Oktober 2026, jadwal pembayaran pembeli siaga pada 27 Oktober 2026, dan isi lengkap Kesepakatan Bersama Terkait Pengendalian Perseroan yang diteken Shima, BKI, dan BCI pada 22 September 2026, karena dokumen ini baru memuat sebagian isinya dan berpotensi mengonfirmasi pergeseran kendali ke kelompok Bakrie mengingat kepemilikan BCI diproyeksikan melonjak dari 4,18 persen menjadi 26,45 persen dan BKI dari 3,56 persen menjadi 12,05 persen.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tebe-gelar-paparan-publik-insidentil-usai-diminta-bursa",
+  "category": "Aksi Korporasi",
+  "title": "TEBE Gelar Paparan Publik [Insidentil] usai Diminta Bursa",
+  "deck": "Bursa meminta Dana Brata Luhur (TEBE) menggelar paparan publik insidentil pada 1 Oktober 2026 untuk menjelaskan pergerakan harga sahamnya, selain kinerja dan rencana bisnis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T13:53:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/616ca18253_66b33bd144.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEBE",
+  "tags": [
+   "TEBE",
+   "Dana Brata Luhur",
+   "public expose",
+   "BEI"
+  ],
+  "body": [
+   "PT Dana Brata Luhur Tbk. (TEBE) akan menggelar paparan publik insidentil pada Kamis, 1 Oktober 2026, pukul 14.00 WIB, melalui Zoom Meeting online. Berdasarkan surat kepada Bursa Efek Indonesia bernomor 044/DBL-IDX/IX/2026 tertanggal 25 September 2026, latar belakang paparan ini bukan inisiatif sukarela perusahaan, melainkan permintaan Bursa dengan rujukan surat pengawasan Peng-SPT-00182/BEI.WAS/09-2026.",
+   "Ada tiga agenda yang akan dibahas: kinerja operasional dan keuangan perseroan, rencana bisnis ke depan, dan yang menjadi sorotan, analisis manajemen mengenai pergerakan harga saham TEBE. Manajemen yang akan hadir adalah jajaran direksi perseroan.",
+   "Sesuai ketentuan Peraturan Bursa I-E butir V.4.2, materi paparan wajib disampaikan ke Bursa paling lambat tiga hari bursa sebelum acara, yakni Senin, 28 September 2026. Surat pemberitahuan ini ditandatangani secara elektronik oleh Corporate Secretary Alfon Mubarak."
+  ],
+  "fotoAdegan": "Coal conveyor loading a barge at a riverside port terminal, workers in safety vests, overcast tropical sky",
+  "takeaway": "Laporan ini sendiri netral bagi fundamental Dana Brata Luhur karena tidak mengubah satu pun pos keuangan, tapi statusnya sebagai permintaan Bursa, bukan inisiatif perusahaan, membuatnya layak dicermati. Bursa punya kewenangan meminta emiten menggelar paparan publik insidentil ketika mendeteksi pergerakan harga saham yang dianggap tidak wajar, dan forum semacam ini biasanya dipakai manajemen untuk menjelaskan penyebabnya secara terbuka kepada investor, bukan untuk mengumumkan angka kinerja baru. Yang perlu ditunggu adalah dua tanggal dari dokumen ini sendiri: penyerahan materi paparan ke Bursa paling lambat Senin, 28 September 2026, dan paparan publiknya sendiri pada Kamis, 1 Oktober 2026 pukul 14.00 WIB, saat itulah publik akan tahu penjelasan resmi manajemen soal pergerakan sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "emmi-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "EMMI Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "PT Esa Medika Mandiri Tbk menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T12:24:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9fcef7b7f6_d2adf69871.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMMI",
+  "tags": [
+   "EMMI",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Esa Medika Mandiri Tbk (EMMI) mengirim surat bernomor 201/ESA/IX/2026 tertanggal 25 September 2026 sebagai jawaban atas permintaan penjelasan Bursa Efek Indonesia melalui surat nomor S-12410/BEI.PP1/09-2026 tanggal 24 September 2026 mengenai volatilitas transaksi efek perseroan. Surat itu ditandatangani Florian Chris Widjaja selaku Direktur Utama.",
+   "Dalam jawabannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun ketentuan III.2.1 Peraturan Nomor I-E BEI. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu yang diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, serta tidak memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang berdampak pada status pencatatan sahamnya di bursa.",
+   "Soal rencana pengendali dan pemegang saham utama atas kepemilikan mereka, Corporate Secretary EMMI menyatakan telah mengonfirmasi langsung ke pemegang saham utama, dan hasilnya pemegang saham utama tidak memiliki rencana apa pun terkait kepemilikan sahamnya, termasuk rencana bertransaksi atas saham tersebut. Perseroan menutup surat dengan menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang bersifat material dan belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Exterior of a busy Jakarta financial district building, pedestrians and taxis passing by, blurred motion, midday light",
+  "takeaway": "Surat ini netral bagi fundamental EMMI, sebab isinya murni bantahan resmi bahwa tidak ada perubahan bisnis, keuangan, atau kepemilikan yang mendasari pergerakan harga sahamnya. Surat semacam ini biasanya diminta bursa ketika harga atau volume perdagangan suatu saham bergerak tidak wajar dibanding kondisi biasanya, semacam sinyal waspada dini yang disebut Unusual Market Activity, dan permintaan konfirmasi ini justru menunjukkan pergerakan saham EMMI belakangan tidak ditopang oleh kabar bisnis apa pun dari perusahaan. Karena tidak ada pos kinerja seperti laba, ekuitas, atau arus kas yang tersentuh dalam surat ini, investor sebaiknya membaca pergerakan harga sahamnya sebagai murni akibat aktivitas jual beli di pasar, bukan perubahan bisnis. Yang perlu dipantau selanjutnya adalah apakah EMMI tetap konsisten dengan pernyataannya soal tidak ada aksi korporasi dalam tiga bulan ke depan, yakni hingga sekitar akhir Desember 2026, serta apakah bursa akan kembali meminta penjelasan bila volatilitas berlanjut.",
+  "sentimen": "netral"
  },
  {
   "slug": "putrasakti-mandiri-jual-1-juta-saham-kdtn-restrukturisasi-grup",

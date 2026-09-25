@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wika-pefindo-turunkan-peringkat-sukuk-ke-level-default",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: PEFINDO Turunkan Peringkat Sukuk ke Level [Default]",
+  "deck": "PEFINDO menurunkan peringkat dua seri Sukuk Mudharabah WIKA senilai total Rp316 miliar dari idCCC(sy) menjadi idD(sy), menyusul tertundanya pembayaran bagi hasil yang jatuh tempo 18 September 2026.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "PEFINDO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5392cd0a69_1e5bbfbca6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "isat-bukukan-untung-rp1-64-t-dari-dekonsolidasi-serat-optik",
+  "category": "Aksi Korporasi",
+  "title": "ISAT Bukukan Untung Rp1,64 T dari [Dekonsolidasi] Serat Optik",
+  "deck": "Indosat menjelaskan ke BEI transaksi pelepasan 84,9% saham IFT ke NFT serta keuntungan sekali catat Rp1,64 triliun dari dekonsolidasi anak usaha serat optiknya.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ISAT",
+   "Indosat",
+   "serat optik",
+   "dekonsolidasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af63e96c9d_1c94142303.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nine-dirikan-anak-usaha-holding-modal-rp1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "NINE Dirikan Anak Usaha [Holding] Modal Rp1 Miliar",
+  "deck": "NINE membentuk anak usaha PT Sembilan Investasi Indonesia dengan modal disetor Rp1 miliar, NINE menguasai 99 persen saham dan sisanya dimiliki Yulius Sugiyanto.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NINE",
+   "anak usaha",
+   "aksi korporasi",
+   "Techno9 Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/db25bb91de_2d4ac65979.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-cabut-status-pemantauan-khusus-92-saham-wskt-wika-ikut",
+  "category": "Aksi Korporasi",
+  "title": "BEI Cabut Status [Pemantauan Khusus] 92 Saham, WSKT-WIKA Ikut",
+  "deck": "Bursa mencabut status pemantauan khusus dari 92 saham, termasuk WSKT dan WIKA, efektif 28 September 2026, menyusul penghapusan sejumlah kriteria di Peraturan Bursa I-X.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEI",
+   "Pemantauan Khusus",
+   "WSKT",
+   "WIKA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03e58bd0ed_ba394d68bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-revisi-kriteria-pemantauan-khusus-untuk-45-saham",
+  "category": "Aksi Korporasi",
+  "title": "BEI Revisi Kriteria [Pemantauan Khusus] untuk 45 Saham",
+  "deck": "BEI mencabut empat kriteria pemantauan khusus mulai 28 September 2026, tapi seluruh dari 45 saham yang kini berstatus watchlist tetap bertahan di sana karena masih punya kriteria lain.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEI",
+   "pemantauan khusus",
+   "watchlist saham",
+   "SRIL"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eff93c0d1a_6005167e7f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok",
   "category": "Industri",
   "title": "KKP Operasikan [33] Kapal di Arafura Lewat Kerja Sama Tiongkok",
@@ -75,6 +155,102 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-gandeng-binus-university-masuk-campuspreneur-mendag-busan-25-perguruan-tinggi-telah-onboarding",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "byan-rkab-disetujui-akuisisi-30-saham-dijelaskan",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: RKAB Disetujui, [Akuisisi] 30% Saham Dijelaskan",
+  "deck": "Bayan Resources menjawab permintaan penjelasan Bursa: RKAB tiga anak usaha disetujui dan tambang beroperasi normal lagi, sementara detail penjualan 30 persen saham pengendali ke Jhonlin Baratama masih terbatas.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "RKAB",
+   "Akuisisi",
+   "Jhonlin Baratama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6c2ec1f63_9c4f3d8a8e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sanf-rampungkan-realisasi-dana-obligasi-rp1-2-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SANF Rampungkan [Realisasi] Dana Obligasi Rp1,2 Triliun",
+  "deck": "SANF melaporkan revisi realisasi penggunaan dana obligasi berkelanjutan tahap II 2026 senilai Rp1,2 triliun, seluruhnya terpakai untuk modal kerja tanpa sisa dana.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SANF",
+   "obligasi",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/72dbe96352_b3613ee502.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbkp-rilis-obligasi-subordinasi-rp500-miliar-bunga-9-3",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Rilis Obligasi Subordinasi [Rp500 Miliar], Bunga 9,3%",
+  "deck": "KB Bank menawarkan obligasi subordinasi tahap II senilai Rp500 miliar dengan bunga 8,95-9,30 persen per tahun, dananya untuk perkuat modal dan biayai UKM.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBKP",
+   "obligasi subordinasi",
+   "KB Bank",
+   "Fitch Ratings"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f271f0f77e_58c6bff119.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-gelar-public-expose-insidentil-usai-pmthmetd-9-oktober",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Gelar [Public Expose] Insidentil Usai PMTHMETD, 9 Oktober",
+  "deck": "MKNT akan menggelar public expose insidentil pada 9 Oktober 2026 di Jakarta Selatan untuk menjelaskan kondisi perusahaan setelah penerbitan saham baru tanpa hak memesan efek terlebih dahulu.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "Public Expose",
+   "PMTHMETD",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7ce3af25f4_98be93c7ee.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aspi-gelar-public-expose-insidentil-usai-diminta-bursa",
+  "category": "Aksi Korporasi",
+  "title": "ASPI Gelar Public Expose [Insidentil] usai Diminta Bursa",
+  "deck": "Bursa Efek Indonesia meminta PT Andalan Sakti Primaindo Tbk menggelar paparan publik insidentil pada 29 September 2026 untuk menjelaskan kinerja dan pergerakan harga sahamnya.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASPI",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2c73ba4b16_eb08e2ac44.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tufi-lunasi-obligasi-rp804-miliar-jatuh-tempo-27-september",
+  "category": "Aksi Korporasi",
+  "title": "TUFI Lunasi Obligasi [Rp804 Miliar] Jatuh Tempo 27 September",
+  "deck": "Obligasi Berkelanjutan VI Tahap II Seri A senilai Rp804,175 miliar milik TUFI delisting dari BEI mulai 28 September 2026 setelah jatuh tempo sehari sebelumnya.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TUFI",
+   "obligasi",
+   "jatuh tempo",
+   "Mandiri Tunas Finance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/49820ddf8c_372b7b8f0c.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "fifa-catatkan-obligasi-tahap-iv-rp2-5-triliun-di-bei",
@@ -267,6 +443,38 @@ var ARTICLES = [
    "penambahan modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d340fa5331_0fa3fb7f03.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sraj-suntik-modal-rp3-93-m-ke-aib-terkecil-sepekan",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ [Suntik] Modal Rp3,93 M ke AIB, Terkecil Sepekan",
+  "deck": "SRAJ menambah modal disetor anak usaha rumah sakit AIB sebesar Rp3,93 miliar, laporan kelima pekan ini soal setoran modal ke unit usaha.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRAJ",
+   "transaksi afiliasi",
+   "rumah sakit",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/314c7a337e_b6de2dae8c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ultj-rinci-jadwal-pmhmetd-kendali-beralih-ke-frieslandcampina",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Rinci Jadwal [PMHMETD], Kendali Beralih ke FrieslandCampina",
+  "deck": "ULTJ merinci jadwal rights issue dan mekanisme pengalihan kendali ke FrieslandCampina, termasuk jadwal RUPSLB, tender wajib, dan status pemilik manfaat akhir baru.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "PMHMETD",
+   "FrieslandCampina",
+   "tender wajib"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1146f1685_02522fab12.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6307,214 +6515,6 @@ var ARTICLES = [
    "pemeringkatan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E030_df23c827-cbb9-477f-9f69-c7de068213f9-20260918220358.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tks-korsfu-panggil-rups-ada-agenda-baru-saham-bonus",
-  "category": "Aksi Korporasi",
-  "title": "TKS-KORSFU Panggil RUPS, Ada Agenda Baru [Saham Bonus]",
-  "deck": "RUPS gabungan TKS-KORSFU akan membahas dividen tunai, pembagian saham bonus, dan rencana penambahan modal tanpa hak memesan efek terlebih dahulu untuk tahun buku 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TKS-KORSFU",
-   "RUPS",
-   "saham bonus",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_TKS-KORSFU_E002_89fc9336-af4c-46e1-b756-9c1205bf9989-20260919133916.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tks-korsfu-gelar-rups-bahas-dividen-dan-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "TKS-KORSFU Gelar RUPS, Bahas Dividen dan [PMTHMETD]",
-  "deck": "TKS-KORSFU menggelar RUPS Tahunan, Luar Biasa, dan Independen pada 18 September 2026, membahas dividen tunai, saham bonus, dan penambahan modal tanpa hak memesan efek terlebih dahulu.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TKS-KORSFU",
-   "RUPS",
-   "dividen",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_TKS-KORSFU_E049_4f0cf407-0c7d-499e-bfe1-0f04859233a1-20260918215359.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-obligasi-hijau-rp318-miliar-delisting-per-30-september",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Obligasi Hijau Rp318 Miliar [Delisting] per 30 September",
-  "deck": "Obligasi Berwawasan Lingkungan I Arkora Hydro Seri A senilai Rp318,06 miliar dihapus dari pencatatan bursa mulai 30 September 2026, menyusul jatuh tempo pada 8 Agustus 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "obligasi",
-   "delisting",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_B012_076ee20c-fbd7-4d5d-a302-bceda6390749-20260919152959.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "obligasi-arko-rp318-miliar-jatuh-tempo-stop-transaksi-30-sep",
-  "category": "Aksi Korporasi",
-  "title": "Obligasi ARKO Rp318 Miliar [Jatuh Tempo], Stop Transaksi 30 Sep",
-  "deck": "BEI menghentikan pencatatan obligasi hijau ARKO senilai Rp318,06 miliar mulai 30 September 2026, menyusul jatuh tempo pada 8 Agustus 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "obligasi",
-   "jatuh tempo",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_B012_076ee20c-fbd7-4d5d-a302-bceda6390749-20260919094258.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-obligasi-rp318-miliar-jatuh-tempo-dihapus-dari-bei",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Obligasi Rp318 Miliar [Jatuh Tempo], Dihapus dari BEI",
-  "deck": "Bursa akan menghapus pencatatan obligasi hijau ARKO01AGN milik Arkora Hydro senilai Rp318,06 miliar mulai 30 September 2026 karena sudah jatuh tempo.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "obligasi",
-   "jatuh tempo",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_B012_076ee20c-fbd7-4d5d-a302-bceda6390749-20260918214955.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sril-masuk-papan-pemantauan-khusus-imbas-ekuitas-negatif",
-  "category": "Aksi Korporasi",
-  "title": "SRIL Masuk Papan [Pemantauan Khusus] Imbas Ekuitas Negatif",
-  "deck": "Bursa menempatkan saham SRIL di papan pemantauan khusus mulai 3 September 2026 setelah laporan keuangan terakhir mencatat ekuitas negatif.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRIL",
-   "Pemantauan Khusus",
-   "Ekuitas Negatif",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_SRIL_B031_46506f3b-cb18-4129-95b2-01384c125b00-20260918213441.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-konversi-obligasi-hijau-utang-turun-ke-rp2-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Konversi Obligasi Hijau, Utang Turun ke [Rp2,8 Miliar]",
-  "deck": "ARKO mengonversi Rp432,34 juta dari Obligasi Berwawasan Lingkungan I Seri B pada 2 September 2026, sehingga outstanding obligasi turun dari Rp3,23 miliar menjadi Rp2,80 miliar.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "obligasi",
-   "konversi utang",
-   "Arkora Hydro"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E034_f3496fa8-0e2f-44cc-a949-302c341fdaa9-20260919094532.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-konversi-obligasi-hijau-outstanding-turun-ke-rp2-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ARKO [Konversi] Obligasi Hijau, Outstanding Turun ke Rp2,8 Miliar",
-  "deck": "ARKO melaporkan konversi Rp432,3 juta obligasi hijau Seri B pada 2 September 2026, menurunkan nilai outstanding dari Rp3,23 miliar menjadi Rp2,80 miliar.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "obligasi hijau",
-   "konversi obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E034_f3496fa8-0e2f-44cc-a949-302c341fdaa9-20260919015024.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-konversi-sebagian-obligasi-hijau-sisa-rp2-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ARKO [Konversi] Sebagian Obligasi Hijau, Sisa Rp2,8 Miliar",
-  "deck": "Arkora Hydro mengonversi Rp432.342.130 dari Obligasi Berwawasan Lingkungan I Seri B pada 2 September 2026, outstanding turun jadi Rp2.798.891.083.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "obligasi hijau",
-   "konversi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E034_f3496fa8-0e2f-44cc-a949-302c341fdaa9-20260918205323.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbkp-nim-kb-bank-membaik-ke-1-96-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "BBKP: NIM KB Bank [Membaik] ke 1,96% di Semester I 2026",
-  "deck": "KB Bank melaporkan aset, kredit, dan dana pihak ketiga tumbuh dua digit pada semester I 2026, dengan margin bunga bersih dan kualitas kredit yang ikut membaik dari tahun sebelumnya.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBKP",
-   "KB Bank",
-   "kinerja keuangan",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1d99b5423_77773099b3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smdr-suntik-modal-rp33-7-miliar-ke-anak-usaha-properti",
-  "category": "Aksi Korporasi",
-  "title": "SMDR Suntik Modal [Rp33,7 Miliar] ke Anak Usaha Properti",
-  "deck": "Samudera Indonesia menambah modal Rp33,7 miliar ke anak usaha PT Samudera Properti Indonesia lewat penerbitan saham baru, memperbesar kepemilikannya jadi 99,59 persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMDR",
-   "Samudera Indonesia",
-   "transaksi afiliasi",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3690cf04ff_37bb8e8596.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smdr-suntik-modal-rp7-miliar-ke-anak-usaha-cumawis",
-  "category": "Aksi Korporasi",
-  "title": "SMDR Suntik Modal [Rp7 Miliar] ke Anak Usaha Cumawis",
-  "deck": "Samudera Indonesia menambah modal Rp7 miliar ke anak usahanya, PT Perusahaan Pelayaran Cumawis, lewat penerbitan 7.000 saham baru, menaikkan kepemilikan induk menjadi 99,988 persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMDR",
-   "transaksi afiliasi",
-   "penambahan modal",
-   "Samudera Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/78f3b9fd0a_4473e94118.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbkp-laba-bersih-anjlok-95-persen-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "[BBKP] Laba Bersih Anjlok 95 Persen di Semester I 2026",
-  "deck": "BBKP mencatat laba bersih semester I 2026 turun tajam ke Rp19,02 miliar dari Rp389,67 miliar setahun sebelumnya, meski aset dan ekuitas masih tumbuh.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBKP",
-   "Bank KB Indonesia",
-   "laporan keuangan",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918194352-64403-0/FinancialStatement-2026-II-BBKP.pdf",
   "sourceLabel": "IDX"
  }
 ];

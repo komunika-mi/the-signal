@@ -3,6 +3,138 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wika-pefindo-turunkan-peringkat-sukuk-ke-level-default",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: PEFINDO Turunkan Peringkat Sukuk ke Level [Default]",
+  "deck": "PEFINDO menurunkan peringkat dua seri Sukuk Mudharabah WIKA senilai total Rp316 miliar dari idCCC(sy) menjadi idD(sy), menyusul tertundanya pembayaran bagi hasil yang jatuh tempo 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T20:07:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5392cd0a69_1e5bbfbca6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "PEFINDO"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk melaporkan bahwa lembaga pemeringkat PEFINDO menurunkan peringkat dua seri Sukuk Mudharabah Berkelanjutan I Tahap I Tahun 2020 miliknya, yaitu Seri B senilai Rp159 miliar dan Seri C senilai Rp157 miliar, dari idCCC(sy) menjadi idD(sy). Kedua seri sukuk itu tercatat jatuh tempo 18 Desember 2027. Hasil pemeringkatan tertuang dalam surat PEFINDO Nomor RC-1285/PEF-DIR/IX/2026 tertanggal 21 September 2026, dan diterima WIKA pada 24 September 2026.",
+   "Dalam suratnya kepada Otoritas Jasa Keuangan, WIKA menjelaskan bahwa penurunan peringkat ini merupakan tindak lanjut atas penangguhan pembayaran bagi hasil sukuk yang jatuh tempo pada 18 September 2026. Perseroan menyatakan menerima hasil pemeringkatan tersebut dan menyebut naik turunnya peringkat kredit sebagai hal yang wajar mengikuti dinamika kondisi perusahaan. Kejadian ini sebelumnya juga sudah diungkapkan melalui keterbukaan informasi bernomor SE.01.00/A.CORSEC.00239/2026 pada 31 Juli 2026.",
+   "WIKA menyatakan akan terus berkomunikasi secara intensif dengan wali amanat serta pemegang obligasi dan sukuk untuk mencapai kesepakatan penyelesaian kewajiban yang dapat mengakomodasi kepentingan semua pihak. Laporan ini ditandatangani secara elektronik oleh Corporate Secretary WIKA, Mahendra Vijaya, pada 25 September 2026."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting steel rebar at a large elevated highway construction site, overcast sky, Jakarta outskirts",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena PEFINDO secara resmi memberi status gagal bayar pada peringkat sukuknya, bukan sekadar peringatan risiko seperti pada laporan-laporan sebelumnya. Yang tersentuh adalah arus kas dan kemampuan WIKA memenuhi kewajiban utang: peringkat kredit yang turun ke level gagal bayar membuat biaya pinjaman ke depan berpotensi naik dan mempersempit akses pembiayaan baru, sebab investor obligasi dan sukuk menjadikan peringkat ini sebagai acuan utama risiko. Yang perlu dipantau selanjutnya adalah hasil rapat umum pemegang sukuk dan obligasi WIKA yang telah dijadwalkan sepanjang 19 sampai 21 Oktober 2026, karena forum itulah yang akan menentukan skema penyelesaian atas kewajiban yang tertunda, di samping kelanjutan komunikasi perusahaan dengan wali amanat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "isat-bukukan-untung-rp1-64-t-dari-dekonsolidasi-serat-optik",
+  "category": "Aksi Korporasi",
+  "title": "ISAT Bukukan Untung Rp1,64 T dari [Dekonsolidasi] Serat Optik",
+  "deck": "Indosat menjelaskan ke BEI transaksi pelepasan 84,9% saham IFT ke NFT serta keuntungan sekali catat Rp1,64 triliun dari dekonsolidasi anak usaha serat optiknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T19:53:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af63e96c9d_1c94142303.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ISAT",
+  "tags": [
+   "ISAT",
+   "Indosat",
+   "serat optik",
+   "dekonsolidasi"
+  ],
+  "body": [
+   "PT Indosat Tbk (ISAT) menyampaikan tanggapan kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-12230/BEI.PP2/09-2026 yang diterima perseroan pada 23 September 2026. Permintaan itu terkait Amandemen dan Pernyataan Kembali Perjanjian Investasi antara Indosat, PT Aplikanusa Lintasarta (Lintasarta), dan PT Ainfrastruktur Indonesia Raya (Investor) yang diteken 6 Mei 2026, mengubah perjanjian awal tertanggal 23 Desember 2025. Indosat menjelaskan, perubahan itu dilakukan karena struktur pelaksanaan transaksi yang semula direncanakan lewat perusahaan terbuka diubah menjadi lewat perusahaan tertutup, dengan tujuan utama tetap sama yaitu membentuk platform infrastruktur serat optik independen.",
+   "Dalam skema tersebut, Indosat menjual 11.707.828 saham PT Infra Fiber Teknologi (IFT), setara 84,9% dari seluruh modal ditempatkan dan disetor IFT, kepada PT Nusantara Fiber Teknologi (NFT). Selain itu, Indosat bersama Lintasarta menyetorkan atau inbreng 2.083.223 saham IFT lainnya, setara 15,1% dari modal IFT, sebagai imbalan atas 49,9% saham NFT. Sisanya, 50,1% saham NFT, dikuasai Investor, sementara NFT sendiri kini menguasai hampir seluruh saham IFT. Dengan begitu, kepemilikan Indosat dan Lintasarta di bisnis serat optik tetap ada, tapi hanya secara tidak langsung lewat saham NFT, dan Indosat tidak lagi menjadi pemegang saham pengendali langsung dengan kepemilikan terbesar di NFT maupun IFT. Susunan direksi dan komisaris IFT dan NFT juga diperbarui, dengan Hendri Mulya Syam sebagai Presiden Direktur dan CEO, didampingi Hendra Purnama, H. Rudi Wismanto, dan Bambang Atmadja sebagai direktur, serta Rinaldi Firmansyah sebagai Komisaris Utama bersama Aryo P.S. Djojohadikusumo, Vikram Sinha, dan Lee Chi Hung sebagai komisaris.",
+   "Dari sisi keuangan, transaksi dekonsolidasi IFT ini membukukan keuntungan bersih Rp1,64 triliun yang diakui saat transaksi selesai dan bersifat satu kali alias tidak berulang. Ke depan, Indosat akan menanggung beban sewa dari skema sewa balik, yaitu menjual aset lalu menyewanya kembali, atas aset serat optik yang telah dilepas tersebut, sesuai standar akuntansi yang berlaku. Indosat juga menyatakan IFT dan NFT telah mengantongi seluruh izin usaha yang diperlukan, tidak memiliki rencana aksi korporasi baru dalam 12 bulan ke depan, dan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Technicians in hard hats splicing fiber optic cables inside an underground telecom vault, cable trays and tools nearby, indoor lighting.",
+  "takeaway": "Penjelasan ini condong positif untuk Indosat dalam jangka pendek karena berhasil memonetisasi sebagian bisnis serat optiknya dan langsung membukukan keuntungan Rp1,64 triliun, meski dampaknya hanya satu kali dan tidak mencerminkan perbaikan kinerja inti secara berkelanjutan. Keuntungan itu akan menambah laba bersih dan ekuitas Indosat pada periode pencatatannya, tapi pelaku pasar biasanya memisahkan pos semacam ini dari laba usaha reguler karena tidak akan berulang tahun depan. Sebaliknya, skema sewa balik atas aset serat optik yang sudah dilepas akan menambah beban sewa rutin ke laporan laba rugi Indosat ke depannya, sehingga sebagian dari keuntungan sekali catat ini bisa tergerus pelan-pelan oleh biaya baru tersebut. Indosat juga kini bukan lagi pemegang saham pengendali langsung dengan porsi terbesar di NFT maupun IFT, karena Investor menguasai 50,1% NFT sementara Indosat bersama Lintasarta hanya mengempit 49,9%, meski kepentingan ekonominya di bisnis serat optik pada dasarnya masih dipertahankan secara tidak langsung. Karena Indosat menegaskan tidak ada rencana aksi korporasi baru dalam 12 bulan ke depan, hal yang perlu dicermati selanjutnya adalah laporan keuangan kuartal mendatang, yang akan memperlihatkan besaran nyata beban sewa balik dan dampak hilangnya konsolidasi pendapatan IFT terhadap laba per saham Indosat.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "nine-dirikan-anak-usaha-holding-modal-rp1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "NINE Dirikan Anak Usaha [Holding] Modal Rp1 Miliar",
+  "deck": "NINE membentuk anak usaha PT Sembilan Investasi Indonesia dengan modal disetor Rp1 miliar, NINE menguasai 99 persen saham dan sisanya dimiliki Yulius Sugiyanto.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T19:23:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/db25bb91de_2d4ac65979.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NINE",
+  "tags": [
+   "NINE",
+   "anak usaha",
+   "aksi korporasi",
+   "Techno9 Indonesia"
+  ],
+  "body": [
+   "PT Techno9 Indonesia Tbk (NINE) menyampaikan keterbukaan informasi mengenai pendirian entitas anak baru bernama PT Sembilan Investasi Indonesia. Pendirian ini tertuang dalam Akta Pendirian Nomor 51 tanggal 22 September 2026 yang dibuat di hadapan notaris Dr. Sugih Haryati, SH., M.Kn, dengan tanggal kejadian tercatat 24 September 2026. Entitas anak ini berkedudukan di Jakarta Barat dan bergerak di bidang aktivitas perusahaan induk (holding company) sekaligus perdagangan.",
+   "Modal dasar PT Sembilan Investasi Indonesia ditetapkan sebesar Rp1 miliar, terbagi atas 1 juta lembar saham dengan nilai nominal Rp1.000 per saham. Seluruh modal dasar itu sekaligus menjadi modal ditempatkan dan disetor penuh, artinya tidak ada saham yang masih menganggur atau belum dibayar. Dari jumlah tersebut, NINE menguasai 99 persen atau 990.000 lembar saham, sementara sisanya sebanyak 10.000 lembar saham atau 1 persen dimiliki oleh individu bernama Yulius Sugiyanto.",
+   "Dalam laporannya, manajemen NINE menyatakan pendirian anak usaha ini tidak berdampak terhadap kegiatan operasional maupun kelangsungan usaha perseroan. Perusahaan menyebut langkah ini sebagai upaya membuka sumber pendapatan baru, tanpa merinci lebih lanjut jenis usaha perdagangan yang akan dijalankan entitas anak tersebut."
+  ],
+  "fotoAdegan": "Warehouse staff stacking boxes of computer hardware onto pallets under fluorescent warehouse lighting, forklift nearby",
+  "takeaway": "Laporan ini tergolong netral bagi NINE karena skala modalnya sangat kecil, hanya Rp1 miliar, sehingga belum cukup besar untuk dibaca sebagai sinyal ekspansi berarti bagi perusahaan sekelas emiten publik. Pos yang tersentuh adalah arus kas perseroan, karena NINE mengeluarkan dana sekitar Rp990 juta untuk modal disetor di anak usaha ini, yaitu uang tunai yang keluar dari kas perusahaan induk untuk dipakai entitas baru, namun jumlah tersebut relatif kecil sehingga dampaknya ke neraca keuangan NINE secara keseluruhan tipis. Yang perlu dipantau selanjutnya adalah bagaimana PT Sembilan Investasi Indonesia mulai menjalankan usahanya dan menyumbang pendapatan konkret, sebab dokumen ini tidak mencantumkan tenggat atau target waktu operasional, sehingga investor perlu menunggu laporan keuangan atau keterbukaan informasi lanjutan dari NINE untuk melihat realisasinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-cabut-status-pemantauan-khusus-92-saham-wskt-wika-ikut",
+  "category": "Aksi Korporasi",
+  "title": "BEI Cabut Status [Pemantauan Khusus] 92 Saham, WSKT-WIKA Ikut",
+  "deck": "Bursa mencabut status pemantauan khusus dari 92 saham, termasuk WSKT dan WIKA, efektif 28 September 2026, menyusul penghapusan sejumlah kriteria di Peraturan Bursa I-X.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T19:20:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03e58bd0ed_ba394d68bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "BEI",
+   "Pemantauan Khusus",
+   "WSKT",
+   "WIKA"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi mencabut status pemantauan khusus atau watchlist dari 92 saham lewat pengumuman No. Peng-CK-00076/BEI.PLP/09-2026 yang terbit 25 September 2026. Perubahan ini berlaku efektif mulai 28 September 2026, bersamaan dengan mulai berlakunya Peraturan Bursa I-X yang baru.",
+   "Pencabutan ini merupakan tindak lanjut atas penghapusan empat dari sebelas kriteria pemantauan khusus dalam peraturan baru tersebut, yaitu kriteria nomor 1 (harga saham rata-rata di bawah Rp51 disertai likuiditas rendah), 6 (tidak memenuhi syarat jumlah saham beredar bebas atau free float), 7 (likuiditas rendah dengan nilai transaksi harian di bawah Rp5 juta dan volume di bawah 10.000 saham selama tiga bulan), serta 10 (penghentian perdagangan lebih dari satu hari akibat aktivitas perdagangan). Sebanyak 92 saham yang sebelumnya masuk pemantauan khusus semata karena satu atau kombinasi dari empat kriteria itu kini dinyatakan keluar.",
+   "Daftar lengkap 92 saham yang keluar dari pemantauan khusus adalah: POLL, PBRX, TECH, SUPR, ARKA, AKKU, ANDI, ARMY, BAPI, BLTA, BLTZ, BSWD, BTEK, CPRI, DUCK, ELTY, GAMA, HADE, HOME, IIKP, IKAI, KIAS, LCGP, MAGP, MIRA, NUSA, PLAS, POOL, RIMO, SCPI, SKYB, SONA, SUGI, TAMU, TARA, TAXI, TFCO, TRAM, TRIL, UNIT, VIVA, HITS, SWAT, BEKS, CBMF, KBAG, KREN, NASA, PPRO, PURA, BAUT, FASW, LMSH, BEBS, HRME, WINR, IBST, LIFE, WSKT, ALTO, ASMI, INCF, IPPE, WMPP, IFSH, MFMI, ALMI, PLIN, ADES, MTSM, SMCB, BHIT, IPTV, RAFI, SAGE, DUTI, FIMP, MAPB, SOSS, PACK, PCAR, INRU, PTMR, WIKA, MENN, MLIA, URBN, PNGO, BIKE, DPNS, EDGE, dan GRPH.",
+   "Bersamaan dengan keluarnya status pemantauan khusus, papan pencatatan sejumlah saham juga berubah. PBRX, PPRO, WSKT, ADES, SMCB, BHIT, IPTV, PLIN, WMPP, MLIA, PNGO, GAMA, IKAI, BLTA, TARA, TAXI, KREN, WINR, IBST, ASMI, dan ALTO kembali tercatat di Papan Utama. WIKA, DUTI, dan INRU berada di Papan Pengembangan, sementara FIMP, PACK, dan MENN tercatat di Papan Akselerasi. Mayoritas saham lain dalam daftar tetap berada di Papan Pengembangan."
+  ],
+  "fotoAdegan": "Rows of blurred computer trading terminals in a busy Jakarta stock exchange back office, staff working quietly under fluorescent light",
+  "takeaway": "Laporan ini netral bagi pasar secara keseluruhan karena pencabutan status pemantauan khusus terjadi akibat perubahan aturan bursa, bukan karena perbaikan kinerja keuangan masing-masing dari 92 emiten yang disebut. Status pemantauan khusus membuat saham diperdagangkan lewat mekanisme lelang berkala yang membatasi frekuensi transaksi, sehingga investor sulit keluar masuk dengan cepat, dan keluarnya 92 saham ini berarti mekanisme perdagangannya kembali normal secara teknis. Namun risiko fundamental yang mendasari penempatan sebagian saham di pemantauan khusus, seperti opini disclaimer atas laporan keuangan, ekuitas negatif, atau tidak adanya pendapatan usaha, tetap berlaku karena hanya kriteria 1, 6, 7, dan 10 yang dihapus dari aturan. Yang perlu dipantau adalah 28 September 2026, tanggal efektif berlakunya Peraturan Bursa I-X sekaligus perpindahan papan pencatatan puluhan saham ini, serta laporan keuangan auditan berikutnya dari masing-masing emiten untuk melihat apakah kriteria pemantauan khusus yang masih berlaku kembali terpenuhi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-revisi-kriteria-pemantauan-khusus-untuk-45-saham",
+  "category": "Aksi Korporasi",
+  "title": "BEI Revisi Kriteria [Pemantauan Khusus] untuk 45 Saham",
+  "deck": "BEI mencabut empat kriteria pemantauan khusus mulai 28 September 2026, tapi seluruh dari 45 saham yang kini berstatus watchlist tetap bertahan di sana karena masih punya kriteria lain.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T19:18:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eff93c0d1a_6005167e7f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "BEI",
+   "pemantauan khusus",
+   "watchlist saham",
+   "SRIL"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menerbitkan pengumuman bernomor Peng-UK-00042/BEI.PLP/09-2026 pada 25 September 2026 tentang perubahan status Efek Bersifat Ekuitas Dalam Pemantauan Khusus, atau yang biasa disebut papan pemantauan khusus, untuk 45 saham. Perubahan ini berlaku efektif mulai 28 September 2026, bersamaan dengan mulai berlakunya Peraturan Bursa I-X yang baru. Pengumuman ditandatangani oleh Teuku Fahmi Ariandar, Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI.",
+   "Inti perubahan ini adalah pencabutan empat dari sebelas kriteria yang selama ini menjadi alasan sebuah saham dimasukkan ke papan pemantauan khusus, yaitu kriteria 1 (harga rata-rata saham di bawah Rp51 per lembar disertai nilai transaksi harian di bawah Rp5 juta dan volume di bawah 10.000 lembar selama tiga bulan terakhir), kriteria 6 (jumlah saham beredar di publik tidak memenuhi syarat minimum), kriteria 7 (likuiditas transaksi rendah), dan kriteria 10 (penghentian sementara perdagangan lebih dari satu hari bursa akibat aktivitas perdagangan). Keempat kriteria itu dihapus menyusul revisi Peraturan Bursa I-X. Meski begitu, pencabutan ini tidak membuat satu pun dari 45 saham tersebut keluar dari papan pemantauan khusus, karena setiap nama masih membawa setidaknya satu kriteria lain yang belum dicabut, seperti ekuitas negatif, opini disclaimer dari auditor, tidak adanya pendapatan usaha, atau status permohonan penundaan kewajiban pembayaran utang dan pailit.",
+   "Ke-45 saham yang statusnya diperbarui dalam pengumuman ini adalah KBRI (Kertas Basuki Rachmat Indonesia), ENVY (Envy Technologies Indonesia), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), GOLL (Golden Plantation), SRIL (Sri Rejeki Isman), WSBP (Waskita Beton Precast), OCAP (Onix Capital), TDPM (Tianrong Chemicals Industry), KAYU (Darmi Bersaudara), ARTI (Ratu Prabu Energi), BIKA (Binakarya Jaya Abadi), BOSS (Borneo Olah Sarana Sukses), BTEL (Bakrie Telecom), COWL (Cowell Development), DEAL (Dewata Freightinternational), ETWA (Eterindo Wahanatama), GLOB (Globe Kita Terang), HOTL (Saraswati Griya Lestari), MKNT (Mitra Komunikasi Nusantara), MTFN (Capitalinc Investment), POLY (Asia Pacific Fibers), POSA (Bliss Properti Indonesia), SBAT (Sejahtera Bintang Abadi Textile), SIMA (Siwani Makmur), SMRU (SMR Utama), TELE (Omni Inovasi Indonesia), TOPS (Totalindo Eka Persada), TRIO (Trikomsel Oke), WICO (Wicaksana Overseas International), MTPS (Meta Epsi), TGRA (Terregra Asia Energy), BIMA (Primarindo Asia Infrastructure), JSKY (Sky Energy Indonesia), DIGI (Arkadia Digital Media), HKMU (HK Metals Utama), LMAS (Limas Indonesia Makmur), PURE (Trinitan Metals and Minerals), KOIN (Kokoh Inti Arebama), ZINC (Kapuas Prima Coal), INAF (Indofarma), PTDU (Djasa Ubersakti), TOYS (Sunindo Adipersada), COAL (Black Diamond Resources), ZBRA (Dosni Roha Indonesia), dan PMMP (Panca Mitra Multiperdana).",
+   "Sebagian besar saham dalam daftar ini sebelumnya tercatat di papan pengembangan sebelum masuk papan pemantauan khusus. Empat di antaranya, yaitu TOPS, TGRA, HKMU, dan INAF, sebelumnya tercatat di papan utama. Sejumlah nama membawa lebih dari satu kriteria sekaligus, misalnya MTRA, COWL, dan TELE yang masing-masing tercatat dengan tiga kriteria berbeda, mulai dari opini disclaimer auditor, ekuitas negatif, hingga status permohonan penundaan kewajiban pembayaran utang."
+  ],
+  "fotoAdegan": "Wide shot of a financial district lobby in Jakarta with a distant, blurred digital ticker wall, people in business attire walking past, daylight.",
+  "takeaway": "Pengumuman ini netral bagi pasar secara keseluruhan karena bukan penilaian baru atas kinerja satu emiten, melainkan pembersihan administratif menyusul revisi Peraturan Bursa I-X yang berlaku 28 September 2026. Yang berubah hanya empat dari sebelas alasan sebuah saham bisa masuk papan pemantauan khusus, yaitu soal harga saham yang terlalu murah disertai transaksi sepi, syarat minimum saham beredar di publik, likuiditas rendah, dan penghentian perdagangan berkepanjangan, sementara alasan yang menyangkut kesehatan keuangan langsung seperti ekuitas negatif, yaitu kondisi kewajiban perusahaan sudah melebihi asetnya, dan opini disclaimer dari auditor tetap berlaku penuh. Ekuitas negatif inilah yang paling banyak menahan nama-nama di daftar tetap berstatus pemantauan khusus, karena itu sinyal masalah keuangan yang lebih serius dibanding sekadar saham yang jarang diperdagangkan. Dari 45 saham yang disebut, tidak satu pun yang benar-benar keluar dari papan pemantauan khusus akibat pelonggaran ini, sebab semuanya masih membawa minimal satu kriteria lain yang belum dicabut. Yang perlu dipantau berikutnya adalah laporan keuangan dan aksi korporasi masing-masing emiten setelah 28 September 2026, karena hanya perbaikan pada kriteria yang masih berlaku, seperti ekuitas atau pendapatan, yang bisa membawa nama-nama ini keluar dari papan pemantauan khusus.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok",
   "category": "Industri",
   "title": "KKP Operasikan [33] Kapal di Arafura Lewat Kerja Sama Tiongkok",
@@ -113,6 +245,162 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah bukan cuma bertambahnya satu kampus mitra, tapi capaian UMKM BISA Ekspor yang sudah tembus US$346,99 juta dalam delapan bulan pertama 2026, lebih dari dua kali lipat capaian sepanjang 2025 yang cuma US$134,87 juta. Ini berarti kementerian sedang mencoba menambah jumlah pengusaha baru yang berani ekspor, bukan sekadar mendorong angka ekspor dari eksportir lama. Yang terdampak langsung adalah mahasiswa dan UMKM binaan kampus seperti BINUS, sementara jaringan ritel modern lewat HIPPINDO dan APRINDO jadi jalur baru bagi produk UMKM masuk toko sebelum berani ke pasar luar negeri. Arah ini mengarah ke perluasan basis eksportir baru lewat jalur kampus dan ritel domestik lebih dulu, ketimbang sekadar menambah volume ekspor pemain lama, dan Trade Expo Indonesia pada 14-18 Oktober 2026 akan jadi penanda apakah UMKM binaan kampus ini benar-benar naik kelas ke pembeli internasional atau berhenti di tahap pelatihan dan penandatanganan kerja sama.",
   "imageV": "mugwflf2"
+ },
+ {
+  "slug": "byan-rkab-disetujui-akuisisi-30-saham-dijelaskan",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: RKAB Disetujui, [Akuisisi] 30% Saham Dijelaskan",
+  "deck": "Bayan Resources menjawab permintaan penjelasan Bursa: RKAB tiga anak usaha disetujui dan tambang beroperasi normal lagi, sementara detail penjualan 30 persen saham pengendali ke Jhonlin Baratama masih terbatas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:39:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6c2ec1f63_9c4f3d8a8e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "RKAB",
+   "Akuisisi",
+   "Jhonlin Baratama"
+  ],
+  "body": [
+   "Bayan Resources Tbk (BYAN) mengirim tanggapan resmi ke Bursa Efek Indonesia pada 25 September 2026 atas permintaan penjelasan yang diterima perseroan. Poin utamanya, PT Tiwa Abadi, PT Tanur Jaya, dan PT Fajar Sakti Prima, tiga anak usaha yang sempat menghentikan sementara kegiatan tambang karena revisi Rencana Kerja dan Anggaran Biaya (RKAB) 2026 belum disetujui pemerintah, akhirnya mendapat persetujuan pada 23 September 2026. Dengan izin itu keluar, Bayan mencabut status keadaan kahar (force majeure) yang sebelumnya dilaporkan ke Otoritas Jasa Keuangan pada 14 September 2026, melalui surat pencabutan tertanggal 24 September 2026. Ketiga anak usaha itu disebut sudah kembali beroperasi normal dan melanjutkan kewajiban pasokan batubara kepada para pembeli.",
+   "Soal rencana akuisisi, Bayan menjelaskan bahwa pada 16 September 2026 Dato' Low Tuck Kwong, yang juga menjabat Presiden Direktur perseroan, bersama Elaine Low menandatangani Perjanjian Jual Beli Saham Bersyarat untuk melepas 10.000.000.500 saham BYAN, setara 30 persen dari seluruh saham yang telah ditempatkan dan disetor, kepada PT Jhonlin Baratama. Setelah transaksi rampung, Low Tuck Kwong akan tetap memegang 6.951.170.541 saham atau sekitar 20,853 persen dan tetap berstatus pemegang saham utama sekaligus pengendali perseroan, sementara Elaine Low akan memegang 3.799.584.529 saham atau sekitar 11,399 persen. Bayan menegaskan belum ada rencana perubahan susunan direksi maupun komisaris, dan belum menerima permintaan RUPS terkait hal itu dari pemegang saham utama. Namun perseroan juga mengaku tidak mengetahui nilai transaksi, dasar penentuan harga, syarat-syarat pendahuluan yang harus dipenuhi, maupun target waktu penyelesaian transaksi tersebut, karena negosiasi dilakukan sendiri oleh para penjual tanpa melibatkan perseroan.",
+   "Terkait pemberitaan media soal tambahan kuota produksi batubara hingga 20 juta ton, Bayan menyatakan bahwa jumlah produksi yang disetujui dalam revisi RKAB 2026 sesuai dengan permohonan yang diajukan PT Tiwa Abadi, PT Tanur Jaya, dan PT Fajar Sakti Prima ke Kementerian ESDM, tanpa mengonfirmasi angka pastinya. Perseroan juga menegaskan proses persetujuan kuota itu tidak terkait dengan rencana akuisisi oleh Jhonlin Baratama. Bayan menutup surat dengan menyatakan tidak ada informasi atau fakta material lain yang belum diungkapkan ke publik dan berpotensi memengaruhi perdagangan sahamnya."
+  ],
+  "fotoAdegan": "Coal haul trucks moving along a dusty open-pit mine road toward loading conveyors, overcast tropical sky, Kalimantan",
+  "takeaway": "Laporan ini condong positif bagi Bayan karena kabar utamanya adalah pencabutan status force majeure: tiga anak usaha yang sempat berhenti tambang karena izin produksi tahunan dari pemerintah belum turun, kini bisa beroperasi normal lagi sejak izin itu disetujui 23 September 2026, sehingga potensi kehilangan pendapatan dan denda ke pembeli batubara mereda. Pos yang tersentuh adalah pendapatan dan arus kas perusahaan, sebab tambang yang berhenti otomatis tidak menghasilkan penjualan sampai izinnya keluar. Soal penjualan 30 persen saham dari Dato' Low Tuck Kwong dan Elaine Low ke PT Jhonlin Baratama sifatnya netral untuk saat ini, karena kedua penjual tetap memegang kendali perusahaan dan tidak ada saham baru yang diterbitkan, sehingga jumlah saham beredar dan laba per saham pemegang saham lama tidak berubah. Yang perlu dipantau berikutnya adalah penyelesaian transaksi itu sendiri, karena Bayan sendiri mengaku belum tahu harga, syarat penyelesaian, maupun target waktunya, sehingga kejelasan baru akan datang lewat pengumuman susulan, bukan dari surat ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "sanf-rampungkan-realisasi-dana-obligasi-rp1-2-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SANF Rampungkan [Realisasi] Dana Obligasi Rp1,2 Triliun",
+  "deck": "SANF melaporkan revisi realisasi penggunaan dana obligasi berkelanjutan tahap II 2026 senilai Rp1,2 triliun, seluruhnya terpakai untuk modal kerja tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:36:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/72dbe96352_b3613ee502.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SANF",
+  "tags": [
+   "SANF",
+   "obligasi",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "body": [
+   "SANF menyampaikan revisi laporan realisasi penggunaan dana hasil Obligasi Berkelanjutan V SANF Dengan Tingkat Bunga Tetap Tahap II Tahun 2026, yang efektif sejak 25 Februari 2026. Total dana yang terkumpul dari penerbitan obligasi ini mencapai Rp1,2 triliun. Setelah dikurangi biaya penawaran umum sebesar Rp3.555.593.855, hasil realisasi bersih yang diterima SANF menjadi Rp1.196.444.406.145.",
+   "Sesuai prospektus, seluruh hasil realisasi bersih tersebut direncanakan untuk modal kerja. Laporan ini menyatakan realisasinya sama persis dengan rencana, yaitu seluruh Rp1.196.444.406.145 sudah disalurkan untuk modal kerja atau 100 persen dari rencana, sehingga sisa dana yang belum terpakai tercatat nol.",
+   "Rincian biaya penawaran umum mencakup biaya jasa penjaminan (underwriting fee) Rp654.000.000, biaya jasa penyelenggaraan (management fee) Rp1.046.400.000, biaya jasa penjualan (selling fee) Rp654.000.000, biaya profesi penunjang pasar modal Rp451.750.000, biaya lembaga penunjang pasar modal Rp432.450.000, biaya jasa konsultasi keuangan nol, dan biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi sebesar Rp316.993.855.",
+   "Laporan ini merupakan revisi yang diajukan SANF menyusul surat tanggapan Otoritas Jasa Keuangan bernomor S-2441/PM.221/2026 atas laporan realisasi penggunaan dana periode 30 Juni 2026, sebagaimana diatur dalam Peraturan OJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum. Revisi ini disampaikan bersamaan kepada OJK dan Bursa Efek Indonesia, ditandatangani oleh Corporate Secretary SANF, Davin Susanto."
+  ],
+  "fotoAdegan": "Rows of motorcycles and cars at a busy vehicle dealership lot, a finance officer reviewing paperwork with a customer, daylight",
+  "takeaway": "Laporan ini condong netral karena hanya mengonfirmasi dana obligasi sudah terpakai persis sesuai rencana, tanpa kabar baru soal ekspansi bisnis atau perubahan strategi. Yang tersentuh adalah arus kas dan beban bunga perusahaan: dana Rp1,2 triliun dari obligasi berbunga tetap ini sepenuhnya disalurkan jadi modal kerja, sehingga tidak ada dana menganggur yang tetap menanggung bunga tanpa dipakai, tapi kewajiban membayar bunga tetap ke pemegang obligasi tetap melekat pada SANF ke depan. Yang perlu dipantau adalah kelanjutan komunikasi dengan regulator, sebab laporan ini terbit sebagai revisi atas surat tanggapan OJK bernomor S-2441/PM.221/2026 terhadap laporan periode 30 Juni 2026, sehingga masih harus dilihat apakah revisi ini sudah dianggap lengkap oleh OJK atau masih akan diminta perbaikan lagi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbkp-rilis-obligasi-subordinasi-rp500-miliar-bunga-9-3",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Rilis Obligasi Subordinasi [Rp500 Miliar], Bunga 9,3%",
+  "deck": "KB Bank menawarkan obligasi subordinasi tahap II senilai Rp500 miliar dengan bunga 8,95-9,30 persen per tahun, dananya untuk perkuat modal dan biayai UKM.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:17:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f271f0f77e_58c6bff119.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBKP",
+  "tags": [
+   "BBKP",
+   "obligasi subordinasi",
+   "KB Bank",
+   "Fitch Ratings"
+  ],
+  "body": [
+   "PT Bank KB Indonesia Tbk (BBKP) akan menerbitkan Obligasi Subordinasi Berkelanjutan IV Tahap II Tahun 2026 senilai Rp500 miliar, terbagi dalam dua seri. Seri A senilai Rp425 miliar berbunga 8,95 persen per tahun dengan tenor 5 tahun, jatuh tempo 16 Januari 2031. Seri B senilai Rp75 miliar berbunga 9,30 persen per tahun dengan tenor 7 tahun, jatuh tempo 16 Januari 2033. Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 16 Januari 2027.",
+   "Penerbitan ini merupakan tahap kedua dari program obligasi berkelanjutan senilai total Rp1 triliun, setelah Tahap I pada 2025 menyerap Rp248 miliar. Obligasi ini mendapat peringkat AAidn (Double A) dari Fitch Ratings Indonesia berdasarkan surat tertanggal 23 September 2026. PT Bank Rakyat Indonesia (Persero) Tbk bertindak sebagai wali amanat, sementara penjamin pelaksana emisi terdiri dari PT BRI Danareksa Sekuritas, PT Indo Premier Sekuritas, PT KB Valbury Sekuritas (terafiliasi dengan Perseroan), PT Korea Investment and Sekuritas Indonesia, dan PT Trimegah Sekuritas Indonesia Tbk. Masa penawaran umum dijadwalkan 12-13 Oktober 2026, penjatahan 14 Oktober 2026, distribusi 16 Oktober 2026, dan pencatatan di Bursa Efek Indonesia pada 19 Oktober 2026.",
+   "Dana hasil penerbitan, setelah dikurangi biaya emisi, akan digunakan untuk memperkuat struktur permodalan Perseroan serta mendukung pembiayaan segmen usaha kecil dan menengah (UKM), wholesale, dan ritel. Obligasi ini akan diperhitungkan sebagai modal pelengkap (Tier 2) dalam rasio Kewajiban Penyediaan Modal Minimum (KPMM), dengan fitur write down jika kelangsungan usaha Perseroan berpotensi terganggu. Dokumen juga menegaskan obligasi ini tidak dijamin agunan, tidak termasuk program penjaminan Lembaga Penjamin Simpanan, dan tidak memiliki opsi pembelian kembali sebelum jatuh tempo. Per 30 Juni 2026, total liabilitas Perseroan tercatat Rp84,75 triliun."
+  ],
+  "fotoAdegan": "Bank teller counter inside a modern branch serving customers, soft indoor lighting, blurred background",
+  "takeaway": "Laporan ini kami nilai netral bagi BBKP, karena penerbitan Rp500 miliar ini tergolong kecil dibanding total liabilitas Perseroan yang sudah Rp84,75 triliun, dan merupakan kelanjutan program yang memang sudah direncanakan sejak tahun lalu, bukan langkah darurat cari dana. Obligasi subordinasi ini akan dihitung sebagai modal pelengkap atau Tier 2, yaitu penyangga tambahan di luar modal inti yang membantu bank memenuhi rasio kecukupan modal dan menyalurkan lebih banyak kredit, terutama ke UKM, tapi ini tetap utang berbunga yang menambah beban bunga rutin bank setiap tiga bulan, bukan modal gratis dari pemegang saham. Rating AAidn dari Fitch menunjukkan lembaga pemeringkat menilai risiko gagal bayar obligasi ini rendah. Yang perlu dipantau berikutnya adalah apakah masa penawaran pada 12-13 Oktober 2026 terserap penuh sesuai target Rp500 miliar, sebelum obligasi resmi tercatat di Bursa Efek Indonesia pada 19 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mknt-gelar-public-expose-insidentil-usai-pmthmetd-9-oktober",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Gelar [Public Expose] Insidentil Usai PMTHMETD, 9 Oktober",
+  "deck": "MKNT akan menggelar public expose insidentil pada 9 Oktober 2026 di Jakarta Selatan untuk menjelaskan kondisi perusahaan setelah penerbitan saham baru tanpa hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:11:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7ce3af25f4_98be93c7ee.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "Public Expose",
+   "PMTHMETD",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk (MKNT) melaporkan kepada Bursa Efek Indonesia rencana penyelenggaraan Public Expose Insidentil, sesuai surat bernomor 011/MKNT/EXT/BEI/IX/2026 tertanggal 25 September 2026. Surat itu ditujukan kepada Saidu Solihin, Direktur Penilaian Perusahaan BEI, dan ditandatangani oleh Direktur Utama MKNT, Santoso Widjojo. Laporan elektronik ke bursa dikirim oleh Corporate Secretary MKNT, Shella Octavia, pada pukul 18.11 WIB.",
+   "Acara dijadwalkan berlangsung secara fisik pada 9 Oktober 2026 pukul 10.00 WIB sampai selesai, bertempat di Mediterania Function Room, Pacific Place Mall Level Basement 1, Jalan Jenderal Sudirman Kavling 52-53, Jakarta Selatan. Agenda yang tercantum dalam dokumen adalah pemberian informasi dan penjelasan mengenai kondisi perseroan pasca PMTHMETD, yakni penerbitan saham baru tanpa memberikan hak memesan efek terlebih dahulu kepada pemegang saham lama. Manajemen MKNT dijadwalkan hadir untuk menyampaikan hal-hal material lain yang relevan kepada pemegang saham.",
+   "Public Expose ini menyusul rangkaian aksi korporasi MKNT yang telah dilaporkan sebelumnya, termasuk penerbitan sekitar 1,02 triliun saham baru yang membuat kepemilikan pemegang saham lama tersisa sekitar 0,53 persen dan investor baru bernama Headwell menguasai 64,9 persen saham perseroan, serta pergantian seluruh jajaran direksi dan komisaris dalam RUPSLB."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a small stage in a modern hotel function room, soft morning light, Jakarta business district.",
+  "takeaway": "Laporan ini netral bagi pemegang saham MKNT, karena baru berupa undangan penjelasan dan belum membawa angka atau keputusan finansial baru. Yang disentuh adalah transparansi soal jumlah saham beredar dan struktur kepemilikan, menyusul penerbitan saham baru tanpa hak memesan efek terlebih dahulu atau PMTHMETD, yang sebelumnya diketahui menggerus porsi pemegang saham lama hingga tersisa sekitar 0,53 persen dan membuat Headwell menguasai 64,9 persen saham. Pelaku pasar perlu tahu forum ini karena di sanalah manajemen biasanya menjelaskan dampak riil dilusi tersebut kepada pemegang saham lama, termasuk soal ekuitas perseroan yang belakangan tercatat negatif. Yang perlu dipantau adalah pelaksanaan public expose itu sendiri pada 9 Oktober 2026 pukul 10.00 WIB di Pacific Place, Jakarta Selatan, karena isi penjelasan manajemen di forum itulah yang akan menentukan apakah kekhawatiran investor soal dilusi dan ekuitas negatif terjawab.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aspi-gelar-public-expose-insidentil-usai-diminta-bursa",
+  "category": "Aksi Korporasi",
+  "title": "ASPI Gelar Public Expose [Insidentil] usai Diminta Bursa",
+  "deck": "Bursa Efek Indonesia meminta PT Andalan Sakti Primaindo Tbk menggelar paparan publik insidentil pada 29 September 2026 untuk menjelaskan kinerja dan pergerakan harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:10:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2c73ba4b16_eb08e2ac44.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASPI",
+  "tags": [
+   "ASPI",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "properti"
+  ],
+  "body": [
+   "PT Andalan Sakti Primaindo Tbk (ASPI), pengembang properti yang berkantor pusat di Jakarta Selatan, mengumumkan rencana penyelenggaraan Public Expose Insidentil menyusul surat referensi bernomor Peng-SPT-00187/BEI.WAS/09-2026 dari Bursa Efek Indonesia. Paparan publik ini dijadwalkan berlangsung Selasa, 29 September 2026, pukul 14.00 WIB, digelar secara daring melalui aplikasi Zoom dan akan dihadiri langsung oleh jajaran manajemen perseroan.",
+   "Dalam surat yang ditandatangani Direktur Arnoldus Jansen Kustianto pada 25 September 2026, disebutkan tiga agenda utama yang akan dibahas dalam paparan tersebut, yaitu kinerja keuangan dan kondisi bisnis terkini perseroan, rencana bisnis ke depan, serta analisis manajemen terkait pergerakan harga saham perseroan. Poin ketiga ini menjadi penanda bahwa penyelenggaraan paparan publik kali ini bersifat insidentil, di luar jadwal paparan publik tahunan yang biasa, dan dipicu oleh permintaan otoritas bursa terkait pergerakan harga saham ASPI di pasar."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's central business district under midday sun, pedestrians walking past",
+  "takeaway": "Laporan ini netral bagi ASPI, karena isinya baru sebatas undangan prosedural dan belum memuat satu pun angka kinerja keuangan yang bisa dinilai arahnya. Yang tersentuh di sini adalah keterbukaan informasi soal pergerakan harga saham, yakni ketika saham suatu emiten bergerak di luar kebiasaan pasar, bursa berwenang meminta perusahaan itu tampil di depan publik untuk menjelaskan penyebabnya, sehingga investor tidak menebak-nebak sendiri. Pelaku pasar baru bisa menilai dampaknya setelah mendengar penjelasan manajemen soal kinerja keuangan dan rencana bisnis dalam paparan itu sendiri. Yang perlu dipantau adalah pelaksanaan Public Expose pada Selasa, 29 September 2026 pukul 14.00 WIB, karena di situlah manajemen akan memaparkan data kinerja dan alasan di balik pergerakan harga sahamnya secara langsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tufi-lunasi-obligasi-rp804-miliar-jatuh-tempo-27-september",
+  "category": "Aksi Korporasi",
+  "title": "TUFI Lunasi Obligasi [Rp804 Miliar] Jatuh Tempo 27 September",
+  "deck": "Obligasi Berkelanjutan VI Tahap II Seri A senilai Rp804,175 miliar milik TUFI delisting dari BEI mulai 28 September 2026 setelah jatuh tempo sehari sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:59:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/49820ddf8c_372b7b8f0c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TUFI",
+  "tags": [
+   "TUFI",
+   "obligasi",
+   "jatuh tempo",
+   "Mandiri Tunas Finance"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan VI Mandiri Tunas Finance Tahap II Tahun 2023 Seri A dengan kode TUFI06ACN2 tidak lagi tercatat dan tidak dapat diperdagangkan di BEI mulai 28 September 2026. Obligasi milik PT Mandiri Tunas Finance (TUFI) ini bernilai pokok Rp804.175.000.000, diterbitkan pada 27 September 2023, dan jatuh tempo tepat tiga tahun kemudian pada 27 September 2026.",
+   "Obligasi Seri A ini membawa bunga tetap 6,50 persen per tahun yang dibayarkan setiap tiga bulan, dengan pelunasan pokok dilakukan penuh sekaligus di akhir masa (bullet payment), bukan dicicil bertahap. Instrumen ini merupakan bagian dari Obligasi Berkelanjutan VI Tahap II Tahun 2023 yang total nilainya Rp1.131.110.000.000, terdiri dari Seri A ini dan Seri B senilai Rp326.935.000.000 berbunga 6,75 persen per tahun dengan tenor lebih panjang, jatuh tempo pada 27 September 2028. Penerbitan Tahap II ini menyusul Tahap I tahun 2023 senilai Rp691.735.000.000, sementara keseluruhan program Obligasi Berkelanjutan VI menargetkan dana himpunan hingga Rp5 triliun.",
+   "Obligasi ini dijamin dengan fidusia berupa piutang performing minimal 60 persen dari nilai pokok, dan bila jaminan piutang kurang dari batas itu, kekurangannya harus ditutup dengan uang tunai di rekening khusus. Instrumen ini juga mengantongi peringkat AAA dari PT Pemeringkat Efek Indonesia (Pefindo), dengan PT Bank Rakyat Indonesia (Persero) Tbk bertindak sebagai wali amanat, serta PT BRI Danareksa Sekuritas, PT Mandiri Sekuritas, dan PT Trimegah Sekuritas Indonesia Tbk sebagai penjamin emisi."
+  ],
+  "fotoAdegan": "Rows of motorcycles and cars at a vehicle dealership showroom in Jakarta, a salesperson assisting a customer, bright afternoon light",
+  "takeaway": "Laporan ini netral bagi TUFI, sebab pelunasan obligasi ini memang sudah terjadwal sejak penerbitannya tiga tahun lalu dan bukan tanda masalah keuangan mendadak. Yang tersentuh adalah arus kas perusahaan, karena skema bullet payment berarti seluruh pokok utang senilai Rp804,175 miliar harus dibayar sekaligus pada tanggal jatuh tempo, bukan dicicil, sehingga ada kas keluar dalam jumlah besar dalam satu waktu. Setelah pokok ini lunas, beban bunga tahunan sebesar 6,5 persen dari nilai tersebut akan hilang dari laporan keuangan TUFI ke depan, sedikit meringankan beban bunga total. Yang perlu dipantau adalah apakah TUFI menerbitkan obligasi baru untuk membiayai ulang kebutuhan dananya, mengingat program Obligasi Berkelanjutan VI bernilai total Rp5 triliun ini baru terpakai sekitar Rp1,82 triliun lewat dua tahap sebelumnya, serta memastikan kas tersedia sebelum tenggat pembayaran pada 27 September 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "fifa-catatkan-obligasi-tahap-iv-rp2-5-triliun-di-bei",
@@ -427,6 +715,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Doctors and nurses walking through a modern private hospital lobby with a glass facade, soft afternoon light in Jakarta",
   "takeaway": "Laporan ini netral bagi kinerja SRAJ, sebab meski nilainya terbesar dari rangkaian empat laporan serupa pekan ini, transaksi ini pada dasarnya hanya memformalkan dana yang sudah lebih dulu mengalir ke KKS sebagai uang muka modal, bukan aliran kas baru, dan porsi kepemilikan SRAJ di KKS nyaris tidak berubah. Yang tersentuh adalah pos ekuitas anak usaha: modal ditempatkan dan disetor adalah dana riil yang tercatat sebagai modal sendiri perusahaan, dan kenaikannya dari Rp285,71 miliar menjadi Rp464,66 miliar membuat bantalan keuangan KKS lebih tebal serta mengurangi kebutuhannya berutang, meski tidak menambah kas segar bagi SRAJ sebagai induk. Karena nilainya di bawah ambang 20 persen ekuitas, transaksi ini tidak memerlukan persetujuan RUPS, sehingga yang perlu dicermati selanjutnya adalah laporan keuangan kuartal III 2026 SRAJ untuk melihat dampak konsolidasi dari rangkaian empat penambahan modal ini, sekaligus apakah pola formalisasi setoran modal semacam ini masih berlanjut ke anak usaha rumah sakit lain.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sraj-suntik-modal-rp3-93-m-ke-aib-terkecil-sepekan",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ [Suntik] Modal Rp3,93 M ke AIB, Terkecil Sepekan",
+  "deck": "SRAJ menambah modal disetor anak usaha rumah sakit AIB sebesar Rp3,93 miliar, laporan kelima pekan ini soal setoran modal ke unit usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:58:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/314c7a337e_b6de2dae8c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRAJ",
+  "tags": [
+   "SRAJ",
+   "transaksi afiliasi",
+   "rumah sakit",
+   "anak usaha"
+  ],
+  "body": [
+   "Sejahteraraya Anugrahjaya Tbk (SRAJ) meningkatkan modal ditempatkan dan disetor pada anak usahanya, PT Anugrah Inti Bahagia (AIB), dari Rp15,5 miliar menjadi Rp19,43 miliar, atau bertambah Rp3,93 miliar. Berdasarkan akta keputusan sirkuler pemegang saham AIB tertanggal 21 September 2026 di hadapan notaris Dini Herawati, S.H., M.Kn., yang disahkan Kementerian Hukum RI pada 25 September 2026, tambahan modal ini berasal dari pencatatan ulang dana yang sebelumnya sudah lebih dulu disetor SRAJ ke AIB sebagai uang muka modal, kini resmi menjadi modal disetor. SRAJ mengambil seluruh saham baru tersebut, sementara pemegang saham lain di AIB, Jonathan Tahir, melepaskan hak memesan efek terlebih dahulu atas penambahan modal itu.",
+   "Setelah transaksi, komposisi pemegang saham AIB menjadi SRAJ dengan 194.200 lembar saham senilai Rp19,42 miliar, dan Jonathan Tahir tetap memegang 100 lembar saham senilai Rp10 juta, sehingga SRAJ tetap menjadi pemegang mayoritas dengan porsi sekitar 99,9 persen. Perusahaan menyatakan ini adalah transaksi afiliasi karena SRAJ adalah pemegang saham mayoritas AIB, namun bukan transaksi benturan kepentingan maupun transaksi material, sebab nilai Rp3,93 miliar hanya setara 0,36 persen dari ekuitas SRAJ per 30 Juni 2026 yang tercatat Rp1,091 triliun. Tujuan transaksi disebutkan untuk mendukung pertumbuhan dan memperkuat struktur permodalan AIB.",
+   "Laporan ini merupakan yang kelima dari SRAJ dalam sepekan terakhir soal setoran modal ke anak usaha, setelah sebelumnya melapor suntikan ke RS (Rp37,9 miliar), SAS (Rp23,1 miliar), AIK (Rp21,7 miliar), dan KKS (Rp178,9 miliar). Dari kelima laporan itu, transaksi ke AIB kali ini adalah yang paling kecil nilainya."
+  ],
+  "fotoAdegan": "Quiet private hospital entrance driveway in Indonesia with a parked ambulance, potted plants, soft morning light",
+  "takeaway": "Laporan ini netral bagi SRAJ karena nilainya sangat kecil, hanya 0,36 persen dari ekuitas perusahaan, dan dananya sebagian besar sudah lebih dulu mengalir ke AIB sebagai uang muka modal jauh sebelum laporan ini terbit, jadi transaksinya lebih ke pencatatan ulang administratif ketimbang aliran dana baru. Yang tersentuh adalah struktur ekuitas AIB di level anak usaha, yang menjadi lebih kuat secara permodalan, sementara kas dan ekuitas konsolidasi SRAJ nyaris tidak berubah karena dana memang sudah keluar sebelumnya; kepemilikan SRAJ di AIB juga tetap dominan di kisaran 99,9 persen, sehingga tidak ada pergeseran kendali. Yang perlu dipantau adalah apakah pola setoran modal serupa ke anak usaha lain akan berlanjut setelah lima laporan dalam sepekan ini, serta bagaimana penguatan modal AIB tercermin di kinerja rumah sakit itu pada laporan keuangan konsolidasi berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ultj-rinci-jadwal-pmhmetd-kendali-beralih-ke-frieslandcampina",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Rinci Jadwal [PMHMETD], Kendali Beralih ke FrieslandCampina",
+  "deck": "ULTJ merinci jadwal rights issue dan mekanisme pengalihan kendali ke FrieslandCampina, termasuk jadwal RUPSLB, tender wajib, dan status pemilik manfaat akhir baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:50:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1146f1685_02522fab12.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "PMHMETD",
+   "FrieslandCampina",
+   "tender wajib"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) menyampaikan tanggapan resmi atas surat permintaan penjelasan Bursa Efek Indonesia (BEI) tertanggal 23 September 2026 terkait rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD) dan rencana transaksi material pengambilalihan PT Frisian Flag Indonesia (FFI). Dalam surat tertanggal 25 September 2026 yang ditandatangani Presiden Direktur Sabana Prawira Widjaja, perseroan merinci jadwal pelaksanaan PMHMETD: Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) digelar 27 Oktober 2026, pernyataan efektif ditargetkan 28 Desember 2026, perdagangan saham dengan hak (cum-right) berakhir 8 Januari 2027 di pasar reguler dan negosiasi, sementara periode perdagangan dan pelaksanaan HMETD berlangsung 14 hingga 20 Januari 2027.",
+   "Perseroan juga menjelaskan dasar pengalihan pengendalian kepada FrieslandCampina International Holding B.V. (FCIH). Enam pemegang saham, yaitu Sabana Prawira Widjaja, PT Prawirawidjaja Prakarsa, Samudera Prawirawidjaja, Suhendra Prawirawidjaja, Nila S, dan Lili Melati, akan mengalihkan seluruh HMETD yang menjadi hak mereka kepada tiga pihak: FCIH sebanyak 5.291.626.319 HMETD, Blue Waves Group Ventures Pte Ltd (BWG) sebanyak 1.146.278.726 HMETD, dan PT Bahtera Wiraniaga Internusa (BWI) sebanyak 338.837.108 HMETD. Hak yang dialihkan itu akan dipakai FCIH, BWG, dan BWI untuk menyelesaikan rencana inbreng atau penyertaan aset non tunai, yang nilainya dihitung berdasarkan laporan penilai independen dari Kantor Jasa Penilai Publik Rengganis, Hamid dan Rekan. Perseroan menegaskan dasar pergantian pengendalian bukan dari persentase kepemilikan, sebab gabungan saham Sabana Prawira Widjaja (32,19 persen) dan PT Prawirawidjaja Prakarsa (14,39 persen) sebenarnya lebih besar dari FCIH (30,81 persen), melainkan dari kewenangan menunjuk mayoritas direksi dan komisaris baru sesuai POJK 9/2018, yang perubahan susunannya sudah diagendakan dalam RUPSLB 27 Oktober 2026 dan berlaku efektif setelah rencana inbreng rampung.",
+   "Ultrajaya mengonfirmasi bahwa setelah PMHMETD rampung, pemilik manfaat akhir perseroan akan berubah menjadi Zuivelcoöperatie FrieslandCampina U.A., koperasi yang dimiliki lebih dari 15.000 peternak sapi perah di Belanda, Belgia, Jerman, dan Prancis, tanpa ada anggota yang memiliki kepentingan lebih dari 25 persen sehingga koperasi ini disebut tidak punya pemilik manfaat akhir perorangan. Penawaran tender wajib kepada pemegang saham publik baru dimulai setelah OJK menerbitkan pernyataan efektif, yang ditargetkan Februari 2027, dengan periode penawaran 30 hari yang diperkirakan berlangsung Februari sampai Maret 2027. Soal ketentuan saham publik beredar (free float) minimum 15 persen sesuai Peraturan I-A, perseroan hanya menyatakan akan berupaya mendorong pemegang saham lama melaksanakan haknya dan akan mengevaluasi langkah lanjutan setelah PMHMETD dan tender wajib selesai, tanpa memberi kepastian angka atau batas waktu pemenuhannya."
+  ],
+  "fotoAdegan": "Stainless steel milk processing tanks and pipelines inside a dairy factory, workers in white uniforms checking valves, bright industrial lighting",
+  "takeaway": "Surat ini condong netral bagi fundamental Ultrajaya karena isinya menjawab pertanyaan teknis dan prosedural dari bursa, bukan mengungkap perkembangan bisnis baru, meski di baliknya ada sinyal campuran: masuknya FrieslandCampina sebagai pengendali baru berpotensi memperkuat kapasitas produk lewat konsolidasi dengan Frisian Flag Indonesia, tapi penambahan saham baru lewat PMHMETD berisiko mendilusi laba per saham pemegang saham publik yang tidak ikut menambah modal, dan perseroan belum bisa memastikan porsi saham publik beredar akan tetap di atas ambang minimum 15 persen setelah pengendali baru dan afiliasinya menguasai mayoritas saham. Jumlah saham beredar akan bertambah signifikan lewat PMHMETD ini sehingga laba per saham berpotensi tergerus jika pertumbuhan laba tidak mengimbangi penambahan saham, sementara dana dari rencana inbreng ini bukan berupa uang tunai masuk melainkan penyertaan aset non tunai berupa saham Frisian Flag Indonesia, sehingga tidak menambah kas perseroan secara langsung. Tiga tanggal yang perlu dipantau adalah RUPSLB pada 27 Oktober 2026 yang akan mengesahkan susunan direksi dan komisaris baru, target efektif PMHMETD pada 28 Desember 2026, dan penawaran tender wajib kepada pemegang saham publik yang diperkirakan berlangsung Februari sampai Maret 2027 setelah OJK menerbitkan izin efektifnya.",
   "sentimen": "netral"
  },
  {

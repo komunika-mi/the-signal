@@ -30,6 +30,32 @@ var ARTICLES = [
   "imageV": "muh2m6j8"
  },
  {
+  "slug": "ahap-right-issue-rp175-miliar-dilusi-maksimum-41-67",
+  "category": "Aksi Korporasi",
+  "title": "AHAP right issue Rp175 miliar, [dilusi] maksimum 41,67%",
+  "deck": "PT Asuransi Harta Aman Pratama Tbk (AHAP) menawarkan sebanyak-banyaknya 3,5 miliar saham baru lewat rights issue senilai Rp175 miliar; pemegang saham utama pastikan ambil jatahnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T21:26:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/636c68f29f_e1529d26b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AHAP",
+  "tags": [
+   "AHAP",
+   "rights issue",
+   "PMHMETD",
+   "asuransi"
+  ],
+  "body": [
+   "PT Asuransi Harta Aman Pratama Tbk (AHAP) menggelar Penambahan Modal Dengan Memberikan Hak Memesan Efek Terlebih Dahulu (PMHMETD) V, menawarkan sebanyak-banyaknya 3.500.000.000 saham baru bernilai nominal Rp50 per saham dengan harga pelaksanaan yang sama, Rp50 per saham. Setiap pemegang 7 saham lama yang tercatat pada 8 Oktober 2026 berhak atas 5 HMETD, dan setiap 1 HMETD bisa dipakai membeli 1 saham baru. Jika seluruh jatah terserap, dana yang masuk ke perusahaan bisa mencapai Rp175 miliar. Tidak ada pembeli siaga dalam aksi ini, sehingga jika ada saham yang tidak diambil pemegang saham, sisanya akan ditawarkan dulu ke pemegang saham lain yang memesan lebih dari jatahnya secara proporsional, dan bila masih bersisa maka saham itu tidak akan diterbitkan sama sekali.",
+   "Pemegang saham utama AHAP, PT Asuransi Central Asia, yang menguasai 62,58 persen saham, telah menyatakan lewat surat pernyataan tertanggal 20 Mei 2026 akan mengambil seluruh haknya sebanyak 2.190.245.006 saham senilai Rp109.512.250.300. Cara bayarnya campuran: seluruh pinjaman subordinasi milik AHAP kepada Asuransi Central Asia sebesar Rp30 miliar, yang tercatat di laporan keuangan per 31 Maret 2026, akan dikonversi langsung menjadi setoran modal, sedangkan sisanya Rp79.512.250.300 dibayar tunai saat pelaksanaan HMETD. Dengan kata lain, sebagian dari right issue ini sekaligus melunasi utang perusahaan kepada pemegang saham pengendalinya sendiri.",
+   "Jika seluruh HMETD dilaksanakan oleh semua pemegang saham, jumlah saham beredar AHAP akan naik dari 4.900.000.000 menjadi 8.400.000.000 lembar, dan komposisi kepemilikan tiap pihak relatif tidak berubah. Tapi bila hanya Asuransi Central Asia yang ambil bagian dan pemegang saham lain sama sekali tidak berpartisipasi, porsi Asuransi Central Asia justru naik dari 62,58 persen menjadi 74,14 persen, sementara pemegang saham lain seperti Sendra Gunawan turun dari 12,14 persen menjadi 8,39 persen dan publik dari 25,28 persen menjadi 17,47 persen. Perseroan sendiri menyebut dilusi maksimum bagi pemegang saham yang tidak ikut serta bisa mencapai 41,67 persen. Jadwalnya, masa perdagangan dan pelaksanaan HMETD berlangsung 12 hingga 16 Oktober 2026, penjatahan pemesanan tambahan pada 21 Oktober 2026, dan pernyataan efektif dari OJK ditetapkan 28 September 2026."
+  ],
+  "fotoAdegan": "Clerks reviewing insurance policy folders at a busy office counter in a Jakarta high-rise, soft window light, documents angled away from camera",
+  "takeaway": "Laporan ini condong netral bagi AHAP: perusahaan mendapat tambahan modal sekaligus melunasi utang subordinasi Rp30 miliar lewat konversi menjadi saham, tapi di sisi lain pemegang saham yang tidak ikut serta menanggung dilusi maksimum 41,67 persen, angka yang cukup besar untuk diperhitungkan serius, bukan sekadar formalitas. Pos yang tersentuh adalah ekuitas, karena jumlah saham beredar bisa naik dari 4,9 miliar menjadi 8,4 miliar lembar, dan laba per saham berpotensi terdilusi karena laba yang sama harus dibagi ke lebih banyak lembar saham. Konversi utang subordinasi menjadi modal juga memperbaiki struktur permodalan AHAP, hal yang penting bagi perusahaan asuransi karena berkaitan langsung dengan kemampuannya memenuhi ketentuan modal minimum dari OJK. Tidak adanya pembeli siaga berarti penyerapan dana sepenuhnya bergantung pada minat pemegang saham lama, sehingga dana yang benar-benar terkumpul bisa di bawah target Rp175 miliar. Yang perlu dipantau selanjutnya adalah pernyataan efektif OJK pada 28 September 2026, tanggal pencatatan pemegang saham berhak HMETD pada 8 Oktober 2026, serta masa pelaksanaan dan penjatahan pada 12 hingga 21 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wika-pefindo-turunkan-peringkat-sukuk-ke-level-default",
   "category": "Aksi Korporasi",
   "title": "WIKA: PEFINDO Turunkan Peringkat Sukuk ke Level [Default]",

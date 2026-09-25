@@ -22,6 +22,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469421-spbu-khusus-petani-pertama-di-indonesia-diresmikan-di-merauke-perkuat-dukungan-bbm-subsidi-untuk-produksi-pangan-berkelanjutan"
  },
  {
+  "slug": "ahap-right-issue-rp175-miliar-dilusi-maksimum-41-67",
+  "category": "Aksi Korporasi",
+  "title": "AHAP right issue Rp175 miliar, [dilusi] maksimum 41,67%",
+  "deck": "PT Asuransi Harta Aman Pratama Tbk (AHAP) menawarkan sebanyak-banyaknya 3,5 miliar saham baru lewat rights issue senilai Rp175 miliar; pemegang saham utama pastikan ambil jatahnya.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AHAP",
+   "rights issue",
+   "PMHMETD",
+   "asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/636c68f29f_e1529d26b1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wika-pefindo-turunkan-peringkat-sukuk-ke-level-default",
   "category": "Aksi Korporasi",
   "title": "WIKA: PEFINDO Turunkan Peringkat Sukuk ke Level [Default]",
@@ -6500,22 +6516,6 @@ var ARTICLES = [
    "BBRI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_DR_E081_88f74c52-7e23-40ad-9680-3c3795593c00-20260919015035.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "towr-direksi-anita-anwar-lepas-99-99-saham-hak-suara-nol",
-  "category": "Aksi Korporasi",
-  "title": "TOWR: Direksi Anita Anwar Lepas [99,99%] Saham, Hak Suara Nol",
-  "deck": "Direksi TOWR Anita Anwar menjual 32,16 juta saham pada 16 September 2026 seharga Rp437 per lembar, melepas 99,99 persen kepemilikannya hingga hak suaranya menjadi nol persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "saham",
-   "direksi",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-8160-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

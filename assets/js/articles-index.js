@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bi-teken-mou-sistem-pembayaran-dengan-timor-leste-di-fekdi-2026",
+  "category": "Moneter",
+  "title": "BI Teken MoU Sistem Pembayaran dengan [Timor-Leste] di FEKDI 2026",
+  "deck": "Bank Indonesia meneken nota kesepahaman sistem pembayaran dengan bank sentral Timor-Leste dan mengumumkan pemenang program talenta digital PIDI dalam ajang FEKDI x IFSE 2026 di Jakarta.",
+  "date": "26 September 2026",
+  "image": "assets/img/bi-teken-mou-sistem-pembayaran-dengan-timor-leste-di-fekdi-2026.jpg",
+  "imageV": "muh80nw1",
+  "tags": [
+   "Bank Indonesia",
+   "FEKDI 2026",
+   "Timor-Leste",
+   "talenta digital"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820126.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "spbu-pertama-khusus-petani-diresmikan-di-merauke",
   "category": "Energi",
   "title": "SPBU [Pertama] Khusus Petani Diresmikan di Merauke",
@@ -6500,22 +6518,6 @@ var ARTICLES = [
    "going concern"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60c1de8224_099a10997a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-pelaksanaan-waran-terstruktur-bbri-put-berakhir-18-september",
-  "category": "Aksi Korporasi",
-  "title": "DR: Pelaksanaan [Waran Terstruktur] BBRI Put Berakhir 18 September",
-  "deck": "RHB Sekuritas mengumumkan pelaksanaan waran terstruktur put BBRIDRPN5A atas saham BBRI pada 18 September 2026, harga Rp3.500, jumlah 100 juta unit.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "RHB Sekuritas",
-   "waran terstruktur",
-   "BBRI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_DR_E081_88f74c52-7e23-40ad-9680-3c3795593c00-20260919015035.pdf",
   "sourceLabel": "IDX"
  }
 ];

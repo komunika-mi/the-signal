@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "AcploF0V5eY",
+  "title": "Biaya Haji 2027, Tarif Penerbangan Belum Disepakati",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Pembahasan biaya haji tahun 2027 masih berjalan. Komponen tarif penerbangan menjadi salah satu poin yang hingga kini belum mencapai kesepakatan antara pemerintah dan pihak maskapai.",
+  "takeaway": "Negosiasi tarif penerbangan ini relevan bagi pembaca ekonomi karena menyangkut komponen biaya besar dalam anggaran haji sekaligus pola bisnis maskapai penerbangan."
+ },
+ {
   "id": "mVVqaok4PG0",
   "title": "Tangsel Expo 2026 Jadi Etalase UMKM dan Ekonomi Kreatif",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Bonny Romas kembali dipercaya memimpin Kadin Kabupaten Manggarai, sementara Maximilian Nalang Firman Demorin memimpin Kadin Manggarai Timur untuk periode kedua.",
   "takeaway": "Pergantian kepengurusan Kadin daerah penting diikuti pelaku usaha lokal karena memengaruhi arah advokasi dan kemitraan bisnis di wilayah tersebut."
- },
- {
-  "id": "V9RVL3y_Qws",
-  "title": "Bea Cukai Ungkap Ekspor Ilegal Emas Senilai Rp73 Miliar",
-  "category": "Bisnis",
-  "program": "Kabar Utama",
-  "summary": "Direktorat Jenderal Bea dan Cukai membongkar upaya ekspor ilegal emas lewat sejumlah bandara internasional. Dalam sepuluh hari, petugas mengamankan hampir 29 kilogram emas.",
-  "takeaway": "Kasus ini relevan karena menyangkut pengawasan arus komoditas bernilai tinggi yang berdampak pada penerimaan negara dari sektor perdagangan."
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "AcploF0V5eY",
+  "title": "Biaya Haji 2027, Tarif Penerbangan Belum Disepakati",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Pembahasan biaya haji tahun 2027 masih berjalan. Komponen tarif penerbangan menjadi salah satu poin yang hingga kini belum mencapai kesepakatan antara pemerintah dan pihak maskapai.",
+  "takeaway": "Negosiasi tarif penerbangan ini relevan bagi pembaca ekonomi karena menyangkut komponen biaya besar dalam anggaran haji sekaligus pola bisnis maskapai penerbangan.",
+  "terbit": "2026-09-25T16:19:07+00:00"
+ },
+ {
   "id": "mVVqaok4PG0",
   "title": "Tangsel Expo 2026 Jadi Etalase UMKM dan Ekonomi Kreatif",
   "category": "UMKM",

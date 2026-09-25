@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bi-teken-mou-sistem-pembayaran-dengan-timor-leste-di-fekdi-2026",
+  "category": "Moneter",
+  "title": "BI Teken MoU Sistem Pembayaran dengan [Timor-Leste] di FEKDI 2026",
+  "deck": "Bank Indonesia meneken nota kesepahaman sistem pembayaran dengan bank sentral Timor-Leste dan mengumumkan pemenang program talenta digital PIDI dalam ajang FEKDI x IFSE 2026 di Jakarta.",
+  "image": "assets/img/bi-teken-mou-sistem-pembayaran-dengan-timor-leste-di-fekdi-2026.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-25T17:07:11.942Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820126.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "FEKDI 2026",
+   "Timor-Leste",
+   "talenta digital"
+  ],
+  "body": [
+   "Bank Indonesia menandatangani nota kesepahaman dengan bank sentral Timor-Leste, Banco Central de Timor-Leste, di bidang sistem pembayaran dan inovasi keuangan digital. Penandatanganan berlangsung di sela ajang FEKDI x IFSE 2026 di Jakarta International Convention Center pada 25 September 2026, dan menjadi dasar awal untuk mengembangkan konektivitas pembayaran antara kedua negara.",
+   "Pada hari yang sama, Bank Indonesia bersama Kementerian Pendidikan Tinggi, Sains, dan Teknologi, Kementerian Ekonomi Kreatif, Asosiasi Sistem Pembayaran Indonesia, dan Asosiasi Pasar Uang dan Pasar Valuta Asing Indonesia menandatangani komitmen bersama bertajuk Talenta Digital untuk Indonesia Maju. Gubernur BI Destry Damayanti menyebut 68,94 persen penduduk Indonesia berada di usia produktif dan didominasi generasi milenial serta Gen Z, namun literasi digital dinilai belum mengimbangi tingginya penetrasi internet di kelompok itu.",
+   "Bank Indonesia juga menjalankan program Pusat Inovasi Digital Indonesia atau PIDI, yang terdiri dari tiga bagian: Hackathon untuk uji coba ide, DIGDAYA berupa pelatihan, sertifikasi, dan bursa kerja, serta SIGMA untuk mencocokkan inovasi dengan kebutuhan pasar. Dari program PIDI: DIGDAYA x Hackathon 2026, panitia menyaring finalis dari 2.094 proposal inovasi ekonomi dan keuangan digital, termasuk yang menyangkut manajemen risiko, dan pemenangnya sudah diumumkan meski rincian produk pemenang tidak disertakan dalam siaran ini.",
+   "Dalam sesi terpisah bertema Women and Talent, Destry mendorong agar perempuan dan generasi muda tidak sekadar menjadi pengguna teknologi, tetapi juga turut menciptakannya. Wakil Menteri Pendidikan Tinggi, Sains, dan Teknologi, Stella Christie, menambahkan bahwa pendidikan talenta digital perlu dibekali dengan daya pikir kritis dan kemampuan memecahkan masalah, bukan hanya keterampilan teknis, karena pekerjaan teknis berisiko makin banyak digantikan kecerdasan buatan."
+  ],
+  "fotoAdegan": "A vendor at a small outdoor market stall scanning a QR code payment app on a smartphone, natural daylight",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2820126/Cover-sp_2820126.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang konkret dari acara ini adalah nota kesepahaman Bank Indonesia dengan bank sentral Timor-Leste soal sistem pembayaran, semacam kesepakatan awal sebelum kedua negara bisa saling menghubungkan alat pembayaran seperti QRIS lintas batas yang sudah lebih dulu berjalan dengan Malaysia dan Thailand. Pihak yang berpotensi terdampak adalah pelaku usaha dan wisatawan yang bertransaksi antara Indonesia dan Timor-Leste, kalau kerja sama ini nanti benar diwujudkan menjadi layanan pembayaran yang bisa dipakai sehari-hari. Selain itu, dari 2.094 proposal yang ikut program hackathon BI, pemenangnya sudah diumumkan tapi siaran ini tidak menyebut produk atau nama peserta yang menang, sehingga belum jelas inovasi mana yang akan benar-benar dipakai industri. Yang masih perlu dipantau adalah apakah nota kesepahaman dengan Timor-Leste ini punya target waktu, sebab kesepakatan semacam ini biasanya butuh proses teknis bertahun sebelum benar-benar bisa dipakai masyarakat di lapangan.",
+  "imageV": "muh80nw1"
+ },
+ {
   "slug": "spbu-pertama-khusus-petani-diresmikan-di-merauke",
   "category": "Energi",
   "title": "SPBU [Pertama] Khusus Petani Diresmikan di Merauke",

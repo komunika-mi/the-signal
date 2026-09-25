@@ -2,6 +2,88 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-09-25",
+  "tanggalLabel": "Jumat, 25 September 2026",
+  "judul": "Tambang Pulih, WIKA Default, Kendali Emiten Berpindah Tangan",
+  "ringkas": "Kinerja emiten tambang membaik di tengah gagal bayar sukuk WIKA yang makin dalam dan gelombang perpindahan kendali lewat tender offer di berbagai sektor mewarnai perdagangan Jumat, 25 September 2026, saat IHSG melemah 0,90 persen dan rupiah tertekan ke Rp17.912 per dolar AS.",
+  "benang": [
+   {
+    "judul": "Sektor Tambang Pulih, Dibiayai Ekspansi Utang",
+    "isi": "Kinerja emiten tambang menunjukkan pemulihan pada semester I dan awal semester II 2026. Laba bersih Merdeka Copper Gold melonjak 26 kali menjadi US$214,8 juta, sementara laba bersih Merdeka Battery Materials naik ke US$149,4 juta dengan pendapatan tembus US$1,05 miliar. Bayan Resources melaporkan tiga anak usahanya kembali beroperasi normal setelah RKAB disetujui pemerintah pada 23 September, mengakhiri periode force majeure. Pemulihan operasional ini turut tecermin pada penerimaan pajak Kalimantan Selatan yang tumbuh 29,72 persen menjadi Rp8,57 triliun, dengan sektor tambang menyumbang hampir seperempat dari total dan PPN dalam negeri melonjak 246,41 persen. Di balik laba yang membaik, liabilitas MDKA dan MBMA juga naik masing-masing 21,1 persen dan 27,9 persen untuk membiayai ekspansi, sehingga arahnya cukup jelas menuju fase ekspansi dibiayai utang setelah gangguan izin produksi awal tahun teratasi. Yang akan menegaskan arah ini adalah laporan keuangan kuartal III 2026, apakah kenaikan pendapatan tetap mengungguli beban bunga dari utang baru."
+   },
+   {
+    "judul": "WIKA Default, Status Bursa Justru Membaik",
+    "isi": "Tekanan gagal bayar di tubuh BUMN Karya, yang menjadi benang utama edisi kemarin, berlanjut dengan eskalasi baru. PEFINDO resmi menurunkan peringkat dua seri Sukuk Mudharabah WIKA senilai Rp316 miliar dari idCCC(sy) menjadi idD(sy), status gagal bayar, menyusul tertundanya pembayaran bagi hasil yang jatuh tempo 18 September 2026. Bersamaan dengan itu, Bursa Efek Indonesia mencabut status pemantauan khusus dari 92 saham termasuk WSKT dan WIKA mulai 28 September, namun perubahan ini eksplisit disebabkan revisi kriteria Peraturan Bursa I-X, bukan perbaikan kinerja keuangan emiten. Dengan kata lain, status administratif WIKA di bursa membaik pada saat yang sama peringkat utangnya justru turun ke level default, dua sinyal yang bergerak berlawanan arah. Yang akan menentukan apakah tekanan ini mereda atau meluas adalah kemampuan WIKA melunasi atau merestrukturisasi bagi hasil sukuk yang tertunda dalam masa tenggang mendatang."
+   },
+   {
+    "judul": "Kendali Emiten Berpindah lewat Tender Offer",
+    "isi": "Beberapa emiten lintas sektor tengah mengalami perpindahan kendali lewat tender offer atau rights issue ke investor strategis. Protelindo memperpanjang tender sukarela saham menara SUPR hingga 21 Oktober setelah 74,6 persen saham publik berpartisipasi, menyisakan 25 persen saham publik yang belum terserap. Digital Edge asal Hong Kong baru menyerap 4,8 persen atau 7,71 juta dari 159,6 juta saham publik Indointernet (EDGE) sejak Agustus. Ultrajaya (ULTJ) merinci jadwal rights issue yang akan mengalihkan kendali perusahaan ke FrieslandCampina, sementara rights issue Energi Mega Persada senilai Rp4,12 triliun dijamin penuh oleh Bakrie Kalila Investment dan Bakrie Capital Indonesia sebagai pembeli siaga, memperkuat kendali kelompok Bakrie. Pola serupa muncul di TRUK, tempat PT Pukul Rata Kanan menawar tender Rp740 per saham untuk mengincar kendali 30 persen. Arahnya cukup jelas menuju konsolidasi kepemilikan oleh investor strategis di berbagai sektor, dari menara telekomunikasi, data center, susu, migas, hingga logistik, dan yang akan menegaskan kecepatannya adalah hasil akhir masa tender SUPR pada 21 Oktober."
+   }
+  ],
+  "penutup": "Yang paling menentukan besok adalah apakah WIKA merespons status gagal bayar sukuknya dengan langkah restrukturisasi konkret, karena itu akan jadi penanda apakah tekanan di BUMN Karya mereda atau merembet ke instrumen utang lain.",
+  "jumlahBahan": 57,
+  "bahanSlug": [
+   "bi-teken-mou-sistem-pembayaran-dengan-timor-leste-di-fekdi-2026",
+   "spbu-pertama-khusus-petani-diresmikan-di-merauke",
+   "ahap-right-issue-rp175-miliar-dilusi-maksimum-41-67",
+   "wika-pefindo-turunkan-peringkat-sukuk-ke-level-default",
+   "isat-bukukan-untung-rp1-64-t-dari-dekonsolidasi-serat-optik",
+   "nine-dirikan-anak-usaha-holding-modal-rp1-miliar",
+   "bei-cabut-status-pemantauan-khusus-92-saham-wskt-wika-ikut",
+   "bei-revisi-kriteria-pemantauan-khusus-untuk-45-saham",
+   "cdia-jawab-bursa-laba-anjlok-75-dana-ipo-baru-78-laba",
+   "kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok",
+   "kkp-tunjuk-agrinas-kelola-1-269-kampung-nelayan-merah-putih",
+   "penerimaan-pajak-kalsel-tumbuh-29-72-persen-ke-rp8-57-t",
+   "kemendag-lepas-ekspor-arang-kelapa-1-560-ton-ke-china",
+   "byan-rkab-disetujui-akuisisi-30-saham-dijelaskan",
+   "sanf-rampungkan-realisasi-dana-obligasi-rp1-2-triliun",
+   "mdka-jawab-bursa-harga-dan-investor-pmthmetd-iv-belum-jelas",
+   "bbkp-rilis-obligasi-subordinasi-rp500-miliar-bunga-9-3",
+   "mknt-gelar-public-expose-insidentil-usai-pmthmetd-9-oktober",
+   "aspi-gelar-public-expose-insidentil-usai-diminta-bursa",
+   "tufi-lunasi-obligasi-rp804-miliar-jatuh-tempo-27-september",
+   "fifa-catatkan-obligasi-tahap-iv-rp2-5-triliun-di-bei",
+   "menkomdigi-kunjungi-telin-di-as-dorong-ekosistem-digital-global",
+   "prda-buyback-saham-naik-ke-1-44-per-25-september",
+   "laba-mdka-melonjak-26-kali-liabilitas-naik-21",
+   "inps-suntik-modal-rp125-m-kepemilikan-gigp-ke-88-32",
+   "supr-vto-protelindo-tersisa-25-saham-publik-jelang-tenggat",
+   "mknt-konsolidasi-cbs-rum-ekuitas-negatif-rp13-6-miliar",
+   "sraj-suntik-modal-rp37-9-miliar-ke-anak-usaha-rs",
+   "sraj-catatkan-tambahan-modal-disetor-rp23-1-m-ke-anak-usaha-sas",
+   "mbma-laba-melonjak-utang-naik-27-9-semester-i-2026",
+   "sraj-suntik-modal-rp21-7-m-ke-anak-usaha-aik",
+   "sraj-setor-modal-rp178-9-m-ke-kks-terbesar-dalam-sepekan",
+   "sraj-suntik-modal-rp3-93-m-ke-aib-terkecil-sepekan",
+   "ultj-rinci-jadwal-pmhmetd-kendali-beralih-ke-frieslandcampina",
+   "smar-siapkan-rp958-miliar-untuk-pelunasan-obligasi-jatuh-tempo",
+   "telkom-gandeng-danantara-perkuat-keuangan-digital-ri",
+   "mpxl-tak-ada-informasi-material-di-balik-volatilitas-saham",
+   "bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha",
+   "hrum-siapkan-buyback-rp120-miliar-saham-hingga-24-desember",
+   "bank-mandiri-dan-visa-dukung-hybrid-race-jakarta-2026",
+   "bike-publex-insidentil-akuisisi-tambang-masih-buram",
+   "tgra-rilis-rencana-pemulihan-suspensi-via-private-placement",
+   "asii-direksi-thomas-alim-beli-250-000-saham-baru",
+   "bi-94-9-persen-pemda-sudah-digital-transaksi-keuangan",
+   "swat-raih-opini-wdp-total-aset-susut-jadi-rp394-m",
+   "enrg-right-issue-rp4-1-triliun-bakrie-grup-perkuat-kendali-dilusi",
+   "tebe-gelar-paparan-publik-insidentil-usai-diminta-bursa",
+   "emmi-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+   "putrasakti-mandiri-jual-1-juta-saham-kdtn-restrukturisasi-grup",
+   "arii-jawab-permintaan-bursa-soal-volatilitas-saham",
+   "raam-direksi-tambah-saham-senilai-rp160-juta",
+   "penebusan-pupuk-subsidi-tembus-69-dari-alokasi-2026",
+   "truk-prk-tawar-tender-sukarela-rp740-incar-kendali-30",
+   "harga-emas-antam-turun-ke-rp2-590-000-per-gram",
+   "dr-rhb-sekuritas-setop-market-making-waran-kendala-teknis",
+   "edge-tender-sukarela-digital-edge-baru-serap-4-8-saham-publik",
+   "epac-ajukan-buyback-rp20-m-dan-rights-issue-2-miliar-saham-ke-rupslb"
+  ],
+  "dibuat": "2026-09-25T18:48:40.704Z"
+ },
+ {
   "tanggal": "2026-09-24",
   "tanggalLabel": "Kamis, 24 September 2026",
   "judul": "Gagal Bayar BUMN Karya Meluas, Rupiah dan Saham Ikut Tertekan",
@@ -2086,28 +2168,5 @@ var HARIAN_ARSIP = [
    "label": "18 Agustus 2026",
    "teks": "Versi awal edisi ini menulis pemerintah menargetkan penutupan 750 BUMN lagi hingga tersisa maksimal 300 pada akhir 2026. Kedua angka itu tidak bisa benar bersamaan. Angka 750 adalah jumlah penutupan secara keseluruhan dari 1.074 BUMN, dan karena 290 sudah selesai, sisanya sekitar 484. Kalimatnya sudah diperbaiki."
   }
- },
- {
-  "tanggal": "2026-08-13",
-  "tanggalLabel": "Kamis, 13 Agustus 2026",
-  "judul": "Subsidi Bergeser ke UMKM, Rupiah Tertekan Sentimen MSCI",
-  "ringkas": "Kebijakan hari ini menunjukkan subsidi BBM mulai menyasar kelompok mampu sementara pembiayaan formal meluas ke usaha kecil dan mikro. Di sisi lain, rupiah dan komposisi indeks saham bergejolak akibat penyesuaian MSCI, bukan perubahan data ekonomi domestik.",
-  "benang": [
-   {
-    "judul": "Subsidi BBM Menyempit ke Atas, Pembiayaan ke UMKM",
-    "isi": "Purbaya memastikan kelompok desil 9 dan 10, yaitu rumah tangga dengan pengeluaran tertinggi, akan diarahkan bertahap membeli BBM non-subsidi, sementara harga Pertalite untuk kelompok lain tetap sama. Bersamaan dengan itu, penyaluran KUR BRI mencapai Rp103,81 triliun kepada 2 juta debitur hingga Juni 2026, dengan 42,68 persen mengalir ke sektor pertanian dan 32,34 persen ke perdagangan. PNM juga menetapkan bunga 8 persen untuk program Mekaar yang menyasar usaha ultra mikro, terutama perempuan pengusaha akar rumput. Ketiga langkah ini bergerak ke arah yang sama, dukungan pembiayaan formal makin terkonsentrasi ke usaha kecil dan menengah, sementara subsidi energi berangsur ditarik dari kelompok mampu. Uji coba pembatasan Pertalite dan realisasi KUR pada semester kedua 2026 akan jadi penanda apakah pola ini berlanjut."
-   },
-   {
-    "judul": "Rupiah Tertekan Sentimen MSCI, Bukan Data Domestik",
-    "isi": "Rupiah melemah tipis 8 poin ke Rp17.885 per dolar AS, melanjutkan pelemahan 52 poin sehari sebelumnya, dipicu sentimen laporan MSCI. Padahal data penjualan ritel Juni justru membaik, penurunannya melandai dari 3,9 persen menjadi 3,0 persen dibanding tahun lalu. Pemicunya kemungkinan besar adalah keputusan MSCI mengeluarkan CPIN dan GOTO dari indeks utama tanpa saham pengganti mulai 1 September 2026, sehingga jumlah wakil Indonesia di indeks itu menyusut dari sebelas menjadi sembilan saham. Pola ini mengarah pada tekanan yang sifatnya teknis, terkait penyesuaian indeks, bukan cerminan pelemahan fundamental ekonomi domestik. Pergerakan rupiah menjelang dan sesudah rebalancing itu efektif pada 1 September akan jadi penanda apakah tekanan ini mereda atau berlanjut."
-   },
-   {
-    "judul": "Harga Acuan Energi Melandai dari Puncak Tinggi",
-    "isi": "Harga batu bara acuan turun 5,62 persen dalam dua pekan menjadi US$124,44 per ton pada periode pertama Agustus, sementara ICP Juli turun US$1,77 menjadi US$81,68 per barel seiring pulihnya pasokan minyak dunia sebesar 4,1 juta barel per hari pada Juni 2026. Kedua acuan ini langsung menentukan besaran royalti dan penerimaan negara dari sektor migas dan tambang, yang sepanjang 2025 melampaui target dengan PNBP ESDM mencapai Rp138,40 triliun atau 108,56 persen dari target. Ada dua kemungkinan arah dari sini. Yang lebih mungkin berdasarkan data saat ini adalah penerimaan tetap relatif terjaga dalam waktu dekat, karena HBA masih 21 persen lebih tinggi dibanding tahun lalu meski turun dari periode sebelumnya. Skenario sebaliknya, tekanan berlanjut jika pasokan global terus pulih dan menyeret ICP maupun HBA lebih rendah lagi, yang akan langsung menggerus dasar perhitungan royalti, dan pembedanya adalah arah HBA periode kedua Agustus serta ICP Agustus, yang masing-masing akan diketahui dari rilis Kementerian ESDM akhir Agustus dan awal September 2026."
-   }
-  ],
-  "penutup": "Yang paling menentukan besok adalah apakah rupiah mulai melandai setelah efek sentimen MSCI mereda, karena itu akan menunjukkan apakah tekanan hari ini benar bersifat sementara.",
-  "jumlahBahan": 19,
-  "dibuat": "2026-08-14T03:32:00.345Z"
  }
 ];

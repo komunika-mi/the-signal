@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-25T01:33:46.389+07:00",
+ "diperbarui": "2026-09-26T01:49:50.007+07:00",
  "entri": [
+  {
+   "id": "2026-09-25-3",
+   "edisi": "2026-09-25",
+   "benang": "Kendali Emiten Berpindah lewat Tender Offer",
+   "klaim": "Arahnya menuju konsolidasi kepemilikan oleh investor strategis di berbagai sektor, dari menara telekomunikasi, data center, susu, migas, hingga logistik.",
+   "penanda": "Hasil akhir masa tender sukarela saham SUPR",
+   "tenggat": "2026-10-21",
+   "tenggatLabel": "masa tender SUPR pada 21 Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-25-2",
+   "edisi": "2026-09-25",
+   "benang": "WIKA Default, Status Bursa Justru Membaik",
+   "klaim": "Status administratif WIKA di bursa membaik pada saat yang sama peringkat utangnya justru turun ke level default, dua sinyal yang bergerak berlawanan arah.",
+   "penanda": "Kemampuan WIKA melunasi atau merestrukturisasi bagi hasil sukuk yang tertunda dalam masa tenggang mendatang",
+   "tenggat": null,
+   "tenggatLabel": "masa tenggang mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-25-1",
+   "edisi": "2026-09-25",
+   "benang": "Sektor Tambang Pulih, Dibiayai Ekspansi Utang",
+   "klaim": "Sektor tambang bergerak menuju fase ekspansi yang dibiayai utang setelah gangguan izin produksi awal tahun teratasi, tecermin dari laba MDKA dan MBMA yang membaik bersamaan dengan liabilitas keduanya yang naik masing-masing 21,1 persen dan 27,9 persen untuk membiayai ekspansi.",
+   "penanda": "Laporan keuangan kuartal III 2026, khususnya apakah kenaikan pendapatan tetap mengungguli beban bunga dari utang baru",
+   "tenggat": null,
+   "tenggatLabel": "laporan keuangan kuartal III 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-24-3",
    "edisi": "2026-09-24",

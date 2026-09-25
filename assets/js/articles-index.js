@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "fifa-catatkan-obligasi-tahap-iv-rp2-5-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "FIFA catatkan obligasi tahap IV [Rp2,5 triliun] di BEI",
+  "deck": "BEI mencatatkan Obligasi Berkelanjutan VII Tahap IV FIFA senilai Rp2,5 triliun mulai 28 September 2026, terdiri dari dua seri berbunga 7,15% dan 7,40%.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FIFA",
+   "obligasi korporasi",
+   "BEI",
+   "pembiayaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67ca2622c2_8e472fea32.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-buyback-saham-naik-ke-1-44-per-25-september",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Buyback Saham Naik ke [1,44%] per 25 September",
+  "deck": "Prodia melaporkan total pembelian kembali saham mencapai 13,64 juta lembar atau 1,44 persen dari saham beredar per 25 September 2026, dengan sisa dana buyback Rp112,65 miliar.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3a7039e412_903ccd8ba5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-mdka-melonjak-26-kali-liabilitas-naik-21",
+  "category": "Aksi Korporasi",
+  "title": "Laba MDKA [Melonjak] 26 Kali, Liabilitas Naik 21%",
+  "deck": "Laba bersih Merdeka Copper Gold naik tajam ke US$214,8 juta pada semester I 2026, sementara liabilitas naik 21,1% menjadi US$3,37 miliar untuk mendanai ekspansi usaha.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKA",
+   "laporan keuangan",
+   "Merdeka Copper Gold",
+   "liabilitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925174148-64326-0/FinancialStatement-2026-II-MDKA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-suntik-modal-rp125-m-kepemilikan-gigp-ke-88-32",
+  "category": "Aksi Korporasi",
+  "title": "INPS Suntik Modal Rp125 M, Kepemilikan GIGP ke [88,32%]",
+  "deck": "Pengendali INPS menyuntik Rp125 miliar lewat private placement untuk menutup ekuitas negatif; kepemilikannya naik ke 88,32 persen, porsi publik turun ke 8,25 persen.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "private placement",
+   "RUPSLB",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a2d7eb6707_5f7774ae03.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "supr-vto-protelindo-tersisa-25-saham-publik-jelang-tenggat",
+  "category": "Aksi Korporasi",
+  "title": "SUPR: [VTO] Protelindo Tersisa 25% Saham Publik Jelang Tenggat",
+  "deck": "Protelindo memperpanjang tender sukarela saham SUPR hingga 21 Oktober 2026, periode terakhir yang diizinkan regulasi, setelah 74,6 persen saham publik ikut berpartisipasi.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUPR",
+   "tender offer",
+   "Protelindo",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5373a3a6c5_3b6beffe41.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-konsolidasi-cbs-rum-ekuitas-negatif-rp13-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Konsolidasi CBS-RUM, Ekuitas [Negatif] Rp13,6 Miliar",
+  "deck": "Laporan keuangan interim MKNT menunjukkan aset melonjak ke Rp1,45 triliun usai konsolidasi dua anak usaha baru, namun ekuitas perusahaan tetap negatif dan rugi bersih melebar jadi Rp4,14 miliar.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925172803-64366-0/FinancialStatement-2026-II-MKNT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sraj-suntik-modal-rp37-9-miliar-ke-anak-usaha-rs",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ [Suntik] Modal Rp37,9 Miliar ke Anak Usaha RS",
+  "deck": "SRAJ memperkuat permodalan anak usaha PT Anugrahsukses Utama Sejahtera senilai Rp37,9 miliar, setara 3,47 persen dari ekuitas perusahaan.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRAJ",
+   "transaksi afiliasi",
+   "rumah sakit",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83a1e99223_ff527c00f6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sraj-catatkan-tambahan-modal-disetor-rp23-1-m-ke-anak-usaha-sas",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ Catatkan Tambahan Modal Disetor Rp23,1 M ke Anak Usaha [SAS]",
+  "deck": "SRAJ mencatatkan setoran modal dimuka Rp23,1 miliar sebagai modal disetor resmi di anak usaha PT Sejahtera Abadi Solusi, memperkuat struktur permodalan unit rumah sakit itu.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRAJ",
+   "transaksi afiliasi",
+   "Mayapada Hospital",
+   "rumah sakit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ddeeb4d303_d96cec8c7b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbma-laba-melonjak-utang-naik-27-9-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "MBMA Laba Melonjak, [Utang] Naik 27,9% Semester I 2026",
+  "deck": "Pendapatan MBMA naik ke US$1,05 miliar dan laba bersih melonjak ke US$149,4 juta pada semester I 2026, sementara utang naik 27,9 persen menjadi US$1,77 miliar.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBMA",
+   "laporan keuangan interim",
+   "utang korporasi",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925172135-64391-0/FinancialStatement-2026-II-MBMA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sraj-suntik-modal-rp21-7-m-ke-anak-usaha-aik",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ [Suntik] Modal Rp21,7 M ke Anak Usaha AIK",
+  "deck": "SRAJ menambah modal ditempatkan dan disetor anak usahanya, PT Anugrah Inti Karya, sebesar Rp21,7 miliar, setara 1,99 persen dari ekuitas perusahaan per Juni 2026.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRAJ",
+   "transaksi afiliasi",
+   "penambahan modal",
+   "Anugrah Inti Karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5fbcb3a451_d8c86130b4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sraj-setor-modal-rp178-9-m-ke-kks-terbesar-dalam-sepekan",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ Setor Modal Rp178,9 M ke [KKS], Terbesar dalam Sepekan",
+  "deck": "SRAJ menambah modal disetor Rp178,95 miliar ke anak usaha KKS, setara 16,4 persen ekuitas Perseroan, transaksi afiliasi terbesar dalam rangkaian laporan sepekan terakhir.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRAJ",
+   "transaksi afiliasi",
+   "rumah sakit",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d340fa5331_0fa3fb7f03.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",
   "category": "Aksi Korporasi",
   "title": "BIKE Publex Insidentil, [Akuisisi] Tambang Masih Buram",
@@ -6328,188 +6504,6 @@ var ARTICLES = [
    "Adira Finance"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d50ad3c095_465fde6f47.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asdf-catatkan-obligasi-rp2-55-triliun-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "ASDF Catatkan [Obligasi] Rp2,55 Triliun di BEI",
-  "deck": "ASDF mencatatkan obligasi Rp2,55 triliun di BEI mulai 21 September 2026, terbagi dua seri dengan bunga tetap 7,15% dan 7,40%.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASDF",
-   "obligasi korporasi",
-   "Astra Sedaya Finance",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aa9ec73742_16dfece44f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jmas-koreksi-laporan-kuartal-iii-laba-naik-ke-rp5-39-miliar",
-  "category": "Aksi Korporasi",
-  "title": "JMAS koreksi laporan kuartal III, [laba] naik ke Rp5,39 miliar",
-  "deck": "Laporan keuangan kuartal III 2025 yang dikoreksi menunjukkan aset JMAS naik 39,2 persen dan liabilitas naik 46,4 persen, sementara laba bersih naik hampir dua kali lipat jadi Rp5,39 miliar.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JMAS",
-   "laporan keuangan",
-   "asuransi syariah",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2de71b14f8_5206cae45d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "koci-catat-konversi-20-975-saham-baru-dari-waran-seri-i",
-  "category": "Aksi Korporasi",
-  "title": "KOCI Catat [Konversi] 20.975 Saham Baru dari Waran Seri I",
-  "deck": "Bursa mencatatkan tambahan 20.975 saham baru PT Kokoh Exa Nusantara hasil exercise waran seri I, menambah total saham beredar menjadi 4,46 miliar lembar.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOCI",
-   "waran",
-   "pencatatan saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b061b2100b_e061b27afd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmri-kepemilikan-direksi-tak-berubah-usai-transaksi-repo",
-  "category": "Aksi Korporasi",
-  "title": "BMRI: Kepemilikan Direksi Tak Berubah usai Transaksi [Repo]",
-  "deck": "Direksi Bank Mandiri melaporkan transaksi perjanjian jual beli kembali atas 477.752 saham pada 31 Agustus 2026, namun kepemilikannya tetap di 21.036 lembar setara 1 persen hak suara.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMRI",
-   "Bank Mandiri",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-9305-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "chek-rampungkan-buyback-80-juta-saham-rp11-99-m",
-  "category": "Aksi Korporasi",
-  "title": "CHEK Rampungkan [Buyback] 80 Juta Saham Rp11,99 M",
-  "deck": "PT Diastika Biotekindo Tbk (CHEK) menutup program pembelian kembali saham senilai Rp11,99 miliar, menyerap 80 juta lembar saham atau 1,94 persen dari saham tercatat di BEI.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CHEK",
-   "buyback saham",
-   "Diastika Biotekindo",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93cd12fd23_f3104eb818.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cirebon-bangun-ulang-pelabuhan-ikan-senilai-rp459-miliar",
-  "category": "Industri",
-  "title": "Cirebon Bangun Ulang Pelabuhan Ikan Senilai [Rp459] Miliar",
-  "deck": "KKP memulai pembangunan Pelabuhan Kejawanan di Cirebon dengan dukungan pembiayaan Islamic Development Bank, menyasar kapasitas dan produksi ikan yang jauh lebih besar dalam dua tahun.",
-  "date": "18 September 2026",
-  "image": "assets/img/cirebon-bangun-ulang-pelabuhan-ikan-senilai-rp459-miliar.jpg",
-  "imageV": "mu6v4c1s",
-  "tags": [
-   "Pelabuhan Perikanan",
-   "Cirebon",
-   "IsDB",
-   "KKP"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-kembangkan-ppn-kejawanan-jadi-bertaraf-internasional-targetkan-serap-8000-tenaga-kerja-beri-akses-khusus-nelayan-kecil-5RDK.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "kkp-mulai-bangun-pelabuhan-ikan-modern-di-cirebon",
-  "category": "Industri",
-  "title": "KKP Mulai Bangun Pelabuhan Ikan [Modern] di Cirebon",
-  "deck": "KKP memulai pembangunan pelabuhan ikan modern di Kejawanan, Cirebon, dengan target kapasitas kapal dan hasil tangkapan naik signifikan.",
-  "date": "18 September 2026",
-  "image": "assets/img/kkp-mulai-bangun-pelabuhan-ikan-modern-di-cirebon.jpg",
-  "imageV": "mu6v4giv",
-  "tags": [
-   "KKP",
-   "pelabuhan perikanan",
-   "Cirebon",
-   "PPN Kejawanan"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-modernisasi-pelabuhan-perikanan-ppn-kejawanan-jadi-langkah-awal-6BEV.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "pefindo-pangkas-peringkat-adhi-ke-default-usai-gagal-bayar-kupon",
-  "category": "Aksi Korporasi",
-  "title": "PEFINDO Pangkas Peringkat ADHI ke [Default] Usai Gagal Bayar Kupon",
-  "deck": "PEFINDO menurunkan peringkat PT Adhi Karya menjadi idSD (Selective Default) setelah emiten gagal melunasi kupon dua seri obligasi senilai total Rp2,46 triliun.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "obligasi",
-   "gagal bayar",
-   "PEFINDO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7bbcd09cd6_40aee85da2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemendag-andalkan-25-perjanjian-dagang-buat-tarik-investasi-ekspor",
-  "category": "Bisnis",
-  "title": "Kemendag Andalkan [25] Perjanjian Dagang buat Tarik Investasi Ekspor",
-  "deck": "Kemendag membuka forum ATTEC dan mengaitkan 25 perjanjian dagang yang berjalan dengan upaya menarik investasi berorientasi ekspor, termasuk lewat capaian UMKM BISA Ekspor.",
-  "date": "18 September 2026",
-  "image": "assets/img/kemendag-andalkan-25-perjanjian-dagang-buat-tarik-investasi-ekspor.jpg",
-  "imageV": "mu6v4jc9",
-  "tags": [
-   "Kemendag",
-   "Investasi Ekspor",
-   "UMKM",
-   "Perjanjian Dagang"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-attec-global-investment-forum-mendag-busan-dorong-investasi-berorientasi-ekspor",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "towr-direksi-lepas-90-8-saham-suara-ke-0-007",
-  "category": "Aksi Korporasi",
-  "title": "TOWR: Direksi [Lepas] 90,8% Saham, Suara ke 0,007%",
-  "deck": "Direksi TOWR Eko Santoso Hadiprodjo menjual 39,67 juta lembar saham senilai sekitar Rp17,34 miliar pada 16 September 2026, melepas 90,85 persen kepemilikannya untuk tujuan divestasi.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "divestasi saham",
-   "kepemilikan direksi",
-   "Sarana Menara Nusantara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-6867-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rgas-jelaskan-ke-bursa-piutang-berelasi-turun-98",
-  "category": "Aksi Korporasi",
-  "title": "RGAS Jelaskan ke Bursa, [Piutang] Berelasi Turun 98%",
-  "deck": "RGAS menjawab permintaan penjelasan BEI soal piutang usaha pihak berelasi yang turun Rp45,72 miliar dan piutang lain-lain yang naik Rp6,67 miliar pada semester I 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RGAS",
-   "piutang berelasi",
-   "laporan keuangan",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/099fe76bf8_2acc349ca8.pdf",
   "sourceLabel": "IDX"
  }
 ];

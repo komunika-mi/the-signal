@@ -3,6 +3,294 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "fifa-catatkan-obligasi-tahap-iv-rp2-5-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "FIFA catatkan obligasi tahap IV [Rp2,5 triliun] di BEI",
+  "deck": "BEI mencatatkan Obligasi Berkelanjutan VII Tahap IV FIFA senilai Rp2,5 triliun mulai 28 September 2026, terdiri dari dua seri berbunga 7,15% dan 7,40%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:56:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67ca2622c2_8e472fea32.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FIFA",
+  "tags": [
+   "FIFA",
+   "obligasi korporasi",
+   "BEI",
+   "pembiayaan"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mengumumkan pencatatan awal Obligasi Berkelanjutan VII Federal International Finance Dengan Tingkat Bunga Tetap Tahap IV Tahun 2026 milik emiten berkode FIFA, mulai 28 September 2026. Obligasi ini bernilai total Rp2,5 triliun dan terbagi menjadi dua seri, dengan wali amanat PT Bank Rakyat Indonesia (Persero) Tbk dan peringkat AAA(idn) alias Triple A dari Fitch Ratings Indonesia.",
+   "Seri A bernilai Rp1,41 triliun dengan bunga tetap 7,15 persen per tahun, berjangka waktu 370 hari kalender sejak tanggal emisi dan jatuh tempo pada 5 Oktober 2027. Seri B bernilai Rp1,09 triliun dengan bunga tetap 7,40 persen per tahun, berjangka waktu 36 bulan dan jatuh tempo pada 25 September 2029. Bunga kedua seri dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 25 Desember 2026, dan pokok utang dilunasi sekaligus saat jatuh tempo. Obligasi ini tidak dijamin dengan agunan khusus, melainkan dengan seluruh harta kekayaan perseroan, dan kedudukan pemegang obligasi setara tanpa hak didahulukan dibanding kreditur lain FIFA.",
+   "Penerbitan ini merupakan tahap keempat dari program Penawaran Umum Berkelanjutan VII yang menargetkan total dana Rp10 triliun. Sebelumnya FIFA sudah menerbitkan Tahap I senilai Rp500 miliar dan Tahap II senilai Rp2,5 triliun pada 2025, serta Tahap III senilai Rp2,5 triliun pada 2026, sehingga total dana yang terkumpul dari program ini mencapai Rp8 triliun. Penjaminan emisi dilakukan secara kesanggupan penuh oleh BRI Danareksa Sekuritas, BNI Sekuritas, CIMB Niaga Sekuritas Indonesia, Indo Premier Sekuritas, Mandiri Sekuritas, dan Trimegah Sekuritas. Per 30 Juni 2026, FIFA tercatat memiliki 266 kantor cabang dan 445 POS di berbagai wilayah Indonesia."
+  ],
+  "fotoAdegan": "Financing company branch counter with a staff member assisting a customer, motorbike keys and folders on the desk, daylight",
+  "takeaway": "Penerbitan obligasi tahap IV ini tergolong netral bagi FIFA karena jumlah dan jadwalnya memang sudah direncanakan sejak program payung senilai Rp10 triliun diluncurkan pada 2025, dan peringkat AAA(idn) dari Fitch menunjukkan kualitas kredit perseroan tetap terjaga meski utangnya bertambah. Pos yang tersentuh adalah utang dan beban bunga perseroan, sebab pokok Rp2,5 triliun ini menambah kewajiban bayar bunga tetap 7,15 persen untuk Seri A dan 7,40 persen untuk Seri B setiap tiga bulan, tapi di sisi lain dana ini juga jadi modal segar yang bisa disalurkan FIFA sebagai pembiayaan konsumen, sesuai model bisnis perusahaan multifinance yang memang bergantung pada penerbitan surat utang untuk membiayai penyaluran kreditnya. Yang perlu dipantau berikutnya adalah realisasi pencatatan di BEI pada 28 September 2026, pembayaran kupon pertama pada 25 Desember 2026, serta jatuh tempo Seri A pada 5 Oktober 2027 dan Seri B pada 25 September 2029. Dengan tahap IV ini, total dana yang sudah dihimpun dari program Rp10 triliun mencapai Rp8 triliun, menyisakan sekitar Rp2 triliun untuk tahap berikutnya yang juga layak diikuti perkembangannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "prda-buyback-saham-naik-ke-1-44-per-25-september",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Buyback Saham Naik ke [1,44%] per 25 September",
+  "deck": "Prodia melaporkan total pembelian kembali saham mencapai 13,64 juta lembar atau 1,44 persen dari saham beredar per 25 September 2026, dengan sisa dana buyback Rp112,65 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:27:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3a7039e412_903ccd8ba5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) melaporkan hasil pelaksanaan pembelian kembali (buyback) sahamnya kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia per 25 September 2026. Berdasarkan rekapitulasi 26 hari transaksi sejak 20 Agustus 2026, perseroan telah membeli kembali total 13.637.700 lembar saham, setara 1,44 persen dari total saham yang tercatat di BEI. Harga rata-rata pembelian bervariasi dari Rp2.474 hingga Rp2.843 per saham sepanjang periode tersebut, dengan transaksi terakhir pada 25 September 2026 sebanyak 368.200 lembar di harga rata-rata Rp2.826.",
+   "Volume harian terbesar dalam periode ini terjadi pada 7 September 2026, ketika Prodia membeli 2.616.500 lembar saham dengan harga rata-rata Rp2.795, setara 0,28 persen dari total saham tercatat dalam satu hari saja. Sisa dana yang dialokasikan untuk buyback juga terus menyusut, dari Rp148,48 miliar pada 20 Agustus 2026 menjadi Rp112,65 miliar pada 25 September 2026, yang berarti sekitar Rp35,83 miliar telah dibelanjakan sejak hari pertama pelaksanaan hingga laporan ini terbit.",
+   "Laporan ini merujuk pada keterbukaan informasi rencana buyback yang disampaikan Prodia pada 19 Agustus 2026 dan Pasal 12 ayat 1 Peraturan OJK Nomor 13 Tahun 2023 tentang Kebijakan dalam Menjaga Kinerja dan Stabilitas Pasar Modal pada Kondisi Pasar yang Berfluktuasi Signifikan, yang memungkinkan emiten membeli kembali sahamnya tanpa persetujuan RUPS terlebih dulu saat pasar bergejolak. Dibandingkan dengan laporan serupa per 18 September 2026 yang mencatat realisasi 11,74 juta lembar atau 1,24 persen saham beredar, angka pada laporan ini menunjukkan penambahan sekitar 1,9 juta lembar dalam sepekan terakhir. Laporan ditandatangani secara elektronik oleh Corporate Secretary Prodia, Marina Eka Amalia."
+  ],
+  "fotoAdegan": "Traders and analysts in business attire walking through a busy financial district plaza in Jakarta, glass towers, morning light",
+  "takeaway": "Laporan ini netral bagi Prodia, karena penambahan realisasi buyback dalam sepekan terakhir, dari 1,24 persen menjadi 1,44 persen saham beredar, masih tergolong kecil dan belum mengubah struktur kepemilikan secara berarti. Pos yang tersentuh adalah jumlah saham beredar, yang berkurang secara bertahap karena saham hasil buyback biasanya ditarik dari peredaran, sehingga berpotensi mengerek laba per saham karena laba nanti dibagi ke jumlah saham yang lebih sedikit; di sisi lain, kas perseroan berkurang senilai dana yang dipakai untuk membeli saham sendiri. Yang perlu dipantau berikutnya adalah apakah laju pembelian dipercepat pada laporan-laporan selanjutnya, mengingat sisa dana Rp112,65 miliar masih cukup besar dibanding yang sudah terpakai, serta bagaimana realisasi total begitu periode pembelian kembali dalam kondisi pasar fluktuatif ini berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "laba-mdka-melonjak-26-kali-liabilitas-naik-21",
+  "category": "Aksi Korporasi",
+  "title": "Laba MDKA [Melonjak] 26 Kali, Liabilitas Naik 21%",
+  "deck": "Laba bersih Merdeka Copper Gold naik tajam ke US$214,8 juta pada semester I 2026, sementara liabilitas naik 21,1% menjadi US$3,37 miliar untuk mendanai ekspansi usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:23:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925174148-64326-0/FinancialStatement-2026-II-MDKA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKA",
+  "tags": [
+   "MDKA",
+   "laporan keuangan",
+   "Merdeka Copper Gold",
+   "liabilitas"
+  ],
+  "body": [
+   "PT Merdeka Copper Gold Tbk (MDKA) menyampaikan laporan keuangan konsolidasian interim teraudit untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Bursa Efek Indonesia. Auditor KAP Tanubrata, Sutanto, Fahmi, Bambang dan Rekan, dengan partner penandatangan E. Wisnu Susilo Broto, memberikan opini wajar tanpa modifikasian atas laporan tersebut. Pendapatan perusahaan naik dari US$854,6 juta pada semester I 2025 menjadi US$1,4 miliar pada semester I 2026. Laba bersih periode berjalan melonjak dari US$8,3 juta menjadi US$214,8 juta, sedangkan laba yang menjadi hak pemegang saham entitas induk berbalik dari rugi US$15,8 juta menjadi laba US$101,6 juta, dan laba per saham dasar berubah dari rugi US$0,0006 menjadi laba US$0,0042 per saham.",
+   "Dalam surat terpisah bernomor 091/MDKA-JKT/CORSEC/IX/2026 tertanggal 24 September 2026, MDKA melaporkan kepada BEI bahwa total liabilitas per 30 Juni 2026 naik 21,10 persen menjadi US$3,37 miliar dari US$2,78 miliar pada akhir 2025, sesuai kewajiban pelaporan perubahan pos lebih dari 20 persen menurut Peraturan I-E. Kenaikan ini terutama berasal dari pinjaman dan fasilitas kredit bank yang bertambah US$292,5 juta, utang obligasi US$113,6 juta, instrumen keuangan derivatif US$112,1 juta, liabilitas sewa US$40,5 juta, dan sukuk US$23,7 juta. Perseroan menyatakan tambahan pinjaman ini digunakan untuk mendukung kegiatan operasional dan pengembangan usaha grup.",
+   "Dari sisi neraca, jumlah aset naik menjadi US$6,47 miliar dari US$5,71 miliar, dengan kas dan setara kas bertambah menjadi US$683,5 juta dari US$354,8 juta. Jumlah ekuitas naik menjadi US$3,1 miliar dari US$2,92 miliar. Rasio lancar turun dari 124,98 persen menjadi 111,05 persen, sementara ROA naik dari 0,3 persen menjadi 3,3 persen dan ROE naik dari 0,6 persen menjadi 6,9 persen. Sepanjang semester ini perseroan juga membagikan dividen tunai senilai US$16,9 juta kepada pemegang saham entitas induk dan US$23,9 juta kepada pemegang kepentingan non-pengendali."
+  ],
+  "fotoAdegan": "Heavy mining trucks hauling ore along a dusty road at a large open-pit copper and gold mine, eastern Indonesia.",
+  "takeaway": "Laporan ini condong positif bagi MDKA karena pendapatan naik dari US$854,6 juta menjadi US$1,4 miliar dan laba bersih melonjak dari US$8,3 juta menjadi US$214,8 juta, sementara kenaikan utang 21,1 persen yang menyertainya dijelaskan perseroan sebagai dana untuk ekspansi usaha, bukan sinyal kesulitan membayar kewajiban. Yang perlu dicermati adalah rasio lancar, yaitu perbandingan aset yang bisa dicairkan dalam setahun terhadap utang yang jatuh tempo dalam setahun, yang turun dari 124,98 persen menjadi 111,05 persen, artinya bantalan kas jangka pendek perseroan menipis meski masih di atas titik aman 100 persen. Beban bunga juga naik dari US$66,3 juta menjadi US$75,9 juta seiring tambahan pinjaman bank dan obligasi, pos yang akan terus menggerus laba jika pinjaman terus bertambah tanpa diimbangi pendapatan baru. Pemegang saham perlu memantau laporan kuartal III 2026 untuk melihat apakah tambahan pinjaman ini benar menghasilkan pendapatan baru atau justru membuat beban bunga naik lebih cepat dari pertumbuhan labanya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "inps-suntik-modal-rp125-m-kepemilikan-gigp-ke-88-32",
+  "category": "Aksi Korporasi",
+  "title": "INPS Suntik Modal Rp125 M, Kepemilikan GIGP ke [88,32%]",
+  "deck": "Pengendali INPS menyuntik Rp125 miliar lewat private placement untuk menutup ekuitas negatif; kepemilikannya naik ke 88,32 persen, porsi publik turun ke 8,25 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:20:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a2d7eb6707_5f7774ae03.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "private placement",
+   "RUPSLB",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) mengumumkan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (private placement) dalam rangka memperbaiki posisi keuangan. Berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, ekuitas perseroan negatif Rp42,83 miliar, modal kerja bersih negatif Rp26,94 miliar, dan rasio total liabilitas terhadap total aset mencapai 124,3 persen, jauh di atas ambang 80 persen yang menjadi syarat regulator bagi perusahaan untuk bisa menempuh skema penambahan modal jenis ini.",
+   "Perseroan berencana menerbitkan sebanyak-banyaknya 1,25 miliar saham baru dengan nilai nominal Rp100 per saham, setara 192,31 persen dari jumlah saham beredar saat ini. Seluruh saham baru akan diambil bagian secara tunai oleh PT Graha Inti Guna Persada (GIGP), pemegang saham pengendali, pada harga pelaksanaan Rp100 per saham, yang berada di atas indikasi nilai wajar Rp91,22 per saham menurut kajian Kantor Jasa Penilai Publik Ferdinand, Danar, Ichsan dan Rekan per 30 Juni 2026. Dana yang bisa terkumpul mencapai Rp125 miliar, dengan rincian penggunaan sekitar 79,2 persen atau Rp99 miliar untuk penyertaan modal ke entitas anak sebagai belanja modal, 16,8 persen atau Rp21 miliar untuk melunasi utang kepada pihak ketiga, yaitu Rp12,59 miliar kepada PT Era Prima Utama dan Rp8,50 miliar kepada pihak ketiga lain, serta 4 persen atau Rp5 miliar untuk modal kerja perseroan.",
+   "Aksi ini akan mengubah komposisi pemegang saham secara signifikan. Kepemilikan GIGP naik dari 65,86 persen (428.058.000 saham) menjadi 88,32 persen (1.678.058.000 saham), porsi Andry Hakim turun dari 10,02 persen menjadi 3,43 persen, dan porsi publik yang masing-masing memegang di bawah 5 persen tergerus dari 24,12 persen menjadi 8,25 persen. Total saham beredar perseroan akan melonjak dari 650 juta menjadi 1,9 miliar lembar. Manajemen memproyeksikan ekuitas berbalik positif menjadi sekitar Rp82,17 miliar, rasio liabilitas terhadap aset turun ke 72,7 persen, dan rasio lancar membaik dari 0,69 kali menjadi 2,12 kali.",
+   "Rencana ini akan dimintakan persetujuan pemegang saham dalam RUPSLB pada Selasa, 3 November 2026 pukul 14.00 WIB di Gedung Inprase, Jl. Sunter Garden Raya Blok D8 No. 3G-3H, Sunter Agung, Tanjung Priok, Jakarta Utara. Pemanggilan rapat dijadwalkan 12 Oktober 2026, dengan pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per 9 Oktober 2026. Jika disetujui, pelaksanaan private placement diperkirakan berlangsung awal Desember 2026."
+  ],
+  "fotoAdegan": "Rows of steel storage tanks and pipelines at an industrial fuel depot under an overcast sky, workers in safety gear walking between units",
+  "takeaway": "Laporan ini netral: dana segar Rp125 miliar dari pengendali memang menutup ekuitas negatif dan memperbaiki likuiditas perseroan, tapi porsi kepemilikan publik dan Andry Hakim terpangkas signifikan sehingga ini bukan kabar baik murni bagi pemegang saham yang tidak ikut serta. Tiga pos kinerja tersentuh: ekuitas, yaitu selisih antara aset dan utang perusahaan, diproyeksikan berbalik dari negatif Rp42,83 miliar menjadi positif sekitar Rp82,17 miliar; arus kas bertambah karena dana tunai yang masuk dipakai melunasi utang pihak ketiga dan menambah modal kerja; dan jumlah saham beredar melonjak dari 650 juta menjadi 1,9 miliar lembar, yang berarti setiap laba yang dihasilkan ke depan harus dibagi ke jumlah saham hampir tiga kali lipat lebih banyak. Yang perlu dipantau selanjutnya adalah persetujuan RUPSLB pada 3 November 2026 dan pemutakhiran data keuangan per 30 September 2026 yang akan disampaikan saat rapat itu, serta realisasi pelaksanaan private placement yang ditargetkan awal Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "supr-vto-protelindo-tersisa-25-saham-publik-jelang-tenggat",
+  "category": "Aksi Korporasi",
+  "title": "SUPR: [VTO] Protelindo Tersisa 25% Saham Publik Jelang Tenggat",
+  "deck": "Protelindo memperpanjang tender sukarela saham SUPR hingga 21 Oktober 2026, periode terakhir yang diizinkan regulasi, setelah 74,6 persen saham publik ikut berpartisipasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:14:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5373a3a6c5_3b6beffe41.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPR",
+  "tags": [
+   "SUPR",
+   "tender offer",
+   "Protelindo",
+   "delisting"
+  ],
+  "body": [
+   "Perusahaan menara telekomunikasi Solusi Tunas Pratama Tbk (SUPR) melaporkan bahwa PT Profesional Telekomunikasi Indonesia (Protelindo) resmi memperpanjang masa penawaran tender sukarela (VTO) atas saham-saham SUPR untuk kedua kalinya, dari semula berakhir 23 September 2026 menjadi 21 Oktober 2026. Perpanjangan ini sudah diumumkan lewat surat kabar Kontan dan Neraca serta situs web Protelindo, SUPR, dan Bursa Efek Indonesia pada 22 September 2026. Karena Pasal 17 POJK Nomor 54/2015 membatasi keseluruhan proses VTO paling lama 90 hari, perusahaan menegaskan periode ini adalah perpanjangan terakhir sebelum proses penawaran resmi ditutup.",
+   "Dalam laporan yang sama, disampaikan pula hasil sementara partisipasi pemegang saham publik. Dari total 621 pemegang saham publik yang menggenggam 980.044 saham SUPR, sebanyak 57 pemegang saham melepas 220.054 saham pada periode pertama VTO yang berlangsung 24 Juli sampai 24 Agustus 2026, dan 26 pemegang saham lain menambahkan 511.060 saham pada periode kedua, 25 Agustus sampai 23 September 2026. Dengan begitu, total saham yang sudah ditenderkan mencapai 731.114 lembar atau sekitar 74,6 persen dari seluruh saham publik, sementara 541 pemegang saham yang menguasai 248.930 saham, sekitar 25,4 persen sisanya, belum mengambil keputusan untuk ikut serta.",
+   "Corporate Secretary SUPR, Ardan R. Wiradhatama, menyatakan bahwa perpanjangan dan hasil sementara VTO ini tidak berdampak negatif material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Surat ini disampaikan untuk memenuhi ketentuan Pasal III.3.2.5 Peraturan BEI Nomor I-N tentang Pembatalan Pencatatan (Delisting) dan Pencatatan Kembali (Relisting)."
+  ],
+  "fotoAdegan": "Telecommunication towers standing on a hillside at dusk, a technician checking cables near the base of one tower.",
+  "takeaway": "Laporan ini netral bagi fundamental SUPR karena isinya hanya mencatat perpindahan kepemilikan saham dari investor publik ke Protelindo, bukan transaksi yang mengubah aset, pendapatan, atau utang perusahaan. Jumlah saham beredar SUPR sendiri tidak berubah karena ini bukan penerbitan saham baru, tapi pasar tetap mencermati proses ini karena porsi saham yang beredar di tangan publik, yang biasa disebut free float, ikut menyusut setiap kali investor menjual ke Protelindo, dan itu bisa membuat saham SUPR makin jarang diperdagangkan di bursa. Sampai pertengahan September, sekitar 74,6 persen dari total saham publik atau 731.114 lembar sudah ikut ditenderkan, menyisakan 248.930 lembar milik 541 pemegang saham yang belum memutuskan. Yang perlu dipantau adalah tenggat 21 Oktober 2026, sebab Protelindo menyebut ini sebagai periode perpanjangan terakhir sesuai batas maksimal 90 hari yang diatur POJK Nomor 54/2015, sehingga pemegang saham publik yang belum ikut tidak akan mendapat kesempatan tambahan setelah tanggal tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mknt-konsolidasi-cbs-rum-ekuitas-negatif-rp13-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Konsolidasi CBS-RUM, Ekuitas [Negatif] Rp13,6 Miliar",
+  "deck": "Laporan keuangan interim MKNT menunjukkan aset melonjak ke Rp1,45 triliun usai konsolidasi dua anak usaha baru, namun ekuitas perusahaan tetap negatif dan rugi bersih melebar jadi Rp4,14 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:09:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925172803-64366-0/FinancialStatement-2026-II-MKNT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk (MKNT) menyampaikan laporan keuangan konsolidasian interim untuk periode enam bulan yang berakhir 30 Juni 2026, yang telah diaudit oleh KAP Gideon Adi dan Rekan dengan opini wajar tanpa modifikasian. Auditor tetap menyelipkan paragraf penekanan mengenai evaluasi nilai realisasi bersih persediaan dan nilai tercatat aset tetap, serta mencatat tiga hal audit utama. Laporan ditandatangani Direktur Utama Jefri Junaedi pada 21 Agustus 2026.",
+   "Total aset MKNT melonjak jadi Rp1,45 triliun per 30 Juni 2026, dari Rp826,09 miliar pada akhir 2025, setelah perseroan resmi mengonsolidasikan dua anak usaha baru: PT Citra Baru Steel (CBS), pedagang baja di Serang dengan kepemilikan 99,99 persen dan aset Rp1,24 triliun, serta PT Radja Udang Malingping (RUM), usaha peternakan udang di Serang dengan kepemilikan 99,99 persen dan aset Rp160,1 miliar. Sebelumnya kedua investasi ini hanya tercatat sebagai uang muka penyertaan saham senilai Rp822,93 miliar dengan metode ekuitas. Sejak konsolidasi penuh berlaku, muncul pos-pos baru di neraca seperti kas Rp22,11 miliar (dari sebelumnya cuma Rp4,3 juta), persediaan Rp649,26 miliar, piutang usaha Rp107,19 miliar, dan goodwill Rp52,92 miliar dari selisih harga akuisisi kedua perusahaan.",
+   "Konsolidasi ini juga menambah beban di sisi liabilitas: utang bank jangka pendek Rp281,56 miliar dan utang usaha Rp152,15 miliar baru muncul, sehingga total liabilitas naik jadi Rp1,47 triliun dari Rp833,44 miliar. Karena kenaikan liabilitas lebih besar dari kenaikan aset, ekuitas perusahaan yang sudah negatif Rp7,35 miliar per akhir 2025 makin dalam menjadi negatif Rp13,66 miliar per 30 Juni 2026. Perseroan juga masih membukukan rugi bersih Rp4,14 miliar pada semester I 2026, melebar dari rugi Rp2,66 miliar pada periode sama tahun lalu, dengan rugi per saham naik dari Rp0,48 menjadi Rp0,75. Penjualan bersih memang melonjak jadi Rp75,88 miliar dari Rp1,15 miliar berkat kontribusi CBS dan RUM, tapi beban pokok penjualan dan beban lain ikut naik sehingga perusahaan tetap merugi."
+  ],
+  "fotoAdegan": "Warehouse workers stacking steel rebar bundles with a forklift nearby, overcast light through open bay doors",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham MKNT, karena meski pendapatan melonjak akibat konsolidasi dua anak usaha baru, ekuitas perusahaan justru makin negatif dan rugi bersih melebar, tanda bahwa akuisisi ini belum memperbaiki fondasi keuangan perseroan. Yang tersentuh adalah ekuitas dan rugi per saham: ekuitas negatif berarti total utang perusahaan sudah melebihi total asetnya, sehingga secara teknis kewajiban belum sepenuhnya tertutup oleh kekayaan yang dimiliki, sementara rugi per saham yang melebar dari Rp0,48 jadi Rp0,75 menunjukkan setiap lembar saham menanggung kerugian yang makin besar. MKNT saat ini juga masih berstatus saham pemantauan khusus di bursa, sehingga pelaku pasar perlu mencermati apakah pemegang saham pengendali baru akan menyuntikkan modal untuk menutup defisiensi ekuitas ini, dan bagaimana kinerja CBS serta RUM yang baru dikonsolidasi akan terlihat pada laporan kuartal berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sraj-suntik-modal-rp37-9-miliar-ke-anak-usaha-rs",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ [Suntik] Modal Rp37,9 Miliar ke Anak Usaha RS",
+  "deck": "SRAJ memperkuat permodalan anak usaha PT Anugrahsukses Utama Sejahtera senilai Rp37,9 miliar, setara 3,47 persen dari ekuitas perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:03:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83a1e99223_ff527c00f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRAJ",
+  "tags": [
+   "SRAJ",
+   "transaksi afiliasi",
+   "rumah sakit",
+   "penambahan modal"
+  ],
+  "body": [
+   "Sejahteraraya Anugrahjaya Tbk (SRAJ) melaporkan transaksi afiliasi berupa peningkatan modal dasar dan modal ditempatkan atau disetor pada anak usahanya, PT Anugrahsukses Utama Sejahtera (AUS), yang 99,97 persen sahamnya dikuasai SRAJ. Transaksi ini tercatat sebagai transaksi afiliasi karena hubungan kepemilikan tersebut, namun bukan transaksi material sebab nilai setoran modal Rp37,9 miliar hanya setara 3,47 persen dari ekuitas SRAJ per 30 Juni 2026 yang sebesar Rp1,091 triliun. Perusahaan menyebut tujuannya untuk mendukung pertumbuhan dan memperkuat struktur permodalan AUS.",
+   "Berdasarkan akta notaris Dini Herawati tertanggal 21 September 2026 yang telah disetujui Kementerian Hukum dan Hak Asasi Manusia pada 25 September 2026, modal dasar AUS naik dari Rp76 miliar menjadi Rp150 miliar, sementara modal ditempatkan dan disetor naik dari Rp30,5 miliar menjadi Rp68,4 miliar. Peningkatan ini dilakukan dengan mencatatkan setoran modal di muka yang sebelumnya sudah disetorkan SRAJ menjadi modal disetor resmi, sehingga tidak ada aliran kas baru yang keluar pada tanggal transaksi ini.",
+   "Pemegang saham minoritas AUS, Jonathan Tahir, melepaskan hak memesan efek terlebih dahulu atas saham baru tersebut sehingga seluruh saham baru diambil oleh SRAJ. Komposisi pemegang saham AUS setelah peningkatan modal menjadi SRAJ dengan 683.900 saham senilai Rp68,39 miliar dan Jonathan Tahir dengan 100 saham senilai Rp10 juta."
+  ],
+  "fotoAdegan": "Modern hospital corridor in Indonesia with medical staff walking past a reception desk, soft morning light",
+  "takeaway": "Laporan ini netral bagi kinerja SRAJ karena nilainya kecil, hanya 3,47 persen dari ekuitas perusahaan per akhir Juni 2026, dan sebagian besar dananya sudah lebih dulu mengalir ke AUS sebagai setoran di muka yang baru sekarang dicatatkan resmi sebagai modal disetor, bukan aliran kas segar. Yang tersentuh adalah pos ekuitas AUS, anak usaha di bidang rumah sakit yang 99,97 persen sahamnya dikuasai SRAJ, yang modal disetornya naik dari Rp30,5 miliar menjadi Rp68,4 miliar, sehingga bantalan modal anak usaha ini lebih tebal untuk menyerap risiko usaha tanpa perlu menambah utang. Kepemilikan Jonathan Tahir di AUS ikut terdilusi karena ia melepas haknya membeli saham baru, tapi porsinya di AUS memang sudah sangat kecil sehingga dampaknya tidak signifikan bagi struktur pengendalian. Yang perlu dipantau berikutnya adalah apakah SRAJ akan mengungkapkan rencana konkret penggunaan tambahan modal ini, misalnya untuk ekspansi kapasitas rumah sakit, karena dokumen ini belum menyebutkan proyek atau tenggat waktu tertentu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sraj-catatkan-tambahan-modal-disetor-rp23-1-m-ke-anak-usaha-sas",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ Catatkan Tambahan Modal Disetor Rp23,1 M ke Anak Usaha [SAS]",
+  "deck": "SRAJ mencatatkan setoran modal dimuka Rp23,1 miliar sebagai modal disetor resmi di anak usaha PT Sejahtera Abadi Solusi, memperkuat struktur permodalan unit rumah sakit itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:02:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ddeeb4d303_d96cec8c7b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRAJ",
+  "tags": [
+   "SRAJ",
+   "transaksi afiliasi",
+   "Mayapada Hospital",
+   "rumah sakit"
+  ],
+  "body": [
+   "Sejahteraraya Anugrahjaya Tbk (SRAJ), operator rumah sakit Mayapada, melaporkan kepada Bursa Efek Indonesia bahwa perusahaan meningkatkan modal ditempatkan dan disetor pada entitas anaknya, PT Sejahtera Abadi Solusi (SAS). Berdasarkan akta notaris tanggal 21 September 2026 yang disahkan Kementerian Hukum dan HAM pada 25 September 2026, SRAJ mencatatkan dana yang sebelumnya sudah disetor di muka sebagai setoran modal resmi senilai Rp23,1 miliar. Transaksi ini tergolong transaksi afiliasi karena SRAJ menguasai 99,99 persen saham SAS, tetapi perusahaan menegaskan ini bukan transaksi benturan kepentingan.",
+   "Dengan tambahan itu, modal ditempatkan dan disetor SAS naik dari Rp583,5 miliar menjadi Rp606,6 miliar. Seluruh saham baru itu diambil oleh SRAJ, sementara pemegang saham minoritas SAS, Jonathan Tahir, melepas hak memesan efek terlebih dahulunya atas penambahan modal ini. Setelah transaksi, SRAJ memegang 6.065.900 lembar saham SAS senilai Rp606,59 miliar, sedangkan Jonathan Tahir tetap memegang 100 lembar saham senilai Rp10 juta, sehingga porsi kepemilikan SRAJ di SAS praktis tidak berubah di kisaran 99,99 persen.",
+   "Perusahaan menyebut nilai setoran modal Rp23,1 miliar itu setara 2,12 persen dari ekuitas SRAJ per 30 Juni 2026 yang tercatat Rp1,091 triliun, sehingga transaksi ini tidak masuk kategori transaksi material yang mewajibkan persetujuan pemegang saham maupun penilai independen. SRAJ menyatakan tujuan transaksi adalah mendukung pertumbuhan dan memperkuat struktur permodalan SAS, serta menegaskan tidak ada informasi material lain yang belum diungkapkan terkait aksi korporasi ini."
+  ],
+  "fotoAdegan": "Nurses and staff walking through a modern private hospital corridor with soft natural daylight, Indonesia",
+  "takeaway": "Laporan ini netral bagi kinerja SRAJ karena sifatnya administratif, dana Rp23,1 miliar itu sebagian besar sudah lebih dulu mengalir ke SAS sebagai uang muka modal, jadi transaksi ini cuma memformalkan status akuntansinya, bukan aliran dana baru yang besar. Yang tersentuh adalah struktur permodalan anak usaha, yakni modal ditempatkan dan disetor, jumlah modal yang benar-benar sudah dibayar pemegang saham dan jadi basis riil permodalan perusahaan, sementara dampaknya ke ekuitas SRAJ sendiri sangat tipis karena hanya 2,12 persen dari total ekuitas induk. Yang perlu dipantau adalah apakah SRAJ kembali menambah modal ke SAS pada laporan keuangan kuartal berikutnya, mengingat pada hari yang sama perusahaan juga melaporkan suntikan modal senilai Rp37,9 miliar ke anak usaha rumah sakitnya, sehingga total dana yang mengalir ke unit usaha ini dalam periode singkat layak terus dicermati.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mbma-laba-melonjak-utang-naik-27-9-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "MBMA Laba Melonjak, [Utang] Naik 27,9% Semester I 2026",
+  "deck": "Pendapatan MBMA naik ke US$1,05 miliar dan laba bersih melonjak ke US$149,4 juta pada semester I 2026, sementara utang naik 27,9 persen menjadi US$1,77 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:01:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925172135-64391-0/FinancialStatement-2026-II-MBMA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBMA",
+  "tags": [
+   "MBMA",
+   "laporan keuangan interim",
+   "utang korporasi",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Merdeka Battery Materials Tbk (MBMA) menyampaikan laporan keuangan konsolidasian interim auditan untuk periode enam bulan yang berakhir 30 Juni 2026 kepada OJK dan Bursa Efek Indonesia. Pendapatan usaha naik dari US$627,7 juta pada semester I 2025 menjadi US$1,05 miliar, laba kotor melompat dari US$49,3 juta ke US$274,1 juta, dan laba usaha naik dari US$35,9 juta ke US$251,5 juta. Laba periode berjalan mencapai US$149,4 juta, naik lebih dari lima kali lipat dari US$28,5 juta setahun sebelumnya, dengan US$54,4 juta menjadi bagian pemilik entitas induk dan US$95,0 juta menjadi bagian kepentingan non-pengendali. Laba per saham dasar dan dilusian naik menjadi US$0,00050 dari US$0,00005. Auditor KAP Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan dengan partner Santanu Chandra memberikan opini wajar tanpa modifikasian, dengan pengakuan pendapatan sebagai hal audit utama.",
+   "Total aset perseroan naik dari US$3,735 miliar menjadi US$4,246 miliar, sedangkan total liabilitas naik 27,9 persen dari US$1,387 miliar menjadi US$1,774 miliar, melewati ambang batas 20 persen yang mewajibkan penjelasan ke bursa. Dalam surat penjelasan ke BEI tertanggal 24 September 2026 yang ditandatangani Presiden Direktur Teddy Nuryanto Oetomo, perseroan merinci tiga penyebab utama: pertama, utang obligasi naik dari US$612,0 juta menjadi US$811,8 juta akibat penerbitan Obligasi Berkelanjutan I Merdeka Battery Materials Tahap IV Tahun 2026, meski sebagian diimbangi pelunasan Obligasi III Seri A yang jatuh tempo April 2026. Kedua, pinjaman dan fasilitas kredit bank naik dari US$98,2 juta menjadi US$230,9 juta, berasal dari penarikan US$282,4 juta dan pembayaran pokok US$150 juta di bawah Perjanjian Fasilitas Berjangka dan Bergulir senilai US$250 juta. Ketiga, liabilitas derivatif naik dari US$22,0 juta menjadi US$86,6 juta akibat perubahan nilai wajar kontrak cross currency swap seiring pelemahan Rupiah terhadap dolar AS.",
+   "Di sisi ekuitas, bagian yang dapat diatribusikan kepada pemilik entitas induk naik dari US$1,584 miliar menjadi US$1,632 miliar, sementara jumlah ekuitas total termasuk kepentingan non-pengendali naik dari US$2,348 miliar menjadi US$2,472 miliar. Selama periode ini perseroan juga membeli kembali saham treasuri senilai US$16,5 juta dan membayar dividen US$23,85 juta kepada pemegang kepentingan non-pengendali di entitas anak. Kas dan setara kas lebih dari berlipat ganda menjadi US$483,4 juta dari US$192,6 juta pada akhir 2025."
+  ],
+  "fotoAdegan": "Industrial nickel smelter complex with tall steel structures and conveyor belts under a bright tropical sky in eastern Indonesia",
+  "takeaway": "Laporan ini condong positif bagi MBMA, sebab laba bersihnya melonjak lebih dari lima kali lipat menjadi US$149,4 juta sementara utang yang ikut naik 27,9 persen sebagian besar dipakai membiayai ekspansi usaha, bukan menambal kerugian. Pos yang tersentuh adalah beban bunga, yaitu ongkos yang harus dibayar perusahaan atas pinjaman dan obligasinya, yang naik dari US$7,5 juta menjadi US$30,1 juta karena tambahan utang tersebut, sehingga sebagian kenaikan laba ke depan bisa tergerus kalau beban ini terus membesar. Ekuitas, yakni total kekayaan bersih milik pemegang saham, tetap naik ke US$2,47 miliar meski perseroan membeli kembali sahamnya sendiri senilai US$16,5 juta pada periode ini. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, khususnya apakah nilai liabilitas derivatif yang membesar akibat pelemahan Rupiah terhadap dolar AS, yaitu kerugian di atas kertas dari kontrak lindung nilai mata uang, akan berbalik atau justru membengkak lagi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "sraj-suntik-modal-rp21-7-m-ke-anak-usaha-aik",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ [Suntik] Modal Rp21,7 M ke Anak Usaha AIK",
+  "deck": "SRAJ menambah modal ditempatkan dan disetor anak usahanya, PT Anugrah Inti Karya, sebesar Rp21,7 miliar, setara 1,99 persen dari ekuitas perusahaan per Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:00:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5fbcb3a451_d8c86130b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRAJ",
+  "tags": [
+   "SRAJ",
+   "transaksi afiliasi",
+   "penambahan modal",
+   "Anugrah Inti Karya"
+  ],
+  "body": [
+   "PT Sejahteraraya Anugrahjaya Tbk (SRAJ) melaporkan ke Bursa Efek Indonesia soal transaksi afiliasi berupa peningkatan modal ditempatkan dan disetor pada anak usahanya, PT Anugrah Inti Karya (AIK). Modal ditempatkan dan disetor AIK naik dari Rp325.835.600.000 menjadi Rp347.535.600.000, atau bertambah Rp21,7 miliar. Dasar transaksinya adalah Akta Pernyataan Keputusan Sirkuler Pemegang Saham AIK Nomor 07 tanggal 21 September 2026 yang dibuat di hadapan notaris Dini Herawati, dan sudah disahkan Kementerian Hukum dan HAM lewat surat penerimaan pemberitahuan tertanggal 25 September 2026.",
+   "Penambahan modal ini dilakukan dengan mencatatkan setoran modal dimuka yang sebelumnya sudah ditempatkan SRAJ ke AIK menjadi modal ditempatkan dan disetor resmi. Dengan kata lain, dananya sudah lebih dulu mengalir ke AIK sebagai uang muka, dan transaksi ini hanya memformalkan statusnya jadi modal saham. Jonathan Tahir, pemegang saham minoritas AIK, melepas hak memesan efek terlebih dahulu atas saham baru tersebut, sehingga seluruh saham baru diambil oleh SRAJ. Setelah transaksi, SRAJ memegang 3.475.256 lembar saham AIK senilai Rp347.525.600.000, sementara Jonathan Tahir tetap memegang 100 lembar saham senilai Rp10.000.000.",
+   "SRAJ menyatakan nilai setoran modal ini setara 1,99 persen dari ekuitas perusahaan per 30 Juni 2026 yang tercatat Rp1.091.118.000.000, sehingga transaksi ini tidak masuk kategori transaksi material menurut POJK 17/2020, dan hanya wajib dilaporkan sebagai transaksi afiliasi berdasarkan POJK 42/2020 karena SRAJ adalah pemegang saham AIK dengan kepemilikan 99,994 persen sebelum transaksi. Perusahaan menyebut tujuan transaksi ini untuk mendukung pertumbuhan dan memperkuat struktur permodalan AIK."
+  ],
+  "fotoAdegan": "Exterior courtyard of a modern private hospital building in an Indonesian city, ambulances parked near the entrance, daytime",
+  "takeaway": "Laporan ini netral bagi kinerja SRAJ karena nilai suntikannya, Rp21,7 miliar, hanya setara 1,99 persen dari ekuitas perusahaan per akhir Juni 2026, dan skemanya cuma memformalkan dana yang sudah lebih dulu mengalir ke AIK sebagai uang muka modal, jadi tidak ada kas baru yang keluar hari ini. Yang tersentuh adalah struktur permodalan anak usaha, bukan ekuitas konsolidasian SRAJ secara signifikan, karena kepemilikan SRAJ di AIK sudah di atas 99 persen baik sebelum maupun sesudah transaksi, sehingga porsi kendali tidak berubah. Ini juga laporan ketiga soal suntikan modal ke anak usaha berbeda yang dirilis SRAJ pada hari yang sama, setelah laporan serupa ke anak usaha rumah sakit senilai Rp37,9 miliar dan ke SAS senilai Rp23,1 miliar, sehingga total dana yang diformalkan hari ini mencapai sekitar Rp82,7 miliar ke tiga anak usaha. Yang perlu dipantau berikutnya adalah apakah pola konsolidasi permodalan anak usaha ini berlanjut ke entitas lain dalam grup SRAJ, mengingat tiga laporan serupa dalam sehari mengindikasikan proses administratif kelompok usaha yang sedang berjalan serentak.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sraj-setor-modal-rp178-9-m-ke-kks-terbesar-dalam-sepekan",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ Setor Modal Rp178,9 M ke [KKS], Terbesar dalam Sepekan",
+  "deck": "SRAJ menambah modal disetor Rp178,95 miliar ke anak usaha KKS, setara 16,4 persen ekuitas Perseroan, transaksi afiliasi terbesar dalam rangkaian laporan sepekan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:59:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d340fa5331_0fa3fb7f03.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRAJ",
+  "tags": [
+   "SRAJ",
+   "transaksi afiliasi",
+   "rumah sakit",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Sejahteraraya Anugrahjaya Tbk (SRAJ) melaporkan transaksi afiliasi berupa peningkatan modal ditempatkan dan disetor pada anak usahanya, PT Karya Kharisma Sentosa (KKS), dalam keterbukaan informasi tertanggal 25 September 2026. Transaksi ini tergolong afiliasi karena SRAJ merupakan pemegang 99,994 persen saham KKS, namun bukan transaksi benturan kepentingan. Perseroan juga menegaskan ini bukan transaksi material karena nilai setoran modal Rp178,95 miliar hanya setara 16,4 persen dari ekuitas SRAJ per 30 Juni 2026 yang tercatat Rp1,09 triliun, di bawah ambang 20 persen yang mewajibkan persetujuan pemegang saham.",
+   "Dasar transaksi adalah surat penerimaan pemberitahuan perubahan anggaran dasar KKS dari Kementerian Hukum dan HAM bernomor AHU-AH.01.03-0264646 tanggal 25 September 2026, mengacu pada akta pernyataan keputusan sirkuler pemegang saham KKS No. 6 tanggal 21 September 2026 di hadapan notaris Dini Herawati. Isinya, SRAJ mencatatkan setoran modal dimuka yang sebelumnya sudah ditempatkan menjadi modal ditempatkan dan disetor resmi. Modal ditempatkan dan disetor KKS naik dari Rp285,71 miliar menjadi Rp464,66 miliar. SRAJ mengambil seluruh saham baru tersebut, sementara pemegang saham minoritas Jonathan Tahir melepaskan hak memesan efek terlebih dahulu. Komposisi kepemilikan pascatransaksi: SRAJ memegang 4.646.536 lembar saham senilai Rp464.653.600.000, dan Jonathan Tahir tetap di 100 lembar senilai Rp10.000.000, sehingga porsi SRAJ naik tipis dari 99,994 persen menjadi sekitar 99,998 persen.",
+   "SRAJ menyebut tujuan transaksi untuk mendukung pertumbuhan dan memperkuat struktur permodalan KKS, yang diharapkan meningkatkan kinerja anak usaha tersebut dan berdampak positif bagi Perseroan.",
+   "Laporan ini merupakan yang keempat dari SRAJ soal penambahan modal ke anak usaha berbeda dalam sepekan terakhir, setelah sebelumnya Rp37,9 miliar ke RS, Rp23,1 miliar ke SAS, dan Rp21,7 miliar ke AIK. Setoran ke KKS kali ini jauh lebih besar dari ketiganya, membuat total penambahan modal ke empat anak usaha tersebut dalam sepekan mencapai sekitar Rp261,65 miliar."
+  ],
+  "fotoAdegan": "Doctors and nurses walking through a modern private hospital lobby with a glass facade, soft afternoon light in Jakarta",
+  "takeaway": "Laporan ini netral bagi kinerja SRAJ, sebab meski nilainya terbesar dari rangkaian empat laporan serupa pekan ini, transaksi ini pada dasarnya hanya memformalkan dana yang sudah lebih dulu mengalir ke KKS sebagai uang muka modal, bukan aliran kas baru, dan porsi kepemilikan SRAJ di KKS nyaris tidak berubah. Yang tersentuh adalah pos ekuitas anak usaha: modal ditempatkan dan disetor adalah dana riil yang tercatat sebagai modal sendiri perusahaan, dan kenaikannya dari Rp285,71 miliar menjadi Rp464,66 miliar membuat bantalan keuangan KKS lebih tebal serta mengurangi kebutuhannya berutang, meski tidak menambah kas segar bagi SRAJ sebagai induk. Karena nilainya di bawah ambang 20 persen ekuitas, transaksi ini tidak memerlukan persetujuan RUPS, sehingga yang perlu dicermati selanjutnya adalah laporan keuangan kuartal III 2026 SRAJ untuk melihat dampak konsolidasi dari rangkaian empat penambahan modal ini, sekaligus apakah pola formalisasi setoran modal semacam ini masih berlanjut ke anak usaha rumah sakit lain.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",
   "category": "Aksi Korporasi",
   "title": "BIKE Publex Insidentil, [Akuisisi] Tambang Masih Buram",

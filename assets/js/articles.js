@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "epac-ajukan-buyback-rp20-m-dan-rights-issue-2-miliar-saham-ke-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Ajukan Buyback Rp20 M dan [Rights Issue] 2 Miliar Saham ke RUPSLB",
+  "deck": "RUPSLB EPAC pada 3 November 2026 akan meminta persetujuan pemegang saham untuk buyback saham hingga Rp20 miliar dan penerbitan saham baru lewat rights issue hingga 2 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T06:38:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c86c59ff15_2985c17172.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EPAC",
+  "tags": [
+   "EPAC",
+   "rights issue",
+   "buyback saham",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Megalestari Epack Sentosaraya Tbk (EPAC) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 3 November 2026 pukul 10.00 WIB di IBIS Style Jakarta Tanah Abang. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 9 Oktober 2026. Pemanggilan resmi beserta mata acara lengkap akan diumumkan pada 12 Oktober 2026, sementara ringkasan hasil keputusan rapat dijadwalkan terbit pada 5 November 2026. Dalam RUPSLB ini, perseroan meminta persetujuan pemegang saham untuk dua agenda sekaligus, pembelian kembali saham (buyback) dan penambahan modal dengan hak memesan efek terlebih dahulu (rights issue).",
+   "Untuk buyback, EPAC berencana membeli kembali saham yang telah beredar sebanyak-banyaknya 10 persen dari total modal ditempatkan dan disetor penuh, dengan dana yang dialokasikan maksimal Rp20 miliar termasuk biaya perantara pedagang efek. Dana ini berasal dari kas internal perseroan dan pelaksanaannya akan dilakukan bertahap selama maksimal 12 bulan sejak RUPSLB menyetujui, atau paling lambat sampai 3 November 2027. Biaya transaksi ke perantara pedagang efek dibatasi maksimal 0,4 persen dari nilai transaksi, dan harga beli di bursa dipatok tidak boleh lebih tinggi dari harga transaksi sebelumnya sesuai Pasal 11 POJK 29/2023. Komisaris, direktur, karyawan, dan pemegang saham utama dilarang bertransaksi atas saham perseroan pada hari yang sama dengan pelaksanaan buyback oleh perseroan.",
+   "Agenda kedua adalah penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I) lewat penerbitan saham baru sebanyak-banyaknya 2.000.000.000 lembar dengan nilai nominal Rp50 per saham. Rasio pembagian hak, harga pelaksanaan, dan jumlah final saham baru belum ditetapkan dan baru akan diumumkan dalam pernyataan pendaftaran serta prospektus PMHMETD I, dengan mengacu pada Daftar Pemegang Saham per 31 Agustus 2026. Dana yang terkumpul rencananya dipakai untuk belanja modal, mengurangi utang terutama utang bank, dan modal kerja. Pemegang saham yang tidak menggunakan haknya akan mengalami penurunan persentase kepemilikan atau dilusi, sementara proses ini membutuhkan persetujuan RUPSLB dan pernyataan efektif dari Otoritas Jasa Keuangan paling lambat 12 bulan setelah RUPSLB.",
+   "Berdasarkan Laporan Bulanan Registrasi Pemegang Efek per 31 Agustus 2026, total saham EPAC yang beredar saat ini sebanyak 3.303.400.000 lembar, dengan PT Omni Multi Industrindo memegang 24,22 persen, PT Triple Berkah Bersama 38,84 persen, dan publik 36,94 persen. Modal dasar perseroan sebesar 6.800.000.000 saham, sehingga masih tersedia 3.496.600.000 saham dalam portepel yang bisa menampung rencana penerbitan saham baru tersebut."
+  ],
+  "fotoAdegan": "Factory workers in safety gear monitoring rolls of flexible plastic packaging film moving through an industrial extrusion line, warehouse lighting",
+  "takeaway": "Kombinasi rencana ini netral bagi kinerja EPAC untuk saat ini, karena buyback yang relatif kecil dengan dana maksimal Rp20 miliar diimbangi oleh potensi penerbitan saham baru sampai 2 miliar lembar lewat rights issue, yang bisa menambah jumlah saham beredar sampai sekitar 60 persen dari posisi saat ini kalau direalisasikan penuh. Penambahan saham sebesar itu berarti laba per saham, yaitu keuntungan perusahaan dibagi jumlah saham beredar, berpotensi terdilusi cukup signifikan bagi pemegang saham yang tidak ikut menyerap haknya, sementara dana yang masuk rencananya dipakai untuk belanja modal, mengurangi utang bank, dan modal kerja, yang berarti memperkuat sisi permodalan dan arus kas perusahaan. Rasio dan harga pelaksanaan rights issue belum ditentukan, sehingga besaran dilusi yang sebenarnya baru bisa dihitung pasti setelah prospektus terbit. Yang perlu dipantau adalah pemanggilan resmi RUPSLB pada 12 Oktober 2026 yang memuat mata acara lengkap, hasil keputusan RUPSLB pada 3 November 2026, dan penerbitan prospektus PMHMETD I yang akan mengungkap harga serta rasio pelaksanaan final.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kecelakaan-kerja-turun-drastis-kemnaker-dorong-higiene-industri",
   "category": "Ketenagakerjaan",
   "title": "Kecelakaan Kerja [Turun] Drastis, Kemnaker Dorong Higiene Industri",

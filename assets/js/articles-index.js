@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "epac-ajukan-buyback-rp20-m-dan-rights-issue-2-miliar-saham-ke-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Ajukan Buyback Rp20 M dan [Rights Issue] 2 Miliar Saham ke RUPSLB",
+  "deck": "RUPSLB EPAC pada 3 November 2026 akan meminta persetujuan pemegang saham untuk buyback saham hingga Rp20 miliar dan penerbitan saham baru lewat rights issue hingga 2 miliar lembar.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EPAC",
+   "rights issue",
+   "buyback saham",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c86c59ff15_2985c17172.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kecelakaan-kerja-turun-drastis-kemnaker-dorong-higiene-industri",
   "category": "Ketenagakerjaan",
   "title": "Kecelakaan Kerja [Turun] Drastis, Kemnaker Dorong Higiene Industri",
@@ -6489,22 +6505,6 @@ var ARTICLES = [
    "Papan Pengembangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/341b17bce5_12aeb65c4c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "life-dan-grph-masuk-pemantauan-khusus-bei-mulai-21-september",
-  "category": "Aksi Korporasi",
-  "title": "LIFE dan GRPH masuk [Pemantauan Khusus] BEI mulai 21 September",
-  "deck": "BEI memasukkan saham MSIG Life Insurance Indonesia (LIFE) dan Griptha Putra Persada (GRPH) ke daftar pemantauan khusus, efektif 21 September 2026, karena riwayat penghentian perdagangan.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LIFE",
-   "GRPH",
-   "Pemantauan Khusus",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b362b3e6be_473a63c817.pdf",
   "sourceLabel": "IDX"
  }
 ];

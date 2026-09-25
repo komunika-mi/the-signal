@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "spbu-pertama-khusus-petani-diresmikan-di-merauke",
+  "category": "Energi",
+  "title": "SPBU [Pertama] Khusus Petani Diresmikan di Merauke",
+  "deck": "Kementan meresmikan SPBU khusus petani pertama di Indonesia di Merauke, sekaligus mengucurkan anggaran Rp1,33 triliun untuk mempercepat Papua Selatan jadi lumbung pangan Indonesia Timur.",
+  "date": "25 September 2026",
+  "image": "assets/img/spbu-pertama-khusus-petani-diresmikan-di-merauke.jpg",
+  "imageV": "muh2m6j8",
+  "tags": [
+   "BBM subsidi",
+   "Papua Selatan",
+   "pertanian",
+   "Merauke"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469421-spbu-khusus-petani-pertama-di-indonesia-diresmikan-di-merauke-perkuat-dukungan-bbm-subsidi-untuk-produksi-pangan-berkelanjutan"
+ },
+ {
   "slug": "wika-pefindo-turunkan-peringkat-sukuk-ke-level-default",
   "category": "Aksi Korporasi",
   "title": "WIKA: PEFINDO Turunkan Peringkat Sukuk ke Level [Default]",
@@ -6499,22 +6516,6 @@ var ARTICLES = [
    "kepemilikan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-8160-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-lanjutkan-buyback-sudah-beli-70-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Lanjutkan [Buyback], Sudah Beli 70 Juta Saham",
-  "deck": "ARKO melaporkan realisasi buyback per 23 September 2026: akumulasi 70 juta saham dibeli, dana Rp910,28 juta terpakai, sisa anggaran nyaris habis.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "buyback",
-   "Arkora Hydro",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918_ARKO_E006_c6301f04-0f88-4469-8c56-42e82a812087-20260919014840.pdf",
   "sourceLabel": "IDX"
  }
 ];

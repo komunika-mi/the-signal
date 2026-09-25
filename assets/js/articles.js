@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "spbu-pertama-khusus-petani-diresmikan-di-merauke",
+  "category": "Energi",
+  "title": "SPBU [Pertama] Khusus Petani Diresmikan di Merauke",
+  "deck": "Kementan meresmikan SPBU khusus petani pertama di Indonesia di Merauke, sekaligus mengucurkan anggaran Rp1,33 triliun untuk mempercepat Papua Selatan jadi lumbung pangan Indonesia Timur.",
+  "image": "assets/img/spbu-pertama-khusus-petani-diresmikan-di-merauke.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T21:35:56+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469421-spbu-khusus-petani-pertama-di-indonesia-diresmikan-di-merauke-perkuat-dukungan-bbm-subsidi-untuk-produksi-pangan-berkelanjutan",
+  "tags": [
+   "BBM subsidi",
+   "Papua Selatan",
+   "pertanian",
+   "Merauke"
+  ],
+  "body": [
+   "Kementerian Pertanian meresmikan SPBU Khusus Petani pertama di Indonesia di SPBU milik PT Bunda Yeni Sulistyawati, Distrik Tanah Miring, Kabupaten Merauke, Papua Selatan. Fasilitas ini memberi petani jalur khusus mendapatkan BBM bersubsidi untuk mengoperasikan alat dan mesin pertanian. Peresmian ini menjadi bagian dari dorongan pemerintah menjadikan Papua Selatan sebagai lumbung pangan bagi kawasan timur Indonesia.",
+   "Bersamaan dengan itu, Menteri Pertanian Andi Amran Sulaiman menyerahkan anggaran senilai Rp1,33 triliun untuk sektor pertanian Papua Selatan pada 2026. Dana ini diserahkan di sela Gerakan Tanam Optimalisasi Lahan dan program pencetakan sawah rakyat di Merauke. \"Total bantuan untuk Papua Selatan tahun 2026 mencapai Rp1,33 triliun. Semua bantuan ini untuk masyarakat, untuk meningkatkan produksi sekaligus kesejahteraan petani,\" kata Amran.",
+   "Alokasi anggaran tersebut mencakup pembangunan lahan dan irigasi, penyediaan alat dan mesin pertanian, benih, pupuk, dan pestisida, hingga pengembangan tanaman pangan, hortikultura, perkebunan, dan peternakan. Kepala Badan Penyuluhan dan Pengembangan SDM Pertanian, Idha Widi Arsanti, menyebut pelaksanaan program di Merauke perlu dikawal secara terpadu agar bantuan pemerintah benar-benar berdampak pada peningkatan produksi. Ia menambahkan, penyuluh pertanian berperan mendampingi petani, mengawal penerapan teknologi dan mekanisasi, serta memastikan bantuan dan sarana produksi dimanfaatkan secara optimal.",
+   "Peresmian SPBU Khusus Petani ini dihadiri oleh berbagai pemangku kepentingan pertanian di Papua Selatan. Turut hadir Bupati Merauke, Kepala Pusat Penyuluhan Pertanian, Direktur Politeknik Pembangunan Pertanian Manokwari, kepala Balai Besar Riset dan Pengembangan Pertanian Papua dan Papua Selatan, kepala dinas pertanian provinsi dan kabupaten, unsur TNI, manajemen Pertamina Patra Niaga Perwakilan Maluku dan Papua, pemilik SPBU, perwakilan Gapoktan, manajer Brigade Pangan, dan para penyuluh pertanian."
+  ],
+  "fotoAdegan": "Farmers queuing to refuel small tractors and water pumps at a rural fuel station beside green rice fields, tropical morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/25/6ab6861d0662c-langkah-besar-diambil-pemerintah-dalam-mempercepat-terwujudnya-kemandirian-pangan-di-kawasan-timur-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah akses BBM subsidi untuk petani kini punya jalur khusus lewat SPBU di Tanah Miring, Merauke, dibarengi kucuran dana Rp1,33 triliun tahun 2026 untuk Papua Selatan yang mencakup pencetakan sawah baru, irigasi, alat mesin pertanian, benih, dan pupuk. Yang terdampak langsung adalah petani dan kelompok tani di Merauke yang ikut program Optimalisasi Lahan dan pencetakan sawah rakyat, karena merekalah yang mengoperasikan traktor dan alat berat yang butuh BBM bersubsidi itu. Karena ini SPBU khusus petani pertama di Indonesia, langkah ini bisa dibaca sebagai uji coba yang berpotensi direplikasi ke sentra pangan lain, sejalan dengan posisi Merauke yang sedang disiapkan jadi lumbung pangan Indonesia Timur. Yang akan menentukan apakah ini benar jadi model nasional atau cuma proyek tunggal adalah apakah Kementan mengumumkan pembangunan SPBU serupa di daerah cetak sawah lain, serta data realisasi luas tanam dari program di Merauke pada musim tanam berikutnya.",
+  "imageV": "muh2m6j8"
+ },
+ {
   "slug": "wika-pefindo-turunkan-peringkat-sukuk-ke-level-default",
   "category": "Aksi Korporasi",
   "title": "WIKA: PEFINDO Turunkan Peringkat Sukuk ke Level [Default]",

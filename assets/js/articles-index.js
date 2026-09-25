@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "putrasakti-mandiri-jual-1-juta-saham-kdtn-restrukturisasi-grup",
+  "category": "Aksi Korporasi",
+  "title": "Putrasakti Mandiri Jual [1 Juta] Saham KDTN, Restrukturisasi Grup",
+  "deck": "Putrasakti Mandiri melepas 1 juta saham KDTN pada 8 September 2026 seharga Rp421 per saham dalam rangka restrukturisasi kepemilikan di dalam kelompok usaha, hak suaranya turun tipis ke 32,07 persen.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "kepemilikan saham",
+   "pemegang saham",
+   "restrukturisasi grup usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-6215-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arii-jawab-permintaan-bursa-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ARII Jawab Permintaan Bursa soal [Volatilitas] Saham",
+  "deck": "Atlas Resources Tbk menjawab surat BEI soal volatilitas transaksi sahamnya dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARII",
+   "Atlas Resources",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4197919e0b_62a3cf53de.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "raam-direksi-tambah-saham-senilai-rp160-juta",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Direksi [Tambah] Saham Senilai Rp160 Juta",
+  "deck": "Ram Jethmal Punjabi, direksi RAAM, membeli 918.300 saham tidak langsung senilai sekitar Rp160 juta pada 23-24 September 2026, hak suaranya naik tipis ke 68,83%.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAAM",
+   "Tripar Multivision",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-6067-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penebusan-pupuk-subsidi-tembus-69-dari-alokasi-2026",
   "category": "BUMN",
   "title": "Penebusan Pupuk Subsidi Tembus [69%] dari Alokasi 2026",
@@ -21,6 +69,22 @@ var ARTICLES = [
   "kreditFoto": "PT Pupuk Indonesia (Persero)",
   "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/885/hari-tani-pupuk-indonesia-tegaskan-petani-sebagai-prioritas-lewat-pupuk-terjangkau-dan-mudah-diakses",
   "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "truk-prk-tawar-tender-sukarela-rp740-incar-kendali-30",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: PRK Tawar [Tender] Sukarela Rp740, Incar Kendali 30%",
+  "deck": "PT Pukul Rata Kanan menawar beli maksimal 65,25 juta saham (15%) TRUK seharga Rp740 per saham untuk menambah kepemilikannya jadi 30% dan menjadi pengendali baru.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "tender offer",
+   "Pukul Rata Kanan",
+   "pengendali saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d8993be833_9055573639.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-emas-antam-turun-ke-rp2-590-000-per-gram",
@@ -6444,70 +6508,6 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/538cf82b2f_a744976607.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-suspensi-berlanjut-usai-gagal-bayar-sukuk-mudharabah",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Suspensi] Berlanjut Usai Gagal Bayar Sukuk Mudharabah",
-  "deck": "BEI melanjutkan suspensi saham WIKA di seluruh pasar setelah perseroan menunda pembayaran bagi hasil Sukuk Mudharabah yang jatuh tempo 18 September 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "gagal bayar",
-   "sukuk mudharabah",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a54db63538_cbb1926c75.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtmh-ubah-perjanjian-kredit-dengan-bca-geser-rp60-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MTMH Ubah Perjanjian Kredit dengan [BCA], Geser Rp60 Miliar",
-  "deck": "Murni Sadar mengubah perjanjian kredit dengan BCA, mengalihkan Rp60 miliar dari fasilitas KI 7 MS Tranche D ke fasilitas baru Kredit Investasi 8 untuk anak usahanya, PT MS.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTMH",
-   "BCA",
-   "kredit",
-   "rumah sakit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84e7e149ca_cd42986c83.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "refi-kena-sanksi-sp2-bei-laporan-keuangan-masih-telat",
-  "category": "Aksi Korporasi",
-  "title": "REFI Kena Sanksi [SP2] BEI, Laporan Keuangan Masih Telat",
-  "deck": "BEI mengoreksi pengumuman sanksi REFI dan POST yang belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 hingga batas waktu 3 September 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "REFI",
-   "BEI",
-   "sanksi",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8f59cba950_f87374a6f1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgl-koreksi-jawaban-bursa-piutang-rp21-6-m-ke-pengendali-mandek",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Koreksi Jawaban Bursa: [Piutang] Rp21,6 M ke Pengendali Mandek",
-  "deck": "PPGL mengoreksi jawabannya ke Bursa soal divestasi JAYA, piutang Rp21,62 miliar ke pemegang saham pengendali dari transaksi itu masih belum lunas meski dividen sudah dibagikan lebih dulu.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "divestasi JAYA",
-   "piutang pihak berelasi",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb3646c0e2_c3c0dd7b89.pdf",
   "sourceLabel": "IDX"
  }
 ];

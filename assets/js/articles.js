@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "putrasakti-mandiri-jual-1-juta-saham-kdtn-restrukturisasi-grup",
+  "category": "Aksi Korporasi",
+  "title": "Putrasakti Mandiri Jual [1 Juta] Saham KDTN, Restrukturisasi Grup",
+  "deck": "Putrasakti Mandiri melepas 1 juta saham KDTN pada 8 September 2026 seharga Rp421 per saham dalam rangka restrukturisasi kepemilikan di dalam kelompok usaha, hak suaranya turun tipis ke 32,07 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T11:53:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-6215-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "kepemilikan saham",
+   "pemegang saham",
+   "restrukturisasi grup usaha"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) menerima laporan perubahan kepemilikan saham dari pemegang saham bernama Putrasakti Mandiri, warga negara Indonesia yang bukan bagian dari jajaran direksi atau komisaris perusahaan. Berdasarkan laporan yang disampaikan ke Otoritas Jasa Keuangan pada 25 September 2026, jumlah saham Putrasakti Mandiri di KDTN berkurang dari 402.000.000 lembar menjadi 401.000.000 lembar, atau turun 1.000.000 lembar. Hak suaranya di perusahaan pun bergeser tipis dari 32,15 persen menjadi 32,07 persen.",
+   "Transaksi penjualan itu dilakukan pada 8 September 2026 dengan harga Rp421 per saham untuk seluruh 1.000.000 lembar saham biasa yang dilepas. Dalam laporan, tujuan transaksi disebutkan sebagai restrukturisasi kepemilikan saham di dalam kelompok usaha, yang mengindikasikan saham tersebut berpindah ke pihak lain yang masih berada dalam satu grup usaha yang sama dengan pelapor.",
+   "Jumlah saham yang dilepas ini hanya setara sekitar 0,25 persen dari total kepemilikan Putrasakti Mandiri di KDTN sebelum transaksi, sehingga posisinya sebagai pemegang saham dengan porsi di atas 32 persen tidak berubah secara berarti."
+  ],
+  "fotoAdegan": "Aerial view of a hillside housing estate with red tiled roofs near Bogor, workers paving a new access road, bright daylight",
+  "takeaway": "Laporan ini tergolong netral bagi KDTN karena porsi saham yang dilepas cuma sekitar seperempat persen dari kepemilikan Putrasakti Mandiri sendiri, dan hak suaranya di perusahaan nyaris tidak bergeser dari 32,15 persen ke 32,07 persen. Yang tersentuh dari transaksi ini adalah komposisi pemegang saham, bukan kondisi keuangan KDTN, sehingga tidak ada dampak langsung ke laba per saham, arus kas, atau beban utang perusahaan. Alasan yang tertulis, yaitu restrukturisasi kepemilikan di dalam kelompok usaha, menunjukkan saham ini kemungkinan cuma berpindah tangan antarpihak yang masih berelasi, bukan dilepas ke pasar terbuka. Yang perlu dipantau selanjutnya adalah apakah muncul laporan susulan dari pihak penerima saham ini, karena pergeseran kepemilikan dalam satu kelompok usaha biasanya diikuti laporan serupa dari pihak yang menerima saham tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arii-jawab-permintaan-bursa-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ARII Jawab Permintaan Bursa soal [Volatilitas] Saham",
+  "deck": "Atlas Resources Tbk menjawab surat BEI soal volatilitas transaksi sahamnya dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T11:46:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4197919e0b_62a3cf53de.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARII",
+  "tags": [
+   "ARII",
+   "Atlas Resources",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Atlas Resources Tbk (ARII) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-12255/BEI.PP3/09-2026 terkait volatilitas transaksi efek perseroan. Jawaban perusahaan dikirim lewat surat nomor 0045-OJK/AR-CS/IX/2026 tertanggal 24 September 2026, dan dipublikasikan ke sistem keterbukaan informasi bursa pada 25 September 2026 pukul 11.46 WIB.",
+   "Dalam surat itu, ARII menjawab enam pertanyaan standar dari bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan Nomor I-E Bursa Efek Indonesia. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "Terkait rencana ke depan, ARII menegaskan belum memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang berdampak pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan mendatang. Perseroan juga menyatakan tidak ada informasi atau kejadian material lain yang belum diungkap ke publik. Untuk pertanyaan mengenai rencana pemegang saham utama atas kepemilikan sahamnya, corporate secretary ARII menyebut telah menanyakan langsung kepada pemegang saham utama, dan jawabannya adalah tidak ada rencana perubahan kepemilikan dalam waktu dekat."
+  ],
+  "fotoAdegan": "Traders and analysts working at desks on a busy Jakarta stock exchange trading floor, ticker screens blurred in the background",
+  "takeaway": "Penjelasan ini netral bagi ARII karena isinya seluruhnya penolakan, perseroan menyatakan tidak mengetahui satu pun informasi material yang bisa menjelaskan pergerakan harga sahamnya, sehingga tidak ada kabar baik atau buruk baru yang terungkap dari dokumen ini. Surat semacam ini adalah respons wajib ketika bursa mendeteksi transaksi saham yang dianggap tidak wajar, dikenal sebagai Unusual Market Activity atau UMA, semacam peringatan bahwa ada lonjakan harga atau volume perdagangan yang di luar kebiasaan pada saham tersebut, dan dokumen ini sendiri tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham. Yang perlu dicermati investor adalah apakah volatilitas transaksi ARII mereda setelah penjelasan resmi ini terbit, sebab pernyataan tidak ada informasi material tidak serta merta menghapus risiko spekulasi jangka pendek pada sahamnya. Perseroan juga menegaskan belum ada rencana aksi korporasi yang berdampak pada status pencatatannya di bursa setidaknya hingga sekitar akhir Desember 2026, atau tiga bulan sejak surat ini terbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "raam-direksi-tambah-saham-senilai-rp160-juta",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Direksi [Tambah] Saham Senilai Rp160 Juta",
+  "deck": "Ram Jethmal Punjabi, direksi RAAM, membeli 918.300 saham tidak langsung senilai sekitar Rp160 juta pada 23-24 September 2026, hak suaranya naik tipis ke 68,83%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T11:42:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-6067-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAAM",
+  "tags": [
+   "RAAM",
+   "Tripar Multivision",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Ram Jethmal Punjabi, anggota direksi PT Tripar Multivision Plus Tbk (RAAM), melaporkan ke Otoritas Jasa Keuangan bahwa ia menambah kepemilikan saham perusahaan lewat lima transaksi pembelian tidak langsung, artinya saham tersebut dipegang atas namanya melalui pihak lain, bukan dibeli langsung olehnya di pasar. Pembelian terjadi pada 23 dan 24 September 2026 dengan harga berkisar Rp173 sampai Rp176 per saham, dan seluruhnya dicatat dengan tujuan investasi.",
+   "Rinciannya adalah 386.500 saham pada 23 September seharga Rp173, lalu pada 24 September berturut-turut 107.700 saham seharga Rp176, 267.200 saham seharga Rp175, 31.900 saham seharga Rp173, dan 125.000 saham seharga Rp174. Total tambahan mencapai 918.300 lembar saham, dengan nilai keseluruhan sekitar Rp159,8 juta.",
+   "Dengan tambahan ini, jumlah saham RAAM yang dikuasai Punjabi naik dari 4.688.967.382 lembar menjadi 4.689.885.682 lembar. Hak suaranya di perusahaan naik tipis dari 68,81 persen menjadi 68,83 persen, posisi yang tetap menempatkannya sebagai pemegang saham pengendali."
+  ],
+  "fotoAdegan": "Film crew adjusting camera and lighting equipment on a movie set inside an indoor soundstage",
+  "takeaway": "Transaksi ini netral bagi RAAM karena ukurannya sangat kecil, hanya menambah sekitar 0,02 persen dari saham yang sudah dikuasai Punjabi, jauh dari level yang bisa dibaca sebagai sinyal keyakinan atau kekhawatiran terhadap perusahaan. Yang tersentuh di sini adalah komposisi saham beredar di tangan pengendali dan hak suaranya, yang penting dipantau pasar karena menunjukkan seberapa kuat kendali seseorang atas keputusan perusahaan, tapi kenaikan dari 68,81 persen ke 68,83 persen praktis tidak mengubah peta kendali itu. Statusnya sebagai kepemilikan tidak langsung juga berarti saham itu dipegang lewat pihak lain atas nama Punjabi, bukan pembelian langsung darinya sendiri di pasar. Yang perlu dipantau selanjutnya adalah apakah pola pembelian kecil dan berulang seperti ini terus muncul di laporan-laporan berikutnya, karena akumulasi bertahap oleh direksi bisa membentuk tren, sementara dokumen ini sendiri tidak menyebut agenda korporasi lanjutan seperti RUPS atau tenggat tertentu.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "penebusan-pupuk-subsidi-tembus-69-dari-alokasi-2026",
   "category": "BUMN",
   "title": "Penebusan Pupuk Subsidi Tembus [69%] dari Alokasi 2026",
@@ -29,6 +107,33 @@ var ARTICLES = [
   "kreditFoto": "PT Pupuk Indonesia (Persero)",
   "takeaway": "Yang berubah secara konkret ada dua: realisasi penebusan pupuk bersubsidi sudah mencapai 6,77 juta ton atau 69 persen dari alokasi 2026 per 23 September, dan penurunan HET 20 persen yang sebenarnya sudah berjalan hampir setahun sejak Oktober 2025. Yang terdampak langsung adalah petani penerima pupuk bersubsidi, terutama yang mengandalkan penebusan cepat lewat KTP dan sistem i-Pubers menjelang masa tanam. Ke depan ada dua kemungkinan arah: jika penyerapan terus berjalan stabil, alokasi 2026 berpotensi habis terserap sebelum akhir tahun; tapi jika pola penyerapan pupuk memang musiman dan menumpuk di periode tanam tertentu, angka 69 persen di akhir September belum tentu bergerak lurus menuju 100 persen. Yang akan memperjelas mana skenario yang terjadi adalah laporan realisasi penyaluran pada kuartal terakhir 2026 atau data resmi Kementerian Pertanian soal serapan pupuk bersubsidi berbasis e-RDKK.",
   "imageV": "mugh752m"
+ },
+ {
+  "slug": "truk-prk-tawar-tender-sukarela-rp740-incar-kendali-30",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: PRK Tawar [Tender] Sukarela Rp740, Incar Kendali 30%",
+  "deck": "PT Pukul Rata Kanan menawar beli maksimal 65,25 juta saham (15%) TRUK seharga Rp740 per saham untuk menambah kepemilikannya jadi 30% dan menjadi pengendali baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T11:25:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d8993be833_9055573639.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUK",
+  "tags": [
+   "TRUK",
+   "tender offer",
+   "Pukul Rata Kanan",
+   "pengendali saham"
+  ],
+  "body": [
+   "PT Pukul Rata Kanan (PRK), yang saat ini sudah menggenggam 65.250.000 saham atau 15,00% dari total saham PT Guna Timur Raya Tbk (TRUK), mengajukan Pernyataan Penawaran Tender Sukarela untuk membeli sebanyak-banyaknya 65.250.000 saham lagi atau 15,00% dari pemegang saham TRUK. Jika seluruh saham incaran itu terserap, kepemilikan PRK di TRUK akan naik menjadi 130.500.000 saham atau 30,00%, dan PRK resmi menjadi pengendali baru perusahaan jasa freight forwarding tersebut. PRK, yang bergerak di bidang holding dan konsultasi manajemen dan berkedudukan di Surabaya, menyatakan tidak berencana menjadikan TRUK perusahaan tertutup (go-private).",
+   "Harga penawaran ditetapkan Rp740 per saham, dibayar tunai. Sesuai Pasal 13 huruf b POJK 54/2015, harga itu wajib lebih tinggi dari rata-rata harga tertinggi perdagangan TRUK di BEI selama 90 hari sebelum pengumuman, yang menurut perhitungan di dokumen ini adalah Rp735,15 dari 53 hari bursa dengan transaksi. Namun harga Rp740 itu jauh di bawah harga pasar terkini TRUK: pada 24 September 2026, sehari sebelum pengumuman ini, harga tertinggi perdagangan TRUK tercatat Rp2.070, bahkan sempat di atas Rp1.500 pada beberapa hari sebelumnya.",
+   "Berdasarkan jadwal yang diumumkan, pernyataan tender diperkirakan efektif 4 November 2026, dengan periode penawaran berlangsung 6 November hingga 7 Desember 2026 pukul 09.00-16.00 WIB setiap hari. Pemegang saham yang ingin menjual wajib menyerahkan Formulir Penawaran Tender Sukarela (FPTS) ke PT Adimitra Jasa Korpora selaku BAE paling lambat 7 Desember 2026 pukul 16.00 WIB. Penjatahan diperkirakan 10 Desember 2026, pengembalian saham yang tidak terbeli 14 Desember 2026, dan pembayaran 15 Desember 2026 melalui mekanisme crossing di BEI. PRK menunjuk PT Sucor Sekuritas sebagai perusahaan efek pelaksana dan membuktikan kecukupan dananya lewat surat PT Trimegah Sekuritas Indonesia Tbk tertanggal 24 September 2026.",
+   "Diagram kepemilikan sebelum tender yang disertakan dalam dokumen ini merujuk pada Daftar Pemegang Saham per 31 Agustus 2026, sehingga belum menampilkan posisi PRK yang menurut dokumen ini sudah memegang 15% saham TRUK saat pernyataan ini diterbitkan. Pemegang saham lain yang tercantum tidak berubah dalam skenario penuh: PT Guna Makmur Raya 25,17%, Budi Gunawan 5%, Carolina Kusuma 5%, Suminto Husin Giman 5%, Suganto Gunawan 5%, dan Suwito 5%, sementara porsi masyarakat diperkirakan turun dari 29,83% menjadi 14,83% jika seluruh saham incaran terbeli."
+  ],
+  "fotoAdegan": "Rows of cargo trucks parked at a logistics yard in Jakarta at dawn, workers checking cargo straps, warehouse buildings in background",
+  "takeaway": "Laporan ini netral bagi fundamental Guna Timur Raya, karena penawaran tender ini adalah jual beli saham yang sudah beredar antar pemegang saham, bukan dana segar yang masuk ke kas perusahaan, dan dokumen ini sendiri menyatakan tidak ada dampak material terhadap operasional, hukum, atau kondisi keuangan TRUK. Karena tidak ada penerbitan saham baru, jumlah saham beredar dan laba per saham TRUK tidak berubah, yang berganti hanya siapa pemegang kendali, dari sebelumnya tanpa pemilik tunggal di atas 20% menjadi PRK dengan 30% bila penawaran terserap penuh. Yang perlu dicermati, harga tender Rp740 jauh di bawah harga tertinggi perdagangan TRUK pada 24 September 2026 yang mencapai Rp2.070, sehingga secara ekonomi insentif pemegang saham publik untuk ikut menjual lewat tender ini lebih kecil dibanding menjual langsung di pasar reguler. Jika penawaran terserap penuh, porsi kepemilikan publik menyusut dari 29,83% menjadi 14,83%, yang bisa mengurangi likuiditas perdagangan saham TRUK di bursa. Yang perlu dipantau berikutnya adalah tanggal efektif dari OJK yang diperkirakan 4 November 2026 serta hasil penjatahan pada 10 Desember 2026, yang akan menentukan apakah PRK benar-benar menjadi pengendali baru TRUK.",
+  "sentimen": "netral"
  },
  {
   "slug": "harga-emas-antam-turun-ke-rp2-590-000-per-gram",

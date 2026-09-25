@@ -3,6 +3,57 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dr-rhb-sekuritas-setop-market-making-waran-kendala-teknis",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Sekuritas Setop [Market Making] Waran, Kendala Teknis",
+  "deck": "RHB Sekuritas Indonesia menghentikan sementara kegiatan market making pada seluruh waran terstruktur terbitannya sejak pukul 09:00 WIB hari ini akibat masalah teknis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T10:02:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec01eeebee_8027bc316e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "RHB Sekuritas",
+   "market making",
+   "waran terstruktur"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia, penerbit sejumlah waran terstruktur di Bursa Efek Indonesia dengan kode emiten DR, menyampaikan keterbukaan informasi bahwa perusahaan tidak dapat menjalankan fungsi market making, yaitu kewajiban rutin memasang penawaran jual dan beli di pasar agar waran tetap mudah diperdagangkan, untuk seluruh waran terstruktur yang diterbitkannya. Gangguan ini berlangsung sejak pukul 09:00 WIB pada Jumat, 25 September 2026, akibat masalah teknis yang tidak dirinci lebih lanjut dalam suratnya.",
+   "Dalam surat bernomor 075/EQD/RHB/09/2026 yang ditandatangani Tan Cheong Hong selaku Head of Trading RHB Sekuritas Indonesia, perusahaan menyatakan akan melanjutkan kegiatan market making begitu masalah teknis tersebut selesai ditangani. RHB Sekuritas juga menyatakan akan menerbitkan pengumuman susulan begitu kegiatan market making kembali beroperasi penuh, namun belum menyebutkan perkiraan waktu penyelesaiannya."
+  ],
+  "fotoAdegan": "IT technicians troubleshooting blinking server racks in a dim data center, tangled cables, blue indicator lights",
+  "takeaway": "Gangguan ini bersifat netral bagi RHB Sekuritas karena sifatnya teknis dan sementara, tidak mengubah kondisi keuangan atau bisnis inti perusahaan sebagai perusahaan sekuritas dan penerbit waran. Yang tersentuh di sini bukan laporan keuangan, melainkan fungsi market making, yaitu kewajiban penerbit waran untuk terus memasang harga beli dan jual di pasar supaya investor bisa keluar masuk transaksi dengan mudah. Kalau fungsi ini berhenti, selisih harga jual beli waran bisa melebar dan investor yang ingin bertransaksi mungkin kesulitan mendapat harga wajar, meski ini tidak memengaruhi neraca RHB Sekuritas. Yang perlu dipantau berikutnya adalah pengumuman lanjutan dari RHB Sekuritas begitu market making kembali beroperasi penuh, karena dokumen ini belum menyebutkan target waktu penyelesaian masalah teknisnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "edge-tender-sukarela-digital-edge-baru-serap-4-8-saham-publik",
+  "category": "Aksi Korporasi",
+  "title": "EDGE: [Tender Sukarela] Digital Edge Baru Serap 4,8% Saham Publik",
+  "deck": "Digital Edge (Hong Kong) Ltd baru membeli 7,71 juta dari 159,6 juta saham publik PT Indointernet lewat tender sukarela dalam tiga periode penyelesaian sejak Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T09:59:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cef341ca40_09015df212.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "tender sukarela",
+   "Digital Edge",
+   "delisting"
+  ],
+  "body": [
+   "PT Indointernet Tbk (EDGE) melaporkan perkembangan penawaran tender sukarela (voluntary tender offer/VTO) yang dilakukan Digital Edge (Hong Kong) Ltd atau DEHK atas saham-saham publik perseroan. Laporan yang disampaikan Corporate Secretary Jennifer Tiurland ini merupakan pemenuhan Pasal III.3.2.5 Peraturan Bursa Efek Indonesia Nomor I-N tentang Pembatalan Pencatatan (Delisting) dan Pencatatan Kembali (Relisting).",
+   "Pada Periode I (25 Juni-24 Juli 2026), dari 1.573 pemegang saham publik yang menggenggam 159.598.500 saham, hanya 919 pemegang saham yang berpartisipasi penuh dengan total 7.118.700 saham diserahkan ke DEHK; penyelesaiannya rampung 5 Agustus 2026 dan diumumkan 6 Agustus 2026. Pada Periode II (25 Juli-23 Agustus 2026), dari 654 pemegang saham yang tersisa dengan 152.479.800 saham, cuma 245 pemegang saham yang ikut menyerahkan 360.600 saham, selesai 4 September 2026 dan diumumkan 8 September 2026. Pada Periode III (24 Agustus-22 September 2026), dari 409 pemegang saham dengan 152.119.200 saham, 172 di antaranya berpartisipasi penuh menyerahkan 234.700 saham, sehingga menyisakan 237 pemegang saham publik yang masih menggenggam 151.884.500 saham.",
+   "Secara kumulatif, dari 159.598.500 saham publik yang beredar sebelum VTO dimulai, baru sekitar 7,71 juta saham atau sekitar 4,8 persen yang berhasil dibeli DEHK dalam tiga periode ini. Penyelesaian VTO Periode III baru akan dilaksanakan DEHK pada 2 Oktober 2026, dengan hasilnya diumumkan 6 Oktober 2026. Perseroan menyatakan hasil sementara pelaksanaan VTO ini tidak berdampak negatif material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "A technician inspecting rows of humming server racks with blinking indicator lights inside a modern data center facility.",
+  "takeaway": "Laporan ini netral bagi Indointernet karena isinya sekadar kemajuan administratif dari proses tender yang sudah berjalan, tanpa perubahan pada kendali perseroan. Yang tersentuh adalah komposisi pemegang saham publik, sebab tender ini berjalan di bawah aturan Bursa soal delisting, dan porsi saham publik yang berpindah ke Digital Edge akan menentukan apakah syarat jumlah saham beredar minimum masih terpenuhi setelah proses ini selesai. Karena baru sekitar 4,8 persen saham publik yang berpindah tangan dalam tiga periode, mayoritas pemegang saham ritel EDGE tampaknya memilih bertahan, sehingga arah proses ini ke depan belum tentu semulus yang diharapkan Digital Edge. Yang perlu dipantau selanjutnya adalah penyelesaian VTO Periode III pada 2 Oktober 2026 dan pengumuman hasilnya pada 6 Oktober 2026, karena dari situ akan terlihat apakah tren partisipasi rendah ini berlanjut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "epac-ajukan-buyback-rp20-m-dan-rights-issue-2-miliar-saham-ke-rupslb",
   "category": "Aksi Korporasi",
   "title": "EPAC Ajukan Buyback Rp20 M dan [Rights Issue] 2 Miliar Saham ke RUPSLB",

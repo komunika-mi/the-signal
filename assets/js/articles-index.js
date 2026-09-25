@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dr-rhb-sekuritas-setop-market-making-waran-kendala-teknis",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Sekuritas Setop [Market Making] Waran, Kendala Teknis",
+  "deck": "RHB Sekuritas Indonesia menghentikan sementara kegiatan market making pada seluruh waran terstruktur terbitannya sejak pukul 09:00 WIB hari ini akibat masalah teknis.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "RHB Sekuritas",
+   "market making",
+   "waran terstruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec01eeebee_8027bc316e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "edge-tender-sukarela-digital-edge-baru-serap-4-8-saham-publik",
+  "category": "Aksi Korporasi",
+  "title": "EDGE: [Tender Sukarela] Digital Edge Baru Serap 4,8% Saham Publik",
+  "deck": "Digital Edge (Hong Kong) Ltd baru membeli 7,71 juta dari 159,6 juta saham publik PT Indointernet lewat tender sukarela dalam tiga periode penyelesaian sejak Agustus 2026.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "tender sukarela",
+   "Digital Edge",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cef341ca40_09015df212.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "epac-ajukan-buyback-rp20-m-dan-rights-issue-2-miliar-saham-ke-rupslb",
   "category": "Aksi Korporasi",
   "title": "EPAC Ajukan Buyback Rp20 M dan [Rights Issue] 2 Miliar Saham ke RUPSLB",
@@ -6473,38 +6505,6 @@ var ARTICLES = [
    "BUMA Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/78d0e6e7cb_78062d1e82.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kios-jadwalkan-rupslb-27-oktober-usul-agenda-tutup-28-sep",
-  "category": "Aksi Korporasi",
-  "title": "KIOS Jadwalkan [RUPSLB] 27 Oktober, Usul Agenda Tutup 28 Sep",
-  "deck": "Kioson Komersial Indonesia mengumumkan rencana RUPSLB pada 27 Oktober 2026 di Jakarta, dengan tenggat usul agenda pemegang saham 28 September dan pencatatan pemegang saham per 2 Oktober 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KIOS",
-   "RUPSLB",
-   "Kioson Komersial Indonesia",
-   "Pasar Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3fae0af454_ba04e9adea.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csmi-keluar-dari-pemantauan-khusus-bei-mulai-21-september",
-  "category": "Aksi Korporasi",
-  "title": "CSMI Keluar dari [Pemantauan Khusus] BEI Mulai 21 September",
-  "deck": "Bursa Efek Indonesia mencabut saham PT Cipta Selera Murni Tbk (CSMI) dari papan pemantauan khusus dan memindahkannya ke Papan Pengembangan, efektif 21 September 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSMI",
-   "BEI",
-   "Pemantauan Khusus",
-   "Papan Pengembangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/341b17bce5_12aeb65c4c.pdf",
   "sourceLabel": "IDX"
  }
 ];

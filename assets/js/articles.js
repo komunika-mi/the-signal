@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bi-94-9-persen-pemda-sudah-digital-transaksi-keuangan",
+  "category": "Perbankan",
+  "title": "BI: 94,9 Persen Pemda Sudah [Digital] Transaksi Keuangan",
+  "deck": "Bank Indonesia mencatat 518 dari 546 pemerintah daerah kini bertransaksi secara digital, dipaparkan dalam ajang FEKDI x IFSE 2026 di Jakarta.",
+  "image": "assets/img/bi-94-9-persen-pemda-sudah-digital-transaksi-keuangan.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T07:06:11.460Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820026.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "digitalisasi daerah",
+   "ETPD",
+   "QRIS"
+  ],
+  "body": [
+   "Bank Indonesia melaporkan bahwa hingga semester pertama 2026, sebanyak 518 dari 546 pemerintah daerah di Indonesia, atau sekitar 94,9 persen, sudah masuk kategori digital dalam pengelolaan transaksi keuangannya. Angka ini penting karena menandai hampir selesainya program elektronifikasi transaksi pemerintah daerah yang sudah berjalan bertahun-tahun, dan berdampak langsung pada seberapa transparan dan mudah dilacak uang publik dikelola di tingkat provinsi dan kabupaten/kota.",
+   "Selain sistem elektronifikasi transaksi, Bank Indonesia juga mencatat perluasan Kartu Kredit Indonesia segmen pemerintah, kartu belanja khusus instansi negara, yang kini dipakai oleh 60 kementerian dan lembaga serta 304 pemerintah daerah. Penggunaan kode pembayaran QRIS, baik lewat pindai kamera maupun metode tempel QRIS TAP, juga terus diperluas di berbagai layanan publik untuk mendorong transaksi nontunai.",
+   "Perluasan digitalisasi ini didorong lewat sinergi program Percepatan dan Perluasan Digitalisasi Daerah (P2DD) dengan program penguatan kapasitas bernama KATALIS P2DD, yang melibatkan pemerintah daerah, bank pembangunan daerah, tim pengendali inflasi daerah, dan Bank Indonesia. Dalam acara ini, Bank Indonesia juga memberikan penghargaan Championship P2DD kepada daerah dengan kinerja digitalisasi terbaik.",
+   "Pemaparan ini disampaikan Deputi Gubernur Bank Indonesia Ricky P. Gozali dalam rangkaian Festival Ekonomi Keuangan Digital Indonesia dan Indonesia Fintech Summit & Expo (FEKDI x IFSE) 2026, yang berlangsung tiga hari pada 24 hingga 26 September 2026 di Jakarta International Convention Center. Hari pertama difokuskan pada sinergi kebijakan nasional, hari kedua pada pengembangan talenta dan inovasi digital, dan hari ketiga pada konektivitas ekonomi keuangan digital antarnegara."
+  ],
+  "fotoAdegan": "A market vendor in Indonesia scanning a QR code payment sticker with a customer's smartphone, busy morning market atmosphere",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2820026/Cover-sp_2820026.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Data paling konkret dari acara ini adalah soal elektronifikasi transaksi pemerintah daerah, yakni sistem yang membuat penerimaan dan belanja uang pemerintah daerah tercatat secara elektronik. Hingga pertengahan 2026, 518 dari 546 pemerintah daerah atau hampir 95 persen sudah masuk kategori digital, artinya mayoritas provinsi dan kabupaten/kota sudah meninggalkan cara manual dalam mengelola kas publik. Yang masih tertinggal sekitar 28 pemerintah daerah yang belum digital, dan merekalah yang paling mungkin jadi sasaran program KATALIS P2DD ke depan. Arahnya menuju digitalisasi hampir penuh transaksi pemerintah daerah, dan yang akan memastikan tercapai atau tidaknya target itu adalah laporan ETPD semester kedua 2026 yang biasanya dirilis awal tahun berikutnya.",
+  "imageV": "mugml6r6"
+ },
+ {
   "slug": "putrasakti-mandiri-jual-1-juta-saham-kdtn-restrukturisasi-grup",
   "category": "Aksi Korporasi",
   "title": "Putrasakti Mandiri Jual [1 Juta] Saham KDTN, Restrukturisasi Grup",

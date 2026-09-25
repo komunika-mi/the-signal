@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bi-94-9-persen-pemda-sudah-digital-transaksi-keuangan",
+  "category": "Perbankan",
+  "title": "BI: 94,9 Persen Pemda Sudah [Digital] Transaksi Keuangan",
+  "deck": "Bank Indonesia mencatat 518 dari 546 pemerintah daerah kini bertransaksi secara digital, dipaparkan dalam ajang FEKDI x IFSE 2026 di Jakarta.",
+  "date": "25 September 2026",
+  "image": "assets/img/bi-94-9-persen-pemda-sudah-digital-transaksi-keuangan.jpg",
+  "imageV": "mugml6r6",
+  "tags": [
+   "Bank Indonesia",
+   "digitalisasi daerah",
+   "ETPD",
+   "QRIS"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820026.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "putrasakti-mandiri-jual-1-juta-saham-kdtn-restrukturisasi-grup",
   "category": "Aksi Korporasi",
   "title": "Putrasakti Mandiri Jual [1 Juta] Saham KDTN, Restrukturisasi Grup",
@@ -6492,22 +6510,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/382aceee27_3f5f3fdf83.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uvcr-rencanakan-pmthmetd-hingga-200-juta-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "UVCR Rencanakan [PMTHMETD] hingga 200 Juta Saham Baru",
-  "deck": "Trimegah Karya Pratama (UVCR) berencana menerbitkan maksimal 200 juta saham baru tanpa hak memesan efek terlebih dahulu, menunggu persetujuan RUPSLB pada 27 Oktober 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "PMTHMETD",
-   "Ultra Voucher",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/538cf82b2f_a744976607.pdf",
   "sourceLabel": "IDX"
  }
 ];

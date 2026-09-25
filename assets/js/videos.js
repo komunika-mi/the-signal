@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "mVVqaok4PG0",
+  "title": "Tangsel Expo 2026 Jadi Etalase UMKM dan Ekonomi Kreatif",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Tangsel Expo 2026 digelar di Plaza Puspemkot Tangerang Selatan pada 21-22 September, menampilkan produk UMKM, ekonomi kreatif, dan teknologi daerah.",
+  "takeaway": "Pameran ini relevan sebagai gambaran upaya pemerintah daerah mendorong pertumbuhan UMKM dan ekonomi kreatif di tingkat lokal.",
+  "terbit": "2026-09-25T13:15:17+00:00"
+ },
+ {
   "id": "yFRpQil4Ync",
   "title": "RUU Pelindungan Ketenagakerjaan Ditargetkan Rampung Oktober 2026",
   "category": "Ketenagakerjaan",

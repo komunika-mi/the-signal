@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "mVVqaok4PG0",
+  "title": "Tangsel Expo 2026 Jadi Etalase UMKM dan Ekonomi Kreatif",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Tangsel Expo 2026 digelar di Plaza Puspemkot Tangerang Selatan pada 21-22 September, menampilkan produk UMKM, ekonomi kreatif, dan teknologi daerah.",
+  "takeaway": "Pameran ini relevan sebagai gambaran upaya pemerintah daerah mendorong pertumbuhan UMKM dan ekonomi kreatif di tingkat lokal."
+ },
+ {
   "id": "yFRpQil4Ync",
   "title": "RUU Pelindungan Ketenagakerjaan Ditargetkan Rampung Oktober 2026",
   "category": "Ketenagakerjaan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Direktorat Jenderal Bea dan Cukai membongkar upaya ekspor ilegal emas lewat sejumlah bandara internasional. Dalam sepuluh hari, petugas mengamankan hampir 29 kilogram emas.",
   "takeaway": "Kasus ini relevan karena menyangkut pengawasan arus komoditas bernilai tinggi yang berdampak pada penerimaan negara dari sektor perdagangan."
- },
- {
-  "id": "LrhY4Ri13GA",
-  "title": "Momen Sertijab Menteri Keuangan dari Purbaya ke Suahasil",
-  "category": "Makroekonomi",
-  "program": "Kabar Utama",
-  "summary": "Purbaya Yudhi Sadewa resmi menyerahkan jabatan Menteri Keuangan kepada Suahasil Nazara. Purbaya mengaku baru mengetahui pergantian tersebut sehari sebelumnya.",
-  "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan penting diikuti karena berkaitan langsung dengan arah kebijakan fiskal dan anggaran negara."
  }
 ];

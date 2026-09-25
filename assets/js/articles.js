@@ -3,6 +3,118 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok",
+  "category": "Industri",
+  "title": "KKP Operasikan [33] Kapal di Arafura Lewat Kerja Sama Tiongkok",
+  "deck": "KKP mulai menjalankan kerja sama teknis dengan Tiongkok, menyiapkan 33 kapal ikan berbendera Indonesia beroperasi di perairan Arafura dengan target produksi 9.500 ton ikan per tahun.",
+  "image": "assets/img/kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T11:42:21.764Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kerja-sama-dengan-tiongkok-kkp-dorong-produksi-perikanan-tangkap-dalam-negeri-5R5K.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "KKP",
+   "Tiongkok",
+   "perikanan tangkap",
+   "Arafura"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) mulai menjalankan kerja sama dengan Tiongkok lewat skema Technical Cooperation Guidelines (TCG) untuk mendorong produksi perikanan tangkap dalam negeri. Sebanyak 33 kapal ikan berbendera Indonesia disiapkan beroperasi di Wilayah Pengelolaan Perikanan Negara Republik Indonesia (WPPNRI) 718, atau perairan Arafura, salah satu kawasan tangkap dengan stok ikan terbesar di Indonesia timur.",
+   "Menurut KKP, sebanyak 669 tenaga kerja dilibatkan dalam operasional 33 kapal tersebut, atau rata-rata sekitar 20 orang per kapal. Armada ini diproyeksikan menghasilkan sekitar 9.500 ton ikan per tahun, dengan rata-rata 200 ton per kapal per tahun sesuai kuota yang telah ditetapkan pemerintah. KKP memperkirakan kegiatan ini akan menyumbang penerimaan negara bukan pajak (PNBP) sekitar Rp65 miliar.",
+   "TCG merupakan tindak lanjut kunjungan kerja Presiden Prabowo Subianto ke Tiongkok pada 9 November 2024, yang menghasilkan kesepakatan bersama antara kedua negara. Skema ini menjadi mandat dari nota kesepahaman penguatan kerja sama maritim RI-Tiongkok yang diteken 5 Juni 2021, serta pengaturan pelaksanaan kerja sama perikanan yang ditandatangani 6 September 2023. Cakupannya meliputi kegiatan penangkapan ikan, pembangunan fasilitas perikanan di darat termasuk pelabuhan, pengolahan ikan, pertukaran keterampilan dan pelatihan, pertukaran data, hingga jaminan kesejahteraan pekerja perikanan.",
+   "Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono menyatakan pelaksanaan kerja sama ini harus mengikuti ketentuan soal perizinan, kepatuhan kapal, pendaratan, dan pencatatan hasil tangkapan, agar asal-usul ikan yang ditangkap dapat ditelusuri. Direktur Jenderal Perikanan Tangkap Lotharia Latif menyebut implementasi TCG merupakan bagian dari kebijakan Penangkapan Ikan Terukur (PIT), yang menurut KKP bertujuan mencegah praktik penangkapan ikan ilegal sekaligus menjaga keberlanjutan sumber daya ikan nasional."
+  ],
+  "fotoAdegan": "Steel fishing vessels moored at a busy Indonesian coastal port, crew unloading crates of fresh fish at dawn",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kerja-sama-dengan-tiongkok-kkp-dorong-produksi-perikanan-tangkap-dalam-negeri-5R5K.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang konkret berubah di sini adalah mulai beroperasinya 33 kapal ikan berbendera Indonesia di perairan Arafura lewat skema kerja sama teknis dengan Tiongkok, dengan target tangkapan 9.500 ton ikan per tahun dan potensi pemasukan negara Rp65 miliar dari kuota tersebut. Yang terdampak langsung adalah 669 pekerja yang direkrut untuk kapal-kapal ini, serta pelaku usaha perikanan di sekitar Tual dan kawasan Arafura yang bergantung pada aktivitas pendaratan dan pengolahan ikan. Kerja sama ini bukan proyek dadakan karena mengacu pada perjanjian yang dirintis sejak 2021, sehingga lebih tepat dibaca sebagai bagian dari kebijakan Penangkapan Ikan Terukur yang membuka ruang kerja sama teknis dengan pihak asing di kawasan tangkap tertentu. Yang akan menunjukkan apakah kerja sama semacam ini berlanjut atau meluas ke mitra lain adalah realisasi produksi tahun pertama dibanding target 9.500 ton itu, serta apakah PNBP Rp65 miliar yang diproyeksikan benar-benar tercapai.",
+  "imageV": "mugwf6b2"
+ },
+ {
+  "slug": "kkp-tunjuk-agrinas-kelola-1-269-kampung-nelayan-merah-putih",
+  "category": "BUMN",
+  "title": "KKP Tunjuk Agrinas Kelola [1.269] Kampung Nelayan Merah Putih",
+  "deck": "KKP, Kemenkop, Kemenkeu, dan BP BUMN teken kerja sama kelola Kampung Nelayan Merah Putih; PT Agrinas Jaladri Nusantara ditugaskan mengoperasikannya bersama koperasi desa.",
+  "image": "assets/img/kkp-tunjuk-agrinas-kelola-1-269-kampung-nelayan-merah-putih.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T11:42:15.370Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-gandeng-kemenkop-hingga-bp-bumn-kelola-kampung-nelayan-merah-putih-6B5V.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "KKP",
+   "Kampung Nelayan Merah Putih",
+   "Koperasi Desa",
+   "Agrinas"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) meneken nota kesepahaman dengan Kementerian Koperasi, serta surat keputusan bersama (SKB) yang juga melibatkan Kementerian Keuangan dan Badan Pengaturan Badan Usaha Milik Negara (BP BUMN), untuk mengatur pengelolaan Kampung Nelayan Merah Putih (KNMP). Penandatanganan dilakukan di KNMP Tongke-Tongke, Kabupaten Sinjai, Sulawesi Selatan, Jumat (25/9), oleh Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono dan Menteri Koperasi Ferry Juliantono, bersama menteri dan kepala lembaga terkait lainnya. Kerja sama ini menentukan siapa yang akan menjalankan ratusan Kampung Nelayan Merah Putih yang sudah dan akan dibangun di seluruh Indonesia.",
+   "Berdasarkan SKB, PT Agrinas Jaladri Nusantara (Persero) ditugaskan mengelola dan mengoperasikan KNMP bersama Koperasi Desa/Kelurahan Merah Putih (KDKMP). Tugas itu mencakup menyiapkan KDKMP agar bisa mengelola KNMP secara mandiri, menyusun rencana bisnis dan rencana kerja operasional, serta mengembangkan usaha dan memperluas akses pemasaran hasil laut. Sementara itu, kerja sama KKP dengan Kementerian Koperasi mencakup pertukaran data, peningkatan kapasitas sumber daya manusia dan kelembagaan koperasi di sektor kelautan dan perikanan, penguatan daya saing koperasi, serta percepatan pembentukan KDKMP di lokasi-lokasi KNMP.",
+   "KKP menyebut sudah membangun KNMP di 100 lokasi sepanjang 2025, dengan 65 di antaranya berstatus uji coba operasional. Menurut Menteri Trenggono, pembangunan tengah berlanjut menuju 1.269 titik di seluruh Indonesia, dan tahun depan ditargetkan menambah 2.000 titik baru. Program ini direncanakan berlanjut hingga 2029 dengan target menjangkau 5.000 desa nelayan di Indonesia, termasuk di wilayah pulau-pulau kecil.",
+   "Menteri Trenggono mengatakan KNMP merupakan bagian dari unit usaha KDKMP yang salah satu perannya adalah menjadi pembeli tetap hasil tangkapan nelayan setempat. Ia menyebut tujuan ke depan adalah memastikan nelayan bisa melaut tanpa perlu memikirkan modal sendiri, karena infrastruktur pendukungnya sudah disiapkan pemerintah."
+  ],
+  "fotoAdegan": "Fishermen unloading fresh catch onto a small wooden boat dock in a coastal village, morning light, South Sulawesi coastline",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-gandeng-kemenkop-hingga-bp-bumn-kelola-kampung-nelayan-merah-putih-6B5V.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah di sini bukan soal bangunan baru, tapi soal siapa yang akan menjalankannya sehari-hari. Selama ini KKP yang membangun infrastruktur Kampung Nelayan Merah Putih, tapi lewat SKB ini pengelolaan hariannya dialihkan ke PT Agrinas Jaladri Nusantara, perusahaan milik negara, sambil menyiapkan koperasi desa setempat agar nantinya bisa mengambil alih sendiri. Yang terdampak langsung adalah nelayan di lokasi-lokasi itu, karena koperasi desa disebut akan menjadi pembeli tetap hasil tangkapan mereka, sehingga urusan modal melaut tidak lagi jadi beban pribadi nelayan. Arahnya terlihat jelas menuju perluasan cepat, dari 100 titik yang dibangun tahun ini ke 1.269 titik yang sedang berjalan, lalu 2.000 titik baru tahun depan, sampai target 5.000 desa nelayan pada 2029. Yang perlu dicermati adalah apakah pembentukan koperasi desa di titik-titik baru bisa mengejar kecepatan pembangunan fisiknya, karena dari 100 lokasi tahap awal, baru 65 yang disebut sudah masuk uji coba operasional.",
+  "imageV": "mugwf895"
+ },
+ {
+  "slug": "penerimaan-pajak-kalsel-tumbuh-29-72-persen-ke-rp8-57-t",
+  "category": "Makroekonomi",
+  "title": "Penerimaan Pajak Kalsel [Tumbuh] 29,72 Persen ke Rp8,57 T",
+  "deck": "Penerimaan pajak Kalimantan Selatan tumbuh 29,72 persen jadi Rp8,57 triliun hingga Agustus 2026, disokong lonjakan pajak transaksi dan sektor tambang.",
+  "image": "assets/img/penerimaan-pajak-kalsel-tumbuh-29-72-persen-ke-rp8-57-t.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T11:40:40.632Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/penerimaan-pajak-kalimantan-selatan-tumbuh-2972-persen-hingga-agustus-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "Kalimantan Selatan",
+   "Penerimaan Pajak",
+   "DJP",
+   "PPN"
+  ],
+  "body": [
+   "Realisasi penerimaan pajak Provinsi Kalimantan Selatan mencapai Rp8,57 triliun hingga 31 Agustus 2026, tumbuh 29,72 persen dibanding periode sama tahun lalu. Angka ini setara 56,50 persen dari target penerimaan tahun 2026 sebesar Rp15,16 triliun, sekaligus melampaui proyeksi penerimaan hingga Agustus yang diperkirakan sekitar Rp7,76 triliun. Data ini disampaikan Kantor Wilayah Direktorat Jenderal Pajak Kalimantan Selatan dan Tengah dalam forum koordinasi fiskal bersama Kementerian Keuangan Provinsi Kalimantan Selatan, di Banjarmasin, Jumat (25/9).",
+   "Pajak Pertambahan Nilai (PPN) Dalam Negeri, yaitu pajak yang dipungut dari transaksi jual beli barang dan jasa di dalam negeri, menjadi penyumbang terbesar dengan realisasi Rp3,02 triliun atau 35,21 persen dari total penerimaan. Setoran jenis pajak ini melonjak 246,41 persen dibanding tahun lalu. Penerimaan pajak penghasilan (PPh) Pasal 21 dari gaji karyawan tercatat Rp1,12 triliun, tumbuh 43,64 persen, sementara PPh Pasal 25/29 Badan, yakni pajak yang dipungut dari laba perusahaan, justru mengalami kontraksi 10,45 persen menjadi Rp1,90 triliun.",
+   "Dari sisi sektor usaha, pertambangan dan penggalian tetap menjadi penopang utama dengan kontribusi 23,91 persen dari total penerimaan dan pertumbuhan 146,60 persen dibanding tahun lalu. Sektor industri mencatat laju pertumbuhan tertinggi di antara sektor-sektor utama, sedangkan sektor perdagangan besar dan eceran masih mengalami kontraksi 13,90 persen.",
+   "Secara kewilayahan, KPP Madya Banjarmasin mencatat penerimaan terbesar sebesar Rp5,93 triliun dengan pertumbuhan 43,53 persen. Dari enam Kantor Pelayanan Pajak (KPP) di Kalimantan Selatan, lima di antaranya membukukan pertumbuhan positif, sementara KPP Pratama Banjarbaru masih mengalami kontraksi. Pertumbuhan penerimaan pajak ini sejalan dengan ekonomi Kalimantan Selatan yang tumbuh 5,28 persen dibanding tahun lalu pada triwulan II 2026, serta total pendapatan negara di provinsi ini yang mencapai Rp11,07 triliun, tumbuh 28,16 persen."
+  ],
+  "fotoAdegan": "A loaded coal barge being towed along a wide brown river in South Kalimantan, workers on deck, hazy morning light.",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2026-09/WhatsApp%20Image%202026-09-25%20at%2016.22.54.jpeg?itok=OGCom6cN",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah secara konkret bukan cuma jumlah penerimaan, tapi komposisinya: pajak atas transaksi jual beli barang dan jasa (PPN Dalam Negeri) melonjak 246,41 persen, sementara pajak dari laba perusahaan (PPh Badan) justru turun 10,45 persen. Yang paling terdampak adalah sektor pertambangan yang menyumbang hampir seperempat penerimaan dan tumbuh 146,60 persen, sementara pelaku usaha perdagangan mengalami kontraksi 13,90 persen dan KPP Pratama Banjarbaru jadi satu-satunya kantor pajak yang penerimaannya menyusut. Pola ini membuka dua kemungkinan arah: penerimaan yang membesar karena transaksi dan konsumsi memang tumbuh, atau karena efek dasar dari setoran tahun lalu yang rendah sehingga lonjakan ini tidak permanen, sementara laba perusahaan yang tercermin dari PPh Badan belum ikut naik. Realisasi yang baru mencapai 56,50 persen dari target tahunan pada bulan kedelapan berarti empat bulan tersisa harus mengejar sisa 43,50 persen, sehingga laporan realisasi akhir tahun dari Kanwil DJP Kalselteng akan jadi penentu apakah lonjakan PPN ini bertahan atau cuma dorongan sementara.",
+  "imageV": "mugwf9qp"
+ },
+ {
+  "slug": "kemendag-lepas-ekspor-arang-kelapa-1-560-ton-ke-china",
+  "category": "UMKM",
+  "title": "Kemendag Lepas Ekspor Arang Kelapa [1.560 Ton] ke China",
+  "deck": "Kemendag melepas ekspor 1.560 ton arang tempurung kelapa senilai Rp23 miliar ke China, dari UMKM binaan BINUS University yang kini menjadi kampus ke-25 program Campuspreneur.",
+  "image": "assets/img/kemendag-lepas-ekspor-arang-kelapa-1-560-ton-ke-china.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T11:40:07.434Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-gandeng-binus-university-masuk-campuspreneur-mendag-busan-25-perguruan-tinggi-telah-onboarding",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Campuspreneur",
+   "UMKM Ekspor",
+   "BINUS University",
+   "Kemendag"
+  ],
+  "body": [
+   "Kementerian Perdagangan menambah satu kampus lagi ke program Campuspreneur setelah BINUS University resmi bergabung pada Jumat (25/9), menjadikan total peserta program itu 25 perguruan tinggi. Di hari yang sama, Menteri Perdagangan Budi Santoso juga melepas ekspor arang tempurung kelapa dari salah satu UMKM binaan BINUS University ke China. Dua acara yang digabung dalam satu hari ini menunjukkan bagaimana Kemendag mencoba menghubungkan pelatihan wirausaha di kampus dengan transaksi ekspor yang benar-benar terjadi.",
+   "Bergabungnya BINUS ditandai penandatanganan nota kesepahaman antara Rektor BINUS University Nelly dan Sekretaris Jenderal Kemendag Isy Karim, disaksikan langsung oleh Menteri Perdagangan. Dalam acara yang sama, enam pelaku UMKM binaan BINUS University meneken kesepakatan awal (letter of intent) dengan peritel modern, lima di antaranya dengan Himpunan Peritel dan Penyewa Pusat Perbelanjaan Indonesia (HIPPINDO) dan satu dengan Asosiasi Pengusaha Ritel Indonesia (APRINDO). Kesepakatan ini membuka jalan bagi produk UMKM tersebut masuk ke jaringan toko ritel modern.",
+   "Ekspor yang dilepas Mendag Busan berupa 1.560 ton arang tempurung kelapa dalam 60 kontainer, senilai US$1,34 juta atau sekitar Rp23 miliar, dikirim ke China untuk diolah menjadi karbon aktif. Pengirimnya adalah FUTRA Export, UMKM binaan BINUS University yang pendirinya, Steven Magnus, pernah mengikuti program pelatihan ekspor Kemendag dan memanfaatkan fasilitas penjajakan bisnis serta bantuan perwakilan dagang di luar negeri untuk memvalidasi mitra usahanya.",
+   "Peserta terpilih Campuspreneur berkesempatan memamerkan produknya di Trade Expo Indonesia 2026 pada 14-18 Oktober di ICE BSD City, Tangerang, lewat stan khusus yang disediakan Kemendag. Program pendukung UMKM ekspor lain, BISA Ekspor, mencatat nilai fasilitasi US$346,99 juta pada Januari-Agustus 2026, sudah melampaui capaian sepanjang 2025 yang sebesar US$134,87 juta. Program ini berjalan lewat 46 kantor perwakilan perdagangan Indonesia di 33 negara yang mempertemukan UMKM dengan calon pembeli internasional."
+  ],
+  "fotoAdegan": "Workers stacking sacks of coconut charcoal beside open shipping containers at a busy Indonesian export port, daylight.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/59hIcbb599nWEeIWKlqybvTlcmPjMVE9PEwYiyaV.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah bukan cuma bertambahnya satu kampus mitra, tapi capaian UMKM BISA Ekspor yang sudah tembus US$346,99 juta dalam delapan bulan pertama 2026, lebih dari dua kali lipat capaian sepanjang 2025 yang cuma US$134,87 juta. Ini berarti kementerian sedang mencoba menambah jumlah pengusaha baru yang berani ekspor, bukan sekadar mendorong angka ekspor dari eksportir lama. Yang terdampak langsung adalah mahasiswa dan UMKM binaan kampus seperti BINUS, sementara jaringan ritel modern lewat HIPPINDO dan APRINDO jadi jalur baru bagi produk UMKM masuk toko sebelum berani ke pasar luar negeri. Arah ini mengarah ke perluasan basis eksportir baru lewat jalur kampus dan ritel domestik lebih dulu, ketimbang sekadar menambah volume ekspor pemain lama, dan Trade Expo Indonesia pada 14-18 Oktober 2026 akan jadi penanda apakah UMKM binaan kampus ini benar-benar naik kelas ke pembeli internasional atau berhenti di tahap pelatihan dan penandatanganan kerja sama.",
+  "imageV": "mugwflf2"
+ },
+ {
   "slug": "fifa-catatkan-obligasi-tahap-iv-rp2-5-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "FIFA catatkan obligasi tahap IV [Rp2,5 triliun] di BEI",
@@ -27,6 +139,33 @@ var ARTICLES = [
   "fotoAdegan": "Financing company branch counter with a staff member assisting a customer, motorbike keys and folders on the desk, daylight",
   "takeaway": "Penerbitan obligasi tahap IV ini tergolong netral bagi FIFA karena jumlah dan jadwalnya memang sudah direncanakan sejak program payung senilai Rp10 triliun diluncurkan pada 2025, dan peringkat AAA(idn) dari Fitch menunjukkan kualitas kredit perseroan tetap terjaga meski utangnya bertambah. Pos yang tersentuh adalah utang dan beban bunga perseroan, sebab pokok Rp2,5 triliun ini menambah kewajiban bayar bunga tetap 7,15 persen untuk Seri A dan 7,40 persen untuk Seri B setiap tiga bulan, tapi di sisi lain dana ini juga jadi modal segar yang bisa disalurkan FIFA sebagai pembiayaan konsumen, sesuai model bisnis perusahaan multifinance yang memang bergantung pada penerbitan surat utang untuk membiayai penyaluran kreditnya. Yang perlu dipantau berikutnya adalah realisasi pencatatan di BEI pada 28 September 2026, pembayaran kupon pertama pada 25 Desember 2026, serta jatuh tempo Seri A pada 5 Oktober 2027 dan Seri B pada 25 September 2029. Dengan tahap IV ini, total dana yang sudah dihimpun dari program Rp10 triliun mencapai Rp8 triliun, menyisakan sekitar Rp2 triliun untuk tahap berikutnya yang juga layak diikuti perkembangannya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "menkomdigi-kunjungi-telin-di-as-dorong-ekosistem-digital-global",
+  "category": "Teknologi",
+  "title": "Menkomdigi Kunjungi Telin di AS, Dorong Ekosistem Digital [Global]",
+  "deck": "Menkomdigi Meutya Hafid menyambangi kantor Telin, anak usaha Telkom, di Los Angeles untuk membahas perluasan konektivitas digital Indonesia ke pasar internasional.",
+  "image": "assets/img/menkomdigi-kunjungi-telin-di-as-dorong-ekosistem-digital-global.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:32:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469376-menkomdigi-kunjungi-kantor-telin-di-los-angeles-dorong-ekosistem-digital-indonesia-go-global",
+  "tags": [
+   "Telkom",
+   "Menkomdigi",
+   "Telin",
+   "Digital"
+  ],
+  "body": [
+   "Menteri Komunikasi dan Digital Meutya Hafid mengunjungi kantor operasional PT Telekomunikasi Indonesia International, atau Telin, di Los Angeles, Amerika Serikat. Telin adalah unit bisnis Telkom yang mengurus jaringan dan layanan telekomunikasi lintas negara. Kunjungan ini dilakukan untuk melihat langsung bagaimana Telin berperan menghubungkan infrastruktur konektivitas Indonesia dengan ekosistem digital dunia.",
+   "Dalam pertemuan tersebut, Meutya Hafid berdiskusi dengan CEO Telin Abdul Rahman Ansyori dan jajaran manajemen mengenai penguatan posisi perusahaan sebagai pemain konektivitas global. Topik yang dibahas mencakup pengembangan infrastruktur digital, perluasan kemitraan bisnis, serta peluang menghubungkan Indonesia dengan pusat ekonomi dan teknologi di berbagai negara.",
+   "Meutya Hafid menyampaikan bahwa Indonesia perlu terus terhubung dengan perkembangan ekosistem digital global dan mendorong perusahaan-perusahaan Indonesia untuk lebih hadir di pasar internasional. \"Indonesia tidak bisa berjalan sendiri di tengah perkembangan ekosistem digital global. Kita harus terus terhubung, membuka ruang kolaborasi, dan memastikan Indonesia menjadi bagian aktif dari perkembangan teknologi dunia. Karena itu, kami mendorong perusahaan-perusahaan Indonesia untuk semakin hadir di pasar global, membangun kemitraan strategis, serta membawa peluang, teknologi, dan investasi kembali ke Indonesia. Telin adalah salah satu contoh bagaimana perusahaan Indonesia dapat menjadi jembatan yang menghubungkan Indonesia dengan dunia,\" ujar Meutya Hafid.",
+   "Ansyori menjelaskan bahwa Telin kini mengubah fokus bisnisnya, dari sekadar menyediakan sambungan antar dua titik menjadi membangun koridor konektivitas yang lebih luas. Koridor ini dimaksudkan untuk menghubungkan bisnis, masyarakat, dan ekosistem digital di berbagai pasar melalui infrastruktur yang terintegrasi. \"Kami terus berkembang, dari sekadar menghubungkan titik menjadi menghubungkan koridor, sehingga menciptakan jembatan digital yang lebih kuat antara Indonesia dan dunia,\" kata Ansyori."
+  ],
+  "fotoAdegan": "Technicians in blue uniforms checking fiber-optic cable racks inside a telecommunications data center, indicator lights glowing softly",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/25/6ab64cb84003d-menteri-komunikasi-dan-digital-republik-indonesia-menkomdigi-meutya-hafid-tengah-bersama-ceo-telin-abdul-rahman-ansyori-kanan-di-kantor-telin-los-angeles-amerika-serikat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret dari kunjungan ini baru sebatas pertemuan dan pernyataan dukungan, belum ada angka investasi, proyek jaringan baru, atau target pasar tertentu yang disebutkan. Pihak yang jelas terdampak adalah Telin sendiri sebagai anak usaha Telkom yang bergerak di konektivitas internasional, karena posisinya sebagai penghubung ke pasar global itulah yang sedang didorong pemerintah. Arahnya tampak jelas, yaitu pemerintah ingin perusahaan telekomunikasi milik negara lebih aktif membangun jaringan dan kemitraan di luar negeri sambil membawa kembali teknologi dan investasi ke Indonesia. Yang belum bisa dipastikan adalah seberapa jauh dorongan ini akan berlanjut jadi komitmen nyata, misalnya rencana Telkom membiayai perluasan jaringan Telin di luar negeri atau kesepakatan kemitraan baru, dan itu biasanya baru terlihat lewat laporan keuangan Telkom atau pengumuman proyek infrastruktur berikutnya.",
+  "imageV": "mugwfluw"
  },
  {
   "slug": "prda-buyback-saham-naik-ke-1-44-per-25-september",
@@ -289,6 +428,86 @@ var ARTICLES = [
   "fotoAdegan": "Doctors and nurses walking through a modern private hospital lobby with a glass facade, soft afternoon light in Jakarta",
   "takeaway": "Laporan ini netral bagi kinerja SRAJ, sebab meski nilainya terbesar dari rangkaian empat laporan serupa pekan ini, transaksi ini pada dasarnya hanya memformalkan dana yang sudah lebih dulu mengalir ke KKS sebagai uang muka modal, bukan aliran kas baru, dan porsi kepemilikan SRAJ di KKS nyaris tidak berubah. Yang tersentuh adalah pos ekuitas anak usaha: modal ditempatkan dan disetor adalah dana riil yang tercatat sebagai modal sendiri perusahaan, dan kenaikannya dari Rp285,71 miliar menjadi Rp464,66 miliar membuat bantalan keuangan KKS lebih tebal serta mengurangi kebutuhannya berutang, meski tidak menambah kas segar bagi SRAJ sebagai induk. Karena nilainya di bawah ambang 20 persen ekuitas, transaksi ini tidak memerlukan persetujuan RUPS, sehingga yang perlu dicermati selanjutnya adalah laporan keuangan kuartal III 2026 SRAJ untuk melihat dampak konsolidasi dari rangkaian empat penambahan modal ini, sekaligus apakah pola formalisasi setoran modal semacam ini masih berlanjut ke anak usaha rumah sakit lain.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "telkom-gandeng-danantara-perkuat-keuangan-digital-ri",
+  "category": "Teknologi",
+  "title": "Telkom Gandeng Danantara [Perkuat] Keuangan Digital RI",
+  "deck": "Telkom Indonesia menjalin kerja sama dengan Danantara Indonesia dan menampilkan Telkom Solution di FEKDI & IFSE 2026 untuk mendukung ekosistem keuangan digital nasional.",
+  "image": "assets/img/telkom-gandeng-danantara-perkuat-keuangan-digital-ri.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:08:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469347-hadir-di-fekdi-x-ifse-2026-telkom-solution-dukung-ekosistem-ekonomi-dan-keuangan-digital-indonesia",
+  "tags": [
+   "Telkom",
+   "Danantara",
+   "FEKDI IFSE 2026",
+   "keuangan digital"
+  ],
+  "body": [
+   "PT Telkom Indonesia menjalin kerja sama dengan Danantara Indonesia, lembaga pengelola investasi negara yang menaungi sejumlah BUMN, untuk memperkuat ekosistem ekonomi dan keuangan digital di dalam negeri. Fokusnya adalah menggabungkan kapabilitas teknologi dan portofolio solusi digital milik kedua pihak agar layanan keuangan bisa lebih terhubung dan menjangkau lebih banyak wilayah.",
+   "Wujud nyata kerja sama ini terlihat lewat kehadiran Telkom Solution, jenama layanan ICT Telkom untuk segmen bisnis ke bisnis, dalam Festival Ekonomi Keuangan Digital Indonesia (FEKDI) dan Indonesia Fintech Summit & Expo (IFSE) 2026. Acara ini berlangsung di Jakarta International Convention Center pada 24 hingga 26 September 2026, dan Telkom Solution menawarkan layanan mulai dari konektivitas internet, cloud dan pusat data, aplikasi digital, keamanan siber, hingga solusi berbasis kecerdasan buatan.",
+   "Direktur IT Digital Telkom, Faizal Rochmad Djoemadi, menyampaikan bahwa pemerataan sistem keuangan digital membutuhkan fondasi teknologi yang terintegrasi dari hulu ke hilir. Menurutnya, Telkom ingin ambil bagian dalam membangun ekosistem keuangan digital yang lebih inklusif, aman, dan bisa berkembang seiring bertambahnya pengguna, sehingga layanan keuangan menjangkau masyarakat hingga ke pelosok Indonesia.",
+   "Bagi industri perbankan, solusi yang ditawarkan diklaim bisa mendorong efisiensi biaya operasional dan produktivitas layanan, sekaligus memperbaiki pengalaman nasabah. Sementara bagi nasabah, dukungan teknologi ini mencakup kemudahan membuka rekening lewat verifikasi identitas elektronik, transaksi pembayaran digital, dan pembuatan kode QRIS dengan pengamanan transaksi."
+  ],
+  "fotoAdegan": "Wide view of a modern data center corridor with server racks and blinking indicator lights, a technician walking past",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/25/6ab6393651bfc-telkom-solution-dukung-ekosistem-ekonomi-dan-keuangan-digital-indonesia-dengan-hadir-di-fekdi-x-ifse-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah di sini adalah statusnya: Telkom lewat jenama Telkom Solution resmi merapat sebagai mitra teknologi Danantara Indonesia, lembaga pengelola investasi negara yang menaungi BUMN, khusus untuk urusan infrastruktur digital di sektor keuangan. Pihak yang berpotensi terdampak adalah bank dan lembaga keuangan yang nantinya memakai layanan konektivitas, cloud, hingga keamanan siber dari Telkom, serta nasabah yang memakai layanan seperti pembukaan rekening online atau QRIS. Tapi berita ini belum menyebut nilai kerja sama, proyek spesifik yang akan digarap, atau jadwal implementasinya, jadi belum bisa dibaca apakah kolaborasi ini akan berlanjut jadi kontrak bisnis konkret atau berhenti sebagai unjuk kapabilitas di pameran. Yang perlu ditunggu adalah pengumuman proyek atau nilai kerja sama turunan setelah FEKDI & IFSE 2026 usai pada 26 September.",
+  "imageV": "mugwfmak"
+ },
+ {
+  "slug": "bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Perkuat [Livin' Merchant] untuk Pelaku Usaha",
+  "deck": "Bank Mandiri mengembangkan fitur pembayaran QRIS dan notifikasi suara di Livin' Merchant agar pelaku usaha lebih mudah mengelola transaksi dan penjualan.",
+  "image": "assets/img/bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:00:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469345-permudah-transaksi-pelaku-usaha-livin-merchant-dukung-pelaku-usaha-tumbuh-bersama-di-era-digital",
+  "tags": [
+   "Livin' Merchant",
+   "Bank Mandiri",
+   "UMKM",
+   "pembayaran digital"
+  ],
+  "body": [
+   "Bank Mandiri memperkuat aplikasi Livin' Merchant, layanan digital yang dirancang sebagai satu platform untuk mengurus seluruh kebutuhan transaksi pelaku usaha, mulai dari menerima pembayaran, mencatat penjualan, hingga mengelola stok dan katalog produk. Langkah ini merespons kebutuhan pelaku usaha yang setiap hari harus melayani pembayaran konsumen sekaligus menjaga arus kas agar modal usaha tetap berputar, pekerjaan yang selama ini banyak dilakukan secara manual.",
+   "Dari sisi pembayaran, Livin' Merchant kini melayani penerimaan uang lewat kode QR, baik yang bentuknya tetap (statis) maupun yang otomatis menyesuaikan nominal transaksi (dinamis). Aplikasi ini juga memberi notifikasi real-time berupa suara yang menyebutkan nilai transaksi begitu pembayaran masuk, sehingga pelaku usaha tidak perlu terus memantau layar untuk mengetahui ada pemasukan baru.",
+   "Senior Vice President Transaction Banking Retail Sales Bank Mandiri, Adhita Jona Warsito, mengatakan digitalisasi membuka peluang bagi pelaku usaha untuk menjalankan bisnis dengan cara yang lebih sederhana dan efisien. Karena itu, menurutnya, Bank Mandiri terus mengembangkan Livin' Merchant agar mengikuti kebutuhan usaha yang terus berubah, dengan tujuan menghadirkan solusi yang praktis dan mudah dipakai mulai dari penerimaan pembayaran hingga pengelolaan aktivitas penjualan."
+  ],
+  "fotoAdegan": "A small warung owner counting cash at a counter with a smartphone placed nearby, busy morning market scene, natural light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/25/6ab637b434903-permudah-transaksi-pelaku-usaha-livin-merchant-dukung-pelaku-usaha-tumbuh-bersama-di-era-digital_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah penguatan fitur, bukan produk baru: Livin' Merchant kini bisa menerima pembayaran lewat kode QR, baik yang dicetak tetap maupun yang dibuat otomatis sesuai nominal transaksi, dan memberi tahu pelaku usaha lewat suara begitu ada uang masuk. Yang terdampak jelas pelaku usaha, terutama pedagang kecil dan menengah yang selama ini mengandalkan pencatatan manual untuk penjualan dan stok. Berita ini tidak menyebutkan berapa banyak pelaku usaha yang sudah memakai Livin' Merchant atau seberapa besar nilai transaksi yang lewat aplikasi ini, jadi belum bisa dibaca apakah penguatan fitur ini benar mendorong lebih banyak usaha kecil beralih ke pembayaran digital atau sekadar pemutakhiran rutin. Yang perlu ditunggu adalah data jumlah pengguna atau volume transaksi Livin' Merchant, yang biasanya diungkap Bank Mandiri dalam laporan kinerja triwulanan berikutnya.",
+  "imageV": "mugwfmpq"
+ },
+ {
+  "slug": "bank-mandiri-dan-visa-dukung-hybrid-race-jakarta-2026",
+  "category": "Perbankan",
+  "title": "Bank Mandiri dan Visa Dukung [Hybrid Race] Jakarta 2026",
+  "deck": "Bank Mandiri dan Visa mendukung ajang lari-latihan kekuatan Hybrid Race 2026 yang digelar 20FIT pada 7-8 November di Jakarta Pusat, menyasar 1.435 peserta.",
+  "image": "assets/img/bank-mandiri-dan-visa-dukung-hybrid-race-jakarta-2026.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T15:54:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469341-delapan-stasiun-workout-menanti-bank-mandiri-dukung-livin-by-mandiri-visa-jakarta-hybrid-race-2026",
+  "tags": [
+   "bank mandiri",
+   "livin by mandiri",
+   "visa",
+   "hybrid race"
+  ],
+  "body": [
+   "Bank Mandiri bersama Visa memberikan dukungan untuk ajang lari kombinasi latihan kekuatan bertajuk Livin' by Mandiri Visa Jakarta Hybrid Race 2026. Kompetisi yang digelar operator kebugaran 20FIT ini berlangsung pada 7-8 November 2026 di 20FIT Arena, Menteng Prada, Jakarta Pusat. Dukungan ini menjadi bagian dari strategi Bank Mandiri mengikuti minat nasabah terhadap gaya hidup aktif, sekaligus memperkuat keterikatan pengguna aplikasi Livin' by Mandiri dan pemegang kartu Visa.",
+   "Format lomba memadukan lari sejauh 500 meter dengan satu stasiun latihan kekuatan, diulang hingga delapan kali putaran. Tantangan yang disiapkan meliputi sled push atau dorong beban, rowing atau mendayung, dan wall balls atau lempar bola ke dinding, sehingga bisa menjadi ajang persiapan bagi peserta yang berencana mengikuti kompetisi serupa di luar negeri. Peserta bisa memilih kategori Singles atau Doubles, ditambah Unbroken Wallball Challenge dan Hybrid Kids Training untuk anak usia 8 sampai 15 tahun.",
+   "Vice President Bank Mandiri Binsar Batara Halomoan Lubis mengatakan dukungan ini merupakan cara perseroan hadir dalam aktivitas yang relevan dengan gaya hidup nasabah perkotaan. Menurutnya, kolaborasi ini juga menghadirkan kemudahan pembelian tiket serta promo di ekosistem 20FIT bagi nasabah Livin' by Mandiri dan pengguna Visa. Panitia menargetkan 1.435 partisipan yang mencakup peserta latihan, peserta lomba, dan penonton, dengan rangkaian pemanasan bertajuk Road to Event Hybrid Training Series pada 10 dan 17 Oktober 2026 di 20FIT Arena.",
+   "Acara ini juga bertepatan dengan momentum HUT ke-28 Bank Mandiri pada 2 Oktober 2026 yang mengusung tema Tumbuh Bersama Majukan Indonesia. Tema tersebut mencerminkan pendekatan perseroan yang menautkan kegiatan gaya hidup nasabah dengan agenda korporasi, sekaligus menjadi bagian dari upaya mempertahankan loyalitas pengguna layanan digital banking di tengah persaingan sesama bank."
+  ],
+  "fotoAdegan": "Amateur athletes pushing weighted sleds and rowing machines at an outdoor urban fitness circuit station, Jakarta skyline in soft morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/25/6ab63568d9d9b-delapan-stasiun-workout-menanti-bank-mandiri-dukung-livin-by-mandiri-visa-jakarta-hybrid-race-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan soal bunga atau kebijakan makro, melainkan cara Bank Mandiri mendekati nasabahnya lewat aktivitas non-finansial: mereka jadi sponsor ajang lari dan latihan kekuatan yang digelar 20FIT, dengan target 1.435 peserta pada 7-8 November 2026 di Jakarta Pusat. Yang terdampak langsung adalah pengguna aplikasi Livin' by Mandiri dan pemegang kartu Visa Mandiri yang gemar olahraga, karena merekalah yang mendapat kemudahan tiket dan promo di ekosistem 20FIT. Pola ini menunjukkan bank semakin menautkan produk digitalnya dengan kegiatan gaya hidup sebagai cara mempertahankan nasabah, bukan sekadar kegiatan amal biasa, dan ini sejalan dengan tema ulang tahun ke-28 Bank Mandiri awal Oktober nanti. Yang akan menunjukkan apakah pendekatan ini berlanjut atau cuma acara sekali jalan adalah rangkaian pemanasan pada 10 dan 17 Oktober 2026, serta apakah target 1.435 peserta itu benar tercapai saat acara digelar awal November.",
+  "imageV": "mugwfna3"
  },
  {
   "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",

@@ -5,6 +5,78 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok",
+  "category": "Industri",
+  "title": "KKP Operasikan [33] Kapal di Arafura Lewat Kerja Sama Tiongkok",
+  "deck": "KKP mulai menjalankan kerja sama teknis dengan Tiongkok, menyiapkan 33 kapal ikan berbendera Indonesia beroperasi di perairan Arafura dengan target produksi 9.500 ton ikan per tahun.",
+  "date": "25 September 2026",
+  "image": "assets/img/kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok.jpg",
+  "imageV": "mugwf6b2",
+  "tags": [
+   "KKP",
+   "Tiongkok",
+   "perikanan tangkap",
+   "Arafura"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kerja-sama-dengan-tiongkok-kkp-dorong-produksi-perikanan-tangkap-dalam-negeri-5R5K.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "kkp-tunjuk-agrinas-kelola-1-269-kampung-nelayan-merah-putih",
+  "category": "BUMN",
+  "title": "KKP Tunjuk Agrinas Kelola [1.269] Kampung Nelayan Merah Putih",
+  "deck": "KKP, Kemenkop, Kemenkeu, dan BP BUMN teken kerja sama kelola Kampung Nelayan Merah Putih; PT Agrinas Jaladri Nusantara ditugaskan mengoperasikannya bersama koperasi desa.",
+  "date": "25 September 2026",
+  "image": "assets/img/kkp-tunjuk-agrinas-kelola-1-269-kampung-nelayan-merah-putih.jpg",
+  "imageV": "mugwf895",
+  "tags": [
+   "KKP",
+   "Kampung Nelayan Merah Putih",
+   "Koperasi Desa",
+   "Agrinas"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-gandeng-kemenkop-hingga-bp-bumn-kelola-kampung-nelayan-merah-putih-6B5V.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "penerimaan-pajak-kalsel-tumbuh-29-72-persen-ke-rp8-57-t",
+  "category": "Makroekonomi",
+  "title": "Penerimaan Pajak Kalsel [Tumbuh] 29,72 Persen ke Rp8,57 T",
+  "deck": "Penerimaan pajak Kalimantan Selatan tumbuh 29,72 persen jadi Rp8,57 triliun hingga Agustus 2026, disokong lonjakan pajak transaksi dan sektor tambang.",
+  "date": "25 September 2026",
+  "image": "assets/img/penerimaan-pajak-kalsel-tumbuh-29-72-persen-ke-rp8-57-t.jpg",
+  "imageV": "mugwf9qp",
+  "tags": [
+   "Kalimantan Selatan",
+   "Penerimaan Pajak",
+   "DJP",
+   "PPN"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/penerimaan-pajak-kalimantan-selatan-tumbuh-2972-persen-hingga-agustus-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "kemendag-lepas-ekspor-arang-kelapa-1-560-ton-ke-china",
+  "category": "UMKM",
+  "title": "Kemendag Lepas Ekspor Arang Kelapa [1.560 Ton] ke China",
+  "deck": "Kemendag melepas ekspor 1.560 ton arang tempurung kelapa senilai Rp23 miliar ke China, dari UMKM binaan BINUS University yang kini menjadi kampus ke-25 program Campuspreneur.",
+  "date": "25 September 2026",
+  "image": "assets/img/kemendag-lepas-ekspor-arang-kelapa-1-560-ton-ke-china.jpg",
+  "imageV": "mugwflf2",
+  "tags": [
+   "Campuspreneur",
+   "UMKM Ekspor",
+   "BINUS University",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-gandeng-binus-university-masuk-campuspreneur-mendag-busan-25-perguruan-tinggi-telah-onboarding",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "fifa-catatkan-obligasi-tahap-iv-rp2-5-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "FIFA catatkan obligasi tahap IV [Rp2,5 triliun] di BEI",
@@ -19,6 +91,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67ca2622c2_8e472fea32.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "menkomdigi-kunjungi-telin-di-as-dorong-ekosistem-digital-global",
+  "category": "Teknologi",
+  "title": "Menkomdigi Kunjungi Telin di AS, Dorong Ekosistem Digital [Global]",
+  "deck": "Menkomdigi Meutya Hafid menyambangi kantor Telin, anak usaha Telkom, di Los Angeles untuk membahas perluasan konektivitas digital Indonesia ke pasar internasional.",
+  "date": "25 September 2026",
+  "image": "assets/img/menkomdigi-kunjungi-telin-di-as-dorong-ekosistem-digital-global.jpg",
+  "imageV": "mugwfluw",
+  "tags": [
+   "Telkom",
+   "Menkomdigi",
+   "Telin",
+   "Digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469376-menkomdigi-kunjungi-kantor-telin-di-los-angeles-dorong-ekosistem-digital-indonesia-go-global"
  },
  {
   "slug": "prda-buyback-saham-naik-ke-1-44-per-25-september",
@@ -179,6 +268,57 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d340fa5331_0fa3fb7f03.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "telkom-gandeng-danantara-perkuat-keuangan-digital-ri",
+  "category": "Teknologi",
+  "title": "Telkom Gandeng Danantara [Perkuat] Keuangan Digital RI",
+  "deck": "Telkom Indonesia menjalin kerja sama dengan Danantara Indonesia dan menampilkan Telkom Solution di FEKDI & IFSE 2026 untuk mendukung ekosistem keuangan digital nasional.",
+  "date": "25 September 2026",
+  "image": "assets/img/telkom-gandeng-danantara-perkuat-keuangan-digital-ri.jpg",
+  "imageV": "mugwfmak",
+  "tags": [
+   "Telkom",
+   "Danantara",
+   "FEKDI IFSE 2026",
+   "keuangan digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469347-hadir-di-fekdi-x-ifse-2026-telkom-solution-dukung-ekosistem-ekonomi-dan-keuangan-digital-indonesia"
+ },
+ {
+  "slug": "bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Perkuat [Livin' Merchant] untuk Pelaku Usaha",
+  "deck": "Bank Mandiri mengembangkan fitur pembayaran QRIS dan notifikasi suara di Livin' Merchant agar pelaku usaha lebih mudah mengelola transaksi dan penjualan.",
+  "date": "25 September 2026",
+  "image": "assets/img/bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha.jpg",
+  "imageV": "mugwfmpq",
+  "tags": [
+   "Livin' Merchant",
+   "Bank Mandiri",
+   "UMKM",
+   "pembayaran digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469345-permudah-transaksi-pelaku-usaha-livin-merchant-dukung-pelaku-usaha-tumbuh-bersama-di-era-digital"
+ },
+ {
+  "slug": "bank-mandiri-dan-visa-dukung-hybrid-race-jakarta-2026",
+  "category": "Perbankan",
+  "title": "Bank Mandiri dan Visa Dukung [Hybrid Race] Jakarta 2026",
+  "deck": "Bank Mandiri dan Visa mendukung ajang lari-latihan kekuatan Hybrid Race 2026 yang digelar 20FIT pada 7-8 November di Jakarta Pusat, menyasar 1.435 peserta.",
+  "date": "25 September 2026",
+  "image": "assets/img/bank-mandiri-dan-visa-dukung-hybrid-race-jakarta-2026.jpg",
+  "imageV": "mugwfna3",
+  "tags": [
+   "bank mandiri",
+   "livin by mandiri",
+   "visa",
+   "hybrid race"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469341-delapan-stasiun-workout-menanti-bank-mandiri-dukung-livin-by-mandiri-visa-jakarta-hybrid-race-2026"
  },
  {
   "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",
@@ -6375,135 +6515,6 @@ var ARTICLES = [
    "perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260918194352-64403-0/FinancialStatement-2026-II-BBKP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "towr-direksi-lepas-88-5-saham-hak-suara-ke-0-02",
-  "category": "Aksi Korporasi",
-  "title": "TOWR: Direksi [Lepas] 88,5% Saham, Hak Suara ke 0,02%",
-  "deck": "Direksi TOWR Ferdinandus Aming Santoso menjual 96,99 juta saham pada 16 September 2026, memangkas 88,49 persen kepemilikannya dan menurunkan hak suara jadi 0,0213 persen.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "Sarana Menara Nusantara",
-   "divestasi saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-6018-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-catat-557-165-saham-baru-dari-mesop-tahap-i-iii",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Catat 557.165 [Saham] Baru dari MESOP Tahap I-III",
-  "deck": "BEI mencatat 557.165 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III, menambah total saham beredar menjadi 41,92 miliar lembar.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "MESOP",
-   "ESOP",
-   "saham baru"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eeb366a861_0d3855d10d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "towr-komisaris-divestasi-saham-senilai-rp3-4-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TOWR: Komisaris [Divestasi] Saham Senilai Rp3,4 Miliar",
-  "deck": "Komisaris TOWR Ario Wibisono melepas 7,86 juta saham tidak langsung senilai sekitar Rp3,4 miliar pada 16 September 2026, namun porsinya hanya 3,15 persen dari kepemilikannya sendiri.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "Sarana Menara Nusantara",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-8351-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnmp-listing-obligasi-dan-sukuk-rp2-59-triliun-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "PNMP [listing] obligasi dan sukuk Rp2,59 triliun di BEI",
-  "deck": "PNM mencatatkan obligasi dan sukuk baru senilai Rp2,59 triliun di BEI mulai 21 September 2026, bagian dari program dana berkelanjutan bertarget Rp16 triliun.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNMP",
-   "obligasi",
-   "sukuk",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5f1c2dc347_3598ffdd96.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "towr-komisaris-divestasi-100-saham-suara-nol",
-  "category": "Aksi Korporasi",
-  "title": "TOWR: Komisaris [Divestasi] 100% Saham, Suara Nol",
-  "deck": "Kenny Harjo, Komisaris Sarana Menara Nusantara, melepas seluruh 7.861.000 sahamnya di harga Rp437 per lembar pada 16 September 2026, hak suaranya jadi nol.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "Sarana Menara Nusantara",
-   "Kepemilikan Saham",
-   "Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-4128-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lpdb-koperasi-jemput-bola-danai-umkm-di-borobudur-expo",
-  "category": "UMKM",
-  "title": "LPDB Koperasi [Jemput Bola] Danai UMKM di Borobudur Expo",
-  "deck": "LPDB Koperasi membuka layanan konsultasi dana bergulir di Borobudur Expo 2026, 17-20 September, untuk mendekatkan akses pembiayaan bagi koperasi dan UMKM di kawasan Borobudur.",
-  "date": "18 September 2026",
-  "image": "assets/img/lpdb-koperasi-jemput-bola-danai-umkm-di-borobudur-expo.jpg",
-  "imageV": "mu70d10k",
-  "tags": [
-   "LPDB Koperasi",
-   "dana bergulir",
-   "Borobudur Expo",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/467925-menkop-dorong-koperasi-manfaatkan-dana-bergulir-lpdb-koperasi-jemput-bola-di-borobudur-expo-2026"
- },
- {
-  "slug": "jmas-ke-bursa-utang-klaim-rp11-24-miliar-tak-diakui",
-  "category": "Aksi Korporasi",
-  "title": "JMAS ke bursa: utang klaim Rp11,24 miliar [tak diakui]",
-  "deck": "Emiten asuransi syariah ini juga mengakui ada kesalahan pencatatan kas dan liabilitas polis dalam laporan keuangan September 2025, serta audit tahunan yang molor.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JMAS",
-   "asuransi syariah",
-   "laporan keuangan",
-   "utang klaim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0f238266bb_7d78828e74.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "admf-terbitkan-obligasi-rp1-65-triliun-dan-sukuk-rp500-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ADMF Terbitkan [Obligasi] Rp1,65 Triliun dan Sukuk Rp500 Miliar",
-  "deck": "Adira Dinamika Multi Finance menawarkan obligasi Rp1,65 triliun dan sukuk mudharabah Rp500 miliar tahap keempat 2026, dengan peringkat tertinggi idAAA dari Pefindo.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMF",
-   "obligasi",
-   "sukuk",
-   "Adira Finance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d50ad3c095_465fde6f47.pdf",
   "sourceLabel": "IDX"
  }
 ];

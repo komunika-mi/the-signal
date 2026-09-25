@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penebusan-pupuk-subsidi-tembus-69-dari-alokasi-2026",
+  "category": "BUMN",
+  "title": "Penebusan Pupuk Subsidi Tembus [69%] dari Alokasi 2026",
+  "deck": "Pupuk Indonesia melaporkan realisasi penebusan pupuk bersubsidi 6,77 juta ton, atau 69 persen dari alokasi 2026, sementara HET turun 20 persen sejak Oktober 2025.",
+  "date": "25 September 2026",
+  "image": "assets/img/penebusan-pupuk-subsidi-tembus-69-dari-alokasi-2026.jpg",
+  "imageV": "mugh752m",
+  "tags": [
+   "pupuk subsidi",
+   "Pupuk Indonesia",
+   "Hari Tani Nasional",
+   "HET pupuk"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/885/hari-tani-pupuk-indonesia-tegaskan-petani-sebagai-prioritas-lewat-pupuk-terjangkau-dan-mudah-diakses",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "harga-emas-antam-turun-ke-rp2-590-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] ke Rp2.590.000 per Gram",
+  "deck": "Harga emas Antam turun Rp15.000 menjadi Rp2.590.000 per gram, sementara harga buyback ikut turun ke Rp2.415.000 per gram.",
+  "date": "25 September 2026",
+  "image": "assets/img/harga-emas-antam-turun-ke-rp2-590-000-per-gram.jpg",
+  "imageV": "mugh75k9",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469278-harga-emas-antam-hari-ini-25-september-2026-rp2590000-per-gram-turun-rp15000"
+ },
+ {
   "slug": "dr-rhb-sekuritas-setop-market-making-waran-kendala-teknis",
   "category": "Aksi Korporasi",
   "title": "DR: RHB Sekuritas Setop [Market Making] Waran, Kendala Teknis",
@@ -6473,38 +6508,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb3646c0e2_c3c0dd7b89.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-nextier-jual-7-juta-saham-senilai-rp70-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MGLV: Nextier Jual [7 Juta] Saham Senilai Rp70 Miliar",
-  "deck": "PT Nextier Datamate Center melepas 7 juta saham MGLV secara tidak langsung dalam dua transaksi, menurunkan hak suaranya dari 63,07% menjadi 62,71%.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "Kepemilikan Saham",
-   "Nextier Datamate Center",
-   "Pasar Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-7714-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "doid-suntik-us-4-7-juta-ke-moura-via-buma-indonesia",
-  "category": "Aksi Korporasi",
-  "title": "DOID Suntik US$4,7 Juta ke [Moura] via BUMA Indonesia",
-  "deck": "BUMA Indonesia, anak usaha DOID, menambah modal US$4,7 juta ke Grup Moura Materials di Australia, transaksi intra-grup yang dikecualikan dari persetujuan RUPS.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOID",
-   "Transaksi Material",
-   "Moura Materials",
-   "BUMA Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/78d0e6e7cb_78062d1e82.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "penebusan-pupuk-subsidi-tembus-69-dari-alokasi-2026",
+  "category": "BUMN",
+  "title": "Penebusan Pupuk Subsidi Tembus [69%] dari Alokasi 2026",
+  "deck": "Pupuk Indonesia melaporkan realisasi penebusan pupuk bersubsidi 6,77 juta ton, atau 69 persen dari alokasi 2026, sementara HET turun 20 persen sejak Oktober 2025.",
+  "image": "assets/img/penebusan-pupuk-subsidi-tembus-69-dari-alokasi-2026.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T04:41:01.467Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/885/hari-tani-pupuk-indonesia-tegaskan-petani-sebagai-prioritas-lewat-pupuk-terjangkau-dan-mudah-diakses",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "pupuk subsidi",
+   "Pupuk Indonesia",
+   "Hari Tani Nasional",
+   "HET pupuk"
+  ],
+  "body": [
+   "PT Pupuk Indonesia (Persero) menyampaikan perkembangan penyaluran pupuk bersubsidi bertepatan dengan peringatan Hari Tani Nasional 2026, Rabu (24/9). Perusahaan mencatat realisasi penebusan pupuk bersubsidi telah mencapai 6,77 juta ton per 23 September 2026, atau setara 69 persen dari total alokasi yang ditetapkan untuk tahun ini. Angka ini menjadi ukuran seberapa jauh jatah pupuk subsidi tahun berjalan sudah terserap oleh petani.",
+   "Selain data penyaluran, perusahaan kembali menegaskan kebijakan penurunan Harga Eceran Tertinggi (HET) pupuk bersubsidi sebesar 20 persen yang sudah berlaku sejak Oktober 2025. Direktur Utama Pupuk Indonesia Rahmad Pribadi menyebut penurunan harga itu didukung oleh program revitalisasi pabrik yang berjalan bertahap untuk menekan biaya produksi. Untuk memantau stok dan penebusan hingga ke tingkat kios secara real-time, perusahaan menggunakan sistem digital i-Pubers dan Command Center.",
+   "Di sisi akses, proses penebusan pupuk bersubsidi disederhanakan sehingga petani cukup membawa kartu tanda penduduk (KTP) saat menebus jatahnya. Ketersediaan stok di daerah ditopang oleh jaringan logistik pelabuhan, kapal, dan gudang yang memungkinkan perusahaan memindahkan stok antarwilayah sesuai kebutuhan. Sejumlah petani yang ditampilkan perusahaan dalam siaran ini, di antaranya dari Karawang, Boyolali, Grobogan, dan Landak, mengaku proses penebusan kini lebih cepat dan harga pupuk lebih ringan menekan biaya usaha tani mereka.",
+   "Di luar urusan harga dan distribusi, Pupuk Indonesia juga menjalankan sejumlah program pendampingan petani seperti Agrosolution, Rembuk Tani, dan TAJUMASE, serta alat bantu teknis Precision Farming dan Mobil Uji Tanah untuk menentukan dosis pemupukan sesuai kondisi lahan. Program-program ini disebut perusahaan sebagai pelengkap dari urusan ketersediaan dan harga pupuk itu sendiri."
+  ],
+  "fotoAdegan": "Farmers loading sacks of subsidized fertilizer onto a small truck at a rural kiosk, green rice paddies stretching behind them, morning light.",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1849/conversions/WhatsApp-Image-2026-09-25-at-09.06.54-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang berubah secara konkret ada dua: realisasi penebusan pupuk bersubsidi sudah mencapai 6,77 juta ton atau 69 persen dari alokasi 2026 per 23 September, dan penurunan HET 20 persen yang sebenarnya sudah berjalan hampir setahun sejak Oktober 2025. Yang terdampak langsung adalah petani penerima pupuk bersubsidi, terutama yang mengandalkan penebusan cepat lewat KTP dan sistem i-Pubers menjelang masa tanam. Ke depan ada dua kemungkinan arah: jika penyerapan terus berjalan stabil, alokasi 2026 berpotensi habis terserap sebelum akhir tahun; tapi jika pola penyerapan pupuk memang musiman dan menumpuk di periode tanam tertentu, angka 69 persen di akhir September belum tentu bergerak lurus menuju 100 persen. Yang akan memperjelas mana skenario yang terjadi adalah laporan realisasi penyaluran pada kuartal terakhir 2026 atau data resmi Kementerian Pertanian soal serapan pupuk bersubsidi berbasis e-RDKK.",
+  "imageV": "mugh752m"
+ },
+ {
+  "slug": "harga-emas-antam-turun-ke-rp2-590-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] ke Rp2.590.000 per Gram",
+  "deck": "Harga emas Antam turun Rp15.000 menjadi Rp2.590.000 per gram, sementara harga buyback ikut turun ke Rp2.415.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-ke-rp2-590-000-per-gram.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T10:44:44+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469278-harga-emas-antam-hari-ini-25-september-2026-rp2590000-per-gram-turun-rp15000",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam turun Rp15.000 per gram pada hari ini, Kamis 25 September 2026, menjadi Rp2.590.000 per gram. Penurunan ini penting dipantau karena emas Antam menjadi acuan utama bagi masyarakat yang menyimpan emas fisik sebagai instrumen investasi maupun tabungan jangka panjang.",
+   "Berdasarkan pantauan di laman resmi Logam Mulia, harga kemarin tercatat Rp2.605.000 per gram sebelum turun ke level hari ini. Harga buyback, yaitu harga yang dibayarkan Antam saat masyarakat menjual kembali emas batangannya, juga ikut turun menjadi Rp2.415.000 per gram.",
+   "Selisih antara harga jual dan harga buyback saat ini sekitar Rp175.000 per gram. Artinya, siapa pun yang membeli emas hari ini lalu langsung menjualnya kembali ke Antam pada hari yang sama akan menanggung selisih sebesar itu per gram, di luar kemungkinan perubahan harga emas ke depan."
+  ],
+  "fotoAdegan": "Close-up of small gold bullion bars stacked on a velvet tray at a precious metals counter, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkret yang perlu dicatat adalah harga emas Antam turun Rp15.000 menjadi Rp2.590.000 per gram, dengan selisih jual-beli kembali sekitar Rp175.000 per gram. Yang terdampak langsung adalah masyarakat yang menyimpan emas Antam sebagai investasi maupun yang berencana membeli atau menjual emas fisik dalam waktu dekat. Harga emas Antam pada dasarnya mengikuti pergerakan harga emas dunia dan kurs dolar, sehingga naik turun Rp15.000 dalam sehari belum bisa dibaca sebagai tren yang mengarah ke satu arah tertentu. Yang masih kurang untuk memastikan arahnya adalah data pergerakan harga selama beberapa hari berturut-turut, termasuk perbandingan dengan pergerakan harga emas dunia pada periode yang sama.",
+  "imageV": "mugh75k9"
+ },
+ {
   "slug": "dr-rhb-sekuritas-setop-market-making-waran-kendala-teknis",
   "category": "Aksi Korporasi",
   "title": "DR: RHB Sekuritas Setop [Market Making] Waran, Kendala Teknis",

@@ -31,6 +31,57 @@ var ARTICLES = [
   "imageV": "muh80nw1"
  },
  {
+  "slug": "vktr-bukukan-laba-rp10-6-miliar-di-kuartal-i-siapkan-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Bukukan Laba Rp10,6 Miliar di Kuartal I, Siapkan [Rights Issue]",
+  "deck": "Laba bersih VKTR naik jadi Rp10,56 miliar pada kuartal I 2026 seiring penjualan melompat 58 persen, sebagai bagian syarat rencana rights issue.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T23:33:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925234616-64436-0/FinancialStatement-2026-I-VKTR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VKTR",
+  "tags": [
+   "VKTR",
+   "laporan keuangan",
+   "rights issue",
+   "kendaraan listrik"
+  ],
+  "body": [
+   "PT VKTR Teknologi Mobilitas Tbk menyampaikan koreksi atas laporan keuangan interim konsolidasian untuk periode tiga bulan yang berakhir 31 Maret 2026. Laporan ini diaudit oleh KAP Y. Santosa dan Rekan dengan partner penanggung jawab Tjiendradjaja Yamin, dan memperoleh opini wajar tanpa modifikasian. Perusahaan menyebut penyampaian laporan audit ini sebagai bagian dari pemenuhan persyaratan pelaksanaan Penawaran Umum dengan Hak Memesan Efek Terlebih Dahulu (rights issue). Surat pernyataan direksi ditandatangani Anindra Ardiansyah Bakrie selaku Direktur Utama dan Achmad Amri Aswono Putro selaku Direktur Keuangan pada 25 September 2026, sementara surat pengantar ke BEI ditandatangani Indah Permatasari Saugi selaku Direktur.",
+   "Dari sisi kinerja, penjualan neto kuartal I 2026 tercatat Rp344,99 miliar, naik dari Rp218,08 miliar pada periode yang sama tahun lalu. Laba usaha melonjak dari Rp2,26 miliar menjadi Rp20,89 miliar, dan laba neto konsolidasian naik dari Rp5,33 miliar menjadi Rp10,56 miliar. Namun laba yang menjadi hak pemegang saham pengendali atau pemilik entitas induk hanya naik tipis, dari Rp3,31 miliar menjadi Rp3,47 miliar, karena sebagian besar kenaikan laba yakni Rp7,09 miliar dinikmati oleh kepentingan nonpengendali di anak-anak usaha. Akibatnya laba per saham dasar maupun dilusian tetap di angka Rp0,08, sama seperti kuartal I 2025.",
+   "Di sisi neraca, total aset per 31 Maret 2026 naik 2,01 persen menjadi Rp1,83 triliun dari Rp1,80 triliun pada akhir Desember 2025, ditopang kenaikan kas dan setara kas menjadi Rp62,51 miliar serta piutang usaha pihak ketiga menjadi Rp237,45 miliar akibat kenaikan penjualan. Total liabilitas naik 3,69 persen menjadi Rp573,44 miliar, terutama karena penarikan pinjaman baru dari Bank MNC International Tbk dan Bank BCA yang membuat utang bank jangka pendek naik dari Rp88,50 miliar menjadi Rp113,14 miliar. Total ekuitas perusahaan naik tipis menjadi Rp1,26 triliun dari Rp1,25 triliun."
+  ],
+  "fotoAdegan": "Factory workers assembling an electric bus chassis on an industrial production line, welding sparks visible, Indonesia manufacturing plant.",
+  "takeaway": "Laporan ini condong positif bagi VKTR karena kinerja operasional membaik tajam, penjualan melompat 58 persen dan laba usaha naik hampir sepuluh kali lipat pada kuartal pertama 2026 dibanding periode yang sama tahun lalu. Yang perlu dicermati, laba yang benar-benar menjadi hak pemegang saham VKTR di bursa nyaris tidak bergerak dari Rp3,31 miliar ke Rp3,47 miliar, karena sebagian besar kenaikan laba dinikmati pemilik minoritas di anak usaha seperti PT VKTR Sakti Industries dan PT Braja Mukti Cakra, bagian yang secara akuntansi disebut kepentingan nonpengendali dan tidak ikut menambah laba per saham pemegang saham publik. Perusahaan juga menambah utang bank baru dari Bank MNC International dan Bank BCA yang mendorong total liabilitas naik 3,69 persen, wajar jika dipakai membiayai produksi tapi tetap menambah beban bunga ke depan. Yang perlu dipantau berikutnya adalah proses rights issue yang disebut sebagai alasan penyampaian laporan audit ini, karena begitu harga dan jadwal penerbitan saham barunya diumumkan, pemegang saham lama yang tidak ikut menyerap jatah barunya berpotensi kepemilikannya terdilusi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "winr-pemegang-saham-lepas-10-5-juta-saham-lagi-ke-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Lepas 10,5 Juta Saham Lagi ke [Free Float]",
+  "deck": "Pemegang saham non-direksi WINR kembali menjual 10,56 juta saham pada 22 September 2026, transaksi kelima dalam sepekan untuk menambah porsi saham free float.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T22:02:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-8338-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "OJK"
+  ],
+  "body": [
+   "PEMENANG NUSANTARA INTERNASIONAL, pemegang saham WINR yang bukan berasal dari jajaran direksi atau komisaris, melaporkan penjualan 10.560.300 saham PT Winner Nusantara Jaya Tbk (WINR) pada 22 September 2026 dengan harga Rp25 per saham, sehingga nilai transaksinya sekitar Rp264 juta. Saham yang dijual berstatus kepemilikan tidak langsung. Setelah transaksi ini, jumlah saham yang dipegang pelapor turun dari 2.424.664.400 unit menjadi 2.414.104.100 unit, sementara hak suaranya di WINR bergeser dari 46,31 persen menjadi 46,11 persen. Dalam laporan yang disampaikan ke OJK pada 25 September 2026 sesuai POJK 4/2024 itu, tujuan penjualan disebutkan untuk menambah porsi saham free float, yakni saham yang beredar bebas di pasar dan tidak dikuasai pemegang saham utama.",
+   "Transaksi ini adalah yang kelima dari rangkaian penjualan bertahap oleh pelapor yang sama sejak 19 September 2026. Berdasarkan laporan-laporan sebelumnya, pelapor melepas sekitar 31 juta saham pada 23 September dan 12 juta saham pada 22 September, dengan hak suara yang saat itu masih di atas 46 persen, serta 10 juta saham pada 20 September, di luar penjualan pertama pada 19 September yang membawa hak suaranya turun dari 47,72 persen. Dengan tambahan penjualan hari ini, hak suara pelapor di WINR sudah berkurang total sekitar 1,6 poin persentase dalam sepekan terakhir, dari 47,72 persen menjadi 46,11 persen, tanpa mengubah statusnya sebagai pemegang saham dengan porsi suara terbesar di perusahaan."
+  ],
+  "fotoAdegan": "Wide exterior shot of modern glass office towers in a Jakarta business district under bright midday sky, light street traffic below",
+  "takeaway": "Transaksi hari ini sendiri netral bagi WINR, sebab 10,56 juta saham yang dilepas cuma sekitar 0,44 persen dari kepemilikan pelapor dan hanya menggeser hak suaranya tipis dari 46,31 ke 46,11 persen, masih jauh dari ambang yang bisa mengubah status pengendaliannya. Yang tersentuh dari rangkaian penjualan ini adalah komposisi saham beredar bebas alias free float, yaitu porsi saham yang tidak dikuasai pemegang saham utama sehingga lebih leluasa diperjualbelikan investor publik; migrasi bertahap ke free float semacam ini biasa dibaca pasar sebagai upaya membuat saham lebih likuid. Yang perlu dipantau adalah apakah rangkaian penjualan lima kali dalam sepekan ini masih berlanjut di laporan-laporan berikutnya, dan seberapa jauh hak suara pelapor akan terus turun dari posisi 46,11 persen saat ini sebelum berhenti.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "spbu-pertama-khusus-petani-diresmikan-di-merauke",
   "category": "Energi",
   "title": "SPBU [Pertama] Khusus Petani Diresmikan di Merauke",
@@ -84,6 +135,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "towr-direksi-ferdinandus-borong-saham-usai-lepas-88",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Direksi Ferdinandus [Borong] Saham Usai Lepas 88%",
+  "deck": "Direksi Ferdinandus Aming Santoso membeli 2.577.300 saham TOWR seharga Rp388 per lembar, sepekan setelah melepas 88,49 persen kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T21:03:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-4963-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "kepemilikan saham",
+   "insider trading"
+  ],
+  "body": [
+   "Direktur Sarana Menara Nusantara Tbk (TOWR), Ferdinandus Aming Santoso, melaporkan pembelian 2.577.300 lembar saham biasa TOWR pada 25 September 2026 dengan harga Rp388 per saham. Transaksi berstatus kepemilikan tidak langsung ini disebutkan bertujuan investasi. Dengan pembelian tersebut, jumlah saham yang dimiliki Ferdinandus naik dari 12.613.281 lembar menjadi 15.190.581 lembar, atau bertambah sekitar 20,4 persen dari kepemilikannya sebelum transaksi.",
+   "Akibat penambahan itu, hak suara Ferdinandus di TOWR naik dari 0,0213 persen menjadi 0,0257 persen. Laporan ini muncul persis sepekan setelah Ferdinandus melaporkan pelepasan 88,49 persen dari seluruh sahamnya sendiri pada 18 September 2026, yang saat itu memangkas hak suaranya hingga mendekati nol. Pada periode yang sama, dua direksi TOWR lainnya, Indra Gunawan dan Anita Anwar, juga tercatat melepas mayoritas kepemilikan mereka, masing-masing 97,1 persen dan 99,99 persen, sementara komisaris Ario Wibisono melepas porsi kecil sahamnya senilai Rp3,4 miliar.",
+   "Dengan pembelian terbaru ini, Ferdinandus menjadi satu-satunya dari jajaran direksi yang melaporkan penambahan saham TOWR dalam sepekan terakhir, di tengah rentetan laporan pelepasan besar dari direksi lain."
+  ],
+  "fotoAdegan": "Telecommunication towers standing on a green hillside in Indonesia at dusk, a technician checking equipment near the base.",
+  "takeaway": "Laporan ini netral bagi TOWR, karena meski Ferdinandus membeli balik sahamnya, hak suaranya di perusahaan cuma naik dari 0,0213 persen menjadi 0,0257 persen, angka yang masih terlalu kecil untuk memengaruhi pengendalian atau kinerja saham TOWR secara keseluruhan. Yang tersentuh di sini murni catatan kepemilikan pribadi direksi, bukan jumlah saham beredar TOWR secara total, dan hak suara sendiri adalah persentase kekuatan seorang pemegang saham saat perusahaan mengambil keputusan lewat rapat pemegang saham. Pelaku pasar biasanya memperhatikan transaksi seperti ini karena pembelian oleh orang dalam kerap dibaca sebagai sinyal kepercayaan terhadap prospek perusahaan, apalagi setelah tiga direksi TOWR ramai-ramai melepas mayoritas saham mereka pekan lalu. Yang perlu dipantau selanjutnya adalah apakah direksi lain TOWR mengikuti pola membeli balik seperti Ferdinandus, atau apakah pelepasan saham oleh jajaran direksi justru berlanjut dalam laporan-laporan berikutnya ke Otoritas Jasa Keuangan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wika-pefindo-turunkan-peringkat-sukuk-ke-level-default",
   "category": "Aksi Korporasi",
   "title": "WIKA: PEFINDO Turunkan Peringkat Sukuk ke Level [Default]",
@@ -134,6 +211,84 @@ var ARTICLES = [
   "fotoAdegan": "Technicians in hard hats splicing fiber optic cables inside an underground telecom vault, cable trays and tools nearby, indoor lighting.",
   "takeaway": "Penjelasan ini condong positif untuk Indosat dalam jangka pendek karena berhasil memonetisasi sebagian bisnis serat optiknya dan langsung membukukan keuntungan Rp1,64 triliun, meski dampaknya hanya satu kali dan tidak mencerminkan perbaikan kinerja inti secara berkelanjutan. Keuntungan itu akan menambah laba bersih dan ekuitas Indosat pada periode pencatatannya, tapi pelaku pasar biasanya memisahkan pos semacam ini dari laba usaha reguler karena tidak akan berulang tahun depan. Sebaliknya, skema sewa balik atas aset serat optik yang sudah dilepas akan menambah beban sewa rutin ke laporan laba rugi Indosat ke depannya, sehingga sebagian dari keuntungan sekali catat ini bisa tergerus pelan-pelan oleh biaya baru tersebut. Indosat juga kini bukan lagi pemegang saham pengendali langsung dengan porsi terbesar di NFT maupun IFT, karena Investor menguasai 50,1% NFT sementara Indosat bersama Lintasarta hanya mengempit 49,9%, meski kepentingan ekonominya di bisnis serat optik pada dasarnya masih dipertahankan secara tidak langsung. Karena Indosat menegaskan tidak ada rencana aksi korporasi baru dalam 12 bulan ke depan, hal yang perlu dicermati selanjutnya adalah laporan keuangan kuartal mendatang, yang akan memperlihatkan besaran nyata beban sewa balik dan dampak hilangnya konsolidasi pendapatan IFT terhadap laba per saham Indosat.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "bnbr-pemegang-saham-levoca-divestasi-3-77-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "BNBR: Pemegang Saham Levoca [Divestasi] 3,77 Miliar Saham",
+  "deck": "Levoca Enterprise Ltd melepas 3,77 miliar saham BNBR senilai sekitar Rp268 miliar, memangkas hak suaranya dari 9,08% menjadi 7,64%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T19:50:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-9500-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNBR",
+  "tags": [
+   "BNBR",
+   "Bakrie & Brothers",
+   "kepemilikan saham",
+   "divestasi"
+  ],
+  "body": [
+   "Levoca Enterprise Ltd, pemegang saham asing yang bukan anggota direksi maupun dewan komisaris Bakrie & Brothers Tbk (BNBR), melaporkan kepada Otoritas Jasa Keuangan bahwa mereka telah menjual 3.773.584.904 lembar saham BNBR secara tidak langsung pada 23 September 2026. Harga transaksi tercatat Rp71 per saham dengan klasifikasi saham biasa, dan tujuan transaksi yang dicantumkan adalah divestasi.",
+   "Akibat penjualan ini, kepemilikan Levoca di BNBR turun dari 23.898.722.798 lembar menjadi 20.125.137.894 lembar, atau setara 15,79% dari saham yang mereka pegang sebelumnya. Hak suara Levoca di perusahaan pun turun dari 9,08% menjadi 7,64%. Dengan harga Rp71 per saham, nilai saham yang dilepas diperkirakan mencapai sekitar Rp267,9 miliar.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, tertanggal 25 September 2026 dengan nomor surat LK/25092026/0017/1. Dokumen tidak menyebutkan pihak pembeli saham tersebut."
+  ],
+  "fotoAdegan": "Workers inspecting large steel pipes stacked in an industrial manufacturing yard under overcast daylight, safety helmets visible.",
+  "takeaway": "Laporan ini condong negatif bagi BNBR karena pelepasan saham oleh Levoca Enterprise Ltd tergolong besar, bukan sekadar transaksi kecil yang bisa diabaikan pemegang saham lain. Yang tersentuh di sini bukan laporan keuangan BNBR sendiri, sebab uang hasil penjualan mengalir ke Levoca dan bukan ke kas perusahaan, melainkan peta kepemilikan saham: hak suara Levoca turun dari 9,08% menjadi 7,64%, yang berarti pengaruhnya dalam rapat pemegang saham mengecil dan saham yang beredar bebas di pasar berpotensi bertambah. Yang perlu dipantau adalah apakah Levoca akan terus mengurangi kepemilikannya lewat laporan susulan, karena aturan OJK mewajibkan pelaporan setiap kali terjadi perubahan kepemilikan saham perusahaan terbuka.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mpix-komisaris-divestasi-10-juta-saham-lepas-80-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "MPIX: Komisaris [Divestasi] 10 Juta Saham, Lepas 80% Kepemilikan",
+  "deck": "Komisaris MPIX Sahrul Akbariyansyah menjual 10 juta saham tidak langsung seharga Rp85 per lembar, kepemilikannya susut dari 12,5 juta jadi 2,5 juta saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T19:37:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-3895-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPIX",
+  "tags": [
+   "MPIX",
+   "komisaris",
+   "divestasi saham",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "PT Mitra Pedagang Indonesia Tbk (MPIX) melaporkan perubahan kepemilikan saham oleh anggota Dewan Komisarisnya, Sahrul Akbariyansyah, kepada Otoritas Jasa Keuangan pada 25 September 2026. Dalam laporan tersebut, Sahrul menjual 10.000.000 lembar saham MPIX yang dipegangnya secara tidak langsung, dengan tujuan transaksi yang tertulis sebagai divestasi.",
+   "Transaksi penjualan itu tercatat terjadi pada 23 September 2026 dengan harga Rp85 per saham, dengan klasifikasi saham biasa. Setelah transaksi, jumlah saham yang dipegang Sahrul turun dari 12.500.000 lembar menjadi 2.500.000 lembar, atau berkurang 80 persen dari kepemilikannya sebelum transaksi.",
+   "Sejalan dengan pengurangan itu, hak suara Sahrul di MPIX ikut turun dari 0,80 persen menjadi 0,16 persen dari total saham beredar perusahaan. Laporan ini terpisah dari keterbukaan MPIX sehari sebelumnya soal pinjaman Rp8 miliar untuk pembelian tanah, dan tidak menyebut kaitan antara keduanya."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's financial district skyscrapers at dusk, taxis and pedestrians crossing a busy intersection below",
+  "takeaway": "Laporan ini condong negatif secara terbatas: komisaris melepas 80 persen dari saham pribadinya dengan tujuan yang eksplisit ditulis sebagai divestasi, dan pelepasan sebesar itu terhadap kepemilikan sendiri biasanya dibaca pasar sebagai berkurangnya keyakinan orang dalam, meski dampaknya ke struktur pemegang saham MPIX secara keseluruhan kecil karena hak suaranya di perusahaan cuma turun dari 0,80 persen ke 0,16 persen dari total saham beredar. Yang tersentuh di sini hanya komposisi kepemilikan orang dalam, bukan jumlah total saham beredar MPIX, sehingga transaksi ini tidak mengubah ekuitas maupun laba per saham perusahaan, laba yang dibagi rata ke tiap lembar saham beredar. Yang perlu dipantau selanjutnya adalah apakah Sahrul atau anggota direksi dan komisaris lain MPIX menyusulkan laporan transaksi serupa, sebab pelepasan besar oleh satu orang dalam kerap jadi awal dari rangkaian transaksi terafiliasi, dan dokumen ini sendiri tidak menyebut agenda RUPS atau tenggat lain yang mengikutinya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mpix-direksi-divestasi-20-juta-saham-lepas-80-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "MPIX: Direksi [Divestasi] 20 Juta Saham, Lepas 80% Kepemilikan",
+  "deck": "Direksi MPIX Hendra Setiawan melepas 20 juta saham senilai sekitar Rp1,7 miliar pada 23 September 2026, hak suaranya turun dari 1,6% jadi 0,32%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T19:25:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-3252-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPIX",
+  "tags": [
+   "MPIX",
+   "divestasi saham",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Mitra Pedagang Indonesia Tbk (MPIX), Hendra Setiawan, melaporkan penjualan 20.000.000 saham perusahaan yang terjadi pada 23 September 2026, berdasarkan laporan kepemilikan saham yang disampaikan ke Otoritas Jasa Keuangan pada 25 September 2026. Kepemilikannya turun dari 25.000.000 lembar menjadi 5.000.000 lembar, atau setara 80 persen dari saham yang sebelumnya ia pegang. Transaksi dilakukan secara tidak langsung atas saham biasa dengan harga Rp85 per saham, sehingga total nilai penjualan mencapai sekitar Rp1,7 miliar. Tujuan transaksi tertulis dalam laporan sebagai divestasi.",
+   "Perubahan ini turut menggerus hak suara Hendra di MPIX, dari 1,5999 persen menjadi 0,32 persen. Laporan disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap anggota direksi maupun dewan komisaris melaporkan setiap perubahan kepemilikan saham di perusahaan tempatnya menjabat.",
+   "Laporan ini muncul sehari setelah salah satu komisaris MPIX juga melaporkan pelepasan 10 juta saham, atau 80 persen dari kepemilikannya, dengan tujuan yang sama-sama tertulis sebagai divestasi. Dalam sepekan terakhir, MPIX juga sempat menjawab pertanyaan bursa terkait pinjaman Rp8 miliar berbunga 16 persen untuk pembelian tanah."
+  ],
+  "fotoAdegan": "Wide dusk view of a modern Jakarta financial district office tower with reflective glass facade and blurred street traffic below",
+  "takeaway": "Laporan ini condong negatif meski dampaknya terbatas: Direksi Hendra Setiawan melepas 80 persen saham pribadinya di MPIX, sehari setelah komisaris perseroan melakukan pelepasan serupa, sehingga pola dua pengurus inti mengurangi kepemilikan dalam waktu berdekatan patut dicermati. Yang tersentuh adalah hak suara Hendra dalam rapat pemegang saham, yakni porsi pengaruhnya dibanding total saham beredar MPIX, yang turun dari 1,6 persen menjadi 0,32 persen, sementara jumlah saham beredar perusahaan sendiri tidak berubah karena ini jual beli antar pemegang saham, bukan penerbitan saham baru, sehingga laba per saham tidak terdilusi. Pelaku pasar tetap mencermati transaksi orang dalam semacam ini karena sering dibaca sebagai cerminan bagaimana pengurus menilai prospek perusahaannya sendiri. Yang perlu dipantau berikutnya adalah apakah direksi atau komisaris lain MPIX turut melaporkan pelepasan serupa dalam waktu dekat, dan apakah bursa akan meminta penjelasan resmi jika pola pengurangan kepemilikan pengurus ini berlanjut.",
+  "sentimen": "negatif"
  },
  {
   "slug": "nine-dirikan-anak-usaha-holding-modal-rp1-miliar",
@@ -461,6 +616,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "direksi-mdka-titien-supeno-terima-379-700-saham-dari-program-lti",
+  "category": "Aksi Korporasi",
+  "title": "Direksi MDKA Titien Supeno Terima 379.700 Saham dari Program [LTI]",
+  "deck": "Direksi MDKA Titien Supeno menambah kepemilikan 379.700 saham lewat pencairan program insentif jangka panjang, hak suaranya naik tipis dari 0,01% menjadi 0,012%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:11:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-1031-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKA",
+  "tags": [
+   "MDKA",
+   "kepemilikan saham",
+   "direksi",
+   "insentif saham"
+  ],
+  "body": [
+   "Titien Supeno, anggota Direksi PT Merdeka Copper Gold Tbk (MDKA), melaporkan perubahan kepemilikan sahamnya ke Otoritas Jasa Keuangan pada 25 September 2026. Sebelum transaksi ia memegang 2.502.800 saham MDKA, lalu bertambah 379.700 saham menjadi 2.882.500 saham setelah transaksi yang tercatat pada 23 September 2026.",
+   "Kepemilikan saham ini berstatus tidak langsung dengan jenis transaksi tercatat sebagai lainnya, dan harga yang tertulis dalam laporan sebesar Rp2.830 per saham berjenis saham biasa. Tujuan transaksi disebutkan sebagai pelaksanaan Program Insentif Jangka Panjang atau LTI Perseroan, yaitu skema pemberian saham kepada direksi sebagai bagian dari kompensasi, bukan pembelian di pasar terbuka.",
+   "Akibat penambahan ini, hak suara Titien Supeno di MDKA naik dari 0,01% menjadi 0,012%. Dibandingkan kepemilikannya sendiri sebelum transaksi, penambahan 379.700 saham ini setara dengan kenaikan sekitar 15,2%, meski secara keseluruhan porsinya terhadap total saham beredar MDKA tetap sangat kecil."
+  ],
+  "fotoAdegan": "Wide shot of an open-pit copper and gold mine with terraced roads and haul trucks, dusty daylight, distant hills",
+  "takeaway": "Netral, karena penambahan saham ini berasal dari pencairan program insentif direksi, bukan pembelian di pasar terbuka yang biasa dibaca sebagai sinyal keyakinan manajemen terhadap prospek perusahaan. Yang tersentuh di sini adalah jumlah saham beredar, sebab program insentif berbasis saham seperti LTI menambah saham baru untuk direksi dan karyawan, yang dalam skala besar bisa mengecilkan porsi kepemilikan dan laba per saham pemegang saham lain, meski dalam laporan ini dampaknya minim karena hak suara Titien Supeno cuma naik dari 0,01% menjadi 0,012%. Yang perlu dipantau adalah apakah anggota direksi MDKA lain turut mencairkan jatah LTI serupa dalam waktu dekat, karena jika terjadi berulang dan dalam jumlah besar barulah efek penambahan saham beredarnya jadi berarti bagi pemegang saham publik.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mknt-gelar-public-expose-insidentil-usai-pmthmetd-9-oktober",
   "category": "Aksi Korporasi",
   "title": "MKNT Gelar [Public Expose] Insidentil Usai PMTHMETD, 9 Oktober",
@@ -509,6 +690,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's central business district under midday sun, pedestrians walking past",
   "takeaway": "Laporan ini netral bagi ASPI, karena isinya baru sebatas undangan prosedural dan belum memuat satu pun angka kinerja keuangan yang bisa dinilai arahnya. Yang tersentuh di sini adalah keterbukaan informasi soal pergerakan harga saham, yakni ketika saham suatu emiten bergerak di luar kebiasaan pasar, bursa berwenang meminta perusahaan itu tampil di depan publik untuk menjelaskan penyebabnya, sehingga investor tidak menebak-nebak sendiri. Pelaku pasar baru bisa menilai dampaknya setelah mendengar penjelasan manajemen soal kinerja keuangan dan rencana bisnis dalam paparan itu sendiri. Yang perlu dipantau adalah pelaksanaan Public Expose pada Selasa, 29 September 2026 pukul 14.00 WIB, karena di situlah manajemen akan memaparkan data kinerja dan alasan di balik pergerakan harga sahamnya secara langsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdka-direksi-terima-664-400-saham-dari-program-lti",
+  "category": "Aksi Korporasi",
+  "title": "MDKA: Direksi [Terima] 664.400 Saham dari Program LTI",
+  "deck": "Direksi Albert Saputro menerima 664.400 saham MDKA lewat pelaksanaan program insentif jangka panjang pada 23 September 2026, menambah kepemilikannya menjadi 3,88 juta lembar saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:02:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-0467-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKA",
+  "tags": [
+   "MDKA",
+   "saham direksi",
+   "program insentif LTI",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Direksi PT Merdeka Copper Gold Tbk (MDKA), Albert Saputro, melaporkan penambahan kepemilikan saham perseroan kepada Otoritas Jasa Keuangan pada 25 September 2026. Sebelum transaksi ia memegang 3.215.600 lembar saham, dan setelah transaksi jumlahnya menjadi 3.880.000 lembar. Selisihnya, 664.400 lembar saham, diperoleh pada 23 September 2026 dengan harga Rp2.830 per saham melalui pelaksanaan program Insentif Jangka Panjang atau LTI milik perseroan, bukan dengan membeli di pasar terbuka.",
+   "Penambahan ini setara dengan kenaikan sekitar 20,66 persen dari jumlah saham yang sebelumnya dipegang Albert Saputro secara pribadi. Namun dari sisi hak suara di perusahaan, porsinya tetap sangat kecil, hanya naik dari 0,013 persen menjadi 0,016 persen dari total saham MDKA yang beredar.",
+   "Laporan ini menyusul laporan serupa dari direksi MDKA lainnya, Titien Supeno, yang pada hari yang sama juga melaporkan penerimaan 379.700 lembar saham dari program insentif jangka panjang yang sama. Dengan tambahan laporan Albert Saputro, total saham yang sudah dilepas perseroan lewat program LTI kepada kedua direksi ini tercatat 1.044.100 lembar."
+  ],
+  "fotoAdegan": "Workers in hard hats and safety vests standing near heavy machinery at a dusty open-pit copper and gold mine site",
+  "takeaway": "Laporan ini netral bagi MDKA, karena penambahan saham berasal dari pencairan program insentif direksi, bukan pembelian di pasar terbuka yang biasanya dibaca sebagai sinyal keyakinan manajemen terhadap harga saham perusahaan. Yang tersentuh di sini adalah jumlah saham beredar dan hak suara masing masing direksi. Program insentif jangka panjang seperti LTI adalah cara perusahaan memberi sebagian saham kepada direksi atau karyawan kunci sebagai imbalan, dengan tujuan mengikat mereka pada performa perusahaan dalam jangka panjang, dan pencairannya bisa menambah jumlah saham beredar sehingga laba per saham berpotensi sedikit terdilusi. Dengan dua laporan serupa pada hari yang sama dari dua direksi berbeda, totalnya sudah mencapai 1.044.100 lembar saham, dan yang perlu dipantau adalah apakah masih ada direksi atau komisaris MDKA lain yang akan melaporkan pencairan dari program insentif yang sama dalam waktu dekat.",
   "sentimen": "netral"
  },
  {
@@ -561,6 +768,31 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Financing company branch counter with a staff member assisting a customer, motorbike keys and folders on the desk, daylight",
   "takeaway": "Penerbitan obligasi tahap IV ini tergolong netral bagi FIFA karena jumlah dan jadwalnya memang sudah direncanakan sejak program payung senilai Rp10 triliun diluncurkan pada 2025, dan peringkat AAA(idn) dari Fitch menunjukkan kualitas kredit perseroan tetap terjaga meski utangnya bertambah. Pos yang tersentuh adalah utang dan beban bunga perseroan, sebab pokok Rp2,5 triliun ini menambah kewajiban bayar bunga tetap 7,15 persen untuk Seri A dan 7,40 persen untuk Seri B setiap tiga bulan, tapi di sisi lain dana ini juga jadi modal segar yang bisa disalurkan FIFA sebagai pembiayaan konsumen, sesuai model bisnis perusahaan multifinance yang memang bergantung pada penerbitan surat utang untuk membiayai penyaluran kreditnya. Yang perlu dipantau berikutnya adalah realisasi pencatatan di BEI pada 28 September 2026, pembayaran kupon pertama pada 25 Desember 2026, serta jatuh tempo Seri A pada 5 Oktober 2027 dan Seri B pada 25 September 2029. Dengan tahap IV ini, total dana yang sudah dihimpun dari program Rp10 triliun mencapai Rp8 triliun, menyisakan sekitar Rp2 triliun untuk tahap berikutnya yang juga layak diikuti perkembangannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mpro-tahir-lepas-2-5-juta-saham-senilai-rp30-miliar-jual",
+  "category": "Aksi Korporasi",
+  "title": "MPRO: TAHIR Lepas 2,5 Juta Saham Senilai Rp30 Miliar [Jual]",
+  "deck": "Pemegang saham TAHIR menjual 2,5 juta saham MPRO seharga Rp12.000 per saham, kepemilikannya turun tipis dari 10,49% menjadi 10,46%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:33:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-2462-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPRO",
+  "tags": [
+   "MPRO",
+   "kepemilikan saham",
+   "TAHIR",
+   "pasar modal"
+  ],
+  "body": [
+   "TAHIR, pemegang saham PT Maha Properti Indonesia Tbk (MPRO) yang bukan bagian dari direksi maupun dewan komisaris perusahaan, melaporkan penjualan 2.500.000 lembar saham biasa MPRO pada 22 September 2026. Transaksi dilakukan pada harga Rp12.000 per saham, sehingga total nilainya sekitar Rp30 miliar. Laporan ini disampaikan sesuai kewajiban POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka.",
+   "Sebelum transaksi, TAHIR memegang 1.042.820.263 lembar saham MPRO yang setara dengan 10,49 persen hak suara di perusahaan. Setelah penjualan, jumlah kepemilikannya berkurang menjadi 1.040.320.263 lembar dengan hak suara 10,46 persen. Selisih 2,5 juta lembar itu hanya sekitar 0,24 persen dari total saham yang sebelumnya dimiliki TAHIR."
+  ],
+  "fotoAdegan": "Aerial view of a high-rise residential apartment complex under construction in Jakarta, cranes visible, late afternoon light",
+  "takeaway": "Laporan ini netral bagi MPRO, sebab saham yang dilepas TAHIR cuma sekitar 0,24 persen dari kepemilikannya sebelumnya, terlalu kecil untuk dibaca sebagai sinyal perubahan sikap terhadap saham perusahaan. Yang tersentuh di sini hanya hak suara pribadi TAHIR, yang turun tipis dari 10,49 persen menjadi 10,46 persen, sementara jumlah total saham MPRO yang beredar di pasar tidak berubah karena ini transaksi jual beli antar pemegang saham, bukan penerbitan saham baru oleh perusahaan. Hak suara jadi perhatian pelaku pasar karena menunjukkan seberapa besar pengaruh seorang pemegang saham dalam rapat pemegang saham, tapi penurunan sekecil ini praktis tidak mengubah posisi TAHIR sebagai salah satu pemegang saham signifikan MPRO. Yang perlu dicermati selanjutnya adalah apakah TAHIR melanjutkan pelepasan saham di laporan-laporan berikutnya, karena pola penjualan berulang punya arti yang berbeda dibanding transaksi tunggal seperti ini.",
   "sentimen": "netral"
  },
  {
@@ -670,6 +902,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "mpro-tahir-lepas-37-juta-saham-hak-suara-ke-10-49",
+  "category": "Aksi Korporasi",
+  "title": "MPRO: TAHIR [Lepas] 37 Juta Saham, Hak Suara ke 10,49%",
+  "deck": "TAHIR melepas 37 juta saham MPRO senilai sekitar Rp444 miliar lewat repurchase agreement, hak suaranya turun dari 10,86 persen menjadi 10,49 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:19:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-6889-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPRO",
+  "tags": [
+   "MPRO",
+   "TAHIR",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "body": [
+   "PT Maha Properti Indonesia Tbk (MPRO) menerima laporan kepemilikan saham dari TAHIR, pemegang saham yang bukan anggota direksi maupun dewan komisaris perseroan. Berdasarkan laporan yang disampaikan ke Otoritas Jasa Keuangan pada 25 September 2026 sesuai POJK Nomor 4/2024, TAHIR menjual 37.000.000 lembar saham MPRO pada 18 September 2026 dengan harga Rp12.000 per saham, sehingga nilai transaksinya mencapai sekitar Rp444 miliar.",
+   "Penjualan ini mengurangi kepemilikan TAHIR dari 1.079.820.263 lembar saham menjadi 1.042.820.263 lembar saham, sedangkan hak suaranya di MPRO turun dari 10,86 persen menjadi 10,49 persen. Dalam formulir laporan, transaksi ini ditandai berstatus repurchase agreement, yakni penjualan saham yang disertai kesepakatan untuk membelinya kembali di kemudian hari, sehingga sifatnya berpotensi sementara dan bukan pelepasan permanen.",
+   "Laporan ini menyusul pengungkapan serupa pada hari yang sama, ketika TAHIR juga melaporkan penjualan 2,5 juta saham MPRO senilai sekitar Rp30 miliar. Dengan begitu, dalam sepekan terakhir TAHIR setidaknya sudah dua kali melaporkan pelepasan saham MPRO ke OJK. Laporan ini juga muncul sehari setelah MPRO mengoreksi laporan realisasi penggunaan dana hasil penawaran umum, di mana alokasi dana bergeser dari proyek Simprug Signature ke modal kerja operasional."
+  ],
+  "fotoAdegan": "Modern residential apartment towers under construction in Jakarta, cranes and scaffolding visible, late afternoon light.",
+  "takeaway": "Laporan ini condong negatif bagi MPRO, sebab penjualan 37 juta saham oleh TAHIR jauh di atas ukuran remah, menggerus hak suaranya dari 10,86 persen menjadi 10,49 persen, dan menjadi laporan pelepasan saham TAHIR yang kedua dalam sepekan, persis sehari setelah emiten mengoreksi realisasi dana IPO-nya ke arah yang juga negatif. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, bukan langsung kas atau laba perusahaan; hak suara menentukan seberapa besar pengaruh seseorang dalam keputusan RUPS seperti pemilihan direksi, sehingga penurunannya dicermati pelaku pasar sebagai indikasi berkurangnya keterlibatan pemegang saham besar. Perlu dicatat, transaksi ini berstatus repurchase agreement, semacam saham yang dijadikan jaminan dengan janji dibeli kembali, sehingga bisa jadi ini lebih mencerminkan kebutuhan likuiditas TAHIR ketimbang sinyal pelepasan permanen. Yang perlu dipantau selanjutnya adalah apakah TAHIR benar-benar menebus kembali saham yang dijual lewat repo ini, serta apakah muncul lagi laporan transaksi baru mengingat sudah dua kali laporan penjualan tercatat dalam sepekan terakhir.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dgwg-maybank-sekuritas-tambah-saham-ke-11-71-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "DGWG: Maybank Sekuritas Tambah Saham ke 11,71% via [Repo]",
+  "deck": "Maybank Sekuritas Indonesia melaporkan kepemilikan saham DGWG naik dari 7,73% menjadi 11,71% usai pencairan transaksi repo saham milik PT Agro Jaya Mandiri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:18:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-7641-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGWG",
+  "tags": [
+   "DGWG",
+   "kepemilikan saham",
+   "repo saham",
+   "Maybank Sekuritas"
+  ],
+  "body": [
+   "PT Delta Giri Wacana Tbk (DGWG) menerima laporan keterbukaan dari Maybank Sekuritas Indonesia yang mencatat perubahan kepemilikan saham perseroan per 24 September 2026. Sebelum transaksi, Maybank Sekuritas Indonesia memegang 454.545.455 saham DGWG atau setara 7,73% hak suara. Setelah transaksi, jumlah itu naik menjadi 688.920.455 saham atau 11,71% hak suara, bertambah 234.375.000 saham dari posisi sebelumnya.",
+   "Berdasarkan dokumen, transaksi ini berjenis Repurchase Agreement atau perjanjian jual beli kembali saham dengan janji dibeli ulang, dengan status kepemilikan tidak langsung melalui PT Agro Jaya Mandiri selaku pemilik langsung saham tersebut. Tujuan transaksi tertulis sebagai pencairan repo PT Agro Jaya Mandiri, yang berarti saham yang sebelumnya dijaminkan dalam skema repo tersebut kini diselesaikan dan berpindah pencatatan ke Maybank Sekuritas Indonesia. Dokumen tidak mencantumkan harga transaksi, dan pelapor tercatat bukan bagian dari jajaran direksi maupun komisaris DGWG.",
+   "Dengan tambahan ini, hak suara Maybank Sekuritas Indonesia di DGWG naik lebih dari 3,9 poin persentase dari posisi sebelumnya, menjadikannya salah satu pemegang saham dengan porsi signifikan di luar jajaran direksi dan komisaris perseroan."
+  ],
+  "fotoAdegan": "Financial district skyscrapers in Jakarta's business area reflecting morning sunlight, busy street with pedestrians below",
+  "takeaway": "Laporan ini netral bagi DGWG karena perubahannya murni soal siapa yang mencatatkan kepemilikan saham lewat penyelesaian transaksi repo, bukan aksi korporasi yang mengubah kas, utang, atau kinerja bisnis perusahaan. Yang tersentuh di sini adalah hak suara dan sebaran pemegang saham, bukan jumlah total saham beredar DGWG, laba per saham, ekuitas, atau arus kas perseroan, sebab saham yang berpindah adalah saham yang sudah beredar, bukan saham baru yang diterbitkan. Meski begitu, kenaikan porsi Maybank Sekuritas Indonesia dari 7,73% menjadi 11,71% hak suara membuatnya makin berpengaruh dalam pengambilan suara di rapat pemegang saham, karena porsi suara yang besar biasanya ikut menentukan keputusan penting seperti pemilihan direksi atau persetujuan aksi korporasi. Yang perlu dipantau berikutnya adalah apakah PT Agro Jaya Mandiri, selaku pemilik langsung yang sahamnya dicairkan dari skema repo pada 24 September 2026, masih menyisakan saham DGWG yang dijaminkan, serta apakah akan muncul laporan kepemilikan susulan jika porsi Maybank Sekuritas Indonesia kembali berubah melewati ambang keterbukaan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "supr-vto-protelindo-tersisa-25-saham-publik-jelang-tenggat",
   "category": "Aksi Korporasi",
   "title": "SUPR: [VTO] Protelindo Tersisa 25% Saham Publik Jelang Tenggat",
@@ -720,6 +1004,32 @@ var ARTICLES = [
   "fotoAdegan": "Warehouse workers stacking steel rebar bundles with a forklift nearby, overcast light through open bay doors",
   "takeaway": "Laporan ini condong negatif bagi pemegang saham MKNT, karena meski pendapatan melonjak akibat konsolidasi dua anak usaha baru, ekuitas perusahaan justru makin negatif dan rugi bersih melebar, tanda bahwa akuisisi ini belum memperbaiki fondasi keuangan perseroan. Yang tersentuh adalah ekuitas dan rugi per saham: ekuitas negatif berarti total utang perusahaan sudah melebihi total asetnya, sehingga secara teknis kewajiban belum sepenuhnya tertutup oleh kekayaan yang dimiliki, sementara rugi per saham yang melebar dari Rp0,48 jadi Rp0,75 menunjukkan setiap lembar saham menanggung kerugian yang makin besar. MKNT saat ini juga masih berstatus saham pemantauan khusus di bursa, sehingga pelaku pasar perlu mencermati apakah pemegang saham pengendali baru akan menyuntikkan modal untuk menutup defisiensi ekuitas ini, dan bagaimana kinerja CBS serta RUM yang baru dikonsolidasi akan terlihat pada laporan kuartal berikutnya.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "dgwg-agro-jaya-mandiri-lepas-saham-via-repo-ke-1-04",
+  "category": "Aksi Korporasi",
+  "title": "DGWG: Agro Jaya Mandiri Lepas Saham via [Repo], ke 1,04%",
+  "deck": "Agro Jaya Mandiri menjual 234.375.000 saham DGWG senilai sekitar Rp30 miliar lewat skema repo, memangkas hak suaranya dari 5,02% menjadi 1,04%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:04:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-8801-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGWG",
+  "tags": [
+   "DGWG",
+   "Delta Giri Wacana",
+   "repo saham",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "PT Delta Giri Wacana Tbk (DGWG) menerima laporan keterbukaan informasi dari pemegang sahamnya, Agro Jaya Mandiri, yang bukan berstatus direksi maupun komisaris perusahaan. Dalam laporan bernomor LK/25092026/0009/1 yang disampaikan ke Otoritas Jasa Keuangan pada 25 September 2026, kepemilikan Agro Jaya Mandiri di DGWG tercatat turun dari 295.454.545 lembar saham, setara 5,02% hak suara, menjadi 61.079.545 lembar saham atau 1,04% hak suara.",
+   "Penurunan itu terjadi lewat penjualan 234.375.000 lembar saham DGWG pada 24 September 2026 dengan harga Rp128 per saham, sehingga nilai transaksinya mencapai sekitar Rp30 miliar. Dokumen menyebut status transaksi ini sebagai repurchase agreement atau repo, dengan tujuan transaksi yang juga dicatat sebagai 'Repo'. Saham yang dijual berjenis saham biasa dan dimiliki secara langsung oleh Agro Jaya Mandiri.",
+   "Laporan tidak mencantumkan batas akhir periode pelaksanaan repo, sehingga belum jelas kapan saham itu berpotensi ditebus kembali oleh Agro Jaya Mandiri. Dengan penurunan ini, porsi kepemilikannya di DGWG turun jauh di bawah ambang 5% yang selama ini membuatnya wajib melapor sebagai pemegang saham signifikan."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's financial district skyscrapers at dusk, glass office towers reflecting the setting sun, distant traffic below.",
+  "takeaway": "Kami menilai laporan ini netral bagi DGWG, karena penurunan tajam kepemilikan Agro Jaya Mandiri bukan pelepasan saham biasa, melainkan lewat mekanisme repo, semacam pinjaman dengan saham sebagai jaminan yang lazimnya disertai janji dibeli kembali oleh pemilik asal di kemudian hari. Yang tersentuh dari transaksi ini adalah komposisi pemegang saham dan hak suara Agro Jaya Mandiri, bukan kas, utang, atau laba DGWG, sehingga jumlah saham beredar dan kinerja keuangan perusahaan tidak berubah oleh laporan ini. Pelaku pasar tetap perlu mencermati kelanjutannya, sebab dokumen ini tidak mencantumkan batas akhir periode pelaksanaan repo, sehingga belum ada kepastian kapan atau apakah Agro Jaya Mandiri akan menebus kembali sahamnya dan memulihkan hak suaranya ke atas 5%.",
+  "sentimen": "netral"
  },
  {
   "slug": "sraj-suntik-modal-rp37-9-miliar-ke-anak-usaha-rs",
@@ -905,6 +1215,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "cybr-direksi-asing-borong-saham-lagi-rp1-58-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi Asing [Borong] Saham Lagi Rp1,58 Miliar",
+  "deck": "Direktur ITSEC Asia, Patrick Rudolf Dannacher, menambah 3,07 juta saham senilai sekitar Rp1,58 miliar dalam empat hari, menaikkan hak suaranya jadi 0,743 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:44:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-2481-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direktur PT ITSEC Asia Tbk (CYBR) yang berkewarganegaraan asing, Patrick Rudolf Dannacher, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan bertambah dari 97.173.200 lembar menjadi 100.251.100 lembar. Penambahan itu setara 3.077.900 lembar saham, atau sekitar 3,17 persen dari saham yang sebelumnya sudah dia pegang. Akibat pembelian ini, hak suaranya di perusahaan naik tipis dari 0,72 persen menjadi 0,743 persen.",
+   "Berdasarkan rincian transaksi, pembelian dilakukan secara tidak langsung dalam beberapa tahap sepanjang 21 hingga 24 September 2026, dengan harga berkisar Rp505 sampai Rp535 per saham. Pada 21 September Dannacher membeli 731.400 saham, pada 22 September bertambah 1.153.300 saham, dan pada 24 September 1.193.200 saham lagi. Seluruh transaksi itu bernilai total sekitar Rp1,58 miliar, dengan tujuan yang seluruhnya dicatat sebagai investasi.",
+   "Laporan ini menyusul laporan serupa pekan sebelumnya, ketika direksi asing ITSEC Asia lainnya juga tercatat menambah saham senilai Rp370 juta pada 21 September 2026. Dengan pembelian terbaru ini, pola akumulasi saham oleh jajaran direksi asing perusahaan berlanjut, meski porsinya masih tergolong kecil dibandingkan total saham ITSEC Asia yang beredar."
+  ],
+  "fotoAdegan": "Cybersecurity analysts working intently at several blurred computer screens in a dim operations room, blue ambient lighting, Jakarta office interior.",
+  "takeaway": "Laporan ini condong positif bagi ITSEC Asia karena mencerminkan kelanjutan pola pembelian, bukan pelepasan, oleh direksinya dalam beberapa hari terakhir, senada dengan transaksi serupa dari direksi asing lain pekan sebelumnya. Yang tersentuh di sini adalah komposisi pemegang saham dan hak suara personal Dannacher, yang naik dari 0,72 persen menjadi 0,743 persen, bukan jumlah saham beredar perusahaan, karena pembelian ini terjadi di pasar sekunder sehingga tidak menambah total saham ITSEC Asia yang beredar. Meski begitu, kenaikan hak suara itu sendiri masih kecil dan belum mengubah peta kendali perusahaan. Yang perlu dipantau berikutnya adalah apakah pola pembelian oleh direksi asing ini berlanjut di laporan KSEI selanjutnya, karena dokumen kali ini tidak menyebutkan agenda korporasi baru seperti RUPS atau tenggat lain yang bisa mengubah arah sinyal ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "smar-siapkan-rp958-miliar-untuk-pelunasan-obligasi-jatuh-tempo",
   "category": "Aksi Korporasi",
   "title": "SMAR Siapkan Rp958 Miliar untuk [Pelunasan] Obligasi Jatuh Tempo",
@@ -928,6 +1264,31 @@ var ARTICLES = [
   "fotoAdegan": "Workers loading harvested palm oil fruit bunches onto a truck at a plantation collection point, tropical morning light",
   "takeaway": "Laporan ini condong positif bagi SMART karena menunjukkan perusahaan punya kas yang cukup untuk melunasi utang senilai Rp958 miliar tanpa harus mencari pinjaman baru atau menerbitkan obligasi pengganti. Pos yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar dari kas perusahaan, karena pembayaran sebesar ini akan mengurangi kas pada Oktober, dan beban bunga, yang akan berkurang setelah obligasi ini lunas karena perusahaan tidak lagi membayar bunga atas pokok yang sudah dilunasi. Yang perlu dipantau adalah realisasi pembayaran pada tanggal jatuh tempo 19 Oktober 2026, saat dana harus benar-benar masuk ke rekening PT Kustodian Sentral Efek Indonesia sesuai jadwal yang dijanjikan perseroan.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "mice-siwie-honoris-tambah-saham-300-ribu-lembar",
+  "category": "Aksi Korporasi",
+  "title": "MICE: Siwie Honoris [Tambah] Saham 300 Ribu Lembar",
+  "deck": "Siwie Honoris membeli 300.000 saham Multi Indocitra pada 24 September 2026, kepemilikannya naik jadi 1.369.100 lembar atau 0,2282 persen hak suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:13:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-5219-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MICE",
+  "tags": [
+   "MICE",
+   "Multi Indocitra",
+   "kepemilikan saham",
+   "OJK"
+  ],
+  "body": [
+   "Siwie Honoris, pemegang saham PT Multi Indocitra Tbk (MICE), melaporkan kepada Otoritas Jasa Keuangan bahwa dirinya membeli saham perusahaan tersebut dalam tiga transaksi terpisah pada 24 September 2026. Ketiga transaksi masing-masing sebesar 100.000 saham dengan harga berbeda, yaitu Rp510, Rp520, dan Rp515 per saham, sehingga total tambahan mencapai 300.000 saham. Pembelian dilakukan secara tidak langsung dan tujuan transaksi tercatat sebagai investasi dalam laporan yang disampaikan lewat sistem KSEI sesuai POJK Nomor 4/2024.",
+   "Dengan pembelian ini, kepemilikan Siwie Honoris di Multi Indocitra naik dari 1.069.100 lembar saham menjadi 1.369.100 lembar saham, bertambah 300.000 lembar atau sekitar 28 persen dari kepemilikannya sebelumnya. Porsi hak suaranya di perusahaan ikut naik dari 0,1782 persen menjadi 0,2282 persen. Siwie Honoris bukan anggota direksi maupun dewan komisaris Multi Indocitra, namun tetap wajib melaporkan perubahan kepemilikan karena sahamnya tercatat di sistem penyimpanan efek KSEI."
+  ],
+  "fotoAdegan": "Wide shot of a bright consumer goods retail aisle with neatly stocked shelves and a shopper browsing, soft indoor lighting",
+  "takeaway": "Penambahan saham oleh Siwie Honoris ini bersifat netral bagi Multi Indocitra, sebab meski naik 28 persen dari kepemilikannya sendiri, porsinya terhadap total saham beredar perusahaan masih sangat kecil, dari 0,18 persen menjadi 0,23 persen. Yang tersentuh di sini adalah hak suara, yaitu bobot suara seorang pemegang saham dalam rapat pemegang saham, karena kepemilikan yang lebih besar biasanya berarti pengaruh lebih besar dalam pengambilan keputusan perusahaan, tetapi 0,23 persen masih jauh dari cukup untuk memengaruhi keputusan apa pun sendirian. Pembelian ini juga tidak mengubah jumlah saham beredar Multi Indocitra maupun struktur pemegang saham pengendali, sehingga tidak berdampak langsung ke laba per saham atau arus kas perusahaan. Yang perlu dipantau adalah apakah Siwie Honoris melanjutkan pembelian serupa di laporan-laporan berikutnya, karena pola akumulasi bertahap semacam ini kadang mengarah ke perubahan porsi kepemilikan yang lebih berarti dalam jangka panjang.",
+  "sentimen": "netral"
  },
  {
   "slug": "telkom-gandeng-danantara-perkuat-keuangan-digital-ri",
@@ -1060,6 +1421,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan soal bunga atau kebijakan makro, melainkan cara Bank Mandiri mendekati nasabahnya lewat aktivitas non-finansial: mereka jadi sponsor ajang lari dan latihan kekuatan yang digelar 20FIT, dengan target 1.435 peserta pada 7-8 November 2026 di Jakarta Pusat. Yang terdampak langsung adalah pengguna aplikasi Livin' by Mandiri dan pemegang kartu Visa Mandiri yang gemar olahraga, karena merekalah yang mendapat kemudahan tiket dan promo di ekosistem 20FIT. Pola ini menunjukkan bank semakin menautkan produk digitalnya dengan kegiatan gaya hidup sebagai cara mempertahankan nasabah, bukan sekadar kegiatan amal biasa, dan ini sejalan dengan tema ulang tahun ke-28 Bank Mandiri awal Oktober nanti. Yang akan menunjukkan apakah pendekatan ini berlanjut atau cuma acara sekali jalan adalah rangkaian pemanasan pada 10 dan 17 Oktober 2026, serta apakah target 1.435 peserta itu benar tercapai saat acara digelar awal November.",
   "imageV": "mugwfna3"
+ },
+ {
+  "slug": "mice-buana-graha-utama-tambah-113-200-saham",
+  "category": "Aksi Korporasi",
+  "title": "MICE: Buana Graha Utama [Tambah] 113.200 Saham",
+  "deck": "Buana Graha Utama menambah 113.200 saham MICE lewat tiga transaksi pembelian tidak langsung pada 22-24 September 2026, hak suara naik tipis ke 48,6153%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T15:54:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-7449-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MICE",
+  "tags": [
+   "MICE",
+   "Multi Indocitra",
+   "kepemilikan saham",
+   "Buana Graha Utama"
+  ],
+  "body": [
+   "Buana Graha Utama, pemegang saham Multi Indocitra Tbk (MICE) yang bukan berasal dari jajaran direksi maupun komisaris, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menambah kepemilikan sahamnya di perusahaan tersebut. Sebelum transaksi, ia mengempit 291.578.518 lembar saham MICE atau setara 48,5964 persen hak suara. Setelah serangkaian pembelian, kepemilikannya naik menjadi 291.691.718 lembar, setara 48,6153 persen hak suara.",
+   "Penambahan itu berasal dari tiga transaksi pembelian tidak langsung dengan tujuan investasi. Pada 22 September 2026, dibeli 13.200 lembar saham biasa di harga Rp500 per lembar. Dua hari berikutnya, 24 September 2026, menyusul dua transaksi lagi masing-masing 50.000 lembar, satu di harga Rp498 dan satu lagi di harga Rp500 per lembar. Total keseluruhan penambahan mencapai 113.200 lembar saham.",
+   "Dengan tambahan ini, kepemilikan Buana Graha Utama di Multi Indocitra tetap berada di kisaran 48,6 persen hak suara, mendekati namun belum melewati ambang 50 persen yang biasanya menandai status pengendali mayoritas tunggal."
+  ],
+  "fotoAdegan": "Warehouse staff arranging boxed footwear on tall shelving racks, forklift nearby, bright industrial lighting",
+  "takeaway": "Penambahan saham ini tergolong netral bagi Multi Indocitra karena porsinya cuma 0,0388 persen dari kepemilikan Buana Graha Utama yang sudah mencapai 291,6 juta lembar, sehingga tidak mengubah peta kendali di perusahaan. Yang tersentuh di sini adalah hak suara pemegang saham utama, bukan pos di laporan keuangan seperti laba atau arus kas, sebab transaksi ini murni jual beli saham antarpemegang saham di pasar, bukan aksi korporasi yang menambah atau mengurangi modal perusahaan. Pelaku pasar tetap mencermati pergerakan pemegang saham besar semacam ini karena posisinya sudah mendekati level pengendalian mayoritas, meski kenaikan kali ini sangat tipis, dari 48,5964 persen menjadi 48,6153 persen. Yang perlu dipantau selanjutnya adalah apakah Buana Graha Utama terus menambah saham dalam waktu dekat hingga hak suaranya mendekati atau melewati ambang 50 persen, karena itu akan mengubah statusnya menjadi pengendali tunggal Multi Indocitra.",
+  "sentimen": "netral"
  },
  {
   "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",

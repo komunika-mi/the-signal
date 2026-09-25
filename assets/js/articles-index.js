@@ -23,6 +23,38 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "vktr-bukukan-laba-rp10-6-miliar-di-kuartal-i-siapkan-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Bukukan Laba Rp10,6 Miliar di Kuartal I, Siapkan [Rights Issue]",
+  "deck": "Laba bersih VKTR naik jadi Rp10,56 miliar pada kuartal I 2026 seiring penjualan melompat 58 persen, sebagai bagian syarat rencana rights issue.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VKTR",
+   "laporan keuangan",
+   "rights issue",
+   "kendaraan listrik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925234616-64436-0/FinancialStatement-2026-I-VKTR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "winr-pemegang-saham-lepas-10-5-juta-saham-lagi-ke-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Lepas 10,5 Juta Saham Lagi ke [Free Float]",
+  "deck": "Pemegang saham non-direksi WINR kembali menjual 10,56 juta saham pada 22 September 2026, transaksi kelima dalam sepekan untuk menambah porsi saham free float.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-8338-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "spbu-pertama-khusus-petani-diresmikan-di-merauke",
   "category": "Energi",
   "title": "SPBU [Pertama] Khusus Petani Diresmikan di Merauke",
@@ -56,6 +88,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "towr-direksi-ferdinandus-borong-saham-usai-lepas-88",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Direksi Ferdinandus [Borong] Saham Usai Lepas 88%",
+  "deck": "Direksi Ferdinandus Aming Santoso membeli 2.577.300 saham TOWR seharga Rp388 per lembar, sepekan setelah melepas 88,49 persen kepemilikannya.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "kepemilikan saham",
+   "insider trading"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-4963-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wika-pefindo-turunkan-peringkat-sukuk-ke-level-default",
   "category": "Aksi Korporasi",
   "title": "WIKA: PEFINDO Turunkan Peringkat Sukuk ke Level [Default]",
@@ -85,6 +133,54 @@ var ARTICLES = [
    "dekonsolidasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af63e96c9d_1c94142303.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnbr-pemegang-saham-levoca-divestasi-3-77-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "BNBR: Pemegang Saham Levoca [Divestasi] 3,77 Miliar Saham",
+  "deck": "Levoca Enterprise Ltd melepas 3,77 miliar saham BNBR senilai sekitar Rp268 miliar, memangkas hak suaranya dari 9,08% menjadi 7,64%.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNBR",
+   "Bakrie & Brothers",
+   "kepemilikan saham",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-9500-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpix-komisaris-divestasi-10-juta-saham-lepas-80-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "MPIX: Komisaris [Divestasi] 10 Juta Saham, Lepas 80% Kepemilikan",
+  "deck": "Komisaris MPIX Sahrul Akbariyansyah menjual 10 juta saham tidak langsung seharga Rp85 per lembar, kepemilikannya susut dari 12,5 juta jadi 2,5 juta saham.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPIX",
+   "komisaris",
+   "divestasi saham",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-3895-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpix-direksi-divestasi-20-juta-saham-lepas-80-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "MPIX: Direksi [Divestasi] 20 Juta Saham, Lepas 80% Kepemilikan",
+  "deck": "Direksi MPIX Hendra Setiawan melepas 20 juta saham senilai sekitar Rp1,7 miliar pada 23 September 2026, hak suaranya turun dari 1,6% jadi 0,32%.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPIX",
+   "divestasi saham",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-3252-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -288,6 +384,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "direksi-mdka-titien-supeno-terima-379-700-saham-dari-program-lti",
+  "category": "Aksi Korporasi",
+  "title": "Direksi MDKA Titien Supeno Terima 379.700 Saham dari Program [LTI]",
+  "deck": "Direksi MDKA Titien Supeno menambah kepemilikan 379.700 saham lewat pencairan program insentif jangka panjang, hak suaranya naik tipis dari 0,01% menjadi 0,012%.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKA",
+   "kepemilikan saham",
+   "direksi",
+   "insentif saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-1031-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mknt-gelar-public-expose-insidentil-usai-pmthmetd-9-oktober",
   "category": "Aksi Korporasi",
   "title": "MKNT Gelar [Public Expose] Insidentil Usai PMTHMETD, 9 Oktober",
@@ -320,6 +432,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "mdka-direksi-terima-664-400-saham-dari-program-lti",
+  "category": "Aksi Korporasi",
+  "title": "MDKA: Direksi [Terima] 664.400 Saham dari Program LTI",
+  "deck": "Direksi Albert Saputro menerima 664.400 saham MDKA lewat pelaksanaan program insentif jangka panjang pada 23 September 2026, menambah kepemilikannya menjadi 3,88 juta lembar saham.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKA",
+   "saham direksi",
+   "program insentif LTI",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-0467-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tufi-lunasi-obligasi-rp804-miliar-jatuh-tempo-27-september",
   "category": "Aksi Korporasi",
   "title": "TUFI Lunasi Obligasi [Rp804 Miliar] Jatuh Tempo 27 September",
@@ -349,6 +477,22 @@ var ARTICLES = [
    "pembiayaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67ca2622c2_8e472fea32.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpro-tahir-lepas-2-5-juta-saham-senilai-rp30-miliar-jual",
+  "category": "Aksi Korporasi",
+  "title": "MPRO: TAHIR Lepas 2,5 Juta Saham Senilai Rp30 Miliar [Jual]",
+  "deck": "Pemegang saham TAHIR menjual 2,5 juta saham MPRO seharga Rp12.000 per saham, kepemilikannya turun tipis dari 10,49% menjadi 10,46%.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPRO",
+   "kepemilikan saham",
+   "TAHIR",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-2462-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -417,6 +561,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "mpro-tahir-lepas-37-juta-saham-hak-suara-ke-10-49",
+  "category": "Aksi Korporasi",
+  "title": "MPRO: TAHIR [Lepas] 37 Juta Saham, Hak Suara ke 10,49%",
+  "deck": "TAHIR melepas 37 juta saham MPRO senilai sekitar Rp444 miliar lewat repurchase agreement, hak suaranya turun dari 10,86 persen menjadi 10,49 persen.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPRO",
+   "TAHIR",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-6889-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgwg-maybank-sekuritas-tambah-saham-ke-11-71-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "DGWG: Maybank Sekuritas Tambah Saham ke 11,71% via [Repo]",
+  "deck": "Maybank Sekuritas Indonesia melaporkan kepemilikan saham DGWG naik dari 7,73% menjadi 11,71% usai pencairan transaksi repo saham milik PT Agro Jaya Mandiri.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGWG",
+   "kepemilikan saham",
+   "repo saham",
+   "Maybank Sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-7641-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "supr-vto-protelindo-tersisa-25-saham-publik-jelang-tenggat",
   "category": "Aksi Korporasi",
   "title": "SUPR: [VTO] Protelindo Tersisa 25% Saham Publik Jelang Tenggat",
@@ -446,6 +622,22 @@ var ARTICLES = [
    "akuisisi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925172803-64366-0/FinancialStatement-2026-II-MKNT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgwg-agro-jaya-mandiri-lepas-saham-via-repo-ke-1-04",
+  "category": "Aksi Korporasi",
+  "title": "DGWG: Agro Jaya Mandiri Lepas Saham via [Repo], ke 1,04%",
+  "deck": "Agro Jaya Mandiri menjual 234.375.000 saham DGWG senilai sekitar Rp30 miliar lewat skema repo, memangkas hak suaranya dari 5,02% menjadi 1,04%.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGWG",
+   "Delta Giri Wacana",
+   "repo saham",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-8801-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -561,6 +753,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cybr-direksi-asing-borong-saham-lagi-rp1-58-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi Asing [Borong] Saham Lagi Rp1,58 Miliar",
+  "deck": "Direktur ITSEC Asia, Patrick Rudolf Dannacher, menambah 3,07 juta saham senilai sekitar Rp1,58 miliar dalam empat hari, menaikkan hak suaranya jadi 0,743 persen.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-2481-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smar-siapkan-rp958-miliar-untuk-pelunasan-obligasi-jatuh-tempo",
   "category": "Aksi Korporasi",
   "title": "SMAR Siapkan Rp958 Miliar untuk [Pelunasan] Obligasi Jatuh Tempo",
@@ -574,6 +782,22 @@ var ARTICLES = [
    "likuiditas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0baf0398d7_9a5850854a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mice-siwie-honoris-tambah-saham-300-ribu-lembar",
+  "category": "Aksi Korporasi",
+  "title": "MICE: Siwie Honoris [Tambah] Saham 300 Ribu Lembar",
+  "deck": "Siwie Honoris membeli 300.000 saham Multi Indocitra pada 24 September 2026, kepemilikannya naik jadi 1.369.100 lembar atau 0,2282 persen hak suara.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MICE",
+   "Multi Indocitra",
+   "kepemilikan saham",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-5219-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -658,6 +882,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469341-delapan-stasiun-workout-menanti-bank-mandiri-dukung-livin-by-mandiri-visa-jakarta-hybrid-race-2026"
+ },
+ {
+  "slug": "mice-buana-graha-utama-tambah-113-200-saham",
+  "category": "Aksi Korporasi",
+  "title": "MICE: Buana Graha Utama [Tambah] 113.200 Saham",
+  "deck": "Buana Graha Utama menambah 113.200 saham MICE lewat tiga transaksi pembelian tidak langsung pada 22-24 September 2026, hak suara naik tipis ke 48,6153%.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MICE",
+   "Multi Indocitra",
+   "kepemilikan saham",
+   "Buana Graha Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-7449-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",
@@ -6277,247 +6517,6 @@ var ARTICLES = [
    "laba bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-27b08954-b399-455f-935a-fbb0531529f9-1/FinancialStatement-2024-Tahunan-MTWI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dummypoc-masuk-papan-pemantauan-khusus-akibat-likuiditas-rendah",
-  "category": "Aksi Korporasi",
-  "title": "DUMMYPOC Masuk Papan [Pemantauan Khusus] Akibat Likuiditas Rendah",
-  "deck": "Bursa Efek Indonesia menempatkan saham berkode DUMMYPOC di papan pemantauan khusus mulai 19 September 2026 karena tidak memenuhi syarat free float dan likuiditas transaksi yang rendah.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DUMMYPOC",
-   "pemantauan khusus",
-   "BEI",
-   "likuiditas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_DUMMYPOC_B031_43f9299e-7886-4634-9629-8e1bbf320d9e-20260919153827.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-bima-disetop-sementara-usai-mogok-karyawan",
-  "category": "Aksi Korporasi",
-  "title": "Saham BIMA Disetop Sementara Usai [Mogok] Karyawan",
-  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham Primarindo Asia Infrastructure (BIMA) mulai 19 September 2026 akibat pemogokan karyawan, berlaku di seluruh pasar sejak sesi pra-pembukaan.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIMA",
-   "Primarindo Asia Infrastructure",
-   "suspensi saham",
-   "mogok karyawan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_BIMA_B007_8775acbf-6af4-4ad0-9f66-3f5adced629d-20260919151736.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-ubah-lorong-padat-jadi-kebun-sayur-lewat-agro-urban-madani",
-  "category": "UMKM",
-  "title": "PNM Ubah Lorong Padat Jadi Kebun Sayur Lewat [Agro Urban Madani]",
-  "deck": "PNM memanfaatkan lorong dan gang di kawasan padat penduduk untuk budidaya sayur hidroponik, memberdayakan nasabah Mekaar demi ketahanan pangan keluarga.",
-  "date": "19 September 2026",
-  "image": "assets/img/pnm-ubah-lorong-padat-jadi-kebun-sayur-lewat-agro-urban-madani.jpg",
-  "imageV": "mu8523oj",
-  "tags": [
-   "PNM",
-   "Agro Urban Madani",
-   "Mekaar",
-   "ketahanan pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468061-pnm-sulap-lorong-kota-menjadi-sumber-pangan-lewat-program-agro-urban-madani"
- },
- {
-  "slug": "mknt-ganti-seluruh-direksi-dan-komisaris-usai-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Ganti Seluruh [Direksi] dan Komisaris Usai RUPSLB",
-  "deck": "RUPSLB MKNT menyetujui pengunduran seluruh direksi dan komisaris lama, sekaligus mengangkat Santoso Widjojo sebagai Direktur Utama dan Handoyo Setiawan sebagai Komisaris Utama.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "perubahan pengurus",
-   "RUPSLB",
-   "direksi dan komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cfe8014c6_aeafdcc36f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-obligasi-hijau-rp21-8-miliar-delisting-2027",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Obligasi Hijau Rp21,8 Miliar [Delisting] 2027",
-  "deck": "PT Arkora Hydro Tbk (ARKO) mengumumkan seri obligasi hijau senilai Rp21,8 miliar akan berhenti diperdagangkan di bursa mulai 18 September 2027, menjelang jatuh tempo 8 Agustus 2028.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "obligasi hijau",
-   "jatuh tempo obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_ARKO_B012_bf57994d-fb5f-4a62-abb8-0c57f3a9e278-20260919174934.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kaef-gelar-rups-bahas-dividen-hingga-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "KAEF Gelar RUPS, Bahas [Dividen] hingga Saham Baru",
-  "deck": "Kimia Farma mengumumkan agenda RUPS Tahunan, Luar Biasa, dan Independen pada 19 September 2026, mencakup dividen, perubahan direksi, dan penambahan modal tanpa hak memesan efek terlebih dahulu.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KAEF",
-   "Kimia Farma",
-   "RUPS",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_KAEF_E049_cfc81ddd-e707-460f-a2ef-224bed423710-20260919130430.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "winr-pemegang-saham-besar-jual-saham-demi-tambah-free-float",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemegang Saham Besar Jual Saham demi Tambah [Free Float]",
-  "deck": "Pemenang Nusantara Internasional melepas 20,7 juta saham WINR senilai sekitar Rp562 juta pada 15 September 2026, menurunkan hak suaranya dari 47,72 persen menjadi 47,33 persen.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "kepemilikan saham",
-   "free float",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19092026-7762-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-delisting-etf-xbig-efektif-21-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "BEI Delisting [ETF] XBIG Efektif 21 September 2026",
-  "deck": "Bursa Efek Indonesia menghapus pencatatan ETF XBIG mulai 21 September 2026, hanya dua hari sejak pengumuman, karena permasalahan material di manajer investasi atau bank kustodian.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XBIG",
-   "delisting",
-   "ETF",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_XBIG_B006_de5c7661-e25c-40cb-b037-cc82961b1356-20260919112559.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "testdire03-delisting-dari-bei-efektif-28-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "TESTDIRE03 [Delisting] dari BEI efektif 28 September 2026",
-  "deck": "Bursa Efek Indonesia menghapus pencatatan DIRE TESTDIRE03 karena memenuhi kondisi pembubaran sesuai aturan OJK tentang DIRE berbentuk KIK, efektif 28 September 2026.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TESTDIRE03",
-   "delisting",
-   "DIRE",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_TESTDIRE03_B006_d7cec0a8-78ec-4fd8-b998-fc9ad1d102b6-20260919112332.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-tunjuk-ulang-direktur-utama-lewat-rups",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Tunjuk Ulang Direktur Utama Lewat [RUPS]",
-  "deck": "RUPS ARKO pada 10 September 2026 mengangkat kembali Aldo Henry Artoko sebagai Direktur Utama dan Arya Pradana Setidadharma sebagai Komisaris Utama, masa jabatan hingga 2032.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Direksi",
-   "Komisaris",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260919_ARKO_E036_63b69155-fd96-489e-add3-2a0b585e2b01-20260919090227.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apia-ganti-komisaris-independen-romy-bareno-gantikan-abdul-muis",
-  "category": "Aksi Korporasi",
-  "title": "APIA Ganti [Komisaris] Independen: Romy Bareno Gantikan Abdul Muis",
-  "deck": "Pemegang saham APIA memberhentikan Abdul Muis dan mengangkat Romy Bareno sebagai Komisaris Independen baru, efektif 16 September 2026, lewat keputusan di luar RUPS.",
-  "date": "19 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APIA",
-   "Angkasa Pura Indonesia",
-   "Dewan Komisaris",
-   "Perubahan Pengurus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8471b1cd9e_5179895cc3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "silo-akuisisi-14-rs-senilai-rp9-triliun-dari-first-reit",
-  "category": "Aksi Korporasi",
-  "title": "SILO Akuisisi 14 RS Senilai Rp9 Triliun dari [First REIT]",
-  "deck": "SILO berencana mengambil alih 14 perusahaan pemilik rumah sakit yang disewanya dari First REIT senilai Rp9 triliun, dibiayai pinjaman bank baru Rp8,9 triliun. RUPSLB digelar 22 September 2026.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SILO",
-   "First REIT",
-   "Akuisisi Rumah Sakit",
-   "Transaksi Material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65c2aa31b9_5ef1d1c0da.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "towr-direksi-lepas-97-saham-divestasi-di-harga-rp437",
-  "category": "Aksi Korporasi",
-  "title": "TOWR: Direksi Lepas 97% Saham, [Divestasi] di Harga Rp437",
-  "deck": "Direksi TOWR Indra Gunawan melepas 39,67 juta saham (97% kepemilikannya) secara tidak langsung di harga Rp437 pada 16 September 2026, untuk tujuan divestasi.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "Sarana Menara Nusantara",
-   "kepemilikan saham",
-   "divestasi direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18092026-3007-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-teken-mou-kembangkan-pasar-minggu-investasi-rp1-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Teken MoU Kembangkan Pasar Minggu, Investasi [Rp1 Triliun]",
-  "deck": "Anak usaha BIKE, PT Ratu Karya, menandatangani MoU dengan Perumda Pasar Jaya untuk mengembangkan kawasan Pasar Minggu, Jakarta Selatan, dengan perkiraan nilai investasi Rp1 triliun.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "properti",
-   "Pasar Minggu",
-   "MoU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2fbeebd6d7_d775f1a93b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sofa-akui-ketidakpastian-usaha-di-tengah-ekspansi-proyek-wte",
-  "category": "Aksi Korporasi",
-  "title": "SOFA akui [ketidakpastian] usaha di tengah ekspansi proyek WTE",
-  "deck": "SOFA merespons permintaan penjelasan bursa soal proyek waste-to-energy Rp131 miliar yang akan didanai rights issue dan utang bank, di tengah akumulasi kerugian Rp16 miliar.",
-  "date": "18 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOFA",
-   "waste to energy",
-   "rights issue",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60c1de8224_099a10997a.pdf",
   "sourceLabel": "IDX"
  }
 ];

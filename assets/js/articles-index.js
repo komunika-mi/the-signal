@@ -617,6 +617,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ipcm-rombak-direksi-dwi-rahmad-toto-jadi-direktur-utama",
+  "category": "Aksi Korporasi",
+  "title": "IPCM Rombak Direksi, [Dwi Rahmad Toto] Jadi Direktur Utama",
+  "deck": "RUPSLB IPCM menyetujui pergantian direktur utama dari Shanti Puruhita ke Dwi Rahmad Toto, perubahan anggaran dasar, dan pelimpahan wewenang penetapan remunerasi direksi-komisaris 2026.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPCM",
+   "RUPSLB",
+   "Direksi",
+   "Jasa Armada Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/473f550c2f_1730492094.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mdka-jawab-bursa-harga-dan-investor-pmthmetd-iv-belum-jelas",
   "category": "Aksi Korporasi",
   "title": "MDKA Jawab Bursa: Harga dan Investor [PMTHMETD] IV Belum Jelas",
@@ -697,6 +713,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupslb-luck-setujui-pengalihan-saham-serial-system-ke-publik",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB LUCK Setujui Pengalihan Saham [Serial System] ke Publik",
+  "deck": "RUPSLB LUCK menyetujui perubahan Pasal 3 Anggaran Dasar sesuai KBLI 2025 dan penegasan pengalihan saham Serial System Pte Ltd ke kelompok pemegang saham masyarakat.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LUCK",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/afdbc6c4e2_1146ad0c5f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amag-tunjuk-ulian-taurin-malik-jadi-komisaris-independen",
+  "category": "Aksi Korporasi",
+  "title": "AMAG tunjuk Ulian Taurin Malik jadi [Komisaris Independen]",
+  "deck": "RUPST Asuransi Multi Artha Guna Tbk mengangkat Ulian Taurin Malik sebagai komisaris independen baru per 25 September 2026, setelah lolos uji kelayakan OJK.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMAG",
+   "Komisaris Independen",
+   "RUPST",
+   "Asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9b6f982d3e_4c8fca829b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mdka-direksi-terima-664-400-saham-dari-program-lti",
   "category": "Aksi Korporasi",
   "title": "MDKA: Direksi [Terima] 664.400 Saham dari Program LTI",
@@ -742,6 +790,22 @@ var ARTICLES = [
    "pembiayaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67ca2622c2_8e472fea32.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rgas-rombak-komite-audit-mochamad-yassin-jadi-ketua",
+  "category": "Aksi Korporasi",
+  "title": "RGAS [Rombak] Komite Audit, Mochamad Yassin Jadi Ketua",
+  "deck": "Komite Audit RGAS berganti susunan efektif 23 September 2026, Mochamad Yassin gantikan Richard Leonardus A. sebagai ketua menyusul perubahan Dewan Komisaris.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RGAS",
+   "Komite Audit",
+   "Tata Kelola Perusahaan",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b114285729_4cd00861ef.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1050,6 +1114,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tapg-lepas-saham-anak-usaha-abm-senilai-us-450-000",
+  "category": "Aksi Korporasi",
+  "title": "TAPG [Lepas] Saham Anak Usaha ABM Senilai US$450.000",
+  "deck": "TAPG melalui anak usahanya PT Alam Teduh Sentosa menjual seluruh saham PT Alam Belantara Makmur ke PT Agraus Resources senilai US$450.000.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "divestasi",
+   "anak usaha",
+   "kelapa sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d39fbab536_22648f3145.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mice-siwie-honoris-tambah-saham-300-ribu-lembar",
   "category": "Aksi Korporasi",
   "title": "MICE: Siwie Honoris [Tambah] Saham 300 Ribu Lembar",
@@ -1063,6 +1143,22 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-5219-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtmh-suntik-modal-rp20-miliar-ke-dua-anak-usaha-rumah-sakit",
+  "category": "Aksi Korporasi",
+  "title": "MTMH [suntik] modal Rp20 miliar ke dua anak usaha rumah sakit",
+  "deck": "Dua anak usaha MTMH, MSKA dan MAU, menaikkan modal disetor total Rp20 miliar lewat akta notaris untuk mendukung pengembangan bisnis rumah sakit.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTMH",
+   "modal disetor",
+   "anak usaha",
+   "rumah sakit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d58064e0cc_b94fc9263f.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6425,102 +6521,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468353-rupiah-melemah-ke-rp17783-per-dolar-as-dipengaruhi-kenaikan-imbal-hasil-obligasi-as"
- },
- {
-  "slug": "safe-pengendali-tambah-100-200-saham-hak-suara-ke-56-57",
-  "category": "Aksi Korporasi",
-  "title": "SAFE: Pengendali Tambah 100.200 Saham, Hak Suara ke [56,57%]",
-  "deck": "Infiniti Wahana, pemegang saham pengendali Steady Safe Tbk, membeli 100.200 saham tidak langsung seharga Rp380 per saham, menaikkan hak suara ke 56,57 persen.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAFE",
-   "Steady Safe",
-   "kepemilikan saham",
-   "pemegang saham pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-5017-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-rp10-000-ke-rp2-628-000-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Turun] Rp10.000 ke Rp2.628.000/Gram",
-  "deck": "Harga emas batangan Antam turun Rp10.000 menjadi Rp2.628.000 per gram pada 21 September 2026, sementara harga buyback juga melemah ke Rp2.463.000 per gram.",
-  "date": "21 September 2026",
-  "image": "assets/img/harga-emas-antam-turun-rp10-000-ke-rp2-628-000-gram.jpg",
-  "imageV": "muarftn0",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468346-harga-emas-antam-hari-ini-21-september-2026-turun-rp10000-jadi-rp2628000-per-gram"
- },
- {
-  "slug": "jecx-direktur-keuangan-mundur-rups-digelar-maks-90-hari",
-  "category": "Aksi Korporasi",
-  "title": "JECX: Direktur Keuangan [Mundur], RUPS Digelar Maks 90 Hari",
-  "deck": "Direktur Keuangan JECX, Budi Djatmiko Musaffa, mengajukan pengunduran diri efektif paling lambat 1 Januari 2027. Perseroan akan menggelar RUPS untuk memutuskan permohonan tersebut.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "Direksi",
-   "Direktur Keuangan",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d6fce94b8_28b2530122.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menaker-kebutuhan-tenaga-kerja-hijau-terus-meningkat",
-  "category": "Ketenagakerjaan",
-  "title": "Menaker: Kebutuhan Tenaga Kerja [Hijau] Terus Meningkat",
-  "deck": "Menaker Yassierli menyebut kebutuhan tenaga kerja di sektor hijau akan terus naik seiring berkembangnya kendaraan listrik dan energi terbarukan, dengan target hingga 5,32 juta pekerja pada 2029.",
-  "date": "21 September 2026",
-  "image": "assets/img/pelatihan-vokasi.jpg",
-  "tags": [
-   "Ketenagakerjaan",
-   "Transisi Hijau",
-   "Vokasi",
-   "Kendaraan Listrik"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-transisi-hijau-buka-peluang-baru-bagi-tenaga-kerja",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "hexa-jadwalkan-dividen-tunai-us-11-19-juta-bayar-21-oktober",
-  "category": "Aksi Korporasi",
-  "title": "HEXA Jadwalkan [Dividen] Tunai US$11,19 Juta, Bayar 21 Oktober",
-  "deck": "Hexindo Adiperkasa menetapkan jadwal pembayaran dividen tunai tahun buku 2025 senilai US$11,19 juta, dengan tanggal pencatatan pemegang saham 29 September dan pembayaran 21 Oktober 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEXA",
-   "dividen",
-   "Hexindo Adiperkasa",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54b224f129_540743fd54.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bps-rilis-kbji-2026-gantikan-standar-jabatan-2014",
-  "category": "Ketenagakerjaan",
-  "title": "BPS Rilis [KBJI] 2026, Gantikan Standar Jabatan 2014",
-  "deck": "BPS menerbitkan Klasifikasi Baku Jabatan Indonesia (KBJI) 2026 lewat Peraturan BPS Nomor 7/2026, menggantikan versi 2014 dan diselaraskan dengan standar internasional ISCO.",
-  "date": "21 September 2026",
-  "image": "assets/img/bursa-kerja-antre.jpg",
-  "tags": [
-   "KBJI",
-   "Kemnaker",
-   "BPS",
-   "Pasar Kerja"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-kbji-2026-jadi-acuan-bersama-dunia-kerja",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
  }
 ];

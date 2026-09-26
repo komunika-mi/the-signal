@@ -990,6 +990,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "ipcm-rombak-direksi-dwi-rahmad-toto-jadi-direktur-utama",
+  "category": "Aksi Korporasi",
+  "title": "IPCM Rombak Direksi, [Dwi Rahmad Toto] Jadi Direktur Utama",
+  "deck": "RUPSLB IPCM menyetujui pergantian direktur utama dari Shanti Puruhita ke Dwi Rahmad Toto, perubahan anggaran dasar, dan pelimpahan wewenang penetapan remunerasi direksi-komisaris 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:34:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/473f550c2f_1730492094.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPCM",
+  "tags": [
+   "IPCM",
+   "RUPSLB",
+   "Direksi",
+   "Jasa Armada Indonesia"
+  ],
+  "body": [
+   "PT Jasa Armada Indonesia Tbk (IPCM) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Rabu, 23 September 2026, di Museum Maritim Indonesia, Tanjung Priok, Jakarta Utara. Rapat dipimpin oleh Komisaris Utama R.R. Dewi Ariyani dan dihadiri pemegang saham yang mewakili 4.647.850.501 saham, atau 87,95 persen dari total 5.284.811.100 saham dengan hak suara sah. Pengumuman ini merupakan koreksi atas surat serupa yang terbit sehari sebelumnya, 24 September 2026, dengan substansi keputusan yang sama.",
+   "Agenda pertama mengenai perubahan Pasal 6, 16, dan 19 Anggaran Dasar sekaligus pernyataan ulang seluruh isi Anggaran Dasar disetujui 99,86 persen suara, dengan 6.328.800 suara menolak dan 3.500 suara abstain. Direksi diberi kuasa untuk menuangkan perubahan ini ke akta notaris dan melaporkannya ke instansi berwenang. Agenda kedua, soal penetapan gaji, honorarium, dan tunjangan direksi serta komisaris untuk tahun buku 2026 beserta remunerasi atas kinerja 2025, disetujui 99,98 persen suara. Kewenangan menetapkan besarannya diserahkan kepada pemegang saham mayoritas untuk komisaris, dan kepada Dewan Komisaris dengan persetujuan tertulis pemegang saham mayoritas untuk direksi.",
+   "Agenda ketiga soal perubahan susunan pengurus disetujui 99,97 persen suara. RUPS menerima pengunduran diri Arief Hermawan sebagai Direktur Armada dan Operasi, serta memberhentikan dengan hormat Shanti Puruhita dari jabatan Direktur Utama merangkap Direktur Komersial dan Pengembangan Bisnis. Dwi Rahmad Toto diangkat sebagai Direktur Utama baru dan I Wayan Wirawan diangkat sebagai Direktur Armada dan Operasi, keduanya efektif sejak penutupan rapat hingga penutupan RUPS Tahunan kelima pada 2031. Susunan direksi kini terdiri dari Dwi Rahmad Toto (Direktur Utama), I Wayan Wirawan (Direktur Armada dan Operasi), dan Dessy Emastari Prihatiningtyas (Direktur Keuangan, SDM, dan Manajemen Risiko), sementara jajaran komisaris tidak berubah yaitu R.R. Dewi Ariyani (Komisaris Utama), Fransiscus Budi Prayitno (Komisaris), Doni Istyanto Hari Mahdi, dan Mitchell Julius Tupamahu (keduanya Komisaris Independen)."
+  ],
+  "fotoAdegan": "Tugboat guiding a large cargo ship through a busy Indonesian port channel at dawn, harbor cranes in the distance.",
+  "takeaway": "Laporan ini netral bagi fundamental IPCM: pergantian direktur utama berjalan mulus lewat mekanisme RUPS resmi dengan persetujuan di atas 99 persen suara di ketiga agenda, tanpa tanda pertentangan pemegang saham atau perubahan pengendalian saham. Yang tersentuh bukan angka keuangan seperti ekuitas atau laba per saham, melainkan tata kelola: perubahan anggaran dasar yaitu aturan main internal perusahaan, dan pelimpahan wewenang penetapan gaji direksi-komisaris kepada pemegang saham mayoritas sehingga besarannya tidak diumumkan terbuka dalam rapat ini. Pelaku pasar tetap memperhatikan pergantian direktur utama karena arah strategi dan eksekusi operasional bisa berubah, yang pada gilirannya memengaruhi kinerja keuangan perusahaan meski dampaknya tidak langsung terlihat. Yang perlu dipantau berikutnya adalah bagaimana arah kebijakan Dwi Rahmad Toto sebagai direktur utama baru tercermin di laporan keuangan atau aksi korporasi mendatang, serta proses pengesahan resmi perubahan Pasal 6, 16, dan 19 Anggaran Dasar oleh instansi berwenang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mdka-jawab-bursa-harga-dan-investor-pmthmetd-iv-belum-jelas",
   "category": "Aksi Korporasi",
   "title": "MDKA Jawab Bursa: Harga dan Investor [PMTHMETD] IV Belum Jelas",
@@ -1120,6 +1146,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "rupslb-luck-setujui-pengalihan-saham-serial-system-ke-publik",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB LUCK Setujui Pengalihan Saham [Serial System] ke Publik",
+  "deck": "RUPSLB LUCK menyetujui perubahan Pasal 3 Anggaran Dasar sesuai KBLI 2025 dan penegasan pengalihan saham Serial System Pte Ltd ke kelompok pemegang saham masyarakat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:08:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/afdbc6c4e2_1146ad0c5f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LUCK",
+  "tags": [
+   "LUCK",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "Pemegang Saham"
+  ],
+  "body": [
+   "RUPSLB PT Sentral Mitra Informatika Tbk (LUCK) digelar pada Rabu, 23 September 2026, pukul 10.15 hingga 10.31 WIB di Graha Mas Fatmawati, Jakarta Selatan. Rapat dihadiri pemegang saham yang mewakili 525.951.740 saham, setara 73,48 persen dari total 715.749.640 saham Perseroan, sehingga syarat kuorum sesuai Anggaran Dasar dan POJK 15/2020 terpenuhi. Jajaran yang hadir antara lain Komisaris Utama Teddy Pohan, Komisaris Independen Edwin Pamimpin Situmorang, Direktur Utama Josephine Handayani Hidajat, serta Direktur Christine Herawati Hidajat, Caroline Himawati Hidajat, dan Phillip Foster Warren.",
+   "Agenda pertama, perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan kode kegiatan usaha Perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, disetujui oleh 524.901.740 saham atau 99,8 persen suara yang hadir. Sebanyak 1.050.000 saham menyatakan tidak setuju, tanpa suara abstain. Direksi diberi kuasa dengan hak substitusi untuk melaksanakan segala tindakan yang diperlukan terkait perubahan pasal tersebut.",
+   "Agenda kedua menegaskan perubahan komposisi pemegang saham Perseroan, yaitu pemindahan saham yang sebelumnya tercatat atas nama Serial System Pte Ltd ke dalam kelompok masyarakat alias pemegang saham publik. Keputusan ini disetujui dengan komposisi suara yang sama, 524.901.740 saham setuju berbanding 1.050.000 saham tidak setuju. Hasil rapat dituangkan dalam akta Notaris Rini Yulianti, S.H. Nomor 27 tanggal 23 September 2026, sesuai kewajiban pelaporan menurut Pasal 49 ayat (1) POJK 15/2020."
+  ],
+  "fotoAdegan": "Modern high-rise office building facade in Jakarta business district, glass windows reflecting an overcast sky, late afternoon light",
+  "takeaway": "Laporan ini condong netral karena RUPSLB hanya mengesahkan penyesuaian kode usaha ke KBLI 2025 dan menegaskan ulang status kepemilikan yang sudah terjadi, tanpa transaksi jual beli saham baru atau suntikan dana. Yang tersentuh adalah struktur pemegang saham: total saham beredar Perseroan tetap 715.749.640 lembar, hanya saja saham yang tadinya tercatat atas nama Serial System Pte Ltd kini masuk kelompok masyarakat alias pemegang saham publik, sehingga porsi saham publik di catatan Perseroan bertambah tanpa dokumen ini merinci berapa lembar yang berpindah. Perubahan kategori semacam ini dipantau pasar karena berkaitan dengan syarat free float, yaitu batas minimum saham yang harus beredar di publik agar saham tetap memenuhi ketentuan bursa. Yang perlu dipantau berikutnya adalah proses pengesahan perubahan Anggaran Dasar oleh Kementerian Hukum dan HAM berdasarkan akta Notaris Rini Yulianti Nomor 27 tanggal 23 September 2026, serta kemungkinan pembaruan laporan kepemilikan saham Perseroan begitu reklasifikasi ini resmi berlaku.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "amag-tunjuk-ulian-taurin-malik-jadi-komisaris-independen",
+  "category": "Aksi Korporasi",
+  "title": "AMAG tunjuk Ulian Taurin Malik jadi [Komisaris Independen]",
+  "deck": "RUPST Asuransi Multi Artha Guna Tbk mengangkat Ulian Taurin Malik sebagai komisaris independen baru per 25 September 2026, setelah lolos uji kelayakan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T18:07:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9b6f982d3e_4c8fca829b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMAG",
+  "tags": [
+   "AMAG",
+   "Komisaris Independen",
+   "RUPST",
+   "Asuransi"
+  ],
+  "body": [
+   "Asuransi Multi Artha Guna Tbk (AMAG) mengangkat Ulian Taurin Malik sebagai Komisaris Independen baru, berlaku efektif 25 September 2026. Pengangkatan ini merupakan keputusan Rapat Umum Pemegang Saham Tahunan (RUPST) yang dituangkan dalam Akta No. 343 tanggal 25 September 2026 di hadapan notaris Gatot Widodo di Jakarta, dan sudah memperoleh persetujuan Otoritas Jasa Keuangan lewat Keputusan Dewan Komisioner OJK Nomor KEP-525/PD.02/2026 tanggal 22 September 2026 yang menyatakan Ulian Taurin Malik lulus uji kemampuan dan kepatutan (fit and proper test).",
+   "Dengan masuknya Ulian Taurin Malik, susunan lengkap Dewan Komisaris AMAG sejak 25 September 2026 menjadi: Athappan Gobinath Arvind sebagai Presiden Komisaris, Dedi Setiawan sebagai Wakil Presiden Komisaris, Ulian Taurin Malik sebagai Komisaris Independen baru, dan Lukman Abdullah yang tetap menjabat Komisaris Independen. Artinya perusahaan kini memiliki dua komisaris independen sekaligus di jajaran komisarisnya.",
+   "Dalam surat keterbukaan yang ditandatangani Direktur Peggy Wystan, perusahaan menyatakan perubahan susunan komisaris ini tidak berdampak signifikan terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha Perseroan."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long table and glass windows in a Jakarta office tower, soft morning light",
+  "takeaway": "Perubahan ini netral bagi AMAG karena sifatnya murni pergantian pengurus sesuai keputusan RUPST, bukan aksi korporasi yang mengubah permodalan atau kas perusahaan. Tidak ada pos keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh di sini, yang berubah adalah sisi tata kelola: bertambahnya komisaris independen berarti pengawasan terhadap direksi jadi lebih berimbang, sesuatu yang diperhatikan investor karena berkaitan dengan kualitas kontrol internal di perusahaan asuransi yang bergantung pada kepercayaan pemegang polis. Yang perlu dipantau selanjutnya adalah hasil lengkap RUPST 25 September 2026 itu sendiri, sebab laporan ini hanya mengungkap satu keputusan yaitu susunan komisaris, sementara agenda RUPST tahunan biasanya juga mencakup hal lain seperti penggunaan laba yang belum diumumkan terpisah.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mdka-direksi-terima-664-400-saham-dari-program-lti",
   "category": "Aksi Korporasi",
   "title": "MDKA: Direksi [Terima] 664.400 Saham dari Program LTI",
@@ -1195,6 +1273,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Financing company branch counter with a staff member assisting a customer, motorbike keys and folders on the desk, daylight",
   "takeaway": "Penerbitan obligasi tahap IV ini tergolong netral bagi FIFA karena jumlah dan jadwalnya memang sudah direncanakan sejak program payung senilai Rp10 triliun diluncurkan pada 2025, dan peringkat AAA(idn) dari Fitch menunjukkan kualitas kredit perseroan tetap terjaga meski utangnya bertambah. Pos yang tersentuh adalah utang dan beban bunga perseroan, sebab pokok Rp2,5 triliun ini menambah kewajiban bayar bunga tetap 7,15 persen untuk Seri A dan 7,40 persen untuk Seri B setiap tiga bulan, tapi di sisi lain dana ini juga jadi modal segar yang bisa disalurkan FIFA sebagai pembiayaan konsumen, sesuai model bisnis perusahaan multifinance yang memang bergantung pada penerbitan surat utang untuk membiayai penyaluran kreditnya. Yang perlu dipantau berikutnya adalah realisasi pencatatan di BEI pada 28 September 2026, pembayaran kupon pertama pada 25 Desember 2026, serta jatuh tempo Seri A pada 5 Oktober 2027 dan Seri B pada 25 September 2029. Dengan tahap IV ini, total dana yang sudah dihimpun dari program Rp10 triliun mencapai Rp8 triliun, menyisakan sekitar Rp2 triliun untuk tahap berikutnya yang juga layak diikuti perkembangannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rgas-rombak-komite-audit-mochamad-yassin-jadi-ketua",
+  "category": "Aksi Korporasi",
+  "title": "RGAS [Rombak] Komite Audit, Mochamad Yassin Jadi Ketua",
+  "deck": "Komite Audit RGAS berganti susunan efektif 23 September 2026, Mochamad Yassin gantikan Richard Leonardus A. sebagai ketua menyusul perubahan Dewan Komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T17:43:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b114285729_4cd00861ef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RGAS",
+  "tags": [
+   "RGAS",
+   "Komite Audit",
+   "Tata Kelola Perusahaan",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "PT Kian Santang Muliatama Tbk (RGAS) mengumumkan perubahan susunan Komite Audit yang berlaku efektif 23 September 2026, berdasarkan Keputusan Dewan Komisaris Nomor 004/KOM-KSM/IX/2026. Ketua Komite Audit lama, Richard Leonardus A., digantikan oleh Mochamad Yassin. Dua anggota lain, Ratih Kumala dan Sugito, melengkapi susunan baru tersebut. Perseroan menyebut susunan ini mengikuti Peraturan OJK Nomor 55/POJK.04/2015 yang mewajibkan Komite Audit diketuai oleh Komisaris Independen dan beranggotakan minimal tiga orang yang berasal dari Komisaris Independen serta pihak luar perusahaan.",
+   "Perubahan ini merupakan tindak lanjut dari Rapat Umum Pemegang Saham pada 20 Mei 2026 yang menyetujui perubahan susunan Dewan Komisaris Perseroan, sehingga keanggotaan Komite Audit turut disesuaikan. Keputusan Dewan Komisaris ditetapkan di Bekasi pada 23 September 2026 dan ditandatangani oleh Komisaris Utama Irvan Surya Dewantara bersama Mochamad Yassin selaku Komisaris Independen yang juga menjabat Ketua Komite Audit baru. Masa jabatan susunan baru ini mengikuti masa jabatan Dewan Komisaris Perseroan, dan Dewan Komisaris tetap berhak memberhentikan anggotanya sewaktu-waktu.",
+   "Surat pemberitahuan resmi ke Bursa Efek Indonesia ditandatangani Direktur RGAS, Sutarno, pada 25 September 2026 pukul 17.43 WIB."
+  ],
+  "fotoAdegan": "Empty modern boardroom with a polished conference table and rows of chairs, city skyline visible through large windows, soft daylight.",
+  "takeaway": "Perubahan ini netral bagi fundamental RGAS karena yang berganti hanya personel pengawas, bukan angka keuangan perusahaan seperti ekuitas, arus kas, atau laba per saham. Komite Audit bertugas mengawasi kualitas laporan keuangan dan pengendalian internal perusahaan, sehingga pelaku pasar biasanya memperhatikan siapa yang duduk di dalamnya sebagai jaminan independensi pengawasan, meski perubahan ini tidak langsung mengubah kinerja keuangan Perseroan. Pergantian ketua dari Richard Leonardus A. ke Mochamad Yassin ini murni konsekuensi dari perombakan Dewan Komisaris yang sudah disetujui pemegang saham lebih dulu. Yang perlu dipantau berikutnya adalah bagaimana kinerja Komite Audit baru ini saat mengawasi laporan keuangan RGAS periode mendatang, termasuk apakah masih ada penyesuaian susunan pengurus lain menyusul RUPS 20 Mei 2026 tersebut.",
   "sentimen": "netral"
  },
  {
@@ -1693,6 +1797,31 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "tapg-lepas-saham-anak-usaha-abm-senilai-us-450-000",
+  "category": "Aksi Korporasi",
+  "title": "TAPG [Lepas] Saham Anak Usaha ABM Senilai US$450.000",
+  "deck": "TAPG melalui anak usahanya PT Alam Teduh Sentosa menjual seluruh saham PT Alam Belantara Makmur ke PT Agraus Resources senilai US$450.000.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:16:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d39fbab536_22648f3145.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "divestasi",
+   "anak usaha",
+   "kelapa sawit"
+  ],
+  "body": [
+   "PT Triputra Agro Persada Tbk (TAPG) melaporkan bahwa anak usahanya, PT Alam Teduh Sentosa (ATS), menjual dan mengalihkan seluruh saham PT Alam Belantara Makmur (ABM) kepada PT Agraus Resources senilai US$450.000. ATS sendiri 99,9 persen sahamnya dimiliki oleh TAPG, sementara ABM 99,9 persen sahamnya dimiliki oleh ATS, sehingga transaksi ini melepaskan kepemilikan tidak langsung TAPG atas ABM. Peristiwa ini tercatat terjadi pada 23 September 2026.",
+   "Laporan yang disampaikan ke Otoritas Jasa Keuangan pada 25 September 2026 ini ditandatangani secara elektronik oleh Corporate Secretary TAPG, Joni Tjeng, dan berstatus sebagai laporan koreksi atas pengumuman sebelumnya perihal transaksi yang sama. Dalam dokumennya, TAPG menyatakan bahwa penjualan dan pengalihan saham ABM ini tidak berdampak material terhadap kegiatan operasional, kondisi hukum, keuangan, maupun kelangsungan usaha perseroan, sejalan dengan bidang usaha utama TAPG di perkebunan dan industri pengolahan kelapa sawit."
+  ],
+  "fotoAdegan": "Rows of mature oil palm trees along a gravel plantation road under hazy tropical morning light, no people nearby",
+  "takeaway": "Transaksi ini netral bagi TAPG karena nilainya cuma US$450.000, kecil sekali dibanding skala bisnis perkebunan sawit grup Triputra, sehingga pelepasan anak usaha ini bukan sinyal perubahan arah bisnis. Yang tersentuh hanya arus kas, yaitu aliran uang masuk dan keluar perusahaan, dan jumlah sekecil ini praktis tidak mengubah kondisi keuangan TAPG secara keseluruhan. Perusahaan sendiri menyatakan tidak ada dampak material dari pelepasan saham PT Alam Belantara Makmur ini, sejalan dengan nilainya yang tipis. Yang perlu dipantau berikutnya adalah apakah TAPG menjelaskan alasan pelepasan anak usaha ini, sebab dokumen ini berstatus koreksi atas laporan sebelumnya tanpa menyebut apa yang diperbaiki, sementara laporan disampaikan ke OJK pada 25 September 2026, dua hari kerja setelah tanggal kejadian 23 September 2026 sesuai batas waktu pelaporan fakta material yang diatur OJK.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mice-siwie-honoris-tambah-saham-300-ribu-lembar",
   "category": "Aksi Korporasi",
   "title": "MICE: Siwie Honoris [Tambah] Saham 300 Ribu Lembar",
@@ -1715,6 +1844,33 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Wide shot of a bright consumer goods retail aisle with neatly stocked shelves and a shopper browsing, soft indoor lighting",
   "takeaway": "Penambahan saham oleh Siwie Honoris ini bersifat netral bagi Multi Indocitra, sebab meski naik 28 persen dari kepemilikannya sendiri, porsinya terhadap total saham beredar perusahaan masih sangat kecil, dari 0,18 persen menjadi 0,23 persen. Yang tersentuh di sini adalah hak suara, yaitu bobot suara seorang pemegang saham dalam rapat pemegang saham, karena kepemilikan yang lebih besar biasanya berarti pengaruh lebih besar dalam pengambilan keputusan perusahaan, tetapi 0,23 persen masih jauh dari cukup untuk memengaruhi keputusan apa pun sendirian. Pembelian ini juga tidak mengubah jumlah saham beredar Multi Indocitra maupun struktur pemegang saham pengendali, sehingga tidak berdampak langsung ke laba per saham atau arus kas perusahaan. Yang perlu dipantau adalah apakah Siwie Honoris melanjutkan pembelian serupa di laporan-laporan berikutnya, karena pola akumulasi bertahap semacam ini kadang mengarah ke perubahan porsi kepemilikan yang lebih berarti dalam jangka panjang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtmh-suntik-modal-rp20-miliar-ke-dua-anak-usaha-rumah-sakit",
+  "category": "Aksi Korporasi",
+  "title": "MTMH [suntik] modal Rp20 miliar ke dua anak usaha rumah sakit",
+  "deck": "Dua anak usaha MTMH, MSKA dan MAU, menaikkan modal disetor total Rp20 miliar lewat akta notaris untuk mendukung pengembangan bisnis rumah sakit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:12:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d58064e0cc_b94fc9263f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTMH",
+  "tags": [
+   "MTMH",
+   "modal disetor",
+   "anak usaha",
+   "rumah sakit"
+  ],
+  "body": [
+   "PT Murni Sadar Tbk (MTMH) melaporkan bahwa dua entitas anaknya, PT Murni Sadar Kasih Abadi (MSKA) dan PT Medikarya Aminah Utama (MAU), pada 25 September 2026 menandatangani akta peningkatan modal dasar serta modal ditempatkan dan disetor. Akta MSKA tercatat dengan nomor 81 dan akta MAU nomor 82, keduanya dibuat di hadapan Notaris Eddy Simin, S.H.",
+   "Modal ditempatkan dan disetor MSKA naik dari Rp15 miliar menjadi Rp25 miliar, bertambah Rp10 miliar. Setelah kenaikan ini, MTMH tetap menjadi pemegang saham mayoritas MSKA dengan 24.750.000 saham senilai Rp24,75 miliar atau setara 99 persen, sementara sisanya 250.000 saham senilai Rp250 juta dipegang oleh Tjhin Ten Chun.",
+   "Modal ditempatkan dan disetor MAU juga naik dengan besaran sama, dari Rp17 miliar menjadi Rp27 miliar. Pemegang saham MAU adalah MSKA dengan 26.730 saham senilai Rp26,73 miliar atau 99 persen, dan Tjhin Ten Chun dengan 270 saham senilai Rp270 juta. Perusahaan menyebutkan penambahan modal di kedua entitas anak ini dialokasikan untuk memperkuat struktur permodalan dan mendukung pengembangan usaha rumah sakit yang dijalankan anak perusahaan.",
+   "Perseroan menegaskan transaksi ini bukan transaksi material sebagaimana diatur dalam POJK Nomor 17/2020, namun termasuk transaksi afiliasi yang dikecualikan dari kewajiban pelaporan rinci berdasarkan POJK Nomor 42/2020 tentang transaksi afiliasi dan benturan kepentingan. Manajemen menyatakan peningkatan modal ini tidak berdampak signifikan terhadap kondisi keuangan Perseroan secara konsolidasi."
+  ],
+  "fotoAdegan": "Nurses wheeling a hospital bed through a sunlit corridor of a private hospital ward in Indonesia.",
+  "takeaway": "Laporan ini netral bagi MTMH, karena tambahan modal total Rp20 miliar untuk MSKA dan MAU pada dasarnya hanya berpindah dari kas induk usaha ke modal disetor anak usaha yang memang sudah masuk laporan keuangan konsolidasi Perseroan, sehingga tidak mengubah kekayaan bersih perusahaan secara keseluruhan, seperti diakui sendiri oleh manajemen. Yang tersentuh di sini adalah pos ekuitas, yaitu modal yang tercatat sebagai milik pemilik usaha, tapi karena MSKA dan MAU sudah dikonsolidasikan ke laporan MTMH, kenaikan modal di level anak usaha ini tidak menambah ekuitas gabungan Perseroan, melainkan sekadar memperkuat modal kerja rumah sakit yang dioperasikan kedua entitas tersebut. Yang perlu dipantau selanjutnya adalah apakah dana tambahan ini benar terealisasi menjadi penambahan kapasitas atau fasilitas rumah sakit, yang baru akan terlihat dampaknya pada laporan keuangan konsolidasi Perseroan di kuartal-kuartal berikutnya.",
   "sentimen": "netral"
  },
  {

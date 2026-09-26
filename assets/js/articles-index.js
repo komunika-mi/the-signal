@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pegadaian-borong-10-penghargaan-contact-center-nasional",
+  "category": "BUMN",
+  "title": "Pegadaian Borong [10] Penghargaan Contact Center Nasional",
+  "deck": "PT Pegadaian meraih 10 penghargaan di ajang The Best Contact Center Indonesia 2026, hasil transformasi layanan pelanggan berbasis digital.",
+  "date": "26 September 2026",
+  "image": "assets/img/pegadaian-borong-10-penghargaan-contact-center-nasional.jpg",
+  "imageV": "mui0ufhz",
+  "tags": [
+   "Pegadaian",
+   "BUMN",
+   "Contact Center",
+   "Danantara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469504-wujudkan-transformasi-layanan-pegadaian-borong-penghargaan-di-ajang-the-best-contact-center-indonesia-2026"
+ },
+ {
   "slug": "aadi-resmi-delisting-dari-bursa-efektif-hari-ini",
   "category": "Aksi Korporasi",
   "title": "AADI Resmi [Delisting] dari Bursa, Efektif Hari Ini",
@@ -6497,22 +6514,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468219-ojol-pekerja-atau-mitra-pemerintah-dihadapkan-pada-status-baru-di-era-ekonomi-platform"
- },
- {
-  "slug": "25-merek-beras-fortifikasi-disanksi-gizi-tak-sesuai-label",
-  "category": "Industri",
-  "title": "25 Merek Beras [Fortifikasi] Disanksi, Gizi Tak Sesuai Label",
-  "deck": "Bapanas menindak 25 merek beras fortifikasi karena kandungan gizinya tak sesuai klaim di kemasan, mulai dari setop produksi hingga cabut izin edar.",
-  "date": "20 September 2026",
-  "image": "assets/img/25-merek-beras-fortifikasi-disanksi-gizi-tak-sesuai-label.jpg",
-  "imageV": "mu9ln82e",
-  "tags": [
-   "beras fortifikasi",
-   "bapanas",
-   "SNI beras",
-   "keamanan pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468212-25-merek-beras-fortifikasi-kena-sanksi-kandungan-gizi-tak-sesuai-label"
  }
 ];

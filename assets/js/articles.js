@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pegadaian-borong-10-penghargaan-contact-center-nasional",
+  "category": "BUMN",
+  "title": "Pegadaian Borong [10] Penghargaan Contact Center Nasional",
+  "deck": "PT Pegadaian meraih 10 penghargaan di ajang The Best Contact Center Indonesia 2026, hasil transformasi layanan pelanggan berbasis digital.",
+  "image": "assets/img/pegadaian-borong-10-penghargaan-contact-center-nasional.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T13:21:55+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469504-wujudkan-transformasi-layanan-pegadaian-borong-penghargaan-di-ajang-the-best-contact-center-indonesia-2026",
+  "tags": [
+   "Pegadaian",
+   "BUMN",
+   "Contact Center",
+   "Danantara"
+  ],
+  "body": [
+   "PT Pegadaian (Persero) meraih 10 penghargaan sekaligus dalam ajang The Best Contact Center Indonesia (TBCCI) 2026 yang digelar Indonesia Contact Center Association (ICCA). Penghargaan diterima oleh Kepala Divisi Layanan dan Contact Center Pegadaian, Rinny Amelia Hadjoh, di Hotel Bidakara, Jakarta, Kamis (24/9). Capaian ini menambah daftar pengakuan industri atas kualitas layanan pelanggan salah satu BUMN jasa keuangan terbesar di Indonesia.",
+   "Kesepuluh penghargaan itu terbagi dalam dua kategori, yakni Korporat dan Individu. Pegadaian menyebut hasil ini sebagai bukti konsistensi transformasi customer experience, yaitu kualitas pengalaman nasabah saat berinteraksi dengan perusahaan, yang didorong lewat penguatan teknologi, perbaikan proses layanan, dan peningkatan kapasitas sumber daya manusia di unit contact center.",
+   "Direktur Jaringan dan Operasi Pegadaian, Eka Pebriansyah, mengatakan penghargaan ini merupakan hasil dedikasi dan kolaborasi seluruh pegawai dalam mengedepankan prinsip customer-centricity, yakni mengutamakan kebutuhan nasabah dalam setiap layanan. \"Contact Center berperan sangat penting sebagai titik awal dalam membangun pengalaman dan kepuasan nasabah. Sejalan dengan semangat CX100 dibawah ekosistem Danantara, kami berkomitmen memastikan bahwa dampak dari transformasi layanan ini benar-benar dirasakan langsung oleh nasabah di setiap titik interaksi,\" ujar Eka.",
+   "Rinny Amelia Hadjoh menambahkan bahwa prestasi ini menegaskan posisi contact center yang kini bertransformasi dari sekadar fungsi komunikasi menjadi aset strategis perusahaan."
+  ],
+  "fotoAdegan": "Customer service agents wearing headsets at rows of desks in a busy call center, screens blurred, soft office lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/26/6ab7622bddaf2-pt-pegadaian-persero-kembali-menorehkan-prestasi-gemilang-di-tingkat-nasional-dalam-ajang-penganugerahan-the-best-contact-center-indonesia-tbcci-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan sekadar jumlah piala, melainkan penegasan bahwa perbaikan layanan Pegadaian kini dikaitkan dengan program bernama CX100 di bawah Danantara, badan yang mengelola saham BUMN dan mendorong standar kinerja seragam di perusahaan pelat merah. Pihak yang terdampak langsung adalah nasabah Pegadaian yang bertransaksi lewat contact center, serta pegawai layanan yang kini diukur dengan standar tersebut. Berita ini belum menjelaskan isi program CX100 secara rinci atau BUMN lain mana saja yang sudah menerapkannya, jadi belum bisa dipastikan apakah ini dorongan menyeluruh ke seluruh BUMN atau baru langkah Pegadaian sendiri. Yang perlu ditunggu adalah penjelasan resmi Danantara soal cakupan CX100 dan apakah BUMN lain mengumumkan hasil serupa.",
+  "imageV": "mui0ufhz"
+ },
+ {
   "slug": "aadi-resmi-delisting-dari-bursa-efektif-hari-ini",
   "category": "Aksi Korporasi",
   "title": "AADI Resmi [Delisting] dari Bursa, Efektif Hari Ini",

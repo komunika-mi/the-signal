@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bika-masuk-pemantauan-khusus-bei-imbas-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "BIKA Masuk Pemantauan Khusus BEI Imbas [Ekuitas Negatif]",
+  "deck": "BEI mengoreksi pengumuman sebelumnya dan menetapkan saham BIKA masuk Papan Pemantauan Khusus efektif 25 September 2026 karena ekuitas perusahaan negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T16:21:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_BIKA_B031_1b0e989a-2045-43a7-af46-43e755c19460-20260926162116.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKA",
+  "tags": [
+   "BIKA",
+   "pemantauan khusus",
+   "ekuitas negatif",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menerbitkan koreksi atas suratnya bernomor TEST-B031-25SEPT yang terbit pada hari yang sama, 26 September 2026, terkait status saham PT Binakarya Jaya Abadi Tbk (BIKA). Dalam surat revisi itu, bursa menegaskan saham BIKA, yang tercatat di Papan Pengembangan, resmi masuk kategori Efek Bersifat Ekuitas Dalam Pemantauan Khusus. Perubahan penempatan ini berlaku efektif sejak 25 September 2026.",
+   "Alasan yang dicantumkan bursa adalah kriteria nomor 5 dari sebelas kriteria pemantauan khusus yang berlaku, yaitu perusahaan memiliki ekuitas negatif pada laporan keuangan terakhirnya. Bursa tidak mencantumkan angka ekuitas maupun periode laporan keuangan secara spesifik dalam pengumuman ini, hanya mengonfirmasi bahwa kondisi tersebut yang memicu masuknya BIKA ke daftar pemantauan khusus. Kriteria lain seperti opini disclaimer, likuiditas rendah, atau status PKPU tidak disebutkan berlaku untuk BIKA dalam pengumuman ini.",
+   "Bursa juga menyatakan saham BIKA bukan merupakan saham dengan hak suara multipel (SDHSM), sehingga status pemantauan khusus ini murni dipicu oleh kondisi keuangan, bukan struktur kepemilikan saham. Publik dapat memeriksa detail lengkap daftar efek dalam pemantauan khusus melalui laman pengumuman resmi IDX."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district at dusk, wide street-level angle, muted colors",
+  "takeaway": "Ini kabar negatif bagi BIKA karena ekuitas negatif berarti total kewajiban perusahaan sudah melampaui total asetnya, bukan sekadar rugi berjalan. Pos yang tersentuh adalah ekuitas, yaitu bagian kekayaan perusahaan yang secara teori menjadi hak pemegang saham setelah semua utang dilunasi. Kalau angkanya negatif, artinya bantalan itu sudah habis dan pelaku pasar biasanya menganggap ini sinyal risiko kelangsungan usaha yang serius, apalagi status pemantauan khusus juga berpotensi membuat mekanisme perdagangan sahamnya lebih terbatas. Yang perlu dipantau selanjutnya adalah laporan keuangan BIKA berikutnya untuk melihat apakah ekuitas negatif ini membaik atau justru melebar, karena itu akan menentukan apakah saham BIKA tetap berada di papan pemantauan khusus atau bisa keluar dari daftar tersebut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pegadaian-borong-10-penghargaan-contact-center-nasional",
   "category": "BUMN",
   "title": "Pegadaian Borong [10] Penghargaan Contact Center Nasional",

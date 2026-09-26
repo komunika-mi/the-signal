@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bika-masuk-pemantauan-khusus-bei-imbas-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "BIKA Masuk Pemantauan Khusus BEI Imbas [Ekuitas Negatif]",
+  "deck": "BEI mengoreksi pengumuman sebelumnya dan menetapkan saham BIKA masuk Papan Pemantauan Khusus efektif 25 September 2026 karena ekuitas perusahaan negatif.",
+  "date": "26 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKA",
+   "pemantauan khusus",
+   "ekuitas negatif",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_BIKA_B031_1b0e989a-2045-43a7-af46-43e755c19460-20260926162116.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pegadaian-borong-10-penghargaan-contact-center-nasional",
   "category": "BUMN",
   "title": "Pegadaian Borong [10] Penghargaan Contact Center Nasional",
@@ -6496,22 +6512,5 @@ var ARTICLES = [
   "tags": [],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468251-pupuk-indonesia-kejar-penurunan-emisi-96-pada-2050-kembangkan-clean-ammonia-hingga-co2-jadi-soda-ash"
- },
- {
-  "slug": "pertamina-eco-runfest-2026-ajak-publik-plogging-jaga-lingkungan",
-  "category": "BUMN",
-  "title": "Pertamina Eco RunFest 2026 Ajak Publik [Plogging] Jaga Lingkungan",
-  "deck": "PT Pertamina memulai rangkaian Road to Eco RunFest 2026 menuju ajang puncak 6 Desember 2026, memadukan olahraga, musik, dan program keberlanjutan lingkungan.",
-  "date": "20 September 2026",
-  "image": "assets/img/pertamina-eco-runfest-2026-ajak-publik-plogging-jaga-lingkungan.jpg",
-  "imageV": "mu9qylwz",
-  "tags": [
-   "Pertamina",
-   "Eco RunFest 2026",
-   "BUMN",
-   "Lingkungan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468238-road-to-pertamina-eco-runfest-2026-mengajak-masyarakat-wujudkan-aksi-nyata-jaga-lingkungan"
  }
 ];

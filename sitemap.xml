@@ -14,6 +14,7 @@
   <url><loc>https://the-signal.id/kontak.html</loc><lastmod>2026-09-26</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/privasi.html</loc><lastmod>2026-09-26</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/pedoman-media-siber.html</loc><lastmod>2026-09-26</lastmod><priority>0.3</priority></url>
+  <url><loc>https://the-signal.id/berita/bika-masuk-pemantauan-khusus-bei-imbas-ekuitas-negatif.html</loc><lastmod>2026-09-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/pegadaian-borong-10-penghargaan-contact-center-nasional.html</loc><lastmod>2026-09-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/saham-bima-disuspensi-bursa-atas-perintah-ojk.html</loc><lastmod>2026-09-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/aadi-resmi-delisting-dari-bursa-efektif-hari-ini.html</loc><lastmod>2026-09-26</lastmod><priority>0.8</priority></url>
@@ -421,7 +422,7 @@
   <url><loc>https://the-signal.id/berita/bmbl-direksi-jual-2-5-juta-saham-demi-likuiditas.html</loc><lastmod>2026-09-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/unvr-ungkap-keberlanjutan-tak-cukup-sekadar-csr.html</loc><lastmod>2026-09-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/pertamina-kembali-puncaki-fortune-indonesia-100-2026.html</loc><lastmod>2026-09-19</lastmod><priority>0.8</priority></url>
-  <url><loc>https://the-signal.id/berita/devisa-pariwisata-ri-tembus-us-8-43-miliar-semester-i-2026.html</loc><lastmod>2026-09-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/devisa-pariwisata-ri-tembus-us-8-43-miliar-semester-i-2026.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/mtwi-cetak-laba-rp12-25-miliar-di-2024-aset-naik-64.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/dummypoc-masuk-papan-pemantauan-khusus-akibat-likuiditas-rendah.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/saham-bima-disetop-sementara-usai-mogok-karyawan.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
@@ -3073,8 +3074,8 @@
   <url><loc>https://the-signal.id/topik/akuisisi.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/sukuk.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/kemendag.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/pemantauan-khusus.html</loc><lastmod>2026-09-26</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/emas.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/pemantauan-khusus.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/buyback-saham.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/ekspor.html</loc><lastmod>2026-09-24</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/investasi.html</loc><lastmod>2026-09-21</lastmod><priority>0.7</priority></url>
@@ -3157,6 +3158,7 @@
   <url><loc>https://the-signal.id/topik/bbca.html</loc><lastmod>2026-09-15</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/ratu.html</loc><lastmod>2026-09-15</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/gempa-ntt.html</loc><lastmod>2026-09-04</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/ekuitas-negatif.html</loc><lastmod>2026-09-26</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/penggunaan-dana-ipo.html</loc><lastmod>2026-09-26</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/wskt.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/opini-audit.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
@@ -3173,7 +3175,6 @@
   <url><loc>https://the-signal.id/topik/winr.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/sarana-menara-nusantara.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/anak-usaha.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/ekuitas-negatif.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/bike.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/pupuk-indonesia.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/truk.html</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
@@ -3228,7 +3229,7 @@
   <url><loc>https://the-signal.id/arsip/2.html</loc><lastmod>2026-09-23</lastmod><priority>0.5</priority></url>
   <url><loc>https://the-signal.id/arsip/3.html</loc><lastmod>2026-09-20</lastmod><priority>0.5</priority></url>
   <url><loc>https://the-signal.id/arsip/4.html</loc><lastmod>2026-09-16</lastmod><priority>0.5</priority></url>
-  <url><loc>https://the-signal.id/arsip/5.html</loc><lastmod>2026-09-12</lastmod><priority>0.5</priority></url>
+  <url><loc>https://the-signal.id/arsip/5.html</loc><lastmod>2026-09-13</lastmod><priority>0.5</priority></url>
   <url><loc>https://the-signal.id/arsip/6.html</loc><lastmod>2026-09-09</lastmod><priority>0.5</priority></url>
   <url><loc>https://the-signal.id/arsip/7.html</loc><lastmod>2026-09-06</lastmod><priority>0.5</priority></url>
   <url><loc>https://the-signal.id/arsip/8.html</loc><lastmod>2026-09-02</lastmod><priority>0.5</priority></url>

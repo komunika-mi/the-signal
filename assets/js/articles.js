@@ -30,6 +30,32 @@ var ARTICLES = [
   "imageV": "mui0ufhz"
  },
  {
+  "slug": "saham-bima-disuspensi-bursa-atas-perintah-ojk",
+  "category": "Aksi Korporasi",
+  "title": "Saham BIMA [Disuspensi] Bursa atas Perintah OJK",
+  "deck": "BEI menghentikan sementara perdagangan saham Primarindo Asia Infrastructure (BIMA) mulai 27 September 2026 atas persetujuan OJK, menyusul suspensi akibat mogok karyawan pekan lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T13:18:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_BIMA_B007_c21310d3-1708-47c6-9ff7-14ee6cd73771-20260926131730.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIMA",
+  "tags": [
+   "BIMA",
+   "suspensi saham",
+   "OJK",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mengumumkan penghentian sementara perdagangan efek atau suspensi atas saham Primarindo Asia Infrastructure Tbk (BIMA), berlaku mulai 27 September 2026 pada sesi pre-opening perdagangan berkelanjutan (continuous auction), mencakup pasar reguler dan pasar tunai. Dalam surat bernomor TEST-B007-BIMA1, bursa mencantumkan penyebab suspensi sebagai kondisi lain yang ditetapkan oleh Bursa setelah memperoleh persetujuan atau perintah Otoritas Jasa Keuangan (OJK).",
+   "Dokumen tidak merinci lebih lanjut kondisi spesifik yang melatarbelakangi keputusan tersebut. Yang tercatat hanya bahwa suspensi ini berasal dari persetujuan atau perintah OJK, bukan semata inisiatif bursa sendiri, dan berlaku untuk seluruh transaksi saham BIMA di pasar reguler dan tunai sejak awal sesi perdagangan pada 27 September 2026.",
+   "Ini adalah suspensi kedua terhadap saham BIMA dalam waktu kurang dari dua minggu. Pada 19 September 2026, bursa sebelumnya sudah menghentikan sementara perdagangan saham ini akibat aksi mogok karyawan perusahaan. Alasan yang dicantumkan kali ini berbeda dan melibatkan otoritas yang lebih tinggi, menunjukkan rangkaian masalah di Primarindo belum tuntas."
+  ],
+  "fotoAdegan": "Rows of idle sewing machines and stacked shoe soles inside a quiet Indonesian footwear factory workshop, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi Primarindo, karena suspensi kali ini bukan lagi sekadar respons atas keributan internal seperti mogok karyawan, melainkan kondisi yang sampai memerlukan persetujuan atau perintah Otoritas Jasa Keuangan, sinyal bahwa regulator menilai ada persoalan yang lebih serius. Yang langsung tersentuh adalah likuiditas saham, yaitu kemudahan pemegang saham untuk menjual atau membeli sahamnya di pasar, karena selama suspensi berlangsung tidak ada transaksi yang bisa terjadi sama sekali. Pemegang saham BIMA yang ingin keluar dari posisinya praktis terkunci sampai bursa mencabut suspensi ini. Yang perlu dipantau berikutnya adalah keterangan resmi dari manajemen Primarindo kepada bursa yang menjelaskan duduk perkara sesungguhnya, serta tanggal pencabutan suspensi yang belum disebutkan dalam dokumen ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "aadi-resmi-delisting-dari-bursa-efektif-hari-ini",
   "category": "Aksi Korporasi",
   "title": "AADI Resmi [Delisting] dari Bursa, Efektif Hari Ini",

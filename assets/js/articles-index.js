@@ -22,6 +22,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469504-wujudkan-transformasi-layanan-pegadaian-borong-penghargaan-di-ajang-the-best-contact-center-indonesia-2026"
  },
  {
+  "slug": "saham-bima-disuspensi-bursa-atas-perintah-ojk",
+  "category": "Aksi Korporasi",
+  "title": "Saham BIMA [Disuspensi] Bursa atas Perintah OJK",
+  "deck": "BEI menghentikan sementara perdagangan saham Primarindo Asia Infrastructure (BIMA) mulai 27 September 2026 atas persetujuan OJK, menyusul suspensi akibat mogok karyawan pekan lalu.",
+  "date": "26 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIMA",
+   "suspensi saham",
+   "OJK",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_BIMA_B007_c21310d3-1708-47c6-9ff7-14ee6cd73771-20260926131730.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "aadi-resmi-delisting-dari-bursa-efektif-hari-ini",
   "category": "Aksi Korporasi",
   "title": "AADI Resmi [Delisting] dari Bursa, Efektif Hari Ini",
@@ -6497,22 +6513,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468238-road-to-pertamina-eco-runfest-2026-mengajak-masyarakat-wujudkan-aksi-nyata-jaga-lingkungan"
- },
- {
-  "slug": "ojol-pekerja-atau-mitra-pemerintah-belum-ambil-sikap",
-  "category": "Ketenagakerjaan",
-  "title": "Ojol Pekerja atau [Mitra]? Pemerintah Belum Ambil Sikap",
-  "deck": "Perdebatan status hukum pengemudi ojol antara pekerja dan mitra kembali mengemuka, sementara pemerintah belum menentukan sikap resmi di tengah pertumbuhan ekonomi platform.",
-  "date": "20 September 2026",
-  "image": "assets/img/ojol-pekerja-atau-mitra-pemerintah-belum-ambil-sikap.jpg",
-  "imageV": "mu9ln7d9",
-  "tags": [
-   "ojol",
-   "ekonomi platform",
-   "ketenagakerjaan",
-   "ksos"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468219-ojol-pekerja-atau-mitra-pemerintah-dihadapkan-pada-status-baru-di-era-ekonomi-platform"
  }
 ];

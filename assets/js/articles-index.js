@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "fesyar-jawa-2026-gulirkan-pembiayaan-untuk-umkm-dan-pesantren",
+  "category": "Makroekonomi",
+  "title": "FESyar Jawa 2026 Gulirkan [Pembiayaan] untuk UMKM dan Pesantren",
+  "deck": "Bank Indonesia membuka FESyar Jawa 2026 di Surabaya, meluncurkan pembiayaan UMKM kuliner halal dan perumahan guru pesantren di tengah pertumbuhan ekonomi syariah 5,5 persen.",
+  "date": "26 September 2026",
+  "image": "assets/img/fesyar-jawa-2026-gulirkan-pembiayaan-untuk-umkm-dan-pesantren.jpg",
+  "imageV": "muiakxu9",
+  "tags": [
+   "ekonomi syariah",
+   "Bank Indonesia",
+   "FESyar Jawa",
+   "pesantren"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820326.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "kadin-bakal-luncurkan-satgas-protein-dorong-lapangan-kerja",
+  "category": "Industri",
+  "title": "Kadin Bakal Luncurkan [Satgas Protein] Dorong Lapangan Kerja",
+  "deck": "Kadin Indonesia akan membentuk Satgas Protein untuk memperkuat rantai pasok telur dan susu, sekaligus disebut mendukung target pertumbuhan ekonomi 8 persen.",
+  "date": "26 September 2026",
+  "image": "assets/img/kadin-bakal-luncurkan-satgas-protein-dorong-lapangan-kerja.jpg",
+  "imageV": "muiaky9v",
+  "tags": [
+   "kadin",
+   "satgas protein",
+   "anindya bakrie",
+   "pertumbuhan ekonomi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469550-kadin-indonesia-bakal-luncurkan-satgas-protein-ciptakan-lapangan-kerja-hingga-dukung-target-pertumbuhan-ekonomi"
+ },
+ {
   "slug": "bika-masuk-pemantauan-khusus-bei-imbas-ekuitas-negatif",
   "category": "Aksi Korporasi",
   "title": "BIKA Masuk Pemantauan Khusus BEI Imbas [Ekuitas Negatif]",
@@ -19,6 +54,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_BIKA_B031_1b0e989a-2045-43a7-af46-43e755c19460-20260926162116.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bca-bantah-isu-akuisisi-saham-oleh-haji-isam",
+  "category": "Pasar Modal",
+  "title": "BCA [Bantah] Isu Akuisisi Saham oleh Haji Isam",
+  "deck": "BCA memastikan kabar akuisisi saham BBCA oleh Haji Isam tidak benar, sekaligus membeberkan struktur kepemilikan usai pengendali terakhir berganti pasca meninggalnya Bambang Hartono.",
+  "date": "26 September 2026",
+  "image": "assets/img/bca-bantah-isu-akuisisi-saham-oleh-haji-isam.jpg",
+  "imageV": "muiakynf",
+  "tags": [
+   "BCA",
+   "BBCA",
+   "Haji Isam",
+   "saham"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469544-haji-isam-diisukan-mau-akuisisi-saham-bbca-bca-beberkan-fakta-sebenarnya"
+ },
+ {
+  "slug": "antam-serap-9-ton-emas-freeport-januari-agustus-2026",
+  "category": "BUMN",
+  "title": "ANTAM [Serap] 9 Ton Emas Freeport Januari-Agustus 2026",
+  "deck": "ANTAM menyerap 9 ton emas dari Freeport Indonesia sepanjang Januari-Agustus 2026, bagian kerja sama pasokan hingga 30 ton per tahun untuk memperkuat rantai pasok emas domestik.",
+  "date": "26 September 2026",
+  "image": "assets/img/antam-serap-9-ton-emas-freeport-januari-agustus-2026.jpg",
+  "imageV": "muiakz2c",
+  "tags": [
+   "ANTAM",
+   "Freeport Indonesia",
+   "emas",
+   "rantai pasok"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469521-antam-serap-9-ton-emas-freeport-hingga-agustus-2026-penjualan-tembus-rp5039-triliun"
  },
  {
   "slug": "pegadaian-borong-10-penghargaan-contact-center-nasional",
@@ -6450,67 +6519,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20092026-3558-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-kejar-1-juta-shm-gratis-untuk-mbr-di-2026",
-  "category": "Bisnis",
-  "title": "Pemerintah Kejar [1 Juta] SHM Gratis untuk MBR di 2026",
-  "deck": "Pemerintah menargetkan 1 juta sertifikat tanah gratis bagi masyarakat berpenghasilan rendah pada 2026, menuju total 8 juta sertifikat sampai 2028.",
-  "date": "20 September 2026",
-  "image": "assets/img/pemerintah-kejar-1-juta-shm-gratis-untuk-mbr-di-2026.jpg",
-  "imageV": "mu9ygouw",
-  "tags": [
-   "SHM gratis",
-   "MBR",
-   "ATR BPN",
-   "sertifikat tanah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468278-1-juta-shm-gratis-2026-cek-3-kelompok-mbr-yang-bisa-dapat-sertifikat-tanpa-biaya"
- },
- {
-  "slug": "utang-blbi-krisis-1998-lunas-pemerintah-pakai-surplus-bi",
-  "category": "Makroekonomi",
-  "title": "Utang BLBI Krisis 1998 [Lunas], Pemerintah Pakai Surplus BI",
-  "deck": "Pemerintah melunasi seluruh surat utang penanganan krisis BLBI 1997-1998 pada Agustus 2026, dibayar Rp58 triliun dari surplus Bank Indonesia.",
-  "date": "20 September 2026",
-  "image": "assets/img/utang-blbi-krisis-1998-lunas-pemerintah-pakai-surplus-bi.jpg",
-  "imageV": "mu9ygp8m",
-  "tags": [
-   "BLBI",
-   "utang negara",
-   "Bank Indonesia",
-   "Kementerian Keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468261-utang-blbi-era-krisis-1998-lunas-pemerintah-bayar-rp58-triliun-dari-surplus-bi"
- },
- {
-  "slug": "adhi-teken-mra-restrukturisasi-utang-rp3-triliun-ke-bank-bumn",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Teken MRA, [Restrukturisasi] Utang Rp3 Triliun ke Bank BUMN",
-  "deck": "PT Adhi Karya menandatangani Master Restructuring Agreement senilai total Rp3 triliun dengan Bank Mandiri, BRI, dan BNI untuk merestrukturisasi utangnya.",
-  "date": "20 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "restrukturisasi utang",
-   "Bank Mandiri",
-   "BUMN Karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a1159ea22_3321df6211.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pupuk-indonesia-targetkan-emisi-turun-96-pada-2050",
-  "category": "BUMN",
-  "title": "Pupuk Indonesia Targetkan Emisi [Turun] 96% pada 2050",
-  "deck": "Pupuk Indonesia menargetkan penurunan emisi 96 persen pada 2050 lewat amonia bersih, energi hijau, dan pengolahan CO2 jadi soda ash di Bontang.",
-  "date": "20 September 2026",
-  "image": "assets/img/pupuk-indonesia-targetkan-emisi-turun-96-pada-2050.jpg",
-  "imageV": "mu9qylgt",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468251-pupuk-indonesia-kejar-penurunan-emisi-96-pada-2050-kembangkan-clean-ammonia-hingga-co2-jadi-soda-ash"
  }
 ];

@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "fesyar-jawa-2026-gulirkan-pembiayaan-untuk-umkm-dan-pesantren",
+  "category": "Makroekonomi",
+  "title": "FESyar Jawa 2026 Gulirkan [Pembiayaan] untuk UMKM dan Pesantren",
+  "deck": "Bank Indonesia membuka FESyar Jawa 2026 di Surabaya, meluncurkan pembiayaan UMKM kuliner halal dan perumahan guru pesantren di tengah pertumbuhan ekonomi syariah 5,5 persen.",
+  "image": "assets/img/fesyar-jawa-2026-gulirkan-pembiayaan-untuk-umkm-dan-pesantren.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T11:09:20.563Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820326.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "ekonomi syariah",
+   "Bank Indonesia",
+   "FESyar Jawa",
+   "pesantren"
+  ],
+  "body": [
+   "Bank Indonesia resmi membuka Festival Ekonomi Syariah (FESyar) Regional Jawa 2026 di Surabaya, Jumat (26/9), sebagai bagian dari upaya memperkuat ekonomi syariah sebagai sumber pertumbuhan baru yang inklusif. Gubernur BI Destry Damayanti menekankan bahwa sinergi antara pelaku usaha, lembaga keuangan syariah, pemerintah, dan pesantren menjadi penentu apakah pengembangan rantai nilai halal, perluasan pembiayaan, dan peningkatan literasi syariah benar-benar sampai ke masyarakat. Jawa Timur dipilih sebagai tuan rumah karena dianggap barometer ekonomi syariah nasional, didukung populasi Muslim 97,33 persen dan 7.347 pesantren di provinsi itu.",
+   "Beberapa angka jadi sorotan dalam acara ini. Laporan State of the Global Islamic Economy 2025/2026 menempatkan Indonesia di peringkat keempat dunia untuk ekonomi syariah. Sektor unggulan rantai nilai halal, mencakup makanan halal, fesyen muslim, dan pariwisata ramah muslim, tumbuh 5,50 persen secara tahunan pada triwulan II 2026, sementara total aset keuangan syariah naik menjadi Rp3.131 triliun. Tingkat pemahaman masyarakat soal ekonomi syariah juga melonjak dari 16,30 persen pada 2019 menjadi 50,18 persen pada 2025, yang berarti sekitar separuh penduduk Muslim Indonesia kini sudah cukup paham konsep ekonomi syariah, naik tajam dari hanya sekitar satu dari enam orang enam tahun lalu.",
+   "Di luar data makro, FESyar Jawa 2026 yang berlangsung 25-27 September membawa tiga program konkret. Pertama, pembentukan Pasar Rakyat dan Zona Kuliner Halal untuk memperkuat jaminan produk halal sekaligus membuka akses pasar bagi UMKM. Kedua, pengembangan wakaf uang produktif yang diarahkan untuk mendukung pendanaan pendidikan. Ketiga, skema pembiayaan khusus untuk pengadaan rumah bagi guru madrasah dan pesantren yang tergabung dalam Himpunan Ekonomi Bisnis Pesantren (HEBITREN). Gubernur Jawa Timur Khofifah Indar Parawansa menegaskan bahwa ukuran keberhasilan ekonomi syariah bukan besarnya aset, melainkan seberapa luas manfaatnya dirasakan masyarakat.",
+   "Acara ini digelar berkat kolaborasi Bank Indonesia, pemerintah daerah, Komite Nasional dan Daerah Ekonomi dan Keuangan Syariah (KNEKS/KDEKS), kementerian/lembaga, industri keuangan syariah, pesantren, dan pelaku usaha. FESyar Jawa menjadi penutup rangkaian tiga wilayah, setelah sebelumnya digelar di Sumatera dan Kawasan Timur Indonesia, sebagai bagian dari Road to Indonesia Sharia Economic Festival (ISEF) 2026. Sejak 2019, format regional ini dipakai BI untuk mempertemukan pelaku usaha dan lembaga pembiayaan sebelum masuk ke perhelatan nasional."
+  ],
+  "fotoAdegan": "Vendors arranging halal food stalls at an open-air market, shoppers browsing produce, warm morning light in an Indonesian city",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2820326/Cover-sp_2820326.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah bukan sekadar seremoni pembukaan festival, tapi peluncuran tiga skema konkret di Jawa Timur: pasar rakyat dan zona kuliner halal untuk UMKM, wakaf uang produktif untuk pendidikan, dan pembiayaan rumah bagi guru madrasah dan pesantren anggota HEBITREN. Yang terdampak langsung adalah pelaku UMKM kuliner halal, guru madrasah atau pesantren yang butuh rumah, dan lembaga pendidikan calon penerima dana wakaf. FESyar Jawa ini juga menjadi penutup dari tiga rangkaian acara serupa di Sumatera dan Kawasan Timur Indonesia menuju Indonesia Sharia Economic Festival (ISEF) 2026, yang menunjukkan Bank Indonesia sedang menyusun fondasi regional sebelum masuk ke acara puncak nasional. Yang perlu dipantau adalah apakah ISEF 2026 nanti mengumumkan angka realisasi dari tiga program ini, misalnya jumlah rumah guru yang terbangun atau dana wakaf yang tersalur, karena baru itu yang membedakan program ini dari sekadar rencana di atas kertas.",
+  "imageV": "muiakxu9"
+ },
+ {
+  "slug": "kadin-bakal-luncurkan-satgas-protein-dorong-lapangan-kerja",
+  "category": "Industri",
+  "title": "Kadin Bakal Luncurkan [Satgas Protein] Dorong Lapangan Kerja",
+  "deck": "Kadin Indonesia akan membentuk Satgas Protein untuk memperkuat rantai pasok telur dan susu, sekaligus disebut mendukung target pertumbuhan ekonomi 8 persen.",
+  "image": "assets/img/kadin-bakal-luncurkan-satgas-protein-dorong-lapangan-kerja.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T16:48:55+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469550-kadin-indonesia-bakal-luncurkan-satgas-protein-ciptakan-lapangan-kerja-hingga-dukung-target-pertumbuhan-ekonomi",
+  "tags": [
+   "kadin",
+   "satgas protein",
+   "anindya bakrie",
+   "pertumbuhan ekonomi"
+  ],
+  "body": [
+   "Kadin Indonesia akan membentuk Satuan Tugas (Satgas) Protein, diumumkan Ketua Umum Anindya Bakrie saat perayaan HUT ke-58 Kadin Indonesia pada Kamis, 24 September 2026. Satgas ini disiapkan untuk menciptakan lapangan kerja, menjaga stabilitas pasokan, menaikkan pendapatan pelaku usaha, dan mendorong kemandirian protein nasional, yang menurut Anindya juga akan menopang target pertumbuhan ekonomi 8 persen menuju apa yang disebut pemerintah sebagai Indonesia Emas 2045.",
+   "Satgas Protein akan melengkapi sejumlah satuan tugas yang lebih dulu dibentuk Kadin, yaitu Satgas Makan Bergizi Gratis, Satgas Rumah Layak Huni, Satgas Layanan Kesehatan Gratis, dan Satgas Tenaga Kerja Migran. Anindya menyebut empat program utama yang akan dijalankan, yakni hilirisasi atau mengolah bahan pangan protein seperti telur dan susu menjadi produk olahan bernilai lebih tinggi, desentralisasi produksi ayam petelur agar lokasinya lebih dekat ke pasar lokal, pengembangan kawasan sapi perah terintegrasi, serta pembangunan rantai pasok yang menghubungkan pusat produksi, pusat penyimpanan, rantai pendingin, dan sistem digital pelacakan asal produk hingga transaksi dan pembayaran.",
+   "Dalam program desentralisasi ayam petelur, produksi akan dikelola koperasi dan peternak dengan dukungan teknologi serta kepastian bahwa hasil produksinya akan diserap pembeli. Adapun kawasan sapi perah terintegrasi akan menghubungkan lahan pakan, budi daya, kesehatan ternak, pemerahan, pendinginan, pengolahan susu, pembiayaan, hingga kepastian pasar. Anindya membagi peran antar pelaku usaha dalam skema ini, yaitu koperasi mengonsolidasikan produsen kecil, UMKM menciptakan nilai tambah produk, sektor swasta membawa investasi, sedangkan BUMN dan BUMD memperkuat infrastruktur pendukung.",
+   "Anindya menyebut tujuan akhir dari skema yang ia sebut sebagai Indonesia Incorporated ini adalah pertumbuhan ekonomi yang naik bertahap hingga mencapai 8 persen, sekaligus menekan angka kemiskinan ekstrem menjadi 0 persen."
+  ],
+  "fotoAdegan": "Workers collecting eggs from rows of cages inside a small-scale poultry farm in rural Indonesia, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/26/6ab793dd4874b-ketua-umum-kamar-dagang-dan-industri-kadin-indonesia-anindya-bakrie-saat-hut-ke-58-kadin-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru sebatas rencana, Kadin mengumumkan akan membentuk Satgas Protein untuk mengurus rantai pasok telur, susu, dan produk protein hewani lain, menambah daftar satuan tugas yang sudah mereka punya untuk program makan bergizi gratis, rumah layak huni, dan tenaga kerja migran. Pihak yang akan terdampak adalah peternak ayam petelur dan sapi perah, koperasi yang diminta mengonsolidasikan produksi, pelaku UMKM di rantai pengolahan, serta perusahaan swasta dan BUMN atau BUMD yang diajak menyuntikkan investasi dan infrastruktur. Yang belum disebutkan dalam pengumuman ini adalah kapan satgas ini mulai bekerja, siapa yang memimpin, dan berapa anggaran atau target produksi konkret untuk sektor protein itu sendiri, sementara angka pertumbuhan 8 persen yang disebut sebenarnya adalah target makro nasional yang sudah ada, bukan target khusus dari Satgas Protein. Yang perlu ditunggu adalah peluncuran resmi satgas ini beserta struktur dan program kerja detailnya, karena dari situ baru bisa terlihat apakah ini inisiatif baru yang konkret atau sekadar payung untuk program yang sudah berjalan.",
+  "imageV": "muiaky9v"
+ },
+ {
   "slug": "bika-masuk-pemantauan-khusus-bei-imbas-ekuitas-negatif",
   "category": "Aksi Korporasi",
   "title": "BIKA Masuk Pemantauan Khusus BEI Imbas [Ekuitas Negatif]",
@@ -27,6 +82,60 @@ var ARTICLES = [
   "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district at dusk, wide street-level angle, muted colors",
   "takeaway": "Ini kabar negatif bagi BIKA karena ekuitas negatif berarti total kewajiban perusahaan sudah melampaui total asetnya, bukan sekadar rugi berjalan. Pos yang tersentuh adalah ekuitas, yaitu bagian kekayaan perusahaan yang secara teori menjadi hak pemegang saham setelah semua utang dilunasi. Kalau angkanya negatif, artinya bantalan itu sudah habis dan pelaku pasar biasanya menganggap ini sinyal risiko kelangsungan usaha yang serius, apalagi status pemantauan khusus juga berpotensi membuat mekanisme perdagangan sahamnya lebih terbatas. Yang perlu dipantau selanjutnya adalah laporan keuangan BIKA berikutnya untuk melihat apakah ekuitas negatif ini membaik atau justru melebar, karena itu akan menentukan apakah saham BIKA tetap berada di papan pemantauan khusus atau bisa keluar dari daftar tersebut.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "bca-bantah-isu-akuisisi-saham-oleh-haji-isam",
+  "category": "Pasar Modal",
+  "title": "BCA [Bantah] Isu Akuisisi Saham oleh Haji Isam",
+  "deck": "BCA memastikan kabar akuisisi saham BBCA oleh Haji Isam tidak benar, sekaligus membeberkan struktur kepemilikan usai pengendali terakhir berganti pasca meninggalnya Bambang Hartono.",
+  "image": "assets/img/bca-bantah-isu-akuisisi-saham-oleh-haji-isam.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T16:12:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469544-haji-isam-diisukan-mau-akuisisi-saham-bbca-bca-beberkan-fakta-sebenarnya",
+  "tags": [
+   "BCA",
+   "BBCA",
+   "Haji Isam",
+   "saham"
+  ],
+  "body": [
+   "PT Bank Central Asia Tbk membantah kabar yang beredar di media sosial soal rencana pengusaha Andi Syamsuddin Arsyad, yang dikenal dengan nama Haji Isam, mengakuisisi saham bank tersebut. Bantahan ini penting karena rumor semacam itu berpotensi memicu spekulasi di pasar saham BBCA serta membingungkan nasabah dan investor publik.",
+   "EVP Corporate Communication & Social Responsibility BCA Hera F. Haryn menegaskan bahwa informasi mengenai rencana aksi korporasi tersebut tidak benar. Ia meminta masyarakat memverifikasi kabar seputar BCA hanya melalui situs resmi perusahaan atau media yang kredibel, sembari menyatakan bank tetap beroperasi sesuai prinsip kehati-hatian dan aturan yang berlaku.",
+   "Berdasarkan data kepemilikan saham, PT Dwimuria Investama Andalan (DIA) tetap menjadi pemegang saham mayoritas BCA dengan 67,73 miliar lembar saham atau setara 54,94 persen. Sisanya, 44,64 persen, dipegang publik, yang terdiri dari 2,51 persen saham warkat dan 42,13 persen saham nonwarkat.",
+   "Struktur pengendali BCA sempat berubah setelah Bambang Hartono meninggal dunia, sebagaimana diungkapkan lewat keterbukaan informasi pada 31 Juli 2026. Sebelumnya, Robert Budi Hartono dan Bambang Hartono sama-sama tercatat sebagai pemegang saham DIA sekaligus pemegang saham pengendali terakhir BCA. Setelah Bambang Hartono wafat, Robert Budi Hartono menjadi pengendali tunggal DIA dengan porsi kepemilikan yang tetap sebesar 51 persen, sehingga otomatis menjadi pemegang saham pengendali terakhir BCA."
+  ],
+  "fotoAdegan": "Modern glass-fronted bank building in a Jakarta financial district, pedestrians walking past, midday sunlight, no visible signage",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/03/14/67d3fb5fb9fe9-ilustrasi-saham-bbca_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang sebenarnya berubah di sini bukan soal akuisisi Haji Isam, karena BCA sudah menegaskan itu tidak benar, melainkan status pengendali di balik PT Dwimuria Investama Andalan, pemegang 54,94 persen saham BCA. Sejak Bambang Hartono meninggal, adiknya Robert Budi Hartono kini menjadi pengendali tunggal dengan porsi 51 persen di DIA yang tidak berubah dari sebelumnya, sehingga kendali BCA tetap berada di keluarga yang sama, hanya terkonsolidasi ke satu orang, bukan berpindah ke pihak luar seperti yang diisukan. Pihak yang paling terdampak adalah pemegang saham publik BCA yang menguasai 44,64 persen saham serta investor yang sempat bereaksi terhadap rumor tersebut. Ke depan, yang perlu dipantau adalah apakah ada keterbukaan informasi lanjutan dari BCA atau DIA soal penataan kepemilikan keluarga, karena pergantian pengendali akibat warisan semacam ini biasanya berlanjut dengan penyesuaian struktur aset di perusahaan lain milik keluarga besar tersebut.",
+  "imageV": "muiakynf"
+ },
+ {
+  "slug": "antam-serap-9-ton-emas-freeport-januari-agustus-2026",
+  "category": "BUMN",
+  "title": "ANTAM [Serap] 9 Ton Emas Freeport Januari-Agustus 2026",
+  "deck": "ANTAM menyerap 9 ton emas dari Freeport Indonesia sepanjang Januari-Agustus 2026, bagian kerja sama pasokan hingga 30 ton per tahun untuk memperkuat rantai pasok emas domestik.",
+  "image": "assets/img/antam-serap-9-ton-emas-freeport-januari-agustus-2026.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T14:50:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469521-antam-serap-9-ton-emas-freeport-hingga-agustus-2026-penjualan-tembus-rp5039-triliun",
+  "tags": [
+   "ANTAM",
+   "Freeport Indonesia",
+   "emas",
+   "rantai pasok"
+  ],
+  "body": [
+   "PT Antam Tbk (ANTAM) mencatat penyerapan 9 ton emas dari PT Freeport Indonesia (PTFI) sepanjang Januari hingga Agustus 2026. Langkah ini menyambung rantai produksi emas nasional, dari tambang Freeport di hulu hingga pengolahan dan penjualan oleh ANTAM di hilir, sehingga pasokan bahan baku emas dalam negeri makin tidak bergantung pada impor.",
+   "Emas yang diserap ANTAM merupakan hasil pemurnian di pabrik pemurnian logam mulia milik Freeport Indonesia di Gresik, Jawa Timur, dengan tingkat kemurnian 99,99 persen. Penyerapan ini berjalan dalam skema kerja sama jual beli emas antara kedua perusahaan yang disepakati dengan kapasitas hingga 30 ton per tahun.",
+   "Selain dari Freeport, ANTAM memperluas pasokan emas dalam negeri lewat kerja sama dengan tujuh produsen lain: Amman Mineral Nusa Tenggara, Merdeka Group, Citra Palu Minerals, Agincourt Resources, Sumbawa Jutaraya, J Resources Bolaang Mongondow, dan Indo Muro Kencana. Direktur Utama ANTAM Untung Budiharto menyebut penguatan pasokan domestik ini sebagai bagian dari strategi membangun rantai pasok emas nasional yang lebih terintegrasi, dari hulu pertambangan sampai hilir penjualan produk emas batangan.",
+   "Bisnis emas menyumbang sekitar 80 persen dari total penjualan ANTAM, sehingga keandalan pasokan bahan baku ini berpengaruh besar terhadap kinerja perusahaan secara keseluruhan. Diversifikasi sumber pasokan ini sekaligus diarahkan untuk mendukung pengembangan ekosistem perdagangan dan penyimpanan emas batangan berstandar di dalam negeri."
+  ],
+  "fotoAdegan": "Technicians in protective gear handling gold bars on a conveyor inside an industrial metal refinery in Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/08/01/688c7bff3df89-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari kerja sama ini adalah realisasinya: dari kapasitas kontrak 30 ton emas per tahun antara ANTAM dan Freeport, baru 9 ton yang benar-benar terserap dalam delapan bulan pertama 2026, padahal kalau mengejar target setahun penuh semestinya sudah sekitar 20 ton pada titik ini. Yang terdampak langsung adalah ANTAM sendiri, karena emas menyumbang sekitar 80 persen penjualannya sehingga pasokan bahan baku dalam negeri ini menentukan kelangsungan produksinya, dan juga Freeport Indonesia selaku pemasok lewat pabrik pemurniannya di Gresik. ANTAM tampak mengantisipasi kekurangan pasokan dari Freeport dengan merangkul tujuh produsen tambang emas lain sekaligus, dari Amman Mineral sampai Indo Muro Kencana, sebuah pola yang mengarah pada diversifikasi sumber ketimbang bergantung penuh pada satu mitra. Yang akan memastikan apakah penyerapan dari Freeport benar-benar mengejar ketertinggalan atau memang menetap di bawah kapasitas kontrak adalah angka realisasi total sepanjang 2026 setelah laporan tahunan ANTAM terbit.",
+  "imageV": "muiakz2c"
  },
  {
   "slug": "pegadaian-borong-10-penghargaan-contact-center-nasional",

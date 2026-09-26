@@ -3,6 +3,162 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "aadi-resmi-delisting-dari-bursa-efektif-hari-ini",
+  "category": "Aksi Korporasi",
+  "title": "AADI Resmi [Delisting] dari Bursa, Efektif Hari Ini",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan saham AADI, PT Adaro Andalan Indonesia Tbk, per 26 September 2026 dengan alasan forced delisting dan go private.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T11:48:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_AADI_B006_07bb9fdd-8a12-4127-b99f-9918d0c9424b-20260926115119.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AADI",
+  "tags": [
+   "AADI",
+   "delisting",
+   "go private",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Adaro Andalan Indonesia Tbk (AADI) dari papan perdagangan, efektif 26 September 2026. Dalam pengumuman resmi bernomor TEST.AADI.001, BEI mencantumkan penyebab penghapusan sebagai forced delisting dan go private, dua kondisi yang digabung dalam satu keterangan tanpa penjelasan tambahan mengenai kronologi atau alasan detail di baliknya.",
+   "Forced delisting berarti keputusan penghapusan pencatatan ini datang dari otoritas bursa, bukan atas permohonan sukarela emiten. Sejak tanggal efektif tersebut, saham AADI tidak lagi bisa diperjualbelikan di pasar reguler maupun negosiasi BEI. Pengumuman ditandatangani secara elektronik oleh Divisi Penilaian Perusahaan 1 BEI atas nama Taffa Approver, dan berlaku tanpa memerlukan tanda tangan basah karena diterbitkan melalui sistem pelaporan elektronik.",
+   "Dokumen pengumuman ini tidak memuat rincian lebih lanjut soal mekanisme bagi pemegang saham publik AADI, termasuk ada tidaknya penawaran pembelian kembali saham atau kompensasi lain yang lazim menyertai proses go private. BEI juga tidak mencantumkan kronologi suspensi perdagangan atau pelanggaran ketentuan yang melatarbelakangi status forced delisting tersebut."
+  ],
+  "fotoAdegan": "Empty modern stock exchange trading floor with rows of unused desks and dimmed computer monitors, late afternoon light through windows.",
+  "takeaway": "Ini kabar negatif bagi pemegang saham publik AADI, sebab delisting paksa menutup akses mereka menjual saham lewat mekanisme bursa terbuka, terlepas dari alasan go private yang menyertainya. Yang langsung terdampak adalah likuiditas kepemilikan saham publik, yakni kemudahan mengubah saham menjadi uang tunai, karena begitu status tercatat dicabut, transaksi jual beli lewat BEI tidak bisa lagi dilakukan. Status AADI sebagai perusahaan terbuka juga otomatis hilang bersamaan dengan haknya menghimpun dana dari publik lewat pasar modal. Yang perlu dipantau selanjutnya adalah penjelasan resmi dari manajemen AADI soal mekanisme bagi pemegang saham publik pascadelisting, termasuk ada tidaknya penawaran pembelian saham, karena pengumuman BEI ini sendiri belum merincikannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "saham-test-resmi-delisting-dari-bursa-efektif-26-september",
+  "category": "Aksi Korporasi",
+  "title": "Saham TEST Resmi [Delisting] dari Bursa, Efektif 26 September",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan saham berkode TEST secara paksa (forced delisting) sekaligus status go private, efektif 26 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T10:29:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_TEST_B006_768b604e-981e-491f-ac61-0a18638fe8fa-20260926102826.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEST",
+  "tags": [
+   "TEST",
+   "delisting",
+   "go private",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham berkode TEST dari papan perdagangan, efektif 26 September 2026. Dalam pengumuman resminya, BEI menyebut penghapusan ini sebagai forced delisting yang dibarengi dengan status go private. Keputusan ini dikeluarkan oleh Divisi Penilaian Perusahaan 1 BEI dan berlaku otomatis tanpa memerlukan tanda tangan karena diterbitkan lewat sistem pelaporan elektronik bursa.",
+   "Forced delisting berarti BEI sendiri yang mengambil inisiatif mencabut status pencatatan emiten ini, berbeda dari delisting sukarela yang biasanya diajukan oleh perusahaan. Status go private yang menyertainya berarti perusahaan ini berubah dari perusahaan terbuka menjadi perusahaan tertutup, sehingga sahamnya tidak lagi bisa diperjualbelikan lewat mekanisme bursa reguler mulai tanggal efektif tersebut.",
+   "Dokumen pengumuman ini hanya memuat kode emiten, tanggal efektif, dan penyebab delisting. Tidak ada rincian tambahan mengenai mekanisme lanjutan bagi pemegang saham publik, seperti skema pembelian kembali saham, yang dicantumkan dalam pengumuman ini."
+  ],
+  "fotoAdegan": "Empty trading floor at a stock exchange building, rows of vacant desks and blank computer monitors, dim end-of-day lighting",
+  "takeaway": "Kabar ini condong negatif bagi pemegang saham publik karena mereka kehilangan sarana resmi untuk memperjualbelikan saham berkode TEST begitu status delisting berlaku. Dokumen ini tidak memuat angka keuangan seperti ekuitas, arus kas, atau laba per saham, sehingga dampak utamanya bukan pada pos laporan keuangan, melainkan pada likuiditas, yakni kemampuan pemegang saham untuk keluar dari investasinya lewat bursa. Pelaku pasar mencermati hal ini karena begitu saham dihapus dari pencatatan, penjualan harus dilakukan lewat jalur di luar bursa yang biasanya jauh lebih sulit dan kurang transparan soal harga. Yang perlu dipantau berikutnya adalah apakah BEI atau Otoritas Jasa Keuangan menerbitkan pengumuman lanjutan soal mekanisme perlindungan pemegang saham publik, seperti kewajiban pembelian kembali saham yang lazim menyertai proses go private, karena dokumen ini sendiri belum merincikannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "arko-terbitkan-hingga-100-000-saham-baru-lewat-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Terbitkan hingga 100.000 Saham Baru Lewat [HMETD]",
+  "deck": "PT Arkora Hydro Tbk menetapkan rasio HMETD 1:1 dengan harga pelaksanaan Rp100 per saham, efektif mulai 27 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T10:28:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E0X3_c37455bb-9dec-4f15-9aa3-48ac73cd2768-20260926102719.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "HMETD",
+   "penambahan modal",
+   "Arkora Hydro"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) mengumumkan hasil Rapat Umum Pemegang Saham pada 26 September 2026 yang menyetujui penambahan modal melalui skema Hak Memesan Efek Terlebih Dahulu atau HMETD, yaitu mekanisme yang memberi pemegang saham lama hak membeli saham baru lebih dulu sebelum ditawarkan ke pihak lain. Perseroan akan menerbitkan saham baru sebanyak-banyaknya 100.000 lembar dengan nilai nominal Rp10 per saham. Rasio HMETD ditetapkan 1:1, artinya setiap satu saham lama berhak atas satu saham baru, dengan harga pelaksanaan Rp100 per saham. Penerbitan ini tidak disertai waran dan saham hasil HMETD tidak dapat dikonversi menjadi instrumen lain.",
+   "Jadwal pelaksanaannya sudah lengkap. Tanggal efektif jatuh pada 27 September 2026, dan pemegang saham yang berhak menerima HMETD ditentukan lewat Daftar Pemegang Saham per 28 September 2026. Perdagangan saham dengan hak HMETD melekat di pasar reguler dan negosiasi berlangsung hingga 29 September 2026, sebelum masuk masa tanpa hak mulai 30 September 2026, sementara di pasar tunai periode dengan hak berakhir 1 Oktober 2026 dan tanpa hak mulai 2 Oktober 2026. HMETD didistribusikan 3 Oktober 2026 dan saham baru dicatatkan di Bursa Efek Indonesia pada 4 Oktober 2026. Periode perdagangan sekaligus pelaksanaan HMETD berlangsung 5 hingga 6 Oktober 2026, dengan batas akhir pembayaran pesanan saham tambahan pada 8 Oktober 2026, penyerahan efek pada 9 Oktober 2026, penjatahan pada 12 Oktober 2026, dan pengembalian kelebihan uang pesanan pada 13 Oktober 2026.",
+   "Perseroan menyatakan telah menyiapkan rencana penggunaan dana hasil HMETD serta penjelasan mengenai rasio pelaksanaannya, namun rincian keduanya tidak dimuat dalam dokumen keterbukaan ini. Dengan harga pelaksanaan Rp100 per saham untuk maksimal 100.000 saham baru, total dana yang berpotensi terkumpul dari aksi ini sekitar Rp10 juta."
+  ],
+  "fotoAdegan": "Engineers inspecting turbine equipment inside a compact hydroelectric power plant beside a fast-flowing forest river, morning mist rising.",
+  "takeaway": "Laporan ini netral bagi ARKO: skala rights issue tergolong sangat kecil, maksimal 100.000 saham baru senilai sekitar Rp10 juta, sehingga sulit dibaca sebagai sinyal kuat ke arah manapun tanpa mengetahui porsinya dari total saham beredar ARKO saat ini. Yang tersentuh adalah jumlah saham beredar, yang bisa membuat laba per saham, yakni keuntungan bersih dibagi jumlah saham, sedikit terdilusi karena ada saham baru, sementara ekuitas perusahaan bertambah tipis dari dana segar hasil pelaksanaan HMETD. Rencana penggunaan dana dan penjelasan rasio disebut ada dalam dokumen tapi rinciannya belum terbuka ke publik lewat ringkasan ini. Yang perlu dipantau berikutnya adalah periode pelaksanaan HMETD pada 5-6 Oktober 2026 dan tanggal penjatahan pada 12 Oktober 2026, karena dari situ baru terlihat berapa saham baru yang benar-benar terserap pasar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-panggil-rupslb-untuk-setujui-pmhmetd",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Panggil RUPSLB untuk Setujui [PMHMETD]",
+  "deck": "Arkora Hydro menjadwalkan RUPS Luar Biasa 26 September 2026 dengan satu agenda: persetujuan rencana penambahan modal lewat rights issue.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T10:24:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E002_8d609b9b-57e5-4e8c-8dd8-5a3fd7641cb2-20260926102405.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "RUPSLB",
+   "rights issue",
+   "PMHMETD"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) untuk tahun buku 2025. Rapat dijadwalkan berlangsung pada 26 September 2026 pukul 10.00 WIB melalui sarana elektronik eASY.KSEI. Agenda rapat hanya satu: persetujuan rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD), yaitu mekanisme penerbitan saham baru yang harus ditawarkan lebih dulu kepada pemegang saham lama sebelum ditawarkan ke pihak lain.",
+   "Perseroan menetapkan tanggal daftar pemegang saham (DPS), yaitu batas kepemilikan saham yang berhak hadir dan memberi suara dalam rapat, jatuh pada 26 September 2026 juga. Pelaksanaan RUPS dibantu oleh notaris berkode ASA dan biro administrasi efek HASAN, sesuai keterangan resmi yang disampaikan Perseroan.",
+   "Rencana PMHMETD ini merupakan kelanjutan dari rencana rights issue yang sebelumnya sudah diumumkan Perseroan, yakni penerbitan saham baru dengan jumlah maksimal 100.000 lembar senilai sekitar Rp10 juta. RUPSLB kali ini adalah tahap formal di mana pemegang saham diminta memberikan persetujuan atas rencana tersebut sebelum penerbitan saham benar-benar dijalankan."
+  ],
+  "fotoAdegan": "Technicians inspecting turbine machinery at a small hydroelectric plant beside a fast river in a forested valley.",
+  "takeaway": "Laporan ini netral bagi ARKO, karena isinya sebatas jadwal rapat persetujuan atas rencana penambahan modal yang skalanya sudah diketahui sangat kecil, maksimal 100.000 saham baru senilai sekitar Rp10 juta. Yang tersentuh dari rencana ini adalah jumlah saham beredar, yaitu total lembar saham perusahaan yang dipegang publik, karena penambahan saham baru berpotensi menambah jumlah itu dan sedikit menipiskan laba per saham, yaitu bagian laba yang jatuh ke setiap lembar saham, tapi karena skalanya remah dampaknya nyaris tidak akan terasa. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 26 September 2026 pukul 10.00, karena keputusan pemegang saham dalam rapat itulah yang menentukan apakah rencana penambahan modal ini benar-benar berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-rups-setujui-transaksi-afiliasi-2026",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: RUPS Setujui [Transaksi Afiliasi] 2026",
+  "deck": "RUPS independen ARKO menyetujui rencana transaksi afiliasi tahun buku 2026, dihadiri pemegang saham yang mewakili 1 persen dari total saham berhak suara Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T10:16:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E013_e4dc1856-4238-48a8-b61a-5c0d94f6626e-20260926101556.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "RUPS",
+   "Transaksi Afiliasi",
+   "Arkora Hydro"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) menggelar Rapat Umum Pemegang Saham Independen pada 26 September 2026 untuk meminta persetujuan atas rencana transaksi afiliasi tahun buku 2026. Rapat ini hanya dihadiri oleh pemegang saham yang mewakili 80.000.000 saham, setara 1 persen dari seluruh saham Perseroan yang berhak suara sah, karena RUPS independen memang sengaja mengecualikan suara pemegang saham yang berafiliasi dengan pihak dalam transaksi tersebut.",
+   "Berdasarkan risalah yang disampaikan Perseroan, agenda tunggal rapat yaitu persetujuan transaksi afiliasi untuk tahun buku 2026 dinyatakan disetujui oleh pemegang saham independen yang hadir. Dokumen yang diterima bursa tidak merinci nilai transaksi, pihak lawan, maupun tujuan dari transaksi afiliasi yang dimaksud, sehingga substansi kesepakatan itu belum bisa dijelaskan lebih jauh dari ringkasan risalah ini.",
+   "Dalam dokumen yang sama, Perseroan turut mencantumkan susunan direksi dan dewan komisaris, dengan Aldo Henry Artoko tetap menjabat Direktur Utama dan Arya Pradana Setiadharma tetap menjabat Komisaris Utama, tanpa ada perubahan susunan pengurus dari hasil RUPS sebelumnya yang sudah pernah dilaporkan."
+  ],
+  "fotoAdegan": "A run-of-river hydropower intake channel in a forested Indonesian valley, water rushing past concrete walls, overcast morning light",
+  "takeaway": "Laporan ini netral bagi ARKO, karena yang diumumkan cuma hasil pemungutan suara, bukan substansi transaksi afiliasinya, sehingga belum ada dasar untuk menilai untung atau ruginya bagi perusahaan. Transaksi afiliasi berarti kesepakatan dengan pihak yang punya hubungan dengan Perseroan, misalnya pemegang saham pengendali atau direksi, dan RUPS jenis ini sengaja hanya menghitung suara pemegang saham independen, itu sebabnya kuorum yang hadir cuma 80 juta saham atau 1 persen dari total saham berhak suara. Karena nilai transaksi, pihak lawan, dan tujuannya tidak disebut dalam dokumen ini, dampaknya terhadap kas atau utang perusahaan belum bisa diukur pembaca. Yang perlu dipantau selanjutnya adalah keterbukaan informasi rinci soal transaksi afiliasi ini, termasuk nilai dan pihak yang terlibat, yang biasanya menyusul terpisah dari ringkasan risalah RUPS semacam ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-baru-pakai-rp375-000-dari-dana-ipo-sisa-rp500-000-ipo",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Baru Pakai Rp375.000 dari Dana IPO, Sisa Rp500.000 [IPO]",
+  "deck": "ARKO melaporkan realisasi dana IPO periode 30 Juni 2026: dari dana bersih Rp875.000, Rp375.000 sudah dipakai untuk bangun kantor, sementara Rp500.000 untuk beli motor belum terealisasi sama sekali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T09:34:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E022_84970633-7bbd-48b4-990c-c7d3dbf93c94-20260926102731.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "penggunaan dana IPO",
+   "penawaran umum"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) melaporkan penggunaan dana hasil penawaran umum saham (IPO) untuk periode pelaporan per 30 Juni 2026, mengacu pada rencana yang tertulis di prospektus. IPO ARKO efektif pada 19 September 2026 dengan total dana yang terhimpun Rp1.000.000. Setelah dipotong biaya penawaran umum sebesar Rp125.000, yang terdiri dari biaya jasa penjaminan emisi (underwriting fee) Rp100.000 dan biaya pendaftaran Rp25.000, dana bersih yang diterima ARKO tercatat Rp875.000.",
+   "Dari dana bersih tersebut, prospektus mengalokasikan Rp375.000 (42,86 persen) untuk pembangunan kantor dan Rp500.000 (57,14 persen) untuk pembelian sepeda motor. Sampai akhir Juni 2026, ARKO baru merealisasikan penuh penggunaan dana untuk pembangunan kantor, yang dicatat sebagai aset tetap. Sementara itu, pos pembelian motor belum terealisasi sama sekali sehingga seluruh Rp500.000 masih mengendap. Target waktu penyelesaian kedua pos itu sama-sama tercatat pada 26 September 2026.",
+   "Sisa dana yang belum digunakan, Rp500.000, ditempatkan dalam bentuk deposito dengan keterangan \"Deposito Hasan\", memberikan tingkat bunga 5 persen untuk jangka waktu 10 bulan, dan pihak penyimpan berstatus pihak ketiga tanpa hubungan afiliasi dengan ARKO. Dokumen ini ditandatangani atas nama Hasan Emiten dan menyatakan bahwa laporan ini bukan laporan penggunaan dana yang terakhir, sehingga ARKO masih wajib menyampaikan realisasi lanjutan pada periode berikutnya."
+  ],
+  "fotoAdegan": "A small run-of-river hydropower channel on a forested hillside, technicians in hard hats inspecting pipes, soft misty morning light",
+  "takeaway": "Laporan ini netral bagi ARKO, karena sifatnya wajib dan rutin, dan nilai dana yang dilaporkan tergolong kecil sehingga tidak mengubah gambaran besar keuangan perusahaan. Yang tersentuh di sini adalah pos kas dan aset tetap, karena dana IPO yang sudah dicairkan sebagian dipindahkan menjadi bangunan kantor yang tercatat sebagai aset tetap, sementara sisanya masih berupa uang tunai yang disimpan di deposito, sehingga pemegang saham bisa memantau apakah dana benar dipakai sesuai janji di prospektus. Yang perlu diawasi berikutnya adalah pos pembelian motor senilai Rp500.000: target penyelesaiannya tercatat 26 September 2026, yaitu hari yang sama dengan tanggal laporan ini, tapi realisasinya masih nol, sehingga pasar perlu menunggu apakah ARKO memperpanjang target itu, mengubah rencana lewat RUPS, atau memberi penjelasan ke bursa, sekaligus menanti laporan penggunaan dana periode berikutnya karena LRPD ini belum yang terakhir.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bi-teken-mou-sistem-pembayaran-dengan-timor-leste-di-fekdi-2026",
   "category": "Moneter",
   "title": "BI Teken MoU Sistem Pembayaran dengan [Timor-Leste] di FEKDI 2026",

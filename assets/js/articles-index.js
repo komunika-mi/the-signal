@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "aadi-resmi-delisting-dari-bursa-efektif-hari-ini",
+  "category": "Aksi Korporasi",
+  "title": "AADI Resmi [Delisting] dari Bursa, Efektif Hari Ini",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan saham AADI, PT Adaro Andalan Indonesia Tbk, per 26 September 2026 dengan alasan forced delisting dan go private.",
+  "date": "26 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AADI",
+   "delisting",
+   "go private",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_AADI_B006_07bb9fdd-8a12-4127-b99f-9918d0c9424b-20260926115119.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-test-resmi-delisting-dari-bursa-efektif-26-september",
+  "category": "Aksi Korporasi",
+  "title": "Saham TEST Resmi [Delisting] dari Bursa, Efektif 26 September",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan saham berkode TEST secara paksa (forced delisting) sekaligus status go private, efektif 26 September 2026.",
+  "date": "26 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEST",
+   "delisting",
+   "go private",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_TEST_B006_768b604e-981e-491f-ac61-0a18638fe8fa-20260926102826.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-terbitkan-hingga-100-000-saham-baru-lewat-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Terbitkan hingga 100.000 Saham Baru Lewat [HMETD]",
+  "deck": "PT Arkora Hydro Tbk menetapkan rasio HMETD 1:1 dengan harga pelaksanaan Rp100 per saham, efektif mulai 27 September 2026.",
+  "date": "26 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "HMETD",
+   "penambahan modal",
+   "Arkora Hydro"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E0X3_c37455bb-9dec-4f15-9aa3-48ac73cd2768-20260926102719.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-panggil-rupslb-untuk-setujui-pmhmetd",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Panggil RUPSLB untuk Setujui [PMHMETD]",
+  "deck": "Arkora Hydro menjadwalkan RUPS Luar Biasa 26 September 2026 dengan satu agenda: persetujuan rencana penambahan modal lewat rights issue.",
+  "date": "26 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "RUPSLB",
+   "rights issue",
+   "PMHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E002_8d609b9b-57e5-4e8c-8dd8-5a3fd7641cb2-20260926102405.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-rups-setujui-transaksi-afiliasi-2026",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: RUPS Setujui [Transaksi Afiliasi] 2026",
+  "deck": "RUPS independen ARKO menyetujui rencana transaksi afiliasi tahun buku 2026, dihadiri pemegang saham yang mewakili 1 persen dari total saham berhak suara Perseroan.",
+  "date": "26 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "RUPS",
+   "Transaksi Afiliasi",
+   "Arkora Hydro"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E013_e4dc1856-4238-48a8-b61a-5c0d94f6626e-20260926101556.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-baru-pakai-rp375-000-dari-dana-ipo-sisa-rp500-000-ipo",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Baru Pakai Rp375.000 dari Dana IPO, Sisa Rp500.000 [IPO]",
+  "deck": "ARKO melaporkan realisasi dana IPO periode 30 Juni 2026: dari dana bersih Rp875.000, Rp375.000 sudah dipakai untuk bangun kantor, sementara Rp500.000 untuk beli motor belum terealisasi sama sekali.",
+  "date": "26 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "penggunaan dana IPO",
+   "penawaran umum"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E022_84970633-7bbd-48b4-990c-c7d3dbf93c94-20260926102731.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bi-teken-mou-sistem-pembayaran-dengan-timor-leste-di-fekdi-2026",
   "category": "Moneter",
   "title": "BI Teken MoU Sistem Pembayaran dengan [Timor-Leste] di FEKDI 2026",
@@ -6418,105 +6514,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468212-25-merek-beras-fortifikasi-kena-sanksi-kandungan-gizi-tak-sesuai-label"
- },
- {
-  "slug": "rupiah-melemah-tujuh-hari-beruntun-ke-rp17-758-us",
-  "category": "Moneter",
-  "title": "[Rupiah] Melemah Tujuh Hari Beruntun ke Rp17.758/US$",
-  "deck": "Rupiah melemah ketujuh kalinya beruntun ke Rp17.758 per dolar AS setelah The Fed menaikkan suku bunga, menambah tekanan biaya impor bagi industri manufaktur dan tekstil.",
-  "date": "20 September 2026",
-  "image": "assets/img/rupiah-melemah-tujuh-hari-beruntun-ke-rp17-758-us.jpg",
-  "imageV": "mu9ln8hk",
-  "tags": [
-   "rupiah",
-   "the fed",
-   "suku bunga",
-   "dolar as"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468210-rupiah-tertekan-7-hari-beruntun-industri-mulai-waspadai-lonjakan-biaya-impor"
- },
- {
-  "slug": "pajak-air-tanah-10-kendalikan-pemakaian-di-jakarta",
-  "category": "Bisnis",
-  "title": "Pajak Air Tanah [10%] Kendalikan Pemakaian di Jakarta",
-  "deck": "Pemprov DKI Jakarta mengenakan Pajak Air Tanah sebesar 10% untuk menekan eksploitasi air tanah sekaligus menambah pendapatan daerah dari sektor usaha.",
-  "date": "20 September 2026",
-  "image": "assets/img/pajak-air-tanah-10-kendalikan-pemakaian-di-jakarta.jpg",
-  "imageV": "mu9avee3",
-  "tags": [
-   "pajak air tanah",
-   "DKI Jakarta",
-   "pajak daerah",
-   "air tanah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468137-pajak-air-tanah-bantu-kendalikan-penggunaan-air-sekaligus-dukung-pembangunan-jakarta"
- },
- {
-  "slug": "bmbl-direksi-jual-2-5-juta-saham-demi-likuiditas",
-  "category": "Aksi Korporasi",
-  "title": "BMBL: Direksi [Jual] 2,5 Juta Saham demi Likuiditas",
-  "deck": "Direksi BMBL, Sentra Investa Maksima, melepas 2,5 juta saham senilai sekitar Rp76,5 juta pada 16 September 2026, sehingga hak suaranya turun dari 9,00 persen menjadi 8,76 persen.",
-  "date": "20 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMBL",
-   "kepemilikan saham",
-   "direksi",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20092026-5384-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unvr-ungkap-keberlanjutan-tak-cukup-sekadar-csr",
-  "category": "Industri",
-  "title": "UNVR Ungkap [Keberlanjutan] Tak Cukup Sekadar CSR",
-  "deck": "Unilever Indonesia menyebut prinsip keberlanjutan kini harus melekat di seluruh rantai bisnis, dari bahan baku hingga kemasan, dengan target emisi nol bersih pada 2039.",
-  "date": "19 September 2026",
-  "image": "assets/img/unvr-ungkap-keberlanjutan-tak-cukup-sekadar-csr.jpg",
-  "imageV": "mu8hy5hg",
-  "tags": [
-   "Unilever",
-   "keberlanjutan",
-   "UNVR",
-   "plastik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468104-keberlanjutan-tak-cuma-soal-csr-unilever-unvr-ungkap-perlunya-integrasi-dalam-rantai-bisnis"
- },
- {
-  "slug": "pertamina-kembali-puncaki-fortune-indonesia-100-2026",
-  "category": "BUMN",
-  "title": "Pertamina Kembali [Puncaki] Fortune Indonesia 100 2026",
-  "deck": "Pertamina kembali puncaki Fortune Indonesia 100 2026 dengan pendapatan Rp1.189,74 triliun dan laba bersih Rp56,23 triliun pada tahun fiskal 2025.",
-  "date": "19 September 2026",
-  "image": "assets/img/pertamina-kembali-puncaki-fortune-indonesia-100-2026.jpg",
-  "imageV": "mu8hyhdn",
-  "tags": [
-   "Pertamina",
-   "Fortune Indonesia 100",
-   "BUMN",
-   "Laba Bersih"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468097-pertamina-raih-posisi-puncak-di-fortune-indonesia-100-gala-2026-buktikan-ketahanan-kinerja-cemerlang"
- },
- {
-  "slug": "devisa-pariwisata-ri-tembus-us-8-43-miliar-semester-i-2026",
-  "category": "Makroekonomi",
-  "title": "Devisa Pariwisata RI [Tembus] US$8,43 Miliar Semester I 2026",
-  "deck": "Sektor pariwisata menyumbang devisa US$8,43 miliar pada semester I 2026, melanjutkan capaian tahun lalu senilai US$18,27 miliar.",
-  "date": "19 September 2026",
-  "image": "assets/img/devisa-pariwisata-ri-tembus-us-8-43-miliar-semester-i-2026.jpg",
-  "imageV": "mu8aeh2k",
-  "tags": [
-   "devisa",
-   "pariwisata",
-   "wisatawan mancanegara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468077-devisa-pariwisata-indonesia-tembus-843-miliar-dolar-as-pada-semester-i-2026"
  }
 ];

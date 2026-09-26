@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pengguna-qris-tembus-65-8-juta-transaksi-tumbuh-93-9",
+  "category": "Moneter",
+  "title": "Pengguna QRIS Tembus 65,8 Juta, Transaksi [Tumbuh] 93,9%",
+  "deck": "Rangkaian FEKDI x IFSE 2026 ditutup dengan data terbaru: transaksi QRIS semester I 2026 tumbuh 93,92 persen menjadi Rp1,12 kuadriliun, dan cakupannya ke luar negeri bertambah.",
+  "date": "26 September 2026",
+  "image": "assets/img/gedung-bi.jpg",
+  "tags": [
+   "QRIS",
+   "ekonomi digital",
+   "UMKM",
+   "pembayaran lintas negara"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7114/pemerintah-perkuat-transformasi-ekonomi-digital-untuk-dorong-produktivitas-dan-daya-saing-nasional",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "bi-luncurkan-travel-pack-digital-untuk-turis-asing",
+  "category": "Moneter",
+  "title": "BI Luncurkan [Travel Pack] Digital untuk Turis Asing",
+  "deck": "Bank Indonesia dan mitra meluncurkan panduan pembayaran digital bagi turis asing dari negara yang belum tercakup QRIS Antarnegara.",
+  "date": "26 September 2026",
+  "image": "assets/img/bi-luncurkan-travel-pack-digital-untuk-turis-asing.jpg",
+  "imageV": "muimb4mx",
+  "tags": [
+   "QRIS Antarnegara",
+   "Bank Indonesia",
+   "Pariwisata",
+   "FEKDI 2026"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820426.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "stok-beras-bulog-tembus-4-8-juta-ton-gudang-kewalahan",
   "category": "BUMN",
   "title": "Stok Beras Bulog [Tembus] 4,8 Juta Ton, Gudang Kewalahan",
@@ -6488,37 +6522,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-kbji-2026-jadi-acuan-bersama-dunia-kerja",
   "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "ammn-raup-laba-us-504-juta-h1-2026-utang-bersih-turun-13",
-  "category": "Aksi Korporasi",
-  "title": "AMMN raup laba US$504 juta H1 2026, utang bersih [turun] 13%",
-  "deck": "AMMN membukukan lonjakan penjualan bersih menjadi US$2,05 miliar dan laba bersih US$504 juta pada semester I 2026, sekaligus memangkas utang bersih 13 persen menjadi US$5,03 miliar.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMMN",
-   "tambang tembaga",
-   "kinerja keuangan",
-   "smelter"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fe5ca7679d_ed147552f8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hexa-bagikan-dividen-us-11-19-juta-rotasi-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "HEXA Bagikan [Dividen] US$11,19 Juta, Rotasi Komisaris",
-  "deck": "RUPS Hexindo menyetujui dividen tunai 70 persen laba bersih senilai US$11,19 juta, sekaligus menukar posisi presiden komisaris antara Harry Danui dan Toto Wahyudiyanto.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEXA",
-   "RUPS",
-   "dividen",
-   "Hexindo Adiperkasa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a71c414081_be85d54f6e.pdf",
-  "sourceLabel": "IDX"
  }
 ];

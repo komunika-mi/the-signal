@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pengguna-qris-tembus-65-8-juta-transaksi-tumbuh-93-9",
+  "category": "Moneter",
+  "title": "Pengguna QRIS Tembus 65,8 Juta, Transaksi [Tumbuh] 93,9%",
+  "deck": "Rangkaian FEKDI x IFSE 2026 ditutup dengan data terbaru: transaksi QRIS semester I 2026 tumbuh 93,92 persen menjadi Rp1,12 kuadriliun, dan cakupannya ke luar negeri bertambah.",
+  "image": "assets/img/gedung-bi.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T16:36:34.949Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7114/pemerintah-perkuat-transformasi-ekonomi-digital-untuk-dorong-produktivitas-dan-daya-saing-nasional",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "QRIS",
+   "ekonomi digital",
+   "UMKM",
+   "pembayaran lintas negara"
+  ],
+  "body": [
+   "Kementerian Koordinasi Bidang Perekonomian merilis data terbaru penggunaan QRIS bertepatan dengan penutupan rangkaian acara FEKDI x IFSE 2026 pada Sabtu, 26 September 2026. Data ini penting karena menunjukkan seberapa jauh pembayaran digital sudah merambah usaha kecil, sekaligus arah pemerintah memperluas sistem ini ke luar negeri.",
+   "Hingga Juni 2026, QRIS tercatat memiliki 65,77 juta pengguna dan 44,86 juta merchant, dengan 96,68 persen merchant tersebut adalah UMKM. Sepanjang semester I 2026, jumlah transaksi QRIS mencapai 12,55 miliar dengan nilai sekitar Rp1,12 kuadriliun, setara lebih dari seribu triliun rupiah, tumbuh 93,92 persen dibanding periode yang sama tahun sebelumnya.",
+   "Selain di dalam negeri, QRIS Antarnegara sudah bisa digunakan untuk transaksi di Thailand, Malaysia, Singapura, Jepang, Korea Selatan, dan Tiongkok. Pemerintah berencana memperluasnya lagi ke Hong Kong dan Timor-Leste, yang jika terwujud akan mempermudah transaksi lintas negara bagi wisatawan maupun pelaku usaha, termasuk UMKM yang ingin menjangkau pasar di negara-negara tersebut.",
+   "Kementerian Koordinasi Bidang Perekonomian menyebut penguatan ekonomi digital ini sejalan dengan RPJMN 2025-2029 yang menempatkan transformasi digital sebagai salah satu prioritas pembangunan. Dalam sambutannya, Analis Kebijakan Ahli Utama Rizal Edwin menekankan agar keamanan, pelindungan konsumen, dan tata kelola data ikut diperkuat seiring perluasan konektivitas digital, bukan hanya soal menambah jumlah pengguna."
+  ],
+  "fotoAdegan": "A small food stall vendor holding a smartphone to scan a payment code at a busy morning street market in Indonesia, code surface angled away",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah dari siaran ini adalah angka pertumbuhan transaksi QRIS: sepanjang semester pertama 2026 nilainya mencapai Rp1,12 kuadriliun, atau lebih dari seribu triliun rupiah, tumbuh 93,92 persen dibanding periode yang sama tahun lalu. Yang paling terdampak adalah UMKM, karena hampir semua merchant QRIS, sebanyak 96,68 persen dari 44,86 juta merchant, adalah usaha kecil yang mengandalkan sistem pembayaran ini untuk transaksi harian. Pola perluasan QRIS ke Thailand, Malaysia, Singapura, Jepang, Korea Selatan, dan Tiongkok, dengan rencana menambah Hong Kong dan Timor-Leste, menunjukkan arah kebijakan bergerak dari sekadar memperbanyak pengguna di dalam negeri menuju menjadikan QRIS alat pembayaran lintas negara. Yang akan memastikan arah ini benar-benar berjalan adalah apakah perluasan ke Hong Kong dan Timor-Leste itu terealisasi dengan tanggal pasti, sebab sejauh ini pemerintah baru menyebutnya sebagai rencana tanpa kepastian waktu.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "bi-luncurkan-travel-pack-digital-untuk-turis-asing",
+  "category": "Moneter",
+  "title": "BI Luncurkan [Travel Pack] Digital untuk Turis Asing",
+  "deck": "Bank Indonesia dan mitra meluncurkan panduan pembayaran digital bagi turis asing dari negara yang belum tercakup QRIS Antarnegara.",
+  "image": "assets/img/bi-luncurkan-travel-pack-digital-untuk-turis-asing.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T16:36:07.183Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820426.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "QRIS Antarnegara",
+   "Bank Indonesia",
+   "Pariwisata",
+   "FEKDI 2026"
+  ],
+  "body": [
+   "Bank Indonesia bersama Kementerian Ekonomi Kreatif, Kementerian Komunikasi dan Digital, Kementerian Pariwisata, Pemerintah Provinsi Banten, dan Asosiasi Sistem Pembayaran Indonesia meluncurkan Indonesia Travel Pack, sebuah panduan digital berbentuk e-book bagi wisatawan mancanegara. Panduan ini diperkenalkan pada hari ketiga Festival Ekonomi Keuangan Digital Indonesia dan Indonesia Fintech Summit & Expo (FEKDI x IFSE) 2026 di Jakarta International Convention Center, Jumat (26/9). Isinya memuat informasi destinasi wisata, jaringan telekomunikasi, serta pilihan layanan pembayaran yang bisa diakses turis dengan memindai kode di berbagai titik layanan wisatawan. Sasarannya adalah turis dari negara yang sistem pembayarannya belum terhubung dengan QRIS Antarnegara, kanal pembayaran kode QR yang menghubungkan Indonesia dengan sejumlah negara mitra.",
+   "Menurut data yang dipaparkan Bank Indonesia, kunjungan wisatawan mancanegara ke Indonesia mencapai 15,39 juta pada 2025. Dari jumlah itu, sekitar 60,23 persen berasal dari negara yang belum masuk cakupan QRIS Antarnegara, artinya mayoritas turis asing selama ini belum bisa memakai kemudahan bayar kode QR lintas negara tersebut. Travel Pack disiapkan sebagai jalan pintas bagi kelompok turis ini agar tetap mudah bertransaksi selama di Indonesia, sambil menunggu negara asal mereka terhubung ke sistem QRIS Antarnegara.",
+   "Sejak dimulai pada 2022 hingga Agustus 2026, QRIS Antarnegara baru terhubung dengan enam negara. Dalam periode itu, sistem ini mencatat 17,8 juta transaksi wisatawan asing di Indonesia senilai Rp6,20 triliun, serta 5 juta transaksi wisatawan Indonesia di luar negeri senilai Rp1,85 triliun. Selisih keduanya membuat Indonesia mencatat surplus transaksi, atau net inbound, sebesar Rp4,60 triliun, yakni dana yang masuk dari belanja turis asing melebihi belanja turis Indonesia di luar negeri.",
+   "Dalam sesi diskusi FEKDI x IFSE 2026, Deputi Gubernur Bank Indonesia Thomas A.M. Djiwandono menyebut perluasan konektivitas pembayaran antarnegara tidak cukup hanya dengan menyambungkan teknologi. Ia menekankan perlunya penyelarasan tiga hal antarnegara mitra, yaitu aturan main yang jelas termasuk pelindungan konsumen, proses bisnis yang efisien, dan teknologi yang tahan terhadap gangguan operasional maupun serangan siber. Menurut Bank Indonesia, capaian QRIS Antarnegara juga diganjar penghargaan 50-in-5 Awards 2026 kategori Kolaborasi dari Digital Public Goods Alliance dan Co-Develop."
+  ],
+  "fotoAdegan": "A foreign tourist holding a smartphone to pay a smiling vendor at a bustling outdoor souvenir market stall in Bali, daylight.",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2820426/Cover-sp_2820426.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang sebenarnya berubah bukan sistem QRIS-nya, melainkan solusi sementara bagi turis yang negaranya belum bisa dijangkau sistem itu: Bank Indonesia dan sejumlah kementerian menerbitkan buku panduan digital bernama Indonesia Travel Pack. Ini penting karena data BI sendiri menunjukkan celah yang cukup besar, dari 15,39 juta kunjungan turis asing pada 2025, sekitar 60 persen datang dari negara yang belum terhubung QRIS Antarnegara, kanal pembayaran kode QR lintas negara yang selama ini jadi andalan Bank Indonesia. Yang paling kena dampak adalah pelaku UMKM dan ekonomi kreatif yang menjual ke turis asing, karena kemudahan bayar biasanya ikut menentukan seberapa banyak turis belanja. QRIS Antarnegara sendiri baru menjangkau enam negara dalam sekitar empat tahun sejak 2022, jadi Travel Pack ini terlihat sebagai penambal celah ketimbang solusi permanen, dan yang akan menunjukkan apakah celah ini mengecil adalah ada tidaknya negara mitra baru yang diumumkan Bank Indonesia dalam waktu dekat.",
+  "imageV": "muimb4mx"
+ },
+ {
   "slug": "stok-beras-bulog-tembus-4-8-juta-ton-gudang-kewalahan",
   "category": "BUMN",
   "title": "Stok Beras Bulog [Tembus] 4,8 Juta Ton, Gudang Kewalahan",
@@ -41594,7 +41650,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
   "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/ruang-dealing.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T22:30:21+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463480-rupiah-balik-menekan-dolar-as-mata-uang-paman-sam-turun-ke-rp17693",

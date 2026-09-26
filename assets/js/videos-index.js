@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "lAt-fVqHva4",
+  "title": "Transmigrasi Ubah Lahan Tak Produktif Jadi Sentra Pertanian",
+  "category": "Industri",
+  "program": "Kabar Siang",
+  "summary": "Desa Lagading di Kabupaten Sidrap berkembang menjadi kawasan transmigrasi yang produktif setelah warganya mengolah lahan yang sebelumnya tidak produktif menjadi sentra pertanian.",
+  "takeaway": "Kisah ini menunjukkan bagaimana program transmigrasi bisa mendorong produktivitas sektor pertanian dan menggerakkan ekonomi di daerah."
+ },
+ {
   "id": "AcploF0V5eY",
   "title": "Biaya Haji 2027, Tarif Penerbangan Belum Disepakati",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "AKIP",
   "summary": "Bea Cukai menggagalkan penyelundupan 29 kilogram emas di empat bandara dengan nilai barang mencapai Rp73,3 miliar dan potensi penerimaan negara sebesar Rp8,5 miliar.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut potensi kerugian penerimaan negara dari sektor perdagangan dan pengawasan arus barang lintas batas."
- },
- {
-  "id": "0fcZP7ltl3k",
-  "title": "Kadin Manggarai dan Manggarai Timur Gelar Pelantikan Ketua",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Bonny Romas kembali dipercaya memimpin Kadin Kabupaten Manggarai, sementara Maximilian Nalang Firman Demorin memimpin Kadin Manggarai Timur untuk periode kedua.",
-  "takeaway": "Pergantian kepengurusan Kadin daerah penting diikuti pelaku usaha lokal karena memengaruhi arah advokasi dan kemitraan bisnis di wilayah tersebut."
  }
 ];

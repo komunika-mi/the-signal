@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "lAt-fVqHva4",
+  "title": "Transmigrasi Ubah Lahan Tak Produktif Jadi Sentra Pertanian",
+  "category": "Industri",
+  "program": "Kabar Siang",
+  "summary": "Desa Lagading di Kabupaten Sidrap berkembang menjadi kawasan transmigrasi yang produktif setelah warganya mengolah lahan yang sebelumnya tidak produktif menjadi sentra pertanian.",
+  "takeaway": "Kisah ini menunjukkan bagaimana program transmigrasi bisa mendorong produktivitas sektor pertanian dan menggerakkan ekonomi di daerah.",
+  "terbit": "2026-09-26T05:51:48+00:00"
+ },
+ {
   "id": "AcploF0V5eY",
   "title": "Biaya Haji 2027, Tarif Penerbangan Belum Disepakati",
   "category": "Bisnis",

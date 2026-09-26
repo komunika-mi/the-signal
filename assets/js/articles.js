@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari siaran ini adalah angka pertumbuhan transaksi QRIS: sepanjang semester pertama 2026 nilainya mencapai Rp1,12 kuadriliun, atau lebih dari seribu triliun rupiah, tumbuh 93,92 persen dibanding periode yang sama tahun lalu. Yang paling terdampak adalah UMKM, karena hampir semua merchant QRIS, sebanyak 96,68 persen dari 44,86 juta merchant, adalah usaha kecil yang mengandalkan sistem pembayaran ini untuk transaksi harian. Pola perluasan QRIS ke Thailand, Malaysia, Singapura, Jepang, Korea Selatan, dan Tiongkok, dengan rencana menambah Hong Kong dan Timor-Leste, menunjukkan arah kebijakan bergerak dari sekadar memperbanyak pengguna di dalam negeri menuju menjadikan QRIS alat pembayaran lintas negara. Yang akan memastikan arah ini benar-benar berjalan adalah apakah perluasan ke Hong Kong dan Timor-Leste itu terealisasi dengan tanggal pasti, sebab sejauh ini pemerintah baru menyebutnya sebagai rencana tanpa kepastian waktu.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "bi-luncurkan-travel-pack-digital-untuk-turis-asing",

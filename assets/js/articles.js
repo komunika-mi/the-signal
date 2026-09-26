@@ -1927,6 +1927,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "epmt-pangkas-modal-mdi-dan-egd-tarik-rp16-3-miliar",
+  "category": "Aksi Korporasi",
+  "title": "EPMT Pangkas Modal MDI dan EGD, Tarik [Rp16,3 Miliar]",
+  "deck": "Enseval memangkas modal dua anak usahanya, PT Millenia Dharma Insani dan PT Emos Global Digital, lalu menerima kembali dana tunai sekitar Rp16,3 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T16:02:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/909e2e5484_2b90f72691.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EPMT",
+  "tags": [
+   "EPMT",
+   "Enseval Putera Megatrading",
+   "Kalbe Farma",
+   "pengurangan modal"
+  ],
+  "body": [
+   "Enseval Putera Megatrading Tbk (EPMT) melaporkan penurunan modal ditempatkan dan disetor pada dua entitas anaknya, PT Millenia Dharma Insani (MDI) dan PT Emos Global Digital (EGD), yang efektif berlaku pada 24 September 2026 setelah mendapat persetujuan Kementerian Hukum RI awal September 2026.",
+   "Di MDI, modal ditempatkan dan disetor turun dari Rp114 miliar menjadi Rp104 miliar. Sebelum pengurangan, saham MDI dipegang EPMT sebanyak 1.138.750 lembar dan PT Tri Sapta Jaya (TSJ) sebanyak 1.250 lembar, dengan nilai nominal Rp100.000 per lembar. Setelah penyesuaian, EPMT memegang 1.038.860 lembar senilai Rp103,886 miliar dan TSJ memegang 1.140 lembar senilai Rp114 juta, sehingga proporsi kepemilikan keduanya tidak berubah. Sebagai bagian dari proses ini, MDI mengembalikan dana tunai Rp9.989.000.000 kepada EPMT dan Rp11.000.000 kepada TSJ pada 24 September 2026.",
+   "Di EGD, modal ditempatkan dan disetor turun dari Rp36,5 miliar menjadi Rp25 miliar. Pemegang sahamnya adalah EPMT sebanyak 20.075 lembar dan PT Kalbe Farma Tbk (KLBF) sebanyak 16.425 lembar, dengan nilai nominal Rp1.000.000 per lembar. Setelah pengurangan, EPMT memegang 13.750 lembar senilai Rp13,75 miliar dan KLBF memegang 11.250 lembar senilai Rp11,25 miliar, sehingga rasio kepemilikan 55 banding 45 persen tetap sama. EGD mengembalikan dana tunai Rp6.325.000.000 kepada EPMT dan Rp5.175.000.000 kepada KLBF pada tanggal yang sama.",
+   "Kedua pengurangan modal ini berasal dari akta notaris tertanggal 2 Juli 2026, diumumkan lewat iklan di harian Terbit pada 7 Juli 2026 dengan masa keberatan kreditur 60 hari kalender. Karena tidak ada kreditur yang mengajukan keberatan, Kementerian Hukum RI menerbitkan persetujuan perubahan anggaran dasar untuk MDI dan EGD pada 6 September 2026, yang kemudian diikuti pencairan dana pengembalian ekuitas pada 24 September 2026. Perseroan menyatakan aksi ini tidak berdampak material terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Warehouse staff stacking boxes of health products onto pallets under fluorescent lights, a forklift idling nearby",
+  "takeaway": "Penilaian kami netral, karena porsi kepemilikan EPMT di MDI maupun di EGD tidak berubah sama sekali, hanya ukuran modalnya yang dirampingkan, dan total dana yang berpindah, sekitar Rp16,3 miliar, tergolong kecil untuk skala usaha distribusi produk kesehatan sebesar Enseval. Yang tersentuh dari aksi ini adalah pos ekuitas di kedua anak usaha, karena mereka mengecilkan modal disetornya dan melepas sisa dananya sebagai kas ke pemegang saham. Bagi EPMT sendiri dampaknya ke arus kas, karena perusahaan menerima uang tunai masuk tanpa menambah utang atau menerbitkan saham baru, meski jumlahnya tidak besar dibanding total pendapatan Enseval. Seluruh proses hukumnya sudah rampung, izin Kementerian Hukum RI terbit 6 September 2026 dan dananya sudah cair 24 September 2026, sehingga yang perlu diperhatikan selanjutnya adalah ke mana Enseval mengalokasikan dana yang kembali ini, yang baru akan terlihat di laporan keuangan konsolidasi periode berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha",
   "category": "Perbankan",
   "title": "Bank Mandiri Perkuat [Livin' Merchant] untuk Pelaku Usaha",
@@ -2056,6 +2083,84 @@ var ARTICLES = [
   "fotoAdegan": "Technicians in helmets inspecting pipelines at an onshore oil and gas processing facility, golden afternoon light",
   "takeaway": "Laporan ini condong negatif secara terbatas bagi MEDC: seorang komisaris melepas hampir seperempat dari saham pribadinya sendiri, bukan cuma remah kecil, meski nilainya tidak besar dibanding ukuran perusahaan. Yang tersentuh adalah hak suara pelapor, yaitu porsi kekuatan suara pemegang saham dalam rapat pemegang saham dibanding total saham beredar, yang turun dari 0,05 persen menjadi 0,04 persen; angka itu sendiri sangat kecil di level perusahaan karena porsi awal Lorato memang nyaris tidak berarti dibanding total saham MEDC yang beredar, jadi ini tidak mengubah peta kendali perusahaan. Yang membuat laporan ini tetap layak dicermati adalah skalanya terhadap kepemilikan pribadi sang komisaris, sekitar 22,8 persen dari sahamnya sendiri, jauh di atas ambang yang biasa dianggap sekadar transaksi rutin. Yang perlu dipantau berikutnya adalah apakah ada laporan serupa dari anggota direksi atau komisaris lain MEDC dalam waktu dekat, karena pola penjualan yang berulang oleh jajaran petinggi perusahaan baru terlihat jelas setelah beberapa laporan kepemilikan terkumpul, sementara dokumen ini sendiri tidak mencantumkan tenggat atau agenda RUPS lanjutan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "maya-rombak-direksi-dan-komisaris-independensi-berkurang",
+  "category": "Aksi Korporasi",
+  "title": "MAYA Rombak Direksi dan Komisaris, [Independensi] Berkurang",
+  "deck": "RUPSLB Bank Mayapada menyetujui pergantian direktur dan komisaris, dengan porsi komisaris independen berkurang dari dua menjadi satu orang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T15:19:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ebcd4af0f5_a5d077ec7f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAYA",
+  "tags": [
+   "MAYA",
+   "Bank Mayapada",
+   "RUPSLB",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Bank Mayapada Internasional Tbk (MAYA) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 24 September 2026 di Mayapada Tower 2, Jakarta, yang dihadiri pemegang saham pemilik 23,68 miliar saham atau 90,51 persen dari seluruh saham dengan hak suara sah. Karena ada perbedaan pendapat, keputusan diambil lewat pemungutan suara, bukan musyawarah mufakat. Hasilnya, 90,41 persen suara atau 21,41 miliar saham menyetujui agenda tunggal rapat, sementara 24,92 juta saham atau 0,11 persen menolak dan 2,24 miliar saham atau 9,49 persen memilih abstain.",
+   "Agenda yang disetujui adalah perombakan susunan direksi dan dewan komisaris. Drs. Dai Bachtiar diberhentikan dengan hormat dari jabatan Komisaris Independen, lalu diangkat kembali sebagai Komisaris biasa, tanpa status independen. Peter Suwardi diberhentikan dari jabatan Direktur, dan Handry Husein diangkat sebagai Direktur baru. Perubahan ini berlaku efektif sejak rapat ditutup, dengan masa jabatan mengikuti sisa periode anggota direksi dan komisaris lain, yakni hingga 2 Januari 2030. Dengan begitu, komposisi komisaris kini terdiri dari Dato Sri Prof. DR. Tahir sebagai Komisaris Utama, Ir. Kumhal Djamil sebagai satu-satunya Komisaris Independen, dan Dai Bachtiar sebagai Komisaris. Susunan direksi menjadi Hariyono Tjahjarijadi sebagai Direktur Utama, Chialmi Dialdestoro Rosalim sebagai Wakil Direktur Utama, Rudy Mulyono dan Yohanes Suhardi sebagai Direktur, serta Handry Husein sebagai Direktur baru.",
+   "Perseroan menyebutkan bahwa pengangkatan Dai Bachtiar sebagai Komisaris, Chialmi Dialdestoro Rosalim sebagai Wakil Direktur Utama, dan Handry Husein sebagai Direktur baru berlaku efektif setelah mengikuti uji kemampuan dan kepatutan (fit and proper test) dan mendapat persetujuan Otoritas Jasa Keuangan, sesuai POJK No. 27/POJK.03/2016 dan SEOJK No. 39/SEOJK.03/2016. Rapat juga memberi kuasa kepada direksi untuk menuangkan keputusan ini dalam akta notaris dan mendaftarkannya ke instansi berwenang."
+  ],
+  "fotoAdegan": "Wide angle view of glass and steel bank office towers in Jakarta's central business district under midday sun, traffic below",
+  "takeaway": "Perubahan ini netral bagi fundamental Perseroan karena tidak menyangkut angka keuangan, tapi ada satu poin tata kelola yang patut dicermati: jumlah komisaris independen berkurang dari dua menjadi satu dari tiga kursi komisaris, karena Dai Bachtiar pindah status jadi komisaris biasa. Komisaris independen berfungsi mengawasi manajemen tanpa kepentingan bisnis dengan pemegang saham pengendali, sehingga porsinya yang mengecil biasa diperhatikan otoritas dan investor sebagai indikator kekuatan pengawasan internal bank. Yang perlu dipantau selanjutnya adalah hasil uji kemampuan dan kepatutan dari OJK untuk Dai Bachtiar, Chialmi Dialdestoro Rosalim, dan Handry Husein, karena jabatan baru mereka baru berlaku penuh setelah disetujui regulator, dan belum ada tenggat waktu yang disebutkan dalam dokumen ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asii-direksi-djap-tet-fa-borong-500-000-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Direksi Djap Tet Fa [borong] 500.000 saham baru",
+  "deck": "Direksi ASII Djap Tet Fa menambah kepemilikan lewat pembelian tidak langsung 500.000 saham pada 24 September 2026, naik 14,29 persen dari kepemilikan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T15:14:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-9217-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASII",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "kepemilikan saham direksi",
+   "pasar modal"
+  ],
+  "body": [
+   "Direksi Astra International Tbk (ASII), Djap Tet Fa, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 500.000 saham ASII secara tidak langsung pada 24 September 2026. Pembelian dilakukan melalui mekanisme repurchase agreement dengan harga Rp4.769 per saham, sehingga nilai transaksinya sekitar Rp2,38 miliar. Dalam laporan itu, tujuan transaksi disebutkan sebagai investasi.",
+   "Dengan transaksi ini, jumlah saham ASII yang dimiliki Djap Tet Fa naik dari 3.500.000 unit menjadi 4.000.000 unit, atau bertambah 14,29 persen dari kepemilikannya sebelumnya. Hak suaranya di ASII pun naik, dari 0,0086 persen menjadi 0,0099 persen dari total saham beredar perusahaan.",
+   "Laporan ini menyusul sejumlah laporan serupa dari jajaran direksi dan komisaris ASII dalam sepekan terakhir, termasuk pembelian 250.000 saham oleh Thomas Alim pada 25 September dan pembelian 4,4 juta saham oleh Rudy pada 23 September yang membuat kepemilikannya melonjak lebih dari tiga kali lipat."
+  ],
+  "fotoAdegan": "Workers assembling car engines on an automotive production line at a factory in Indonesia, bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi ASII karena mencerminkan penambahan kepemilikan oleh direksinya sendiri, bukan pelepasan, dengan kenaikan 14,29 persen dari saham yang sebelumnya dimiliki Djap Tet Fa, porsi yang cukup besar untuk dibaca sebagai bentuk keyakinan pribadi terhadap perusahaan. Transaksi ini tidak menambah jumlah saham beredar ASII karena dilakukan lewat pembelian di pasar sekunder, sehingga tidak berpengaruh pada laba per saham perusahaan, tetapi hak suara pribadi Djap Tet Fa di ASII tetap naik dari 0,0086 persen menjadi 0,0099 persen, mencerminkan porsinya yang memang kecil dari total saham ASII yang beredar. Yang perlu dipantau adalah apakah pola pembelian saham oleh jajaran direksi ASII pekan ini, setelah laporan serupa dari Thomas Alim dan Rudy sebelumnya, masih berlanjut dalam laporan-laporan mendatang ke bursa.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "scnp-ganti-kepala-unit-internal-audit-qaaiman-gantikan-arista",
+  "category": "Aksi Korporasi",
+  "title": "SCNP Ganti Kepala Unit Internal Audit, [Qaaiman] Gantikan Arista",
+  "deck": "PT Selaras Citra Nusantara Perkasa Tbk mengganti kepala unit internal audit dari FX Arista Narakrisna menjadi Qaaiman Bil Qisthi, efektif 23 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T14:50:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/35814498c6_2dd2806737.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SCNP",
+  "tags": [
+   "SCNP",
+   "internal audit",
+   "tata kelola perusahaan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Selaras Citra Nusantara Perkasa Tbk (SCNP) mengumumkan pergantian Ketua Unit Internal Audit perusahaan yang berlaku efektif 23 September 2026. Posisi yang sebelumnya dipegang FX Arista Narakrisna kini diserahkan kepada Qaaiman Bil Qisthi. Pemberitahuan ini disampaikan ke Bursa Efek Indonesia oleh Tumpal Sihombing selaku Corporate Secretary Division Head pada 25 September 2026.",
+   "Dalam lampiran surat keterangan yang disertakan, disebutkan bahwa Qaaiman Bil Qisthi sebelumnya menjabat sebagai Internal Audit Senior Staff dan mulai aktif bekerja pada jabatan barunya sebagai Internal Auditor perusahaan sejak 23 September 2026. Surat keterangan tersebut diterbitkan di Cileungsi pada 25 September 2026 dan ditandatangani oleh Muhammad Haidir selaku HC Manager perseroan.",
+   "Unit internal audit bertugas mengawasi kepatuhan dan pengendalian internal perusahaan, sehingga perubahan kepemimpinan di unit ini termasuk informasi yang wajib disampaikan perseroan kepada bursa dan otoritas pasar modal, meski tidak menyangkut jajaran direksi atau komisaris."
+  ],
+  "fotoAdegan": "Two auditors reviewing stacks of ring-binder files at a wooden desk inside a modest company office, soft morning light",
+  "takeaway": "Laporan ini netral bagi SCNP karena hanya menyangkut pergantian kepala unit internal audit di level staf senior, bukan perubahan direksi, komisaris, atau kebijakan bisnis. Unit internal audit tidak memengaruhi pos-pos keuangan seperti ekuitas, arus kas, atau laba per saham secara langsung, tapi perannya penting karena bertugas memastikan pengendalian internal dan kepatuhan berjalan, yang pada akhirnya menjaga keandalan laporan keuangan perusahaan. Surat ini tidak menyebutkan tenggat atau agenda lanjutan seperti RUPS, karena perubahan sudah berlaku sejak 23 September 2026 dan sifatnya administratif rutin. Yang bisa dipantau berikutnya adalah apakah transisi tugas ke Qaaiman Bil Qisthi berjalan mulus tanpa gangguan pada proses audit internal perusahaan.",
+  "sentimen": "netral"
  },
  {
   "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",
@@ -2190,6 +2295,33 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "trin-gandeng-artotel-kelola-hotel-di-collins-boulevard",
+  "category": "Aksi Korporasi",
+  "title": "TRIN Gandeng [Artotel] Kelola Hotel di Collins Boulevard",
+  "deck": "Perintis Triniti Properti (TRIN) resmi menggandeng Artotel Group untuk mengelola hotel di kawasan Collins Boulevard, Serpong, menindaklanjuti MoU Februari 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T13:56:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d43c1bd44_22f535162e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIN",
+  "tags": [
+   "TRIN",
+   "Artotel Group",
+   "Collins Boulevard",
+   "properti"
+  ],
+  "body": [
+   "PT Perintis Triniti Properti Tbk (TRIN) melalui proyek Collins Boulevard menandatangani perjanjian kerja sama pengelolaan hotel dengan Artotel Group pada 24 September 2026. Penandatanganan ini merupakan tindak lanjut dari nota kesepahaman (MoU) yang sudah diteken kedua pihak pada Februari 2026. Berdasarkan perjanjian tersebut, Artotel Group akan mengelola area hotel yang berada di dalam kawasan Collins Boulevard di Serpong, Tangerang.",
+   "COO Collins Boulevard, Harris F. Aison, mengatakan masuknya Artotel Group sebagai pengelola hotel diharapkan menghadirkan pengalaman hospitality yang sesuai dengan karakter kawasan sekaligus memperkuat nilai kawasan secara keseluruhan. Founder & CEO Artotel Group, Erastus Radjimin, menyebut kerja sama ini sebagai peluang memperluas jaringan Artotel Group ke Serpong, salah satu kawasan yang dinilai punya posisi strategis. Penandatanganan turut dihadiri Direktur TRINLAND Septian Starlin dan Director of Business Development Artotel Group Jonathan Mokalu.",
+   "Collins Boulevard sendiri berstatus kawasan mixed-use yang menggabungkan fungsi hunian, komersial, dan hospitality. Konstruksi Tower 1, Hyde Residence, sudah selesai, sementara Tower 2 bernama The Scott masih dalam proses pembangunan. Kehadiran hotel yang dikelola Artotel Group disebut akan melengkapi fungsi-fungsi yang sudah ada di kawasan tersebut.",
+   "Artotel Group merupakan operator hotel asal Indonesia yang mengelola lebih dari 100 hotel dan 10.000 kamar dengan sejumlah merek, antara lain ARTOTEL, DAFAM, MAXONE, dan ROOMS INC, serta menjadi mitra pengelola merek waralaba KYRIAD, GOLDEN TULIP, dan ROYAL TULIP di Indonesia. Dokumen keterbukaan ini tidak mencantumkan nilai kontrak, jumlah kamar hotel yang akan dibangun di Collins Boulevard, maupun target waktu operasional hotel tersebut."
+  ],
+  "fotoAdegan": "Workers applying facade panels on a mid-rise hotel building inside a mixed-use development, scaffolding visible, late afternoon light",
+  "takeaway": "Kabar ini netral cenderung positif bagi TRIN, sebab yang terjadi adalah penambahan mitra operator untuk melengkapi kawasan, bukan transaksi keuangan dengan nilai yang diungkapkan. Pos-pos kinerja seperti ekuitas, arus kas, atau laba per saham TRIN tidak tersentuh langsung oleh perjanjian ini karena Artotel Group masuk sebagai pengelola operasional, bukan sebagai investor yang menyuntik dana ke perusahaan. Nilai tambah baru akan terasa di laporan keuangan kalau nanti hotel ini benar beroperasi dan menyumbang pendapatan sewa atau jasa pengelolaan kawasan. Yang perlu dipantau selanjutnya adalah progres pembangunan Tower 2 The Scott serta kapan TRIN atau Artotel Group mengumumkan jadwal operasional hotel ini, sebab dokumen keterbukaan kali ini belum mencantumkan tanggal maupun nilai kontraknya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "enrg-right-issue-rp4-1-triliun-bakrie-grup-perkuat-kendali-dilusi",
   "category": "Aksi Korporasi",
   "title": "ENRG Right Issue Rp4,1 Triliun, Bakrie Grup Perkuat Kendali [Dilusi]",
@@ -2240,6 +2372,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Coal conveyor loading a barge at a riverside port terminal, workers in safety vests, overcast tropical sky",
   "takeaway": "Laporan ini sendiri netral bagi fundamental Dana Brata Luhur karena tidak mengubah satu pun pos keuangan, tapi statusnya sebagai permintaan Bursa, bukan inisiatif perusahaan, membuatnya layak dicermati. Bursa punya kewenangan meminta emiten menggelar paparan publik insidentil ketika mendeteksi pergerakan harga saham yang dianggap tidak wajar, dan forum semacam ini biasanya dipakai manajemen untuk menjelaskan penyebabnya secara terbuka kepada investor, bukan untuk mengumumkan angka kinerja baru. Yang perlu ditunggu adalah dua tanggal dari dokumen ini sendiri: penyerahan materi paparan ke Bursa paling lambat Senin, 28 September 2026, dan paparan publiknya sendiri pada Kamis, 1 Oktober 2026 pukul 14.00 WIB, saat itulah publik akan tahu penjelasan resmi manajemen soal pergerakan sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgeo-mulai-pengeboran-sumur-kedua-pltp-lumut-balai-unit-3",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Mulai [Pengeboran] Sumur Kedua PLTP Lumut Balai Unit 3",
+  "deck": "PGE memulai pengeboran sumur kedua LMB-19.4 untuk PLTP Lumut Balai Unit 3 berkapasitas 55 MW, ditargetkan rampung 40 hari dan beroperasi penuh pada 2030.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T13:30:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3c9907051_e74e773367.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "panas bumi",
+   "Lumut Balai",
+   "geothermal"
+  ],
+  "body": [
+   "PT Pertamina Geothermal Energy Tbk (PGEO) resmi memulai pengeboran sumur kedua, LMB-19.4, di Area Lumut Balai, Sumatera Selatan, untuk mendukung pengembangan Pembangkit Listrik Tenaga Panas Bumi (PLTP) Lumut Balai Unit 3 berkapasitas 55 megawatt. Pengeboran ini merupakan kelanjutan dari sumur pertama, LMB 19-3, yang mulai ditajak pada Juli 2026 di Desa Babatan, Kecamatan Semende Darat Ulu, menggunakan rig GDAP#123 dengan kedalaman 2.500 meter. Proyek yang berada di Wilayah Kerja Panas Bumi Lumut Balai ini ditargetkan beroperasi penuh atau mencapai Commissioning Operation Date pada 2030.",
+   "Project Manager Lumut Balai Unit 3 & 4, Heri Susanto, menyebutkan pengeboran sumur LMB-19.4 ditargetkan rampung dalam 40 hari. Proyek ini tercatat sebagai proyek strategis dalam Blue Book dan Green Book 2025-2029 milik Kementerian PPN/Bappenas, dan akan melengkapi PLTP Lumut Balai Unit 1 dan Unit 2 yang masing-masing berkapasitas 55 MW dan telah beroperasi sejak akhir 2019 serta Juni 2025.",
+   "Direktur Utama PGE Ahmad Yani menyatakan proyek ini menjadi bagian dari upaya perusahaan mengejar target kapasitas terpasang 1 gigawatt pada 2028 dan 1,8 gigawatt pada 2034. General Manager PGE Area Lumut Balai, Catur Hendro Utomo, menambahkan bahwa keberhasilan sumur LMB-19.3 sebelumnya menjadi bukti proses pengembangan di lapangan berjalan sesuai rencana. Perusahaan juga menyebut telah mengidentifikasi potensi panas bumi hingga 3 gigawatt dari 10 wilayah kerja yang dikelolanya secara mandiri."
+  ],
+  "fotoAdegan": "A geothermal drilling rig standing on a forested hillside in South Sumatra, workers in hard hats near steel pipes, steam drifting upward",
+  "takeaway": "Laporan ini netral bagi PGEO karena isinya sebatas kabar kemajuan proyek yang sudah direncanakan sebelumnya, tanpa nilai investasi atau dampak keuangan baru yang disebutkan secara eksplisit. Proyek ini nantinya berpotensi menambah kapasitas pembangkit dan pendapatan penjualan listrik begitu Unit 3 beroperasi, tetapi dampaknya terhadap arus kas, yaitu aliran uang masuk dan keluar dari kegiatan operasional dan investasi perusahaan, belum bisa dihitung karena biaya pengeboran tidak dicantumkan dalam laporan ini. Yang perlu dipantau berikutnya adalah hasil pengeboran sumur LMB-19.4 yang ditargetkan rampung dalam 40 hari sejak 25 September 2026, atau sekitar awal November 2026, serta perkembangan proyek menuju target operasi penuh pada 2030.",
   "sentimen": "netral"
  },
  {
@@ -2476,6 +2634,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A technician inspecting rows of humming server racks with blinking indicator lights inside a modern data center facility.",
   "takeaway": "Laporan ini netral bagi Indointernet karena isinya sekadar kemajuan administratif dari proses tender yang sudah berjalan, tanpa perubahan pada kendali perseroan. Yang tersentuh adalah komposisi pemegang saham publik, sebab tender ini berjalan di bawah aturan Bursa soal delisting, dan porsi saham publik yang berpindah ke Digital Edge akan menentukan apakah syarat jumlah saham beredar minimum masih terpenuhi setelah proses ini selesai. Karena baru sekitar 4,8 persen saham publik yang berpindah tangan dalam tiga periode, mayoritas pemegang saham ritel EDGE tampaknya memilih bertahan, sehingga arah proses ini ke depan belum tentu semulus yang diharapkan Digital Edge. Yang perlu dipantau selanjutnya adalah penyelesaian VTO Periode III pada 2 Oktober 2026 dan pengumuman hasilnya pada 6 Oktober 2026, karena dari situ akan terlihat apakah tren partisipasi rendah ini berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mpro-rombak-komite-audit-kevin-karsten-gantikan-bernika",
+  "category": "Aksi Korporasi",
+  "title": "MPRO Rombak [Komite Audit], Kevin Karsten Gantikan Bernika",
+  "deck": "Dewan Komisaris MPRO mengganti satu anggota komite audit, Bernika Indah Agustina digantikan Kevin Karsten, efektif 25 September 2026, sementara ketua dan anggota lain tetap menjabat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 September 2026",
+  "isoDate": "2026-09-25T09:48:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/28a21d7744_e3115dca6b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPRO",
+  "tags": [
+   "MPRO",
+   "komite audit",
+   "tata kelola perusahaan",
+   "Maha Properti Indonesia"
+  ],
+  "body": [
+   "PT Maha Properti Indonesia Tbk mengumumkan perubahan susunan komite audit yang efektif 25 September 2026. Berdasarkan Keputusan Dewan Komisaris No. 005/DEKOM-MPRO/IX/2026, ketua komite audit tetap dijabat Drs. Da'i Bachtiar, S.H. untuk periode kedua dengan masa jabatan 8 Juni 2023 sampai 8 Juni 2028, dan anggota Lo Filing juga tetap menjabat dengan masa kerja 28 Juli 2025 sampai 8 Juni 2028. Satu kursi anggota berpindah tangan, dari Bernika Indah Agustina ke Kevin Karsten, yang mulai menjabat 25 September 2026 dan akan bertugas sampai 8 Juni 2028.",
+   "Keputusan ini ditandatangani oleh Komisaris Utama Ir. Wong Budi Setiawan, Komisaris Joshua Luke Tandiono, dan Komisaris Independen Drs. Da'i Bachtiar, S.H. Susunan sebelumnya diatur dalam Surat Keputusan Rapat Dewan Komisaris No. 001/DEKOM-MPRO/VII/2025 tertanggal 28 Juli 2025. Perseroan menyebut penyusunan komite audit yang baru ini mengikuti ketentuan Pasal 8 Peraturan OJK No. 55/POJK.04/2015, yang mengatur bahwa masa tugas anggota komite audit tidak boleh melebihi masa jabatan Dewan Komisaris dan anggota hanya bisa dipilih kembali untuk satu periode berikutnya.",
+   "Dokumen ini tidak menyebutkan alasan pergantian anggota komite audit tersebut, apakah karena masa tugas Bernika Indah Agustina berakhir lebih awal, mengundurkan diri, atau sebab lain."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with leather chairs around a long table, Jakarta office skyline through floor to ceiling windows, soft morning light",
+  "takeaway": "Perubahan ini condong netral bagi MPRO, sebab yang berganti hanya satu dari tiga anggota komite audit, tanpa menyentuh struktur kepemilikan, arus kas, atau laba perusahaan, dan dokumen tidak menyebut adanya masalah tata kelola di baliknya. Komite audit adalah organ yang bertugas mengawasi keakuratan laporan keuangan dan independensi proses audit, sehingga pelaku pasar tetap mencermati siapa yang duduk di dalamnya, apalagi MPRO baru saja mengoreksi laporan realisasi dana IPO-nya beberapa hari sebelumnya. Susunan baru ini mengikuti sisa masa jabatan Dewan Komisaris hingga 8 Juni 2028 sesuai aturan OJK, jadi dokumen ini tidak memuat tenggat RUPSLB atau batas waktu baru yang perlu diwaspadai. Yang layak dipantau selanjutnya adalah laporan keuangan kuartal ketiga 2026, untuk melihat apakah komposisi komite audit yang baru ini membawa catatan atau perhatian berbeda menyusul riwayat koreksi realisasi dana IPO tersebut.",
   "sentimen": "netral"
  },
  {

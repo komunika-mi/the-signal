@@ -1195,6 +1195,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "epmt-pangkas-modal-mdi-dan-egd-tarik-rp16-3-miliar",
+  "category": "Aksi Korporasi",
+  "title": "EPMT Pangkas Modal MDI dan EGD, Tarik [Rp16,3 Miliar]",
+  "deck": "Enseval memangkas modal dua anak usahanya, PT Millenia Dharma Insani dan PT Emos Global Digital, lalu menerima kembali dana tunai sekitar Rp16,3 miliar.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EPMT",
+   "Enseval Putera Megatrading",
+   "Kalbe Farma",
+   "pengurangan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/909e2e5484_2b90f72691.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha",
   "category": "Perbankan",
   "title": "Bank Mandiri Perkuat [Livin' Merchant] untuk Pelaku Usaha",
@@ -1274,6 +1290,54 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-5441-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "maya-rombak-direksi-dan-komisaris-independensi-berkurang",
+  "category": "Aksi Korporasi",
+  "title": "MAYA Rombak Direksi dan Komisaris, [Independensi] Berkurang",
+  "deck": "RUPSLB Bank Mayapada menyetujui pergantian direktur dan komisaris, dengan porsi komisaris independen berkurang dari dua menjadi satu orang.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAYA",
+   "Bank Mayapada",
+   "RUPSLB",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ebcd4af0f5_a5d077ec7f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asii-direksi-djap-tet-fa-borong-500-000-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Direksi Djap Tet Fa [borong] 500.000 saham baru",
+  "deck": "Direksi ASII Djap Tet Fa menambah kepemilikan lewat pembelian tidak langsung 500.000 saham pada 24 September 2026, naik 14,29 persen dari kepemilikan sebelumnya.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "kepemilikan saham direksi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-9217-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "scnp-ganti-kepala-unit-internal-audit-qaaiman-gantikan-arista",
+  "category": "Aksi Korporasi",
+  "title": "SCNP Ganti Kepala Unit Internal Audit, [Qaaiman] Gantikan Arista",
+  "deck": "PT Selaras Citra Nusantara Perkasa Tbk mengganti kepala unit internal audit dari FX Arista Narakrisna menjadi Qaaiman Bil Qisthi, efektif 23 September 2026.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SCNP",
+   "internal audit",
+   "tata kelola perusahaan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/35814498c6_2dd2806737.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1359,6 +1423,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "trin-gandeng-artotel-kelola-hotel-di-collins-boulevard",
+  "category": "Aksi Korporasi",
+  "title": "TRIN Gandeng [Artotel] Kelola Hotel di Collins Boulevard",
+  "deck": "Perintis Triniti Properti (TRIN) resmi menggandeng Artotel Group untuk mengelola hotel di kawasan Collins Boulevard, Serpong, menindaklanjuti MoU Februari 2026.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIN",
+   "Artotel Group",
+   "Collins Boulevard",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d43c1bd44_22f535162e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "enrg-right-issue-rp4-1-triliun-bakrie-grup-perkuat-kendali-dilusi",
   "category": "Aksi Korporasi",
   "title": "ENRG Right Issue Rp4,1 Triliun, Bakrie Grup Perkuat Kendali [Dilusi]",
@@ -1388,6 +1468,22 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/616ca18253_66b33bd144.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgeo-mulai-pengeboran-sumur-kedua-pltp-lumut-balai-unit-3",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Mulai [Pengeboran] Sumur Kedua PLTP Lumut Balai Unit 3",
+  "deck": "PGE memulai pengeboran sumur kedua LMB-19.4 untuk PLTP Lumut Balai Unit 3 berkapasitas 55 MW, ditargetkan rampung 40 hari dan beroperasi penuh pada 2030.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "panas bumi",
+   "Lumut Balai",
+   "geothermal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3c9907051_e74e773367.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1535,6 +1631,22 @@ var ARTICLES = [
    "delisting"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cef341ca40_09015df212.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpro-rombak-komite-audit-kevin-karsten-gantikan-bernika",
+  "category": "Aksi Korporasi",
+  "title": "MPRO Rombak [Komite Audit], Kevin Karsten Gantikan Bernika",
+  "deck": "Dewan Komisaris MPRO mengganti satu anggota komite audit, Bernika Indah Agustina digantikan Kevin Karsten, efektif 25 September 2026, sementara ketua dan anggota lain tetap menjabat.",
+  "date": "25 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPRO",
+   "komite audit",
+   "tata kelola perusahaan",
+   "Maha Properti Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/28a21d7744_e3115dca6b.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6408,118 +6520,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-4729-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ketr-direksi-kuasai-1-70-saham-via-transaksi-repo",
-  "category": "Aksi Korporasi",
-  "title": "KETR: Direksi Kuasai [1,70%] Saham via Transaksi Repo",
-  "deck": "Direktur KETR Dani Samsul Ependi kini memiliki 48,3 juta saham perseroan senilai sekitar Rp9,66 miliar lewat transaksi repurchase agreement tidak langsung pada 17 September 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "kepemilikan saham",
-   "direksi",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7205-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-suara-direksi-melonjak-ke-36-75-usai-saham-repo-kembali",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Suara Direksi Melonjak ke [36,75%] Usai Saham Repo Kembali",
-  "deck": "Direksi NSSS Samuel Tumbuh Bersama menerima kembali 3,59 miliar saham dari perjanjian repo per 18 September 2026, mengangkat hak suaranya dari 21,63% menjadi 36,75%.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-6242-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-saham-direksi-kembali-dari-repo-suara-ke-21-63",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Saham Direksi Kembali dari Repo, Suara ke [21,63%]",
-  "deck": "Direksi Samuel Tumbuh Bersama menerima kembali 1,79 miliar saham lewat perjanjian repo, hak suaranya di NSSS naik dari 14,07 persen menjadi 21,63 persen.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2472-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ketr-pemegang-mayoritas-lepas-48-3-juta-saham-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "KETR: Pemegang mayoritas lepas 48,3 juta saham via [repo]",
-  "deck": "Pemegang saham mayoritas KETR melepas 48,3 juta saham lewat perjanjian jual beli kembali (repo) senilai Rp9,66 miliar untuk kebutuhan modal kerja, hak suaranya turun dari 54,83% menjadi 53,13%.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "kepemilikan saham",
-   "repurchase agreement",
-   "pemegang saham mayoritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-4165-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mkpi-direksi-samuel-tumbuh-bersama-tambah-saham-jadi-5-33",
-  "category": "Aksi Korporasi",
-  "title": "MKPI: [Direksi] Samuel Tumbuh Bersama Tambah Saham jadi 5,33%",
-  "deck": "Direksi MKPI Samuel Tumbuh Bersama melaporkan penambahan 21,1 juta saham lewat pengembalian dari perjanjian repurchase, hak suaranya naik jadi 5,33 persen.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKPI",
-   "kepemilikan saham",
-   "direksi",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7529-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-direksi-terima-kembali-58-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Terima Kembali [58 Juta] Saham Lewat Repo",
-  "deck": "Direktur RLCO, Samuel Tumbuh Bersama, menerima kembali 58 juta saham lewat perjanjian repo, menaikkan kepemilikannya jadi 290 juta saham dan hak suara ke 9,28 persen.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan saham",
-   "direksi",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0754-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-melemah-ke-rp17-783-usai-suku-bunga-the-fed-naik",
-  "category": "Moneter",
-  "title": "Rupiah [Melemah] ke Rp17.783 usai Suku Bunga The Fed Naik",
-  "deck": "Rupiah melemah tipis ke Rp17.783 per dolar AS dipicu naiknya imbal hasil obligasi AS usai The Fed menaikkan suku bunga, sementara BI diperkirakan menahan suku bunga pada RDG pekan ini.",
-  "date": "21 September 2026",
-  "image": "assets/img/rupiah-melemah-ke-rp17-783-usai-suku-bunga-the-fed-naik.jpg",
-  "imageV": "muarft6r",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "BI",
-   "The Fed"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468353-rupiah-melemah-ke-rp17783-per-dolar-as-dipengaruhi-kenaikan-imbal-hasil-obligasi-as"
  }
 ];

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "stok-beras-bulog-tembus-4-8-juta-ton-gudang-kewalahan",
+  "category": "BUMN",
+  "title": "Stok Beras Bulog [Tembus] 4,8 Juta Ton, Gudang Kewalahan",
+  "deck": "Cadangan beras Bulog mencapai 4,8 juta ton hingga gudang sendiri tak lagi cukup dan harus disewa dari swasta, namun jumlah ini disebut aman untuk kebutuhan pangan sampai akhir tahun.",
+  "image": "assets/img/stok-beras-bulog-tembus-4-8-juta-ton-gudang-kewalahan.jpg",
+  "date": "26 September 2026",
+  "isoDate": "2026-09-26T20:11:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469589-gudang-bulog-tak-muat-tampung-stok-beras-nasional-yang-capai-48-juta-ton-cukup-untuk-pangan-hingga-akhir-tahun",
+  "tags": [
+   "stok beras",
+   "bulog",
+   "cadangan pangan",
+   "SPHP"
+  ],
+  "body": [
+   "Cadangan beras nasional yang dikuasai Perum Bulog kini mencapai 4,8 juta ton. Direktur Utama Bulog Ahmad Rizal Ramdhani menyebut jumlah ini cukup untuk menopang kebutuhan pangan masyarakat sampai akhir tahun 2026.",
+   "Volume beras yang tertampung sudah melampaui kapasitas gudang milik Bulog sendiri, sehingga perusahaan harus menyewa gudang-gudang swasta agar seluruh stok tetap tersimpan dengan aman. Rizal menyampaikan hal ini pada Sabtu, 26 September 2026.",
+   "Cadangan tersebut rencananya dipakai untuk mendukung sejumlah program pemerintah pada Oktober hingga Desember 2026, antara lain bantuan pangan bagi sekitar 33,2 juta penerima manfaat dan tambahan penyaluran beras program Stabilisasi Pasokan dan Harga Pangan (SPHP) sebanyak 1 juta ton. Setelah dua program itu berjalan, Bulog memperkirakan stok yang tersisa di akhir tahun masih berada di level aman, minimal sekitar 3,2 juta ton.",
+   "Di tingkat daerah, Pemimpin Bulog Kantor Cabang Banyumas Prawoko Setyo Aji melaporkan stok beras di wilayah kerjanya yang meliputi Cilacap, Banyumas, Purbalingga, dan Banjarnegara tercatat sebesar 54.686,374 ton, dan diyakini cukup untuk menutupi kebutuhan hingga penghujung tahun."
+  ],
+  "fotoAdegan": "Workers stacking rows of rice sacks inside a large warehouse, forklift moving pallets, dim industrial lighting from above",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/05/12/6821b77e856ca-ilustrasi-serapan-beras-bulog_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah jumlah beras yang disimpan pemerintah lewat Bulog naik sampai 4,8 juta ton, begitu banyak sampai gudang milik Bulog sendiri tidak cukup dan harus menyewa gudang swasta. Yang kena dampak langsung ada beberapa pihak: sekitar 33,2 juta penerima bantuan pangan yang akan menerima jatah tambahan Oktober sampai Desember, pemilik gudang swasta yang kebagian kontrak sewa, dan masyarakat luas lewat program SPHP yang melepas 1 juta ton beras ke pasar untuk menahan harga di toko dan pasar tidak melonjak. Arahnya cukup jelas dari susunan program ini, yaitu pemerintah bersiap melepas stok besar-besaran menjelang akhir tahun lewat dua jalur sekaligus, bantuan sosial dan stabilisasi harga, bukan menahannya di gudang. Yang akan memastikan arah ini benar adalah apakah stok Bulog pada akhir Desember memang turun mendekati target 3,2 juta ton seperti disebutkan; kalau realisasinya jauh di atas angka itu, berarti penyaluran dua program tersebut tidak secepat rencana.",
+  "imageV": "muifvjto"
+ },
+ {
   "slug": "fesyar-jawa-2026-gulirkan-pembiayaan-untuk-umkm-dan-pesantren",
   "category": "Makroekonomi",
   "title": "FESyar Jawa 2026 Gulirkan [Pembiayaan] untuk UMKM dan Pesantren",

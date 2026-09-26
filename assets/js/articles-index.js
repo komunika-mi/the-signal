@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "stok-beras-bulog-tembus-4-8-juta-ton-gudang-kewalahan",
+  "category": "BUMN",
+  "title": "Stok Beras Bulog [Tembus] 4,8 Juta Ton, Gudang Kewalahan",
+  "deck": "Cadangan beras Bulog mencapai 4,8 juta ton hingga gudang sendiri tak lagi cukup dan harus disewa dari swasta, namun jumlah ini disebut aman untuk kebutuhan pangan sampai akhir tahun.",
+  "date": "26 September 2026",
+  "image": "assets/img/stok-beras-bulog-tembus-4-8-juta-ton-gudang-kewalahan.jpg",
+  "imageV": "muifvjto",
+  "tags": [
+   "stok beras",
+   "bulog",
+   "cadangan pangan",
+   "SPHP"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469589-gudang-bulog-tak-muat-tampung-stok-beras-nasional-yang-capai-48-juta-ton-cukup-untuk-pangan-hingga-akhir-tahun"
+ },
+ {
   "slug": "fesyar-jawa-2026-gulirkan-pembiayaan-untuk-umkm-dan-pesantren",
   "category": "Makroekonomi",
   "title": "FESyar Jawa 2026 Gulirkan [Pembiayaan] untuk UMKM dan Pesantren",
@@ -6502,22 +6519,6 @@ var ARTICLES = [
    "Hexindo Adiperkasa"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a71c414081_be85d54f6e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "winr-pemegang-saham-utama-lepas-10-juta-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemegang Saham Utama Lepas [10 Juta] Saham Lagi",
-  "deck": "Pemegang saham besar WINR menjual 10 juta saham pada 16 September 2026 seharga Rp25 per saham, melanjutkan pelepasan bertahap untuk menambah porsi saham beredar bebas.",
-  "date": "20 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "kepemilikan saham",
-   "free float",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20092026-3558-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

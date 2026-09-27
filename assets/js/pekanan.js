@@ -1,56 +1,56 @@
 // Signal Mingguan. Dibuat otomatis oleh scripts/signal-pekanan.mjs.
 var PEKANAN = {
- "tanggal": "2026-09-20",
+ "tanggal": "2026-09-28",
  "rentang": {
-  "mulai": "2026-09-14",
-  "selesai": "2026-09-20"
+  "mulai": "2026-09-22",
+  "selesai": "2026-09-28"
  },
- "rentangLabel": "14 September - 20 September 2026",
- "judul": "Utang BUMN Karya Mulai Direstrukturisasi, Rupiah Melemah Sepekan",
- "ringkas": "Tekanan utang di emiten konstruksi pelat merah yang mulanya cuma sinyal kredit berubah jadi gagal bayar nyata pada ADHI dan WIKA, sebelum akhir pekan ini ADHI menandatangani langkah restrukturisasi pertama. Sepanjang pekan yang sama, Bursa Efek Indonesia terus menambah emiten kecil ke daftar pengawasan free float dan pemantauan khusus tanpa tanda mengetat, sementara rupiah melemah beruntun di tengah kenaikan bunga acuan Amerika Serikat.",
+ "rentangLabel": "22 September - 28 September 2026",
+ "judul": "Utang Karya Meluas, Rupiah Lemah, Emiten Kecil Diawasi Ketat",
+ "ringkas": "Pekan ini menunjukkan tiga arah yang sama-sama menguat: tekanan kas di BUMN karya bergerak dari negosiasi ke gagal bayar nyata di beberapa entitas sekaligus, rupiah dan IHSG melemah hampir tiap hari meski Bank Indonesia menahan bunga, dan pengawasan Bursa terhadap emiten kecil kian menajam di tengah dilusi pemegang saham minoritas. Ketiganya akan diuji lewat rangkaian RUPSLB dan rilis data pada pekan pertama Oktober.",
  "pola": [
   {
-   "judul": "Utang BUMN Karya: dari Gagal Bayar ke Restrukturisasi",
-   "isi": "Tekanan yang mula-mula tampak sebagai sinyal kredit pada Senin, ekuitas ADHI tergerus rugi Rp5,5 triliun dan ADCP masuk CreditWatch Negatif, melebar ke penurunan peringkat hampir seluruh obligasi Bank BJB Rp5,7 triliun pada Selasa. Pada Kamis, ADHI mengonfirmasi arus kas operasional minus Rp751 miliar dengan utang jatuh tempo setahun ke depan mencapai Rp17,02 triliun, sebelum Jumat menjadi titik puncak, PEFINDO menurunkan peringkat ADHI ke status gagal bayar terpilih atas kupon Rp2,46 triliun, WIKA disuspensi usai menunda bagi hasil Sukuk Mudharabah, dan PTPP menerima gugatan PKPU Rp4,25 miliar. Di ujung pekan, ADHI menandatangani perjanjian restrukturisasi utang Rp3 triliun ke bank BUMN, langkah konkret pertama menuju penyelesaian setelah rentetan kabar memburuk. Arahnya bergerak dari eskalasi ke titik penyelesaian awal, meski baru menyentuh satu emiten. Yang akan menguji apakah pola ini menular ke emiten BUMN karya lain adalah keputusan RUPO Waskita Karya atas usulan restrukturisasi obligasi pada 24 September dan nasib pembayaran kupon PTPP yang jatuh tempo 28 September."
+   "judul": "Gagal Bayar BUMN Karya Meluas, Sinyal Bursa Menyesatkan",
+   "isi": "Selasa, restrukturisasi utang BUMN mulai terbelah, pemegang obligasi Waskita menyetujui pemangkasan kupon dengan 97,14 persen suara, sementara pemegang sukuk dan obligasi Pos Indonesia menolak seluruh proposal. Rabu, Waskita Karya gagal melunasi pokok obligasi Rp722 miliar yang jatuh tempo, dan PTPP baru mendapat persetujuan menunda bunga Rp11,1 miliar hingga 2027. Kamis, Waskita resmi masuk status gagal bayar dan disuspensi di seluruh pasar, sementara Waskita Beton Precast mengaku berpotensi menunda kupon karena kas operasional tidak cukup. Jumat, PEFINDO menurunkan peringkat dua seri sukuk WIKA senilai Rp316 miliar ke status gagal bayar idD, tepat ketika Bursa mencabut status pemantauan khusus WSKT dan WIKA, perubahan yang eksplisit disebabkan revisi aturan bursa, bukan perbaikan kinerja keuangan. Arahnya konsisten, tekanan kas menjalar ke lebih banyak entitas BUMN karya sementara sinyal administratif bergerak berlawanan dari sinyal kredit. Yang akan mengujinya adalah RUPSLB ADHI dan WSBP awal pekan depan serta forum publik pertama WIKA sejak peringkatnya turun ke status gagal bayar."
   },
   {
-   "judul": "Pengawasan Bursa ke Emiten Kecil Tak Kunjung Longgar",
-   "isi": "Setiap hari kerja sepanjang pekan ini, Bursa Efek Indonesia menambah nama ke daftar pengawasan, mulai dari empat emiten free float pada Senin, meluas ke PURI dan CEKA plus TRUK masuk papan pemantauan khusus pada Selasa, MOLI, BCIC, dan MBAP plus PACK pada Rabu, delapan emiten sekaligus (YUPI, APLI, BBRM, dan lima lainnya) dengan tenggat molor sampai 2029 pada Kamis, hingga LIFE dan GRPH masuk pemantauan khusus pada Jumat. Sebagian besar sanksi yang dijatuhkan berupa perpanjangan tenggat, bukan penghentian perdagangan, seperti terlihat pada kasus KOCI yang sudah diberi kelonggaran sampai 2029. Pengecualian yang lebih tegas adalah INPS yang tetap disuspensi meski mengklaim free float sudah 22,89 persen, karena sudah lebih dari setahun berada di papan pemantauan khusus. Arah pengawasan ini jelas terus meluas dari segi jumlah emiten dan jenis pelanggaran, meski bentuk sanksinya belum berubah drastis. Yang akan menguji apakah tren ini mulai berbalik adalah keluarnya CSMI dari papan pemantauan khusus pada 21 September, apakah jumlah emiten yang lulus pengawasan mulai menyamai jumlah yang baru masuk."
+   "judul": "Rupiah dan IHSG Tertekan Sepanjang Pekan Meski Bunga Ditahan",
+   "isi": "Selasa, rupiah melemah 32 poin ke Rp17.879 per dolar AS dan IHSG turun 1,69 persen ke 6.277,04, menjelang keputusan bunga Bank Indonesia. Rabu, Bank Indonesia menahan BI-Rate di 5,75 persen, namun rupiah tetap melemah 0,78 persen ke Rp17.855 dan asing mencatat penjualan bersih Rp335,80 miliar di sesi pertama. Kamis, rupiah lanjut melemah ke Rp17.893 dan IHSG turun 1,20 persen ke 6.298,61, dipicu lonjakan harga minyak akibat ketegangan Iran-Amerika Serikat. Jumat, IHSG kembali turun 0,90 persen ke 6.241,89 dan rupiah tertekan ke Rp17.912, sementara emas spot naik 0,96 persen ke Rp2.468 ribu per gram, pola yang sejalan dengan pelarian ke aset aman. Arahnya jelas melemah sepanjang pekan meski Bank Indonesia memilih instrumen non-bunga ketimbang menaikkan suku bunga acuan. Yang akan mengujinya adalah rilis inflasi September dari BPS awal Oktober dan perkembangan sikap resmi The Fed berikutnya."
   },
   {
-   "judul": "Rupiah Melemah Beruntun Sejalan Bunga Acuan AS",
-   "isi": "Rupiah bergerak melemah sepanjang pekan, dari Rp17.605 per dolar AS pada Senin, melemah 0,29 persen ke Rp17.682 pada Selasa bersamaan IHSG turun 1,13 persen ke 6.461,15, hingga tercatat melemah tujuh hari beruntun ke Rp17.758 per dolar AS pada akhir pekan. Posisi resmi pekan ini menempatkan IHSG di 6.441,16, turun 0,33 persen, sementara USD/IDR di kisaran Rp17.740, naik 0,12 persen. Pemicu yang disebut bergeser dari harga minyak dunia yang sempat melewati US$100 per barel pada awal pekan, menjadi kenaikan bunga acuan The Fed yang disebut belum berhenti pada akhir pekan. Arahnya konsisten melemah sepanjang pekan, bukan fluktuasi harian yang saling meniadakan. Yang akan menguji apakah pelemahan ini bersifat sementara atau berlanjut adalah rilis cadangan devisa akhir September yang diperkirakan tembus rekor US$146,5 miliar, terutama apakah kenaikannya ditopang penarikan utang pemerintah atau sumber yang lebih tahan tekanan seperti ekspor dan investasi."
+   "judul": "Pengawasan Emiten Kecil Menajam, Minoritas Tergerus",
+   "isi": "Kamis, UVCR mengonfirmasi penerbitan 200 juta saham baru yang seluruhnya mengalir ke pengendali sehingga ROE turun 19,6 persen, HRTA memanggil rapat untuk dilusi hingga 10 persen tanpa harga jelas, dan DPNS maupun IBOS disorot karena keterlambatan laporan keuangan bertahun-tahun. Jumat hingga Sabtu, pola serupa berlanjut, pemegang saham Levoca melepas 3,77 miliar saham BNBR, komisaris dan direksi MPIX masing-masing melepas 80 persen kepemilikan pribadi, BIKA masuk pemantauan khusus karena ekuitas negatif, BIMA disuspensi atas perintah OJK, dan AADI maupun TEST resmi delisting paksa dari bursa. Polanya berulang di banyak emiten berbeda dalam waktu berdekatan, aksi korporasi yang mengurangi porsi pemegang saham minoritas serta keterlambatan tata kelola yang terus disorot otoritas. Arahnya menuju pengawasan yang makin ketat terhadap emiten kecil bermasalah. Yang akan mengujinya adalah jawaban resmi LCKM ke Bursa yang jatuh tempo pekan depan soal hilangnya kepemilikan Maju Mekar 19,36 persen."
   }
  ],
  "menanti": [
   {
-   "tanggal": "2026-09-21",
-   "apa": "RUPO dan RUPSI Pos Indonesia soal usulan standstill pembayaran utang",
-   "kenapa": "Hasil rapat ini jadi penanda uji langsung atas pembacaan sebelumnya bahwa jarak arus kas antara korporasi besar dan korporasi kecil-menengah akan terus melebar, sekaligus menentukan nasib pembayaran ke pemegang obligasi dan sukuk Pos Indonesia."
+   "tanggal": "2026-09-30",
+   "apa": "RUPSLB ADHI soal restrukturisasi dan konversi utang",
+   "kenapa": "Hasil rapat ini menentukan apakah proposal konversi utang menjadi saham disepakati pemegang obligasi, penanda apakah tekanan kas BUMN karya mulai berujung kesepakatan konkret."
   },
   {
-   "tanggal": "2026-09-24",
-   "apa": "Keputusan RUPO Waskita Karya atas usulan restrukturisasi obligasi",
-   "kenapa": "Setelah ADHI menandatangani restrukturisasi lebih dulu, hasil rapat ini menunjukkan apakah jalur penyelesaian utang mulai menular ke emiten BUMN karya lain atau ADHI tetap kasus tersendiri."
+   "tanggal": "2026-09-30",
+   "apa": "LCKM wajib jawab Bursa soal hilangnya kepemilikan Maju Mekar",
+   "kenapa": "Tenggat ini dijanjikan LCKM sendiri, sehingga jawabannya menjadi ujian apakah pengawasan Bursa terhadap emiten kecil bermasalah berlanjut sampai penyelesaian nyata."
   },
   {
-   "tanggal": "2026-09-28",
-   "apa": "Jatuh tempo kupon PTPP di tengah status CreditWatch Negatif",
-   "kenapa": "Bagi pelaku usaha yang berhubungan dengan kontraktor pelat merah, hasil pembayaran ini menentukan apakah tekanan likuiditas BUMN karya benar-benar melebar melewati ADHI dan WIKA."
+   "tanggal": "2026-10-01",
+   "apa": "WIKA gelar Public Expose Tahunan pertama sejak gagal bayar",
+   "kenapa": "Ini forum publik pertama WIKA sejak peringkat sukuknya turun ke status default, sehingga penjelasan manajemen soal rencana pembayaran langsung diuji investor dan pemegang obligasi."
   },
   {
-   "tanggal": "2026-09-21",
-   "apa": "LIFE dan GRPH masuk papan pemantauan khusus, CSMI keluar",
-   "kenapa": "Ini titik uji langsung apakah tren perluasan pengawasan Bursa ke emiten kecil mulai diimbangi jumlah emiten yang lulus, atau daftar pengawasan terus bertambah tanpa henti."
+   "tanggal": "2026-10-01 (perkiraan)",
+   "apa": "Rilis inflasi September dari BPS",
+   "kenapa": "Angka ini menunjukkan apakah tekanan harga domestik ikut membesar bersamaan pelemahan rupiah sepekan ini, yang memengaruhi ruang kebijakan bunga dan daya beli usaha."
   },
   {
-   "tanggal": "2026-09-25 (perkiraan)",
-   "apa": "Rilis cadangan devisa RI yang diperkirakan tembus rekor US$146,5 miliar",
-   "kenapa": "Angka dan sumber kenaikan cadangan devisa ini akan menunjukkan apakah pelemahan rupiah sepekan terakhir bersifat sementara atau mencerminkan tekanan yang lebih struktural pada neraca pembayaran."
+   "tanggal": "2026-10-02",
+   "apa": "RUPSLB WSBP ratifikasi konversi utang jadi saham",
+   "kenapa": "Rapat ini akan meratifikasi jumlah saham konversi utang, penanda konkret apakah entitas BUMN karya lain yang tertekan kas mampu menuntaskan restrukturisasi lewat mekanisme non-tunai."
   }
  ],
- "penutup": "Yang paling menentukan arah pekan depan adalah apakah restrukturisasi ADHI diikuti Waskita Karya dan PTPP atau justru berhenti sebagai kasus tunggal, karena itu akan menentukan apakah tekanan utang BUMN karya mulai mereda atau masih akan melebar.",
- "jumlahEdisi": 5,
- "jumlahBerita": 401,
- "dibuat": "2026-09-20T16:18:49.931Z"
+ "penutup": "Arah pekan depan paling ditentukan oleh apakah RUPSLB ADHI dan WSBP benar merampungkan konversi utang menjadi saham, sementara rilis inflasi September akan menunjukkan apakah tekanan rupiah yang menguat sepanjang pekan ini mulai mereda atau justru menetap.",
+ "jumlahEdisi": 4,
+ "jumlahBerita": 322,
+ "dibuat": "2026-09-27T17:06:58.264Z"
 };

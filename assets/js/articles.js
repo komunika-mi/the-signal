@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pengiriman-kendaraan-listrik-lewat-kapal-terkendala",
+  "category": "Industri",
+  "title": "Pengiriman Kendaraan Listrik Lewat Kapal [Terkendala]",
+  "deck": "Periklindo minta SOP khusus pengiriman kendaraan listrik lewat kapal laut, menyusul larangan sejumlah operator kapal mengangkut motor dan mobil listrik.",
+  "image": "assets/img/pengiriman-kendaraan-listrik-lewat-kapal-terkendala.jpg",
+  "date": "27 September 2026",
+  "isoDate": "2026-09-27T22:35:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469790-pengiriman-kendaraan-listrik-lewat-kapal-terkendala-industri-minta-sop-khusus",
+  "tags": [
+   "kendaraan listrik",
+   "Periklindo",
+   "SOP pengiriman",
+   "baterai kendaraan listrik"
+  ],
+  "body": [
+   "Perkumpulan Industri Kendaraan Listrik Indonesia (Periklindo) mendesak pemerintah menyusun standar operasional prosedur (SOP) khusus untuk pengiriman kendaraan listrik lewat kapal laut. Permintaan ini muncul setelah sejumlah operator kapal menolak mengangkut motor, mobil penumpang, maupun kendaraan komersial berbasis listrik dengan alasan keselamatan. Bagi pelaku usaha yang mengandalkan jalur laut untuk distribusi antarpulau, larangan ini langsung menghambat pengiriman produk ke pasar.",
+   "Ketua Umum Periklindo Moeldoko menyampaikan hal ini dalam rapat kerja dengan Komisi VII DPR RI, seperti dikutip Minggu (27/9/2026). Ia menjelaskan SOP yang dibutuhkan mencakup seluruh jenis kendaraan listrik, dari sepeda motor hingga kendaraan komersial, dan berlaku untuk pengangkutan lewat darat maupun laut. Menurutnya, saat ini belum ada aturan baku yang mengatur cara aman mengangkut kendaraan listrik di kapal, sehingga sejumlah operator memilih melarang sama sekali daripada menanggung risiko.",
+   "Dampaknya paling terasa bagi produsen dengan skala produksi kecil. Moeldoko mencontohkan BYD sebagai produsen besar yang mampu menyediakan kapal sendiri untuk mengangkut produknya, sehingga tidak bergantung pada kapal umum. Industri kecil, menurutnya, tidak punya opsi serupa karena jumlah kendaraan yang dikirim relatif sedikit dan mustahil menyewa satu kapal khusus hanya untuk mengangkut produk mereka.",
+   "Selain soal distribusi, aspek keselamatan turut menjadi perhatian, mengingat baterai kendaraan listrik memerlukan penanganan berbeda dibanding kendaraan berbahan bakar konvensional. Namun rincian teknis soal risiko baterai maupun bentuk SOP yang diusulkan belum dijelaskan lebih lanjut dalam rapat kerja tersebut."
+  ],
+  "fotoAdegan": "Small electric motorcycles and cars lined up on a car-carrier ship deck at an Indonesian port, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/03/10/69aefe8c9934f-ilustrasi-mobil-listrik_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah baru sebatas permintaan, Periklindo meminta pemerintah membuat SOP resmi untuk pengiriman kendaraan listrik lewat kapal, karena sejumlah operator kapal saat ini menolak mengangkutnya. Yang terdampak adalah produsen dan distributor kendaraan listrik skala kecil yang mengandalkan kapal umum untuk mengirim motor atau mobil ke luar pulau, sementara produsen besar yang sudah punya kapal sendiri relatif tidak terganggu. Berita ini belum menyebut sikap Kementerian Perhubungan atau apakah rancangan SOP sudah mulai dibahas, jadi belum bisa dipastikan apakah permintaan ini akan direspons cepat atau menggantung seperti usulan serupa lainnya. Yang perlu dipantau adalah tindak lanjut dari Komisi VII DPR atau Kementerian Perhubungan setelah rapat kerja ini, termasuk apakah muncul jadwal resmi penyusunan aturannya.",
+  "imageV": "muk3uaqh"
+ },
+ {
   "slug": "bbm-nonsubsidi-berpotensi-naik-hingga-11-persen-oktober",
   "category": "Energi",
   "title": "BBM Nonsubsidi Berpotensi [Naik] hingga 11 Persen Oktober",

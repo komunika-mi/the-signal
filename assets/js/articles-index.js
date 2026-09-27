@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pengiriman-kendaraan-listrik-lewat-kapal-terkendala",
+  "category": "Industri",
+  "title": "Pengiriman Kendaraan Listrik Lewat Kapal [Terkendala]",
+  "deck": "Periklindo minta SOP khusus pengiriman kendaraan listrik lewat kapal laut, menyusul larangan sejumlah operator kapal mengangkut motor dan mobil listrik.",
+  "date": "27 September 2026",
+  "image": "assets/img/pengiriman-kendaraan-listrik-lewat-kapal-terkendala.jpg",
+  "imageV": "muk3uaqh",
+  "tags": [
+   "kendaraan listrik",
+   "Periklindo",
+   "SOP pengiriman",
+   "baterai kendaraan listrik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469790-pengiriman-kendaraan-listrik-lewat-kapal-terkendala-industri-minta-sop-khusus"
+ },
+ {
   "slug": "bbm-nonsubsidi-berpotensi-naik-hingga-11-persen-oktober",
   "category": "Energi",
   "title": "BBM Nonsubsidi Berpotensi [Naik] hingga 11 Persen Oktober",
@@ -6504,22 +6521,6 @@ var ARTICLES = [
    "Bank BTPN Syariah"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c8cebd70e_8b0b842574.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "crab-laba-bersih-anjlok-53-utang-naik-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "CRAB: Laba Bersih Anjlok 53%, [Utang] Naik di Semester I 2026",
-  "deck": "Materi paparan publik tahunan CRAB menunjukkan laba bersih semester I 2026 turun jadi Rp3,94 miliar dari Rp8,42 miliar setahun sebelumnya, sementara liabilitas naik ke Rp125,23 miliar.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRAB",
-   "Toba Surimi Industries",
-   "public expose",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b36da3f32b_f2f9afbc55.pdf",
   "sourceLabel": "IDX"
  }
 ];

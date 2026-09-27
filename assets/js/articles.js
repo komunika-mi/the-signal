@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bbm-nonsubsidi-berpotensi-naik-hingga-11-persen-oktober",
+  "category": "Energi",
+  "title": "BBM Nonsubsidi Berpotensi [Naik] hingga 11 Persen Oktober",
+  "deck": "Peneliti Unpad Yayan Satyakti memproyeksikan harga BBM nonsubsidi naik 5-11 persen Oktober 2026 akibat kenaikan harga acuan bensin di Singapura, meski Pertamax kemungkinan tetap ditahan.",
+  "image": "assets/img/bbm-nonsubsidi-berpotensi-naik-hingga-11-persen-oktober.jpg",
+  "date": "27 September 2026",
+  "isoDate": "2026-09-27T16:29:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469721-bbm-nonsubsidi-diprediksi-naik-hingga-11-persen-oktober-2026-segini-perkiraan-harganya",
+  "tags": [
+   "BBM nonsubsidi",
+   "Pertamax",
+   "harga BBM Oktober 2026",
+   "Pertamina"
+  ],
+  "body": [
+   "Harga bahan bakar minyak nonsubsidi seperti Pertamax series, Dexlite, dan Pertamina Dex diproyeksikan naik 5 sampai 11 persen pada Oktober 2026. Proyeksi ini disampaikan Yayan Satyakti, peneliti sekaligus dosen Fakultas Ekonomi dan Bisnis Universitas Padjadjaran, dan penting diketahui pengendara karena bisa menambah pengeluaran bulanan untuk kendaraan yang memakai BBM nonsubsidi.",
+   "Perhitungan harga Oktober mengacu pada rata-rata harga pasar sepanjang 25 Agustus hingga 25 September 2026, mengikuti formula yang berpatokan pada harga bensin olahan di pasar Singapura atau MOPS. Pada periode itu, rata-rata harga MOPS bensin naik dari sekitar 111,4 dolar AS per barel menjadi 126,7 dolar AS per barel, atau naik sekitar 14 persen, dan kenaikan inilah yang mendorong tekanan naik pada harga BBM nonsubsidi.",
+   "Nilai tukar rupiah sebenarnya menguat pada periode yang sama, dari sekitar Rp17.892 menjadi Rp17.630 per dolar AS. Namun penguatan rupiah itu belum cukup meredam dampak kenaikan harga acuan, sehingga menurut Yayan, jika formula resmi diikuti, harga Pertamax semestinya sudah berada di sekitar Rp18.350 per liter, meski kemungkinan besar Pertamina kembali menahannya di harga lama seperti yang biasa terjadi."
+  ],
+  "fotoAdegan": "Attendant refueling a sedan at a covered gas station pump, motorbikes queued behind, overcast afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/04/10/67f7d99262ba2-ilustrasi-bbm_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data ini menunjukkan formula harga sebenarnya sudah mengarahkan Pertamax ke sekitar Rp18.350 per liter, tapi Pertamina berulang kali menahan harga jual di angka lama meski hitungan resminya naik, dan pola itu diperkirakan Yayan bakal terulang lagi Oktober ini. Yang kena dampak langsung adalah pengendara yang mengisi Pertamax series, Dexlite, atau Pertamina Dex, sementara selisih antara harga keekonomian dan harga di SPBU itu pada akhirnya ditanggung Pertamina sebagai badan usaha. Polanya mengarah ke penundaan penyesuaian harga secara bertahap ketimbang kenaikan langsung sekaligus, sehingga jarak antara harga pasar dan harga jual berpotensi terus melebar selama harga minyak dunia dan nilai tukar belum stabil. Yang akan memastikan apakah pola ini berlanjut adalah pengumuman harga resmi BBM nonsubsidi yang biasanya diterbitkan Pertamina pada awal bulan, dalam hal ini sekitar 1 Oktober 2026.",
+  "imageV": "mujs3e8t"
+ },
+ {
   "slug": "pengguna-qris-tembus-65-8-juta-transaksi-tumbuh-93-9",
   "category": "Moneter",
   "title": "Pengguna QRIS Tembus 65,8 Juta, Transaksi [Tumbuh] 93,9%",

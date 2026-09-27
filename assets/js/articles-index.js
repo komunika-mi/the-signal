@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bbm-nonsubsidi-berpotensi-naik-hingga-11-persen-oktober",
+  "category": "Energi",
+  "title": "BBM Nonsubsidi Berpotensi [Naik] hingga 11 Persen Oktober",
+  "deck": "Peneliti Unpad Yayan Satyakti memproyeksikan harga BBM nonsubsidi naik 5-11 persen Oktober 2026 akibat kenaikan harga acuan bensin di Singapura, meski Pertamax kemungkinan tetap ditahan.",
+  "date": "27 September 2026",
+  "image": "assets/img/bbm-nonsubsidi-berpotensi-naik-hingga-11-persen-oktober.jpg",
+  "imageV": "mujs3e8t",
+  "tags": [
+   "BBM nonsubsidi",
+   "Pertamax",
+   "harga BBM Oktober 2026",
+   "Pertamina"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469721-bbm-nonsubsidi-diprediksi-naik-hingga-11-persen-oktober-2026-segini-perkiraan-harganya"
+ },
+ {
   "slug": "pengguna-qris-tembus-65-8-juta-transaksi-tumbuh-93-9",
   "category": "Moneter",
   "title": "Pengguna QRIS Tembus 65,8 Juta, Transaksi [Tumbuh] 93,9%",
@@ -6503,22 +6520,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b36da3f32b_f2f9afbc55.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-direksi-terima-kembali-120-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Terima Kembali [120 Juta] Saham Lewat Repo",
-  "deck": "Direksi RLCO, Samuel Tumbuh Bersama, menerima kembali 120 juta saham lewat perjanjian repo pada 16 September 2026, menaikkan hak suaranya dari 3,58 persen menjadi 7,42 persen.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan direksi",
-   "repo saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-4729-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

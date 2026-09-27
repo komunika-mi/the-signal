@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "h05p001jB5s",
+  "title": "Industri Kerajinan Tangan Jadi Identitas Ekonomi Bantul",
+  "category": "UMKM",
+  "program": "Pesona Yogyakarta",
+  "summary": "Kerajinan berbahan serat alam, mulai dari pelepah pisang hingga serat tumbuhan, menjadi salah satu potensi kriya unggulan yang diolah perajin Kabupaten Bantul.",
+  "takeaway": "Menyoroti potensi ekonomi kreatif berbasis kerajinan tangan sebagai sumber penghidupan dan identitas industri daerah."
+ },
+ {
   "id": "lAt-fVqHva4",
   "title": "Transmigrasi Ubah Lahan Tak Produktif Jadi Sentra Pertanian",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Menteri Pertanian Andi Amran Sulaiman mengungkap 25 merek beras yang diduga beras fortifikasi palsu, diduga tidak memenuhi kadar sesuai standar namun dijual dengan harga tidak wajar.",
   "takeaway": "Temuan ini relevan bagi pembaca ekonomi karena menyangkut standar mutu pangan dan praktik penetapan harga di pasar beras yang berdampak pada konsumen dan pelaku usaha."
- },
- {
-  "id": "HPspwP35M3M",
-  "title": "Bea Cukai Gagalkan Penyelundupan 29 Kg Emas dari Bandara",
-  "category": "Bisnis",
-  "program": "AKIP",
-  "summary": "Bea Cukai menggagalkan penyelundupan 29 kilogram emas di empat bandara dengan nilai barang mencapai Rp73,3 miliar dan potensi penerimaan negara sebesar Rp8,5 miliar.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut potensi kerugian penerimaan negara dari sektor perdagangan dan pengawasan arus barang lintas batas."
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "h05p001jB5s",
+  "title": "Industri Kerajinan Tangan Jadi Identitas Ekonomi Bantul",
+  "category": "UMKM",
+  "program": "Pesona Yogyakarta",
+  "summary": "Kerajinan berbahan serat alam, mulai dari pelepah pisang hingga serat tumbuhan, menjadi salah satu potensi kriya unggulan yang diolah perajin Kabupaten Bantul.",
+  "takeaway": "Menyoroti potensi ekonomi kreatif berbasis kerajinan tangan sebagai sumber penghidupan dan identitas industri daerah.",
+  "terbit": "2026-09-27T13:07:17+00:00"
+ },
+ {
   "id": "lAt-fVqHva4",
   "title": "Transmigrasi Ubah Lahan Tak Produktif Jadi Sentra Pertanian",
   "category": "Industri",

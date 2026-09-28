@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tamu-restrukturisasi-kredit-jatuh-tempo-diundur-ke-2031",
+  "category": "Aksi Korporasi",
+  "title": "TAMU restrukturisasi kredit, jatuh tempo [diundur] ke 2031",
+  "deck": "TAMU dan Bank Mandiri sepakat memperpanjang jatuh tempo fasilitas kredit dari Desember 2026 menjadi Desember 2031, disertai penyesuaian cicilan bulanan.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAMU",
+   "restrukturisasi utang",
+   "Bank Mandiri",
+   "emiten pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cea4a7dc27_3059ca69c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toba-baru-pakai-11-9-dana-obligasi-rp175-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TOBA baru pakai 11,9% dana [obligasi] Rp175 miliar",
+  "deck": "TOBA merevisi laporan realisasi dana obligasi Tahap III 2026: baru 11,9% dari Rp172,6 miliar dana bersih terpakai, sisa Rp152 miliar tersimpan di tabungan BTN berbunga 6,2%.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "TBS Energi Utama",
+   "obligasi korporasi",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6c140238f_0cb7ce9d13.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemendag-gelar-pelatihan-dagang-untuk-pejabat-afrika",
   "category": "Global",
   "title": "Kemendag Gelar Pelatihan Dagang untuk Pejabat [Afrika]",
@@ -21,6 +53,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-pelatihan-sstc-2026-kemendag-dorong-penguatan-kemitraan-perdagangan-dan-investasi-indonesia-afrika",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "toba-koreksi-realisasi-dana-obligasi-sisa-rp46-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TOBA [koreksi] realisasi dana obligasi, sisa Rp46,4 miliar",
+  "deck": "TOBA merevisi laporan dana obligasi Rp493,96 miliar: 90,6% sudah terpakai, termasuk pelunasan penuh obligasi lama Rp400,93 miliar, sisa Rp46,39 miliar menunggu disetor ke anak usaha tambang.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "penggunaan dana",
+   "TBS Energi Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e604818fb5_56982d5081.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toba-revisi-laporan-dana-obligasi-rp89-miliar-mengendap",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Revisi Laporan Dana Obligasi, [Rp89 Miliar] Mengendap",
+  "deck": "TOBA merevisi laporan realisasi dana obligasi Rp125 miliar. Rp24,07 miliar sudah dipakai melunasi utang, sisanya Rp89 miliar untuk anak usaha AMES masih tersimpan di tabungan.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "penggunaan dana",
+   "AMES"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ad99e083a_3dbda5c41e.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "telkom-perluas-program-hijau-gozero-ke-klangon-sleman",
@@ -139,6 +203,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupslb-uang-setujui-wiria-chakradinata-jadi-wadirut",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB UANG Setujui Wiria Chakradinata Jadi [Wadirut]",
+  "deck": "RUPSLB PT Pakuan Tbk menyetujui susunan direksi baru: Erick Wihardja tetap Direktur Utama, Wiria Chakradinata jadi Wakil Direktur Utama gantikan Aditya Wisnu Wardhana yang mundur.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UANG",
+   "PT Pakuan Tbk",
+   "RUPSLB",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1adc9067c_95c18ebe0b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sema-raih-kontrak-panel-listrik-data-center-cgk5-cgk7",
   "category": "Aksi Korporasi",
   "title": "SEMA Raih Kontrak Panel Listrik [Data Center] CGK5-CGK7",
@@ -188,6 +268,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469978-prabowo-minta-rs-tak-bedakan-pasien-bpjs-dana-rp20-triliun-dicairkan-tahun-ini"
  },
  {
+  "slug": "ketr-fsmn-lepas-994-juta-saham-lewat-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "KETR: FSMN Lepas 994 Juta Saham lewat [Divestasi]",
+  "deck": "PT Fajar Sejahtera Mandiri Nusantara menjual 994,37 juta saham KETR senilai sekitar Rp520 miliar pada 28 September 2026, namun hak suara pelapor tetap nol persen.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "Ketrosden Triasmitra",
+   "kepemilikan saham",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8908-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ketr-fsmn-lepas-994-juta-saham-hak-suara-ke-18-13",
+  "category": "Aksi Korporasi",
+  "title": "KETR: FSMN Lepas 994 Juta Saham, Hak Suara ke [18,13%]",
+  "deck": "FSMN melepas 994.372.000 saham KETR seharga Rp523 per lembar untuk divestasi, memangkas hak suaranya dari 53,13 persen menjadi 18,13 persen dan mengakhiri posisi sebagai pemegang saham mayoritas.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "divestasi",
+   "pemegang saham",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-7406-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smil-dana-obligasi-rp294-miliar-100-terealisasi-untuk-forklift",
   "category": "Aksi Korporasi",
   "title": "SMIL: dana obligasi Rp294 miliar [100%] terealisasi untuk forklift",
@@ -217,6 +329,22 @@ var ARTICLES = [
    "perubahan bisnis"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cdb1aeadca_0d2933dd75.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asii-direksi-rudy-tambah-4-4-juta-saham-lewat-pasar",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Direksi Rudy [tambah] 4,4 juta saham lewat pasar",
+  "deck": "Direktur Astra International, Rudy, menambah kepemilikan sahamnya 78,57 persen lewat tiga transaksi pembelian tidak langsung pada 24-28 September 2026, senilai sekitar Rp20,81 miliar.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-0056-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -301,6 +429,54 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "raam-direksi-tambah-saham-294-600-lembar-rp51-juta",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Direksi [Tambah] Saham 294.600 Lembar, Rp51 Juta",
+  "deck": "Ram Jethmal Punjabi menambah kepemilikan saham Tripar Multivision Plus lewat 10 transaksi kecil pada 25 September 2026, namun porsinya nyaris tak mengubah hak suaranya.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAAM",
+   "Tripar Multivision",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-1712-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-tambah-1-51-miliar-saham-repo-suara-ke-28-87",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Tambah [1,51 Miliar] Saham Repo, Suara ke 28,87%",
+  "deck": "Samuel Sekuritas Indonesia menambah 1,51 miliar saham NSSS lewat mekanisme repurchase agreement, mendorong hak suaranya dari 22,51 persen menjadi 28,87 persen.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "repo saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-5445-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bksl-direksi-lepas-saham-lagi-hak-suara-turun-ke-5-00",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Direksi Lepas Saham Lagi, Hak Suara Turun ke [5,00%]",
+  "deck": "Direksi Sentul City lewat rekening Samuel Sekuritas menjual bersih 353,78 juta saham lewat skema repo pada 28 September 2026, hak suara turun dari 5,21% menjadi 5,00%.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-3386-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "untr-jadwalkan-dividen-interim-rp430-per-saham",
   "category": "Aksi Korporasi",
   "title": "UNTR Jadwalkan [Dividen] Interim Rp430 per Saham",
@@ -380,6 +556,22 @@ var ARTICLES = [
    "suspensi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c6947e4615_86adcef027.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "film-direksi-tambah-100-8-juta-saham-lewat-skema-repo",
+  "category": "Aksi Korporasi",
+  "title": "FILM: Direksi [tambah] 100,8 juta saham lewat skema repo",
+  "deck": "Direksi FILM menambah kepemilikan saham lewat pembelian 100,8 juta lembar seharga Rp680 lewat skema repo, mengerek hak suaranya dari 8,71 persen menjadi 9,64 persen.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "MD Entertainment",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8574-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -545,6 +737,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "oasa-direksi-lepas-11-4-juta-saham-hak-suara-ke-31-83",
+  "category": "Aksi Korporasi",
+  "title": "[OASA] Direksi Lepas 11,4 Juta Saham, Hak Suara ke 31,83%",
+  "deck": "Direktur OASA, Ir. Gafur Sulistyo Umar, menjual 11,4 juta saham tidak langsung pada 25 September 2026 seharga Rp245 per saham untuk realokasi investasi, hak suaranya turun ke 31,83%.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OASA",
+   "Maharaksa Biru Energi",
+   "Kepemilikan Saham",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-0261-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wika-jadwalkan-rupsu-sukuk-tahap-ii-2021-28-oktober",
   "category": "Aksi Korporasi",
   "title": "WIKA Jadwalkan [RUPSU] Sukuk Tahap II 2021, 28 Oktober",
@@ -574,6 +782,22 @@ var ARTICLES = [
    "gagal bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dbf3abec84_75691906e5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-kontrak-anjlok-65-butuh-dukungan-restrukturisasi",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: Kontrak Anjlok 65%, Butuh Dukungan [Restrukturisasi]",
+  "deck": "WIKA memaparkan kontrak baru anjlok 65,47% sejak 2018 dan program penyehatan lewat restrukturisasi utang serta divestasi aset non-inti, menjelang public expose tahunan 1 Oktober 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "konstruksi BUMN",
+   "restrukturisasi utang",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3f7fec1b8e_6252c88bae.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6292,237 +6516,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasil-dari-perbaikan-tata-kelola-harga-komoditas-membaik-dan-pnbp-meningkat",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "laba-bersih-medc-melonjak-ke-us-287-6-juta-pada-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "Laba Bersih MEDC [Melonjak] ke US$287,6 Juta pada Semester I 2026",
-  "deck": "MedcoEnergi (MEDC) mencatat laba bersih US$287,6 juta pada semester I 2026, melonjak dari US$36,1 juta tahun sebelumnya, ditopang produksi migas dan kontribusi Amman Mineral.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "laba bersih",
-   "minyak dan gas",
-   "Amman Mineral"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260921165840-64414-0/FinancialStatement-2026-II-MEDC.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cani-ungkap-identitas-pembeli-kapal-tunda-ke-bei",
-  "category": "Aksi Korporasi",
-  "title": "CANI ungkap identitas [pembeli] kapal tunda ke BEI",
-  "deck": "CANI menanggapi permintaan penjelasan BEI soal penjualan kapal tunda QAL Ranger, mengungkap identitas pembeli PT Lestari Lautan Mulia dan meminta perpanjangan waktu hingga 24 September 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CANI",
-   "keterbukaan informasi",
-   "BEI",
-   "penjualan aset"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11b5bfae26_cad26f168e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-restrukturisasi-obligasi-efektif-kupon-turun-ke-5",
-  "category": "Aksi Korporasi",
-  "title": "WSKT [Restrukturisasi] Obligasi Efektif, Kupon Turun ke 5%",
-  "deck": "WSKT dan wali amanat PT Bank Mega resmi mengubah perjanjian obligasi Seri B, jatuh tempo mundur ke 2034 dan kupon turun jadi 5 persen, efektif 17 September 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "obligasi",
-   "restrukturisasi utang",
-   "wali amanat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a547f3f4ad_8febaaaa51.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vast-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "VAST Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
-  "deck": "Merespons surat permintaan penjelasan BEI, Vastland Indonesia menyatakan tidak ada informasi material yang belum diungkap dan tidak ada rencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VAST",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0b21cb57b8_d99f2f038e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "freeport-ungkap-130-spesies-baru-di-ekosistem-papua",
-  "category": "Industri",
-  "title": "Freeport Ungkap [130] Spesies Baru di Ekosistem Papua",
-  "deck": "Freeport Indonesia memaparkan temuan 130 spesies baru dan 14 tipe ekosistem di wilayah kerjanya dekat Taman Nasional Lorentz, sekaligus menekankan pentingnya data dan kolaborasi untuk konservasi.",
-  "date": "21 September 2026",
-  "image": "assets/img/freeport-ungkap-130-spesies-baru-di-ekosistem-papua.jpg",
-  "imageV": "mubh43b6",
-  "tags": [
-   "Freeport",
-   "Papua",
-   "Konservasi",
-   "Lingkungan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468500-130-spesies-baru-ditemukan-freeport-soroti-pentingnya-data-untuk-jaga-ekosistem-di-papua"
- },
- {
-  "slug": "wskt-restrukturisasi-obligasi-jatuh-tempo-mundur-ke-2034",
-  "category": "Aksi Korporasi",
-  "title": "WSKT [Restrukturisasi] Obligasi, Jatuh Tempo Mundur ke 2034",
-  "deck": "Waskita Karya mengubah jatuh tempo obligasi Seri B dari Mei 2024 menjadi Desember 2034 dan memangkas kupon dari 9,75% jadi 5% usai disetujui RUPO.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "obligasi",
-   "restrukturisasi utang",
-   "Waskita Karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a6566e08a9_ba7b52190f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "data-coretax-diklaim-bocor-djp-bantah-ada-kejanggalan",
-  "category": "Teknologi",
-  "title": "Data Coretax Diklaim Bocor, DJP Bantah Ada [Kejanggalan]",
-  "deck": "DJP membantah klaim kebocoran data wajib pajak di sistem Coretax yang viral di media sosial, dan menyebut ada kejanggalan pada data yang beredar.",
-  "date": "21 September 2026",
-  "image": "assets/img/data-coretax-diklaim-bocor-djp-bantah-ada-kejanggalan.jpg",
-  "imageV": "mubh4456",
-  "tags": [
-   "Coretax",
-   "DJP",
-   "kebocoran data",
-   "wajib pajak"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468484-data-coretax-diklaim-bocor-djp-buka-suara-dan-ungkap-kejanggalan"
- },
- {
-  "slug": "rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya",
-  "category": "Moneter",
-  "title": "Rupiah [Tertekan] ke Rp17.847, BI Sebut Penyebabnya",
-  "deck": "BI mengaitkan pelemahan rupiah ke Rp17.847 per dolar AS dengan lonjakan harga minyak akibat gejolak Timur Tengah, kebutuhan valas importir, dan dana asing yang keluar.",
-  "date": "21 September 2026",
-  "image": "assets/img/rupiah-tertekan-ke-rp17-847-bi-sebut-penyebabnya.jpg",
-  "imageV": "mubcbj8k",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "Bank Indonesia",
-   "harga minyak"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468482-rupiah-tertekan-ke-rp17847-per-dolar-bi-ungkap-biang-keroknya"
- },
- {
-  "slug": "kkp-musnahkan-pakan-dan-alat-tangkap-ilegal-di-aceh",
-  "category": "Industri",
-  "title": "KKP [Musnahkan] Pakan dan Alat Tangkap Ilegal di Aceh",
-  "deck": "KKP memusnahkan 1.075 kg pakan-obat ikan ilegal dan 15 alat tangkap merusak di Aceh, serta menyerahkan 4 kompresor sitaan ke tiga SMK.",
-  "date": "21 September 2026",
-  "image": "assets/img/kkp-musnahkan-pakan-dan-alat-tangkap-ilegal-di-aceh.jpg",
-  "imageV": "mubbyqq9",
-  "tags": [
-   "KKP",
-   "Perikanan Ilegal",
-   "Banda Aceh",
-   "Pengawasan Laut"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-musnahkan-satu-ton-pakan-obat-ikan-dan-alat-tangkap-ilegal-di-banda-aceh-kr3N.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "realisasi-investasi-ri-semester-i-tumbuh-7-2-persen-ke-rp1-010-6-t",
-  "category": "Makroekonomi",
-  "title": "Realisasi Investasi RI Semester I [Tumbuh] 7,2 Persen ke Rp1.010,6 T",
-  "deck": "Kemenko Perekonomian paparkan data ekonomi terkini: investasi semester I 2026 tumbuh 7,2 persen jadi Rp1.010,6 triliun, Satgas Debottlenecking selesaikan 135 dari 177 aduan usaha.",
-  "date": "21 September 2026",
-  "image": "assets/img/pasar-ikan.jpg",
-  "tags": [
-   "investasi",
-   "hilirisasi",
-   "kawasan ekonomi khusus",
-   "makroekonomi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7106/dorong-investasi-berkualitas-dan-pertumbuhan-ekonomi-daerah-pemerintah-perkuat-keterbukaan-informasi-publik",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "asian-games-2026-gratis-di-maxstream-tv-indihome",
-  "category": "Bisnis",
-  "title": "Asian Games 2026 [Gratis] di MAXStream TV IndiHome",
-  "deck": "Pelanggan Paket Internet + TV IndiHome bisa nonton siaran Asian Games 2026 lewat MAXStream TV tanpa biaya tambahan, 19 September hingga 4 Oktober 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/asian-games-2026-gratis-di-maxstream-tv-indihome.jpg",
-  "imageV": "mubbyrwp",
-  "tags": [
-   "Telkomsel",
-   "IndiHome",
-   "MAXStream TV",
-   "Asian Games 2026"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468490-asian-games-2026-tayang-di-maxstream-tv-indihome-tanpa-biaya-tambahan-semangat-indonesia-hadir-di-rumah"
- },
- {
-  "slug": "bei-turunkan-batas-harga-saham-ke-rp1-per-28-september",
-  "category": "Pasar Modal",
-  "title": "BEI Turunkan Batas Harga Saham ke [Rp1] per 28 September",
-  "deck": "BEI menurunkan batas harga saham terendah dari Rp50 menjadi Rp1 mulai 28 September 2026, disertai penyesuaian aturan auto rejection atas dan bawah.",
-  "date": "21 September 2026",
-  "image": "assets/img/bei-turunkan-batas-harga-saham-ke-rp1-per-28-september.jpg",
-  "imageV": "mubbyt4t",
-  "tags": [
-   "BEI",
-   "saham Rp1",
-   "auto rejection",
-   "ARA ARB"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468480-mulai-28-september-harga-saham-di-bei-bisa-turun-hingga-rp1-ini-aturan-barunya"
- },
- {
-  "slug": "pemerintah-perketat-awasi-beras-fortifikasi",
-  "category": "Industri",
-  "title": "Pemerintah [Perketat] Awasi Beras Fortifikasi",
-  "deck": "25 merek beras fortifikasi diduga tak penuhi standar gizi. Pemerintah perintahkan penarikan usai uji di empat laboratorium.",
-  "date": "21 September 2026",
-  "image": "assets/img/pemerintah-perketat-awasi-beras-fortifikasi.jpg",
-  "imageV": "mubbytlp",
-  "tags": [
-   "beras fortifikasi",
-   "Bapanas",
-   "Kementan",
-   "pengawasan pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468479-pemerintah-perketat-pengawasan-beras-fortifikasi-25-merek-diduga-tak-sesuai-standar"
- },
- {
-  "slug": "jsmr-jtt-beri-pinjaman-rp6-5-triliun-ke-anak-usaha-jjc",
-  "category": "Aksi Korporasi",
-  "title": "JSMR: JTT Beri Pinjaman [Rp6,5 Triliun] ke Anak Usaha JJC",
-  "deck": "PT Jasamarga Transjawa Tol memberikan pinjaman pemegang saham Rp6,55 triliun kepada anak usahanya, PT Jasamarga Jalanlayang Cikampek, untuk kebutuhan bridging refinancing dan operasional 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JSMR",
-   "Transaksi Afiliasi",
-   "Jasamarga Transjawa Tol",
-   "Jasamarga Jalanlayang Cikampek"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b65f89912f_a4927e5a88.pdf",
-  "sourceLabel": "IDX"
  }
 ];

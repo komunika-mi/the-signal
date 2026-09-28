@@ -3,6 +3,57 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tamu-restrukturisasi-kredit-jatuh-tempo-diundur-ke-2031",
+  "category": "Aksi Korporasi",
+  "title": "TAMU restrukturisasi kredit, jatuh tempo [diundur] ke 2031",
+  "deck": "TAMU dan Bank Mandiri sepakat memperpanjang jatuh tempo fasilitas kredit dari Desember 2026 menjadi Desember 2031, disertai penyesuaian cicilan bulanan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T23:15:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cea4a7dc27_3059ca69c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAMU",
+  "tags": [
+   "TAMU",
+   "restrukturisasi utang",
+   "Bank Mandiri",
+   "emiten pelayaran"
+  ],
+  "body": [
+   "PT Pelayaran Tamarin Samudra Tbk (TAMU) menandatangani perjanjian restrukturisasi fasilitas kredit dengan PT Bank Mandiri (Persero) Tbk pada 28 September 2026. Berdasarkan perjanjian itu, jatuh tempo fasilitas kredit yang semula Desember 2026 diperpanjang menjadi Desember 2031, disertai penyesuaian jumlah pembayaran pokok dan bunga setiap bulan. Laporan ke Otoritas Jasa Keuangan ini ditandatangani oleh Edi Purwanto selaku Direktur sekaligus Corporate Secretary perusahaan.",
+   "Dalam laporannya, TAMU menyatakan restrukturisasi ini akan memperbaiki arus kas perusahaan sehingga kegiatan operasional dapat berjalan lancar dan pendapatan usaha lebih stabil, yang pada akhirnya menopang kelangsungan usaha perusahaan. Perusahaan tidak mengungkap nilai pokok utang yang direstrukturisasi, suku bunga baru, maupun rincian jadwal cicilan bulanan yang disesuaikan dalam laporan ini."
+  ],
+  "fotoAdegan": "An offshore support vessel moored at an Indonesian port, deckhands coiling ropes, cranes in the background, late afternoon light",
+  "takeaway": "Laporan ini condong positif bagi TAMU karena tenggat pembayaran utang yang sebelumnya tinggal sekitar dua bulan lagi kini diundur lima tahun, menghilangkan tekanan pembayaran mendadak dalam waktu dekat. Yang tersentuh di sini adalah arus kas, yaitu selisih uang masuk dan keluar dari kegiatan sehari-hari perusahaan. Dengan cicilan pokok dan bunga yang dijadwalkan ulang, dana operasional TAMU tidak perlu tersedot sekaligus untuk membayar utang yang jatuh tempo akhir tahun ini. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal berikutnya, karena perusahaan belum mengungkap besaran utang maupun suku bunga baru hasil restrukturisasi, sehingga dampak riilnya terhadap beban bunga perusahaan belum bisa dihitung dari dokumen ini saja.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "toba-baru-pakai-11-9-dana-obligasi-rp175-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TOBA baru pakai 11,9% dana [obligasi] Rp175 miliar",
+  "deck": "TOBA merevisi laporan realisasi dana obligasi Tahap III 2026: baru 11,9% dari Rp172,6 miliar dana bersih terpakai, sisa Rp152 miliar tersimpan di tabungan BTN berbunga 6,2%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T22:12:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6c140238f_0cb7ce9d13.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "TBS Energi Utama",
+   "obligasi korporasi",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) menyampaikan revisi atau koreksi atas laporan realisasi penggunaan dana hasil Obligasi Berkelanjutan I TBS Energi Utama Tahap III Tahun 2026, mengoreksi surat sebelumnya bernomor 168/TBS/VII/2026 tertanggal 28 Juli 2026. Dari penerbitan obligasi ini, perseroan memperoleh dana sebesar Rp175 miliar. Setelah dipotong biaya penawaran umum sebesar Rp2,4 miliar, hasil bersih yang diterima perseroan adalah Rp172,6 miliar, yang menurut prospektus seluruhnya direncanakan untuk modal kerja perseroan.",
+   "Per 30 Juni 2026, perseroan baru merealisasikan penggunaan dana sebesar Rp20.574.785.314, atau sekitar 11,9 persen dari dana bersih tersebut, untuk modal kerja yang mencakup beban gaji, sewa kantor, perawatan dan perbaikan kantor, serta keperluan umum korporasi lainnya. Sisa dana sebesar Rp152.025.214.686 saat ini ditempatkan dalam bentuk tabungan di PT Bank Tabungan Negara (Persero) Tbk dengan tingkat bunga 6,2 persen per tahun. Revisi laporan ini juga mengungkap bahwa rekening khusus penampungan dana hasil obligasi telah dipindahkan pada 22 Juni 2026, dari semula di PT Bank Hibank Indonesia menjadi rekening di PT Bank Tabungan Negara.",
+   "Dari total biaya penawaran umum Rp2,4 miliar, rinciannya terdiri dari biaya jasa penjaminan (underwriting fee) Rp97 juta, biaya jasa penyelenggaraan (management fee) Rp680 juta, biaya jasa penjualan (selling fee) Rp97 juta, biaya jasa profesi penunjang pasar modal Rp982 juta, dan biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi sebesar Rp544 juta. Laporan ini ditandatangani oleh Direktur Alvi Firman Sunanda dan Direktur Juli Oktarina, serta disampaikan resmi oleh Corporate Secretary Pingkan Ratna Melati."
+  ],
+  "fotoAdegan": "Interior of a modern Indonesian bank branch with a customer completing a transaction at the teller counter during business hours",
+  "takeaway": "Laporan ini netral bagi TOBA: sifatnya adalah kepatuhan rutin soal pemakaian dana obligasi, bukan sinyal baru tentang kondisi bisnis inti perseroan, meski patut dicatat bahwa hingga pertengahan tahun baru 11,9 persen dari dana bersih yang benar-benar terpakai. Pos yang tersentuh adalah arus kas perusahaan, karena sisa Rp152 miliar dari obligasi ini masih mengendap sebagai tabungan berbunga 6,2 persen alih-alih disalurkan ke kegiatan operasional, sementara perseroan tetap menanggung kewajiban bunga atas obligasi senilai Rp175 miliar itu sampai dana benar-benar habis terpakai. Selisih antara bunga tabungan dan bunga obligasi yang harus dibayar perseroan layak diperhatikan investor sebagai potensi beban biaya keuangan tambahan. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana periode selanjutnya, yang wajib disampaikan perseroan sesuai Pasal 4 POJK 40/2025 sampai seluruh sisa dana tersebut tersalurkan penuh sebagai modal kerja.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kemendag-gelar-pelatihan-dagang-untuk-pejabat-afrika",
   "category": "Global",
   "title": "Kemendag Gelar Pelatihan Dagang untuk Pejabat [Afrika]",
@@ -28,6 +79,59 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah di sini bukan aturan atau anggaran, melainkan pembukaan putaran kedua program pelatihan dagang bagi 14 pejabat dari enam negara Afrika Timur, setelah edisi pertama pada 2025. Yang terdampak langsung adalah peserta pelatihan itu sendiri serta pelaku usaha Indonesia yang berpotensi menjajaki pasar Afrika Timur, mengingat total perdagangan dua kawasan baru US$13,7 miliar pada 2023, angka yang berulang kali disebut Kemendag masih jauh dari potensinya. Berita ini belum bisa menunjukkan ke mana kerja sama ini akan bergerak, karena Kemendag sendiri menyatakan ukuran keberhasilannya baru terlihat dari rencana aksi yang disusun peserta, bukan dari pelatihan itu sendiri. Yang perlu dipantau adalah apakah rencana aksi peserta setelah pelatihan berakhir 8 Oktober 2026 ini benar-benar berlanjut menjadi kerja sama dagang atau investasi konkret, atau berhenti sebagai laporan seremonial seperti yang terjadi pada edisi 2025.",
   "imageV": "mule67zb"
+ },
+ {
+  "slug": "toba-koreksi-realisasi-dana-obligasi-sisa-rp46-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TOBA [koreksi] realisasi dana obligasi, sisa Rp46,4 miliar",
+  "deck": "TOBA merevisi laporan dana obligasi Rp493,96 miliar: 90,6% sudah terpakai, termasuk pelunasan penuh obligasi lama Rp400,93 miliar, sisa Rp46,39 miliar menunggu disetor ke anak usaha tambang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T22:09:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e604818fb5_56982d5081.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "penggunaan dana",
+   "TBS Energi Utama"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) mengoreksi laporan realisasi penggunaan dana hasil Obligasi Berkelanjutan I TBS Energi Utama Tahap II Tahun 2026 senilai Rp500 miliar. Setelah dipotong biaya penawaran umum Rp6,04 miliar, dana bersih yang diterima perseroan sebesar Rp493,96 miliar. Dalam revisi yang disampaikan Corporate Secretary Pingkan Ratna Melati pada 28 September 2026, perseroan menyatakan telah merealisasikan penggunaan dana sebesar Rp447,57 miliar per 30 Juni 2026, menyisakan Rp46,39 miliar yang belum digunakan.",
+   "Dari dana yang sudah terpakai, porsi terbesar yakni Rp400,93 miliar atau 81,2 persen dari hasil bersih dipakai untuk melunasi pokok Obligasi I TBS Energi Utama Tahun 2023 Seri A pada 13 Februari 2026. Sisanya, Rp46,64 miliar atau 9,4 persen, dipakai sebagai modal kerja perseroan, termasuk beban gaji, sewa kantor, perawatan gedung, dan keperluan umum korporasi.",
+   "Adapun rencana setoran modal senilai Rp46,39 miliar atau 9,4 persen kepada anak usaha PT Trisensa Mineral Utama (TMU), yang sahamnya dimiliki TOBA sebesar 99,99 persen, belum terealisasi. Dana ini rencananya dipakai TMU sebagai modal kerja pertambangan batu bara, termasuk membayar jasa kontraktor pengupasan lapisan penutup, pengambilan, dan pengangkutan batu bara kepada CV Multindo Prima Teknik, mitra TMU sejak Perjanjian Jasa Pertambangan 1 Februari 2024. TOBA menyatakan tidak memiliki hubungan afiliasi dengan kontraktor tersebut. Sambil menunggu disalurkan, dana itu disimpan dalam bentuk tabungan di PT Bank KB Indonesia Tbk dengan bunga 5,35 persen per tahun tanpa jangka waktu penyimpanan yang ditentukan.",
+   "Total biaya penawaran umum Rp6,04 miliar terdiri dari biaya penjaminan emisi Rp278 juta, biaya penyelenggaraan Rp1,94 miliar, biaya penjualan Rp278 juta, biaya jasa profesi penunjang pasar modal Rp2,48 miliar, dan biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi Rp1,06 miliar."
+  ],
+  "fotoAdegan": "Excavators and haul trucks moving overburden soil at an open pit coal mine, dusty haul road, tropical daylight",
+  "takeaway": "Laporan ini netral bagi TOBA: dana yang direalisasikan dipakai untuk melunasi obligasi lama memakai dana dari obligasi baru, jadi ini pertukaran utang dengan jadwal jatuh tempo baru, bukan pengurangan beban utang perseroan secara keseluruhan. Yang tersentuh di sini adalah arus kas dan beban bunga perseroan, karena penerbitan obligasi baru menggantikan kewajiban lama, sementara sisa dana yang belum tersalurkan masih mengendap sebagai simpanan berbunga 5,35 persen sambil menunggu disuntikkan ke anak usaha tambang batu bara Trisensa Mineral Utama. Yang perlu dipantau berikutnya adalah realisasi setoran modal Rp46,39 miliar ke Trisensa Mineral Utama pada laporan periode mendatang, karena dana itu akan langsung menambah modal kerja operasi tambang batu bara anak usaha tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "toba-revisi-laporan-dana-obligasi-rp89-miliar-mengendap",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Revisi Laporan Dana Obligasi, [Rp89 Miliar] Mengendap",
+  "deck": "TOBA merevisi laporan realisasi dana obligasi Rp125 miliar. Rp24,07 miliar sudah dipakai melunasi utang, sisanya Rp89 miliar untuk anak usaha AMES masih tersimpan di tabungan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T22:04:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ad99e083a_3dbda5c41e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "penggunaan dana",
+   "AMES"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) menyampaikan revisi laporan realisasi penggunaan dana hasil Obligasi Berkelanjutan I TBS Energi Utama Tahap I Tahun 2025, mengoreksi surat sebelumnya bernomor 210/TBS/VII/2026 tanggal 28 Juli 2026. Obligasi yang efektif sejak 30 Juni 2025 ini menghimpun dana Rp125 miliar. Setelah dipotong biaya penawaran umum Rp11,93 miliar, yang meliputi antara lain biaya jasa profesi penunjang pasar modal Rp9,97 miliar dan biaya penjaminan Rp71 juta, dana bersih yang diterima perseroan adalah Rp113,07 miliar.",
+   "Sesuai rencana di prospektus, Rp89 miliar atau 78,7 persen dari dana bersih dialokasikan sebagai tambahan setoran modal ke Asia Medical Enviro Services (AMES), anak usaha di bidang pengelolaan limbah industri di Singapura yang sahamnya dimiliki TOBA secara tidak langsung. Dana ini akan mengalir berjenjang lewat PT Solusi Bersih TBS, kemudian SBT Invest Pte. Ltd., SBT Investment 1 Pte. Ltd., Taonga Holdings Pte. Ltd., sebelum akhirnya disuntikkan ke AMES dalam bentuk penyertaan modal untuk membeli mesin insinerator baru, termasuk biaya konsultan mekanikal elektrikal, konsultan lingkungan, survei topografi, uji tanah, dan pajak pertambahan nilai. Sisanya, Rp24,07 miliar atau 21,3 persen, dialokasikan untuk melunasi sebagian pokok obligasi TBS Tahun 2023 Seri A yang jatuh tempo pada 2026.",
+   "Dari rencana tersebut, baru bagian pelunasan obligasi yang sudah direalisasikan penuh, yakni Rp24,07 miliar yang dibayarkan pada 13 Februari 2026. Sementara itu, dana Rp89 miliar untuk AMES belum disalurkan dan saat ini masih ditempatkan dalam bentuk tabungan di PT Bank KB Indonesia Tbk, pihak ketiga yang tidak berelasi dengan TOBA, dengan bunga 5,35 persen per tahun dan jangka waktu penyimpanan yang tidak ditentukan."
+  ],
+  "fotoAdegan": "Industrial waste treatment facility with large incinerator stacks and pipework, workers in safety gear inspecting equipment under overcast sky",
+  "takeaway": "Laporan ini condong netral bagi TOBA, dengan sedikit unsur yang perlu diwaspadai: porsi terbesar dana ekspansi, hampir 79 persen dari total dana bersih, masih mengendap sebagai tabungan lebih dari setahun sejak dana obligasi cair, sementara bagian yang sudah terpakai justru untuk melunasi utang lama. Pos yang tersentuh adalah arus kas dan beban bunga perseroan, karena dana Rp89 miliar yang idealnya sudah menjadi belanja modal insinerator baru di AMES malah baru menghasilkan bunga tabungan 5,35 persen, sementara pelunasan sebagian pokok obligasi lama mengurangi kewajiban bunga TOBA ke depan. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana selanjutnya untuk melihat kapan dana Rp89 miliar itu benar-benar disalurkan ke AMES, serta pelunasan sisa pokok obligasi TBS 2023 Seri A yang jatuh tempo tahun ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "telkom-perluas-program-hijau-gozero-ke-klangon-sleman",
@@ -217,6 +321,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "rupslb-uang-setujui-wiria-chakradinata-jadi-wadirut",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB UANG Setujui Wiria Chakradinata Jadi [Wadirut]",
+  "deck": "RUPSLB PT Pakuan Tbk menyetujui susunan direksi baru: Erick Wihardja tetap Direktur Utama, Wiria Chakradinata jadi Wakil Direktur Utama gantikan Aditya Wisnu Wardhana yang mundur.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:32:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1adc9067c_95c18ebe0b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UANG",
+  "tags": [
+   "UANG",
+   "PT Pakuan Tbk",
+   "RUPSLB",
+   "direksi"
+  ],
+  "body": [
+   "PT Pakuan Tbk (UANG) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 25 September 2026, di Jalan Raya Muchtar, Sawangan, Depok. Rapat dihadiri pemegang saham yang mewakili 1.041.447.516 saham atau 86,07 persen dari total 1.210.000.000 saham yang telah diterbitkan perseroan, sehingga kuorum kehadiran terpenuhi. Seluruh keputusan diambil secara musyawarah mufakat, tanpa ada pemegang saham yang menyatakan tidak setuju atau abstain.",
+   "Agenda tunggal rapat adalah persetujuan pengangkatan kembali dan perubahan susunan direksi. Perseroan menerima pengunduran diri Aditya Wisnu Wardhana dari jabatan Wakil Direktur Utama, sesuai surat pengunduran dirinya tertanggal 8 Agustus 2026 yang telah diumumkan ke bursa dan OJK pada 10 Agustus 2026. Rapat juga memberhentikan dengan hormat Erick Wihardja dari jabatan Direktur Utama terhitung sejak penutupan rapat, namun langsung mengangkatnya kembali untuk periode berikutnya. Pembebasan tanggung jawab penuh (acquit et decharge) atas kinerja Aditya Wisnu Wardhana dan Erick Wihardja sepanjang tahun buku 2026 baru akan dimintakan dalam RUPS Tahunan yang mengesahkan laporan keuangan tahun 2026.",
+   "Dengan keputusan ini, susunan direksi UANG menjadi Erick Wihardja sebagai Direktur Utama untuk periode kedua dan Wiria Chakradinata sebagai Wakil Direktur Utama untuk periode pertama, keduanya menjabat sejak 25 September 2026 hingga penutupan RUPS Tahunan tahun 2031. Direksi diberi kuasa untuk menuangkan keputusan ini dalam akta notaris dan melaporkannya kepada pihak berwenang. Susunan dewan komisaris tidak berubah, yaitu Bonny Harry sebagai Komisaris Utama, Sumantri sebagai Wakil Komisaris Utama, dan Yoshihiro Kobi sebagai komisaris independen, masing-masing menjabat hingga 30 Juni 2030."
+  ],
+  "fotoAdegan": "Empty rows of chairs arranged before a podium in a modern Indonesian corporate meeting hall, soft morning light through large windows.",
+  "takeaway": "Laporan ini netral bagi fundamental UANG karena pergantian direksi tidak mengubah modal, kas, atau utang perusahaan, dan kursi Direktur Utama tetap dipegang Erick Wihardja. Yang berubah hanya posisi wakilnya, yaitu Wiria Chakradinata menggantikan Aditya Wisnu Wardhana yang mengundurkan diri sejak 8 Agustus 2026. Perubahan direksi seperti ini tetap dipantau pelaku pasar karena menyangkut siapa yang menjalankan strategi bisnis sehari-hari perusahaan, meski dampaknya tidak langsung terlihat pada pos keuangan seperti ekuitas, arus kas, atau laba per saham. Yang perlu ditunggu selanjutnya adalah penyelesaian akta notaris atas perubahan susunan direksi ini, serta keputusan pembebasan tanggung jawab (acquit et decharge) untuk Erick Wihardja dan Aditya Wisnu Wardhana yang baru akan dibahas dalam RUPS Tahunan pengesahan laporan keuangan tahun buku 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "sema-raih-kontrak-panel-listrik-data-center-cgk5-cgk7",
   "category": "Aksi Korporasi",
   "title": "SEMA Raih Kontrak Panel Listrik [Data Center] CGK5-CGK7",
@@ -295,6 +425,58 @@ var ARTICLES = [
   "imageV": "mule6agf"
  },
  {
+  "slug": "ketr-fsmn-lepas-994-juta-saham-lewat-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "KETR: FSMN Lepas 994 Juta Saham lewat [Divestasi]",
+  "deck": "PT Fajar Sejahtera Mandiri Nusantara menjual 994,37 juta saham KETR senilai sekitar Rp520 miliar pada 28 September 2026, namun hak suara pelapor tetap nol persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T19:28:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8908-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "Ketrosden Triasmitra",
+   "kepemilikan saham",
+   "divestasi"
+  ],
+  "body": [
+   "Bahtera Bintang Nusantara, pihak yang bukan direksi maupun komisaris PT Ketrosden Triasmitra Tbk (KETR), melaporkan kepemilikan sahamnya di KETR kepada Otoritas Jasa Keuangan pada 28 September 2026. Dalam laporan itu, jumlah saham KETR yang dimiliki langsung oleh pelapor tercatat nol unit baik sebelum maupun sesudah periode pelaporan, dengan hak suara yang juga tetap nol persen.",
+   "Meski posisi langsung pelapor tidak berubah, laporan turut memuat rincian transaksi penjualan saham KETR yang dilakukan lewat kepemilikan tidak langsung pelapor, yaitu PT Fajar Sejahtera Mandiri Nusantara (FSMN). FSMN tercatat menjual 994.372.000 saham biasa KETR pada 28 September 2026 dengan harga Rp523 per saham, atau senilai sekitar Rp520 miliar jika dihitung dari jumlah saham dikali harga tersebut. Tujuan transaksi yang dicantumkan dalam dokumen adalah divestasi.",
+   "Laporan ini disampaikan berdasarkan Pasal 2 Ayat 2 dan Pasal 3 Ayat 3 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka dan Aktivitas Menjaminkan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Technicians in safety vests splicing fiber optic cables inside an underground utility vault, tools and cable spools nearby, work lights illuminating the space",
+  "takeaway": "Laporan ini netral bagi Ketrosden karena posisi kepemilikan pelapor, Bahtera Bintang Nusantara, tercatat tidak berubah, tetap nol saham dan nol persen hak suara sebelum maupun sesudah transaksi, sehingga penjualan 994.372.000 saham lewat kendaraan tidak langsungnya, PT Fajar Sejahtera Mandiri Nusantara, tidak mengubah peta kendali di KETR menurut angka yang dilaporkan. Hak suara adalah porsi kekuatan pemegang saham saat mengambil keputusan di rapat umum pemegang saham, dan karena angka itu tetap nol di kedua sisi, transaksi senilai sekitar Rp520 miliar ini tampak terjadi di lapisan kepemilikan yang tidak memengaruhi hak kendali pelapor atas KETR, sekalipun nilainya besar. Yang perlu dipantau selanjutnya adalah RUPSLB KETR yang dijadwalkan 12 November 2026, karena agenda rapat itu bisa mengungkap apakah pergeseran kepemilikan di level FSMN ini terkait rencana korporasi atau perubahan pengendalian lain yang belum diumumkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ketr-fsmn-lepas-994-juta-saham-hak-suara-ke-18-13",
+  "category": "Aksi Korporasi",
+  "title": "KETR: FSMN Lepas 994 Juta Saham, Hak Suara ke [18,13%]",
+  "deck": "FSMN melepas 994.372.000 saham KETR seharga Rp523 per lembar untuk divestasi, memangkas hak suaranya dari 53,13 persen menjadi 18,13 persen dan mengakhiri posisi sebagai pemegang saham mayoritas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T19:26:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-7406-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "divestasi",
+   "pemegang saham",
+   "hak suara"
+  ],
+  "body": [
+   "PT Ketrosden Triasmitra Tbk (KETR) menerima laporan keterbukaan informasi dari pemegang saham Fajar Sejahtera Mandiri Nusantara (FSMN) yang menjual 994.372.000 lembar saham KETR secara tidak langsung pada 28 September 2026. Transaksi berupa penjualan saham biasa dilakukan dengan harga Rp523 per saham, dengan tujuan yang disebutkan dalam laporan sebagai divestasi.",
+   "Sebelum transaksi, FSMN menguasai 1.509.563.417 saham KETR dengan hak suara 53,13 persen, posisi yang menempatkannya sebagai pemegang saham mayoritas. Setelah penjualan, kepemilikannya tersisa 515.191.417 saham dengan hak suara 18,13 persen, setara dengan pelepasan 65,87 persen dari total saham yang sebelumnya dipegang FSMN.",
+   "Perubahan struktur kepemilikan ini muncul menjelang rapat umum pemegang saham luar biasa (RUPSLB) KETR yang telah dijadwalkan pada 12 November 2026, meski agenda resmi rapat tersebut belum diumumkan."
+  ],
+  "fotoAdegan": "Technicians inspecting large fiber-optic cable reels at a telecommunications equipment yard in Jakarta, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi Ketrosden karena FSMN, yang sebelumnya pemegang saham mayoritas dengan hak suara 53,13 persen, kini tersisa 18,13 persen setelah melepas hampir dua pertiga kepemilikannya, sehingga status pengendali perusahaan menjadi tidak jelas. Yang tersentuh adalah komposisi hak suara dan struktur pemegang saham, bukan langsung ke laba atau kas perusahaan, tetapi pelaku pasar tetap mencermatinya karena pergantian pemegang saham pengendali bisa membawa perubahan arah bisnis, direksi, atau komisaris di kemudian hari. Yang perlu dipantau adalah RUPSLB yang sudah dijadwalkan pada 12 November 2026, karena di forum itu biasanya terungkap agenda dan arah pengelolaan perusahaan selanjutnya, termasuk kemungkinan munculnya pemegang saham baru yang mengambil alih posisi FSMN.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "smil-dana-obligasi-rp294-miliar-100-terealisasi-untuk-forklift",
   "category": "Aksi Korporasi",
   "title": "SMIL: dana obligasi Rp294 miliar [100%] terealisasi untuk forklift",
@@ -345,6 +527,32 @@ var ARTICLES = [
   "fotoAdegan": "Exterior of a multi story hospital building in an Indonesian city, covered ambulance entrance, overcast afternoon light, no visible signage",
   "takeaway": "Laporan ini condong negatif bagi pemegang saham lama VISI, karena kendali perusahaan akan berpindah ke PT Harmoni Semesta Investama sebagai pengendali baru, sementara bisnis dagang bahan iklan yang selama ini menjadi sumber pendapatan akan dihentikan bertahap dan digantikan bisnis rumah sakit yang belum pernah dijalankan Perseroan. Pembiayaan pengambilalihan ini terkait skema penambahan modal tanpa memberi hak beli lebih dulu ke pemegang saham lama, sehingga porsi kepemilikan investor yang tidak ikut program ini bisa mengecil dan klaim laba per lembar saham berpotensi terpangkas. Konversi utang HMBC sebesar Rp33,447 miliar ke tiga krediturnya juga mengubah struktur permodalan anak usaha yang diambil alih, sehingga posisi ekuitas gabungan Perseroan akan bergeser signifikan begitu transaksi rampung. Yang perlu dipantau adalah RUPSLB pada 30 September 2026, dua hari dari sekarang, yang menentukan apakah pemegang saham menyetujui seluruh rencana ini, serta tenggat pelaksanaan transaksi paling lambat 23 Oktober 2026 jika disetujui.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "asii-direksi-rudy-tambah-4-4-juta-saham-lewat-pasar",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Direksi Rudy [tambah] 4,4 juta saham lewat pasar",
+  "deck": "Direktur Astra International, Rudy, menambah kepemilikan sahamnya 78,57 persen lewat tiga transaksi pembelian tidak langsung pada 24-28 September 2026, senilai sekitar Rp20,81 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T18:53:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-0056-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASII",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Rudy, anggota Direksi PT Astra International Tbk (ASII), melaporkan ke Otoritas Jasa Keuangan bahwa ia menambah kepemilikan sahamnya di perseroan melalui tiga kali pembelian saham dengan status kepemilikan tidak langsung sepanjang 24 hingga 28 September 2026. Total saham yang dibeli mencapai 4,4 juta lembar, membuat kepemilikannya naik dari 5,6 juta unit menjadi 10 juta unit saham ASII, atau bertambah 78,57 persen dari posisi sebelumnya.",
+   "Rincian transaksi menunjukkan pembelian 2,2 juta saham pada 24 September dengan harga Rp4.760 per lembar, disusul 2 juta saham pada 25 September dengan harga Rp4.700 per lembar, dan 200.000 saham pada 28 September dengan harga yang sama, Rp4.700 per lembar. Seluruh transaksi tercatat dengan tujuan investasi, dengan total nilai transaksi sekitar Rp20,81 miliar.",
+   "Dengan penambahan ini, hak suara Rudy di ASII naik dari 0,0138 persen menjadi 0,0247 persen. Laporan tidak mencantumkan batas akhir periode pelaksanaan tertentu untuk transaksi ini."
+  ],
+  "fotoAdegan": "Workers assembling motorcycle engines on a factory assembly line in Indonesia, bright industrial lighting, morning shift",
+  "takeaway": "Laporan ini condong positif bagi ASII karena mencerminkan direksi menambah, bukan melepas, kepemilikan sahamnya sendiri dengan kenaikan signifikan 78,57 persen dari posisi sebelumnya, melanjutkan pola pembelian oleh beberapa direksi dan komisaris ASII lain dalam sepekan terakhir. Yang tersentuh dari laporan ini adalah hak suara pribadi pelapor, yaitu proporsi suara yang dimiliki seseorang dalam rapat pemegang saham, yang naik dari 0,0138 persen menjadi 0,0247 persen, porsi yang masih sangat kecil dari total saham ASII yang beredar sehingga tidak mengubah peta pengendalian perusahaan. Yang perlu dipantau berikutnya adalah apakah tren pembelian saham oleh jajaran direksi dan komisaris ASII ini berlanjut di laporan-laporan mendatang, mengingat pola serupa sudah berulang sejak pekan lalu, sementara dokumen ini sendiri tidak mencantumkan tenggat pelaksanaan lanjutan.",
+  "sentimen": "positif"
  },
  {
   "slug": "mine-jadwalkan-rupslb-pada-4-november-2026",
@@ -475,6 +683,84 @@ var ARTICLES = [
   "fotoAdegan": "Modern high-rise office towers in Jakarta's SCBD business district viewed from street level at dusk, city lights beginning to glow",
   "takeaway": "Rencana ini kami nilai netral karena sifatnya memenuhi kewajiban regulasi memindahkan saham treasuri, bukan aksi korporasi yang menambah atau mengurangi kas maupun aset perseroan. Yang tersentuh adalah pos ekuitas dan jumlah saham beredar: saham yang tadinya disimpan sebagai treasuri dan tidak dihitung sebagai saham beredar akan berpindah ke tangan karyawan, sehingga jumlah saham beredar bertambah sekitar 5,08 juta lembar dan berpotensi menipiskan laba per saham meski total ekuitas perseroan tetap sama. Di sisi lain, program ini berfungsi sebagai insentif retensi bagi karyawan berkinerja baik, yang secara tidak langsung mendukung keberlanjutan bisnis manajer investasi ini. Yang perlu dipantau selanjutnya adalah hasil RUPST pada 4 November 2026, karena rencana refloat baru bisa berjalan jika disetujui pemegang saham, disusul tahap pertama pengalihan saham pada 10 November 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "raam-direksi-tambah-saham-294-600-lembar-rp51-juta",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Direksi [Tambah] Saham 294.600 Lembar, Rp51 Juta",
+  "deck": "Ram Jethmal Punjabi menambah kepemilikan saham Tripar Multivision Plus lewat 10 transaksi kecil pada 25 September 2026, namun porsinya nyaris tak mengubah hak suaranya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:27:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-1712-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAAM",
+  "tags": [
+   "RAAM",
+   "Tripar Multivision",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direktur PT Tripar Multivision Plus Tbk (RAAM), Ram Jethmal Punjabi, melaporkan ke Otoritas Jasa Keuangan bahwa ia membeli tambahan 294.600 lembar saham perusahaan secara tidak langsung pada 25 September 2026. Pembelian dilakukan dalam 10 transaksi terpisah dengan harga bervariasi dari Rp167 hingga Rp176 per saham, dengan tujuan yang dicatat sebagai investasi. Total nilai seluruh transaksi tersebut sekitar Rp51 juta.",
+   "Dengan tambahan ini, jumlah saham Punjabi di RAAM naik dari 4.689.885.682 lembar menjadi 4.690.180.282 lembar. Hak suaranya di perusahaan tetap di angka 68,83 persen, tidak berubah dibanding sebelum transaksi. Laporan ini disampaikan ke OJK pada 28 September 2026, mengacu pada Peraturan OJK Nomor 4/2024 tentang kewajiban pelaporan kepemilikan saham oleh direksi dan komisaris perusahaan terbuka.",
+   "Transaksi ini menyusul laporan serupa pada 25 September 2026, ketika Punjabi juga tercatat menambah saham RAAM senilai sekitar Rp160 juta. Dengan kata lain, dalam waktu berdekatan direktur RAAM sudah dua kali melaporkan pembelian saham tambahan di pasar sekunder."
+  ],
+  "fotoAdegan": "Camera crew adjusting lighting rig on a television production set, cables taped across the studio floor, warm stage lights",
+  "takeaway": "Laporan ini netral bagi RAAM karena porsi saham yang ditambah cuma 0,0063 persen dari kepemilikan Punjabi yang sudah sangat besar, jadi terlalu kecil untuk dibaca sebagai sinyal keyakinan baru terhadap prospek perusahaan. Pos yang tersentuh di sini cuma peta kepemilikan dan hak suara pemegang saham utama, bukan ekuitas atau laba perusahaan, sebab ini transaksi beli di pasar sekunder yang tidak menambah jumlah saham beredar atau mengubah laba per saham. Hak suara Punjabi pun tetap di 68,83 persen sebelum dan sesudah transaksi, jadi kendalinya di perusahaan tidak bergeser. Yang perlu dicermati adalah apakah pola pembelian kecil berulang oleh direksi ini terus berlanjut dalam beberapa pekan ke depan, karena akumulasi transaksi kecil seperti ini kadang baru terlihat maknanya kalau dijumlahkan dalam periode lebih panjang. Dokumen ini sendiri tidak menyebut tenggat atau agenda korporasi lanjutan yang perlu ditunggu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-direksi-tambah-1-51-miliar-saham-repo-suara-ke-28-87",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Tambah [1,51 Miliar] Saham Repo, Suara ke 28,87%",
+  "deck": "Samuel Sekuritas Indonesia menambah 1,51 miliar saham NSSS lewat mekanisme repurchase agreement, mendorong hak suaranya dari 22,51 persen menjadi 28,87 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:27:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-5445-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "repo saham",
+   "direksi"
+  ],
+  "body": [
+   "Samuel Sekuritas Indonesia, yang berstatus direksi PT Nusantara Sawit Sejahtera Tbk (NSSS), melaporkan kepada Otoritas Jasa Keuangan pada 28 September 2026 bahwa kepemilikan sahamnya di NSSS bertambah dari 5.358.739.600 lembar menjadi 6.872.252.000 lembar, atau naik 1.513.512.400 lembar. Dengan penambahan ini, hak suaranya di perusahaan naik dari 22,51 persen menjadi 28,87 persen. Laporan tercatat dengan nomor surat LK/28092026/0009/1.",
+   "Penambahan saham ini berasal dari dua transaksi yang sama-sama berbentuk repurchase agreement, yakni saham yang dijadikan jaminan untuk mendapatkan pinjaman. Transaksi pertama sebanyak 170.805.300 lembar saham biasa dieksekusi pada harga Rp770 per saham dengan tujuan substitusi jaminan. Transaksi kedua, yang jauh lebih besar, sebanyak 1.342.707.100 lembar saham biasa pada harga Rp740 per saham dengan tujuan penempatan repo. Kedua transaksi tercatat sebagai kepemilikan langsung dan sama-sama dieksekusi pada 28 September 2026.",
+   "Perubahan ini merupakan bagian dari rangkaian transaksi terkait skema repo saham NSSS yang cukup ramai terjadi sejak 23 September 2026, ketika sejumlah pelapor lain di perusahaan ini juga melaporkan pelepasan maupun penambahan saham lewat mekanisme serupa, dengan hak suara yang berubah-ubah signifikan dalam rentang waktu singkat."
+  ],
+  "fotoAdegan": "Oil palm plantation workers loading harvested fruit bunches onto a truck, misty morning light, rural Sumatra",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental NSSS, karena penambahan 1,51 miliar saham oleh Samuel Sekuritas Indonesia selaku direksi ini berasal dari mekanisme repurchase agreement dan substitusi jaminan, bukan pembelian tunai di pasar terbuka atau setoran modal baru ke perusahaan. Yang berubah hanya hak suara pribadi pelapor, dari 22,51 persen menjadi 28,87 persen, sementara jumlah saham beredar, kas, dan ekuitas NSSS sendiri tidak tersentuh, sebab repo pada dasarnya adalah saham yang dijadikan jaminan pinjaman, bukan transaksi jual beli biasa di pasar. Yang perlu dicermati, ini adalah laporan terkait skema repo saham NSSS yang kesekian kalinya hanya dalam rentang 23 sampai 28 September, dengan hak suara berbagai pelapor di perusahaan ini sempat naik turun tajam pada periode yang sama, pola yang menunjukkan cukup aktifnya penggunaan saham sebagai jaminan pinjaman di kalangan insider NSSS. Pemegang saham sebaiknya memantau apakah frekuensi tinggi transaksi gadai saham semacam ini masih berlanjut di laporan-laporan berikutnya, karena bisa mengindikasikan kebutuhan likuiditas yang berulang di kalangan pemegang saham utama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bksl-direksi-lepas-saham-lagi-hak-suara-turun-ke-5-00",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Direksi Lepas Saham Lagi, Hak Suara Turun ke [5,00%]",
+  "deck": "Direksi Sentul City lewat rekening Samuel Sekuritas menjual bersih 353,78 juta saham lewat skema repo pada 28 September 2026, hak suara turun dari 5,21% menjadi 5,00%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:19:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-3386-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BKSL",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "body": [
+   "Seorang direksi Sentul City Tbk (BKSL) yang tercatat melalui rekening Samuel Sekuritas Indonesia melaporkan perubahan kepemilikan sahamnya ke Otoritas Jasa Keuangan pada 28 September 2026. Jumlah saham yang dimiliki berkurang dari 8.737.846.400 lembar menjadi 8.384.068.400 lembar, atau turun 353.778.000 lembar, setara 4,05 persen dari kepemilikannya sebelumnya. Akibatnya, hak suara direksi ini di perusahaan turun dari 5,21 persen menjadi 5,00 persen.",
+   "Perubahan ini berasal dari tiga transaksi berbeda yang semuanya tercatat pada tanggal yang sama. Direksi menjual 932.674.600 saham seharga Rp68 per lembar untuk pencairan repo, menjual lagi 408.282.800 saham seharga Rp72 per lembar untuk keperluan substitusi, lalu membeli kembali 987.179.400 saham seharga Rp65 per lembar untuk penempatan repo baru. Repo di sini adalah transaksi jual saham dengan janji dibeli kembali di kemudian hari, cara yang lazim dipakai pemegang saham untuk memperoleh dana tunai tanpa melepas kepemilikan secara permanen.",
+   "Laporan ini menyusul laporan serupa pada 23 September 2026 yang mencatat pengurangan kepemilikan direksi lewat skema repo hingga 2,7 miliar lembar saham. Dengan laporan terbaru ini, hak suara direksi tersebut kini persis berada di angka 5,00 persen."
+  ],
+  "fotoAdegan": "Aerial view of a hillside residential township under development near Bogor, rooftops and green hills, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi Sentul City, karena melanjutkan tren pelepasan saham direksi lewat skema repo yang sudah berjalan sejak akhir pekan lalu, dan kini hak suaranya tergerus tepat ke ambang 5 persen. Yang tersentuh adalah jumlah saham di tangan direksi dan hak suaranya, dua hal yang dipantau pelaku pasar karena mencerminkan seberapa besar kendali dan keyakinan orang dalam terhadap perusahaannya sendiri; pelepasan lewat skema repo umumnya dibaca sebagai kebutuhan likuiditas pribadi sang direksi, bukan transaksi jual beli biasa. Yang perlu dipantau berikutnya adalah laporan kepemilikan susulan dari direksi yang sama, sebab posisi 5,00 persen ini pas berada di ambang batas yang lazim dipakai otoritas untuk menandai pemegang saham utama, dan jika turun sedikit lagi kewajiban melaporkan setiap perubahan kepemilikannya bisa berkurang sehingga transparansi ke publik pun ikut berkurang.",
+  "sentimen": "negatif"
  },
  {
   "slug": "untr-jadwalkan-dividen-interim-rp430-per-saham",
@@ -608,6 +894,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers assembling small three-wheeled electric cargo vehicles inside an industrial workshop, sunlight through open bay doors",
   "takeaway": "Laporan ini netral bagi fundamental Perseroan: menutup ekuitas negatif memang kabar baik untuk neraca, tapi porsi saham pemegang saham minoritas justru terkuras drastis dan syarat saham beredar minimum belum terpenuhi setelah aksi ini. Yang tersentuh adalah ekuitas dan jumlah saham beredar, suntikan Rp125 miliar dari GIGP membuat modal sendiri Perseroan berbalik dari minus jadi plus, tapi jumlah saham beredar hampir tiga kali lipat sehingga laba per saham ke depan berpotensi terdilusi dan kendali GIGP menguat dari 65,86 persen jadi 88,32 persen. Free float, yaitu porsi saham di luar pengendali dan pemegang saham utama, turun jadi sekitar 11,68 persen, di bawah batas minimum 15 persen aturan Bursa, sehingga GIGP masih harus melepas sahamnya bertahap ke investor lain agar Perseroan tetap memenuhi ketentuan pencatatan. Yang perlu dipantau adalah RUPSLB pada 3 November 2026 yang mengesahkan seluruh rencana ini, penandatanganan akuisisi perusahaan otomotif yang ditargetkan awal Oktober 2026, dan laporan keuangan akhir tahun 2026 yang akan menentukan apakah Bursa bersedia mencabut suspensi saham INPS.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "film-direksi-tambah-100-8-juta-saham-lewat-skema-repo",
+  "category": "Aksi Korporasi",
+  "title": "FILM: Direksi [tambah] 100,8 juta saham lewat skema repo",
+  "deck": "Direksi FILM menambah kepemilikan saham lewat pembelian 100,8 juta lembar seharga Rp680 lewat skema repo, mengerek hak suaranya dari 8,71 persen menjadi 9,64 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:03:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8574-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FILM",
+  "tags": [
+   "FILM",
+   "MD Entertainment",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Pelapor yang menjabat Direksi PT MD Entertainment Tbk (FILM), tercatat atas nama Samuel Sekuritas Indonesia, melaporkan pembelian saham perusahaan pada 28 September 2026. Sebelum transaksi, pelapor memegang 948.524.800 saham atau setara 8,71 persen hak suara. Setelah transaksi, kepemilikannya naik menjadi 1.049.325.300 saham atau 9,64 persen hak suara, berarti ada tambahan 100.800.500 saham biasa.",
+   "Pembelian dilakukan pada harga Rp680 per saham melalui skema Repurchase Agreement (repo), yakni transaksi jual beli saham yang disertai perjanjian untuk dibeli atau dijual kembali di kemudian hari. Dokumen mencantumkan tujuan transaksi sebagai 'penempatan repo', dengan status kepemilikan langsung dan tanpa batas akhir periode pelaksanaan yang disebutkan.",
+   "Jumlah saham yang bertambah ini setara 10,63 persen dari saham yang sebelumnya dimiliki pelapor, sehingga hak suaranya di FILM naik hampir satu poin persentase, dari 8,71 persen menjadi 9,64 persen."
+  ],
+  "fotoAdegan": "Film production crew adjusting camera and lighting rigs on an indoor soundstage in Jakarta, cables coiled across the floor.",
+  "takeaway": "Laporan ini condong positif bagi emiten karena pihak di jajaran direksi menambah kepemilikan sahamnya dalam jumlah cukup besar, bukan melepasnya, dengan kenaikan hak suara hampir satu poin persentase dari 8,71 persen ke 9,64 persen. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, bukan jumlah saham beredar perusahaan, karena transaksi ini terjadi di pasar antar pemegang saham, bukan penerbitan saham baru oleh emiten. Perlu dicatat, transaksi memakai skema repurchase agreement atau repo, yaitu pembelian saham yang disertai perjanjian untuk dijual atau dibeli kembali di kemudian hari, sehingga sifatnya bisa sementara dan dipakai untuk kebutuhan pendanaan jangka pendek, bukan semata keyakinan jangka panjang terhadap perusahaan. Yang perlu dipantau berikutnya adalah apakah saham hasil repo ini nantinya dilepas kembali sesuai perjanjian, yang bisa mengembalikan hak suara pelapor ke level semula, serta laporan kepemilikan lanjutan dari pihak yang sama di kemudian hari.",
+  "sentimen": "positif"
  },
  {
   "slug": "fifa-salurkan-dana-obligasi-rp2-49-triliun-untuk-pembiayaan-kredit",
@@ -874,6 +1186,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "oasa-direksi-lepas-11-4-juta-saham-hak-suara-ke-31-83",
+  "category": "Aksi Korporasi",
+  "title": "[OASA] Direksi Lepas 11,4 Juta Saham, Hak Suara ke 31,83%",
+  "deck": "Direktur OASA, Ir. Gafur Sulistyo Umar, menjual 11,4 juta saham tidak langsung pada 25 September 2026 seharga Rp245 per saham untuk realokasi investasi, hak suaranya turun ke 31,83%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:05:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-0261-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OASA",
+  "tags": [
+   "OASA",
+   "Maharaksa Biru Energi",
+   "Kepemilikan Saham",
+   "Direksi"
+  ],
+  "body": [
+   "PT Maharaksa Biru Energi Tbk (OASA) melaporkan perubahan kepemilikan saham salah satu direksinya, Ir. Gafur Sulistyo Umar MBA, kepada Otoritas Jasa Keuangan pada 28 September 2026. Berdasarkan laporan tersebut, jumlah saham OASA yang dimiliki Gafur berkurang dari 2.031.862.693 lembar menjadi 2.020.437.993 lembar, atau berkurang 11.424.700 lembar.",
+   "Pengurangan itu berasal dari penjualan saham secara tidak langsung sebanyak 11.424.700 lembar saham biasa pada 25 September 2026, dengan harga Rp245 per saham. Tujuan transaksi yang dicantumkan dalam laporan adalah realokasi investasi. Akibat transaksi ini, hak suara Gafur di OASA turun dari 32,01 persen menjadi 31,83 persen.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 1 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi, komisaris, dan pemegang saham utama emiten melaporkan setiap perubahan kepemilikan sahamnya kepada OJK."
+  ],
+  "fotoAdegan": "Rows of solar panels stretching across an open field in Indonesia, a technician inspecting panel wiring under bright midday sun",
+  "takeaway": "Transaksi ini netral bagi OASA karena saham yang dilepas Gafur hanya sekitar 0,56 persen dari kepemilikannya sendiri, porsi yang terlalu kecil untuk dibaca sebagai sinyal kuat soal pandangan direksi terhadap prospek perusahaan, meski hak suaranya turun tipis dari 32,01 persen menjadi 31,83 persen. Yang tersentuh di sini hanya struktur kepemilikan dan hak suara pemegang saham utama, bukan pos keuangan perusahaan seperti ekuitas atau laba per saham, sebab ini jual beli saham yang sudah beredar di pasar, bukan penerbitan saham baru, sehingga jumlah saham beredar OASA tidak bertambah. Pelaku pasar biasanya tetap mencatat transaksi orang dalam seperti ini sebagai salah satu indikator sentimen, meski dalam kasus ini porsinya terlalu kecil untuk disimpulkan apa pun. Yang perlu dipantau selanjutnya adalah apakah pelepasan bertahap oleh Gafur ini berlanjut di laporan kepemilikan berikutnya, mengingat ia masih memegang hak suara di atas 31 persen setelah transaksi 25 September 2026 ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wika-jadwalkan-rupsu-sukuk-tahap-ii-2021-28-oktober",
   "category": "Aksi Korporasi",
   "title": "WIKA Jadwalkan [RUPSU] Sukuk Tahap II 2021, 28 Oktober",
@@ -924,6 +1262,33 @@ var ARTICLES = [
   "fotoAdegan": "Empty modern corporate meeting hall with rows of chairs facing a podium, tall windows, morning light, Jakarta office tower",
   "takeaway": "Laporan ini netral bagi WIKA, sebab isinya baru pemberitahuan rencana rapat, belum memuat agenda, usulan restrukturisasi, atau perubahan syarat pembayaran yang bisa dinilai arah dampaknya. Yang tersentuh adalah arus kas dan kewajiban utang perusahaan, karena RUPO adalah forum tempat pemegang obligasi memutuskan apakah menyetujui perubahan jadwal atau syarat pembayaran utang, sesuatu yang langsung memengaruhi berapa besar kas yang harus disiapkan WIKA dan kapan. Investor pasar modal memperhatikan forum semacam ini karena hasilnya menentukan apakah WIKA mendapat kelonggaran waktu atau justru dituntut membayar sesuai jadwal awal di tengah status gagal bayar sukuknya. Yang perlu dipantau berikutnya adalah panggilan resmi RUPO di media nasional pada 13 Oktober 2026, lalu jalannya RUPO itu sendiri pada 27 Oktober 2026, saat agenda dan kemungkinan usulan restrukturisasi baru akan terungkap.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "wika-kontrak-anjlok-65-butuh-dukungan-restrukturisasi",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: Kontrak Anjlok 65%, Butuh Dukungan [Restrukturisasi]",
+  "deck": "WIKA memaparkan kontrak baru anjlok 65,47% sejak 2018 dan program penyehatan lewat restrukturisasi utang serta divestasi aset non-inti, menjelang public expose tahunan 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:51:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3f7fec1b8e_6252c88bae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "konstruksi BUMN",
+   "restrukturisasi utang",
+   "public expose"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada Senin, 28 September 2026, menjelang acara paparan publik yang dijadwalkan Kamis, 1 Oktober 2026 pukul 10.00-11.00 WIB secara daring melalui Zoom. Acara ini akan dihadiri jajaran direksi WIKA, dipimpin Direktur Utama I Ketut Pasek Senjaya Putra, dengan materi disampaikan melalui Corporate Secretary Mahendra Vijaya.",
+   "Dalam materi tersebut, WIKA mengungkapkan bahwa realisasi kontrak baru perusahaan turun 65,47 persen pada 2025 dibandingkan 2018, penurunan yang menurut manajemen berdampak langsung pada turunnya pendapatan dan uang tunai yang masuk ke perusahaan. Sepanjang 2025, nilai kontrak yang masih dikerjakan tercatat Rp50,52 triliun dengan pendapatan Rp13,33 triliun. Per Agustus 2026, WIKA masih mengerjakan 71 proyek, termasuk sejumlah proyek strategis nasional dan proyek di kawasan Ibu Kota Nusantara, dengan total nilai kontrak dihadapi Rp40,25 triliun.",
+   "Dari sisi keuangan, piutang usaha WIKA turun 45,74 persen dan utang usaha turun 30,48 persen pada kuartal II 2026 dibandingkan kuartal II 2024, sementara utang berbunga turun lebih tipis, 10,52 persen pada periode yang sama. Margin laba kotor naik menjadi 14,11 persen pada kuartal II 2026, dari 8,07 persen pada kuartal II 2025. Manajemen menargetkan penjualan non-joint operation Januari-Desember 2026 senilai Rp13,60 triliun dengan asumsi laba kotor Rp1,25 triliun, dan menyebut perseroan perlu melakukan restrukturisasi keuangan untuk mencapainya.",
+   "Untuk mengatasi tekanan keuangan ini, WIKA memaparkan program penyehatan yang mencakup renegosiasi tenor pinjaman dan penurunan bunga sesuai kemampuan bayar perusahaan, percepatan penagihan piutang dan klaim proyek, serta rencana divestasi saham pengendali di sejumlah anak usaha dan perusahaan asosiasi yang bukan bisnis inti untuk mengurangi potensi kerugian. Manajemen menyebut perseroan membutuhkan dukungan dari berbagai pihak untuk menuntaskan proses penyehatan dan memenuhi kewajiban pembayaran utang."
+  ],
+  "fotoAdegan": "Construction workers in safety vests walking across an unfinished elevated toll road structure with cranes in the background, overcast afternoon light.",
+  "takeaway": "Paparan ini condong negatif karena menegaskan bahwa kontrak baru WIKA anjlok 65,47 persen sejak 2018 dan manajemen secara terbuka mengaku perseroan butuh dukungan berbagai pihak untuk memenuhi kewajiban bayar utang, sejalan dengan status gagal bayar yang baru saja disematkan PEFINDO pada peringkat sukuk WIKA pekan ini. Yang tersentuh adalah pendapatan perusahaan yang ikut tergerus akibat sepinya kontrak baru, serta arus kas, yakni uang tunai yang benar-benar masuk ke kas WIKA dari proyek dan penagihan piutang, yang jadi fokus program penyehatan lewat percepatan penagihan dan pelepasan saham pengendali di aset-aset bukan bisnis inti. Ada sisi baik, piutang usaha turun 45,74 persen dan margin laba kotor naik ke 14,11 persen pada kuartal II 2026 dari 8,07 persen setahun sebelumnya, tapi perbaikan itu belum menjawab persoalan utama yaitu order baru yang masih seret. Yang perlu dipantau berikutnya adalah paparan langsung direksi WIKA dalam Public Expose Tahunan pada Kamis, 1 Oktober 2026 pukul 10.00 WIB, saat progres restrukturisasi utang dan rencana divestasi anak usaha dijelaskan lebih rinci kepada investor.",
+  "sentimen": "negatif"
  },
  {
   "slug": "goto-morgan-stanley-lepas-450-juta-saham-via-repo",

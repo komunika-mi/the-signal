@@ -3,6 +3,241 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ptba-laporkan-transaksi-material-pinjaman-rp6-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PTBA Laporkan Transaksi [Material] Pinjaman Rp6 Triliun",
+  "deck": "Bukit Asam mengungkap pinjaman modal kerja gabungan Rp6 triliun dari BRI dan Bank Mandiri untuk pemanfaatan devisa hasil ekspor, setara 23,68 persen ekuitas perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:54:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/379fa02362_77380d711e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTBA",
+  "tags": [
+   "PTBA",
+   "Bukit Asam",
+   "DHE SDA",
+   "transaksi material"
+  ],
+  "body": [
+   "PT Bukit Asam (Persero) Tbk (PTBA) melaporkan transaksi material tanpa persetujuan RUPS berupa dua perjanjian kredit yang secara gabungan mencapai Rp6 triliun, setara 23,68 persen dari ekuitas perusahaan baik per akhir Desember 2025 maupun per Juni 2026. Perjanjian Kredit I diteken dengan PT Bank Rakyat Indonesia (Persero) Tbk pada 23 September 2026, disusul Perjanjian Kredit II dengan PT Bank Mandiri (Persero) Tbk pada 28 September 2026. Kedua bank berstatus pihak berelasi karena sama-sama dikendalikan negara, sebagaimana halnya PTBA yang merupakan badan usaha milik negara.",
+   "Dalam keterbukaan informasinya, perseroan menjelaskan bahwa saat Perjanjian Kredit I diteken, plafon pinjamannya sendiri belum memenuhi ambang batas transaksi material karena masih di bawah 20 persen ekuitas. Namun karena tergolong transaksi afiliasi, perseroan tetap melaporkannya ke OJK pada 23 September 2026 melalui surat nomor T/912/111000/KS.03/IX/2026. Setelah Perjanjian Kredit II dengan Bank Mandiri diteken lima hari kemudian, akumulasi plafon kedua pinjaman itu naik menjadi Rp6 triliun, melewati ambang 20 persen ekuitas sehingga transaksi ini resmi berstatus material dan wajib diumumkan ke publik sesuai POJK No. 17/2020.",
+   "Kedua pinjaman ini digunakan sebagai modal kerja dari pemanfaatan Devisa Hasil Ekspor Sumber Daya Alam (DHE SDA), yakni dana hasil ekspor yang menurut aturan pemerintah, PP No. 36/2023, PBI No. 7/2023, dan PADG BI No. 42/2023, wajib disimpan sementara di sistem perbankan dalam negeri. Karena berbentuk pinjaman langsung dari bank, PTBA dikecualikan dari kewajiban menggunakan jasa penilai independen dan tidak memerlukan persetujuan RUPS, meski tetap wajib diumumkan sebagai keterbukaan informasi kepada pemegang saham melalui situs web BEI dan situs perseroan."
+  ],
+  "fotoAdegan": "Coal loading conveyor pouring cargo into a bulk carrier at a busy export coal terminal, overcast sky",
+  "takeaway": "Laporan ini netral bagi PTBA: tambahan pinjaman Rp6 triliun bukan tanda kesulitan keuangan, melainkan pembiayaan modal kerja yang memang disyaratkan aturan pemanfaatan devisa hasil ekspor, dan kedua kreditornya adalah bank pelat merah sehingga risiko mitra relatif terjaga. Yang tersentuh adalah ekuitas, karena rasio pinjaman terhadap ekuitas sebesar 23,68 persen itulah yang memicu status material, dan beban bunga, yang akan naik seiring bertambahnya utang berbunga di neraca perseroan. Pelaku pasar biasanya mencermati rasio semacam ini karena semakin besar porsi utang dibanding ekuitas, semakin besar pula beban bunga yang harus ditanggung dari laba operasional. Karena berstatus pinjaman langsung dari bank, transaksi ini dikecualikan dari kewajiban persetujuan RUPS, sehingga yang perlu dipantau selanjutnya adalah laporan keuangan kuartal berikutnya untuk melihat dampak riil pinjaman ini terhadap beban bunga dan arus kas perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "enak-ganti-direksi-dan-komisaris-usai-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "ENAK Ganti Direksi dan Komisaris Usai [RUPSLB]",
+  "deck": "PT Champ Resto Indonesia Tbk (ENAK) mengubah susunan direksi dan komisaris usai RUPSLB 2 September 2026, dengan Sjariful Haq masuk sebagai direktur baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:46:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd7ed14dc6_d0d98a6ff1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENAK",
+  "tags": [
+   "ENAK",
+   "Champ Resto Indonesia",
+   "RUPSLB",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Champ Resto Indonesia Tbk (ENAK) mengumumkan perubahan susunan direksi dan dewan komisaris menyusul Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar 2 September 2026. Rapat tersebut dihadiri pemegang saham dengan hak suara sah sebanyak 1.208.248.200 saham, atau 55,77 persen dari total 2.166.666.800 saham berhak suara yang beredar, sehingga kuorum terpenuhi untuk mengambil keputusan. Perubahan ini dituangkan dalam Akta Pernyataan Keputusan Rapat Nomor 13 tanggal 2 September 2026 di hadapan Notaris Aulia Taufani, S.H., dan telah tercatat di Sistem Administrasi Badan Hukum Kementerian Hukum pada 25 September 2026 dengan nomor AHU-AH.01.09-0409322.",
+   "Di jajaran direksi, Ridwan Budijono tetap menjabat Direktur Utama. Hendrik Alexander Wanggur Mboi naik jabatan dari Direktur menjadi Wakil Direktur Utama merangkap Chief Executive Officer (CEO). Sjariful Haq diangkat sebagai Direktur baru, menggantikan Christopher Supit yang mengundurkan diri dari jabatan tersebut. RUPSLB turut menyetujui pembebasan tanggung jawab penuh atau acquit et de charge bagi pengurus yang berhenti, atas tugas pengurusan dan pengawasan yang telah dijalankan.",
+   "Di dewan komisaris, Christian Sugiarto tetap menjabat Komisaris Utama. Dua kursi Komisaris Independen kini diisi Mohammad Noor Rachman Soejoeti dan Dr. Suwarno, S.I.P., M.Sc, menggantikan Agustina Supriyani Kardono dan Bambang Ismawan yang mengundurkan diri dengan ucapan terima kasih atas jasanya. Masa jabatan seluruh pengurus baru ini berlaku sejak penutupan RUPSLB hingga ditutupnya Rapat Umum Pemegang Saham Tahunan yang dijadwalkan pada 2029."
+  ],
+  "fotoAdegan": "Waitstaff arranging tables at a busy fried chicken restaurant inside a Jakarta shopping mall during lunch hour",
+  "takeaway": "Perubahan pengurus ini tergolong netral bagi ENAK karena posisi kunci, yaitu direktur utama dan komisaris utama, tetap dipegang orang yang sama, sehingga polanya terlihat seperti regenerasi rutin mengikuti siklus masa jabatan, bukan tanda ada masalah internal mendesak. Pergantian pengurus seperti ini tidak langsung mengubah pos keuangan seperti ekuitas, arus kas, atau laba per saham perusahaan, tapi tetap perlu diperhatikan investor karena arah strategi dan kualitas pengawasan perusahaan bisa bergeser mengikuti siapa yang duduk di kursi direksi dan komisaris, dalam hal ini ada kenaikan jabatan Hendrik Alexander Wanggur Mboi menjadi CEO dan masuknya dua komisaris independen baru. Yang perlu dipantau berikutnya adalah kinerja susunan direksi dan komisaris baru ini sampai Rapat Umum Pemegang Saham Tahunan pada 2029, saat masa jabatan mereka berakhir dan kembali dievaluasi pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ppgl-jelaskan-ke-bursa-rincian-pmthmetd-dan-saham-bonus",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Jelaskan ke Bursa Rincian [PMTHMETD] dan Saham Bonus",
+  "deck": "Menjawab permintaan penjelasan BEI, PPGL merinci rencana penerbitan saham baru PMTHMETD dan pembagian saham bonus dari agio saham, termasuk jadwal RUPSLB 23 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:37:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d1409fd8a_6c49ce1e37.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "PMTHMETD",
+   "saham bonus",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) menyampaikan tanggapan resmi atas permintaan penjelasan Bursa Efek Indonesia bernomor S-12435/BEI.PP2/09-2026 tanggal 25 September 2026. Dalam dokumen bertanda tangan elektronik Direktur Utama Darmawan Suryadi SM itu, perseroan merinci rencana penerbitan saham baru tanpa hak memesan efek terlebih dahulu (PMTHMETD) sebanyak-banyaknya 77.117.802 saham atau 10 persen dari modal disetor. Seluruh dana hasil PMTHMETD akan dipakai untuk modal kerja, dengan harga pelaksanaan mengacu rata-rata harga penutupan saham 25 hari bursa dengan batas bawah 90 persen dari rata-rata tersebut. Perseroan mengaku belum menetapkan calon pembeli saham baru ini, sehingga nilai dana yang akan diperoleh maupun jadwal pastinya belum bisa disampaikan, dengan batas waktu pelaksanaan paling lambat 23 Oktober 2028.",
+   "Untuk saham bonus, perseroan mengkapitalisasi Rp11,31 miliar dari total agio saham Rp13,21 miliar menjadi modal disetor, menyisakan sekitar Rp1,90 miliar yang tidak dikapitalisasi karena pertimbangan struktur permodalan dan ketersediaan saham dalam portepel. Tujuannya menambah jumlah saham yang beredar dan diperdagangkan di bursa, yang menurut perseroan selama ini terbatas. Kedua aksi korporasi ini akan dimintakan persetujuan dalam RUPSLB yang sama pada 23 Oktober 2026 demi efisiensi biaya. Jadwal saham bonus mencantumkan cum bonus di pasar reguler pada 2 November 2026, ex bonus pada 3 November 2026, pendistribusian saham pada 25 November 2026, dan laporan hasil distribusi yang diperiksa akuntan publik disampaikan paling lambat 9 Desember 2026.",
+   "Perseroan juga menjelaskan transaksi saham Jap Astrid Patricia yang sebelumnya menjadi sorotan. Transfer 175.818.833 saham atau 22,80 persen pada 14 September 2026 disebut bukan transaksi jual beli, melainkan pemindahan saham dari rekening efek KB Valbury Sekuritas ke NH Korindo Sekuritas atas nama pemilik yang sama, sehingga tidak mengubah kepemilikan manfaat. Penjualan pada 17 dan 18 September 2026 sebesar 1,73 persen dan 3,24 persen menurunkan kepemilikannya dari 22,80 persen menjadi 17,82 persen, dan berdasarkan laporan kepemilikan bernomor LK/24092026/0003/1, seluruh 175.818.833 saham telah terjual sehingga kepemilikan Jap Astrid Patricia kini nol persen. Perseroan menegaskan transaksi ini, termasuk pembelian saham oleh Darmawan Suryadi SM dan Jap Astrid Patricia pada 2 Juli 2026, tidak berkaitan dengan rencana PMTHMETD atau saham bonus.",
+   "Setelah PMTHMETD dan saham bonus, porsi kepemilikan pemegang saham pengendali Darmawan Suryadi SM diperkirakan tetap di 48,3 persen. Perseroan memproyeksikan pendapatan 2026 sekitar Rp80 miliar dan laba bersih sekitar Rp5 miliar dari bisnis freight forwarding yang tersisa setelah divestasi anak usaha JAYA, dengan catatan target itu bisa berubah karena fluktuasi harga freight global."
+  ],
+  "fotoAdegan": "Forklift moving stacked cargo pallets inside a busy logistics warehouse, workers coordinating below, morning light through open loading doors.",
+  "takeaway": "Penjelasan ini condong netral bagi fundamental PPGL, karena rincian yang diungkap menunjukkan aksi korporasi berukuran kecil dan tidak menambah dana tunai baru, sementara sinyal negatif dari pelepasan saham Jap Astrid Patricia sudah lebih dulu diberitakan dan di sini hanya dikonfirmasi tuntas ke nol persen. Dua pos yang tersentuh adalah jumlah saham beredar dan laba per saham: saham bonus memindahkan agio saham, yaitu selisih harga jual saham di atas nilai nominalnya saat pertama kali dicatatkan, sebesar Rp11,31 miliar menjadi modal disetor, sehingga jumlah saham beredar bertambah tanpa ada uang baru masuk ke kas perusahaan, dan itu membuat laba per saham berpotensi terdilusi karena laba yang sama harus dibagi ke lebih banyak lembar saham. PMTHMETD menambah potensi dilusi hingga 77,1 juta saham baru, tetapi harga dan pembelinya belum ditentukan sehingga dampak pastinya belum bisa dinilai. Yang perlu dipantau adalah RUPSLB pada 23 Oktober 2026 yang akan mengesahkan kedua rencana ini, serta kepastian calon investor PMTHMETD yang menurut jadwal perseroan bisa berlangsung hingga paling lambat 23 Oktober 2028.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sema-raih-kontrak-panel-listrik-data-center-cgk5-cgk7",
+  "category": "Aksi Korporasi",
+  "title": "SEMA Raih Kontrak Panel Listrik [Data Center] CGK5-CGK7",
+  "deck": "Semacom Integrated menandatangani kontrak pengadaan panel listrik untuk proyek data center CGK5 dan CGK7 pada 25 September 2026, memperluas bisnis ke sektor infrastruktur digital.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:16:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e2296e913_430ed012e1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SEMA",
+  "tags": [
+   "SEMA",
+   "kontrak",
+   "data center",
+   "panel listrik"
+  ],
+  "body": [
+   "PT Semacom Integrated Tbk (SEMA) mengumumkan penandatanganan perjanjian pekerjaan pengadaan panel listrik untuk proyek data center CGK5 dan CGK7 pada 25 September 2026. Dalam laporan keterbukaan informasi ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, perseroan menyebut kedua belah pihak dalam kontrak ini tidak memiliki hubungan afiliasi.",
+   "Perseroan menyatakan kontrak ini merupakan implementasi strategi jangka panjang untuk meningkatkan penciptaan nilai bagi pemegang saham. Semacom, yang selama ini bergerak di produksi panel listrik, perakitan baterai listrik, dan energi terbarukan, menyebut kontrak ini akan memperluas portofolio perseroan ke sektor infrastruktur data center, sejalan dengan strategi diversifikasi usaha dari manufaktur panel listrik ke sektor energi dan infrastruktur digital.",
+   "Perseroan menegaskan penandatanganan kontrak ini tidak menimbulkan gangguan operasional dan tidak berdampak negatif terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha. Proyek ini juga diharapkan membuka peluang proyek data center sejenis di masa depan. Laporan elektronik ditandatangani oleh Direktur Riany Sandra Widjaja, sementara surat resmi ke regulator ditandatangani oleh Direktur Utama Rudi Hartono Intan. Nilai kontrak dan tenggat penyelesaian proyek tidak disebutkan dalam laporan."
+  ],
+  "fotoAdegan": "Electricians installing heavy industrial switchgear panels inside an unfinished data center hall, thick cable trays overhead, hard hats and safety vests.",
+  "takeaway": "Laporan ini condong positif bagi Semacom karena menandakan perusahaan berhasil memperluas bisnis ke sektor infrastruktur data center, yang tengah tumbuh seiring maraknya investasi pusat data di Indonesia, tanpa disertai indikasi gangguan operasional atau hukum. Yang perlu dicatat, perseroan tidak mengungkap nilai kontrak maupun target pendapatan dari proyek ini, sehingga pasar belum bisa mengukur seberapa besar sumbangannya terhadap arus kas, yaitu aliran uang masuk dan keluar perusahaan, ke depan. Kalau proyek ini benar terealisasi, potensinya ada pada tambahan pendapatan dan arus kas dari lini bisnis baru, tapi besarannya baru bisa dilihat dari laporan keuangan berikutnya. Yang perlu dipantau selanjutnya adalah apakah Semacom akan mengungkap nilai kontrak secara terpisah, serta laporan keuangan kuartal IV 2026 untuk melihat kontribusi awal proyek CGK5 dan CGK7 terhadap pendapatan perseroan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "wskt-penjamin-lunasi-pokok-obligasi-rp722-miliar",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Penjamin [Lunasi] Pokok Obligasi Rp722 Miliar",
+  "deck": "PII dan Kementerian Keuangan selaku penjamin melunasi pokok Obligasi III Waskita Seri A Rp722 miliar setelah Waskita gagal bayar; WSKT03A resmi berhenti diperdagangkan di BEI mulai 29 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:15:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fc5fa12493_ff24770695.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "obligasi",
+   "gagal bayar",
+   "penjaminan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan Obligasi III Waskita Karya Tahun 2021 Seri A dengan kode WSKT03A senilai Rp722 miliar resmi tidak lagi tercatat dan tidak dapat diperdagangkan di BEI mulai 29 September 2026. Delisting ini terjadi setelah penjamin obligasi, yaitu PT Penjaminan Infrastruktur Indonesia (PII) dan Kementerian Keuangan, membayar dana pelunasan pokok obligasi pada 25 September 2026. Distribusi dana ke pemegang obligasi dijalankan PT Kustodian Sentral Efek Indonesia (KSEI) secara efektif pada 28 September 2026.",
+   "Obligasi ini semula jatuh tempo 24 September 2026, tapi Waskita tidak sanggup melunasi pokoknya. Dalam surat kepada BEI tertanggal 23 September 2026, Waskita menjelaskan bahwa sejak 20 Agustus 2026 perusahaan sudah mencadangkan dana Rp28,8775 miliar untuk membayar bunga obligasi Seri A dan Seri B ke-20, dan pada 15 September 2026 sudah mengirim instruksi ke Bank Mega selaku wali amanat untuk mentransfer bunga tersebut ke rekening KSEI pada 23 September 2026. Namun untuk pokok Rp722 miliar, Waskita menyatakan tidak mampu membayar, sehingga wali amanat mengajukan klaim penjaminan yang kemudian diproses dan dibayarkan oleh PII dan Kementerian Keuangan.",
+   "Waskita juga menyatakan bahwa denda dan biaya lain yang timbul akibat keterlambatan pembayaran pokok obligasi ini tetap menjadi kewajiban perusahaan, dan akan dihitung sesuai ketentuan perjanjian perwaliamanatan."
+  ],
+  "fotoAdegan": "Idle tower cranes and stacked steel beams at a large state-owned construction site, overcast afternoon light, no people close to camera",
+  "takeaway": "Laporan ini netral bagi Waskita, sebab dana Rp722 miliar yang akhirnya diterima pemegang obligasi bukan berasal dari kas Waskita sendiri, melainkan dari penjamin, yaitu PT Penjaminan Infrastruktur Indonesia dan Kementerian Keuangan, yang memang sejak awal menjamin obligasi ini. Yang tersentuh dari sisi keuangan Waskita adalah pos utangnya: setelah penjamin membayarkan pokok ke investor, Waskita otomatis berutang kepada penjamin tersebut, ditambah denda keterlambatan yang menurut suratnya akan dihitung sesuai perjanjian perwaliamanatan meski nilainya belum diungkap dalam laporan ini. Bagi pemegang obligasi lama, risiko gagal bayar sudah selesai karena dana sudah disalurkan lewat KSEI, lembaga penyimpanan dan penyelesaian transaksi efek, pada 28 September 2026, dan obligasi ini otomatis berhenti diperdagangkan di bursa mulai 29 September 2026. Yang perlu dipantau berikutnya adalah besaran dan skema pembayaran balik Waskita kepada penjamin serta rincian denda keterlambatan itu, karena itu yang akan menentukan tambahan beban utang riil perusahaan ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smil-dana-obligasi-rp294-miliar-100-terealisasi-untuk-forklift",
+  "category": "Aksi Korporasi",
+  "title": "SMIL: dana obligasi Rp294 miliar [100%] terealisasi untuk forklift",
+  "deck": "PT Sarana Mitra Luas Tbk melaporkan koreksi realisasi dana hasil Obligasi I 2024 senilai Rp294 miliar, seluruhnya terpakai untuk forklift listrik dan pelunasan leasing.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T18:55:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9b987a8e8b_7b246d57b3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMIL",
+  "tags": [
+   "SMIL",
+   "Obligasi",
+   "Realisasi Dana",
+   "Forklift"
+  ],
+  "body": [
+   "PT Sarana Mitra Luas Tbk (SMIL) mengoreksi laporan penggunaan dana hasil penawaran umum yang sebelumnya disampaikan pada 14 Juli 2026, menyusul surat terbaru bernomor 032R/CORSEC/SMIL/VII/2026 tertanggal 28 September 2026 yang ditandatangani Direktur Utama Hadi Suhermin. Laporan ini merinci penggunaan dana dari Obligasi I Sarana Mitra Luas Tahun 2024 yang efektif pada 29 November 2024, dengan total dana yang dihimpun Rp300 miliar. Setelah dikurangi biaya penawaran umum sebesar Rp5,96 miliar, dana bersih yang diterima perseroan tercatat Rp294,04 miliar.",
+   "Per posisi 30 Juni 2026, seluruh dana bersih tersebut sudah terpakai 100 persen sesuai rencana dalam prospektus, tanpa sisa dana yang mengendap. Rinciannya, Rp277,02 miliar atau sekitar 92,3 persen dari dana bersih dipakai untuk membeli forklift listrik berikut baterai lithium dan charger-nya, sementara Rp17,02 miliar atau sekitar 5,7 persen digunakan untuk melunasi utang leasing perseroan. Realisasi ini sama persis dengan rencana awal yang tertuang dalam prospektus, tanpa ada penyimpangan penggunaan dana.",
+   "Dari sisi biaya penawaran umum senilai Rp5,96 miliar, rinciannya mencakup biaya penjaminan emisi Rp300 juta (4,95 persen), biaya penyelenggaraan dan biaya penjualan masing-masing Rp750 juta (12,38 persen), biaya jasa profesi penunjang pasar modal Rp935,8 juta (15,45 persen), biaya jasa lembaga penunjang pasar modal Rp450 juta (7,43 persen), serta biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi sebesar Rp2,87 miliar (47,41 persen). Perseroan tidak mengeluarkan biaya jasa konsultasi keuangan dalam penerbitan obligasi ini."
+  ],
+  "fotoAdegan": "Rows of electric forklifts parked in a warehouse aisle, workers in safety vests inspecting battery packs, industrial lighting overhead.",
+  "takeaway": "Laporan ini condong positif bagi SMIL karena seluruh dana obligasi sudah habis terpakai sesuai rencana, dengan porsi terbesar untuk menambah armada forklift listrik dan sisanya melunasi utang leasing, jadi ada dua manfaat sekaligus, yaitu kapasitas operasional bertambah dan beban cicilan berkurang. Yang tersentuh di sini adalah pos aset tetap, yakni alat berat yang dipakai untuk kegiatan usaha, yang naik senilai Rp277 miliar, serta pos kewajiban leasing yang hilang dari neraca senilai Rp17 miliar, dua hal yang biasa dicermati investor karena memengaruhi kemampuan perusahaan menghasilkan pendapatan sekaligus menekan beban bunga. Karena dana sudah 100 persen terealisasi per 30 Juni 2026 dan tidak ada sisa dana yang mengendap, tidak ada tenggat baru yang perlu dipantau dari laporan ini. Yang relevan selanjutnya adalah laporan keuangan kuartal berjalan, untuk melihat apakah penambahan armada forklift ini benar-benar mendongkrak pendapatan sewa dan menekan beban bunga leasing SMIL.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "visi-ambil-alih-72-91-saham-hmbc-jadi-perusahaan-holding",
+  "category": "Aksi Korporasi",
+  "title": "VISI Ambil Alih 72,91% Saham HMBC, Jadi Perusahaan [Holding]",
+  "deck": "Satu Visi Putra bakal mengambil alih 72,91% saham RS Hasna Medika Bakti Cirebon dan mengubah bisnis intinya jadi perusahaan holding, dengan kendali beralih ke PT Harmoni Semesta Investama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T18:53:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cdb1aeadca_0d2933dd75.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "akuisisi",
+   "HMBC",
+   "perubahan bisnis"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk (VISI) mengumumkan rencana besar mengubah kegiatan usaha sekaligus mengambil alih PT Hasna Medika Bakti Cirebon (HMBC), operator rumah sakit di Cirebon. Berdasarkan Perjanjian Pemesanan Saham Bersyarat (CSSA) yang diteken 20 Agustus 2026, VISI akan mengambil bagian atas 142.393 saham baru HMBC yang mewakili 65 persen dari modal ditempatkan dan disetor HMBC. Bersamaan dengan itu, lewat Perjanjian Jual Beli Saham Bersyarat (CSPA), VISI juga akan membeli 17.325 saham eksisting HMBC dari PT Hasna Medika Utama Group selaku penjual. Gabungan dua transaksi ini membuat VISI menguasai 72,91 persen saham HMBC setelah penerbitan saham baru rampung.",
+   "Bersamaan dengan pengambilalihan, HMBC juga akan merestrukturisasi dan mengonversi utangnya kepada tiga kreditur yang juga pemegang saham dan pengurus HMBC, yaitu Pieter Tanuri, Roy Himawan, dan Darwin Cyril Noerhadi, dengan total nilai Rp33,447 miliar. Utang tersebut dikonversi menjadi 18.692 saham baru HMBC, dengan rincian Pieter Tanuri menerima 13.636 saham dari konversi Rp24,4 miliar, Darwin Cyril Noerhadi menerima 4.694 saham dari konversi Rp8,4 miliar, dan Roy Himawan menerima 362 saham dari konversi Rp647 juta. Masih ada sisa pokok utang HMBC kepada Pieter Tanuri sebesar Rp5 miliar yang tidak dikonversi dan tetap menjadi kewajiban HMBC, penyelesaiannya diatur terpisah antara HMBC dan Pieter Tanuri.",
+   "Sejalan dengan akuisisi ini, VISI akan menambah kegiatan usaha sebagai perusahaan induk (KBLI 64210) dan bertransformasi menjadi perusahaan holding, sementara bisnis dagang bahan iklan seperti banner, tinta, dan PVC board yang selama ini dijalankan akan dipertahankan untuk sementara namun dikurangi bertahap hingga akhirnya dihentikan penuh. Perubahan ini juga akan mengalihkan pengendalian VISI kepada PT Harmoni Semesta Investama sebagai pengendali baru Perseroan. Perseroan telah mengantongi persetujuan dari dua kreditur HMBC, yaitu PT Bank OCBC NISP Tbk pada 10 September 2026 dan PT Bank Negara Indonesia (Persero) Tbk pada 15 September 2026. Seluruh rencana ini akan dimintakan persetujuan pemegang saham lewat RUPSLB pada 30 September 2026, dengan target pelaksanaan transaksi paling lambat 23 Oktober 2026."
+  ],
+  "fotoAdegan": "Exterior of a multi story hospital building in an Indonesian city, covered ambulance entrance, overcast afternoon light, no visible signage",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama VISI, karena kendali perusahaan akan berpindah ke PT Harmoni Semesta Investama sebagai pengendali baru, sementara bisnis dagang bahan iklan yang selama ini menjadi sumber pendapatan akan dihentikan bertahap dan digantikan bisnis rumah sakit yang belum pernah dijalankan Perseroan. Pembiayaan pengambilalihan ini terkait skema penambahan modal tanpa memberi hak beli lebih dulu ke pemegang saham lama, sehingga porsi kepemilikan investor yang tidak ikut program ini bisa mengecil dan klaim laba per lembar saham berpotensi terpangkas. Konversi utang HMBC sebesar Rp33,447 miliar ke tiga krediturnya juga mengubah struktur permodalan anak usaha yang diambil alih, sehingga posisi ekuitas gabungan Perseroan akan bergeser signifikan begitu transaksi rampung. Yang perlu dipantau adalah RUPSLB pada 30 September 2026, dua hari dari sekarang, yang menentukan apakah pemegang saham menyetujui seluruh rencana ini, serta tenggat pelaksanaan transaksi paling lambat 23 Oktober 2026 jika disetujui.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mine-jadwalkan-rupslb-pada-4-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "MINE Jadwalkan [RUPSLB] pada 4 November 2026",
+  "deck": "PT Sinar Terang Mandiri Tbk mengumumkan rencana RUPSLB pada 4 November 2026, dengan pemegang saham per 12 Oktober 2026 berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T18:51:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbbf8275cb_ad7f6049fb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MINE",
+  "tags": [
+   "MINE",
+   "RUPSLB",
+   "Sinar Terang Mandiri",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Sinar Terang Mandiri Tbk (MINE) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 4 November 2026 pukul 09.00 WIB. Pemegang saham yang berhak hadir atau diwakili dalam rapat ini adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham pada penutupan perdagangan di Bursa Efek Indonesia hari Senin, 12 Oktober 2026. Lokasi rapat belum diumumkan dan akan disusulkan saat pemanggilan resmi.",
+   "Perseroan juga membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara RUPSLB, sesuai Pasal 16 Peraturan OJK No. 15/POJK.04/2020 tentang Rencana dan Penyelenggaraan Rapat Umum Pemegang Saham Perusahaan Terbuka. Usulan tertulis harus sudah diterima Direksi Perseroan paling lambat Selasa, 6 Oktober 2026. Sampai saat ini, dokumen belum menyebutkan agenda atau mata acara RUPSLB itu sendiri.",
+   "Pemanggilan resmi yang memuat agenda lengkap RUPSLB rencananya diunggah di situs Bursa Efek Indonesia, situs Perseroan, dan platform eASY.KSEI pada Selasa, 13 Oktober 2026. Pengumuman ini diterbitkan di Jakarta pada 28 September 2026 dan ditandatangani oleh Ivo Wangarry selaku Direktur Utama."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a modern corporate meeting hall, floor to ceiling windows overlooking a Jakarta skyline, morning light",
+  "takeaway": "Pengumuman ini netral bagi pemegang saham karena baru berisi jadwal dan mekanisme rapat, belum ada mata acara RUPSLB yang dibuka ke publik sehingga dampaknya terhadap kinerja perusahaan belum bisa dinilai. Dokumen ini murni soal tata kelola dan hak pemegang saham untuk hadir serta mengusulkan agenda, belum menyentuh pos-pos seperti ekuitas, arus kas, atau jumlah saham beredar, karena isi rapat sesungguhnya baru akan terungkap lewat pemanggilan resmi. Yang perlu dipantau pemegang saham adalah tenggat pengajuan usul mata acara pada Selasa, 6 Oktober 2026, pemanggilan resmi berisi agenda lengkap yang terbit Selasa, 13 Oktober 2026, dan pelaksanaan RUPSLB itu sendiri pada Rabu, 4 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "visi-jadwalkan-rups-independen-pmthmetd-30-september",
+  "category": "Aksi Korporasi",
+  "title": "VISI Jadwalkan RUPS Independen [PMTHMETD] 30 September",
+  "deck": "VISI menjadwalkan RUPS Independen pada 30 September 2026 untuk menyetujui penerbitan hingga 307,5 juta saham baru tanpa hak memesan efek terlebih dahulu, maksimal 10 persen modal disetor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T18:39:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df8b9dffa6_c070aea593.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "PMTHMETD",
+   "RUPS Independen",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk (VISI) menerbitkan perubahan dan tambahan informasi atas keterbukaan informasi rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) yang sebelumnya diumumkan pada 24 Agustus 2026. Dokumen bertanggal 28 September 2026 yang ditandatangani Direktur Utama David Dwiputra ini menyebutkan bahwa Rapat Umum Pemegang Saham Independen untuk menyetujui rencana tersebut akan digelar pada 30 September 2026, hanya dua hari setelah pengumuman ini terbit.",
+   "Dalam rencana yang diulang di dokumen ini, VISI akan menerbitkan sebanyak-banyaknya 307.500.000 saham baru dengan nilai nominal Rp25 per saham, setara maksimum 10 persen dari total modal disetor dan ditempatkan Perseroan saat ini. Karena diterbitkan tanpa hak memesan efek terlebih dahulu, saham baru ini tidak ditawarkan lebih dulu kepada pemegang saham lama, sehingga transaksi ini butuh persetujuan RUPS Independen yang hanya diikuti pemegang saham di luar pengendali dan direksi. Harga pelaksanaan saham baru akan ditetapkan Direksi setelah RUPS, mengacu pada ketentuan V.1.1 Peraturan BEI No. I-A. Perseroan menyebut tujuan aksi ini untuk memperkuat struktur permodalan dalam rangka menjadikan VISI sebagai perusahaan induk yang mengonsolidasikan kelompok usaha di sektor kesehatan.",
+   "Dokumen ini juga mencantumkan ulang struktur pemegang saham VISI per 30 Juni 2026. PT Harmoni Semesta Investama memegang 1.901.580.000 saham atau 61,84 persen, PT Atlas Raya Abadi memegang 312.420.000 saham atau 10,16 persen, dan PT Trinugaraha Thohir Harmoni memegang 246.000.000 saham atau 8 persen. Direktur Utama David Dwiputra tercatat memiliki 107.000 saham atau 0,0035 persen, sementara masyarakat memegang 614.893.000 saham atau 19,9965 persen, dari total 3.075.000.000 saham beredar senilai Rp76,875 miliar."
+  ],
+  "fotoAdegan": "Warehouse workers stacking large rolls of PVC banner material and ink drums inside an industrial storage facility, forklift parked nearby, daylight from open doors",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama, karena rencana penerbitan hingga 307,5 juta saham baru tanpa hak memesan efek terlebih dahulu berpotensi mengurangi porsi kepemilikan pemegang saham publik yang selama ini tidak diberi kesempatan membeli lebih dulu. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, karena begitu saham baru terbit, laba bersih Perseroan yang sama akan dibagi ke lebih banyak lembar saham sehingga jatah laba per saham bisa mengecil, sementara ekuitas Perseroan justru bertambah karena ada setoran modal baru. Yang perlu dipantau adalah hasil RUPS Independen pada 30 September 2026, termasuk apakah pemegang saham independen menyetujui rencana ini serta berapa harga pelaksanaan yang akhirnya ditetapkan Direksi setelah persetujuan itu turun.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "aspi-catat-rugi-melebar-162-jelang-public-expose-rugi",
   "category": "Aksi Korporasi",
   "title": "ASPI Catat Rugi Melebar 162% Jelang Public Expose [rugi]",
@@ -371,6 +606,137 @@ var ARTICLES = [
   "fotoAdegan": "Printing press rollers feeding large sheets of paper through heavy machinery on a factory floor, workers in safety vests nearby",
   "takeaway": "Laporan ini condong negatif bagi PTMR karena perusahaan sendiri mengakui melanggar aturan transaksi dengan pihak berelasi, dan rencana pengambilalihan oleh investor baru masih menggantung tanpa kepastian. Yang tersentuh adalah piutang pihak berelasi, dana yang dipinjamkan perusahaan ke pihak-pihak terafiliasi seperti PT Kencana Usaha Sentosa dan PT Digital Koding Solusindo, yang menurut pengakuan Perseroan seharusnya sudah diumumkan ke publik sejak lama karena nilainya melebihi ambang batas POJK No. 42/POJK.04/2020, sehingga keterlambatan ini berpotensi menambah risiko sanksi dari OJK dan Bursa. Uang muka ke enam vendor senilai lebih dari Rp21,8 miliar yang ditargetkan selesai akhir tahun ini juga masih macet karena negosiasi belum tuntas, sehingga ada risiko sebagian dana itu tidak kembali secara penuh. Yang perlu dipantau selanjutnya adalah penagihan bunga ke PT Sentra Citra Lestari yang dijanjikan rampung 30 September 2026, pembayaran sebagian piutang dari PT Kencana Usaha Sentosa dan PT Digital Koding Solusindo sepanjang Oktober hingga Desember 2026, serta hasil pemeriksaan OJK terhadap PTMR dan PT Mitra Pack Tbk yang akan menentukan apakah rapat pemegang saham untuk rencana akuisisi dan pengambilalihan oleh Deep Source Pte. Ltd. bisa dilanjutkan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "dr-waran-enrg-disesuaikan-usai-rights-issue-rp4-12-t",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran ENRG Disesuaikan usai Rights Issue [Rp4,12 T]",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur ENRG menyusul rights issue ENRG senilai Rp4,12 triliun yang mendilusi saham hingga 33,33 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:47:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dacc5ba9de_a6c017c08c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "ENRG",
+   "rights issue",
+   "waran terstruktur"
+  ],
+  "body": [
+   "RHB Sekuritas Indonesia, penerbit waran terstruktur dengan saham dasar PT Energi Mega Persada Tbk (ENRG) berkode DR, mengumumkan penyesuaian rasio dan harga pelaksanaan waran tersebut. Penyesuaian ini dipicu oleh rencana ENRG melakukan penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD IV atau rights issue) sebanyak 13.282.271.875 saham baru seri B bernilai nominal Rp100 per saham, setara 33,33 persen dari total saham ENRG setelah rights issue rampung. Harga pelaksanaan rights issue ditetapkan Rp310 per saham, sehingga dana yang akan diterima ENRG mencapai Rp4,12 triliun, tepatnya Rp4.117.504.281.250.",
+   "RUPSLB yang menyetujui rencana ini digelar 5 Juni 2026, dan pernyataan efektif diperoleh 24 September 2026. Sesuai jadwal, perdagangan saham ENRG dengan hak (cum-right) berakhir 2 Oktober 2026 di pasar reguler dan negosiasi, serta 6 Oktober 2026 di pasar tunai. Pencatatan untuk memperoleh hak dilakukan 6 Oktober 2026, dengan distribusi hak sehari setelahnya. Periode perdagangan, pembayaran, dan pelaksanaan hak berlangsung 8 sampai 21 Oktober 2026, sementara penjatahan pemesanan saham tambahan dijadwalkan 26 Oktober 2026 dan pengembalian kelebihan dana pemesanan yang tidak terpenuhi pada 27 Oktober 2026.",
+   "Sesuai syarat dalam prospektus waran, rasio dan harga pelaksanaan waran ENRG akan dihitung ulang memakai formula baku yang memperhitungkan harga pemesanan rights issue, harga saham ENRG saat masih melekat hak (cum-right), jumlah saham baru yang berhak dipesan per saham lama, serta rasio dan harga pelaksanaan waran yang berlaku sebelumnya. RHB Sekuritas juga menyatakan berhak untuk tidak melakukan penyesuaian jika berdasarkan kebijakannya sendiri dianggap tidak diperlukan, tanpa kewajiban apa pun kepada pemegang waran."
+  ],
+  "fotoAdegan": "Offshore oil and gas platform at dusk with crew in safety gear working on the deck, calm sea below",
+  "takeaway": "Laporan ini netral: intinya adalah penyesuaian teknis rasio dan harga waran mengikuti rumus baku, bukan keputusan bisnis baru dari RHB Sekuritas, meski angka di baliknya besar. Jumlah saham beredar ENRG akan bertambah 13,28 miliar lembar atau naik 33,33 persen, yang membuat laba per saham berpotensi terdilusi bila laba perusahaan tidak tumbuh sebanding, sementara dana Rp4,12 triliun yang masuk lewat rights issue ini bisa memperkuat modal dan kas ENRG. Bagi pemegang waran, penyesuaian rasio dan harga pelaksanaan dimaksudkan agar nilai ekonomis waran tetap proporsional terhadap saham dasar yang jumlahnya membengkak. Yang perlu dipantau adalah periode pelaksanaan hak pada 8 sampai 21 Oktober 2026 dan penjatahan saham tambahan pada 26 Oktober 2026, karena dari situ akan terlihat seberapa besar rights issue benar-benar terserap dan angka final penyesuaian waran.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "waran-terstruktur-enrg-disesuaikan-usai-rights-issue-efektif-5-okt",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur ENRG [Disesuaikan] Usai Rights Issue, Efektif 5 Okt",
+  "deck": "KGI Sekuritas menyesuaikan harga pelaksanaan dan rasio dua seri waran terstruktur atas saham ENRG menyusul rights issue emiten itu, berlaku efektif 5 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:44:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf3432d5a1_f0842ce699.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HD",
+  "tags": [
+   "ENRG",
+   "HD",
+   "waran terstruktur",
+   "rights issue"
+  ],
+  "body": [
+   "KGI Sekuritas Indonesia, sponsor dengan kode broker HD, mengumumkan penyesuaian harga pelaksanaan dan rasio pelaksanaan dua seri waran terstruktur dengan saham dasar ENRG (Energi Mega Persada), yaitu ENRGHDCX6A dan ENRGHDCH7A. Penyesuaian ini dipicu oleh aksi korporasi rights issue atau penawaran saham terbatas yang dilakukan ENRG. Rumus penyesuaian sudah diumumkan pada 25 September 2026, tetapi angka finalnya baru akan diumumkan setelah penutupan pasar pada cum date 2 Oktober 2026, dan mulai berlaku efektif pada 5 Oktober 2026.",
+   "Sebelum disesuaikan, waran ENRGHDCX6A memiliki harga pelaksanaan Rp1.744 dengan rasio 6 waran setara 1 saham ENRG. Waran ENRGHDCH7A memiliki harga pelaksanaan Rp1.677 dengan rasio 12 waran setara 1 saham ENRG. Dalam dokumen ini kolom harga dan rasio setelah penyesuaian masih kosong, karena perhitungannya baru bisa dipastikan setelah harga penutupan saham ENRG pada cum date 2 Oktober 2026 diketahui.",
+   "Waran terstruktur semacam ini adalah surat berharga yang diterbitkan sekuritas, bukan oleh emiten sahamnya sendiri, dan memberi pemegangnya hak untuk membeli saham acuan pada harga dan rasio tertentu. Karena rights issue menambah jumlah saham ENRG yang beredar, penerbit waran wajib mengubah harga dan rasio pelaksanaan agar nilai ekonomis waran bagi pemegangnya tidak berubah akibat penambahan saham baru tersebut."
+  ],
+  "fotoAdegan": "Workers inspecting an onshore oil and gas wellhead installation at dusk, pipelines and metal scaffolding in the foreground",
+  "takeaway": "Laporan ini netral bagi ENRG, karena isinya murni penyesuaian teknis pada instrumen turunan buatan sekuritas, bukan informasi baru soal kinerja atau permodalan ENRG sendiri. Pos yang tersentuh adalah jumlah saham beredar ENRG, yang bertambah akibat rights issue sehingga memicu penyesuaian rasio dan harga pelaksanaan waran, agar nilai waran bagi pemegangnya tidak tergerus oleh saham baru yang masuk. Pelaku pasar warrant memperhatikan hal ini karena rasio dan harga pelaksanaan menentukan berapa saham yang bisa mereka peroleh dan pada harga berapa. Yang perlu dipantau selanjutnya adalah harga penutupan saham ENRG pada cum date 2 Oktober 2026, yang jadi dasar hitung angka final, serta tanggal efektif 5 Oktober 2026 saat harga dan rasio baru mulai berlaku untuk transaksi waran ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gems-cetak-laba-bersih-us-224-juta-naik-47-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "GEMS Cetak Laba Bersih US$224 Juta, Naik [47%] di Semester I 2026",
+  "deck": "Golden Energy Mines membukukan laba bersih US$224,3 juta pada semester I 2026, naik 47 persen, dengan opini audit wajar tanpa modifikasian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:37:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260928164959-64429-0/FinancialStatement-2026-II-GEMS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GEMS",
+  "tags": [
+   "GEMS",
+   "Golden Energy Mines",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "body": [
+   "PT Golden Energy Mines Tbk (GEMS) menyampaikan laporan keuangan konsolidasian interim yang telah diaudit untuk periode enam bulan yang berakhir 30 Juni 2026 kepada OJK dan Bursa Efek Indonesia melalui surat bernomor 073/GEMS-CS/IX/2026 tertanggal 28 September 2026 yang ditandatangani Corporate Secretary Sudin, SH. Auditor KAP Mirawati Sensi Idris, dengan partner penanggung jawab Maria Leckzinska yang sudah menjadi penandatangan selama tiga tahun berturut-turut, memberikan opini wajar tanpa modifikasian, yang berarti laporan keuangan dinilai menyajikan kondisi perusahaan secara wajar tanpa temuan masalah besar.",
+   "Dari sisi kinerja, pendapatan GEMS pada semester I 2026 naik 30,7 persen menjadi US$1,50 miliar dari US$1,14 miliar pada periode sama tahun lalu. Laba usaha melonjak 49,4 persen menjadi US$298,64 juta dan EBITDA naik 44,2 persen menjadi US$304,82 juta. Laba bersih periode berjalan tercatat US$224,34 juta, naik 46,9 persen dari US$152,70 juta, sehingga laba per saham dasar naik dari US$0,03 menjadi US$0,04. Rasio profitabilitas ikut membaik, dengan ROA naik dari 15 persen menjadi 16 persen dan ROE dari 25 persen menjadi 26 persen.",
+   "Di neraca, total aset per 30 Juni 2026 tercatat US$1,43 miliar, naik 19,8 persen dari US$1,20 miliar pada akhir 2025, sementara ekuitas naik 20,3 persen menjadi US$852,71 juta. Dalam surat penjelasan perubahan akun aset dan liabilitas ke bursa, manajemen memerinci penyebabnya, antara lain kas dan setara kas naik 148 persen menjadi US$278,40 juta karena arus kas operasi sebesar US$261,50 juta yang sebagian dipakai untuk investasi US$13,19 juta dan pendanaan US$78,96 juta. Piutang usaha pihak ketiga naik 37 persen menjadi US$320,89 juta akibat kenaikan volume penjualan, utang usaha pihak berelasi naik 33 persen menjadi US$107,29 juta sejalan dengan peningkatan produksi, utang pajak melonjak 603 persen menjadi US$27,32 juta karena pajak penghasilan badan 2026, dan beban akrual naik 81 persen menjadi US$29,70 juta terutama akibat biaya perbaikan, pemeliharaan, serta Pajak Bumi dan Bangunan."
+  ],
+  "fotoAdegan": "Aerial view of a large open-pit coal mine with haul trucks moving along terraced dirt roads under overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi GEMS karena hampir semua indikator utama kompak menguat: pendapatan naik 30,7 persen, laba bersih naik 46,9 persen, dan opini auditor tetap bersih tanpa catatan. Yang tersentuh di sini adalah ekuitas, arus kas, dan laba per saham: ekuitas naik 20,3 persen menjadi US$852,71 juta yang berarti modal sendiri perusahaan membesar tanpa mengandalkan utang baru dalam porsi besar, sementara arus kas dari operasi sebesar US$261,50 juta menunjukkan laba yang dicatat benar-benar berwujud uang tunai, bukan sekadar angka akuntansi, dan laba per saham naik dari US$0,03 ke US$0,04 yang jadi ukuran bagian laba untuk tiap lembar saham. Auditor mencatat satu hal audit utama soal uji penurunan nilai aset pertambangan, aset tetap, dan goodwill pada entitas anak yang merugi, sebagaimana diuraikan dalam Catatan 11, 9, dan 32 laporan keuangan, sehingga perlu dipantau apakah ada entitas anak tersebut yang akhirnya harus mencatat penurunan nilai aset pada laporan tahunan 2026 mendatang.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "lapd-rupslb-20-oktober-ganti-nama-pengendali-baru-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "LAPD RUPSLB 20 Oktober: Ganti Nama, [Pengendali Baru], Rights Issue",
+  "deck": "LAPD memanggil RUPSLB 20 Oktober 2026 untuk menyetujui rights issue hingga 2 miliar saham baru, pengendali baru PT JSI Sinergi Mas, dan ganti nama jadi PT JSI Sinergi Internasional Tbk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:22:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36bfd5fdfe_c159f78c0c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "RUPSLB",
+   "rights issue",
+   "pergantian pengendali"
+  ],
+  "body": [
+   "PT Leyand International Tbk (LAPD) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 20 Oktober 2026, pukul 10.00 WIB, di Hotel Maia, Jalan HBR Motik No. 4, Tanah Abang, Jakarta Pusat. Rapat digelar secara fisik dan elektronik lewat aplikasi eASY.KSEI, dengan pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 25 September 2026 pukul 16.00 WIB. Ada enam agenda dalam rapat ini, mulai dari penambahan modal, perubahan Anggaran Dasar, penetapan pemegang saham pengendali, pergantian direksi, ganti nama dan domisili perseroan, hingga perubahan alamat kantor.",
+   "Agenda utama adalah persetujuan Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD II), yaitu penerbitan saham baru kepada pemegang saham lama secara proporsional. Perseroan berencana menerbitkan saham Seri B sebanyak-banyaknya 2.000.000.000 lembar dengan nilai nominal Rp25 per saham, setara sekitar 50,42 persen dari jumlah saham Leyand yang beredar sebelum aksi ini. Harga pelaksanaan, rasio HMETD, jadwal, dan penggunaan dana hasil rights issue belum ditetapkan dalam pemanggilan ini, karena RUPS akan memberi kuasa dan wewenang kepada Direksi untuk menentukan semua rincian tersebut kemudian.",
+   "Rapat ini juga akan meminta persetujuan pemegang saham atas penetapan PT JSI Sinergi Mas sebagai pemegang saham pengendali baru Leyand, sesuai ketentuan Pasal 45 POJK No. 45 Tahun 2024. Sejalan dengan itu, perseroan mengusulkan perubahan nama dari PT Leyand International Tbk menjadi PT JSI Sinergi Internasional Tbk, serta pemindahan domisili dari Jakarta Pusat ke Jakarta Selatan. Di agenda susunan pengurus, RUPS akan memutuskan pengunduran diri Bambang Rahardja Burhan dari jabatan Direktur Perseroan, yang baru berlaku sah setelah disetujui dalam rapat.",
+   "Sebagai bagian dari restrukturisasi ini, kantor Leyand juga akan pindah dari Gedung Senayan City Panin Tower Lantai 11, Jalan Asia Afrika Lot 19, Jakarta Pusat, ke Gedung Recapital Lantai 3, Jalan Adityawarman No. 55, Kebayoran Baru, Jakarta Selatan. Perseroan tidak mengirim undangan terpisah kepada pemegang saham, sehingga pemanggilan ini berlaku sebagai undangan resmi. Pemegang saham yang ingin memberi kuasa dan memberikan suara secara elektronik dapat menggunakan aplikasi eASY.KSEI hingga Senin, 19 Oktober 2026 pukul 12.00 WIB, satu hari kerja sebelum rapat berlangsung."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a hotel ballroom set up for a corporate meeting, soft morning light through tall windows",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama Leyand, sebab rencana penerbitan saham baru hingga 2 miliar lembar, setara 50,42 persen dari saham yang sudah beredar, akan menggerus porsi kepemilikan mereka sementara kendali perseroan berpindah ke PT JSI Sinergi Mas. Pos yang langsung tersentuh adalah jumlah saham beredar, yang berpotensi naik hampir dua kali lipat, dan laba per saham, yaitu laba bersih dibagi jumlah saham, yang otomatis mengecil kalau laba perseroan tidak tumbuh sebanding dengan tambahan saham itu. RUPS belum menetapkan harga pelaksanaan maupun penggunaan dana hasil rights issue ini karena wewenangnya diserahkan ke Direksi, jadi pemegang saham belum tahu berapa modal segar yang benar-benar masuk atau untuk apa dipakai. Rencana ganti nama menjadi PT JSI Sinergi Internasional Tbk dan pindah domisili ke Jakarta Selatan menegaskan agenda ini bukan sekadar tambahan modal, melainkan bagian dari pergantian pengendali perseroan. Yang perlu dipantau adalah hasil pemungutan suara di RUPSLB pada 20 Oktober 2026, serta pengumuman rasio, harga, dan jadwal rights issue setelah Direksi mendapat mandat itu, dengan batas akhir pemberian kuasa elektronik lewat eASY.KSEI pada 19 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-jadwalkan-rupsu-sukuk-tahap-ii-2021-28-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPSU] Sukuk Tahap II 2021, 28 Oktober",
+  "deck": "WIKA akan menggelar rapat pemegang Sukuk Mudharabah Berkelanjutan I Tahap II 2021 pada 28 Oktober 2026, menyusul rentetan rapat serupa untuk surat utang lain pasca status gagal bayar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:56:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/de3926c5b0_3cdf35c958.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk, melalui Corporate Secretary Mahendra Vijaya, mengumumkan rencana Rapat Umum Pemegang Sukuk (RUPSU) untuk Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap II Tahun 2021. Rapat dijadwalkan Rabu, 28 Oktober 2026, pukul 14.00 WIB, bertempat di WIKA Tower 2, Jakarta. Dokumen belum mencantumkan agenda rapat secara rinci.",
+   "PT Bank Mega Tbk bertindak selaku wali amanat sukuk ini, berdasarkan Perjanjian Perwaliamanatan Akta No. 14 tanggal 8 Februari 2021 yang dibuat di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito, S.H., beserta perubahan-perubahannya. Sesuai Peraturan OJK No. 20/POJK.04/2020 tentang Kontrak Perwaliamanatan Efek Bersifat Utang dan/atau Sukuk, panggilan resmi RUPSU ini akan dimuat di satu surat kabar harian berperedaran nasional pada Selasa, 13 Oktober 2026, sebelum rapat berlangsung.",
+   "Pengumuman ini menyusul serangkaian jadwal rapat pemegang surat utang WIKA lainnya dalam sebulan terakhir, termasuk RUPO Obligasi Tahap I 2020 pada 27 Oktober, RUPO Obligasi Tahap II 2022 pada 20 Oktober, dan RUPSU sukuk lain pada 21 Oktober, yang semuanya digelar setelah PEFINDO menurunkan peringkat sukuk WIKA ke status gagal bayar pada 25 September 2026."
+  ],
+  "fotoAdegan": "Modern glass office tower exterior glowing at dusk against the Jakarta skyline, wide angle, no visible signage",
+  "takeaway": "Laporan ini netral bagi WIKA, sebab isinya baru sebatas jadwal rapat, belum memuat agenda atau usulan restrukturisasi yang bisa dibaca sebagai perbaikan atau perburukan kondisi keuangan. Yang tersentuh adalah arus kas dan kewajiban utang perusahaan, karena wali amanat, yaitu pihak yang mewakili kepentingan pemegang sukuk, lazimnya mengadakan rapat semacam ini untuk membahas opsi penyelesaian pembayaran setelah lembaga pemeringkat menyatakan sukuk berstatus gagal bayar. Ini adalah salah satu dari beberapa rapat pemegang surat utang dan sukuk yang dijadwalkan WIKA dalam sebulan terakhir untuk instrumen yang berbeda-beda, menandakan penataan ulang kewajiban di banyak lini sekaligus, bukan kasus tunggal. Yang perlu dipantau berikutnya adalah panggilan resmi RUPSU di surat kabar pada 13 Oktober 2026, yang kemungkinan baru memuat agenda rinci, serta hasil rapat pada 28 Oktober 2026 yang akan menentukan skema penyelesaian utang sukuk ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "wika-jadwalkan-rupo-obligasi-tahap-i-2020-27-oktober",

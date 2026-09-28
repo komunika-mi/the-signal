@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ptba-laporkan-transaksi-material-pinjaman-rp6-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PTBA Laporkan Transaksi [Material] Pinjaman Rp6 Triliun",
+  "deck": "Bukit Asam mengungkap pinjaman modal kerja gabungan Rp6 triliun dari BRI dan Bank Mandiri untuk pemanfaatan devisa hasil ekspor, setara 23,68 persen ekuitas perusahaan.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTBA",
+   "Bukit Asam",
+   "DHE SDA",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/379fa02362_77380d711e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enak-ganti-direksi-dan-komisaris-usai-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "ENAK Ganti Direksi dan Komisaris Usai [RUPSLB]",
+  "deck": "PT Champ Resto Indonesia Tbk (ENAK) mengubah susunan direksi dan komisaris usai RUPSLB 2 September 2026, dengan Sjariful Haq masuk sebagai direktur baru.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENAK",
+   "Champ Resto Indonesia",
+   "RUPSLB",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd7ed14dc6_d0d98a6ff1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgl-jelaskan-ke-bursa-rincian-pmthmetd-dan-saham-bonus",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Jelaskan ke Bursa Rincian [PMTHMETD] dan Saham Bonus",
+  "deck": "Menjawab permintaan penjelasan BEI, PPGL merinci rencana penerbitan saham baru PMTHMETD dan pembagian saham bonus dari agio saham, termasuk jadwal RUPSLB 23 Oktober 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "PMTHMETD",
+   "saham bonus",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d1409fd8a_6c49ce1e37.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sema-raih-kontrak-panel-listrik-data-center-cgk5-cgk7",
+  "category": "Aksi Korporasi",
+  "title": "SEMA Raih Kontrak Panel Listrik [Data Center] CGK5-CGK7",
+  "deck": "Semacom Integrated menandatangani kontrak pengadaan panel listrik untuk proyek data center CGK5 dan CGK7 pada 25 September 2026, memperluas bisnis ke sektor infrastruktur digital.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SEMA",
+   "kontrak",
+   "data center",
+   "panel listrik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e2296e913_430ed012e1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-penjamin-lunasi-pokok-obligasi-rp722-miliar",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Penjamin [Lunasi] Pokok Obligasi Rp722 Miliar",
+  "deck": "PII dan Kementerian Keuangan selaku penjamin melunasi pokok Obligasi III Waskita Seri A Rp722 miliar setelah Waskita gagal bayar; WSKT03A resmi berhenti diperdagangkan di BEI mulai 29 September 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "obligasi",
+   "gagal bayar",
+   "penjaminan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fc5fa12493_ff24770695.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smil-dana-obligasi-rp294-miliar-100-terealisasi-untuk-forklift",
+  "category": "Aksi Korporasi",
+  "title": "SMIL: dana obligasi Rp294 miliar [100%] terealisasi untuk forklift",
+  "deck": "PT Sarana Mitra Luas Tbk melaporkan koreksi realisasi dana hasil Obligasi I 2024 senilai Rp294 miliar, seluruhnya terpakai untuk forklift listrik dan pelunasan leasing.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMIL",
+   "Obligasi",
+   "Realisasi Dana",
+   "Forklift"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9b987a8e8b_7b246d57b3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-ambil-alih-72-91-saham-hmbc-jadi-perusahaan-holding",
+  "category": "Aksi Korporasi",
+  "title": "VISI Ambil Alih 72,91% Saham HMBC, Jadi Perusahaan [Holding]",
+  "deck": "Satu Visi Putra bakal mengambil alih 72,91% saham RS Hasna Medika Bakti Cirebon dan mengubah bisnis intinya jadi perusahaan holding, dengan kendali beralih ke PT Harmoni Semesta Investama.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "akuisisi",
+   "HMBC",
+   "perubahan bisnis"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cdb1aeadca_0d2933dd75.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mine-jadwalkan-rupslb-pada-4-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "MINE Jadwalkan [RUPSLB] pada 4 November 2026",
+  "deck": "PT Sinar Terang Mandiri Tbk mengumumkan rencana RUPSLB pada 4 November 2026, dengan pemegang saham per 12 Oktober 2026 berhak hadir.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MINE",
+   "RUPSLB",
+   "Sinar Terang Mandiri",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbbf8275cb_ad7f6049fb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-jadwalkan-rups-independen-pmthmetd-30-september",
+  "category": "Aksi Korporasi",
+  "title": "VISI Jadwalkan RUPS Independen [PMTHMETD] 30 September",
+  "deck": "VISI menjadwalkan RUPS Independen pada 30 September 2026 untuk menyetujui penerbitan hingga 307,5 juta saham baru tanpa hak memesan efek terlebih dahulu, maksimal 10 persen modal disetor.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "PMTHMETD",
+   "RUPS Independen",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df8b9dffa6_c070aea593.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "aspi-catat-rugi-melebar-162-jelang-public-expose-rugi",
   "category": "Aksi Korporasi",
   "title": "ASPI Catat Rugi Melebar 162% Jelang Public Expose [rugi]",
@@ -231,6 +375,86 @@ var ARTICLES = [
    "Deep Source"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76dab57f16_d580bf6c80.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-waran-enrg-disesuaikan-usai-rights-issue-rp4-12-t",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran ENRG Disesuaikan usai Rights Issue [Rp4,12 T]",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur ENRG menyusul rights issue ENRG senilai Rp4,12 triliun yang mendilusi saham hingga 33,33 persen.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "ENRG",
+   "rights issue",
+   "waran terstruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dacc5ba9de_a6c017c08c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-terstruktur-enrg-disesuaikan-usai-rights-issue-efektif-5-okt",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur ENRG [Disesuaikan] Usai Rights Issue, Efektif 5 Okt",
+  "deck": "KGI Sekuritas menyesuaikan harga pelaksanaan dan rasio dua seri waran terstruktur atas saham ENRG menyusul rights issue emiten itu, berlaku efektif 5 Oktober 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "HD",
+   "waran terstruktur",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf3432d5a1_f0842ce699.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gems-cetak-laba-bersih-us-224-juta-naik-47-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "GEMS Cetak Laba Bersih US$224 Juta, Naik [47%] di Semester I 2026",
+  "deck": "Golden Energy Mines membukukan laba bersih US$224,3 juta pada semester I 2026, naik 47 persen, dengan opini audit wajar tanpa modifikasian.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GEMS",
+   "Golden Energy Mines",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260928164959-64429-0/FinancialStatement-2026-II-GEMS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-rupslb-20-oktober-ganti-nama-pengendali-baru-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "LAPD RUPSLB 20 Oktober: Ganti Nama, [Pengendali Baru], Rights Issue",
+  "deck": "LAPD memanggil RUPSLB 20 Oktober 2026 untuk menyetujui rights issue hingga 2 miliar saham baru, pengendali baru PT JSI Sinergi Mas, dan ganti nama jadi PT JSI Sinergi Internasional Tbk.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "RUPSLB",
+   "rights issue",
+   "pergantian pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36bfd5fdfe_c159f78c0c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-jadwalkan-rupsu-sukuk-tahap-ii-2021-28-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPSU] Sukuk Tahap II 2021, 28 Oktober",
+  "deck": "WIKA akan menggelar rapat pemegang Sukuk Mudharabah Berkelanjutan I Tahap II 2021 pada 28 Oktober 2026, menyusul rentetan rapat serupa untuk surat utang lain pasca status gagal bayar.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/de3926c5b0_3cdf35c958.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6293,230 +6517,6 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Harga Teoretis FORU 260921-No. Peng-00174BEI.POP09-2026.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-jadwalkan-rupsu-sukuk-usai-gagal-bayar-21-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Jadwalkan [RUPSU] Sukuk usai Gagal Bayar, 21 Oktober",
-  "deck": "WIKA akan menggelar Rapat Umum Pemegang Sukuk Mudharabah Berkelanjutan III Tahap I 2022 pada 21 Oktober 2026, menyusul gagal bayar bagi hasil sukuk tersebut.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "gagal bayar",
-   "RUPSU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0c01935696_81842fa472.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-jadwalkan-rupo-obligasi-tahap-ii-2022-20-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Jadwalkan [RUPO] Obligasi Tahap II 2022, 20 Oktober",
-  "deck": "WIKA menjadwalkan RUPO Obligasi Berkelanjutan II Tahap II 2022 pada 20 Oktober 2026, sehari sebelum rapat pemegang sukuk mudharabah, di tengah gagal bayar dan suspensi saham perseroan.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "obligasi korporasi",
-   "RUPO",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/15737de547_a3c4ad9f35.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-catatkan-474-554-saham-baru-dari-opsi-mesop",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Catatkan 474.554 Saham Baru dari Opsi [MESOP]",
-  "deck": "Bursa mencatatkan 474.554 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III mulai 22 September 2026, menambah total saham beredar menjadi 41.922.757.485 lembar.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "MESOP",
-   "Pertamina Geothermal Energy",
-   "pencatatan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e436e519c1_e52fe4160e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uang-ganti-ketua-komite-audit-yoshihiro-kobi-gantikan-bonny-harry",
-  "category": "Aksi Korporasi",
-  "title": "UANG Ganti Ketua [Komite Audit], Yoshihiro Kobi Gantikan Bonny Harry",
-  "deck": "Komite Audit PT Pakuan Tbk berganti susunan efektif 21 September 2026, dari empat menjadi tiga anggota, dengan Yoshihiro Kobi sebagai ketua baru.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UANG",
-   "Komite Audit",
-   "Tata Kelola Perusahaan",
-   "PT Pakuan Tbk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f20b7dff1_edfb50eec9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sdra-efektifkan-felix-aristo-ardian-jadi-direktur-konsumer",
-  "category": "Aksi Korporasi",
-  "title": "SDRA [Efektifkan] Felix Aristo Ardian Jadi Direktur Konsumer",
-  "deck": "Woori Saudara (SDRA) mengefektifkan Felix Aristo Ardian sebagai Direktur Konsumer per 18 September 2026, sekaligus melaporkan realisasi dana rights issue 2024 senilai Rp3,06 triliun.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SDRA",
-   "Bank Woori Saudara",
-   "Direksi",
-   "Rights Issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7f277c8ed8_b73873130a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bssr-bagikan-dividen-interim-us-60-juta-cair-9-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BSSR Bagikan [Dividen] Interim US$60 Juta, Cair 9 Oktober",
-  "deck": "Baramulti Suksessarana membagikan dividen interim tahun buku 2026 senilai US$60 juta atau Rp406,16 per saham, dengan pembayaran dijadwalkan 9 Oktober 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSSR",
-   "dividen interim",
-   "Baramulti Suksessarana",
-   "emiten batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/327ed9e2d4_8146ecfed4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amran-minta-25-merek-beras-fortifikasi-setop-produksi",
-  "category": "Industri",
-  "title": "Amran Minta 25 Merek Beras Fortifikasi [Setop] Produksi",
-  "deck": "Kementan menemukan 25 merek beras fortifikasi diduga melanggar standar kandungan vitamin, Bulog diminta tambah pasokan ke ritel.",
-  "date": "21 September 2026",
-  "image": "assets/img/amran-minta-25-merek-beras-fortifikasi-setop-produksi.jpg",
-  "imageV": "mub6o399",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468447-amran-minta-25-merek-beras-fortifikasi-setop-produksi-izin-terancam-dicabut"
- },
- {
-  "slug": "mncn-teken-kerja-sama-strategis-dengan-rmab-nilai-belum-diungkap",
-  "category": "Aksi Korporasi",
-  "title": "MNCN Teken [Kerja Sama] Strategis dengan RMAB, Nilai Belum Diungkap",
-  "deck": "MNCN menandatangani perjanjian kerja sama strategis dan usaha patungan dengan RMAB atas PT IMG Media Network, tapi nilai transaksi dan porsi saham yang berpindah belum diungkapkan.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MNCN",
-   "IMG Media Network",
-   "RMAB",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffd3b970b6_07392aa8a9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpkh-tempatkan-70-dana-haji-rp184-t-di-sukuk-negara",
-  "category": "Perbankan",
-  "title": "BPKH Tempatkan 70% Dana Haji Rp184 T di [Sukuk] Negara",
-  "deck": "BPKH mengelola dana haji Rp184 triliun dengan mengutamakan keamanan dan likuiditas, menempatkan mayoritas portofolio di sukuk negara demi profil investasi yang konservatif.",
-  "date": "21 September 2026",
-  "image": "assets/img/bpkh-tempatkan-70-dana-haji-rp184-t-di-sukuk-negara.jpg",
-  "imageV": "mub6o3oy",
-  "tags": [
-   "BPKH",
-   "dana haji",
-   "sukuk negara",
-   "SBSN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468448-dana-haji-tembus-rp184-triliun-bpkh-prioritaskan-keamanan-dan-likuiditas"
- },
- {
-  "slug": "harga-pertamax-tidak-berubah-pertamina-bantah-hoaks",
-  "category": "Energi",
-  "title": "Harga Pertamax [Tidak] Berubah, Pertamina Bantah Hoaks",
-  "deck": "Pertamina Patra Niaga menegaskan harga BBM nonsubsidi termasuk Pertamax tidak berubah pada 21 September 2026, membantah kabar kenaikan harga yang beredar di media sosial.",
-  "date": "21 September 2026",
-  "image": "assets/img/harga-pertamax-tidak-berubah-pertamina-bantah-hoaks.jpg",
-  "imageV": "mub6o47g",
-  "tags": [
-   "harga BBM",
-   "Pertamax",
-   "Pertamina",
-   "hoaks"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468440-harga-bbm-pertamina-21-september-2026-tak-berubah-isu-pertamax-naik-dipastikan-hoaks"
- },
- {
-  "slug": "telkomgroup-gandeng-china-unicom-garap-5-sektor-digital",
-  "category": "Teknologi",
-  "title": "TelkomGroup Gandeng [China Unicom], Garap 5 Sektor Digital",
-  "deck": "TelkomGroup bersama Telkomsel, InfraNexia, dan Mitratel meneken nota kesepahaman dengan China Unicom Indonesia untuk menjajaki kerja sama di lima bidang digital, dari pusat data hingga IoT.",
-  "date": "21 September 2026",
-  "image": "assets/img/telkomgroup-gandeng-china-unicom-garap-5-sektor-digital.jpg",
-  "imageV": "mub6o5du",
-  "tags": [
-   "Telkom",
-   "China Unicom",
-   "InfraNexia",
-   "infrastruktur digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468445-telkomgroup-dan-china-unicom-jalin-kemitraan-strategis-ada-5-sektor-digital-jadi-sasaran"
- },
- {
-  "slug": "jecx-sarana-meditama-tambah-saham-hak-suara-ke-33",
-  "category": "Aksi Korporasi",
-  "title": "JECX: Sarana Meditama Tambah Saham, Hak Suara ke [33%]",
-  "deck": "PT Sarana Meditama Metropolitan Tbk menambah kepemilikan tidak langsung di JECX sebanyak 1.174.500 saham pada 18 September 2026, menaikkan hak suaranya dari 32,97% menjadi 33,00%.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "Sarana Meditama Metropolitan",
-   "kepemilikan saham",
-   "JEC Eye Hospitals"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7121-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ojk-soroti-bank-buffer-tipis-ldr-perbankan-88-38",
-  "category": "Perbankan",
-  "title": "OJK Soroti Bank Buffer [Tipis], LDR Perbankan 88,38%",
-  "deck": "OJK mengawasi bank dengan cadangan likuiditas tipis, sementara rasio kredit terhadap simpanan perbankan naik ke 88,38 persen pada Juli 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/ojk-soroti-bank-buffer-tipis-ldr-perbankan-88-38.jpg",
-  "imageV": "mub6o5ta",
-  "tags": [
-   "OJK",
-   "likuiditas perbankan",
-   "LDR",
-   "LCR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468424-ojk-soroti-bank-dengan-buffer-likuiditas-tipis-rasio-ldr-capai-8838-persen"
- },
- {
-  "slug": "pssi-bagi-saham-bonus-173-4-juta-lembar-dari-treasuri-rasio-30-1",
-  "category": "Aksi Korporasi",
-  "title": "PSSI Bagi [Saham Bonus] 173,4 Juta Lembar dari Treasuri, Rasio 30:1",
-  "deck": "PSSI berencana membagikan 173,4 juta saham bonus dari saham treasuri dengan rasio 30:1, memenuhi kewajiban pengalihan saham hasil buyback 2021-2025 sesuai aturan OJK.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "saham bonus",
-   "saham treasuri",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fae8c5faca_11772ea6b1.pdf",
   "sourceLabel": "IDX"
  }
 ];

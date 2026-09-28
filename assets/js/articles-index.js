@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "post-fitch-pangkas-peringkat-ke-rd-usai-gagal-bayar-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "POST: Fitch Pangkas Peringkat ke [RD] usai Gagal Bayar Sukuk",
+  "deck": "Fitch menurunkan peringkat nasional POST menjadi RD(idn) setelah gagal membayar cicilan imbalan ijarah sukuk tahap kedua yang jatuh tempo 28 Agustus 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "Fitch Ratings",
+   "gagal bayar",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/415cf2c190_ff3c3908b9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "post-tunda-bayar-bunga-obligasi-rp11-75-miliar-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "POST Tunda Bayar Bunga Obligasi Rp11,75 Miliar [Gagal Bayar]",
+  "deck": "Pos Indonesia meminta penundaan pembayaran bunga Obligasi I 2022 Seri B ke-15 senilai Rp11,75 miliar yang jatuh tempo 25 September 2026 karena kas belum mencukupi.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "gagal bayar",
+   "obligasi",
+   "Pos Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/48e0c5ff29_df54cbc755.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rsch-ganti-kepala-audit-internal-mega-gantikan-catur-asih",
+  "category": "Aksi Korporasi",
+  "title": "RSCH Ganti [Kepala Audit Internal], Mega Gantikan Catur Asih",
+  "deck": "PT Charlie Hospital Semarang Tbk mengangkat Mega Choirun Nisa sebagai Kepala Unit Audit Internal baru, menggantikan Catur Asih Puspitasari yang mengundurkan diri, efektif 28 September 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RSCH",
+   "audit internal",
+   "tata kelola perusahaan",
+   "Charlie Hospital Semarang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cb1c7f3d19_766d4edc9a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bali-kharisma-cipta-tambah-5-1-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BALI: Kharisma Cipta [Tambah] 5,1 Juta Saham",
+  "deck": "PT Kharisma Cipta Towerindo menambah kepemilikan di BALI sebanyak 5,1 juta saham senilai sekitar Rp7,24 miliar, hak suara naik tipis jadi 59,95 persen.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BALI",
+   "Bali Towerindo Sentra",
+   "Kepemilikan Saham",
+   "Kharisma Cipta Towerindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-3602-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-tunda-rupslb-lagi-mundur-ke-21-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Tunda RUPSLB [Lagi], Mundur ke 21 Oktober 2026",
+  "deck": "PT Solusi Sinergi Digital Tbk (WIFI) mengubah jadwal RUPSLB untuk keempat kalinya, kini menjadi Rabu, 21 Oktober 2026, setelah tiga kali penundaan sejak Agustus 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "Solusi Sinergi Digital",
+   "jadwal rapat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/192a9a6451_a971c1e8f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lmpi-rombak-direksi-komisaris-hidayat-alim-jadi-dirut",
+  "category": "Aksi Korporasi",
+  "title": "LMPI Rombak Direksi-Komisaris, Hidayat Alim Jadi [Dirut]",
+  "deck": "RUPSLB Langgeng Makmur Industri menyetujui pengunduran diri satu komisaris independen dan menetapkan susunan direksi-komisaris baru yang berlaku hingga 2029.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LMPI",
+   "RUPSLB",
+   "pergantian direksi",
+   "Langgeng Makmur Industri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e02628b555_ef633881aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "transisi-hijau-butuh-talenta-baru-kata-petrokimia-gresik",
   "category": "BUMN",
   "title": "Transisi Hijau Butuh [Talenta] Baru, Kata Petrokimia Gresik",
@@ -6423,102 +6519,6 @@ var ARTICLES = [
    "repo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-1402-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pyfa-gelar-rupo-obligasi-berkelanjutan-i-pada-19-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "PYFA Gelar RUPO Obligasi [Berkelanjutan] I pada 19 Oktober 2026",
-  "deck": "Pyridam Farma menjadwalkan Rapat Umum Pemegang Obligasi untuk Obligasi Berkelanjutan I Tahap I Tahun 2022 pada 19 Oktober 2026 di Jakarta, tanpa mencantumkan agenda rapat.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PYFA",
-   "obligasi",
-   "RUPO",
-   "Pyridam Farma"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4f02c39a34_76114fb83b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tcpi-kepemilikan-cgs-international-naik-ke-5-09-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "TCPI: Kepemilikan CGS International Naik ke [5,09%] Lewat Repo",
-  "deck": "CGS International Sekuritas Indonesia melaporkan penambahan 14,4 juta saham TCPI sebagai jaminan repo, mengangkat hak suaranya dari 4,79% menjadi 5,09% dan melewati ambang wajib lapor 5%.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TCPI",
-   "kepemilikan saham",
-   "repo saham",
-   "CGS International"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-9960-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-doni-mora-jual-lagi-saham-rp53-5-juta",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi Doni Mora Jual [Lagi] Saham Rp53,5 Juta",
-  "deck": "Direksi ITSEC Asia (CYBR), Doni Mora, kembali menjual saham, 100.000 lembar senilai Rp53,5 juta pada 18 September 2026, tanpa mengubah hak suaranya yang tetap 0,033%.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "transaksi saham direksi",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0586-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-asing-borong-saham-lagi-rp370-juta",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi Asing [Borong] Saham Lagi Rp370 Juta",
-  "deck": "Patrick Rudolf Dannacher, direksi ITSEC Asia, kembali membeli 706.700 saham CYBR senilai sekitar Rp370 juta dalam 11 transaksi pada 14-18 September 2026, melanjutkan aksi beli pekan sebelumnya.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-1557-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cpin-ubs-tambah-3-2-juta-saham-via-repurchase-agreement",
-  "category": "Aksi Korporasi",
-  "title": "CPIN: UBS Tambah 3,2 Juta Saham via [Repurchase Agreement]",
-  "deck": "UBS AG London menambah kepemilikan saham CPIN sebanyak 3,2 juta lembar lewat perjanjian pembelian kembali untuk lindung nilai transaksi derivatif nasabahnya.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CPIN",
-   "UBS",
-   "kepemilikan saham",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2312-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgli-bantah-ada-info-material-soal-lonjakan-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "PGLI Bantah Ada Info Material soal [Lonjakan] Sahamnya",
-  "deck": "Bursa Efek Indonesia meminta penjelasan PGLI setelah harga dan transaksi sahamnya melonjak pada 16 September 2026, perseroan menyatakan tidak mengetahui penyebabnya.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGLI",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6915255ac7_6b94824fe9.pdf",
   "sourceLabel": "IDX"
  }
 ];

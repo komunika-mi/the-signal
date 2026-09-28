@@ -3,6 +3,161 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "post-fitch-pangkas-peringkat-ke-rd-usai-gagal-bayar-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "POST: Fitch Pangkas Peringkat ke [RD] usai Gagal Bayar Sukuk",
+  "deck": "Fitch menurunkan peringkat nasional POST menjadi RD(idn) setelah gagal membayar cicilan imbalan ijarah sukuk tahap kedua yang jatuh tempo 28 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T12:50:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/415cf2c190_ff3c3908b9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "Fitch Ratings",
+   "gagal bayar",
+   "sukuk"
+  ],
+  "body": [
+   "Fitch Ratings Indonesia menurunkan Peringkat Nasional Jangka Panjang dan Jangka Pendek PT Pos Indonesia (Persero) atau POST menjadi RD(idn), singkatan dari Restricted Default, dari sebelumnya C(idn). Penurunan ini terjadi setelah POST gagal membayar cicilan imbalan ijarah atas sukuk tahap kedua yang seharusnya dibayarkan pada 28 Agustus 2026, dan tidak melunasinya hingga masa tenggang kontraktual 14 hari kerja berakhir pada 21 September 2026. Fitch turut menurunkan peringkat utang senior tanpa jaminan atas sukuk tahap kedua itu, yang terdiri dari tiga seri dengan jatuh tempo Mei 2028, Mei 2030, dan Mei 2032, menjadi D(idn) dari C(idn).",
+   "Sebelum penurunan peringkat ini, pemegang sukuk tahap kedua sempat menggelar rapat dengan Pos Indonesia namun menolak usulan restrukturisasi yang diajukan perusahaan sebagai bagian dari rencana transformasi bisnisnya. Pemegang sukuk juga menolak permintaan keringanan atas syarat keuangan (financial covenant) untuk laporan keuangan audit tahun 2025 dan 2026. Fitch mencatat, meski berstatus gagal bayar terbatas, POST belum mengajukan permohonan pailit maupun prosedur penghentian usaha formal lainnya, dan operasional perusahaan tetap berjalan.",
+   "Pembayaran berikutnya yang harus dipenuhi POST meliputi kupon obligasi senilai Rp400 miliar yang jatuh tempo pada 28 September 2026, atas obligasi yang jatuh tempo penuh Desember 2027, serta cicilan imbalan ijarah atas sukuk tahap pertama senilai Rp1 triliun yang jatuh tempo 8 Oktober 2026, terdiri dari Seri A, B, dan C yang masing-masing jatuh tempo Januari 2028, 2030, dan 2032. Untuk itu, perusahaan telah mengundang pemegang obligasi dan pemegang sukuk tahap pertama pada rapat 21 September 2026, meminta persetujuan penangguhan pembayaran sementara hingga 31 Desember 2026, perubahan tingkat imbalan berkala, dan perpanjangan seluruh jatuh tempo utang hingga 2032. Fitch menegaskan, jika POST tidak melakukan pembayaran ini dan tidak melunasinya dalam masa tenggang yang berlaku, peringkat kewajiban yang terdampak akan diturunkan lagi menjadi D(idn), status gagal bayar penuh."
+  ],
+  "fotoAdegan": "Postal delivery trucks parked in rows at a logistics depot yard, workers loading parcels at dusk",
+  "takeaway": "Laporan ini negatif bagi Pos Indonesia, karena menegaskan bahwa perusahaan benar-benar telah gagal membayar kewajiban utangnya, bukan sekadar berisiko gagal bayar. Yang tersentuh adalah arus kas dan beban bunga, sebab status gagal bayar membuat biaya pinjaman ke depan cenderung naik dan mempersulit akses pembiayaan baru, sementara kas perusahaan sudah terbukti tidak cukup untuk menutup cicilan imbalan ijarah yang jatuh tempo. Ini juga melengkapi rangkaian sinyal negatif dari dua laporan sebelumnya, yakni penolakan pemegang sukuk dan pemegang obligasi atas usulan restrukturisasi utang POST. Yang perlu dipantau berikutnya adalah dua pembayaran yang sudah di depan mata, yaitu kupon obligasi Rp400 miliar yang jatuh tempo 28 September 2026 dan cicilan imbalan ijarah sukuk tahap pertama senilai Rp1 triliun yang jatuh tempo 8 Oktober 2026. Jika POST kembali gagal melunasi dalam masa tenggang yang berlaku, Fitch menyatakan akan menurunkan peringkat kewajiban itu langsung menjadi D(idn), status gagal bayar penuh.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "post-tunda-bayar-bunga-obligasi-rp11-75-miliar-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "POST Tunda Bayar Bunga Obligasi Rp11,75 Miliar [Gagal Bayar]",
+  "deck": "Pos Indonesia meminta penundaan pembayaran bunga Obligasi I 2022 Seri B ke-15 senilai Rp11,75 miliar yang jatuh tempo 25 September 2026 karena kas belum mencukupi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T12:48:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/48e0c5ff29_df54cbc755.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "gagal bayar",
+   "obligasi",
+   "Pos Indonesia"
+  ],
+  "body": [
+   "PT Pos Indonesia (Persero) melalui surat bernomor 92358/KU.00/IX/2026 kepada PT Kustodian Sentral Efek Indonesia (KSEI) menyatakan belum bisa membayar bunga Obligasi I Pos Indonesia Tahun 2022 Seri B ke-15 yang jatuh tempo pada 25 September 2026. Nilai bunga yang tertunda itu sebesar Rp11.750.000.000, atau Rp11,75 miliar. Surat ini merupakan jawaban atas permintaan dana bunga yang sebelumnya diajukan KSEI lewat surat tertanggal 14 September 2026.",
+   "Dalam suratnya, manajemen menyebut alasan penundaan adalah kondisi kas dan likuiditas perseroan yang saat ini belum memungkinkan untuk melunasi kewajiban tersebut. Perusahaan menyatakan tengah melakukan optimalisasi arus kas dan penyediaan dana, serta menjalankan program transformasi dan perbaikan kinerja, dan berkomitmen menyelesaikan kewajiban itu sesuai ketentuan yang berlaku, tanpa menyebut tanggal pasti pelunasan. Surat ke KSEI ditandatangani oleh Direktur Keuangan Fathul Anwar atas nama perseroan dan ditembuskan ke Direktur Utama, sementara laporan keterbukaan informasi ke bursa ditandatangani oleh Corporate Secretary Iwan Gunawan.",
+   "Penundaan ini terjadi hanya tiga hari setelah Rapat Umum Pemegang Obligasi (RUPO) pada 22 September 2026 menolak seluruh proposal restrukturisasi Obligasi I Tahun 2022, termasuk permintaan penundaan pembayaran bunga yang diajukan sebelumnya oleh Pos Indonesia. Lembaga pemeringkat Fitch juga telah memangkas peringkat perseroan ke status Restricted Default menyusul gagal bayar sukuk yang terjadi lebih dulu."
+  ],
+  "fotoAdegan": "Postal delivery vans parked in neat rows inside a company depot yard, overcast sky, quiet weekday afternoon, no people nearby.",
+  "takeaway": "Laporan ini negatif bagi Pos Indonesia karena mengonfirmasi bahwa perusahaan benar benar tidak membayar bunga obligasi senilai Rp11,75 miliar pada tanggal jatuh temponya, persis seperti yang dikhawatirkan setelah pemegang obligasi menolak restrukturisasi pada 22 September 2026. Yang tersentuh langsung adalah arus kas, yaitu uang tunai yang masuk dan keluar dari kas perusahaan, karena manajemen sendiri mengakui likuiditasnya belum cukup untuk menutup kewajiban ini, sebuah sinyal tekanan yang membuat pelaku pasar mencermati kemampuan bayar utang lain yang dimiliki perseroan. Yang perlu dipantau berikutnya adalah apakah wali amanat atau KSEI akan menyatakan status gagal bayar resmi atas seri obligasi ini, mengingat surat perseroan tidak mencantumkan tanggal pasti kapan bunga tertunggak ini akan dilunasi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rsch-ganti-kepala-audit-internal-mega-gantikan-catur-asih",
+  "category": "Aksi Korporasi",
+  "title": "RSCH Ganti [Kepala Audit Internal], Mega Gantikan Catur Asih",
+  "deck": "PT Charlie Hospital Semarang Tbk mengangkat Mega Choirun Nisa sebagai Kepala Unit Audit Internal baru, menggantikan Catur Asih Puspitasari yang mengundurkan diri, efektif 28 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T12:20:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cb1c7f3d19_766d4edc9a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RSCH",
+  "tags": [
+   "RSCH",
+   "audit internal",
+   "tata kelola perusahaan",
+   "Charlie Hospital Semarang"
+  ],
+  "body": [
+   "PT Charlie Hospital Semarang Tbk (RSCH) mengumumkan pergantian Kepala Unit Audit Internal perseroan melalui Surat Keputusan Direksi Nomor 099/PTCH/SK-DIR/IX/2026. Mega Choirun Nisa resmi menjabat sebagai Kepala Unit Audit Internal menggantikan Catur Asih Puspitasari, efektif sejak 28 September 2026. Pergantian ini dilatarbelakangi pengunduran diri Catur Asih Puspitasari dari posisi tersebut.",
+   "Pengangkatan Mega Choirun Nisa lebih dulu mendapat persetujuan Dewan Komisaris pada 25 September 2026, yang ditandatangani oleh Komisaris Utama Wahyu Fitrianingsih dan Komisaris Independen Roy Octavian. Persetujuan itu mensyaratkan Mega memenuhi seluruh kualifikasi auditor internal sesuai Peraturan OJK Nomor 56/POJK.04/2015, serta menjalankan fungsi audit secara independen dan objektif. Dalam struktur pelaporannya, Kepala Unit Audit Internal bertanggung jawab langsung kepada Direktur Utama Junianto, yang menandatangani SK pengangkatan tersebut di Kendal.",
+   "Sesuai kewenangan yang diberikan, Mega bertugas menyusun rencana audit internal tahunan, menguji efektivitas sistem pengendalian internal dan manajemen risiko perseroan, serta menyampaikan laporan hasil audit kepada Direktur Utama dan Dewan Komisaris. Ia juga memiliki akses penuh atas informasi, data, aset, dan personel perseroan untuk menjalankan tugas pengawasan tersebut."
+  ],
+  "fotoAdegan": "Administrative staff reviewing binders of records at a table in a hospital management office, soft daylight through windows",
+  "takeaway": "Laporan ini netral bagi RSCH karena murni pergantian personel di fungsi pengawasan internal, bukan aksi korporasi yang mengubah kondisi keuangan perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar yang tersentuh di sini, tapi unit audit internal punya peran menjaga kualitas pengendalian dan manajemen risiko perusahaan, sehingga pelaku pasar tetap memperhatikan siapa yang memimpinnya karena itu mempengaruhi keandalan laporan keuangan yang mereka baca. Yang perlu dipantau selanjutnya adalah apakah Mega Choirun Nisa memenuhi seluruh syarat sertifikasi auditor internal sesuai POJK 56/2015 sebagaimana disyaratkan dalam persetujuan Dewan Komisaris, serta rencana audit tahunan pertama yang akan ia susun dan sampaikan kepada Direktur Utama dan Dewan Komisaris.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bali-kharisma-cipta-tambah-5-1-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BALI: Kharisma Cipta [Tambah] 5,1 Juta Saham",
+  "deck": "PT Kharisma Cipta Towerindo menambah kepemilikan di BALI sebanyak 5,1 juta saham senilai sekitar Rp7,24 miliar, hak suara naik tipis jadi 59,95 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T11:52:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-3602-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BALI",
+  "tags": [
+   "BALI",
+   "Bali Towerindo Sentra",
+   "Kepemilikan Saham",
+   "Kharisma Cipta Towerindo"
+  ],
+  "body": [
+   "PT Kharisma Cipta Towerindo, yang tercatat sebagai Direksi di PT Bali Towerindo Sentra Tbk (BALI), melaporkan penambahan kepemilikan saham kepada Otoritas Jasa Keuangan sesuai POJK Nomor 4/2024. Jumlah saham yang dipegang bertambah dari 2.353.850.000 lembar menjadi 2.358.950.000 lembar, atau naik 5.100.000 lembar, melalui skema pembelian tidak langsung pada 25 September 2026 dengan harga Rp1.420 per saham. Total nilai transaksi tersebut sekitar Rp7,24 miliar, dengan tujuan transaksi yang tertulis dalam laporan adalah investasi.",
+   "Dengan penambahan ini, hak suara PT Kharisma Cipta Towerindo di BALI naik dari 59,82 persen menjadi 59,95 persen. Posisi ini menegaskan status PT Kharisma Cipta Towerindo sebagai pemegang saham pengendali di perusahaan penyedia menara telekomunikasi tersebut, dengan kepemilikan yang sudah berada jauh di atas ambang mayoritas."
+  ],
+  "fotoAdegan": "Technicians in harnesses inspecting a telecommunications tower against a hillside sunset in Indonesia, tools and cables visible.",
+  "takeaway": "Transaksi ini netral bagi BALI karena ukurannya sangat kecil dibanding kepemilikan pelapor yang sudah dominan, hanya menambah sekitar 0,22 persen dari saham yang sudah dipegang PT Kharisma Cipta Towerindo, sehingga hak suara nyaris tidak bergeser dari 59,82 persen ke 59,95 persen. Yang tersentuh di sini adalah komposisi pemegang saham, bukan kinerja keuangan BALI secara langsung; pasar biasanya memperhatikan penambahan saham oleh pemegang saham pengendali sebagai tanda keyakinan terhadap perusahaan, tapi porsi sekecil ini belum cukup untuk dibaca sebagai sinyal keyakinan yang kuat. Yang perlu dipantau berikutnya adalah apakah PT Kharisma Cipta Towerindo melanjutkan pembelian serupa dalam laporan-laporan berikutnya ke KSEI, karena baru dari pola akumulasi yang berulang arah sinyalnya bisa terlihat lebih jelas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wifi-tunda-rupslb-lagi-mundur-ke-21-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Tunda RUPSLB [Lagi], Mundur ke 21 Oktober 2026",
+  "deck": "PT Solusi Sinergi Digital Tbk (WIFI) mengubah jadwal RUPSLB untuk keempat kalinya, kini menjadi Rabu, 21 Oktober 2026, setelah tiga kali penundaan sejak Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T11:14:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/192a9a6451_a971c1e8f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "Solusi Sinergi Digital",
+   "jadwal rapat"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) kembali mengubah jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), berdasarkan surat No. 117/CORSEC/SSD/IX/2026 yang diteken Direktur Utama Hendrik Tee pada 28 September 2026. RUPSLB yang semula direncanakan pada Jumat, 11 September 2026, kini dijadwalkan ulang menjadi Rabu, 21 Oktober 2026, pukul 14.00 WIB, bertempat di Ballroom Wakatobi, Novotel Jakarta Mangga Dua Square, lantai 3. Ini adalah perubahan keempat atas jadwal RUPSLB yang sama, setelah pengumuman awal pada 7 Agustus 2026 dan perubahan-perubahan sebelumnya pada 20 Agustus, 31 Agustus, dan 24 September 2026.",
+   "Perseroan menetapkan Senin, 28 September 2026 pukul 16.00 WIB sebagai batas pencatatan (recording date) pemegang saham yang berhak hadir dan memberi suara dalam RUPSLB. Surat pemanggilan resmi beserta mata acara rapat akan diumumkan pada Selasa, 29 September 2026, melalui situs web Perseroan, Bursa Efek Indonesia, dan KSEI. Rapat akan digelar secara elektronik lewat aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, dan pemegang saham bisa memberi kuasa elektronik (e-proxy) lewat aplikasi yang sama sampai satu hari kerja sebelum rapat, yakni Selasa, 20 Oktober 2026 pukul 12.00 WIB.",
+   "Bagi pemegang saham yang ingin hadir fisik, Perseroan mewajibkan membawa fotokopi KTP dan mengingatkan bahwa kapasitas kehadiran langsung terbatas. Pemegang saham yang datang setelah proses registrasi ditutup atau saat kapasitas fisik sudah penuh akan diarahkan mengikuti rapat secara elektronik. Usulan mata acara dari pemegang saham sendiri sudah harus diterima Direksi paling lambat Selasa, 22 September 2026 pukul 16.00 WIB, yakni tujuh hari sebelum tanggal pemanggilan rapat."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of chairs facing a stage, chandeliers overhead, staff arranging seating before an event",
+  "takeaway": "Laporan ini condong negatif bagi tata kelola WIFI, karena RUPSLB yang sama sudah empat kali diundur sejak pertama diumumkan pada 7 Agustus 2026, pertanda agenda rapat belum juga bisa dieksekusi tepat waktu. Dokumen ini sendiri tidak menyentuh angka keuangan seperti ekuitas atau laba per saham, tapi RUPSLB adalah forum yang mengesahkan keputusan penting pemegang saham, misalnya perubahan modal atau susunan direksi, sehingga penundaan berulang berarti kepastian soal keputusan itu ikut mundur. Agenda resmi rapat pun belum diumumkan dan baru akan terbit bersamaan surat pemanggilan pada 29 September 2026. Yang perlu dipantau adalah apakah RUPSLB benar terlaksana sesuai jadwal baru ini pada 21 Oktober 2026 pukul 14.00 WIB, sebab jika mundur lagi, itu akan menjadi penundaan kelima.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lmpi-rombak-direksi-komisaris-hidayat-alim-jadi-dirut",
+  "category": "Aksi Korporasi",
+  "title": "LMPI Rombak Direksi-Komisaris, Hidayat Alim Jadi [Dirut]",
+  "deck": "RUPSLB Langgeng Makmur Industri menyetujui pengunduran diri satu komisaris independen dan menetapkan susunan direksi-komisaris baru yang berlaku hingga 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T11:04:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e02628b555_ef633881aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LMPI",
+  "tags": [
+   "LMPI",
+   "RUPSLB",
+   "pergantian direksi",
+   "Langgeng Makmur Industri"
+  ],
+  "body": [
+   "PT Langgeng Makmur Industri Tbk (LMPI) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 25 September 2026, di pabrik perseroan Unit 2 di Jalan Desa Bringinbendo, Taman, Sidoarjo. Rapat yang hanya berlangsung tujuh menit, dari pukul 10.19 hingga 10.26 WIB, dihadiri pemegang saham yang mewakili 820.889.306 saham atau 81,4 persen dari seluruh saham dengan hak suara sah. Seluruh agenda disetujui bulat tanpa suara menolak maupun abstain.",
+   "Agenda tunggal rapat adalah perubahan susunan Dewan Komisaris dan Direksi. Pemegang saham menyetujui pengunduran diri Bing Hartono Poernomosidi dari jabatan Komisaris Independen, berlaku efektif sejak rapat ditutup, disertai pembebasan dan pelunasan penuh (acquit et de charge) atas seluruh tindakan pengawasan yang telah dilakukannya selama menjabat, sepanjang tercermin dalam pembukuan perseroan.",
+   "Susunan pengurus baru yang berlaku sejak penutupan rapat hingga RUPS tahun 2029 adalah: Komisaris Utama Hendro Budianto, yang dalam Kartu Tanda Penduduk juga tertulis sebagai Hindro Budianto Hindratno; Komisaris Independen Wan Juli; Direktur Utama Hidayat Alim; serta tiga Direktur, yaitu Pangestu Alim, Irawan Alim, dan Kosasih Koenawan. Rapat juga memberi kuasa kepada Direksi, dengan hak substitusi, untuk membuat dan menandatangani akta terkait perubahan ini di hadapan notaris serta melaporkannya kepada instansi berwenang."
+  ],
+  "fotoAdegan": "Workers monitoring rows of plastic extrusion machines on an industrial factory floor, coiled plastic sheeting, warehouse lighting",
+  "takeaway": "Pergantian direksi dan komisaris ini netral bagi kinerja keuangan Langgeng Makmur karena tidak melibatkan transaksi dana, aset, atau saham, meski susunan direksi baru patut dicermati sebab tiga dari empat direktur, yaitu Hidayat Alim selaku Direktur Utama, Pangestu Alim, dan Irawan Alim, berasal dari nama keluarga yang sama. Perubahan pengurus seperti ini tidak langsung mengubah pos laporan keuangan seperti ekuitas atau arus kas perusahaan, tetapi menentukan siapa yang akan mengambil keputusan strategis ke depan, termasuk soal pendanaan dan kebijakan dividen. Pengunduran diri Bing Hartono Poernomosidi sebagai Komisaris Independen disertai pembebasan penuh atas tindakan pengawasannya selama menjabat, sehingga tidak ada indikasi sengketa di balik pergantian ini. Yang perlu dipantau selanjutnya adalah proses pembuatan akta notaris dan pelaporan ke instansi berwenang yang dikuasakan kepada direksi baru, serta arah kebijakan perusahaan di bawah kepengurusan ini hingga masa jabatannya berakhir pada RUPS tahun 2029.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "transisi-hijau-butuh-talenta-baru-kata-petrokimia-gresik",
   "category": "BUMN",
   "title": "Transisi Hijau Butuh [Talenta] Baru, Kata Petrokimia Gresik",

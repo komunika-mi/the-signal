@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "csis-raup-rp177-m-dari-rights-issue-laba-semester-i-turun",
+  "category": "Aksi Korporasi",
+  "title": "CSIS Raup Rp177 M dari [Rights Issue], Laba Semester I Turun",
+  "deck": "PT Cahayasakti Investindo Sukses Tbk meraih dana segar Rp177,4 miliar dari penerbitan saham baru pada semester I 2026, sementara laba bersih turun 16 persen menjadi Rp20,07 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T05:48:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929060212-64385-0/FinancialStatement-2026-II-CSIS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSIS",
+  "tags": [
+   "CSIS",
+   "rights issue",
+   "laporan keuangan interim",
+   "properti"
+  ],
+  "body": [
+   "PT Cahayasakti Investindo Sukses Tbk (CSIS) menyampaikan laporan keuangan konsolidasian interim yang telah diaudit untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia. Laporan yang ditandatangani Direktur Utama Tjoea Aubintoro dan diaudit oleh KAP Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan dengan opini Wajar Tanpa Modifikasian ini menunjukkan pendapatan perusahaan turun tipis dari Rp60,51 miliar menjadi Rp59,54 miliar dibanding semester I 2025, sementara laba bersih menyusut dari Rp23,92 miliar menjadi Rp20,07 miliar. Laba per saham ikut turun dari Rp9,38 menjadi Rp5,71.",
+   "Kenaikan besar justru terjadi di sisi permodalan. Dalam surat terpisah ke Bursa Efek Indonesia, perusahaan menjelaskan bahwa kas dan setara kas melonjak dari Rp9,31 miliar menjadi Rp192,56 miliar karena penerimaan dana dari penerbitan saham baru kepada pemegang saham lama (rights issue). Modal saham tercatat naik dari Rp130,7 miliar menjadi Rp182,98 miliar, dan tambahan modal disetor naik dari Rp29,4 miliar menjadi Rp134,2 miliar, sehingga total dana segar dari aksi korporasi ini tercatat Rp177,4 miliar dalam laporan arus kas pendanaan. Ekuitas perusahaan pun melompat dari Rp381,3 miliar pada awal tahun menjadi Rp573,2 miliar per 30 Juni 2026.",
+   "Perusahaan menyebutkan uang muka proyek naik 144 persen karena kenaikan uang muka untuk pekerjaan infrastruktur di Kawasan Industri Cikembar melalui entitas anak. Meski laba di atas kertas masih positif, arus kas dari kegiatan operasional tercatat negatif Rp2,77 miliar pada semester I 2026, berbalik dari positif Rp13,64 miliar pada periode yang sama tahun lalu. Perusahaan juga membagikan dividen sebesar Rp5,7 miliar kepada pemegang saham nonpengendali di entitas anak selama periode ini.",
+   "Anak usaha utama CSIS, PT Bogorindo Cemerlang, bergerak di bidang properti dengan lokasi usaha di Sentul dan telah beroperasi komersial sejak 1994, dengan CSIS menguasai 61,59 persen kepemilikan dan total aset entitas anak itu tercatat Rp726,86 miliar."
+  ],
+  "fotoAdegan": "Construction workers laying concrete foundations at an industrial estate development site, cranes rising in the background, hazy tropical afternoon light.",
+  "takeaway": "Laporan ini condong netral karena dua sinyal berlawanan muncul bersamaan, kas perusahaan melonjak drastis berkat setoran modal baru dari rights issue, tapi laba bersih yang jadi ukuran keuntungan sesungguhnya malah menyusut 16 persen. Penambahan saham baru membuat laba per saham, yakni bagian laba yang jadi milik tiap lembar saham, turun dari Rp9,38 menjadi Rp5,71, karena keuntungan yang sama kini harus dibagi ke lebih banyak saham. Arus kas dari kegiatan operasional, yaitu uang tunai yang benar-benar masuk dari bisnis inti sehari-hari, tercatat negatif Rp2,77 miliar, tanda bahwa kenaikan kas besar-besaran itu datang dari setoran modal baru, bukan dari bisnis yang menghasilkan uang tunai lebih banyak. Yang perlu dipantau berikutnya adalah bagaimana dana Rp177,4 miliar hasil rights issue itu benar-benar dipakai untuk proyek infrastruktur Kawasan Industri Cikembar yang disebut perusahaan, serta laporan keuangan kuartal III 2026 yang akan menunjukkan apakah pendapatan dan laba bisa pulih setelah dana segar ini masuk.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "sofa-tambah-kbli-jadi-holding-pembiayai-proyek-sampah-energi",
   "category": "Aksi Korporasi",
   "title": "SOFA Tambah KBLI, Jadi [Holding] Pembiayai Proyek Sampah Energi",

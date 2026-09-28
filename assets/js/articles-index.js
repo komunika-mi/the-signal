@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "csis-raup-rp177-m-dari-rights-issue-laba-semester-i-turun",
+  "category": "Aksi Korporasi",
+  "title": "CSIS Raup Rp177 M dari [Rights Issue], Laba Semester I Turun",
+  "deck": "PT Cahayasakti Investindo Sukses Tbk meraih dana segar Rp177,4 miliar dari penerbitan saham baru pada semester I 2026, sementara laba bersih turun 16 persen menjadi Rp20,07 miliar.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSIS",
+   "rights issue",
+   "laporan keuangan interim",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929060212-64385-0/FinancialStatement-2026-II-CSIS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sofa-tambah-kbli-jadi-holding-pembiayai-proyek-sampah-energi",
   "category": "Aksi Korporasi",
   "title": "SOFA Tambah KBLI, Jadi [Holding] Pembiayai Proyek Sampah Energi",
@@ -6486,22 +6502,6 @@ var ARTICLES = [
    "Anggaran Dasar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0441faf775_c005706033.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "truk-pemegang-saham-baru-kuasai-5-via-repurchase-agreement",
-  "category": "Aksi Korporasi",
-  "title": "TRUK: Pemegang Saham Baru Kuasai 5% via [Repurchase Agreement]",
-  "deck": "HAKIMSON GROWTH CAPITAL melaporkan kepemilikan baru 21,75 juta saham TRUK berjenis hak suara multiple lewat repurchase agreement, hak suara naik dari 0 persen menjadi 5 persen.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUK",
-   "Guna Timur Raya",
-   "kepemilikan saham",
-   "hak suara multiple"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-1484-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

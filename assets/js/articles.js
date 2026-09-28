@@ -814,6 +814,58 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "futr-benarkan-ekspansi-ke-infrastruktur-air-jajaki-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "FUTR Benarkan Ekspansi ke Infrastruktur Air, Jajaki [Akuisisi]",
+  "deck": "FUTR membenarkan rencana ekspansi ke infrastruktur pengolahan air minum dan mengungkap sedang menjajaki peluang akuisisi di sektor energi terbarukan, belum ada perjanjian mengikat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T18:33:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c475591025_a4aa518369.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FUTR",
+  "tags": [
+   "FUTR",
+   "keterbukaan informasi",
+   "ekspansi usaha",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Futura Energi Global Tbk (FUTR) memberikan penjelasan kepada Bursa Efek Indonesia menyusul surat permintaan klarifikasi BEI Nomor S-12434/BEI.PP1/09-2026 tanggal 25 September 2026, terkait pemberitaan Bisnis.com pada 22 September 2026 berjudul 'Futura (FUTR) Perluas Bisnis ke Infrastruktur Air Minum'. Dalam surat bernomor 084/CORSEC/FUTR-BEI/SRT-02/IX/2026 yang ditandatangani Direktur Utama Anggara Suryawan pada 28 September 2026, perseroan membenarkan pokok pemberitaan tersebut, yang bersumber dari siaran pers perseroan tanggal 21 September 2026. FUTR menyatakan akan memfokuskan pengembangan usaha pada dua bidang, yaitu energi terbarukan dan infrastruktur berkelanjutan, dengan infrastruktur air sebagai bagian dari perluasan arah tersebut. Perseroan menegaskan fokusnya adalah instalasi pengolahan air (water treatment plant) untuk penyediaan air bersih, yang termasuk dalam Sistem Penyediaan Air Minum sesuai Peraturan Pemerintah Nomor 122 Tahun 2015.",
+   "Perseroan juga mengungkapkan informasi tambahan yang wajib disampaikan ke publik, yaitu sedang menjajaki sejumlah peluang pengambilalihan di bidang energi terbarukan dan infrastruktur berkelanjutan. Salah satu peluang tersebut sudah masuk tahap pembahasan dengan pihak terkait, namun sampai tanggal surat belum ada perjanjian definitif yang mengikat. FUTR menyatakan rencana ini masih bergantung pada hasil pembahasan lebih lanjut dan pemenuhan sejumlah persyaratan, serta berjanji akan menyampaikan keterbukaan informasi begitu ada perkembangan material, termasuk bila terjadi penandatanganan perjanjian, sesuai Peraturan OJK Nomor 31/POJK.04/2015.",
+   "Dalam surat yang sama, FUTR mengakui bahwa siaran pers mengenai arah ekspansi usaha tersebut sempat dipublikasikan ke media sebelum disampaikan kepada Bursa. Perseroan menyatakan ke depan akan memastikan informasi sejenis disampaikan lebih dulu atau bersamaan melalui sistem pelaporan elektronik Bursa dengan publikasi ke media."
+  ],
+  "fotoAdegan": "Technicians inspecting large water treatment tanks and pipework at an industrial filtration plant, overcast daylight",
+  "takeaway": "Laporan ini netral bagi FUTR karena baru berupa konfirmasi arah bisnis dan penjajakan awal, belum ada angka transaksi atau perjanjian mengikat yang bisa dinilai dampaknya. Yang tersentuh baru rencana pengambilalihan di sektor energi terbarukan dan infrastruktur berkelanjutan, dan kalau nanti benar terjadi, cara pembayarannya, tunai atau lewat penerbitan saham baru, akan menentukan apakah kas perusahaan berkurang atau jumlah saham beredar bertambah sehingga laba per saham bisa terdilusi. Perlu dicatat juga FUTR mengakui siaran pers soal ekspansi ini sempat dipublikasikan ke media lebih dulu sebelum dilaporkan ke Bursa, sebuah kelalaian prosedur keterbukaan yang kecil tapi tetap tercatat oleh regulator. Yang perlu dipantau selanjutnya adalah kelanjutan pembahasan pengambilalihan tersebut, karena perseroan berjanji akan menyampaikan keterbukaan informasi begitu ada perjanjian definitif sesuai POJK Nomor 31/POJK.04/2015, namun surat ini belum mencantumkan target waktu penandatanganannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ijee-peroleh-fasilitas-us-60-juta-dari-edc-untuk-beli-alat-nokia",
+  "category": "Aksi Korporasi",
+  "title": "IJEE Peroleh Fasilitas [US$60 Juta] dari EDC untuk Beli Alat Nokia",
+  "deck": "PT Integrasi Jaringan Ekosistem (IJEE) mengantongi fasilitas pinjaman hingga US$60 juta dari lembaga kredit ekspor Kanada, EDC, untuk membiayai pembelian perangkat dari Nokia OYJ.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T18:20:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ad22e392e4_abc6ab4c36.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IJEE",
+  "tags": [
+   "IJEE",
+   "pinjaman",
+   "EDC",
+   "Nokia"
+  ],
+  "body": [
+   "PT Integrasi Jaringan Ekosistem (IJEE) mengumumkan perolehan fasilitas pinjaman dengan nilai pokok sampai dengan US$60 juta dari Export Development Canada (EDC), lembaga pembiayaan ekspor milik pemerintah Kanada. Fasilitas ini tertuang dalam Facility Agreement tertanggal 25 September 2026, dengan periode ketersediaan dana selama sembilan bulan sejak perjanjian diteken dan jatuh tempo pembayaran tiga tahun dari tanggal perjanjian, yakni sekitar September 2029.",
+   "Dana dari fasilitas ini secara khusus dialokasikan untuk membiayai pengadaan barang dan jasa dari Nokia OYJ beserta anak perusahaannya, yang mengindikasikan pembelian perangkat atau infrastruktur jaringan telekomunikasi sesuai lini usaha IJEE di bidang telekomunikasi dan infrastruktur komputasi. Perseroan menyatakan fasilitas ini tidak mengubah kegiatan usaha utama maupun operasional, dan dari sisi hukum tetap tunduk pada ketentuan dalam Perjanjian Fasilitas serta dokumen pembiayaan terkait.",
+   "Transaksi ini dilaporkan sebagai pemenuhan POJK Nomor 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha, namun dikecualikan dari kewajiban menggunakan penilai independen maupun persetujuan RUPS berdasarkan Pasal 11 huruf b beleid tersebut. Laporan ditandatangani Direktur Utama IJEE, Hendrik Tee, dan disampaikan ke OJK serta Bursa Efek Indonesia pada 28 September 2026."
+  ],
+  "fotoAdegan": "Technicians installing telecommunications network equipment on a rooftop tower, cables and antennas, overcast city skyline in the distance",
+  "takeaway": "Laporan ini netral bagi IJEE: pinjaman US$60 juta memang menambah amunisi belanja modal untuk perangkat jaringan dari Nokia, tapi di saat yang sama menambah utang baru yang harus dilunasi penuh dalam tiga tahun. Pos yang tersentuh adalah sisi liabilitas dan beban bunga di laporan keuangan, bukan ekuitas, karena ini pinjaman bank, bukan penerbitan saham baru, sehingga pelaku pasar akan mencermati apakah tambahan beban bunga ini sepadan dengan kapasitas jaringan baru yang dihasilkan. Yang perlu dipantau selanjutnya adalah realisasi pembelian perangkat Nokia dalam periode ketersediaan dana sembilan bulan ke depan, serta kemampuan IJEE melunasi pokok pinjaman saat jatuh tempo pada sekitar September 2029.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "aspi-catat-rugi-melebar-162-jelang-public-expose-rugi",
   "category": "Aksi Korporasi",
   "title": "ASPI Catat Rugi Melebar 162% Jelang Public Expose [rugi]",
@@ -890,6 +942,32 @@ var ARTICLES = [
   "fotoAdegan": "Modern high-rise office towers in Jakarta's SCBD business district viewed from street level at dusk, city lights beginning to glow",
   "takeaway": "Rencana ini kami nilai netral karena sifatnya memenuhi kewajiban regulasi memindahkan saham treasuri, bukan aksi korporasi yang menambah atau mengurangi kas maupun aset perseroan. Yang tersentuh adalah pos ekuitas dan jumlah saham beredar: saham yang tadinya disimpan sebagai treasuri dan tidak dihitung sebagai saham beredar akan berpindah ke tangan karyawan, sehingga jumlah saham beredar bertambah sekitar 5,08 juta lembar dan berpotensi menipiskan laba per saham meski total ekuitas perseroan tetap sama. Di sisi lain, program ini berfungsi sebagai insentif retensi bagi karyawan berkinerja baik, yang secara tidak langsung mendukung keberlanjutan bisnis manajer investasi ini. Yang perlu dipantau selanjutnya adalah hasil RUPST pada 4 November 2026, karena rencana refloat baru bisa berjalan jika disetujui pemegang saham, disusul tahap pertama pengalihan saham pada 10 November 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "msky-konfirmasi-permohonan-pkpu-rp73-4-miliar-dari-ascot-group",
+  "category": "Aksi Korporasi",
+  "title": "MSKY Konfirmasi Permohonan [PKPU] Rp73,4 Miliar dari Ascot Group",
+  "deck": "MNC Sky Vision membenarkan ada permohonan penundaan kewajiban pembayaran utang dari Ascot Group Holdings Ltd senilai Rp73,4 miliar, sidang pertama digelar 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:32:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/512caded6d_b9ec55f724.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSKY",
+  "tags": [
+   "MSKY",
+   "PKPU",
+   "Ascot Group Holdings",
+   "MNC Sky Vision"
+  ],
+  "body": [
+   "MNC Sky Vision Tbk (MSKY) mengonfirmasi kepada Bursa Efek Indonesia bahwa benar terdapat permohonan penundaan kewajiban pembayaran utang (PKPU) terhadap perseroan, sebagaimana tercatat dalam Sistem Informasi Penelusuran Perkara Pengadilan Negeri Jakarta Pusat. Konfirmasi ini disampaikan menjawab surat permintaan penjelasan BEI nomor S-12456/BEI.PP2/09-2026 tanggal 25 September 2026, menyusul pemberitaan media pada 22 September 2026. Pemohon PKPU adalah Ascot Group Holdings Ltd, yang mendasarkan gugatannya pada klaim piutang berbunga kepada MSKY senilai Rp73.474.184.000.",
+   "Perseroan menyatakan nilai klaim tersebut tidak mencapai 20 persen dari ekuitas MSKY berdasarkan laporan keuangan auditan tahun buku yang berakhir 31 Desember 2025, sehingga tidak masuk kategori transaksi material menurut Pasal 3 ayat 1 POJK Nomor 17 Tahun 2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Relaas panggilan sidang diterima perseroan pada 25 September 2026, dengan sidang pertama atas permohonan ini dijadwalkan 1 Oktober 2026. MSKY menyebut telah menunjuk kuasa hukum untuk mewakili kepentingan perseroan sepanjang proses persidangan.",
+   "Perseroan menegaskan permohonan PKPU ini tidak berdampak material terhadap kegiatan operasional, kondisi keuangan, maupun kelangsungan usaha, dan akan tetap beroperasi seperti biasa. MSKY juga mengungkapkan bahwa permohonan PKPU serupa dari kreditor lain, Sanremo Ventures Inc, telah diputus dan ditolak oleh Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat pada 3 September 2026. Perseroan menyatakan tidak ada gugatan lain selain dari Ascot Group Holdings Ltd dan Sanremo Ventures Inc, serta tidak ada informasi material lain yang perlu diungkapkan saat ini."
+  ],
+  "fotoAdegan": "Wooden gavel resting on a court desk in a dim Jakarta courtroom, blurred rows of empty seats in soft light.",
+  "takeaway": "Permohonan PKPU dari kreditor terhadap emiten ini condong negatif, karena menandakan ada sengketa utang yang belum tuntas dan berpotensi memaksa perusahaan merundingkan ulang kewajibannya lewat pengadilan, meski MSKY berdalih dampaknya belum mengguncang keuangan perseroan. PKPU adalah proses hukum di mana kreditor meminta pengadilan menunda kewajiban bayar utang debitur sambil merundingkan skema pelunasan, dan pos yang tersentuh di sini adalah ekuitas karena klaim Rp73,4 miliar itu diuji terhadap modal perusahaan, meski hasilnya diklaim masih di bawah ambang 20 persen yang membuatnya tergolong material. Yang meringankan, permohonan serupa dari kreditor lain, Sanremo Ventures Inc, baru saja ditolak pengadilan awal September, jadi rekam jejak MSKY melawan gugatan semacam ini tidak buruk. Yang perlu dipantau adalah sidang pertama atas permohonan Ascot Group Holdings Ltd pada 1 Oktober 2026, karena hasilnya menentukan apakah perseroan benar masuk masa penundaan pembayaran utang atau permohonan itu kandas seperti kasus sebelumnya.",
+  "sentimen": "negatif"
  },
  {
   "slug": "raam-direksi-tambah-saham-294-600-lembar-rp51-juta",
@@ -1181,6 +1259,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "dlta-tunjuk-christian-linardo-sebagai-kepala-audit-internal-baru",
+  "category": "Aksi Korporasi",
+  "title": "DLTA Tunjuk Christian Linardo sebagai [Kepala] Audit Internal Baru",
+  "deck": "Delta Djakarta Tbk mengangkat Christian Linardo sebagai Kepala Unit Audit Internal menggantikan Ifvan Julianus yang mengundurkan diri, efektif 28 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:50:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5403ba9e28_835ee63a71.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DLTA",
+  "tags": [
+   "DLTA",
+   "Delta Djakarta",
+   "audit internal",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "Delta Djakarta Tbk (DLTA) mengumumkan pergantian Kepala Unit Audit Internal yang efektif 28 September 2026. Christian Linardo menggantikan Ifvan Julianus di posisi tersebut. Pemberitahuan ini disampaikan lewat surat nomor 050/Corp.Sec-PTD/IX/2026 yang ditandatangani Ma. Joe De Castro Perucho selaku Finance Director dan Corporate Secretary perusahaan.",
+   "Berdasarkan Surat Keputusan Direksi Nomor 017/BOD/IX/2026 tertanggal 25 September 2026 di Bekasi, pergantian ini bermula dari pengunduran diri Ifvan Julianus lewat surat tertanggal 25 Agustus 2026, dengan efektif berhenti pada 25 September 2026. Direksi menyampaikan terima kasih atas jasanya selama menjabat. Christian Linardo dinilai direksi cakap dan berpengalaman untuk mengisi posisi tersebut, resmi menjabat sejak 28 September 2026, dan akan bertanggung jawab langsung kepada Direktur Utama.",
+   "Keputusan ini merujuk pada Peraturan OJK Nomor 56/POJK.04/2015 tentang Pembentukan dan Pedoman Penyusunan Piagam Unit Audit Internal. Sesuai aturan itu, Corporate Secretary akan menyampaikan pemberitahuan tertulis mengenai pemberhentian dan pengangkatan ini kepada OJK dan otoritas terkait. Surat keputusan ditembuskan ke Dewan Komisaris, Komite Audit, seluruh anggota Direksi, Corporate Secretary, dan Departemen SDM perusahaan."
+  ],
+  "fotoAdegan": "Warehouse staff inspecting stacked beverage crates inside a brewery storage facility, forklift nearby, industrial lighting",
+  "takeaway": "Laporan ini netral bagi Delta Djakarta karena isinya pergantian personel di fungsi pengawasan internal, bukan keputusan yang mengubah kondisi keuangan atau arah bisnis perusahaan. Unit Audit Internal bertugas mengawasi kepatuhan dan pengendalian internal perusahaan, jadi kelangsungan kepemimpinannya penting bagi tata kelola meski tidak menyentuh pos-pos seperti ekuitas, arus kas, atau laba per saham secara langsung. Proses pergantian ini juga berjalan sesuai prosedur formal, dari surat pengunduran diri hingga keputusan direksi, sehingga tidak ada indikasi masalah kepatuhan yang tersembunyi. Yang perlu dipantau selanjutnya adalah laporan tertulis dari Corporate Secretary kepada OJK terkait pemberhentian dan pengangkatan ini sesuai POJK 56/2015, meski dokumen belum mencantumkan tenggat waktu spesifik untuk pelaporan tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "transaksi-mata-uang-lokal-ri-naik-259-di-semester-i",
   "category": "Moneter",
   "title": "Transaksi Mata Uang Lokal RI Naik [259%] di Semester I",
@@ -1366,6 +1470,58 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "rups-dada-sahkan-dividen-rp2-miliar-kuorum-cuma-22-79",
+  "category": "Aksi Korporasi",
+  "title": "RUPS DADA Sahkan [Dividen] Rp2 Miliar, Kuorum Cuma 22,79%",
+  "deck": "RUPS Tahunan Ketiga DADA akhirnya kuorum berkat penetapan khusus OJK, menyetujui dividen tunai Rp2 miliar dan laporan tahunan 2025 meski dihadiri hanya 22,79% pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:34:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0562cb48d8_5c179260a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DADA",
+  "tags": [
+   "DADA",
+   "RUPS",
+   "dividen",
+   "laporan tahunan"
+  ],
+  "body": [
+   "PT Diamond Citra Propertindo Tbk. (DADA) menggelar Rapat Umum Pemegang Saham Tahunan pada Kamis, 24 September 2026, di Depok, yang dihadiri pemegang saham mewakili 1.693.676.402 saham atau 22,79 persen dari total 7.431.530.800 saham dengan hak suara sah. Rapat menyetujui pembagian dividen tunai sebesar Rp2 miliar dari laba bersih tahun buku 2025, yang akan dibagikan kepada pemegang saham sesuai tata cara yang berlaku. Dari suara yang hadir, 1.693.380.902 suara atau 99,98 persen menyatakan setuju, 200 suara menolak, dan 295.300 suara memilih abstain.",
+   "Rapat juga mengesahkan laporan tahunan Perseroan untuk tahun buku 2025, termasuk laporan pengawasan Dewan Komisaris dan laporan keuangan yang telah diaudit Kantor Akuntan Publik Suharli, Sugiharto dan Rekan dengan opini wajar tanpa pengecualian atas laporan keuangan konsolidasian per 31 Desember 2025. Persetujuan ini sekaligus memberikan pembebasan dan pelunasan tanggung jawab (acquit et de charge) kepada jajaran direksi dan komisaris atas tindakan pengurusan dan pengawasan sepanjang 2025. Pemegang saham juga menyetujui penunjukan akuntan publik untuk mengaudit laporan keuangan tahun buku 2026, meski nama kantor akuntan yang ditunjuk tidak disebutkan dalam dokumen.",
+   "Susunan direksi dan komisaris tidak berubah: Adam sebagai Direktur Utama dan Bayu Setiawan sebagai Direktur, didampingi Anisah sebagai Komisaris Utama, Tjandra Tjokrodiponto sebagai Komisaris, dan Iwan Gunarwan Baroto sebagai Komisaris Independen, dengan masa jabatan hingga 30 Juni 2030 untuk periode ketiga mereka. Dokumen menyebut rapat ini sebagai RUPS Tahunan ketiga Perseroan, yang kuorumnya baru terpenuhi setelah Otoritas Jasa Keuangan menerbitkan surat Nomor S-39/PM.2/2026 tanggal 20 Agustus 2026 yang menetapkan ambang kuorum khusus. Rapat dipimpin oleh Iwan Gunarwan Baroto selaku Komisaris Independen."
+  ],
+  "fotoAdegan": "Exterior view of a modern mid-rise apartment building in Depok, Indonesia, with balconies and greenery under a clear daytime sky.",
+  "takeaway": "Secara fundamental, hasil RUPS ini netral bagi DADA, karena dividen Rp2 miliar dan pengesahan laporan tahunan hanya meresmikan hal yang porsinya kecil dan tidak mengubah struktur permodalan perseroan. Dividen ini adalah uang tunai yang benar-benar keluar dari kas perusahaan menuju kantong pemegang saham, dan dengan 7,43 miliar saham beredar, jumlahnya hanya setara sekitar Rp0,27 per saham sehingga tidak menggerus kas DADA secara berarti. Opini auditor wajar tanpa pengecualian atas laporan keuangan 2025 berarti akuntan publik tidak menemukan masalah material dalam pembukuan perseroan, sinyal baik untuk kredibilitas laporannya. Yang perlu dicermati adalah fakta bahwa ini RUPS Tahunan ketiga Perseroan, yang baru bisa mencapai kuorum setelah OJK menerbitkan surat penetapan kuorum khusus tanggal 20 Agustus 2026, menandakan sulitnya menghimpun kehadiran pemegang saham. Investor perlu memantau realisasi pembayaran dividen serta apakah RUPS mendatang bisa berjalan tanpa perlu intervensi kuorum serupa dari regulator.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bjbr-siap-lunasi-obligasi-rp74-miliar-per-18-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BJBR Siap Lunasi [Obligasi] Rp74 Miliar per 18 Oktober 2026",
+  "deck": "Bank bjb akan melunasi pokok obligasi seri C senilai Rp74 miliar dan sudah menyiapkan dana di penempatan pada Bank Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:32:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/371b49de59_581f8f5478.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BJBR",
+  "tags": [
+   "BJBR",
+   "obligasi",
+   "pelunasan obligasi",
+   "bank bjb"
+  ],
+  "body": [
+   "PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk (BJBR) mengumumkan rencana pelunasan pokok Obligasi Berkelanjutan I Bank BJB Tahap III Tahun 2019 Seri C senilai Rp74 miliar. Obligasi dengan kupon 8,75 persen ini diterbitkan pada 18 Oktober 2019 dan jatuh tempo pada 18 Oktober 2026. Pengumuman disampaikan melalui surat bernomor 948/DIR-TRE/2026 yang ditandatangani Corporate Secretary Irwan Riswandi.",
+   "Dalam surat terpisah kepada Bursa Efek Indonesia, manajemen menyebut total dana yang disiapkan untuk pembayaran pokok dan bunga obligasi ini mencapai Rp75,618 miliar, terdiri dari pokok Rp74 miliar ditambah bunga sekitar Rp1,619 miliar. Bank bjb menyatakan dana tersebut sudah tersedia dan tercatat pada pos penempatan di Bank Indonesia per posisi laporan keuangan bulanan per 31 Agustus 2026. Pelaporan ini merujuk pada ketentuan Bursa Efek Indonesia Kep-00015/BEI/01-2021 yang mewajibkan emiten melaporkan kesiapan dana pelunasan efek paling lambat 15 hari bursa sebelum jatuh tempo.",
+   "Sesuai aturan itu, laporan kesiapan dana disampaikan sekitar tiga pekan sebelum tanggal jatuh tempo. Surat kesiapan dana tersebut ditandatangani oleh direksi yang membidangi keuangan bank bjb."
+  ],
+  "fotoAdegan": "Exterior of a modern regional bank office tower in Bandung, Indonesia, daylight, clean architectural lines, no signage visible",
+  "takeaway": "Laporan ini netral bagi BJBR karena hanya menegaskan bank memenuhi kewajiban yang memang sudah dijadwalkan sejak obligasi ini diterbitkan tujuh tahun lalu, bukan kabar baru soal kinerja. Pos yang tersentuh adalah arus kas dan beban bunga ke depan, sebab begitu pokok Rp74 miliar dibayar pada 18 Oktober 2026, obligasi seri ini lunas dan bank tidak lagi menanggung kupon 8,75 persen atas seri tersebut, sementara dana talangannya diambil dari penempatan di Bank Indonesia yang selama ini dicatat sebagai aset likuid. Yang perlu dipantau adalah realisasi pembayaran pada 18 Oktober 2026 itu sendiri, untuk memastikan proses pelunasan berjalan sesuai jadwal tanpa kendala.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "lapd-rupslb-20-oktober-ganti-nama-pengendali-baru-rights-issue",
   "category": "Aksi Korporasi",
   "title": "LAPD RUPSLB 20 Oktober: Ganti Nama, [Pengendali Baru], Rights Issue",
@@ -1442,6 +1598,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Modern glass office tower exterior glowing at dusk against the Jakarta skyline, wide angle, no visible signage",
   "takeaway": "Laporan ini netral bagi WIKA, sebab isinya baru sebatas jadwal rapat, belum memuat agenda atau usulan restrukturisasi yang bisa dibaca sebagai perbaikan atau perburukan kondisi keuangan. Yang tersentuh adalah arus kas dan kewajiban utang perusahaan, karena wali amanat, yaitu pihak yang mewakili kepentingan pemegang sukuk, lazimnya mengadakan rapat semacam ini untuk membahas opsi penyelesaian pembayaran setelah lembaga pemeringkat menyatakan sukuk berstatus gagal bayar. Ini adalah salah satu dari beberapa rapat pemegang surat utang dan sukuk yang dijadwalkan WIKA dalam sebulan terakhir untuk instrumen yang berbeda-beda, menandakan penataan ulang kewajiban di banyak lini sekaligus, bukan kasus tunggal. Yang perlu dipantau berikutnya adalah panggilan resmi RUPSU di surat kabar pada 13 Oktober 2026, yang kemungkinan baru memuat agenda rinci, serta hasil rapat pada 28 Oktober 2026 yang akan menentukan skema penyelesaian utang sukuk ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wika-jadwalkan-rupo-obligasi-tahap-ii-2021-28-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPO] Obligasi Tahap II 2021, 28 Oktober",
+  "deck": "WIKA akan menggelar RUPO untuk Obligasi Berkelanjutan I Tahap II 2021 pada 28 Oktober 2026, tanpa agenda yang diungkap dalam pemberitahuan awal ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:55:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c6ba350c96_0e40b10d4b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "RUPO",
+   "wali amanat"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk memberitahukan rencana penyelenggaraan Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi Berkelanjutan I Wijaya Karya Tahap II Tahun 2021. Rapat dijadwalkan pada Rabu, 28 Oktober 2026 pukul 09.00 WIB di WIKA Tower 2, Jakarta. Dalam dokumen yang diteken Corporate Secretary WIKA, Mahendra Vijaya, kolom agenda rapat masih kosong, artinya poin yang akan dibahas belum diumumkan ke publik.",
+   "PT Bank Mega Tbk bertindak sebagai wali amanat obligasi ini, berdasarkan Perjanjian Perwaliamanatan Akta No. 11 tanggal 8 Februari 2021 yang dibuat di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito. Sesuai aturan Otoritas Jasa Keuangan soal kontrak perwaliamanatan efek utang, panggilan resmi untuk RUPO ini akan dimuat di satu surat kabar harian nasional pada Selasa, 13 Oktober 2026, dua pekan sebelum rapat berlangsung.",
+   "Ini merupakan RUPO atau RUPSU ketiga yang diumumkan WIKA dalam sepekan terakhir, setelah sebelumnya perseroan juga menjadwalkan RUPSU untuk Sukuk Tahap II 2021 dan RUPO untuk Obligasi Tahap I 2020, keduanya juga pada akhir Oktober 2026. Ketiganya menyangkut instrumen utang yang berbeda dan hingga kini belum ada satu pun yang mengungkap agenda pembahasannya."
+  ],
+  "fotoAdegan": "Wide shot of a construction company office tower entrance in Jakarta with cranes visible in the distance, late afternoon",
+  "takeaway": "Laporan ini netral bagi WIKA, sebab isinya baru sebatas jadwal rapat pemegang obligasi, belum memuat usulan perubahan bunga, jadwal pembayaran, atau restrukturisasi yang bisa dinilai memperbaiki atau memperburuk kondisi keuangan perseroan. RUPO seperti ini biasanya dipakai emiten untuk meminta persetujuan pemegang surat utang atas perubahan syarat pembayaran, dan hasilnya nanti berpengaruh langsung ke arus kas dan beban bunga WIKA, dua pos yang menentukan kemampuan perseroan membayar utang jatuh tempo. Yang perlu dicermati adalah munculnya tiga RUPO atau RUPSU sekaligus dalam sepekan, sebuah pola yang lebih masuk akal dibaca bersama status default sukuk WIKA yang baru diturunkan PEFINDO, daripada dilihat satu-satu. Titik pantau berikutnya adalah panggilan resmi di surat kabar pada 13 Oktober 2026 dan RUPO itu sendiri pada 28 Oktober 2026, saat agenda sebenarnya baru akan terungkap.",
   "sentimen": "netral"
  },
  {

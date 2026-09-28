@@ -509,6 +509,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "futr-benarkan-ekspansi-ke-infrastruktur-air-jajaki-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "FUTR Benarkan Ekspansi ke Infrastruktur Air, Jajaki [Akuisisi]",
+  "deck": "FUTR membenarkan rencana ekspansi ke infrastruktur pengolahan air minum dan mengungkap sedang menjajaki peluang akuisisi di sektor energi terbarukan, belum ada perjanjian mengikat.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FUTR",
+   "keterbukaan informasi",
+   "ekspansi usaha",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c475591025_a4aa518369.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ijee-peroleh-fasilitas-us-60-juta-dari-edc-untuk-beli-alat-nokia",
+  "category": "Aksi Korporasi",
+  "title": "IJEE Peroleh Fasilitas [US$60 Juta] dari EDC untuk Beli Alat Nokia",
+  "deck": "PT Integrasi Jaringan Ekosistem (IJEE) mengantongi fasilitas pinjaman hingga US$60 juta dari lembaga kredit ekspor Kanada, EDC, untuk membiayai pembelian perangkat dari Nokia OYJ.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IJEE",
+   "pinjaman",
+   "EDC",
+   "Nokia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ad22e392e4_abc6ab4c36.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "aspi-catat-rugi-melebar-162-jelang-public-expose-rugi",
   "category": "Aksi Korporasi",
   "title": "ASPI Catat Rugi Melebar 162% Jelang Public Expose [rugi]",
@@ -555,6 +587,22 @@ var ARTICLES = [
    "RUPST"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bb8bbc24c2_d5202e49ee.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "msky-konfirmasi-permohonan-pkpu-rp73-4-miliar-dari-ascot-group",
+  "category": "Aksi Korporasi",
+  "title": "MSKY Konfirmasi Permohonan [PKPU] Rp73,4 Miliar dari Ascot Group",
+  "deck": "MNC Sky Vision membenarkan ada permohonan penundaan kewajiban pembayaran utang dari Ascot Group Holdings Ltd senilai Rp73,4 miliar, sidang pertama digelar 1 Oktober 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSKY",
+   "PKPU",
+   "Ascot Group Holdings",
+   "MNC Sky Vision"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/512caded6d_b9ec55f724.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -736,6 +784,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "dlta-tunjuk-christian-linardo-sebagai-kepala-audit-internal-baru",
+  "category": "Aksi Korporasi",
+  "title": "DLTA Tunjuk Christian Linardo sebagai [Kepala] Audit Internal Baru",
+  "deck": "Delta Djakarta Tbk mengangkat Christian Linardo sebagai Kepala Unit Audit Internal menggantikan Ifvan Julianus yang mengundurkan diri, efektif 28 September 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DLTA",
+   "Delta Djakarta",
+   "audit internal",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5403ba9e28_835ee63a71.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "transaksi-mata-uang-lokal-ri-naik-259-di-semester-i",
   "category": "Moneter",
   "title": "Transaksi Mata Uang Lokal RI Naik [259%] di Semester I",
@@ -850,6 +914,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rups-dada-sahkan-dividen-rp2-miliar-kuorum-cuma-22-79",
+  "category": "Aksi Korporasi",
+  "title": "RUPS DADA Sahkan [Dividen] Rp2 Miliar, Kuorum Cuma 22,79%",
+  "deck": "RUPS Tahunan Ketiga DADA akhirnya kuorum berkat penetapan khusus OJK, menyetujui dividen tunai Rp2 miliar dan laporan tahunan 2025 meski dihadiri hanya 22,79% pemegang saham.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DADA",
+   "RUPS",
+   "dividen",
+   "laporan tahunan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0562cb48d8_5c179260a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bjbr-siap-lunasi-obligasi-rp74-miliar-per-18-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BJBR Siap Lunasi [Obligasi] Rp74 Miliar per 18 Oktober 2026",
+  "deck": "Bank bjb akan melunasi pokok obligasi seri C senilai Rp74 miliar dan sudah menyiapkan dana di penempatan pada Bank Indonesia.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BJBR",
+   "obligasi",
+   "pelunasan obligasi",
+   "bank bjb"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/371b49de59_581f8f5478.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "lapd-rupslb-20-oktober-ganti-nama-pengendali-baru-rights-issue",
   "category": "Aksi Korporasi",
   "title": "LAPD RUPSLB 20 Oktober: Ganti Nama, [Pengendali Baru], Rights Issue",
@@ -895,6 +991,22 @@ var ARTICLES = [
    "gagal bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/de3926c5b0_3cdf35c958.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-jadwalkan-rupo-obligasi-tahap-ii-2021-28-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan [RUPO] Obligasi Tahap II 2021, 28 Oktober",
+  "deck": "WIKA akan menggelar RUPO untuk Obligasi Berkelanjutan I Tahap II 2021 pada 28 Oktober 2026, tanpa agenda yang diungkap dalam pemberitahuan awal ini.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "RUPO",
+   "wali amanat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c6ba350c96_0e40b10d4b.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6390,128 +6502,6 @@ var ARTICLES = [
    "hak suara multiple"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-1484-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-tambah-saham-di-sma-rp9-5-m-transaksi-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Tambah Saham di SMA Rp9,5 M, Transaksi [Afiliasi]",
-  "deck": "Anak usaha UNTR, DTN dan ASPR, menambah kepemilikan saham di PT Stargate Mineral Asia senilai total Rp9,5 miliar untuk menjaga porsi kepemilikan dan memenuhi modal kerja SMA.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "Transaksi Afiliasi",
-   "Stargate Mineral Asia",
-   "Tambang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d62d8c982_aa9c54996d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "giias-semarang-2026-digelar-mobil-listrik-dominasi-peserta",
-  "category": "Industri",
-  "title": "GIIAS Semarang 2026 Digelar, [Mobil Listrik] Dominasi Peserta",
-  "deck": "GIIAS Semarang 2026 digelar 30 September-4 Oktober dengan 19 merek peserta, mayoritas mobil listrik, sementara Pemprov Jawa Tengah mempertimbangkan relaksasi pajak kendaraan bermotor.",
-  "date": "22 September 2026",
-  "image": "assets/img/giias-semarang-2026-digelar-mobil-listrik-dominasi-peserta.jpg",
-  "imageV": "muc4vv59",
-  "tags": [
-   "GIIAS Semarang 2026",
-   "GAIKINDO",
-   "mobil listrik",
-   "Jawa Tengah"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/tingkatkan-ekonomi-giias-semarang-2026-mendapat-dukungan-pemprov-jawa-tengah/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "pendapatan-pupuk-indonesia-naik-ke-rp90-4-triliun-pada-2025",
-  "category": "BUMN",
-  "title": "Pendapatan Pupuk Indonesia Naik ke [Rp90,4] Triliun pada 2025",
-  "deck": "Pendapatan Pupuk Indonesia naik dari Rp81,6 triliun menjadi Rp90,4 triliun pada 2025, seiring perubahan skema subsidi pupuk dan penurunan harga eceran tertinggi 20 persen bagi petani.",
-  "date": "22 September 2026",
-  "image": "assets/img/pendapatan-pupuk-indonesia-naik-ke-rp90-4-triliun-pada-2025.jpg",
-  "imageV": "muc4vw9t",
-  "tags": [
-   "Pupuk Indonesia",
-   "subsidi pupuk",
-   "BUMN",
-   "Fortune Indonesia 100"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/883/kinerja-dan-transformasi-bisnis-perkuat-posisi-pupuk-indonesia-di-fortune-indonesia-100",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "anak-krakatau-turun-status-jadi-waspada-radius-2-km-tetap",
-  "category": "Energi",
-  "title": "Anak Krakatau [Turun] Status jadi Waspada, Radius 2 Km Tetap",
-  "deck": "Badan Geologi ESDM menurunkan status Gunung Anak Krakatau dari Siaga ke Waspada mulai 21 September 2026, setelah aktivitas kegempaan dan deformasi mereda sejak awal bulan.",
-  "date": "22 September 2026",
-  "image": "assets/img/anak-krakatau-turun-status-jadi-waspada-radius-2-km-tetap.jpg",
-  "imageV": "muc4vxcn",
-  "tags": [
-   "Anak Krakatau",
-   "Badan Geologi",
-   "ESDM",
-   "Status Gunung Api"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/aktivitas-anak-krakatau-menurun-badan-geologi-turunkan-status-dari-siaga-menjadi-waspada",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "produk-umkm-pilihan-busan-kemendag-masuk-tokopedia-dan-tiktok-shop",
-  "category": "UMKM",
-  "title": "Produk UMKM Pilihan Busan Kemendag Masuk [Tokopedia] dan TikTok Shop",
-  "deck": "Kemendag menggandeng Tokopedia dan TikTok Shop membuka etalase khusus bagi produk UMKM kurasi Pilihan Busan, seiring aturan baru yang meminta lokapasar mengutamakan produk lokal.",
-  "date": "22 September 2026",
-  "image": "assets/img/produk-umkm-pilihan-busan-kemendag-masuk-tokopedia-dan-tiktok-shop.jpg",
-  "imageV": "muc4vzub",
-  "tags": [
-   "UMKM",
-   "Tokopedia",
-   "TikTok Shop",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/produk-pilihan-busan-masuk-tokopedia-dan-tiktok-shop-kemendag-dorong-umkm-manfaatkan-social-commerce",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bi-kucurkan-rp2-97-miliar-untuk-7-provinsi-korban-karhutla",
-  "category": "Makroekonomi",
-  "title": "BI Kucurkan [Rp2,97 Miliar] untuk 7 Provinsi Korban Karhutla",
-  "deck": "Bank Indonesia menyalurkan bantuan kemanusiaan Rp2,97 miliar dan menerjunkan 40 tenaga kesehatan ke tujuh provinsi yang terdampak kebakaran hutan dan lahan di Kalimantan serta Sumatra.",
-  "date": "22 September 2026",
-  "image": "assets/img/bi-kucurkan-rp2-97-miliar-untuk-7-provinsi-korban-karhutla.jpg",
-  "imageV": "muc4wf04",
-  "tags": [
-   "Bank Indonesia",
-   "karhutla",
-   "bantuan kemanusiaan",
-   "Kalimantan"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819226.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "hexa-akui-margin-tergerus-pangsa-pasar-ke-16-7-persen",
-  "category": "Aksi Korporasi",
-  "title": "HEXA Akui Margin Tergerus, [Pangsa Pasar] ke 16,7 Persen",
-  "deck": "Paparan publik tahunan HEXA mengungkap margin laba tergerus, pangsa pasar turun ke 16,7 persen, dan realisasi kuartal pertama 2026 baru sekitar seperlima dari target tahunan.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEXA",
-   "public expose",
-   "pangsa pasar",
-   "Hexindo Adiperkasa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac656a24ad_c309aedba7.pdf",
   "sourceLabel": "IDX"
  }
 ];

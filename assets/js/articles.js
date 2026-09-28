@@ -3,6 +3,189 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "aspi-catat-rugi-melebar-162-jelang-public-expose-rugi",
+  "category": "Aksi Korporasi",
+  "title": "ASPI Catat Rugi Melebar 162% Jelang Public Expose [rugi]",
+  "deck": "Materi public expose ASPI menunjukkan rugi sebelum pajak melebar jadi Rp1,95 miliar pada semester I 2026, sementara pendapatan turun 16 persen dan ekuitas menyusut 3 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T18:09:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fa3e2daf4_f10c580b64.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASPI",
+  "tags": [
+   "ASPI",
+   "public expose",
+   "properti",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Andalan Sakti Primaindo Tbk. (ASPI) menyampaikan materi Public Expose Insidentil ke Bursa Efek Indonesia pada 28 September 2026, sebagai kelanjutan dari surat pemberitahuan sebelumnya bernomor 0355ASPI. Dokumen ini ditandatangani Direktur Arnoldus Jansen Kustianto dan berisi paparan yang akan dibahas dalam acara public expose pada 29 September 2026, lengkap dengan sesi tanya jawab yang dibatasi hanya untuk tiga pertanyaan pertama via chat room.",
+   "Materi tersebut memuat kinerja keuangan semester I 2026 yang memburuk dibanding periode sama tahun sebelumnya. Pendapatan turun 16 persen menjadi Rp3,06 miliar dari Rp3,64 miliar, sementara laba bruto anjlok 27 persen menjadi Rp1,28 miliar. Beban penjualan melonjak dari Rp510,6 juta menjadi Rp1,61 miliar, sehingga rugi usaha melebar 151 persen menjadi Rp2,02 miliar dan rugi sebelum pajak melebar 162 persen menjadi Rp1,95 miliar. Akibatnya, saldo rugi perseroan bertambah Rp1,65 miliar menjadi Rp22,18 miliar, dan total ekuitas turun 3 persen menjadi Rp59,29 miliar dari Rp61,24 miliar pada akhir 2025.",
+   "Dari sisi bisnis, proyek Perumahan Grandia Liv mencatat penjualan 74 unit hingga akhir Juni 2026, dari total 67 unit tahap satu yang sudah siap huni dan 56 unit tahap dua yang masih dalam status inden. Komposisi pemegang saham per Juni 2026 menunjukkan PT Andalan Sakti Inti menguasai 51,18 persen atau 349.995.000 lembar saham, sedangkan publik memegang 48,82 persen atau 333.810.720 lembar. Materi ini juga mengonfirmasi bahwa perseroan masih menjalani tahap due diligence dari pihak lain terkait negosiasi pengambilalihan saham ASPI, sebagaimana pernah diungkapkan dalam Keterbukaan Informasi tertanggal 10 Juli 2026 dengan nomor surat 015/Dir-ASP/VII/2026. Harga saham ASPI sendiri tercatat turun dari pembukaan Rp680 pada Januari 2026 menjadi penutupan Rp362 pada Juni 2026."
+  ],
+  "fotoAdegan": "Construction workers building rows of small houses at a residential housing project, scaffolding and cement stacks, midday sun",
+  "takeaway": "Laporan ini condong negatif bagi ASPI, karena materi public expose justru membuka data yang menunjukkan pendapatan menyusut dan rugi yang melebar tajam, bukan sekadar keterbukaan rutin. Yang paling tersentuh adalah pos ekuitas, yaitu modal bersih yang jadi milik pemegang saham setelah dikurangi utang, karena rugi yang terus terakumulasi membuat saldo rugi bertambah Rp1,65 miliar dalam enam bulan sehingga ekuitas ikut menyusut jadi Rp59,29 miliar, dan ini penting karena ekuitas adalah bantalan keuangan perusahaan sebelum menyentuh utang ke pihak luar. Lonjakan beban penjualan dari Rp510,6 juta menjadi Rp1,61 miliar menjadi penyebab utama membengkaknya rugi usaha, meski beban umum dan administrasi berhasil ditekan 18 persen. Yang perlu dipantau berikutnya adalah sesi tanya jawab pada acara Public Expose Insidentil tanggal 29 September 2026, serta kelanjutan proses due diligence dari pihak lain atas negosiasi pengambilalihan saham ASPI yang sudah berjalan sejak diungkapkan pada 10 Juli 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "amor-rencanakan-refloat-5-08-juta-saham-untuk-esop-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Rencanakan Refloat 5,08 Juta Saham untuk [ESOP] Karyawan",
+  "deck": "Ashmore Asset Management Indonesia (AMOR) berencana mengalihkan hingga 5.084.827 saham treasuri ke karyawan lewat program ESOP, menunggu persetujuan RUPST 4 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:40:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bb8bbc24c2_d5202e49ee.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "ESOP",
+   "saham treasuri",
+   "RUPST"
+  ],
+  "body": [
+   "PT Ashmore Asset Management Indonesia Tbk (AMOR) menyampaikan keterbukaan informasi soal rencana pengalihan saham hasil pembelian kembali (buyback) kepada OJK, Senin (28/9). Perseroan sebelumnya membeli kembali 4.491.300 saham sepanjang November 2022 hingga Mei 2023, mengacu pada POJK 29/2023 tentang Pembelian Kembali Saham. Berdasarkan aturan itu, saham yang tersimpan sebagai saham treasuri wajib dialihkan kembali (refloat) dalam jangka waktu tertentu, dan AMOR memilih menyalurkannya lewat program kepemilikan saham untuk manajemen dan karyawan (M/ESOP).",
+   "Jumlah maksimal saham yang akan dialihkan adalah 5.084.827 lembar, mengacu pada Pasal 21 huruf c POJK 29/2023. Penerima adalah karyawan yang sebelumnya ikut program saham bonus 2022, mulai bekerja antara 1 Juli 2021 dan 30 Juni 2022, serta bersedia menambah masa kerja lima tahun sejak tanggal pemberian saham dan mematuhi peraturan serta kode etik perusahaan. Anggota Dewan Komisaris dan karyawan yang sedang dikenai sanksi tidak berhak menerima jatah ini. Karyawan yang berhenti secara baik-baik (good leaver) sebelum masa lock-up berakhir tetap mendapat saham secara proporsional terhadap waktu yang telah dilalui, sementara yang keluar tanpa memenuhi syarat itu harus mengembalikan hak atas sahamnya sebagai saham treasuri. Harga pelaksanaan program akan ditentukan kemudian oleh Direksi berdasarkan kesepakatan dengan karyawan, mengikuti skema program saham bonus 2022.",
+   "Rencana ini masih menunggu persetujuan Rapat Umum Pemegang Saham Tahunan yang dijadwalkan 4 November 2026. Jika disetujui, pengalihan saham berlangsung bertahap dari 10 November 2026 hingga 31 Oktober 2027. Dalam simulasi dampak ekuitas yang dilampirkan, saldo saham treasuri diperkirakan berkurang dari minus Rp22,93 miliar menjadi minus Rp16,44 miliar, tambahan modal disetor turun dari Rp216,57 miliar menjadi Rp209,66 miliar, dan saldo laba yang belum ditentukan penggunaannya naik dari Rp66,12 miliar menjadi Rp66,55 miliar. Modal saham dan total ekuitas perseroan tidak berubah, tetap di angka Rp293,69 miliar, karena transaksi ini memindahkan saham yang sudah ada, bukan menerbitkan saham baru."
+  ],
+  "fotoAdegan": "Modern high-rise office towers in Jakarta's SCBD business district viewed from street level at dusk, city lights beginning to glow",
+  "takeaway": "Rencana ini kami nilai netral karena sifatnya memenuhi kewajiban regulasi memindahkan saham treasuri, bukan aksi korporasi yang menambah atau mengurangi kas maupun aset perseroan. Yang tersentuh adalah pos ekuitas dan jumlah saham beredar: saham yang tadinya disimpan sebagai treasuri dan tidak dihitung sebagai saham beredar akan berpindah ke tangan karyawan, sehingga jumlah saham beredar bertambah sekitar 5,08 juta lembar dan berpotensi menipiskan laba per saham meski total ekuitas perseroan tetap sama. Di sisi lain, program ini berfungsi sebagai insentif retensi bagi karyawan berkinerja baik, yang secara tidak langsung mendukung keberlanjutan bisnis manajer investasi ini. Yang perlu dipantau selanjutnya adalah hasil RUPST pada 4 November 2026, karena rencana refloat baru bisa berjalan jika disetujui pemegang saham, disusul tahap pertama pengalihan saham pada 10 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "untr-jadwalkan-dividen-interim-rp430-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Jadwalkan [Dividen] Interim Rp430 per Saham",
+  "deck": "United Tractors (UNTR) menjadwalkan dividen interim Rp430 per saham, total hingga Rp1,48 triliun, dibayar 26 Oktober 2026 kepada pemegang saham per 8 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:18:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/608f731b1f_4be4d5de62.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "dividen interim",
+   "United Tractors",
+   "alat berat"
+  ],
+  "body": [
+   "Direksi United Tractors Tbk (UNTR), dengan persetujuan Dewan Komisaris pada 24 September 2026, menetapkan pembagian dividen tunai interim untuk tahun buku 2026 sebesar Rp430 per saham. Total dividen yang dibagikan berkisar antara Rp1,46 triliun hingga Rp1,48 triliun, tergantung jumlah saham yang berhak menerima pada tanggal pencatatan. Dividen ini dibayar tunai, bukan dalam bentuk efek ekuitas yang bisa dikonversi menjadi saham.",
+   "Perseroan menetapkan 8 Oktober 2026 pukul 16.00 WIB sebagai tanggal daftar pemegang saham (DPS) yang berhak menerima dividen. Investor harus sudah memiliki saham UNTR sebelum tanggal cum dividen, yaitu 6 Oktober 2026 di pasar reguler dan negosiasi, atau 8 Oktober 2026 di pasar tunai. Saham akan diperdagangkan tanpa hak dividen mulai 7 Oktober 2026 di pasar reguler dan negosiasi, serta 9 Oktober 2026 di pasar tunai. Dividen dibayarkan paling lambat 26 Oktober 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan UNTR per 30 Juni 2026. Laba bersih yang diatribusikan kepada entitas induk pada semester pertama tahun ini tercatat Rp956,28 miliar. Saldo laba ditahan yang tidak dibatasi penggunaannya jauh lebih besar, yakni Rp82,6 triliun, dari total ekuitas perusahaan sebesar Rp101,75 triliun."
+  ],
+  "fotoAdegan": "Rows of yellow heavy mining excavators and dump trucks parked at a dusty open pit mine site, workers inspecting machinery, overcast sky",
+  "takeaway": "Dividen interim ini condong positif bagi pemegang saham UNTR, sebab nilainya, sampai Rp1,48 triliun, melebihi laba bersih semester pertama 2026 yang hanya Rp956,28 miliar, namun tetap aman dibayar karena ditopang saldo laba ditahan Rp82,6 triliun dari total ekuitas Rp101,75 triliun. Begitu dibayarkan, dividen ini akan mengurangi kas perusahaan dan menurunkan total ekuitas sebesar nilai yang dibagikan, dua pos yang biasa dipantau pelaku pasar untuk menilai kekuatan modal dan daya bayar perusahaan ke depan. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 8 Oktober 2026 pukul 16.00 WIB dan tanggal pembayaran pada 26 Oktober 2026, sementara investor yang ingin mendapat hak dividen harus sudah memegang saham UNTR sebelum tanggal cum dividen 6 Oktober 2026 di pasar reguler dan negosiasi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "dada-bagikan-dividen-tunai-rp0-27-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "DADA Bagikan [Dividen] Tunai Rp0,27 per Saham",
+  "deck": "PT Diamond Citra Propertindo Tbk akan membagikan dividen tunai Rp2,006 miliar dari laba 2025, dibayarkan paling lambat 28 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:09:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ed554c12cb_caa4fa0007.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DADA",
+  "tags": [
+   "DADA",
+   "dividen tunai",
+   "pasar modal",
+   "emiten properti"
+  ],
+  "body": [
+   "PT Diamond Citra Propertindo Tbk (DADA) akan membagikan dividen tunai untuk tahun buku 2025 senilai total Rp2.006.513.316, atau Rp0,27 untuk setiap saham. Keputusan ini diambil dalam Rapat Umum Pemegang Saham Tahunan pada 24 September 2026. Berdasarkan jumlah saham beredar perseroan sebanyak 7.431.530.800 lembar, angka Rp0,27 per saham itulah yang dikalikan menjadi total dividen tersebut.",
+   "Perseroan menetapkan jadwal pembagian dividen sebagai berikut. Pembeli saham di pasar reguler dan negosiasi masih berhak atas dividen jika membeli paling lambat 2 Oktober 2026, tanggal yang disebut cum dividen, dan mulai 5 Oktober 2026 saham itu diperdagangkan tanpa hak dividen atau ex dividen. Untuk pasar tunai, batas cum dividen jatuh pada 6 Oktober 2026, yang juga menjadi tanggal pencatatan pemegang saham yang berhak menerima dividen, sementara ex dividen di pasar tunai berlaku mulai 7 Oktober 2026. Dividen akan dibayarkan ke rekening pemegang saham paling lambat 28 Oktober 2026.",
+   "Dividen ini diambil dari laba bersih yang diatribusikan ke pemegang saham induk sebesar Rp3.535.310.802 untuk tahun buku 2025, dengan saldo laba ditahan yang tidak dibatasi penggunaannya tercatat Rp51.092.633.155 dan total ekuitas perseroan Rp355.704.404.280. Bagi pemegang saham dengan saham dalam penitipan kolektif KSEI, dividen akan disalurkan lewat perusahaan sekuritas tempat saham tercatat. Bagi pemegang saham dengan saham fisik atau warkat, permohonan transfer beserta nomor rekening bank dan salinan identitas harus diserahkan ke biro administrasi efek PT Adimitra Jasa Korpora paling lambat 6 Oktober 2026. Pemegang saham asing yang ingin memakai tarif pajak lebih rendah sesuai perjanjian penghindaran pajak berganda juga harus menyerahkan dokumen status pajak pada tenggat yang sama, kalau tidak dividen mereka akan dipotong pajak penghasilan sebesar 20 persen."
+  ],
+  "fotoAdegan": "Exterior of a low-rise suburban commercial complex with landscaped walkway, soft morning light, quiet street in Depok, Indonesia",
+  "takeaway": "Pembagian dividen ini condong positif bagi pemegang saham DADA, karena perseroan mengembalikan sebagian keuntungan tahun buku 2025 secara tunai sementara jumlahnya yang sekitar Rp2 miliar hanya sekitar 0,6 persen dari total ekuitas Rp355,7 miliar sehingga tidak menggerus modal perusahaan. Pos yang tersentuh adalah saldo laba ditahan, yaitu akumulasi keuntungan yang belum dibagikan ke pemegang saham, yang akan berkurang begitu dividen ini dibayarkan, sementara total ekuitas perseroan tetap relatif kokoh karena porsi dividen yang kecil dibanding ukuran perusahaan. Rasio dividen terhadap laba bersih di sini sekitar 57 persen, artinya lebih dari separuh keuntungan tahun ini dibagikan tunai ke pemegang saham dan sisanya ditahan perusahaan, indikator yang biasa dipakai pelaku pasar untuk menilai seberapa royal emiten terhadap pemegang sahamnya. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham berhak dividen pada 6 Oktober 2026 dan tanggal pembayaran pada 28 Oktober 2026, karena dua tanggal itu menentukan siapa yang berhak menerima dividen dan kapan dananya benar-benar cair.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "inps-balas-bursa-ungkap-proyek-rp1-25-t-dari-grup-danantara",
+  "category": "Aksi Korporasi",
+  "title": "INPS Balas Bursa, Ungkap Proyek Rp1,25 T dari Grup [Danantara]",
+  "deck": "INPS merinci rencana suntikan modal Rp125 miliar dari pengendali GIGP dan akuisisi perusahaan otomotif bermodal proyek Rp1,25 triliun untuk keluar dari status ekuitas negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:04:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c6947e4615_86adcef027.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "PMTHMETD",
+   "akuisisi",
+   "suspensi saham"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) menjawab surat permintaan penjelasan Bursa Efek Indonesia tertanggal 25 September 2026 terkait ekuitas negatif Rp42,83 miliar per 30 Juni 2026 yang menjadi dasar suspensi sahamnya. Dalam surat bernomor 017/INPS-BEI/IX/2026 yang diteken Direktur Utama Muhammad Reagy Sukmana, Perseroan menegaskan langkah utamanya adalah penambahan modal tanpa hak memesan efek terlebih dahulu atau PMTHMETD, yaitu penerbitan saham baru yang seluruhnya diserap oleh pemegang saham pengendali tanpa ditawarkan lebih dulu ke pemegang saham lama. Perseroan akan menerbitkan sebanyak-banyaknya 1,25 miliar saham baru seharga Rp100 per saham, sehingga dana yang terkumpul maksimal Rp125 miliar, seluruhnya disetor tunai oleh PT Graha Inti Guna Persada (GIGP) selaku pengendali. Dana tersebut rencananya dipakai untuk melunasi utang pihak ketiga sekitar Rp21 miliar, menyuntik modal ke entitas anak sekitar Rp99 miliar, dan modal kerja sekitar Rp5 miliar.",
+   "Perseroan memaparkan proyeksi neraca setelah aksi ini: total aset naik dari Rp176,35 miliar menjadi Rp301,35 miliar, sementara ekuitas berbalik dari minus Rp42,83 miliar menjadi positif Rp82,17 miliar. Modal kerja bersih ikut berbalik dari minus Rp26,94 miliar menjadi positif Rp98,06 miliar, rasio liabilitas terhadap aset turun dari 124,3 persen menjadi sekitar 70,7 persen setelah sebagian dana dipakai melunasi utang, dan rasio lancar naik dari 0,69 kali menjadi 2,12 kali. Harga pelaksanaan Rp100 per saham berada di atas hasil kajian nilai wajar oleh KJPP Ferdinand, Danar, Ichsan dan Rekan yang sebesar Rp91,22 per saham. Jadwalnya, RUPSLB digelar 3 November 2026, pemanggilan rapat 12 Oktober, pelaksanaan penyetoran saham baru 1 Desember, dan pencatatan saham baru di bursa pada 11 Desember 2026.",
+   "Struktur pemegang saham akan berubah signifikan. Sebelum aksi, dari 650 juta saham beredar, GIGP menguasai 428.058.000 saham (65,86 persen), Andry Hakim 65.132.000 saham (10,02 persen), dan publik 156.810.000 saham (24,12 persen). Setelah PMTHMETD, total saham beredar menjadi 1,9 miliar dengan kepemilikan GIGP naik menjadi 88,32 persen, sementara porsi Andry Hakim turun menjadi 3,43 persen dan publik menjadi 8,25 persen. Akibatnya, saham yang dipegang investor di luar pengendali dan pemegang saham utama diperkirakan tinggal sekitar 11,68 persen, di bawah batas minimum 15 persen menurut Peraturan Bursa Nomor I-A, sehingga GIGP berjanji melepas sebagian sahamnya secara bertahap ke investor terpilih yang tidak terafiliasi, sekaligus menyatakan bersedia lock-up atas saham baru hasil PMTHMETD.",
+   "Sebagai langkah pendukung, Perseroan berencana mengakuisisi 90 persen saham perusahaan otomotif yang bergerak di kendaraan roda tiga termasuk versi listrik, dengan dana dari pinjaman pihak ketiga jangka pendek, bukan dari dana PMTHMETD. Perusahaan target ini per 31 Maret 2026 memiliki aset sekitar Rp583 miliar, liabilitas sekitar Rp578,9 miliar, ekuitas hanya sekitar Rp4,1 miliar, dan laba bersih tiga bulan sekitar Rp686 juta. Nilai tariknya adalah proyek pengadaan kendaraan roda tiga senilai sekitar Rp1,25 triliun dari grup entitas anak Badan Pengelola Investasi Daya Anagata Nusantara (Danantara) yang diperoleh Maret 2026, dengan margin diperkirakan 7 sampai 8 persen dan target selesai Maret 2028. Penandatanganan akuisisi ditargetkan awal Oktober 2026, dengan keterbukaan informasi menyusul paling lambat dua hari kerja setelahnya."
+  ],
+  "fotoAdegan": "Workers assembling small three-wheeled electric cargo vehicles inside an industrial workshop, sunlight through open bay doors",
+  "takeaway": "Laporan ini netral bagi fundamental Perseroan: menutup ekuitas negatif memang kabar baik untuk neraca, tapi porsi saham pemegang saham minoritas justru terkuras drastis dan syarat saham beredar minimum belum terpenuhi setelah aksi ini. Yang tersentuh adalah ekuitas dan jumlah saham beredar, suntikan Rp125 miliar dari GIGP membuat modal sendiri Perseroan berbalik dari minus jadi plus, tapi jumlah saham beredar hampir tiga kali lipat sehingga laba per saham ke depan berpotensi terdilusi dan kendali GIGP menguat dari 65,86 persen jadi 88,32 persen. Free float, yaitu porsi saham di luar pengendali dan pemegang saham utama, turun jadi sekitar 11,68 persen, di bawah batas minimum 15 persen aturan Bursa, sehingga GIGP masih harus melepas sahamnya bertahap ke investor lain agar Perseroan tetap memenuhi ketentuan pencatatan. Yang perlu dipantau adalah RUPSLB pada 3 November 2026 yang mengesahkan seluruh rencana ini, penandatanganan akuisisi perusahaan otomotif yang ditargetkan awal Oktober 2026, dan laporan keuangan akhir tahun 2026 yang akan menentukan apakah Bursa bersedia mencabut suspensi saham INPS.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fifa-salurkan-dana-obligasi-rp2-49-triliun-untuk-pembiayaan-kredit",
+  "category": "Aksi Korporasi",
+  "title": "FIFA salurkan dana obligasi Rp2,49 triliun untuk [pembiayaan] kredit",
+  "deck": "FIFA melaporkan realisasi penggunaan dana obligasi berkelanjutan VII tahap III senilai Rp2,5 triliun, seluruhnya sudah disalurkan untuk pembiayaan kredit tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:01:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93c9fbf420_2132f95ee0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FIFA",
+  "tags": [
+   "FIFA",
+   "obligasi",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "body": [
+   "FIFA melaporkan realisasi penggunaan dana hasil penerbitan Obligasi Berkelanjutan VII Federal International Finance Dengan Tingkat Bunga Tetap Tahap III Tahun 2026, yang efektif sejak 26 Juni 2025. Total dana yang diperoleh dari penerbitan obligasi ini sebesar Rp2,5 triliun. Setelah dikurangi biaya penawaran umum sebesar Rp6,4 miliar, yang terdiri dari biaya penjaminan emisi Rp681,25 juta, biaya penyelenggaraan Rp3,27 miliar, biaya penjualan Rp681,25 juta, biaya profesi penunjang pasar modal Rp346,22 juta, biaya lembaga penunjang pasar modal Rp1,37 miliar, dan biaya lain-lain Rp57,31 juta, dana bersih yang diterima FIFA menjadi Rp2.493.592.617.162 atau sekitar Rp2,49 triliun.",
+   "Seluruh dana bersih tersebut, atau 100 persen, sudah direalisasikan untuk pembiayaan kredit sesuai rencana yang tertulis dalam prospektus penawaran umum. Tidak ada dana yang ditempatkan di pihak afiliasi maupun disimpan dalam bentuk lain, dan sisa dana yang belum terpakai tercatat nol. Laporan ini ditandatangani secara elektronik oleh Theodorus Indra Surya Putra, Corp. Secretary, Legal & Litigation Division Head FIFA.",
+   "Laporan ke Bursa Efek Indonesia ini juga menyertakan surat penyampaian dari Direktur FIFA, Daniel Hartono, tertanggal 24 September 2026, yang ditujukan kepada Otoritas Jasa Keuangan dan PT Bank Rakyat Indonesia (Persero) Tbk selaku wali amanat obligasi ini. Surat itu menjelaskan bahwa laporan realisasi penggunaan dana untuk periode yang berakhir 30 Juni 2026 sebelumnya sudah disampaikan pada 9 Juli 2026, tetapi baru dalam Bahasa Indonesia. Sesuai Pasal 25 ayat 2 POJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum, laporan itu wajib disampaikan dalam dua bahasa, sehingga pengajuan kali ini melengkapi versi Bahasa Inggrisnya."
+  ],
+  "fotoAdegan": "A finance company staff member assisting a customer at a motorcycle dealership counter, new motorcycles lined up in showroom, soft indoor lighting",
+  "takeaway": "Laporan ini netral bagi FIFA karena isinya semata konfirmasi bahwa dana obligasi Tahap III sudah terpakai 100 persen persis seperti rencana di prospektus, tanpa penyimpangan atau sisa dana yang mengendap. Yang tersentuh dari sisi kinerja adalah beban bunga, yaitu biaya tahunan yang harus dibayar FIFA kepada pemegang obligasi ini, karena pendanaan lewat obligasi menambah utang berbunga tetap di neraca perusahaan meski dananya sudah diterima sejak Juni 2025. Arus kas, yaitu keluar masuknya uang tunai perusahaan, juga bergerak karena seluruh Rp2,49 triliun dana itu kini berbentuk piutang pembiayaan konsumen, bukan lagi kas siap pakai, sehingga kelancaran cicilan nasabah ikut menentukan likuiditas FIFA ke depan. Yang perlu dipantau berikutnya adalah realisasi dana di tahap-tahap lain dari program Obligasi Berkelanjutan VII yang sama, karena laporan ini baru mencakup Tahap III, serta kepatuhan FIFA menyampaikan laporan dwibahasa tepat waktu setelah sempat terlambat mengirim versi Bahasa Inggris untuk periode yang berakhir 30 Juni 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fifa-laporkan-realisasi-dana-obligasi-tahap-i-rp187-5-miliar",
+  "category": "Aksi Korporasi",
+  "title": "FIFA laporkan realisasi dana obligasi [Tahap I] Rp187,5 miliar",
+  "deck": "Perseroan melaporkan seluruh dana bersih Rp187,53 miliar dari Obligasi Keberlanjutan Orange I Tahap I sudah tersalur untuk modal kerja pembiayaan, dengan sisa Rp1 miliar ditempatkan di giro bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:58:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9dbdf4be2c_885416a85f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FIFA",
+  "tags": [
+   "FIFA",
+   "obligasi",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Federal International Finance (FIFA) melaporkan realisasi penggunaan dana hasil Obligasi Keberlanjutan Orange I Tahap I Tahun 2026 yang efektif sejak 22 Juni 2026. Nilai emisi obligasi ini Rp191 miliar, dan setelah dikurangi biaya penawaran umum Rp3,47 miliar, hasil bersih yang diterima perusahaan Rp187,53 miliar. Seluruh dana bersih tersebut direncanakan untuk modal kerja pembiayaan sesuai prospektus, dan menurut laporan ini sudah terealisasi sesuai rencana tersebut.",
+   "Rinciannya, Rp186,53 miliar atau 97,66 persen dari hasil bersih sudah disalurkan sebagai modal kerja pembiayaan konsumen. Sisanya, Rp1 miliar, untuk sementara ditempatkan dalam bentuk giro di Bank Permata dengan bunga 1,75 persen per tahun selama 90 hari, dan Bank Permata disebutkan sebagai pihak ketiga yang tidak berelasi dengan FIFA. Dari sisi biaya penawaran umum, komponen terbesar adalah biaya jasa profesi penunjang pasar modal Rp1,84 miliar dan biaya jasa lembaga penunjang pasar modal Rp799,83 juta, disusul biaya penjaminan emisi, penyelenggaraan, dan penjualan yang totalnya Rp353,92 juta.",
+   "Surat yang diteken Direktur FIFA Daniel Hartono dan disampaikan oleh Corporate Secretary Theodorus Indra Surya Putra ini sebenarnya adalah pelengkap dari laporan realisasi yang sudah lebih dulu disampaikan pada 9 Juli 2026 untuk periode yang berakhir 30 Juni 2026. FIFA sebelumnya hanya melaporkan dalam Bahasa Indonesia, padahal Pasal 25 ayat 2 Peraturan OJK Nomor 40 Tahun 2025 mewajibkan laporan disampaikan dalam Bahasa Indonesia dan Bahasa Inggris sekaligus. Versi dwibahasa ini disampaikan ke OJK dan wali amanat, PT Bank Rakyat Indonesia (Persero) Tbk, pada 28 September 2026."
+  ],
+  "fotoAdegan": "Rows of parked motorcycles inside a brightly lit consumer financing dealership showroom in Jakarta, warm evening light filtering through windows.",
+  "takeaway": "Laporan ini netral bagi FIFA sebab isinya hanya memastikan dana Rp187,53 miliar dari obligasi Tahap I sudah terpakai 100 persen sesuai rencana di prospektus, tanpa penyimpangan yang perlu dikhawatirkan pemegang obligasi, dan pada dasarnya cuma kelengkapan administratif berbahasa Inggris atas laporan yang sudah lebih dulu terbit. Obligasi ini menambah kewajiban utang FIFA sebesar Rp191 miliar dan akan menambah beban bunga yang harus dibayar perusahaan ke pemegang obligasi ke depan, meski sebagai instrumen utang bukan saham, jumlah saham beredar dan laba per saham tidak berubah karenanya. Arus kas pendanaan FIFA sempat bertambah saat dana diterima 22 Juni 2026, lalu berkurang lagi begitu disalurkan menjadi piutang pembiayaan konsumen. Yang perlu dipantau selanjutnya adalah realisasi penggunaan dana dari obligasi Tahap IV senilai Rp2,5 triliun yang baru tercatat di BEI pada 25 September 2026, karena pola tahap-tahap sebelumnya dalam program payung Rp10 triliun ini selalu terealisasi penuh sesuai rencana.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "transaksi-mata-uang-lokal-ri-naik-259-di-semester-i",
   "category": "Moneter",
   "title": "Transaksi Mata Uang Lokal RI Naik [259%] di Semester I",
@@ -29,6 +212,85 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah konkret adalah nilai transaksi dagang yang memakai mata uang lokal, bukan dolar AS, antara Indonesia dan tujuh negara mitra: Malaysia, Thailand, Tiongkok, Jepang, Korea Selatan, Uni Emirat Arab, dan Singapura. Baru semester pertama 2026 saja nilainya sudah US$42,07 miliar, naik 259 persen dibanding periode sama tahun lalu dan sudah melampaui total sepanjang 2025. Yang terdampak langsung adalah eksportir dan importir yang berdagang dengan ketujuh negara itu, karena transaksi memakai mata uang lokal berarti mereka tidak perlu menukar dulu ke dolar AS, sehingga biaya konversi dan risiko akibat naik turunnya kurs dolar bisa ditekan. Lonjakan setajam ini, ditambah rencana Bank Indonesia memperluas kerja sama ke negara mitra lain, mengarah pada makin berkurangnya ketergantungan transaksi dagang regional pada dolar AS. Yang akan menegaskan arah ini adalah apakah Bank Indonesia mengumumkan negara mitra LCT baru atau merilis angka transaksi semester kedua 2026 yang menunjukkan tren percepatan ini berlanjut.",
   "imageV": "mul2nk8i"
+ },
+ {
+  "slug": "ketr-jadwalkan-rupslb-pada-12-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "KETR Jadwalkan [RUPSLB] pada 12 November 2026",
+  "deck": "Ketrosden Triasmitra menjadwalkan RUPSLB pada 12 November 2026, dengan tanggal pencatatan pemegang saham 12 Oktober dan batas usulan agenda 6 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:49:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/18b46bd0b0_88144dd5e5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "RUPSLB",
+   "Ketrosden Triasmitra",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Ketrosden Triasmitra Tbk (KETR) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 12 November 2026 pukul 09.30 WIB. Pengumuman ini disampaikan ke Otoritas Jasa Keuangan lewat surat bernomor 030/KT-OJK/VP/CORSEC/SPE/IX/2026 tertanggal 28 September 2026, ditandatangani oleh Corporate Secretary Henry Rizard Rumopa. Lokasi rapat belum diumumkan dan akan disampaikan kemudian, sementara perseroan berencana menggelar rapat secara fisik sekaligus elektronik.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan, atau yang sahamnya berada dalam penitipan kolektif KSEI, per Senin, 12 Oktober 2026 pukul 16.00 WIB. Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan pada Selasa, 13 Oktober 2026, lewat situs web Bursa Efek Indonesia, situs perusahaan, dan sistem eASY.KSEI.",
+   "Perseroan juga membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat. Syaratnya, pengusul harus mewakili sedikitnya 1/20 atau 5 persen dari total saham berhak suara, mengajukan usulan tertulis kepada direksi paling lambat Selasa, 6 Oktober 2026, dan menyertakan alasan serta bahan pendukung. Usulan itu juga harus diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, serta tidak bertentangan dengan anggaran dasar maupun peraturan yang berlaku."
+  ],
+  "fotoAdegan": "Technicians inspecting large spools of undersea fiber optic cable on an industrial dock, overcast sky, cranes in background",
+  "takeaway": "Pengumuman ini murni bersifat prosedural dan belum memuat agenda atau rencana aksi korporasi apa pun, jadi belum bisa dinilai berdampak positif atau negatif bagi Ketrosden, sehingga sifatnya netral. Karena agenda rapat belum diungkap, dokumen ini juga belum menyentuh pos kinerja seperti ekuitas, arus kas, jumlah saham beredar, atau laba per saham, yang biasanya baru berubah kalau RUPSLB nanti memutuskan aksi korporasi seperti penerbitan saham baru atau perubahan permodalan. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPSLB yang dijanjikan terbit 13 Oktober 2026, karena di situlah agenda sesungguhnya baru akan terungkap, sementara pemegang saham yang ingin mengusulkan mata acara harus mengirim surat ke direksi paling lambat 6 Oktober 2026 dan pencatatan pemegang saham yang berhak hadir ditutup 12 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "niro-catat-rugi-melebar-jadi-rp237-6-miliar-di-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "NIRO Catat Rugi [Melebar] Jadi Rp237,6 Miliar di Semester I",
+  "deck": "Laporan keuangan interim per 30 Juni 2026 menunjukkan rugi bersih NIRO melebar ke Rp237,6 miliar, ekuitas turun, dan utang bank jatuh tempo setahun ke depan naik hampir tiga kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:48:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260928165640-64374-0/FinancialStatement-2026-II-NIRO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NIRO",
+  "tags": [
+   "NIRO",
+   "properti",
+   "laporan keuangan interim",
+   "rugi bersih"
+  ],
+  "body": [
+   "City Retail Developments Tbk (NIRO), yang sebelumnya bernama PT Nirvana Development Tbk, menyampaikan laporan keuangan konsolidasian interim yang telah ditelaah secara terbatas oleh KAP Purwanto Susanti dan Surja, anggota jaringan Ernst & Young, untuk periode enam bulan yang berakhir 30 Juni 2026. Partner penanggung jawab, Edward Dharmadi, memberikan opini wajar tanpa modifikasian atau pengecualian atas laporan bertanggal 18 September 2026. Pendapatan perusahaan naik dari Rp728,79 miliar pada semester I 2025 menjadi Rp817,77 miliar pada semester I 2026, mendorong laba bruto naik dari Rp359,30 miliar menjadi Rp418,97 miliar.",
+   "Meski penjualan tumbuh, laba usaha nyaris stagnan di Rp182,95 miliar, turun tipis dari Rp184,89 miliar tahun sebelumnya, karena tergerus kerugian selisih kurs yang melonjak dari Rp23,02 miliar menjadi Rp112,18 miliar. Akibatnya, rugi bersih periode berjalan melebar dari Rp191,36 miliar menjadi Rp237,59 miliar, dan rugi komprehensif melebar dari Rp180,47 miliar menjadi Rp257,07 miliar. Rugi per saham dasar ikut bertambah dari minus Rp3,09 menjadi minus Rp4,23 per lembar.",
+   "Di sisi neraca, total aset turun tipis 0,35 persen menjadi Rp14,33 triliun, sementara total liabilitas naik 2,15 persen menjadi Rp9,80 triliun, sesuai surat penjelasan yang diteken Direktur Utama Iwan Sanyoto kepada Bursa Efek Indonesia karena perubahan itu masih di bawah ambang 20 persen yang mewajibkan penjelasan rinci. Kas dan setara kas naik signifikan dari Rp684,42 miliar menjadi Rp1,23 triliun, tapi porsi utang bank jangka panjang yang jatuh tempo dalam satu tahun ke depan melonjak dari Rp446,27 miliar menjadi Rp1,39 triliun, seiring utang bank jangka panjang di luar bagian jatuh tempo itu turun dari Rp6,40 triliun menjadi Rp5,62 triliun. Total ekuitas ikut menyusut dari Rp4,79 triliun menjadi Rp4,53 triliun, seiring defisit yang terus bertambah dari Rp863,54 miliar menjadi Rp957,40 miliar."
+  ],
+  "fotoAdegan": "Construction cranes towering over a partially finished shopping mall and apartment tower on the outskirts of Jakarta, dusk light",
+  "takeaway": "Laporan ini condong negatif bagi NIRO, sebab kenaikan pendapatan 12 persen tidak cukup menutup lonjakan kerugian selisih kurs yang membuat rugi bersih melebar dari Rp191,4 miliar menjadi Rp237,6 miliar. Pos yang tersentuh adalah ekuitas, yang tergerus dari Rp4,79 triliun menjadi Rp4,53 triliun karena rugi periode berjalan terus menambah defisit yang sudah tercatat; ekuitas dipantau pelaku pasar karena angka ini mencerminkan kekayaan bersih yang tersisa untuk pemegang saham setelah semua utang dilunasi. Laba per saham, yaitu rugi bersih dibagi jumlah saham beredar, juga melebar dari minus Rp3,09 menjadi minus Rp4,23, tanda bahwa setiap lembar saham menanggung kerugian lebih besar dibanding tahun lalu. Yang perlu dipantau berikutnya adalah utang bank senilai Rp1,39 triliun yang kini jatuh tempo dalam satu tahun ke depan, naik hampir tiga kali lipat dari periode sebelumnya, karena kemampuan perusahaan melunasi atau memperpanjang utang ini akan terlihat dari laporan keuangan kuartal berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ptmr-akui-langgar-aturan-transaksi-afiliasi-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "PTMR Akui [Langgar] Aturan Transaksi Afiliasi ke Bursa",
+  "deck": "PTMR mengakui pelanggaran aturan transaksi afiliasi dan menyebut rencana akuisisi oleh Deep Source Pte. Ltd. masih tertahan menunggu hasil pemeriksaan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T16:48:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76dab57f16_d580bf6c80.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTMR",
+  "tags": [
+   "PTMR",
+   "suspensi saham",
+   "transaksi afiliasi",
+   "Deep Source"
+  ],
+  "body": [
+   "PT Master Print Tbk (PTMR) mengirim surat jawaban ke PT Bursa Efek Indonesia pada 28 September 2026 menanggapi surat kedua bursa nomor S-12401/BEI.PP2/09-2026 tanggal 24 September 2026 mengenai permohonan pencabutan suspensi perdagangan sahamnya. Surat ditandatangani oleh Direktur Utama Ardi Kusuma dan disampaikan melalui sistem pelaporan elektronik oleh Direktur Edward Kusuma. Dalam jawaban itu, PTMR pertama-tama mengoreksi laporan piutang pihak berelasi, yaitu dana yang dipinjamkan perusahaan ke pihak terafiliasi, per 31 Agustus 2026, setelah Bursa menemukan saldo piutang PT Digital Koding Solusindo sebesar Rp6,5 miliar yang tercatat dalam rincian transaksi tetapi tidak muncul di tabel ringkasan yang sebelumnya diserahkan.",
+   "Bagian paling signifikan dari jawaban ini adalah pengakuan PTMR bahwa perusahaan tidak mematuhi POJK No. 42/POJK.04/2020, aturan Otoritas Jasa Keuangan yang mewajibkan pengumuman terbuka untuk transaksi dengan pihak terafiliasi bernilai besar. Ketidakpatuhan itu menyangkut pinjaman pokok yang dicatat sebagai piutang lain-lain kepada PT Kencana Usaha Sentosa dan PT Digital Koding Solusindo, yang menurut Perseroan seharusnya sudah diumumkan ke publik namun belum dilakukan sampai surat ini terbit. PTMR meminta arahan dari tim pemeriksa OJK soal langkah selanjutnya, dan berjanji menagih pembayaran sebagian dari kedua pihak itu sepanjang Oktober hingga 31 Desember 2026. Untuk tiga pihak berelasi lain, yaitu PT Sejahtera Putra Kusuma, PT Mitra Buana Asri, dan PT Sentra Citra Lestari, Perseroan menyatakan total nilai pinjamannya masih di bawah Rp5 miliar sehingga dianggap tidak memerlukan pengumuman terbuka. Perseroan juga menyebut sudah menagih bunga dari PT Global Putra Kusuma yang telah membukukan laba, dan akan menagih bunga dari PT Sentra Citra Lestari pada 30 September 2026.",
+   "Soal uang muka pembelian ke enam pihak vendor, PTMR mencatat penyisihan penurunan nilai, yaitu cadangan kerugian jika dana itu tak kembali, sebesar Rp9.249.799.245 per 30 Juni 2026. Perseroan menargetkan penyelesaian uang muka itu paling lambat 31 Desember 2026, namun proyeksi keuangan terbaru masih menunjukkan saldo tersisa Rp21.894.767.850 pada tanggal yang sama, karena negosiasi dengan vendor terkait belum selesai sejak akhir 2025. Sampai surat ini diterbitkan, belum ada realisasi pengiriman barang maupun pengembalian dana, dan Perseroan menyatakan belum ada perubahan target penyelesaian.",
+   "Terkait rencana pengambilalihan pengendalian PTMR oleh Deep Source Pte. Ltd., Perseroan mengonfirmasi bahwa batas waktu penyelesaian transaksi dalam Perjanjian Jual Beli Saham sudah lewat sejak 30 Juni 2026, tetapi Deep Source belum mengirim pemberitahuan pengakhiran perjanjian. Secara informal, Deep Source disebut masih berminat melanjutkan rencana itu sambil menunggu hasil pemeriksaan Otoritas Jasa Keuangan terhadap PTMR, melalui Surat Tugas ST-12/PM.22/2026 tanggal 3 Februari 2026, dan terhadap PT Mitra Pack Tbk, melalui ST-18/PM.22/2026 tanggal 13 Februari 2026. Sampai saat ini belum ada syarat pendahuluan transaksi yang terpenuhi, belum ada pembayaran harga saham, dan belum ada target penyelesaian transaksi. PTMR juga mengutip surat OJK nomor S-1003/PM.222/2026 yang menyatakan rapat pemegang saham luar biasa dan rapat pemegang saham independen untuk rencana akuisisi PT Samudera Layar Nusantara, pengalihan bisnis ke PT Mitra Pack Tbk, dan penjualan saham PT Global Putra Kusuma belum bisa digelar selama pemeriksaan OJK terhadap PTMR dan PT Mitra Pack Tbk masih berjalan, karena sebagian aset yang akan dialihkan menjadi objek pemeriksaan tersebut."
+  ],
+  "fotoAdegan": "Printing press rollers feeding large sheets of paper through heavy machinery on a factory floor, workers in safety vests nearby",
+  "takeaway": "Laporan ini condong negatif bagi PTMR karena perusahaan sendiri mengakui melanggar aturan transaksi dengan pihak berelasi, dan rencana pengambilalihan oleh investor baru masih menggantung tanpa kepastian. Yang tersentuh adalah piutang pihak berelasi, dana yang dipinjamkan perusahaan ke pihak-pihak terafiliasi seperti PT Kencana Usaha Sentosa dan PT Digital Koding Solusindo, yang menurut pengakuan Perseroan seharusnya sudah diumumkan ke publik sejak lama karena nilainya melebihi ambang batas POJK No. 42/POJK.04/2020, sehingga keterlambatan ini berpotensi menambah risiko sanksi dari OJK dan Bursa. Uang muka ke enam vendor senilai lebih dari Rp21,8 miliar yang ditargetkan selesai akhir tahun ini juga masih macet karena negosiasi belum tuntas, sehingga ada risiko sebagian dana itu tidak kembali secara penuh. Yang perlu dipantau selanjutnya adalah penagihan bunga ke PT Sentra Citra Lestari yang dijanjikan rampung 30 September 2026, pembayaran sebagian piutang dari PT Kencana Usaha Sentosa dan PT Digital Koding Solusindo sepanjang Oktober hingga Desember 2026, serta hasil pemeriksaan OJK terhadap PTMR dan PT Mitra Pack Tbk yang akan menentukan apakah rapat pemegang saham untuk rencana akuisisi dan pengambilalihan oleh Deep Source Pte. Ltd. bisa dilanjutkan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "wika-jadwalkan-rupo-obligasi-tahap-i-2020-27-oktober",

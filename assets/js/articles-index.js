@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "aspi-catat-rugi-melebar-162-jelang-public-expose-rugi",
+  "category": "Aksi Korporasi",
+  "title": "ASPI Catat Rugi Melebar 162% Jelang Public Expose [rugi]",
+  "deck": "Materi public expose ASPI menunjukkan rugi sebelum pajak melebar jadi Rp1,95 miliar pada semester I 2026, sementara pendapatan turun 16 persen dan ekuitas menyusut 3 persen.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASPI",
+   "public expose",
+   "properti",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fa3e2daf4_f10c580b64.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amor-rencanakan-refloat-5-08-juta-saham-untuk-esop-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Rencanakan Refloat 5,08 Juta Saham untuk [ESOP] Karyawan",
+  "deck": "Ashmore Asset Management Indonesia (AMOR) berencana mengalihkan hingga 5.084.827 saham treasuri ke karyawan lewat program ESOP, menunggu persetujuan RUPST 4 November 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMOR",
+   "ESOP",
+   "saham treasuri",
+   "RUPST"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bb8bbc24c2_d5202e49ee.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untr-jadwalkan-dividen-interim-rp430-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Jadwalkan [Dividen] Interim Rp430 per Saham",
+  "deck": "United Tractors (UNTR) menjadwalkan dividen interim Rp430 per saham, total hingga Rp1,48 triliun, dibayar 26 Oktober 2026 kepada pemegang saham per 8 Oktober 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "dividen interim",
+   "United Tractors",
+   "alat berat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/608f731b1f_4be4d5de62.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dada-bagikan-dividen-tunai-rp0-27-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "DADA Bagikan [Dividen] Tunai Rp0,27 per Saham",
+  "deck": "PT Diamond Citra Propertindo Tbk akan membagikan dividen tunai Rp2,006 miliar dari laba 2025, dibayarkan paling lambat 28 Oktober 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DADA",
+   "dividen tunai",
+   "pasar modal",
+   "emiten properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ed554c12cb_caa4fa0007.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-balas-bursa-ungkap-proyek-rp1-25-t-dari-grup-danantara",
+  "category": "Aksi Korporasi",
+  "title": "INPS Balas Bursa, Ungkap Proyek Rp1,25 T dari Grup [Danantara]",
+  "deck": "INPS merinci rencana suntikan modal Rp125 miliar dari pengendali GIGP dan akuisisi perusahaan otomotif bermodal proyek Rp1,25 triliun untuk keluar dari status ekuitas negatif.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "PMTHMETD",
+   "akuisisi",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c6947e4615_86adcef027.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fifa-salurkan-dana-obligasi-rp2-49-triliun-untuk-pembiayaan-kredit",
+  "category": "Aksi Korporasi",
+  "title": "FIFA salurkan dana obligasi Rp2,49 triliun untuk [pembiayaan] kredit",
+  "deck": "FIFA melaporkan realisasi penggunaan dana obligasi berkelanjutan VII tahap III senilai Rp2,5 triliun, seluruhnya sudah disalurkan untuk pembiayaan kredit tanpa sisa dana.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FIFA",
+   "obligasi",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93c9fbf420_2132f95ee0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fifa-laporkan-realisasi-dana-obligasi-tahap-i-rp187-5-miliar",
+  "category": "Aksi Korporasi",
+  "title": "FIFA laporkan realisasi dana obligasi [Tahap I] Rp187,5 miliar",
+  "deck": "Perseroan melaporkan seluruh dana bersih Rp187,53 miliar dari Obligasi Keberlanjutan Orange I Tahap I sudah tersalur untuk modal kerja pembiayaan, dengan sisa Rp1 miliar ditempatkan di giro bank.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FIFA",
+   "obligasi",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9dbdf4be2c_885416a85f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "transaksi-mata-uang-lokal-ri-naik-259-di-semester-i",
   "category": "Moneter",
   "title": "Transaksi Mata Uang Lokal RI Naik [259%] di Semester I",
@@ -21,6 +133,54 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820626.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "ketr-jadwalkan-rupslb-pada-12-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "KETR Jadwalkan [RUPSLB] pada 12 November 2026",
+  "deck": "Ketrosden Triasmitra menjadwalkan RUPSLB pada 12 November 2026, dengan tanggal pencatatan pemegang saham 12 Oktober dan batas usulan agenda 6 Oktober 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "RUPSLB",
+   "Ketrosden Triasmitra",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/18b46bd0b0_88144dd5e5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "niro-catat-rugi-melebar-jadi-rp237-6-miliar-di-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "NIRO Catat Rugi [Melebar] Jadi Rp237,6 Miliar di Semester I",
+  "deck": "Laporan keuangan interim per 30 Juni 2026 menunjukkan rugi bersih NIRO melebar ke Rp237,6 miliar, ekuitas turun, dan utang bank jatuh tempo setahun ke depan naik hampir tiga kali lipat.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NIRO",
+   "properti",
+   "laporan keuangan interim",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260928165640-64374-0/FinancialStatement-2026-II-NIRO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptmr-akui-langgar-aturan-transaksi-afiliasi-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "PTMR Akui [Langgar] Aturan Transaksi Afiliasi ke Bursa",
+  "deck": "PTMR mengakui pelanggaran aturan transaksi afiliasi dan menyebut rencana akuisisi oleh Deep Source Pte. Ltd. masih tertahan menunggu hasil pemeriksaan OJK.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTMR",
+   "suspensi saham",
+   "transaksi afiliasi",
+   "Deep Source"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76dab57f16_d580bf6c80.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "wika-jadwalkan-rupo-obligasi-tahap-i-2020-27-oktober",
@@ -6355,166 +6515,6 @@ var ARTICLES = [
    "Trimuda Nuansa Citra"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a3c07675d1_8e848f7f7d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-dan-blu-buka-investasi-emas-modal-rp10-000",
-  "category": "Perbankan",
-  "title": "Pegadaian dan blu Buka Investasi Emas Modal [Rp10.000]",
-  "deck": "BCA Digital dan Pegadaian meluncurkan bluInvest Emas di aplikasi blu, memungkinkan nasabah membeli dan memantau emas digital mulai dari Rp10.000 dalam satu aplikasi.",
-  "date": "21 September 2026",
-  "image": "assets/img/pegadaian-dan-blu-buka-investasi-emas-modal-rp10-000.jpg",
-  "imageV": "mub6o7in",
-  "tags": [
-   "Pegadaian",
-   "blu BCA Digital",
-   "Tabungan Emas",
-   "investasi emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468427-pegadaian-gandeng-blu-lewat-bluinvest-emas-dengan-modal-rp10-ribu-investasi-emas-makin-mudah"
- },
- {
-  "slug": "mdla-direksi-beli-100-000-saham-senilai-rp20-4-juta",
-  "category": "Aksi Korporasi",
-  "title": "MDLA: Direksi [Beli] 100.000 Saham Senilai Rp20,4 Juta",
-  "deck": "Direksi PT Medela Potentia Tbk, Edbert Orotodan, menambah kepemilikan saham perseroan sebanyak 100.000 lembar pada 18 September 2026, menaikkan hak suaranya menjadi 0,014%.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLA",
-   "Medela Potentia",
-   "kepemilikan saham direksi",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-8484-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fore-pemegang-saham-tambah-kepemilikan-jadi-6",
-  "category": "Aksi Korporasi",
-  "title": "FORE: Pemegang Saham [Tambah] Kepemilikan Jadi 6%",
-  "deck": "Ferry Sudjono membeli 2,21 juta saham FORE senilai sekitar Rp1,68 miliar pada 16 September 2026, menaikkan hak suaranya dari 5,97 persen menjadi 6 persen.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORE"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0022-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-targetkan-setop-impor-bensin-lewat-e50",
-  "category": "Energi",
-  "title": "ESDM Targetkan Setop Impor Bensin Lewat [E50]",
-  "deck": "Menteri ESDM Bahlil Lahadalia menyebut RI berpeluang tak lagi impor bensin jadi jika program E50 berhasil diterapkan, menyusul suksesnya biodiesel B50.",
-  "date": "21 September 2026",
-  "image": "assets/img/esdm-targetkan-setop-impor-bensin-lewat-e50.jpg",
-  "imageV": "mub6o8r2",
-  "tags": [
-   "E50",
-   "bioetanol",
-   "impor BBM",
-   "ESDM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468420-dorong-penerapan-e50-menteri-esdm-bahlil-sebut-ri-berpeluang-tak-lagi-impor-bensin-jadi"
- },
- {
-  "slug": "ppgl-rinci-rencana-pmthmetd-77-juta-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Rinci Rencana [PMTHMETD] 77 Juta Saham Baru",
-  "deck": "PPGL merilis keterbukaan informasi rinci soal rencana penerbitan hingga 77.117.802 saham baru tanpa hak memesan efek terlebih dahulu, dengan RUPSLB dijadwalkan 23 Oktober 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "PMTHMETD",
-   "rights issue",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b217cbc52_5cce030f7a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-15-58",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 15,58%",
-  "deck": "Samuel Sekuritas Indonesia selaku direksi NSSS mencatat penambahan bersih 363,4 juta saham lewat transaksi repo pada 21 September 2026, mengerek hak suaranya ke 15,58 persen.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "repo saham",
-   "kepemilikan direksi",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7501-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ojk-batasi-kepemilikan-saham-bursa-efek-maksimal-5",
-  "category": "Pasar Modal",
-  "title": "OJK [Batasi] Kepemilikan Saham Bursa Efek Maksimal 5%",
-  "deck": "POJK Nomor 13/2026 membuka jalan demutualisasi Bursa Efek Indonesia, dengan batas kepemilikan saham maksimal 5 persen per pihak.",
-  "date": "21 September 2026",
-  "image": "assets/img/ojk-batasi-kepemilikan-saham-bursa-efek-maksimal-5.jpg",
-  "imageV": "mub6o95a",
-  "tags": [
-   "OJK",
-   "POJK 13/2026",
-   "demutualisasi",
-   "bursa efek"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468418-ojk-terbitkan-aturan-baru-pemegang-saham-bursa-efek-kepemilikan-dibatasi-maksimal-5-persen"
- },
- {
-  "slug": "pssi-jadwalkan-rupslb-pada-28-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "PSSI Jadwalkan [RUPSLB] pada 28 Oktober 2026",
-  "deck": "PT IMC Pelita Logistik Tbk mengumumkan rencana RUPSLB 28 Oktober 2026, dengan cutoff pemegang saham 5 Oktober dan pemanggilan resmi 6 Oktober 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "RUPSLB",
-   "IMC Pelita Logistik",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/62cacb1ade_aa34ec18a7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupst-aims-sepakat-tanpa-dividen-laba-ditahan-jadi-modal",
-  "category": "Aksi Korporasi",
-  "title": "RUPST AIMS Sepakat [Tanpa Dividen], Laba Ditahan Jadi Modal",
-  "deck": "RUPST AIMS mengesahkan laporan tahunan 2025, memutuskan tidak membagikan dividen, dan menyerahkan penentuan gaji direksi serta penunjukan auditor 2026 ke Dewan Komisaris.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AIMS",
-   "RUPST",
-   "dividen",
-   "laba ditahan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/416d501ab7_0799f21681.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-masukkan-cash-ke-pemantauan-khusus-ekuitas-negatif",
-  "category": "Aksi Korporasi",
-  "title": "BEI Masukkan CASH ke Pemantauan Khusus, Ekuitas [Negatif]",
-  "deck": "Bursa Efek Indonesia memasukkan saham CASH ke daftar Pemantauan Khusus mulai 22 September 2026 setelah ekuitas perusahaan tercatat negatif pada laporan keuangan terakhir.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "Cashlez",
-   "Pemantauan Khusus",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3f2a0425ed_b2aed5aa6b.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "egqXaZrvu-I",
+  "title": "Bank Indonesia Pertahankan BI Rate di Level 5,75 Persen",
+  "category": "Moneter",
+  "program": "Kabar Siang",
+  "summary": "Bank Indonesia memutuskan mempertahankan suku bunga acuan BI Rate di level 5,75 persen pada rapat dewan gubernur terbaru.",
+  "takeaway": "Keputusan suku bunga acuan ini relevan bagi pembaca karena berpengaruh langsung pada biaya kredit, nilai tukar rupiah, dan iklim investasi."
+ },
+ {
   "id": "h05p001jB5s",
   "title": "Industri Kerajinan Tangan Jadi Identitas Ekonomi Bantul",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Presiden Prabowo Subianto menyatakan kemajuan transportasi dapat menumbuhkan perekonomian, disampaikan sebelum meresmikan LRT rute Kelapa Gading-Manggarai.",
   "takeaway": "Pernyataan ini menegaskan pandangan pemerintah bahwa investasi infrastruktur transportasi menjadi salah satu pendorong pertumbuhan ekonomi nasional."
- },
- {
-  "id": "5gWtcjrGZqc",
-  "title": "Temuan Beras Fortifikasi Dijual dengan Harga Tak Wajar",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Pertanian Andi Amran Sulaiman mengungkap 25 merek beras yang diduga beras fortifikasi palsu, diduga tidak memenuhi kadar sesuai standar namun dijual dengan harga tidak wajar.",
-  "takeaway": "Temuan ini relevan bagi pembaca ekonomi karena menyangkut standar mutu pangan dan praktik penetapan harga di pasar beras yang berdampak pada konsumen dan pelaku usaha."
  }
 ];

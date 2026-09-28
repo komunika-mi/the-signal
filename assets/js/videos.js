@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "egqXaZrvu-I",
+  "title": "Bank Indonesia Pertahankan BI Rate di Level 5,75 Persen",
+  "category": "Moneter",
+  "program": "Kabar Siang",
+  "summary": "Bank Indonesia memutuskan mempertahankan suku bunga acuan BI Rate di level 5,75 persen pada rapat dewan gubernur terbaru.",
+  "takeaway": "Keputusan suku bunga acuan ini relevan bagi pembaca karena berpengaruh langsung pada biaya kredit, nilai tukar rupiah, dan iklim investasi.",
+  "terbit": "2026-09-28T05:45:20+00:00"
+ },
+ {
   "id": "h05p001jB5s",
   "title": "Industri Kerajinan Tangan Jadi Identitas Ekonomi Bantul",
   "category": "UMKM",

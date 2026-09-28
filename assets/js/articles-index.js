@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "marketplace-pungut-pph-pedagang-online-mulai-1-november",
+  "category": "UMKM",
+  "title": "Marketplace Pungut PPh Pedagang Online Mulai [1 November]",
+  "deck": "Ditjen Pajak akan mulai memungut PPh 0,5 persen dari pedagang online lewat Tokopedia, Shopee, Lazada, dan Blibli pada 1 November 2026, mundur dari jadwal semula.",
+  "date": "28 September 2026",
+  "image": "assets/img/marketplace-pungut-pph-pedagang-online-mulai-1-november.jpg",
+  "imageV": "mukyy3u1",
+  "tags": [
+   "pajak marketplace",
+   "pph pedagang online",
+   "pph 22",
+   "djp"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469895-mulai-1-november-2026-marketplace-pungut-pph-05-persen-pedagang-online"
+ },
+ {
   "slug": "post-fitch-pangkas-peringkat-ke-rd-usai-gagal-bayar-sukuk",
   "category": "Aksi Korporasi",
   "title": "POST: Fitch Pangkas Peringkat ke [RD] usai Gagal Bayar Sukuk",
@@ -6503,22 +6520,6 @@ var ARTICLES = [
    "repo saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7514-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "safe-pengendali-jual-188-600-saham-lewat-repo-suara-ke-56-59",
-  "category": "Aksi Korporasi",
-  "title": "SAFE: Pengendali Jual 188.600 Saham Lewat [Repo], Suara ke 56,59%",
-  "deck": "Infiniti Wahana melepas 188.600 saham Steady Safe lewat repurchase agreement pada 17 September, hak suara pengendali turun tipis ke 56,59%.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAFE",
-   "Steady Safe",
-   "kepemilikan saham",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-1402-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "transisi-hijau-butuh-talenta-baru-kata-petrokimia-gresik",
+  "category": "BUMN",
+  "title": "Transisi Hijau Butuh [Talenta] Baru, Kata Petrokimia Gresik",
+  "deck": "Petrokimia Gresik menyebut transisi industri hijau menuntut kompetensi kerja baru, sekaligus menargetkan penurunan emisi 30 persen pada 2030 menuju nol emisi bersih 2060.",
+  "date": "28 September 2026",
+  "image": "assets/img/transisi-hijau-butuh-talenta-baru-kata-petrokimia-gresik.jpg",
+  "imageV": "mukslkd4",
+  "tags": [
+   "Petrokimia Gresik",
+   "industri hijau",
+   "talenta kerja",
+   "emisi karbon"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469855-transformasi-industri-hijau-dorong-kebutuhan-talenta-baru-petrokimia-gresik-bawa-isu-ke-forum-pbb"
+ },
+ {
   "slug": "trim-siapkan-dana-rp100-miliar-untuk-pelunasan-obligasi-seri-a",
   "category": "Aksi Korporasi",
   "title": "TRIM Siapkan Dana Rp100 Miliar untuk [Pelunasan] Obligasi Seri A",
@@ -21,6 +38,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupiah-melemah-ke-rp17-948-usai-data-as-kuat",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.948 usai Data AS Kuat",
+  "deck": "Rupiah melemah 45 poin ke Rp17.948 per dolar AS, tertekan data ekonomi AS yang lebih kuat dari perkiraan dan naiknya peluang kenaikan suku bunga The Fed Oktober.",
+  "date": "28 September 2026",
+  "image": "assets/img/rupiah-melemah-ke-rp17-948-usai-data-as-kuat.jpg",
+  "imageV": "mukslksv",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "The Fed",
+   "nilai tukar"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469854-rupiah-melemah-ke-rp17948-per-dolar-as-seiring-data-penjualan-barang-tahan-lama-as-lebih-kuat"
+ },
+ {
   "slug": "irsx-rombak-direksi-komisaris-dan-tegaskan-rencana-rights-issue",
   "category": "Aksi Korporasi",
   "title": "IRSX Rombak Direksi-Komisaris dan Tegaskan Rencana [Rights Issue]",
@@ -35,6 +69,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/66c68cd74d_5fa8ad5519.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-pangan-28-september-cabai-rawit-rp113-750-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 28 September: Cabai Rawit [Rp113.750]/Kg",
+  "deck": "PIHPS Bank Indonesia mencatat harga pangan strategis hari ini, dengan cabai rawit merah jadi komoditas termahal di Rp113.750 per kilogram.",
+  "date": "28 September 2026",
+  "image": "assets/img/harga-pangan-28-september-cabai-rawit-rp113-750-kg.jpg",
+  "imageV": "muksll8o",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai rawit"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469848-harga-pangan-hari-ini-28-september-2026-cabai-rawit-rp113750-per-kilogram-hingga-telur-ayam-rp29400-per-kilogram"
  },
  {
   "slug": "ipac-panggil-rupslb-bahas-rencana-go-private-dan-delisting",
@@ -67,6 +118,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a27a7e30d_4d7b7e15e3.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-turun-rp16-000-ke-rp2-597-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Rp16.000 ke Rp2.597.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp16.000 menjadi Rp2.597.000 per gram pada 28 September 2026, harga buyback ikut turun ke Rp2.422.000.",
+  "date": "28 September 2026",
+  "image": "assets/img/harga-emas-antam-turun-rp16-000-ke-rp2-597-000-gram.jpg",
+  "imageV": "muksllmx",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469836-harga-emas-antam-hari-ini-28-september-2026-terpantau-turun-rp16000-jadi-rp2597000-per-gram"
  },
  {
   "slug": "crab-rombak-direksi-beston-barto-jadi-dirut-baru",
@@ -6452,73 +6519,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6915255ac7_6b94824fe9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asean-godok-peta-jalan-semikonduktor-dan-koridor-kalimantan",
-  "category": "Global",
-  "title": "ASEAN Godok Peta Jalan [Semikonduktor] dan Koridor Kalimantan",
-  "deck": "Pertemuan Menteri Ekonomi ASEAN di Manila membahas progres agenda prioritas ekonomi, dari peta jalan semikonduktor hingga kesiapan Koridor Kalimantan yang ditargetkan beroperasi 2027.",
-  "date": "21 September 2026",
-  "image": "assets/img/asean-godok-peta-jalan-semikonduktor-dan-koridor-kalimantan.jpg",
-  "imageV": "muav8f7y",
-  "tags": [
-   "ASEAN",
-   "Semikonduktor",
-   "Perdagangan Internasional",
-   "Borneo Corridor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-apresiasi-kemajuan-capaian-prioritas-ekonomi-asean-di-bawah-keketuaan-filipina",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "kopi-jawab-permintaan-bursa-soal-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "KOPI Jawab Permintaan Bursa soal [Volatilitas] Sahamnya",
-  "deck": "PT Mitra Energi Persada Tbk menegaskan tidak ada informasi material di balik pergerakan saham KOPI, menyusul permintaan penjelasan dari Bursa Efek Indonesia.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOPI",
-   "Mitra Energi Persada",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eddf65841b_2041658f23.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-angkut-5-1-ton-sampah-dari-kali-krukut",
-  "category": "BUMN",
-  "title": "Telkom [Angkut] 5,1 Ton Sampah dari Kali Krukut",
-  "deck": "TelkomGroup bersama Pemprov DKI Jakarta mengangkut 5,1 ton sampah dari Kali Krukut dalam aksi bersih memperingati Hari Sungai dan World Cleanup Day.",
-  "date": "21 September 2026",
-  "image": "assets/img/telkom-angkut-5-1-ton-sampah-dari-kali-krukut.jpg",
-  "imageV": "muav8g62",
-  "tags": [
-   "Telkom",
-   "Kali Krukut",
-   "World Cleanup Day",
-   "ESG"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468365-peringati-hari-sungai-dan-world-cleanup-day-telkomgroup-angkut-51-ton-sampah-dari-kali-krukut"
- },
- {
-  "slug": "wika-jadwalkan-rupsu-sukuk-mudharabah-tahap-i-2021-19-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Jadwalkan [RUPSU] Sukuk Mudharabah Tahap I 2021, 19 Oktober",
-  "deck": "WIKA mengumumkan rencana rapat pemegang Sukuk Mudharabah Berkelanjutan II Tahap I 2021 pada 19 Oktober 2026, salah satu dari beberapa rapat kreditur yang dijadwalkan setelah gagal bayar.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "gagal bayar",
-   "RUPSU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bf99bb7d9f_6ecde0cc22.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "transisi-hijau-butuh-talenta-baru-kata-petrokimia-gresik",
+  "category": "BUMN",
+  "title": "Transisi Hijau Butuh [Talenta] Baru, Kata Petrokimia Gresik",
+  "deck": "Petrokimia Gresik menyebut transisi industri hijau menuntut kompetensi kerja baru, sekaligus menargetkan penurunan emisi 30 persen pada 2030 menuju nol emisi bersih 2060.",
+  "image": "assets/img/transisi-hijau-butuh-talenta-baru-kata-petrokimia-gresik.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T10:35:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469855-transformasi-industri-hijau-dorong-kebutuhan-talenta-baru-petrokimia-gresik-bawa-isu-ke-forum-pbb",
+  "tags": [
+   "Petrokimia Gresik",
+   "industri hijau",
+   "talenta kerja",
+   "emisi karbon"
+  ],
+  "body": [
+   "Petrokimia Gresik membawa isu kebutuhan tenaga kerja baru untuk industri rendah karbon ke forum internasional di New York. Direktur Utama Daconi Khotob menegaskan bahwa peralihan ke industri hijau bukan sekadar soal ganti teknologi dan sumber energi, tapi juga soal menyiapkan pekerja dengan keahlian yang berbeda dari sekarang.",
+   "Pernyataan itu disampaikan dalam forum Global Talent for Sustainable Development di Konsulat Jenderal Republik Indonesia New York, Selasa 22 September waktu Indonesia, yang dihadiri diaspora, mahasiswa, pelaku usaha, dan praktisi keberlanjutan asal Indonesia. Daconi menyebut investasi pada teknologi hijau perlu dibarengi investasi pada manusia, karena teknologi itu baru berguna kalau ada orang yang mampu merancang dan mengoperasikannya.",
+   "Menurutnya, profesi seperti insinyur, agronom, atau akuntan tetap ada, tapi alat kerja dan ukuran keberhasilan mereka akan berubah mengikuti tuntutan efisiensi energi, energi terbarukan, dan pengelolaan emisi karbon. Ia mendorong pelatihan ulang dan pelatihan lanjutan bagi pekerja, serta mengajak talenta Indonesia yang berkarier di luar negeri untuk membawa pulang pengetahuan dan pengalamannya.",
+   "Isu talenta ini melekat pada target dekarbonisasi Petrokimia Gresik sendiri, yakni memangkas emisi 30 persen pada 2030 dibandingkan proyeksi tanpa upaya tambahan yang diperkirakan mencapai 3,46 juta ton setara karbon dioksida. Target itu menjadi bagian dari peta jalan perusahaan menuju nol emisi bersih pada 2060."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting steel pipelines and tanks at a large fertilizer plant, steam rising, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/28/6ab9df6cc89c0-transformasi-industri-hijau-dorong-kebutuhan-talenta-baru-petrokimia-gresik-bawa-isu-ke-forum-pbb_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret di sini adalah target Petrokimia Gresik memangkas emisi 30 persen pada 2030, dibandingkan proyeksi kalau perusahaan tidak melakukan langkah tambahan yang diperkirakan mencapai 3,46 juta ton setara karbon dioksida, sebagai bagian dari rencana menuju nol emisi bersih pada 2060. Perusahaan mulai mengaitkan target itu dengan urusan tenaga kerja, seperti pelatihan ulang karyawan di bidang teknik, pertanian, digital, hingga keuangan, dan mengajak diaspora Indonesia yang berkarier di luar negeri untuk pulang membawa keahlian sejenis. Yang kena dampak langsung adalah karyawan Petrokimia Gresik dan calon pekerja di sektor pendukung transisi hijau, sementara dampak ke harga pupuk atau konsumen sama sekali belum disinggung. Belum jelas apakah ajakan soal talenta ini akan diikuti program pelatihan dengan anggaran dan target jumlah pekerja yang terukur, atau baru sebatas pernyataan di forum internasional. Yang perlu dipantau adalah laporan keberlanjutan atau peta jalan dekarbonisasi resmi Petrokimia Gresik berikutnya, yang akan menunjukkan apakah rencana reskilling ini punya program dan anggaran nyata atau berhenti di wacana.",
+  "imageV": "mukslkd4"
+ },
+ {
   "slug": "trim-siapkan-dana-rp100-miliar-untuk-pelunasan-obligasi-seri-a",
   "category": "Aksi Korporasi",
   "title": "TRIM Siapkan Dana Rp100 Miliar untuk [Pelunasan] Obligasi Seri A",
@@ -29,6 +56,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "rupiah-melemah-ke-rp17-948-usai-data-as-kuat",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.948 usai Data AS Kuat",
+  "deck": "Rupiah melemah 45 poin ke Rp17.948 per dolar AS, tertekan data ekonomi AS yang lebih kuat dari perkiraan dan naiknya peluang kenaikan suku bunga The Fed Oktober.",
+  "image": "assets/img/rupiah-melemah-ke-rp17-948-usai-data-as-kuat.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T10:32:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469854-rupiah-melemah-ke-rp17948-per-dolar-as-seiring-data-penjualan-barang-tahan-lama-as-lebih-kuat",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "The Fed",
+   "nilai tukar"
+  ],
+  "body": [
+   "Nilai tukar rupiah terhadap dolar AS melemah 45 poin atau 0,25 persen pada pembukaan perdagangan Senin, dari Rp17.903 menjadi Rp17.948 per dolar AS. Pelemahan ini terjadi setelah data ekonomi Amerika Serikat keluar lebih kuat dari perkiraan pasar, yang membuat investor semakin yakin bank sentral AS akan menaikkan suku bunga acuannya bulan depan.",
+   "Analis Doo Financial, Lukman Leong, menyebut pemicu utamanya adalah data pesanan barang tahan lama AS periode Agustus yang tidak berubah alias stabil di angka US$338,6 miliar, padahal pasar memperkirakan akan turun 0,4 persen. Data yang lebih baik dari dugaan ini mendorong imbal hasil obligasi pemerintah AS naik, dengan tenor 10 tahun mencapai 5,2 persen dan tenor 30 tahun 5,52 persen, sehingga dana investor cenderung tertarik parkir di aset dolar.",
+   "Faktor lain yang menambah tekanan adalah memanasnya hubungan AS dan Iran, setelah Presiden AS Donald Trump menolak proposal Teheran dalam negosiasi tidak langsung di New York. Iran sebelumnya menawarkan pembukaan jalur pelayaran strategis dan pembicaraan nuklir sebagai imbalan atas pencabutan blokade laut, penghapusan sanksi minyak, serta gencatan senjata di kawasan, sementara AS disebut tengah mempertimbangkan opsi serangan baru setelah pemilu sela November mendatang. Ketegangan ini turut mengerek harga minyak dunia, dengan WTI berada di kisaran US$94,15 per barel dan Brent US$103,2 per barel.",
+   "Investor juga mencermati arah kebijakan The Fed yang makin ketat. Berdasarkan CME FedWatch, peluang kenaikan suku bunga seperempat poin pada pertemuan Oktober kini mencapai 70 persen, melonjak dari 50 persen di awal pekan."
+  ],
+  "fotoAdegan": "Oil tanker anchored off an Indonesian port at dawn, tugboats alongside, hazy skyline in the distance",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bddf204303e-ilustrasi-rupiah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang sebenarnya bergerak bukan pelemahan rupiah yang tipis, melainkan naiknya keyakinan pasar bahwa The Fed, bank sentral Amerika Serikat, akan menaikkan suku bunga acuan pada pertemuan Oktober, dari peluang 50 persen di awal pekan menjadi 70 persen sekarang. Suku bunga AS yang lebih tinggi membuat dana global lebih tertarik parkir di aset dolar, apalagi imbal hasil obligasi pemerintah AS tenor 10 tahun sudah mencapai 5,2 persen, sehingga permintaan dolar naik dan mata uang berkembang seperti rupiah ikut tertekan. Ditambah harga minyak dunia yang naik akibat ketegangan AS dan Iran yang belum reda, biaya impor energi berpotensi ikut naik, yang membebani pelaku usaha dan bisa terasa ke harga barang di dalam negeri. Pihak yang paling merasakan tekanan ini adalah importir dan perusahaan dengan utang dalam dolar, sementara eksportir justru diuntungkan oleh rupiah yang lebih lemah. Arah selanjutnya akan ditentukan oleh keputusan The Fed pada pertemuan Oktober, karena bila kenaikan suku bunga itu benar terjadi, tekanan terhadap rupiah kemungkinan berlanjut.",
+  "imageV": "mukslksv"
+ },
+ {
   "slug": "irsx-rombak-direksi-komisaris-dan-tegaskan-rencana-rights-issue",
   "category": "Aksi Korporasi",
   "title": "IRSX Rombak Direksi-Komisaris dan Tegaskan Rencana [Rights Issue]",
@@ -53,6 +107,33 @@ var ARTICLES = [
   "fotoAdegan": "Rows of business attendees seated in a corporate meeting hall in Jakarta, ushers assisting near the aisle, soft morning light through tall windows",
   "takeaway": "Laporan ini netral bagi arah fundamental IRSX: pergantian direksi-komisaris cuma memutar orang yang sama di kursi berbeda, sementara rencana rights issue yang ditegaskan kembali belum punya harga maupun jadwal pasti sehingga dampaknya belum bisa dinilai. Yang perlu dicermati adalah jumlah saham beredar, sebab rencana penambahan modal ini bisa menerbitkan hingga 12,39 miliar saham baru plus 1,86 miliar dari waran, padahal total saham berhak suara saat rapat cuma sekitar 6,2 miliar, sehingga kalau direalisasikan penuh jumlah saham beredar berpotensi tumbuh berkali lipat dan laba per saham makin terbagi ke pemilik yang lebih banyak. Di sisi lain, dana segar dari rights issue bisa memperkuat modal perusahaan kalau memang dipakai untuk ekspansi atau membayar utang. Yang dipantau berikutnya adalah penetapan harga pelaksanaan PMHMETD I dan Waran Seri II oleh direksi baru, karena rapat ini baru menegaskan ulang rencana dari RUPSLB 25 September 2025 tanpa kepastian baru kapan aksi korporasi ini benar-benar dieksekusi.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-pangan-28-september-cabai-rawit-rp113-750-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 28 September: Cabai Rawit [Rp113.750]/Kg",
+  "deck": "PIHPS Bank Indonesia mencatat harga pangan strategis hari ini, dengan cabai rawit merah jadi komoditas termahal di Rp113.750 per kilogram.",
+  "image": "assets/img/harga-pangan-28-september-cabai-rawit-rp113-750-kg.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T10:01:00+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469848-harga-pangan-hari-ini-28-september-2026-cabai-rawit-rp113750-per-kilogram-hingga-telur-ayam-rp29400-per-kilogram",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai rawit"
+  ],
+  "body": [
+   "Bank Indonesia melalui Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional mencatat harga sejumlah bahan pokok untuk 28 September 2026. Cabai rawit merah menjadi komoditas dengan harga tertinggi hari ini, yakni Rp113.750 per kilogram, jauh di atas jenis cabai lainnya. Data harian ini biasa dipakai pedagang pasar maupun rumah tangga sebagai acuan untuk memantau pergerakan harga pangan pokok.",
+   "Untuk kelompok cabai, PIHPS mencatat cabai merah keriting Rp103.450 per kilogram dan cabai rawit hijau Rp60.450 per kilogram. Cabai merah besar tercatat paling murah di antara jenis cabai lainnya, yakni Rp39.000 per kilogram. Selisihnya dengan cabai rawit merah mencapai lebih dari Rp74.000 per kilogram.",
+   "Di kelompok protein hewani, harga telur ayam ras tercatat Rp29.400 per kilogram dan daging ayam ras Rp41.250 per kilogram. Daging sapi kualitas I dijual Rp157.900 per kilogram, sedikit lebih mahal dari kualitas II yang Rp154.600 per kilogram. Untuk bumbu dapur, bawang merah berada di Rp39.500 per kilogram dan bawang putih Rp41.100 per kilogram.",
+   "Harga beras bervariasi menurut kualitas, mulai dari kualitas bawah II Rp14.700 per kilogram hingga kualitas super I yang paling mahal, Rp16.900 per kilogram. Beras kualitas bawah I tercatat Rp15.100 per kilogram, kualitas medium I Rp16.450 per kilogram, medium II Rp15.600 per kilogram, dan super II Rp16.050 per kilogram. Sementara itu, gula pasir kualitas premium dijual Rp20.800 per kilogram dan gula lokal Rp18.600 per kilogram, sedangkan minyak goreng curah tercatat Rp20.100 per liter, minyak goreng kemasan bermerek I Rp25.800 per liter, dan kemasan bermerek II Rp22.650 per liter."
+  ],
+  "fotoAdegan": "Market vendor sorting red and green chili peppers into plastic baskets at an Indonesian wet market stall, early morning.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/03/29/69c8d6b343527-cabai-rawit_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data ini hanya potret harga pada satu hari, tanpa angka pembanding dari kemarin atau pekan lalu, sehingga belum bisa dipastikan apakah cabai rawit merah yang tembus Rp113.750 per kilogram sedang naik, turun, atau memang selalu setinggi ini. Yang jelas terdampak adalah rumah tangga dan pedagang warung makan yang mengandalkan cabai rawit sebagai bumbu harian, karena harganya lebih dari dua kali lipat cabai merah besar yang hanya Rp39.000 per kilogram. Untuk membaca apakah ini kondisi sesaat atau tren berkelanjutan, publikasi PIHPS pada hari-hari berikutnya perlu dibandingkan langsung dengan angka hari ini. Sampai pembanding itu tersedia, yang bisa dipastikan baru besaran harganya, bukan arah pergerakannya.",
+  "imageV": "muksll8o"
  },
  {
   "slug": "ipac-panggil-rupslb-bahas-rencana-go-private-dan-delisting",
@@ -105,6 +186,31 @@ var ARTICLES = [
   "fotoAdegan": "Workers inspecting large rolls of paper moving along a conveyor inside an industrial pulp and paper mill, steam rising",
   "takeaway": "Laporan ini netral bagi LPPI karena hanya menuntaskan program obligasi dan sukuk yang memang sudah direncanakan sejak akhir tahun lalu, bukan keputusan pendanaan baru yang mengubah arah bisnis perusahaan. Pos yang tersentuh adalah beban bunga, yaitu biaya tetap yang harus dibayar perusahaan atas utangnya. Dengan total dana Rp1,68 triliun berbunga tetap 10 sampai 10,5 persen selama 3 sampai 5 tahun, kewajiban bunga LPPI bertambah dan bisa menekan laba bersih jika dana itu tidak dipakai untuk kegiatan yang menghasilkan imbal balik lebih tinggi dari biaya bunganya. Dokumen ini tidak menjelaskan untuk apa dana tersebut akan dipakai, jadi hal itu perlu dipantau lebih lanjut. Yang perlu dicermati berikutnya adalah realisasi pembayaran bunga dan bagi hasil pertama pada 30 Desember 2026 serta keterbukaan lanjutan soal penggunaan dana hasil emisi ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-emas-antam-turun-rp16-000-ke-rp2-597-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Rp16.000 ke Rp2.597.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp16.000 menjadi Rp2.597.000 per gram pada 28 September 2026, harga buyback ikut turun ke Rp2.422.000.",
+  "image": "assets/img/harga-emas-antam-turun-rp16-000-ke-rp2-597-000-gram.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T09:07:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469836-harga-emas-antam-hari-ini-28-september-2026-terpantau-turun-rp16000-jadi-rp2597000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam"
+  ],
+  "body": [
+   "Harga emas batangan Antam pada Minggu, 28 September 2026, tercatat turun Rp16.000 per gram menjadi Rp2.597.000. Perubahan ini penting bagi masyarakat yang menyimpan emas sebagai tabungan atau investasi, karena harga jual maupun harga beli kembali menentukan berapa dana yang bisa didapat atau dikeluarkan pada hari itu.",
+   "Berdasarkan data dari laman resmi Logam Mulia milik PT Aneka Tambang, harga tersebut turun dari posisi sebelumnya di Rp2.613.000 per gram. Harga buyback, yaitu harga saat Antam membeli kembali emas dari masyarakat, juga ikut turun ke Rp2.422.000 per gram. Selisih antara harga jual dan harga buyback saat ini sekitar Rp175.000 per gram, angka yang biasa muncul sebagai margin dalam transaksi emas batangan.",
+   "Antam mengingatkan bahwa harga emas batangan bisa berubah sewaktu-waktu mengikuti pergerakan pasar, sehingga angka yang tercatat pagi ini tidak otomatis berlaku sepanjang hari."
+  ],
+  "fotoAdegan": "Close-up of stacked small gold bullion bars on a velvet tray inside a jewelry counter, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini hanya angka harga dalam satu hari, yaitu harga jual turun Rp16.000 dan harga buyback ikut turun ke Rp2.422.000 per gram. Yang langsung kena dampaknya adalah orang yang berniat membeli atau menjual emas batangan Antam pada hari itu juga, sebab keputusan mereka bergantung pada angka yang berlaku saat transaksi berlangsung, bukan angka kemarin atau esok. Dari data satu hari ini belum bisa disimpulkan apakah ini sekadar fluktuasi harian biasa atau awal tren penurunan, sebab harga emas Antam umumnya mengikuti harga emas dunia yang bisa berubah dalam hitungan jam. Yang perlu dipantau adalah pergerakan harga Antam dalam beberapa hari mendatang serta harga emas dunia sebagai acuannya, sebelum bisa dibilang arahnya sedang menurun atau justru akan berbalik naik.",
+  "imageV": "muksllmx"
  },
  {
   "slug": "crab-rombak-direksi-beston-barto-jadi-dirut-baru",

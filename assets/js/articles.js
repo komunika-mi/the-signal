@@ -3,6 +3,242 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wika-jadwalkan-rupo-obligasi-tahap-i-2020-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan RUPO Obligasi Tahap I 2020, [27 Oktober]",
+  "deck": "WIKA mengumumkan rencana RUPO untuk Obligasi Berkelanjutan I Tahap I Tahun 2020 pada 27 Oktober 2026, dengan panggilan resmi di media nasional pada 13 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:54:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dbf3abec84_75691906e5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "RUPO",
+   "obligasi",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk, melalui corporate secretary Mahendra Vijaya, mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Obligasi (RUPO) untuk pemegang Obligasi Berkelanjutan I Wijaya Karya Tahap I Tahun 2020. Rapat dijadwalkan pada Selasa, 27 Oktober 2026, pukul 09.00 WIB, bertempat di WIKA Tower 2, Jakarta. Dalam surat pemberitahuan yang terbit 28 September 2026, kolom agenda rapat masih kosong sehingga belum ada rincian usulan yang akan dibahas.",
+   "PT Bank Mega Tbk, selaku wali amanat berdasarkan Perjanjian Perwaliamanatan Akta Nomor 33 tanggal 22 September 2020 yang dibuat di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito, S.H., menyatakan bahwa panggilan resmi RUPO akan dimuat di satu surat kabar harian berperedaran nasional pada Selasa, 13 Oktober 2026. Langkah ini merujuk pada ketentuan Peraturan Otoritas Jasa Keuangan Nomor 20/POJK.04/2020 tentang Kontrak Perwaliamanatan Efek Bersifat Utang dan/atau Sukuk.",
+   "RUPO ini adalah seri obligasi lain dari beberapa instrumen utang WIKA yang rapat pemegangnya dijadwalkan dalam beberapa pekan terakhir, setelah PEFINDO menurunkan peringkat sukuk WIKA ke status gagal bayar pada 25 September 2026. Berbeda dari Obligasi Tahap II 2022, Obligasi Berkelanjutan II, dan Sukuk Mudharabah Tahap I 2021 yang sudah lebih dulu dijadwalkan rapatnya, kali ini giliran pemegang Obligasi Berkelanjutan I Tahap I Tahun 2020 yang akan diundang membahas kelanjutan instrumen tersebut."
+  ],
+  "fotoAdegan": "Empty modern corporate meeting hall with rows of chairs facing a podium, tall windows, morning light, Jakarta office tower",
+  "takeaway": "Laporan ini netral bagi WIKA, sebab isinya baru pemberitahuan rencana rapat, belum memuat agenda, usulan restrukturisasi, atau perubahan syarat pembayaran yang bisa dinilai arah dampaknya. Yang tersentuh adalah arus kas dan kewajiban utang perusahaan, karena RUPO adalah forum tempat pemegang obligasi memutuskan apakah menyetujui perubahan jadwal atau syarat pembayaran utang, sesuatu yang langsung memengaruhi berapa besar kas yang harus disiapkan WIKA dan kapan. Investor pasar modal memperhatikan forum semacam ini karena hasilnya menentukan apakah WIKA mendapat kelonggaran waktu atau justru dituntut membayar sesuai jadwal awal di tengah status gagal bayar sukuknya. Yang perlu dipantau berikutnya adalah panggilan resmi RUPO di media nasional pada 13 Oktober 2026, lalu jalannya RUPO itu sendiri pada 27 Oktober 2026, saat agenda dan kemungkinan usulan restrukturisasi baru akan terungkap.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "goto-morgan-stanley-lepas-450-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "GOTO: Morgan Stanley [Lepas] 450 Juta Saham via Repo",
+  "deck": "Morgan Stanley melaporkan penjualan tidak langsung 450 juta saham GOTO lewat perjanjian repurchase seharga Rp27 per lembar, menggeser hak suaranya jadi 6,98 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:46:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8273-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GOTO",
+  "tags": [
+   "GOTO",
+   "Morgan Stanley",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "body": [
+   "Morgan Stanley and Co International Plc, mewakili Morgan Stanley and Co. LLC-Client Account, melaporkan ke Otoritas Jasa Keuangan adanya perubahan kepemilikan saham PT GoTo Gojek Tokopedia Tbk (GOTO). Pelapor bukan anggota direksi atau komisaris perseroan dan berstatus warga negara asing. Dalam laporan bernomor LK/28092026/0005/1, disebutkan bahwa pada 23 September 2026 terjadi penjualan tidak langsung atas 450.000.000 saham biasa GOTO dengan harga Rp27 per saham, dilakukan melalui skema repurchase agreement dengan tujuan investasi.",
+   "Akibat transaksi ini, jumlah saham GOTO yang dikuasai Morgan Stanley berkurang dari 80.863.391.484 unit menjadi 80.413.391.484 unit, atau turun 450 juta lembar. Hak suara Morgan Stanley di GOTO ikut menyusut dari 7,0233 persen menjadi 6,9842 persen.",
+   "Laporan ini terbit hanya beberapa hari setelah Morgan Stanley melaporkan penambahan kepemilikan yang membawa hak suaranya naik ke 7,03 persen pada tanggal transaksi yang sama, 23 September 2026. Dengan pengurangan terbaru ini, posisi Morgan Stanley di GOTO kembali turun tipis, namun tetap berada di kisaran 7 persen sebagai salah satu pemegang saham asing utama."
+  ],
+  "fotoAdegan": "Wide exterior view of Jakarta's financial district skyscrapers at dusk with lit windows, busy street traffic below, blurred motion.",
+  "takeaway": "Laporan ini netral bagi GoTo karena porsi yang dilepas Morgan Stanley cuma 0,56 persen dari saham yang sudah dipegangnya sendiri, jumlah yang terlalu kecil untuk dibaca sebagai sinyal soal arah kepemilikan. Yang tersentuh dari laporan ini adalah hak suara pemegang saham asing di GoTo, yang turun tipis dari 7,02 persen menjadi 6,98 persen, bukan performa keuangan perseroan itu sendiri; transaksinya juga berbentuk repurchase agreement, semacam perjanjian jual saham dengan janji dibeli kembali di kemudian hari, sehingga sifatnya bisa jadi sementara dan bukan pelepasan kepemilikan permanen. Yang perlu dipantau berikutnya adalah laporan kepemilikan lanjutan dari Morgan Stanley ke OJK, yang akan menunjukkan apakah posisi 450 juta saham ini kembali dibeli begitu perjanjian repo jatuh tempo atau justru terus berkurang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smcb-ganti-komisaris-utama-lewat-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "SMCB Ganti [Komisaris Utama] Lewat RUPSLB",
+  "deck": "RUPSLB SMCB mengangkat Daniel Tumpal S. Simanjuntak sebagai Komisaris Utama baru, menyetujui revisi anggaran dasar, dan mendelegasikan persetujuan rencana jangka panjang ke Dewan Komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:40:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b10593a9cb_1142144ec8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMCB",
+  "tags": [
+   "SMCB",
+   "RUPSLB",
+   "Komisaris Utama",
+   "Solusi Bangun Indonesia"
+  ],
+  "body": [
+   "PT Solusi Bangun Indonesia Tbk (SMCB) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Jumat, 25 September 2026, pukul 14.44 sampai 15.25 WIB, di Hotel Ra Suites Simatupang, Jakarta Selatan, yang juga disiarkan lewat video konferensi. Rapat dihadiri pemegang saham yang mewakili 8.901.366.179 saham atau 98,6915 persen dari total 9.019.381.973 saham perseroan, sehingga kuorum terpenuhi. Ketiga agenda rapat disetujui dengan suara bulat: 8.901.128.679 saham atau 99,9973 persen menyatakan setuju secara langsung, dan 237.500 saham lainnya abstain, yang menurut aturan OJK dihitung mengikuti suara mayoritas sehingga total persetujuan menjadi 100 persen untuk setiap agenda.",
+   "Agenda paling berdampak adalah pergantian Komisaris Utama. Rapat mengukuhkan pemberhentian dengan hormat Fadlansyah Lubis dari jabatan Komisaris Utama terhitung sejak 27 Juli 2026, dan mengangkat Daniel Tumpal S. Simanjuntak sebagai penggantinya, efektif sejak penutupan rapat sampai penutupan RUPS Tahunan 2031. Susunan Direksi tidak berubah, yaitu Rizki Kresno Edhie Hambali sebagai Direktur Utama, didampingi Asruddin dan Edi Sarwono yang menjabat sampai RUPS Tahunan 2030, serta Yasuhide Abe sampai 2031. Di jajaran Komisaris, selain Daniel Tumpal, tetap ada Agnes Marcellina Tjhin dan Husnedi sebagai Komisaris Independen, Prasetyo Suharto sebagai Komisaris hingga RUPS Tahunan 2030, dan Shinji Fukami sebagai Komisaris hingga RUPS Tahunan 2029. Rapat juga mensyaratkan Daniel Tumpal mundur dari jabatan lain apabila jabatan itu dilarang dirangkap dengan posisi Komisaris di anak usaha BUMN.",
+   "Dua agenda lain bersifat administratif. Pertama, perseroan menyetujui perubahan Pasal 3 Anggaran Dasar tentang maksud dan tujuan usaha agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, mengikuti aturan perizinan berusaha berbasis risiko yang berlaku sejak 2025. Kedua, rapat mendelegasikan kewenangan menyetujui perubahan Rencana Jangka Panjang Perusahaan 2026-2030 dan Rencana Kerja dan Anggaran Perusahaan 2026 kepada Dewan Komisaris, dengan syarat tetap harus mendapat persetujuan pemegang saham mayoritas lebih dulu sebelum keputusan itu berlaku."
+  ],
+  "fotoAdegan": "Rows of cement silos and conveyor belts at an industrial plant under overcast sky, morning haze, workers in hard hats",
+  "takeaway": "Laporan ini netral bagi pemegang saham, karena isinya pada dasarnya administratif: menyesuaikan anggaran dasar dengan klasifikasi usaha baru dan menuntaskan pergantian pucuk pimpinan pengawas yang sebenarnya sudah berlaku sejak Juli. Yang berubah bukan angka di laporan keuangan, melainkan struktur pengawasan perusahaan, karena kewenangan menyetujui rencana bisnis jangka panjang dan anggaran tahunan kini didelegasikan ke Dewan Komisaris, meski tetap harus mendapat restu pemegang saham mayoritas lebih dulu sehingga kendali pemegang saham atas rencana besar perusahaan tidak sepenuhnya lepas. Yang perlu dipantau adalah penuntasan akta notaris atas keputusan rapat ini, yang menurut notaris masih diselesaikan di kantornya, serta kepastian apakah Daniel Tumpal S. Simanjuntak perlu mundur dari jabatan lain di anak usaha BUMN sesuai syarat yang ditetapkan rapat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tebe-catat-laba-bersih-s1-2026-turun-27-6-jadi-rp20-1-m",
+  "category": "Aksi Korporasi",
+  "title": "TEBE Catat Laba Bersih S1 2026 Turun [27,6%] jadi Rp20,1 M",
+  "deck": "Materi public expose TEBE ungkap laba bersih semester I 2026 turun 27,6% jadi Rp20,1 miliar, namun laba Juli-Agustus melonjak dan ekspansi trading batubara mulai jalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:31:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/468e1ad34b_8986753afa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEBE",
+  "tags": [
+   "TEBE",
+   "kinerja keuangan",
+   "public expose",
+   "ekspansi usaha"
+  ],
+  "body": [
+   "PT Dana Brata Luhur Tbk (TEBE) menyampaikan materi public expose insidentil menyusul permintaan Bursa Efek Indonesia, sesuai rencana yang telah diumumkan perseroan pada 25 September 2026. Paparan tersebut dijadwalkan berlangsung 1 Oktober 2026 dan memuat kinerja keuangan semester I 2026, proyeksi bisnis, hingga analisis pergerakan harga saham.",
+   "Berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, pendapatan usaha TEBE tumbuh 3,5% secara tahunan menjadi Rp176,9 miliar dari Rp170,9 miliar pada semester I 2025. Namun laba bersih turun 27,6% menjadi Rp20,1 miliar dari Rp27,7 miliar, yang menurut manajemen disebabkan kenaikan harga bahan bakar dan penurunan produksi batubara yang mengerek biaya pokok. Total aset tercatat Rp1.094,8 miliar, turun 15% dari Rp1.288,8 miliar per akhir 2025, seiring ekuitas yang turun 14,8% menjadi Rp1.043,9 miliar akibat pembayaran dividen tunai tahunan. Kas dan setara kas perseroan tetap kuat di Rp433,4 miliar, dengan rasio utang terhadap modal (DER) hanya 4,9% tanpa pinjaman berbunga dan rasio lancar 12,8 kali.",
+   "Materi paparan juga memuat data manajemen, belum diaudit, hingga 31 Agustus 2026 yang menunjukkan tren membaik: pendapatan usaha kumulatif Rp256,1 miliar dan laba bersih Rp47,2 miliar, sudah melampaui total laba semester I. Khusus periode Juli-Agustus, laba bersih tercatat Rp27,2 miliar dengan marjin laba bersih naik ke 18,4% dari 11,3% di semester I, ditopang volume hauling dan loading batubara yang mencapai rekor tertinggi tahun ini pada Agustus, masing-masing 585 ribu ton dan 572 ribu ton. Dari sisi segmen usaha semester I 2026, loading batubara dan kepelabuhanan menyumbang 46,7% pendapatan (Rp82,6 miliar), disusul jasa terpadu 20,9% (Rp37 miliar), fasilitas jalan hauling 20,4% (Rp36,1 miliar), jasa angkutan 8,7%, dan sewa alat berat 3,3%.",
+   "Perseroan juga mengungkap ekspansi usaha melalui anak perusahaan PT Talenta Bumi, dengan entitas trading batubara PT TB yang telah merealisasikan pengiriman perdana 7.405,41 metrik ton dan kini dalam proses settlement akhir. Selain itu, TEBE tengah menjajaki diversifikasi ke komoditas di luar batubara, yang untuk tahap awal masih diarahkan memenuhi kebutuhan internal grup. Anak usaha PT Pelabuhan Talenta Bumi disebut mulai beroperasi sebagai Badan Usaha Kepelabuhanan pada 2026 ini. Dari sisi harga saham, TEBE ditutup di level Rp1.660 pada Januari 2026, sempat melemah ke titik terendah Rp950 pada Juni, lalu naik ke Rp2.080 pada September 2026. Manajemen mengaitkan kenaikan itu dengan lonjakan harga batubara global yang sempat menyentuh US$153 per ton pada September 2026, selain laba positif di kuartal kedua dan optimisme pasar atas ekspansi usaha."
+  ],
+  "fotoAdegan": "Wide shot of a coal loading conveyor extending toward a bulk carrier at an Indonesian port, dusty haze, workers in hi-vis vests below",
+  "takeaway": "Laporan ini condong positif bagi Dana Brata Luhur, sebab penurunan laba di semester pertama terlihat sudah berbalik arah pada Juli-Agustus, sementara struktur permodalan perusahaan tetap sangat sehat. Ekuitas, yaitu modal pemegang saham yang tersisa di perusahaan, memang turun 14,8% menjadi Rp1.043,9 miliar, tapi itu terjadi karena perusahaan membagikan dividen tunai tahunan, bukan karena rugi usaha. Rasio utang berbunga dibanding modal sendiri (DER) hanya 4,9% tanpa pinjaman berbunga sama sekali, artinya perusahaan punya ruang besar mencari pendanaan baru tanpa terbebani bunga kalau dibutuhkan untuk ekspansi. Yang perlu dipantau adalah pelaksanaan public expose resmi pada 1 Oktober 2026 beserta RUPSLB terkait, karena di sana manajemen akan menjelaskan proyeksi bisnis dan realisasi kuartal ketiga secara lebih pasti, mengingat angka Juli-Agustus di materi ini masih versi internal dan belum memperhitungkan beban pajak serta imbalan kerja kuartal tiga.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "smmt-gelar-rupslb-ubah-nama-perusahaan-dan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "SMMT Gelar RUPSLB, [Ubah] Nama Perusahaan dan Susunan Direksi",
+  "deck": "Golden Eagle Energy (SMMT) memanggil RUPSLB pada 20 Oktober 2026 untuk membahas perubahan nama perusahaan dalam anggaran dasar serta pergantian susunan Direksi dan Dewan Komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:26:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7c593b1da9_5c216d7ee7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMT",
+  "tags": [
+   "SMMT",
+   "RUPSLB",
+   "Golden Eagle Energy",
+   "Perubahan Direksi"
+  ],
+  "body": [
+   "PT Golden Eagle Energy Tbk (SMMT) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 20 Oktober 2026, pukul 14.00 WIB di ADR Tower lantai 21, Jl. Boulevard Pantai Indah Kapuk, Jakarta. Selain hadir fisik, pemegang saham juga bisa mengikuti rapat secara elektronik melalui sistem eASY.KSEI. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 25 September 2026 pukul 16.00 WIB.",
+   "Ada dua agenda dalam RUPSLB ini. Pertama, persetujuan perubahan anggaran dasar perseroan, khususnya Pasal 1 tentang nama dan tempat kedudukan perseroan, yang berarti perubahan ini menyangkut identitas badan hukum perusahaan. Kedua, perubahan susunan Dewan Komisaris dan Direksi perseroan. Dokumen pemanggilan ini belum merinci nama baru perusahaan yang diusulkan maupun nama-nama pengurus yang akan diangkat atau diganti.",
+   "Perseroan tidak mengirimkan undangan khusus ke masing-masing pemegang saham, sehingga pemanggilan ini berlaku sebagai undangan resmi. Bagi pemegang saham yang tidak hadir langsung, kuasa elektronik (e-Proxy) bisa diberikan melalui eASY.KSEI sampai 19 Oktober 2026 pukul 12.00 WIB, sedangkan surat kuasa manual harus sudah diterima biro administrasi efek, PT Adimitra Jasa Korpora, paling lambat Kamis, 15 Oktober 2026 pukul 16.00 WIB. Surat pemanggilan ditandatangani oleh Corporate Secretary Susanti Nilam pada 28 September 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a small stage in a corporate meeting hall, tall windows letting in soft morning light, Jakarta office tower.",
+  "takeaway": "Laporan ini netral bagi emiten, sebab pemanggilan RUPSLB ini baru mengundang rapat untuk membahas perubahan nama dan susunan pengurus, tanpa merinci ke arah mana perubahan itu dibawa atau siapa pengganti siapa. Yang tersentuh di sini bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, melainkan pos tata kelola, yaitu nama badan hukum dalam anggaran dasar serta susunan Direksi dan Dewan Komisaris, yang tetap penting bagi pemegang saham karena pergantian pengurus bisa mengubah arah strategi dan cara perusahaan dikelola ke depan. Pasar baru bisa menilai dampaknya begitu materi rapat dibuka lebih rinci, termasuk nama pengganti direksi atau komisaris dan alasan di balik perubahan nama perusahaan. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 20 Oktober 2026, serta tenggat pemberian kuasa bagi pemegang saham yang tidak hadir langsung, yaitu 19 Oktober 2026 pukul 12.00 WIB untuk kuasa elektronik dan 15 Oktober 2026 pukul 16.00 WIB untuk surat kuasa manual.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "enrg-right-issue-13-3-miliar-saham-dijamin-penuh-pembeli-siaga",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Right Issue 13,3 Miliar Saham, [Dijamin] Penuh Pembeli Siaga",
+  "deck": "Energi Mega Persada menerbitkan 13,28 miliar saham baru lewat rights issue senilai Rp4,12 triliun. BKI dan BCI, dua entitas Bakrie, menjamin membeli seluruh sisa saham yang tak terserap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:18:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1d71ca37ab_f6c3809f16.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "rights issue",
+   "HMETD",
+   "Bakrie Group"
+  ],
+  "body": [
+   "Energi Mega Persada Tbk (ENRG) menerbitkan 13.282.271.875 saham baru Seri B bernilai nominal Rp100 per saham lewat penawaran umum terbatas dengan Hak Memesan Efek Terlebih Dahulu (HMETD) keempat, dengan harga pelaksanaan Rp310 per saham. Total dana yang bisa terkumpul mencapai Rp4,12 triliun. Setiap pemegang 2 saham lama yang namanya tercatat di daftar pemegang saham pada 6 Oktober 2026 pukul 16.00 WIB berhak atas 1 HMETD, dan setiap 1 HMETD bisa ditukar dengan 1 saham baru. Seluruh dana, setelah dikurangi biaya emisi, akan disalurkan untuk membiayai kegiatan anak usaha Perseroan. Perdagangan HMETD berlangsung 8 sampai 21 Oktober 2026, dan hak yang tidak dilaksanakan sampai tanggal itu otomatis hangus. Pemegang saham lama yang tidak ikut menebus haknya berpotensi kepemilikannya tergerus atau terdilusi maksimum 33,33 persen.",
+   "Pemegang saham pengendali, PT Shima Global Kapital, yang menguasai 4.661.422.413 saham atau 17,55 persen dari modal Perseroan, menyatakan tidak akan melaksanakan 2.330.711.205 HMETD miliknya dan akan mengalihkan seluruhnya kepada PT Bakrie Kalila Investment (BKI), pihak yang terafiliasi dengannya. BKI sendiri, yang memiliki 3,56 persen saham, berkomitmen menebus haknya sendiri ditambah HMETD kiriman dari Shima, sehingga totalnya 2.804.146.712 HMETD senilai Rp869,29 miliar. PT Bakrie Capital Indonesia (BCI), pemilik 4,18 persen saham, juga berkomitmen menebus seluruh 554.780.048 HMETD miliknya senilai Rp171,98 miliar.",
+   "Jika ada sisa saham baru yang tidak terserap pemegang HMETD lain, BKI dan BCI bertindak sebagai pembeli siaga. BKI sanggup membeli tambahan hingga 1,05 miliar saham senilai maksimum Rp325,5 miliar, dengan bukti dana dari empat bank, yaitu Bank Mandiri, Bank Syariah Indonesia, BNI, dan Bank Mayapada, senilai total Rp1,195 triliun. BCI sanggup membeli tambahan hingga 8.873.345.115 saham senilai maksimum Rp2,75 triliun, dengan bukti dana dari BNI, Bank Syariah Indonesia, dan Bank Mandiri senilai total Rp3,11 triliun. Kapasitas pembeli siaga gabungan mencapai 9.923.345.115 saham, melebihi kebutuhan untuk menyerap seluruh sisa penawaran.",
+   "Dokumen ini juga memuat simulasi jika hanya Shima (lewat pengalihan haknya ke BKI), BKI, dan BCI yang menebus HMETD sementara pemegang saham lain tidak ikut serta. Dalam skenario itu, kepemilikan BKI naik dari 3,56 persen menjadi 12,05 persen dan BCI naik dari 4,18 persen menjadi 26,45 persen, sementara persentase Shima turun dari 17,55 persen menjadi 11,70 persen meski jumlah lembar sahamnya tidak berubah. Perubahan struktur ini merujuk pada Kesepakatan Bersama Terkait Pengendalian Perseroan tertanggal 22 September 2026 yang diteken oleh Shima, BKI, dan BCI."
+  ],
+  "fotoAdegan": "Technicians in hard hats inspecting valves at an onshore oil and gas processing facility, pipelines and steel towers, overcast daylight.",
+  "takeaway": "Laporan ini condong positif bagi ENRG karena dana Rp4,12 triliun yang dibutuhkan anak usahanya sudah dijamin masuk, dengan pembeli siaga BKI dan BCI mengantongi bukti dana dari total tujuh bank senilai lebih dari Rp4,3 triliun, melebihi kebutuhan rights issue itu sendiri. Yang perlu diperhatikan pemegang saham adalah dilusi, yaitu berkurangnya persentase kepemilikan karena jumlah saham beredar bertambah sepertiga dari yang sudah ada; bagi yang tidak menebus haknya, porsi kepemilikan bisa susut hingga 33,33 persen dan laba per saham berpotensi terpengaruh karena kue laba dibagi ke lebih banyak lembar saham. Dokumen ini juga menunjukkan pergeseran kendali di dalam kelompok Bakrie sendiri, karena Shima mengalihkan haknya ke afiliasinya BKI, sehingga BKI dan BCI berpotensi menguasai gabungan hingga 38,5 persen saham ENRG jika pemegang saham lain tidak berpartisipasi, naik dari sekitar 7,74 persen saat ini. Yang perlu dipantau selanjutnya adalah berakhirnya periode pelaksanaan HMETD pada 21 Oktober 2026 dan tanggal penjatahan pada 26 Oktober 2026, karena di situ baru terlihat berapa besar porsi yang benar-benar diambil alih oleh pembeli siaga dari kelompok Bakrie.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-360-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 360.000 saham",
+  "deck": "Edwin Soeryadjaya membeli 360.000 saham SRTG lewat dua transaksi tidak langsung pada 24 dan 25 September 2026, menggeser hak suaranya tipis ke 35,9587 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:10:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-9236-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Komisaris PT Saratoga Investama Sedaya Tbk (SRTG), Edwin Soeryadjaya, melaporkan ke Otoritas Jasa Keuangan bahwa ia menambah kepemilikan sahamnya di perseroan sebanyak 360.000 lembar. Dengan tambahan ini, jumlah sahamnya naik dari 4.877.383.290 lembar menjadi 4.877.743.290 lembar, sementara hak suaranya bergeser dari 35,9561 persen menjadi 35,9587 persen.",
+   "Penambahan ini terjadi lewat dua transaksi pembelian dengan status kepemilikan tidak langsung. Transaksi pertama sebanyak 210.000 saham dieksekusi pada 24 September 2026 di harga Rp1.786 per saham, dan transaksi kedua sebanyak 150.000 saham dieksekusi pada 25 September 2026 di harga Rp1.770 per saham. Kedua transaksi tercatat dengan tujuan investasi dan dilaporkan sesuai ketentuan POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka.",
+   "Laporan ini melanjutkan rangkaian pembelian bertahap yang sama oleh Edwin Soeryadjaya dalam sepekan terakhir, setelah sebelumnya menambah 830.000 saham pada 22 September dan 784.100 saham pada 24 September, masing-masing dengan tujuan investasi serupa."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's business district skyline at dusk, glass office towers lit from within, busy street traffic below",
+  "takeaway": "Laporan ini netral bagi SRTG karena penambahan 360.000 saham cuma setara 0,0074 persen dari kepemilikan Edwin Soeryadjaya sebelumnya, terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran terhadap prospek perusahaan. Yang tersentuh adalah hak suara pelapor sebagai pemegang saham utama, yang hanya bergeser dari 35,9561 persen menjadi 35,9587 persen, sehingga posisinya di jajaran pemegang saham pengendali praktis tidak berubah. Pola ini juga konsisten dengan dua laporan sebelumnya pada 22 dan 24 September, yang sama-sama berupa pembelian kecil dengan alasan investasi. Dokumen ini tidak mencantumkan agenda korporasi baru seperti RUPSLB atau tenggat pelaporan, sehingga yang perlu dipantau adalah apakah rangkaian pembelian bertahap ini terus berlanjut hingga mulai terakumulasi menjadi porsi kepemilikan yang lebih berarti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wsbp-gagal-bayar-kupon-obligasi-bei-lanjutkan-suspensi-saham",
+  "category": "Aksi Korporasi",
+  "title": "WSBP [Gagal Bayar] Kupon Obligasi, BEI Lanjutkan Suspensi Saham",
+  "deck": "BEI melanjutkan penghentian sementara perdagangan saham WSBP di seluruh pasar setelah perusahaan menunda pembayaran bunga ke-8 dua obligasinya yang jatuh tempo 25 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T14:48:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3572c29486_a3b6f0ba4c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "obligasi",
+   "gagal bayar",
+   "suspensi saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) melanjutkan penghentian sementara perdagangan saham PT Waskita Beton Precast Tbk (WSBP) di seluruh pasar, berlaku sejak Sesi I Periodic Call Auction, Senin, 28 September 2026, hingga ada pengumuman lebih lanjut. Saham WSBP saat ini tercatat di Papan Pemantauan Khusus. Keputusan ini merujuk pada surat PT Kustodian Sentral Efek Indonesia (KSEI) Nomor KSEI-6984/DIR/0926 dan KSEI-6985/DIR/0926, keduanya tertanggal 24 September 2026, yang melaporkan penundaan pembayaran bunga.",
+   "Bunga yang tertunda adalah pembayaran kupon ke-8 dari Obligasi Waskita Beton Precast I Tahun 2022 (WSBP01) dan Obligasi Waskita Beton Precast II Tahun 2022 (WSBP02), yang seharusnya efektif dibayarkan pada 25 September 2026. BEI secara eksplisit menyatakan bahwa penundaan pembayaran ini menunjukkan adanya keraguan atas kelangsungan usaha (going concern) perusahaan. Dasar hukum suspensi ini adalah Ketentuan III.1.5 Peraturan Bursa Efek Indonesia Nomor I-L tentang Suspensi Efek.",
+   "Pengumuman ini merupakan kelanjutan dari sinyal yang sudah muncul sejak akhir pekan lalu. Pada 24 September 2026, WSBP telah mengungkap potensi penundaan pembayaran kupon obligasi ini karena kas operasional dinilai tidak mencukupi, bersamaan dengan pemaparan rencana pemulihan ekuitas negatif ke bursa. Kini penundaan tersebut terkonfirmasi terjadi, dan BEI meminta seluruh pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi yang akan disampaikan perusahaan selanjutnya."
+  ],
+  "fotoAdegan": "Stacks of large precast concrete beams in an industrial yard, overhead crane lifting a panel, overcast sky, Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi WSBP, karena BEI sendiri secara eksplisit mengaitkan gagal bayar kupon ini dengan keraguan atas kelangsungan usaha perusahaan, dan sahamnya tetap tidak bisa diperdagangkan tanpa kepastian waktu. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang tersedia untuk membayar kewajiban jatuh tempo, dan kalau kas tidak cukup untuk bayar bunga obligasi, itu biasanya tanda tekanan keuangan yang lebih dalam, bukan sekadar masalah administrasi telat bayar. Ini juga berkaitan langsung dengan rencana pemulihan ekuitas negatif WSBP yang sudah diungkap 24 September lalu, yang rencananya menambah jumlah saham beredar lewat penerbitan saham baru, sehingga masalah kas dan masalah permodalan perusahaan ini saling terkait. Yang perlu dipantau berikutnya adalah apakah WSBP mampu melunasi bunga dalam periode tenggang yang lazim berlaku pada obligasi korporasi, serta kapan BEI akan mengumumkan pembukaan kembali perdagangan saham ini setelah suspensi 28 September 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rdtx-ajukan-stock-split-rasio-1-20-ke-rupslb-november",
+  "category": "Aksi Korporasi",
+  "title": "RDTX Ajukan [Stock Split] Rasio 1:20 ke RUPSLB November",
+  "deck": "Roda Vivatex akan meminta restu RUPSLB pada 4 November 2026 untuk memecah saham dengan rasio 1:20, menambah jumlah saham beredar dari 268,8 juta menjadi 5,376 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T14:34:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2c4e6bb9e5_11d7b2b255.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RDTX",
+  "tags": [
+   "RDTX",
+   "stock split",
+   "RUPSLB",
+   "Roda Vivatex"
+  ],
+  "body": [
+   "PT Roda Vivatex Tbk (RDTX) akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 4 November 2026 pukul 10.00 WIB di RDTX Square Podium Lantai 2, Jalan Prof. Dr. Satrio No. 164, Jakarta Selatan. Agenda utamanya adalah meminta persetujuan pemegang saham atas rencana pemecahan saham (stock split) dengan rasio 1:20 serta perubahan Pasal 4 ayat 1 dan 2 anggaran dasar perusahaan. Rencana ini sudah mengantongi persetujuan prinsip dari Bursa Efek Indonesia melalui surat No. S-11497/BEI.PP3/09-2026 tertanggal 9 September 2026. Pemegang saham yang berhak hadir dalam RUPSLB adalah yang namanya tercatat dalam daftar pemegang saham pada 12 Oktober 2026, dan pemanggilan resmi rapat akan diumumkan 13 Oktober 2026.",
+   "Dengan rasio 1:20, nilai nominal saham RDTX akan turun dari Rp500 per saham menjadi Rp25 per saham. Jumlah saham ditempatkan dan disetor penuh akan bertambah dari 268.800.000 saham menjadi 5.376.000.000 saham, sementara modal dasar perseroan naik dari 560.000.000 saham menjadi 11.200.000.000 saham. Perseroan beralasan harga sahamnya sudah terlalu tinggi sehingga kurang terjangkau bagi investor, terutama investor ritel, dan berharap pemecahan saham ini menambah likuiditas perdagangan serta jumlah pemegang saham. Perseroan menyatakan tidak memiliki rencana aksi korporasi lain yang memengaruhi jumlah saham atau permodalan dalam enam bulan setelah pemecahan saham ini berlangsung.",
+   "Jadwal lengkap yang diungkapkan perseroan meliputi: persetujuan prinsip BEI pada 9 September 2026, pemberitahuan ke OJK pada 21 September 2026, pengumuman RUPSLB dan keterbukaan informasi pada 28 September 2026, tanggal daftar pemegang saham berhak hadir RUPS pada 12 Oktober 2026, pemanggilan RUPSLB pada 13 Oktober 2026, dan pelaksanaan RUPSLB pada 4 November 2026. Setelah itu menyusul persetujuan Kementerian Hukum dan HAM atas perubahan anggaran dasar serta pengumuman hasil RUPSLB pada 11 November 2026, permohonan pencatatan saham tambahan pada tanggal yang sama, persetujuan BEI yang diindikasikan pada 17 November 2026, dan pengumuman jadwal teknis pemecahan saham pada 18 November 2026. Perdagangan dengan nilai nominal lama di pasar reguler dan negosiasi berakhir 23 November 2026, dilanjutkan perdagangan nominal baru mulai 24 November 2026, sementara di pasar tunai transisinya terjadi pada 25 dan 26 November 2026, dengan distribusi saham nominal baru dijadwalkan 26 November 2026."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta under bright daylight, pedestrians walking along the sidewalk below",
+  "takeaway": "Pemecahan saham ini netral bagi fundamental Roda Vivatex, karena yang berubah hanya jumlah dan harga nominal saham, bukan aset, laba, atau utang perusahaan. Pos yang tersentuh adalah jumlah saham beredar, yang naik dari 268,8 juta menjadi 5,376 miliar lembar, sehingga laba per saham otomatis mengecil dalam hitungan per lembar meski total keuntungan perusahaan tidak berkurang, mirip uang Rp100 ribu yang ditukar jadi sepuluh lembar Rp10 ribu tanpa mengubah nilainya. Harga saham yang lebih murah per lembar biasanya dipakai emiten agar lebih terjangkau investor ritel dan transaksinya lebih ramai, tapi itu tidak mengubah nilai kepemilikan pemegang saham yang sudah ada. Yang perlu dipantau berikutnya adalah RUPSLB pada 4 November 2026, karena agenda ini baru sah bila disetujui pemegang saham yang mewakili sedikitnya dua pertiga saham berhak suara yang hadir, disusul persetujuan Kementerian Hukum dan HAM atas perubahan anggaran dasar yang ditargetkan 11 November 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "marketplace-pungut-pph-pedagang-online-mulai-1-november",
   "category": "UMKM",
   "title": "Marketplace Pungut PPh Pedagang Online Mulai [1 November]",
@@ -28,6 +264,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah bukan aturannya, melainkan waktunya: pedagang online di Tokopedia, Shopee, Lazada, dan Blibli akan mulai dipotong otomatis 0,5 persen dari nilai transaksinya begitu barang terjual, setelah jadwal ini mundur dua kali dari rencana awal Juli 2026. Yang kena dampak langsung adalah pedagang online dan pelaku UMKM yang mengandalkan keempat platform itu, karena potongan ini mengurangi uang yang mereka terima dari setiap penjualan. Pola dua kali tunda, dari Juli ke akhir Oktober lalu ke awal November, menunjukkan pemerintah sengaja menahan aturan ini sampai sistem pemotongan pajak di platform benar-benar teruji, bukan karena kebijakannya dibatalkan. Karena Ditjen Pajak sudah menyebut uji coba berjalan lancar dan keempat platform siap, arahnya kini condong ke penerapan yang benar-benar jalan pada 1 November, dan yang akan membuktikannya adalah apakah potongan pajak itu benar mulai muncul di laporan penjualan pedagang pada tanggal tersebut, tanpa penundaan susulan.",
   "imageV": "mukyy3u1"
+ },
+ {
+  "slug": "brms-direktur-adika-bakrie-tambah-372-400-saham-rp670",
+  "category": "Aksi Korporasi",
+  "title": "BRMS: Direktur Adika Bakrie [Tambah] 372.400 Saham Rp670",
+  "deck": "Direktur BRMS Adika Aryasthana Bakrie membeli tambahan 372.400 saham perusahaan pada 25 September 2026, menyusul pembelian serupa pekan lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T13:44:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-7738-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRMS",
+  "tags": [
+   "BRMS",
+   "Bumi Resources Minerals",
+   "kepemilikan saham direksi",
+   "Adika Bakrie"
+  ],
+  "body": [
+   "Adika Aryasthana Bakrie, anggota direksi PT Bumi Resources Minerals Tbk (BRMS), melaporkan pembelian tambahan saham perusahaan kepada Otoritas Jasa Keuangan pada 28 September 2026. Berdasarkan laporan itu, kepemilikannya bertambah dari 750.500 lembar menjadi 1.122.900 lembar, atau naik 372.400 lembar.",
+   "Transaksi tercatat sebagai pembelian tidak langsung atas saham biasa BRMS, dieksekusi pada 25 September 2026 dengan harga Rp670 per lembar. Dengan volume tersebut, nilai transaksinya sekitar Rp249,5 juta. Laporan menyebut tujuan transaksi sebagai investasi.",
+   "Hak suara Adika di BRMS tercatat 0,00 persen baik sebelum maupun sesudah transaksi, tidak berubah meski jumlah sahamnya bertambah hampir 50 persen dari posisi sebelumnya. Posisi 750.500 lembar yang menjadi basis perhitungan kali ini sendiri berasal dari pembelian 750.500 saham seharga Rp665 per lembar yang dilaporkan pada 23 September 2026."
+  ],
+  "fotoAdegan": "Workers examining drilling equipment at a gold mine exploration site in a tropical Indonesian forest, overcast sky",
+  "takeaway": "Laporan ini netral bagi BRMS. Kenaikan hampir 50 persen pada kepemilikan pribadi Adika memang terlihat besar, tapi itu dihitung dari basis yang sangat kecil, dan hak suaranya di perusahaan tetap tercatat 0,00 persen sebelum maupun sesudah transaksi. Hak suara menunjukkan seberapa besar pengaruh seorang pemegang saham dalam keputusan RUPS, dan karena porsi Adika di BRMS masih nyaris tidak terlihat dibanding total saham beredar, pembelian ini tidak mengubah peta kendali maupun fundamental perusahaan. Yang layak dipantau adalah apakah pembelian bertahap ini berlanjut, sebab ini sudah transaksi kedua dalam sepekan setelah laporan serupa pada 23 September 2026, yang bila berulang bisa menjadi pola akumulasi saham oleh direksi.",
+  "sentimen": "netral"
  },
  {
   "slug": "post-fitch-pangkas-peringkat-ke-rd-usai-gagal-bayar-sukuk",

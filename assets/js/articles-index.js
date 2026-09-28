@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wika-jadwalkan-rupo-obligasi-tahap-i-2020-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan RUPO Obligasi Tahap I 2020, [27 Oktober]",
+  "deck": "WIKA mengumumkan rencana RUPO untuk Obligasi Berkelanjutan I Tahap I Tahun 2020 pada 27 Oktober 2026, dengan panggilan resmi di media nasional pada 13 Oktober 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "RUPO",
+   "obligasi",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dbf3abec84_75691906e5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "goto-morgan-stanley-lepas-450-juta-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "GOTO: Morgan Stanley [Lepas] 450 Juta Saham via Repo",
+  "deck": "Morgan Stanley melaporkan penjualan tidak langsung 450 juta saham GOTO lewat perjanjian repurchase seharga Rp27 per lembar, menggeser hak suaranya jadi 6,98 persen.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GOTO",
+   "Morgan Stanley",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8273-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smcb-ganti-komisaris-utama-lewat-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "SMCB Ganti [Komisaris Utama] Lewat RUPSLB",
+  "deck": "RUPSLB SMCB mengangkat Daniel Tumpal S. Simanjuntak sebagai Komisaris Utama baru, menyetujui revisi anggaran dasar, dan mendelegasikan persetujuan rencana jangka panjang ke Dewan Komisaris.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMCB",
+   "RUPSLB",
+   "Komisaris Utama",
+   "Solusi Bangun Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b10593a9cb_1142144ec8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tebe-catat-laba-bersih-s1-2026-turun-27-6-jadi-rp20-1-m",
+  "category": "Aksi Korporasi",
+  "title": "TEBE Catat Laba Bersih S1 2026 Turun [27,6%] jadi Rp20,1 M",
+  "deck": "Materi public expose TEBE ungkap laba bersih semester I 2026 turun 27,6% jadi Rp20,1 miliar, namun laba Juli-Agustus melonjak dan ekspansi trading batubara mulai jalan.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEBE",
+   "kinerja keuangan",
+   "public expose",
+   "ekspansi usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/468e1ad34b_8986753afa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smmt-gelar-rupslb-ubah-nama-perusahaan-dan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "SMMT Gelar RUPSLB, [Ubah] Nama Perusahaan dan Susunan Direksi",
+  "deck": "Golden Eagle Energy (SMMT) memanggil RUPSLB pada 20 Oktober 2026 untuk membahas perubahan nama perusahaan dalam anggaran dasar serta pergantian susunan Direksi dan Dewan Komisaris.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMT",
+   "RUPSLB",
+   "Golden Eagle Energy",
+   "Perubahan Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7c593b1da9_5c216d7ee7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-right-issue-13-3-miliar-saham-dijamin-penuh-pembeli-siaga",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Right Issue 13,3 Miliar Saham, [Dijamin] Penuh Pembeli Siaga",
+  "deck": "Energi Mega Persada menerbitkan 13,28 miliar saham baru lewat rights issue senilai Rp4,12 triliun. BKI dan BCI, dua entitas Bakrie, menjamin membeli seluruh sisa saham yang tak terserap.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "rights issue",
+   "HMETD",
+   "Bakrie Group"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1d71ca37ab_f6c3809f16.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-360-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 360.000 saham",
+  "deck": "Edwin Soeryadjaya membeli 360.000 saham SRTG lewat dua transaksi tidak langsung pada 24 dan 25 September 2026, menggeser hak suaranya tipis ke 35,9587 persen.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-9236-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wsbp-gagal-bayar-kupon-obligasi-bei-lanjutkan-suspensi-saham",
+  "category": "Aksi Korporasi",
+  "title": "WSBP [Gagal Bayar] Kupon Obligasi, BEI Lanjutkan Suspensi Saham",
+  "deck": "BEI melanjutkan penghentian sementara perdagangan saham WSBP di seluruh pasar setelah perusahaan menunda pembayaran bunga ke-8 dua obligasinya yang jatuh tempo 25 September 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "obligasi",
+   "gagal bayar",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3572c29486_a3b6f0ba4c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rdtx-ajukan-stock-split-rasio-1-20-ke-rupslb-november",
+  "category": "Aksi Korporasi",
+  "title": "RDTX Ajukan [Stock Split] Rasio 1:20 ke RUPSLB November",
+  "deck": "Roda Vivatex akan meminta restu RUPSLB pada 4 November 2026 untuk memecah saham dengan rasio 1:20, menambah jumlah saham beredar dari 268,8 juta menjadi 5,376 miliar lembar.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RDTX",
+   "stock split",
+   "RUPSLB",
+   "Roda Vivatex"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2c4e6bb9e5_11d7b2b255.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "marketplace-pungut-pph-pedagang-online-mulai-1-november",
   "category": "UMKM",
   "title": "Marketplace Pungut PPh Pedagang Online Mulai [1 November]",
@@ -20,6 +164,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469895-mulai-1-november-2026-marketplace-pungut-pph-05-persen-pedagang-online"
+ },
+ {
+  "slug": "brms-direktur-adika-bakrie-tambah-372-400-saham-rp670",
+  "category": "Aksi Korporasi",
+  "title": "BRMS: Direktur Adika Bakrie [Tambah] 372.400 Saham Rp670",
+  "deck": "Direktur BRMS Adika Aryasthana Bakrie membeli tambahan 372.400 saham perusahaan pada 25 September 2026, menyusul pembelian serupa pekan lalu.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRMS",
+   "Bumi Resources Minerals",
+   "kepemilikan saham direksi",
+   "Adika Bakrie"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-7738-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "post-fitch-pangkas-peringkat-ke-rd-usai-gagal-bayar-sukuk",
@@ -6355,171 +6515,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Pertanian",
   "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8161",
   "sourceLabel": "Kementerian Pertanian"
- },
- {
-  "slug": "kementan-kejar-lahan-bioetanol-2-juta-hektare",
-  "category": "Energi",
-  "title": "Kementan Kejar Lahan Bioetanol [2 Juta] Hektare",
-  "deck": "Kementerian Pertanian menyiapkan lahan tebu, singkong, dan jagung hingga 2 juta hektare untuk bahan baku bioetanol, dengan pembiayaan pabrik dibagi antara BUMN dan swasta.",
-  "date": "21 September 2026",
-  "image": "assets/img/kementan-kejar-lahan-bioetanol-2-juta-hektare.jpg",
-  "imageV": "mub197yj",
-  "tags": [
-   "bioetanol",
-   "Kementerian Pertanian",
-   "energi terbarukan",
-   "lahan pertanian"
-  ],
-  "kreditFoto": "Kementerian Pertanian",
-  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8162",
-  "sourceLabel": "Kementerian Pertanian"
- },
- {
-  "slug": "mendag-pantau-pasar-sleman-harga-bapok-diklaim-stabil",
-  "category": "Makroekonomi",
-  "title": "Mendag Pantau Pasar Sleman, Harga Bapok Diklaim [Stabil]",
-  "deck": "Menteri Perdagangan Budi Santoso memantau harga bahan pokok di Pasar Potrojayan, Sleman, dan menyebut mayoritas komoditas masih di bawah harga acuan pemerintah.",
-  "date": "21 September 2026",
-  "image": "assets/img/mendag-pantau-pasar-sleman-harga-bapok-diklaim-stabil.jpg",
-  "imageV": "mub199zj",
-  "tags": [
-   "harga pangan",
-   "Kementerian Perdagangan",
-   "Sleman",
-   "HET-HA"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pantau-pasar-potrojayan-di-sleman-mendag-busan-pemerintah-terus-jaga-harga-keseimbangan-bapok",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "real-enam-berlian-sinergi-lepas-100-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "REAL: Enam Berlian Sinergi Lepas [100 Juta] Saham",
-  "deck": "PT Enam Berlian Sinergi mengurangi kepemilikan di REAL sebanyak 100 juta saham pada 17 September 2026, hak suara turun dari 46,72% menjadi 45,22%.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "REAL",
-   "PT Enam Berlian Sinergi",
-   "kepemilikan saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0949-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "film-direksi-lepas-100-8-juta-saham-via-pencairan-repo",
-  "category": "Aksi Korporasi",
-  "title": "FILM: Direksi Lepas 100,8 Juta Saham via [Pencairan Repo]",
-  "deck": "Direksi FILM melaporkan pencairan repo saham senilai sekitar Rp143,6 miliar, hak suaranya turun dari 9,64% menjadi 8,71% usai melepas 100,8 juta saham pada 21 September 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "MD Entertainment",
-   "kepemilikan saham",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-5719-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bahlil-ubah-aturan-pnbp-kini-lebih-penting-dari-produksi",
-  "category": "Energi",
-  "title": "Bahlil Ubah Aturan, PNBP Kini Lebih [Penting] dari Produksi",
-  "deck": "Menteri ESDM Bahlil Lahadalia menata batu bara dan nikel lewat BMKS dan ekspor satu pintu Danantara SDI, produksi tak lagi jadi ukuran utama dibanding penerimaan negara.",
-  "date": "21 September 2026",
-  "image": "assets/img/bahlil-ubah-aturan-pnbp-kini-lebih-penting-dari-produksi.jpg",
-  "imageV": "mub19ai8",
-  "tags": [
-   "Batu Bara",
-   "Nikel",
-   "BMKS",
-   "PNBP Minerba"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468410-bahlil-ungkap-cara-baru-atur-batu-bara-dan-nikel-produksi-tak-lagi-jadi-patokan-utama"
- },
- {
-  "slug": "mrei-rombak-anggaran-dasar-ubah-masa-jabatan-direksi-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "MREI Rombak Anggaran Dasar, Ubah [Masa Jabatan] Direksi-Komisaris",
-  "deck": "RUPSLB 14 Agustus 2026 mengubah masa jabatan direksi dan komisaris MREI menjadi tetap 5 tahun, mengubah aturan rapat komisaris, dan menyederhanakan aturan pengumuman dividen.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MREI",
-   "Anggaran Dasar",
-   "Tata Kelola",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a35034319a_7040ed4a45.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gmfi-direksi-tri-hartono-tambah-saham-5-000-lembar",
-  "category": "Aksi Korporasi",
-  "title": "GMFI: Direksi Tri Hartono [Tambah] Saham 5.000 Lembar",
-  "deck": "Direktur GMFI Tri Hartono membeli 5.000 lembar saham pada 16 September 2026 seharga Rp59 per lembar, menggandakan kepemilikannya menjadi 10.000 lembar meski hak suaranya tetap 0,00 persen.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GMFI",
-   "kepemilikan saham",
-   "direksi",
-   "laporan OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7719-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "visi-berencana-pmthmetd-ubah-bisnis-dan-domisili",
-  "category": "Aksi Korporasi",
-  "title": "VISI Berencana [PMTHMETD], Ubah Bisnis dan Domisili",
-  "deck": "Menjawab surat BEI soal volatilitas transaksi, Satu Visi Putra Tbk mengungkap rencana private placement, perubahan bisnis, domisili, dan penyertaan saham di PT Hasna Medika Bakti Cirebon dalam tiga bulan ke depan.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "PMTHMETD",
-   "RUPS",
-   "Hasna Medika Bakti Cirebon"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8003d4c448_1e14dcd4c0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asing-lepas-bumi-adro-rp348-m-brms-diburu",
-  "category": "Pasar Modal",
-  "title": "Asing [Lepas] BUMI-ADRO Rp348 M, BRMS Diburu",
-  "deck": "Investor asing menjual saham BUMI dan ADRO senilai Rp348,4 miliar dalam sepekan, sementara BRMS mencatat pembelian bersih asing terbesar di sektor tambang.",
-  "date": "21 September 2026",
-  "image": "assets/img/asing-lepas-bumi-adro-rp348-m-brms-diburu.jpg",
-  "imageV": "mub19ayd",
-  "tags": [
-   "bumi",
-   "adro",
-   "brms",
-   "saham tambang"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468397-asing-cabut-rp3484-miliar-dari-bumi-dan-adro-saham-tambang-lain-malah-diburu"
- },
- {
-  "slug": "safe-pengendali-jual-294-300-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "SAFE: Pengendali Jual 294.300 Saham Lewat [Repo]",
-  "deck": "Infiniti Wahana, pengendali Steady Safe, melepas 294.300 saham SAFE senilai Rp1.270 per lembar lewat skema repo, hak suara nyaris tak berubah.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAFE",
-   "Steady Safe",
-   "kepemilikan saham",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7514-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

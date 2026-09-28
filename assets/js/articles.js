@@ -3,6 +3,31 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tapg-direksi-george-oetomo-beli-350-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi George Oetomo [Beli] 350.000 Saham",
+  "deck": "George Oetomo, Direksi TAPG, membeli 350.000 saham perusahaan pada 22-23 September 2026 seharga Rp2.050 dan Rp1.975 per lembar untuk investasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T07:58:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-4055-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "kepemilikan saham direksi",
+   "sawit"
+  ],
+  "body": [
+   "Direksi PT Triputra Agro Persada Tbk (TAPG), George Oetomo, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan dalam dua transaksi tidak langsung pada pekan lalu. Pada 22 September 2026 ia membeli 250.000 saham dengan harga Rp2.050 per lembar, disusul pembelian 100.000 saham pada 23 September 2026 seharga Rp1.975 per lembar. Kedua transaksi tersebut, menurut laporan, bertujuan untuk investasi.",
+   "Dengan tambahan 350.000 lembar itu, jumlah saham TAPG yang dipegang George Oetomo naik dari 50.456.100 lembar menjadi 50.806.100 lembar. Hak suaranya di perusahaan ikut naik tipis dari 0,2542 persen menjadi 0,2559 persen. Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Workers harvesting palm oil fruit bunches on a plantation and loading them onto a truck, tropical morning light",
+  "takeaway": "Laporan ini netral bagi TAPG karena pembelian 350.000 saham oleh George Oetomo hanya menambah sekitar 0,69 persen dari kepemilikannya sendiri, sehingga terlalu kecil untuk dibaca sebagai pernyataan sikap yang kuat. Yang tersentuh di sini adalah jumlah saham dan hak suara yang dipegang salah satu direksi, bukan kondisi keuangan TAPG seperti kas, utang, atau laba, dan hak suaranya di perusahaan pun cuma bergeser dari 0,2542 persen ke 0,2559 persen, praktis tidak mengubah peta kendali perusahaan. Pelaku pasar tetap mencatat transaksi semacam ini karena pembelian oleh orang dalam perusahaan kadang dibaca sebagai tanda keyakinan terhadap prospek bisnisnya, meski dalam kasus ini skalanya kecil. Menariknya, pekan ini juga tercatat entitas yang mewakili kursi komisaris TAPG menambah 500.000 saham pada 24 September 2026, sehingga pola pembelian oleh pihak dalam perusahaan ini layak dipantau apakah berlanjut menjadi tren akumulasi yang lebih besar.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pengiriman-kendaraan-listrik-lewat-kapal-terkendala",
   "category": "Industri",
   "title": "Pengiriman Kendaraan Listrik Lewat Kapal [Terkendala]",

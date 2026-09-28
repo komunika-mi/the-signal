@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tapg-direksi-george-oetomo-beli-350-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi George Oetomo [Beli] 350.000 Saham",
+  "deck": "George Oetomo, Direksi TAPG, membeli 350.000 saham perusahaan pada 22-23 September 2026 seharga Rp2.050 dan Rp1.975 per lembar untuk investasi.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "kepemilikan saham direksi",
+   "sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-4055-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pengiriman-kendaraan-listrik-lewat-kapal-terkendala",
   "category": "Industri",
   "title": "Pengiriman Kendaraan Listrik Lewat Kapal [Terkendala]",
@@ -6505,22 +6521,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac5d6257c8_47ecf6a7f1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btps-panggil-rupslb-usulkan-buyback-saham-hingga-rp1-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BTPS Panggil RUPSLB, Usulkan [Buyback] Saham hingga Rp1 Triliun",
-  "deck": "RUPSLB BTPS digelar 13 Oktober 2026 untuk memutuskan rencana pembelian kembali saham hingga 10 persen modal dengan dana maksimal Rp1 triliun.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "RUPSLB",
-   "buyback saham",
-   "Bank BTPN Syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c8cebd70e_8b0b842574.pdf",
   "sourceLabel": "IDX"
  }
 ];

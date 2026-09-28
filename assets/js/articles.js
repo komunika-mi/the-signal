@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sofa-tambah-kbli-jadi-holding-pembiayai-proyek-sampah-energi",
+  "category": "Aksi Korporasi",
+  "title": "SOFA Tambah KBLI, Jadi [Holding] Pembiayai Proyek Sampah Energi",
+  "deck": "SOFA merevisi rencana penambahan dua kegiatan usaha, holding dan pembiayaan conduit, untuk mendanai proyek sampah jadi energi di Denpasar dan Bogor, jelang RUPSLB 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T00:10:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ff4f1264e_71cbd4e2f7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOFA",
+  "tags": [
+   "SOFA",
+   "RUPSLB",
+   "perubahan kegiatan usaha",
+   "KBLI"
+  ],
+  "body": [
+   "PT Solusi Environment Asia Tbk (SOFA) mengoreksi keterbukaan informasi yang diterbitkan sehari sebelumnya, 28 September 2026, terkait rencana transaksi material berupa penambahan dua kegiatan usaha baru: Aktivitas Perusahaan Induk (KBLI 64210) dan Aktivitas Pembiayaan Conduit (KBLI 64220). Perseroan akan meminta persetujuan pemegang saham atas rencana ini dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan 30 September 2026, sekaligus mengubah Pasal 3 Anggaran Dasar yang mengatur maksud dan tujuan usaha. Konsultan penilai independen, KJPP Ferdinand, Danar, Ichsan dan Rekan, menyimpulkan kedua penambahan kegiatan usaha ini layak dijalankan berdasarkan uji NPV positif, IRR di atas tingkat diskonto, dan Profitability Index di atas 1,00, setelah merevisi laporan sebelumnya sesuai arahan OJK pada 28 Agustus dan 28 September 2026.",
+   "Di balik perubahan ini ada pergeseran arah bisnis yang besar. SOFA sebelumnya bernama PT Boston Furniture Industries Tbk dengan bisnis utama furnitur kayu dan logam, sebelum 70,97 persen sahamnya diambil alih PT Asia Investment Capital (AIC) pada 24 Oktober 2025 dan namanya diubah awal 2026. Pemilik manfaat perseroan adalah Denny Rizal, yang juga menjabat Direktur Utama, memegang kendali tidak langsung lewat AIC. Sebagai perusahaan induk, SOFA akan mengelola investasi lewat anak usaha PT Ananta Energi Asia (AEA, kepemilikan 99 persen), yang menyertakan modal pada Weiming Nusantara Alpha (WNA) dan Weiming Nusantara Gamma (WNG), dua entitas yang mengelola proyek pengolahan sampah menjadi energi listrik (PSEL) di Denpasar Raya dan Bogor Raya, dengan masa konstruksi sejak kuartal III 2026 hingga diproyeksikan rampung kuartal II 2028.",
+   "Fungsi pembiayaan conduit yang baru memungkinkan SOFA menghimpun dana dari luar untuk kemudian disalurkan lewat AEA ke WNA dan WNG sesuai kebutuhan penyetoran modal proyek, yang akan ditagih bertahap lewat mekanisme capital call. Struktur permodalan SOFA saat ini terdiri dari 1.653.574.499 saham beredar, dengan AIC menguasai 1.173.500.000 saham atau 70,97 persen dan sisanya 480.074.499 saham atau 29,03 persen dipegang publik di bawah 5 persen kepemilikan masing-masing. Perseroan menyatakan tidak memiliki perjanjian kredit dengan klausul negative covenant yang dapat merugikan pemegang saham, dan tidak ada pihak yang keberatan atas rencana penambahan kegiatan usaha ini."
+  ],
+  "fotoAdegan": "Workers in hard hats overseeing heavy machinery at a waste-to-energy plant construction site, cranes, overcast sky",
+  "takeaway": "Perubahan kegiatan usaha ini netral bagi fundamental SOFA, sebab pivot dari produsen furnitur menjadi perusahaan induk sekaligus pembiaya proyek pengolahan sampah menjadi energi ini belum disertai angka nilai investasi atau target dana yang jelas, sementara kajian kelayakan yang menyimpulkan proyek ini layak justru dibuat oleh konsultan yang disewa perseroan sendiri. Yang tersentuh adalah struktur permodalan dan arus kas perseroan, karena sebagai pembiaya conduit SOFA akan menghimpun dana lalu menyalurkannya lewat anak usaha AEA ke proyek WNA dan WNG, sehingga neraca perseroan ikut menanggung kebutuhan pendanaan proyek yang menurut kajian sendiri tergolong besar dan berisiko. RUPSLB pada 30 September 2026, dua hari setelah laporan ini terbit, akan menentukan apakah pemegang saham menyetujui perubahan anggaran dasar yang membuka jalan bagi pivot bisnis ini, dan hasilnya patut dipantau karena akan mengubah watak bisnis perseroan yang semula produsen furnitur menjadi pengelola investasi energi sampah.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tamu-restrukturisasi-kredit-jatuh-tempo-diundur-ke-2031",
   "category": "Aksi Korporasi",
   "title": "TAMU restrukturisasi kredit, jatuh tempo [diundur] ke 2031",
@@ -373,6 +399,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pgeo-catatkan-486-360-saham-baru-dari-mesop-tahap-i-iii",
+  "category": "Aksi Korporasi",
+  "title": "PGEO [Catatkan] 486.360 Saham Baru dari MESOP Tahap I-III",
+  "deck": "BEI mencatatkan 486.360 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III pada 29 September 2026, menambah total saham beredar menjadi 41.945.887.584.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:26:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dbc5446a6f_2e1ba1b26b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "ESOP",
+   "pencatatan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatatkan tambahan 486.360 saham baru PT Pertamina Geothermal Energy Tbk (PGEO) pada 29 September 2026, hasil pelaksanaan opsi saham karyawan dan manajemen atau MESOP. Rinciannya, Tahap I menyumbang 271.905 saham dan Tahap III menyumbang 214.455 saham. Setelah pencatatan Tahap I, total saham PGEO menjadi 41.945.673.129, lalu setelah Tahap III ikut dicatatkan totalnya naik lagi menjadi 41.945.887.584.",
+   "Berdasarkan surat PT Datindo Entrycom selaku biro administrasi efek PGEO tertanggal 28 September 2026, permohonan penerbitan saham baru ini diajukan pada 25 September 2026. Sebelum pelaksanaan opsi, total saham ditempatkan dan disetor penuh PGEO tercatat 41.945.401.224 lembar. Setelah penambahan 486.360 saham dari dua tahap MESOP tersebut, jumlahnya naik menjadi 41.945.887.584 lembar. Surat itu ditembuskan kepada Muhammad Taufik selaku Corporate Secretary PGEO.",
+   "Pengumuman Bursa juga mencantumkan sisa jatah opsi yang belum dilaksanakan, yakni 14.136.873 saham untuk Tahap I dan 11.161.455 saham untuk Tahap III. Artinya program MESOP PGEO masih akan menambah saham beredar secara bertahap ke depan seiring pemegang opsi merealisasikan haknya. Pencatatan kali ini menyusul realisasi serupa pada 21 September 2026 sebesar 474.554 saham, sehingga dalam sebulan terakhir MESOP PGEO sudah menambah total sekitar 960.914 saham baru."
+  ],
+  "fotoAdegan": "Geothermal power plant cooling towers releasing steam on a forested hillside, workers checking pipelines, misty tropical morning",
+  "takeaway": "Laporan ini netral bagi PGEO karena tambahan 486.360 saham dari MESOP Tahap I dan III hanya sekitar 0,0012 persen dari total saham beredar sebelumnya, jauh terlalu kecil untuk mengubah peta kepemilikan atau hak suara pemegang saham lain. Yang tersentuh adalah jumlah saham beredar, yang jadi penyebut dalam perhitungan laba per saham, artinya makin banyak saham beredar maka laba yang sama harus dibagi ke lebih banyak lembar sehingga laba per saham sedikit terdilusi, meski dalam skala ini dampaknya nyaris tidak terasa. Yang perlu dipantau adalah sisa opsi yang belum dilaksanakan, yaitu 14.136.873 saham di Tahap I dan 11.161.455 saham di Tahap III, karena pencatatan berikutnya kemungkinan akan menambah saham beredar lagi secara bertahap.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "sema-raih-kontrak-panel-listrik-data-center-cgk5-cgk7",
   "category": "Aksi Korporasi",
   "title": "SEMA Raih Kontrak Panel Listrik [Data Center] CGK5-CGK7",
@@ -397,6 +449,32 @@ var ARTICLES = [
   "fotoAdegan": "Electricians installing heavy industrial switchgear panels inside an unfinished data center hall, thick cable trays overhead, hard hats and safety vests.",
   "takeaway": "Laporan ini condong positif bagi Semacom karena menandakan perusahaan berhasil memperluas bisnis ke sektor infrastruktur data center, yang tengah tumbuh seiring maraknya investasi pusat data di Indonesia, tanpa disertai indikasi gangguan operasional atau hukum. Yang perlu dicatat, perseroan tidak mengungkap nilai kontrak maupun target pendapatan dari proyek ini, sehingga pasar belum bisa mengukur seberapa besar sumbangannya terhadap arus kas, yaitu aliran uang masuk dan keluar perusahaan, ke depan. Kalau proyek ini benar terealisasi, potensinya ada pada tambahan pendapatan dan arus kas dari lini bisnis baru, tapi besarannya baru bisa dilihat dari laporan keuangan berikutnya. Yang perlu dipantau selanjutnya adalah apakah Semacom akan mengungkap nilai kontrak secara terpisah, serta laporan keuangan kuartal IV 2026 untuk melihat kontribusi awal proyek CGK5 dan CGK7 terhadap pendapatan perseroan.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "djpu-debt-switch-tukar-vr0043-rp21-1-t-ke-3-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "DJPU [Debt Switch] Tukar VR0043 Rp21,1 T ke 3 Sukuk",
+  "deck": "BEI mencatatkan debt switch Rp21,1 triliun. Obligasi VR0043 yang jatuh tempo hari ini ditukar ke tiga seri sukuk negara berjangka panjang: PBS028, PBS033, dan PBS015.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:16:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1bb4797fed_79812a5982.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DJPU",
+  "tags": [
+   "DJPU",
+   "obligasi negara",
+   "sukuk negara",
+   "debt switch"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan awal surat berharga negara lewat surat No. Peng-HPS-00005/BEI.PP3/09-2026, merujuk siaran pers Direktorat Jenderal Pengelolaan Pembiayaan dan Risiko (DJPU) Kementerian Keuangan tertanggal 24 September 2026. Mulai 28 September 2026, BEI mencatatkan hasil transaksi debt switch atau pertukaran utang antara satu seri obligasi negara dengan tiga seri sukuk negara.",
+   "Dalam transaksi ini, Obligasi Negara Republik Indonesia Seri VR0043 dikurangi (debt switch kurang) senilai Rp21,1 triliun, sehingga nilai total seri itu yang tercatat di bursa menjadi nol. VR0043 sendiri diterbitkan 28 September 2020 dan jatuh tempo tepat pada 28 September 2026, hari yang sama dengan tanggal pencatatan pertukaran ini, artinya kewajiban yang seharusnya dibayar tunai saat jatuh tempo dialihkan lewat mekanisme switch, bukan dilunasi langsung.",
+   "Sebagai gantinya, tiga seri Surat Berharga Syariah Negara mendapat penambahan (debt switch tambah) dengan nilai emisi baru yang totalnya sama persis, Rp21,1 triliun. PBS028 bertambah Rp7 triliun sehingga nilai totalnya menjadi Rp86,84 triliun, dengan jatuh tempo 15 Oktober 2046. PBS033 bertambah Rp7 triliun menjadi Rp64,57 triliun, jatuh tempo 15 Juni 2047. PBS015 bertambah Rp7,1 triliun menjadi Rp38,67 triliun, jatuh tempo 15 Juli 2047. Pengumuman ditandatangani Kadiv Pengaturan dan Operasional Perdagangan BEI, Pande Made Kusuma Ari A, dan Kadiv Penilaian Perusahaan 3, Lidia M. Panjaitan."
+  ],
+  "fotoAdegan": "Distant view of Jakarta's Sudirman business district skyscrapers reflecting late afternoon light, busy street traffic below",
+  "takeaway": "Laporan ini netral bagi posisi utang pemerintah, karena debt switch cuma memindahkan kewajiban Rp21,1 triliun dari satu instrumen ke tiga instrumen lain, bukan menambah utang baru maupun mengurangi total utang beredar. Yang tersentuh adalah profil jatuh tempo utang negara, obligasi VR0043 yang seharusnya dilunasi tunai hari ini kini bergeser menjadi kewajiban jangka panjang lewat tiga seri sukuk yang baru jatuh tempo pada 2046 dan 2047, sehingga tekanan pembayaran utang jangka pendek pemerintah berkurang untuk saat ini. Pelaku pasar sukuk perlu mencermati bagaimana tambahan pasokan di PBS028, PBS033, dan PBS015 memengaruhi likuiditas perdagangan ketiga seri itu, serta jadwal pembayaran kupon berikutnya atas nilai outstanding yang membesar. Efek pertukaran ini resmi tercatat di bursa mulai 28 September 2026, bertepatan dengan tanggal jatuh tempo VR0043 yang digantikannya.",
+  "sentimen": "netral"
  },
  {
   "slug": "wskt-penjamin-lunasi-pokok-obligasi-rp722-miliar",
@@ -425,6 +503,83 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pgeo-catatkan-1-357-876-saham-baru-dari-mesop-tahap-i-iii",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catatkan [1.357.876] Saham Baru dari MESOP Tahap I-III",
+  "deck": "Bursa mencatatkan 1.357.876 saham baru PGEO dari pelaksanaan opsi MESOP Tahap I dan III per 28 September 2026, menambah total saham tercatat menjadi 41.945.401.224 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:10:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f3b5827e4d_99cb6a6138.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "ESOP",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatatkan tambahan 1.357.876 saham baru PT Pertamina Geothermal Energy Tbk (PGEO) di Papan Utama, melalui pengumuman No. Peng-ESP-00043/BEI.PP3/09-2026 tertanggal 28 September 2026. Saham baru ini berasal dari pelaksanaan opsi karyawan dan manajemen atau MESOP, dengan rincian 927.198 saham dari Tahap I dan 430.678 saham dari Tahap III. Kedua batch tercatat dan mulai diperdagangkan pada tanggal yang sama, 28 September 2026, membawa total saham tercatat PGEO naik dari 41.944.043.348 menjadi 41.945.401.224 lembar.",
+   "Setelah pencatatan ini, sisa jatah opsi yang belum dieksekusi masih tersisa 14.408.778 saham untuk Tahap I dan 11.375.910 saham untuk Tahap III, yang berarti masih ada potensi tambahan saham beredar di kemudian hari saat pemegang opsi menggunakan haknya. Berdasarkan surat PT Datindo Entrycom selaku biro administrasi efek PGEO tertanggal 25 September 2026, penerbitan saham baru ini merupakan tindak lanjut dari permohonan yang diajukan sehari sebelumnya, 24 September 2026. Surat itu, yang diperoleh melalui hasil pindaian sehingga sebagian nama berpotensi salah baca, menyebut surat tersebut ditandatangani oleh Direktur Utama Datindo Entrycom dan ditembuskan kepada Muhammad Taufik selaku Corporate Secretary PGEO.",
+   "Pencatatan hari ini merupakan batch MESOP kedua yang tercatat pada 28 September 2026, setelah sebelumnya di hari yang sama Bursa juga mencatatkan 486.360 saham baru dari program serupa. Dengan tambahan kedua batch tersebut, total saham baru yang tercatat dari eksekusi MESOP pada hari itu mencapai 1.844.236 lembar, tetap merupakan porsi yang sangat kecil dari total saham PGEO yang kini melebihi 41,9 miliar lembar."
+  ],
+  "fotoAdegan": "Steam drifting from geothermal power plant cooling towers on a forested volcanic hillside, worker in a hard hat checking a pipeline",
+  "takeaway": "Laporan ini netral bagi PGEO karena tambahan 1.357.876 saham dari MESOP Tahap I dan III hanya sekitar 0,0032 persen dari total saham beredar setelah pencatatan, porsi yang terlalu kecil untuk mengubah struktur kepemilikan atau dibaca sebagai sinyal apa pun bagi pemegang saham. Yang tersentuh di sini adalah jumlah saham beredar dan berpotensi laba per saham, yaitu laba bersih perusahaan yang dibagi dengan jumlah saham yang kini sedikit lebih banyak, sehingga secara teori bisa terdilusi tipis, tapi dengan porsi sekecil ini efeknya nyaris tidak akan terlihat di laporan keuangan. Yang perlu dipantau ke depan adalah sisa opsi MESOP yang belum dieksekusi, yaitu 14.408.778 saham di Tahap I dan 11.375.910 saham di Tahap III, karena setiap kali pemegang opsi menggunakan haknya, Bursa akan kembali mencatatkan saham baru serupa, seperti yang sudah terjadi dua kali hanya pada 28 September 2026 ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "djpu-catatkan-7-sukuk-baru-menangkan-rp11-triliun-dari-lelang",
+  "category": "Aksi Korporasi",
+  "title": "DJPU Catatkan 7 Sukuk Baru, Menangkan [Rp11 Triliun] dari Lelang",
+  "deck": "Bursa mencatatkan tujuh seri sukuk negara mulai 25 September 2026, setelah pemerintah memenangkan Rp11 triliun dari total penawaran Rp26,9 triliun pada lelang 22 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:09:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca91145bf3_9cff277b35.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DJPU",
+  "tags": [
+   "DJPU",
+   "sukuk negara",
+   "lelang SBSN",
+   "obligasi pemerintah"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatatkan tujuh seri surat berharga syariah negara mulai 25 September 2026, menyusul lelang yang digelar Direktorat Jenderal Pengelolaan Pembiayaan dan Risiko Kementerian Keuangan pada 22 September 2026. Dari delapan seri yang ditawarkan, pemerintah menyerap total Rp11 triliun, jauh di bawah total penawaran yang masuk sebesar Rp26,9 triliun, sehingga dana yang ditawarkan investor sekitar 2,4 kali dari yang diserap.",
+   "Satu seri berstatus penerbitan baru, yaitu Surat Perbendaharaan Negara Syariah seri SPNS24102026, senilai Rp600 miliar dengan tenor sangat pendek, jatuh tempo 24 Oktober 2026, dan dimenangkan dengan yield rata-rata tertimbang 6,50 persen. Dua seri SPN Syariah lain, SPNS12042027 dan SPNS07062027, merupakan penerbitan ulang senilai masing-masing Rp1,8 triliun dan Rp2 triliun dengan yield yang sama, 6,50 persen, jatuh tempo berturut-turut 12 April 2027 dan 7 Juni 2027. Ketiga seri ini berjangka pendek dan dijual dengan sistem diskonto, tanpa kupon berkala.",
+   "Empat seri sukuk bertenor panjang juga dibuka kembali: PBS030 senilai Rp1,35 triliun dengan yield 6,74 persen jatuh tempo 15 Juli 2028, PBS034 senilai Rp2,15 triliun dengan yield 7,16 persen jatuh tempo 15 Juni 2039, PBS005 senilai Rp1,55 triliun dengan yield 7,15 persen jatuh tempo 15 April 2043, dan PBS038 senilai Rp1,55 triliun dengan yield 7,19 persen jatuh tempo 15 Desember 2049. Karena sudah berkali-kali dibuka ulang sejak pertama diterbitkan, total nilai beredar keempat seri ini kini mencapai Rp131,55 triliun untuk PBS030, Rp61,11 triliun untuk PBS034, Rp45,06 triliun untuk PBS005, dan Rp127,92 triliun untuk PBS038. Satu seri lain yang ditawarkan, PBS040, tidak mendapat pemenang sama sekali pada lelang ini."
+  ],
+  "fotoAdegan": "Exterior view of a modern high-rise office building in Jakarta's financial district, flagpoles in foreground, late afternoon light",
+  "takeaway": "Lelang ini netral bagi posisi pembiayaan pemerintah, sebab merupakan bagian rutin dari kalender penerbitan sukuk bulanan, dengan yield yang dimenangkan wajar dan minat investor, sekitar 2,4 kali dari dana yang diserap, tergolong sehat tanpa tanda tekanan pasar. Yang tersentuh dari lelang ini adalah beban bunga utang negara: yield yang dimenangkan, mulai dari 6,50 persen untuk sukuk jangka pendek sampai 7,19 persen untuk sukuk bertenor puluhan tahun, menentukan besarnya kupon yang harus dibayar pemerintah ke pemegang sukuk sampai jatuh tempo, sehingga ikut membebani arus kas pembiayaan APBN ke depan. Yang perlu dipantau adalah jatuh tempo SPNS24102026 pada 24 Oktober 2026, hanya sebulan setelah penerbitan, serta lelang berikutnya sesuai kalender DJPPR untuk melihat apakah yield bergerak naik atau turun dibanding lelang kali ini. PBS040 yang gagal mendapat pemenang pada lelang ini juga layak diperhatikan pada penawaran berikutnya, karena bisa menandakan investor menilai imbal hasil yang ditawarkan untuk seri itu kurang menarik.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "foru-catatkan-tambahan-167-miliar-saham-dari-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "FORU Catatkan Tambahan 167 Miliar Saham dari [Rights Issue]",
+  "deck": "BEI mencatat 167,08 miliar saham baru FORU hasil pelaksanaan HMETD, sehingga total saham beredar melonjak jadi 167,54 miliar per 29 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:04:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/810ee2df0d_69805781bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "HMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia resmi mencatatkan tambahan 167.075.796.461 saham baru PT Fortune Indonesia Tbk (FORU) hasil pelaksanaan Hak Memesan Efek Terlebih Dahulu (HMETD) di Papan Pengembangan, efektif per 29 September 2026. Dengan pencatatan ini, total saham FORU yang tercatat di bursa melonjak dari 465.224.000 lembar menjadi 167.541.020.461 lembar.",
+   "Menurut laporan PT Adimitra Jasa Korpora selaku biro administrasi efek FORU, penambahan itu berasal dari pelaksanaan hak oleh pemegang saham per 25 September 2026, terdiri dari 165.216.755.166 saham melalui mekanisme warkat (scrip) dan 1.859.041.295 saham secara scripless lewat sistem C-BEST. Dari total hak yang diterbitkan sebanyak 215.096.316.400 HMETD dalam Penawaran Umum Terbatas (PUT) I yang berlangsung 25 September sampai 6 Oktober 2026, masih tersisa 48.020.519.939 hak yang belum dieksekusi pemegang saham hingga tanggal pelaporan ini."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's central business district skyline with the stock exchange tower prominent, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama FORU karena jumlah saham beredar melonjak lebih dari 360 kali lipat, dari 465,2 juta menjadi 167,5 miliar lembar, sehingga siapa pun yang tidak ikut menambah modal lewat rights issue akan melihat porsi kepemilikan dan bagian labanya per saham tergerus tajam. Pos yang tersentuh adalah jumlah saham beredar, yang menjadi pembagi dalam perhitungan laba per saham: makin banyak saham beredar tanpa kenaikan laba yang sepadan, makin kecil bagian laba yang jatuh ke setiap lembar saham. Di sisi lain, dana segar dari pelaksanaan rights issue ini masuk sebagai modal baru perusahaan, yang bisa memperkuat kas dan ekuitas FORU kalau digunakan untuk membayar utang atau membiayai ekspansi. Yang perlu dipantau berikutnya adalah nasib sisa 48,02 miliar hak yang belum dilaksanakan hingga penawaran umum terbatas ini ditutup pada 6 Oktober 2026, karena itu akan menentukan berapa besar dana yang akhirnya terkumpul dan siapa pembeli siaga yang menyerap sisa saham yang tidak diambil pemegang saham lama.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "presiden-prabowo-minta-rs-tak-bedakan-pasien-bpjs",
   "category": "Bisnis",
   "title": "Presiden Prabowo Minta RS Tak [Bedakan] Pasien BPJS",
@@ -449,6 +604,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret adalah instruksi Presiden Prabowo agar rumah sakit menyamakan pelayanan pasien BPJS Kesehatan dengan pasien umum, mempercepat waktu tunggu pasien, serta persetujuan pencairan dana Rp20 triliun untuk BPJS Kesehatan pada tahun ini. Yang terdampak adalah pasien peserta BPJS Kesehatan yang menjadi sasaran langsung perbaikan layanan ini, sekaligus rumah sakit, termasuk rumah sakit swasta yang turut disoroti pemerintah karena berperan besar dalam jaringan pelayanan program ini. Yang belum jelas dari keterangan yang beredar adalah untuk apa persis dana Rp20 triliun itu dipakai, kapan tepatnya pencairan dilakukan, dan bagaimana pemerintah memastikan instruksi kesetaraan layanan benar-benar berjalan di lapangan, bukan sekadar imbauan. Yang perlu ditunggu adalah aturan turunan atau keterangan resmi Kementerian Kesehatan maupun BPJS Kesehatan soal peruntukan dana tersebut, serta data waktu tunggu pasien setelah instruksi ini berjalan.",
   "imageV": "mule6agf"
+ },
+ {
+  "slug": "ketr-imbs-jadi-pengendali-baru-lewat-tender-offer",
+  "category": "Aksi Korporasi",
+  "title": "KETR: IMBS Jadi Pengendali Baru Lewat [Tender Offer]",
+  "deck": "PT Inti Mas Bangun Sejahtera menguasai 994,4 juta saham atau 35 persen Ketrosden Triasmitra lewat penawaran tender sukarela, menggeser BBN sebagai pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T19:39:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/549d9cdf8e_3021117498.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "pengendali",
+   "akuisisi",
+   "tender offer"
+  ],
+  "body": [
+   "PT Ketrosden Triasmitra Tbk (KETR) melaporkan perubahan pengendali perusahaan menyusul surat dari PT Inti Mas Bangun Sejahtera (IMBS) tertanggal 28 September 2026. Dalam surat itu, IMBS menyatakan telah memperoleh 994.442.000 saham KETR, setara 35 persen dari seluruh saham yang telah ditempatkan dan disetor penuh, melalui mekanisme Penawaran Tender Sukarela.",
+   "Dengan perolehan saham tersebut, terjadi pengambilalihan yang mengubah pengendali Ketrosden dari PT Bahtera Bintang Nusantara (BBN), yang sebelumnya menjadi pengendali tidak langsung lewat PT Fajar Sejahtera Mandiri Nusantara (FSMN), menjadi IMBS sebagai pengendali baru. Perubahan ini mengacu pada Peraturan OJK Nomor 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka. Perusahaan menyebut tidak ada hubungan afiliasi antara BBN dan IMBS.",
+   "IMBS disebutkan sebagai perseroan terbatas yang didirikan berdasarkan hukum Indonesia, berkedudukan di Jakarta dengan alamat di Cikini Raya No. 12-14, Cikini, Menteng, Jakarta Pusat. Corporate Secretary KETR, Henry Rizard Rumopa, menyatakan perubahan pengendalian ini tidak berdampak negatif terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Technicians spooling thick fiber-optic cable onto a cable-laying ship's deck at a busy Indonesian harbor, overcast morning light",
+  "takeaway": "Perubahan pengendali ini bersifat netral bagi Ketrosden, karena perusahaan sendiri menegaskan tidak ada dampak buruk terhadap operasional atau keuangan, dan transaksinya adalah jual beli saham antar pemegang saham, bukan aksi korporasi yang mengubah kas atau modal perseroan. Yang tersentuh dari laporan ini adalah struktur pengendali dan hak suara, bukan pos kinerja seperti ekuitas, arus kas, atau laba per saham, sehingga dampaknya lebih ke arah tata kelola dan arah strategi ke depan ketimbang ke laporan keuangan perusahaan. Yang perlu dicermati berikutnya adalah RUPSLB yang telah dijadwalkan pada 12 November 2026, karena forum itu kemungkinan menjadi kesempatan pertama IMBS menggunakan hak suara barunya, sementara agenda resminya belum diungkap dalam laporan ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "ketr-fsmn-lepas-994-juta-saham-lewat-divestasi",

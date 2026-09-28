@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sofa-tambah-kbli-jadi-holding-pembiayai-proyek-sampah-energi",
+  "category": "Aksi Korporasi",
+  "title": "SOFA Tambah KBLI, Jadi [Holding] Pembiayai Proyek Sampah Energi",
+  "deck": "SOFA merevisi rencana penambahan dua kegiatan usaha, holding dan pembiayaan conduit, untuk mendanai proyek sampah jadi energi di Denpasar dan Bogor, jelang RUPSLB 30 September 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOFA",
+   "RUPSLB",
+   "perubahan kegiatan usaha",
+   "KBLI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ff4f1264e_71cbd4e2f7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tamu-restrukturisasi-kredit-jatuh-tempo-diundur-ke-2031",
   "category": "Aksi Korporasi",
   "title": "TAMU restrukturisasi kredit, jatuh tempo [diundur] ke 2031",
@@ -236,6 +252,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pgeo-catatkan-486-360-saham-baru-dari-mesop-tahap-i-iii",
+  "category": "Aksi Korporasi",
+  "title": "PGEO [Catatkan] 486.360 Saham Baru dari MESOP Tahap I-III",
+  "deck": "BEI mencatatkan 486.360 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III pada 29 September 2026, menambah total saham beredar menjadi 41.945.887.584.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "ESOP",
+   "pencatatan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dbc5446a6f_2e1ba1b26b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sema-raih-kontrak-panel-listrik-data-center-cgk5-cgk7",
   "category": "Aksi Korporasi",
   "title": "SEMA Raih Kontrak Panel Listrik [Data Center] CGK5-CGK7",
@@ -249,6 +281,22 @@ var ARTICLES = [
    "panel listrik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e2296e913_430ed012e1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "djpu-debt-switch-tukar-vr0043-rp21-1-t-ke-3-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "DJPU [Debt Switch] Tukar VR0043 Rp21,1 T ke 3 Sukuk",
+  "deck": "BEI mencatatkan debt switch Rp21,1 triliun. Obligasi VR0043 yang jatuh tempo hari ini ditukar ke tiga seri sukuk negara berjangka panjang: PBS028, PBS033, dan PBS015.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DJPU",
+   "obligasi negara",
+   "sukuk negara",
+   "debt switch"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1bb4797fed_79812a5982.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -268,6 +316,54 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pgeo-catatkan-1-357-876-saham-baru-dari-mesop-tahap-i-iii",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catatkan [1.357.876] Saham Baru dari MESOP Tahap I-III",
+  "deck": "Bursa mencatatkan 1.357.876 saham baru PGEO dari pelaksanaan opsi MESOP Tahap I dan III per 28 September 2026, menambah total saham tercatat menjadi 41.945.401.224 lembar.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "ESOP",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f3b5827e4d_99cb6a6138.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "djpu-catatkan-7-sukuk-baru-menangkan-rp11-triliun-dari-lelang",
+  "category": "Aksi Korporasi",
+  "title": "DJPU Catatkan 7 Sukuk Baru, Menangkan [Rp11 Triliun] dari Lelang",
+  "deck": "Bursa mencatatkan tujuh seri sukuk negara mulai 25 September 2026, setelah pemerintah memenangkan Rp11 triliun dari total penawaran Rp26,9 triliun pada lelang 22 September 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DJPU",
+   "sukuk negara",
+   "lelang SBSN",
+   "obligasi pemerintah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca91145bf3_9cff277b35.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-catatkan-tambahan-167-miliar-saham-dari-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "FORU Catatkan Tambahan 167 Miliar Saham dari [Rights Issue]",
+  "deck": "BEI mencatat 167,08 miliar saham baru FORU hasil pelaksanaan HMETD, sehingga total saham beredar melonjak jadi 167,54 miliar per 29 September 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "HMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/810ee2df0d_69805781bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "presiden-prabowo-minta-rs-tak-bedakan-pasien-bpjs",
   "category": "Bisnis",
   "title": "Presiden Prabowo Minta RS Tak [Bedakan] Pasien BPJS",
@@ -283,6 +379,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469978-prabowo-minta-rs-tak-bedakan-pasien-bpjs-dana-rp20-triliun-dicairkan-tahun-ini"
+ },
+ {
+  "slug": "ketr-imbs-jadi-pengendali-baru-lewat-tender-offer",
+  "category": "Aksi Korporasi",
+  "title": "KETR: IMBS Jadi Pengendali Baru Lewat [Tender Offer]",
+  "deck": "PT Inti Mas Bangun Sejahtera menguasai 994,4 juta saham atau 35 persen Ketrosden Triasmitra lewat penawaran tender sukarela, menggeser BBN sebagai pengendali.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "pengendali",
+   "akuisisi",
+   "tender offer"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/549d9cdf8e_3021117498.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ketr-fsmn-lepas-994-juta-saham-lewat-divestasi",
@@ -6401,119 +6513,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac656a24ad_c309aedba7.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "truk-catur-dharma-lepas-seluruh-20-saham-guna-timur-raya",
-  "category": "Aksi Korporasi",
-  "title": "TRUK: Catur Dharma [Lepas] Seluruh 20% Saham Guna Timur Raya",
-  "deck": "Catur Dharma Anugerah Surya melepas seluruh 87 juta saham atau 20 persen hak suaranya di Guna Timur Raya (TRUK) lewat repurchase agreement seharga Rp428 per saham pada 18 September 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUK",
-   "Guna Timur Raya",
-   "kepemilikan saham",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-7169-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vico-bagikan-dividen-tunai-rp121-7-m-29-pemegang-saham-menolak",
-  "category": "Aksi Korporasi",
-  "title": "VICO Bagikan [Dividen] Tunai Rp121,7 M, 29% Pemegang Saham Menolak",
-  "deck": "RUPSLB VICO menyetujui dividen tunai Rp8 per saham senilai Rp121,7 miliar, tapi hampir 29 persen suara yang hadir menyatakan tidak setuju.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICO",
-   "dividen",
-   "RUPSLB",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cb9b1a9ac_15e0b021ac.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-33-700-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem Jual [33.700] Saham Lagi",
-  "deck": "Henry Liem melepas 33.700 saham AKPI pada 21 September di harga Rp530, penjualan ketiga dalam kurang dari dua pekan.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Argha Karya Prima Industry",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8137-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vico-jadwalkan-pembayaran-dividen-rp121-7-m-22-oktober",
-  "category": "Aksi Korporasi",
-  "title": "VICO Jadwalkan Pembayaran Dividen Rp121,7 M [22 Oktober]",
-  "deck": "RUPSLB VICO menyetujui dividen tunai Rp8 per saham, dengan tanggal pencatatan pemegang saham 30 September dan pembayaran 22 Oktober 2026, setelah 29 persen suara menolak.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICO",
-   "dividen",
-   "RUPSLB",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b134757b35_21dd1889e8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpxl-dirikan-anak-usaha-otomotif-auto-prime-indonesia",
-  "category": "Aksi Korporasi",
-  "title": "MPXL Dirikan Anak Usaha Otomotif [Auto Prime Indonesia]",
-  "deck": "MPX Logistics mendirikan PT Auto Prime Indonesia untuk bisnis bengkel, cuci mobil, dan suku cadang, dengan modal disetor Rp3 miliar dan MPXL menguasai 55 persen saham.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPXL",
-   "anak usaha",
-   "otomotif",
-   "diversifikasi bisnis"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a7cd0a51c3_2c541258ff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-ralat-pengumuman-rups-digelar-29-oktober-untuk-3-tahun-buku",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Ralat Pengumuman RUPS, Digelar [29 Oktober] untuk 3 Tahun Buku",
-  "deck": "Perseroan mengoreksi pengumuman RUPS sebelumnya dan memastikan RUPST tiga tahun buku (2023-2025) beserta RUPSLB digelar 29 Oktober 2026 di Jakarta, dengan batas usul agenda 30 September 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "RUPS",
-   "RUPST",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84d9e56943_00419b76a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "qris-antarnegara-raih-penghargaan-global-transaksi-rp7-6-triliun",
-  "category": "Moneter",
-  "title": "QRIS Antarnegara Raih Penghargaan Global, Transaksi [Rp7,6] Triliun",
-  "deck": "Bank Indonesia meraih penghargaan internasional untuk QRIS Antarnegara di sela Sidang Majelis Umum PBB, dengan transaksi lintas negara tembus Rp7,63 triliun sejak 2022.",
-  "date": "22 September 2026",
-  "image": "assets/img/qris-antarnegara-raih-penghargaan-global-transaksi-rp7-6-triliun.jpg",
-  "imageV": "mubx7yar",
-  "tags": [
-   "QRIS",
-   "Bank Indonesia",
-   "pembayaran lintas negara",
-   "UMKM"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819126.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

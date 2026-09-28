@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "cK6vInhWKwE",
+  "title": "Antrean Truk Logistik 15 Km Hambat Distribusi ke Bali",
+  "category": "Bisnis",
+  "program": "Kabar Utama",
+  "summary": "Antrean truk logistik sepanjang 15 kilometer terjadi menuju Pelabuhan ASDP Ketapang, Banyuwangi, dan menghambat arus distribusi barang ke Bali.",
+  "takeaway": "Gangguan arus logistik di pelabuhan penyeberangan utama Jawa-Bali ini relevan bagi pembaca ekonomi karena berpotensi mengganggu rantai pasok dan menambah biaya distribusi barang."
+ },
+ {
   "id": "DnZUI7Ml9Ds",
   "title": "Prancis dan Indonesia Mulai Konstruksi Kapal Selam di PT PAL",
   "category": "BUMN",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Purbaya diganti dari posisi Menteri Keuangan. Sejumlah pihak menyebut kurangnya kedekatan dengan Direktorat Jenderal Bea Cukai dan Direktorat Jenderal Pajak sebagai salah satu faktor.",
   "takeaway": "Pergantian Menteri Keuangan dan relasinya dengan otoritas bea cukai serta pajak berpengaruh pada kebijakan penerimaan negara."
- },
- {
-  "id": "D6kxZIseois",
-  "title": "Pembangunan LRT Jakarta Dilanjutkan hingga Dukuh Atas",
-  "category": "Bisnis",
-  "program": "Kabar Petang",
-  "summary": "Gubernur DKI Jakarta Pramono Anung memastikan pembangunan LRT Jakarta dilanjutkan dari Manggarai hingga Dukuh Atas sepanjang sekitar 2 kilometer setelah rute Kelapa Gading-Manggarai rampung.",
-  "takeaway": "Kelanjutan proyek ini menandai keberlanjutan investasi infrastruktur transportasi publik di Jakarta yang berdampak pada mobilitas dan aktivitas ekonomi kota."
  }
 ];

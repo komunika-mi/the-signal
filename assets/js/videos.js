@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "cK6vInhWKwE",
+  "title": "Antrean Truk Logistik 15 Km Hambat Distribusi ke Bali",
+  "category": "Bisnis",
+  "program": "Kabar Utama",
+  "summary": "Antrean truk logistik sepanjang 15 kilometer terjadi menuju Pelabuhan ASDP Ketapang, Banyuwangi, dan menghambat arus distribusi barang ke Bali.",
+  "takeaway": "Gangguan arus logistik di pelabuhan penyeberangan utama Jawa-Bali ini relevan bagi pembaca ekonomi karena berpotensi mengganggu rantai pasok dan menambah biaya distribusi barang.",
+  "terbit": "2026-09-28T14:20:05+00:00"
+ },
+ {
   "id": "DnZUI7Ml9Ds",
   "title": "Prancis dan Indonesia Mulai Konstruksi Kapal Selam di PT PAL",
   "category": "BUMN",

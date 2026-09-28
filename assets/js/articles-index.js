@@ -5,6 +5,75 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-gelar-pelatihan-dagang-untuk-pejabat-afrika",
+  "category": "Global",
+  "title": "Kemendag Gelar Pelatihan Dagang untuk Pejabat [Afrika]",
+  "deck": "Kementerian Perdagangan membuka pelatihan kerja sama Selatan-Selatan bagi 14 pejabat dari enam negara Afrika Timur, bagian dari upaya memperluas hubungan dagang dan investasi dengan kawasan itu.",
+  "date": "28 September 2026",
+  "image": "assets/img/kemendag-gelar-pelatihan-dagang-untuk-pejabat-afrika.jpg",
+  "imageV": "mule67zb",
+  "tags": [
+   "Kemendag",
+   "Afrika",
+   "SSTC",
+   "JICA"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-pelatihan-sstc-2026-kemendag-dorong-penguatan-kemitraan-perdagangan-dan-investasi-indonesia-afrika",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "telkom-perluas-program-hijau-gozero-ke-klangon-sleman",
+  "category": "BUMN",
+  "title": "Telkom Perluas Program Hijau [GoZero%] ke Klangon, Sleman",
+  "deck": "Telkom lanjutkan program keberlanjutan GoZero% ke Bukit Klangon, Sleman, dengan konservasi Merapi, pengelolaan sampah terpadu, dan pengembangan EcoCamp Klangon bersama warga.",
+  "date": "28 September 2026",
+  "image": "assets/img/telkom-perluas-program-hijau-gozero-ke-klangon-sleman.jpg",
+  "imageV": "mule68je",
+  "tags": [
+   "Telkom",
+   "GoZero%",
+   "Sleman",
+   "Keberlanjutan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470014-gozero-goes-to-klangon-telkom-bangun-ekosistem-keberlanjutan-berbasis-konservasi-dan-pemberdayaan-masyarakat"
+ },
+ {
+  "slug": "presiden-prabowo-minta-audit-forensik-dana-haji",
+  "category": "Bisnis",
+  "title": "Presiden Prabowo Minta [Audit Forensik] Dana Haji",
+  "deck": "Presiden Prabowo Subianto meminta audit forensik atas tata kelola dana haji yang dikelola BPKH untuk memastikan kondisi keuangan haji yang sebenarnya.",
+  "date": "28 September 2026",
+  "image": "assets/img/presiden-prabowo-minta-audit-forensik-dana-haji.jpg",
+  "imageV": "mule68zi",
+  "tags": [
+   "dana haji",
+   "BPKH",
+   "audit forensik",
+   "Kementerian Haji"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470010-prabowo-minta-audit-forensik-dana-haji-dahnil-anzar-presiden-ingin-tahu-fakta-keuangan-haji-sebenar-benarnya"
+ },
+ {
+  "slug": "dpr-soroti-bunga-spesial-bank-yang-ganjal-kredit-umkm",
+  "category": "Perbankan",
+  "title": "DPR Soroti [Bunga Spesial] Bank yang Ganjal Kredit UMKM",
+  "deck": "Komisi XI DPR menyoroti praktik bunga simpanan khusus untuk nasabah besar yang membuat biaya dana bank mahal, sehingga bunga kredit UMKM sulit turun.",
+  "date": "28 September 2026",
+  "image": "assets/img/dpr-soroti-bunga-spesial-bank-yang-ganjal-kredit-umkm.jpg",
+  "imageV": "mule69m1",
+  "tags": [
+   "special rate",
+   "kredit UMKM",
+   "Komisi XI DPR",
+   "bunga bank"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469983-dpr-soroti-bunga-spesial-bank-kredit-umkm-disebut-sulit-tumbuh"
+ },
+ {
   "slug": "ptba-laporkan-transaksi-material-pinjaman-rp6-triliun",
   "category": "Aksi Korporasi",
   "title": "PTBA Laporkan Transaksi [Material] Pinjaman Rp6 Triliun",
@@ -35,6 +104,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd7ed14dc6_d0d98a6ff1.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-penghapusan-saham-gocap-bukan-pemicu-ihsg-anjlok",
+  "category": "Pasar Modal",
+  "title": "BEI: Penghapusan Saham [Gocap] Bukan Pemicu IHSG Anjlok",
+  "deck": "BEI menurunkan batas harga minimum saham dari Rp50 menjadi Rp1 dan menyebut koreksi IHSG 1,51 persen hari itu bukan akibat kebijakan tersebut.",
+  "date": "28 September 2026",
+  "image": "assets/img/bei-penghapusan-saham-gocap-bukan-pemicu-ihsg-anjlok.jpg",
+  "imageV": "mule6a0x",
+  "tags": [
+   "saham gocap",
+   "IHSG",
+   "BEI",
+   "harga saham"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470006-batas-saham-gocap-dihapus-jadi-rp1-bei-sebut-bukan-alasan-ihsg-anjlok-151"
  },
  {
   "slug": "ppgl-jelaskan-ke-bursa-rincian-pmthmetd-dan-saham-bonus",
@@ -83,6 +169,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fc5fa12493_ff24770695.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "presiden-prabowo-minta-rs-tak-bedakan-pasien-bpjs",
+  "category": "Bisnis",
+  "title": "Presiden Prabowo Minta RS Tak [Bedakan] Pasien BPJS",
+  "deck": "Presiden Prabowo instruksikan RS samakan pelayanan pasien BPJS dan umum, serta setujui pencairan dana Rp20 triliun untuk BPJS Kesehatan tahun ini.",
+  "date": "28 September 2026",
+  "image": "assets/img/presiden-prabowo-minta-rs-tak-bedakan-pasien-bpjs.jpg",
+  "imageV": "mule6agf",
+  "tags": [
+   "BPJS Kesehatan",
+   "Rumah Sakit",
+   "Presiden Prabowo",
+   "Kesehatan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469978-prabowo-minta-rs-tak-bedakan-pasien-bpjs-dana-rp20-triliun-dicairkan-tahun-ini"
  },
  {
   "slug": "smil-dana-obligasi-rp294-miliar-100-terealisasi-untuk-forklift",
@@ -6420,103 +6523,6 @@ var ARTICLES = [
    "Jasamarga Jalanlayang Cikampek"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b65f89912f_a4927e5a88.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dyan-teken-ppjb-tanah-bangunan-senilai-rp36-miliar",
-  "category": "Aksi Korporasi",
-  "title": "DYAN Teken PPJB Tanah-Bangunan Senilai [Rp36 Miliar]",
-  "deck": "Anak usaha DYAN, Dyandra Promosindo, mengikat pembelian tanah dan bangunan seluas 1.505 m² dari Dana Pensiun Kompas Gramedia, dibayar bertahap hingga 2028.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DYAN",
-   "Dyandra Promosindo",
-   "PPJB",
-   "aset tanah dan bangunan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d9a1c05b18_6254d70d8a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vici-ungkap-rencana-akuisisi-secret-garden-di-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "VICI Ungkap Rencana Akuisisi [Secret Garden] di Public Expose",
-  "deck": "Direksi VICI membeberkan penjajakan akuisisi brand Secret Garden, capex Rp20-30 miliar, dan penyebab laba tertekan meski penjualan tumbuh dua digit.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICI",
-   "Public Expose",
-   "Victoria Care Indonesia",
-   "Akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0ca1edc8e_659dd17e14.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xkgs-etf-emas-syariah-kim-melantai-di-bei-22-september",
-  "category": "Aksi Korporasi",
-  "title": "XKGS: [ETF] Emas Syariah KIM Melantai di BEI 22 September",
-  "deck": "Bursa Efek Indonesia mencatatkan 32,4 juta unit penyertaan Reksa Dana Syariah KIM Gold ETF Sharia dengan kode XKGS, mulai diperdagangkan 22 September 2026 dengan harga perdana Rp310 per unit.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XKGS",
-   "ETF",
-   "reksa dana syariah",
-   "emas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/566b369146_d8eeddd1ec.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "imf-utang-dunia-nyaris-sentuh-100-persen-pdb-global",
-  "category": "Global",
-  "title": "IMF: Utang Dunia [Nyaris] Sentuh 100 Persen PDB Global",
-  "deck": "IMF memperingatkan utang publik dunia hampir menyentuh 100 persen PDB global, melampaui puncak pasca Perang Dunia II, di tengah kenaikan biaya pinjaman negara-negara berutang tinggi.",
-  "date": "21 September 2026",
-  "image": "assets/img/imf-utang-dunia-nyaris-sentuh-100-persen-pdb-global.jpg",
-  "imageV": "mubbyu21",
-  "tags": [
-   "utang dunia",
-   "IMF",
-   "Kristalina Georgieva",
-   "ekonomi global"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468473-imf-peringatkan-utang-dunia-makin-berat-as-hingga-negara-berkembang-terancam-tertekan"
- },
- {
-  "slug": "dnrk-siapkan-dana-pelunasan-obligasi-viii-rp520-miliar",
-  "category": "Aksi Korporasi",
-  "title": "DNRK Siapkan Dana [Pelunasan] Obligasi VIII Rp520 Miliar",
-  "deck": "PT Danareksa (Persero) mengonfirmasi ke BEI kesiapan dana untuk membayar pokok Rp520 miliar dan kupon 7,70% Obligasi VIII Seri B.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DNRK",
-   "obligasi",
-   "Danareksa",
-   "BUMN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1054cb2c87_b2a3e08086.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "foru-rasio-hmetd-100-46-235-harga-teoretis-turun-ke-rp131-dilusi",
-  "category": "Aksi Korporasi",
-  "title": "FORU: Rasio HMETD 100:46.235, Harga Teoretis Turun ke Rp131 [dilusi]",
-  "deck": "BEI menetapkan harga teoretis saham FORU Rp131 usai aksi rights issue dengan rasio 100:46.235 pada harga pelaksanaan Rp126 per saham, berlaku mulai 22 September 2026.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "rights issue",
-   "HMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Harga Teoretis FORU 260921-No. Peng-00174BEI.POP09-2026.pdf",
   "sourceLabel": "IDX"
  }
 ];

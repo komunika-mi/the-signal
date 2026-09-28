@@ -3,6 +3,114 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemendag-gelar-pelatihan-dagang-untuk-pejabat-afrika",
+  "category": "Global",
+  "title": "Kemendag Gelar Pelatihan Dagang untuk Pejabat [Afrika]",
+  "deck": "Kementerian Perdagangan membuka pelatihan kerja sama Selatan-Selatan bagi 14 pejabat dari enam negara Afrika Timur, bagian dari upaya memperluas hubungan dagang dan investasi dengan kawasan itu.",
+  "image": "assets/img/kemendag-gelar-pelatihan-dagang-untuk-pejabat-afrika.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:11:43.598Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-pelatihan-sstc-2026-kemendag-dorong-penguatan-kemitraan-perdagangan-dan-investasi-indonesia-afrika",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Kemendag",
+   "Afrika",
+   "SSTC",
+   "JICA"
+  ],
+  "body": [
+   "Badan Pengembangan Sumber Daya Manusia Perdagangan (BPSDMP) Kementerian Perdagangan membuka program pelatihan South-South and Triangular Cooperation (SSTC) on Trade and Investment Promotion for African Countries 2026 di Jakarta, Senin (28/9). Pelatihan berlangsung dari 27 September hingga 8 Oktober 2026 dan diikuti 14 peserta dari enam negara di Afrika Timur, yaitu Ethiopia, Mozambik, Tanzania, Sudan Selatan, Somalia, dan Rwanda, ditambah dua pengamat dari East African Community (EAC) dan Sekretariat African Continental Free Trade Area (AfCFTA). Program ini merupakan penyelenggaraan kedua setelah edisi perdana pada 2025, dengan fokus tahun ini pada negara-negara Afrika Timur.",
+   "Materi pelatihan mencakup negosiasi perjanjian dagang internasional, pengalaman integrasi ekonomi ASEAN, promosi ekspor, pengembangan usaha kecil dan menengah, pemasaran digital, kebijakan investasi, hingga perizinan berusaha. Menurut Kementerian Perdagangan, total nilai perdagangan Indonesia dengan Afrika pada 2023 mencapai US$13,7 miliar, sementara Indonesia-Africa Forum (IAF) kedua di Bali pada 2024 mencatat kesepakatan bisnis senilai US$3,5 miliar, naik dibandingkan US$568 juta pada IAF pertama tahun 2018. Indonesia saat ini memiliki kantor perwakilan dagang di Johannesburg dan Lagos serta atase perdagangan di Kairo, dengan produk ekspor utama berupa makanan, alas kaki, tekstil, kertas, dan otomotif.",
+   "Program SSTC ini merupakan kelanjutan kerja sama Kementerian Perdagangan dengan Japan International Cooperation Agency (JICA), berdasarkan nota kerja sama yang diteken di sela Indonesia-Africa Forum pada September 2024. JICA telah mendukung Pusat Pengembangan Sumber Daya Manusia Ekspor dan Jasa Perdagangan (PPEJP), yang dulu bernama Indonesia Export Training Center, sejak 1986 melalui hibah dan kerja sama teknis. Kepala BPSDMP Djatmiko Bris Witjaksono menyebut pengalaman Indonesia dalam integrasi ekonomi ASEAN bisa menjadi rujukan bagi negara-negara Afrika yang tengah memperkuat kawasan perdagangan bebas AfCFTA, dan menegaskan keberhasilan program ini akan diukur dari rencana aksi konkret yang dihasilkan peserta setelah pelatihan selesai."
+  ],
+  "fotoAdegan": "Cargo containers stacked at a busy Indonesian port with cranes loading a container ship, hazy afternoon light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/YGCzTWJWNvtEvjQYNBh5swTs6R2C1if2c1VXgIHX.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan aturan atau anggaran, melainkan pembukaan putaran kedua program pelatihan dagang bagi 14 pejabat dari enam negara Afrika Timur, setelah edisi pertama pada 2025. Yang terdampak langsung adalah peserta pelatihan itu sendiri serta pelaku usaha Indonesia yang berpotensi menjajaki pasar Afrika Timur, mengingat total perdagangan dua kawasan baru US$13,7 miliar pada 2023, angka yang berulang kali disebut Kemendag masih jauh dari potensinya. Berita ini belum bisa menunjukkan ke mana kerja sama ini akan bergerak, karena Kemendag sendiri menyatakan ukuran keberhasilannya baru terlihat dari rencana aksi yang disusun peserta, bukan dari pelatihan itu sendiri. Yang perlu dipantau adalah apakah rencana aksi peserta setelah pelatihan berakhir 8 Oktober 2026 ini benar-benar berlanjut menjadi kerja sama dagang atau investasi konkret, atau berhenti sebagai laporan seremonial seperti yang terjadi pada edisi 2025.",
+  "imageV": "mule67zb"
+ },
+ {
+  "slug": "telkom-perluas-program-hijau-gozero-ke-klangon-sleman",
+  "category": "BUMN",
+  "title": "Telkom Perluas Program Hijau [GoZero%] ke Klangon, Sleman",
+  "deck": "Telkom lanjutkan program keberlanjutan GoZero% ke Bukit Klangon, Sleman, dengan konservasi Merapi, pengelolaan sampah terpadu, dan pengembangan EcoCamp Klangon bersama warga.",
+  "image": "assets/img/telkom-perluas-program-hijau-gozero-ke-klangon-sleman.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T21:47:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470014-gozero-goes-to-klangon-telkom-bangun-ekosistem-keberlanjutan-berbasis-konservasi-dan-pemberdayaan-masyarakat",
+  "tags": [
+   "Telkom",
+   "GoZero%",
+   "Sleman",
+   "Keberlanjutan"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk kembali menjalankan program keberlanjutan lingkungan, kali ini bertajuk GoZero% Goes to Klangon, yang digelar di kawasan Bukit Klangon, Desa Glagaharjo, Kabupaten Sleman, pada Jumat, 25 September 2026. Kegiatan ini merupakan kelanjutan dari program serupa, GoZero% Goes to Yogyakarta, yang telah berjalan pada 2025.",
+   "Berbeda dari edisi sebelumnya yang berfokus pada penghijauan, tahun ini Telkom memperluas cakupan program dengan tiga agenda utama: konservasi alam di lereng Gunung Merapi, penataan sistem pengelolaan sampah yang lebih terintegrasi, dan pengembangan kawasan terpadu bernama GoZero% EcoCamp Klangon. Rangkaian kegiatan ini juga menjadi bagian dari peringatan World Cleanup Day dan melibatkan masyarakat setempat secara langsung.",
+   "SVP Group Sustainability and Corporate Communication Telkom, Ahmad Reza, menjelaskan bahwa program ini dirancang agar tidak berhenti pada satu kegiatan seremonial, melainkan berkembang menjadi ekosistem yang memberi dampak jangka panjang. Ia menyebut bahwa fasilitas dan kebiasaan baik yang dibangun bersama warga di Klangon diharapkan terus dikelola dan dikembangkan secara mandiri oleh masyarakat setelah program ini selesai.",
+   "Sebagai bagian dari aksi konservasi, Telkom melaksanakan GoZero% Plant & Grow Action dengan menanam 200 pohon di sekitar area camping Klangon."
+  ],
+  "fotoAdegan": "Volunteers planting young tree saplings on a misty forested hillside near a campsite, mountain slope visible in the background, morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/28/6aba7d7ccb07e-rangkaian-kegiatan-gozero-goes-to-klangon-menjadi-bagian-dari-peringatan-world-cleanup-day-sekaligus-upaya-telkom-mendorong-pengelolaan-lingkungan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Program ini menandai pergeseran dari sekadar penanaman pohon pada 2025 menjadi model pengelolaan kawasan yang lebih menyeluruh, mencakup konservasi lereng Merapi, sistem sampah terpadu, dan area camping baru bernama GoZero% EcoCamp Klangon. Yang terdampak langsung adalah warga Desa Glagaharjo, yang menurut Telkom sendiri diharapkan ikut mengelola fasilitas ini setelah kegiatan seremonial selesai, agar manfaatnya tidak berhenti begitu program usai. Berita ini belum menyebutkan berapa dana yang dikeluarkan Telkom, bagaimana skema kerja sama dengan warga diatur, atau kapan pembangunan EcoCamp Klangon rampung, sehingga belum bisa dipastikan apakah pengelolaan kawasan ini nantinya benar berjalan mandiri atau tetap bergantung pada Telkom. Yang perlu ditunggu adalah kabar lanjutan soal siapa yang secara resmi mengelola kawasan ini dalam setahun ke depan, dan apakah pendekatan serupa akan direplikasi ke lokasi program keberlanjutan Telkom lainnya.",
+  "imageV": "mule68je"
+ },
+ {
+  "slug": "presiden-prabowo-minta-audit-forensik-dana-haji",
+  "category": "Bisnis",
+  "title": "Presiden Prabowo Minta [Audit Forensik] Dana Haji",
+  "deck": "Presiden Prabowo Subianto meminta audit forensik atas tata kelola dana haji yang dikelola BPKH untuk memastikan kondisi keuangan haji yang sebenarnya.",
+  "image": "assets/img/presiden-prabowo-minta-audit-forensik-dana-haji.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T21:31:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470010-prabowo-minta-audit-forensik-dana-haji-dahnil-anzar-presiden-ingin-tahu-fakta-keuangan-haji-sebenar-benarnya",
+  "tags": [
+   "dana haji",
+   "BPKH",
+   "audit forensik",
+   "Kementerian Haji"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto meminta dilakukan audit forensik terhadap tata kelola keuangan haji yang selama ini dikelola oleh Badan Pengelola Keuangan Haji (BPKH). Permintaan ini disampaikan agar pemerintah memperoleh gambaran faktual mengenai kondisi dana haji, sebagai dasar untuk melakukan pembenahan secara tepat dan menyeluruh.",
+   "Arahan tersebut disampaikan Presiden Prabowo kepada Menteri Haji dan Umrah Mochamad Irfan Yusuf serta Wakil Menteri Haji dan Umrah Dahnil Anzar Simanjuntak dalam pertemuan di Istana Kepresidenan, Jakarta, Senin (28/9/2026). Dahnil menjelaskan, Presiden ingin memastikan tidak ada praktik rekayasa keuangan dalam pengelolaan dana haji, dengan menyinggung kasus di Malaysia yang tengah menjadi sorotan sebagai pembanding kekhawatiran tersebut.",
+   "Kementerian Haji dan Umrah akan berkoordinasi dengan sejumlah pihak untuk menindaklanjuti arahan ini, termasuk Badan Pengawasan Keuangan dan Pembangunan (BPKP). Menurut Dahnil, audit forensik juga dimaksudkan untuk memastikan penyelenggaraan haji dan umrah bersih dari praktik kartel dan kecurangan yang selama ini merugikan jemaah.",
+   "Dalam pertemuan itu, Presiden Prabowo turut mengapresiasi langkah Kementerian Haji dan Umrah dalam membenahi tata kelola penyelenggaraan haji dan umrah. Menteri Haji Mochamad Irfan Yusuf menyampaikan bahwa Presiden secara khusus menginstruksikan kementeriannya untuk membersihkan ekosistem haji dan umrah dari kartel maupun mafia yang selama ini terlibat."
+  ],
+  "fotoAdegan": "Indonesian hajj pilgrims in white ihram clothing pulling suitcases through an airport departure hall, early morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/05/22/6a0faf02f3815-ilustrasi-haji_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan audit rutin tahunan yang biasa dilakukan BPKH, melainkan audit forensik, yaitu pemeriksaan yang menelusuri jejak setiap transaksi untuk mencari indikasi penyimpangan tersembunyi, bukan sekadar mencocokkan angka di laporan keuangan. Pihak yang langsung terdampak adalah BPKH sebagai pengelola dana setoran jutaan calon jemaah haji, serta biro perjalanan haji dan umrah yang disebut Wamenhaj dan Menteri Haji sebagai sasaran pembersihan dari praktik kartel. Arah kebijakan ini belum bisa dipastikan sejauh mana, sebab pemerintah baru menyebut akan menggandeng BPKP tanpa menjelaskan kapan audit dimulai, berapa lama prosesnya, atau bagian dana haji mana yang dicurigai bermasalah. Yang perlu dipantau selanjutnya adalah hasil koordinasi BPKH dengan BPKP dan apakah pemerintah nanti mengumumkan temuan disertai angka yang jelas, sebab tanpa itu sulit menilai seberapa serius kekhawatiran soal rekayasa keuangan yang disinggung Wamenhaj tersebut.",
+  "imageV": "mule68zi"
+ },
+ {
+  "slug": "dpr-soroti-bunga-spesial-bank-yang-ganjal-kredit-umkm",
+  "category": "Perbankan",
+  "title": "DPR Soroti [Bunga Spesial] Bank yang Ganjal Kredit UMKM",
+  "deck": "Komisi XI DPR menyoroti praktik bunga simpanan khusus untuk nasabah besar yang membuat biaya dana bank mahal, sehingga bunga kredit UMKM sulit turun.",
+  "image": "assets/img/dpr-soroti-bunga-spesial-bank-yang-ganjal-kredit-umkm.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T21:30:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469983-dpr-soroti-bunga-spesial-bank-kredit-umkm-disebut-sulit-tumbuh",
+  "tags": [
+   "special rate",
+   "kredit UMKM",
+   "Komisi XI DPR",
+   "bunga bank"
+  ],
+  "body": [
+   "Komisi XI DPR mempertanyakan praktik pemberian bunga simpanan istimewa, atau dikenal dengan istilah special rate, yang masih dilakukan sejumlah bank kepada nasabah institusi dengan dana besar. Praktik ini dinilai membuat biaya penghimpunan dana bank tetap mahal, sehingga bunga kredit ke masyarakat, termasuk pelaku usaha mikro, kecil, dan menengah, sulit ikut turun. Sorotan ini disampaikan anggota Komisi XI dari Fraksi PKS, Muhammad Kholid, dalam rapat kerja bersama jajaran Bank Indonesia, Senin, 28 September 2026.",
+   "Menurut Kholid, akar masalahnya bukan cuma penyaluran kredit UMKM yang melambat, melainkan mahalnya biaya dana yang harus ditanggung bank. Sejumlah bank berebut simpanan besar dari nasabah institusi dengan menawarkan bunga di atas bunga pasar, sebuah praktik yang menurutnya belum ditertibkan. Karena biaya menghimpun dana naik, bank pun kesulitan menekan bunga pinjaman yang dibebankan ke nasabah, termasuk pelaku UMKM.",
+   "Kholid menyebut temuan ini berulang kali ia dapati saat kunjungan kerja ke berbagai daerah. Ia menegaskan, selama biaya dana masih tertekan oleh permintaan bunga khusus dari deposan besar, bunga kredit akan tetap sulit diturunkan meski ada pelonggaran kebijakan moneter.",
+   "Kholid juga mempertanyakan bagaimana kebijakan yang diputuskan anggota Komite Stabilitas Sistem Keuangan bisa benar-benar sampai dan dirasakan oleh pelaku UMKM. Ia meminta persoalan bunga simpanan khusus ini turut dibahas agar kebijakan moneter memberi dampak nyata pada pembiayaan sektor usaha."
+  ],
+  "fotoAdegan": "A small shopkeeper arranging goods on shelves inside a modest storefront, morning light through an open shutter, Indonesian street outside",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2022/09/20/63295c2c3c484-gedung-mpr-dan-dpr_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan desakan resmi dari DPR agar Bank Indonesia menertibkan praktik bunga simpanan tinggi yang selama ini ditawarkan bank ke nasabah institusi besar. Pihak yang berpotensi terdampak adalah pelaku UMKM sebagai peminjam, karena selama bank harus membayar mahal untuk menghimpun dana dari deposan besar, bunga kredit ke usaha kecil pun sulit ikut turun. Berita ini belum menyebut angka konkret, misalnya berapa besar selisih bunga khusus itu dari bunga pasar atau berapa bunga kredit UMKM saat ini, sehingga besarnya dampak belum bisa diukur. Yang perlu ditunggu adalah respons Bank Indonesia dalam rapat kerja tersebut dan apakah desakan ini berlanjut menjadi rekomendasi resmi Komisi XI atau aturan yang membatasi praktik bunga simpanan khusus itu.",
+  "imageV": "mule69m1"
+ },
+ {
   "slug": "ptba-laporkan-transaksi-material-pinjaman-rp6-triliun",
   "category": "Aksi Korporasi",
   "title": "PTBA Laporkan Transaksi [Material] Pinjaman Rp6 Triliun",
@@ -53,6 +161,33 @@ var ARTICLES = [
   "fotoAdegan": "Waitstaff arranging tables at a busy fried chicken restaurant inside a Jakarta shopping mall during lunch hour",
   "takeaway": "Perubahan pengurus ini tergolong netral bagi ENAK karena posisi kunci, yaitu direktur utama dan komisaris utama, tetap dipegang orang yang sama, sehingga polanya terlihat seperti regenerasi rutin mengikuti siklus masa jabatan, bukan tanda ada masalah internal mendesak. Pergantian pengurus seperti ini tidak langsung mengubah pos keuangan seperti ekuitas, arus kas, atau laba per saham perusahaan, tapi tetap perlu diperhatikan investor karena arah strategi dan kualitas pengawasan perusahaan bisa bergeser mengikuti siapa yang duduk di kursi direksi dan komisaris, dalam hal ini ada kenaikan jabatan Hendrik Alexander Wanggur Mboi menjadi CEO dan masuknya dua komisaris independen baru. Yang perlu dipantau berikutnya adalah kinerja susunan direksi dan komisaris baru ini sampai Rapat Umum Pemegang Saham Tahunan pada 2029, saat masa jabatan mereka berakhir dan kembali dievaluasi pemegang saham.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bei-penghapusan-saham-gocap-bukan-pemicu-ihsg-anjlok",
+  "category": "Pasar Modal",
+  "title": "BEI: Penghapusan Saham [Gocap] Bukan Pemicu IHSG Anjlok",
+  "deck": "BEI menurunkan batas harga minimum saham dari Rp50 menjadi Rp1 dan menyebut koreksi IHSG 1,51 persen hari itu bukan akibat kebijakan tersebut.",
+  "image": "assets/img/bei-penghapusan-saham-gocap-bukan-pemicu-ihsg-anjlok.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:43:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470006-batas-saham-gocap-dihapus-jadi-rp1-bei-sebut-bukan-alasan-ihsg-anjlok-151",
+  "tags": [
+   "saham gocap",
+   "IHSG",
+   "BEI",
+   "harga saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia resmi menurunkan batas harga minimum perdagangan saham dari Rp50 menjadi Rp1 mulai Senin, 28 September 2026. Perubahan ini bersamaan waktu dengan koreksi Indeks Harga Saham Gabungan sebesar 1,51 persen pada hari yang sama, sehingga muncul dugaan kedua hal itu berkaitan. Direktur Utama BEI Jeffrey Hendrik membantah kaitan langsung tersebut, dengan alasan saham-saham yang selama ini terjebak di harga Rp50 punya bobot kecil terhadap pergerakan IHSG secara keseluruhan.",
+   "Sebelum aturan baru berlaku, sekitar 20 saham bertahan lama di level Rp50, sebagian bahkan tidak pernah bertransaksi selama bertahun-tahun. Begitu batas Rp1 diberlakukan pada hari pertama, jumlah saham yang diperdagangkan di bawah Rp50 melonjak menjadi 69 saham, termasuk saham-saham yang masuk Papan Pemantauan Khusus. Menurut Jeffrey, lonjakan ini justru menunjukkan bahwa harga Rp50 selama ini belum tentu mencerminkan nilai wajar saham-saham tersebut, melainkan sekadar batas administratif yang menahan harga turun lebih jauh.",
+   "Dengan dihapusnya batas Rp50, saham-saham itu kini punya ruang bergerak mencari harga wajarnya lewat mekanisme pasar biasa. Jeffrey menegaskan proses pencarian harga ini tidak berlangsung seketika, karena tetap tunduk pada aturan perdagangan baku di BEI termasuk ketentuan auto rejection yang membatasi seberapa jauh harga saham boleh bergerak dalam satu hari.",
+   "Jeffrey menambahkan penerapan aturan harga minimum Rp1 pada hari pertama berjalan lancar, mulai dari sesi pre-opening, pembukaan pasar, hingga sesi perdagangan reguler."
+  ],
+  "fotoAdegan": "Wide shot of the Indonesia Stock Exchange trading floor, employees walking past distant blurred display screens, soft morning light through glass windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/12/08/6936c069a58dd-ilustrasi-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah batas harga minimum saham naik dari Rp50 menjadi Rp1, dan pada hari pertama penerapannya jumlah saham yang diperdagangkan di bawah Rp50 melonjak dari sekitar 20 menjadi 69 saham. Yang terdampak langsung adalah pemegang saham dan investor di emiten-emiten kecil tersebut, karena harga sahamnya kini bisa terus bergerak turun mengikuti pasar, tidak lagi tertahan di angka gocap seperti sebelumnya. Arahnya belum bisa dipastikan sepihak, BEI berargumen saham-saham ini bobotnya kecil terhadap IHSG sehingga bukan penyebab utama koreksi 1,51 persen hari itu, tapi kebetulan waktunya bersamaan dengan hari pertama aturan berlaku sehingga sulit dipisahkan sepenuhnya dari sentimen pasar. Yang akan memperjelas mana penjelasan yang lebih tepat adalah pergerakan IHSG pada hari-hari perdagangan berikutnya, terutama apakah indeks tetap tertekan setelah proses pencarian harga wajar saham-saham gocap ini selesai, atau justru stabil seperti yang diklaim BEI.",
+  "imageV": "mule6a0x"
  },
  {
   "slug": "ppgl-jelaskan-ke-bursa-rincian-pmthmetd-dan-saham-bonus",
@@ -132,6 +267,32 @@ var ARTICLES = [
   "fotoAdegan": "Idle tower cranes and stacked steel beams at a large state-owned construction site, overcast afternoon light, no people close to camera",
   "takeaway": "Laporan ini netral bagi Waskita, sebab dana Rp722 miliar yang akhirnya diterima pemegang obligasi bukan berasal dari kas Waskita sendiri, melainkan dari penjamin, yaitu PT Penjaminan Infrastruktur Indonesia dan Kementerian Keuangan, yang memang sejak awal menjamin obligasi ini. Yang tersentuh dari sisi keuangan Waskita adalah pos utangnya: setelah penjamin membayarkan pokok ke investor, Waskita otomatis berutang kepada penjamin tersebut, ditambah denda keterlambatan yang menurut suratnya akan dihitung sesuai perjanjian perwaliamanatan meski nilainya belum diungkap dalam laporan ini. Bagi pemegang obligasi lama, risiko gagal bayar sudah selesai karena dana sudah disalurkan lewat KSEI, lembaga penyimpanan dan penyelesaian transaksi efek, pada 28 September 2026, dan obligasi ini otomatis berhenti diperdagangkan di bursa mulai 29 September 2026. Yang perlu dipantau berikutnya adalah besaran dan skema pembayaran balik Waskita kepada penjamin serta rincian denda keterlambatan itu, karena itu yang akan menentukan tambahan beban utang riil perusahaan ke depan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "presiden-prabowo-minta-rs-tak-bedakan-pasien-bpjs",
+  "category": "Bisnis",
+  "title": "Presiden Prabowo Minta RS Tak [Bedakan] Pasien BPJS",
+  "deck": "Presiden Prabowo instruksikan RS samakan pelayanan pasien BPJS dan umum, serta setujui pencairan dana Rp20 triliun untuk BPJS Kesehatan tahun ini.",
+  "image": "assets/img/presiden-prabowo-minta-rs-tak-bedakan-pasien-bpjs.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T20:00:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469978-prabowo-minta-rs-tak-bedakan-pasien-bpjs-dana-rp20-triliun-dicairkan-tahun-ini",
+  "tags": [
+   "BPJS Kesehatan",
+   "Rumah Sakit",
+   "Presiden Prabowo",
+   "Kesehatan"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto meminta seluruh rumah sakit untuk tidak membeda-bedakan pelayanan antara pasien peserta BPJS Kesehatan dan pasien yang membayar sendiri. Instruksi ini disampaikan Menteri Kesehatan Budi Gunadi Sadikin seusai mengikuti rapat bersama Presiden Prabowo di Istana Kepresidenan Jakarta, Senin (28/9/2026). \"Kemudian, dipastikan juga bahwa semua rumah sakit-rumah sakit yang ada itu tidak membeda-bedakan antara pasien BPJS dengan pasien bukan BPJS,\" kata Budi. Arahan ini penting karena menyangkut langsung pengalaman pasien BPJS Kesehatan saat berobat ke rumah sakit.",
+   "Selain soal kesetaraan layanan, Presiden Prabowo juga meminta kualitas pelayanan BPJS Kesehatan terus ditingkatkan, termasuk memangkas waktu tunggu pasien di rumah sakit. Budi mengatakan pasien yang datang berobat diharapkan bisa dilayani dengan baik, seperti disampaikannya, \"Kalau misalnya ada pasien yang masuk juga bisa dilayani dengan baik.\" Dalam rapat yang sama, pemerintah menyetujui pencairan dana sebesar Rp20 triliun untuk BPJS Kesehatan pada tahun ini, meski rincian peruntukan dana tersebut belum dijelaskan secara terbuka.",
+   "Selain menyoroti pelayanan rumah sakit secara umum, rapat tersebut turut membahas kondisi rumah sakit swasta yang menjadi bagian dari jaringan pelayanan BPJS Kesehatan. Presiden Prabowo disebut ingin mengetahui langsung berbagai kendala yang dihadapi rumah sakit swasta dalam melayani peserta program ini. Budi mengatakan pemetaan masalah itu diperlukan agar pelayanan kesehatan kepada masyarakat, baik di rumah sakit pemerintah maupun swasta, dapat berjalan lebih baik."
+  ],
+  "fotoAdegan": "Patients waiting in a hospital corridor while nurses attend to a queue near consultation rooms, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/12/698dbee0e84c8-ilustrasi-bpjs-kesehatan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah instruksi Presiden Prabowo agar rumah sakit menyamakan pelayanan pasien BPJS Kesehatan dengan pasien umum, mempercepat waktu tunggu pasien, serta persetujuan pencairan dana Rp20 triliun untuk BPJS Kesehatan pada tahun ini. Yang terdampak adalah pasien peserta BPJS Kesehatan yang menjadi sasaran langsung perbaikan layanan ini, sekaligus rumah sakit, termasuk rumah sakit swasta yang turut disoroti pemerintah karena berperan besar dalam jaringan pelayanan program ini. Yang belum jelas dari keterangan yang beredar adalah untuk apa persis dana Rp20 triliun itu dipakai, kapan tepatnya pencairan dilakukan, dan bagaimana pemerintah memastikan instruksi kesetaraan layanan benar-benar berjalan di lapangan, bukan sekadar imbauan. Yang perlu ditunggu adalah aturan turunan atau keterangan resmi Kementerian Kesehatan maupun BPJS Kesehatan soal peruntukan dana tersebut, serta data waktu tunggu pasien setelah instruksi ini berjalan.",
+  "imageV": "mule6agf"
  },
  {
   "slug": "smil-dana-obligasi-rp294-miliar-100-terealisasi-untuk-forklift",

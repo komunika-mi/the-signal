@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "transaksi-mata-uang-lokal-ri-naik-259-di-semester-i",
+  "category": "Moneter",
+  "title": "Transaksi Mata Uang Lokal RI Naik [259%] di Semester I",
+  "deck": "Nilai transaksi dagang RI dengan tujuh negara mitra yang memakai mata uang lokal, bukan dolar AS, tembus US$42,07 miliar pada semester I 2026, kata Bank Indonesia.",
+  "date": "28 September 2026",
+  "image": "assets/img/transaksi-mata-uang-lokal-ri-naik-259-di-semester-i.jpg",
+  "imageV": "mul2nk8i",
+  "tags": [
+   "Bank Indonesia",
+   "Local Currency Transaction",
+   "Kebanksentralan",
+   "Nilai Tukar"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820626.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "wika-jadwalkan-rupo-obligasi-tahap-i-2020-27-oktober",
   "category": "Aksi Korporasi",
   "title": "WIKA Jadwalkan RUPO Obligasi Tahap I 2020, [27 Oktober]",
@@ -35,6 +53,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8273-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-revisi-aturan-papan-pemantauan-khusus-92-saham-keluar",
+  "category": "Pasar Modal",
+  "title": "BEI Revisi Aturan Papan Pemantauan Khusus, 92 Saham [Keluar]",
+  "deck": "BEI merevisi aturan Papan Pemantauan Khusus usai evaluasi full call auction; 92 saham keluar dan 42 saham tetap tertahan mulai hari ini.",
+  "date": "28 September 2026",
+  "image": "assets/img/bei-revisi-aturan-papan-pemantauan-khusus-92-saham-keluar.jpg",
+  "imageV": "mul2nl0w",
+  "tags": [
+   "BEI",
+   "Papan Pemantauan Khusus",
+   "Full Call Auction",
+   "Pasar Modal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469916-bei-ubah-aturan-papan-pemantauan-khusus-92-saham-keluar-mulai-hari-ini"
  },
  {
   "slug": "smcb-ganti-komisaris-utama-lewat-rupslb",
@@ -6481,39 +6516,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3f2a0425ed_b2aed5aa6b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bksl-saham-direksi-berkurang-281-juta-via-pencairan-repo",
-  "category": "Aksi Korporasi",
-  "title": "BKSL: Saham Direksi Berkurang 281 Juta via [Pencairan Repo]",
-  "deck": "Samuel Sekuritas Indonesia melaporkan pelepasan 281,29 juta saham BKSL seharga Rp64 per lembar untuk pencairan repo, hak suaranya turun dari 7,02% menjadi 6,85%.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKSL",
-   "Sentul City",
-   "kepemilikan saham",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-9029-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bioetanol-e20-kemitraan-rakyat-wajib-30-persen",
-  "category": "Energi",
-  "title": "Bioetanol E20: Kemitraan Rakyat Wajib [30 Persen]",
-  "deck": "Kementan menaikkan syarat kemitraan bioetanol untuk rakyat jadi minimal 30 persen, seiring target kebutuhan bioetanol 5,53 juta kiloliter hingga 2029 untuk program E20.",
-  "date": "21 September 2026",
-  "image": "assets/img/bioetanol-e20-kemitraan-rakyat-wajib-30-persen.jpg",
-  "imageV": "mub1978p",
-  "tags": [
-   "bioetanol",
-   "Kementan",
-   "energi terbarukan",
-   "kemitraan petani"
-  ],
-  "kreditFoto": "Kementerian Pertanian",
-  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8161",
-  "sourceLabel": "Kementerian Pertanian"
  }
 ];

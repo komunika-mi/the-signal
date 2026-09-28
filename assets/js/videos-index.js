@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "DnZUI7Ml9Ds",
+  "title": "Prancis dan Indonesia Mulai Konstruksi Kapal Selam di PT PAL",
+  "category": "BUMN",
+  "program": "Kabar Merah Putih",
+  "summary": "Indonesia dan Prancis memulai tahap konstruksi fisik dua unit kapal selam Scorpene Evolved di galangan PT PAL Indonesia, Surabaya, sebagai bagian dari kerja sama industri pertahanan kedua negara.",
+  "takeaway": "Proyek ini relevan bagi pembaca ekonomi karena menyangkut perluasan kapasitas industri manufaktur strategis BUMN PT PAL melalui kerja sama internasional."
+ },
+ {
   "id": "egqXaZrvu-I",
   "title": "Bank Indonesia Pertahankan BI Rate di Level 5,75 Persen",
   "category": "Moneter",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Gubernur DKI Jakarta Pramono Anung memastikan pembangunan LRT Jakarta dilanjutkan dari Manggarai hingga Dukuh Atas sepanjang sekitar 2 kilometer setelah rute Kelapa Gading-Manggarai rampung.",
   "takeaway": "Kelanjutan proyek ini menandai keberlanjutan investasi infrastruktur transportasi publik di Jakarta yang berdampak pada mobilitas dan aktivitas ekonomi kota."
- },
- {
-  "id": "TNUhFOpBq80",
-  "title": "Presiden Prabowo: Kemajuan Transportasi Dorong Pertumbuhan Ekonomi",
-  "category": "Makroekonomi",
-  "program": "Kabar Petang",
-  "summary": "Presiden Prabowo Subianto menyatakan kemajuan transportasi dapat menumbuhkan perekonomian, disampaikan sebelum meresmikan LRT rute Kelapa Gading-Manggarai.",
-  "takeaway": "Pernyataan ini menegaskan pandangan pemerintah bahwa investasi infrastruktur transportasi menjadi salah satu pendorong pertumbuhan ekonomi nasional."
  }
 ];

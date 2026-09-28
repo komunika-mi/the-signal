@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "transaksi-mata-uang-lokal-ri-naik-259-di-semester-i",
+  "category": "Moneter",
+  "title": "Transaksi Mata Uang Lokal RI Naik [259%] di Semester I",
+  "deck": "Nilai transaksi dagang RI dengan tujuh negara mitra yang memakai mata uang lokal, bukan dolar AS, tembus US$42,07 miliar pada semester I 2026, kata Bank Indonesia.",
+  "image": "assets/img/transaksi-mata-uang-lokal-ri-naik-259-di-semester-i.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T09:49:30.158Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820626.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "Local Currency Transaction",
+   "Kebanksentralan",
+   "Nilai Tukar"
+  ],
+  "body": [
+   "Bank Indonesia membuka forum tahunan Central Banking Services Festival (CB Fest) 2026 di Jakarta, Senin (28/9), dengan menyoroti kebutuhan layanan kebanksentralan yang andal dan aman seiring makin luasnya transaksi ekonomi dan keuangan lintas negara. Deputi Gubernur Bank Indonesia Thomas Djiwandono mengatakan kredibilitas kebijakan bank sentral perlu ditopang oleh kredibilitas operasional, mencakup penyelesaian transaksi operasi moneter, pengelolaan cadangan devisa dan emas, kerja sama keuangan internasional, hingga layanan bagi pemerintah dan industri keuangan.",
+   "Salah satu data konkret yang diungkap Bank Indonesia adalah perkembangan kerja sama Local Currency Transaction (LCT), skema yang memungkinkan transaksi dagang antarnegara memakai mata uang masing-masing negara, bukan dolar AS. Kerja sama ini kini berjalan dengan tujuh negara mitra, yaitu Malaysia, Thailand, Tiongkok, Jepang, Korea Selatan, Uni Emirat Arab, dan Singapura. Pada semester I 2026, nilai transaksi LCT mencapai US$42,07 miliar, melonjak 259 persen dibanding periode sama tahun 2025 yang sebesar US$11,72 miliar, dan sudah melampaui total transaksi sepanjang tahun 2025 sebesar US$25,74 miliar. Bank Indonesia menyatakan kerja sama ini akan terus diperluas ke negara mitra lain, tanpa merinci negara yang dimaksud.",
+   "Wakil Menteri Keuangan Juda Agung, yang turut hadir, menyampaikan bahwa ketahanan sektor keuangan bukan sekadar kemampuan menghadapi krisis, melainkan juga kemampuan beradaptasi dan menjaga kepercayaan publik. Menurutnya, ketahanan itu perlu dibangun lebih dulu lewat kebijakan yang kredibel, institusi yang kuat, tata kelola yang baik, serta sinergi kebijakan fiskal, moneter, dan sektor keuangan dalam merespons perubahan ekonomi dan teknologi.",
+   "Forum yang mengusung tema ketahanan layanan keuangan di tengah risiko geopolitik ini juga menghadirkan diskusi dengan pakar dari Centre for Strategic and International Studies (CSIS), akademisi Institut Teknologi Bandung dan University of Melbourne, serta praktisi dari Deloitte dan J.P. Morgan Asia Pacific. Salah satu topik yang dibahas adalah pemanfaatan kecerdasan artifisial, termasuk generative AI, untuk meningkatkan efisiensi pelaporan keuangan tanpa mengurangi transparansi dan akuntabilitas."
+  ],
+  "fotoAdegan": "Cargo containers being loaded onto a ship at a busy Indonesian seaport, cranes overhead, workers coordinating below, early morning light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/sp_2820626.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah konkret adalah nilai transaksi dagang yang memakai mata uang lokal, bukan dolar AS, antara Indonesia dan tujuh negara mitra: Malaysia, Thailand, Tiongkok, Jepang, Korea Selatan, Uni Emirat Arab, dan Singapura. Baru semester pertama 2026 saja nilainya sudah US$42,07 miliar, naik 259 persen dibanding periode sama tahun lalu dan sudah melampaui total sepanjang 2025. Yang terdampak langsung adalah eksportir dan importir yang berdagang dengan ketujuh negara itu, karena transaksi memakai mata uang lokal berarti mereka tidak perlu menukar dulu ke dolar AS, sehingga biaya konversi dan risiko akibat naik turunnya kurs dolar bisa ditekan. Lonjakan setajam ini, ditambah rencana Bank Indonesia memperluas kerja sama ke negara mitra lain, mengarah pada makin berkurangnya ketergantungan transaksi dagang regional pada dolar AS. Yang akan menegaskan arah ini adalah apakah Bank Indonesia mengumumkan negara mitra LCT baru atau merilis angka transaksi semester kedua 2026 yang menunjukkan tren percepatan ini berlanjut.",
+  "imageV": "mul2nk8i"
+ },
+ {
   "slug": "wika-jadwalkan-rupo-obligasi-tahap-i-2020-27-oktober",
   "category": "Aksi Korporasi",
   "title": "WIKA Jadwalkan RUPO Obligasi Tahap I 2020, [27 Oktober]",
@@ -53,6 +81,33 @@ var ARTICLES = [
   "fotoAdegan": "Wide exterior view of Jakarta's financial district skyscrapers at dusk with lit windows, busy street traffic below, blurred motion.",
   "takeaway": "Laporan ini netral bagi GoTo karena porsi yang dilepas Morgan Stanley cuma 0,56 persen dari saham yang sudah dipegangnya sendiri, jumlah yang terlalu kecil untuk dibaca sebagai sinyal soal arah kepemilikan. Yang tersentuh dari laporan ini adalah hak suara pemegang saham asing di GoTo, yang turun tipis dari 7,02 persen menjadi 6,98 persen, bukan performa keuangan perseroan itu sendiri; transaksinya juga berbentuk repurchase agreement, semacam perjanjian jual saham dengan janji dibeli kembali di kemudian hari, sehingga sifatnya bisa jadi sementara dan bukan pelepasan kepemilikan permanen. Yang perlu dipantau berikutnya adalah laporan kepemilikan lanjutan dari Morgan Stanley ke OJK, yang akan menunjukkan apakah posisi 450 juta saham ini kembali dibeli begitu perjanjian repo jatuh tempo atau justru terus berkurang.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bei-revisi-aturan-papan-pemantauan-khusus-92-saham-keluar",
+  "category": "Pasar Modal",
+  "title": "BEI Revisi Aturan Papan Pemantauan Khusus, 92 Saham [Keluar]",
+  "deck": "BEI merevisi aturan Papan Pemantauan Khusus usai evaluasi full call auction; 92 saham keluar dan 42 saham tetap tertahan mulai hari ini.",
+  "image": "assets/img/bei-revisi-aturan-papan-pemantauan-khusus-92-saham-keluar.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T15:45:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469916-bei-ubah-aturan-papan-pemantauan-khusus-92-saham-keluar-mulai-hari-ini",
+  "tags": [
+   "BEI",
+   "Papan Pemantauan Khusus",
+   "Full Call Auction",
+   "Pasar Modal"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengubah dua aturan yang mengatur Papan Pemantauan Khusus, yakni papan pencatatan bagi saham-saham yang dianggap berisiko tinggi secara fundamental maupun likuiditas. Perubahan itu tertuang dalam revisi Peraturan Bursa Nomor I-X tentang penempatan saham di papan tersebut dan Peraturan Bursa Nomor II-X tentang mekanisme perdagangannya, berlaku efektif Senin, 28 September 2026. Dampaknya langsung terasa hari ini, sebanyak 92 saham keluar dari papan pengawasan khusus, sementara 42 saham lainnya tetap tertahan di sana karena masih dinilai berisiko secara fundamental.",
+   "Direktur Pengembangan BEI Iding Pardi menjelaskan revisi ini disusun berdasarkan hasil pemantauan setelah penerapan mekanisme full call auction, yaitu sistem lelang harga berkala yang mengumpulkan seluruh order jual beli terlebih dulu sebelum dicocokkan pada waktu tertentu, berbeda dari perdagangan saham biasa yang berjalan terus-menerus. Bursa juga menyelaraskan aturan ini dengan kebijakan lain yang sudah berjalan, termasuk reformasi transparansi serta ketentuan soal harga minimum, likuiditas, porsi saham beredar ke publik atau free float, dan aktivitas perdagangan di pasar sekunder.",
+   "Secara teknis, empat dari kriteria penempatan saham di Papan Pemantauan Khusus dihapus, yakni kriteria 1, 6, 7, dan 10. Keempatnya menyangkut ketentuan harga dan likuiditas perdagangan, syarat tertentu terkait status tercatat di bursa atau porsi saham beredar publik, serta penghentian sementara perdagangan yang dipicu oleh aktivitas jual beli itu sendiri. Meski sejumlah kriteria dilonggarkan, Iding menegaskan filosofi utama papan ini sebagai bentuk perlindungan investor tetap dipertahankan, dengan kriteria yang masih relevan secara fundamental tetap dipakai sebagai penyaring.",
+   "Menurut Iding, penyesuaian ketentuan likuiditas dilakukan untuk mendorong price discovery, yaitu proses pembentukan harga saham yang lebih mencerminkan kondisi permintaan dan penawaran sebenarnya di pasar. Bursa menyebut evaluasi berkelanjutan atas Papan Pemantauan Khusus ini sebagai bagian dari upaya menjaga mekanisme perdagangan dan pengawasan tetap relevan dengan dinamika pasar modal."
+  ],
+  "fotoAdegan": "Wide shot of brokerage employees working at computer terminals in a modern Jakarta trading office, screens blurred, daylight streaming in.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef97b6908c-ilustrasi-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah kriteria masuk papan pengawasan ini dipangkas empat item, yaitu soal harga dan likuiditas perdagangan, syarat minimal saham beredar ke publik atau free float, dan penghentian sementara perdagangan akibat aktivitas jual beli tertentu. Efeknya 92 saham langsung lolos dari papan pengawasan khusus dan kembali diperdagangkan dengan mekanisme normal, sementara 42 saham lain masih tertahan di sana karena secara fundamental dianggap masih berisiko. Yang terdampak adalah investor pemegang 92 saham tadi, karena mekanismenya berubah dari lelang berkala atau full call auction, yaitu sistem yang mengumpulkan dulu semua order sebelum mencocokkan harga sekali dalam periode tertentu, kembali ke perdagangan normal yang harganya bisa bergerak lebih cepat. Arahnya BEI tampak mengoreksi aturan yang sebelumnya dinilai terlalu ketat setelah melihat dampak nyata full call auction ke pasar, bukan mencabut perlindungan investor sepenuhnya sebab kriteria fundamental tetap dipertahankan untuk 42 saham yang masih tertahan. Yang belum jelas dari keterangan ini adalah kapan BEI akan mengevaluasi lagi daftar 42 saham tersebut serta saham sektor apa saja yang paling banyak terdampak, karena rincian daftar sahamnya sendiri tidak disertakan dalam pengumuman ini.",
+  "imageV": "mul2nl0w"
  },
  {
   "slug": "smcb-ganti-komisaris-utama-lewat-rupslb",

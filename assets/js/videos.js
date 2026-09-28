@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "DnZUI7Ml9Ds",
+  "title": "Prancis dan Indonesia Mulai Konstruksi Kapal Selam di PT PAL",
+  "category": "BUMN",
+  "program": "Kabar Merah Putih",
+  "summary": "Indonesia dan Prancis memulai tahap konstruksi fisik dua unit kapal selam Scorpene Evolved di galangan PT PAL Indonesia, Surabaya, sebagai bagian dari kerja sama industri pertahanan kedua negara.",
+  "takeaway": "Proyek ini relevan bagi pembaca ekonomi karena menyangkut perluasan kapasitas industri manufaktur strategis BUMN PT PAL melalui kerja sama internasional.",
+  "terbit": "2026-09-28T08:43:12+00:00"
+ },
+ {
   "id": "egqXaZrvu-I",
   "title": "Bank Indonesia Pertahankan BI Rate di Level 5,75 Persen",
   "category": "Moneter",

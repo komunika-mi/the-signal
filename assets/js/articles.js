@@ -29,6 +29,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "presiden-prabowo-usulkan-biaya-haji-2027-dibagi-52-48",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo Usulkan Biaya Haji 2027 Dibagi [52:48]",
+  "deck": "Presiden Prabowo mengusulkan porsi Bipih dan nilai manfaat 52:48 untuk BPIH 2027 agar biaya yang ditanggung jamaah tidak terlalu berat.",
+  "image": "assets/img/presiden-prabowo-usulkan-biaya-haji-2027-dibagi-52-48.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T18:00:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469955-prabowo-usulkan-biaya-haji-2027-dibagi-5248-ini-alasannya",
+  "tags": [
+   "biaya haji 2027",
+   "bpih 2027",
+   "bipih",
+   "nilai manfaat"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto mengusulkan agar komposisi Biaya Perjalanan Ibadah Haji (Bipih) dan nilai manfaat dalam Biaya Penyelenggaraan Ibadah Haji (BPIH) 2027 diatur dengan perbandingan 52 berbanding 48. Usulan ini penting bagi calon jamaah haji keberangkatan 2027 karena akan menentukan seberapa besar biaya yang harus mereka setor sendiri dibandingkan yang ditanggung dari hasil kelola dana haji.",
+   "Menteri Haji dan Umrah Mochamad Irfan Yusuf menyampaikan usulan tersebut setelah melaporkan perkembangan pembahasan BPIH 2027 kepada Presiden Prabowo di Istana Kepresidenan, Jakarta, Senin (28/9/2026). Menurut Irfan, Presiden menekankan agar komposisi biaya tidak terlalu memberatkan jamaah, meski ia menyebut ada sejumlah komponen biaya yang perlu berubah akibat perubahan situasi geopolitik di kawasan Timur Tengah yang berdampak pada kondisi ekonomi.",
+   "Kementerian Haji dan Umrah akan mencari formulasi yang tepat untuk menetapkan komposisi Bipih dan nilai manfaat sesuai arahan tersebut. Pemerintah bersama Komisi VIII DPR RI masih akan membahas lebih lanjut formulasi ini sebelum ditetapkan resmi sebagai bagian dari BPIH 2027."
+  ],
+  "fotoAdegan": "Indonesian pilgrims in white ihram clothing loading luggage onto a bus outside an airport terminal at dawn",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/01/07/677c733a9a4ed-biaya-haji-2025-turun-ini-besaran-bpih-yang-harus-dibayar-jemaah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang diusulkan Presiden Prabowo adalah pembagian dua sumber pembiayaan haji, yaitu Bipih yang dibayar langsung oleh jamaah dan nilai manfaat yang berasal dari hasil kelola dana haji secara bersama, dengan porsi 52 berbanding 48. Artinya, hampir separuh dari ongkos haji 2027 diarahkan ditutup dari hasil investasi dana haji, bukan dari kantong jamaah sendiri, dengan tujuan agar bebannya tidak melonjak. Pihak yang langsung terdampak adalah calon jamaah haji keberangkatan 2027, karena besar kecilnya porsi ini menentukan jumlah setoran yang harus mereka bayar. Yang masih kurang untuk memastikan angka akhirnya adalah rincian komponen biaya yang berubah akibat gejolak geopolitik Timur Tengah serta hasil pembahasan resmi antara Kementerian Haji dan Umrah dengan Komisi VIII DPR, yang belum disertai tenggat waktu penetapan.",
+  "imageV": "mul8m5jb"
+ },
+ {
   "slug": "amor-rencanakan-refloat-5-08-juta-saham-untuk-esop-karyawan",
   "category": "Aksi Korporasi",
   "title": "AMOR Rencanakan Refloat 5,08 Juta Saham untuk [ESOP] Karyawan",
@@ -79,6 +105,60 @@ var ARTICLES = [
   "fotoAdegan": "Rows of yellow heavy mining excavators and dump trucks parked at a dusty open pit mine site, workers inspecting machinery, overcast sky",
   "takeaway": "Dividen interim ini condong positif bagi pemegang saham UNTR, sebab nilainya, sampai Rp1,48 triliun, melebihi laba bersih semester pertama 2026 yang hanya Rp956,28 miliar, namun tetap aman dibayar karena ditopang saldo laba ditahan Rp82,6 triliun dari total ekuitas Rp101,75 triliun. Begitu dibayarkan, dividen ini akan mengurangi kas perusahaan dan menurunkan total ekuitas sebesar nilai yang dibagikan, dua pos yang biasa dipantau pelaku pasar untuk menilai kekuatan modal dan daya bayar perusahaan ke depan. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 8 Oktober 2026 pukul 16.00 WIB dan tanggal pembayaran pada 26 Oktober 2026, sementara investor yang ingin mendapat hak dividen harus sudah memegang saham UNTR sebelum tanggal cum dividen 6 Oktober 2026 di pasar reguler dan negosiasi.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "ihsg-ambruk-1-51-persen-554-saham-merah",
+  "category": "Pasar Modal",
+  "title": "IHSG [Ambruk] 1,51 Persen, 554 Saham Merah",
+  "deck": "IHSG turun 94 poin ke 6.147,8 pada Senin (28/9), dengan 554 saham melemah dan transaksi Rp12,49 triliun, sementara hanya sektor transportasi dan energi bertahan hijau.",
+  "image": "assets/img/ihsg-ambruk-1-51-persen-554-saham-merah.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:15:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469941-ihsg-ambruk-151-persen-ke-61478-554-saham-berguguran",
+  "tags": [
+   "IHSG",
+   "Bursa Efek Indonesia",
+   "saham turun",
+   "LQ45"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) ditutup melemah 1,51 persen atau turun 94 poin ke level 6.147,8 pada perdagangan Senin, 28 September 2026. Pelemahan ini tergolong dalam dan menyeret mayoritas saham di Bursa Efek Indonesia, dengan 554 saham turun harga berbanding hanya 192 saham yang naik dan 217 saham stagnan. Nilai transaksi hari itu mencapai Rp12,49 triliun, menandakan tekanan jual terjadi di tengah aktivitas perdagangan yang cukup ramai.",
+   "Di tengah pelemahan yang meluas, hanya dua sektor yang berhasil bertahan di zona hijau, yaitu transportasi yang naik tipis 0,47 persen dan energi yang naik 0,04 persen. Sebaliknya, sektor teknologi mencatat penurunan paling dalam dibanding sektor lainnya, mencerminkan aksi jual yang terkonsentrasi pada saham-saham berbasis teknologi.",
+   "Meski indeks acuan melemah, tidak semua saham ikut tertekan. Saham PT Adaro Andalan Indonesia Tbk (AADI), salah satu konstituen indeks LQ45, justru menguat 3,3 persen dan mencatat kenaikan tertinggi di antara saham-saham blue chip tersebut.",
+   "Di jajaran saham berkapitalisasi lebih kecil, sejumlah saham mencatat lonjakan tajam hingga masuk daftar top gainers. Saham IFSH melesat 25 persen ke Rp1.250, SEMA naik 25 persen ke Rp330, dan BSWD menguat 24,9 persen ke Rp1.855."
+  ],
+  "fotoAdegan": "Busy stock brokerage office in Jakarta with employees watching blurred distant chart screens, tense atmosphere, natural light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/05/04/69f7cce47a526-pekerja-berjalan-di-samping-layar-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data ini baru potret satu hari perdagangan, jadi belum bisa dipastikan apakah pelemahan 1,51 persen ini awal tren turun atau sekadar koreksi sesaat. Yang paling terdampak adalah investor di saham-saham teknologi, karena sektor ini mencatat penurunan terdalam, sementara transportasi dan energi jadi satu-satunya sektor yang bertahan di zona hijau. Perbandingan 554 saham melemah berbanding 192 saham menguat menunjukkan tekanan jual memang menyebar luas, bukan cuma menimpa segelintir saham besar. Untuk memastikan apakah ini awal pelemahan yang berlanjut atau cuma sentimen sesaat, perlu dilihat pergerakan IHSG dalam beberapa hari perdagangan berikutnya, terutama apakah sektor teknologi terus tertekan atau mulai berbalik pulih.",
+  "imageV": "mul8m5z4"
+ },
+ {
+  "slug": "pertamina-hulu-energi-bidik-asri-basin-jadi-hub-karbon-di-korea",
+  "category": "Energi",
+  "title": "Pertamina Hulu Energi Bidik Asri Basin Jadi Hub [Karbon] di Korea",
+  "deck": "PHE memaparkan progres proyek penangkapan dan penyimpanan karbon di forum KCCUS Seoul, termasuk rencana Asri Basin bersama ExxonMobil sebagai hub penyimpanan karbon regional pertama.",
+  "image": "assets/img/pertamina-hulu-energi-bidik-asri-basin-jadi-hub-karbon-di-korea.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T17:13:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469957-perkuat-kemitraan-strategis-di-forum-kccus-korea-pertamina-hulu-energi-dorong-asri-basin-sebagai-hub-penyimpanan-karbon-regional",
+  "tags": [
+   "Pertamina",
+   "Energi",
+   "Korea",
+   "Karbon"
+  ],
+  "body": [
+   "Pertamina Hulu Energi (PHE) memperkuat posisinya dalam mendukung transisi energi kawasan dengan mempercepat penerapan teknologi penangkapan dan penyimpanan karbon dioksida, yang dikenal dengan sebutan CCUS dan CCS. Direktur Investasi dan Pengembangan Bisnis PHE, Dannif Utojo Danusaputro, menyampaikan hal ini dalam forum KCCUS di Seoul, Korea Selatan, pada 15 September 2026. Teknologi ini menjadi salah satu cara mengurangi emisi karbon dari industri migas, sekaligus membuka peluang bagi Indonesia untuk menawarkan jasa penyimpanan karbon ke negara lain.",
+   "Dalam paparannya, Dannif menjelaskan bahwa PHE sejauh ini telah menjalankan 10 program percobaan dengan total penyuntikan sekitar 5.671 ton karbon dioksida ke dalam tanah. Salah satu tonggaknya adalah suntikan CO2 pertama di Lapangan Sukowati yang rampung Desember 2023, dilanjutkan dengan uji coba metode suntik antar sumur untuk mendongkrak produksi minyak pada 2025. Angka realisasi ini masih sangat kecil dibanding potensi yang disebutkan pemerintah, yaitu kapasitas penyimpanan karbon nasional sekitar 578 miliar ton yang tersebar di 20 cekungan geologi di berbagai wilayah.",
+   "Proyek yang jauh lebih besar sedang disiapkan PHE bersama ExxonMobil di Asri Basin, cekungan lepas pantai yang diperkirakan punya kapasitas penyimpanan sekitar 2,9 miliar ton karbon dioksida. Proyek ini dirancang sebagai hub penyimpanan karbon regional pertama berskala besar, mencakup rantai lengkap mulai dari pengangkutan karbon cair, terminal penerima, pipa bawah laut, sumur suntik, hingga fasilitas penyimpanan. Lokasinya dipilih karena dekat dengan sumber-sumber emisi di dalam negeri dan berada di jalur pelayaran yang strategis.",
+   "Dannif menyebut pendekatan PHE dilakukan bertahap, yakni mengumpulkan pengalaman lewat proyek percobaan sambil secara paralel menyiapkan infrastruktur untuk proyek berskala lebih besar. Ia menegaskan kesiapan ini disusun agar begitu proyek Asri Basin mulai berjalan, PHE sudah punya bekal teknis dari berbagai uji coba sebelumnya."
+  ],
+  "fotoAdegan": "Offshore oil and gas platform surrounded by calm tropical sea, pipeline framework and a supply vessel docked alongside under overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/28/6aba3d2bd421e-pertamina-hulu-energi-dorong-asri-basin-sebagai-hub-penyimpanan-karbon-regional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan cuma soal teknologi, tapi soal skalanya. Realisasi PHE sejauh ini baru 5.671 ton karbon yang disuntikkan lewat uji coba, sedangkan proyek Asri Basin yang sedang disiapkan bersama ExxonMobil menyasar kapasitas 2,9 miliar ton, artinya PHE baru menyentuh sebagian sangat kecil dari target besarnya dan proyek utamanya sendiri belum beroperasi. Yang terdampak langsung adalah industri migas dan pabrik-pabrik penghasil emisi yang butuh tempat membuang karbon, serta mitra asing seperti ExxonMobil yang ikut membiayai proyek ini. Rencana ini justru dipaparkan di forum milik Korea Selatan dan disebut sebagai hub regional, bukan cuma nasional, sehingga arahnya mengarah ke kemungkinan Indonesia menerima kiriman karbon dari luar negeri untuk disimpan, bukan sekadar menampung emisi dalam negeri sendiri. Yang akan memastikan arah ini adalah kapan Asri Basin mulai beroperasi secara komersial dan apakah muncul pengumuman resmi kerja sama lintas negara untuk mengirim karbon ke basin tersebut.",
+  "imageV": "mul8m6f3"
  },
  {
   "slug": "dada-bagikan-dividen-tunai-rp0-27-per-saham",

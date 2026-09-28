@@ -21,6 +21,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "presiden-prabowo-usulkan-biaya-haji-2027-dibagi-52-48",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo Usulkan Biaya Haji 2027 Dibagi [52:48]",
+  "deck": "Presiden Prabowo mengusulkan porsi Bipih dan nilai manfaat 52:48 untuk BPIH 2027 agar biaya yang ditanggung jamaah tidak terlalu berat.",
+  "date": "28 September 2026",
+  "image": "assets/img/presiden-prabowo-usulkan-biaya-haji-2027-dibagi-52-48.jpg",
+  "imageV": "mul8m5jb",
+  "tags": [
+   "biaya haji 2027",
+   "bpih 2027",
+   "bipih",
+   "nilai manfaat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469955-prabowo-usulkan-biaya-haji-2027-dibagi-5248-ini-alasannya"
+ },
+ {
   "slug": "amor-rencanakan-refloat-5-08-juta-saham-untuk-esop-karyawan",
   "category": "Aksi Korporasi",
   "title": "AMOR Rencanakan Refloat 5,08 Juta Saham untuk [ESOP] Karyawan",
@@ -51,6 +68,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/608f731b1f_4be4d5de62.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ihsg-ambruk-1-51-persen-554-saham-merah",
+  "category": "Pasar Modal",
+  "title": "IHSG [Ambruk] 1,51 Persen, 554 Saham Merah",
+  "deck": "IHSG turun 94 poin ke 6.147,8 pada Senin (28/9), dengan 554 saham melemah dan transaksi Rp12,49 triliun, sementara hanya sektor transportasi dan energi bertahan hijau.",
+  "date": "28 September 2026",
+  "image": "assets/img/ihsg-ambruk-1-51-persen-554-saham-merah.jpg",
+  "imageV": "mul8m5z4",
+  "tags": [
+   "IHSG",
+   "Bursa Efek Indonesia",
+   "saham turun",
+   "LQ45"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469941-ihsg-ambruk-151-persen-ke-61478-554-saham-berguguran"
+ },
+ {
+  "slug": "pertamina-hulu-energi-bidik-asri-basin-jadi-hub-karbon-di-korea",
+  "category": "Energi",
+  "title": "Pertamina Hulu Energi Bidik Asri Basin Jadi Hub [Karbon] di Korea",
+  "deck": "PHE memaparkan progres proyek penangkapan dan penyimpanan karbon di forum KCCUS Seoul, termasuk rencana Asri Basin bersama ExxonMobil sebagai hub penyimpanan karbon regional pertama.",
+  "date": "28 September 2026",
+  "image": "assets/img/pertamina-hulu-energi-bidik-asri-basin-jadi-hub-karbon-di-korea.jpg",
+  "imageV": "mul8m6f3",
+  "tags": [
+   "Pertamina",
+   "Energi",
+   "Korea",
+   "Karbon"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469957-perkuat-kemitraan-strategis-di-forum-kccus-korea-pertamina-hulu-energi-dorong-asri-basin-sebagai-hub-penyimpanan-karbon-regional"
  },
  {
   "slug": "dada-bagikan-dividen-tunai-rp0-27-per-saham",
@@ -6466,55 +6517,6 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fae8c5faca_11772ea6b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-terjun-56-poin-ke-6-384-72-jelang-keputusan-bi",
-  "category": "Pasar Modal",
-  "title": "IHSG [Terjun] 56 Poin ke 6.384,72 Jelang Keputusan BI",
-  "deck": "IHSG ditutup melemah 0,88 persen ke 6.384,72 saat investor menanti keputusan suku bunga RDG BI pekan ini, di tengah tekanan yield AS dan dolar.",
-  "date": "21 September 2026",
-  "image": "assets/img/ihsg-terjun-56-poin-ke-6-384-72-jelang-keputusan-bi.jpg",
-  "imageV": "mub6o73u",
-  "tags": [
-   "ihsg",
-   "bank indonesia",
-   "suku bunga",
-   "bursa efek indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468421-ihsg-terjun-56-poin-ke-638472-investor-bersiap-hadapi-keputusan-suku-bunga-bi"
- },
- {
-  "slug": "aims-ungkap-ekuitas-anjlok-usai-pendapatan-cuma-rp93-juta",
-  "category": "Aksi Korporasi",
-  "title": "AIMS Ungkap Ekuitas [Anjlok] Usai Pendapatan Cuma Rp93 Juta",
-  "deck": "Public expose tahunan AIMS mengungkap pendapatan 2025 anjlok ke Rp93 juta, membuat perusahaan merugi dan ekuitas turun tajam akibat kendala regulasi RKAB tambang rekanan.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AIMS",
-   "public expose",
-   "ekuitas",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6c60b2c061_63f2b2baca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tnca-ganti-ketua-komite-audit-per-18-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "TNCA Ganti Ketua [Komite Audit] per 18 September 2026",
-  "deck": "TNCA mengganti ketua komite audit dari Achmad Sutjipto ke R. Bagus Panuntun efektif 18 September 2026, sementara dua anggota lain tetap menjabat.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TNCA",
-   "komite audit",
-   "tata kelola perusahaan",
-   "Trimuda Nuansa Citra"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a3c07675d1_8e848f7f7d.pdf",
   "sourceLabel": "IDX"
  }
 ];

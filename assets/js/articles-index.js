@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "trim-siapkan-dana-rp100-miliar-untuk-pelunasan-obligasi-seri-a",
+  "category": "Aksi Korporasi",
+  "title": "TRIM Siapkan Dana Rp100 Miliar untuk [Pelunasan] Obligasi Seri A",
+  "deck": "TRIM menyatakan telah menyiapkan dana Rp100 miliar untuk pelunasan pokok Obligasi Berkelanjutan II Tahap II 2025 Seri A yang jatuh tempo 18 Oktober 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIM",
+   "obligasi",
+   "pelunasan efek",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/087d241432_20a0283502.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "irsx-rombak-direksi-komisaris-dan-tegaskan-rencana-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Rombak Direksi-Komisaris dan Tegaskan Rencana [Rights Issue]",
+  "deck": "RUPSLB IRSX menyetujui pergantian susunan direksi-komisaris dan menegaskan kembali rencana rights issue hingga 12,39 miliar saham baru plus 1,86 miliar Waran Seri II.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IRSX",
+   "RUPSLB",
+   "rights issue",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/66c68cd74d_5fa8ad5519.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ipac-panggil-rupslb-bahas-rencana-go-private-dan-delisting",
+  "category": "Aksi Korporasi",
+  "title": "IPAC Panggil RUPSLB, Bahas Rencana [Go Private] dan Delisting",
+  "deck": "Era Graharealty (IPAC) memanggil RUPSLB pada 20 Oktober 2026 untuk meminta persetujuan pemegang saham atas rencana go private dan penghapusan pencatatan saham dari Bursa Efek Indonesia.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPAC",
+   "RUPSLB",
+   "go private",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cf1d0377d_ec0db3d844.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppi-rampungkan-emisi-obligasi-rp1-t-dan-sukuk-rp676-63-m",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Rampungkan Emisi Obligasi Rp1 T dan Sukuk [Rp676,63 M]",
+  "deck": "LPPI menetapkan bunga tetap 10-10,5 persen untuk obligasi Rp1 triliun dan sukuk mudharabah Rp676,63 miliar setelah masa penawaran umum berakhir, dengan delapan sekuritas sebagai penjamin emisi.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI",
+   "obligasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a27a7e30d_4d7b7e15e3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "crab-rombak-direksi-beston-barto-jadi-dirut-baru",
+  "category": "Aksi Korporasi",
+  "title": "CRAB [Rombak] Direksi, Beston Barto Jadi Dirut Baru",
+  "deck": "RUPST menyetujui Beston Barto Siboro sebagai Direktur Utama baru, mantan Dirut Gindra Tardy pindah jadi Komisaris, dan Pontas Pane masuk sebagai Komisaris Independen.",
+  "date": "28 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRAB",
+   "Direksi",
+   "Komisaris",
+   "RUPST"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7de0f3d810_63fbee561f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tapg-direksi-george-oetomo-beli-350-000-saham",
   "category": "Aksi Korporasi",
   "title": "TAPG: Direksi George Oetomo [Beli] 350.000 Saham",
@@ -6439,88 +6519,6 @@ var ARTICLES = [
    "RUPSU"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bf99bb7d9f_6ecde0cc22.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-jadwalkan-rupo-obligasi-berkelanjutan-ii-19-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Jadwalkan [RUPO] Obligasi Berkelanjutan II, 19 Oktober",
-  "deck": "WIKA akan menggelar RUPO untuk Obligasi Berkelanjutan II Tahap I 2021 pada 19 Oktober 2026, rapat pemegang utang keempat yang dijadwalkan perseroan dalam sepekan terakhir.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "obligasi",
-   "RUPO",
-   "utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36dd64f183_e661f5faef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unsp-rinci-dasar-diskonto-revaluasi-kebun-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "UNSP Rinci Dasar Diskonto Revaluasi [Kebun] ke Bursa",
-  "deck": "Menjawab pertanyaan lanjutan BEI, UNSP membeberkan asumsi beta, imbal hasil obligasi, dan suku bunga di balik surplus revaluasi kebun Rp3,06 triliun yang mengangkat ekuitasnya.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNSP",
-   "Bakrie Sumatera Plantations",
-   "revaluasi aset",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5bb4aea5d2_f9a50dd4ed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cpin-hery-tambah-6-95-juta-saham-via-repurchase-agreement",
-  "category": "Aksi Korporasi",
-  "title": "CPIN: HERY Tambah 6,95 Juta Saham via [Repurchase Agreement]",
-  "deck": "HERY menambah 6,95 juta saham CPIN lewat repurchase agreement seharga Rp3.090 per lembar pada 16 September 2026, mengerek hak suaranya dari 5,52 persen menjadi 5,56 persen.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CPIN",
-   "kepemilikan saham",
-   "repurchase agreement",
-   "Charoen Pokphand"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-2278-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kementan-kerahkan-seribu-pompa-air-untuk-kebun-hadapi-kemarau",
-  "category": "Industri",
-  "title": "Kementan Kerahkan [Seribu] Pompa Air untuk Kebun Hadapi Kemarau",
-  "deck": "Kementerian Pertanian menyalurkan sekitar 1.000 unit irigasi pompa untuk kebun serta 545 pompa pemadam kebakaran lahan ke sembilan provinsi guna mengantisipasi kekeringan.",
-  "date": "21 September 2026",
-  "image": "assets/img/kementan-kerahkan-seribu-pompa-air-untuk-kebun-hadapi-kemarau.jpg",
-  "imageV": "muarfsnz",
-  "tags": [
-   "Kementan",
-   "Irigasi",
-   "Kekeringan",
-   "Perkebunan"
-  ],
-  "kreditFoto": "Kementerian Pertanian",
-  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8153",
-  "sourceLabel": "Kementerian Pertanian"
- },
- {
-  "slug": "yelo-gagal-penuhi-kuorum-rupslb-kedua-tunggu-rupslb-ketiga",
-  "category": "Aksi Korporasi",
-  "title": "YELO Gagal Penuhi [Kuorum] RUPSLB Kedua, Tunggu RUPSLB Ketiga",
-  "deck": "RUPSLB kedua YELO pada 17 September 2026 hanya dihadiri 36,533 persen pemegang saham, gagal penuhi syarat kuorum sehingga perseroan harus menggelar RUPSLB ketiga.",
-  "date": "21 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YELO",
-   "RUPSLB",
-   "kuorum",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac5d6257c8_47ecf6a7f1.pdf",
   "sourceLabel": "IDX"
  }
 ];

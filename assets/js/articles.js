@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "trim-siapkan-dana-rp100-miliar-untuk-pelunasan-obligasi-seri-a",
+  "category": "Aksi Korporasi",
+  "title": "TRIM Siapkan Dana Rp100 Miliar untuk [Pelunasan] Obligasi Seri A",
+  "deck": "TRIM menyatakan telah menyiapkan dana Rp100 miliar untuk pelunasan pokok Obligasi Berkelanjutan II Tahap II 2025 Seri A yang jatuh tempo 18 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T10:34:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/087d241432_20a0283502.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIM",
+  "tags": [
+   "TRIM",
+   "obligasi",
+   "pelunasan efek",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Trimegah Sekuritas Indonesia Tbk (TRIM) menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia bahwa perseroan telah menyiapkan dana sebesar Rp100 miliar untuk melunasi pokok Obligasi Berkelanjutan II Trimegah Sekuritas Indonesia Tahap II Tahun 2025 Seri A. Obligasi dengan tingkat bunga 6,75 persen per tahun ini akan jatuh tempo pada 18 Oktober 2026. Surat bernomor 129/CorSec/NKD/IX/2026.TRIM tersebut ditandatangani Corporate Secretary Nindya Kumala Dewi pada 28 September 2026.",
+   "Penyampaian informasi ini merupakan pemenuhan ketentuan IV.2.11 Peraturan Bursa Nomor I-E tentang Kewajiban Penyampaian Informasi, sebagaimana diatur dalam Surat Keputusan Direksi PT Bursa Efek Indonesia Nomor Kep-00087/BEI/12-2025 tanggal 12 Desember 2025. Aturan itu mewajibkan emiten penerbit obligasi melaporkan kesiapan dana pelunasan menjelang jatuh tempo efek utangnya.",
+   "Selain surat dari corporate secretary, TRIM turut mengirimkan Laporan Kesiapan Dana Pelunasan Efek yang ditandatangani dua direktur, David Agus Utama dan Rony Hascaryo, ditujukan kepada Direktur Utama Bursa Efek Indonesia Jeffrey Hendrik."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's central business district, wide street view, morning light",
+  "takeaway": "Laporan ini netral bagi TRIM karena sifatnya konfirmasi rutin atas kewajiban bursa, bukan kabar baru yang mengubah gambaran keuangan perusahaan. Yang tersentuh adalah arus kas dan beban utang, begitu Rp100 miliar dibayarkan pada 18 Oktober 2026, kas perusahaan berkurang sejumlah itu, tapi di sisi lain utang obligasi seri ini lunas sehingga beban bunga 6,75 persen per tahun ke depan ikut hilang dari pembukuan. Arus kas sendiri adalah catatan uang yang benar-benar keluar masuk dari kas perusahaan, berbeda dari laba di atas kertas, sehingga penting dicermati apakah pembayaran sebesar itu mengganggu kas operasional TRIM sebagai perusahaan sekuritas. Konfirmasi kesiapan dana semacam ini pada dasarnya menunjukkan TRIM tidak berisiko gagal bayar saat jatuh tempo, meski itu memang kewajiban standar yang harus dipenuhi setiap emiten obligasi menjelang pelunasan. Yang perlu dipantau selanjutnya adalah realisasi pembayaran pada tanggal jatuh temponya, 18 Oktober 2026, serta konfirmasi resmi dari TRIM setelah pelunasan tersebut benar-benar dieksekusi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "irsx-rombak-direksi-komisaris-dan-tegaskan-rencana-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Rombak Direksi-Komisaris dan Tegaskan Rencana [Rights Issue]",
+  "deck": "RUPSLB IRSX menyetujui pergantian susunan direksi-komisaris dan menegaskan kembali rencana rights issue hingga 12,39 miliar saham baru plus 1,86 miliar Waran Seri II.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T10:02:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/66c68cd74d_5fa8ad5519.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRSX",
+  "tags": [
+   "IRSX",
+   "RUPSLB",
+   "rights issue",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Folago Global Nusantara Tbk (IRSX) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Kamis, 24 September 2026, dihadiri pemegang saham yang mewakili 4.409.467.334 saham atau 71,177% dari seluruh saham berhak suara. Dengan 99,941% suara setuju, rapat menyetujui pemberhentian dengan hormat Adhie M. Masardi dari jabatan Komisaris Utama dan Benny dari jabatan Komisaris Independen, disertai pembebasan tanggung jawab (acquit de charge) atas masa jabatan mereka. Sebagai gantinya, rapat mengangkat Benny sebagai Direktur, Hana Hasanah Fadel Muhammad sebagai Komisaris Utama, Adhie M. Masardi sebagai Komisaris, dan Megah Supratiwi sebagai Komisaris Independen, berlaku efektif sejak penutupan rapat.",
+   "Dengan susunan baru itu, jajaran Direksi IRSX menjadi Subioto Jingga sebagai Direktur Utama, Charlie, Stephen Minaldo Onggo, dan Benny sebagai Direktur. Dewan Komisaris terdiri dari Hana Hasanah Fadel Muhammad sebagai Komisaris Utama, Adhie M. Masardi sebagai Komisaris, dan Megah Supratiwi sebagai Komisaris Independen. Masa jabatan berlaku sampai berakhirnya periode anggota Dewan Komisaris lain yang sedang menjabat, dengan RUPS tetap berhak memberhentikan sewaktu-waktu.",
+   "Pada agenda kedua, rapat menegaskan kembali keputusan RUPSLB 25 September 2025 tentang rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD I) sebanyak-banyaknya 12.390.094.754 saham baru, bersamaan dengan penerbitan sebanyak-banyaknya 1.858.514.214 Waran Seri II. Keputusan ini didukung 99,941% suara setuju tanpa suara menolak. Direksi diberi kuasa penuh untuk menetapkan jumlah saham dan waran yang ditawarkan, harga pelaksanaan PMHMETD I maupun Waran Seri II, serta menaikkan modal dasar dan modal disetor perusahaan setelah pelaksanaannya, namun harga dan jadwal pastinya belum ditetapkan dalam rapat ini."
+  ],
+  "fotoAdegan": "Rows of business attendees seated in a corporate meeting hall in Jakarta, ushers assisting near the aisle, soft morning light through tall windows",
+  "takeaway": "Laporan ini netral bagi arah fundamental IRSX: pergantian direksi-komisaris cuma memutar orang yang sama di kursi berbeda, sementara rencana rights issue yang ditegaskan kembali belum punya harga maupun jadwal pasti sehingga dampaknya belum bisa dinilai. Yang perlu dicermati adalah jumlah saham beredar, sebab rencana penambahan modal ini bisa menerbitkan hingga 12,39 miliar saham baru plus 1,86 miliar dari waran, padahal total saham berhak suara saat rapat cuma sekitar 6,2 miliar, sehingga kalau direalisasikan penuh jumlah saham beredar berpotensi tumbuh berkali lipat dan laba per saham makin terbagi ke pemilik yang lebih banyak. Di sisi lain, dana segar dari rights issue bisa memperkuat modal perusahaan kalau memang dipakai untuk ekspansi atau membayar utang. Yang dipantau berikutnya adalah penetapan harga pelaksanaan PMHMETD I dan Waran Seri II oleh direksi baru, karena rapat ini baru menegaskan ulang rencana dari RUPSLB 25 September 2025 tanpa kepastian baru kapan aksi korporasi ini benar-benar dieksekusi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ipac-panggil-rupslb-bahas-rencana-go-private-dan-delisting",
+  "category": "Aksi Korporasi",
+  "title": "IPAC Panggil RUPSLB, Bahas Rencana [Go Private] dan Delisting",
+  "deck": "Era Graharealty (IPAC) memanggil RUPSLB pada 20 Oktober 2026 untuk meminta persetujuan pemegang saham atas rencana go private dan penghapusan pencatatan saham dari Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T09:44:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cf1d0377d_ec0db3d844.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPAC",
+  "tags": [
+   "IPAC",
+   "RUPSLB",
+   "go private",
+   "delisting"
+  ],
+  "body": [
+   "PT Era Graharealty Tbk (IPAC) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 20 Oktober 2026 pukul 10.00 WIB di TCC Batavia Tower One Lantai 8 Suite 3&5, Jalan KH Mas Mansyur Kavling 126, Tanah Abang, Jakarta Pusat. Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Jumat, 25 September 2026, pada penutupan perdagangan saham Perseroan di bursa. Pemanggilan ini menindaklanjuti surat pemberitahuan rencana RUPS sebelumnya bernomor 137/ERA/IX/26 tanggal 11 September 2026, dan ditandatangani oleh Direktur Utama Darmadi Darmawangsa.",
+   "Rapat ini membawa dua agenda. Agenda pertama meminta persetujuan pemegang saham atas rencana perubahan status Perseroan dari perusahaan terbuka menjadi perusahaan tertutup atau go private, yang mencakup penghapusan pencatatan saham dari Bursa Efek Indonesia (delisting), penunjukan pihak profesi penunjang untuk memuluskan rencana tersebut, serta pemberian wewenang penuh kepada direksi untuk mengeksekusi seluruh langkah yang diperlukan. Agenda kedua meminta persetujuan perubahan seluruh Anggaran Dasar Perseroan sehubungan dengan perubahan status tersebut, termasuk penyesuaian nama perusahaan.",
+   "Dokumen ini juga mencantumkan syarat kuorum yang cukup ketat. Agenda pertama harus dihadiri oleh Pemegang Saham Independen, yaitu pemegang saham di luar pihak pengendali dan afiliasinya, yang mewakili lebih dari separuh total saham berhak suara milik kelompok itu, dan disetujui oleh lebih dari separuh suara yang mereka berikan. Agenda kedua mengikuti aturan Anggaran Dasar dan Undang-Undang Perseroan Terbatas, yakni kuorum kehadiran minimal dua pertiga dari seluruh saham berhak suara dan persetujuan lebih dari dua pertiga suara yang hadir. Perseroan menegaskan bahwa agenda kedua hanya akan dibahas jika agenda pertama mendapat kuorum dan persetujuan yang disyaratkan."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of chairs facing a podium, floor-to-ceiling windows showing a Jakarta office tower skyline outside",
+  "takeaway": "Laporan ini netral dari sisi kinerja usaha Era Graharealty karena RUPSLB ini murni soal status hukum perusahaan, bukan soal laba, utang, atau arus kas, tapi dampaknya besar bagi pemegang saham publik karena saham mereka berpotensi berhenti diperdagangkan di Bursa Efek Indonesia jika go private disetujui. Go private berarti perusahaan melepas status sebagai perusahaan terbuka sehingga sahamnya tidak lagi bisa dijual beli lewat mekanisme bursa seperti biasa, dan pos yang tersentuh di sini bukan angka keuangan melainkan likuiditas kepemilikan saham publik itu sendiri, sementara dokumen ini belum menyebutkan skema pembelian kembali saham bagi pemegang saham yang tidak setuju. Yang perlu dicermati adalah pelaksanaan RUPSLB pada 20 Oktober 2026, karena agenda go private memerlukan persetujuan lebih dari separuh suara Pemegang Saham Independen, yakni pemegang saham di luar pihak pengendali, sebuah syarat yang sengaja dibuat ketat agar keputusan sebesar ini tidak semata ditentukan pemegang saham mayoritas. Jika syarat itu tidak terpenuhi, agenda kedua soal perubahan anggaran dasar dan nama perusahaan otomatis tidak akan dibahas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lppi-rampungkan-emisi-obligasi-rp1-t-dan-sukuk-rp676-63-m",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Rampungkan Emisi Obligasi Rp1 T dan Sukuk [Rp676,63 M]",
+  "deck": "LPPI menetapkan bunga tetap 10-10,5 persen untuk obligasi Rp1 triliun dan sukuk mudharabah Rp676,63 miliar setelah masa penawaran umum berakhir, dengan delapan sekuritas sebagai penjamin emisi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T09:15:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a27a7e30d_4d7b7e15e3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "obligasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Lontar Papyrus Pulp & Paper Industry (LPPI) menyampaikan hasil akhir Penawaran Umum Berkelanjutan Obligasi Berkelanjutan IV Tahap IV dan Sukuk Mudharabah Berkelanjutan II Tahap IV Tahun 2026, setelah masa penawaran umum dan upaya penjualan terbaik (best effort) selesai. Nilai pokok obligasi ditetapkan Rp1 triliun, terdiri dari Seri A sebesar Rp744,815 miliar dengan bunga tetap 10 persen per tahun bertenor 3 tahun, dan Seri B sebesar Rp255,185 miliar dengan bunga tetap 10,5 persen per tahun bertenor 5 tahun. Bunga dibayarkan setiap 3 bulan, dengan pembayaran pertama pada 30 Desember 2026, sementara jatuh tempo Seri A pada 30 September 2029 dan Seri B pada 30 September 2031.",
+   "Untuk sukuk mudharabah, jumlah dana yang dihimpun sebesar Rp676,63 miliar. Seri A senilai Rp537,955 miliar memberikan nisbah bagi hasil 14,62 persen dari pendapatan yang dibagihasilkan, setara indikasi imbal hasil 10 persen per tahun selama 3 tahun. Seri B senilai Rp138,675 miliar memberikan nisbah 15,35 persen, setara indikasi imbal hasil 10,5 persen per tahun selama 5 tahun. Jadwal pembayaran bagi hasil sama dengan jadwal bunga obligasi, yakni tiap 3 bulan mulai 30 Desember 2026 hingga jatuh tempo pada 2029 dan 2031 sesuai serinya.",
+   "Penjaminan emisi obligasi dipegang delapan sekuritas, dengan porsi terbesar oleh PT BCA Sekuritas 34,74 persen dan PT Aldiracita Sekuritas Indonesia 28,93 persen, disusul PT KB Valbury Sekuritas 15,50 persen, PT Indo Premier Sekuritas 12,49 persen, PT Mandiri Sekuritas 2,91 persen, PT Trimegah Sekuritas Indonesia Tbk 2,62 persen, PT BNI Sekuritas 2,01 persen, dan PT Maybank Sekuritas Indonesia 0,80 persen. Untuk sukuk mudharabah, porsi terbesar dipegang PT Aldiracita Sekuritas Indonesia 30,06 persen, PT BNI Sekuritas 19,62 persen, PT Maybank Sekuritas Indonesia 16,26 persen, PT Mandiri Sekuritas 12,91 persen, PT KB Valbury Sekuritas 8,14 persen, PT Trimegah Sekuritas Indonesia Tbk 6,85 persen, PT Indo Premier Sekuritas 5,78 persen, dan PT BCA Sekuritas 0,38 persen. Wali amanat untuk kedua instrumen ini adalah PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk."
+  ],
+  "fotoAdegan": "Workers inspecting large rolls of paper moving along a conveyor inside an industrial pulp and paper mill, steam rising",
+  "takeaway": "Laporan ini netral bagi LPPI karena hanya menuntaskan program obligasi dan sukuk yang memang sudah direncanakan sejak akhir tahun lalu, bukan keputusan pendanaan baru yang mengubah arah bisnis perusahaan. Pos yang tersentuh adalah beban bunga, yaitu biaya tetap yang harus dibayar perusahaan atas utangnya. Dengan total dana Rp1,68 triliun berbunga tetap 10 sampai 10,5 persen selama 3 sampai 5 tahun, kewajiban bunga LPPI bertambah dan bisa menekan laba bersih jika dana itu tidak dipakai untuk kegiatan yang menghasilkan imbal balik lebih tinggi dari biaya bunganya. Dokumen ini tidak menjelaskan untuk apa dana tersebut akan dipakai, jadi hal itu perlu dipantau lebih lanjut. Yang perlu dicermati berikutnya adalah realisasi pembayaran bunga dan bagi hasil pertama pada 30 Desember 2026 serta keterbukaan lanjutan soal penggunaan dana hasil emisi ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "crab-rombak-direksi-beston-barto-jadi-dirut-baru",
+  "category": "Aksi Korporasi",
+  "title": "CRAB [Rombak] Direksi, Beston Barto Jadi Dirut Baru",
+  "deck": "RUPST menyetujui Beston Barto Siboro sebagai Direktur Utama baru, mantan Dirut Gindra Tardy pindah jadi Komisaris, dan Pontas Pane masuk sebagai Komisaris Independen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T08:26:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7de0f3d810_63fbee561f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRAB",
+  "tags": [
+   "CRAB",
+   "Direksi",
+   "Komisaris",
+   "RUPST"
+  ],
+  "body": [
+   "PT Toba Surimi Industries Tbk (CRAB) mengumumkan perubahan susunan Direksi dan Dewan Komisaris berdasarkan keputusan Rapat Umum Pemegang Saham Tahunan (RUPST) yang digelar pada 25 September 2026. Pemegang saham menyetujui pengangkatan Beston Barto Siboro, S.H. sebagai Direktur Utama, menggantikan Gindra Tardy yang sebelumnya menjabat posisi tersebut dan kini dipindah menjadi Komisaris. Selain itu, Drs. Pontas Pane diangkat sebagai Komisaris Independen untuk sisa masa jabatan hingga 28 April 2027, atau sampai penutupan RUPS Tahunan pada akhir periode satu masa jabatan tersebut.",
+   "Dengan keputusan ini, susunan Dewan Komisaris perseroan menjadi: Bintarna Tardy sebagai Komisaris Utama, Budi Satria Tardy dan Gindra Tardy sebagai Komisaris, serta Drs. Pontas Pane dan Purnomo Darmowasito sebagai Komisaris Independen. Adapun Dewan Direksi terdiri dari Beston Barto Siboro, S.H. sebagai Direktur Utama, dengan Irsan Sudargo, Sia Leng Hong als Tony Siaputra, Erman, dan Kok Kieng sebagai Direktur.",
+   "RUPST juga memberi kuasa kepada Direksi, baik bersama-sama maupun sendiri-sendiri dengan hak substitusi, untuk membuat dan menandatangani akta perubahan susunan pengurus di hadapan notaris serta melaporkannya kepada instansi berwenang. Perseroan menyatakan perubahan susunan pengurus ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan."
+  ],
+  "fotoAdegan": "Workers in hairnets sorting frozen shrimp on a stainless steel conveyor line inside a seafood processing plant, harsh fluorescent light",
+  "takeaway": "Perubahan direksi dan komisaris ini kami nilai netral bagi fundamental Toba Surimi, karena merupakan keputusan RUPST tahunan yang rutin dan mantan Direktur Utama tidak disingkirkan, melainkan dipindah menjadi Komisaris, bukan tanda adanya gejolak tata kelola mendadak. Pergantian pengurus seperti ini tidak langsung mengubah pos keuangan seperti ekuitas, arus kas, atau laba per saham, tetapi menentukan arah strategi perusahaan ke depan, termasuk respons manajemen baru terhadap turunnya laba bersih 53 persen dan naiknya utang yang sudah dilaporkan perseroan pada semester I 2026. Yang perlu dipantau adalah langkah konkret jajaran direksi baru dalam beberapa bulan ke depan untuk memperbaiki kinerja tersebut, serta masa jabatan Komisaris Independen Pontas Pane yang berlaku hanya sampai 28 April 2027 atau penutupan RUPS Tahunan pada akhir periode itu.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tapg-direksi-george-oetomo-beli-350-000-saham",
   "category": "Aksi Korporasi",
   "title": "TAPG: Direksi George Oetomo [Beli] 350.000 Saham",

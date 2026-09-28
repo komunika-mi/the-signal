@@ -28,6 +28,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "lebih-dari-85-persen-calon-manajer-kdkmp-bersedia-ditempatkan",
+  "category": "UMKM",
+  "title": "Lebih dari 85 Persen Calon Manajer KDKMP [Bersedia] Ditempatkan",
+  "deck": "Kemenkop mencatat lebih dari 85 persen dari 28.620 calon manajer Koperasi Desa/Kelurahan Merah Putih menyatakan bersedia ditempatkan, tugas dijadwalkan mulai awal Oktober 2026.",
+  "image": "assets/img/lebih-dari-85-persen-calon-manajer-kdkmp-bersedia-ditempatkan.jpg",
+  "date": "28 September 2026",
+  "isoDate": "2026-09-28T22:15:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469989-lebih-dari-85-persen-calon-manajer-kdkmp-bersedia-ditempatkan-mulai-bertugas-oktober",
+  "tags": [
+   "KDKMP",
+   "Koperasi Desa Merah Putih",
+   "Kementerian Koperasi",
+   "Penempatan Manajer"
+  ],
+  "body": [
+   "Kementerian Koperasi mencatat lebih dari 85 persen dari 28.620 calon manajer Koperasi Desa dan Kelurahan Merah Putih (KDKMP) telah menyatakan kesediaan untuk ditempatkan di lokasi yang ditentukan pemerintah. Kesediaan ini menjadi syarat sebelum koperasi desa, salah satu program besar pemerintah untuk ekonomi tingkat desa, bisa mulai beroperasi dengan manajer definitif pada Oktober 2026.",
+   "Sekretaris Kementerian Koperasi Ahmad Zabadi mengatakan konfirmasi kesediaan itu dikumpulkan lewat formulir yang mulai dibagikan dalam beberapa hari terakhir, dengan batas waktu pengisian hingga 28 September 2026. Dari 28.620 calon manajer yang sebelumnya lolos seleksi dan pendidikan, sebagian besar sudah menyatakan bersedia, sementara sisanya masih dalam proses pengisian konfirmasi. Sejauh ini Kemenkop belum menerima laporan calon manajer yang mengundurkan diri, termasuk dari mereka yang sebelumnya mengeluhkan lokasi penempatan yang dinilai tidak sesuai domisili.",
+   "Zabadi mengaku belum bisa memastikan status calon manajer yang tidak memberi konfirmasi hingga batas waktu, karena Kemenkop masih akan membahas langkah lanjutannya. Ia menegaskan bahwa tidak memberi konfirmasi bukan berarti otomatis dianggap mengundurkan diri. Setelah proses konfirmasi rampung, calon manajer yang telah menyatakan bersedia akan mulai bertugas di koperasi desa atau kelurahan masing-masing pada awal Oktober 2026."
+  ],
+  "fotoAdegan": "Villagers gathered outside a small rural cooperative building in an Indonesian village, morning light, motorbikes parked nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/17/6aabc3c38e6c2-prajurit-tni-memarkirkan-kendaraan-milik-koperasi-desakelurahan-merah-putih-kdkmp-15-ulu-di-palembang-sumatera-selatan-jumat-288_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah kepastian jumlah pengelola untuk program koperasi desa ini, dari 28.620 calon manajer yang sudah dididik, lebih dari 85 persen sudah pasti akan bertugas mulai awal Oktober, sementara sisanya masih menggantung karena belum mengisi konfirmasi kesediaan. Yang terdampak adalah warga desa dan kelurahan calon penerima manfaat koperasi, karena kesiapan manajer menentukan kapan koperasi itu benar-benar mulai melayani warga, misalnya untuk simpan pinjam atau penyaluran kebutuhan pokok. Ke depan ada dua kemungkinan arah, pemerintah bisa menganggap yang belum konfirmasi tetap berhak bertugas selama tidak menyatakan mundur sehingga jumlah manajer aktif tetap mendekati angka penuh, atau sebaliknya sebagian lokasi kosong dan perlu diisi ulang lewat proses tambahan. Yang akan menentukan arah mana yang terjadi adalah keputusan Kemenkop setelah batas waktu 28 September ini soal status calon manajer yang tidak merespons, serta apakah penempatan awal Oktober nanti benar-benar mencakup seluruh 28.620 lokasi atau berkurang.",
+  "imageV": "mulja6vu"
+ },
+ {
   "slug": "toba-baru-pakai-11-9-dana-obligasi-rp175-miliar",
   "category": "Aksi Korporasi",
   "title": "TOBA baru pakai 11,9% dana [obligasi] Rp175 miliar",

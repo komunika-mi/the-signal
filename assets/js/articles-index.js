@@ -21,6 +21,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "lebih-dari-85-persen-calon-manajer-kdkmp-bersedia-ditempatkan",
+  "category": "UMKM",
+  "title": "Lebih dari 85 Persen Calon Manajer KDKMP [Bersedia] Ditempatkan",
+  "deck": "Kemenkop mencatat lebih dari 85 persen dari 28.620 calon manajer Koperasi Desa/Kelurahan Merah Putih menyatakan bersedia ditempatkan, tugas dijadwalkan mulai awal Oktober 2026.",
+  "date": "28 September 2026",
+  "image": "assets/img/lebih-dari-85-persen-calon-manajer-kdkmp-bersedia-ditempatkan.jpg",
+  "imageV": "mulja6vu",
+  "tags": [
+   "KDKMP",
+   "Koperasi Desa Merah Putih",
+   "Kementerian Koperasi",
+   "Penempatan Manajer"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/469989-lebih-dari-85-persen-calon-manajer-kdkmp-bersedia-ditempatkan-mulai-bertugas-oktober"
+ },
+ {
   "slug": "toba-baru-pakai-11-9-dana-obligasi-rp175-miliar",
   "category": "Aksi Korporasi",
   "title": "TOBA baru pakai 11,9% dana [obligasi] Rp175 miliar",
@@ -6498,23 +6515,5 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819126.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "pnbp-minerba-rp108-13-triliun-esdm-klaim-harga-membaik",
-  "category": "Energi",
-  "title": "PNBP Minerba Rp108,13 Triliun, ESDM Klaim Harga [Membaik]",
-  "deck": "Kementerian ESDM melaporkan PNBP minerba tembus Rp108,13 triliun hingga Agustus 2026, sembari mengklaim harga batu bara dan nikel membaik berkat penataan tata kelola.",
-  "date": "22 September 2026",
-  "image": "assets/img/pnbp-minerba-rp108-13-triliun-esdm-klaim-harga-membaik.jpg",
-  "imageV": "mubv2fo3",
-  "tags": [
-   "minerba",
-   "PNBP",
-   "ESDM",
-   "batu bara"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasil-dari-perbaikan-tata-kelola-harga-komoditas-membaik-dan-pnbp-meningkat",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

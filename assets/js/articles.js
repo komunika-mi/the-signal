@@ -109,7 +109,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini baru kesepakatan untuk mempercepat persiapan perundingan, bukan perundingan itu sendiri, sehingga belum ada jadwal putaran negosiasi atau target penyelesaian yang bisa dipegang publik. CEPA sendiri adalah semacam perjanjian dagang bilateral yang mengatur tarif dan akses pasar antara dua negara, berbeda dari kerja sama regional seperti ACFTA atau RCEP yang selama ini jadi payung dagang Indonesia-Tiongkok. Pihak yang paling terdampak adalah eksportir dan investor yang berhubungan dengan Tiongkok, mengingat negara ini jadi tujuan ekspor nonmigas terbesar Indonesia senilai US$64,82 miliar tahun lalu dan salah satu sumber investasi asing terbesar. Arah besarnya kemungkinan menuju pembukaan akses pasar yang lebih luas dengan Tiongkok, sejalan dengan perjanjian dagang lain yang sudah diteken Indonesia, tapi ini baru bisa dipastikan setelah kedua negara mengumumkan jadwal putaran perundingan resmi, yang belum ada dalam pertemuan ini.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "dpns-disuspensi-bei-laporan-keuangan-telat-dan-denda-nunggak",
@@ -429,7 +429,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari kerja sama ini adalah target melatih sekitar 240 tenaga kerja di bidang perawatan fasilitas lepas pantai dan bongkar muat kargo sampai tahun 2029, hasil tindak lanjut nota kesepahaman Indonesia-Korea Selatan yang diteken April 2026. Yang terdampak langsung adalah calon pekerja di industri lepas pantai serta perusahaan domestik di sektor itu yang selama ini kekurangan tenaga terlatih untuk pekerjaan semacam ini. Siaran pers ini belum menjelaskan berapa dana yang dikucurkan lewat skema bantuan pembangunan Korea tersebut, berapa peserta di angkatan pelatihan pertama, atau apakah lulusannya punya jalur pasti untuk terserap industri. Yang perlu dipantau adalah laporan hasil angkatan pertama dan data serapan kerja lulusannya, karena dari situ baru terlihat apakah target 240 orang sampai 2029 itu berjalan sesuai rencana atau hanya angka di atas kertas.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "posbankum-tembus-83-960-rp1-2-triliun-dihemat-negara",
@@ -853,7 +853,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka-angka yang disebut Menko Airlangga, mulai dari target kapasitas pembangkit 100 gigawatt, kebutuhan investasi lebih dari Rp2.200 triliun, sampai elektrifikasi desa yang menjangkau 4.390 lokasi tahun ini, semuanya masih berupa target dan proyeksi, bukan aturan atau anggaran yang sudah diketok. Yang terdampak langsung adalah pelaku industri energi terbarukan, produsen kendaraan listrik, dan warga di daerah yang belum teraliri listrik karena mereka bergantung pada program listrik desa ini. Ada dua kemungkinan arah: kalau pembangunan pembangkit dan jaringan transmisi 47.758 kilometer-sirkuit itu berjalan sesuai jadwal, rasio elektrifikasi bisa mendekati 99 persen seperti diklaim pemerintah, tapi kalau meleset seperti sejumlah target energi sebelumnya, pencapaiannya bisa mundur. Yang akan menentukan arah mana yang benar adalah laporan realisasi program listrik desa akhir 2026, apakah benar mencapai 4.390 lokasi seperti dijanjikan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "proyek-jica-di-kawasan-rebana-rampung-investasi-tembus-rp131-6-t",
@@ -881,7 +882,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan proyek fisik baru, melainkan rampungnya dokumen perencanaan, yaitu rencana induk kawasan, rencana pusat industri hijau, dan pedoman kawasan industri ramah lingkungan, hasil kerja sama teknis dua tahun dengan Jepang. Yang terdampak adalah calon investor di sekitar Pelabuhan Patimban, terutama industri yang mengincar status ramah lingkungan, serta pemerintah daerah Jawa Barat yang harus menjalankan rencana ini di lapangan. Dari 12 proyek infrastruktur strategis penopang kawasan ini, 8 sudah selesai dan 4 masih berjalan, sehingga arahnya adalah kawasan ini bergeser dari tahap perencanaan ke tahap pembangunan fisik dan penarikan investor. Yang akan menentukan apakah rencana ini benar terealisasi atau berhenti jadi dokumen adalah penyelesaian RUU Kawasan Industri yang disebut pemerintah sedang disusun, dan progres penuntasan 4 PSN yang masih tersisa.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "mice-siwie-honoris-tambah-saham-400-ribu-lembar-lagi",

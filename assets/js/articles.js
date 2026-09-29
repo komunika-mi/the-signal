@@ -109,7 +109,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini baru kesepakatan untuk mempercepat persiapan perundingan, bukan perundingan itu sendiri, sehingga belum ada jadwal putaran negosiasi atau target penyelesaian yang bisa dipegang publik. CEPA sendiri adalah semacam perjanjian dagang bilateral yang mengatur tarif dan akses pasar antara dua negara, berbeda dari kerja sama regional seperti ACFTA atau RCEP yang selama ini jadi payung dagang Indonesia-Tiongkok. Pihak yang paling terdampak adalah eksportir dan investor yang berhubungan dengan Tiongkok, mengingat negara ini jadi tujuan ekspor nonmigas terbesar Indonesia senilai US$64,82 miliar tahun lalu dan salah satu sumber investasi asing terbesar. Arah besarnya kemungkinan menuju pembukaan akses pasar yang lebih luas dengan Tiongkok, sejalan dengan perjanjian dagang lain yang sudah diteken Indonesia, tapi ini baru bisa dipastikan setelah kedua negara mengumumkan jadwal putaran perundingan resmi, yang belum ada dalam pertemuan ini.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "dpns-disuspensi-bei-laporan-keuangan-telat-dan-denda-nunggak",

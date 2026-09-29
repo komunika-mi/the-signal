@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sini-jelaskan-divestasi-ikn-rp31-8-miliar-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "SINI Jelaskan Divestasi IKN [Rp31,8 Miliar] ke Bursa",
+  "deck": "SINI menjelaskan ke BEI divestasi saham PT Interkayu Nusantara Rp31,8 miliar, yang menyumbang 40,11% pendapatan Perseroan, serta perkembangan rencana akuisisi oleh CUAN.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SINI",
+   "batu bara",
+   "divestasi",
+   "CUAN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/426c0da431_e27d3b5038.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gtbo-rkab-2026-belum-disetujui-utang-pajak-us-13-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "GTBO: [RKAB] 2026 Belum Disetujui, Utang Pajak US$13,5 Juta",
+  "deck": "GTBO menjawab surat permintaan penjelasan Bursa: RKAB 2026 masih diproses Kementerian ESDM, utang pajak US$13,46 juta, dan koreksi saldo laba US$8,65 juta.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTBO",
+   "RKAB",
+   "utang pajak",
+   "tambang batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c286f67646_bf06878eba.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "idea-jawab-bursa-soal-rencana-pengambilalihan-oleh-nawasena",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Jawab Bursa soal Rencana [Pengambilalihan] oleh Nawasena",
+  "deck": "IDEA menjelaskan ke BEI soal penurunan jumlah peserta akademi, kenaikan beban gaji, dan rencana pengambilalihan sahamnya oleh PT Nawasena Nugra Investama.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDEA",
+   "pengambilalihan saham",
+   "akademi vokasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3efe86542e_9d241d967c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-bayar-kupon-obligasi-sukuk-rp61-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Bayar [Kupon] Obligasi-Sukuk Rp61,6 Miliar",
+  "deck": "WIFI membayar bunga dan imbalan Obligasi serta Sukuk Ijarah Berkelanjutan I 2026 Seri A-C senilai total Rp61,63 miliar kepada investor lewat KSEI, 28 September 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "obligasi",
+   "sukuk ijarah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8de77a60f9_c13729ee30.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penghasilan-nelayan-sinjai-naik-jadi-rp7-juta-per-bulan",
   "category": "UMKM",
   "title": "Penghasilan Nelayan Sinjai [Naik] Jadi Rp7 Juta per Bulan",
@@ -55,6 +119,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7118/gandeng-republik-korea-pemerintah-dorong-penguatan-sdm-industri-offshore-plant-service-melalui-kios-center",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "nice-akui-denda-rp185-93-miliar-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "NICE Akui Denda Rp185,93 Miliar, [Arus Kas] Operasi Negatif",
+  "deck": "PT Adhi Kartiko Pratama Tbk menjawab pertanyaan BEI soal denda kawasan hutan, piutang ke pemegang saham, dan pendanaan proyek Rp468 miliar di tengah arus kas operasi yang negatif.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICE",
+   "denda administratif",
+   "arus kas",
+   "pertambangan nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4710b19b79_cd017104cb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-panggil-rupslb-21-oktober-agendakan-ubah-lini-bisnis",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Panggil RUPSLB 21 Oktober, Agendakan [Ubah] Lini Bisnis",
+  "deck": "PT Solusi Sinergi Digital Tbk resmi memanggil pemegang saham untuk RUPSLB 21 Oktober 2026, dengan agenda perubahan kegiatan usaha, kewenangan direksi, dan susunan direksi-komisaris.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "Solusi Sinergi Digital",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9cb10a6167_aea69d8c3d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "viva-cetak-laba-tapi-pendapatan-turun-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "VIVA Cetak Laba, tapi [Pendapatan] Turun di Semester I 2026",
+  "deck": "Laba bersih VIVA Rp60 miliar pada semester I 2026 ditopang untung pelepasan saham Rp158,3 miliar, sementara pendapatan turun 7,6 persen dan rugi usaha melebar.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VIVA",
+   "laporan keuangan",
+   "media penyiaran",
+   "PKPU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929185643-64353-0/FinancialStatement-2026-II-VIVA.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "infranexia-ccsi-garap-kabel-laut-sub-2-jawa-sulawesi-kalimantan",
@@ -270,6 +382,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "mice-siwie-honoris-tambah-saham-400-ribu-lembar-lagi",
+  "category": "Aksi Korporasi",
+  "title": "MICE: Siwie Honoris [Tambah] Saham 400 Ribu Lembar Lagi",
+  "deck": "Siwie Honoris membeli tambahan 400.000 saham Multi Indocitra secara tidak langsung pada 25 September 2026, hak suaranya naik jadi 0,2949 persen.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MICE",
+   "Multi Indocitra",
+   "kepemilikan saham",
+   "Siwie Honoris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-2753-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "laba-bersih-pada-melonjak-1-239-di-semester-i-2026",
   "category": "Aksi Korporasi",
   "title": "Laba bersih PADA [melonjak] 1.239% di semester I-2026",
@@ -398,6 +526,54 @@ var ARTICLES = [
    "SMI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f22cac909c_aada76f399.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "padi-proses-pemegang-saham-pengendali-baru-masih-di-ojk",
+  "category": "Aksi Korporasi",
+  "title": "PADI: Proses Pemegang Saham [Pengendali] Baru Masih di OJK",
+  "deck": "Minna Padi Investama Sekuritas Tbk menjawab permintaan klarifikasi BEI atas volatilitas transaksi sahamnya, dan mengungkap pengajuan status pemegang saham pengendali baru masih diproses OJK.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PADI",
+   "Minna Padi Investama Sekuritas",
+   "Pemegang Saham Pengendali",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5233d33e41_19d253e8b5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "intp-gabungkan-dua-anak-usaha-pelayaran-aset-rp400-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "INTP [Gabungkan] Dua Anak Usaha Pelayaran, Aset Rp400,8 Miliar",
+  "deck": "Indocement menggabungkan dua entitas anak di bidang pelayaran, PT Lintas Bahana Abadi ke dalam PT Bahana Indonor, untuk efisiensi distribusi semen. Total aset gabungan mencapai Rp400,8 miliar.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INTP",
+   "Indocement",
+   "merger anak usaha",
+   "pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/86e6f3db5f_88a060d8ed.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pada-total-liabilitas-naik-47-ditopang-utang-bank-baru",
+  "category": "Aksi Korporasi",
+  "title": "PADA: total [liabilitas] naik 47% ditopang utang bank baru",
+  "deck": "Total aset PT Personel Alih Daya (PADA) naik 26,6% dan total liabilitas naik 47% pada semester I 2026, terutama karena pinjaman bank baru dan piutang usaha dari segmen kurir yang baru dibuka.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PADA",
+   "laporan keuangan",
+   "utang bank",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929162750-64447-0/FinancialStatement-2026-II-PADA.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6318,188 +6494,5 @@ var ARTICLES = [
   "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
   "sourceUrl": "https://www.gaikindo.or.id/permata-bank-gaikindo-auto-week-2026-serentak-di-10-kota-besar-se-indonesia/",
   "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "halo-direktur-keuangan-taufan-kurniawan-mundur",
-  "category": "Aksi Korporasi",
-  "title": "HALO: Direktur Keuangan Taufan Kurniawan [Mundur]",
-  "deck": "Taufan Kurniawan mengundurkan diri dari jabatan Direktur Keuangan PT Haloni Jane Tbk efektif 21 Oktober 2026, perseroan akan mengikuti ketentuan POJK 33/2014 untuk penunjukan pengganti.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HALO",
-   "pergantian direksi",
-   "tata kelola perusahaan",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf4c454e97_f588f172c7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-tertibkan-impor-baju-bekas-longgarkan-bahan-baku-tekstil",
-  "category": "Industri",
-  "title": "Pemerintah [Tertibkan] Impor Baju Bekas, Longgarkan Bahan Baku Tekstil",
-  "deck": "Rapat terbatas dengan Presiden Prabowo Subianto menghasilkan rencana peninjauan aturan impor bahan baku tekstil dan penertiban impor pakaian bekas ilegal.",
-  "date": "22 September 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
-  "tags": [
-   "tekstil",
-   "TPT",
-   "impor pakaian bekas",
-   "investasi industri"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7107/industri-tekstil-dan-produk-tekstil-tetap-strategis-pemerintah-dorong-penguatan-daya-saing-dan-investasi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ri-percepat-perjanjian-dagang-ieu-cepa-dengan-uni-eropa",
-  "category": "Global",
-  "title": "RI Percepat Perjanjian Dagang [IEU-CEPA] dengan Uni Eropa",
-  "deck": "Presiden Prabowo Subianto meminta penyelesaian kesepakatan dagang RI-Uni Eropa dipercepat, dengan target ratifikasi semester kedua 2026 dan berlaku awal 2027.",
-  "date": "22 September 2026",
-  "image": "assets/img/pasar-modal.jpg",
-  "tags": [
-   "IEU-CEPA",
-   "Uni Eropa",
-   "Ekspor",
-   "Prabowo Subianto"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7108/menko-airlangga-penyelesaian-ieu-cepa-dipacu-untuk-perluas-akses-pasar-eropa",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kemendag-luncurkan-inaexport-platform-ekspor-terintegrasi",
-  "category": "UMKM",
-  "title": "Kemendag Luncurkan [InaExport], Platform Ekspor Terintegrasi",
-  "deck": "Kementerian Perdagangan merilis lima layanan baru di platform InaExport dan meneken kerja sama dengan 19 mitra untuk memperluas akses pasar ekspor UMKM.",
-  "date": "22 September 2026",
-  "image": "assets/img/kemendag-luncurkan-inaexport-platform-ekspor-terintegrasi.jpg",
-  "imageV": "muctm54j",
-  "tags": [
-   "InaExport",
-   "UMKM",
-   "Ekspor",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/layanan-baru-inaexport-perkuat-akses-pasar-produk-produk-indonesia",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "sungai-surut-pasokan-batu-bara-ke-semen-tersendat",
-  "category": "Energi",
-  "title": "Sungai Surut, Pasokan Batu Bara ke Semen [Tersendat]",
-  "deck": "Debit sungai di Kalimantan turun dan mengganggu pasokan batu bara industri semen serta distribusi BBM. ESDM targetkan tuntas pekan ini atau depan.",
-  "date": "22 September 2026",
-  "image": "assets/img/sungai-surut-pasokan-batu-bara-ke-semen-tersendat.jpg",
-  "imageV": "muctm5ma",
-  "tags": [
-   "batu bara",
-   "ESDM",
-   "industri semen",
-   "Kalimantan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468752-pasokan-batu-bara-untuk-industri-semen-tersendat-akibat-sungai-di-kalimantan-surut-esdm-cari-alternatif"
- },
- {
-  "slug": "bandara-soetta-uji-coba-insinerator-tanpa-asap-20-ton-hari",
-  "category": "BUMN",
-  "title": "Bandara Soetta Uji Coba Insinerator [Tanpa Asap] 20 Ton/Hari",
-  "deck": "Bandara Soekarno-Hatta mulai menguji insinerator PARK PYRO berkapasitas 20 ton sampah per hari tanpa asap, hasil kerja sama Angkasa Pura Indonesia dengan dua mitra teknologi sejak Maret 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/bandara-soetta-uji-coba-insinerator-tanpa-asap-20-ton-hari.jpg",
-  "imageV": "muctm65c",
-  "tags": [
-   "Bandara Soekarno-Hatta",
-   "Angkasa Pura Indonesia",
-   "pengelolaan sampah",
-   "teknologi ramah lingkungan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468737-bandara-soetta-uji-coba-teknologi-baru-pengelolaan-sampah-tanpa-asap-menuju-zero-waste-zero-emisi"
- },
- {
-  "slug": "btps-jelaskan-volatilitas-saham-imbas-rebalancing-ftse-russell",
-  "category": "Aksi Korporasi",
-  "title": "BTPS Jelaskan Volatilitas Saham Imbas [Rebalancing] FTSE Russell",
-  "deck": "BTPN Syariah menyebut volatilitas saham BTPS pada 18 September 2026 dipicu rebalancing indeks FTSE Russell yang mengubah statusnya dari Small Cap ke Micro Cap, bukan informasi material baru.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "BTPN Syariah",
-   "volatilitas saham",
-   "FTSE Russell"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d11ee4e37e_51c240cd64.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-bentuk-bumn-tekstil-danantara-jadi-integrator",
-  "category": "BUMN",
-  "title": "Pemerintah Bentuk BUMN Tekstil, Danantara Jadi [Integrator]",
-  "deck": "Danantara memastikan pemerintah sepakat membentuk BUMN tekstil baru sebagai integrator industri, meski waktu realisasi dan modal awal belum ditentukan.",
-  "date": "22 September 2026",
-  "image": "assets/img/pemerintah-bentuk-bumn-tekstil-danantara-jadi-integrator.jpg",
-  "imageV": "muctm6mo",
-  "tags": [
-   "BUMN tekstil",
-   "Danantara",
-   "Rosan Roeslani",
-   "industri tekstil"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468714-bumn-tekstil-baru-bakal-dibentuk-danantara-siapkan-integrator-untuk-bangkitkan-industri"
- },
- {
-  "slug": "transnusa-buka-rute-bali-surabaya-tiket-mulai-rp800-ribu",
-  "category": "Bisnis",
-  "title": "TransNusa Buka Rute Bali-Surabaya, Tiket Mulai [Rp800 Ribu]",
-  "deck": "TransNusa membuka penerbangan langsung Denpasar-Surabaya mulai 21 September 2026 dengan tarif mulai Rp800 ribu, dan menambah frekuensi jadi dua kali sehari mulai 10 Oktober 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/transnusa-buka-rute-bali-surabaya-tiket-mulai-rp800-ribu.jpg",
-  "imageV": "muctm72i",
-  "tags": [
-   "TransNusa",
-   "penerbangan domestik",
-   "rute Bali Surabaya",
-   "tiket pesawat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468705-transnusa-buka-rute-bali-surabaya-tiket-mulai-rp800-ribu-dan-terbang-2-kali-sehari"
- },
- {
-  "slug": "menkeu-suahasil-beberkan-tiga-langkah-perkuat-bea-cukai",
-  "category": "Makroekonomi",
-  "title": "Menkeu Suahasil Beberkan [Tiga] Langkah Perkuat Bea Cukai",
-  "deck": "Menteri Keuangan Suahasil Nazara memaparkan tiga langkah penguatan pengawasan Direktorat Jenderal Bea dan Cukai: sumber daya manusia, teknologi, dan proses bisnis.",
-  "date": "22 September 2026",
-  "image": "assets/img/menkeu-suahasil-beberkan-tiga-langkah-perkuat-bea-cukai.jpg",
-  "imageV": "muctmmbh",
-  "tags": [
-   "Bea Cukai",
-   "Kemenkeu",
-   "Suahasil Nazara",
-   "Pengawasan Impor"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468740-menkeu-suahasil-beberkan-langkah-pengawasan-bea-cukai"
- },
- {
-  "slug": "kkgi-komisaris-hendro-tambah-93-000-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "KKGI: Komisaris Hendro Tambah [93.000] Saham Lagi",
-  "deck": "Komisaris KKGI Hendro Martowardojo membeli 93.000 saham secara tidak langsung di harga Rp328, menyusul pembelian serupa pekan sebelumnya.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KKGI",
-   "Kepemilikan Saham",
-   "Komisaris",
-   "Resource Alam Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-9273-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

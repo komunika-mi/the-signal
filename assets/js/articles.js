@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sini-jelaskan-divestasi-ikn-rp31-8-miliar-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "SINI Jelaskan Divestasi IKN [Rp31,8 Miliar] ke Bursa",
+  "deck": "SINI menjelaskan ke BEI divestasi saham PT Interkayu Nusantara Rp31,8 miliar, yang menyumbang 40,11% pendapatan Perseroan, serta perkembangan rencana akuisisi oleh CUAN.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T19:53:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/426c0da431_e27d3b5038.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SINI",
+  "tags": [
+   "SINI",
+   "batu bara",
+   "divestasi",
+   "CUAN"
+  ],
+  "body": [
+   "PT Singaraja Putra Tbk (SINI) menyampaikan jawaban resmi kepada Bursa Efek Indonesia atas permintaan penjelasan bertanggal 25 September 2026, menanggapi sejumlah pertanyaan bursa soal rencana bisnis, divestasi, dan rencana pengambilalihan saham. Dalam surat yang ditandatangani Direktur Utama Amir Antolis, Perseroan menegaskan fokus pengembangan usahanya pada sektor pertambangan batu bara sepanjang 2026, melalui empat anak usaha yaitu PT Pasir Bara Prima, PT Persada Kapuas Prima, PT Pesona Bara Cakrawala, dan PT Cakrawala Bara Persada. Penguatan portofolio juga dilakukan lewat akuisisi PT Kemilau Mulia Sakti (KMS), yang memiliki penyertaan saham di PT Cristian Eka Pratama (CEP), pemegang izin usaha pertambangan produksi batu bara di Kabupaten Kutai Barat, Kalimantan Timur.",
+   "Perseroan juga menjelaskan latar belakang divestasi seluruh kepemilikan sahamnya di PT Interkayu Nusantara (IKN), perusahaan pengolahan kayu, senilai Rp31,8 miliar. Nilai itu ditentukan berdasarkan kesepakatan dengan pembeli pihak ketiga tanpa melalui penilai independen, karena transaksi ini dinilai tidak masuk kategori transaksi material maupun transaksi afiliasi. Sebagai pembanding, pada 2018 Perseroan membeli 54 persen saham IKN seharga Rp20,03 miliar, jauh di atas nilai buku saat itu yang hanya Rp712,64 juta. Berdasarkan laporan keuangan per 31 Juli 2026, penjualan kayu dari IKN menyumbang Rp215,74 miliar atau 40,11 persen dari total pendapatan usaha Perseroan, sehingga divestasi ini melepas kontributor pendapatan terbesar Perseroan saat ini. Data keuangan IKN yang dilampirkan menunjukkan asetnya turun dari Rp255,43 miliar pada akhir 2025 menjadi Rp231,81 miliar per 30 Juni 2026, sementara kinerjanya berbalik dari laba bersih Rp15,59 miliar sepanjang 2025 menjadi rugi Rp17,08 miliar pada semester pertama 2026. Dana hasil divestasi akan dipakai untuk belanja modal, pembayaran kewajiban, dan operasional Perseroan, sementara kekurangan pendapatan akibat lepasnya IKN diharapkan tertutup dari kontribusi CEP yang mulai dikonsolidasikan sejak 1 Juli 2026, dengan estimasi kontribusi pendapatan KMS sebesar Rp119 miliar untuk periode Juli hingga September 2026.",
+   "Soal rencana pengambilalihan saham Perseroan oleh PT Petrindo Jaya Kreasi Tbk (CUAN), Perseroan menjelaskan bahwa negosiasi yang diumumkan CUAN pada 29 Desember 2025 telah dihentikan dan digantikan pembahasan baru yang diumumkan 4 September 2026. Sampai surat ini disampaikan, belum ada perjanjian definitif yang diteken para pemegang saham terkait, dan belum ada kesepakatan pasti soal jumlah saham, harga, maupun target waktu penyelesaian, meski rencana ini menyasar kepemilikan sekurang-kurangnya 51 persen saham Perseroan dari posisi CUAN saat ini sebesar 27,78 persen secara langsung maupun tidak langsung. Perseroan juga menyebut target produksi batu bara CEP sekitar 2,2 juta ton pada 2026, sementara dua tambang yang belum berproduksi, PT Pesona Bara Cakrawala dan PT Cakrawala Bara Persada, masih dalam proses pembebasan lahan dengan target penggalian pertama masing-masing pada 2027 dan 2028."
+  ],
+  "fotoAdegan": "A loaded coal barge navigating a wide brown river through dense tropical forest, tugboat alongside, overcast humid sky",
+  "takeaway": "Laporan ini condong negatif bagi kinerja jangka pendek Perseroan, karena divestasi IKN melepas kontributor 40,11 persen pendapatan sekaligus aset yang labanya baru saja berbalik jadi rugi Rp17,08 miliar, sementara penggantinya dari CEP baru diestimasi Rp119 miliar untuk tiga bulan, belum jelas apakah cukup menutup lubang pendapatan itu. Yang tersentuh adalah pos pendapatan dan komposisi aset konsolidasi, sebab begitu IKN keluar dari kelompok usaha, pendapatan dan asetnya tidak lagi ikut dihitung dalam laporan keuangan Perseroan, sehingga investor perlu membandingkan apakah pertumbuhan dari lini batu bara benar-benar mengimbangi hilangnya lini kayu. Di sisi lain, arah bisnis ke batu bara didukung proyeksi kenaikan permintaan global menurut Badan Energi Internasional (IEA), dan dana Rp31,8 miliar dari divestasi bisa dipakai mengurangi beban kewajiban Perseroan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal ketiga 2026 per 30 September, yang akan memperlihatkan realisasi kontribusi CEP dan dampak nyata dari keluarnya IKN, serta perkembangan negosiasi pengambilalihan oleh CUAN yang hingga kini belum punya perjanjian definitif maupun target waktu pasti.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "gtbo-rkab-2026-belum-disetujui-utang-pajak-us-13-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "GTBO: [RKAB] 2026 Belum Disetujui, Utang Pajak US$13,5 Juta",
+  "deck": "GTBO menjawab surat permintaan penjelasan Bursa: RKAB 2026 masih diproses Kementerian ESDM, utang pajak US$13,46 juta, dan koreksi saldo laba US$8,65 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T19:47:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c286f67646_bf06878eba.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTBO",
+  "tags": [
+   "GTBO",
+   "RKAB",
+   "utang pajak",
+   "tambang batu bara"
+  ],
+  "body": [
+   "PT Garda Tujuh Buana Tbk (GTBO) mengirim surat tanggapan nomor 035/GTB-JKT/IX/2026 tertanggal 25 September 2026 kepada Bursa Efek Indonesia, menjawab surat permintaan penjelasan bursa nomor S-11422/BEI.PP3/09-2026 tanggal 7 September 2026. Surat itu ditandatangani Direktur Octavianus Wenas. Perseroan menjelaskan bahwa Rencana Kerja dan Anggaran Biaya (RKAB) tahun 2026, izin operasi tambang yang harus disetujui setiap tahun oleh Kementerian ESDM, masih dalam evaluasi keempat dan belum disetujui. Perusahaan menargetkan persetujuan keluar akhir September atau minggu pertama Oktober 2026, dengan kendala utama berupa kelengkapan dokumen teknis, izin pendukung, dan administratif. Selama RKAB belum turun, kegiatan penambangan dan penjualan tetap dihentikan sementara dan perusahaan tidak mencatat penjualan sama sekali, meski sampai saat ini belum ada gugatan dari kreditur, vendor, maupun pemasok.",
+   "Dari sisi pajak, GTBO melaporkan utang pajak sebesar US$13.463.165, termasuk Surat Ketetapan Pajak Kurang Bayar (SKPKB) tahun fiskal 2023 senilai sekitar US$12,29 juta yang diterima 28 Januari 2026, terdiri dari PPh Pasal 21 US$35.507, PPh Pasal 26 US$4.964.290, PPh Pasal 25/29 US$3.376.387, dan Surat Ketetapan Pajak 2023 senilai US$3.912.950, dengan nilai kurang bayar utama US$4.834.986. Perseroan menyatakan telah menyetujui hasil pemeriksaan pajak tersebut sehingga tidak mengajukan keberatan atau banding, dan rencana cicilan pembayarannya masih dikoordinasikan dengan kantor pajak. Akibat pengakuan kewajiban pajak ini, saldo awal laba ditahan dikoreksi secara retrospektif dari US$10.586.021 menjadi US$1.938.358, atau turun US$8.647.663.",
+   "Perseroan juga merinci piutang lain-lain senilai neto US$42.403.291 (US$4.153.291 jangka pendek dan US$38.250.000 jangka panjang), sisa dari uang muka yang pada 2013 diberikan ke Massicot Trade Limited untuk membeli konsesi tambang di Indonesia dan/atau Afrika, yang batal karena kondisi ekonomi dan politik di Sudan menghentikan rencana eksplorasi emas di sana. Berdasarkan addendum perjanjian, kewajiban pengembalian dana ini kini dipegang Energy Coal Resources Pte Ltd, yang mencicil tanpa bunga sampai 2035 dan telah membayar US$846.709 pada periode berjalan.",
+   "Jumlah karyawan turun dari 128 orang per Maret 2025 menjadi 36 orang per Maret 2026, dengan koreksi bahwa laporan sebelumnya salah menulis angka 37 untuk periode 2025. Penyusutan terbesar ada di divisi operasional dan tambang, dari 97 menjadi hanya 4 orang. Meski tidak berproduksi, perseroan tetap mengeluarkan beban produksi US$294.835 untuk memelihara aset tambang dan beban lingkungan US$74.766. Perseroan juga mengakui salah mengklasifikasikan penerimaan cicilan piutang US$846.709 sebagai arus kas pendanaan, padahal seharusnya arus kas investasi sesuai Peraturan VIII.G.7, dan akan merevisi penyajiannya. Untuk menutup kebutuhan operasional selama belum ada pendapatan, manajemen mengandalkan kas yang ada, cicilan piutang, efisiensi biaya, dan dukungan dana dari pemegang saham pengendali bila diperlukan."
+  ],
+  "fotoAdegan": "Idle excavators and heavy mining equipment parked beside a stockpile of coal at a quiet open-pit site, overcast sky, no workers visible",
+  "takeaway": "Laporan ini condong negatif bagi GTBO, karena menegaskan tambang belum juga beroperasi sejak RKAB 2026 belum disetujui, sementara utang pajak US$13,46 juta memicu koreksi saldo laba yang memangkas ekuitas sebesar US$8,65 juta. Koreksi itu menyentuh pos ekuitas, yakni akumulasi laba milik pemegang saham dari tahun-tahun sebelumnya, dan pelaku pasar memperhatikannya karena penurunan mendadak berarti kekayaan bersih perusahaan di atas kertas lebih kecil dari yang selama ini dilaporkan. Arus kas juga tertekan, sebab perusahaan tetap mengeluarkan sekitar US$370 ribu untuk biaya produksi dan lingkungan demi menjaga aset tambang, padahal tidak ada pemasukan penjualan sama sekali selama tambang berhenti. Yang perlu dipantau berikutnya adalah kepastian persetujuan RKAB dari Kementerian ESDM yang ditargetkan keluar akhir September atau minggu pertama Oktober 2026, karena baru setelah itu GTBO bisa kembali menambang dan menjual batu bara, ditambah kesepakatan skema cicilan utang pajak dengan kantor pajak yang belum diumumkan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "idea-jawab-bursa-soal-rencana-pengambilalihan-oleh-nawasena",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Jawab Bursa soal Rencana [Pengambilalihan] oleh Nawasena",
+  "deck": "IDEA menjelaskan ke BEI soal penurunan jumlah peserta akademi, kenaikan beban gaji, dan rencana pengambilalihan sahamnya oleh PT Nawasena Nugra Investama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T19:46:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3efe86542e_9d241d967c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDEA",
+  "tags": [
+   "IDEA",
+   "pengambilalihan saham",
+   "akademi vokasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Idea Indonesia Akademi Tbk (IDEA) menyampaikan tanggapan tertulis kepada Bursa Efek Indonesia atas surat permintaan penjelasan lanjutan bernomor S-12451/BEI.PP3/09-2026 tertanggal 25 September 2026. Surat tanggapan yang ditandatangani Corporate Secretary Nurul Hidayati itu menjawab 16 poin pertanyaan bursa, mulai dari kondisi operasional, kinerja keuangan, hingga rencana pengambilalihan saham Perseroan.",
+   "Dari sisi operasional, rata-rata okupansi kamar hotel Perseroan sepanjang 2026 tercatat 71,1 persen. Sementara itu, jumlah peserta program akademi turun dari 517 orang pada semester I 2025 menjadi 425 orang pada semester I 2026, akibat peserta mengundurkan diri setelah diterima kuliah, masalah pelunasan pembayaran, dan pergeseran kalender ujian sekolah menengah yang memangkas masa rekrutmen. Dari sisi pendapatan konsolidasi per 30 Juni 2026, PT Idea Indonesia Akademi Tbk sebagai induk menyumbang Rp6,53 miliar atau 63,8 persen, anak usaha PT Aidia Indonesia Propertindo menyumbang Rp3,71 miliar atau 36,2 persen, sedangkan PT Idea Skill Academy belum mencatat pendapatan sama sekali. Beban gaji dan tunjangan naik signifikan karena penguatan struktur organisasi, sementara penerimaan kas dari pelanggan turun sejalan dengan penurunan pendapatan tersebut. Perseroan juga menjelaskan tidak mengakui beban pajak penghasilan pada laporan interim karena baru melakukan rekonsiliasi fiskal penuh di akhir tahun buku, dengan beban pajak kini tahun buku 2025 sebesar Rp697,9 juta untuk induk dan Rp50,9 juta untuk anak usaha, serta aset pajak tangguhan bersih Rp175,1 juta.",
+   "Poin paling signifikan menyangkut rencana pengambilalihan saham Perseroan oleh PT Nawasena Nugra Investama dari pemegang saham Eko Desriyanto dan PT Idea Asia Investama. Perseroan menyatakan rencana ini tidak berdampak pada kinerja keuangan, operasional, maupun sumber daya manusia, karena sifatnya hanya perubahan kepemilikan dan pengendalian. Namun setelah pengambilalihan rampung, Perseroan berencana melakukan transformasi usaha sejalan arah pengendali baru, termasuk memasukkan perusahaan milik pemilik manfaat akhir Nawasena ke dalam Perseroan melalui mekanisme inbreng atau setor aset nontunai untuk saham baru. Proses ini dibantu PT RHB Sekuritas Indonesia dan TnP Law Firm sebagai profesi penunjang, tanpa penasihat keuangan khusus, dan Perseroan memastikan belum ada rencana pindah alamat kantor."
+  ],
+  "fotoAdegan": "Vocational trainees in neat uniforms practicing hotel table-service and housekeeping skills in a bright training room, natural light",
+  "takeaway": "Tanggapan ini condong netral, sebab isinya klarifikasi administratif ke bursa, bukan kabar baru yang langsung mengubah valuasi, meski dua angka di dalamnya layak dicermati bersama. Jumlah peserta program akademi turun 17,8 persen dari 517 menjadi 425 orang, padahal bisnis akademi ini menyumbang mayoritas pendapatan konsolidasi Perseroan, sementara beban gaji justru naik karena penguatan organisasi, kombinasi yang bisa menekan laba kalau berlanjut ke semester berikutnya. Yang perlu terus dipantau adalah kelanjutan proses pengambilalihan saham oleh PT Nawasena Nugra Investama dari Eko Desriyanto dan PT Idea Asia Investama, termasuk rencana memasukkan bisnis baru pemilik manfaat akhir Nawasena lewat skema inbreng, karena setoran aset nontunai semacam ini lazimnya diikuti penerbitan saham baru yang bisa menambah jumlah saham beredar dan mengubah peta pengendalian begitu detail transaksinya diumumkan resmi ke bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wifi-bayar-kupon-obligasi-sukuk-rp61-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Bayar [Kupon] Obligasi-Sukuk Rp61,6 Miliar",
+  "deck": "WIFI membayar bunga dan imbalan Obligasi serta Sukuk Ijarah Berkelanjutan I 2026 Seri A-C senilai total Rp61,63 miliar kepada investor lewat KSEI, 28 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T19:44:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8de77a60f9_c13729ee30.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "obligasi",
+   "sukuk ijarah",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) telah membayar bunga dan imbalan atas Obligasi Berkelanjutan I dan Sukuk Ijarah Berkelanjutan I Solusi Sinergi Digital Tahun 2026 Seri A-C untuk periode pembayaran pertama. Merujuk surat PT Kustodian Sentral Efek Indonesia (KSEI) No. KSEI-24146/JKU/0926 tanggal 28 September 2026, dana disalurkan lewat sistem C-BEST ke subrekening pemegang obligasi dan sukuk pada 28 September 2026. Tanggal jatuh tempo sebenarnya 26 September 2026, tetapi karena bertepatan hari Sabtu, pembayaran digeser ke hari kerja berikutnya.",
+   "Total nilai pokok yang bunganya dibayarkan mencapai Rp2,5 triliun, terdiri dari Rp1,25 triliun Obligasi Berkelanjutan I dan Rp1,25 triliun Sukuk Ijarah Berkelanjutan I. Untuk obligasi konvensional, Seri A senilai Rp830,72 miliar berbunga 9,15 persen per tahun dengan kupon Rp19 miliar, Seri B senilai Rp167,86 miliar berbunga 10,75 persen dengan kupon Rp4,51 miliar, dan Seri C senilai Rp251,43 miliar berbunga 11,75 persen dengan kupon Rp7,39 miliar. Total bunga obligasi yang dibayarkan Rp30,9 miliar.",
+   "Untuk sukuk ijarah, Seri A senilai Rp853,72 miliar memberi imbalan 9,15 persen atau Rp19,53 miliar, Seri B senilai Rp177,26 miliar dengan imbalan 10,75 persen atau Rp4,76 miliar, dan Seri C senilai Rp219,03 miliar dengan imbalan 11,75 persen atau Rp6,43 miliar. Total imbalan sukuk yang dibayarkan Rp30,73 miliar, sehingga total bunga dan imbalan yang disalurkan perseroan ke seluruh pemegang efek mencapai Rp61,63 miliar. Keterbukaan informasi ini ditandatangani Direktur Utama Hendrik Tee dan disampaikan ke Otoritas Jasa Keuangan serta Bursa Efek Indonesia sesuai POJK Nomor 31/POJK.04/2015, dengan surat resmi ke regulator ditandatangani Direktur Shannedy Ong."
+  ],
+  "fotoAdegan": "Technicians splicing fiber optic cables inside a telecom equipment room, server cabinets blinking, focused close-up work",
+  "takeaway": "Pembayaran bunga dan imbalan obligasi-sukuk WIFI kali ini netral bagi fundamental perusahaan karena memang kewajiban rutin sesuai jadwal, bukan pencapaian atau perbaikan kinerja baru, meski patut dicatat sebagai bukti perseroan masih sanggup memenuhi cicilan utang jumbo di tengah sorotan tata kelola belakangan ini. Pos yang tersentuh adalah arus kas dan beban bunga, uang tunai Rp61,63 miliar yang keluar dari kas perusahaan ini akan tercatat sebagai beban bunga di laporan laba rugi periode berjalan sehingga ikut menggerus laba bersih. Total utang obligasi dan sukuk WIFI yang masih berjalan mencapai Rp2,5 triliun, dan konsistensi pembayaran kupon berikutnya akan jadi ukuran apakah arus kas perseroan tetap kuat menutup kewajiban ini. Yang lebih perlu dipantau investor saham justru RUPSLB WIFI yang menurut jadwal terbaru mundur ke 21 Oktober 2026 setelah berkali-kali diundur sejak diumumkan pertama kali Agustus lalu, karena pola penundaan itu jauh lebih relevan bagi tata kelola perseroan dibanding pembayaran kupon rutin ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "penghasilan-nelayan-sinjai-naik-jadi-rp7-juta-per-bulan",
   "category": "UMKM",
   "title": "Penghasilan Nelayan Sinjai [Naik] Jadi Rp7 Juta per Bulan",
@@ -84,6 +189,86 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang konkret dari kerja sama ini adalah target melatih sekitar 240 tenaga kerja di bidang perawatan fasilitas lepas pantai dan bongkar muat kargo sampai tahun 2029, hasil tindak lanjut nota kesepahaman Indonesia-Korea Selatan yang diteken April 2026. Yang terdampak langsung adalah calon pekerja di industri lepas pantai serta perusahaan domestik di sektor itu yang selama ini kekurangan tenaga terlatih untuk pekerjaan semacam ini. Siaran pers ini belum menjelaskan berapa dana yang dikucurkan lewat skema bantuan pembangunan Korea tersebut, berapa peserta di angkatan pelatihan pertama, atau apakah lulusannya punya jalur pasti untuk terserap industri. Yang perlu dipantau adalah laporan hasil angkatan pertama dan data serapan kerja lulusannya, karena dari situ baru terlihat apakah target 240 orang sampai 2029 itu berjalan sesuai rencana atau hanya angka di atas kertas.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "nice-akui-denda-rp185-93-miliar-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "NICE Akui Denda Rp185,93 Miliar, [Arus Kas] Operasi Negatif",
+  "deck": "PT Adhi Kartiko Pratama Tbk menjawab pertanyaan BEI soal denda kawasan hutan, piutang ke pemegang saham, dan pendanaan proyek Rp468 miliar di tengah arus kas operasi yang negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T19:00:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4710b19b79_cd017104cb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICE",
+  "tags": [
+   "NICE",
+   "denda administratif",
+   "arus kas",
+   "pertambangan nikel"
+  ],
+  "body": [
+   "PT Adhi Kartiko Pratama Tbk (NICE) menyampaikan jawaban resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan BEI Nomor S-12229/BEI.PP2/09-2026 tertanggal 22 September 2026, yang membahas isi laporan keuangan perusahaan per 30 Juni 2026 dan 31 Desember 2025. Surat balasan ditandatangani Direktur Yeon Ho Choi bersama Direktur Soomin Lee pada 29 September 2026.",
+   "Salah satu poin yang dijelaskan adalah provisi denda administratif sebesar Rp185.933.142.600 yang diakui perusahaan per 31 Desember 2025. Perusahaan mengonfirmasi denda itu terkait kegiatan pertambangan di dalam kawasan hutan tanpa izin di wilayah izin usaha pertambangan (IUP) milik NICE di Sulawesi Tenggara. Denda tersebut telah dilunasi pada 2026 berdasarkan Surat Keputusan Menteri Kehutanan Nomor 211 Tahun 2026 tanggal 2 Maret 2026, sehingga saldo provisinya menjadi nihil per 30 Juni 2026. Perusahaan menyebut pembayaran ini memengaruhi arus kas namun tidak mengganggu operasional, dan nilainya sudah termasuk dalam pos pembayaran ke pemasok dan lainnya sebesar Rp753,36 miliar di laporan arus kas.",
+   "Perusahaan juga menjelaskan piutang lain-lain sebesar Rp21,65 miliar kepada pemegang sahamnya, PT Sungai Mas Minerals, yang merupakan penggantian biaya yang ditagihkan ke perusahaan tersebut. Nilai piutang ini tidak berubah secara material dibanding posisi akhir 2025, dan manajemen menyatakan belum melihat indikasi penurunan nilai sehingga tidak membentuk cadangan kerugian atas piutang itu.",
+   "Terkait rencana proyek pengembangan aset senilai sekitar Rp468 miliar yang ditargetkan rampung akhir 2027 dan disebut akan dibiayai dari kas internal, BEI mempertanyakan kecukupan dananya karena per 30 Juni 2026 perusahaan mencatat arus kas operasi negatif dan kenaikan signifikan utang bank jangka pendek. Perusahaan menjawab akan memprioritaskan proyek sesuai kemampuan kas jika dana internal tidak mencukupi. Perusahaan turut mengungkapkan bahwa fasilitas pinjaman bank baru yang diperoleh selama periode berjalan seluruhnya dijamin oleh corporate guarantee dari LX International Corp, pemilik manfaat perusahaan asal Korea Selatan, dengan dana dipakai untuk modal kerja operasional tambang seperti pembayaran ke pemasok, kontraktor, bahan bakar, sewa alat berat, dan tenaga kerja."
+  ],
+  "fotoAdegan": "Heavy excavators loading nickel ore onto dump trucks at an open-pit mine beside cleared forest edge, overcast tropical daylight",
+  "takeaway": "Laporan ini condong negatif bagi NICE karena tiga hal muncul bersamaan dalam satu periode: denda hampir Rp186 miliar akibat tambang tanpa izin di kawasan hutan, arus kas dari operasi yang negatif, dan utang bank jangka pendek yang melonjak. Arus kas operasi adalah uang tunai yang benar-benar diterima dan dikeluarkan dari kegiatan bisnis sehari-hari, jadi kalau angkanya negatif berarti biaya operasional perusahaan lebih besar dari uang yang masuk, dan ini yang membuat pelaku pasar mempertanyakan klaim perusahaan bahwa proyek pengembangan aset Rp468 miliar bisa dibiayai penuh dari kas internal sampai akhir 2027. Piutang Rp21,65 miliar ke pemegang saham PT Sungai Mas Minerals yang mandek sejak akhir tahun lalu juga menambah catatan soal kualitas aset, karena uang itu seharusnya bisa dipakai perusahaan, bukan mengendap di pihak berelasi. Yang perlu dipantau berikutnya adalah apakah arus kas operasi membaik pada laporan keuangan kuartal berikutnya, serta perkembangan proyek Rp468 miliar menjelang tenggat akhir 2027, mengingat perusahaan sampai harus mengandalkan jaminan dari induk usahanya di Korea Selatan, LX International Corp, untuk bisa mendapat pinjaman bank.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wifi-panggil-rupslb-21-oktober-agendakan-ubah-lini-bisnis",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Panggil RUPSLB 21 Oktober, Agendakan [Ubah] Lini Bisnis",
+  "deck": "PT Solusi Sinergi Digital Tbk resmi memanggil pemegang saham untuk RUPSLB 21 Oktober 2026, dengan agenda perubahan kegiatan usaha, kewenangan direksi, dan susunan direksi-komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T18:51:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9cb10a6167_aea69d8c3d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "Solusi Sinergi Digital",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) mengirimkan surat pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan Rabu, 21 Oktober 2026, pukul 14.00 WIB di Ballroom Wakatobi, Novotel Jakarta Mangga Dua Square, Jakarta Utara. Rapat juga bisa diikuti secara elektronik lewat aplikasi eASY.KSEI. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per penutupan perdagangan bursa pada 28 September 2026. Surat bernomor 119/CORSEC/SSD/IX/2026 ini ditandatangani Direktur Utama Hendrik Tee dan merujuk pada surat sebelumnya tertanggal 28 September 2026 mengenai jadwal rapat.",
+   "Ada tiga agenda dalam RUPSLB ini. Pertama, persetujuan perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha perseroan, termasuk pembahasan studi kelayakan atas rencana penambahan kegiatan usaha baru, sesuai ketentuan Peraturan OJK No. 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Kedua, persetujuan perubahan Pasal 12 ayat (13) Anggaran Dasar mengenai tugas, tanggung jawab, dan wewenang direksi. Ketiga, persetujuan perubahan susunan anggota Dewan Komisaris dan/atau Direksi perseroan.",
+   "Perseroan mengimbau pemegang saham memberikan kuasa lewat fasilitas e-Proxy KSEI mengingat keterbatasan kapasitas ruangan fisik. Batas waktu pemberian deklarasi kehadiran, kuasa elektronik, atau suara elektronik lewat aplikasi eASY.KSEI adalah pukul 12.00 WIB pada satu hari kerja sebelum rapat, yakni 20 Oktober 2026. Bahan-bahan terkait agenda rapat sudah tersedia di situs web perseroan sejak 29 September 2026."
+  ],
+  "fotoAdegan": "Hotel ballroom staff arranging rows of chairs and audio equipment before a corporate shareholders meeting, Jakarta",
+  "takeaway": "Laporan ini netral bagi fundamental WIFI, karena baru mengungkap jadwal dan agenda rapat, bukan keputusan final atau angka keuangan baru. Yang tersentuh adalah arah bisnis dan struktur pengurus perusahaan: perubahan Pasal 3 soal kegiatan usaha bisa membuka lini bisnis baru, sementara perubahan wewenang direksi dan susunan direksi-komisaris menentukan siapa yang mengambil keputusan strategis ke depan, tapi belum berdampak pada ekuitas, arus kas, atau laba per saham karena masih menunggu persetujuan pemegang saham. Perlu dicatat, RUPSLB ini sudah beberapa kali molor sejak pertama diumumkan pada 7 Agustus 2026, sehingga tetap harus dipastikan rapat benar terlaksana pada 21 Oktober 2026 kali ini. Yang perlu dipantau selanjutnya adalah hasil studi kelayakan penambahan kegiatan usaha yang akan dibahas dalam rapat, serta siapa saja yang diusulkan masuk atau keluar dari jajaran direksi dan komisaris.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "viva-cetak-laba-tapi-pendapatan-turun-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "VIVA Cetak Laba, tapi [Pendapatan] Turun di Semester I 2026",
+  "deck": "Laba bersih VIVA Rp60 miliar pada semester I 2026 ditopang untung pelepasan saham Rp158,3 miliar, sementara pendapatan turun 7,6 persen dan rugi usaha melebar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T18:48:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929185643-64353-0/FinancialStatement-2026-II-VIVA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VIVA",
+  "tags": [
+   "VIVA",
+   "laporan keuangan",
+   "media penyiaran",
+   "PKPU"
+  ],
+  "body": [
+   "PT Visi Media Asia Tbk (VIVA), induk usaha stasiun televisi antv dan tvOne, menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk semester pertama 2026 kepada Otoritas Jasa Keuangan pada 29 September 2026. Pendapatan usaha perusahaan turun 7,6 persen menjadi Rp441,4 miliar pada Januari-Juni 2026, dari Rp477,9 miliar pada periode yang sama tahun lalu. Meski beban usaha ikut turun menjadi Rp458,8 miliar dari Rp494,7 miliar, penurunan pendapatan yang lebih dalam membuat rugi usaha melebar tipis menjadi Rp17,4 miliar dari Rp16,7 miliar.",
+   "Laba bersih VIVA pada semester ini tercatat Rp60 miliar, jauh lebih kecil dibanding Rp1,19 triliun pada semester I 2025. Selisih besar ini terjadi karena tahun lalu perusahaan membukukan untung Rp1,27 triliun dari implementasi Penundaan Kewajiban Pembayaran Utang atau PKPU, yaitu proses perdamaian utang lewat pengadilan yang membebaskan sebagian kewajiban VIVA kepada krediturnya. Pos keuntungan besar itu tidak berulang pada laporan tahun ini.",
+   "Laba bersih semester ini justru ditopang oleh untung pelepasan sebagian saham anak usaha senilai Rp158,3 miliar. Di sisi lain, rugi selisih kurs, yaitu kerugian pembukuan akibat pelemahan rupiah terhadap utang berdenominasi valuta asing, melonjak menjadi Rp50 miliar dari Rp17 miliar pada semester I 2025, sementara beban bunga dan keuangan turun menjadi Rp8,4 miliar dari Rp11,4 miliar. Laba per saham dasar tercatat Rp3.983, jauh di bawah Rp72.460 pada semester I 2025 versi yang telah disajikan kembali oleh manajemen.",
+   "Dari sisi neraca, total aset VIVA per 30 Juni 2026 tercatat Rp6,34 triliun, sedikit turun dari Rp6,38 triliun per akhir 2025, sementara total liabilitas turun menjadi Rp5,84 triliun dari Rp6,02 triliun. Total ekuitas naik menjadi Rp496,1 miliar dari Rp361,6 miliar, dan kas serta setara kas naik menjadi Rp17,8 miliar dari Rp10,5 miliar. Kepentingan nonpengendali naik menjadi Rp440,1 miliar dari Rp404,5 miliar, antara lain karena pelepasan saham anak usaha menambah bagian pemegang saham minoritas sebesar Rp41,96 miliar. Saham VIVA saat ini tercatat di papan pemantauan khusus atau watchlist Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Television camera operators filming inside a broadcast studio with stage lighting rigs overhead, Jakarta production set",
+  "takeaway": "Laporan ini condong negatif secara fundamental sebab kenaikan ekuitas dan laba bersih VIVA disokong oleh untung pelepasan saham anak usaha, sementara bisnis inti penyiaran justru melemah, pendapatan turun 7,6 persen dan rugi usaha melebar. Ekuitas, yaitu selisih antara total aset dan total utang atau bantalan modal yang menjadi hak pemegang saham, memang naik ke Rp496,1 miliar dan itu kabar baik bagi VIVA yang baru keluar dari kondisi ekuitas negatif lewat restrukturisasi utang PKPU, tapi investor perlu tahu sumber kenaikannya bukan dari operasional. Rugi selisih kurs, yakni kerugian pembukuan akibat pelemahan rupiah terhadap utang dalam valuta asing, melonjak hampir tiga kali lipat menjadi Rp50 miliar dan ikut menggerus laba dari sisi lain. Yang perlu dipantau berikutnya adalah laporan kuartal III 2026, apakah pendapatan bisa pulih dan rugi kurs mereda, serta kelanjutan pembayaran liabilitas penyelesaian PKPU jangka panjang yang masih tersisa Rp2,07 triliun.",
+  "sentimen": "negatif"
  },
  {
   "slug": "infranexia-ccsi-garap-kabel-laut-sub-2-jawa-sulawesi-kalimantan",
@@ -432,6 +617,32 @@ var ARTICLES = [
   "fotoGagal": 2
  },
  {
+  "slug": "mice-siwie-honoris-tambah-saham-400-ribu-lembar-lagi",
+  "category": "Aksi Korporasi",
+  "title": "MICE: Siwie Honoris [Tambah] Saham 400 Ribu Lembar Lagi",
+  "deck": "Siwie Honoris membeli tambahan 400.000 saham Multi Indocitra secara tidak langsung pada 25 September 2026, hak suaranya naik jadi 0,2949 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T17:07:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-2753-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MICE",
+  "tags": [
+   "MICE",
+   "Multi Indocitra",
+   "kepemilikan saham",
+   "Siwie Honoris"
+  ],
+  "body": [
+   "Siwie Honoris, yang bukan anggota direksi atau dewan komisaris Multi Indocitra Tbk (MICE), melaporkan penambahan kepemilikan sahamnya ke Otoritas Jasa Keuangan pada 29 September 2026 sesuai POJK Nomor 4/2024. Jumlah sahamnya naik dari 1.369.100 lembar menjadi 1.769.100 lembar, atau bertambah 400.000 lembar, sehingga hak suaranya di perusahaan naik dari 0,2282 persen menjadi 0,2949 persen.",
+   "Penambahan itu berasal dari dua transaksi pembelian tidak langsung pada 25 September 2026, yakni 273.200 lembar saham biasa seharga Rp498 per saham dan 126.800 lembar seharga Rp496 per saham. Kedua transaksi tersebut sama-sama dicatat dengan tujuan investasi, dengan total nilai transaksi sekitar Rp199 juta.",
+   "Ini merupakan penambahan kedua oleh Siwie Honoris dalam sepekan terakhir. Sebelumnya pada tanggal yang sama, The Signal juga memberitakan penambahan sahamnya yang dinilai netral karena porsinya masih kecil terhadap total saham Multi Indocitra yang beredar."
+  ],
+  "fotoAdegan": "Quiet stock brokerage back office with an employee filing paper share certificates into binders, soft afternoon light",
+  "takeaway": "Penambahan saham ini netral bagi Multi Indocitra, sebab meski nilainya naik hampir 30 persen dari kepemilikan pribadi Siwie Honoris, porsinya terhadap total saham perusahaan yang beredar tetap sangat kecil, hak suaranya cuma bergerak dari 0,2282 persen jadi 0,2949 persen. Yang tersentuh di sini adalah komposisi pemegang saham dan hak suara, bukan pos keuangan seperti ekuitas atau arus kas perusahaan, karena transaksi ini terjadi di pasar sekunder antar investor, bukan penerbitan saham baru oleh Multi Indocitra. Pembelian dilakukan secara tidak langsung, kemungkinan lewat pihak lain yang dikuasakan, dan tidak mengubah struktur pengendali utama MICE. Yang perlu dipantau selanjutnya adalah apakah Siwie Honoris kembali menambah kepemilikannya dalam laporan-laporan berikutnya, mengingat ini sudah jadi pembelian kedua sejak 25 September 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "laba-bersih-pada-melonjak-1-239-di-semester-i-2026",
   "category": "Aksi Korporasi",
   "title": "Laba bersih PADA [melonjak] 1.239% di semester I-2026",
@@ -642,6 +853,85 @@ var ARTICLES = [
   "fotoAdegan": "Workers inspecting pipes and turbine equipment at a small hydroelectric construction site in a forested river valley, overcast sky",
   "takeaway": "Laporan ini condong positif bagi ARKO, karena dana Rp690,6 miliar ini mendanai pembangunan pembangkit listrik baru yang menambah kapasitas usaha, bukan pertanda tekanan keuangan Perseroan. Pos yang tersentuh adalah beban bunga dan arus kas anak usaha, sebab utang baru berarti Nosu Hydro wajib membayar cicilan pokok dan bunga secara rutin, yang akan menyedot kas sampai proyek pembangkit ini rampung dan mulai menghasilkan pendapatan. Transaksi ini melewati batas 20 persen ekuitas Perseroan sehingga secara aturan wajib disebut material, tetapi dikecualikan dari kewajiban memakai penilai independen dan meminta restu RUPS karena dananya berasal langsung dari perusahaan pembiayaan infrastruktur milik negara. Yang perlu dipantau selanjutnya adalah realisasi pencairan dana serta progres pembangunan PLTA Pongbembe 20 MW, dan laporan keuangan mendatang yang akan memperlihatkan dampak utang baru ini terhadap neraca anak usaha.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "padi-proses-pemegang-saham-pengendali-baru-masih-di-ojk",
+  "category": "Aksi Korporasi",
+  "title": "PADI: Proses Pemegang Saham [Pengendali] Baru Masih di OJK",
+  "deck": "Minna Padi Investama Sekuritas Tbk menjawab permintaan klarifikasi BEI atas volatilitas transaksi sahamnya, dan mengungkap pengajuan status pemegang saham pengendali baru masih diproses OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T16:20:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5233d33e41_19d253e8b5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PADI",
+  "tags": [
+   "PADI",
+   "Minna Padi Investama Sekuritas",
+   "Pemegang Saham Pengendali",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Minna Padi Investama Sekuritas Tbk (PADI) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan klarifikasi atas volatilitas perdagangan sahamnya. Surat balasan bernomor 193/MPIS/DIR/IX/2026 tertanggal 29 September 2026 itu merespons surat BEI nomor S-12496/BEI.PP3/09-2026 tanggal 28 September 2026, dan ditandatangani oleh Direktur Utama perseroan.",
+   "Dalam jawabannya, manajemen PADI menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efeknya, baik menurut aturan keterbukaan informasi POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham, serta menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berpotensi memengaruhi status pencatatan sahamnya di bursa.",
+   "Yang menonjol dari jawaban ini muncul pada poin keenam surat, saat perseroan ditanya soal rencana pemegang saham pengendali dan utama terkait kepemilikan sahamnya. Manajemen PADI menjawab bahwa pengajuan status pemegang saham pengendali perseroan masih dalam proses di Otoritas Jasa Keuangan, tanpa merinci siapa pihak yang mengajukan maupun kapan proses itu akan rampung."
+  ],
+  "fotoAdegan": "Employees working at rows of computer terminals inside a securities brokerage office, blurred monitors, Jakarta financial district, afternoon light",
+  "takeaway": "Secara keseluruhan laporan ini netral bagi PADI, karena bagian utamanya hanya menegaskan tidak ada informasi material yang disembunyikan terkait volatilitas transaksi, namun ada satu titik yang perlu dicermati yaitu pengakuan bahwa pengajuan pemegang saham pengendali baru perseroan masih diproses di OJK. Ini menyangkut siapa yang punya kendali dan hak suara terbesar di perusahaan, bukan soal laba atau utang, sehingga penetapan pengendali baru bisa mengubah arah kebijakan dan susunan direksi PADI ke depan. Yang perlu dipantau selanjutnya adalah keputusan resmi OJK atas pengajuan tersebut, sebab dokumen ini tidak menyebut siapa pihak yang mengajukan diri sebagai pengendali baru maupun kapan prosesnya akan rampung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "intp-gabungkan-dua-anak-usaha-pelayaran-aset-rp400-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "INTP [Gabungkan] Dua Anak Usaha Pelayaran, Aset Rp400,8 Miliar",
+  "deck": "Indocement menggabungkan dua entitas anak di bidang pelayaran, PT Lintas Bahana Abadi ke dalam PT Bahana Indonor, untuk efisiensi distribusi semen. Total aset gabungan mencapai Rp400,8 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T16:17:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/86e6f3db5f_88a060d8ed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INTP",
+  "tags": [
+   "INTP",
+   "Indocement",
+   "merger anak usaha",
+   "pelayaran"
+  ],
+  "body": [
+   "PT Indocement Tunggal Prakarsa Tbk (INTP) mengumumkan penggabungan usaha antara dua entitas anaknya di bidang pelayaran, yaitu PT Lintas Bahana Abadi (LBA) dan PT Bahana Indonor (BI), yang terjadi pada 29 September 2026. Dalam skema ini, LBA melebur ke dalam BI yang bertindak sebagai entitas penerima penggabungan, sehingga BI tetap berdiri sedangkan LBA bubar. Keterbukaan informasi ini disampaikan Corporate Secretary INTP, Dani Handajani, kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia.",
+   "Setelah penggabungan, total aset BI tercatat Rp400,8 miliar. Perseroan menyebut tujuan aksi ini adalah menciptakan sinergi antara dua anak usaha yang sama-sama bergerak di bidang pelayaran, guna mendukung kegiatan distribusi semen INTP. Seluruh dana yang dipakai dalam proses ini berasal dari kas internal kedua perusahaan, tanpa melibatkan pinjaman atau suntikan dana baru dari induk usaha.",
+   "INTP menegaskan penggabungan ini bukan transaksi material sebagaimana diatur POJK No. 17/2020 tentang Transaksi Material, dan juga bukan transaksi afiliasi atau benturan kepentingan menurut POJK No. 42/2020, karena LBA dan BI sama-sama merupakan entitas anak Perseroan. Perusahaan menyatakan tidak ada dampak khusus terhadap aspek hukum maupun kelangsungan usaha INTP akibat aksi korporasi ini."
+  ],
+  "fotoAdegan": "Cargo ship loaded with bulk cement bags being guided by tugboats at a busy Indonesian industrial port, overcast light",
+  "takeaway": "Penggabungan ini condong netral bagi INTP, sebab yang terjadi cuma konsolidasi internal antara dua anak usaha kecil di bidang pelayaran, dengan total aset gabungan Rp400,8 miliar, jumlah yang sangat kecil dibanding skala usaha Indocement secara keseluruhan, dan perusahaan sendiri menegaskan ini bukan transaksi material. Karena LBA dan BI sudah sepenuhnya dimiliki dan dikonsolidasikan INTP dalam laporan keuangan grup, penggabungan ini tidak menambah atau mengurangi ekuitas maupun kas Indocement di tingkat konsolidasi, melainkan sekadar merapikan dua badan usaha pelayaran menjadi satu entitas agar distribusi semen lebih efisien. Dokumen ini belum mencantumkan tanggal efektif hukum penggabungan, jadi yang perlu ditunggu adalah pengumuman lanjutan soal kapan proses peleburan ini resmi rampung secara hukum dan apakah ada perubahan nyata pada rantai distribusi INTP setelahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pada-total-liabilitas-naik-47-ditopang-utang-bank-baru",
+  "category": "Aksi Korporasi",
+  "title": "PADA: total [liabilitas] naik 47% ditopang utang bank baru",
+  "deck": "Total aset PT Personel Alih Daya (PADA) naik 26,6% dan total liabilitas naik 47% pada semester I 2026, terutama karena pinjaman bank baru dan piutang usaha dari segmen kurir yang baru dibuka.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T16:09:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929162750-64447-0/FinancialStatement-2026-II-PADA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PADA",
+  "tags": [
+   "PADA",
+   "laporan keuangan",
+   "utang bank",
+   "BEI"
+  ],
+  "body": [
+   "PT Personel Alih Daya Tbk (PADA) menyampaikan laporan keuangan interim teraudit untuk periode enam bulan yang berakhir 30 Juni 2026. Total aset perusahaan tercatat Rp336,6 miliar, naik 26,6 persen dari Rp265,9 miliar per akhir Desember 2025, sementara total liabilitas naik lebih tajam, 47 persen, dari Rp146,1 miliar menjadi Rp214,8 miliar. Karena perubahan pada kedua pos itu melewati ambang 20 persen, perusahaan mengirim surat penjelasan tertanggal 29 September 2026 kepada OJK dan Bursa Efek Indonesia sesuai Peraturan Nomor I-E.",
+   "Di sisi aset, kenaikan didorong oleh kas dan setara kas yang bertambah dari Rp7,4 miliar menjadi Rp17,4 miliar, serta piutang usaha pihak ketiga yang melonjak dari Rp162,2 miliar menjadi Rp223,8 miliar akibat segmen baru Courier Services. Uang muka dan biaya dibayar di muka juga naik dari Rp4,7 miliar menjadi Rp13 miliar karena penyesuaian uang muka lama. Sebaliknya, piutang lain-lain pihak ketiga turun dari Rp19 miliar menjadi Rp10,7 miliar dan kas yang dibatasi penggunaannya turun dari Rp2,9 miliar menjadi Rp1,5 miliar.",
+   "Di sisi liabilitas, utang bank jangka pendek melonjak dari Rp72,9 miliar menjadi Rp164,5 miliar karena pinjaman baru, dan utang lain-lain pihak ketiga naik dari Rp4,3 miliar menjadi Rp8,2 miliar. Sebaliknya, utang kepada pihak berelasi turun dari Rp40 miliar menjadi Rp22,4 miliar setelah perusahaan membayar Rp17,6 miliar, dan beban akrual turun dari Rp12,4 miliar menjadi Rp3,9 miliar.",
+   "Dari sisi kinerja, pendapatan neto naik dari Rp504,4 miliar pada semester I 2025 menjadi Rp916 miliar pada semester I 2026, dengan laba bersih naik dari Rp135,2 juta menjadi Rp1,81 miliar dan laba per saham naik dari Rp0,04 menjadi Rp0,57. Beban keuangan alias bunga pinjaman naik dari Rp4,3 miliar menjadi Rp8,4 miliar seiring bertambahnya utang bank, sementara rasio lancar turun dari 2,17 kali menjadi 1,33 kali. Auditor KAP Suharli, Sugiharto dan Rekan memberi opini wajar tanpa modifikasian, dengan dua hal audit utama yaitu pengakuan pendapatan serta keterpulihan piutang dan kerugian kredit ekspektasian."
+  ],
+  "fotoAdegan": "Courier riders loading parcel boxes onto motorbikes at a busy logistics depot in Jakarta, early morning light",
+  "takeaway": "Laporan ini condong netral bagi PADA. Pendapatan dan laba memang melonjak tajam, tapi pertumbuhan itu dibayar dengan utang bank jangka pendek yang naik lebih dari dua kali lipat, dari Rp72,9 miliar menjadi Rp164,5 miliar, sehingga kemampuan aset lancar menutup utang jangka pendek turun dari 2,17 kali menjadi 1,33 kali dan beban bunga hampir dua kali lipat menjadi Rp8,4 miliar. Piutang usaha yang menggembung karena segmen kurir baru berarti uang perusahaan lebih lama tertahan di tangan pelanggan sebelum masuk sebagai kas, sehingga perusahaan butuh pinjaman untuk menutup kebutuhan operasional sehari-hari. Auditor turut menandai pengakuan pendapatan dan potensi piutang tak tertagih sebagai dua area perhatian khusus, sinyal agar kualitas piutang ini terus dipantau. Yang perlu dicermati berikutnya adalah apakah piutang dari segmen kurir itu tertagih tepat waktu pada laporan kuartal III 2026, karena kalau tidak, tekanan arus kas dan kebutuhan pinjaman baru bisa berlanjut.",
+  "sentimen": "netral"
  },
  {
   "slug": "zp-sesuaikan-harga-pelaksanaan-waran-untr-usai-dividen-interim",

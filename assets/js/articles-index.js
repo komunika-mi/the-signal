@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "film-gandeng-sbs-korea-perdalam-kerja-sama-konten-media",
+  "category": "Aksi Korporasi",
+  "title": "FILM Gandeng SBS Korea, [Perdalam] Kerja Sama Konten Media",
+  "deck": "MD Entertainment (FILM) dan SBS Korea teken MOU kerja sama konten, memperdalam kemitraan setahun setelah SBS suntik modal sekitar US$20 juta lewat rights issue Perseroan.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "MD Entertainment",
+   "SBS",
+   "kerja sama konten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2682dd1472_ca715f942a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgra-masih-nol-pendapatan-ekuitas-turun-ke-rp46-3-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Masih Nol Pendapatan, [Ekuitas] Turun ke Rp46,3 Miliar",
+  "deck": "Terregra Asia Energy (TGRA) melaporkan keuangan interim semester I 2026 tanpa pendapatan usaha, sementara ekuitas turun ke Rp46,3 miliar dan utang ke pihak berelasi membengkak ke Rp102,65 miliar.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "laporan keuangan interim",
+   "ekuitas",
+   "watchlist"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929181756-64430-0/FinancialStatement-2026-II-TGRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asgr-bagikan-dividen-interim-rp297-per-saham-cair-26-oktober",
+  "category": "Aksi Korporasi",
+  "title": "ASGR Bagikan Dividen Interim [Rp297] per Saham, Cair 26 Oktober",
+  "deck": "Astra Graphia menetapkan dividen interim tahun buku 2026 senilai Rp400,05 miliar atau Rp297 per saham, dengan pembayaran pada 26 Oktober 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASGR",
+   "dividen interim",
+   "Astra Graphia",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54e3df1ba2_0a8b6ae102.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fmfn-ekuitas-anjlok-85-jadi-rp18-8-miliar-per-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "FMFN: Ekuitas [Anjlok] 85% Jadi Rp18,8 Miliar per Juni 2026",
+  "deck": "Ekuitas KB Finansia Multi Finance turun dari Rp128,1 miliar menjadi Rp18,8 miliar dalam enam bulan, seiring piutang pembiayaan menyusut dan penyaluran baru baru capai separuh target.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FMFN",
+   "KB Finansia Multi Finance",
+   "multifinance",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929180213-64449-0/FinancialStatement-2026-II-FMFN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgra-kuartal-i-2026-nol-pendapatan-ekuitas-susut-ke-rp49-m",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Kuartal I 2026: Nol Pendapatan, [Ekuitas] Susut ke Rp49 M",
+  "deck": "Laporan interim kuartal I 2026 TGRA masih nihil pendapatan usaha, ekuitas turun ke Rp49,01 miliar, dan utang ke pihak berelasi membengkak jadi Rp100,59 miliar.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "laporan keuangan",
+   "Terregra Asia Energy",
+   "emiten watchlist"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929175812-64421-0/FinancialStatement-2026-I-TGRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smar-ajukan-nilai-buku-pajak-untuk-merger-panigoran",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Ajukan Nilai Buku Pajak untuk [Merger] Panigoran",
+  "deck": "SMART menyerahkan laporan keuangan sebelum dan sesudah penggabungan usaha dengan PT Perusahaan Perkebunan Panigoran ke Ditjen Pajak untuk permohonan penggunaan nilai buku.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMAR",
+   "merger",
+   "Panigoran",
+   "nilai buku pajak"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4ae54e45e_092dcb6ad3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "emas-laporkan-transaksi-afiliasi-utang-piutang-antar-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Laporkan Transaksi [Afiliasi] Utang Piutang Antar Anak Usaha",
+  "deck": "EMAS mengungkap tiga perjanjian utang piutang antar anak usaha, PIN dengan Perseroan, GSM, dan PETS, efektif 25 September 2026 tanpa perlu persetujuan RUPS.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "Merdeka Gold Resources",
+   "transaksi afiliasi",
+   "utang piutang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2475144564_36c6813fa6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pupuk-indonesia-bawa-16-umkm-binaan-ke-kriyanusa-2026",
   "category": "UMKM",
   "title": "Pupuk Indonesia Bawa [16] UMKM Binaan ke Kriyanusa 2026",
@@ -55,6 +167,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "laba-bersih-pada-melonjak-1-239-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba bersih PADA [melonjak] 1.239% di semester I-2026",
+  "deck": "Pendapatan PADA naik 81,6% dan laba bersih melonjak 1.239,4% pada semester I 2026, didorong bisnis kurir dan proyek FTTH, di tengah kenaikan utang bank jangka pendek yang lebih cepat dari ekuitas.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PADA",
+   "laporan keuangan",
+   "outsourcing",
+   "INET"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4184a73594_9fb07d3f8d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "den-sebut-stabilitas-makro-kunci-genjot-ekonomi-5-persen",
   "category": "Makroekonomi",
   "title": "DEN Sebut [Stabilitas] Makro Kunci Genjot Ekonomi 5 Persen",
@@ -89,6 +217,54 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470197-bukukan-kinerja-positif-di-2025-part-kini-siapkan-right-issue-hingga-buyback-saham"
  },
  {
+  "slug": "dr-waran-untr-disesuaikan-usai-dividen-rp1-48-t",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran [UNTR] Disesuaikan usai Dividen Rp1,48 T",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur UNTR menyusul rencana dividen tunai UNTR Rp1,48 triliun atau Rp430 per saham yang dibayar 26 Oktober 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "UNTR",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/772d3487ae_b3475349f8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "part-cetak-laba-naik-30-siapkan-right-issue-rp200-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PART Cetak Laba Naik 30%, Siapkan [Right Issue] Rp200 Miliar",
+  "deck": "Penjualan PART tumbuh 38,23% menjadi Rp369,59 miliar pada 2025, dan perseroan menyiapkan rights issue Rp200 miliar serta buyback saham hingga Rp10 miliar untuk memperkuat modal kerja.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PART",
+   "kinerja keuangan",
+   "rights issue",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fc46f7b16_11e968a1d1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smma-direktur-utama-burhanuddin-abdullah-mundur",
+  "category": "Aksi Korporasi",
+  "title": "SMMA: Direktur Utama Burhanuddin Abdullah [Mundur]",
+  "deck": "Burhanuddin Abdullah mengundurkan diri dari kursi Direktur Utama SMMA, efektif setelah disetujui RUPS mendatang, tanpa alasan maupun pengganti yang disebutkan.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMA",
+   "Direktur Utama",
+   "pergantian direksi",
+   "Sinar Mas Multiartha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1ddd959114_07ac77a480.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kebutuhan-listrik-2030-tembus-800-twh-ruptl-direvisi",
   "category": "Energi",
   "title": "Kebutuhan Listrik 2030 Tembus 800 TWh, RUPTL [Direvisi]",
@@ -104,6 +280,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470151-kebutuhan-listrik-2030-tembus-800-twh-airlangga-dorong-ruptl-segera-direvisi"
+ },
+ {
+  "slug": "arko-nosu-hydro-teken-pembiayaan-rp690-6-m-dari-smi",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Nosu Hydro Teken [Pembiayaan] Rp690,6 M dari SMI",
+  "deck": "Anak usaha ARKO, PT Nosu Hydro, menandatangani perjanjian pembiayaan senilai Rp690,6 miliar dengan PT SMI untuk membangun PLTA Pongbembe 20 MW, tanpa perlu persetujuan RUPS.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "pembiayaan infrastruktur",
+   "PLTA Pongbembe",
+   "SMI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f22cac909c_aada76f399.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "zp-sesuaikan-harga-pelaksanaan-waran-untr-usai-dividen-interim",
@@ -6307,203 +6499,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468715-jurus-menkeu-suahasil-untuk-perkuat-pengawasan-bea-cukai-siapkan-3-strategi"
- },
- {
-  "slug": "skbm-rinci-dampak-kebakaran-gudang-nilai-asuransi-rp115-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SKBM Rinci Dampak [Kebakaran] Gudang, Nilai Asuransi Rp115 Miliar",
-  "deck": "Sekar Bumi menjelaskan ke BEI bahwa kebakaran gudang cold storage di Tangerang pada 17 September tak menghentikan operasional, dengan aset terdampak diasuransikan senilai Rp115 miliar.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SKBM",
-   "kebakaran",
-   "asuransi",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/671e6acfb4_af85e6f287.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indodana-dapat-suntikan-rp700-miliar-dari-hsbc-untuk-paylater",
-  "category": "Perbankan",
-  "title": "Indodana Dapat Suntikan [Rp700 Miliar] dari HSBC untuk PayLater",
-  "deck": "PayLater kian populer namun risiko kredit macet mengintai. Indodana Finance memperkuat pembiayaan lewat dana Rp700 miliar dari Bank HSBC Indonesia.",
-  "date": "22 September 2026",
-  "image": "assets/img/indodana-dapat-suntikan-rp700-miliar-dari-hsbc-untuk-paylater.jpg",
-  "imageV": "muco4eyw",
-  "tags": [
-   "paylater",
-   "indodana finance",
-   "bnpl",
-   "hsbc indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468702-paylater-makin-populer-indodana-finance-perkuat-pembiayaan-sehat-dengan-dana-rp700-miliar"
- },
- {
-  "slug": "mknt-rilis-detail-pemodal-baru-headwell-kuasai-64-9-saham",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Rilis Detail Pemodal Baru, [Headwell] Kuasai 64,9% Saham",
-  "deck": "Koreksi keterbukaan informasi menyebut PT Headwell Bintang Energi Hijau bakal menguasai 64,9 persen saham MKNT lewat penambahan modal tanpa hak memesan efek terlebih dahulu senilai Rp1,02 triliun.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "penambahan modal",
-   "dilusi saham",
-   "Headwell Bintang Energi Hijau"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/176c81f95e_e26b86b82c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "t50-summit-rilis-50-raksasa-mesin-tambang-dunia",
-  "category": "Industri",
-  "title": "T50 Summit [Rilis] 50 Raksasa Mesin Tambang Dunia",
-  "deck": "T50 Summit Indonesia Forum 2026 di Jakarta merilis peringkat 50 produsen mesin tambang dunia dengan total pendapatan US$74,29 miliar, dipimpin Komatsu dan Caterpillar.",
-  "date": "22 September 2026",
-  "image": "assets/img/t50-summit-rilis-50-raksasa-mesin-tambang-dunia.jpg",
-  "imageV": "muco4gum",
-  "tags": [
-   "T50 Summit",
-   "mesin tambang",
-   "industri pertambangan",
-   "Komatsu"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468698-t50-summit-2026-rilis-50-raksasa-mesin-tambang-dunia-pendapatan-tembus-us7429-miliar"
- },
- {
-  "slug": "rcep-sepakat-bentuk-kelompok-kerja-aksesi-4-ekonomi-baru",
-  "category": "Global",
-  "title": "RCEP Sepakat Bentuk Kelompok Kerja [Aksesi] 4 Ekonomi Baru",
-  "deck": "Pertemuan menteri RCEP di Filipina menyetujui pembentukan kelompok kerja aksesi untuk Bangladesh, Chile, Hong Kong, dan Sri Lanka, serta mencatat kemajuan sekretariat permanen RCEP di Indonesia.",
-  "date": "22 September 2026",
-  "image": "assets/img/rcep-sepakat-bentuk-kelompok-kerja-aksesi-4-ekonomi-baru.jpg",
-  "imageV": "muclytdt",
-  "tags": [
-   "RCEP",
-   "Kementerian Perdagangan",
-   "ASEAN",
-   "Perdagangan Internasional"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pimpin-pertemuan-ke-5-para-menteri-rcep-indonesia-tekankan-pentingnya-meningkatkan-pemanfaatan-rcep",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "dmas-rombak-direksi-yoneda-gantikan-uehara",
-  "category": "Aksi Korporasi",
-  "title": "DMAS [Rombak] Direksi, Yoneda Gantikan Uehara",
-  "deck": "RUPSLB Puradelta Lestari menyetujui pengunduran diri Atsushi Uehara sebagai Wakil Presiden Direktur dan mengangkat Shinji Yoneda sebagai penggantinya.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMAS",
-   "RUPSLB",
-   "Direksi",
-   "Puradelta Lestari"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d23adf1924_acd5f39752.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-gelar-public-expose-insidentil-usai-suspensi",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Gelar Public Expose Insidentil usai [Suspensi]",
-  "deck": "Bursa memerintahkan BIKE menggelar paparan publik insidentil pada Kamis, 24 September 2026, menyusul suspensi cooling down sahamnya sehari sebelumnya.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "Suspensi saham",
-   "Public Expose",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec0601cc0d_3ec761a437.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-terbitkan-saham-baru-investor-lama-terdilusi-ke-0-53",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Terbitkan Saham Baru, Investor Lama [Terdilusi] ke 0,53%",
-  "deck": "PMTHMETD MKNT menerbitkan 1,02 triliun saham baru senilai Rp1 per saham untuk tujuh pihak, termasuk PT Headwell Bintang Energi Hijau yang akan menguasai mayoritas saham perseroan.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "PMTHMETD",
-   "dilusi saham",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/433e20a35b_07be089b7c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zone-vanda-gunawan-tambah-kepemilikan-saham-jadi-12-37",
-  "category": "Aksi Korporasi",
-  "title": "ZONE: Vanda Gunawan Tambah [Kepemilikan] Saham Jadi 12,37%",
-  "deck": "Vanda Gunawan membeli 1,4 juta saham ZONE secara tidak langsung seharga Rp670 per lembar pada 11 September 2026, menaikkan hak suaranya dari 12,21% menjadi 12,37%.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZONE",
-   "Mega Perintis",
-   "kepemilikan saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-0390-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gsmf-tunda-jadwal-pmthmetd-tahap-ii-ke-kuartal-iv-2026",
-  "category": "Aksi Korporasi",
-  "title": "GSMF Tunda Jadwal [PMTHMETD] Tahap II ke Kuartal IV 2026",
-  "deck": "Equity Development Investment menggeser rencana penambahan modal tanpa hak memesan efek terlebih dahulu Tahap II dari akhir September ke kuartal IV 2026, tanpa mengubah nilai maupun pihak penyetor modal.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GSMF",
-   "PMTHMETD",
-   "penambahan modal",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/63cc82f5bc_de79129416.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-hadirkan-trauma-healing-bagi-nasabah-ntt-pascagempa",
-  "category": "UMKM",
-  "title": "PNM Hadirkan [Trauma Healing] bagi Nasabah NTT Pascagempa",
-  "deck": "PNM Peduli menggelar pendampingan psikologis bagi sekitar 250 karyawan dan lebih dari 700 nasabah di Ruteng, Reok, dan Soa, NTT, untuk membantu mereka pulih dan kembali menjalankan usaha pascagempa.",
-  "date": "22 September 2026",
-  "image": "assets/img/pnm-hadirkan-trauma-healing-bagi-nasabah-ntt-pascagempa.jpg",
-  "imageV": "muclyttj",
-  "tags": [
-   "PNM",
-   "PNM Peduli",
-   "NTT",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468684-pnm-peduli-hadirkan-trauma-healing-untuk-dukung-nasabah-flores-ntt-bangkit-dan-kembali-berusaha"
- },
- {
-  "slug": "dekarbonisasi-pertamina-lampaui-target-118-di-semester-i",
-  "category": "Energi",
-  "title": "Dekarbonisasi Pertamina [Lampaui] Target 118% di Semester I",
-  "deck": "Pertamina catat pengurangan emisi karbon 118 persen dari target RKAP 2026 pada semester pertama, sekaligus pertahankan peringkat ESG nomor satu dunia untuk sub-industri migas terintegrasi.",
-  "date": "22 September 2026",
-  "image": "assets/img/dekarbonisasi-pertamina-lampaui-target-118-di-semester-i.jpg",
-  "imageV": "muclyuc2",
-  "tags": [
-   "Pertamina",
-   "ESG",
-   "dekarbonisasi",
-   "NZE"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468679-dekarbonisasi-pertamina-capai-118-pada-semester-1-2026-di-atas-target-pengurangan-emisi-tahunan"
  }
 ];

@@ -3,6 +3,189 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "film-gandeng-sbs-korea-perdalam-kerja-sama-konten-media",
+  "category": "Aksi Korporasi",
+  "title": "FILM Gandeng SBS Korea, [Perdalam] Kerja Sama Konten Media",
+  "deck": "MD Entertainment (FILM) dan SBS Korea teken MOU kerja sama konten, memperdalam kemitraan setahun setelah SBS suntik modal sekitar US$20 juta lewat rights issue Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T18:13:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2682dd1472_ca715f942a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FILM",
+  "tags": [
+   "FILM",
+   "MD Entertainment",
+   "SBS",
+   "kerja sama konten"
+  ],
+  "body": [
+   "Jakarta, 29 September 2026. PT MD Entertainment Tbk (FILM) dan SBS Co., Ltd., perusahaan media dan penyiaran asal Korea Selatan, menandatangani Nota Kesepahaman atau MOU tentang Kerja Sama Strategis dalam Bisnis Konten dan Media pada pukul 14.00 WIB di MD Place, Jakarta. MOU ini menjadi kerangka kerja untuk memadukan kekayaan intelektual konten milik SBS dengan kekuatan produksi dan distribusi MD Entertainment di Indonesia.",
+   "Kesepakatan ini melanjutkan hubungan yang terjalin sejak tahun lalu, ketika SBS menjadi pemegang saham strategis MD Entertainment lewat partisipasinya dalam Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu I, rights issue pertama Perseroan, dengan total investasi sekitar US$20 juta, yang disebut sebagai investasi luar negeri terbesar yang pernah dilakukan SBS sepanjang sejarahnya. Lewat MOU baru ini, SBS dan MD Entertainment sepakat memperdalam kerja sama konten dan platform, serta bersama menjajaki peluang di Asia Tenggara dan pasar global lain, dengan Indonesia sebagai basis strategis.",
+   "Sebagai langkah awal, kedua perusahaan sepakat menghadirkan program-program populer SBS kepada pemirsa Indonesia lewat kanal MDTV, serta mengembangkan versi remake berbahasa Indonesia dari perpustakaan konten SBS. Kerja sama ini diharapkan meluas secara bertahap ke bidang periklanan dan pemasaran merek, pertunjukan langsung, serta bisnis lain yang dibangun di atas kekayaan intelektual bersama kedua perusahaan.",
+   "Hong Sung-Chang, CEO Studio S yang mewakili Presiden SBS Bang Moon-shin dalam penandatanganan, menyebut MOU ini sebagai titik awal untuk mewujudkan investasi strategis tahun lalu menjadi hasil bisnis nyata. Manoj Punjabi, Direktur Utama MD Entertainment, menyatakan kerja sama ini menggabungkan konten kelas dunia milik SBS dengan kekuatan MD Entertainment di pasar Indonesia, dan disebutnya sebagai awal kemitraan yang diharapkan tumbuh melampaui Asia Tenggara."
+  ],
+  "fotoAdegan": "Television drama set inside an Indonesian production soundstage, crew adjusting camera and lighting rigs, warm studio light",
+  "takeaway": "Laporan ini condong netral bagi FILM, karena nota kesepahaman ini baru kerangka kerja awal, tidak mengikat secara hukum, dan tidak menyebut nilai transaksi atau target pendapatan, sehingga belum ada dampak finansial yang bisa dihitung sekarang. Yang tersentuh adalah potensi pendapatan masa depan, yakni dari lisensi tayangan, iklan, dan pertunjukan bersama SBS, sumber pemasukan baru di luar produksi film milik MD Entertainment sendiri, kalau nanti benar terealisasi jadi kontrak. Ini juga sinyal bahwa hubungan dengan SBS, yang tahun lalu menyuntik modal sekitar US$20 juta lewat rights issue Perseroan, tetap berlanjut dan bergerak dari sekadar kepemilikan saham ke kerja sama operasional. Yang perlu dipantau berikutnya adalah apakah MOU ini berlanjut jadi kontrak definitif, misalnya perjanjian lisensi program SBS untuk MDTV atau kesepakatan remake dengan nilai dan jadwal yang jelas, karena dokumen ini sendiri tidak mencantumkan tenggat waktu untuk negosiasi lanjutan tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tgra-masih-nol-pendapatan-ekuitas-turun-ke-rp46-3-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Masih Nol Pendapatan, [Ekuitas] Turun ke Rp46,3 Miliar",
+  "deck": "Terregra Asia Energy (TGRA) melaporkan keuangan interim semester I 2026 tanpa pendapatan usaha, sementara ekuitas turun ke Rp46,3 miliar dan utang ke pihak berelasi membengkak ke Rp102,65 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T18:11:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929181756-64430-0/FinancialStatement-2026-II-TGRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGRA",
+  "tags": [
+   "TGRA",
+   "laporan keuangan interim",
+   "ekuitas",
+   "watchlist"
+  ],
+  "body": [
+   "PT Terregra Asia Energy Tbk (TGRA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2026, lewat surat bernomor 020/TGRA-IDXOJK/IX/2026 tertanggal 29 September 2026. Dalam dokumen itu perseroan kembali mencatat pendapatan usaha nol rupiah, sama seperti semester I 2025, karena keempat belas anak usahanya yang bergerak di pembangkit listrik tenaga air dan mini hidro di Sumatera Utara, Kalimantan, Sumatera Selatan, Aceh, dan Jakarta semuanya masih berstatus belum beroperasi secara komersial. Kepemilikan TGRA di anak-anak usaha itu berkisar dari 70 persen hingga 99,99 persen.",
+   "Tanpa pendapatan, rugi bersih semester I 2026 tercatat Rp5,11 miliar, lebih kecil dari rugi komprehensif Rp12,91 miliar pada semester I 2025. Rugi yang dapat diatribusikan kepada pemilik entitas induk turun menjadi Rp4,84 miliar dari Rp11,23 miliar, setara rugi per saham dasar Rp1,76 dibanding Rp4,08 tahun sebelumnya. Namun penurunan itu terutama karena tidak ada lagi beban klaim bank garansi sebesar Rp8,29 miliar yang membebani laporan tahun lalu. Beban operasional inti, yakni beban umum dan administrasi, nyaris tidak berubah dari Rp2,37 miliar menjadi Rp2,34 miliar, dan beban bunga turun tipis menjadi Rp1,94 miliar dari Rp2,3 miliar.",
+   "Di sisi neraca, jumlah ekuitas turun dari Rp51,42 miliar pada akhir 2025 menjadi Rp46,3 miliar per 30 Juni 2026, dengan bagian yang menjadi hak pemilik entitas induk turun dari Rp38,54 miliar menjadi Rp33,7 miliar. Defisit perseroan membengkak menjadi Rp277,25 miliar dari Rp272,41 miliar. Sementara itu, utang kepada pihak berelasi jangka pendek naik dari Rp98,84 miliar menjadi Rp102,65 miliar, jumlah yang kini lebih dari dua kali total ekuitas perseroan dan menjadi sumber pendanaan utama operasional di tengah ketiadaan pendapatan usaha. Kas dan setara kas perseroan tercatat Rp170,85 juta per akhir Juni 2026, naik dari Rp121,03 juta per akhir 2025."
+  ],
+  "fotoAdegan": "Workers inspecting turbine equipment at a small hydroelectric plant construction site beside a fast flowing river in North Sumatra, overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi TGRA, sebab penyempitan rugi yang terlihat di permukaan sebagian besar berasal dari hilangnya beban klaim bank garansi satu kali sebesar Rp8,29 miliar tahun lalu, bukan perbaikan bisnis, sementara pendapatan usaha tetap nol dan ekuitas terus tergerus. Ekuitas, yaitu selisih antara total aset dan total utang yang mencerminkan kekayaan bersih milik pemegang saham, turun karena rugi berjalan terus menambah defisit perseroan, dan pelaku pasar mencermatinya karena ekuitas yang menipis membatasi kemampuan perusahaan menyerap kerugian lebih lanjut. Beban bunga, yakni biaya yang wajib dibayar perseroan atas pinjamannya, memang sedikit turun, tapi ketergantungan pada utang pihak berelasi yang kini melampaui dua kali ekuitas justru menandakan operasional masih ditopang dana internal grup, bukan pendapatan usaha. Jumlah saham beredar tetap 2,75 miliar lembar sehingga rugi per saham langsung mencerminkan beban kerugian yang ditanggung tiap pemegang saham. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan 2026 yang akan diaudit oleh akuntan independen, mengingat laporan interim ini belum diaudit, serta kelanjutan rencana pemulihan status suspensi lewat private placement yang sudah diumumkan perseroan, karena dari situlah terlihat apakah ketergantungan pada utang pihak berelasi bisa berkurang.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "asgr-bagikan-dividen-interim-rp297-per-saham-cair-26-oktober",
+  "category": "Aksi Korporasi",
+  "title": "ASGR Bagikan Dividen Interim [Rp297] per Saham, Cair 26 Oktober",
+  "deck": "Astra Graphia menetapkan dividen interim tahun buku 2026 senilai Rp400,05 miliar atau Rp297 per saham, dengan pembayaran pada 26 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T18:03:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54e3df1ba2_0a8b6ae102.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASGR",
+  "tags": [
+   "ASGR",
+   "dividen interim",
+   "Astra Graphia",
+   "pasar modal"
+  ],
+  "body": [
+   "Direksi Astra Graphia Tbk (ASGR) memutuskan membagikan dividen interim tahun buku 2026 setelah mendapat persetujuan Dewan Komisaris dalam rapat pada 25 September 2026. Total dividen yang dibagikan senilai Rp400.048.296.300, atau Rp297 per saham, diambil dari laba Perseroan tahun buku yang berjalan hingga 31 Desember 2026 dan sebagian saldo laba ditahan. Dewan Komisaris menegaskan bahwa dividen interim ini nantinya harus diperhitungkan dengan dividen final yang baru akan disetujui dalam Rapat Umum Pemegang Saham Tahunan 2027.",
+   "Perseroan menetapkan tanggal daftar pemegang saham (recording date) yang berhak menerima dividen ini pada 9 Oktober 2026 pukul 16.00 WIB. Sebelum itu, cum dividen di pasar reguler dan negosiasi berlaku hingga 7 Oktober 2026 dengan ex dividen mulai 8 Oktober 2026, sementara di pasar tunai cum dividen berlaku sampai 9 Oktober 2026 dan ex dividen mulai 12 Oktober 2026. Pembayaran dijadwalkan pada 26 Oktober 2026, dilakukan melalui KSEI bagi saham dalam penitipan kolektif, atau melalui transfer bank oleh biro administrasi efek PT Raya Saham Registra bagi pemegang saham yang masih memegang saham dalam bentuk warkat fisik.",
+   "Astra Graphia mengingatkan pemegang saham korporasi dalam negeri yang belum mencantumkan NPWP untuk menyerahkan dokumennya ke KSEI atau RSR paling lambat 9 Oktober 2026 pukul 16.00 WIB, karena tanpa NPWP dividen akan dipotong pajak 30 persen. Pemegang saham asing yang ingin memakai tarif pajak sesuai perjanjian penghindaran pajak berganda wajib menyerahkan Surat Keterangan Domisili dengan tenggat yang sama, atau dividen mereka dipotong PPh Pasal 26 sebesar 20 persen. Data keuangan per 30 Juni 2026 yang menjadi dasar pembagian dividen ini mencatat laba bersih yang diatribusikan ke entitas induk sebesar Rp138.449.695.796, saldo laba ditahan tidak dibatasi sebesar Rp1,72 triliun, dan total ekuitas Rp1,95 triliun."
+  ],
+  "fotoAdegan": "Technician inspecting a large digital multifunction printer inside a modern Jakarta office services center, natural daylight",
+  "takeaway": "Dividen interim ini condong positif bagi pemegang saham karena nilainya, Rp400,05 miliar, masih tertutup nyaman oleh saldo laba ditahan Perseroan yang tersisa Rp1,72 triliun per akhir Juni 2026, jadi pembayaran ini tidak menggerus modal sampai titik mengkhawatirkan meski jumlahnya jauh lebih besar dari laba bersih semester pertama yang cuma Rp138,45 miliar. Yang tersentuh di sini adalah pos ekuitas dan laba ditahan, yaitu cadangan keuntungan perusahaan dari tahun-tahun sebelumnya yang belum dibagikan; begitu dividen ini cair, ekuitas total Astra Graphia yang sebesar Rp1,95 triliun akan berkurang sekitar seperlima karena dananya dipakai membayar pemegang saham, bukan disimpan sebagai modal usaha. Pelaku pasar mencermati pos ini karena ekuitas yang menyusut berarti bantalan keuangan perusahaan untuk ekspansi atau menghadapi masa sulit ikut menipis, meski dalam kasus ASGR sisa cadangannya masih tebal. Yang perlu dipantau selanjutnya adalah tanggal pembayaran pada 26 Oktober 2026, serta bagaimana dividen interim ini nanti diperhitungkan dengan dividen final yang baru akan disahkan di RUPS Tahunan 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "fmfn-ekuitas-anjlok-85-jadi-rp18-8-miliar-per-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "FMFN: Ekuitas [Anjlok] 85% Jadi Rp18,8 Miliar per Juni 2026",
+  "deck": "Ekuitas KB Finansia Multi Finance turun dari Rp128,1 miliar menjadi Rp18,8 miliar dalam enam bulan, seiring piutang pembiayaan menyusut dan penyaluran baru baru capai separuh target.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T17:53:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929180213-64449-0/FinancialStatement-2026-II-FMFN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FMFN",
+  "tags": [
+   "FMFN",
+   "KB Finansia Multi Finance",
+   "multifinance",
+   "ekuitas"
+  ],
+  "body": [
+   "PT KB Finansia Multi Finance (FMFN), perusahaan pembiayaan konsumen yang mencatatkan obligasi di Bursa Efek Indonesia, menyampaikan laporan keuangan interim auditan untuk periode enam bulan yang berakhir 30 Juni 2026. Auditor dari Kantor Akuntan Publik Mirawati Sensi Idris, anggota jaringan Moore Global, memberikan opini wajar tanpa modifikasian dengan partner penanggung jawab Denny Susanto. Perusahaan membukukan rugi bersih Rp76,09 miliar pada semester pertama 2026, membaik dibanding rugi Rp319,40 miliar pada periode sama tahun lalu, namun ekuitas justru anjlok dari Rp128,14 miliar pada akhir 2025 menjadi Rp18,78 miliar per 30 Juni 2026. Penurunan ekuitas ini juga dipicu kerugian aktuarial program imbalan pasti karyawan sebesar Rp28,04 miliar dan penurunan nilai wajar aset keuangan Rp14,58 miliar. Auditor menyoroti dua hal audit utama terkait cadangan kerugian penurunan nilai piutang pembiayaan sebesar Rp222,82 miliar dan tagihan anjak piutang Rp1,19 miliar, karena gabungan keduanya mewakili 75,87% dari total aset perusahaan.",
+   "Dalam surat penjelasan terpisah kepada bursa terkait perubahan lebih dari 20% pada pos aset dan liabilitas, Direktur Utama Peter Halim mengungkapkan total aset perusahaan turun 23,49% dari Rp4,76 triliun menjadi Rp3,64 triliun, sementara total liabilitas turun 21,78% dari Rp4,63 triliun menjadi Rp3,62 triliun. Penurunan aset terutama berasal dari piutang pembiayaan bersih yang menyusut 26,91% dari Rp3,64 triliun menjadi Rp2,66 triliun, sejalan dengan piutang pembiayaan bruto yang turun dari Rp4,56 triliun menjadi Rp3,33 triliun. Di sisi liabilitas, surat berharga yang diterbitkan anjlok 88,06% dari Rp567,05 miliar menjadi Rp67,72 miliar setelah perusahaan melunasi Obligasi II KB Finansia Multi Finance Tahun 2023 Seri B senilai Rp500 miliar yang jatuh tempo pada 27 Juni 2026. Pinjaman yang diterima juga turun 11,83% menjadi Rp3,13 triliun karena pembayaran pinjaman selama semester ini, Rp1,90 triliun, lebih besar dari penerimaan pinjaman baru sebesar Rp1,48 triliun.",
+   "Perusahaan juga memangkas target penyaluran pembiayaan baru dalam Rencana Bisnis Tahunan 2026 menjadi Rp2,15 triliun, turun 45,98% dibanding realisasi penyaluran tahun 2025 yang mencapai Rp3,98 triliun. Sampai akhir Juni 2026, realisasi penyaluran pembiayaan baru baru mencapai Rp982,29 miliar, atau 45,68% dari target yang sudah dipangkas tersebut. Jumlah kantor cabang perusahaan turut berkurang dari 116 menjadi 103 unit dalam periode yang sama. Manajemen menyatakan perubahan aset dan liabilitas di atas 20% ini tidak berdampak negatif terhadap kinerja perusahaan."
+  ],
+  "fotoAdegan": "Rows of parked motorcycles outside a small consumer financing branch office in an Indonesian city, midday light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang obligasi FMFN, karena bantalan modal perusahaan menipis tajam dalam waktu singkat sementara volume bisnis pembiayaannya justru menyusut dan target penyaluran baru dipangkas hampir separuh. Ekuitas adalah selisih antara aset dan utang perusahaan, semacam bantalan yang menyerap kerugian sebelum merembet ke kreditur dan pemegang obligasi, dan penyusutannya menjadi Rp18,78 miliar membuat ruang perusahaan menyerap kerugian lanjutan makin sempit, terlebih hampir 76 persen asetnya berupa piutang pembiayaan dan anjak piutang yang berisiko macet, sebagaimana disoroti auditor sebagai hal audit utama. Yang perlu dicermati berikutnya adalah realisasi penyaluran pembiayaan pada semester kedua 2026 dibanding target RBT yang sudah direvisi turun, serta laporan keuangan kuartal berikutnya untuk melihat apakah tren penyusutan piutang pembiayaan dan tergerusnya ekuitas ini masih berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tgra-kuartal-i-2026-nol-pendapatan-ekuitas-susut-ke-rp49-m",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Kuartal I 2026: Nol Pendapatan, [Ekuitas] Susut ke Rp49 M",
+  "deck": "Laporan interim kuartal I 2026 TGRA masih nihil pendapatan usaha, ekuitas turun ke Rp49,01 miliar, dan utang ke pihak berelasi membengkak jadi Rp100,59 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T17:51:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929175812-64421-0/FinancialStatement-2026-I-TGRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGRA",
+  "tags": [
+   "TGRA",
+   "laporan keuangan",
+   "Terregra Asia Energy",
+   "emiten watchlist"
+  ],
+  "body": [
+   "PT Terregra Asia Energy Tbk (TGRA) menyampaikan laporan keuangan interim kuartal I 2026 yang tidak diaudit, menunjukkan perusahaan masih belum membukukan pendapatan usaha sepeser pun hingga 31 Maret 2026, sama seperti kuartal I 2025. Beban usaha yang seluruhnya berupa biaya umum dan administrasi tercatat Rp1,28 miliar, turun dari Rp1,36 miliar pada periode yang sama tahun lalu, sehingga rugi usaha juga menyempit menjadi Rp1,28 miliar. Setelah dikurangi beban bunga Rp1,01 miliar dan beban lain-lain bersih Rp159 juta, rugi bersih yang menjadi bagian pemilik entitas induk tercatat Rp2,32 miliar, sedikit membaik dibanding Rp2,63 miliar pada kuartal I 2025, dengan rugi per saham dasar Rp0,84.",
+   "Di sisi neraca, jumlah ekuitas perusahaan turun menjadi Rp49,01 miliar per 31 Maret 2026 dari Rp51,42 miliar pada akhir 2025, dengan akumulasi defisit membengkak menjadi Rp274,73 miliar dari Rp272,41 miliar. Kas dan setara kas perusahaan hanya Rp125,04 juta, sementara arus kas dari kegiatan operasi tercatat minus Rp771,13 juta karena tidak ada penerimaan dari pelanggan. Untuk menutup kebutuhan kas, perusahaan kembali menambah utang kepada pihak berelasi non-usaha sebesar Rp1,75 miliar sepanjang tiga bulan tersebut, sehingga saldo utang pihak berelasi jangka pendek naik menjadi Rp100,59 miliar dari Rp98,84 miliar di akhir 2025.",
+   "Total aset perusahaan relatif stagnan di Rp206,47 miliar, didominasi aset tetap Rp178,58 miliar dan goodwill Rp15,85 miliar yang berasal dari akuisisi 14 anak usaha pembangkit listrik tenaga air dan mini hidro yang tersebar di Sumatera Utara, Kalimantan, Sumatera Selatan, Aceh, dan Jakarta, sebagian besar masih berstatus belum beroperasi secara komersial. Saham TGRA sendiri saat ini tercatat di papan pemantauan khusus (watchlist) Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "A small hydroelectric power station beside a fast flowing forest river in North Sumatra, turbine housing visible, misty morning light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental TGRA, karena perusahaan masih nihil pendapatan usaha sementara ekuitasnya terus menyusut dan operasionalnya terus disokong utang dari pihak berelasi, bukan dari hasil usaha sendiri. Pos yang tersentuh adalah ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi semua utang, yang turun dari Rp51,4 miliar jadi Rp49,0 miliar hanya dalam tiga bulan, serta arus kas operasi yang minus Rp771 juta, artinya kegiatan usaha sehari-hari menyedot kas, bukan menghasilkan kas, padahal kas di tangan cuma tersisa Rp125 juta. Rugi per saham sebesar Rp0,84 menunjukkan besarnya kerugian yang secara proporsional ditanggung setiap pemegang satu lembar saham TGRA. Yang perlu dipantau berikutnya adalah kelanjutan rencana private placement untuk pemulihan status suspensi yang diumumkan perusahaan pada 25 September 2026, karena tanpa dana segar dari luar, kas TGRA yang begitu tipis tidak akan cukup menutupi beban operasional yang menghabiskan sekitar Rp771 juta setiap kuartal.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smar-ajukan-nilai-buku-pajak-untuk-merger-panigoran",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Ajukan Nilai Buku Pajak untuk [Merger] Panigoran",
+  "deck": "SMART menyerahkan laporan keuangan sebelum dan sesudah penggabungan usaha dengan PT Perusahaan Perkebunan Panigoran ke Ditjen Pajak untuk permohonan penggunaan nilai buku.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T17:51:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4ae54e45e_092dcb6ad3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMAR",
+  "tags": [
+   "SMAR",
+   "merger",
+   "Panigoran",
+   "nilai buku pajak"
+  ],
+  "body": [
+   "PT Sinar Mas Agro Resources and Technology Tbk (SMAR) menyampaikan keterbukaan informasi kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 29 September 2026 terkait penggabungan usaha PT Perusahaan Perkebunan Panigoran ke dalam SMART, yang telah efektif sejak 22 Mei 2026. Direksi perseroan menyusun dua versi laporan keuangan entitas induk, yaitu untuk periode yang berakhir 21 Mei 2026 (sesaat sebelum penggabungan) dan proforma untuk periode yang berakhir 22 Mei 2026 (setelah penggabungan). Kedua laporan itu diserahkan pada hari yang sama kepada Direktorat Jenderal Pajak sebagai bagian dari permohonan agar transaksi penggabungan usaha ini dikenakan pajak berdasarkan nilai buku, bukan nilai wajar, opsi yang lazim diambil perusahaan agar tidak langsung membayar pajak atas selisih penilaian aset saat merger.",
+   "Perbandingan kedua laporan menunjukkan dampak penggabungan yang sangat kecil terhadap neraca SMART. Total aset naik tipis dari Rp37,980 triliun menjadi Rp37,986 triliun, sementara ekuitas naik dari Rp14,196 triliun menjadi Rp14,201 triliun, selisih sekitar Rp5,45 miliar yang dibukukan sebagai selisih transaksi restrukturisasi entitas sepengendali pada pos tambahan modal disetor. Kas dan setara kas ikut naik dari Rp872,28 miliar menjadi Rp887,14 miliar, sebagian berasal dari tambahan kas sebesar Rp14,85 miliar milik perusahaan yang digabungkan. Laporan laba rugi untuk periode 1 Januari sampai pertengahan Mei 2026 tercatat sama persis di kedua versi, dengan penjualan bersih Rp31,55 triliun, laba usaha Rp1,54 triliun, dan laba bersih Rp930,19 miliar.",
+   "Perseroan menyatakan penggabungan usaha dan penyampaian laporan keuangan ini tidak berdampak pada kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha SMART. Surat kepada OJK dan BEI ini ditandatangani oleh Jimmy Pramono, yang menjabat Corporate Secretary sekaligus Wakil Direktur Utama SMART."
+  ],
+  "fotoAdegan": "Workers loading fresh oil palm fruit bunches onto a truck at a plantation collection point, tropical morning light, hilly greenery in background",
+  "takeaway": "Laporan ini netral bagi SMART karena isinya murni administrasi pengajuan pajak untuk merger yang sudah efektif sejak Mei 2026, dan angka yang dibawanya nyaris tidak mengubah postur keuangan perusahaan. Pos yang tersentuh adalah ekuitas, yaitu modal bersih perusahaan setelah dikurangi seluruh utang, yang naik tipis Rp5,45 miliar akibat pencatatan akuntansi penggabungan dua entitas yang sama-sama dikendalikan Grup Sinar Mas, setara kurang dari 0,04 persen dari total ekuitas Rp14,2 triliun sehingga tidak mengubah kesehatan keuangan perusahaan secara berarti. Total aset dan laba bersih periode berjalan pun identik antara sebelum dan sesudah penggabungan, sekitar Rp37,98 triliun dan Rp930 miliar, menandakan langkah ini murni soal pencatatan hukum dan pajak, bukan penambahan bisnis baru yang signifikan. Yang perlu dipantau selanjutnya adalah keputusan Direktorat Jenderal Pajak atas permohonan penggunaan nilai buku ini, karena kalau disetujui, penggabungan usaha tersebut tidak akan dikenai pajak atas selisih penilaian aset, sementara dampak penuh integrasi Panigoran terhadap bisnis kelapa sawit SMART baru akan terlihat di laporan keuangan konsolidasian pada periode-periode berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "emas-laporkan-transaksi-afiliasi-utang-piutang-antar-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Laporkan Transaksi [Afiliasi] Utang Piutang Antar Anak Usaha",
+  "deck": "EMAS mengungkap tiga perjanjian utang piutang antar anak usaha, PIN dengan Perseroan, GSM, dan PETS, efektif 25 September 2026 tanpa perlu persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T17:46:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2475144564_36c6813fa6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "Merdeka Gold Resources",
+   "transaksi afiliasi",
+   "utang piutang"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) melaporkan kepada Bursa Efek Indonesia bahwa pada 25 September 2026, tiga perjanjian utang piutang antara anak-anak usahanya telah berlaku efektif. Perjanjian tersebut melibatkan PT Pani Industri Nusantara (PIN) sebagai satu pihak, yang masing-masing membuat perjanjian utang piutang dengan Perseroan sendiri, dengan PT Gorontalo Sejahtera Mining (GSM), dan dengan PT Puncak Emas Tani Sejahtera (PETS). GSM dan PETS sama-sama berkedudukan di Pohuwato, Gorontalo, wilayah yang sama dengan lokasi proyek tambang emas Perseroan.",
+   "Dalam keterbukaan informasi yang ditandatangani Corporate Secretary Adi Adriansyah Sjoekri, Perseroan menjelaskan bahwa masing-masing transaksi tergolong transaksi material sekaligus transaksi afiliasi. Nilai tiap transaksi tidak melebihi 50 persen dari nilai ekuitas Perseroan, sehingga sesuai Peraturan OJK No. 17/2020, transaksi ini tidak memerlukan persetujuan Rapat Umum Pemegang Saham. Perseroan juga tidak wajib menggunakan jasa penilai independen karena transaksi dilakukan antar perusahaan yang sahamnya dimiliki Perseroan sedikitnya 99 persen, sehingga dianggap berada dalam satu kelompok kendali yang sama.",
+   "Dokumen itu juga menyebutkan bahwa Perseroan awalnya berdiri dengan nama PT Pani Bersama Jaya sejak 20 November 2015, sebelum berganti nama dan mencatatkan sahamnya di Bursa Efek Indonesia sekaligus mencatatkan Hong Kong Depositary Receipts di Bursa Efek Hong Kong. Sesuai Pasal 6 ayat 3 huruf a POJK 17/2020, Perseroan wajib mengumumkan keterbukaan informasi ini paling lambat dua hari kerja setelah tanggal transaksi, dan kewajiban itu dipenuhi lewat pengumuman pada 29 September 2026. Rincian nilai transaksi, suku bunga, dan jangka waktu pinjaman dalam masing-masing perjanjian tidak dicantumkan dalam ringkasan yang dipublikasikan Perseroan."
+  ],
+  "fotoAdegan": "Wide view of an open-pit gold mine access road cut through green hills, empty haul trucks parked at dawn, Gorontalo highlands landscape",
+  "takeaway": "Transaksi ini bersifat netral bagi pemegang saham publik EMAS, karena hanya memindahkan utang piutang antar sesama anak usaha yang mayoritas sahamnya sudah dimiliki Perseroan sendiri, bukan mendatangkan dana segar dari luar maupun mengurangi porsi kepemilikan publik. Yang tersentuh di sini adalah arus kas dan pos utang piutang antar anak usaha, bukan ekuitas Perseroan secara konsolidasi, sebab nilai tiap transaksi masih di bawah separuh nilai ekuitas Perseroan, yaitu batas yang dipakai OJK untuk menentukan seberapa besar dampak sebuah transaksi terhadap kekayaan bersih perusahaan sehingga otoritas tidak mewajibkan persetujuan RUPS. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal ketiga 2026, yang akan menunjukkan bagaimana pinjaman antar anak usaha ini tercermin dalam neraca konsolidasi Perseroan, karena nilai transaksi dan bunga pinjamannya sendiri belum diungkap dalam ringkasan yang dipublikasikan pada 29 September 2026 ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pupuk-indonesia-bawa-16-umkm-binaan-ke-kriyanusa-2026",
   "category": "UMKM",
   "title": "Pupuk Indonesia Bawa [16] UMKM Binaan ke Kriyanusa 2026",
@@ -87,6 +270,33 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "laba-bersih-pada-melonjak-1-239-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba bersih PADA [melonjak] 1.239% di semester I-2026",
+  "deck": "Pendapatan PADA naik 81,6% dan laba bersih melonjak 1.239,4% pada semester I 2026, didorong bisnis kurir dan proyek FTTH, di tengah kenaikan utang bank jangka pendek yang lebih cepat dari ekuitas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T17:04:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4184a73594_9fb07d3f8d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PADA",
+  "tags": [
+   "PADA",
+   "laporan keuangan",
+   "outsourcing",
+   "INET"
+  ],
+  "body": [
+   "PT Personel Alih Daya Tbk (PADA) melaporkan pendapatan usaha sebesar Rp916,0 miliar pada semester I 2026, naik 81,6% dibandingkan Rp504,4 miliar pada periode yang sama tahun lalu. Perusahaan menyebut lini Courier Services sebagai penyumbang pendapatan terbesar, disusul proyek Fiber to the Home (FTTH) dan project management office (PMO) di bisnis Technical Services, serta jasa call center. Sejalan dengan itu, beban pokok pendapatan ikut naik 81,9% menjadi Rp882,0 miliar dari Rp484,8 miliar, seiring bertambahnya volume bisnis kurir dan jumlah tenaga kerja yang dikelola.",
+   "Laba kotor tercatat Rp34,0 miliar, naik 73,6% dari Rp19,6 miliar, meski margin kotor turun tipis dari 3,9% menjadi 3,7%. Beban usaha hanya tumbuh 41,1%, jauh di bawah laju pendapatan yang naik 81,6%, dengan beban gaji dan tunjangan naik 34,4% menjadi Rp10,3 miliar dari Rp7,6 miliar. Hasilnya, laba sebelum pajak melonjak 452,7% menjadi Rp3,2 miliar dari Rp577,4 juta, dan laba bersih naik 1.239,4% menjadi Rp1,8 miliar dari Rp135,2 juta pada semester I 2025.",
+   "Dari sisi neraca, total aset per 30 Juni 2026 mencapai Rp336,6 miliar, naik 26,6% dari Rp265,9 miliar pada akhir 2025, dengan aset lancar naik 34,6% menjadi Rp276,1 miliar karena penambahan kas, piutang usaha dari segmen baru Courier Services, serta penyesuaian uang muka yang sudah lama tertahan. Total liabilitas melonjak 47,0% menjadi Rp214,8 miliar, terutama akibat pinjaman bank jangka pendek baru dan kenaikan utang lain-lain ke pihak ketiga. Sementara itu, total ekuitas hanya naik 1,7% menjadi Rp121,8 miliar dari Rp119,8 miliar.",
+   "Perseroan turut menyoroti bergabungnya PADA ke ekosistem PT Sinergi Inti Andalan Prima Tbk (INET) sebagai pemegang saham pengendali, yang membuka peluang kerja sama lintas entitas Grup INET di jasa Office Services, Security Services, Technical Services, dan Managed Operations Services. PADA juga menjalin kolaborasi dengan PT Solusi Sinergi Digital Tbk (WIFI Group) untuk mendukung pembangunan jaringan FTTH dan Internet Rakyat (IRA) 5G Fixed Wireless Access di berbagai wilayah Indonesia. Direktur Utama Cahyanul Uswah menyebut strategi optimalisasi portofolio pelanggan dan program cross selling menjadi pendorong utama pertumbuhan kinerja pada periode ini."
+  ],
+  "fotoAdegan": "Courier workers sorting parcels on a busy warehouse conveyor belt, forklift moving pallets in the background, bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi PADA karena pendapatan dan laba bersih tumbuh jauh lebih cepat dibandingkan periode sebelumnya, dan kenaikan beban usaha yang lebih lambat dari pendapatan menunjukkan mulai munculnya efisiensi skala bisnis, meski ada sinyal permodalan yang perlu dicermati. Yang tersentuh di sini adalah ekuitas, yaitu modal milik pemegang saham, yang cuma naik 1,7% menjadi Rp121,8 miliar, sementara total utang melompat 47% menjadi Rp214,8 miliar karena pinjaman bank baru, artinya ekspansi bisnis semester ini lebih banyak ditopang utang ketimbang modal sendiri, dan margin kotor atau selisih antara harga jasa dan biaya pokoknya juga menipis dari 3,9% menjadi 3,7% walau nilainya naik. Yang perlu dipantau berikutnya adalah apakah pinjaman bank baru ini mulai membebani laba lewat kenaikan beban bunga pada laporan kuartal ketiga 2026, serta apakah sinergi dengan pemegang saham pengendali baru INET Group dan kolaborasi proyek FTTH bersama WIFI Group benar-benar berlanjut mendongkrak pendapatan pada semester kedua tahun ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "den-sebut-stabilitas-makro-kunci-genjot-ekonomi-5-persen",
   "category": "Makroekonomi",
   "title": "DEN Sebut [Stabilitas] Makro Kunci Genjot Ekonomi 5 Persen",
@@ -141,6 +351,84 @@ var ARTICLES = [
   "imageV": "mumivtmg"
  },
  {
+  "slug": "dr-waran-untr-disesuaikan-usai-dividen-rp1-48-t",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran [UNTR] Disesuaikan usai Dividen Rp1,48 T",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur UNTR menyusul rencana dividen tunai UNTR Rp1,48 triliun atau Rp430 per saham yang dibayar 26 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T16:39:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/772d3487ae_b3475349f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "UNTR",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia, penerbit waran terstruktur dengan saham dasar PT United Tractors Tbk (UNTR), mengumumkan penyesuaian syarat dan ketentuan waran tersebut menyusul rencana pembagian dividen tunai oleh UNTR. Berdasarkan keterbukaan informasi UNTR tertanggal 29 September 2026, perseroan itu akan membagikan dividen tunai untuk tahun buku 2026 senilai total Rp1.478.191.622.480, atau setara Rp430 per saham, sesuai keputusan direksi yang telah disetujui dewan komisaris UNTR pada 24 September 2026.",
+   "Jadwal pembagian dividen UNTR ditetapkan sebagai berikut: tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 6 Oktober 2026, dengan tanggal ex dividen sehari setelahnya pada 7 Oktober 2026. Untuk pasar tunai, cum dividen jatuh pada 8 Oktober 2026 dan ex dividen pada 9 Oktober 2026. Daftar pemegang saham yang berhak atas dividen ditetapkan pada 8 Oktober 2026 pukul 16.00 WIB, dan dividen akan dibayarkan paling lambat pada 26 Oktober 2026.",
+   "Menyusul jadwal itu, rasio pelaksanaan dan harga pelaksanaan waran terstruktur UNTR akan disesuaikan memakai rumus baku yang tercantum dalam term sheet dan prospektus waran, yakni rasio dan harga pelaksanaan lama dikalikan dengan selisih harga penutupan saham UNTR pada hari cum-dividen terakhir dikurangi nilai dividen per saham, dibagi harga penutupan itu sendiri. RHB Sekuritas juga mencantumkan syarat bahwa penyesuaian ini bisa saja tidak dilakukan apabila, atas kebijaksanaan penerbit, penyesuaian dianggap tidak diperlukan, tanpa kewajiban apa pun kepada pemegang waran."
+  ],
+  "fotoAdegan": "Heavy equipment excavators and dump trucks parked in rows at an industrial dealership yard, overcast Indonesian afternoon",
+  "takeaway": "Laporan ini netral bagi RHB Sekuritas selaku penerbit waran, karena yang terjadi hanyalah penyesuaian teknis mengikuti rumus baku akibat aksi korporasi UNTR, bukan keputusan bisnis baru dari RHB Sekuritas sendiri, meski dividen yang memicunya bernilai besar. Yang tersentuh adalah rasio pelaksanaan dan harga pelaksanaan waran, yaitu jumlah saham UNTR yang bisa ditebus pemegang waran dan harga tebusnya, yang otomatis dikoreksi supaya nilai waran tidak berkurang begitu saja saat harga saham UNTR turun akibat pembagian dividen. Yang perlu dipantau adalah harga penutupan UNTR pada 6 Oktober 2026, hari cum dividen terakhir, karena angka itu jadi acuan utama rumus penyesuaian, serta kepastian pembayaran dividen pada 26 Oktober 2026 dan kemungkinan RHB Sekuritas memutuskan tidak melakukan penyesuaian sama sekali sesuai klausul kebijaksanaan penerbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "part-cetak-laba-naik-30-siapkan-right-issue-rp200-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PART Cetak Laba Naik 30%, Siapkan [Right Issue] Rp200 Miliar",
+  "deck": "Penjualan PART tumbuh 38,23% menjadi Rp369,59 miliar pada 2025, dan perseroan menyiapkan rights issue Rp200 miliar serta buyback saham hingga Rp10 miliar untuk memperkuat modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T16:38:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fc46f7b16_11e968a1d1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PART",
+  "tags": [
+   "PART",
+   "kinerja keuangan",
+   "rights issue",
+   "buyback saham"
+  ],
+  "body": [
+   "PT Cipta Perdana Lancar Tbk (PART) mencatatkan penjualan Rp369,59 miliar sepanjang 2025, naik 38,23 persen dibanding Rp267,38 miliar pada 2024. Laba kotor perseroan naik 20,93 persen menjadi Rp70,78 miliar, laba usaha tumbuh 29,93 persen menjadi Rp40,62 miliar, dan laba bersih naik 29,97 persen menjadi Rp30,21 miliar. Direktur PART, Tjoeng Rino Saputra, menyebut pertumbuhan ini sebagai landasan bagi perseroan untuk memperluas portofolio produk dan meningkatkan kapasitas produksi.",
+   "Selain bisnis inti komponen otomotif, PART tengah mengembangkan sejumlah produk baru di luar sektor otomotif dengan memanfaatkan kemampuan rekayasa, pengelasan, stamping, fabrikasi, dan perakitan yang dimiliki perseroan. Produk yang sedang dikembangkan antara lain mesin pengering food tray, mesin panjat kelapa, gas oil water fryer, mesin penabur dolomit, dan mesin digester Somya, yang membidik pasar peralatan pengolahan pangan, pertanian, serta mesin dan peralatan industri.",
+   "Untuk mendukung ekspansi tersebut, PART berencana melaksanakan penambahan modal dengan hak memesan efek terlebih dahulu (rights issue) senilai maksimal Rp200 miliar pada kuartal I 2027. Dana hasil rights issue, setelah dikurangi biaya emisi, akan digunakan untuk memperkuat modal kerja, termasuk pembelian bahan baku dan peningkatan kegiatan produksi. Rencana ini masih tunduk pada persetujuan pemegang saham dan pernyataan efektif dari Otoritas Jasa Keuangan.",
+   "Di sisi lain, perseroan juga menyiapkan program pembelian kembali saham atau buyback sebanyak-banyaknya 10 persen dari modal ditempatkan dan disetor penuh per tanggal rapat umum pemegang saham luar biasa (RUPSLB), dengan anggaran maksimal Rp10 miliar. Buyback direncanakan berlangsung bertahap dalam waktu paling lama 12 bulan setelah RUPSLB menyetujui rencana tersebut."
+  ],
+  "fotoAdegan": "Factory workers welding and assembling metal automotive parts on an industrial production line, sparks flying, safety gear, Indonesia",
+  "takeaway": "Laporan ini condong positif bagi PART, karena pertumbuhan penjualan dan laba yang solid menunjukkan permintaan yang kuat sekaligus efisiensi operasional yang membaik, sementara rencana penggalangan dana lewat rights issue menunjukkan perseroan bersiap membiayai ekspansi lewat modal, bukan utang baru. Yang perlu dicermati, rights issue senilai maksimal Rp200 miliar akan menambah jumlah saham beredar, sehingga laba per saham, yaitu bagian laba yang jatuh ke tiap lembar saham, berpotensi terdilusi sebelum pertumbuhan laba mengejarnya, meski program buyback hingga Rp10 miliar bisa sedikit menahan efek itu dengan mengurangi kembali jumlah saham di pasar. Pos yang tersentuh dari dua rencana ini adalah ekuitas perseroan, yang akan bertambah dari dana rights issue, dan jumlah saham beredar, yang menentukan seberapa besar laba terbagi ke tiap pemegang saham. Yang perlu dipantau berikutnya adalah RUPSLB yang akan meminta persetujuan pemegang saham untuk kedua rencana ini, pernyataan efektif dari OJK atas rights issue, serta realisasi rights issue yang ditargetkan pada kuartal I 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "smma-direktur-utama-burhanuddin-abdullah-mundur",
+  "category": "Aksi Korporasi",
+  "title": "SMMA: Direktur Utama Burhanuddin Abdullah [Mundur]",
+  "deck": "Burhanuddin Abdullah mengundurkan diri dari kursi Direktur Utama SMMA, efektif setelah disetujui RUPS mendatang, tanpa alasan maupun pengganti yang disebutkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T16:36:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1ddd959114_07ac77a480.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMA",
+  "tags": [
+   "SMMA",
+   "Direktur Utama",
+   "pergantian direksi",
+   "Sinar Mas Multiartha"
+  ],
+  "body": [
+   "PT Sinar Mas Multiartha Tbk (SMMA) melaporkan pengunduran diri Burhanuddin Abdullah dari jabatan Direktur Utama, sebagaimana disampaikan dalam keterbukaan informasi bernomor 179/SMMA/IX/2026 tertanggal 25 September 2026. Perusahaan menegaskan pengunduran diri ini baru akan berlaku efektif setelah memperoleh persetujuan dalam Rapat Umum Pemegang Saham (RUPS) SMMA yang akan datang, sehingga sampai saat ini jabatan tersebut secara resmi belum kosong.",
+   "Surat kepada Otoritas Jasa Keuangan ditandatangani oleh Eric Buntoro selaku Wakil Direktur Utama, sedangkan keterbukaan informasi ke publik disampaikan oleh Felix selaku Corporate Secretary SMMA. Dalam dokumen itu, manajemen menyatakan pengunduran diri ini tidak berdampak terhadap kegiatan operasional, kondisi maupun proyeksi keuangan, aspek hukum, atau kelangsungan usaha perseroan. Dokumen tidak menyebutkan alasan pengunduran diri Burhanuddin Abdullah maupun nama calon penggantinya."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district viewed from the street in late afternoon light",
+  "takeaway": "Laporan ini netral bagi SMMA, karena perusahaan sendiri menegaskan tidak ada dampak operasional maupun keuangan dari pengunduran diri ini, dan dokumen tidak memberi petunjuk adanya masalah hukum atau kinerja di baliknya. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau arus kas, melainkan kepemimpinan perusahaan, sebab Direktur Utama adalah pengambil keputusan strategis tertinggi di jajaran direksi sehingga pergantiannya biasa dicermati pelaku pasar sebagai sinyal arah bisnis ke depan. Perlu dicatat, pengunduran diri ini belum final karena baru efektif setelah disetujui dalam Rapat Umum Pemegang Saham (RUPS), forum resmi tempat pemegang saham mengambil keputusan penting perusahaan. Yang perlu dipantau berikutnya adalah jadwal RUPS tersebut serta apakah SMMA akan mengumumkan nama pengganti Direktur Utama sebelum atau bersamaan dengan RUPS digelar.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kebutuhan-listrik-2030-tembus-800-twh-ruptl-direvisi",
   "category": "Energi",
   "title": "Kebutuhan Listrik 2030 Tembus 800 TWh, RUPTL [Direvisi]",
@@ -166,6 +454,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Ada dua perubahan konkret di sini: pemerintah mau menghitung ulang RUPTL karena proyeksi kebutuhan listrik 2030 tembus 700-800 TWh, jauh di atas rencana tambahan pembangkit 69,5 GW yang sekarang tercantum, dan pemerintah mendorong proyek panel surya sampai 100 GWp. Yang langsung kena dampak adalah PLN dan pengembang proyek listrik yang harus menyesuaikan rencana pembangunan pembangkit, serta pelaku industri yang butuh pasokan listrik stabil untuk ekspansi usahanya. Karena dorongan solar 100 GWp disebut bersamaan dengan desakan revisi RUPTL, arahnya bukan sekadar menambah kapasitas apa saja, melainkan mengubah komposisi pembangkit ke porsi energi surya yang lebih besar. Yang akan memastikan arah itu adalah isi revisi RUPTL final, yakni apakah tambahan kapasitas nantinya benar didominasi PLTS atau tetap bercampur dengan sumber lain, karena itu yang menentukan apakah target net zero emission 2060 bisa benar-benar dimajukan 10-15 tahun seperti disebut pemerintah.",
   "imageV": "mumivu0v"
+ },
+ {
+  "slug": "arko-nosu-hydro-teken-pembiayaan-rp690-6-m-dari-smi",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Nosu Hydro Teken [Pembiayaan] Rp690,6 M dari SMI",
+  "deck": "Anak usaha ARKO, PT Nosu Hydro, menandatangani perjanjian pembiayaan senilai Rp690,6 miliar dengan PT SMI untuk membangun PLTA Pongbembe 20 MW, tanpa perlu persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T16:28:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f22cac909c_aada76f399.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "pembiayaan infrastruktur",
+   "PLTA Pongbembe",
+   "SMI"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) melaporkan bahwa anak usahanya, PT Nosu Hydro, menandatangani Akta Perjanjian Pembiayaan Nomor 76 dengan PT Sarana Multi Infrastruktur (Persero) pada 25 September 2026. Akta dibuat di hadapan notaris Monica Kusumadevi di Jakarta. Nilai fasilitas pembiayaan yang disepakati mencapai Rp690,59 miliar, yang menurut dokumen setara sekitar US$38,79 juta (angka dolar ini dibaca dari hasil pindaian dokumen sehingga perlu dibaca hati hati). Dana ini akan dipakai Nosu Hydro untuk membangun Proyek Pembangkit Listrik Tenaga Air Pongbembe berkapasitas 20 MW.",
+   "Karena nilainya melebihi 20 persen dari ekuitas Perseroan berdasarkan laporan keuangan auditan per 31 Desember 2025 yang diperiksa Kantor Akuntan Publik Liana Ramon Xenia dan Rekan, transaksi ini tergolong Transaksi Material menurut POJK 17/2020. Namun ARKO menyatakan transaksi ini dikecualikan dari kewajiban memakai jasa penilai independen maupun meminta persetujuan Rapat Umum Pemegang Saham, karena sumber dananya adalah pinjaman langsung dari perusahaan pembiayaan infrastruktur, dalam hal ini SMI. Perseroan menyebut perjanjian ini berdampak positif bagi operasional, keuangan, dan kelangsungan usahanya.",
+   "Pengumuman ini terbit sepekan setelah ARKO sebelumnya, pada 23 September 2026, melaporkan anak usahanya mengamankan pinjaman senilai US$9,8 juta dari SMI. Dokumen resmi transaksi material kali ini menyebut nilai fasilitas pembiayaan yang jauh lebih besar, yakni maksimum US$38,79 juta, sehingga memberi gambaran skala pendanaan proyek Pongbembe yang lebih lengkap dibanding pengumuman sebelumnya."
+  ],
+  "fotoAdegan": "Workers inspecting pipes and turbine equipment at a small hydroelectric construction site in a forested river valley, overcast sky",
+  "takeaway": "Laporan ini condong positif bagi ARKO, karena dana Rp690,6 miliar ini mendanai pembangunan pembangkit listrik baru yang menambah kapasitas usaha, bukan pertanda tekanan keuangan Perseroan. Pos yang tersentuh adalah beban bunga dan arus kas anak usaha, sebab utang baru berarti Nosu Hydro wajib membayar cicilan pokok dan bunga secara rutin, yang akan menyedot kas sampai proyek pembangkit ini rampung dan mulai menghasilkan pendapatan. Transaksi ini melewati batas 20 persen ekuitas Perseroan sehingga secara aturan wajib disebut material, tetapi dikecualikan dari kewajiban memakai penilai independen dan meminta restu RUPS karena dananya berasal langsung dari perusahaan pembiayaan infrastruktur milik negara. Yang perlu dipantau selanjutnya adalah realisasi pencairan dana serta progres pembangunan PLTA Pongbembe 20 MW, dan laporan keuangan mendatang yang akan memperlihatkan dampak utang baru ini terhadap neraca anak usaha.",
+  "sentimen": "positif"
  },
  {
   "slug": "zp-sesuaikan-harga-pelaksanaan-waran-untr-usai-dividen-interim",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tpia-konstruksi-ca-edc-capai-80-masuk-tahap-pemasangan-alat",
+  "category": "Aksi Korporasi",
+  "title": "TPIA: Konstruksi CA-EDC Capai [80%], Masuk Tahap Pemasangan Alat",
+  "deck": "Chandra Asri Pacific melaporkan progres pembangunan fasilitas CA-EDC senilai lebih dari US$800 juta mencapai 80 persen, memasuki tahap pemasangan peralatan utama menjelang target operasional 2027.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "CA-EDC",
+   "petrokimia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/06e78b6b0f_cdbd29422f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "drma-komisaris-beli-80-000-saham-seharga-rp970-lembar",
+  "category": "Aksi Korporasi",
+  "title": "DRMA: Komisaris Beli [80.000] Saham Seharga Rp970/Lembar",
+  "deck": "Komisaris DRMA membeli 80.000 saham seharga Rp970 pada 23 September 2026, menambah kepemilikan menjadi 79,65 juta saham dengan hak suara tetap 1,69 persen.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-2648-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "csis-raup-rp177-m-dari-rights-issue-laba-semester-i-turun",
   "category": "Aksi Korporasi",
   "title": "CSIS Raup Rp177 M dari [Rights Issue], Laba Semester I Turun",
@@ -6471,37 +6503,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468553-rupiah-melemah-ke-rp17879-per-dolar-as-seiring-wait-and-see-investor-jelang-rdg-bi"
- },
- {
-  "slug": "truk-pemegang-saham-baru-kuasai-15-hak-suara-guna-timur-raya",
-  "category": "Aksi Korporasi",
-  "title": "TRUK: Pemegang Saham Baru Kuasai [15%] Hak Suara Guna Timur Raya",
-  "deck": "PT Pukul Rata Kanan membeli 65,25 juta saham TRUK senilai Rp27,93 miliar lewat repurchase agreement, hak suaranya melompat dari 0 menjadi 15 persen.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUK",
-   "Guna Timur Raya",
-   "kepemilikan saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-1723-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fast-gelar-rupslb-14-oktober-bahas-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "FAST Gelar RUPSLB 14 Oktober, Bahas [Perubahan] Direksi",
-  "deck": "PT Fast Food Indonesia Tbk (FAST) memanggil pemegang saham untuk RUPSLB 14 Oktober 2026, membahas perubahan susunan direksi dan penyesuaian anggaran dasar.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FAST",
-   "RUPSLB",
-   "Direksi",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0441faf775_c005706033.pdf",
-  "sourceLabel": "IDX"
  }
 ];

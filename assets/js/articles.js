@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tpia-konstruksi-ca-edc-capai-80-masuk-tahap-pemasangan-alat",
+  "category": "Aksi Korporasi",
+  "title": "TPIA: Konstruksi CA-EDC Capai [80%], Masuk Tahap Pemasangan Alat",
+  "deck": "Chandra Asri Pacific melaporkan progres pembangunan fasilitas CA-EDC senilai lebih dari US$800 juta mencapai 80 persen, memasuki tahap pemasangan peralatan utama menjelang target operasional 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T09:08:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/06e78b6b0f_cdbd29422f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "CA-EDC",
+   "petrokimia"
+  ],
+  "body": [
+   "PT Chandra Asri Pacific Tbk (TPIA) melaporkan bahwa pembangunan fasilitas Chlor Alkali dan Ethylene Dichloride (CA-EDC) oleh anak usahanya, PT Chandra Asri Alkali (CAA), telah memasuki tahap pemasangan peralatan utama. Hingga September 2026, proyek dengan nilai investasi lebih dari US$800 juta ini telah mencapai sekitar 80 persen dan ditargetkan siap beroperasi pada 2027. Tahap ini menandai peralihan dari pembangunan struktur dan infrastruktur pendukung menuju pemasangan komponen inti yang akan menjalankan proses produksi, seperti tangki proses, alat penukar panas, pompa, kompresor, dan menara absorpsi. Pembangunan infrastruktur penunjang seperti dermaga, jembatan dermaga, dan fasilitas penyimpanan juga terus berjalan untuk mendukung logistik dan distribusi produk begitu fasilitas beroperasi.",
+   "Presiden Direktur dan CEO Chandra Asri Group, Erwin Ciputra, mengatakan pemasangan peralatan utama ini menjadi tahapan penting menuju kesiapan operasional perusahaan, dengan fokus menjaga standar keselamatan, kualitas, dan keandalan fasilitas. Setelah beroperasi, fasilitas CA-EDC akan memiliki kapasitas produksi hingga 827 ribu ton soda kaustik cair dan 500 ribu ton EDC per tahun. Soda kaustik dipakai untuk pengolahan air, pembuatan sabun dan deterjen, serta pengolahan mineral, sementara EDC menjadi bahan baku utama dalam rantai produksi PVC.",
+   "Perusahaan memproyeksikan produksi soda kaustik dari fasilitas ini dapat menggantikan impor hingga sekitar 827 ribu ton per tahun, setara nilai sekitar US$293 juta per tahun. Sementara itu, produksi EDC yang diarahkan untuk pasar ekspor berpotensi menghasilkan devisa hingga sekitar US$300 juta per tahun.",
+   "Pembangunan proyek ini telah menyerap sekitar 3.500 pekerja konstruksi, dan setelah beroperasi penuh diperkirakan membuka sekitar 250 lapangan kerja baru. Di sekitar lokasi proyek, sebanyak 34 usaha mikro, kecil, dan menengah dari Kelurahan Warnasari dan Samangraya turut memasok kebutuhan makanan dan minuman bagi pekerja melalui fasilitas kantin proyek."
+  ],
+  "fotoAdegan": "Construction workers in hard hats installing large steel process vessels and pipework at a petrochemical site, crane overhead, hazy daylight.",
+  "takeaway": "Laporan ini condong positif karena menunjukkan proyek senilai lebih dari US$800 juta ini berjalan sesuai rencana, sudah mencapai 80 persen dan bergerak ke tahap pemasangan peralatan utama menjelang target operasional 2027. Pos yang tersentuh di sini adalah arus kas, yaitu aliran uang masuk dan keluar dari kegiatan usaha, karena dana investasi sebesar ini masih berstatus belanja modal yang keluar sebelum pabrik menghasilkan pendapatan. Begitu beroperasi, fasilitas ini berpotensi menambah pasokan bahan baku dalam negeri dan devisa dari ekspor EDC, yang bisa memperkuat pendapatan perusahaan ke depan meski dampaknya belum tercermin di laporan keuangan saat ini. Yang perlu dipantau selanjutnya adalah apakah target kesiapan operasional pada 2027 tetap terjaga, sebab proyek konstruksi sebesar ini rawan meleset dari jadwal kalau ada kendala pasokan peralatan atau instalasi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "drma-komisaris-beli-80-000-saham-seharga-rp970-lembar",
+  "category": "Aksi Korporasi",
+  "title": "DRMA: Komisaris Beli [80.000] Saham Seharga Rp970/Lembar",
+  "deck": "Komisaris DRMA membeli 80.000 saham seharga Rp970 pada 23 September 2026, menambah kepemilikan menjadi 79,65 juta saham dengan hak suara tetap 1,69 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T08:49:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-2648-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DRMA",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Noel Aelyo Laras Kusuma Negara, anggota Dewan Komisaris PT Dharma Polimetal Tbk (DRMA), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 80.000 saham DRMA pada 23 September 2026 dengan harga Rp970 per saham secara tidak langsung. Tujuan transaksi yang tercatat dalam laporan adalah investasi, dengan nilai transaksi sekitar Rp77,6 juta. Dengan pembelian ini, kepemilikannya bertambah dari 79.570.000 saham menjadi 79.650.000 saham.",
+   "Kenaikan 80.000 saham tersebut hanya menambah sekitar 0,1 persen dari jumlah saham yang sebelumnya sudah dimiliki Noel, sehingga hak suaranya di DRMA tidak berubah dan tetap berada di angka 1,69 persen. Laporan ini disampaikan sebagai bentuk kewajiban keterbukaan sesuai Peraturan OJK Nomor 4/2024 tentang laporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka oleh anggota direksi dan dewan komisaris."
+  ],
+  "fotoAdegan": "Workers on an automotive parts factory floor inspecting stamped metal components near industrial machinery, daytime lighting",
+  "takeaway": "Laporan ini netral bagi emiten karena ukuran pembeliannya terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran, hanya menambah sekitar 0,1 persen dari kepemilikan sang komisaris dan hak suaranya tetap di 1,69 persen. Yang tersentuh di sini hanya komposisi pemegang saham, bukan jumlah saham beredar perusahaan, karena transaksi terjadi di pasar sekunder antar pemegang saham, bukan penerbitan saham baru oleh DRMA. Pelaku pasar biasanya memperhatikan pembelian oleh direksi atau komisaris sebagai tanda bahwa orang dalam percaya pada prospek perusahaan, tetapi nilai sekecil ini sulit ditafsirkan sebagai pernyataan sikap yang kuat. Dokumen ini tidak menyebut agenda RUPS atau tenggat lain yang mengikutinya, sehingga yang perlu dicermati selanjutnya adalah apakah komisaris ini atau insider lain menambah kepemilikan dalam jumlah lebih besar pada laporan-laporan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "csis-raup-rp177-m-dari-rights-issue-laba-semester-i-turun",
   "category": "Aksi Korporasi",
   "title": "CSIS Raup Rp177 M dari [Rights Issue], Laba Semester I Turun",

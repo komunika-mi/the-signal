@@ -3,6 +3,292 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "zp-sesuaikan-harga-pelaksanaan-waran-untr-usai-dividen-interim",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Harga Pelaksanaan Waran UNTR usai [Dividen] Interim",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A menyusul dividen interim UNTR Rp430 per saham, efektif awal Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T16:00:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0358b98923_c9ecfd4084.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "UNTR",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, penerbit waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A yang mengacu pada saham PT United Tractors Tbk (UNTR), mengumumkan penyesuaian syarat dan ketentuan kedua waran tersebut. Penyesuaian ini dipicu oleh pembagian dividen interim UNTR untuk tahun buku 2026 sebesar Rp430 per saham, sesuai pengumuman UNTR pada 28 September 2026. Dasar penyesuaiannya adalah Bagian 3.8 Prospektus waran tertanggal 11 April 2025 serta Term Sheet masing-masing seri.",
+   "Harga pelaksanaan baru dihitung dengan mengalikan harga pelaksanaan lama dengan selisih harga terakhir UNTR pada cum-date dikurangi Rp430, lalu dibagi harga terakhir UNTR itu sendiri. Rasio konversi baru dihitung dengan rumus yang sama, dikalikan rasio konversi lama. Penyesuaian ini berlaku efektif pada tanggal ex-dividen, yaitu 7 Oktober 2026 untuk transaksi di Pasar Reguler dan Pasar Negosiasi, serta 9 Oktober 2026 untuk Pasar Tunai.",
+   "Maybank Sekuritas juga mencantumkan klausul bahwa penyesuaian ini bisa saja tidak dilakukan apabila, berdasarkan kebijaksanaan penerbit sendiri dan tanpa kewajiban apa pun kepada pemegang waran terstruktur, penerbit menilai penyesuaian tidak diperlukan."
+  ],
+  "fotoAdegan": "Rows of large yellow mining and construction haul trucks parked in an open equipment dealership yard under an overcast sky",
+  "takeaway": "Laporan ini netral bagi pasar, karena isinya adalah penerapan rumus baku yang sudah diatur sejak penerbitan waran, bukan keputusan baru dari UNTR maupun Maybank Sekuritas soal kinerja perusahaan. Yang tersentuh di sini bukan laporan keuangan emiten, melainkan mekanisme dua produk turunan, waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A, yaitu surat berharga yang memberi pemegangnya hak membeli saham UNTR pada harga dan rasio tertentu. Penyesuaian harga pelaksanaan dan rasio konversi ini perlu dilakukan sebab harga saham UNTR biasanya turun sekitar nilai dividen begitu tanggal ex-dividen tiba, sehingga tanpa penyesuaian nilai waran bisa tergerus begitu saja. Yang perlu dipantau pemegang waran adalah dua tanggal ex-dividen tersebut, 7 Oktober 2026 untuk Pasar Reguler dan Negosiasi serta 9 Oktober 2026 untuk Pasar Tunai, sekaligus apakah Maybank Sekuritas benar menjalankan rumus ini atau memakai klausul diskresinya untuk tidak menyesuaikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rlco-direksi-lepas-40-juta-saham-lagi-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Lepas [40 Juta] Saham Lagi Lewat Repo",
+  "deck": "Samuel Sekuritas Indonesia melepas 40,07 juta saham RLCO seharga Rp4.290 lewat pencairan repo, hak suaranya turun dari 6,57% jadi 5,29%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T15:59:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-2226-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "repo",
+   "direksi"
+  ],
+  "body": [
+   "PT Abadi Lestari Indonesia Tbk (RLCO) mendapat laporan keterbukaan informasi dari Samuel Sekuritas Indonesia, yang menjabat direksi perusahaan, terkait perubahan kepemilikan sahamnya. Dalam laporan bertanggal 29 September 2026, Samuel Sekuritas Indonesia menjual 40.071.100 saham RLCO pada harga Rp4.290 per saham lewat mekanisme pencairan repurchase agreement (repo), yakni pelepasan saham yang sebelumnya dijadikan jaminan dalam skema pembiayaan repo.",
+   "Dengan transaksi ini, kepemilikan Samuel Sekuritas Indonesia di RLCO turun dari 205.334.300 lembar saham menjadi 165.263.200 lembar saham, setara sekitar 19,5 persen dari total kepemilikannya sebelum transaksi. Hak suaranya di perusahaan pun berkurang dari 6,57 persen menjadi 5,29 persen. Transaksi ini tercatat sebagai penjualan langsung atas nama pelapor sendiri, dengan status kepemilikan langsung.",
+   "Laporan ini melengkapi rangkaian keterbukaan informasi Samuel Sekuritas Indonesia di RLCO dalam sepekan terakhir. Pada 23 September 2026, ia sempat melaporkan pelepasan 178 juta saham lewat repo yang menekan hak suaranya dari 9,28 persen menjadi 3,58 persen, serta penambahan sekitar 40 juta saham lewat repo substitusi pada tanggal yang sama."
+  ],
+  "fotoAdegan": "Financial professionals conferring at a brokerage office desk in Jakarta, blurred paperwork, late afternoon light through tall windows",
+  "takeaway": "Laporan ini condong negatif bagi RLCO, karena hak suara Samuel Sekuritas Indonesia selaku direksi turun dari 6,57 persen menjadi 5,29 persen dan transaksi ini melepas sekitar seperlima dari kepemilikannya sendiri, bagian dari rangkaian pelepasan saham lewat repo yang sudah beberapa kali terjadi dalam sepekan terakhir. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara direksi, bukan kas atau laba perusahaan secara langsung, tapi pelaku pasar biasanya mencermati porsi kepemilikan insider karena penurunannya kerap dibaca sebagai berkurangnya keterikatan direksi pada saham perusahaannya sendiri, meski transaksi lewat mekanisme repurchase agreement bisa juga sekadar penyelesaian kewajiban pembiayaan yang sudah jatuh tempo. Yang perlu dipantau berikutnya adalah apakah Samuel Sekuritas Indonesia akan kembali melaporkan perubahan kepemilikan di RLCO dalam waktu dekat, mengingat pola pelepasan dan penambahan saham lewat repo ini sudah berulang beberapa kali sejak 23 September 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "baby-tuntaskan-dana-rights-issue-ke-akuisisi-emway-globalindo",
+  "category": "Aksi Korporasi",
+  "title": "BABY Tuntaskan Dana Rights Issue ke Akuisisi [Emway Globalindo]",
+  "deck": "BABY memastikan seluruh dana rights issue Rp138,46 miliar sudah terpakai penuh untuk mengakuisisi Emway Globalindo dan modal kerja Adidas Kids-Puma Kids.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T15:58:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/de96cec396_e56782a4be.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BABY",
+  "tags": [
+   "BABY",
+   "rights issue",
+   "akuisisi Emway Globalindo",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Multitrend Indo Tbk (BABY) mengoreksi laporan realisasi penggunaan dana hasil rights issue yang sebelumnya disampaikan pada 14 Juli 2026. Dalam laporan terbaru bertanggal 29 September 2026, perseroan memastikan seluruh dana hasil penerbitan saham baru bertajuk BABY-R yang efektif sejak 16 April 2026 telah terpakai penuh. Total dana kotor yang terkumpul dari rights issue itu mencapai Rp140,77 miliar, setelah dipotong biaya penawaran umum sebesar Rp2,31 miliar, dana bersih yang bisa dipakai perseroan menjadi Rp138,46 miliar, dan seluruhnya sudah habis terpakai per posisi 30 Juni 2026 sehingga tidak menyisakan dana yang mengendap di rekening penampungan.",
+   "Dari dana bersih tersebut, porsi terbesar yakni Rp130,00 miliar atau 93,89 persen dipakai untuk mengambil alih saham PT Emway Globalindo dari Blooming Years Pte Ltd. Pembayarannya dilakukan lewat skema inbreng, yaitu penyertaan saham sebagai setoran modal, bukan transfer uang tunai biasa. Sisanya, Rp8,46 miliar atau 6,11 persen, dipakai sebagai modal kerja untuk membeli persediaan produk Adidas Kids dan Puma Kids. Perseroan menyatakan realisasi ini sama persis dengan rencana yang tertulis di prospektus tanpa ada penyimpangan.",
+   "Perseroan juga merinci komposisi biaya penawaran umum senilai Rp2,31 miliar tersebut, yang terdiri dari biaya jasa profesi penunjang pasar modal Rp1,08 miliar, biaya jasa penjaminan emisi (underwriting fee) Rp750 juta, biaya jasa konsultasi keuangan Rp250 juta, biaya lain-lain yang bisa diatribusikan langsung sebagai biaya emisi Rp199,87 juta, dan biaya jasa lembaga penunjang pasar modal Rp26 juta. Laporan ditandatangani Direktur Utama Niraj Jain dan disampaikan oleh Corporate Secretary sekaligus Legal Manager Nauli Masitha Dewi, sebagai pemenuhan Peraturan OJK Nomor 40 Tahun 2025 dan menindaklanjuti surat OJK bernomor S-2442/PM.221/2026 tanggal 23 September 2026."
+  ],
+  "fotoAdegan": "Warehouse workers arranging stacked boxes of children's shoes and clothing on tall shelves under bright industrial lighting",
+  "takeaway": "Laporan ini condong netral bagi BABY, sebab isinya hanya mengonfirmasi bahwa seluruh dana rights issue sudah terpakai persis sesuai rencana di prospektus, tanpa penyimpangan atau sisa dana yang jadi tanda tanya. Yang tersentuh adalah pos ekuitas dan aset perseroan, karena pengambilalihan PT Emway Globalindo dibayar lewat inbreng, yaitu setoran saham sebagai modal, yang langsung menambah kepemilikan usaha baru tanpa keluar uang tunai. Dari sisi arus kas, perseroan tidak lagi punya dana rights issue yang menganggur karena semuanya sudah terpakai, sementara rights issue yang mendasari laporan ini sejak April lalu sudah menambah jumlah saham beredar, sehingga laba bersih ke depan dibagi ke basis saham yang lebih besar. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan memperlihatkan apakah PT Emway Globalindo dan lini produk Adidas Kids serta Puma Kids mulai menyumbang pendapatan bagi BABY.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smle-gelar-public-expose-soal-akuisisi-sinar-aroma-sentosa",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Gelar Public Expose Soal [Akuisisi] Sinar Aroma Sentosa",
+  "deck": "SMLE akan memaparkan rencana pengalihan saham anak usahanya, PT Sinar Aroma Sentosa, kepada DENICO FOOD Ingredients asal Denmark, dalam public expose 13 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T15:36:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a8070032a8_0a99c39149.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMLE",
+  "tags": [
+   "SMLE",
+   "akuisisi",
+   "Sinar Aroma Sentosa",
+   "public expose"
+  ],
+  "body": [
+   "PT Sinergi Multi Lestarindo Tbk (SMLE) akan menyelenggarakan Public Expose Insidentil secara daring melalui Zoom Webinar pada Selasa, 13 Oktober 2026, pukul 09.00 sampai 10.00 WIB. Agenda utamanya adalah rencana transaksi akuisisi saham pada entitas anak perseroan, PT Sinar Aroma Sentosa, oleh DENICO FOOD Ingredients, perusahaan yang didirikan berdasarkan hukum Denmark. Berdasarkan penelaahan SMLE, pembeli tersebut bukan pihak yang terafiliasi dengan perseroan.",
+   "Dalam paparan itu, manajemen akan menjelaskan latar belakang dan tujuan rencana pengalihan saham anak usaha ini, rincian rencana transaksinya, serta status independensi para pihak, termasuk hasil penelaahan ada tidaknya hubungan afiliasi atau benturan kepentingan antara SMLE, jajaran direksi dan komisaris, pemegang saham pengendali, entitas anak, dan pihak pembeli. Materi lain yang akan disampaikan mencakup dampak transaksi terhadap struktur kepemilikan, laporan keuangan, kegiatan usaha, pengendalian atas entitas anak, serta kepentingan pemegang saham perseroan, di samping aspek hukum dan kepatuhan atas ketentuan pasar modal.",
+   "Sesuai aturan Bursa Efek Indonesia, materi paparan akan dipublikasikan lewat situs IDX Public Expose Live dan situs resmi SMLE paling lambat tiga hari sebelum acara, atau sekitar 10 Oktober 2026, sementara hasil lengkap Public Expose wajib disampaikan perseroan ke bursa paling lambat 16 Oktober 2026. Surat pemberitahuan rencana ini ditandatangani Corporate Secretary SMLE, Arry Wahyu Riansyah, pada 29 September 2026."
+  ],
+  "fotoAdegan": "Technicians checking stainless steel blending tanks inside a food flavor and fragrance production plant, pipes overhead",
+  "takeaway": "Laporan ini netral bagi SMLE untuk saat ini, karena yang baru diumumkan adalah jadwal paparan publik, bukan besaran atau nilai transaksi pelepasan saham anak usahanya. Yang tersentuh adalah pengendalian atas entitas anak dan struktur kepemilikan, yakni apakah SMLE masih memegang kendali di Sinar Aroma Sentosa setelah transaksi, sekaligus laporan keuangan konsolidasi, sebab kalau anak usaha ini lepas dari SMLE, aset dan pendapatannya tidak lagi tercatat dalam laporan keuangan perseroan. Yang perlu dipantau adalah materi lengkap transaksi yang wajib dipublikasikan paling lambat 10 Oktober 2026, serta hasil resmi Public Expose yang disampaikan ke bursa paling lambat 16 Oktober 2026, karena di situ baru akan terlihat porsi saham yang dilepas dan nilai transaksinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bexi-siapkan-dana-rp112-miliar-lunasi-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BEXI Siapkan Dana [Rp112 Miliar] Lunasi Obligasi Jatuh Tempo",
+  "deck": "Indonesia Eximbank (BEXI) menyatakan sudah menyiapkan dana Rp112 miliar untuk melunasi pokok Obligasi Berkelanjutan IV Tahap VII 2019 Seri D yang jatuh tempo 29 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T15:34:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0dec349fe5_35c7742f22.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEXI",
+  "tags": [
+   "BEXI",
+   "Indonesia Eximbank",
+   "obligasi",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Indonesia Eximbank, emiten obligasi dengan kode BEXI, menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia terkait kesiapannya membayar pokok Obligasi Berkelanjutan Indonesia Eximbank IV Tahap VII Tahun 2019 Seri D dengan kode BEXI04DCN7. Obligasi ini jatuh tempo pada 29 Oktober 2026 dengan nilai pokok Rp112 miliar. Dalam surat bertanggal 29 September 2026 itu, perusahaan menegaskan dana sejumlah tersebut sudah disediakan penuh sesuai jumlah pokok yang akan jatuh tempo.",
+   "Menurut penjelasan resmi, dana pembayaran tersebut ditempatkan pada instrumen keuangan yang likuid, di antaranya berupa penempatan pada bank, sehingga bisa langsung dicairkan saat jatuh tempo. Laporan ini disampaikan untuk memenuhi kewajiban sesuai Surat Keputusan Direksi PT Bursa Efek Indonesia nomor Kep-00087/BEI/12-2025 tanggal 12 Desember 2025 tentang Peraturan Nomor I-E mengenai kewajiban penyampaian informasi jelang jatuh tempo obligasi. Indonesia Eximbank menyatakan bahwa peristiwa ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan.",
+   "Surat keterbukaan informasi ini ditandatangani oleh Dyza Rovina selaku Corporate Secretary Indonesia Eximbank. Salinan surat turut ditembuskan kepada Kepala Eksekutif Pengawas Pasar Modal Otoritas Jasa Keuangan dan Vice President Capital Market Services PT Bank Mandiri (Persero) Tbk selaku wali amanat obligasi tersebut."
+  ],
+  "fotoAdegan": "Modern glass office tower in Jakarta's Sudirman business district reflecting late afternoon light, busy street traffic below",
+  "takeaway": "Laporan ini netral bagi Indonesia Eximbank karena isinya konfirmasi rutin bahwa dana pembayaran utang sudah siap, bukan kabar baru soal perbaikan atau perburukan kondisi keuangan. Yang tersentuh di sini adalah pos arus kas dan likuiditas, yaitu ketersediaan uang tunai atau setara tunai yang bisa segera dipakai. Pasar memperhatikan hal ini karena kegagalan menyiapkan dana tepat waktu untuk membayar utang jatuh tempo bisa menjadi tanda gangguan keuangan serius pada lembaga pembiayaan seperti Eximbank. Yang perlu dipantau selanjutnya adalah realisasi pembayaran itu sendiri pada tanggal jatuh tempo, yaitu 29 Oktober 2026, untuk memastikan janji dalam surat ini benar-benar dieksekusi tepat waktu dan tepat jumlah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "scnp-cetak-laba-usaha-turnaround-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "SCNP Cetak Laba Usaha [Turnaround] Semester I 2026",
+  "deck": "Pendapatan SCNP naik 41,7% jadi Rp156,58 miliar pada semester I 2026, mengantarkan perseroan meraih laba usaha positif Rp6,74 miliar dan laba bersih Rp12,55 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T15:33:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fc538e9dfa_d81f9d8639.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SCNP",
+  "tags": [
+   "SCNP",
+   "kinerja keuangan",
+   "manufaktur elektronik",
+   "Kemendag"
+  ],
+  "body": [
+   "PT Selaras Citra Nusantara Perkasa Tbk (SCNP) melaporkan pendapatan usaha semester I 2026 naik 41,7% menjadi Rp156,58 miliar. Seiring efisiensi operasional yang membaik, perseroan mencatat laba usaha positif Rp6,74 miliar, berbalik dari kondisi sebelumnya. Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp12,55 miliar. Laporan keuangan tidak diaudit untuk periode yang berakhir 30 Juni 2026 ini sebenarnya telah disampaikan perseroan pada Juli 2026, dan keterbukaan informasi tanggal 29 September ini merupakan penegasan kembali sekaligus respons atas survei media.",
+   "Perseroan menyebut peningkatan pendapatan dan laba usaha itu turut memperkuat arus kas, likuiditas, dan struktur permodalan, tanpa ada dampak hukum negatif. SCNP juga tengah merampungkan fasilitas pabrik baru dengan tingkat penyelesaian lebih dari 83%, yang disiapkan untuk mengejar target produksi tahun 2026. Pembangunan fasilitas ini melanjutkan rencana ekspansi senilai Rp75 miliar yang sebelumnya diberitakan Kontan pada 23 September 2026.",
+   "Pada hari yang sama, SCNP menerima kunjungan pejabat Kementerian Perdagangan yang dipimpin Direktur Pemberdayaan Konsumen Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga (Ditjen PKTN), Immanuel Tarigan Sibero, ke pabrik perseroan di Cileungsi, Jawa Barat. Kunjungan itu meninjau kesiapan, kapasitas operasional, dan kepatuhan SCNP sebagai manufaktur lokal terhadap standar perlindungan konsumen dan keamanan produk, termasuk pemenuhan Standar Nasional Indonesia (SNI) dan penyerapan tenaga kerja lokal di lini produksinya."
+  ],
+  "fotoAdegan": "Factory workers assembling small household electronic appliances along an industrial production line under bright fluorescent lighting in Indonesia.",
+  "takeaway": "Laporan ini condong positif karena SCNP membalik kinerja operasionalnya dari rugi menjadi laba usaha Rp6,74 miliar dan mencatat laba bersih Rp12,55 miliar, ditopang kenaikan pendapatan 41,7% menjadi Rp156,58 miliar. Pos yang tersentuh adalah laba usaha, yakni selisih pendapatan dikurangi seluruh biaya operasional sebelum bunga dan pajak, serta laba bersih yang jadi dasar hitungan laba per saham. Pelaku pasar memperhatikan pos ini karena turnaround dari rugi ke untung biasanya menandakan efisiensi operasional yang membaik, bukan sekadar penjualan yang naik. Yang perlu dipantau berikutnya adalah penyelesaian pabrik baru di Cileungsi yang saat ini baru rampung lebih dari 83%, karena fasilitas ini jadi tumpuan pencapaian target produksi 2026, serta terbitnya laporan keuangan auditan semester I 2026 yang akan mengonfirmasi ulang angka-angka tidak diaudit ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bksl-direksi-tambah-saham-988-juta-lembar-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Direksi Tambah Saham 988 Juta Lembar via [Repo]",
+  "deck": "Samuel Sekuritas Indonesia menambah 988,14 juta saham Sentul City lewat perjanjian repo pada 29 September 2026, hak suara naik dari 5,00% jadi 5,59%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T15:25:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-1682-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BKSL",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "repo saham",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Samuel Sekuritas Indonesia, yang tercatat menduduki posisi direksi Sentul City Tbk (BKSL), melaporkan pembelian 988.141.000 saham perseroan pada 29 September 2026. Transaksi dilakukan lewat skema perjanjian pembelian kembali atau repurchase agreement, dengan harga Rp65 per saham dan tujuan yang tertulis sebagai penempatan repo, sesuai laporan keterbukaan kepemilikan saham yang disampaikan ke Otoritas Jasa Keuangan.",
+   "Dengan tambahan ini, jumlah saham yang dikuasai pelapor naik dari 8.384.068.400 lembar menjadi 9.372.209.400 lembar, bertambah sekitar 11,79 persen dari kepemilikan sebelumnya. Hak suara pelapor di BKSL turut naik dari 5,00 persen menjadi 5,59 persen. Berdasarkan harga dan jumlah saham yang tertulis di laporan, nilai transaksi ini diperkirakan sekitar Rp64,2 miliar.",
+   "Laporan ini muncul sepekan setelah dua laporan serupa mencatat pelepasan saham direksi Sentul City lewat skema repo yang sama, yaitu laporan 28 September 2026 yang menyebut hak suara pelapor turun ke 5,00 persen dan laporan 23 September 2026 yang mencatat pengurangan 2,7 miliar lembar saham. Pembelian kali ini mengembalikan sebagian saham yang sempat dilepas dalam rangkaian repo tersebut, meski secara akumulatif jumlah yang dibeli kembali masih lebih kecil dari jumlah yang dilepas pada dua laporan sebelumnya."
+  ],
+  "fotoAdegan": "Aerial view of a landscaped residential township with rooftops, roads and green spaces near Bogor hills, late afternoon light",
+  "takeaway": "Laporan ini condong netral bagi Sentul City, sebab kenaikan kepemilikan 988,14 juta saham ini berlangsung lewat perjanjian pembelian kembali atau repo, yaitu transaksi yang lazim dipakai untuk pendanaan jangka pendek dengan jaminan saham, bukan pembelian di pasar terbuka yang biasanya dibaca sebagai keyakinan langsung pada prospek perusahaan. Transaksi ini tidak mengubah jumlah saham beredar Sentul City maupun laba per saham, karena yang berpindah hanya kepemilikan di antara pihak yang sudah ada; yang bergerak adalah hak suara pelapor, yaitu porsi suara dalam RUPS, yang naik dari 5,00 persen ke 5,59 persen. Pergerakan ini juga bagian dari rangkaian repo yang sama dengan dua laporan pekan lalu, dan total saham yang dilepas lewat repo sejauh ini masih lebih besar dari yang dibeli kembali hari ini, sehingga posisi bersih pelapor tetap menyusut dibanding sebelum rangkaian ini dimulai. Yang perlu dipantau adalah apakah masih ada laporan susulan dari pihak yang sama dalam skema repo ini, karena pola jual beli bolak-balik semacam ini biasanya berlanjut sampai posisi jaminannya diselesaikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "raam-direksi-tambah-saham-487-000-lembar-rp83-6-juta",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Direksi [Tambah] Saham 487.000 Lembar, Rp83,6 Juta",
+  "deck": "Ram Jethmal Punjabi, direksi Tripar Multivision Plus, membeli saham RAAM lewat 10 transaksi kecil pada 28 September 2026. Hak suaranya naik tipis ke 68,84 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T15:19:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-0060-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAAM",
+  "tags": [
+   "RAAM",
+   "Tripar Multivision Plus",
+   "kepemilikan saham",
+   "transaksi direksi"
+  ],
+  "body": [
+   "Ram Jethmal Punjabi, anggota direksi PT Tripar Multivision Plus Tbk (RAAM), melaporkan penambahan kepemilikan saham perusahaan kepada Otoritas Jasa Keuangan. Berdasarkan laporan bertanggal 29 September 2026, jumlah sahamnya bertambah dari 4.690.180.282 lembar menjadi 4.690.667.282 lembar, atau naik 487.000 lembar. Hak suaranya di RAAM ikut naik tipis dari 68,83 persen menjadi 68,84 persen.",
+   "Penambahan ini berasal dari 10 transaksi pembelian tidak langsung yang seluruhnya dilakukan pada 28 September 2026, dengan harga berkisar Rp165 hingga Rp175 per saham. Jumlah per transaksi bervariasi, mulai dari 10.000 lembar hingga yang terbesar 255.100 lembar seharga Rp173 per saham. Total nilai seluruh pembelian tersebut sekitar Rp83,6 juta, dan seluruhnya dicatat dengan tujuan investasi.",
+   "Dengan tambahan ini, Punjabi tetap menjadi pemegang saham mayoritas RAAM dengan hak suara di atas 68 persen. Laporan ini merupakan yang ketiga dari direksi tersebut dalam sepekan terakhir, setelah laporan serupa pada 25 dan 28 September 2026 yang juga mencatat penambahan saham dalam jumlah kecil."
+  ],
+  "fotoAdegan": "Row of brokerage clerks reviewing paper trade slips at a busy Jakarta trading floor, blurred monitors in the background, morning light",
+  "takeaway": "Laporan ini netral bagi RAAM, sebab 487.000 lembar yang ditambah cuma setara 0,0104 persen dari saham yang sudah dikuasai Punjabi, dan hak suaranya nyaris tidak bergeser dari 68,83 menjadi 68,84 persen. Transaksi ini terjadi di pasar sekunder antar pemegang saham, bukan penerbitan saham baru, jadi jumlah saham beredar RAAM tidak berubah dan laba per saham perusahaan tidak terpengaruh; yang bergerak hanya komposisi kepemilikan di tangan direksi tersebut. Yang perlu dipantau adalah polanya: ini laporan ketiga pembelian kecil oleh direksi yang sama dalam sepekan, setelah laporan 25 dan 28 September 2026, sehingga layak dilihat apakah akumulasi bertahap ini berlanjut dan seberapa jauh mendekati ambang yang mewajibkan keterbukaan tambahan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vktr-pastikan-rights-issue-rp3-triliun-dilusi-capai-25-53",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Pastikan Rights Issue Rp3 Triliun, [Dilusi] Capai 25,53%",
+  "deck": "OJK menyatakan efektif rights issue VKTR senilai hingga Rp3 triliun. BCI dan BIS berkomitmen jadi pembeli siaga hingga Rp2,27 triliun jika publik tak menyerap penuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T15:16:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d08abf236a_42ff60d0a3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VKTR",
+  "tags": [
+   "VKTR",
+   "rights issue",
+   "PMHMETD I",
+   "OJK"
+  ],
+  "body": [
+   "PT VKTR Teknologi Mobilitas Tbk mengumumkan bahwa Otoritas Jasa Keuangan telah menerbitkan pernyataan efektif atas Penambahan Modal dengan Memberikan Hak Memesan Efek Terlebih Dahulu (PMHMETD) I lewat surat No. S-121/D.04/2026 tanggal 28 September 2026. Perseroan menawarkan sebanyak-banyaknya 15 miliar saham baru bernilai nominal Rp10 dengan harga pelaksanaan Rp200 per saham, setara hingga 25,53 persen dari modal disetor setelah aksi ini, sehingga nilai total penawaran mencapai sebanyak-banyaknya Rp3 triliun. Setiap pemegang 35 saham lama yang tercatat pada 8 Oktober 2026 pukul 16.15 WIB berhak atas 12 hak memesan efek terlebih dahulu (HMETD), dan setiap satu HMETD dapat ditukar dengan satu saham baru.",
+   "PT Bakrie & Brothers Tbk (BNBR), pemegang saham utama dengan porsi 24,404 persen, menyatakan tidak akan melaksanakan haknya dan mengalihkan seluruh 3.660.631.994 HMETD miliknya kepada PT Bakrie Capital Indonesia (BCI) senilai Rp732.126.398.800 pada harga yang sama, Rp200 per saham. Jika sisa saham yang ditawarkan tidak terserap penuh oleh pemegang saham lain, kekurangannya akan dijatah dulu kepada pemesan tambahan, baru kemudian ditutup oleh dua pembeli siaga: BCI sebanyak-banyaknya 3.089.368.006 saham senilai Rp617.873.601.200 dan PT Biofuel Indo Sumatra (BIS) sebanyak-banyaknya 8.250.000.000 saham senilai Rp1,65 triliun. Total komitmen kedua pembeli siaga ini mencapai sebanyak-banyaknya 11.339.368.006 saham atau Rp2.267.873.601.200.",
+   "Jadwalnya, perdagangan saham dengan hak masih melekat (cum-right) berakhir 6 Oktober 2026 di pasar reguler dan negosiasi serta 8 Oktober 2026 di pasar tunai. HMETD akan didistribusikan 9 Oktober 2026 dan diperdagangkan dalam dua periode, 12 sampai 16 Oktober dan 19 sampai 23 Oktober 2026. Batas akhir pembayaran pemesanan saham tambahan jatuh pada 27 Oktober 2026, penjatahannya diumumkan 28 Oktober 2026, pembeli siaga wajib melunasi pembayaran penuh pada 29 Oktober 2026, dan pengembalian uang pemesanan yang tidak terpenuhi dilakukan 30 Oktober 2026.",
+   "Dalam skenario di mana hanya BCI dan BIS yang mengeksekusi haknya sebagai pembeli siaga tanpa partisipasi pemegang saham lain, porsi kepemilikan publik akan turun dari 58,045 persen menjadi 43,226 persen, BNBR turun dari 24,404 persen menjadi 18,173 persen, sementara BCI dan BIS masing-masing masuk dengan porsi 11,489 persen dan 14,043 persen. Jumlah saham beredar Perseroan akan bertambah dari 43,75 miliar menjadi paling banyak 58,75 miliar lembar."
+  ],
+  "fotoAdegan": "Technicians assembling electric bus chassis on a factory floor, battery packs nearby, industrial workshop lighting",
+  "takeaway": "Laporan ini netral bagi VKTR: di satu sisi, dana hingga Rp3 triliun sudah terjamin masuk karena BCI dan BIS berkomitmen menutup seluruh sisa saham yang tidak diambil pemegang saham lain, tapi di sisi lain jumlah saham beredar melonjak dari 43,75 miliar menjadi maksimal 58,75 miliar lembar. Yang tersentuh adalah ekuitas dan laba per saham, modal disetor Perseroan naik dari Rp437,5 miliar menjadi maksimal Rp587,5 miliar sehingga permodalan menguat, tapi jika laba tidak tumbuh sebanding dengan tambahan saham, bagian laba yang jatuh ke setiap lembar saham bisa mengecil, dan pemegang saham yang tidak menebus haknya bisa tergerus kepemilikannya hingga 25,53 persen. Dokumen ini belum menyebutkan untuk apa dana hasil rights issue akan dipakai, padahal itu yang menentukan apakah suntikan modal ini produktif atau sekadar menambal kebutuhan kas jangka pendek. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 8 Oktober 2026 yang menentukan siapa berhak atas HMETD, serta batas akhir pembayaran pemesanan tambahan pada 27 Oktober 2026 dan pelunasan penuh oleh pembeli siaga pada 29 Oktober 2026, yang akan memastikan berapa besar dana yang benar-benar terkumpul dari aksi ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vktr-gelar-rights-issue-15-miliar-saham-harga-rp200",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Gelar [Rights Issue] 15 Miliar Saham, Harga Rp200",
+  "deck": "VKTR menjadwalkan penerbitan saham baru lewat rights issue hingga 15 miliar lembar dengan rasio 12:35 dan harga pelaksanaan Rp200, setelah efektif dari OJK pada 28 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T15:08:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1e56a5b960_63895e244d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VKTR",
+  "tags": [
+   "VKTR",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "body": [
+   "PT VKTR Teknologi Mobilitas Tbk mengumumkan jadwal pelaksanaan Penambahan Modal dengan Memberikan Hak Memesan Efek Terlebih Dahulu I (PMHMETD I atau rights issue) menyusul persetujuan RUPS pada 19 Mei 2026 dan efektifnya pernyataan pendaftaran dari OJK pada 28 September 2026. Perseroan berencana menerbitkan saham baru sebanyak-banyaknya 15 miliar lembar dengan nilai nominal Rp10 per saham. Setiap pemegang 35 saham lama berhak mendapat 12 saham baru, dengan harga pelaksanaan Rp200 per saham. Jika seluruh jatah rights issue terserap penuh, dana yang bisa terkumpul mencapai sekitar Rp3 triliun. Aksi korporasi ini tidak disertai penerbitan waran.",
+   "Jadwalnya cukup padat dalam waktu satu bulan. Tanggal cum HMETD di pasar reguler dan negosiasi jatuh pada 6 Oktober 2026, dengan tanggal ex sehari setelahnya. Pemegang saham yang berhak atas HMETD dicatat pada Daftar Pemegang Saham per 8 Oktober 2026 pukul 16.15 WIB, dan hak tersebut didistribusikan pada 9 Oktober 2026 sebelum dicatatkan di Bursa Efek Indonesia pada 12 Oktober 2026. Periode perdagangan dan pelaksanaan HMETD berlangsung dari 12 hingga 23 Oktober 2026. Pemesanan saham tambahan harus dibayar paling lambat 27 Oktober 2026, penjatahan dilakukan 28 Oktober 2026, pembeli siaga membayar bagiannya pada 29 Oktober 2026, dan kelebihan uang pesanan dikembalikan pada 30 Oktober 2026. Laporan hasil penjatahan ke bursa wajib disampaikan paling lambat 6 November 2026.",
+   "Dokumen ditandatangani secara elektronik oleh Indah Permatasari Saugi selaku Direktur sekaligus Corporate Secretary VKTR. Laporan ini melanjutkan kabar sebelumnya bahwa VKTR membukukan laba Rp10,6 miliar pada kuartal pertama 2026 dan tengah bersiap menggelar rights issue, kini dengan rincian angka dan jadwal resmi yang lebih lengkap."
+  ],
+  "fotoAdegan": "Workers assembling an electric bus chassis on an industrial production line, sparks and machinery under bright factory lighting in Indonesia",
+  "takeaway": "Laporan ini condong netral bagi VKTR, karena yang diumumkan baru jadwal dan mekanisme rights issue, sementara rincian penggunaan dana, bagian yang sebenarnya menentukan apakah aksi ini menguntungkan atau membebani pemegang saham, tidak dijelaskan lengkap dalam dokumen ini. Yang jelas tersentuh adalah jumlah saham beredar, yang berpotensi bertambah hingga 15 miliar lembar, dan berdasarkan rasio 12 banding 35 itu berarti pemegang saham yang tidak ikut menyerap haknya bisa terdilusi sekitar seperempat kepemilikannya, sementara laba per saham juga berpotensi tergerus meski laba bersih perusahaan sedang membaik. Di sisi lain, jika seluruh saham baru terserap pada harga Rp200 per lembar, kas perusahaan bisa bertambah hingga sekitar Rp3 triliun, modal segar yang lazimnya dipakai emiten untuk ekspansi atau menambal utang. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 8 Oktober 2026, masa perdagangan dan pelaksanaan HMETD pada 12 sampai 23 Oktober 2026, serta keterbukaan lanjutan soal rincian penggunaan dana dan hasil penjatahan yang dilaporkan ke bursa paling lambat 6 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kdtn-putrasakti-mandiri-lepas-1-juta-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri Lepas [1 Juta] Saham Lagi",
+  "deck": "Putrasakti Mandiri kembali menjual 1 juta saham Puri Sentul Permai pada 28 September dengan harga Rp409, bagian dari restrukturisasi kepemilikan dalam kelompok usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T14:54:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-9349-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "Puri Sentul Permai",
+   "kepemilikan saham",
+   "restrukturisasi grup"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) menerima laporan perubahan kepemilikan saham dari pemegang saham Putrasakti Mandiri, warga negara Indonesia yang bukan anggota direksi maupun komisaris perusahaan. Dalam laporan bernomor LK/29092026/0004/1 yang disampaikan ke Otoritas Jasa Keuangan pada 29 September 2026, Putrasakti Mandiri melaporkan penjualan 1.000.000 saham KDTN pada 28 September 2026 dengan harga Rp409 per saham secara langsung, bukan melalui pihak terafiliasi.",
+   "Tujuan transaksi tertulis sebagai restrukturisasi kepemilikan saham dalam kelompok usaha. Setelah penjualan ini, kepemilikan Putrasakti Mandiri di KDTN turun dari 401.000.000 lembar menjadi 400.000.000 lembar, sementara hak suaranya di perusahaan bergeser dari 32,07 persen menjadi 31,99 persen. Laporan ini merupakan kelanjutan dari transaksi serupa yang sebelumnya diberitakan pada 25 September 2026, di mana Putrasakti Mandiri juga melepas 1 juta saham dengan alasan restrukturisasi kelompok usaha yang sama."
+  ],
+  "fotoAdegan": "Wide shot of a hillside residential housing estate under construction near Sentul, tropical greenery, workers walking between unfinished houses in morning light",
+  "takeaway": "Laporan ini netral bagi KDTN karena porsi saham yang dilepas hanya sekitar 0,25 persen dari kepemilikan Putrasakti Mandiri sendiri, dan hak suaranya di perusahaan cuma bergeser tipis dari 32,07 persen ke 31,99 persen, sehingga statusnya sebagai pemegang saham besar tidak berubah. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan kinerja keuangan perusahaan; hak suara penting dipantau karena menentukan seberapa besar pengaruh seorang pemegang saham dalam mengambil keputusan lewat rapat pemegang saham. Pola yang perlu dicermati adalah apakah penjualan bertahap sebesar 1 juta saham ini akan berlanjut di laporan-laporan berikutnya, karena kalau terus berulang dalam jumlah kecil yang sama, itu menunjukkan pelepasan bertahap dalam kelompok usaha, bukan aksi jual besar-besaran yang mengubah peta kendali KDTN.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pupuk-bersubsidi-perikanan-pangkep-baru-43-tersalur",
   "category": "BUMN",
   "title": "Pupuk Bersubsidi Perikanan Pangkep Baru [43%] Tersalur",
@@ -29,6 +315,32 @@ var ARTICLES = [
   "kreditFoto": "PT Pupuk Indonesia (Persero)",
   "takeaway": "Yang konkret berubah di sini adalah mekanisme verifikasi penerima pupuk subsidi perikanan di Pangkep: penebusan kini wajib memakai KTP lewat aplikasi iPubers, penerima harus terdaftar di sistem e-RPSP milik Kementerian Kelautan dan Perikanan, dan luas lahan pembesaran dibatasi maksimal 2 hektare per orang. Aturan ini langsung menyasar pembudidaya ikan skala kecil dan menengah di Pangkep yang mengandalkan jatah pupuk murah untuk menekan biaya produksi. Dari alokasi 27.156 ton tahun ini, realisasi penyaluran baru 43 persen per 24 September, artinya lebih dari separuh jatah tahun 2026 belum tersalur padahal sisa waktu tahun berjalan tinggal tiga bulan. Ini bisa berarti penyaluran memang biasanya menumpuk di akhir tahun mengikuti musim tebar dan panen budidaya, atau bisa juga pertanda realisasi tertinggal dari target. Yang akan menjawabnya adalah laporan penyaluran Pupuk Indonesia berikutnya menjelang akhir 2026, apakah angka 43 persen itu melompat signifikan atau tetap landai.",
   "imageV": "mumbzcav"
+ },
+ {
+  "slug": "waran-enrgbqcx6a-disesuaikan-ikuti-rights-issue-enrg",
+  "category": "Aksi Korporasi",
+  "title": "Waran ENRGBQCX6A [Disesuaikan] Ikuti Rights Issue ENRG",
+  "deck": "Korea Investment and Sekuritas Indonesia menyesuaikan syarat waran terstruktur ENRGBQCX6A menyusul rights issue ENRG senilai Rp4,12 triliun yang bisa mendilusi saham hingga 33,33 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T13:47:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d8de9a05f_a0fd814d52.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "ENRG",
+   "rights issue",
+   "waran terstruktur"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia (BQ) selaku penerbit waran terstruktur mengumumkan penyesuaian syarat dan ketentuan waran terstruktur ENRGBQCX6A. Penyesuaian ini mengacu pada keterbukaan informasi PT Energi Mega Persada (ENRG) tanggal 28 September 2026 soal penambahan modal dengan hak memesan efek terlebih dahulu tahap IV (PMHMETD IV). Pengumuman diterbitkan di Jakarta pada 29 September 2026 dan ditandatangani Senior Manager KISI, Eric Gunawan.",
+   "Dalam aksi korporasi itu, ENRG akan menerbitkan sebanyak-banyaknya 13.282.271.875 saham baru seri B bernilai nominal Rp100 per saham, ditawarkan seharga Rp310 per saham, sehingga total dana yang bisa terkumpul mencapai Rp4,12 triliun. Jumlah saham baru ini setara 33,33 persen dari total saham ENRG setelah rights issue rampung, dengan rasio setiap 2 saham lama berhak atas 1 HMETD dan setiap 1 HMETD berhak membeli 1 saham baru. RUPSLB yang menyetujui aksi ini digelar 5 Juni 2026 dan efektif sejak 24 September 2026. Jadwal berikutnya: cum HMETD di pasar reguler dan negosiasi 2 Oktober 2026, ex HMETD 6 Oktober 2026, tanggal pencatatan pemegang saham yang berhak 6 Oktober 2026, distribusi HMETD 7 Oktober 2026, pencatatan di bursa 8 Oktober 2026, perdagangan dan pelaksanaan HMETD 8 sampai 21 Oktober 2026, batas akhir pembayaran pesanan tambahan 23 Oktober 2026, penjatahan pesanan tambahan 26 Oktober 2026, serta pembayaran oleh pembeli siaga dan pengembalian dana pesanan tambahan pada 27 Oktober 2026. Jika ada sisa saham yang tidak diambil pemegang HMETD, sisanya dialokasikan proporsional ke pemegang yang memesan lebih dari haknya, dan pembeli siaga akan mengambil sisa saham sebanyak-banyaknya 10.478.125.162 lembar.",
+   "Karena ENRG adalah saham dasar dari waran terstruktur ENRGBQCX6A, rasio dan harga pelaksanaan waran itu ikut disesuaikan lewat rumus yang memperhitungkan harga pemesanan saham baru dalam rights issue, harga saham ENRG sesaat sebelum cum-right, jumlah saham baru yang berhak diperoleh per lembar, serta harga dan rasio pelaksanaan waran yang berlaku sebelumnya. Angka hasil akhir penyesuaian belum dicantumkan dalam pengumuman ini karena baru bisa dihitung setelah harga saham ENRG diperdagangkan cum-right, tepat sebelum tanggal ex HMETD 6 Oktober 2026."
+  ],
+  "fotoAdegan": "Wide shot of an onshore oil pumpjack operating at dusk in a grassy field, distant pipelines visible, warm golden light",
+  "takeaway": "Penyesuaian ini netral, sekadar mekanisme wajib bursa agar nilai ekonomis waran tidak berubah akibat aksi korporasi ENRG, bukan sinyal baru soal arah bisnis KISI maupun ENRG. Yang tersentuh adalah jumlah saham beredar ENRG, yang berpotensi naik hingga 33,33 persen setelah rights issue rampung, sehingga laba bersih akan terbagi ke lebih banyak lembar saham dan laba per saham berpotensi terdilusi jika labanya sendiri tidak tumbuh sebanding. Di sisi lain, dana sebesar Rp4,12 triliun yang bisa masuk dari penjualan saham baru ini bisa memperkuat modal ENRG, meski dokumen ini tidak merinci untuk apa dana tersebut akan dipakai. Yang perlu dipantau adalah pergerakan harga saham ENRG menjelang tanggal ex HMETD pada 6 Oktober 2026, karena dari situ rasio dan harga pelaksanaan baru waran ENRGBQCX6A baru bisa dihitung, disusul batas akhir pembayaran pesanan tambahan pada 23 Oktober 2026 dan realisasi pembelian oleh pembeli siaga pada 27 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "koperasi-pesantren-di-bandung-hubungkan-300-petani-ke-ritel-modern",
@@ -58,6 +370,31 @@ var ARTICLES = [
   "imageV": "mumbzcsy"
  },
  {
+  "slug": "tapg-direksi-george-oetomo-tambah-100-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi George Oetomo [Tambah] 100.000 Saham Lagi",
+  "deck": "George Oetomo, Direksi TAPG, membeli 100.000 saham tambahan pada 28 September 2026 seharga Rp1.975 per saham, menambah kepemilikannya jadi 50,9 juta lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T13:31:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-7838-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "kepemilikan saham",
+   "direksi",
+   "Triputra Agro Persada"
+  ],
+  "body": [
+   "George Oetomo, anggota Direksi PT Triputra Agro Persada Tbk (TAPG), melaporkan pembelian tidak langsung sebanyak 100.000 saham biasa TAPG kepada Otoritas Jasa Keuangan pada 29 September 2026. Transaksi tercatat berlangsung sehari sebelumnya, 28 September 2026, dengan harga Rp1.975 per saham dan tujuan investasi.",
+   "Dengan pembelian ini, jumlah saham George Oetomo di TAPG naik dari 50.806.100 lembar menjadi 50.906.100 lembar. Hak suaranya di perusahaan bergeser tipis dari 0,2559 persen menjadi 0,2564 persen. Laporan disampaikan sesuai kewajiban Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang pelaporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Wide view of oil palm plantation rows under morning haze, workers loading harvested fruit bunches onto a truck.",
+  "takeaway": "Laporan ini netral bagi TAPG karena penambahan 100.000 saham hanya setara 0,1968 persen dari kepemilikan George Oetomo sendiri, dan hak suaranya nyaris tidak bergeser, dari 0,2559 persen menjadi 0,2564 persen, sehingga transaksi ini terlalu kecil untuk dibaca sebagai sinyal keyakinan besar, meski arahnya tetap membeli, bukan melepas. Yang tersentuh di sini adalah komposisi kepemilikan pemegang saham, bukan pos keuangan seperti ekuitas atau laba per saham, sebab pembelian di pasar sekunder seperti ini tidak menambah jumlah saham beredar TAPG. Pelaku pasar tetap mencatat transaksi semacam ini karena pembelian berulang oleh direksi kadang mengindikasikan keyakinan manajemen terhadap prospek perusahaan, walau porsinya di sini masih kecil. Yang perlu dipantau berikutnya adalah apakah George Oetomo melanjutkan pola pembelian bertahap ini di laporan-laporan mendatang, karena penambahan kecil yang berulang bisa berakumulasi jadi perubahan kepemilikan yang lebih berarti seiring waktu.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "belanja-negara-2027-naik-ke-rp4-106-t-defisit-tetap-2-4",
   "category": "Makroekonomi",
   "title": "Belanja Negara 2027 Naik ke Rp4.106 T, Defisit [Tetap] 2,4%",
@@ -83,6 +420,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah bukan cuma angka belanja naik Rp9,07 triliun, tapi cara menutupnya: pemerintah menaikkan target pendapatan dengan jumlah persis sama, bukan menambah utang baru. Praktiknya, target pajak naik Rp4 triliun dan pendapatan bukan pajak, yaitu pemasukan negara di luar pajak seperti royalti tambang atau biaya layanan pemerintah, naik Rp5,07 triliun. Yang langsung kena dampak adalah daerah penerima transfer sebesar Rp735 triliun dan kementerian pelaksana program prioritas, karena anggaran mereka ikut membesar. Pola menjaga defisit tetap di 2,4 persen dengan cara menaikkan target pendapatan setiap kali belanja direvisi ini mengarah ke strategi menghindari kenaikan rasio utang, tapi keberhasilannya bergantung penuh pada apakah penerimaan pajak dan PNBP benar-benar tercapai. Yang akan membuktikannya adalah realisasi penerimaan negara sepanjang 2027 nanti, sebab kalau meleset dari target yang sudah dinaikkan ini, defisit riil bisa lebih lebar dari 2,4 persen meski di atas kertas terlihat aman.",
   "imageV": "mumbzd48"
+ },
+ {
+  "slug": "wgsh-gelar-rupslb-21-oktober-setujui-mundurnya-direktur",
+  "category": "Aksi Korporasi",
+  "title": "WGSH Gelar RUPSLB 21 Oktober, Setujui [Mundurnya] Direktur",
+  "deck": "RUPSLB WGSH pada 21 Oktober 2026 akan meminta persetujuan pemegang saham atas pengunduran diri Direktur Moch Sajoang yang mengajukan surat mundur sejak 23 Juli 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T13:28:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d3a874715d_66c1aabbd8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WGSH",
+  "tags": [
+   "WGSH",
+   "RUPSLB",
+   "Direksi",
+   "Wira Global Solusi"
+  ],
+  "body": [
+   "PT Wira Global Solusi Tbk (WGSH) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 21 Oktober 2026 pukul 09.30 WIB di Gedung WGS, Jl. Soekarno Hatta No.104, Babakan Ciparay, Kota Bandung, Jawa Barat. Rapat juga bisa diikuti secara elektronik melalui aplikasi eASY.KSEI. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam daftar pemegang saham perseroan pada penutupan perdagangan bursa Senin, 28 September 2026 pukul 16.00 WIB.",
+   "Satu-satunya agenda rapat adalah persetujuan atas pengunduran diri anggota direksi. Perseroan telah menerima surat pengunduran diri dari Moch Sajoang selaku Direktur Perseroan, tertanggal 23 Juli 2026. Berdasarkan Pasal 8 ayat (3) Peraturan OJK Nomor 33/POJK.04/2014 serta Pasal 11 ayat 13 dan ayat 14 huruf b Anggaran Dasar Perseroan, pengunduran diri direktur baru berlaku efektif setelah mendapat persetujuan RUPS.",
+   "Bahan-bahan terkait agenda rapat tersedia di kantor perseroan sejak tanggal pemanggilan pada 29 September 2026 hingga pelaksanaan rapat pada 21 Oktober 2026. Batas waktu bagi pemegang saham untuk menyampaikan deklarasi kehadiran, kuasa, atau pilihan suara lewat aplikasi eASY.KSEI adalah pukul 12.00 WIB pada satu hari kerja sebelum rapat, yakni 20 Oktober 2026. Surat pemanggilan ditandatangani oleh Hendy Rusli selaku Direktur Utama."
+  ],
+  "fotoAdegan": "Empty rows of chairs facing a stage in a modern corporate meeting hall, office building interior, soft morning light",
+  "takeaway": "Laporan ini netral bagi WGSH karena isinya adalah proses formal pengunduran diri satu direktur yang harus disetujui RUPS, bukan indikasi masalah keuangan atau pergeseran pengendalian perusahaan. Pengunduran diri direktur seperti ini tidak langsung mengubah ekuitas, arus kas, atau laba per saham perseroan, tapi tetap relevan bagi pemegang saham karena menyangkut stabilitas tim manajemen yang menjalankan operasional WGSH sehari-hari. Yang perlu dipantau adalah hasil RUPSLB pada 21 Oktober 2026, apakah pengunduran diri Moch Sajoang resmi disetujui, dan apakah perseroan sekaligus mengumumkan pengganti untuk mengisi kursi direksi yang kosong.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "crab-jadwalkan-pembayaran-dividen-rp2-saham-cair-29-oktober",
+  "category": "Aksi Korporasi",
+  "title": "CRAB [Jadwalkan] Pembayaran Dividen Rp2/Saham, Cair 29 Oktober",
+  "deck": "Toba Surimi menetapkan jadwal pembayaran dividen tunai Rp2 per saham hasil RUPST, dengan tanggal pencatatan pemegang saham 7 Oktober dan pembayaran 29 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T13:24:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca374deed2_9260d8c3e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRAB",
+  "tags": [
+   "CRAB",
+   "dividen",
+   "RUPST",
+   "Toba Surimi"
+  ],
+  "body": [
+   "PT Toba Surimi Industries Tbk (CRAB) menetapkan jadwal pembagian dividen tunai untuk tahun buku 2025 setelah disetujui dalam Rapat Umum Pemegang Saham Tahunan pada 25 September 2026. Total dividen yang dibagikan sebesar Rp3,9 miliar, setara Rp2 per saham, dengan asumsi jumlah saham beredar pada tanggal pencatatan tidak lebih dari 1,95 miliar lembar. Berdasarkan data keuangan per 31 Desember 2025, dividen ini setara sekitar 17 persen dari laba bersih perusahaan yang diatribusikan ke pemegang saham induk sebesar Rp22,84 miliar.",
+   "Jadwalnya sebagai berikut: cum dividen di pasar reguler dan negosiasi jatuh pada 5 Oktober 2026, dengan ex dividen sehari setelahnya pada 6 Oktober 2026. Di pasar tunai, cum dividen berlaku 7 Oktober 2026 dan ex dividen 8 Oktober 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada 7 Oktober 2026 pukul 16.15 WIB berhak atas dividen ini, yang akan dibayarkan pada 29 Oktober 2026.",
+   "Dividen untuk pemegang saham dalam penitipan kolektif KSEI akan disalurkan lewat rekening efek di perusahaan efek atau bank kustodian masing-masing, tanpa pemotongan pajak penghasilan untuk wajib pajak dalam negeri. Untuk wajib pajak luar negeri, perusahaan akan memotong PPh Pasal 26 sebesar 20 persen, kecuali pemegang saham menyerahkan Surat Keterangan Domisili asli ke Biro Administrasi Efek, PT Adimitra Jasa Korpora, paling lambat 28 Oktober 2026 pukul 16.00 WIB untuk mendapat tarif sesuai perjanjian penghindaran pajak berganda. Pemegang saham dengan saham fisik atau warkat dapat mengurus pencairan dividen langsung ke BAE mulai 29 Oktober 2026 dengan membawa dokumen identitas yang berlaku."
+  ],
+  "fotoAdegan": "Workers in a Sumatran seafood processing plant packing frozen surimi products on a stainless steel line, cold steam rising, industrial lighting",
+  "takeaway": "Laporan ini netral bagi Toba Surimi, karena hanya menjadwalkan pembayaran dividen yang jumlah dan sifatnya sudah diketahui sebelumnya, yakni sekitar 17 persen dari laba bersih tahun buku 2025, sementara sisanya tetap ditahan perusahaan. Yang tersentuh adalah saldo laba ditahan yang tidak dibatasi penggunaannya, yaitu bagian keuntungan yang bebas dipakai atau dibagikan kapan saja, yang akan berkurang sekitar Rp3,9 miliar dari Rp83,12 miliar begitu dividen ini dibayarkan, sedangkan total ekuitas perusahaan sebesar Rp238,62 miliar praktis tidak terpengaruh karena nilainya jauh lebih kecil dari basis tersebut. Yang perlu dicermati pemegang saham adalah batas pencatatan pada 7 Oktober 2026 pukul 16.15 WIB, karena setelah tanggal itu pembeli di pasar reguler tidak lagi berhak atas dividen ini, sementara pencairan uangnya baru terjadi pada 29 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "pertalite-dipastikan-tak-naik-meski-minyak-tembus-107-dolar",

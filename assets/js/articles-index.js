@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "zp-sesuaikan-harga-pelaksanaan-waran-untr-usai-dividen-interim",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Harga Pelaksanaan Waran UNTR usai [Dividen] Interim",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A menyusul dividen interim UNTR Rp430 per saham, efektif awal Oktober 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "UNTR",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0358b98923_c9ecfd4084.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-direksi-lepas-40-juta-saham-lagi-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Lepas [40 Juta] Saham Lagi Lewat Repo",
+  "deck": "Samuel Sekuritas Indonesia melepas 40,07 juta saham RLCO seharga Rp4.290 lewat pencairan repo, hak suaranya turun dari 6,57% jadi 5,29%.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "repo",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-2226-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baby-tuntaskan-dana-rights-issue-ke-akuisisi-emway-globalindo",
+  "category": "Aksi Korporasi",
+  "title": "BABY Tuntaskan Dana Rights Issue ke Akuisisi [Emway Globalindo]",
+  "deck": "BABY memastikan seluruh dana rights issue Rp138,46 miliar sudah terpakai penuh untuk mengakuisisi Emway Globalindo dan modal kerja Adidas Kids-Puma Kids.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BABY",
+   "rights issue",
+   "akuisisi Emway Globalindo",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/de96cec396_e56782a4be.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smle-gelar-public-expose-soal-akuisisi-sinar-aroma-sentosa",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Gelar Public Expose Soal [Akuisisi] Sinar Aroma Sentosa",
+  "deck": "SMLE akan memaparkan rencana pengalihan saham anak usahanya, PT Sinar Aroma Sentosa, kepada DENICO FOOD Ingredients asal Denmark, dalam public expose 13 Oktober 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMLE",
+   "akuisisi",
+   "Sinar Aroma Sentosa",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a8070032a8_0a99c39149.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bexi-siapkan-dana-rp112-miliar-lunasi-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BEXI Siapkan Dana [Rp112 Miliar] Lunasi Obligasi Jatuh Tempo",
+  "deck": "Indonesia Eximbank (BEXI) menyatakan sudah menyiapkan dana Rp112 miliar untuk melunasi pokok Obligasi Berkelanjutan IV Tahap VII 2019 Seri D yang jatuh tempo 29 Oktober 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEXI",
+   "Indonesia Eximbank",
+   "obligasi",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0dec349fe5_35c7742f22.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "scnp-cetak-laba-usaha-turnaround-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "SCNP Cetak Laba Usaha [Turnaround] Semester I 2026",
+  "deck": "Pendapatan SCNP naik 41,7% jadi Rp156,58 miliar pada semester I 2026, mengantarkan perseroan meraih laba usaha positif Rp6,74 miliar dan laba bersih Rp12,55 miliar.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SCNP",
+   "kinerja keuangan",
+   "manufaktur elektronik",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fc538e9dfa_d81f9d8639.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bksl-direksi-tambah-saham-988-juta-lembar-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Direksi Tambah Saham 988 Juta Lembar via [Repo]",
+  "deck": "Samuel Sekuritas Indonesia menambah 988,14 juta saham Sentul City lewat perjanjian repo pada 29 September 2026, hak suara naik dari 5,00% jadi 5,59%.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "repo saham",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-1682-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "raam-direksi-tambah-saham-487-000-lembar-rp83-6-juta",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Direksi [Tambah] Saham 487.000 Lembar, Rp83,6 Juta",
+  "deck": "Ram Jethmal Punjabi, direksi Tripar Multivision Plus, membeli saham RAAM lewat 10 transaksi kecil pada 28 September 2026. Hak suaranya naik tipis ke 68,84 persen.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAAM",
+   "Tripar Multivision Plus",
+   "kepemilikan saham",
+   "transaksi direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-0060-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vktr-pastikan-rights-issue-rp3-triliun-dilusi-capai-25-53",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Pastikan Rights Issue Rp3 Triliun, [Dilusi] Capai 25,53%",
+  "deck": "OJK menyatakan efektif rights issue VKTR senilai hingga Rp3 triliun. BCI dan BIS berkomitmen jadi pembeli siaga hingga Rp2,27 triliun jika publik tak menyerap penuh.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VKTR",
+   "rights issue",
+   "PMHMETD I",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d08abf236a_42ff60d0a3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vktr-gelar-rights-issue-15-miliar-saham-harga-rp200",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Gelar [Rights Issue] 15 Miliar Saham, Harga Rp200",
+  "deck": "VKTR menjadwalkan penerbitan saham baru lewat rights issue hingga 15 miliar lembar dengan rasio 12:35 dan harga pelaksanaan Rp200, setelah efektif dari OJK pada 28 September 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VKTR",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1e56a5b960_63895e244d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kdtn-putrasakti-mandiri-lepas-1-juta-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri Lepas [1 Juta] Saham Lagi",
+  "deck": "Putrasakti Mandiri kembali menjual 1 juta saham Puri Sentul Permai pada 28 September dengan harga Rp409, bagian dari restrukturisasi kepemilikan dalam kelompok usaha.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "Puri Sentul Permai",
+   "kepemilikan saham",
+   "restrukturisasi grup"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-9349-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pupuk-bersubsidi-perikanan-pangkep-baru-43-tersalur",
   "category": "BUMN",
   "title": "Pupuk Bersubsidi Perikanan Pangkep Baru [43%] Tersalur",
@@ -21,6 +197,22 @@ var ARTICLES = [
   "kreditFoto": "PT Pupuk Indonesia (Persero)",
   "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/886/pupuk-indonesia-perkuat-penyaluran-pupuk-bersubsidi-untuk-sektor-perikanan-di-pangkep",
   "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "waran-enrgbqcx6a-disesuaikan-ikuti-rights-issue-enrg",
+  "category": "Aksi Korporasi",
+  "title": "Waran ENRGBQCX6A [Disesuaikan] Ikuti Rights Issue ENRG",
+  "deck": "Korea Investment and Sekuritas Indonesia menyesuaikan syarat waran terstruktur ENRGBQCX6A menyusul rights issue ENRG senilai Rp4,12 triliun yang bisa mendilusi saham hingga 33,33 persen.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BQ",
+   "ENRG",
+   "rights issue",
+   "waran terstruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d8de9a05f_a0fd814d52.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "koperasi-pesantren-di-bandung-hubungkan-300-petani-ke-ritel-modern",
@@ -40,6 +232,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470146-gandeng-ratusan-petani-koperasi-pesantren-di-bandung-bawa-produk-pertanian-tembus-pasar-modern"
  },
  {
+  "slug": "tapg-direksi-george-oetomo-tambah-100-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi George Oetomo [Tambah] 100.000 Saham Lagi",
+  "deck": "George Oetomo, Direksi TAPG, membeli 100.000 saham tambahan pada 28 September 2026 seharga Rp1.975 per saham, menambah kepemilikannya jadi 50,9 juta lembar.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "kepemilikan saham",
+   "direksi",
+   "Triputra Agro Persada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-7838-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "belanja-negara-2027-naik-ke-rp4-106-t-defisit-tetap-2-4",
   "category": "Makroekonomi",
   "title": "Belanja Negara 2027 Naik ke Rp4.106 T, Defisit [Tetap] 2,4%",
@@ -55,6 +263,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470140-belanja-negara-2027-naik-jadi-rp4106-triliun-defisit-tetap-24-persen"
+ },
+ {
+  "slug": "wgsh-gelar-rupslb-21-oktober-setujui-mundurnya-direktur",
+  "category": "Aksi Korporasi",
+  "title": "WGSH Gelar RUPSLB 21 Oktober, Setujui [Mundurnya] Direktur",
+  "deck": "RUPSLB WGSH pada 21 Oktober 2026 akan meminta persetujuan pemegang saham atas pengunduran diri Direktur Moch Sajoang yang mengajukan surat mundur sejak 23 Juli 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WGSH",
+   "RUPSLB",
+   "Direksi",
+   "Wira Global Solusi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d3a874715d_66c1aabbd8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "crab-jadwalkan-pembayaran-dividen-rp2-saham-cair-29-oktober",
+  "category": "Aksi Korporasi",
+  "title": "CRAB [Jadwalkan] Pembayaran Dividen Rp2/Saham, Cair 29 Oktober",
+  "deck": "Toba Surimi menetapkan jadwal pembayaran dividen tunai Rp2 per saham hasil RUPST, dengan tanggal pencatatan pemegang saham 7 Oktober dan pembayaran 29 Oktober 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRAB",
+   "dividen",
+   "RUPST",
+   "Toba Surimi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca374deed2_9260d8c3e4.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pertalite-dipastikan-tak-naik-meski-minyak-tembus-107-dolar",
@@ -6257,249 +6497,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/400c2c7bf4_ab14c25592.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bjbr-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "BJBR Jawab Bursa soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "Bank bjb menyatakan tidak mengetahui informasi material di balik gejolak transaksi sahamnya, menyusul surat permintaan penjelasan dari Bursa Efek Indonesia.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BJBR",
-   "Bank bjb",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cfd6933fae_7db317670f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-pemegang-obligasi-tolak-restrukturisasi-bunga-2022",
-  "category": "Aksi Korporasi",
-  "title": "POST: Pemegang Obligasi [Tolak] Restrukturisasi Bunga 2022",
-  "deck": "RUPO Obligasi I Pos Indonesia Tahun 2022 menolak permintaan standstill bunga, penyesuaian suku bunga, perpanjangan tenor, dan pembebasan kovenan keuangan perusahaan.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "obligasi",
-   "restrukturisasi utang",
-   "RUPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/34c74619bb_1943d587bd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smle-sinergi-asia-corporindo-jual-9-25-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "SMLE: Sinergi Asia Corporindo [Jual] 9,25 Juta Saham",
-  "deck": "Pemegang saham SMLE, Sinergi Asia Corporindo, menjual 9,25 juta saham senilai sekitar Rp1,97 miliar pada 16 September 2026, hak suaranya masih di atas 56 persen.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMLE",
-   "kepemilikan saham",
-   "free float",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6210-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-ambruk-1-39-saham-energi-dan-bank-jadi-beban",
-  "category": "Pasar Modal",
-  "title": "IHSG [Ambruk] 1,39%, Saham Energi dan Bank Jadi Beban",
-  "deck": "IHSG ditutup melemah 1,39% ke 6.295,92 pada Selasa, tertekan sektor energi dan perbankan di tengah pelemahan yang merata di hampir seluruh pasar.",
-  "date": "22 September 2026",
-  "image": "assets/img/ihsg-ambruk-1-39-saham-energi-dan-bank-jadi-beban.jpg",
-  "imageV": "muclyusf",
-  "tags": [
-   "IHSG",
-   "Saham Energi",
-   "Bursa Efek Indonesia",
-   "BUMI"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468661-ihsg-ambruk-139-ke-629592-saham-energi-hingga-bank-jadi-beban-pasar"
- },
- {
-  "slug": "winr-pemegang-saham-utama-lepas-12-juta-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemegang Saham Utama [Lepas] 12 Juta Saham Lagi",
-  "deck": "PEMENANG NUSANTARA INTERNASIONAL kembali menjual 12,06 juta saham WINR pada 17 September 2026, hak suara turun tipis ke 46,91 persen.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "kepemilikan saham",
-   "free float",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6182-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "goto-panggil-rupslb-batalkan-esop-demi-pengurangan-modal",
-  "category": "Aksi Korporasi",
-  "title": "GOTO Panggil RUPSLB, Batalkan ESOP demi [Pengurangan Modal]",
-  "deck": "RUPSLB GoTo 14 Oktober 2026 membahas pengurangan modal lewat penarikan 32,19 miliar saham tresuri serta persetujuan pengunduran diri Wakil Dirut Catherine Hindra Sutjahyo.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GOTO",
-   "RUPSLB",
-   "Pengurangan Modal",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/265a24a8e4_af52af6a57.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uang-purbaya-diburu-bi-tegaskan-tetap-sah",
-  "category": "Moneter",
-  "title": "Uang Purbaya Diburu, BI Tegaskan Tetap [Sah]",
-  "deck": "Bank Indonesia memastikan uang rupiah kertas bertanda tangan mantan Menkeu Purbaya Yudhi Sadewa tetap sah dipakai meski pejabat penandatangan sudah berganti.",
-  "date": "22 September 2026",
-  "image": "assets/img/uang-purbaya-diburu-bi-tegaskan-tetap-sah.jpg",
-  "imageV": "muclyw6i",
-  "tags": [
-   "Bank Indonesia",
-   "rupiah",
-   "Purbaya Yudhi Sadewa",
-   "pergantian pejabat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468653-uang-rupiah-bertanda-tangan-purbaya-jadi-buruan-bi-angkat-bicara-soal-keabsahannya"
- },
- {
-  "slug": "cdia-bagikan-dividen-interim-us-10-juta-cair-22-oktober",
-  "category": "Aksi Korporasi",
-  "title": "CDIA Bagikan [Dividen] Interim US$10 Juta, Cair 22 Oktober",
-  "deck": "Chandra Daya Investasi menjadwalkan dividen interim tahun buku 2026 sebesar Rp1,422181 per saham, senilai total US$10 juta, dibayar pada 22 Oktober 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CDIA",
-   "dividen interim",
-   "Chandra Daya Investasi",
-   "jadwal dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a29f48d58_b6437681b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-kejar-investasi-listrik-100-gw-menuju-nze-2050",
-  "category": "Energi",
-  "title": "Pemerintah Kejar Investasi Listrik [100 GW] Menuju NZE 2050",
-  "deck": "Pemerintah mematok kebutuhan investasi US$70-73 miliar untuk menambah kapasitas pembangkit listrik 100 gigawatt dan menaikkan porsi energi terbarukan menjadi 70 persen dalam RUPTL.",
-  "date": "22 September 2026",
-  "image": "assets/img/pemerintah-kejar-investasi-listrik-100-gw-menuju-nze-2050.jpg",
-  "imageV": "mucgn999",
-  "tags": [
-   "EBT",
-   "RUPTL",
-   "PLN",
-   "Investasi Listrik"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/menuju-nze-2050-2060-pemerintah-dorong-investasi-kelistrikan-100-gw-dan-penguatan-ebt",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "impc-tunggal-jaya-investama-tambah-6-3-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "IMPC: Tunggal Jaya Investama [Tambah] 6,3 Juta Saham",
-  "deck": "Tunggal Jaya Investama melaporkan pembelian tidak langsung 6,32 juta saham IMPC pada 18 dan 21 September 2026, menaikkan hak suaranya tipis ke 38,43 persen.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMPC"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6940-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amran-buka-peluang-bumn-kelola-cadangan-kedelai",
-  "category": "BUMN",
-  "title": "Amran Buka Peluang [BUMN] Kelola Cadangan Kedelai",
-  "deck": "Kepala Bapanas Amran Sulaiman menyatakan BUMN bisa direkomendasikan mengelola cadangan kedelai nasional, asal sesuai regulasi yang masih akan dikaji.",
-  "date": "22 September 2026",
-  "image": "assets/img/amran-buka-peluang-bumn-kelola-cadangan-kedelai.jpg",
-  "imageV": "mucgn9nn",
-  "tags": [
-   "kedelai",
-   "BUMN",
-   "Bapanas",
-   "ketahanan pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468623-amran-buka-peluang-bumn-kelola-cadangan-kedelai-stok-2026-diproyeksi-surplus-2909-ribu-ton"
- },
- {
-  "slug": "akku-gelar-public-expose-klaim-belum-ada-keluhan-soal-suspensi",
-  "category": "Aksi Korporasi",
-  "title": "AKKU Gelar Public Expose, Klaim Belum Ada [Keluhan] Soal Suspensi",
-  "deck": "AKKU gelar public expose insidentil 18 September, direksi ungkap belum ada keluhan pemegang saham dan optimistis opini disclaimer tak berulang di laporan akhir 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKKU",
-   "suspensi saham",
-   "public expose",
-   "opini audit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9bf2124a2e_5a14b10308.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unsp-bakrie-sumatera-keluar-dari-pemantauan-khusus-bei",
-  "category": "Aksi Korporasi",
-  "title": "UNSP Bakrie Sumatera Keluar dari [Pemantauan Khusus] BEI",
-  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham UNSP dan memindahkannya ke Papan Pengembangan, efektif 23 September 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNSP",
-   "Bakrie Sumatera Plantations",
-   "BEI",
-   "pemantauan khusus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b0083c4538_97b65792d5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dprd-dki-minta-rencana-obligasi-daerah-ditinjau-ulang",
-  "category": "Pasar Modal",
-  "title": "DPRD DKI Minta Rencana [Obligasi] Daerah Ditinjau Ulang",
-  "deck": "Anggota Komisi A DPRD DKI Kevin Wu meminta Pemprov DKI meninjau ulang rencana obligasi daerah karena beban pembayarannya berisiko menjadi tanggungan warga Jakarta.",
-  "date": "22 September 2026",
-  "image": "assets/img/dprd-dki-minta-rencana-obligasi-daerah-ditinjau-ulang.jpg",
-  "imageV": "mucgna2g",
-  "tags": [
-   "obligasi daerah",
-   "DPRD DKI Jakarta",
-   "Pemprov DKI",
-   "Kevin Wu"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468626-dprd-dki-soroti-rencana-obligasi-daerah-beban-utang-jangan-sampai-jadi-tanggungan-warga"
- },
- {
-  "slug": "bahlil-orang-mampu-jangan-pakai-pertalite-lagi",
-  "category": "Energi",
-  "title": "Bahlil: Orang Mampu [Jangan] Pakai Pertalite Lagi",
-  "deck": "Menteri ESDM Bahlil Lahadalia minta masyarakat mampu tak pakai Pertalite, menyusul temuan polisi soal Pajero bertangki modifikasi untuk menampung BBM subsidi di Makassar.",
-  "date": "22 September 2026",
-  "image": "assets/img/bahlil-orang-mampu-jangan-pakai-pertalite-lagi.jpg",
-  "imageV": "mucgnak2",
-  "tags": [
-   "Bahlil Lahadalia",
-   "Pertalite",
-   "BBM subsidi",
-   "Kementerian ESDM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468610-bahlil-minta-orang-berduit-jangan-pakai-pertalite-soroti-modus-pajero-tampung-bbm-subsidi"
  }
 ];

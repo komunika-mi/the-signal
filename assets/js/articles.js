@@ -109,7 +109,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini baru kesepakatan untuk mempercepat persiapan perundingan, bukan perundingan itu sendiri, sehingga belum ada jadwal putaran negosiasi atau target penyelesaian yang bisa dipegang publik. CEPA sendiri adalah semacam perjanjian dagang bilateral yang mengatur tarif dan akses pasar antara dua negara, berbeda dari kerja sama regional seperti ACFTA atau RCEP yang selama ini jadi payung dagang Indonesia-Tiongkok. Pihak yang paling terdampak adalah eksportir dan investor yang berhubungan dengan Tiongkok, mengingat negara ini jadi tujuan ekspor nonmigas terbesar Indonesia senilai US$64,82 miliar tahun lalu dan salah satu sumber investasi asing terbesar. Arah besarnya kemungkinan menuju pembukaan akses pasar yang lebih luas dengan Tiongkok, sejalan dengan perjanjian dagang lain yang sudah diteken Indonesia, tapi ini baru bisa dipastikan setelah kedua negara mengumumkan jadwal putaran perundingan resmi, yang belum ada dalam pertemuan ini.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "dpns-disuspensi-bei-laporan-keuangan-telat-dan-denda-nunggak",
@@ -429,7 +429,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari kerja sama ini adalah target melatih sekitar 240 tenaga kerja di bidang perawatan fasilitas lepas pantai dan bongkar muat kargo sampai tahun 2029, hasil tindak lanjut nota kesepahaman Indonesia-Korea Selatan yang diteken April 2026. Yang terdampak langsung adalah calon pekerja di industri lepas pantai serta perusahaan domestik di sektor itu yang selama ini kekurangan tenaga terlatih untuk pekerjaan semacam ini. Siaran pers ini belum menjelaskan berapa dana yang dikucurkan lewat skema bantuan pembangunan Korea tersebut, berapa peserta di angkatan pelatihan pertama, atau apakah lulusannya punya jalur pasti untuk terserap industri. Yang perlu dipantau adalah laporan hasil angkatan pertama dan data serapan kerja lulusannya, karena dari situ baru terlihat apakah target 240 orang sampai 2029 itu berjalan sesuai rencana atau hanya angka di atas kertas.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "posbankum-tembus-83-960-rp1-2-triliun-dihemat-negara",

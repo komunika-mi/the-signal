@@ -5,6 +5,107 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-bawa-16-umkm-binaan-ke-kriyanusa-2026",
+  "category": "UMKM",
+  "title": "Pupuk Indonesia Bawa [16] UMKM Binaan ke Kriyanusa 2026",
+  "deck": "Pupuk Indonesia menampilkan produk UMKM binaan sektor wastra dan kriya di pameran Kriyanusa 2026, JCC, 26-30 September.",
+  "date": "29 September 2026",
+  "image": "assets/img/pupuk-indonesia-bawa-16-umkm-binaan-ke-kriyanusa-2026.jpg",
+  "imageV": "mumivr08",
+  "tags": [
+   "UMKM",
+   "Pupuk Indonesia",
+   "Kriyanusa",
+   "wastra"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/887/pupuk-indonesia-perluas-pasar-umkm-binaan-melalui-kriyanusa-2026",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "pemerintah-kejar-tambahan-100-gigawatt-pembangkit-listrik",
+  "category": "Energi",
+  "title": "Pemerintah Kejar Tambahan [100 Gigawatt] Pembangkit Listrik",
+  "deck": "Menko Airlangga sebut kapasitas pembangkit listrik perlu naik hingga 100 gigawatt untuk mendukung target investasi Rp2.218-2.258 triliun demi pertumbuhan ekonomi 6 persen pada 2027.",
+  "date": "29 September 2026",
+  "image": "assets/img/jaringan-listrik.jpg",
+  "tags": [
+   "Ekonomi Hijau",
+   "Energi Terbarukan",
+   "Investasi",
+   "Kendaraan Listrik"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7116/menko-airlangga-green-energy-dan-digital-development-jadi-twin-engine-pertumbuhan-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "proyek-jica-di-kawasan-rebana-rampung-investasi-tembus-rp131-6-t",
+  "category": "Industri",
+  "title": "Proyek JICA di Kawasan Rebana [Rampung], Investasi Tembus Rp131,6 T",
+  "deck": "Kerja sama teknis dua tahun Indonesia-Jepang untuk Kawasan Rebana tuntas, menghasilkan rencana induk kawasan dan pedoman industri hijau di sekitar Pelabuhan Patimban.",
+  "date": "29 September 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "Kawasan Rebana",
+   "JICA",
+   "Pelabuhan Patimban",
+   "Investasi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7117/tuntaskan-kerja-sama-teknis-jica-pemerintah-perkuat-sistem-koordinasi-dan-kelembagaan-pengelolaan-kawasan-rebana",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "den-sebut-stabilitas-makro-kunci-genjot-ekonomi-5-persen",
+  "category": "Makroekonomi",
+  "title": "DEN Sebut [Stabilitas] Makro Kunci Genjot Ekonomi 5 Persen",
+  "deck": "Wakil Ketua DEN Mari Elka Pangestu menyebut stabilitas makroekonomi jadi syarat utama menarik investasi dan mendorong ekonomi RI tumbuh di atas 5 persen.",
+  "date": "29 September 2026",
+  "image": "assets/img/den-sebut-stabilitas-makro-kunci-genjot-ekonomi-5-persen.jpg",
+  "imageV": "mumivt8a",
+  "tags": [
+   "Dewan Ekonomi Nasional",
+   "stabilitas makroekonomi",
+   "investasi",
+   "pertumbuhan ekonomi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470175-den-ungkap-kunci-ri-dorong-ekonomi-tumbuh-di-atas-5-persen"
+ },
+ {
+  "slug": "part-catat-laba-naik-30-di-2025-garap-right-issue",
+  "category": "Pasar Modal",
+  "title": "PART Catat Laba [Naik] 30% di 2025, Garap Right Issue",
+  "deck": "Penjualan Cipta Perdana Lancar (PART) naik 38,23 persen jadi Rp369,59 miliar pada 2025, laba bersih tumbuh 29,97 persen, dan perseroan menyiapkan right issue Rp200 miliar.",
+  "date": "29 September 2026",
+  "image": "assets/img/part-catat-laba-naik-30-di-2025-garap-right-issue.jpg",
+  "imageV": "mumivtmg",
+  "tags": [
+   "PART",
+   "right issue",
+   "komponen otomotif",
+   "kinerja emiten"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470197-bukukan-kinerja-positif-di-2025-part-kini-siapkan-right-issue-hingga-buyback-saham"
+ },
+ {
+  "slug": "kebutuhan-listrik-2030-tembus-800-twh-ruptl-direvisi",
+  "category": "Energi",
+  "title": "Kebutuhan Listrik 2030 Tembus 800 TWh, RUPTL [Direvisi]",
+  "deck": "Airlangga Hartarto mendorong revisi RUPTL karena proyeksi kebutuhan listrik nasional pada 2030 tembus 700-800 TWh, jauh di atas rencana tambahan pembangkit 69,5 GW yang berlaku saat ini.",
+  "date": "29 September 2026",
+  "image": "assets/img/kebutuhan-listrik-2030-tembus-800-twh-ruptl-direvisi.jpg",
+  "imageV": "mumivu0v",
+  "tags": [
+   "RUPTL",
+   "Airlangga Hartarto",
+   "Energi Surya",
+   "Kebutuhan Listrik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470151-kebutuhan-listrik-2030-tembus-800-twh-airlangga-dorong-ruptl-segera-direvisi"
+ },
+ {
   "slug": "zp-sesuaikan-harga-pelaksanaan-waran-untr-usai-dividen-interim",
   "category": "Aksi Korporasi",
   "title": "ZP Sesuaikan Harga Pelaksanaan Waran UNTR usai [Dividen] Interim",
@@ -3820,7 +3921,7 @@ var ARTICLES = [
   "title": "RI Genjot Ekspor Furnitur, Kurangi [Ketergantungan] ke AS",
   "deck": "Pemerintah mendorong industri furnitur nasional memperluas pasar ekspor di IFFINA+ 2026, karena 60 persen ekspor masih bertumpu ke Amerika Serikat meski sektor ini surplus sejak 2021.",
   "date": "24 September 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/buruh-pabrik.jpg",
   "tags": [
    "furnitur",
    "ekspor",
@@ -6404,98 +6505,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468679-dekarbonisasi-pertamina-capai-118-pada-semester-1-2026-di-atas-target-pengurangan-emisi-tahunan"
- },
- {
-  "slug": "akku-public-expose-suspensi-berlanjut-opini-audit-membaik",
-  "category": "Aksi Korporasi",
-  "title": "AKKU Public Expose: Suspensi Berlanjut, Opini Audit [Membaik]",
-  "deck": "Dalam paparan publik insidentil 18 September, manajemen AKKU mengaku belum menerima keluhan pemegang saham soal suspensi dan menargetkan opini audit tahun ini tak lagi disclaimer.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKKU",
-   "suspensi saham",
-   "public expose",
-   "opini audit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb668ff428_c73313662a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "agii-jawab-permintaan-penjelasan-volatilitas-saham-dari-bei",
-  "category": "Aksi Korporasi",
-  "title": "AGII Jawab Permintaan Penjelasan [Volatilitas] Saham dari BEI",
-  "deck": "Samator Indo Gas menyatakan tidak ada informasi material tersembunyi maupun rencana aksi korporasi usai diminta BEI menjelaskan pergerakan tak wajar sahamnya.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGII",
-   "Samator Indo Gas",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/028a8da8ac_c18f1d97fa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bapa-investor-cutloss-lepas-seluruh-saham-suara-ke-nol",
-  "category": "Aksi Korporasi",
-  "title": "BAPA: Investor [Cutloss] Lepas Seluruh Saham, Suara ke Nol",
-  "deck": "Belvin Tannadi melepas seluruh 76,38 juta sahamnya di BAPA seharga Rp145 per lembar pada 22 September 2026, dengan alasan cutloss. Hak suaranya turun dari 11,54% menjadi nol.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAPA",
-   "kepemilikan saham",
-   "cutloss",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-4712-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-direksi-mcleod-jual-185-200-saham-rp2-47-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BYAN: Direksi McLeod [Jual] 185.200 Saham, Rp2,47 Miliar",
-  "deck": "Direksi BYAN Alastair Gordon Christopher McLeod menjual 185.200 saham senilai Rp13.352 per lembar pada 21 September 2026, memangkas kepemilikannya jadi 3,81 juta lembar.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8820-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dlta-komite-audit-ketua-baru-gantikan-samuel-nitisaputra",
-  "category": "Aksi Korporasi",
-  "title": "DLTA [Komite Audit]: Ketua Baru Gantikan Samuel Nitisaputra",
-  "deck": "Delta Djakarta menunjuk Manginar Rico Sinaga sebagai Ketua Komite Audit baru menggantikan Samuel Nitisaputra, efektif 21 September 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DLTA",
-   "Delta Djakarta",
-   "komite audit",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c7c5e06aa7_d234839596.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-rupsi-tolak-usulan-restrukturisasi-sukuk-ijarah",
-  "category": "Aksi Korporasi",
-  "title": "POST: RUPSI Tolak Usulan [Restrukturisasi] Sukuk Ijarah",
-  "deck": "Rapat pemegang Sukuk Ijarah Pos Indonesia menolak seluruh usulan restrukturisasi, termasuk penundaan pembayaran imbal jasa yang diminta perseroan hingga akhir 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "Pos Indonesia",
-   "Sukuk Ijarah",
-   "RUPSI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/400c2c7bf4_ab14c25592.pdf",
-  "sourceLabel": "IDX"
  }
 ];

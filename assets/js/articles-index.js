@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-dan-china-sepakat-percepat-perundingan-cepa",
+  "category": "Global",
+  "title": "Indonesia dan China Sepakat Percepat Perundingan [CEPA]",
+  "deck": "Indonesia dan Tiongkok sepakat mempercepat persiapan perundingan CEPA, sekaligus memperkuat kerja sama ekonomi hijau dan peningkatan kapasitas aparatur sipil negara.",
+  "date": "29 September 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "CEPA",
+   "Indonesia-Tiongkok",
+   "Ekonomi Hijau",
+   "WAICO"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7119/indonesia-dan-tiongkok-sepakat-percepat-persiapan-cepa-perkuat-kerja-sama-ekonomi-hijau-dan-peningkatan-kapasitas-asn",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "proyek-lrt-city-mangkrak-dibangun-lagi-1-oktober",
+  "category": "BUMN",
+  "title": "Proyek LRT City Mangkrak [Dibangun] Lagi 1 Oktober",
+  "deck": "Danantara pastikan pembangunan LRT City yang sempat mangkrak dilanjutkan mulai 1 Oktober 2026, dengan skema unit atau pengembalian dana bagi konsumen.",
+  "date": "29 September 2026",
+  "image": "assets/img/proyek-lrt-city-mangkrak-dibangun-lagi-1-oktober.jpg",
+  "imageV": "mumra09g",
+  "tags": [
+   "LRT City",
+   "Danantara",
+   "Adhi Karya",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470244-proyek-lrt-city-mangkrak-mulai-dibangun-lagi-1-oktober-begini-nasib-konsumen"
+ },
+ {
+  "slug": "truk-overload-di-tol-masih-tinggi-ri-kejar-zero-odol-2027",
+  "category": "Industri",
+  "title": "Truk [Overload] di Tol Masih Tinggi, RI Kejar Zero ODOL 2027",
+  "deck": "BPJT menambah alat pendeteksi truk kelebihan muatan di tol, sementara data Januari-Agustus 2026 menunjukkan hingga seperempat truk besar yang lewat masih melanggar batas muatan.",
+  "date": "29 September 2026",
+  "image": "assets/img/truk-overload-di-tol-masih-tinggi-ri-kejar-zero-odol-2027.jpg",
+  "imageV": "mumra0my",
+  "tags": [
+   "ODOL",
+   "truk overload",
+   "BPJT",
+   "jalan tol"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470230-kejar-zero-odol-2027-pemerintah-siapkan-tambahan-alat-pendeteksi-truk-overload-di-tol"
+ },
+ {
   "slug": "sini-jelaskan-divestasi-ikn-rp31-8-miliar-ke-bursa",
   "category": "Aksi Korporasi",
   "title": "SINI Jelaskan Divestasi IKN [Rp31,8 Miliar] ke Bursa",
@@ -119,6 +169,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7118/gandeng-republik-korea-pemerintah-dorong-penguatan-sdm-industri-offshore-plant-service-melalui-kios-center",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "posbankum-tembus-83-960-rp1-2-triliun-dihemat-negara",
+  "category": "Makroekonomi",
+  "title": "Posbankum Tembus 83.960, Rp1,2 Triliun [Dihemat] Negara",
+  "deck": "Kemenkum melaporkan 83.960 pos bantuan hukum berdiri di seluruh desa dan kelurahan, dengan 14.000 dari 16.000 kasus selesai lewat mediasi sehingga negara hemat Rp1,2 triliun.",
+  "date": "29 September 2026",
+  "image": "assets/img/posbankum-tembus-83-960-rp1-2-triliun-dihemat-negara.jpg",
+  "imageV": "mumra15h",
+  "tags": [
+   "Posbankum",
+   "Restorative Justice",
+   "Bantuan Hukum",
+   "Kementerian Hukum"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470226-83960-posbankum-terbentuk-di-indonesia-14-ribu-kasus-selesai-tanpa-pengadilan"
  },
  {
   "slug": "nice-akui-denda-rp185-93-miliar-arus-kas-operasi-negatif",
@@ -4734,7 +4801,7 @@ var ARTICLES = [
   "title": "ASEAN [Perkuat] Kerja Sama Dagang dengan UE, Inggris, Rusia",
   "deck": "Wakil Menteri Perdagangan Dyah Roro Esti mendorong penguatan kerja sama ekonomi ASEAN dengan Inggris, Uni Eropa, dan Rusia dalam pertemuan di Filipina, 17-22 September 2026.",
   "date": "24 September 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "ASEAN",
    "Kementerian Perdagangan",
@@ -5255,7 +5322,7 @@ var ARTICLES = [
   "title": "RI Dukung Reviu Perjanjian Dagang ASEAN-India [Rampung] 2026",
   "deck": "Wamendag Dyah Roro Esti menyatakan dukungan Indonesia agar reviu perjanjian dagang AITIGA dengan India rampung tahun ini, di sela pertemuan menteri ekonomi ASEAN-India di Filipina.",
   "date": "23 September 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "AITIGA",
    "ASEAN-India",
@@ -5353,7 +5420,7 @@ var ARTICLES = [
   "title": "FTA ASEAN-Kanada Ditarget [Rampung] Sebelum KTT ASEAN",
   "deck": "Indonesia mendorong ASEAN dan Kanada mempercepat perundingan FTA yang ditargetkan rampung sebelum KTT ASEAN awal November 2026, seiring lonjakan perdagangan dua arah kedua kawasan.",
   "date": "23 September 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "ACAFTA",
    "ASEAN-Kanada",
@@ -6426,73 +6493,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2410-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-tawarkan-energi-hijau-genjot-investasi-pusat-data",
-  "category": "Energi",
-  "title": "ESDM Tawarkan Energi Hijau Genjot Investasi [Pusat Data]",
-  "deck": "Menteri ESDM Bahlil Lahadalia menawarkan potensi PLTA Sungai Mamberamo 23 GW dan Sungai Kayan 12 GW untuk menarik investor membangun pusat data di Indonesia.",
-  "date": "23 September 2026",
-  "image": "assets/img/esdm-tawarkan-energi-hijau-genjot-investasi-pusat-data.jpg",
-  "imageV": "muddpja1",
-  "tags": [
-   "ESDM",
-   "Data Center",
-   "PLTA",
-   "Energi Terbarukan"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kebutuhan-energi-meningkat-industri-digital-berkembang-pesat-indonesia-siap-menjadi-pusat-data",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "clpi-panggil-rupslb-15-oktober-bahas-penyesuaian-anggaran-dasar",
-  "category": "Aksi Korporasi",
-  "title": "CLPI Panggil RUPSLB 15 Oktober, Bahas [Penyesuaian] Anggaran Dasar",
-  "deck": "Colorpak Indonesia (CLPI) memanggil RUPSLB pada 15 Oktober 2026 untuk menyetujui penyesuaian Pasal 3 anggaran dasar mengikuti klasifikasi usaha baru KBLI 2025, tanpa mengubah kegiatan usaha inti.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CLPI",
-   "Colorpak Indonesia",
-   "RUPSLB",
-   "anggaran dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0fe24f3bcc_a98eb71580.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-tunda-bayar-bunga-obligasi-rp11-1-miliar-ke-2027",
-  "category": "Aksi Korporasi",
-  "title": "PTPP [Tunda] Bayar Bunga Obligasi Rp11,1 Miliar ke 2027",
-  "deck": "RUPO menyetujui penundaan bunga Obligasi Berkelanjutan IV Tahap I 2024 senilai Rp11,1 miliar hingga 2027 tanpa denda, sehingga PTPP tak lagi wajib bayar pada 25 September 2026.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "obligasi",
-   "RUPO",
-   "BUMN karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b3fa9d5640_10e78def9a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gaikindo-gelar-pameran-otomotif-serentak-di-10-kota",
-  "category": "Industri",
-  "title": "GAIKINDO Gelar Pameran Otomotif [Serentak] di 10 Kota",
-  "deck": "GAIKINDO menggelar Permata Bank GAIKINDO Auto Week 2026 pada 20-29 November, untuk pertama kali serentak di 10 kota, tidak hanya di Jakarta seperti tahun-tahun sebelumnya.",
-  "date": "23 September 2026",
-  "image": "assets/img/gaikindo-gelar-pameran-otomotif-serentak-di-10-kota.jpg",
-  "imageV": "mucyshz8",
-  "tags": [
-   "GAIKINDO",
-   "Otomotif",
-   "Pameran",
-   "Permata Bank"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/permata-bank-gaikindo-auto-week-2026-serentak-di-10-kota-besar-se-indonesia/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
  }
 ];

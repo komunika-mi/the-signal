@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "inkp-siapkan-rp500-75-miliar-untuk-pelunasan-obligasi-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "INKP Siapkan Rp500,75 Miliar untuk [Pelunasan] Obligasi-Sukuk",
+  "deck": "Obligasi dan sukuk Seri C senilai total Rp500,75 miliar jatuh tempo 30 September 2026 dan resmi dihapus dari pencatatan BEI. INKP sebut dana kas sudah disiapkan penuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T21:52:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/06edaa9a44_efea526fcf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa mulai 30 September 2026, dua efek utang milik Indah Kiat Pulp & Paper Tbk (INKP) tidak lagi tercatat dan tidak dapat diperdagangkan di bursa karena telah jatuh tempo. Keduanya adalah Obligasi Berkelanjutan II Indah Kiat Pulp & Paper Tahap I Tahun 2021 Seri C berkode INKP02CCN1 senilai Rp450 miliar, dan Sukuk Mudharabah Berkelanjutan I Indah Kiat Pulp & Paper Tahap I Tahun 2021 Seri C berkode SMINKP01CCN1 senilai Rp50,75 miliar. Keduanya diterbitkan pada 30 September 2021 dengan jangka waktu lima tahun, sehingga jatuh tempo pada 30 September 2026 sesuai jadwal awal, bukan pelunasan dipercepat.",
+   "Obligasi Seri C ini memberi bunga tetap 10 persen per tahun, dibayarkan setiap tiga bulan, dengan pelunasan pokok penuh sekaligus di akhir periode alih-alih dicicil. Sukuk Mudharabah Seri C menggunakan skema bagi hasil dengan porsi (nisbah) pemegang sukuk sebesar 28,46 persen dari pendapatan yang dibagihasilkan, yang secara historis setara imbal hasil 10 persen per tahun, dengan pola pelunasan pokok yang sama.",
+   "Dokumen yang dilampirkan juga memuat surat manajemen INKP tertanggal 11 Juni 2026 kepada Pefindo, sebagai jawaban atas surat lembaga pemeringkat itu tertanggal 3 Juni 2026. Dalam surat tersebut, perseroan menyatakan telah menyediakan dana dalam bentuk kas dan setara kas yang mencukupi untuk membayar penuh pokok obligasi Rp450 miliar dan pokok sukuk Rp50,75 miliar pada saat jatuh tempo. Prospektus penerbitan menyebutkan obligasi dan sukuk ini tidak dijamin dengan agunan khusus, melainkan dengan seluruh kekayaan perseroan secara pari passu bersama kreditor lain, dan sempat memperoleh peringkat idA+ dari Pefindo untuk obligasi serta idA+(sy) untuk sukuk saat diterbitkan pada 2021."
+  ],
+  "fotoAdegan": "Industrial rollers processing large sheets of paper inside a busy pulp and paper factory, workers in safety gear nearby",
+  "takeaway": "Laporan ini netral bagi INKP karena pelunasan Rp500,75 miliar ini adalah kewajiban terjadwal yang sudah ditetapkan sejak penerbitan lima tahun lalu, bukan pembayaran dipercepat atau tanda tekanan keuangan, dan perseroan sudah mengonfirmasi dana kas tersedia penuh sejak pertengahan tahun ini. Yang tersentuh adalah arus kas dan beban utang perseroan: begitu dibayar, liabilitas obligasi dan sukuk sebesar Rp500,75 miliar itu keluar dari pembukuan sehingga total utang INKP berkurang, sementara kas perusahaan berkurang dengan jumlah yang sama karena dipakai melunasi pokok pinjaman. Skema bullet payment berarti seluruh pokok dibayar sekaligus di akhir periode, bukan dicicil bertahap, sehingga bebannya menumpuk tepat di tanggal jatuh tempo. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada 30 September 2026 itu sendiri serta konfirmasi pelunasan dari wali amanat dan KSEI setelahnya, karena baru pada titik itu kewajiban ini benar-benar tuntas tanpa gagal bayar.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "indonesia-dan-china-sepakat-percepat-perundingan-cepa",
   "category": "Global",
   "title": "Indonesia dan China Sepakat Percepat Perundingan [CEPA]",
@@ -31,6 +57,58 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "dpns-disuspensi-bei-laporan-keuangan-telat-dan-denda-nunggak",
+  "category": "Aksi Korporasi",
+  "title": "DPNS [Disuspensi] BEI, Laporan Keuangan Telat dan Denda Nunggak",
+  "deck": "Bursa menghentikan sementara perdagangan saham DPNS di seluruh pasar karena belum menyerahkan laporan keuangan teraudit kuartal I 2026 dan belum membayar denda Rp150 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T21:02:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9be3e9063a_6d42a43759.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DPNS",
+  "tags": [
+   "DPNS",
+   "suspensi saham",
+   "BEI",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan saham PT Duta Pertiwi Nusantara Tbk (DPNS) mulai sesi I perdagangan pasar reguler dan tunai, Selasa, 29 September 2026. Alasannya, DPNS belum menyampaikan Laporan Keuangan Tengah Tahunan (sebenarnya laporan interim per 31 Maret 2026) yang telah diaudit akuntan publik, dan belum melunasi denda keterlambatan yang sudah dijatuhkan sebelumnya.",
+   "Menurut pengumuman resmi bursa bernomor Peng-S-00031/BEI.PLP/09-2026, DPNS sebelumnya telah menerima Peringatan Tertulis III beserta denda Rp150 juta karena telat menyerahkan laporan keuangan tersebut. Berdasarkan Peraturan Bursa Nomor I-H tentang Sanksi, jika dalam 91 hari kalender sejak batas waktu penyampaian laporan keuangan terlampaui perusahaan masih belum memenuhi kewajiban itu, atau sudah menyerahkan laporan tapi belum membayar dendanya, bursa berwenang menghentikan sementara perdagangan sahamnya.",
+   "Bursa mencatat, per 28 September 2026, DPNS menjadi satu-satunya perusahaan tercatat yang belum memenuhi salah satu atau kedua kewajiban tersebut. Karena itu bursa memutuskan tetap melanjutkan suspensi atas saham DPNS di seluruh pasar. Pengumuman ditandatangani Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat Teuku Fahmi Ariandar, bersama Pelaksana Harian Kepala Divisi Pengaturan dan Operasional Perdagangan Martin Satria D. Bako."
+  ],
+  "fotoAdegan": "Empty stock exchange trading information board room with unattended desks and chairs, dim afternoon light, no visible text",
+  "takeaway": "Ini kabar negatif bagi DPNS, karena bursa mengubah sanksi administratif berupa denda menjadi langkah yang lebih keras, yaitu menutup sepenuhnya akses jual beli sahamnya di pasar reguler dan tunai. Yang tersentuh di sini bukan angka ekuitas atau laba per saham, melainkan likuiditas saham itu sendiri, kemampuan pemegang saham untuk keluar atau masuk dari posisi mereka kapan pun mereka mau, dan itu langsung terhenti selama suspensi berlangsung. Keterlambatan menyerahkan laporan keuangan teraudit juga menimbulkan tanda tanya soal kesiapan tata kelola internal perusahaan, sebab laporan yang sudah diperiksa akuntan publik seharusnya jadi rutinitas tahunan yang bisa direncanakan jauh hari. Yang perlu dipantau selanjutnya adalah kapan DPNS akhirnya menyerahkan laporan keuangan interim per 31 Maret 2026 yang teraudit dan melunasi denda Rp150 juta, karena dua syarat itulah yang akan menentukan kapan suspensi ini dicabut. Dokumen bursa tidak menyebut tenggat baru, sehingga durasi suspensi bergantung penuh pada kecepatan DPNS memenuhi kewajibannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "amms-rugi-rp1-5-miliar-di-semester-i-2026-laba-kotor-anjlok",
+  "category": "Aksi Korporasi",
+  "title": "AMMS Rugi [Rp1,5 Miliar] di Semester I 2026, Laba Kotor Anjlok",
+  "deck": "Emiten perikanan AMMS membukukan rugi bersih Rp1,5 miliar pada semester I 2026, berbalik dari laba tahun lalu, seiring pendapatan turun 28 persen dan laba kotor nyaris habis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T20:52:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929210436-64382-0/FinancialStatement-2026-II-AMMS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMMS",
+  "tags": [
+   "AMMS",
+   "laporan keuangan",
+   "rugi bersih",
+   "emiten perikanan"
+  ],
+  "body": [
+   "PT Agung Menjangan Mas Tbk (AMMS), emiten yang bergerak di pembesaran ikan kerapu laut dan perdagangan hasil perikanan, membukukan pendapatan Rp3,38 miliar pada semester I 2026, turun 28 persen dibandingkan Rp4,70 miliar pada periode yang sama tahun lalu. Beban pokok pendapatan justru naik dari Rp2,33 miliar menjadi Rp3,30 miliar, sehingga laba kotor perusahaan anjlok dari Rp2,37 miliar menjadi hanya Rp82,2 juta. Setelah dikurangi beban umum dan administrasi Rp1,64 miliar, perusahaan mencatat rugi bersih Rp1,52 miliar pada semester I 2026, berbalik dari laba bersih Rp677,8 juta pada semester I 2025. Rugi per saham tercatat Rp1,26, dibandingkan laba per saham Rp0,56 setahun sebelumnya.",
+   "Di sisi neraca, ekuitas atau modal pemegang saham turun dari Rp72,05 miliar pada akhir 2025 menjadi Rp70,53 miliar per 30 Juni 2026, tergerus oleh rugi berjalan. Total liabilitas justru melonjak 78 persen dibandingkan akhir 2025, dari Rp868,9 juta menjadi Rp1,55 miliar. Dalam surat terpisah ke Bursa Efek Indonesia tertanggal 29 September 2026 yang ditandatangani Direktur Utama Djuna Arif Sasmita, perusahaan menjelaskan kenaikan liabilitas itu dipicu oleh munculnya pos pendapatan diterima di muka senilai Rp680,4 juta, yang tidak ada pada akhir 2025.",
+   "Kas dan setara kas perusahaan relatif stabil di Rp6,63 miliar per akhir Juni 2026, turun tipis dari Rp6,67 miliar di akhir 2025. Arus kas dari aktivitas operasi masih negatif Rp44,1 juta, meski membaik dibandingkan minus Rp1,64 miliar pada semester I 2025. Perusahaan tidak mencatat aktivitas investasi maupun pendanaan baru pada periode ini, berbeda dari semester I 2025 saat AMMS mengeluarkan uang muka Rp2,5 miliar untuk pembuatan keramba kerapu. Perusahaan juga mencatat perubahan anggaran dasar terkait peningkatan modal dasar yang disahkan Kementerian Hukum dan HAM pada 4 Agustus 2026."
+  ],
+  "fotoAdegan": "Fishermen checking floating grouper fish cages on a calm brackish-water bay, overcast morning light, small boats nearby",
+  "takeaway": "Laporan ini condong negatif bagi AMMS, karena perusahaan berbalik dari laba bersih Rp677,8 juta pada semester I 2025 menjadi rugi Rp1,52 miliar pada semester I 2026, dipicu pendapatan yang turun 28 persen sementara beban pokok penjualan justru naik. Rugi ini langsung mengikis ekuitas, yaitu modal milik pemegang saham, dari Rp72,05 miliar menjadi Rp70,53 miliar, dan membalik laba per saham menjadi minus Rp1,26 dari sebelumnya positif Rp0,56, artinya setiap lembar saham kini menanggung bagian kerugian, bukan keuntungan. Kenaikan liabilitas 78 persen yang dilaporkan terpisah ke bursa sebenarnya bukan utang berbunga, melainkan pendapatan diterima di muka Rp680,4 juta, sehingga bukan sinyal tambahan tekanan keuangan. Yang perlu dipantau berikutnya adalah realisasi peningkatan modal dasar yang baru disahkan pemerintah pada 4 Agustus 2026, sebab penambahan modal dasar semacam ini biasanya membuka jalan bagi penerbitan saham baru saat ekuitas perusahaan sedang tergerus rugi seperti sekarang.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "proyek-lrt-city-mangkrak-dibangun-lagi-1-oktober",
   "category": "BUMN",
   "title": "Proyek LRT City Mangkrak [Dibangun] Lagi 1 Oktober",
@@ -56,6 +134,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah dari keterangan ini adalah kepastian tanggal, proyek yang mangkrak akan mulai dibangun lagi 1 Oktober 2026, dengan konsumen dibagi ke dua jalur, dapat unit atau uangnya dikembalikan. Yang jelas terdampak adalah konsumen yang sudah membayar unit LRT City sejak proyek berhenti, serta ADCP dan induknya Adhi Karya yang menanggung penyelesaiannya. Yang belum bisa dibaca arahnya dari keterangan ini adalah berapa banyak konsumen masuk skema refund dibanding skema unit, berapa total dana yang harus dikembalikan, dan kriteria yang membedakan keduanya. Yang perlu dipantau adalah apakah pembangunan benar terealisasi pada 1 Oktober serta pengumuman resmi pembagian skema per konsumen yang dijanjikan menyusul.",
   "imageV": "mumra09g"
+ },
+ {
+  "slug": "bei-lanjutkan-suspensi-32-saham-meski-kriteria-iii-1-6-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "BEI Lanjutkan Suspensi 32 Saham Meski Kriteria [III.1.6] Dicabut",
+  "deck": "BEI tetap melanjutkan suspensi 32 saham meski kriteria Papan Pemantauan Khusus III.1.6 dicabut lewat revisi Peraturan I-X yang berlaku 28 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T20:20:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9f1a7147f_9de6033661.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "BEI",
+   "suspensi saham",
+   "SMCB",
+   "TRIO"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) memutuskan tetap melanjutkan penghentian sementara perdagangan (suspensi) atas 32 perusahaan tercatat, meski dasar hukum suspensi itu, yakni kriteria III.1.6 Peraturan Nomor I-X tentang Papan Pemantauan Khusus, sudah dihapus lewat revisi peraturan yang efektif berlaku 28 September 2026 berdasarkan SK Direksi BEI nomor Kep-00139/BEI/09-2026 tanggal 25 September 2026. BEI menyatakan, di luar kriteria III.1.6 tersebut, ke-32 perusahaan itu masih memiliki penyebab suspensi lain, sehingga suspensi tetap dilanjutkan demi menjaga perdagangan efek yang teratur, wajar, dan efisien.",
+   "Ke-32 saham yang tetap disuspensi adalah ALMI (Alumindo Light Metal Industry), CBMF (Cahaya Bintang Medan), COWL (Cowell Development), DEAL (Dewata Freightinternational), DUCK (Jaya Bersama Indo), ETWA (Eterindo Wahanatama), FASW (Fajar Surya Wisesa), GAMA (Aksara Global Development), HOTL (Saraswati Griya Lestari), JSKY (Sky Energy Indonesia), KBRI (Kertas Basuki Rachmat Indonesia), LCGP (Eureka Prima Jakarta), LMSH (Lionmesh Prima), MABA (Marga Abhinaya Abadi), MFMI (Multifiling Mitra Indonesia), MTRA (Mitra Pemuda), MTSM (Metro Realty), NUSA (Sinergi Megah Internusa), PLAS (Polaris Investama), RIMO (Rimo International Lestari), SBAT (Sejahtera Bintang Abadi Textile), SIMA (Siwani Makmur), SKYB (Northcliff Citranusa Indonesia), SMCB (Solusi Bangun Indonesia), SUGI (Sugih Energy), SUPR (Solusi Tunas Pratama), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), TRIO (Trikomsel Oke), UNIT (Nusantara Inti Corpora), dan WICO (Wicaksana Overseas International). Dari jumlah itu, tujuh saham yakni FASW, GAMA, LMSH, MFMI, MTSM, SMCB, dan TRIO hanya disuspensi di pasar reguler dan tunai, sedangkan 25 saham lainnya disuspensi di seluruh pasar.",
+   "Suspensi awal berlaku sejak SK Direksi BEI nomor Kep-00035/BEI/06-2025 tanggal 3 Juni 2025, setelah perusahaan-perusahaan itu berada di Papan Pemantauan Khusus selama lebih dari satu tahun berturut-turut. MTSM menyusul disuspensi pada 10 Juli 2025, suspensi diperpanjang pada 31 Juli 2025, dan UNIT baru masuk daftar pada 30 Januari 2026. Bursa meminta pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi yang disampaikan masing-masing perusahaan tercatat tersebut."
+  ],
+  "fotoAdegan": "Empty escalators and glass facade inside a modern Jakarta financial district office lobby, soft morning light, no readable signage",
+  "takeaway": "Pengumuman ini netral bagi pasar karena tidak mengubah nasib satu pun dari 32 saham tersebut, semuanya tetap tidak bisa diperdagangkan meski dasar hukum suspensinya berganti dari kriteria III.1.6 menjadi alasan lain yang tidak dirinci BEI. Yang tersentuh bagi pemegang saham ke-32 emiten ini adalah likuiditas investasi mereka, yaitu kemampuan mengubah saham menjadi uang tunai dengan cepat, sebab suspensi membuat saham itu tidak bisa dijual maupun dibeli sampai ada pencabutan berikutnya. Yang perlu dipantau selanjutnya adalah keterbukaan informasi dari masing-masing 32 perusahaan tersebut, karena bursa secara eksplisit meminta investor mengikuti penjelasan tiap emiten soal alasan suspensi yang tersisa dan langkah menuju pencabutannya.",
+  "sentimen": "netral"
  },
  {
   "slug": "truk-overload-di-tol-masih-tinggi-ri-kejar-zero-odol-2027",

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "inkp-siapkan-rp500-75-miliar-untuk-pelunasan-obligasi-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "INKP Siapkan Rp500,75 Miliar untuk [Pelunasan] Obligasi-Sukuk",
+  "deck": "Obligasi dan sukuk Seri C senilai total Rp500,75 miliar jatuh tempo 30 September 2026 dan resmi dihapus dari pencatatan BEI. INKP sebut dana kas sudah disiapkan penuh.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/06edaa9a44_efea526fcf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-dan-china-sepakat-percepat-perundingan-cepa",
   "category": "Global",
   "title": "Indonesia dan China Sepakat Percepat Perundingan [CEPA]",
@@ -19,6 +35,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7119/indonesia-dan-tiongkok-sepakat-percepat-persiapan-cepa-perkuat-kerja-sama-ekonomi-hijau-dan-peningkatan-kapasitas-asn",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "dpns-disuspensi-bei-laporan-keuangan-telat-dan-denda-nunggak",
+  "category": "Aksi Korporasi",
+  "title": "DPNS [Disuspensi] BEI, Laporan Keuangan Telat dan Denda Nunggak",
+  "deck": "Bursa menghentikan sementara perdagangan saham DPNS di seluruh pasar karena belum menyerahkan laporan keuangan teraudit kuartal I 2026 dan belum membayar denda Rp150 juta.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DPNS",
+   "suspensi saham",
+   "BEI",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9be3e9063a_6d42a43759.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amms-rugi-rp1-5-miliar-di-semester-i-2026-laba-kotor-anjlok",
+  "category": "Aksi Korporasi",
+  "title": "AMMS Rugi [Rp1,5 Miliar] di Semester I 2026, Laba Kotor Anjlok",
+  "deck": "Emiten perikanan AMMS membukukan rugi bersih Rp1,5 miliar pada semester I 2026, berbalik dari laba tahun lalu, seiring pendapatan turun 28 persen dan laba kotor nyaris habis.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMMS",
+   "laporan keuangan",
+   "rugi bersih",
+   "emiten perikanan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929210436-64382-0/FinancialStatement-2026-II-AMMS.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "proyek-lrt-city-mangkrak-dibangun-lagi-1-oktober",
@@ -36,6 +84,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470244-proyek-lrt-city-mangkrak-mulai-dibangun-lagi-1-oktober-begini-nasib-konsumen"
+ },
+ {
+  "slug": "bei-lanjutkan-suspensi-32-saham-meski-kriteria-iii-1-6-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "BEI Lanjutkan Suspensi 32 Saham Meski Kriteria [III.1.6] Dicabut",
+  "deck": "BEI tetap melanjutkan suspensi 32 saham meski kriteria Papan Pemantauan Khusus III.1.6 dicabut lewat revisi Peraturan I-X yang berlaku 28 September 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEI",
+   "suspensi saham",
+   "SMCB",
+   "TRIO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9f1a7147f_9de6033661.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "truk-overload-di-tol-masih-tinggi-ri-kejar-zero-odol-2027",
@@ -6427,71 +6491,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d46d7fbfd9_1b70bc69e0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "idx-saham-nick-terkonsentrasi-99-28-free-float-menipis",
-  "category": "Aksi Korporasi",
-  "title": "IDX: Saham NICK Terkonsentrasi 99,28%, [Free Float] Menipis",
-  "deck": "Bursa Efek Indonesia dan KSEI mengumumkan 99,28% saham Charnic Capital (NICK) dikuasai sejumlah kecil pemegang saham per 18 September 2026.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICK",
-   "Charnic Capital",
-   "free float",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6548082c4a_8be7d0889c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-naik-tipis-ke-rp2-630-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Naik] Tipis ke Rp2.630.000/Gram",
-  "deck": "Harga emas Antam naik tipis Rp3.000 menjadi Rp2.630.000 per gram pada 23 September 2026, harga buyback ikut naik ke Rp2.465.000 per gram.",
-  "date": "23 September 2026",
-  "image": "assets/img/harga-emas-antam-naik-tipis-ke-rp2-630-000-gram.jpg",
-  "imageV": "mudnaozj",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468812-harga-emas-antam-hari-ini-23-september-2026-rp2630000-per-gram-naik-tipis-rp3000"
- },
- {
-  "slug": "rlco-direksi-tambah-40-juta-saham-lewat-repo-substitusi",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: [Direksi] Tambah 40 Juta Saham Lewat Repo Substitusi",
-  "deck": "Samuel Sekuritas Indonesia, direksi RLCO, menambah kepemilikan 40,07 juta saham lewat transaksi repurchase agreement bertujuan substitusi, hak suaranya naik dari 5,29% menjadi 6,57%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1949-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bksl-saham-direksi-berkurang-2-7-miliar-lembar-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "BKSL: Saham Direksi Berkurang 2,7 Miliar Lembar lewat [Repo]",
-  "deck": "Transaksi repurchase agreement memangkas kepemilikan pelapor berjabatan Direksi sebesar 23,9 persen, hak suaranya turun dari 6,85 persen menjadi 5,21 persen.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKSL",
-   "Sentul City",
-   "kepemilikan saham",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2410-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

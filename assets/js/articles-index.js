@@ -5,6 +5,92 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penghasilan-nelayan-sinjai-naik-jadi-rp7-juta-per-bulan",
+  "category": "UMKM",
+  "title": "Penghasilan Nelayan Sinjai [Naik] Jadi Rp7 Juta per Bulan",
+  "deck": "Kampung Nelayan Merah Putih di Sinjai kembali kirim 12 ton tuna loin ke Jakarta, seiring klaim KKP soal naiknya pendapatan nelayan setempat sejak Mei lalu.",
+  "date": "29 September 2026",
+  "image": "assets/img/penghasilan-nelayan-sinjai-naik-jadi-rp7-juta-per-bulan.jpg",
+  "imageV": "mumo5h46",
+  "tags": [
+   "Kampung Nelayan Merah Putih",
+   "Nelayan Sinjai",
+   "Tuna",
+   "KKP"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/operasional-kampung-nelayan-merah-putih-bikin-penghasilan-nelayan-tongke-tongke-melonjak-rmwK.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "kkp-mulai-perluasan-pelabuhan-pengambengan-senilai-rp1-27-t",
+  "category": "Industri",
+  "title": "KKP Mulai [Perluasan] Pelabuhan Pengambengan Senilai Rp1,27 T",
+  "deck": "KKP memulai pengembangan Pelabuhan Perikanan Nusantara Pengambengan di Jembrana, Bali, senilai Rp1,27 triliun untuk perluasan kapasitas tangkap dan olah ikan hingga 2029.",
+  "date": "29 September 2026",
+  "image": "assets/img/kkp-mulai-perluasan-pelabuhan-pengambengan-senilai-rp1-27-t.jpg",
+  "imageV": "mumo5isz",
+  "tags": [
+   "KKP",
+   "Pelabuhan Perikanan",
+   "Bali",
+   "IsDB"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/menteri-trenggono-siapkan-ppn-pengambengan-jadi-pelabuhan-perikanan-kelas-dunia-wKBM.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "ri-korea-resmikan-pusat-pelatihan-sdm-industri-lepas-pantai",
+  "category": "Industri",
+  "title": "RI-Korea Resmikan Pusat Pelatihan [SDM] Industri Lepas Pantai",
+  "deck": "Indonesia dan Korea Selatan membuka pusat pelatihan simulator untuk industri offshore plant service di Jakarta, menargetkan 240 tenaga terlatih hingga 2029.",
+  "date": "29 September 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "Kerja Sama Indonesia-Korea",
+   "Industri Lepas Pantai",
+   "Pelatihan SDM",
+   "STIP"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7118/gandeng-republik-korea-pemerintah-dorong-penguatan-sdm-industri-offshore-plant-service-melalui-kios-center",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "infranexia-ccsi-garap-kabel-laut-sub-2-jawa-sulawesi-kalimantan",
+  "category": "Teknologi",
+  "title": "InfraNexia-CCSI Garap Kabel Laut [SUB-2] Jawa-Sulawesi-Kalimantan",
+  "deck": "InfraNexia dan CCSI-KD meneken kesepakatan awal pembangunan kabel laut SUB-2 yang akan menyambungkan Jawa, Sulawesi, dan Kalimantan untuk memperkuat kapasitas jaringan data.",
+  "date": "29 September 2026",
+  "image": "assets/img/infranexia-ccsi-garap-kabel-laut-sub-2-jawa-sulawesi-kalimantan.jpg",
+  "imageV": "mumo5ka7",
+  "tags": [
+   "InfraNexia",
+   "Telkom Indonesia",
+   "kabel laut",
+   "SUB-2"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470214-infranexia-dan-ccsi-kd-kembangkan-skkl-sub-2-dorong-kesiapan-infrastruktur-hadapi-pertumbuhan-trafik-data"
+ },
+ {
+  "slug": "blangkon-jawa-bertahan-berkat-pembiayaan-pnm-mekaar",
+  "category": "UMKM",
+  "title": "Blangkon Jawa Bertahan Berkat Pembiayaan [PNM] Mekaar",
+  "deck": "Perajin blangkon Tri Damayanti bertahan dan berkembang berkat pembiayaan bahan baku serta pendampingan pemasaran dari PNM sejak 2023.",
+  "date": "29 September 2026",
+  "image": "assets/img/blangkon-jawa-bertahan-berkat-pembiayaan-pnm-mekaar.jpg",
+  "imageV": "mumo5kqa",
+  "tags": [
+   "blangkon",
+   "PNM Mekaar",
+   "UMKM",
+   "pembiayaan ultra mikro"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470211-blangkon-jawa-tetap-hidup-di-tengah-zaman-bersama-pnm-mekaar"
+ },
+ {
   "slug": "film-gandeng-sbs-korea-perdalam-kerja-sama-konten-media",
   "category": "Aksi Korporasi",
   "title": "FILM Gandeng SBS Korea, [Perdalam] Kerja Sama Konten Media",
@@ -117,6 +203,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ieu-cepa-bisa-hapus-selisih-tarif-ri-vietnam-di-eropa",
+  "category": "Industri",
+  "title": "IEU-CEPA Bisa [Hapus] Selisih Tarif RI-Vietnam di Eropa",
+  "deck": "DEN menyebut IEU-CEPA berpotensi menyamakan tarif produk padat karya Indonesia dengan Vietnam di pasar Eropa mulai tahun depan.",
+  "date": "29 September 2026",
+  "image": "assets/img/ieu-cepa-bisa-hapus-selisih-tarif-ri-vietnam-di-eropa.jpg",
+  "imageV": "mumo5l4u",
+  "tags": [
+   "IEU-CEPA",
+   "tarif ekspor",
+   "investasi padat karya",
+   "Vietnam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470184-ieu-cepa-berpotensi-hapus-gap-tarif-ri-vietnam-investasi-padat-karya-bisa-bergeser-ke-indonesia"
+ },
+ {
   "slug": "pupuk-indonesia-bawa-16-umkm-binaan-ke-kriyanusa-2026",
   "category": "UMKM",
   "title": "Pupuk Indonesia Bawa [16] UMKM Binaan ke Kriyanusa 2026",
@@ -156,7 +259,7 @@ var ARTICLES = [
   "title": "Proyek JICA di Kawasan Rebana [Rampung], Investasi Tembus Rp131,6 T",
   "deck": "Kerja sama teknis dua tahun Indonesia-Jepang untuk Kawasan Rebana tuntas, menghasilkan rencana induk kawasan dan pedoman industri hijau di sekitar Pelabuhan Patimban.",
   "date": "29 September 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/buruh-pabrik.jpg",
   "tags": [
    "Kawasan Rebana",
    "JICA",
@@ -4113,7 +4216,7 @@ var ARTICLES = [
   "title": "RI Genjot Ekspor Furnitur, Kurangi [Ketergantungan] ke AS",
   "deck": "Pemerintah mendorong industri furnitur nasional memperluas pasar ekspor di IFFINA+ 2026, karena 60 persen ekspor masih bertumpu ke Amerika Serikat meski sektor ini surplus sejak 2021.",
   "date": "24 September 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "furnitur",
    "ekspor",
@@ -6398,106 +6501,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-9273-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-komisi-eropa-ke-ri-bahas-percepatan-cepa",
-  "category": "Global",
-  "title": "Presiden Komisi Eropa ke RI Bahas [Percepatan] CEPA",
-  "deck": "Airlangga sebut Presiden Komisi Eropa Ursula von der Leyen dan Komisioner Dagang Maros Sefcovic akan ke Indonesia akhir Oktober-awal November bahas percepatan IEU-CEPA.",
-  "date": "22 September 2026",
-  "image": "assets/img/presiden-komisi-eropa-ke-ri-bahas-percepatan-cepa.jpg",
-  "imageV": "muctmmrn",
-  "tags": [
-   "IEU-CEPA",
-   "Uni Eropa",
-   "Airlangga Hartarto",
-   "perjanjian dagang"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468734-ungkap-perkembangan-ieu-cepa-airlangga-sebut-presiden-komisi-eropa-akan-ke-ri-bahas-percepatan-perjanjian-dagang"
- },
- {
-  "slug": "7-umk-binaan-pertamina-tembus-pameran-caexpo-di-china",
-  "category": "UMKM",
-  "title": "7 UMK Binaan Pertamina [Tembus] Pameran CAEXPO di China",
-  "deck": "Tujuh usaha mikro dan kecil mitra binaan Pertamina memamerkan produk di China-ASEAN Expo 2026 untuk menjaring pembeli dari Tiongkok dan ASEAN.",
-  "date": "22 September 2026",
-  "image": "assets/img/7-umk-binaan-pertamina-tembus-pameran-caexpo-di-china.jpg",
-  "imageV": "muctmn74",
-  "tags": [
-   "UMK",
-   "Pertamina",
-   "CAEXPO",
-   "ekspor UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468731-7-umk-binaan-pertamina-tampil-di-caexpo-2026-akses-pasar-global-kian-terbuka-di-china"
- },
- {
-  "slug": "nasib-pembatasan-pertalite-desil-9-10-masih-mengambang",
-  "category": "Energi",
-  "title": "Nasib Pembatasan Pertalite Desil 9-10 Masih [Mengambang]",
-  "deck": "Menteri ESDM Bahlil Lahadalia menyebut rencana pembatasan Pertalite bagi kelompok desil 9-10 belum diputuskan, menunggu pembahasan dengan Menteri Keuangan baru dan validasi data.",
-  "date": "22 September 2026",
-  "image": "assets/img/nasib-pembatasan-pertalite-desil-9-10-masih-mengambang.jpg",
-  "imageV": "mucysiiq",
-  "tags": [
-   "pertalite",
-   "subsidi bbm",
-   "bahlil lahadalia",
-   "desil 9-10"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468703-pembatasan-pertalite-untuk-desil-9-10-belum-pasti-bahlil-pemerintah-masih-cek-data"
- },
- {
-  "slug": "bafi-terbitkan-obligasi-dan-sukuk-rp902-miliar-rating-aaa",
-  "category": "Aksi Korporasi",
-  "title": "BAFI Terbitkan Obligasi dan Sukuk Rp902 Miliar, Rating [AAA]",
-  "deck": "BAFI menerbitkan obligasi tahap II senilai Rp552,26 miliar dan sukuk mudharabah Rp350 miliar, dengan bunga tetap 7,10-7,35 persen per tahun dan peringkat AAA dari Fitch dan Pefindo.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAFI",
-   "obligasi",
-   "sukuk",
-   "multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fe18f57d56_9bbfced863.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "investasi-plts-100-gw-tembus-rp1-306-triliun",
-  "category": "Energi",
-  "title": "Investasi PLTS 100 GW Tembus [Rp1.306] Triliun",
-  "deck": "Menteri ESDM Bahlil Lahadalia mengungkap kebutuhan investasi 100 gigawatt PLTS mencapai Rp1,306 triliun, ditargetkan rampung dalam tiga tahun.",
-  "date": "22 September 2026",
-  "image": "assets/img/investasi-plts-100-gw-tembus-rp1-306-triliun.jpg",
-  "imageV": "muco4bfm",
-  "tags": [
-   "PLTS",
-   "ESDM",
-   "Bahlil Lahadalia",
-   "net zero emission"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468700-bahlil-ungkap-investasi-plts-100-gw-tembus-rp1306-triliun-ditarget-rampung-3-tahun"
- },
- {
-  "slug": "menkeu-siapkan-3-strategi-perkuat-pengawasan-bea-cukai",
-  "category": "Makroekonomi",
-  "title": "Menkeu Siapkan 3 Strategi [Perkuat] Pengawasan Bea Cukai",
-  "deck": "Suahasil Nazara memaparkan tiga langkah memperkuat pengawasan DJBC: penguatan SDM, pemanfaatan teknologi, dan pembenahan proses bisnis.",
-  "date": "22 September 2026",
-  "image": "assets/img/menkeu-siapkan-3-strategi-perkuat-pengawasan-bea-cukai.jpg",
-  "imageV": "muco4eak",
-  "tags": [
-   "bea cukai",
-   "DJBC",
-   "Kemenkeu",
-   "Suahasil Nazara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468715-jurus-menkeu-suahasil-untuk-perkuat-pengawasan-bea-cukai-siapkan-3-strategi"
  }
 ];

@@ -77,6 +77,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "inkp-lunasi-obligasi-sukuk-rp1-04-triliun-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "INKP Lunasi Obligasi-Sukuk [Rp1,04 Triliun] November 2026",
+  "deck": "INKP akan melunasi pokok obligasi dan sukuk rupiah senilai total Rp1,04 triliun pada 21 November 2026, disusul obligasi dolar AS US$900.000 sehari kemudian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T11:04:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f8f046c494_2d4e62d626.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "body": [
+   "Direksi Indah Kiat Pulp & Paper Tbk (INKP) mengumumkan rencana pelunasan pokok atas tiga instrumen utang lewat surat bernomor 086/IKPP-DIR/IX/2026 tertanggal 29 September 2026. Ketiga instrumen itu adalah Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap III Tahun 2023 Seri B, Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap III Tahun 2023 Seri B, dan Obligasi USD Berkelanjutan I Indah Kiat Pulp & Paper Tahap II Tahun 2023 Seri B.",
+   "Untuk seri obligasi rupiah, INKP akan melunasi pokok senilai Rp739,72 miliar dengan tingkat bunga 10,25 persen. Sukuk mudharabah dengan skema bagi hasil setara 10,25 persen akan dilunasi sebesar Rp303,56 miliar. Kedua pembayaran itu dijadwalkan pada 21 November 2026. Sehari setelahnya, pada 22 November 2026, giliran obligasi berdenominasi dolar Amerika Serikat senilai US$900.000 dengan bunga 7 persen yang pokoknya akan dilunasi.",
+   "Surat pemberitahuan ini ditandatangani oleh Corporate Secretary INKP, Heri Santoso, dan dilampiri dokumen bertajuk kesiapan dana yang menyatakan perusahaan telah menyiapkan dana untuk merealisasikan seluruh pembayaran tersebut. Total nilai pokok yang akan dilunasi dalam rupiah mencapai Rp1,04 triliun, di luar kewajiban dalam dolar AS."
+  ],
+  "fotoAdegan": "Rolls of finished paper stacked in a large pulp and paper mill warehouse, forklift moving between rows, industrial lighting",
+  "takeaway": "Laporan ini netral bagi INKP karena pelunasan pokok obligasi dan sukuk ini memang sudah sesuai jadwal jatuh tempo yang ditetapkan sejak penerbitannya, bukan pembayaran dipercepat atau tanda perubahan mendadak pada kondisi keuangan perusahaan. Yang tersentuh adalah beban bunga, yaitu biaya yang dibayar perusahaan atas pinjamannya: setelah ketiga instrumen ini lunas, beban bunga tahunan INKP berkurang karena bunga 10,25 persen dan 7 persen yang selama ini dibayarkan tidak lagi muncul, sementara jumlah utang di neraca ikut turun sekitar Rp1,04 triliun ditambah US$900.000, sesuatu yang biasanya dipandang mengurangi risiko keuangan oleh kreditor dan analis. Yang perlu dipantau adalah apakah INKP benar merealisasikan pembayaran pada 21 November 2026 untuk obligasi dan sukuk rupiah serta 22 November 2026 untuk obligasi dolar AS sesuai jadwal, sebab keterlambatan pelunasan pokok bisa berujung status gagal bayar.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "crab-utang-bank-mandiri-disorot-auditor-sebagai-hal-audit-utama",
   "category": "Aksi Korporasi",
   "title": "CRAB: Utang Bank Mandiri Disorot Auditor sebagai [Hal Audit Utama]",
@@ -311,6 +337,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "crab-bagikan-dividen-rp2-saham-mayoritas-laba-ditahan",
+  "category": "Aksi Korporasi",
+  "title": "CRAB Bagikan [Dividen] Rp2/Saham, Mayoritas Laba Ditahan",
+  "deck": "RUPS Toba Surimi menyetujui dividen tunai Rp3,9 miliar dari laba bersih Rp22,84 miliar, sisanya ditahan sebagai modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T09:43:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/64339dad47_2de98aa75f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRAB",
+  "tags": [
+   "CRAB",
+   "RUPS",
+   "dividen",
+   "Toba Surimi"
+  ],
+  "body": [
+   "RUPST PT Toba Surimi Industries Tbk (CRAB) yang digelar 25 September 2026 di Medan dihadiri pemegang saham yang mewakili 1.653.753.400 saham, setara 84,81 persen dari total 1.950.000.000 saham beredar. Selain mengesahkan laporan tahunan dan laporan keuangan 2025, rapat menyetujui pembagian laba bersih tahun buku 2025 sebesar Rp22,84 miliar. Dari jumlah itu, Rp3,9 miliar atau 17,08 persen dibagikan sebagai dividen tunai senilai Rp2 per saham, sementara sisanya Rp18,94 miliar atau 82,92 persen ditahan sebagai modal kerja perusahaan.",
+   "Rapat juga memberi kuasa kepada Dewan Komisaris untuk menunjuk kantor akuntan publik yang akan mengaudit laporan keuangan tahun buku 2026 serta menetapkan honorariumnya, dan memberi wewenang kepada Dewan Komisaris menetapkan gaji serta remunerasi Direksi dan Komisaris dengan mengacu pada besaran tahun 2025 dan kondisi keuangan perseroan. Perubahan susunan Direksi dan Komisaris, termasuk pengangkatan Beston Barto Siboro sebagai Direktur Utama baru, turut disahkan dalam RUPST ini dan sudah diberitakan sebelumnya. Untuk agenda keenam, Direksi hanya menyampaikan laporan realisasi penggunaan dana hasil penawaran umum saham perdana tanpa pemungutan suara karena sifatnya informatif.",
+   "Dalam RUPSLB yang dihadiri pemegang saham mewakili 1.653.801.100 saham atau 84,81 persen, pemegang saham menyetujui perubahan maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia. Perseroan menegaskan perubahan ini dilakukan tanpa merujuk pada POJK Nomor 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha, yang berarti manajemen tidak memperlakukan penyesuaian klasifikasi usaha ini sebagai transaksi material yang memerlukan prosedur tambahan. Seluruh agenda RUPST dan RUPSLB disetujui bulat tanpa suara menolak atau abstain."
+  ],
+  "fotoAdegan": "Workers processing fresh fish catch into surimi paste at a coastal seafood plant, stainless steel equipment, industrial lighting",
+  "takeaway": "Laporan ini kami nilai netral bagi Toba Surimi, karena dividen yang dibagikan relatif kecil dibanding labanya dan sebagian besar keuntungan tetap ditahan, bukan sinyal jelas ke arah mana pun soal kinerja perusahaan. Yang tersentuh di sini adalah kas dan ekuitas: Rp3,9 miliar akan keluar sebagai dividen ke pemegang saham, sementara Rp18,94 miliar sisanya masuk ke laba ditahan yang memperkuat modal kerja, hal yang lebih relevan karena perseroan sebelumnya disorot auditor terkait utang ke Bank Mandiri sehingga kas internal jadi lebih diperhatikan. Perubahan klasifikasi kegiatan usaha mengikuti aturan baru BPS tidak mengubah bisnis inti perusahaan sehingga dampaknya ke laporan keuangan minim. Yang perlu dipantau selanjutnya adalah tanggal pembayaran dividen yang belum disebutkan dalam ringkasan ini, serta siapa akuntan publik baru yang akan ditunjuk Dewan Komisaris untuk mengaudit tahun buku 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "inps-buka-jadwal-rupslb-3-november-ini-tenggatnya",
   "category": "Aksi Korporasi",
   "title": "INPS Buka Jadwal [RUPSLB] 3 November, Ini Tenggatnya",
@@ -334,6 +386,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Empty conference hall with rows of chairs being arranged before a corporate shareholders meeting, tall windows, Jakarta office tower morning light",
   "takeaway": "Laporan ini netral bagi fundamental INPS, karena isinya sekadar jadwal dan mekanisme rapat, bukan angka keuangan baru, dan rencana penambahan modalnya sendiri sudah lebih dulu diberitakan lewat suntikan Rp125 miliar dari GIGP. Yang tetap perlu diperhatikan adalah dampaknya pada jumlah saham beredar, karena penambahan modal tanpa hak memesan efek terlebih dahulu berarti pemegang saham lama tidak diberi kesempatan membeli saham baru secara proporsional, sehingga porsi kepemilikan dan laba per saham mereka bisa terdilusi begitu saham baru itu resmi diterbitkan. Yang perlu dipantau berikutnya adalah rangkaian tenggat menuju RUPSLB, yaitu batas usulan agenda pada 5 Oktober 2026, recording date pemegang saham pada 9 Oktober 2026, pemanggilan resmi pada 12 Oktober 2026, dan RUPSLB itu sendiri pada 3 November 2026 yang akan menjadi keputusan final soal penambahan modal ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bata-umumkan-rencana-rupslb-pada-5-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BATA Umumkan Rencana [RUPSLB] pada 5 November 2026",
+  "deck": "Sepatu Bata Tbk akan menggelar RUPSLB pada 5 November 2026, dengan recording date pemegang saham 13 Oktober dan mata acara resmi diumumkan 14 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T09:35:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5b4cf2cd80_131a208db2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BATA",
+  "tags": [
+   "BATA",
+   "RUPSLB",
+   "Sepatu Bata Tbk",
+   "Pemegang Saham"
+  ],
+  "body": [
+   "Sepatu Bata Tbk (BATA) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 5 November 2026 pukul 14.00 WIB, bertempat di Gedung Ventura lantai 7, Jl. Raden Ajeng Kartini No. 26, Cilandak Barat, Jakarta Selatan. Pengumuman ini disampaikan lewat surat bernomor 035/BATA-CS/IX/2026 tertanggal 29 September 2026, yang ditandatangani Corporate Secretary Sanusi dan merujuk pada surat sebelumnya bernomor 033/BATA-CS/IX/2026.",
+   "Perseroan menetapkan 13 Oktober 2026 pukul 16.00 WIB sebagai batas pencatatan Daftar Pemegang Saham (DPS), yakni tanggal acuan untuk menentukan siapa saja yang berhak hadir dan memberikan suara dalam RUPSLB. Pemegang saham, sendiri atau bergabung dengan pemegang saham lain, yang mewakili minimal 1/20 atau sekitar 5 persen dari total saham berhak suara Perseroan dapat mengusulkan tambahan mata acara rapat. Usulan itu harus diajukan tertulis kepada Direksi paling lambat tujuh hari sebelum pemanggilan resmi rapat, dilandasi itikad baik, mempertimbangkan kepentingan Perseroan, disertai alasan dan bahan usulan, serta tidak bertentangan dengan Anggaran Dasar maupun peraturan yang berlaku.",
+   "Dokumen ini belum memuat mata acara RUPSLB. Perseroan menyatakan pemanggilan resmi beserta mata acara Rapat baru akan diumumkan di situs web PT Kustodian Sentral Efek Indonesia (KSEI), situs Bursa Efek Indonesia, dan situs Perseroan pada 14 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of leather shoes moving along a footwear factory assembly line, workers inspecting stitching under bright industrial lighting",
+  "takeaway": "Pengumuman ini netral bagi BATA karena baru memberi tahu jadwal dan mekanisme RUPSLB, tanpa memuat keputusan atau angka keuangan apa pun yang bisa langsung dinilai dampaknya. Yang tersentuh di sini adalah hak suara pemegang saham: hanya yang namanya tercatat di Daftar Pemegang Saham per 13 Oktober 2026 pukul 16.00 WIB yang berhak hadir dan bersuara di rapat, sementara pemegang saham dengan minimal sekitar 5 persen dari total saham berhak suara bisa mengusulkan agenda tambahan lewat surat resmi ke Direksi. RUPSLB ini muncul sekitar dua pekan setelah Perseroan melaporkan pengunduran diri Presiden Direktur yang keputusannya diserahkan ke RUPS, sehingga ada kemungkinan agenda rapat nanti menyangkut posisi tersebut, meski Perseroan belum merincinya dalam pengumuman ini. Yang perlu dipantau berikutnya adalah pengumuman resmi mata acara Rapat pada 14 Oktober 2026 di situs KSEI, BEI, dan Perseroan, serta pelaksanaan RUPSLB itu sendiri pada Kamis, 5 November 2026.",
   "sentimen": "netral"
  },
  {

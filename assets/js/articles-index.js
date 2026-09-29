@@ -49,6 +49,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "inkp-lunasi-obligasi-sukuk-rp1-04-triliun-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "INKP Lunasi Obligasi-Sukuk [Rp1,04 Triliun] November 2026",
+  "deck": "INKP akan melunasi pokok obligasi dan sukuk rupiah senilai total Rp1,04 triliun pada 21 November 2026, disusul obligasi dolar AS US$900.000 sehari kemudian.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f8f046c494_2d4e62d626.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "crab-utang-bank-mandiri-disorot-auditor-sebagai-hal-audit-utama",
   "category": "Aksi Korporasi",
   "title": "CRAB: Utang Bank Mandiri Disorot Auditor sebagai [Hal Audit Utama]",
@@ -193,6 +209,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "crab-bagikan-dividen-rp2-saham-mayoritas-laba-ditahan",
+  "category": "Aksi Korporasi",
+  "title": "CRAB Bagikan [Dividen] Rp2/Saham, Mayoritas Laba Ditahan",
+  "deck": "RUPS Toba Surimi menyetujui dividen tunai Rp3,9 miliar dari laba bersih Rp22,84 miliar, sisanya ditahan sebagai modal kerja.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRAB",
+   "RUPS",
+   "dividen",
+   "Toba Surimi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/64339dad47_2de98aa75f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "inps-buka-jadwal-rupslb-3-november-ini-tenggatnya",
   "category": "Aksi Korporasi",
   "title": "INPS Buka Jadwal [RUPSLB] 3 November, Ini Tenggatnya",
@@ -206,6 +238,22 @@ var ARTICLES = [
    "GIGP"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1856472da8_e8f7a631e2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bata-umumkan-rencana-rupslb-pada-5-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BATA Umumkan Rencana [RUPSLB] pada 5 November 2026",
+  "deck": "Sepatu Bata Tbk akan menggelar RUPSLB pada 5 November 2026, dengan recording date pemegang saham 13 Oktober dan mata acara resmi diumumkan 14 Oktober 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BATA",
+   "RUPSLB",
+   "Sepatu Bata Tbk",
+   "Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5b4cf2cd80_131a208db2.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6448,54 +6496,6 @@ var ARTICLES = [
    "Edwin Soeryadjaya"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8437-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "euro-rombak-direksi-restui-rights-issue-2-miliar-saham",
-  "category": "Aksi Korporasi",
-  "title": "EURO Rombak Direksi, Restui [Rights Issue] 2 Miliar Saham",
-  "deck": "Pemegang saham EURO merestui rights issue hingga 2 miliar saham baru, penambahan komisaris dan direksi baru, serta perubahan klasifikasi usaha dalam RUPSLB 18 September 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EURO",
-   "rights issue",
-   "RUPSLB",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/879cf3428e_8ddf859998.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtfn-raih-opini-kualifikasian-atas-laporan-keuangan-2025",
-  "category": "Aksi Korporasi",
-  "title": "MTFN Raih Opini [Kualifikasian] atas Laporan Keuangan 2025",
-  "deck": "Auditor memberi opini kualifikasian atas laporan keuangan 2025 MTFN karena pengungkapan ketidakpastian usaha tiga entitas anak yang akan dilepas dinilai belum memadai.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTFN",
-   "opini kualifikasian",
-   "laporan keuangan",
-   "Capitalinc Investment"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/be7c1ab721_bb816ae05e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inaf-jadwalkan-rupslb-pada-29-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "INAF Jadwalkan [RUPSLB] pada 29 Oktober 2026",
-  "deck": "Indofarma mengumumkan RUPSLB digelar 29 Oktober 2026, dengan tenggat usulan agenda pemegang saham 30 September dan pencatatan pemegang saham 6 Oktober 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INAF",
-   "RUPSLB",
-   "Indofarma",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1b128e2100_6f3099728d.pdf",
   "sourceLabel": "IDX"
  }
 ];

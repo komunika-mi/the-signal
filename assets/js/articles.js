@@ -3,6 +3,28 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pegadaian-sabet-empat-penghargaan-esg-kesgi-2026",
+  "category": "BUMN",
+  "title": "Pegadaian Sabet [Empat] Penghargaan ESG KESGI 2026",
+  "deck": "Pegadaian menyapu bersih empat kategori penilaian ESG di ajang KESGI Award 2026, melanjutkan tren skor keberlanjutan yang naik sejak 2021.",
+  "image": "assets/img/pegadaian-sabet-empat-penghargaan-esg-kesgi-2026.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T12:57:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470136-kinerja-esg-di-atas-rata-rata-sektor-pegadaian-raih-empat-kesgi-award-2026",
+  "tags": [],
+  "body": [
+   "PT Pegadaian (Persero) memborong empat penghargaan sekaligus dalam ajang Katadata ESG Insight (KESGI) Award 2026, yang diserahkan dalam rangkaian Katadata Sustainability Action for the Future Economy (SAFE) 2026 di Jakarta pada Kamis, 17 September lalu. Penghargaan diterima langsung oleh Direktur Jaringan dan Operasi Pegadaian, Eka Pebriansyah. Capaian ini penting karena KESGI merupakan penilaian independen, bukan klaim internal perusahaan, terhadap bagaimana Pegadaian mengelola dampak lingkungan, tanggung jawab sosial, dan tata kelola perusahaan.",
+   "Empat penghargaan yang diraih mencakup seluruh kategori penilaian untuk Sektor Inklusi Keuangan, yaitu skor ESG secara keseluruhan, lalu masing-masing pilar lingkungan, sosial, dan tata kelola. Dengan kata lain, Pegadaian tidak hanya unggul di satu aspek, melainkan dinilai baik secara merata di keempat komponen yang diukur Katadata untuk perusahaan sejenis.",
+   "Menurut Dashboard KESGI, skor ESG Pegadaian naik secara konsisten sepanjang periode 2021 hingga 2025 dan berada di atas rata-rata Sektor Inklusi Keuangan, dengan kenaikan yang lebih terasa dalam dua tahun terakhir. Eka Pebriansyah menyebut capaian ini sebagai hasil kerja bersama seluruh pegawai Pegadaian dalam memperkuat penerapan prinsip keberlanjutan di berbagai lini bisnis perusahaan.",
+   "Ke depan, Eka menyatakan Pegadaian akan terus memperluas akses layanan keuangan, memberdayakan UMKM, mengelola dampak lingkungan, serta memperkuat tata kelola dan manajemen risiko. \"Kami ingin pertumbuhan Pegadaian selalu berjalan beriringan dengan dampak yang dapat dirasakan masyarakat,\" ujar Eka, menambahkan bahwa penghargaan ini menjadi pemacu untuk terus menaikkan standar tersebut."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/29/6abb51f6e09f9-pt-pegadaian-persero-meraih-empat-penghargaan-sekaligus-dalam-katadata-esg-insight-kesgi-award-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret dari berita ini adalah Pegadaian menang di keempat kategori penilaian ESG untuk Sektor Inklusi Keuangan, dengan skor yang menurut Dashboard KESGI naik terus dari 2021 sampai 2025 dan berada di atas rata-rata sektornya. Yang terdampak langsung adalah reputasi Pegadaian di mata pemegang sahamnya, yaitu negara lewat Kementerian BUMN, serta relevan juga bagi nasabah gadai dan UMKM binaan yang jadi sasaran program pemberdayaan yang disebut Pegadaian. Yang masih kurang dari rilis ini adalah angka skor per pilar, lingkungan, sosial, tata kelola, tidak diungkap, sehingga publik belum bisa menilai seberapa jauh Pegadaian unggul dibanding pemain sektor inklusi keuangan lain atau seberapa besar jarak dengan rata-rata sektor. Untuk membaca itu, perlu dicek apakah Dashboard KESGI atau laporan keberlanjutan Pegadaian berikutnya memuat rincian angka tersebut.",
+  "imageV": "muma7mqv"
+ },
+ {
   "slug": "cmnp-laba-semester-i-2026-turun-33-meski-pendapatan-naik",
   "category": "Aksi Korporasi",
   "title": "CMNP: Laba Semester I 2026 [Turun] 33% Meski Pendapatan Naik",

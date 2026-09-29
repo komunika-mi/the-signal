@@ -5,6 +5,18 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pegadaian-sabet-empat-penghargaan-esg-kesgi-2026",
+  "category": "BUMN",
+  "title": "Pegadaian Sabet [Empat] Penghargaan ESG KESGI 2026",
+  "deck": "Pegadaian menyapu bersih empat kategori penilaian ESG di ajang KESGI Award 2026, melanjutkan tren skor keberlanjutan yang naik sejak 2021.",
+  "date": "29 September 2026",
+  "image": "assets/img/pegadaian-sabet-empat-penghargaan-esg-kesgi-2026.jpg",
+  "imageV": "muma7mqv",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470136-kinerja-esg-di-atas-rata-rata-sektor-pegadaian-raih-empat-kesgi-award-2026"
+ },
+ {
   "slug": "cmnp-laba-semester-i-2026-turun-33-meski-pendapatan-naik",
   "category": "Aksi Korporasi",
   "title": "CMNP: Laba Semester I 2026 [Turun] 33% Meski Pendapatan Naik",
@@ -6484,22 +6496,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1b128e2100_6f3099728d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pipa-69-dana-ipo-berakhir-jadi-cadangan-kerugian",
-  "category": "Aksi Korporasi",
-  "title": "PIPA: 69% Dana IPO Berakhir Jadi Cadangan [Kerugian]",
-  "deck": "Koreksi LRPD PIPA menunjukkan Rp64,55 miliar dari dana IPO, atau 68,85% dari total, berakhir sebagai cadangan kerugian penurunan nilai, bukan untuk ekspansi pabrik seperti rencana awal.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIPA",
-   "Oxala Energy",
-   "penggunaan dana IPO",
-   "cadangan kerugian"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac52858693_0e29b84b2e.pdf",
   "sourceLabel": "IDX"
  }
 ];

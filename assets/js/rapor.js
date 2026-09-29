@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-26T01:49:50.007+07:00",
+ "diperbarui": "2026-09-30T02:34:32.978+07:00",
  "entri": [
+  {
+   "id": "2026-09-29-3",
+   "edisi": "2026-09-29",
+   "benang": "Anggaran dan Energi Disiapkan untuk 2027",
+   "klaim": "Sinyal kebijakan anggaran, energi, dan dagang hari ini mengarah pada satu agenda yang sama, yakni mengejar pertumbuhan ekonomi di atas 5 menuju 6 persen pada 2027.",
+   "penanda": "Revisi RUPTL yang dijanjikan menyesuaikan proyeksi kebutuhan listrik 2030 sebesar 700-800 TWh",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-29-2",
+   "edisi": "2026-09-29",
+   "benang": "Gelombang Rights Issue Perbesar Dilusi",
+   "klaim": "Arah pelemahan porsi kepemilikan minoritas akibat gelombang rights issue di berbagai sektor kemungkinan berlanjut, mengingat proses VKTR dan ENRG masih berjalan.",
+   "penanda": "Hasil penyerapan publik pada rights issue VKTR, karena BCI dan BIS baru berperan sebagai pembeli siaga untuk porsi yang tidak terserap",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-29-1",
+   "edisi": "2026-09-29",
+   "benang": "Tekanan Kredit BUMN Karya Berlanjut",
+   "klaim": "Tekanan kredit yang mulai terlihat pada WIKA pekan lalu berlanjut sebagai pola pelemahan kualitas kredit korporasi, terutama di sektor konstruksi BUMN, dengan Waskita Karya dan PTPP kini turut terdampak.",
+   "penanda": "Apakah PTPP mendapat restu pemegang obligasi untuk menunda bunga enam instrumen senilai Rp44,68 miliar sebelum jatuh tempo pertama",
+   "tenggat": "2026-10-02",
+   "tenggatLabel": "sebelum jatuh tempo pertama pada 2 Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-25-3",
    "edisi": "2026-09-25",

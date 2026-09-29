@@ -2,6 +2,115 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-09-29",
+  "tanggalLabel": "Selasa, 29 September 2026",
+  "judul": "Tekanan Kredit BUMN Karya Berlanjut, Dilusi Saham Meluas",
+  "ringkas": "Penurunan peringkat Waskita Karya dan sengketa bunga obligasi PTPP melanjutkan pola tekanan kredit yang sempat muncul lewat gagal bayar WIKA pekan lalu, sementara sejumlah emiten memilih menambah modal lewat rights issue dan pemerintah menyiapkan belanja besar untuk mengejar pertumbuhan 2027.",
+  "benang": [
+   {
+    "judul": "Tekanan Kredit BUMN Karya Berlanjut",
+    "isi": "Tekanan kredit yang muncul pada WIKA pekan lalu tampak berlanjut sebagai pola di sektor BUMN karya, kali ini menyentuh Waskita Karya dan PTPP. PEFINDO menurunkan peringkat korporasi Waskita Karya dari idB ke idCCC dengan status pengawasan negatif menyusul gagal bayar obligasi, sementara PTPP masih belum mendapat restu pemegang obligasi untuk menunda bunga enam instrumen senilai Rp44,68 miliar yang jatuh tempo awal Oktober. Di kelompok emiten lebih kecil, ekuitas Terregra Asia Energy anjlok 83 persen menjadi Rp51,4 miliar setelah rugi Rp259,5 miliar, dan ekuitas KB Finansia Multi Finance susut 85 persen menjadi Rp18,8 miliar, menunjukkan bantalan modal yang menipis di berbagai lapisan pasar. Arahnya sudah cukup jelas ke pelemahan kualitas kredit korporasi, terutama di sektor konstruksi BUMN. Yang akan menegaskan atau membalikkan arah ini adalah apakah PTPP mendapat restu pemegang obligasi sebelum jatuh tempo pertama pada 2 Oktober."
+   },
+   {
+    "judul": "Gelombang Rights Issue Perbesar Dilusi",
+    "isi": "Pekan ini pasar saham diramaikan aksi penambahan modal lewat rights issue di berbagai sektor. VKTR memastikan penerbitan hingga Rp3 triliun dengan dilusi 25,53 persen, ENRG tengah memproses rights issue Rp4,12 triliun yang bisa mendilusi saham hingga 33,33 persen, sementara PART menyiapkan Rp200 miliar dan CSIS baru mengantongi Rp177,4 miliar meski laba bersihnya justru turun 16 persen. Pola ini menunjukkan banyak emiten memilih menambah modal lewat penerbitan saham baru ketimbang utang baru, sehingga pemegang saham lama di sejumlah sektor berhadapan dengan penyusutan porsi kepemilikan dalam waktu berdekatan. Arah pelemahan porsi kepemilikan minoritas ini kemungkinan berlanjut, mengingat proses VKTR dan ENRG masih berjalan. Yang akan menegaskan besarnya dampak adalah hasil penyerapan publik pada rights issue VKTR, karena BCI dan BIS baru berperan sebagai pembeli siaga untuk porsi yang tidak terserap."
+   },
+   {
+    "judul": "Anggaran dan Energi Disiapkan untuk 2027",
+    "isi": "Beberapa sinyal kebijakan hari ini mengarah ke satu agenda yang sama, mengejar pertumbuhan ekonomi di atas 5 menuju 6 persen pada 2027, sejalan dengan data resmi pertumbuhan triwulan II 2026 yang naik ke 5,29 persen. Pemerintah dan Banggar DPR menaikkan belanja negara 2027 menjadi Rp4.106,26 triliun namun menjaga defisit tetap di 2,4 persen dengan menaikkan target pendapatan senilai sama, sementara Menko Airlangga menyebut kebutuhan investasi lebih dari Rp2.200 triliun dan tambahan kapasitas pembangkit hingga 100 gigawatt menyusul proyeksi kebutuhan listrik 2030 tembus 700-800 TWh, jauh di atas rencana 69,5 gigawatt yang berlaku sekarang. Di jalur dagang, Indonesia mempercepat persiapan perundingan CEPA dengan Tiongkok dan DEN memproyeksikan IEU-CEPA bisa menghapus selisih tarif 10 persen dengan Vietnam di pasar Eropa tahun depan, meski keduanya baru sebatas kesepakatan mempercepat proses tanpa jadwal putaran atau tanggal berlaku yang pasti. Yang akan menegaskan keseriusan agenda ini adalah revisi RUPTL yang dijanjikan menyesuaikan proyeksi 700-800 TWh tersebut."
+   }
+  ],
+  "penutup": "Yang paling menentukan arah besok adalah apakah PTPP mendapat restu pemegang obligasi sebelum jatuh tempo 2 Oktober, serta seberapa besar publik menyerap rights issue VKTR.",
+  "jumlahBahan": 84,
+  "bahanSlug": [
+   "sertifikasi-halal-umk-wajib-mulai-18-oktober",
+   "inkp-siapkan-rp500-75-miliar-untuk-pelunasan-obligasi-sukuk",
+   "mk-label-gula-garam-lemak-wajib-jelas-di-kemasan",
+   "indonesia-dan-china-sepakat-percepat-perundingan-cepa",
+   "dpns-disuspensi-bei-laporan-keuangan-telat-dan-denda-nunggak",
+   "amms-rugi-rp1-5-miliar-di-semester-i-2026-laba-kotor-anjlok",
+   "proyek-lrt-city-mangkrak-dibangun-lagi-1-oktober",
+   "bei-lanjutkan-suspensi-32-saham-meski-kriteria-iii-1-6-dicabut",
+   "truk-overload-di-tol-masih-tinggi-ri-kejar-zero-odol-2027",
+   "sini-jelaskan-divestasi-ikn-rp31-8-miliar-ke-bursa",
+   "gtbo-rkab-2026-belum-disetujui-utang-pajak-us-13-5-juta",
+   "idea-jawab-bursa-soal-rencana-pengambilalihan-oleh-nawasena",
+   "wifi-bayar-kupon-obligasi-sukuk-rp61-6-miliar",
+   "penghasilan-nelayan-sinjai-naik-jadi-rp7-juta-per-bulan",
+   "kkp-mulai-perluasan-pelabuhan-pengambengan-senilai-rp1-27-t",
+   "ri-korea-resmikan-pusat-pelatihan-sdm-industri-lepas-pantai",
+   "posbankum-tembus-83-960-rp1-2-triliun-dihemat-negara",
+   "nice-akui-denda-rp185-93-miliar-arus-kas-operasi-negatif",
+   "wifi-panggil-rupslb-21-oktober-agendakan-ubah-lini-bisnis",
+   "viva-cetak-laba-tapi-pendapatan-turun-di-semester-i-2026",
+   "infranexia-ccsi-garap-kabel-laut-sub-2-jawa-sulawesi-kalimantan",
+   "blangkon-jawa-bertahan-berkat-pembiayaan-pnm-mekaar",
+   "film-gandeng-sbs-korea-perdalam-kerja-sama-konten-media",
+   "tgra-masih-nol-pendapatan-ekuitas-turun-ke-rp46-3-miliar",
+   "asgr-bagikan-dividen-interim-rp297-per-saham-cair-26-oktober",
+   "fmfn-ekuitas-anjlok-85-jadi-rp18-8-miliar-per-juni-2026",
+   "tgra-kuartal-i-2026-nol-pendapatan-ekuitas-susut-ke-rp49-m",
+   "smar-ajukan-nilai-buku-pajak-untuk-merger-panigoran",
+   "emas-laporkan-transaksi-afiliasi-utang-piutang-antar-anak-usaha",
+   "ieu-cepa-bisa-hapus-selisih-tarif-ri-vietnam-di-eropa",
+   "pupuk-indonesia-bawa-16-umkm-binaan-ke-kriyanusa-2026",
+   "pemerintah-kejar-tambahan-100-gigawatt-pembangkit-listrik",
+   "proyek-jica-di-kawasan-rebana-rampung-investasi-tembus-rp131-6-t",
+   "mice-siwie-honoris-tambah-saham-400-ribu-lembar-lagi",
+   "laba-bersih-pada-melonjak-1-239-di-semester-i-2026",
+   "den-sebut-stabilitas-makro-kunci-genjot-ekonomi-5-persen",
+   "part-catat-laba-naik-30-di-2025-garap-right-issue",
+   "dr-waran-untr-disesuaikan-usai-dividen-rp1-48-t",
+   "part-cetak-laba-naik-30-siapkan-right-issue-rp200-miliar",
+   "smma-direktur-utama-burhanuddin-abdullah-mundur",
+   "kebutuhan-listrik-2030-tembus-800-twh-ruptl-direvisi",
+   "arko-nosu-hydro-teken-pembiayaan-rp690-6-m-dari-smi",
+   "padi-proses-pemegang-saham-pengendali-baru-masih-di-ojk",
+   "intp-gabungkan-dua-anak-usaha-pelayaran-aset-rp400-8-miliar",
+   "pada-total-liabilitas-naik-47-ditopang-utang-bank-baru",
+   "zp-sesuaikan-harga-pelaksanaan-waran-untr-usai-dividen-interim",
+   "rlco-direksi-lepas-40-juta-saham-lagi-lewat-repo",
+   "baby-tuntaskan-dana-rights-issue-ke-akuisisi-emway-globalindo",
+   "smle-gelar-public-expose-soal-akuisisi-sinar-aroma-sentosa",
+   "bexi-siapkan-dana-rp112-miliar-lunasi-obligasi-jatuh-tempo",
+   "scnp-cetak-laba-usaha-turnaround-semester-i-2026",
+   "bksl-direksi-tambah-saham-988-juta-lembar-via-repo",
+   "raam-direksi-tambah-saham-487-000-lembar-rp83-6-juta",
+   "vktr-pastikan-rights-issue-rp3-triliun-dilusi-capai-25-53",
+   "vktr-gelar-rights-issue-15-miliar-saham-harga-rp200",
+   "kdtn-putrasakti-mandiri-lepas-1-juta-saham-lagi",
+   "pupuk-bersubsidi-perikanan-pangkep-baru-43-tersalur",
+   "waran-enrgbqcx6a-disesuaikan-ikuti-rights-issue-enrg",
+   "koperasi-pesantren-di-bandung-hubungkan-300-petani-ke-ritel-modern",
+   "tapg-direksi-george-oetomo-tambah-100-000-saham-lagi",
+   "belanja-negara-2027-naik-ke-rp4-106-t-defisit-tetap-2-4",
+   "wgsh-gelar-rupslb-21-oktober-setujui-mundurnya-direktur",
+   "crab-jadwalkan-pembayaran-dividen-rp2-saham-cair-29-oktober",
+   "pertalite-dipastikan-tak-naik-meski-minyak-tembus-107-dolar",
+   "pegadaian-sabet-empat-penghargaan-esg-kesgi-2026",
+   "cmnp-laba-semester-i-2026-turun-33-meski-pendapatan-naik",
+   "anjt-beri-pinjaman-rp2-triliun-ke-perusahaan-afiliasi",
+   "inkp-lunasi-obligasi-sukuk-rp1-04-triliun-november-2026",
+   "crab-utang-bank-mandiri-disorot-auditor-sebagai-hal-audit-utama",
+   "ptpp-belum-kantongi-restu-tunda-bayar-bunga-obligasi-rp44-7-m",
+   "inps-terbitkan-1-25-miliar-saham-baru-dana-rp125-m-ke-gigp",
+   "ayls-catat-transaksi-afiliasi-rp280-6-juta-ke-pengendali",
+   "ayls-lapor-transaksi-afiliasi-rp306-6-juta-untuk-opex-mei",
+   "ayls-lapor-transaksi-afiliasi-rp408-8-juta-untuk-opex-april",
+   "inps-tetapkan-rupslb-3-november-bahas-modal-dasar-baru",
+   "wskt-peringkat-turun-ke-idccc-obligasi-bergaransi-tetap-aaa",
+   "tgra-rugi-rp259-miliar-ekuitas-anjlok-83-persen",
+   "crab-bagikan-dividen-rp2-saham-mayoritas-laba-ditahan",
+   "inps-buka-jadwal-rupslb-3-november-ini-tenggatnya",
+   "bata-umumkan-rencana-rupslb-pada-5-november-2026",
+   "tpia-konstruksi-ca-edc-capai-80-masuk-tahap-pemasangan-alat",
+   "drma-komisaris-beli-80-000-saham-seharga-rp970-lembar",
+   "csis-raup-rp177-m-dari-rights-issue-laba-semester-i-turun",
+   "sofa-tambah-kbli-jadi-holding-pembiayai-proyek-sampah-energi"
+  ],
+  "dibuat": "2026-09-29T19:33:07.384Z"
+ },
+ {
   "tanggal": "2026-09-25",
   "tanggalLabel": "Jumat, 25 September 2026",
   "judul": "Tambang Pulih, WIKA Default, Kendali Emiten Berpindah Tangan",
@@ -2140,33 +2249,5 @@ var HARIAN_ARSIP = [
   "penutup": "Yang paling menentukan besok adalah apakah akses ke desa-desa terisolir di Flores mulai terbuka, tanda sejauh mana pemulihan pascagempa merambah sampai titik terkecil.",
   "jumlahBahan": 8,
   "dibuat": "2026-08-17T14:19:20.897Z"
- },
- {
-  "tanggal": "2026-08-14",
-  "tanggalLabel": "Jumat, 14 Agustus 2026",
-  "judul": "Pasar Sambut RAPBN 2027, BUMN Dirampingkan, Klaim Diuji Realisasi",
-  "ringkas": "Pidato RAPBN 2027 Presiden Prabowo mendorong sentimen pasar positif dan menegaskan arah disiplin fiskal, sementara di baliknya konsolidasi BUMN meluas lewat Danantara dan sejumlah klaim capaian pemerintah masih menyisakan jarak dengan realisasi di lapangan.",
-  "benang": [
-   {
-    "judul": "Pasar sambut RAPBN 2027, rating bertahan bukan naik",
-    "isi": "Pidato RAPBN 2027 Presiden Prabowo memicu IHSG menguat 1,59 persen ke 6.401,89 dan rupiah menguat 50 poin ke Rp17.827, seiring target defisit anggaran turun dari 2,68 persen menjadi 2,40 persen dan kebutuhan utang baru turun dari Rp689,1 triliun ke Rp671,2 triliun. Sentimen ini berbarengan dengan S&P yang mempertahankan rating BBB dan China Lianhe yang mempertahankan AAA, bukan menaikkannya, artinya kepercayaan pasar terjaga tapi belum ada perbaikan status baru. Kadin secara eksplisit menyebut kepercayaan ini perlu diterjemahkan jadi investasi riil, bukan berhenti di reaksi pasar sehari. Arahnya jelas ke sentimen positif jangka pendek, dan yang akan menentukan apakah ini bertahan adalah data realisasi investasi pada periode berikutnya, bukan lagi pergerakan indeks harian."
-   },
-   {
-    "judul": "Konsolidasi BUMN meluas lewat Danantara",
-    "isi": "Presiden Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup dengan penghematan Rp50 triliun, dan menargetkan hanya 300 BUMN yang tersisa pada akhir 2026, berarti sekitar 484 penutupan lagi. Bersamaan dengan itu, pemerintah membuka opsi swasta mengoperasikan aset BUMN yang menganggur termasuk bandara, sementara Telkom Enterprise merombak organisasinya bersama Danantara untuk mengejar potensi pasar yang diperkirakan tumbuh hingga 30 persen. Danantara Sumberdaya Indonesia juga tercatat memantau 6.500 transaksi ekspor tiga komoditas senilai US$14 miliar dan menemukan potensi tambahan pemasukan US$5 miliar dari selisih harga. Arahnya mengarah ke peran Danantara yang meluas dari sekadar pengelola investasi menjadi pengawas operasional dan restrukturisasi BUMN, dan penentunya adalah apakah sisa sekitar 484 penutupan BUMN benar-benar tercapai sebelum akhir 2026."
-   },
-   {
-    "judul": "Klaim capaian pidato kenegaraan versus realisasi lapangan",
-    "isi": "Tiga klaim capaian dalam pidato kenegaraan Presiden Prabowo menunjukkan pola yang sama. Dari 10.000 koperasi desa yang diklaim berdiri, baru 3.300 yang benar-benar berjalan penuh dan bisa membeli hasil panen warga. Dari 9,2 gigawatt proyek PLTA-PLTM yang disebut sudah masuk tahap eksekusi, porsi terbesarnya, 6,8 gigawatt, sebenarnya baru mencari kontraktor dan investor, sementara yang benar-benar beroperasi baru 570 MW. Peluncuran ekosistem motor listrik nasional MoLiNas dengan kapasitas pabrik 2,5 juta unit pun terjadi di tengah realisasi penjualan EV yang disebut jauh di bawahnya. Polanya konsisten, angka yang disampaikan menggambarkan skala rencana atau tahap awal, bukan hasil yang sudah berjalan, dan yang akan menunjukkan apakah jarak ini menyempit adalah data checkpoint berikutnya seperti jumlah koperasi aktif atau progres RUPTL PLTA-PLTM menjelang akhir 2026."
-   }
-  ],
-  "penutup": "Yang paling menentukan ke depan adalah apakah sentimen pasar hari ini berlanjut jadi arus investasi riil seperti diminta Kadin, atau berhenti di reaksi sehari terhadap pidato kenegaraan.",
-  "jumlahBahan": 43,
-  "dibuat": "2026-08-14T14:45:33.194Z",
-  "ralat": {
-   "tanggal": "2026-08-18",
-   "label": "18 Agustus 2026",
-   "teks": "Versi awal edisi ini menulis pemerintah menargetkan penutupan 750 BUMN lagi hingga tersisa maksimal 300 pada akhir 2026. Kedua angka itu tidak bisa benar bersamaan. Angka 750 adalah jumlah penutupan secara keseluruhan dari 1.074 BUMN, dan karena 290 sudah selesai, sisanya sekitar 484. Kalimatnya sudah diperbaiki."
-  }
  }
 ];

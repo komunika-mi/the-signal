@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "VgnKqHtTDT4",
+  "title": "Ekonomi Hijau Jadi Solusi Tantangan Perubahan Iklim",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Seminar nasional Green Economy 2045 di Jakarta membahas percepatan transformasi ekonomi hijau di Indonesia untuk menjawab tantangan perubahan iklim.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan transformasi ekonomi nasional menuju keberlanjutan yang berpotensi memengaruhi sektor industri dan investasi.",
+  "terbit": "2026-09-29T15:30:49+00:00"
+ },
+ {
   "id": "cK6vInhWKwE",
   "title": "Antrean Truk Logistik 15 Km Hambat Distribusi ke Bali",
   "category": "Bisnis",

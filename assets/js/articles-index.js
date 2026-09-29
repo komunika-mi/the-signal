@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sertifikasi-halal-umk-wajib-mulai-18-oktober",
+  "category": "UMKM",
+  "title": "Sertifikasi Halal UMK Wajib Mulai [18 Oktober]",
+  "deck": "Kemendag menggelar sosialisasi di Tangerang Selatan menjelang berlakunya kewajiban sertifikasi halal bagi UMK pangan mulai 18 Oktober 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/sertifikasi-halal-umk-wajib-mulai-18-oktober.jpg",
+  "imageV": "mumwmof1",
+  "tags": [
+   "sertifikasi halal",
+   "UMK",
+   "Kemendag",
+   "PP 42/2024"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-umk-naik-kelas-lewat-sertifikasi-halal",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "inkp-siapkan-rp500-75-miliar-untuk-pelunasan-obligasi-sukuk",
   "category": "Aksi Korporasi",
   "title": "INKP Siapkan Rp500,75 Miliar untuk [Pelunasan] Obligasi-Sukuk",
@@ -19,6 +37,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/06edaa9a44_efea526fcf.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mk-label-gula-garam-lemak-wajib-jelas-di-kemasan",
+  "category": "Industri",
+  "title": "MK: Label Gula, Garam, Lemak Wajib [Jelas] di Kemasan",
+  "deck": "MK menegaskan pelaku usaha dan pemerintah wajib memastikan kandungan gula, garam, dan lemak di label pangan kemasan disampaikan jelas, benar, dan mudah dipahami konsumen.",
+  "date": "29 September 2026",
+  "image": "assets/img/mk-label-gula-garam-lemak-wajib-jelas-di-kemasan.jpg",
+  "imageV": "mumwmoz4",
+  "tags": [
+   "MK",
+   "label pangan",
+   "gula garam lemak",
+   "perlindungan konsumen"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470255-mk-tegaskan-gula-garam-dan-lemak-di-label-pangan-kemasan-harus-jelas"
  },
  {
   "slug": "indonesia-dan-china-sepakat-percepat-perundingan-cepa",
@@ -6459,38 +6494,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-8317-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cnaf-dana-sukuk-rp900-miliar-terserap-penuh-sisa-nol",
-  "category": "Aksi Korporasi",
-  "title": "CNAF: Dana Sukuk Rp900 Miliar [Terserap] Penuh, Sisa Nol",
-  "deck": "CNAF melaporkan dana Rp896,45 miliar dari sukuk syariah tahap IV 2026 sudah terserap 100 persen untuk pembiayaan kendaraan, properti, dan haji-umrah syariah, tanpa sisa dana.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CNAF",
-   "sukuk syariah",
-   "penggunaan dana IPO",
-   "pembiayaan syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3f6e161a51_44ae392926.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "plas-gelar-buyback-rp51-saham-jelang-delisting",
-  "category": "Aksi Korporasi",
-  "title": "PLAS Gelar Buyback Rp51/Saham Jelang [Delisting]",
-  "deck": "Polaris Investama (PLAS) akan membeli kembali seluruh saham publik seharga Rp51 per lembar mulai 24 September hingga 6 November 2026, menjelang delisting efektif 10 November 2026.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PLAS",
-   "delisting",
-   "buyback saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d46d7fbfd9_1b70bc69e0.pdf",
   "sourceLabel": "IDX"
  }
 ];

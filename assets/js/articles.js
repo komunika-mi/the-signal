@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sertifikasi-halal-umk-wajib-mulai-18-oktober",
+  "category": "UMKM",
+  "title": "Sertifikasi Halal UMK Wajib Mulai [18 Oktober]",
+  "deck": "Kemendag menggelar sosialisasi di Tangerang Selatan menjelang berlakunya kewajiban sertifikasi halal bagi UMK pangan mulai 18 Oktober 2026.",
+  "image": "assets/img/sertifikasi-halal-umk-wajib-mulai-18-oktober.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T16:37:35.061Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-umk-naik-kelas-lewat-sertifikasi-halal",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "sertifikasi halal",
+   "UMK",
+   "Kemendag",
+   "PP 42/2024"
+  ],
+  "body": [
+   "Kementerian Perdagangan menggelar sosialisasi kebijakan halal bagi pelaku usaha mikro dan kecil di Tangerang Selatan, Senin (28/9), menjelang berlakunya kewajiban sertifikasi halal yang mulai efektif 18 Oktober 2026. Acara ini penting karena UMK yang memproduksi makanan, minuman, hasil sembelihan, dan jasa penyembelihan harus sudah mengantongi sertifikat halal begitu tenggat tersebut lewat.",
+   "Kewajiban ini mengacu pada Peraturan Pemerintah Nomor 42 Tahun 2024 tentang Penyelenggaraan Bidang Jaminan Produk Halal, yang menetapkan masa penahapan sertifikasi halal bagi UMK berakhir 17 Oktober 2026. Sosialisasi digelar bersama Dinas Perindustrian dan Perdagangan Kota Tangerang Selatan, dengan narasumber dari Direktorat Standardisasi dan Pengendalian Mutu Kemendag, Direktorat Standardisasi Halal Badan Penyelenggara Jaminan Produk Halal (BPJPH), dan Lembaga Pemeriksa Halal. Materi yang disampaikan mencakup kebijakan penguatan sertifikasi halal, implementasi Jaminan Produk Halal, hingga persiapan teknis seperti penyiapan dokumen dan pelaksanaan audit di lapangan.",
+   "Proses sertifikasi ini menuntut pelaku usaha menata ulang rantai produksinya, mulai dari asal bahan baku, kebersihan saat produksi, cara penyimpanan, pengemasan, hingga kejelasan informasi produk kepada konsumen. Kemendag mengaitkan agenda ini dengan tiga program prioritasnya tahun 2026, yakni Pengamanan Pasar Dalam Negeri, Perluasan Pasar Ekspor, dan Dari Lokal untuk Global, yang menurut Analis Perdagangan Ahli Madya Kemendag Donny Adityawarman mendorong produk UMK yang sudah memenuhi standar halal untuk bersaing di pasar domestik sekaligus merambah rantai pasok internasional.",
+   "Kemendag menyatakan akan melanjutkan fasilitasi dan pendampingan bagi UMK untuk mengatasi hambatan teknis, pembiayaan, serta pemenuhan bahan baku, bekerja sama dengan Pemkot Tangerang Selatan, BPJPH, dan Lembaga Pemeriksa Halal."
+  ],
+  "fotoAdegan": "A small-scale home kitchen production line packaging traditional snacks into plastic pouches, workers wearing hairnets and gloves, bright workspace",
+  "fotoSumber": "https://www.kemendag.go.id/albums/z33vwgWtkogcYYnsuvdbVRKrFiuGZDqLmqmSQbnL.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini adalah tenggat waktu: mulai 18 Oktober 2026, sertifikasi halal tidak lagi bersifat pilihan bagi UMK yang memproduksi makanan, minuman, hasil sembelihan, dan jasa penyembelihan, sesuai Peraturan Pemerintah Nomor 42 Tahun 2024. Yang terdampak langsung adalah pemilik usaha mikro dan kecil di sektor pangan, termasuk pedagang rumahan dan usaha katering skala kecil, yang selama ini mungkin menunda pengurusan sertifikat karena masih ada masa peralihan. Sosialisasi ini berlangsung kurang dari sebulan sebelum tenggat berakhir, yang mengindikasikan pemerintah masih mengejar kesiapan UMK di lapangan, bukan sekadar mengingatkan aturan yang sudah lama diketahui. Yang belum dijelaskan dalam siaran ini adalah apa konsekuensinya bagi UMK yang belum bersertifikat begitu tenggat 17 Oktober 2026 lewat, apakah ada sanksi, penundaan, atau kelonggaran tambahan, dan itu yang perlu dipantau begitu tanggal tersebut tiba.",
+  "imageV": "mumwmof1"
+ },
+ {
   "slug": "inkp-siapkan-rp500-75-miliar-untuk-pelunasan-obligasi-sukuk",
   "category": "Aksi Korporasi",
   "title": "INKP Siapkan Rp500,75 Miliar untuk [Pelunasan] Obligasi-Sukuk",
@@ -27,6 +55,33 @@ var ARTICLES = [
   "fotoAdegan": "Industrial rollers processing large sheets of paper inside a busy pulp and paper factory, workers in safety gear nearby",
   "takeaway": "Laporan ini netral bagi INKP karena pelunasan Rp500,75 miliar ini adalah kewajiban terjadwal yang sudah ditetapkan sejak penerbitan lima tahun lalu, bukan pembayaran dipercepat atau tanda tekanan keuangan, dan perseroan sudah mengonfirmasi dana kas tersedia penuh sejak pertengahan tahun ini. Yang tersentuh adalah arus kas dan beban utang perseroan: begitu dibayar, liabilitas obligasi dan sukuk sebesar Rp500,75 miliar itu keluar dari pembukuan sehingga total utang INKP berkurang, sementara kas perusahaan berkurang dengan jumlah yang sama karena dipakai melunasi pokok pinjaman. Skema bullet payment berarti seluruh pokok dibayar sekaligus di akhir periode, bukan dicicil bertahap, sehingga bebannya menumpuk tepat di tanggal jatuh tempo. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada 30 September 2026 itu sendiri serta konfirmasi pelunasan dari wali amanat dan KSEI setelahnya, karena baru pada titik itu kewajiban ini benar-benar tuntas tanpa gagal bayar.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "mk-label-gula-garam-lemak-wajib-jelas-di-kemasan",
+  "category": "Industri",
+  "title": "MK: Label Gula, Garam, Lemak Wajib [Jelas] di Kemasan",
+  "deck": "MK menegaskan pelaku usaha dan pemerintah wajib memastikan kandungan gula, garam, dan lemak di label pangan kemasan disampaikan jelas, benar, dan mudah dipahami konsumen.",
+  "image": "assets/img/mk-label-gula-garam-lemak-wajib-jelas-di-kemasan.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T21:40:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470255-mk-tegaskan-gula-garam-dan-lemak-di-label-pangan-kemasan-harus-jelas",
+  "tags": [
+   "MK",
+   "label pangan",
+   "gula garam lemak",
+   "perlindungan konsumen"
+  ],
+  "body": [
+   "Mahkamah Konstitusi menegaskan bahwa produsen makanan dan minuman kemasan wajib mencantumkan informasi kandungan gula, garam, dan lemak secara jelas, benar, jujur, dan mudah dipahami konsumen. Penegasan ini penting karena selama ini banyak konsumen kesulitan membaca kandungan gizi di label kemasan, padahal informasi itu berkaitan langsung dengan risiko penyakit tidak menular seperti diabetes dan hipertensi.",
+   "Penegasan tersebut termuat dalam Putusan MK Nomor 110/PUU-XXIV/2026 atas uji materi Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen dan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan. Putusan dibacakan dalam sidang di Gedung MK, Jakarta, Selasa (29/9/2026).",
+   "Hakim Konstitusi Guntur Hamzah menjelaskan bahwa Pasal 148 UU Kesehatan, yang mengatur tanggung jawab pemerintah pusat dan daerah dalam mengatur serta mengawasi produksi, pengolahan, dan distribusi makanan dan minuman, tidak bisa dipisahkan dari Pasal 7 huruf b UU Perlindungan Konsumen yang mewajibkan pelaku usaha memberi informasi benar, jelas, dan jujur soal kondisi barang. Menurut MK, kewajiban pelaku usaha memberi informasi itu baru efektif kalau didukung aturan dan pengawasan pemerintah.",
+   "MK menyebut kewajiban ini turut mencakup pencantuman label warna dan simbol pada kemasan yang mengandung gula, garam, dan lemak, dengan standar yang membuat konsumen bisa memahami kandungan produk secara efektif."
+  ],
+  "fotoAdegan": "Supermarket aisle shelf stocked with packaged snack and drink products, a shopper's hand reaching for one, labels blurred, angled wide shot.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/11/16/6919778e67a63-dok-gedung-mahkamah-konstitusi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan teknis baru, melainkan penegasan MK bahwa kewajiban pelaku usaha mencantumkan kandungan gula, garam, dan lemak secara jelas terikat pada tanggung jawab pemerintah membuat aturan dan mengawasinya, termasuk soal label warna dan simbol di kemasan. Yang terdampak adalah produsen makanan dan minuman kemasan, yang pada akhirnya perlu menyesuaikan desain label, serta konsumen yang selama ini sering kesulitan membaca kandungan gizi sebelum membeli. Putusan ini menegaskan dasar hukumnya, tapi belum menyebut bentuk label seperti apa yang wajib dipakai, siapa yang menyusun standarnya, atau kapan aturan turunannya terbit. Yang perlu dipantau adalah apakah pemerintah pusat kemudian menerbitkan aturan teknis soal format label warna dan simbol tersebut, karena di situlah putusan MK ini baru benar-benar terasa dampaknya di rak toko, bukan sekadar di atas kertas.",
+  "imageV": "mumwmoz4"
  },
  {
   "slug": "indonesia-dan-china-sepakat-percepat-perundingan-cepa",
@@ -54,7 +109,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini baru kesepakatan untuk mempercepat persiapan perundingan, bukan perundingan itu sendiri, sehingga belum ada jadwal putaran negosiasi atau target penyelesaian yang bisa dipegang publik. CEPA sendiri adalah semacam perjanjian dagang bilateral yang mengatur tarif dan akses pasar antara dua negara, berbeda dari kerja sama regional seperti ACFTA atau RCEP yang selama ini jadi payung dagang Indonesia-Tiongkok. Pihak yang paling terdampak adalah eksportir dan investor yang berhubungan dengan Tiongkok, mengingat negara ini jadi tujuan ekspor nonmigas terbesar Indonesia senilai US$64,82 miliar tahun lalu dan salah satu sumber investasi asing terbesar. Arah besarnya kemungkinan menuju pembukaan akses pasar yang lebih luas dengan Tiongkok, sejalan dengan perjanjian dagang lain yang sudah diteken Indonesia, tapi ini baru bisa dipastikan setelah kedua negara mengumumkan jadwal putaran perundingan resmi, yang belum ada dalam pertemuan ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "dpns-disuspensi-bei-laporan-keuangan-telat-dan-denda-nunggak",
@@ -374,7 +429,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari kerja sama ini adalah target melatih sekitar 240 tenaga kerja di bidang perawatan fasilitas lepas pantai dan bongkar muat kargo sampai tahun 2029, hasil tindak lanjut nota kesepahaman Indonesia-Korea Selatan yang diteken April 2026. Yang terdampak langsung adalah calon pekerja di industri lepas pantai serta perusahaan domestik di sektor itu yang selama ini kekurangan tenaga terlatih untuk pekerjaan semacam ini. Siaran pers ini belum menjelaskan berapa dana yang dikucurkan lewat skema bantuan pembangunan Korea tersebut, berapa peserta di angkatan pelatihan pertama, atau apakah lulusannya punya jalur pasti untuk terserap industri. Yang perlu dipantau adalah laporan hasil angkatan pertama dan data serapan kerja lulusannya, karena dari situ baru terlihat apakah target 240 orang sampai 2029 itu berjalan sesuai rencana atau hanya angka di atas kertas.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "posbankum-tembus-83-960-rp1-2-triliun-dihemat-negara",
@@ -798,7 +853,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka-angka yang disebut Menko Airlangga, mulai dari target kapasitas pembangkit 100 gigawatt, kebutuhan investasi lebih dari Rp2.200 triliun, sampai elektrifikasi desa yang menjangkau 4.390 lokasi tahun ini, semuanya masih berupa target dan proyeksi, bukan aturan atau anggaran yang sudah diketok. Yang terdampak langsung adalah pelaku industri energi terbarukan, produsen kendaraan listrik, dan warga di daerah yang belum teraliri listrik karena mereka bergantung pada program listrik desa ini. Ada dua kemungkinan arah: kalau pembangunan pembangkit dan jaringan transmisi 47.758 kilometer-sirkuit itu berjalan sesuai jadwal, rasio elektrifikasi bisa mendekati 99 persen seperti diklaim pemerintah, tapi kalau meleset seperti sejumlah target energi sebelumnya, pencapaiannya bisa mundur. Yang akan menentukan arah mana yang benar adalah laporan realisasi program listrik desa akhir 2026, apakah benar mencapai 4.390 lokasi seperti dijanjikan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "proyek-jica-di-kawasan-rebana-rampung-investasi-tembus-rp131-6-t",
@@ -826,7 +881,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan proyek fisik baru, melainkan rampungnya dokumen perencanaan, yaitu rencana induk kawasan, rencana pusat industri hijau, dan pedoman kawasan industri ramah lingkungan, hasil kerja sama teknis dua tahun dengan Jepang. Yang terdampak adalah calon investor di sekitar Pelabuhan Patimban, terutama industri yang mengincar status ramah lingkungan, serta pemerintah daerah Jawa Barat yang harus menjalankan rencana ini di lapangan. Dari 12 proyek infrastruktur strategis penopang kawasan ini, 8 sudah selesai dan 4 masih berjalan, sehingga arahnya adalah kawasan ini bergeser dari tahap perencanaan ke tahap pembangunan fisik dan penarikan investor. Yang akan menentukan apakah rencana ini benar terealisasi atau berhenti jadi dokumen adalah penyelesaian RUU Kawasan Industri yang disebut pemerintah sedang disusun, dan progres penuntasan 4 PSN yang masih tersisa.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "mice-siwie-honoris-tambah-saham-400-ribu-lembar-lagi",

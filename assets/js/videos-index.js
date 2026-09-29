@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "VgnKqHtTDT4",
+  "title": "Ekonomi Hijau Jadi Solusi Tantangan Perubahan Iklim",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Seminar nasional Green Economy 2045 di Jakarta membahas percepatan transformasi ekonomi hijau di Indonesia untuk menjawab tantangan perubahan iklim.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan transformasi ekonomi nasional menuju keberlanjutan yang berpotensi memengaruhi sektor industri dan investasi."
+ },
+ {
   "id": "cK6vInhWKwE",
   "title": "Antrean Truk Logistik 15 Km Hambat Distribusi ke Bali",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "AKIM",
   "summary": "Presiden Prabowo Subianto memanggil sejumlah menteri dan pimpinan lembaga untuk rapat terbatas membahas sektor energi dan pangan, dengan program B50 menjadi salah satu agenda utama.",
   "takeaway": "Perkembangan program biodiesel B50 dan kebijakan pangan berpotensi memengaruhi industri serta harga komoditas dalam negeri."
- },
- {
-  "id": "u8UxSA2u-lo",
-  "title": "Purbaya Dicopot dari Menteri Keuangan, Ini Kata Hensa",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Purbaya diganti dari posisi Menteri Keuangan. Sejumlah pihak menyebut kurangnya kedekatan dengan Direktorat Jenderal Bea Cukai dan Direktorat Jenderal Pajak sebagai salah satu faktor.",
-  "takeaway": "Pergantian Menteri Keuangan dan relasinya dengan otoritas bea cukai serta pajak berpengaruh pada kebijakan penerimaan negara."
  }
 ];

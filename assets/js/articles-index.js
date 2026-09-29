@@ -5,6 +5,198 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cmnp-laba-semester-i-2026-turun-33-meski-pendapatan-naik",
+  "category": "Aksi Korporasi",
+  "title": "CMNP: Laba Semester I 2026 [Turun] 33% Meski Pendapatan Naik",
+  "deck": "Pendapatan Citra Marga Nusaphala Persada naik 33,5 persen jadi Rp2,93 triliun pada semester I 2026, tapi laba bersih turun 33 persen akibat provisi perkara hukum baru senilai Rp202,49 miliar.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMNP",
+   "laporan keuangan",
+   "jalan tol",
+   "emiten infrastruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929120031-64443-0/FinancialStatement-2026-II-CMNP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "anjt-beri-pinjaman-rp2-triliun-ke-perusahaan-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "ANJT Beri [Pinjaman] Rp2 Triliun ke Perusahaan Afiliasi",
+  "deck": "ANJT menyalurkan pinjaman hingga Rp2 triliun tanpa jaminan ke PT Adhitya Serayakorita, perusahaan afiliasi dalam satu grup pengendali First Resources Limited.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANJT",
+   "transaksi afiliasi",
+   "pinjaman",
+   "First Resources"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8df820e992_46ac6efe2c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "crab-utang-bank-mandiri-disorot-auditor-sebagai-hal-audit-utama",
+  "category": "Aksi Korporasi",
+  "title": "CRAB: Utang Bank Mandiri Disorot Auditor sebagai [Hal Audit Utama]",
+  "deck": "Sesi tanya jawab Public Expose CRAB mengungkap kenaikan liabilitas terkait kredit modal kerja Bank Mandiri yang oleh auditor ditandai sebagai Hal Audit Utama, di tengah proses hukum yang masih berjalan.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRAB",
+   "Toba Surimi Industries",
+   "Public Expose",
+   "Bank Mandiri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/59c907c130_fa2486110f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-belum-kantongi-restu-tunda-bayar-bunga-obligasi-rp44-7-m",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Belum Kantongi Restu [Tunda] Bayar Bunga Obligasi Rp44,7 M",
+  "deck": "RUPO dan RUPSu PTPP pada 1-2 September 2026 belum menyetujui usulan penundaan bunga obligasi dan bagi hasil sukuk untuk enam instrumen senilai Rp44,68 miliar yang jatuh tempo Oktober 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "obligasi",
+   "restrukturisasi utang",
+   "sukuk mudharabah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a2a5972d5_b1f917466e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-terbitkan-1-25-miliar-saham-baru-dana-rp125-m-ke-gigp",
+  "category": "Aksi Korporasi",
+  "title": "INPS Terbitkan [1,25 Miliar] Saham Baru, Dana Rp125 M ke GIGP",
+  "deck": "PT Indah Prakasa Sentosa (INPS) akan menerbitkan hingga 1,25 miliar saham baru kepada pengendali GIGP senilai Rp125 miliar untuk menambal ekuitas negatif dan melunasi utang.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "private placement",
+   "dilusi saham",
+   "perbaikan posisi keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4a799bc5e_08fc1fb2ca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ayls-catat-transaksi-afiliasi-rp280-6-juta-ke-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "AYLS Catat [Transaksi Afiliasi] Rp280,6 Juta ke Pengendali",
+  "deck": "Arkayana Lestari Grup melaporkan transaksi afiliasi senilai Rp280,6 juta dengan pengendalinya, PT Bintang Cahaya Investment, untuk kebutuhan operasional Agustus 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AYLS",
+   "transaksi afiliasi",
+   "keterbukaan informasi",
+   "pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aaac5f2406_c02550f7ac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ayls-lapor-transaksi-afiliasi-rp306-6-juta-untuk-opex-mei",
+  "category": "Aksi Korporasi",
+  "title": "AYLS Lapor Transaksi Afiliasi [Rp306,6 Juta] untuk Opex Mei",
+  "deck": "PT Arkayana Lestari Grup Tbk melaporkan transaksi afiliasi senilai Rp306,6 juta dengan pengendalinya, PT Bintang Cahaya Investment, untuk membiayai belanja operasional Mei 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AYLS",
+   "transaksi afiliasi",
+   "pengendali",
+   "opex"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6b80b5347b_05b34d1edb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ayls-lapor-transaksi-afiliasi-rp408-8-juta-untuk-opex-april",
+  "category": "Aksi Korporasi",
+  "title": "AYLS Lapor [Transaksi Afiliasi] Rp408,8 Juta untuk Opex April",
+  "deck": "AYLS melaporkan transaksi afiliasi Rp408,8 juta dengan pengendali PT Bintang Cahaya Investment untuk membiayai opex April 2026, laporan ketiga transaksi sejenis yang terbit hari ini.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AYLS",
+   "transaksi afiliasi",
+   "pengendali",
+   "opex"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3714b80e1_9e50c54050.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-tetapkan-rupslb-3-november-bahas-modal-dasar-baru",
+  "category": "Aksi Korporasi",
+  "title": "INPS Tetapkan RUPSLB [3 November], Bahas Modal Dasar Baru",
+  "deck": "INPS menetapkan jadwal RUPSLB pada 3 November 2026 untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu guna menutup ekuitas negatif Rp42,8 miliar.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "RUPSLB",
+   "private placement",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/29c27f8a23_c33a5b5d99.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-peringkat-turun-ke-idccc-obligasi-bergaransi-tetap-aaa",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Peringkat Turun ke [idCCC], Obligasi Bergaransi Tetap AAA",
+  "deck": "PEFINDO menurunkan peringkat korporasi Waskita Karya dari idB menjadi idCCC dengan CreditWatch negatif, menyusul gagal bayar pokok obligasi yang dijamin pemerintah.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "PEFINDO",
+   "peringkat obligasi",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8da1f8c005_3228bfd492.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgra-rugi-rp259-miliar-ekuitas-anjlok-83-persen",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Rugi Rp259 Miliar, Ekuitas [Anjlok] 83 Persen",
+  "deck": "Laporan keuangan 2025 PT Terregra Asia Energy (TGRA) mencatat rugi bersih Rp259,5 miliar dan ekuitas turun 83 persen menjadi Rp51,4 miliar, disertai peringatan auditor soal kelangsungan usaha.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "Terregra Asia Energy",
+   "rugi bersih",
+   "kelangsungan usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260929100315-64445-0/FinancialStatement-2025-Tahunan-TGRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-buka-jadwal-rupslb-3-november-ini-tenggatnya",
+  "category": "Aksi Korporasi",
+  "title": "INPS Buka Jadwal [RUPSLB] 3 November, Ini Tenggatnya",
+  "deck": "INPS menetapkan tenggat pemegang saham per 9 Oktober 2026 dan batas usulan agenda 5 Oktober 2026 menjelang RUPSLB soal penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "date": "29 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "RUPSLB",
+   "PMTHMETD",
+   "GIGP"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1856472da8_e8f7a631e2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tpia-konstruksi-ca-edc-capai-80-masuk-tahap-pemasangan-alat",
   "category": "Aksi Korporasi",
   "title": "TPIA: Konstruksi CA-EDC Capai [80%], Masuk Tahap Pemasangan Alat",
@@ -6309,199 +6501,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac52858693_0e29b84b2e.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bird-ganti-dua-anggota-komite-audit-ketua-bertahan",
-  "category": "Aksi Korporasi",
-  "title": "BIRD Ganti Dua Anggota [Komite Audit], Ketua Bertahan",
-  "deck": "Blue Bird Tbk mengganti dua anggota komite audit efektif 22 September 2026, sementara Setyo Wasisto melanjutkan sebagai ketua untuk periode kedua.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIRD",
-   "Blue Bird",
-   "komite audit",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/30e8475a38_db03c11987.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-pemegang-obligasi-setujui-restrukturisasi-kupon-5",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: Pemegang Obligasi Setujui [Restrukturisasi] Kupon 5%",
-  "deck": "97,14 persen pemegang Obligasi Berkelanjutan III Tahap IV Waskita menyetujui restrukturisasi kupon dari 9,75 menjadi 5 persen, dengan pembayaran pertama Rp36,26 miliar pada 23 Desember 2026.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "restrukturisasi obligasi",
-   "Waskita Karya",
-   "obligasi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf5bc0eeae_91fdccbd0f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ayls-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "AYLS Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Bursa Efek Indonesia meminta AYLS menjelaskan lonjakan volatilitas transaksi sahamnya. Perseroan menjawab tidak ada informasi material atau rencana korporasi yang mendasarinya.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AYLS",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c66c1f1591_7fdcc22809.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smma-suntik-rp9-93-miliar-ke-sof-usai-merger-dengan-om",
-  "category": "Aksi Korporasi",
-  "title": "SMMA Suntik Rp9,93 Miliar ke SOF Usai [Merger] dengan OM",
-  "deck": "SMMA menambah penyertaan modal Rp9,93 miliar di Summit Oto Finance untuk mempertahankan porsi 15% setelah Oto Multiartha melebur ke perusahaan itu.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMA",
-   "merger",
-   "Summit Oto Finance",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d9c1131a2_9a4cf0d066.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smma-tambah-modal-rp5-miliar-ke-anak-usaha-dsb",
-  "category": "Aksi Korporasi",
-  "title": "SMMA Tambah Modal Rp5 Miliar ke Anak Usaha [DSB]",
-  "deck": "SMMA menyuntik modal Rp5 miliar ke anak usahanya PT Dana Saham Bersama, menaikkan kepemilikannya dari 99,98 persen menjadi 99,99 persen.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMA",
-   "Dana Saham Bersama",
-   "penyertaan modal",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/30332f57e0_d4cdf5bc3d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnlf-jawab-bursa-tak-ada-info-material-picu-volatilitas",
-  "category": "Aksi Korporasi",
-  "title": "PNLF Jawab Bursa: Tak Ada Info Material Picu [Volatilitas]",
-  "deck": "Menjawab permintaan penjelasan BEI atas lonjakan transaksi sahamnya, manajemen Panin Financial menyatakan tidak mengetahui informasi material apa pun dan tidak ada rencana aksi korporasi dalam waktu dekat.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNLF",
-   "Panin Financial",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/824ed3c8dd_2e250dd896.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "petrokimia-gresik-raih-paten-manfaatkan-silika-limbah",
-  "category": "Industri",
-  "title": "Petrokimia Gresik Raih Paten Manfaatkan [Silika] Limbah",
-  "deck": "Petrokimia Gresik meraih paten sederhana atas inovasi memakai produk samping silika sebagai pengganti bahan penyaring impor dalam produksi asam sulfat.",
-  "date": "22 September 2026",
-  "image": "assets/img/petrokimia-gresik-raih-paten-manfaatkan-silika-limbah.jpg",
-  "imageV": "mucadwrq",
-  "tags": [
-   "Petrokimia Gresik",
-   "paten",
-   "silika",
-   "asam sulfat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468572-ubah-produk-samping-jadi-solusi-agroindustri-petrokimia-gresik-raih-paten-inovasi-silika"
- },
- {
-  "slug": "supr-protelindo-perpanjang-tender-sukarela-hingga-21-oktober",
-  "category": "Aksi Korporasi",
-  "title": "SUPR: Protelindo Perpanjang [Tender Sukarela] hingga 21 Oktober",
-  "deck": "Protelindo memperpanjang masa tender sukarela saham SUPR untuk kedua kalinya hingga 21 Oktober 2026, periode terakhir yang diizinkan aturan OJK, setelah 74,39% saham publik ikut serta.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUPR",
-   "tender offer",
-   "go private",
-   "Protelindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cbb1ba81a9_cf8b60d5c4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pbsa-rombak-nilai-saham-lewat-stock-split-ke-rp25",
-  "category": "Aksi Korporasi",
-  "title": "PBSA Rombak Nilai Saham Lewat [Stock Split] ke Rp25",
-  "deck": "RUPSLB Paramita Bangun Sarana menyetujui pemecahan nilai nominal saham dari Rp50 menjadi Rp25 per lembar, disetujui 99,99% suara yang hadir.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PBSA",
-   "stock split",
-   "RUPSLB",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05ab9e1487_cdc994147c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prtl-perpanjang-tender-saham-solusi-tunas-pratama-terakhir",
-  "category": "Aksi Korporasi",
-  "title": "PRTL Perpanjang Tender Saham Solusi Tunas Pratama, [Terakhir]",
-  "deck": "Protelindo memperpanjang untuk kedua kalinya masa penawaran tender sukarela atas saham Solusi Tunas Pratama hingga 21 Oktober 2026, periode terakhir yang diizinkan aturan OJK.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRTL",
-   "tender offer",
-   "Solusi Tunas Pratama",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03f82f6c17_4e956c9f33.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbyb-jadwalkan-rupslb-pada-29-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "BBYB Jadwalkan [RUPSLB] pada 29 Oktober 2026",
-  "deck": "Bank Neo Commerce mengumumkan rencana RUPSLB 29 Oktober 2026, lengkap dengan tenggat usul agenda pemegang saham dan tanggal pencatatan pemegang saham yang berhak hadir.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBYB",
-   "RUPSLB",
-   "Bank Neo Commerce",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f7378ecd17_e9af4af860.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-melemah-ke-rp17-879-investor-tunggu-rdg-bi",
-  "category": "Moneter",
-  "title": "Rupiah [Melemah] ke Rp17.879, Investor Tunggu RDG BI",
-  "deck": "Rupiah melemah 32 poin ke Rp17.879 per dolar AS jelang keputusan suku bunga BI, di tengah kenaikan suku bunga The Fed, BOJ, dan ECB.",
-  "date": "22 September 2026",
-  "image": "assets/img/rupiah-melemah-ke-rp17-879-investor-tunggu-rdg-bi.jpg",
-  "imageV": "mucadx9a",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "Bank Indonesia",
-   "The Fed"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468553-rupiah-melemah-ke-rp17879-per-dolar-as-seiring-wait-and-see-investor-jelang-rdg-bi"
  }
 ];

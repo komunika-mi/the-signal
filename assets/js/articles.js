@@ -3,6 +3,318 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cmnp-laba-semester-i-2026-turun-33-meski-pendapatan-naik",
+  "category": "Aksi Korporasi",
+  "title": "CMNP: Laba Semester I 2026 [Turun] 33% Meski Pendapatan Naik",
+  "deck": "Pendapatan Citra Marga Nusaphala Persada naik 33,5 persen jadi Rp2,93 triliun pada semester I 2026, tapi laba bersih turun 33 persen akibat provisi perkara hukum baru senilai Rp202,49 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T11:48:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929120031-64443-0/FinancialStatement-2026-II-CMNP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMNP",
+  "tags": [
+   "CMNP",
+   "laporan keuangan",
+   "jalan tol",
+   "emiten infrastruktur"
+  ],
+  "body": [
+   "Citra Marga Nusaphala Persada Tbk (CMNP) menyampaikan laporan keuangan konsolidasian interim yang telah diaudit untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Otoritas Jasa Keuangan lewat surat bernomor 594/DIR-KU.14/IX/2026 tertanggal 24 September 2026. Kantor Akuntan Publik Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan memberikan opini wajar tanpa modifikasian, yang berarti laporan keuangan dinilai disajikan secara akurat tanpa catatan pengecualian, dengan tanggal laporan audit 28 September 2026 dan partner penanggung jawab Sury Musu.",
+   "Pendapatan perseroan pada semester I 2026 tercatat Rp2,93 triliun, naik 33,5 persen dari Rp2,20 triliun pada periode yang sama tahun lalu. Laba usaha ikut naik 5,8 persen menjadi Rp927,57 miliar. Namun laba tahun berjalan justru turun 33 persen menjadi Rp364,67 miliar dari Rp544,04 miliar, dan laba per saham turun dari Rp102 menjadi Rp70. Penyebab utamanya adalah pos pendapatan dan beban lain yang berbalik dari untung Rp16,76 miliar pada semester I 2025 menjadi rugi Rp217,32 miliar pada semester I 2026, seiring munculnya provisi atas perkara hukum senilai Rp202,49 miliar yang baru tercatat pada 30 Juni 2026 dan belum ada di akhir 2025.",
+   "Dari sisi neraca, total aset perseroan naik menjadi Rp27,77 triliun per 30 Juni 2026 dari Rp26,69 triliun di akhir 2025, sementara total liabilitas naik 7 persen menjadi Rp10,87 triliun, ditopang kenaikan pinjaman bank jangka panjang 13,7 persen menjadi Rp6,85 triliun untuk membiayai proyek jalan tol yang masih berjalan, termasuk PT Citra Karya Jabar Tol di Sumedang yang asetnya sudah mencapai Rp11,59 triliun. Kas dan setara kas turun tajam dari Rp1,14 triliun menjadi Rp75,56 miliar, tetapi sebagian besar penurunan ini berpindah ke pos aset keuangan lancar lainnya yang naik dari Rp1,52 triliun menjadi Rp2,56 triliun, sehingga lebih mencerminkan pemindahan dana ke instrumen investasi jangka pendek ketimbang masalah likuiditas. Total ekuitas perseroan tetap tumbuh tipis menjadi Rp16,90 triliun dari Rp16,53 triliun."
+  ],
+  "fotoAdegan": "Cars and trucks flowing along an elevated toll highway interchange in Jakarta, aerial view, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham, karena meski bisnis inti tumbuh sehat, laba bersih yang sebenarnya dinikmati investor justru tergerus provisi hukum baru yang muncul tiba-tiba dalam enam bulan terakhir. Pos yang tersentuh adalah laba per saham, yaitu bagian laba bersih yang secara hitungan menjadi milik setiap lembar saham beredar, dan turunnya dari Rp102 ke Rp70 berarti keuntungan yang bisa dinikmati per saham mengecil sepertiga meski pendapatan perusahaan justru melesat. Utang jangka panjang perusahaan juga naik cukup besar untuk mendanai proyek jalan tol baru, yang wajar untuk perusahaan infrastruktur tapi tetap menambah beban bunga ke depan. Yang perlu dipantau adalah perkembangan perkara hukum yang memicu provisi Rp202,49 miliar tersebut, apakah nilainya bertambah, tetap, atau justru dicairkan, karena dokumen ini belum merinci substansi kasusnya dan kejelasannya baru akan terlihat pada laporan keuangan tahun penuh 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "anjt-beri-pinjaman-rp2-triliun-ke-perusahaan-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "ANJT Beri [Pinjaman] Rp2 Triliun ke Perusahaan Afiliasi",
+  "deck": "ANJT menyalurkan pinjaman hingga Rp2 triliun tanpa jaminan ke PT Adhitya Serayakorita, perusahaan afiliasi dalam satu grup pengendali First Resources Limited.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T11:21:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8df820e992_46ac6efe2c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANJT",
+  "tags": [
+   "ANJT",
+   "transaksi afiliasi",
+   "pinjaman",
+   "First Resources"
+  ],
+  "body": [
+   "PT Austindo Nusantara Jaya Tbk (ANJT) menandatangani perjanjian fasilitas pinjaman dengan PT Adhitya Serayakorita (ASK) pada 25 September 2026, dengan nilai maksimum Rp2.000.000.000.000 (dua triliun rupiah). Pinjaman bersifat non-revolving, artinya dana yang sudah ditarik dan dibayar kembali tidak bisa ditarik ulang, dengan bunga 8,5 persen per tahun dan tanpa jaminan atau agunan apa pun. Jangka waktu pinjaman berlaku sejak tanggal perjanjian sampai 30 Juni 2031, dan jika ASK telat bayar pokok atau bunga, dikenakan bunga keterlambatan sebesar suku bunga pinjaman ditambah 2 persen per tahun. Nilai pinjaman ini setara 46,95 persen dari ekuitas ANJT per 30 Juni 2026 yang tercatat Rp4,26 triliun, sehingga masuk kategori Transaksi Material menurut aturan OJK.",
+   "ASK dan ANJT sama-sama berada di bawah kendali First Resources Limited, yang memiliki 95,92 persen saham ANJT dan secara tidak langsung mengendalikan ASK lewat kepemilikannya di PT Ciliandra Perkasa, pemegang 95,75 persen saham ASK. Direktur ANJT, Isen Henry Tjong, juga merangkap sebagai direktur ASK, sehingga hubungan afiliasinya berlapis. Karena transaksi ini sekaligus tergolong Transaksi Material dan Transaksi Afiliasi, berdasarkan Pasal 33 huruf a POJK 17/2020, ANJT hanya wajib memenuhi ketentuan POJK 17/2020 saja dan tidak memerlukan persetujuan RUPS. Dana pinjaman akan dipakai ASK untuk membiayai kegiatan operasional, modal kerja, serta keperluan lain yang disetujui tertulis oleh ANJT.",
+   "Penilai independen, KJPP Tobing Panuturi dan Rekan lewat penilai Lidia, S.T., M.M., MAPPI, menyimpulkan transaksi ini wajar dalam laporan bertanggal 23 September 2026. Berdasarkan analisis proyeksi keuangan 2026 hingga 2031, appraiser menghitung transaksi ini menambah total aset ANJT sebesar Rp1,78 triliun, menambah laba setelah pajak Rp379,67 miliar, dan menambah kas akhir Rp1,12 triliun dibanding skenario tanpa transaksi. Perjanjian juga membatasi ASK antara lain untuk tidak menambah utang material, mengalihkan aset material, atau membayar dividen dalam kondisi tertentu tanpa persetujuan tertulis ANJT lebih dulu."
+  ],
+  "fotoAdegan": "Workers loading palm oil fruit bunches onto a truck at a plantation collection point, tropical morning light",
+  "takeaway": "Laporan ini netral bagi fundamental ANJT: transaksi memberi tambahan pendapatan bunga, tapi juga mengubah hampir separuh ekuitas perusahaan menjadi piutang tanpa jaminan kepada perusahaan satu grup pengendali, jadi ukurannya terlalu besar untuk dianggap sekadar penempatan kas menganggur biasa. Begitu pinjaman dicairkan, kas dan setara kas ANJT akan berkurang hingga Rp2 triliun sementara piutang kepada perusahaan terafiliasi bertambah sebesar itu di neraca, dan karena tidak ada agunan, kemampuan ASK membayar pokok serta bunga 8,5 persen per tahun jadi penentu utama apakah dana ini kembali sesuai rencana. Yang perlu dipantau berikutnya adalah realisasi pencairan pinjaman sesuai kebutuhan ASK, jatuh tempo penuh pada 30 Juni 2031, serta masa berlaku pendapat kewajaran dari penilai independen yang berakhir 31 Desember 2026, karena kalau transaksi belum tuntas sebelum tanggal itu penilaian kewajarannya harus diperbarui.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "crab-utang-bank-mandiri-disorot-auditor-sebagai-hal-audit-utama",
+  "category": "Aksi Korporasi",
+  "title": "CRAB: Utang Bank Mandiri Disorot Auditor sebagai [Hal Audit Utama]",
+  "deck": "Sesi tanya jawab Public Expose CRAB mengungkap kenaikan liabilitas terkait kredit modal kerja Bank Mandiri yang oleh auditor ditandai sebagai Hal Audit Utama, di tengah proses hukum yang masih berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T10:59:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/59c907c130_fa2486110f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRAB",
+  "tags": [
+   "CRAB",
+   "Toba Surimi Industries",
+   "Public Expose",
+   "Bank Mandiri"
+  ],
+  "body": [
+   "PT Toba Surimi Industries Tbk (CRAB) melaporkan hasil pelaksanaan Public Expose Tahunan 2026 kepada Bursa Efek Indonesia. Acara berlangsung Jumat, 25 September 2026, pukul 16.45-17.25 WIB, di Ruang Rosewood, Grand City Hall Medan, dan dihadiri 10 peserta eksternal di luar jajaran manajemen dan karyawan perseroan. Manajemen yang hadir meliputi Direktur Utama Beston Barto Siboro, Direktur Irsan Sudargo, Direktur Sia Leng Hong alias Tony Siaputra, Direktur Erman, Direktur Kok Kieng, serta Komisaris Independen Purnomo Darmowasito dan Drs Pontas Pane. Presentasi disampaikan oleh Irsan Sudargo dan Beston Barto Siboro.",
+   "Dalam sesi tanya jawab, dua penanya publik menyoal ekspansi pasar dan strategi pertumbuhan. Direktur Utama Beston Barto Siboro menjelaskan bahwa perusahaan sudah mengekspor ke Eropa, Asia, Australia, Kanada, Inggris, dan Uni Emirat Arab selain pasar utama Amerika Serikat, dan berencana menambah mitra strategis serta menggarap pasar non-tradisional untuk mengejar target penjualan tahun ini dan tahun berikutnya.",
+   "Pertanyaan yang lebih tajam datang dari peserta bernama Heri, yang menyoroti kenaikan liabilitas perseroan dari 2025 ke 2026 dan menanyakan apakah itu berasal dari tambahan penggunaan Kredit Modal Kerja (KMK) di Bank Mandiri. Komisaris Independen Purnomo Darmowasito menjawab bahwa rincian KMK tersebut sudah dipaparkan dalam RUPS Tahunan dan Laporan Tahunan, serta menegaskan komitmen Dewan Komisaris dan Direksi untuk mengikuti proses hukum yang masih berjalan terkait hal itu. Ia mengarahkan pemegang saham untuk merujuk pada Catatan atas Laporan Keuangan dalam Laporan Keuangan Audit Tahun 2025 yang diperiksa Kantor Akuntan Publik (KAP) PKF, dan menyebutkan bahwa komposisi liabilitas ini telah mendapat perhatian khusus dari auditor independen sehingga ditetapkan sebagai Key Audit Matter (Hal Audit Utama) dan memuat Emphasis of Matter (Penekanan Suatu Hal)."
+  ],
+  "fotoAdegan": "Workers moving frozen seafood blocks on a conveyor inside a fish processing factory, cold storage steam visible, industrial Medan setting",
+  "takeaway": "Jawaban soal utang ke Bank Mandiri ini cenderung negatif bagi Toba Surimi, karena alih-alih memberi kepastian, manajemen mengarahkan pemegang saham untuk membaca sendiri dokumen audit yang sudah menandai persoalan ini secara khusus. Yang tersentuh di sini adalah pos liabilitas atau utang perusahaan: auditor independen KAP PKF menetapkan komposisi utang ini sebagai Hal Audit Utama, sebutan untuk pos yang menurut penilaian auditor berisiko cukup besar sehingga perlu perhatian ekstra, dan menyertakan Penekanan Suatu Hal, yaitu paragraf khusus yang sengaja disisipkan auditor untuk mengingatkan pembaca laporan keuangan meski opini keseluruhan tetap wajar. Kalau kredit modal kerja yang dipakai terus membesar, beban bunga yang harus dibayar perusahaan ikut naik dan bisa menekan laba bersihnya. Yang perlu dipantau berikutnya adalah perkembangan proses hukum terkait Bank Mandiri yang menurut Komisaris Independen Purnomo Darmowasito masih berjalan, serta rincian lengkap di Catatan atas Laporan Keuangan dalam Laporan Keuangan Audit Tahun 2025.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ptpp-belum-kantongi-restu-tunda-bayar-bunga-obligasi-rp44-7-m",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Belum Kantongi Restu [Tunda] Bayar Bunga Obligasi Rp44,7 M",
+  "deck": "RUPO dan RUPSu PTPP pada 1-2 September 2026 belum menyetujui usulan penundaan bunga obligasi dan bagi hasil sukuk untuk enam instrumen senilai Rp44,68 miliar yang jatuh tempo Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T10:50:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a2a5972d5_b1f917466e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "obligasi",
+   "restrukturisasi utang",
+   "sukuk mudharabah"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk (PTPP) menyampaikan laporan keterbukaan informasi soal kesiapan pembayaran bunga Obligasi Berkelanjutan dan bagi hasil Sukuk Mudharabah Berkelanjutan yang jatuh tempo pada Oktober 2026. Dalam surat bertanggal 29 September 2026 yang ditandatangani Direktur Keuangan Faizal Rahmad, perusahaan menyebut sedang menjalani proses restrukturisasi keuangan sebagai bagian dari upaya penyehatan kondisi keuangan dan keberlangsungan usaha. Karena itu, PTPP membuka kemungkinan ada penyesuaian waktu pembayaran atas enam instrumen berikut: Obligasi Berkelanjutan III Tahap I 2021 Seri B senilai Rp14,79 miliar jatuh tempo 2 Oktober 2026, Sukuk Mudharabah Berkelanjutan I Tahap I 2021 Seri B senilai Rp2,28 miliar jatuh tempo 2 Oktober 2026, Sukuk Mudharabah Berkelanjutan I Tahap III 2023 Seri A senilai Rp2,79 miliar jatuh tempo 12 Oktober 2026, Obligasi Berkelanjutan III Tahap III 2023 Seri A senilai Rp11,08 miliar jatuh tempo 12 Oktober 2026, Obligasi Berkelanjutan III Tahap II 2022 Seri B senilai Rp7,84 miliar jatuh tempo 22 Oktober 2026, dan Sukuk Mudharabah Berkelanjutan I Tahap II 2022 Seri B senilai Rp5,91 miliar jatuh tempo 22 Oktober 2026. Total kewajiban bunga dan bagi hasil dari keenam instrumen tersebut mencapai sekitar Rp44,68 miliar.",
+   "Perseroan menjelaskan bahwa restrukturisasi itu dijalankan lewat pengelolaan arus kas secara terukur, dengan tetap memperhatikan keberlangsungan operasional dan penyelesaian kewajiban kepada kreditur maupun pemegang efek. Untuk mencari persetujuan atas rencana penyesuaian jadwal bayar tersebut, PTPP telah menggelar Rapat Umum Pemegang Obligasi (RUPO) dan Rapat Umum Pemegang Sukuk (RUPSu) pada 1 dan 2 September 2026. Namun dalam laporan ini perusahaan menyatakan bahwa rapat tersebut belum memperoleh persetujuan atas usulan perubahan dan/atau penundaan jadwal pembayaran bunga obligasi maupun bagi hasil sukuk mudharabah.",
+   "PTPP menyatakan akan terus berkoordinasi dengan wali amanat untuk menempuh langkah penyelesaian sesuai perjanjian perwaliamanatan, termasuk kemungkinan menggelar kembali RUPO dan RUPSu guna memperoleh keputusan baru dari pemegang obligasi dan sukuk. Perusahaan menegaskan komitmen menyelesaikan kewajiban kepada pemegang obligasi dan sukuk sesuai mekanisme dalam perjanjian perwaliamanatan dan hasil keputusan RUPO/RUPSu tersebut, seiring proses restrukturisasi keuangan yang masih berjalan. Surat ini ditembuskan kepada PT Kustodian Sentral Efek Indonesia selaku lembaga penyimpanan dan penyelesaian efek."
+  ],
+  "fotoAdegan": "Unfinished high-rise building with cranes and scaffolding at a busy Jakarta construction site, workers in safety vests at dusk",
+  "takeaway": "Laporan ini negatif bagi PTPP, sebab pemegang obligasi dan sukuk lewat RUPO dan RUPSu pada 1-2 September 2026 belum memberi persetujuan atas usulan penyesuaian jadwal bayar bunga dan bagi hasil untuk enam instrumen senilai total sekitar Rp44,68 miliar yang jatuh tempo 2, 12, dan 22 Oktober 2026, padahal perusahaan sendiri mengakui sedang menata ulang arus kasnya lewat restrukturisasi keuangan. Yang tersentuh di sini adalah arus kas, yaitu ketersediaan uang tunai perusahaan untuk membayar kewajiban jangka pendek, dan pelaku pasar mencermatinya karena keterlambatan membayar bunga obligasi atau bagi hasil sukuk bisa memicu status wanprestasi yang berdampak pada peringkat utang dan kepercayaan kreditur lain. Yang perlu dipantau berikutnya adalah apakah PTPP berhasil menggelar ulang RUPO dan RUPSu untuk mendapat keputusan baru dari pemegang obligasi dan sukuk sebelum tanggal jatuh tempo 2, 12, dan 22 Oktober 2026, serta apakah pembayaran benar terealisasi tepat waktu pada tanggal-tanggal tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inps-terbitkan-1-25-miliar-saham-baru-dana-rp125-m-ke-gigp",
+  "category": "Aksi Korporasi",
+  "title": "INPS Terbitkan [1,25 Miliar] Saham Baru, Dana Rp125 M ke GIGP",
+  "deck": "PT Indah Prakasa Sentosa (INPS) akan menerbitkan hingga 1,25 miliar saham baru kepada pengendali GIGP senilai Rp125 miliar untuk menambal ekuitas negatif dan melunasi utang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T10:48:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4a799bc5e_08fc1fb2ca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "private placement",
+   "dilusi saham",
+   "perbaikan posisi keuangan"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) mengajukan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dalam rangka perbaikan posisi keuangan. Perseroan akan menerbitkan sebanyak-banyaknya 1.250.000.000 saham baru dengan nilai nominal Rp100 per saham pada harga pelaksanaan Rp100 per saham, sehingga dana yang bisa diterima mencapai Rp125 miliar. Seluruh saham baru ini direncanakan diambil oleh PT Graha Inti Guna Persada (GIGP), pemegang saham pengendali Perseroan, secara tunai. Harga Rp100 per saham ini berada di atas indikasi nilai wajar Rp91,22 per saham menurut kajian penilai independen KJPP Ferdinand, Danar, Ichsan dan Rekan.",
+   "Berdasarkan Daftar Pemegang Saham per 23 September 2026, jika seluruh saham baru diserap GIGP, porsi kepemilikannya akan naik dari 65,86% menjadi 88,32%. Sebaliknya, kepemilikan Andry Hakim tergerus dari 10,02% menjadi 3,43%, dan kepemilikan publik turun dari 24,12% menjadi 8,25%. Perseroan menyebut dilusi maksimal bagi pemegang saham selain GIGP mencapai 65,79%, dengan jumlah saham beredar Perseroan melonjak dari 650 juta menjadi 1,9 miliar lembar.",
+   "Dana hasil private placement direncanakan dipakai untuk tiga keperluan: sekitar Rp21 miliar (16,8%) untuk melunasi utang kepada pihak ketiga, termasuk Rp12,59 miliar kepada PT Era Prima Utama dan sisanya kepada kreditur pihak ketiga lain; sekitar Rp99 miliar (79,2%) disuntikkan sebagai penyertaan modal ke entitas anak untuk belanja modal pengembangan usaha; serta sekitar Rp5 miliar (4,0%) untuk modal kerja Perseroan sendiri.",
+   "Perseroan mencatat ekuitas negatif Rp42,83 miliar dan modal kerja bersih negatif Rp26,94 miliar per 30 Juni 2026, dengan rasio liabilitas terhadap aset mencapai 124,3%, melampaui batas 80% yang menjadi syarat PMTHMETD jenis ini. Manajemen memproyeksikan setelah suntikan dana, ekuitas berubah menjadi positif sekitar Rp82,17 miliar dan rasio liabilitas terhadap aset turun ke 72,7%. Rencana ini akan dimintakan persetujuan dalam RUPSLB pada 3 November 2026, dengan pelaksanaan penerbitan saham diperkirakan awal Desember 2026 dan pencatatan saham baru di BEI pada 11 Desember 2026."
+  ],
+  "fotoAdegan": "Forklifts moving pallets inside a large warehouse near fuel storage tanks at an industrial depot, hazy afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental INPS: suntikan dana memang menutup ekuitas negatif dan memperbaiki likuiditas Perseroan, tetapi kepemilikan pemegang saham selain pengendali tergerus signifikan, sehingga kedua efek itu saling menetralkan bagi pemegang saham minoritas. Pos yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan total utang, yang berubah dari negatif menjadi positif setelah dana masuk, serta jumlah saham beredar yang melonjak hampir tiga kali lipat sehingga laba per saham ke depan bisa terdilusi cukup dalam meski labanya sendiri tidak berubah. Yang perlu dipantau adalah RUPSLB pada 3 November 2026 untuk persetujuan pemegang saham, karena skema ini hanya berjalan bila disetujui, disusul rencana pelaksanaan penerbitan saham awal Desember 2026 dan pencatatan di BEI pada 11 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ayls-catat-transaksi-afiliasi-rp280-6-juta-ke-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "AYLS Catat [Transaksi Afiliasi] Rp280,6 Juta ke Pengendali",
+  "deck": "Arkayana Lestari Grup melaporkan transaksi afiliasi senilai Rp280,6 juta dengan pengendalinya, PT Bintang Cahaya Investment, untuk kebutuhan operasional Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T10:47:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aaac5f2406_c02550f7ac.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AYLS",
+  "tags": [
+   "AYLS",
+   "transaksi afiliasi",
+   "keterbukaan informasi",
+   "pengendali"
+  ],
+  "body": [
+   "PT Arkayana Lestari Grup Tbk (AYLS) menyampaikan keterbukaan informasi transaksi afiliasi kepada Bursa Efek Indonesia pada 29 September 2026. Transaksi tercatat terjadi pada 1 Agustus 2026 dengan nilai Rp280.626.552, dengan keterangan objek transaksi berupa keperluan biaya operasional (Opex) bulan Agustus.",
+   "Pihak yang terlibat dalam transaksi ini adalah PT Bintang Cahaya Investment, yang berstatus sebagai pengendali AYLS. Artinya dana sebesar itu mengalir antara perusahaan dan pemegang saham pengendalinya sendiri, bukan pihak ketiga yang independen.",
+   "Perseroan menyebut laporan ini disampaikan untuk memenuhi Peraturan Otoritas Jasa Keuangan Nomor 42/POJK.04/2020 tentang Transaksi Afiliasi dan Benturan Kepentingan, serta ketentuan keterbukaan informasi BEI. Dokumen ini tidak merinci mekanisme pembayaran, apakah transaksi serupa berulang setiap bulan, atau perbandingan nilainya terhadap ekuitas maupun aset perusahaan."
+  ],
+  "fotoAdegan": "Exterior of a modern mid-rise office tower in a Jakarta business district at dusk, lights on in upper floor windows.",
+  "takeaway": "Laporan ini netral bagi emiten, sebab nilainya relatif kecil, Rp280,6 juta, dan sifatnya adalah kewajiban administratif pelaporan transaksi dengan pihak berelasi, bukan indikasi masalah keuangan baru. Pos yang tersentuh adalah beban operasional dan arus kas ke pihak afiliasi, yaitu perpindahan dana antara perusahaan dan pemegang saham pengendalinya sendiri, yang diawasi regulator karena berpotensi menguntungkan salah satu pihak secara tidak wajar jika tidak transparan. Yang perlu dipantau adalah apakah transaksi sejenis dengan PT Bintang Cahaya Investment berulang tiap bulan dan bagaimana akumulasi nilainya dari waktu ke waktu, karena jika totalnya melewati ambang tertentu, POJK 42/2020 mewajibkan penilaian independen atau bahkan persetujuan pemegang saham lewat RUPS.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ayls-lapor-transaksi-afiliasi-rp306-6-juta-untuk-opex-mei",
+  "category": "Aksi Korporasi",
+  "title": "AYLS Lapor Transaksi Afiliasi [Rp306,6 Juta] untuk Opex Mei",
+  "deck": "PT Arkayana Lestari Grup Tbk melaporkan transaksi afiliasi senilai Rp306,6 juta dengan pengendalinya, PT Bintang Cahaya Investment, untuk membiayai belanja operasional Mei 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T10:46:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6b80b5347b_05b34d1edb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AYLS",
+  "tags": [
+   "AYLS",
+   "transaksi afiliasi",
+   "pengendali",
+   "opex"
+  ],
+  "body": [
+   "PT Arkayana Lestari Grup Tbk (AYLS) menyampaikan keterbukaan informasi mengenai transaksi afiliasi senilai Rp306.648.028, atau sekitar Rp306,6 juta, yang terjadi pada 1 Mei 2026. Transaksi ini dilakukan dengan PT Bintang Cahaya Investment, yang berstatus sebagai pemegang saham pengendali perseroan. Perusahaan menyebut transaksi tersebut digunakan untuk keperluan belanja operasional atau opex pada bulan Mei 2026.",
+   "Perseroan menjelaskan pelaporan ini mengacu pada Peraturan OJK Nomor 42/POJK.04/2020 tentang Transaksi Afiliasi dan Benturan Kepentingan, yang mewajibkan emiten mengumumkan setiap transaksi dengan pihak berelasi seperti pemegang saham pengendali. Dokumen tidak merinci apakah dana tersebut berbentuk pinjaman, suntikan dana, atau penggantian biaya, hanya menyebutnya sebagai transaksi afiliasi untuk menutup kebutuhan operasional bulan bersangkutan.",
+   "Laporan ini baru disampaikan ke Bursa Efek Indonesia pada 29 September 2026, empat bulan setelah tanggal transaksi. Ini melanjutkan pola serupa yang sebelumnya diberitakan, yaitu transaksi afiliasi senilai Rp280,6 juta ke pihak pengendali yang sama untuk keperluan opex bulan lain."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in a Jakarta business district, viewed from a busy street at midday.",
+  "takeaway": "Laporan ini netral bagi AYLS, sebab nilainya kecil, sekitar Rp306,6 juta, dan sifatnya adalah pendanaan rutin dari pemegang saham pengendali untuk menutup biaya operasional bulanan, bukan tanda perbaikan atau perburukan bisnis. Pos yang tersentuh adalah arus kas perusahaan, yaitu aliran uang masuk atau keluar yang mencerminkan dari mana perusahaan mendapat dana untuk berjalan sehari-hari, karena dana opex ini mengalir dari pengendali ke perusahaan di luar mekanisme pinjaman bank biasa. Yang perlu dicermati adalah apakah pola pendanaan bulanan seperti ini terus berulang di bulan-bulan berikutnya, karena kalau berlanjut secara rutin bisa menandakan perusahaan bergantung pada suntikan pengendali untuk menutup operasional. Keterlambatan pelaporan selama empat bulan, dari Mei ke September 2026, juga layak dipantau terkait kepatuhan AYLS terhadap tenggat keterbukaan informasi yang diatur OJK.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ayls-lapor-transaksi-afiliasi-rp408-8-juta-untuk-opex-april",
+  "category": "Aksi Korporasi",
+  "title": "AYLS Lapor [Transaksi Afiliasi] Rp408,8 Juta untuk Opex April",
+  "deck": "AYLS melaporkan transaksi afiliasi Rp408,8 juta dengan pengendali PT Bintang Cahaya Investment untuk membiayai opex April 2026, laporan ketiga transaksi sejenis yang terbit hari ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T10:45:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3714b80e1_9e50c54050.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AYLS",
+  "tags": [
+   "AYLS",
+   "transaksi afiliasi",
+   "pengendali",
+   "opex"
+  ],
+  "body": [
+   "PT Arkayana Lestari Grup Tbk (AYLS) menyampaikan keterbukaan informasi transaksi afiliasi bertanggal 1 April 2026 senilai Rp408.756.730. Transaksi ini dilakukan dengan PT Bintang Cahaya Investment, yang berstatus sebagai pemegang saham pengendali perseroan, dan digunakan untuk membiayai kebutuhan belanja operasional atau opex AYLS selama April 2026. Perseroan menyebut pelaporan ini merujuk pada Peraturan OJK Nomor 42/POJK.04/2020 tentang Transaksi Afiliasi dan Benturan Kepentingan serta ketentuan keterbukaan informasi Bursa Efek Indonesia, meski transaksi itu sendiri sudah terjadi lebih dari lima bulan sebelum diumumkan pada 29 September 2026.",
+   "Laporan ini adalah laporan transaksi afiliasi ketiga yang diterbitkan AYLS pada hari yang sama. Sebelumnya perseroan juga melaporkan transaksi afiliasi senilai Rp280,6 juta dan Rp306,6 juta dengan pengendali yang sama untuk menutup opex di bulan lain. Dengan tambahan laporan ini, total dana yang tercatat mengalir dari PT Bintang Cahaya Investment ke AYLS untuk membiayai operasional pada periode yang dilaporkan mencapai sekitar Rp996 juta."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in a busy Jakarta business district, cars passing at midday",
+  "takeaway": "Laporan ini netral bagi fundamental AYLS, sebab nilainya kecil dan sifatnya adalah pendanaan rutin dari pengendali untuk menutup biaya operasional, bukan sinyal langsung soal kinerja usaha. Yang perlu dicatat, ini sudah laporan ketiga jenis serupa yang terbit di hari yang sama, dengan total pendanaan afiliasi sekitar Rp996 juta dalam beberapa bulan terakhir, semuanya dari PT Bintang Cahaya Investment selaku pengendali. Transaksi semacam ini menyentuh pos arus kas perseroan, karena menunjukkan dari mana sumber dana operasional berasal ketika kas internal perseroan tidak mencukupi untuk menutup biaya sehari-hari. Pelaku pasar biasanya mencermati apakah pola pendanaan afiliasi seperti ini terus berulang tiap bulan, sebab kalau berlanjut bisa menandakan arus kas operasional AYLS belum mandiri. Yang perlu dipantau berikutnya adalah apakah AYLS kembali melaporkan transaksi serupa untuk bulan-bulan setelah April 2026, atau mulai bisa membiayai opex dari kas hasil operasinya sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inps-tetapkan-rupslb-3-november-bahas-modal-dasar-baru",
+  "category": "Aksi Korporasi",
+  "title": "INPS Tetapkan RUPSLB [3 November], Bahas Modal Dasar Baru",
+  "deck": "INPS menetapkan jadwal RUPSLB pada 3 November 2026 untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu guna menutup ekuitas negatif Rp42,8 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T10:25:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/29c27f8a23_c33a5b5d99.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "RUPSLB",
+   "private placement",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) mengirim surat koreksi pemberitahuan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) ke Otoritas Jasa Keuangan, Bursa Efek Indonesia, dan PT Kustodian Sentral Efek Indonesia pada 29 September 2026. Dalam surat itu, Perseroan menetapkan RUPSLB akan digelar Selasa, 3 November 2026 pukul 14.00 WIB di Gedung Inprase, Jl. Sunter Garden Raya Blok D8 No. 3G-3H, Sunter Agung, Tanjung Priok, Jakarta Utara. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per Jumat, 9 Oktober 2026 pukul 16.00 WIB. Pemanggilan resmi rapat dijadwalkan Senin, 12 Oktober 2026, sementara usulan mata acara rapat dari pemegang saham yang mewakili minimal 1/20 total saham berhak suara harus diterima Direksi paling lambat Senin, 5 Oktober 2026.",
+   "Mata acara pertama RUPSLB adalah persetujuan pelaksanaan Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu (private placement) untuk memperbaiki posisi keuangan Perseroan. Dokumen menyebut, berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, INPS mencatat defisiensi modal alias ekuitas negatif sebesar Rp42.826.472.764, dengan total liabilitas melebihi 80 persen dari total aset dan modal kerja bersih negatif, sehingga memenuhi syarat POJK 14/2019 untuk melakukan private placement. Rincian jumlah saham, harga pelaksanaan, dan calon pemodal sudah diuraikan dalam keterbukaan informasi yang diumumkan Perseroan pada 25 September 2026, yakni suntikan dana Rp125 miliar dari GIGP yang menaikkan kepemilikannya menjadi 88,32 persen.",
+   "Mata acara kedua adalah persetujuan kenaikan modal dasar serta modal ditempatkan dan disetor Perseroan, berikut perubahan Pasal 4 Anggaran Dasar. Saat ini modal dasar INPS sebesar Rp200 miliar yang terbagi atas 2 miliar saham dengan nilai nominal Rp100 per saham, sedangkan modal ditempatkan dan disetor sebesar Rp65 miliar atau 650 juta saham. Besaran modal dasar dan modal disetor yang baru belum disebut dalam surat ini, dan akan diuraikan dalam bahan mata acara rapat yang tersedia sejak tanggal pemanggilan pada 12 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a conference hall ahead of a shareholders meeting, Jakarta skyline visible through windows, morning light",
+  "takeaway": "Laporan ini netral bagi fundamental INPS, karena RUPSLB pada 3 November 2026 ini cuma memformalkan private placement Rp125 miliar dari GIGP yang sudah diumumkan dan bahkan sudah dieksekusi lewat penerbitan 1,25 miliar saham baru pekan lalu, jadi tidak ada arah baru dari sisi bisnis. Yang tersentuh adalah ekuitas dan jumlah saham beredar: dana segar ini menutup defisiensi modal Rp42,8 miliar per Juni 2026 sehingga neraca Perseroan kembali positif, tapi begitu modal ditempatkan resmi dinaikkan dari 650 juta saham saat ini, jumlah saham beredar bertambah dan laba per saham berpotensi makin terdilusi bagi pemegang saham non-pengendali. Pemegang saham yang mau mengusulkan mata acara rapat harus mengirim usulan tertulis paling lambat Senin, 5 Oktober 2026, dan yang berhak hadir dan memberi suara di RUPSLB adalah mereka yang tercatat dalam daftar pemegang saham per Jumat, 9 Oktober 2026 pukul 16.00 WIB. Yang perlu dipantau selanjutnya adalah hasil pemungutan suara di RUPSLB 3 November 2026 dan besaran modal dasar baru yang baru akan diumumkan dalam bahan rapat resmi sejak 12 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wskt-peringkat-turun-ke-idccc-obligasi-bergaransi-tetap-aaa",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Peringkat Turun ke [idCCC], Obligasi Bergaransi Tetap AAA",
+  "deck": "PEFINDO menurunkan peringkat korporasi Waskita Karya dari idB menjadi idCCC dengan CreditWatch negatif, menyusul gagal bayar pokok obligasi yang dijamin pemerintah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T10:21:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8da1f8c005_3228bfd492.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "PEFINDO",
+   "peringkat obligasi",
+   "gagal bayar"
+  ],
+  "body": [
+   "PEFINDO menurunkan peringkat korporasi PT Waskita Karya (Persero) Tbk dari \"idB/CreditWatch\" menjadi \"idCCC/CreditWatch\", keduanya dengan keterangan Credit Watch with Negative Implications. Keputusan ini diambil Komite Pemeringkatan PEFINDO dalam rapat Kamis, 24 September 2026, dan disampaikan resmi lewat sertifikat pemantauan khusus tertanggal 25 September 2026. Penyebabnya adalah penundaan pembayaran pokok Obligasi III Waskita Karya Tahun 2021 Seri A yang dijamin Pemerintah Indonesia, serta proses realisasi klaim penjaminan yang tengah berjalan sesuai perjanjian penjaminan.",
+   "Delapan seri surat utang yang dijamin penuh, tanpa syarat, dan tidak dapat ditarik kembali oleh pemerintah, yaitu Obligasi III 2021 Seri A dan B, Obligasi IV 2022 Seri A dan B senilai total Rp3,9 triliun, serta Sukuk Mudharabah I 2022 Seri A dan B senilai Rp1,148 triliun, tetap mendapat peringkat tertinggi idAAA(gg) dan idAAA(sy)(gg). Peringkat itu berlaku untuk periode pendek, 24 September hingga 1 Oktober 2026, mengikuti siklus pemantauan khusus PEFINDO.",
+   "Sebaliknya, empat seri obligasi yang tidak dijamin pemerintah, yakni Obligasi Berkelanjutan III Tahap II 2018 Seri B, Tahap III 2018 Seri B, Tahap IV 2019 Seri B, dan Obligasi Berkelanjutan IV Tahap I 2020 dengan total nilai Rp4,7155 triliun, diturunkan dari idB menjadi idCCC. PEFINDO mendefinisikan idCCC sebagai peringkat yang rentan gagal bayar dan bergantung pada kondisi bisnis serta keuangan yang lebih menguntungkan agar emiten bisa memenuhi kewajiban jangka panjangnya. PEFINDO menyatakan akan meninjau ulang status CreditWatch ini paling lambat dalam tiga bulan, mengikuti perkembangan kondisi dan ketersediaan data dari Waskita Karya."
+  ],
+  "fotoAdegan": "Unfinished elevated highway construction site with concrete pillars and workers near heavy machinery under an overcast sky",
+  "takeaway": "Laporan ini negatif bagi Waskita Karya, karena PEFINDO resmi menurunkan peringkat korporasinya dua tingkat, dari idB ke idCCC, meski efek yang dijamin pemerintah tetap aman di peringkat tertinggi AAA. Yang tersentuh adalah beban bunga dan akses pendanaan baru perusahaan ke depan, sebab peringkat rendah membuat kreditur biasanya minta bunga lebih tinggi atau enggan memberi pinjaman baru, sementara status CreditWatch berarti PEFINDO masih mengawasi ketat dan bisa menurunkan lagi peringkat sewaktu-waktu. Yang perlu dipantau adalah peninjauan ulang CreditWatch yang dijanjikan PEFINDO paling lambat tiga bulan dari sekarang, sekitar akhir Desember 2026, tergantung penyelesaian klaim penjaminan dan perbaikan arus kas Waskita Karya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tgra-rugi-rp259-miliar-ekuitas-anjlok-83-persen",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Rugi Rp259 Miliar, Ekuitas [Anjlok] 83 Persen",
+  "deck": "Laporan keuangan 2025 PT Terregra Asia Energy (TGRA) mencatat rugi bersih Rp259,5 miliar dan ekuitas turun 83 persen menjadi Rp51,4 miliar, disertai peringatan auditor soal kelangsungan usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T09:56:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260929100315-64445-0/FinancialStatement-2025-Tahunan-TGRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGRA",
+  "tags": [
+   "TGRA",
+   "Terregra Asia Energy",
+   "rugi bersih",
+   "kelangsungan usaha"
+  ],
+  "body": [
+   "PT Terregra Asia Energy Tbk (TGRA) melaporkan rugi bersih Rp259.517.560.260 untuk tahun buku 2025, melonjak dari rugi Rp23.698.805.720 pada 2024. Akibatnya ekuitas perusahaan turun 83,45 persen, dari Rp310,7 miliar menjadi Rp51,4 miliar, sementara total aset turun 54,98 persen dari Rp458,6 miliar menjadi Rp206,5 miliar. Penurunan di atas 20 persen ini membuat TGRA wajib mengirim surat penjelasan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia sesuai Peraturan Bursa No. I-E, yang ditandatangani Direktur Daniel Tagu Dedo pada 1 September 2026.",
+   "Dalam suratnya, manajemen merinci empat penyebab utama kerugian: penurunan nilai aset dalam pembangunan sebesar Rp177,4 miliar akibat tertundanya proyek pembangkit listrik tenaga mini hidro (PLTMH) dan pembangkit listrik tenaga air (PLTA) milik grup, penurunan nilai goodwill Rp45,5 miliar dari proyek yang belum beroperasi, beban pajak Rp10,2 miliar, serta kerugian Rp8,3 miliar akibat klaim bank garansi oleh PT PLN (Persero) karena proyek gagal mencapai tanggal operasi komersial (commercial operation date) yang dijanjikan.",
+   "Auditor KAP Irwanto dan Rekan, dengan partner penanggung jawab Nino Berlianto, memberikan opini wajar tanpa modifikasian atas laporan keuangan ini, namun menyertakan penekanan soal ketidakpastian material atas kelangsungan usaha grup. Sepanjang 2025 TGRA tidak membukukan pendapatan sama sekali, sementara liabilitas jangka pendek Rp150,4 miliar jauh melebihi aset lancar yang hanya Rp168,7 juta. Rugi per saham dasar melebar menjadi Rp94,29 dari Rp8,60 pada tahun sebelumnya. Saham TGRA saat ini berstatus Pemantauan Khusus (watchlist) di bursa."
+  ],
+  "fotoAdegan": "A partially built small hydroelectric dam structure beside a river in a forested Indonesian valley, construction equipment idle, overcast sky",
+  "takeaway": "Laporan ini jelas negatif bagi fundamental TGRA, sebab rugi bersih melonjak lebih dari sepuluh kali lipat dan ekuitas tergerus 83 persen hanya dalam setahun. Yang tersentuh adalah ekuitas, yaitu modal bersih pemegang saham setelah dikurangi utang, dan laba per saham, karena keduanya jadi ukuran utama investor untuk menilai seberapa besar kerugian yang menjadi beban tiap lembar saham. Auditor menegaskan ada keraguan signifikan atas kelangsungan usaha karena utang jangka pendek Rp150,4 miliar jauh lebih besar dari aset lancar yang cuma Rp168,7 juta, dan sepanjang 2025 perusahaan sama sekali tidak membukukan pendapatan. Penurunan nilai proyek PLTMH dan PLTA yang tertunda pembangunannya, ditambah klaim bank garansi oleh PLN akibat gagal memenuhi target operasi komersial, jadi sumber utama kerugian ini. Yang perlu dipantau berikutnya adalah apakah pendanaan pihak ketiga untuk proyek-proyek tersebut akhirnya terealisasi, serta kelanjutan rencana private placement yang sudah diumumkan TGRA sebagai bagian dari upaya memulihkan status pemantauan khusus sahamnya di bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inps-buka-jadwal-rupslb-3-november-ini-tenggatnya",
+  "category": "Aksi Korporasi",
+  "title": "INPS Buka Jadwal [RUPSLB] 3 November, Ini Tenggatnya",
+  "deck": "INPS menetapkan tenggat pemegang saham per 9 Oktober 2026 dan batas usulan agenda 5 Oktober 2026 menjelang RUPSLB soal penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T09:41:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1856472da8_e8f7a631e2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "RUPSLB",
+   "PMTHMETD",
+   "GIGP"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) mengumumkan jadwal dan tata cara Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 3 November 2026 pukul 14.00 WIB di Gedung Inprase, Jl. Sunter Garden Raya Blok D8 No. 3G-3H, Sunter Agung, Tanjung Priok, Jakarta Utara. Pemegang saham yang berhak hadir atau memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham pada Jumat, 9 Oktober 2026 pukul 16.00 WIB, atau pemilik saham di sub rekening efek KSEI pada penutupan perdagangan di hari yang sama. Surat panggilan resmi rapat baru akan diterbitkan pada Senin, 12 Oktober 2026 melalui situs e-RUPS eASY.KSEI, situs Bursa Efek Indonesia, dan situs Perseroan.",
+   "Perseroan juga membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat. Syaratnya, pemegang saham secara sendiri atau bersama-sama harus mewakili minimal 1/20 atau lima persen dari total saham dengan hak suara yang sah. Usulan tertulis beserta alasan dan bahan pendukungnya harus diterima Direksi paling lambat Senin, 5 Oktober 2026, yaitu tujuh hari sebelum tanggal pemanggilan rapat, sesuai Pasal 16 ayat 3 POJK 15/2020.",
+   "RUPSLB ini merupakan lanjutan dari rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu (PMTHMETD) dalam rangka perbaikan posisi keuangan Perseroan, yang sebelumnya sudah diumumkan pada 25 September 2026 lewat Keterbukaan Informasi terkait suntikan dana Rp125 miliar dari PT Global Intan Global Prima (GIGP). Surat ini ditandatangani Direktur Utama Muhammad Reagy Sukmana dan ditembuskan kepada OJK, KSEI, serta biro administrasi efek PT Adimitra Jasa Korpora."
+  ],
+  "fotoAdegan": "Empty conference hall with rows of chairs being arranged before a corporate shareholders meeting, tall windows, Jakarta office tower morning light",
+  "takeaway": "Laporan ini netral bagi fundamental INPS, karena isinya sekadar jadwal dan mekanisme rapat, bukan angka keuangan baru, dan rencana penambahan modalnya sendiri sudah lebih dulu diberitakan lewat suntikan Rp125 miliar dari GIGP. Yang tetap perlu diperhatikan adalah dampaknya pada jumlah saham beredar, karena penambahan modal tanpa hak memesan efek terlebih dahulu berarti pemegang saham lama tidak diberi kesempatan membeli saham baru secara proporsional, sehingga porsi kepemilikan dan laba per saham mereka bisa terdilusi begitu saham baru itu resmi diterbitkan. Yang perlu dipantau berikutnya adalah rangkaian tenggat menuju RUPSLB, yaitu batas usulan agenda pada 5 Oktober 2026, recording date pemegang saham pada 9 Oktober 2026, pemanggilan resmi pada 12 Oktober 2026, dan RUPSLB itu sendiri pada 3 November 2026 yang akan menjadi keputusan final soal penambahan modal ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tpia-konstruksi-ca-edc-capai-80-masuk-tahap-pemasangan-alat",
   "category": "Aksi Korporasi",
   "title": "TPIA: Konstruksi CA-EDC Capai [80%], Masuk Tahap Pemasangan Alat",

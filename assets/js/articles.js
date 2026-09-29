@@ -3,6 +3,115 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pupuk-bersubsidi-perikanan-pangkep-baru-43-tersalur",
+  "category": "BUMN",
+  "title": "Pupuk Bersubsidi Perikanan Pangkep Baru [43%] Tersalur",
+  "deck": "Dari alokasi 27.156 ton pupuk bersubsidi perikanan Pangkep tahun 2026, baru 11.562 ton atau 43 persen tersalur hingga 24 September 2026.",
+  "image": "assets/img/pupuk-bersubsidi-perikanan-pangkep-baru-43-tersalur.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T07:02:07.191Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/886/pupuk-indonesia-perkuat-penyaluran-pupuk-bersubsidi-untuk-sektor-perikanan-di-pangkep",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "Pupuk Indonesia",
+   "Pupuk Bersubsidi",
+   "Pangkep",
+   "Perikanan"
+  ],
+  "body": [
+   "PT Pupuk Indonesia (Persero) menegaskan komitmennya menjaga pasokan pupuk bersubsidi untuk sektor perikanan budidaya di Kabupaten Pangkajene dan Kepulauan (Pangkep), Sulawesi Selatan. Pernyataan ini disampaikan Regional CEO 4 Pupuk Indonesia, Wisnu Ramadhani, dalam kegiatan Pilar Mina Bahari, Sabtu (26/9/2026). Bagi pembudidaya ikan di daerah itu, kepastian pasokan pupuk berarti biaya produksi budidaya bisa tetap terjaga sesuai alokasi yang sudah ditetapkan.",
+   "Pupuk bersubsidi sektor perikanan hanya diperuntukkan bagi pembudidaya yang tergabung dalam kelompok pembudidaya ikan dan sudah terdaftar dalam sistem e-RPSP milik Kementerian Kelautan dan Perikanan. Penebusannya dilakukan dengan menunjukkan KTP lewat aplikasi iPubers, dan untuk kegiatan pembesaran ikan, luas lahan yang bisa mendapat jatah pupuk dibatasi maksimal 2 hektare per penerima.",
+   "Pada 2026, Pangkep mendapat alokasi pupuk bersubsidi sektor perikanan sebanyak 27.156 ton, terdiri atas 10.519 ton Urea, 5.950 ton NPK Phonska, 7.246 ton pupuk organik, dan 3.441 ton SP-36. Hingga 24 September 2026, realisasi penyaluran baru mencapai 11.562 ton atau 43 persen dari total alokasi, dengan rincian 4.969 ton Urea, 790 ton pupuk organik, dan 475 ton SP-36 yang sudah tersalur.",
+   "Direktur Jenderal Perikanan Budi Daya Kementerian Kelautan dan Perikanan, Tb. Haeru Rahayu, meminta alokasi pupuk bersubsidi itu dimanfaatkan secara optimal oleh penerima yang memenuhi syarat agar mendukung keberlanjutan usaha budidaya. Bupati Pangkep Muhammad Yusran Lalogau menambahkan bahwa koordinasi antara pemerintah daerah dan pihak terkait perlu diperkuat supaya bantuan, termasuk pupuk bersubsidi, benar-benar sampai ke masyarakat yang berhak menerimanya."
+  ],
+  "fotoAdegan": "Workers stacking sacks of fertilizer near small coastal fish ponds, wooden boats moored nearby, overcast tropical morning light",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1852/conversions/WhatsApp-Image-2026-09-29-at-08.54.17-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang konkret berubah di sini adalah mekanisme verifikasi penerima pupuk subsidi perikanan di Pangkep: penebusan kini wajib memakai KTP lewat aplikasi iPubers, penerima harus terdaftar di sistem e-RPSP milik Kementerian Kelautan dan Perikanan, dan luas lahan pembesaran dibatasi maksimal 2 hektare per orang. Aturan ini langsung menyasar pembudidaya ikan skala kecil dan menengah di Pangkep yang mengandalkan jatah pupuk murah untuk menekan biaya produksi. Dari alokasi 27.156 ton tahun ini, realisasi penyaluran baru 43 persen per 24 September, artinya lebih dari separuh jatah tahun 2026 belum tersalur padahal sisa waktu tahun berjalan tinggal tiga bulan. Ini bisa berarti penyaluran memang biasanya menumpuk di akhir tahun mengikuti musim tebar dan panen budidaya, atau bisa juga pertanda realisasi tertinggal dari target. Yang akan menjawabnya adalah laporan penyaluran Pupuk Indonesia berikutnya menjelang akhir 2026, apakah angka 43 persen itu melompat signifikan atau tetap landai.",
+  "imageV": "mumbzcav"
+ },
+ {
+  "slug": "koperasi-pesantren-di-bandung-hubungkan-300-petani-ke-ritel-modern",
+  "category": "UMKM",
+  "title": "Koperasi Pesantren di Bandung Hubungkan 300 [Petani] ke Ritel Modern",
+  "deck": "Koperasi Al-Ittifaq di Bandung menghubungkan sekitar 300 petani dengan pasar ritel modern, hotel, dan restoran, seiring produksi naik menjadi 7-8 ton per hari.",
+  "image": "assets/img/koperasi-pesantren-di-bandung-hubungkan-300-petani-ke-ritel-modern.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T13:34:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470146-gandeng-ratusan-petani-koperasi-pesantren-di-bandung-bawa-produk-pertanian-tembus-pasar-modern",
+  "tags": [
+   "koperasi",
+   "petani",
+   "pesantren",
+   "pasar modern"
+  ],
+  "body": [
+   "Koperasi Pondok Pesantren Al-Ittifaq di Kabupaten Bandung, Jawa Barat, membangun model bisnis pertanian yang menghubungkan ratusan petani dengan pasar secara lebih terstruktur. Alih-alih petani menanam lebih dulu baru mencari pembeli, koperasi terlebih dahulu mencari tahu kebutuhan pasar, lalu mengatur pola tanam bersama petani sesuai permintaan itu. Pendekatan ini membuat petani punya kepastian bahwa hasil panennya akan terserap dan dibayar, sesuatu yang selama ini sering jadi masalah utama petani kecil.",
+   "Ketua Pengurus Koperasi Al-Ittifaq, Setia Irawan, mengatakan jumlah petani yang terhubung ke ekosistem koperasi kini mencapai sekitar 280 hingga 300 orang, naik dari sebelumnya sekitar 120 petani. Volume produksi yang dikelola juga melonjak dari kisaran 1,7 sampai 2 ton per hari menjadi 7 sampai 8 ton per hari. Hasil pertanian itu kini memasok kebutuhan ritel modern, hotel, restoran, katering, hingga dapur pusat, dengan komoditas yang beragam mulai dari sayuran, buah-buahan, sampai rempah-rempah.",
+   "Koperasi berperan sebagai offtaker, yakni pihak yang menyerap langsung hasil panen petani, bukan sekadar tempat menampung dan menjual hasil tani. Setia menjelaskan, petani dibayar segera setelah produk diserap, tanpa jangka waktu tempo, supaya arus kas petani tidak terganggu menunggu pencairan dari pembeli akhir. Prinsip ini dijaga sejak koperasi mulai berkembang dan dianggap jadi salah satu kunci kepercayaan petani untuk terus memasok melalui Al-Ittifaq.",
+   "Koperasi ini awalnya dibentuk untuk membiayai operasional Pondok Pesantren Al-Ittifaq, yang tidak memungut biaya pendidikan dari para santrinya. Kebutuhan itu mendorong pesantren membangun usaha yang bisa mandiri secara finansial, yang kemudian berkembang menjadi ekosistem pertanian dengan skema hulu-hilir yang lebih rapi seperti sekarang."
+  ],
+  "fotoAdegan": "Farmworkers sorting freshly picked vegetables into crates at an open-air packing shed in a hilly farming village",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/29/6abb5a7b4248f-ekosistem-pertanian-yang-dikembangkan-koperasi-pondok-pesantren-al-ittifaq-di-kabupaten-bandung-jawa-barat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini terlihat jelas dari angkanya: jumlah petani yang memasok ke koperasi Al-Ittifaq naik dari sekitar 120 menjadi 280-300 orang, dan volume produksi melonjak dari 1,7-2 ton menjadi 7-8 ton per hari. Yang terdampak langsung adalah petani anggota koperasi di Kabupaten Bandung, karena mereka mendapat kepastian pasar sejak sebelum masa tanam dan dibayar tunai begitu hasil panennya diserap, bukan menunggu tempo dari pembeli seperti yang lazim dialami petani kecil. Beritanya tidak menyebut dalam rentang berapa tahun lonjakan itu terjadi, berapa nilai transaksi atau omzet koperasi, maupun apakah model serupa sedang didorong untuk direplikasi ke pesantren atau koperasi lain. Tanpa angka waktu dan skala itu, belum bisa dibaca apakah pertumbuhan ini masih berlanjut cepat atau sudah mulai mendatar, jadi yang perlu dicermati adalah data jumlah petani dan volume produksi pada laporan Al-Ittifaq berikutnya.",
+  "imageV": "mumbzcsy"
+ },
+ {
+  "slug": "belanja-negara-2027-naik-ke-rp4-106-t-defisit-tetap-2-4",
+  "category": "Makroekonomi",
+  "title": "Belanja Negara 2027 Naik ke Rp4.106 T, Defisit [Tetap] 2,4%",
+  "deck": "Pemerintah dan Banggar DPR menaikkan belanja negara 2027 jadi Rp4.106,26 triliun, diimbangi kenaikan target pendapatan agar defisit tetap 2,4 persen dari PDB.",
+  "image": "assets/img/belanja-negara-2027-naik-ke-rp4-106-t-defisit-tetap-2-4.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T13:30:14+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470140-belanja-negara-2027-naik-jadi-rp4106-triliun-defisit-tetap-24-persen",
+  "tags": [
+   "APBN 2027",
+   "Belanja Negara",
+   "Defisit APBN",
+   "Banggar DPR"
+  ],
+  "body": [
+   "Pemerintah dan Badan Anggaran DPR RI menyepakati kenaikan belanja negara dalam APBN 2027 menjadi Rp4.106,26 triliun, bertambah Rp9,07 triliun dari kesepakatan sebelumnya sebesar Rp4.097,19 triliun. Ketua Banggar DPR RI Said Abdullah menyebut tambahan itu untuk menopang program kerja prioritas nasional. Meski belanja membengkak, target defisit anggaran tidak berubah dari 2,4 persen terhadap Produk Domestik Bruto.",
+   "Dari sisi rincian, belanja pemerintah pusat ditetapkan Rp3.371,26 triliun, sementara dana transfer ke daerah dipatok Rp735 triliun. Kedua pos ini menjadi tumpuan utama program prioritas yang disebut Said sebagai alasan di balik kenaikan pagu belanja.",
+   "Agar defisit tidak melebar, pemerintah dan DPR juga menaikkan target pendapatan negara 2027 menjadi Rp3.435,10 triliun, naik Rp9,07 triliun dari target sebelumnya Rp3.426,03 triliun. Tambahan itu berasal dari penerimaan perpajakan yang naik Rp4 triliun menjadi Rp2.911,95 triliun, serta pendapatan negara bukan pajak yang naik Rp5,07 triliun menjadi Rp522,48 triliun.",
+   "Said menegaskan tambahan belanja tersebut tidak dibiayai lewat tambahan utang. Pemerintah dan DPR memilih menaikkan target pendapatan negara untuk mengimbangi kenaikan belanja, sehingga rasio defisit terhadap PDB tetap terjaga di angka yang sama."
+  ],
+  "fotoAdegan": "Wide exterior shot of Indonesia's parliament building complex in Jakarta, overcast morning sky, no legible signage.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2022/09/20/63295c2c3c484-gedung-mpr-dan-dpr_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma angka belanja naik Rp9,07 triliun, tapi cara menutupnya: pemerintah menaikkan target pendapatan dengan jumlah persis sama, bukan menambah utang baru. Praktiknya, target pajak naik Rp4 triliun dan pendapatan bukan pajak, yaitu pemasukan negara di luar pajak seperti royalti tambang atau biaya layanan pemerintah, naik Rp5,07 triliun. Yang langsung kena dampak adalah daerah penerima transfer sebesar Rp735 triliun dan kementerian pelaksana program prioritas, karena anggaran mereka ikut membesar. Pola menjaga defisit tetap di 2,4 persen dengan cara menaikkan target pendapatan setiap kali belanja direvisi ini mengarah ke strategi menghindari kenaikan rasio utang, tapi keberhasilannya bergantung penuh pada apakah penerimaan pajak dan PNBP benar-benar tercapai. Yang akan membuktikannya adalah realisasi penerimaan negara sepanjang 2027 nanti, sebab kalau meleset dari target yang sudah dinaikkan ini, defisit riil bisa lebih lebar dari 2,4 persen meski di atas kertas terlihat aman.",
+  "imageV": "mumbzd48"
+ },
+ {
+  "slug": "pertalite-dipastikan-tak-naik-meski-minyak-tembus-107-dolar",
+  "category": "Energi",
+  "title": "Pertalite Dipastikan [Tak Naik] Meski Minyak Tembus 107 Dolar",
+  "deck": "ESDM pastikan harga pertalite dan biosolar tidak naik sampai akhir tahun, meski minyak dunia sempat tembus 107 dolar AS per barel akibat konflik AS-Iran.",
+  "image": "assets/img/pertalite-dipastikan-tak-naik-meski-minyak-tembus-107-dolar.jpg",
+  "date": "29 September 2026",
+  "isoDate": "2026-09-29T13:15:06+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470138-harga-pertalite-dipastikan-tak-naik-meski-minyak-dunia-107-dolar-as-esdm-eksplorasi-dan-eksploitasi-kami-genjot",
+  "tags": [
+   "pertalite",
+   "esdm",
+   "bbm bersubsidi",
+   "harga minyak dunia"
+  ],
+  "body": [
+   "Kementerian ESDM memastikan harga BBM bersubsidi, pertalite dan biosolar, tidak akan naik sampai akhir 2026, meski harga minyak dunia sempat melonjak ke 107 dolar AS per barel akibat konflik Amerika Serikat dan Iran. Kepastian itu disampaikan Wakil Menteri ESDM Yuliot, merujuk pernyataan Menteri ESDM Bahlil Lahadalia. Keputusan ini penting karena pertalite adalah BBM yang paling banyak dipakai masyarakat, terutama pengendara motor dan angkutan umum, sehingga menahan harganya berarti menahan salah satu komponen biaya hidup terbesar.",
+   "Kepastian itu tidak berlaku untuk BBM nonsubsidi seperti Pertamax, yang harganya tetap menyesuaikan rata-rata harga minyak dunia setiap bulan. Yuliot menyebut lonjakan ke 107 dolar AS per barel terjadi pada akhir September 2026, melanjutkan tren naik setelah sempat melandai pada Juni dan Juli.",
+   "Kenaikan harga minyak dunia ini menambah tekanan pada anggaran negara. Mantan Menteri Keuangan Purbaya Yudhi Sadewa sebelumnya menjamin defisit APBN tetap terkendali dengan asumsi harga rata-rata minyak mentah Indonesia atau ICP di level 100 dolar AS per barel. Namun perhitungan peneliti Universitas Padjadjaran, Yayan Satyakti, menunjukkan rata-rata ICP sepanjang Januari hingga September baru sekitar 90,6 dolar AS per barel, di bawah asumsi tersebut.",
+   "Merespons gejolak harga ini, ESDM menyatakan akan mempercepat eksplorasi dan eksploitasi minyak dan gas bumi dalam negeri. Yuliot mengatakan pemerintah sudah memetakan sejumlah lapangan migas dengan potensi produksi 2.500 hingga 3.000 barel per hari, yang akan digenjot prosesnya pada 2027 dan 2028, sebagai bagian dari target mencapai produksi 1 juta barel minyak per hari pada 2029-2030 untuk swasembada energi nasional."
+  ],
+  "fotoAdegan": "A fuel station attendant filling a motorcycle tank at a pump nozzle, other motorcycles queuing behind, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/29/6abb55ddcac3e-wakil-menteri-esdm-yuliot_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah pemerintah memilih menahan harga pertalite dan biosolar sampai akhir tahun, sementara BBM nonsubsidi seperti Pertamax dibiarkan naik turun mengikuti rata-rata harga minyak dunia tiap bulan. Artinya beban kenaikan minyak dunia, yang sempat menyentuh 107 dolar AS per barel, dipindahkan ke pembeli BBM nonsubsidi dan ke anggaran negara, bukan ke pengguna pertalite yang jumlahnya jauh lebih besar. Ini terlihat dari asumsi ICP, yaitu rata-rata harga jual minyak mentah Indonesia yang dipakai menghitung subsidi, yang dipatok 100 dolar AS agar defisit anggaran tetap terkendali, padahal rata-rata realisasinya Januari sampai September baru 90,6 dolar. Kalau harga dunia terus bertahan di atas asumsi itu, selisihnya harus ditutup entah oleh anggaran subsidi yang membengkak, entah oleh percepatan produksi minyak dalam negeri yang baru ditargetkan mencapai 1 juta barel per hari pada 2029-2030. Yang akan menentukan arah mana yang terjadi adalah rata-rata ICP bulan Oktober dibandingkan dengan asumsi 100 dolar tadi, karena di situ kelihatan apakah lonjakan ke 107 dolar cuma sesaat atau sudah jadi tren baru.",
+  "imageV": "mumbzdif"
+ },
+ {
   "slug": "pegadaian-sabet-empat-penghargaan-esg-kesgi-2026",
   "category": "BUMN",
   "title": "Pegadaian Sabet [Empat] Penghargaan ESG KESGI 2026",

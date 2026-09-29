@@ -5,6 +5,75 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pupuk-bersubsidi-perikanan-pangkep-baru-43-tersalur",
+  "category": "BUMN",
+  "title": "Pupuk Bersubsidi Perikanan Pangkep Baru [43%] Tersalur",
+  "deck": "Dari alokasi 27.156 ton pupuk bersubsidi perikanan Pangkep tahun 2026, baru 11.562 ton atau 43 persen tersalur hingga 24 September 2026.",
+  "date": "29 September 2026",
+  "image": "assets/img/pupuk-bersubsidi-perikanan-pangkep-baru-43-tersalur.jpg",
+  "imageV": "mumbzcav",
+  "tags": [
+   "Pupuk Indonesia",
+   "Pupuk Bersubsidi",
+   "Pangkep",
+   "Perikanan"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/886/pupuk-indonesia-perkuat-penyaluran-pupuk-bersubsidi-untuk-sektor-perikanan-di-pangkep",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "koperasi-pesantren-di-bandung-hubungkan-300-petani-ke-ritel-modern",
+  "category": "UMKM",
+  "title": "Koperasi Pesantren di Bandung Hubungkan 300 [Petani] ke Ritel Modern",
+  "deck": "Koperasi Al-Ittifaq di Bandung menghubungkan sekitar 300 petani dengan pasar ritel modern, hotel, dan restoran, seiring produksi naik menjadi 7-8 ton per hari.",
+  "date": "29 September 2026",
+  "image": "assets/img/koperasi-pesantren-di-bandung-hubungkan-300-petani-ke-ritel-modern.jpg",
+  "imageV": "mumbzcsy",
+  "tags": [
+   "koperasi",
+   "petani",
+   "pesantren",
+   "pasar modern"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470146-gandeng-ratusan-petani-koperasi-pesantren-di-bandung-bawa-produk-pertanian-tembus-pasar-modern"
+ },
+ {
+  "slug": "belanja-negara-2027-naik-ke-rp4-106-t-defisit-tetap-2-4",
+  "category": "Makroekonomi",
+  "title": "Belanja Negara 2027 Naik ke Rp4.106 T, Defisit [Tetap] 2,4%",
+  "deck": "Pemerintah dan Banggar DPR menaikkan belanja negara 2027 jadi Rp4.106,26 triliun, diimbangi kenaikan target pendapatan agar defisit tetap 2,4 persen dari PDB.",
+  "date": "29 September 2026",
+  "image": "assets/img/belanja-negara-2027-naik-ke-rp4-106-t-defisit-tetap-2-4.jpg",
+  "imageV": "mumbzd48",
+  "tags": [
+   "APBN 2027",
+   "Belanja Negara",
+   "Defisit APBN",
+   "Banggar DPR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470140-belanja-negara-2027-naik-jadi-rp4106-triliun-defisit-tetap-24-persen"
+ },
+ {
+  "slug": "pertalite-dipastikan-tak-naik-meski-minyak-tembus-107-dolar",
+  "category": "Energi",
+  "title": "Pertalite Dipastikan [Tak Naik] Meski Minyak Tembus 107 Dolar",
+  "deck": "ESDM pastikan harga pertalite dan biosolar tidak naik sampai akhir tahun, meski minyak dunia sempat tembus 107 dolar AS per barel akibat konflik AS-Iran.",
+  "date": "29 September 2026",
+  "image": "assets/img/pertalite-dipastikan-tak-naik-meski-minyak-tembus-107-dolar.jpg",
+  "imageV": "mumbzdif",
+  "tags": [
+   "pertalite",
+   "esdm",
+   "bbm bersubsidi",
+   "harga minyak dunia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470138-harga-pertalite-dipastikan-tak-naik-meski-minyak-dunia-107-dolar-as-esdm-eksplorasi-dan-eksploitasi-kami-genjot"
+ },
+ {
   "slug": "pegadaian-sabet-empat-penghargaan-esg-kesgi-2026",
   "category": "BUMN",
   "title": "Pegadaian Sabet [Empat] Penghargaan ESG KESGI 2026",
@@ -6432,70 +6501,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468610-bahlil-minta-orang-berduit-jangan-pakai-pertalite-soroti-modus-pajero-tampung-bbm-subsidi"
- },
- {
-  "slug": "vici-jadwalkan-rupslb-pada-29-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "VICI Jadwalkan [RUPSLB] pada 29 Oktober 2026",
-  "deck": "Victoria Care Indonesia mengumumkan RUPSLB 29 Oktober 2026, dengan batas usulan pemegang saham 30 September dan pencatatan pemegang saham 6 Oktober.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICI",
-   "RUPSLB",
-   "Victoria Care Indonesia",
-   "Pasar Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac2f1dccd8_6d938c8943.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-pemegang-saham-asing-mb-investment-jual-292-400-saham",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Pemegang Saham Asing MB Investment [Jual] 292.400 Saham",
-  "deck": "MB Investment Management Pte Ltd melepas 292.400 saham ITSEC Asia (CYBR) senilai sekitar Rp150,5 juta dalam dua transaksi pekan ini, menyisakan hak suara 26,18 persen.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "pemegang saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6817-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "utang-blbi-era-krisis-1998-akhirnya-lunas",
-  "category": "Makroekonomi",
-  "title": "Utang BLBI Era Krisis 1998 Akhirnya [Lunas]",
-  "deck": "Pemerintah melunasi utang obligasi BLBI warisan krisis 1997-1998 pada Agustus 2026, dibayar memakai surplus Bank Indonesia senilai Rp55 triliun.",
-  "date": "22 September 2026",
-  "image": "assets/img/utang-blbi-era-krisis-1998-akhirnya-lunas.jpg",
-  "imageV": "mucgnay5",
-  "tags": [
-   "BLBI",
-   "utang pemerintah",
-   "Bank Indonesia",
-   "APBN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468619-utang-blbi-warisan-krisis-1998-akhirnya-lunas-pemerintah-bayar-pada-agustus-2026"
- },
- {
-  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-830-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 830.000 saham",
-  "deck": "Edwin Soeryadjaya menambah kepemilikan saham Saratoga Investama Sedaya lewat dua transaksi pembelian pada 18 dan 21 September 2026, menaikkan hak suaranya tipis ke 35,9503 persen.",
-  "date": "22 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Saratoga Investama Sedaya",
-   "kepemilikan saham",
-   "Edwin Soeryadjaya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8437-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

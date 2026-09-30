@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sfan-jual-51-95-saham-dpi-ke-induk-usaha-rp15-73-m-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "SFAN Jual 51,95% Saham DPI ke Induk Usaha Rp15,73 M [Divestasi]",
+  "deck": "PT Surya Fajar Capital melepas 51,95% saham anak usahanya, PT Digitalisasi Perangkat Indonesia, ke induk usahanya sendiri, PT Surya Fajar Corpora, senilai Rp15,73 miliar.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SFAN",
+   "divestasi",
+   "transaksi afiliasi",
+   "PT Digitalisasi Perangkat Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/da5f967d3b_dbf1a248bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "miti-teken-mou-dengan-cnec-garap-proyek-silika",
+  "category": "Aksi Korporasi",
+  "title": "MITI Teken MOU dengan CNEC Garap Proyek [Silika]",
+  "deck": "Mitra Investindo menandatangani MOU dengan anak usaha perusahaan nuklir negara China untuk menjajaki pengembangan tiga konsesi tambang pasir silika.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MITI",
+   "MOU",
+   "pasir silika",
+   "CNEC"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6090298c2_aa7e3a6f32.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inds-beli-mesin-bekas-anak-usaha-rp3-09-m-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "INDS Beli Mesin Bekas Anak Usaha Rp3,09 M [Afiliasi]",
+  "deck": "Indospring membeli dua mesin power press bekas dari anak usahanya, PT Indobaja Primamurni, senilai Rp3,09 miliar sebagai transaksi afiliasi.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDS",
+   "Indospring",
+   "transaksi afiliasi",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/351ecd96ab_b85ff752f1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "srsn-direktur-independen-mundur-rupslb-akhir-desember",
+  "category": "Aksi Korporasi",
+  "title": "SRSN: Direktur Independen [Mundur], RUPSLB Akhir Desember",
+  "deck": "Indo Acidatama menerima pengunduran diri Sharad Ganesh Ugrankar dari jabatan Direktur Independen, efektif setelah disetujui RUPSLB yang dijadwalkan paling lambat 29 Desember 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRSN",
+   "Indo Acidatama",
+   "direksi",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f5630699cb_9a0e014946.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sertifikasi-halal-umk-wajib-mulai-18-oktober",
   "category": "UMKM",
   "title": "Sertifikasi Halal UMK Wajib Mulai [18 Oktober]",
@@ -6430,70 +6494,6 @@ var ARTICLES = [
    "repo saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4282-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-250-100-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] 250.100 Saham Lagi",
-  "deck": "Komisaris AKPI Henry Liem melaporkan penjualan bersih 250.100 saham senilai sekitar Rp125,25 juta, hak suaranya turun menjadi 1,182 persen.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Henry Liem",
-   "kepemilikan saham",
-   "dewan komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7452-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bnba-dana-rights-issue-ke-ekspansi-usaha-0-terealisasi",
-  "category": "Aksi Korporasi",
-  "title": "BNBA: dana rights issue ke [ekspansi usaha] 0% terealisasi",
-  "deck": "BNBA mengoreksi laporan dana rights issue 2022: dana infrastruktur baru 5,66% terealisasi, ekspansi usaha 0%, sisa Rp118 miliar mengendap di giro.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BNBA",
-   "Bank Bumi Arta",
-   "rights issue",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f9cef653ec_11e5d24b69.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bnba-koreksi-laporan-dana-rights-issue-sisa-rp44-7-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BNBA [koreksi] laporan dana rights issue, sisa Rp44,7 miliar",
-  "deck": "Bank Bumi Arta mengoreksi laporan realisasi dana rights issue 2021. Kredit terserap penuh, pengembangan digital banking baru 64 persen, sisa Rp44,66 miliar mengendap di giro bank lain.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BNBA",
-   "Bank Bumi Arta",
-   "rights issue",
-   "realisasi dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/28d05869e2_19132cb8f2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-21-64",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 21,64%",
-  "deck": "Samuel Sekuritas Indonesia selaku Direksi NSSS menambah 1,44 miliar saham lewat mekanisme repurchase agreement pada 22 September 2026, mengerek hak suaranya dari 15,58% jadi 21,64%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "repo",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-8317-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

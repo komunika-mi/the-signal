@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sfan-jual-51-95-saham-dpi-ke-induk-usaha-rp15-73-m-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "SFAN Jual 51,95% Saham DPI ke Induk Usaha Rp15,73 M [Divestasi]",
+  "deck": "PT Surya Fajar Capital melepas 51,95% saham anak usahanya, PT Digitalisasi Perangkat Indonesia, ke induk usahanya sendiri, PT Surya Fajar Corpora, senilai Rp15,73 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T08:59:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/da5f967d3b_dbf1a248bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SFAN",
+  "tags": [
+   "SFAN",
+   "divestasi",
+   "transaksi afiliasi",
+   "PT Digitalisasi Perangkat Indonesia"
+  ],
+  "body": [
+   "PT Surya Fajar Capital Tbk (SFAN) menjual 296.867.000 saham atau 51,95 persen kepemilikannya di PT Digitalisasi Perangkat Indonesia (DPI) kepada PT Surya Fajar Corpora (SFC) pada 29 September 2026 senilai Rp15,73 miliar, berdasarkan Akta Jual Beli Saham dan Pengambilalihan yang diteken hari itu juga. SFC bukan pihak sembarangan, melainkan pemegang saham pengendali SFAN dengan porsi kepemilikan 71,24 persen, sehingga transaksi ini otomatis berstatus transaksi afiliasi. Transaksi ini juga digolongkan sebagai transaksi material karena rugi bersih DPI mencapai 46,01 persen dari rugi bersih SFAN dan pendapatan usaha DPI setara 22,10 persen dari pendapatan usaha SFAN, keduanya melewati ambang batas 20 persen, meski rasio ekuitas (11,37 persen) dan aset (13,44 persen) DPI terhadap SFAN masih di bawah ambang itu.",
+   "Manajemen SFAN beralasan DPI, yang bergerak di bidang pengawasan dan pengelolaan unit usaha, masih membutuhkan modal kerja dan belum punya riwayat pendapatan yang stabil. Sepanjang 2025, DPI membukukan rugi bersih Rp7,21 miliar, memang menyusut dari rugi Rp10,19 miliar pada 2024, namun pendapatan usahanya juga ikut turun dari Rp2,34 miliar menjadi Rp1,51 miliar. Total aset DPI per akhir 2025 tercatat Rp28,09 miliar dan ekuitasnya Rp26,11 miliar. Sebelumnya, pada Mei 2026, DPI juga sempat menggadaikan hampir seluruh saham anak usahanya, PT Mareco Prima Mandiri, kepada PT Trans Mutasi Bangsa sebagai jaminan pinjaman Rp53,66 miliar, skema yang telah disetujui pemegang saham SFAN dalam RUPS Luar Biasa 26 Juni 2026. Dana hasil penjualan DPI ini rencananya dipakai SFAN untuk mengembangkan entitas anak lain atau portofolio bisnis yang dinilai punya potensi imbal hasil lebih tinggi.",
+   "Karena berstatus transaksi afiliasi dan material sekaligus, SFAN wajib menunjuk penilai independen. Perseroan menunjuk Kantor Jasa Penilai Publik Kusnanto dan Rekan (KJPP KR) untuk menilai kewajaran nilai saham DPI sekaligus memberikan pendapat kewajaran atas transaksi ini. KJPP KR menyimpulkan transaksi tersebut bukan transaksi benturan kepentingan dan tidak mengganggu kelangsungan usaha SFAN. Dokumen juga mencatat bahwa sebelum transaksi ini rampung, dua pemegang saham minoritas DPI, Rusdi dan Harianto Zheng, telah mengalihkan sebagian kecil sahamnya kepada PT Garudapreneur Investasi Asia, sementara PT Venteny Fortuna International Tbk tercatat memegang 30 persen saham DPI."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's Kuningan business district at golden hour, reflections of the sky",
+  "takeaway": "Transaksi ini condong positif bagi SFAN karena melepas anak usaha yang rugi terus-menerus sekaligus mendatangkan uang tunai segar. DPI membukukan rugi bersih Rp7,21 miliar sepanjang 2025 dengan pendapatan yang justru menyusut menjadi Rp1,51 miliar, sehingga dengan lepasnya kepemilikan ini beban rugi konsolidasian SFAN ke depan berpotensi berkurang. Pos yang tersentuh adalah ekuitas dan arus kas, dana Rp15,73 miliar dari penjualan menambah kas Perseroan, sementara laporan konsolidasian berikutnya akan lebih ringan karena rugi DPI tidak lagi ikut dihitung. Yang perlu dicermati adalah bagaimana Perseroan benar-benar memakai dana segar ini, sebab manajemen baru menyebut akan dialihkan ke entitas anak lain atau portofolio bisnis dengan potensi imbal balik lebih tinggi tanpa merinci proyek atau angkanya. Laporan keuangan konsolidasian kuartal berikutnya akan jadi ukuran pertama apakah pelepasan DPI ini benar-benar memperbaiki kinerja Perseroan seperti dijanjikan manajemen.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "miti-teken-mou-dengan-cnec-garap-proyek-silika",
+  "category": "Aksi Korporasi",
+  "title": "MITI Teken MOU dengan CNEC Garap Proyek [Silika]",
+  "deck": "Mitra Investindo menandatangani MOU dengan anak usaha perusahaan nuklir negara China untuk menjajaki pengembangan tiga konsesi tambang pasir silika.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T08:31:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6090298c2_aa7e3a6f32.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MITI",
+  "tags": [
+   "MITI",
+   "MOU",
+   "pasir silika",
+   "CNEC"
+  ],
+  "body": [
+   "PT Mitra Investindo Tbk (MITI) menandatangani nota kesepahaman atau MOU dengan PT CNEC Engineering Indonesia (CNEC INA) pada 29 September 2026. CNEC INA merupakan entitas anak dari China Nuclear Engineering & Construction Corporation, badan usaha milik negara China. Kerja sama ini menyasar pengembangan sumber daya mineral dan layanan teknis untuk tiga konsesi tambang pasir silika yang disebut Proyek Silika, milik entitas anak MITI, serta konsesi lain yang mungkin dimiliki MITI di masa depan.",
+   "Menurut keterbukaan informasi yang diteken Corporate Secretary MITI, Sugeng Wahono, MOU ini dimaksudkan sebagai kerangka kerja untuk seluruh tahapan pengembangan Proyek Silika. Tahapannya mencakup pra proyek berupa pengambilan sampel, eksplorasi, dan studi kelayakan, dilanjutkan dengan layanan rekayasa dan teknis, studi pengembangan, hingga keterlibatan strategis pasca proyek. Dokumen tersebut ditandatangani oleh Presiden Direktur MITI, Andreas Tjahjadi, menurut hasil pindaian surat kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia.",
+   "MITI dan CNEC INA menyatakan MOU ini membuka jalan untuk menjajaki bidang kerja sama lebih lanjut, termasuk pendanaan dan kemitraan komersial, namun baru akan dibahas setelah tahap eksplorasi dan studi kelayakan Proyek Silika selesai dan dinilai berhasil. Perusahaan menegaskan dalam dokumen bahwa MOU ini tidak melahirkan hubungan hukum kemitraan, usaha patungan, atau komitmen keuangan yang mengikat di antara kedua pihak, dan tidak menimbulkan kewajiban apa pun di luar yang secara tegas dinyatakan dalam MOU. MITI juga menyatakan penandatanganan ini tidak berdampak material terhadap kegiatan operasional, kondisi keuangan, maupun keberlangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Geologists collecting sand core samples at an open quarry site near hills, bright daylight, safety vests visible",
+  "takeaway": "Laporan ini condong netral karena MOU yang diteken belum mengikat secara hukum, tidak membawa komitmen dana, dan perusahaan sendiri menyatakan tidak ada dampak material saat ini. Pos kinerja yang bersinggungan baru sebatas potensi ke depan, bukan angka di laporan keuangan sekarang, karena arus kas dan beban perusahaan belum bergerak sama sekali akibat kesepakatan ini. Yang perlu diperhatikan adalah apakah MITI, yang selama ini bergerak di jasa pelayaran dan logistik, benar benar akan merambah bisnis tambang pasir silika lewat kemitraan dengan anak usaha perusahaan nuklir negara China ini. Dokumen menyebut tahap eksplorasi dan studi kelayakan Proyek Silika sebagai syarat sebelum pembahasan pendanaan dan kemitraan komersial berlanjut, tapi tidak mencantumkan tenggat waktu pasti untuk tahap tersebut. Pembaca sebaiknya menunggu keterbukaan informasi lanjutan begitu tahap eksplorasi rampung atau ada perjanjian yang lebih mengikat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inds-beli-mesin-bekas-anak-usaha-rp3-09-m-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "INDS Beli Mesin Bekas Anak Usaha Rp3,09 M [Afiliasi]",
+  "deck": "Indospring membeli dua mesin power press bekas dari anak usahanya, PT Indobaja Primamurni, senilai Rp3,09 miliar sebagai transaksi afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T08:12:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/351ecd96ab_b85ff752f1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDS",
+  "tags": [
+   "INDS",
+   "Indospring",
+   "transaksi afiliasi",
+   "anak usaha"
+  ],
+  "body": [
+   "PT Indospring Tbk (INDS) melaporkan transaksi afiliasi kepada Otoritas Jasa Keuangan (OJK) terkait pembelian dua unit mesin power press bekas dari anak usahanya, PT Indobaja Primamurni (IBPM). Transaksi ini terjadi pada 30 September 2026 dengan nilai Rp3.091.742.000, belum termasuk PPN. IBPM merupakan entitas anak yang 96,50 persen sahamnya dimiliki Indospring, sehingga transaksi jual beli mesin di antara keduanya digolongkan sebagai transaksi afiliasi.",
+   "Perseroan menyebut transaksi ini wajib dilaporkan ke OJK berdasarkan Peraturan OJK Nomor 42/POJK.04/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan, khususnya Pasal 6 ayat 1 huruf c, yang mengatur transaksi antara perusahaan dengan entitas anaknya. Dalam laporan yang ditandatangani Direktur Bob Budiono itu, kolom dampak transaksi terhadap kegiatan operasional, kondisi keuangan, atau kelangsungan usaha perseroan dibiarkan kosong, begitu juga kolom keterangan lain-lain.",
+   "Indospring, yang berbasis di Gresik, Jawa Timur, bergerak di industri komponen kendaraan bermotor. Mesin power press yang diperjualbelikan dalam transaksi ini merupakan aset tetap bekas milik anak usahanya, tanpa penjelasan lebih lanjut mengenai peruntukan mesin tersebut setelah berpindah ke tangan induk perusahaan."
+  ],
+  "fotoAdegan": "Workers operating a large industrial metal stamping press inside an automotive parts factory, dim overhead lighting, East Java setting.",
+  "takeaway": "Transaksi ini condong netral bagi Indospring karena nilainya relatif kecil dan sifatnya cuma perpindahan aset dari anak usaha ke induk yang sudah dikonsolidasikan dalam satu grup. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang keluar masuk perusahaan: kas Indospring berkurang sekitar Rp3,09 miliar untuk membayar mesin, sementara aset tetapnya bertambah senilai yang sama, dan karena IBPM adalah anak usaha yang laporannya digabung ke laporan konsolidasi Indospring, transaksi ini pada akhirnya saling menghapus sehingga dampak bersihnya ke pemegang saham minim. Perseroan sendiri tidak menjelaskan dampak transaksi ini terhadap operasional atau keuangannya di kolom yang seharusnya diisi. Karena dokumen ini tidak mencantumkan agenda atau tenggat lanjutan, hal yang perlu dipantau adalah laporan keuangan kuartal III 2026 untuk melihat bagaimana perpindahan mesin ini tercermin pada pos aset tetap dan kas di masing-masing entitas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "srsn-direktur-independen-mundur-rupslb-akhir-desember",
+  "category": "Aksi Korporasi",
+  "title": "SRSN: Direktur Independen [Mundur], RUPSLB Akhir Desember",
+  "deck": "Indo Acidatama menerima pengunduran diri Sharad Ganesh Ugrankar dari jabatan Direktur Independen, efektif setelah disetujui RUPSLB yang dijadwalkan paling lambat 29 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T08:11:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f5630699cb_9a0e014946.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRSN",
+  "tags": [
+   "SRSN",
+   "Indo Acidatama",
+   "direksi",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Indo Acidatama Tbk (SRSN) mengumumkan penerimaan surat pengunduran diri Sharad Ganesh Ugrankar dari jabatan Direktur Independen perseroan. Surat tersebut tertanggal 30 September 2026, sama dengan tanggal kejadian yang dilaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia oleh Corporate Secretary perseroan, Bram Andika Cahya Gumilang.",
+   "Pengunduran diri ini belum langsung berlaku. Berdasarkan Pasal 19 ayat 7 Anggaran Dasar Perseroan dan Pasal 8 ayat 3 POJK No. 33/2014, keputusan baru sah setelah disetujui dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), yang dijadwalkan digelar paling lambat 90 hari kalender sejak surat diterima, yaitu sekitar 29 Desember 2026. Selama masa transisi menuju RUPSLB itu, tugas dan tanggung jawab harian yang ditinggalkan akan dipegang sementara oleh Wakil Presiden Direktur perseroan, Mulyadi Utomo Budhi Moeljono, agar operasional perusahaan tetap berjalan.",
+   "Manajemen menegaskan bahwa pengunduran diri ini tidak menimbulkan dampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Exterior of a mid-sized chemical processing plant with steel storage tanks and pipelines, overcast tropical sky, Indonesia.",
+  "takeaway": "Laporan ini netral bagi Indo Acidatama, sebab yang terjadi murni pergantian personel di jajaran direksi tanpa ada angka keuangan yang berubah, dan manajemen sendiri menyatakan tidak ada dampak material terhadap operasional maupun kondisi keuangan. Yang tersentuh bukan pos seperti ekuitas atau arus kas, melainkan komposisi pengawasan direksi: direktur independen bertugas mengawasi manajemen agar keputusan bisnis tidak semata menguntungkan pemegang saham pengendali, sehingga pelaku pasar biasanya mencermati siapa yang mengisi kursi ini dan apakah jumlah direktur independen perusahaan masih memenuhi ketentuan bursa. Yang perlu dipantau berikutnya adalah RUPSLB yang menurut jadwal digelar paling lambat 29 Desember 2026, karena forum itulah yang menentukan sah tidaknya pengunduran diri ini sekaligus kemungkinan munculnya nama pengganti. Sampai saat itu, roda operasional harian tetap dipegang oleh Wakil Presiden Direktur Mulyadi Utomo Budhi Moeljono.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "sertifikasi-halal-umk-wajib-mulai-18-oktober",
   "category": "UMKM",
   "title": "Sertifikasi Halal UMK Wajib Mulai [18 Oktober]",

@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan",
+  "category": "Energi",
+  "title": "Pertamina Genjot Bisnis Energi [Hijau] Jadi Sumber Pertumbuhan",
+  "deck": "Pertamina memperluas portofolio energi rendah karbon, dari biofuel hingga hidrogen hijau, sebagai sumber pertumbuhan baru sambil tetap menjaga pasokan energi harian.",
+  "image": "assets/img/pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:05:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470425-pertamina-siapkan-bisnis-energi-hijau-sebagai-sumber-pertumbuhan-baru",
+  "tags": [
+   "Pertamina",
+   "Energi Hijau",
+   "BUMN",
+   "Transisi Energi"
+  ],
+  "body": [
+   "Pertamina mempercepat pengembangan bisnis energi rendah karbon sebagai penopang pertumbuhan ekonomi hijau, sejalan dengan visi Indonesia Emas 2045. Perusahaan menegaskan langkah ini tidak mengganggu tugas utamanya menjaga ketersediaan pasokan energi bagi kebutuhan harian masyarakat, karena kedua agenda tersebut dijalankan berbarengan.",
+   "Senior Vice President Business Sustainability Pertamina, Wenny Ipmawan, menjelaskan bahwa perusahaan membuka peluang bisnis baru di sektor biofuel, panas bumi, listrik rendah karbon, pengolahan sampah menjadi energi, dan hidrogen hijau. Menurutnya, karena kebutuhan energi nasional masih terus naik, transisi ke energi bersih harus dilakukan bertahap agar pasokan tetap aman sembari peluang bisnis baru itu berkembang. Untuk mendukungnya, Pertamina memilih teknologi sesuai karakter tiap proyek, mulai dari panel surya, baterai penyimpan energi, hingga teknologi penangkapan dan penyimpanan karbon.",
+   "Di sisi operasional, Pertamina juga menekan emisi lewat penghematan energi, optimalisasi pemakaian bahan bakar, dan penerapan teknologi bersih di kegiatan sehari-hari. Wenny menegaskan setiap inisiatif rendah karbon tidak boleh berhenti di tahap uji coba teknologi, melainkan harus terbukti layak secara ekonomi dan bisa dijalankan secara komersial.",
+   "Vice President Corporate Communication Pertamina, Muhammad Baron, menambahkan bahwa pengembangan bisnis rendah karbon merupakan bagian dari kesiapan Pertamina menghadapi masa depan energi nasional, sambil tetap memenuhi kebutuhan energi saat ini. Perusahaan menyebut program dekarbonisasinya telah mencatat penurunan emisi yang melampaui target yang ditetapkan dalam Rencana Kerja Anggaran Perusahaan (RKAP) 2026, meski angka persis target maupun realisasinya tidak diungkapkan."
+  ],
+  "fotoAdegan": "Rows of solar panels beside a geothermal steam pipeline on a hillside in Indonesia, technicians inspecting equipment at dawn",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/30/6abcceea37372-pt-pertamina-persero-terus-mengakselerasi-pengembangan-portofolio-energi-rendah-karbon-demi-menopang-pertumbuhan-ekonomi-hijau-menyongsong-visi-indonesia-emas-2045_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari keterangan ini adalah kepastian bahwa Pertamina memasukkan lima lini bisnis baru, yaitu bahan bakar nabati, panas bumi, listrik rendah karbon, energi dari sampah, dan hidrogen hijau, ke dalam strategi pertumbuhannya, didukung teknologi surya, baterai penyimpan energi, dan penangkapan karbon. Pihak yang langsung terdampak adalah unit-unit bisnis di internal Pertamina sendiri, sementara dampaknya ke konsumen, mitra usaha, atau investor publik belum bisa dipastikan dari pernyataan ini karena sifatnya masih berupa arah strategi, bukan rincian proyek. Pertamina mengklaim penurunan emisi sudah melampaui target RKAP 2026, tapi angka target maupun realisasi persisnya tidak disebutkan, sehingga belum bisa dinilai seberapa besar pencapaian itu dibanding tahun-tahun sebelumnya. Yang perlu ditunggu adalah laporan keberlanjutan atau paparan kinerja tahunan Pertamina yang biasanya memuat rincian investasi dan target emisi per lini bisnis, karena tanpa angka itu pernyataan ini masih sebatas niat, belum bisa diukur kemajuannya.",
+  "imageV": "munx3wi1"
+ },
+ {
+  "slug": "bakrieland-raih-penghargaan-employer-brand-2026",
+  "category": "Bisnis",
+  "title": "Bakrieland Raih [Penghargaan] Employer Brand 2026",
+  "deck": "Bakrieland meraih Indonesia Best Employer Brand Awards 2026 atas praktik pengembangan SDM, manajemen talenta, dan budaya kerja adaptif.",
+  "image": "assets/img/bakrieland-raih-penghargaan-employer-brand-2026.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T15:41:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470418-bakrieland-raih-indonesia-best-employer-brand-awards-2026-fokus-pada-pengembangan-talenta",
+  "tags": [
+   "Bakrieland",
+   "Employer Brand Awards",
+   "SDM",
+   "Properti"
+  ],
+  "body": [
+   "PT Bakrieland Development Tbk meraih penghargaan Indonesia Best Employer Brand Awards 2026 atas penilaian terhadap cara perusahaan mengembangkan sumber daya manusia, mengelola talenta, dan membangun budaya kerja. Penghargaan ini diberikan oleh World Federation of HR Professionals, organisasi nirlaba di bidang profesi sumber daya manusia, dengan dukungan dari CHRO Asia.",
+   "Penghargaan diterima langsung oleh Chief Corporate Human Capital Officer Bakrieland, Yusri Hartadi, dalam acara di Sheraton Grand Jakarta Gandaria City Hotel pada 30 September 2026. Penilaian mencakup keselarasan strategi SDM dengan transformasi bisnis, pengembangan kompetensi karyawan, manajemen dan pengembangan talenta, strategi rekrutmen, keterlibatan karyawan, kesetaraan gender, kesehatan di tempat kerja, hingga program tanggung jawab sosial perusahaan.",
+   "Presiden Direktur Bakrieland Resza Adikreshna mengatakan penghargaan ini menjadi pengingat bahwa pertumbuhan perusahaan tidak hanya ditentukan oleh strategi bisnis, tetapi juga oleh kesiapan orang-orang di dalamnya. Bakrieland menyebut nilai perusahaan SIGAP, singkatan dari Sinergi, Inovatif, Gesit, Amanah, dan Peduli, sebagai landasan budaya kerja yang mereka jalankan.",
+   "Bagi Bakrieland, penghargaan ini menjadi bagian dari upaya memperkuat organisasi seiring perkembangan bisnis perusahaan, termasuk menjaga kemampuan beradaptasi dan kolaborasi antar karyawan."
+  ],
+  "fotoAdegan": "Employees collaborating around a table in a modern corporate office, natural daylight through large windows, relaxed professional attire",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/30/6abcca4ebfbdb-bakrieland-raih-indonesia-best-employer-brand-awards-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pengakuan dari lembaga profesi SDM independen, bukan angka bisnis. Bakrieland dinilai dari cara mereka merekrut, mengembangkan kompetensi karyawan, hingga menjaga kesetaraan gender dan kesehatan kerja. Yang terdampak langsung adalah karyawan dan calon pelamar kerja di Bakrieland, karena penghargaan semacam ini lazim dipakai perusahaan untuk menarik dan mempertahankan tenaga kerja yang lebih kompetitif. Yang belum bisa dijawab dari berita ini adalah apakah pengelolaan SDM yang diapresiasi ini juga tercermin pada kinerja bisnis Bakrieland, sebab tidak ada satu pun angka usaha, penjualan properti, atau kondisi keuangan yang disebutkan. Untuk melihat apakah ini murni seremoni kehumasan atau berkaitan dengan perbaikan kinerja nyata, perlu dicermati laporan keuangan Bakrieland pada kuartal berikutnya serta perkembangan proyek-proyek propertinya.",
+  "imageV": "munx3wv5"
+ },
+ {
   "slug": "cmpp-kaji-opsi-pulihkan-ekuitas-negatif-usai-suspensi-bei",
   "category": "Aksi Korporasi",
   "title": "CMPP Kaji Opsi Pulihkan [Ekuitas] Negatif Usai Suspensi BEI",
@@ -53,6 +107,33 @@ var ARTICLES = [
   "fotoAdegan": "Wide interior shot of a pulp and paper mill with stacked paper rolls and workers in hard hats near conveyor belts, industrial morning light",
   "takeaway": "Laporan ini netral bagi LPPI karena hanya menuntaskan pencatatan resmi di bursa atas program utang yang sudah direncanakan dan sebagian sudah diberitakan sebelumnya, tanpa ada dana baru di luar yang telah diumumkan pada 24 dan 28 September lalu. Yang tersentuh adalah pos beban bunga dan kewajiban jangka panjang perusahaan, karena LPPI kini terikat membayar bunga tetap 10 sampai 10,5 persen per tahun setiap tiga bulan selama tiga sampai lima tahun ke depan, sementara jaminannya bersifat umum atas seluruh aset perusahaan, bukan aset khusus, sehingga pelaku pasar mencermati kemampuan arus kas perusahaan menanggung cicilan bunga ini. Perlu dicatat juga bahwa program sukuk mudharabahnya kini sudah mencapai penuh target Rp3 triliun, sementara program obligasinya baru terisi Rp3,35 triliun dari target Rp5 triliun, menyisakan ruang untuk tahap penerbitan berikutnya. Yang perlu dipantau selanjutnya adalah realisasi pembayaran bunga dan bagi hasil pertama pada 30 Desember 2026, serta kewajiban LPPI melaporkan peringkat tahunan efek ini ke OJK paling lambat 10 hari kerja setelah masa berlaku peringkat terakhir berakhir.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "data-bansos-dirombak-status-desil-bisa-berubah",
+  "category": "Makroekonomi",
+  "title": "Data Bansos Dirombak, Status Desil Bisa [Berubah]",
+  "deck": "Mendagri Tito Karnavian menyebut pemadanan data kepemilikan tanah dan kendaraan bisa mengubah status desil penerima bansos.",
+  "image": "assets/img/data-bansos-dirombak-status-desil-bisa-berubah.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T14:45:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470396-data-bansos-dirombak-status-desil-warga-bisa-berubah-ini-penjelasan-mendagri",
+  "tags": [
+   "bansos",
+   "desil kemiskinan",
+   "dtsen",
+   "tito karnavian"
+  ],
+  "body": [
+   "Pemerintah sedang merombak data penerima bantuan sosial dengan memadankan data dari berbagai kementerian dan lembaga. Langkah ini bertujuan mendapatkan potret kesejahteraan masyarakat yang lebih lengkap sekaligus memperbaiki ketepatan sasaran penyaluran bansos. Menteri Dalam Negeri Tito Karnavian menyatakan proses ini sangat mungkin mengubah status desil, yaitu kelompok tingkat kesejahteraan warga.",
+   "Pernyataan itu disampaikan Tito saat ditemui di kantor Kementerian Sosial, Jakarta Pusat, Rabu (30/9/2026). Ia menjelaskan bahwa data desil selama ini bersumber dari Badan Pusat Statistik lewat pendataan langsung ke lapangan. Dalam proses pemutakhiran saat ini, informasi dari kementerian dan lembaga lain ikut digunakan untuk memperkuat gambaran kondisi ekonomi warga, sehingga pemetaan yang sudah tercatat sebelumnya berpotensi bergeser.",
+   "Salah satu data yang dipadankan adalah kepemilikan tanah atau lahan dari Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional. Data lain yang digunakan adalah catatan kepemilikan kendaraan dari kepolisian. Menurut Tito, kedua data itu bisa menjadi bahan tambahan bagi BPS saat memutakhirkan desil, sekaligus memperkuat Data Tunggal Sosial Ekonomi Nasional atau DTSEN.",
+   "Tito menegaskan pemadanan data lintas instansi ini tidak dimaksudkan untuk menggantikan sensus atau pendataan yang dilakukan BPS. Menurutnya, seluruh sumber data justru perlu saling melengkapi karena kondisi kesejahteraan masyarakat bisa berubah dari waktu ke waktu."
+  ],
+  "fotoAdegan": "Government official checking land documents beside a small rural house and parked motorcycle in an Indonesian village, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ee70139870-ilustrasi-cek-bansos_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah penambahan dua sumber data ke proses pemutakhiran desil, yaitu data kepemilikan tanah dari ATR/BPN dan data kepemilikan kendaraan dari kepolisian, yang digabungkan untuk memperkuat DTSEN, basis data yang jadi rujukan siapa berhak menerima bansos. Pihak yang terdampak adalah warga yang selama ini tercatat di desil rendah atau menengah tapi ternyata punya aset seperti tanah atau kendaraan, karena status desil mereka bisa naik dan itu berpengaruh pada kelayakan menerima bantuan. Arah pemadanan aset semacam ini biasanya condong ke penyaringan yang lebih ketat, mencocokkan klaim kondisi ekonomi dengan bukti kepemilikan yang sudah ada di basis data pemerintah, bukan menambah jumlah penerima. Yang belum diungkap Mendagri adalah kapan pemutakhiran ini rampung dan sejak kapan hasilnya benar-benar dipakai untuk menentukan penyaluran bansos berikutnya, sehingga arah pastinya baru bisa dipastikan setelah BPS atau Kemensos mengumumkan jadwal penerapannya.",
+  "imageV": "munx3x9h"
  },
  {
   "slug": "bbrm-rampungkan-pembelian-kapal-ahts-senilai-us-12-1-juta",

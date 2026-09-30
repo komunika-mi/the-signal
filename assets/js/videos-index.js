@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "hUYbztZpDtk",
+  "title": "KKP Kembangkan Pelabuhan Nusantara di Bali",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Kelautan dan Perikanan mulai mengembangkan Pelabuhan Perikanan Nusantara Pengambengan di Jembrana, Bali, menjadi pelabuhan perikanan yang lebih modern.",
+  "takeaway": "Pengembangan infrastruktur pelabuhan ini relevan bagi pembaca ekonomi karena berkaitan langsung dengan rantai pasok dan daya saing industri perikanan nasional."
+ },
+ {
+  "id": "wokG4oTymxA",
+  "title": "CSR dan PDB Award 2026 Dorong Tanggung Jawab Sosial Perusahaan",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Kementerian Desa dan Pembangunan Daerah Tertinggal mendorong perusahaan memperkuat program tanggung jawab sosial untuk mendukung kemandirian ekonomi masyarakat.",
+  "takeaway": "Topik ini penting bagi pembaca ekonomi karena menyangkut arah kebijakan dan alokasi dana CSR perusahaan bagi pemberdayaan ekonomi daerah tertinggal."
+ },
+ {
   "id": "VgnKqHtTDT4",
   "title": "Ekonomi Hijau Jadi Solusi Tantangan Perubahan Iklim",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Presiden Prabowo Menjawab",
   "summary": "Presiden Prabowo Subianto mengklaim pemerintahannya berhasil membuka 2,7 juta lapangan pekerjaan baru sepanjang 2025.",
   "takeaway": "Data penyerapan tenaga kerja menjadi acuan untuk menilai efektivitas kebijakan ekonomi pemerintah terhadap pengangguran."
- },
- {
-  "id": "ExKj1Ots1Qk",
-  "title": "Menkeu Baru Dilantik, Ekspektasi Kinerja Dipertanyakan",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Presiden Prabowo Subianto melantik Suahasil Nazara sebagai Menteri Keuangan baru menggantikan Purbaya. Kalangan pengamat menahan diri untuk berharap terlalu tinggi pada awal masa jabatannya.",
-  "takeaway": "Pergantian pucuk pimpinan Kementerian Keuangan penting diikuti karena berdampak langsung pada arah kebijakan fiskal ke depan."
- },
- {
-  "id": "hP0U73fboxg",
-  "title": "Suahasil Dipanggil ke Istana, Bahas Energi dan Pangan",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Presiden Prabowo Subianto memanggil sejumlah menteri dan pimpinan lembaga untuk rapat terbatas membahas sektor energi dan pangan, dengan program B50 menjadi salah satu agenda utama.",
-  "takeaway": "Perkembangan program biodiesel B50 dan kebijakan pangan berpotensi memengaruhi industri serta harga komoditas dalam negeri."
  }
 ];

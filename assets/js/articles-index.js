@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan",
+  "category": "Energi",
+  "title": "Pertamina Genjot Bisnis Energi [Hijau] Jadi Sumber Pertumbuhan",
+  "deck": "Pertamina memperluas portofolio energi rendah karbon, dari biofuel hingga hidrogen hijau, sebagai sumber pertumbuhan baru sambil tetap menjaga pasokan energi harian.",
+  "date": "30 September 2026",
+  "image": "assets/img/pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan.jpg",
+  "imageV": "munx3wi1",
+  "tags": [
+   "Pertamina",
+   "Energi Hijau",
+   "BUMN",
+   "Transisi Energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470425-pertamina-siapkan-bisnis-energi-hijau-sebagai-sumber-pertumbuhan-baru"
+ },
+ {
+  "slug": "bakrieland-raih-penghargaan-employer-brand-2026",
+  "category": "Bisnis",
+  "title": "Bakrieland Raih [Penghargaan] Employer Brand 2026",
+  "deck": "Bakrieland meraih Indonesia Best Employer Brand Awards 2026 atas praktik pengembangan SDM, manajemen talenta, dan budaya kerja adaptif.",
+  "date": "30 September 2026",
+  "image": "assets/img/bakrieland-raih-penghargaan-employer-brand-2026.jpg",
+  "imageV": "munx3wv5",
+  "tags": [
+   "Bakrieland",
+   "Employer Brand Awards",
+   "SDM",
+   "Properti"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470418-bakrieland-raih-indonesia-best-employer-brand-awards-2026-fokus-pada-pengembangan-talenta"
+ },
+ {
   "slug": "cmpp-kaji-opsi-pulihkan-ekuitas-negatif-usai-suspensi-bei",
   "category": "Aksi Korporasi",
   "title": "CMPP Kaji Opsi Pulihkan [Ekuitas] Negatif Usai Suspensi BEI",
@@ -35,6 +69,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cba60ac95_fea9929081.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "data-bansos-dirombak-status-desil-bisa-berubah",
+  "category": "Makroekonomi",
+  "title": "Data Bansos Dirombak, Status Desil Bisa [Berubah]",
+  "deck": "Mendagri Tito Karnavian menyebut pemadanan data kepemilikan tanah dan kendaraan bisa mengubah status desil penerima bansos.",
+  "date": "30 September 2026",
+  "image": "assets/img/data-bansos-dirombak-status-desil-bisa-berubah.jpg",
+  "imageV": "munx3x9h",
+  "tags": [
+   "bansos",
+   "desil kemiskinan",
+   "dtsen",
+   "tito karnavian"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470396-data-bansos-dirombak-status-desil-warga-bisa-berubah-ini-penjelasan-mendagri"
  },
  {
   "slug": "bbrm-rampungkan-pembelian-kapal-ahts-senilai-us-12-1-juta",
@@ -6447,54 +6498,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1710-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-pemegang-saham-jual-13-1-juta-saham-suara-ke-7-53",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Pemegang Saham [Jual] 13,1 Juta Saham, Suara ke 7,53%",
-  "deck": "Sujito Ngatiman, pemegang saham DEWI, melepas 13,1 juta saham senilai sekitar Rp2,01 miliar pada 2 September 2026, hak suaranya turun dari 8,19% menjadi 7,53%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "pemegang saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1979-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-pemegang-saham-tambah-kepemilikan-ke-8-06",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Pemegang Saham [Tambah] Kepemilikan ke 8,06%",
-  "deck": "Sujito Ngatiman menambah kepemilikan di DEWI lewat pembelian 12,75 juta saham senilai sekitar Rp1,91 miliar, hak suara naik dari 7,42% menjadi 8,06%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "pasar modal",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4018-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-rampungkan-realisasi-dana-obligasi-sukuk-rp1-43-t",
-  "category": "Aksi Korporasi",
-  "title": "INKP Rampungkan Realisasi Dana [Obligasi]-Sukuk Rp1,43 T",
-  "deck": "INKP melaporkan dana hasil emisi obligasi dan sukuk berkelanjutan, total Rp1,43 triliun plus US$15,37 juta, kini terealisasi penuh untuk pelunasan utang bank dan modal kerja.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi",
-   "sukuk",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a470bee58_a042955a54.pdf",
   "sourceLabel": "IDX"
  }
 ];

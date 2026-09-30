@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "hUYbztZpDtk",
+  "title": "KKP Kembangkan Pelabuhan Nusantara di Bali",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Kelautan dan Perikanan mulai mengembangkan Pelabuhan Perikanan Nusantara Pengambengan di Jembrana, Bali, menjadi pelabuhan perikanan yang lebih modern.",
+  "takeaway": "Pengembangan infrastruktur pelabuhan ini relevan bagi pembaca ekonomi karena berkaitan langsung dengan rantai pasok dan daya saing industri perikanan nasional.",
+  "terbit": "2026-09-30T08:44:14+00:00"
+ },
+ {
+  "id": "wokG4oTymxA",
+  "title": "CSR dan PDB Award 2026 Dorong Tanggung Jawab Sosial Perusahaan",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Kementerian Desa dan Pembangunan Daerah Tertinggal mendorong perusahaan memperkuat program tanggung jawab sosial untuk mendukung kemandirian ekonomi masyarakat.",
+  "takeaway": "Topik ini penting bagi pembaca ekonomi karena menyangkut arah kebijakan dan alokasi dana CSR perusahaan bagi pemberdayaan ekonomi daerah tertinggal.",
+  "terbit": "2026-09-30T08:43:37+00:00"
+ },
+ {
   "id": "VgnKqHtTDT4",
   "title": "Ekonomi Hijau Jadi Solusi Tantangan Perubahan Iklim",
   "category": "Makroekonomi",

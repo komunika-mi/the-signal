@@ -2,6 +2,98 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-09-30",
+  "tanggalLabel": "Rabu, 30 September 2026",
+  "judul": "Kas Mengalir ke Investor, Utang Karya dan Dilusi Menekan",
+  "ringkas": "Sejumlah emiten besar mengembalikan kas dalam jumlah besar ke pemegang saham lewat dividen dan buyback, sementara tekanan utang di lingkaran BUMN Karya dan gelombang rights issue yang mendilusi pemegang saham lama terus berlanjut dan meluas ke sektor lain.",
+  "benang": [
+   {
+    "judul": "Tekanan Utang BUMN Karya Terus Memburuk",
+    "isi": "Tekanan utang di lingkaran BUMN Karya belum reda. WSBP gagal membayar kupon ke-8 dua seri obligasi yang jatuh tempo 25 September, membuat PEFINDO menurunkan prospek peringkatnya dari Stabil ke Negatif, sementara ekuitasnya sudah minus Rp2,26 triliun per Juni. Skema konversi utang menjadi saham yang akan dimintakan restu lewat RUPSLB 2 Oktober pun membengkak, dari maksimal 33,71 miliar menjadi 33,83 miliar lembar saham seri C senilai hingga Rp4,33 triliun. Di kelompok yang sama, ADCP, anak usaha Adhi Karya, melaporkan penundaan kupon obligasi hingga awal 2027 disertai penurunan peringkat, tanda kas operasional belum pulih meski suspensi sahamnya sudah berjalan sejak pertengahan tahun. Arahnya masih konsisten dengan tekanan yang terlihat sehari sebelumnya, yaitu memburuk, dan yang akan menentukan apakah tren ini mereda adalah hasil RUPSLB WSBP 2 Oktober serta realisasi pembayaran kupon ADCP berikutnya."
+   },
+   {
+    "judul": "Gelombang Dilusi Saham Meluas ke Bank dan Maskapai",
+    "isi": "Gelombang penambahan modal yang mendilusi pemegang saham lama terus meluas ke sektor berbeda. BRIS bersiap menerbitkan hingga 6,8 miliar saham baru lewat rights issue kedua, mengerek modal ke Rp64,41 triliun sekaligus mendilusi kepemilikan hingga 12,85 persen bagi yang tak menebus haknya, dengan RUPSLB dijadwalkan 6 November. Garuda Indonesia menyiapkan rights issue ketiga, kali ini dengan Danantara Asset Management menebus haknya lewat penyetoran saham GMFI, bukan uang tunai. Cashlez sudah lebih dulu menuntaskan rights issue senilai Rp237,2 miliar yang membuat ekuitasnya berbalik positif menjadi Rp194,5 miliar, meski rugi bersihnya justru melebar menjadi Rp42,9 miliar. Arah dilusi sebagai jalan utama memperkuat modal makin konsisten dengan pola hari sebelumnya, dan agenda resmi RUPSLB BRIS serta GIAA yang terbit pertengahan Oktober akan memastikan besaran akhir penerbitan saham baru ini."
+   },
+   {
+    "judul": "Emiten Besar Gencar Bagi Dividen dan Buyback",
+    "isi": "Di tengah tekanan utang di emiten lain, sejumlah korporasi besar justru mengembalikan kas dalam jumlah besar ke pemegang saham jelang tutup kuartal III. UNTR merampungkan buyback Rp1,42 triliun dari pagu Rp2 triliun dan tetap menjanjikan dividen interim Rp430 per saham meski pembayarannya digeser ke November. GEMS membagikan dividen interim US$200 juta, setara sekitar 91 persen dari laba bersih periode berjalan, sementara AALI menjadwalkan dividen interim Rp233 per saham atau total Rp449,03 miliar dan TOWR menyiapkan buyback hingga Rp500 miliar sampai Desember. Pola ini konsisten menunjukkan arus kas yang kuat di emiten komoditas dan infrastruktur besar, dan laporan keuangan kuartal III yang mulai terbit Oktober akan jadi penanda apakah kekuatan arus kas ini juga tercermin di laba operasional, bukan cuma di kas yang tersedia untuk dibagikan."
+   }
+  ],
+  "penutup": "Yang paling menentukan arah besok adalah hasil RUPSLB WSBP 2 Oktober soal konversi utang, yang akan memperjelas apakah jarak antara emiten besar yang leluasa membagikan kas dan emiten yang masih berjuang menutup kewajiban jangka pendek terus melebar.",
+  "jumlahBahan": 67,
+  "bahanSlug": [
+   "untr-undur-jadwal-dividen-interim-ke-november-nilai-tetap-rp430",
+   "giaa-rencanakan-rights-issue-iii-dam-setor-saham-gmfi",
+   "asgr-ubah-dividen-interim-jadi-dividen-tunai-final-rp297-saham",
+   "giaa-gelar-rupslb-6-november-usul-agenda-ditutup-8-oktober",
+   "tlkm-ubah-susunan-direksi-lewat-rupslb-dua-direktur-baru",
+   "bansos-beras-dan-bsu-cair-kuartal-iv-pph-pekerja-diperluas",
+   "bmri-lunasi-obligasi-rp2-4-triliun-tepat-jatuh-tempo",
+   "giaa-rugi-menyempit-jadi-us-112-96-juta-ekuitas-kembali-negatif",
+   "dpns-janji-sampaikan-laporan-keuangan-kuartal-ii-diaudit",
+   "sema-jawab-bursa-nilai-kontrak-data-center-tak-diungkap",
+   "cani-raih-opini-disclaimer-defisiensi-modal-us-34-2-juta",
+   "asli-balas-bursa-rugi-semester-i-menyempit-43-37",
+   "wsbp-pefindo-turunkan-outlook-jadi-negatif-tegaskan-rating-idb",
+   "bike-93-08-saham-terkonsentrasi-di-segelintir-pemegang",
+   "tei-2026-catat-1-533-ekshibitor-buyer-dari-113-negara",
+   "adcp-tunda-kupon-obligasi-ke-2027-suspensi-belum-pulih",
+   "ijee-liabilitas-naik-48-usai-terbit-obligasi-dan-sukuk-baru",
+   "djki-pangkas-waktu-urus-merek-jadi-empat-bulan",
+   "indodana-dorong-credit-scoring-demi-pinjaman-digital-aman",
+   "ekonomi-gig-tumbuh-pekerja-perlu-perkuat-ketahanan-finansial",
+   "aspi-akuisisi-gmp-tersendat-laba-kotor-anjlok-28",
+   "pnm-dan-brins-bantu-alat-tenun-warga-sade-usai-kebakaran",
+   "bris-rights-issue-ii-kerek-modal-ke-rp64-41-t-dilusi-12-85",
+   "untr-rampungkan-buyback-saham-rp1-42-triliun-hentikan-program",
+   "harga-patokan-ekspor-emas-turun-3-5-awal-oktober",
+   "wsbp-koreksi-rupslb-detail-konversi-utang-jadi-saham-rp4-3-t",
+   "cash-ekuitas-balik-positif-usai-right-issue-rp237-miliar",
+   "mncn-balas-surat-bursa-soal-volatilitas-transaksi-saham",
+   "kdtn-jadwalkan-rupslb-pada-6-november-2026",
+   "bei-suspensi-total-perdagangan-saham-pure-going-concern",
+   "kdtn-tetapkan-cum-date-rupslb-usul-agenda-tenggat-8-okt",
+   "grpm-pemegang-saham-pengendali-jual-seluruh-saham-ke-rimau-group",
+   "smsm-terima-dividen-myr3-5-juta-dari-entitas-anak-di-malaysia",
+   "mora-raup-rp768-miliar-dari-target-sukuk-rp3-triliun",
+   "taxi-jelaskan-lonjakan-harga-28-57-ke-bursa",
+   "aali-jadwalkan-dividen-interim-rp233-per-saham",
+   "ppln-siap-bayar-rp455-miliar-obligasi-sukuk-jatuh-tempo",
+   "gems-bagikan-dividen-interim-us-200-juta-rp611-93-saham",
+   "ppro-gelar-rupslb-22-oktober-untuk-ubah-susunan-direksi",
+   "inps-rogoh-pinjaman-rp6-m-danai-akuisisi-tri-satria-indah-motor",
+   "dssa-catat-aset-naik-37-6-ke-us-6-08-miliar-di-semester-i-2026",
+   "jpfa-divestasi-vaksindo-rp1-81-triliun-ke-afiliasi",
+   "nick-jawab-bursa-akuisisi-ev-genset-85-pendapatan-dari-afiliasi",
+   "beli-jadwalkan-public-expose-tahunan-pada-14-oktober-2026",
+   "zp-ajukan-10-seri-call-warrant-baru-acuan-arto-hingga-kija",
+   "zp-terbitkan-15-waran-terstruktur-baru-acuan-asii-wifi",
+   "pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan",
+   "bakrieland-raih-penghargaan-employer-brand-2026",
+   "hd-waran-terstruktur-untr-disesuaikan-usai-dividen-efektif-8-okt",
+   "cmpp-kaji-opsi-pulihkan-ekuitas-negatif-usai-suspensi-bei",
+   "lppi-catatkan-obligasi-rp1-t-dan-sukuk-rp676-63-m-di-bei",
+   "data-bansos-dirombak-status-desil-bisa-berubah",
+   "bbrm-rampungkan-pembelian-kapal-ahts-senilai-us-12-1-juta",
+   "pnbs-bantah-punya-informasi-material-di-balik-volatilitas-saham",
+   "lapd-cetak-ekuitas-negatif-auditor-soroti-kelangsungan-usaha",
+   "towr-siapkan-buyback-saham-rp500-miliar-hingga-desember",
+   "rock-klarifikasi-ke-bei-soal-volatilitas-transaksi-saham",
+   "mtfn-umumkan-rencana-rupst-pada-6-november-2026",
+   "gema-komisaris-mundur-sebelum-rups-setujui",
+   "jelang-wajib-halal-2026-kemendag-dorong-sertifikasi-ekspor-umk",
+   "bris-siapkan-rights-issue-ii-terbitkan-6-8-miliar-saham",
+   "bris-jadwalkan-rupslb-pada-6-november-2026",
+   "edge-suntik-modal-rp5-miliar-ke-anak-usaha-dge",
+   "sfan-jual-51-95-saham-dpi-ke-induk-usaha-rp15-73-m-divestasi",
+   "miti-teken-mou-dengan-cnec-garap-proyek-silika",
+   "inds-beli-mesin-bekas-anak-usaha-rp3-09-m-afiliasi",
+   "srsn-direktur-independen-mundur-rupslb-akhir-desember"
+  ],
+  "dibuat": "2026-09-30T19:33:52.721Z"
+ },
+ {
   "tanggal": "2026-09-29",
   "tanggalLabel": "Selasa, 29 September 2026",
   "judul": "Tekanan Kredit BUMN Karya Berlanjut, Dilusi Saham Meluas",
@@ -2230,24 +2322,5 @@ var HARIAN_ARSIP = [
   "penutup": "Yang paling menentukan besok adalah keputusan BI Rate, karena arah rupiah dan aliran dana ke surat utang pemerintah akan mengikuti sikap Bank Indonesia itu.",
   "jumlahBahan": 34,
   "dibuat": "2026-08-18T14:24:44.805Z"
- },
- {
-  "tanggal": "2026-08-17",
-  "tanggalLabel": "Senin, 17 Agustus 2026",
-  "judul": "UMKM Diguyur Insentif, Gempa NTT Sisakan Desa Gelap",
-  "ringkas": "Bank Indonesia dan BRI serentak memperluas dukungan biaya transaksi dan pembiayaan untuk UMKM, sementara pemulihan pascagempa NTT menunjukkan pola cepat di infrastruktur besar tapi tertinggal di titik-titik kecil dan terpencil.",
-  "benang": [
-   {
-    "judul": "Pemulihan Gempa NTT: Cepat di Atas, Lambat di Bawah",
-    "isi": "Sehari setelah gempa magnitudo 7,7 mengguncang NTT, PLN sudah memulihkan 11 gardu induk dan pasokan utama Flores, tapi 29 dari 1.557 desa, sekitar dua persen wilayah itu, masih gelap karena akses tertutup longsor. Pola serupa terlihat pada layanan Telkom, yang baru mengaktifkan tiga titik WiFi gratis di sekitar Maumere, sementara empat lokasi lain di Nagekeo, Borong, Ruteng, dan kantor wilayah Flores masih disiapkan. Kemendag mencatat empat pasar rusak, termasuk Pasar Inpres Ruteng yang ditutup karena tiang bangunannya rusak, dan menyalurkan bantuan Rp250 juta untuk pedagang terdampak. Ketiganya bergerak dalam pola yang sama, infrastruktur besar dan terpusat pulih cepat dalam hitungan hari, sementara titik-titik kecil dan wilayah terpencil masih menunggu giliran. Yang akan menentukan apakah pola ini bertahan adalah apakah akses jalan ke 29 desa yang tertutup longsor bisa dibuka dalam beberapa hari ke depan."
-   },
-   {
-    "judul": "UMKM Serentak Dapat Sokongan Biaya dan Kredit",
-    "isi": "Bank Indonesia memastikan bebas biaya MDR QRIS untuk usaha mikro dengan transaksi sampai Rp500.000 resmi berlaku 1 Oktober 2026, dan pada hari yang sama memperluas bebas biaya itu ke semua skala usaha untuk transaksi sampai Rp100.000, menggantikan biaya 0,7 persen yang sebelumnya dipotong dari pedagang setiap transaksi QRIS. BRI menyambut HUT ke-81 RI dengan menegaskan portofolio kredit UMKM Rp1.235 triliun, setara 75,2 persen dari total kreditnya, ditambah penyaluran KUR Rp103,81 triliun ke 2 juta debitur yang didominasi sektor pertanian. BI juga menaikkan target pengolahan limbah uang kertas tak layak edar menjadi produk UMKM, dari 72 persen sekarang menuju 100 persen pada 2027. Ketiganya bergerak searah, memperluas akses pembiayaan sekaligus menekan biaya transaksi bagi pelaku usaha kecil menjelang implementasi Oktober 2026. Yang akan mengonfirmasi arah ini adalah data volume transaksi QRIS UMKM setelah aturan bebas biaya itu resmi berlaku Oktober mendatang."
-   }
-  ],
-  "penutup": "Yang paling menentukan besok adalah apakah akses ke desa-desa terisolir di Flores mulai terbuka, tanda sejauh mana pemulihan pascagempa merambah sampai titik terkecil.",
-  "jumlahBahan": 8,
-  "dibuat": "2026-08-17T14:19:20.897Z"
  }
 ];

@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-30T02:34:32.978+07:00",
+ "diperbarui": "2026-10-01T02:36:08.224+07:00",
  "entri": [
+  {
+   "id": "2026-09-30-3",
+   "edisi": "2026-09-30",
+   "benang": "Emiten Besar Gencar Bagi Dividen dan Buyback",
+   "klaim": "Pola pembagian dividen dan buyback besar-besaran ini konsisten menunjukkan arus kas yang kuat di emiten komoditas dan infrastruktur besar.",
+   "penanda": "Laporan keuangan kuartal III yang mulai terbit Oktober, sebagai penanda apakah kekuatan arus kas ini juga tercermin di laba operasional",
+   "tenggat": "2026-10-31",
+   "tenggatLabel": "laporan keuangan kuartal III yang mulai terbit Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-30-2",
+   "edisi": "2026-09-30",
+   "benang": "Gelombang Dilusi Saham Meluas ke Bank dan Maskapai",
+   "klaim": "Dilusi saham lewat rights issue semakin menjadi jalan utama memperkuat modal dan arahnya makin konsisten dengan pola hari sebelumnya, kini meluas ke sektor bank dan maskapai.",
+   "penanda": "Agenda resmi RUPSLB BRIS serta GIAA yang terbit pertengahan Oktober, yang akan memastikan besaran akhir penerbitan saham baru",
+   "tenggat": "2026-10-15",
+   "tenggatLabel": "agenda resmi RUPSLB BRIS serta GIAA yang terbit pertengahan Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-30-1",
+   "edisi": "2026-09-30",
+   "benang": "Tekanan Utang BUMN Karya Terus Memburuk",
+   "klaim": "Tekanan utang di lingkaran BUMN Karya masih terus memburuk, konsisten dengan arah yang terlihat sehari sebelumnya.",
+   "penanda": "Hasil RUPSLB WSBP 2 Oktober soal skema konversi utang menjadi saham serta realisasi pembayaran kupon ADCP berikutnya",
+   "tenggat": "2026-10-02",
+   "tenggatLabel": "RUPSLB WSBP 2 Oktober serta realisasi pembayaran kupon ADCP berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-29-3",
    "edisi": "2026-09-29",
@@ -107,8 +140,13 @@ var RAPOR = {
    "penanda": "Waskita Beton Precast benar menunda pembayaran kupon ke-8 Obligasi I dan II 2022 senilai 2 persen dari pokok yang jatuh tempo",
    "tenggat": "2026-09-25",
    "tenggatLabel": "besok, 25 September 2026",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "wsbp-pefindo-turunkan-outlook-jadi-negatif-tegaskan-rating-idb",
+    "judul": "WSBP: PEFINDO Turunkan Outlook Jadi Negatif, Tegaskan Rating idB",
+    "tanggal": "30 September 2026",
+    "alasan": "Artikel ini menyebutkan PEFINDO menurunkan outlook WSBP jadi negatif setelah perusahaan gagal membayar kupon obligasi yang jatuh tempo, mengkonfirmasi arah klaim bahwa WSBP menunda pembayaran kupon obligasinya."
+   }
   },
   {
    "id": "2026-09-23-3",
@@ -541,8 +579,13 @@ var RAPOR = {
    "penanda": "Apakah ADCP akhirnya melunasi bunga obligasi Rp10,29 miliar setelah lewat jatuh tempo 8 September.",
    "tenggat": "2026-09-08",
    "tenggatLabel": "setelah jatuh tempo besok",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "adcp-tunda-kupon-obligasi-ke-2027-suspensi-belum-pulih",
+    "judul": "ADCP Tunda Kupon Obligasi ke 2027, Suspensi Belum Pulih",
+    "tanggal": "30 September 2026",
+    "alasan": "Artikel ini menunjukkan ADCP gagal melunasi bunga obligasi setelah jatuh tempo dan malah menunda pembayarannya ke 2027 sementara suspensi sahamnya belum pulih, sesuai arah klaim bahwa tekanan kas pada emiten kecil-menengah terus berlanjut."
+   }
   },
   {
    "id": "2026-09-04-3",

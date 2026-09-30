@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "brna-koreksi-laporan-keuangan-siapkan-rights-issue-rp372-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BRNA Koreksi Laporan Keuangan, Siapkan [Rights Issue] Rp372,6 Miliar",
+  "deck": "Berlina Tbk menerbitkan ulang laporan keuangan kuartal I 2026 yang dikoreksi menjelang rights issue senilai Rp372,6 miliar, sementara laba bersihnya turun 64 persen dari tahun lalu.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRNA",
+   "rights issue",
+   "laporan keuangan",
+   "Berlina Tbk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261001011342-64469-0/FinancialStatement-2026-I-BRNA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "swat-jawab-bursa-ekuitas-ambruk-ke-rp12-46-m-kas-kritis",
   "category": "Aksi Korporasi",
   "title": "SWAT Jawab Bursa: Ekuitas Ambruk ke Rp12,46 M, Kas [Kritis]",
@@ -6481,21 +6497,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/468975-the-telkom-hub-capai-net-zero-emisi-66-lokasi-pop-telkom-menggunakan-21-persen-energi-terbarukan"
- },
- {
-  "slug": "wskt-gagal-lunasi-pokok-obligasi-rp722-miliar-klaim-penjaminan",
-  "category": "Aksi Korporasi",
-  "title": "WSKT [Gagal] Lunasi Pokok Obligasi Rp722 Miliar, Klaim Penjaminan",
-  "deck": "Waskita Karya tak sanggup melunasi pokok Obligasi III 2021 Seri A senilai Rp722 miliar yang jatuh tempo 24 September 2026; wali amanat ajukan klaim penjaminan.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "obligasi",
-   "gagal bayar",
-   "Waskita Karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/691b7db3dc_439177adf4.pdf",
-  "sourceLabel": "IDX"
  }
 ];

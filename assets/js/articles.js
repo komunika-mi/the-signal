@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "brna-koreksi-laporan-keuangan-siapkan-rights-issue-rp372-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BRNA Koreksi Laporan Keuangan, Siapkan [Rights Issue] Rp372,6 Miliar",
+  "deck": "Berlina Tbk menerbitkan ulang laporan keuangan kuartal I 2026 yang dikoreksi menjelang rights issue senilai Rp372,6 miliar, sementara laba bersihnya turun 64 persen dari tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T00:58:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261001011342-64469-0/FinancialStatement-2026-I-BRNA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRNA",
+  "tags": [
+   "BRNA",
+   "rights issue",
+   "laporan keuangan",
+   "Berlina Tbk"
+  ],
+  "body": [
+   "Berlina Tbk (BRNA) menerbitkan kembali laporan keuangan interim untuk periode tiga bulan yang berakhir 31 Maret 2026 setelah auditor independen, Kantor Akuntan Publik Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan dan Rekan, melakukan reklasifikasi penyajian akun. Laporan sebelumnya bernomor 00303 diterbitkan 24 September 2026, lalu dikoreksi menjadi laporan baru bernomor 00306 yang diteken auditor penandatangan Adi Santoso pada 28 September 2026, tanpa mengubah opini yang tetap wajar tanpa modifikasian. Penerbitan ulang ini dilakukan karena Berlina sedang memproses penawaran umum terbatas dengan hak memesan efek terlebih dahulu (rights issue) ketiga, berupa penerbitan 543.950.000 saham baru dengan harga pelaksanaan Rp685 per saham, yang akan menambah modal disetor perseroan sebesar Rp372.605.750.000.",
+   "Dari sisi kinerja, pendapatan Berlina pada kuartal I 2026 tercatat Rp277,60 miliar, naik tipis dari Rp276,12 miliar pada periode yang sama tahun lalu. Namun laba bersih periode berjalan turun tajam menjadi Rp4,05 miliar dari Rp11,27 miliar setahun sebelumnya, sementara laba usaha turun dari Rp31,01 miliar menjadi Rp28,53 miliar. Laba per saham dasar pun merosot dari Rp9 menjadi Rp2. Total aset perusahaan per 31 Maret 2026 mencapai Rp2.258,63 miliar dan ekuitas Rp1.017,29 miliar, sementara rasio lancar turun menjadi 0,94 kali dari 1,10 kali pada akhir 2025, yang berarti aset lancar perusahaan sedikit lebih kecil dibanding utang jangka pendeknya.",
+   "Dalam surat comfort letter tertanggal 28 September 2026 yang dikirim ke Otoritas Jasa Keuangan dan penjamin emisi PT DBS Vickers Sekuritas Indonesia, auditor menyatakan tidak menemukan indikasi perubahan material pada aset, liabilitas, ekuitas, maupun penurunan laba Berlina sejak 1 Juli hingga 28 September 2026 dibandingkan posisi per 31 Maret 2026. Laporan ini juga merinci struktur anak usaha Berlina, yakni PT Quantex dengan kepemilikan 99,49 persen, PT Natura Plasindo 99,99 persen, PT Lamipak Primula Indonesia 70 persen, dan Hefei Paragon Plastic Packaging Co Ltd di China dengan kepemilikan penuh 100 persen."
+  ],
+  "fotoAdegan": "Workers inspecting rows of plastic bottles and caps moving along a packaging factory conveyor belt, industrial lighting",
+  "takeaway": "Catatan redaksi menilai perkembangan ini cenderung negatif bagi fundamental Berlina, karena laba bersih kuartal I 2026 turun 64 persen dibanding periode sama tahun lalu dan rasio lancar perusahaan melorot di bawah angka 1. Pos yang tersentuh adalah laba bersih dan rasio lancar, yaitu perbandingan aset yang bisa dicairkan dalam waktu dekat dengan utang yang harus dibayar dalam waktu dekat pula, dan rasio di bawah 1 berarti utang jangka pendek Berlina sedikit lebih besar dari aset lancarnya sehingga perusahaan berpotensi perlu pinjaman baru atau penjualan aset untuk menutup kewajiban tersebut. Penambahan 543,95 juta saham baru lewat rights issue, yaitu penjualan saham baru kepada pemegang saham lama sebelum ditawarkan ke publik, juga berarti jumlah saham beredar akan bertambah besar sehingga laba per saham bisa makin terdilusi ke depan, meski dana segar Rp372,6 miliar dari aksi ini bisa membantu memperkuat modal perseroan. Yang perlu dipantau berikutnya adalah tanggal efektif rights issue dari Otoritas Jasa Keuangan serta laporan realisasi penggunaan dana begitu penawaran ini rampung.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "swat-jawab-bursa-ekuitas-ambruk-ke-rp12-46-m-kas-kritis",
   "category": "Aksi Korporasi",
   "title": "SWAT Jawab Bursa: Ekuitas Ambruk ke Rp12,46 M, Kas [Kritis]",

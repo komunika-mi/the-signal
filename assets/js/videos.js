@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "4jxHO1lsEqw",
+  "title": "Bappenas dan Kadin Bentuk Kantor Bersama",
+  "category": "Makroekonomi",
+  "program": "Kabar Hari Ini",
+  "summary": "Kementerian PPN/Bappenas dan Kadin Indonesia berencana membentuk sekretariat bersama untuk mempercepat komunikasi dan koordinasi percepatan pembangunan nasional.",
+  "takeaway": "Kolaborasi pemerintah dan dunia usaha ini layak disimak karena berpotensi memengaruhi kecepatan realisasi proyek pembangunan yang berdampak pada iklim bisnis nasional.",
+  "terbit": "2026-09-30T16:17:34+00:00"
+ },
+ {
+  "id": "uJ9jbJZ0ax0",
+  "title": "Ratusan Hotel Dijual, Wisata Bali Kehabisan Modal?",
+  "category": "Bisnis",
+  "program": "IBF tvOne",
+  "summary": "Ratusan hotel dan vila di Bali ditawarkan di situs jual beli seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum menggeliat seperti biasanya.",
+  "takeaway": "Tren pelepasan aset hotel ini penting diikuti karena menjadi indikator kondisi sektor pariwisata yang menyumbang besar bagi perekonomian Bali.",
+  "terbit": "2026-09-30T15:40:23+00:00"
+ },
+ {
   "id": "ICcDBGOW_ro",
   "title": "Ratusan Hotel Dijual, Wisata Bali Kehabisan Modal?",
   "category": "Bisnis",

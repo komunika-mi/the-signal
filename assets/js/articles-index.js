@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bansos-beras-dan-bsu-cair-kuartal-iv-pph-pekerja-diperluas",
+  "category": "Makroekonomi",
+  "title": "Bansos Beras dan BSU Cair Kuartal IV, PPh Pekerja [Diperluas]",
+  "deck": "Pemerintah menyiapkan bantuan beras, subsidi upah, dan keringanan pajak untuk kuartal IV 2026, dengan sejumlah program diperluas mulai 2027.",
+  "date": "30 September 2026",
+  "image": "assets/img/pasar-beras.jpg",
+  "tags": [
+   "Bantuan Sosial",
+   "Subsidi Upah",
+   "PPh 21",
+   "KPR Subsidi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7120/pemerintah-siapkan-sejumlah-program-ekonomi-untuk-perkuat-perlidungan-masyarakat-dan-dorong-pertumbuhan-di-2027",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "sema-jawab-bursa-nilai-kontrak-data-center-tak-diungkap",
   "category": "Aksi Korporasi",
   "title": "SEMA Jawab Bursa, [Nilai] Kontrak Data Center Tak Diungkap",
@@ -6482,22 +6498,6 @@ var ARTICLES = [
    "data center"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a2755e5864_d3a1d2a224.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-jamin-utang-rp10-75-triliun-bni-ke-dua-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "MGLV [Jamin] Utang Rp10,75 Triliun BNI ke Dua Anak Usaha",
-  "deck": "MGLV menandatangani fasilitas kredit BNI senilai Rp10,75 triliun untuk anak usaha NAC dan NGC, dijamin dengan corporate guarantee dari induk perusahaan, dan tergolong transaksi material sekaligus afiliasi.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "transaksi afiliasi",
-   "corporate guarantee",
-   "data center"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8e6ca96f45_ffbafc1bba.pdf",
   "sourceLabel": "IDX"
  }
 ];

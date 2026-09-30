@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "4jxHO1lsEqw",
+  "title": "Bappenas dan Kadin Bentuk Kantor Bersama",
+  "category": "Makroekonomi",
+  "program": "Kabar Hari Ini",
+  "summary": "Kementerian PPN/Bappenas dan Kadin Indonesia berencana membentuk sekretariat bersama untuk mempercepat komunikasi dan koordinasi percepatan pembangunan nasional.",
+  "takeaway": "Kolaborasi pemerintah dan dunia usaha ini layak disimak karena berpotensi memengaruhi kecepatan realisasi proyek pembangunan yang berdampak pada iklim bisnis nasional."
+ },
+ {
+  "id": "uJ9jbJZ0ax0",
+  "title": "Ratusan Hotel Dijual, Wisata Bali Kehabisan Modal?",
+  "category": "Bisnis",
+  "program": "IBF tvOne",
+  "summary": "Ratusan hotel dan vila di Bali ditawarkan di situs jual beli seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum menggeliat seperti biasanya.",
+  "takeaway": "Tren pelepasan aset hotel ini penting diikuti karena menjadi indikator kondisi sektor pariwisata yang menyumbang besar bagi perekonomian Bali."
+ },
+ {
   "id": "ICcDBGOW_ro",
   "title": "Ratusan Hotel Dijual, Wisata Bali Kehabisan Modal?",
   "category": "Bisnis",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Presiden Prabowo Menjawab",
   "summary": "Presiden Prabowo Subianto menyatakan optimistis kinerja BUMN mencatatkan hasil positif, meski menyoroti pengelolaan sumber keuangan negara yang menurutnya masih perlu dirapikan.",
   "takeaway": "Pernyataan ini menjadi sinyal arah kebijakan pemerintah terhadap tata kelola dan profitabilitas perusahaan pelat merah."
- },
- {
-  "id": "jxq333mWj0s",
-  "title": "Pemerintahan Presiden Prabowo Hemat APBN Rp306 Triliun",
-  "category": "Makroekonomi",
-  "program": "Presiden Prabowo Menjawab",
-  "summary": "Presiden Prabowo Subianto memaparkan rincian penghematan anggaran negara yang disebutnya telah mencapai Rp306 triliun sejak pemerintahannya berjalan.",
-  "takeaway": "Efisiensi APBN berkaitan langsung dengan ruang fiskal pemerintah dan menjadi indikator yang dicermati pelaku pasar."
- },
- {
-  "id": "KDTdApw0VXo",
-  "title": "Presiden Prabowo: Rasio Utang Indonesia Terendah di Dunia",
-  "category": "Makroekonomi",
-  "program": "Presiden Prabowo Menjawab",
-  "summary": "Presiden Prabowo Subianto menilai kondisi ekonomi Indonesia dalam keadaan baik, dengan rasio utang yang disebutnya termasuk paling rendah di dunia.",
-  "takeaway": "Klaim soal rasio utang penting dicermati investor karena berkaitan dengan persepsi risiko fiskal dan kepercayaan pasar."
  }
 ];

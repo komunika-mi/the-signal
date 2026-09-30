@@ -3,6 +3,35 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bansos-beras-dan-bsu-cair-kuartal-iv-pph-pekerja-diperluas",
+  "category": "Makroekonomi",
+  "title": "Bansos Beras dan BSU Cair Kuartal IV, PPh Pekerja [Diperluas]",
+  "deck": "Pemerintah menyiapkan bantuan beras, subsidi upah, dan keringanan pajak untuk kuartal IV 2026, dengan sejumlah program diperluas mulai 2027.",
+  "image": "assets/img/pasar-beras.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:36:42.690Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7120/pemerintah-siapkan-sejumlah-program-ekonomi-untuk-perkuat-perlidungan-masyarakat-dan-dorong-pertumbuhan-di-2027",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "Bantuan Sosial",
+   "Subsidi Upah",
+   "PPh 21",
+   "KPR Subsidi"
+  ],
+  "body": [
+   "Pemerintah menyiapkan sejumlah program bantuan sosial dan insentif pajak untuk kuartal terakhir 2026, sekaligus memperpanjang sejumlah kebijakan serupa ke tahun 2027. Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyampaikan hal ini usai rapat bersama Presiden Prabowo Subianto di Istana Negara, Rabu (30/9/2026). Paket kebijakan ini mencakup bantuan pangan, subsidi upah, keringanan pajak penghasilan, hingga kredit rumah bersubsidi, yang menyasar puluhan juta keluarga dan pekerja berpenghasilan rendah.",
+   "Untuk kuartal IV 2026, pemerintah menyiapkan program pembukaan rekening bank bagi warga negara berusia di atas 17 tahun dari kelompok desil 1 sampai 4, yang jumlah penerimanya masih dicocokkan datanya dengan kementerian terkait. Bantuan pangan berupa 10 kilogram beras per bulan juga akan disalurkan sekaligus untuk periode Oktober sampai Desember, menjangkau 33.244.408 keluarga penerima manfaat dengan kebutuhan anggaran sekitar Rp17,5 triliun. Selain itu, pemerintah kembali mencairkan Bantuan Subsidi Upah sebesar Rp300 ribu per bulan untuk tiga bulan sekaligus, ditujukan bagi sekitar 13,3 juta pekerja dengan kebutuhan anggaran hampir Rp12 triliun.",
+   "Memasuki 2027, pemerintah akan melanjutkan sejumlah program yang berjalan tahun ini, termasuk pemagangan untuk 150 ribu peserta dan pelatihan vokasi untuk 300 ribu orang melalui Kementerian Ketenagakerjaan. Keringanan Pajak Penghasilan Pasal 21 bagi pekerja bergaji di bawah Rp10 juta per bulan juga dilanjutkan, namun cakupannya diperluas dari semula hanya sektor padat karya dan pariwisata menjadi seluruh sektor, dengan sasaran sekitar 7,5 juta pekerja. Pemerintah turut membahas penyesuaian batas penghasilan tidak kena pajak bersama Menteri Keuangan dengan mempertimbangkan angka inflasi, serta melanjutkan pembebasan pajak pertambahan nilai untuk pembelian rumah hingga Rp2 miliar, termasuk untuk bagian harga hingga Rp2 miliar dari rumah bernilai sampai Rp5 miliar.",
+   "Di sisi perlindungan pekerja, program jaminan kecelakaan kerja dan jaminan kematian bagi pekerja bukan penerima upah akan dilanjutkan dengan diskon yang sama seperti tahun ini, sementara pemanfaatan Jaminan Kehilangan Pekerjaan selama enam bulan akan disesuaikan dengan tingkat penghasilan pekerja. Pemerintah juga menyiapkan kredit rumah bersubsidi bunga 6 persen untuk rumah senilai hingga Rp500 juta, yang sebelumnya menyasar pelaku UMKM berpenghasilan tidak tetap, kini diarahkan bagi masyarakat berpenghasilan tetap sekitar Rp17 juta per bulan. Di sektor perhiasan, pemerintah akan mengubah standar kadar emas yang bisa memanfaatkan fasilitas PPN, dari 99,99 persen menjadi 99,9 persen.",
+   "Airlangga menyebutkan total kebutuhan anggaran untuk seluruh program lanjutan pada 2027 diperkirakan sekitar Rp31 triliun, namun angka tersebut masih dalam proses penyisiran oleh Menteri Keuangan sehingga berpotensi berubah."
+  ],
+  "fotoAdegan": "Warehouse workers stacking sacks of rice onto pallets inside a government logistics depot, daytime light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Perubahan paling konkret ada di dua kebijakan yang bergeser sasarannya. Pengurangan pajak penghasilan bagi pekerja bergaji di bawah Rp10 juta, yang tahun ini hanya berlaku untuk pekerja sektor padat karya dan pariwisata, mulai 2027 akan berlaku untuk pekerja di semua sektor dengan sasaran 7,5 juta orang, jadi insentif ini melebar ke lebih banyak pekerja formal. Sebaliknya, kredit rumah bersubsidi bunga 6 persen yang sebelumnya diarahkan untuk pelaku UMKM berpenghasilan tidak tetap, ke depan justru menyasar pekerja berpenghasilan tetap sekitar Rp17 juta per bulan, artinya kelompok informal yang selama ini jadi prioritas program itu bergeser keluar. Arah besarnya adalah pelebaran cakupan bantuan ke lebih banyak kelompok pekerja formal, tapi ini baru gambaran awal karena kebutuhan anggaran total Rp31 triliun untuk seluruh program 2027 masih disisir Menteri Keuangan. Yang akan memastikan jadi tidaknya rencana ini adalah hasil finalisasi anggaran tersebut dan besaran baru batas penghasilan tidak kena pajak yang masih dibahas.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "sema-jawab-bursa-nilai-kontrak-data-center-tak-diungkap",
   "category": "Aksi Korporasi",
   "title": "SEMA Jawab Bursa, [Nilai] Kontrak Data Center Tak Diungkap",
@@ -34849,7 +34878,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Pemerintah Perpanjang Bantuan Beras hingga [Desember]",
   "deck": "Pemerintah memperpanjang bantuan beras hingga Desember sambil memantau dampak ekonomi letusan sejumlah gunung berapi dan antisipasi El Nino.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/gudang-beras.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-08T04:27:16.518Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7082/hadapi-el-nino-dan-dampak-erupsi-pemerintah-perkuat-perlindungan-masyarakat-dan-aktivitas-ekonomi",

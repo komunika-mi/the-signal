@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cmpp-kaji-opsi-pulihkan-ekuitas-negatif-usai-suspensi-bei",
+  "category": "Aksi Korporasi",
+  "title": "CMPP Kaji Opsi Pulihkan [Ekuitas] Negatif Usai Suspensi BEI",
+  "deck": "CMPP mengkaji restrukturisasi utang, rights issue, atau penambahan modal tanpa HMETD untuk memulihkan ekuitas negatif yang membuat sahamnya disuspensi BEI sejak Juni 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMPP",
+   "AirAsia Indonesia",
+   "suspensi saham",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8a5cc74c1_b157bacb89.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppi-catatkan-obligasi-rp1-t-dan-sukuk-rp676-63-m-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "LPPI [Catatkan] Obligasi Rp1 T dan Sukuk Rp676,63 M di BEI",
+  "deck": "Mulai 1 Oktober 2026 BEI mencatatkan obligasi Rp1 triliun dan sukuk mudharabah Rp676,63 miliar tahap IV LPPI, dengan rating idA dan idA(sy) dari Pefindo.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cba60ac95_fea9929081.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbrm-rampungkan-pembelian-kapal-ahts-senilai-us-12-1-juta",
+  "category": "Aksi Korporasi",
+  "title": "BBRM [Rampungkan] Pembelian Kapal AHTS Senilai US$12,1 Juta",
+  "deck": "Perseroan menerima serah terima kapal Anchor Handling Tug Supply MP Maverick dari Great Union China Limited senilai US$12,1 juta, dibiayai sebagian dari kredit Bank IBK Rp120 miliar.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBRM",
+   "AHTS",
+   "akuisisi kapal",
+   "pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca1c088d73_6d431b3ff6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnbs-bantah-punya-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "PNBS Bantah Punya Informasi Material di Balik [Volatilitas] Saham",
+  "deck": "Bank Panin Dubai Syariah menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNBS",
+   "Bank Panin Dubai Syariah",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6b3c4a436_0f44b930a6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "lapd-cetak-ekuitas-negatif-auditor-soroti-kelangsungan-usaha",
   "category": "Aksi Korporasi",
   "title": "LAPD Cetak Ekuitas Negatif, Auditor Soroti [Kelangsungan] Usaha",
@@ -6431,71 +6495,6 @@ var ARTICLES = [
    "penggunaan dana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a470bee58_a042955a54.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "goto-morgan-stanley-tambah-saham-jadi-7-03-hak-suara",
-  "category": "Aksi Korporasi",
-  "title": "GOTO: Morgan Stanley Tambah [Saham] Jadi 7,03% Hak Suara",
-  "deck": "Morgan Stanley and Co International Plc menambah 400 juta saham GOTO lewat perjanjian pembelian kembali pada 18 September 2026, menaikkan hak suaranya jadi 7,03%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GOTO",
-   "kepemilikan saham",
-   "Morgan Stanley",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9638-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ctbn-gelar-rupslb-15-oktober-bahas-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "CTBN Gelar RUPSLB 15 Oktober, Bahas [Perubahan] Direksi",
-  "deck": "Citra Tubindo memanggil RUPSLB pada 15 Oktober 2026 di Jakarta dengan agenda tunggal persetujuan perubahan susunan Direksi.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CTBN",
-   "RUPSLB",
-   "Direksi",
-   "Citra Tubindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/be2a74aed5_be9d62f69c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-menguat-0-64-di-sesi-i-asing-lepas-saham-rp335-8-m",
-  "category": "Pasar Modal",
-  "title": "IHSG [Menguat] 0,64% di Sesi I, Asing Lepas Saham Rp335,8 M",
-  "deck": "IHSG naik 0,64% ke 6.317,46 pada sesi I perdagangan Rabu, ditopang saham domestik, sementara investor asing melepas saham senilai Rp335,80 miliar menjelang keputusan suku bunga BI.",
-  "date": "23 September 2026",
-  "image": "assets/img/ihsg-menguat-0-64-di-sesi-i-asing-lepas-saham-rp335-8-m.jpg",
-  "imageV": "mudtwj9f",
-  "tags": [
-   "ihsg",
-   "bi rate",
-   "saham asing",
-   "rupiah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468852-ihsg-menguat-064-di-sesi-i-tapi-investor-asing-justru-lepas-saham-rp33580-miliar"
- },
- {
-  "slug": "ppln-wakil-komisaris-utama-mundur-jadi-menteri-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "PPLN: Wakil Komisaris Utama [Mundur] Jadi Menteri Keuangan",
-  "deck": "Suahasil Nazara mengakhiri jabatan Wakil Komisaris Utama PLN usai diangkat sebagai Menteri Keuangan RI. Susunan direksi tidak berubah.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPLN",
-   "PLN",
-   "Dewan Komisaris",
-   "Suahasil Nazara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/38387cce57_ca154ac9b1.pdf",
   "sourceLabel": "IDX"
  }
 ];

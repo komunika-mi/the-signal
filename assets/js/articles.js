@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cmpp-kaji-opsi-pulihkan-ekuitas-negatif-usai-suspensi-bei",
+  "category": "Aksi Korporasi",
+  "title": "CMPP Kaji Opsi Pulihkan [Ekuitas] Negatif Usai Suspensi BEI",
+  "deck": "CMPP mengkaji restrukturisasi utang, rights issue, atau penambahan modal tanpa HMETD untuk memulihkan ekuitas negatif yang membuat sahamnya disuspensi BEI sejak Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T15:29:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8a5cc74c1_b157bacb89.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMPP",
+  "tags": [
+   "CMPP",
+   "AirAsia Indonesia",
+   "suspensi saham",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT AirAsia Indonesia Tbk (CMPP) menyampaikan keterbukaan informasi mengenai rencana pemulihan kondisi yang menyebabkan sahamnya disuspensi Bursa Efek Indonesia. Merujuk pada Peraturan BEI Nomor I-X tentang Papan Pemantauan Khusus yang terbit lewat Keputusan Direksi BEI No. Kep-00139/BEI/09-2026 tanggal 25 September 2026, saham CMPP dihentikan sementara perdagangannya sejak 30 Juni 2026 karena posisi ekuitas negatif yang tercermin dalam laporan keuangan terakhir perseroan.",
+   "Perseroan menyebut sedang mengevaluasi dan berdiskusi dengan pemegang saham mayoritas, dibantu penasihat eksternal, atas tiga alternatif untuk memperbaiki kondisi tersebut. Pertama, merestrukturisasi utang dagang dan/atau liabilitas sewa kepada entitas pengendali dan/atau pemegang saham menjadi instrumen berkarakteristik perpetual atau semi ekuitas. Kedua, menambah modal melalui penerbitan saham baru dengan memberikan hak memesan efek terlebih dahulu kepada pemegang saham lama (rights issue atau PMHMETD). Ketiga, menambah modal tanpa memberikan hak memesan efek terlebih dahulu kepada pemegang saham lama (PMTHMETD).",
+   "Perseroan menegaskan ketiga opsi itu masih dalam tahap kajian internal bersama pemegang saham dan belum ada keputusan final, dengan mempertimbangkan kebutuhan pendanaan, kelayakan implementasi, kondisi pasar, dan aturan yang berlaku. Perseroan juga membuka kemungkinan menempuh alternatif lain di luar tiga opsi tersebut jika dinilai lebih tepat. Keterbukaan informasi lanjutan dijanjikan akan disampaikan begitu ada keputusan atau perkembangan material, surat ditandatangani oleh Liza Nur Azizah selaku Head of Legal & Corporate Secretary."
+  ],
+  "fotoAdegan": "Ground crew moving luggage carts beside a parked commercial airliner on an Indonesian airport tarmac at dawn",
+  "takeaway": "Laporan ini condong negatif bagi CMPP karena mengonfirmasi bahwa kondisi ekuitas negatif yang membuat sahamnya disuspensi sejak akhir Juni 2026 belum teratasi, sementara solusi konkretnya pun belum diputuskan setelah tiga bulan berjalan. Pos yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan; kalau angkanya negatif berarti utang sudah melampaui aset, dan itu yang membuat bursa menaruh saham CMPP di Papan Pemantauan Khusus. Tiga opsi yang dikaji berbeda dampaknya bagi pemegang saham lama: mengubah utang ke pemegang saham pengendali menjadi instrumen perpetual tidak langsung menambah jumlah saham beredar, sementara rights issue dan terutama penambahan modal tanpa hak memesan efek terlebih dahulu berpotensi menambah jumlah saham beredar sehingga kepemilikan dan laba per saham pemegang lama bisa terdilusi kalau mereka tidak ikut serta. Yang perlu dipantau berikutnya adalah kapan perseroan mengumumkan alternatif mana yang akhirnya dipilih dan disetujui pemegang saham, karena surat ini belum menyebut tanggal RUPSLB atau tenggat penyelesaian, hanya janji keterbukaan lanjutan begitu ada keputusan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lppi-catatkan-obligasi-rp1-t-dan-sukuk-rp676-63-m-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "LPPI [Catatkan] Obligasi Rp1 T dan Sukuk Rp676,63 M di BEI",
+  "deck": "Mulai 1 Oktober 2026 BEI mencatatkan obligasi Rp1 triliun dan sukuk mudharabah Rp676,63 miliar tahap IV LPPI, dengan rating idA dan idA(sy) dari Pefindo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T15:14:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cba60ac95_fea9929081.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan pencatatan awal Obligasi Berkelanjutan IV Lontar Papyrus Pulp & Paper Industry (LPPI) Tahap IV Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Tahap IV Tahun 2026, efektif mulai 1 Oktober 2026. Obligasi senilai Rp1 triliun terbagi dua seri: Seri A Rp744,815 miliar berbunga tetap 10 persen per tahun selama tiga tahun jatuh tempo 30 September 2029, dan Seri B Rp255,185 miliar berbunga 10,5 persen per tahun selama lima tahun jatuh tempo 30 September 2031. Sukuk mudharabah senilai Rp676,63 miliar juga terbagi dua seri dengan nisbah bagi hasil 14,62 persen untuk Seri A dan 15,35 persen untuk Seri B, masing-masing setara imbal hasil 10 persen dan 10,5 persen per tahun. Kedua instrumen mendapat peringkat idA (Single A) untuk obligasi dan idA(sy) (Single A Syariah) untuk sukuk dari Pefindo, dengan PT Bank Pembangunan Daerah Jawa Barat dan Banten sebagai wali amanat. Pembayaran bunga dan bagi hasil pertama jatuh pada 30 Desember 2026, dibayarkan setiap tiga bulan hingga jatuh tempo.",
+   "Dokumen perbaikan informasi tambahan merinci pembagian porsi penjaminan emisi di antara delapan sekuritas. Untuk obligasi, porsi terbesar dipegang BCA Sekuritas sebesar Rp347,4 miliar atau 34,74 persen dan Aldiracita Sekuritas Rp289,275 miliar atau 28,93 persen, disusul KB Valbury Sekuritas 15,50 persen, Indo Premier Sekuritas 12,49 persen, Mandiri Sekuritas 2,91 persen, Trimegah Sekuritas 2,62 persen, BNI Sekuritas 2,01 persen, dan Maybank Sekuritas Indonesia 0,80 persen. Untuk sukuk, urutannya berbeda: Aldiracita Sekuritas memegang porsi terbesar Rp203,4 miliar atau 30,06 persen, BNI Sekuritas 19,62 persen, Maybank Sekuritas Indonesia 16,26 persen, Mandiri Sekuritas 12,91 persen, KB Valbury Sekuritas 8,14 persen, Trimegah Sekuritas 6,85 persen, Indo Premier Sekuritas 5,78 persen, dan BCA Sekuritas hanya 0,38 persen.",
+   "Penerbitan tahap IV ini merupakan bagian dari program Obligasi Berkelanjutan IV dengan target total Rp5 triliun dan Sukuk Mudharabah Berkelanjutan II dengan target Rp3 triliun, yang efektif sejak 2 Desember 2025. Menjumlahkan seluruh tahap sejak 2025, LPPI telah menerbitkan obligasi senilai Rp3,35 triliun dari target Rp5 triliun setelah tahap I hingga IV berturut-turut Rp500 miliar, Rp1.048,98 miliar, Rp800,895 miliar, dan Rp1 triliun. Untuk sukuk, akumulasi empat tahap yaitu Rp500 miliar, Rp1.551,33 miliar, Rp272,04 miliar, dan Rp676,63 miliar membuat program ini sudah mencapai Rp3 triliun penuh, sama dengan target awalnya."
+  ],
+  "fotoAdegan": "Wide interior shot of a pulp and paper mill with stacked paper rolls and workers in hard hats near conveyor belts, industrial morning light",
+  "takeaway": "Laporan ini netral bagi LPPI karena hanya menuntaskan pencatatan resmi di bursa atas program utang yang sudah direncanakan dan sebagian sudah diberitakan sebelumnya, tanpa ada dana baru di luar yang telah diumumkan pada 24 dan 28 September lalu. Yang tersentuh adalah pos beban bunga dan kewajiban jangka panjang perusahaan, karena LPPI kini terikat membayar bunga tetap 10 sampai 10,5 persen per tahun setiap tiga bulan selama tiga sampai lima tahun ke depan, sementara jaminannya bersifat umum atas seluruh aset perusahaan, bukan aset khusus, sehingga pelaku pasar mencermati kemampuan arus kas perusahaan menanggung cicilan bunga ini. Perlu dicatat juga bahwa program sukuk mudharabahnya kini sudah mencapai penuh target Rp3 triliun, sementara program obligasinya baru terisi Rp3,35 triliun dari target Rp5 triliun, menyisakan ruang untuk tahap penerbitan berikutnya. Yang perlu dipantau selanjutnya adalah realisasi pembayaran bunga dan bagi hasil pertama pada 30 Desember 2026, serta kewajiban LPPI melaporkan peringkat tahunan efek ini ke OJK paling lambat 10 hari kerja setelah masa berlaku peringkat terakhir berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbrm-rampungkan-pembelian-kapal-ahts-senilai-us-12-1-juta",
+  "category": "Aksi Korporasi",
+  "title": "BBRM [Rampungkan] Pembelian Kapal AHTS Senilai US$12,1 Juta",
+  "deck": "Perseroan menerima serah terima kapal Anchor Handling Tug Supply MP Maverick dari Great Union China Limited senilai US$12,1 juta, dibiayai sebagian dari kredit Bank IBK Rp120 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T14:30:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca1c088d73_6d431b3ff6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBRM",
+  "tags": [
+   "BBRM",
+   "AHTS",
+   "akuisisi kapal",
+   "pelayaran"
+  ],
+  "body": [
+   "PT Pelayaran Nasional Bina Buana Raya Tbk (BBRM) menyampaikan keterbukaan informasi kedua bahwa perseroan telah menerima serah terima kapal Anchor Handling Tug Supply (AHTS) 80T BP bernama MP Maverick berkapasitas 6.000 BHP dari Great Union China Limited, pihak yang tidak terafiliasi dengan perseroan. Kapal ini dibeli lewat perjanjian yang diteken pada 30 Oktober 2024 senilai US$12,1 juta dan kini sudah siap dioperasikan.",
+   "Nilai transaksi tersebut setara 31,8 persen dari ekuitas perseroan yang tercatat US$38 juta per 31 Desember 2024 berdasarkan laporan auditor Hertanto, Grace & Karunawan, sehingga transaksi ini tidak memerlukan persetujuan Rapat Umum Pemegang Saham. Perseroan juga menunjuk KJPP Rengganis, Hamid & Rekan sebagai penilai independen untuk menaksir nilai pasar kapal tersebut. Hasilnya, kapal dinilai seharga Rp230,911 miliar atau setara US$13.006.872 dengan kurs Rp17.753 per dolar AS pada 18 September 2026, sekitar US$900 ribu lebih tinggi dari harga pembelian.",
+   "Perseroan menyatakan pembelian ini ditujukan untuk menambah armada dan meningkatkan pendapatan sewa di bisnis kapal penunjang lepas pantai. Dari sisi keuangan, aset perseroan bertambah US$12,1 juta seiring masuknya kapal baru, sementara liabilitas turut naik karena sebagian pembelian dibiayai kredit investasi dari PT Bank IBK senilai Rp120 miliar atau setara US$7,26 juta."
+  ],
+  "fotoAdegan": "An offshore anchor handling tug supply vessel cruising near a support platform at sea, deck crew in safety gear, overcast daylight",
+  "takeaway": "Transaksi ini condong positif bagi BBRM karena kapal yang baru diserahterimakan langsung siap beroperasi, dan nilai taksiran independennya, sekitar US$13 juta, ternyata lebih tinggi dari harga beli US$12,1 juta, menandakan perseroan mendapat kapal di bawah harga pasar. Pos yang tersentuh adalah aset dan utang: aset perseroan bertambah US$12,1 juta seiring masuknya kapal baru, sementara liabilitas ikut naik karena sebagian pembelian dibiayai kredit investasi Rp120 miliar dari Bank IBK, yang berarti beban bunga ke depan juga bertambah meski besarannya belum dirinci dalam laporan ini. Yang perlu dipantau berikutnya adalah kontribusi kapal ini pada pendapatan sewa di laporan keuangan kuartal mendatang, sebab dokumen ini tidak mencantumkan RUPS ataupun tenggat lain karena nilai transaksinya berada di bawah ambang batas yang mewajibkan persetujuan pemegang saham.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pnbs-bantah-punya-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "PNBS Bantah Punya Informasi Material di Balik [Volatilitas] Saham",
+  "deck": "Bank Panin Dubai Syariah menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T13:28:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6b3c4a436_0f44b930a6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNBS",
+  "tags": [
+   "PNBS",
+   "Bank Panin Dubai Syariah",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Bank Panin Dubai Syariah Tbk. (PNBS) mengirim surat penjelasan bernomor 025/DSH/EXT/IX/2026 pada 30 September 2026, merespons permintaan Bursa Efek Indonesia melalui surat nomor S-12536/BEI.PP1/09-2026 tanggal 29 September 2026 terkait volatilitas transaksi efek perseroan. Surat itu ditandatangani oleh Corporate Secretary Slamet Haryanto Pradhana.",
+   "Dalam jawabannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai saham atau keputusan investasi pemodal, selain yang sudah diungkap lewat pelaporan keterbukaan informasi di IDXnet. Perseroan juga mengaku tidak mengetahui adanya aktivitas atau transaksi dari pemegang saham tertentu, dan Corporate Secretary menyebut belum menerima informasi dari pengendali maupun pemegang saham utama soal rencana kepemilikan saham mereka di perseroan.",
+   "Soal rencana aksi korporasi, PNBS hanya menyebut agenda Public Expose Tahunan dalam waktu dekat, yang akan diumumkan dan dimuat di situs Bursa Efek Indonesia sesuai ketentuan yang berlaku. Tidak ada tanggal pasti yang dicantumkan untuk agenda tersebut dalam surat ini."
+  ],
+  "fotoAdegan": "Exterior of a modern Islamic bank branch with glass facade in a Jakarta business district, pedestrians passing by at midday",
+  "takeaway": "Penilaian di sini netral, sebab surat ini isinya penyangkalan standar bahwa tidak ada informasi tersembunyi, bukan pengumuman perubahan kondisi keuangan atau kepemilikan yang konkret. Laporan ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham, karena sifatnya memang administratif menjawab kecurigaan bursa atas pergerakan harga atau volume transaksi yang tidak biasa, bukan mengungkap perubahan fundamental. Yang perlu dicermati investor adalah bahwa surat ini tidak menyebutkan angka pergerakan harga atau volume yang memicu pertanyaan BEI, sehingga penyebab volatilitas itu sendiri tetap belum terjelaskan ke publik. Agenda yang perlu ditunggu berikutnya adalah pelaksanaan Public Expose Tahunan yang dijanjikan perseroan, meski tanggal pastinya belum diumumkan dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "lapd-cetak-ekuitas-negatif-auditor-soroti-kelangsungan-usaha",
   "category": "Aksi Korporasi",
   "title": "LAPD Cetak Ekuitas Negatif, Auditor Soroti [Kelangsungan] Usaha",

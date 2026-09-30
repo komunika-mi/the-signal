@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "apic-catat-rugi-bersih-rp71-5-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "APIC Catat [Rugi] Bersih Rp71,5 Miliar di Semester I 2026",
+  "deck": "Laporan keuangan interim auditan Pacific Strategic Financial (APIC) menunjukkan bisnis berbalik rugi bersih Rp71,5 miliar pada semester I 2026, dari laba Rp16,8 miliar setahun sebelumnya.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APIC",
+   "laporan keuangan",
+   "rugi bersih",
+   "asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261001033936-64448-0/FinancialStatement-2026-II-APIC.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "brna-koreksi-laporan-keuangan-siapkan-rights-issue-rp372-6-miliar",
   "category": "Aksi Korporasi",
   "title": "BRNA Koreksi Laporan Keuangan, Siapkan [Rights Issue] Rp372,6 Miliar",
@@ -6480,22 +6496,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/843fd0cdbe_2e84ce55ea.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "the-telkom-hub-capai-status-net-zero-emisi-karbon",
-  "category": "Energi",
-  "title": "The Telkom Hub Capai Status [Net Zero] Emisi Karbon",
-  "deck": "Telkom mengklaim kawasan The Telkom Hub capai nol emisi karbon langsung dan dari listrik lewat sertifikat energi terbarukan, bagian dari peta jalan menuju net zero emission 2060.",
-  "date": "23 September 2026",
-  "image": "assets/img/the-telkom-hub-capai-status-net-zero-emisi-karbon.jpg",
-  "imageV": "mued3d5z",
-  "tags": [
-   "Telkom",
-   "Net Zero Emission",
-   "Energi Terbarukan",
-   "Dekarbonisasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468975-the-telkom-hub-capai-net-zero-emisi-66-lokasi-pop-telkom-menggunakan-21-persen-energi-terbarukan"
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "apic-catat-rugi-bersih-rp71-5-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "APIC Catat [Rugi] Bersih Rp71,5 Miliar di Semester I 2026",
+  "deck": "Laporan keuangan interim auditan Pacific Strategic Financial (APIC) menunjukkan bisnis berbalik rugi bersih Rp71,5 miliar pada semester I 2026, dari laba Rp16,8 miliar setahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T03:27:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261001033936-64448-0/FinancialStatement-2026-II-APIC.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APIC",
+  "tags": [
+   "APIC",
+   "laporan keuangan",
+   "rugi bersih",
+   "asuransi"
+  ],
+  "body": [
+   "PT Pacific Strategic Financial Tbk (APIC) menyampaikan laporan keuangan interim auditan untuk periode enam bulan yang berakhir 30 Juni 2026. Pendapatan perusahaan naik tipis menjadi Rp1,01 triliun dari Rp990,42 miliar pada semester I 2025, namun perusahaan justru membukukan rugi usaha Rp40,66 miliar, berbalik dari laba usaha Rp8,05 miliar setahun sebelumnya. Rugi bersih periode berjalan tercatat Rp71,52 miliar, berbalik dari laba bersih Rp16,76 miliar, sehingga rugi per saham dasar menjadi Rp6,30 dari sebelumnya laba Rp1,22 per saham.",
+   "Dari sisi neraca, total aset perusahaan naik menjadi Rp8,85 triliun per 30 Juni 2026 dari Rp8,52 triliun per akhir 2025. Total ekuitas justru naik menjadi Rp3,86 triliun dari Rp3,21 triliun, ditopang laba komprehensif yang tetap positif Rp185,83 miliar meski turun dari Rp327,43 miliar tahun lalu. Liabilitas jangka pendek turun tajam menjadi Rp305,75 miliar dari Rp513,17 miliar, membuat rasio lancar melonjak ke 2.879% dari 1.650,5%. Perusahaan memiliki empat anak usaha utama yang seluruhnya berkedudukan di Menara Jamsostek, Jakarta: PT Pacific Sekuritas Indonesia (94,46% kepemilikan, perantara pedagang efek), PT Pacific Capital Investment (97,02%, manajer investasi), PT Pacific Multi Finance (99,99%, lembaga pembiayaan), dan PT Pacific Strategic Invesco (99,99%, konsultasi manajemen).",
+   "KAP Andi Ruswandi, Wisnu & Rekan memberikan opini wajar tanpa modifikasian atas laporan ini, ditandatangani partner Andi Ruswandi pada 30 September 2026, auditor yang sama dengan tahun sebelumnya. Auditor menyoroti dua hal audit utama, yakni penilaian portofolio investasi senilai Rp3,97 triliun yang mewakili 44,85% dari total aset konsolidasian, dan liabilitas kontrak asuransi senilai Rp2,96 triliun yang melibatkan estimasi aktuaria kompleks menyusul penerapan standar akuntansi baru PSAK 117. Auditor juga mencantumkan paragraf penekanan atas reklasifikasi akun investasi tanah dan penyertaan langsung beserta piutang terkait menjadi piutang lain-lain, meski opini audit tidak berubah karenanya. Surat pernyataan direksi ditandatangani Direktur Utama Jon Adijaya dan Direktur Wiyana di Jakarta pada 30 September 2026."
+  ],
+  "fotoAdegan": "Modern glass office tower reflecting afternoon sky in Jakarta's business district, busy street traffic in the foreground.",
+  "takeaway": "Laporan ini condong negatif bagi Pacific Strategic Financial, karena bisnis intinya berbalik rugi meski pendapatan sedikit naik. Yang paling mencolok adalah laba per saham yang berbalik jadi minus Rp6,30 dari plus Rp1,22 setahun sebelumnya, tanda bahwa keuntungan yang jadi hak tiap lembar saham investor justru berubah jadi kerugian. Ekuitas, yaitu selisih aset dikurangi utang yang menjadi hak pemegang saham, tetap naik jadi Rp3,86 triliun, tapi itu ditopang kenaikan nilai portofolio investasi yang belum dicairkan, bukan dari kinerja bisnis asuransi dan pembiayaan yang justru melemah. Yang perlu dipantau berikutnya adalah kemampuan Grup mengelola liabilitas kontrak asuransi, yaitu kewajiban membayar klaim polis nasabah di masa depan senilai Rp2,96 triliun yang disebut auditor sebagai hal audit utama, serta tindak lanjut reklasifikasi akun investasi tanah di Catatan 40 pada laporan tahunan 2026 mendatang.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "brna-koreksi-laporan-keuangan-siapkan-rights-issue-rp372-6-miliar",
   "category": "Aksi Korporasi",
   "title": "BRNA Koreksi Laporan Keuangan, Siapkan [Rights Issue] Rp372,6 Miliar",

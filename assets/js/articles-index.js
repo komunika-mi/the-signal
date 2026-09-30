@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "towr-siapkan-buyback-saham-rp500-miliar-hingga-desember",
+  "category": "Aksi Korporasi",
+  "title": "TOWR Siapkan [Buyback] Saham Rp500 Miliar hingga Desember",
+  "deck": "Sarana Menara Nusantara mengalokasikan hingga Rp500 miliar kas internal untuk membeli kembali sekitar 1,18 miliar sahamnya, setara 2 persen modal disetor, sampai akhir Desember 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOWR",
+   "buyback saham",
+   "Sarana Menara Nusantara",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac0c613fdb_62d605d5b5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rock-klarifikasi-ke-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "ROCK Klarifikasi ke BEI soal [Volatilitas] Transaksi Saham",
+  "deck": "Setelah BEI meminta penjelasan atas gerak harga sahamnya yang tak biasa, Rockfields Properti Indonesia (ROCK) menyatakan tidak memiliki informasi material yang belum diungkap ke publik.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ROCK",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ba49a5842_a007ff65b3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtfn-umumkan-rencana-rupst-pada-6-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Umumkan Rencana [RUPST] pada 6 November 2026",
+  "deck": "Capitalinc Investment (MTFN) menjadwalkan RUPST pada 6 November 2026, dengan pencatatan pemegang saham 14 Oktober dan batas usul pemegang saham 8 Oktober 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTFN",
+   "RUPST",
+   "Capitalinc Investment",
+   "Corporate Action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/07433b1134_0dcf14d96a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gema-komisaris-mundur-sebelum-rups-setujui",
+  "category": "Aksi Korporasi",
+  "title": "GEMA: Komisaris [Mundur] Sebelum RUPS Setujui",
+  "deck": "Prof. Agustinus Purna Irawan mengundurkan diri sebagai Komisaris Gema Grahasarana pada 28 September 2026, keputusan final menunggu RUPS terdekat.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GEMA",
+   "komisaris",
+   "pengunduran diri",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e035b47711_e56ec55dac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jelang-wajib-halal-2026-kemendag-dorong-sertifikasi-ekspor-umk",
   "category": "Bisnis",
   "title": "Jelang Wajib Halal 2026, Kemendag Dorong [Sertifikasi] Ekspor UMK",
@@ -21,6 +85,54 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/jelang-wajib-halal-kemendag-dorong-penguatan-mutu-dan-sertifikasi-halal-untuk-menghubungkan-produk-indonesia-ke-dunia",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bris-siapkan-rights-issue-ii-terbitkan-6-8-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Siapkan [Rights Issue] II, Terbitkan 6,8 Miliar Saham",
+  "deck": "Bank Syariah Indonesia berencana menerbitkan hingga 6,8 miliar saham baru lewat rights issue kedua untuk memperkuat modal. RUPSLB digelar 6 November 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIS",
+   "rights issue",
+   "PMHMETD",
+   "Bank Syariah Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3843b4a65f_56f23bc00c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bris-jadwalkan-rupslb-pada-6-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Jadwalkan [RUPSLB] pada 6 November 2026",
+  "deck": "Bank Syariah Indonesia menjadwalkan RUPS Luar Biasa 6 November 2026, dengan pencatatan pemegang saham per 14 Oktober dan agenda resmi terbit 15 Oktober.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIS",
+   "RUPSLB",
+   "Bank Syariah Indonesia",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8d2161f481_03e81f51b6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "edge-suntik-modal-rp5-miliar-ke-anak-usaha-dge",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Suntik [Modal] Rp5 Miliar ke Anak Usaha DGE",
+  "deck": "Indointernet menambah modal anak usahanya, PT Digital Gayana Ekakarsa, senilai Rp5 miliar untuk belanja modal, transaksi afiliasi yang dikecualikan dari aturan benturan kepentingan OJK.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "Indointernet",
+   "transaksi afiliasi",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a0d9f12af7_48b107658d.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "sfan-jual-51-95-saham-dpi-ke-induk-usaha-rp15-73-m-divestasi",
@@ -6384,118 +6496,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7d9540f69c_d23420e3eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "army-umumkan-rencana-rupslb-pada-30-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "ARMY Umumkan Rencana [RUPSLB] pada 30 Oktober 2026",
-  "deck": "PT Armidian Karyatama Tbk akan menggelar RUPSLB pada 30 Oktober 2026. Pemegang saham per 7 Oktober berhak hadir, agenda rapat belum diumumkan.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARMY",
-   "RUPSLB",
-   "Armidian Karyatama",
-   "korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/71cd91f0c9_2504546e4b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-direksi-mcleod-jual-lagi-524-300-saham-rp7-01-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BYAN: Direksi [McLeod] Jual Lagi 524.300 Saham, Rp7,01 Miliar",
-  "deck": "Direksi Bayan Resources, Alastair Gordon Christopher McLeod, menjual 524.300 saham BYAN pada 22 September 2026, hari kedua berturut-turut ia mengurangi kepemilikannya.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "Bayan Resources",
-   "McLeod",
-   "laporan kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9874-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "suspensi-unsp-dicabut-saham-kembali-diperdagangkan",
-  "category": "Aksi Korporasi",
-  "title": "Suspensi UNSP Dicabut, Saham [Kembali] Diperdagangkan",
-  "deck": "IDX mencabut suspensi saham Bakrie Sumatera Plantations (UNSP) mulai pra-pembukaan Rabu, 23 September 2026, setelah laporan keuangan Agustus mencatat ekuitas positif.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNSP",
-   "suspensi saham",
-   "Bursa Efek Indonesia",
-   "ekuitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/097410eb29_2bf9cc088d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-pinjamkan-saham-via-repo-suara-24-57",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Pinjamkan Saham via Repo, Suara [24,57%]",
-  "deck": "Direksi NSSS, Samuel Tumbuh Bersama, melepas 1,84 miliar saham lewat repurchase agreement untuk peminjaman saham pada 22 September 2026, menurunkan hak suaranya dari 32,29 persen menjadi 24,57 persen.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2558-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-lepas-saham-via-repo-suara-ke-32-29",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Lepas Saham via [Repo], Suara ke 32,29%",
-  "deck": "Samuel Tumbuh Bersama melepas 1,06 miliar saham NSSS lewat perjanjian repo pada 21 September 2026, menurunkan hak suaranya dari 36,75% menjadi 32,29%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7669-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apex-konversi-utang-us-4-1-juta-ke-saham-dilusi-5-79",
-  "category": "Aksi Korporasi",
-  "title": "APEX Konversi Utang US$4,1 Juta ke Saham, [Dilusi] 5,79%",
-  "deck": "Apexindo menerbitkan 218,09 juta saham baru seharga Rp325 per saham untuk melunasi utang US$4,1 juta ke sindikasi kreditur asing, RUPSLB digelar 7 Oktober 2026.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APEX",
-   "Apexindo",
-   "konversi utang",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d833e27606_e3b2eaff15.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mkpi-hak-suara-direksi-anjlok-jadi-0-78-usai-peminjaman-saham",
-  "category": "Aksi Korporasi",
-  "title": "MKPI: Hak Suara Direksi Anjlok jadi 0,78% usai [Peminjaman] Saham",
-  "deck": "Direksi MKPI Samuel Tumbuh Bersama melaporkan pengalihan 49,4 juta saham lewat skema peminjaman saham, hak suaranya turun dari 5,99% menjadi 0,78%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKPI",
-   "kepemilikan saham",
-   "direksi",
-   "peminjaman saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-6148-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

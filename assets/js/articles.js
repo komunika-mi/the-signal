@@ -3,6 +3,109 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "towr-siapkan-buyback-saham-rp500-miliar-hingga-desember",
+  "category": "Aksi Korporasi",
+  "title": "TOWR Siapkan [Buyback] Saham Rp500 Miliar hingga Desember",
+  "deck": "Sarana Menara Nusantara mengalokasikan hingga Rp500 miliar kas internal untuk membeli kembali sekitar 1,18 miliar sahamnya, setara 2 persen modal disetor, sampai akhir Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T11:25:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac0c613fdb_62d605d5b5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "buyback saham",
+   "Sarana Menara Nusantara",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Sarana Menara Nusantara Tbk (TOWR) mengumumkan rencana pembelian kembali (buyback) sahamnya sendiri dengan memanfaatkan kelonggaran Otoritas Jasa Keuangan bagi emiten di tengah kondisi pasar yang berfluktuasi signifikan, sebagaimana diatur dalam Surat OJK No. S-112/D.04/2026 tanggal 9 September 2026. Karena memakai skema ini, rencana tersebut bisa langsung dijalankan tanpa perlu persetujuan rapat umum pemegang saham. Perseroan memperkirakan dana yang dipakai maksimal Rp500 miliar, di luar biaya transaksi dan komisi broker, untuk membeli sekitar 1.183.151.916 lembar saham atau setara 2 persen dari modal ditempatkan dan disetor perseroan. Periode pembelian berlangsung mulai 30 September 2026 sampai 30 Desember 2026, dengan PT BCA Sekuritas ditunjuk sebagai pelaksana, dan perseroan bisa menghentikan program lebih awal jika target dana atau jumlah saham sudah tercapai.",
+   "Dana buyback berasal dari kas internal perseroan. Manajemen menyatakan program ini tidak akan berdampak material terhadap pendapatan, kegiatan usaha, maupun kinerja keuangan, dan ditujukan untuk menjaga stabilitas harga saham serta memberi fleksibilitas menuju struktur permodalan yang lebih efisien.",
+   "Dalam simulasi proforma per 30 Juni 2026, jika seluruh dana Rp500 miliar terpakai, total aset perseroan turun dari Rp81,842 triliun menjadi Rp81,342 triliun dan ekuitas turun dari Rp29,088 triliun menjadi Rp28,588 triliun. Laba bersih yang menjadi hak pemilik entitas induk tidak berubah, tetap Rp1,857 triliun, tetapi karena jumlah saham yang beredar berkurang, laba per saham diperkirakan naik dari Rp31,91 menjadi Rp32,57."
+  ],
+  "fotoAdegan": "Telecommunication towers standing on a green hillside in rural Indonesia, a technician checking cables at the base, late afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental TOWR karena dampaknya dua arah: kas dan modal perusahaan berkurang, tapi laba per saham justru naik, sehingga tidak bisa dibaca sebagai sinyal kuat ke satu arah. Yang tersentuh langsung adalah ekuitas, yaitu modal sendiri perusahaan yang tercatat di neraca, yang turun Rp500 miliar karena dipakai membeli saham sendiri secara tunai dari kas internal. Di sisi lain laba per saham, yakni bagian laba bersih yang menjadi hak tiap lembar saham, naik dari Rp31,91 menjadi Rp32,57 semata karena jumlah saham yang beredar berkurang, bukan karena labanya membesar. Pelaku pasar perlu memantau realisasi pembelian sepanjang 30 September sampai 30 Desember 2026, termasuk kemungkinan perseroan mengumumkan penghentian lebih awal jika target dana atau jumlah saham sudah tercapai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rock-klarifikasi-ke-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "ROCK Klarifikasi ke BEI soal [Volatilitas] Transaksi Saham",
+  "deck": "Setelah BEI meminta penjelasan atas gerak harga sahamnya yang tak biasa, Rockfields Properti Indonesia (ROCK) menyatakan tidak memiliki informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T11:19:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ba49a5842_a007ff65b3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ROCK",
+  "tags": [
+   "ROCK",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Rockfields Properti Indonesia Tbk. (ROCK) mengirim surat tanggapan bernomor 023/RPI/CORSEC/IX/2026 kepada Bursa Efek Indonesia pada 30 September 2026, menjawab permintaan penjelasan BEI melalui surat nomor S-12491/BEI.PP2/09-2026 tertanggal 29 September 2026 perihal volatilitas transaksi efek ROCK. Surat itu ditandatangani oleh Robert yang menjabat Manager di perseroan.",
+   "Dalam tanggapannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Nomor I-E BEI. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham dan penjaminan saham, serta belum memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang bisa berdampak pada status pencatatan sahamnya di bursa.",
+   "Poin terakhir surat menyebutkan bahwa pemegang saham pengendali dan/atau pemegang saham utama Rockfields hingga saat ini belum memiliki rencana terkait kepemilikan sahamnya di perseroan. Perseroan menegaskan tidak ada kejadian penting lain yang bersifat material dan berpotensi memengaruhi harga saham atau kelangsungan usahanya yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Exterior view of a glass clad high rise office tower in a Jakarta business district under a bright afternoon sky, low angle.",
+  "takeaway": "Laporan ini condong netral bagi ROCK karena keenam jawabannya seragam menyatakan tidak ada informasi baru, tidak ada rencana aksi korporasi, dan pemegang saham utama belum berniat mengubah kepemilikannya, sehingga surat ini tidak membawa angka atau peristiwa yang mengubah kondisi keuangan perusahaan. Karena tidak ada perubahan yang diungkap, pos-pos seperti ekuitas (selisih aset dan utang perusahaan) atau laba per saham (keuntungan bersih dibagi jumlah saham yang beredar) tetap berada di posisi terakhir yang sudah diketahui pasar, jadi surat ini murni pemenuhan kewajiban keterbukaan setelah bursa mempertanyakan pergerakan harga sahamnya yang tidak biasa. Yang perlu dipantau adalah apakah dalam tiga bulan ke depan, sekitar akhir Desember 2026, ROCK benar-benar tidak mengambil aksi korporasi seperti yang dinyatakan, dan apakah volatilitas harga sahamnya mereda atau justru mengundang permintaan penjelasan berulang dari BEI.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtfn-umumkan-rencana-rupst-pada-6-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Umumkan Rencana [RUPST] pada 6 November 2026",
+  "deck": "Capitalinc Investment (MTFN) menjadwalkan RUPST pada 6 November 2026, dengan pencatatan pemegang saham 14 Oktober dan batas usul pemegang saham 8 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T10:56:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/07433b1134_0dcf14d96a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTFN",
+  "tags": [
+   "MTFN",
+   "RUPST",
+   "Capitalinc Investment",
+   "Corporate Action"
+  ],
+  "body": [
+   "Capitalinc Investment Tbk (MTFN) melalui surat resmi Corporate Secretary Gideon Tampubolon tertanggal 30 September 2026 mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku yang berakhir 31 Desember 2025. Rapat dijadwalkan pada Jumat, 6 November 2026 pukul 10.00 WIB, bertempat di Kantor Taman E3.3, Unit D3A, Lantai 5, Jl. DR. Ide Anak Agung Gde Agung, Kuningan, Jakarta Selatan.",
+   "Perseroan menetapkan 14 Oktober 2026 pukul 16.00 WIB sebagai tanggal pencatatan pemegang saham yang berhak hadir. Untuk saham yang tidak berada dalam penitipan kolektif, yang berhak adalah pemegang saham yang namanya tercatat di PT Ficomindo Buana Registrar, biro administrasi efek perseroan yang beralamat di Jl. Jend. Sudirman Kav. 75, Jakarta. Sementara untuk saham dalam penitipan kolektif, pemegang rekening efek KSEI wajib meminta Konfirmasi Tertulis Untuk Rapat (KTUR) agar bisa hadir atau diwakilkan.",
+   "Dalam pengumuman ini, Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan agenda rapat, dengan syarat usulan tersebut memenuhi ketentuan Anggaran Dasar dan POJK No. 15/POJK.04/2020, serta diterima Direksi paling lambat 7 hari sebelum tanggal pemanggilan resmi, yaitu Kamis, 8 Oktober 2026. Agenda lengkap RUPST sendiri belum diungkapkan dalam surat ini dan baru akan disampaikan melalui panggilan resmi menjelang rapat."
+  ],
+  "fotoAdegan": "Empty modern boardroom with a long wooden table and rows of chairs, glass windows overlooking a Jakarta office tower, soft morning light",
+  "takeaway": "Pengumuman ini netral bagi kinerja MTFN karena isinya baru sebatas jadwal administratif menuju rapat tahunan, belum ada keputusan keuangan seperti pembagian dividen atau perubahan modal yang diumumkan. RUPST nantinya lazim mengesahkan laporan keuangan tahunan dan bisa memutuskan alokasi laba termasuk dividen, yang berarti menyentuh pos ekuitas perusahaan karena laba ditahan berkurang jika sebagian dibagikan ke pemegang saham, tetapi keputusan itu belum ada di dokumen ini. Yang perlu dipantau berikutnya adalah batas akhir pemegang saham mengajukan usul agenda pada Kamis, 8 Oktober 2026, tanggal pencatatan pemegang saham pada 14 Oktober 2026 yang menentukan siapa berhak hadir, serta pemanggilan resmi RUPST yang akan memuat agenda lengkap sebelum rapat digelar pada 6 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gema-komisaris-mundur-sebelum-rups-setujui",
+  "category": "Aksi Korporasi",
+  "title": "GEMA: Komisaris [Mundur] Sebelum RUPS Setujui",
+  "deck": "Prof. Agustinus Purna Irawan mengundurkan diri sebagai Komisaris Gema Grahasarana pada 28 September 2026, keputusan final menunggu RUPS terdekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T10:54:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e035b47711_e56ec55dac.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GEMA",
+  "tags": [
+   "GEMA",
+   "komisaris",
+   "pengunduran diri",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Gema Grahasarana Tbk (GEMA) melaporkan ke Otoritas Jasa Keuangan bahwa perusahaan menerima surat pengunduran diri Prof. Dr. Ir. Agustinus Purna Irawan, M.T., M.M., IPU, ASEAN Eng., dari jabatannya sebagai Komisaris Perseroan. Surat itu diterima pada 28 September 2026. Laporan disampaikan oleh Corporate Secretary GEMA, Ferlina Sutandi, pada 30 September 2026, dengan merujuk pada Pasal 9 Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik.",
+   "Perseroan menyatakan pengunduran diri ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya. Namun sesuai Pasal 8 ayat 3 dari peraturan yang sama, keputusan untuk menyetujui atau menolak permohonan pengunduran diri tersebut baru akan diambil dalam Rapat Umum Pemegang Saham (RUPS) terdekat. Dokumen yang diterbitkan belum mencantumkan tanggal RUPS tersebut maupun alasan di balik pengunduran diri sang komisaris."
+  ],
+  "fotoAdegan": "Rows of modern office chairs and a polished conference table inside a quiet furniture showroom, soft daylight through large windows",
+  "takeaway": "Laporan ini condong netral bagi fundamental GEMA, karena yang berubah baru satu kursi komisaris dan perusahaan sendiri menyatakan tidak ada dampak operasional atau keuangan. Perubahan di jajaran komisaris tetap dicermati pasar karena komisaris adalah organ yang mengawasi kinerja direksi, jadi kekosongan atau pergantian di posisi ini bisa memengaruhi kualitas pengawasan sampai kursi itu diisi kembali, meski di sini belum ada indikasi masalah tata kelola yang disebutkan dalam dokumen. Yang perlu dipantau selanjutnya adalah Rapat Umum Pemegang Saham terdekat, tempat pemegang saham akan memutuskan menerima atau menolak pengunduran diri ini sekaligus kemungkinan menentukan pengganti, namun tanggal RUPS tersebut belum diumumkan dalam laporan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "jelang-wajib-halal-2026-kemendag-dorong-sertifikasi-ekspor-umk",
   "category": "Bisnis",
   "title": "Jelang Wajib Halal 2026, Kemendag Dorong [Sertifikasi] Ekspor UMK",
@@ -29,6 +132,84 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah bukan aturan baru, melainkan kampanye penguatan kesiapan menjelang tenggat wajib sertifikasi halal yang mulai berlaku 18 Oktober 2026, dibarengi data bahwa rantai nilai halal sudah menyumbang 26,73 persen dari PDB pada kuartal II 2025 dan pasar halal dunia diproyeksikan tumbuh dari US$2,6 triliun pada 2024 menjadi US$3,6 triliun pada 2029. Pihak yang paling terdampak adalah pelaku usaha, terutama usaha mikro dan kecil, yang produknya wajib bersertifikat halal sebelum tenggat tersebut, serta eksportir yang membidik pasar dengan permintaan produk halal seperti Timur Tengah dan Asia Tenggara. Arah kebijakannya adalah menjadikan sertifikasi halal bukan sekadar syarat administratif, melainkan alat pembuka akses ekspor, terlihat dari dilibatkannya atase perdagangan untuk mempromosikan lembaga pemeriksa halal milik Kemendag ke pasar luar negeri. Yang belum tergambar dari siaran ini adalah berapa banyak pelaku usaha, khususnya UMK, yang sudah benar-benar mengantongi sertifikat halal menjelang tenggat 18 Oktober 2026, sehingga sulit menilai seberapa besar kesenjangan kesiapan yang masih harus dikejar.",
   "imageV": "munk84o9"
+ },
+ {
+  "slug": "bris-siapkan-rights-issue-ii-terbitkan-6-8-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Siapkan [Rights Issue] II, Terbitkan 6,8 Miliar Saham",
+  "deck": "Bank Syariah Indonesia berencana menerbitkan hingga 6,8 miliar saham baru lewat rights issue kedua untuk memperkuat modal. RUPSLB digelar 6 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T10:17:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3843b4a65f_56f23bc00c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "rights issue",
+   "PMHMETD",
+   "Bank Syariah Indonesia"
+  ],
+  "body": [
+   "PT Bank Syariah Indonesia Tbk (BRIS) mengumumkan rencana Penambahan Modal Dengan Memberikan Hak Memesan Efek Terlebih Dahulu II atau rights issue kedua, dengan menerbitkan sebanyak-banyaknya 6.800.000.000 saham seri B baru bernilai nominal Rp500 per saham. Saham baru berasal dari portepel perseroan, akan dicatatkan di Bursa Efek Indonesia, dan memiliki hak yang sama termasuk hak dividen dengan saham seri B yang sudah beredar. Penyetoran atas saham baru ini dilakukan secara tunai. Rencana ini masih berupa usulan yang tunduk pada persetujuan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan Jumat, 6 November 2026, serta pernyataan efektif dari Otoritas Jasa Keuangan (OJK) atas pernyataan pendaftaran perseroan.",
+   "Seluruh dana hasil rights issue ini, setelah dikurangi biaya emisi, akan digunakan untuk penyaluran pembiayaan guna mendukung pertumbuhan bisnis BSI. Rincian final penggunaan dana baru akan diungkapkan dalam prospektus. Perseroan memproyeksikan modal untuk mendukung bisnis pada 2027 naik dari Rp51,07 triliun menjadi Rp64,41 triliun, sementara rasio kecukupan modal (CAR) diproyeksikan naik dari 20,38 persen menjadi 23,31 persen. Penguatan modal ini juga disebut mendukung upaya BSI menaikkan kelompok bank berdasarkan modal inti sesuai ketentuan yang berlaku.",
+   "Perseroan menegaskan berhak menerbitkan sebagian atau seluruh dari jumlah maksimum saham yang disetujui RUPSLB, sementara harga pelaksanaan dan jumlah final saham baru baru akan diungkapkan dalam prospektus. Pemegang saham yang tidak menggunakan haknya akan mengalami dilusi kepemilikan sebanyak-banyaknya 12,85 persen. Sesuai Pasal 8 ayat 3 POJK Penambahan Modal, jangka waktu dari persetujuan RUPSLB hingga efektifnya pernyataan pendaftaran di OJK tidak boleh lebih dari 12 bulan, dan perseroan menargetkan seluruh proses rights issue ini rampung pada kuartal pertama 2027."
+  ],
+  "fotoAdegan": "Blurred motion of customers queuing at teller counters inside a modern bank branch in Jakarta, soft daylight through windows",
+  "takeaway": "Penilaian saya netral karena rencana ini punya dua sisi yang saling mengimbangi, memperkuat modal Bank Syariah Indonesia di satu sisi, tapi juga mendilusi kepemilikan pemegang saham lama hingga 12,85 persen bila mereka tidak menebus haknya. Penerbitan hingga 6,8 miliar saham baru akan menambah jumlah saham beredar, yang secara matematis bisa menekan laba per saham dalam jangka pendek. Di sisi lain, rasio kecukupan modal atau CAR, yaitu ukuran seberapa tebal bantalan dana bank untuk menyerap potensi kerugian, diproyeksikan naik dari 20,38 persen menjadi 23,31 persen, sehingga kapasitas BSI menyalurkan pembiayaan berpotensi lebih besar. Yang perlu dipantau berikutnya adalah RUPSLB pada 6 November 2026 yang akan memutuskan persetujuan rencana ini, disusul proses efektifnya pernyataan pendaftaran di OJK yang menurut aturan paling lama 12 bulan sejak RUPSLB, dengan target pelaksanaan rampung pada kuartal pertama 2027. Harga pelaksanaan dan jumlah pasti saham baru masih belum ditentukan dan baru akan diumumkan lewat prospektus.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bris-jadwalkan-rupslb-pada-6-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Jadwalkan [RUPSLB] pada 6 November 2026",
+  "deck": "Bank Syariah Indonesia menjadwalkan RUPS Luar Biasa 6 November 2026, dengan pencatatan pemegang saham per 14 Oktober dan agenda resmi terbit 15 Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T10:11:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8d2161f481_03e81f51b6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "RUPSLB",
+   "Bank Syariah Indonesia",
+   "rights issue"
+  ],
+  "body": [
+   "PT Bank Syariah Indonesia (Persero) Tbk (BRIS) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa pada Jumat, 6 November 2026, pukul 14.00 WIB di Jakarta. Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan per Rabu, 14 Oktober 2026, pukul 16.15 WIB.",
+   "Agenda resmi rapat belum diumumkan dalam pemberitahuan ini. Perseroan baru akan menerbitkan pemanggilan resmi yang memuat mata acara rapat pada Kamis, 15 Oktober 2026, melalui situs Bursa Efek Indonesia, situs Kustodian Sentral Efek Indonesia (KSEI), dan situs perusahaan. Pemegang saham yang ingin mengusulkan mata acara tambahan harus mengajukan usulan tertulis dan diterima direksi paling lambat Kamis, 8 Oktober 2026, pukul 16.00 WIB, sesuai Pasal 27 ayat 6 Anggaran Dasar Perseroan dan Pasal 16 ayat 2 POJK No.15/POJK.04/2020.",
+   "Rapat akan digelar secara elektronik melalui sistem eASY.KSEI. Pemegang saham yang ingin memberi kuasa atau suara secara elektronik dapat melakukannya sejak tanggal pemanggilan hingga satu hari kerja sebelum rapat, yaitu Kamis, 5 November 2026, pukul 12.00 WIB, sementara yang ingin mengikuti langsung pada hari rapat bisa memakai fasilitas AKSes KSEI. Pengumuman ini ditandatangani atas nama Direksi Perseroan oleh Wisnu Sunandar, Senior Vice President, pada 30 September 2026."
+  ],
+  "fotoAdegan": "Empty modern corporate meeting hall with rows of chairs facing a stage, glass office tower windows, soft morning light in Jakarta",
+  "takeaway": "Pemberitahuan ini sendiri netral karena baru memuat jadwal RUPSLB, belum agenda resminya. Yang membuat rapat ini layak dipantau adalah waktunya yang bersamaan dengan pengumuman rencana rights issue kedua BRIS senilai 6,8 miliar saham baru pada hari yang sama, sehingga cukup mungkin RUPSLB ini yang akan dimintai restu pemegang saham untuk penambahan modal tersebut. Kalau benar itu agendanya, keputusan rapat akan langsung berpengaruh ke jumlah saham beredar BRIS, sebab saham baru dari rights issue menambah jumlah saham beredar dan berpotensi membuat laba per saham pemegang lama menyusut jika laba perusahaan tidak tumbuh sebanding. Yang perlu ditunggu adalah pemanggilan resmi pada 15 Oktober 2026 yang akan mengungkap agenda pasti rapat, sebelum RUPSLB sendiri digelar pada 6 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "edge-suntik-modal-rp5-miliar-ke-anak-usaha-dge",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Suntik [Modal] Rp5 Miliar ke Anak Usaha DGE",
+  "deck": "Indointernet menambah modal anak usahanya, PT Digital Gayana Ekakarsa, senilai Rp5 miliar untuk belanja modal, transaksi afiliasi yang dikecualikan dari aturan benturan kepentingan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T10:02:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a0d9f12af7_48b107658d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "Indointernet",
+   "transaksi afiliasi",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Indointernet Tbk (EDGE) melaporkan transaksi afiliasi berupa peningkatan modal pada anak usahanya, PT Digital Gayana Ekakarsa (DGE), senilai Rp5.000.000.000 pada 29 September 2026. Perseroan menyebut dana tersebut dipakai DGE untuk keperluan belanja modal guna mendukung kegiatan usaha dan rencana pengembangan perusahaan itu.",
+   "Transaksi ini melibatkan tiga pihak, yakni Indointernet sebagai perseroan induk, PT Ekagrata Data Gemilang (EDG), dan DGE sendiri, yang keduanya berstatus perusahaan terkendali Indointernet. Karena Indointernet menguasai 99,93 persen saham DGE, transaksi ini masuk kategori transaksi afiliasi yang dikecualikan dari kewajiban penilaian benturan kepentingan berdasarkan Pasal 6 ayat 1 huruf b POJK 42/2020, sebab terjadi antar perusahaan yang sahamnya dikuasai minimal 99 persen oleh induk yang sama.",
+   "Direksi dan Dewan Komisaris Indointernet menyatakan transaksi ini tidak mengandung benturan kepentingan dan tidak berdampak negatif terhadap kondisi keuangan perseroan. Nilai transaksi juga disebut tidak memenuhi ambang batas material sesuai POJK 17/2020, sehingga tidak dikategorikan sebagai transaksi material. Pemegang saham yang ingin informasi lebih lanjut dapat menghubungi Corporate Secretary Indointernet, Jennifer Tiurland."
+  ],
+  "fotoAdegan": "Technicians in uniform walking between rows of server racks inside a data center, blue indicator lights glowing, cables neatly bundled overhead.",
+  "takeaway": "Laporan ini netral bagi Indointernet karena nilainya kecil, hanya Rp5 miliar, dan uangnya tidak keluar dari grup usaha melainkan hanya berpindah dari kas induk ke anak usaha yang sahamnya nyaris seluruhnya dikuasai Indointernet sendiri. Pos yang tersentuh adalah arus kas dan ekuitas, yaitu uang tunai perseroan berkurang sementara nilai penyertaan modalnya di DGE bertambah, tapi karena DGE tetap konsolidasi penuh ke laporan keuangan induk, dampaknya ke kondisi keuangan gabungan Indointernet praktis tidak terlihat. Perseroan sendiri menegaskan transaksi ini di bawah ambang batas material dan tidak mengandung benturan kepentingan, sehingga tidak memerlukan persetujuan pemegang saham lewat RUPS. Yang perlu dipantau selanjutnya adalah apakah suntikan modal ini benar terealisasi menjadi penambahan kapasitas atau infrastruktur di DGE, karena dokumen ini tidak menyebut tenggat atau agenda lanjutan selain tanggal efektif transaksi pada 29 September 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "sfan-jual-51-95-saham-dpi-ke-induk-usaha-rp15-73-m-divestasi",

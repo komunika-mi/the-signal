@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bris-rights-issue-ii-kerek-modal-ke-rp64-41-t-dilusi-12-85",
+  "category": "Aksi Korporasi",
+  "title": "BRIS: [Rights Issue] II Kerek Modal ke Rp64,41 T, Dilusi 12,85%",
+  "deck": "BRIS berencana menerbitkan maksimal 6,8 miliar saham baru lewat hak memesan efek terlebih dahulu (rights issue) untuk memperkuat modal, dengan RUPSLB dijadwalkan 6 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T19:56:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bca45e818a_70ccbfcbae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "rights issue",
+   "HMETD",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Bank Syariah Indonesia (Persero) Tbk atau BSI menyampaikan keterbukaan informasi terkait rencana penambahan modal dengan hak memesan efek terlebih dahulu kedua (PMHMETD II). Perseroan berencana menerbitkan sebanyak-banyaknya 6,8 miliar saham seri B baru dengan nilai nominal Rp500 per saham, diambil dari portepel perseroan dan akan dicatatkan di Bursa Efek Indonesia. Saham baru tersebut punya hak yang sama dengan saham seri B yang sudah ada, termasuk hak dividen. Rencana ini akan diajukan untuk persetujuan pemegang saham dalam RUPSLB yang dijadwalkan pada Jumat, 6 November 2026.",
+   "Harga pelaksanaan dan jumlah final saham baru belum ditentukan, dan baru akan diungkapkan dalam prospektus setelah pernyataan pendaftaran ke Otoritas Jasa Keuangan dinyatakan efektif. Sesuai aturan OJK, jangka waktu dari persetujuan RUPSLB sampai efektifnya pernyataan pendaftaran maksimal 12 bulan, dan BSI memperkirakan proses rights issue ini rampung pada kuartal I 2027. Seluruh dana hasil rights issue, setelah dikurangi biaya emisi saham, akan disalurkan sebagai pembiayaan untuk mendukung pertumbuhan usaha perseroan.",
+   "Dalam dokumen ini, manajemen memproyeksikan permodalan BSI untuk mendukung bisnis 2027 naik dari Rp51,07 triliun pada 2026 menjadi Rp64,41 triliun pada 2027, sementara rasio kecukupan modal (CAR) diproyeksikan naik dari 20,38 persen menjadi 23,31 persen. Pemegang saham yang tidak melaksanakan haknya berpotensi mengalami dilusi kepemilikan sebanyak-banyaknya 12,85 persen. Manajemen juga menyebut peningkatan modal dalam jangka pendek bisa menekan rasio profitabilitas perseroan, namun diharapkan pulih secara bertahap seiring penyaluran dana ke aset produktif."
+  ],
+  "fotoAdegan": "A small textile workshop owner stitching fabric at a sewing machine surrounded by rolled fabric, warm natural window light",
+  "takeaway": "Penilaian saya netral karena rencana ini punya dua sisi yang berimbang: penguatan modal jelas menambah kapasitas BSI menyalurkan pembiayaan, tapi dilusi kepemilikan hingga 12,85 persen bagi pemegang saham yang tidak menebus haknya membuatnya bukan kabar baik murni. Yang tersentuh di sini adalah ekuitas, sebutan lain untuk modal sendiri perseroan, yang diproyeksikan melonjak dari Rp51,07 triliun menjadi Rp64,41 triliun, sekaligus rasio kecukupan modal atau CAR, ukuran seberapa tebal bantalan bank menyerap potensi kerugian dibanding aset berisikonya, yang naik dari 20,38 persen ke 23,31 persen. Di sisi lain, jumlah saham beredar akan bertambah sampai 6,8 miliar lembar, sehingga laba per saham berpotensi terdilusi kalau pertumbuhan laba tidak mengimbangi tambahan saham itu. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 6 November 2026 serta harga pelaksanaan dan jumlah final saham baru, yang baru akan diumumkan lewat prospektus setelah pernyataan pendaftaran ke OJK dinyatakan efektif, dengan target proses rampung pada kuartal I 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "untr-rampungkan-buyback-saham-rp1-42-triliun-hentikan-program",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Rampungkan [Buyback] Saham Rp1,42 Triliun, Hentikan Program",
+  "deck": "UNTR membeli kembali 57,97 juta saham senilai Rp1,42 triliun dari pagu Rp2 triliun, program pembelian kembali resmi berakhir 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T19:27:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/78eca6efd5_1854725c8e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "buyback saham",
+   "United Tractors",
+   "pasar modal"
+  ],
+  "body": [
+   "United Tractors Tbk melaporkan hasil program pembelian kembali saham yang sebelumnya diumumkan pada 1 Juli 2026. Saat itu perusahaan menyatakan akan membeli kembali sahamnya sendiri dengan dana maksimal Rp2 triliun, berlaku sejak 1 Juli hingga 30 September 2026, dengan dua syarat: jumlah saham yang dibeli tidak boleh melebihi 20 persen dari modal ditempatkan dan disetor perusahaan, dan setelah pembelian kembali itu selesai, saham yang beredar bebas di publik (free float) tidak boleh kurang dari 15 persen dari modal ditempatkan dan disetor.",
+   "Dalam laporan yang ditandatangani Corporate Secretary Ari Setiyawan pada 30 September 2026, UNTR menyatakan sepanjang periode tersebut telah membeli kembali 57.974.100 lembar saham dengan total nilai Rp1.423.636.104.912, sekitar Rp1,42 triliun, atau setara 71 persen dari pagu maksimal Rp2 triliun yang disetujui. Angka itu belum termasuk biaya perantara pedagang efek dan biaya lain terkait transaksi. Karena periode pembelian kembali yang dijadwalkan sudah berakhir pada 30 September 2026, perusahaan sekaligus menyatakan menghentikan pelaksanaan program ini.",
+   "UNTR menyebutkan bahwa informasi ini tidak berdampak material terhadap kegiatan operasional, hukum, maupun kondisi keuangan perusahaan saat ini. Laporan ini terbit dua hari setelah UNTR mengumumkan rencana dividen interim Rp430 per saham pada 28 September 2026, sehingga dalam waktu berdekatan perusahaan mengalokasikan dua jenis pengembalian dana ke pemegang saham, yakni dividen tunai dan pembelian kembali saham."
+  ],
+  "fotoAdegan": "Rows of yellow heavy equipment excavators parked in an open equipment yard under bright midday sun, warehouse in background.",
+  "takeaway": "Pembelian kembali saham senilai Rp1,42 triliun dari pagu maksimal Rp2 triliun ini condong positif bagi UNTR, karena mengurangi jumlah saham yang beredar di pasar sehingga porsi kepemilikan pemegang saham yang tersisa membesar dan laba per saham berpotensi naik. Transaksi ini menyentuh pos ekuitas dan arus kas perusahaan, sebab dana kas dipakai untuk membeli saham sendiri, itu artinya kas yang keluar dari perusahaan dan ekuitas yang tercatat berkurang, sesuatu yang biasanya diperhatikan pelaku pasar untuk menilai kekuatan neraca. Langkah ini datang tidak lama setelah UNTR mengumumkan dividen interim Rp430 per saham, sehingga total dana yang keluar dari kas perusahaan dalam waktu berdekatan cukup besar dan perlu dicermati pengaruhnya terhadap posisi kas pada laporan keuangan berikutnya. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal ketiga 2026 UNTR, untuk melihat dampak gabungan dividen interim dan pembelian kembali saham ini terhadap kas dan ekuitas perusahaan, mengingat perusahaan sendiri menegaskan program pembelian kembali saham ini resmi berakhir pada 30 September 2026 tanpa perpanjangan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "harga-patokan-ekspor-emas-turun-3-5-awal-oktober",
   "category": "Industri",
   "title": "Harga Patokan Ekspor Emas [Turun] 3,5% Awal Oktober",
@@ -27,6 +79,84 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Turunnya HPE dan HR emas berarti dasar hitung pajak ekspor emas untuk dua pekan pertama Oktober jadi lebih rendah, sehingga perusahaan tambang dan eksportir emas batangan membayar pungutan ekspor sedikit lebih ringan dibanding paruh kedua September. Pihak yang paling terasa dampaknya adalah pelaku usaha pertambangan dan pengolahan emas yang rutin mengekspor produknya, karena harga acuan ini juga jadi dasar hitungan royalti mereka. Yang belum terjawab dari data ini adalah apakah penurunan 3,5 persen ini sekadar koreksi sesaat setelah harga emas dunia sempat mencetak rekor, atau awal dari tren turun yang berlanjut. Itu baru akan terlihat dari penetapan HPE periode kedua Oktober 2026, yang biasanya diumumkan pertengahan bulan."
+ },
+ {
+  "slug": "wsbp-koreksi-rupslb-detail-konversi-utang-jadi-saham-rp4-3-t",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Koreksi RUPSLB: Detail Konversi Utang jadi [Saham] Rp4,3 T",
+  "deck": "Waskita Beton Precast mengoreksi panggilan RUPSLB 2 Oktober 2026 dengan menambahkan rincian angka konversi utang ke ekuitas dan penerbitan saham baru senilai hingga Rp4,33 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T19:05:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb1c7b1b5a_ba1eb04758.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "RUPSLB",
+   "konversi utang",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Waskita Beton Precast Tbk (WSBP) mengoreksi surat panggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya diterbitkan pada 10 September 2026. RUPSLB tetap akan digelar pada 2 Oktober 2026 pukul 14.00 WIB di Auditorium Lantai 11 Gedung Waskita Karya, Jalan MT Haryono Kavling 10, Jakarta Timur, dengan pemegang saham yang tercatat pada 9 September 2026 sebagai pihak yang berhak hadir. Ralat ini menambahkan angka rinci pada tiga dari empat mata acara rapat, yang sebelumnya hanya disebutkan secara umum tanpa nilai pasti.",
+   "Pada mata acara kedua, perseroan meminta pengukuhan keputusan RUPS 2023 dan 2025 soal konversi utang menjadi ekuitas untuk kreditur golongan Tranche D, dengan jumlah penyelesaian utang yang disesuaikan dari semula maksimal Rp1.712.887.127.054 menjadi maksimal Rp1.718.983.057.509. Mata acara ketiga menyangkut penerbitan saham biasa seri C bernilai nominal Rp50 per saham, dengan jumlah maksimal yang naik dari 33.711.614.004 saham menjadi 33.831.589.017 saham, atau bertambah sekitar 120 juta lembar. Mata acara keempat meminta pengukuhan kenaikan modal ditempatkan dan disetor menjadi maksimal Rp4.327.695.204.250 melalui penambahan modal tanpa hak memesan efek terlebih dahulu, yaitu penerbitan saham baru tanpa jatah untuk pemegang saham lama, lewat saham seri C tersebut, sekaligus mengubah pasal 4 ayat 2 dan 3 Anggaran Dasar perseroan.",
+   "Perseroan menyebut ralat ini terbit menyusul surat OJK Nomor S-296/PM.212/2026 tanggal 8 September 2026 perihal penambahan modal tanpa hak memesan efek terlebih dahulu, serta tanggapan elektronik OJK tanggal 29 September 2026 atas perubahan dan tambahan informasi keterbukaan terkait aksi tersebut. WSBP menegaskan tidak ada perubahan pada waktu pelaksanaan rapat maupun tata cara registrasi dan kehadiran yang sudah diumumkan sebelumnya, sementara mata acara pertama soal pendelegasian wewenang menyetujui rencana jangka panjang 2027-2031 dan anggaran tahunan 2027 tidak mengalami perubahan."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting rows of large precast concrete beams stacked in an open-air factory yard, overcast industrial skyline in the distance",
+  "takeaway": "Ralat ini condong negatif bagi pemegang saham lama WSBP, sebab memastikan jumlah saham baru untuk mengubah utang menjadi modal ternyata lebih besar dari yang diumumkan sebelumnya, naik dari maksimal 33,71 miliar menjadi 33,83 miliar lembar saham seri C. Tambahan sekitar 120 juta lembar saham ini memperbesar jumlah saham beredar, sehingga porsi kepemilikan pemegang saham lama otomatis mengecil dan bagian laba yang nanti dibagi per lembar saham berpotensi makin tipis, itulah yang disebut dilusi. Perubahan ini juga mengerek modal disetor perseroan menjadi maksimal Rp4,33 triliun, angka besar untuk perusahaan yang belum lama ini gagal membayar kupon obligasi dan sahamnya masih disuspensi bursa. Yang perlu dipantau adalah hasil RUPSLB pada 2 Oktober 2026, karena di situ pemegang saham memutuskan apakah menyetujui skema konversi utang dan penerbitan saham baru ini sesuai Perjanjian Perdamaian dengan para kreditur.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cash-ekuitas-balik-positif-usai-right-issue-rp237-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CASH: [Ekuitas] Balik Positif Usai Right Issue Rp237 Miliar",
+  "deck": "Laporan keuangan interim per 31 Agustus 2026 menunjukkan ekuitas Cashlez berbalik positif Rp194,5 miliar setelah rights issue Rp237,2 miliar, meski rugi bersih melebar jadi Rp42,9 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T18:25:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/26bd1f12ce_4affc83fb4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "Cashlez",
+   "rights issue",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan laporan keuangan konsolidasian interim per 31 Agustus 2026 kepada Bursa Efek Indonesia pada 30 September 2026. Dalam surat pengantar yang ditandatangani Presiden Direktur Willy Chandry, perseroan menegaskan bahwa Penawaran Umum Terbatas I (PUT I atau rights issue) telah rampung pada 22 Juli 2026, dan laporan ini membuktikan ekuitas perusahaan telah berbalik menjadi positif.",
+   "Berdasarkan laporan posisi keuangan, total ekuitas Cashlez tercatat Rp194,48 miliar per 31 Agustus 2026, berbalik dari minus Rp449,52 juta pada akhir Desember 2025. Perbaikan ini datang dari right issue yang menyuntikkan dana Rp237,2 miliar, tercermin dari modal saham yang naik dari Rp17,17 miliar menjadi Rp29,13 miliar dan tambahan modal disetor yang naik dari Rp136,97 miliar menjadi Rp362,22 miliar. Total liabilitas ikut turun signifikan dari Rp209,6 miliar menjadi Rp126,42 miliar, sementara kas dan setara kas naik lebih dari dua kali lipat dari Rp71,9 miliar menjadi Rp144,96 miliar.",
+   "Di sisi laba rugi, pendapatan delapan bulan pertama 2026 tercatat Rp128,71 miliar, naik dari Rp70,02 miliar pada periode yang sama tahun 2025, dengan laba bruto naik dari Rp12,48 miliar menjadi Rp26,27 miliar. Namun rugi bersih periode berjalan justru melebar dari Rp26,62 miliar menjadi Rp42,90 miliar, sehingga rugi per saham bertambah dari Rp19,10 menjadi Rp31,38. Arus kas dari aktivitas operasi juga masih negatif dan membesar dari Rp84,84 miliar menjadi Rp98,72 miliar, sementara arus kas dari aktivitas pendanaan mencatat surplus Rp148,79 miliar, terutama ditopang dana right issue tersebut."
+  ],
+  "fotoAdegan": "A cashier at a small Jakarta retail counter holding a compact card payment terminal, screen angled away, natural daylight",
+  "takeaway": "Laporan ini condong positif bagi Cashlez, karena struktur permodalannya diperbaiki secara nyata lewat right issue senilai Rp237,2 miliar, yang membuat ekuitas berbalik dari minus menjadi Rp194,48 miliar sekaligus menekan total utang dari Rp209,6 miliar menjadi Rp126,42 miliar. Ekuitas sendiri adalah selisih antara total aset dan total utang perusahaan, semacam nilai buku milik pemegang saham. Kalau angkanya minus seperti kondisi Cashlez di akhir 2025, itu tanda bahaya karena secara teknis utang perusahaan lebih besar dari asetnya, dan bursa biasanya memberi perhatian khusus pada emiten dengan kondisi ini. Yang perlu dicermati adalah sisi operasionalnya belum ikut membaik: rugi bersih malah melebar jadi Rp42,9 miliar dan kas yang terpakai untuk kegiatan usaha sehari-hari makin besar jadi Rp98,72 miliar, artinya bisnis inti Cashlez masih belum menghasilkan uang sendiri dan bergantung pada suntikan modal dari luar. Investor perlu memantau laporan keuangan kuartal berikutnya untuk melihat apakah dana segar dari right issue ini berhasil menekan laju kerugian operasional, bukan sekadar memperbaiki neraca di atas kertas.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mncn-balas-surat-bursa-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "MNCN Balas Surat Bursa soal [Volatilitas] Transaksi Saham",
+  "deck": "MNCN menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material dan Global Mediacom tetap jadi pemegang saham utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T18:05:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c8a2b77193_6bf2fda064.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MNCN",
+  "tags": [
+   "MNCN",
+   "Media Nusantara Citra",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "body": [
+   "Media Nusantara Citra Tbk (MNCN) menjawab surat Bursa Efek Indonesia nomor S-12447/BEI.PP2/09-2026 yang meminta penjelasan atas volatilitas transaksi efek perseroan. Surat BEI itu diterima MNCN melalui sistem elektronik speidxnet pada 28 September 2026, dan perusahaan meresponsnya lewat surat bernomor 054-BEI/MNC-CS/INT/IX/2026 tertanggal 30 September 2026 yang ditandatangani Corporate Secretary Cahyarina A. Asri.",
+   "Dalam jawabannya, MNCN menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat mempengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan I-E BEI. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta menegaskan tidak memiliki rencana aksi korporasi dalam waktu dekat, setidaknya dalam tiga bulan ke depan, yang akan berdampak pada status pencatatan sahamnya di bursa. Tidak ada pula informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik, menurut perseroan.",
+   "Untuk poin mengenai rencana pemegang saham utama, MNCN menyampaikan bahwa PT Global Mediacom Tbk akan tetap menjadi pemegang saham utama perseroan, tanpa menyebut rencana pengurangan atau penambahan kepemilikan."
+  ],
+  "fotoAdegan": "Television broadcast tower and satellite dishes on a media company rooftop in Jakarta, late afternoon light",
+  "takeaway": "Laporan ini netral bagi emiten karena isinya sepenuhnya jawaban standar yang menyangkal adanya informasi baru, tanpa satu pun angka keuangan atau perubahan kepemilikan yang bisa dibaca sebagai sinyal positif atau negatif ke investor. Permintaan penjelasan BEI semacam ini biasanya dipicu oleh lonjakan volume atau harga transaksi yang tidak wajar, semacam mekanisme pengamanan bursa agar tidak ada pihak yang bertransaksi berdasarkan informasi yang belum terbuka ke publik, dan jawaban MNCN tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham karena memang tidak ada transaksi material yang diungkap kali ini. Yang patut disimak adalah konsistensi janji perusahaan bahwa tidak ada aksi korporasi dalam tiga bulan ke depan, kira kira sampai akhir Desember 2026, serta apakah volume transaksi sahamnya kembali ke pola normal setelah surat ini terbit.",
+  "sentimen": "netral"
  },
  {
   "slug": "kdtn-jadwalkan-rupslb-pada-6-november-2026",
@@ -341,6 +471,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "dssa-catat-aset-naik-37-6-ke-us-6-08-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "DSSA catat [aset] naik 37,6% ke US$6,08 miliar di semester I 2026",
+  "deck": "Laporan keuangan interim auditan DSSA per Juni 2026 mencatat aset naik ke US$6,08 miliar dan liabilitas ke sekitar US$3,02 miliar, seiring ekspansi investasi dan pinjaman bank baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:34:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930180332-64409-0/FinancialStatement-2026-II-DSSA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DSSA",
+  "tags": [
+   "DSSA",
+   "laporan keuangan",
+   "merger",
+   "Dian Swastatika Sentosa"
+  ],
+  "body": [
+   "Dian Swastatika Sentosa Tbk (DSSA) menyampaikan laporan keuangan konsolidasian interim auditan untuk periode enam bulan yang berakhir 30 Juni 2026. Laporan diaudit oleh KAP Mirawati Sensi Idris dengan opini wajar tanpa modifikasian, ditandatangani partner Leo Susanto, dan diterbitkan 28 September 2026. Total aset perseroan tercatat US$6.076.197.344 per 30 Juni 2026, naik dari US$4.414.950.126 pada akhir 2025, sementara kas dan setara kas naik dari US$412,8 juta menjadi US$723,3 juta.",
+   "Dalam surat terpisah bernomor 163/CSDSS-09/2026 tertanggal 28 September 2026 kepada Bursa Efek Indonesia, Direktur Daniel Cahya menjelaskan kenaikan aset sebesar US$1.661.247.218 atau 37,63 persen tersebut terutama disebabkan oleh pengembangan investasi yang dimiliki perseroan. Adapun liabilitas naik US$874.521.374 atau 40,6 persen, terutama karena tambahan pinjaman bank jangka panjang yang ditarik sepanjang 2026.",
+   "Auditor turut mencatat tiga hal audit utama dalam laporan ini. Pertama, penilaian investasi pada efek ekuitas tanpa harga kuotasian senilai US$292.799.605 per 30 Juni 2026 yang diklasifikasikan sebagai aset FVOCI, dengan 86 persen dari nilainya per akhir 2025 sudah dinilai penilai independen. Kedua, pengujian penurunan nilai atas properti pertambangan, aset tetap, dan goodwill pada entitas anak yang merugi. Ketiga, akuntansi penggabungan usaha antara PT Mora Telematika Indonesia Tbk (MORA) dan entitas anak DSSA, PT Eka Mas Republik (EMR), yang disetujui pemegang saham MORA pada 26 Maret 2026 dan efektif secara hukum pada 22 April 2026, dengan MORA sebagai entitas penerima penggabungan dan EMR bubar demi hukum tanpa likuidasi."
+  ],
+  "fotoAdegan": "Coal conveyor belt loading a bulk carrier at an Indonesian port terminal, workers in hard hats nearby, overcast afternoon light.",
+  "takeaway": "Laporan ini condong positif bagi DSSA karena skala kelompok usaha membesar signifikan dalam enam bulan dengan opini audit bersih tanpa catatan keberatan, menandakan ekspansi investasi dan proses merger MORA-EMR berjalan tanpa masalah akuntansi material. Yang tersentuh adalah pos aset dan arus kas: total aset melonjak 37,6 persen menjadi US$6,08 miliar per akhir Juni 2026, sebagian didanai pinjaman bank baru yang membuat liabilitas naik 40,6 persen menjadi sekitar US$3,02 miliar, sehingga porsi utang terhadap aset relatif stabil di kisaran 50 persen dan tidak menandakan lonjakan risiko keuangan. Kas dan setara kas, yaitu uang tunai yang bisa langsung dipakai perusahaan, juga menebal dari US$412,8 juta menjadi US$723,3 juta, memberi bantalan likuiditas lebih tebal untuk membayar kewajiban jangka pendek. Yang perlu dipantau berikutnya adalah penyelesaian alokasi harga perolehan atas merger MORA dan EMR yang efektif 22 April 2026, karena auditor mencatatnya sebagai hal audit utama akibat besarnya nilai transaksi, serta hasil penilaian ulang investasi saham tanpa harga pasar senilai US$292,8 juta pada laporan tahunan berikutnya.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "jpfa-divestasi-vaksindo-rp1-81-triliun-ke-afiliasi",
   "category": "Aksi Korporasi",
   "title": "JPFA Divestasi Vaksindo Rp1,81 Triliun ke [Afiliasi]",
@@ -445,6 +601,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "zp-terbitkan-15-waran-terstruktur-baru-acuan-asii-wifi",
+  "category": "Aksi Korporasi",
+  "title": "ZP Terbitkan 15 [Waran] Terstruktur Baru, Acuan ASII-WIFI",
+  "deck": "Maybank Sekuritas (ZP) menawarkan 15 seri waran terstruktur baru pada 2-6 Oktober 2026, mengacu ke 15 saham berbeda dengan total 7,5 miliar unit ditawarkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:06:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ec679476f_0145b0662b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "Maybank Sekuritas",
+   "structured warrant"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia dengan kode ZP mengumumkan penawaran umum waran terstruktur (structured warrant) penerbitan ke-20 yang akan digelar pada 2 hingga 6 Oktober 2026. Emisi ini terdiri dari 15 seri baru berkode akhiran ZPCN7A, masing-masing mengacu pada satu saham berbeda, dengan tiap seri ditawarkan sebanyak 500 juta unit sehingga totalnya mencapai 7,5 miliar unit. Seluruh seri memiliki harga penawaran yang sama, yakni Rp10 hingga Rp300 per unit, sementara harga pelaksanaan (exercise price) dan rasio konversinya berbeda-beda menurut saham acuannya.",
+   "Rincian 15 seri tersebut: ARTOZPCN7A dengan harga pelaksanaan Rp515-3.080 dan rasio konversi 9 banding 1, ASIIZPCN7A Rp2.470-14.800 rasio 25 banding 1, BRMSZPCN7A Rp356-2.130 rasio 9 banding 1, BRPTZPCN7A Rp880-5.275 rasio 15 banding 1, CTRAZPCN7A Rp316-1.890 rasio 7 banding 1, CUANZPCN7A Rp468-2.810 rasio 11 banding 1, EMTKZPCN7A Rp260-1.560 rasio 9 banding 1, ENRGZPCN7A Rp735-4.410 rasio 12 banding 1, HRUMZPCN7A Rp476-2.850 rasio 9 banding 1, KIJAZPCN7A Rp102-610 rasio 3 banding 1, MDKAZPCN7A Rp1.560-9.350 rasio 20 banding 1, MEDCZPCN7A Rp770-4.610 rasio 11 banding 1, NCKLZPCN7A Rp480-2.880 rasio 10 banding 1, TOWRZPCN7A Rp236-1.410 rasio 5 banding 1, dan WIFIZPCN7A Rp1.050-6.300 rasio 15 banding 1. Seluruh seri memiliki tanggal pelaksanaan yang sama, yaitu 30 Juli 2027.",
+   "Waran terstruktur ini dapat dipesan melalui Maybank Sekuritas Indonesia selaku penerbit atau lewat agen pemasarannya. Dokumen tidak menyebutkan mekanisme lelang atau harga final per unit di luar kisaran Rp10 sampai Rp300 yang tercantum."
+  ],
+  "fotoAdegan": "Wide shot of a busy stock exchange trading floor in Jakarta, people walking past, distant blurred digital ticker boards glowing red and green",
+  "takeaway": "Laporan ini netral, baik bagi ke-15 saham acuan maupun bagi Maybank Sekuritas sendiri, karena penerbitan waran terstruktur ini murni produk turunan pihak ketiga dan tidak mengubah struktur permodalan siapa pun. Yang tersentuh cuma pasar derivatif, bukan pos kinerja emiten acuan, sebab nilai waran ini mengikuti harga saham lewat rasio konversi tapi karena diterbitkan Maybank bukan oleh perusahaan acuannya sendiri, tidak ada saham baru beredar dan ekuitas emiten acuan tidak berubah. Yang perlu dipantau berikutnya adalah masa penawaran pada 2 sampai 6 Oktober 2026, lalu tanggal pelaksanaan waran pada 30 Juli 2027 saat pemegangnya memutuskan menukarkan waran itu menjadi saham atau membiarkannya kedaluwarsa.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan",
   "category": "Energi",
   "title": "Pertamina Genjot Bisnis Energi [Hijau] Jadi Sumber Pertumbuhan",
@@ -497,6 +679,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah pengakuan dari lembaga profesi SDM independen, bukan angka bisnis. Bakrieland dinilai dari cara mereka merekrut, mengembangkan kompetensi karyawan, hingga menjaga kesetaraan gender dan kesehatan kerja. Yang terdampak langsung adalah karyawan dan calon pelamar kerja di Bakrieland, karena penghargaan semacam ini lazim dipakai perusahaan untuk menarik dan mempertahankan tenaga kerja yang lebih kompetitif. Yang belum bisa dijawab dari berita ini adalah apakah pengelolaan SDM yang diapresiasi ini juga tercermin pada kinerja bisnis Bakrieland, sebab tidak ada satu pun angka usaha, penjualan properti, atau kondisi keuangan yang disebutkan. Untuk melihat apakah ini murni seremoni kehumasan atau berkaitan dengan perbaikan kinerja nyata, perlu dicermati laporan keuangan Bakrieland pada kuartal berikutnya serta perkembangan proyek-proyek propertinya.",
   "imageV": "munx3wv5"
+ },
+ {
+  "slug": "hd-waran-terstruktur-untr-disesuaikan-usai-dividen-efektif-8-okt",
+  "category": "Aksi Korporasi",
+  "title": "HD: Waran Terstruktur [UNTR] Disesuaikan Usai Dividen, Efektif 8 Okt",
+  "deck": "KGI Sekuritas menyesuaikan harga pelaksanaan dan rasio dua waran terstruktur berbasis saham UNTR menyusul aksi dividen tunai, efektif 8 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T15:41:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/909645894d_535daa0b99.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HD",
+  "tags": [
+   "HD",
+   "UNTR",
+   "waran terstruktur",
+   "KGI Sekuritas"
+  ],
+  "body": [
+   "PT KGI Sekuritas Indonesia, penerbit waran terstruktur berkode HD, mengumumkan penyesuaian harga pelaksanaan dan rasio pelaksanaan atas dua produknya, UNTRHDCX6A dan UNTRHDCH7A, yang keduanya menggunakan saham PT United Tractors Tbk (UNTR) sebagai aset dasar. Penyesuaian ini dipicu oleh aksi korporasi UNTR berupa pembagian dividen tunai. Rumus penyesuaian diumumkan pada 29 September 2026, hasil penyesuaiannya baru akan diumumkan setelah penutupan pasar pada cum date 7 Oktober 2026, dan berlaku efektif mulai 8 Oktober 2026.",
+   "Untuk UNTRHDCX6A, harga pelaksanaan sebelum penyesuaian tercatat Rp33.203 dengan rasio pelaksanaan 33,17253 waran berbanding 1 saham UNTR. Adapun UNTRHDCH7A memiliki harga pelaksanaan sebelum penyesuaian Rp27.919 dengan rasio 60 waran berbanding 1 saham UNTR. Dokumen ini belum mencantumkan angka harga dan rasio setelah penyesuaian, karena keduanya baru dihitung dan diumumkan setelah perdagangan ditutup pada cum date.",
+   "Laporan ditandatangani secara elektronik oleh Jabintang Borneo Senja selaku Head of Compliance KGI Sekuritas Indonesia, yang berkantor di Sona Topas Tower, Jakarta."
+  ],
+  "fotoAdegan": "Rows of heavy yellow construction excavators and dump trucks parked at a machinery dealership yard under overcast afternoon light.",
+  "takeaway": "Laporan ini netral bagi UNTR maupun bagi penerbit warannya, KGI Sekuritas, karena isinya murni penyesuaian teknis pada instrumen turunan buatan sekuritas, bukan informasi baru soal kinerja atau permodalan UNTR sendiri. Yang disesuaikan adalah harga pelaksanaan dan rasio pelaksanaan, yaitu patokan harga dan jumlah waran yang dibutuhkan untuk menukar satu saham UNTR; penyesuaian ini rutin dilakukan agar nilai waran tidak berubah secara tidak wajar ketika harga saham UNTR terkoreksi akibat pembagian dividen tunai pada tanggal ex dividen. Pos yang tersentuh bukan laporan keuangan UNTR, sehingga tidak mengubah ekuitas, arus kas, atau laba per saham perusahaan. Yang perlu dipantau berikutnya adalah pengumuman hasil penyesuaian setelah penutupan pasar pada cum date 7 Oktober 2026, karena saat itulah angka harga pelaksanaan dan rasio baru untuk UNTRHDCX6A dan UNTRHDCH7A akan diketahui, sebelum berlaku efektif pada 8 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "cmpp-kaji-opsi-pulihkan-ekuitas-negatif-usai-suspensi-bei",

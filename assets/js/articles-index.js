@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bris-rights-issue-ii-kerek-modal-ke-rp64-41-t-dilusi-12-85",
+  "category": "Aksi Korporasi",
+  "title": "BRIS: [Rights Issue] II Kerek Modal ke Rp64,41 T, Dilusi 12,85%",
+  "deck": "BRIS berencana menerbitkan maksimal 6,8 miliar saham baru lewat hak memesan efek terlebih dahulu (rights issue) untuk memperkuat modal, dengan RUPSLB dijadwalkan 6 November 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIS",
+   "rights issue",
+   "HMETD",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bca45e818a_70ccbfcbae.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untr-rampungkan-buyback-saham-rp1-42-triliun-hentikan-program",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Rampungkan [Buyback] Saham Rp1,42 Triliun, Hentikan Program",
+  "deck": "UNTR membeli kembali 57,97 juta saham senilai Rp1,42 triliun dari pagu Rp2 triliun, program pembelian kembali resmi berakhir 30 September 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "buyback saham",
+   "United Tractors",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/78eca6efd5_1854725c8e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-patokan-ekspor-emas-turun-3-5-awal-oktober",
   "category": "Industri",
   "title": "Harga Patokan Ekspor Emas [Turun] 3,5% Awal Oktober",
@@ -19,6 +51,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hpe-dan-hr-emas-turun-di-periode-i-oktober-2026",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "wsbp-koreksi-rupslb-detail-konversi-utang-jadi-saham-rp4-3-t",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Koreksi RUPSLB: Detail Konversi Utang jadi [Saham] Rp4,3 T",
+  "deck": "Waskita Beton Precast mengoreksi panggilan RUPSLB 2 Oktober 2026 dengan menambahkan rincian angka konversi utang ke ekuitas dan penerbitan saham baru senilai hingga Rp4,33 triliun.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "RUPSLB",
+   "konversi utang",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb1c7b1b5a_ba1eb04758.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-ekuitas-balik-positif-usai-right-issue-rp237-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CASH: [Ekuitas] Balik Positif Usai Right Issue Rp237 Miliar",
+  "deck": "Laporan keuangan interim per 31 Agustus 2026 menunjukkan ekuitas Cashlez berbalik positif Rp194,5 miliar setelah rights issue Rp237,2 miliar, meski rugi bersih melebar jadi Rp42,9 miliar.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "Cashlez",
+   "rights issue",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/26bd1f12ce_4affc83fb4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mncn-balas-surat-bursa-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "MNCN Balas Surat Bursa soal [Volatilitas] Transaksi Saham",
+  "deck": "MNCN menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material dan Global Mediacom tetap jadi pemegang saham utama.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MNCN",
+   "Media Nusantara Citra",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c8a2b77193_6bf2fda064.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kdtn-jadwalkan-rupslb-pada-6-november-2026",
@@ -213,6 +293,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "dssa-catat-aset-naik-37-6-ke-us-6-08-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "DSSA catat [aset] naik 37,6% ke US$6,08 miliar di semester I 2026",
+  "deck": "Laporan keuangan interim auditan DSSA per Juni 2026 mencatat aset naik ke US$6,08 miliar dan liabilitas ke sekitar US$3,02 miliar, seiring ekspansi investasi dan pinjaman bank baru.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DSSA",
+   "laporan keuangan",
+   "merger",
+   "Dian Swastatika Sentosa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930180332-64409-0/FinancialStatement-2026-II-DSSA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jpfa-divestasi-vaksindo-rp1-81-triliun-ke-afiliasi",
   "category": "Aksi Korporasi",
   "title": "JPFA Divestasi Vaksindo Rp1,81 Triliun ke [Afiliasi]",
@@ -277,6 +373,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "zp-terbitkan-15-waran-terstruktur-baru-acuan-asii-wifi",
+  "category": "Aksi Korporasi",
+  "title": "ZP Terbitkan 15 [Waran] Terstruktur Baru, Acuan ASII-WIFI",
+  "deck": "Maybank Sekuritas (ZP) menawarkan 15 seri waran terstruktur baru pada 2-6 Oktober 2026, mengacu ke 15 saham berbeda dengan total 7,5 miliar unit ditawarkan.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "Maybank Sekuritas",
+   "structured warrant"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ec679476f_0145b0662b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan",
   "category": "Energi",
   "title": "Pertamina Genjot Bisnis Energi [Hijau] Jadi Sumber Pertumbuhan",
@@ -309,6 +421,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470418-bakrieland-raih-indonesia-best-employer-brand-awards-2026-fokus-pada-pengembangan-talenta"
+ },
+ {
+  "slug": "hd-waran-terstruktur-untr-disesuaikan-usai-dividen-efektif-8-okt",
+  "category": "Aksi Korporasi",
+  "title": "HD: Waran Terstruktur [UNTR] Disesuaikan Usai Dividen, Efektif 8 Okt",
+  "deck": "KGI Sekuritas menyesuaikan harga pelaksanaan dan rasio dua waran terstruktur berbasis saham UNTR menyusul aksi dividen tunai, efektif 8 Oktober 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HD",
+   "UNTR",
+   "waran terstruktur",
+   "KGI Sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/909645894d_535daa0b99.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "cmpp-kaji-opsi-pulihkan-ekuitas-negatif-usai-suspensi-bei",
@@ -6366,135 +6494,6 @@ var ARTICLES = [
    "penambahan modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1420ad2827_ec2dd07b37.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnbn-jelaskan-volatilitas-transaksi-usai-harga-anjlok-3-95",
-  "category": "Aksi Korporasi",
-  "title": "PNBN Jelaskan [Volatilitas] Transaksi Usai Harga Anjlok 3,95%",
-  "deck": "PNBN menjawab permintaan BEI atas lonjakan volume dan penurunan harga saham 3,95% pada 18 September, menyatakan tidak ada informasi material yang belum diungkap.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNBN",
-   "Bank Panin",
-   "volatilitas saham",
-   "keterbukaan informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bed47120e5_096c3384ac.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rekening-gratis-rp50-ribu-untuk-76-juta-warga-mulai-2027",
-  "category": "Perbankan",
-  "title": "Rekening Gratis Rp50 Ribu untuk [76 Juta] Warga Mulai 2027",
-  "deck": "Pemerintah menyiapkan rekening bank gratis bersaldo awal Rp50 ribu bagi warga 17 tahun ke atas yang belum punya rekening, dengan anggaran Rp3,8 triliun dan target mulai 2027.",
-  "date": "23 September 2026",
-  "image": "assets/img/rekening-gratis-rp50-ribu-untuk-76-juta-warga-mulai-2027.jpg",
-  "imageV": "mue5r13h",
-  "tags": [
-   "rekening gratis",
-   "saldo Rp50 ribu",
-   "Airlangga Hartarto",
-   "inklusi keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468897-pemerintah-siapkan-rekening-gratis-untuk-76-juta-warga-ada-saldo-awal-rp50-ribu"
- },
- {
-  "slug": "winr-pemegang-saham-utama-lepas-31-juta-saham-free-float",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemegang Saham Utama Lepas 31 Juta Saham [Free Float]",
-  "deck": "PEMENANG NUSANTARA INTERNASIONAL kembali menjual 31 juta saham WINR secara tidak langsung pada 18 September 2026, hak suaranya turun dari 46,91 persen menjadi 46,31 persen.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "kepemilikan saham",
-   "free float",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1639-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fast-jelaskan-pkpu-rp2-83-miliar-ke-bei-sudah-dicabut",
-  "category": "Aksi Korporasi",
-  "title": "FAST Jelaskan [PKPU] Rp2,83 Miliar ke BEI, Sudah Dicabut",
-  "deck": "FAST menjawab permintaan penjelasan BEI soal permohonan PKPU senilai Rp2,83 miliar yang berasal dari sengketa hak cipta, namun sudah dicabut pemohon pada 17 September 2026.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FAST",
-   "PKPU",
-   "Pengadilan Niaga",
-   "sengketa hak cipta"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4b97da00ca_b86ac296f1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hoki-jelaskan-lonjakan-transaksi-tak-ada-info-material",
-  "category": "Aksi Korporasi",
-  "title": "HOKI Jelaskan Lonjakan Transaksi, Tak Ada Info [Material]",
-  "deck": "Volume saham HOKI melonjak 23 kali lipat dalam sehari, tapi harga hanya naik 4 persen. Manajemen menyatakan tidak ada informasi material di baliknya.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HOKI",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9fbfa71e7e_f4cb44cda2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-anak-usaha-kunci-pinjaman-us-9-8-juta-dari-smi",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Anak Usaha Kunci Pinjaman [US$9,8 Juta] dari SMI",
-  "deck": "Anak usaha ARKO, EES, menandatangani perjanjian pembiayaan maksimum US$9,8 juta dengan PT SMI untuk mendanai proyek PLTS yang sudah beroperasi komersial.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "pembiayaan infrastruktur",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba5862d76d_52781e2512.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brms-direktur-adika-bakrie-beli-750-500-saham-rp665-lembar",
-  "category": "Aksi Korporasi",
-  "title": "BRMS: Direktur Adika Bakrie [Beli] 750.500 Saham Rp665/Lembar",
-  "deck": "Direktur BRMS Adika Aryasthana Bakrie melaporkan pembelian tidak langsung 750.500 saham perseroan seharga Rp665 per lembar pada 22 September 2026.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRMS",
-   "kepemilikan saham",
-   "direksi",
-   "Bumi Resources Minerals"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-7171-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "safe-keluar-dari-pemantauan-khusus-bei-efektif-24-september",
-  "category": "Aksi Korporasi",
-  "title": "SAFE Keluar dari [Pemantauan Khusus] BEI, Efektif 24 September",
-  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham Steady Safe Tbk (SAFE) mulai 24 September 2026, setelah kriteria terkait riwayat suspensi perdagangan tidak lagi terpenuhi.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAFE",
-   "Steady Safe Tbk",
-   "pemantauan khusus",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca8f98ff2c_aaf52c7b32.pdf",
   "sourceLabel": "IDX"
  }
 ];

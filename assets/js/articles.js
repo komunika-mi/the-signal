@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lapd-cetak-ekuitas-negatif-auditor-soroti-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Cetak Ekuitas Negatif, Auditor Soroti [Kelangsungan] Usaha",
+  "deck": "Laporan keuangan interim auditan per Juni 2026 menunjukkan ekuitas LAPD negatif Rp2,65 miliar, rugi berjalan melonjak, dan auditor menyoroti ketidakpastian kelangsungan usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T12:34:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930125052-64413-0/FinancialStatement-2026-II-LAPD.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "Leyand International",
+   "ekuitas negatif",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Leyand International Tbk (LAPD) menyampaikan laporan keuangan konsolidasian interim per 30 Juni 2026 yang telah diaudit oleh KAP Maurice Ganda Nainggolan dan Rekan, dengan opini wajar tanpa modifikasian. Namun auditor mencantumkan paragraf penekanan soal ketidakpastian material atas kelangsungan usaha, karena akumulasi rugi perseroan sudah mencapai Rp463,9 miliar dan total liabilitas Rp102,1 miliar telah melampaui total aset per tanggal yang sama. Auditor juga mencatat dua hal audit utama, yaitu kecukupan cadangan kerugian piutang usaha yang mencapai 54,98 persen dari total piutang, serta penyisihan penurunan nilai persediaan.",
+   "Dalam surat penjelasan ke Bursa Efek Indonesia tertanggal 10 September 2026, manajemen memaparkan penyebab total aset yang turun 29,79 persen atau Rp42,2 miliar, dari Rp141,67 miliar per akhir 2025 menjadi Rp99,47 miliar per Juni 2026. Penurunan itu berasal dari tiga pos: kas yang dibatasi penggunaannya sebagai jaminan bank garansi di Bank Panin turun dari Rp6,64 miliar menjadi nihil setelah bank garansi ditutup dan deposito dicairkan pada 15 Mei 2026; piutang lain-lain pihak ketiga anjlok 99,98 persen menjadi Rp2,57 juta akibat pelunasan sekaligus pembentukan cadangan kerugian Rp5,97 miliar; dan persediaan turun 91,9 persen menjadi Rp1,47 miliar setelah dibentuk cadangan penurunan nilai Rp13,25 miliar, atau sekitar 90 persen dari nilai persediaan sebelum penyisihan sebesar Rp14,73 miliar.",
+   "Di sisi laba rugi, penjualan semester pertama 2026 hanya Rp1,9 miliar, jauh merosot dari Rp138,5 miliar pada periode yang sama tahun lalu. Perseroan membukukan rugi periode berjalan Rp23,99 miliar, melonjak dari rugi Rp3,62 miliar pada semester pertama 2025, sehingga rugi per saham membesar dari Rp0,52 menjadi Rp3,17. Akibatnya, total ekuitas konsolidasian berbalik dari positif Rp21,27 miliar per akhir 2025 menjadi negatif Rp2,65 miliar per Juni 2026. Auditor turut mencatat bahwa laporan keuangan 31 Desember 2025 disajikan kembali untuk mengoreksi klasifikasi utang lain-lain dan klasifikasi arus kas."
+  ],
+  "fotoAdegan": "Dim, half-empty convenience store aisle in Jakarta with a worker slowly restocking a few items, quiet afternoon light",
+  "takeaway": "Laporan ini negatif bagi pemegang saham Leyand, sebab auditor secara terbuka meragukan kemampuan perusahaan mempertahankan kelangsungan usahanya setelah ekuitas berbalik menjadi minus Rp2,65 miliar dan rugi berjalan melonjak sekitar tujuh kali lipat dari tahun lalu. Ekuitas negatif berarti seluruh utang perusahaan sudah melebihi seluruh asetnya, sehingga modal pemegang saham secara teknis sudah habis dan sisa aset tidak cukup menutup kewajiban seandainya perusahaan dibubarkan hari ini. Penjualan yang anjlok dari Rp138,5 miliar menjadi Rp1,9 miliar dalam setahun menunjukkan bisnis inti nyaris berhenti, sementara cadangan kerugian besar atas piutang dan persediaan memperlihatkan manajemen sendiri meragukan nilai aset yang selama ini tercatat di pembukuan. Yang perlu dipantau adalah RUPSLB pada 20 Oktober 2026 yang akan memutuskan pergantian nama, pengendali baru, dan rencana penerbitan saham baru hingga 2 miliar lembar, karena suntikan modal itu tampak jadi jalan utama menambal ekuitas yang sudah negatif sekaligus akan mendilusi kepemilikan pemegang saham lama.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "towr-siapkan-buyback-saham-rp500-miliar-hingga-desember",
   "category": "Aksi Korporasi",
   "title": "TOWR Siapkan [Buyback] Saham Rp500 Miliar hingga Desember",

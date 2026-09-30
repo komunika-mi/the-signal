@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lapd-cetak-ekuitas-negatif-auditor-soroti-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Cetak Ekuitas Negatif, Auditor Soroti [Kelangsungan] Usaha",
+  "deck": "Laporan keuangan interim auditan per Juni 2026 menunjukkan ekuitas LAPD negatif Rp2,65 miliar, rugi berjalan melonjak, dan auditor menyoroti ketidakpastian kelangsungan usaha.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "Leyand International",
+   "ekuitas negatif",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930125052-64413-0/FinancialStatement-2026-II-LAPD.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "towr-siapkan-buyback-saham-rp500-miliar-hingga-desember",
   "category": "Aksi Korporasi",
   "title": "TOWR Siapkan [Buyback] Saham Rp500 Miliar hingga Desember",
@@ -6480,22 +6496,6 @@ var ARTICLES = [
    "Suahasil Nazara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/38387cce57_ca154ac9b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "abmm-panggil-rupslb-15-oktober-bahas-pergantian-direksi",
-  "category": "Aksi Korporasi",
-  "title": "ABMM Panggil RUPSLB 15 Oktober, Bahas [Pergantian] Direksi",
-  "deck": "ABM Investama menggelar RUPSLB pada 15 Oktober 2026 untuk mengesahkan perubahan susunan direksi, menyusul pengunduran diri Haris Mustarto.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ABMM",
-   "RUPSLB",
-   "ABM Investama",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7d9540f69c_d23420e3eb.pdf",
   "sourceLabel": "IDX"
  }
 ];

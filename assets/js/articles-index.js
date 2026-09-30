@@ -5,6 +5,92 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tei-2026-catat-1-533-ekshibitor-buyer-dari-113-negara",
+  "category": "Bisnis",
+  "title": "TEI 2026 Catat [1.533] Ekshibitor, Buyer dari 113 Negara",
+  "deck": "Kementerian Perdagangan mencatat buyer dari 113 negara dan 1.533 pelaku usaha lokal mendaftar untuk Trade Expo Indonesia 2026 yang digelar 14-18 Oktober di ICE BSD City, Tangerang.",
+  "date": "30 September 2026",
+  "image": "assets/img/tei-2026-catat-1-533-ekshibitor-buyer-dari-113-negara.jpg",
+  "imageV": "muo63csi",
+  "tags": [
+   "TEI 2026",
+   "Kemendag",
+   "ekspor",
+   "UMKM"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/jaring-antusiasme-menuju-tei-2026-buyer-dari-113-negara-dan-1500-ekshibitor-siap-berpartisipasi",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "djki-pangkas-waktu-urus-merek-jadi-empat-bulan",
+  "category": "Bisnis",
+  "title": "DJKI Pangkas Waktu Urus Merek Jadi [Empat] Bulan",
+  "deck": "Mulai 1 Oktober 2026, DJKI memangkas target penyelesaian pendaftaran merek dan desain industri menjadi paling lama empat bulan, turun dari lima bulan yang berlaku sejak Agustus lalu.",
+  "date": "30 September 2026",
+  "image": "assets/img/djki-pangkas-waktu-urus-merek-jadi-empat-bulan.jpg",
+  "imageV": "muo63dfl",
+  "tags": [
+   "DJKI",
+   "Kekayaan Intelektual",
+   "Merek",
+   "Desain Industri"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470485-djki-pangkas-waktu-pengurusan-merek-dan-desain-industri-jadi-4-bulan-mulai-oktober"
+ },
+ {
+  "slug": "indodana-dorong-credit-scoring-demi-pinjaman-digital-aman",
+  "category": "Perbankan",
+  "title": "Indodana Dorong [Credit Scoring] demi Pinjaman Digital Aman",
+  "deck": "Direktur Indodana Fintech menilai penilaian kredit calon peminjam perlu diperkuat agar pinjaman digital yang mudah diakses tetap sesuai kemampuan bayar.",
+  "date": "30 September 2026",
+  "image": "assets/img/indodana-dorong-credit-scoring-demi-pinjaman-digital-aman.jpg",
+  "imageV": "muo63dwi",
+  "tags": [
+   "fintech lending",
+   "credit scoring",
+   "AFPI",
+   "inklusi keuangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470484-indodana-fintech-soroti-tantangan-pinjaman-digital-mudah-diakses-harus-sesuai-kemampuan-bayar"
+ },
+ {
+  "slug": "ekonomi-gig-tumbuh-pekerja-perlu-perkuat-ketahanan-finansial",
+  "category": "Ketenagakerjaan",
+  "title": "Ekonomi Gig Tumbuh, Pekerja Perlu Perkuat [Ketahanan] Finansial",
+  "deck": "Seiring makin banyak orang mengandalkan pekerjaan fleksibel, mengatur arus kas jadi tantangan utama pekerja gig, bukan sekadar besar kecilnya pendapatan.",
+  "date": "30 September 2026",
+  "image": "assets/img/ekonomi-gig-tumbuh-pekerja-perlu-perkuat-ketahanan-finansial.jpg",
+  "imageV": "muo63edf",
+  "tags": [
+   "ekonomi gig",
+   "pekerja fleksibel",
+   "ketahanan finansial",
+   "driver online"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470482-ekonomi-gig-makin-diminati-pekerja-fleksibel-perlu-perkuat-ketahanan-finansial"
+ },
+ {
+  "slug": "pnm-dan-brins-bantu-alat-tenun-warga-sade-usai-kebakaran",
+  "category": "UMKM",
+  "title": "PNM dan BRINS Bantu Alat Tenun Warga Sade Usai [Kebakaran]",
+  "deck": "PNM bersama BRI Insurance melanjutkan bantuan bagi nasabah pembiayaan mikro di Desa Adat Sade, kini berupa alat usaha untuk memulihkan penghasilan warga pascakebakaran Agustus lalu.",
+  "date": "30 September 2026",
+  "image": "assets/img/pnm-dan-brins-bantu-alat-tenun-warga-sade-usai-kebakaran.jpg",
+  "imageV": "muo63evc",
+  "tags": [
+   "PNM Mekaar",
+   "BRI Insurance",
+   "Desa Adat Sade",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470477-bangkit-pascakebakaran-bantuan-pnm-bersama-brins-nyalakan-harapan-baru-warga-sade"
+ },
+ {
   "slug": "bris-rights-issue-ii-kerek-modal-ke-rp64-41-t-dilusi-12-85",
   "category": "Aksi Korporasi",
   "title": "BRIS: [Rights Issue] II Kerek Modal ke Rp64,41 T, Dilusi 12,85%",
@@ -6415,85 +6501,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7109/menko-airlangga-investasi-produktivitas-dan-ekspor-bernilai-tambah-jadi-kunci-pertumbuhan-ekonomi-2027",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "asrm-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "ASRM: Tak Ada Info Material di Balik Volatilitas [Saham]",
-  "deck": "Menjawab permintaan penjelasan BEI, Asuransi Ramayana Tbk memastikan tidak ada informasi material atau rencana aksi korporasi di balik pergerakan transaksi sahamnya.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASRM",
-   "Asuransi Ramayana",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05fa73a498_31131d121c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asli-wahana-konstruksi-mandiri-tambah-saham-ke-52",
-  "category": "Aksi Korporasi",
-  "title": "ASLI: Wahana Konstruksi Mandiri [Tambah] Saham ke 52%",
-  "deck": "Wahana Konstruksi Mandiri, pemegang saham pengendali ASLI, membeli tambahan 62,5 juta saham senilai sekitar Rp20,3 miliar, menaikkan hak suaranya dari 51 persen menjadi 52 persen.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASLI",
-   "kepemilikan saham",
-   "pemegang saham pengendali",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-8816-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "silo-tanggapi-bei-rupslb-kunci-akuisisi-rs-aset-dijaminkan",
-  "category": "Aksi Korporasi",
-  "title": "SILO Tanggapi BEI: RUPSLB Kunci [Akuisisi] RS, Aset Dijaminkan",
-  "deck": "SILO merespons permintaan penjelasan BEI atas lonjakan transaksi 18 September, sekaligus mengonfirmasi RUPSLB menyetujui akuisisi rumah sakit Rp9 triliun dan penjaminan aset sebagai agunan utang.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SILO",
-   "akuisisi rumah sakit",
-   "BEI",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f8f8697310_cf7a710a76.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sqmi-cgs-international-kurangi-saham-hak-suara-ke-15-56",
-  "category": "Aksi Korporasi",
-  "title": "[SQMI] CGS International Kurangi Saham, Hak Suara ke 15,56%",
-  "deck": "CGS International Securities Singapore melepas 123 juta saham SQMI pada 17 September 2026, memangkas hak suaranya dari 16,35% menjadi 15,56%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SQMI",
-   "kepemilikan saham",
-   "CGS International",
-   "Wilton Makmur Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4216-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-incar-pmthmetd-hingga-10-rupslb-25-september",
-  "category": "Aksi Korporasi",
-  "title": "BIPP incar [PMTHMETD] hingga 10%, RUPSLB 25 September",
-  "deck": "BIPP mengubah dan menambah informasi rencana penambahan modal tanpa HMETD hingga 502,86 juta saham baru, disetujui RUPSLB Jumat 25 September 2026.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "PMTHMETD",
-   "RUPSLB",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1420ad2827_ec2dd07b37.pdf",
-  "sourceLabel": "IDX"
  }
 ];

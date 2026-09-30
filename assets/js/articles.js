@@ -3,6 +3,141 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tei-2026-catat-1-533-ekshibitor-buyer-dari-113-negara",
+  "category": "Bisnis",
+  "title": "TEI 2026 Catat [1.533] Ekshibitor, Buyer dari 113 Negara",
+  "deck": "Kementerian Perdagangan mencatat buyer dari 113 negara dan 1.533 pelaku usaha lokal mendaftar untuk Trade Expo Indonesia 2026 yang digelar 14-18 Oktober di ICE BSD City, Tangerang.",
+  "image": "assets/img/tei-2026-catat-1-533-ekshibitor-buyer-dari-113-negara.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T13:50:02.917Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/jaring-antusiasme-menuju-tei-2026-buyer-dari-113-negara-dan-1500-ekshibitor-siap-berpartisipasi",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "TEI 2026",
+   "Kemendag",
+   "ekspor",
+   "UMKM"
+  ],
+  "body": [
+   "Trade Expo Indonesia (TEI) ke-41 akan digelar pada 14 hingga 18 Oktober 2026 di Indonesia Convention Exhibition (ICE) BSD City, Kabupaten Tangerang. Hingga 29 September 2026, buyer dari 113 negara telah mendaftar hadir, sementara 1.533 pelaku usaha lokal, termasuk usaha mikro, kecil, dan menengah, terdaftar sebagai ekshibitor per 25 September 2026. Ajang tahunan Kementerian Perdagangan ini menjadi salah satu forum bisnis-ke-bisnis terbesar bagi eksportir Indonesia untuk bertemu langsung dengan pembeli asing.",
+   "Buyer asing terbanyak yang terdaftar berasal dari India, disusul Tiongkok, Nigeria, Malaysia, dan Mesir. Ekshibitor lokal terbagi dalam lima zona produk: Food, Beverage, and Agriculture Products dengan 754 peserta, Fashion and Handicraft 448 peserta, Manufactured Products and Services 183 peserta, Furniture and Home Decor 85 peserta, dan Industrial Estate 63 peserta. Area pameran tahun ini seluas 16.656 meter persegi, dengan target total sekitar 1.500 ekshibitor, 30.000 pengunjung, dan potensi transaksi US$17,5 miliar.",
+   "Kemendag menyebut rangkaian kegiatan pra-penyelenggaraan sudah berjalan sejak Maret 2026, mulai dari kurasi ekshibitor, penjaringan buyer, hingga penjajakan bisnis lewat perwakilan RI di luar negeri. Hingga 21 September 2026, tercatat 17 sesi presentasi bisnis yang melibatkan 17 perwakilan RI di luar negeri, terdiri atas 12 sesi pada Agustus dan lima sesi pada September. Selain itu, ada permintaan undangan kunjungan dari Zimbabwe, Rusia, Uzbekistan, Inggris, dan Serbia. Pembiayaan TEI 2026 tidak berasal dari APBN, melainkan dari retribusi kepesertaan dan sponsor yang dikelola PT Debindomulti Adhiswasti selaku penyelenggara, dengan dukungan Pertamina, Bank Mandiri, Badan Pengelola Dana Perkebunan, Kadin, dan Lembaga Pembiayaan Ekspor Indonesia.",
+   "Sebagai pembanding, TEI 2025 yang digelar 15-19 Oktober 2025 mencatatkan realisasi potensi transaksi US$22,83 miliar, dengan 1.619 ekshibitor, 8.045 buyer, dan 34.550 pengunjung. Produk yang paling diminati saat itu meliputi hasil tambang, logam mulia, minyak sawit dan turunannya, arang dan briket, serta suku cadang kendaraan, dengan buyer terbanyak berasal dari Malaysia, Tiongkok, India, Nigeria, dan Mesir."
+  ],
+  "fotoAdegan": "Workers arranging crates of tropical fruit and packaged food products on exhibition booth shelves inside a large convention hall",
+  "fotoSumber": "https://www.kemendag.go.id/albums/mtU8HpcW6vjPHsCiCRshzFMHuAUu8IMIL5GJJ8C3.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Target transaksi TEI 2026 dipasang di angka US$17,5 miliar, jauh di bawah realisasi TEI 2025 yang mencapai US$22,83 miliar, meski jumlah ekshibitor yang sudah terdaftar, 1.533, tidak jauh berbeda dari realisasi tahun lalu sebanyak 1.619. Target yang lebih rendah ini bisa berarti dua hal: pemerintah memasang angka lebih konservatif setelah pengalaman tahun lalu, atau ada sinyal permintaan pasar ekspor yang melemah menjelang akhir 2026. Pihak yang paling terdampak oleh naik-turunnya angka ini adalah pelaku usaha lokal, terutama sektor makanan, minuman, dan pertanian yang mendominasi jumlah ekshibitor kali ini dengan 754 peserta. Yang akan menjawab dugaan ini adalah angka realisasi transaksi yang biasanya diumumkan Kemendag setelah TEI 2026 usai pada 18 Oktober 2026, dibandingkan dengan target US$17,5 miliar dan capaian US$22,83 miliar tahun lalu.",
+  "imageV": "muo63csi"
+ },
+ {
+  "slug": "djki-pangkas-waktu-urus-merek-jadi-empat-bulan",
+  "category": "Bisnis",
+  "title": "DJKI Pangkas Waktu Urus Merek Jadi [Empat] Bulan",
+  "deck": "Mulai 1 Oktober 2026, DJKI memangkas target penyelesaian pendaftaran merek dan desain industri menjadi paling lama empat bulan, turun dari lima bulan yang berlaku sejak Agustus lalu.",
+  "image": "assets/img/djki-pangkas-waktu-urus-merek-jadi-empat-bulan.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T20:21:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470485-djki-pangkas-waktu-pengurusan-merek-dan-desain-industri-jadi-4-bulan-mulai-oktober",
+  "tags": [
+   "DJKI",
+   "Kekayaan Intelektual",
+   "Merek",
+   "Desain Industri"
+  ],
+  "body": [
+   "Direktorat Jenderal Kekayaan Intelektual (DJKI) Kementerian Hukum kembali memangkas waktu layanan pendaftaran merek dan desain industri. Mulai 1 Oktober 2026, permohonan yang masuk sejak tanggal tersebut ditargetkan bisa selesai paling lama dalam empat bulan. Bagi pelaku usaha dan masyarakat yang mengurus hak atas merek atau desain produknya, ini berarti proses mendapatkan pelindungan hukum bisa lebih singkat dari sebelumnya.",
+   "Untuk pendaftaran merek, ini merupakan pemangkasan ketiga dalam beberapa tahun terakhir. Undang-Undang Nomor 20 Tahun 2016 tentang Merek dan Indikasi Geografis awalnya menetapkan waktu proses hingga sembilan bulan, kemudian dipangkas menjadi enam bulan lewat UU Cipta Kerja. Sejak 18 Agustus 2026 target itu turun lagi menjadi lima bulan, dan kini menjadi empat bulan untuk permohonan yang masuk mulai 1 Oktober 2026.",
+   "Desain industri mengalami pola pemangkasan serupa. Berdasarkan UU Nomor 31 Tahun 2000 tentang Desain Industri, keseluruhan proses mulai dari pemeriksaan administratif, pengumuman, pemeriksaan substantif, sampai terbit sertifikat awalnya membutuhkan sekitar 12 bulan, dengan tahap pemeriksaan substantif saja memakan waktu sekitar enam bulan. Target itu dipangkas menjadi lima bulan sejak 18 Agustus 2026, lalu menjadi empat bulan mulai 1 Oktober 2026, dengan catatan waktu bisa molor jika muncul sanggahan dari pihak lain terhadap permohonan yang diajukan.",
+   "Direktur Jenderal Kekayaan Intelektual Hermansyah Siregar menyatakan percepatan ini dilakukan bertahap sambil tetap menjaga kualitas pemeriksaan permohonan. Ia menambahkan bahwa DJKI akan terus berupaya mempersingkat waktu layanan, namun pemangkasan yang lebih signifikan baru bisa dicapai lewat revisi Undang-Undang Merek dan Undang-Undang Desain Industri, sesuai arahan Menteri Hukum Supratman Andi Agtas."
+  ],
+  "fotoAdegan": "Clerks organizing rows of paper document folders on metal shelves in a government archive room, fluorescent lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/30/6abd0b95e5b13-direktorat-jenderal-kekayaan-intelektual-atau-djki-kementerian-hukum-kembali-mempercepat-layanan-pendaftaran-merek-dan-desain-industri-di_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya, DJKI memangkas target penyelesaian pendaftaran merek dan desain industri dari lima bulan menjadi empat bulan mulai 1 Oktober 2026, melanjutkan tren pemangkasan bertahap yang untuk merek sudah berjalan dari sembilan bulan pada 2016 menjadi enam, lalu lima, dan kini empat bulan. Yang terdampak langsung adalah pelaku usaha dan masyarakat yang mendaftarkan merek atau desain produk, karena mereka bisa mendapat kepastian hukum lebih cepat, meski untuk desain industri prosesnya tetap bisa molor kalau ada pihak lain yang mengajukan sanggahan. Arah ke depannya, Hermansyah sendiri mengakui pemangkasan lebih lanjut baru bisa dicapai lewat revisi Undang-Undang Merek dan Undang-Undang Desain Industri, bukan lagi lewat penataan proses internal seperti tiga kali pemangkasan sebelumnya. Ini menandakan target empat bulan kemungkinan jadi batas bawah untuk sementara waktu, dan yang perlu dipantau adalah kapan revisi kedua undang-undang itu resmi masuk pembahasan di DPR.",
+  "imageV": "muo63dfl"
+ },
+ {
+  "slug": "indodana-dorong-credit-scoring-demi-pinjaman-digital-aman",
+  "category": "Perbankan",
+  "title": "Indodana Dorong [Credit Scoring] demi Pinjaman Digital Aman",
+  "deck": "Direktur Indodana Fintech menilai penilaian kredit calon peminjam perlu diperkuat agar pinjaman digital yang mudah diakses tetap sesuai kemampuan bayar.",
+  "image": "assets/img/indodana-dorong-credit-scoring-demi-pinjaman-digital-aman.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T20:20:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470484-indodana-fintech-soroti-tantangan-pinjaman-digital-mudah-diakses-harus-sesuai-kemampuan-bayar",
+  "tags": [
+   "fintech lending",
+   "credit scoring",
+   "AFPI",
+   "inklusi keuangan"
+  ],
+  "body": [
+   "Kemudahan mengajukan pinjaman lewat aplikasi fintech membuat akses pembiayaan semakin terbuka bagi masyarakat, tetapi kemudahan itu perlu diimbangi dengan penilaian yang memastikan pinjaman sesuai kemampuan bayar peminjam. Hal ini menjadi sorotan dalam webinar bertajuk \"Optimalisasi Credit Scoring dan Informasi Perkreditan LPIP untuk Mendorong Pembiayaan Berkualitas dan Inklusif\", yang menghadirkan Direktur Indodana Fintech sekaligus Ketua Bidang Risk Control & Technology Asosiasi Fintech Pendanaan Bersama Indonesia (AFPI), Ronny Wijaya.",
+   "Instrumen yang dibahas adalah credit scoring, yaitu sistem penilaian yang mengukur seberapa layak dan mampu seseorang membayar pinjaman berdasarkan rekam jejak keuangannya. Penilaian ini didukung oleh data dari Lembaga Pengelola Informasi Perkreditan atau LPIP, yang mengumpulkan riwayat kredit seseorang dari berbagai lembaga pembiayaan sehingga profil calon peminjam bisa dilihat lebih lengkap sebelum dana dicairkan.",
+   "Ronny mengatakan credit scoring membantu industri memahami profil dan kemampuan calon penerima pembiayaan secara lebih komprehensif. \"Dengan dukungan informasi perkreditan yang semakin baik, proses pengambilan keputusan pembiayaan dapat dilakukan secara lebih terukur, sekaligus membuka peluang akses bagi masyarakat yang sebelumnya memiliki keterbatasan dalam memperoleh pembiayaan formal,\" ujar Ronny.",
+   "Dengan pendekatan itu, kecepatan pencairan dana bukan lagi satu-satunya ukuran kemudahan akses, karena keputusan pembiayaan turut mempertimbangkan data kemampuan bayar peminjam. Indodana Fintech menilai penguatan ekosistem informasi perkreditan ini penting untuk menjaga keseimbangan antara perluasan akses keuangan dan pengendalian risiko gagal bayar di industri pembiayaan digital."
+  ],
+  "fotoAdegan": "A small warung owner arranging cash in a wooden drawer beside a parked motorbike, daylight, no visible screens",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/12/04/674ff1663eee9-ilustrasi-pinjaman-online_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan dorongan agar penilaian kredit di pinjaman digital makin bersandar pada data dari lembaga pengelola informasi perkreditan, bukan sekadar keputusan sepihak masing-masing aplikasi. Yang terkena dampak ada di dua sisi, yaitu masyarakat yang selama ini sulit dapat pinjaman formal karena tak punya riwayat kredit, dan perusahaan fintech pendanaan seperti Indodana yang dituntut lebih hati-hati menilai kemampuan bayar sebelum mencairkan dana. Yang masih kurang untuk memastikan arah ini benar-benar berjalan adalah bukti konkret, misalnya berapa banyak platform pinjaman yang sudah memakai skor dari lembaga pengelola informasi perkreditan, atau apakah tingkat gagal bayar memang turun setelah metode ini diterapkan. Selama angka semacam itu belum tersedia, pernyataan dalam webinar ini baru sebatas komitmen industri, belum bukti hasil di lapangan.",
+  "imageV": "muo63dwi"
+ },
+ {
+  "slug": "ekonomi-gig-tumbuh-pekerja-perlu-perkuat-ketahanan-finansial",
+  "category": "Ketenagakerjaan",
+  "title": "Ekonomi Gig Tumbuh, Pekerja Perlu Perkuat [Ketahanan] Finansial",
+  "deck": "Seiring makin banyak orang mengandalkan pekerjaan fleksibel, mengatur arus kas jadi tantangan utama pekerja gig, bukan sekadar besar kecilnya pendapatan.",
+  "image": "assets/img/ekonomi-gig-tumbuh-pekerja-perlu-perkuat-ketahanan-finansial.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T20:18:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470482-ekonomi-gig-makin-diminati-pekerja-fleksibel-perlu-perkuat-ketahanan-finansial",
+  "tags": [
+   "ekonomi gig",
+   "pekerja fleksibel",
+   "ketahanan finansial",
+   "driver online"
+  ],
+  "body": [
+   "Pola kerja fleksibel atau yang biasa disebut ekonomi gig terus berkembang di Indonesia, ditandai makin banyak orang yang mengandalkan penghasilan harian dari pekerjaan lepas seperti mengemudi online. Bedanya dengan karyawan bergaji tetap, pendapatan pekerja gig naik turun setiap hari, sehingga kemampuan mengatur uang menjadi penentu penting selain besar kecilnya penghasilan itu sendiri.",
+   "Tantangan yang muncul bukan cuma soal berapa banyak uang yang didapat, melainkan bagaimana memisahkan omzet dari biaya operasional dan keuntungan bersih, memisahkan uang usaha dari uang pribadi, serta menyisihkan dana darurat untuk kebutuhan mendadak. Untuk menjawab kebutuhan itu, Lalamove menggelar Financial Resilience Workshop bertajuk \"Makin Cuan, Makin Tangguh: Ketahanan Finansial Mitra Driver Teladan\" melalui program Lalamove Driver Academy.",
+   "Workshop ini diikuti 50 mitra pengemudi dari wilayah Jabodetabek, dengan Safir Senduk, perencana keuangan bersertifikat atau Certified Financial Planner, sebagai pembicara. Selain materi pengelolaan keuangan, peserta juga diajak mengenali keterampilan, aset, dan jaringan yang mereka miliki agar bisa dikembangkan menjadi sumber penghasilan tambahan di luar pekerjaan mengemudi.",
+   "Pendekatan ini diarahkan untuk membangun pola pikir wirausaha di kalangan mitra pengemudi, sehingga mereka terdorong mengambil langkah pengelolaan keuangan sesuai kondisi masing-masing."
+  ],
+  "fotoAdegan": "Motorcycle courier in a delivery jacket resting beside his bike at a roadside food stall during a break, Jakarta afternoon light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a57881583ef2-ilustrasi-ekonomi-nasional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan atau angka industri, melainkan langkah satu perusahaan: Lalamove menggelar pelatihan literasi keuangan untuk 50 mitra pengemudinya di Jabodetabek, dengan menghadirkan perencana keuangan bersertifikat sebagai pembicara. Yang terdampak langsung adalah mitra driver Lalamove yang ikut program itu, meski persoalan yang diangkat, yaitu pendapatan harian yang naik turun dan sulitnya memisahkan uang usaha dari uang pribadi, relevan juga bagi pekerja gig di platform lain. Berita ini belum cukup untuk menyimpulkan apakah ini menjadi tren di industri jasa on-demand atau sekadar inisiatif satu perusahaan, karena tidak ada data soal jumlah total pekerja gig di Indonesia maupun apakah platform sejenis punya program literasi keuangan serupa. Yang perlu dicermati berikutnya adalah apakah Lalamove Driver Academy berlanjut ke kota lain di luar Jabodetabek, serta apakah ada data resmi soal skala pekerja gig yang bisa memperlihatkan seberapa besar persoalan ketahanan finansial ini sebenarnya.",
+  "imageV": "muo63edf"
+ },
+ {
+  "slug": "pnm-dan-brins-bantu-alat-tenun-warga-sade-usai-kebakaran",
+  "category": "UMKM",
+  "title": "PNM dan BRINS Bantu Alat Tenun Warga Sade Usai [Kebakaran]",
+  "deck": "PNM bersama BRI Insurance melanjutkan bantuan bagi nasabah pembiayaan mikro di Desa Adat Sade, kini berupa alat usaha untuk memulihkan penghasilan warga pascakebakaran Agustus lalu.",
+  "image": "assets/img/pnm-dan-brins-bantu-alat-tenun-warga-sade-usai-kebakaran.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T20:06:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470477-bangkit-pascakebakaran-bantuan-pnm-bersama-brins-nyalakan-harapan-baru-warga-sade",
+  "tags": [
+   "PNM Mekaar",
+   "BRI Insurance",
+   "Desa Adat Sade",
+   "UMKM"
+  ],
+  "body": [
+   "Kebakaran yang melanda Desa Adat Sade, Lombok Tengah, Nusa Tenggara Barat, pada Agustus lalu turut menghanguskan alat kerja dan tempat usaha warga, selain rumah tinggal mereka. Untuk membantu warga kembali produktif, PT Permodalan Nasional Madani (PNM) bersama BRI Insurance (BRINS) melanjutkan pendampingan bagi nasabah terdampak melalui program bernama Madani Tanggap Desa Adat Sade. Fokus bantuan kali ini diarahkan pada pemulihan usaha, bukan lagi sekadar kebutuhan dasar seperti pada tahap sebelumnya.",
+   "Salah satu nasabah yang terdampak adalah Heppy Susanti, penenun yang telah bergabung sebagai peserta pembiayaan mikro PNM Mekaar selama lima tahun. Ia sempat merasa kehilangan harapan setelah rumah sekaligus tempat menenun dan berjualan kainnya ludes terbakar, padahal dari usaha itulah kebutuhan keluarganya sehari-hari dipenuhi. \"Saya terharu saat PNM datang dua hari setelah kebakaran dan langsung kasih bantuan. Sekarang PNM datang kembali dengan bantuan yang lebih bermakna. Terima kasih karena sudah merangkul kami sejak awal sampai sekarang,\" ujar Heppy.",
+   "Pada tahap awal, PNM menyalurkan peralatan dapur dan kebutuhan rumah tangga bagi warga terdampak. Bantuan lanjutan berupa alat tenun, mesin jahit industrial, dan gawangan kemudian diberikan agar warga bisa kembali menjalankan kegiatan produksi. Di luar bantuan alat usaha, PNM dan BRINS juga menggelar pemeriksaan kesehatan gratis bagi warga dan anak-anak di Desa Sade."
+  ],
+  "fotoAdegan": "Wooden traditional looms and thread spools arranged in an open-air workspace near rebuilt thatched huts in a Lombok village, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/30/6abd077c80604-bangkit-pascakebakaran-bantuan-pnm-bersama-brins-nyalakan-harapan-warga-sade_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah fokus bantuan PNM dan BRINS bergeser dari kebutuhan dasar seperti peralatan dapur ke alat produksi seperti alat tenun, mesin jahit industrial, dan gawangan, yang berarti sasarannya kini memulihkan penghasilan warga, bukan lagi sekadar kebutuhan hidup sehari-hari. Yang terdampak langsung adalah nasabah pembiayaan mikro PNM Mekaar di Desa Adat Sade, sebagian besar perempuan penenun yang kehilangan tempat usaha sekaligus alat kerjanya akibat kebakaran Agustus lalu. Berita ini belum menyebut berapa jumlah nasabah yang menerima bantuan tahap kedua ini, berapa nilai total bantuan yang disalurkan, atau berapa lama proses pemulihan usaha ditargetkan selesai, sehingga belum bisa dipastikan apakah bantuan ini sudah menjangkau seluruh warga terdampak atau baru sebagian. Yang perlu dipantau adalah apakah PNM dan BRINS akan merilis cakupan atau hasil evaluasi program Madani Tanggap Desa Adat Sade ini ke depan, karena itu yang akan menunjukkan seberapa jauh pemulihan ekonomi warga Sade sudah berjalan.",
+  "imageV": "muo63evc"
+ },
+ {
   "slug": "bris-rights-issue-ii-kerek-modal-ke-rp64-41-t-dilusi-12-85",
   "category": "Aksi Korporasi",
   "title": "BRIS: [Rights Issue] II Kerek Modal ke Rp64,41 T, Dilusi 12,85%",

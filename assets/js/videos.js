@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "ICcDBGOW_ro",
+  "title": "Ratusan Hotel Dijual, Wisata Bali Kehabisan Modal?",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Ratusan hotel dan vila di Bali ditawarkan lewat situs jual beli properti, seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum kembali menggeliat.",
+  "takeaway": "Menunjukkan tekanan likuiditas dan modal yang dihadapi pelaku usaha perhotelan di salah satu destinasi wisata andalan Indonesia.",
+  "terbit": "2026-09-30T11:48:17+00:00"
+ },
+ {
   "id": "hUYbztZpDtk",
   "title": "KKP Kembangkan Pelabuhan Nusantara di Bali",
   "category": "Industri",

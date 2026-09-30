@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "ICcDBGOW_ro",
+  "title": "Ratusan Hotel Dijual, Wisata Bali Kehabisan Modal?",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Ratusan hotel dan vila di Bali ditawarkan lewat situs jual beli properti, seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum kembali menggeliat.",
+  "takeaway": "Menunjukkan tekanan likuiditas dan modal yang dihadapi pelaku usaha perhotelan di salah satu destinasi wisata andalan Indonesia."
+ },
+ {
   "id": "hUYbztZpDtk",
   "title": "KKP Kembangkan Pelabuhan Nusantara di Bali",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Presiden Prabowo Menjawab",
   "summary": "Presiden Prabowo Subianto menilai kondisi ekonomi Indonesia dalam keadaan baik, dengan rasio utang yang disebutnya termasuk paling rendah di dunia.",
   "takeaway": "Klaim soal rasio utang penting dicermati investor karena berkaitan dengan persepsi risiko fiskal dan kepercayaan pasar."
- },
- {
-  "id": "zCRUqe4tatY",
-  "title": "Presiden Prabowo: 2,7 Juta Lapangan Kerja Baru pada 2025",
-  "category": "Ketenagakerjaan",
-  "program": "Presiden Prabowo Menjawab",
-  "summary": "Presiden Prabowo Subianto mengklaim pemerintahannya berhasil membuka 2,7 juta lapangan pekerjaan baru sepanjang 2025.",
-  "takeaway": "Data penyerapan tenaga kerja menjadi acuan untuk menilai efektivitas kebijakan ekonomi pemerintah terhadap pengangguran."
  }
 ];

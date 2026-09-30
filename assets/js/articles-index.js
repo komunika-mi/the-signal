@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-patokan-ekspor-emas-turun-3-5-awal-oktober",
+  "category": "Industri",
+  "title": "Harga Patokan Ekspor Emas [Turun] 3,5% Awal Oktober",
+  "deck": "Kemendag menurunkan Harga Patokan Ekspor dan Harga Referensi emas untuk periode 1-14 Oktober 2026, turun 3,5 persen dari paruh kedua September.",
+  "date": "30 September 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "emas",
+   "ekspor",
+   "Kemendag",
+   "bea keluar"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hpe-dan-hr-emas-turun-di-periode-i-oktober-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "kdtn-jadwalkan-rupslb-pada-6-november-2026",
   "category": "Aksi Korporasi",
   "title": "KDTN Jadwalkan [RUPSLB] pada 6 November 2026",
@@ -1118,7 +1134,7 @@ var ARTICLES = [
   "title": "Proyek JICA di Kawasan Rebana [Rampung], Investasi Tembus Rp131,6 T",
   "deck": "Kerja sama teknis dua tahun Indonesia-Jepang untuk Kawasan Rebana tuntas, menghasilkan rencana induk kawasan dan pedoman industri hijau di sekitar Pelabuhan Patimban.",
   "date": "29 September 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "Kawasan Rebana",
    "JICA",
@@ -5139,7 +5155,7 @@ var ARTICLES = [
   "title": "RI Genjot Ekspor Furnitur, Kurangi [Ketergantungan] ke AS",
   "deck": "Pemerintah mendorong industri furnitur nasional memperluas pasar ekspor di IFFINA+ 2026, karena 60 persen ekspor masih bertumpu ke Amerika Serikat meski sektor ini surplus sejak 2021.",
   "date": "24 September 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "furnitur",
    "ekspor",
@@ -6002,7 +6018,7 @@ var ARTICLES = [
   "title": "RI Dukung Reviu Perjanjian Dagang ASEAN-India [Rampung] 2026",
   "deck": "Wamendag Dyah Roro Esti menyatakan dukungan Indonesia agar reviu perjanjian dagang AITIGA dengan India rampung tahun ini, di sela pertemuan menteri ekonomi ASEAN-India di Filipina.",
   "date": "23 September 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "AITIGA",
    "ASEAN-India",
@@ -6100,7 +6116,7 @@ var ARTICLES = [
   "title": "FTA ASEAN-Kanada Ditarget [Rampung] Sebelum KTT ASEAN",
   "deck": "Indonesia mendorong ASEAN dan Kanada mempercepat perundingan FTA yang ditargetkan rampung sebelum KTT ASEAN awal November 2026, seiring lonjakan perdagangan dua arah kedua kawasan.",
   "date": "23 September 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "ACAFTA",
    "ASEAN-Kanada",
@@ -6479,22 +6495,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca8f98ff2c_aaf52c7b32.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asii-komisaris-prijono-sugiarto-beli-8-700-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "ASII: Komisaris Prijono Sugiarto [beli] 8.700 saham baru",
-  "deck": "Komisaris Astra International Prijono Sugiarto membeli 8.700 saham ASII seharga Rp4.850 per lembar pada 21 September 2026, menambah kepemilikannya menjadi 5.595.800 lembar.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASII",
-   "Astra International",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-3032-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

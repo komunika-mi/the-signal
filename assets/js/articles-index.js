@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jelang-wajib-halal-2026-kemendag-dorong-sertifikasi-ekspor-umk",
+  "category": "Bisnis",
+  "title": "Jelang Wajib Halal 2026, Kemendag Dorong [Sertifikasi] Ekspor UMK",
+  "deck": "Kemendag mendorong pelaku usaha, terutama UMK, memperkuat sertifikasi halal dan mutu produk jelang tenggat wajib halal berlaku 18 Oktober 2026 agar makin siap menembus pasar ekspor.",
+  "date": "30 September 2026",
+  "image": "assets/img/jelang-wajib-halal-2026-kemendag-dorong-sertifikasi-ekspor-umk.jpg",
+  "imageV": "munk84o9",
+  "tags": [
+   "sertifikasi halal",
+   "Kemendag",
+   "ekspor UMK",
+   "wajib halal 2026"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/jelang-wajib-halal-kemendag-dorong-penguatan-mutu-dan-sertifikasi-halal-untuk-menghubungkan-produk-indonesia-ke-dunia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "sfan-jual-51-95-saham-dpi-ke-induk-usaha-rp15-73-m-divestasi",
   "category": "Aksi Korporasi",
   "title": "SFAN Jual 51,95% Saham DPI ke Induk Usaha Rp15,73 M [Divestasi]",
@@ -6478,22 +6496,6 @@ var ARTICLES = [
    "peminjaman saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-6148-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-direksi-lepas-178-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi [Lepas] 178 Juta Saham Lewat Repo",
-  "deck": "Samuel Tumbuh Bersama, direksi RLCO, melepas 178 juta saham lewat skema peminjaman saham dalam perjanjian repo pada 22 September 2026, hak suaranya anjlok dari 9,28 persen jadi 3,58 persen.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan saham",
-   "direksi",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4282-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

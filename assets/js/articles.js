@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jelang-wajib-halal-2026-kemendag-dorong-sertifikasi-ekspor-umk",
+  "category": "Bisnis",
+  "title": "Jelang Wajib Halal 2026, Kemendag Dorong [Sertifikasi] Ekspor UMK",
+  "deck": "Kemendag mendorong pelaku usaha, terutama UMK, memperkuat sertifikasi halal dan mutu produk jelang tenggat wajib halal berlaku 18 Oktober 2026 agar makin siap menembus pasar ekspor.",
+  "image": "assets/img/jelang-wajib-halal-2026-kemendag-dorong-sertifikasi-ekspor-umk.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T03:37:22.778Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/jelang-wajib-halal-kemendag-dorong-penguatan-mutu-dan-sertifikasi-halal-untuk-menghubungkan-produk-indonesia-ke-dunia",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "sertifikasi halal",
+   "Kemendag",
+   "ekspor UMK",
+   "wajib halal 2026"
+  ],
+  "body": [
+   "Kementerian Perdagangan mendorong pelaku usaha, termasuk usaha mikro dan kecil, mempercepat pemenuhan sertifikasi halal dan standar mutu produk menjelang berlakunya kewajiban sertifikasi halal pada 18 Oktober 2026. Dorongan ini disampaikan Direktur Jenderal Perlindungan Konsumen dan Tertib Niaga Kemendag, Moga Simatupang, dalam seminar web yang digelar Selasa (29/9) dan diikuti sekitar 180 peserta, termasuk perwakilan perdagangan luar negeri dan pelaku usaha.",
+   "Kemendag mengutip data State of the Global Islamic Economy Report 2025/26 yang menyebut sekitar 2 miliar penduduk Muslim dunia membelanjakan sekitar US$2,6 triliun untuk produk halal pada 2024, dengan proyeksi naik menjadi US$3,6 triliun pada 2029. Di dalam negeri, kontribusi rantai nilai halal terhadap produk domestik bruto tercatat 26,73 persen pada kuartal II 2025. Kemendag menyebut sertifikasi halal bukan syarat mutlak untuk masuk pasar ekspor, tetapi pelaku usaha tetap perlu memahami regulasi, standar mutu, dan ketentuan dagang di negara tujuan, termasuk kawasan Timur Tengah dan Asia Tenggara.",
+   "Untuk mendukung kesiapan pelaku usaha, Kemendag mengandalkan Lembaga Pemeriksa Halal Balai Sertifikasi Ditstandalitu yang terakreditasi Badan Penyelenggara Jaminan Produk Halal sebagai mitra pemeriksaan dan pengujian laboratorium. Kemendag juga memperkuat sinergi dengan Badan Penyelenggara Jaminan Produk Halal, Ditjen Pengembangan Ekspor Nasional, dan Ditjen Perundingan Perdagangan Internasional. Perwakilan perdagangan di luar negeri dilibatkan melalui tiga peran, yakni membuka akses konsultasi sertifikasi, mengenalkan kapasitas lembaga pemeriksa halal Kemendag ke pasar internasional, dan menyalurkan informasi pasar seperti regulasi halal setempat serta preferensi pembeli.",
+   "Atase Perdagangan RI di Singapura, Jefrey Zakharia, yang turut menjadi peserta seminar menyatakan sertifikasi halal makin dipandang sebagai simbol jaminan kualitas dan kebersihan produk, bukan sekadar pemenuhan syariat, di tengah standar mutu yang ketat di pasar seperti Singapura. Ia menyebut KBRI Singapura siap mendampingi pelaku usaha memenuhi standar tersebut agar dapat masuk rantai pasok global."
+  ],
+  "fotoAdegan": "A technician in a lab coat inspecting packaged food samples on a stainless steel table inside a product testing laboratory.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/sWTraaGQc0AXYjfRelfr3GKJo5BLfO3DkXj5RFp2.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah bukan aturan baru, melainkan kampanye penguatan kesiapan menjelang tenggat wajib sertifikasi halal yang mulai berlaku 18 Oktober 2026, dibarengi data bahwa rantai nilai halal sudah menyumbang 26,73 persen dari PDB pada kuartal II 2025 dan pasar halal dunia diproyeksikan tumbuh dari US$2,6 triliun pada 2024 menjadi US$3,6 triliun pada 2029. Pihak yang paling terdampak adalah pelaku usaha, terutama usaha mikro dan kecil, yang produknya wajib bersertifikat halal sebelum tenggat tersebut, serta eksportir yang membidik pasar dengan permintaan produk halal seperti Timur Tengah dan Asia Tenggara. Arah kebijakannya adalah menjadikan sertifikasi halal bukan sekadar syarat administratif, melainkan alat pembuka akses ekspor, terlihat dari dilibatkannya atase perdagangan untuk mempromosikan lembaga pemeriksa halal milik Kemendag ke pasar luar negeri. Yang belum tergambar dari siaran ini adalah berapa banyak pelaku usaha, khususnya UMK, yang sudah benar-benar mengantongi sertifikat halal menjelang tenggat 18 Oktober 2026, sehingga sulit menilai seberapa besar kesenjangan kesiapan yang masih harus dikejar.",
+  "imageV": "munk84o9"
+ },
+ {
   "slug": "sfan-jual-51-95-saham-dpi-ke-induk-usaha-rp15-73-m-divestasi",
   "category": "Aksi Korporasi",
   "title": "SFAN Jual 51,95% Saham DPI ke Induk Usaha Rp15,73 M [Divestasi]",

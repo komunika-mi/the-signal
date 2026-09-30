@@ -3,6 +3,163 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "swat-jawab-bursa-ekuitas-ambruk-ke-rp12-46-m-kas-kritis",
+  "category": "Aksi Korporasi",
+  "title": "SWAT Jawab Bursa: Ekuitas Ambruk ke Rp12,46 M, Kas [Kritis]",
+  "deck": "SWAT menjawab permintaan penjelasan Bursa atas opini wajar dengan pengecualian, ekuitas yang tergerus 79,52%, penjualan ambruk 63%, dan kasus hukum direktur utamanya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T00:00:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc3e329242_9c55ff8e82.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SWAT",
+  "tags": [
+   "SWAT",
+   "opini wajar dengan pengecualian",
+   "suspensi saham",
+   "going concern"
+  ],
+  "body": [
+   "PT Sriwahana Adityakarta Tbk (SWAT) menyampaikan jawaban resmi ke Bursa Efek Indonesia atas permintaan penjelasan tertanggal 25 September 2026 terkait laporan keuangan konsolidasian tahun buku 2025 yang baru disampaikan pada 9 September 2026. Laporan keuangan itu mendapat opini wajar dengan pengecualian dari auditor independen, dipicu oleh selisih pencatatan utang bank. Utang anak usaha, PT Mulia Cipta Teknologi, kepada PT Bank Woori Saudara Indonesia 1906 Tbk tercatat Rp25,57 miliar di pembukuan perusahaan, tetapi konfirmasi dari bank menyebut Rp38,43 miliar, selisih Rp12,86 miliar. Utang bank Perseroan sendiri ke PT Bank Negara Indonesia (Persero) Tbk juga berbeda, yakni Rp258,86 miliar menurut pembukuan berbanding Rp274,98 miliar menurut konfirmasi bank, selisih Rp16,12 miliar. Kedua selisih itu berasal dari transaksi tahun 2023 dan manajemen mengaku masih menelusuri aliran dananya.",
+   "Auditor juga mencantumkan paragraf penekanan soal ketidakpastian kelangsungan usaha, seiring akumulasi defisit yang mencapai Rp334,02 miliar dan ekuitas Perseroan yang tergerus 79,52 persen menjadi tinggal Rp12,46 miliar. Penyebab utamanya adalah penjualan neto yang anjlok 63,04 persen, dari Rp176,49 miliar pada 2024 menjadi Rp65,23 miliar pada 2025. Manajemen menjelaskan penurunan itu sengaja terjadi karena perusahaan menghentikan kerja sama dengan pelanggan yang punya riwayat telat bayar di segmen corrugated, paper tube, dan paper cone, demi menjaga kualitas piutang. Di sisi lain, segmen ekspor yang disebut cheise justru tumbuh karena permintaan pasar luar negeri. Meski begitu, beban pokok penjualan tidak turun secepat penjualan, sehingga margin kotor Perseroan minus 59,53 persen dan margin operasional minus 70,57 persen. Manajemen menargetkan margin operasional kembali positif pada kuartal IV 2026.",
+   "Dari sisi kas, saldo kas dan bank Perseroan menyusut 71,91 persen menjadi hanya Rp2,37 miliar dengan kas fisik tercatat nihil, sementara siklus konversi kas memanjang dari 146,2 hari menjadi 299 hari. Piutang usaha pihak ketiga bruto tercatat Rp88,54 miliar dengan cadangan kerugian penurunan nilai Rp61,81 miliar, dan lebih dari Rp85,81 miliar di antaranya sudah menunggak lebih dari 90 hari. Lima debitur terbesar antara lain PT Kemasan Lestari senilai Rp35,49 miliar yang sudah dinyatakan pailit dan telah dicadangkan penuh, serta PT Rajawali Rahardja Mandiri sebesar Rp3,51 miliar yang masih dalam proses penagihan. Perseroan juga mencatat piutang pihak berelasi Rp36,88 miliar dalam bentuk pinjaman modal kerja tanpa bunga kepada PT Mitra Adhikarya Plasindo (Rp24,51 miliar), PT Garuda Prima Sentosa (Rp12,01 miliar), dan PT Sumber Makmur Lumintu (Rp358,53 juta), yang semuanya jatuh tempo 31 Desember 2026. Total liabilitas Perseroan mencapai Rp382,18 miliar, didominasi utang bank, sehingga rasio utang terhadap ekuitas melonjak menjadi 3.066 persen.",
+   "Di luar isu keuangan, saham SWAT telah disuspensi sejak 30 Juni 2025 dan masuk Papan Pemantauan Khusus dengan notasi X dan L, akibat keterlambatan penyampaian laporan keuangan auditan 2025 serta laporan interim triwulan I dan II 2026. Manajemen menyebut keterlambatan itu dipicu pergantian staf penyusun laporan keuangan dan serah terima data yang tidak lengkap, dan berjanji menuntaskan seluruh laporan interim, termasuk triwulan III 2026, paling lambat akhir Oktober 2026. Perseroan juga tengah menghadapi perkara pidana pasar modal terkait transaksi saham periode Juni-Juli 2018 yang telah dilimpahkan ke Kejaksaan Negeri Boyolali dan melibatkan Direktur Utama Perseroan yang kini ditahan. Manajemen menyatakan operasional harian tetap berjalan di bawah direksi dan manajemen lainnya, dan pemegang saham pengendali membuka opsi menggelar RUPSLB untuk mengganti direksi jika diperlukan."
+  ],
+  "fotoAdegan": "Idle corrugated cardboard production line inside a dim paper packaging factory, stacked empty pallets, quiet afternoon light.",
+  "takeaway": "Laporan ini condong negatif bagi SWAT, karena ekuitasnya nyaris terkuras ke Rp12,46 miliar setelah defisit menumpuk jadi Rp334,02 miliar, kas nyaris kosong dengan rasio kas cuma 0,07, dan penjualan longsor 63 persen dalam setahun. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara total aset perusahaan dan seluruh utangnya, semacam bantalan yang menunjukkan berapa nilai perusahaan yang sebenarnya jadi milik pemegang saham, dan kalau bantalan itu makin tipis, ruang gerak perusahaan untuk menyerap kerugian lanjutan makin sempit. Rasio utang terhadap ekuitas kini mencapai 3.066 persen, yang berarti utangnya sekitar 30 kali lipat modal sendiri, tingkat leverage ekstrem yang membuat Perseroan sangat rentan kalau kreditur menagih sewaktu-waktu. Yang perlu dipantau berikutnya adalah tenggat akhir Oktober 2026, saat Perseroan berjanji menuntaskan laporan keuangan interim triwulan I, II, dan III 2026 sekaligus mengoreksi kesalahan pengungkapan di catatan laporan keuangannya, karena saham SWAT sudah disuspensi sejak 30 Juni 2025 dan lewat 14 bulan suspensi membuka risiko delisting paksa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "untr-undur-jadwal-dividen-interim-ke-november-nilai-tetap-rp430",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Undur Jadwal [Dividen] Interim ke November, Nilai Tetap Rp430",
+  "deck": "UNTR menunda pembayaran dividen interim dari 26 Oktober ke November 2026 agar mengacu pada laporan keuangan kuartal III, sementara nilainya tetap Rp430 per saham atau maksimal Rp1,478 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T23:58:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ee24d3a59_558c3f0191.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "dividen interim",
+   "United Tractors",
+   "jadwal dividen"
+  ],
+  "body": [
+   "PT United Tractors Tbk (UNTR) mengubah jadwal pembagian dividen interim yang sebelumnya diumumkan pada 28 September 2026. Pembayaran yang semula dijadwalkan pada 26 Oktober 2026 diundur menjadi bulan November 2026, tanpa kepastian tanggal pasti. Corporate Secretary UNTR, Ari Setiyawan, dalam keterbukaan informasi ke Otoritas Jasa Keuangan pada 30 September 2026 menyebutkan penundaan ini dilakukan agar pembagian dividen interim bisa mengacu pada laporan keuangan perseroan per 30 September 2026, bukan periode sebelumnya.",
+   "Nilai dividen interim tidak berubah dari yang diumumkan sebelumnya, yakni maksimal Rp1,478 triliun atau setara Rp430 per saham. Perseroan menyatakan jadwal baru pelaksanaan dan tata cara pembayaran dividen akan diumumkan segera setelah laporan keuangan kuartal ketiga 2026 dipublikasikan. UNTR juga menegaskan perubahan jadwal maupun jumlah dividen interim akan tetap mengikuti ketentuan pasar modal yang berlaku.",
+   "Dalam laporannya, UNTR menyebutkan perubahan jadwal ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Rows of yellow heavy construction excavators parked in an orderly line at an equipment dealership yard, overcast morning light",
+  "takeaway": "Perubahan ini condong netral bagi UNTR, sebab yang berubah cuma waktu pembayaran, bukan besaran dividen maupun kondisi keuangan perseroan. Yang tersentuh adalah arus kas pemegang saham, uang dividen yang tadinya diperkirakan cair akhir Oktober kini baru masuk kantong sebulan kemudian, sementara total Rp1,478 triliun atau Rp430 per saham yang dijanjikan tetap sama dan tidak menambah potensi dilusi laba per saham dari yang sudah diumumkan sebelumnya. Alasan penundaan pun masuk akal, yakni supaya pembagian memakai basis laporan keuangan per 30 September 2026 yang lebih mutakhir. Yang perlu dipantau berikutnya adalah publikasi laporan keuangan kuartal ketiga UNTR serta pengumuman jadwal pasti pembayaran dan tata caranya, yang menurut perseroan akan menyusul segera setelah laporan keuangan itu terbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "giaa-rencanakan-rights-issue-iii-dam-setor-saham-gmfi",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Rencanakan Rights Issue III, DAM Setor Saham [GMFI]",
+  "deck": "Danantara Asset Management akan menebus haknya dalam rights issue baru Garuda lewat penyetoran saham GMFI, bukan uang tunai, menyusul rencana restrukturisasi 2025-2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T23:54:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1a58ad7f29_0d0e43baf6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "rights issue",
+   "Danantara Asset Management",
+   "GMFI"
+  ],
+  "body": [
+   "Garuda Indonesia (GIAA) mengumumkan rencana penambahan modal dengan hak memesan efek terlebih dahulu, atau rights issue, yang ketiga. Aksi ini merupakan lanjutan dari rencana restrukturisasi keuangan Garuda periode 2025-2029 yang sudah disetujui Menteri BUMN lewat surat tertanggal 23 Juni 2025. Rencana ini muncul setelah penyetoran lahan milik PT Angkasa Pura Indonesia (API) ke anak usaha Garuda, PT Garuda Maintenance Facility Aero Asia Tbk (GMFI), yang membuat kepemilikan Garuda di GMFI tergerus dan menjadikan API pemegang saham mayoritas GMFI. Meski begitu, berdasarkan surat API tertanggal 10 Desember 2025, Garuda tetap tercatat sebagai pemegang saham pengendali GMFI.",
+   "Sesuai rencana restrukturisasi itu, saham GMFI yang kini dipegang API, yaitu 82.100.173.900 saham Seri B atau 65,77 persen dari seluruh modal GMFI, akan dialihkan lebih dulu ke PT Aviasi Pariwisata Indonesia (InJourney) lalu ke PT Danantara Asset Management (DAM) melalui pembagian dividen dalam bentuk aset, bukan uang tunai. Berdasarkan surat DAM tertanggal 29 September 2026, DAM berniat menggunakan hak membeli saham baru miliknya dalam rights issue Garuda ini dengan menyetorkan saham GMFI tersebut sebagai pengganti uang tunai. Pemegang hak lainnya, termasuk pemegang saham publik, tetap dapat menebus haknya dengan membayar tunai sesuai ketentuan pelaksanaan rights issue yang akan diatur kemudian.",
+   "Karena DAM adalah pemegang saham utama dan mayoritas Garuda, penyetoran saham GMFI ini tergolong transaksi dengan pihak terafiliasi. Berdasarkan aturan Otoritas Jasa Keuangan, transaksi ini dikecualikan dari sejumlah prosedur baku transaksi afiliasi karena menjadi bagian dari rencana restrukturisasi yang sudah disetujui pemerintah. Garuda tetap meminta Kantor Jasa Penilai Publik independen untuk menilai kewajaran nilai saham GMFI dan kelayakan transaksi penyetoran non-tunai ini. Berdasarkan daftar pemegang saham per 31 Agustus 2026, DAM saat ini menguasai 91,11 persen saham Garuda, publik memegang 7,97 persen, dan Negara Republik Indonesia melalui Badan Pengaturan BUMN memegang satu saham Seri A Dwiwarna yang setara 0,92 persen."
+  ],
+  "fotoAdegan": "Technicians in overalls working beneath a wide-body aircraft fuselage inside a maintenance hangar, industrial lighting",
+  "takeaway": "Laporan ini saya nilai netral bagi Garuda, sebab aksi ini adalah kelanjutan dari rencana restrukturisasi yang sudah disetujui Menteri BUMN sejak pertengahan 2025, bukan kejutan baru, dan dokumen ini belum menyebut berapa banyak saham baru yang akan diterbitkan atau harganya sehingga besaran dampaknya belum bisa diukur. Yang tersentuh adalah jumlah saham Garuda yang beredar, karena Danantara Asset Management membayar haknya dengan menyetor saham GMFI, bukan uang tunai, sehingga kalau pemegang saham publik tidak ikut menebus haknya dengan uang tunai, porsi kepemilikan dan laba per saham mereka bisa tergerus. Di sisi lain, langkah ini mengembalikan kepemilikan ekonomis Garuda atas GMFI, perusahaan perawatan pesawat yang sahamnya sempat tergerus saat lahan Angkasa Pura Indonesia disuntikkan ke GMFI. Yang perlu dipantau berikutnya adalah persetujuan pemegang saham dalam RUPS Luar Biasa serta pernyataan efektif dari OJK atas rencana ini, sebab detail seperti harga dan jumlah saham baru baru akan diumumkan pada tahap tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asgr-ubah-dividen-interim-jadi-dividen-tunai-final-rp297-saham",
+  "category": "Aksi Korporasi",
+  "title": "ASGR Ubah Dividen Interim Jadi [Dividen Tunai Final] Rp297/Saham",
+  "deck": "Astra Graphia mengubah rencana dividen interim Rp297 per saham menjadi dividen tunai final dengan jumlah sama, namun kini butuh persetujuan RUPSLB yang direncanakan November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T23:52:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93c66f99ec_1a5a4fd0f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASGR",
+  "tags": [
+   "ASGR",
+   "dividen",
+   "RUPSLB",
+   "Astra Graphia"
+  ],
+  "body": [
+   "Astra Graphia Tbk (ASGR) mengubah rencana pembagian dividen yang baru dua hari sebelumnya diumumkan ke publik. Lewat surat No. CSL/AG-080-IX-2026 tertanggal 30 September 2026, perseroan menyatakan rencana dividen interim tahun buku 2026, yang sebelumnya diumumkan lewat surat No. CSL/AG-077-IX-2026 pada 29 September 2026, diubah menjadi rencana pembagian tambahan dividen tunai final. Nilainya tetap, sekurang-kurangnya sama dengan rencana semula, yaitu Rp400.048.296.300 atau setara Rp297 per saham.",
+   "Perubahan ini terjadi karena dana dividen tersebut berasal dari saldo laba ditahan tahun-tahun buku sebelumnya, bukan dari laba tahun berjalan. Karena sumber dananya laba ditahan lama, aturan pasar modal mewajibkan perseroan meminta persetujuan pemegang saham lebih dulu lewat Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), yang rencananya digelar pada November 2026. Skema dividen interim sebelumnya, yang sempat diumumkan cair pada 26 Oktober 2026, dengan begitu tidak lagi berjalan sesuai jadwal semula.",
+   "Astra Graphia menyebut jadwal baru pelaksanaan dan tata cara pembayaran tambahan dividen tunai final ini akan diumumkan setelah RUPSLB menyetujui rencana tersebut. Perseroan juga menyatakan perubahan rencana ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in central Jakarta, busy street traffic below, midday light",
+  "takeaway": "Laporan ini netral bagi pemegang saham karena nilai dividen yang dijanjikan tidak berkurang, tetap minimal Rp297 per saham atau total Rp400,05 miliar, hanya bentuknya yang berubah dari dividen interim menjadi dividen tunai final. Yang tersentuh adalah saldo laba ditahan, yaitu cadangan laba dari tahun-tahun sebelumnya yang belum dibagikan, karena dividen ini diambil dari cadangan itu, bukan dari laba tahun berjalan, sehingga prosesnya butuh restu pemegang saham, bukan cukup keputusan direksi seperti dividen interim biasa. Yang perlu dipantau pemegang saham adalah RUPSLB yang rencananya digelar November 2026, sebab persetujuan di rapat itulah yang menentukan jadwal pasti pencairan dividen, menggantikan tanggal 26 Oktober yang sempat diumumkan untuk skema interim sebelumnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "giaa-gelar-rupslb-6-november-usul-agenda-ditutup-8-oktober",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Gelar RUPSLB [6 November], Usul Agenda Ditutup 8 Oktober",
+  "deck": "Garuda Indonesia mengumumkan RUPSLB pada 6 November 2026 secara daring lewat sistem eASY.KSEI. Pemegang saham per 14 Oktober berhak hadir, usul agenda ditutup 8 Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T23:47:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a79761abf_a8240bc456.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "RUPSLB",
+   "Garuda Indonesia",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Garuda Indonesia (Persero) Tbk mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 6 November 2026 pukul 14.00 WIB. Rapat akan digelar secara daring melalui sistem eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia, sesuai ketentuan Peraturan OJK No. 15/POJK.04/2020. Pengumuman ditandatangani di Jakarta pada 30 September 2026 oleh Andreas Tumpal H. Hutapea selaku Corporate Secretary Group Head.",
+   "Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 14 Oktober 2026 pukul 16.00 WIB, termasuk pemegang saham di sub-rekening efek KSEI pada penutupan perdagangan saham GIAA di Bursa Efek Indonesia pada tanggal yang sama. Panggilan resmi yang memuat mata acara rapat baru akan diumumkan menyusul, yakni pada 15 Oktober 2026, melalui situs web perusahaan, situs BEI, dan sistem eASY.KSEI. Dokumen pemberitahuan ini sendiri belum mencantumkan mata acara yang akan dibahas dalam RUPSLB.",
+   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat. Berdasarkan Pasal 16 POJK 15/2020 dan Pasal 21 ayat 6 Anggaran Dasar Perseroan, yang berhak mengusulkan adalah pemegang Saham Seri A Dwiwarna atau pemegang saham yang mewakili sedikitnya 1/20 dari total saham berhak suara. Usulan harus diajukan dengan itikad baik, disertai alasan dan bahan pendukung, serta disampaikan tertulis kepada Direksi paling lambat 8 Oktober 2026."
+  ],
+  "fotoAdegan": "Wide shot of a commercial airliner parked at an airport gate at dusk, ground crew working near the aircraft stairs",
+  "takeaway": "Laporan ini saya nilai netral, sebab isinya baru pemberitahuan awal soal jadwal RUPSLB dan belum mengungkap mata acara yang akan diputuskan, jadi belum ada dasar untuk menilai dampaknya bagi Garuda. RUPSLB adalah forum tertinggi di mana pemegang saham memutuskan hal-hal besar seperti penambahan modal atau restrukturisasi, dan keputusan semacam itu bisa mengubah jumlah saham beredar serta komposisi hak suara pemegang saham lama, makanya pelaku pasar memantaunya. Yang perlu dicermati berikutnya adalah panggilan resmi pada 15 Oktober 2026 yang akan memuat mata acara rapat, dan hari ini Garuda juga melaporkan rencana rights issue ketiga, sehingga patut ditunggu apakah RUPSLB ini yang akan mengesahkannya. Tenggat bagi pemegang saham yang ingin mengusulkan agenda sendiri adalah 8 Oktober 2026, sementara batas pencatatan pemegang saham yang berhak hadir jatuh pada 14 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tlkm-ubah-susunan-direksi-lewat-rupslb-dua-direktur-baru",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Ubah Susunan Direksi Lewat [RUPSLB], Dua Direktur Baru",
+  "deck": "RUPSLB Telkom menetapkan Radita Ali Putra dan Kharim I.G. Siregar sebagai direktur baru menggantikan Budi Satria Dharma Purba dan Faizal Rochmad Djoemadi, berlaku sejak 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T23:39:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/038e2d61f2_f8cc9ee445.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "Direksi",
+   "RUPSLB",
+   "Telkom"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) PT Telkom Indonesia (Persero) Tbk tahun 2026 menyetujui perubahan susunan direksi perusahaan, berlaku efektif sejak 30 September 2026. Dua kursi direktur berpindah tangan: Radita Ali Putra menjadi Direktur Wholesale & International Service menggantikan Budi Satria Dharma Purba, yang sendiri bergeser mengisi kursi Direktur Network. Kursi Direktur IT Digital yang sebelumnya dipegang Faizal Rochmad Djoemadi kini diisi Kharim I.G. Siregar.",
+   "Dengan perubahan ini, susunan direksi Telkom menjadi: Nanang Hendarno sebagai Direktur Utama (menjabat sejak 27 Mei 2025, menggantikan Dian Siswarini), Arthur Angelo Syailendra sebagai Direktur Keuangan dan Manajemen Risiko, Veranita Yosephine sebagai Direktur Enterprise & Business Service, dan Seno Soemadji sebagai Direktur Strategic Business Development & Portfolio, ketiganya sejak 27 Mei 2025. Willy Saelan menjabat Direktur Human Capital Management dan Andy Kelana menjabat Direktur Legal & Compliance, keduanya sejak 16 September 2025. Sementara itu susunan dewan komisaris tidak berubah: Angga Raka Prabowo sebagai Komisaris Utama, Rizal Malarangeng dan Ossy Dermawan sebagai Komisaris sejak 27 Mei 2025, Edwin Hidayat Abdullah sebagai Komisaris sejak 8 Juni 2026, serta empat Komisaris Independen yaitu Deswandhy Agusman dan Ira Noviarti (sejak 16 September 2025), Rofikoh Rokhim (sejak 12 Desember 2025), dan Anthony Leong (sejak 8 Juni 2026).",
+   "Surat keterbukaan informasi ini ditandatangani Edie Kurniawan selaku SVP Corporate Secretary, disampaikan kepada Otoritas Jasa Keuangan sesuai POJK Nomor 31/POJK.04/2015 dan POJK Nomor 45 Tahun 2024, dengan tembusan ke Bursa Efek Indonesia dan wali amanat PT Bank Permata Tbk selaku wali amanat obligasi Telkom. Dalam suratnya, perusahaan menyatakan perubahan susunan pengurus ini tidak berdampak material terhadap kegiatan operasional, hukum, maupun keuangan Telkom."
+  ],
+  "fotoAdegan": "Telecommunication technicians inspecting fiber optic cable trays inside a data center corridor, rows of server racks, cool blue lighting",
+  "takeaway": "Perubahan ini condong netral bagi Telkom, sebab sebagian besar kursi termasuk Direktur Utama Nanang Hendarno sebenarnya sudah terisi sejak pertengahan 2025, dan RUPSLB kali ini hanya meresmikan dua pergantian direktur baru tanpa menyentuh laporan keuangan perusahaan. Pergantian pengurus seperti ini tidak mengubah ekuitas, arus kas, atau jumlah saham beredar Telkom, tapi tetap diperhatikan pelaku pasar karena arah strategi unit Wholesale & International Service serta IT Digital bisa bergeser tergantung siapa yang memimpinnya. Telkom sendiri menegaskan perubahan ini tidak berdampak material terhadap operasional, hukum, maupun keuangan perusahaan. Yang perlu dipantau selanjutnya adalah kinerja dua unit yang berganti pemimpin itu pada laporan keuangan kuartal mendatang, untuk melihat apakah pergantian direktur ini membawa perubahan strategi yang berarti bagi bisnis Telkom.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bansos-beras-dan-bsu-cair-kuartal-iv-pph-pekerja-diperluas",
   "category": "Makroekonomi",
   "title": "Bansos Beras dan BSU Cair Kuartal IV, PPh Pekerja [Diperluas]",
@@ -30,6 +187,83 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Perubahan paling konkret ada di dua kebijakan yang bergeser sasarannya. Pengurangan pajak penghasilan bagi pekerja bergaji di bawah Rp10 juta, yang tahun ini hanya berlaku untuk pekerja sektor padat karya dan pariwisata, mulai 2027 akan berlaku untuk pekerja di semua sektor dengan sasaran 7,5 juta orang, jadi insentif ini melebar ke lebih banyak pekerja formal. Sebaliknya, kredit rumah bersubsidi bunga 6 persen yang sebelumnya diarahkan untuk pelaku UMKM berpenghasilan tidak tetap, ke depan justru menyasar pekerja berpenghasilan tetap sekitar Rp17 juta per bulan, artinya kelompok informal yang selama ini jadi prioritas program itu bergeser keluar. Arah besarnya adalah pelebaran cakupan bantuan ke lebih banyak kelompok pekerja formal, tapi ini baru gambaran awal karena kebutuhan anggaran total Rp31 triliun untuk seluruh program 2027 masih disisir Menteri Keuangan. Yang akan memastikan jadi tidaknya rencana ini adalah hasil finalisasi anggaran tersebut dan besaran baru batas penghasilan tidak kena pajak yang masih dibahas.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "bmri-lunasi-obligasi-rp2-4-triliun-tepat-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BMRI Lunasi Obligasi [Rp2,4 Triliun] Tepat Jatuh Tempo",
+  "deck": "Bank Mandiri membayar pokok Obligasi Berkelanjutan I Tahap I Tahun 2016 Seri C senilai Rp2,4 triliun pada tanggal jatuh temponya, 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T23:04:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2d6d817e7d_fcb482b3ae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "Bank Mandiri",
+   "obligasi",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Bank Mandiri (Persero) Tbk melunasi pokok Obligasi Berkelanjutan I Bank Mandiri Tahap I Tahun 2016 Seri C senilai Rp2,4 triliun pada 30 September 2026. Pembayaran dilakukan melalui PT Kustodian Sentral Efek Indonesia (KSEI) selaku lembaga penyimpanan dan penyelesaian transaksi efek. Tanggal distribusi dana ke pemegang obligasi sama persis dengan tanggal jatuh tempo obligasi tersebut, yakni 30 September 2026, sehingga pembayaran ini adalah pelunasan reguler sesuai jadwal, bukan pembelian kembali yang dipercepat.",
+   "Laporan keterbukaan informasi ini disampaikan oleh Adhika Vista selaku Corporate Secretary Bank Mandiri kepada Otoritas Jasa Keuangan dan PT Bursa Efek Indonesia. Dalam laporan itu, Bank Mandiri menyatakan tidak ada dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, atau kelangsungan usaha perseroan akibat pelunasan ini. Obligasi seri ini merupakan bagian dari Obligasi Berkelanjutan I Tahap I yang diterbitkan pada 2016 dengan tenor sepuluh tahun."
+  ],
+  "fotoAdegan": "Wide exterior view of a modern glass bank headquarters tower in Jakarta's business district at dusk, office lights glowing",
+  "takeaway": "Laporan ini netral bagi Bank Mandiri, karena pelunasan Rp2,4 triliun ini bukan keputusan mendadak, melainkan kewajiban yang memang sudah dijadwalkan sejak obligasi diterbitkan sepuluh tahun lalu dan dibayar tepat di tanggal jatuh temponya. Pos yang tersentuh adalah utang dan arus kas, utang berbunga bank berkurang Rp2,4 triliun begitu pokok obligasi lunas, sementara kas keluar dalam jumlah yang sama untuk membayarnya, dan ke depan bank tidak lagi menanggung beban bunga dari seri obligasi ini. Bagi perbankan sebesar Bank Mandiri dengan aset ribuan triliun rupiah, nilai ini relatif kecil sehingga dampaknya terhadap struktur pendanaan secara keseluruhan terbatas. Yang perlu dicermati selanjutnya adalah apakah Bank Mandiri menerbitkan obligasi baru sebagai pengganti untuk mendukung penyaluran kredit, dan bagaimana laporan keuangan kuartal berikutnya mencerminkan penurunan liabilitas ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "giaa-rugi-menyempit-jadi-us-112-96-juta-ekuitas-kembali-negatif",
+  "category": "Aksi Korporasi",
+  "title": "GIAA: Rugi Menyempit Jadi US$112,96 Juta, Ekuitas Kembali [Negatif]",
+  "deck": "Laporan keuangan interim auditan semester I 2026 menunjukkan pendapatan Garuda naik dan rugi menyempit, tapi ekuitas kembali defisit tipis pada akhir Juni.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T23:00:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930231857-64415-0/FinancialStatement-2026-II-GIAA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "Garuda Indonesia",
+   "laporan keuangan",
+   "ekuitas"
+  ],
+  "body": [
+   "Garuda Indonesia (Persero) Tbk menyampaikan laporan keuangan konsolidasian interim untuk semester I 2026 yang telah diaudit oleh Kantor Akuntan Publik Purwanto Susanti dan Surja, dengan partner penanggung jawab Dedy Lesmana. Auditor memberikan opini Wajar Tanpa Modifikasian atau opini bersih, tertanggal 29 September 2026, atas laporan yang mencakup posisi keuangan per 30 Juni 2026 dibandingkan akhir Desember 2025 dan 2024.",
+   "Dari sisi kinerja, pendapatan usaha Garuda naik menjadi US$1.795,44 juta pada semester I 2026, dari US$1.548,20 juta pada periode yang sama tahun lalu, didorong oleh penerbangan berjadwal, tidak berjadwal, dan pendapatan lain. Beban usaha ikut naik menjadi US$1.749,95 juta dari US$1.503,99 juta, terutama karena beban operasional penerbangan dan pemeliharaan pesawat yang lebih besar. Setelah memperhitungkan beban keuangan US$222,44 juta yang justru turun dari US$251,59 juta tahun lalu, serta manfaat pajak, Garuda membukukan rugi bersih US$112,96 juta, menyempit dari rugi US$147,05 juta pada semester I 2025. Rugi per saham dasar membaik dari US$0,00162 menjadi US$0,00030 per saham.",
+   "Di neraca, total aset Garuda tercatat US$7.375,06 juta per 30 Juni 2026, turun dari US$7.623,15 juta pada akhir 2025, sementara total liabilitas juga turun menjadi US$7.427,21 juta dari US$7.578,71 juta. Kas dan setara kas menyusut cukup signifikan dari US$943,40 juta menjadi US$624,34 juta dalam enam bulan. Akibatnya, total ekuitas perusahaan berbalik menjadi defisiensi modal sebesar minus US$52,15 juta per 30 Juni 2026, setelah sempat positif US$44,44 juta pada akhir 2025, meski jauh membaik dibanding minus US$1.351,90 juta pada akhir 2024."
+  ],
+  "fotoAdegan": "Airport ground crew guiding a wide-body passenger jet toward the gate on a tarmac at dusk",
+  "takeaway": "Laporan ini saya nilai netral bagi Garuda, sebab perbaikan operasional yang cukup nyata, pendapatan naik sekitar 16 persen dan rugi bersih menyempit 23 persen dari US$147,05 juta menjadi US$112,96 juta, masih dibayangi oleh ekuitas perusahaan yang kembali negatif tipis menjadi minus US$52,15 juta pada akhir Juni 2026, setelah sempat positif US$44,44 juta di akhir 2025. Ekuitas negatif berarti total utang Garuda sedikit melebihi total asetnya, sinyal kerentanan modal yang biasa dicermati investor dan bank karena bisa mempersulit perusahaan mendapat pinjaman baru, meski posisi ini jauh membaik dibanding minus US$1,35 miliar pada akhir 2024. Kas perusahaan juga menyusut dari US$943,40 juta menjadi US$624,34 juta dalam enam bulan, sementara beban bunga turun dari US$251,59 juta menjadi US$222,44 juta seiring penurunan utang berbunga. Yang perlu dipantau berikutnya adalah RUPSLB yang dijadwalkan 6 November 2026, karena Garuda tengah menyiapkan rights issue ketiga untuk menambah modal, dan hasilnya akan menentukan apakah posisi ekuitas bisa kembali positif secara berkelanjutan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dpns-janji-sampaikan-laporan-keuangan-kuartal-ii-diaudit",
+  "category": "Aksi Korporasi",
+  "title": "DPNS Janji Sampaikan [Laporan Keuangan] Kuartal II Diaudit",
+  "deck": "Sehari setelah disuspensi BEI karena telat lapor, Duta Pertiwi Nusantara (DPNS) menyatakan akan menyampaikan laporan keuangan kuartal II 2026 yang telah diaudit akuntan publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T22:48:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5991bbc89_e0bc21135e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DPNS",
+  "tags": [
+   "DPNS",
+   "Duta Pertiwi Nusantara",
+   "suspensi BEI",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Duta Pertiwi Nusantara Tbk (DPNS) menyampaikan surat keterbukaan informasi bernomor 073/DPN/PTK/IX/2026 pada 30 September 2026 pukul 22.48 WIB, yang ditandatangani Direktur Hendrik Loprado. Dalam surat itu, merujuk Peraturan Bursa Efek Indonesia No. I-E tentang kewajiban penyampaian informasi, perseroan menyatakan berencana menyerahkan laporan keuangan kuartal II tahun buku 2026 yang telah diaudit oleh akuntan publik. Surat tidak mencantumkan tanggal pasti penyampaian laporan tersebut.",
+   "Pada kolom informasi lain di surat yang sama, DPNS juga menyebut adanya penambahan KBLI atau Klasifikasi Baku Lapangan Usaha Indonesia, yakni kode yang menandai bidang usaha resmi perusahaan, tanpa merinci kode atau bidang usaha baru yang dimaksud.",
+   "Pengumuman ini terbit tak lama setelah DPNS disuspensi BEI pada 29 September 2026 karena keterlambatan menyampaikan laporan keuangan, menyusul sanksi denda Rp150 juta pada 24 September 2026 akibat keterlambatan berulang sejak Peringatan Tertulis II hingga III. Rencana penyampaian laporan kuartal II yang diaudit ini menjadi langkah yang ditunggu pasar untuk menilai apakah DPNS mulai memenuhi kewajiban pelaporan yang sempat tertunda tersebut."
+  ],
+  "fotoAdegan": "Accountant reviewing stacks of paper financial files with a calculator at a cluttered office desk, warm lamp light",
+  "takeaway": "Laporan ini netral bagi DPNS, karena baru berupa pernyataan niat menyampaikan laporan keuangan tanpa tanggal pasti, belum benar-benar menyelesaikan masalah yang membuat sahamnya disuspensi. Yang tersentuh di sini bukan angka kinerja seperti ekuitas atau laba per saham, melainkan akses transaksi saham itu sendiri, karena status suspensi membuat investor untuk sementara tidak bisa memperjualbelikan saham DPNS di pasar reguler sampai kewajiban pelaporan dipenuhi. Laporan keuangan diaudit penting karena menjadi dasar bursa menilai kelayakan mencabut suspensi dan memberi gambaran arus kas serta kondisi keuangan perusahaan yang sebelumnya tertunda diungkap. Yang perlu dipantau selanjutnya adalah tanggal aktual penyampaian laporan keuangan kuartal II 2026 yang diaudit tersebut, serta apakah BEI mencabut suspensi perdagangan saham DPNS setelah kewajiban itu dipenuhi.",
+  "sentimen": "netral"
  },
  {
   "slug": "sema-jawab-bursa-nilai-kontrak-data-center-tak-diungkap",

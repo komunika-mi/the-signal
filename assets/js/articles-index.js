@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "swat-jawab-bursa-ekuitas-ambruk-ke-rp12-46-m-kas-kritis",
+  "category": "Aksi Korporasi",
+  "title": "SWAT Jawab Bursa: Ekuitas Ambruk ke Rp12,46 M, Kas [Kritis]",
+  "deck": "SWAT menjawab permintaan penjelasan Bursa atas opini wajar dengan pengecualian, ekuitas yang tergerus 79,52%, penjualan ambruk 63%, dan kasus hukum direktur utamanya.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SWAT",
+   "opini wajar dengan pengecualian",
+   "suspensi saham",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc3e329242_9c55ff8e82.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untr-undur-jadwal-dividen-interim-ke-november-nilai-tetap-rp430",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Undur Jadwal [Dividen] Interim ke November, Nilai Tetap Rp430",
+  "deck": "UNTR menunda pembayaran dividen interim dari 26 Oktober ke November 2026 agar mengacu pada laporan keuangan kuartal III, sementara nilainya tetap Rp430 per saham atau maksimal Rp1,478 triliun.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "dividen interim",
+   "United Tractors",
+   "jadwal dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ee24d3a59_558c3f0191.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "giaa-rencanakan-rights-issue-iii-dam-setor-saham-gmfi",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Rencanakan Rights Issue III, DAM Setor Saham [GMFI]",
+  "deck": "Danantara Asset Management akan menebus haknya dalam rights issue baru Garuda lewat penyetoran saham GMFI, bukan uang tunai, menyusul rencana restrukturisasi 2025-2029.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GIAA",
+   "rights issue",
+   "Danantara Asset Management",
+   "GMFI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1a58ad7f29_0d0e43baf6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asgr-ubah-dividen-interim-jadi-dividen-tunai-final-rp297-saham",
+  "category": "Aksi Korporasi",
+  "title": "ASGR Ubah Dividen Interim Jadi [Dividen Tunai Final] Rp297/Saham",
+  "deck": "Astra Graphia mengubah rencana dividen interim Rp297 per saham menjadi dividen tunai final dengan jumlah sama, namun kini butuh persetujuan RUPSLB yang direncanakan November 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASGR",
+   "dividen",
+   "RUPSLB",
+   "Astra Graphia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93c66f99ec_1a5a4fd0f6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "giaa-gelar-rupslb-6-november-usul-agenda-ditutup-8-oktober",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Gelar RUPSLB [6 November], Usul Agenda Ditutup 8 Oktober",
+  "deck": "Garuda Indonesia mengumumkan RUPSLB pada 6 November 2026 secara daring lewat sistem eASY.KSEI. Pemegang saham per 14 Oktober berhak hadir, usul agenda ditutup 8 Oktober.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GIAA",
+   "RUPSLB",
+   "Garuda Indonesia",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a79761abf_a8240bc456.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tlkm-ubah-susunan-direksi-lewat-rupslb-dua-direktur-baru",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Ubah Susunan Direksi Lewat [RUPSLB], Dua Direktur Baru",
+  "deck": "RUPSLB Telkom menetapkan Radita Ali Putra dan Kharim I.G. Siregar sebagai direktur baru menggantikan Budi Satria Dharma Purba dan Faizal Rochmad Djoemadi, berlaku sejak 30 September 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "Direksi",
+   "RUPSLB",
+   "Telkom"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/038e2d61f2_f8cc9ee445.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bansos-beras-dan-bsu-cair-kuartal-iv-pph-pekerja-diperluas",
   "category": "Makroekonomi",
   "title": "Bansos Beras dan BSU Cair Kuartal IV, PPh Pekerja [Diperluas]",
@@ -19,6 +115,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7120/pemerintah-siapkan-sejumlah-program-ekonomi-untuk-perkuat-perlidungan-masyarakat-dan-dorong-pertumbuhan-di-2027",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "bmri-lunasi-obligasi-rp2-4-triliun-tepat-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BMRI Lunasi Obligasi [Rp2,4 Triliun] Tepat Jatuh Tempo",
+  "deck": "Bank Mandiri membayar pokok Obligasi Berkelanjutan I Tahap I Tahun 2016 Seri C senilai Rp2,4 triliun pada tanggal jatuh temponya, 30 September 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMRI",
+   "Bank Mandiri",
+   "obligasi",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2d6d817e7d_fcb482b3ae.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "giaa-rugi-menyempit-jadi-us-112-96-juta-ekuitas-kembali-negatif",
+  "category": "Aksi Korporasi",
+  "title": "GIAA: Rugi Menyempit Jadi US$112,96 Juta, Ekuitas Kembali [Negatif]",
+  "deck": "Laporan keuangan interim auditan semester I 2026 menunjukkan pendapatan Garuda naik dan rugi menyempit, tapi ekuitas kembali defisit tipis pada akhir Juni.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GIAA",
+   "Garuda Indonesia",
+   "laporan keuangan",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930231857-64415-0/FinancialStatement-2026-II-GIAA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dpns-janji-sampaikan-laporan-keuangan-kuartal-ii-diaudit",
+  "category": "Aksi Korporasi",
+  "title": "DPNS Janji Sampaikan [Laporan Keuangan] Kuartal II Diaudit",
+  "deck": "Sehari setelah disuspensi BEI karena telat lapor, Duta Pertiwi Nusantara (DPNS) menyatakan akan menyampaikan laporan keuangan kuartal II 2026 yang telah diaudit akuntan publik.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DPNS",
+   "Duta Pertiwi Nusantara",
+   "suspensi BEI",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5991bbc89_e0bc21135e.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "sema-jawab-bursa-nilai-kontrak-data-center-tak-diungkap",
@@ -6352,152 +6496,6 @@ var ARTICLES = [
    "Waskita Karya"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/691b7db3dc_439177adf4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sema-bantah-punya-info-material-tersembunyi-usai-suspensi",
-  "category": "Aksi Korporasi",
-  "title": "SEMA [Bantah] Punya Info Material Tersembunyi usai Suspensi",
-  "deck": "PT Semacom Integrated Tbk menjawab permintaan penjelasan Bursa terkait suspensi sahamnya, menyatakan tidak ada kontrak baru atau perkara hukum yang belum diungkapkan.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SEMA",
-   "suspensi saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d4d3941fae_9750c43ad6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-dukung-reviu-perjanjian-dagang-asean-india-rampung-2026",
-  "category": "Global",
-  "title": "RI Dukung Reviu Perjanjian Dagang ASEAN-India [Rampung] 2026",
-  "deck": "Wamendag Dyah Roro Esti menyatakan dukungan Indonesia agar reviu perjanjian dagang AITIGA dengan India rampung tahun ini, di sela pertemuan menteri ekonomi ASEAN-India di Filipina.",
-  "date": "23 September 2026",
-  "image": "assets/img/pasar-modal.jpg",
-  "tags": [
-   "AITIGA",
-   "ASEAN-India",
-   "Kementerian Perdagangan",
-   "Perdagangan Internasional"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-konsultasi-ke-23-aem-india-indonesia-dukung-penyelesaian-aitiga-reviu-di-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "hygn-public-expose-target-laba-tumbuh-15-20-di-2026",
-  "category": "Aksi Korporasi",
-  "title": "HYGN Public Expose: Target Laba Tumbuh [15-20]% di 2026",
-  "deck": "Manajemen Ecocare Indo Pasifik memaparkan tekanan margin 2025 akibat kenaikan UMP dan biaya rebranding, sembari menegaskan target pertumbuhan laba 15-20% tahun ini.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HYGN",
-   "Ecocare Indo Pasifik",
-   "Public Expose",
-   "capex"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f0e9bbce7_caf25707fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bsml-jadwalkan-rupslb-30-oktober-2026-di-jakarta",
-  "category": "Aksi Korporasi",
-  "title": "BSML Jadwalkan RUPSLB [30 Oktober 2026] di Jakarta",
-  "deck": "PT Bintang Samudera Mandiri Lines Tbk mengumumkan rencana RUPSLB pada 30 Oktober 2026 di Jakarta. Pemegang saham per 7 Oktober berhak hadir dan bersuara.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSML",
-   "RUPSLB",
-   "Bintang Samudera Mandiri Lines",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2a8874b440_bd016b476f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nick-jelaskan-rugi-portofolio-rp33-m-ke-bursa-klaim-sementara",
-  "category": "Aksi Korporasi",
-  "title": "NICK Jelaskan Rugi Portofolio Rp33 M ke Bursa, Klaim [Sementara]",
-  "deck": "PT Charnic Capital Tbk menjawab permintaan penjelasan Bursa soal kerugian portofolio saham, pendapatan anak usaha, dan penyebab kenaikan harga sahamnya.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICK",
-   "Charnic Capital",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f06552aa14_1894ac4cd8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jarr-jelaskan-ke-bursa-soal-akuisisi-byan-oleh-jhonlin-baratama",
-  "category": "Aksi Korporasi",
-  "title": "JARR Jelaskan ke Bursa Soal Akuisisi [BYAN] oleh Jhonlin Baratama",
-  "deck": "JARR menegaskan tidak terlibat dan tidak menyediakan dana dalam rencana akuisisi saham BYAN oleh Jhonlin Baratama, meski keduanya satu grup dan punya pengendali utama yang sama.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JARR",
-   "BYAN",
-   "Jhonlin Baratama",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a5245f70d_2d2702e4b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkp-undp-kirim-alat-dan-bibit-ke-petani-rumput-laut-sidoarjo",
-  "category": "UMKM",
-  "title": "KKP-UNDP Kirim Alat dan [Bibit] ke Petani Rumput Laut Sidoarjo",
-  "deck": "KKP dan UNDP Indonesia memberi ekskavator, bibit unggul, dan dukungan pembiayaan ke pembudidaya rumput laut Gracilaria di Sidoarjo, sambil mendorong investasi pengolahan.",
-  "date": "23 September 2026",
-  "image": "assets/img/kkp-undp-kirim-alat-dan-bibit-ke-petani-rumput-laut-sidoarjo.jpg",
-  "imageV": "mue5qzdx",
-  "tags": [
-   "rumput laut",
-   "KKP",
-   "UNDP",
-   "Sidoarjo"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-undp-dorong-peningkatan-produksi-dan-hilirisasi-rumput-laut-gracilaria-di-sidoarjo-BPWk.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "fta-asean-kanada-ditarget-rampung-sebelum-ktt-asean",
-  "category": "Global",
-  "title": "FTA ASEAN-Kanada Ditarget [Rampung] Sebelum KTT ASEAN",
-  "deck": "Indonesia mendorong ASEAN dan Kanada mempercepat perundingan FTA yang ditargetkan rampung sebelum KTT ASEAN awal November 2026, seiring lonjakan perdagangan dua arah kedua kawasan.",
-  "date": "23 September 2026",
-  "image": "assets/img/moneter-bi.jpg",
-  "tags": [
-   "ACAFTA",
-   "ASEAN-Kanada",
-   "Kementerian Perdagangan",
-   "Ekspor"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-percepatan-penyelesaian-perundingan-asean-canada-fta",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "mglv-setor-modal-rp98-miliar-ke-afiliasi-nac-dan-ngc",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Setor Modal Rp98 Miliar ke [Afiliasi] NAC dan NGC",
-  "deck": "Perseroan menyuntik modal Rp49 miliar ke masing-masing anak usaha NAC dan NGC, total Rp98 miliar, tergolong transaksi material karena melebihi 20 persen ekuitas Perseroan.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "transaksi afiliasi",
-   "penyertaan modal",
-   "data center"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a2755e5864_d3a1d2a224.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,262 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kdtn-jadwalkan-rupslb-pada-6-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "KDTN Jadwalkan [RUPSLB] pada 6 November 2026",
+  "deck": "PT Puri Sentul Permai Tbk akan menggelar RUPS Luar Biasa pada 6 November 2026. Pemegang saham yang tercatat per 14 Oktober 2026 berhak hadir dan memberi suara.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "RUPSLB",
+   "Puri Sentul Permai",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5ae2d96d5b_06143c9634.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-suspensi-total-perdagangan-saham-pure-going-concern",
+  "category": "Aksi Korporasi",
+  "title": "BEI Suspensi [Total] Perdagangan Saham PURE, Going Concern",
+  "deck": "BEI menghentikan sementara seluruh perdagangan saham PURE di semua pasar sejak Rabu, menyusul keraguan signifikan atas kelangsungan usaha perseroan.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PURE",
+   "suspensi saham",
+   "going concern",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9c644037cd_d2d9768e6b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kdtn-tetapkan-cum-date-rupslb-usul-agenda-tenggat-8-okt",
+  "category": "Aksi Korporasi",
+  "title": "KDTN Tetapkan Cum Date [RUPSLB], Usul Agenda Tenggat 8 Okt",
+  "deck": "PT Puri Sentul Permai Tbk menjadwalkan RUPSLB pada 6 November 2026, dengan pemegang saham per 14 Oktober 2026 yang berhak hadir dan memberi suara.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "RUPSLB",
+   "Puri Sentul Permai",
+   "Rapat Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5ae2d96d5b_06143c9634.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "grpm-pemegang-saham-pengendali-jual-seluruh-saham-ke-rimau-group",
+  "category": "Aksi Korporasi",
+  "title": "GRPM: Pemegang Saham Pengendali Jual [Seluruh] Saham ke Rimau Group",
+  "deck": "Pemegang saham pengendali GRPM sedang due diligence untuk menjual seluruh sahamnya ke PT Tunas Binatama Lestari (Rimau Group), sesuai penjelasan ke BEI.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GRPM",
+   "pengendali saham",
+   "Rimau Group",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0f0e043806_384ae58215.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smsm-terima-dividen-myr3-5-juta-dari-entitas-anak-di-malaysia",
+  "category": "Aksi Korporasi",
+  "title": "SMSM Terima Dividen MYR3,5 Juta dari [Entitas Anak] di Malaysia",
+  "deck": "Selamat Sempurna Tbk mencatat pendapatan dividen MYR3,5 juta dari entitas anaknya di Malaysia, Bradke Synergies Sdn. Bhd., pada 30 September 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMSM",
+   "dividen",
+   "entitas anak",
+   "Bradke Synergies"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/62a51f3d30_7a7a44197e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mora-raup-rp768-miliar-dari-target-sukuk-rp3-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MORA Raup Rp768 Miliar dari Target [Sukuk] Rp3 Triliun",
+  "deck": "Moratelindo hanya menghimpun Rp768,18 miliar dari target Rp3 triliun dalam penawaran umum berkelanjutan Sukuk Ijarah II selama 2023-2024, akibat kondisi pasar dan efisiensi biaya pendanaan.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MORA",
+   "Sukuk Ijarah",
+   "Moratelindo",
+   "Obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/81784dc264_2ef7d8f65f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "taxi-jelaskan-lonjakan-harga-28-57-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "TAXI Jelaskan Lonjakan Harga [28,57%] ke Bursa",
+  "deck": "Bursa meminta penjelasan setelah saham TAXI melonjak 28,57% dengan volume transaksi naik hampir 12 kali lipat dalam sehari, tapi perseroan mengaku tak punya informasi material baru.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAXI",
+   "Express Transindo Utama",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1317bc0363_b1cb8e7428.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aali-jadwalkan-dividen-interim-rp233-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "AALI Jadwalkan [Dividen] Interim Rp233 per Saham",
+  "deck": "Astra Agro Lestari akan membagikan dividen interim tahun buku 2026 sebesar Rp233 per saham, total Rp449,03 miliar, dibayar 26 Oktober 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AALI",
+   "dividen interim",
+   "Astra Agro Lestari",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a92fba7b53_0f98446163.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppln-siap-bayar-rp455-miliar-obligasi-sukuk-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "PPLN Siap Bayar [Rp455 Miliar] Obligasi-Sukuk Jatuh Tempo",
+  "deck": "Bursa mencatat obligasi dan sukuk ijarah PLN senilai total Rp455 miliar jatuh tempo 1 Oktober 2026, dan perusahaan mengonfirmasi dana pembayaran sudah siap dikirim ke KSEI.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPLN",
+   "obligasi",
+   "sukuk ijarah",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1812042de1_0df877a2f4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gems-bagikan-dividen-interim-us-200-juta-rp611-93-saham",
+  "category": "Aksi Korporasi",
+  "title": "GEMS Bagikan [Dividen] Interim US$200 Juta, Rp611,93/Saham",
+  "deck": "GEMS akan membagikan dividen interim tahun buku 2026 senilai US$200 juta, setara Rp611,93 per saham, dibayar 22 Oktober 2026.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GEMS",
+   "dividen interim",
+   "Golden Energy Mines",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e405b45452_6c49faa9d2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppro-gelar-rupslb-22-oktober-untuk-ubah-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "PPRO Gelar RUPSLB 22 Oktober untuk [Ubah] Susunan Direksi",
+  "deck": "PT PP Properti Tbk memanggil RUPSLB pada 22 Oktober 2026 dengan agenda tunggal persetujuan perubahan susunan direksi perseroan.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRO",
+   "RUPSLB",
+   "Direksi",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/023373a163_84add9b25a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-rogoh-pinjaman-rp6-m-danai-akuisisi-tri-satria-indah-motor",
+  "category": "Aksi Korporasi",
+  "title": "INPS Rogoh Pinjaman Rp6 M Danai Akuisisi [Tri Satria Indah Motor]",
+  "deck": "Indah Prakasa Sentosa mengoreksi tanggal pelaksanaan RUPSLB yang salah input, sekaligus melaporkan fasilitas pinjaman Rp6 miliar dari individu untuk mendanai akuisisi saham PT Tri Satria Indah Motor.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "RUPSLB",
+   "akuisisi",
+   "pinjaman"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0708f7db92_6b1467d118.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jpfa-divestasi-vaksindo-rp1-81-triliun-ke-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "JPFA Divestasi Vaksindo Rp1,81 Triliun ke [Afiliasi]",
+  "deck": "JAPFA Comfeed menjual seluruh saham PT Vaksindo Satwa Nusantara senilai Rp1,81 triliun kepada induk usahanya Japfa Pte Ltd dan Bionovus, dinilai wajar oleh penilai independen.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JPFA",
+   "Japfa Comfeed",
+   "Transaksi Afiliasi",
+   "Vaksindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/703f039ad5_f977aff3a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nick-jawab-bursa-akuisisi-ev-genset-85-pendapatan-dari-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "NICK Jawab Bursa: Akuisisi EV-Genset, 85% Pendapatan dari [Afiliasi]",
+  "deck": "NICK merinci akuisisi Okansa Pacific dan Energindo Nusantara senilai hampir Rp45 miliar, tapi 85 persen pendapatan semester I 2026 datang dari transaksi ke pihak afiliasi.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "akuisisi",
+   "pihak afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a7c652affe_d6a5f0bf6d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beli-jadwalkan-public-expose-tahunan-pada-14-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BELI Jadwalkan [Public Expose] Tahunan pada 14 Oktober 2026",
+  "deck": "PT Global Digital Niaga Tbk (BELI) akan menggelar Public Expose Tahunan 2026 secara virtual pada 14 Oktober pukul 14.00 WIB, memaparkan kinerja perusahaan kepada investor.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BELI",
+   "Public Expose",
+   "Blibli",
+   "Global Digital Niaga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fe0f0ad96_8a189d9da3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-ajukan-10-seri-call-warrant-baru-acuan-arto-hingga-kija",
+  "category": "Aksi Korporasi",
+  "title": "ZP Ajukan 10 Seri [Call Warrant] Baru, Acuan ARTO Hingga KIJA",
+  "deck": "Maybank Sekuritas ajukan term sheet 10 call warrant baru atas ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, dan KIJA, masing-masing 500 juta unit, jatuh tempo 30 Juli 2027.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "Maybank Sekuritas",
+   "waran terstruktur",
+   "call warrant"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b98adcc423_2f429350a8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan",
   "category": "Energi",
   "title": "Pertamina Genjot Bisnis Energi [Hijau] Jadi Sumber Pertumbuhan",
@@ -6239,265 +6495,6 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-3032-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-utang-wwe-rp16-44-miliar-dinovasi-ke-wki-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: Utang WWE Rp16,44 Miliar Dinovasi ke WKI [Afiliasi]",
-  "deck": "Waskita Karya Infrastruktur mengambil alih utang Rp16,44 miliar milik Waskita Wado Energi kepada induk usaha Waskita Karya, bagian dari rencana penambahan modal WWE untuk proyek PLTA Wado.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "Waskita Karya",
-   "transaksi afiliasi",
-   "PLTA Wado"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1da298ade6_ad9b3815e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uang-rp100-ribu-tanda-tangan-purbaya-diburu-kolektor",
-  "category": "Moneter",
-  "title": "Uang Rp100 Ribu Tanda Tangan [Purbaya] Diburu Kolektor",
-  "deck": "Uang Rp100.000 bertanda tangan Purbaya Yudhi Sadewa dan Perry Warjiyo viral diburu kolektor, tapi Bank Indonesia memastikan uang itu tetap sah untuk bertransaksi.",
-  "date": "23 September 2026",
-  "image": "assets/img/uang-rp100-ribu-tanda-tangan-purbaya-diburu-kolektor.jpg",
-  "imageV": "mue5r1o4",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468885-viral-rupiah-bertanda-tangan-purbaya-diburu-kolektor-benarkah-langka-dan-mahal"
- },
- {
-  "slug": "asii-direksi-rudy-borong-4-4-juta-saham-kepemilikan-naik-3x",
-  "category": "Aksi Korporasi",
-  "title": "ASII: Direksi Rudy [borong] 4,4 juta saham, kepemilikan naik 3x",
-  "deck": "Direksi Astra International, Rudy, membeli 4,4 juta saham ASII senilai sekitar Rp21 miliar dalam dua hari, menambah kepemilikannya lebih dari tiga kali lipat menjadi 5,6 juta saham.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASII",
-   "Astra International",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1413-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hgii-direksi-tambah-kepemilikan-450-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "HGII: Direksi [Tambah] Kepemilikan 450.000 Saham",
-  "deck": "Direksi Robin Sunyoto membeli 450.000 saham HGII senilai sekitar Rp61,3 juta pada 16-22 September 2026, menaikkan hak suaranya dari 0,24% menjadi 0,25%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HGII",
-   "kepemilikan saham",
-   "direksi",
-   "insider trading"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-8237-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-investor-lepas-10-3-juta-saham-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Investor Lepas 10,3 Juta Saham via [Repo]",
-  "deck": "Sujito Ngatiman menjual 10,3 juta saham DEWI seharga Rp184 per lembar lewat skema repurchase agreement, menurunkan hak suaranya dari 8,04% jadi 7,53%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "repurchase agreement",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-6812-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-sujito-ngatiman-tambah-saham-jadi-8-04",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Sujito Ngatiman [Tambah] Saham Jadi 8,04%",
-  "deck": "Sujito Ngatiman membeli 8,89 juta saham DEWI lewat perjanjian pembelian kembali (repo) seharga Rp170 per lembar, hak suaranya naik dari 7,59% menjadi 8,04%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "repo",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-4072-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pt-pal-siapkan-galangan-di-lamongan-bisa-garap-kapal-selam",
-  "category": "BUMN",
-  "title": "PT PAL Siapkan Galangan di Lamongan, Bisa Garap [Kapal Selam]",
-  "deck": "PT PAL menyiapkan galangan kapal di Lamongan untuk kapal komersial hingga kapal perang dan kapal selam, memanfaatkan kapasitas reparasi kapal di Jawa Timur yang masih sangat terbatas.",
-  "date": "23 September 2026",
-  "image": "assets/img/pt-pal-siapkan-galangan-di-lamongan-bisa-garap-kapal-selam.jpg",
-  "imageV": "muduto2v",
-  "tags": [
-   "Lamongan",
-   "PT PAL",
-   "galangan kapal",
-   "kapal selam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468874-pt-pal-tangani-berbagai-jenis-kapal-termasuk-kapal-temour-dan-selam-di-lamongan-optimis-dongkrak-pad"
- },
- {
-  "slug": "dewi-sujito-ngatiman-lepas-12-9-juta-saham-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Sujito Ngatiman [Lepas] 12,9 Juta Saham via Repo",
-  "deck": "Sujito Ngatiman melepas 12,86 juta saham DEWI seharga Rp176 per lembar lewat perjanjian jual beli kembali, menurunkan hak suaranya dari 8,24 persen menjadi 7,60 persen.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "repo saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-6035-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-sujito-ngatiman-beli-12-9-juta-saham-suara-8-44",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Sujito Ngatiman Beli 12,9 Juta Saham, Suara [8,44%]",
-  "deck": "Sujito Ngatiman membeli 12,9 juta saham DEWI seharga Rp162 per lembar lewat perjanjian pembelian kembali, menambah hak suaranya dari 7,59% menjadi 8,44%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "repurchase agreement",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2105-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim",
-  "category": "Industri",
-  "title": "KKP Sita [1.048] Ton Udang Impor Diduga Bocor ke Pasar Jatim",
-  "deck": "KKP menyita 1.048 ton udang impor asal Kanada, Argentina, dan Ekuador di Jawa Timur yang diduga bocor dari Kawasan Berikat ke pasar dalam negeri.",
-  "date": "23 September 2026",
-  "image": "assets/img/kkp-sita-1-048-ton-udang-impor-diduga-bocor-ke-pasar-jatim.jpg",
-  "imageV": "mudtw0kv",
-  "tags": [
-   "KKP",
-   "udang impor",
-   "Jawa Timur",
-   "Kawasan Berikat"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-amankan-1048-ton-udang-impor-diduga-langgar-aturan-di-jawa-timur-v830.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "kkp-amankan-1-048-ton-udang-impor-diduga-ilegal-di-jatim",
-  "category": "Industri",
-  "title": "KKP [Amankan] 1.048 Ton Udang Impor Diduga Ilegal di Jatim",
-  "deck": "KKP menyita 1.048 ton udang impor asal Kanada, Argentina, dan Ekuador di Jawa Timur yang diduga tidak sesuai peruntukan, lalu menggandeng Ditjen Pajak untuk pendalaman.",
-  "date": "23 September 2026",
-  "image": "assets/img/kkp-amankan-1-048-ton-udang-impor-diduga-ilegal-di-jatim.jpg",
-  "imageV": "mudtwc50",
-  "tags": [
-   "udang impor",
-   "KKP",
-   "Jawa Timur",
-   "pembudidaya lokal"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/pengamanan-1048-ton-udang-impor-di-jatim-untuk-lindungi-pembudidaya-lokal-wK31.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "dewi-sujito-ngatiman-jual-13-5-juta-saham-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Sujito Ngatiman [Jual] 13,5 Juta Saham via Repo",
-  "deck": "Sujito Ngatiman melepas 13,52 juta saham DEWI lewat perjanjian jual beli kembali, menekan hak suaranya dari 8,27 persen menjadi 7,60 persen.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "repo saham",
-   "Sujito Ngatiman"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9885-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bi-tahan-suku-bunga-acuan-5-75-di-tengah-rupiah-tertekan",
-  "category": "Moneter",
-  "title": "BI [Tahan] Suku Bunga Acuan 5,75% di Tengah Rupiah Tertekan",
-  "deck": "Bank Indonesia menahan BI-Rate di 5,75 persen sambil memperluas insentif menjaga rupiah, di tengah inflasi Agustus yang naik ke 3,19 persen dan bunga acuan Amerika Serikat yang kembali naik.",
-  "date": "23 September 2026",
-  "image": "assets/img/bi-tahan-suku-bunga-acuan-5-75-di-tengah-rupiah-tertekan.jpg",
-  "imageV": "mudtwip8",
-  "tags": [
-   "BI-Rate",
-   "Bank Indonesia",
-   "Rupiah",
-   "Inflasi"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819326.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "dewi-sujito-ngatiman-beli-17-3-juta-saham-ke-8-23",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Sujito Ngatiman [Beli] 17,3 Juta Saham ke 8,23%",
-  "deck": "Sujito Ngatiman membeli 17,3 juta saham DEWI seharga Rp155 per lembar lewat skema perjanjian pembelian kembali, kepemilikannya naik dari 7,52% jadi 8,23% suara.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "repo",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-2121-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-sujito-ngatiman-lepas-11-5-juta-saham-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Sujito Ngatiman Lepas [11,5 Juta] Saham via Repo",
-  "deck": "Sujito Ngatiman melepas 11,5 juta saham DEWI lewat perjanjian repurchase (repo) pada 7 September 2026, hak suaranya turun dari 8,09 persen menjadi 7,52 persen.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "repo saham",
-   "Sujito Ngatiman"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-5602-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-pemegang-saham-tambah-kepemilikan-ke-8-05",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Pemegang Saham [Tambah] Kepemilikan ke 8,05%",
-  "deck": "Sujito Ngatiman membeli 10,5 juta saham DEWI seharga Rp157 per lembar, menambah hak suaranya dari 7,53% menjadi 8,05%.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "hak suara",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-1710-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

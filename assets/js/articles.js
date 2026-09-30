@@ -3,6 +3,422 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kdtn-jadwalkan-rupslb-pada-6-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "KDTN Jadwalkan [RUPSLB] pada 6 November 2026",
+  "deck": "PT Puri Sentul Permai Tbk akan menggelar RUPS Luar Biasa pada 6 November 2026. Pemegang saham yang tercatat per 14 Oktober 2026 berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T17:49:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5ae2d96d5b_06143c9634.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "RUPSLB",
+   "Puri Sentul Permai",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 6 November 2026 pukul 14.00, merujuk pada surat sebelumnya bernomor 118/PSP-CORSEC/LO/IX/2026. Pemanggilan resmi yang memuat agenda rapat akan diumumkan di laman Bursa Efek Indonesia (www.idx.co.id), laman PT Kustodian Sentral Efek Indonesia melalui eASY.KSEI, dan situs perusahaan www.purisentulpermai.com pada 15 Oktober 2026. Dokumen ini sendiri belum mencantumkan agenda atau keputusan apa yang akan dibahas dalam rapat.",
+   "Perseroan menetapkan 14 Oktober 2026 sebagai tanggal Daftar Pemegang Saham (DPS) yang berhak hadir atau diwakili dalam rapat, yaitu pemegang saham yang namanya tercatat di daftar pemegang saham perseroan pada tanggal itu, termasuk pemilik saham dalam sub rekening efek di KSEI sampai penutupan perdagangan pada hari yang sama. Pemegang saham yang berhak hadir bisa memberikan kuasa kehadiran dan suara secara elektronik lewat aplikasi eASY.KSEI melalui tautan akses.ksei.co.id, mulai dari tanggal Pemanggilan Rapat sampai 30 menit sebelum rapat dimulai.",
+   "Berdasarkan Peraturan OJK No. 15/2020, satu atau lebih pemegang saham yang mewakili minimal 1/20 atau lima persen dari total saham berhak suara dapat mengusulkan mata acara tambahan secara tertulis kepada Direksi, paling lambat 7 hari kalender sebelum Pemanggilan Rapat, yaitu 8 Oktober 2026, dengan menyertakan alasan dan bahan usulan sesuai aturan yang berlaku."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a low stage inside a corporate meeting hall, soft daylight through large windows",
+  "takeaway": "Laporan ini netral karena isinya hanya memberitahukan rencana dan mekanisme rapat, tanpa membocorkan agenda atau keputusan apa yang akan diambil, sehingga belum ada dasar untuk menilai dampaknya ke arah positif atau negatif bagi KDTN. Baru setelah Pemanggilan Rapat memuat agenda resminya, publik bisa menilai apakah RUPSLB ini menyentuh pos-pos seperti jumlah saham beredar, ekuitas, atau laba per saham, misalnya kalau agendanya menyangkut penerbitan saham baru atau perubahan struktur modal. Yang perlu dipantau pemegang saham KDTN selanjutnya adalah terbitnya Pemanggilan Rapat dengan agenda resmi pada 15 Oktober 2026, batas pengajuan usulan agenda tambahan oleh pemegang saham pada 8 Oktober 2026, dan pelaksanaan RUPSLB itu sendiri pada 6 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-suspensi-total-perdagangan-saham-pure-going-concern",
+  "category": "Aksi Korporasi",
+  "title": "BEI Suspensi [Total] Perdagangan Saham PURE, Going Concern",
+  "deck": "BEI menghentikan sementara seluruh perdagangan saham PURE di semua pasar sejak Rabu, menyusul keraguan signifikan atas kelangsungan usaha perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T17:37:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9c644037cd_d2d9768e6b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PURE",
+  "tags": [
+   "PURE",
+   "suspensi saham",
+   "going concern",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghentikan sementara perdagangan seluruh efek PT Trinitan Metals and Minerals Tbk (PURE) di seluruh pasar. Sebelumnya saham PURE sudah disuspensi di Pasar Reguler dan Pasar Tunai melalui mekanisme Periodic Call Auction. Dengan tambahan suspensi di Pasar Negosiasi, praktis tidak ada lagi mekanisme perdagangan yang tersisa bagi saham ini, berlaku sejak Sesi IV Periodic Call Auction pada Rabu, 30 September 2026, hingga ada pengumuman lanjutan dari BEI.",
+   "Alasan yang disebutkan BEI adalah belum adanya perkembangan signifikan dari upaya perbaikan yang dilakukan PURE, sehingga muncul indikasi ketidakpastian material yang bisa menimbulkan keraguan signifikan atas kemampuan perseroan mempertahankan kelangsungan usahanya. Faktor lain adalah penempatan PURE di Papan Pemantauan Khusus karena memenuhi kriteria III.1.5. Keputusan ini merujuk pada tiga dokumen, yaitu pengumuman BEI tahun 2022 soal penyampaian laporan keuangan auditan periode 2021, surat BEI tertanggal 23 September 2026 berisi permintaan penjelasan dan pengingat kewajiban kepada PURE, serta Surat Keputusan Direksi BEI tertanggal 25 September 2026 mengenai perubahan Peraturan Nomor I-X tentang penempatan efek di Papan Pemantauan Khusus.",
+   "BEI meminta seluruh pihak terkait untuk terus memperhatikan keterbukaan informasi yang disampaikan PURE ke depannya. Pengumuman ini ditandatangani oleh Aditya Nugraha selaku Pelaksana Harian Kepala Divisi Penilaian Perusahaan 1 dan Martin Satria D. Bako selaku Pelaksana Harian Kepala Divisi Pengaturan dan Operasional Perdagangan."
+  ],
+  "fotoAdegan": "Rows of stacked metal ingots in a dim, quiet industrial warehouse, overhead lighting, no workers in sight.",
+  "takeaway": "Laporan ini negatif bagi PURE, karena keputusan BEI menghentikan sementara seluruh perdagangan sahamnya di semua pasar bukan sekadar administrasi, melainkan pengakuan bahwa perusahaan belum bisa meyakinkan bursa soal kelangsungan usahanya meski sudah diberi waktu untuk berbenah. Yang tersentuh di sini adalah soal kelangsungan usaha, yaitu keraguan apakah perusahaan masih sanggup beroperasi sebagai bisnis yang berjalan, sebuah sinyal yang jauh lebih berat daripada sekadar rugi atau utang menumpuk karena menyangkut eksistensi perusahaan itu sendiri. Dampak langsungnya, pemegang saham PURE untuk sementara tidak bisa menjual maupun membeli sahamnya di bursa manapun, artinya dana yang tertanam di saham ini praktis terkunci sampai ada kabar lanjutan. Yang perlu dipantau berikutnya adalah penjelasan resmi PURE kepada BEI menyusul surat permintaan penjelasan tertanggal 23 September 2026, serta pengumuman BEI selanjutnya yang akan menentukan kapan atau apakah suspensi ini dicabut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kdtn-tetapkan-cum-date-rupslb-usul-agenda-tenggat-8-okt",
+  "category": "Aksi Korporasi",
+  "title": "KDTN Tetapkan Cum Date [RUPSLB], Usul Agenda Tenggat 8 Okt",
+  "deck": "PT Puri Sentul Permai Tbk menjadwalkan RUPSLB pada 6 November 2026, dengan pemegang saham per 14 Oktober 2026 yang berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T17:32:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5ae2d96d5b_06143c9634.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "RUPSLB",
+   "Puri Sentul Permai",
+   "Rapat Pemegang Saham"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 6 November 2026 pukul 14.00 WIB. Pengumuman ini disampaikan melalui surat resmi bernomor 119/PSP-CORSEC/LO/IX/2026 tertanggal 30 September 2026 yang ditandatangani Amanda Ayu Ningsih selaku Senior Manager perseroan, merujuk pada surat sebelumnya nomor 118/PSP-CORSEC/LO/IX/2026.",
+   "Perseroan menetapkan 14 Oktober 2026 sebagai tanggal Daftar Pemegang Saham (DPS), yakni batas pencatatan siapa saja yang berhak hadir dan memberikan suara dalam rapat. Pemegang saham yang berhak adalah mereka yang namanya tercatat di daftar pemegang saham perseroan atau pemilik saham dalam sub rekening efek di KSEI pada tanggal tersebut, sampai penutupan perdagangan saham KDTN di Bursa Efek Indonesia. Panggilan resmi rapat, yang biasanya memuat agenda dan mata acara, baru akan diumumkan di situs web IDX, KSEI, dan situs perseroan pada 15 Oktober 2026.",
+   "Dokumen ini juga menyebutkan bahwa pemegang saham yang mewakili minimal 1/20 atau lebih dari total saham dengan hak suara berhak mengusulkan mata acara rapat secara tertulis kepada direksi, dengan tenggat paling lambat 8 Oktober 2026, tujuh hari kalender sebelum pemanggilan rapat. Perseroan turut menyediakan fasilitas e-Proxy melalui aplikasi eASY.KSEI di tautan akses.ksei.co.id bagi pemegang saham yang ingin memberi kuasa kehadiran dan suara secara elektronik, mulai dari tanggal pemanggilan rapat sampai 30 menit sebelum rapat dimulai."
+  ],
+  "fotoAdegan": "Wide shot of a landscaped housing estate under construction near Bogor, cranes and scaffolding in the distance, hazy morning light",
+  "takeaway": "Laporan ini netral bagi KDTN karena isinya murni prosedural, sekadar memberitahukan jadwal dan mekanisme RUPSLB tanpa membocorkan agenda atau keputusan yang akan diajukan, sehingga belum ada dasar untuk menilai dampaknya ke kinerja perseroan. Yang perlu dipahami investor adalah fungsi tanggal DPS atau cum date, yaitu batas pencatatan pemegang saham yang berhak memberi suara, karena RUPSLB semacam ini biasanya jadi wadah pengambilan keputusan penting seperti perubahan struktur permodalan, pengurus, atau aksi korporasi lain yang bisa memengaruhi jumlah saham beredar maupun hak suara pemegang saham lama. Yang perlu dipantau berikutnya adalah pemanggilan resmi rapat pada 15 Oktober 2026, karena di situlah agenda sebenarnya baru akan terbuka, ditambah tenggat usul agenda oleh pemegang saham pada 8 Oktober 2026 dan pelaksanaan RUPSLB itu sendiri pada 6 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "grpm-pemegang-saham-pengendali-jual-seluruh-saham-ke-rimau-group",
+  "category": "Aksi Korporasi",
+  "title": "GRPM: Pemegang Saham Pengendali Jual [Seluruh] Saham ke Rimau Group",
+  "deck": "Pemegang saham pengendali GRPM sedang due diligence untuk menjual seluruh sahamnya ke PT Tunas Binatama Lestari (Rimau Group), sesuai penjelasan ke BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T17:27:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0f0e043806_384ae58215.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GRPM",
+  "tags": [
+   "GRPM",
+   "pengendali saham",
+   "Rimau Group",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Graha Prima Mentari Tbk (GRPM) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan atas volatilitas transaksi efek nomor S-12538/BEI.PP1/09-2026 tanggal 29 September 2026. Jawaban perusahaan dituangkan dalam surat nomor 1-190/GRPM-CORP/IX/2026 tertanggal 30 September 2026, ditandatangani oleh Direktur Utama sekaligus Sekretaris Perusahaan Agus Susanto, dan disampaikan secara elektronik oleh Direktur Lili Solihah.",
+   "Dalam jawabannya, GRPM menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun ketentuan III.2.1 Peraturan I-E Bursa Efek Indonesia. Namun perusahaan mengonfirmasi mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024: Pemegang Saham Utama dan Pengendali GRPM saat ini sedang menjalani proses due diligence untuk menjual seluruh kepemilikan sahamnya di GRPM kepada PT Tunas Binatama Lestari, yang dikenal sebagai Rimau Group. Rencana ini disebut sudah pernah disampaikan sebagai keterbukaan informasi ke publik sebelumnya, dan GRPM menyatakan akan terus berkoordinasi dengan pemegang saham pengendali serta memenuhi kewajiban keterbukaan informasi lanjutan bila ada perkembangan yang wajib diumumkan.",
+   "GRPM juga menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di bursa, dan tidak ada informasi atau fakta material lain yang material serta belum diungkapkan kepada publik terkait harga efek maupun kelangsungan usaha perusahaan."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's financial district, soft morning light, street traffic below.",
+  "takeaway": "Laporan ini netral bagi fundamental GRPM untuk saat ini, karena rencana pelepasan saham pengendali masih pada tahap due diligence, belum ada kesepakatan definitif, nilai transaksi, atau harga yang diungkap ke publik. Yang tersentuh di sini bukan laporan keuangan perusahaan, melainkan struktur kepemilikan dan hak suara: bila proses ini rampung, kendali penuh atas GRPM berpindah dari pemegang saham utama saat ini ke PT Tunas Binatama Lestari alias Rimau Group, yang berpotensi mengubah arah strategis dan jajaran direksi ke depan. Pelaku pasar mencermati proses semacam ini karena pergantian pengendali kerap diikuti perubahan strategi bisnis, meski belum tentu berdampak buruk atau baik bagi kinerja perusahaan. Yang perlu dipantau berikutnya adalah apakah due diligence ini berlanjut ke perjanjian jual beli saham yang mengikat, serta keterbukaan informasi lanjutan dari GRPM begitu proses itu mencapai kesepakatan, mengingat dokumen ini belum mencantumkan tenggat waktu penyelesaiannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smsm-terima-dividen-myr3-5-juta-dari-entitas-anak-di-malaysia",
+  "category": "Aksi Korporasi",
+  "title": "SMSM Terima Dividen MYR3,5 Juta dari [Entitas Anak] di Malaysia",
+  "deck": "Selamat Sempurna Tbk mencatat pendapatan dividen MYR3,5 juta dari entitas anaknya di Malaysia, Bradke Synergies Sdn. Bhd., pada 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T17:21:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/62a51f3d30_7a7a44197e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMSM",
+  "tags": [
+   "SMSM",
+   "dividen",
+   "entitas anak",
+   "Bradke Synergies"
+  ],
+  "body": [
+   "PT Selamat Sempurna Tbk (SMSM) menyampaikan keterbukaan informasi bahwa perusahaan menerima pendapatan dividen dari entitas anaknya, Bradke Synergies Sdn. Bhd. yang berbasis di Malaysia, senilai MYR3.500.000. Kejadian ini tercatat pada 30 September 2026 dan dilaporkan ke Otoritas Jasa Keuangan serta Bursa Efek Indonesia pada hari yang sama pukul 17.21 WIB.",
+   "Laporan ditandatangani oleh Ang Andri Pribadi selaku Wakil Direktur Utama SMSM, mengacu pada ketentuan Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi atau Fakta Material, sebagaimana diubah dengan POJK Nomor 45/POJK.04/2024. Dalam dokumen tersebut, manajemen menegaskan bahwa penerimaan dividen ini tidak membawa dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan.",
+   "Tidak ada keterangan tambahan lain yang disampaikan dalam laporan ini. Bradke Synergies Sdn. Bhd. tercatat sebagai satu-satunya entitas anak yang disebut dalam pos pendapatan dividen pada laporan ini, dengan total nilai yang sama, MYR3.500.000."
+  ],
+  "fotoAdegan": "Workers inspecting automotive filter components on an assembly line inside an Indonesian auto parts factory, industrial lighting",
+  "takeaway": "Laporan ini netral bagi kinerja SMSM secara konsolidasi, sebab dividen dari anak usaha ke induk pada dasarnya cuma perpindahan kas di dalam satu grup usaha, bukan tambahan laba baru bagi grup secara keseluruhan. Dalam laporan keuangan tersendiri milik induk usaha, uang ini akan tercatat sebagai kas masuk dan pendapatan lain-lain, tapi begitu digabung dengan laporan keuangan konsolidasian seluruh grup SMSM, transaksi antar-perusahaan seperti ini lazim dihapus lewat proses yang disebut eliminasi konsolidasi, sehingga tidak menambah ekuitas maupun laba per saham grup. Nilainya pun MYR3,5 juta, tergolong kecil dibanding skala bisnis SMSM sebagai produsen komponen otomotif dengan operasi di banyak negara. Yang perlu diperhatikan investor berikutnya adalah laporan keuangan konsolidasian SMSM periode berjalan, untuk melihat apakah arus kas dari entitas anak di Malaysia ini tercermin dalam pos pendapatan lain-lain di level induk usaha.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mora-raup-rp768-miliar-dari-target-sukuk-rp3-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MORA Raup Rp768 Miliar dari Target [Sukuk] Rp3 Triliun",
+  "deck": "Moratelindo hanya menghimpun Rp768,18 miliar dari target Rp3 triliun dalam penawaran umum berkelanjutan Sukuk Ijarah II selama 2023-2024, akibat kondisi pasar dan efisiensi biaya pendanaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T17:17:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/81784dc264_2ef7d8f65f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MORA",
+  "tags": [
+   "MORA",
+   "Sukuk Ijarah",
+   "Moratelindo",
+   "Obligasi"
+  ],
+  "body": [
+   "PT Ekamas Mora Republik Tbk (MORA), operator jaringan telekomunikasi Moratelindo, melaporkan hasil akhir Penawaran Umum Berkelanjutan (PUB) Sukuk Ijarah Berkelanjutan II Moratelindo kepada Otoritas Jasa Keuangan. Dari target dana Rp3 triliun yang pernyataan pendaftarannya dinyatakan efektif sejak 27 Juni 2023, perusahaan hanya berhasil menghimpun Rp768,18 miliar, terdiri dari Tahap I pada 2023 senilai Rp488,55 miliar dan Tahap II pada 2024 senilai Rp279,63 miliar. Dengan begitu, sisa dana dari rencana awal yang tidak pernah terserap mencapai Rp2,23 triliun.",
+   "Dalam surat bernomor 078/EMR/CORSEC/EXT/IX/2026 tertanggal 30 September 2026, Direktur sekaligus Sekretaris Perusahaan Resi Yuki Bramani menjelaskan bahwa kekurangan penyerapan dana ini terutama dipengaruhi oleh kondisi pasar yang berlaku pada masa penawaran, serta upaya efisiensi struktur biaya pendanaan perseroan. Perusahaan menegaskan jumlah penerbitan sukuk ijarah pada tiap tahap disesuaikan dengan hasil penawaran dan kondisi pasar saat itu, sehingga tidak seluruh rencana penerbitan sukuk direalisasikan sepanjang periode PUB berlangsung.",
+   "Perusahaan menyatakan tidak ada dampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha akibat tidak tercapainya target dana tersebut. Laporan ini disampaikan sebagai pemenuhan kewajiban berdasarkan Pasal 11 POJK Nomor 36/2014 tentang Penawaran Umum Berkelanjutan Efek Bersifat Utang dan/atau Sukuk."
+  ],
+  "fotoAdegan": "Technicians installing fiber optic cables on utility poles along a busy Jakarta street during daytime.",
+  "takeaway": "Laporan ini condong negatif tipis bagi Moratelindo, sebab perusahaan hanya menyerap sekitar seperempat dari target dana Sukuk Ijarah Rp3 triliun, tanda bahwa minat pasar terhadap surat utangnya sepanjang 2023-2024 tidak sebesar rencana awal, meski efisiensi biaya turut disebut sebagai pertimbangan perusahaan. Yang tersentuh di sini adalah arus kas pendanaan perusahaan, karena dana sukuk yang jauh lebih kecil dari rencana berarti Moratelindo punya ruang lebih terbatas untuk membiayai perluasan jaringan atau membayar utang lewat instrumen ini dibanding skenario penuh Rp3 triliun, dan kewajiban imbal hasil yang harus dibayar ke pemegang sukuk pun otomatis dihitung dari dana Rp768,18 miliar yang benar-benar terserap, bukan dari target semula. Yang perlu dipantau selanjutnya adalah bagaimana perusahaan menutup sisa kebutuhan dana Rp2,23 triliun yang tidak jadi terserap ini, apakah lewat instrumen utang baru, kas internal, atau penyesuaian rencana investasi, karena dokumen ini tidak menyebutkan langkah lanjutannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "taxi-jelaskan-lonjakan-harga-28-57-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "TAXI Jelaskan Lonjakan Harga [28,57%] ke Bursa",
+  "deck": "Bursa meminta penjelasan setelah saham TAXI melonjak 28,57% dengan volume transaksi naik hampir 12 kali lipat dalam sehari, tapi perseroan mengaku tak punya informasi material baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T17:08:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1317bc0363_b1cb8e7428.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAXI",
+  "tags": [
+   "TAXI",
+   "Express Transindo Utama",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Express Transindo Utama Tbk (TAXI) memberikan penjelasan resmi kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan menyusul lonjakan tak biasa pada perdagangan sahamnya. Dalam surat bernomor S-12533/BEI.PP1/09-2026 tertanggal 29 September 2026, bursa mencatat bahwa pada 28 September 2026 volume transaksi saham TAXI melonjak menjadi 995.175.400 saham dengan frekuensi 19.160 kali transaksi, jauh di atas hari bursa sebelumnya yang hanya 81.251.100 saham dengan 606 kali transaksi. Harga saham ikut terkerek naik Rp4 atau 28,57 persen, dari Rp14 menjadi Rp18 per saham.",
+   "Menanggapi permintaan tersebut melalui surat bernomor 066/ETU/CORSEC/IX/2026 tanggal 30 September 2026 yang ditandatangani Direktur Utama Johannes B.E. Triatmojo, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material apa pun yang bisa menjelaskan pergerakan harga dan volume tersebut, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 maupun ketentuan Peraturan Bursa Nomor I-E. Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024, serta tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di bursa.",
+   "Poin yang cukup mencolok dalam jawaban ini adalah pengakuan perseroan bahwa saat ini TAXI tidak memiliki pemegang saham utama maupun pengendali, sehingga pertanyaan bursa mengenai rencana pemegang saham pengendali terkait kepemilikannya tidak dapat dijawab lebih lanjut. Perseroan menutup surat dengan menegaskan tidak ada informasi atau kejadian material lain yang belum diungkapkan ke publik dan dapat memengaruhi harga saham maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Rows of taxi cabs parked in an urban depot in Jakarta, drivers checking vehicles in early morning light",
+  "takeaway": "Laporan ini netral bagi fundamental TAXI karena lonjakan harga dan volume yang terjadi murni gejala transaksi pasar, bukan hasil perubahan kinerja atau aksi korporasi apa pun yang diakui perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar yang tersentuh dalam penjelasan ini, dan itulah yang membuat lonjakan 28,57 persen dengan volume hampir 12 kali lipat patut dicermati sebagai indikasi transaksi spekulatif tanpa dasar fundamental baru. Yang perlu dipantau selanjutnya adalah pergerakan perdagangan saham TAXI pada hari-hari berikutnya, karena bursa berwenang meminta penjelasan lanjutan atau mengenakan notasi khusus jika pola volume dan harga ekstrem semacam ini berulang, terlebih perseroan sendiri mengaku saat ini tidak memiliki pemegang saham pengendali yang bisa dimintai konfirmasi soal rencana kepemilikannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aali-jadwalkan-dividen-interim-rp233-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "AALI Jadwalkan [Dividen] Interim Rp233 per Saham",
+  "deck": "Astra Agro Lestari akan membagikan dividen interim tahun buku 2026 sebesar Rp233 per saham, total Rp449,03 miliar, dibayar 26 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T17:06:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a92fba7b53_0f98446163.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AALI",
+  "tags": [
+   "AALI",
+   "dividen interim",
+   "Astra Agro Lestari",
+   "pasar modal"
+  ],
+  "body": [
+   "Astra Agro Lestari Tbk (AALI) akan membagikan dividen tunai interim untuk tahun buku 2026 sebesar Rp233 per saham, dengan total nilai Rp449.029.788.089 atau sekitar Rp449,03 miliar. Rencana ini sudah disetujui Dewan Komisaris pada 29 September 2026 dan disampaikan ke bursa oleh Corporate Secretary AALI, Tingning Sukowignjo.",
+   "Jadwalnya, cum dividen di pasar reguler dan negosiasi jatuh pada 8 Oktober 2026, dengan ex dividen sehari setelahnya pada 9 Oktober 2026. Untuk pasar tunai, cum dividen pada 12 Oktober 2026 dan ex dividen pada 13 Oktober 2026. Pemegang saham yang berhak menerima dividen adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per 12 Oktober 2026 pukul 16.00 WIB, dan pembayaran akan dilakukan paling lambat 26 Oktober 2026. Dasar pembagian ini adalah data keuangan per 30 Juni 2026, dengan laba bersih yang bisa diatribusikan ke pemegang saham induk sebesar Rp1,1 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp18,99 triliun, dan total ekuitas Rp24,61 triliun.",
+   "Bagi pemegang saham dengan saham fisik (warkat), dividen dibayar lewat transfer bank setelah menyerahkan data rekening dan fotokopi KTP atau paspor ke biro administrasi efek PT Raya Saham Registra, paling lambat 12 Oktober 2026 pukul 16.00 WIB. Bagi yang sahamnya tercatat di penitipan kolektif KSEI, dividen disalurkan lewat KSEI. Perseroan menegaskan tidak melayani permintaan pengalihan hak dividen ke pihak lain. Pemegang saham dalam negeri wajib menyerahkan NPWP paling lambat 12 Oktober 2026 pukul 16.00 WIB agar tidak dikenai tarif pajak dividen tanpa NPWP, sementara pemegang saham asing dari negara yang punya perjanjian penghindaran pajak berganda dengan Indonesia harus memenuhi syarat KSEI agar mendapat tarif sesuai perjanjian tersebut."
+  ],
+  "fotoAdegan": "Workers loading harvested palm oil fruit bunches onto a truck at a plantation collection yard, tropical morning light",
+  "takeaway": "Laporan ini condong positif bagi AALI, karena dividen yang dibagikan punya dasar laba riil dan tidak membebani keuangan perusahaan secara berlebihan. Total dividen Rp449,03 miliar setara sekitar 41 persen dari laba bersih semester pertama 2026 yang tercatat Rp1,1 triliun, dan hanya sekitar 1,8 persen dari total ekuitas Rp24,61 triliun, ekuitas sendiri adalah kekayaan bersih perusahaan setelah dikurangi seluruh kewajiban, jadi porsi sekecil itu berarti pembagian dividen tidak menggerus modal usaha AALI secara berarti. Uang kas yang keluar untuk dividen ini juga tergolong wajar dibanding saldo laba ditahan yang masih tersisa hampir Rp19 triliun, sehingga ruang perusahaan untuk investasi atau menjaga arus kas operasional tetap longgar. Yang perlu dipantau berikutnya adalah tenggat 12 Oktober 2026 pukul 16.00 WIB, yaitu batas pencatatan pemegang saham berhak sekaligus batas penyerahan NPWP untuk mendapat tarif pajak normal, serta tanggal pembayaran dividen pada 26 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ppln-siap-bayar-rp455-miliar-obligasi-sukuk-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "PPLN Siap Bayar [Rp455 Miliar] Obligasi-Sukuk Jatuh Tempo",
+  "deck": "Bursa mencatat obligasi dan sukuk ijarah PLN senilai total Rp455 miliar jatuh tempo 1 Oktober 2026, dan perusahaan mengonfirmasi dana pembayaran sudah siap dikirim ke KSEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:55:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1812042de1_0df877a2f4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPLN",
+  "tags": [
+   "PPLN",
+   "obligasi",
+   "sukuk ijarah",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa mulai 1 Oktober 2026, dua efek utang PT Perusahaan Listrik Negara (Persero) atau PPLN akan dihapus dari pencatatan dan tidak bisa diperdagangkan lagi di bursa karena telah jatuh tempo. Keduanya adalah Obligasi Berkelanjutan III PLN Tahap V Tahun 2019 Seri B dengan kode PPLN03BCN5 senilai pokok Rp445 miliar, dan Sukuk Ijarah Berkelanjutan III PLN Tahap V Tahun 2019 Seri B dengan kode SIPPLN03BCN5 senilai Rp10 miliar.",
+   "Kedua surat utang ini diterbitkan pada 1 Oktober 2019 dengan tenor 7 tahun. Obligasi seri B membawa bunga tetap 8,40 persen per tahun yang dibayarkan setiap tiga bulan, sementara sukuk ijarah seri B memakai skema cicilan imbalan ijarah dengan tingkat setara, yakni Rp84 juta per Rp1 miliar sisa imbalan per tahun. Keduanya merupakan bagian dari program Penawaran Umum Berkelanjutan III PLN yang menargetkan total himpunan dana Rp16 triliun untuk obligasi dan Rp4 triliun untuk sukuk ijarah, diterbitkan bertahap sejak 2018 dan sudah memperoleh peringkat idAAA dari Pefindo.",
+   "Dalam surat bertanggal 2 September 2026 kepada Direksi Bursa Efek Indonesia, Sekretaris Perusahaan PLN, Yuliandra Syahrial Nurdin, menyatakan perseroan telah menyiapkan dana untuk melunasi pokok obligasi sebesar Rp445 miliar dan sisa imbalan ijarah sukuk sebesar Rp10 miliar, dengan total Rp455 miliar. Dana tersebut akan dibayarkan kepada PT Kustodian Sentral Efek Indonesia selaku agen pembayar, paling lambat pada tanggal jatuh tempo, yaitu 1 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of high-voltage transmission towers carrying power lines across green rice fields under a hazy afternoon sky in Indonesia",
+  "takeaway": "Laporan ini condong positif bagi PLN karena perusahaan mengonfirmasi dananya sudah siap sebelum tanggal jatuh tempo, tanda tidak ada kesulitan arus kas untuk melunasi utang sebesar Rp455 miliar. Pembayaran ini akan mengurangi utang obligasi dan sukuk yang tercatat di neraca perusahaan, sekaligus menyedot kas sejumlah yang sama, dan pelaku pasar memperhatikan pos ini karena menunjukkan seberapa besar beban jatuh tempo yang harus ditanggung emiten dalam waktu dekat serta apakah kasnya cukup untuk menutupnya tanpa berutang baru. PLN memang badan usaha milik negara berperingkat kredit tertinggi, jadi pelunasan tepat waktu semacam ini bukan kejutan, tetapi tetap jadi bukti nyata kepatuhan pada jadwal utang yang dijanjikan ke investor. Yang perlu dipantau berikutnya adalah realisasi pembayaran ke KSEI pada 1 Oktober 2026 bersamaan dengan pencoretan kedua efek ini dari papan Bursa Efek Indonesia, serta apakah PLN akan menerbitkan Obligasi Berkelanjutan III Tahap VI atau kelanjutannya untuk menggantikan pendanaan yang baru saja lunas.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "gems-bagikan-dividen-interim-us-200-juta-rp611-93-saham",
+  "category": "Aksi Korporasi",
+  "title": "GEMS Bagikan [Dividen] Interim US$200 Juta, Rp611,93/Saham",
+  "deck": "GEMS akan membagikan dividen interim tahun buku 2026 senilai US$200 juta, setara Rp611,93 per saham, dibayar 22 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:51:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e405b45452_6c49faa9d2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GEMS",
+  "tags": [
+   "GEMS",
+   "dividen interim",
+   "Golden Energy Mines",
+   "pasar modal"
+  ],
+  "body": [
+   "Golden Energy Mines Tbk (GEMS) memutuskan membagikan dividen tunai interim untuk tahun buku 2026 senilai total US$200 juta, setelah disetujui Direksi dan Dewan Komisaris pada 29 September 2026. Nilai itu setara US$0,034 per saham, atau Rp611,93 per saham memakai kurs tengah Bank Indonesia per 30 September 2026 sebesar Rp17.998 per dolar AS.",
+   "Perseroan menetapkan 8 Oktober 2026 sebagai hari terakhir saham GEMS diperdagangkan dengan hak dividen (cum dividen) di pasar reguler dan negosiasi, sehingga mulai 9 Oktober 2026 saham sudah diperdagangkan tanpa hak dividen. Untuk pasar tunai, cum dividen jatuh pada 12 Oktober 2026 dan ex dividen pada 13 Oktober 2026. Pemegang saham yang namanya tercatat dalam daftar pemegang saham per 12 Oktober 2026 pukul 16.00 WIB berhak menerima dividen, yang akan dibayarkan paling lambat 22 Oktober 2026.",
+   "Dasar keuangan pembagian dividen ini, berdasarkan data per 25 September 2026, adalah laba bersih yang diatribusikan ke entitas induk sebesar US$219,96 juta, saldo laba ditahan yang tidak dibatasi penggunaannya US$613,6 juta, dan total ekuitas US$852,7 juta. Perseroan juga merinci aturan pajak dividen ini: pemegang saham badan usaha dalam negeri bebas pajak penghasilan, pemegang saham perorangan dalam negeri bebas pajak asalkan dividen diinvestasikan kembali di Indonesia, sementara pemegang saham asing dikenakan tarif sesuai perjanjian penghindaran pajak berganda jika menyerahkan dokumen domisili pajak ke KSEI paling lambat 12 Oktober 2026 pukul 16.00 WIB, atau kena potongan pajak 20 persen jika dokumen itu tidak diserahkan."
+  ],
+  "fotoAdegan": "Coal conveyor loading barges at a river port terminal, workers monitoring the process under hazy tropical daylight",
+  "takeaway": "Laporan ini condong positif bagi GEMS karena perusahaan membagikan hampir seluruh laba bersihnya, sekitar 91 persen dari US$219,96 juta laba periode berjalan, sebagai dividen tunai, sesuatu yang biasanya hanya dilakukan emiten yang yakin arus kasnya kuat, apalagi menyusul laporan laba semester satu yang naik 47 persen dua hari sebelumnya. Pos yang tersentuh adalah ekuitas, yaitu total kekayaan bersih perusahaan setelah dikurangi utang, karena pembayaran dividen sebesar US$200 juta akan langsung memangkas saldo laba ditahan dan mengurangi ekuitas perusahaan meski kasnya keluar ke kantong pemegang saham, bukan hilang begitu saja. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 12 Oktober 2026 pukul 16.00 WIB untuk menentukan siapa yang berhak menerima dividen, tenggat 12 Oktober 2026 pukul 16.00 WIB bagi pemegang saham asing untuk menyerahkan dokumen domisili pajak agar tidak kena potongan 20 persen, serta tanggal pembayaran pada 22 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ppro-gelar-rupslb-22-oktober-untuk-ubah-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "PPRO Gelar RUPSLB 22 Oktober untuk [Ubah] Susunan Direksi",
+  "deck": "PT PP Properti Tbk memanggil RUPSLB pada 22 Oktober 2026 dengan agenda tunggal persetujuan perubahan susunan direksi perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:44:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/023373a163_84add9b25a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRO",
+  "tags": [
+   "PPRO",
+   "RUPSLB",
+   "Direksi",
+   "Pasar Modal"
+  ],
+  "body": [
+   "PT PP Properti Tbk (PPRO) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), merujuk pada pemberitahuan sebelumnya bernomor 489/EXT/DIR/PPRO/2026 tanggal 15 September 2026. Rapat dijadwalkan Kamis, 22 Oktober 2026 pukul 14.00 WIB, digelar secara fisik di Auditorium Wisma Subiyanto, Plaza PP, Jl. Letjend TB Simatupang No. 57, Pasar Rebo, Jakarta Timur, sekaligus secara elektronik lewat fasilitas eASY.KSEI. Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 29 September 2026 pukul 16.15 WIB.",
+   "Agenda tunggal RUPSLB ini adalah persetujuan perubahan susunan pengurus perseroan, yang di lembar pemberitahuan disebut sebagai pengangkatan kembali atau perubahan susunan direksi. Perseroan menjelaskan agenda ini diajukan untuk memenuhi ketentuan Anggaran Dasar, Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, serta Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik. Dokumen pemanggilan tidak mencantumkan nama calon direksi maupun alasan spesifik di balik rencana perubahan tersebut.",
+   "Bagi pemegang saham yang ingin memberi kuasa secara elektronik melalui eASY.KSEI, deklarasi kehadiran atau kuasa dapat diubah sejak tanggal pemanggilan hingga paling lambat Rabu, 21 Oktober 2026 pukul 12.00 WIB, satu hari kerja sebelum rapat. Surat kuasa fisik yang sudah diisi juga harus diserahkan ke Biro Administrasi Efek perseroan, PT BSR Indonesia di Menteng, Jakarta Pusat, dengan tenggat yang sama. Sesuai POJK 15/2020, bahan mata acara rapat tersedia sejak tanggal pemanggilan ini hingga hari pelaksanaan RUPSLB."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a stage in a modern corporate auditorium, soft morning light through windows",
+  "takeaway": "Laporan ini condong netral bagi PPRO karena pemanggilan RUPSLB hanya memastikan jadwal dan agenda perubahan susunan direksi, tanpa menyebut nama calon atau alasan pergantian, sehingga arah dampaknya belum bisa dibaca dari dokumen ini. Tidak ada pos laporan keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh langsung oleh pemanggilan ini, tapi pelaku pasar tetap mencermati komposisi direksi karena merekalah yang nantinya mengambil keputusan strategis perusahaan, termasuk soal proyek properti dan pengelolaan utang. Yang perlu dipantau adalah pelaksanaan RUPSLB pada 22 Oktober 2026 pukul 14.00 WIB, saat pemegang saham resmi memutuskan susunan direksi baru, dengan batas akhir pemberian kuasa elektronik pada 21 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inps-rogoh-pinjaman-rp6-m-danai-akuisisi-tri-satria-indah-motor",
+  "category": "Aksi Korporasi",
+  "title": "INPS Rogoh Pinjaman Rp6 M Danai Akuisisi [Tri Satria Indah Motor]",
+  "deck": "Indah Prakasa Sentosa mengoreksi tanggal pelaksanaan RUPSLB yang salah input, sekaligus melaporkan fasilitas pinjaman Rp6 miliar dari individu untuk mendanai akuisisi saham PT Tri Satria Indah Motor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:39:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0708f7db92_6b1467d118.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "RUPSLB",
+   "akuisisi",
+   "pinjaman"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) mengoreksi surat pemberitahuan RUPSLB yang sebelumnya dikirim pada 29 September 2026, setelah ditemukan kesalahan penginputan pada kolom hari/tanggal di sistem pelaporan elektronik OJK. Perseroan menegaskan data yang benar adalah RUPSLB digelar Selasa, 3 November 2026 pukul 14.00 WIB di Gedung Inprase, Jalan Sunter Garden Raya Blok D8 No. 3G-3H, Sunter Agung, Tanjung Priok, Jakarta Utara. Tanggal daftar pemegang saham (DPS) yang berhak hadir ditetapkan Jumat, 9 Oktober 2026 pukul 16.00 WIB. Perseroan memastikan tidak ada perubahan jadwal, tempat, maupun mata acara RUPSLB, karena pengumuman yang lebih dulu terbit di situs eASY.KSEI dan situs perseroan sejak 25 September 2026 sudah memuat tanggal yang benar.",
+   "Dalam lampiran terpisah, Direktur Utama Muhammad Reagy Sukmana melaporkan bahwa pada 30 September 2026 perseroan menerima fasilitas pinjaman dengan plafon Rp6 miliar dari perorangan bernama Charli Handaka, berdasarkan perjanjian pinjaman yang dibuat di bawah tangan dan bermeterai cukup pada tanggal yang sama. Dana ini ditujukan untuk pengambilalihan saham PT Tri Satria Indah Motor, dengan jangka waktu pinjaman selama satu tahun dan klausul penyelesaian sengketa di Pengadilan Negeri Jakarta Pusat.",
+   "Perseroan menyatakan nilai pengambilalihan ini masih di bawah ambang batas transaksi material sesuai POJK 17/2020, serta tidak ada hubungan afiliasi maupun benturan kepentingan dengan Charli Handaka sesuai POJK 42/2020. Manajemen menilai perolehan pinjaman ini tidak akan berdampak material terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Interior of a small motorcycle dealership showroom in Jakarta, rows of parked motorbikes, staff quietly checking paperwork at a side desk",
+  "takeaway": "Laporan ini netral bagi fundamental INPS: nilainya kecil dan sumber dananya dari perorangan, bukan sinyal ekspansi besar maupun tekanan keuangan serius. Yang tersentuh adalah pos beban bunga dan arus kas, karena pinjaman Rp6 miliar ini harus dilunasi dalam satu tahun, sehingga menambah kewajiban di tengah posisi ekuitas perseroan yang belum lama ini masih negatif sebelum disuntik dana GIGP. Perlu dicermati apakah akuisisi PT Tri Satria Indah Motor benar rampung dan mulai berkontribusi ke pendapatan sebelum jatuh tempo pinjaman sekitar akhir September 2027. Yang dipantau berikutnya adalah RUPSLB pada Selasa, 3 November 2026 pukul 14.00 WIB, yang tanggalnya kini sudah dikoreksi tanpa mengubah agenda maupun jadwal daftar pemegang saham pada 9 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jpfa-divestasi-vaksindo-rp1-81-triliun-ke-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "JPFA Divestasi Vaksindo Rp1,81 Triliun ke [Afiliasi]",
+  "deck": "JAPFA Comfeed menjual seluruh saham PT Vaksindo Satwa Nusantara senilai Rp1,81 triliun kepada induk usahanya Japfa Pte Ltd dan Bionovus, dinilai wajar oleh penilai independen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:33:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/703f039ad5_f977aff3a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JPFA",
+  "tags": [
+   "JPFA",
+   "Japfa Comfeed",
+   "Transaksi Afiliasi",
+   "Vaksindo"
+  ],
+  "body": [
+   "JAPFA Comfeed Indonesia (JPFA) bersama anak usahanya, PT Ciomas Adisatwa, menandatangani Perjanjian Jual Beli Saham pada 29 September 2026 untuk melepas seluruh 31.000 saham PT Vaksindo Satwa Nusantara, termasuk hak atas tiga merek dagang yang terdaftar atas nama JPFA yaitu VAKSINDO, VAKSIMUNE, dan VITAKUR. Pembelinya adalah Japfa Pte Ltd, induk usaha sekaligus pemegang saham pengendali JPFA dengan kepemilikan 56,34 persen, bersama Bionovus Pte Ltd yang berkedudukan di Singapura. Peralihan hak atas saham berlaku efektif pada tanggal yang sama dengan penandatanganan perjanjian.",
+   "Nilai transaksi tercatat Rp1.807.389.000.000, setara Rp1,81 triliun, atau 8,47 persen dari total ekuitas JPFA berdasarkan laporan keuangan per 30 Juni 2026. Karena Japfa Pte Ltd merupakan induk usaha bersama bagi JPFA, Ciomas, maupun Bionovus, transaksi ini masuk kategori transaksi afiliasi sesuai POJK 42/2020. Manajemen menegaskan ini bukan transaksi benturan kepentingan karena tidak ada perbedaan antara kepentingan ekonomis perseroan dengan kepentingan pribadi direksi, komisaris, maupun pemegang saham pengendali, dan juga bukan transaksi material karena nilainya di bawah ambang batas yang mewajibkan persetujuan RUPS.",
+   "Sebagai syarat transaksi afiliasi, JPFA menunjuk KJPP Ruky, Safrudin & Rekan sebagai penilai independen untuk menerbitkan pendapat kewajaran, yang menyimpulkan transaksi ini dilakukan sesuai prinsip kewajaran atau arm's length. Vaksindo sendiri, berikut dua anak usahanya di India dan Vietnam, bergerak di bidang kesehatan hewan dengan memproduksi vaksin dan obat hewan di bawah tiga merek yang ikut dialihkan dalam transaksi ini."
+  ],
+  "fotoAdegan": "Laboratory technicians in white coats handling small glass vaccine vials on a stainless steel production line indoors",
+  "takeaway": "Transaksi ini condong netral bagi JPFA. Meski dijual kepada pihak yang justru menjadi pengendalinya sendiri, harga sudah diuji lewat pendapat kewajaran dari penilai independen dan nilainya di bawah batas yang mewajibkan restu pemegang saham lewat RUPS, jadi tidak ada indikasi kuat perseroan dirugikan. Yang tersentuh adalah arus kas dan ekuitas: JPFA menerima dana segar Rp1,81 triliun dari penjualan ini, tapi di sisi lain kehilangan anak usaha kesehatan hewan beserta tiga mereknya, sehingga pendapatan dari bisnis vaksin dan obat hewan itu berpindah ke tangan Japfa Pte Ltd dan Bionovus. Dokumen ini tidak menyebut apakah Vaksindo selama ini untung atau rugi, juga tidak menjelaskan rencana penggunaan dana hasil penjualan, sehingga dampak sebenarnya baru akan terlihat dari cara transaksi ini dibukukan pada laporan keuangan kuartal ketiga 2026. Pemegang saham perlu memantau laporan keuangan berikutnya untuk melihat pencatatan hasil divestasi ini serta penjelasan lanjutan soal alasan strategis pelepasan bisnis kesehatan hewan tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nick-jawab-bursa-akuisisi-ev-genset-85-pendapatan-dari-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "NICK Jawab Bursa: Akuisisi EV-Genset, 85% Pendapatan dari [Afiliasi]",
+  "deck": "NICK merinci akuisisi Okansa Pacific dan Energindo Nusantara senilai hampir Rp45 miliar, tapi 85 persen pendapatan semester I 2026 datang dari transaksi ke pihak afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:31:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a7c652affe_d6a5f0bf6d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "akuisisi",
+   "pihak afiliasi"
+  ],
+  "body": [
+   "PT Charnic Capital Tbk (NICK) menjawab surat permintaan penjelasan lanjutan Bursa Efek Indonesia nomor S-12511/BEI.PP2/09-2026 tanggal 29 September 2026, yang dikirim kembali oleh Corporate Secretary Nicholas Santoso pada 30 September 2026. Perseroan merinci dua akuisisi anak usaha yang menopang strategi green business: PT Okansa Pacific, yang bergerak di penyewaan kendaraan listrik dengan merek BYD, Denza, dan Wuling, serta PT Energindo Nusantara, yang menyewakan mesin genset dan memiliki perjanjian pasokan listrik dengan PT PLN (Persero) untuk wilayah Maba Buli, Maluku. Per 30 September 2026, NICK telah menyetor modal Rp9,999 miliar ke Okansa Pacific dan Rp34,999 miliar ke Energindo Nusantara, seluruhnya menggunakan kas internal tanpa utang baru. Selama semester I 2026, Okansa Pacific menambah aset kendaraan senilai Rp27,5 miliar berupa satu unit BYD Denza D9, 74 unit BYD M6, dan satu unit BYD Sealion, yang sebagian didanai dari pos pendanaan lain senilai Rp26 miliar.",
+   "Dari sisi pendapatan, NICK membukukan penjualan barang dan jasa Rp24,9 miliar pada semester I 2026, tapi Rp21,3 miliar di antaranya berasal dari satu transaksi penjualan satu set sistem Novacor kepada PT Okansa Indonesia, pihak yang oleh perusahaan sendiri dikonfirmasi berstatus afiliasi. Sisanya adalah Rp3,5 miliar dari penjualan listrik ke PT PLN (Persero) dengan rata-rata Rp550 juta per bulan, dan Rp94 juta dari penjualan 21 unit alat kelistrikan. Lima pelanggan terbesar grup per 30 Juni 2026 adalah PT Okansa Indonesia Rp21,3 miliar (afiliasi, barang), PT PLN (Persero) Rp2,13 miliar (jasa), PT Gerbang Sinergi Prima Rp1,67 miliar (jasa), PT Norgantara Energi Engineering Rp1,39 miliar (jasa), dan PT Wibon Kreasi Mandiri Rp89,9 juta (barang). Perseroan juga melaporkan utang usaha Rp2 miliar per Juni 2026, seluruhnya belum jatuh tempo, terbagi ke PT Harmoni Target Indonesia Rp1,29 miliar, PT Norgantara Energi Engineering Rp343,1 juta, PT Gratio Artha Prima Rp322,4 juta, dan PT Indopremier Sekuritas Rp69,6 juta.",
+   "Arus kas dari aktivitas operasional tercatat keluar Rp14,3 miliar pada semester I 2026, naik dari Rp7,2 miliar pada periode sama tahun lalu, yang menurut manajemen terutama dipicu efek konsolidasi laporan keuangan dengan entitas anak, termasuk kenaikan pajak dibayar dimuka dan pembayaran ke pemasok yang melonjak dari Rp727,7 juta menjadi Rp19,3 miliar. Perseroan menegaskan tidak memiliki perkara hukum dari kreditur maupun pemasok, dan tidak berencana melakukan aksi korporasi dalam satu tahun ke depan. Jumlah karyawan tetap turun dari 5 orang per akhir 2025 menjadi 4 orang per Juni 2026, yang menurut manajemen tetap memadai karena Perseroan beroperasi sebagai holding company yang mengandalkan efisiensi."
+  ],
+  "fotoAdegan": "Fleet of small electric cars parked in neat rows at a vehicle depot, workers checking charging cables, overcast afternoon light.",
+  "takeaway": "Penjelasan ini netral bagi pemegang saham NICK: ekspansi ke bisnis sewa kendaraan listrik dan genset didanai penuh dari kas internal tanpa tambahan utang, tapi hampir seluruh kenaikan pendapatan semester ini ternyata berasal dari satu transaksi penjualan ke perusahaan terafiliasi yang sifatnya sekali jual, bukan pendapatan sewa yang berulang. Dua pos yang tersentuh di sini adalah arus kas dari kegiatan operasional, yaitu uang kas yang keluar masuk dari menjalankan bisnis sehari-hari, yang justru makin banyak terpakai menjadi Rp14,3 miliar dari sebelumnya Rp7,2 miliar, dan komposisi pendapatan, karena pasar biasanya menghargai lebih tinggi pendapatan yang berulang seperti sewa dibanding penjualan satu kali karena lebih bisa diprediksi. Investor perlu membedakan pendapatan sewa EV dan genset yang riil tumbuh dari efek satu kali transaksi afiliasi senilai Rp21,3 miliar tersebut. Yang perlu dipantau berikutnya adalah laporan keuangan semester kedua atau tahun penuh 2026, untuk melihat apakah pendapatan sewa berulang dari PT Okansa Pacific dan PT Energindo Nusantara tumbuh tanpa bergantung pada transaksi afiliasi serupa, mengingat manajemen sendiri menyatakan tidak ada rencana aksi korporasi dalam satu tahun ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beli-jadwalkan-public-expose-tahunan-pada-14-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BELI Jadwalkan [Public Expose] Tahunan pada 14 Oktober 2026",
+  "deck": "PT Global Digital Niaga Tbk (BELI) akan menggelar Public Expose Tahunan 2026 secara virtual pada 14 Oktober pukul 14.00 WIB, memaparkan kinerja perusahaan kepada investor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:18:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fe0f0ad96_8a189d9da3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BELI",
+  "tags": [
+   "BELI",
+   "Public Expose",
+   "Blibli",
+   "Global Digital Niaga"
+  ],
+  "body": [
+   "PT Global Digital Niaga Tbk (BELI), pengelola platform e-commerce Blibli, mengumumkan rencana penyelenggaraan Public Expose Tahunan untuk tahun buku 2026. Acara akan digelar secara virtual melalui Zoom webinar pada Rabu, 14 Oktober 2026, pukul 14.00 hingga 15.00 WIB, dengan agenda pemaparan kinerja perusahaan. Investor dan pemegang saham dapat mengikuti acara melalui tautan yang telah disediakan perusahaan, http://blib.li/BELIpubex2026.",
+   "Public expose ini akan dihadiri oleh enam anggota direksi perusahaan, yaitu Direktur Utama Kusumo Martanto, serta Direktur Eric Alamsjah Winarta yang merangkap jabatan sebagai Sekretaris Perusahaan, Ronald Winardi, Hendry, Lisa Widodo, dan Andy Untono. Kehadiran seluruh direksi menunjukkan acara ini dimaksudkan sebagai forum bagi manajemen untuk menjelaskan kinerja perusahaan secara langsung kepada publik dan menjawab pertanyaan investor.",
+   "Perusahaan menyebutkan bahwa materi presentasi Public Expose akan disampaikan ke Bursa Efek Indonesia paling lambat tiga hari bursa sebelum tanggal pelaksanaan, sesuai ketentuan Peraturan BEI Nomor I-E. Kewajiban ini merujuk pada Surat Keputusan Direksi BEI No. Kep-00087/BEI/12-2025 dan Surat Edaran BEI No. SE-00003/BEI/05-2020 tentang tata cara pelaksanaan public expose secara elektronik."
+  ],
+  "fotoAdegan": "Warehouse workers sorting parcels on a conveyor belt inside a busy e-commerce fulfillment center, fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi emiten karena sekadar pemberitahuan jadwal rutin tahunan yang diwajibkan bursa, tanpa membawa informasi baru soal kondisi keuangan perusahaan. Belum ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh oleh pengumuman ini, sebab isinya baru sebatas jadwal dan agenda, sementara acara nanti justru menjadi forum di mana pos-pos itu kemungkinan besar dibahas langsung oleh direksi kepada investor. Yang perlu dipantau adalah penyampaian materi presentasi ke bursa paling lambat tiga hari bursa sebelum 14 Oktober 2026, serta jalannya acara itu sendiri pada 14 Oktober 2026 pukul 14.00 WIB, karena di situlah rincian kinerja perusahaan biasanya baru terungkap.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-ajukan-10-seri-call-warrant-baru-acuan-arto-hingga-kija",
+  "category": "Aksi Korporasi",
+  "title": "ZP Ajukan 10 Seri [Call Warrant] Baru, Acuan ARTO Hingga KIJA",
+  "deck": "Maybank Sekuritas ajukan term sheet 10 call warrant baru atas ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, dan KIJA, masing-masing 500 juta unit, jatuh tempo 30 Juli 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T16:16:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b98adcc423_2f429350a8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "Maybank Sekuritas",
+   "waran terstruktur",
+   "call warrant"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, yang tercatat dengan kode penerbit waran ZP di Bursa Efek Indonesia, menyampaikan term sheet penawaran umum untuk sepuluh seri call warrant baru dengan saham acuan ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, dan KIJA. Setiap seri dicatatkan sebanyak 500 juta unit, dengan opsi penerbitan tambahan hingga 500 juta unit lagi untuk mendukung peran Maybank sendiri sebagai liquidity provider atau penjaga likuiditas perdagangan waran tersebut. Jadwalnya, menurut estimasi dalam dokumen, masa penawaran dan penetapan harga berlangsung 6 Oktober 2026, penjatahan 7 Oktober, pengembalian uang pemesanan jika ada pada 8 Oktober, dan pencatatan di bursa 9 Oktober 2026. Seluruh waran berjenis Eropa dengan tanggal pelaksanaan yang sama, 30 Juli 2027, atau sekitar 10 bulan sejak pencatatan.",
+   "Dari tujuh seri yang rinciannya lengkap tercantum dalam dokumen, harga pelaksanaan atau strike price mengikuti kisaran harga saham masing-masing acuan. BRMS dipatok Rp356 sampai Rp2.130 dengan rasio konversi 9 waran untuk 1 saham, CUAN Rp468 sampai Rp2.810 dengan rasio 11 banding 1, HRUM Rp476 sampai Rp2.850 dengan rasio 9 banding 1, ENRG Rp735 sampai Rp4.410 dengan rasio 12 banding 1, CTRA Rp316 sampai Rp1.890 dengan rasio 7 banding 1, KIJA Rp102 sampai Rp610 dengan rasio 3 banding 1, dan EMTK Rp260 sampai Rp1.560 dengan rasio 9 banding 1. Seluruh seri ditawarkan dengan harga penawaran awal yang sama, Rp10 sampai Rp300 per unit.",
+   "Mekanisme penyelesaiannya tunai dan otomatis pada tanggal pelaksanaan, tanpa penyerahan saham. Pada tanggal itu, PT Kliring Penjaminan Efek Indonesia (KPEI) menghitung selisih antara harga penyelesaian, yaitu rata-rata harga penutupan saham acuan selama lima hari bursa terakhir, dengan harga pelaksanaan, lalu dibagi rasio konversi. Jika hasilnya positif, pemegang waran menerima pembayaran tunai selambatnya satu hari bursa setelah tanggal penyelesaian melalui KSEI. Namun jika hasil hitungan nol atau negatif, alias harga saham acuan tidak pernah melampaui harga pelaksanaan, seluruh waran yang beredar berakhir tanpa pembayaran apa pun kepada pemegangnya."
+  ],
+  "fotoAdegan": "Blurred wide shot of a busy brokerage trading floor, staff gesturing near distant monitors, dim ambient lighting",
+  "takeaway": "Laporan ini netral bagi kesepuluh emiten yang jadi acuan, sebab yang menerbitkan produk adalah Maybank Sekuritas sebagai pihak ketiga, bukan aksi korporasi dari ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, atau KIJA sendiri. Call warrant semacam ini hanya kontrak yang membayar tunai selisih harga saham acuan dengan harga pelaksanaan, bukan penerbitan saham baru, sehingga ekuitas, laba per saham, maupun jumlah saham beredar kesepuluh emiten itu tidak tersentuh langsung, yang mungkin terpengaruh hanya ramainya transaksi di saham acuan menjelang tanggal pelaksanaan karena penyelesaiannya mengacu pada rata-rata harga penutupan lima hari bursa terakhir. Yang perlu dipantau investor waran ini adalah tanggal pencatatan pada 9 Oktober 2026 sebagai awal perdagangan, dan tanggal pelaksanaan pada 30 Juli 2027 saat KPEI menghitung apakah warannya bernilai atau berakhir tanpa pembayaran.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan",
   "category": "Energi",
   "title": "Pertamina Genjot Bisnis Energi [Hijau] Jadi Sumber Pertumbuhan",

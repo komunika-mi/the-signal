@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sema-jawab-bursa-nilai-kontrak-data-center-tak-diungkap",
+  "category": "Aksi Korporasi",
+  "title": "SEMA Jawab Bursa, [Nilai] Kontrak Data Center Tak Diungkap",
+  "deck": "Menanggapi permintaan penjelasan bursa, Semacom menegaskan lingkup kontrak data center CGK5-CGK7 hanya mencakup panel PTU dan SKID, tanpa mengungkap identitas mitra dan nilai kontrak karena NDA.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SEMA",
+   "kontrak penting",
+   "data center",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5a79a293f7_1839a36d63.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cani-raih-opini-disclaimer-defisiensi-modal-us-34-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "CANI Raih Opini [Disclaimer], Defisiensi Modal US$34,2 Juta",
+  "deck": "Auditor KAP Irwanto dan Rekan tak menyatakan pendapat atas laporan keuangan CANI karena liabilitas jangka pendek melebihi aset lancar US$38,3 juta dan defisiensi modal US$34,2 juta.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CANI",
+   "opini disclaimer",
+   "defisiensi modal",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260930222757-64458-0/FinancialStatement-2025-Tahunan-CANI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asli-balas-bursa-rugi-semester-i-menyempit-43-37",
+  "category": "Aksi Korporasi",
+  "title": "ASLI Balas Bursa, [Rugi] Semester I Menyempit 43,37%",
+  "deck": "Menanggapi permintaan penjelasan Bursa, ASLI ungkap pendapatan semester I 2026 turun 19,13% jadi Rp93,02 miliar, sementara rugi bersih menyempit 43,37% menjadi Rp11,28 miliar.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASLI",
+   "konstruksi",
+   "keterbukaan informasi",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b703d44534_a3f2222083.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wsbp-pefindo-turunkan-outlook-jadi-negatif-tegaskan-rating-idb",
+  "category": "Aksi Korporasi",
+  "title": "WSBP: PEFINDO Turunkan Outlook Jadi [Negatif], Tegaskan Rating idB",
+  "deck": "PEFINDO menurunkan prospek peringkat WSBP dari Stabil ke Negatif setelah emiten gagal membayar kupon ke-8 dua seri obligasi yang jatuh tempo 25 September 2026 karena kas operasional tak cukup.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac2e31ed2b_582ccff488.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-93-08-saham-terkonsentrasi-di-segelintir-pemegang",
+  "category": "Aksi Korporasi",
+  "title": "BIKE: 93,08% Saham [Terkonsentrasi] di Segelintir Pemegang",
+  "deck": "BEI dan KSEI mencatat 93,08 persen saham BIKE per 28 September 2026 dikuasai sejumlah kecil pemegang saham, di tengah rentetan sorotan OJK dan Bursa terhadap emiten ini.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "kepemilikan saham",
+   "BEI",
+   "KSEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5f8ad13194_5784c9d47a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tei-2026-catat-1-533-ekshibitor-buyer-dari-113-negara",
   "category": "Bisnis",
   "title": "TEI 2026 Catat [1.533] Ekshibitor, Buyer dari 113 Negara",
@@ -21,6 +101,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/jaring-antusiasme-menuju-tei-2026-buyer-dari-113-negara-dan-1500-ekshibitor-siap-berpartisipasi",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "adcp-tunda-kupon-obligasi-ke-2027-suspensi-belum-pulih",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Tunda Kupon Obligasi ke 2027, [Suspensi] Belum Pulih",
+  "deck": "ADCP melaporkan progres rencana pemulihan ke BEI, termasuk penundaan kupon obligasi hingga Mei 2027 dan penurunan peringkat rating akibat tekanan likuiditas.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADCP",
+   "obligasi",
+   "suspensi saham",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/22ff11ef97_6fbd85c19d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ijee-liabilitas-naik-48-usai-terbit-obligasi-dan-sukuk-baru",
+  "category": "Aksi Korporasi",
+  "title": "IJEE: Liabilitas Naik 48% Usai Terbit [Obligasi] dan Sukuk Baru",
+  "deck": "Total aset IJEE naik 34,17 persen dan liabilitas melonjak 48,19 persen per Juni 2026, didorong penerbitan Obligasi III dan Sukuk II untuk ekspansi jaringan Fiber To The Home.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IJEE",
+   "obligasi",
+   "sukuk",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930204230-64454-0/FinancialStatement-2026-II-IJEE.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "djki-pangkas-waktu-urus-merek-jadi-empat-bulan",
@@ -72,6 +184,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470482-ekonomi-gig-makin-diminati-pekerja-fleksibel-perlu-perkuat-ketahanan-finansial"
+ },
+ {
+  "slug": "aspi-akuisisi-gmp-tersendat-laba-kotor-anjlok-28",
+  "category": "Aksi Korporasi",
+  "title": "ASPI: Akuisisi GMP Tersendat, [Laba Kotor] Anjlok 28%",
+  "deck": "Public expose insidentil ASPI: akuisisi oleh GMP Grup Investama masih due diligence, laba kotor semester I 2026 anjlok 28 persen, harga saham sempat longsor sebelum keterbukaan resmi.",
+  "date": "30 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASPI",
+   "public expose",
+   "akuisisi",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a44a44414_61d15e1505.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnm-dan-brins-bantu-alat-tenun-warga-sade-usai-kebakaran",
@@ -6371,135 +6499,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8e6ca96f45_ffbafc1bba.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "perpres-terbit-kdkmp-segera-salurkan-beras-hingga-lpg-3-kg",
-  "category": "UMKM",
-  "title": "Perpres Terbit, [KDKMP] Segera Salurkan Beras hingga LPG 3 Kg",
-  "deck": "KSP Dudung Abdurachman menyebut Perpres 82/2026 menjadi dasar hukum bagi Koperasi Desa Merah Putih untuk mulai menyalurkan beras SPHP, LPG 3 kg, pupuk bersubsidi, dan MinyakKita ke warga.",
-  "date": "23 September 2026",
-  "image": "assets/img/perpres-terbit-kdkmp-segera-salurkan-beras-hingga-lpg-3-kg.jpg",
-  "imageV": "mue5r04x",
-  "tags": [
-   "KDKMP",
-   "Koperasi Merah Putih",
-   "Perpres 82/2026",
-   "LPG 3 Kg"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468929-ksp-dudung-ungkap-kdkmp-segera-beroperasi-beras-hingga-lpg-3-kg-jadi-pasokan-utama"
- },
- {
-  "slug": "trafik-pelabuhan-pelindo-regional-2-naik-hingga-agustus-2026",
-  "category": "BUMN",
-  "title": "Trafik Pelabuhan Pelindo Regional 2 [Naik] hingga Agustus 2026",
-  "deck": "Pelindo Regional 2 mencatat kenaikan kunjungan kapal, arus petikemas, barang, dan penumpang sepanjang Januari-Agustus 2026 dibanding periode sama tahun lalu.",
-  "date": "23 September 2026",
-  "image": "assets/img/trafik-pelabuhan-pelindo-regional-2-naik-hingga-agustus-2026.jpg",
-  "imageV": "mue5r0mk",
-  "tags": [
-   "pelindo",
-   "pelabuhan",
-   "petikemas",
-   "logistik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/468933-trafik-pelabuhan-regional-2-meningkat-pelindo-catat-pertumbuhan-arus-petikemas-dan-barang-hingga-agustus-2026"
- },
- {
-  "slug": "waran-koci-w-delisting-mulai-5-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "Waran KOCI-W [Delisting] Mulai 5 Oktober 2026",
-  "deck": "BEI mengingatkan jadwal delisting Waran Seri I Kokoh Exa Nusantara (KOCI-W): pelaksanaan menjadi saham berakhir 5 Oktober 2026, setelah itu waran dihapus dari pencatatan bursa.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOCI",
-   "KOCI-W",
-   "waran",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan KOCI-W261002.-No. Peng-00176BEI.POP09-2026.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prdl-alihkan-rp2-5-miliar-dana-ipo-ke-ahu-ruang-produksi",
-  "category": "Aksi Korporasi",
-  "title": "PRDL alihkan Rp2,5 miliar dana IPO ke [AHU] ruang produksi",
-  "deck": "Prodia Diagnostic Line mengalihkan Rp2,5 miliar dana IPO dari rencana mesin Hematologi ke pengadaan alat pengatur suhu ruang produksi kering.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDL",
-   "IPO",
-   "penggunaan dana IPO",
-   "alat kesehatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4af0b66823_d8e484c85e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nasi-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "NASI Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Menjawab surat Bursa Efek Indonesia, PT Wahana Inti Makmur menyatakan tidak ada informasi material maupun rencana aksi korporasi di balik lonjakan transaksi saham NASI belakangan ini.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NASI",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8f0c1fdf50_126eafcec5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "maxi-koreksi-laporan-realisasi-dana-ipo-rp45-miliar-tuntas",
-  "category": "Aksi Korporasi",
-  "title": "MAXI [koreksi] laporan realisasi dana IPO Rp45 miliar tuntas",
-  "deck": "PT Maxindo Karya Anugerah mengoreksi laporan penggunaan dana IPO per 30 Juni 2026, menyatakan seluruh dana Rp45 miliar sudah terpakai untuk modal kerja, tersisa Rp150.635 di rekening BCA.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAXI",
-   "penggunaan dana IPO",
-   "laporan keuangan",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/006db8ce0e_205ef6d526.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemnaker-luncurkan-maganghub-batch-2-40-962-peserta-lolos",
-  "category": "Ketenagakerjaan",
-  "title": "Kemnaker Luncurkan [MagangHub] Batch 2, 40.962 Peserta Lolos",
-  "deck": "Kemnaker memulai MagangHub Batch 2 Angkatan II dengan 40.962 peserta lolos seleksi, termasuk 15 penyandang disabilitas, untuk magang enam bulan di berbagai instansi dan sektor industri.",
-  "date": "23 September 2026",
-  "image": "assets/img/gudang-logistik.jpg",
-  "tags": [
-   "MagangHub",
-   "Kemnaker",
-   "pemagangan",
-   "lulusan perguruan tinggi"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-mulai-maganghub-batch-2-sebanyak-40962-peserta-siap-ikuti-pemagangan",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "pemerintah-targetkan-pertumbuhan-ekonomi-6-pada-2027",
-  "category": "Makroekonomi",
-  "title": "Pemerintah Targetkan Pertumbuhan Ekonomi [6%] pada 2027",
-  "deck": "Menko Airlangga menyebut investasi, produktivitas, dan ekspor bernilai tambah jadi syarat utama mengejar target pertumbuhan 6 persen pada 2027, menuju 8 persen dalam jangka menengah.",
-  "date": "23 September 2026",
-  "image": "assets/img/sidang-dpr.jpg",
-  "tags": [
-   "pertumbuhan ekonomi",
-   "Airlangga Hartarto",
-   "investasi 2027",
-   "target OECD"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7109/menko-airlangga-investasi-produktivitas-dan-ekspor-bernilai-tambah-jadi-kunci-pertumbuhan-ekonomi-2027",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

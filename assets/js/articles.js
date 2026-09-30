@@ -3,6 +3,137 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sema-jawab-bursa-nilai-kontrak-data-center-tak-diungkap",
+  "category": "Aksi Korporasi",
+  "title": "SEMA Jawab Bursa, [Nilai] Kontrak Data Center Tak Diungkap",
+  "deck": "Menanggapi permintaan penjelasan bursa, Semacom menegaskan lingkup kontrak data center CGK5-CGK7 hanya mencakup panel PTU dan SKID, tanpa mengungkap identitas mitra dan nilai kontrak karena NDA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T22:27:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5a79a293f7_1839a36d63.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SEMA",
+  "tags": [
+   "SEMA",
+   "kontrak penting",
+   "data center",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Semacom Integrated Tbk (SEMA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia pada 30 September 2026, menjawab permintaan penjelasan bursa atas laporan keterbukaan informasi perolehan kontrak penting proyek Data Center CGK5 dan CGK7 yang diumumkan Perseroan dua hari sebelumnya. Bursa meminta empat hal dijelaskan: identitas dan profil pemberi kerja beserta hubungan dengan Perseroan, gambaran proyek dan ruang lingkup pekerjaan, dasar pengategorian kontrak sebagai \"Kontrak Penting\", serta informasi material lain yang belum diungkapkan. Surat tanggapan ditandatangani Direktur Utama Rudi Hartono Intan di Bogor, dengan surat pengantar ditandatangani Direktur Riany Sandra Widjaja.",
+   "Perseroan menegaskan hubungan dengan pemberi kerja bersifat komersial murni tanpa hubungan afiliasi, namun menolak mengungkap identitas dan profil pemberi kerja karena terikat perjanjian kerahasiaan (NDA). Soal ruang lingkup, Perseroan menjelaskan perannya terbatas sebagai pemasok panel PTU (Power Train Unit) dan SKID, yaitu unit kelistrikan prefabrikasi untuk kebutuhan data center, dan secara eksplisit menyatakan lingkup ini tidak mencakup seluruh sistem kelistrikan proyek sehingga nilai pekerjaannya tidak boleh disamakan dengan nilai pembangunan fasilitas secara keseluruhan. Jadwal pelaksanaan mengikuti tahapan dalam kontrak, tetapi rincian waktu pengiriman dan ketentuan komersial tidak diungkapkan ke publik.",
+   "Soal alasan kontrak ini dikategorikan sebagai Kontrak Penting, Perseroan menyebut pertimbangannya adalah nilai yang material bagi Perseroan sendiri, bukan nilai proyek data center secara keseluruhan, serta relevansinya terhadap strategi pengembangan usaha jangka menengah dan panjang. Perseroan tidak mencantumkan nilai kontrak, skema pembayaran, maupun struktur biaya dalam tanggapan ini. Sebagai lampiran, Perseroan menyertakan data pembanding publik industri data center, seperti kapasitas empat fasilitas data center lain di Indonesia yang berkisar 9 sampai 45,6 MW dan tolok ukur biaya konstruksi Indonesia sebesar US$6,6 juta sampai US$11,2 juta per MW dari riset Cushman & Wakefield, namun menegaskan berulang kali bahwa seluruh angka ini adalah ilustrasi industri dan sama sekali bukan representasi nilai kontrak, kapasitas, atau proyeksi keuangan Perseroan sendiri."
+  ],
+  "fotoAdegan": "Workers assembling large industrial electrical switchgear panels in a factory workshop, cables and metal enclosures, bright overhead lighting",
+  "takeaway": "Tanggapan ini netral bagi Semacom: tidak ada angka nilai kontrak baru yang diungkapkan, tetapi konfirmasi tidak adanya hubungan afiliasi dengan pemberi kerja mengurangi risiko benturan kepentingan, sementara penegasan bahwa lingkup pekerjaan hanya sebatas panel PTU dan SKID meluruskan ekspektasi pasar agar tidak menyamakan nilai kontrak Perseroan dengan skala penuh proyek data center. Yang perlu dicermati pemegang saham adalah arus kas dan pendapatan dari kontrak ini baru akan tercatat bertahap sesuai kemajuan pekerjaan dan penerimaan hasil, bukan sekaligus di muka, sehingga dampaknya ke laporan keuangan baru terlihat pada periode-periode mendatang. Perseroan sendiri mengingatkan bahwa besarnya nilai kontrak tidak otomatis menjamin besaran laba bersih, karena masih bergantung pada pengendalian biaya dan modal kerja selama pelaksanaan. Yang harus dipantau selanjutnya adalah apakah Bursa menerima penjelasan ini sebagai memadai atau kembali meminta rincian nilai kontrak dan identitas mitra, serta laporan keuangan kuartal mendatang yang akan menunjukkan mulai masuknya kontribusi pendapatan dari proyek ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cani-raih-opini-disclaimer-defisiensi-modal-us-34-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "CANI Raih Opini [Disclaimer], Defisiensi Modal US$34,2 Juta",
+  "deck": "Auditor KAP Irwanto dan Rekan tak menyatakan pendapat atas laporan keuangan CANI karena liabilitas jangka pendek melebihi aset lancar US$38,3 juta dan defisiensi modal US$34,2 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T22:14:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260930222757-64458-0/FinancialStatement-2025-Tahunan-CANI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CANI",
+  "tags": [
+   "CANI",
+   "opini disclaimer",
+   "defisiensi modal",
+   "going concern"
+  ],
+  "body": [
+   "PT Capitol Nusantara Indonesia Tbk (CANI) menerima opini tidak menyatakan pendapat alias disclaimer dari auditornya, KAP Irwanto dan Rekan, atas laporan keuangan tahunan yang berakhir 30 Juni 2026. Opini itu ditandatangani partner Rudi Riady pada 28 September 2026. Auditor menyebut tidak bisa memperoleh bukti audit yang cukup karena signifikansi masalah keuangan CANI: rugi komprehensif US$719.911 untuk tahun berjalan, liabilitas jangka pendek yang melebihi aset lancar sebesar US$38.301.895, serta defisiensi modal (ekuitas negatif) sebesar US$34.247.201. Auditor secara eksplisit menyatakan kondisi ini menimbulkan keraguan signifikan atas kemampuan CANI mempertahankan kelangsungan usaha.",
+   "Dari sisi kinerja, pendapatan CANI turun dari US$3,3 juta menjadi US$2,3 juta, atau berkurang US$986.364, sehingga rugi bruto tercatat US$1.396.479. Setelah dikurangi beban usaha, rugi bersih tahun berjalan mengecil dibanding tahun sebelumnya, dari US$2.275.576 menjadi US$724.004, namun perusahaan tetap merugi. Total aset ikut menyusut 35 persen menjadi US$5,89 juta dari US$9,06 juta, sementara kas dan bank turun 54,64 persen menjadi US$219.917. Dalam surat penjelasan terpisah ke bursa soal perubahan pos di atas 20 persen, CANI merinci penyebabnya: piutang usaha pihak ketiga turun US$428.271 karena penagihan yang lebih cepat, aset tetap turun US$2.287.484 akibat penyusutan, dan aset tidak lancar lainnya turun US$142.310 karena amortisasi biaya pengedokan kapal. Di sisi liabilitas, utang pajak naik US$181.112 termasuk utang PPh Pasal 29 sebesar US$162.829, utang nonusaha pihak ketiga melonjak US$993.056 karena utang baru US$1.000.000 kepada PT Pelayaran Teluk Bajau Cipta Sejahtera, dan utang kepada pemegang saham turun US$688.693 setelah CANI melunasi utang ke Agus Sudimen, mantan pemilik manfaat akhir (ex-UBO) dari pemegang saham pengendali perseroan.",
+   "Manajemen, dalam catatan going concern yang dikutip auditor, memaparkan rencana penyelamatan yang mencakup perawatan armada kapal secara berkelanjutan, menjaga kontrak dengan pelanggan yang ada, diversifikasi pendapatan di sektor pelayaran, merasionalisasi armada dengan melepas kapal yang tidak beroperasi, efisiensi tenaga kerja, memperketat pengendalian arus kas, serta mencari dukungan pendanaan atau pembiayaan ulang dari pemegang saham utama. Auditor mencatat bahwa hingga tanggal laporan, langkah-langkah tersebut belum seluruhnya terealisasi. Surat pernyataan tanggung jawab laporan keuangan ditandatangani Direktur Utama Ang Ah Nui dan Direktur Yanuar Chayadi Wijaya. Saham CANI sendiri saat ini berada di papan Pemantauan Khusus (watchlist) bursa."
+  ],
+  "fotoAdegan": "Weathered coal-hauling barge anchored near a small Indonesian port, tugboat alongside, overcast humid morning light",
+  "takeaway": "Laporan ini condong negatif bagi CANI karena auditor sampai tidak bisa memberi opini sama sekali, bukan sekadar opini dengan catatan, dan penyebabnya adalah kombinasi rugi berjalan, kas yang menipis, serta liabilitas jangka pendek yang jauh lebih besar dari aset lancarnya. Yang paling terlihat adalah ekuitas perusahaan sudah negatif alias defisiensi modal, artinya total utang CANI melebihi total asetnya, dan pos ini penting karena menunjukkan bantalan keuangan perusahaan untuk menyerap kerugian lebih lanjut sudah habis. Arus kas operasi dan penjualan aset tetap sebenarnya menghasilkan kas masuk, tapi habis terpakai untuk membayar utang ke pemegang saham dan pihak berelasi, sehingga kas akhir periode tetap menyusut lebih dari separuh. Mayoritas liabilitas CANI, sekitar US$36,6 juta, adalah utang kepada pihak berelasi, sehingga kelanjutan perusahaan sangat bergantung pada sikap pihak berelasi tersebut. Yang perlu dipantau berikutnya adalah apakah manajemen benar merealisasikan rencana restrukturisasi dan dukungan pendanaan dari pemegang saham utama yang disebut dalam laporan ini, serta apakah defisiensi modal mengecil atau justru membesar pada laporan keuangan kuartal berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "asli-balas-bursa-rugi-semester-i-menyempit-43-37",
+  "category": "Aksi Korporasi",
+  "title": "ASLI Balas Bursa, [Rugi] Semester I Menyempit 43,37%",
+  "deck": "Menanggapi permintaan penjelasan Bursa, ASLI ungkap pendapatan semester I 2026 turun 19,13% jadi Rp93,02 miliar, sementara rugi bersih menyempit 43,37% menjadi Rp11,28 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T21:49:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b703d44534_a3f2222083.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASLI",
+  "tags": [
+   "ASLI",
+   "konstruksi",
+   "keterbukaan informasi",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Asri Karya Lestari Tbk. (ASLI) menyampaikan tanggapan resmi atas surat permintaan penjelasan Bursa Efek Indonesia bernomor S-12500/BEI.PP1/09-2026. Surat balasan bernomor 014/ASRI-CRCS/EXTERNAL/IX/2026 itu ditujukan kepada Aditya Nugraha, PH Kepala Divisi Penilaian Perusahaan 1 Bursa Efek Indonesia, ditandatangani Direktur Utama Agus Karianto, dan disampaikan melalui corporate secretary Vayolla Naurah Shyfa pada 30 September 2026 pukul 21.49 WIB.",
+   "Berdasarkan laporan keuangan konsolidasian kuartal II per 30 Juni 2026, ASLI membukukan pendapatan Rp93,02 miliar, turun 19,13% dibandingkan periode yang sama tahun sebelumnya sebesar Rp115,02 miliar. Di sisi lain, rugi bersih yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp11,28 miliar, membaik Rp8,63 miliar atau 43,37% dari rugi periode sebelumnya. Manajemen menyebut perbaikan ini didorong oleh pengawasan proyek yang lebih ketat serta efisiensi beban operasional dan beban keuangan. Per 30 Juni 2026, total aset perusahaan tercatat Rp462,54 miliar, total liabilitas Rp98,42 miliar, dan total ekuitas Rp364,12 miliar.",
+   "Dalam paparan publik 27 April 2026, ASLI sebelumnya menargetkan perolehan kontrak Rp710 miliar sepanjang 2026, dengan fokus bisnis pada jasa konstruksi gedung dan infrastruktur sipil. Perusahaan menegaskan belum ada kontrak baru atau sumber pendapatan signifikan yang belum diungkap sejak laporan keuangan terakhir, tidak ada perkara hukum material yang membelit perusahaan, anak usaha, direksi, maupun komisaris, serta tidak ada informasi material lain di media massa atau di luar itu yang perlu diklarifikasi. Manajemen juga menyatakan tidak dapat memastikan penyebab spesifik pergerakan harga saham ASLI di bursa, karena harga terbentuk dari mekanisme perdagangan oleh masing-masing pelaku pasar."
+  ],
+  "fotoAdegan": "Construction workers in hard hats inspecting steel reinforcement bars at a mid-rise building site, overcast afternoon light",
+  "takeaway": "Laporan ini condong netral karena sinyalnya berlawanan arah: pendapatan semester I turun 19,13% menjadi Rp93,02 miliar, tapi rugi bersih justru menyempit 43,37% menjadi Rp11,28 miliar berkat efisiensi biaya, sehingga belum bisa dibaca sebagai perbaikan atau perburukan yang jelas. Pos yang tersentuh adalah pendapatan dan laba rugi, dua angka utama yang dipakai investor menilai apakah bisnis inti perusahaan tumbuh atau menyusut, sementara ekuitas Rp364,12 miliar yang jauh di atas total utang Rp98,42 miliar menunjukkan bantalan keuangan perusahaan masih relatif aman. Manajemen menegaskan tidak ada kontrak baru, perkara hukum, atau informasi material lain yang belum diungkap, sehingga pergerakan harga saham belakangan ini tidak dijelaskan oleh sesuatu yang disembunyikan dari investor. Yang perlu dipantau berikutnya adalah realisasi target kontrak Rp710 miliar sepanjang 2026 yang sudah dijanjikan sejak paparan publik 27 April 2026, serta laporan keuangan kuartal berikutnya untuk melihat apakah tren penyempitan rugi ini berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wsbp-pefindo-turunkan-outlook-jadi-negatif-tegaskan-rating-idb",
+  "category": "Aksi Korporasi",
+  "title": "WSBP: PEFINDO Turunkan Outlook Jadi [Negatif], Tegaskan Rating idB",
+  "deck": "PEFINDO menurunkan prospek peringkat WSBP dari Stabil ke Negatif setelah emiten gagal membayar kupon ke-8 dua seri obligasi yang jatuh tempo 25 September 2026 karena kas operasional tak cukup.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T21:25:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac2e31ed2b_582ccff488.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "body": [
+   "Lembaga pemeringkat PEFINDO menegaskan peringkat idB untuk PT Waskita Beton Precast Tbk (WSBP) beserta seluruh surat utangnya, tetapi mengubah prospeknya dari Stabil menjadi Negatif. Perubahan ini menyusul ketidakmampuan WSBP membayar kupon ke-8 Obligasi Waskita Beton Precast I dan II Tahun 2022 yang jatuh tempo 25 September 2026. Menurut PEFINDO, penyebabnya adalah kas yang tersedia untuk membayar utang, disebut Cash Flow Available for Debt Service atau CFADS, tidak mencukupi untuk memenuhi kewajiban tersebut.",
+   "PEFINDO menyebut kekurangan pembayaran ini belum tergolong gagal bayar. Perjanjian homologasi, yakni kesepakatan perdamaian utang WSBP dengan para krediturnya yang berlaku efektif sejak September 2022, memberi masa perbaikan atau remedial period selama 90 hari sejak jatuh tempo untuk menyelesaikan kewajiban yang tertunda. PEFINDO memperkirakan WSBP akan membayar dalam masa itu, dengan syarat perusahaan mempercepat penagihan piutang. Sebaliknya, peringkat berpotensi turun lagi jika pembayaran tidak selesai sampai masa perbaikan berakhir, jika peluang pembayaran itu makin kecil, atau jika kreditur mengambil langkah mengakhiri perjanjian homologasi. Tidak membayar setelah 90 hari akan dikategorikan sebagai gagal bayar.",
+   "Empat instrumen utang WSBP ikut dipertahankan pada peringkat idB dengan prospek Negatif untuk periode 29 September 2026 sampai 1 September 2027: Obligasi Waskita Beton Precast I Tahun 2022 senilai pokok sekitar Rp80,76 miliar jatuh tempo 25 September 2028, Obligasi Waskita Beton Precast II Tahun 2022 senilai sekitar Rp245,85 miliar dengan tanggal jatuh tempo sama, Obligasi Wajib Konversi I Tahun 2023 senilai sekitar Rp457,61 miliar jatuh tempo 12 Desember 2033, dan Obligasi Wajib Konversi II Tahun 2023 senilai sekitar Rp1,39 triliun dengan tanggal jatuh tempo yang sama.",
+   "PEFINDO juga memaparkan kondisi keuangan WSBP yang terus memburuk. Ekuitas WSBP, yakni selisih aset dikurangi utang, sudah minus Rp2,26 triliun per Juni 2026, makin dalam dibanding minus Rp2,02 triliun pada akhir 2025 dan minus Rp696,5 miliar pada akhir 2023. Total aset perusahaan menyusut dari Rp4,44 triliun pada 2023 menjadi Rp2,9 triliun pada Juni 2026, sementara total utang justru naik dari Rp2,48 triliun menjadi Rp2,78 triliun pada periode yang sama. Rugi bersih tercatat Rp285,6 miliar pada semester pertama 2026, setelah rugi Rp537,4 miliar sepanjang 2025. Per 30 Juni 2026, pemegang saham WSBP adalah PT Waskita Karya Tbk (WSKT) 28,12 persen, PT Intiniaga Sukses Abadi 6,88 persen, saham treasuri 3,24 persen, dan publik 61,76 persen."
+  ],
+  "fotoAdegan": "Rows of precast concrete beams and pipes stacked in an industrial casting yard, overhead crane, overcast daylight",
+  "takeaway": "Laporan ini condong negatif bagi WSBP, karena PEFINDO menurunkan prospek peringkatnya dari Stabil menjadi Negatif setelah perusahaan gagal membayar kupon obligasi yang jatuh tempo 25 September 2026. Yang tersentuh adalah ekuitas dan arus kas: ekuitas WSBP sudah minus Rp2,26 triliun per Juni 2026 dan terus memburuk dari tahun ke tahun, sementara kas operasionalnya, yang dalam dokumen disebut CFADS, terbukti tidak cukup untuk membayar bunga utang sendiri, tanda perusahaan makin bergantung pada kelonggaran kreditur untuk bertahan. Pelaku pasar memperhatikan pos ini karena ekuitas negatif dan gagal bayar kupon biasanya membuat biaya pinjaman berikutnya lebih mahal dan membatasi akses pembiayaan baru. Yang perlu dipantau adalah masa perbaikan 90 hari sejak jatuh tempo kupon, yang menurut perhitungan atas tanggal di dokumen ini berakhir sekitar akhir Desember 2026, karena kegagalan membayar setelah tenggat itu akan dikategorikan resmi sebagai gagal bayar oleh PEFINDO.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bike-93-08-saham-terkonsentrasi-di-segelintir-pemegang",
+  "category": "Aksi Korporasi",
+  "title": "BIKE: 93,08% Saham [Terkonsentrasi] di Segelintir Pemegang",
+  "deck": "BEI dan KSEI mencatat 93,08 persen saham BIKE per 28 September 2026 dikuasai sejumlah kecil pemegang saham, di tengah rentetan sorotan OJK dan Bursa terhadap emiten ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T21:18:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5f8ad13194_5784c9d47a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "kepemilikan saham",
+   "BEI",
+   "KSEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia bersama PT Kustodian Sentral Efek Indonesia (KSEI) menerbitkan pengumuman Kepemilikan Saham Terkonsentrasi Tinggi untuk PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) dengan nomor Peng-HSC-00063/BEI.WAS/09-2026. Berdasarkan metodologi penentuan kepemilikan saham terkonsentrasi tinggi atas struktur kepemilikan saham dalam bentuk warkat dan tanpa warkat per 28 September 2026, saham BIKE dikuasai oleh sejumlah tertentu pemegang saham yang secara agregat menguasai 93,08 persen dari total saham perseroan. Dokumen tidak merinci nama pemegang saham tersebut, hanya angka konsentrasi agregatnya.",
+   "Pengumuman ditandatangani oleh Yulianto Aji Sadono selaku Direktur BEI dan Dharma Setyadi selaku Direktur KSEI, tertanggal 30 September 2026. Bursa menegaskan bahwa pengumuman ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan dan ketentuan yang berlaku di bidang pasar modal.",
+   "Pengumuman ini terbit di tengah rentetan sorotan terhadap BIKE. Dalam sepekan terakhir, emiten yang tercatat di Papan Pencatatan Pengembangan ini melaporkan rugi Rp19,18 miliar sekaligus mengungkap rencana akuisisi tambang yang harga, sumber dana, dan pihak penjualnya belum diungkap secara jelas. BIKE juga sempat menunda pelaksanaan RUPSLB setelah OJK mempersoalkan agenda rapat, dan baru menggelar public expose insidentil atas permintaan Bursa terkait lonjakan harga sahamnya."
+  ],
+  "fotoAdegan": "Stacks of coins on a wooden desk, most coins piled unevenly into one tall stack, soft indoor office lighting",
+  "takeaway": "Laporan ini condong negatif, karena tingkat konsentrasi kepemilikan yang sangat tinggi, 93,08 persen dari total saham, muncul tepat di tengah rentetan sorotan regulator terhadap BIKE, mulai dari rugi bersih, rencana akuisisi tambang yang belum transparan, hingga RUPSLB yang ditunda atas permintaan OJK. Yang tersentuh di sini adalah porsi saham yang benar-benar beredar bebas di pasar, sering disebut free float. Kalau porsi itu sangat tipis karena mayoritas saham dikuasai segelintir pihak, harga saham jadi lebih mudah bergerak tajam hanya karena transaksi sekelompok kecil pemegang, bukan karena penilaian luas dari banyak investor, dan itulah yang biasa membuat pelaku pasar dan regulator lebih waspada. Yang perlu dipantau selanjutnya adalah pelaksanaan RUPSLB BIKE yang sampai sekarang masih tertunda, serta penjelasan resmi soal rencana akuisisi tambang yang diminta Bursa lewat public expose insidentil kemarin.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "tei-2026-catat-1-533-ekshibitor-buyer-dari-113-negara",
   "category": "Bisnis",
   "title": "TEI 2026 Catat [1.533] Ekshibitor, Buyer dari 113 Negara",
@@ -29,6 +160,59 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Target transaksi TEI 2026 dipasang di angka US$17,5 miliar, jauh di bawah realisasi TEI 2025 yang mencapai US$22,83 miliar, meski jumlah ekshibitor yang sudah terdaftar, 1.533, tidak jauh berbeda dari realisasi tahun lalu sebanyak 1.619. Target yang lebih rendah ini bisa berarti dua hal: pemerintah memasang angka lebih konservatif setelah pengalaman tahun lalu, atau ada sinyal permintaan pasar ekspor yang melemah menjelang akhir 2026. Pihak yang paling terdampak oleh naik-turunnya angka ini adalah pelaku usaha lokal, terutama sektor makanan, minuman, dan pertanian yang mendominasi jumlah ekshibitor kali ini dengan 754 peserta. Yang akan menjawab dugaan ini adalah angka realisasi transaksi yang biasanya diumumkan Kemendag setelah TEI 2026 usai pada 18 Oktober 2026, dibandingkan dengan target US$17,5 miliar dan capaian US$22,83 miliar tahun lalu.",
   "imageV": "muo63csi"
+ },
+ {
+  "slug": "adcp-tunda-kupon-obligasi-ke-2027-suspensi-belum-pulih",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Tunda Kupon Obligasi ke 2027, [Suspensi] Belum Pulih",
+  "deck": "ADCP melaporkan progres rencana pemulihan ke BEI, termasuk penundaan kupon obligasi hingga Mei 2027 dan penurunan peringkat rating akibat tekanan likuiditas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T20:34:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/22ff11ef97_6fbd85c19d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADCP",
+  "tags": [
+   "ADCP",
+   "obligasi",
+   "suspensi saham",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Adhi Commuter Properti Tbk (ADCP) menyampaikan laporan perkembangan realisasi rencana pemulihan kondisi penyebab suspensi sahamnya kepada Bursa Efek Indonesia, sesuai Peraturan BEI Nomor I-N ketentuan III.5.2. Laporan tertanggal 30 September 2026 ini ditandatangani Direktur Keuangan Achmad Wachid Abdullah dan merinci sepuluh butir rencana pemulihan, sebagian besar terkait negosiasi dengan pemegang Obligasi II dan Obligasi III perusahaan.",
+   "Untuk Obligasi II Seri B, Rapat Umum Pemegang Obligasi (RUPO) pada 9 Mei 2025 menyetujui perpanjangan jangka waktu jatuh tempo pokok obligasi selama dua tahun menjadi 24 Mei 2027, dengan consent fee 0,1 persen dari nilai pokok dibayarkan sekali. RUPO 12 Desember 2025 menyetujui pengesampingan kewajiban cadangan kas sebesar satu kali bunga obligasi, menyusul penurunan peringkat obligasi dari idBBB menjadi idBBB-, sekaligus menambah kewajiban pelaporan kinerja keuangan bulanan termasuk progres penjualan lahan precast di Sentul. Perkembangan terbaru, RUPO 14 April 2026 menyetujui pengesampingan rasio keuangan dan penundaan pembayaran kupon untuk periode Mei 2026 sampai Februari 2027, yang akan dibayarkan bersamaan dengan jatuh tempo pokok pada Mei 2027.",
+   "Untuk Obligasi III Seri A dan B yang dijamin CGIF, ADCP mengajukan serangkaian permohonan RUPO ke wali amanat dan CGIF sejak Maret 2026 yang hingga laporan ini terbit masih dalam pembahasan, mencakup waiver rasio keuangan, perubahan penggunaan dana hasil obligasi, dan perubahan mekanisme penjamin. Pada 1 Juli 2026, ADCP meminta dukungan CGIF untuk menanggung pembayaran kupon periode Juni sampai Desember 2026 serta penundaan sementara pembayaran Guarantee Fee pada periode yang sama. Perusahaan juga menyampaikan rencana kerja pada 15 Juli 2026 untuk memenuhi kewajiban jangka pendek melalui divestasi lahan dan percepatan penjualan unit properti siap huni.",
+   "Selain restrukturisasi obligasi, ADCP tengah berkoordinasi dengan Danantara melalui induk usahanya, PT Adhi Karya (Persero) Tbk, untuk pendanaan yang difokuskan mempercepat konstruksi sejumlah proyek, dengan tujuan mempercepat serah terima unit ke konsumen dan pencairan dana escrow. Perseroan juga tengah menegosiasikan penjadwalan ulang pokok dan bunga pinjaman perbankan, dengan target penyelesaian pada triwulan IV 2026."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a mid rise residential apartment building site near a commuter rail line, overcast light",
+  "takeaway": "Laporan ini condong negatif karena menunjukkan ADCP masih bergulat dengan tekanan likuiditas yang menjadi penyebab suspensi sahamnya, bukan tanda pemulihan yang tuntas. Penundaan pembayaran kupon atau bunga Obligasi II Seri B dari Mei 2026 sampai Februari 2027 berarti kas perusahaan belum cukup untuk membayar bunga tepat waktu, dan beban itu justru menumpuk untuk dibayar sekaligus bersama pokok utang pada Mei 2027, sementara penurunan peringkat utang dari idBBB menjadi idBBB- menandakan lembaga pemeringkat menilai risiko gagal bayar makin tinggi. Permohonan waiver rasio keuangan yang berulang kali diajukan ke wali amanat maupun CGIF juga memperlihatkan kesulitan memenuhi syarat yang dijanjikan kepada pemegang obligasi. Yang perlu dipantau selanjutnya adalah hasil RUPO Obligasi III Seri A dan B yang sampai laporan ini terbit masih dalam pembahasan dengan wali amanat dan CGIF, serta hasil restrukturisasi kredit perbankan yang ditargetkan rampung pada triwulan IV 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ijee-liabilitas-naik-48-usai-terbit-obligasi-dan-sukuk-baru",
+  "category": "Aksi Korporasi",
+  "title": "IJEE: Liabilitas Naik 48% Usai Terbit [Obligasi] dan Sukuk Baru",
+  "deck": "Total aset IJEE naik 34,17 persen dan liabilitas melonjak 48,19 persen per Juni 2026, didorong penerbitan Obligasi III dan Sukuk II untuk ekspansi jaringan Fiber To The Home.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T20:33:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930204230-64454-0/FinancialStatement-2026-II-IJEE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IJEE",
+  "tags": [
+   "IJEE",
+   "obligasi",
+   "sukuk",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Integrasi Jaringan Ekosistem (IJEE) melaporkan kenaikan signifikan pada pos-pos utama neraca keuangannya. Berdasarkan laporan keuangan interim per 30 Juni 2026, total aset perusahaan tercatat Rp8,93 triliun, naik 34,17 persen dari Rp6,66 triliun pada akhir Desember 2025. Total liabilitas naik lebih tajam lagi, 48,19 persen, dari Rp4,15 triliun menjadi Rp6,15 triliun. Dalam surat penjelasan kepada Bursa Efek Indonesia tertanggal 30 September 2026, manajemen menyebut kenaikan aset terutama berasal dari tambahan kas hasil penawaran umum Obligasi III dan Sukuk II, serta peningkatan persediaan dan aset tetap untuk mendukung pengembangan layanan Fiber To The Home (FTTH). Kenaikan liabilitas dijelaskan berasal dari penerbitan kedua instrumen utang tersebut pada 2026.",
+   "Rincian neraca menunjukkan kas dan setara kas naik dari Rp1,32 triliun menjadi Rp1,59 triliun, sementara persediaan naik dari Rp608,3 miliar menjadi Rp757,9 miliar dan aset tetap bertambah dari Rp4,46 triliun menjadi Rp5,37 triliun. Di sisi liabilitas, porsi utang obligasi yang jatuh tempo dalam satu tahun ke depan melonjak dari Rp852,5 miliar menjadi Rp1,59 triliun, dan porsi sukuk yang jatuh tempo dalam satu tahun ke depan naik dari Rp686,5 miliar menjadi Rp1,47 triliun. Utang usaha kepada pihak ketiga juga melonjak dari Rp1,19 miliar menjadi Rp110,7 miliar.",
+   "Laporan keuangan interim ini diaudit oleh KAP Kanaka Puradiredja, Suhartono dengan partner penanggung jawab Christiadi Tjahnadi, dan memperoleh opini wajar tanpa modifikasian. Auditor tahun sebelumnya adalah KAP Anwar Rekan dengan partner Soaduon Tampubolon, yang berarti terjadi pergantian kantor akuntan publik. Auditor mencatat dua hal audit utama, yaitu potensi penurunan nilai aset tetap senilai Rp5,36 triliun yang sebagian besar berupa infrastruktur jaringan telekomunikasi, serta ketepatan waktu pengakuan pendapatan dari kontrak pelanggan."
+  ],
+  "fotoAdegan": "Technicians installing fiber optic cables from a bucket truck along an urban street in Indonesia, daytime",
+  "takeaway": "Laporan ini netral bagi IJEE, karena kenaikan aset dan utang sama-sama berasal dari penerbitan Obligasi III dan Sukuk II yang dananya dipakai membangun infrastruktur FTTH, bukan tanda kesulitan keuangan mendadak. Yang perlu dicermati adalah arus kas ke depan: utang obligasi dan sukuk yang jatuh tempo dalam satu tahun ke depan melonjak jadi total sekitar Rp3,06 triliun, hampir dua kali lipat dibanding akhir 2025, sehingga perusahaan perlu menyiapkan kas besar untuk membayar pokok dan bunganya. Auditor turut menyoroti aset tetap senilai Rp5,36 triliun, sebagian besar infrastruktur jaringan, sebagai hal audit utama karena nilainya rawan terkoreksi jika proyeksi pendapatan dari bisnis FTTH meleset. Yang perlu dipantau berikutnya adalah realisasi pembayaran utang obligasi dan sukuk yang jatuh tempo pada paruh kedua 2026 hingga pertengahan 2027, serta apakah pendapatan dari ekspansi jaringan itu mampu menutupi kewajiban tersebut.",
+  "sentimen": "netral"
  },
  {
   "slug": "djki-pangkas-waktu-urus-merek-jadi-empat-bulan",
@@ -110,6 +294,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan aturan atau angka industri, melainkan langkah satu perusahaan: Lalamove menggelar pelatihan literasi keuangan untuk 50 mitra pengemudinya di Jabodetabek, dengan menghadirkan perencana keuangan bersertifikat sebagai pembicara. Yang terdampak langsung adalah mitra driver Lalamove yang ikut program itu, meski persoalan yang diangkat, yaitu pendapatan harian yang naik turun dan sulitnya memisahkan uang usaha dari uang pribadi, relevan juga bagi pekerja gig di platform lain. Berita ini belum cukup untuk menyimpulkan apakah ini menjadi tren di industri jasa on-demand atau sekadar inisiatif satu perusahaan, karena tidak ada data soal jumlah total pekerja gig di Indonesia maupun apakah platform sejenis punya program literasi keuangan serupa. Yang perlu dicermati berikutnya adalah apakah Lalamove Driver Academy berlanjut ke kota lain di luar Jabodetabek, serta apakah ada data resmi soal skala pekerja gig yang bisa memperlihatkan seberapa besar persoalan ketahanan finansial ini sebenarnya.",
   "imageV": "muo63edf"
+ },
+ {
+  "slug": "aspi-akuisisi-gmp-tersendat-laba-kotor-anjlok-28",
+  "category": "Aksi Korporasi",
+  "title": "ASPI: Akuisisi GMP Tersendat, [Laba Kotor] Anjlok 28%",
+  "deck": "Public expose insidentil ASPI: akuisisi oleh GMP Grup Investama masih due diligence, laba kotor semester I 2026 anjlok 28 persen, harga saham sempat longsor sebelum keterbukaan resmi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 September 2026",
+  "isoDate": "2026-09-30T20:12:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a44a44414_61d15e1505.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASPI",
+  "tags": [
+   "ASPI",
+   "public expose",
+   "akuisisi",
+   "properti"
+  ],
+  "body": [
+   "PT Andalan Sakti Primaindo Tbk (ASPI) menggelar public expose insidentil pada Selasa, 29 September 2026 pukul 14.00 WIB melalui aplikasi Zoom, setelah sebelumnya menyampaikan materi lewat surat tertanggal 28 September 2026. Direktur Utama Suwandi Notopradono dan Direktur Arnoldus Jansen Kustianto mewakili manajemen, dihadiri 18 peserta di luar jajaran direksi dan karyawan perseroan. Materi yang dipaparkan mencakup profil dan rencana bisnis perseroan, serta kinerja keuangan dan pergerakan harga saham untuk periode yang berakhir 30 Juni 2026.",
+   "Sesi tanya jawab didominasi pertanyaan soal rencana akuisisi ASPI oleh PT GMP Grup Investama. Manajemen menjelaskan proses saat ini masih berupa penelaahan dokumen atau due diligence dan belum sampai tahap penandatanganan perjanjian jual beli bersyarat (CSPA). Kantor jasa penilai publik (KJPP) dan kuasa hukum yang menangani transaksi ini meminta perpanjangan waktu karena masih membutuhkan waktu untuk menelaah dokumen. Perseroan mengaku belum mendapat informasi apakah pengendali baru akan menyuntikkan aset lewat skema rights issue atau mengubah pengendalian lewat penawaran tender wajib, termasuk rencana strategis dan rencana pendanaan setelah perubahan pengendali.",
+   "Dari sisi kinerja, manajemen mengonfirmasi pendapatan semester I 2026 turun 14 persen dibanding periode sama tahun sebelumnya, sementara laba kotor turun lebih dalam sekitar 28 persen. Perseroan menyebut beban penjualan naik signifikan karena insentif yang diberikan kepada konsumen meningkat, sementara perputaran persediaan melambat seiring penjualan yang melemah. Kenaikan harga bahan dan biaya konstruksi akibat inflasi turut disebut sebagai penyebab tekanan pada beban perseroan, di tengah era suku bunga tinggi yang menurut manajemen mempersempit daya beli calon pembeli rumah lewat KPR.",
+   "Investor juga mempertanyakan pergerakan harga saham ASPI yang turun dari Rp680 menjadi Rp362 sebelum keterbukaan informasi resmi disampaikan pada 10 Juli 2026, serta selisih sekitar 2 juta lembar saham antara data di slide 6 dan slide 22 materi paparan. Manajemen menjelaskan slide 6 mengacu pada jumlah saham sesuai laporan keuangan, sedangkan slide 22 mencerminkan pergerakan saham yang tercatat di bursa, dan menegaskan setiap transaksi jual beli saham akan mengikuti aturan penawaran kepada pemegang saham publik yang berlaku."
+  ],
+  "fotoAdegan": "Construction workers building mid-rise residential housing units on a suburban development site near Jakarta, daylight",
+  "takeaway": "Laporan ini condong negatif bagi ASPI, karena mengonfirmasi pelemahan kinerja yang sudah tercermin di laporan rugi sebelumnya sekaligus menunjukkan proses akuisisi oleh calon pengendali baru masih mandek di tahap penelaahan dokumen. Yang tersentuh adalah pendapatan dan laba kotor, dua pos yang menunjukkan seberapa besar penjualan riil perusahaan dan seberapa banyak keuntungan yang tersisa setelah dikurangi biaya membangun rumah; laba kotor yang turun lebih dalam dari pendapatan berarti margin keuntungan tiap unit yang terjual ikut menyusut, ditambah beban penjualan yang naik karena insentif ke konsumen menekan kas perusahaan lebih jauh. Harga saham ASPI yang sempat anjlok dari Rp680 menjadi Rp362 sebelum keterbukaan informasi resmi pada 10 Juli turut jadi sorotan investor soal kesetaraan akses informasi, meski manajemen hanya menjawab akan mengikuti aturan penawaran ke pemegang saham publik bila terjadi transaksi jual beli saham. Yang perlu dipantau berikutnya adalah kelanjutan proses due diligence dan penandatanganan perjanjian jual beli bersyarat dengan PT GMP Grup Investama, karena kantor jasa penilai publik dan kuasa hukum yang terlibat masih meminta perpanjangan waktu tanpa tenggat baru yang disebutkan secara pasti.",
+  "sentimen": "negatif"
  },
  {
   "slug": "pnm-dan-brins-bantu-alat-tenun-warga-sade-usai-kebakaran",

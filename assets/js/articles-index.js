@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "aadi-tuntaskan-divestasi-kestrel-nilai-us-814-juta",
+  "category": "Aksi Korporasi",
+  "title": "AADI Tuntaskan Divestasi Kestrel, Nilai [US$814] Juta",
+  "deck": "Anak usaha AADI, Adaro Capital Limited, resmi melepas seluruh saham dan warannya di Kestrel Coal Group ke Yancoal Australia senilai US$814,12 juta sebelum pajak.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AADI",
+   "Kestrel",
+   "Yancoal",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a9f01811a3_eed6f07040.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penumpang-ka-agustus-48-32-juta-turun-dari-juli",
   "category": "Bisnis",
   "title": "Penumpang KA Agustus 48,32 Juta, [Turun dari Juli]",
@@ -6477,23 +6493,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a166f65239_167f1f1625.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bi-hong-kong-sepakati-kerja-sama-pembayaran-qr-lintas-negara",
-  "category": "Moneter",
-  "title": "BI-Hong Kong Sepakati Kerja Sama Pembayaran [QR] Lintas Negara",
-  "deck": "Bank Indonesia dan otoritas moneter Hong Kong menandatangani nota kesepahaman untuk membangun sistem pembayaran QR code lintas negara antara kedua wilayah.",
-  "date": "24 September 2026",
-  "image": "assets/img/bi-hong-kong-sepakati-kerja-sama-pembayaran-qr-lintas-negara.jpg",
-  "imageV": "muf2vtmi",
-  "tags": [
-   "Bank Indonesia",
-   "QRIS",
-   "Hong Kong",
-   "Pembayaran Digital"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819426.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

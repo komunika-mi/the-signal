@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "aadi-tuntaskan-divestasi-kestrel-nilai-us-814-juta",
+  "category": "Aksi Korporasi",
+  "title": "AADI Tuntaskan Divestasi Kestrel, Nilai [US$814] Juta",
+  "deck": "Anak usaha AADI, Adaro Capital Limited, resmi melepas seluruh saham dan warannya di Kestrel Coal Group ke Yancoal Australia senilai US$814,12 juta sebelum pajak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T13:25:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a9f01811a3_eed6f07040.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AADI",
+  "tags": [
+   "AADI",
+   "Kestrel",
+   "Yancoal",
+   "transaksi material"
+  ],
+  "body": [
+   "PT Adaro Andalan Indonesia Tbk (AADI) mengumumkan bahwa anak usaha yang dikendalikannya, Adaro Capital Limited (ACL), telah merampungkan penjualan seluruh kepemilikannya di Kestrel Coal Group Pty Ltd kepada Yancoal Australia Limited pada 1 Oktober 2026 waktu Melbourne. ACL, yang 90 persen sahamnya dimiliki tidak langsung oleh AADI melalui Adaro International (Singapore) Pte Ltd, melepas 720.385.220 saham atau setara 47,99 persen kepemilikan di Kestrel beserta seluruh waran yang dipegangnya. Dengan rampungnya transaksi ini, seluruh saham Kestrel kini 100 persen dikuasai Yancoal, perusahaan tambang batu bara asal Australia yang sahamnya mayoritas dipegang Yankuang Energy Group Company Limited asal China sebesar 62,26 persen.",
+   "Nilai penjualan saham dan waran tersebut tercatat US$814,12 juta sebelum pajak, dan setelah dikurangi pajak menjadi US$734,83 juta. Nilai ini setara 20,69 persen dari ekuitas AADI, melewati ambang 20 persen yang menjadikannya transaksi material menurut aturan OJK, namun karena tidak sampai 50 persen dari ekuitas, perseroan tidak wajib meminta persetujuan RUPS untuk transaksi ini. Selain nilai tunai di muka, ACL berpotensi menerima tambahan dana hingga US$550 juta yang dibayarkan bertahap setiap tahun selama lima tahun, dengan syarat harga rata rata acuan batu bara metalurgi dunia, yaitu indeks Platts Premium Low Vol Hard Coking Coal FOB Australia, melampaui ambang tertentu pada tahun berjalan. Manajemen AADI menyebut alasan transaksi ini adalah mengembangkan bisnis grup di Indonesia, membayar dividen, dan memperkuat struktur permodalan lewat pelunasan sebagian utang grup. KJPP Desmar, Susanto, Salman dan Rekan selaku penilai independen menyatakan transaksi ini wajar bagi AADI.",
+   "Kestrel mengoperasikan tambang batu bara metalurgi bawah tanah dengan metode longwall di Bowen Basin, Queensland tengah, Australia, melalui anak usahanya Kestrel Coal Resources Pty Ltd yang memegang 80 persen hak atas tambang tersebut. Berdasarkan laporan keuangan yang diaudit, pada semester pertama 2026 Kestrel membukukan pendapatan US$410,49 juta dan laba bersih US$26,88 juta, dengan total aset US$2,24 miliar dan total ekuitas US$1,53 miliar per 30 Juni 2026. Secara proforma, dampak transaksi terhadap laporan keuangan konsolidasian AADI per 30 Juni 2026 tergolong kecil, dengan total ekuitas turun tipis dari US$3,934 miliar menjadi US$3,933 miliar dan laba periode berjalan turun dari US$524,43 juta menjadi US$523,55 juta, meski laba usaha proforma naik US$78,41 juta akibat penyesuaian pencatatan transaksi."
+  ],
+  "fotoAdegan": "Heavy haul trucks loading coal at a large open-pit mine in Kalimantan, dust rising under bright midday sun, machinery in background",
+  "takeaway": "Transaksi ini condong netral bagi fundamental AADI, sebab dampaknya ke laporan keuangan konsolidasian sangat kecil, ekuitas cuma turun tipis sekitar US$0,9 juta dari total US$3,93 miliar, karena kepemilikan 47,99 persen di Kestrel rupanya dicatat sebagai investasi di perusahaan asosiasi, bukan dikonsolidasikan penuh seperti anak usaha. Yang perlu dicermati adalah pos ekuitas dan arus kas perusahaan ke depan, sebab dana tunai bersih US$734,83 juta yang akan diterima sedianya dipakai melunasi sebagian utang grup dan membayar dividen, tapi rencana itu belum tergambar di laporan proforma ini karena transaksi baru resmi selesai pada 1 Oktober 2026, setelah tanggal acuan laporan keuangan 30 Juni 2026. Ke depan, pemegang saham dan kreditor AADI perlu memantau laporan keuangan kuartal berikutnya untuk melihat apakah pelunasan utang dan pembagian dividen itu benar terealisasi, sekaligus mencermati potensi dana tambahan hingga US$550 juta yang baru cair tiap tahun selama lima tahun jika harga acuan batu bara metalurgi dunia melampaui ambang tertentu.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "penumpang-ka-agustus-48-32-juta-turun-dari-juli",
   "category": "Bisnis",
   "title": "Penumpang KA Agustus 48,32 Juta, [Turun dari Juli]",

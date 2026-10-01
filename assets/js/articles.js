@@ -644,7 +644,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka konkretnya: PMI manufaktur melompat dari 49,8 menjadi 52,4 dalam sebulan, dan surplus neraca dagang Agustus naik ke US$3,55 miliar dari cuma US$0,12 miliar pada Juli. Yang diuntungkan oleh tren ini adalah industri manufaktur dan eksportir produk nonmigas seperti besi baja, sawit, dan batu bara, sementara rumah tangga masih menanggung inflasi pangan segar di atas 5 persen akibat cuaca ekstrem. Pola yang sama berulang pada dua indikator ini, PMI sempat anjlok di bawah 50 pada Agustus sebelum melonjak lagi, dan surplus dagang nyaris nol di Juli sebelum melompat, sehingga belum bisa dipastikan apakah ini perbaikan yang stabil atau sekadar lonjakan sesaat setelah bulan yang lemah. Yang akan menjawabnya adalah rilis PMI dan neraca dagang bulan Oktober, sekaligus apakah bantuan pangan beras 10 kilogram per bulan yang mulai disalurkan Oktober ini berhasil menahan laju inflasi pangan bergejolak.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "sofn-ubah-susunan-direksi-dan-komisaris-pasca-merger",

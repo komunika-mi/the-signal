@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sofn-rampungkan-penggabungan-usaha-dengan-oto-multiartha",
+  "category": "Aksi Korporasi",
+  "title": "SOFN Rampungkan [Penggabungan] Usaha dengan Oto Multiartha",
+  "deck": "Penggabungan usaha SOFN dan PT Oto Multiartha resmi efektif 1 Oktober 2026, seluruh aset, liabilitas, dan ekuitas Oto Multiartha beralih ke SOFN.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOFN",
+   "penggabungan usaha",
+   "pembiayaan",
+   "Oto Multiartha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3966f4e79d_ecab75aff8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-peringkat-naik-ke-idb-obligasi-garansi-tetap-aaa",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Peringkat [Naik] ke idB, Obligasi Garansi Tetap AAA",
+  "deck": "PEFINDO menaikkan peringkat korporasi Waskita Karya dari idCCC ke idB dengan outlook negatif, sementara obligasi dan sukuk bergaransi pemerintah tetap bertahan di idAAA.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "peringkat kredit",
+   "obligasi",
+   "PEFINDO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0442c113f5_50c8e00151.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgwg-targetkan-laba-rp250-miliar-bangun-pabrik-sumsel",
+  "category": "Aksi Korporasi",
+  "title": "DGWG Targetkan Laba Rp250 Miliar, Bangun Pabrik [Sumsel]",
+  "deck": "Dalam public expose tahunan, manajemen DGWG memaparkan pertumbuhan pendapatan 46 persen, target laba bersih sekitar Rp250 miliar, dan investasi pabrik baru di Sumatera Selatan senilai Rp230 miliar.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGWG",
+   "public expose",
+   "capex",
+   "ekspor"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/18dd7c1308_8faa217552.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "brna-rilis-rights-issue-rp372-6-miliar-dilusi-capai-42-55",
+  "category": "Aksi Korporasi",
+  "title": "BRNA Rilis Rights Issue Rp372,6 Miliar, [Dilusi] Capai 42,55%",
+  "deck": "Berlina menerbitkan hingga 543,95 juta saham baru lewat HMETD senilai Rp372,6 miliar, dan sebagian besar dananya berasal dari konversi utang pemegang saham utama, bukan uang tunai segar.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRNA",
+   "rights issue",
+   "HMETD",
+   "Berlina"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5ae0a64be0_2e81eba4b8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lmpi-rampungkan-rupslb-komisaris-independen-mundur",
+  "category": "Aksi Korporasi",
+  "title": "LMPI Rampungkan RUPSLB, Komisaris Independen [Mundur]",
+  "deck": "RUPSLB LMPI menyetujui pengunduran diri Bing Hartono Poernomosidi sebagai komisaris independen dan mengukuhkan susunan direksi-komisaris baru hingga 2029.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LMPI",
+   "RUPSLB",
+   "Komisaris",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6713392f1d_bdf8192b6e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppi-rombak-direksi-kursi-direktur-berkurang-jadi-empat",
+  "category": "Aksi Korporasi",
+  "title": "LPPI [Rombak] Direksi, Kursi Direktur Berkurang Jadi Empat",
+  "deck": "Lewat keputusan sirkuler pemegang saham, LPPI mengganti direksi dan komisaris sekaligus menghapus satu kursi direktur, efektif 1 Oktober 2026.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI",
+   "pergantian direksi",
+   "tata kelola perusahaan",
+   "obligasi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/94ee970ccb_dd3598e2e2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fast-perkara-pkpu-di-pn-niaga-jakarta-resmi-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "FAST: Perkara [PKPU] di PN Niaga Jakarta Resmi Dicabut",
+  "deck": "Pengadilan Niaga Jakarta Pusat mengabulkan pencabutan perkara PKPU yang diajukan empat individu terhadap PT Fast Food Indonesia Tbk, pengelola KFC di Indonesia.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FAST",
+   "PKPU",
+   "Pengadilan Niaga",
+   "KFC Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c055797864_090b5fb6ef.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ahap-kantongi-efektif-ojk-untuk-hmetd-rasio-7-5",
+  "category": "Aksi Korporasi",
+  "title": "AHAP Kantongi [Efektif] OJK untuk HMETD, Rasio 7:5",
+  "deck": "OJK menyatakan efektif rencana rights issue AHAP sebanyak-banyaknya 3,5 miliar saham dengan rasio 7:5, harga pelaksanaan Rp50 per saham. Jadwal final penerbitan ditetapkan 8-26 Oktober 2026.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AHAP",
+   "rights issue",
+   "HMETD",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f384e5b8bb_d67453cbe2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btek-jawab-permintaan-bursa-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "BTEK Jawab Permintaan Bursa soal [Volatilitas] Transaksi Saham",
+  "deck": "Bumi Teknokultura Unggul (BTEK) menyatakan tidak ada informasi material yang memicu volatilitas transaksi sahamnya, menanggapi permintaan klarifikasi BEI.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTEK",
+   "Bumi Teknokultura Unggul",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/52b3ad3764_24762e5b38.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-setujui-maybank-jadi-liquidity-provider-waran-zp",
+  "category": "Aksi Korporasi",
+  "title": "BEI Setujui Maybank Jadi [Liquidity Provider] Waran ZP",
+  "deck": "Bursa Efek Indonesia menyetujui PT Maybank Sekuritas Indonesia sebagai penyedia likuiditas untuk 15 kode waran terstruktur beracuan ARTO hingga WIFI, efektif 9 Oktober 2026.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "Maybank Sekuritas",
+   "waran terstruktur",
+   "liquidity provider"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/pabPush20261001065334/Persetujuan LP Waran Terstruktur PT Maybank Sekuritas Indonesia.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bswd-bantah-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Bantah Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Bank of India Indonesia Tbk (BSWD) menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menegaskan tidak ada informasi material maupun rencana aksi korporasi baru.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSWD",
+   "Bank of India Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bd6d331aa7_b19ec69c6c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "aadi-tuntaskan-divestasi-kestrel-nilai-us-814-juta",
   "category": "Aksi Korporasi",
   "title": "AADI Tuntaskan Divestasi Kestrel, Nilai [US$814] Juta",
@@ -6312,186 +6488,6 @@ var ARTICLES = [
    "Edwin Soeryadjaya"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-4856-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uvcr-jelaskan-ke-bursa-dampak-pmthmetd-roe-turun-19-6",
-  "category": "Aksi Korporasi",
-  "title": "UVCR Jelaskan ke Bursa Dampak [PMTHMETD]: ROE Turun 19,6%",
-  "deck": "UVCR menjawab permintaan penjelasan BEI soal rencana 200 juta saham baru tanpa hak memesan efek dahulu, yang menurunkan ROE dan EPS, seluruhnya untuk pemegang saham pengendali.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "PMTHMETD",
-   "free float",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/964fd2442d_bee248076d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pupuk-indonesia-salurkan-67-pupuk-subsidi-jelang-tanam",
-  "category": "BUMN",
-  "title": "Pupuk Indonesia Salurkan [67%] Pupuk Subsidi Jelang Tanam",
-  "deck": "Hingga 16 September 2026, Pupuk Indonesia menyalurkan 6,64 juta ton pupuk subsidi atau 67 persen dari jatah 9,8 juta ton tahun ini, menjelang musim tanam Oktober-Maret.",
-  "date": "24 September 2026",
-  "image": "assets/img/pupuk-indonesia-salurkan-67-pupuk-subsidi-jelang-tanam.jpg",
-  "imageV": "muf8a6hd",
-  "tags": [
-   "pupuk subsidi",
-   "musim tanam",
-   "Pupuk Indonesia",
-   "BUMN"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/884/kesiapan-pasokan-pupuk-jelang-musim-tanam",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "asean-perkuat-kerja-sama-dagang-dengan-ue-inggris-rusia",
-  "category": "Global",
-  "title": "ASEAN [Perkuat] Kerja Sama Dagang dengan UE, Inggris, Rusia",
-  "deck": "Wakil Menteri Perdagangan Dyah Roro Esti mendorong penguatan kerja sama ekonomi ASEAN dengan Inggris, Uni Eropa, dan Rusia dalam pertemuan di Filipina, 17-22 September 2026.",
-  "date": "24 September 2026",
-  "image": "assets/img/kapal-batubara.jpg",
-  "tags": [
-   "ASEAN",
-   "Kementerian Perdagangan",
-   "Uni Eropa",
-   "Rusia"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-penguatan-ketahanan-dan-daya-saing-ekonomi-kawasan-pada-rangkaian-pertemuan-asean-dengan-mitra",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "nsss-direksi-lepas-1-99-miliar-saham-repo-suara-ke-16-20",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi [Lepas] 1,99 Miliar Saham Repo, Suara ke 16,20%",
-  "deck": "Direksi NSSS Samuel Tumbuh Bersama melepas 1,99 miliar saham lewat perjanjian repo untuk dipinjamkan, hak suaranya turun dari 24,57 persen menjadi 16,20 persen.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "repo saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-4545-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zone-bukukan-laba-rp27-8-miliar-utang-bank-turun-tajam",
-  "category": "Aksi Korporasi",
-  "title": "ZONE Bukukan [Laba] Rp27,8 Miliar, Utang Bank Turun Tajam",
-  "deck": "Laba bersih PT Mega Perintis (ZONE) melonjak 138 persen jadi Rp27,8 miliar pada semester I 2026, ditopang penjualan naik 35 persen dan pelunasan sebagian utang bank.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZONE",
-   "Mega Perintis",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260924142909-64419-0/FinancialStatement-2026-II-ZONE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apii-koreksi-laporan-keuangan-laba-pemegang-saham-turun-22-7",
-  "category": "Aksi Korporasi",
-  "title": "APII Koreksi Laporan Keuangan, [Laba Pemegang Saham] Turun 22,7%",
-  "deck": "Laporan keuangan interim semester I 2026 yang dikoreksi menunjukkan penjualan APII naik 9,5 persen, tapi laba untuk pemegang saham utama turun 22,7 persen.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APII",
-   "laporan keuangan",
-   "laba per saham",
-   "kepentingan nonpengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260924143012-64425-0/FinancialStatement-2026-II-APII.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-investindo-arya-beli-500-000-saham-tambahan",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Investindo Arya [Beli] 500.000 Saham Tambahan",
-  "deck": "PT Investindo Arya, entitas yang menduduki kursi Dewan Komisaris TAPG, membeli 500.000 saham tambahan pada 23 September 2026 seharga Rp1.999 per saham.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "Triputra Agro Persada",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-7754-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpro-ralat-realisasi-dana-ipo-alokasi-ke-simprug-bergeser",
-  "category": "Aksi Korporasi",
-  "title": "MPRO Ralat Realisasi Dana IPO, Alokasi ke [Simprug] Bergeser",
-  "deck": "PT Maha Properti Indonesia mengoreksi laporan realisasi dana IPO 2018: dana yang semula direncanakan 80 persen untuk Proyek Simprug Signature ternyata hanya terealisasi 15 persen.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPRO",
-   "IPO",
-   "penggunaan dana",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8da9248489_db181d011c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "panas-bumi-kamojang-diolah-petani-jadi-pupuk-hemat-rp82-juta",
-  "category": "Energi",
-  "title": "Panas Bumi Kamojang Diolah Petani Jadi Pupuk, [Hemat] Rp82 Juta",
-  "deck": "Petani di Kamojang memanfaatkan uap panas bumi Pertamina untuk mempercepat pengeringan pupuk organik dari 14 hari jadi 12 jam, dan menekan biaya produksi hingga puluhan juta rupiah.",
-  "date": "24 September 2026",
-  "image": "assets/img/panas-bumi-kamojang-diolah-petani-jadi-pupuk-hemat-rp82-juta.jpg",
-  "imageV": "muf8a6zw",
-  "tags": [
-   "Pertamina Geothermal",
-   "Kamojang",
-   "Hari Tani Nasional",
-   "Pupuk Organik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469064-hari-tani-nasional-dari-energi-terbarukan-tumbuh-pangan-dan-kemandirian-petani"
- },
- {
-  "slug": "kapasitas-pelabuhan-naik-simpul-logistik-darat-perlu-dikuatkan",
-  "category": "Industri",
-  "title": "Kapasitas Pelabuhan Naik, Simpul [Logistik] Darat Perlu Dikuatkan",
-  "deck": "Peneliti UGM dan praktisi ITL Trisakti menilai percepatan bongkar muat di pelabuhan tak berdampak maksimal jika depo, gudang, jalan, dan sistem distribusi darat tak berkembang setara.",
-  "date": "24 September 2026",
-  "image": "assets/img/kapasitas-pelabuhan-naik-simpul-logistik-darat-perlu-dikuatkan.jpg",
-  "imageV": "muf8a7fl",
-  "tags": [
-   "pelabuhan",
-   "logistik",
-   "odol",
-   "pelayaran"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469059-kapasitas-pelabuhan-naik-ekosistem-logistik-darat-diperkuat"
- },
- {
-  "slug": "hrta-panggil-rupslb-minta-restu-terbitkan-saham-dilusi-10",
-  "category": "Aksi Korporasi",
-  "title": "HRTA Panggil RUPSLB, Minta Restu Terbitkan Saham [Dilusi] 10%",
-  "deck": "HRTA menggelar RUPSLB pada 16 Oktober 2026 untuk meminta persetujuan pemegang saham independen atas rencana penerbitan saham baru hingga 10 persen tanpa hak memesan efek lebih dulu.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRTA",
-   "RUPSLB",
-   "PMTHMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a166f65239_167f1f1625.pdf",
   "sourceLabel": "IDX"
  }
 ];

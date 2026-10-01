@@ -3,6 +3,291 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sofn-rampungkan-penggabungan-usaha-dengan-oto-multiartha",
+  "category": "Aksi Korporasi",
+  "title": "SOFN Rampungkan [Penggabungan] Usaha dengan Oto Multiartha",
+  "deck": "Penggabungan usaha SOFN dan PT Oto Multiartha resmi efektif 1 Oktober 2026, seluruh aset, liabilitas, dan ekuitas Oto Multiartha beralih ke SOFN.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T16:03:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3966f4e79d_ecab75aff8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOFN",
+  "tags": [
+   "SOFN",
+   "penggabungan usaha",
+   "pembiayaan",
+   "Oto Multiartha"
+  ],
+  "body": [
+   "PT Summit Oto Finance (SOFN) mengumumkan bahwa penggabungan usaha dengan PT Oto Multiartha resmi efektif pada 1 Oktober 2026. Dalam penggabungan ini, SOFN berperan sebagai perusahaan penerima penggabungan, sementara Oto Multiartha adalah perusahaan yang menggabungkan diri. Status efektif ini ditetapkan setelah Kementerian Hukum menerbitkan Penerimaan Pemberitahuan Perubahan Data Perseroan, mencakup persetujuan penggabungan perseroan dengan nomor AHU-AH.01.09-0411400 dan perubahan Anggaran Dasar dengan nomor AHU-AH.01.03-0265891, keduanya tertanggal 1 Oktober 2026.",
+   "Sebagai konsekuensi hukum dari penggabungan ini, seluruh aset, liabilitas, dan ekuitas PT Oto Multiartha beralih ke SOFN, dan seluruh pemegang saham Oto Multiartha otomatis menjadi pemegang saham SOFN sesuai tata cara penilaian dan konversi saham yang diatur dalam Rancangan Penggabungan. Status badan hukum PT Oto Multiartha akan berakhir sesuai ketentuan yang berlaku, yang berarti entitas tersebut tidak lagi beroperasi sebagai perusahaan terpisah.",
+   "Pasca penggabungan, komposisi pemegang saham SOFN tercatat sebagai berikut: PT Bank SMBC Indonesia Tbk memegang 4.107.806 saham atau 51 persen, PT Summit Auto Group memegang 2.738.538 saham atau 34 persen, dan PT Sinar Mas Multiartha Tbk memegang 1.208.719 saham atau 15 persen. Laporan keterbukaan ini ditandatangani oleh Mulia Rahmat Aminuddin selaku Compliance & Corporate Secretary SOFN."
+  ],
+  "fotoAdegan": "Showroom floor with parked cars, a loan officer and customer discussing financing at a desk, documents angled away from camera.",
+  "takeaway": "Laporan ini condong netral karena sifatnya hanya mengonfirmasi tanggal efektif sebuah penggabungan usaha yang rancangannya sudah berjalan sebelumnya, tanpa menyebut nilai aset atau ekuitas yang sebenarnya berpindah dari Oto Multiartha ke SOFN. Pos yang tersentuh adalah ekuitas dan total aset SOFN, karena secara hukum seluruh aset, liabilitas, dan modal Oto Multiartha kini menyatu ke neraca SOFN, sehingga basis permodalan perusahaan pembiayaan ini membesar dan berpotensi memperluas kapasitas penyaluran pembiayaannya. Pelaku pasar biasanya mencermati pos ekuitas semacam ini karena modal yang lebih besar bisa memperkuat kemampuan perusahaan menanggung risiko kredit, tetapi besaran dampaknya baru kelihatan setelah angka pastinya dipublikasikan. Yang perlu dipantau berikutnya adalah laporan keuangan SOFN pasca penggabungan, yang akan menunjukkan angka aset dan ekuitas setelah konsolidasi, karena dokumen keterbukaan ini sendiri tidak mencantumkan nilai nominal aset atau ekuitas yang berpindah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wskt-peringkat-naik-ke-idb-obligasi-garansi-tetap-aaa",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Peringkat [Naik] ke idB, Obligasi Garansi Tetap AAA",
+  "deck": "PEFINDO menaikkan peringkat korporasi Waskita Karya dari idCCC ke idB dengan outlook negatif, sementara obligasi dan sukuk bergaransi pemerintah tetap bertahan di idAAA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T15:57:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0442c113f5_50c8e00151.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "peringkat kredit",
+   "obligasi",
+   "PEFINDO"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk melalui surat Sekretaris Perusahaan Steven Subiantoro tertanggal 1 Oktober 2026 melaporkan hasil pemantauan khusus PT Pemeringkat Efek Indonesia (PEFINDO) yang terbit 29 September 2026. Peringkat korporasi Waskita berubah dari semula idCCC dengan status CreditWatch Negative menjadi idB dengan outlook negatif. Keputusan ini diambil dalam rapat Komite Pemeringkatan pada 28 September 2026 berdasarkan laporan keuangan tidak diaudit per 30 Juni 2026 dan laporan keuangan audit per 31 Desember 2025, berlaku untuk periode singkat 28 September sampai 1 Oktober 2026.",
+   "Untuk surat utang yang dijamin pemerintah, PEFINDO mempertahankan peringkat tertinggi idAAA(gg). Rinciannya adalah Obligasi III Tahun 2021 Seri B senilai Rp1,051 triliun jatuh tempo 24 September 2028, Obligasi IV Tahun 2022 Seri A senilai Rp658 miliar jatuh tempo 12 Mei 2027, dan Obligasi IV Tahun 2022 Seri B senilai Rp1,4693 triliun jatuh tempo 12 Mei 2029, sehingga total Rp3,1783 triliun. Sukuk Mudharabah I Tahun 2022 Seri A senilai Rp383 miliar dan Seri B senilai Rp765,1 miliar mendapat peringkat idAAA(sy)(gg), dengan total Rp1,1481 triliun. Adapun Obligasi III Tahun 2021 Seri A dicabut peringkatnya karena pokoknya telah dilunasi pada 28 September 2026.",
+   "Sementara itu, empat seri Obligasi Berkelanjutan yang tidak mendapat jaminan pemerintah, yaitu Obligasi Berkelanjutan III Tahap II Tahun 2018 Seri B (Rp2,2765 triliun), Tahap III Tahun 2018 Seri B (Rp941,75 miliar), Tahap IV Tahun 2019 Seri B (Rp1,36175 triliun), dan Obligasi Berkelanjutan IV Tahap I Tahun 2020 (Rp135,5 miliar), semuanya naik peringkat dari idCCC menjadi idB. Total nilai keempat obligasi ini mencapai Rp4,7155 triliun. Seluruh peringkat tersebut, baik yang dijamin maupun tidak, berlaku untuk periode pendek 28 September sampai 1 Oktober 2026."
+  ],
+  "fotoAdegan": "Construction workers inspecting steel reinforcement on an elevated highway section at dawn, safety harnesses and cranes in the background",
+  "takeaway": "Laporan ini condong positif bagi Waskita Karya, sebab PEFINDO menaikkan peringkat korporasi dari idCCC menjadi idB, dan kenaikan serupa juga berlaku untuk obligasi berkelanjutan senilai Rp4,7155 triliun yang bulan lalu sempat turun ke idCCC bersamaan dengan masalah gagal bayar. Peringkat kredit semacam ini adalah penilaian independen atas kemampuan perusahaan membayar utang tepat waktu, jadi naik satu tingkat dari CCC ke B berarti PEFINDO menilai risiko gagal bayar sedikit berkurang, meski B sendiri masih tergolong peringkat lemah yang rentan terganggu bila kondisi bisnis memburuk, dan outlooknya pun masih negatif. Obligasi serta sukuk yang dijamin pemerintah, dengan total Rp4,3264 triliun, tidak terpengaruh oleh naik turunnya peringkat Waskita karena jaminan pemerintah membuat kemampuan bayarnya tidak bergantung pada kondisi keuangan perusahaan. Yang perlu dipantau berikutnya adalah bahwa masa berlaku peringkat ini hanya sampai 1 Oktober 2026, hari ini, sehingga PEFINDO masih akan menerbitkan hasil pemantauan lanjutan, sementara Obligasi III Tahun 2021 Seri A sudah dicabut peringkatnya karena pokoknya lunas dibayar pada 28 September 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "dgwg-targetkan-laba-rp250-miliar-bangun-pabrik-sumsel",
+  "category": "Aksi Korporasi",
+  "title": "DGWG Targetkan Laba Rp250 Miliar, Bangun Pabrik [Sumsel]",
+  "deck": "Dalam public expose tahunan, manajemen DGWG memaparkan pertumbuhan pendapatan 46 persen, target laba bersih sekitar Rp250 miliar, dan investasi pabrik baru di Sumatera Selatan senilai Rp230 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T15:36:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/18dd7c1308_8faa217552.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGWG",
+  "tags": [
+   "DGWG",
+   "public expose",
+   "capex",
+   "ekspor"
+  ],
+  "body": [
+   "PT Delta Giri Wacana Tbk (DGWG) menggelar public expose tahunan pada Senin, 28 September 2026, pukul 10.45 WIB di Hotel Ibis Style Sunter, Jakarta, dan dihadiri 34 peserta eksternal di luar jajaran manajemen dan karyawan Perseroan. Jajaran direksi yang hadir adalah Direktur Utama David Yaory, Direktur Danny Jo Putra, Direktur Yody Suganda, dan Direktur Arbi Munandar. Presentasi disampaikan oleh David Yaory dan Danny Jo Putra, dengan Cynthya Hendra sebagai moderator.",
+   "Dalam sesi tanya jawab, manajemen menyebut Perseroan saat ini melayani sekitar 10 juta petani atau sekitar 30 persen dari total petani di Indonesia, dengan ruang pertumbuhan masih terbuka karena belum semua petani memakai lini produk DGWG secara lengkap. Dari sisi ekspor, selain mengirim produk ke Afrika Selatan dan sudah memperoleh pemesanan berulang dari sana, Perseroan juga telah mengekspor ke Australia dan Ekuador. Manajemen melaporkan pendapatan semester berjalan tumbuh 46 persen dibanding tahun sebelumnya, optimistis target penjualan tahun 2026 sebesar Rp4,88 triliun bisa terlampaui, dengan perkiraan laba bersih di kisaran Rp250 miliar. Kontribusi pertumbuhan berasal dari lini pupuk dan pestisida yang disebut saling menopang.",
+   "Soal belanja modal, manajemen menjelaskan dana investasi saat ini difokuskan untuk pembangunan pabrik baru di Sumatera Selatan, masih tahap persiapan lahan dengan anggaran akuisisi dan persiapan lahan sebesar Rp70 miliar. Total kebutuhan investasi sampai tahap pertama pembangunan rampung diperkirakan mencapai Rp230 miliar, yang rencananya dijalankan pada tahun 2027, didanai sebagian dari kas internal Perseroan dan sebagian lagi dari dukungan perbankan. Untuk proyeksi 2027, manajemen mengaku belum melakukan kajian mendalam, namun melihat peluang dari program ketahanan pangan pemerintah sebagai salah satu sumber permintaan baru."
+  ],
+  "fotoAdegan": "Workers surveying cleared red-earth land for a new agrochemical plant construction site in rural South Sumatra, heavy machinery parked nearby, overcast sky",
+  "takeaway": "Paparan ini condong positif bagi DGWG, karena manajemen melaporkan pertumbuhan pendapatan 46 persen pada semester berjalan dan tetap optimistis target penjualan tahun ini terlampaui, meski semua angka itu masih proyeksi internal manajemen yang belum diaudit dan disampaikan lisan dalam sesi tanya jawab. Yang tersentuh di sini adalah pendapatan dan laba bersih perusahaan, serta rencana belanja modal, yaitu dana yang dikeluarkan untuk membangun aset jangka panjang seperti pabrik baru, karena besar kecilnya menentukan seberapa cepat kapasitas produksi bertambah sekaligus seberapa banyak kas dan pinjaman bank yang terpakai. Pelaku pasar perlu mencermati ini karena rencana investasi Rp230 miliar untuk pabrik di Sumatera Selatan akan membebani arus kas Perseroan sepanjang tahun 2027, sementara kepastian sumber pendanaan dari bank belum dirinci nilainya. Yang perlu dipantau berikutnya adalah realisasi pembangunan pabrik tersebut sepanjang 2027, serta apakah target penjualan Rp4,88 triliun dan laba bersih sekitar Rp250 miliar untuk tahun 2026 benar-benar tercapai saat laporan keuangan tahunan Perseroan terbit.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "brna-rilis-rights-issue-rp372-6-miliar-dilusi-capai-42-55",
+  "category": "Aksi Korporasi",
+  "title": "BRNA Rilis Rights Issue Rp372,6 Miliar, [Dilusi] Capai 42,55%",
+  "deck": "Berlina menerbitkan hingga 543,95 juta saham baru lewat HMETD senilai Rp372,6 miliar, dan sebagian besar dananya berasal dari konversi utang pemegang saham utama, bukan uang tunai segar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T15:24:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5ae0a64be0_2e81eba4b8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRNA",
+  "tags": [
+   "BRNA",
+   "rights issue",
+   "HMETD",
+   "Berlina"
+  ],
+  "body": [
+   "PT Berlina Tbk (BRNA) resmi menjalankan rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu III (PMHMETD III) setelah mendapat pernyataan efektif dari OJK pada 30 September 2026. Perseroan akan menerbitkan sebanyak-banyaknya 543.950.000 saham baru bernilai nominal Rp50 per saham, setara 55,56 persen dari jumlah saham sebelum aksi ini, dengan rasio 9 saham lama memperoleh 5 HMETD. Harga pelaksanaan ditetapkan Rp685 per saham, sehingga total nilai emisi bisa mencapai Rp372.605.750.000. Setiap pemegang HMETD yang menebus 3 saham baru akan mendapat 1 Waran Seri I secara cuma-cuma, dengan total waran hingga 181.316.667 lembar dan harga pelaksanaan Rp800 per saham yang bisa dieksekusi mulai 16 April 2027 sampai 15 Oktober 2029.",
+   "Bagian terpenting dari aksi ini ada pada siapa yang membayar dan bagaimana caranya. PT Dwi Satrya Utama (DSU), pemegang saham utama dengan porsi 54,57 persen, bertindak sebagai pembeli siaga sekaligus menyatakan akan melaksanakan seluruh haknya. Tapi pembayarannya bukan dengan uang tunai, melainkan lewat kompensasi atau set-off atas pokok utang Perseroan kepada DSU, dengan nilai yang bisa dikonversi menjadi saham mencapai Rp264.376.182.311. Dua pemegang saham lain, Lisjanto Tjiptobiantoro yang memiliki 5,08 persen saham dan PT Niaga Karya Tunggal yang memiliki 3,39 persen saham, telah sepakat mengalihkan seluruh hak mereka kepada DSU, masing-masing sebanyak 27.652.222 dan 18.423.888 HMETD, dan menyatakan tidak akan menebus haknya sendiri. DSU juga akan menyerap sisa saham yang tak terserap pemegang HMETD lain, hingga 43.067.765 saham atau setara Rp29,5 miliar, dengan cara pembayaran yang sama yaitu set-off utang.",
+   "Dokumen ini secara eksplisit memperingatkan pemegang saham bahwa jika mereka tidak ikut menebus HMETD sesuai porsinya, dilusi kepemilikan yang dialami bisa mencapai 35,71 persen setelah pelaksanaan HMETD, dan maksimum 42,55 persen jika seluruh Waran Seri I turut dilaksanakan. Prospektus juga menyebut risiko usaha utama Perseroan adalah fluktuasi harga bahan baku yang dipengaruhi nilai tukar rupiah. Jadwal menunjukkan periode perdagangan dan pelaksanaan HMETD berlangsung 14 sampai 21 Oktober 2026, dengan pencatatan saham baru di Bursa Efek Indonesia pada 14 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers monitoring rows of plastic injection molding machines inside an industrial packaging factory, Cikarang industrial estate, daylight",
+  "takeaway": "Rights issue ini condong negatif bagi pemegang saham minoritas Berlina, karena sebagian besar dana yang masuk bukan uang tunai segar melainkan konversi utang perusahaan kepada pemegang saham utama, PT Dwi Satrya Utama, senilai hingga Rp264,4 miliar dari total nilai emisi Rp372,6 miliar. Jumlah saham beredar berpotensi melonjak 55,56 persen, sehingga laba per saham, yaitu keuntungan perusahaan yang dibagi rata ke setiap lembar saham, ikut terdilusi karena kue labanya kini dibagi ke lebih banyak saham. Di sisi lain ekuitas perusahaan memang bertambah besar karena beban utang berubah menjadi modal, sehingga rasio utang terhadap modal mengecil, dan ini bisa meringankan beban bunga ke depan. Pemegang saham yang tidak ikut menebus haknya akan kehilangan porsi kepemilikan sampai 35,71 persen setelah HMETD dilaksanakan, dan maksimum 42,55 persen jika seluruh waran dieksekusi, angka yang jauh dari sekadar remah. Yang perlu dipantau berikutnya adalah batas akhir pelaksanaan HMETD pada 21 Oktober 2026 dan tanggal penjatahan pemesanan tambahan pada 26 Oktober 2026, karena dari situ baru terlihat berapa besar porsi yang benar-benar ditebus pemegang saham publik dibanding yang jatuh ke DSU.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lmpi-rampungkan-rupslb-komisaris-independen-mundur",
+  "category": "Aksi Korporasi",
+  "title": "LMPI Rampungkan RUPSLB, Komisaris Independen [Mundur]",
+  "deck": "RUPSLB LMPI menyetujui pengunduran diri Bing Hartono Poernomosidi sebagai komisaris independen dan mengukuhkan susunan direksi-komisaris baru hingga 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T15:21:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6713392f1d_bdf8192b6e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LMPI",
+  "tags": [
+   "LMPI",
+   "RUPSLB",
+   "Komisaris",
+   "Direksi"
+  ],
+  "body": [
+   "Langgeng Makmur Industri Tbk (LMPI) melaporkan hasil Rapat Umum Pemegang Saham Luar Biasa yang digelar Jumat, 25 September 2026, pukul 10.19 sampai 10.26 WIB di unit pabrik perseroan di Bringinbendo, Taman, Kabupaten Sidoarjo. Rapat dihadiri pemegang saham yang mewakili 820.889.306 lembar saham, atau 81,44 persen dari total 1.008.517.669 saham beredar, dan seluruh keputusan disetujui bulat tanpa suara menolak atau abstain.",
+   "Agenda utama rapat adalah perombakan susunan pengurus. Pemegang saham menyetujui pengunduran diri Bing Hartono Poernomosidi dari jabatan Komisaris Independen, berlaku efektif sejak rapat ditutup, disertai pembebasan tanggung jawab penuh atas tindakan pengawasannya selama ini sepanjang tercatat dalam pembukuan perseroan. Dengan keputusan ini, susunan pengurus baru yang berlaku sejak penutupan rapat hingga RUPS Tahunan 2029 adalah Hendro Budianto sebagai Komisaris Utama, Wan Juli sebagai satu-satunya Komisaris Independen, Hidayat Alim sebagai Direktur Utama, serta Pangestu Alim, Irawan Alim, dan Kosasih Koenawan sebagai Direktur.",
+   "Rapat juga memberi kuasa kepada direksi, dengan hak substitusi, untuk mengurus segala keperluan administratif atas perubahan susunan pengurus ini, termasuk membuat akta notaris dan melaporkan keputusan tersebut kepada otoritas yang berwenang."
+  ],
+  "fotoAdegan": "Modest factory meeting room with empty chairs around a long table, blinds filtering morning light, industrial Indonesian plant setting.",
+  "takeaway": "Perubahan ini netral bagi fundamental LMPI karena murni soal tata kelola, tidak ada dana, aset, atau saham yang berpindah tangan. Pos kinerja seperti ekuitas, arus kas, beban bunga, maupun laba per saham sama sekali tidak tersentuh oleh pergantian pengurus semacam ini, beda dengan misalnya rights issue atau penerbitan utang baru yang langsung mengubah neraca. Yang perlu dicermati selanjutnya adalah kinerja susunan komisaris yang kini hanya menyisakan satu komisaris independen, Wan Juli, sampai masa jabatan berakhir di RUPS Tahunan 2029, serta apakah perseroan akan menambah komisaris independen untuk memenuhi ketentuan tata kelola bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lppi-rombak-direksi-kursi-direktur-berkurang-jadi-empat",
+  "category": "Aksi Korporasi",
+  "title": "LPPI [Rombak] Direksi, Kursi Direktur Berkurang Jadi Empat",
+  "deck": "Lewat keputusan sirkuler pemegang saham, LPPI mengganti direksi dan komisaris sekaligus menghapus satu kursi direktur, efektif 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T14:50:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/94ee970ccb_dd3598e2e2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "pergantian direksi",
+   "tata kelola perusahaan",
+   "obligasi korporasi"
+  ],
+  "body": [
+   "PT Lontar Papyrus Pulp & Paper Industry (LPPI) mengganti sebagian jajaran direksi dan dewan komisarisnya melalui Keputusan Sirkuler Para Pemegang Saham tertanggal 1 Oktober 2026, mekanisme pengambilan keputusan di luar Rapat Umum Pemegang Saham Luar Biasa. Seluruh direksi dan komisaris lama diberhentikan dengan hormat dan diberi pembebasan tanggung jawab (acquit et de charge) atas tindakan pengurusan dan pengawasan mereka, sepanjang tercermin dalam laporan keuangan perseroan, lalu seketika digantikan susunan baru yang berlaku efektif sejak tanggal yang sama.",
+   "Di jajaran direksi, Hendri tetap menjabat Direktur Utama, sementara Kosim Sutiono dan Dr. Ir. H. Irsyal Yasman tetap menjadi Direktur. Kursi direktur yang sebelumnya dipegang Davit Boentoro kini diisi Andre Ridwan. Satu kursi direktur lain yang sebelumnya dijabat Benny Iswandy tidak lagi tercantum dalam susunan baru, sehingga jumlah direktur LPPI berkurang dari lima menjadi empat orang. Di jajaran komisaris tidak ada perubahan nama: Arman Dwiartono tetap Komisaris Utama, Hengkie Wongosari tetap Komisaris, dan Baharudin tetap menjabat Komisaris Independen.",
+   "Surat pemberitahuan ini ditembuskan ke Otoritas Jasa Keuangan, Direksi PT Bursa Efek Indonesia, serta dua wali amanat yaitu PT Bank KB Indonesia Tbk dan PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk. Kedua bank itu adalah wali amanat untuk obligasi Rp1 triliun dan sukuk Rp676,63 miliar milik LPPI yang baru rampung diterbitkan pekan lalu."
+  ],
+  "fotoAdegan": "Exterior view of a large pulp and paper mill with steam rising from industrial stacks, storage tanks and loading trucks nearby, overcast daylight.",
+  "takeaway": "Pergantian ini tergolong netral bagi investor karena posisi puncak, yakni Direktur Utama Hendri dan Komisaris Utama Arman Dwiartono, tetap sama, sementara perubahan nyata hanya satu kursi direktur yang beralih dari Davit Boentoro ke Andre Ridwan dan satu kursi direktur lain yang dihapus sehingga direksi mengecil dari lima menjadi empat orang. Pergantian pengurus seperti ini tidak langsung mengubah pos keuangan seperti ekuitas atau laba per saham, tapi tetap diperhatikan pasar karena menyangkut stabilitas tata kelola, apalagi suratnya ikut ditembuskan ke dua wali amanat obligasi dan sukuk LPPI senilai total Rp1,67 triliun yang baru saja rampung diterbitkan, sehingga pemegang surat utang punya kepentingan memastikan manajemen baru melanjutkan komitmen pembayaran yang sama. Yang perlu dipantau berikutnya adalah penjelasan LPPI soal alasan hilangnya satu kursi direktur serta bagaimana direksi baru menjalankan kewajiban kepada pemegang obligasi, mengingat susunan ini sudah berlaku efektif sejak 1 Oktober 2026 tanpa melalui RUPSLB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fast-perkara-pkpu-di-pn-niaga-jakarta-resmi-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "FAST: Perkara [PKPU] di PN Niaga Jakarta Resmi Dicabut",
+  "deck": "Pengadilan Niaga Jakarta Pusat mengabulkan pencabutan perkara PKPU yang diajukan empat individu terhadap PT Fast Food Indonesia Tbk, pengelola KFC di Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T14:36:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c055797864_090b5fb6ef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FAST",
+  "tags": [
+   "FAST",
+   "PKPU",
+   "Pengadilan Niaga",
+   "KFC Indonesia"
+  ],
+  "body": [
+   "PT Fast Food Indonesia Tbk (FAST), pengelola jaringan restoran KFC di Indonesia, menyampaikan keterbukaan informasi bahwa pada 1 Oktober 2026 perseroan menerima putusan Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat dalam perkara nomor 283/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst. Perkara ini sebelumnya diajukan oleh empat pemohon, yaitu Sena Meaya Ngantung, Geniati Heneve Ngantoeng, Kamang Solana, dan Christie Pricilla Ngantung, melawan perseroan dalam bentuk permohonan penundaan kewajiban pembayaran utang atau PKPU.",
+   "Berdasarkan putusan tersebut, pengadilan mengabulkan permohonan pencabutan perkara yang diajukan sendiri oleh para pemohon. Dengan putusan ini, perkara dinyatakan telah dicabut dan pencabutannya telah dicatat dalam buku register perkara pengadilan, sehingga proses hukum terkait permohonan PKPU ini resmi berakhir tanpa berlanjut ke tahap persidangan lebih jauh.",
+   "Manajemen Fast Food Indonesia menyatakan pencabutan perkara ini tidak membawa dampak material terhadap kegiatan operasional, kondisi keuangan, kelangsungan usaha, maupun reputasi perseroan. Keterbukaan informasi ini disampaikan perseroan melalui Corporate Secretary Yohannes Kristiarto Soeryo Legowo sesuai dengan ketentuan Peraturan Otoritas Jasa Keuangan Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi atau Fakta Material oleh Emiten atau Perusahaan Publik."
+  ],
+  "fotoAdegan": "Wide stone steps leading to a courthouse entrance in Jakarta, pedestrians walking past tall columns, midday light",
+  "takeaway": "Laporan ini netral bagi Fast Food Indonesia: pencabutan gugatan PKPU memang menghapus satu risiko hukum dari catatan perseroan, tapi karena nilai klaim dan duduk perkara awal tidak pernah diungkap ke publik, pasar tidak punya cukup bahan untuk membacanya sebagai sinyal kuat ke arah mana pun. Tidak ada pos keuangan seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar yang tersentuh langsung oleh peristiwa ini, karena PKPU, yaitu permohonan penundaan pembayaran utang yang biasanya jadi pintu masuk ke proses kepailitan di pengadilan niaga, pada kasus ini bahkan tidak sempat berlanjut ke tahap persidangan substantif sebelum dicabut sendiri oleh pemohonnya. Yang perlu dipantau selanjutnya adalah apakah Sena Meaya Ngantung, Geniati Heneve Ngantoeng, Kamang Solana, dan Christie Pricilla Ngantung kembali mengajukan gugatan atau klaim lain terhadap perseroan, mengingat dokumen keterbukaan ini tidak menjelaskan alasan pencabutan maupun pokok sengketa yang memicu permohonan PKPU tersebut sejak awal.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ahap-kantongi-efektif-ojk-untuk-hmetd-rasio-7-5",
+  "category": "Aksi Korporasi",
+  "title": "AHAP Kantongi [Efektif] OJK untuk HMETD, Rasio 7:5",
+  "deck": "OJK menyatakan efektif rencana rights issue AHAP sebanyak-banyaknya 3,5 miliar saham dengan rasio 7:5, harga pelaksanaan Rp50 per saham. Jadwal final penerbitan ditetapkan 8-26 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T14:16:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f384e5b8bb_d67453cbe2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AHAP",
+  "tags": [
+   "AHAP",
+   "rights issue",
+   "HMETD",
+   "OJK"
+  ],
+  "body": [
+   "Otoritas Jasa Keuangan (OJK) menyatakan efektif Pernyataan Pendaftaran rights issue kelima (PMHMETD V) PT Asuransi Harta Aman Pratama Tbk (AHAP) pada 30 September 2026, melalui surat bernomor S-125/D.04/2026 yang ditandatangani Kepala Eksekutif Pengawas Pasar Modal, Keuangan Derivatif dan Bursa Karbon OJK, Hasan Fawzi. Dengan persetujuan ini, AHAP dapat melanjutkan rencana penerbitan saham baru sebanyak-banyaknya 3,5 miliar lembar dengan nilai nominal dan harga pelaksanaan yang sama, yaitu Rp50 per saham.",
+   "Rasio rights issue ditetapkan 7:5, artinya setiap pemegang 7 saham lama yang tercatat dalam Daftar Pemegang Saham per 12 Oktober 2026 pukul 16.00 WIB berhak membeli 5 saham baru. Perseroan menyatakan dana hasil penerbitan ini ditujukan untuk memenuhi ketentuan Pasal 56 POJK Nomor 23 Tahun 2023 tentang ekuitas atau modal minimum perusahaan asuransi. Penerbitan HMETD kali ini tidak disertai waran.",
+   "Jadwal final penerbitan sudah ditetapkan. Perdagangan saham dengan status cum-right berakhir 8 Oktober 2026 di pasar reguler dan negosiasi, serta 12 Oktober 2026 di pasar tunai. HMETD akan didistribusikan 13 Oktober dan mulai tercatat di Bursa Efek Indonesia pada 14 Oktober, dengan periode perdagangan sekaligus pelaksanaan HMETD berlangsung 14 hingga 20 Oktober 2026. Pembayaran pesanan saham tambahan paling lambat 22 Oktober, penjatahan dilakukan 23 Oktober, dan saham hasil penjatahan didistribusikan 26 Oktober 2026. Perseroan wajib melaporkan hasil pelaksanaan rights issue ke OJK paling lambat 30 Oktober 2026, dan menyampaikan hasil audit penjatahan pada 23 November 2026."
+  ],
+  "fotoAdegan": "Wide shot of modern glass office towers in Jakarta's Sudirman business district at dusk, busy street traffic below",
+  "takeaway": "Laporan ini netral bagi AHAP: isinya adalah konfirmasi dari OJK bahwa rencana rights issue yang sudah diumumkan sejak Juli lalu resmi bisa berjalan, bukan perubahan jumlah dana atau rasio yang bisa menggeser penilaian. Yang tersentuh tetap pos ekuitas dan jumlah saham beredar, karena begitu 3,5 miliar saham baru ini terbit, jumlah lembar saham AHAP akan membengkak signifikan dan pemegang saham lama yang tidak ikut menebus haknya bisa terdilusi hingga sekitar 41,67 persen sesuai rasio 7:5. Harga pelaksanaan Rp50 sama dengan nilai nominal, artinya saham baru dijual tanpa premium dan tujuannya murni memenuhi syarat modal minimum asuransi sesuai POJK 23/2023, bukan untuk ekspansi usaha. Yang perlu dipantau pemegang saham selanjutnya adalah periode pelaksanaan HMETD pada 14 sampai 20 Oktober 2026, karena di situ terlihat seberapa besar pemegang saham lama benar-benar menebus haknya, serta tanggal penjatahan 23 Oktober yang menentukan porsi investor baru yang masuk lewat pesanan saham tambahan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "btek-jawab-permintaan-bursa-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "BTEK Jawab Permintaan Bursa soal [Volatilitas] Transaksi Saham",
+  "deck": "Bumi Teknokultura Unggul (BTEK) menyatakan tidak ada informasi material yang memicu volatilitas transaksi sahamnya, menanggapi permintaan klarifikasi BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T14:12:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/52b3ad3764_24762e5b38.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTEK",
+  "tags": [
+   "BTEK",
+   "Bumi Teknokultura Unggul",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "Bumi Teknokultura Unggul Tbk (BTEK) mengirim surat klarifikasi bernomor 46/BTEK/IDX/X/2026 kepada Bursa Efek Indonesia pada 1 Oktober 2026, menjawab permintaan penjelasan bursa melalui surat nomor S-12578/BEI.PP1/09-2026 terkait volatilitas transaksi efek perseroan. Surat ditandatangani oleh Direktur Utama Dhanny Cahyadi.",
+   "Dalam jawabannya, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur POJK Nomor 31/POJK.04/2015 dan ketentuan III.2.1 Peraturan I-E BEI. BTEK juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu terkait kepemilikan atau penjaminan saham sesuai POJK Nomor 4 Tahun 2024.",
+   "Perseroan menambahkan bahwa sampai saat surat ini disampaikan, belum ada rencana aksi korporasi dalam tiga bulan mendatang yang dapat berdampak pada status pencatatan sahamnya di bursa. Berdasarkan konfirmasi yang diterima Corporate Secretary dari pemegang saham pengendali dan pemegang saham utama, keduanya juga menyatakan tidak memiliki rencana membeli, menjual, atau mengalihkan kepemilikan saham mereka di BTEK."
+  ],
+  "fotoAdegan": "Wide shot of an Indonesian stock exchange lobby with motion-blurred ticker displays in the background, people in business attire walking past, daytime office lighting",
+  "takeaway": "Secara fundamental laporan ini netral karena isinya hanya penegasan bahwa tidak ada informasi baru, bukan perubahan apa pun pada kondisi keuangan BTEK. Surat semacam ini keluar karena bursa mencurigai pergerakan harga atau volume transaksi saham yang tidak wajar dan meminta emiten memastikan tidak ada kabar tersembunyi yang mendorongnya, semacam pengecekan rutin supaya investor tidak kecolongan informasi yang belum terbuka ke publik. Dokumen ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar, karena memang itu bukan yang dipersoalkan bursa. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham BTEK mereda setelah klarifikasi ini atau bursa menindaklanjuti dengan status pengawasan khusus, mengingat perseroan sendiri menegaskan tidak ada rencana aksi korporasi dalam tiga bulan ke depan terhitung sejak 1 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-setujui-maybank-jadi-liquidity-provider-waran-zp",
+  "category": "Aksi Korporasi",
+  "title": "BEI Setujui Maybank Jadi [Liquidity Provider] Waran ZP",
+  "deck": "Bursa Efek Indonesia menyetujui PT Maybank Sekuritas Indonesia sebagai penyedia likuiditas untuk 15 kode waran terstruktur beracuan ARTO hingga WIFI, efektif 9 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T13:53:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/pabPush20261001065334/Persetujuan LP Waran Terstruktur PT Maybank Sekuritas Indonesia.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "Maybank Sekuritas",
+   "waran terstruktur",
+   "liquidity provider"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia melalui surat No. Peng-00077/BEI.ANG/10-2026 tertanggal 1 Oktober 2026 menyetujui PT Maybank Sekuritas Indonesia sebagai Liquidity Provider untuk 15 kode waran terstruktur: ARTOZPCN7A, ASIIZPCN7A, BRMSZPCN7A, BRPTZPCN7A, CTRAZPCN7A, CUANZPCN7A, EMTKZPCN7A, ENRGZPCN7A, HRUMZPCN7A, KIJAZPCN7A, MDKAZPCN7A, MEDCZPCN7A, NCKLZPCN7A, TOWRZPCN7A, dan WIFIZPCN7A. Persetujuan ini berlaku efektif mulai 9 Oktober 2026.",
+   "Kelima belas kode waran itu beracuan pada saham ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, KIJA, MDKA, MEDC, NCKL, TOWR, dan WIFI, yakni deretan waran terstruktur yang sebelumnya diterbitkan Maybank Sekuritas pada akhir September 2026. Surat persetujuan ditandatangani oleh dua Direktur BEI, Irvan Susandy dan Saidu Solihin, dengan tembusan antara lain ke Otoritas Jasa Keuangan, PT Kliring Penjaminan Efek Indonesia, dan PT Kustodian Sentral Efek Indonesia."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, pedestrians crossing below, late afternoon light",
+  "takeaway": "Laporan ini netral baik bagi Maybank Sekuritas maupun bagi ke-15 saham acuannya, ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, KIJA, MDKA, MEDC, NCKL, TOWR, dan WIFI, sebab penunjukan ini murni urusan teknis perdagangan satu produk derivatif, bukan keputusan bisnis dari emiten-emiten tersebut. Waran terstruktur adalah produk yang nilainya mengikuti harga saham acuan tapi diterbitkan dan diperdagangkan sendiri oleh sekuritas, dalam hal ini Maybank, sehingga kondisi usaha ke-15 saham acuan tidak berubah sama sekali akibat persetujuan ini. Sebagai liquidity provider, Maybank wajib terus memasang harga beli dan jual atas 15 kode waran itu agar investor pemegang waran tidak kesulitan bertransaksi, dan tugas ini sama sekali tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham milik emiten-emiten acuan. Yang perlu dipantau adalah tanggal 9 Oktober 2026, saat penunjukan ini mulai berlaku efektif, untuk melihat apakah perdagangan ke-15 kode waran tersebut benar menjadi lebih likuid di pasar reguler.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bswd-bantah-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Bantah Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Bank of India Indonesia Tbk (BSWD) menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menegaskan tidak ada informasi material maupun rencana aksi korporasi baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T13:46:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bd6d331aa7_b19ec69c6c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSWD",
+  "tags": [
+   "BSWD",
+   "Bank of India Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bank of India Indonesia Tbk (BSWD) mengirim surat nomor 048/KP-BD/SPE-IDX/AA/X/2026 tertanggal 1 Oktober 2026 kepada Bursa Efek Indonesia, sebagai jawaban atas surat bursa nomor S-12561/BEI.PP3/09-2026 tertanggal 30 September 2026 yang meminta penjelasan atas volatilitas transaksi efek BSWD. Permintaan semacam ini lazim dikirim bursa saat harga atau volume perdagangan suatu saham bergerak di luar kebiasaan dalam waktu singkat, merujuk pada Peraturan OJK Nomor 31/POJK.04/2015 dan ketentuan III.2.1 Peraturan Bursa Nomor I-E.",
+   "Dalam suratnya, BSWD menyatakan hingga tanggal surat disampaikan, perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efeknya selain yang sudah diungkapkan sebelumnya. Perseroan juga menyebut tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang akan berdampak pada pencatatan sahamnya di bursa.",
+   "Untuk poin mengenai rencana pemegang saham utama, BSWD menyampaikan bahwa berdasarkan informasi yang diterima dari pemegang saham utamanya, pihak tersebut hingga saat ini belum memiliki rencana terkait kepemilikan sahamnya di perseroan. Laporan elektronik ini disampaikan oleh Santoso Pribadi selaku Kadiv Accounting & Reporting BSWD, dan surat jawaban ditandatangani oleh Direktur Utama serta Direktur Operasional yang merangkap Sekretaris Perusahaan, pada 1 Oktober 2026 pukul 13.46 WIB."
+  ],
+  "fotoAdegan": "Blurred figures of traders gesturing near distant stock ticker monitors on an exchange floor, motion blur, no readable text",
+  "takeaway": "Laporan ini netral bagi BSWD karena jawabannya seragam menyangkal adanya informasi, rencana aksi korporasi, atau pergerakan pemegang saham utama yang bisa menjelaskan pergerakan harga sahamnya belakangan ini. Permintaan penjelasan seperti ini biasanya dikirim bursa saat harga atau volume perdagangan saham bergerak tidak wajar dalam waktu singkat, dan karena BSWD tidak membuka informasi baru yang menyentuh ekuitas, arus kas, maupun laba per saham, pergerakan harga sahamnya kemungkinan lebih didorong oleh aksi jual beli di pasar ketimbang perubahan kinerja perusahaan. Pelaku pasar sebaiknya mencermati hal ini karena kenaikan atau penurunan harga tanpa dasar fundamental bisa berbalik arah secepat ia muncul. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga dan volume saham BSWD mereda setelah surat klarifikasi ini terbit pada 1 Oktober 2026, atau apakah bursa kembali meminta penjelasan maupun mempertimbangkan langkah pengawasan lanjutan jika volatilitas berlanjut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "aadi-tuntaskan-divestasi-kestrel-nilai-us-814-juta",
   "category": "Aksi Korporasi",
   "title": "AADI Tuntaskan Divestasi Kestrel, Nilai [US$814] Juta",

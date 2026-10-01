@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "aali-siapkan-buyback-rp400-miliar-di-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "AALI Siapkan Buyback [Rp400 Miliar] di Pasar Bergejolak",
+  "deck": "AALI berencana membeli kembali saham senilai maksimal Rp400 miliar hingga 28 Desember 2026, memakai dana internal di bawah payung aturan OJK untuk pasar bergejolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T22:52:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4625450f9b_add7b60429.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AALI",
+  "tags": [
+   "AALI",
+   "buyback saham",
+   "Astra Agro Lestari",
+   "OJK"
+  ],
+  "body": [
+   "Astra Agro Lestari Tbk (AALI) mengumumkan rencana pembelian kembali saham dengan nilai maksimal Rp400 miliar, merujuk pada Peraturan OJK No. 13/2023, Surat OJK No. S-112/D.04/2026 tanggal 9 September 2026, dan Peraturan OJK No. 29/2023 yang memberi ruang bagi emiten untuk melakukan buyback saat pasar modal berfluktuasi signifikan. Perseroan memastikan dana yang dipakai berasal dari kas internal, bukan pinjaman atau dana hasil penawaran umum. Jumlah saham yang dibeli dibatasi maksimal 20 persen dari modal ditempatkan dan disetor, dengan syarat saham free float tidak boleh turun di bawah 15 persen dari modal tersebut. Periode pembelian berlangsung dari 2 Oktober hingga 28 Desember 2026.",
+   "Dalam proforma laporan keuangan per 30 Juni 2026, jika seluruh anggaran Rp400 miliar terpakai, total aset Perseroan turun dari Rp28,9 triliun menjadi Rp28,5 triliun dan total ekuitas turun dari Rp24,6 triliun menjadi Rp24,2 triliun. Laba bersih periode berjalan tetap di angka Rp1,1 triliun, sementara laba bersih per saham naik dari Rp571 menjadi Rp575 karena jumlah saham beredar berkurang. Perseroan menyatakan buyback ini tidak akan berdampak negatif material terhadap kinerja keuangan maupun kegiatan usahanya.",
+   "Pembelian akan dilaksanakan melalui Bursa Efek Indonesia dengan menunjuk satu perusahaan efek, dan dapat dihentikan sewaktu-waktu jika periode berakhir, dana sudah terpakai penuh, atau atas keputusan Perseroan sendiri, dengan kewajiban mengumumkan alasan penghentian ke publik paling lambat dua hari kerja sesudahnya sesuai Pasal 9 POJK No. 29/2023. Selama periode buyback, komisaris, direktur, pegawai, pemegang saham utama, dan pihak yang berpotensi memiliki informasi orang dalam dilarang bertransaksi atas saham Perseroan. Saham hasil pembelian kembali akan disimpan sebagai saham treasuri dan berpotensi dijual kembali di masa depan jika Perseroan membutuhkan tambahan modal."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested oil palm fruit bunches onto a truck at a plantation collection point, midday light",
+  "takeaway": "Laporan ini condong netral bagi AALI, sebab dampaknya terhadap keuangan perusahaan memang kecil dan buyback semacam ini terbuka untuk semua emiten lewat kebijakan OJK saat pasar bergejolak, bukan sinyal spesifik yang mencerminkan keyakinan khusus manajemen atas sahamnya sendiri. Dana yang disiapkan paling banyak Rp400 miliar hanya memangkas sekitar 1,6 persen dari total ekuitas Rp24,6 triliun, modal bersih perusahaan setelah dikurangi utang, dan laba bersih per saham, yakni bagian keuntungan yang jadi hak tiap lembar saham, malah naik tipis dari Rp571 menjadi Rp575 karena jumlah saham beredar berkurang sementara laba tidak berubah. Yang perlu dicermati adalah apakah Perseroan benar-benar merealisasikan pembelian sampai batas waktu 28 Desember 2026 atau menghentikannya lebih awal, karena jika dihentikan sebelum dana terpakai penuh, Perseroan wajib mengumumkan alasannya ke publik paling lambat dua hari kerja setelahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wifi-komisaris-utama-dan-direktur-mundur-rupslb-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIFI: Komisaris Utama dan Direktur [Mundur], RUPSLB 21 Oktober",
+  "deck": "Hashim S. Djojohadikusumo mundur dari Komisaris Utama dan Henny Santoso dari Direktur WIFI, keputusan menunggu RUPSLB 21 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T22:30:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae9147b0f1_27a0474b22.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "pengunduran diri",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) mengumumkan telah menerima dua surat pengunduran diri dari jajaran pengurusnya. Hashim S. Djojohadikusumo mengundurkan diri dari jabatan Komisaris Utama melalui surat bertanggal 29 September 2026, yang diterima perusahaan pada 30 September 2026. Henny Santoso mengundurkan diri dari jabatan Direktur melalui surat bertanggal 1 Oktober 2026, yang diterima perusahaan pada tanggal yang sama.",
+   "Dalam suratnya, Hashim menyatakan pengunduran dirinya berlaku sejak tanggal surat dan meminta perusahaan menggelar Rapat Umum Pemegang Saham untuk memutuskan permohonan tersebut. Henny menyebut pengunduran dirinya baru efektif setelah ada keputusan RUPS, dan meminta perusahaan menjalankan kewajiban pelaporan ke Otoritas Jasa Keuangan. Sesuai Pasal 8 ayat (3) juncto Pasal 27 POJK 33/2014, kedua permohonan ini akan diputuskan dalam RUPS Luar Biasa (RUPSLB) yang dijadwalkan Rabu, 21 Oktober 2026, dengan salah satu agenda rapat berupa perubahan susunan Direksi dan Dewan Komisaris.",
+   "Perseroan menyatakan pengunduran diri kedua pejabat ini tidak berdampak material terhadap operasional, hukum, maupun kondisi keuangan perusahaan, dan fungsi pengurusan tetap dijalankan oleh anggota direksi serta komisaris lain yang masih menjabat. Perusahaan juga berkomitmen mengumumkan hasil RUPSLB kepada OJK dan publik paling lambat dua hari kerja setelah rapat digelar, sesuai Pasal 9 huruf b POJK 33/2014."
+  ],
+  "fotoAdegan": "Technicians installing fiber optic cables on a utility pole along a busy Jakarta street, midday light",
+  "takeaway": "Laporan ini condong negatif bagi tata kelola WIFI, karena Komisaris Utama dan satu Direktur mundur hampir bersamaan, tepat sebelum RUPSLB yang sudah empat kali tertunda sejak Agustus dan kini mengagendakan perubahan lini bisnis perusahaan. Yang tersentuh bukan laba atau arus kas, karena Perseroan sendiri menyatakan tidak ada dampak material ke operasional dan keuangan, melainkan stabilitas kepengurusan, yakni siapa yang akan mengambil keputusan strategis perusahaan ke depan, dan ini penting dipantau karena pergantian pucuk pimpinan di tengah rencana perubahan bisnis bisa memperlambat eksekusi strategi. Yang perlu dipantau berikutnya adalah RUPSLB pada Rabu, 21 Oktober 2026, yang akan memutuskan sah atau tidaknya kedua pengunduran diri sekaligus menetapkan susunan baru Direksi dan Komisaris, dengan hasil rapat wajib diumumkan ke OJK paling lambat dua hari kerja sesudahnya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "harga-acuan-cpo-dan-kakao-naik-oktober-getah-pinus-turun",
   "category": "Bisnis",
   "title": "Harga Acuan CPO dan Kakao [Naik] Oktober, Getah Pinus Turun",
@@ -110,6 +162,84 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret adalah Livin' kini membolehkan surat utang negara yang sudah dibeli nasabah, baik SBN Perdana maupun SBN Sekunder, dijadikan jaminan untuk mengajukan kredit. Artinya nasabah yang punya surat utang itu tidak perlu menjualnya dulu kalau butuh dana tunai, surat utangnya cukup digadaikan sebagai agunan. Yang kena dampak adalah nasabah pemegang SBN lewat Livin' dan posisi kredit Bank Mandiri sendiri, mengingat 89 persen dari seluruh saldo tabungan bank ini sudah mengalir lewat aplikasi tersebut. Pola ini menunjukkan arah Livin' bergeser dari sekadar alat transaksi menjadi mesin penyalur kredit yang berbasis aset investasi nasabah, bukan cuma tempat menabung atau membeli surat utang. Yang akan memastikan seberapa besar dampaknya adalah angka realisasi kredit dengan skema agunan SBN ini, yang belum disebutkan dalam rilis ini dan baru akan terlihat di laporan keuangan Bank Mandiri pada kuartal mendatang.",
   "imageV": "mupnb72n"
+ },
+ {
+  "slug": "ppgl-panggil-rupslb-23-oktober-bahas-saham-bonus-dan-modal",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Panggil RUPSLB 23 Oktober, Bahas [Saham Bonus] dan Modal",
+  "deck": "PPGL mengundang RUPSLB dan RUPS Independen pada 23 Oktober 2026 untuk membahas saham bonus, penambahan modal dasar, dan rencana modal baru hingga 10% tanpa hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T21:16:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c0c59961ae_e7ae1edefa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "RUPSLB",
+   "saham bonus",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sekaligus RUPS Independen pada Jumat, 23 Oktober 2026 pukul 13.00 WIB, di kantor perseroan di Green Sedayu Bizpark Cakung Blok GS7 No. 19, Jakarta Timur. Yang berhak hadir adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 30 September 2026, saat penutupan perdagangan di Bursa Efek Indonesia.",
+   "RUPSLB membawa empat agenda. Pertama, persetujuan perubahan susunan direksi dan dewan komisaris, meski pemanggilan ini belum merinci siapa yang akan masuk atau keluar. Kedua, persetujuan pembagian saham bonus yang berasal dari kapitalisasi tambahan modal disetor untuk tahun buku yang berakhir 31 Desember 2025, sesuai aturan OJK soal saham bonus. Ketiga, persetujuan menaikkan modal dasar perseroan dan mengubah anggaran dasar untuk menyesuaikan struktur permodalan setelah saham bonus dibagikan. Keempat, pemberian wewenang kepada direksi untuk menyiapkan penambahan modal dengan hak memesan efek terlebih dahulu alias rights issue, mencakup kajian kebutuhan modal, penentuan indikasi harga dan rasio saham baru, serta penunjukan lembaga penunjang pasar modal. Perseroan menegaskan agenda ini baru sebatas izin persiapan, bukan persetujuan pelaksanaan rights issue, yang akan dimintakan lagi lewat RUPSLB berikutnya.",
+   "Adapun RUPS Independen hanya membawa satu agenda, yaitu persetujuan penambahan modal sebanyak-banyaknya 10 persen dari jumlah saham yang telah ditempatkan dan disetor penuh, lewat mekanisme penambahan modal tanpa hak memesan efek terlebih dahulu sesuai POJK Nomor 14/2019. Perseroan menyebut dana dari skema ini akan dipakai untuk pengembangan usaha dan modal kerja. Bagi pemegang saham dalam penitipan kolektif KSEI, kuasa elektronik bisa diberikan lewat eASY KSEI, sementara kuasa manual harus sudah diterima Biro Administrasi Efek, PT Adimitra Jasa Korpora, paling lambat 21 Oktober 2026. Pertanyaan tertulis dari pemberi e-proxy diterima sampai 23 Oktober 2026 pukul 16.00 WIB, dengan jawaban perseroan disampaikan maksimal tiga hari kerja setelah rapat."
+  ],
+  "fotoAdegan": "Forklift operators moving stacked pallets inside a large logistics distribution warehouse, soft morning light through high windows",
+  "takeaway": "Laporan ini netral bagi fundamental PPGL, karena semua agenda masih berupa permintaan izin dan rencana, belum ada keputusan final soal jumlah saham atau nilai dana yang akan masuk. Yang perlu dicermati adalah jumlah saham beredar, karena baik saham bonus maupun dua skema penambahan modal yang dibahas berpotensi menambah jumlah lembar saham PPGL di pasar, dan kalau laba perusahaan tidak ikut naik sebanding, laba per saham yang diterima setiap pemegang saham bisa tergerus. Penambahan modal tanpa hak memesan efek terlebih dahulu, yaitu skema yang tidak memberi kesempatan pertama kepada pemegang saham lama untuk membeli saham baru, juga perlu diawasi karena bisa mengecilkan porsi kepemilikan pemegang saham yang tidak ikut serta. Yang menentukan arah selanjutnya adalah hasil RUPSLB dan RUPS Independen pada 23 Oktober 2026 itu sendiri, termasuk apakah rencana rights issue dan penambahan modal 10 persen disetujui, serta RUPSLB susulan yang akan membahas pelaksanaan rights issue secara konkret.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-siapkan-rights-issue-dilusi-maksimal-95-24",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Siapkan Rights Issue, Dilusi Maksimal [95,24%]",
+  "deck": "DOOH berencana menerbitkan maksimal 154,78 miliar saham baru lewat HMETD, mendilusi pemegang saham lama hingga 95,24 persen, untuk melunasi utang dan membangun infrastruktur AI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T21:08:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/77856b25cb_845d50899f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "rights issue",
+   "HMETD",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) mengajukan rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD atau rights issue) sebanyak-banyaknya 154.777.820.720 saham baru bernilai nominal Rp10 per saham. Jumlah itu setara dengan maksimal 95,24 persen dari modal ditempatkan dan disetor penuh Perseroan setelah aksi ini rampung, yang berarti pemegang saham yang tidak ikut menebus haknya berisiko kepemilikannya terkikis hingga sebesar itu. Harga pelaksanaan dan jumlah final saham baru belum ditetapkan, dan akan diumumkan dalam prospektus setelah pernyataan pendaftaran dinyatakan efektif oleh OJK. Perseroan menyebut dana hasil rights issue akan dipakai untuk melunasi utang kepada pemegang saham, belanja modal, dan modal kerja, dengan pelaksanaan paling lambat 12 bulan sejak RUPSLB menyetujuinya.",
+   "Rencana ini akan dimintakan restu pemegang saham dalam RUPSLB pada 9 November 2026 pukul 14.00 WIB, dengan sembilan mata acara. Selain persetujuan rights issue yang akan dibarengi penerbitan Waran Seri II, agenda lain mencakup perubahan nama dan alamat domisili Perseroan, perombakan susunan direksi dan komisaris, perubahan rencana penggunaan dana hasil penawaran umum perdana saham, perubahan maksud dan tujuan usaha untuk menyesuaikan klasifikasi usaha (KBLI) 2025, serta kenaikan modal dasar. Dua agenda lain yang nilainya besar juga diajukan dalam RUPSLB yang sama: persetujuan pencairan pinjaman dari pemegang saham pengendali PT Sinergi Internasional Investama (SII) sebanyak-banyaknya Rp2 triliun, dan persetujuan akuisisi 6.685.000.000 saham PT Sinergi Inti Andalan Prima Tbk dari PT Abadi Kreasi Unggul Nusantara seharga Rp300 per saham, sesuai perjanjian pengikatan jual beli saham tertanggal 1 September 2026.",
+   "Dokumen ini juga mengungkap bahwa pengendali DOOH saat ini, PT Sinergi Internasional Investama, baru menjadi pengendali pada 30 Juli 2026 setelah mengambil alih 3.946.835.000 saham atau 51 persen dari PT Prambanan Investasi Sukses. SII sendiri baru berdiri 17 Juli 2026 dan sahamnya dimiliki oleh Tinawati sebesar 99,9 persen dan Sugiyanti 0,1 persen. Direksi dan komisaris DOOH menyatakan rencana rights issue ini bukan transaksi afiliasi menurut aturan OJK, namun akan mengikuti ketentuan transaksi material bila kriteria itu terpenuhi. Jadwal menuju RUPSLB meliputi daftar pemegang saham yang berhak hadir per 15 Oktober 2026 dan iklan pemanggilan rapat pada 16 Oktober 2026."
+  ],
+  "fotoAdegan": "Technicians splicing fiber optic cables inside a data center server hall, racks of blinking equipment, cool blue lighting",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik DOOH, karena dilusi maksimal 95,24 persen tergolong sangat besar dan dana dari rights issue ini salah satunya dipakai melunasi utang ke pemegang saham, yang kemungkinan besar terkait dengan pinjaman Rp5 triliun dari pengendali SII yang baru dilaporkan negatif pekan ini. Yang tersentuh langsung adalah jumlah saham beredar dan ekuitas Perseroan: menambah saham sebanyak itu memang memperkuat modal di atas kertas, tapi juga memecah laba per saham dan hak suara pemegang saham lama menjadi porsi yang jauh lebih kecil. RUPSLB ini sekaligus menggabungkan tiga aksi besar sekaligus, yakni rights issue, pencairan pinjaman hingga Rp2 triliun dari SII, dan akuisisi saham senilai sekitar Rp2 triliun dari pihak yang terafiliasi dengan pengendali, sehingga pola transaksi berelasi dengan pengendali baru DOOH makin terlihat berulang. Yang perlu dipantau adalah hasil RUPSLB pada 9 November 2026, terutama apakah mata acara pinjaman dan akuisisi tersebut disetujui, serta harga pelaksanaan final rights issue yang baru akan terungkap dalam prospektus setelah pernyataan efektif OJK.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ikai-tanggapi-permintaan-bursa-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "IKAI Tanggapi Permintaan Bursa soal [Volatilitas] Saham",
+  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham IKAI; perseroan menyatakan tidak ada informasi material yang belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T20:58:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e4f1175c1_cce2dfc3f4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IKAI",
+  "tags": [
+   "IKAI",
+   "Volatilitas Saham",
+   "Bursa Efek Indonesia",
+   "Intikeramik Alamasri"
+  ],
+  "body": [
+   "PT Intikeramik Alamasri Industri Tbk (IKAI) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) menyusul surat permintaan penjelasan nomor S-12540/BEI.PP3/09-2026 terkait volatilitas transaksi saham perseroan. Tanggapan bernomor 001/IKAI/X/2026 dan 002/IKAI/X/2026 itu ditandatangani Direktur Utama Desra Firza Ghazfan pada 1 Oktober 2026 dan disampaikan ke bursa melalui Corporate Secretary Winda Yohana.",
+   "Dalam suratnya, manajemen IKAI menegaskan tidak mengetahui adanya informasi atau fakta material apa pun yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun Peraturan I-E BEI. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024, serta tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang bisa berdampak pada status pencatatan sahamnya di bursa.",
+   "Soal rencana pemegang saham utama, Corporate Secretary IKAI mengonfirmasi bahwa PT Finix Bangun Indonesia, selaku pemegang saham utama perseroan, tidak memiliki rencana khusus terkait kepemilikan sahamnya di IKAI. Tidak ada informasi atau peristiwa penting lain yang menurut perseroan belum diungkapkan kepada publik terkait kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Workers inspecting stacked ceramic floor tiles on a factory production line, muted industrial lighting, Indonesia.",
+  "takeaway": "Laporan ini netral bagi IKAI, karena isinya murni bantahan rutin bahwa tidak ada informasi material di balik pergerakan harga sahamnya, bukan pengumuman perubahan kinerja atau rencana bisnis baru. Permintaan penjelasan seperti ini lazim dikirim bursa ketika harga atau volume transaksi saham bergerak tidak wajar dibanding kondisi bisnis emiten, dan jawabannya di sini tidak menyentuh pos-pos yang biasa dipantau investor seperti modal sendiri atau ekuitas, arus kas, beban bunga utang, jumlah saham beredar, maupun laba per saham, karena perseroan menyatakan memang tidak ada perubahan di area itu. Yang perlu dicermati selanjutnya adalah apakah bursa akan kembali meminta penjelasan serupa jika volatilitas transaksi IKAI berlanjut, serta apakah pemegang saham utama PT Finix Bangun Indonesia tetap konsisten dengan pernyataan tidak ada rencana khusus ini dalam beberapa bulan mendatang.",
+  "sentimen": "netral"
  },
  {
   "slug": "dooh-alihkan-rp120-miliar-dana-ipo-ke-akuisisi-saham-inet",

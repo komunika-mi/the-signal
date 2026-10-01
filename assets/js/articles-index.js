@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "aali-siapkan-buyback-rp400-miliar-di-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "AALI Siapkan Buyback [Rp400 Miliar] di Pasar Bergejolak",
+  "deck": "AALI berencana membeli kembali saham senilai maksimal Rp400 miliar hingga 28 Desember 2026, memakai dana internal di bawah payung aturan OJK untuk pasar bergejolak.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AALI",
+   "buyback saham",
+   "Astra Agro Lestari",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4625450f9b_add7b60429.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-komisaris-utama-dan-direktur-mundur-rupslb-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIFI: Komisaris Utama dan Direktur [Mundur], RUPSLB 21 Oktober",
+  "deck": "Hashim S. Djojohadikusumo mundur dari Komisaris Utama dan Henny Santoso dari Direktur WIFI, keputusan menunggu RUPSLB 21 Oktober 2026.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "pengunduran diri",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae9147b0f1_27a0474b22.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-acuan-cpo-dan-kakao-naik-oktober-getah-pinus-turun",
   "category": "Bisnis",
   "title": "Harga Acuan CPO dan Kakao [Naik] Oktober, Getah Pinus Turun",
@@ -70,6 +102,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470696-lima-tahun-berinovasi-livin-by-mandiri-hadirkan-solusi-investasi-dan-pembiayaan-fleksibel-untuk-tujuan-finansial-nasabah"
+ },
+ {
+  "slug": "ppgl-panggil-rupslb-23-oktober-bahas-saham-bonus-dan-modal",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Panggil RUPSLB 23 Oktober, Bahas [Saham Bonus] dan Modal",
+  "deck": "PPGL mengundang RUPSLB dan RUPS Independen pada 23 Oktober 2026 untuk membahas saham bonus, penambahan modal dasar, dan rencana modal baru hingga 10% tanpa hak memesan efek terlebih dahulu.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "RUPSLB",
+   "saham bonus",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c0c59961ae_e7ae1edefa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-siapkan-rights-issue-dilusi-maksimal-95-24",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Siapkan Rights Issue, Dilusi Maksimal [95,24%]",
+  "deck": "DOOH berencana menerbitkan maksimal 154,78 miliar saham baru lewat HMETD, mendilusi pemegang saham lama hingga 95,24 persen, untuk melunasi utang dan membangun infrastruktur AI.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "rights issue",
+   "HMETD",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/77856b25cb_845d50899f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ikai-tanggapi-permintaan-bursa-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "IKAI Tanggapi Permintaan Bursa soal [Volatilitas] Saham",
+  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham IKAI; perseroan menyatakan tidak ada informasi material yang belum diungkap.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IKAI",
+   "Volatilitas Saham",
+   "Bursa Efek Indonesia",
+   "Intikeramik Alamasri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e4f1175c1_cce2dfc3f4.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dooh-alihkan-rp120-miliar-dana-ipo-ke-akuisisi-saham-inet",
@@ -6403,88 +6483,6 @@ var ARTICLES = [
    "PLTMH"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a924068cac_1c6f6c61e7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asii-direksi-thomas-alim-beli-250-000-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "ASII: Direksi Thomas Alim [beli] 250.000 saham baru",
-  "deck": "Direksi ASII Thomas Junaidi Alim W membeli 250.000 saham pada 23 September 2026, menambah kepemilikannya menjadi 1.657.800 lembar dan hak suara menjadi 0,0041 persen.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASII",
-   "kepemilikan saham",
-   "direksi",
-   "insider trading"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-1259-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bi-94-9-persen-pemda-sudah-digital-transaksi-keuangan",
-  "category": "Perbankan",
-  "title": "BI: 94,9 Persen Pemda Sudah [Digital] Transaksi Keuangan",
-  "deck": "Bank Indonesia mencatat 518 dari 546 pemerintah daerah kini bertransaksi secara digital, dipaparkan dalam ajang FEKDI x IFSE 2026 di Jakarta.",
-  "date": "25 September 2026",
-  "image": "assets/img/bi-94-9-persen-pemda-sudah-digital-transaksi-keuangan.jpg",
-  "imageV": "mugml6r6",
-  "tags": [
-   "Bank Indonesia",
-   "digitalisasi daerah",
-   "ETPD",
-   "QRIS"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820026.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "swat-raih-opini-wdp-total-aset-susut-jadi-rp394-m",
-  "category": "Aksi Korporasi",
-  "title": "SWAT Raih Opini [WDP], Total Aset Susut jadi Rp394 M",
-  "deck": "Auditor memberi opini wajar dengan pengecualian pada laporan keuangan 2025 SWAT gara-gara selisih catatan pinjaman bank, sementara kas dan total aset perusahaan menyusut.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SWAT",
-   "opini audit",
-   "laporan keuangan",
-   "watchlist BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260925141118-64435-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trin-gandeng-artotel-kelola-hotel-di-collins-boulevard",
-  "category": "Aksi Korporasi",
-  "title": "TRIN Gandeng [Artotel] Kelola Hotel di Collins Boulevard",
-  "deck": "Perintis Triniti Properti (TRIN) resmi menggandeng Artotel Group untuk mengelola hotel di kawasan Collins Boulevard, Serpong, menindaklanjuti MoU Februari 2026.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIN",
-   "Artotel Group",
-   "Collins Boulevard",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d43c1bd44_22f535162e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-right-issue-rp4-1-triliun-bakrie-grup-perkuat-kendali-dilusi",
-  "category": "Aksi Korporasi",
-  "title": "ENRG Right Issue Rp4,1 Triliun, Bakrie Grup Perkuat Kendali [Dilusi]",
-  "deck": "OJK menyatakan efektif rights issue IV ENRG senilai Rp4,12 triliun, dengan Bakrie Kalila Investment dan Bakrie Capital Indonesia bertindak sebagai pembeli siaga dan memperbesar kepemilikan mereka.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "rights issue",
-   "Bakrie Group",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c9e2b9d487_2eb3070d25.pdf",
   "sourceLabel": "IDX"
  }
 ];

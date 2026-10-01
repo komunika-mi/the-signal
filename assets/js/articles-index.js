@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penumpang-ka-agustus-48-32-juta-turun-dari-juli",
+  "category": "Bisnis",
+  "title": "Penumpang KA Agustus 48,32 Juta, [Turun dari Juli]",
+  "deck": "Jumlah penumpang kereta api turun 7,29% dari Juli, tapi masih naik 6,01% dibanding Agustus tahun lalu",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "bps",
+   "kereta api",
+   "transportasi",
+   "penumpang"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "neraca-dagang-ri-agustus-surplus-us-3-55-m-melonjak",
+  "category": "Perdagangan",
+  "title": "Neraca Dagang RI Agustus Surplus US$3,55 M [Melonjak]",
+  "deck": "Surplus perdagangan Agustus melonjak dari bulan sebelumnya, tapi masih lebih rendah dibanding capaian Agustus tahun lalu.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/pasar-modal.jpg",
+  "tags": [
+   "neraca dagang",
+   "bps",
+   "ekspor impor",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "impor-ri-agustus-2026-turun-ke-us-23-1-m",
+  "category": "Perdagangan",
+  "title": "Impor RI Agustus 2026 [Turun ke US$23,1 M]",
+  "deck": "Nilai impor Indonesia Agustus 2026 tercatat 23,1 miliar dolar AS, turun dari rekor Juli tapi masih lebih tinggi dibanding Agustus tahun lalu.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/moneter-bi.jpg",
+  "tags": [
+   "impor",
+   "bps",
+   "perdagangan",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "ekspor-agustus-tembus-us-26-6-miliar",
+  "category": "Perdagangan",
+  "title": "Ekspor Agustus Tembus [US$26,6 Miliar]",
+  "deck": "Nilai ekspor Indonesia naik 1,51% dari Juli dan naik 6,72% dibanding Agustus tahun lalu.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "ekspor",
+   "bps",
+   "perdagangan",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "inflasi-september-2026-jadi-0-30",
+  "category": "Makroekonomi",
+  "title": "Inflasi September 2026 Jadi [0,30%]",
+  "deck": "Harga barang dan jasa pada September 2026 naik 0,30% dibanding bulan sebelumnya, tertinggi sejak Juni yang mencatat 0,44%.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "inflasi",
+   "bps",
+   "ekonomi",
+   "harga"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
   "slug": "zp-sesuaikan-syarat-waran-enrg-jelang-rights-issue",
   "category": "Aksi Korporasi",
   "title": "ZP Sesuaikan Syarat Waran ENRG Jelang [Rights Issue]",
@@ -248,6 +328,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "inflasi-september-2026-capai-3-28-persen-inti-lebih-rendah",
+  "category": "Makroekonomi",
+  "title": "Inflasi September 2026 Capai [3,28] Persen, Inti Lebih Rendah",
+  "deck": "BPS mencatat inflasi tahunan 3,28 persen pada September 2026, dengan inflasi bulanan 0,30 persen dan inflasi inti 2,84 persen.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "tags": [
+   "Inflasi",
+   "BPS",
+   "Harga Konsumen",
+   "Ekonomi Makro"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2623",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "harga-perdagangan-besar-naik-6-76-persen-di-september",
+  "category": "Makroekonomi",
+  "title": "Harga Perdagangan Besar [Naik] 6,76 Persen di September",
+  "deck": "BPS mencatat Indeks Harga Perdagangan Besar nasional naik 6,76 persen secara tahunan pada September 2026, dengan bahan bangunan jadi kelompok paling tertekan.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/pasar-beras.jpg",
+  "tags": [
+   "IHPB",
+   "harga grosir",
+   "bahan bangunan",
+   "BPS"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2622",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
   "slug": "untr-undur-jadwal-dividen-interim-ke-november-nilai-tetap-rp430",
   "category": "Aksi Korporasi",
   "title": "UNTR Undur Jadwal [Dividen] Interim ke November, Nilai Tetap Rp430",
@@ -333,7 +445,7 @@ var ARTICLES = [
   "title": "Bansos Beras dan BSU Cair Kuartal IV, PPh Pekerja [Diperluas]",
   "deck": "Pemerintah menyiapkan bantuan beras, subsidi upah, dan keringanan pajak untuk kuartal IV 2026, dengan sejumlah program diperluas mulai 2027.",
   "date": "30 September 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/gudang-beras.jpg",
   "tags": [
    "Bantuan Sosial",
    "Subsidi Upah",
@@ -1585,7 +1697,7 @@ var ARTICLES = [
   "title": "RI-Korea Resmikan Pusat Pelatihan [SDM] Industri Lepas Pantai",
   "deck": "Indonesia dan Korea Selatan membuka pusat pelatihan simulator untuk industri offshore plant service di Jakarta, menargetkan 240 tenaga terlatih hingga 2029.",
   "date": "29 September 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "Kerja Sama Indonesia-Korea",
    "Industri Lepas Pantai",
@@ -1863,7 +1975,7 @@ var ARTICLES = [
   "title": "Proyek JICA di Kawasan Rebana [Rampung], Investasi Tembus Rp131,6 T",
   "deck": "Kerja sama teknis dua tahun Indonesia-Jepang untuk Kawasan Rebana tuntas, menghasilkan rencana induk kawasan dan pedoman industri hijau di sekitar Pelabuhan Patimban.",
   "date": "29 September 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "Kawasan Rebana",
    "JICA",
@@ -5884,7 +5996,7 @@ var ARTICLES = [
   "title": "RI Genjot Ekspor Furnitur, Kurangi [Ketergantungan] ke AS",
   "deck": "Pemerintah mendorong industri furnitur nasional memperluas pasar ekspor di IFFINA+ 2026, karena 60 persen ekspor masih bertumpu ke Amerika Serikat meski sektor ini surplus sejak 2021.",
   "date": "24 September 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "tags": [
    "furnitur",
    "ekspor",
@@ -6383,119 +6495,5 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2819426.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "dpns-kena-sanksi-rp150-juta-telat-sampaikan-laporan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "DPNS Kena [Sanksi] Rp150 Juta Telat Sampaikan Laporan Keuangan",
-  "deck": "BEI menjatuhkan Peringatan Tertulis III dan denda Rp150 juta ke DPNS karena belum menyampaikan laporan keuangan interim audited Triwulan I 2026 hingga 29 Agustus 2026.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DPNS",
-   "sanksi BEI",
-   "laporan keuangan",
-   "Duta Pertiwi Nusantara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac8c0c6221_66eda0f66f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-dan-kementerian-umkm-luncurkan-program-laksmi-2026",
-  "category": "UMKM",
-  "title": "PNM dan Kementerian UMKM [Luncurkan] Program Laksmi 2026",
-  "deck": "Kementerian UMKM dan PNM luncurkan Program Laksmi 2026 di Surabaya, program pendampingan usaha mikro perempuan penerima PKH menuju kemandirian ekonomi.",
-  "date": "24 September 2026",
-  "image": "assets/img/pnm-dan-kementerian-umkm-luncurkan-program-laksmi-2026.jpg",
-  "imageV": "muf2vu4r",
-  "tags": [
-   "PNM",
-   "Program Laksmi 2026",
-   "Kementerian UMKM",
-   "PKH"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469046-pnm-bersama-kementerian-umkm-luncurkan-program-laksmi-perkuat-sinergi-pemberdayaan-usaha-mikro-perempuan"
- },
- {
-  "slug": "hsb-investasi-klaim-17-juta-unduhan-aplikasi-trading",
-  "category": "Bisnis",
-  "title": "HSB Investasi Klaim [17 Juta] Unduhan Aplikasi Trading",
-  "deck": "HSB Investasi melaporkan lebih dari 17 juta unduhan aplikasi trading forex dan komoditasnya sejak 2018, didukung izin BAPPEBTI, OJK, dan BI.",
-  "date": "24 September 2026",
-  "image": "assets/img/hsb-investasi-klaim-17-juta-unduhan-aplikasi-trading.jpg",
-  "imageV": "muf2vukc",
-  "tags": [
-   "HSB Investasi",
-   "aplikasi trading",
-   "BAPPEBTI",
-   "forex"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469044-aplikasi-trading-terbaik-di-indonesia-mengapa-hsb-investasi-layak-jadipilihan"
- },
- {
-  "slug": "bike-tunda-rupslb-ojk-minta-penjelasan-agenda-rapat",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Tunda RUPSLB, [OJK] Minta Penjelasan Agenda Rapat",
-  "deck": "RUPSLB BIKE yang sedianya digelar 15 Oktober 2026 ditunda tanpa jadwal pengganti, menyusul surat OJK yang mempersoalkan mata acara rapat.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "RUPSLB",
-   "OJK",
-   "Bhineka Inovasi Ketahanan Energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93f5c549f5_83aaaf32a9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-rinci-jaminan-utang-rp10-75-t-ke-bni-untuk-nac-ngc",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Rinci [Jaminan] Utang Rp10,75 T ke BNI untuk NAC-NGC",
-  "deck": "Perseroan membuka rincian fasilitas pinjaman Rp10,75 triliun dari BNI ke anak usaha NAC dan NGC, lengkap dengan jaminan perusahaan dan jaminan aset, tanpa memerlukan persetujuan RUPS.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "transaksi material",
-   "utang",
-   "BNI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23e766b1a0_bc0a6dc4b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-350-000-saham-tiga-hari-beruntun",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] 350.000 Saham, Tiga Hari Beruntun",
-  "deck": "Komisaris AKPI Henry Liem kembali menjual 350.000 saham pada 23 September 2026, hari ketiga beruntun ia melepas saham perseroan.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Argha Karya Prima",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-2165-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-tunda-rupslb-lagi-mundur-ke-2-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "WIFI [Tunda] RUPSLB Lagi, Mundur ke 2 November 2026",
-  "deck": "Solusi Sinergi Digital menunda jadwal RUPSLB untuk ketiga kalinya, dari rencana semula 11 September menjadi 2 November 2026.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "RUPSLB",
-   "Solusi Sinergi Digital",
-   "jadwal rapat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/95a4b25ca4_6497e200eb.pdf",
-  "sourceLabel": "IDX"
  }
 ];

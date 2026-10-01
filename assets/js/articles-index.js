@@ -5,6 +5,71 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "okupansi-hotel-bintang-agustus-turun-ke-52-52",
+  "category": "Bisnis",
+  "title": "Okupansi Hotel Bintang Agustus Turun ke [52,52%]",
+  "deck": "TPK hotel bintang nasional turun dari 54,54% pada Juli 2026 menjadi 52,52% pada Agustus 2026, mengakhiri kenaikan lima bulan beruntun.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "bps",
+   "hotel",
+   "pariwisata",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "wisman-agustus-tembus-1-60-juta-naik-6-bulan-beruntun",
+  "category": "Bisnis",
+  "title": "Wisman Agustus Tembus 1,60 Juta, [Naik 6 Bulan Beruntun]",
+  "deck": "BPS mencatat kunjungan wisatawan mancanegara naik dibanding bulan sebelumnya maupun periode sama tahun lalu.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/warung-makan.jpg",
+  "tags": [
+   "bps",
+   "wisatawan asing",
+   "pariwisata",
+   "statistik"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "kkp-luncurkan-simulator-untuk-percepat-sertifikasi-awak-kapal",
+  "category": "Ketenagakerjaan",
+  "title": "KKP Luncurkan [Simulator] untuk Percepat Sertifikasi Awak Kapal",
+  "deck": "KKP mempercepat sertifikasi awak kapal perikanan di atas 300 GT lewat simulator pelatihan baru dan aturan pengawakan kapal yang baru terbit.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/kkp-luncurkan-simulator-untuk-percepat-sertifikasi-awak-kapal.jpg",
+  "imageV": "mupj0ch2",
+  "tags": [
+   "KKP",
+   "sertifikasi kapal",
+   "perikanan tangkap",
+   "simulator pelatihan"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-percepat-sertifikasi-awak-kapal-perikanan-melalui-modernisasi-pelatihan-Pz4W.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "manufaktur-ri-kembali-ekspansi-surplus-dagang-melonjak",
+  "category": "Makroekonomi",
+  "title": "Manufaktur RI Kembali [Ekspansi], Surplus Dagang Melonjak",
+  "deck": "Inflasi September terkendali di 3,28 persen, neraca dagang Agustus surplus US$3,55 miliar, dan PMI manufaktur kembali ke zona ekspansi di 52,4, naik dari 49,8 bulan sebelumnya.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "Inflasi",
+   "PMI Manufaktur",
+   "Neraca Dagang"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7121/ekonomi-indonesia-tetap-tangguh-inflasi-terjaga-manufaktur-kembali-ekspansi-surplus-neraca-dagang-berlanjut",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "prda-ungkap-ke-bursa-penyebab-penurunan-kas-rp46-34-miliar",
   "category": "Aksi Korporasi",
   "title": "PRDA Ungkap ke Bursa Penyebab [Penurunan] Kas Rp46,34 Miliar",
@@ -490,7 +555,7 @@ var ARTICLES = [
   "title": "Penumpang KA Agustus 48,32 Juta, [Turun dari Juli]",
   "deck": "Jumlah penumpang kereta api turun 7,29% dari Juli, tapi masih naik 6,01% dibanding Agustus tahun lalu",
   "date": "1 Oktober 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "bps",
    "kereta api",
@@ -554,7 +619,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Jadi [0,30%]",
   "deck": "Harga barang dan jasa pada September 2026 naik 0,30% dibanding bulan sebelumnya, tertinggi sejak Juni yang mencatat 0,44%.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -813,7 +878,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Capai [3,28] Persen, Inti Lebih Rendah",
   "deck": "BPS mencatat inflasi tahunan 3,28 persen pada September 2026, dengan inflasi bulanan 0,30 persen dan inflasi inti 2,84 persen.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "Inflasi",
    "BPS",
@@ -829,7 +894,7 @@ var ARTICLES = [
   "title": "Harga Perdagangan Besar [Naik] 6,76 Persen di September",
   "deck": "BPS mencatat Indeks Harga Perdagangan Besar nasional naik 6,76 persen secara tahunan pada September 2026, dengan bahan bangunan jadi kelompok paling tertekan.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "IHPB",
    "harga grosir",
@@ -6421,69 +6486,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/28a21d7744_e3115dca6b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "epac-ajukan-buyback-rp20-m-dan-rights-issue-2-miliar-saham-ke-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "EPAC Ajukan Buyback Rp20 M dan [Rights Issue] 2 Miliar Saham ke RUPSLB",
-  "deck": "RUPSLB EPAC pada 3 November 2026 akan meminta persetujuan pemegang saham untuk buyback saham hingga Rp20 miliar dan penerbitan saham baru lewat rights issue hingga 2 miliar lembar.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EPAC",
-   "rights issue",
-   "buyback saham",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c86c59ff15_2985c17172.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kecelakaan-kerja-turun-drastis-kemnaker-dorong-higiene-industri",
-  "category": "Ketenagakerjaan",
-  "title": "Kecelakaan Kerja [Turun] Drastis, Kemnaker Dorong Higiene Industri",
-  "deck": "Data BPJS Ketenagakerjaan menunjukkan kasus kecelakaan kerja turun jadi 319.224 pada 2025, Wamenaker Afriansyah Noor dorong penerapan higiene industri di tempat kerja.",
-  "date": "24 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
-  "tags": [
-   "K3",
-   "Kecelakaan Kerja",
-   "Kemnaker",
-   "Higiene Industri"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/wamenaker-higiene-industri-penting-cegah-kecelakaan-kerja",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "transaksi-nontunai-pemda-rp165-triliun-kki-meluas-ke-e-katalog",
-  "category": "Teknologi",
-  "title": "Transaksi Nontunai Pemda Rp165 Triliun, KKI Meluas ke [E-Katalog]",
-  "deck": "Kartu Kredit Indonesia bisa dipakai di e-katalog nasional mulai Oktober 2026, seiring transaksi nontunai pemerintah daerah tembus Rp165 triliun pada semester I 2026.",
-  "date": "24 September 2026",
-  "image": "assets/img/server-data.jpg",
-  "tags": [
-   "ekonomi digital",
-   "KKI",
-   "e-katalog",
-   "QRIS"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7113/perkuat-sinergi-dan-inovasi-pemerintah-dorong-akselerasi-ekonomi-keuangan-digital-untuk-dukung-pertumbuhan-ekonomi-nasional",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ri-genjot-ekspor-furnitur-kurangi-ketergantungan-ke-as",
-  "category": "Industri",
-  "title": "RI Genjot Ekspor Furnitur, Kurangi [Ketergantungan] ke AS",
-  "deck": "Pemerintah mendorong industri furnitur nasional memperluas pasar ekspor di IFFINA+ 2026, karena 60 persen ekspor masih bertumpu ke Amerika Serikat meski sektor ini surplus sejak 2021.",
-  "date": "24 September 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
-  "tags": [
-   "furnitur",
-   "ekspor",
-   "industri manufaktur",
-   "IKM"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7112/menko-airlangga-dorong-industri-furnitur-perluas-pasar-dan-perkuat-daya-saing-global",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

@@ -238,7 +238,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan paling konkret ada di dua kebijakan yang bergeser sasarannya. Pengurangan pajak penghasilan bagi pekerja bergaji di bawah Rp10 juta, yang tahun ini hanya berlaku untuk pekerja sektor padat karya dan pariwisata, mulai 2027 akan berlaku untuk pekerja di semua sektor dengan sasaran 7,5 juta orang, jadi insentif ini melebar ke lebih banyak pekerja formal. Sebaliknya, kredit rumah bersubsidi bunga 6 persen yang sebelumnya diarahkan untuk pelaku UMKM berpenghasilan tidak tetap, ke depan justru menyasar pekerja berpenghasilan tetap sekitar Rp17 juta per bulan, artinya kelompok informal yang selama ini jadi prioritas program itu bergeser keluar. Arah besarnya adalah pelebaran cakupan bantuan ke lebih banyak kelompok pekerja formal, tapi ini baru gambaran awal karena kebutuhan anggaran total Rp31 triliun untuk seluruh program 2027 masih disisir Menteri Keuangan. Yang akan memastikan jadi tidaknya rencana ini adalah hasil finalisasi anggaran tersebut dan besaran baru batas penghasilan tidak kena pajak yang masih dibahas.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "bmri-lunasi-obligasi-rp2-4-triliun-tepat-jatuh-tempo",

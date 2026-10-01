@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dooh-alihkan-rp120-miliar-dana-ipo-ke-akuisisi-saham-inet",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Alihkan [Rp120 Miliar] Dana IPO ke Akuisisi Saham INET",
+  "deck": "DOOH mengajukan perubahan seluruh penggunaan dana IPO 2023, mengalihkan Rp120 miliar untuk membeli 6,685 miliar saham INET lewat anak usaha CNI, menyusul masuknya pengendali baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T20:53:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/880d062e92_f7de77f097.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "INET",
+   "penggunaan dana IPO",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) mengajukan permintaan persetujuan pemegang saham untuk mengubah seluruh rencana penggunaan dana hasil penawaran umum perdana saham (PUPS) yang dilakukan Mei 2023. Dari sisa dana bersih Rp152,6 miliar, Perseroan mengusulkan Rp12.992.000.000 tetap untuk belanja modal pengadaan media iklan (sudah dilaksanakan) dan Rp19.625.300.000 untuk modal kerja operasional periklanan, yang baru terlaksana sebagian dan akan dituntaskan hingga kuartal pertama 2027. Sisanya, Rp120.000.000.000, akan disetorkan sebagai modal kepada anak usaha PT Cakrawala Nexus Investama (CNI), yang akan memakainya untuk membeli 6.685.000.000 saham PT Sinergi Inti Andalan Prima Tbk (INET) dari PT Abadi Kreasi Unggul Nusantara (AKUN) seharga Rp300 per saham, berdasarkan perjanjian pengikatan jual beli saham tertanggal 1 September 2026.",
+   "IPO Mei 2023 menghimpun dana Rp154.750.000.000 dari penjualan 1.547.500.000 saham seharga Rp100 per saham, yang semula dijanjikan untuk 7,07 persen belanja modal media iklan dan 92,93 persen modal kerja. Pada 17 Maret 2026 Perseroan melaporkan ada pengembalian dana dari sejumlah vendor karena ketidaksesuaian pelayanan atas pemesanan iklan, sehingga per 31 Desember 2025 sisa dana Rp130.504.805.000 mengendap di rekening penampungan Bank DKI. Perubahan arah ini muncul setelah PT Sinergi Internasional Investama mengambil alih pengendalian Perseroan dengan 51 persen saham pada 30 Juli 2026, membawa visi baru membangun ekosistem AI mencakup Data Centre AI, Internet Berkecepatan Tinggi, Fiber Optic, Kabel Bawah Laut, dan energi surya (PLTS). Susunan pemegang saham saat ini adalah PT Sinergi Internasional Investama 51,00 persen, PT Prambanan Investasi Sukses 15,09 persen, dan masyarakat 33,91 persen dari total 7.738.891.036 saham beredar.",
+   "Transaksi akuisisi saham INET oleh CNI dikategorikan sebagai Transaksi Material yang wajib mendapat persetujuan pemegang saham sesuai Pasal 6 POJK 17/2020, dan telah memperoleh Laporan Pendapat Kewajaran dari KJPP Toha, Okky, Heru & Rekan tertanggal 29 September 2026 yang menyatakan transaksi wajar. Perseroan menegaskan AKUN dan INET merupakan pihak ketiga yang tidak berafiliasi dengan Perseroan sebelum transaksi ini, dan tidak ada transaksi afiliasi dalam seluruh rencana perubahan penggunaan dana. Pengumuman Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) untuk meminta persetujuan rencana ini mulai disampaikan Perseroan pada 1 Oktober 2026 melalui situs web BEI, eASY.KSEI, dan situs Perseroan."
+  ],
+  "fotoAdegan": "Technicians installing fiber optic cable along an urban street at dusk, utility truck parked nearby",
+  "takeaway": "Laporan ini netral bagi DOOH: perubahan ini tidak mengubah laba rugi maupun total aset Perseroan saat ini, tetapi memindahkan sekitar 79 persen dari sisa dana IPO, dari rencana belanja modal dan modal kerja bisnis iklan luar ruang ke penyertaan modal di sektor yang sama sekali baru bagi Perseroan. Pos yang tersentuh adalah arus kas investasi dan struktur permodalan anak usaha CNI, karena Rp120 miliar dipakai membeli 6,685 miliar saham INET alih-alih dibelanjakan untuk aset media iklan seperti dijanjikan ke investor saat IPO 2023. Perubahan haluan ini terjadi tak lama setelah pengendali baru, PT Sinergi Internasional Investama, menguasai 51 persen saham pada 30 Juli 2026 dan membawa visi ekosistem AI, sehingga pemegang saham minoritas perlu menimbang apakah arah bisnis baru ini sejalan dengan kepentingan mereka. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPSLB yang menentukan jadi tidaknya rencana ini, serta penyelesaian sisa modal kerja periklanan yang ditargetkan rampung kuartal pertama 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-terima-pinjaman-rp5-triliun-dari-sii-untuk-akuisisi-inet",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Terima Pinjaman [Rp5 Triliun] dari SII untuk Akuisisi INET",
+  "deck": "DOOH menandatangani pinjaman pemegang saham hingga Rp5 triliun dari pengendali SII untuk mendanai akuisisi 29,88 persen saham INET senilai sekitar Rp2 triliun, menunggu persetujuan RUPSLB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T20:22:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/863bd8cb2e_b8c68400bb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "INET",
+   "transaksi afiliasi",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) mengumumkan transaksi afiliasi berupa Perjanjian Pinjaman Pemegang Saham dengan PT Sinergi Internasional Investama (SII) yang diteken pada 1 September 2026. Fasilitas pinjaman ini bersifat non-revolving dengan plafon hingga Rp5 triliun, dapat ditarik secara bertahap, berbunga 7,5 persen per tahun dihitung harian, dan berjangka waktu 10 tahun sejak tanggal efektif. Pinjaman ini tidak memerlukan jaminan aset, bisa dilunasi lebih awal tanpa penalti dengan pemberitahuan tertulis 30 hari kalender sebelumnya, dan sebagian atau seluruh pokoknya dapat dikonversi menjadi saham DOOH lewat rights issue dengan harga pelaksanaan yang akan ditentukan kemudian oleh SII dan DOOH.",
+   "Dana pinjaman ini akan digunakan untuk mendukung investasi anak usaha DOOH, PT Cakrawala Nexus Investama (CNI), yang berencana mengambil alih 29,88 persen saham PT Sinergi Inti Andalan Prima Tbk (INET) dari PT Abadi Kreasi Unggul Nusantara (AKUN) seharga Rp300 per saham, atau senilai sekitar Rp2 triliun. Setelah transaksi ini, kepemilikan AKUN di INET turun dari 59,77 persen menjadi 29,89 persen, sementara CNI masuk sebagai pemegang saham baru INET dengan porsi 29,88 persen. SII sendiri adalah pemegang saham pengendali DOOH sejak 30 Juli 2026 dengan kepemilikan 51 persen, setelah mengambil alih saham itu dari PT Prambanan Investasi Sukses, sehingga pinjaman ini tergolong transaksi afiliasi.",
+   "Nilai plafon pinjaman setara 1.615,30 persen dari ekuitas konsolidasian DOOH per 30 Juni 2026 yang tercatat Rp309,54 miliar, sehingga melampaui ambang batas 20 persen dan 50 persen yang diatur POJK Nomor 17/2020 tentang Transaksi Material. Transaksi ini karenanya wajib mendapat persetujuan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sebelum pinjaman pertama kali dicairkan. Penilai independen, Kantor Jasa Penilai Publik Toha, Okky, Heru dan Rekan, menyatakan rencana pinjaman ini wajar berdasarkan laporan pendapat kewajaran tertanggal 29 September 2026, dengan bunga 7,5 persen per tahun yang dinilai lebih rendah 0,58 persen dibanding rata-rata bunga kredit investasi bank pemerintah sebesar 8,08 persen. Manajemen DOOH menyatakan tujuan transaksi ini adalah mendanai ekspansi ke ekosistem kecerdasan buatan lewat lima pilar bisnis: pusat data AI, internet berkecepatan tinggi, jaringan serat optik, kabel bawah laut, dan energi hijau berbasis panel surya."
+  ],
+  "fotoAdegan": "Technicians inspecting server racks and fiber optic cables inside a dimly lit data center, blue indicator lights glowing",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik DOOH: nilai plafon pinjaman mencapai 1.615 persen dari ekuitas Perseroan, jauh melampaui ambang 50 persen yang diatur OJK untuk transaksi material, dan sebagian pokoknya berpotensi dikonversi menjadi saham baru dengan harga pelaksanaan yang baru ditentukan belakangan, sehingga membuka risiko pengenceran kepemilikan yang cukup besar bagi pemegang saham lama. Yang tersentuh adalah ekuitas Perseroan, yaitu modal bersih milik pemegang saham, dan beban bunga, yaitu biaya tahunan sebesar 7,5 persen yang harus dibayar DOOH atas saldo pinjaman yang sudah dicairkan. Kalau pinjaman ini nantinya benar dikonversi menjadi saham lewat rights issue, jumlah saham beredar DOOH akan bertambah dan laba per saham bisa terdilusi. Di sisi lain, bunga pinjaman ini tergolong kompetitif karena di bawah rata-rata bunga kredit investasi bank pemerintah dan tidak memerlukan jaminan aset, menunjukkan dukungan pemegang saham pengendali SII terhadap rencana ekspansi Perseroan ke bisnis infrastruktur AI. Yang perlu dipantau berikutnya adalah persetujuan RUPSLB atas transaksi ini, karena pencairan pertama pinjaman baru bisa dilakukan setelah RUPSLB menyetujui dan syarat penilai independen serta keterbukaan informasi terpenuhi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dooh-ajukan-akuisisi-rp2-triliun-saham-inet-ke-rups-9-november",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Ajukan [Akuisisi] Rp2 Triliun Saham INET ke RUPS 9 November",
+  "deck": "Anak usaha DOOH, PT Cakrawala Nexus Investama, membeli 29,88% saham PT Sinergi Inti Andalan Prima (INET) senilai Rp2,0055 triliun dari AKUN, menunggu persetujuan RUPSLB 9 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T19:50:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/928dd3c31b_71dc76f4df.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "INET",
+   "akuisisi",
+   "RUPS"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) mengumumkan rencana transaksi material berupa pembelian 6.685.000.000 lembar saham PT Sinergi Inti Andalan Prima Tbk (INET), setara 29,88% dari modal ditempatkan dan disetor INET, oleh anak usahanya PT Cakrawala Nexus Investama (CNI). Harga pembelian Rp300 per lembar saham sehingga total nilai transaksi mencapai Rp2.005.500.000.000. Penjualnya adalah PT Abadi Kreasi Unggul Nusantara (AKUN), pemegang saham utama INET, berdasarkan Perjanjian Pengikatan Jual Beli Saham tertanggal 1 September 2026. Transaksi akan dilaksanakan lewat pasar negosiasi Bursa Efek Indonesia dan diselesaikan lewat sistem C-BEST milik PT Kustodian Sentral Efek Indonesia. Perseroan menyatakan tidak ada hubungan afiliasi antara CNI maupun DOOH dengan AKUN selaku penjual.",
+   "Nilai transaksi ini setara 647,90% dari ekuitas DOOH berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, jauh di atas ambang 50% yang menurut aturan OJK soal transaksi material (POJK 17/2020) mewajibkan persetujuan RUPS. Tiga kriteria lain juga terlampaui: total aset INET setara 1.503,29% dari total aset DOOH, laba bersih INET setara 54,06% dari laba bersih DOOH, dan pendapatan usaha INET setara 1.099,40% dari pendapatan usaha DOOH. Karena itu, Perseroan menunjuk KJPP Toha Okky Heru & Rekan, dengan penilai Ir Okky Danuza, untuk menyusun pendapat kewajaran atas transaksi per tanggal penilaian 30 Juni 2026, yang diterbitkan 29 September 2026. RUPS Luar Biasa untuk meminta persetujuan pemegang saham dijadwalkan 9 November 2026, setelah pengumuman RUPS pada 1 Oktober 2026.",
+   "Setelah transaksi, AKUN tetap menjadi pemegang saham pengendali INET dengan 29,89% (6.688.689.331 saham), sementara CNI masuk sebagai pemegang saham baru dengan 29,88% (6.685.000.000 saham) tanpa menjadi pengendali. Kepemilikan publik di INET sebesar 40,23% dan susunan direksi serta komisaris INET, termasuk Direktur Utama Muhammad Arif, tidak berubah. INET bergerak sebagai penyedia jasa internet dan penyewaan jaringan serat optik, dengan total aset Rp6,11 triliun dan ekuitas Rp3,81 triliun per 30 Juni 2026, serta mencatat laba bersih Rp34,21 miliar untuk semester pertama 2026 dari pendapatan usaha Rp926,45 miliar."
+  ],
+  "fotoAdegan": "Technicians checking fiber optic cable trays and server racks inside a telecom data center aisle, blue indicator lights glowing",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik DOOH, karena nilai transaksinya mencapai 647,9 persen dari ekuitas Perseroan sendiri, jauh melampaui ukuran modal DOOH saat ini dan sepenuhnya dibiayai dari utang ke pemegang saham pengendali SII, bukan dari kas internal Perseroan. Yang tersentuh adalah pos ekuitas dan beban bunga: ekuitas jadi tolok ukur seberapa besar taruhan ini dibanding modal sendiri Perseroan, sementara bunga dari pinjaman SII akan membebani laba bersih DOOH ke depan, meski CNI kemungkinan tidak mengonsolidasi penuh keuangan INET karena hanya memegang 29,88 persen saham tanpa kendali. Arus kas pendanaan DOOH juga akan melonjak tajam begitu pencairan pinjaman dan pembayaran ke AKUN terjadi, mengubah signifikan rasio utang Perseroan terhadap modalnya sendiri. Yang perlu dipantau berikutnya adalah RUPSLB pada 9 November 2026, saat pemegang saham memutuskan menyetujui atau menolak transaksi ini, serta kesimpulan utuh pendapat kewajaran dari KJPP Toha Okky Heru yang belum sepenuhnya termuat dalam dokumen ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "okupansi-hotel-bintang-agustus-turun-ke-52-52",
   "category": "Bisnis",
   "title": "Okupansi Hotel Bintang Agustus Turun ke [52,52%]",
@@ -55,6 +133,31 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Kenaikan jumlah wisatawan asing ini biasa dipakai sebagai salah satu indikator bagaimana sektor pariwisata dan usaha yang terkait dengannya sedang bergerak.",
   "bpsIndikator": "wisman"
+ },
+ {
+  "slug": "gtbo-ganti-direktur-laporan-molor-10-bulan-dari-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Ganti Direktur, Laporan [Molor] 10 Bulan dari RUPSLB",
+  "deck": "GTBO mengangkat Yanry Musa sebagai Direktur dan Sandeep Kaur sebagai Komisaris Independen, tapi baru melapor ke OJK dan BEI hampir 10 bulan setelah RUPSLB menyetujuinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T19:39:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/66b173fa83_1a6e1ba4ed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTBO",
+  "tags": [
+   "GTBO",
+   "pergantian direksi",
+   "komisaris independen",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "Garda Tujuh Buana Tbk (GTBO) menyampaikan perubahan susunan pengurus kepada OJK dan Bursa Efek Indonesia, berdasarkan keputusan RUPSLB tanggal 18 Desember 2025 dan Akta Notaris Nomor 3 tentang Pernyataan Keputusan Rapat tertanggal 27 April 2026. Mastan Singh tetap menjabat Presiden Direktur dan Saini Sunil Kumar tetap menjabat Presiden Komisaris, tanpa perubahan. Yang berubah adalah kursi Direktur, yang kini diisi Yanry Musa menggantikan Octavianus Wenas, serta status Sandeep Kaur yang dalam surat resmi perseroan kini disebut sebagai Komisaris Independen. Seluruh perubahan ini berlaku efektif sejak 18 Desember 2025.",
+   "Yang menonjol dari laporan ini bukan isi perubahannya, melainkan jeda waktunya. Surat pemberitahuan bernomor 039/GTB-JKT/X/2026 itu baru ditandatangani dan disampaikan ke OJK serta BEI pada 1-2 Oktober 2026, oleh Direktur Yanry Musa dan Corporate Secretary Rinaldi. Artinya perubahan pengurus yang disahkan RUPSLB pada 18 Desember 2025 baru diumumkan ke publik hampir sepuluh bulan kemudian, jauh lebih lambat dari kelaziman keterbukaan informasi semacam ini."
+  ],
+  "fotoAdegan": "Rows of idle mining trucks parked at a quiet open-pit coal site in Kalimantan, overcast humid morning light",
+  "takeaway": "Laporan ini netral bagi fundamental GTBO karena pergantian direktur dan penunjukan komisaris independen tidak langsung mengubah angka keuangan perusahaan, tapi keterlambatan pelaporannya hampir sepuluh bulan patut jadi catatan soal tertib administrasi perseroan. Pos yang tersentuh di sini adalah struktur pengurus dan pengawasan, bukan ekuitas, arus kas, atau laba per saham, karena direksi dan komisaris baru menentukan arah kebijakan ke depan, bukan hasil usaha yang sudah berjalan. Yang perlu dipantau adalah apakah susunan pengurus baru ini membawa sikap berbeda terhadap dua masalah GTBO yang masih menggantung, yakni RKAB 2026 yang belum disetujui sehingga tambang belum beroperasi, dan utang pajak US$13,46 juta yang sudah membebani saldo laba perseroan.",
+  "sentimen": "netral"
  },
  {
   "slug": "kkp-luncurkan-simulator-untuk-percepat-sertifikasi-awak-kapal",
@@ -112,6 +215,84 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "sofn-ubah-susunan-direksi-dan-komisaris-pasca-merger",
+  "category": "Aksi Korporasi",
+  "title": "SOFN Ubah Susunan [Direksi] dan Komisaris Pasca Merger",
+  "deck": "SOFN mengganti dua komisaris, menambah tiga direktur baru, dan satu komisaris independen baru, efektif 1 Oktober 2026, bersamaan dengan rampungnya merger dengan Oto Multiartha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T19:03:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6c2e68811_3fb122db88.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOFN",
+  "tags": [
+   "SOFN",
+   "Summit Oto Finance",
+   "pergantian direksi",
+   "dewan komisaris"
+  ],
+  "body": [
+   "PT Summit Oto Finance (SOFN) mengumumkan perubahan susunan direksi dan dewan komisaris yang berlaku efektif 1 Oktober 2026, sesuai surat nomor 356/DIR-SOF/X/2026 yang ditandatangani Compliance Officer Delia Rahmah. Di jajaran direksi, Rusna tetap menjabat Presiden Direktur, sementara Kemaludin Fajar, Yanuar Pribadi, dan Kenji Okada tetap menjadi Direktur. Perseroan menambah tiga direktur baru, yaitu Nobuhiro Moroo, Toshiyuki Mitsui, dan Pieter Maruli Panjaitan, sehingga jajaran direksi kini berjumlah tujuh orang.",
+   "Di jajaran komisaris, posisi Presiden Komisaris berpindah dari Yosuke Unigame ke Keishi Iwamoto, dan posisi Komisaris dari Hanna Tantani ke Takanori Otsuka. Murniaty Santoso dan Doddy Susanto tetap menjabat sebagai Komisaris Independen, dan Perseroan menambah satu Komisaris Independen baru, yaitu Muliawan Gunadi Kartarahardja. Seluruh pengangkatan ini telah mengantongi surat kelulusan penilaian kemampuan dan kepatutan dari Otoritas Jasa Keuangan yang terbit antara 13 Mei hingga 3 Juni 2026, lebih dulu dari tanggal efektif pengangkatan.",
+   "Perubahan pengurus ini berlaku pada tanggal yang sama dengan rampungnya penggabungan usaha SOFN dengan Oto Multiartha, meski surat ini sendiri tidak merinci kaitan langsung antara keduanya. Dengan susunan baru ini, dewan komisaris SOFN beranggotakan lima orang dan direksi tujuh orang."
+  ],
+  "fotoAdegan": "Exterior of a glass-facade office tower in Jakarta's Sudirman business district, afternoon sunlight, street traffic below",
+  "takeaway": "Perubahan pengurus ini tergolong netral bagi fundamental SOFN, karena pergantian nama di direksi dan komisaris tidak langsung mengubah ekuitas, arus kas, atau beban bunga perusahaan pembiayaan ini. Yang perlu dicermati investor adalah soal tata kelola, sebab direksi dan komisaris adalah pihak yang menentukan arah strategi dan pengawasan risiko perusahaan, sehingga pergantian sebagian jajaran direksi dan dua dari lima kursi komisaris bisa mengubah gaya pengelolaan perusahaan ke depan meski tidak muncul di laporan keuangan. Kebetulan tanggal efektifnya bersamaan dengan rampungnya penggabungan usaha SOFN dan Oto Multiartha, sehingga susunan direksi dan komisaris yang lebih gemuk ini patut diduga sebagai bagian dari penyatuan dua manajemen, meski perseroan belum menyampaikan hal itu secara eksplisit. Yang perlu dipantau selanjutnya adalah langkah strategis pertama dari direksi baru ini, termasuk apakah perseroan akan mengumumkan rencana integrasi operasional pasca merger dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "admf-saham-pengendali-4-53-beralih-di-pasar-negosiasi",
+  "category": "Aksi Korporasi",
+  "title": "ADMF: Saham Pengendali [4,53%] Beralih di Pasar Negosiasi",
+  "deck": "Saham milik pemegang saham pengendali ADMF senilai 4,53% dari total saham beredar bertransaksi di pasar negosiasi, bersamaan dengan harga saham ADMF anjlok 4,9% pada 29 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T19:02:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e57491509_c69c116752.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADMF",
+  "tags": [
+   "ADMF",
+   "volatilitas saham",
+   "pemegang saham pengendali",
+   "pasar negosiasi"
+  ],
+  "body": [
+   "PT Adira Dinamika Multi Finance Tbk (ADMF) memberikan penjelasan kepada Bursa Efek Indonesia menyusul surat permintaan klarifikasi BEI bernomor S-12579/BEI.PP1/09-2026 tanggal 30 September 2026 terkait volatilitas transaksi sahamnya. Menurut surat BEI, pada 29 September 2026 volume transaksi saham ADMF melonjak menjadi 663.800 saham dengan 604 kali transaksi, naik tajam dari hari bursa sebelumnya yang hanya 113.300 saham dengan 91 kali transaksi. Harga saham ADMF pada hari yang sama ditutup turun Rp425 atau 4,90 persen, dari Rp8.675 menjadi Rp8.250.",
+   "Dalam tanggapannya, ADMF menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal sebagaimana diatur POJK 31/2015. Namun perseroan mengonfirmasi, berdasarkan informasi dari BEI melalui email tanggal 30 September 2026, bahwa pada 29 September 2026 terjadi transaksi saham milik salah satu pemegang saham pengendali ADMF di pasar negosiasi sebesar sekitar 4,53% dari total 1.235.803.109 saham ADMF yang tercatat di bursa, atau setara sekitar 56 juta saham. Sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, pihak yang bertransaksi wajib melaporkan perubahan kepemilikan atau hak suara tersebut ke OJK paling lambat 5 hari kerja sejak transaksi terjadi, yakni paling lambat 6 Oktober 2026.",
+   "ADMF juga menyatakan belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang akan berdampak pada pencatatan sahamnya di BEI, serta tidak ada informasi material lain yang belum diungkapkan ke publik. Soal rencana pemegang saham utama dan pengendali terkait kepemilikannya, perseroan menyampaikan bahwa setelah berkoordinasi dengan pemegang saham utama, belum ada rencana perubahan kepemilikan, namun akan mengikuti ketentuan yang berlaku jika ada perubahan di kemudian hari. Surat ini ditandatangani Corporate Secretary ADMF, Veronika Dyah Puspitaningrum, pada 1 Oktober 2026."
+  ],
+  "fotoAdegan": "Stock brokers on a dim Jakarta trading floor gesturing near distant blurred monitors, motion blur, late afternoon light",
+  "takeaway": "Laporan ini netral: ADMF tidak mengungkap informasi material baru, tapi transaksi saham pengendali senilai 4,53% dari total saham beredar, atau sekitar 56 juta saham, terlalu besar untuk diabaikan sebagai salah satu pemicu lonjakan volume dan penurunan harga 4,9% pada 29 September 2026. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham pengendali ADMF, sesuatu yang diperhatikan pasar karena bisa mengindikasikan pergeseran kendali atas arah bisnis perusahaan ke depan. Surat ADMF sendiri belum menjelaskan apakah pemegang saham pengendali itu melepas sahamnya ke pihak lain atau sahamnya berpindah ke pihak terafiliasi, sehingga arah sebenarnya dari transaksi ini masih belum terang. Yang perlu dipantau selanjutnya adalah laporan kepemilikan resmi dari pihak yang bertransaksi, yang wajib disampaikan paling lambat 6 Oktober 2026, karena baru di laporan itu akan terlihat apakah ini pengurangan porsi pemegang saham pengendali atau sekadar pergeseran antarpihak terafiliasi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ifsh-jelaskan-ke-bei-soal-lonjakan-harga-saham-25",
+  "category": "Aksi Korporasi",
+  "title": "IFSH Jelaskan ke BEI soal Lonjakan Harga Saham [25%]",
+  "deck": "Saham IFSH melonjak 25 persen pada 28 September dengan volume dan frekuensi transaksi naik tajam, saat IHSG dan sektor bahan baku melemah. Perseroan sebut tak ada informasi material baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T18:37:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7dafda7b70_b20c7d3e4e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IFSH",
+  "tags": [
+   "IFSH",
+   "Ifishdeco",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Ifishdeco Tbk (IFSH) menanggapi permintaan penjelasan dari Bursa Efek Indonesia menyusul lonjakan transaksi saham perseroan pada 28 September 2026. Dalam surat bernomor S-12541/BEI.PP3/09-2026 tertanggal 29 September 2026, BEI mencatat volume transaksi IFSH melonjak menjadi 167.900 saham dengan frekuensi 212 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 3.800 saham dengan frekuensi 16 kali. Harga saham ditutup naik Rp250 atau 25 persen, dari Rp1.000 menjadi Rp1.250 per saham. Lonjakan ini terjadi justru saat Indeks Harga Saham Gabungan turun 94,03 poin dan indeks sektor Basic Materials melemah 57,77 poin.",
+   "Dalam surat balasan bernomor 341/TBK/SKU-113/IX/2026 tertanggal 1 Oktober 2026 yang ditandatangani Corporate Secretary Rivka Rotua Natasya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material apa pun yang bisa memengaruhi nilai maupun harga efeknya, baik menurut aturan keterbukaan informasi OJK maupun peraturan Bursa. Perseroan juga menyebut tidak mengetahui aktivitas pemegang saham tertentu, belum memiliki rencana tindakan korporasi dalam tiga bulan mendatang, dan belum ada informasi material lain yang belum diungkap ke publik.",
+   "Perseroan menambahkan bahwa pemegang saham pengendali dan pemegang saham utama, setelah dikonfirmasi lewat Corporate Secretary, belum memiliki rencana apa pun terkait kepemilikan saham mereka saat ini. Perseroan berjanji akan segera menyampaikan keterbukaan informasi ke Bursa apabila di kemudian hari muncul perkembangan yang memenuhi ketentuan keterbukaan atau berpotensi memengaruhi harga efek maupun keputusan investasi pemodal."
+  ],
+  "fotoAdegan": "Excavator loading nickel ore onto a dump truck at an open-pit mine stockyard in Southeast Sulawesi, under bright midday sun",
+  "takeaway": "Laporan ini tergolong netral bagi penilaian fundamental Ifishdeco, karena isinya sekadar jawaban standar atas pertanyaan bursa dan tidak membawa informasi baru soal kondisi keuangan perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh di sini, sebab dokumen ini hanya mengonfirmasi bahwa manajemen dan pemegang saham pengendali belum punya rencana apa pun terkait kepemilikan saham atau aksi korporasi, bukan laporan transaksi keuangan. Yang justru layak dicermati adalah lonjakan harga dan volume itu sendiri, sebab kenaikan 25 persen dengan frekuensi transaksi yang melompat dari 16 menjadi 212 kali dalam semalam biasanya menandakan ada pihak yang aktif bertransaksi, meski Bursa dan perseroan sama-sama belum menemukan pemicunya. Pemegang saham perlu memantau apakah dalam tiga bulan ke depan, kira-kira sampai akhir Desember 2026, perseroan benar-benar tidak mengambil tindakan korporasi seperti dinyatakan dalam suratnya, serta apakah sikap pemegang saham pengendali dan utama atas kepemilikan mereka berubah.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "prda-ungkap-ke-bursa-penyebab-penurunan-kas-rp46-34-miliar",
   "category": "Aksi Korporasi",
   "title": "PRDA Ungkap ke Bursa Penyebab [Penurunan] Kas Rp46,34 Miliar",
@@ -135,6 +316,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Laboratory technicians in white coats processing blood sample tubes on an automated analyzer in a bright diagnostic lab",
   "takeaway": "Surat tanggapan ini condong netral bagi Prodia, karena seluruh perubahan pos keuangan yang dijelaskan, baik penurunan kas, piutang menunggak, maupun aset tetap, sudah tercermin di laporan keuangan semester I 2026 yang lebih dulu terbit, dan tidak ada transaksi atau kebijakan baru yang mengubah prospek perseroan. Yang disentuh di sini adalah arus kas dan belanja modal: kas berkurang karena belanja modal dan pembayaran operasional, sementara penambahan aset tetap yang lebih kecil dari beban penyusutannya menunjukkan perseroan sedang menahan diri dalam investasi baru, hal yang biasa diawasi investor karena memengaruhi kemampuan perusahaan tumbuh ke depan. Piutang yang menunggak lebih dari 60 hari, yakni Rp27,98 miliar dengan Rp23,19 miliar sudah tertagih, juga relevan karena ini menyangkut seberapa cepat pendapatan perseroan benar-benar berubah jadi uang tunai. Yang perlu dipantau berikutnya adalah penyelesaian proyek renovasi laboratorium dan sistem teknologi informasi yang ditargetkan rampung September 2026, karena keduanya akan menentukan apakah belanja modal yang ditahan tahun ini mulai terealisasi kembali.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wapo-jelaskan-ke-bursa-akui-kesalahan-pencatatan-piutang-berelasi",
+  "category": "Aksi Korporasi",
+  "title": "WAPO Jelaskan ke Bursa, Akui Kesalahan [Pencatatan] Piutang Berelasi",
+  "deck": "Menjawab permintaan penjelasan BEI, WAPO mengakui kesalahan pencatatan piutang sewa ke pihak berelasi PT Inasentra Unisatya dan melunasi utang Rp19,6 miliar ke PT Sumber Kurnia Alam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T18:32:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c8e75b86c_53ef4548d8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WAPO",
+  "tags": [
+   "WAPO",
+   "piutang pihak berelasi",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "body": [
+   "PT Wahana Pronatural Tbk (WAPO) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menanggapi surat permintaan penjelasan BEI tertanggal 28 September 2026. Penjelasan yang diteken Corporate Secretary Iwan Setiawan ini menjawab sejumlah pertanyaan bursa seputar piutang dan utang usaha pihak berelasi, piutang usaha pihak ketiga yang menua lebih dari 120 hari, klasifikasi properti investasi, liabilitas sewa, liabilitas imbalan kerja, penjualan bersih, pendapatan sewa, serta pendapatan keuangan perseroan.",
+   "Soal piutang pihak berelasi, WAPO menjelaskan saldo piutang kepada PT Inasentra Unisatya naik dari Rp2,32 miliar per 31 Desember 2025 menjadi Rp2,88 miliar per 30 Juni 2026. Perusahaan mengakui ada kesalahan redaksi di catatan atas laporan keuangan nomor 29, karena piutang itu sebenarnya berasal dari tagihan sewa gedung pabrik, bukan piutang usaha penjualan barang, dan berjanji memperbaikinya pada laporan periode berikutnya. Di sisi utang pihak berelasi, saldo kepada PT Sumber Kurnia Alam sudah dilunasi penuh senilai Rp19.617.297.813 pada 22 Juli 2026. Untuk piutang usaha pihak ketiga yang sudah lewat jatuh tempo 120 hari, perseroan menyatakan telah mengevaluasi riwayat pembayaran dan kemampuan pelanggan, dan menilai cadangan kerugian penurunan nilai yang sudah dibentuk masih memadai. Perseroan juga mengakui belum menghitung ulang liabilitas imbalan kerja karyawan selama semester pertama 2026, karena perhitungan baru akan dilakukan oleh konsultan aktuaria pada akhir tahun lewat jurnal penyesuaian audit.",
+   "Mengenai penjualan, WAPO merinci komposisi penjualan bersih periode berjalan yang didominasi kopi senilai Rp610,67 miliar, diikuti rumput laut Rp21,54 miliar, gula Rp5,72 miliar, permen Rp2,24 miliar, spare part permen Rp162,2 juta, dan beras Rp76,7 juta, dengan total Rp640,41 miliar. Kenaikan penjualan pihak ketiga terutama datang dari pelanggan PT Santos Jaya Abadi dan PT Fastrata Buana, namun perseroan menegaskan ini bukan karena kontrak baru melainkan kenaikan jumlah pesanan dari pelanggan lama. Pendapatan sewa properti investasi juga naik karena kenaikan tarif sewa dan penambahan jumlah penyewa, sementara pendapatan keuangan bersih tercatat hanya Rp14,37 juta setelah dikurangi beban administrasi bank dan pajak jasa giro. Perseroan memastikan belum ada rencana menerbitkan saham atau efek bersifat ekuitas baru dalam 12 bulan ke depan, serta tidak ada kejadian material lain yang berpotensi memengaruhi kelangsungan usaha atau harga sahamnya."
+  ],
+  "fotoAdegan": "Workers stacking sacks of dried seaweed and coffee beans inside a large agribusiness warehouse, forklift nearby, warm afternoon light through open doors",
+  "takeaway": "Laporan ini netral dengan sedikit catatan kewaspadaan: pelunasan utang Rp19,6 miliar ke pihak berelasi PT Sumber Kurnia Alam mengurangi risiko likuiditas, tapi pengakuan WAPO bahwa mereka salah mengklasifikasikan piutang sewa ke pihak berelasi dan belum menghitung liabilitas imbalan kerja selama semester pertama menunjukkan kelemahan kualitas pencatatan keuangan. Piutang usaha yang sudah lewat 120 hari jatuh tempo juga naik, sehingga pasar perlu memperhatikan apakah cadangan kerugian yang disiapkan perusahaan benar benar cukup menutup risiko gagal bayar pelanggan tersebut. Liabilitas imbalan kerja adalah kewajiban perusahaan membayar pesangon atau tunjangan purna kerja ke karyawan, dan karena belum dihitung ulang di semester ini, ada kemungkinan beban yang lebih besar baru muncul sekaligus saat dihitung oleh aktuaris di akhir tahun. Yang perlu dipantau adalah perbaikan catatan atas laporan keuangan terkait piutang pihak berelasi pada laporan periode berikutnya, serta hasil penghitungan aktuaria atas liabilitas imbalan kerja yang akan dibukukan lewat jurnal penyesuaian audit pada laporan tahunan.",
   "sentimen": "netral"
  },
  {

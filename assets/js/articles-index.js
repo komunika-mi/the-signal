@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dooh-alihkan-rp120-miliar-dana-ipo-ke-akuisisi-saham-inet",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Alihkan [Rp120 Miliar] Dana IPO ke Akuisisi Saham INET",
+  "deck": "DOOH mengajukan perubahan seluruh penggunaan dana IPO 2023, mengalihkan Rp120 miliar untuk membeli 6,685 miliar saham INET lewat anak usaha CNI, menyusul masuknya pengendali baru.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "INET",
+   "penggunaan dana IPO",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/880d062e92_f7de77f097.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-terima-pinjaman-rp5-triliun-dari-sii-untuk-akuisisi-inet",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Terima Pinjaman [Rp5 Triliun] dari SII untuk Akuisisi INET",
+  "deck": "DOOH menandatangani pinjaman pemegang saham hingga Rp5 triliun dari pengendali SII untuk mendanai akuisisi 29,88 persen saham INET senilai sekitar Rp2 triliun, menunggu persetujuan RUPSLB.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "INET",
+   "transaksi afiliasi",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/863bd8cb2e_b8c68400bb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-ajukan-akuisisi-rp2-triliun-saham-inet-ke-rups-9-november",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Ajukan [Akuisisi] Rp2 Triliun Saham INET ke RUPS 9 November",
+  "deck": "Anak usaha DOOH, PT Cakrawala Nexus Investama, membeli 29,88% saham PT Sinergi Inti Andalan Prima (INET) senilai Rp2,0055 triliun dari AKUN, menunggu persetujuan RUPSLB 9 November 2026.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "INET",
+   "akuisisi",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/928dd3c31b_71dc76f4df.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "okupansi-hotel-bintang-agustus-turun-ke-52-52",
   "category": "Bisnis",
   "title": "Okupansi Hotel Bintang Agustus Turun ke [52,52%]",
@@ -35,6 +83,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
   "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "gtbo-ganti-direktur-laporan-molor-10-bulan-dari-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Ganti Direktur, Laporan [Molor] 10 Bulan dari RUPSLB",
+  "deck": "GTBO mengangkat Yanry Musa sebagai Direktur dan Sandeep Kaur sebagai Komisaris Independen, tapi baru melapor ke OJK dan BEI hampir 10 bulan setelah RUPSLB menyetujuinya.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTBO",
+   "pergantian direksi",
+   "komisaris independen",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/66b173fa83_1a6e1ba4ed.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kkp-luncurkan-simulator-untuk-percepat-sertifikasi-awak-kapal",
@@ -70,6 +134,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "sofn-ubah-susunan-direksi-dan-komisaris-pasca-merger",
+  "category": "Aksi Korporasi",
+  "title": "SOFN Ubah Susunan [Direksi] dan Komisaris Pasca Merger",
+  "deck": "SOFN mengganti dua komisaris, menambah tiga direktur baru, dan satu komisaris independen baru, efektif 1 Oktober 2026, bersamaan dengan rampungnya merger dengan Oto Multiartha.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOFN",
+   "Summit Oto Finance",
+   "pergantian direksi",
+   "dewan komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6c2e68811_3fb122db88.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "admf-saham-pengendali-4-53-beralih-di-pasar-negosiasi",
+  "category": "Aksi Korporasi",
+  "title": "ADMF: Saham Pengendali [4,53%] Beralih di Pasar Negosiasi",
+  "deck": "Saham milik pemegang saham pengendali ADMF senilai 4,53% dari total saham beredar bertransaksi di pasar negosiasi, bersamaan dengan harga saham ADMF anjlok 4,9% pada 29 September 2026.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMF",
+   "volatilitas saham",
+   "pemegang saham pengendali",
+   "pasar negosiasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e57491509_c69c116752.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ifsh-jelaskan-ke-bei-soal-lonjakan-harga-saham-25",
+  "category": "Aksi Korporasi",
+  "title": "IFSH Jelaskan ke BEI soal Lonjakan Harga Saham [25%]",
+  "deck": "Saham IFSH melonjak 25 persen pada 28 September dengan volume dan frekuensi transaksi naik tajam, saat IHSG dan sektor bahan baku melemah. Perseroan sebut tak ada informasi material baru.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IFSH",
+   "Ifishdeco",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7dafda7b70_b20c7d3e4e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "prda-ungkap-ke-bursa-penyebab-penurunan-kas-rp46-34-miliar",
   "category": "Aksi Korporasi",
   "title": "PRDA Ungkap ke Bursa Penyebab [Penurunan] Kas Rp46,34 Miliar",
@@ -83,6 +195,22 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c5c1e75b89_b0b7cc8813.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wapo-jelaskan-ke-bursa-akui-kesalahan-pencatatan-piutang-berelasi",
+  "category": "Aksi Korporasi",
+  "title": "WAPO Jelaskan ke Bursa, Akui Kesalahan [Pencatatan] Piutang Berelasi",
+  "deck": "Menjawab permintaan penjelasan BEI, WAPO mengakui kesalahan pencatatan piutang sewa ke pihak berelasi PT Inasentra Unisatya dan melunasi utang Rp19,6 miliar ke PT Sumber Kurnia Alam.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WAPO",
+   "piutang pihak berelasi",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c8e75b86c_53ef4548d8.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6354,137 +6482,6 @@ var ARTICLES = [
    "restrukturisasi grup usaha"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-6215-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arii-jawab-permintaan-bursa-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "ARII Jawab Permintaan Bursa soal [Volatilitas] Saham",
-  "deck": "Atlas Resources Tbk menjawab surat BEI soal volatilitas transaksi sahamnya dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARII",
-   "Atlas Resources",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4197919e0b_62a3cf53de.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raam-direksi-tambah-saham-senilai-rp160-juta",
-  "category": "Aksi Korporasi",
-  "title": "RAAM: Direksi [Tambah] Saham Senilai Rp160 Juta",
-  "deck": "Ram Jethmal Punjabi, direksi RAAM, membeli 918.300 saham tidak langsung senilai sekitar Rp160 juta pada 23-24 September 2026, hak suaranya naik tipis ke 68,83%.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAAM",
-   "Tripar Multivision",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-6067-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penebusan-pupuk-subsidi-tembus-69-dari-alokasi-2026",
-  "category": "BUMN",
-  "title": "Penebusan Pupuk Subsidi Tembus [69%] dari Alokasi 2026",
-  "deck": "Pupuk Indonesia melaporkan realisasi penebusan pupuk bersubsidi 6,77 juta ton, atau 69 persen dari alokasi 2026, sementara HET turun 20 persen sejak Oktober 2025.",
-  "date": "25 September 2026",
-  "image": "assets/img/penebusan-pupuk-subsidi-tembus-69-dari-alokasi-2026.jpg",
-  "imageV": "mugh752m",
-  "tags": [
-   "pupuk subsidi",
-   "Pupuk Indonesia",
-   "Hari Tani Nasional",
-   "HET pupuk"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/885/hari-tani-pupuk-indonesia-tegaskan-petani-sebagai-prioritas-lewat-pupuk-terjangkau-dan-mudah-diakses",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "truk-prk-tawar-tender-sukarela-rp740-incar-kendali-30",
-  "category": "Aksi Korporasi",
-  "title": "TRUK: PRK Tawar [Tender] Sukarela Rp740, Incar Kendali 30%",
-  "deck": "PT Pukul Rata Kanan menawar beli maksimal 65,25 juta saham (15%) TRUK seharga Rp740 per saham untuk menambah kepemilikannya jadi 30% dan menjadi pengendali baru.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUK",
-   "tender offer",
-   "Pukul Rata Kanan",
-   "pengendali saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d8993be833_9055573639.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-ke-rp2-590-000-per-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Turun] ke Rp2.590.000 per Gram",
-  "deck": "Harga emas Antam turun Rp15.000 menjadi Rp2.590.000 per gram, sementara harga buyback ikut turun ke Rp2.415.000 per gram.",
-  "date": "25 September 2026",
-  "image": "assets/img/harga-emas-antam-turun-ke-rp2-590-000-per-gram.jpg",
-  "imageV": "mugh75k9",
-  "tags": [
-   "emas",
-   "antam",
-   "harga emas",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469278-harga-emas-antam-hari-ini-25-september-2026-rp2590000-per-gram-turun-rp15000"
- },
- {
-  "slug": "dr-rhb-sekuritas-setop-market-making-waran-kendala-teknis",
-  "category": "Aksi Korporasi",
-  "title": "DR: RHB Sekuritas Setop [Market Making] Waran, Kendala Teknis",
-  "deck": "RHB Sekuritas Indonesia menghentikan sementara kegiatan market making pada seluruh waran terstruktur terbitannya sejak pukul 09:00 WIB hari ini akibat masalah teknis.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "RHB Sekuritas",
-   "market making",
-   "waran terstruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec01eeebee_8027bc316e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "edge-tender-sukarela-digital-edge-baru-serap-4-8-saham-publik",
-  "category": "Aksi Korporasi",
-  "title": "EDGE: [Tender Sukarela] Digital Edge Baru Serap 4,8% Saham Publik",
-  "deck": "Digital Edge (Hong Kong) Ltd baru membeli 7,71 juta dari 159,6 juta saham publik PT Indointernet lewat tender sukarela dalam tiga periode penyelesaian sejak Agustus 2026.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "tender sukarela",
-   "Digital Edge",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cef341ca40_09015df212.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpro-rombak-komite-audit-kevin-karsten-gantikan-bernika",
-  "category": "Aksi Korporasi",
-  "title": "MPRO Rombak [Komite Audit], Kevin Karsten Gantikan Bernika",
-  "deck": "Dewan Komisaris MPRO mengganti satu anggota komite audit, Bernika Indah Agustina digantikan Kevin Karsten, efektif 25 September 2026, sementara ketua dan anggota lain tetap menjabat.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPRO",
-   "komite audit",
-   "tata kelola perusahaan",
-   "Maha Properti Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/28a21d7744_e3115dca6b.pdf",
   "sourceLabel": "IDX"
  }
 ];

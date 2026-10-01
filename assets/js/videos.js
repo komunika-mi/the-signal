@@ -2,6 +2,42 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "4v2MaOA_PF4",
+  "title": "QRIS Capai 69,32 Juta Pengguna di FEKDI x IFSE 2026",
+  "category": "Perbankan",
+  "program": "Kabar Siang",
+  "summary": "Penyelenggaraan FEKDI x IFSE 2026 di Jakarta mencatat QRIS telah menjangkau 69,32 juta pengguna, hasil kolaborasi Bank Indonesia, OJK, dan pemerintah memperluas ekonomi digital.",
+  "takeaway": "Angka ini jadi penanda sejauh mana inklusi pembayaran digital berkembang di masyarakat.",
+  "terbit": "2026-10-01T06:03:14+00:00"
+ },
+ {
+  "id": "T6aC5SWvHaQ",
+  "title": "Ratusan Hotel Bali Dijual, Sinyal Pariwisata Lesu",
+  "category": "Bisnis",
+  "program": "IBF",
+  "summary": "Ratusan hotel dan vila di Bali ditawarkan di situs jual beli properti, seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum pulih seperti biasanya.",
+  "takeaway": "Tren ini penting bagi pelaku usaha sebagai sinyal tantangan pemulihan sektor pariwisata Bali.",
+  "terbit": "2026-10-01T05:44:46+00:00"
+ },
+ {
+  "id": "9uT9X61_j8Y",
+  "title": "Pemerintah Dorong Pariwisata Berbasis Lingkungan",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "Pemerintah mendorong pengembangan ekowisata sebagai kegiatan ekonomi yang tetap menjaga kelestarian alam, dengan melibatkan dunia usaha dan masyarakat setempat.",
+  "takeaway": "Arah kebijakan ini relevan bagi pelaku usaha yang ingin memadukan nilai ekonomi dengan keberlanjutan lingkungan.",
+  "terbit": "2026-10-01T05:40:46+00:00"
+ },
+ {
+  "id": "h8l7bh_HC1w",
+  "title": "Apindo Dukung RUU Ketenagakerjaan Baru",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Apindo mendukung pembahasan RUU Ketenagakerjaan dengan prinsip flexicurity, yang menyeimbangkan fleksibilitas dunia usaha dengan perlindungan bagi pekerja.",
+  "takeaway": "Pembahasan regulasi ini berdampak langsung pada iklim ketenagakerjaan dan kepastian berusaha di sektor industri.",
+  "terbit": "2026-10-01T05:39:21+00:00"
+ },
+ {
   "id": "4jxHO1lsEqw",
   "title": "Bappenas dan Kadin Bentuk Kantor Bersama",
   "category": "Makroekonomi",

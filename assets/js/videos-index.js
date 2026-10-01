@@ -4,6 +4,38 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "4v2MaOA_PF4",
+  "title": "QRIS Capai 69,32 Juta Pengguna di FEKDI x IFSE 2026",
+  "category": "Perbankan",
+  "program": "Kabar Siang",
+  "summary": "Penyelenggaraan FEKDI x IFSE 2026 di Jakarta mencatat QRIS telah menjangkau 69,32 juta pengguna, hasil kolaborasi Bank Indonesia, OJK, dan pemerintah memperluas ekonomi digital.",
+  "takeaway": "Angka ini jadi penanda sejauh mana inklusi pembayaran digital berkembang di masyarakat."
+ },
+ {
+  "id": "T6aC5SWvHaQ",
+  "title": "Ratusan Hotel Bali Dijual, Sinyal Pariwisata Lesu",
+  "category": "Bisnis",
+  "program": "IBF",
+  "summary": "Ratusan hotel dan vila di Bali ditawarkan di situs jual beli properti, seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum pulih seperti biasanya.",
+  "takeaway": "Tren ini penting bagi pelaku usaha sebagai sinyal tantangan pemulihan sektor pariwisata Bali."
+ },
+ {
+  "id": "9uT9X61_j8Y",
+  "title": "Pemerintah Dorong Pariwisata Berbasis Lingkungan",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "Pemerintah mendorong pengembangan ekowisata sebagai kegiatan ekonomi yang tetap menjaga kelestarian alam, dengan melibatkan dunia usaha dan masyarakat setempat.",
+  "takeaway": "Arah kebijakan ini relevan bagi pelaku usaha yang ingin memadukan nilai ekonomi dengan keberlanjutan lingkungan."
+ },
+ {
+  "id": "h8l7bh_HC1w",
+  "title": "Apindo Dukung RUU Ketenagakerjaan Baru",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Apindo mendukung pembahasan RUU Ketenagakerjaan dengan prinsip flexicurity, yang menyeimbangkan fleksibilitas dunia usaha dengan perlindungan bagi pekerja.",
+  "takeaway": "Pembahasan regulasi ini berdampak langsung pada iklim ketenagakerjaan dan kepastian berusaha di sektor industri."
+ },
+ {
   "id": "4jxHO1lsEqw",
   "title": "Bappenas dan Kadin Bentuk Kantor Bersama",
   "category": "Makroekonomi",
@@ -450,37 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Kementerian Investasi dan Hilirisasi/BKPM menggelar Anugerah Layanan Investasi 2026 sebagai apresiasi atas kinerja pelayanan investasi daerah, dengan Menteri Rosan Roeslani menekankan pentingnya peningkatan kualitas layanan.",
   "takeaway": "Penghargaan ini mencerminkan upaya pemerintah memperbaiki iklim investasi daerah, yang berpengaruh langsung terhadap arus modal masuk ke Indonesia."
- },
- {
-  "id": "RNSTpYmHCHU",
-  "title": "Presiden Prabowo Ternyata Dibohongi Perusahaan BUMN",
-  "category": "BUMN",
-  "program": "Presiden Prabowo Menjawab",
-  "summary": "Presiden Prabowo mengungkapkan sejumlah perusahaan BUMN diduga membuat laporan keuangan dengan keuntungan yang dibesar-besarkan demi mendapatkan bonus bagi manajemen.",
-  "takeaway": "Pernyataan ini menyoroti persoalan tata kelola dan transparansi laporan keuangan BUMN yang berdampak pada kepercayaan investor dan efisiensi badan usaha milik negara."
- },
- {
-  "id": "DnfO9JAvj5E",
-  "title": "Presiden Prabowo Soroti Perbedaan Rating S&P soal Fundamental Ekonomi",
-  "category": "Makroekonomi",
-  "program": "Presiden Prabowo Menjawab",
-  "summary": "Presiden Prabowo menanggapi perbedaan penilaian lembaga pemeringkat S&P terhadap fundamental ekonomi Indonesia, sekaligus menegaskan Indonesia tidak akan tunduk pada tekanan negara lain.",
-  "takeaway": "Pandangan kepala negara soal penilaian lembaga pemeringkat internasional penting bagi investor dalam menakar risiko dan arah kebijakan ekonomi Indonesia."
- },
- {
-  "id": "Ssa46z-68kA",
-  "title": "Penghasilan Nelayan Naik 30 hingga 40 Persen",
-  "category": "Ketenagakerjaan",
-  "program": "Presiden Prabowo Menjawab",
-  "summary": "Presiden Prabowo Subianto menyebut penghasilan nelayan meningkat signifikan lewat program pembenahan desa nelayan yang dinilainya selama ini belum terurus, dengan target 1.300 desa nelayan baru.",
-  "takeaway": "Program desa nelayan berdampak langsung pada pendapatan masyarakat pesisir, indikator penting bagi ekonomi kerakyatan."
- },
- {
-  "id": "NhmwFIVUnr8",
-  "title": "Presiden Prabowo Optimistis BUMN Cetak Untung",
-  "category": "BUMN",
-  "program": "Presiden Prabowo Menjawab",
-  "summary": "Presiden Prabowo Subianto menyatakan optimistis kinerja BUMN mencatatkan hasil positif, meski menyoroti pengelolaan sumber keuangan negara yang menurutnya masih perlu dirapikan.",
-  "takeaway": "Pernyataan ini menjadi sinyal arah kebijakan pemerintah terhadap tata kelola dan profitabilitas perusahaan pelat merah."
  }
 ];

@@ -3,6 +3,162 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "zp-sesuaikan-syarat-waran-enrg-jelang-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Syarat Waran ENRG Jelang [Rights Issue]",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran ENRGZPCV6A dan ENRGZPCF7A menyusul rencana rights issue ENRG senilai Rp310 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T12:22:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/12d4bec7b7_3ad31edc77.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "ENRG",
+   "rights issue",
+   "waran terstruktur"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, penerbit waran terstruktur ENRGZPCV6A dan ENRGZPCF7A yang mengacu pada saham PT Energi Mega Persada Tbk (ENRG), mengumumkan penyesuaian harga pelaksanaan dan rasio konversi kedua waran tersebut. Penyesuaian ini merespons rencana ENRG menggelar Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu keempat atau rights issue, yang sudah diumumkan ENRG pada 28 September 2026.",
+   "Dalam rights issue tersebut, ENRG akan menerbitkan 13.282.271.875 saham baru, setara 33,33 persen dari modal ditempatkan dan disetor setelah aksi ini rampung, dengan nilai nominal Rp100 per saham dan harga pelaksanaan Rp310 per saham. Setiap pemegang 2 saham lama ENRG yang namanya tercatat di Daftar Pemegang Saham pada 6 Oktober 2026 pukul 16.00 WIB berhak atas 1 Hak Memesan Efek Terlebih Dahulu (HMETD), dan setiap 1 HMETD bisa dipakai untuk membeli 1 saham baru seharga Rp310.",
+   "Karena aksi korporasi ini, harga pelaksanaan dan rasio konversi waran ENRGZPCV6A dan ENRGZPCF7A ikut disesuaikan memakai rumus baku yang sudah diatur dalam Bagian 3.8 Prospektus ENRG tertanggal 11 April 2025 serta Term Sheet kedua waran. Dalam rumus itu, variabel R diisi Rp310 selaku harga pelaksanaan rights issue dan variabel M diisi 0,5 selaku porsi saham baru yang berhak diambil pemegang saham lama. Penyesuaian berlaku efektif pada tanggal ex rights issue, yaitu 5 Oktober 2026 untuk pasar reguler dan negosiasi, serta 7 Oktober 2026 untuk pasar tunai. Maybank Sekuritas selaku penerbit waran juga mencantumkan bahwa penyesuaian ini bisa saja tidak dilakukan apabila berdasarkan kebijakannya sendiri dianggap tidak tepat, tanpa kewajiban apa pun kepada pemegang waran."
+  ],
+  "fotoAdegan": "Technicians inspecting pipelines at an onshore oil and gas processing facility, hard hats, early morning haze",
+  "takeaway": "Laporan ini netral bagi ENRG, sebab isinya murni penerapan rumus baku yang sudah disepakati sejak waran diterbitkan, bukan keputusan baru yang mengubah arah bisnis perusahaan. Yang tersentuh adalah jumlah saham beredar dan laba per saham ENRG, karena rights issue ini menambah saham baru sebanyak 33,33 persen dari total saham setelah aksi tersebut, sehingga laba yang sama harus dibagi ke lebih banyak lembar saham dan jatah laba per lembar berpotensi mengecil, itu sebabnya pemegang waran perlu rumus penyesuaian agar nilai hak mereka tidak ikut tergerus begitu saja. Pelaku pasar waran perlu mencermati tanggal 6 Oktober 2026 pukul 16.00 WIB sebagai batas pencatatan pemegang saham yang berhak atas jatah rights issue, serta tanggal efektif penyesuaian waran pada 5 Oktober 2026 di pasar reguler dan negosiasi dan 7 Oktober 2026 di pasar tunai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "link-direktur-yosafat-hutagalung-mundur-tunggu-rups",
+  "category": "Aksi Korporasi",
+  "title": "LINK: Direktur Yosafat Hutagalung [Mundur], Tunggu RUPS",
+  "deck": "PT Link Net Tbk melaporkan pengunduran diri Yosafat Marhasak Hutagalung dari jabatan Direktur per 1 Oktober 2026, menunggu persetujuan RUPS terdekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T12:02:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f3c52cb092_b4935cb379.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LINK",
+  "tags": [
+   "LINK",
+   "Link Net",
+   "Direksi",
+   "RUPS"
+  ],
+  "body": [
+   "PT Link Net Tbk (LINK) menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia bahwa pada 1 Oktober 2026 perusahaan menerima surat pengunduran diri Yosafat Marhasak Hutagalung dari jabatannya selaku Direktur Perseroan. Laporan ditandatangani secara elektronik oleh Corporate Secretary LINK, Rininta Agustina Widya Pratika, pada hari yang sama pukul 12.02 WIB.",
+   "Perseroan menyatakan akan mengajukan permohonan persetujuan atas pengunduran diri tersebut dalam Rapat Umum Pemegang Saham (RUPS) yang terdekat, sesuai ketentuan peraturan perundang-undangan yang berlaku. Tanggal pelaksanaan RUPS itu sendiri belum disebutkan dalam laporan ini, begitu juga nama calon pengganti posisi Direktur yang ditinggalkan.",
+   "Dalam dokumen yang sama, manajemen LINK menegaskan bahwa pengunduran diri ini tidak berdampak negatif terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "A technician in a safety vest inspecting fiber optic cable junctions on a utility pole along a Jakarta street, soft afternoon light",
+  "takeaway": "Laporan ini netral bagi LINK, karena yang terjadi adalah pengunduran diri satu direktur tanpa penjelasan sebab, tanpa indikasi sengketa, dan perseroan sendiri menyatakan tidak ada dampak negatif ke operasional atau keuangan. Pergantian direksi seperti ini biasanya tidak langsung mengubah pos keuangan seperti ekuitas, arus kas, atau laba per saham, tapi pelaku pasar tetap memperhatikan komposisi direksi karena merekalah yang menjalankan keputusan sehari-hari perusahaan, termasuk soal belanja modal dan pengelolaan utang. Yang perlu dipantau selanjutnya adalah kapan RUPS digelar untuk menyetujui pengunduran diri ini secara resmi, sekaligus apakah LINK akan mengumumkan nama pengganti Yosafat sebagai Direktur sebelum atau saat RUPS tersebut berlangsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "link-presiden-komisaris-vivek-sood-mundur",
+  "category": "Aksi Korporasi",
+  "title": "LINK: Presiden Komisaris Vivek Sood [Mundur]",
+  "deck": "Vivek Sood mengundurkan diri sebagai Presiden Komisaris Link Net pada 1 Oktober 2026, di hari yang sama dengan pengunduran diri seorang direktur perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T12:01:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d0b6f068e5_3691e266d9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LINK",
+  "tags": [
+   "LINK",
+   "Link Net",
+   "Komisaris",
+   "Pengunduran Diri"
+  ],
+  "body": [
+   "PT Link Net Tbk (LINK) menyampaikan keterbukaan informasi bahwa pada 1 Oktober 2026 perseroan menerima surat pengunduran diri Vivek Sood dari jabatannya sebagai Presiden Komisaris. Laporan bernomor SB-074/CSL-LN/OJK/X/2026 ini ditandatangani secara elektronik oleh Corporate Secretary Link Net, Rininta Agustina Widya Pratika.",
+   "Dalam dokumen tersebut, perseroan menyatakan akan mengajukan permohonan persetujuan atas pengunduran diri Vivek Sood pada Rapat Umum Pemegang Saham (RUPS) terdekat, sesuai dengan ketentuan peraturan perundang-undangan yang berlaku. Manajemen juga menegaskan bahwa kejadian ini tidak berdampak negatif terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan.",
+   "Pengunduran diri ini terjadi pada hari yang sama dengan pengunduran diri seorang direktur Link Net, Yosafat Hutagalung, yang juga diumumkan perseroan pada 1 Oktober 2026 tanpa penjelasan alasan di baliknya."
+  ],
+  "fotoAdegan": "Technicians in safety vests installing fiber optic cables on utility poles along a busy Jakarta street, daytime",
+  "takeaway": "Pengunduran diri Presiden Komisaris ini cenderung netral bagi fundamental Link Net karena tidak disertai indikasi sengketa, masalah hukum, atau tekanan keuangan, dan perseroan menyebutnya tidak berdampak negatif. Yang perlu diperhatikan adalah pos tata kelola perusahaan, sebab posisi presiden komisaris bertugas mengawasi kinerja direksi, dan kekosongan jabatan ini terjadi bersamaan dengan mundurnya seorang direktur di hari yang sama sehingga dua kursi pimpinan kosong sekaligus. Kombinasi dua pengunduran diri dalam sehari pantas dipantau meski masing-masing laporan terlihat rutin. Yang akan menentukan kelanjutannya adalah RUPS terdekat, tempat pengunduran diri ini dimintakan persetujuan resmi sekaligus kemungkinan pengumuman pengganti untuk kedua posisi yang kosong.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pipa-tunjuk-kjpp-nilai-75-saham-aztech-pandu-persada",
+  "category": "Aksi Korporasi",
+  "title": "PIPA Tunjuk [KJPP] Nilai 75% Saham Aztech Pandu Persada",
+  "deck": "Oxala Energy International (PIPA) menunjuk KJPP Toto Suharto & Rekan menilai wajar 75 persen saham PT Aztech Pandu Persada, tindak lanjut perjanjian jual beli bersyarat 7 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T11:47:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dea621fb2f_78b608f931.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIPA",
+  "tags": [
+   "PIPA",
+   "akuisisi",
+   "KJPP",
+   "Aztech Pandu Persada"
+  ],
+  "body": [
+   "PT Oxala Energy International Tbk (PIPA) mengumumkan bahwa pada 30 September 2026 direksi perseroan menyetujui penunjukan Kantor Jasa Penilai Publik (KJPP) Toto Suharto & Rekan sebagai penilai independen. Penilai publik yang ditugaskan adalah Ir. Henrianto dengan nomor tanda terdaftar OJK KEP-1351/KS.13/2026. Tugasnya menilai 75 persen saham PT Aztech Pandu Persada untuk memberikan opini nilai wajar yang akan dipakai dalam rencana akuisisi. Tanggal acuan penilaian (cut-off date) ditetapkan 30 September 2026, dengan pendekatan kombinasi pendapatan, aset, dan pasar sesuai aturan OJK No. 35/POJK.04/2020 dan Standar Penilaian Indonesia.",
+   "Penunjukan ini merupakan tindak lanjut dari Conditional Share Purchase Agreement (CSPA) atau perjanjian jual beli saham bersyarat yang diteken 7 September 2026, sebagai bagian dari proses uji tuntas sebelum transaksi akuisisi dilanjutkan. Hasil penilaian nantinya akan digunakan oleh PIPA sendiri maupun oleh Otoritas Jasa Keuangan. Perseroan menegaskan KJPP yang ditunjuk independen dan tidak memiliki hubungan afiliasi baik dengan PIPA maupun dengan Aztech Pandu Persada.",
+   "Dokumen ini belum mencantumkan nilai transaksi akuisisi maupun skema pembayarannya. Perseroan menyebutkan bahwa penyelesaian transaksi akuisisi tetap bergantung pada hasil penilaian independen tersebut, pemenuhan syarat-syarat pendahuluan dalam CSPA, serta persetujuan RUPSLB dan regulator terkait."
+  ],
+  "fotoAdegan": "Workers inspecting stacked PVC pipes inside an industrial manufacturing warehouse, forklift moving pallets in the background, daytime",
+  "takeaway": "Laporan ini netral bagi kinerja Oxala Energy, karena baru sebatas menunjuk pihak penilai independen dan belum memuat angka nilai transaksi atau skema pembayaran yang bisa diukur dampaknya. Begitu KJPP Toto Suharto dan Rekan merampungkan penilaian atas 75 persen saham Aztech Pandu Persada, angka itu akan menentukan apakah Oxala membayar akuisisi ini dengan kas yang mengurangi dana tunai perusahaan, atau dengan menerbitkan saham baru yang bisa mengecilkan porsi kepemilikan dan laba per saham milik pemegang saham lama. Yang perlu dipantau selanjutnya adalah hasil penilaian wajar itu sendiri, pemenuhan syarat-syarat pendahuluan dari perjanjian jual beli bersyarat yang diteken 7 September 2026, serta jadwal RUPSLB yang belum diumumkan dalam laporan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "unsp-bantah-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Bantah Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Bakrie Sumatera Plantations menyatakan tidak ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T11:42:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/41a3c5dd62_32eef90b3f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNSP",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "Bakrie Sumatera Plantations Tbk (UNSP) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi nomor S-12537/BEI.PP1/09-2026 tertanggal 29 September 2026 terkait volatilitas transaksi efeknya. Lewat surat balasan nomor 045/CS-BSP/KIK/X/2026 yang diteken Corporate Secretary Aditya Indrajati pada 1 Oktober 2026, perusahaan menyatakan sampai saat ini tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun Peraturan Bursa Nomor I-E.",
+   "Dalam enam poin jawabannya, UNSP juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham perusahaan terbuka. Perusahaan menyatakan belum memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang berdampak pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan ke depan. Tidak ada pula informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik.",
+   "Soal rencana pengendali atau pemegang saham utama terkait kepemilikan sahamnya di UNSP, perusahaan menyatakan saat ini belum ada rencana apa pun. Perseroan berjanji akan menyampaikan keterbukaan informasi sesuai ketentuan yang berlaku apabila di kemudian hari ada aksi korporasi yang benar-benar akan dijalankan."
+  ],
+  "fotoAdegan": "Exterior facade of a modern stock exchange building in Jakarta's financial district, pedestrians walking past, midday light",
+  "takeaway": "Penjelasan ini netral bagi UNSP karena isinya murni bantahan standar, tidak ada angka keuangan, aksi korporasi, atau perubahan kepemilikan yang diumumkan. Surat semacam ini dipicu oleh Unusual Market Activity, yakni ketika harga atau volume perdagangan saham bergerak tidak wajar sehingga bursa meminta emiten mengonfirmasi apakah ada fakta material yang belum terbuka ke publik, dan jawaban UNSP tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham sama sekali. Yang perlu dipantau investor adalah apakah pergerakan harga saham UNSP mereda setelah penjelasan ini, atau justru berlanjut sehingga bursa kembali meminta klarifikasi maupun menerapkan mekanisme pemantauan tambahan. Jika dalam tiga bulan ke depan, sebagaimana disebut dalam suratnya, UNSP ternyata mengumumkan aksi korporasi padahal baru saja menyatakan tidak ada rencana, hal itu patut dicermati sebagai inkonsistensi keterbukaan informasi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inkp-lunasi-obligasi-dan-sukuk-rp500-75-miliar",
+  "category": "Aksi Korporasi",
+  "title": "INKP Lunasi [Obligasi] dan Sukuk Rp500,75 Miliar",
+  "deck": "Indah Kiat melunasi pokok obligasi Rp450 miliar dan sukuk mudharabah Rp50,75 miliar lewat KSEI pada 30 September 2026, sesuai jadwal jatuh tempo seri C terbitan 2021.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T11:09:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/74e113b473_c73e0e58c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) melalui PT Kustodian Sentral Efek Indonesia (KSEI) telah melunasi pokok Obligasi Berkelanjutan II Indah Kiat Pulp & Paper Tahap I Tahun 2021 Seri C sejumlah Rp450 miliar, bersama Sukuk Mudharabah Berkelanjutan I Indah Kiat Pulp & Paper Tahap I Tahun 2021 Seri C sejumlah Rp50,75 miliar. Pelunasan dilakukan pada 30 September 2026 kepada seluruh pemegang obligasi dan sukuk tersebut, sehingga total yang dibayarkan mencapai Rp500,75 miliar.",
+   "Keterbukaan informasi ini disampaikan ke Otoritas Jasa Keuangan pada 1 Oktober 2026 melalui surat bernomor 062/CRP/IK/X/2026, ditandatangani oleh Heri Santoso selaku Corporate Secretary INKP. Surat tersebut juga ditembuskan kepada Bursa Efek Indonesia serta PT Bank KB Indonesia Tbk yang berperan sebagai wali amanat obligasi dan sukuk ini. Dalam kolom dampak kejadian terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha, perusahaan tidak mencantumkan keterangan tambahan.",
+   "Pelunasan ini merupakan kelanjutan dari pengumuman sebelumnya pada 29 September 2026, saat INKP menyatakan telah menyiapkan dana Rp500,75 miliar untuk membayar seri obligasi dan sukuk yang sama. Dengan laporan ini, perusahaan mengonfirmasi bahwa dana tersebut sudah benar-benar dibayarkan sesuai jadwal jatuh tempo, tanpa ada perubahan jumlah dari yang diumumkan sebelumnya."
+  ],
+  "fotoAdegan": "Stacks of large paper rolls inside an industrial pulp and paper warehouse, forklift moving between shelves, workers in safety vests",
+  "takeaway": "Laporan ini netral bagi INKP karena pelunasan Rp500,75 miliar ini sudah diketahui jadwalnya sejak pengumuman dua hari sebelumnya, dan sifatnya memang pembayaran rutin jatuh tempo, bukan pelunasan dipercepat yang biasanya jadi sinyal perusahaan ingin memangkas beban utang lebih cepat dari rencana. Yang tersentuh adalah pos utang dan arus kas perusahaan, sebab keluar uang tunai sejumlah itu untuk membayar pokok pinjaman sehingga total utang obligasi dan sukuk INKP berkurang, yang pada gilirannya memangkas beban bunga yang harus dibayar ke depan. Pelaku pasar memperhatikan pos ini karena penurunan utang biasanya memperbaiki rasio keuangan perusahaan, meski arus kas keluar sebesar itu juga perlu dicek dampaknya pada kas perusahaan di laporan keuangan kuartal III 2026 yang akan terbit. Yang perlu dipantau selanjutnya adalah rencana pelunasan obligasi dan sukuk lain senilai Rp1,04 triliun yang menurut pengumuman sebelumnya dijadwalkan jatuh tempo pada November 2026, karena nilainya jauh lebih besar dari pelunasan kali ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pupuk-indonesia-naik-ke-peringkat-14-fortune-100",
   "category": "BUMN",
   "title": "Pupuk Indonesia [Naik] ke Peringkat 14 Fortune 100",
@@ -29,6 +185,58 @@ var ARTICLES = [
   "kreditFoto": "PT Pupuk Indonesia (Persero)",
   "takeaway": "Yang konkret dari siaran ini hanya dua hal, yaitu posisi Pupuk Indonesia yang naik ke peringkat 14 Fortune Indonesia 100 edisi 2026, dan aturan tata kelola pupuk bersubsidi yang diperbarui lewat Perpres 113/2025. Pihak yang berkepentingan langsung adalah petani penerima pupuk bersubsidi serta Danantara selaku pemegang saham, karena keduanya terkait langsung dengan distribusi pupuk dan kinerja keuangan perusahaan. Yang masih kurang adalah angka, karena tidak ada rincian laba, pendapatan, nilai investasi revitalisasi pabrik, atau target waktu penambahan fasilitas produksi baru yang diungkapkan Pupuk Indonesia. Klaim efisiensi dan penguatan kinerja ini baru bisa diuji lewat laporan keuangan tahunan perusahaan atau rincian proyek revitalisasi pabrik yang dijanjikan menyusul.",
   "imageV": "muozokn6"
+ },
+ {
+  "slug": "itic-gelar-rupslb-9-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "ITIC Gelar RUPSLB [9 November 2026]",
+  "deck": "Indonesian Tobacco (ITIC) mengumumkan rencana RUPSLB pada 9 November 2026, dengan pencatatan pemegang saham yang berhak hadir jatuh pada 15 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T10:15:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/62ad548f3f_aa76d8ab6b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ITIC",
+  "tags": [
+   "ITIC",
+   "RUPSLB",
+   "Indonesian Tobacco",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Indonesian Tobacco Tbk. (ITIC) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 9 November 2026, pukul 11.00 WIB di Teak Room, lantai 9 Hotel Mercure Jakarta Pantai Indah Kapuk. Mengacu Pasal 52 POJK 15/2020, pemanggilan resmi rapat yang memuat mata acara lengkap baru akan diumumkan pada Jumat, 16 Oktober 2026, melalui situs Bursa Efek Indonesia, situs perusahaan, dan situs KSEI. Pengumuman yang beredar saat ini baru tahap pemberitahuan rencana, belum memuat agenda rapat.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Kamis, 15 Oktober 2026. Perusahaan juga membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat usulan sudah diterima Direksi paling lambat Rabu, 7 Oktober 2026, yaitu tujuh hari kerja sebelum pemanggilan resmi. Usulan tersebut harus diajukan dengan itikad baik, mempertimbangkan kepentingan perusahaan, berupa agenda yang memerlukan keputusan rapat, disertai alasan dan bahan pendukung, serta tidak bertentangan dengan peraturan yang berlaku.",
+   "Perseroan mendorong pemegang saham untuk hadir secara elektronik lewat sistem eASY.KSEI dengan memberi kuasa elektronik (e-Proxy) kepada perwakilan independen yang ditunjuk perusahaan. Fasilitas e-Proxy ini tersedia sejak tanggal pemanggilan rapat hingga satu hari kerja sebelum RUPSLB, yaitu Jumat, 6 November 2026 pukul 16.00 WIB. Surat pemberitahuan ini ditandatangani Direktur Utama ITIC, Djonny Saksono, di Malang pada 1 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers packaging cigarette filter rolls on an automated production line inside a tobacco factory, bright daylight filtering through large windows",
+  "takeaway": "Laporan ini netral bagi ITIC karena isinya murni tahapan administratif: perusahaan baru memberitahukan rencana RUPSLB, sementara agenda sebenarnya, yaitu hal-hal yang akan diputuskan dan bisa menyentuh pos seperti modal, struktur pemegang saham, atau kebijakan dividen, baru akan terungkap lewat pemanggilan resmi. Pemegang saham perlu tahu tanggal pencatatan 15 Oktober 2026 karena hanya mereka yang terdaftar di tanggal itu yang berhak ikut memberi suara, dan tenggat usulan mata acara 7 Oktober 2026 adalah kesempatan terakhir bagi pemegang saham untuk memasukkan isu ke agenda rapat. Yang perlu dipantau berikutnya adalah pemanggilan resmi rapat pada 16 Oktober 2026, karena dokumen itulah yang akan memuat mata acara dan materi RUPSLB, serta pelaksanaan rapat itu sendiri pada 9 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cnko-suntik-modal-rp27-5-miliar-ke-dua-anak-usaha-tambang",
+  "category": "Aksi Korporasi",
+  "title": "CNKO Suntik [Modal] Rp27,5 Miliar ke Dua Anak Usaha Tambang",
+  "deck": "EBI, anak usaha CNKO, menambah modal disetor KGB Rp7,5 miliar dan TLS Rp20 miliar, mempertegas kepemilikan hingga hampir 100 persen di kedua anak usaha tambang batubara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T09:41:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/25dee984ba_5e3b5929ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CNKO",
+  "tags": [
+   "CNKO",
+   "transaksi afiliasi",
+   "penambahan modal",
+   "tambang batubara"
+  ],
+  "body": [
+   "PT Exploitasi Energi Indonesia Tbk (CNKO) melaporkan bahwa perusahaan terkendalinya, PT Energi Batubara Indonesia (EBI), menyelesaikan penambahan modal pada anak usahanya, PT Korporindo Guna Bara (KGB), pada 30 September 2026. Modal dasar KGB naik Rp108 miliar menjadi Rp170,513 miliar, sementara modal ditempatkan dan disetor naik Rp7,5 miliar menjadi Rp70,013 miliar. Dengan tambahan ini, kepemilikan EBI di KGB menjadi 69.861 lembar saham atau setara 99,78 persen.",
+   "Pada tanggal yang sama, EBI juga menambah modal di anak usaha lainnya, PT Trans Lintas Segara (TLS). Modal dasar TLS bertambah Rp180 miliar menjadi Rp461,608 miliar, sedangkan modal ditempatkan dan disetor bertambah Rp20 miliar menjadi Rp301,608 miliar. Kepemilikan EBI di TLS pun menjadi 301.607 lembar saham, setara 99,99 persen.",
+   "Perseroan menyebut transaksi ini sebagai transaksi afiliasi karena melibatkan sesama perusahaan yang sahamnya dikuasai lebih dari 99 persen oleh CNKO, tetapi bukan transaksi material karena nilainya tidak melebihi 10 persen dari total aset Perseroan sesuai POJK No. 17/POJK.04/2020. Karena itu, transaksi ini dikecualikan dari kewajiban prosedur khusus seperti penilaian independen yang diatur dalam POJK No. 42/POJK.04/2020 tentang Transaksi Afiliasi. Laporan ini disampaikan ke OJK dan bursa oleh Corporate Secretary CNKO, Wim Andrian, dan juga ditandatangani Direktur CNKO, Erry Indriyana, pada 1 Oktober 2026."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving along a dusty open-pit coal mining road in Kalimantan under an overcast sky",
+  "takeaway": "Transaksi ini netral bagi pemegang saham CNKO, karena dananya berputar di dalam grup antara perusahaan yang sudah dikuasai hampir penuh, bukan modal segar dari luar yang mengubah peta kepemilikan di level CNKO sendiri. Yang tersentuh adalah ekuitas di level anak dan cucu usaha, modal disetor KGB naik jadi Rp70,013 miliar dan TLS jadi Rp301,608 miliar, yang biasanya berarti kedua perusahaan tambang itu punya bantalan modal lebih besar untuk operasional, tetapi efeknya ke laporan keuangan konsolidasi CNKO tetap kecil karena Perseroan sendiri menyatakan transaksi ini tidak melebihi 10 persen dari total asetnya dan tidak ada dampak material. Yang perlu dipantau berikutnya adalah untuk apa tambahan modal di KGB dan TLS ini dipakai, apakah untuk ekspansi tambang atau sekadar menutup kebutuhan modal kerja, karena laporan ini belum menjelaskan tujuan penggunaannya.",
+  "sentimen": "netral"
  },
  {
   "slug": "meja-tunjuk-kjpp-untuk-akuisisi-tambang-batu-bara",

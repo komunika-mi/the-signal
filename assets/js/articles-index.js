@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "zp-sesuaikan-syarat-waran-enrg-jelang-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Syarat Waran ENRG Jelang [Rights Issue]",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran ENRGZPCV6A dan ENRGZPCF7A menyusul rencana rights issue ENRG senilai Rp310 per saham.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "ENRG",
+   "rights issue",
+   "waran terstruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/12d4bec7b7_3ad31edc77.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "link-direktur-yosafat-hutagalung-mundur-tunggu-rups",
+  "category": "Aksi Korporasi",
+  "title": "LINK: Direktur Yosafat Hutagalung [Mundur], Tunggu RUPS",
+  "deck": "PT Link Net Tbk melaporkan pengunduran diri Yosafat Marhasak Hutagalung dari jabatan Direktur per 1 Oktober 2026, menunggu persetujuan RUPS terdekat.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LINK",
+   "Link Net",
+   "Direksi",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f3c52cb092_b4935cb379.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "link-presiden-komisaris-vivek-sood-mundur",
+  "category": "Aksi Korporasi",
+  "title": "LINK: Presiden Komisaris Vivek Sood [Mundur]",
+  "deck": "Vivek Sood mengundurkan diri sebagai Presiden Komisaris Link Net pada 1 Oktober 2026, di hari yang sama dengan pengunduran diri seorang direktur perseroan.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LINK",
+   "Link Net",
+   "Komisaris",
+   "Pengunduran Diri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d0b6f068e5_3691e266d9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pipa-tunjuk-kjpp-nilai-75-saham-aztech-pandu-persada",
+  "category": "Aksi Korporasi",
+  "title": "PIPA Tunjuk [KJPP] Nilai 75% Saham Aztech Pandu Persada",
+  "deck": "Oxala Energy International (PIPA) menunjuk KJPP Toto Suharto & Rekan menilai wajar 75 persen saham PT Aztech Pandu Persada, tindak lanjut perjanjian jual beli bersyarat 7 September 2026.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIPA",
+   "akuisisi",
+   "KJPP",
+   "Aztech Pandu Persada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dea621fb2f_78b608f931.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unsp-bantah-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Bantah Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Bakrie Sumatera Plantations menyatakan tidak ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/41a3c5dd62_32eef90b3f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-lunasi-obligasi-dan-sukuk-rp500-75-miliar",
+  "category": "Aksi Korporasi",
+  "title": "INKP Lunasi [Obligasi] dan Sukuk Rp500,75 Miliar",
+  "deck": "Indah Kiat melunasi pokok obligasi Rp450 miliar dan sukuk mudharabah Rp50,75 miliar lewat KSEI pada 30 September 2026, sesuai jadwal jatuh tempo seri C terbitan 2021.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/74e113b473_c73e0e58c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pupuk-indonesia-naik-ke-peringkat-14-fortune-100",
   "category": "BUMN",
   "title": "Pupuk Indonesia [Naik] ke Peringkat 14 Fortune 100",
@@ -21,6 +117,38 @@ var ARTICLES = [
   "kreditFoto": "PT Pupuk Indonesia (Persero)",
   "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/889/transformasi-dorong-pupuk-indonesia-naik-peringkat-di-fortune-indonesia-100",
   "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "itic-gelar-rupslb-9-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "ITIC Gelar RUPSLB [9 November 2026]",
+  "deck": "Indonesian Tobacco (ITIC) mengumumkan rencana RUPSLB pada 9 November 2026, dengan pencatatan pemegang saham yang berhak hadir jatuh pada 15 Oktober 2026.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ITIC",
+   "RUPSLB",
+   "Indonesian Tobacco",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/62ad548f3f_aa76d8ab6b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cnko-suntik-modal-rp27-5-miliar-ke-dua-anak-usaha-tambang",
+  "category": "Aksi Korporasi",
+  "title": "CNKO Suntik [Modal] Rp27,5 Miliar ke Dua Anak Usaha Tambang",
+  "deck": "EBI, anak usaha CNKO, menambah modal disetor KGB Rp7,5 miliar dan TLS Rp20 miliar, mempertegas kepemilikan hingga hampir 100 persen di kedua anak usaha tambang batubara.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CNKO",
+   "transaksi afiliasi",
+   "penambahan modal",
+   "tambang batubara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/25dee984ba_5e3b5929ff.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "meja-tunjuk-kjpp-untuk-akuisisi-tambang-batu-bara",
@@ -6368,136 +6496,6 @@ var ARTICLES = [
    "jadwal rapat"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/95a4b25ca4_6497e200eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bptr-beber-ke-bursa-pemegang-saham-utama-terus-beli-saham",
-  "category": "Aksi Korporasi",
-  "title": "BPTR Beber ke Bursa, Pemegang Saham Utama Terus [Beli] Saham",
-  "deck": "BPTR menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, dan menyebut pemegang saham utama masih membeli saham di pasar untuk tujuan investasi.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BPTR",
-   "volatilitas saham",
-   "free float",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d9bedd04e_3801b287c0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-melemah-ke-rp17-864-tertekan-lonjakan-harga-minyak",
-  "category": "Moneter",
-  "title": "Rupiah [Melemah] ke Rp17.864, Tertekan Lonjakan Harga Minyak",
-  "deck": "Nilai tukar rupiah turun 0,26 persen dipicu lonjakan harga minyak akibat ketegangan Iran-AS dan ekspektasi kenaikan suku bunga The Fed.",
-  "date": "24 September 2026",
-  "image": "assets/img/rupiah-melemah-ke-rp17-864-tertekan-lonjakan-harga-minyak.jpg",
-  "imageV": "muf2vv92",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "harga minyak",
-   "The Fed"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469033-rupiah-melemah-ke-rp17864-per-dolar-as-dipengaruhi-harga-minyak-yang-kembali-melonjak"
- },
- {
-  "slug": "ppgl-komisaris-divestasi-175-8-juta-saham-hak-suara-nol",
-  "category": "Aksi Korporasi",
-  "title": "PPGL: Komisaris [Divestasi] 175,8 Juta Saham, Hak Suara Nol",
-  "deck": "Komisaris PPGL, Jap Astrid Patricia, melepas seluruh 175,8 juta sahamnya senilai sekitar Rp59,33 miliar dalam delapan tahap, membuat hak suaranya turun dari 22,80 persen menjadi nol.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "Jap Astrid Patricia",
-   "Divestasi Saham",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-3452-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pmui-beli-34-saham-main-dealer-motor-listrik-vinfast",
-  "category": "Aksi Korporasi",
-  "title": "PMUI Beli [34%] Saham Main Dealer Motor Listrik VinFast",
-  "deck": "PMUI mengakuisisi 34 persen saham PT Green Scooter Indonesia, main dealer motor listrik VinFast di Jawa Barat, tanpa mengambil alih kendali perusahaan itu.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PMUI",
-   "akuisisi saham",
-   "motor listrik",
-   "VinFast"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6151a80a69_74661618cb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-hari-ini-turun-jadi-rp2-605-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam Hari Ini [Turun] Jadi Rp2.605.000/Gram",
-  "deck": "Harga emas batangan Antam turun Rp25.000 jadi Rp2.605.000 per gram hari ini, sementara harga buyback ikut turun ke Rp2.435.000 per gram.",
-  "date": "24 September 2026",
-  "image": "assets/img/harga-emas-antam-hari-ini-turun-jadi-rp2-605-000-gram.jpg",
-  "imageV": "muf2vvq0",
-  "tags": [
-   "emas",
-   "antam",
-   "harga emas",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469025-harga-emas-antam-hari-ini-24-september-2026-turun-rp25000-jadi-rp2605000-per-gram"
- },
- {
-  "slug": "mrat-direksi-beli-12-500-saham-senilai-rp4-5-juta",
-  "category": "Aksi Korporasi",
-  "title": "MRAT: Direksi Beli [12.500] Saham Senilai Rp4,5 Juta",
-  "deck": "Direksi Mustika Ratu, Jodi Andrea Suryo Kusumo, membeli 12.500 saham perusahaan dalam dua transaksi pada 21 dan 22 September 2026.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MRAT",
-   "Mustika Ratu",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-7659-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-top-up-saham-repo-suara-ke-22-51",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi [Top-Up] Saham Repo, Suara ke 22,51%",
-  "deck": "Samuel Sekuritas Indonesia selaku direksi NSSS menambah 207,3 juta saham lewat top up perjanjian repo, mengerek hak suara dari 21,64% menjadi 22,51%.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "repo saham",
-   "kepemilikan direksi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24092026-4495-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-tawarkan-obligasi-rp1-triliun-dan-sukuk-rp676-63-miliar",
-  "category": "Aksi Korporasi",
-  "title": "LPPI Tawarkan [Obligasi] Rp1 Triliun dan Sukuk Rp676,63 Miliar",
-  "deck": "LPPI merilis informasi tambahan penerbitan obligasi tahap IV senilai maksimal Rp1 triliun dan sukuk mudharabah maksimal Rp676,63 miliar, dengan bunga tetap 10-10,5 persen per tahun.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "obligasi korporasi",
-   "sukuk mudharabah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/304c880728_e940ca23b5.pdf",
   "sourceLabel": "IDX"
  }
 ];

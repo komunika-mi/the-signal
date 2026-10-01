@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "bMCxx9r2LsA",
+  "title": "Debat Dirut Agrinas vs Mahasiswa UGM soal Koperasi Merah Putih",
+  "category": "UMKM",
+  "program": "Dua Sisi",
+  "summary": "Dirut Agrinas berdebat dengan mahasiswa UGM mengenai program Koperasi Desa/Kelurahan Merah Putih, inisiatif pemerintahan Presiden Prabowo Subianto untuk memperkuat ekonomi kerakyatan di tingkat desa.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan koperasi desa dan pemberdayaan ekonomi kerakyatan yang ditargetkan pemerintah."
+ },
+ {
   "id": "4v2MaOA_PF4",
   "title": "QRIS Capai 69,32 Juta Pengguna di FEKDI x IFSE 2026",
   "category": "Perbankan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pemerintah menargetkan produksi bahan bakar campuran etanol 20 persen atau E20 rampung dalam dua tahun. Untuk mengejar target itu, pemerintah menyiapkan lahan tebu sebagai bahan baku etanol.",
   "takeaway": "Kebijakan bauran bahan bakar nabati ini menyangkut ketahanan energi nasional sekaligus rantai pasok industri gula."
- },
- {
-  "id": "jwi5v-WaW9Q",
-  "title": "Kementerian Investasi Gelar Anugerah Layanan Investasi 2026",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Kementerian Investasi dan Hilirisasi/BKPM menggelar Anugerah Layanan Investasi 2026 sebagai apresiasi atas kinerja pelayanan investasi daerah, dengan Menteri Rosan Roeslani menekankan pentingnya peningkatan kualitas layanan.",
-  "takeaway": "Penghargaan ini mencerminkan upaya pemerintah memperbaiki iklim investasi daerah, yang berpengaruh langsung terhadap arus modal masuk ke Indonesia."
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "bMCxx9r2LsA",
+  "title": "Debat Dirut Agrinas vs Mahasiswa UGM soal Koperasi Merah Putih",
+  "category": "UMKM",
+  "program": "Dua Sisi",
+  "summary": "Dirut Agrinas berdebat dengan mahasiswa UGM mengenai program Koperasi Desa/Kelurahan Merah Putih, inisiatif pemerintahan Presiden Prabowo Subianto untuk memperkuat ekonomi kerakyatan di tingkat desa.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan koperasi desa dan pemberdayaan ekonomi kerakyatan yang ditargetkan pemerintah.",
+  "terbit": "2026-10-01T09:51:05+00:00"
+ },
+ {
   "id": "4v2MaOA_PF4",
   "title": "QRIS Capai 69,32 Juta Pengguna di FEKDI x IFSE 2026",
   "category": "Perbankan",

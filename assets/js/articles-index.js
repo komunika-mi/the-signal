@@ -5,6 +5,73 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-acuan-cpo-dan-kakao-naik-oktober-getah-pinus-turun",
+  "category": "Bisnis",
+  "title": "Harga Acuan CPO dan Kakao [Naik] Oktober, Getah Pinus Turun",
+  "deck": "Kementerian Perdagangan menetapkan harga referensi dan patokan ekspor Oktober 2026: CPO dan biji kakao naik, getah pinus turun, kulit tetap, kayu olahan bervariasi.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "tags": [
+   "CPO",
+   "kakao",
+   "bea keluar",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hr-cpo-dan-hpe-biji-kakao-naik-hpe-getah-pinus-turun-hpe-produk-kulit-tetap-hpe-produk-kayu-bervariasi-pada-oktober-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ekspor-agustus-tembus-us-26-61-miliar-manufaktur-jadi-penopang",
+  "category": "Makroekonomi",
+  "title": "Ekspor Agustus Tembus US$26,61 Miliar, [Manufaktur] Jadi Penopang",
+  "deck": "Ekspor Indonesia Agustus 2026 tumbuh 6,72 persen menjadi US$26,61 miliar, ditopang manufaktur yang naik 12,48 persen, sementara neraca dagang surplus US$3,55 miliar.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/terminal-bus.jpg",
+  "tags": [
+   "ekspor",
+   "neraca dagang",
+   "manufaktur",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ekspor-agustus-2026-tembus-usd-2661-miliar-mendag-busan-manufaktur-jadi-motor-utama",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bi-perluas-obligasi-korporasi-untuk-jaminan-likuiditas-bank",
+  "category": "Moneter",
+  "title": "BI [Perluas] Obligasi Korporasi untuk Jaminan Likuiditas Bank",
+  "deck": "Bank Indonesia menambah obligasi dan sukuk korporasi BUMN sebagai jaminan dalam operasi moneter, memperluas opsi likuiditas bagi perbankan.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/bi-perluas-obligasi-korporasi-untuk-jaminan-likuiditas-bank.jpg",
+  "imageV": "mupnb676",
+  "tags": [
+   "Bank Indonesia",
+   "Operasi Moneter",
+   "Obligasi Korporasi",
+   "SMF"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820726.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "livin-by-mandiri-5-tahun-sbn-kini-jadi-agunan-kredit",
+  "category": "Perbankan",
+  "title": "Livin' by Mandiri 5 Tahun, SBN Kini Jadi [Agunan] Kredit",
+  "deck": "Lima tahun beroperasi, pengguna Livin' by Mandiri tembus 42,1 juta dan surat utang negara milik nasabah kini bisa dijadikan jaminan kredit.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/livin-by-mandiri-5-tahun-sbn-kini-jadi-agunan-kredit.jpg",
+  "imageV": "mupnb72n",
+  "tags": [
+   "bank mandiri",
+   "livin by mandiri",
+   "surat utang negara",
+   "kredit digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470696-lima-tahun-berinovasi-livin-by-mandiri-hadirkan-solusi-investasi-dan-pembiayaan-fleksibel-untuk-tujuan-finansial-nasabah"
+ },
+ {
   "slug": "dooh-alihkan-rp120-miliar-dana-ipo-ke-akuisisi-saham-inet",
   "category": "Aksi Korporasi",
   "title": "DOOH Alihkan [Rp120 Miliar] Dana IPO ke Akuisisi Saham INET",
@@ -6418,70 +6485,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c9e2b9d487_2eb3070d25.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tebe-gelar-paparan-publik-insidentil-usai-diminta-bursa",
-  "category": "Aksi Korporasi",
-  "title": "TEBE Gelar Paparan Publik [Insidentil] usai Diminta Bursa",
-  "deck": "Bursa meminta Dana Brata Luhur (TEBE) menggelar paparan publik insidentil pada 1 Oktober 2026 untuk menjelaskan pergerakan harga sahamnya, selain kinerja dan rencana bisnis.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEBE",
-   "Dana Brata Luhur",
-   "public expose",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/616ca18253_66b33bd144.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-mulai-pengeboran-sumur-kedua-pltp-lumut-balai-unit-3",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Mulai [Pengeboran] Sumur Kedua PLTP Lumut Balai Unit 3",
-  "deck": "PGE memulai pengeboran sumur kedua LMB-19.4 untuk PLTP Lumut Balai Unit 3 berkapasitas 55 MW, ditargetkan rampung 40 hari dan beroperasi penuh pada 2030.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "panas bumi",
-   "Lumut Balai",
-   "geothermal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3c9907051_e74e773367.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "emmi-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "EMMI Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "PT Esa Medika Mandiri Tbk menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMMI",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9fcef7b7f6_d2adf69871.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "putrasakti-mandiri-jual-1-juta-saham-kdtn-restrukturisasi-grup",
-  "category": "Aksi Korporasi",
-  "title": "Putrasakti Mandiri Jual [1 Juta] Saham KDTN, Restrukturisasi Grup",
-  "deck": "Putrasakti Mandiri melepas 1 juta saham KDTN pada 8 September 2026 seharga Rp421 per saham dalam rangka restrukturisasi kepemilikan di dalam kelompok usaha, hak suaranya turun tipis ke 32,07 persen.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "kepemilikan saham",
-   "pemegang saham",
-   "restrukturisasi grup usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-6215-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

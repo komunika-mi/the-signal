@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "meja-tunjuk-kjpp-untuk-akuisisi-tambang-batu-bara",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Tunjuk KJPP untuk Akuisisi [Tambang] Batu Bara",
+  "deck": "MEJA menunjuk KJPP DAZ & Rekan sebagai penilai independen untuk menyiapkan akuisisi PT Trimata Coal Perkasa dan penambahan lini usaha holding Perseroan.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEJA",
+   "akuisisi",
+   "KJPP",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a0cde6dd2c_e58c596da1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untr-buka-buyback-rp2-triliun-baru-di-tengah-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Buka Buyback [Rp2 Triliun] Baru di Tengah Pasar Bergejolak",
+  "deck": "United Tractors siapkan dana hingga Rp2 triliun untuk buyback saham periode 1 Oktober-31 Desember 2026, memakai aturan khusus OJK untuk pasar bergejolak.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "buyback saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a9953c358_8c9cfba7a0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "apic-catat-rugi-bersih-rp71-5-miliar-di-semester-i-2026",
   "category": "Aksi Korporasi",
   "title": "APIC Catat [Rugi] Bersih Rp71,5 Miliar di Semester I 2026",
@@ -6463,38 +6495,6 @@ var ARTICLES = [
    "Direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58f3cbd896_c6d5c1e69f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ruu-pelindungan-ketenagakerjaan-ditarget-sah-8-oktober-2026",
-  "category": "Ketenagakerjaan",
-  "title": "RUU Pelindungan Ketenagakerjaan Ditarget [Sah] 8 Oktober 2026",
-  "deck": "Pemerintah dan DPR menargetkan RUU Pelindungan Ketenagakerjaan disahkan 8 Oktober 2026, dengan aturan alih daya dan usulan bantuan iuran jaminan sosial pekerja jadi sorotan.",
-  "date": "24 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
-  "tags": [
-   "RUU Ketenagakerjaan",
-   "outsourcing",
-   "KSBSI",
-   "Kemnaker"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/wamenaker-pengesahan-ruu-pelindungan-ketenagakerjaan-ditargetkan-8-oktober-2026",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "bike-rugi-rp19-18-m-ungkap-rencana-akuisisi-tambang-publex",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Rugi Rp19,18 M, Ungkap Rencana Akuisisi Tambang [Publex]",
-  "deck": "Materi Public Expose Insidentil BIKE ungkap rugi bersih Rp19,18 miliar di semester I 2026, sekaligus rencana akuisisi lahan tambang dan enam anak usaha.",
-  "date": "23 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "Public Expose",
-   "Suspensi Saham",
-   "Akuisisi Tambang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/843fd0cdbe_2e84ce55ea.pdf",
   "sourceLabel": "IDX"
  }
 ];

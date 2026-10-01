@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "meja-tunjuk-kjpp-untuk-akuisisi-tambang-batu-bara",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Tunjuk KJPP untuk Akuisisi [Tambang] Batu Bara",
+  "deck": "MEJA menunjuk KJPP DAZ & Rekan sebagai penilai independen untuk menyiapkan akuisisi PT Trimata Coal Perkasa dan penambahan lini usaha holding Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T09:32:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a0cde6dd2c_e58c596da1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEJA",
+  "tags": [
+   "MEJA",
+   "akuisisi",
+   "KJPP",
+   "batu bara"
+  ],
+  "body": [
+   "PT Harta Djaya Karya Tbk (MEJA), emiten yang bergerak di bidang dekorasi eksterior dan interior, desain, furnitur, serta konstruksi gedung, menunjuk Kantor Jasa Penilai Publik Dedy, Arifin, Nazir dan Rekan (KJPP DAZ & Rekan) sebagai penilai independen pada 29 September 2026. Penunjukan ini mengacu pada tiga proposal bertanggal sama dan menjadi langkah persiapan rencana akuisisi PT Trimata Coal Perkasa sekaligus rencana penambahan bidang usaha baru berupa aktivitas perusahaan holding dengan kode KBLI 64200.",
+   "Lingkup penugasan KJPP mencakup tiga hal. Pertama, penilaian bisnis untuk memberi opini nilai wajar atas objek yang akan diakuisisi, lewat pengumpulan data, wawancara operasional, dan analisis pembanding. Kedua, opini kewajaran atas transaksi akuisisi, yang menganalisis dampak keuangan dan kewajaran harga transaksi. Ketiga, studi kelayakan atas penambahan bidang usaha holding, yang mencakup kajian hukum, rencana investasi, pemasaran, pembiayaan, dan analisis SWOT.",
+   "Dokumen menyebutkan hasil ketiga kajian itu akan menjadi dasar bagi Perseroan untuk mengevaluasi nilai, kewajaran, kelayakan, manfaat, dan risiko rencana akuisisi, sebelum masuk ke tahap finalisasi struktur transaksi dan pemenuhan persetujuan sesuai POJK 31/2015 dan Peraturan Bursa I-E. Perseroan belum mengungkapkan nilai transaksi, skema pendanaan, maupun struktur final akuisisi ini. Laporan ditandatangani oleh Presiden Direktur Richie Adrian Hartanto S dan disampaikan oleh Corporate Secretary Habibah Jannah."
+  ],
+  "fotoAdegan": "Aerial view of an open-pit coal mine with excavators loading haul trucks on a dusty road, overcast sky",
+  "takeaway": "Laporan ini condong netral bagi MEJA karena baru sebatas penunjukan penilai independen, belum ada angka nilai transaksi, skema pendanaan, atau keputusan final akuisisi yang bisa dinilai dampaknya. Yang berpotensi tersentuh ke depan adalah struktur bisnis dan neraca perusahaan, karena jika akuisisi tambang batu bara ini terealisasi, MEJA yang selama ini bergerak di dekorasi dan konstruksi akan merambah sektor pertambangan lewat skema perusahaan holding, dan itu bisa mengubah profil risiko serta kebutuhan modal tergantung apakah dibiayai tunai, utang, atau penerbitan saham baru. Yang perlu dipantau berikutnya adalah hasil tiga kajian KJPP DAZ & Rekan yaitu penilaian bisnis, opini kewajaran, dan studi kelayakan, karena hasil itu menentukan apakah akuisisi berlanjut, ditambah kemungkinan rapat umum pemegang saham untuk menyetujui perubahan kegiatan usaha, meski dokumen ini belum mencantumkan tanggal pasti penyelesaian kajian tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "untr-buka-buyback-rp2-triliun-baru-di-tengah-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Buka Buyback [Rp2 Triliun] Baru di Tengah Pasar Bergejolak",
+  "deck": "United Tractors siapkan dana hingga Rp2 triliun untuk buyback saham periode 1 Oktober-31 Desember 2026, memakai aturan khusus OJK untuk pasar bergejolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T08:20:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a9953c358_8c9cfba7a0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "buyback saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "body": [
+   "United Tractors Tbk (UNTR) menyampaikan keterbukaan informasi terkoreksi tentang rencana pembelian kembali saham dengan dana sebanyak-banyaknya Rp2 triliun. Rencana ini memakai jalur khusus yang dibuka Otoritas Jasa Keuangan lewat Peraturan OJK No. 13 Tahun 2023 dan surat OJK tanggal 9 September 2026, yang mengizinkan emiten membeli kembali sahamnya sendiri tanpa persetujuan RUPS lebih dulu ketika kondisi pasar sedang bergejolak signifikan.",
+   "Perseroan menetapkan dua batas dalam pelaksanaannya: jumlah saham yang dibeli tidak akan melebihi 20 persen dari modal ditempatkan dan disetor, dan porsi saham publik yang masih beredar bebas (free float) tidak boleh turun di bawah 15 persen. Pembelian akan berlangsung mulai 1 Oktober sampai 31 Desember 2026, dilakukan bertahap lewat Bursa Efek Indonesia melalui satu perusahaan efek yang akan ditunjuk, dan dibiayai sepenuhnya dari kas internal, bukan dari pinjaman atau dana hasil penawaran umum. Selama periode ini, komisaris, direksi, pegawai, dan pemegang saham utama dilarang bertransaksi atas saham perseroan.",
+   "Dalam proyeksi keuangan per 30 Juni 2026 yang disertakan, jika seluruh pagu Rp2 triliun terpakai, total aset perseroan akan turun dari Rp179,1 triliun menjadi Rp177,1 triliun dan total ekuitas turun dari Rp101,8 triliun menjadi Rp99,8 triliun. Laba per saham proforma justru naik dari Rp271 menjadi Rp277. Rencana ini menyusul program buyback sebelumnya senilai Rp1,42 triliun dari pagu Rp2 triliun yang baru saja dirampungkan dan dihentikan perseroan pada 30 September 2026."
+  ],
+  "fotoAdegan": "Rows of large yellow heavy equipment and excavators parked in an industrial dealer yard, overcast sky, no visible text",
+  "takeaway": "Rencana buyback baru ini condong positif bagi UNTR, karena perseroan kembali memakai kas sendiri, bukan utang, untuk menopang keyakinan pasar di tengah kondisi yang bergejolak, melanjutkan pola yang sudah dijalankan pada program sebelumnya senilai Rp1,42 triliun. Yang tersentuh adalah ekuitas dan laba per saham: ekuitas adalah modal milik pemegang saham, dan jika seluruh pagu Rp2 triliun terpakai, angkanya turun dari Rp101,8 triliun menjadi Rp99,8 triliun, sementara laba per saham naik dari Rp271 menjadi Rp277 karena jumlah saham yang beredar di pasar berkurang sehingga bagian laba untuk tiap saham yang tersisa membesar. Perlu dicatat, dana ini hanya sekitar 2 persen dari total ekuitas perseroan, jadi dampaknya terhadap kondisi keuangan memang tidak besar, seperti yang diakui sendiri dalam dokumen. Yang perlu dipantau berikutnya adalah realisasi pembelian sepanjang 1 Oktober sampai 31 Desember 2026, sebab pada program sebelumnya perseroan hanya memakai Rp1,42 triliun dari pagu Rp2 triliun yang disediakan, jadi belum tentu dana kali ini terserap penuh.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "apic-catat-rugi-bersih-rp71-5-miliar-di-semester-i-2026",
   "category": "Aksi Korporasi",
   "title": "APIC Catat [Rugi] Bersih Rp71,5 Miliar di Semester I 2026",

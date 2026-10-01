@@ -3,6 +3,476 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "prda-ungkap-ke-bursa-penyebab-penurunan-kas-rp46-34-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Ungkap ke Bursa Penyebab [Penurunan] Kas Rp46,34 Miliar",
+  "deck": "Prodia menjawab permintaan penjelasan BEI soal penurunan kas, piutang menunggak, dan aset tetap per Juni 2026, serta tagihan pajak kurang bayar Rp345 juta yang sudah dilunasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T18:34:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c5c1e75b89_b0b7cc8813.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "Prodia Widyahusada",
+   "BEI",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan tertanggal 29 September 2026. Dalam surat bernomor 139/CORSEC/EKS/X/2026 yang diteken Marina Eka Amalia selaku Direktur sekaligus Corporate Secretary, perseroan menjelaskan sejumlah pos keuangan yang berubah dalam laporan keuangan per 30 Juni 2026. Salah satu yang disorot bursa adalah kas dan setara kas yang turun Rp46,34 miliar atau 7,9 persen, dari Rp589,08 miliar pada akhir 2025 menjadi Rp542,73 miliar pada akhir Juni 2026. Manajemen menyebut penurunan ini berasal dari pembayaran ke karyawan, pemasok, pembelian aset tetap, dan penempatan dana ke instrumen keuangan lain, namun menegaskan kondisi likuiditas perseroan masih sehat dengan rasio likuiditas tinggi.",
+   "Soal piutang usaha yang naik tipis 0,51 persen menjadi Rp204,71 miliar, perseroan merinci bahwa piutang dari BPJS Kesehatan naik 4 persen atau Rp4,68 miliar dibanding Juni 2025, sementara piutang dari pihak berelasi justru turun karena perbedaan waktu pencatatan, bukan penurunan transaksi. Piutang yang sudah menunggak lebih dari 60 hari tercatat Rp27.986 juta, dan Rp23.189 juta di antaranya sudah berhasil ditagih. Di pos aset tetap, nilainya turun 2,78 persen menjadi Rp690,33 miliar karena beban penyusutan Rp49,18 miliar lebih besar dibanding penambahan aset baru yang hanya Rp29,54 miliar, mencerminkan sikap perseroan yang lebih selektif dalam belanja modal tahun ini. Proyek renovasi laboratorium yang tercatat sebagai aset dalam pembangunan sudah mencapai 95 persen dan disebut akan menambah kapasitas pemeriksaan begitu rampung.",
+   "Perseroan juga mengonfirmasi bahwa seluruh kewajiban Surat Ketetapan Pajak Kurang Bayar atas PPh Pasal 21 dan PPN senilai Rp345.103.699 untuk periode September 2025, beserta tunggakan pajak tahun buku 2024, telah dilunasi penuh dan tidak lagi tercatat dalam laporan keuangan per Juni 2026. Di sisi lain, aset tak berwujud turun 12,79 persen menjadi Rp227,07 miliar seiring penambahan aset baru yang anjlok 97,67 persen dibanding periode sebelumnya, karena sebagian besar proyek sistem sudah rampung di periode lalu. Sistem teknologi informasi terintegrasi yang baru, mencakup perangkat lunak dan infrastruktur basis data, sudah 85 persen selesai dan ditargetkan rampung September 2026. Utang usaha perseroan juga naik 11,39 persen menjadi Rp47,99 miliar dari Rp42,52 miliar, dengan peningkatan antara lain berasal dari utang kepada PT Inti Makmur Meditama dan PT Diastika Biotekindo."
+  ],
+  "fotoAdegan": "Laboratory technicians in white coats processing blood sample tubes on an automated analyzer in a bright diagnostic lab",
+  "takeaway": "Surat tanggapan ini condong netral bagi Prodia, karena seluruh perubahan pos keuangan yang dijelaskan, baik penurunan kas, piutang menunggak, maupun aset tetap, sudah tercermin di laporan keuangan semester I 2026 yang lebih dulu terbit, dan tidak ada transaksi atau kebijakan baru yang mengubah prospek perseroan. Yang disentuh di sini adalah arus kas dan belanja modal: kas berkurang karena belanja modal dan pembayaran operasional, sementara penambahan aset tetap yang lebih kecil dari beban penyusutannya menunjukkan perseroan sedang menahan diri dalam investasi baru, hal yang biasa diawasi investor karena memengaruhi kemampuan perusahaan tumbuh ke depan. Piutang yang menunggak lebih dari 60 hari, yakni Rp27,98 miliar dengan Rp23,19 miliar sudah tertagih, juga relevan karena ini menyangkut seberapa cepat pendapatan perseroan benar-benar berubah jadi uang tunai. Yang perlu dipantau berikutnya adalah penyelesaian proyek renovasi laboratorium dan sistem teknologi informasi yang ditargetkan rampung September 2026, karena keduanya akan menentukan apakah belanja modal yang ditahan tahun ini mulai terealisasi kembali.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "atap-terima-pinjaman-rp10-miliar-dari-perusahaan-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "ATAP Terima Pinjaman Rp10 Miliar dari Perusahaan [Afiliasi]",
+  "deck": "PT Trimitra Prawara Goldland Tbk mendapat pinjaman Rp10 miliar berbunga 6 persen per tahun dari PT Dana Berguna Sejahtera, perusahaan yang terafiliasi lewat kesamaan direksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T18:13:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/176baf87a7_c08fd137b0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATAP",
+  "tags": [
+   "ATAP",
+   "transaksi afiliasi",
+   "pinjaman",
+   "Trimitra Prawara Goldland"
+  ],
+  "body": [
+   "PT Trimitra Prawara Goldland Tbk (ATAP) mengumumkan transaksi afiliasi berupa perjanjian pinjaman dengan PT Dana Berguna Sejahtera (PT DBS), perusahaan holding yang juga berkedudukan di Jakarta Selatan. Hubungan afiliasi antara keduanya terjadi karena Budi Aditya Erna Mulyanto menjabat sebagai anggota Direksi di ATAP sekaligus anggota Direksi di PT DBS, sehingga transaksi ini wajib diungkap sesuai Peraturan OJK Nomor 42/POJK.04/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan.",
+   "Berdasarkan surat bernomor 105/DIR/SRT-EKS/ATAP/IX/2026, transaksi terjadi pada 1 Oktober 2026 dengan nilai pinjaman Rp10 miliar, bunga 6 persen per tahun, dan jangka waktu lima tahun. Perjanjian ini tidak memuat ketentuan pembatasan, dan apabila terjadi sengketa akan diselesaikan melalui Pengadilan Negeri Jakarta Selatan. Dalam proses persetujuan, Budi Aditya Erna Mulyanto tidak ikut serta dalam pengambilan keputusan maupun pemberian persetujuan atas transaksi ini, sesuai prinsip tata kelola untuk transaksi yang berpotensi mengandung benturan kepentingan.",
+   "Perseroan menyatakan bahwa syarat dan ketentuan pinjaman, termasuk bunga, jangka waktu, dan struktur jaminan, setara dengan kondisi yang berlaku umum di pasar untuk transaksi sejenis dengan pihak yang tidak terafiliasi. Pemilihan PT DBS sebagai mitra pembiayaan didasarkan pada pertimbangan efisiensi biaya transaksi, kecepatan pencairan dana, dan kesesuaian struktur pembiayaan dengan kebutuhan modal kerja Perseroan. ATAP juga menegaskan transaksi ini tidak memiliki pengaruh signifikan terhadap kondisi keuangan, operasional, hukum, maupun kelangsungan usaha perusahaan."
+  ],
+  "fotoAdegan": "Construction workers finishing concrete framework on a mid-rise apartment building site in Jakarta, cranes overhead, midday sunlight",
+  "takeaway": "Transaksi ini bersifat netral bagi ATAP karena merupakan pinjaman afiliasi dengan nilai yang relatif kecil, Rp10 miliar, dan diklaim setara dengan syarat pasar untuk pihak tidak terafiliasi, sementara direktur yang terkait afiliasi sudah tidak dilibatkan dalam pengambilan keputusan. Pos yang tersentuh di sini adalah utang dan beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjaman tersebut. Dengan bunga 6 persen per tahun selama lima tahun, ATAP akan menanggung kewajiban bunga rutin yang mengurangi laba bersih, meski dana segarnya bisa dipakai untuk modal kerja operasional. Yang perlu dicermati berikutnya adalah bagaimana dana pinjaman ini benar-benar digunakan serta kemampuan ATAP membayar bunga dan pokok pinjaman hingga jatuh tempo pada sekitar 2031, mengingat perjanjian ini tidak mencantumkan jaminan atau pembatasan khusus yang melindungi posisi keuangan perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kras-gabungkan-empat-anak-usaha-jadi-satu-penggabungan",
+  "category": "Aksi Korporasi",
+  "title": "KRAS Gabungkan Empat Anak Usaha Jadi Satu [Penggabungan]",
+  "deck": "Krakatau Steel menggabungkan empat anak usaha baja menjadi satu entitas di bawah KBK, transaksi afiliasi yang dikecualikan dari prosedur khusus POJK karena seluruh pihak dikuasai penuh perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T18:11:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/320fd6eb9d_0cb6d509f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KRAS",
+  "tags": [
+   "KRAS",
+   "Krakatau Steel",
+   "transaksi afiliasi",
+   "restrukturisasi anak usaha"
+  ],
+  "body": [
+   "PT Krakatau Steel (Persero) Tbk melaporkan transaksi afiliasi berupa penggabungan empat anak usahanya, yaitu PT Krakatau Baja Konstruksi (KBK), PT Krakatau Baja Industri (KBI), PT Krakatau Konsultan (KK), dan PT Krakatau Perbengkelan dan Perawatan (KPdP). Dalam penggabungan ini, KBK bertindak sebagai perusahaan penerima sehingga tiga entitas lain melebur ke dalamnya. Transaksi tercatat pada 30 September 2026 berdasarkan Akta Nomor 25 yang dibuat di hadapan notaris Muhammad Muazzir, S.H., M.Kn. di Cilegon.",
+   "Keempat perusahaan yang digabung merupakan anak usaha yang dikuasai KRAS dengan kepemilikan saham masing-masing paling sedikit 99 persen, secara langsung pada KBK dan KBI, serta secara tidak langsung pada KK dan KPdP. Karena hubungan kepemilikan itu, transaksi digolongkan sebagai transaksi afiliasi menurut POJK 42/2020, tetapi dikecualikan dari kewajiban memenuhi prosedur khusus seperti penunjukan penilai independen, berdasarkan Pasal 6 ayat 1 huruf b POJK yang sama. Perseroan juga menegaskan transaksi ini bukan transaksi benturan kepentingan dan bukan transaksi material menurut POJK 17/2020.",
+   "KRAS menyatakan penggabungan ini sejalan dengan strategi bisnis perseroan dan tidak berdampak pada kegiatan operasional, kondisi hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ditandatangani oleh Rachman Hidayat selaku Pelaksana Tugas Corporate Secretary KRAS."
+  ],
+  "fotoAdegan": "Workers walking past stacked steel coils and welding stations inside a large industrial steel fabrication workshop, overcast daylight",
+  "takeaway": "Laporan ini netral bagi pemegang saham KRAS, sebab penggabungan hanya terjadi di antara anak-anak usaha yang sudah dikuasai penuh perseroan, minimal 99 persen kepemilikan di masing-masing entitas, bukan peristiwa yang melibatkan pihak luar atau menyuntikkan dana baru ke dalam grup. Karena keempat entitas yang digabung sudah tercakup dalam laporan keuangan konsolidasi KRAS, penggabungan ini pada dasarnya hanya menyederhanakan struktur kelompok usaha dari empat badan hukum menjadi satu, tanpa menambah atau mengurangi aset, kewajiban, maupun ekuitas KRAS secara konsolidasi. Yang perlu dipantau selanjutnya adalah kapan status badan hukum penggabungan ini resmi efektif secara hukum, sebab dokumen ini baru mencantumkan tanggal penandatanganan akta pada 30 September 2026 tanpa menyebut tanggal efektifnya, serta apakah KRAS akan melanjutkan langkah konsolidasi serupa pada anak usaha lain sebagai bagian dari perampingan grup.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dnrk-laporkan-ulang-realisasi-dana-obligasi-viii-ke-ojk",
+  "category": "Aksi Korporasi",
+  "title": "DNRK laporkan ulang [realisasi] dana Obligasi VIII ke OJK",
+  "deck": "Danareksa menyampaikan kembali laporan realisasi penggunaan dana Obligasi VIII senilai Rp1 triliun menyusul tanggapan OJK, dengan sisa dana Rp79,13 miliar disimpan di deposito afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T18:11:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b931d3be29_a43c4af957.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DNRK",
+  "tags": [
+   "DNRK",
+   "Danareksa",
+   "obligasi",
+   "OJK"
+  ],
+  "body": [
+   "PT Danareksa (Persero) atau DNRK menyampaikan kembali laporan realisasi penggunaan dana hasil Obligasi VIII Danareksa Tahun 2023 untuk periode 30 Juni 2026. Penyampaian ulang ini dilakukan setelah Otoritas Jasa Keuangan mengirim surat tanggapan bernomor S-2421/PM.221/2026 tertanggal 22 September 2026 atas laporan realisasi yang sebelumnya sudah dikirim Danareksa pada 2 Juli 2026. Obligasi ini bernilai Rp1 triliun, efektif sejak 9 Januari 2024, dengan biaya penerbitan Rp12,32 miliar sehingga dana bersih yang diterima Danareksa adalah Rp987,68 miliar.",
+   "Menurut prospektus, dana itu direncanakan terbagi dua: 50 persen atau Rp500 miliar untuk melunasi pokok utang perbankan Danareksa, dan 50 persen atau Rp487,68 miliar untuk pinjaman ke perusahaan anak guna kegiatan investasi. Hingga periode laporan, porsi pelunasan utang bank sudah terealisasi penuh sebesar Rp500 miliar. Sementara pinjaman ke perusahaan anak baru terealisasi Rp408,55 miliar, setara 42 persen dari total dana hasil obligasi, sehingga masih menyisakan dana Rp79,13 miliar yang untuk sementara ditempatkan dalam deposito berjangka satu bulan dengan bunga 4,75 persen per tahun pada pihak yang berafiliasi dengan Danareksa.",
+   "Dari total biaya penerbitan Rp12,32 miliar, porsi terbesar adalah biaya jasa profesi penunjang pasar modal sebesar Rp5,175 miliar atau 42 persen, disusul biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi senilai Rp4,03 miliar atau 32,67 persen, dan biaya jasa penyelenggaraan (management fee) Rp2 miliar atau 16,23 persen. Dalam surat yang ditandatangani Ahmad Fauzie Nur, Direktur Keuangan dan Manajemen Risiko, Danareksa juga menyatakan akan mengirim surat susulan paling lambat 9 Oktober 2026 yang memuat bukti pengumuman laporan realisasi di situs web perusahaan dan situs web Bursa Efek Indonesia, serta bukti pemindahan sisa dana obligasi ke rekening penampungan khusus."
+  ],
+  "fotoAdegan": "Workers in a corporate lobby of a Jakarta office tower, polished floors, financial district skyline through windows, daytime",
+  "takeaway": "Laporan ini netral bagi Danareksa: penggunaan dana obligasi berjalan sesuai rencana prospektus, dan dana yang belum terpakai jumlahnya kecil dibanding total emisi serta tetap menghasilkan bunga selama menganggur. Yang tersentuh di sini adalah arus kas dan beban bunga perseroan, karena pelunasan penuh Rp500 miliar utang perbankan mengurangi kewajiban bunga ke depan, sementara sisa dana Rp79,13 miliar yang mengendap di deposito berarti ada dana yang belum produktif dipakai untuk investasi lewat perusahaan anak. Yang perlu dicermati adalah surat susulan yang dijanjikan paling lambat 9 Oktober 2026, karena isinya berupa bukti pengumuman laporan ke publik dan bukti pemindahan sisa dana ke rekening penampungan khusus sesuai permintaan OJK, dua hal yang menunjukkan apakah Danareksa sudah sepenuhnya memenuhi aturan keterbukaan penggunaan dana obligasi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bmtr-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "BMTR Jawab Bursa Soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "BEI meminta penjelasan atas volatilitas transaksi saham BMTR. Global Mediacom membantah ada informasi material, namun akan mengecek rencana pemegang saham mayoritasnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T18:01:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fbb150c673_90c7522199.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMTR",
+  "tags": [
+   "BMTR",
+   "Global Mediacom",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Global Mediacom Tbk (BMTR) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi sahamnya. Surat permintaan BEI bernomor S-12498/BEI.PP2/09-2026 diterima perseroan secara elektronik lewat sistem speidxnet pada 29 September 2026. Jawaban resmi perseroan, surat nomor 067-BEI/MCOM-CS/INT/IX/2026 tertanggal 30 September 2026, ditujukan kepada Adi Pratomo Aryanto selaku Kepala Divisi Penilaian Perusahaan 2 BEI, dan dipublikasikan lewat keterbukaan informasi pada 1 Oktober 2026 pukul 18.01 WIB.",
+   "Dalam suratnya, Global Mediacom menyatakan sampai dengan tanggal surat tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal sesuai POJK 31/2015. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka, serta tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang akan berdampak pada status pencatatan sahamnya di bursa. Tidak ada pula informasi material lain yang belum diungkapkan ke publik, menurut jawaban resmi tersebut.",
+   "Satu poin yang menonjol dari surat ini, perseroan menyatakan akan mengonfirmasi hal-hal tersebut kepada pemegang saham mayoritas untuk mengantisipasi kemungkinan adanya transaksi tertentu yang akan dilakukan oleh pemegang saham mayoritas itu. Surat ditandatangani oleh Corporate Secretary Christophorus Taufik Siswandi."
+  ],
+  "fotoAdegan": "Stock exchange trading floor with brokers in motion between desks, multiple screens blurred in the background, fluorescent lighting",
+  "takeaway": "Respons ini netral bagi Global Mediacom karena tidak membuka fakta material baru, hanya menegaskan manajemen tidak mengetahui penyebab pergerakan harga sahamnya yang tidak biasa. Surat semacam ini lazim dipicu lonjakan atau penurunan volume transaksi di bursa, sehingga tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, beban bunga, atau laba per saham, ini murni soal perilaku perdagangan di pasar sekunder, bukan soal fundamental perusahaan. Yang justru layak dicermati adalah rencana manajemen mengecek ke pemegang saham mayoritas soal kemungkinan transaksi yang akan mereka lakukan, sebab transaksi besar oleh pemegang saham utama bisa mengubah peta kepemilikan dan hak suara di BMTR. Pembaca perlu menunggu apakah Global Mediacom menerbitkan keterbukaan informasi susulan setelah konfirmasi ke pemegang saham mayoritas itu rampung, atau apakah Bursa menaikkan status pemantauan atas sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bhit-jelaskan-ke-bei-lonjakan-transaksi-harga-turun-4-76",
+  "category": "Aksi Korporasi",
+  "title": "BHIT Jelaskan ke BEI [Lonjakan] Transaksi, Harga Turun 4,76%",
+  "deck": "Setelah volume sahamnya melonjak sembilan kali lipat dan harga turun 4,76 persen pada 28 September, MNC Asia Holding menyatakan ke bursa tak ada informasi material di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T17:58:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/beeefc8545_94772167df.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BHIT",
+  "tags": [
+   "BHIT",
+   "MNC Asia Holding",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT MNC Asia Holding Tbk (BHIT) memberikan penjelasan kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi bernomor S-12550/BEI.PP2/09-2026 tertanggal 29 September 2026. Surat bursa itu memaparkan bahwa pada 28 September 2026 volume transaksi saham BHIT melonjak menjadi 284.142.300 saham dengan 4.976 kali transaksi, jauh di atas hari bursa sebelumnya yang hanya 29.582.400 saham dengan 459 kali transaksi. Harga saham pada hari itu ditutup turun Rp1 atau 4,76 persen, dari Rp21 menjadi Rp20.",
+   "Dalam surat balasannya bernomor 054/BHIT/DIR/X/2026 tertanggal 1 Oktober 2026, manajemen BHIT menjawab lima pertanyaan standar yang diwajibkan bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek sebagaimana diatur POJK Nomor 31/POJK.04/2015, maupun informasi yang dapat memengaruhi harga saham menurut ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu seperti diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan dan penjaminan saham.",
+   "Soal rencana ke depan, BHIT menegaskan belum memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang dapat berakibat pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan mendatang terhitung sejak surat ini terbit. Perseroan juga menyatakan tidak ada informasi, fakta, atau kejadian penting lain yang material dan dapat memengaruhi harga sahamnya maupun kelangsungan usahanya yang belum diungkapkan ke publik. Surat ini ditandatangani oleh jajaran Direksi Perseroan."
+  ],
+  "fotoAdegan": "Wide exterior shot of a glass corporate office tower in Jakarta's Sudirman business district at dusk, illuminated windows, low angle",
+  "takeaway": "Penilaian saya netral, karena surat ini hanya jawaban wajib atas permintaan klarifikasi bursa dan tidak membawa informasi baru soal bisnis BHIT. Tidak ada pos ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang disinggung dalam dokumen ini, jadi lonjakan transaksi yang dipantau bursa itu murni soal pola jual beli di pasar, bukan perubahan kondisi keuangan perusahaan. Yang perlu diperhatikan adalah bahwa harga saham BHIT sudah di level sangat rendah, Rp20 per lembar, sehingga pergerakan harga sekecil Rp1 saja bisa tampak sebagai persentase besar. Yang layak dipantau selanjutnya adalah apakah pola transaksi ramai serupa terulang pada hari-hari berikutnya, dan apakah benar tidak ada aksi korporasi yang diumumkan BHIT dalam tiga bulan ke depan seperti yang dinyatakan dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "giaa-masuk-pemantauan-khusus-bei-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Masuk [Pemantauan Khusus] BEI, Ekuitas Negatif",
+  "deck": "Bursa Efek Indonesia memasukkan saham Garuda Indonesia (GIAA) ke daftar Efek Dalam Pemantauan Khusus mulai 2 Oktober 2026 karena ekuitas perusahaan tercatat negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T17:57:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c5fd1310a2_a1fa4f0996.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "GIAA",
+   "Garuda Indonesia",
+   "BEI",
+   "pemantauan khusus"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan saham PT Garuda Indonesia (Persero) Tbk dengan kode GIAA masuk ke dalam daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus, berdasarkan pengumuman bernomor Peng-PK-00071/BEI.PLP/10-2026 yang diterbitkan 1 Oktober 2026. Status ini berlaku efektif mulai 2 Oktober 2026. Saham GIAA tercatat di Papan Pengembangan dan keterangan pada pengumuman menyebut status 'Masuk' alias baru pertama kali dikenakan pemantauan ini, bukan perpanjangan dari status sebelumnya.",
+   "Alasan masuknya GIAA ke daftar ini adalah kriteria nomor 5 dari sebelas kriteria yang diatur BEI, yaitu perusahaan memiliki ekuitas negatif pada laporan keuangan terakhir. BEI juga mencantumkan sepuluh kriteria lain yang bisa memicu status pemantauan khusus, mulai dari harga saham di bawah Rp51 disertai likuiditas rendah, opini disclaimer dari auditor, tidak ada pendapatan, free float di bawah batas minimum, hingga kondisi perusahaan dimohonkan pailit atau PKPU. Namun untuk GIAA, hanya kriteria ekuitas negatif yang disebutkan sebagai pemicu.",
+   "Pengumuman ditandatangani oleh Teuku Fahmi Ariandar, Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI, dan diterbitkan secara elektronik tanpa memerlukan tanda tangan basah. BEI tidak merinci angka ekuitas negatif GIAA dalam pengumuman ini dan mengarahkan publik untuk melihat pengumuman lengkap melalui laman resmi BEI dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus."
+  ],
+  "fotoAdegan": "Ground crew walking beside a parked wide-body airplane on an airport tarmac, overcast morning light, Indonesia",
+  "takeaway": "Masuknya GIAA ke daftar pemantauan khusus ini negatif bagi penilaian fundamental Garuda, karena pemicunya bukan sekadar harga saham murah atau transaksi sepi, melainkan ekuitas negatif. Ekuitas adalah selisih antara total aset perusahaan dan total utangnya, jadi kalau angkanya negatif berarti utang Garuda sudah melampaui asetnya, tanda bahwa modal pemegang saham sudah terkikis habis oleh kerugian yang menumpuk. Pelaku pasar memperhatikan pos ini karena ekuitas negatif biasanya menandakan perusahaan bergantung pada utang untuk membiayai operasinya dan punya ruang gerak keuangan yang sempit. Status ini berlaku efektif 2 Oktober 2026, dan yang perlu dipantau berikutnya adalah laporan keuangan Garuda selanjutnya untuk melihat apakah ekuitasnya membaik lewat restrukturisasi utang atau suntikan modal, atau justru makin dalam negatif.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cash-keluar-dari-pemantauan-khusus-naik-ke-papan-akselerasi",
+  "category": "Aksi Korporasi",
+  "title": "CASH Keluar dari [Pemantauan Khusus], Naik ke Papan Akselerasi",
+  "deck": "BEI mencabut status pemantauan khusus saham PT Cashlez Worldwide Indonesia Tbk (CASH) dan memindahkannya ke Papan Akselerasi, efektif 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T17:56:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eebda25f98_f0cc51596e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "CASH",
+   "Bursa Efek Indonesia",
+   "Pemantauan Khusus",
+   "Papan Akselerasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mencabut status Pemantauan Khusus pada saham PT Cashlez Worldwide Indonesia Tbk dengan kode CASH, berlaku efektif mulai 2 Oktober 2026. Pengumuman resmi bernomor Peng-CK-00077/BEI.PLP/10-2026 itu diteken Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI, Teuku Fahmi Ariandar. Dengan pencabutan ini, papan pencatatan saham CASH berubah dari Papan Pemantauan Khusus menjadi Papan Akselerasi.",
+   "Dalam tabel pengumuman, BEI mencantumkan kriteria nomor 5 sebagai dasar saham CASH sebelumnya masuk pemantauan khusus, yakni ekuitas negatif pada laporan keuangan terakhir perusahaan. Status yang tercantum untuk kriteria itu kini berubah menjadi 'Keluar / Exit', yang berarti saham tersebut sudah tidak lagi memenuhi kondisi ekuitas negatif yang menjadi alasan awal pencantumannya di papan pemantauan khusus.",
+   "BEI menjelaskan bahwa Papan Pemantauan Khusus adalah klasifikasi bagi saham yang dianggap berisiko tinggi, dengan sejumlah kriteria pemicu seperti harga rata-rata di bawah Rp51 disertai likuiditas rendah, opini auditor disclaimer, tidak membukukan pendapatan, kepemilikan saham publik di bawah ambang batas, hingga kondisi perusahaan yang dimohonkan pailit atau PKPU. Saham yang masuk papan ini biasanya dikenai aturan perdagangan yang lebih ketat dibanding papan reguler."
+  ],
+  "fotoAdegan": "Close-up of a hand tapping a contactless card on a small handheld payment terminal at a retail counter in Jakarta",
+  "takeaway": "Pencabutan status pemantauan khusus ini condong positif bagi CASH, karena menandakan kondisi ekuitas perusahaan sudah tidak lagi berada dalam kategori negatif yang sebelumnya membuatnya ditandai berisiko oleh bursa. Pos yang tersentuh di sini adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan atau modal bersih yang jadi hak pemegang saham. Kalau ekuitas negatif, artinya utang perusahaan lebih besar dari asetnya, sehingga pelaku pasar biasa menganggapnya tanda kesehatan keuangan yang rapuh, dan membaiknya posisi ini jadi sinyal yang dipantau. Yang perlu diperhatikan selanjutnya adalah laporan keuangan CASH berikutnya, karena jika ekuitasnya kembali negatif, saham ini berisiko dimasukkan lagi ke Papan Pemantauan Khusus oleh BEI.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bach-teken-kredit-rp450-miliar-dengan-maybank-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "BACH Teken [Kredit] Rp450 Miliar dengan Maybank Indonesia",
+  "deck": "BACH menandatangani perjanjian kredit Rp450 miliar dengan Bank Maybank Indonesia untuk belanja modal dan modal kerja, setara 73 persen dari ekuitas perseroan per Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T17:47:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f99b31166_b0ff1e7176.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BACH",
+  "tags": [
+   "BACH",
+   "kredit",
+   "Maybank Indonesia",
+   "transaksi material"
+  ],
+  "body": [
+   "PT Bach Multi Global Tbk (BACH) menandatangani Perjanjian Kredit Nomor 30 tertanggal 30 September 2026 dengan PT Bank Maybank Indonesia Tbk, di hadapan notaris Veronica Nataadmadja di Jakarta. Total fasilitas yang diperoleh mencapai Rp450 miliar, setara 73 persen dari ekuitas perseroan berdasarkan laporan keuangan konsolidasian interim per 30 Juni 2026, sehingga transaksi ini masuk kategori transaksi material menurut aturan OJK.",
+   "Fasilitas tersebut terbagi dua. Pertama, Fasilitas Pinjaman Berjangka dengan plafon maksimal Rp300 miliar untuk membiayai belanja modal perseroan, dengan jangka waktu lima tahun sejak tanggal penandatanganan. Kedua, Fasilitas Omnibus Working Capital dengan plafon maksimal Rp150 miliar atau setara dalam mata uang asing untuk kebutuhan modal kerja, dengan jangka waktu satu tahun sejak penandatanganan. Perjanjian ini mengikuti hukum Indonesia.",
+   "Perseroan menyatakan transaksi ini termasuk transaksi material yang dikecualikan dari kewajiban memakai jasa penilai independen, karena tergolong pinjaman yang diterima langsung dari bank sesuai Pasal 11 huruf b POJK 17. Dewan Komisaris dan Direksi BACH juga menegaskan transaksi ini bukan transaksi afiliasi dan tidak mengandung benturan kepentingan, serta tidak berdampak material yang merugikan terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Rows of industrial diesel generator sets in an open storage yard, workers checking cables, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental BACH: fasilitas kredit baru ditujukan untuk belanja modal dan modal kerja, bukan sinyal bahaya tapi juga bukan otomatis kabar baik karena menambah utang berbunga dalam jumlah besar. Pos yang tersentuh adalah beban bunga, yakni biaya yang harus dibayar perseroan setiap tahun atas pinjaman ini, dan pelaku pasar biasanya membandingkan beban itu dengan arus kas usaha BACH untuk menilai seberapa mudah perseroan membayar cicilan dan bunganya. Nilai pinjaman yang mencapai 73 persen dari ekuitas membuat rasio utang perseroan melonjak, sehingga kemampuan arus kas menyerap beban ini layak dicermati pada laporan keuangan berikutnya. Yang perlu dipantau selanjutnya adalah fasilitas modal kerja Rp150 miliar yang jatuh tempo dalam setahun, sekitar akhir September 2027, serta realisasi penggunaan dana untuk belanja modal yang biasanya dilaporkan perseroan secara berkala.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "saham-msin-bergejolak-manajemen-akui-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "Saham MSIN Bergejolak, Manajemen Akui Tak Ada Info [Material]",
+  "deck": "BEI meminta penjelasan atas volatilitas transaksi saham MSIN. Manajemen menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T17:33:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6b537aa61f_78cd69fefc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSIN",
+  "tags": [
+   "MSIN",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "HKEX"
+  ],
+  "body": [
+   "PT MNC Digital Entertainment Tbk (MSIN) memberikan penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan klarifikasi atas volatilitas transaksi sahamnya. Permintaan itu disampaikan BEI melalui surat nomor S-12388/BEI.PP2/09-2026 yang diterima perseroan pada 29 September 2026, dan dijawab MSIN lewat surat nomor 295/MDE-CORSEC/X/2026 tertanggal 1 Oktober 2026 yang ditandatangani Corporate Secretary Ahmad Alhafiz.",
+   "Dalam jawabannya, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta tidak mengetahui rencana pemegang saham utama terkait kepemilikan sahamnya di perseroan.",
+   "Soal rencana aksi korporasi, MSIN menegaskan tidak ada rencana dalam tiga bulan ke depan yang akan berdampak pada status pencatatan sahamnya di bursa, selain rencana pencatatan saham sekunder di Bursa Efek Hong Kong (HKEX) yang sebelumnya sudah diumumkan pada 27 April 2026 melalui surat nomor 150/MDE-CORSEC/IV/2026. Perseroan menyatakan tidak memiliki informasi atau kejadian penting lain yang material dan belum diungkapkan kepada publik, dan akan melakukan keterbukaan informasi sesuai ketentuan jika ada perkembangan baru."
+  ],
+  "fotoAdegan": "Technicians working in a television broadcast control room, rows of blurred video monitors glowing, dim blue lighting",
+  "takeaway": "Laporan ini netral, karena isinya sebatas konfirmasi rutin bahwa manajemen tidak mengetahui ada informasi material di balik gejolak harga sahamnya, tanpa ada angka keuangan atau aksi korporasi baru yang diungkap. Satu-satunya hal yang bersinggungan dengan struktur modal perseroan adalah rencana pencatatan saham sekunder di Bursa Efek Hong Kong, yang jika benar terealisasi nanti berpotensi menambah basis investor dan dana perseroan, tapi dalam surat ini rencana tersebut hanya diulang dari pengumuman April lalu tanpa rincian baru soal jumlah saham atau target dana. Perseroan juga menegaskan tidak tahu rencana pemegang saham utamanya atas kepemilikannya, sehingga belum ada sinyal perubahan pengendalian perusahaan. Yang perlu dipantau selanjutnya adalah perkembangan proses pencatatan saham di HKEX tersebut, serta kemungkinan permintaan penjelasan serupa dari BEI apabila volatilitas transaksi saham MSIN berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rgas-kantongi-rp59-5-miliar-fasilitas-kredit-bsi-agunan-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "RGAS Kantongi Rp59,5 Miliar [Fasilitas Kredit] BSI, Agunan Afiliasi",
+  "deck": "Kian Santang Muliatama menambah limit line facility BSI dari Rp20 miliar menjadi Rp34,5 miliar dan memperoleh fasilitas baru Rp25 miliar, dengan agunan empat aset milik pihak afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T17:26:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24584719fb_29fe1b3eae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RGAS",
+  "tags": [
+   "RGAS",
+   "Bank Syariah Indonesia",
+   "Fasilitas Kredit",
+   "Minyak dan Gas"
+  ],
+  "body": [
+   "PT Kian Santang Muliatama Tbk (RGAS) mengumumkan telah menandatangani perjanjian pembiayaan baru dengan PT Bank Syariah Indonesia (Persero) Tbk (BSI) pada 29 September 2026. Penandatanganan ini mencakup akad pembiayaan berdasarkan prinsip musyarakah, yaitu skema pembiayaan syariah berbasis bagi hasil, bernomor 06/833/CM1-FOG/IX/2026/MSYR, sekaligus addendum atau perubahan atas perjanjian line facility yang sudah berjalan sebelumnya. Perjanjian ini merujuk pada surat penawaran pembiayaan BSI tertanggal 28 September 2026.",
+   "Dalam transaksi ini, RGAS memperoleh tambahan limit sebesar Rp14,5 miliar untuk fasilitas Multiskim Line Facility Musyarakah atau Kafalah bil Ujrah, yang sifatnya bisa dipakai dan dibayar berulang (revolving). Dengan tambahan ini, total limit fasilitas tersebut naik dari semula Rp20 miliar menjadi Rp34,5 miliar, dengan masa berlaku sampai 20 Agustus 2027. Perusahaan menyebut dana ini akan dipakai sebagai modal kerja untuk proyek pengadaan dan kontraktor di sektor minyak dan gas yang dibiayai APBN maupun badan usaha milik negara, termasuk Pertamina Group.",
+   "Selain perpanjangan limit tersebut, RGAS juga memperoleh fasilitas baru bernama Pembiayaan Musyarakah ITSI dengan porsi modal dari bank sebesar Rp25 miliar. Fasilitas ini berjangka waktu 12 bulan, terhitung sejak 29 September 2026 sampai 25 September 2027, dan ditujukan untuk membiayai pembelian persediaan barang usaha di bidang migas. Dengan demikian, total dua fasilitas yang kini dimiliki RGAS dari BSI mencapai Rp59,5 miliar.",
+   "Sebagai jaminan, RGAS menyerahkan sembilan bidang tanah dan bangunan di Bekasi, Bogor, Depok, dan Jakarta Timur, ditambah pengikatan piutang usaha dan persediaan barang milik perusahaan. Dari sembilan aset itu, empat di antaranya bukan milik RGAS, melainkan milik pihak afiliasi, yaitu Sutarno, Pupy Haryani, Taufik Dwicahyono, dan PT Ergas Kians Ikonig. Selama fasilitas ini belum lunas, RGAS juga terikat sejumlah pembatasan dari BSI, antara lain tidak boleh mengubah susunan direksi atau komisaris, tidak boleh mencari pinjaman baru dari lembaga keuangan lain, dan hanya boleh membagikan dividen dengan syarat memberi tahu bank tertulis paling lambat 14 hari kalender setelah pembagian, sepanjang rasio keuangan yang disyaratkan bank tetap terpenuhi."
+  ],
+  "fotoAdegan": "Technicians checking pipe fittings and valves stacked in an industrial oil and gas equipment storage yard, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental RGAS: tambahan fasilitas pembiayaan memperbesar ruang gerak modal kerja perusahaan untuk mengerjakan proyek migas, tapi di saat yang sama menambah total utang berbunga dan membatasi sejumlah keputusan korporasi selama pinjaman belum lunas. Pos yang tersentuh adalah utang jangka pendek dan arus kas, yaitu catatan keluar masuknya uang perusahaan, karena perjanjian ini melarang RGAS mencari pinjaman tambahan dari lembaga lain dan mengatur ketat kapan dividen boleh dibagikan. Yang juga perlu dicermati, empat dari sembilan aset jaminan bukan milik RGAS sendiri melainkan milik pihak afiliasi, sehingga risiko kredit ini ikut melekat pada aset pribadi mereka, bukan cuma aset perusahaan. Yang perlu dipantau berikutnya adalah realisasi penyerapan dua fasilitas ini untuk proyek pengadaan Pertamina Group, serta kepatuhan RGAS menjelang jatuh tempo fasilitas pada 20 Agustus 2027 dan 25 September 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bata-direktur-ian-duncan-mcnab-cowe-mundur-diputuskan-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "BATA: Direktur Ian Duncan Mcnab Cowe [Mundur], Diputuskan RUPSLB",
+  "deck": "Direktur Sepatu Bata, Ian Duncan Mcnab Cowe, mengajukan pengunduran diri karena rotasi jabatan di Bata Group. Keputusan final menunggu RUPS perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T17:19:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8606495df5_e8bfd497b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BATA",
+  "tags": [
+   "BATA",
+   "direksi",
+   "pengunduran diri",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Sepatu Bata Tbk (BATA) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa perseroan telah menerima surat pengunduran diri Ian Duncan Mcnab Cowe dari jabatannya sebagai Direktur, tertanggal 30 September 2026. Perusahaan menyebut pengunduran diri ini terjadi sehubungan dengan rotasi jabatan di internal Bata Group, bukan karena sebab lain yang dijelaskan dalam surat tersebut.",
+   "Sesuai Pasal 19.9 Anggaran Dasar perseroan dan Pasal 8 ayat (3) POJK No. 33/2014 tentang Direksi dan Dewan Komisaris Emiten, permohonan pengunduran diri seorang direktur tidak otomatis berlaku begitu surat diterima, melainkan harus diputuskan dalam Rapat Umum Pemegang Saham. Artinya status Ian Duncan Mcnab Cowe sebagai Direktur BATA masih sah sampai pemegang saham secara resmi menyetujui pengunduran dirinya. Dalam laporan ini, manajemen menyatakan tidak ada dampak dari peristiwa tersebut terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ditandatangani oleh Sanusi selaku Corporate Secretary BATA.",
+   "Keputusan atas pengunduran diri ini kemungkinan menjadi salah satu agenda dalam Rapat Umum Pemegang Saham Luar Biasa yang sebelumnya telah diumumkan perseroan akan digelar pada 5 November 2026."
+  ],
+  "fotoAdegan": "Rows of finished leather shoes moving along a conveyor belt inside a footwear factory, workers inspecting quality under bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi BATA karena pengunduran diri terjadi akibat rotasi jabatan rutin di lingkup Bata Group, bukan konflik atau masalah kinerja, dan perseroan sendiri menegaskan tidak ada dampak ke operasional maupun keuangan. Yang tersentuh di sini adalah susunan direksi, bukan pos keuangan seperti ekuitas atau laba per saham, tapi pelaku pasar tetap memperhatikan perubahan direksi karena bisa menandakan pergeseran arah strategi atau stabilitas manajemen perusahaan. Perlu diingat, status direktur ini belum benar-benar berakhir sampai pemegang saham menyetujuinya dalam RUPS, sesuai aturan anggaran dasar dan POJK 33/2014. Yang perlu dipantau selanjutnya adalah RUPSLB yang telah diagendakan pada 5 November 2026, karena di situlah pengunduran diri ini kemungkinan resmi disahkan, sekaligus kemungkinan ada pengumuman pengganti posisi direktur tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "soss-bantah-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "SOSS Bantah Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Menjawab surat Bursa Efek Indonesia soal lonjakan transaksi, ALSOK Indonesia Services (SOSS) menyatakan tidak ada informasi tersembunyi maupun rencana aksi korporasi dalam waktu dekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T17:17:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/64e9e53c5d_fa5a79f8d2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOSS",
+  "tags": [
+   "SOSS",
+   "ALSOK Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT ALSOK Indonesia Services Tbk (SOSS) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi bernomor S-12535/BEI.PP1/09-2026 tertanggal 29 September 2026 terkait volatilitas transaksi saham perseroan. Dalam surat balasan bernomor S.041/X/2026/CORPSEC tertanggal 1 Oktober 2026 yang ditandatangani Direktur Utama Yoshinobu Nagao, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik yang dapat memengaruhi nilai maupun harga efeknya, baik merujuk pada POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E.",
+   "Perseroan juga menegaskan tidak menerima laporan atau mengetahui aktivitas tertentu dari pemegang saham yang berkaitan dengan kenaikan aktivitas dan harga sahamnya, sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham. Untuk rencana ke depan, SOSS menyatakan belum mengambil keputusan atas aksi korporasi apa pun dalam tiga bulan mendatang, termasuk yang berpotensi memengaruhi status pencatatan sahamnya di bursa.",
+   "Soal pemegang saham utama dan pengendali, Corporate Secretary perseroan mengonfirmasi bahwa hingga tanggal surat, tidak ada rencana transaksi atau perubahan kepemilikan saham yang perlu diumumkan ke publik. Perseroan berjanji akan memenuhi kewajiban keterbukaan informasi apabila di kemudian hari muncul fakta material baru yang wajib dilaporkan ke bursa maupun publik."
+  ],
+  "fotoAdegan": "Uniformed security guard walking through a modern Jakarta office building lobby at dusk, glass facade reflecting city lights",
+  "takeaway": "Surat ini netral bagi fundamental ALSOK Indonesia, karena isinya adalah bantahan standar bahwa tidak ada informasi tersembunyi di balik pergerakan sahamnya, bukan pengumuman yang mengubah kondisi keuangan perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar yang tersentuh di sini, karena surat ini murni jawaban kepatuhan atas permintaan bursa, bukan laporan transaksi atau aksi korporasi. Yang perlu dipantau berikutnya adalah apakah Bursa Efek Indonesia kemudian menetapkan status pemantauan khusus atau Unusual Market Activity pada saham SOSS menyusul surat bursa tertanggal 29 September 2026 itu, serta apakah dalam tiga bulan ke depan perseroan benar-benar mengambil keputusan aksi korporasi yang saat ini masih disebut belum ditetapkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "idea-gelar-rupslb-23-oktober-rombak-direksi-dan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Gelar RUPSLB 23 Oktober, Rombak [Direksi] dan Komisaris",
+  "deck": "RUPSLB IDEA digelar 23 Oktober 2026, membahas pergantian direksi dan komisaris, penegasan susunan pemegang saham, serta penyesuaian anggaran dasar dengan KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T17:11:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2624d07aa_11ab00237d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDEA",
+  "tags": [
+   "IDEA",
+   "RUPSLB",
+   "Direksi-Komisaris",
+   "Pemegang Saham"
+  ],
+  "body": [
+   "Direksi PT Idea Indonesia Akademi Tbk (IDEA) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Jumat, 23 Oktober 2026, pukul 14.00 WIB di Aleesha Venue, Jalan Wr. Sila No. 1, Cipedak, Jagakarsa, Jakarta Selatan. Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan bursa pada 30 September 2026. Pemanggilan resmi disampaikan Corporate Secretary IDEA, Nurul Hidayati, pada 1 Oktober 2026, merujuk pada surat perseroan sebelumnya tertanggal 16 September 2026.",
+   "RUPSLB ini membawa tiga agenda. Agenda pertama adalah persetujuan atas perubahan susunan direksi dan dewan komisaris perseroan, yang menurut dokumen pemanggilan harus mendapat persetujuan rapat berdasarkan POJK No. 33/POJK.04/2014 dan anggaran dasar perseroan, meski nama calon pengganti belum diungkap dalam pemanggilan ini. Agenda kedua adalah penegasan atas susunan pemegang saham perseroan sesuai Daftar Pemegang Saham terkini, tanpa rincian angka kepemilikan dalam dokumen pemanggilan.",
+   "Agenda ketiga adalah persetujuan perubahan Pasal 3 Anggaran Dasar tentang maksud, tujuan, dan kegiatan usaha perseroan, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) Tahun 2025, menyusul terbitnya Peraturan BPS No. 7/2025 pada 18 Desember 2025. Bahan rapat dapat diakses pemegang saham melalui situs resmi perseroan sejak tanggal pemanggilan, 1 Oktober 2026. Pemegang saham bisa hadir secara fisik atau elektronik lewat aplikasi eASY.KSEI, dengan batas waktu deklarasi kehadiran, kuasa, dan suara elektronik pukul 12.00 WIB pada satu hari kerja sebelum rapat, yakni 22 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs arranged in a modern meeting hall before a corporate event, soft morning light, Jakarta",
+  "takeaway": "Rapat ini netral untuk saat ini karena pemanggilannya baru mengumumkan agenda, tanpa menyebut nama calon direksi atau komisaris baru maupun rincian perubahan pemegang saham, sehingga belum ada angka konkret yang bisa dinilai dampaknya. Yang disentuh adalah tata kelola perusahaan, sebab siapa yang duduk di direksi dan komisaris menentukan arah strategi perseroan, sementara penegasan susunan pemegang saham penting dicermati karena berkaitan dengan rencana pengambilalihan oleh Nawasena yang sebelumnya dijawab IDEA ke bursa. Yang perlu dipantau adalah hasil rapat pada 23 Oktober 2026, terutama siapa yang disetujui menjadi direksi dan komisaris baru, serta apakah penegasan susunan pemegang saham itu mengonfirmasi pergeseran pengendali perusahaan. Pemegang saham yang ingin memberi suara lewat sistem elektronik KSEI, lembaga penyimpanan saham, harus mendaftar paling lambat pukul 12.00 WIB pada 22 Oktober 2026, sehari sebelum rapat digelar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "goto-jelaskan-volatilitas-saham-ungkap-rencana-pengurangan-modal",
+  "category": "Aksi Korporasi",
+  "title": "GOTO Jelaskan Volatilitas Saham, Ungkap Rencana [Pengurangan] Modal",
+  "deck": "GoTo menjelaskan ke BEI bahwa gejolak harga sahamnya dipicu keluarnya dari indeks MSCI dan FTSE, serta mengungkap rencana penarikan 32,19 miliar saham tresuri lewat RUPSLB 14 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T17:00:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf4c948216_2213bd51bf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GOTO",
+  "tags": [
+   "GOTO",
+   "volatilitas saham",
+   "pengurangan modal",
+   "MSCI"
+  ],
+  "body": [
+   "Menanggapi permintaan penjelasan Bursa Efek Indonesia melalui surat tertanggal 29 September 2026 soal gejolak transaksi sahamnya, PT GoTo Gojek Tokopedia Tbk menjelaskan bahwa penyebabnya bersifat teknis, bukan kinerja perusahaan. GoTo resmi keluar dari indeks MSCI Global Standard Indexes per 31 Agustus 2026 karena volume perdagangan yang rendah, akibat sahamnya tertahan di harga minimum Bursa sebesar Rp50 per saham sejak Mei 2026. Sebelumnya, pada 22 Juni 2026 GoTo juga sudah dikeluarkan dari indeks FTSE Global Equity Index Series (GEIS) Mid Cap karena statusnya tercatat di Papan Pengembangan BEI yang tidak memenuhi syarat indeks tersebut.",
+   "Keluarnya GoTo dari dua indeks itu memicu tekanan jual dari dana pasif atau passive funds, yaitu investor institusi asing yang portofolionya wajib mengikuti komposisi indeks acuan. Sejak Juni 2026 tekanan jual itu sebenarnya sudah terjadi, namun dana pasif tidak bisa benar-benar melepas saham GoTo karena harga sudah mentok di batas bawah Rp50. Begitu BEI menurunkan batas bawah harga saham atau floor price dari Rp50 menjadi Rp1 per saham efektif 28 September 2026, pemegang saham yang sebelumnya mengantre akhirnya bisa menjual, dan itulah yang membuat harga saham GoTo bergejolak dalam beberapa hari terakhir.",
+   "GoTo menyebut kinerja bisnisnya justru tumbuh. Pada kuartal II 2026 perusahaan mencatat laba bersih Rp252 miliar, laba positif dua kuartal berturut-turut, dengan pendapatan bersih Rp5,7 triliun dan EBITDA Yang Disesuaikan, yaitu ukuran laba operasional sebelum pos bunga, pajak, dan penyusutan yang disesuaikan dengan item tertentu, di atas Rp1 triliun. Perusahaan menyatakan masih berada di jalur target EBITDA setahun penuh sebesar Rp3,2 triliun sampai Rp3,4 triliun.",
+   "Soal aksi korporasi, GoTo masih memiliki sisa kuota pembelian kembali saham senilai hingga Rp3,5 triliun untuk periode 19 Juni 2026 sampai 18 Juni 2027, yang pelaksanaannya tergantung keputusan manajemen. Perusahaan juga akan meminta persetujuan pemegang saham dalam RUPSLB atau rapat umum pemegang saham luar biasa pada 14 Oktober 2026, untuk menghapus 32.186.417.802 saham tresuri Seri A, yaitu saham hasil pembelian kembali periode 12 Juni 2024 sampai 11 Juni 2025 yang disimpan perusahaan dan tidak beredar di pasar. Rencana ini menggantikan rencana sebelumnya yang akan membagikan saham tresuri itu sebagai program kepemilikan saham karyawan dan direksi atau ESOP/MSOP, dan GoTo memastikan pemegang saham pengendali yang menguasai hak suara Seri B tidak berencana mengubah kepemilikan sahamnya."
+  ],
+  "fotoAdegan": "Motorcycle taxi drivers parked in a row along a busy Jakarta street at midday, phones tucked away, chatting while waiting for passengers",
+  "takeaway": "Penjelasan ini kami nilai netral untuk GoTo: performa bisnisnya membaik dengan dua kuartal laba berturut-turut, tapi harga sahamnya masih dibebani tekanan jual teknis yang sebenarnya sudah mengantre sejak pertengahan tahun. Pos yang tersentuh di sini adalah jumlah saham beredar, karena rencana menghapus 32,19 miliar saham tresuri lewat pengurangan modal, bukan membagikannya ke karyawan dan direksi seperti rencana semula, akan mengecilkan jumlah saham yang tercatat di bursa dan secara matematis meringankan laba per saham, yaitu porsi laba yang menjadi hak tiap lembar saham. Penurunan batas bawah harga saham dari Rp50 menjadi Rp1 pekan lalu juga patut dicermati karena membuka pintu bagi investor yang sebelumnya terjebak untuk benar-benar menjual, sehingga volatilitas harga berpotensi berlanjut dalam waktu dekat. Yang perlu dipantau selanjutnya adalah hasil RUPSLB 14 Oktober 2026, saat pemegang saham memutuskan rencana pengurangan modal tersebut, serta sejauh mana GoTo merealisasikan sisa kuota pembelian kembali saham senilai Rp3,5 triliun yang berlaku sampai Juni 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "trin-jelaskan-anjlok-harga-saham-20-persen-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "TRIN Jelaskan [Anjlok] Harga Saham 20 Persen ke Bursa",
+  "deck": "Saham TRIN anjlok 20,11 persen dalam tiga hari perdagangan, tapi manajemen menyatakan tidak ada informasi material yang memicu penurunan tersebut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T16:53:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/08554a31f5_0e14f5a57b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIN",
+  "tags": [
+   "TRIN",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "properti"
+  ],
+  "body": [
+   "PT Perintis Triniti Properti Tbk (TRIN) menjawab permintaan penjelasan Bursa Efek Indonesia soal anjloknya harga saham perseroan dalam surat bernomor 156/CORSEC/PTP/X/2026 tertanggal 1 Oktober 2026. BEI sebelumnya mengirim surat permintaan penjelasan pada 29 September 2026 setelah mencatat harga saham TRIN turun kumulatif Rp70 atau 20,11 persen, dari Rp348 pada penutupan 22 September 2026 menjadi Rp278 pada 25 September 2026.",
+   "Yang menarik, penurunan harga ini justru terjadi saat aktivitas perdagangan mengendur. Rata-rata volume transaksi turun menjadi 41.097.367 saham dengan frekuensi 3.750 kali, dibandingkan 93.525.400 saham dengan frekuensi 10.392 kali pada 22 September 2026. BEI juga mencatat bahwa pada 25 September 2026, Indeks Harga Saham Gabungan turun 56,72 poin dan indeks sektor properti dan real estat turun 9,80 poin, sehingga pelemahan TRIN tidak lepas sepenuhnya dari tekanan pasar secara umum.",
+   "Dalam tanggapan yang ditandatangani Direktur Utama Ishak Chandra dan Corporate Secretary Citra Chandrika G. Putri, manajemen TRIN menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efek perseroan, serta tidak mengetahui adanya aktivitas pemegang saham tertentu di luar yang sudah diumumkan. Perseroan juga menegaskan tidak memiliki rencana aksi korporasi yang berdampak pada pencatatan sahamnya di Bursa dalam tiga bulan ke depan, dan pengendali maupun pemegang saham utama TRIN dikonfirmasi tidak memiliki rencana perubahan kepemilikan saham yang bersifat material."
+  ],
+  "fotoAdegan": "Exterior of a modern mixed-use residential and office tower under construction in a Tangerang suburb, cranes visible, late afternoon light",
+  "takeaway": "Laporan ini condong negatif: penurunan harga 20,11 persen dalam tiga hari disertai susutnya volume dan frekuensi transaksi menunjukkan tekanan jual yang nyata, bukan sekadar fluktuasi biasa, sementara manajemen tidak memberi penjelasan apa pun soal penyebabnya selain menyebut pelemahan indeks pasar dan sektor properti yang jauh lebih kecil skalanya. Ini murni soal pergerakan harga di pasar sekunder, jadi tidak langsung mengubah pos fundamental seperti ekuitas, arus kas, atau jumlah saham beredar perseroan, tapi penurunan setajam ini tetap menggerus nilai pasar saham dan bisa memengaruhi persepsi investor terhadap TRIN ke depan. Yang perlu dipantau berikutnya adalah apakah Bursa menindaklanjuti dengan status pemantauan khusus atau permintaan penjelasan lanjutan, serta apakah TRIN konsisten dengan pernyataannya tidak akan mengumumkan aksi korporasi material dalam tiga bulan mendatang seperti yang tertulis dalam surat ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "otma-resmi-merger-ke-summit-oto-finance-badan-hukum-berakhir",
+  "category": "Aksi Korporasi",
+  "title": "OTMA Resmi [Merger] ke Summit Oto Finance, Badan Hukum Berakhir",
+  "deck": "Penggabungan PT Oto Multiartha (OTMA) ke PT Summit Oto Finance efektif 1 Oktober 2026. Seluruh aset, liabilitas, dan ekuitas beralih, status badan hukum OTMA berakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T16:39:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93b99ff145_ce0cf1ca2f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OTMA",
+  "tags": [
+   "OTMA",
+   "merger",
+   "Summit Oto Finance",
+   "perusahaan pembiayaan"
+  ],
+  "body": [
+   "PT Oto Multiartha (OTMA) mengumumkan bahwa penggabungan usahanya dengan PT Summit Oto Finance telah resmi efektif pada 1 Oktober 2026. Dalam skema ini, OTMA berperan sebagai perusahaan yang menggabungkan diri, sementara Summit Oto Finance menjadi perusahaan penerima penggabungan. Keterbukaan informasi ini disampaikan menyusul diterimanya pemberitahuan perubahan data perseroan dari Kementerian Hukum terkait penggabungan tersebut.",
+   "Sebagai konsekuensi hukum dari penggabungan, seluruh aset, liabilitas, dan ekuitas OTMA beralih secara otomatis karena hukum kepada PT Summit Oto Finance sejak tanggal efektif tersebut. Status badan hukum OTMA sebagai entitas tersendiri akan berakhir sesuai ketentuan peraturan perundang-undangan yang berlaku, sehingga ke depannya seluruh hak dan kewajiban yang sebelumnya melekat pada OTMA menjadi tanggung jawab Summit Oto Finance.",
+   "Laporan bernomor 238/DIR-OTO/IX/2026 ini ditandatangani oleh Silvia Ayuningsih selaku Corporate Secretary OTMA, dan disampaikan kepada Otoritas Jasa Keuangan serta Bursa Efek Indonesia. Dalam dokumen tersebut, perseroan menyatakan tidak ada keterangan tambahan lain terkait proses penggabungan ini."
+  ],
+  "fotoAdegan": "Rows of parked motorcycles at a vehicle financing company lot, staff walking between them, late afternoon light in a Jakarta suburb",
+  "takeaway": "Laporan ini netral bagi pemangku kepentingan OTMA, karena isinya hanya mengonfirmasi tanggal efektif dari proses penggabungan usaha yang lazimnya sudah melalui tahap persetujuan sebelumnya, tanpa ada angka keuangan baru yang menunjukkan kondisi membaik atau memburuk. Pos yang tersentuh adalah ekuitas, yakni seluruh kekayaan bersih OTMA, bersama seluruh aset dan utangnya, kini berpindah secara hukum ke PT Summit Oto Finance, sehingga kewajiban yang dulu melekat pada OTMA (termasuk kepada pemegang surat utang atau kreditornya) kini menjadi tanggung jawab Summit Oto Finance sebagai entitas penerus. Yang perlu dipantau selanjutnya adalah proses formal pembubaran badan hukum OTMA sesuai aturan yang berlaku, serta bagaimana Summit Oto Finance mengomunikasikan pengalihan kewajiban ini kepada kreditor dan pemegang efek OTMA pascapenggabungan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beer-coret-agenda-ganti-direksi-komisaris-dari-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "BEER [Coret] Agenda Ganti Direksi-Komisaris dari RUPSLB",
+  "deck": "RUPSLB BEER pada 2 Oktober 2026 kini hanya membahas penyesuaian anggaran dasar ke klasifikasi usaha KBLI 2025, setelah agenda pergantian direksi dan komisaris dibatalkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T16:12:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/68e1184f5b_7a81a8859c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEER",
+  "tags": [
+   "BEER",
+   "RUPSLB",
+   "Perubahan Direksi",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Jobubu Jarum Minahasa Tbk (BEER), produsen minuman beralkohol hasil destilasi dan fermentasi, mengumumkan ralat atas pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya disampaikan pada 10 September 2026. Lewat surat bernomor 104/JJM/CORPSEC/IX/2026 yang diteken Sekretaris Perusahaan M. Dwi Hapsoro pada 1 Oktober 2026, perseroan menyatakan mata acara rapat mengenai perubahan susunan anggota Direksi dan Dewan Komisaris dihapus dari agenda.",
+   "Dengan pencoretan itu, RUPSLB yang dijadwalkan Jumat, 2 Oktober 2026 pukul 10.00 WIB di Jakarta Selatan hanya akan membahas satu agenda tunggal, yaitu persetujuan perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan kegiatan usaha perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025). Perseroan menjelaskan langkah ini bersifat administratif, untuk memenuhi ketentuan perizinan berusaha terintegrasi elektronik atau Online Single Submission (OSS) dan mendukung kelancaran izin usaha ke depan.",
+   "Rapat akan digelar secara elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Rabu, 9 September 2026 pukul 16.00 WIB, dengan batas deklarasi kehadiran elektronik pada 1 Oktober 2026 pukul 12.00 WIB. Surat pemberitahuan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia terkait ralat ini turut diteken oleh Direktur Utama Carlo Brix Tewu, merujuk pada POJK Nomor 15/2020 tentang Rencana Penyelenggaraan RUPS Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Technicians arranging chairs and audio-visual equipment in an empty corporate boardroom ahead of a virtual shareholders meeting, soft morning light, Jakarta office interior",
+  "takeaway": "Laporan ini netral bagi fundamental BEER, karena yang berubah hanya format agenda rapat, bukan angka keuangan, nilai transaksi, atau susunan pemegang saham. Yang patut digarisbawahi justru dicoretnya agenda pergantian Direksi dan Dewan Komisaris, yang berarti rencana itu untuk sementara tertunda tanpa kejelasan kapan akan diajukan ulang, sementara agenda yang tersisa, penyesuaian klasifikasi usaha KBLI 2025, hanya menyangkut kepatuhan izin berusaha dan tidak menyentuh ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham perseroan. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada Jumat, 2 Oktober 2026 pukul 10.00 WIB, serta apakah manajemen BEER akan mengumumkan jadwal baru untuk membahas pergantian direksi dan komisaris yang batal dibahas kali ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "sofn-rampungkan-penggabungan-usaha-dengan-oto-multiartha",
   "category": "Aksi Korporasi",
   "title": "SOFN Rampungkan [Penggabungan] Usaha dengan Oto Multiartha",

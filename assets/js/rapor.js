@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-01T02:36:08.224+07:00",
+ "diperbarui": "2026-10-02T02:43:53.507+07:00",
  "entri": [
+  {
+   "id": "2026-10-01-3",
+   "edisi": "2026-10-01",
+   "benang": "Tekanan Jual Meluas di Bursa, Mekanisme Darurat Diaktifkan",
+   "klaim": "Arahnya mengarah ke tekanan jual yang meluas dan direspons dengan mekanisme defensif oleh emiten besar maupun regulator.",
+   "penanda": "Pergerakan IHSG dan realisasi buyback pada pekan pertama Oktober.",
+   "tenggat": "2026-10-07",
+   "tenggatLabel": "pekan pertama Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-01-2",
+   "edisi": "2026-10-01",
+   "benang": "Ekspor dan Pariwisata Kuat, Dapur Tertekan",
+   "klaim": "Polanya mengarah ke indikator yang berorientasi luar negeri, yaitu ekspor, manufaktur, dan wisman, tetap kuat, sementara tekanan di belanja harian dan mobilitas domestik mulai terlihat di harga pangan dan okupansi hotel.",
+   "penanda": "Data inflasi dan penjualan eceran Oktober dari Bank Indonesia, untuk melihat apakah tekanan pangan ini mereda atau menjalar lebih jauh.",
+   "tenggat": "2026-11-10",
+   "tenggatLabel": "data inflasi dan penjualan eceran Oktober dari Bank Indonesia",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-01-1",
+   "edisi": "2026-10-01",
+   "benang": "Pajak Digital Dipungut Otomatis Lewat Pihak Ketiga",
+   "klaim": "Arahnya jelas menuju basis pajak digital yang terpungut otomatis dan lebih sulit dihindari.",
+   "penanda": "Realisasi penerimaan pajak digital pada laporan APBN bulan berikutnya, yang menunjukkan apakah skema pemungutan lewat pihak ketiga ini benar-benar mendongkrak setoran dibanding cara lama.",
+   "tenggat": "2026-11-30",
+   "tenggatLabel": "laporan APBN bulan berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-30-3",
    "edisi": "2026-09-30",
@@ -41,8 +74,13 @@ var RAPOR = {
    "penanda": "Hasil RUPSLB WSBP 2 Oktober soal skema konversi utang menjadi saham serta realisasi pembayaran kupon ADCP berikutnya",
    "tenggat": "2026-10-02",
    "tenggatLabel": "RUPSLB WSBP 2 Oktober serta realisasi pembayaran kupon ADCP berikutnya",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "wskt-peringkat-naik-ke-idb-obligasi-garansi-tetap-aaa",
+    "judul": "WSKT: Peringkat Naik ke idB, Obligasi Garansi Tetap AAA",
+    "tanggal": "1 Oktober 2026",
+    "alasan": "Artikel ini menunjukkan peringkat Waskita Karya (BUMN Karya) justru dinaikkan PEFINDO dari idCCC ke idB dengan obligasi garansi tetap AAA, bertentangan dengan klaim tekanan utang terus memburuk, sementara arsip tidak memuat artikel soal RUPSLB WSBP 2 Oktober atau kupon ADCP yang disebut dalam penanda uji."
+   }
   },
   {
    "id": "2026-09-29-3",

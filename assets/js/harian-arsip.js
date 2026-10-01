@@ -2,6 +2,109 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-10-01",
+  "tanggalLabel": "Kamis, 1 Oktober 2026",
+  "judul": "Pajak Digital Diperketat, Tekanan Bergeser ke Dapur dan Bursa",
+  "ringkas": "Hari ini negara memperluas cara memungut pajak digital lewat pihak ketiga, sementara data makro menunjukkan ekspor dan pariwisata tetap kuat di saat harga pangan dan pasar saham sama-sama menunjukkan tekanan.",
+  "benang": [
+   {
+    "judul": "Pajak Digital Dipungut Otomatis Lewat Pihak Ketiga",
+    "isi": "Mulai 25 September 2026, Ditjen Pajak memungut PPN atas transaksi digital luar negeri lewat enam bank dan fintek berdasarkan PMK Nomor 49 Tahun 2026, menutup celah transaksi yang lolos pajak karena platform asingnya tidak mendaftar sendiri. Hari ini giliran PPh Pasal 22 pedagang online mulai dipotong otomatis 0,5 persen dari nilai penjualan lewat empat marketplace, dipercepat sebulan dari jadwal semula 31 Oktober. Kedua kebijakan sama-sama tidak mengubah tarif, melainkan memindahkan tanggung jawab pemungutan dari wajib pajak atau penyedia layanan asing ke platform perantara yang lebih mudah diawasi pemerintah. Arahnya jelas menuju basis pajak digital yang terpungut otomatis dan lebih sulit dihindari. Yang akan menguatkan atau mematahkan pola ini adalah realisasi penerimaan pajak digital pada laporan APBN bulan berikutnya, yang menunjukkan apakah skema pemungutan lewat pihak ketiga ini benar-benar mendongkrak setoran dibanding cara lama."
+   },
+   {
+    "judul": "Ekspor dan Pariwisata Kuat, Dapur Tertekan",
+    "isi": "PMI manufaktur melompat dari 49,8 ke 52,4, ekspor Agustus naik 6,72 persen jadi US$26,61 miliar dengan manufaktur tumbuh 12,48 persen, dan surplus dagang melonjak ke US$3,55 miliar dari cuma US$0,12 miliar sebulan sebelumnya, sementara kunjungan wisatawan asing naik enam bulan beruntun ke 1,60 juta orang. Namun di saat sama, harga cabai, ayam, dan telur naik lebih cepat dari 0,88 persen menjadi 1,46 persen meski inflasi tahunan masih terkendali di 3,28 persen, dan okupansi hotel bintang turun dari 54,54 persen ke 52,52 persen, mengakhiri kenaikan lima bulan beruntun. Jumlah penumpang kereta api juga turun 7,29 persen dibanding Juli. Polanya mengarah ke indikator yang berorientasi luar negeri, yaitu ekspor, manufaktur, dan wisman, tetap kuat, sementara tekanan di belanja harian dan mobilitas domestik mulai terlihat di harga pangan dan okupansi hotel. Yang perlu dicermati adalah data inflasi dan penjualan eceran Oktober dari Bank Indonesia, untuk melihat apakah tekanan pangan ini mereda atau menjalar lebih jauh."
+   },
+   {
+    "judul": "Tekanan Jual Meluas di Bursa, Mekanisme Darurat Diaktifkan",
+    "isi": "IHSG melemah 1,02 persen hari ini sementara harga emas naik 1,61 persen, dan setidaknya sepuluh emiten, termasuk BMTR, BHIT, IFSH, MSIN, SOSS, BSWD, UNSP, BTEK, TRIN, dan IKAI, diminta bursa menjelaskan volatilitas transaksi sahamnya dalam beberapa hari terakhir, dengan ADMF turun 4,9 persen bersamaan lepasnya 4,53 persen saham pengendali di pasar negosiasi. Garuda Indonesia masuk daftar pemantauan khusus bursa mulai 2 Oktober karena ekuitas negatif, melanjutkan sorotan tata kelola yang kemarin menyasar dilusi saham bank dan maskapai, sementara DOOH menyiapkan rights issue dengan dilusi hingga 95,24 persen dan pinjaman Rp5 triliun dari pengendali, setara 1.615 persen ekuitasnya, untuk akuisisi saham INET. Di sisi lain, AALI dan UNTR membuka buyback senilai Rp400 miliar dan Rp2 triliun memakai aturan OJK khusus pasar bergejolak. Arahnya mengarah ke tekanan jual yang meluas dan direspons dengan mekanisme defensif oleh emiten besar maupun regulator. Penanda penguatan atau redanya tekanan ini adalah pergerakan IHSG dan realisasi buyback pada pekan pertama Oktober."
+   }
+  ],
+  "penutup": "Yang paling menentukan arah besok adalah apakah pelemahan IHSG hari ini berlanjut atau mereda seiring mulai berjalannya buyback UNTR dan AALI, serta apakah tekanan harga pangan jelang Oktober mulai tercermin di data inflasi berikutnya.",
+  "jumlahBahan": 78,
+  "bahanSlug": [
+   "ppn-transaksi-digital-luar-negeri-kini-dipungut-lewat-bank",
+   "pajak-penjual-online-mulai-dipungut-lebih-cepat-sebulan",
+   "esdm-petakan-zona-rawan-gempa-demi-tata-ruang-nagekeo",
+   "bahlil-rangkap-jabatan-koordinasi-hilirisasi-dan-energi-disatukan",
+   "surplus-dagang-ri-melesat-ke-us-3-55-miliar-pada-agustus",
+   "inflasi-september-terkendali-harga-pangan-mulai-menanjak",
+   "aali-siapkan-buyback-rp400-miliar-di-pasar-bergejolak",
+   "wifi-komisaris-utama-dan-direktur-mundur-rupslb-21-oktober",
+   "pertamina-salurkan-lpg-ke-958-koperasi-desa-merah-putih",
+   "harga-acuan-cpo-dan-kakao-naik-oktober-getah-pinus-turun",
+   "ekspor-agustus-tembus-us-26-61-miliar-manufaktur-jadi-penopang",
+   "bi-perluas-obligasi-korporasi-untuk-jaminan-likuiditas-bank",
+   "livin-by-mandiri-5-tahun-sbn-kini-jadi-agunan-kredit",
+   "ppgl-panggil-rupslb-23-oktober-bahas-saham-bonus-dan-modal",
+   "dooh-siapkan-rights-issue-dilusi-maksimal-95-24",
+   "ikai-tanggapi-permintaan-bursa-soal-volatilitas-saham",
+   "dooh-alihkan-rp120-miliar-dana-ipo-ke-akuisisi-saham-inet",
+   "dooh-terima-pinjaman-rp5-triliun-dari-sii-untuk-akuisisi-inet",
+   "dooh-ajukan-akuisisi-rp2-triliun-saham-inet-ke-rups-9-november",
+   "okupansi-hotel-bintang-agustus-turun-ke-52-52",
+   "wisman-agustus-tembus-1-60-juta-naik-6-bulan-beruntun",
+   "gtbo-ganti-direktur-laporan-molor-10-bulan-dari-rupslb",
+   "kkp-luncurkan-simulator-untuk-percepat-sertifikasi-awak-kapal",
+   "manufaktur-ri-kembali-ekspansi-surplus-dagang-melonjak",
+   "sofn-ubah-susunan-direksi-dan-komisaris-pasca-merger",
+   "admf-saham-pengendali-4-53-beralih-di-pasar-negosiasi",
+   "ifsh-jelaskan-ke-bei-soal-lonjakan-harga-saham-25",
+   "prda-ungkap-ke-bursa-penyebab-penurunan-kas-rp46-34-miliar",
+   "wapo-jelaskan-ke-bursa-akui-kesalahan-pencatatan-piutang-berelasi",
+   "atap-terima-pinjaman-rp10-miliar-dari-perusahaan-afiliasi",
+   "kras-gabungkan-empat-anak-usaha-jadi-satu-penggabungan",
+   "dnrk-laporkan-ulang-realisasi-dana-obligasi-viii-ke-ojk",
+   "bmtr-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
+   "bhit-jelaskan-ke-bei-lonjakan-transaksi-harga-turun-4-76",
+   "giaa-masuk-pemantauan-khusus-bei-ekuitas-negatif",
+   "cash-keluar-dari-pemantauan-khusus-naik-ke-papan-akselerasi",
+   "bach-teken-kredit-rp450-miliar-dengan-maybank-indonesia",
+   "saham-msin-bergejolak-manajemen-akui-tak-ada-info-material",
+   "rgas-kantongi-rp59-5-miliar-fasilitas-kredit-bsi-agunan-afiliasi",
+   "bata-direktur-ian-duncan-mcnab-cowe-mundur-diputuskan-rupslb",
+   "soss-bantah-ada-info-material-soal-volatilitas-saham",
+   "idea-gelar-rupslb-23-oktober-rombak-direksi-dan-komisaris",
+   "goto-jelaskan-volatilitas-saham-ungkap-rencana-pengurangan-modal",
+   "trin-jelaskan-anjlok-harga-saham-20-persen-ke-bursa",
+   "otma-resmi-merger-ke-summit-oto-finance-badan-hukum-berakhir",
+   "beer-coret-agenda-ganti-direksi-komisaris-dari-rupslb",
+   "sofn-rampungkan-penggabungan-usaha-dengan-oto-multiartha",
+   "wskt-peringkat-naik-ke-idb-obligasi-garansi-tetap-aaa",
+   "dgwg-targetkan-laba-rp250-miliar-bangun-pabrik-sumsel",
+   "brna-rilis-rights-issue-rp372-6-miliar-dilusi-capai-42-55",
+   "lmpi-rampungkan-rupslb-komisaris-independen-mundur",
+   "lppi-rombak-direksi-kursi-direktur-berkurang-jadi-empat",
+   "fast-perkara-pkpu-di-pn-niaga-jakarta-resmi-dicabut",
+   "ahap-kantongi-efektif-ojk-untuk-hmetd-rasio-7-5",
+   "btek-jawab-permintaan-bursa-soal-volatilitas-transaksi-saham",
+   "bei-setujui-maybank-jadi-liquidity-provider-waran-zp",
+   "bswd-bantah-ada-info-material-di-balik-volatilitas-saham",
+   "aadi-tuntaskan-divestasi-kestrel-nilai-us-814-juta",
+   "penumpang-ka-agustus-48-32-juta-turun-dari-juli",
+   "neraca-dagang-ri-agustus-surplus-us-3-55-m-melonjak",
+   "impor-ri-agustus-2026-turun-ke-us-23-1-m",
+   "ekspor-agustus-tembus-us-26-6-miliar",
+   "inflasi-september-2026-jadi-0-30",
+   "zp-sesuaikan-syarat-waran-enrg-jelang-rights-issue",
+   "link-direktur-yosafat-hutagalung-mundur-tunggu-rups",
+   "link-presiden-komisaris-vivek-sood-mundur",
+   "pipa-tunjuk-kjpp-nilai-75-saham-aztech-pandu-persada",
+   "unsp-bantah-ada-info-material-soal-volatilitas-saham",
+   "inkp-lunasi-obligasi-dan-sukuk-rp500-75-miliar",
+   "pupuk-indonesia-naik-ke-peringkat-14-fortune-100",
+   "itic-gelar-rupslb-9-november-2026",
+   "cnko-suntik-modal-rp27-5-miliar-ke-dua-anak-usaha-tambang",
+   "meja-tunjuk-kjpp-untuk-akuisisi-tambang-batu-bara",
+   "untr-buka-buyback-rp2-triliun-baru-di-tengah-pasar-bergejolak",
+   "penjualan-vktr-tumbuh-56-di-semester-i-2026",
+   "apic-catat-rugi-bersih-rp71-5-miliar-di-semester-i-2026",
+   "brna-koreksi-laporan-keuangan-siapkan-rights-issue-rp372-6-miliar",
+   "swat-jawab-bursa-ekuitas-ambruk-ke-rp12-46-m-kas-kritis"
+  ],
+  "dibuat": "2026-10-01T19:41:46.779Z"
+ },
+ {
   "tanggal": "2026-09-30",
   "tanggalLabel": "Rabu, 30 September 2026",
   "judul": "Kas Mengalir ke Investor, Utang Karya dan Dilusi Menekan",
@@ -2299,28 +2402,5 @@ var HARIAN_ARSIP = [
    "bei-lanjutkan-suspensi-saham-wika-usai-gagal-bayar-kupon"
   ],
   "dibuat": "2026-08-19T14:26:34.369Z"
- },
- {
-  "tanggal": "2026-08-18",
-  "tanggalLabel": "Selasa, 18 Agustus 2026",
-  "judul": "Rupiah Tertekan, Emas Jadi Pelarian, Utang PTPP Menumpuk",
-  "ringkas": "Rupiah tertekan ke kisaran Rp17.847 hingga Rp17.862 per dolar AS jelang keputusan BI Rate besok, sementara harga emas dan minat investor pada produk emas kompak naik, dan PTPP mengajukan restrukturisasi pada tiga instrumen utang sekaligus.",
-  "benang": [
-   {
-    "judul": "Rupiah Tertekan, BI Intervensi Jelang RDG",
-    "isi": "Rupiah bergerak melemah di kisaran Rp17.847 hingga Rp17.862 per dolar AS, tertekan kenaikan harga minyak dunia dan naiknya utang luar negeri, sementara Bank Indonesia tetap masuk ke pasar NDF untuk menahan pelemahan lebih lanjut. Utang luar negeri Indonesia naik 4,4 persen secara tahunan menjadi US$453,4 miliar pada triwulan II 2026, dengan rasio terhadap PDB 30,6 persen, namun kenaikan ini ditopang aliran dana asing yang membeli surat utang pemerintah dan SRBI, instrumen yang memang dipakai BI untuk menjaga rupiah. Pertumbuhan utang pemerintah sendiri justru melambat dari 3,8 persen ke 2,9 persen, sementara utang swasta mengecil. Arah tekanan pada rupiah sudah jelas masih berlanjut dengan BI mempertahankan pola intervensi, dan kepastiannya akan terlihat dari keputusan BI Rate yang dijadwalkan Rabu besok, 19 Agustus, yang diperkirakan bertahan di 5,75 persen."
-   },
-   {
-    "judul": "Emas Menguat di Semua Jalur Sekaligus",
-    "isi": "Harga emas Antam naik Rp18.000 menjadi Rp2.695.000 per gram, sejalan dengan harga acuan ekspor emas dari Kemendag yang naik 0,65 persen menjadi US$131.777,67 per kilogram untuk paruh kedua Agustus, didorong permintaan global yang menguat seiring suku bunga acuan dunia turun. Minat investor pada produk emas di pasar modal ikut naik, tampak dari penambahan 600.000 unit penyertaan ETF emas syariah XSGO menjadi 2,2 juta unit dan penambahan 1 juta unit ETF Emas Trimegah menjadi 110 juta unit, menyusul lonjakan 50 juta unit atau 85 persen sebelumnya. Arah kenaikan permintaan emas ini sudah jelas terlihat dari tiga jalur sekaligus, yaitu harga fisik, harga acuan ekspor, dan minat pada produk investasi. Kepastian arah berikutnya bisa dilihat dari harga acuan ekspor Kemendag periode 1-15 September serta arus masuk unit ETF emas pekan depan."
-   },
-   {
-    "judul": "Tekanan Utang PTPP Menjalar ke Tiga Instrumen",
-    "isi": "PTPP mengundang pemegang tiga instrumen utang berbeda ke rapat pada hari yang sama untuk membahas permohonan restrukturisasi, yaitu Obligasi Berkelanjutan IV Tahap I 2024, Sukuk Mudharabah Seri B, dan Obligasi Berkelanjutan III Tahap I 2021 Seri B, dengan RUPO dan RUPSu dijadwalkan 1 September 2026. Permohonan yang diajukan sendiri oleh perseroan untuk tiga instrumen sekaligus ini berbeda dari pola yang terlihat pada TAFS di hari yang sama, yang menyatakan dana pelunasan pokok obligasi Rp223,565 miliar yang jatuh tempo Oktober sudah tersedia dari kas internal. Arah tekanan pembayaran utang di PTPP tergolong jelas, menjalar ke lebih dari satu instrumen sekaligus dalam satu hari. Kepastian selanjutnya akan terlihat dari hasil RUPO dan RUPSu pada 1 September 2026, apakah pemegang obligasi dan sukuk menyetujui permohonan restrukturisasi tersebut."
-   }
-  ],
-  "penutup": "Yang paling menentukan besok adalah keputusan BI Rate, karena arah rupiah dan aliran dana ke surat utang pemerintah akan mengikuti sikap Bank Indonesia itu.",
-  "jumlahBahan": 34,
-  "dibuat": "2026-08-18T14:24:44.805Z"
  }
 ];

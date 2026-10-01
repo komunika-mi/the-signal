@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "GPIuDVxG0p8",
+  "title": "Mahasiswa UGM dan Dirut Agrinas Berdebat Soal Program Kopdes",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Perdebatan muncul antara mahasiswa UGM dan Direktur Utama Agrinas terkait program Koperasi Desa/Kelurahan Merah Putih yang digadang memperkuat ekonomi desa.",
+  "takeaway": "Perdebatan ini menyoroti efektivitas program Kopdes Merah Putih sebagai instrumen penguatan ekonomi desa yang tengah digencarkan pemerintah.",
+  "terbit": "2026-10-01T16:43:26+00:00"
+ },
+ {
+  "id": "LkR9k_g7GNA",
+  "title": "Kopdes Merah Putih: Dirut Agrinas vs Mahasiswa UGM",
+  "category": "UMKM",
+  "program": "Dua Sisi",
+  "summary": "Diskusi lengkap membahas pro dan kontra program Koperasi Desa/Kelurahan Merah Putih dalam upaya memperkuat ekonomi masyarakat desa.",
+  "takeaway": "Edisi lengkap ini memberi konteks lebih utuh atas perdebatan soal efektivitas Kopdes Merah Putih bagi pembaca yang mengikuti kebijakan ekonomi desa.",
+  "terbit": "2026-10-01T16:10:16+00:00"
+ },
+ {
+  "id": "xFuzH0B2EM4",
+  "title": "Dirut Agrinas: Kopdes Simbol Pembebasan Ekonomi Desa",
+  "category": "UMKM",
+  "program": "Dua Sisi",
+  "summary": "Direktur Utama Agrinas menyebut pembangunan Koperasi Desa/Kelurahan Merah Putih sebagai simbol pembebasan ekonomi bagi masyarakat desa.",
+  "takeaway": "Pernyataan ini penting untuk memahami narasi pemerintah di balik program Kopdes Merah Putih yang menyasar penguatan ekonomi desa.",
+  "terbit": "2026-10-01T15:58:37+00:00"
+ },
+ {
   "id": "bMCxx9r2LsA",
   "title": "Debat Dirut Agrinas vs Mahasiswa UGM soal Koperasi Merah Putih",
   "category": "UMKM",

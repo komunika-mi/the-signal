@@ -5,6 +5,114 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppn-transaksi-digital-luar-negeri-kini-dipungut-lewat-bank",
+  "category": "Makroekonomi",
+  "title": "PPN Transaksi Digital Luar Negeri Kini [Dipungut] Lewat Bank",
+  "deck": "Ditjen Pajak mulai memungut PPN atas transaksi digital luar negeri lewat enam bank dan fintek sejak 25 September 2026, berdasarkan PMK Nomor 49 Tahun 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/ppn-transaksi-digital-luar-negeri-kini-dipungut-lewat-bank.jpg",
+  "imageV": "mupsrqhd",
+  "tags": [
+   "PPN digital",
+   "Ditjen Pajak",
+   "SPP-TDLN",
+   "transaksi luar negeri"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pemerintah-mulai-terapkan-spp-tdln",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "pajak-penjual-online-mulai-dipungut-lebih-cepat-sebulan",
+  "category": "Bisnis",
+  "title": "Pajak Penjual Online Mulai Dipungut, Lebih [Cepat] Sebulan",
+  "deck": "DJP memulai pemungutan PPh Pasal 22 atas pedagang online lewat empat marketplace pada 1 Oktober 2026, lebih awal dari tenggat penyesuaian 31 Oktober yang sebelumnya dijanjikan.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/pajak-penjual-online-mulai-dipungut-lebih-cepat-sebulan.jpg",
+  "imageV": "mupsrrc1",
+  "tags": [
+   "PPh Pasal 22",
+   "Marketplace",
+   "Pajak Digital",
+   "DJP"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pemungutan-pph-pasal-22-melalui-marketplace-mulai-dilaksanakan-1-oktober-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "esdm-petakan-zona-rawan-gempa-demi-tata-ruang-nagekeo",
+  "category": "Energi",
+  "title": "ESDM Petakan Zona [Rawan] Gempa demi Tata Ruang Nagekeo",
+  "deck": "Kementerian ESDM mendorong Pemkab Nagekeo memasukkan tingkat kerawanan gempa, longsor, dan banjir ke dalam tata ruang pembangunan daerah.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/esdm-petakan-zona-rawan-gempa-demi-tata-ruang-nagekeo.jpg",
+  "imageV": "mupsrsq6",
+  "tags": [
+   "ESDM",
+   "Nagekeo",
+   "mitigasi bencana",
+   "tata ruang"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-dorong-tata-ruang-nagekeo-berbasis-mitigasi-bencana",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "bahlil-rangkap-jabatan-koordinasi-hilirisasi-dan-energi-disatukan",
+  "category": "Energi",
+  "title": "Bahlil Rangkap Jabatan, Koordinasi [Hilirisasi] dan Energi Disatukan",
+  "deck": "Presiden Prabowo Subianto melantik Bahlil Lahadalia sebagai Menteri Koordinator Hilirisasi dan Transisi Energi, sambil tetap menjabat Menteri ESDM.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/bahlil-rangkap-jabatan-koordinasi-hilirisasi-dan-energi-disatukan.jpg",
+  "imageV": "mupsru5c",
+  "tags": [
+   "Bahlil Lahadalia",
+   "Hilirisasi",
+   "Transisi Energi",
+   "Kementerian ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hilirisasi-dan-transisi-energi-dikoordinasikan-satu-pintu-bahlil-dilantik-sebagai-menko",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "surplus-dagang-ri-melesat-ke-us-3-55-miliar-pada-agustus",
+  "category": "Makroekonomi",
+  "title": "Surplus Dagang RI [Melesat] ke US$3,55 Miliar pada Agustus",
+  "deck": "Neraca perdagangan Indonesia Agustus 2026 surplus US$3,55 miliar, naik tajam dari US$0,12 miliar pada Juli, didorong lonjakan ekspor nonmigas dan penyusutan defisit migas.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/surplus-dagang-ri-melesat-ke-us-3-55-miliar-pada-agustus.jpg",
+  "imageV": "mupsrv2s",
+  "tags": [
+   "neraca perdagangan",
+   "ekspor nonmigas",
+   "Bank Indonesia",
+   "nikel"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820826.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "inflasi-september-terkendali-harga-pangan-mulai-menanjak",
+  "category": "Makroekonomi",
+  "title": "Inflasi September Terkendali, Harga [Pangan] Mulai Menanjak",
+  "deck": "Inflasi tahunan September 2026 tercatat 3,28 persen, masih dalam target Bank Indonesia, tapi harga cabai, ayam, dan telur naik tajam akibat gangguan cuaca.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/inflasi-september-terkendali-harga-pangan-mulai-menanjak.jpg",
+  "imageV": "mupsrwl7",
+  "tags": [
+   "Inflasi",
+   "Bank Indonesia",
+   "Harga Pangan",
+   "BPS"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820926.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "aali-siapkan-buyback-rp400-miliar-di-pasar-bergejolak",
   "category": "Aksi Korporasi",
   "title": "AALI Siapkan Buyback [Rp400 Miliar] di Pasar Bergejolak",
@@ -35,6 +143,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae9147b0f1_27a0474b22.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pertamina-salurkan-lpg-ke-958-koperasi-desa-merah-putih",
+  "category": "Energi",
+  "title": "Pertamina Salurkan LPG ke [958] Koperasi Desa Merah Putih",
+  "deck": "Pertamina Patra Niaga mencatat telah mendukung 958 Koperasi Desa/Kelurahan Merah Putih dengan distribusi LPG 3 kilogram hingga akhir September 2026.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/pertamina-salurkan-lpg-ke-958-koperasi-desa-merah-putih.jpg",
+  "imageV": "mupsrx1n",
+  "tags": [
+   "pertamina",
+   "lpg",
+   "koperasi desa merah putih",
+   "energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470701-pertamina-patra-niaga-dukung-program-koperasi-desakelurahan-merah-putih-melalui-penyaluran-lpg"
  },
  {
   "slug": "harga-acuan-cpo-dan-kakao-naik-oktober-getah-pinus-turun",
@@ -6372,117 +6497,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469341-delapan-stasiun-workout-menanti-bank-mandiri-dukung-livin-by-mandiri-visa-jakarta-hybrid-race-2026"
- },
- {
-  "slug": "mice-buana-graha-utama-tambah-113-200-saham",
-  "category": "Aksi Korporasi",
-  "title": "MICE: Buana Graha Utama [Tambah] 113.200 Saham",
-  "deck": "Buana Graha Utama menambah 113.200 saham MICE lewat tiga transaksi pembelian tidak langsung pada 22-24 September 2026, hak suara naik tipis ke 48,6153%.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MICE",
-   "Multi Indocitra",
-   "kepemilikan saham",
-   "Buana Graha Utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-7449-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medc-komisaris-jual-3-juta-saham-kepemilikan-ke-0-04",
-  "category": "Aksi Korporasi",
-  "title": "MEDC: Komisaris [Jual] 3 Juta Saham, Kepemilikan ke 0,04%",
-  "deck": "Komisaris MEDC Roberto Lorato menjual 3 juta saham tidak langsung senilai sekitar Rp4,5 miliar pada 7 September 2026, hak suaranya turun jadi 0,04 persen.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "kepemilikan saham",
-   "komisaris",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-5441-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "maya-rombak-direksi-dan-komisaris-independensi-berkurang",
-  "category": "Aksi Korporasi",
-  "title": "MAYA Rombak Direksi dan Komisaris, [Independensi] Berkurang",
-  "deck": "RUPSLB Bank Mayapada menyetujui pergantian direktur dan komisaris, dengan porsi komisaris independen berkurang dari dua menjadi satu orang.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAYA",
-   "Bank Mayapada",
-   "RUPSLB",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ebcd4af0f5_a5d077ec7f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asii-direksi-djap-tet-fa-borong-500-000-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "ASII: Direksi Djap Tet Fa [borong] 500.000 saham baru",
-  "deck": "Direksi ASII Djap Tet Fa menambah kepemilikan lewat pembelian tidak langsung 500.000 saham pada 24 September 2026, naik 14,29 persen dari kepemilikan sebelumnya.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASII",
-   "Astra International",
-   "kepemilikan saham direksi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-9217-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "scnp-ganti-kepala-unit-internal-audit-qaaiman-gantikan-arista",
-  "category": "Aksi Korporasi",
-  "title": "SCNP Ganti Kepala Unit Internal Audit, [Qaaiman] Gantikan Arista",
-  "deck": "PT Selaras Citra Nusantara Perkasa Tbk mengganti kepala unit internal audit dari FX Arista Narakrisna menjadi Qaaiman Bil Qisthi, efektif 23 September 2026.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SCNP",
-   "internal audit",
-   "tata kelola perusahaan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/35814498c6_2dd2806737.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-publex-insidentil-akuisisi-tambang-masih-buram",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Publex Insidentil, [Akuisisi] Tambang Masih Buram",
-  "deck": "Public expose insidentil BIKE menjawab pertanyaan investor, tapi harga, sumber dana, dan penjual akuisisi 6 anak usaha dan tambang 27.786 hektare tetap tidak diungkap.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "Public Expose",
-   "Akuisisi Tambang",
-   "Keterbukaan Informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5a88a287dc_616081b969.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tgra-rilis-rencana-pemulihan-suspensi-via-private-placement",
-  "category": "Aksi Korporasi",
-  "title": "TGRA Rilis Rencana Pemulihan Suspensi via [Private Placement]",
-  "deck": "Terregra Asia Energy menggandeng dua investor baru lewat private placement untuk mendanai proyek PLTMH yang mandek dan keluar dari suspensi saham, dengan RUPSLB dijadwalkan Desember 2026.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "suspensi saham",
-   "private placement",
-   "PLTMH"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a924068cac_1c6f6c61e7.pdf",
-  "sourceLabel": "IDX"
  }
 ];

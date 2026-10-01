@@ -3,6 +3,173 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ppn-transaksi-digital-luar-negeri-kini-dipungut-lewat-bank",
+  "category": "Makroekonomi",
+  "title": "PPN Transaksi Digital Luar Negeri Kini [Dipungut] Lewat Bank",
+  "deck": "Ditjen Pajak mulai memungut PPN atas transaksi digital luar negeri lewat enam bank dan fintek sejak 25 September 2026, berdasarkan PMK Nomor 49 Tahun 2026.",
+  "image": "assets/img/ppn-transaksi-digital-luar-negeri-kini-dipungut-lewat-bank.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-01T17:08:22.590Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pemerintah-mulai-terapkan-spp-tdln",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "PPN digital",
+   "Ditjen Pajak",
+   "SPP-TDLN",
+   "transaksi luar negeri"
+  ],
+  "body": [
+   "Direktorat Jenderal Pajak Kementerian Keuangan mulai menjalankan Sistem Pemungutan Pajak atas Transaksi Digital Luar Negeri (SPP-TDLN) sejak 25 September 2026. Sistem ini dipakai untuk memungut Pajak Pertambahan Nilai (PPN) atas barang dan jasa digital dari luar negeri yang dibeli konsumen di Indonesia, mengikuti aturan turunan Peraturan Menteri Keuangan Nomor 49 Tahun 2026.",
+   "Ditjen Pajak menegaskan SPP-TDLN bukan jenis pajak baru dan tidak mengubah tarif PPN yang berlaku. Sistem ini hanya menambah mekanisme pemungutan, yang disasarkan khusus pada transaksi digital luar negeri yang belum terjaring lewat skema PPN Perdagangan Melalui Sistem Elektronik, sehingga menurut Ditjen Pajak transaksi yang sama tidak akan dipungut dua kali.",
+   "Cara kerjanya memanfaatkan data dari sistem pembayaran untuk mengenali transaksi yang memenuhi kriteria pemungutan PPN. Sebelum diterapkan penuh, sistem ini sudah melewati tahap uji coba di lingkungan sandbox dan masa stabilisasi untuk menguji kesiapan proses bisnis, pertukaran data, serta integrasi antar pihak yang terlibat.",
+   "Pada tahap awal, ada enam pihak yang ditunjuk sebagai pemungut PPN (issuer) dalam skema ini, yaitu PT Bank Rakyat Indonesia (Persero) Tbk, PT Bank Mandiri (Persero) Tbk, PT Bank Negara Indonesia (Persero) Tbk, PT Bank Tabungan Negara, PT Bank Syariah Indonesia, dan PT Fintek Karya Nusantara (LinkAja). Ditjen Pajak menyebut issuer lain masih dalam tahap pengujian sandbox dan akan menyusul masuk masa stabilisasi sebelum resmi ditunjuk sebagai pemungut."
+  ],
+  "fotoAdegan": "A hand tapping a debit card on a contactless payment terminal at a busy retail counter in Jakarta, background blurred.",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Sebelum ini, PPN atas belanja digital dari luar negeri, misalnya langganan aplikasi atau software asing, hanya bisa dipungut kalau penyedia layanannya mendaftar sendiri sebagai pemungut pajak ke pemerintah. Masalahnya, tidak semua platform asing mendaftar, sehingga sebagian transaksi lolos dari pajak. SPP-TDLN menutup celah itu lewat jalur lain, bukan menunggu platform mendaftar, melainkan memantau transaksi lewat bank dan dompet digital yang memproses pembayarannya, sehingga PPN bisa langsung dipotong begitu transaksi terdeteksi memenuhi syarat. Pihak yang terdampak langsung adalah enam bank dan fintek yang ditunjuk sebagai pemungut, yakni BRI, Bank Mandiri, BNI, BTN, BSI, dan LinkAja, karena mereka kini wajib memungut dan menyetorkan pajak tersebut, sementara konsumen yang berlangganan layanan digital luar negeri akan melihat potongan pajak itu muncul di tagihan mereka. Arahnya mengarah ke perluasan bertahap pemungutan pajak digital lewat jalur pembayaran, melengkapi skema pendaftaran platform yang sudah ada, dan yang akan menunjukkan seberapa luas jangkauannya adalah jumlah bank atau fintek tambahan yang menyusul resmi beroperasi setelah masa uji coba mereka rampung.",
+  "imageV": "mupsrqhd"
+ },
+ {
+  "slug": "pajak-penjual-online-mulai-dipungut-lebih-cepat-sebulan",
+  "category": "Bisnis",
+  "title": "Pajak Penjual Online Mulai Dipungut, Lebih [Cepat] Sebulan",
+  "deck": "DJP memulai pemungutan PPh Pasal 22 atas pedagang online lewat empat marketplace pada 1 Oktober 2026, lebih awal dari tenggat penyesuaian 31 Oktober yang sebelumnya dijanjikan.",
+  "image": "assets/img/pajak-penjual-online-mulai-dipungut-lebih-cepat-sebulan.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-01T17:08:22.215Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pemungutan-pph-pasal-22-melalui-marketplace-mulai-dilaksanakan-1-oktober-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "PPh Pasal 22",
+   "Marketplace",
+   "Pajak Digital",
+   "DJP"
+  ],
+  "body": [
+   "Direktorat Jenderal Pajak (DJP) resmi mulai memungut Pajak Penghasilan (PPh) Pasal 22 dari penghasilan pedagang dalam negeri yang berjualan di marketplace, efektif 1 Oktober 2026. Empat penyelenggara perdagangan elektronik ditunjuk sebagai pemungut berdasarkan Keputusan Direktur Jenderal Pajak tertanggal 24 September 2026, yaitu PT Shopee International Indonesia, PT Global Digital Niaga Tbk, PT Tokopedia, dan PT Ecart Webportal Indonesia. Artinya, pajak yang selama ini dihitung dan disetor sendiri oleh pedagang kini dipotong otomatis oleh platform saat transaksi berlangsung.",
+   "Sebelumnya pemerintah sempat memberi waktu penyesuaian pelaksanaan sampai dengan 31 Oktober 2026, dengan pertimbangan kondisi ekonomi masyarakat dan kesiapan implementasi. Namun berdasarkan evaluasi serta kesiapan sistem dan administrasi para marketplace, pemerintah memutuskan pemungutan mulai berjalan pada 1 Oktober 2026, lebih cepat dari batas toleransi yang sempat diumumkan. Direktur Jenderal Pajak Bimo Wijayanto menegaskan percepatan ini hanya soal jadwal pelaksanaan, bukan perubahan substansi ketentuan yang diatur dalam Peraturan Menteri Keuangan Nomor 37 Tahun 2025.",
+   "Besaran pungutan ditetapkan 0,5 persen dari omzet atau peredaran bruto, di luar Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah. DJP menegaskan ini bukan jenis pajak baru, melainkan mekanisme baru untuk memungut kewajiban pajak yang sudah ada. Pedagang orang pribadi dengan omzet sampai Rp500 juta dalam setahun dikecualikan dari pemungutan ini, asalkan sudah menyampaikan surat pernyataan sesuai ketentuan yang berlaku. PPh Pasal 22 yang terlanjur dipungut nantinya bisa diperhitungkan sebagai kredit pajak tahun berjalan atau sebagai bagian pelunasan PPh final.",
+   "DJP mengimbau pedagang memastikan data perpajakan dan dokumen pada akun marketplace mereka sudah lengkap dan sesuai, karena penyampaian dokumen dilakukan lewat mekanisme masing-masing platform. Ketentuan lebih rinci mengenai PMK Nomor 37 Tahun 2025 dapat diakses melalui laman resmi pajak.go.id."
+  ],
+  "fotoAdegan": "Warehouse worker packing small cardboard parcels for online orders, shelves of goods behind, fluorescent lighting",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah bukan besaran pajaknya, melainkan cara pemungutannya: mulai hari ini, empat marketplace yang ditunjuk otomatis memotong 0,5 persen dari nilai penjualan pedagang sebagai setoran pajak penghasilan, menggantikan cara lama di mana pedagang menghitung dan menyetor sendiri. Yang menarik, tanggal mulainya justru dimajukan, bukan diundur, dari batas toleransi 31 Oktober 2026 menjadi 1 Oktober 2026, sehingga pedagang mendapat waktu penyesuaian sekitar sebulan lebih pendek dari yang sempat dijanjikan pemerintah. Yang terdampak adalah pedagang di Shopee, Tokopedia, dan dua marketplace lain yang ditunjuk, khususnya yang beromzet di atas Rp500 juta setahun, sementara pedagang kecil di bawah ambang itu tetap aman asal sudah mengirim surat pernyataan ke platform. Percepatan jadwal ini mengindikasikan DJP mulai masuk ke tahap penegakan setelah masa toleransi berakhir, dan yang akan memastikan arah ini adalah ada tidaknya keluhan salah potong atau penundaan susulan dalam beberapa minggu setelah penerapan berjalan.",
+  "imageV": "mupsrrc1"
+ },
+ {
+  "slug": "esdm-petakan-zona-rawan-gempa-demi-tata-ruang-nagekeo",
+  "category": "Energi",
+  "title": "ESDM Petakan Zona [Rawan] Gempa demi Tata Ruang Nagekeo",
+  "deck": "Kementerian ESDM mendorong Pemkab Nagekeo memasukkan tingkat kerawanan gempa, longsor, dan banjir ke dalam tata ruang pembangunan daerah.",
+  "image": "assets/img/esdm-petakan-zona-rawan-gempa-demi-tata-ruang-nagekeo.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-01T17:08:07.173Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-dorong-tata-ruang-nagekeo-berbasis-mitigasi-bencana",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Nagekeo",
+   "mitigasi bencana",
+   "tata ruang"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral mendorong Pemerintah Kabupaten Nagekeo, Nusa Tenggara Timur, memasukkan tingkat kerawanan bencana ke dalam perencanaan tata ruang. Imbauan ini disampaikan setelah wilayah tersebut terdampak gempa bumi, dan penting karena menyangkut standar kekuatan bangunan yang akan dipakai warga ke depan di daerah yang berisiko gempa, longsor, dan banjir.",
+   "Ketua Tim ESDM Siaga Bencana, Rudy Sufahriadi, menyampaikan hal itu saat menyerahkan bantuan bagi warga terdampak gempa di Kantor Bupati Nagekeo, Kamis (1/10). Ia menekankan bentuk dan kekuatan bangunan di Nagekeo harus berbeda dari daerah yang lebih aman. Data Badan Geologi ESDM menunjukkan wilayah terdampak gempa di Nagekeo masuk Kawasan Rawan Bencana Gempa Bumi Menengah hingga Tinggi, dengan potensi guncangan VII-VIII skala MMI untuk kategori menengah dan lebih dari VIII MMI untuk kategori tinggi, setara guncangan yang bisa merusak berat bahkan merobohkan bangunan yang tidak dirancang tahan gempa. Badan Geologi merekomendasikan pembangunan di zona rawan tersebut mengikuti kaidah tahan gempa dan dilengkapi jalur evakuasi.",
+   "Rudy menambahkan, Badan Geologi ESDM akan menyerahkan rekomendasi kepada Bupati Nagekeo dalam waktu dekat, berupa pemetaan kawasan yang rawan bencana, kawasan yang perlu direlokasi, dan kawasan yang relatif aman untuk dibangun. Rekomendasi itu diharapkan menjadi salah satu dasar Pemkab Nagekeo saat menyusun ulang tata ruang daerah.",
+   "Bupati Nagekeo, Simplisius Donatus, mengatakan dari 14 kategori bencana yang diatur secara nasional, 10 di antaranya berpotensi terjadi di wilayahnya, termasuk gempa bumi, tanah longsor, dan banjir. Karena itu, Pemkab Nagekeo meminta dukungan pemerintah pusat tidak hanya berupa penanganan setelah bencana terjadi, tetapi juga penguatan kesiapsiagaan berupa kendaraan, tandon air, terpal, dan tenda pengungsian untuk menghadapi potensi bencana berikutnya."
+  ],
+  "fotoAdegan": "Modest hillside houses in a rural eastern Indonesian village, workers inspecting cracked concrete walls, overcast sky, dirt road below",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-kementerian-esdm-dorong-tata-ruang-nagekeo-berbasis-mitigasi-bencana-qkwzg1u.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan janji pemetaan: Badan Geologi ESDM akan menyerahkan rekomendasi zona mana di Nagekeo yang rawan gempa berat, yakni guncangan di atas skala VIII MMI yang bisa merusak berat bangunan biasa, mana yang perlu direlokasi, dan mana yang masih aman dibangun. Yang paling terdampak adalah warga di kawasan rawan tinggi, karena merekalah yang berpotensi harus pindah atau wajib membangun ulang rumah dengan standar tahan gempa yang lebih mahal, sementara Pemkab Nagekeo yang harus menuangkan rekomendasi itu ke tata ruang daerah. Arahnya tampak menuju pengetatan syarat bangunan di zona rawan, bukan larangan membangun sama sekali, karena yang diminta ESDM adalah kekuatan konstruksi dan jalur evakuasi, bukan pengosongan kawasan. Yang akan memastikan apakah dorongan ini benar-benar berubah jadi aturan atau berhenti sebagai imbauan adalah rekomendasi tertulis Badan Geologi yang dijanjikan diserahkan ke Bupati Nagekeo dalam waktu dekat, dan apakah Pemkab kemudian memasukkannya ke revisi tata ruang wilayah.",
+  "imageV": "mupsrsq6"
+ },
+ {
+  "slug": "bahlil-rangkap-jabatan-koordinasi-hilirisasi-dan-energi-disatukan",
+  "category": "Energi",
+  "title": "Bahlil Rangkap Jabatan, Koordinasi [Hilirisasi] dan Energi Disatukan",
+  "deck": "Presiden Prabowo Subianto melantik Bahlil Lahadalia sebagai Menteri Koordinator Hilirisasi dan Transisi Energi, sambil tetap menjabat Menteri ESDM.",
+  "image": "assets/img/bahlil-rangkap-jabatan-koordinasi-hilirisasi-dan-energi-disatukan.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-01T17:08:06.192Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hilirisasi-dan-transisi-energi-dikoordinasikan-satu-pintu-bahlil-dilantik-sebagai-menko",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Bahlil Lahadalia",
+   "Hilirisasi",
+   "Transisi Energi",
+   "Kementerian ESDM"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto melantik Bahlil Lahadalia sebagai Menteri Koordinator Bidang Hilirisasi dan Transisi Energi pada Kamis, 1 Oktober 2026, di Istana Negara, Jakarta. Pelantikan ini berdasarkan Keputusan Presiden Nomor 104/P Tahun 2026, dan Bahlil tetap merangkap jabatan sebagai Menteri Energi dan Sumber Daya Mineral (ESDM). Dengan posisi baru ini, dua agenda yang sebelumnya berjalan di jalur masing-masing, yaitu hilirisasi sumber daya alam dan percepatan energi bersih, kini berada di bawah satu koordinasi.",
+   "Penugasan ini melanjutkan tugas yang sebelumnya sudah dipegang Bahlil. Ia sejak awal memimpin Satuan Tugas Percepatan Hilirisasi dan Ketahanan Energi Nasional, yang menyiapkan proyek-proyek prioritas hilirisasi sebelum masuk tahap pelaksanaan. Pada Maret 2026, Presiden juga menugaskannya memimpin Satuan Tugas Percepatan Transisi Energi, yang mendorong implementasi energi baru terbarukan termasuk pembangkit listrik tenaga surya. Kedua satgas yang tadinya berjalan terpisah itu kini disatukan dalam satu jalur koordinasi di bawah Bahlil.",
+   "Bahlil menyebut dinamika geopolitik dan tekanan global untuk beralih ke energi bersih, sejalan dengan komitmen Indonesia dalam Paris Agreement, sebagai alasan kedua agenda tidak bisa lagi ditangani secara terpisah. Menurutnya, program hilirisasi dan transisi energi perlu dijalankan secara komprehensif dan terukur, bukan parsial. Kementerian ESDM menyebut penyatuan koordinasi ini menyasar dua hal yang bersinggungan dengan publik, yaitu nilai tambah sumber daya alam di dalam negeri dan ketahanan pasokan energi nasional, meski itu masih berupa klaim tujuan dari kementerian, bukan hasil yang sudah terukur.",
+   "Usai pelantikan, Bahlil menyatakan kesiapannya menjalankan dua jabatan sekaligus, sebagai Menteri Koordinator dan sebagai Menteri ESDM. Ia menyebut penugasan ganda ini sebagai bentuk pengabdian kepada negara."
+  ],
+  "fotoAdegan": "Industrial nickel smelter plant with tall steel chimneys and conveyor belts under hazy daylight, workers in safety gear nearby, Indonesia.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-hilirisasi-dan-transisi-energi-dikoordinasikan-satu-pintu-bahlil-dilantik-sebagai-menko-ub66tla.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah secara konkret adalah Bahlil Lahadalia kini merangkap dua jabatan, Menteri ESDM dan Menteri Koordinator Hilirisasi dan Transisi Energi, lewat Keppres Nomor 104/P Tahun 2026 yang menyatukan dua satuan tugas yang sebelumnya berjalan sendiri-sendiri, yaitu Satgas Hilirisasi dan Satgas Transisi Energi. Pihak yang langsung terdampak adalah kementerian dan lembaga yang sebelumnya mengurus hilirisasi mineral dan energi baru terbarukan secara terpisah, karena kini harus melapor lewat satu jalur koordinasi yang dipegang orang yang sama. Arahnya mengarah ke pemusatan kewenangan ketimbang pembagian peran antar-lembaga, sebab Bahlil mengoordinasikan sektor yang juga ia pimpin langsung sebagai Menteri ESDM. Yang belum terjawab dari siaran ini adalah susunan lengkap Kementerian Koordinator baru tersebut, termasuk kementerian dan lembaga mana saja yang resmi berada di bawah koordinasinya, dan itu yang perlu dicek dari pengumuman struktur organisasi berikutnya.",
+  "imageV": "mupsru5c"
+ },
+ {
+  "slug": "surplus-dagang-ri-melesat-ke-us-3-55-miliar-pada-agustus",
+  "category": "Makroekonomi",
+  "title": "Surplus Dagang RI [Melesat] ke US$3,55 Miliar pada Agustus",
+  "deck": "Neraca perdagangan Indonesia Agustus 2026 surplus US$3,55 miliar, naik tajam dari US$0,12 miliar pada Juli, didorong lonjakan ekspor nonmigas dan penyusutan defisit migas.",
+  "image": "assets/img/surplus-dagang-ri-melesat-ke-us-3-55-miliar-pada-agustus.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-01T17:07:40.458Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820826.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "neraca perdagangan",
+   "ekspor nonmigas",
+   "Bank Indonesia",
+   "nikel"
+  ],
+  "body": [
+   "Neraca perdagangan Indonesia mencatat surplus sebesar US$3,55 miliar pada Agustus 2026, menurut data Badan Pusat Statistik yang dikutip Bank Indonesia. Angka ini melompat jauh dibandingkan surplus Juli 2026 yang hanya US$0,12 miliar. Surplus perdagangan berarti nilai barang yang dijual Indonesia ke luar negeri lebih besar daripada nilai barang yang dibeli dari luar negeri, sehingga menambah pasokan dolar yang masuk ke dalam negeri dan ikut menopang nilai tukar rupiah serta cadangan devisa.",
+   "Peningkatan surplus ini terutama disumbang oleh perdagangan nonmigas, yang surplusnya naik dari US$3,10 miliar pada Juli menjadi US$6,09 miliar pada Agustus. Ekspor nonmigas naik menjadi US$25,62 miliar, didorong oleh penjualan nikel dan produk turunannya, minyak sawit dan lemak nabati lainnya, logam mulia serta perhiasan, dan berbagai produk kimia. Tiongkok, Amerika Serikat, dan India tetap menjadi tiga negara tujuan ekspor nonmigas terbesar Indonesia.",
+   "Di sisi lain, defisit perdagangan migas mengecil dari US$2,98 miliar pada Juli menjadi US$2,54 miliar pada Agustus, seiring turunnya impor migas dan naiknya ekspor migas. Dengan perkembangan ini, total surplus neraca perdagangan Indonesia sepanjang Januari hingga Agustus 2026 mencapai US$7,25 miliar."
+  ],
+  "fotoAdegan": "Cargo cranes loading shipping containers onto a vessel at a busy Indonesian port, overcast morning light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2726325/Rilis-Neraca-Perdagangan.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Lonjakan surplus Agustus ini paling banyak ditopang penjualan komoditas mentah seperti nikel, minyak sawit, dan logam mulia, bukan produk manufaktur bernilai tambah tinggi, meski ekspor produk kimia juga ikut naik. Artinya yang paling diuntungkan lebih dulu adalah eksportir dan daerah penghasil komoditas tersebut, sementara defisit migas yang mengecil berarti biaya impor bahan bakar sedikit berkurang bagi negara. Tapi perlu dicermati, surplus Juli yang nyaris nol lalu melompat ke US$3,55 miliar di Agustus membuat total surplus Januari-Agustus baru US$7,25 miliar, atau rata-rata belum sampai US$1 miliar per bulan selama delapan bulan terakhir. Pola ini membuka dua kemungkinan, surplus Agustus adalah awal tren yang lebih kuat, atau sekadar lonjakan sesaat karena harga komoditas maupun faktor musiman yang tidak bertahan. Yang akan menjawabnya adalah data perdagangan September yang bakal dirilis BPS bulan depan, apakah surplus bertahan tinggi atau kembali menipis seperti pola bulan-bulan sebelumnya.",
+  "imageV": "mupsrv2s"
+ },
+ {
+  "slug": "inflasi-september-terkendali-harga-pangan-mulai-menanjak",
+  "category": "Makroekonomi",
+  "title": "Inflasi September Terkendali, Harga [Pangan] Mulai Menanjak",
+  "deck": "Inflasi tahunan September 2026 tercatat 3,28 persen, masih dalam target Bank Indonesia, tapi harga cabai, ayam, dan telur naik tajam akibat gangguan cuaca.",
+  "image": "assets/img/inflasi-september-terkendali-harga-pangan-mulai-menanjak.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-01T17:07:39.384Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820926.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Inflasi",
+   "Bank Indonesia",
+   "Harga Pangan",
+   "BPS"
+  ],
+  "body": [
+   "Badan Pusat Statistik mencatat harga-harga konsumen pada September 2026 naik 0,30 persen dibanding bulan sebelumnya, sehingga inflasi tahunan mencapai 3,28 persen. Angka ini masih berada dalam target Bank Indonesia sebesar 2,5 plus minus 1 persen, yang berarti secara umum kenaikan harga belum dianggap mengkhawatirkan. Namun di balik angka total yang stabil itu, ada pergeseran arah tekanan harga yang patut dicermati.",
+   "Inflasi inti, yaitu kelompok harga yang biasanya tidak mudah berubah seperti biaya kuliah dan harga emas perhiasan, justru melambat. Kenaikannya hanya 0,10 persen dibanding bulan lalu, turun dari 0,21 persen, sementara secara tahunan turun dari 2,92 persen menjadi 2,84 persen. Biaya kuliah akademi dan perguruan tinggi menjadi penyumbang utama kenaikan bulanan, sedangkan kenaikan harga emas dunia mendorong andil tahunannya.",
+   "Sebaliknya, kelompok pangan bergejolak seperti cabai rawit, cabai merah, daging ayam ras, beras, dan telur ayam ras mencatat kenaikan harga yang lebih cepat. Secara bulanan inflasinya naik dari 0,88 persen menjadi 1,46 persen, dan secara tahunan dari 4,06 persen menjadi 5,03 persen. BPS dan Bank Indonesia mengaitkan kenaikan ini dengan turunnya produksi di sejumlah daerah sentra akibat cuaca buruk, ditambah naiknya biaya produksi petani dan peternak.",
+   "Kelompok harga yang diatur pemerintah, seperti bahan bakar minyak nonsubsidi jenis Pertamax Turbo, Dexlite, dan Pertamina Dex, naik tipis mendekati 0 persen secara bulanan, setelah bulan sebelumnya malah turun 0,33 persen. Kenaikan itu sedikit tertahan oleh turunnya tarif tiket pesawat. Secara tahunan kelompok ini tercatat 3,25 persen, sedikit lebih rendah dari 3,32 persen pada Agustus."
+  ],
+  "fotoAdegan": "Vendor arranging fresh red chilies, eggs, and rice sacks at a busy traditional market stall, shoppers bargaining nearby",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2526623/Publishing_Image_Statistik.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah bukan level inflasi total, yang masih berada di kisaran yang sama, melainkan sumber tekanannya. Harga yang biasanya stabil seperti biaya kuliah dan emas perhiasan justru melambat kenaikannya, sementara harga pangan harian seperti cabai, ayam, beras, dan telur naik lebih cepat, dari 0,88 persen menjadi 1,46 persen dalam sebulan, karena cuaca buruk mengganggu panen di sejumlah daerah penghasil. Yang paling terdampak adalah konsumen rumah tangga dan pedagang pasar, karena pangan adalah belanja harian yang sulit ditunda meski harganya naik. Bank Indonesia sendiri menyebut masih mengantisipasi dampak cuaca ekstrem terhadap harga pangan ke depan, jadi yang perlu dipantau adalah apakah kenaikan harga pangan ini berlanjut atau mereda pada data inflasi Oktober 2026 yang akan dirilis BPS bulan depan.",
+  "imageV": "mupsrwl7"
+ },
+ {
   "slug": "aali-siapkan-buyback-rp400-miliar-di-pasar-bergejolak",
   "category": "Aksi Korporasi",
   "title": "AALI Siapkan Buyback [Rp400 Miliar] di Pasar Bergejolak",
@@ -53,6 +220,32 @@ var ARTICLES = [
   "fotoAdegan": "Technicians installing fiber optic cables on a utility pole along a busy Jakarta street, midday light",
   "takeaway": "Laporan ini condong negatif bagi tata kelola WIFI, karena Komisaris Utama dan satu Direktur mundur hampir bersamaan, tepat sebelum RUPSLB yang sudah empat kali tertunda sejak Agustus dan kini mengagendakan perubahan lini bisnis perusahaan. Yang tersentuh bukan laba atau arus kas, karena Perseroan sendiri menyatakan tidak ada dampak material ke operasional dan keuangan, melainkan stabilitas kepengurusan, yakni siapa yang akan mengambil keputusan strategis perusahaan ke depan, dan ini penting dipantau karena pergantian pucuk pimpinan di tengah rencana perubahan bisnis bisa memperlambat eksekusi strategi. Yang perlu dipantau berikutnya adalah RUPSLB pada Rabu, 21 Oktober 2026, yang akan memutuskan sah atau tidaknya kedua pengunduran diri sekaligus menetapkan susunan baru Direksi dan Komisaris, dengan hasil rapat wajib diumumkan ke OJK paling lambat dua hari kerja sesudahnya.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "pertamina-salurkan-lpg-ke-958-koperasi-desa-merah-putih",
+  "category": "Energi",
+  "title": "Pertamina Salurkan LPG ke [958] Koperasi Desa Merah Putih",
+  "deck": "Pertamina Patra Niaga mencatat telah mendukung 958 Koperasi Desa/Kelurahan Merah Putih dengan distribusi LPG 3 kilogram hingga akhir September 2026.",
+  "image": "assets/img/pertamina-salurkan-lpg-ke-958-koperasi-desa-merah-putih.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T21:39:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470701-pertamina-patra-niaga-dukung-program-koperasi-desakelurahan-merah-putih-melalui-penyaluran-lpg",
+  "tags": [
+   "pertamina",
+   "lpg",
+   "koperasi desa merah putih",
+   "energi"
+  ],
+  "body": [
+   "PT Pertamina Patra Niaga memperluas dukungannya terhadap program Koperasi Desa/Kelurahan Merah Putih (KDKMP) dengan menyalurkan LPG 3 kilogram ke koperasi-koperasi tersebut. Langkah ini jadi bagian dari upaya perusahaan menjaga pasokan energi bersubsidi sampai ke tingkat desa dan kelurahan, sekaligus menopang program pemerintah yang ingin menghidupkan ekonomi lokal lewat koperasi.",
+   "Hingga akhir September 2026, Pertamina Patra Niaga telah menjangkau 958 KDKMP yang tersebar di berbagai wilayah Indonesia melalui penyaluran LPG ini. Perusahaan menyatakan akan terus menambah titik distribusi atau outlet baru di koperasi yang sudah siap beroperasi, sembari memperbaiki kualitas layanan ke koperasi yang sudah berjalan.",
+   "VP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, menyebut dukungan ini sebagai bentuk sinergi dengan pemerintah untuk memperkuat ekonomi masyarakat di level desa dan kelurahan. Ia menambahkan bahwa perusahaan akan terus berkoordinasi dengan pemerintah pusat dan daerah agar program ini berjalan optimal, dengan evaluasi berkelanjutan terhadap layanan distribusi energi ke KDKMP."
+  ],
+  "fotoAdegan": "Workers stacking small green LPG gas cylinders onto a delivery truck on a rural village street, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/01/6abe6ef721920-pertamina-patra-niaga-dukung-program-koperasi-desakelurahan-merah-putih-melalui-penyaluran-lpg_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini cuma satu angka: sampai akhir September 2026, Pertamina Patra Niaga mencatat sudah menjangkau 958 Koperasi Desa/Kelurahan Merah Putih dengan akses LPG 3 kilogram. Yang terdampak jelas koperasi desa dan kelurahan itu sendiri, serta warga setempat yang mengandalkan elpiji bersubsidi untuk memasak dan usaha kecil di sekitarnya. Berita ini tidak menyebut berapa total KDKMP yang ditargetkan secara nasional, jadi belum bisa dipastikan apakah 958 itu sudah mencakup sebagian besar koperasi yang sudah berjalan atau baru tahap awal dari rencana yang jauh lebih besar. Yang perlu dipantau adalah angka resmi jumlah KDKMP yang sudah terbentuk secara nasional serta rencana penambahan outlet LPG berikutnya, karena dari situ baru bisa dilihat apakah distribusi energi ke koperasi desa ini bergerak cepat atau masih tahap rintisan.",
+  "imageV": "mupsrx1n"
  },
  {
   "slug": "harga-acuan-cpo-dan-kakao-naik-oktober-getah-pinus-turun",
@@ -451,7 +644,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka konkretnya: PMI manufaktur melompat dari 49,8 menjadi 52,4 dalam sebulan, dan surplus neraca dagang Agustus naik ke US$3,55 miliar dari cuma US$0,12 miliar pada Juli. Yang diuntungkan oleh tren ini adalah industri manufaktur dan eksportir produk nonmigas seperti besi baja, sawit, dan batu bara, sementara rumah tangga masih menanggung inflasi pangan segar di atas 5 persen akibat cuaca ekstrem. Pola yang sama berulang pada dua indikator ini, PMI sempat anjlok di bawah 50 pada Agustus sebelum melonjak lagi, dan surplus dagang nyaris nol di Juli sebelum melompat, sehingga belum bisa dipastikan apakah ini perbaikan yang stabil atau sekadar lonjakan sesaat setelah bulan yang lemah. Yang akan menjawabnya adalah rilis PMI dan neraca dagang bulan Oktober, sekaligus apakah bantuan pangan beras 10 kilogram per bulan yang mulai disalurkan Oktober ini berhasil menahan laju inflasi pangan bergejolak.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "sofn-ubah-susunan-direksi-dan-komisaris-pasca-merger",

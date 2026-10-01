@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "GPIuDVxG0p8",
+  "title": "Mahasiswa UGM dan Dirut Agrinas Berdebat Soal Program Kopdes",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Perdebatan muncul antara mahasiswa UGM dan Direktur Utama Agrinas terkait program Koperasi Desa/Kelurahan Merah Putih yang digadang memperkuat ekonomi desa.",
+  "takeaway": "Perdebatan ini menyoroti efektivitas program Kopdes Merah Putih sebagai instrumen penguatan ekonomi desa yang tengah digencarkan pemerintah."
+ },
+ {
+  "id": "LkR9k_g7GNA",
+  "title": "Kopdes Merah Putih: Dirut Agrinas vs Mahasiswa UGM",
+  "category": "UMKM",
+  "program": "Dua Sisi",
+  "summary": "Diskusi lengkap membahas pro dan kontra program Koperasi Desa/Kelurahan Merah Putih dalam upaya memperkuat ekonomi masyarakat desa.",
+  "takeaway": "Edisi lengkap ini memberi konteks lebih utuh atas perdebatan soal efektivitas Kopdes Merah Putih bagi pembaca yang mengikuti kebijakan ekonomi desa."
+ },
+ {
+  "id": "xFuzH0B2EM4",
+  "title": "Dirut Agrinas: Kopdes Simbol Pembebasan Ekonomi Desa",
+  "category": "UMKM",
+  "program": "Dua Sisi",
+  "summary": "Direktur Utama Agrinas menyebut pembangunan Koperasi Desa/Kelurahan Merah Putih sebagai simbol pembebasan ekonomi bagi masyarakat desa.",
+  "takeaway": "Pernyataan ini penting untuk memahami narasi pemerintah di balik program Kopdes Merah Putih yang menyasar penguatan ekonomi desa."
+ },
+ {
   "id": "bMCxx9r2LsA",
   "title": "Debat Dirut Agrinas vs Mahasiswa UGM soal Koperasi Merah Putih",
   "category": "UMKM",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Pemerintah memulai pembangunan pembangkit listrik dari sampah (PSEL) dan instalasi PSE pirolisis di kawasan TPA Galuga, Bogor, yang ditargetkan mulai beroperasi pada 2027.",
   "takeaway": "Proyek ini menandai investasi infrastruktur energi berbasis sampah yang berpotensi menambah kapasitas energi terbarukan nasional."
- },
- {
-  "id": "R1Od9Mxhxts",
-  "title": "Menteri PKP Bahas Kendala Program Tiga Juta Rumah",
-  "category": "Industri",
-  "program": "Kabar Utama",
-  "summary": "Menteri Perumahan dan Kawasan Permukiman mengungkap sejumlah tantangan dalam merealisasikan program pemerintah membangun tiga juta rumah.",
-  "takeaway": "Program perumahan berskala besar ini menyangkut anggaran negara dan berdampak langsung ke sektor konstruksi serta properti."
- },
- {
-  "id": "04_u3bOZE-0",
-  "title": "Presiden Prabowo Pimpin Rapat Dewan Energi Nasional",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Presiden Prabowo Subianto memimpin rapat paripurna Dewan Energi Nasional bersama unsur pemerintah, masyarakat, dan akademisi untuk membahas arah kebijakan energi nasional.",
-  "takeaway": "Pembahasan kebijakan energi nasional relevan bagi pelaku usaha karena berkaitan dengan biaya produksi, subsidi, dan pasokan energi dalam negeri."
- },
- {
-  "id": "bRh7ZdTV0zI",
-  "title": "Pemerintah Kejar Target Produksi E20 dalam Dua Tahun",
-  "category": "Energi",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah menargetkan produksi bahan bakar campuran etanol 20 persen atau E20 rampung dalam dua tahun. Untuk mengejar target itu, pemerintah menyiapkan lahan tebu sebagai bahan baku etanol.",
-  "takeaway": "Kebijakan bauran bahan bakar nabati ini menyangkut ketahanan energi nasional sekaligus rantai pasok industri gula."
  }
 ];

@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-naik-ke-peringkat-14-fortune-100",
+  "category": "BUMN",
+  "title": "Pupuk Indonesia [Naik] ke Peringkat 14 Fortune 100",
+  "deck": "Pupuk Indonesia naik ke peringkat 14 Fortune Indonesia 100 2026, seiring revisi aturan tata kelola pupuk bersubsidi lewat Perpres 113/2025.",
+  "image": "assets/img/pupuk-indonesia-naik-ke-peringkat-14-fortune-100.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T03:41:57.296Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/889/transformasi-dorong-pupuk-indonesia-naik-peringkat-di-fortune-indonesia-100",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "Pupuk Indonesia",
+   "BUMN",
+   "Fortune Indonesia 100",
+   "Pupuk Bersubsidi"
+  ],
+  "body": [
+   "Pupuk Indonesia naik ke peringkat 14 dalam daftar Fortune Indonesia 100 edisi 2026, sekaligus menempatkan perusahaan sebagai BUMN dengan pendapatan terbesar kedelapan di pemeringkatan tersebut. Perusahaan mengaitkan kenaikan ini dengan transformasi tata kelola dan operasional yang berjalan beberapa tahun terakhir.",
+   "Di sisi regulasi, pemerintah memperbarui aturan tata kelola pupuk bersubsidi lewat Peraturan Presiden Nomor 6 Tahun 2025, yang kemudian direvisi lagi melalui Perpres Nomor 113 Tahun 2025. Danantara, selaku induk perusahaan BUMN, dan Kementerian Pertanian disebut turut berperan dalam mendorong perbaikan tata kelola di sektor ini.",
+   "Pupuk Indonesia juga menyatakan tengah merevitalisasi sejumlah pabrik yang sudah berusia tua serta berencana menambah fasilitas produksi baru untuk menjaga pasokan pupuk nasional. Namun perusahaan tidak merinci jumlah pabrik yang direvitalisasi, nilai investasinya, atau target waktu penyelesaiannya.",
+   "Perusahaan menyebut adanya peningkatan laba sebagai dampak dari efisiensi operasional dan penguatan tata kelola, tetapi tidak mencantumkan angka pendapatan atau laba bersih dalam pengumuman ini sehingga klaim tersebut belum bisa diverifikasi dari data yang tersedia."
+  ],
+  "fotoAdegan": "Workers checking large storage silos and pipelines at a fertilizer processing plant, overcast daylight, industrial scale",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1858/conversions/Screen-Shot-2026-10-01-at-10.25.28-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang konkret dari siaran ini hanya dua hal, yaitu posisi Pupuk Indonesia yang naik ke peringkat 14 Fortune Indonesia 100 edisi 2026, dan aturan tata kelola pupuk bersubsidi yang diperbarui lewat Perpres 113/2025. Pihak yang berkepentingan langsung adalah petani penerima pupuk bersubsidi serta Danantara selaku pemegang saham, karena keduanya terkait langsung dengan distribusi pupuk dan kinerja keuangan perusahaan. Yang masih kurang adalah angka, karena tidak ada rincian laba, pendapatan, nilai investasi revitalisasi pabrik, atau target waktu penambahan fasilitas produksi baru yang diungkapkan Pupuk Indonesia. Klaim efisiensi dan penguatan kinerja ini baru bisa diuji lewat laporan keuangan tahunan perusahaan atau rincian proyek revitalisasi pabrik yang dijanjikan menyusul.",
+  "imageV": "muozokn6"
+ },
+ {
   "slug": "meja-tunjuk-kjpp-untuk-akuisisi-tambang-batu-bara",
   "category": "Aksi Korporasi",
   "title": "MEJA Tunjuk KJPP untuk Akuisisi [Tambang] Batu Bara",
@@ -53,6 +81,33 @@ var ARTICLES = [
   "fotoAdegan": "Rows of large yellow heavy equipment and excavators parked in an industrial dealer yard, overcast sky, no visible text",
   "takeaway": "Rencana buyback baru ini condong positif bagi UNTR, karena perseroan kembali memakai kas sendiri, bukan utang, untuk menopang keyakinan pasar di tengah kondisi yang bergejolak, melanjutkan pola yang sudah dijalankan pada program sebelumnya senilai Rp1,42 triliun. Yang tersentuh adalah ekuitas dan laba per saham: ekuitas adalah modal milik pemegang saham, dan jika seluruh pagu Rp2 triliun terpakai, angkanya turun dari Rp101,8 triliun menjadi Rp99,8 triliun, sementara laba per saham naik dari Rp271 menjadi Rp277 karena jumlah saham yang beredar di pasar berkurang sehingga bagian laba untuk tiap saham yang tersisa membesar. Perlu dicatat, dana ini hanya sekitar 2 persen dari total ekuitas perseroan, jadi dampaknya terhadap kondisi keuangan memang tidak besar, seperti yang diakui sendiri dalam dokumen. Yang perlu dipantau berikutnya adalah realisasi pembelian sepanjang 1 Oktober sampai 31 Desember 2026, sebab pada program sebelumnya perseroan hanya memakai Rp1,42 triliun dari pagu Rp2 triliun yang disediakan, jadi belum tentu dana kali ini terserap penuh.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "penjualan-vktr-tumbuh-56-di-semester-i-2026",
+  "category": "Pasar Modal",
+  "title": "Penjualan VKTR [Tumbuh] 56% di Semester I 2026",
+  "deck": "Penjualan kendaraan listrik komersial VKTR naik 56% jadi Rp648 miliar pada semester I 2026, didukung segmen suku cadang dan laba yang membaik.",
+  "image": "assets/img/penjualan-vktr-tumbuh-56-di-semester-i-2026.jpg",
+  "date": "1 Oktober 2026",
+  "isoDate": "2026-10-01T07:57:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470563-kinerja-penjualan-vktr-tumbuh-56-pada-semester-i-2026-e-maas-disiapkan-sebagai-enabler-adopsi-ev",
+  "tags": [
+   "VKTR",
+   "kendaraan listrik",
+   "emiten",
+   "e-MaaS"
+  ],
+  "body": [
+   "PT VKTR Teknologi Mobilitas Tbk, perusahaan kendaraan listrik komersial yang tercatat di bursa, membukukan penjualan bersih Rp648 miliar pada semester I 2026, naik 56 persen dibanding periode sama tahun lalu. Angka ini berasal dari laporan keuangan yang sudah diaudit dan menunjukkan permintaan pasar terhadap kendaraan listrik untuk kebutuhan komersial terus bertambah. Pertumbuhan ini penting karena VKTR dikenal sebagai salah satu pemain perintis di segmen kendaraan listrik niaga di Indonesia, sehingga kinerjanya sering jadi acuan arah adopsi EV di sektor transportasi dan logistik.",
+   "Selain dari penjualan kendaraan listrik, kontribusi positif juga datang dari segmen manufaktur suku cadang milik perseroan, seiring pemulihan industri otomotif nasional sepanjang tahun ini. Dari sisi laba, perseroan mencatat laba usaha Rp15 miliar, melonjak 1.782 persen dibanding tahun lalu, sementara laba bersih tercatat Rp10 miliar atau tumbuh 25 persen. Lonjakan besar pada laba usaha itu terjadi karena angka pembanding tahun lalu sangat kecil, sehingga kenaikan dalam rupiah yang sebenarnya tidak sebesar persentasenya.",
+   "Dari sisi neraca, total aset VKTR per akhir Juni 2026 tercatat Rp1.817 miliar, dengan liabilitas Rp561 miliar dan ekuitas Rp1.256 miliar. Direktur Utama VKTR, A. Ardiansyah Bakrie, menyebut pertumbuhan ini menandakan kebutuhan kendaraan listrik komersial kian meluas, mulai dari transportasi publik dan logistik hingga perkebunan, industri, dan pertambangan. Menurutnya, perkembangan ini menunjukkan pasar kendaraan listrik komersial Indonesia sedang bergerak menuju tahap yang lebih matang.",
+   "Untuk memperluas adopsi kendaraan listrik, VKTR tengah mengembangkan skema bernama Electric Mobility-as-a-Service atau e-MaaS, yang memungkinkan operator menggunakan kendaraan listrik tanpa harus membelinya secara penuh di muka. Skema ini mengalihkan beban dari belanja modal besar di awal menjadi biaya operasional yang dibayar bertahap, sehingga mengurangi risiko pendanaan dan membuat anggaran operator lebih mudah diprediksi. Perseroan menilai langkah ini diperlukan karena tantangan adopsi EV ke depan bukan lagi soal ketersediaan unit, melainkan kemudahan akses pembiayaan dan fleksibilitas bagi pelaku usaha."
+  ],
+  "fotoAdegan": "Rows of electric buses parked in a depot yard connected to charging cables, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/11/6aa3d92ccb232-vktr-bidik-mobilisasi-pertambangan-bus-arjuno-angkut-25-penumpang-tempuh-hingga-350-km_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari laporan ini, penjualan VKTR naik 56 persen jadi Rp648 miliar, sementara laba bersihnya cuma naik 25 persen jadi Rp10 miliar meski laba usaha, yaitu selisih pendapatan dan biaya operasional sebelum dipotong bunga dan pajak, melonjak 1.782 persen. Lonjakan besar itu terjadi karena angka pembanding tahun lalu sangat kecil, dan kalau dihitung, laba bersih Rp10 miliar dari penjualan Rp648 miliar berarti VKTR hanya mengantongi sekitar 1,5 persen dari setiap rupiah penjualan, jadi keuntungannya masih tipis walau omzetnya tumbuh pesat. Yang terdampak adalah pemegang saham yang menunggu bisnis ini benar-benar menguntungkan, serta operator transportasi publik, logistik, perkebunan, dan tambang yang jadi pembeli kendaraan listrik ini. Arahnya terlihat dari rencana e-MaaS, skema sewa atau pakai-bayar kendaraan listrik ketimbang beli putus, yang kalau berjalan akan mengurangi beban modal awal bagi operator yang mau beralih ke EV. Yang akan menentukan apakah strategi ini benar-benar menebalkan untung VKTR adalah laporan kuartal berikutnya, terutama apakah pendapatan dari skema e-MaaS mulai muncul dan apakah laba bersihnya ikut tumbuh sejalan dengan penjualan.",
+  "imageV": "muozol38"
  },
  {
   "slug": "apic-catat-rugi-bersih-rp71-5-miliar-di-semester-i-2026",

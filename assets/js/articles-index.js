@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-naik-ke-peringkat-14-fortune-100",
+  "category": "BUMN",
+  "title": "Pupuk Indonesia [Naik] ke Peringkat 14 Fortune 100",
+  "deck": "Pupuk Indonesia naik ke peringkat 14 Fortune Indonesia 100 2026, seiring revisi aturan tata kelola pupuk bersubsidi lewat Perpres 113/2025.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/pupuk-indonesia-naik-ke-peringkat-14-fortune-100.jpg",
+  "imageV": "muozokn6",
+  "tags": [
+   "Pupuk Indonesia",
+   "BUMN",
+   "Fortune Indonesia 100",
+   "Pupuk Bersubsidi"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/889/transformasi-dorong-pupuk-indonesia-naik-peringkat-di-fortune-indonesia-100",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
   "slug": "meja-tunjuk-kjpp-untuk-akuisisi-tambang-batu-bara",
   "category": "Aksi Korporasi",
   "title": "MEJA Tunjuk KJPP untuk Akuisisi [Tambang] Batu Bara",
@@ -35,6 +53,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a9953c358_8c9cfba7a0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "penjualan-vktr-tumbuh-56-di-semester-i-2026",
+  "category": "Pasar Modal",
+  "title": "Penjualan VKTR [Tumbuh] 56% di Semester I 2026",
+  "deck": "Penjualan kendaraan listrik komersial VKTR naik 56% jadi Rp648 miliar pada semester I 2026, didukung segmen suku cadang dan laba yang membaik.",
+  "date": "1 Oktober 2026",
+  "image": "assets/img/penjualan-vktr-tumbuh-56-di-semester-i-2026.jpg",
+  "imageV": "muozol38",
+  "tags": [
+   "VKTR",
+   "kendaraan listrik",
+   "emiten",
+   "e-MaaS"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470563-kinerja-penjualan-vktr-tumbuh-56-pada-semester-i-2026-e-maas-disiapkan-sebagai-enabler-adopsi-ev"
  },
  {
   "slug": "apic-catat-rugi-bersih-rp71-5-miliar-di-semester-i-2026",
@@ -6463,38 +6498,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/304c880728_e940ca23b5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "suspensi-saham-akku-dicabut-bei-setelah-6-bulan",
-  "category": "Aksi Korporasi",
-  "title": "Suspensi Saham AKKU [Dicabut] BEI Setelah 6 Bulan",
-  "deck": "BEI mencabut suspensi saham AKKU mulai sesi keempat perdagangan Kamis, setelah laporan keuangan per 30 Juni 2026 meraih opini wajar dengan pengecualian.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKKU",
-   "suspensi saham",
-   "BEI",
-   "opini audit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5010f349f2_57a0994d1a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bata-presiden-direktur-mundur-tunggu-keputusan-rups",
-  "category": "Aksi Korporasi",
-  "title": "BATA: Presiden Direktur [Mundur], Tunggu Keputusan RUPS",
-  "deck": "Amitav Nandy mengundurkan diri sebagai Presiden Direktur Sepatu Bata Tbk imbas rotasi jabatan di Bata Group. Keputusan final ada di tangan RUPS.",
-  "date": "24 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BATA",
-   "Sepatu Bata Tbk",
-   "Presiden Direktur",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58f3cbd896_c6d5c1e69f.pdf",
   "sourceLabel": "IDX"
  }
 ];

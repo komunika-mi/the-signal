@@ -5,6 +5,60 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppatk-rilis-peta-risiko-keuangan-jelang-evaluasi-fatf-2029",
+  "category": "Perbankan",
+  "title": "PPATK Rilis Peta Risiko Keuangan, Jelang Evaluasi FATF [2029]",
+  "deck": "PPATK merilis tiga penilaian risiko nasional 2026 untuk pencucian uang, pendanaan terorisme, dan proliferasi senjata, menjelang evaluasi FATF pada 2029.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/ppatk-rilis-peta-risiko-keuangan-jelang-evaluasi-fatf-2029.jpg",
+  "imageV": "muqyjotv",
+  "tags": [
+   "PPATK",
+   "FATF",
+   "Pencucian Uang",
+   "Pendanaan Terorisme"
+  ],
+  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1676/ppatk-luncurkan-tiga-nra-2026-perkuat-ketahanan-indonesia-dan-kesiapan-menghadapi-mutual-evaluation-review-fatf-.html",
+  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
+ },
+ {
+  "slug": "penebusan-pupuk-perikanan-bersubsidi-di-sulsel-masih-rendah",
+  "category": "UMKM",
+  "title": "Penebusan Pupuk Perikanan Bersubsidi di Sulsel Masih [Rendah]",
+  "deck": "Realisasi penebusan pupuk perikanan bersubsidi di Sulawesi Selatan baru 11,9 persen dari kuota 102.479 ton, sementara capaian nasional juga baru 9,68 persen dari alokasi 295.686 ton.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penebusan-pupuk-perikanan-bersubsidi-di-sulsel-masih-rendah.jpg",
+  "imageV": "muqyjqaw",
+  "tags": [
+   "pupuk subsidi",
+   "perikanan",
+   "Sulawesi Selatan",
+   "KKP"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-kawal-percepatan-penebusan-pupuk-perikanan-bersubsidi-di-sulsel-ZzjR.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "bi-soroti-kesenjangan-literasi-keuangan-anak-muda",
+  "category": "Moneter",
+  "title": "BI Soroti Kesenjangan [Literasi] Keuangan Anak Muda",
+  "deck": "BI mencatat indeks inklusi keuangan anak muda 18-25 tahun capai 95,69 persen, jauh di atas indeks literasi yang cuma 73,32 persen, saat resmikan gerai edukasi di Unair.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/bi-soroti-kesenjangan-literasi-keuangan-anak-muda.jpg",
+  "imageV": "muqyjrqp",
+  "tags": [
+   "Bank Indonesia",
+   "literasi keuangan",
+   "QRIS",
+   "pelindungan konsumen"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821026.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "link-gelar-rupslb-pergantian-direksi-komisaris-26-okt",
   "category": "Aksi Korporasi",
   "title": "LINK Gelar RUPSLB [Pergantian] Direksi-Komisaris 26 Okt",
@@ -99,6 +153,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4afa42a4de_91166b8ca7.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bank-mandiri-bayar-dividen-interim-rp6-16-triliun",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Bayar Dividen Interim [Rp6,16] Triliun",
+  "deck": "Bertepatan HUT ke-28, Bank Mandiri bayarkan dividen interim Rp66 per saham, sehingga total dividen sepanjang 2026 tembus Rp50,63 triliun.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/bank-mandiri-bayar-dividen-interim-rp6-16-triliun.jpg",
+  "imageV": "muqyjs6s",
+  "tags": [
+   "Bank Mandiri",
+   "dividen interim",
+   "HUT ke-28",
+   "dana pihak ketiga"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470783-bertepatan-dengan-hut-ke-28-bank-mandiri-bayarkan-dividen-interim-rp616-triliun"
  },
  {
   "slug": "bei-buka-suspensi-edge-untuk-crossing-saham-go-private",
@@ -6432,70 +6503,6 @@ var ARTICLES = [
    "Maybank Sekuritas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-7641-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "supr-vto-protelindo-tersisa-25-saham-publik-jelang-tenggat",
-  "category": "Aksi Korporasi",
-  "title": "SUPR: [VTO] Protelindo Tersisa 25% Saham Publik Jelang Tenggat",
-  "deck": "Protelindo memperpanjang tender sukarela saham SUPR hingga 21 Oktober 2026, periode terakhir yang diizinkan regulasi, setelah 74,6 persen saham publik ikut berpartisipasi.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUPR",
-   "tender offer",
-   "Protelindo",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5373a3a6c5_3b6beffe41.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-konsolidasi-cbs-rum-ekuitas-negatif-rp13-6-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Konsolidasi CBS-RUM, Ekuitas [Negatif] Rp13,6 Miliar",
-  "deck": "Laporan keuangan interim MKNT menunjukkan aset melonjak ke Rp1,45 triliun usai konsolidasi dua anak usaha baru, namun ekuitas perusahaan tetap negatif dan rugi bersih melebar jadi Rp4,14 miliar.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "laporan keuangan",
-   "ekuitas negatif",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925172803-64366-0/FinancialStatement-2026-II-MKNT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dgwg-agro-jaya-mandiri-lepas-saham-via-repo-ke-1-04",
-  "category": "Aksi Korporasi",
-  "title": "DGWG: Agro Jaya Mandiri Lepas Saham via [Repo], ke 1,04%",
-  "deck": "Agro Jaya Mandiri menjual 234.375.000 saham DGWG senilai sekitar Rp30 miliar lewat skema repo, memangkas hak suaranya dari 5,02% menjadi 1,04%.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGWG",
-   "Delta Giri Wacana",
-   "repo saham",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-8801-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sraj-suntik-modal-rp37-9-miliar-ke-anak-usaha-rs",
-  "category": "Aksi Korporasi",
-  "title": "SRAJ [Suntik] Modal Rp37,9 Miliar ke Anak Usaha RS",
-  "deck": "SRAJ memperkuat permodalan anak usaha PT Anugrahsukses Utama Sejahtera senilai Rp37,9 miliar, setara 3,47 persen dari ekuitas perusahaan.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRAJ",
-   "transaksi afiliasi",
-   "rumah sakit",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83a1e99223_ff527c00f6.pdf",
   "sourceLabel": "IDX"
  }
 ];

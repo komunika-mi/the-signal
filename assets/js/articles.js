@@ -3,6 +3,90 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ppatk-rilis-peta-risiko-keuangan-jelang-evaluasi-fatf-2029",
+  "category": "Perbankan",
+  "title": "PPATK Rilis Peta Risiko Keuangan, Jelang Evaluasi FATF [2029]",
+  "deck": "PPATK merilis tiga penilaian risiko nasional 2026 untuk pencucian uang, pendanaan terorisme, dan proliferasi senjata, menjelang evaluasi FATF pada 2029.",
+  "image": "assets/img/ppatk-rilis-peta-risiko-keuangan-jelang-evaluasi-fatf-2029.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T12:40:59.102Z",
+  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1676/ppatk-luncurkan-tiga-nra-2026-perkuat-ketahanan-indonesia-dan-kesiapan-menghadapi-mutual-evaluation-review-fatf-.html",
+  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "tags": [
+   "PPATK",
+   "FATF",
+   "Pencucian Uang",
+   "Pendanaan Terorisme"
+  ],
+  "body": [
+   "Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) meluncurkan tiga dokumen Penilaian Risiko Nasional atau National Risk Assessment (NRA) tahun 2026, yang masing-masing memetakan risiko pencucian uang, pendanaan terorisme, dan pendanaan proliferasi senjata pemusnah massal di Indonesia. Dokumen ini penting karena menjadi syarat keanggotaan Indonesia di Financial Action Task Force (FATF), badan antar-pemerintah yang menetapkan standar global pemberantasan pencucian uang dan pendanaan terorisme. Jika suatu negara dinilai gagal memenuhi standar itu secara serius, negara tersebut bisa masuk daftar yurisdiksi berisiko tinggi, yang umum disebut daftar hitam, dengan konsekuensi pengawasan ekstra bahkan pembatasan dari mitra keuangan internasional.",
+   "Indonesia resmi menjadi anggota penuh FATF sejak 2023, dan NRA 2026 ini disiapkan sebagai bekal menghadapi Mutual Evaluation Review, yaitu evaluasi menyeluruh dari FATF yang dijadwalkan pada 2029. NRA untuk pencucian uang ini merupakan pemutakhiran keempat sejak penilaian pertama pada 2015, kali ini memakai metodologi FATF terbaru yang dirilis tahun 2025 serta merujuk praktik dari IMF, Bank Dunia, dan asosiasi perbankan internasional Wolfsberg. Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan, Yusril Ihza Mahendra, yang juga Ketua Komite TPPU, menyebut dokumen ini harus menjawab perubahan lanskap kejahatan keuangan akibat perkembangan aset kripto, kecerdasan artifisial, dan kejahatan lintas negara.",
+   "Untuk risiko pencucian uang di dalam negeri, korupsi, narkotika dan psikotropika, serta penipuan berbasis teknologi informasi atau scam masuk kategori risiko tinggi. Dari sisi pelaku, pejabat negara, wiraswasta, dan karyawan swasta tercatat berisiko tinggi, sementara di sisi badan usaha, perseroan terbatas termasuk BUMN dan BUMD juga masuk kategori yang sama. PPATK menyebut lima sektor yang perlu pengawasan lebih kuat, yaitu penukaran valuta asing bukan bank, bank umum, agen atau perusahaan properti, notaris, dan Pejabat Pembuat Akta Tanah, serta enam wilayah berisiko tinggi yaitu Jakarta, Kepulauan Riau, Bali, Sumatera Utara, Jawa Barat, dan Jawa Timur. Untuk aliran uang hasil kejahatan dari luar negeri yang masuk ke Indonesia, risiko tertinggi datang dari narkotika, scam, korupsi, dan perjudian, sementara untuk uang hasil kejahatan dari Indonesia yang dicuci di luar negeri, polanya serupa dengan tambahan kawasan Asia sebagai kawasan lintas negara berisiko tinggi.",
+   "Pada risiko pendanaan terorisme, penyalahgunaan organisasi nirlaba, penggalangan dana masyarakat lewat platform digital, dan pendanaan mandiri menjadi pola penghimpunan dana dengan risiko tertinggi. Sementara risiko pendanaan proliferasi senjata pemusnah massal berada pada kategori menengah setelah memperhitungkan pengendalian yang ada, dengan ancaman langsung ke Indonesia dinilai relatif rendah. PPATK juga mengidentifikasi ancaman baru dalam pencucian uang, antara lain keuangan terdesentralisasi, perpindahan aset lintas jaringan blockchain, transaksi langsung antarpengguna, deepfake, pemalsuan identitas, dan penyalahgunaan agen berbasis kecerdasan artifisial."
+  ],
+  "fotoAdegan": "Interior of a busy Indonesian bank branch, tellers assisting customers at counters under fluorescent lighting, no visible signage",
+  "fotoSumber": "https://www.ppatk.go.id//backend/assets/images/berita_utama/1790927483_1676.jpeg",
+  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "takeaway": "Yang berubah konkret: PPATK memperbarui peta risiko pencucian uang untuk keempat kalinya sejak 2015 dengan metodologi FATF terbaru, dan untuk pertama kalinya menambahkan pemetaan serupa untuk pendanaan terorisme serta pendanaan proliferasi senjata. Pihak yang kena dampak langsung adalah sektor yang disebut eksplisit perlu pengawasan lebih kuat, yaitu penukaran valuta asing bukan bank, bank umum, agen properti, notaris, dan PPAT, serta enam wilayah berisiko tinggi yakni Jakarta, Kepulauan Riau, Bali, Sumatera Utara, Jawa Barat, dan Jawa Timur. Dengan daftar sektor dan wilayah yang disebut sedetail itu, arah yang terbaca adalah pengawasan berbasis risiko yang lebih tertarget ke sektor dan wilayah tersebut, bukan pengawasan merata, sebagai persiapan menghadapi evaluasi FATF pada 2029. Yang akan memastikan arah ini adalah aturan turunan dari regulator seperti OJK atau Kementerian Hukum untuk sektor-sektor yang disebut, serta dokumen kesiapan evaluasi yang biasanya terbit mendekati tahun 2029.",
+  "imageV": "muqyjotv"
+ },
+ {
+  "slug": "penebusan-pupuk-perikanan-bersubsidi-di-sulsel-masih-rendah",
+  "category": "UMKM",
+  "title": "Penebusan Pupuk Perikanan Bersubsidi di Sulsel Masih [Rendah]",
+  "deck": "Realisasi penebusan pupuk perikanan bersubsidi di Sulawesi Selatan baru 11,9 persen dari kuota 102.479 ton, sementara capaian nasional juga baru 9,68 persen dari alokasi 295.686 ton.",
+  "image": "assets/img/penebusan-pupuk-perikanan-bersubsidi-di-sulsel-masih-rendah.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T12:40:48.511Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-kawal-percepatan-penebusan-pupuk-perikanan-bersubsidi-di-sulsel-ZzjR.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "pupuk subsidi",
+   "perikanan",
+   "Sulawesi Selatan",
+   "KKP"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) bersama pemerintah daerah dan PT Pupuk Indonesia mendorong pembudidaya ikan dan tambak di Sulawesi Selatan agar segera menebus kuota pupuk bersubsidi yang sudah menjadi hak mereka. Dorongan ini muncul karena realisasi penebusan di lapangan masih jauh tertinggal dibanding kuota yang sudah dialokasikan, padahal program subsidi pupuk khusus sektor perikanan ini baru pertama kali berjalan pada 2026. Bagi pembudidaya, ini menyangkut langsung biaya produksi tambak yang bisa ditekan kalau pupuk bersubsidi benar-benar terserap sebelum masa alokasi berakhir.",
+   "Sulawesi Selatan mendapat kuota pupuk bersubsidi terbesar di Indonesia, yakni 102.479 ton. Namun menurut data KKP per 24 September 2026, dari kuota tersebut baru 44.061 ton yang tercatat sebagai hak pembudidaya dalam sistem, dan yang benar-benar ditebus secara fisik hanya 12.175 ton, atau sekitar 11,9 persen dari total kuota provinsi. Pola serupa terjadi secara nasional: dari alokasi 295.686 ton pupuk bersubsidi perikanan tahun ini, 98.081 ton sudah tercatat dalam sistem e-RPSP, tapi realisasi penebusan baru 28.612 ton atau 9,68 persen dari alokasi nasional.",
+   "Di Kabupaten Pangkep, yang menjadi lokasi peninjauan KKP, kesenjangan ini terlihat lebih tajam. Dari kuota 16.068 ton, sebanyak 13.701 ton atau 85,3 persen sudah terdata atas nama pembudidaya, tetapi penebusan fisiknya baru mencapai 2.196 ton. Bupati Pangkep Muhammad Yusran Lalogau menyebut kecocokan data kartu tanda penduduk dengan kartu identitas pembudidaya perikanan atau KUSUKA menjadi kunci kelancaran verifikasi, sehingga jajaran pemerintah daerah diminta mendampingi pembudidaya menyelesaikan proses itu.",
+   "Dirjen Perikanan Budidaya KKP, TB Haeru Rahayu, mengatakan pemerintah daerah, penyuluh perikanan, dan tim PT Pupuk Indonesia sudah turun langsung ke lapangan untuk mengurai kendala penyaluran. Regional CEO 4 PT Pupuk Indonesia, Wisnu Ramadhani, menambahkan stok dan titik distribusi di Pangkep sudah disiapkan sehingga pembudidaya yang datanya sudah masuk sistem tinggal melakukan penebusan."
+  ],
+  "fotoAdegan": "Workers carrying fertilizer sacks along the edge of a shrimp pond in a coastal aquaculture area, tropical morning light",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-kawal-percepatan-penebusan-pupuk-perikanan-bersubsidi-di-sulsel-ZzjR.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan kesenjangan antara data dan kenyataan: di Pangkep, 85 persen kuota pupuk sudah tercatat atas nama pembudidaya tertentu, tapi baru sekitar 14 persen yang benar-benar diambil secara fisik, dan pola serupa terlihat di tingkat nasional dengan realisasi cuma 9,68 persen dari total alokasi. Yang terdampak langsung adalah pembudidaya tambak di Sulawesi Selatan, terutama di Pangkep, karena kuota yang sudah jadi hak mereka berisiko tidak terpakai kalau penebusan tidak dikejar sebelum tahun anggaran berakhir. Pemerintah daerah sendiri menyebut penyebabnya soal administratif, yaitu kecocokan data KTP dengan kartu KUSUKA pembudidaya, bukan soal stok pupuk yang menurut PT Pupuk Indonesia sudah tersedia. Karena ini tahun pertama program subsidi pupuk perikanan dijalankan, kesenjangan data-realisasi ini bisa jadi soal transisi yang mengecil seiring sosialisasi, atau soal struktural yang berulang di tahun-tahun berikutnya. Yang akan menentukan itu adalah angka realisasi nasional pada akhir tahun anggaran 2026, apakah bergerak mendekati alokasi 295.686 ton atau tetap jauh di bawahnya.",
+  "imageV": "muqyjqaw"
+ },
+ {
+  "slug": "bi-soroti-kesenjangan-literasi-keuangan-anak-muda",
+  "category": "Moneter",
+  "title": "BI Soroti Kesenjangan [Literasi] Keuangan Anak Muda",
+  "deck": "BI mencatat indeks inklusi keuangan anak muda 18-25 tahun capai 95,69 persen, jauh di atas indeks literasi yang cuma 73,32 persen, saat resmikan gerai edukasi di Unair.",
+  "image": "assets/img/bi-soroti-kesenjangan-literasi-keuangan-anak-muda.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T12:37:12.551Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821026.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "literasi keuangan",
+   "QRIS",
+   "pelindungan konsumen"
+  ],
+  "body": [
+   "Bank Indonesia bersama Universitas Airlangga dan Perbanas meresmikan Gerai CERDAS PeKA, pos edukasi dan konsultasi bagi mahasiswa soal keuangan digital, di kampus UNAIR Surabaya pada 2 Oktober 2026. Langkah ini merespons makin maraknya penipuan digital yang memanfaatkan kepanikan dan desakan korban untuk bertransaksi cepat tanpa verifikasi. Bagi mahasiswa yang kian akrab dengan dompet digital dan QRIS, gerai ini menjadi tempat belajar mengenali risiko sekaligus mengetahui ke mana mengadukan masalah transaksi.",
+   "Deputi Gubernur BI Filianingsih Hendarta memaparkan data yang jadi alasan program ini. Survei Nasional Literasi dan Inklusi Keuangan 2026 mencatat 95,69 persen anak muda usia 18-25 tahun sudah menggunakan layanan keuangan digital, namun yang benar-benar memahami produk dan risikonya cuma 73,32 persen. Sementara itu, transaksi QRIS, metode bayar lewat kode QR yang kini jadi andalan generasi muda, sudah mencapai 17,45 miliar transaksi sejak awal tahun hingga Agustus 2026, dengan 69,32 juta pengguna dan 47,11 juta pedagang yang menerimanya.",
+   "Gerai CERDAS PeKA, kependekan dari Cakrawala Edukasi dan Ruang Diskusi Aman untuk Semua Konsumen Indonesia, mengusung tiga pendekatan: Peduli, membangun kesadaran bahwa keamanan transaksi adalah tanggung jawab bersama, Kenali, membiasakan mahasiswa memeriksa informasi dan produk sebelum bertransaksi, dan Adukan, mendorong mereka berani melapor lewat kanal resmi saat menemui masalah. Program ini merupakan bagian dari Gerakan Bersama Edukasi Pelindungan Konsumen (GEBER PK) dan merujuk pada Peraturan Bank Indonesia Nomor 6 Tahun 2026 tentang Pelindungan Konsumen serta Blueprint Sistem Pembayaran Indonesia 2030.",
+   "BI menyebut kolaborasi semacam ini melibatkan empat pihak: regulator yang memperkuat aturan dan pengamanan, industri perbankan yang menjaga keamanan produk dan layanan, kampus yang memperluas edukasi, dan masyarakat yang membangun kewaspadaan sendiri. Setelah Surabaya, BI menyatakan akan terus menjajaki kolaborasi serupa dengan perguruan tinggi dan asosiasi industri sistem pembayaran lain untuk memperluas edukasi dan pelindungan konsumen bagi generasi muda."
+  ],
+  "fotoAdegan": "Indonesian university students gathered around a small consultation table inside a campus hall, chatting with staff, soft daytime light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2821026/Cover-sp_2821026.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan BI mulai membangun pos edukasi fisik, gerai CERDAS PeKA, di kampus untuk menutup jarak antara akses dan pemahaman: 95,69 persen anak muda usia 18-25 tahun sudah memakai layanan keuangan digital seperti dompet digital dan QRIS, pembayaran lewat kode QR, tapi hanya 73,32 persen yang benar-benar memahami cara kerja dan risikonya. Yang kena dampak langsung adalah mahasiswa pengguna QRIS, yang transaksinya sudah tembus 17,45 miliar kali sejak awal tahun hingga Agustus 2026, serta kampus dan asosiasi perbankan yang digandeng sebagai mitra edukasi. Polanya terlihat: BI tidak lagi hanya mengandalkan kampanye imbauan, tapi menaruh layanan konsultasi dan pengaduan langsung di titik tempat anak muda beraktivitas, sejalan dengan aturan pelindungan konsumen PBI Nomor 6 Tahun 2026 yang baru berlaku. Ini mengarah ke strategi perluasan gerai serupa ke kampus-kampus lain secara bertahap, ketimbang satu program yang berhenti di Surabaya. Yang akan memastikan arah ini adalah apakah BI benar-benar membuka gerai sejenis di kampus lain dalam beberapa bulan ke depan, dan apakah survei literasi keuangan berikutnya menunjukkan jarak 95,69 persen berbanding 73,32 persen itu mulai menyempit.",
+  "imageV": "muqyjrqp"
+ },
+ {
   "slug": "link-gelar-rupslb-pergantian-direksi-komisaris-26-okt",
   "category": "Aksi Korporasi",
   "title": "LINK Gelar RUPSLB [Pergantian] Direksi-Komisaris 26 Okt",
@@ -157,6 +241,33 @@ var ARTICLES = [
   "fotoAdegan": "Workers checking rows of poultry houses on a large modern chicken farm in rural Indonesia, early morning light",
   "takeaway": "Laporan ini netral bagi WMUU karena isinya sebatas konfirmasi rutin menjawab pertanyaan bursa soal volatilitas saham, tanpa ada kabar baru yang mengubah kondisi keuangan perseroan saat ini. Yang perlu diperhatikan investor adalah dampak rights issue terhadap jumlah saham beredar: begitu saham baru diterbitkan lewat PMHMETD, laba perseroan akan dibagi ke lebih banyak lembar saham, sehingga laba per saham berpotensi mengecil kalau pemegang saham lama tidak ikut menyerap jatah barunya. Kepastian bahwa pemegang saham pengendali akan tetap mempertahankan porsinya dan mendukung rights issue mengurangi risiko dia melepas kendali di tengah proses ini. Yang perlu dipantau selanjutnya adalah pengumuman resmi jadwal, harga pelaksanaan, dan target dana PMHMETD, karena surat ini belum mencantumkan tanggal atau nilai pastinya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bank-mandiri-bayar-dividen-interim-rp6-16-triliun",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Bayar Dividen Interim [Rp6,16] Triliun",
+  "deck": "Bertepatan HUT ke-28, Bank Mandiri bayarkan dividen interim Rp66 per saham, sehingga total dividen sepanjang 2026 tembus Rp50,63 triliun.",
+  "image": "assets/img/bank-mandiri-bayar-dividen-interim-rp6-16-triliun.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T14:13:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470783-bertepatan-dengan-hut-ke-28-bank-mandiri-bayarkan-dividen-interim-rp616-triliun",
+  "tags": [
+   "Bank Mandiri",
+   "dividen interim",
+   "HUT ke-28",
+   "dana pihak ketiga"
+  ],
+  "body": [
+   "Bank Mandiri mencairkan dividen interim tahun buku 2026 sebesar Rp66 per saham, setara sekitar Rp6,16 triliun, pada Jumat 2 Oktober 2026. Pembayaran ini sengaja dijadwalkan bertepatan dengan ulang tahun perusahaan yang ke-28, yang mengusung tema Tumbuh Bersama Majukan Indonesia.",
+   "Dengan tambahan ini, total dividen yang dibagikan Bank Mandiri sepanjang tahun kalender 2026 mencapai sekitar Rp50,63 triliun. Angka itu merupakan gabungan dari dividen tahun buku 2025 sebesar Rp44,47 triliun yang dibagikan sebelumnya, ditambah dividen interim tahun berjalan senilai Rp6,16 triliun.",
+   "Direktur Finance & Strategy Bank Mandiri, Novita Widya Anggraini, menyebut pembayaran ini sebagai bentuk apresiasi kepada pemegang saham, termasuk investor ritel, sekaligus cerminan keyakinan manajemen terhadap kinerja bisnis perusahaan. Secara bank only, penyaluran kredit hingga Agustus 2026 tumbuh 17,6 persen dibanding tahun sebelumnya menjadi Rp1.592 triliun, ditopang simpanan nasabah yang juga naik 17,6 persen menjadi Rp1.687 triliun.",
+   "Total aset bank per Agustus 2026 tercatat Rp2.358 triliun, tumbuh 20,7 persen dibanding tahun sebelumnya, sementara laba bersih naik 22,3 persen menjadi Rp37,5 triliun. Kualitas kredit tetap terjaga, dengan rasio kredit bermasalah atau NPL gross sebesar 1,00 persen dan cadangan penutup risiko kredit macet mencapai 240,6 persen dari nilai kredit bermasalah tersebut."
+  ],
+  "fotoAdegan": "Bank officer assisting a customer at a teller counter inside a modern bank branch in Jakarta, warm interior lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/02/6abf55e5470f2-bertepatan-dengan-hut-ke-28-bank-mandiri-bayarkan-dividen-interim-rp616-triliun_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pembayaran dividen interim Rp6,16 triliun ini membuat total dividen yang dibagikan Bank Mandiri sepanjang 2026 mencapai Rp50,63 triliun, gabungan dari dividen tahun buku 2025 sebesar Rp44,47 triliun dan interim tahun berjalan ini. Yang menerima langsung adalah pemegang saham, termasuk investor ritel, dalam bentuk uang tunai per lembar saham yang mereka pegang. Keputusan membagikan dividen di tengah tahun, bukan menunggu rapat pemegang saham akhir tahun, biasanya ditopang kinerja yang memang sedang kuat, dan itu terlihat dari penyaluran kredit yang tumbuh 17,6 persen serta laba bersih yang naik 22,3 persen hingga Agustus 2026. Kualitas kredit juga masih terjaga, tercermin dari rasio kredit macet yang cuma 1 persen dan cadangan dana penutup kredit macet yang jauh lebih besar dari nilai kreditnya. Yang akan menentukan apakah pembagian dividen interim ini jadi pola rutin atau sekadar momentum ulang tahun adalah keputusan dividen final dari laba tahun buku 2026 pada rapat pemegang saham tahunan berikutnya.",
+  "imageV": "muqyjs6s"
  },
  {
   "slug": "bei-buka-suspensi-edge-untuk-crossing-saham-go-private",

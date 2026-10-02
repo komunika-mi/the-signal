@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "nayz-pengendali-baru-buka-tender-wajib-rp75-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ: Pengendali Baru Buka [Tender Wajib] Rp75 per Saham",
+  "deck": "Saiko Consultancy menawar tender wajib atas saham publik NAYZ seharga Rp75 per lembar, menyusul pengambilalihan 29,41 persen saham dari PT Asia Intrainvesta pada Agustus 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NAYZ",
+   "tender wajib",
+   "akuisisi",
+   "Saiko Consultancy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1b232f5a0b_1fc2f43a4b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kkp-kemendag-buka-akses-ekspor-umkm-perikanan",
   "category": "UMKM",
   "title": "KKP-Kemendag Buka Akses [Ekspor] UMKM Perikanan",
@@ -6482,21 +6498,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469345-permudah-transaksi-pelaku-usaha-livin-merchant-dukung-pelaku-usaha-tumbuh-bersama-di-era-digital"
- },
- {
-  "slug": "hrum-siapkan-buyback-rp120-miliar-saham-hingga-24-desember",
-  "category": "Aksi Korporasi",
-  "title": "HRUM Siapkan Buyback [Rp120 Miliar] Saham hingga 24 Desember",
-  "deck": "Harum Energy akan membeli kembali maksimal 111 juta saham atau 0,82 persen dari modal disetor, senilai hingga Rp120 miliar dari kas internal, mulai 28 September hingga 24 Desember 2026.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRUM",
-   "buyback saham",
-   "Harum Energy",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/81d7e2a65a_d75d2a9ed5.pdf",
-  "sourceLabel": "IDX"
  }
 ];

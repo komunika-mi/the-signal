@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "nayz-pengendali-baru-buka-tender-wajib-rp75-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ: Pengendali Baru Buka [Tender Wajib] Rp75 per Saham",
+  "deck": "Saiko Consultancy menawar tender wajib atas saham publik NAYZ seharga Rp75 per lembar, menyusul pengambilalihan 29,41 persen saham dari PT Asia Intrainvesta pada Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T08:51:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1b232f5a0b_1fc2f43a4b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "tender wajib",
+   "akuisisi",
+   "Saiko Consultancy"
+  ],
+  "body": [
+   "Saiko Consultancy Pte. Ltd., perusahaan asal Singapura yang baru didirikan pada 8 Januari 2026, resmi menjadi pengendali baru PT Hassana Boga Sejahtera Tbk (NAYZ) setelah membeli 750.000.000 saham atau 29,41 persen dari modal disetor penuh perusahaan dari PT Asia Intrainvesta (AI) pada 19 Agustus 2026. Transaksi dilakukan di harga Rp23,5 per saham melalui mekanisme crossing di Bursa Efek Indonesia. Karena pengambilalihan ini mengubah pihak yang mengendalikan NAYZ, sesuai Peraturan OJK No. 9/2018, Saiko wajib menawarkan pembelian saham kepada seluruh pemegang saham publik lain melalui penawaran tender wajib. Saiko menunjuk anak usahanya, PT Saiko Consultancy Grand (SCG), yang sahamnya 99,98 persen dimiliki Saiko, untuk melaksanakan penawaran ini.",
+   "Penawaran tender wajib ini menyasar sebanyak-banyaknya 1.169.011.482 saham atau 45,84 persen dari modal disetor penuh NAYZ, dengan harga Rp75 per saham, sehingga nilai totalnya bisa mencapai Rp87,68 miliar. Harga ini ditetapkan berdasarkan aturan OJK yang mewajibkan penawar memakai angka yang lebih tinggi antara harga pengambilalihan (Rp23,5 per saham) atau rata-rata harga tertinggi perdagangan harian saham NAYZ di bursa selama 90 hari sebelum pengumuman negosiasi pengambilalihan, yang tercatat Rp74,45 dan dibulatkan ke atas menjadi Rp75. Masa penawaran berlangsung dari 5 Oktober hingga 3 November 2026, dengan pembayaran kepada pemegang saham yang menjual dijadwalkan pada 10 November 2026. PT Asia Intrainvesta, sebagai penjual dan pengendali lama, dikecualikan dari penawaran ini. Jika seluruh pemegang saham publik yang berhak ikut menjual sahamnya, kepemilikan Saiko atas NAYZ, baik langsung maupun lewat SCG, bisa naik menjadi 1.919.011.472 saham atau 75,26 persen dari total modal disetor perusahaan.",
+   "Saiko menyatakan tujuan pengambilalihan ini adalah pengembangan usaha NAYZ. Rencananya, pengembangan itu dilakukan lewat mekanisme inbreng, yaitu penyertaan aset atau saham perusahaan lain yang dimiliki Saiko atau pihak yang ditunjuknya ke dalam NAYZ. Sebagai bagian dari rencana ini, NAYZ akan mengubah dan menambah kegiatan usahanya, serta mengalihkan sebagian atau seluruh bisnis dan asetnya yang ada saat ini, yaitu industri makanan dan makanan bayi, kepada AI dan/atau pihak lain yang ditunjuk AI. Sebagai gantinya, NAYZ akan menerima tambahan modal yang pelaksanaannya mengikuti aturan pasar modal yang berlaku. Dalam dokumen ini, Saiko menegaskan tidak berencana membubarkan NAYZ, mengubah kebijakan dividen, atau mencabut status perusahaan terbuka NAYZ dari Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Workers stacking cartons of packaged food products inside a large warehouse loading bay, forklift nearby, afternoon light through open doors",
+  "takeaway": "Laporan ini netral bagi kondisi NAYZ saat ini, karena harga tender sudah mengikuti rumus yang diwajibkan OJK dan perusahaan menegaskan tidak ada rencana delisting atau perubahan kebijakan dividen, tetapi rencana mengalihkan bisnis dan aset perusahaan ke pengendali lama sambil menerima suntikan modal baru membuat arah bisnis ke depan belum jelas. Yang paling kena dampak adalah jumlah saham beredar dan laba per saham, sebab dokumen ini menyebut akan ada penambahan modal setelah pengalihan bisnis, dan kalau jumlah sahamnya bertambah sementara labanya belum tentu naik sebanding, bagian keuntungan per saham untuk pemegang saham lama bisa tergerus. Hak suara Saiko juga berpotensi melonjak dari 29,41 persen menjadi maksimal 75,26 persen kalau seluruh pemegang saham publik yang berhak ikut menjual sahamnya, yang berarti kendali penuh atas keputusan strategis NAYZ akan ada di tangan pemilik baru ini. Yang perlu dipantau pemegang saham adalah masa penawaran tender wajib pada 5 Oktober hingga 3 November 2026, tanggal pembayaran pada 10 November 2026, serta kelanjutan rencana pengalihan bisnis dan penambahan modal yang menurut dokumen ini masih harus mengikuti proses sesuai aturan pasar modal.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kkp-kemendag-buka-akses-ekspor-umkm-perikanan",
   "category": "UMKM",
   "title": "KKP-Kemendag Buka Akses [Ekspor] UMKM Perikanan",

@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mdka-umumkan-transaksi-afiliasi-jasa-konstruksi-tambang-pani",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Umumkan Transaksi [Afiliasi] Jasa Konstruksi Tambang Pani",
+  "deck": "Anak usaha MDKA, Merdeka Mining Servis, meneken perjanjian jasa konstruksi dengan tiga perusahaan terkendali lain untuk pengembangan Tambang Emas Pani, dinilai wajar oleh penilai independen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T23:02:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6877368ca0_7634f5c477.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKA",
+  "tags": [
+   "MDKA",
+   "Transaksi Afiliasi",
+   "Tambang Emas Pani",
+   "Merdeka Copper Gold"
+  ],
+  "body": [
+   "PT Merdeka Copper Gold Tbk (MDKA) melaporkan bahwa anak usahanya, PT Merdeka Mining Servis (MMS), menandatangani Perjanjian Penyediaan Jasa dengan tiga perusahaan terkendali MDKA lainnya, yaitu PT Pani Industri Nusantara (PIN), PT Mentari Alam Persada (MAP), dan PT Pani Bersama Tambang (PBT). Perjanjian ini berkaitan dengan jasa konstruksi untuk pengembangan Tambang Emas Pani di Kecamatan Marisa, Kabupaten Pohuwato, Gorontalo. Transaksi tercatat berlaku efektif sejak 30 September 2026.",
+   "Karena MMS, PIN, MAP, dan PBT sama-sama berstatus Perusahaan Terkendali MDKA, transaksi ini digolongkan sebagai Transaksi Afiliasi menurut POJK 42/2020, meski perusahaan menegaskan ini bukan Transaksi Benturan Kepentingan. Aturan itu mewajibkan MDKA menggunakan penilai independen untuk menilai kewajaran transaksi. Perseroan menunjuk KJPP Ferdinand, Danar, Ichsan dan Rekan, yang menerbitkan pendapat kewajaran lewat Laporan Penilai Nomor 00000/2.0176-00/BS/02/0453/1/IX/2026 tertanggal 30 September 2026, mencakup penilaian atas jasa konstruksi yang disediakan MMS untuk ketiga mitra tersebut.",
+   "Sesuai Pasal 4 ayat (3) huruf a POJK 42/2020, MDKA wajib mengumumkan keterbukaan informasi ini dan menyerahkan laporan penilai beserta dokumen pendukung ke OJK paling lambat dua hari kerja setelah tanggal transaksi, yakni paling lambat 2 Oktober 2026. Keterbukaan informasi ini diterbitkan di Jakarta pada tanggal yang sama dan ditandatangani oleh Corporate Secretary MDKA, Jessica J."
+  ],
+  "fotoAdegan": "Heavy construction equipment and workers building access roads on a forested highland mine site in Gorontalo, misty morning light",
+  "takeaway": "Transaksi ini netral bagi MDKA karena uangnya berputar di dalam grup sendiri, dari satu anak usaha ke anak usaha lain yang sama-sama dikendalikan MDKA, sehingga secara konsolidasi tidak ada dana segar yang masuk atau keluar dari grup. Yang tersentuh di sini bukan laba atau arus kas MDKA secara langsung, melainkan kewajaran harga jasa konstruksi antar anak usaha, itulah sebabnya aturan OJK mewajibkan penilai independen menilai transaksi semacam ini, supaya tidak ada pihak dalam grup yang dirugikan lewat harga yang timpang. Dokumen ini juga tidak mencantumkan nilai nominal transaksi, jadi besarnya dampak finansial belum bisa diukur dari laporan ini saja. Yang perlu dipantau selanjutnya adalah kepatuhan MDKA menyerahkan laporan penilai dan dokumen pendukung ke OJK paling lambat 2 Oktober 2026 sesuai tenggat yang disebut dalam dokumen, serta perkembangan konstruksi Tambang Emas Pani sebagai salah satu proyek pertumbuhan utama perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tlkm-tawarkan-buyback-rp2-290-ke-penolak-spin-off-fiber",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Tawarkan [Buyback] Rp2.290 ke Penolak Spin-off Fiber",
+  "deck": "Telkom membuka pembelian kembali saham bagi pemegang saham yang menolak pemisahan segmen fiber ke anak usaha, dengan harga Rp2.290 per saham dan tenggat pengajuan 5 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T22:41:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/def96e9f56_0336c30cbc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "buyback saham",
+   "spin-off fiber",
+   "Telkom Infrastruktur Indonesia"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk mengumumkan pembukaan pembelian kembali saham bagi pemegang saham yang menolak rencana pemisahan sebagian segmen usaha Wholesale Fiber Connectivity Tahap 2 ke anak usahanya, PT Telkom Infrastruktur Indonesia (TIF). Rencana pemisahan ini disetujui dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 30 September 2026, di mana TIF adalah anak perusahaan yang 99,99 persen sahamnya dimiliki langsung oleh Telkom. Dalam RUPSLB tersebut terdapat pemegang saham yang memberikan suara tidak setuju, dan sesuai Pasal 62 Undang-Undang Perseroan Terbatas, mereka berhak meminta Telkom membeli kembali sahamnya dengan harga wajar.",
+   "Pemegang saham yang berhak mengajukan penjualan harus memenuhi empat syarat sekaligus: namanya tercatat dalam daftar pemegang saham per 7 September 2026, hadir dalam RUPSLB, secara sah memberikan suara tidak setuju pada mata acara pemisahan usaha, dan telah menyerahkan formulir pernyataan kehendak menjual saham. Harga pembelian ditetapkan berdasarkan harga penutupan saham Telkom pada tanggal RUPSLB, yakni Rp2.290 per saham. Formulir pernyataan jual harus diserahkan kepada Biro Administrasi Efek yang ditunjuk, PT Datindo Entrycom, paling lambat pukul 17.00 WIB pada 5 Oktober 2026, disertai instruksi TEND melalui sistem C-BEST pada periode 2 hingga 5 Oktober 2026 agar saham berstatus diblokir untuk aksi korporasi.",
+   "Sesuai Pasal 37 UUPT, jumlah nilai nominal seluruh saham yang dibeli kembali tidak boleh melebihi 10 persen dari modal ditempatkan Telkom, dan kekayaan bersih perseroan tidak boleh turun di bawah modal ditempatkan ditambah cadangan wajib. Pembayaran kepada pemegang saham yang sahamnya dibeli baru akan dilakukan paling cepat tujuh hari kerja setelah Kementerian Hukum menerbitkan persetujuan atas peningkatan modal TIF terkait pemisahan usaha ini, sehingga tanggal pastinya belum ditentukan. Tanggal efektif pemisahan usaha sendiri diperkirakan jatuh pada 1 Oktober 2026. Telkom menyatakan bahwa pelaksanaan pembelian kembali saham ini diyakini tidak akan berdampak negatif material terhadap kegiatan usahanya."
+  ],
+  "fotoAdegan": "Technicians splicing fiber optic cables on a utility pole along a busy Indonesian street, daylight, wide shot",
+  "takeaway": "Laporan ini netral bagi Telkom, karena isinya adalah mekanisme wajib menurut undang-undang untuk menampung pemegang saham yang menolak pemisahan segmen fiber, bukan kabar baru soal kondisi bisnis atau keuangan perusahaan. Yang tersentuh adalah kas dan jumlah saham beredar, sebab setiap pembelian kembali dibayar tunai oleh perseroan dan mengurangi saham yang beredar di pasar, tapi undang-undang membatasi pembelian ini maksimal 10 persen dari total saham yang diterbitkan dan mewajibkan kekayaan bersih perusahaan tetap di atas modal ditempatkan plus cadangan wajib, sehingga dampaknya terbatas. Skala sebenarnya masih belum jelas karena dokumen ini belum merinci berapa banyak pemegang saham yang benar benar mengajukan penjualan. Yang perlu dipantau adalah tenggat pengajuan formulir pada pukul 17.00 WIB tanggal 5 Oktober 2026, serta Tanggal Pembayaran yang baru bisa ditentukan setelah Kementerian Hukum menyetujui peningkatan modal PT Telkom Infrastruktur Indonesia.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "btpn-merger-oto-ke-summit-oto-finance-resmi-berlaku",
+  "category": "Aksi Korporasi",
+  "title": "BTPN: Merger [OTO] ke Summit Oto Finance Resmi Berlaku",
+  "deck": "Bank SMBC Indonesia (BTPN) mengonfirmasi penggabungan anak usaha pembiayaan PT Oto Multiartha ke PT Summit Oto Finance resmi efektif sejak 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T22:13:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63efd98fee_2ed72ad015.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPN",
+  "tags": [
+   "BTPN",
+   "merger anak usaha",
+   "Summit Oto Finance",
+   "Oto Multiartha"
+  ],
+  "body": [
+   "PT Bank SMBC Indonesia Tbk (BTPN) menyampaikan keterbukaan informasi bahwa penggabungan (merger) anak usahanya, PT Oto Multiartha (OTO), ke dalam PT Summit Oto Finance (SOF) telah resmi berlaku efektif sejak 1 Oktober 2026. Surat ini merupakan tindak lanjut dari keterbukaan informasi sebelumnya, No. S.065/CCS/VII/2026 tanggal 2 Juli 2026, yang saat itu mengumumkan rencana aksi korporasi penggabungan dua anak usaha pembiayaan tersebut.",
+   "Dalam surat yang ditandatangani Corporate Secretary BTPN, Eneng Yulie Andriani, dan dikirim ke Otoritas Jasa Keuangan serta Bursa Efek Indonesia, perseroan menyatakan bahwa dampak dari penggabungan ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha mengacu sepenuhnya pada penjelasan yang sudah disampaikan dalam surat 2 Juli 2026 tersebut. Artinya, surat terbaru ini tidak memuat rincian baru soal nilai aset, modal, atau struktur kepemilikan hasil penggabungan OTO ke SOF, melainkan hanya menegaskan tanggal efektifnya.",
+   "Pelaporan ini disampaikan untuk memenuhi sejumlah aturan, antara lain POJK No. 31/POJK.04/2015 tentang keterbukaan informasi atau fakta material, Peraturan Bursa Efek Indonesia Nomor I-E, serta aturan transparansi laporan bank dari OJK. Tembusan surat juga dikirim ke Kustodian Sentral Efek Indonesia dan wali amanat."
+  ],
+  "fotoAdegan": "A busy multifinance office floor in Jakarta with staff assisting customers near parked motorcycles, blurred paperwork counter, afternoon light",
+  "takeaway": "Penilaian kami netral, karena surat ini hanya menegaskan tanggal mulai berlakunya rencana merger yang sudah diumumkan tiga bulan lalu, tanpa angka baru soal nilai aset atau modal gabungan. Yang tersentuh di sini adalah struktur anak usaha pembiayaan BTPN, dua perusahaan pembiayaan kendaraan, OTO dan SOF, kini digabung jadi satu entitas, dan pelaku pasar biasanya mencermati konsolidasi semacam ini karena bisa mengubah ukuran portofolio pembiayaan dan posisi modal anak usaha, meski besarannya belum diungkap dalam surat ini. Yang perlu dipantau selanjutnya adalah laporan keuangan konsolidasian BTPN pada kuartal mendatang, untuk melihat apakah penggabungan ini membawa perubahan material pada aset atau laba anak usaha pembiayaan, mengingat rincian dampaknya belum pernah dipublikasikan secara spesifik baik di surat ini maupun suratnya yang dirujuk tertanggal 2 Juli 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kija-rogoh-rp340-9-m-kuasai-51-seafer-di-kendal",
+  "category": "Aksi Korporasi",
+  "title": "KIJA Rogoh Rp340,9 M, Kuasai 51% [Seafer] di Kendal",
+  "deck": "Entitas anak KIJA, PT Indocargomas Persada, mengambilalih 51% saham PT Kawasan Industri Seafer senilai Rp340,86 miliar, menguasai land bank 500,24 hektar di Kendal, Jawa Tengah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T22:04:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/31e6ac7d86_71d067108c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KIJA",
+  "tags": [
+   "KIJA",
+   "akuisisi",
+   "kawasan industri",
+   "Kendal"
+  ],
+  "body": [
+   "PT Indocargomas Persada (IP), entitas anak Kawasan Industri Jababeka Tbk (KIJA) yang sahamnya 100 persen dikuasai KIJA, menandatangani Akta Jual Beli Saham pada 1 Oktober 2026 di hadapan notaris Adi Triharso di Jakarta. Lewat akta itu, IP membeli 340.863.090 saham PT Kawasan Industri Seafer (KIS), setara 51 persen dari total 668.359.000 saham KIS, dengan harga Rp340.863.090.000. Saham itu dibeli dari PT Seafer Lumina Capital, yang setelah transaksi ini tinggal memegang 327.495.910 saham atau 49 persen dari KIS. Dengan begitu, IP kini menjadi pemegang saham pengendali KIS.",
+   "KIS bergerak di bidang pengembangan kawasan industri dengan land bank seluas sekitar 5.002.363 meter persegi atau 500,24 hektar di Kabupaten Kendal, Jawa Tengah. Karena IP kini mengendalikan KIS, laporan keuangan KIS akan dikonsolidasikan ke laporan keuangan KIJA. KIJA menyebut tujuan transaksi ini adalah memperluas bisnis kawasan industri, khususnya di Jawa Tengah, sekaligus membuka akses untuk mengembangkan lahan di Kendal tersebut melalui IP.",
+   "KIJA menegaskan nilai transaksi Rp340,86 miliar ini tidak mencapai ambang batas 20 persen dari ekuitas perusahaan, sehingga tidak termasuk kategori transaksi material menurut POJK 17/2020. Rasio total aset, laba bersih, dan pendapatan usaha KIS dibanding KIJA juga disebut tidak mencapai 20 persen. Karena PT Seafer Lumina Capital tidak terafiliasi dengan KIJA, pemegang saham utama, pengendali, direksi, maupun komisaris perusahaan, transaksi ini juga tidak dikategorikan sebagai transaksi afiliasi atau transaksi benturan kepentingan menurut POJK 42/2020."
+  ],
+  "fotoAdegan": "Wide flat cleared land with unpaved access roads cutting through grassy fields, survey stakes and a distant excavator, overcast Central Java sky",
+  "takeaway": "Laporan ini condong positif bagi KIJA karena perusahaan menambah kendali atas lahan siap kembang seluas 500 hektar di Kendal lewat transaksi dengan pihak yang tidak berafiliasi, tanpa indikasi benturan kepentingan. Yang tersentuh adalah sisi aset dan arus kas: KIJA mengeluarkan dana sekitar Rp340,86 miliar untuk membeli saham KIS, dan ke depan aset serta utang KIS akan masuk ke buku konsolidasian KIJA, sementara 49 persen saham yang masih dipegang Seafer Lumina Capital akan tercatat sebagai kepentingan non-pengendali dalam ekuitas KIJA. Pelaku pasar biasanya mencermati pos-pos ini karena menunjukkan seberapa besar kas perusahaan terpakai dan bagaimana porsi kepemilikan pihak luar memengaruhi laba yang benar-benar menjadi hak pemegang saham KIJA. Yang perlu dipantau berikutnya adalah laporan keuangan KIJA periode mendatang, yang akan memuat rincian penilaian wajar aset dan liabilitas KIS serta kemungkinan pengakuan goodwill dari transaksi ini, sebagaimana dijanjikan perusahaan dalam keterbukaan ini. Karena transaksi sudah efektif sejak penandatanganan akta pada 1 Oktober 2026, tidak ada lagi syarat RUPS atau tenggat tambahan yang disebutkan dalam dokumen.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "vtny-beri-penjelasan-ke-bei-soal-opini-audit-pengecualian",
   "category": "Aksi Korporasi",
   "title": "VTNY Beri Penjelasan ke BEI soal Opini Audit [Pengecualian]",
@@ -106,6 +210,31 @@ var ARTICLES = [
   "fotoAdegan": "Workers in protective gear monitoring molten steel being poured at an industrial steel mill, sparks and orange glow, wide shot",
   "takeaway": "Laporan ini condong negatif bagi pemegang saham lama, karena penerbitan 1,02 triliun saham baru membuat porsi kepemilikan mereka menyusut drastis dari seluruhnya menjadi tinggal sekitar 0,53 persen, sementara PT Headwell Bintang Energi Hijau langsung masuk sebagai pengendali baru dengan 64,9 persen saham. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu laba atau rugi perseroan yang sama kini terbagi ke jumlah lembar saham yang hampir 187 kali lebih banyak, sehingga nilai yang jatuh ke tangan pemegang saham lama per lembarnya ikut menyusut tajam. Di sisi lain, perseroan memang mendapat dana segar sekitar Rp201,6 miliar dari investor independen dan Mantra Capital Persadan yang sebagian dipakai menyuntik modal ke anak usaha Citra Baru Steel dan Radja Udang Malingping serta melunasi sisa pembelian saham Radja Udang Malingping, meski dokumen ini tidak menjelaskan untuk apa porsi dana terbesar dari Headwell senilai Rp668 miliar akan dipakai. Yang perlu dipantau berikutnya adalah public expose insidentil yang dijadwalkan 9 Oktober 2026, saat perseroan mestinya menjelaskan lebih lanjut dampak perubahan pengendali dan penggunaan dana secara utuh kepada pemegang saham.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "asmi-pastikan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ASMI Pastikan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Menjawab surat BEI soal volatilitas transaksi, manajemen ASMI menyatakan tidak ada informasi material maupun rencana aksi korporasi yang belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T19:43:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e2ec27e839_7d960352e8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASMI",
+  "tags": [
+   "ASMI",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Asuransi Maximus Graha Persada Tbk (ASMI) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi efek perseroan, yang disampaikan BEI melalui surat nomor S-12553/BEI.PP2/09-2026. Dalam surat balasan bernomor Maximus/975/CRP/27/10/2026 tertanggal 2 Oktober 2026, Corporate Secretary ASMI, Norvin Osel, menyatakan bahwa sampai saat surat itu disampaikan, perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi Atau Fakta Material.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham serta Laporan Aktivitas Menjaminkan Saham. Selain itu, ASMI menyatakan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa, dan tidak ada informasi, fakta, atau kejadian penting lain yang material terhadap kelangsungan usaha perseroan yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's central business district, traffic passing below in midday light",
+  "takeaway": "Netral, sebab isi suratnya semata konfirmasi rutin bahwa tidak ada perubahan apa pun di balik lonjakan transaksi saham ASMI, bukan pengumuman aksi korporasi atau data keuangan baru. Poin yang disentuh di sini bukan angka kinerja seperti ekuitas atau laba per saham, melainkan soal keterbukaan informasi dan struktur kepemilikan, yakni apakah ada pemegang saham besar yang diam-diam menambah atau mengurangi porsinya sehingga bisa menggerakkan harga; jawaban ASMI menyatakan tidak ada aktivitas semacam itu yang diketahui perseroan. Permintaan penjelasan seperti ini biasanya muncul setelah bursa mendeteksi lonjakan harga atau volume transaksi yang tidak wajar, sehingga kegunaannya bagi investor adalah mengesampingkan dugaan ada informasi tersembunyi di balik pergerakan itu. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi ASMI mereda setelah penjelasan ini terbit, serta apakah perseroan konsisten dengan pernyataannya bahwa tidak ada rencana aksi korporasi dalam tiga bulan ke depan, yakni hingga awal Januari 2027.",
+  "sentimen": "netral"
  },
  {
   "slug": "ppatk-rilis-peta-risiko-keuangan-jelang-evaluasi-fatf-2029",
@@ -450,6 +579,215 @@ var ARTICLES = [
   "fotoAdegan": "Rows of finished passenger cars parked in an orderly assembly yard at an Indonesian automotive plant, overcast morning light",
   "takeaway": "Pembagian dividen interim ini condong positif bagi ASII, karena menunjukkan perusahaan punya kas yang cukup kuat untuk membagikan sekitar Rp3,9 triliun kepada pemegang saham tanpa menunggu laporan tahunan rampung. Dividen semacam ini akan mengurangi kas dan ekuitas, yaitu selisih antara aset dan utang yang menjadi modal sendiri perusahaan, sebesar nilai yang dibagikan begitu dibayarkan, tapi bagi ASII yang rutin menghasilkan laba besar dari bisnis otomotif dan alat berat, jumlah ini tergolong wajar bagi skala usahanya. Perlu dicatat juga, karena perusahaan sedang menjalankan program pembelian kembali saham, total dividen final bisa bergeser tergantung berapa banyak saham yang masih berhak menerima dividen pada recording date. Yang perlu dipantau pembaca adalah recording date pada 14 Oktober 2026, yaitu batas waktu pemegang saham harus sudah tercatat untuk berhak atas dividen ini, serta tanggal pembayaran pada 30 Oktober 2026.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "pidl-rampungkan-dana-obligasi-dan-sukuk-rp943-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Rampungkan Dana [Obligasi] dan Sukuk Rp943 Miliar",
+  "deck": "Pindo Deli Pulp and Paper Mills (PIDL) melaporkan seluruh dana hasil obligasi dan sukuk mudharabah berkelanjutan II tahap I 2026, totalnya Rp943,42 miliar, sudah habis terpakai tanpa sisa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:06:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c36544d29_73eba136cb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIDL",
+  "tags": [
+   "PIDL",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "penggunaan dana IPO"
+  ],
+  "body": [
+   "PT Pindo Deli Pulp and Paper Mills (PIDL) melaporkan ke Otoritas Jasa Keuangan realisasi penggunaan dana hasil dua instrumen yang sama-sama efektif 30 Juni 2026, yaitu Obligasi Berkelanjutan II Tahap I Tahun 2026 senilai Rp455,97 miliar dan Sukuk Mudharabah Berkelanjutan II Tahap I Tahun 2026 senilai Rp487,46 miliar. Total dana yang terkumpul dari kedua instrumen itu mencapai Rp943,42 miliar. Setelah dipotong biaya penawaran umum sebesar Rp3,55 miliar untuk obligasi dan Rp3,07 miliar untuk sukuk, dana bersih yang diterima perusahaan masing-masing adalah Rp452,41 miliar dan Rp484,38 miliar.",
+   "Dalam laporan yang disampaikan 2 Oktober 2026 dan mencakup posisi hingga 30 September 2026 itu, seluruh dana bersih sudah direalisasikan penggunaannya tanpa sisa sepeser pun di kedua pos. Dari dana obligasi, 99 persen atau Rp446,94 miliar dipakai untuk membayar utang, mencakup pokok pinjaman, angsuran pokok pinjaman, dan atau bunga, sementara 1 persen sisanya atau Rp5,48 miliar dipakai sebagai modal kerja. Adapun seluruh dana dari sukuk mudharabah, Rp484,38 miliar, dialokasikan 100 persen untuk modal kerja.",
+   "Laporan ditandatangani Direktur Kosim Sutiono dan ditembuskan kepada Direksi Bursa Efek Indonesia serta PT Bank KB Indonesia Tbk selaku wali amanat. Dokumen juga menyebut tidak ada dana yang ditempatkan sementara pada instrumen investasi apa pun sebelum direalisasikan, dan penyampaian laporan ini merupakan kewajiban rutin sesuai Peraturan OJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum."
+  ],
+  "fotoAdegan": "Workers inspecting large rolls of brown paper on a production line inside a pulp and paper mill, industrial lighting, safety vests",
+  "takeaway": "Laporan ini netral bagi kinerja PIDL karena dana obligasi dan sukuk sudah dipakai persis sesuai rencana di prospektus tanpa penyimpangan, namun porsi dominannya hanya memindahkan utang lama ke utang baru, bukan menambah kapasitas usaha. Pos yang tersentuh adalah beban bunga dan arus kas perusahaan: ketika 99 persen dana obligasi dipakai melunasi pokok dan bunga pinjaman lama, PIDL pada dasarnya mengganti utang bank dengan utang obligasi, sehingga biaya bunga ke depan bergantung pada kupon obligasi baru dibanding bunga pinjaman yang dilunasi, sementara dana sukuk yang seluruhnya masuk modal kerja menambah kas yang bisa dipakai membiayai kegiatan operasional sehari-hari seperti pembelian bahan baku. Yang perlu dipantau selanjutnya adalah apakah Pindo Deli akan menerbitkan Tahap II dari program Obligasi dan Sukuk Mudharabah Berkelanjutan II ini, serta laporan realisasi periode berikutnya yang wajib disampaikan sesuai Peraturan OJK Nomor 40 Tahun 2025.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "maxi-anjlok-36-bei-minta-penjelasan-usai-batas-gocap-dihapus",
+  "category": "Aksi Korporasi",
+  "title": "MAXI Anjlok 36%, BEI Minta Penjelasan usai Batas [Gocap] Dihapus",
+  "deck": "Saham MAXI tersungkur dari Rp50 ke Rp32 dan terus merosot hingga Rp26, ARB lima hari beruntun setelah BEI mencabut batas bawah harga saham Rp50.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:02:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2508bdb24e_7b836d0e17.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAXI",
+  "tags": [
+   "MAXI",
+   "BEI",
+   "auto rejection",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Maxindo Karya Anugerah Tbk (MAXI) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-12636/BEI.PP2/10-2026 tertanggal 1 Oktober 2026 soal lonjakan volatilitas transaksi sahamnya. BEI mencatat harga penutupan MAXI turun kumulatif Rp18 atau 36 persen dari Rp50 pada 25 September 2026 menjadi Rp32, dengan rata-rata volume transaksi melonjak menjadi 288.497.200 saham per hari dan frekuensi 16.309 kali, jauh di atas kondisi 25 September yang hanya 10.500 saham dengan 8 kali transaksi.",
+   "Berdasarkan data historis yang dilampirkan perseroan, harga MAXI sebenarnya terus turun melewati titik yang disebut dalam surat BEI tersebut. Dari Rp50 pada 24-25 September, saham ini ambruk ke Rp43 pada 28 September (turun 14 persen), Rp37 pada 29 September (turun 13,95 persen), Rp32 pada 30 September (turun 13,51 persen, volume 288,50 juta saham), Rp28 pada 1 Oktober (turun 12,50 persen, volume 117,58 juta saham), hingga ditutup Rp26 pada 2 Oktober 2026 (turun 7,14 persen, volume 53,70 juta saham). Dengan kata lain, saham ini terkena auto rejection bawah selama lima hari bursa berturut-turut sejak Senin, 28 September hingga Jumat, 2 Oktober 2026.",
+   "Perseroan, melalui Direktur Keuangan Carolina Djaja, menjelaskan bahwa penurunan ini dipicu oleh aturan baru BEI yang berlaku efektif 28 September 2026 melalui Surat Keputusan Direksi Nomor Kep-00136/BEI/09-2026 tentang Perubahan Peraturan Nomor II-A Perdagangan Efek Bersifat Ekuitas. Aturan itu menghapus batas harga minimum saham Rp50, yang selama ini dikenal sebagai status saham gocap, menjadi hanya Rp1 per saham di pasar reguler dan pasar tunai, dengan tujuan resmi meningkatkan likuiditas dan kualitas pembentukan harga pasar. Perseroan menegaskan tidak mengetahui adanya informasi atau fakta material lain yang memengaruhi nilai sahamnya, tidak mengetahui aktivitas pemegang saham tertentu, belum memiliki rencana aksi korporasi dalam waktu dekat, dan pemegang saham utama disebut tidak punya rencana apa pun terkait kepemilikan sahamnya saat ini."
+  ],
+  "fotoAdegan": "Blurred motion shot of a stock exchange trading floor with traders walking past distant scrolling display screens, evening light in Jakarta.",
+  "takeaway": "Laporan ini netral bagi fundamental MAXI, sebab penurunan harga sahamnya murni dipicu perubahan aturan main bursa, bukan kabar buruk dari sisi bisnis atau keuangan perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh di sini, yang berubah hanyalah batas bawah harga harian yang boleh dicapai saham ini, dikenal sebagai auto rejection bawah, setelah BEI mencabut lantai harga Rp50 yang selama ini menahan saham gocap seperti MAXI dari penurunan lebih lanjut. Yang perlu dipantau adalah apakah harga MAXI mulai stabil pada hari-hari bursa berikutnya setelah lima hari ARB beruntun, atau justru berlanjut turun sehingga BEI kembali meminta penjelasan tambahan, karena perubahan aturan serupa berpotensi memicu koreksi tajam pada saham-saham gocap lain yang sebelumnya tertahan di harga minimum.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "prtl-terbitkan-obligasi-rp741-miliar-rating-aaa-fitch",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Terbitkan [Obligasi] Rp741 Miliar, Rating AAA Fitch",
+  "deck": "Protelindo menerbitkan obligasi tahap II senilai Rp741,055 miliar dengan bunga 7,55-7,65 persen, bagian dari program Rp20 triliun yang diberi peringkat AAA oleh Fitch.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T16:52:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e99bbabd32_dd1c4a0bb5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRTL",
+  "tags": [
+   "PRTL",
+   "obligasi",
+   "Protelindo",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Profesional Telekomunikasi Indonesia (PRTL), perusahaan konstruksi menara telekomunikasi dan induk usaha yang berkedudukan di Kudus, Jawa Tengah, menyampaikan informasi tambahan ringkas terkait penerbitan Obligasi Berkelanjutan V Tahap II Tahun 2026. Obligasi tahap kedua ini bernilai pokok Rp741,055 miliar, menyusul tahap pertama yang sudah diterbitkan senilai Rp1,015 triliun. Secara keseluruhan, program Obligasi Berkelanjutan V ini menargetkan dana hingga Rp20 triliun.",
+   "Obligasi tahap II ini terbagi dua seri. Seri A senilai Rp602,855 miliar berbunga tetap 7,55 persen per tahun dengan tenor 3 tahun, sementara Seri B senilai Rp138,2 miliar berbunga 7,65 persen per tahun dengan tenor 5 tahun. Kedua seri membayar bunga setiap tiga bulan, dengan pembayaran bunga pertama pada 20 Januari 2027, sedangkan pelunasan pokok dibayar sekaligus saat jatuh tempo, yaitu 20 Oktober 2029 untuk Seri A dan 20 Oktober 2031 untuk Seri B. Obligasi ini tidak dijamin dengan aset khusus dan berkedudukan sama dengan kreditur lain Perseroan, serta Perseroan tidak menyisihkan dana cadangan pelunasan agar dana hasil emisi bisa dipakai maksimal.",
+   "Fitch Ratings Indonesia memberi peringkat AAA(idn) atau Triple A, peringkat tertinggi, baik untuk seluruh program Rp20 triliun maupun untuk obligasi tahap II ini. Fitch mencatat lebih dari 80 persen pendapatan Perseroan berasal dari kontrak sewa menara dan serat optik berjangka 10 tahun yang sulit dibatalkan, dengan total pendapatan terkontrak sekitar Rp100 triliun per Juni 2026, setara 9 kali pendapatan tahun 2025. Protelindo tercatat sebagai operator menara terbesar kedua di Indonesia dengan pangsa pasar sekitar 30 persen, sementara rasio utang bersih terhadap laba operasional diperkirakan bertahan di sekitar 4,0 kali meski margin laba operasional diperkirakan turun sekitar 5 poin persentase menjadi sekitar 74 persen pada 2026-2029 setelah konsolidasi Bach Multi Global dan PT Remala Abadi.",
+   "Penjamin pelaksana emisi obligasi ini adalah BCA Sekuritas, BNI Sekuritas, BRI Danareksa Sekuritas, CIMB Niaga Sekuritas, dan Mandiri Sekuritas, dengan PT Bank Permata Tbk sebagai wali amanat. Masa penawaran umum berlangsung 14-15 Oktober 2026, penjatahan pada 16 Oktober 2026, dan pencatatan di Bursa Efek Indonesia dijadwalkan 21 Oktober 2026."
+  ],
+  "fotoAdegan": "Telecommunication towers standing among green hills in rural Indonesia, a technician checking equipment near the base at dusk",
+  "takeaway": "Penerbitan obligasi ini netral bagi Protelindo: menambah utang baru, tapi dengan bunga kompetitif dan status kredit tertinggi, sehingga tidak banyak mengubah persepsi pasar atas fundamental perusahaan. Yang tersentuh langsung adalah beban bunga, karena perusahaan kini wajib membayar bunga tetap 7,55-7,65 persen setiap tiga bulan atas pokok Rp741 miliar ini, di atas beban bunga obligasi tahap I yang sudah berjalan; namun rasio utang terhadap laba operasional diperkirakan Fitch tetap terjaga di sekitar 4 kali karena laba operasional juga membesar setelah mengonsolidasikan dua perusahaan yang baru diakuisisi. Pasar modal biasa memakai rasio ini untuk mengukur seberapa berat beban utang dibanding kemampuan perusahaan menghasilkan laba dari operasionalnya, sehingga stabilnya angka itu menjadi salah satu alasan Fitch tetap memberi peringkat AAA, yang berarti risiko gagal bayar dianggap sangat kecil. Yang perlu dipantau selanjutnya adalah masa penawaran umum pada 14-15 Oktober 2026, penjatahan pada 16 Oktober 2026, dan pencatatan resmi di Bursa Efek Indonesia pada 21 Oktober 2026, karena baru setelah tahap-tahap itu dana hasil obligasi benar-benar masuk ke kas perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "yelo-panggil-rupslb-modal-dasar-naik-ke-rp765-miliar",
+  "category": "Aksi Korporasi",
+  "title": "YELO Panggil RUPSLB, [Modal Dasar] Naik ke Rp765 Miliar",
+  "deck": "Yelooo Integra Datanet mengundang pemegang saham ke RUPSLB 26 Oktober 2026 untuk menyetujui kenaikan modal dasar dari Rp275,2 miliar menjadi Rp765,1 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T16:42:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/00446910c2_52312e9fcb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YELO",
+  "tags": [
+   "YELO",
+   "RUPSLB",
+   "modal dasar",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Yelooo Integra Datanet Tbk (YELO) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada Senin, 26 Oktober 2026, pukul 14.00 WIB di Axa Tower Lantai 42, Jalan Prof. DR. Satrio, Kuningan, Jakarta Selatan. Agenda tunggal rapat ini adalah persetujuan perubahan Pasal 4 Anggaran Dasar perseroan terkait peningkatan modal dasar. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham pada penutupan perdagangan Bursa Efek Indonesia, Kamis, 1 Oktober 2026.",
+   "Dalam surat yang ditandatangani Corporate Secretary Rosi Diani pada 2 Oktober 2026, perseroan mengusulkan menaikkan modal dasar dari semula Rp275.200.000.000 yang terbagi atas 2.752.000.000 saham, menjadi Rp765.109.762.000 yang terbagi atas 7.651.097.620 saham. Artinya, plafon modal dasar perseroan bertambah sekitar Rp489,9 miliar, atau jumlah saham maksimum yang boleh diterbitkan bertambah hampir 4,9 miliar lembar, sekitar 2,78 kali lipat dari pagu saat ini. Perubahan ini baru menyangkut batas maksimum saham yang boleh diterbitkan perseroan, bukan penerbitan saham baru itu sendiri.",
+   "Pemegang saham dapat menghadiri rapat secara fisik atau elektronik melalui aplikasi eASY.KSEI. Bagi yang ingin memberikan suara elektronik, batas waktunya pukul 12.00 WIB pada satu hari kerja sebelum rapat. Perseroan tidak mengirimkan undangan khusus karena pemanggilan ini berlaku sebagai undangan resmi, dan materi rapat dapat diunduh melalui situs web perseroan tanpa penyediaan salinan cetak di lokasi rapat."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium inside a modern corporate meeting hall in a Jakarta office tower, soft daylight through tall windows",
+  "takeaway": "Laporan ini netral bagi fundamental YELO untuk saat ini, karena yang diminta baru izin menaikkan pagu modal dasar, bukan keputusan final menerbitkan saham baru atau rencana penggunaan dana yang konkret. Modal dasar adalah batas maksimum saham yang boleh diterbitkan perseroan, berbeda dari saham yang sudah benar-benar beredar di pasar, dan pelaku pasar mencermatinya karena begitu pagu yang lebih besar ini dipakai untuk menerbitkan saham baru, jumlah saham beredar bertambah dan laba per saham milik pemegang saham lama bisa tergerus alias terdilusi. Dokumen ini tidak menyebutkan untuk apa pagu tambahan itu akan dipakai, apakah rights issue, private placement, atau sekadar cadangan administratif. Yang perlu dipantau adalah hasil RUPSLB pada 26 Oktober 2026, apakah pemegang saham menyetujui perubahan Pasal 4 Anggaran Dasar ini, dan langkah lanjutan perseroan setelah pagu modal dasar baru resmi berlaku.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "harga-uvcr-melonjak-36-saham-baru-diserap-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "Harga UVCR Melonjak 36%, Saham Baru Diserap [Pengendali]",
+  "deck": "UVCR menjelaskan ke BEI lonjakan harga 36% akhir September murni mekanisme pasar, sembari mengungkap rencana 200 juta saham baru yang seluruhnya diserap pemegang saham pengendali TSM.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T16:34:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3b97fea018_fb1bec9ca5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "PMTHMETD",
+   "volatilitas saham",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Trimegah Karya Pratama Tbk (UVCR) menjawab permintaan penjelasan Bursa Efek Indonesia terkait lonjakan transaksi sahamnya. Dalam surat tertanggal 2 Oktober 2026 yang ditandatangani Direktur Utama Hady Kuswanto, perseroan mengonfirmasi data BEI bahwa harga penutupan saham UVCR naik kumulatif Rp62 atau 36,05 persen, dari Rp172 pada 23 September 2026 menjadi Rp234. Rata-rata volume transaksi turut melonjak menjadi 212.051.100 saham dengan frekuensi 11.824 kali, dibandingkan 129.696.500 saham dengan frekuensi 3.684 kali pada 23 September 2026. Perseroan menegaskan pergerakan itu murni mekanisme pasar dan tidak mengetahui adanya informasi material lain yang belum diungkapkan ke publik.",
+   "Satu-satunya rencana korporasi yang diungkapkan perseroan adalah penambahan modal tanpa memberikan hak memesan efek terlebih dahulu (PMTHMETD) sebanyak-banyaknya 200.000.000 saham baru, atau maksimal 9,99 persen dari modal disetor, yang sudah diumumkan sejak 18 September 2026. Rencana ini akan dimintakan persetujuan dalam RUPSLB pada Selasa, 27 Oktober 2026, bersamaan dengan agenda perubahan Pasal 3 Anggaran Dasar soal maksud dan tujuan usaha untuk menyesuaikan klasifikasi KBLI 2025. Jika disetujui dan mendapat izin pencatatan tambahan dari Bursa, pelaksanaan PMTHMETD ditargetkan rampung dalam 3 sampai 6 bulan sejak RUPSLB.",
+   "Berdasarkan Daftar Pemegang Saham per 31 Agustus 2026 yang diterbitkan Biro Administrasi Efek PT Adimitra Jasa Korpora, satu-satunya pemegang saham dengan kepemilikan di atas 5 persen adalah TSM selaku pemegang saham utama dan pengendali, dengan 623.557.467 saham atau 31,18 persen. Sekretaris Perusahaan Ayu Kusuma Trisyani menyatakan telah mengonfirmasi rencana TSM pada 23 September 2026, dan melalui surat komitmen tertanggal sama, TSM menegaskan akan mengambil bagian atas seluruh saham baru PMTHMETD. Jika pelaksanaannya penuh, kepemilikan TSM akan naik dari 31,18 persen menjadi sekitar 37,43 persen."
+  ],
+  "fotoAdegan": "Bustling stock exchange trading floor in Jakarta with traders in motion, distant display boards blurred, dynamic afternoon light.",
+  "takeaway": "Penjelasan soal lonjakan harga ini sendiri netral, perseroan hanya menegaskan kenaikan 36 persen itu murni mekanisme pasar tanpa ada informasi baru yang disembunyikan, tapi rencana di baliknya layak dicermati. Penambahan 200 juta saham baru lewat skema tanpa hak memesan efek terlebih dahulu berarti pemegang saham lama yang tidak ikut serta akan melihat porsi kepemilikan dan laba per sahamnya sedikit terkikis karena jumlah saham beredar bertambah. Yang menonjol, pemegang saham pengendali TSM justru berkomitmen menyerap seluruh saham baru itu sehingga kendalinya atas perseroan makin kuat, dari 31,18 persen menjadi sekitar 37,43 persen. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 27 Oktober 2026 yang akan memutuskan persetujuan penempatan saham ini, serta proses persetujuan pencatatan saham tambahan dari Bursa yang ditargetkan selesai 3 sampai 6 bulan setelahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sger-siapkan-rp273-65-miliar-untuk-pelunasan-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "SGER Siapkan Rp273,65 Miliar untuk [Pelunasan] Obligasi",
+  "deck": "PT Sumber Global Energy Tbk menyatakan dana pelunasan obligasi senilai Rp273,645 miliar yang jatuh tempo 25 Oktober 2026 sudah siap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T16:33:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6e0a0de8c9_53205c9ff1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SGER",
+  "tags": [
+   "SGER",
+   "obligasi",
+   "pelunasan utang",
+   "Sumber Global Energy"
+  ],
+  "body": [
+   "PT Sumber Global Energy Tbk (SGER) melaporkan kepada Bursa Efek Indonesia bahwa dana untuk melunasi Obligasi Berkelanjutan I Tahap II Tahun 2025 Seri A telah siap. Obligasi ini akan jatuh tempo pada 25 Oktober 2026 dengan jumlah pokok Rp273.645.000.000, dan perusahaan menyatakan akan melunasinya sesuai tanggal jatuh tempo tersebut.",
+   "Laporan disampaikan melalui surat bernomor 396/SGE/X/2026 tertanggal 2 Oktober 2026, merujuk pada Peraturan I-E Bursa Efek Indonesia tentang kewajiban penyampaian informasi oleh emiten obligasi. Surat kepada Direktur Penilaian Perusahaan BEI ditandatangani oleh Michael Harold selaku Corporate Secretary, sementara laporan elektronik ke sistem keterbukaan informasi BEI ditandatangani oleh Welly Thomas selaku Presiden Direktur.",
+   "Dokumen tidak merinci sumber dana yang disiapkan, apakah berasal dari kas internal, refinancing, atau kombinasi keduanya. Yang ditegaskan hanya kesiapan jumlah pokok obligasi sesuai nilai penerbitan, tanpa menyebut bunga berjalan atau biaya lain yang menyertai pelunasan tersebut."
+  ],
+  "fotoAdegan": "Workers checking rows of large industrial fuel storage tanks and pipelines at an energy depot, overcast afternoon light",
+  "takeaway": "Laporan ini condong positif bagi SGER karena perusahaan menegaskan sudah mengamankan dana Rp273,645 miliar untuk melunasi obligasi yang jatuh tempo kurang dari sebulan lagi, sebuah sinyal bahwa kas perusahaan cukup untuk menutup kewajiban utang tanpa drama di menit terakhir. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang benar-benar tersedia untuk dibelanjakan atau dibayarkan, karena pelaku pasar selalu was-was kalau emiten penerbit obligasi kehabisan uang tunai saat jatuh tempo dan akhirnya gagal bayar. Gagal bayar semacam itu biasa disebut default, yakni ketika perusahaan tidak sanggup membayar utang sesuai jadwal yang dijanjikan. Yang perlu dipantau berikutnya adalah realisasi pembayaran itu sendiri pada 25 Oktober 2026, serta konfirmasi lanjutan dari SGER ke bursa begitu pelunasan benar-benar selesai dieksekusi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mppa-dana-rights-issue-rp1-04-triliun-sudah-tuntas-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "MPPA: Dana Rights Issue Rp1,04 Triliun Sudah [Tuntas] Terpakai",
+  "deck": "Matahari Putra Prima melaporkan ke OJK bahwa seluruh dana hasil rights issue senilai Rp1,04 triliun sudah terealisasi penuh, tanpa sisa dana mengendap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T16:32:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4263f9fa57_1f4e2d4fa5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPPA",
+  "tags": [
+   "MPPA",
+   "rights issue",
+   "penggunaan dana",
+   "Matahari Putra Prima"
+  ],
+  "body": [
+   "Matahari Putra Prima Tbk (MPPA) melalui Corporate Secretary Detryanti Putri menyampaikan laporan realisasi penggunaan dana hasil Penambahan Modal Dengan Hak Memesan Efek Terlebih Dahulu VIII (rights issue PMHMETD VIII) kepada OJK untuk periode yang berakhir 30 September 2026. Rights issue dengan kode saham MPPA-R ini efektif sejak 17 Juni 2026 dan menghasilkan dana kotor Rp1.043.112.000.000. Setelah dipotong biaya penawaran umum Rp6.216.000.000, dana bersih yang diterima perusahaan tercatat Rp1.036.895.000.000.",
+   "Seluruh dana bersih tersebut sudah habis terpakai sesuai rencana yang tertulis di prospektus, dengan rincian Rp780.000.000.000 atau 75,22 persen untuk pembelian aset, dan Rp256.895.000.000 atau 24,78 persen untuk modal kerja. Realisasi per 30 September 2026 sama persis dengan rencana awal sehingga sisa dana tercatat nol. Sebelum terpakai seluruhnya, sisa dana sempat ditempatkan di Bank CIMB Niaga, pihak ketiga yang tidak berelasi dengan perusahaan, dengan bunga simpanan 3,25 persen per tahun.",
+   "Dari sisi biaya penawaran umum, MPPA merinci pengeluaran Rp4.133.000.000 (0,40 persen) untuk jasa profesi penunjang pasar modal, Rp1.100.000.000 (0,11 persen) untuk jasa konsultasi keuangan, Rp821.000.000 (0,08 persen) untuk biaya lain-lain, dan Rp164.000.000 (0,02 persen) untuk jasa lembaga penunjang pasar modal. Perusahaan mencatat tidak ada biaya penjaminan emisi, biaya penyelenggaraan, maupun biaya penjualan yang dibebankan dalam aksi korporasi ini."
+  ],
+  "fotoAdegan": "Warehouse workers stacking pallets of goods inside a large retail distribution center, forklift in motion, fluorescent lighting overhead.",
+  "takeaway": "Laporan ini netral bagi MPPA, karena isinya sekadar konfirmasi administratif bahwa dana rights issue sudah terpakai seratus persen sesuai rencana yang memang sudah diumumkan sejak Juni 2026, bukan informasi baru yang mengubah gambaran bisnis perusahaan. Pos yang tersentuh ada di arus kas dan ekuitas, arus kas karena dana Rp1,04 triliun yang masuk sudah dipindahkan seluruhnya menjadi aset dan modal kerja alih-alih mengendap sebagai kas menganggur, sementara ekuitas dan jumlah saham beredar sebenarnya sudah bertambah lebih dulu saat rights issue efektif pada Juni, sehingga potensi pengenceran laba per saham sudah terjadi sebelum laporan ini terbit. Karena sisa dana tercatat nol dan realisasi cocok seratus persen dengan rencana di prospektus, tidak ada tenggat pelaporan dana lanjutan yang menggantung dari dokumen ini. Yang lebih layak dipantau ke depan adalah laporan keuangan kuartalan berikutnya, untuk melihat apakah aset senilai Rp780 miliar yang dibeli dari dana ini benar-benar mendongkrak kinerja operasional Hypermart.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdln-restrukturisasi-notes-us-290-juta-lepas-tanah-ke-pemegang-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "MDLN Restrukturisasi Notes US$290 Juta, Lepas Tanah ke [Pemegang] Obligasi",
+  "deck": "Modernland Realty mengubah skema utang obligasi dolar senilai US$289,8 juta dengan melepas tanah di Jakarta Garden City, Modern Hill, dan Bekasi kepada pemegang obligasi, tanpa perlu persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T16:06:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e95dbf397_63dfa16f92.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLN",
+  "tags": [
+   "MDLN",
+   "restrukturisasi utang",
+   "obligasi",
+   "properti"
+  ],
+  "body": [
+   "PT Modernland Realty Tbk (MDLN) mengumumkan perubahan skema utang atas Guaranteed Senior Notes yang diterbitkan anak usahanya di Singapura, Modernland Overseas Pte Ltd (MLO), efektif 30 September 2026. Jumlah terutang pada tanggal efektif tercatat US$289.809.953,21. Perubahan ini merupakan tindak lanjut dari Scheme of Arrangement yang sudah mendapat putusan dari Pengadilan Tinggi Singapura pada 17 September 2026. Karena berasal dari putusan pengadilan, Perseroan menyatakan tidak wajib meminta persetujuan RUPS maupun memakai jasa penilai independen, sekalipun nilai transaksi ini lebih dari 50 persen dari ekuitas Perseroan yang tercatat Rp3,74 triliun per akhir 2025.",
+   "Inti dari perubahan ini adalah pertukaran utang dengan aset. Perseroan dan anak usahanya akan mengalihkan hak atas tanah yang selama ini jadi jaminan Notes, yang berlokasi di Jakarta Garden City, Modern Hill, dan Bekasi, kepada perusahaan baru yang dibentuk khusus untuk kepentingan pemegang obligasi. Pengalihan ini ditargetkan rampung paling lambat 30 Desember 2026, menyusul pencairan fasilitas pendanaan baru senilai minimal US$34 juta. Dana itu akan dipakai antara lain untuk membayar upfront fee kepada pemegang obligasi sebesar 5 persen dari total utang, serta biaya transaksi pengalihan. Setelah upfront fee dibayar dan pengalihan tanah selesai, seluruh Notes beserta bunga yang terakumulasi sampai batas waktu tersebut akan dihapuskan. Selama masa transisi, bunga Notes ditetapkan 3 persen per tahun, bisa dibayar tunai atau dalam bentuk surat utang tambahan. Jatuh tempo Notes sendiri diperpanjang menjadi 30 Juni 2028.",
+   "Sejumlah anak usaha lain turut menjadi penjamin dalam skema ini, antara lain PT Modern Mutiara Makmur, PT Modern Asia Hospitaliti, PT Modern Panel Indonesia, PT Golden Surya Makmur, dan PT Terus Maju Perkasa, yang memberikan jaminan perusahaan untuk kewajiban Notes. Perseroan menyebut manfaat utama dari skema ini adalah hapusnya kewajiban Notes yang dinilai akan memperbaiki likuiditas dan struktur permodalan, serta membuka akses pembiayaan baru. Di sisi lain, Perseroan juga mengakui risiko berupa berkurangnya aset dan potensi pendapatan dari tanah yang dialihkan, kemungkinan gagalnya pembayaran upfront fee atau pencairan fasilitas pendanaan baru yang bisa mengganggu jadwal pengalihan, keterlambatan proses administrasi pertanahan, serta risiko perpajakan dari pengalihan aset tersebut."
+  ],
+  "fotoAdegan": "Wide vacant suburban land plot with access road and scattered construction equipment, overcast afternoon light on the outskirts of Jakarta",
+  "takeaway": "Laporan ini netral bagi Perseroan: utang obligasi dolar senilai hampir US$290 juta memang dihapuskan, tapi sebagai gantinya Perseroan melepas tanah di tiga lokasi strategisnya, jadi ini pertukaran beban utang dengan aset, bukan keuntungan bersih yang jelas. Yang tersentuh adalah ekuitas, karena aset tanah di neraca berkurang sementara kewajiban utang hilang, besar kecilnya dampak bersih tergantung berapa nilai riil tanah itu dibanding utang yang dihapus. Beban bunga ke depan juga turun karena bunga Notes ditetapkan 3 persen per tahun, lebih ringan dibanding tekanan utang sebelumnya, tapi arus kas jangka pendek justru tertekan karena Perseroan perlu mencairkan dana segar sedikitnya US$34 juta untuk membayar fee di muka ke pemegang obligasi. Yang perlu dipantau berikutnya adalah apakah fasilitas pendanaan baru itu benar cair dan proses pengalihan tanah rampung sebelum batas waktu 30 Desember 2026, sebab jika meleset, perusahaan tetap menanggung bunga tambahan dan Notes belum juga terhapus.",
+  "sentimen": "netral"
  },
  {
   "slug": "link-gelar-rupslb-pergantian-direksi-komisaris-26-okt",

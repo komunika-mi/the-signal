@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mdka-umumkan-transaksi-afiliasi-jasa-konstruksi-tambang-pani",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Umumkan Transaksi [Afiliasi] Jasa Konstruksi Tambang Pani",
+  "deck": "Anak usaha MDKA, Merdeka Mining Servis, meneken perjanjian jasa konstruksi dengan tiga perusahaan terkendali lain untuk pengembangan Tambang Emas Pani, dinilai wajar oleh penilai independen.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKA",
+   "Transaksi Afiliasi",
+   "Tambang Emas Pani",
+   "Merdeka Copper Gold"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6877368ca0_7634f5c477.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tlkm-tawarkan-buyback-rp2-290-ke-penolak-spin-off-fiber",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Tawarkan [Buyback] Rp2.290 ke Penolak Spin-off Fiber",
+  "deck": "Telkom membuka pembelian kembali saham bagi pemegang saham yang menolak pemisahan segmen fiber ke anak usaha, dengan harga Rp2.290 per saham dan tenggat pengajuan 5 Oktober 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "buyback saham",
+   "spin-off fiber",
+   "Telkom Infrastruktur Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/def96e9f56_0336c30cbc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btpn-merger-oto-ke-summit-oto-finance-resmi-berlaku",
+  "category": "Aksi Korporasi",
+  "title": "BTPN: Merger [OTO] ke Summit Oto Finance Resmi Berlaku",
+  "deck": "Bank SMBC Indonesia (BTPN) mengonfirmasi penggabungan anak usaha pembiayaan PT Oto Multiartha ke PT Summit Oto Finance resmi efektif sejak 1 Oktober 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPN",
+   "merger anak usaha",
+   "Summit Oto Finance",
+   "Oto Multiartha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63efd98fee_2ed72ad015.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kija-rogoh-rp340-9-m-kuasai-51-seafer-di-kendal",
+  "category": "Aksi Korporasi",
+  "title": "KIJA Rogoh Rp340,9 M, Kuasai 51% [Seafer] di Kendal",
+  "deck": "Entitas anak KIJA, PT Indocargomas Persada, mengambilalih 51% saham PT Kawasan Industri Seafer senilai Rp340,86 miliar, menguasai land bank 500,24 hektar di Kendal, Jawa Tengah.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KIJA",
+   "akuisisi",
+   "kawasan industri",
+   "Kendal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/31e6ac7d86_71d067108c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "vtny-beri-penjelasan-ke-bei-soal-opini-audit-pengecualian",
   "category": "Aksi Korporasi",
   "title": "VTNY Beri Penjelasan ke BEI soal Opini Audit [Pengecualian]",
@@ -67,6 +131,22 @@ var ARTICLES = [
    "Remitra Global International"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb5f517c20_1e3ed687d0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asmi-pastikan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ASMI Pastikan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Menjawab surat BEI soal volatilitas transaksi, manajemen ASMI menyatakan tidak ada informasi material maupun rencana aksi korporasi yang belum diungkap.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASMI",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e2ec27e839_7d960352e8.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -281,6 +361,134 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/281fda42f7_2d5f48f253.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pidl-rampungkan-dana-obligasi-dan-sukuk-rp943-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Rampungkan Dana [Obligasi] dan Sukuk Rp943 Miliar",
+  "deck": "Pindo Deli Pulp and Paper Mills (PIDL) melaporkan seluruh dana hasil obligasi dan sukuk mudharabah berkelanjutan II tahap I 2026, totalnya Rp943,42 miliar, sudah habis terpakai tanpa sisa.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIDL",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "penggunaan dana IPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c36544d29_73eba136cb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "maxi-anjlok-36-bei-minta-penjelasan-usai-batas-gocap-dihapus",
+  "category": "Aksi Korporasi",
+  "title": "MAXI Anjlok 36%, BEI Minta Penjelasan usai Batas [Gocap] Dihapus",
+  "deck": "Saham MAXI tersungkur dari Rp50 ke Rp32 dan terus merosot hingga Rp26, ARB lima hari beruntun setelah BEI mencabut batas bawah harga saham Rp50.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAXI",
+   "BEI",
+   "auto rejection",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2508bdb24e_7b836d0e17.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prtl-terbitkan-obligasi-rp741-miliar-rating-aaa-fitch",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Terbitkan [Obligasi] Rp741 Miliar, Rating AAA Fitch",
+  "deck": "Protelindo menerbitkan obligasi tahap II senilai Rp741,055 miliar dengan bunga 7,55-7,65 persen, bagian dari program Rp20 triliun yang diberi peringkat AAA oleh Fitch.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRTL",
+   "obligasi",
+   "Protelindo",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e99bbabd32_dd1c4a0bb5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "yelo-panggil-rupslb-modal-dasar-naik-ke-rp765-miliar",
+  "category": "Aksi Korporasi",
+  "title": "YELO Panggil RUPSLB, [Modal Dasar] Naik ke Rp765 Miliar",
+  "deck": "Yelooo Integra Datanet mengundang pemegang saham ke RUPSLB 26 Oktober 2026 untuk menyetujui kenaikan modal dasar dari Rp275,2 miliar menjadi Rp765,1 miliar.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YELO",
+   "RUPSLB",
+   "modal dasar",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/00446910c2_52312e9fcb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-uvcr-melonjak-36-saham-baru-diserap-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "Harga UVCR Melonjak 36%, Saham Baru Diserap [Pengendali]",
+  "deck": "UVCR menjelaskan ke BEI lonjakan harga 36% akhir September murni mekanisme pasar, sembari mengungkap rencana 200 juta saham baru yang seluruhnya diserap pemegang saham pengendali TSM.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR",
+   "PMTHMETD",
+   "volatilitas saham",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3b97fea018_fb1bec9ca5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sger-siapkan-rp273-65-miliar-untuk-pelunasan-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "SGER Siapkan Rp273,65 Miliar untuk [Pelunasan] Obligasi",
+  "deck": "PT Sumber Global Energy Tbk menyatakan dana pelunasan obligasi senilai Rp273,645 miliar yang jatuh tempo 25 Oktober 2026 sudah siap.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SGER",
+   "obligasi",
+   "pelunasan utang",
+   "Sumber Global Energy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6e0a0de8c9_53205c9ff1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mppa-dana-rights-issue-rp1-04-triliun-sudah-tuntas-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "MPPA: Dana Rights Issue Rp1,04 Triliun Sudah [Tuntas] Terpakai",
+  "deck": "Matahari Putra Prima melaporkan ke OJK bahwa seluruh dana hasil rights issue senilai Rp1,04 triliun sudah terealisasi penuh, tanpa sisa dana mengendap.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPPA",
+   "rights issue",
+   "penggunaan dana",
+   "Matahari Putra Prima"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4263f9fa57_1f4e2d4fa5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdln-restrukturisasi-notes-us-290-juta-lepas-tanah-ke-pemegang-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "MDLN Restrukturisasi Notes US$290 Juta, Lepas Tanah ke [Pemegang] Obligasi",
+  "deck": "Modernland Realty mengubah skema utang obligasi dolar senilai US$289,8 juta dengan melepas tanah di Jakarta Garden City, Modern Hill, dan Bekasi kepada pemegang obligasi, tanpa perlu persetujuan RUPS.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLN",
+   "restrukturisasi utang",
+   "obligasi",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e95dbf397_63dfa16f92.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6287,222 +6495,6 @@ var ARTICLES = [
    "WIKA"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03e58bd0ed_ba394d68bc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-revisi-kriteria-pemantauan-khusus-untuk-45-saham",
-  "category": "Aksi Korporasi",
-  "title": "BEI Revisi Kriteria [Pemantauan Khusus] untuk 45 Saham",
-  "deck": "BEI mencabut empat kriteria pemantauan khusus mulai 28 September 2026, tapi seluruh dari 45 saham yang kini berstatus watchlist tetap bertahan di sana karena masih punya kriteria lain.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEI",
-   "pemantauan khusus",
-   "watchlist saham",
-   "SRIL"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eff93c0d1a_6005167e7f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cdia-jawab-bursa-laba-anjlok-75-dana-ipo-baru-78-laba",
-  "category": "Aksi Korporasi",
-  "title": "CDIA Jawab Bursa: Laba Anjlok 75%, Dana IPO Baru 78% [Laba]",
-  "deck": "CDIA menjelaskan ke Bursa bahwa laba bersih semester I 2026 turun dari US$76 juta menjadi US$19 juta, sementara dana IPO baru terealisasi 78,45 persen dari Rp2,37 triliun.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CDIA",
-   "laporan keuangan",
-   "dana IPO",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4a66766d8_d09efcb6f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok",
-  "category": "Industri",
-  "title": "KKP Operasikan [33] Kapal di Arafura Lewat Kerja Sama Tiongkok",
-  "deck": "KKP mulai menjalankan kerja sama teknis dengan Tiongkok, menyiapkan 33 kapal ikan berbendera Indonesia beroperasi di perairan Arafura dengan target produksi 9.500 ton ikan per tahun.",
-  "date": "25 September 2026",
-  "image": "assets/img/kkp-operasikan-33-kapal-di-arafura-lewat-kerja-sama-tiongkok.jpg",
-  "imageV": "mugwf6b2",
-  "tags": [
-   "KKP",
-   "Tiongkok",
-   "perikanan tangkap",
-   "Arafura"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kerja-sama-dengan-tiongkok-kkp-dorong-produksi-perikanan-tangkap-dalam-negeri-5R5K.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "kkp-tunjuk-agrinas-kelola-1-269-kampung-nelayan-merah-putih",
-  "category": "BUMN",
-  "title": "KKP Tunjuk Agrinas Kelola [1.269] Kampung Nelayan Merah Putih",
-  "deck": "KKP, Kemenkop, Kemenkeu, dan BP BUMN teken kerja sama kelola Kampung Nelayan Merah Putih; PT Agrinas Jaladri Nusantara ditugaskan mengoperasikannya bersama koperasi desa.",
-  "date": "25 September 2026",
-  "image": "assets/img/kkp-tunjuk-agrinas-kelola-1-269-kampung-nelayan-merah-putih.jpg",
-  "imageV": "mugwf895",
-  "tags": [
-   "KKP",
-   "Kampung Nelayan Merah Putih",
-   "Koperasi Desa",
-   "Agrinas"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-gandeng-kemenkop-hingga-bp-bumn-kelola-kampung-nelayan-merah-putih-6B5V.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "penerimaan-pajak-kalsel-tumbuh-29-72-persen-ke-rp8-57-t",
-  "category": "Makroekonomi",
-  "title": "Penerimaan Pajak Kalsel [Tumbuh] 29,72 Persen ke Rp8,57 T",
-  "deck": "Penerimaan pajak Kalimantan Selatan tumbuh 29,72 persen jadi Rp8,57 triliun hingga Agustus 2026, disokong lonjakan pajak transaksi dan sektor tambang.",
-  "date": "25 September 2026",
-  "image": "assets/img/penerimaan-pajak-kalsel-tumbuh-29-72-persen-ke-rp8-57-t.jpg",
-  "imageV": "mugwf9qp",
-  "tags": [
-   "Kalimantan Selatan",
-   "Penerimaan Pajak",
-   "DJP",
-   "PPN"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/penerimaan-pajak-kalimantan-selatan-tumbuh-2972-persen-hingga-agustus-2026",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "kemendag-lepas-ekspor-arang-kelapa-1-560-ton-ke-china",
-  "category": "UMKM",
-  "title": "Kemendag Lepas Ekspor Arang Kelapa [1.560 Ton] ke China",
-  "deck": "Kemendag melepas ekspor 1.560 ton arang tempurung kelapa senilai Rp23 miliar ke China, dari UMKM binaan BINUS University yang kini menjadi kampus ke-25 program Campuspreneur.",
-  "date": "25 September 2026",
-  "image": "assets/img/kemendag-lepas-ekspor-arang-kelapa-1-560-ton-ke-china.jpg",
-  "imageV": "mugwflf2",
-  "tags": [
-   "Campuspreneur",
-   "UMKM Ekspor",
-   "BINUS University",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-gandeng-binus-university-masuk-campuspreneur-mendag-busan-25-perguruan-tinggi-telah-onboarding",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "byan-rkab-disetujui-akuisisi-30-saham-dijelaskan",
-  "category": "Aksi Korporasi",
-  "title": "BYAN: RKAB Disetujui, [Akuisisi] 30% Saham Dijelaskan",
-  "deck": "Bayan Resources menjawab permintaan penjelasan Bursa: RKAB tiga anak usaha disetujui dan tambang beroperasi normal lagi, sementara detail penjualan 30 persen saham pengendali ke Jhonlin Baratama masih terbatas.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "RKAB",
-   "Akuisisi",
-   "Jhonlin Baratama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6c2ec1f63_9c4f3d8a8e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sanf-rampungkan-realisasi-dana-obligasi-rp1-2-triliun",
-  "category": "Aksi Korporasi",
-  "title": "SANF Rampungkan [Realisasi] Dana Obligasi Rp1,2 Triliun",
-  "deck": "SANF melaporkan revisi realisasi penggunaan dana obligasi berkelanjutan tahap II 2026 senilai Rp1,2 triliun, seluruhnya terpakai untuk modal kerja tanpa sisa dana.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SANF",
-   "obligasi",
-   "penggunaan dana",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/72dbe96352_b3613ee502.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ipcm-rombak-direksi-dwi-rahmad-toto-jadi-direktur-utama",
-  "category": "Aksi Korporasi",
-  "title": "IPCM Rombak Direksi, [Dwi Rahmad Toto] Jadi Direktur Utama",
-  "deck": "RUPSLB IPCM menyetujui pergantian direktur utama dari Shanti Puruhita ke Dwi Rahmad Toto, perubahan anggaran dasar, dan pelimpahan wewenang penetapan remunerasi direksi-komisaris 2026.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPCM",
-   "RUPSLB",
-   "Direksi",
-   "Jasa Armada Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/473f550c2f_1730492094.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdka-jawab-bursa-harga-dan-investor-pmthmetd-iv-belum-jelas",
-  "category": "Aksi Korporasi",
-  "title": "MDKA Jawab Bursa: Harga dan Investor [PMTHMETD] IV Belum Jelas",
-  "deck": "Merdeka Copper Gold menjawab permintaan Bursa soal rencana PMTHMETD IV, namun harga saham baru, calon investor, dan jadwal pelaksanaan belum ditentukan.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDKA",
-   "PMTHMETD",
-   "Bursa Efek Indonesia",
-   "Merdeka Copper Gold"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8670a8cd6b_27408c3603.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbkp-rilis-obligasi-subordinasi-rp500-miliar-bunga-9-3",
-  "category": "Aksi Korporasi",
-  "title": "BBKP Rilis Obligasi Subordinasi [Rp500 Miliar], Bunga 9,3%",
-  "deck": "KB Bank menawarkan obligasi subordinasi tahap II senilai Rp500 miliar dengan bunga 8,95-9,30 persen per tahun, dananya untuk perkuat modal dan biayai UKM.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBKP",
-   "obligasi subordinasi",
-   "KB Bank",
-   "Fitch Ratings"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f271f0f77e_58c6bff119.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "direksi-mdka-titien-supeno-terima-379-700-saham-dari-program-lti",
-  "category": "Aksi Korporasi",
-  "title": "Direksi MDKA Titien Supeno Terima 379.700 Saham dari Program [LTI]",
-  "deck": "Direksi MDKA Titien Supeno menambah kepemilikan 379.700 saham lewat pencairan program insentif jangka panjang, hak suaranya naik tipis dari 0,01% menjadi 0,012%.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDKA",
-   "kepemilikan saham",
-   "direksi",
-   "insentif saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-1031-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-gelar-public-expose-insidentil-usai-pmthmetd-9-oktober",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Gelar [Public Expose] Insidentil Usai PMTHMETD, 9 Oktober",
-  "deck": "MKNT akan menggelar public expose insidentil pada 9 Oktober 2026 di Jakarta Selatan untuk menjelaskan kondisi perusahaan setelah penerbitan saham baru tanpa hak memesan efek terlebih dahulu.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "Public Expose",
-   "PMTHMETD",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7ce3af25f4_98be93c7ee.pdf",
   "sourceLabel": "IDX"
  }
 ];

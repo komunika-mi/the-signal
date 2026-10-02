@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "vtny-beri-penjelasan-ke-bei-soal-opini-audit-pengecualian",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Beri Penjelasan ke BEI soal Opini Audit [Pengecualian]",
+  "deck": "Venteny Fortuna International (VTNY) menjawab permintaan penjelasan Bursa Efek Indonesia soal opini audit wajar dengan pengecualian dan realisasi dana IPO lebih dari Rp240 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T20:09:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/90fc7570b3_3acefcf797.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "opini audit",
+   "obligasi",
+   "realisasi dana IPO"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan terkait laporan keuangan per 30 Juni 2026 dan 31 Desember 2025. Dalam surat bernomor 003/VFI/ACCT/X/2026 yang ditandatangani Direktur Kaleb Solaiman, perseroan mengakui laporan keuangannya memperoleh opini wajar dengan pengecualian karena auditor tidak mengaudit dua entitas anak di luar negeri, Venteny Pte. Ltd. di Singapura dan Venteny GK di Jepang. Perseroan beralasan mayoritas transaksi kedua entitas itu sudah terdistribusi ke VTNY, PT Venteny Matahari Indonesia (VMI), dan PT Lampung Berkah Finansial Teknologi yang memang diaudit, sehingga auditor dianggap tidak membutuhkan data langsung dari kedua entitas tersebut.",
+   "Perseroan juga menjelaskan beberapa pos keuangan lain yang dipertanyakan bursa. Biaya jasa profesional dibayar di muka senilai Rp17,51 miliar per akhir 2025, yang habis menjadi nihil pada Juni 2026, ternyata seluruhnya merupakan komisi atas fasilitas pinjaman yang diperoleh perseroan. Obligasi senilai JPY200 juta berbunga 10 persen per tahun yang diterbitkan Venteny Pte. Ltd. kembali diperpanjang jatuh temponya, kali ini sampai akhir Desember 2026 dengan bunga tertunggak JPY23,95 juta, setelah dua kali perpanjangan sebelumnya dari jatuh tempo awal 30 Agustus 2024. Obligasi ini tidak tercatat di bursa efek manapun. Kenaikan beban pemasaran sebesar Rp1,45 miliar disebut berasal dari sponsorship ajang Super GT di Jepang senilai JPY44 juta pada 30 Maret 2026, sementara belanja iklan konvensional justru dipangkas drastis dari Rp1,97 miliar menjadi Rp4,34 juta.",
+   "Soal realisasi dana hasil penawaran umum saham yang totalnya mencapai lebih dari Rp240 miliar, perseroan merincikan Rp131,19 miliar dipinjamkan ke anak usaha VMI dengan bunga 8 persen per tahun, yang jatuh temponya kini diperpanjang sampai 31 Desember 2026 dan sudah menyumbang pendapatan bunga Rp10,49 miliar. Sebesar Rp49,97 miliar dipakai untuk pengembangan sistem IT termasuk Super-App, VENTENY Management System, Loan Origination System, dan infrastruktur cloud. Dana Rp56,22 miliar untuk pengembangan produk mencakup Rp40,1 miliar investasi 30 persen saham di PT Digitalisasi Perangkat Indonesia pada 20 Desember 2023, yang membawahi platform dompet digital Dipay dan platform pendanaan Indofund, investasi yang menurut bursa tidak disebutkan secara spesifik dalam prospektus. Sisanya Rp3,1 miliar dipakai menyewa kantor perwakilan di Palembang, Surabaya, dan Jepang. Perseroan menyebut integrasi Dipay membuat biaya payment gateway turun dari sekitar Rp2.500 menjadi Rp1.000 per transaksi."
+  ],
+  "fotoAdegan": "Server racks with blue indicator lights in a data center aisle, a technician walking past with a tablet, cool ambient lighting",
+  "takeaway": "Laporan ini condong negatif bagi VTNY karena mengonfirmasi opini audit dengan pengecualian akibat dua anak usaha di luar negeri tidak diaudit, dan obligasi anak usaha di Jepang sudah diperpanjang untuk ketiga kalinya tanpa pelunasan tunai. Opini pengecualian ini membuat pembaca laporan keuangan tidak bisa sepenuhnya memastikan kewajaran angka ekuitas dan laba konsolidasian, karena sebagian transaksi anak usaha luar negeri tidak diverifikasi auditor independen. Beban bunga obligasi 10 persen yang terus menumpuk setelah dua kali gagal dilunasi tepat waktu juga menjadi sinyal tekanan arus kas di entitas anak, meski perseroan mengklaim tidak ada dampak ke induk. Investasi Rp40,1 miliar dana IPO ke PT Digitalisasi Perangkat Indonesia yang tidak disebut spesifik di prospektus menambah catatan soal transparansi penggunaan dana publik. Yang perlu dipantau adalah apakah Venteny Pte. Ltd. benar-benar bisa melunasi obligasi JPY200 juta pada tenggat baru akhir Desember 2026, mengingat riwayat dua kali gagal pada jatuh tempo sebelumnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "argo-jelaskan-ke-bei-rugi-kurs-melonjak-obligasi-mangkrak",
+  "category": "Aksi Korporasi",
+  "title": "ARGO Jelaskan ke BEI: Rugi Kurs Melonjak, Obligasi [Mangkrak]",
+  "deck": "ARGO menjawab permintaan penjelasan dan rencana site visit BEI atas laporan keuangan semester I 2026, termasuk lonjakan rugi kurs dan nasib obligasi subordinasi ke pihak yang pailit sejak 2006.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T19:51:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/acd22cecaa_59360f9400.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARGO",
+  "tags": [
+   "ARGO",
+   "Argo Pantes",
+   "obligasi subordinasi",
+   "rugi kurs"
+  ],
+  "body": [
+   "PT Argo Pantes Tbk (ARGO) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan dan pemberitahuan site visit dari BEI tertanggal 30 September 2026. Dalam surat bernomor 283/L-Dir/ARP/X/2026 yang ditandatangani Corporate Secretary Humprey pada 2 Oktober 2026, perseroan menyatakan telah siap menerima kunjungan tim BEI pada Senin, 5 Oktober 2026, baik di kantor pusat di Jakarta Selatan maupun di lokasi gudang di Cikokol, Tangerang.",
+   "Dari sisi kinerja, pendapatan usaha ARGO tercatat Rp52,8 miliar, turun 5 persen, dengan pendapatan dari kerja sama pemanfaatan fasilitas ex-tekstil anjlok dari Rp10,2 miliar menjadi Rp4,5 miliar karena penyewa menurunkan skala produksi. Sebaliknya, pendapatan segmen energi naik dari Rp6,3 miliar menjadi Rp8,3 miliar, dan tingkat okupansi gudang sewa terus membaik, dari 36,1 persen pada 2023, 42,1 persen pada 2024, 49,3 persen pada 2025, menjadi 59,3 persen per Juni 2026. Perseroan juga mengakui penjualan ke pihak terafiliasi, PT Argo Manunggal Trista, masih menyumbang hampir 20 persen dari total penjualan, dan menargetkan porsi itu turun di bawah 20 persen pada akhir 2026 dan di bawah 15 persen pada akhir 2027.",
+   "Perseroan mencatat rugi selisih kurs melonjak dari Rp2,9 miliar menjadi Rp41 miliar, dipicu kewajiban dalam dolar AS senilai US$38,5 juta (utang bank US$8,5 juta dan obligasi subordinasi US$30 juta) di tengah pelemahan rupiah 6 persen dari Rp16.782 menjadi Rp17.856 per dolar sepanjang semester pertama 2026. Beban jasa profesional juga naik 289 persen menjadi Rp7,9 miliar untuk pengurusan izin, desain konstruksi, dan konsultan hukum terkait ekspansi bisnis sewa gudang. Di sisi lain, kas perseroan naik dari Rp36,5 miliar menjadi Rp72,4 miliar karena uang muka sewa, termasuk dari J&T Cargo, sementara piutang usaha turun dari Rp53,2 miliar menjadi Rp41,3 miliar meski 87 persen dari piutang yang menunggak lebih dari 120 hari berasal dari bisnis tekstil lama.",
+   "Poin yang disorot BEI adalah obligasi subordinasi tanpa bunga senilai Rp535 miliar dalam denominasi dolar yang jatuh tempo 2031. Pemegang obligasi ini, Argo Pantes Finance BV, telah dinyatakan pailit sejak 2006, dan ARGO mengaku masih mempelajari serta berkomunikasi dengan pihak kompeten untuk membahas penyelesaiannya, tanpa kepastian langkah atau dasar hukum write-off. Perseroan juga melaporkan reklasifikasi tanah senilai Rp535 miliar dan bangunan Rp209 miliar menjadi properti investasi sesuai standar akuntansi untuk bisnis sewa, serta perpanjangan sertifikat HGB atas 215.535 meter persegi lahan di Tangerang hingga 2057."
+  ],
+  "fotoAdegan": "Wide-angle view of a renovated industrial warehouse interior with high steel trusses, workers walking near loading bays, soft daylight from skylights",
+  "takeaway": "Laporan ini condong negatif bagi ARGO karena mengungkap lonjakan rugi selisih kurs hingga 14 kali lipat dan ketidakpastian hukum atas obligasi senilai Rp535 miliar yang pemegangnya sudah pailit sejak 2006 tanpa arah penyelesaian. Yang tersentuh adalah laba bersih, karena rugi kurs timbul dari utang dolar yang nilainya membengkak di laporan keuangan saat rupiah melemah, bukan karena ada uang yang benar-benar keluar, tapi tetap mengurangi laba yang dicatat perseroan; selain itu ada sinyal baik berupa kas yang bertambah dan okupansi gudang yang terus naik. Permintaan BEI sampai mengirim tim untuk site visit juga jarang terjadi dan menandakan bursa ingin memastikan langsung kondisi operasional perseroan. Yang perlu dipantau adalah hasil kunjungan BEI pada 5 Oktober 2026 dan apakah ARGO akhirnya memutuskan langkah konkret menyelesaikan obligasi subordinasi yang terkait pihak pailit tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mknt-terbitkan-1-02-triliun-saham-baru-headwell-kuasai-65",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Terbitkan 1,02 Triliun Saham Baru, Headwell [Kuasai] 65%",
+  "deck": "PT Remitra Global International (d.h. MKNT) menuntaskan rights issue tanpa hak memesan efek terlebih dahulu senilai Rp1 per saham, membuat Headwell Bintang Energi Hijau jadi pengendali baru dengan 64,9 persen saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T19:44:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb5f517c20_1e3ed687d0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "PMTHMETD",
+   "Dilusi Saham",
+   "Remitra Global International"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk, yang kini berganti nama menjadi PT Remitra Global International Tbk, telah menuntaskan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) berdasarkan keputusan Rapat Umum Pemegang Saham Luar Biasa tanggal 14 September 2026. Perseroan menerbitkan dan mencatatkan 1.024.490.000.000 saham baru dengan harga pelaksanaan Rp1 per saham pada 30 September 2026. Akibatnya, jumlah saham perseroan melonjak dari 5.500.000.000 lembar menjadi 1.029.990.000.000 lembar, sementara modal disetor naik dari Rp110.000.000.000 menjadi Rp1.134.490.000.000.",
+   "Porsi terbesar saham baru diambil oleh PT Headwell Bintang Energi Hijau sebanyak 668.000.000.000 saham, setara 64,9 persen dari total saham perseroan setelah penambahan modal, menjadikannya pemegang saham pengendali baru. PT Mantra Capital Persadan mengambil 156.490.000.000 saham. Lima investor independen lain turut masuk, yaitu Suripto, Jhon Veter Firdaus, dan Antony Lesmana masing-masing 50.000.000.000 saham, serta Daniel Tejakusuma dan Rossa Linna masing-masing 25.000.000.000 saham.",
+   "Dari dana tunai Rp200.000.000.000 yang disetor lima investor independen tersebut, Rp9.999.996.808 dialokasikan untuk modal kerja perseroan, Rp160.000.003.192 disalurkan ke PT Citra Baru Steel untuk modal usaha dan rencana investasi, dan Rp30.000.000.000 ke PT Radja Udang Malingping untuk kebutuhan serupa. Dana dari PT Mantra Capital Persadan sebesar Rp1.564.900.000 digunakan untuk melunasi sisa harga pembelian saham Radja Udang Malingping kepada PT Mazon Bumi Mining, sesuai akta jual beli saham tanggal 29 Mei 2026. Dokumen ini tidak merinci rencana penggunaan dana dari porsi investasi Headwell Bintang Energi Hijau senilai Rp668.000.000.000, padahal itu porsi terbesar dari seluruh dana PMTHMETD."
+  ],
+  "fotoAdegan": "Workers in protective gear monitoring molten steel being poured at an industrial steel mill, sparks and orange glow, wide shot",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama, karena penerbitan 1,02 triliun saham baru membuat porsi kepemilikan mereka menyusut drastis dari seluruhnya menjadi tinggal sekitar 0,53 persen, sementara PT Headwell Bintang Energi Hijau langsung masuk sebagai pengendali baru dengan 64,9 persen saham. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu laba atau rugi perseroan yang sama kini terbagi ke jumlah lembar saham yang hampir 187 kali lebih banyak, sehingga nilai yang jatuh ke tangan pemegang saham lama per lembarnya ikut menyusut tajam. Di sisi lain, perseroan memang mendapat dana segar sekitar Rp201,6 miliar dari investor independen dan Mantra Capital Persadan yang sebagian dipakai menyuntik modal ke anak usaha Citra Baru Steel dan Radja Udang Malingping serta melunasi sisa pembelian saham Radja Udang Malingping, meski dokumen ini tidak menjelaskan untuk apa porsi dana terbesar dari Headwell senilai Rp668 miliar akan dipakai. Yang perlu dipantau berikutnya adalah public expose insidentil yang dijadwalkan 9 Oktober 2026, saat perseroan mestinya menjelaskan lebih lanjut dampak perubahan pengendali dan penggunaan dana secara utuh kepada pemegang saham.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ppatk-rilis-peta-risiko-keuangan-jelang-evaluasi-fatf-2029",
   "category": "Perbankan",
   "title": "PPATK Rilis Peta Risiko Keuangan, Jelang Evaluasi FATF [2029]",
@@ -85,6 +164,266 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan BI mulai membangun pos edukasi fisik, gerai CERDAS PeKA, di kampus untuk menutup jarak antara akses dan pemahaman: 95,69 persen anak muda usia 18-25 tahun sudah memakai layanan keuangan digital seperti dompet digital dan QRIS, pembayaran lewat kode QR, tapi hanya 73,32 persen yang benar-benar memahami cara kerja dan risikonya. Yang kena dampak langsung adalah mahasiswa pengguna QRIS, yang transaksinya sudah tembus 17,45 miliar kali sejak awal tahun hingga Agustus 2026, serta kampus dan asosiasi perbankan yang digandeng sebagai mitra edukasi. Polanya terlihat: BI tidak lagi hanya mengandalkan kampanye imbauan, tapi menaruh layanan konsultasi dan pengaduan langsung di titik tempat anak muda beraktivitas, sejalan dengan aturan pelindungan konsumen PBI Nomor 6 Tahun 2026 yang baru berlaku. Ini mengarah ke strategi perluasan gerai serupa ke kampus-kampus lain secara bertahap, ketimbang satu program yang berhenti di Surabaya. Yang akan memastikan arah ini adalah apakah BI benar-benar membuka gerai sejenis di kampus lain dalam beberapa bulan ke depan, dan apakah survei literasi keuangan berikutnya menunjukkan jarak 95,69 persen berbanding 73,32 persen itu mulai menyempit.",
   "imageV": "muqyjrqp"
+ },
+ {
+  "slug": "pnmp-dana-obligasi-sosial-rp1-01-triliun-terserap-100",
+  "category": "Aksi Korporasi",
+  "title": "PNMP: Dana Obligasi Sosial Rp1,01 Triliun [Terserap] 100%",
+  "deck": "PT Permodalan Nasional Madani melaporkan seluruh dana Rp1,01 triliun dari obligasi sosial Tahap III telah habis terpakai untuk pembiayaan sosial, tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T19:01:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/927dcea038_3d0e0626f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNMP",
+  "tags": [
+   "PNMP",
+   "obligasi",
+   "penggunaan dana",
+   "PNM"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) melaporkan realisasi penggunaan dana hasil penerbitan Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026 kepada Bursa Efek Indonesia. Obligasi ini efektif sejak 26 Juni 2025 dengan total dana yang terkumpul dari investor sebesar Rp1.013.575.000.000. Setelah dikurangi biaya penawaran umum sebesar Rp2.670.740.730, dana bersih yang diterima PNM mencapai Rp1.010.904.259.270.",
+   "Seluruh dana bersih tersebut telah terserap 100 persen untuk membiayai Kegiatan Usaha Berwawasan Sosial (KUBS), persis sesuai rencana yang tercantum dalam prospektus penerbitan. Laporan ini mencatat sisa dana sebesar nol rupiah, yang berarti tidak ada dana hasil obligasi yang masih mengendap atau belum dialokasikan.",
+   "Dari total biaya penawaran umum sebesar Rp2.670.740.730, rinciannya terdiri dari biaya jasa penyelenggaraan (management fee) Rp1.672.398.750, biaya jasa lembaga penunjang pasar modal Rp465.158.500, biaya jasa profesi penunjang pasar modal Rp174.697.680, biaya jasa penjaminan (underwriting fee) dan biaya jasa penjualan (selling fee) masing-masing Rp126.696.875, serta biaya lain-lain yang diatribusikan langsung sebagai biaya emisi sebesar Rp105.092.050. Tidak ada biaya jasa konsultasi keuangan yang dikenakan dalam penerbitan ini."
+  ],
+  "fotoAdegan": "Indonesian women entrepreneurs at a small market stall receiving a microfinance officer's visit, morning sunlight, documentary style",
+  "takeaway": "Laporan ini netral bagi PNM karena isinya sekadar mengonfirmasi bahwa seluruh dana obligasi sudah terpakai sesuai rencana di prospektus, tanpa penyimpangan maupun dana yang mengendap. Pos yang tersentuh adalah utang dan beban bunga perusahaan, sebab obligasi pada dasarnya adalah pinjaman dari investor yang harus dibayar bunganya secara berkala dan pokoknya saat jatuh tempo, sehingga penyerapan dana ke kegiatan pembiayaan sosial berarti PNM kini menanggung kewajiban cicilan baru yang akan muncul di arus kasnya ke depan. Karena obligasi ini adalah tahap ketiga dari program Obligasi Berkelanjutan I PNM yang efektif sejak 26 Juni 2025, hal yang perlu dipantau berikutnya adalah jadwal pembayaran kupon dan tanggal jatuh tempo pokok obligasi ini, serta kemungkinan penerbitan tahap selanjutnya dalam program berkelanjutan yang sama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pnmp-rampungkan-realisasi-dana-sukuk-sosial-rp719-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PNMP Rampungkan [Realisasi] Dana Sukuk Sosial Rp719,4 Miliar",
+  "deck": "PT Permodalan Nasional Madani (PNMP) melaporkan dana bersih Rp719,4 miliar dari sukuk mudharabah sosial Tahap IV sudah terpakai 100 persen, tanpa sisa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T18:54:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/00d18fbee2_d10ed99d62.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNMP",
+  "tags": [
+   "PNMP",
+   "sukuk",
+   "obligasi",
+   "realisasi dana"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNMP) melaporkan kepada Bursa Efek Indonesia bahwa seluruh dana hasil penerbitan Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap IV Tahun 2026, yang efektif sejak 26 Juni 2025, telah terserap penuh. Total dana yang terkumpul dari penerbitan sukuk ini mencapai Rp721,4 miliar. Setelah dipotong biaya penawaran umum sebesar Rp2,03 miliar, hasil bersih yang diterima perusahaan adalah Rp719,4 miliar.",
+   "Seluruh dana bersih tersebut, atau 100 persen, telah direalisasikan sesuai rencana dalam prospektus untuk membiayai Kegiatan Usaha Berwawasan Sosial (KUBS), tanpa ada dana yang tersisa atau mengendap. Realisasi ini sama persis dengan rencana awal yang diajukan PNM saat penerbitan sukuk, baik dari sisi jumlah maupun peruntukannya.",
+   "Laporan ini juga memerinci komponen biaya penawaran umum senilai total Rp2,03 miliar. Biaya jasa penyelenggaraan (management fee) menjadi komponen terbesar, yakni Rp1,19 miliar atau 0,165 persen dari dana yang dihimpun. Disusul biaya jasa lembaga penunjang pasar modal Rp354,14 juta (0,0491 persen) dan biaya jasa profesi penunjang pasar modal Rp234,35 juta (0,026 persen). Biaya jasa penjaminan (underwriting fee) dan biaya jasa penjualan (selling fee) masing-masing tercatat Rp90,18 juta (0,0125 persen), sementara biaya lain-lain sebesar Rp71,67 juta (0,0099 persen). Tidak ada biaya jasa konsultasi keuangan (financial advisory fee) dalam penerbitan ini."
+  ],
+  "fotoAdegan": "Small market vendors arranging goods at wooden stalls in a bustling Indonesian morning market, soft daylight, no visible signage.",
+  "takeaway": "Laporan ini netral bagi PNM, karena sekadar mengonfirmasi bahwa dana dari sukuk sosial ini sudah terpakai tepat sesuai rencana di prospektus, tanpa penyimpangan dan tanpa dana yang tersisa. Yang tersentuh di sini adalah sisi utang dan beban bagi hasil perusahaan, karena sukuk mudharabah adalah pinjaman berbasis bagi hasil, bukan bunga tetap, sehingga pelaku pasar memantau laporan semacam ini untuk memastikan dana pinjaman benar benar dipakai sesuai tujuan dan tidak menimbulkan kewajiban yang tidak sebanding dengan manfaatnya. Yang perlu dipantau selanjutnya adalah kewajiban PNM membayar bagi hasil kepada pemegang sukuk sampai jatuh tempo, serta kemungkinan penerbitan tahap berikutnya dalam program Sukuk Mudharabah Berkelanjutan I PNM, mengingat laporan ini baru mencakup Tahap IV dari rangkaian penerbitan berkelanjutan tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pnmp-dana-obligasi-sosial-rp498-57-m-terserap-100",
+  "category": "Aksi Korporasi",
+  "title": "PNMP: Dana Obligasi Sosial Rp498,57 M Terserap [100%]",
+  "deck": "PNM melaporkan seluruh dana bersih Rp498,57 miliar dari Obligasi Berwawasan Sosial Tahap II sudah dipakai penuh untuk pembiayaan usaha berwawasan sosial, tanpa sisa dana mengendap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T18:42:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0576abda47_869d83ed80.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNMP",
+  "tags": [
+   "PNMP",
+   "obligasi berkelanjutan",
+   "penggunaan dana",
+   "PNM"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (kode saham PNMP) melaporkan ke Bursa Efek Indonesia bahwa seluruh dana hasil penerbitan Obligasi Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2026, yang efektif sejak 26 Juni 2025, sudah terserap penuh. Total dana yang terkumpul dari penawaran umum ini mencapai Rp500 miliar. Setelah dipotong biaya penawaran umum sebesar Rp1,43 miliar, hasil bersih yang diterima perusahaan adalah Rp498,57 miliar.",
+   "Seluruh dana bersih tersebut, atau 100 persen, telah direalisasikan sesuai rencana dalam prospektus untuk membiayai Kegiatan Usaha Berwawasan Sosial (KUBS), yakni lini pembiayaan PNM untuk pelaku usaha mikro dan ultra mikro. Dengan demikian, sisa dana yang belum terpakai tercatat nol, artinya tidak ada dana hasil obligasi ini yang masih mengendap di kas perusahaan.",
+   "Dari sisi biaya penerbitan, komponen terbesar adalah biaya jasa penyelenggaraan (management fee) sebesar Rp825 juta atau 0,165 persen dari total dana, disusul biaya jasa lembaga penunjang pasar modal Rp270 juta (0,054 persen), biaya jasa profesi penunjang pasar modal Rp130,25 juta (0,0257 persen), biaya jasa penjaminan dan biaya jasa penjualan masing-masing Rp62,5 juta (0,0125 persen), serta biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi sebesar Rp78,75 juta (0,016 persen). Tidak ada biaya jasa konsultasi keuangan yang dikenakan pada penerbitan ini."
+  ],
+  "fotoAdegan": "A loan officer on a motorbike visiting a small roadside food stall vendor in an Indonesian village, midday light",
+  "takeaway": "Laporan ini netral bagi PNM, karena isinya sekadar konfirmasi bahwa dana obligasi sosial Tahap II sudah terpakai 100 persen sesuai rencana di prospektus, tanpa penyimpangan dan tanpa dana yang mengendap tanpa kejelasan arah. Pos yang tersentuh adalah arus kas dan beban bunga perusahaan, sebab dana ini berasal dari utang obligasi yang kuponnya harus terus dibayar dan pokoknya dilunasi saat jatuh tempo, sehingga pelaku pasar ingin memastikan dana itu benar dipakai untuk aktivitas yang menghasilkan pendapatan, bukan menambal kebutuhan lain. Laporan ini terbit bersamaan dengan dua laporan realisasi dana PNM lain hari ini untuk seri obligasi dan sukuk sosial dengan nilai berbeda, menandakan perusahaan sedang merampungkan pelaporan atas beberapa seri surat utang berkelanjutannya sekaligus. Yang perlu dipantau selanjutnya adalah bagaimana kualitas portofolio pembiayaan usaha mikro dan ultra mikro yang didanai dari obligasi ini berkembang, serta kemampuan PNM membayar kupon dan pokok obligasi ini saat jatuh tempo nanti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kaii-angkat-ristadi-jadi-komisaris-baru-kai",
+  "category": "Aksi Korporasi",
+  "title": "KAII Angkat Ristadi Jadi [Komisaris] Baru KAI",
+  "deck": "PT Kereta Api Indonesia (Persero) mengangkat Ristadi sebagai komisaris baru per 1 Oktober 2026, menyusul keputusan pemegang saham tentang susunan dewan komisaris perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T18:35:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a73ede4d0_cec15648df.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KAII",
+  "tags": [
+   "KAII",
+   "Kereta Api Indonesia",
+   "Pergantian Komisaris",
+   "Tata Kelola Perusahaan"
+  ],
+  "body": [
+   "PT Kereta Api Indonesia (Persero), emiten dengan kode KAII, melaporkan perubahan susunan Dewan Komisaris per 1 Oktober 2026. Berdasarkan Keputusan Para Pemegang Saham Perusahaan Perseroan Nomor 410 Tahun 2026 dan Nomor SK.141/DI-DAM/DU/2026, pemegang saham mengangkat Ristadi sebagai Komisaris baru perseroan. Laporan disampaikan ke Otoritas Jasa Keuangan oleh Wisnu Pramudyo, Executive Vice President Corporate Secretary KAI, pada 2 Oktober 2026.",
+   "Dengan tambahan ini, Dewan Komisaris KAI kini beranggotakan delapan orang. Said Aqil Siroj tetap menjabat Komisaris Utama sejak 30 Juni 2026, didampingi komisaris independen Arnanto dan Raizal Arifin yang menjabat sejak 12 Agustus 2025 serta Endang Tirtana sejak 30 Juni 2026. Tiga komisaris lain, yaitu Diah Natalisa, Mohamad Risal Wasal, dan I Wayan Sugiri, melanjutkan jabatan masing-masing sejak 30 Juni 2026, 20 September 2022, dan 12 Agustus 2025. Susunan direksi tidak berubah, tetap dipimpin Direktur Utama Bobby Rasyidin dan Wakil Direktur Utama Dody Budiawan, bersama tujuh direktur lain yang menjabat sejak 12 Agustus 2025 atau 30 Juni 2026.",
+   "Perseroan menyatakan pengangkatan ini tidak berdampak material terhadap kegiatan usaha, dan KAI akan tetap menjalankan operasinya dengan memperhatikan ketentuan peraturan perundang-undangan serta tata kelola perusahaan yang baik."
+  ],
+  "fotoAdegan": "Diesel locomotive pulling passenger carriages along elevated tracks through green countryside in Java, soft midday light.",
+  "takeaway": "Laporan ini netral bagi KAI karena isinya hanya menambah satu komisaris tanpa mengubah arah strategi atau struktur keuangan perseroan. Pergantian pengurus semacam ini tidak langsung menggerakkan pos keuangan seperti ekuitas, arus kas, atau laba per saham, tetapi pelaku pasar tetap mencermati komposisi dewan komisaris karena merekalah yang mengawasi keputusan besar perseroan, misalnya penerbitan obligasi atau belanja modal proyek perkeretaapian. Yang perlu dipantau berikutnya adalah bagaimana dewan komisaris yang baru lengkap ini bersikap terhadap agenda strategis KAI ke depan, mengingat dokumen ini sendiri tidak mencantumkan rapat atau tenggat lanjutan selain tanggal efektif pengangkatan pada 1 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pnmp-sukuk-sosial-orange-rp1-5-triliun-terserap-100",
+  "category": "Aksi Korporasi",
+  "title": "PNMP: Sukuk Sosial Orange Rp1,5 Triliun [Terserap] 100%",
+  "deck": "PNM melaporkan dana bersih Rp1,49 triliun dari Sukuk Mudharabah Berwawasan Sosial Orange Tahap III sudah tersalur penuh untuk kegiatan usaha berwawasan sosial, tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T18:27:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cab0f76507_5f72b15cad.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNMP",
+  "tags": [
+   "PNMP",
+   "sukuk",
+   "obligasi berkelanjutan",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNMP) melaporkan ke Bursa Efek Indonesia bahwa dana hasil penerbitan Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap III Tahun 2026, yang efektif pada 26 Juni 2025, sudah terserap seluruhnya. Dari total dana yang dihimpun Rp1,5 triliun, setelah dipotong biaya penawaran umum Rp3.881.938.382, hasil bersih yang diterima perseroan mencapai Rp1.496.118.061.618.",
+   "Seluruh dana bersih tersebut, atau 100 persen, disalurkan untuk Kegiatan Usaha Berwawasan Sosial (KUBS), persis sesuai rencana penggunaan dana yang tercantum di prospektus. Karena realisasinya sama persis dengan rencana awal, tidak ada sisa dana yang masih mengendap di perseroan.",
+   "Rincian biaya penawaran umum terdiri dari biaya jasa penjaminan (underwriting fee) Rp187,5 juta, biaya jasa penyelenggaraan (management fee) Rp2,475 miliar, biaya jasa penjualan (selling fee) Rp187,5 juta, biaya jasa profesi penunjang pasar modal Rp278,8 juta, biaya jasa lembaga penunjang pasar modal Rp650 juta, dan biaya lain-lain yang terkait langsung dengan penerbitan Rp103,1 juta. Tidak ada biaya jasa konsultasi keuangan (financial advisory fee) yang dikenakan dalam penerbitan ini."
+  ],
+  "fotoAdegan": "A microfinance field officer talking with a small group of women vendors beside market stalls in an Indonesian town, daylight.",
+  "takeaway": "Laporan ini netral bagi PNM, karena isinya sekadar mengonfirmasi bahwa seluruh dana hasil sukuk Tahap III sudah terpakai 100 persen sesuai rencana di prospektus, tanpa penyimpangan maupun dana yang mengendap. Yang tersentuh adalah arus kas dan kewajiban bagi hasil ke pemegang sukuk, karena dana yang dihimpun lewat utang ini mengharuskan PNM membayar imbal hasil secara berkala sampai jatuh tempo, sementara jumlah saham beredar dan laba per saham tidak berubah sebab ini instrumen utang, bukan saham. Laporan ini melengkapi tiga laporan realisasi dana sejenis dari PNM pada hari yang sama, untuk tahap penerbitan obligasi dan sukuk lain senilai sekitar Rp1,01 triliun, Rp719,4 miliar, dan Rp498,57 miliar, sehingga total dana dari rangkaian penerbitan berkelanjutan PNM yang dilaporkan terserap penuh hari ini mencapai lebih dari Rp3,7 triliun. Yang perlu dipantau berikutnya adalah jadwal pembayaran bagi hasil dan tanggal jatuh tempo sukuk ini, yang belum dirinci dalam dokumen selain tanggal efektif 26 Juni 2025.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hifi-koreksi-laporan-dana-obligasi-lama-lunas",
+  "category": "Aksi Korporasi",
+  "title": "HIFI Koreksi Laporan Dana, Obligasi Lama [Lunas]",
+  "deck": "HIFI melaporkan koreksi realisasi dana obligasi Rp800 miliar ke OJK. Seluruh dana sudah terpakai untuk melunasi obligasi lama dan modal kerja per 31 Mei 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:57:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da8059738e_1924d45fc3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HIFI",
+  "tags": [
+   "HIFI",
+   "obligasi korporasi",
+   "penggunaan dana IPO",
+   "OJK"
+  ],
+  "body": [
+   "PT Hino Finance Indonesia (HIFI) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil Obligasi Berkelanjutan I Tahap II Tahun 2026 kepada Otoritas Jasa Keuangan (OJK). Koreksi ini merespons surat OJK Nomor S-2439/PM.221/2026 tanggal 23 September 2026 yang menanggapi laporan realisasi periode 30 Juni 2026 milik perseroan. Surat koreksi tertanggal 1 Oktober 2026 ditandatangani Direktur Budi Arifianto Wibisana, sementara pengumuman resminya dikirim 2 Oktober 2026 oleh Corporate Secretary Anastasia Saraswati.",
+   "Obligasi ini bernilai Rp800 miliar dan dinyatakan efektif pada 11 Februari 2026. Setelah dipotong biaya penawaran umum sebesar Rp2,947 miliar atau 0,37 persen dari dana yang terkumpul, hasil bersih yang diterima perseroan mencapai Rp797,052 miliar atau 99,63 persen. Berdasarkan laporan realisasi yang ditandatangani Direktur Taiki Onoue dan Direktur Budi Arifianto Wibisana, seluruh dana itu terbagi dua: Rp410,935 miliar atau 51,56 persen digunakan untuk melunasi seluruh pokok Obligasi Berkelanjutan I Hino Finance Indonesia Tahap 1 Tahun 2025 Seri A, yang sudah dibayar lunas pada 30 Maret 2026. Sisanya, Rp386,118 miliar atau 48,44 persen, dipakai sebagai modal kerja, termasuk biaya karyawan, jasa profesional, pajak, biaya keuangan, serta pembiayaan truk dan bus. Per 31 Mei 2026, seluruh dana hasil penawaran umum ini telah habis terpakai, dengan sisa dana nol.",
+   "Koreksi yang diajukan menyasar rincian biaya penawaran umum pada Lampiran A. Beberapa pos biaya lembaga penunjang pasar modal, seperti jasa wali amanat, Kustodian Sentral Efek Indonesia, dan Bursa Efek Indonesia, ternyata lebih rendah dari estimasi prospektus karena biaya aktual hanya dihitung untuk periode sekitar 10 bulan sampai satu tahun, bukan lima tahun seperti perkiraan awal. Sebaliknya, beberapa pos lain seperti jasa penyelenggaraan, penjaminan, penjualan, konsultan hukum, dan audit penjatahan justru naik karena ada tambahan pajak pertambahan nilai yang tidak dihitung di estimasi awal. Hasilnya, total biaya aktual Rp2,947 miliar lebih rendah dari estimasi prospektus Rp4,135 miliar, sehingga dana bersih yang direalisasikan sedikit lebih besar dari rencana awal di prospektus."
+  ],
+  "fotoAdegan": "Rows of commercial trucks and buses parked at a logistics depot, morning light reflecting off windshields, workers walking between vehicles",
+  "takeaway": "Laporan ini netral bagi pemegang saham karena isinya cuma koreksi teknis atas rincian biaya penawaran umum, bukan perubahan rencana penggunaan dana itu sendiri. Pos yang tersentuh adalah utang obligasi, sebab perseroan memakai dana obligasi baru untuk melunasi obligasi lama yang jatuh tempo, praktik lazim di perusahaan pembiayaan agar tidak gagal bayar, dan arus kas perusahaan, karena pergerakan dana ratusan miliar rupiah terjadi dalam hitungan hari di sekitar 11 Februari 2026. Pelaku pasar memperhatikan jenis transaksi ini untuk memastikan refinancing berjalan mulus dan untuk membandingkan beban bunga obligasi baru dengan yang lama. Karena seluruh dana sudah habis terpakai sejak 31 Mei 2026, yang perlu dipantau berikutnya adalah apakah OJK menerima koreksi tertanggal 1 Oktober 2026 ini atau masih meminta revisi lanjutan atas laporan periode 30 Juni 2026 sebelumnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sona-gelar-public-expose-insidentil-usai-surat-ojk",
+  "category": "Aksi Korporasi",
+  "title": "SONA Gelar [Public Expose] Insidentil usai Surat OJK",
+  "deck": "Sona Topas Tourism Industry akan menggelar Public Expose Insidentil secara daring pada 6 Oktober 2026, dipicu permintaan otoritas terkait pergerakan harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:49:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe6dd1f69c_ab09a4cd8c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SONA",
+  "tags": [
+   "SONA",
+   "Public Expose",
+   "OJK",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Sona Topas Tourism Industry Tbk (SONA) melaporkan kepada Bursa Efek Indonesia rencana penyelenggaraan Public Expose Insidentil pada Selasa, 6 Oktober 2026, pukul 14.00 WIB. Acara akan berlangsung secara daring melalui aplikasi Zoom. Dalam formulir pelaporan, perusahaan mencantumkan bahwa latar belakang penyelenggaraan ini bukan inisiatif sukarela, melainkan permintaan Otoritas Jasa Keuangan (OJK), dengan nomor referensi surat Peng-SPT-00197/BEI.WAS/09-2026.",
+   "Agenda yang disiapkan perusahaan mencakup empat hal: pemaparan informasi umum perusahaan, kinerja keuangan dan kondisi bisnis terkini, rencana bisnis ke depan, serta analisis manajemen terkait pergerakan harga saham perseroan. Poin terakhir ini menjadi penanda bahwa penyelenggaraan public expose kali ini terkait dengan pemantauan otoritas atas fluktuasi harga saham SONA di pasar, bukan sekadar paparan kinerja rutin.",
+   "Surat permohonan pelaksanaan ditujukan kepada Direktur Utama Bursa Efek Indonesia, dengan tembusan ke Kepala Divisi Penilaian Perusahaan Sektor Jasa dan Kepala Divisi Perdagangan Saham BEI. Laporan keterbukaan ini disampaikan secara elektronik oleh Budi Setiawan selaku Corporate Secretary Sona Topas Tourism Industry pada 2 Oktober 2026 pukul 17.49 WIB."
+  ],
+  "fotoAdegan": "Travelers browsing shelves of duty free perfume and cosmetics inside a bright airport departure lounge, soft morning light",
+  "takeaway": "Laporan ini netral bagi fundamental SONA karena isinya baru soal jadwal dan latar belakang pertemuan, belum ada angka keuangan baru yang bisa dinilai. Tidak ada pos laporan keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh langsung oleh dokumen ini, tapi pelaku pasar tetap perlu mencatat bahwa pemicunya adalah permintaan OJK terkait pergerakan harga saham, sebuah sinyal bahwa otoritas melihat ada aktivitas transaksi yang tidak biasa pada saham SONA belakangan ini. Yang perlu dipantau adalah pelaksanaan public expose itu sendiri pada 6 Oktober 2026 pukul 14.00 WIB, khususnya penjelasan manajemen soal pergerakan harga sahamnya, karena di sanalah baru akan muncul data dan alasan konkret yang bisa dinilai dampaknya terhadap kondisi perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dmnd-angkat-leonard-jadi-komisaris-independen-baru",
+  "category": "Aksi Korporasi",
+  "title": "DMND angkat [Leonard] jadi komisaris independen baru",
+  "deck": "RUPSLB Diamond Food Indonesia menyetujui Leonard sebagai komisaris independen baru per 30 September 2026, melengkapi tujuh anggota dewan komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:25:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f46279264_f5669d8209.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMND",
+  "tags": [
+   "DMND",
+   "komisaris independen",
+   "perubahan pengurus",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Diamond Food Indonesia Tbk. (DMND) melaporkan kepada OJK dan Bursa Efek Indonesia bahwa Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 30 September 2026 menyetujui pengangkatan Leonard sebagai Komisaris Independen perseroan. Masa jabatannya berlaku sejak ditutupnya RUPSLB tersebut sampai ditutupnya Rapat Umum Pemegang Saham Tahunan yang akan diselenggarakan pada 2029.",
+   "Dengan penambahan ini, susunan Dewan Komisaris DMND terhitung sejak penutupan RUPSLB 30 September 2026 menjadi tujuh orang, yaitu Chen Tsen Nan sebagai Komisaris Utama, serta Corneiles Tedjo Endriyarto, Lim Beng Lin, Istini Tatiek Siddharta, Nakrin Narula, Wu Qianfei, dan Leonard yang semuanya menyandang status Komisaris Independen. Susunan Direksi perseroan tidak berubah, tetap diisi oleh Philip Min Lih Chen sebagai Direktur Utama sejak 14 Juni 2024, Ir. Widianto Juwono sebagai Direktur sejak tanggal yang sama, dan Troy Parwata sebagai Direktur sejak 13 Juni 2025.",
+   "Dalam laporannya, Corporate Secretary DMND Arinta Meidia Harsono menyatakan bahwa perubahan pengurus ini tidak berdampak pada kegiatan operasional, aspek hukum, kondisi keuangan, maupun keberlangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Workers sorting boxes of packaged snack products on a conveyor belt inside a bright food distribution warehouse, Jakarta",
+  "takeaway": "Perubahan ini netral bagi fundamental DMND karena tidak ada dampak langsung ke kinerja keuangan, tapi tetap patut dicatat karena memperkuat struktur pengawasan internal perseroan. Tidak ada pos keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh di laporan ini, yang berubah adalah komposisi pengawas, dengan enam dari tujuh komisaris kini berstatus independen, jauh di atas batas minimal 30 persen yang diwajibkan OJK. Komisaris independen penting diawasi pasar karena mereka tidak terafiliasi dengan pemegang saham pengendali atau manajemen, sehingga idealnya membuat pengawasan terhadap direksi lebih berimbang. Yang perlu dipantau selanjutnya adalah kinerja pengawasan dewan komisaris yang baru ini sepanjang masa jabatan hingga RUPS Tahunan 2029, serta apakah ada perubahan susunan direksi pada laporan keterbukaan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "prda-buyback-tembus-1-63-saham-per-2-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PRDA [Buyback] Tembus 1,63% Saham per 2 Oktober",
+  "deck": "Prodia Widyahusada melaporkan realisasi buyback saham naik jadi sekitar 1,63 persen saham beredar per 2 Oktober 2026, dengan sisa dana Rp107,53 miliar dari anggaran sekitar Rp150 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:15:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/caac5f6db1_e62f54c5ee.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia hasil pelaksanaan pembelian kembali saham sejak 20 Agustus hingga 2 Oktober 2026. Program ini dijalankan berdasarkan keterbukaan informasi tanggal 19 Agustus 2026 soal rencana buyback dalam kondisi pasar yang berfluktuasi signifikan, sesuai Pasal 12 ayat 1 POJK No. 13 Tahun 2023. Selama 31 hari transaksi, Prodia membeli kembali total 15.449.300 lembar saham dengan harga yang bergerak antara Rp2.474 dan Rp2.846 per saham. Transaksi terakhir pada 2 Oktober 2026 sebanyak 538.800 lembar dengan harga rata-rata Rp2.846 per saham.",
+   "Dari sisi dana, anggaran buyback Prodia sekitar Rp150 miliar. Per 2 Oktober 2026, sisa dana yang belum terpakai tercatat Rp107,53 miliar, turun dari Rp110,69 miliar pada 29 September 2026. Artinya, sejak program dimulai perusahaan sudah membelanjakan sekitar Rp42,46 miliar dari anggaran tersebut untuk membeli kembali sahamnya sendiri.",
+   "Jika dibandingkan dengan laporan sebelumnya yang mencatat realisasi buyback 1,44 persen dari total saham tercatat per 25 September 2026, posisi per 2 Oktober 2026 ini naik menjadi sekitar 1,63 persen. Pembelian harian bervariasi, dari puluhan ribu lembar hingga yang terbesar 2.616.500 lembar pada 7 September 2026 dengan harga rata-rata Rp2.795 per saham."
+  ],
+  "fotoAdegan": "Medical laboratory technicians in white coats loading blood sample tubes into an automated analyzer, bright clinical lighting",
+  "takeaway": "Laporan ini netral bagi Prodia, karena skala buybacknya masih kecil, sekitar 1,63 persen dari total saham beredar, sehingga belum mengubah struktur kepemilikan atau hak suara secara berarti. Yang tersentuh adalah arus kas dan jumlah saham beredar: setiap pembelian kembali mengeluarkan uang tunai perusahaan, sementara jumlah saham yang beredar di pasar berkurang, yang secara teori membuat laba per saham, yaitu laba bersih dibagi jumlah saham, sedikit lebih besar karena dibagi ke lembar yang lebih sedikit. Pengeluaran kas sekitar Rp42,46 miliar untuk buyback ini juga ikut menjelaskan penurunan kas Rp46,34 miliar yang baru dilaporkan Prodia ke bursa sehari sebelumnya. Yang perlu dipantau selanjutnya adalah laporan realisasi berikutnya, yaitu apakah Prodia terus memakai sisa dana Rp107,53 miliar dan seberapa jauh persentase buyback ini akan bertambah sebelum periode pembelian kembali berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asii-bagikan-dividen-interim-rp98-per-saham-cair-30-oktober",
+  "category": "Aksi Korporasi",
+  "title": "ASII bagikan [dividen] interim Rp98 per saham, cair 30 Oktober",
+  "deck": "Astra International (ASII) membagikan dividen interim Rp98 per saham, totalnya sekitar Rp3,9 triliun, dengan recording date 14 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:10:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/281fda42f7_2d5f48f253.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASII",
+  "tags": [
+   "ASII",
+   "dividen interim",
+   "Astra International",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Astra International Tbk (ASII) mengumumkan pembagian dividen interim untuk tahun buku 2026 senilai total sekitar Rp3,89 triliun, atau Rp98 per saham. Keputusan ini diambil direksi pada 10 September 2026 dan disetujui dewan komisaris secara efektif pada 30 September 2026. Pengumuman resmi ditandatangani Corporate Secretary ASII, Gita Tiffany Boer, dan disampaikan ke Otoritas Jasa Keuangan pada 2 Oktober 2026.",
+   "Jadwal pembagiannya cukup rinci. Untuk transaksi di pasar reguler dan negosiasi, cum dividen jatuh pada 12 Oktober 2026 dan ex dividen pada 13 Oktober 2026, yang berarti pembeli saham ASII mulai 13 Oktober tidak lagi berhak atas dividen ini. Untuk transaksi di pasar tunai, cum dividen pada 14 Oktober 2026 dan ex dividen pada 15 Oktober 2026. Pemegang saham yang namanya tercatat di Daftar Pemegang Saham pada recording date, yaitu 14 Oktober 2026, berhak menerima dividen, dan pembayarannya dijadwalkan pada 30 Oktober 2026.",
+   "Perusahaan juga menambahkan catatan penting: karena ASII sedang menjalankan program pembelian kembali saham (buyback) yang masih berlangsung, jumlah total dividen interim yang akhirnya dibagikan bisa berubah. Besarannya bergantung pada jumlah saham yang tercatat berhak menerima dividen pada recording date, karena saham yang sudah dibeli kembali perusahaan tidak ikut dihitung."
+  ],
+  "fotoAdegan": "Rows of finished passenger cars parked in an orderly assembly yard at an Indonesian automotive plant, overcast morning light",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi ASII, karena menunjukkan perusahaan punya kas yang cukup kuat untuk membagikan sekitar Rp3,9 triliun kepada pemegang saham tanpa menunggu laporan tahunan rampung. Dividen semacam ini akan mengurangi kas dan ekuitas, yaitu selisih antara aset dan utang yang menjadi modal sendiri perusahaan, sebesar nilai yang dibagikan begitu dibayarkan, tapi bagi ASII yang rutin menghasilkan laba besar dari bisnis otomotif dan alat berat, jumlah ini tergolong wajar bagi skala usahanya. Perlu dicatat juga, karena perusahaan sedang menjalankan program pembelian kembali saham, total dividen final bisa bergeser tergantung berapa banyak saham yang masih berhak menerima dividen pada recording date. Yang perlu dipantau pembaca adalah recording date pada 14 Oktober 2026, yaitu batas waktu pemegang saham harus sudah tercatat untuk berhak atas dividen ini, serta tanggal pembayaran pada 30 Oktober 2026.",
+  "sentimen": "positif"
  },
  {
   "slug": "link-gelar-rupslb-pergantian-direksi-komisaris-26-okt",

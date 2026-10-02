@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "vtny-beri-penjelasan-ke-bei-soal-opini-audit-pengecualian",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Beri Penjelasan ke BEI soal Opini Audit [Pengecualian]",
+  "deck": "Venteny Fortuna International (VTNY) menjawab permintaan penjelasan Bursa Efek Indonesia soal opini audit wajar dengan pengecualian dan realisasi dana IPO lebih dari Rp240 miliar.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "opini audit",
+   "obligasi",
+   "realisasi dana IPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/90fc7570b3_3acefcf797.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "argo-jelaskan-ke-bei-rugi-kurs-melonjak-obligasi-mangkrak",
+  "category": "Aksi Korporasi",
+  "title": "ARGO Jelaskan ke BEI: Rugi Kurs Melonjak, Obligasi [Mangkrak]",
+  "deck": "ARGO menjawab permintaan penjelasan dan rencana site visit BEI atas laporan keuangan semester I 2026, termasuk lonjakan rugi kurs dan nasib obligasi subordinasi ke pihak yang pailit sejak 2006.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARGO",
+   "Argo Pantes",
+   "obligasi subordinasi",
+   "rugi kurs"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/acd22cecaa_59360f9400.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-terbitkan-1-02-triliun-saham-baru-headwell-kuasai-65",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Terbitkan 1,02 Triliun Saham Baru, Headwell [Kuasai] 65%",
+  "deck": "PT Remitra Global International (d.h. MKNT) menuntaskan rights issue tanpa hak memesan efek terlebih dahulu senilai Rp1 per saham, membuat Headwell Bintang Energi Hijau jadi pengendali baru dengan 64,9 persen saham.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "PMTHMETD",
+   "Dilusi Saham",
+   "Remitra Global International"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb5f517c20_1e3ed687d0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ppatk-rilis-peta-risiko-keuangan-jelang-evaluasi-fatf-2029",
   "category": "Perbankan",
   "title": "PPATK Rilis Peta Risiko Keuangan, Jelang Evaluasi FATF [2029]",
@@ -57,6 +105,166 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821026.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pnmp-dana-obligasi-sosial-rp1-01-triliun-terserap-100",
+  "category": "Aksi Korporasi",
+  "title": "PNMP: Dana Obligasi Sosial Rp1,01 Triliun [Terserap] 100%",
+  "deck": "PT Permodalan Nasional Madani melaporkan seluruh dana Rp1,01 triliun dari obligasi sosial Tahap III telah habis terpakai untuk pembiayaan sosial, tanpa sisa dana.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNMP",
+   "obligasi",
+   "penggunaan dana",
+   "PNM"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/927dcea038_3d0e0626f6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnmp-rampungkan-realisasi-dana-sukuk-sosial-rp719-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PNMP Rampungkan [Realisasi] Dana Sukuk Sosial Rp719,4 Miliar",
+  "deck": "PT Permodalan Nasional Madani (PNMP) melaporkan dana bersih Rp719,4 miliar dari sukuk mudharabah sosial Tahap IV sudah terpakai 100 persen, tanpa sisa.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNMP",
+   "sukuk",
+   "obligasi",
+   "realisasi dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/00d18fbee2_d10ed99d62.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnmp-dana-obligasi-sosial-rp498-57-m-terserap-100",
+  "category": "Aksi Korporasi",
+  "title": "PNMP: Dana Obligasi Sosial Rp498,57 M Terserap [100%]",
+  "deck": "PNM melaporkan seluruh dana bersih Rp498,57 miliar dari Obligasi Berwawasan Sosial Tahap II sudah dipakai penuh untuk pembiayaan usaha berwawasan sosial, tanpa sisa dana mengendap.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNMP",
+   "obligasi berkelanjutan",
+   "penggunaan dana",
+   "PNM"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0576abda47_869d83ed80.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kaii-angkat-ristadi-jadi-komisaris-baru-kai",
+  "category": "Aksi Korporasi",
+  "title": "KAII Angkat Ristadi Jadi [Komisaris] Baru KAI",
+  "deck": "PT Kereta Api Indonesia (Persero) mengangkat Ristadi sebagai komisaris baru per 1 Oktober 2026, menyusul keputusan pemegang saham tentang susunan dewan komisaris perseroan.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KAII",
+   "Kereta Api Indonesia",
+   "Pergantian Komisaris",
+   "Tata Kelola Perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a73ede4d0_cec15648df.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnmp-sukuk-sosial-orange-rp1-5-triliun-terserap-100",
+  "category": "Aksi Korporasi",
+  "title": "PNMP: Sukuk Sosial Orange Rp1,5 Triliun [Terserap] 100%",
+  "deck": "PNM melaporkan dana bersih Rp1,49 triliun dari Sukuk Mudharabah Berwawasan Sosial Orange Tahap III sudah tersalur penuh untuk kegiatan usaha berwawasan sosial, tanpa sisa dana.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNMP",
+   "sukuk",
+   "obligasi berkelanjutan",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cab0f76507_5f72b15cad.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hifi-koreksi-laporan-dana-obligasi-lama-lunas",
+  "category": "Aksi Korporasi",
+  "title": "HIFI Koreksi Laporan Dana, Obligasi Lama [Lunas]",
+  "deck": "HIFI melaporkan koreksi realisasi dana obligasi Rp800 miliar ke OJK. Seluruh dana sudah terpakai untuk melunasi obligasi lama dan modal kerja per 31 Mei 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HIFI",
+   "obligasi korporasi",
+   "penggunaan dana IPO",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da8059738e_1924d45fc3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sona-gelar-public-expose-insidentil-usai-surat-ojk",
+  "category": "Aksi Korporasi",
+  "title": "SONA Gelar [Public Expose] Insidentil usai Surat OJK",
+  "deck": "Sona Topas Tourism Industry akan menggelar Public Expose Insidentil secara daring pada 6 Oktober 2026, dipicu permintaan otoritas terkait pergerakan harga sahamnya.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SONA",
+   "Public Expose",
+   "OJK",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe6dd1f69c_ab09a4cd8c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dmnd-angkat-leonard-jadi-komisaris-independen-baru",
+  "category": "Aksi Korporasi",
+  "title": "DMND angkat [Leonard] jadi komisaris independen baru",
+  "deck": "RUPSLB Diamond Food Indonesia menyetujui Leonard sebagai komisaris independen baru per 30 September 2026, melengkapi tujuh anggota dewan komisaris.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMND",
+   "komisaris independen",
+   "perubahan pengurus",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f46279264_f5669d8209.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-buyback-tembus-1-63-saham-per-2-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PRDA [Buyback] Tembus 1,63% Saham per 2 Oktober",
+  "deck": "Prodia Widyahusada melaporkan realisasi buyback saham naik jadi sekitar 1,63 persen saham beredar per 2 Oktober 2026, dengan sisa dana Rp107,53 miliar dari anggaran sekitar Rp150 miliar.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/caac5f6db1_e62f54c5ee.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asii-bagikan-dividen-interim-rp98-per-saham-cair-30-oktober",
+  "category": "Aksi Korporasi",
+  "title": "ASII bagikan [dividen] interim Rp98 per saham, cair 30 Oktober",
+  "deck": "Astra International (ASII) membagikan dividen interim Rp98 per saham, totalnya sekitar Rp3,9 triliun, dengan recording date 14 Oktober 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASII",
+   "dividen interim",
+   "Astra International",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/281fda42f7_2d5f48f253.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "link-gelar-rupslb-pergantian-direksi-komisaris-26-okt",
@@ -6294,215 +6502,6 @@ var ARTICLES = [
    "properti"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2c73ba4b16_eb08e2ac44.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-luck-setujui-pengalihan-saham-serial-system-ke-publik",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB LUCK Setujui Pengalihan Saham [Serial System] ke Publik",
-  "deck": "RUPSLB LUCK menyetujui perubahan Pasal 3 Anggaran Dasar sesuai KBLI 2025 dan penegasan pengalihan saham Serial System Pte Ltd ke kelompok pemegang saham masyarakat.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LUCK",
-   "RUPSLB",
-   "Anggaran Dasar",
-   "Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/afdbc6c4e2_1146ad0c5f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amag-tunjuk-ulian-taurin-malik-jadi-komisaris-independen",
-  "category": "Aksi Korporasi",
-  "title": "AMAG tunjuk Ulian Taurin Malik jadi [Komisaris Independen]",
-  "deck": "RUPST Asuransi Multi Artha Guna Tbk mengangkat Ulian Taurin Malik sebagai komisaris independen baru per 25 September 2026, setelah lolos uji kelayakan OJK.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMAG",
-   "Komisaris Independen",
-   "RUPST",
-   "Asuransi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9b6f982d3e_4c8fca829b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdka-direksi-terima-664-400-saham-dari-program-lti",
-  "category": "Aksi Korporasi",
-  "title": "MDKA: Direksi [Terima] 664.400 Saham dari Program LTI",
-  "deck": "Direksi Albert Saputro menerima 664.400 saham MDKA lewat pelaksanaan program insentif jangka panjang pada 23 September 2026, menambah kepemilikannya menjadi 3,88 juta lembar saham.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDKA",
-   "saham direksi",
-   "program insentif LTI",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-0467-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tufi-lunasi-obligasi-rp804-miliar-jatuh-tempo-27-september",
-  "category": "Aksi Korporasi",
-  "title": "TUFI Lunasi Obligasi [Rp804 Miliar] Jatuh Tempo 27 September",
-  "deck": "Obligasi Berkelanjutan VI Tahap II Seri A senilai Rp804,175 miliar milik TUFI delisting dari BEI mulai 28 September 2026 setelah jatuh tempo sehari sebelumnya.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TUFI",
-   "obligasi",
-   "jatuh tempo",
-   "Mandiri Tunas Finance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/49820ddf8c_372b7b8f0c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fifa-catatkan-obligasi-tahap-iv-rp2-5-triliun-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "FIFA catatkan obligasi tahap IV [Rp2,5 triliun] di BEI",
-  "deck": "BEI mencatatkan Obligasi Berkelanjutan VII Tahap IV FIFA senilai Rp2,5 triliun mulai 28 September 2026, terdiri dari dua seri berbunga 7,15% dan 7,40%.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FIFA",
-   "obligasi korporasi",
-   "BEI",
-   "pembiayaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67ca2622c2_8e472fea32.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rgas-rombak-komite-audit-mochamad-yassin-jadi-ketua",
-  "category": "Aksi Korporasi",
-  "title": "RGAS [Rombak] Komite Audit, Mochamad Yassin Jadi Ketua",
-  "deck": "Komite Audit RGAS berganti susunan efektif 23 September 2026, Mochamad Yassin gantikan Richard Leonardus A. sebagai ketua menyusul perubahan Dewan Komisaris.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RGAS",
-   "Komite Audit",
-   "Tata Kelola Perusahaan",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b114285729_4cd00861ef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpro-tahir-lepas-2-5-juta-saham-senilai-rp30-miliar-jual",
-  "category": "Aksi Korporasi",
-  "title": "MPRO: TAHIR Lepas 2,5 Juta Saham Senilai Rp30 Miliar [Jual]",
-  "deck": "Pemegang saham TAHIR menjual 2,5 juta saham MPRO seharga Rp12.000 per saham, kepemilikannya turun tipis dari 10,49% menjadi 10,46%.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPRO",
-   "kepemilikan saham",
-   "TAHIR",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-2462-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menkomdigi-kunjungi-telin-di-as-dorong-ekosistem-digital-global",
-  "category": "Teknologi",
-  "title": "Menkomdigi Kunjungi Telin di AS, Dorong Ekosistem Digital [Global]",
-  "deck": "Menkomdigi Meutya Hafid menyambangi kantor Telin, anak usaha Telkom, di Los Angeles untuk membahas perluasan konektivitas digital Indonesia ke pasar internasional.",
-  "date": "25 September 2026",
-  "image": "assets/img/menkomdigi-kunjungi-telin-di-as-dorong-ekosistem-digital-global.jpg",
-  "imageV": "mugwfluw",
-  "tags": [
-   "Telkom",
-   "Menkomdigi",
-   "Telin",
-   "Digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469376-menkomdigi-kunjungi-kantor-telin-di-los-angeles-dorong-ekosistem-digital-indonesia-go-global"
- },
- {
-  "slug": "prda-buyback-saham-naik-ke-1-44-per-25-september",
-  "category": "Aksi Korporasi",
-  "title": "PRDA Buyback Saham Naik ke [1,44%] per 25 September",
-  "deck": "Prodia melaporkan total pembelian kembali saham mencapai 13,64 juta lembar atau 1,44 persen dari saham beredar per 25 September 2026, dengan sisa dana buyback Rp112,65 miliar.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "buyback saham",
-   "Prodia Widyahusada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3a7039e412_903ccd8ba5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-mdka-melonjak-26-kali-liabilitas-naik-21",
-  "category": "Aksi Korporasi",
-  "title": "Laba MDKA [Melonjak] 26 Kali, Liabilitas Naik 21%",
-  "deck": "Laba bersih Merdeka Copper Gold naik tajam ke US$214,8 juta pada semester I 2026, sementara liabilitas naik 21,1% menjadi US$3,37 miliar untuk mendanai ekspansi usaha.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDKA",
-   "laporan keuangan",
-   "Merdeka Copper Gold",
-   "liabilitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925174148-64326-0/FinancialStatement-2026-II-MDKA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-suntik-modal-rp125-m-kepemilikan-gigp-ke-88-32",
-  "category": "Aksi Korporasi",
-  "title": "INPS Suntik Modal Rp125 M, Kepemilikan GIGP ke [88,32%]",
-  "deck": "Pengendali INPS menyuntik Rp125 miliar lewat private placement untuk menutup ekuitas negatif; kepemilikannya naik ke 88,32 persen, porsi publik turun ke 8,25 persen.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "private placement",
-   "RUPSLB",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a2d7eb6707_5f7774ae03.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpro-tahir-lepas-37-juta-saham-hak-suara-ke-10-49",
-  "category": "Aksi Korporasi",
-  "title": "MPRO: TAHIR [Lepas] 37 Juta Saham, Hak Suara ke 10,49%",
-  "deck": "TAHIR melepas 37 juta saham MPRO senilai sekitar Rp444 miliar lewat repurchase agreement, hak suaranya turun dari 10,86 persen menjadi 10,49 persen.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPRO",
-   "TAHIR",
-   "kepemilikan saham",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-6889-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dgwg-maybank-sekuritas-tambah-saham-ke-11-71-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "DGWG: Maybank Sekuritas Tambah Saham ke 11,71% via [Repo]",
-  "deck": "Maybank Sekuritas Indonesia melaporkan kepemilikan saham DGWG naik dari 7,73% menjadi 11,71% usai pencairan transaksi repo saham milik PT Agro Jaya Mandiri.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGWG",
-   "kepemilikan saham",
-   "repo saham",
-   "Maybank Sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-7641-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

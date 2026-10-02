@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "emas-gadaikan-saham-anak-usaha-untuk-pinjaman-us-350-juta",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Gadaikan Saham Anak Usaha untuk Pinjaman [US$350 Juta]",
+  "deck": "Amendemen keterbukaan informasi EMAS merinci kreditur dan jaminan saham anak usaha PETS, GSM, dan PBT untuk fasilitas kredit hingga US$350 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 Oktober 2026",
+  "isoDate": "2026-10-03T00:08:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bc8314a64a_137830d844.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "transaksi afiliasi",
+   "gadai saham",
+   "tambang emas Pani"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) menerbitkan amendemen dan pernyataan kembali atas keterbukaan informasi transaksi afiliasi yang pertama kali diumumkan 8 Desember 2025. Amendemen ini merinci dokumen pembiayaan dan daftar kreditur untuk pinjaman yang menopang tiga anak usaha pengelola tambang emas Pani di Gorontalo, yaitu PT Gorontalo Sejahtera Mining (GSM), PT Puncak Emas Tani Sejahtera (PETS), dan PT Pani Bersama Tambang (PBT). Dalam struktur ini EMAS berperan sebagai penyedia jaminan atas utang ketiga anak usahanya tersebut.",
+   "Dokumen menyebutkan rincian fasilitas pembiayaan: perjanjian fasilitas kredit bergulir senilai US$350 juta, Surat Konfirmasi Transaksi Pembayaran di Muka Emas senilai US$95,84 juta antara PETS dan ING Bank N.V., serta sejumlah perjanjian fasilitas terjamin dengan nilai berkisar US$50 juta sampai US$350 juta. Kreditur yang terlibat berjumlah 13 institusi, yaitu ING Bank N.V. Singapore Branch, PT Bank UOB Indonesia, Crédit Agricole Corporate and Investment Bank Singapore Branch, PT Bank Mizuho Indonesia, Natixis Singapore Branch, Oversea-Chinese Banking Corporation Limited Singapura, PT Bank DBS Indonesia, PT Bank HSBC Indonesia, PT Bank KEB Hana Indonesia, PT Bank Maybank Indonesia Tbk, PT Bank Negara Indonesia (Persero) Tbk, PT Bank OCBC NISP Tbk, dan Société Générale Singapore Branch.",
+   "Sebagai jaminan, EMAS menggadaikan sahamnya di GSM, PETS, dan PBT, ditambah saham PBT di PETS serta rekening bank milik ketiga anak usaha tersebut. PT Bank UOB Indonesia bertindak sebagai agen jaminan yang mewakili seluruh kreditur. Dokumen ditandatangani Corporate Secretary EMAS, Adi Adriansyah Sjoekri, diterbitkan di Jakarta pada 2 Oktober 2026 dengan tanggal kejadian tercatat 30 September 2026."
+  ],
+  "fotoAdegan": "Wide view of an open-pit gold mine with heavy excavators and haul trucks on terraced slopes, misty hills behind, Indonesia",
+  "takeaway": "Laporan ini netral bagi pemegang saham, karena isinya hanya memperjelas detail teknis transaksi pembiayaan yang sudah diumumkan sejak Desember 2025, tanpa nilai transaksi baru atau tambahan utang. Yang tersentuh adalah posisi ekuitas EMAS di tiga anak usahanya, sebab sahamnya di GSM, PETS, dan PBT kini resmi tercatat sebagai jaminan utang, artinya kalau ketiga anak usaha itu gagal bayar, kreditur berhak mengambil alih saham tersebut dan EMAS bisa kehilangan kendali atas aset tambang emas Pani. Beban bunga EMAS secara konsolidasi juga perlu dicermati karena total fasilitas kreditnya besar, sampai US$350 juta. Yang perlu dipantau selanjutnya adalah apakah EMAS akan menerbitkan keterbukaan informasi lanjutan begitu ada pencairan dana dari fasilitas ini atau perubahan status jaminan saham tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdka-terbitkan-obligasi-rp4-12-triliun-bunga-hingga-10",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Terbitkan Obligasi [Rp4,12 Triliun], Bunga hingga 10%",
+  "deck": "Merdeka Copper Gold menerbitkan obligasi tahap IV senilai Rp4,12 triliun dengan bunga tetap 8,25-10 persen per tahun, bagian dari program Rp15 triliun yang sudah terbit Rp6,1 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 Oktober 2026",
+  "isoDate": "2026-10-03T00:00:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5272c31669_34906402e6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKA",
+  "tags": [
+   "MDKA",
+   "obligasi",
+   "pasar modal",
+   "pendanaan"
+  ],
+  "body": [
+   "PT Merdeka Copper Gold Tbk (MDKA) menerbitkan Obligasi Berkelanjutan V Tahap IV Tahun 2026 senilai Rp4,12 triliun, bagian dari program obligasi berkelanjutan bertarget total Rp15 triliun yang sejauh ini sudah merealisasikan Rp6,1 triliun. Obligasi tahap ini terbagi dalam dua seri. Seri A senilai Rp1,81 triliun dengan bunga tetap 8,25 persen per tahun dan jangka waktu 367 hari kalender sejak tanggal emisi. Seri B senilai Rp2,31 triliun dengan bunga tetap 10 persen per tahun dan jangka waktu tiga tahun. Pelunasan dilakukan penuh sekaligus pada saat jatuh tempo masing-masing seri, yakni 27 Oktober 2027 untuk Seri A dan 20 Oktober 2029 untuk Seri B, dengan bunga dibayarkan setiap tiga bulan mulai 20 Januari 2027.",
+   "Lembaga pemeringkat Pefindo memberikan peringkat idA+ atau Single A Plus untuk obligasi ini, kategori layak investasi yang berlaku sejak 1 Oktober 2026 hingga 1 Oktober 2027. Penjamin pelaksana emisi obligasi ini adalah PT Indo Premier Sekuritas, PT Sucor Sekuritas, PT Aldiracita Sekuritas Indonesia, PT Trimegah Sekuritas Indonesia Tbk, dan PT BCA Sekuritas, dengan PT Bank Rakyat Indonesia (Persero) Tbk bertindak sebagai wali amanat yang mewakili kepentingan pemegang obligasi. Masa penawaran umum dijadwalkan pada 14-15 Oktober 2026, penjatahan pada 16 Oktober 2026, distribusi obligasi pada 20 Oktober 2026, dan pencatatan di Bursa Efek Indonesia pada 21 Oktober 2026.",
+   "Obligasi ini tidak memiliki jaminan khusus, melainkan dijamin dengan seluruh harta kekayaan perusahaan sesuai ketentuan hukum perdata, dengan kedudukan pari passu alias setara tanpa hak didahulukan dibanding kreditur lain perseroan. Perseroan mengikatkan diri pada batasan rasio utang neto konsolidasian terhadap EBITDA konsolidasian tidak lebih dari 5 banding 1 selama obligasi belum lunas. Dokumen menyebutkan risiko utama perseroan sebagai perusahaan induk, karena hampir seluruh pendapatannya berasal dari anak usaha yang beroperasi di sektor tambang emas, perak, tembaga, dan nikel. Setahun setelah tanggal penjatahan, perseroan berhak membeli kembali sebagian atau seluruh obligasi sebelum jatuh tempo."
+  ],
+  "fotoAdegan": "Aerial view of a terraced open pit copper and gold mine with heavy haul trucks on dirt roads, dust rising, overcast sky",
+  "takeaway": "Penerbitan obligasi tahap IV ini bersifat netral bagi MDKA, karena merupakan kelanjutan program pendanaan jangka panjang yang memang sudah direncanakan dan mendapat peringkat layak investasi dari Pefindo, bukan tanda kebutuhan kas darurat. Yang perlu dicermati adalah beban bunga baru yang muncul: dengan kupon 8,25 persen untuk porsi Rp1,81 triliun dan 10 persen untuk porsi Rp2,31 triliun, perseroan harus menyiapkan sekitar Rp380 miliar per tahun hanya untuk membayar bunga, di luar kewajiban utang lain yang sudah ada, dan ini akan tercermin pada arus kas serta beban bunga di laporan keuangan mendatang. Perseroan juga terikat pada batas rasio utang terhadap EBITDA, semacam rambu yang membatasi seberapa besar utang dibanding kemampuan menghasilkan laba operasional, agar tidak melebihi 5 banding 1 selama obligasi berjalan. Yang perlu dipantau selanjutnya adalah masa penawaran umum pada 14-15 Oktober 2026 dan tanggal penjatahan pada 16 Oktober 2026, karena dari situ akan terlihat apakah pasar menyerap penuh target Rp4,12 triliun ini, serta pembayaran bunga pertama pada 20 Januari 2027 sebagai indikator awal kelancaran kewajiban perseroan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "g20-tolak-jadikan-pangan-alat-tekanan-geopolitik",
   "category": "Global",
   "title": "G20 [Tolak] Jadikan Pangan Alat Tekanan Geopolitik",
@@ -29,6 +81,58 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Ada dua hal konkret dengan tenggat jelas dari pertemuan ini: Peraturan Menteri Perdagangan Nomor 9 Tahun 2026 yang melarang impor barang hasil kerja paksa, dan target penandatanganan perjanjian dagang Indonesia-Uni Eropa (I-EU CEPA) supaya berlaku awal 2027. Yang terdampak langsung adalah eksportir sawit, alas kaki, tekstil, dan produk perikanan ke Eropa, karena fasilitas keringanan tarif Uni Eropa untuk Indonesia berakhir pada 2027 sehingga tanpa CEPA barang Indonesia bisa kena tarif lebih mahal di sana. Sikap Indonesia di forum G20, menolak pelabelan politik atas kelebihan kapasitas industri dan menolak sanksi sepihak soal kerja paksa, mengarah ke posisi penengah di tengah ketegangan dagang negara besar, bukan berpihak ke salah satu kubu. Yang akan menentukan apakah CEPA benar rampung sesuai target adalah dukungan Dewan Uni Eropa yang baru diminta langsung ke Menteri Prancis Nicolas Forissier, serta hasil pembahasan penyesuaian waktu penerapan sertifikasi halal yang masih menggantung dalam pertemuan ini.",
   "imageV": "mur6yyip"
+ },
+ {
+  "slug": "epac-terima-pinjaman-afiliasi-rp3-7-miliar-dari-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Terima Pinjaman [Afiliasi] Rp3,7 Miliar dari Pengendali",
+  "deck": "EPAC mendapat pinjaman Rp3,7 miliar dari pemegang saham pengendali untuk melunasi utang bank, berbunga 10 persen per tahun tanpa batas waktu jatuh tempo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T23:31:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/852e4d7b78_9cc883c771.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EPAC",
+  "tags": [
+   "EPAC",
+   "transaksi afiliasi",
+   "pinjaman pemegang saham",
+   "utang bank"
+  ],
+  "body": [
+   "PT Megalestari Epack Sentosaraya Tbk (EPAC) menandatangani perjanjian pinjaman dengan PT Triple Berkah Bersama pada 30 September 2026 senilai Rp3,7 miliar. Triple Berkah Bersama berkedudukan sebagai pemegang saham pengendali sekaligus pemegang saham utama EPAC, sehingga transaksi ini tergolong transaksi afiliasi berdasarkan Peraturan OJK Nomor 42/POJK.04/2020. Dana pinjaman digunakan untuk melunasi utang bank EPAC yang disebut perlu segera diselesaikan demi menjaga kelancaran kegiatan usaha perusahaan.",
+   "Pinjaman ini dikenakan bunga 10 persen per tahun tanpa jaminan dan tanpa biaya lain. Perjanjian tidak menetapkan tanggal jatuh tempo, dengan mekanisme pencairan maupun pengembalian pokok disesuaikan dengan kemampuan keuangan EPAC. Manajemen menyatakan pinjaman ini mengubah komposisi kewajiban perusahaan dari utang bank menjadi kewajiban kepada Triple Berkah Bersama, namun kewajiban membayar bunga dan mengembalikan pokok tetap melekat sesuai perjanjian.",
+   "EPAC menegaskan transaksi ini bukan transaksi benturan kepentingan karena Triple Berkah Bersama tidak ikut dalam proses pertimbangan maupun pengambilan keputusan perusahaan atas pinjaman tersebut. Transaksi ini juga disebut bukan Transaksi Material menurut POJK Nomor 17/POJK.04/2020 karena nilainya di bawah ambang batas yang diatur. Laporan keterbukaan informasi ini ditandatangani dan disampaikan ke OJK oleh Nicky Gunhadi selaku Direktur Keuangan EPAC."
+  ],
+  "fotoAdegan": "Workers inspecting rolls of plastic packaging film on an industrial production line, factory floor, overhead lighting",
+  "takeaway": "Transaksi ini netral bagi EPAC karena sifatnya memindahkan utang dari bank ke pemegang saham pengendali, bukan menambah beban utang baru atau mendatangkan dana segar untuk ekspansi usaha. Yang tersentuh di sini adalah pos utang dan beban bunga perusahaan, utang bank yang harus segera dibayar kini berpindah menjadi utang ke Triple Berkah Bersama dengan bunga 10 persen per tahun, sehingga biaya bunga EPAC ke depan bergantung pada kapan pokok pinjaman ini benar-benar dilunasi. Tidak adanya tenggat jatuh tempo memberi perusahaan ruang napas karena pembayaran disesuaikan dengan kemampuan kasnya, tapi di sisi lain ini juga menandakan EPAC membutuhkan sokongan pemegang saham utama untuk menutupi kewajiban mendesak ke bank. Yang perlu dipantau berikutnya adalah laporan keuangan EPAC selanjutnya untuk melihat kapan pinjaman Rp3,7 miliar ini mulai dicicil atau dilunasi, serta apakah menyusul transaksi afiliasi serupa dari pemegang saham pengendali yang sama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "enrg-terbitkan-obligasi-rp500-miliar-tahap-v-bunga-9-10",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Terbitkan [Obligasi] Rp500 Miliar Tahap V, Bunga 9-10%",
+  "deck": "Energi Mega Persada menawarkan obligasi tahap V senilai Rp500 miliar dengan bunga 9-10 persen per tahun, bagian dari program obligasi berkelanjutan Rp4 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T23:07:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/67daa03ed6_bb37876d99.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "obligasi",
+   "pasar modal",
+   "Energi Mega Persada"
+  ],
+  "body": [
+   "PT Energi Mega Persada Tbk (ENRG) akan menerbitkan Obligasi Berkelanjutan I Tahap V Tahun 2026 dengan jumlah pokok sebanyak-banyaknya Rp500 miliar. Obligasi ini terbagi dalam dua seri. Seri A berjumlah Rp387,34 miliar dengan bunga tetap 9 persen per tahun dan jangka waktu 370 hari kalender sejak tanggal emisi. Seri B berjumlah Rp112,66 miliar dengan bunga tetap 10 persen per tahun dan jangka waktu 3 tahun. Obligasi ditawarkan pada 100 persen dari nilai pokok, dan bunga dibayarkan setiap tiga bulan.",
+   "Masa penawaran umum dijadwalkan pada 15 sampai 19 Oktober 2026, dengan tanggal penjatahan pada 20 Oktober 2026, distribusi obligasi secara elektronik pada 22 Oktober 2026, dan pencatatan di Bursa Efek Indonesia pada 23 Oktober 2026. Pembayaran bunga pertama untuk kedua seri jatuh pada 22 Januari 2027, sementara pelunasan pokok sekaligus pembayaran bunga terakhir jatuh pada 2 November 2027 untuk Seri A dan 22 Oktober 2029 untuk Seri B. Pefindo memberi peringkat idA+ (Single A Plus) dengan prospek stabil untuk obligasi ini, berlaku 9 September 2026 sampai 1 September 2027. Penjamin pelaksana emisi adalah Mandiri Sekuritas, Sucor Sekuritas, dan Trimegah Sekuritas Indonesia, sementara PT Bank Rakyat Indonesia (Persero) Tbk bertindak sebagai wali amanat.",
+   "Obligasi ini tidak dijamin dengan aset tertentu, melainkan dengan seluruh kekayaan perseroan secara pari passu bersama kreditur lain yang tidak memiliki hak istimewa. Perseroan berhak membeli kembali sebagian atau seluruh obligasi setelah satu tahun dari tanggal penjatahan. Jika Perseroan terlambat membayar bunga atau pokok, dikenakan denda 1 persen per tahun di atas bunga obligasi atas jumlah yang terutang. Tahap V ini melanjutkan empat tahap sebelumnya dari program yang sama, yaitu Tahap I sebesar Rp500 miliar, Tahap II sebesar Rp1,15 triliun, Tahap III sebesar Rp500 miliar, dan Tahap IV sebesar Rp250 miliar, sehingga total penerbitan dari program senilai Rp4 triliun ini mendekati Rp2,9 triliun setelah Tahap V."
+  ],
+  "fotoAdegan": "Workers inspecting pipeline valves at an onshore oil and gas processing facility, tropical landscape, midday light",
+  "takeaway": "Secara fundamental, penerbitan ini netral bagi ENRG karena tambahan utang Rp500 miliar ini sudah direncanakan sejak awal sebagai bagian dari program obligasi berkelanjutan Rp4 triliun, bukan kebutuhan dana mendadak, dan peringkat idA+ berprospek stabil dari Pefindo menunjukkan kemampuan bayar perusahaan masih dinilai kuat. Yang tersentuh adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjaman ini, karena bunga Seri A sembilan persen dan Seri B sepuluh persen per tahun akan membebani laporan keuangan ENRG setiap tiga bulan sampai obligasi lunas. Total penerbitan dari program ini pun sudah mendekati Rp2,9 triliun dari batas Rp4 triliun setelah empat tahap sebelumnya, sehingga sisa ruang penerbitan ke depan makin menyempit. Yang perlu dipantau berikutnya adalah masa penawaran umum pada 15 sampai 19 Oktober 2026 dan tanggal pencatatan di Bursa Efek Indonesia pada 23 Oktober 2026, karena keduanya menentukan apakah penghimpunan dana Rp500 miliar ini benar-benar terealisasi sesuai target.",
+  "sentimen": "netral"
  },
  {
   "slug": "mdka-umumkan-transaksi-afiliasi-jasa-konstruksi-tambang-pani",

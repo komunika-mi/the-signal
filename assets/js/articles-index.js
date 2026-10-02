@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "emas-gadaikan-saham-anak-usaha-untuk-pinjaman-us-350-juta",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Gadaikan Saham Anak Usaha untuk Pinjaman [US$350 Juta]",
+  "deck": "Amendemen keterbukaan informasi EMAS merinci kreditur dan jaminan saham anak usaha PETS, GSM, dan PBT untuk fasilitas kredit hingga US$350 juta.",
+  "date": "3 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "transaksi afiliasi",
+   "gadai saham",
+   "tambang emas Pani"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bc8314a64a_137830d844.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdka-terbitkan-obligasi-rp4-12-triliun-bunga-hingga-10",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Terbitkan Obligasi [Rp4,12 Triliun], Bunga hingga 10%",
+  "deck": "Merdeka Copper Gold menerbitkan obligasi tahap IV senilai Rp4,12 triliun dengan bunga tetap 8,25-10 persen per tahun, bagian dari program Rp15 triliun yang sudah terbit Rp6,1 triliun.",
+  "date": "3 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKA",
+   "obligasi",
+   "pasar modal",
+   "pendanaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5272c31669_34906402e6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "g20-tolak-jadikan-pangan-alat-tekanan-geopolitik",
   "category": "Global",
   "title": "G20 [Tolak] Jadikan Pangan Alat Tekanan Geopolitik",
@@ -21,6 +53,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/menteri-perdagangan-g20-tolak-penggunaan-pangan-sebagai-instrumen-tekanan-geopolitik",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "epac-terima-pinjaman-afiliasi-rp3-7-miliar-dari-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Terima Pinjaman [Afiliasi] Rp3,7 Miliar dari Pengendali",
+  "deck": "EPAC mendapat pinjaman Rp3,7 miliar dari pemegang saham pengendali untuk melunasi utang bank, berbunga 10 persen per tahun tanpa batas waktu jatuh tempo.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EPAC",
+   "transaksi afiliasi",
+   "pinjaman pemegang saham",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/852e4d7b78_9cc883c771.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-terbitkan-obligasi-rp500-miliar-tahap-v-bunga-9-10",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Terbitkan [Obligasi] Rp500 Miliar Tahap V, Bunga 9-10%",
+  "deck": "Energi Mega Persada menawarkan obligasi tahap V senilai Rp500 miliar dengan bunga 9-10 persen per tahun, bagian dari program obligasi berkelanjutan Rp4 triliun.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "obligasi",
+   "pasar modal",
+   "Energi Mega Persada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/67daa03ed6_bb37876d99.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "mdka-umumkan-transaksi-afiliasi-jasa-konstruksi-tambang-pani",
@@ -6434,70 +6498,6 @@ var ARTICLES = [
    "PEFINDO"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5392cd0a69_1e5bbfbca6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "isat-bukukan-untung-rp1-64-t-dari-dekonsolidasi-serat-optik",
-  "category": "Aksi Korporasi",
-  "title": "ISAT Bukukan Untung Rp1,64 T dari [Dekonsolidasi] Serat Optik",
-  "deck": "Indosat menjelaskan ke BEI transaksi pelepasan 84,9% saham IFT ke NFT serta keuntungan sekali catat Rp1,64 triliun dari dekonsolidasi anak usaha serat optiknya.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ISAT",
-   "Indosat",
-   "serat optik",
-   "dekonsolidasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af63e96c9d_1c94142303.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bnbr-pemegang-saham-levoca-divestasi-3-77-miliar-saham",
-  "category": "Aksi Korporasi",
-  "title": "BNBR: Pemegang Saham Levoca [Divestasi] 3,77 Miliar Saham",
-  "deck": "Levoca Enterprise Ltd melepas 3,77 miliar saham BNBR senilai sekitar Rp268 miliar, memangkas hak suaranya dari 9,08% menjadi 7,64%.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BNBR",
-   "Bakrie & Brothers",
-   "kepemilikan saham",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-9500-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpix-komisaris-divestasi-10-juta-saham-lepas-80-kepemilikan",
-  "category": "Aksi Korporasi",
-  "title": "MPIX: Komisaris [Divestasi] 10 Juta Saham, Lepas 80% Kepemilikan",
-  "deck": "Komisaris MPIX Sahrul Akbariyansyah menjual 10 juta saham tidak langsung seharga Rp85 per lembar, kepemilikannya susut dari 12,5 juta jadi 2,5 juta saham.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPIX",
-   "komisaris",
-   "divestasi saham",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-3895-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpix-direksi-divestasi-20-juta-saham-lepas-80-kepemilikan",
-  "category": "Aksi Korporasi",
-  "title": "MPIX: Direksi [Divestasi] 20 Juta Saham, Lepas 80% Kepemilikan",
-  "deck": "Direksi MPIX Hendra Setiawan melepas 20 juta saham senilai sekitar Rp1,7 miliar pada 23 September 2026, hak suaranya turun dari 1,6% jadi 0,32%.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPIX",
-   "divestasi saham",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-3252-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-02T02:43:53.507+07:00",
+ "diperbarui": "2026-10-03T02:30:05.901+07:00",
  "entri": [
+  {
+   "id": "2026-10-02-3",
+   "edisi": "2026-10-02",
+   "benang": "Akses Ekspor Diperlebar, Syarat Impor Diperketat",
+   "klaim": "Pemerintah bergerak memperlebar pintu ekspor sekaligus memperketat syarat masuk produk impor.",
+   "penanda": "Realisasi penandatanganan I-EU CEPA serta jumlah UMKM perikanan yang benar-benar terdaftar di InaExport",
+   "tenggat": "2027-03-31",
+   "tenggatLabel": "target penandatanganan I-EU CEPA agar berlaku awal 2027, dan jumlah UMKM terdaftar InaExport dalam beberapa bulan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-02-2",
+   "edisi": "2026-10-02",
+   "benang": "Rollover Utang Mendominasi, Sebagian Terpaksa Lewat Saham",
+   "klaim": "Mayoritas korporasi masih mampu menata ulang jadwal utang lewat penerbitan obligasi berbunga 7,5 sampai 10 persen, tetapi sebagian kecil sudah kehabisan opsi tunai dan menyerahkan kendali lewat penerbitan saham baru seperti yang dilakukan MKNT dan Apexindo.",
+   "penanda": "Berapa banyak lagi perusahaan yang menempuh skema konversi utang-saham seperti MKNT dan Apexindo",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "pada sisa tahun ini",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-02-1",
+   "edisi": "2026-10-02",
+   "benang": "Tekanan Jual Bursa Belum Reda, Pengawasan Mengetat",
+   "klaim": "Penghapusan batas bawah harga oleh BEI akan membuka ruang fluktuasi yang lebih liar di saham-saham berkapitalisasi kecil dan memaksa bursa merespons dengan permintaan klarifikasi berantai kepada emiten yang volatilitas transaksinya dianggap tidak wajar.",
+   "penanda": "Apakah BEI mengkaji ulang kebijakan tanpa batas bawah harga itu atau membiarkannya terus berjalan",
+   "tenggat": "2026-10-30",
+   "tenggatLabel": "dalam beberapa pekan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-01-3",
    "edisi": "2026-10-01",
@@ -759,8 +792,13 @@ var RAPOR = {
    "penanda": "Data inflasi AS dan perkembangan konflik AS-Iran di Selat Hormuz",
    "tenggat": "2026-09-30",
    "tenggatLabel": "sebelum rapat FOMC September / dalam beberapa pekan mendatang",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "rupiah-diprediksi-melemah-imbas-panasnya-as-iran",
+    "judul": "Rupiah Diprediksi Melemah Imbas Panasnya AS-Iran",
+    "tanggal": "2 Oktober 2026",
+    "alasan": "Artikel 2 Oktober 2026 menunjukkan konflik AS-Iran di Hormuz justru memanas (bukan berhenti) dan harga minyak naik, sehingga rupiah diperkirakan terus melemah—persis arah tekanan berlanjut yang diklaim, tanpa bukti syarat pengecualian (inflasi AS ke target atau Hormuz mereda) terpenuhi."
+   }
   },
   {
    "id": "2026-08-28-3",

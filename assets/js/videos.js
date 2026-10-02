@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "8Vs5KoAFmVc",
+  "title": "Bahlil Lahadalia Genjot Hilirisasi Nasional usai Dilantik",
+  "category": "Industri",
+  "program": "Kabar Siang",
+  "summary": "Bahlil Lahadalia dilantik Presiden Prabowo Subianto sebagai Menteri Koordinator Bidang Hilirisasi dan Transisi Energi, dan menegaskan percepatan program hilirisasi akan segera dijalankan.",
+  "takeaway": "Arah kebijakan hilirisasi menentukan peta investasi sumber daya alam dan industri pengolahan dalam negeri ke depan.",
+  "terbit": "2026-10-02T06:10:25+00:00"
+ },
+ {
   "id": "GPIuDVxG0p8",
   "title": "Mahasiswa UGM dan Dirut Agrinas Berdebat Soal Program Kopdes",
   "category": "UMKM",

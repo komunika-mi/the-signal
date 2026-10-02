@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupiah-diprediksi-melemah-imbas-panasnya-as-iran",
+  "category": "Moneter",
+  "title": "Rupiah Diprediksi [Melemah] Imbas Panasnya AS-Iran",
+  "deck": "Analis Bank Woori Saudara memperkirakan rupiah melemah ke kisaran Rp17.950-Rp18.050 per dolar AS akibat memanasnya hubungan AS-Iran yang mengerek harga minyak dunia.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/rupiah-diprediksi-melemah-imbas-panasnya-as-iran.jpg",
+  "imageV": "muqmlis5",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "Iran",
+   "Amerika Serikat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470775-bicara-soal-rupiah-analis-bank-prediksi-bisa-melemah-selama-hubungan-as-dan-iran-tak-harmonis"
+ },
+ {
   "slug": "dooh-tender-wajib-sii-rp148-saham-periode-5-okt-3-nov",
   "category": "Aksi Korporasi",
   "title": "DOOH: [Tender Wajib] SII Rp148/Saham, Periode 5 Okt-3 Nov",
@@ -6479,22 +6496,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-2481-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smar-siapkan-rp958-miliar-untuk-pelunasan-obligasi-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "SMAR Siapkan Rp958 Miliar untuk [Pelunasan] Obligasi Jatuh Tempo",
-  "deck": "SMART menyatakan telah menyiapkan dana Rp958 miliar untuk melunasi pokok Obligasi Berkelanjutan III Tahap II Seri C yang jatuh tempo 19 Oktober 2026.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMAR",
-   "obligasi korporasi",
-   "pelunasan utang",
-   "likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0baf0398d7_9a5850854a.pdf",
   "sourceLabel": "IDX"
  }
 ];

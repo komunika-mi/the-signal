@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupiah-diprediksi-melemah-imbas-panasnya-as-iran",
+  "category": "Moneter",
+  "title": "Rupiah Diprediksi [Melemah] Imbas Panasnya AS-Iran",
+  "deck": "Analis Bank Woori Saudara memperkirakan rupiah melemah ke kisaran Rp17.950-Rp18.050 per dolar AS akibat memanasnya hubungan AS-Iran yang mengerek harga minyak dunia.",
+  "image": "assets/img/rupiah-diprediksi-melemah-imbas-panasnya-as-iran.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T13:06:21+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470775-bicara-soal-rupiah-analis-bank-prediksi-bisa-melemah-selama-hubungan-as-dan-iran-tak-harmonis",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "Iran",
+   "Amerika Serikat"
+  ],
+  "body": [
+   "Nilai tukar rupiah diperkirakan melemah terhadap dolar AS pada hari ini, dengan kisaran pergerakan Rp17.950 sampai Rp18.050 per dolar. Analis Bank Woori Saudara, Rully Nova, menyebut pelemahan ini didorong oleh memanasnya hubungan Amerika Serikat dan Iran yang membuat harga minyak dunia naik. Pada perdagangan pagi, rupiah tercatat berada di angka Rp17.955 per dolar AS. Pelemahan rupiah ini penting bagi masyarakat karena bisa membuat harga barang impor dan bahan bakar ikut lebih mahal.",
+   "Ketegangan AS dan Iran kembali memuncak setelah Washington menjatuhkan sanksi baru terhadap sektor perkeretaapian dan otomotif Iran, serta jaringan perbankan bayangan yang diduga terkait dengan Rusia. Di sisi lain, pemerintah Iran menyatakan bersedia membuka kembali Selat Hormuz, jalur pelayaran yang dilalui sebagian besar ekspor minyak dunia, dengan syarat AS memberi jaminan objektif untuk mengakhiri perselisihan. Tawaran ini sejalan dengan inisiatif diplomatik tujuh hari yang sebelumnya diajukan Teheran.",
+   "Rully juga menyebut sentimen lain yang ikut memengaruhi rupiah adalah potensi perubahan dalam kabinet pemerintah Iran, khususnya yang mengurus energi dan komoditas, karena hal ini bisa berdampak pada neraca perdagangan. Di tengah situasi ini, Presiden Iran Masoud Pezeshkian menegaskan negaranya sudah tidak lagi percaya kepada Amerika Serikat, seiring serangan dan sanksi yang terus dilancarkan Washington terhadap Teheran."
+  ],
+  "fotoAdegan": "A large oil tanker docked at an Indonesian port terminal, cranes and pipelines in the background, hazy afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/04/6a21aa6439946-mata-uang-rupiah-dan-dolar-as_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan intinya ada di sentimen pasar, bukan kebijakan dalam negeri: rupiah diperkirakan melemah ke kisaran Rp17.950 sampai Rp18.050 per dolar AS karena harga minyak dunia naik, dipicu sanksi baru AS terhadap sektor kereta api, otomotif, dan jaringan perbankan Iran yang diduga terkait Rusia. Yang langsung terkena dampak adalah pelaku usaha dan importir yang bergantung pada bahan baku atau barang dari luar negeri, sebab rupiah yang lebih lemah membuat biaya dalam dolar jadi lebih mahal bagi mereka. Bukti saat ini terbelah dua arah, pernyataan Presiden Iran yang menyebut sudah tidak percaya AS serta sanksi yang terus bertambah menunjukkan ketegangan mengeras, sementara tawaran Iran membuka kembali Selat Hormuz asal AS memberi jaminan objektif menunjukkan masih ada celah diplomasi lewat inisiatif tujuh hari yang diajukan Teheran. Karena sanksi baru saja dijatuhkan dan belum ada tanggapan resmi AS atas tawaran itu, skenario ketegangan berlanjut tampak lebih mungkin dalam waktu dekat, dan yang akan memastikan arah mana yang benar adalah respons AS terhadap inisiatif diplomatik tujuh hari itu serta apakah Selat Hormuz benar dibuka kembali.",
+  "imageV": "muqmlis5"
+ },
+ {
   "slug": "dooh-tender-wajib-sii-rp148-saham-periode-5-okt-3-nov",
   "category": "Aksi Korporasi",
   "title": "DOOH: [Tender Wajib] SII Rp148/Saham, Periode 5 Okt-3 Nov",

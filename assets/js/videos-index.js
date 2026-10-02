@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "8Vs5KoAFmVc",
+  "title": "Bahlil Lahadalia Genjot Hilirisasi Nasional usai Dilantik",
+  "category": "Industri",
+  "program": "Kabar Siang",
+  "summary": "Bahlil Lahadalia dilantik Presiden Prabowo Subianto sebagai Menteri Koordinator Bidang Hilirisasi dan Transisi Energi, dan menegaskan percepatan program hilirisasi akan segera dijalankan.",
+  "takeaway": "Arah kebijakan hilirisasi menentukan peta investasi sumber daya alam dan industri pengolahan dalam negeri ke depan."
+ },
+ {
   "id": "GPIuDVxG0p8",
   "title": "Mahasiswa UGM dan Dirut Agrinas Berdebat Soal Program Kopdes",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Menteri Keuangan Suahasil Nazara memaparkan realisasi APBN Agustus 2026 yang mencatat defisit Rp240,1 triliun melalui program APBNKita.",
   "takeaway": "Angka defisit APBN menjadi indikator penting kesehatan fiskal pemerintah dan acuan bagi pelaku pasar dalam menilai arah kebijakan anggaran ke depan."
- },
- {
-  "id": "Add-wORF9vQ",
-  "title": "Groundbreaking PSEL dan PSE Pirolisis di Galuga Bogor",
-  "category": "Energi",
-  "program": "Kabar Hari Ini",
-  "summary": "Pemerintah memulai pembangunan pembangkit listrik dari sampah (PSEL) dan instalasi PSE pirolisis di kawasan TPA Galuga, Bogor, yang ditargetkan mulai beroperasi pada 2027.",
-  "takeaway": "Proyek ini menandai investasi infrastruktur energi berbasis sampah yang berpotensi menambah kapasitas energi terbarukan nasional."
  }
 ];

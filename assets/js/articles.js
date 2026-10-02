@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kkp-kemendag-buka-akses-ekspor-umkm-perikanan",
+  "category": "UMKM",
+  "title": "KKP-Kemendag Buka Akses [Ekspor] UMKM Perikanan",
+  "deck": "KKP dan Kemendag kerja sama agar produk perikanan UMKM dan desa bersertifikat mutu bisa masuk platform ekspor nasional InaExport untuk menjangkau pembeli luar negeri.",
+  "image": "assets/img/kkp-kemendag-buka-akses-ekspor-umkm-perikanan.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T00:50:47.042Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/produk-perikanan-umkm-masuk-inaexport-kkp-kemendag-buka-akses-pasar-global-OP4L.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Perikanan",
+   "KKP"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) dan Kementerian Perdagangan (Kemendag) menjalin kerja sama agar produk perikanan dari Usaha Mikro, Kecil, dan Menengah (UMKM) serta desa bisa masuk ke InaExport, platform resmi yang menjadi pintu ekspor nasional. Lewat kerja sama ini, pelaku usaha kecil yang produknya sudah lolos sertifikasi mutu dari KKP berpeluang terhubung langsung dengan pembeli di luar negeri, akses yang selama ini sulit digapai sendiri karena keterbatasan jaringan dan informasi pasar ekspor.",
+   "Kerja sama ini diteken antara Badan Pengendalian dan Pengawasan Mutu Hasil Kelautan dan Perikanan (Badan Mutu) KKP dan Direktorat Jenderal Pengembangan Ekspor Nasional Kemendag. Cakupannya meliputi pertukaran data dan informasi ekspor, pemanfaatan sistem layanan informasi ekspor, peningkatan kapasitas pelaku usaha berorientasi ekspor, program promosi dagang, serta pengembangan ekspor berbasis wilayah.",
+   "Bagi UMKM yang produknya sudah terverifikasi, InaExport menyediakan sejumlah layanan konkret: asesmen dan validasi status eksportir, informasi tarif dan persyaratan, sertifikasi dan regulasi, akses pasar, hingga kalkulator ekspor untuk menghitung biaya ke berbagai negara tujuan. Platform ini juga mempertemukan permintaan pembeli dengan eksportir, lengkap dengan kemungkinan pemantauan tindak lanjutnya.",
+   "Menurut Plt. Kepala Badan Mutu KKP, Ishartini, kerja sama ini membuka peluang bagi UMKM dan desa yang produknya sudah memenuhi standar global untuk memperluas pasar dan dilirik pembeli asing lewat platform berskala nasional tersebut."
+  ],
+  "fotoAdegan": "Workers packing fresh fish into export crates with ice at a small coastal processing facility, early morning light",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/produk-perikanan-umkm-masuk-inaexport-kkp-kemendag-buka-akses-pasar-global-OP4L.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah di sini adalah dibukanya jalur, bukan dipastikannya hasil. KKP dan Kemendag menyediakan akses bagi UMKM perikanan bersertifikat untuk masuk ke sistem InaExport, lengkap dengan layanan info tarif, sertifikasi, dan pencocokan pembeli, tapi siaran pers ini tidak menyebut berapa banyak UMKM yang sudah mengantongi sertifikasi KKP, berapa yang ditargetkan masuk InaExport, atau kapan layanan ini efektif berjalan. Pihak yang kena dampak jelas yaitu UMKM dan desa produsen perikanan, tapi besar kecilnya manfaat baru bisa dinilai lewat angka realisasi. Yang perlu ditunggu adalah data lanjutan soal berapa UMKM perikanan yang benar-benar terdaftar di InaExport dan berapa yang berhasil mendapat transaksi ekspor dalam beberapa bulan mendatang.",
+  "imageV": "muq91pdd"
+ },
+ {
   "slug": "ppn-transaksi-digital-luar-negeri-kini-dipungut-lewat-bank",
   "category": "Makroekonomi",
   "title": "PPN Transaksi Digital Luar Negeri Kini [Dipungut] Lewat Bank",

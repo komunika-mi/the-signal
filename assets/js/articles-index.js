@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-kemendag-buka-akses-ekspor-umkm-perikanan",
+  "category": "UMKM",
+  "title": "KKP-Kemendag Buka Akses [Ekspor] UMKM Perikanan",
+  "deck": "KKP dan Kemendag kerja sama agar produk perikanan UMKM dan desa bersertifikat mutu bisa masuk platform ekspor nasional InaExport untuk menjangkau pembeli luar negeri.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/kkp-kemendag-buka-akses-ekspor-umkm-perikanan.jpg",
+  "imageV": "muq91pdd",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Perikanan",
+   "KKP"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/produk-perikanan-umkm-masuk-inaexport-kkp-kemendag-buka-akses-pasar-global-OP4L.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
   "slug": "ppn-transaksi-digital-luar-negeri-kini-dipungut-lewat-bank",
   "category": "Makroekonomi",
   "title": "PPN Transaksi Digital Luar Negeri Kini [Dipungut] Lewat Bank",
@@ -6480,22 +6498,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/81d7e2a65a_d75d2a9ed5.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-mandiri-dan-visa-dukung-hybrid-race-jakarta-2026",
-  "category": "Perbankan",
-  "title": "Bank Mandiri dan Visa Dukung [Hybrid Race] Jakarta 2026",
-  "deck": "Bank Mandiri dan Visa mendukung ajang lari-latihan kekuatan Hybrid Race 2026 yang digelar 20FIT pada 7-8 November di Jakarta Pusat, menyasar 1.435 peserta.",
-  "date": "25 September 2026",
-  "image": "assets/img/bank-mandiri-dan-visa-dukung-hybrid-race-jakarta-2026.jpg",
-  "imageV": "mugwfna3",
-  "tags": [
-   "bank mandiri",
-   "livin by mandiri",
-   "visa",
-   "hybrid race"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469341-delapan-stasiun-workout-menanti-bank-mandiri-dukung-livin-by-mandiri-visa-jakarta-hybrid-race-2026"
  }
 ];

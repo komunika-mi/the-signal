@@ -29,6 +29,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "pertamina-perluas-akses-pasar-umkm-binaan-di-daerah",
+  "category": "UMKM",
+  "title": "Pertamina Perluas Akses Pasar [UMKM] Binaan di Daerah",
+  "deck": "Pertamina Patra Niaga membuka akses pasar lebih luas bagi UMKM binaan lewat ajang Pertamina SMEXPO, dicontohkan lewat kisah Difa Kreasi dari Dumai.",
+  "image": "assets/img/pertamina-perluas-akses-pasar-umkm-binaan-di-daerah.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T20:06:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470839-dorong-daya-saing-umkm-pertamina-patra-niaga-buka-akses-pasar-pelaku-usaha-daerah",
+  "tags": [
+   "pertamina",
+   "umkm",
+   "usaha",
+   "pertamina patra niaga"
+  ],
+  "body": [
+   "PT Pertamina Patra Niaga kembali menegaskan komitmennya mendampingi usaha mikro, kecil, dan menengah lewat pendampingan terstruktur dan pembukaan akses pasar yang lebih luas. Lewat ajang Pertamina SMEXPO, perusahaan memberi ruang bagi UMKM binaannya untuk memperkenalkan produk, menjajaki pasar baru, dan membangun jejaring usaha. VP Corporate Communication Pertamina Patra Niaga Kitty Andhora menyebut langkah ini sebagai bagian dari upaya memperkuat kapasitas dan daya saing pelaku usaha lokal.",
+   "Salah satu contoh yang diangkat adalah Difa Kreasi, kelompok usaha anyaman lidi yang dibina Pertamina Patra Niaga Kilang Dumai sejak 2020. Usaha ini dirintis oleh Siti Rohani, yang sebelumnya bekerja sebagai buruh harian angkut kelapa sawit bersama suaminya, pekerjaan yang membuat pendapatannya tidak menentu. Titik baliknya datang setelah ia mendapat pelatihan teknik menganyam lidi dari penyuluh lapangan di Kecamatan Sungai Sembilan, Dumai, lalu dibina lebih jauh oleh Pertamina lewat program Pertamina UMK Academy, mulai dari pengelolaan keuangan usaha, strategi pemasaran, hingga pemanfaatan media sosial.",
+   "Hasil pembinaan itu kini terlihat dari jangkauan pasar Difa Kreasi yang tidak lagi terbatas di Dumai, melainkan sudah menjual produknya ke pembeli di Medan dan Jambi. Bagi Siti, keikutsertaannya di Pertamina SMEXPO bukan sekadar soal berjualan, melainkan juga jadi ruang berbagi pengalaman dan penyemangat kemandirian bagi pelaku usaha perempuan lain."
+  ],
+  "fotoAdegan": "A woman's hands weaving dried palm frond strands into baskets at a simple outdoor worktable, warm natural daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/02/6abfabc23fe5b-umkm-binaan-pt-pertamina-patra-niaga_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah di sini adalah akses pasar: lewat Pertamina SMEXPO dan pembinaan Pertamina UMK Academy, satu kelompok usaha anyaman lidi binaan sejak 2020 kini bisa menjual produknya sampai ke Medan dan Jambi, bukan hanya di Dumai. Yang terdampak langsung adalah UMKM binaan Pertamina Patra Niaga di sekitar Kilang Dumai, termasuk pelaku usaha perempuan seperti Siti Rohani yang sebelumnya mengandalkan kerja buruh harian. Berita ini belum menyebut berapa total UMKM yang ikut program serupa, berapa besar dana atau nilai transaksi yang dihasilkan dari SMEXPO, atau apakah pembinaan semacam ini akan diperluas ke daerah lain. Tanpa angka skala itu, belum bisa dibaca apakah ini bagian dari program tahunan yang terus membesar atau sekadar satu kisah sukses untuk keperluan komunikasi perusahaan, jadi yang perlu dipantau adalah data jumlah UMKM binaan dan nilai transaksi pada gelaran SMEXPO berikutnya.",
+  "imageV": "mur13021"
+ },
+ {
   "slug": "argo-jelaskan-ke-bei-rugi-kurs-melonjak-obligasi-mangkrak",
   "category": "Aksi Korporasi",
   "title": "ARGO Jelaskan ke BEI: Rugi Kurs Melonjak, Obligasi [Mangkrak]",

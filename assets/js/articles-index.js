@@ -21,6 +21,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pertamina-perluas-akses-pasar-umkm-binaan-di-daerah",
+  "category": "UMKM",
+  "title": "Pertamina Perluas Akses Pasar [UMKM] Binaan di Daerah",
+  "deck": "Pertamina Patra Niaga membuka akses pasar lebih luas bagi UMKM binaan lewat ajang Pertamina SMEXPO, dicontohkan lewat kisah Difa Kreasi dari Dumai.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/pertamina-perluas-akses-pasar-umkm-binaan-di-daerah.jpg",
+  "imageV": "mur13021",
+  "tags": [
+   "pertamina",
+   "umkm",
+   "usaha",
+   "pertamina patra niaga"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470839-dorong-daya-saing-umkm-pertamina-patra-niaga-buka-akses-pasar-pelaku-usaha-daerah"
+ },
+ {
   "slug": "argo-jelaskan-ke-bei-rugi-kurs-melonjak-obligasi-mangkrak",
   "category": "Aksi Korporasi",
   "title": "ARGO Jelaskan ke BEI: Rugi Kurs Melonjak, Obligasi [Mangkrak]",
@@ -6486,22 +6503,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7ce3af25f4_98be93c7ee.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aspi-gelar-public-expose-insidentil-usai-diminta-bursa",
-  "category": "Aksi Korporasi",
-  "title": "ASPI Gelar Public Expose [Insidentil] usai Diminta Bursa",
-  "deck": "Bursa Efek Indonesia meminta PT Andalan Sakti Primaindo Tbk menggelar paparan publik insidentil pada 29 September 2026 untuk menjelaskan kinerja dan pergerakan harga sahamnya.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASPI",
-   "Public Expose",
-   "Bursa Efek Indonesia",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2c73ba4b16_eb08e2ac44.pdf",
   "sourceLabel": "IDX"
  }
 ];

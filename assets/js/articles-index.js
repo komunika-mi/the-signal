@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "link-gelar-rupslb-pergantian-direksi-komisaris-26-okt",
+  "category": "Aksi Korporasi",
+  "title": "LINK Gelar RUPSLB [Pergantian] Direksi-Komisaris 26 Okt",
+  "deck": "Link Net mengundang pemegang saham ke RUPSLB 26 Oktober 2026 untuk menyetujui perubahan susunan Direksi dan Komisaris, menyusul mundurnya dua pejabat pekan ini.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LINK",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2eb96e7f31_85059942cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tldn-koreksi-jadwal-dividen-interim-rp20-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "TLDN [Koreksi] Jadwal Dividen Interim Rp20 per Saham",
+  "deck": "Teladan Prima Agro mengoreksi jadwal dividen interim tunai Rp20 per saham senilai total Rp258,9 miliar, dengan recording date 14 Oktober dan pembayaran 22 Oktober 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLDN",
+   "dividen interim",
+   "Teladan Prima Agro",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21c55032ac_c31fafd0ab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bswd-dapat-peringkat-a-idn-dari-fitch-outlook-positif",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Dapat Peringkat [A+(idn)] dari Fitch, Outlook Positif",
+  "deck": "Fitch Ratings Indonesia menetapkan peringkat nasional jangka panjang Bank of India Indonesia di A+(idn) dengan outlook positif, dilaporkan ke OJK dan BEI pada 2 Oktober 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSWD",
+   "Fitch Ratings",
+   "peringkat kredit",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5cde56965c_4d9bf8f286.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smar-tegaskan-tak-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Tegaskan Tak Ada [Informasi Material] di Balik Volatilitas Saham",
+  "deck": "Merespons permintaan penjelasan dari BEI, SMAR menyatakan tidak ada aksi korporasi atau informasi material yang memicu volatilitas transaksi sahamnya.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMAR",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1458182401_8c5cab6eb8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-bantah-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Bantah Ada Informasi Material di Balik [Volatilitas] Saham",
+  "deck": "Menjawab surat Bursa soal pergerakan harga sahamnya yang tidak wajar, Arkora Hydro menyatakan tidak ada informasi material tersembunyi maupun rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/834d08e9a7_78e375ff44.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wmuu-pastikan-rights-issue-lanjut-respons-permintaan-bei",
+  "category": "Aksi Korporasi",
+  "title": "WMUU pastikan [rights issue] lanjut, respons permintaan BEI",
+  "deck": "WMUU menjawab permintaan BEI soal volatilitas sahamnya, memastikan rencana rights issue berjalan dan pemegang saham pengendali tak berencana melepas saham.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WMUU",
+   "rights issue",
+   "volatilitas saham",
+   "Widodo Makmur Unggas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4afa42a4de_91166b8ca7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-buka-suspensi-edge-untuk-crossing-saham-go-private",
+  "category": "Aksi Korporasi",
+  "title": "BEI Buka Suspensi EDGE untuk Crossing Saham [Go Private]",
+  "deck": "BEI mencabut sementara suspensi saham EDGE khusus di pasar negosiasi, Jumat 2 Oktober 2026, untuk transaksi crossing saham hasil buyback dalam proses go private dan delisting Indointernet.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "go private",
+   "delisting",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb61a52a9b_16ebc200e4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupiah-diprediksi-melemah-imbas-panasnya-as-iran",
   "category": "Moneter",
   "title": "Rupiah Diprediksi [Melemah] Imbas Panasnya AS-Iran",
@@ -6384,118 +6496,6 @@ var ARTICLES = [
    "penambahan modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83a1e99223_ff527c00f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sraj-catatkan-tambahan-modal-disetor-rp23-1-m-ke-anak-usaha-sas",
-  "category": "Aksi Korporasi",
-  "title": "SRAJ Catatkan Tambahan Modal Disetor Rp23,1 M ke Anak Usaha [SAS]",
-  "deck": "SRAJ mencatatkan setoran modal dimuka Rp23,1 miliar sebagai modal disetor resmi di anak usaha PT Sejahtera Abadi Solusi, memperkuat struktur permodalan unit rumah sakit itu.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRAJ",
-   "transaksi afiliasi",
-   "Mayapada Hospital",
-   "rumah sakit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ddeeb4d303_d96cec8c7b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbma-laba-melonjak-utang-naik-27-9-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "MBMA Laba Melonjak, [Utang] Naik 27,9% Semester I 2026",
-  "deck": "Pendapatan MBMA naik ke US$1,05 miliar dan laba bersih melonjak ke US$149,4 juta pada semester I 2026, sementara utang naik 27,9 persen menjadi US$1,77 miliar.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBMA",
-   "laporan keuangan interim",
-   "utang korporasi",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925172135-64391-0/FinancialStatement-2026-II-MBMA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sraj-suntik-modal-rp21-7-m-ke-anak-usaha-aik",
-  "category": "Aksi Korporasi",
-  "title": "SRAJ [Suntik] Modal Rp21,7 M ke Anak Usaha AIK",
-  "deck": "SRAJ menambah modal ditempatkan dan disetor anak usahanya, PT Anugrah Inti Karya, sebesar Rp21,7 miliar, setara 1,99 persen dari ekuitas perusahaan per Juni 2026.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRAJ",
-   "transaksi afiliasi",
-   "penambahan modal",
-   "Anugrah Inti Karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5fbcb3a451_d8c86130b4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sraj-setor-modal-rp178-9-m-ke-kks-terbesar-dalam-sepekan",
-  "category": "Aksi Korporasi",
-  "title": "SRAJ Setor Modal Rp178,9 M ke [KKS], Terbesar dalam Sepekan",
-  "deck": "SRAJ menambah modal disetor Rp178,95 miliar ke anak usaha KKS, setara 16,4 persen ekuitas Perseroan, transaksi afiliasi terbesar dalam rangkaian laporan sepekan terakhir.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRAJ",
-   "transaksi afiliasi",
-   "rumah sakit",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d340fa5331_0fa3fb7f03.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sraj-suntik-modal-rp3-93-m-ke-aib-terkecil-sepekan",
-  "category": "Aksi Korporasi",
-  "title": "SRAJ [Suntik] Modal Rp3,93 M ke AIB, Terkecil Sepekan",
-  "deck": "SRAJ menambah modal disetor anak usaha rumah sakit AIB sebesar Rp3,93 miliar, laporan kelima pekan ini soal setoran modal ke unit usaha.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRAJ",
-   "transaksi afiliasi",
-   "rumah sakit",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/314c7a337e_b6de2dae8c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ultj-rinci-jadwal-pmhmetd-kendali-beralih-ke-frieslandcampina",
-  "category": "Aksi Korporasi",
-  "title": "ULTJ Rinci Jadwal [PMHMETD], Kendali Beralih ke FrieslandCampina",
-  "deck": "ULTJ merinci jadwal rights issue dan mekanisme pengalihan kendali ke FrieslandCampina, termasuk jadwal RUPSLB, tender wajib, dan status pemilik manfaat akhir baru.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "PMHMETD",
-   "FrieslandCampina",
-   "tender wajib"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1146f1685_02522fab12.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-asing-borong-saham-lagi-rp1-58-miliar",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi Asing [Borong] Saham Lagi Rp1,58 Miliar",
-  "deck": "Direktur ITSEC Asia, Patrick Rudolf Dannacher, menambah 3,07 juta saham senilai sekitar Rp1,58 miliar dalam empat hari, menaikkan hak suaranya jadi 0,743 persen.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-2481-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

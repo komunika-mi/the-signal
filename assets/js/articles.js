@@ -3,6 +3,188 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "link-gelar-rupslb-pergantian-direksi-komisaris-26-okt",
+  "category": "Aksi Korporasi",
+  "title": "LINK Gelar RUPSLB [Pergantian] Direksi-Komisaris 26 Okt",
+  "deck": "Link Net mengundang pemegang saham ke RUPSLB 26 Oktober 2026 untuk menyetujui perubahan susunan Direksi dan Komisaris, menyusul mundurnya dua pejabat pekan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T15:49:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2eb96e7f31_85059942cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LINK",
+  "tags": [
+   "LINK",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris"
+  ],
+  "body": [
+   "PT Link Net Tbk (LINK) resmi memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 26 Oktober 2026, pukul 10.00 sampai 11.00 WIB di The Westin Jakarta. Satu-satunya agenda rapat adalah persetujuan atas perubahan susunan anggota Dewan Komisaris dan/atau Direksi Perseroan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan atau rekening efeknya terdaftar di KSEI per penutupan perdagangan di Bursa Efek Indonesia pada Kamis, 1 Oktober 2026 pukul 16.00 WIB.",
+   "Pemanggilan ini menyusul dua pengunduran diri yang diumumkan Link Net pekan ini, yaitu Presiden Komisaris Vivek Sood dan Direktur Yosafat Hutagalung, yang keduanya mundur tanpa disertai alasan spesifik atau indikasi sengketa. RUPSLB ini menjadi forum resmi bagi pemegang saham untuk menyetujui penataan susunan direksi dan komisaris menyusul kekosongan tersebut, meski dokumen pemanggilan tidak menyebutkan nama calon pengganti.",
+   "Perseroan menyediakan mekanisme kehadiran fisik maupun elektronik melalui Fasilitas eASY.KSEI dari PT Kustodian Sentral Efek Indonesia. Pemegang saham yang memilih hadir elektronik atau memberi kuasa elektronik harus mendeklarasikan kehadirannya paling lambat pukul 12.00 WIB, satu hari kerja sebelum rapat, sementara kuasa konvensional harus diserahkan ke kantor Perseroan di Centennial Tower, Jakarta Selatan, paling lambat tiga hari kerja sebelum rapat pukul 16.00 WIB. Perseroan juga membatasi jumlah peserta yang dapat hadir fisik di lokasi karena kapasitas ruangan terbatas, dan tidak menyediakan konsumsi maupun cenderamata pada hari rapat."
+  ],
+  "fotoAdegan": "Empty modern hotel ballroom set up with rows of chairs before a formal meeting, soft morning light through tall windows",
+  "takeaway": "Pemanggilan RUPSLB ini netral bagi fundamental Link Net, karena isinya murni prosedural, yaitu memproses secara resmi pergantian direksi dan komisaris yang sebelumnya sudah diumumkan, tanpa ada nama pengganti atau dampak keuangan baru yang diungkap. Perubahan susunan direksi dan komisaris memang dipantau pelaku pasar karena menyangkut tata kelola dan arah strategi perusahaan, meski secara langsung belum menyentuh pos-pos keuangan seperti ekuitas, arus kas, atau laba per saham. Yang perlu dicermati selanjutnya adalah hasil RUPSLB pada 26 Oktober 2026, terutama siapa yang akan ditetapkan menggantikan Presiden Komisaris Vivek Sood dan Direktur Yosafat Hutagalung yang telah mengundurkan diri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tldn-koreksi-jadwal-dividen-interim-rp20-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "TLDN [Koreksi] Jadwal Dividen Interim Rp20 per Saham",
+  "deck": "Teladan Prima Agro mengoreksi jadwal dividen interim tunai Rp20 per saham senilai total Rp258,9 miliar, dengan recording date 14 Oktober dan pembayaran 22 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T15:41:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21c55032ac_c31fafd0ab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLDN",
+  "tags": [
+   "TLDN",
+   "dividen interim",
+   "Teladan Prima Agro",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Teladan Prima Agro Tbk (TLDN) mengoreksi surat keterbukaan informasi sebelumnya (No. 123/TPA-Dir/X/2026) yang terbit pada hari yang sama, soal rencana pembagian dividen interim tahun buku 2026. Berdasarkan keputusan Direksi yang ditandatangani Direktur Utama Wishnu Wardhana dan disetujui Dewan Komisaris melalui surat sirkuler yang diteken Komisaris Utama Indracahya Basuki serta Komisaris Independen Iwa Kartiwa Hudaya pada 1 Oktober 2026, perseroan menetapkan dividen interim tunai sebesar Rp20 per saham, dengan total nilai Rp258.930.604.000. Surat koreksi ini disampaikan oleh Corporate Secretary Arya Wibisana pada 2 Oktober 2026.",
+   "Jadwal pembagian dividen mencantumkan tanggal cum dividen di pasar reguler dan negosiasi pada 12 Oktober 2026, dengan ex dividen mulai 13 Oktober 2026. Untuk pasar tunai, cum dividen jatuh pada 14 Oktober 2026 dan ex dividen pada 15 Oktober 2026. Tanggal pencatatan pemegang saham yang berhak atas dividen (recording date) ditetapkan 14 Oktober 2026 pukul 16.00 WIB, dan pembayaran dividen dijadwalkan pada 22 Oktober 2026 melalui mekanisme pemindahbukuan PT Kustodian Sentral Efek Indonesia (KSEI) bagi saham dalam penitipan kolektif, atau transfer langsung bagi pemegang saham di luar KSEI.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 Juni 2026, dengan laba bersih yang diatribusikan ke entitas induk sebesar Rp543.646.363.933, saldo laba ditahan yang tidak dibatasi penggunaannya sebesar Rp2.247.086.378.629, dan total ekuitas Rp3.691.646.963.006. Perseroan juga menjelaskan bahwa dividen interim ini dikecualikan dari objek pajak bila diterima wajib pajak badan dalam negeri, sementara wajib pajak luar negeri tanpa dokumen Surat Keterangan Domisili akan dikenakan PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fruit bunches at a plantation, tropical morning light, loaded wheelbarrows nearby",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi pemegang saham TLDN, karena menunjukkan perusahaan punya kas yang cukup kuat untuk membayar tunai sekaligus masih menyisakan saldo laba ditahan sekitar Rp1,99 triliun setelah dipotong dividen. Pos yang tersentuh adalah ekuitas, yaitu total modal pemegang saham di neraca, yang akan berkurang sekitar Rp258,9 miliar begitu dividen dibayarkan, serta arus kas, yaitu aliran uang masuk dan keluar perusahaan, yang akan mencatat pengeluaran kas sebesar nilai dividen itu pada tanggal pembayaran. Nilai dividen ini setara hampir separuh dari laba bersih enam bulan pertama tahun ini, jadi porsinya tergolong besar dibanding laba periode berjalan meski kecil dibanding ekuitas total perseroan. Yang perlu dipantau selanjutnya adalah batas waktu pencatatan pemegang saham pada 14 Oktober 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran pada 22 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bswd-dapat-peringkat-a-idn-dari-fitch-outlook-positif",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Dapat Peringkat [A+(idn)] dari Fitch, Outlook Positif",
+  "deck": "Fitch Ratings Indonesia menetapkan peringkat nasional jangka panjang Bank of India Indonesia di A+(idn) dengan outlook positif, dilaporkan ke OJK dan BEI pada 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T15:16:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5cde56965c_4d9bf8f286.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSWD",
+  "tags": [
+   "BSWD",
+   "Fitch Ratings",
+   "peringkat kredit",
+   "perbankan"
+  ],
+  "body": [
+   "PT Fitch Ratings Indonesia menetapkan Peringkat Nasional Jangka Panjang Bank of India Indonesia Tbk (BSWD) di level A+(idn) dengan outlook positif. Penetapan ini tertuang dalam surat Fitch No. 192/DIR/RATLTR/X/2026 tertanggal 1 Oktober 2026, yang diterima Corporate Secretary perseroan, Carolina Dina Rusdiana, pada 2 Oktober 2026. Pada hari yang sama, manajemen BSWD meneruskannya sebagai laporan fakta material kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia.",
+   "Dalam suratnya, Fitch menjelaskan bahwa peringkat nasional kategori 'A' menunjukkan ekspektasi risiko gagal bayar yang rendah dibandingkan emiten atau obligasi lain di Indonesia. Fitch juga menegaskan bahwa peringkat ini bukan rekomendasi untuk membeli, menjual, atau menahan efek apa pun, melainkan semata penilaian atas kualitas kredit perseroan. Dalam kolom dampak kejadian, manajemen BSWD menyatakan penetapan peringkat ini tidak membawa dampak langsung terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ke bursa ditandatangani oleh Direktur Operasional sekaligus Sekretaris Perusahaan, Carolina Dina Rusdiana, dan Direktur Kepatuhan, Dennis Kusuma H.",
+   "Surat peringkat dari Fitch ditandatangani oleh Direktur PT Fitch Ratings Indonesia, Olly Prayudi, dan menyebutkan bahwa pihaknya memantau peringkat ini secara berkelanjutan serta akan memperbaharuinya setidaknya sekali dalam setahun. Fitch menyatakan peringkat publik baru berlaku efektif setelah dipublikasikan di situs resminya, dan dapat dinaikkan, diturunkan, atau dicabut sewaktu-waktu bila ada perubahan informasi material."
+  ],
+  "fotoAdegan": "Busy teller counter inside a modern bank branch in Jakarta, customers queuing, soft indoor lighting, documentary style",
+  "takeaway": "Laporan ini condong positif bagi BSWD karena yang berubah bukan sekadar status peringkat, melainkan outlooknya menjadi positif, sinyal bahwa Fitch melihat peluang profil kredit bank membaik ke depan, bukan cuma bertahan di level sekarang. Peringkat kredit seperti ini biasanya memengaruhi biaya dana bank, sebab makin tinggi kepercayaan lembaga pemeringkat, makin besar pula kepercayaan investor dan bank lain untuk memberi pinjaman atau membeli surat utang perseroan dengan bunga yang lebih bersaing. Laporan ini sendiri tidak menyentuh angka ekuitas, laba, atau arus kas karena memang isinya murni hasil pemeringkatan, bukan transaksi korporasi, jadi dampaknya ke laporan keuangan bersifat tidak langsung. Yang perlu dipantau berikutnya adalah evaluasi ulang Fitch setidaknya setahun dari sekarang, atau lebih cepat kalau ada perubahan signifikan pada kinerja BSWD, karena status outlook positif berarti ada ruang bagi peringkat dinaikkan lagi jika tren ini berlanjut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "smar-tegaskan-tak-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Tegaskan Tak Ada [Informasi Material] di Balik Volatilitas Saham",
+  "deck": "Merespons permintaan penjelasan dari BEI, SMAR menyatakan tidak ada aksi korporasi atau informasi material yang memicu volatilitas transaksi sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T15:03:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1458182401_8c5cab6eb8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMAR",
+  "tags": [
+   "SMAR",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Sinar Mas Agro Resources and Technology Tbk (SMAR) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi saham perusahaan. Permintaan itu disampaikan BEI melalui surat nomor S-12635/BEI.PP2/10-2026 tertanggal 1 Oktober 2026, dan dijawab SMART sehari kemudian, 2 Oktober 2026, melalui surat yang ditandatangani Corporate Secretary Jimmy Pramono.",
+   "Dalam jawabannya, SMART menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga efeknya, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perusahaan juga menyatakan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham.",
+   "SMART menambahkan bahwa belum ada rencana aksi korporasi dalam tiga bulan mendatang yang akan berdampak pada status pencatatan sahamnya di bursa, dan tidak ada informasi penting lain yang material namun belum diungkapkan ke publik. Perusahaan juga menegaskan, setelah menanyakan langsung kepada pemegang saham utama, bahwa pemegang saham utama tersebut belum memiliki rencana mengubah kepemilikan sahamnya di SMART."
+  ],
+  "fotoAdegan": "Workers inspecting palm oil fruit bunches on a conveyor at a processing mill, humid tropical morning light, Indonesia.",
+  "takeaway": "Catatan ini netral, karena isinya adalah jawaban standar atas permintaan klarifikasi bursa dan tidak membawa informasi baru yang mengubah kondisi keuangan SMART. Laporan semacam ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar, sebab fungsinya hanya mengonfirmasi bahwa tidak ada aksi korporasi atau pergerakan pemegang saham besar yang disembunyikan dari publik saat harga atau volume sahamnya bergerak tidak biasa. Yang perlu dipantau berikutnya adalah apakah pergerakan harga saham SMAR masih tajam dalam hari-hari setelah surat ini terbit, sebab jika volatilitas berlanjut tanpa ada perubahan fundamental, bursa bisa kembali meminta klarifikasi serupa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-bantah-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Bantah Ada Informasi Material di Balik [Volatilitas] Saham",
+  "deck": "Menjawab surat Bursa soal pergerakan harga sahamnya yang tidak wajar, Arkora Hydro menyatakan tidak ada informasi material tersembunyi maupun rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T14:52:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/834d08e9a7_78e375ff44.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) memberikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-12581/BEI.PP2/09-2026 tertanggal 30 September 2026 perihal volatilitas transaksi efek perseroan. Tanggapan dikirim lewat surat nomor 350/08/CS-AH/X/2026 tertanggal 2 Oktober 2026, ditandatangani Presiden Direktur Aldo Artoko, dan ditujukan kepada Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryanto.",
+   "Dalam suratnya, ARKO menjawab lima poin pertanyaan baku yang biasa diajukan Bursa saat harga saham bergerak di luar kebiasaan. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efeknya sebagaimana diatur POJK 31/2015 dan Peraturan Bursa Nomor I-E. ARKO juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu, termasuk soal penjaminan saham, yang diatur dalam POJK Nomor 4 Tahun 2024. Perseroan menegaskan belum memiliki rencana aksi korporasi dalam waktu dekat yang akan berdampak pada status pencatatan sahamnya di Bursa, setidaknya untuk tiga bulan ke depan, serta tidak ada informasi penting lain yang belum diungkapkan ke publik.",
+   "Jawaban ini muncul di tengah rentetan aksi korporasi ARKO dalam sepekan terakhir, mulai dari perjanjian pembiayaan Rp690,6 miliar dari PT Sarana Multi Infrastruktur untuk anak usahanya Nosu Hydro, rencana penerbitan saham baru lewat skema HMETD, RUPSLB yang menyetujui penambahan modal tersebut, hingga persetujuan transaksi afiliasi 2026. Meski demikian, perseroan menegaskan seluruh kegiatan usaha dan operasionalnya tetap berjalan normal dan berkomitmen memenuhi kewajiban keterbukaan informasi sesuai aturan yang berlaku."
+  ],
+  "fotoAdegan": "Wide shot of a small hydroelectric powerhouse beside a fast flowing river in a forested valley, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi ARKO, karena isinya sebatas bantahan baku dan tidak membawa angka atau fakta baru yang mengubah gambaran keuangan perusahaan. Surat semacam ini terbit karena Bursa mendeteksi harga atau volume saham ARKO bergerak di luar kebiasaan, lalu meminta manajemen mengonfirmasi apakah ada rahasia perusahaan yang belum dibuka ke publik, memberi penjelasan ke publik seperti ini justru jadi standar wajib setiap kali itu terjadi, bukan sinyal soal kinerja ekuitas atau arus kas perseroan. Yang perlu dipantau adalah apakah pergerakan harga saham ARKO mereda dalam beberapa hari ke depan, dan apakah perseroan benar konsisten dengan pernyataannya tidak akan mengumumkan aksi korporasi baru yang memengaruhi pencatatan sahamnya setidaknya hingga awal Januari 2027, mengingat rangkaian aksi korporasi yang justru sedang ramai terjadi di perusahaan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wmuu-pastikan-rights-issue-lanjut-respons-permintaan-bei",
+  "category": "Aksi Korporasi",
+  "title": "WMUU pastikan [rights issue] lanjut, respons permintaan BEI",
+  "deck": "WMUU menjawab permintaan BEI soal volatilitas sahamnya, memastikan rencana rights issue berjalan dan pemegang saham pengendali tak berencana melepas saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T14:47:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4afa42a4de_91166b8ca7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WMUU",
+  "tags": [
+   "WMUU",
+   "rights issue",
+   "volatilitas saham",
+   "Widodo Makmur Unggas"
+  ],
+  "body": [
+   "PT Widodo Makmur Unggas Tbk (WMUU) menyampaikan surat penjelasan bernomor 426/WMU-CS/X/2026 tanggal 2 Oktober 2026, sebagai jawaban atas permintaan Bursa Efek Indonesia melalui surat nomor S-12638/BEI.PP1/10-2026 tanggal 1 Oktober 2026 terkait volatilitas transaksi efek perseroan. Dalam surat yang ditandatangani Direktur Wahyu Andi Susilo itu, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan sebagaimana diatur POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan I-E BEI, dan tidak mengetahui adanya aktivitas tidak biasa dari pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024.",
+   "Poin yang paling konkret dari surat ini ada pada jawaban soal rencana tindakan korporasi dalam tiga bulan ke depan. WMUU mengonfirmasi tengah memproses Penawaran Umum Terbatas dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD), atau biasa disebut rights issue, yang menurut perseroan sudah pernah diumumkan lewat IDXnet, situs web bursa, dan situs web perusahaan sendiri. Perseroan tidak mencantumkan jadwal, harga pelaksanaan, maupun target dana yang ingin dihimpun dari aksi ini dalam surat tersebut.",
+   "Perseroan juga mengonfirmasi hasil komunikasi dengan pemegang saham pengendali, yang menyatakan berencana tetap mempertahankan kepemilikan sahamnya di WMUU serta mendukung rencana PMHMETD dan aksi korporasi lain ke depan. Dengan kata lain, pengendali tidak berniat mengurangi porsi kepemilikannya di tengah proses rights issue yang sedang berjalan."
+  ],
+  "fotoAdegan": "Workers checking rows of poultry houses on a large modern chicken farm in rural Indonesia, early morning light",
+  "takeaway": "Laporan ini netral bagi WMUU karena isinya sebatas konfirmasi rutin menjawab pertanyaan bursa soal volatilitas saham, tanpa ada kabar baru yang mengubah kondisi keuangan perseroan saat ini. Yang perlu diperhatikan investor adalah dampak rights issue terhadap jumlah saham beredar: begitu saham baru diterbitkan lewat PMHMETD, laba perseroan akan dibagi ke lebih banyak lembar saham, sehingga laba per saham berpotensi mengecil kalau pemegang saham lama tidak ikut menyerap jatah barunya. Kepastian bahwa pemegang saham pengendali akan tetap mempertahankan porsinya dan mendukung rights issue mengurangi risiko dia melepas kendali di tengah proses ini. Yang perlu dipantau selanjutnya adalah pengumuman resmi jadwal, harga pelaksanaan, dan target dana PMHMETD, karena surat ini belum mencantumkan tanggal atau nilai pastinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-buka-suspensi-edge-untuk-crossing-saham-go-private",
+  "category": "Aksi Korporasi",
+  "title": "BEI Buka Suspensi EDGE untuk Crossing Saham [Go Private]",
+  "deck": "BEI mencabut sementara suspensi saham EDGE khusus di pasar negosiasi, Jumat 2 Oktober 2026, untuk transaksi crossing saham hasil buyback dalam proses go private dan delisting Indointernet.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T14:00:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb61a52a9b_16ebc200e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "go private",
+   "delisting",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia membuka sementara penghentian perdagangan saham PT Indointernet Tbk (EDGE), khusus di pasar negosiasi, mulai sesi II perdagangan pada Jumat, 2 Oktober 2026 pukul 14.00 WIB. Pembukaan ini untuk memfasilitasi transaksi crossing saham hasil pembelian kembali (buyback) saham perseroan dalam rangka proses go private dan penghapusan pencatatan saham (voluntary delisting) EDGE dari bursa. Transaksi dilaksanakan oleh PT Indo Premier Sekuritas, perusahaan sekuritas yang ditunjuk oleh Indointernet. Selama periode pembukaan ini, BEI menegaskan tidak ada transaksi lain yang diizinkan selain crossing saham dimaksud.",
+   "Setelah transaksi pengalihan saham tersebut selesai, atau paling lambat pukul 14.15 WIB pada sesi yang sama, BEI akan kembali menghentikan sementara perdagangan saham EDGE di seluruh pasar. Pengumuman ini merujuk pada surat permohonan Indointernet nomor 055/Indonet-Corsec/Srt/IX/2026 tanggal 25 September 2026, yang mengaitkan permintaan pembukaan suspensi ini dengan penyelesaian masa penawaran tender sukarela tahap III. Suspensi awal saham EDGE sendiri berlaku sejak 10 Februari 2026, dengan pembukaan sementara serupa untuk keperluan crossing sudah pernah terjadi pada 5 Agustus dan 4 September 2026, menjadikan pengumuman kali ini yang ketiga dalam rangkaian proses yang sama.",
+   "Proses ini melanjutkan tender sukarela yang sebelumnya dilaporkan telah menyerap 4,8 persen saham publik Indointernet per akhir September 2026, sebagai bagian dari rencana pembelian kembali seluruh saham publik EDGE menuju status perusahaan tertutup."
+  ],
+  "fotoAdegan": "A busy Jakarta brokerage trading floor with employees at workstations, computer screens blurred in soft focus, fluorescent office lighting",
+  "takeaway": "Laporan ini netral bagi Indointernet karena isinya murni mekanisme perdagangan, tanpa angka jumlah saham atau nilai transaksi yang bisa dinilai dampaknya terhadap kondisi keuangan perseroan. Pos yang tersentuh adalah jumlah saham beredar, sebab buyback atau pembelian kembali saham ini merupakan bagian dari rencana go private, yaitu upaya manajemen membeli balik seluruh saham publik agar saham EDGE berhenti diperdagangkan di bursa alias delisting. Pelaku pasar mencermati proses ini karena begitu delisting rampung, pemegang saham publik kehilangan akses jual beli saham EDGE lewat bursa dan hanya bisa melepas saham lewat mekanisme yang ditentukan perseroan. Yang perlu dipantau berikutnya adalah apakah transaksi crossing hari ini, Jumat 2 Oktober 2026, benar tuntas sebelum pukul 14.15 WIB, serta pengumuman BEI selanjutnya soal kelanjutan atau penyelesaian akhir proses delisting EDGE.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "rupiah-diprediksi-melemah-imbas-panasnya-as-iran",
   "category": "Moneter",
   "title": "Rupiah Diprediksi [Melemah] Imbas Panasnya AS-Iran",

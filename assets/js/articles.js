@@ -3,6 +3,189 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dooh-tender-wajib-sii-rp148-saham-periode-5-okt-3-nov",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: [Tender Wajib] SII Rp148/Saham, Periode 5 Okt-3 Nov",
+  "deck": "PT Sinergi Internasional Investama menawar 2,62 miliar saham publik DOOH senilai maksimal Rp388,4 miliar menyusul pengambilalihan 51 persen saham dari Prambanan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T12:07:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/34bde0c12e_f5b52c1799.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "tender wajib",
+   "SII",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Sinergi Internasional Investama (SII) resmi menjadi pengendali baru PT Era Media Sejahtera Tbk (DOOH) setelah membeli 3.946.835.000 saham atau 51 persen modal disetor DOOH dari PT Prambanan Investasi Sukses pada 30 Juli 2026, dengan harga Rp50 per saham. Total nilai pembelian itu mencapai Rp197.341.750.000. Karena transaksi ini membuat SII mampu menentukan pengelolaan dan kebijakan DOOH, sesuai Peraturan OJK No. 9/2018 tentang Pengambilalihan Perusahaan Terbuka, SII wajib menawar beli saham sisa milik pemegang saham publik lewat skema penawaran tender wajib.",
+   "Penawaran tender ini menyasar maksimal 2.624.548.624 saham publik, setara 33,91 persen dari total saham DOOH, dengan harga Rp148 per saham. Harga ini diambil dari yang lebih tinggi antara harga pengambilalihan Rp50 dan rata-rata harga tertinggi perdagangan harian saham DOOH di Bursa Efek Indonesia selama 90 hari sebelum pengumuman, yaitu Rp147,40. Jika seluruh pemegang saham publik ikut menjual, total dana yang harus disiapkan SII mencapai Rp388.433.196.352, yang menurut surat pernyataan SII tertanggal 24 September 2026 sudah tersedia dari dana internal perusahaan. Periode penawaran berlangsung 5 Oktober sampai 3 November 2026, dengan pembayaran kepada pemegang saham yang ikut tender dijadwalkan 9 November 2026 melalui perantara PT Yakin Bertumbuh Sekuritas.",
+   "Sebelum transaksi, Prambanan menguasai 66,09 persen saham DOOH atau 5.114.342.412 lembar, sementara masyarakat memegang 33,91 persen atau 2.624.548.624 lembar. Setelah pengambilalihan, komposisi berubah menjadi SII 51 persen (3.946.835.000 saham), Prambanan 15,09 persen (1.167.507.412 saham), dan masyarakat tetap 33,91 persen karena porsi mereka belum ikut tender. Dalam dokumen ini, SII menyatakan tidak berencana melikuidasi DOOH, mengubah kebijakan dividen, atau menghapus pencatatan saham DOOH dari bursa."
+  ],
+  "fotoAdegan": "Workers on a lift installing a large digital billboard screen on a Jakarta building facade, viewed from the street, daytime haze.",
+  "takeaway": "Laporan ini netral bagi fundamental DOOH, karena penawaran tender ini adalah transaksi antar pemegang saham memakai dana milik SII sendiri, bukan dana perusahaan, sehingga tidak langsung mengubah ekuitas, arus kas, atau jumlah saham beredar DOOH. Yang bergeser hanya porsi saham yang dipegang publik di luar pengendali: kalau banyak pemegang saham kecil ikut menjual pada penawaran ini, saham DOOH yang bebas diperdagangkan di pasar bisa menyusut dari 33,91 persen sekarang, membuat sahamnya makin tipis diperjualbelikan. Pembaca juga perlu ingat bahwa SII, pihak yang menawarkan Rp148 per saham ini, adalah pengendali baru yang sama yang berencana mengucurkan pinjaman Rp5 triliun ke DOOH dan mendorong rights issue dengan dilusi sampai 95,24 persen, dua langkah yang sudah dinilai negatif bagi pemegang saham publik. Yang perlu dipantau berikutnya adalah keputusan pemegang saham publik selama periode tender 5 Oktober sampai 3 November 2026, dengan pembayaran pada 9 November 2026, sebab tanggal itu berdekatan dengan RUPSLB 9 November yang akan memutuskan akuisisi INET senilai Rp2 triliun, yang dampaknya hanya akan dirasakan oleh pemegang saham yang memilih bertahan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ppgd-dana-obligasi-rp5-61-triliun-sudah-habis-untuk-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "PPGD: Dana Obligasi Rp5,61 Triliun Sudah Habis untuk [Modal Kerja]",
+  "deck": "Pegadaian (PPGD) melaporkan ke OJK, dana Rp5,61 triliun dari tiga obligasi dan sukuk yang terbit September 2026 sudah habis terpakai untuk modal kerja per akhir September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T12:01:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/94584441a7_621bf057ca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGD",
+  "tags": [
+   "PPGD",
+   "Pegadaian",
+   "obligasi",
+   "sukuk"
+  ],
+  "body": [
+   "PT Pegadaian (Persero) dengan kode emiten PPGD menyampaikan laporan realisasi penggunaan dana hasil penawaran umum kepada OJK pada 2 Oktober 2026, ditandatangani Ferdian Timur Satyagraha selaku Direktur Keuangan dan Perencanaan Strategis. Laporan ini mencakup tiga instrumen surat utang yang efektif sejak 30 Juni 2026 berdasarkan Surat OJK Nomor S-74/D.04/2026, yaitu Obligasi Berkelanjutan VII Tahap II, Sukuk Mudharabah Berkelanjutan IV Tahap II, dan Obligasi Berwawasan Sosial Berkelanjutan II Tahap II, dengan total dana yang diterbitkan Rp5.607.900.000.000 dan diterima perseroan pada 8 September 2026.",
+   "Dari total tersebut, Obligasi Berkelanjutan VII Tahap II bernilai Rp1,91 triliun, Sukuk Mudharabah Berkelanjutan IV Tahap II bernilai Rp2,30 triliun, dan Obligasi Berwawasan Sosial Berkelanjutan II Tahap II, yang jadi fokus laporan elektronik ini, bernilai Rp1.390.555.000.000. Setiap instrumen terbagi dalam seri berkupon 7,30 persen untuk tenor 370 hari yang jatuh tempo 18 September 2027, dan seri berkupon 7,40 persen untuk tenor tiga tahun yang jatuh tempo sekitar 8 September 2029.",
+   "Khusus untuk Obligasi Berwawasan Sosial Berkelanjutan II Tahap II, dana hasil penawaran Rp1.390.555.000.000 dipotong biaya penawaran umum Rp2.641.994.003, dengan komponen terbesar berupa jasa penyelenggaraan (management fee) Rp771.758.025, sehingga hasil bersih yang diterima perseroan Rp1.387.913.005.997. Seluruh dana bersih ini, seratus persen, sudah direalisasikan untuk modal kerja dan tidak menyisakan dana sama sekali.",
+   "Secara gabungan, ketiga instrumen menanggung total biaya emisi Rp10.451.529.973 atau sekitar 0,19 persen dari dana yang dihimpun, sehingga dana bersih keseluruhan mencapai Rp5.597.448.470.027. Per 30 September 2026, seluruh dana itu sudah tersalurkan untuk modal kerja, termasuk mendukung penyaluran pinjaman kepada nasabah lewat produk gadai, pembiayaan berbasis fidusia, dan pembiayaan usaha mikro dan kecil, dengan sisa dana hasil penawaran umum tercatat nihil."
+  ],
+  "fotoAdegan": "A clerk at a modest Indonesian pawnshop counter weighing gold jewelry for a customer, warm indoor lighting, no readable signage.",
+  "takeaway": "Laporan ini netral bagi Pegadaian karena hanya menegaskan bahwa penerbitan surat utang yang sudah diumumkan sebelumnya berjalan sesuai rencana, tanpa kejutan baru bagi pemegang saham. Yang tersentuh adalah beban bunga dan arus kas: Pegadaian kini menanggung kupon tahunan 7,30 sampai 7,40 persen atas tambahan utang Rp5,61 triliun, dan karena seluruh dana bersihnya langsung disalurkan sebagai modal kerja, bukan mengendap sebagai kas menganggur, kapasitas penyaluran pembiayaan gadai dan pinjaman nasabah berpotensi bertambah namun beban bunga tahunan perseroan juga naik. Karena sisa dana hasil penawaran sudah nihil per 30 September 2026, berdasarkan aturan OJK, Pegadaian berhak mengakhiri laporan berkala penggunaan dana ini lebih awal dari jadwal normal. Yang perlu dipantau selanjutnya adalah jadwal pembayaran kupon rutin serta jatuh tempo pokok obligasi dan sukuk ini, yaitu 18 September 2027 untuk seri bertenor 370 hari dan sekitar 8 September 2029 untuk seri bertenor tiga tahun, karena di titik itu Pegadaian harus menyiapkan dana pembayaran kembali ke investor.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ppgd-dana-rp5-61-t-hasil-obligasi-sukuk-terpakai-penuh",
+  "category": "Aksi Korporasi",
+  "title": "PPGD: Dana Rp5,61 T Hasil Obligasi-Sukuk [Terpakai Penuh]",
+  "deck": "Pegadaian melaporkan dana Rp5,61 triliun dari tiga surat utang berkelanjutan sudah 100 persen tersalur untuk modal kerja per 30 September 2026, sisa dana nihil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T11:59:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c94e4ac08d_9fa58310a7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGD",
+  "tags": [
+   "PPGD",
+   "Pegadaian",
+   "obligasi",
+   "sukuk mudharabah"
+  ],
+  "body": [
+   "PT Pegadaian (Persero) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa dana hasil penerbitan Sukuk Mudharabah Berkelanjutan IV Tahap II senilai Rp2.304.885.000.000, yang efektif sejak 30 Juni 2026, sudah seluruhnya terpakai. Setelah dipotong biaya penawaran umum Rp4.269.712.438, dana bersih yang diterima Rp2.300.615.287.562 dan seratus persen di antaranya sudah direalisasikan untuk modal kerja perusahaan, sesuai rencana yang tertulis di prospektus. Sisa dana yang belum terpakai tercatat nol, sebagaimana ditandatangani Sekretaris Perusahaan Pegadaian, Dwi Hadi Atmaka, pada 2 Oktober 2026.",
+   "Sukuk ini merupakan satu dari tiga instrumen surat utang yang diterbitkan Pegadaian secara bersamaan, yaitu Obligasi Berkelanjutan VII Tahap II, Sukuk Mudharabah Berkelanjutan IV Tahap II, dan Obligasi Berwawasan Sosial Berkelanjutan II Tahap II, dengan total nilai Rp5.607.900.000.000. Dananya diterima perusahaan pada 8 September 2026 dan masing-masing seri berkupon antara 7,30 persen hingga 7,40 persen dengan tenor tiga tahun. Menurut surat yang ditandatangani Direktur Keuangan dan Perencanaan Strategis Pegadaian, Ferdian Timur Satyagraha, per 30 September 2026 seluruh dana bersih gabungan ketiga instrumen, Rp5.597.448.470.027, telah terpakai sepenuhnya untuk modal kerja, termasuk penyaluran pinjaman gadai, pembiayaan berbasis fidusia, dan pembiayaan usaha mikro dan kecil, dengan sisa dana hasil penawaran umum dinyatakan nihil.",
+   "Realisasi biaya emisi juga tercatat sedikit lebih rendah dari rencana di prospektus. Untuk porsi Sukuk Mudharabah Tahap II, biaya emisi terealisasi Rp4.269.712.438 atau 0,1852 persen dari dana yang dihimpun, turun dari rencana 0,1955 persen, dengan komponen terbesar berupa jasa penyelenggaraan Rp1.279.211.175 dan biaya lembaga penunjang pasar modal seperti wali amanat dan pemeringkat efek sebesar Rp1.874.145.645. Selisih itu, menurut perusahaan, terjadi karena efisiensi penggunaan anggaran, bukan karena perubahan rencana penggunaan dana."
+  ],
+  "fotoAdegan": "A clerk weighing gold jewelry at a busy pawnshop service counter in Jakarta, customers waiting nearby, warm indoor lighting",
+  "takeaway": "Laporan ini netral bagi Pegadaian, karena hanya menegaskan bahwa dana dari surat utang yang sudah diumumkan sebelumnya terpakai sesuai rencana, tanpa penyimpangan atau kejutan baru bagi pemegang saham. Yang tersentuh di sini adalah sisi utang dan arus kas pendanaan perusahaan, yaitu beban bunga tetap dari kupon 7,30 sampai 7,40 persen yang sudah dikunci sejak penerbitan, sementara dana yang masuk langsung disalurkan lagi sebagai pinjaman ke nasabah sehingga tidak mengendap sebagai kas menganggur. Investor pemegang obligasi dan sukuk ini biasanya memperhatikan laporan semacam ini untuk memastikan perusahaan benar menjalankan dananya sesuai janji di prospektus, bukan untuk keperluan lain. Karena sisa dana hasil penawaran sudah nihil, tidak ada lagi kewajiban pelaporan penggunaan dana untuk emisi ini, sehingga yang perlu dipantau selanjutnya adalah jatuh tempo pembayaran pokok masing-masing seri, yang jatuh sekitar September 2029 mengikuti tenor tiga tahun sejak dana diterima pada 8 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adhi-lepas-saham-jmj-dan-dtp-fokus-ke-konstruksi-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Lepas Saham JMJ dan DTP, Fokus ke Konstruksi [Divestasi]",
+  "deck": "ADHI menandatangani perjanjian jual beli bersyarat untuk melepas 47,18% saham di JMJ ke SMI dan 51% saham di DTP ke FUTR, bagian penataan ulang anak usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T11:55:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2846866318_883ab117a9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "divestasi",
+   "JMJ",
+   "DTP"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) menandatangani dua Perjanjian Jual Beli Bersyarat atau Conditional Share Purchase Agreement (CSPA) pada Rabu, 30 September 2026, di kantor ADHI, Jakarta. Kedua perjanjian ini adalah langkah awal rencana divestasi saham ADHI di dua anak usahanya, yaitu PT Jasamarga Jogja Solo (JMJ) dan PT Dumai Tirta Persada (DTP). Karena sifatnya bersyarat, penandatanganan ini baru menandai kesepakatan para pihak atas kerangka, syarat, dan ketentuan transaksi, bukan penyelesaian penjualan saham itu sendiri.",
+   "Untuk JMJ, ADHI sepakat melepas 47,18% kepemilikan sahamnya kepada PT Sarana Multi Infrastruktur (Persero) atau SMI, badan usaha pembiayaan infrastruktur milik negara. Penandatanganan dihadiri Direktur Pembiayaan dan Investasi SMI serta Direktur Utama ADHI beserta jajaran direksi kedua perusahaan. JMJ sendiri adalah perusahaan yang mengelola jalan tol Jogja-Solo, sehingga langkah ini melepas sebagian kepemilikan ADHI di sektor konsesi jalan tol.",
+   "Untuk DTP, ADHI sepakat melepas 51% sahamnya, yang berarti ADHI melepas posisi mayoritas, kepada PT Futura Energi Global Tbk (FUTR). DTP bergerak di bidang penyediaan dan pengelolaan sistem air minum di Kota Dumai, Riau, melalui skema Kerja Sama Pemerintah dengan Badan Usaha (KPBU). Penandatanganan ini dihadiri Direktur Utama FUTR, Direktur Utama PT Aurora Dhana Nusantara selaku pemegang saham FUTR, serta Direktur Utama ADHI dan jajaran direksi kedua pihak. Corporate Secretary ADHI, Siswanto, menyatakan langkah ini untuk menata ulang portofolio investasi dan anak usaha agar ADHI kembali fokus pada bisnis inti rekayasa dan konstruksi, sekaligus memperkuat struktur keuangan dan likuiditas perusahaan."
+  ],
+  "fotoAdegan": "Aerial view of a toll road bridge crossing green rice fields in Java, light traffic, hazy tropical morning light",
+  "takeaway": "Laporan ini condong positif bagi ADHI, sebab melepas kepemilikan di dua anak usaha non-konstruksi, yaitu pengelola tol JMJ dan pengelola air minum DTP, sejalan dengan upaya merampingkan portofolio dan biasanya diikuti masuknya dana tunai yang bisa memperkuat likuiditas dan mengurangi beban utang. Yang tersentuh di sini adalah komposisi aset dan arus kas ADHI, arus kas adalah aliran uang masuk dan keluar perusahaan, karena pelepasan saham anak usaha lazimnya mendatangkan dana segar meski besarannya belum diungkap dalam dokumen ini. Perlu dicatat, dokumen tidak menyebutkan nilai transaksi dari kedua pelepasan saham tersebut, sehingga besar dampaknya terhadap kas ADHI belum bisa dipastikan. Yang perlu dipantau selanjutnya adalah proses closing atau penyelesaian transaksi, karena CSPA baru mengatur kerangka dan syarat, bukan transaksi final, sehingga pelepasan saham JMJ dan DTP baru benar-benar terjadi setelah seluruh syarat dalam perjanjian dipenuhi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "rupslb-adhi-setujui-restrukturisasi-dan-pinjaman-baru",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ADHI Setujui [Restrukturisasi] dan Pinjaman Baru",
+  "deck": "Pemegang saham ADHI menyetujui rencana restrukturisasi perusahaan dan izin menerima pinjaman bank atau non-bank jangka menengah-panjang sebagai bagian program penyehatan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T11:54:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/894e7bcc1e_e18320b8f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "restrukturisasi",
+   "RUPSLB",
+   "pinjaman"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 30 September 2026, di Jakarta. Dalam rapat itu, pemegang saham menyetujui dua agenda sekaligus, yaitu usulan restrukturisasi perusahaan dalam rangka penyehatan, dan persetujuan atas penerimaan pinjaman bank dan/atau non-bank berjangka menengah hingga panjang sebagai salah satu langkah restrukturisasi. Dokumen keterbukaan informasi tidak menyebutkan nilai nominal pinjaman yang akan diambil maupun pihak pemberi pinjaman.",
+   "Persetujuan ini menjadi landasan bagi ADHI untuk melanjutkan proses penyehatan keuangan melalui tiga langkah utama, yakni transformasi bisnis, inorganic initiatives yang didampingi oleh Pemegang Saham Prioritas, serta restrukturisasi keuangan. Perusahaan menyebut langkah-langkah itu berjalan bersamaan dengan sejumlah inisiatif efisiensi untuk memperkuat kinerja operasional dan keuangan.",
+   "Corporate Secretary ADHI, Siswanto, mengatakan restrukturisasi dijalankan tidak hanya melalui penataan struktur keuangan, tetapi juga transformasi bisnis, penataan portofolio, dan penguatan fokus pada bisnis inti Engineering & Konstruksi. Ia menambahkan bahwa program penyehatan akan dilanjutkan secara bertahap dan terukur sambil tetap memenuhi prinsip tata kelola perusahaan yang baik."
+  ],
+  "fotoAdegan": "Construction workers installing rebar on an elevated highway project site in Jakarta, cranes visible, overcast afternoon light",
+  "takeaway": "Laporan ini saya nilai netral bagi ADHI, karena RUPSLB baru memberi izin kerangka restrukturisasi dan pinjaman baru tanpa menyebut nilai pinjaman, bunga, atau pemberi pinjamannya, sehingga dampak konkretnya ke keuangan perusahaan belum bisa diukur dari dokumen ini. Yang perlu diperhatikan adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas utang barunya, karena izin mengambil pinjaman jangka menengah-panjang berarti ADHI berpotensi menambah utang di tengah proses penyehatan yang sedang berjalan. Persetujuan ini juga melanjutkan rangkaian langkah penyehatan ADHI yang sebelumnya sudah mencakup pelepasan saham di anak usaha tol JMJ dan air minum DTP, jadi perlu dilihat sebagai bagian dari satu program besar, bukan langkah berdiri sendiri. Yang perlu dipantau selanjutnya adalah pengumuman nilai dan syarat pinjaman begitu disepakati dengan bank atau kreditur non-bank, serta kelanjutan tiga langkah penyehatan yang disebutkan, yaitu transformasi bisnis, kerja sama dengan Pemegang Saham Prioritas, dan restrukturisasi keuangan itu sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "apex-konversi-utang-us-4-1-juta-jadi-saham-dilusi-5-79",
+  "category": "Aksi Korporasi",
+  "title": "APEX Konversi Utang US$4,1 Juta Jadi Saham, Dilusi [5,79%]",
+  "deck": "Apexindo menerbitkan 218,09 juta saham baru Rp325 per lembar untuk melunasi utang US$4,1 juta ke dua kreditor asing lewat skema konversi utang menjadi saham (PMTHMETD).",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T11:13:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/77bae3ea07_ebe40b13c8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "PMTHMETD",
+   "konversi utang",
+   "dilusi saham"
+  ],
+  "body": [
+   "Apexindo Pratama Duta Tbk (APEX) berencana menerbitkan 218.090.317 saham baru seri B dengan nilai nominal dan harga pelaksanaan Rp325 per saham, setara 5,79 persen dari modal ditempatkan dan disetor penuh setelah transaksi, lewat skema Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD). Seluruh saham baru ini akan diserahkan kepada dua kreditor asing, HSBC Bank PLC dan The Hongkong and Shanghai Banking Corporation Limited, sebagai pelunasan utang sebesar US$4.108.948 memakai kurs kesepakatan Rp17.250 per dolar AS, atau setara sekitar Rp70,9 miliar. Rencana ini akan dimintakan persetujuan pemegang saham dalam RUPSLB pada Rabu, 7 Oktober 2026, dengan realisasi konversi dan penerbitan saham diperkirakan sekitar 20 Oktober dan paling lambat 31 Oktober 2026.",
+   "Berdasarkan rincian struktur permodalan dalam dokumen, porsi kepemilikan pengendali PT Aserra Capital akan turun dari 53,51 persen menjadi 50,41 persen, meski jumlah sahamnya tetap 1.897.730.677 lembar karena yang bertambah adalah total saham beredar. Pemegang saham lain yang ikut terdilusi adalah Standard Chartered Bank Singapore S/A Augusta Investment Pte Ltd dari 6,23 persen menjadi 5,86 persen, Komisaris Eka Dharmajanto Kasih dari 0,81 persen menjadi 0,76 persen, dan pemegang saham publik dari 39,46 persen menjadi 37,17 persen. Sebagai gantinya, dua kreditor itu akan tercatat sebagai pemegang saham baru, HSBC Bank PLC mendapat 62.311.515 saham seri B (1,66 persen) dan The Hongkong and Shanghai Banking Corporation Limited mendapat 155.778.802 saham seri B (4,14 persen). Perseroan menegaskan transaksi ini tidak mengubah status pengendali karena PT Aserra Capital tetap memegang saham mayoritas.",
+   "Utang ini berasal dari Perjanjian Fasilitas 2022 senilai pokok US$35 juta yang semula jatuh tempo 18 Mei 2026, lalu diperpanjang tiga kali berturut-turut ke 8 Juni, 8 Juli, dan terakhir 31 Juli 2026. Perseroan menyatakan arus kasnya belum sepenuhnya cukup untuk melunasi seluruh kewajiban pada saat jatuh tempo, sehingga disepakati penyelesaian sebagian utang secara tunai, perpanjangan sebagian tenor, dan konversi sisa US$4.108.948 menjadi saham baru lewat perjanjian perubahan yang diteken 31 Juli 2026. Harga konversi Rp325 per saham ditetapkan di atas rata-rata harga penutupan saham Apexindo selama 25 hari bursa terakhir dan jauh di atas batas harga minimum bursa Rp50, sehingga menurut Perseroan jumlah saham baru yang diterbitkan dan tingkat dilusi pemegang saham lama menjadi lebih kecil dibanding jika memakai acuan harga pasar saat itu."
+  ],
+  "fotoAdegan": "Offshore oil drilling rig workers in hard hats inspecting equipment on a platform deck, overcast sea in the background",
+  "takeaway": "Laporan ini condong negatif bagi Apexindo karena inti ceritanya adalah ketidakmampuan membayar utang jatuh tempo secara tunai setelah tiga kali perpanjangan tenor, sehingga kreditor asing akhirnya dibayar dengan saham baru dan pemegang saham lama menanggung pengenceran kepemilikan 5,79 persen. Yang tersentuh adalah jumlah saham beredar yang bertambah sekitar 218 juta lembar dan ekuitas yang naik karena utang senilai sekitar Rp70,9 miliar berubah menjadi modal sendiri, sementara di sisi lain beban bunga ke depan berkurang karena utang itu lunas dan tidak lagi membebani arus kas. Laba per saham, yaitu bagian laba bersih yang jatuh ke tiap lembar saham, berpotensi tergerus karena jumlah lembar bertambah sementara laba perusahaan belum tentu naik secepat itu. Yang perlu dipantau adalah hasil RUPSLB pada 7 Oktober 2026 yang harus menyetujui rencana ini lebih dulu, serta realisasi konversi dan penerbitan saham baru yang ditargetkan sekitar 20 Oktober dan paling lambat 31 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smfp-siapkan-rp2-95-triliun-untuk-lunasi-dua-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "SMFP Siapkan [Rp2,95 Triliun] untuk Lunasi Dua Obligasi",
+  "deck": "SMF menyiapkan dana Rp2,95 triliun plus bunga Rp44,49 miliar untuk melunasi dua obligasi, SMFP06CN2 dan SMFP07BCN7, yang jatuh tempo pada 17 dan 26 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T10:37:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dad3e3a758_2eae89c29e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMFP",
+  "tags": [
+   "SMFP",
+   "obligasi",
+   "pelunasan utang",
+   "SMF"
+  ],
+  "body": [
+   "PT Sarana Multigriya Finansial (Persero) atau SMF menyampaikan ke Bursa Efek Indonesia bahwa perusahaan telah menyiapkan dana untuk melunasi dua obligasi yang segera jatuh tempo. Obligasi pertama adalah Obligasi Berkelanjutan VI Tahap II Tahun 2021 (SMFP06CN2) senilai pokok Rp2,8 triliun dengan bunga Rp42 miliar, yang jatuh tempo pada 17 November 2026. Obligasi kedua, Obligasi Berkelanjutan VII Tahap VII Tahun 2024 Seri B (SMFP07BCN7), bernilai pokok Rp153,005 miliar dengan bunga Rp2.486.331.250, jatuh tempo pada 26 November 2026.",
+   "Total dana yang disiapkan untuk kedua pelunasan ini mencapai Rp2,953 triliun untuk pokok utang dan sekitar Rp44,49 miliar untuk bunga. Perusahaan menyatakan dana tersebut saat ini sudah ditempatkan dalam bentuk deposito berjangka. Laporan ini merujuk pada Peraturan Bursa Efek Indonesia Nomor I-E yang mewajibkan emiten obligasi melaporkan kesiapan dana pelunasan sebelum tanggal jatuh tempo.",
+   "Dokumen ditandatangani secara elektronik oleh Hilman Asyrofi, Kepala Divisi Treasuri dan Hubungan Investor, serta Heliantopo, Pelaksana Tugas Direktur Bisnis SMF. Surat bernomor S-2361/DIR/SMF/X/2026 ini dikirim ke BEI pada 2 Oktober 2026, dengan tembusan kepada wali amanat PT Bank Mandiri (Persero) Tbk, PT Kustodian Sentral Efek Indonesia, dan Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Glass-fronted financial office building in Jakarta photographed from a low angle against a daytime sky, blurred traffic passing in the foreground",
+  "takeaway": "Laporan ini netral bagi fundamental SMF karena hanya menegaskan kepatuhan rutin membayar utang jatuh tempo, bukan perubahan baru pada kondisi keuangan perusahaan. Yang tersentuh adalah arus kas dan tingkat utang: dana sekitar Rp2,95 triliun yang kini tersimpan di deposito akan keluar sebagai kas untuk menutup pokok dan bunga obligasi, sehingga total utang obligasi SMF berkurang begitu pembayaran terlaksana. Pelaku pasar, terutama pemegang obligasi, memperhatikan hal ini karena kesiapan dana sejak dini mengurangi risiko gagal bayar menjelang tanggal jatuh tempo. Yang perlu dipantau selanjutnya adalah apakah pembayaran benar-benar terealisasi tepat waktu pada 17 November 2026 untuk SMFP06CN2 dan 26 November 2026 untuk SMFP07BCN7, sesuai konfirmasi dari wali amanat PT Bank Mandiri (Persero) Tbk.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "nayz-pengendali-baru-buka-tender-wajib-rp75-per-saham",
   "category": "Aksi Korporasi",
   "title": "NAYZ: Pengendali Baru Buka [Tender Wajib] Rp75 per Saham",

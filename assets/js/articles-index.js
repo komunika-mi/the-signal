@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dooh-tender-wajib-sii-rp148-saham-periode-5-okt-3-nov",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: [Tender Wajib] SII Rp148/Saham, Periode 5 Okt-3 Nov",
+  "deck": "PT Sinergi Internasional Investama menawar 2,62 miliar saham publik DOOH senilai maksimal Rp388,4 miliar menyusul pengambilalihan 51 persen saham dari Prambanan.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "tender wajib",
+   "SII",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/34bde0c12e_f5b52c1799.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgd-dana-obligasi-rp5-61-triliun-sudah-habis-untuk-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "PPGD: Dana Obligasi Rp5,61 Triliun Sudah Habis untuk [Modal Kerja]",
+  "deck": "Pegadaian (PPGD) melaporkan ke OJK, dana Rp5,61 triliun dari tiga obligasi dan sukuk yang terbit September 2026 sudah habis terpakai untuk modal kerja per akhir September 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGD",
+   "Pegadaian",
+   "obligasi",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/94584441a7_621bf057ca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgd-dana-rp5-61-t-hasil-obligasi-sukuk-terpakai-penuh",
+  "category": "Aksi Korporasi",
+  "title": "PPGD: Dana Rp5,61 T Hasil Obligasi-Sukuk [Terpakai Penuh]",
+  "deck": "Pegadaian melaporkan dana Rp5,61 triliun dari tiga surat utang berkelanjutan sudah 100 persen tersalur untuk modal kerja per 30 September 2026, sisa dana nihil.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGD",
+   "Pegadaian",
+   "obligasi",
+   "sukuk mudharabah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c94e4ac08d_9fa58310a7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-lepas-saham-jmj-dan-dtp-fokus-ke-konstruksi-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Lepas Saham JMJ dan DTP, Fokus ke Konstruksi [Divestasi]",
+  "deck": "ADHI menandatangani perjanjian jual beli bersyarat untuk melepas 47,18% saham di JMJ ke SMI dan 51% saham di DTP ke FUTR, bagian penataan ulang anak usaha.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "divestasi",
+   "JMJ",
+   "DTP"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2846866318_883ab117a9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-adhi-setujui-restrukturisasi-dan-pinjaman-baru",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ADHI Setujui [Restrukturisasi] dan Pinjaman Baru",
+  "deck": "Pemegang saham ADHI menyetujui rencana restrukturisasi perusahaan dan izin menerima pinjaman bank atau non-bank jangka menengah-panjang sebagai bagian program penyehatan.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "restrukturisasi",
+   "RUPSLB",
+   "pinjaman"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/894e7bcc1e_e18320b8f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apex-konversi-utang-us-4-1-juta-jadi-saham-dilusi-5-79",
+  "category": "Aksi Korporasi",
+  "title": "APEX Konversi Utang US$4,1 Juta Jadi Saham, Dilusi [5,79%]",
+  "deck": "Apexindo menerbitkan 218,09 juta saham baru Rp325 per lembar untuk melunasi utang US$4,1 juta ke dua kreditor asing lewat skema konversi utang menjadi saham (PMTHMETD).",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APEX",
+   "PMTHMETD",
+   "konversi utang",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/77bae3ea07_ebe40b13c8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smfp-siapkan-rp2-95-triliun-untuk-lunasi-dua-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "SMFP Siapkan [Rp2,95 Triliun] untuk Lunasi Dua Obligasi",
+  "deck": "SMF menyiapkan dana Rp2,95 triliun plus bunga Rp44,49 miliar untuk melunasi dua obligasi, SMFP06CN2 dan SMFP07BCN7, yang jatuh tempo pada 17 dan 26 November 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMFP",
+   "obligasi",
+   "pelunasan utang",
+   "SMF"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dad3e3a758_2eae89c29e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "nayz-pengendali-baru-buka-tender-wajib-rp75-per-saham",
   "category": "Aksi Korporasi",
   "title": "NAYZ: Pengendali Baru Buka [Tender Wajib] Rp75 per Saham",
@@ -6384,119 +6496,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0baf0398d7_9a5850854a.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-lepas-saham-anak-usaha-abm-senilai-us-450-000",
-  "category": "Aksi Korporasi",
-  "title": "TAPG [Lepas] Saham Anak Usaha ABM Senilai US$450.000",
-  "deck": "TAPG melalui anak usahanya PT Alam Teduh Sentosa menjual seluruh saham PT Alam Belantara Makmur ke PT Agraus Resources senilai US$450.000.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "divestasi",
-   "anak usaha",
-   "kelapa sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d39fbab536_22648f3145.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mice-siwie-honoris-tambah-saham-300-ribu-lembar",
-  "category": "Aksi Korporasi",
-  "title": "MICE: Siwie Honoris [Tambah] Saham 300 Ribu Lembar",
-  "deck": "Siwie Honoris membeli 300.000 saham Multi Indocitra pada 24 September 2026, kepemilikannya naik jadi 1.369.100 lembar atau 0,2282 persen hak suara.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MICE",
-   "Multi Indocitra",
-   "kepemilikan saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-5219-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtmh-suntik-modal-rp20-miliar-ke-dua-anak-usaha-rumah-sakit",
-  "category": "Aksi Korporasi",
-  "title": "MTMH [suntik] modal Rp20 miliar ke dua anak usaha rumah sakit",
-  "deck": "Dua anak usaha MTMH, MSKA dan MAU, menaikkan modal disetor total Rp20 miliar lewat akta notaris untuk mendukung pengembangan bisnis rumah sakit.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTMH",
-   "modal disetor",
-   "anak usaha",
-   "rumah sakit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d58064e0cc_b94fc9263f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-gandeng-danantara-perkuat-keuangan-digital-ri",
-  "category": "Teknologi",
-  "title": "Telkom Gandeng Danantara [Perkuat] Keuangan Digital RI",
-  "deck": "Telkom Indonesia menjalin kerja sama dengan Danantara Indonesia dan menampilkan Telkom Solution di FEKDI & IFSE 2026 untuk mendukung ekosistem keuangan digital nasional.",
-  "date": "25 September 2026",
-  "image": "assets/img/telkom-gandeng-danantara-perkuat-keuangan-digital-ri.jpg",
-  "imageV": "mugwfmak",
-  "tags": [
-   "Telkom",
-   "Danantara",
-   "FEKDI IFSE 2026",
-   "keuangan digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469347-hadir-di-fekdi-x-ifse-2026-telkom-solution-dukung-ekosistem-ekonomi-dan-keuangan-digital-indonesia"
- },
- {
-  "slug": "mpxl-tak-ada-informasi-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "MPXL: Tak Ada [Informasi Material] di Balik Volatilitas Saham",
-  "deck": "Merespons surat Bursa Efek Indonesia soal volatilitas transaksi pada 23 September 2026, MPXL menyatakan tidak ada informasi material maupun rencana aksi korporasi di balik pergerakan sahamnya.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPXL",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2b539157e5_123150c8ec.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "epmt-pangkas-modal-mdi-dan-egd-tarik-rp16-3-miliar",
-  "category": "Aksi Korporasi",
-  "title": "EPMT Pangkas Modal MDI dan EGD, Tarik [Rp16,3 Miliar]",
-  "deck": "Enseval memangkas modal dua anak usahanya, PT Millenia Dharma Insani dan PT Emos Global Digital, lalu menerima kembali dana tunai sekitar Rp16,3 miliar.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EPMT",
-   "Enseval Putera Megatrading",
-   "Kalbe Farma",
-   "pengurangan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/909e2e5484_2b90f72691.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha",
-  "category": "Perbankan",
-  "title": "Bank Mandiri Perkuat [Livin' Merchant] untuk Pelaku Usaha",
-  "deck": "Bank Mandiri mengembangkan fitur pembayaran QRIS dan notifikasi suara di Livin' Merchant agar pelaku usaha lebih mudah mengelola transaksi dan penjualan.",
-  "date": "25 September 2026",
-  "image": "assets/img/bank-mandiri-perkuat-livin-merchant-untuk-pelaku-usaha.jpg",
-  "imageV": "mugwfmpq",
-  "tags": [
-   "Livin' Merchant",
-   "Bank Mandiri",
-   "UMKM",
-   "pembayaran digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469345-permudah-transaksi-pelaku-usaha-livin-merchant-dukung-pelaku-usaha-tumbuh-bersama-di-era-digital"
  }
 ];

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "c5gUWS5rzu8",
+  "title": "IKA Fikom Unpad Bahas Tata Kelola dan Restrukturisasi BUMN",
+  "category": "BUMN",
+  "program": "Kabar Utama",
+  "summary": "Ikatan Keluarga Alumni Fikom Unpad menggelar forum diskusi mengenai tata kelola dan restrukturisasi perusahaan BUMN, digagas di bawah kepengurusan Ketua Umum Hendri Satrio.",
+  "takeaway": "Topik restrukturisasi dan tata kelola BUMN relevan bagi pembaca ekonomi karena menyangkut efisiensi dan kinerja perusahaan negara.",
+  "terbit": "2026-10-02T16:03:35+00:00"
+ },
+ {
+  "id": "5PA3yueRb54",
+  "title": "CEO Nvidia Soal Distilasi AI oleh China: Itu Persaingan Bisnis",
+  "category": "Teknologi",
+  "program": "OneNews Update",
+  "summary": "CEO Nvidia Jensen Huang menilai praktik distilasi AI oleh perusahaan China, yakni melatih model AI baru dari jawaban AI lain, sebagai bentuk persaingan bisnis yang wajar.",
+  "takeaway": "Pandangan ini penting bagi pembaca karena menyoroti dinamika persaingan industri teknologi AI antara Amerika Serikat dan China yang berpengaruh pada pasar global.",
+  "terbit": "2026-10-02T15:00:22+00:00"
+ },
+ {
   "id": "8Vs5KoAFmVc",
   "title": "Bahlil Lahadalia Genjot Hilirisasi Nasional usai Dilantik",
   "category": "Industri",

@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "g20-tolak-jadikan-pangan-alat-tekanan-geopolitik",
+  "category": "Global",
+  "title": "G20 [Tolak] Jadikan Pangan Alat Tekanan Geopolitik",
+  "deck": "Menteri Perdagangan G20 di Milwaukee menolak pangan sebagai alat tekanan geopolitik, sekaligus membahas kelebihan kapasitas industri, kerja paksa, dan prinsip tarif WTO.",
+  "image": "assets/img/g20-tolak-jadikan-pangan-alat-tekanan-geopolitik.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T16:37:16.495Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/menteri-perdagangan-g20-tolak-penggunaan-pangan-sebagai-instrumen-tekanan-geopolitik",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "G20",
+   "Kemendag",
+   "I-EU CEPA",
+   "Kerja Paksa"
+  ],
+  "body": [
+   "Para menteri perdagangan negara G20 yang bertemu di Milwaukee, Wisconsin, pada 30 September hingga 1 Oktober 2026, sepakat menolak penggunaan pangan sebagai alat tekanan dalam hubungan antarnegara. Menteri Perdagangan Budi Santoso menyebut pangan menyangkut langsung kelangsungan hidup manusia sehingga tidak bisa dijadikan senjata diplomasi. Sikap bersama ini menjadi sinyal bahwa isu pangan, setidaknya untuk saat ini, tidak akan ditarik masuk ke dalam ketegangan dagang antarnegara besar.",
+   "Dalam pertemuan yang sama, delegasi G20 juga membahas soal kelebihan kapasitas produksi suatu negara (excess capacity), isu yang sering dituduhkan ke negara tertentu saat ekspornya melonjak tajam. Indonesia menekankan bahwa lonjakan ekspor atau ketidakseimbangan dagang tidak otomatis berarti ada masalah struktural, dan penilaiannya harus berdasarkan data tiap sektor, bukan tudingan politik. Indonesia mengusulkan tiga langkah: menelusuri sebab masalah dulu sebelum mengambil tindakan, memakai instrumen pengamanan dagang yang transparan dan berdasarkan aturan supaya tidak memicu ketegangan baru, serta mendorong kerja sama kolektif untuk mendukung transformasi industri.",
+   "Soal tarif, Indonesia meminta Organisasi Perdagangan Dunia (WTO) tetap memegang prinsip most favored nation, yaitu aturan bahwa tarif yang diberikan ke satu negara harus sama untuk semua negara anggota tanpa pandang bulu. Prinsip ini dianggap penting agar negosiasi tarif tetap sederhana dan negara berkembang tidak dirugikan. Terkait kerja paksa, Indonesia menegaskan dukungan penghapusannya, tapi menolak jika isu itu dipakai sepihak oleh satu negara untuk menghukum negara lain berdasarkan standarnya sendiri. Indonesia telah meratifikasi sembilan dari sepuluh konvensi dasar Organisasi Buruh Internasional dan menerbitkan Peraturan Menteri Perdagangan Nomor 9 Tahun 2026 yang melarang impor barang hasil kerja paksa, serta mencantumkan ketentuan serupa dalam perjanjian dagang dengan EFTA dan Uni Eropa.",
+   "Di sela pertemuan, Mendag Busan bertemu Menteri Delegasi Perdagangan Luar Negeri Prancis, Nicolas Forissier, dan meminta dukungan Prancis di Dewan Uni Eropa agar perjanjian dagang Indonesia-Uni Eropa (I-EU CEPA) bisa diteken tepat waktu dan berlaku mulai awal 2027. Target itu penting karena fasilitas keringanan tarif Uni Eropa untuk Indonesia akan berakhir pada 2027, sehingga CEPA dibutuhkan agar ekspor sawit berkelanjutan, alas kaki, tekstil, dan produk perikanan Indonesia tidak kehilangan akses murah ke pasar Eropa. Prancis menyampaikan ketertarikan pelaku usahanya untuk memanfaatkan perjanjian ini di bidang investasi, sementara soal penerapan sertifikasi halal yang dikhawatirkan pengusaha Prancis, Indonesia menegaskan aturan itu bukan izin impor atau penghalang dagang, melainkan untuk melindungi konsumen, meski pembahasan penyesuaian waktu penerapannya masih berlangsung."
+  ],
+  "fotoAdegan": "Dock workers packing crates of fresh fish for export at a busy Indonesian fishing port, early morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/2Eosf0iBNl32w1hfrA8nUBrmrZgfAUF2qYDa80Db.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Ada dua hal konkret dengan tenggat jelas dari pertemuan ini: Peraturan Menteri Perdagangan Nomor 9 Tahun 2026 yang melarang impor barang hasil kerja paksa, dan target penandatanganan perjanjian dagang Indonesia-Uni Eropa (I-EU CEPA) supaya berlaku awal 2027. Yang terdampak langsung adalah eksportir sawit, alas kaki, tekstil, dan produk perikanan ke Eropa, karena fasilitas keringanan tarif Uni Eropa untuk Indonesia berakhir pada 2027 sehingga tanpa CEPA barang Indonesia bisa kena tarif lebih mahal di sana. Sikap Indonesia di forum G20, menolak pelabelan politik atas kelebihan kapasitas industri dan menolak sanksi sepihak soal kerja paksa, mengarah ke posisi penengah di tengah ketegangan dagang negara besar, bukan berpihak ke salah satu kubu. Yang akan menentukan apakah CEPA benar rampung sesuai target adalah dukungan Dewan Uni Eropa yang baru diminta langsung ke Menteri Prancis Nicolas Forissier, serta hasil pembahasan penyesuaian waktu penerapan sertifikasi halal yang masih menggantung dalam pertemuan ini.",
+  "imageV": "mur6yyip"
+ },
+ {
   "slug": "mdka-umumkan-transaksi-afiliasi-jasa-konstruksi-tambang-pani",
   "category": "Aksi Korporasi",
   "title": "MDKA Umumkan Transaksi [Afiliasi] Jasa Konstruksi Tambang Pani",
@@ -79,6 +107,33 @@ var ARTICLES = [
   "fotoAdegan": "A busy multifinance office floor in Jakarta with staff assisting customers near parked motorcycles, blurred paperwork counter, afternoon light",
   "takeaway": "Penilaian kami netral, karena surat ini hanya menegaskan tanggal mulai berlakunya rencana merger yang sudah diumumkan tiga bulan lalu, tanpa angka baru soal nilai aset atau modal gabungan. Yang tersentuh di sini adalah struktur anak usaha pembiayaan BTPN, dua perusahaan pembiayaan kendaraan, OTO dan SOF, kini digabung jadi satu entitas, dan pelaku pasar biasanya mencermati konsolidasi semacam ini karena bisa mengubah ukuran portofolio pembiayaan dan posisi modal anak usaha, meski besarannya belum diungkap dalam surat ini. Yang perlu dipantau selanjutnya adalah laporan keuangan konsolidasian BTPN pada kuartal mendatang, untuk melihat apakah penggabungan ini membawa perubahan material pada aset atau laba anak usaha pembiayaan, mengingat rincian dampaknya belum pernah dipublikasikan secara spesifik baik di surat ini maupun suratnya yang dirujuk tertanggal 2 Juli 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "lima-tahun-merger-pelindo-klaim-produktivitas-naik-70",
+  "category": "BUMN",
+  "title": "Lima Tahun Merger, Pelindo Klaim Produktivitas Naik [70%]",
+  "deck": "Lima tahun setelah merger, Pelindo Terminal Petikemas mengklaim produktivitas naik lebih dari 70 persen dan waktu kapal bersandar berkurang di 32 terminal.",
+  "image": "assets/img/lima-tahun-merger-pelindo-klaim-produktivitas-naik-70.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T22:10:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470859-lima-tahun-merger-pelindo-standardisasi-jadi-kunci-efisiensi",
+  "tags": [
+   "Pelindo",
+   "Pelabuhan",
+   "Logistik",
+   "BUMN"
+  ],
+  "body": [
+   "PT Pelabuhan Indonesia (Pelindo) menandai lima tahun sejak penggabungan sejumlah perusahaan pelabuhan milik negara menjadi satu entitas pada 2021. Pelindo Terminal Petikemas mengklaim produktivitas operasional naik lebih dari 70 persen sejak merger, sementara waktu kapal menunggu untuk bersandar dan proses bongkar muat di pelabuhan ikut berkurang. Perubahan ini penting bagi pelaku usaha pelayaran dan pemilik barang karena waktu sandar yang lebih singkat biasanya berarti ongkos logistik yang lebih murah.",
+   "Menurut Corporate Secretary Pelindo Terminal Petikemas, Widyaswendra, kenaikan produktivitas itu didorong oleh standardisasi layanan dan peningkatan kompetensi pekerja di seluruh terminal yang kini berada di bawah satu manajemen. Dari 32 terminal peti kemas yang dikelola perseroan, ia menyebut hampir semuanya sudah menunjukkan perbaikan nyata sejak proses konsolidasi berjalan.",
+   "Merger juga membuka ruang bagi Pelindo memindahkan alat bongkar muat dari terminal yang kelebihan kapasitas ke terminal yang kekurangan, ketimbang setiap terminal membeli alat sendiri-sendiri. Widyaswendra mengatakan langkah ini ikut memperbaiki waktu kapal bersandar dan waktu barang tertahan di pelabuhan, sekaligus membuka peluang kerja sama bisnis antarperusahaan dan pembukaan rute pelayaran baru yang sebelumnya sulit didapat karena produktivitas terminal belum memadai.",
+   "Pelindo menyebut transformasi ini diarahkan untuk memperkuat ekosistem maritim nasional sekaligus menekan biaya logistik secara keseluruhan, meski perusahaan belum merinci berapa besar penurunan biaya tersebut dalam angka."
+  ],
+  "fotoAdegan": "Container cranes lifting cargo boxes onto a docked ship at a bustling Indonesian seaport, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/02/6abfc77db67b9-lima-tahun-merger-pelindo_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah cara Pelindo mengatur alat bongkar muat: sejak merger pada 2021, crane dan alat berat yang menumpuk di satu terminal bisa dipindah ke terminal lain yang kekurangan, sehingga kapal tidak perlu menunggu lama untuk sandar dan barang tidak lama tertahan di pelabuhan. Yang merasakan dampaknya adalah perusahaan pelayaran dan pemilik barang yang selama ini menanggung biaya lebih mahal akibat antrean kapal, serta pekerja di 32 terminal yang kini mengikuti standar kerja yang sama. Klaim kenaikan produktivitas di atas 70 persen dan pembukaan rute baru ini masih berasal dari pernyataan internal perusahaan saat merayakan lima tahun merger, tanpa rincian berapa hari waktu sandar kapal benar-benar turun atau terminal mana saja yang paling berubah. Yang masih dibutuhkan untuk menilai arah konsolidasi ini adalah laporan kinerja resmi per terminal dari Pelindo, yang akan menunjukkan apakah efisiensi itu merata di seluruh pelabuhan atau hanya terjadi di beberapa terminal besar saja.",
+  "imageV": "mur6yzcy"
  },
  {
   "slug": "kija-rogoh-rp340-9-m-kuasai-51-seafer-di-kendal",

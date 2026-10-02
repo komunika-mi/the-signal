@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "g20-tolak-jadikan-pangan-alat-tekanan-geopolitik",
+  "category": "Global",
+  "title": "G20 [Tolak] Jadikan Pangan Alat Tekanan Geopolitik",
+  "deck": "Menteri Perdagangan G20 di Milwaukee menolak pangan sebagai alat tekanan geopolitik, sekaligus membahas kelebihan kapasitas industri, kerja paksa, dan prinsip tarif WTO.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/g20-tolak-jadikan-pangan-alat-tekanan-geopolitik.jpg",
+  "imageV": "mur6yyip",
+  "tags": [
+   "G20",
+   "Kemendag",
+   "I-EU CEPA",
+   "Kerja Paksa"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/menteri-perdagangan-g20-tolak-penggunaan-pangan-sebagai-instrumen-tekanan-geopolitik",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "mdka-umumkan-transaksi-afiliasi-jasa-konstruksi-tambang-pani",
   "category": "Aksi Korporasi",
   "title": "MDKA Umumkan Transaksi [Afiliasi] Jasa Konstruksi Tambang Pani",
@@ -51,6 +69,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63efd98fee_2ed72ad015.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lima-tahun-merger-pelindo-klaim-produktivitas-naik-70",
+  "category": "BUMN",
+  "title": "Lima Tahun Merger, Pelindo Klaim Produktivitas Naik [70%]",
+  "deck": "Lima tahun setelah merger, Pelindo Terminal Petikemas mengklaim produktivitas naik lebih dari 70 persen dan waktu kapal bersandar berkurang di 32 terminal.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/lima-tahun-merger-pelindo-klaim-produktivitas-naik-70.jpg",
+  "imageV": "mur6yzcy",
+  "tags": [
+   "Pelindo",
+   "Pelabuhan",
+   "Logistik",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470859-lima-tahun-merger-pelindo-standardisasi-jadi-kunci-efisiensi"
  },
  {
   "slug": "kija-rogoh-rp340-9-m-kuasai-51-seafer-di-kendal",
@@ -6463,38 +6498,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-3252-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nine-dirikan-anak-usaha-holding-modal-rp1-miliar",
-  "category": "Aksi Korporasi",
-  "title": "NINE Dirikan Anak Usaha [Holding] Modal Rp1 Miliar",
-  "deck": "NINE membentuk anak usaha PT Sembilan Investasi Indonesia dengan modal disetor Rp1 miliar, NINE menguasai 99 persen saham dan sisanya dimiliki Yulius Sugiyanto.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NINE",
-   "anak usaha",
-   "aksi korporasi",
-   "Techno9 Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/db25bb91de_2d4ac65979.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-cabut-status-pemantauan-khusus-92-saham-wskt-wika-ikut",
-  "category": "Aksi Korporasi",
-  "title": "BEI Cabut Status [Pemantauan Khusus] 92 Saham, WSKT-WIKA Ikut",
-  "deck": "Bursa mencabut status pemantauan khusus dari 92 saham, termasuk WSKT dan WIKA, efektif 28 September 2026, menyusul penghapusan sejumlah kriteria di Peraturan Bursa I-X.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEI",
-   "Pemantauan Khusus",
-   "WSKT",
-   "WIKA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03e58bd0ed_ba394d68bc.pdf",
   "sourceLabel": "IDX"
  }
 ];

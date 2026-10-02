@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "c5gUWS5rzu8",
+  "title": "IKA Fikom Unpad Bahas Tata Kelola dan Restrukturisasi BUMN",
+  "category": "BUMN",
+  "program": "Kabar Utama",
+  "summary": "Ikatan Keluarga Alumni Fikom Unpad menggelar forum diskusi mengenai tata kelola dan restrukturisasi perusahaan BUMN, digagas di bawah kepengurusan Ketua Umum Hendri Satrio.",
+  "takeaway": "Topik restrukturisasi dan tata kelola BUMN relevan bagi pembaca ekonomi karena menyangkut efisiensi dan kinerja perusahaan negara."
+ },
+ {
+  "id": "5PA3yueRb54",
+  "title": "CEO Nvidia Soal Distilasi AI oleh China: Itu Persaingan Bisnis",
+  "category": "Teknologi",
+  "program": "OneNews Update",
+  "summary": "CEO Nvidia Jensen Huang menilai praktik distilasi AI oleh perusahaan China, yakni melatih model AI baru dari jawaban AI lain, sebagai bentuk persaingan bisnis yang wajar.",
+  "takeaway": "Pandangan ini penting bagi pembaca karena menyoroti dinamika persaingan industri teknologi AI antara Amerika Serikat dan China yang berpengaruh pada pasar global."
+ },
+ {
   "id": "8Vs5KoAFmVc",
   "title": "Bahlil Lahadalia Genjot Hilirisasi Nasional usai Dilantik",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "FKBI menilai rencana pembukaan rekening bank secara massal berpotensi menghasilkan banyak rekening dormant, di tengah anggaran APBN yang ditaksir mencapai Rp11 triliun.",
   "takeaway": "Menyoal efektivitas kebijakan perbankan yang berisiko memboroskan anggaran negara."
- },
- {
-  "id": "XGzXU5F6o90",
-  "title": "Cukai Vape 2025 Tembus Rp2,8 Triliun",
-  "category": "Makroekonomi",
-  "program": "Dua Sisi",
-  "summary": "Penerimaan cukai rokok elektrik pada 2025 tercatat Rp2,8 triliun, di tengah usulan BNN agar penggunaan vape dilarang total karena disalahgunakan sebagai alat konsumsi narkotika.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut besaran penerimaan cukai negara sekaligus potensi kebijakan pelarangan yang bisa mengguncang industri rokok elektrik."
- },
- {
-  "id": "Q870WQYSNPM",
-  "title": "Menkeu Umumkan Defisit APBN Agustus 2026 Capai Rp240,1 Triliun",
-  "category": "Makroekonomi",
-  "program": "Kabar Siang",
-  "summary": "Menteri Keuangan Suahasil Nazara memaparkan realisasi APBN Agustus 2026 yang mencatat defisit Rp240,1 triliun melalui program APBNKita.",
-  "takeaway": "Angka defisit APBN menjadi indikator penting kesehatan fiskal pemerintah dan acuan bagi pelaku pasar dalam menilai arah kebijakan anggaran ke depan."
  }
 ];

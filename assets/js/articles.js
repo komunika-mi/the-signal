@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bike-akui-rugi-bersih-rp19-18-miliar-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Akui [Rugi] Bersih Rp19,18 Miliar ke Bursa",
+  "deck": "BIKE menanggapi permintaan penjelasan BEI dengan mengungkap rugi bersih Rp19,18 miliar dan memastikan belum ada kontrak baru yang signifikan sejak laporan keuangan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 Oktober 2026",
+  "isoDate": "2026-10-03T17:58:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8027135dac_7e51f41709.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "rugi bersih",
+   "permintaan penjelasan bursa",
+   "Pasar Minggu"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) menyampaikan tanggapan atas surat permintaan penjelasan Bursa Efek Indonesia bernomor S-12642/BEI.PP3/10-2026 tertanggal 1 Oktober 2026, yang ditandatangani Direktur Muhamad Kuswandi dan dikirim melalui sistem elektronik bursa pada 3 Oktober 2026. Dalam surat itu, perseroan mengungkap bahwa berdasarkan laporan keuangan terakhir yang disampaikan ke bursa, BIKE mencatatkan pendapatan neto Rp121,12 miliar namun masih merugi Rp19,18 miliar. Total aset perseroan tercatat Rp98,02 miliar, terdiri dari total liabilitas Rp32,50 miliar dan total ekuitas Rp65,52 miliar. Manajemen menyebut akan memberikan update hasil laporan keuangan konsolidasi dalam beberapa minggu mendatang.",
+   "Perseroan menegaskan belum ada kontrak atau sumber pendapatan baru yang signifikan sejak laporan keuangan terakhir tersebut. Pengembangan usaha disebut masih berjalan bertahap melalui lima arah: pengembangan usaha eksisting, diversifikasi lini usaha, pengembangan usaha berbasis energi dan teknologi, sinergi dengan kelompok usaha, serta penguatan sumber pendanaan. Perseroan juga mengonfirmasi bahwa pemberitaan media mengenai transformasi bisnisnya benar, termasuk penandatanganan nota kesepahaman antara entitas anaknya, PT Ratu Karya, dengan Perumda Pasar Jaya pada 17 September 2026 untuk mempersiapkan kerja sama pengembangan kawasan Pasar Minggu. Perseroan menegaskan nota kesepahaman itu baru kesepahaman awal dan belum berupa kontrak kerja sama yang mengikat.",
+   "Menjawab poin lain dari bursa, BIKE menyatakan tidak ada perkara hukum material yang menjerat perseroan, anak usahanya, maupun anggota direksi dan komisaris yang belum diungkapkan. Perseroan juga menyebut tidak mengetahui adanya informasi atau fakta material lain yang belum diungkapkan yang bisa memengaruhi harga saham atau keputusan investor. Soal pergerakan harga sahamnya sendiri, manajemen menjelaskan itu terbentuk dari mekanisme pasar berdasarkan permintaan dan penawaran, sehingga perseroan tidak bisa memastikan faktor tunggal yang menyebabkan perubahan harga pada periode tertentu."
+  ],
+  "fotoAdegan": "Vendors arranging goods at a traditional wet market under corrugated metal roofing in Jakarta, midday light, no signage visible",
+  "takeaway": "Catatan ini condong negatif karena BIKE mengonfirmasi rugi bersih Rp19,18 miliar tanpa ada kontrak atau sumber pendapatan baru yang bisa menutup celah tersebut, sementara rencana bisnis baru masih dalam tahap evaluasi. Pos yang tersentuh adalah ekuitas, yaitu modal milik pemegang saham: rugi sebesar itu menggerus ekuitas yang tercatat Rp65,52 miliar, setara sekitar 29 persen darinya, dan ini yang biasa diperhatikan pelaku pasar untuk menilai seberapa tebal penyangga keuangan perusahaan sebelum utang menjadi beban berat. Yang perlu dipantau selanjutnya adalah update hasil laporan keuangan konsolidasi yang dijanjikan perseroan dalam beberapa minggu mendatang, serta kelanjutan nota kesepahaman anak usahanya, PT Ratu Karya, dengan Perumda Pasar Jaya soal kawasan Pasar Minggu yang diteken 17 September 2026, karena itu baru sebatas kesepahaman awal dan belum menjadi kontrak kerja sama yang mengikat.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "perpres-baru-jadikan-gemarikan-gerakan-nasional",
   "category": "Industri",
   "title": "Perpres Baru Jadikan Gemarikan Gerakan [Nasional]",

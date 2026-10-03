@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bike-akui-rugi-bersih-rp19-18-miliar-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Akui [Rugi] Bersih Rp19,18 Miliar ke Bursa",
+  "deck": "BIKE menanggapi permintaan penjelasan BEI dengan mengungkap rugi bersih Rp19,18 miliar dan memastikan belum ada kontrak baru yang signifikan sejak laporan keuangan terakhir.",
+  "date": "3 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "rugi bersih",
+   "permintaan penjelasan bursa",
+   "Pasar Minggu"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8027135dac_7e51f41709.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "perpres-baru-jadikan-gemarikan-gerakan-nasional",
   "category": "Industri",
   "title": "Perpres Baru Jadikan Gemarikan Gerakan [Nasional]",
@@ -6485,21 +6501,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469421-spbu-khusus-petani-pertama-di-indonesia-diresmikan-di-merauke-perkuat-dukungan-bbm-subsidi-untuk-produksi-pangan-berkelanjutan"
- },
- {
-  "slug": "ahap-right-issue-rp175-miliar-dilusi-maksimum-41-67",
-  "category": "Aksi Korporasi",
-  "title": "AHAP right issue Rp175 miliar, [dilusi] maksimum 41,67%",
-  "deck": "PT Asuransi Harta Aman Pratama Tbk (AHAP) menawarkan sebanyak-banyaknya 3,5 miliar saham baru lewat rights issue senilai Rp175 miliar; pemegang saham utama pastikan ambil jatahnya.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AHAP",
-   "rights issue",
-   "PMHMETD",
-   "asuransi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/636c68f29f_e1529d26b1.pdf",
-  "sourceLabel": "IDX"
  }
 ];

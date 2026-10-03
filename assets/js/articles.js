@@ -373,6 +373,58 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "emas-teken-transaksi-afiliasi-untuk-tambang-emas-pani",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Teken Transaksi [Afiliasi] untuk Tambang Emas Pani",
+  "deck": "Merdeka Mining Servis, anak usaha PT Merdeka Gold Resources Tbk, meneken perjanjian jasa dengan tiga perusahaan terkendali untuk pengembangan Tambang Emas Pani, efektif 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T21:59:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d222ac7679_694d950db5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "Tambang Emas Pani",
+   "Transaksi Afiliasi",
+   "Merdeka Mining Servis"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) melaporkan bahwa anak usahanya, PT Merdeka Mining Servis (MMS), telah menandatangani Perjanjian Penyediaan Jasa dengan tiga perusahaan sekaligus, yaitu PT Mentari Alam Persada (MAP), PT Pani Industri Nusantara (PIN), dan PT Pani Bersama Tambang (PBT). Ketiga perusahaan itu berkedudukan di Pohuwato, Gorontalo, dan disebut perseroan sebagai Perusahaan Terkendali dalam rangka pengembangan Tambang Emas Pani. Perjanjian ini sudah berlaku efektif sejak 30 September 2026.",
+   "Karena MAP, PIN, dan PBT berstatus Perusahaan Terkendali Perseroan, transaksi ini otomatis masuk kategori Transaksi Afiliasi sekaligus Transaksi Material menurut aturan Otoritas Jasa Keuangan, yakni POJK 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha serta POJK 42/2020 tentang Transaksi Afiliasi dan Benturan Kepentingan. Sesuai Pasal 6 ayat 1 huruf a POJK 17/2020, transaksi semacam ini wajib melibatkan penilai independen, dan perseroan telah menunjuk Kantor Jasa Penilai Publik Iskandar & Rekan untuk menilai kewajaran transaksi tersebut.",
+   "Dokumen keterbukaan ini menegaskan bahwa transaksi sudah berjalan sejak akhir September 2026, namun rincian nilai transaksi dan ruang lingkup jasa yang disediakan MMS kepada ketiga mitra tersebut tidak dimuat dalam bagian yang dipublikasikan ini. Keterbukaan Informasi diterbitkan di Jakarta pada 2 Oktober 2026."
+  ],
+  "fotoAdegan": "Wide shot of a terraced open-pit gold mine carved into a green tropical hillside, haul trucks working under an overcast sky.",
+  "takeaway": "Laporan ini netral bagi pemegang saham, karena transaksinya berlangsung di dalam lingkup perusahaan terkendali EMAS sendiri untuk mendukung proyek yang memang sudah berjalan, bukan transaksi baru dengan pihak luar yang mengubah peta kendali atau menyedot kas keluar. Yang tersentuh di sini terutama arus kas operasional kelompok usaha, karena pembayaran jasa antar anak usaha tetap tercatat dalam konsolidasi EMAS meski uangnya berpindah dari satu entitas ke entitas lain dalam grup yang sama. Penunjukan penilai independen, KJPP Iskandar & Rekan, adalah langkah wajib untuk memastikan harga jasa antar afiliasi ini tidak merugikan pemegang saham minoritas, jadi perlu dipantau apakah hasil penilaian kewajaran itu nantinya diumumkan terpisah. Yang perlu ditunggu selanjutnya adalah publikasi nilai transaksi dan hasil opini kewajaran dari penilai independen tersebut, karena keterbukaan informasi ini belum mencantumkan angkanya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tlkm-ganti-kepala-unit-audit-internal-umar-syahid-diganti-deni",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Ganti [Kepala] Unit Audit Internal, Umar Syahid Diganti Deni",
+  "deck": "Telkom menunjuk Deni Ratno Tama sebagai Kepala Unit Audit Internal baru menggantikan Umar Syahid yang sebelumnya menjabat sementara, efektif 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T21:17:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4fe66b4ab1_0ec68201be.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "audit internal",
+   "tata kelola perusahaan",
+   "Telkom"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk mengumumkan pergantian Kepala Unit Audit Internal perusahaan yang berlaku efektif 1 Oktober 2026. Deni Ratno Tama resmi menjabat sebagai Senior Vice President (SVP) Internal Audit, menggantikan Umar Syahid yang sebelumnya mengisi posisi tersebut secara sementara (pejabat pengganti sementara).",
+   "Perusahaan menyampaikan pemberitahuan ini kepada Otoritas Jasa Keuangan pada 2 Oktober 2026, sesuai kewajiban dalam Pasal 11 Peraturan OJK Nomor 56/POJK.04/2015 tentang Pembentukan dan Pedoman Penyusunan Piagam Unit Audit Internal. Aturan itu mengharuskan setiap pengangkatan, pergantian, atau pemberhentian Kepala Unit Audit Internal dilaporkan ke regulator. Surat pemberitahuan tersebut ditandatangani oleh Edie Kurniawan selaku SVP Corporate Secretary Telkom, sementara pengumuman keterbukaan informasi ke bursa ditandatangani oleh Ambar Permana, VP Corporate Office Support.",
+   "Dokumen tidak merinci alasan pergantian maupun latar belakang karier Deni Ratno Tama secara lebih jauh. Unit Audit Internal bertugas mengawasi pengendalian internal perusahaan, termasuk kepatuhan dan keandalan pelaporan keuangan, sehingga posisi ini melapor langsung ke manajemen puncak dan menjadi perhatian regulator pasar modal."
+  ],
+  "fotoAdegan": "Employees reviewing paperwork around a table in a modern corporate office, Jakarta high-rise windows in the background, daytime",
+  "takeaway": "Laporan ini netral bagi Telkom, sebab isinya murni pergantian personel di fungsi pengawasan internal dan tidak mengubah struktur modal, arus kas, maupun hak pemegang saham. Unit Audit Internal adalah fungsi yang memeriksa apakah pengendalian keuangan dan kepatuhan perusahaan berjalan benar, jadi pergantian pemimpinnya relevan bagi tata kelola tapi tidak langsung menyentuh pos seperti ekuitas, laba per saham, atau beban bunga. Yang perlu dicermati selanjutnya adalah apakah pergantian ini diikuti perubahan di jajaran Komite Audit atau tercermin dalam evaluasi pengendalian internal pada laporan tahunan Telkom berikutnya, karena dokumen ini sendiri tidak menyebut agenda lanjutan atau tenggat baru.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "vtny-beri-penjelasan-ke-bei-soal-opini-audit-pengecualian",
   "category": "Aksi Korporasi",
   "title": "VTNY Beri Penjelasan ke BEI soal Opini Audit [Pengecualian]",
@@ -845,6 +897,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "dr-waran-enrg-disesuaikan-efektif-5-oktober",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran [ENRG] Disesuaikan, Efektif 5 Oktober",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan dua waran terstruktur bersandar saham ENRG, berlaku 5 Oktober 2026, menyusul rights issue ENRG senilai Rp4,12 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:54:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2988f9614_571a9cd524.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "ENRG",
+   "waran terstruktur",
+   "rights issue"
+  ],
+  "body": [
+   "RHB Sekuritas Indonesia, penerbit waran terstruktur dengan kode emiten DR di Bursa Efek Indonesia, mengumumkan penyesuaian dua waran terstrukturnya yang bersandar pada saham PT Energi Mega Persada Tbk (ENRG), yaitu ENRGDRCX6A dan ENRGDRCH7A. Penyesuaian berlaku efektif 5 Oktober 2026. Untuk ENRGDRCX6A, rasio konversi berubah dari 9 waran berbanding 1 saham menjadi 6,6458 waran berbanding 1 saham, sementara harga pelaksanaannya turun dari Rp1.760 menjadi Rp1.300 per unit. Untuk ENRGDRCH7A, rasio konversi berubah dari 13 banding 1 menjadi 9,5995 banding 1, dengan harga pelaksanaan turun dari Rp2.040 menjadi Rp1.506 per unit.",
+   "Penyesuaian ini dipicu oleh rencana penambahan modal dengan hak memesan efek terlebih dahulu (rights issue) keempat yang dilakukan ENRG. Perseroan menerbitkan 13.282.271.875 saham baru seri B dengan nilai nominal Rp100 per saham, setara 33,33 persen dari total saham ENRG setelah penambahan modal, dengan harga pelaksanaan rights Rp310 per saham. Total dana yang akan diterima ENRG dari aksi ini mencapai Rp4.117.504.281.250, atau sekitar Rp4,12 triliun. RUPSLB yang menyetujui aksi ini sudah digelar 5 Juni 2026, dengan tanggal efektif 24 September 2026, periode perdagangan dan pelaksanaan HMETD berlangsung 8 sampai 21 Oktober 2026, serta penjatahan pemesanan saham tambahan pada 26 Oktober 2026.",
+   "Secara teknis, ENRGDRCX6A adalah waran call tipe Eropa dengan penyelesaian tunai sebanyak 250 juta unit, tercatat sejak 27 Juli 2026 dan jatuh tempo pelaksanaan pada 26 November 2026. ENRGDRCH7A berjumlah 300 juta unit, tercatat sejak 11 September 2026 dengan jatuh tempo 29 Maret 2027. Nilai penyelesaian tunai keduanya dihitung dari selisih rata-rata harga penutupan saham ENRG di pasar reguler selama lima hari bursa sebelum tanggal pelaksanaan, dikurangi harga pelaksanaan, lalu dibagi rasio pelaksanaan."
+  ],
+  "fotoAdegan": "Technicians checking valves and pipelines at an onshore oil and gas facility, morning haze, rural Indonesia landscape",
+  "takeaway": "Laporan ini netral bagi RHB Sekuritas selaku penerbit waran, karena penyesuaian rasio dan harga pelaksanaan murni mengikuti rumus baku di prospektus, bukan keputusan bisnis baru, meski bagi ENRG sendiri rights issue ini menambah jumlah saham beredar sebesar 33,33 persen. Penambahan saham beredar itulah alasan waran harus disesuaikan, karena semakin banyak saham baru yang beredar, semakin kecil porsi keuntungan yang melekat pada tiap saham lama, sehingga laba per saham ENRG berpotensi terdilusi dan nilai waran yang mengacu pada harga saham itu perlu disetel ulang agar nilai ekonominya tetap setara sebelum dan sesudah aksi korporasi. Pos yang tersentuh bukan kinerja ENRG secara langsung, melainkan mekanisme derivatif, yaitu rasio konversi dan harga pelaksanaan waran yang diturunkan agar pemegang waran tidak dirugikan oleh pengenceran saham. Yang perlu dipantau berikutnya adalah tanggal efektif penyesuaian pada 5 Oktober 2026 dan penjatahan saham tambahan rights issue ENRG pada 26 Oktober 2026, sebelum dua waran ini akhirnya jatuh tempo dan dieksekusi pada 26 November 2026 serta 29 Maret 2027.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "sona-gelar-public-expose-insidentil-usai-surat-ojk",
   "category": "Aksi Korporasi",
   "title": "SONA Gelar [Public Expose] Insidentil usai Surat OJK",
@@ -871,6 +949,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "dr-pelaksanaan-8-waran-terstruktur-2-cair-ke-investor",
+  "category": "Aksi Korporasi",
+  "title": "DR: [Pelaksanaan] 8 Waran Terstruktur, 2 Cair ke Investor",
+  "deck": "RHB Sekuritas mengoreksi pengumuman pelaksanaan delapan waran terstruktur BBCA, BMRI, BBRI, KIJA, KPIG, BKSL, MBMA, dan INCO pada 2 Oktober 2026. Enam berakhir tanpa nilai, dua membayar pemegangnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:35:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/79ed10d2a3_754addf89f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "BEI"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia, penerbit waran terstruktur dengan kode DR, mengoreksi suratnya sebelumnya bernomor 007/EQD/RHB/10/2026 tertanggal 2 Oktober 2026. Mengacu pada prospektus 18 Oktober 2024 dan term sheet 18 Juni 2026, perusahaan mengumumkan delapan waran terstruktur telah dilaksanakan (exercise) pada 2 Oktober 2026, yakni put BBCADRPV6A (harga pelaksanaan 5.750, jumlah 150 juta unit), put BMRIDRPV6A (4.080, 100 juta unit), put BBRIDRPV6A (2.560, 100 juta unit), call KIJADRCV6A (130, 300 juta unit), call KPIGDRCV6A (102, 500 juta unit), call BKSLDRCV6A (110, 600 juta unit), call MBMADRCV6A (550, 300 juta unit), dan call INCODRCV6A (5.500, 150 juta unit). Sejak tanggal itu, kedelapan waran tidak lagi bisa diperdagangkan di Bursa Efek Indonesia.",
+   "Enam dari delapan waran berakhir tanpa nilai bagi pemegangnya karena harga penyelesaian, yakni rata-rata harga penutupan saham acuan selama lima hari bursa sebelum tanggal pelaksanaan, berada di sisi yang merugikan pemegang waran dibanding harga pelaksanaannya. Put BBCADRPV6A diselesaikan di harga 6.140 melawan harga pelaksanaan 5.750, put BBRIDRPV6A di 3.140 melawan 2.560, call BKSLDRCV6A di 57 melawan 110, call KPIGDRCV6A di 46 melawan 102, call MBMADRCV6A di 492 melawan 550, dan call INCODRCV6A di 4.342 melawan 5.500. Pada keenam seri ini, rumus jumlah penyelesaian tunai menghasilkan angka negatif sehingga pemegang waran tidak berhak menerima pembayaran apa pun.",
+   "Dua waran lainnya berakhir dengan nilai positif bagi pemegangnya. Call KIJADRCV6A diselesaikan di harga 165 melawan harga pelaksanaan 130 dengan rasio pelaksanaan 2,0, menghasilkan jumlah penyelesaian tunai 17,5 per waran. Put BMRIDRPV6A diselesaikan di harga 4.030 melawan harga pelaksanaan 4.080 dengan rasio 7,0, menghasilkan 7,14 per waran. Untuk kedua seri ini, pembayaran akan dilakukan pada hari bursa ketiga sejak tanggal pelaksanaan, setelah KPEI menyalurkan dana ke KSEI, yang kemudian meneruskannya ke masing-masing pemegang rekening efek."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's SCBD financial district at dusk, wide street-level view, warm reflected light",
+  "takeaway": "Laporan ini netral, baik bagi RHB Sekuritas selaku penerbit maupun bagi delapan emiten acuannya, karena hasilnya murni keluaran rumus penyelesaian yang sudah dipatok di prospektus, bukan keputusan bisnis baru dari siapa pun. Yang tersentuh di sini bukan laporan keuangan emiten, melainkan arus kas pemegang waran: enam dari delapan waran ini kedaluwarsa tanpa nilai karena harga pasar saham acuannya bergerak ke arah yang merugikan pemegang waran, sementara dua lainnya, yaitu KIJADRCV6A dan BMRIDRPV6A, justru memberi uang tunai ke pemegangnya. Yang perlu dipantau pemegang kedua waran yang cair itu adalah tanggal pembayarannya, yakni hari bursa ketiga sejak 2 Oktober 2026, saat dana dari KPEI diteruskan lewat KSEI ke rekening efek masing-masing investor.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "dmnd-angkat-leonard-jadi-komisaris-independen-baru",
   "category": "Aksi Korporasi",
   "title": "DMND angkat [Leonard] jadi komisaris independen baru",
@@ -894,6 +998,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers sorting boxes of packaged snack products on a conveyor belt inside a bright food distribution warehouse, Jakarta",
   "takeaway": "Perubahan ini netral bagi fundamental DMND karena tidak ada dampak langsung ke kinerja keuangan, tapi tetap patut dicatat karena memperkuat struktur pengawasan internal perseroan. Tidak ada pos keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh di laporan ini, yang berubah adalah komposisi pengawas, dengan enam dari tujuh komisaris kini berstatus independen, jauh di atas batas minimal 30 persen yang diwajibkan OJK. Komisaris independen penting diawasi pasar karena mereka tidak terafiliasi dengan pemegang saham pengendali atau manajemen, sehingga idealnya membuat pengawasan terhadap direksi lebih berimbang. Yang perlu dipantau selanjutnya adalah kinerja pengawasan dewan komisaris yang baru ini sepanjang masa jabatan hingga RUPS Tahunan 2029, serta apakah ada perubahan susunan direksi pada laporan keterbukaan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "amrt-benarkan-kebakaran-gerai-alfamart-di-gambut-banjar-kebakaran",
+  "category": "Aksi Korporasi",
+  "title": "AMRT Benarkan Kebakaran Gerai Alfamart di Gambut, Banjar [kebakaran]",
+  "deck": "Alfamart menjelaskan ke BEI soal kebakaran gerai di Gambut, Banjar, Kalimantan Selatan pada 29 September 2026, yang diduga dipicu pembeli yang mengancam lalu membakar gerai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:25:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a7430dd0bf_6ef0cf038c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMRT",
+  "tags": [
+   "AMRT",
+   "Alfamart",
+   "kebakaran",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Sumber Alfaria Trijaya Tbk (AMRT) menjelaskan kepada Bursa Efek Indonesia soal pemberitaan media Warta Banjar berjudul 'Warga Amankan Sepeda Terduga Pelaku, Alfamart Jalan A Yani Km 13 Gambut Banjar Terbakar' tanggal 29 September 2026. Penjelasan ini merespons surat permintaan klarifikasi BEI nomor S-12632/BEI.PP2/10-2026 tanggal 1 Oktober 2026. Dalam surat balasan bernomor 025/SAT/CS-BEV10-2026 yang ditandatangani Corporate Secretary Tomin Widian pada 2 Oktober 2026, perusahaan membenarkan bahwa pada 29 September 2026 sekitar pukul 20.40 WITA terjadi kebakaran di gerai Alfamart Jalan A. Yani, Kecamatan Gambut, Kabupaten Banjar, Kalimantan Selatan.",
+   "Menurut informasi awal yang diterima perusahaan, kejadian diduga dipicu oleh seseorang yang datang untuk berbelanja, lalu mengancam dan membakar sebagian produk di dalam gerai menggunakan insektisida aerosol dan korek api. Akibatnya, gerai mengalami kerusakan beserta aset dan barang di dalamnya. AMRT telah melaporkan peristiwa itu ke Polsek Gambut/Polres Banjar pada 30 September 2026 sekitar pukul 02.00 WITA, dan kasus tersebut masih dalam proses penyelidikan kepolisian.",
+   "Perusahaan menegaskan kejadian ini tidak menimbulkan dampak material terhadap kegiatan usaha dan operasional AMRT secara keseluruhan, dan menyatakan tidak ada informasi atau kejadian penting lain yang material bagi kelangsungan usaha maupun harga saham perusahaan."
+  ],
+  "fotoAdegan": "A small neighborhood convenience store with a smoke-stained, charred facade at night, broken glass and debris near the entrance, street lamp reflecting on wet pavement",
+  "takeaway": "Laporan ini netral bagi fundamental AMRT, karena perusahaan sendiri menegaskan kebakaran di satu gerai Gambut tidak berdampak material terhadap operasional maupun keuangan secara keseluruhan, mengingat AMRT mengoperasikan ribuan gerai Alfamart di seluruh Indonesia. Pos yang tersentuh sebenarnya hanya kerugian aset tetap dan biaya pemulihan satu gerai, bukan laba atau arus kas perusahaan secara agregat, sehingga nilainya kecil dibanding skala bisnis AMRT secara nasional. Yang perlu dipantau berikutnya adalah hasil penyelidikan Polsek Gambut/Polres Banjar yang masih berjalan sejak laporan polisi pada 30 September 2026, termasuk apakah ditemukan tersangka dan apakah AMRT akan mengungkap rincian nilai kerugian setelah proses hukum berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rupslb-dmnd-sahkan-leonard-dan-ubah-kbli-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB DMND Sahkan Leonard dan Ubah [KBLI] Anggaran Dasar",
+  "deck": "Pemegang saham DMND menyetujui pengangkatan Leonard sebagai komisaris independen dan penyesuaian klasifikasi usaha di anggaran dasar dengan dukungan suara hampir bulat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:24:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/00ddd3517c_0956c4d532.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMND",
+  "tags": [
+   "DMND",
+   "RUPSLB",
+   "Komisaris Independen",
+   "KBLI"
+  ],
+  "body": [
+   "PT Diamond Food Indonesia Tbk. (DMND) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 30 September 2026 di Jakarta, dihadiri pemegang saham yang mewakili 8.396.529.475 saham atau 88,68 persen dari total 9.468.359.000 saham dengan hak suara sah perseroan. Rapat dipimpin oleh Chen Tsen Nan selaku Komisaris Utama. Dua agenda diputuskan lewat pemungutan suara dengan hasil nyaris bulat, yakni 8.396.529.375 saham atau 99,99999881 persen menyatakan setuju pada masing-masing agenda, berbanding hanya 100 saham yang menolak dan tanpa suara abstain.",
+   "Pada agenda pertama, pemegang saham menyetujui pengangkatan Leonard sebagai Komisaris Independen baru, berlaku sejak penutupan rapat hingga RUPS Tahunan 2029. Dengan masuknya Leonard, susunan Dewan Komisaris Perseroan kini berjumlah tujuh orang, terdiri dari Chen Tsen Nan sebagai Komisaris Utama serta enam Komisaris Independen, yaitu Lim Beng Lin, C. Tedjo Endriyarto, Istini Tatiek Siddharta, Nakrin Narula, Wu Qianfei, dan Leonard, dengan masa jabatan masing-masing berakhir pada RUPS Tahunan 2028 atau 2029 sesuai periode yang ditetapkan.",
+   "Pada agenda kedua, pemegang saham menyetujui perubahan Pasal 3 Anggaran Dasar Perseroan mengenai maksud, tujuan, dan kegiatan usaha, untuk menyesuaikannya dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) edisi 2025. Direksi diberi kuasa untuk menuangkan keputusan ini dalam akta notaris, memohonkan persetujuan ke Menteri Hukum, dan mendaftarkannya dalam Daftar Perseroan sesuai ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a hotel conference hall set up for a corporate shareholders meeting, soft ambient lighting",
+  "takeaway": "Secara fundamental, hasil RUPSLB ini netral bagi DMND karena penambahan komisaris independen dan penyesuaian klasifikasi usaha tidak mengubah arus kas, modal, atau struktur kepemilikan perseroan. Yang tersentuh hanya sisi tata kelola, bukan pos kinerja seperti ekuitas atau laba per saham: mayoritas Dewan Komisaris kini diisi komisaris independen, yang secara teori memperkuat pengawasan terhadap manajemen, sementara perubahan Pasal 3 Anggaran Dasar hanya menyesuaikan kode klasifikasi usaha resmi dengan standar KBLI 2025 tanpa mengubah lini bisnis perseroan. Yang perlu dipantau berikutnya adalah proses notaris menuangkan hasil RUPS ini ke akta resmi serta pengajuan persetujuan perubahan Anggaran Dasar ke Menteri Hukum, karena perubahan baru resmi berlaku setelah disetujui kementerian tersebut.",
   "sentimen": "netral"
  },
  {
@@ -971,6 +1127,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Interior of a busy smartphone retail store with rows of display counters, staff assisting customers, bright fluorescent lighting, distant blurred screens",
   "takeaway": "Laporan ini netral bagi ERAA karena penambahan saham terjadi lewat program kompensasi karyawan MESOP, bukan pembelian di pasar terbuka yang biasa dibaca sebagai sinyal keyakinan direksi terhadap saham, dan jumlahnya masih sangat kecil dibanding total saham ERAA yang beredar. Yang tersentuh di sini adalah jumlah saham beredar perusahaan: setiap kali opsi MESOP dieksekusi, perusahaan menerbitkan saham baru, sehingga porsi kepemilikan pemegang saham lama, termasuk laba yang dibagi per lembar saham, bisa sedikit terkikis kalau proses ini berlangsung dalam skala besar. Hak suara Sintawati Halim sendiri naik dari 0,07% menjadi 0,09%, kenaikan yang terlalu tipis untuk mengubah siapa yang mengendalikan perusahaan. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris ERAA lain turut mengeksekusi opsi MESOP mereka dalam waktu dekat, karena akumulasi dari banyak eksekutif baru akan terasa dampaknya pada total saham beredar perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-pangkas-harga-pelaksanaan-waran-enrg-usai-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ZP Pangkas Harga Pelaksanaan [Waran] ENRG Usai Rights Issue",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi dua waran terstruktur ENRG menyusul rights issue perseroan, efektif 5 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:08:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2df44a4cb5_3497348209.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "ENRG",
+   "waran terstruktur",
+   "rights issue"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, penerbit dengan kode ZP, mengumumkan penyesuaian ketentuan dua waran terstruktur yang menggunakan saham PT Energi Mega Persada Tbk (ENRG) sebagai acuan, yaitu ENRGZPCV6A dan ENRGZPCF7A. Penyesuaian ini dilakukan menyusul rights issue atau Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu III yang diumumkan ENRG pada 28 September 2026.",
+   "Untuk ENRGZPCV6A, rasio konversi berubah dari 9 banding 1 menjadi 6,6458 banding 1, sementara harga pelaksanaannya turun dari Rp1.250 menjadi Rp923 per saham. Untuk ENRGZPCF7A, rasio konversi bergeser dari 10 banding 1 menjadi 7,3843 banding 1, dengan harga pelaksanaan turun dari Rp2.100 menjadi Rp1.551. Penyesuaian berlaku efektif mulai 5 Oktober 2026 untuk pasar reguler dan negosiasi, serta 7 Oktober 2026 untuk pasar tunai.",
+   "Perhitungan baru ini memakai tiga angka dari rights issue ENRG: harga saham ENRG saat cum-rights issue sebesar Rp1.440, harga pelaksanaan rights issue Rp310 per saham, dan rasio 0,5 yang berarti setiap pemegang saham lama berhak membeli saham baru senilai setengah dari jumlah saham yang dimilikinya. ENRGZPCV6A akan jatuh tempo pada 30 Oktober 2026, sedangkan ENRGZPCF7A baru jatuh tempo 29 Januari 2027. Kedua waran masing-masing diterbitkan sebanyak 500 juta unit, dengan Maybank Sekuritas sendiri berperan sebagai penyedia likuiditas di pasar."
+  ],
+  "fotoAdegan": "Wide shot of a busy Jakarta brokerage floor, traders at desks with blurred computer screens in the background, daytime office lighting.",
+  "takeaway": "Laporan ini netral bagi ENRG maupun Maybank Sekuritas, sebab penyesuaian angka ini murni hasil rumus baku yang sudah disepakati sejak waran diterbitkan, dipicu oleh aksi korporasi ENRG, bukan keputusan bisnis baru dari penerbit waran. Yang tersentuh adalah nilai ekonomis bagi pemegang waran terstruktur, yaitu produk turunan yang dijual Maybank dengan saham ENRG sebagai acuan harga, bukan saham ENRG itu sendiri: turunnya harga pelaksanaan dan berubahnya rasio konversi membuat jumlah waran yang dibutuhkan untuk ditukar menjadi satu saham ENRG ikut berubah, sehingga nilai potensial waran bergeser mengikuti penyesuaian ini. Pemegang ENRGZPCV6A perlu mencermati tanggal pelaksanaan pada 30 Oktober 2026, hanya sekitar tiga pekan dari penyesuaian ini, sementara ENRGZPCF7A baru jatuh tempo 29 Januari 2027. Yang lebih menentukan arah ke depan sebenarnya adalah kelanjutan rights issue ENRG sendiri, termasuk realisasi penyerapan dana dari harga pelaksanaan Rp310 per saham baru yang menjadi basis penyesuaian waran ini.",
   "sentimen": "netral"
  },
  {
@@ -1831,6 +2013,58 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "eraa-direksi-hasan-aula-tambah-1-49-juta-saham-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Direksi Hasan Aula Tambah 1,49 Juta Saham [MESOP]",
+  "deck": "Direktur Hasan Aula menambah 1,49 juta saham ERAA lewat pencairan opsi program MESOP, hak suaranya di perseroan naik tipis dari 0,05% menjadi 0,06%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T10:56:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-2947-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "Erajaya Swasembada",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Hasan Aula, anggota Direksi Erajaya Swasembada Tbk (ERAA), melaporkan ke Otoritas Jasa Keuangan pada 2 Oktober 2026 bahwa kepemilikan sahamnya di perseroan bertambah 1.491.987 lembar. Dengan tambahan ini, jumlah saham yang ia pegang naik dari 7.741.987 unit menjadi 9.233.974 unit saham biasa, atau setara kenaikan 19,27 persen dari jumlah sebelumnya.",
+   "Dokumen keterbukaan menyebut jenis transaksinya tercatat sebagai 'lainnya' dengan status kepemilikan tidak langsung, tanggal transaksi 1 Oktober 2026, dan tujuan transaksi berupa Program MESOP (opsi saham karyawan untuk manajemen). Kolom harga pelaksanaan dalam dokumen tidak diisi. Akibat penambahan ini, hak suara Hasan Aula di ERAA naik dari 0,05 persen menjadi 0,06 persen.",
+   "Laporan ini menyusul dua laporan serupa dari direksi ERAA dalam sepekan terakhir yang juga berasal dari pencairan opsi Program MESOP, salah satunya tercatat menambah 2,24 juta saham. Dengan laporan terbaru ini, jumlah saham baru yang diketahui mengalir ke direksi dari program insentif yang sama mencapai sedikitnya 3,73 juta lembar."
+  ],
+  "fotoAdegan": "Rows of smartphones and gadgets displayed under bright lights in a busy retail store aisle in Jakarta",
+  "takeaway": "Laporan ini netral bagi ERAA karena sumber penambahan sahamnya adalah program insentif karyawan (MESOP), bukan pembelian di pasar terbuka yang biasa dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan, dan hak suara Hasan Aula pun cuma naik tipis dari 0,05 persen menjadi 0,06 persen. Yang tersentuh di sini adalah jumlah saham beredar perseroan, yang bertambah sedikit karena opsi karyawan dicairkan menjadi saham baru, sesuatu yang secara teori bisa menipiskan laba per saham meski dalam skala kecil seperti ini dampaknya minim. Pelaku pasar perlu mencermati apakah direksi lain ERAA juga akan melaporkan pencairan serupa, karena ini sudah laporan ketiga dari program MESOP yang sama dalam sepekan terakhir dengan total saham baru yang diketahui sudah mendekati 3,73 juta lembar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "eraa-joy-wahjudi-tambah-1-9-juta-saham-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Joy Wahjudi Tambah 1,9 Juta Saham [MESOP]",
+  "deck": "Direksi Erajaya Swasembada, Joy Wahjudi, menambah kepemilikan sahamnya lewat pencairan opsi program MESOP, melanjutkan rangkaian laporan serupa dari direksi lain pekan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T10:52:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-8245-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "Erajaya Swasembada",
+   "kepemilikan saham direksi"
+  ],
+  "body": [
+   "Direksi Erajaya Swasembada Tbk (ERAA), Joy Wahjudi, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan bertambah dari 3.312.907 lembar menjadi 5.217.412 lembar, setelah transaksi pada 1 Oktober 2026 menambah 1.904.505 lembar. Kenaikan ini setara 57,49 persen dari jumlah saham yang sebelumnya dia pegang, sementara hak suaranya di ERAA naik dari 0,02 persen menjadi 0,03 persen.",
+   "Dalam laporan tersebut, jenis transaksi dicatat sebagai 'lainnya' dengan tujuan pencairan Program MESOP, yakni opsi saham untuk karyawan, dan status kepemilikan sahamnya tercatat sebagai kepemilikan tidak langsung. Saham yang bertambah berupa saham biasa, dan kolom harga dalam laporan tidak terisi karena penambahan ini berasal dari pelaksanaan opsi, bukan transaksi jual beli di pasar terbuka.",
+   "Laporan ini menyusul sejumlah laporan serupa dari direksi Erajaya lain dalam beberapa hari terakhir yang juga melaporkan penambahan saham lewat program MESOP, termasuk laporan dengan penambahan 1,49 juta lembar dan 2,24 juta lembar saham."
+  ],
+  "fotoAdegan": "Warehouse staff moving boxed smartphones on a cart through a retail distribution aisle, blurred motion, warm indoor lighting",
+  "takeaway": "Laporan ini netral bagi Erajaya karena penambahan saham Joy Wahjudi berasal dari pencairan opsi program kompensasi karyawan MESOP, bukan pembelian di pasar terbuka yang biasanya dibaca sebagai sinyal keyakinan pribadi direksi terhadap sahamnya. Pencairan opsi semacam ini menambah jumlah saham beredar emiten, sehingga laba per saham yang dibagi ke setiap lembar saham bisa sedikit terdilusi karena keuntungan yang sama kini dibagi ke lebih banyak lembar saham. Dengan laporan Joy Wahjudi ini, total saham yang tercatat dicairkan lewat program MESOP Erajaya dalam rangkaian laporan beberapa hari terakhir sudah mencapai sedikitnya 5,63 juta lembar dari tiga laporan yang angkanya diketahui, yaitu 1,49 juta, 2,24 juta, dan 1,9 juta lembar, ditambah satu laporan lain yang jumlahnya belum terungkap. Yang perlu dipantau selanjutnya adalah apakah direksi Erajaya lain masih akan menyusul melaporkan pencairan opsi serupa, karena pola ini muncul berulang dalam waktu berdekatan sejak awal Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "smfp-siapkan-rp2-95-triliun-untuk-lunasi-dua-obligasi",
   "category": "Aksi Korporasi",
   "title": "SMFP Siapkan [Rp2,95 Triliun] untuk Lunasi Dua Obligasi",
@@ -1854,6 +2088,136 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Glass-fronted financial office building in Jakarta photographed from a low angle against a daytime sky, blurred traffic passing in the foreground",
   "takeaway": "Laporan ini netral bagi fundamental SMF karena hanya menegaskan kepatuhan rutin membayar utang jatuh tempo, bukan perubahan baru pada kondisi keuangan perusahaan. Yang tersentuh adalah arus kas dan tingkat utang: dana sekitar Rp2,95 triliun yang kini tersimpan di deposito akan keluar sebagai kas untuk menutup pokok dan bunga obligasi, sehingga total utang obligasi SMF berkurang begitu pembayaran terlaksana. Pelaku pasar, terutama pemegang obligasi, memperhatikan hal ini karena kesiapan dana sejak dini mengurangi risiko gagal bayar menjelang tanggal jatuh tempo. Yang perlu dipantau selanjutnya adalah apakah pembayaran benar-benar terealisasi tepat waktu pada 17 November 2026 untuk SMFP06CN2 dan 26 November 2026 untuk SMFP07BCN7, sesuai konfirmasi dari wali amanat PT Bank Mandiri (Persero) Tbk.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "eraa-direksi-djohan-sutanto-tambah-975-589-saham-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Direksi Djohan Sutanto Tambah [975.589] Saham MESOP",
+  "deck": "Direktur Djohan Sutanto menambah 975.589 lembar saham ERAA lewat program opsi karyawan MESOP, pelaporan kelima dari jajaran direksi dalam sepekan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T10:33:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-5456-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direktur Erajaya Swasembada (ERAA), Djohan Sutanto, melaporkan kepada Otoritas Jasa Keuangan pada 2 Oktober 2026 bahwa kepemilikan sahamnya di perusahaan bertambah dari 1.775.590 lembar menjadi 2.751.179 lembar, naik 975.589 lembar. Transaksi tercatat pada 1 Oktober 2026 dengan tujuan program MESOP, yaitu program kompensasi saham untuk karyawan dan manajemen, sehingga dokumen tidak menyebutkan harga transaksi karena saham ini berasal dari pencairan opsi, bukan pembelian tunai di pasar.",
+   "Kenaikan ini mengubah hak suara Djohan Sutanto di ERAA dari 0,01 persen menjadi 0,02 persen, masih sangat kecil dibanding total saham beredar perusahaan. Dari sisi pelapor sendiri, penambahan ini setara 54,94 persen dari saham yang sebelumnya ia miliki, namun secara nilai absolut tetap tergolong kecil karena basis kepemilikannya sendiri juga kecil.",
+   "Laporan ini melengkapi rangkaian laporan serupa yang muncul dalam sepekan terakhir dari jajaran direksi ERAA yang mencairkan opsi MESOP, termasuk Hasan Aula yang menambah 1,49 juta lembar, Joy Wahjudi yang menambah 1,9 juta lembar, serta direksi lain yang menambah 2,24 juta lembar. Dengan tambahan dari Djohan Sutanto, total saham yang dialihkan ke jajaran direksi lewat program ini dalam sepekan terakhir mencapai sedikitnya 6,6 juta lembar."
+  ],
+  "fotoAdegan": "Workers arranging smartphone boxes on shelves inside a busy electronics retail store, bright fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi ERAA, karena penambahan saham berasal dari pencairan opsi karyawan lewat program MESOP, bukan pembelian di pasar terbuka yang biasa dibaca sebagai sinyal keyakinan direksi, dan perubahan hak suaranya pun cuma dari 0,01 persen menjadi 0,02 persen. Pos yang tersentuh adalah jumlah saham beredar perusahaan, yang bertambah setiap kali opsi MESOP dicairkan, sehingga laba per saham, yaitu bagian laba perusahaan yang jatuh ke setiap lembar saham, bisa sedikit terdilusi karena kue laba yang sama kini dibagi ke lebih banyak lembar. Laporan ini juga bagian dari rangkaian, karena dalam sepekan terakhir sudah lima direksi ERAA melaporkan pencairan MESOP serupa dengan total sedikitnya 6,6 juta lembar saham baru yang beredar. Yang perlu dipantau berikutnya adalah apakah masih ada direksi atau komisaris lain yang menyusul melaporkan pencairan opsi serupa, karena pola pelaporan beruntun ini menunjukkan program MESOP ERAA sedang memasuki periode pencairan massal.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "drma-komisaris-jual-125-000-saham-hak-suara-tetap-1-69",
+  "category": "Aksi Korporasi",
+  "title": "DRMA: Komisaris [Jual] 125.000 Saham, Hak Suara Tetap 1,69%",
+  "deck": "Komisaris DRMA menjual 125.000 saham tidak langsung senilai sekitar Rp115,3 juta pada 28-29 September, namun hak suaranya tetap 1,69 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T10:10:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6079-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DRMA",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Komisaris PT Dharma Polimetal Tbk (DRMA), Noel Aelyo Laras Kusuma Negara, melaporkan ke Otoritas Jasa Keuangan bahwa dirinya menjual 125.000 saham DRMA yang dikuasainya secara tidak langsung. Dengan penjualan ini, jumlah saham yang dimilikinya turun dari 79.650.000 lembar menjadi 79.525.000 lembar, sementara hak suaranya di perusahaan tetap berada di level 1,69 persen.",
+   "Penjualan dilakukan dalam tiga transaksi pada 28 dan 29 September 2026. Transaksi pertama sebanyak 85.000 saham biasa terjual pada 28 September dengan harga Rp925 per lembar. Sehari kemudian, ia melepas 10.400 saham dengan harga Rp920 per lembar, lalu 29.600 saham lagi dengan harga Rp915 per lembar. Total nilai dari tiga transaksi itu sekitar Rp115,3 juta, dengan tujuan transaksi yang dicatat dalam laporan ke OJK sebagai divestasi.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka. Transaksi ini terjadi tidak lama setelah Noel tercatat membeli 80.000 saham DRMA pada akhir September dengan harga Rp970 per lembar, transaksi yang sebelumnya juga dinilai netral oleh redaksi."
+  ],
+  "fotoAdegan": "Workers assembling automotive metal components on an industrial production line, sparks from welding equipment, factory lighting.",
+  "takeaway": "Laporan ini netral bagi Dharma Polimetal karena penjualan 125.000 saham ini hanya mengurangi sekitar 0,16 persen dari total kepemilikan komisaris tersebut, sehingga ukurannya terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran. Yang tersentuh di sini hanya komposisi kepemilikan saham tidak langsung milik komisaris dan hak suaranya, yang terbukti tetap di 1,69 persen, bukan kas, utang, atau laba perusahaan, jadi dampaknya ke kinerja Dharma Polimetal sendiri nihil. Menariknya, komisaris yang sama baru membeli 80.000 saham pada akhir September dengan harga lebih tinggi, Rp970 per lembar, sebelum melepas 125.000 saham ini di kisaran Rp915 sampai Rp925 per lembar. Pola jual-beli dalam waktu berdekatan ini perlu dipantau lewat laporan kepemilikan berikutnya dari komisaris ini, untuk melihat apakah ada perubahan kepemilikan yang lebih besar ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "eraa-sim-chee-ping-tambah-1-18-juta-saham-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Sim Chee Ping Tambah 1,18 Juta Saham [MESOP]",
+  "deck": "Direksi ERAA Sim Chee Ping menambah 1.183.423 saham lewat program kompensasi karyawan MESOP, bagian dari rangkaian laporan serupa dari direksi Erajaya pekan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T09:56:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-9255-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "Direksi",
+   "Kepemilikan Saham"
+  ],
+  "body": [
+   "Sim Chee Ping, anggota Direksi Erajaya Swasembada Tbk (ERAA) yang berwarga negara asing, melaporkan kepada OJK pada 2 Oktober 2026 bahwa kepemilikan sahamnya di ERAA bertambah. Sebelum transaksi ia memegang 7.433.425 saham dengan hak suara 0,05%, dan setelah transaksi jumlahnya menjadi 8.616.848 saham, atau bertambah 1.183.423 saham, setara kenaikan 15,92% dari kepemilikannya sebelumnya. Hak suaranya di perusahaan tetap di 0,05%, tidak berubah.",
+   "Transaksi tercatat pada 1 Oktober 2026, berjenis 'lainnya', dengan status kepemilikan tidak langsung dan klasifikasi saham biasa. Tujuan transaksi yang dicantumkan adalah program MESOP, yakni program kompensasi saham untuk karyawan dan jajaran direksi, sehingga tidak ada harga transaksi yang dicatatkan karena bukan jual beli di pasar terbuka.",
+   "Laporan ini adalah yang keenam dari program MESOP yang sama dalam sepekan terakhir di ERAA. Sebelumnya tercatat penambahan saham oleh Hasan Aula sekitar 1,49 juta saham, Joy Wahjudi sekitar 1,9 juta saham, Djohan Sutanto 975.589 saham, satu laporan direksi lain tanpa jumlah yang disebutkan secara spesifik, dan satu laporan lagi senilai 2,24 juta saham. Dengan tambahan laporan Sim Chee Ping ini, total saham yang mengalir ke jajaran direksi ERAA dari program insentif tersebut sepekan terakhir mendekati 7,8 juta lembar."
+  ],
+  "fotoAdegan": "Warehouse staff stacking boxed smartphones onto pallets inside a bright logistics distribution center, forklift nearby",
+  "takeaway": "Penambahan ini netral bagi ERAA karena sahamnya berasal dari pencairan opsi program kompensasi karyawan MESOP, bukan pembelian di pasar terbuka yang biasanya dibaca sebagai sinyal keyakinan pribadi direksi, dan hak suara Sim Chee Ping di perusahaan pun tidak berubah dari 0,05%. Yang tersentuh dari seri laporan MESOP ini adalah jumlah saham beredar ERAA: setiap pencairan opsi menambah saham baru di pasar, sehingga porsi kepemilikan pemegang saham lama dan laba per saham berpotensi terdilusi sedikit meski dampaknya kecil untuk satu laporan saja. Ini sudah laporan keenam dari program MESOP yang sama dalam sepekan terakhir dari jajaran direksi ERAA, setelah Hasan Aula (sekitar 1,49 juta saham), Joy Wahjudi (sekitar 1,9 juta saham), Djohan Sutanto (975.589 saham), dan satu laporan lagi senilai 2,24 juta saham, sehingga total saham yang mengalir ke direksi dari program ini mendekati 7,8 juta lembar di luar satu laporan lain yang jumlahnya belum disebutkan. Yang perlu dipantau berikutnya adalah apakah masih ada laporan serupa menyusul dari direksi atau komisaris lain ERAA, serta apakah ada penjelasan tambahan soal total realisasi program MESOP ini menjelang akhir periode pelaksanaannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pack-eco-energi-perkasa-tambah-saham-suara-ke-38-57",
+  "category": "Aksi Korporasi",
+  "title": "PACK: Eco Energi Perkasa [tambah] saham, suara ke 38,57%",
+  "deck": "Pemegang saham asing Eco Energi Perkasa menambah 22,8 juta saham PACK senilai sekitar Rp13,27 miliar, hak suara naik tipis ke 38,57%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T09:51:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-9618-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "kepemilikan saham",
+   "Eco Energi Perkasa",
+   "OJK"
+  ],
+  "body": [
+   "PT Eco Energi Perkasa, pemegang saham berstatus warga negara asing yang bukan anggota direksi atau dewan komisaris PT Abadi Nusantara Hijau Investama Tbk (PACK), melaporkan ke Otoritas Jasa Keuangan bahwa kepemilikan sahamnya bertambah. Sebelum transaksi, Eco Energi Perkasa memegang 13.135.904.682 saham PACK dengan hak suara 38,51 persen. Setelah transaksi, jumlah sahamnya naik menjadi 13.158.749.682 saham dan hak suaranya menjadi 38,57 persen.",
+   "Penambahan ini berasal dari pembelian 22.845.000 saham biasa PACK yang dilakukan secara tidak langsung, dengan harga Rp581 per saham pada 30 September 2026. Dengan harga tersebut, nilai transaksinya sekitar Rp13,27 miliar. Dalam laporan, tujuan transaksi ditulis sebagai investasi.",
+   "Laporan ini disampaikan melalui layanan KSEI dengan nomor surat LK/02102026/0002/1 tertanggal 2 Oktober 2026, sesuai kewajiban pelaporan kepemilikan saham perusahaan terbuka berdasarkan POJK Nomor 4/2024. Dengan tambahan ini, Eco Energi Perkasa tetap berada di kisaran 38 persen kepemilikan di PACK, sedikit di bawah ambang 50 persen yang biasa dikaitkan dengan status pengendali penuh."
+  ],
+  "fotoAdegan": "Workers checking stacks of cardboard packaging rolls on a factory production line, warm industrial lighting",
+  "takeaway": "Transaksi ini bersifat netral bagi fundamental PACK, sebab kenaikan 22,8 juta saham itu hanya sekitar 0,17 persen dari kepemilikan Eco Energi Perkasa sendiri, dan hak suaranya cuma bergerak dari 38,51 persen ke 38,57 persen, jadi sulit dibaca sebagai sinyal kuat soal keyakinan pemegang saham terhadap prospek perusahaan. Yang tersentuh di sini hanya struktur kepemilikan dan hak suara, bukan laporan keuangan PACK, karena transaksinya terjadi antar pemegang saham yang sudah ada dan tidak menambah jumlah saham beredar perusahaan maupun mengubah laba per saham. Yang perlu dipantau selanjutnya adalah apakah Eco Energi Perkasa akan terus menambah porsinya mendekati ambang 50 persen yang bisa mengubah status pengendalian di PACK, serta apakah ada laporan keterbukaan lanjutan dari pihak terkait dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bfin-direksi-sutadi-tambah-saham-1-5-juta-lembar",
+  "category": "Aksi Korporasi",
+  "title": "BFIN: Direksi [Sutadi] Tambah Saham 1,5 Juta Lembar",
+  "deck": "Direksi BFI Finance Indonesia, Sutadi, membeli 1,5 juta saham BFIN secara bertahap akhir September hingga awal Oktober 2026, senilai sekitar Rp1,38 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T09:03:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6540-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BFIN",
+  "tags": [
+   "BFIN",
+   "BFI Finance",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Sutadi, anggota direksi PT BFI Finance Indonesia Tbk (BFIN), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 1,5 juta lembar saham perusahaan secara tidak langsung. Dengan pembelian itu, kepemilikannya naik dari 22 juta lembar menjadi 23,5 juta lembar saham BFIN, sementara porsi hak suaranya di perusahaan naik dari 0,15 persen menjadi 0,16 persen.",
+   "Pembelian dilakukan dalam lima tahap sepanjang 29 September hingga 1 Oktober 2026, seluruhnya saham biasa dengan tujuan investasi. Rinciannya, 500.000 lembar dibeli pada 29 September dengan harga Rp930 per saham, lalu pada 30 September ada tiga transaksi masing masing 250.000 lembar dengan harga Rp925, Rp920, dan Rp930 per saham, serta 250.000 lembar lagi pada 1 Oktober dengan harga Rp900 per saham. Total nilai seluruh transaksi tersebut sekitar Rp1,38 miliar.",
+   "Dalam laporannya, Sutadi menyatakan dirinya bukan pengendali BFIN dan tidak berniat menjadi pengendali setelah transaksi ini. Laporan disampaikan ke OJK pada 2 Oktober 2026, sehari setelah transaksi terakhir, sesuai kewajiban pelaporan kepemilikan saham oleh direksi dan komisaris perusahaan terbuka."
+  ],
+  "fotoAdegan": "Rows of motorcycles and used cars parked outside a multifinance branch office in an Indonesian city, midday light",
+  "takeaway": "Laporan ini netral bagi BFIN karena meski pembelian 1,5 juta saham menambah sekitar 6,8 persen dari kepemilikan pribadi Sutadi, dampaknya ke struktur pemilik perusahaan nyaris tidak terasa, hak suaranya hanya naik dari 0,15 persen menjadi 0,16 persen dari total saham BFIN. Transaksi semacam ini terjadi di pasar sekunder antar pemegang saham, sehingga tidak menambah jumlah saham beredar BFIN atau mengubah kas dan ekuitas perusahaan, yang bergerak hanya kepemilikan pribadi direksi. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris BFIN lain menyusul dengan pembelian serupa dalam waktu dekat, karena pola pembelian oleh beberapa pejabat sekaligus baru punya arti lebih kalau terjadi dalam skala yang lebih besar dan serentak.",
   "sentimen": "netral"
  },
  {

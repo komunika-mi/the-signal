@@ -234,6 +234,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "emas-teken-transaksi-afiliasi-untuk-tambang-emas-pani",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Teken Transaksi [Afiliasi] untuk Tambang Emas Pani",
+  "deck": "Merdeka Mining Servis, anak usaha PT Merdeka Gold Resources Tbk, meneken perjanjian jasa dengan tiga perusahaan terkendali untuk pengembangan Tambang Emas Pani, efektif 30 September 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "Tambang Emas Pani",
+   "Transaksi Afiliasi",
+   "Merdeka Mining Servis"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d222ac7679_694d950db5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tlkm-ganti-kepala-unit-audit-internal-umar-syahid-diganti-deni",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Ganti [Kepala] Unit Audit Internal, Umar Syahid Diganti Deni",
+  "deck": "Telkom menunjuk Deni Ratno Tama sebagai Kepala Unit Audit Internal baru menggantikan Umar Syahid yang sebelumnya menjabat sementara, efektif 1 Oktober 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "audit internal",
+   "tata kelola perusahaan",
+   "Telkom"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4fe66b4ab1_0ec68201be.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "vtny-beri-penjelasan-ke-bei-soal-opini-audit-pengecualian",
   "category": "Aksi Korporasi",
   "title": "VTNY Beri Penjelasan ke BEI soal Opini Audit [Pengecualian]",
@@ -529,6 +561,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "dr-waran-enrg-disesuaikan-efektif-5-oktober",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran [ENRG] Disesuaikan, Efektif 5 Oktober",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan dua waran terstruktur bersandar saham ENRG, berlaku 5 Oktober 2026, menyusul rights issue ENRG senilai Rp4,12 triliun.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "ENRG",
+   "waran terstruktur",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2988f9614_571a9cd524.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sona-gelar-public-expose-insidentil-usai-surat-ojk",
   "category": "Aksi Korporasi",
   "title": "SONA Gelar [Public Expose] Insidentil usai Surat OJK",
@@ -545,6 +593,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "dr-pelaksanaan-8-waran-terstruktur-2-cair-ke-investor",
+  "category": "Aksi Korporasi",
+  "title": "DR: [Pelaksanaan] 8 Waran Terstruktur, 2 Cair ke Investor",
+  "deck": "RHB Sekuritas mengoreksi pengumuman pelaksanaan delapan waran terstruktur BBCA, BMRI, BBRI, KIJA, KPIG, BKSL, MBMA, dan INCO pada 2 Oktober 2026. Enam berakhir tanpa nilai, dua membayar pemegangnya.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/79ed10d2a3_754addf89f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dmnd-angkat-leonard-jadi-komisaris-independen-baru",
   "category": "Aksi Korporasi",
   "title": "DMND angkat [Leonard] jadi komisaris independen baru",
@@ -558,6 +622,38 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f46279264_f5669d8209.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amrt-benarkan-kebakaran-gerai-alfamart-di-gambut-banjar-kebakaran",
+  "category": "Aksi Korporasi",
+  "title": "AMRT Benarkan Kebakaran Gerai Alfamart di Gambut, Banjar [kebakaran]",
+  "deck": "Alfamart menjelaskan ke BEI soal kebakaran gerai di Gambut, Banjar, Kalimantan Selatan pada 29 September 2026, yang diduga dipicu pembeli yang mengancam lalu membakar gerai.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMRT",
+   "Alfamart",
+   "kebakaran",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a7430dd0bf_6ef0cf038c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-dmnd-sahkan-leonard-dan-ubah-kbli-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB DMND Sahkan Leonard dan Ubah [KBLI] Anggaran Dasar",
+  "deck": "Pemegang saham DMND menyetujui pengangkatan Leonard sebagai komisaris independen dan penyesuaian klasifikasi usaha di anggaran dasar dengan dukungan suara hampir bulat.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMND",
+   "RUPSLB",
+   "Komisaris Independen",
+   "KBLI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/00ddd3517c_0956c4d532.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -606,6 +702,22 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-4475-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-pangkas-harga-pelaksanaan-waran-enrg-usai-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ZP Pangkas Harga Pelaksanaan [Waran] ENRG Usai Rights Issue",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi dua waran terstruktur ENRG menyusul rights issue perseroan, efektif 5 Oktober 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "ENRG",
+   "waran terstruktur",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2df44a4cb5_3497348209.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1139,6 +1251,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "eraa-direksi-hasan-aula-tambah-1-49-juta-saham-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Direksi Hasan Aula Tambah 1,49 Juta Saham [MESOP]",
+  "deck": "Direktur Hasan Aula menambah 1,49 juta saham ERAA lewat pencairan opsi program MESOP, hak suaranya di perseroan naik tipis dari 0,05% menjadi 0,06%.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "Erajaya Swasembada",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-2947-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "eraa-joy-wahjudi-tambah-1-9-juta-saham-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Joy Wahjudi Tambah 1,9 Juta Saham [MESOP]",
+  "deck": "Direksi Erajaya Swasembada, Joy Wahjudi, menambah kepemilikan sahamnya lewat pencairan opsi program MESOP, melanjutkan rangkaian laporan serupa dari direksi lain pekan ini.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "Erajaya Swasembada",
+   "kepemilikan saham direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-8245-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smfp-siapkan-rp2-95-triliun-untuk-lunasi-dua-obligasi",
   "category": "Aksi Korporasi",
   "title": "SMFP Siapkan [Rp2,95 Triliun] untuk Lunasi Dua Obligasi",
@@ -1152,6 +1296,86 @@ var ARTICLES = [
    "SMF"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dad3e3a758_2eae89c29e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "eraa-direksi-djohan-sutanto-tambah-975-589-saham-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Direksi Djohan Sutanto Tambah [975.589] Saham MESOP",
+  "deck": "Direktur Djohan Sutanto menambah 975.589 lembar saham ERAA lewat program opsi karyawan MESOP, pelaporan kelima dari jajaran direksi dalam sepekan terakhir.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-5456-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "drma-komisaris-jual-125-000-saham-hak-suara-tetap-1-69",
+  "category": "Aksi Korporasi",
+  "title": "DRMA: Komisaris [Jual] 125.000 Saham, Hak Suara Tetap 1,69%",
+  "deck": "Komisaris DRMA menjual 125.000 saham tidak langsung senilai sekitar Rp115,3 juta pada 28-29 September, namun hak suaranya tetap 1,69 persen.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6079-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "eraa-sim-chee-ping-tambah-1-18-juta-saham-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Sim Chee Ping Tambah 1,18 Juta Saham [MESOP]",
+  "deck": "Direksi ERAA Sim Chee Ping menambah 1.183.423 saham lewat program kompensasi karyawan MESOP, bagian dari rangkaian laporan serupa dari direksi Erajaya pekan ini.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "Direksi",
+   "Kepemilikan Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-9255-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-eco-energi-perkasa-tambah-saham-suara-ke-38-57",
+  "category": "Aksi Korporasi",
+  "title": "PACK: Eco Energi Perkasa [tambah] saham, suara ke 38,57%",
+  "deck": "Pemegang saham asing Eco Energi Perkasa menambah 22,8 juta saham PACK senilai sekitar Rp13,27 miliar, hak suara naik tipis ke 38,57%.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "kepemilikan saham",
+   "Eco Energi Perkasa",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-9618-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bfin-direksi-sutadi-tambah-saham-1-5-juta-lembar",
+  "category": "Aksi Korporasi",
+  "title": "BFIN: Direksi [Sutadi] Tambah Saham 1,5 Juta Lembar",
+  "deck": "Direksi BFI Finance Indonesia, Sutadi, membeli 1,5 juta saham BFIN secara bertahap akhir September hingga awal Oktober 2026, senilai sekitar Rp1,38 miliar.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BFIN",
+   "BFI Finance",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6540-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6261,238 +6485,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/087d241432_20a0283502.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-melemah-ke-rp17-948-usai-data-as-kuat",
-  "category": "Moneter",
-  "title": "Rupiah [Melemah] ke Rp17.948 usai Data AS Kuat",
-  "deck": "Rupiah melemah 45 poin ke Rp17.948 per dolar AS, tertekan data ekonomi AS yang lebih kuat dari perkiraan dan naiknya peluang kenaikan suku bunga The Fed Oktober.",
-  "date": "28 September 2026",
-  "image": "assets/img/rupiah-melemah-ke-rp17-948-usai-data-as-kuat.jpg",
-  "imageV": "mukslksv",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "The Fed",
-   "nilai tukar"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469854-rupiah-melemah-ke-rp17948-per-dolar-as-seiring-data-penjualan-barang-tahan-lama-as-lebih-kuat"
- },
- {
-  "slug": "irsx-rombak-direksi-komisaris-dan-tegaskan-rencana-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "IRSX Rombak Direksi-Komisaris dan Tegaskan Rencana [Rights Issue]",
-  "deck": "RUPSLB IRSX menyetujui pergantian susunan direksi-komisaris dan menegaskan kembali rencana rights issue hingga 12,39 miliar saham baru plus 1,86 miliar Waran Seri II.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IRSX",
-   "RUPSLB",
-   "rights issue",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/66c68cd74d_5fa8ad5519.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-pangan-28-september-cabai-rawit-rp113-750-kg",
-  "category": "Makroekonomi",
-  "title": "Harga Pangan 28 September: Cabai Rawit [Rp113.750]/Kg",
-  "deck": "PIHPS Bank Indonesia mencatat harga pangan strategis hari ini, dengan cabai rawit merah jadi komoditas termahal di Rp113.750 per kilogram.",
-  "date": "28 September 2026",
-  "image": "assets/img/harga-pangan-28-september-cabai-rawit-rp113-750-kg.jpg",
-  "imageV": "muksll8o",
-  "tags": [
-   "harga pangan",
-   "PIHPS",
-   "Bank Indonesia",
-   "cabai rawit"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469848-harga-pangan-hari-ini-28-september-2026-cabai-rawit-rp113750-per-kilogram-hingga-telur-ayam-rp29400-per-kilogram"
- },
- {
-  "slug": "ipac-panggil-rupslb-bahas-rencana-go-private-dan-delisting",
-  "category": "Aksi Korporasi",
-  "title": "IPAC Panggil RUPSLB, Bahas Rencana [Go Private] dan Delisting",
-  "deck": "Era Graharealty (IPAC) memanggil RUPSLB pada 20 Oktober 2026 untuk meminta persetujuan pemegang saham atas rencana go private dan penghapusan pencatatan saham dari Bursa Efek Indonesia.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPAC",
-   "RUPSLB",
-   "go private",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cf1d0377d_ec0db3d844.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-rampungkan-emisi-obligasi-rp1-t-dan-sukuk-rp676-63-m",
-  "category": "Aksi Korporasi",
-  "title": "LPPI Rampungkan Emisi Obligasi Rp1 T dan Sukuk [Rp676,63 M]",
-  "deck": "LPPI menetapkan bunga tetap 10-10,5 persen untuk obligasi Rp1 triliun dan sukuk mudharabah Rp676,63 miliar setelah masa penawaran umum berakhir, dengan delapan sekuritas sebagai penjamin emisi.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "obligasi",
-   "sukuk mudharabah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a27a7e30d_4d7b7e15e3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-rp16-000-ke-rp2-597-000-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Turun] Rp16.000 ke Rp2.597.000/Gram",
-  "deck": "Harga emas batangan Antam turun Rp16.000 menjadi Rp2.597.000 per gram pada 28 September 2026, harga buyback ikut turun ke Rp2.422.000.",
-  "date": "28 September 2026",
-  "image": "assets/img/harga-emas-antam-turun-rp16-000-ke-rp2-597-000-gram.jpg",
-  "imageV": "muksllmx",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469836-harga-emas-antam-hari-ini-28-september-2026-terpantau-turun-rp16000-jadi-rp2597000-per-gram"
- },
- {
-  "slug": "crab-rombak-direksi-beston-barto-jadi-dirut-baru",
-  "category": "Aksi Korporasi",
-  "title": "CRAB [Rombak] Direksi, Beston Barto Jadi Dirut Baru",
-  "deck": "RUPST menyetujui Beston Barto Siboro sebagai Direktur Utama baru, mantan Dirut Gindra Tardy pindah jadi Komisaris, dan Pontas Pane masuk sebagai Komisaris Independen.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRAB",
-   "Direksi",
-   "Komisaris",
-   "RUPST"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7de0f3d810_63fbee561f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-direksi-george-oetomo-beli-350-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Direksi George Oetomo [Beli] 350.000 Saham",
-  "deck": "George Oetomo, Direksi TAPG, membeli 350.000 saham perusahaan pada 22-23 September 2026 seharga Rp2.050 dan Rp1.975 per lembar untuk investasi.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "Triputra Agro Persada",
-   "kepemilikan saham direksi",
-   "sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-4055-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pengiriman-kendaraan-listrik-lewat-kapal-terkendala",
-  "category": "Industri",
-  "title": "Pengiriman Kendaraan Listrik Lewat Kapal [Terkendala]",
-  "deck": "Periklindo minta SOP khusus pengiriman kendaraan listrik lewat kapal laut, menyusul larangan sejumlah operator kapal mengangkut motor dan mobil listrik.",
-  "date": "27 September 2026",
-  "image": "assets/img/pengiriman-kendaraan-listrik-lewat-kapal-terkendala.jpg",
-  "imageV": "muk3uaqh",
-  "tags": [
-   "kendaraan listrik",
-   "Periklindo",
-   "SOP pengiriman",
-   "baterai kendaraan listrik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469790-pengiriman-kendaraan-listrik-lewat-kapal-terkendala-industri-minta-sop-khusus"
- },
- {
-  "slug": "bbm-nonsubsidi-berpotensi-naik-hingga-11-persen-oktober",
-  "category": "Energi",
-  "title": "BBM Nonsubsidi Berpotensi [Naik] hingga 11 Persen Oktober",
-  "deck": "Peneliti Unpad Yayan Satyakti memproyeksikan harga BBM nonsubsidi naik 5-11 persen Oktober 2026 akibat kenaikan harga acuan bensin di Singapura, meski Pertamax kemungkinan tetap ditahan.",
-  "date": "27 September 2026",
-  "image": "assets/img/bbm-nonsubsidi-berpotensi-naik-hingga-11-persen-oktober.jpg",
-  "imageV": "mujs3e8t",
-  "tags": [
-   "BBM nonsubsidi",
-   "Pertamax",
-   "harga BBM Oktober 2026",
-   "Pertamina"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469721-bbm-nonsubsidi-diprediksi-naik-hingga-11-persen-oktober-2026-segini-perkiraan-harganya"
- },
- {
-  "slug": "pengguna-qris-tembus-65-8-juta-transaksi-tumbuh-93-9",
-  "category": "Moneter",
-  "title": "Pengguna QRIS Tembus 65,8 Juta, Transaksi [Tumbuh] 93,9%",
-  "deck": "Rangkaian FEKDI x IFSE 2026 ditutup dengan data terbaru: transaksi QRIS semester I 2026 tumbuh 93,92 persen menjadi Rp1,12 kuadriliun, dan cakupannya ke luar negeri bertambah.",
-  "date": "26 September 2026",
-  "image": "assets/img/gedung-bi.jpg",
-  "tags": [
-   "QRIS",
-   "ekonomi digital",
-   "UMKM",
-   "pembayaran lintas negara"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7114/pemerintah-perkuat-transformasi-ekonomi-digital-untuk-dorong-produktivitas-dan-daya-saing-nasional",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "bi-luncurkan-travel-pack-digital-untuk-turis-asing",
-  "category": "Moneter",
-  "title": "BI Luncurkan [Travel Pack] Digital untuk Turis Asing",
-  "deck": "Bank Indonesia dan mitra meluncurkan panduan pembayaran digital bagi turis asing dari negara yang belum tercakup QRIS Antarnegara.",
-  "date": "26 September 2026",
-  "image": "assets/img/bi-luncurkan-travel-pack-digital-untuk-turis-asing.jpg",
-  "imageV": "muimb4mx",
-  "tags": [
-   "QRIS Antarnegara",
-   "Bank Indonesia",
-   "Pariwisata",
-   "FEKDI 2026"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820426.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "stok-beras-bulog-tembus-4-8-juta-ton-gudang-kewalahan",
-  "category": "BUMN",
-  "title": "Stok Beras Bulog [Tembus] 4,8 Juta Ton, Gudang Kewalahan",
-  "deck": "Cadangan beras Bulog mencapai 4,8 juta ton hingga gudang sendiri tak lagi cukup dan harus disewa dari swasta, namun jumlah ini disebut aman untuk kebutuhan pangan sampai akhir tahun.",
-  "date": "26 September 2026",
-  "image": "assets/img/stok-beras-bulog-tembus-4-8-juta-ton-gudang-kewalahan.jpg",
-  "imageV": "muifvjto",
-  "tags": [
-   "stok beras",
-   "bulog",
-   "cadangan pangan",
-   "SPHP"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469589-gudang-bulog-tak-muat-tampung-stok-beras-nasional-yang-capai-48-juta-ton-cukup-untuk-pangan-hingga-akhir-tahun"
- },
- {
-  "slug": "fesyar-jawa-2026-gulirkan-pembiayaan-untuk-umkm-dan-pesantren",
-  "category": "Makroekonomi",
-  "title": "FESyar Jawa 2026 Gulirkan [Pembiayaan] untuk UMKM dan Pesantren",
-  "deck": "Bank Indonesia membuka FESyar Jawa 2026 di Surabaya, meluncurkan pembiayaan UMKM kuliner halal dan perumahan guru pesantren di tengah pertumbuhan ekonomi syariah 5,5 persen.",
-  "date": "26 September 2026",
-  "image": "assets/img/fesyar-jawa-2026-gulirkan-pembiayaan-untuk-umkm-dan-pesantren.jpg",
-  "imageV": "muiakxu9",
-  "tags": [
-   "ekonomi syariah",
-   "Bank Indonesia",
-   "FESyar Jawa",
-   "pesantren"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820326.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

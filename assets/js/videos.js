@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "y3VMgycXcVc",
+  "title": "Menko AHY Tinjau Laboratorium Hydropower EPFL di Swiss",
+  "category": "Energi",
+  "program": "AKAP",
+  "summary": "Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono meninjau laboratorium hidro EPFL di Swiss untuk mendorong transformasi pembangkit listrik tenaga air agar lebih optimal.",
+  "takeaway": "Kunjungan ini memberi gambaran arah kebijakan pemerintah dalam pengembangan energi terbarukan berbasis air yang relevan bagi investasi infrastruktur energi nasional.",
+  "terbit": "2026-10-03T08:46:54+00:00"
+ },
+ {
   "id": "c5gUWS5rzu8",
   "title": "IKA Fikom Unpad Bahas Tata Kelola dan Restrukturisasi BUMN",
   "category": "BUMN",

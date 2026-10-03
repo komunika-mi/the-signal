@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "y3VMgycXcVc",
+  "title": "Menko AHY Tinjau Laboratorium Hydropower EPFL di Swiss",
+  "category": "Energi",
+  "program": "AKAP",
+  "summary": "Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono meninjau laboratorium hidro EPFL di Swiss untuk mendorong transformasi pembangkit listrik tenaga air agar lebih optimal.",
+  "takeaway": "Kunjungan ini memberi gambaran arah kebijakan pemerintah dalam pengembangan energi terbarukan berbasis air yang relevan bagi investasi infrastruktur energi nasional."
+ },
+ {
   "id": "c5gUWS5rzu8",
   "title": "IKA Fikom Unpad Bahas Tata Kelola dan Restrukturisasi BUMN",
   "category": "BUMN",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Kalangan ekonom menanggapi polemik rencana pembukaan rekening bank secara massal yang diperkirakan menghabiskan anggaran APBN hingga Rp11 triliun.",
   "takeaway": "Memberi perspektif ekonom atas kebijakan yang menuai pro dan kontra di publik."
- },
- {
-  "id": "E956iAU2iRY",
-  "title": "FKBI: Rekening Massal Berpotensi Jadi Rekening Dormant",
-  "category": "Perbankan",
-  "program": "Indonesia Business Forum",
-  "summary": "FKBI menilai rencana pembukaan rekening bank secara massal berpotensi menghasilkan banyak rekening dormant, di tengah anggaran APBN yang ditaksir mencapai Rp11 triliun.",
-  "takeaway": "Menyoal efektivitas kebijakan perbankan yang berisiko memboroskan anggaran negara."
  }
 ];

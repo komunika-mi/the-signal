@@ -55,7 +55,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret di balik pertemuan seremonial ini adalah target penandatanganan IEU-CEPA, yaitu perjanjian dagang antara Indonesia dan Uni Eropa, yang menurut Menko Airlangga diharapkan selesai tahun ini sebelum masuk proses pengesahan dan mulai berlaku awal tahun depan. Kalau target ini tercapai, pihak yang paling terdampak adalah pelaku usaha yang berdagang atau menerima investasi dari Eropa, termasuk lebih dari 250 perusahaan Jerman yang sudah beroperasi di Indonesia. Pola yang terlihat adalah pemerintah mencoba menerjemahkan hubungan diplomatik yang sudah lama terjalin menjadi perjanjian dagang yang mengikat secara hukum, bukan sekadar simbolis. Penanda paling jelas apakah arah ini berjalan sesuai rencana adalah apakah penandatanganan IEU-CEPA benar-benar terjadi pada 2026 seperti ditargetkan, menyusul proses ratifikasi dan implementasi yang dijadwalkan mulai awal tahun depan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "emas-gadaikan-saham-anak-usaha-untuk-pinjaman-us-350-juta",

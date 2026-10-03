@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "atic-direktur-beli-30-000-saham-senilai-rp13-47-juta",
+  "category": "Aksi Korporasi",
+  "title": "ATIC: Direktur [Beli] 30.000 Saham Senilai Rp13,47 Juta",
+  "deck": "Direktur Anabatic Technologies, Harry Surjanto Hambali, membeli 30.000 saham ATIC secara tidak langsung akhir September 2026, kepemilikannya naik tanpa mengubah hak suara di 3,17 persen.",
+  "date": "3 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATIC",
+   "Anabatic Technologies",
+   "transaksi insider",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-03102026-6985-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bike-akui-rugi-bersih-rp19-18-miliar-ke-bursa",
   "category": "Aksi Korporasi",
   "title": "BIKE Akui [Rugi] Bersih Rp19,18 Miliar ke Bursa",
@@ -299,6 +315,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tguk-visionary-capital-kuasai-56-84-suara-via-pembelian-saham",
+  "category": "Aksi Korporasi",
+  "title": "TGUK: Visionary Capital [Kuasai] 56,84% Suara via Pembelian Saham",
+  "deck": "Visionary Capital Global Pte. Ltd., investor asal luar negeri, membeli 2,03 miliar saham TGUK seharga Rp20 per lembar dan kini menguasai 56,84% hak suara.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGUK",
+   "Visionary Capital Global",
+   "pengendali saham",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-3251-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ppatk-rilis-peta-risiko-keuangan-jelang-evaluasi-fatf-2029",
   "category": "Perbankan",
   "title": "PPATK Rilis Peta Risiko Keuangan, Jelang Evaluasi FATF [2029]",
@@ -351,6 +383,22 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821026.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "tguk-dinasti-kreatif-lepas-saham-suara-tersisa-12-49",
+  "category": "Aksi Korporasi",
+  "title": "TGUK: Dinasti Kreatif [Lepas] Saham, Suara Tersisa 12,49%",
+  "deck": "PT Dinasti Kreatif Indonesia melepas 2,03 miliar saham TGUK di harga Rp20, memangkas hak suara dari 69,33% jadi 12,49% dan melepas status pengendali.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGUK",
+   "kepemilikan saham",
+   "pengendali",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-5070-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnmp-dana-obligasi-sosial-rp1-01-triliun-terserap-100",
@@ -417,6 +465,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "brms-direktur-adika-bakrie-tambah-389-900-saham-rp640",
+  "category": "Aksi Korporasi",
+  "title": "BRMS: Direktur Adika Bakrie [Tambah] 389.900 Saham Rp640",
+  "deck": "Direksi BRMS Adika Aryasthana Bakrie membeli 389.900 saham perseroan secara tidak langsung seharga Rp640 per lembar pada 28 September 2026.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRMS",
+   "Bumi Resources Minerals",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-3323-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pnmp-sukuk-sosial-orange-rp1-5-triliun-terserap-100",
   "category": "Aksi Korporasi",
   "title": "PNMP: Sukuk Sosial Orange Rp1,5 Triliun [Terserap] 100%",
@@ -446,6 +510,22 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da8059738e_1924d45fc3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bipp-victoria-investama-lepas-140-juta-saham-suara-ke-8-62",
+  "category": "Aksi Korporasi",
+  "title": "BIPP: Victoria Investama [lepas] 140 juta saham, suara ke 8,62%",
+  "deck": "Victoria Investama Tbk menjual 140 juta saham BIPP pada 1 Oktober 2026 seharga Rp60 per saham, memangkas hak suaranya dari 11,40% menjadi 8,62%.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "kepemilikan saham",
+   "Victoria Investama",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-5866-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -513,6 +593,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "eraa-direksi-tambah-saham-lewat-program-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Direksi Tambah Saham Lewat Program [MESOP]",
+  "deck": "Direksi Erajaya Swasembada, Sintawati Halim, menambah kepemilikannya jadi 13,8 juta lembar saham lewat program opsi karyawan MESOP, hak suaranya naik ke 0,09%.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-4475-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pidl-rampungkan-dana-obligasi-dan-sukuk-rp943-miliar",
   "category": "Aksi Korporasi",
   "title": "PIDL Rampungkan Dana [Obligasi] dan Sukuk Rp943 Miliar",
@@ -526,6 +622,22 @@ var ARTICLES = [
    "penggunaan dana IPO"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c36544d29_73eba136cb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "eraa-direksi-tambah-2-24-juta-saham-lewat-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Direksi Tambah 2,24 Juta Saham Lewat [MESOP]",
+  "deck": "Direksi Erajaya Swasembada, Budiarto Halim, menambah saham lewat program kompensasi karyawan MESOP, hak suara naik dari 0,05% menjadi 0,07%.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "kepemilikan saham",
+   "Erajaya Swasembada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-4096-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -561,6 +673,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bksl-direksi-lepas-683-9-juta-saham-suara-ke-5-18",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: [Direksi] Lepas 683,9 Juta Saham, Suara ke 5,18%",
+  "deck": "Direksi Sentul City melalui akun Samuel Sekuritas Indonesia melepas 683,9 juta saham BKSL senilai Rp72 per saham lewat pencairan perjanjian repo, hak suara turun dari 5,59% menjadi 5,18%.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "repo",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-7168-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "yelo-panggil-rupslb-modal-dasar-naik-ke-rp765-miliar",
   "category": "Aksi Korporasi",
   "title": "YELO Panggil RUPSLB, [Modal Dasar] Naik ke Rp765 Miliar",
@@ -577,6 +705,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "brms-direktur-sulthon-tambah-90-000-saham-rp545",
+  "category": "Aksi Korporasi",
+  "title": "BRMS: Direktur Sulthon [Tambah] 90.000 Saham Rp545",
+  "deck": "Direktur BRMS Muhammad Sulthon menambah 90.000 saham tidak langsung senilai Rp545 per lembar, kepemilikannya naik ke 310.500 lembar, namun hak suaranya tetap 0,00 persen.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRMS",
+   "kepemilikan saham",
+   "direksi",
+   "insider"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-3275-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-uvcr-melonjak-36-saham-baru-diserap-pengendali",
   "category": "Aksi Korporasi",
   "title": "Harga UVCR Melonjak 36%, Saham Baru Diserap [Pengendali]",
@@ -590,6 +734,22 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3b97fea018_fb1bec9ca5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "film-direksi-lepas-69-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "FILM: Direksi Lepas 69 Juta Saham Lewat [Repo]",
+  "deck": "Samuel Sekuritas Indonesia, mewakili direksi FILM, menjual 69,07 juta saham pada 2 Oktober 2026 senilai sekitar Rp51,12 miliar lewat pencairan repo, hak suara turun dari 9,64% menjadi 9,00%.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "kepemilikan saham",
+   "repo",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6592-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -625,6 +785,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "mice-siwie-honoris-tambah-saham-lagi-100-ribu-lembar",
+  "category": "Aksi Korporasi",
+  "title": "MICE: Siwie Honoris [Tambah] Saham Lagi 100 Ribu Lembar",
+  "deck": "Siwie Honoris membeli 100.000 saham Multi Indocitra pada 30 September 2026, menambah kepemilikannya menjadi 2,06 juta lembar atau 0,3434 persen hak suara.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MICE",
+   "Multi Indocitra",
+   "kepemilikan saham",
+   "Siwie Honoris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-9955-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mdln-restrukturisasi-notes-us-290-juta-lepas-tanah-ke-pemegang-obligasi",
   "category": "Aksi Korporasi",
   "title": "MDLN Restrukturisasi Notes US$290 Juta, Lepas Tanah ke [Pemegang] Obligasi",
@@ -638,6 +814,22 @@ var ARTICLES = [
    "properti"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e95dbf397_63dfa16f92.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "impc-tunggal-jaya-investama-tambah-8-68-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "IMPC: Tunggal Jaya Investama [Tambah] 8,68 Juta Saham",
+  "deck": "Pemegang saham IMPC, Tunggal Jaya Investama, menambah 8,68 juta lembar saham lewat pembelian tidak langsung akhir September hingga awal Oktober, mengerek hak suaranya dari 38,48% menjadi 38,49%.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IMPC",
+   "Impack Pratama Industri",
+   "kepemilikan saham",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-5970-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -657,6 +849,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "arko-komisaris-tambah-220-000-saham-lewat-pembelian",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Komisaris Tambah [220.000] Saham Lewat Pembelian",
+  "deck": "Komisaris Arkora Hydro, Arya Pradana Setiadharma, membeli 220.000 saham ARKO lewat dua transaksi akhir September dan awal Oktober, menambah kepemilikannya menjadi 1.945.000 lembar.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6068-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtla-yulie-sekuritas-jual-150-juta-saham-senilai-rp103-5-m",
+  "category": "Aksi Korporasi",
+  "title": "MTLA: Yulie Sekuritas [Jual] 150 Juta Saham Senilai Rp103,5 M",
+  "deck": "Yulie Sekuritas Indonesia melepas 150 juta saham MTLA pada 30 September 2026 seharga Rp690 per lembar, menurunkan hak suaranya dari 7,24% menjadi 5,28%.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTLA",
+   "Metropolitan Land",
+   "kepemilikan saham",
+   "Yulie Sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-4727-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tldn-koreksi-jadwal-dividen-interim-rp20-per-saham",
   "category": "Aksi Korporasi",
   "title": "TLDN [Koreksi] Jadwal Dividen Interim Rp20 per Saham",
@@ -670,6 +894,22 @@ var ARTICLES = [
    "dividen tunai"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21c55032ac_c31fafd0ab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pege-direksi-tambah-saham-rp20-miliar-suara-jadi-5-08",
+  "category": "Aksi Korporasi",
+  "title": "PEGE: Direksi [Tambah] Saham Rp20 Miliar, Suara Jadi 5,08%",
+  "deck": "Optimus Vision Global Pte Ltd, direksi asing PEGE, membeli 110,58 juta saham baru sehingga hak suaranya naik dari 2,15 persen menjadi 5,08 persen, senilai sekitar Rp20 miliar.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PEGE",
+   "kepemilikan saham",
+   "direksi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-0150-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -734,6 +974,22 @@ var ARTICLES = [
    "Widodo Makmur Unggas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4afa42a4de_91166b8ca7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-938-900-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [Tambah] 938.900 Saham",
+  "deck": "Edwin Soeryadjaya membeli 938.900 saham SRTG lewat dua transaksi akhir September dan awal Oktober 2026, menaikkan hak suaranya jadi 35,97 persen.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "Edwin Soeryadjaya",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-8239-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6238,268 +6494,5 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820326.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "kadin-bakal-luncurkan-satgas-protein-dorong-lapangan-kerja",
-  "category": "Industri",
-  "title": "Kadin Bakal Luncurkan [Satgas Protein] Dorong Lapangan Kerja",
-  "deck": "Kadin Indonesia akan membentuk Satgas Protein untuk memperkuat rantai pasok telur dan susu, sekaligus disebut mendukung target pertumbuhan ekonomi 8 persen.",
-  "date": "26 September 2026",
-  "image": "assets/img/kadin-bakal-luncurkan-satgas-protein-dorong-lapangan-kerja.jpg",
-  "imageV": "muiaky9v",
-  "tags": [
-   "kadin",
-   "satgas protein",
-   "anindya bakrie",
-   "pertumbuhan ekonomi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469550-kadin-indonesia-bakal-luncurkan-satgas-protein-ciptakan-lapangan-kerja-hingga-dukung-target-pertumbuhan-ekonomi"
- },
- {
-  "slug": "bika-masuk-pemantauan-khusus-bei-imbas-ekuitas-negatif",
-  "category": "Aksi Korporasi",
-  "title": "BIKA Masuk Pemantauan Khusus BEI Imbas [Ekuitas Negatif]",
-  "deck": "BEI mengoreksi pengumuman sebelumnya dan menetapkan saham BIKA masuk Papan Pemantauan Khusus efektif 25 September 2026 karena ekuitas perusahaan negatif.",
-  "date": "26 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKA",
-   "pemantauan khusus",
-   "ekuitas negatif",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_BIKA_B031_1b0e989a-2045-43a7-af46-43e755c19460-20260926162116.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bca-bantah-isu-akuisisi-saham-oleh-haji-isam",
-  "category": "Pasar Modal",
-  "title": "BCA [Bantah] Isu Akuisisi Saham oleh Haji Isam",
-  "deck": "BCA memastikan kabar akuisisi saham BBCA oleh Haji Isam tidak benar, sekaligus membeberkan struktur kepemilikan usai pengendali terakhir berganti pasca meninggalnya Bambang Hartono.",
-  "date": "26 September 2026",
-  "image": "assets/img/bca-bantah-isu-akuisisi-saham-oleh-haji-isam.jpg",
-  "imageV": "muiakynf",
-  "tags": [
-   "BCA",
-   "BBCA",
-   "Haji Isam",
-   "saham"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469544-haji-isam-diisukan-mau-akuisisi-saham-bbca-bca-beberkan-fakta-sebenarnya"
- },
- {
-  "slug": "antam-serap-9-ton-emas-freeport-januari-agustus-2026",
-  "category": "BUMN",
-  "title": "ANTAM [Serap] 9 Ton Emas Freeport Januari-Agustus 2026",
-  "deck": "ANTAM menyerap 9 ton emas dari Freeport Indonesia sepanjang Januari-Agustus 2026, bagian kerja sama pasokan hingga 30 ton per tahun untuk memperkuat rantai pasok emas domestik.",
-  "date": "26 September 2026",
-  "image": "assets/img/antam-serap-9-ton-emas-freeport-januari-agustus-2026.jpg",
-  "imageV": "muiakz2c",
-  "tags": [
-   "ANTAM",
-   "Freeport Indonesia",
-   "emas",
-   "rantai pasok"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469521-antam-serap-9-ton-emas-freeport-hingga-agustus-2026-penjualan-tembus-rp5039-triliun"
- },
- {
-  "slug": "pegadaian-borong-10-penghargaan-contact-center-nasional",
-  "category": "BUMN",
-  "title": "Pegadaian Borong [10] Penghargaan Contact Center Nasional",
-  "deck": "PT Pegadaian meraih 10 penghargaan di ajang The Best Contact Center Indonesia 2026, hasil transformasi layanan pelanggan berbasis digital.",
-  "date": "26 September 2026",
-  "image": "assets/img/pegadaian-borong-10-penghargaan-contact-center-nasional.jpg",
-  "imageV": "mui0ufhz",
-  "tags": [
-   "Pegadaian",
-   "BUMN",
-   "Contact Center",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469504-wujudkan-transformasi-layanan-pegadaian-borong-penghargaan-di-ajang-the-best-contact-center-indonesia-2026"
- },
- {
-  "slug": "saham-bima-disuspensi-bursa-atas-perintah-ojk",
-  "category": "Aksi Korporasi",
-  "title": "Saham BIMA [Disuspensi] Bursa atas Perintah OJK",
-  "deck": "BEI menghentikan sementara perdagangan saham Primarindo Asia Infrastructure (BIMA) mulai 27 September 2026 atas persetujuan OJK, menyusul suspensi akibat mogok karyawan pekan lalu.",
-  "date": "26 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIMA",
-   "suspensi saham",
-   "OJK",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_BIMA_B007_c21310d3-1708-47c6-9ff7-14ee6cd73771-20260926131730.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-resmi-delisting-dari-bursa-efektif-hari-ini",
-  "category": "Aksi Korporasi",
-  "title": "AADI Resmi [Delisting] dari Bursa, Efektif Hari Ini",
-  "deck": "Bursa Efek Indonesia menghapus pencatatan saham AADI, PT Adaro Andalan Indonesia Tbk, per 26 September 2026 dengan alasan forced delisting dan go private.",
-  "date": "26 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AADI",
-   "delisting",
-   "go private",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_AADI_B006_07bb9fdd-8a12-4127-b99f-9918d0c9424b-20260926115119.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-test-resmi-delisting-dari-bursa-efektif-26-september",
-  "category": "Aksi Korporasi",
-  "title": "Saham TEST Resmi [Delisting] dari Bursa, Efektif 26 September",
-  "deck": "Bursa Efek Indonesia menghapus pencatatan saham berkode TEST secara paksa (forced delisting) sekaligus status go private, efektif 26 September 2026.",
-  "date": "26 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEST",
-   "delisting",
-   "go private",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_TEST_B006_768b604e-981e-491f-ac61-0a18638fe8fa-20260926102826.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-terbitkan-hingga-100-000-saham-baru-lewat-hmetd",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Terbitkan hingga 100.000 Saham Baru Lewat [HMETD]",
-  "deck": "PT Arkora Hydro Tbk menetapkan rasio HMETD 1:1 dengan harga pelaksanaan Rp100 per saham, efektif mulai 27 September 2026.",
-  "date": "26 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "HMETD",
-   "penambahan modal",
-   "Arkora Hydro"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E0X3_c37455bb-9dec-4f15-9aa3-48ac73cd2768-20260926102719.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-panggil-rupslb-untuk-setujui-pmhmetd",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Panggil RUPSLB untuk Setujui [PMHMETD]",
-  "deck": "Arkora Hydro menjadwalkan RUPS Luar Biasa 26 September 2026 dengan satu agenda: persetujuan rencana penambahan modal lewat rights issue.",
-  "date": "26 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "RUPSLB",
-   "rights issue",
-   "PMHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E002_8d609b9b-57e5-4e8c-8dd8-5a3fd7641cb2-20260926102405.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-rups-setujui-transaksi-afiliasi-2026",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: RUPS Setujui [Transaksi Afiliasi] 2026",
-  "deck": "RUPS independen ARKO menyetujui rencana transaksi afiliasi tahun buku 2026, dihadiri pemegang saham yang mewakili 1 persen dari total saham berhak suara Perseroan.",
-  "date": "26 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "RUPS",
-   "Transaksi Afiliasi",
-   "Arkora Hydro"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E013_e4dc1856-4238-48a8-b61a-5c0d94f6626e-20260926101556.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-baru-pakai-rp375-000-dari-dana-ipo-sisa-rp500-000-ipo",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Baru Pakai Rp375.000 dari Dana IPO, Sisa Rp500.000 [IPO]",
-  "deck": "ARKO melaporkan realisasi dana IPO periode 30 Juni 2026: dari dana bersih Rp875.000, Rp375.000 sudah dipakai untuk bangun kantor, sementara Rp500.000 untuk beli motor belum terealisasi sama sekali.",
-  "date": "26 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "penggunaan dana IPO",
-   "penawaran umum"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260926_ARKO_E022_84970633-7bbd-48b4-990c-c7d3dbf93c94-20260926102731.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bi-teken-mou-sistem-pembayaran-dengan-timor-leste-di-fekdi-2026",
-  "category": "Moneter",
-  "title": "BI Teken MoU Sistem Pembayaran dengan [Timor-Leste] di FEKDI 2026",
-  "deck": "Bank Indonesia meneken nota kesepahaman sistem pembayaran dengan bank sentral Timor-Leste dan mengumumkan pemenang program talenta digital PIDI dalam ajang FEKDI x IFSE 2026 di Jakarta.",
-  "date": "26 September 2026",
-  "image": "assets/img/bi-teken-mou-sistem-pembayaran-dengan-timor-leste-di-fekdi-2026.jpg",
-  "imageV": "muh80nw1",
-  "tags": [
-   "Bank Indonesia",
-   "FEKDI 2026",
-   "Timor-Leste",
-   "talenta digital"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820126.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "vktr-bukukan-laba-rp10-6-miliar-di-kuartal-i-siapkan-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "VKTR Bukukan Laba Rp10,6 Miliar di Kuartal I, Siapkan [Rights Issue]",
-  "deck": "Laba bersih VKTR naik jadi Rp10,56 miliar pada kuartal I 2026 seiring penjualan melompat 58 persen, sebagai bagian syarat rencana rights issue.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VKTR",
-   "laporan keuangan",
-   "rights issue",
-   "kendaraan listrik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260925234616-64436-0/FinancialStatement-2026-I-VKTR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "winr-pemegang-saham-lepas-10-5-juta-saham-lagi-ke-free-float",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemegang Saham Lepas 10,5 Juta Saham Lagi ke [Free Float]",
-  "deck": "Pemegang saham non-direksi WINR kembali menjual 10,56 juta saham pada 22 September 2026, transaksi kelima dalam sepekan untuk menambah porsi saham free float.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "kepemilikan saham",
-   "free float",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-8338-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "spbu-pertama-khusus-petani-diresmikan-di-merauke",
-  "category": "Energi",
-  "title": "SPBU [Pertama] Khusus Petani Diresmikan di Merauke",
-  "deck": "Kementan meresmikan SPBU khusus petani pertama di Indonesia di Merauke, sekaligus mengucurkan anggaran Rp1,33 triliun untuk mempercepat Papua Selatan jadi lumbung pangan Indonesia Timur.",
-  "date": "25 September 2026",
-  "image": "assets/img/spbu-pertama-khusus-petani-diresmikan-di-merauke.jpg",
-  "imageV": "muh2m6j8",
-  "tags": [
-   "BBM subsidi",
-   "Papua Selatan",
-   "pertanian",
-   "Merauke"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469421-spbu-khusus-petani-pertama-di-indonesia-diresmikan-di-merauke-perkuat-dukungan-bbm-subsidi-untuk-produksi-pangan-berkelanjutan"
  }
 ];

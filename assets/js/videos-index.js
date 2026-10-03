@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "GpWLiiOJ20k",
+  "title": "Indonesia Butuh Pendanaan Global Capai Target Zero Emission",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Indonesia memerlukan dukungan pendanaan global untuk mempercepat pencapaian target penurunan emisi, karena kebutuhan pembiayaan iklim dinilai jauh melampaui kemampuan APBN.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut keterbatasan fiskal negara dan peluang pembiayaan hijau dari mitra internasional."
+ },
+ {
   "id": "y3VMgycXcVc",
   "title": "Menko AHY Tinjau Laboratorium Hydropower EPFL di Swiss",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Diskusi membahas apakah rencana pembukaan rekening bank massal, yang diperkirakan menelan anggaran APBN hingga Rp11 triliun, akan membuat penyaluran bantuan sosial lebih tepat sasaran.",
   "takeaway": "Membahas efektivitas kebijakan yang berpotensi menyerap anggaran negara dalam jumlah besar."
- },
- {
-  "id": "wS38Uvlhe3s",
-  "title": "Polemik Rekening Massal Rp11 Triliun, Ini Kata Ekonom",
-  "category": "Perbankan",
-  "program": "Indonesia Business Forum",
-  "summary": "Kalangan ekonom menanggapi polemik rencana pembukaan rekening bank secara massal yang diperkirakan menghabiskan anggaran APBN hingga Rp11 triliun.",
-  "takeaway": "Memberi perspektif ekonom atas kebijakan yang menuai pro dan kontra di publik."
  }
 ];

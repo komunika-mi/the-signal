@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "GpWLiiOJ20k",
+  "title": "Indonesia Butuh Pendanaan Global Capai Target Zero Emission",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Indonesia memerlukan dukungan pendanaan global untuk mempercepat pencapaian target penurunan emisi, karena kebutuhan pembiayaan iklim dinilai jauh melampaui kemampuan APBN.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut keterbatasan fiskal negara dan peluang pembiayaan hijau dari mitra internasional.",
+  "terbit": "2026-10-03T16:33:34+00:00"
+ },
+ {
   "id": "y3VMgycXcVc",
   "title": "Menko AHY Tinjau Laboratorium Hydropower EPFL di Swiss",
   "category": "Energi",

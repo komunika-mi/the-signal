@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "perpres-baru-jadikan-gemarikan-gerakan-nasional",
+  "category": "Industri",
+  "title": "Perpres Baru Jadikan Gemarikan Gerakan [Nasional]",
+  "deck": "Pemerintah menerbitkan Perpres Nomor 74 Tahun 2026 yang menjadikan Gemarikan gerakan nasional, dengan sasaran khusus ibu hamil, ibu menyusui, balita, anak-anak, dan remaja.",
+  "date": "3 Oktober 2026",
+  "image": "assets/img/perpres-baru-jadikan-gemarikan-gerakan-nasional.jpg",
+  "imageV": "murytdrc",
+  "tags": [
+   "Gemarikan",
+   "KKP",
+   "Perpres",
+   "Konsumsi Ikan"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/gemarikan-jadi-gerakan-nasional-kkp-jamin-kualitas-dan-pasokan-ikan-bagi-masyarakat-8M4L.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "indonesia-jerman-incar-teken-ieu-cepa-tahun-ini",
+  "category": "Global",
+  "title": "Indonesia-Jerman Incar Teken [IEU-CEPA] Tahun Ini",
+  "deck": "Menko Airlangga menargetkan penandatanganan IEU-CEPA tahun ini, bersamaan peringatan 74 tahun hubungan diplomatik Indonesia-Jerman yang nilai dagangnya mencapai US$6,11 miliar pada 2025.",
+  "date": "3 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "Indonesia-Jerman",
+   "IEU-CEPA",
+   "JETP",
+   "Perdagangan Bilateral"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7123/tujuh-dekade-hubungan-diplomatik-indonesiajerman-menko-airlangga-dorong-kerja-sama-ekonomi-yang-semakin-konkret",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "emas-gadaikan-saham-anak-usaha-untuk-pinjaman-us-350-juta",
   "category": "Aksi Korporasi",
   "title": "EMAS Gadaikan Saham Anak Usaha untuk Pinjaman [US$350 Juta]",
@@ -3322,7 +3356,7 @@ var ARTICLES = [
   "title": "Indonesia dan China Sepakat Percepat Perundingan [CEPA]",
   "deck": "Indonesia dan Tiongkok sepakat mempercepat persiapan perundingan CEPA, sekaligus memperkuat kerja sama ekonomi hijau dan peningkatan kapasitas aparatur sipil negara.",
   "date": "29 September 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "CEPA",
    "Indonesia-Tiongkok",
@@ -6466,38 +6500,6 @@ var ARTICLES = [
    "asuransi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/636c68f29f_e1529d26b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "towr-direksi-ferdinandus-borong-saham-usai-lepas-88",
-  "category": "Aksi Korporasi",
-  "title": "TOWR: Direksi Ferdinandus [Borong] Saham Usai Lepas 88%",
-  "deck": "Direksi Ferdinandus Aming Santoso membeli 2.577.300 saham TOWR seharga Rp388 per lembar, sepekan setelah melepas 88,49 persen kepemilikannya.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "Sarana Menara Nusantara",
-   "kepemilikan saham",
-   "insider trading"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-25092026-4963-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-pefindo-turunkan-peringkat-sukuk-ke-level-default",
-  "category": "Aksi Korporasi",
-  "title": "WIKA: PEFINDO Turunkan Peringkat Sukuk ke Level [Default]",
-  "deck": "PEFINDO menurunkan peringkat dua seri Sukuk Mudharabah WIKA senilai total Rp316 miliar dari idCCC(sy) menjadi idD(sy), menyusul tertundanya pembayaran bagi hasil yang jatuh tempo 18 September 2026.",
-  "date": "25 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "gagal bayar",
-   "PEFINDO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5392cd0a69_1e5bbfbca6.pdf",
   "sourceLabel": "IDX"
  }
 ];

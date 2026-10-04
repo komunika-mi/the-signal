@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "investasi-harus-tumbuh-8-9-kejar-target-ekonomi-2027",
+  "category": "Makroekonomi",
+  "title": "Investasi Harus Tumbuh [8-9%] Kejar Target Ekonomi 2027",
+  "deck": "Kemenko Perekonomian menyebut investasi perlu tumbuh 8-9 persen demi target pertumbuhan ekonomi 6 persen pada 2027, didukung transisi energi hijau dan digitalisasi.",
+  "date": "4 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "investasi",
+   "transisi energi",
+   "elektrifikasi",
+   "pertumbuhan ekonomi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7125/pemerintah-akselerasi-energi-hijau-dan-digital-jadi-twin-engine-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pmi-manufaktur-ri-balik-ke-ekspansi-inflasi-terjaga-3-28",
+  "category": "Makroekonomi",
+  "title": "PMI Manufaktur RI [Balik] ke Ekspansi, Inflasi Terjaga 3,28%",
+  "deck": "Inflasi September terjaga di 3,28 persen, neraca dagang Januari-Agustus surplus US$7,25 miliar, dan PMI manufaktur naik ke 52,4 setelah sempat kontraksi Agustus.",
+  "date": "4 Oktober 2026",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "tags": [
+   "Inflasi",
+   "Neraca Dagang",
+   "PMI Manufaktur",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7126/tiga-indikator-ekonomi-menguat-fundamental-perekonomian-indonesia-tetap-terjaga",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "ragam-bentala-bawa-batik-ke-gaya-harian-lewat-shopee",
   "category": "UMKM",
   "title": "Ragam Bentala Bawa Batik ke Gaya Harian lewat [Shopee]",
@@ -1869,7 +1901,7 @@ var ARTICLES = [
   "title": "Manufaktur RI Kembali [Ekspansi], Surplus Dagang Melonjak",
   "deck": "Inflasi September terkendali di 3,28 persen, neraca dagang Agustus surplus US$3,55 miliar, dan PMI manufaktur kembali ke zona ekspansi di 52,4, naik dari 49,8 bulan sebelumnya.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "Inflasi",
    "PMI Manufaktur",
@@ -2492,7 +2524,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Jadi [0,30%]",
   "deck": "Harga barang dan jasa pada September 2026 naik 0,30% dibanding bulan sebelumnya, tertinggi sejak Juni yang mencatat 0,44%.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -2751,7 +2783,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Capai [3,28] Persen, Inti Lebih Rendah",
   "deck": "BPS mencatat inflasi tahunan 3,28 persen pada September 2026, dengan inflasi bulanan 0,30 persen dan inflasi inti 2,84 persen.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "Inflasi",
    "BPS",
@@ -2767,7 +2799,7 @@ var ARTICLES = [
   "title": "Harga Perdagangan Besar [Naik] 6,76 Persen di September",
   "deck": "BPS mencatat Indeks Harga Perdagangan Besar nasional naik 6,76 persen secara tahunan pada September 2026, dengan bahan bangunan jadi kelompok paling tertekan.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "IHPB",
    "harga grosir",
@@ -6452,38 +6484,6 @@ var ARTICLES = [
    "Pos Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/48e0c5ff29_df54cbc755.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rsch-ganti-kepala-audit-internal-mega-gantikan-catur-asih",
-  "category": "Aksi Korporasi",
-  "title": "RSCH Ganti [Kepala Audit Internal], Mega Gantikan Catur Asih",
-  "deck": "PT Charlie Hospital Semarang Tbk mengangkat Mega Choirun Nisa sebagai Kepala Unit Audit Internal baru, menggantikan Catur Asih Puspitasari yang mengundurkan diri, efektif 28 September 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RSCH",
-   "audit internal",
-   "tata kelola perusahaan",
-   "Charlie Hospital Semarang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cb1c7f3d19_766d4edc9a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bali-kharisma-cipta-tambah-5-1-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "BALI: Kharisma Cipta [Tambah] 5,1 Juta Saham",
-  "deck": "PT Kharisma Cipta Towerindo menambah kepemilikan di BALI sebanyak 5,1 juta saham senilai sekitar Rp7,24 miliar, hak suara naik tipis jadi 59,95 persen.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BALI",
-   "Bali Towerindo Sentra",
-   "Kepemilikan Saham",
-   "Kharisma Cipta Towerindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-3602-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

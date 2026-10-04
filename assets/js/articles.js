@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang konkret di sini adalah kebutuhan investasi Rp2.218-2.258 triliun untuk kejar target pertumbuhan 6 persen pada 2027, dan lonjakan target Listrik Desa dari 1.505 ke 4.390 lokasi hanya dalam satu tahun. Kebutuhan modal sebesar itu jelas tidak bisa ditanggung anggaran negara sendirian, makanya pemerintah menyandarkannya pada obligasi hijau, yaitu surat utang khusus untuk proyek ramah lingkungan, pembiayaan campuran dari donor dan swasta, serta kerja sama transisi energi JETP dan AZEC dengan negara maju. Pihak yang paling kena dampak langsung adalah desa-desa yang belum teraliri listrik, sementara industri dan operator pusat data jadi pihak yang menunggu pasokan listrik stabil dari jaringan transmisi baru. Arahnya terlihat menuju pelibatan dana swasta dan asing yang lebih besar dalam proyek energi dan mineral kritis ketimbang mengandalkan belanja pemerintah sendiri, dan yang akan membuktikan arah ini berjalan atau mandek adalah laporan realisasi investasi hijau serta progres penyelesaian 4.390 lokasi Listrik Desa pada akhir 2026.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pmi-manufaktur-ri-balik-ke-ekspansi-inflasi-terjaga-3-28",
@@ -56,7 +56,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Ada dua perubahan konkret yang patut digarisbawahi: PMI manufaktur melompat dari 49,8 ke 52,4 dalam sebulan, dan inflasi pangan segar masih bertahan di 5,03 persen, jauh di atas inflasi inti yang cuma 2,84 persen. Dampaknya kena ke dua kelompok berbeda, pekerja dan pengusaha manufaktur merasakannya lewat pesanan baru dan penyerapan tenaga kerja yang naik, sementara rumah tangga berpendapatan rendah lebih terasa dari sisi harga pangan, yang membuat pemerintah menambah bantuan beras dan PKH untuk Oktober sampai Desember. Ke depan ada dua kemungkinan, lompatan PMI ini jadi awal pemulihan manufaktur yang berlanjut, didukung pesanan ekspor tercepat sejak Mei 2022, atau sekadar koreksi satu bulan setelah kontraksi Agustus. Yang akan memastikan arahnya adalah rilis PMI Oktober yang biasanya keluar awal November, serta apakah inflasi pangan segar mulai turun atau justru naik menjelang musim libur akhir tahun.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ragam-bentala-bawa-batik-ke-gaya-harian-lewat-shopee",

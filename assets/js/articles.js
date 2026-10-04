@@ -1182,6 +1182,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "dr-5-waran-rhb-jatuh-tempo-auto-saja-cuan",
+  "category": "Aksi Korporasi",
+  "title": "DR: 5 Waran RHB [Jatuh Tempo], AUTO Saja Cuan",
+  "deck": "RHB Sekuritas melaksanakan lima waran terstruktur atas AUTO, AVIA, BBTN, ITMG, dan MIKA pada 2 Oktober 2026; hanya pemegang waran AUTO yang berhak atas dana penyelesaian tunai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T17:06:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/92185eaf05_22da745adf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "AUTO"
+  ],
+  "body": [
+   "RHB Sekuritas Indonesia mengumumkan pelaksanaan lima waran terstruktur (call warrant) pada 2 Oktober 2026, yaitu AUTODRCV6A, AVIADRCV6A, BBTNDRCV6A, ITMGDRCV6A, dan MIKADRCV6A, yang masing-masing mengacu pada saham AUTO, AVIA, BBTN, ITMG, dan MIKA. Setelah tanggal tersebut, kelima waran ini tidak lagi dapat diperdagangkan di Bursa Efek Indonesia. Jumlah unit yang diterbitkan adalah 100 juta untuk AUTODRCV6A, AVIADRCV6A, BBTNDRCV6A, dan MIKADRCV6A, serta 50 juta untuk ITMGDRCV6A.",
+   "Harga penyelesaian ditentukan dari rata-rata harga penutupan saham acuan selama lima hari bursa sebelum tanggal pelaksanaan. Untuk AUTO, harga penyelesaian Rp3.324 lebih tinggi dari harga pelaksanaan Rp2.975, sehingga selisihnya Rp349 dibagi rasio pelaksanaan 6,4084 menghasilkan dana penyelesaian tunai positif per waran. Dana ini akan dibayarkan pada hari bursa ketiga setelah 2 Oktober 2026, disalurkan dari KPEI ke KSEI lalu ke pemegang rekening investor.",
+   "Empat waran lainnya berakhir tanpa nilai bagi pemegangnya karena harga penyelesaian lebih rendah dari harga pelaksanaan. AVIA tercatat Rp333 berbanding harga pelaksanaan Rp492, BBTN Rp1.081 berbanding Rp1.720, ITMG Rp25.190 berbanding Rp34.451, dan MIKA Rp1.688 berbanding Rp3.404. Karena selisihnya negatif, pemegang AVIADRCV6A, BBTNDRCV6A, ITMGDRCV6A, dan MIKADRCV6A tidak berhak menerima pembayaran apa pun dari dana penyelesaian tunai."
+  ],
+  "fotoAdegan": "Stock exchange trading floor ticker board reflections in a glass office tower at dusk, Jakarta financial district",
+  "takeaway": "Laporan ini netral bagi RHB Sekuritas selaku penerbit, karena hasil penyelesaian murni keluaran rumus baku di prospektus, bukan keputusan bisnis baru dari perseroan. Pos yang tersentuh ada di sisi investor pemegang waran, bukan di laporan keuangan emiten acuan, sebab waran terstruktur ini produk derivatif milik RHB dan tidak menambah jumlah saham beredar AUTO, AVIA, BBTN, ITMG, maupun MIKA, sehingga tidak ada dilusi laba per saham di lima emiten itu. Satu dari lima waran, yaitu AUTO, justru membuat pemegangnya untung karena harga sahamnya naik melewati harga pelaksanaan, sementara empat lainnya nihil karena harga sahamnya turun di bawah harga pelaksanaan. Yang perlu dipantau adalah pencairan dana penyelesaian AUTO pada hari bursa ketiga sejak 2 Oktober 2026, yakni sekitar 6 atau 7 Oktober 2026, serta jadwal pelaksanaan waran RHB berikutnya yang hampir tiap pekan muncul di keterbukaan informasi.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "eraa-direksi-tambah-2-24-juta-saham-lewat-mesop",
   "category": "Aksi Korporasi",
   "title": "ERAA: Direksi Tambah 2,24 Juta Saham Lewat [MESOP]",
@@ -1231,6 +1257,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Blurred motion shot of a stock exchange trading floor with traders walking past distant scrolling display screens, evening light in Jakarta.",
   "takeaway": "Laporan ini netral bagi fundamental MAXI, sebab penurunan harga sahamnya murni dipicu perubahan aturan main bursa, bukan kabar buruk dari sisi bisnis atau keuangan perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh di sini, yang berubah hanyalah batas bawah harga harian yang boleh dicapai saham ini, dikenal sebagai auto rejection bawah, setelah BEI mencabut lantai harga Rp50 yang selama ini menahan saham gocap seperti MAXI dari penurunan lebih lanjut. Yang perlu dipantau adalah apakah harga MAXI mulai stabil pada hari-hari bursa berikutnya setelah lima hari ARB beruntun, atau justru berlanjut turun sehingga BEI kembali meminta penjelasan tambahan, karena perubahan aturan serupa berpotensi memicu koreksi tajam pada saham-saham gocap lain yang sebelumnya tertahan di harga minimum.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgeo-catatkan-1-45-juta-saham-baru-dari-mesop",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catatkan 1,45 Juta Saham Baru dari [MESOP]",
+  "deck": "BEI mencatatkan 1.448.585 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III, efektif 5 Oktober 2026, saham beredar naik menjadi 41,95 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T16:58:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6664add4ae_582753a004.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "Pertamina Geothermal Energy",
+   "saham baru"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan saham baru PT Pertamina Geothermal Energy Tbk (PGEO) hasil pelaksanaan program opsi saham karyawan dan manajemen atau MESOP. Sebanyak 762.885 saham dari Tahap I dan 685.700 saham dari Tahap III mulai tercatat dan diperdagangkan pada 5 Oktober 2026. Setelah pencatatan Tahap I, jumlah saham beredar PGEO menjadi 41.952.138.088, kemudian setelah Tahap III ikut tercatat, totalnya menjadi 41.952.823.788 saham, naik dari 41.951.375.203 saham sebelumnya.",
+   "Program MESOP ini belum selesai. Sisa opsi yang belum dilaksanakan untuk Tahap I masih ada 10.908.240 saham, sementara Tahap III menyisakan 7.983.484 saham. Artinya jumlah saham beredar PGEO masih berpotensi bertambah lagi pada tahap pencatatan berikutnya begitu pemegang opsi kembali mengeksekusi haknya.",
+   "Datindo Entrycom, biro administrasi efek PGEO, dalam suratnya kepada BEI tertanggal 2 Oktober 2026 menyampaikan bahwa penerbitan 1.448.585 saham baru ini dilakukan menyusul permohonan pelaksanaan opsi MESOP tertanggal 1 Oktober 2026. Surat tersebut ditembuskan kepada Muhammad Taufik selaku Corporate Secretary PGEO."
+  ],
+  "fotoAdegan": "Steam rising from geothermal pipelines on a forested volcanic hillside in Indonesia, early morning mist",
+  "takeaway": "Laporan ini netral bagi PGEO karena tambahan 1.448.585 saham dari pelaksanaan opsi hanya sekitar 0,0035 persen dari total saham beredar sebelumnya, porsi yang terlalu kecil untuk mengubah hak suara pemegang saham lama secara berarti. Yang tersentuh di sini adalah jumlah saham beredar, yang setiap kali program opsi karyawan dieksekusi akan terus bertambah sedikit demi sedikit dan membuat laba per saham sedikit terdilusi karena laba yang sama kini dibagi ke lebih banyak lembar saham. Ini sudah laporan ketiga terkait pencatatan saham MESOP PGEO dalam sepekan terakhir, dengan total saham baru dari ketiga laporan mencapai sekitar 3,29 juta lembar, meski porsinya tetap kecil secara kumulatif. Yang perlu dipantau berikutnya adalah sisa opsi yang belum dieksekusi, 10,9 juta saham di Tahap I dan 7,98 juta saham di Tahap III, karena pencatatan lanjutan masih akan terjadi selama masa program opsi ini belum berakhir.",
   "sentimen": "netral"
  },
  {
@@ -2166,6 +2218,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Warehouse staff stacking boxed smartphones onto pallets inside a bright logistics distribution center, forklift nearby",
   "takeaway": "Penambahan ini netral bagi ERAA karena sahamnya berasal dari pencairan opsi program kompensasi karyawan MESOP, bukan pembelian di pasar terbuka yang biasanya dibaca sebagai sinyal keyakinan pribadi direksi, dan hak suara Sim Chee Ping di perusahaan pun tidak berubah dari 0,05%. Yang tersentuh dari seri laporan MESOP ini adalah jumlah saham beredar ERAA: setiap pencairan opsi menambah saham baru di pasar, sehingga porsi kepemilikan pemegang saham lama dan laba per saham berpotensi terdilusi sedikit meski dampaknya kecil untuk satu laporan saja. Ini sudah laporan keenam dari program MESOP yang sama dalam sepekan terakhir dari jajaran direksi ERAA, setelah Hasan Aula (sekitar 1,49 juta saham), Joy Wahjudi (sekitar 1,9 juta saham), Djohan Sutanto (975.589 saham), dan satu laporan lagi senilai 2,24 juta saham, sehingga total saham yang mengalir ke direksi dari program ini mendekati 7,8 juta lembar di luar satu laporan lain yang jumlahnya belum disebutkan. Yang perlu dipantau berikutnya adalah apakah masih ada laporan serupa menyusul dari direksi atau komisaris lain ERAA, serta apakah ada penjelasan tambahan soal total realisasi program MESOP ini menjelang akhir periode pelaksanaannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "eraa-direksi-kim-jong-woon-tambah-1-15-juta-saham-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Direksi Kim Jong Woon Tambah 1,15 Juta Saham [MESOP]",
+  "deck": "Direksi ERAA, Kim Jong Woon, menambah 1.156.453 saham lewat program kompensasi karyawan MESOP, sehingga total kepemilikannya naik jadi 2.312.907 lembar saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 Oktober 2026",
+  "isoDate": "2026-10-02T09:53:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6962-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Kim Jong Woon, anggota direksi Erajaya Swasembada Tbk (ERAA) yang berkewarganegaraan asing, melaporkan ke Otoritas Jasa Keuangan bahwa pada 1 Oktober 2026 ia menerima tambahan 1.156.453 saham ERAA lewat program kompensasi karyawan MESOP (Management Employee Stock Option Program). Jumlah sahamnya naik dari 1.156.454 unit menjadi 2.312.907 unit, atau bertambah hampir dua kali lipat dari kepemilikan sebelumnya. Transaksi tercatat berjenis repurchase agreement dengan status kepemilikan tidak langsung, dan laporan diterima otoritas pada 2 Oktober 2026.",
+   "Meski jumlah sahamnya melonjak tajam secara persentase pribadi, porsi hak suara Kim Jong Woon di ERAA tetap di angka 0,01 persen baik sebelum maupun sesudah transaksi. Ini menunjukkan bahwa secara absolut, tambahan saham tersebut masih sangat kecil dibanding total saham ERAA yang beredar.",
+   "Laporan ini menyusul lima laporan serupa pekan ini dari jajaran direksi ERAA yang sama-sama mencairkan opsi program MESOP, yaitu seorang direksi dengan 2,24 juta saham, Hasan Aula dengan 1,49 juta saham, Joy Wahjudi dengan 1,9 juta saham, Djohan Sutanto dengan 975.589 saham, dan Sim Chee Ping dengan 1,18 juta saham. Dengan tambahan dari Kim Jong Woon, total saham yang dicairkan ke jajaran direksi ERAA lewat program MESOP pekan ini mencapai sekitar 8,9 juta lembar."
+  ],
+  "fotoAdegan": "Customers browsing smartphone displays inside a brightly lit electronics retail store in Jakarta, evening shoppers passing by",
+  "takeaway": "Laporan ini netral bagi ERAA karena sumber tambahan saham Kim Jong Woon adalah pencairan opsi program kompensasi karyawan MESOP, bukan pembelian di pasar terbuka pakai uang pribadi yang biasa dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan. Pos yang tersentuh adalah jumlah saham beredar, karena setiap pencairan opsi menambah saham baru ERAA yang beredar sehingga laba per saham berpotensi sedikit terdilusi jika jumlahnya terus membesar, sementara hak suara Kim Jong Woon sendiri tidak berubah dari 0,01 persen dan tidak mengubah peta kendali perusahaan. Yang perlu dicermati adalah akumulasinya, sebab ini sudah laporan keenam dari rangkaian pencairan MESOP serupa pekan ini dengan total saham ke jajaran direksi mendekati 8,9 juta lembar, sebuah jumlah yang mulai layak dipantau meski tiap laporan individual masih kecil. Pembaca bisa memantau apakah laporan keterbukaan informasi ERAA berikutnya masih menunjukkan pencairan opsi serupa dari direksi atau karyawan kunci lain.",
   "sentimen": "netral"
  },
  {

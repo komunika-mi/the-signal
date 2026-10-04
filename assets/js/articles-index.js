@@ -737,6 +737,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "dr-5-waran-rhb-jatuh-tempo-auto-saja-cuan",
+  "category": "Aksi Korporasi",
+  "title": "DR: 5 Waran RHB [Jatuh Tempo], AUTO Saja Cuan",
+  "deck": "RHB Sekuritas melaksanakan lima waran terstruktur atas AUTO, AVIA, BBTN, ITMG, dan MIKA pada 2 Oktober 2026; hanya pemegang waran AUTO yang berhak atas dana penyelesaian tunai.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "AUTO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/92185eaf05_22da745adf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "eraa-direksi-tambah-2-24-juta-saham-lewat-mesop",
   "category": "Aksi Korporasi",
   "title": "ERAA: Direksi Tambah 2,24 Juta Saham Lewat [MESOP]",
@@ -766,6 +782,22 @@ var ARTICLES = [
    "volatilitas saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2508bdb24e_7b836d0e17.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgeo-catatkan-1-45-juta-saham-baru-dari-mesop",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catatkan 1,45 Juta Saham Baru dari [MESOP]",
+  "deck": "BEI mencatatkan 1.448.585 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III, efektif 5 Oktober 2026, saham beredar naik menjadi 41,95 miliar.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "MESOP",
+   "Pertamina Geothermal Energy",
+   "saham baru"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6664add4ae_582753a004.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1344,6 +1376,22 @@ var ARTICLES = [
    "Kepemilikan Saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-9255-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "eraa-direksi-kim-jong-woon-tambah-1-15-juta-saham-mesop",
+  "category": "Aksi Korporasi",
+  "title": "ERAA: Direksi Kim Jong Woon Tambah 1,15 Juta Saham [MESOP]",
+  "deck": "Direksi ERAA, Kim Jong Woon, menambah 1.156.453 saham lewat program kompensasi karyawan MESOP, sehingga total kepemilikannya naik jadi 2.312.907 lembar saham.",
+  "date": "2 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6962-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6435,55 +6483,6 @@ var ARTICLES = [
    "jadwal rapat"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/192a9a6451_a971c1e8f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lmpi-rombak-direksi-komisaris-hidayat-alim-jadi-dirut",
-  "category": "Aksi Korporasi",
-  "title": "LMPI Rombak Direksi-Komisaris, Hidayat Alim Jadi [Dirut]",
-  "deck": "RUPSLB Langgeng Makmur Industri menyetujui pengunduran diri satu komisaris independen dan menetapkan susunan direksi-komisaris baru yang berlaku hingga 2029.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LMPI",
-   "RUPSLB",
-   "pergantian direksi",
-   "Langgeng Makmur Industri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e02628b555_ef633881aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "transisi-hijau-butuh-talenta-baru-kata-petrokimia-gresik",
-  "category": "BUMN",
-  "title": "Transisi Hijau Butuh [Talenta] Baru, Kata Petrokimia Gresik",
-  "deck": "Petrokimia Gresik menyebut transisi industri hijau menuntut kompetensi kerja baru, sekaligus menargetkan penurunan emisi 30 persen pada 2030 menuju nol emisi bersih 2060.",
-  "date": "28 September 2026",
-  "image": "assets/img/transisi-hijau-butuh-talenta-baru-kata-petrokimia-gresik.jpg",
-  "imageV": "mukslkd4",
-  "tags": [
-   "Petrokimia Gresik",
-   "industri hijau",
-   "talenta kerja",
-   "emisi karbon"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469855-transformasi-industri-hijau-dorong-kebutuhan-talenta-baru-petrokimia-gresik-bawa-isu-ke-forum-pbb"
- },
- {
-  "slug": "trim-siapkan-dana-rp100-miliar-untuk-pelunasan-obligasi-seri-a",
-  "category": "Aksi Korporasi",
-  "title": "TRIM Siapkan Dana Rp100 Miliar untuk [Pelunasan] Obligasi Seri A",
-  "deck": "TRIM menyatakan telah menyiapkan dana Rp100 miliar untuk pelunasan pokok Obligasi Berkelanjutan II Tahap II 2025 Seri A yang jatuh tempo 18 Oktober 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIM",
-   "obligasi",
-   "pelunasan efek",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/087d241432_20a0283502.pdf",
   "sourceLabel": "IDX"
  }
 ];

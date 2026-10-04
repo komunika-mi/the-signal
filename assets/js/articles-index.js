@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ragam-bentala-bawa-batik-ke-gaya-harian-lewat-shopee",
+  "category": "UMKM",
+  "title": "Ragam Bentala Bawa Batik ke Gaya Harian lewat [Shopee]",
+  "deck": "Brand lokal Ragam Bentala memperluas batik dari busana formal ke gaya sehari-hari lewat Official Store di Shopee, mengklaim pertumbuhan pesat sejak merambah pasar digital.",
+  "date": "4 Oktober 2026",
+  "image": "assets/img/ragam-bentala-bawa-batik-ke-gaya-harian-lewat-shopee.jpg",
+  "imageV": "mut4krk0",
+  "tags": [
+   "shopee",
+   "batik",
+   "umkm",
+   "ekonomi kreatif"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470996-dari-wastra-ke-gaya-sehari-hari-ragam-bentala-perluas-cerita-batik-indonesia-bersama-shopee"
+ },
+ {
   "slug": "atic-direktur-beli-30-000-saham-senilai-rp13-47-juta",
   "category": "Aksi Korporasi",
   "title": "ATIC: Direktur [Beli] 30.000 Saham Senilai Rp13,47 Juta",
@@ -6467,22 +6484,6 @@ var ARTICLES = [
    "Kharisma Cipta Towerindo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-3602-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-tunda-rupslb-lagi-mundur-ke-21-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Tunda RUPSLB [Lagi], Mundur ke 21 Oktober 2026",
-  "deck": "PT Solusi Sinergi Digital Tbk (WIFI) mengubah jadwal RUPSLB untuk keempat kalinya, kini menjadi Rabu, 21 Oktober 2026, setelah tiga kali penundaan sejak Agustus 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "RUPSLB",
-   "Solusi Sinergi Digital",
-   "jadwal rapat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/192a9a6451_a971c1e8f0.pdf",
   "sourceLabel": "IDX"
  }
 ];

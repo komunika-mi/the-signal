@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "GH0px3XJDZ0",
+  "title": "Prospek Bisnis Haji dan Umrah Cerah, Jannah Firdaus Target 30 Ribu Jemaah",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "Industri perjalanan haji dan umrah di Indonesia dinilai masih prospektif seiring tingginya minat masyarakat, dengan Jannah Firdaus menargetkan memberangkatkan 30 ribu jemaah pada 2026.",
+  "takeaway": "Menunjukkan geliat sektor jasa perjalanan ibadah sebagai salah satu lini bisnis yang terus tumbuh di Indonesia.",
+  "terbit": "2026-10-04T00:37:41+00:00"
+ },
+ {
   "id": "GpWLiiOJ20k",
   "title": "Indonesia Butuh Pendanaan Global Capai Target Zero Emission",
   "category": "Energi",

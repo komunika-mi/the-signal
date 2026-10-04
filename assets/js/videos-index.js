@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "GH0px3XJDZ0",
+  "title": "Prospek Bisnis Haji dan Umrah Cerah, Jannah Firdaus Target 30 Ribu Jemaah",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "Industri perjalanan haji dan umrah di Indonesia dinilai masih prospektif seiring tingginya minat masyarakat, dengan Jannah Firdaus menargetkan memberangkatkan 30 ribu jemaah pada 2026.",
+  "takeaway": "Menunjukkan geliat sektor jasa perjalanan ibadah sebagai salah satu lini bisnis yang terus tumbuh di Indonesia."
+ },
+ {
   "id": "GpWLiiOJ20k",
   "title": "Indonesia Butuh Pendanaan Global Capai Target Zero Emission",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Kementerian Sosial memaparkan skema Data Tunggal Sosial dan Ekonomi Nasional sebagai alternatif rencana pembukaan rekening bank massal yang membutuhkan anggaran APBN hingga Rp11 triliun.",
   "takeaway": "Menyorot arah kebijakan penyaluran bantuan sosial yang berdampak pada efisiensi anggaran negara."
- },
- {
-  "id": "jQvSoo1dI8g",
-  "title": "Rekening Massal, Bansos Makin Tepat Sasaran?",
-  "category": "Perbankan",
-  "program": "Indonesia Business Forum",
-  "summary": "Diskusi membahas apakah rencana pembukaan rekening bank massal, yang diperkirakan menelan anggaran APBN hingga Rp11 triliun, akan membuat penyaluran bantuan sosial lebih tepat sasaran.",
-  "takeaway": "Membahas efektivitas kebijakan yang berpotensi menyerap anggaran negara dalam jumlah besar."
  }
 ];

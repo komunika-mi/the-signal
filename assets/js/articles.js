@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ragam-bentala-bawa-batik-ke-gaya-harian-lewat-shopee",
+  "category": "UMKM",
+  "title": "Ragam Bentala Bawa Batik ke Gaya Harian lewat [Shopee]",
+  "deck": "Brand lokal Ragam Bentala memperluas batik dari busana formal ke gaya sehari-hari lewat Official Store di Shopee, mengklaim pertumbuhan pesat sejak merambah pasar digital.",
+  "image": "assets/img/ragam-bentala-bawa-batik-ke-gaya-harian-lewat-shopee.jpg",
+  "date": "4 Oktober 2026",
+  "isoDate": "2026-10-04T08:00:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/470996-dari-wastra-ke-gaya-sehari-hari-ragam-bentala-perluas-cerita-batik-indonesia-bersama-shopee",
+  "tags": [
+   "shopee",
+   "batik",
+   "umkm",
+   "ekonomi kreatif"
+  ],
+  "body": [
+   "Brand pakaian batik lokal Ragam Bentala mengklaim pertumbuhan bisnis yang melesat setelah memperluas penjualan ke platform Shopee. Jenama yang berdiri sejak Februari 2020 ini awalnya dibangun dengan misi mengubah pandangan generasi muda terhadap batik, dari busana formal menjadi pakaian yang bisa dipakai sehari-hari.",
+   "Digagas oleh Anne SPC Aziz dan Nur'aini JB, Ragam Bentala mengusung konsep busana batik yang kasual dan mudah dipadukan, dengan nuansa warna earth tone yang terinspirasi dari filosofi nama 'Ragam' yang berarti keberagaman dan 'Bentala' yang berarti bumi. Lini produknya mencakup Kebaya Encim, Rok Lilit Batik, Obi Belt Batik, Riung Tunik, dan Kemeja Batik, dengan nama-nama koleksi berbahasa Indonesia seperti Terikat, Ranum, Riung, Sanubari, dan Amerta.",
+   "Menurut Anne, setiap produk Ragam Bentala dikerjakan oleh pengrajin batik cap manual tradisional di berbagai daerah binaan mereka, sehingga pertumbuhan bisnis ini juga berkaitan langsung dengan lapangan kerja dan keberlangsungan ekonomi para pengrajin tersebut. Dengan membuka Official Store di Shopee, Ragam Bentala menyebut kini bisa menjangkau pembeli generasi muda di daerah-daerah yang sebelumnya belum terjangkau oleh jenama ini.",
+   "Beradaptasi ke kanal digital disebut sebagai salah satu tantangan dalam perjalanan membangun brand lokal ini. Namun pembukaan Official Store di Shopee dipandang sebagai salah satu peluang besar bagi Ragam Bentala untuk memperluas pasar sekaligus memperkenalkan batik cap tradisional kepada konsumen baru."
+  ],
+  "fotoAdegan": "Artisan hands stamping traditional batik cap patterns onto folded cotton fabric in a small home workshop, warm natural light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/03/6ac109a92bb9f-dari-wastra-ke-gaya-sehari-hari-ragam-bentala-perluas-cerita-batik-indonesia-bersama-shopee_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah jalur jualnya, bukan produknya: batik yang sebelumnya lebih identik dengan acara formal kini dikemas jadi pakaian harian dan dijual lewat etalase online di Shopee, menyasar pembeli muda di luar kota-kota yang sebelumnya dijangkau Ragam Bentala. Yang terdampak langsung adalah pengrajin batik cap manual di daerah binaan mereka, karena menurut pendirinya, setiap pesanan yang masuk lewat Shopee ikut menopang pekerjaan dan pendapatan para pengrajin itu. Namun berita ini tidak menyebut angka konkret, seperti berapa persen kenaikan penjualan, berapa banyak pengrajin yang terlibat, atau berapa nilai transaksi sejak masuk Shopee, sehingga belum bisa dipastikan seberapa besar skala pertumbuhan yang diklaim. Yang perlu ditunggu adalah data penjualan atau laporan kampanye UMKM Shopee berikutnya yang memuat angka riil, supaya klaim pertumbuhan ini bisa diukur, bukan sekadar testimoni pendiri brand.",
+  "imageV": "mut4krk0"
+ },
+ {
   "slug": "atic-direktur-beli-30-000-saham-senilai-rp13-47-juta",
   "category": "Aksi Korporasi",
   "title": "ATIC: Direktur [Beli] 30.000 Saham Senilai Rp13,47 Juta",

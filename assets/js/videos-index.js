@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "wG_oIR1h7e0",
+  "title": "Desainer Lokal Unjuk Kreasi Bidik Pasar Dunia",
+  "category": "Industri",
+  "program": "Kabar Siang",
+  "summary": "Borneo International Fashion Festival 2026 menjadi ajang bagi desainer lokal memamerkan karya sekaligus membangun ekosistem industri fashion di Kalimantan dengan target pasar global.",
+  "takeaway": "Relevan sebagai gambaran upaya daerah mengembangkan industri kreatif berorientasi ekspor."
+ },
+ {
+  "id": "gZ1-1YiE6Vw",
+  "title": "Kupas Kepiting Jadi Sumber Penghasilan Warga Pesisir",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Usaha pengupasan rajungan yang digeluti ibu-ibu di pesisir Kabupaten Maros, Sulawesi Selatan, kini menjadi salah satu aktivitas ekonomi andalan warga setempat.",
+  "takeaway": "Menggambarkan geliat ekonomi UMKM berbasis sumber daya laut yang menopang pendapatan masyarakat pesisir."
+ },
+ {
   "id": "GH0px3XJDZ0",
   "title": "Prospek Bisnis Haji dan Umrah Cerah, Jannah Firdaus Target 30 Ribu Jemaah",
   "category": "Bisnis",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "IBF tvOne",
   "summary": "Rencana pembukaan rekening massal untuk penyaluran bansos menuai pro dan kontra karena diperkirakan membutuhkan anggaran APBN hingga Rp11 triliun, sementara sebagian pihak menilai perbaikan Data Tunggal Sosial lebih mendesak.",
   "takeaway": "Menyangkut efisiensi belanja APBN dan tata kelola program perlindungan sosial yang berdampak langsung pada anggaran negara."
- },
- {
-  "id": "2AxYH_wOjdI",
-  "title": "Rekomendasi DEN DPI dan GovTech soal Rekening Massal",
-  "category": "Perbankan",
-  "program": "Indonesia Business Forum",
-  "summary": "DEN DPI dan GovTech menyampaikan rekomendasi soal rencana pembukaan rekening bank secara massal, yang diperkirakan membutuhkan anggaran APBN hingga Rp11 triliun dan menuai pro kontra.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut penggunaan anggaran negara skala triliunan rupiah dan arah kebijakan inklusi keuangan."
- },
- {
-  "id": "OZ0u11KR5GU",
-  "title": "Kemensos Jelaskan Data Tunggal Sosial dan Ekonomi Nasional",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Kementerian Sosial memaparkan skema Data Tunggal Sosial dan Ekonomi Nasional sebagai alternatif rencana pembukaan rekening bank massal yang membutuhkan anggaran APBN hingga Rp11 triliun.",
-  "takeaway": "Menyorot arah kebijakan penyaluran bantuan sosial yang berdampak pada efisiensi anggaran negara."
  }
 ];

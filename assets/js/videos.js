@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "wG_oIR1h7e0",
+  "title": "Desainer Lokal Unjuk Kreasi Bidik Pasar Dunia",
+  "category": "Industri",
+  "program": "Kabar Siang",
+  "summary": "Borneo International Fashion Festival 2026 menjadi ajang bagi desainer lokal memamerkan karya sekaligus membangun ekosistem industri fashion di Kalimantan dengan target pasar global.",
+  "takeaway": "Relevan sebagai gambaran upaya daerah mengembangkan industri kreatif berorientasi ekspor.",
+  "terbit": "2026-10-04T05:55:28+00:00"
+ },
+ {
+  "id": "gZ1-1YiE6Vw",
+  "title": "Kupas Kepiting Jadi Sumber Penghasilan Warga Pesisir",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Usaha pengupasan rajungan yang digeluti ibu-ibu di pesisir Kabupaten Maros, Sulawesi Selatan, kini menjadi salah satu aktivitas ekonomi andalan warga setempat.",
+  "takeaway": "Menggambarkan geliat ekonomi UMKM berbasis sumber daya laut yang menopang pendapatan masyarakat pesisir.",
+  "terbit": "2026-10-04T05:47:43+00:00"
+ },
+ {
   "id": "GH0px3XJDZ0",
   "title": "Prospek Bisnis Haji dan Umrah Cerah, Jannah Firdaus Target 30 Ribu Jemaah",
   "category": "Bisnis",

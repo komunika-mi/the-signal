@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dana-pemulihan-bencana-sumut-dipercepat-rp4-82-triliun",
+  "category": "Makroekonomi",
+  "title": "Dana Pemulihan Bencana Sumut [Dipercepat] Rp4,82 Triliun",
+  "deck": "Realisasi APBN Sumatera Utara sampai Agustus 2026 tumbuh dua digit, dengan dana tambahan pemulihan bencana Rp4,82 triliun sudah disalurkan ke kas daerah lewat aturan relaksasi baru.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/dana-pemulihan-bencana-sumut-dipercepat-rp4-82-triliun.jpg",
+  "imageV": "muuofu3i",
+  "tags": [
+   "APBN",
+   "Sumatera Utara",
+   "Transfer ke Daerah",
+   "Pemulihan Bencana"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kinerja-apbn-di-provinsi-sumatera-utara-sampai-dengan-31-agustus-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
   "slug": "ppri-direksi-jual-3-juta-saham-seharga-rp148",
   "category": "Aksi Korporasi",
   "title": "PPRI: Direksi [Jual] 3 Juta Saham Seharga Rp148",
@@ -6467,22 +6485,6 @@ var ARTICLES = [
    "Perubahan Direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7c593b1da9_5c216d7ee7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-right-issue-13-3-miliar-saham-dijamin-penuh-pembeli-siaga",
-  "category": "Aksi Korporasi",
-  "title": "ENRG Right Issue 13,3 Miliar Saham, [Dijamin] Penuh Pembeli Siaga",
-  "deck": "Energi Mega Persada menerbitkan 13,28 miliar saham baru lewat rights issue senilai Rp4,12 triliun. BKI dan BCI, dua entitas Bakrie, menjamin membeli seluruh sisa saham yang tak terserap.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "rights issue",
-   "HMETD",
-   "Bakrie Group"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1d71ca37ab_f6c3809f16.pdf",
   "sourceLabel": "IDX"
  }
 ];

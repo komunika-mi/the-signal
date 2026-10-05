@@ -3,6 +3,35 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dana-pemulihan-bencana-sumut-dipercepat-rp4-82-triliun",
+  "category": "Makroekonomi",
+  "title": "Dana Pemulihan Bencana Sumut [Dipercepat] Rp4,82 Triliun",
+  "deck": "Realisasi APBN Sumatera Utara sampai Agustus 2026 tumbuh dua digit, dengan dana tambahan pemulihan bencana Rp4,82 triliun sudah disalurkan ke kas daerah lewat aturan relaksasi baru.",
+  "image": "assets/img/dana-pemulihan-bencana-sumut-dipercepat-rp4-82-triliun.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T03:09:21.757Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kinerja-apbn-di-provinsi-sumatera-utara-sampai-dengan-31-agustus-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "APBN",
+   "Sumatera Utara",
+   "Transfer ke Daerah",
+   "Pemulihan Bencana"
+  ],
+  "body": [
+   "Kementerian Keuangan Perwakilan Sumatera Utara melaporkan realisasi Anggaran Pendapatan dan Belanja Negara (APBN) di provinsi itu hingga 31 Agustus 2026. Laporan ini memuat rincian penyaluran dana pemulihan bencana ke pemerintah daerah, termasuk Sumatera Utara, Aceh, dan Sumatera Barat, yang dipercepat lewat relaksasi aturan penyaluran tahun ini.",
+   "Pendapatan negara dan hibah di Sumatera Utara tercatat Rp25,96 triliun sampai akhir Agustus 2026, atau 68,46 persen dari target tahun ini, tumbuh 60,58 persen dibanding periode sama tahun lalu. Di sisi lain, belanja negara terealisasi Rp47,69 triliun atau 67,87 persen dari anggaran yang dipatok, naik 25,29 persen secara tahunan.",
+   "Dari total belanja itu, porsi yang dikelola langsung kementerian dan lembaga pusat baru mencapai Rp15,07 triliun atau 52,47 persen dari anggarannya. Belanja pegawai, yakni gaji dan tunjangan aparatur termasuk THR dan gaji ke-13, menyumbang porsi terbesar sebesar Rp8,67 triliun. Belanja modal, yang dipakai untuk membangun infrastruktur dan proyek rehabilitasi pascabencana, baru terpakai Rp2,15 triliun atau 34,36 persen dari anggarannya, meski nilainya melonjak lebih dari lima kali lipat dibanding periode sama tahun lalu yang hanya Rp404,31 miliar.",
+   "Dana yang ditransfer pemerintah pusat ke pemerintah daerah di Sumatera Utara mencapai Rp32,62 triliun atau 78,52 persen dari anggarannya, tumbuh 14,36 persen dibanding tahun lalu. Dana Alokasi Umum, bantuan rutin terbesar bagi daerah, terealisasi Rp21,97 triliun, termasuk tambahan khusus pemulihan bencana sebesar Rp4,27 triliun yang sudah disalurkan seluruhnya. Dana Bagi Hasil terealisasi Rp2,74 triliun, tumbuh 117,08 persen, sementara Dana Desa mencapai Rp1,24 triliun dan dana untuk sekolah serta layanan kesehatan daerah mencapai Rp6,57 triliun.",
+   "Percepatan penyaluran dana ke daerah ini didukung Peraturan Menteri Keuangan Nomor 102 Tahun 2025, yang menyederhanakan syarat dokumen pencairan khusus untuk daerah terdampak bencana di Aceh, Sumatera Utara, dan Sumatera Barat. Secara keseluruhan, pemerintah pusat menyiapkan tambahan transfer pemulihan bencana senilai Rp8,79 triliun pada tahun ini, dan hingga Agustus 2026 sudah Rp4,82 triliun yang masuk ke kas daerah masing-masing pemerintah daerah."
+  ],
+  "fotoAdegan": "Workers operating heavy equipment to repair a damaged rural road in a hilly North Sumatra village, overcast sky",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah secara konkret adalah kecepatan transfer dana pemulihan bencana ke pemerintah daerah di Sumatera Utara, Aceh, dan Sumatera Barat. Lewat aturan baru yang memudahkan syarat dokumen, pemerintah pusat sudah mengirim Rp4,82 triliun dana tambahan pemulihan bencana ke kas daerah, dari total Rp8,79 triliun yang dijanjikan tahun ini. Yang kena dampak langsung adalah pemerintah daerah yang menangani rehabilitasi infrastruktur pascabencana, sementara belanja modal milik pemerintah pusat sendiri untuk proyek sejenis di Sumatera Utara baru terpakai sepertiga dari anggarannya meski sudah melonjak lebih dari lima kali lipat dibanding tahun lalu. Pola ini menunjukkan pemerintah lebih mengandalkan pemerintah daerah sebagai pelaksana utama rekonstruksi lewat transfer dana, ketimbang mengerjakan sendiri lewat proyek kementerian atau lembaga. Yang akan menentukan apakah pola ini berlanjut adalah laporan realisasi belanja modal pusat pada akhir tahun, karena proyek fisik biasanya baru terserap besar-besaran di kuartal terakhir.",
+  "imageV": "muuofu3i"
+ },
+ {
   "slug": "ppri-direksi-jual-3-juta-saham-seharga-rp148",
   "category": "Aksi Korporasi",
   "title": "PPRI: Direksi [Jual] 3 Juta Saham Seharga Rp148",

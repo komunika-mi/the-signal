@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cybr-direktur-tambah-saham-7-3-juta-lembar-lewat-pembelian",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direktur [Tambah] Saham 7,3 Juta Lembar Lewat Pembelian",
+  "deck": "Direktur ITSEC Asia (CYBR), Patrick Rudolf Dannacher, membeli 7,31 juta saham secara tidak langsung sepanjang akhir September 2026, menambah hak suaranya menjadi 0,797 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T22:17:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7781-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Patrick Rudolf Dannacher, Direktur PT ITSEC Asia Tbk (CYBR) yang berstatus warga negara asing, melaporkan penambahan kepemilikan saham perusahaan ke Otoritas Jasa Keuangan. Jumlah sahamnya naik dari 100.251.100 lembar menjadi 107.563.500 lembar, bertambah 7.312.400 lembar atau sekitar 7,29 persen dari kepemilikannya sebelumnya. Akibatnya, hak suaranya di CYBR naik dari 0,743 persen menjadi 0,797 persen.",
+   "Penambahan ini berasal dari serangkaian pembelian tidak langsung saham biasa yang dilakukan dalam delapan hari perdagangan, dari 23 September hingga 30 September 2026. Harga belinya bervariasi antara Rp492 dan Rp530 per saham, dengan jumlah per transaksi berkisar dari seratus lembar hingga lebih dari dua juta lembar sekali beli. Dalam laporannya, tujuan seluruh transaksi dicatat sebagai investasi.",
+   "Dannacher juga tercatat sebagai pengendali perusahaan dan menyatakan akan mempertahankan status pengendaliannya. Laporan ini disampaikan sesuai POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Rows of server racks with blinking status lights in a dim data center corridor, Jakarta technology office at night",
+  "takeaway": "Laporan ini cenderung positif bagi CYBR karena sang direktur menambah, bukan mengurangi, kepemilikannya sendiri lewat pembelian berulang selama lebih dari sepekan, yang biasa dibaca pasar sebagai bentuk keyakinan orang dalam pada perusahaannya. Transaksi ini tidak menambah jumlah saham beredar perusahaan karena sahamnya dibeli dari pasar sekunder, bukan diterbitkan baru, sehingga yang bergeser hanyalah porsi kepemilikan sang direktur, bukan struktur modal CYBR secara keseluruhan. Dari sisi hak suara, porsinya memang masih kecil, hanya naik dari 0,743 persen ke 0,797 persen dari seluruh saham perusahaan, jadi dampaknya terhadap pengendalian perusahaan belum berarti. Yang perlu dipantau selanjutnya adalah apakah Dannacher melanjutkan pola pembelian serupa di laporan periode berikutnya, mengingat ia telah menyatakan akan mempertahankan status pengendalinya di CYBR.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bjbr-pertahankan-rating-aa-idn-dari-fitch-npl-naik-3-3",
+  "category": "Aksi Korporasi",
+  "title": "BJBR Pertahankan Rating AA-(idn) dari Fitch, [NPL] Naik 3,3%",
+  "deck": "Fitch Ratings mengafirmasi peringkat bank bjb di AA-(idn) dengan outlook stabil, namun mencatat rasio kredit bermasalah naik ke 3,3 persen dan margin laba yang mulai menyempit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T21:08:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/12baf3f7d7_9d0955b23d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BJBR",
+  "tags": [
+   "BJBR",
+   "bank bjb",
+   "Fitch Ratings",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk (BJBR), atau bank bjb, menyampaikan keterbukaan informasi bahwa PT Fitch Ratings Indonesia mengafirmasi peringkat utang jangka panjang nasional (National Long-Term Rating) bank bjb di level AA-(idn) atau Double A Minus, dengan outlook stabil. Keterbukaan ini merujuk pada surat Fitch Ratings Indonesia No. 195/DIR/RATLTR/X/2026 tanggal 5 Oktober 2026 dan disampaikan ke Otoritas Jasa Keuangan sesuai Peraturan OJK No.49/POJK.04/2020 tentang Pemeringkatan Efek Bersifat Utang dan/atau Sukuk. Laporan ditandatangani oleh Corporate Secretary bank bjb, Irwan Riswandi.",
+   "Dalam uraian pertimbangannya, Fitch menyebut peringkat bank bjb ditopang oleh kekuatan kredit mandiri perseroan serta kemungkinan sedang dukungan luar biasa dari pemerintah, mengingat bank bjb adalah bank pembangunan daerah terbesar di Indonesia dengan pangsa 1,6 persen dari total aset perbankan nasional per akhir Juni 2026. Sekitar tiga perempat kredit konsolidasian bank bjb berasal dari pinjaman payroll pegawai sektor publik di Jawa Barat dan Banten, yang dinilai berisiko rendah karena cicilannya dipotong langsung dari gaji. Namun rasio kredit bermasalah (NPL) bank bjb naik menjadi 3,3 persen per akhir Juni 2026, dari rata-rata 2,0 persen dalam empat tahun terakhir, dan rasio kredit berisiko (loans-at-risk) ikut naik ke 10,2 persen dari rata-rata 8,0 persen, terutama disumbang segmen korporasi serta usaha mikro, kecil, dan menengah.",
+   "Fitch mencatat rasio kecukupan modal inti utama (CET1) bank bjb berada di 14,5 persen per Juni 2026 dan diperkirakan bertahan di atas 14 persen, meski pertumbuhan modal tertahan oleh rasio pembagian dividen yang tinggi, sekitar 78 persen dari laba. Rasio pinjaman terhadap dana pihak ketiga membaik ke 87 persen pada semester I 2026 dari 92 persen di akhir 2025, dan rasio kecukupan likuiditas tercatat 207 persen, jauh di atas batas minimum regulator. Fitch memproyeksikan rasio laba operasional terhadap aset tertimbang risiko melandai ke sekitar 1,7 persen hingga akhir 2027, seiring kenaikan suku bunga acuan Bank Indonesia sebesar 100 basis poin pada pertengahan 2026 yang mengerek biaya dana lebih cepat dibanding penyesuaian bunga kredit. Fitch menyebut penurunan peringkat berpotensi terjadi jika rasio NPL naik dan bertahan di atas 4 persen tanpa diimbangi kenaikan cadangan kerugian kredit atau modal, sementara kenaikan peringkat dinilai tidak mungkin dalam waktu dekat."
+  ],
+  "fotoAdegan": "Exterior of a multi-story regional bank branch building in Bandung, West Java, warm window lights at dusk, pedestrians passing by",
+  "takeaway": "Laporan ini netral bagi BJBR: Fitch hanya menegaskan ulang peringkat AA-(idn) yang sudah disandang bank bjb, bukan menaikkan atau menurunkannya, meski rincian di baliknya menunjukkan kualitas kredit yang mulai melonggar. Yang tersentuh adalah rasio kredit bermasalah, yaitu porsi pinjaman yang macet dibayar, yang naik ke 3,3 persen per akhir Juni 2026 dari rata-rata 2 persen dalam empat tahun terakhir, serta imbal hasil operasional terhadap aset berisiko yang diproyeksikan melandai ke sekitar 1,7 persen hingga akhir 2027 akibat kenaikan suku bunga acuan Bank Indonesia yang mengerek biaya dana. Di sisi lain, permodalan bank bjb masih memadai dengan rasio modal inti 14,5 persen dan rasio pinjaman terhadap dana pihak ketiga yang membaik ke 87 persen, sehingga ini bukan sinyal krisis. Yang perlu dipantau berikutnya adalah apakah rasio kredit bermasalah ini terus naik dan bertahan di atas 4 persen, karena Fitch secara eksplisit menyebut ambang itu sebagai pemicu potensi penurunan peringkat ke depan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kesejahteraan-rakyat-jadi-tolok-ukur-sukses-ekonomi",
   "category": "Makroekonomi",
   "title": "Kesejahteraan Rakyat Jadi [Tolok Ukur] Sukses Ekonomi",
@@ -136,6 +188,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "baja-catat-81-878-saham-baru-serapan-rights-issue-masih-tipis",
+  "category": "Aksi Korporasi",
+  "title": "BAJA catat [81.878] saham baru, serapan rights issue masih tipis",
+  "deck": "BEI mencatat tambahan 81.878 saham baru BAJA dari pelaksanaan HMETD 2 Oktober 2026, namun baru 247.823 dari jatah 900 juta saham yang terserap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T18:51:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e7ae2274fe_af04dba778.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "rights issue",
+   "HMETD",
+   "pencatatan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi mencatatkan tambahan 81.878 saham baru PT Saranacentral Bajatama Tbk (BAJA) di Papan Pencatatan Pengembangan dengan tanggal pencatatan 6 Oktober 2026, menyusul pelaksanaan Hak Memesan Efek Terlebih Dahulu (HMETD) secara scriptless oleh pemegang rekening pada 2 Oktober 2026. Dengan tambahan ini, total saham BAJA yang tercatat di bursa naik menjadi 1.800.247.823 lembar.",
+   "Penambahan tersebut adalah bagian dari Penawaran Umum Terbatas (PUT) I BAJA, yakni rights issue dengan periode pelaksanaan 1 hingga 7 Oktober 2026. Sebelum rights issue, jumlah saham BAJA tercatat 900.000.000 lembar, dan lewat penawaran ini emiten membuka tambahan hak sebanyak 900.000.000 saham baru, sehingga totalnya bisa mencapai 1.800.000.000 lembar jika seluruh hak dilaksanakan pemegang saham. Berdasarkan surat biro administrasi efek BAJA kepada BEI tertanggal 5 Oktober 2026, HMETD yang sudah dilaksanakan pemegang saham sampai 2 Oktober baru mencapai 247.823 saham, naik dari 165.945 saham pada pelaksanaan sebelumnya.",
+   "Dengan demikian, dari total 900.000.000 saham baru yang ditawarkan dalam rights issue ini, sebanyak 899.752.177 saham masih belum dieksekusi oleh pemegang saham. Sisa jatah tersebut harus diselesaikan sebelum periode pelaksanaan PUT I BAJA resmi ditutup pada 7 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers inspecting rows of rolled steel coils in a large metal processing factory, industrial cranes overhead, morning light through warehouse windows",
+  "takeaway": "Laporan ini netral bagi fundamental BAJA, karena yang dicatat baru porsi kecil dari potensi total penambahan saham, sementara hasil akhir rights issue belum bisa dinilai sampai periode pelaksanaannya tuntas. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham: rights issue ini berpotensi menggandakan jumlah saham BAJA dari 900 juta menjadi maksimal 1,8 miliar lembar, sehingga laba perusahaan nantinya terbagi ke jumlah saham yang jauh lebih banyak dan laba per saham bisa terdilusi kalau laba tidak tumbuh seimbang. Pemegang saham yang tidak menggunakan haknya juga otomatis berkurang persentase kepemilikannya begitu saham baru itu diserap pihak lain. Yang perlu dipantau berikutnya adalah hasil akhir pelaksanaan HMETD setelah periode PUT I ditutup pada 7 Oktober 2026, termasuk siapa yang akan menyerap sisa 899.752.177 saham yang belum dieksekusi, karena dari situ baru terlihat seberapa besar dilusi yang sebenarnya terjadi.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bsbk-tetapkan-jadwal-cum-dividen-interim-cair-20-oktober",
   "category": "Aksi Korporasi",
   "title": "BSBK Tetapkan Jadwal [Cum Dividen] Interim, Cair 20 Oktober",
@@ -212,6 +290,32 @@ var ARTICLES = [
   "fotoAdegan": "Baristas preparing cups of coffee at a small beverage kiosk counter in an Indonesian mall, customers waiting nearby, soft morning light",
   "takeaway": "Kami menilai laporan ini netral bagi fundamental TGUK, sebab transaksi senilai Rp40,6 miliar ini murni perpindahan saham dari DKI ke VCG dan tidak ada rupiah pun yang masuk ke kas perusahaan. Yang tersentuh hanya peta kepemilikan dan hak suara, bukan ekuitas, arus kas, atau jumlah saham beredar TGUK, karena perusahaan tidak menerbitkan saham baru maupun menerima setoran modal dari transaksi ini. Yang baru di laporan ini adalah kewajiban VCG menggelar tender offer, yaitu penawaran membeli saham milik pemegang saham publik dengan harga tertentu, sebagai konsekuensi otomatis dari pergantian pengendali menurut aturan OJK. Pelaku pasar perlu memantau pengumuman resmi dari PT Artha Global Trikanaka Investama selaku pelaksana tender offer tersebut, karena di situlah harga dan jadwal penawaran bagi pemegang saham publik TGUK akan ditentukan. Perlu dicatat pula bahwa dua petinggi TGUK, Komisaris Utama Antonius Bobby Siswanto dan Direktur Utama Agus Suhada, tercatat sebagai pemegang saham sekaligus pengurus di VCG sendiri.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "direksi-vktr-beli-15-juta-saham-senilai-rp10-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Direksi [VKTR] Beli 15 Juta Saham Senilai Rp10,8 Miliar",
+  "deck": "Direktur VKTR V Bimo Kurniatmoko membeli 15 juta saham VKTR secara tidak langsung senilai Rp10,8 miliar pada 30 September 2026, mengubah hak suaranya dari nol menjadi 0,03 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T18:16:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-6612-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VKTR",
+  "tags": [
+   "VKTR",
+   "kepemilikan saham",
+   "direksi",
+   "rights issue"
+  ],
+  "body": [
+   "V Bimo Kurniatmoko, anggota Direksi PT VKTR Teknologi Mobilitas Tbk, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 15.000.000 saham VKTR secara tidak langsung melalui mekanisme repurchase agreement. Transaksi tercatat pada 30 September 2026 dengan harga Rp720 per saham, sehingga total nilainya sekitar Rp10,8 miliar. Dalam laporan tersebut, tujuan transaksi disebutkan sebagai investasi.",
+   "Sebelum transaksi ini, Bimo tidak memegang satu pun saham VKTR, alias hak suaranya nol persen. Setelah pembelian, kepemilikannya naik menjadi 15 juta saham dengan hak suara 0,03 persen dari total saham VKTR yang beredar. Laporan ini disampaikan sesuai aturan OJK yang mewajibkan direksi dan komisaris perusahaan terbuka melaporkan setiap perubahan kepemilikan saham mereka.",
+   "Pembelian ini terjadi di tengah proses rights issue VKTR senilai hingga Rp3 triliun yang menawarkan 15 miliar saham baru dengan harga Rp200 per saham. Harga pembelian Bimo, Rp720 per saham, jauh di atas harga penawaran rights issue tersebut, menunjukkan transaksi ini dilakukan di pasar reguler, bukan melalui mekanisme rights issue yang sedang berjalan."
+  ],
+  "fotoAdegan": "Rows of electric buses parked in a maintenance depot, technicians checking charging ports, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi VKTR, karena seorang direksi mengeluarkan dana pribadi sekitar Rp10,8 miliar untuk membeli saham perusahaan di harga Rp720, jauh di atas harga rights issue Rp200 yang ditawarkan ke publik, sebuah sinyal bahwa orang dalam menilai sahamnya masih layak dibeli di harga itu. Transaksi ini tidak mengubah jumlah saham beredar, ekuitas, atau arus kas VKTR karena yang berpindah hanyalah saham yang sudah ada, bukan saham baru; yang berubah cuma struktur kepemilikan, dengan hak suara Bimo naik dari nol menjadi 0,03 persen, porsi yang masih sangat kecil dibanding total saham VKTR yang akan membengkak signifikan setelah rights issue. Yang perlu dipantau selanjutnya adalah bagaimana proses rights issue Rp3 triliun itu berjalan, termasuk periode pelaksanaan dan penyerapannya oleh pemegang saham, karena itu yang akan benar-benar menentukan struktur permodalan VKTR ke depan, bukan transaksi kecil seperti ini.",
+  "sentimen": "positif"
  },
  {
   "slug": "arta-pastikan-tak-ada-fakta-material-picu-volatilitas-harga-saham",
@@ -372,6 +476,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "asbi-free-float-naik-ke-14-73-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASBI: [Free Float] Naik ke 14,73% per September 2026",
+  "deck": "Laporan bulanan BEI mencatat porsi saham publik ASBI naik ke 14,73%, sementara struktur pengendali dan direksi tidak berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:45:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c903037d9c_64bd0eb878.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASBI",
+  "tags": [
+   "ASBI",
+   "pemegang saham",
+   "free float",
+   "asuransi"
+  ],
+  "body": [
+   "Asuransi Bintang Tbk (ASBI) melaporkan perubahan struktur pemegang saham ke Bursa Efek Indonesia untuk periode yang berakhir 30 September 2026, disusun oleh biro administrasi efek PT Bima Registra. Tiga pemegang saham pengendali tidak berubah jumlah maupun porsinya: PT Srihana Utama tetap memegang 123.522.776 saham (35,46 persen), PT Ngrumat Bondo Utomo 87.302.164 saham (25,06 persen), dan PT Warisan Kasih Bunda 81.653.688 saham (23,44 persen). Kepemilikan jajaran direksi juga tidak bergeser: Presiden Direktur Zafar Dinesh Idham memegang 1.050.000 saham (0,3 persen), Direktur Reniwati Darmakusumah 658.000 saham (0,19 persen), sementara Hastanto Sri Margi Widodo masih tercatat memiliki 782.500 saham (0,22 persen) meski dokumen menyebut dia sudah tidak menjabat sejak September 2026.",
+   "Perubahan muncul di sisi saham publik. Kepemilikan pemegang saham di bawah 5 persen dalam bentuk scripless atau non warkat naik dari 50.520.718 saham menjadi 51.303.218 saham dalam sebulan. Kenaikan ini mendorong rasio saham free float, yakni porsi saham yang beredar bebas di luar pengendali dan afiliasinya, dari 14,5 persen menjadi 14,73 persen terhadap total saham tercatat. Jumlah investor pemilik Single Investor Identification (SID), identitas tunggal investor di pasar modal, juga bertambah dari 590 menjadi 704 akun, atau tambahan 114 pemegang saham baru dalam sebulan.",
+   "Total saham perseroan yang dilaporkan naik dari 348.386.472 menjadi 349.168.972 lembar, sedangkan jumlah saham yang belum tercatat resmi di bursa melonjak dari 2.000 lembar menjadi 784.500 lembar atau 0,22 persen dari total. Tidak ada saham treasuri, tidak ada saham yang dikenai status sita atau blokir aparat hukum, dan tidak ada saham yang terkena pembatasan pengalihan (lock up) menurut laporan ini."
+  ],
+  "fotoAdegan": "Clerks sorting stacks of paper shareholder ledgers on a long table in a busy financial registration office, daylight",
+  "takeaway": "Laporan ini netral bagi ASBI karena inti kendali perusahaan tidak berubah sama sekali, tiga pemegang saham pengendali dan seluruh direksi mempertahankan jumlah saham yang persis sama dengan bulan sebelumnya. Yang tersentuh hanya jumlah saham beredar dan porsi saham publik: total saham perseroan bertambah sekitar 782.500 lembar dan porsi free float naik ke 14,73 persen, dan pelaku pasar memperhatikan angka ini karena saham beredar yang bertambah berpotensi mengecilkan laba per saham kalau laba perusahaan tidak tumbuh sebanding, sementara free float yang lebih besar biasanya membuat transaksi saham ASBI di pasar sedikit lebih mudah terjadi. Yang perlu dipantau berikutnya adalah laporan bulanan registrasi pemegang efek periode Oktober 2026, untuk melihat apakah 784.500 saham yang masih tercatat sebagai 'belum tercatat resmi' itu akhirnya didaftarkan penuh di bursa atau malah terus bertambah.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kjen-jawab-bei-tak-ada-informasi-material-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "KJEN Jawab BEI: Tak Ada Informasi Material soal [Volatilitas] Saham",
@@ -449,6 +579,57 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "medp-ganti-komisaris-independen-rombak-komite-remunerasi",
+  "category": "Aksi Korporasi",
+  "title": "MEDP ganti komisaris independen, rombak komite [remunerasi]",
+  "deck": "Dewan Komisaris MEDP mengangkat Ego Syahrial sebagai Komisaris Independen baru dan menyusun ulang Komite Nominasi dan Remunerasi efektif 1 Oktober 2026 hingga 31 Maret 2028.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:19:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26677911b5_98afdfc363.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDP",
+  "tags": [
+   "MEDP",
+   "komite nominasi dan remunerasi",
+   "komisaris independen",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Medco Power Indonesia (MEDP) melaporkan perubahan susunan Komite Nominasi dan Remunerasi untuk periode 2026-2028. Ego Syahrial, yang menjabat Komisaris Independen, ditetapkan sebagai Ketua komite efektif 2 Oktober 2026. Amri Siahaan, Anggota Dewan Komisaris, dan Ciska Widyanti, pejabat manajerial di bawah Direksi yang membidangi sumber daya manusia, masing-masing menjadi anggota efektif 1 Oktober 2026. Seluruh masa jabatan berlaku sampai 31 Maret 2028.",
+   "Perubahan ini tidak berdiri sendiri. Berdasarkan Surat Keputusan Dewan Komisaris Nomor 11/SK-MPI/BOC/X/2026, perubahan komite dipicu oleh keputusan pemegang saham tanggal 1 Oktober 2026 yang memberhentikan M. Teguh Pamuji sebagai Komisaris Independen dan Darmoyo Doyoatmojo sebagai Komisaris Perseroan, sekaligus mengangkat Ego Syahrial sebagai Komisaris Independen baru. Karena Peraturan OJK Nomor 34/POJK.04/2014 mewajibkan ketua komite nominasi dan remunerasi merupakan Komisaris Independen, Dewan Komisaris kemudian memberhentikan M. Teguh Pamuji dan Darmoyo Doyoatmojo dari komite tersebut dan menempatkan Ego Syahrial sebagai ketua baru.",
+   "Surat keputusan itu juga menegaskan bahwa jabatan Ketua komite melekat pada status Ego Syahrial sebagai Komisaris Independen, dan Dewan Komisaris tetap berhak memberhentikan anggota komite sewaktu-waktu. Laporan keterbukaan ditandatangani secara elektronik oleh Fajrah Lestari Akili selaku Corporate Secretary & Head Corporate Communication MEDP."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long table, glass office tower windows, soft afternoon light, Jakarta",
+  "takeaway": "Penilaian saya netral, karena ini pada dasarnya penyesuaian struktur pengurusan untuk mematuhi aturan OJK soal komite nominasi dan remunerasi, bukan sinyal soal kinerja atau keuangan perusahaan. Yang tersentuh di sini adalah tata kelola perusahaan, yakni mekanisme pengawasan terhadap pengangkatan dan penggajian direksi serta komisaris, bukan arus kas atau laba yang langsung dirasakan pemegang saham, tapi tetap penting karena menentukan siapa yang mengawasi keputusan soal remunerasi petinggi perusahaan. Dokumen ini tidak menjelaskan alasan pemberhentian M. Teguh Pamuji dan Darmoyo Doyoatmojo dari jajaran komisaris, jadi pembaca perlu menunggu apakah ada keterbukaan lanjutan soal itu. Yang perlu dipantau selanjutnya adalah apakah susunan komite baru ini bertahan hingga akhir periode 31 Maret 2028 atau berubah lagi jika status Ego Syahrial sebagai Komisaris Independen berubah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "medp-ganti-ketua-komite-audit-ego-syahrial-naik",
+  "category": "Aksi Korporasi",
+  "title": "MEDP Ganti Ketua [Komite Audit], Ego Syahrial Naik",
+  "deck": "Komite Audit PT Medco Power Indonesia (MEDP) kini dipimpin Ego Syahrial, menggantikan M. Teguh Pamuji, menyusul pergantian komisaris independen efektif 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:18:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11279e9003_8ca82d33fa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDP",
+  "tags": [
+   "MEDP",
+   "komite audit",
+   "tata kelola perusahaan",
+   "Medco Power"
+  ],
+  "body": [
+   "PT Medco Power Indonesia (MEDP) mengumumkan perubahan susunan Komite Audit yang efektif berlaku sejak 1 Oktober 2026. Ego Syahrial ditunjuk sebagai Ketua Komite Audit, menggantikan M. Teguh Pamuji. Dua anggota lain, Ferry Sanjaya dan Hendry, tetap menjabat di posisi yang sama. Masa tugas ketiga anggota komite ini berakhir pada 31 Maret 2028, selama Ego Syahrial masih menjabat sebagai Komisaris Independen Perseroan.",
+   "Perubahan ini merupakan tindak lanjut dari pergantian Dewan Komisaris yang juga berlaku efektif 1 Oktober 2026. Berdasarkan Surat Keputusan Dewan Komisaris Nomor 1/SK-MPI/BOC/X/2026, M. Teguh Pamuji diberhentikan dengan hormat dari jabatan Komisaris Independen dan Darmoyo Doyoatmojo diberhentikan dari jabatan Komisaris. Ego Syahrial kemudian diangkat sebagai Komisaris Independen yang baru. Karena Peraturan Otoritas Jasa Keuangan Nomor 55/POJK.04/2015 mewajibkan Komite Audit diketuai oleh Komisaris Independen, posisi ketua komite pun berpindah mengikuti pergantian di jajaran komisaris. Surat keputusan ini ditandatangani oleh Amri Siahaan selaku Komisaris Utama dan Ego Syahrial selaku Komisaris Independen."
+  ],
+  "fotoAdegan": "Engineers in hard hats reviewing gauges inside a modern gas-fired power plant control room, soft industrial lighting",
+  "takeaway": "Perubahan ini netral bagi pemegang saham karena sifatnya administratif, konsekuensi langsung dari pergantian komisaris independen yang berlaku di hari yang sama, bukan respons atas masalah kinerja atau keuangan perusahaan. Komite Audit sendiri tidak memegang pos keuangan seperti ekuitas atau arus kas, tapi tugasnya mengawasi proses pelaporan keuangan dan kerja auditor eksternal perusahaan, sehingga siapa yang memimpinnya tetap relevan bagi kualitas pengawasan laporan keuangan MEDP ke depan. Kabar ini melengkapi pengumuman sebelumnya pada hari yang sama soal pergantian komisaris independen dan perombakan komite remunerasi, menunjukkan MEDP sedang menata ulang struktur pengurusannya secara menyeluruh. Yang perlu dipantau adalah apakah Ego Syahrial tetap menjabat sebagai Komisaris Independen hingga masa tugas komite berakhir pada 31 Maret 2028, karena posisi ketua komite ini melekat langsung pada jabatannya di jajaran komisaris.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "lpkr-jelaskan-transaksi-lippo-plaza-kupang-rp403-8-m-akuisisi",
   "category": "Aksi Korporasi",
   "title": "LPKR Jelaskan Transaksi Lippo Plaza Kupang Rp403,8 M [Akuisisi]",
@@ -500,6 +681,31 @@ var ARTICLES = [
   "fotoAdegan": "Factory workers in white coats inspecting rows of pharmaceutical tablets on an automated packaging line, bright industrial lighting",
   "takeaway": "Laporan ini campuran, tapi intinya condong negatif untuk jangka menengah: di balik laba yang melonjak, Merck sendiri mengakui bahwa 80 persen volume produksi pabrik Pasar Rebo bergantung pada satu kontrak dengan P&G yang berakhir 31 Desember 2027. Beban penurunan nilai aset Rp87 miliar yang dibukukan September 2026 menggerus nilai aset tercatat dan menekan laba periode ini, tapi ini pencatatan akuntansi, bukan uang yang benar-benar keluar dari kas, sehingga rasio utang terhadap modal yang hanya 0,27 kali dan rasio lancar 5 kali menunjukkan perusahaan masih punya banyak aset lancar untuk menutup utang jangka pendeknya. Pelaku pasar memperhatikan pos ini karena penurunan nilai aset langsung memangkas ekuitas, yaitu modal sendiri perusahaan di laporan keuangan, meski operasional hariannya belum terganggu. Yang perlu dipantau berikutnya adalah apakah ekspansi ekspor ke Filipina mulai 2026 dan ke Hong Kong, Singapura, Brunei, Malaysia, serta Thailand pada 2027-2029, ditambah pertumbuhan impor produk bioteknologi, bisa menutup hilangnya volume dari P&G sebelum kontrak itu benar-benar berakhir akhir 2027.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "hgii-direksi-robin-sunyoto-tambah-50-000-saham-di-rp134",
+  "category": "Aksi Korporasi",
+  "title": "HGII: Direksi Robin Sunyoto [tambah] 50.000 saham di Rp134",
+  "deck": "Direksi HGII Robin Sunyoto membeli 50.000 saham pada 29 September 2026 di harga Rp134, menambah kepemilikannya menjadi 16,55 juta saham tanpa mengubah hak suara 0,25 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:02:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7168-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HGII",
+  "tags": [
+   "HGII",
+   "kepemilikan saham",
+   "direksi",
+   "pasar modal"
+  ],
+  "body": [
+   "Robin Sunyoto, anggota Direksi PT Hero Global Investment Tbk (HGII), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 50.000 saham perseroan pada 29 September 2026 di harga Rp134 per saham secara tidak langsung. Pembelian ini dilakukan dengan tujuan investasi, sesuai laporan kepemilikan saham yang disampaikan pada 5 Oktober 2026 berdasarkan POJK Nomor 4/2024 tentang laporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka.",
+   "Dengan transaksi ini, jumlah saham Robin Sunyoto di HGII bertambah dari 16.500.000 unit menjadi 16.550.000 unit, naik 50.000 lembar atau setara 0,30 persen dari kepemilikannya sebelum transaksi. Hak suaranya di perseroan tetap berada di level 0,25 persen, tidak berubah dibanding sebelum transaksi, karena tambahan saham yang dibeli terlalu kecil untuk menggeser persentase kepemilikannya terhadap total saham beredar HGII."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's financial district under late afternoon light, pedestrians crossing a busy street below, no readable signage.",
+  "takeaway": "Laporan ini netral bagi HGII karena pembelian 50.000 saham oleh Robin Sunyoto hanya menambah 0,30 persen dari kepemilikannya sendiri dan tidak mengubah hak suaranya yang tetap di 0,25 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran direksi terhadap bisnis perseroan. Transaksi ini hanya menggeser kepemilikan pribadi Robin Sunyoto, bukan menambah jumlah saham beredar HGII secara keseluruhan, sehingga tidak berpengaruh pada laba per saham atau struktur modal perseroan. Yang perlu dipantau adalah apakah direksi atau komisaris lain HGII melakukan pembelian serupa dalam waktu dekat, sebab pola akumulasi dari beberapa orang dalam sekaligus baru punya arti lebih jauh dibanding satu transaksi kecil seperti ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "blog-rampung-dana-ipo-rp138-2-miliar-untuk-gudang-pendingin-dan-truk",
@@ -630,6 +836,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Corporate boardroom with rows of empty chairs arranged for a formal meeting, Jakarta office tower, afternoon light",
   "takeaway": "Laporan ini netral bagi KIOS, sebab belum ada kepastian siapa yang akan masuk atau keluar dari jajaran direksi dan komisaris, semuanya baru diputuskan saat rapat berlangsung pada 27 Oktober 2026. Yang tersentuh di sini adalah tata kelola perusahaan, bukan angka keuangan secara langsung, karena susunan direksi dan komisaris menentukan siapa yang mengambil keputusan strategis dan mengawasi jalannya bisnis Kioson ke depan, sehingga pelaku pasar biasanya ingin tahu lebih dulu siapa sosok yang diusulkan sebelum menilai dampaknya. Agenda kedua soal penyesuaian kode klasifikasi usaha ke aturan BPS terbaru sifatnya administratif dan lazim dilakukan emiten, tidak mengubah lini bisnis perseroan. Yang perlu dipantau pemegang saham KIOS adalah hasil RUPSLB pada 27 Oktober 2026, termasuk nama-nama direksi dan komisaris baru yang akan diumumkan di sana, serta batas waktu pemberian suara elektronik pukul 12.00 WIB pada 26 Oktober 2026 bagi yang ingin memakai hak suaranya dari jarak jauh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "medp-rombak-direksi-dan-komisaris-eka-satria-jadi-dirut",
+  "category": "Aksi Korporasi",
+  "title": "MEDP [Rombak] Direksi dan Komisaris, Eka Satria Jadi Dirut",
+  "deck": "PT Medco Power Indonesia mengganti seluruh Direksi dan Dewan Komisaris lewat keputusan sirkuler pemegang saham efektif 1 Oktober 2026, untuk masa jabatan lima tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:46:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ab9a0001df_5f87ed030c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDP",
+  "tags": [
+   "MEDP",
+   "Direksi",
+   "Dewan Komisaris",
+   "Medco Power"
+  ],
+  "body": [
+   "PT Medco Power Indonesia (MEDP) mengganti seluruh anggota Direksi dan Dewan Komisaris melalui Keputusan Sirkuler Pemegang Saham sebagai pengganti RUPS, yang diteken pada 1 Oktober 2026 oleh dua pemegang saham perusahaan: PT Medco Power Internasional dengan 634.440.000 saham atau 51 persen, dan PT Medco Energi Internasional Tbk dengan 609.560.000 saham atau 49 persen. Melalui keputusan itu, seluruh direksi dan komisaris lama diberhentikan dengan hormat terhitung sejak 1 Oktober 2026, disertai pembebasan dan pelunasan tanggung jawab penuh (acquit et de charge) atas tindakan pengurusan dan pengawasan yang telah mereka lakukan selama menjabat.",
+   "Sebagai pengganti, pemegang saham mengangkat Eka Satria sebagai Direktur Utama, serta Femi Firsadi Sastrena, Imron Gazali, dan Myrta Sri Utami sebagai Direktur. Di jajaran komisaris, Amri Siahaan diangkat sebagai Komisaris Utama dan Ego Syahrial sebagai Komisaris Independen. Susunan baru ini berlaku efektif sejak 1 Oktober 2026 untuk masa jabatan lima tahun, dengan tetap membuka kemungkinan bagi RUPS untuk memberhentikan mereka sewaktu-waktu sebelum masa jabatan berakhir.",
+   "Dalam laporan keterbukaan informasi yang dikirim ke Otoritas Jasa Keuangan sesuai POJK No. 31/POJK.04/2015, perseroan hanya mencantumkan perubahan di jajaran Dewan Komisaris, yaitu Amri Siahaan sebagai Komisaris Utama dan Ego Syahrial sebagai Komisaris Independen. Perusahaan menyatakan perubahan ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha. Laporan ditandatangani oleh Fajrah Lestari Akili selaku Corporate Secretary & Head Corporate Communication."
+  ],
+  "fotoAdegan": "Technicians walking along elevated metal walkways inside a gas-fired power plant building, pipes and turbines overhead, industrial lighting",
+  "takeaway": "Penilaian saya netral, karena pergantian direksi dan komisaris ini murni mekanisme pergantian pengurus lewat persetujuan pemegang saham, tanpa indikasi dampak pada kondisi keuangan atau operasional seperti yang ditegaskan sendiri oleh perusahaan. Yang tersentuh di sini adalah sisi tata kelola dan kepemimpinan, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, sehingga pelaku pasar biasanya tidak langsung mengubah pandangan atas fundamental MEDP hanya karena pergantian nama di jajaran direksi. Yang justru lebih berarti adalah terungkapnya komposisi pemilik MEDP, yaitu PT Medco Power Internasional dengan 51 persen saham dan PT Medco Energi Internasional Tbk dengan 49 persen, yang menegaskan perusahaan ini tetap sepenuhnya dikendalikan grup Medco. Yang perlu dipantau berikutnya adalah kinerja jajaran Direksi baru di bawah Eka Satria selama lima tahun masa jabatan, serta apakah ada keterbukaan lanjutan ke OJK yang secara eksplisit mengonfirmasi perubahan Direksi, mengingat surat resmi yang dikirim ke regulator hanya menyebut perubahan di sisi komisaris.",
   "sentimen": "netral"
  },
  {
@@ -788,6 +1020,57 @@ var ARTICLES = [
   "fotoAdegan": "Factory workers inspecting large rolls of white nonwoven fabric on an industrial production line under fluorescent lighting.",
   "takeaway": "Laporan ini jelas negatif bagi FLMC, karena yang memicu kewajiban lapor ke bursa bukan sekadar perubahan pos biasa, melainkan ekuitas perusahaan yang jatuh ke posisi negatif setelah rugi bersih melonjak hampir delapan kali lipat dibanding semester yang sama tahun lalu. Ekuitas negatif berarti total utang perusahaan sudah lebih besar daripada total hartanya, sehingga seluruh aset yang dijual pun belum cukup menutup semua utang, dan rugi per saham yang melebar dari Rp3,83 menjadi Rp29,79 menunjukkan setiap lembar saham menanggung kerugian yang jauh lebih besar dari tahun lalu. Satu sisi yang agak menahan tekanan adalah arus kas dari operasi yang justru positif, tanda uang tunai yang masuk dari pelanggan masih lebih besar dari yang keluar untuk biaya sehari-hari, meski itu belum cukup mengimbangi pembengkakan beban pokok pendapatan yang jadi akar rugi kotor perusahaan. Yang perlu dipantau selanjutnya adalah realisasi rencana penjualan dua bidang tanah di Cimareme dan Cipeundeuy serta penyewaan lahan di Boyolali, karena manajemen sendiri mengaitkan langkah itu dengan kelangsungan usaha, sementara dokumen ini tidak menyebut tenggat waktu kapan transaksi tersebut akan dieksekusi.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "smmt-gelar-public-expose-insidentil-20-oktober",
+  "category": "Aksi Korporasi",
+  "title": "SMMT Gelar [Public Expose] Insidentil 20 Oktober",
+  "deck": "Golden Eagle Energy (SMMT) akan menggelar public expose insidentil secara daring pada 20 Oktober 2026, salah satu agendanya membahas pergerakan harga sahamnya sendiri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:11:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26bed50dc1_3139db8103.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMT",
+  "tags": [
+   "SMMT",
+   "Golden Eagle Energy",
+   "Public Expose",
+   "Pasar Modal"
+  ],
+  "body": [
+   "Golden Eagle Energy Tbk (SMMT) mengumumkan rencana penyelenggaraan public expose insidentil yang akan digelar secara daring pada Selasa, 20 Oktober 2026, pukul 15.30 WIB. Pengumuman ini disampaikan lewat surat bernomor 041/SMMT-CS/2026 yang ditandatangani Susanti Nilam selaku Corporate Secretary perusahaan, tertanggal 5 Oktober 2026.",
+   "Dalam forum tersebut, manajemen SMMT dijadwalkan memaparkan tiga agenda utama, yaitu kinerja keuangan dan kondisi bisnis terkini perusahaan, rencana bisnis ke depan, serta analisis manajemen terkait pergerakan harga saham Perseroan. Agenda ketiga ini membuat public expose kali ini berbeda dari forum serupa yang biasanya hanya membahas kinerja dan rencana bisnis, karena manajemen akan langsung menyinggung pergerakan harga saham SMMT di pasar."
+  ],
+  "fotoAdegan": "Exterior view of a modern high-rise glass office tower in Jakarta's business district, reflecting morning sky, wide angle",
+  "takeaway": "Laporan ini netral bagi emiten, sebab isinya baru pemberitahuan rencana pertemuan, bukan transaksi atau perubahan apa pun pada neraca, arus kas, maupun laba perusahaan. Yang patut digarisbawahi adalah agenda ketiga, yakni analisis manajemen soal pergerakan harga saham SMMT, forum semacam ini lazimnya digelar ketika saham sebuah emiten bergerak tidak wajar di bursa sehingga publik berhak mendapat penjelasan resmi dari perusahaan sendiri, bukan sekadar spekulasi di pasar. Public expose insidentil adalah forum terbuka bagi manajemen untuk memaparkan kondisi bisnis kepada investor dan analis, di luar jadwal public expose tahunan yang memang wajib digelar. Yang perlu dipantau investor adalah pelaksanaan forum ini pada 20 Oktober 2026 pukul 15.30 WIB secara daring, sebab di situlah akan terlihat seberapa meyakinkan penjelasan manajemen soal kinerja dan pergerakan sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "foru-r-perdagangan-hmetd-fortune-indonesia-berakhir-6-oktober",
+  "category": "Aksi Korporasi",
+  "title": "FORU-R: Perdagangan [HMETD] Fortune Indonesia Berakhir 6 Oktober",
+  "deck": "Bursa mengingatkan masa perdagangan hak memesan saham baru FORU-R berakhir 6 Oktober 2026, sehari setelah itu hak tersebut dihapus dari pencatatan BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:00:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan FORU-R261006-No. Peng-00188BEI.POP10-2026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU-R",
+  "tags": [
+   "FORU",
+   "HMETD",
+   "rights issue",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menerbitkan pengumuman No. Peng-00188/BEI.POP/10-2026 yang menegaskan kembali batas waktu perdagangan Hak Memesan Efek Terlebih Dahulu (HMETD) dengan kode FORU-R milik PT Fortune Indonesia Tbk (FORU), yang tercatat di Papan Pengembangan. Pengumuman ini merujuk pada ketentuan sebelumnya, yaitu Pengumuman BEI No. Peng-P-01109/BEI.PP1/09-2026 tanggal 24 September 2026 mengenai pencatatan efek bersifat ekuitas dan pra pencatatan saham baru Fortune Indonesia dari aksi korporasi rights issue tersebut.",
+   "Berdasarkan jadwal itu, masa perdagangan HMETD FORU-R berlangsung sejak 25 September 2026 hingga 6 Oktober 2026. Artinya, pemegang hak yang tidak ingin menggunakan haknya untuk membeli saham baru masih memiliki waktu satu hari lagi, yakni 6 Oktober 2026, untuk menjual hak tersebut di pasar sekunder.",
+   "Mulai 7 Oktober 2026, FORU-R tidak lagi diperdagangkan dan dikeluarkan dari daftar efek yang tercatat di BEI. Setelah tanggal tersebut, hak yang belum dieksekusi atau dijual tidak bisa lagi diperjualbelikan maupun diuangkan di bursa."
+  ],
+  "fotoAdegan": "Exterior of a modern stock exchange building in Jakarta with a glass facade, pedestrians crossing in the foreground, midday light",
+  "takeaway": "Pengumuman ini netral bagi Fortune Indonesia karena isinya hanya menegaskan ulang jadwal yang sudah ditetapkan sejak 24 September, tanpa ada informasi baru soal kinerja atau rencana bisnis perusahaan. Yang tersentuh di sini adalah jumlah saham beredar: HMETD adalah hak bagi pemegang saham lama untuk membeli saham baru lebih dulu sebelum ditawarkan ke pihak lain, dan kalau hak itu tidak dipakai atau dijual sampai batas waktu, porsi kepemilikan pemegang saham lama bisa mengecil karena jumlah saham Fortune Indonesia yang beredar bertambah akibat penerbitan saham baru. Pasar memperhatikan hal ini karena penambahan jumlah saham beredar berpotensi membuat laba per saham terdilusi kalau laba perusahaan tidak tumbuh sebanding. Yang perlu dipantau investor adalah 6 Oktober 2026, hari terakhir HMETD ini bisa diperjualbelikan, karena sehari setelahnya hak tersebut resmi dihapus dari pencatatan bursa dan tidak bisa lagi dicairkan.",
+  "sentimen": "netral"
  },
  {
   "slug": "bswd-gelar-public-expose-insidental-atas-permintaan-ojk",

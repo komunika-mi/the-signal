@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cybr-direktur-tambah-saham-7-3-juta-lembar-lewat-pembelian",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direktur [Tambah] Saham 7,3 Juta Lembar Lewat Pembelian",
+  "deck": "Direktur ITSEC Asia (CYBR), Patrick Rudolf Dannacher, membeli 7,31 juta saham secara tidak langsung sepanjang akhir September 2026, menambah hak suaranya menjadi 0,797 persen.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7781-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bjbr-pertahankan-rating-aa-idn-dari-fitch-npl-naik-3-3",
+  "category": "Aksi Korporasi",
+  "title": "BJBR Pertahankan Rating AA-(idn) dari Fitch, [NPL] Naik 3,3%",
+  "deck": "Fitch Ratings mengafirmasi peringkat bank bjb di AA-(idn) dengan outlook stabil, namun mencatat rasio kredit bermasalah naik ke 3,3 persen dan margin laba yang mulai menyempit.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BJBR",
+   "bank bjb",
+   "Fitch Ratings",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/12baf3f7d7_9d0955b23d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kesejahteraan-rakyat-jadi-tolok-ukur-sukses-ekonomi",
   "category": "Makroekonomi",
   "title": "Kesejahteraan Rakyat Jadi [Tolok Ukur] Sukses Ekonomi",
@@ -88,6 +120,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "baja-catat-81-878-saham-baru-serapan-rights-issue-masih-tipis",
+  "category": "Aksi Korporasi",
+  "title": "BAJA catat [81.878] saham baru, serapan rights issue masih tipis",
+  "deck": "BEI mencatat tambahan 81.878 saham baru BAJA dari pelaksanaan HMETD 2 Oktober 2026, namun baru 247.823 dari jatah 900 juta saham yang terserap.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "rights issue",
+   "HMETD",
+   "pencatatan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e7ae2274fe_af04dba778.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bsbk-tetapkan-jadwal-cum-dividen-interim-cair-20-oktober",
   "category": "Aksi Korporasi",
   "title": "BSBK Tetapkan Jadwal [Cum Dividen] Interim, Cair 20 Oktober",
@@ -133,6 +181,22 @@ var ARTICLES = [
    "VCG"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9711ff07f_c9b006e99a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "direksi-vktr-beli-15-juta-saham-senilai-rp10-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Direksi [VKTR] Beli 15 Juta Saham Senilai Rp10,8 Miliar",
+  "deck": "Direktur VKTR V Bimo Kurniatmoko membeli 15 juta saham VKTR secara tidak langsung senilai Rp10,8 miliar pada 30 September 2026, mengubah hak suaranya dari nol menjadi 0,03 persen.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VKTR",
+   "kepemilikan saham",
+   "direksi",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-6612-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -232,6 +296,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "asbi-free-float-naik-ke-14-73-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASBI: [Free Float] Naik ke 14,73% per September 2026",
+  "deck": "Laporan bulanan BEI mencatat porsi saham publik ASBI naik ke 14,73%, sementara struktur pengendali dan direksi tidak berubah.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASBI",
+   "pemegang saham",
+   "free float",
+   "asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c903037d9c_64bd0eb878.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kjen-jawab-bei-tak-ada-informasi-material-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "KJEN Jawab BEI: Tak Ada Informasi Material soal [Volatilitas] Saham",
@@ -280,6 +360,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "medp-ganti-komisaris-independen-rombak-komite-remunerasi",
+  "category": "Aksi Korporasi",
+  "title": "MEDP ganti komisaris independen, rombak komite [remunerasi]",
+  "deck": "Dewan Komisaris MEDP mengangkat Ego Syahrial sebagai Komisaris Independen baru dan menyusun ulang Komite Nominasi dan Remunerasi efektif 1 Oktober 2026 hingga 31 Maret 2028.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDP",
+   "komite nominasi dan remunerasi",
+   "komisaris independen",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26677911b5_98afdfc363.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "medp-ganti-ketua-komite-audit-ego-syahrial-naik",
+  "category": "Aksi Korporasi",
+  "title": "MEDP Ganti Ketua [Komite Audit], Ego Syahrial Naik",
+  "deck": "Komite Audit PT Medco Power Indonesia (MEDP) kini dipimpin Ego Syahrial, menggantikan M. Teguh Pamuji, menyusul pergantian komisaris independen efektif 1 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDP",
+   "komite audit",
+   "tata kelola perusahaan",
+   "Medco Power"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11279e9003_8ca82d33fa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "lpkr-jelaskan-transaksi-lippo-plaza-kupang-rp403-8-m-akuisisi",
   "category": "Aksi Korporasi",
   "title": "LPKR Jelaskan Transaksi Lippo Plaza Kupang Rp403,8 M [Akuisisi]",
@@ -309,6 +421,22 @@ var ARTICLES = [
    "Farmasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a00bbd15e9_322670dab1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hgii-direksi-robin-sunyoto-tambah-50-000-saham-di-rp134",
+  "category": "Aksi Korporasi",
+  "title": "HGII: Direksi Robin Sunyoto [tambah] 50.000 saham di Rp134",
+  "deck": "Direksi HGII Robin Sunyoto membeli 50.000 saham pada 29 September 2026 di harga Rp134, menambah kepemilikannya menjadi 16,55 juta saham tanpa mengubah hak suara 0,25 persen.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HGII",
+   "kepemilikan saham",
+   "direksi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7168-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -389,6 +517,22 @@ var ARTICLES = [
    "Kioson Komersial"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a52d4c55a3_ee48ffe260.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "medp-rombak-direksi-dan-komisaris-eka-satria-jadi-dirut",
+  "category": "Aksi Korporasi",
+  "title": "MEDP [Rombak] Direksi dan Komisaris, Eka Satria Jadi Dirut",
+  "deck": "PT Medco Power Indonesia mengganti seluruh Direksi dan Dewan Komisaris lewat keputusan sirkuler pemegang saham efektif 1 Oktober 2026, untuk masa jabatan lima tahun.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDP",
+   "Direksi",
+   "Dewan Komisaris",
+   "Medco Power"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ab9a0001df_5f87ed030c.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -485,6 +629,38 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261005162301-64488-0/FinancialStatement-2026-II-FLMC.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smmt-gelar-public-expose-insidentil-20-oktober",
+  "category": "Aksi Korporasi",
+  "title": "SMMT Gelar [Public Expose] Insidentil 20 Oktober",
+  "deck": "Golden Eagle Energy (SMMT) akan menggelar public expose insidentil secara daring pada 20 Oktober 2026, salah satu agendanya membahas pergerakan harga sahamnya sendiri.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMT",
+   "Golden Eagle Energy",
+   "Public Expose",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26bed50dc1_3139db8103.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-r-perdagangan-hmetd-fortune-indonesia-berakhir-6-oktober",
+  "category": "Aksi Korporasi",
+  "title": "FORU-R: Perdagangan [HMETD] Fortune Indonesia Berakhir 6 Oktober",
+  "deck": "Bursa mengingatkan masa perdagangan hak memesan saham baru FORU-R berakhir 6 Oktober 2026, sehari setelah itu hak tersebut dihapus dari pencatatan BEI.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "HMETD",
+   "rights issue",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan FORU-R261006-No. Peng-00188BEI.POP10-2026.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6301,185 +6477,6 @@ var ARTICLES = [
    "GIGP"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1856472da8_e8f7a631e2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bata-umumkan-rencana-rupslb-pada-5-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "BATA Umumkan Rencana [RUPSLB] pada 5 November 2026",
-  "deck": "Sepatu Bata Tbk akan menggelar RUPSLB pada 5 November 2026, dengan recording date pemegang saham 13 Oktober dan mata acara resmi diumumkan 14 Oktober 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BATA",
-   "RUPSLB",
-   "Sepatu Bata Tbk",
-   "Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5b4cf2cd80_131a208db2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-konstruksi-ca-edc-capai-80-masuk-tahap-pemasangan-alat",
-  "category": "Aksi Korporasi",
-  "title": "TPIA: Konstruksi CA-EDC Capai [80%], Masuk Tahap Pemasangan Alat",
-  "deck": "Chandra Asri Pacific melaporkan progres pembangunan fasilitas CA-EDC senilai lebih dari US$800 juta mencapai 80 persen, memasuki tahap pemasangan peralatan utama menjelang target operasional 2027.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "Chandra Asri",
-   "CA-EDC",
-   "petrokimia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/06e78b6b0f_cdbd29422f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "drma-komisaris-beli-80-000-saham-seharga-rp970-lembar",
-  "category": "Aksi Korporasi",
-  "title": "DRMA: Komisaris Beli [80.000] Saham Seharga Rp970/Lembar",
-  "deck": "Komisaris DRMA membeli 80.000 saham seharga Rp970 pada 23 September 2026, menambah kepemilikan menjadi 79,65 juta saham dengan hak suara tetap 1,69 persen.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DRMA",
-   "Dharma Polimetal",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-2648-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csis-raup-rp177-m-dari-rights-issue-laba-semester-i-turun",
-  "category": "Aksi Korporasi",
-  "title": "CSIS Raup Rp177 M dari [Rights Issue], Laba Semester I Turun",
-  "deck": "PT Cahayasakti Investindo Sukses Tbk meraih dana segar Rp177,4 miliar dari penerbitan saham baru pada semester I 2026, sementara laba bersih turun 16 persen menjadi Rp20,07 miliar.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSIS",
-   "rights issue",
-   "laporan keuangan interim",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929060212-64385-0/FinancialStatement-2026-II-CSIS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sofa-tambah-kbli-jadi-holding-pembiayai-proyek-sampah-energi",
-  "category": "Aksi Korporasi",
-  "title": "SOFA Tambah KBLI, Jadi [Holding] Pembiayai Proyek Sampah Energi",
-  "deck": "SOFA merevisi rencana penambahan dua kegiatan usaha, holding dan pembiayaan conduit, untuk mendanai proyek sampah jadi energi di Denpasar dan Bogor, jelang RUPSLB 30 September 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOFA",
-   "RUPSLB",
-   "perubahan kegiatan usaha",
-   "KBLI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ff4f1264e_71cbd4e2f7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tamu-restrukturisasi-kredit-jatuh-tempo-diundur-ke-2031",
-  "category": "Aksi Korporasi",
-  "title": "TAMU restrukturisasi kredit, jatuh tempo [diundur] ke 2031",
-  "deck": "TAMU dan Bank Mandiri sepakat memperpanjang jatuh tempo fasilitas kredit dari Desember 2026 menjadi Desember 2031, disertai penyesuaian cicilan bulanan.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAMU",
-   "restrukturisasi utang",
-   "Bank Mandiri",
-   "emiten pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cea4a7dc27_3059ca69c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lebih-dari-85-persen-calon-manajer-kdkmp-bersedia-ditempatkan",
-  "category": "UMKM",
-  "title": "Lebih dari 85 Persen Calon Manajer KDKMP [Bersedia] Ditempatkan",
-  "deck": "Kemenkop mencatat lebih dari 85 persen dari 28.620 calon manajer Koperasi Desa/Kelurahan Merah Putih menyatakan bersedia ditempatkan, tugas dijadwalkan mulai awal Oktober 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/lebih-dari-85-persen-calon-manajer-kdkmp-bersedia-ditempatkan.jpg",
-  "imageV": "mulja6vu",
-  "tags": [
-   "KDKMP",
-   "Koperasi Desa Merah Putih",
-   "Kementerian Koperasi",
-   "Penempatan Manajer"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469989-lebih-dari-85-persen-calon-manajer-kdkmp-bersedia-ditempatkan-mulai-bertugas-oktober"
- },
- {
-  "slug": "toba-baru-pakai-11-9-dana-obligasi-rp175-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TOBA baru pakai 11,9% dana [obligasi] Rp175 miliar",
-  "deck": "TOBA merevisi laporan realisasi dana obligasi Tahap III 2026: baru 11,9% dari Rp172,6 miliar dana bersih terpakai, sisa Rp152 miliar tersimpan di tabungan BTN berbunga 6,2%.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "TBS Energi Utama",
-   "obligasi korporasi",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6c140238f_0cb7ce9d13.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemendag-gelar-pelatihan-dagang-untuk-pejabat-afrika",
-  "category": "Global",
-  "title": "Kemendag Gelar Pelatihan Dagang untuk Pejabat [Afrika]",
-  "deck": "Kementerian Perdagangan membuka pelatihan kerja sama Selatan-Selatan bagi 14 pejabat dari enam negara Afrika Timur, bagian dari upaya memperluas hubungan dagang dan investasi dengan kawasan itu.",
-  "date": "28 September 2026",
-  "image": "assets/img/kemendag-gelar-pelatihan-dagang-untuk-pejabat-afrika.jpg",
-  "imageV": "mule67zb",
-  "tags": [
-   "Kemendag",
-   "Afrika",
-   "SSTC",
-   "JICA"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-pelatihan-sstc-2026-kemendag-dorong-penguatan-kemitraan-perdagangan-dan-investasi-indonesia-afrika",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "toba-koreksi-realisasi-dana-obligasi-sisa-rp46-4-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TOBA [koreksi] realisasi dana obligasi, sisa Rp46,4 miliar",
-  "deck": "TOBA merevisi laporan dana obligasi Rp493,96 miliar: 90,6% sudah terpakai, termasuk pelunasan penuh obligasi lama Rp400,93 miliar, sisa Rp46,39 miliar menunggu disetor ke anak usaha tambang.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "obligasi",
-   "penggunaan dana",
-   "TBS Energi Utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e604818fb5_56982d5081.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-revisi-laporan-dana-obligasi-rp89-miliar-mengendap",
-  "category": "Aksi Korporasi",
-  "title": "TOBA Revisi Laporan Dana Obligasi, [Rp89 Miliar] Mengendap",
-  "deck": "TOBA merevisi laporan realisasi dana obligasi Rp125 miliar. Rp24,07 miliar sudah dipakai melunasi utang, sisanya Rp89 miliar untuk anak usaha AMES masih tersimpan di tabungan.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "obligasi",
-   "penggunaan dana",
-   "AMES"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ad99e083a_3dbda5c41e.pdf",
   "sourceLabel": "IDX"
  }
 ];

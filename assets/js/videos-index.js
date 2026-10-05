@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "C2WEm1Ttwh8",
+  "title": "Utang Whoosh Dicicil 80 Tahun, Pakar Ingatkan Risiko ke APBN",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Utang proyek Kereta Cepat Jakarta-Bandung (Whoosh) yang dicicil hingga 80 tahun disorot karena berpotensi membebani APBN. Menteri Keuangan Suahasil Nazara dihadapkan pada tantangan mengelola beban utang tersebut.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut keberlanjutan fiskal negara dan risiko utang jangka panjang proyek infrastruktur strategis."
+ },
+ {
   "id": "wG_oIR1h7e0",
   "title": "Desainer Lokal Unjuk Kreasi Bidik Pasar Dunia",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Seorang pengusaha kuliner mengaku telah menghabiskan biaya hingga jutaan rupiah akibat dugaan pungutan liar parkir yang menambah beban operasional usahanya.",
   "takeaway": "Menyoroti dampak pungutan liar terhadap biaya operasional pelaku usaha kuliner kecil dan menengah."
- },
- {
-  "id": "wOm5ihandBM",
-  "title": "Rekening Massal, Bansos Makin Tepat Sasaran?",
-  "category": "Makroekonomi",
-  "program": "IBF tvOne",
-  "summary": "Rencana pembukaan rekening massal untuk penyaluran bansos menuai pro dan kontra karena diperkirakan membutuhkan anggaran APBN hingga Rp11 triliun, sementara sebagian pihak menilai perbaikan Data Tunggal Sosial lebih mendesak.",
-  "takeaway": "Menyangkut efisiensi belanja APBN dan tata kelola program perlindungan sosial yang berdampak langsung pada anggaran negara."
  }
 ];

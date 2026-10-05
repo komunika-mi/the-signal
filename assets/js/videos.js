@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "C2WEm1Ttwh8",
+  "title": "Utang Whoosh Dicicil 80 Tahun, Pakar Ingatkan Risiko ke APBN",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Utang proyek Kereta Cepat Jakarta-Bandung (Whoosh) yang dicicil hingga 80 tahun disorot karena berpotensi membebani APBN. Menteri Keuangan Suahasil Nazara dihadapkan pada tantangan mengelola beban utang tersebut.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut keberlanjutan fiskal negara dan risiko utang jangka panjang proyek infrastruktur strategis.",
+  "terbit": "2026-10-05T06:30:21+00:00"
+ },
+ {
   "id": "wG_oIR1h7e0",
   "title": "Desainer Lokal Unjuk Kreasi Bidik Pasar Dunia",
   "category": "Industri",

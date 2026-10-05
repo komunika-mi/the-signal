@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-03T02:30:05.901+07:00",
+ "diperbarui": "2026-10-06T04:38:33.536+07:00",
  "entri": [
+  {
+   "id": "2026-10-05-3",
+   "edisi": "2026-10-05",
+   "benang": "Pembelian Orang Dalam Marak di Tengah Pasar Tertekan",
+   "klaim": "Pembelian saham oleh direksi/komisaris di DRMA, VKTR, dan CYBR dalam sepekan terakhir mencerminkan pola keyakinan orang dalam yang meluas, bukan sekadar tiga transaksi yang berdiri sendiri.",
+   "penanda": "Apakah muncul lagi pembelian saham serupa oleh orang dalam di emiten lain pekan depan, sebagaimana tercermin dalam laporan kepemilikan saham mingguan Bursa Efek Indonesia.",
+   "tenggat": "2026-10-12",
+   "tenggatLabel": "laporan kepemilikan saham mingguan Bursa Efek Indonesia pekan depan, sekitar 12 Oktober 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-05-2",
+   "edisi": "2026-10-05",
+   "benang": "Pengawasan Bursa Tetap Ketat atas Gejolak Saham",
+   "klaim": "Otoritas pasar modal (BEI dan OJK) akan konsisten menahan proses korporasi dan meminta klarifikasi begitu ada pergerakan harga saham atau rencana aksi korporasi di luar kebiasaan, seperti yang terjadi pada ARTA, DEWI, KJEN, UNIQ, dan KOTA.",
+   "penanda": "Apakah salah satu dari ARTA, DEWI, KJEN, atau UNIQ kembali bergerak tidak wajar pekan ini, yang biasanya memicu tindakan lanjutan seperti suspensi.",
+   "tenggat": "2026-10-11",
+   "tenggatLabel": "pekan ini",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-05-1",
+   "edisi": "2026-10-05",
+   "benang": "Jalur Pendanaan Korporasi Makin Terbelah",
+   "klaim": "Akses pendanaan korporasi mengetat lebih dulu dan lebih keras bagi emiten dengan rekam jejak kredit yang goyah seperti PTPP, sementara emiten berperingkat kuat seperti TPIA, ASDF, dan BAFI tetap lancar mendapat dana baru.",
+   "penanda": "Apakah PTPP mampu melunasi kewajiban bunga obligasi dan sukuknya dalam masa tenggang sebelum berubah menjadi default penuh.",
+   "tenggat": null,
+   "tenggatLabel": "masa tenggang sebelum PTPP berubah menjadi default penuh",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-02-3",
    "edisi": "2026-10-02",

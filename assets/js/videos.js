@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "SiAz0jv5UR0",
+  "title": "In This Economy: Kelas Menengah Turun Kasta Lagi?",
+  "category": "Makroekonomi",
+  "program": "Satgas Kelitik",
+  "summary": "Program ini mengulas isu penurunan kelas sosial ekonomi kelompok kelas menengah, sekaligus menyoroti dua tahun perjalanan Danantara dalam mengelola dan mengembangkan aset negara.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena membahas evaluasi kinerja Danantara sebagai pengelola aset negara dan kaitannya dengan kondisi daya beli kelas menengah.",
+  "terbit": "2026-10-05T17:10:27+00:00"
+ },
+ {
   "id": "rbKctMOqSa4",
   "title": "Kadin Dorong Pengembangan Ekonomi Hijau",
   "category": "Makroekonomi",

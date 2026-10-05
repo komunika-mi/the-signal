@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "SiAz0jv5UR0",
+  "title": "In This Economy: Kelas Menengah Turun Kasta Lagi?",
+  "category": "Makroekonomi",
+  "program": "Satgas Kelitik",
+  "summary": "Program ini mengulas isu penurunan kelas sosial ekonomi kelompok kelas menengah, sekaligus menyoroti dua tahun perjalanan Danantara dalam mengelola dan mengembangkan aset negara.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena membahas evaluasi kinerja Danantara sebagai pengelola aset negara dan kaitannya dengan kondisi daya beli kelas menengah."
+ },
+ {
   "id": "rbKctMOqSa4",
   "title": "Kadin Dorong Pengembangan Ekonomi Hijau",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "PT KAI meluncurkan Nusantara Explorer, layanan kereta wisata premium bergaya luxury sleeper dengan fasilitas mewah untuk mendongkrak sektor pariwisata.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan langkah diversifikasi bisnis BUMN perkeretaapian ke segmen pariwisata bernilai tambah tinggi."
- },
- {
-  "id": "H4qqPp2_6GY",
-  "title": "PT KAI Luncurkan Kereta Wisata Mewah Nusantara Explorer",
-  "category": "BUMN",
-  "program": "Kabar Siang",
-  "summary": "PT KAI menghadirkan Nusantara Explorer, kereta wisata premium dengan kabin bermalam, restoran, dan lounge bertema kapal pesiar di atas rel.",
-  "takeaway": "Peluncuran produk ini mencerminkan langkah PT KAI memperluas lini bisnis pariwisata sebagai sumber pendapatan baru di luar layanan angkutan reguler."
  }
 ];

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "rbKctMOqSa4",
+  "title": "Kadin Dorong Pengembangan Ekonomi Hijau",
+  "category": "Makroekonomi",
+  "program": "Kabar Hari Ini",
+  "summary": "Kamar Dagang dan Industri Indonesia mendorong pengembangan ekonomi hijau sebagai bagian dari upaya memperkuat pertumbuhan ekonomi yang berkelanjutan.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut arah kebijakan dunia usaha dalam mendukung transisi ekonomi berkelanjutan di Indonesia."
+ },
+ {
   "id": "9oyVVSNsJo8",
   "title": "DPR Gelar Rapat Keputusan Tingkat I RUU Ketenagakerjaan",
   "category": "Ketenagakerjaan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "PT KAI menghadirkan Nusantara Explorer, kereta wisata premium dengan kabin bermalam, restoran, dan lounge bertema kapal pesiar di atas rel.",
   "takeaway": "Peluncuran produk ini mencerminkan langkah PT KAI memperluas lini bisnis pariwisata sebagai sumber pendapatan baru di luar layanan angkutan reguler."
- },
- {
-  "id": "XzEPCg9Qz38",
-  "title": "Mixue Alihkan Fokus ke Kualitas dan Profit, Bukan Ekspansi Gerai",
-  "category": "Bisnis",
-  "program": "tvOneNews",
-  "summary": "Mixue kini memprioritaskan peningkatan kualitas produk, layanan, dan profitabilitas dari sekitar 2.000 gerainya di Indonesia, ketimbang mengejar target pembukaan toko baru.",
-  "takeaway": "Pergeseran strategi ini relevan bagi pembaca ekonomi karena menandai perubahan pola bisnis waralaba makanan minuman di Indonesia dari ekspansi jumlah gerai ke efisiensi dan profitabilitas."
  }
 ];

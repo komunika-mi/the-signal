@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "rbKctMOqSa4",
+  "title": "Kadin Dorong Pengembangan Ekonomi Hijau",
+  "category": "Makroekonomi",
+  "program": "Kabar Hari Ini",
+  "summary": "Kamar Dagang dan Industri Indonesia mendorong pengembangan ekonomi hijau sebagai bagian dari upaya memperkuat pertumbuhan ekonomi yang berkelanjutan.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut arah kebijakan dunia usaha dalam mendukung transisi ekonomi berkelanjutan di Indonesia.",
+  "terbit": "2026-10-05T16:01:46+00:00"
+ },
+ {
   "id": "9oyVVSNsJo8",
   "title": "DPR Gelar Rapat Keputusan Tingkat I RUU Ketenagakerjaan",
   "category": "Ketenagakerjaan",

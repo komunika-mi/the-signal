@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "nayz-akuisisi-75-saham-btl-senilai-us-125-juta",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Akuisisi 75% Saham BTL Senilai [US$125 Juta]",
+  "deck": "NAYZ menandatangani perjanjian pengalihan saham bersyarat untuk mengambil alih 75% saham BTL dari Saiko, pemegang saham pengendali, senilai maksimal US$125 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T12:44:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1051a669e9_0e58cd0def.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "akuisisi",
+   "transaksi afiliasi",
+   "rights issue"
+  ],
+  "body": [
+   "PT Hassana Boga Sejahtera Tbk (NAYZ) menandatangani Perjanjian Pengalihan Saham Bersyarat pada 2 Oktober 2026 dengan Saiko Consultancy Pte. Ltd., pemegang saham pengendali NAYZ. Lewat perjanjian ini, NAYZ berencana mengambil alih 5.692.500 saham yang mewakili 75 persen dari seluruh modal yang diterbitkan Bangkok Tellink Co. Ltd (BTL), perusahaan asal Thailand, dari Saiko. Nilai transaksi ditetapkan paling banyak US$125 juta, namun bisa disesuaikan berdasarkan hasil penilaian independen yang terdaftar di OJK. Jika hasil penilaian itu lebih rendah dari US$125 juta, nilai itulah yang dipakai sebagai dasar penyelesaian transaksi, sedangkan jika hasil penilaian lebih tinggi, batas US$125 juta tetap jadi acuan.",
+   "Pembayaran transaksi ini dibagi dua. Sebanyak 20 persen dari saham yang diambil alih akan dibayar NAYZ secara tunai setelah transaksi selesai. Sisanya, 80 persen, tidak dibayar dengan uang, melainkan dikontribusikan oleh Saiko kepada NAYZ sebagai setoran modal dalam bentuk aset atau inbreng, lewat pelaksanaan hak memesan efek terlebih dahulu atau rights issue yang akan digelar NAYZ. Artinya, Saiko akan menukar sebagian saham BTL miliknya menjadi saham baru NAYZ, bukan menerima uang tunai untuk porsi ini.",
+   "Penyelesaian transaksi ini bergantung pada sejumlah syarat pendahuluan, termasuk persetujuan dari Rapat Umum Pemegang Saham Independen NAYZ. Perusahaan menyatakan transaksi ini masuk kategori transaksi afiliasi sekaligus transaksi material, sehingga tunduk pada Peraturan OJK No. 42/POJK.04/2020 tentang Transaksi Afiliasi dan Peraturan OJK No. 17/POJK.04/2020 tentang Transaksi Material. Saiko berkedudukan di Singapura, sementara BTL merupakan perusahaan yang didirikan berdasarkan hukum Thailand."
+  ],
+  "fotoAdegan": "Workers monitoring stainless steel mixing tanks on a baby food production line inside a bright industrial factory in Indonesia",
+  "takeaway": "Laporan ini netral bagi NAYZ untuk saat ini: rencana mengakuisisi BTL membuka peluang ekspansi bisnis ke Thailand, tetapi caranya, lewat suntikan saham non-tunai dari pemegang saham pengendali dalam rights issue, berpotensi mendilusi porsi pemegang saham publik, meski besarannya belum bisa dihitung dari dokumen ini. Yang tersentuh di sini adalah jumlah saham beredar dan ekuitas NAYZ, karena 80 persen pembayaran akuisisi dilakukan dengan menerbitkan saham baru untuk Saiko lewat rights issue, bukan uang tunai, sehingga jumlah saham NAYZ yang beredar akan bertambah dan itu bisa mengecilkan laba per saham investor publik kalau mereka tidak ikut menambah kepemilikan. Di sisi lain, porsi 20 persen yang dibayar tunai berarti ada aliran dana keluar dari kas NAYZ ke Saiko begitu transaksi selesai. Yang perlu dipantau adalah hasil penilaian independen yang akan menentukan harga final transaksi, dan terutama persetujuan Rapat Umum Pemegang Saham Independen NAYZ yang menjadi syarat wajib sebelum transaksi afiliasi dan material ini bisa dieksekusi, meski dokumen ini belum menyebut tanggal rapatnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "meja-lunasi-utang-rp3-miliar-ke-bca",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Lunasi [Utang] Rp3 Miliar ke BCA",
+  "deck": "PT Harta Djaya Karya Tbk melunasi fasilitas KMK Rp2 miliar dan KRK Rp1 miliar ke BCA pada 30 September 2026, total Rp3 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T12:33:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/705f9371f5_460bd43291.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEJA",
+  "tags": [
+   "MEJA",
+   "BCA",
+   "utang",
+   "pelunasan"
+  ],
+  "body": [
+   "PT Harta Djaya Karya Tbk (MEJA) menyampaikan telah melunasi utang kepada PT Bank Central Asia Tbk (BCA) pada 30 September 2026. Utang yang dilunasi terdiri dari fasilitas Kredit Modal Kerja (KMK) dengan plafon Rp2 miliar dan Kredit Rekening Koran (KRK) dengan plafon Rp1 miliar, sehingga total pinjaman yang dihapus dari pembukuan perusahaan sebesar Rp3 miliar. Keterbukaan informasi ini disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 5 Oktober 2026, ditandatangani oleh Presiden Direktur Richie Adrian Hartanto S dan Corporate Secretary Habibah Jannah.",
+   "Manajemen menyebut pelunasan ini sebagai bagian dari pengelolaan struktur permodalan secara lebih prudent, dengan mengurangi kewajiban kredit atas kedua fasilitas tersebut beserta risiko pembayaran pokok, bunga, dan kebutuhan pendanaan kembali. Dengan lunasnya pokok utang, perusahaan tidak lagi menanggung beban bunga atas kedua fasilitas tersebut ke depan, yang menurut perseroan akan meringankan tekanan terhadap arus kas pada periode berikutnya. Perseroan mengaitkan langkah ini dengan rencana perbaikan bisnis konstruksi dan desain interior yang sedang berjalan.",
+   "Dalam dokumen yang sama, manajemen menyatakan berharap kinerja keuangan perseroan positif pada semester II 2026, sejalan dengan efisiensi biaya pendanaan dan perbaikan bisnis tersebut. Perseroan menyatakan akan menyampaikan informasi lebih lanjut kepada publik apabila terdapat perkembangan material lain sesuai ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "Workers arranging furniture and fabric samples in a bright interior design showroom, Jakarta, natural daylight through large windows",
+  "takeaway": "Laporan ini condong positif bagi MEJA karena perusahaan menghapus total pinjaman Rp3 miliar ke BCA sehingga tidak lagi menanggung bunga dan cicilan pokok ke depan, meski nilainya relatif kecil sehingga dampaknya terhadap kesehatan keuangan perusahaan secara keseluruhan kemungkinan terbatas. Pos yang tersentuh adalah arus kas dan beban bunga, yaitu uang kas yang biasanya disisihkan perusahaan tiap bulan untuk membayar utang ke bank, yang sekarang bisa dialihkan untuk kebutuhan operasional lain. Yang perlu dipantau berikutnya adalah laporan keuangan semester II 2026, karena manajemen sendiri mengaitkan pelunasan ini dengan harapan membaiknya kinerja pada periode tersebut, sehingga publik bisa menilai apakah efisiensi biaya ini benar-benar terlihat dalam laba perusahaan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ppri-koreksi-laporan-realisasi-dana-ipo-sisa-rp8-5-m-di-deposito",
+  "category": "Aksi Korporasi",
+  "title": "PPRI Koreksi Laporan Realisasi Dana IPO, Sisa Rp8,5 M di [Deposito]",
+  "deck": "Paperocks Indonesia mengoreksi laporan realisasi dana IPO per 30 Juni 2026: 75,56 persen sudah dipakai untuk modal kerja, sisa Rp8,5 miliar disimpan di deposito Bank Maybank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T12:26:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcfd9991fc_1defe0aa8e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRI",
+  "tags": [
+   "PPRI",
+   "penggunaan dana IPO",
+   "laporan keuangan",
+   "modal kerja"
+  ],
+  "body": [
+   "PT Paperocks Indonesia Tbk (PPRI) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum perdana (IPO) yang sebelumnya disampaikan 13 Juli 2026. Dalam IPO yang efektif 8 Agustus 2023, perseroan meraih dana sebesar Rp38,5 miliar, dipotong biaya penawaran umum Rp3,72 miliar atau 9,66 persen dari total dana, sehingga hasil bersih yang diterima mencapai Rp34,78 miliar. Sesuai prospektus, seluruh dana itu direncanakan untuk modal kerja.",
+   "Per 30 Juni 2026, perseroan telah merealisasikan Rp26,28 miliar atau 75,56 persen dari dana tersebut untuk modal kerja, yang dicatat sebagai beban pokok penjualan dalam laporan keuangan. Sisa dana sebesar Rp8,5 miliar ditempatkan dalam tiga deposito berjangka satu tahun di PT Bank Maybank Indonesia Tbk, masing-masing senilai Rp2,5 miliar, Rp2,5 miliar, dan Rp3,5 miliar, dengan bunga 3,25 persen per tahun. Bank tersebut bukan pihak terafiliasi perseroan, dan perseroan menargetkan sisa dana itu rampung digunakan untuk modal kerja paling lambat Juni 2027.",
+   "Rincian biaya penawaran umum mencakup biaya penjaminan emisi Rp800,03 juta, biaya jasa penyelenggaraan (management fee) Rp555,17 juta, biaya jasa penjualan (selling fee) Rp194,8 juta, biaya jasa profesi penunjang pasar modal Rp1,65 miliar, biaya jasa lembaga penunjang pasar modal Rp109,75 juta, serta biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi Rp411,1 juta. Laporan koreksi ini ditandatangani Budi Supriadi selaku Head of Finance & Accounting, sementara dokumen laporan realisasi per 30 Juni 2026 ditandatangani Direktur Dillon Sutandar di Bekasi pada 5 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers stacking rolls of recycled paper in a busy paper mill warehouse, forklift moving pallets, industrial lighting",
+  "takeaway": "Laporan ini netral bagi Paperocks Indonesia, sebab realisasi dana sejauh ini masih sejalan dengan rencana awal di prospektus, tanpa penyimpangan penggunaan dana yang perlu dikhawatirkan investor. Pos yang tersentuh adalah arus kas dan beban pokok penjualan, karena dana modal kerja senilai Rp26,28 miliar itu langsung mengurangi biaya produksi sehingga ikut menentukan laba kotor perusahaan, sementara sisa Rp8,5 miliar yang mengendap di deposito berbunga tipis 3,25 persen berarti dana itu belum ikut mendorong kinerja operasional. Yang perlu dipantau berikutnya adalah apakah Paperocks benar menuntaskan penggunaan sisa dana itu untuk modal kerja sesuai target waktu Juni 2027, karena kalau molor dari situ pasar punya alasan mempertanyakan kecepatan ekspansi usaha mereka.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtel-ganti-anggota-komite-nominasi-dan-remunerasi",
+  "category": "Aksi Korporasi",
+  "title": "MTEL Ganti Anggota [Komite Nominasi] dan Remunerasi",
+  "deck": "Imam Suhadi, pihak dari luar perusahaan, masuk menggantikan Yudith Dwi Anggraeni di Komite Nominasi dan Remunerasi Mitratel, berlaku 30 September 2026 hingga 29 September 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T12:01:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/809b0e2684_33cd3ea4b0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTEL",
+  "tags": [
+   "MTEL",
+   "Mitratel",
+   "komite nominasi dan remunerasi",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Dayamitra Telekomunikasi Tbk (MTEL atau Mitratel) melaporkan perubahan susunan Komite Nominasi dan Remunerasi per 30 September 2026. Satu kursi anggota yang diisi oleh pihak dari luar perseroan berganti dari Ibu Yudith Dwi Anggraeni ke Bapak Imam Suhadi, dengan periode jabatan baru berlaku 30 September 2026 sampai 29 September 2029. Perubahan ini ditetapkan lewat Keputusan Dewan Komisaris Nomor 066/DEKOM-DMT/09/2026.",
+   "Empat posisi lain di komite ini tidak berubah. Gunawan Susanto, yang juga Komisaris Independen, tetap menjabat Ketua dengan periode sampai 30 Juni 2028. Tiga anggota lain, yaitu Ibnu Sulistyo Pradipto (Komisaris Independen, menjabat sampai 30 Juni 2030), Ratu Ayu Isyana Bagoes Oka (Anggota Dewan Komisaris, sampai 30 Juni 2030), dan Mira Tayyiba (Anggota Dewan Komisaris, sampai 30 Juni 2028) tetap pada posisinya masing-masing.",
+   "Laporan ini disampaikan ke Otoritas Jasa Keuangan sesuai Peraturan OJK Nomor 34/POJK.04/2014 tentang Komite Nominasi dan Remunerasi Emiten atau Perusahaan Publik. Surat ditandatangani oleh Noorhayati Candrasuci, Direktur Investasi yang merangkap jabatan Sekretaris Perusahaan Mitratel."
+  ],
+  "fotoAdegan": "Wide exterior shot of a modern glass office tower in Jakarta's business district at dusk, rooftop telecom antennas, city lights below",
+  "takeaway": "Perubahan ini netral bagi fundamental Mitratel karena hanya mengganti satu anggota eksternal di komite penasihat dewan komisaris, tanpa menyentuh kas, utang, atau jumlah saham beredar perusahaan. Komite Nominasi dan Remunerasi sendiri tidak mengelola keuangan, tugasnya hanya menyusun kriteria dan mengusulkan calon direksi atau komisaris serta besaran gaji mereka ke pemegang saham, jadi pergantian anggotanya tidak berimbas langsung ke laba atau ekuitas perusahaan. Yang perlu dipantau berikutnya adalah pertengahan 2028, karena masa jabatan Ketua Gunawan Susanto dan anggota Mira Tayyiba akan berakhir 30 Juni 2028 sehingga kemungkinan ada perombakan susunan komite lagi mendekati tanggal tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mtel-rombak-komite-audit-satu-anggota-mundur",
   "category": "Aksi Korporasi",
   "title": "MTEL Rombak Komite Audit, Satu Anggota [Mundur]",

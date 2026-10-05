@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "nayz-akuisisi-75-saham-btl-senilai-us-125-juta",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Akuisisi 75% Saham BTL Senilai [US$125 Juta]",
+  "deck": "NAYZ menandatangani perjanjian pengalihan saham bersyarat untuk mengambil alih 75% saham BTL dari Saiko, pemegang saham pengendali, senilai maksimal US$125 juta.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NAYZ",
+   "akuisisi",
+   "transaksi afiliasi",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1051a669e9_0e58cd0def.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meja-lunasi-utang-rp3-miliar-ke-bca",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Lunasi [Utang] Rp3 Miliar ke BCA",
+  "deck": "PT Harta Djaya Karya Tbk melunasi fasilitas KMK Rp2 miliar dan KRK Rp1 miliar ke BCA pada 30 September 2026, total Rp3 miliar.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEJA",
+   "BCA",
+   "utang",
+   "pelunasan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/705f9371f5_460bd43291.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppri-koreksi-laporan-realisasi-dana-ipo-sisa-rp8-5-m-di-deposito",
+  "category": "Aksi Korporasi",
+  "title": "PPRI Koreksi Laporan Realisasi Dana IPO, Sisa Rp8,5 M di [Deposito]",
+  "deck": "Paperocks Indonesia mengoreksi laporan realisasi dana IPO per 30 Juni 2026: 75,56 persen sudah dipakai untuk modal kerja, sisa Rp8,5 miliar disimpan di deposito Bank Maybank.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRI",
+   "penggunaan dana IPO",
+   "laporan keuangan",
+   "modal kerja"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcfd9991fc_1defe0aa8e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtel-ganti-anggota-komite-nominasi-dan-remunerasi",
+  "category": "Aksi Korporasi",
+  "title": "MTEL Ganti Anggota [Komite Nominasi] dan Remunerasi",
+  "deck": "Imam Suhadi, pihak dari luar perusahaan, masuk menggantikan Yudith Dwi Anggraeni di Komite Nominasi dan Remunerasi Mitratel, berlaku 30 September 2026 hingga 29 September 2029.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTEL",
+   "Mitratel",
+   "komite nominasi dan remunerasi",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/809b0e2684_33cd3ea4b0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mtel-rombak-komite-audit-satu-anggota-mundur",
   "category": "Aksi Korporasi",
   "title": "MTEL Rombak Komite Audit, Satu Anggota [Mundur]",
@@ -6422,70 +6486,6 @@ var ARTICLES = [
    "waran terstruktur"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dacc5ba9de_a6c017c08c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "waran-terstruktur-enrg-disesuaikan-usai-rights-issue-efektif-5-okt",
-  "category": "Aksi Korporasi",
-  "title": "Waran Terstruktur ENRG [Disesuaikan] Usai Rights Issue, Efektif 5 Okt",
-  "deck": "KGI Sekuritas menyesuaikan harga pelaksanaan dan rasio dua seri waran terstruktur atas saham ENRG menyusul rights issue emiten itu, berlaku efektif 5 Oktober 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "HD",
-   "waran terstruktur",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf3432d5a1_f0842ce699.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gems-cetak-laba-bersih-us-224-juta-naik-47-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "GEMS Cetak Laba Bersih US$224 Juta, Naik [47%] di Semester I 2026",
-  "deck": "Golden Energy Mines membukukan laba bersih US$224,3 juta pada semester I 2026, naik 47 persen, dengan opini audit wajar tanpa modifikasian.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GEMS",
-   "Golden Energy Mines",
-   "laporan keuangan",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260928164959-64429-0/FinancialStatement-2026-II-GEMS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rups-dada-sahkan-dividen-rp2-miliar-kuorum-cuma-22-79",
-  "category": "Aksi Korporasi",
-  "title": "RUPS DADA Sahkan [Dividen] Rp2 Miliar, Kuorum Cuma 22,79%",
-  "deck": "RUPS Tahunan Ketiga DADA akhirnya kuorum berkat penetapan khusus OJK, menyetujui dividen tunai Rp2 miliar dan laporan tahunan 2025 meski dihadiri hanya 22,79% pemegang saham.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DADA",
-   "RUPS",
-   "dividen",
-   "laporan tahunan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0562cb48d8_5c179260a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bjbr-siap-lunasi-obligasi-rp74-miliar-per-18-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "BJBR Siap Lunasi [Obligasi] Rp74 Miliar per 18 Oktober 2026",
-  "deck": "Bank bjb akan melunasi pokok obligasi seri C senilai Rp74 miliar dan sudah menyiapkan dana di penempatan pada Bank Indonesia.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BJBR",
-   "obligasi",
-   "pelunasan obligasi",
-   "bank bjb"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/371b49de59_581f8f5478.pdf",
   "sourceLabel": "IDX"
  }
 ];

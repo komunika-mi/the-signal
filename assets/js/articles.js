@@ -3,6 +3,372 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bsbk-bagikan-dividen-interim-rp25-09-miliar-untuk-h1-2026",
+  "category": "Aksi Korporasi",
+  "title": "BSBK Bagikan [Dividen] Interim Rp25,09 Miliar untuk H1 2026",
+  "deck": "BSBK akan membagikan dividen interim Rp1 per saham, total Rp25,09 miliar, dari laba bersih semester I 2026. Pembayaran dijadwalkan 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T18:27:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ca71eaa0ac_bdf83f9f19.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSBK",
+  "tags": [
+   "BSBK",
+   "dividen interim",
+   "Wulandari Bangun Laksana",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Wulandari Bangun Laksana Tbk (BSBK) akan membagikan dividen interim tunai untuk tahun buku 2026 senilai Rp25.091.882.375, atau Rp1 per saham. Rencana ini disetujui Direksi dan disahkan Dewan Komisaris pada 1 Oktober 2026, dengan Direktur Utama Tjia Daniel Wirawan serta dua direktur lainnya, Leonardus Sutarman dan Nicholas Sumasto, menandatangani keputusan tersebut. Persetujuan dari sisi komisaris diberikan oleh Komisaris Utama Christopher Sumasto Tjia bersama dua komisaris lain.",
+   "Dividen ini dihitung dari laporan keuangan interim per 30 Juni 2026, saat perseroan mencatat laba bersih yang dapat diatribusikan ke entitas induk sebesar Rp39,84 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp925,49 miliar, dan total ekuitas Rp2,2 triliun. Dengan nilai dividen Rp25,09 miliar, perseroan membagikan sekitar 63 persen dari laba bersih semester pertama tersebut kepada pemegang saham.",
+   "Jadwalnya, saham BSBK akan cum dividen di pasar reguler dan negosiasi pada 13 Oktober 2026, lalu ex dividen sehari setelahnya, 14 Oktober 2026. Tanggal pencatatan pemegang saham yang berhak atas dividen ditetapkan 15 Oktober 2026 pukul 16.00 WIB, sementara di pasar tunai cum dividen jatuh pada tanggal yang sama dan ex dividen pada 16 Oktober 2026. Pembayaran dividen kepada pemegang saham dijadwalkan paling lambat 20 Oktober 2026. Perseroan juga menyebutkan bahwa pembagian dividen interim ini nantinya akan diperhitungkan dalam Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2026 yang akan diselenggarakan pada 2027."
+  ],
+  "fotoAdegan": "Exterior of a modern mixed-use office and retail tower in a tropical Indonesian city, late afternoon light, pedestrians on the sidewalk below",
+  "takeaway": "Laporan ini condong positif bagi BSBK, karena perseroan sanggup membagikan sekitar 63 persen dari laba bersih semester pertamanya secara tunai tanpa menunggu tutup tahun buku, tanda arus kas yang cukup longgar untuk memenuhi komitmen ke pemegang saham. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang keluar dari kas perusahaan untuk membayar dividen, dan ekuitas, yaitu total kekayaan bersih perusahaan setelah dikurangi utang, yang akan sedikit menyusut begitu laba ditahan dipakai untuk membayar dividen ini. Dengan total dividen Rp25,09 miliar dibandingkan ekuitas Rp2,2 triliun, porsinya kecil sehingga tidak mengganggu kesehatan keuangan perseroan secara keseluruhan. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 15 Oktober 2026 pukul 16.00 WIB untuk menentukan siapa yang berhak menerima dividen, serta tanggal pembayaran pada 20 Oktober 2026 sebagai bukti realisasi komitmen ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tguk-vcg-tunjuk-pelaksana-tender-offer-wajib",
+  "category": "Aksi Korporasi",
+  "title": "TGUK: VCG Tunjuk Pelaksana [Tender Offer] Wajib",
+  "deck": "Usai kuasai 56,84% saham TGUK senilai Rp40,6 miliar, VCG menunjuk PT Artha Global Trikanaka Investama menjalankan tender offer wajib bagi pemegang saham publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T18:20:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9711ff07f_c9b006e99a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGUK",
+  "tags": [
+   "TGUK",
+   "tender offer",
+   "pengambilalihan",
+   "VCG"
+  ],
+  "body": [
+   "VCG resmi menuntaskan pengambilalihan saham PT Platinum Wahab Nusantara Tbk (TGUK) pada 2 Oktober 2026, dengan mengambil 2.030.032.377 saham atau setara 56,84 persen dari modal disetor TGUK milik PT Dinasti Kreatif Indonesia (DKI), pemegang saham pengendali sebelumnya. Harga pembelian ditetapkan Rp20 per saham, sehingga total nilai transaksi mencapai Rp40.600.647.540. Transaksi ini merupakan pelaksanaan dari Perjanjian Jual Beli Bersyarat yang diteken VCG dan DKI pada 18 Juli 2025, yang kemudian diperbarui lewat addendum pada 30 September 2026.",
+   "Dokumen keterbukaan ini turut mengungkap hubungan afiliasi antara VCG dan manajemen TGUK. Antonius Bobby Siswanto, yang menjabat Komisaris Utama TGUK, tercatat sebagai pemegang saham sekaligus direktur di VCG dengan porsi 5 persen dari modal VCG. Agus Suhada, Direktur Utama TGUK, juga memegang 5 persen saham VCG. Pemegang saham mayoritas VCG sendiri adalah Janni dengan porsi 85 persen, sementara sisa 5 persen dipegang Lee Xuanhan, Lancaster.",
+   "Sebagai konsekuensi dari perubahan pengendali ini, VCG wajib melaksanakan penawaran tender kepada seluruh pemegang saham publik TGUK sesuai Peraturan OJK No. 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka. VCG telah menunjuk PT Artha Global Trikanaka Investama sebagai pihak yang akan menjalankan kewajiban tersebut. Dokumen ini belum mencantumkan harga maupun jadwal pelaksanaan tender offer, yang nantinya akan diumumkan terpisah oleh pelaksana yang ditunjuk."
+  ],
+  "fotoAdegan": "Baristas preparing cups of coffee at a small beverage kiosk counter in an Indonesian mall, customers waiting nearby, soft morning light",
+  "takeaway": "Kami menilai laporan ini netral bagi fundamental TGUK, sebab transaksi senilai Rp40,6 miliar ini murni perpindahan saham dari DKI ke VCG dan tidak ada rupiah pun yang masuk ke kas perusahaan. Yang tersentuh hanya peta kepemilikan dan hak suara, bukan ekuitas, arus kas, atau jumlah saham beredar TGUK, karena perusahaan tidak menerbitkan saham baru maupun menerima setoran modal dari transaksi ini. Yang baru di laporan ini adalah kewajiban VCG menggelar tender offer, yaitu penawaran membeli saham milik pemegang saham publik dengan harga tertentu, sebagai konsekuensi otomatis dari pergantian pengendali menurut aturan OJK. Pelaku pasar perlu memantau pengumuman resmi dari PT Artha Global Trikanaka Investama selaku pelaksana tender offer tersebut, karena di situlah harga dan jadwal penawaran bagi pemegang saham publik TGUK akan ditentukan. Perlu dicatat pula bahwa dua petinggi TGUK, Komisaris Utama Antonius Bobby Siswanto dan Direktur Utama Agus Suhada, tercatat sebagai pemegang saham sekaligus pengurus di VCG sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arta-pastikan-tak-ada-fakta-material-picu-volatilitas-harga-saham",
+  "category": "Aksi Korporasi",
+  "title": "ARTA pastikan tak ada [fakta material] picu volatilitas harga saham",
+  "deck": "Menanggapi permintaan Bursa Efek Indonesia soal pergerakan harga sahamnya yang tidak wajar, Arthavest menyatakan tidak mengetahui ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T18:10:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f32be5037b_6e3a1966e1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARTA",
+  "tags": [
+   "ARTA",
+   "Arthavest Tbk",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "body": [
+   "Arthavest Tbk (ARTA) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi bernomor S-12703/BEI.PP3/10-2026 terkait volatilitas transaksi efek perusahaan. Penjelasan bernomor 01/AV/X/2026-CSC itu ditandatangani secara elektronik oleh Corporate Secretary Arthavest, Tsun Tien Wen Lie, pada 5 Oktober 2026 pukul 18.10.",
+   "Dalam dokumen tersebut, manajemen menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat mempengaruhi nilai efek maupun keputusan investasi pemodal sebagaimana diatur POJK Nomor 31/POJK.04/2015, maupun fakta material yang bisa mempengaruhi harga saham menurut Peraturan I-E BEI Kep-00087/BEI/12-2025. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta belum memiliki rencana tindakan korporasi apa pun dalam tiga bulan mendatang yang dapat berdampak pada status pencatatan sahamnya di bursa.",
+   "Perseroan menambahkan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik. Terkait kemungkinan rencana pemegang saham utama atas kepemilikan sahamnya, Corporate Secretary menyatakan telah menanyakan langsung kepada pemegang saham utama dan jawabannya adalah tidak ada rencana apa pun saat ini."
+  ],
+  "fotoAdegan": "Busy pedestrian crossing in Jakarta's financial district at dusk, illuminated glass office towers in the background",
+  "takeaway": "Laporan ini netral bagi Arthavest, karena isinya sebatas bantahan standar bahwa manajemen tidak mengetahui penyebab material di balik pergerakan harga sahamnya yang tidak biasa, tanpa ada angka keuangan atau rencana korporasi baru yang diungkap. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh dokumen ini, yang justru menarik perhatian pelaku pasar adalah fakta bahwa Bursa sampai perlu meminta klarifikasi, pertanda volume atau harga saham ARTA belakangan bergerak di luar kebiasaan tanpa ada alasan fundamental yang diakui perseroan. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga ARTA mereda setelah klarifikasi ini atau Bursa kembali meminta penjelasan lanjutan, serta apakah dalam tiga bulan ke depan, sesuai jendela waktu yang disebut perseroan sendiri, benar-benar tidak muncul rencana tindakan korporasi yang bisa mempengaruhi status pencatatan sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dewi-tak-ada-informasi-material-di-balik-gejolak-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Tak Ada [Informasi Material] di Balik Gejolak Sahamnya",
+  "deck": "Menanggapi permintaan BEI atas gejolak harga saham pada 23 September 2026, DEWI menyatakan tak ada informasi material dan pemegang saham utama berkomitmen tidak melepas kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T18:06:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73bdd2104a_039cf4f372.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) menanggapi permintaan penjelasan Bursa Efek Indonesia terkait volatilitas transaksi sahamnya pada 23 September 2026, menyusul surat BEI nomor S-12389/BEI.PP2/09-2026 yang dikirim pada 24 September 2026 pukul 17.36. Dalam surat tanggapan bernomor 593/DSF/X/2026 tertanggal 5 Oktober 2026 yang ditandatangani Direktur Utama Aditiya Fajar Junus, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik berdasarkan POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan I-E Bursa Efek Indonesia.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dan menyatakan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa. Tidak ada pula informasi atau kejadian material lain yang menurut perseroan belum diungkapkan ke publik.",
+   "Dalam laporan elektronik terpisah bernomor 594/DSF/X/2026 yang ditandatangani Sekretaris Perusahaan Rita Juwita pada 5 Oktober 2026 pukul 18.06, perseroan menambahkan satu poin penting: pemegang saham utama tidak memiliki rencana untuk menjual, mengalihkan, atau menambah kepemilikan sahamnya di DEWI dalam waktu dekat, dan berkomitmen mempertahankan porsi kepemilikannya saat ini."
+  ],
+  "fotoAdegan": "Wide exterior view of a modern Indonesian stock exchange building facade reflecting bright daylight, pedestrians crossing the plaza below",
+  "takeaway": "Penilaian redaksi netral, sebab surat semacam ini adalah jawaban standar yang hampir selalu menyatakan 'tidak ada informasi material' setiap kali bursa meminta klarifikasi atas gejolak harga, terlepas dari apa yang sebenarnya mendorong transaksi tersebut. Yang patut dicatat adalah pos kepemilikan saham, yakni pernyataan bahwa pemegang saham utama tidak berencana menjual atau menambah sahamnya, karena ini menyangkut struktur hak suara pengendali perseroan yang diperhatikan pelaku pasar meski sifatnya adalah komitmen lisan, bukan transaksi yang mengikat. Yang perlu dipantau selanjutnya adalah pergerakan harga dan volume saham DEWI dalam beberapa pekan ke depan, serta apakah BEI akan mengirim permintaan klarifikasi lanjutan jika volatilitas berlanjut, mengingat perseroan sendiri menyebut tidak ada rencana aksi korporasi hingga sekitar awal Januari 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ketr-ungkap-profil-pengendali-baru-imbs-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "KETR Ungkap Profil Pengendali Baru [IMBS] ke Bursa",
+  "deck": "Ketrosden Triasmitra menjawab permintaan penjelasan Bursa dengan membuka profil lengkap PT Inti Mas Bangun Sejahtera, pemilik manfaat akhir, dan status tender wajib bagi pemegang saham publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T18:01:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a3e3186975_8c5d8334ee.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "IMBS",
+   "pengendali saham",
+   "DSSA"
+  ],
+  "body": [
+   "PT Ketrosden Triasmitra Tbk (KETR) menyampaikan tanggapan resmi atas surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-12621/BEI.PP3/10-2026 tanggal 1 Oktober 2026. Surat jawaban bernomor 002/KT-BEI/VP/CORSEC/STG/X/2026 ditandatangani Corporate Secretary Henry Rizard Rumopa pada 5 Oktober 2026, menanggapi sejumlah pertanyaan Bursa terkait pengambilalihan perusahaan oleh PT Inti Mas Bangun Sejahtera (IMBS).",
+   "Dalam jawabannya, KETR menjelaskan bahwa IMBS bergerak di bidang perdagangan besar nonkendaraan, aktivitas jasa keuangan non-asuransi dan dana pensiun, aktivitas holding, serta konsultasi manajemen. Pemegang saham IMBS sendiri adalah PT DSST Mas Gemilang dengan 99 persen saham dan PT Sinarmas Sukses Sejahtera dengan 1 persen saham. Susunan pengurus IMBS terdiri dari Marlo Budiman sebagai Komisaris Utama dan Daniel Cahya sebagai Komisaris, sementara jajaran direksi dipimpin Andrie Tjioe sebagai Direktur Utama bersama Mona Angelique Susanto dan Johannes sebagai Direktur.",
+   "KETR juga mengonfirmasi bahwa PT Dian Swastatika Sentosa Tbk (DSSA) merupakan pengendali tidak langsung IMBS melalui PT DSST Mas Gemilang, dan karena itu IMBS berafiliasi dengan sejumlah perusahaan terbuka lain yang juga dikendalikan grup DSSA, yakni PT Ekamas Mora Republik Tbk, PT Golden Energy Mines Tbk, dan PT XLSmart Telecom Sejahtera Tbk. Pemilik manfaat akhir (ultimate beneficial owner) Perseroan disebutkan adalah Franky Oesman Widjaja. Perusahaan menegaskan tidak ada kewajiban Penawaran Tender Wajib dari IMBS karena pengambilalihan dilakukan lewat Penawaran Tender Sukarela, yang menurut Pasal 23 huruf m POJK No. 9/2018 dikecualikan dari ketentuan tender wajib.",
+   "Soal struktur pemegang saham, KETR memaparkan ulang perubahan sebelum dan sesudah pengambilalihan: PT Fajar Sejahtera Mandiri Nusantara turun dari 1.509.563.417 lembar (53,13 persen) menjadi 515.191.417 lembar (18,13 persen), PT Gema Lintas Benua tetap di 273.759.787 lembar (9,64 persen), IMBS masuk sebagai pemegang saham baru dengan 994.442.000 lembar (35,00 persen), dan porsi publik relatif tetap di kisaran 37,23 persen dari total 2.841.262.838 lembar saham. Perusahaan menyatakan pengambilalihan ini tidak berdampak negatif pada kinerja keuangan saat ini dan diharapkan memberi dampak positif ke depan lewat sinergi IMBS di ekosistem infrastruktur jaringan telekomunikasi."
+  ],
+  "fotoAdegan": "Technicians on a cable-laying vessel deck coiling thick undersea fiber-optic cable, harbor cranes in the distance, overcast daylight",
+  "takeaway": "Laporan ini netral bagi Ketrosden: isinya klarifikasi administratif atas pertanyaan Bursa, tanpa transaksi keuangan baru, meski membuka informasi bahwa pengendali barunya bagian dari grup usaha besar yang juga menguasai XLSmart dan Golden Energy Mines, sehingga klaim sinergi dengan bisnis kabel bawah laut Ketrosden masih berupa harapan perusahaan sendiri dan belum punya angka konkret. Yang tersentuh adalah struktur pemegang saham dan hak suara, karena pengendalian mayoritas kini di tangan IMBS dengan 35 persen saham, sementara pemegang saham publik yang menguasai sekitar 37 persen tidak mendapat tawaran untuk menjual saham mereka, sebab aturan Otoritas Jasa Keuangan membebaskan kewajiban tender wajib ketika pengambilalihan ditempuh lewat tender sukarela. Pelaku pasar memperhatikan siapa pengendali perusahaan karena itu menentukan arah kebijakan dan strategi bisnis ke depan. Yang perlu dipantau berikutnya adalah Rapat Umum Pemegang Saham Luar Biasa yang dijadwalkan 12 November 2026, yang berpotensi memuat agenda konkret dari pengendali baru soal rencana bisnis Ketrosden.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "auto-bagikan-dividen-interim-rp72-52-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "AUTO Bagikan Dividen Interim [Rp72,52] per Saham",
+  "deck": "Astra Otoparts akan membagikan dividen interim Rp72,52 per saham, total Rp349,5 miliar, dengan pembayaran pada 26 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:54:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5a7421f8d5_061a7b79c4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AUTO",
+  "tags": [
+   "AUTO",
+   "dividen interim",
+   "Astra Otoparts",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Astra Otoparts Tbk (AUTO) akan membagikan dividen tunai interim untuk tahun buku yang berakhir 31 Desember 2026. Keputusan ini diambil Direksi pada 2 Oktober 2026 dan telah disetujui Dewan Komisaris. Dividen yang dibagikan sebesar Rp72,52 per saham, dengan total nilai Rp349.527.037.160 atau sekitar Rp349,5 miliar.",
+   "Jadwal pembagian dividen ditetapkan sebagai berikut: cum dividen di pasar reguler dan negosiasi pada 13 Oktober 2026, ex dividen pada 14 Oktober 2026, cum dividen di pasar tunai pada 15 Oktober 2026, dan ex dividen di pasar tunai pada 16 Oktober 2026. Pemegang saham yang namanya tercatat dalam daftar pemegang saham (recording date) pada 15 Oktober 2026 pukul 16:00 WIB berhak menerima dividen ini, yang akan dibayarkan pada 26 Oktober 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 Juni 2026, dengan laba bersih yang diatribusikan ke pemegang saham induk sebesar Rp1,15 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp11,98 triliun, dan total ekuitas perusahaan Rp17,2 triliun. Perusahaan juga mengatur bahwa pemegang saham badan dalam negeri yang belum mencantumkan NPWP akan dikenakan pajak dividen 30 persen, sementara pemegang saham asing yang tidak menyerahkan surat keterangan domisili pajak sebelum 15 Oktober 2026 pukul 16:00 WIB akan dikenakan pajak 20 persen. Dokumen ini ditandatangani oleh Sophie Handili selaku Direktur dan Sekretaris Perusahaan AUTO."
+  ],
+  "fotoAdegan": "Technicians assembling car engine components on an automotive parts factory line, bright industrial lighting, Indonesia",
+  "takeaway": "Pembagian dividen interim ini tergolong positif bagi pemegang saham AUTO karena nilainya wajar dibanding kinerja perusahaan, yakni sekitar 30 persen dari laba bersih semester pertama 2026, sehingga tidak menguras kas secara berlebihan. Pos kinerja yang tersentuh adalah kas dan ekuitas perusahaan, karena Rp349,5 miliar yang dibagikan ini akan mengurangi uang tunai dan modal pemegang saham yang tercatat di buku perusahaan, meski porsinya hanya sekitar 2 persen dari total ekuitas Rp17,2 triliun sehingga dampaknya tipis. Yang perlu dipantau pemegang saham adalah recording date pada 15 Oktober 2026 pukul 16:00 WIB, yaitu batas waktu kepemilikan saham agar berhak menerima dividen ini, serta tanggal pembayaran pada 26 Oktober 2026. Pemegang saham asing yang ingin pajak dividennya dipotong dengan tarif lebih rendah sesuai perjanjian pajak antarnegara juga harus menyerahkan surat keterangan domisili pajak paling lambat tanggal yang sama, agar tidak otomatis dikenakan potongan pajak yang lebih besar.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cash-paparkan-kinerja-h1-2026-transaksi-melonjak-273",
+  "category": "Aksi Korporasi",
+  "title": "CASH Paparkan Kinerja H1 2026, [Transaksi] Melonjak 273%",
+  "deck": "Materi public expose tahunan ke BEI memuat kinerja semester I 2026 Cashlez (CASH): transaksi naik 273 persen, laba kotor naik 21 persen dibanding tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:54:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2ab2abdb9e_e81bc7cecf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "Cashlez",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia melalui surat bernomor 430/SK/CSC-CWI/X/2026 yang diteken Presiden Direktur Willy Chandry pada 5 Oktober 2026. Materi ini merupakan kelanjutan dari surat pemberitahuan rencana public expose sebelumnya, nomor 395/SK/CSC-CWI/IX/2026 tertanggal 24 September 2026, dan paparan kepada publik dijadwalkan berlangsung pada 8 Oktober 2026.",
+   "Dalam materi tersebut, Cashlez memaparkan kinerja semester I 2026. Jumlah merchant yang menggunakan layanan cashUP tercatat 30.761, naik 18 persen dari 26.054 merchant pada semester I 2025. Volume transaksi melonjak ke 1,90 juta dari 510,6 ribu transaksi pada periode yang sama tahun lalu, setara kenaikan 273 persen. Nilai transaksi yang diproses melalui layanan Cashlez (sales volume) naik 257 persen menjadi Rp1,19 triliun dari Rp332,6 miliar.",
+   "Pendapatan kotor (gross revenue) perusahaan tercatat naik 189 persen menjadi Rp16,29 miliar dari Rp5,64 miliar pada semester I 2025. Secara terpisah, perusahaan juga melaporkan laba kotor (gross profit) sebesar Rp19 miliar, naik 21 persen dibandingkan tahun sebelumnya. Dari sisi komposisi pendapatan cashUP, penjualan dan sewa perangkat menyumbang 71 persen, managed services 21 persen, dan biaya transaksi (transaction fee) 8 persen.",
+   "Materi public expose juga memuat sejumlah inisiatif bisnis Cashlez selama 2026, termasuk peluncuran produk baru cashUPay, mPOS, soundbox Clip On, dan mesin cashVM. Perusahaan menyebut perluasan kerja sama strategis dengan GoTyme dan PT Bank Syariah Indonesia Tbk (BSI) untuk memperkuat ekosistem pembayaran digital. Cashlez juga melaporkan kegiatan penyembelihan dan penyaluran hewan kurban di sekitar kawasan Thamrin, Jakarta, pada 27 Mei 2026 sebagai bagian dari program sosialnya."
+  ],
+  "fotoAdegan": "A small shop owner tapping a payment card on a handheld POS terminal at a checkout counter, soft indoor lighting",
+  "takeaway": "Laporan ini condong positif bagi Cashlez, karena data semester I 2026 menunjukkan pertumbuhan dua hingga tiga digit di hampir semua metrik bisnis utama, dari jumlah merchant sampai volume transaksi, dan laba kotor ikut naik meski tidak secepat volume transaksinya. Pos yang tersentuh di sini adalah laba kotor, yaitu selisih antara pendapatan dan biaya langsung untuk menghasilkan jasa, sebelum dipotong biaya operasional, bunga, dan pajak; pelaku pasar mencermatinya karena menunjukkan apakah lonjakan transaksi benar-benar berubah jadi untung, bukan sekadar ramai tapi marginnya tipis. Yang perlu dipantau berikutnya adalah sesi public expose itu sendiri pada 8 Oktober 2026, ketika manajemen biasanya membuka tanya jawab dengan investor soal detail di balik angka ini, termasuk apakah pertumbuhan semester I akan berlanjut di semester dua setelah suntikan modal dari rights issue Rp237,2 miliar yang baru rampung akhir September lalu.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "apex-tetapkan-konversi-utang-jadi-saham-rupslb-7-oktober",
+  "category": "Aksi Korporasi",
+  "title": "APEX Tetapkan [Konversi] Utang Jadi Saham, RUPSLB 7 Oktober",
+  "deck": "Apexindo menjawab permintaan OJK ketiga kalinya soal rencana konversi utang US$4,1 juta menjadi 218 juta saham baru seri B, dengan RUPSLB digelar 7 Oktober dan realisasi ditargetkan 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:48:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d7a331c211_e102cffef9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "konversi utang",
+   "PMTHMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "Apexindo Pratama Duta Tbk (APEX) mengirim surat nomor 275/DIR-X/2026 kepada OJK pada 5 Oktober 2026, sebagai tanggapan ketiga atas surat OJK No. S-305/PM.212/2026 tanggal 11 September 2026 terkait rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD). Surat ini dilampiri dokumen perubahan dan tambahan informasi keterbukaan kepada pemegang saham, yang berarti OJK sempat meminta penjelasan lebih lanjut sebelum rencana ini bisa diumumkan secara final. Direktur Jeanne Watulo menandatangani korespondensi tersebut.",
+   "Isi rencananya: utang Apexindo kepada dua kreditor sindikasi luar negeri, HSBC Bank PLC dan The Hongkong and Shanghai Banking Corporation Limited, senilai US$4.108.948 akan dilunasi dengan menerbitkan 218.090.317 saham baru seri B senilai nominal Rp325 per saham, pada harga pelaksanaan yang sama, Rp325 per saham. Nilai tukar yang dipakai untuk mengonversi utang dolar itu ke rupiah disepakati Rp17.250 per dolar AS, padahal kurs tengah Bank Indonesia pada tanggal kesepakatan (31 Juli 2026) sebesar Rp18.078. Karena kurs yang dipakai lebih rendah, jumlah saham baru yang harus diterbitkan juga lebih sedikit dibanding jika memakai kurs BI. Dari total saham baru itu, HSBC Bank PLC akan menerima 62.311.515 saham (1,66% dari modal setelah transaksi) dan HSBC Ltd menerima 155.778.802 saham (4,14%). Utang ini berasal dari Perjanjian Fasilitas 2022 senilai US$35 juta yang jatuh tempo 18 Mei 2026, namun diperpanjang tiga kali, ke 8 Juni, 8 Juli, dan terakhir 31 Juli 2026, karena arus kas perusahaan belum cukup untuk membayar tunai.",
+   "Dengan konversi ini, dilusi kepemilikan pemegang saham lama tercatat 5,79%. Porsi PT Aserra Capital turun dari 53,51% menjadi 50,41% saham beredar, sementara porsi publik turun dari 39,46% menjadi 37,17%, namun perusahaan menegaskan tidak ada perubahan pengendali karena PT Aserra Capital tetap menjadi pemegang saham pengendali. Modal dasar perusahaan juga berubah dari 6 miliar saham senilai Rp3 triliun menjadi 5.858.241.292 saham senilai Rp2.929.120.646.000, menyusul penambahan seri saham baru bernilai nominal Rp325. Persetujuan rencana ini akan diminta dalam RUPSLB pada Rabu, 7 Oktober 2026, dan perkiraan tanggal pelaksanaan konversi serta penerbitan sahamnya adalah 20 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting pipework on an offshore oil drilling rig platform under an overcast tropical sky",
+  "takeaway": "Laporan ini condong negatif bagi Apexindo karena inti ceritanya tidak berubah dari sebelumnya, yakni ketidakmampuan membayar utang dolar tepat waktu setelah fasilitas pinjamannya diperpanjang tiga kali berturut-turut, sampai akhirnya kreditor setuju menerima saham sebagai ganti pembayaran tunai. Yang tersentuh adalah jumlah saham beredar dan laba per saham, karena menambah 218 juta saham baru berarti laba perusahaan nantinya harus dibagi ke lebih banyak lembar saham sehingga nilainya per saham bisa terdilusi, sementara di sisi lain beban bunga perusahaan berkurang karena sebagian utangnya lunas tanpa keluar uang tunai. Satu detail yang meringankan kesan negatifnya, kurs konversi yang dipakai (Rp17.250 per dolar AS) lebih rendah dari kurs tengah Bank Indonesia saat itu, sehingga kreditor menerima saham lebih sedikit dan pemegang saham publik terdilusi lebih ringan dibanding seandainya memakai kurs pasar. Yang perlu dipantau adalah hasil RUPSLB pada 7 Oktober 2026 yang harus menyetujui rencana ini, lalu realisasi penerbitan saham dan konversi utang yang ditargetkan tuntas pada 20 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kjen-jawab-bei-tak-ada-informasi-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "KJEN Jawab BEI: Tak Ada Informasi Material soal [Volatilitas] Saham",
+  "deck": "Merespons surat Bursa Efek Indonesia soal lonjakan transaksi, KJEN menyatakan tidak ada informasi material yang belum diungkap maupun rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:40:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7109b50837_8691ad4ed6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KJEN",
+  "tags": [
+   "KJEN",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Krida Jaringan Nusantara Tbk. (KJEN) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-12637/BEI.PP3/10-2026 tertanggal 1 Oktober 2026 terkait volatilitas transaksi efeknya. Surat balasan perseroan bernomor 039/CS/KJN/X/2026 ditandatangani Sunarto selaku Direktur Utama dan disampaikan pada 5 Oktober 2026, empat hari setelah surat bursa diterima.",
+   "Dalam jawabannya, manajemen menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal sebagaimana diatur POJK Nomor 31/POJK.04/2015, dan juga tidak mengetahui adanya informasi yang dapat memengaruhi harga saham sesuai Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan POJK Nomor 4 Tahun 2024 tentang kepemilikan dan penjaminan saham.",
+   "Terkait rencana ke depan, KJEN menyatakan belum memiliki rencana aksi korporasi dalam tiga bulan mendatang yang dapat berdampak pada status pencatatan sahamnya di bursa, serta tidak ada fakta material lain yang belum diungkapkan ke publik. Perseroan juga mengonfirmasi, setelah menanyakan langsung kepada pemegang saham utama melalui Corporate Secretary, bahwa tidak ada rencana perubahan kepemilikan saham dari pemegang saham utama."
+  ],
+  "fotoAdegan": "Courier workers scanning and stacking parcels beside delivery vans in a logistics distribution yard, Jakarta street visible in the background, morning light.",
+  "takeaway": "Isi surat ini netral bagi fundamental KJEN karena seluruh enam poin jawabannya adalah penyangkalan baku, tidak ada angka keuangan atau aksi korporasi baru yang diungkapkan. Surat semacam ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham sama sekali, nilainya justru pada konfirmasi bahwa lonjakan atau penurunan harga saham belakangan ini, yang membuat bursa sampai mengirim surat permintaan penjelasan, tidak dipicu oleh informasi internal perusahaan yang disembunyikan dari publik. Dengan kata lain, pergerakan harga sahamnya kemungkinan lebih didorong oleh aktivitas perdagangan di pasar ketimbang perubahan bisnis riil. Yang perlu dipantau adalah tiga bulan ke depan sejak surat ini, sekitar awal Januari 2027, karena perseroan sendiri menyebut belum ada rencana aksi korporasi hingga periode tersebut, dan setiap keterbukaan baru dalam rentang itu perlu dicermati karena bisa mengubah jawaban yang disampaikan hari ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mang-koreksi-laporan-dana-ipo-uang-muka-rp66-m-belum-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "MANG Koreksi Laporan Dana IPO, [Uang Muka] Rp66 M Belum Terpakai",
+  "deck": "PT Manggung Polahraya Tbk mengoreksi laporan dana IPO Rp73,39 miliar. Sebagian besar dana tercatat sebagai uang muka yang baru ditargetkan terpakai penuh pada 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:33:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcd89dac56_cac855f9e3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MANG",
+  "tags": [
+   "MANG",
+   "Penggunaan Dana IPO",
+   "Konstruksi",
+   "Pasar Modal"
+  ],
+  "body": [
+   "PT Manggung Polahraya Tbk (MANG) menyampaikan koreksi atas laporan penggunaan dana hasil penawaran umum yang sebelumnya diterbitkan pada 16 Juli 2026, melalui surat bernomor 379/CORSEC-MPR/X/2026 tertanggal 5 Oktober 2026. Perusahaan ini meraih Rp76,25 miliar dari penawaran umum perdana saham yang efektif pada 11 Januari 2024. Setelah dipotong biaya penawaran umum sebesar Rp2,86 miliar, dana bersih yang diperoleh perseroan adalah Rp73,39 miliar. Dalam laporan terbaru ini, seluruh dana tersebut dicatat sudah terealisasi sesuai rencana di prospektus, yakni 100 persen untuk modal kerja, sehingga sisa dana tercatat nol.",
+   "Namun rincian penggunaannya menunjukkan gambaran berbeda. Sebanyak 90,5 persen dari dana itu, atau setara Rp66,4 miliar, tercatat sebagai uang muka yang berada di PT Abhil Perkasa Mandiri. Perseroan sendiri mengakui dalam dokumen bahwa dana ini belum dapat dimanfaatkan sepenuhnya untuk pengerjaan proyek-proyek perusahaan, dengan target waktu penyelesaian penggunaan dana pada 2029. Sisanya, Rp5,59 miliar atau 7,62 persen, telah dipakai untuk konstruksi gedung dan bangunan di proyek Siger Park tahap 3, Amphitheater, Perumahan Citra Garden Serpong, dan Perumahan Green Kemiling. Adapun Rp1,38 miliar atau 1,88 persen digunakan untuk produksi aspal beton yang kini tercatat sebagai stok persediaan bahan baku.",
+   "Di luar dana IPO, laporan ini juga mencatat realisasi dana dari konversi waran MANG-W. Dari total 228,75 juta unit waran yang diterbitkan dengan harga pelaksanaan Rp125 per unit, baru sekitar 103.855 unit yang telah dikonversi pemegangnya, menghasilkan dana Rp12.981.875 yang hingga kini belum direalisasikan penggunaannya. Sementara itu, biaya penawaran umum sebesar Rp2,86 miliar terbagi untuk biaya jasa profesi penunjang pasar modal Rp1,45 miliar (50,69 persen), biaya jasa penjaminan emisi Rp912,5 juta (31,91 persen), biaya lain-lain Rp344,99 juta (12,06 persen), dan biaya jasa lembaga penunjang pasar modal Rp152,6 juta (5,34 persen). Laporan ditandatangani oleh Direktur Satrijo Heru Broho di Jakarta pada 2 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers spreading fresh hot asphalt mix on a new road surface with a steamroller nearby, overcast midday light",
+  "takeaway": "Laporan ini condong negatif karena 90,5 persen dana hasil IPO, sekitar Rp66,4 miliar, ternyata masih berbentuk uang muka ke pihak ketiga yang belum terpakai nyata untuk proyek, meski di tabel ringkasan dana itu tercatat sudah terealisasi penuh dengan sisa nol. Uang muka adalah pembayaran di depan sebelum barang atau jasa benar-benar diterima, sehingga dana itu sudah keluar dari kas perusahaan namun belum berubah menjadi proyek jadi yang menghasilkan pendapatan, inilah sebabnya pelaku pasar perlu mencermati arus kas dan efisiensi modal kerja perseroan. Hanya kurang dari 10 persen dana yang sudah benar-benar menjadi bangunan atau stok bahan produksi. Yang perlu dipantau selanjutnya adalah progres pemakaian uang muka tersebut, karena perseroan sendiri menargetkan baru bisa memanfaatkannya sepenuhnya pada 2029, lebih dari lima tahun setelah dana IPO diterima pada Januari 2024.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bbyb-dirut-eri-budiono-mundur-dari-bank-neo-commerce",
+  "category": "Aksi Korporasi",
+  "title": "BBYB: Dirut Eri Budiono [Mundur] dari Bank Neo Commerce",
+  "deck": "Eri Budiono mengajukan pengunduran diri dari jabatan Direktur Utama Bank Neo Commerce (BBYB) sejak 2 Oktober 2026, menunggu persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:25:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9cbc9b0704_3ad011b9d7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBYB",
+  "tags": [
+   "BBYB",
+   "Bank Neo Commerce",
+   "Direksi",
+   "Pengunduran Diri"
+  ],
+  "body": [
+   "PT Bank Neo Commerce Tbk. (BBYB) melaporkan bahwa pada 2 Oktober 2026 perseroan menerima surat permohonan pengunduran diri dari Eri Budiono dari jabatannya sebagai Direktur Utama. Laporan ini merujuk pada Pasal 11 dan 12 POJK No. 17 Tahun 2023 tentang Penerapan Tata Kelola Bank Umum, serta Pasal 8 dan 9 POJK No. 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik. Laporan ditandatangani Head of Corporate Secretary BBYB, Heru Sulistiadhi, dan disampaikan ke OJK serta Bursa Efek Indonesia pada 5 Oktober 2026 pukul 17.25.",
+   "Rencana pengunduran diri Eri Budiono tersebut sudah tercatat dalam administrasi pengawasan OJK melalui surat bernomor SR-241/PB.32/2026 tertanggal 28 September 2026. Perseroan menegaskan langkah selanjutnya adalah meminta persetujuan pemegang saham melalui Rapat Umum Pemegang Saham (RUPS), namun dokumen ini belum mencantumkan tanggal pelaksanaan RUPS tersebut. Manajemen BBYB menyatakan kejadian ini tidak berdampak merugikan terhadap kegiatan usaha maupun kondisi keuangan perseroan."
+  ],
+  "fotoAdegan": "Modern glass-walled bank office corridor with empty meeting rooms and soft morning light, no visible text or signage",
+  "takeaway": "Pergantian pucuk pimpinan ini netral bagi fundamental BBYB, sebab dokumen tidak menyebut adanya skandal, pelanggaran, atau tekanan otoritas di balik kepergian Eri Budiono, dan prosesnya pun masih harus lolos persetujuan RUPS sesuai prosedur baku tata kelola bank. Pos yang langsung tersentuh adalah struktur kepemimpinan direksi, bukan laba atau arus kas perseroan, tetapi pergantian Direktur Utama tetap layak dipantau karena posisi itu yang menentukan arah strategi bisnis bank digital ini, termasuk soal pertumbuhan kredit dan pengendalian biaya ke depan. Yang perlu dipantau berikutnya adalah tanggal RUPS yang akan mengesahkan pengunduran diri ini, karena dokumen belum mencantumkan jadwalnya, serta siapa yang akan ditunjuk sebagai pengganti atau pelaksana tugas Direktur Utama sampai RUPS berlangsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lpkr-jelaskan-transaksi-lippo-plaza-kupang-rp403-8-m-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "LPKR Jelaskan Transaksi Lippo Plaza Kupang Rp403,8 M [Akuisisi]",
+  "deck": "Lippo Karawaci menjawab permintaan penjelasan BEI soal pengalihan Lippo Plaza Kupang dari Nusa Bahana Niaga ke anak usahanya, Bumi Sarana Sejahtera, senilai Rp403,80 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:15:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1aa05d2f28_e4b3281c55.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPKR",
+  "tags": [
+   "LPKR",
+   "Lippo Karawaci",
+   "Lippo Plaza Kupang",
+   "First REIT"
+  ],
+  "body": [
+   "PT Lippo Karawaci Tbk (LPKR) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan bursa bernomor S-12643/BEI.PP2/10-2026 tanggal 1 Oktober 2026, terkait pengalihan hak atas Lippo Plaza Kupang dari PT Nusa Bahana Niaga (NBN) kepada PT Bumi Sarana Sejahtera (BSS), anak usaha LPKR. Dalam surat yang ditandatangani Sekretaris Perusahaan Ratih Safitri pada 5 Oktober 2026, LPKR menjelaskan nilai transaksi sebesar SGD29,09 juta atau setara Rp403,80 miliar, dengan kurs yang disepakati Rp13.880,91 per dolar Singapura. Harga itu ditetapkan berdasarkan kesepakatan para pihak, dengan mengacu pada laporan tahunan 2025 First REIT yang mencatat nilai properti tersebut sebesar SGD29,7 juta hasil penilaian Knight Frank pada 2025, sehingga harga transaksi LPKR sedikit di bawah angka acuan itu. Perseroan menegaskan seluruh pendanaan transaksi berasal dari kas internal, tanpa pinjaman baru.",
+   "LPKR juga melampirkan data okupansi Lippo Plaza Kupang selama empat tahun terakhir: 94,8 persen pada 30 Juni 2026, turun dari 96,4 persen di akhir 2025, 97,3 persen di akhir 2024, dan 95,1 persen di akhir 2023. Untuk kondisi keuangan BSS selaku pihak pembeli, Perseroan membuka data bahwa ekuitas perusahaan itu negatif Rp18,89 miliar per 30 Juni 2026, dengan rugi bersih Rp20,69 miliar hanya dalam semester pertama 2026. Angka ini memburuk dibanding akhir 2025 yang ekuitasnya masih positif Rp1,80 miliar meski sudah rugi bersih Rp13,20 miliar, padahal pada 2023 dan 2024 BSS masih membukukan laba bersih masing-masing Rp25,13 miliar dan Rp26,46 miliar. Sementara itu, LPKR menyatakan tidak memiliki akses ke data keuangan NBN karena entitas itu tidak dikendalikan oleh Perseroan.",
+   "Menjawab pertanyaan soal hubungan dengan First REIT, pemilik seluruh saham entitas anak NBN, LPKR menegaskan First REIT tidak termasuk kategori pihak afiliasi berdasarkan POJK Nomor 42/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan. Perseroan juga menyebut pertimbangan First REIT melepas hak atas Lippo Plaza Kupang berada di luar kewenangannya, karena First REIT dan NBN bukan pihak yang dikendalikan oleh LPKR maupun afiliasinya. Keterbukaan informasi soal transaksi ini sebelumnya sudah diungkapkan dalam laporan fakta material tanggal 24 September 2026, dan LPKR menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik hingga surat ini disampaikan."
+  ],
+  "fotoAdegan": "Facade of a modest regional shopping mall in a tropical Indonesian city, shoppers walking across the parking area, late afternoon light",
+  "takeaway": "Transaksi ini netral bagi LPKR, bukan sinyal searah: pembelian didanai kas internal tanpa utang baru dan harganya sedikit di bawah valuasi acuan Knight Frank, tapi itu diimbangi kondisi keuangan BSS, badan usaha yang kini memegang aset tersebut, yang mencatat ekuitas negatif Rp18,89 miliar dan rugi membesar pada semester pertama 2026. Ekuitas negatif berarti total utang BSS sudah melebihi total asetnya, sehingga pemegang saham LPKR perlu mencermati apakah anak usaha ini nantinya butuh suntikan modal dari induk atau tambahan pinjaman untuk mengelola mal tersebut. Potensi pendapatan sewa berulang yang disebut Perseroan sebagai alasan transaksi baru akan terlihat dari laporan keuangan konsolidasi LPKR pada periode mendatang, bukan dari dokumen tanggapan ini. Yang perlu dipantau berikutnya adalah apakah BEI menerima tanggapan ini sebagai penjelasan final atau meminta klarifikasi lanjutan, serta bagaimana posisi ekuitas BSS bergerak pada laporan keuangan semester II 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "merk-catat-impairment-rp87-miliar-kontrak-p-g-berakhir-2027",
+  "category": "Aksi Korporasi",
+  "title": "MERK Catat [Impairment] Rp87 Miliar, Kontrak P&G Berakhir 2027",
+  "deck": "Merck Tbk mencatat penurunan nilai aset Rp87 miliar di pabrik Pasar Rebo karena kontrak manufaktur dengan P&G, pemasok 80 persen volume produksi, berakhir akhir 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T17:04:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a00bbd15e9_322670dab1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MERK",
+  "tags": [
+   "MERK",
+   "Public Expose",
+   "Impairment Aset",
+   "Farmasi"
+  ],
+  "body": [
+   "Merck Tbk (MERK) menyampaikan materi Public Expose Tahunan ke Bursa Efek Indonesia pada 5 Oktober 2026, menjelang acara paparan publik yang digelar Kamis, 8 Oktober 2026, pukul 10.30 sampai 12.00 WIB di kantor perusahaan di Jalan TB Simatupang No. 8, Pasar Rebo, Jakarta Timur, dan dihadiri jajaran direksi. Materi ini menjabarkan lebih detail keterbukaan informasi yang sudah diumumkan perusahaan pada 24 September 2026 soal pembukuan beban penurunan nilai aset atau impairment di pabrik Pasar Rebo.",
+   "Impairment senilai Rp87 miliar itu dibukukan karena Manufacturing Service Agreement dengan Procter & Gamble (P&G), yang terakhir diperbarui 1 September 2026 dan akan berakhir 31 Desember 2027, memasuki periode terakhirnya. Produk P&G menyumbang sekitar 80 persen dari volume produksi pabrik Pasar Rebo saat ini. Perusahaan mencatat beban ini pada September 2026 agar tercermin di laporan keuangan kuartal III 2026, dan menyebut risiko penyesuaian nilai aset ini sebenarnya sudah diungkapkan dalam Laporan Tahunan 2024 dan 2025. Latar belakangnya, pabrik ini pernah direnovasi besar pada 2015-2018 untuk target produksi dua miliar tablet, sebelum Merck Group melepas bisnis Consumer Health pada 2018 yang menekan utilisasi kapasitas pabrik.",
+   "Di sisi kinerja, laba bersih Merck pada semester I 2026 tumbuh 396 persen dibanding periode sama tahun sebelumnya, hampir empat kali lipat. Rasio utang terhadap modal sendiri tercatat 0,27 kali, rasio lancar 5 kali, return on assets 9,10 persen, dan return on equity 11,59 persen. Perusahaan juga menyebut mempertahankan posisi pemimpin pasar di semua area terapi utamanya: tiroid (Euthyrox, Thyrozol), kardiovaskular (Concor), diabetes (Glucophage, Glucovance), multiple sclerosis (Mavenclad, Rebif), kesuburan (Pergoveris, Gonal-f), hormon pertumbuhan (Saizen), dan onkologi (Erbitux), dengan pertumbuhan penjualan Merck 7,7 persen dibanding pertumbuhan pasar ethical 6,5 persen dan pasar total 6,2 persen, serta peringkat kedelapan di antara perusahaan farmasi multinasional.",
+   "Untuk langkah ke depan setelah kontrak P&G berakhir, Merck menyebut akan memfokuskan pabrik Pasar Rebo untuk produksi obat resep serta memperluas ekspor produk seperti Glucophage XR, Glucophage IR, Glucovance, dan Concor ke Filipina pada 2026, lalu ke Hong Kong, Singapura, Brunei, Malaysia, dan Thailand pada 2027-2029. Sekitar 60 persen penjualan Healthcare perusahaan berasal dari impor produk bioteknologi jadi, sementara 40 persen dari produksi sendiri. Di jalur obat baru, perusahaan tengah memproses peluncuran TEPMETKO untuk kanker paru, mengakselerasi penjualan Bavencio dan Mavenclad, serta masih menunggu keputusan business case untuk memasarkan portofolio tumor langka hasil akuisisi SpringWorks oleh Merck KGaA pada 1 Juli 2025."
+  ],
+  "fotoAdegan": "Factory workers in white coats inspecting rows of pharmaceutical tablets on an automated packaging line, bright industrial lighting",
+  "takeaway": "Laporan ini campuran, tapi intinya condong negatif untuk jangka menengah: di balik laba yang melonjak, Merck sendiri mengakui bahwa 80 persen volume produksi pabrik Pasar Rebo bergantung pada satu kontrak dengan P&G yang berakhir 31 Desember 2027. Beban penurunan nilai aset Rp87 miliar yang dibukukan September 2026 menggerus nilai aset tercatat dan menekan laba periode ini, tapi ini pencatatan akuntansi, bukan uang yang benar-benar keluar dari kas, sehingga rasio utang terhadap modal yang hanya 0,27 kali dan rasio lancar 5 kali menunjukkan perusahaan masih punya banyak aset lancar untuk menutup utang jangka pendeknya. Pelaku pasar memperhatikan pos ini karena penurunan nilai aset langsung memangkas ekuitas, yaitu modal sendiri perusahaan di laporan keuangan, meski operasional hariannya belum terganggu. Yang perlu dipantau berikutnya adalah apakah ekspansi ekspor ke Filipina mulai 2026 dan ke Hong Kong, Singapura, Brunei, Malaysia, serta Thailand pada 2027-2029, ditambah pertumbuhan impor produk bioteknologi, bisa menutup hilangnya volume dari P&G sebelum kontrak itu benar-benar berakhir akhir 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "blog-rampung-dana-ipo-rp138-2-miliar-untuk-gudang-pendingin-dan-truk",
+  "category": "Aksi Korporasi",
+  "title": "BLOG [Rampung] Dana IPO Rp138,2 Miliar untuk Gudang Pendingin dan Truk",
+  "deck": "BLOG melaporkan seluruh dana Rp138,23 miliar hasil IPO Juli 2025 sudah terpakai 100 persen per 30 Juni 2026, untuk gudang pendingin dan armada truk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:57:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/99b1ba2e2b_264dfd9ff2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLOG",
+  "tags": [
+   "BLOG",
+   "IPO",
+   "Penggunaan Dana",
+   "Logistik"
+  ],
+  "body": [
+   "PT Trimitra Trans Persada Tbk (BLOG) melaporkan kepada OJK bahwa seluruh dana hasil penawaran umum perdana sahamnya pada 10 Juli 2025 sudah terpakai habis per 30 Juni 2026. Dari total dana kotor Rp140,81 miliar yang dikurangi biaya penawaran umum Rp2,58 miliar, hasil bersih Rp138,23 miliar sudah terealisasi 100 persen sesuai rencana di prospektus, sehingga sisa dana kini nol. Surat bernomor 45/SK/CLI/TTP/X/2026 ini ditandatangani oleh Direktur merangkap Corporate Secretary Wanny Wijaya, sementara laporan rincian penggunaan dananya ditandatangani Direktur Utama Maickel Tilon.",
+   "Porsi terbesar, 67 persen atau Rp92,61 miliar, disetorkan sebagai modal ke entitas anak PT Simpan Sini Aja untuk membangun gudang pendingin di Kabupaten Tangerang, Pontianak, dan Makassar. Setoran modal ini sudah tuntas 100 persen pada 5 Agustus 2025 berdasarkan Akta Nomor 1 tanggal 1 Agustus 2025 yang dibuat notaris Bastian Harijanto. Namun penyerapan dananya oleh PT Simpan Sini Aja berjalan bertahap: per 31 Desember 2025 baru terpakai Rp50,84 miliar dengan sisa Rp41,77 miliar, dan baru per 30 Juni 2026 seluruh dana itu terpakai habis untuk menyelesaikan pembangunan ketiga gudang pendingin tersebut.",
+   "Sisanya, 33 persen atau Rp45,62 miliar, dipakai untuk membeli unit kendaraan light truck berkaroseri tipe cold dan dry, yang juga sudah terealisasi penuh. Di luar penggunaan dana, dokumen juga merinci biaya penawaran umum sebesar Rp2,58 miliar atau 1,83 persen dari dana kotor, dengan komponen terbesar berupa biaya penjaminan emisi (underwriting fee) Rp1,2 miliar, disusul biaya jasa penyelenggaraan dan penjualan masing-masing Rp149,96 juta, biaya profesi penunjang pasar modal Rp340 juta, biaya lembaga penunjang pasar modal Rp50 juta, biaya konsultasi keuangan Rp342,34 juta, dan biaya lain-lain Rp349,29 juta."
+  ],
+  "fotoAdegan": "Workers checking crates beside refrigerated delivery trucks parked at a warehouse loading dock, early morning light in an industrial area",
+  "takeaway": "Laporan ini condong positif bagi BLOG karena menunjukkan seluruh dana Rp138,23 miliar hasil IPO sudah tuntas dipakai untuk membangun kapasitas baru, gudang pendingin di tiga kota dan armada truk berpendingin, tanpa sisa dana menganggur maupun deviasi dari rencana awal di prospektus. Dari sisi laporan keuangan, kas hasil IPO yang sebelumnya tercatat sebagai aset likuid kini berubah bentuk menjadi aset tetap seperti gudang dan kendaraan, perubahan yang tercermin pada arus kas investasi dan struktur aset perusahaan, dan ini penting bagi pemegang saham karena menentukan apakah investasi tersebut akan menghasilkan pendapatan tambahan dari bisnis gudang pendingin dan distribusi. Karena sisa dana penawaran umum sudah nol, laporan per 30 Juni 2026 ini kemungkinan menjadi laporan realisasi dana IPO terakhir bagi BLOG sesuai aturan OJK, sehingga yang perlu dipantau selanjutnya adalah apakah gudang pendingin dan armada truk yang baru rampung ini benar-benar mendorong pendapatan pada laporan keuangan semester berikutnya.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bswd-gelar-public-expose-insidental-atas-permintaan-ojk",
   "category": "Aksi Korporasi",
   "title": "BSWD Gelar Public Expose Insidental atas Permintaan [OJK]",

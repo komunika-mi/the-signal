@@ -5,6 +5,230 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bsbk-bagikan-dividen-interim-rp25-09-miliar-untuk-h1-2026",
+  "category": "Aksi Korporasi",
+  "title": "BSBK Bagikan [Dividen] Interim Rp25,09 Miliar untuk H1 2026",
+  "deck": "BSBK akan membagikan dividen interim Rp1 per saham, total Rp25,09 miliar, dari laba bersih semester I 2026. Pembayaran dijadwalkan 20 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSBK",
+   "dividen interim",
+   "Wulandari Bangun Laksana",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ca71eaa0ac_bdf83f9f19.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tguk-vcg-tunjuk-pelaksana-tender-offer-wajib",
+  "category": "Aksi Korporasi",
+  "title": "TGUK: VCG Tunjuk Pelaksana [Tender Offer] Wajib",
+  "deck": "Usai kuasai 56,84% saham TGUK senilai Rp40,6 miliar, VCG menunjuk PT Artha Global Trikanaka Investama menjalankan tender offer wajib bagi pemegang saham publik.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGUK",
+   "tender offer",
+   "pengambilalihan",
+   "VCG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9711ff07f_c9b006e99a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arta-pastikan-tak-ada-fakta-material-picu-volatilitas-harga-saham",
+  "category": "Aksi Korporasi",
+  "title": "ARTA pastikan tak ada [fakta material] picu volatilitas harga saham",
+  "deck": "Menanggapi permintaan Bursa Efek Indonesia soal pergerakan harga sahamnya yang tidak wajar, Arthavest menyatakan tidak mengetahui ada informasi material yang belum diungkap ke publik.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARTA",
+   "Arthavest Tbk",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f32be5037b_6e3a1966e1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-tak-ada-informasi-material-di-balik-gejolak-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Tak Ada [Informasi Material] di Balik Gejolak Sahamnya",
+  "deck": "Menanggapi permintaan BEI atas gejolak harga saham pada 23 September 2026, DEWI menyatakan tak ada informasi material dan pemegang saham utama berkomitmen tidak melepas kepemilikannya.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73bdd2104a_039cf4f372.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ketr-ungkap-profil-pengendali-baru-imbs-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "KETR Ungkap Profil Pengendali Baru [IMBS] ke Bursa",
+  "deck": "Ketrosden Triasmitra menjawab permintaan penjelasan Bursa dengan membuka profil lengkap PT Inti Mas Bangun Sejahtera, pemilik manfaat akhir, dan status tender wajib bagi pemegang saham publik.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "IMBS",
+   "pengendali saham",
+   "DSSA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a3e3186975_8c5d8334ee.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "auto-bagikan-dividen-interim-rp72-52-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "AUTO Bagikan Dividen Interim [Rp72,52] per Saham",
+  "deck": "Astra Otoparts akan membagikan dividen interim Rp72,52 per saham, total Rp349,5 miliar, dengan pembayaran pada 26 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AUTO",
+   "dividen interim",
+   "Astra Otoparts",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5a7421f8d5_061a7b79c4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-paparkan-kinerja-h1-2026-transaksi-melonjak-273",
+  "category": "Aksi Korporasi",
+  "title": "CASH Paparkan Kinerja H1 2026, [Transaksi] Melonjak 273%",
+  "deck": "Materi public expose tahunan ke BEI memuat kinerja semester I 2026 Cashlez (CASH): transaksi naik 273 persen, laba kotor naik 21 persen dibanding tahun lalu.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "Cashlez",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2ab2abdb9e_e81bc7cecf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apex-tetapkan-konversi-utang-jadi-saham-rupslb-7-oktober",
+  "category": "Aksi Korporasi",
+  "title": "APEX Tetapkan [Konversi] Utang Jadi Saham, RUPSLB 7 Oktober",
+  "deck": "Apexindo menjawab permintaan OJK ketiga kalinya soal rencana konversi utang US$4,1 juta menjadi 218 juta saham baru seri B, dengan RUPSLB digelar 7 Oktober dan realisasi ditargetkan 20 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APEX",
+   "konversi utang",
+   "PMTHMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d7a331c211_e102cffef9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kjen-jawab-bei-tak-ada-informasi-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "KJEN Jawab BEI: Tak Ada Informasi Material soal [Volatilitas] Saham",
+  "deck": "Merespons surat Bursa Efek Indonesia soal lonjakan transaksi, KJEN menyatakan tidak ada informasi material yang belum diungkap maupun rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KJEN",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7109b50837_8691ad4ed6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mang-koreksi-laporan-dana-ipo-uang-muka-rp66-m-belum-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "MANG Koreksi Laporan Dana IPO, [Uang Muka] Rp66 M Belum Terpakai",
+  "deck": "PT Manggung Polahraya Tbk mengoreksi laporan dana IPO Rp73,39 miliar. Sebagian besar dana tercatat sebagai uang muka yang baru ditargetkan terpakai penuh pada 2029.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MANG",
+   "Penggunaan Dana IPO",
+   "Konstruksi",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcd89dac56_cac855f9e3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbyb-dirut-eri-budiono-mundur-dari-bank-neo-commerce",
+  "category": "Aksi Korporasi",
+  "title": "BBYB: Dirut Eri Budiono [Mundur] dari Bank Neo Commerce",
+  "deck": "Eri Budiono mengajukan pengunduran diri dari jabatan Direktur Utama Bank Neo Commerce (BBYB) sejak 2 Oktober 2026, menunggu persetujuan RUPS.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBYB",
+   "Bank Neo Commerce",
+   "Direksi",
+   "Pengunduran Diri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9cbc9b0704_3ad011b9d7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lpkr-jelaskan-transaksi-lippo-plaza-kupang-rp403-8-m-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "LPKR Jelaskan Transaksi Lippo Plaza Kupang Rp403,8 M [Akuisisi]",
+  "deck": "Lippo Karawaci menjawab permintaan penjelasan BEI soal pengalihan Lippo Plaza Kupang dari Nusa Bahana Niaga ke anak usahanya, Bumi Sarana Sejahtera, senilai Rp403,80 miliar.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPKR",
+   "Lippo Karawaci",
+   "Lippo Plaza Kupang",
+   "First REIT"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1aa05d2f28_e4b3281c55.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "merk-catat-impairment-rp87-miliar-kontrak-p-g-berakhir-2027",
+  "category": "Aksi Korporasi",
+  "title": "MERK Catat [Impairment] Rp87 Miliar, Kontrak P&G Berakhir 2027",
+  "deck": "Merck Tbk mencatat penurunan nilai aset Rp87 miliar di pabrik Pasar Rebo karena kontrak manufaktur dengan P&G, pemasok 80 persen volume produksi, berakhir akhir 2027.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MERK",
+   "Public Expose",
+   "Impairment Aset",
+   "Farmasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a00bbd15e9_322670dab1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "blog-rampung-dana-ipo-rp138-2-miliar-untuk-gudang-pendingin-dan-truk",
+  "category": "Aksi Korporasi",
+  "title": "BLOG [Rampung] Dana IPO Rp138,2 Miliar untuk Gudang Pendingin dan Truk",
+  "deck": "BLOG melaporkan seluruh dana Rp138,23 miliar hasil IPO Juli 2025 sudah terpakai 100 persen per 30 Juni 2026, untuk gudang pendingin dan armada truk.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLOG",
+   "IPO",
+   "Penggunaan Dana",
+   "Logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/99b1ba2e2b_264dfd9ff2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bswd-gelar-public-expose-insidental-atas-permintaan-ojk",
   "category": "Aksi Korporasi",
   "title": "BSWD Gelar Public Expose Insidental atas Permintaan [OJK]",
@@ -6259,230 +6483,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/469978-prabowo-minta-rs-tak-bedakan-pasien-bpjs-dana-rp20-triliun-dicairkan-tahun-ini"
- },
- {
-  "slug": "ketr-imbs-jadi-pengendali-baru-lewat-tender-offer",
-  "category": "Aksi Korporasi",
-  "title": "KETR: IMBS Jadi Pengendali Baru Lewat [Tender Offer]",
-  "deck": "PT Inti Mas Bangun Sejahtera menguasai 994,4 juta saham atau 35 persen Ketrosden Triasmitra lewat penawaran tender sukarela, menggeser BBN sebagai pengendali.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "pengendali",
-   "akuisisi",
-   "tender offer"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/549d9cdf8e_3021117498.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ketr-fsmn-lepas-994-juta-saham-lewat-divestasi",
-  "category": "Aksi Korporasi",
-  "title": "KETR: FSMN Lepas 994 Juta Saham lewat [Divestasi]",
-  "deck": "PT Fajar Sejahtera Mandiri Nusantara menjual 994,37 juta saham KETR senilai sekitar Rp520 miliar pada 28 September 2026, namun hak suara pelapor tetap nol persen.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "Ketrosden Triasmitra",
-   "kepemilikan saham",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8908-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ketr-fsmn-lepas-994-juta-saham-hak-suara-ke-18-13",
-  "category": "Aksi Korporasi",
-  "title": "KETR: FSMN Lepas 994 Juta Saham, Hak Suara ke [18,13%]",
-  "deck": "FSMN melepas 994.372.000 saham KETR seharga Rp523 per lembar untuk divestasi, memangkas hak suaranya dari 53,13 persen menjadi 18,13 persen dan mengakhiri posisi sebagai pemegang saham mayoritas.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "divestasi",
-   "pemegang saham",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-7406-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smil-dana-obligasi-rp294-miliar-100-terealisasi-untuk-forklift",
-  "category": "Aksi Korporasi",
-  "title": "SMIL: dana obligasi Rp294 miliar [100%] terealisasi untuk forklift",
-  "deck": "PT Sarana Mitra Luas Tbk melaporkan koreksi realisasi dana hasil Obligasi I 2024 senilai Rp294 miliar, seluruhnya terpakai untuk forklift listrik dan pelunasan leasing.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMIL",
-   "Obligasi",
-   "Realisasi Dana",
-   "Forklift"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9b987a8e8b_7b246d57b3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "visi-ambil-alih-72-91-saham-hmbc-jadi-perusahaan-holding",
-  "category": "Aksi Korporasi",
-  "title": "VISI Ambil Alih 72,91% Saham HMBC, Jadi Perusahaan [Holding]",
-  "deck": "Satu Visi Putra bakal mengambil alih 72,91% saham RS Hasna Medika Bakti Cirebon dan mengubah bisnis intinya jadi perusahaan holding, dengan kendali beralih ke PT Harmoni Semesta Investama.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "akuisisi",
-   "HMBC",
-   "perubahan bisnis"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cdb1aeadca_0d2933dd75.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asii-direksi-rudy-tambah-4-4-juta-saham-lewat-pasar",
-  "category": "Aksi Korporasi",
-  "title": "ASII: Direksi Rudy [tambah] 4,4 juta saham lewat pasar",
-  "deck": "Direktur Astra International, Rudy, menambah kepemilikan sahamnya 78,57 persen lewat tiga transaksi pembelian tidak langsung pada 24-28 September 2026, senilai sekitar Rp20,81 miliar.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASII",
-   "Astra International",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-0056-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mine-jadwalkan-rupslb-pada-4-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "MINE Jadwalkan [RUPSLB] pada 4 November 2026",
-  "deck": "PT Sinar Terang Mandiri Tbk mengumumkan rencana RUPSLB pada 4 November 2026, dengan pemegang saham per 12 Oktober 2026 berhak hadir.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MINE",
-   "RUPSLB",
-   "Sinar Terang Mandiri",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbbf8275cb_ad7f6049fb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "visi-jadwalkan-rups-independen-pmthmetd-30-september",
-  "category": "Aksi Korporasi",
-  "title": "VISI Jadwalkan RUPS Independen [PMTHMETD] 30 September",
-  "deck": "VISI menjadwalkan RUPS Independen pada 30 September 2026 untuk menyetujui penerbitan hingga 307,5 juta saham baru tanpa hak memesan efek terlebih dahulu, maksimal 10 persen modal disetor.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "PMTHMETD",
-   "RUPS Independen",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df8b9dffa6_c070aea593.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "futr-benarkan-ekspansi-ke-infrastruktur-air-jajaki-akuisisi",
-  "category": "Aksi Korporasi",
-  "title": "FUTR Benarkan Ekspansi ke Infrastruktur Air, Jajaki [Akuisisi]",
-  "deck": "FUTR membenarkan rencana ekspansi ke infrastruktur pengolahan air minum dan mengungkap sedang menjajaki peluang akuisisi di sektor energi terbarukan, belum ada perjanjian mengikat.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FUTR",
-   "keterbukaan informasi",
-   "ekspansi usaha",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c475591025_a4aa518369.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ijee-peroleh-fasilitas-us-60-juta-dari-edc-untuk-beli-alat-nokia",
-  "category": "Aksi Korporasi",
-  "title": "IJEE Peroleh Fasilitas [US$60 Juta] dari EDC untuk Beli Alat Nokia",
-  "deck": "PT Integrasi Jaringan Ekosistem (IJEE) mengantongi fasilitas pinjaman hingga US$60 juta dari lembaga kredit ekspor Kanada, EDC, untuk membiayai pembelian perangkat dari Nokia OYJ.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IJEE",
-   "pinjaman",
-   "EDC",
-   "Nokia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ad22e392e4_abc6ab4c36.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aspi-catat-rugi-melebar-162-jelang-public-expose-rugi",
-  "category": "Aksi Korporasi",
-  "title": "ASPI Catat Rugi Melebar 162% Jelang Public Expose [rugi]",
-  "deck": "Materi public expose ASPI menunjukkan rugi sebelum pajak melebar jadi Rp1,95 miliar pada semester I 2026, sementara pendapatan turun 16 persen dan ekuitas menyusut 3 persen.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASPI",
-   "public expose",
-   "properti",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fa3e2daf4_f10c580b64.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-prabowo-usulkan-biaya-haji-2027-dibagi-52-48",
-  "category": "Makroekonomi",
-  "title": "Presiden Prabowo Usulkan Biaya Haji 2027 Dibagi [52:48]",
-  "deck": "Presiden Prabowo mengusulkan porsi Bipih dan nilai manfaat 52:48 untuk BPIH 2027 agar biaya yang ditanggung jamaah tidak terlalu berat.",
-  "date": "28 September 2026",
-  "image": "assets/img/presiden-prabowo-usulkan-biaya-haji-2027-dibagi-52-48.jpg",
-  "imageV": "mul8m5jb",
-  "tags": [
-   "biaya haji 2027",
-   "bpih 2027",
-   "bipih",
-   "nilai manfaat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469955-prabowo-usulkan-biaya-haji-2027-dibagi-5248-ini-alasannya"
- },
- {
-  "slug": "amor-rencanakan-refloat-5-08-juta-saham-untuk-esop-karyawan",
-  "category": "Aksi Korporasi",
-  "title": "AMOR Rencanakan Refloat 5,08 Juta Saham untuk [ESOP] Karyawan",
-  "deck": "Ashmore Asset Management Indonesia (AMOR) berencana mengalihkan hingga 5.084.827 saham treasuri ke karyawan lewat program ESOP, menunggu persetujuan RUPST 4 November 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "ESOP",
-   "saham treasuri",
-   "RUPST"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bb8bbc24c2_d5202e49ee.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msky-konfirmasi-permohonan-pkpu-rp73-4-miliar-dari-ascot-group",
-  "category": "Aksi Korporasi",
-  "title": "MSKY Konfirmasi Permohonan [PKPU] Rp73,4 Miliar dari Ascot Group",
-  "deck": "MNC Sky Vision membenarkan ada permohonan penundaan kewajiban pembayaran utang dari Ascot Group Holdings Ltd senilai Rp73,4 miliar, sidang pertama digelar 1 Oktober 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSKY",
-   "PKPU",
-   "Ascot Group Holdings",
-   "MNC Sky Vision"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/512caded6d_b9ec55f724.pdf",
-  "sourceLabel": "IDX"
  }
 ];

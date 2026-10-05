@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mljk-angkat-oemi-vierta-moerdika-jadi-direktur-utama",
+  "category": "Aksi Korporasi",
+  "title": "MLJK Angkat Oemi Vierta Moerdika Jadi [Direktur Utama]",
+  "deck": "PT Marga Lingkar Jakarta mengangkat Oemi Vierta Moerdika sebagai Direktur Utama baru efektif 5 Oktober 2026 lewat keputusan sirkuler pemegang saham atas usulan Jasa Marga.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MLJK",
+   "Direktur Utama",
+   "Marga Lingkar Jakarta",
+   "Jasa Marga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c6d4a0c06c_7f49614b57.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rantai-nilai-halal-tumbuh-6-2-bi-dorong-ekosistem-syariah",
   "category": "Makroekonomi",
   "title": "Rantai Nilai Halal Tumbuh 6,2%, BI Dorong Ekosistem [Syariah]",
@@ -21,6 +37,54 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821226.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "gtbo-jawab-bursa-rincian-rkab-kontrak-dan-piutang-massicot",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Jawab Bursa: Rincian [RKAB], Kontrak, dan Piutang Massicot",
+  "deck": "GTBO menjelaskan ke Bursa bahwa RKAB 2026 sudah disetujui ESDM, produksi batu bara dimulai lagi pertengahan Oktober, dan piutang dari Massicot senilai US$45 juta mulai dibayar lebih cepat dari jadwal.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTBO",
+   "RKAB",
+   "batu bara",
+   "Massicot Trade Limited"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3c4407d62f_73ab960742.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kota-tunda-rupslb-pmhmetd-tertahan-ojk",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Tunda RUPSLB, [PMHMETD] Tertahan OJK",
+  "deck": "RUPSLB KOTA yang dijadwalkan 6 Oktober 2026 ditunda tanpa jadwal pengganti karena OJK masih meminta informasi tambahan terkait rencana rights issue dan transaksi material.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "rights issue",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8bac562783_43e46d7289.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bsbk-tetapkan-jadwal-cum-dividen-interim-cair-20-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BSBK Tetapkan Jadwal [Cum Dividen] Interim, Cair 20 Oktober",
+  "deck": "Wulandari Bangun Laksana (BSBK) merinci tanggal cum dan ex dividen interim Rp25,09 miliar, dengan pembayaran dijadwalkan 20 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSBK",
+   "dividen interim",
+   "properti",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73ef699ad3_d5249e0db4.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bsbk-bagikan-dividen-interim-rp25-09-miliar-untuk-h1-2026",
@@ -244,6 +308,166 @@ var ARTICLES = [
    "Logistik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/99b1ba2e2b_264dfd9ff2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amrt-bagikan-dividen-interim-rp14-5-per-saham-cair-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "AMRT Bagikan [Dividen] Interim Rp14,5 per Saham, Cair 27 Oktober",
+  "deck": "Sumber Alfaria Trijaya akan membagikan dividen interim tunai Rp595,8 miliar atau Rp14,5 per saham, dengan pencatatan 15 Oktober dan pembayaran 27 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMRT",
+   "dividen interim",
+   "Sumber Alfaria Trijaya",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c9b7891b8c_521b0f442f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-menang-gugatan-pkpu-dari-dua-kreditur-proyek-jambi-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Menang, Gugatan [PKPU] dari Dua Kreditur Proyek Jambi Dicabut",
+  "deck": "Pengadilan Niaga Jakarta Pusat mencabut permohonan PKPU terhadap PTPP yang diajukan dua kreditur proyek Museum KCBN Muarajambi, menyusul suspensi saham akibat gagal bayar bunga obligasi.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "PKPU",
+   "hukum",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c227cb237b_f9d4e7681e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sona-laba-semester-i-naik-27-tender-wajib-rampung",
+  "category": "Aksi Korporasi",
+  "title": "SONA: Laba Semester I [Naik] 27%, Tender Wajib Rampung",
+  "deck": "Materi public expose SONA memuat laba bersih semester I 2026 naik 27,37% jadi Rp32,52 miliar, dividen Rp52,83 per saham, dan penyelesaian tender wajib pasca akuisisi.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SONA",
+   "public expose",
+   "laba bersih",
+   "tender wajib"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ce4d4d1b46_3560ec0735.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kios-panggil-rupslb-agendakan-perubahan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "KIOS Panggil RUPSLB, Agendakan [Perubahan] Susunan Direksi",
+  "deck": "Kioson Komersial Indonesia menjadwalkan RUPSLB 27 Oktober 2026 dengan agenda perubahan susunan direksi dan komisaris, serta penyesuaian anggaran dasar mengikuti klasifikasi usaha baru BPS.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KIOS",
+   "RUPSLB",
+   "Direksi",
+   "Kioson Komersial"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a52d4c55a3_ee48ffe260.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uvcr-panggil-rupslb-27-oktober-bahas-pmthmetd-dan-kbli",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Panggil RUPSLB 27 Oktober, Bahas [PMTHMETD] dan KBLI",
+  "deck": "RUPSLB UVCR digelar 27 Oktober 2026 untuk menyetujui rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dan perubahan anggaran dasar terkait KBLI 2025.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR",
+   "RUPSLB",
+   "PMTHMETD",
+   "Ultra Voucher"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7dbc2bd289_188e2fad8a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-waran-asii-disesuaikan-usai-dividen-rp3-89-t",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran ASII Disesuaikan usai [Dividen] Rp3,89 T",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur ASII menyusul dividen tunai Rp98 per saham dari Astra International.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "ASII",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/76fa9ecd23_726f6fba28.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "talf-komitmen-beli-solvent-rp398-m-dari-bluesky-10-tahun",
+  "category": "Aksi Korporasi",
+  "title": "TALF Komitmen Beli Solvent [Rp398 M] dari Bluesky 10 Tahun",
+  "deck": "TALF meneken perjanjian pembelian solvent daur ulang dari PT Bluesky Technology Indonesia senilai Rp398,66 miliar untuk 10 tahun, setara 29,9 persen ekuitas perusahaan.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TALF",
+   "transaksi material",
+   "POJK 17/2020",
+   "solvent"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c744e72008_b0cbb701dc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ultj-rupslb-27-oktober-akuisisi-frisian-flag-lewat-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ RUPSLB 27 Oktober, Akuisisi [Frisian Flag] Lewat Rights Issue",
+  "deck": "ULTJ mengundang pemegang saham ke RUPSLB 27 Oktober 2026 untuk menyetujui rights issue yang dibayar dengan 100% saham PT Frisian Flag Indonesia, bukan uang tunai.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "RUPSLB",
+   "Frisian Flag",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ef0f45f1d8_2115dbaf50.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-sesuaikan-syarat-3-waran-asii-usai-dividen-interim",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Syarat 3 Waran ASII Usai [Dividen] Interim",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi tiga waran terstruktur ASII setelah Astra International bagi dividen interim Rp98 per saham.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "ASII",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b22cf7ebfa_09f038faac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "flmc-ekuitas-negatif-rugi-semester-i-melonjak-ke-rp23-3-m",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Ekuitas Negatif, Rugi Semester I [Melonjak] ke Rp23,3 M",
+  "deck": "Aset FLMC turun 32,6 persen dan ekuitas berbalik negatif Rp2,59 miliar setelah rugi bersih semester I 2026 melonjak jadi Rp23,27 miliar dari Rp2,99 miliar tahun lalu.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "ekuitas negatif",
+   "rugi bersih",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261005162301-64488-0/FinancialStatement-2026-II-FLMC.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6257,232 +6481,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470014-gozero-goes-to-klangon-telkom-bangun-ekosistem-keberlanjutan-berbasis-konservasi-dan-pemberdayaan-masyarakat"
- },
- {
-  "slug": "presiden-prabowo-minta-audit-forensik-dana-haji",
-  "category": "Bisnis",
-  "title": "Presiden Prabowo Minta [Audit Forensik] Dana Haji",
-  "deck": "Presiden Prabowo Subianto meminta audit forensik atas tata kelola dana haji yang dikelola BPKH untuk memastikan kondisi keuangan haji yang sebenarnya.",
-  "date": "28 September 2026",
-  "image": "assets/img/presiden-prabowo-minta-audit-forensik-dana-haji.jpg",
-  "imageV": "mule68zi",
-  "tags": [
-   "dana haji",
-   "BPKH",
-   "audit forensik",
-   "Kementerian Haji"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470010-prabowo-minta-audit-forensik-dana-haji-dahnil-anzar-presiden-ingin-tahu-fakta-keuangan-haji-sebenar-benarnya"
- },
- {
-  "slug": "dpr-soroti-bunga-spesial-bank-yang-ganjal-kredit-umkm",
-  "category": "Perbankan",
-  "title": "DPR Soroti [Bunga Spesial] Bank yang Ganjal Kredit UMKM",
-  "deck": "Komisi XI DPR menyoroti praktik bunga simpanan khusus untuk nasabah besar yang membuat biaya dana bank mahal, sehingga bunga kredit UMKM sulit turun.",
-  "date": "28 September 2026",
-  "image": "assets/img/dpr-soroti-bunga-spesial-bank-yang-ganjal-kredit-umkm.jpg",
-  "imageV": "mule69m1",
-  "tags": [
-   "special rate",
-   "kredit UMKM",
-   "Komisi XI DPR",
-   "bunga bank"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469983-dpr-soroti-bunga-spesial-bank-kredit-umkm-disebut-sulit-tumbuh"
- },
- {
-  "slug": "ptba-laporkan-transaksi-material-pinjaman-rp6-triliun",
-  "category": "Aksi Korporasi",
-  "title": "PTBA Laporkan Transaksi [Material] Pinjaman Rp6 Triliun",
-  "deck": "Bukit Asam mengungkap pinjaman modal kerja gabungan Rp6 triliun dari BRI dan Bank Mandiri untuk pemanfaatan devisa hasil ekspor, setara 23,68 persen ekuitas perusahaan.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTBA",
-   "Bukit Asam",
-   "DHE SDA",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/379fa02362_77380d711e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enak-ganti-direksi-dan-komisaris-usai-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "ENAK Ganti Direksi dan Komisaris Usai [RUPSLB]",
-  "deck": "PT Champ Resto Indonesia Tbk (ENAK) mengubah susunan direksi dan komisaris usai RUPSLB 2 September 2026, dengan Sjariful Haq masuk sebagai direktur baru.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENAK",
-   "Champ Resto Indonesia",
-   "RUPSLB",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd7ed14dc6_d0d98a6ff1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-penghapusan-saham-gocap-bukan-pemicu-ihsg-anjlok",
-  "category": "Pasar Modal",
-  "title": "BEI: Penghapusan Saham [Gocap] Bukan Pemicu IHSG Anjlok",
-  "deck": "BEI menurunkan batas harga minimum saham dari Rp50 menjadi Rp1 dan menyebut koreksi IHSG 1,51 persen hari itu bukan akibat kebijakan tersebut.",
-  "date": "28 September 2026",
-  "image": "assets/img/bei-penghapusan-saham-gocap-bukan-pemicu-ihsg-anjlok.jpg",
-  "imageV": "mule6a0x",
-  "tags": [
-   "saham gocap",
-   "IHSG",
-   "BEI",
-   "harga saham"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470006-batas-saham-gocap-dihapus-jadi-rp1-bei-sebut-bukan-alasan-ihsg-anjlok-151"
- },
- {
-  "slug": "ppgl-jelaskan-ke-bursa-rincian-pmthmetd-dan-saham-bonus",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Jelaskan ke Bursa Rincian [PMTHMETD] dan Saham Bonus",
-  "deck": "Menjawab permintaan penjelasan BEI, PPGL merinci rencana penerbitan saham baru PMTHMETD dan pembagian saham bonus dari agio saham, termasuk jadwal RUPSLB 23 Oktober 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "PMTHMETD",
-   "saham bonus",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d1409fd8a_6c49ce1e37.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-uang-setujui-wiria-chakradinata-jadi-wadirut",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB UANG Setujui Wiria Chakradinata Jadi [Wadirut]",
-  "deck": "RUPSLB PT Pakuan Tbk menyetujui susunan direksi baru: Erick Wihardja tetap Direktur Utama, Wiria Chakradinata jadi Wakil Direktur Utama gantikan Aditya Wisnu Wardhana yang mundur.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UANG",
-   "PT Pakuan Tbk",
-   "RUPSLB",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1adc9067c_95c18ebe0b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-catatkan-486-360-saham-baru-dari-mesop-tahap-i-iii",
-  "category": "Aksi Korporasi",
-  "title": "PGEO [Catatkan] 486.360 Saham Baru dari MESOP Tahap I-III",
-  "deck": "BEI mencatatkan 486.360 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III pada 29 September 2026, menambah total saham beredar menjadi 41.945.887.584.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "MESOP",
-   "ESOP",
-   "pencatatan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dbc5446a6f_2e1ba1b26b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sema-raih-kontrak-panel-listrik-data-center-cgk5-cgk7",
-  "category": "Aksi Korporasi",
-  "title": "SEMA Raih Kontrak Panel Listrik [Data Center] CGK5-CGK7",
-  "deck": "Semacom Integrated menandatangani kontrak pengadaan panel listrik untuk proyek data center CGK5 dan CGK7 pada 25 September 2026, memperluas bisnis ke sektor infrastruktur digital.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SEMA",
-   "kontrak",
-   "data center",
-   "panel listrik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e2296e913_430ed012e1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "djpu-debt-switch-tukar-vr0043-rp21-1-t-ke-3-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "DJPU [Debt Switch] Tukar VR0043 Rp21,1 T ke 3 Sukuk",
-  "deck": "BEI mencatatkan debt switch Rp21,1 triliun. Obligasi VR0043 yang jatuh tempo hari ini ditukar ke tiga seri sukuk negara berjangka panjang: PBS028, PBS033, dan PBS015.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DJPU",
-   "obligasi negara",
-   "sukuk negara",
-   "debt switch"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1bb4797fed_79812a5982.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-penjamin-lunasi-pokok-obligasi-rp722-miliar",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: Penjamin [Lunasi] Pokok Obligasi Rp722 Miliar",
-  "deck": "PII dan Kementerian Keuangan selaku penjamin melunasi pokok Obligasi III Waskita Seri A Rp722 miliar setelah Waskita gagal bayar; WSKT03A resmi berhenti diperdagangkan di BEI mulai 29 September 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "obligasi",
-   "gagal bayar",
-   "penjaminan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fc5fa12493_ff24770695.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-catatkan-1-357-876-saham-baru-dari-mesop-tahap-i-iii",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Catatkan [1.357.876] Saham Baru dari MESOP Tahap I-III",
-  "deck": "Bursa mencatatkan 1.357.876 saham baru PGEO dari pelaksanaan opsi MESOP Tahap I dan III per 28 September 2026, menambah total saham tercatat menjadi 41.945.401.224 lembar.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "MESOP",
-   "ESOP",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f3b5827e4d_99cb6a6138.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "djpu-catatkan-7-sukuk-baru-menangkan-rp11-triliun-dari-lelang",
-  "category": "Aksi Korporasi",
-  "title": "DJPU Catatkan 7 Sukuk Baru, Menangkan [Rp11 Triliun] dari Lelang",
-  "deck": "Bursa mencatatkan tujuh seri sukuk negara mulai 25 September 2026, setelah pemerintah memenangkan Rp11 triliun dari total penawaran Rp26,9 triliun pada lelang 22 September 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DJPU",
-   "sukuk negara",
-   "lelang SBSN",
-   "obligasi pemerintah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca91145bf3_9cff277b35.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "foru-catatkan-tambahan-167-miliar-saham-dari-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "FORU Catatkan Tambahan 167 Miliar Saham dari [Rights Issue]",
-  "deck": "BEI mencatat 167,08 miliar saham baru FORU hasil pelaksanaan HMETD, sehingga total saham beredar melonjak jadi 167,54 miliar per 29 September 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "rights issue",
-   "HMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/810ee2df0d_69805781bc.pdf",
-  "sourceLabel": "IDX"
  }
 ];

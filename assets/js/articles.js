@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mljk-angkat-oemi-vierta-moerdika-jadi-direktur-utama",
+  "category": "Aksi Korporasi",
+  "title": "MLJK Angkat Oemi Vierta Moerdika Jadi [Direktur Utama]",
+  "deck": "PT Marga Lingkar Jakarta mengangkat Oemi Vierta Moerdika sebagai Direktur Utama baru efektif 5 Oktober 2026 lewat keputusan sirkuler pemegang saham atas usulan Jasa Marga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T20:52:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c6d4a0c06c_7f49614b57.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MLJK",
+  "tags": [
+   "MLJK",
+   "Direktur Utama",
+   "Marga Lingkar Jakarta",
+   "Jasa Marga"
+  ],
+  "body": [
+   "PT Marga Lingkar Jakarta (MLJK) menyampaikan keterbukaan informasi mengenai perubahan pengurus. Berdasarkan surat PT Jasa Marga (Persero) Tbk Nomor AA.HC.01.01.1225 tanggal 28 September 2026 serta keputusan para pemegang saham yang diambil di luar Rapat Umum Pemegang Saham secara tertulis (sirkuler), perseroan mengangkat Oemi Vierta Moerdika sebagai Direktur Utama terhitung sejak 5 Oktober 2026. Masa jabatannya berlaku sampai penutupan RUPS Tahunan Perseroan tahun 2027 untuk tahun buku 2026, dengan tetap membuka kemungkinan RUPS memberhentikannya sewaktu-waktu sebelum masa jabatan itu berakhir.",
+   "Dengan pengangkatan ini, susunan Direksi dan Dewan Komisaris MLJK per 5 Oktober 2026 menjadi: Direktur Utama Oemi Vierta Moerdika, dan Direktur Sutomo yang tetap menjabat sejak 25 Juni 2025. Di jajaran komisaris, posisi Komisaris Utama tetap dipegang Firman Yosafat Siregar sejak 19 Mei 2023, Komisaris Oktavianus Achiruddin sejak 22 Oktober 2024, dan Komisaris Independen Ratna Indrasari juga sejak 22 Oktober 2024. Artinya, hanya posisi Direktur Utama yang berganti, sementara seluruh anggota direksi dan komisaris lainnya tidak berubah.",
+   "Dalam laporannya kepada Otoritas Jasa Keuangan, perseroan menyatakan perubahan pengurus ini tidak membawa dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha MLJK."
+  ],
+  "fotoAdegan": "Aerial view of an elevated toll road with lines of cars at golden hour, Jakarta skyline faint in the haze",
+  "takeaway": "Perubahan ini kami nilai netral bagi fundamental MLJK, sebab ini murni pergantian pucuk pimpinan direksi atas usulan pemegang saham utama, Jasa Marga, tanpa dampak keuangan atau operasional yang diungkapkan perseroan sendiri. Pergantian direktur utama memang tidak langsung mengubah pos seperti ekuitas atau arus kas perusahaan, tapi pelaku pasar tetap mencermatinya karena arah strategi dan kebijakan proyek jalan tol MLJK ke depan bisa berubah di bawah pucuk pimpinan baru. Stabilnya susunan direksi dan komisaris lain, yang sudah menjabat sejak 2023 dan 2024 dan tidak ikut berganti, menunjukkan transisi ini berjalan tanpa gejolak di jajaran pengawas perusahaan. Yang perlu dipantau berikutnya adalah kinerja Oemi Vierta Moerdika memimpin perseroan hingga RUPS Tahunan 2027 untuk tahun buku 2026, saat masa jabatannya akan dievaluasi ulang oleh pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "rantai-nilai-halal-tumbuh-6-2-bi-dorong-ekosistem-syariah",
   "category": "Makroekonomi",
   "title": "Rantai Nilai Halal Tumbuh 6,2%, BI Dorong Ekosistem [Syariah]",
@@ -29,6 +55,84 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan penegasan arah kebijakan: BI mengelompokkan dorongannya ke tiga hal, memperkuat usaha halal di dalam negeri, memperbesar pembiayaan syariah, dan meningkatkan pemahaman masyarakat soal produk syariah. Sebagai dasar, BI menyebut rantai nilai halal tumbuh 6,2 persen pada 2025 dan menyumbang sekitar 27 persen dari total perekonomian Indonesia, sementara Indonesia berada di peringkat empat dunia untuk ekonomi syariah. Pihak yang kena dampak dorongan ini adalah pelaku usaha di sektor modest fashion, pariwisata, dan makanan halal, termasuk UMKM dan usaha pesantren yang disebut BI sebagai sasaran penguatan rantai pasok, serta bank syariah yang dijanjikan kemudahan dana jangka pendek dari BI. Seminar ini sendiri belum memuat aturan atau anggaran baru, jadi arahnya baru sebatas niat kebijakan, dan penanda paling dekat untuk mengecek keseriusannya adalah Indonesia Sharia Economic Festival 2026 yang digelar pertengahan Oktober di JICC Jakarta, tempat BI biasanya mengumumkan program atau kerja sama konkret di bidang ini.",
   "imageV": "muv8ojpo"
+ },
+ {
+  "slug": "gtbo-jawab-bursa-rincian-rkab-kontrak-dan-piutang-massicot",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Jawab Bursa: Rincian [RKAB], Kontrak, dan Piutang Massicot",
+  "deck": "GTBO menjelaskan ke Bursa bahwa RKAB 2026 sudah disetujui ESDM, produksi batu bara dimulai lagi pertengahan Oktober, dan piutang dari Massicot senilai US$45 juta mulai dibayar lebih cepat dari jadwal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T19:29:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3c4407d62f_73ab960742.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTBO",
+  "tags": [
+   "GTBO",
+   "RKAB",
+   "batu bara",
+   "Massicot Trade Limited"
+  ],
+  "body": [
+   "PT Garda Tujuh Buana Tbk (GTBO) menjawab permintaan penjelasan Bursa Efek Indonesia nomor S-12631/BEI.PP3/10-2026 tanggal 1 Oktober 2026 dengan melampirkan surat Direktorat Jenderal Mineral dan Batubara Kementerian ESDM Nomor T-247.RKAB/MB.05/DJB.B/2026 tanggal 25 September 2026 yang menyetujui RKAB 2026 perseroan. Perusahaan menyebut produksi akan dimulai lagi pertengahan Oktober 2026 setelah menyelesaikan administrasi pasca-persetujuan, mengaktifkan kembali kontrak jasa tambang dengan kontraktor alat berat dan tongkang, memobilisasi alat dan tenaga kerja, memeriksa kesiapan keselamatan kerja, serta mengupas tanah penutup. Jumlah karyawan tercatat 36 orang per 31 Maret 2026, turun dari 97 orang setahun sebelumnya karena produksi sempat terhenti selama RKAB belum disetujui, dan perusahaan akan merekrut tambahan tenaga kerja untuk tahap persiapan produksi karena kegiatan tambang inti dikerjakan kontraktor.",
+   "Perseroan juga mengonfirmasi akan menjual persediaan batu bara senilai US$1.752.368 pada awal Oktober 2026 kepada PT Niaga Energi Dunia, dengan hasilnya dipakai sebagai salah satu sumber dana awal produksi. Estimasi produksi sampai Desember 2026 sebesar 400.000 sampai 500.000 ton, atau 48,91 persen sampai 61,13 persen dari kuota tahunan 817.900 ton, karena kuota itu dihitung untuk setahun penuh sementara perseroan efektif hanya punya sekitar 2,5 bulan waktu produksi termasuk mobilisasi kontraktor, ditambah musim hujan yang mengurangi hari kerja. GTBO merinci tiga kontrak penjualan yang sebelumnya hanya disebut jumlahnya: GMR Infrastructure (Singapore) Ltd untuk 150.000 ton periode Desember 2026 sampai Maret 2027, PT Niaga Energi Dunia untuk 200.000 ton periode September 2026 sampai September 2027, dan Phu Thai Global Corporation untuk 1.650.000 ton periode November 2026 sampai Desember 2029. Nilai ketiga kontrak bersifat indikatif karena harga mengacu pada formula Harga Batubara Acuan atau Indonesian Coal Index dan kualitas batubara yang benar-benar dikirim.",
+   "Bagian terbesar jawaban menyangkut piutang lain-lain dari Massicot Trade Limited, pihak yang pada 2013 menerima pinjaman US$42,5 juta dari GTBO untuk membeli konsesi tambang emas di Sudan. Lewat addendum 2 Desember 2025, kedua pihak menyepakati penyelesaian final senilai US$45 juta yang dibayarkan oleh Energy Coal Resources Pte Ltd secara bertahap sampai 2035, karena proyek Sudan terganggu konflik bersenjata sejak April 2023 yang berdampak ke operasional, akses wilayah, dan sistem perbankan. GTBO menegaskan tidak ada denda yang dikenakan karena kegagalan proyek dianggap force majeure, bahkan perseroan memperoleh tambahan US$2,5 juta di atas pokok pinjaman berupa imbalan tambahan dan kompensasi masing-masing US$1,25 juta, sementara bunga pinjaman sudah dihapuskan sejak addendum Juni 2024. Pembayaran sudah berjalan sebesar US$846.709 pada kuartal pertama 2026, lebih cepat dari jadwal cicilan pertama yang baru jatuh tempo 15 Mei 2026. Saldo piutang per 31 Maret 2026 tercatat US$39.769.364, selisih US$3.883.927 dari nilai addendum US$45 juta, namun rincian rekonsiliasi selisih tersebut tidak tercakup penuh dalam dokumen yang diterima."
+  ],
+  "fotoAdegan": "Excavators loading coal onto a barge at a riverside stockpile in East Kalimantan, workers in safety vests, overcast sky",
+  "takeaway": "Laporan ini condong positif bagi GTBO karena tiga kabar yang sebelumnya menggantung kini punya kepastian konkret: RKAB resmi disetujui dengan nomor surat jelas, tiga kontrak penjualan batu bara terungkap volumenya termasuk kontrak jangka panjang 1,65 juta ton, dan piutang Massicot senilai US$45 juta sudah mulai dibayar lebih cepat dari jadwal plus bonus kompensasi US$2,5 juta. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar masuk ke kas perusahaan, karena penjualan persediaan batu bara dan cicilan piutang Massicot sama-sama menambah dana segar untuk membiayai produksi yang baru dimulai lagi; selain itu laba per saham, yaitu keuntungan bersih dibagi jumlah saham yang beredar, ikut terpengaruh karena kompensasi tambahan dari Massicot akan tercatat sebagai pendapatan lain-lain yang menambah laba periode ini. Investor perlu mencermati apakah produksi benar-benar berjalan sesuai rencana pertengahan Oktober 2026, serta apakah penjualan persediaan ke PT Niaga Energi Dunia pada awal Oktober 2026 terealisasi sesuai nilai yang disebutkan, karena keduanya jadi penentu apakah target produksi 400.000 sampai 500.000 ton sampai akhir tahun bisa tercapai.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "kota-tunda-rupslb-pmhmetd-tertahan-ojk",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Tunda RUPSLB, [PMHMETD] Tertahan OJK",
+  "deck": "RUPSLB KOTA yang dijadwalkan 6 Oktober 2026 ditunda tanpa jadwal pengganti karena OJK masih meminta informasi tambahan terkait rencana rights issue dan transaksi material.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T18:57:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8bac562783_43e46d7289.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "rights issue",
+   "OJK"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) menunda Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula dijadwalkan Selasa, 6 Oktober 2026 pukul 10.00 WIB di Azana Suite Hotel Antasari. Lewat surat Nomor 338/DMSP/X/2026 tertanggal 5 Oktober 2026, perseroan menyebut penundaan ini merujuk pada pemanggilan RUPSLB sebelumnya tanggal 14 September 2026. Alasan yang disampaikan adalah masih berlangsungnya proses pemenuhan dan penelaahan atas tambahan permintaan informasi dari Otoritas Jasa Keuangan (OJK), dan perseroan belum menetapkan jadwal pengganti.",
+   "RUPSLB ini membawa lima agenda penting. Pertama, persetujuan Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD) atau rights issue lewat mekanisme penawaran umum terbatas. Kedua, perubahan Pasal 4 ayat (1) dan (2) Anggaran Dasar untuk menaikkan modal dasar, modal ditempatkan, dan modal disetor, sekaligus menerbitkan seri saham baru yaitu Saham Seri B. Ketiga, persetujuan rencana transaksi material sesuai Peraturan OJK No. 17/POJK.04/2020. Keempat, perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Kelima, persetujuan perubahan rencana penggunaan dana hasil Penawaran Umum Perdana Saham (PUPS) perseroan.",
+   "Surat ditandatangani oleh Gema Pratama selaku Direktur, dan tembusannya dikirim ke OJK, Bursa Efek Indonesia, PT Kustodian Sentral Efek Indonesia, biro administrasi efek PT Bima Registra, notaris, kantor akuntan publik, serta dua kantor jasa penilai publik untuk aset dan saham. Perseroan menyatakan Direksi akan menyampaikan pemberitahuan lanjutan begitu jadwal baru RUPSLB sudah pasti."
+  ],
+  "fotoAdegan": "Construction cranes rising above an unfinished residential tower on a Jakarta development site, bright midday sky",
+  "takeaway": "Penundaan ini condong negatif bagi KOTA karena menahan kepastian jadwal tiga agenda besar sekaligus, rights issue, transaksi material, dan perubahan penggunaan dana IPO, akibat OJK masih mendalami tambahan permintaan informasi yang belum rinci disebutkan di surat ini. Yang tersentuh adalah rencana penambahan modal dan jumlah saham beredar, karena rights issue serta penerbitan Saham Seri B baru akan menambah jumlah saham di pasar, yang bisa membuat laba per saham tiap pemegang saham lama menjadi lebih kecil kalau porsi kepemilikannya tidak ikut bertambah proporsional. Perubahan penggunaan dana hasil IPO juga berarti rencana belanja modal atau ekspansi yang sebelumnya dijanjikan ke pemegang saham bisa berubah arah. Yang perlu dipantau berikutnya adalah pengumuman jadwal RUPSLB pengganti dari Direksi KOTA, serta apakah tambahan informasi yang diminta OJK berkaitan dengan kelayakan transaksi material atau skema rights issue itu sendiri, karena itu akan menentukan berapa lama penundaan ini berlangsung.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bsbk-tetapkan-jadwal-cum-dividen-interim-cair-20-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BSBK Tetapkan Jadwal [Cum Dividen] Interim, Cair 20 Oktober",
+  "deck": "Wulandari Bangun Laksana (BSBK) merinci tanggal cum dan ex dividen interim Rp25,09 miliar, dengan pembayaran dijadwalkan 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T18:37:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73ef699ad3_d5249e0db4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSBK",
+  "tags": [
+   "BSBK",
+   "dividen interim",
+   "properti",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Wulandari Bangun Laksana Tbk (BSBK) menetapkan jadwal lengkap pembagian dividen interim 2026 senilai total Rp25.091.882.375, atau setara Rp1 per saham. Keputusan ini diambil Direksi pada 1 Oktober 2026 dan disetujui efektif oleh Dewan Komisaris Perseroan pada tanggal yang sama, sesuai surat bernomor 058/CS-BSBK/X/2026 yang ditandatangani Corporate Secretary Alexsandro Martin Tiga.",
+   "Bagi investor yang ingin mendapatkan dividen ini, batas terakhir membeli saham BSBK di pasar reguler dan negosiasi adalah 13 Oktober 2026, karena mulai 14 Oktober 2026 saham sudah diperdagangkan tanpa hak dividen. Untuk transaksi di pasar tunai, batasnya satu hari lebih lambat, yaitu cum dividen pada 15 Oktober 2026 dan ex dividen pada 16 Oktober 2026. Tanggal pencatatan pemegang saham yang berhak menerima dividen jatuh pada 15 Oktober 2026, dan dananya akan dibayarkan pada 20 Oktober 2026.",
+   "Dalam suratnya, Perseroan menyatakan pembagian dividen interim ini tidak membawa dampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha. Laporan ini juga ditembuskan ke Otoritas Jasa Keuangan, Direksi PT Bursa Efek Indonesia, PT Kustodian Sentral Efek Indonesia, PT Bima Registra selaku biro administrasi efek, serta notaris yang menangani Perseroan."
+  ],
+  "fotoAdegan": "Aerial view of a modern mixed-use tower complex near a coastal Indonesian city, morning haze, cranes and low-rise buildings nearby",
+  "takeaway": "Laporan ini tetap condong positif bagi BSBK, karena mengonfirmasi bahwa pembayaran dividen tunai sudah mengikat dan tinggal menunggu pencairan, bukan sekadar wacana. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang keluar dari kas perusahaan untuk dibagikan ke pemegang saham, yang pelaku pasar perhatikan karena menunjukkan perusahaan cukup percaya diri dengan likuiditasnya untuk melepas uang tunai sebelum tahun buku ditutup. Yang perlu dipantau pemegang saham adalah dua tenggat konkret dari dokumen ini: batas beli saham di pasar reguler sebelum 14 Oktober 2026 agar tercatat sebagai pemilik berhak pada 15 Oktober 2026, dan realisasi pembayaran pada 20 Oktober 2026 untuk memastikan perusahaan menepati jadwal yang sudah diumumkan.",
+  "sentimen": "positif"
  },
  {
   "slug": "bsbk-bagikan-dividen-interim-rp25-09-miliar-untuk-h1-2026",
@@ -395,6 +499,268 @@ var ARTICLES = [
   "fotoAdegan": "Workers checking crates beside refrigerated delivery trucks parked at a warehouse loading dock, early morning light in an industrial area",
   "takeaway": "Laporan ini condong positif bagi BLOG karena menunjukkan seluruh dana Rp138,23 miliar hasil IPO sudah tuntas dipakai untuk membangun kapasitas baru, gudang pendingin di tiga kota dan armada truk berpendingin, tanpa sisa dana menganggur maupun deviasi dari rencana awal di prospektus. Dari sisi laporan keuangan, kas hasil IPO yang sebelumnya tercatat sebagai aset likuid kini berubah bentuk menjadi aset tetap seperti gudang dan kendaraan, perubahan yang tercermin pada arus kas investasi dan struktur aset perusahaan, dan ini penting bagi pemegang saham karena menentukan apakah investasi tersebut akan menghasilkan pendapatan tambahan dari bisnis gudang pendingin dan distribusi. Karena sisa dana penawaran umum sudah nol, laporan per 30 Juni 2026 ini kemungkinan menjadi laporan realisasi dana IPO terakhir bagi BLOG sesuai aturan OJK, sehingga yang perlu dipantau selanjutnya adalah apakah gudang pendingin dan armada truk yang baru rampung ini benar-benar mendorong pendapatan pada laporan keuangan semester berikutnya.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "amrt-bagikan-dividen-interim-rp14-5-per-saham-cair-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "AMRT Bagikan [Dividen] Interim Rp14,5 per Saham, Cair 27 Oktober",
+  "deck": "Sumber Alfaria Trijaya akan membagikan dividen interim tunai Rp595,8 miliar atau Rp14,5 per saham, dengan pencatatan 15 Oktober dan pembayaran 27 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:56:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c9b7891b8c_521b0f442f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMRT",
+  "tags": [
+   "AMRT",
+   "dividen interim",
+   "Sumber Alfaria Trijaya",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Sumber Alfaria Trijaya Tbk (AMRT) mengumumkan rencana pembagian dividen interim tunai untuk tahun buku 2026, setelah keputusan Direksi disetujui Dewan Komisaris pada 1 Oktober 2026. Dividen ini berasal dari laba bersih periode yang berakhir 30 Juni 2026, dengan total nilai Rp595.831.574.150 atau setara Rp14,5 per saham. Nilai dividen per saham sudah final, bukan kisaran minimum-maksimum.",
+   "Jadwal pembagiannya diatur ketat. Cum dividen di pasar reguler dan negosiasi jatuh pada 13 Oktober 2026, disusul ex dividen pada 14 Oktober 2026. Di pasar tunai, cum dividen berlangsung 15 Oktober 2026, bersamaan dengan tanggal pencatatan pemegang saham (recording date) pada hari yang sama pukul 16.00 WIB, lalu ex dividen di pasar tunai pada 16 Oktober 2026. Dividen baru akan dibayarkan ke rekening pemegang saham pada 27 Oktober 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 Juni 2026, yaitu laba bersih yang diatribusikan ke entitas induk sebesar Rp2,025 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp15,49 triliun, dan total ekuitas perseroan Rp19,16 triliun. Bagi pemegang saham yang sahamnya tidak berada dalam penitipan kolektif KSEI dan ingin dibayar via transfer bank, mereka harus mengirim data rekening beserta identitas ke Biro Administrasi Efek PT Adimitra Jasa Korpora paling lambat 15 Oktober 2026 pukul 16.00 WIB. Pemegang saham wajib pajak luar negeri yang tidak menyerahkan dokumen DGT atau Surat Keterangan Domisili sebelum tenggat yang sama akan dikenakan PPh pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Cashier scanning grocery items at a small convenience store counter, customers queuing, bright fluorescent lighting, evening street outside",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham AMRT, karena dividen interim Rp595,8 miliar ini dibayar langsung dari laba periode berjalan tanpa menambah utang atau menguras kas secara signifikan. Pos yang tersentuh adalah ekuitas dan laba ditahan, yaitu bagian laba tahun-tahun sebelumnya yang belum dibagikan dan disimpan perusahaan sebagai bantalan modal. Nilai dividen ini hanya sekitar 4 persen dari saldo laba ditahan Rp15,49 triliun dan sekitar 3 persen dari total ekuitas Rp19,16 triliun, jadi porsinya kecil dan tidak mengganggu permodalan perseroan. Yang perlu dipantau pemegang saham adalah tanggal pencatatan pada 15 Oktober 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran pada 27 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ptpp-menang-gugatan-pkpu-dari-dua-kreditur-proyek-jambi-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Menang, Gugatan [PKPU] dari Dua Kreditur Proyek Jambi Dicabut",
+  "deck": "Pengadilan Niaga Jakarta Pusat mencabut permohonan PKPU terhadap PTPP yang diajukan dua kreditur proyek Museum KCBN Muarajambi, menyusul suspensi saham akibat gagal bayar bunga obligasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:52:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c227cb237b_f9d4e7681e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "PKPU",
+   "hukum",
+   "konstruksi"
+  ],
+  "body": [
+   "PP (Persero) Tbk (PTPP) menyampaikan bahwa Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat mencabut permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) Nomor 277/Pdt.Sus-PKPU/2026/PN.Niaga.Jkt.Pst yang sebelumnya diajukan terhadap perseroan. Putusan itu ditetapkan dalam rapat permusyawaratan Majelis Hakim pada Jumat, 2 Oktober 2026.",
+   "Permohonan PKPU ini awalnya diajukan oleh PT Atap Perkasa selaku Pemohon PKPU I dan CV Citra Pratama selaku Pemohon PKPU II, dan terdaftar di kepaniteraan sejak 14 September 2026. Perkara ini berkaitan dengan utang pada proyek pembangunan Museum Kawasan Cagar Budaya Nasional (KCBN) Muarajambi di Provinsi Jambi, yang mencakup pengerjaan rangka dan penutup atap, pemasangan plafon fibercellulosa, serta pekerjaan tambahan kisi-kisi Wood Plastic Composite (WPC). PTPP sebelumnya telah menerima relaas panggilan dari Pengadilan Niaga terkait perkara ini, sebagaimana diumumkan dalam keterbukaan informasi tanggal 18 September 2026.",
+   "Dalam putusannya, pengadilan mengabulkan permintaan kedua pemohon sendiri untuk mencabut perkara, menyatakan permohonan PKPU yang terdaftar sejak 14 September 2026 resmi dicabut, dan memerintahkan panitera mencatat pencabutan tersebut dalam register perkara perdata khusus kepailitan. Kedua pemohon dihukum membayar biaya perkara sebesar Rp2.428.000. PTPP menyatakan putusan ini tidak membawa dampak signifikan terhadap kondisi hukum, keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Workers installing wooden roof trusses on a traditional pavilion-style building under construction, bamboo scaffolding, tropical daylight in Jambi region",
+  "takeaway": "Laporan ini netral bagi PTPP: pencabutan gugatan PKPU dari dua kreditur proyek memang menghapus satu ancaman hukum, tapi tidak menyentuh masalah utama yang sedang menekan perseroan, yaitu gagal bayar bunga obligasi yang membuat sahamnya disuspensi bursa pekan ini. Yang tersentuh di sini cuma status risiko hukum perseroan, bukan arus kas atau ekuitasnya, sebab pencabutan ini datang dari permintaan pemohon sendiri, bukan karena PTPP melunasi utang proyek Museum Muarajambi. Investor sebaiknya tetap memantau kelanjutan RUPO dan RUPSu soal penyesuaian jadwal bayar bunga obligasi senilai Rp44,7 miliar yang belum disetujui pemegang obligasi sejak awal September, serta perkembangan status suspensi saham PTPP di BEI, karena dua hal itu yang sebenarnya menentukan arah keuangan perseroan ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sona-laba-semester-i-naik-27-tender-wajib-rampung",
+  "category": "Aksi Korporasi",
+  "title": "SONA: Laba Semester I [Naik] 27%, Tender Wajib Rampung",
+  "deck": "Materi public expose SONA memuat laba bersih semester I 2026 naik 27,37% jadi Rp32,52 miliar, dividen Rp52,83 per saham, dan penyelesaian tender wajib pasca akuisisi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:48:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ce4d4d1b46_3560ec0735.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SONA",
+  "tags": [
+   "SONA",
+   "public expose",
+   "laba bersih",
+   "tender wajib"
+  ],
+  "body": [
+   "PT Sona Topas Tourism Industry Tbk (SONA) menyampaikan materi paparan publik insidentil yang akan digelar Selasa, 6 Oktober 2026 pukul 14.00 WIB secara daring melalui Zoom. Pertemuan ini merupakan kelanjutan dari surat permohonan penyelenggaraan public expose insidentil yang diajukan perseroan pada 2 Oktober 2026. Materi yang diunggah ke Bursa Efek Indonesia memuat profil perusahaan, kinerja keuangan terkini, rencana bisnis, serta penjelasan manajemen mengenai pergerakan harga saham SONA.",
+   "Berdasarkan struktur pemegang saham per 30 September 2026, PT Pratama Citra Karunia menguasai 45,11 persen saham SONA, disusul PT Precise Pacific Realty dengan 31,65 persen, Tahir dengan 15,7 persen, dan masyarakat atau publik sebesar 7,52 persen. Dua komisaris atau direktur perseroan, Harry Wangidjaja dan Ronald Kumalaputra, masing-masing memegang 0,01 persen saham. Perseroan menjalankan bisnis biro perjalanan serta toko ritel perjalanan melalui sejumlah anak usaha yang hampir seluruhnya dimiliki langsung, antara lain PT Sukses Garda Mulia, PT Karya Prima Unggulan, PT Inti Dufree Promosindo, PT Artha Mulia Indah, dan PT Cahaya Retilindo, dengan kepemilikan di kisaran 99,67 persen hingga 99,96 persen.",
+   "Dari sisi kinerja, pendapatan SONA pada semester I 2026 tercatat Rp441,6 miliar, naik 8,67 persen dibanding Rp406,4 miliar pada semester I 2025. Laba bersih periode yang sama melonjak 27,37 persen dari Rp25,53 miliar menjadi Rp32,52 miliar, didorong antara lain oleh kenaikan penghasilan lain-lain sebesar 330,62 persen menjadi Rp28,21 miliar. Pada posisi keuangan per Juni 2026, total aset perseroan tercatat Rp979,37 miliar, turun tipis 0,04 persen dari Rp979,8 miliar per akhir Desember 2025. Liabilitas naik 0,83 persen menjadi Rp251,4 miliar, sementara ekuitas turun 0,34 persen menjadi Rp727,98 miliar dari sebelumnya Rp730,47 miliar.",
+   "Dalam tiga bulan terakhir, SONA mencatat dua aksi korporasi utama. Pada Juli 2026, perseroan membagikan dividen sebesar Rp52,83 per lembar saham kepada pemegang saham. Pada Agustus 2026, perseroan menyelesaikan pelaksanaan Penawaran Tender Wajib sesuai Peraturan OJK No. 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka, meski materi paparan tidak merinci jumlah saham atau harga penawaran dalam tender tersebut. Untuk rencana bisnis ke depan, manajemen menyebut akan melanjutkan ekspansi gerai ritel di bandara-bandara besar seperti Soekarno-Hatta, Kualanamu, dan Juanda, sembari menjalankan efisiensi biaya di lini bisnis biro perjalanan dan toko ritel."
+  ],
+  "fotoAdegan": "Shoppers browsing shelves of souvenirs and travel snacks at a bright retail store inside a busy Indonesian airport terminal, midday light.",
+  "takeaway": "Laporan ini condong positif bagi SONA, karena laba bersih semester pertama 2026 melonjak 27,37 persen dibanding periode sama tahun lalu, ditopang kenaikan pendapatan 8,67 persen dan pembagian dividen Rp52,83 per saham pada Juli 2026. Pos yang perlu dicermati adalah ekuitas, yaitu total kekayaan bersih yang tersisa untuk pemegang saham setelah utang dikurangkan dari aset, yang di sini hanya turun tipis 0,34 persen meski perseroan baru membagi dividen, menandakan modal perusahaan relatif terjaga. Laba bersih sendiri penting dipantau karena jadi basis penghitungan laba per saham, salah satu ukuran utama yang dipakai investor menilai apakah bisnis inti perusahaan membaik atau memburuk. Yang perlu dipantau berikutnya adalah paparan publik pada Selasa, 6 Oktober 2026 pukul 14.00 WIB, karena salah satu agenda khususnya adalah penjelasan manajemen soal pergerakan harga saham SONA, yang biasanya diminta otoritas ketika ada fluktuasi harga yang tidak biasa. Penyelesaian Penawaran Tender Wajib pasca pengambilalihan perusahaan pada Agustus 2026 juga layak diikuti, terutama rincian lanjutan soal perubahan struktur pemegang saham yang belum diungkap dalam materi ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "kios-panggil-rupslb-agendakan-perubahan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "KIOS Panggil RUPSLB, Agendakan [Perubahan] Susunan Direksi",
+  "deck": "Kioson Komersial Indonesia menjadwalkan RUPSLB 27 Oktober 2026 dengan agenda perubahan susunan direksi dan komisaris, serta penyesuaian anggaran dasar mengikuti klasifikasi usaha baru BPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:47:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a52d4c55a3_ee48ffe260.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KIOS",
+  "tags": [
+   "KIOS",
+   "RUPSLB",
+   "Direksi",
+   "Kioson Komersial"
+  ],
+  "body": [
+   "PT Kioson Komersial Indonesia Tbk (KIOS) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 27 Oktober 2026, pukul 14.00 WIB di Axa Tower Lantai 42, Jl. Prof. DR. Satrio, Kuningan, Jakarta Selatan. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam daftar pemegang saham perseroan pada penutupan perdagangan Bursa Efek Indonesia tanggal 2 Oktober 2026. Pemanggilan ini merujuk surat perseroan sebelumnya Nomor 44/KIOS-OJK/IX/2026 tanggal 18 September 2026 yang sudah memberitahukan rencana penyelenggaraan rapat ini.",
+   "Ada dua agenda dalam RUPSLB ini. Pertama, persetujuan perubahan susunan Direksi dan/atau Dewan Komisaris perseroan, namun dokumen pemanggilan belum merinci nama-nama yang akan diganti atau diangkat karena hal ini baru akan diputuskan dalam rapat. Kedua, persetujuan perubahan Pasal 3 Anggaran Dasar perseroan untuk menyesuaikan dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia atau KBLI, yakni kode yang menjelaskan bidang usaha resmi perseroan di mata negara.",
+   "Pemegang saham dapat hadir secara fisik di lokasi rapat atau secara elektronik melalui aplikasi eASY.KSEI. Batas waktu untuk menyampaikan deklarasi kehadiran, kuasa, atau pilihan suara secara elektronik adalah pukul 12.00 WIB pada satu hari kerja sebelum rapat, yakni 26 Oktober 2026. Bagi pemegang saham yang memberi kuasa dan ingin bertanya, pertanyaan dapat dikirim lewat email ke perseroan dan jawabannya akan disampaikan paling lambat tiga hari kerja setelah rapat."
+  ],
+  "fotoAdegan": "Corporate boardroom with rows of empty chairs arranged for a formal meeting, Jakarta office tower, afternoon light",
+  "takeaway": "Laporan ini netral bagi KIOS, sebab belum ada kepastian siapa yang akan masuk atau keluar dari jajaran direksi dan komisaris, semuanya baru diputuskan saat rapat berlangsung pada 27 Oktober 2026. Yang tersentuh di sini adalah tata kelola perusahaan, bukan angka keuangan secara langsung, karena susunan direksi dan komisaris menentukan siapa yang mengambil keputusan strategis dan mengawasi jalannya bisnis Kioson ke depan, sehingga pelaku pasar biasanya ingin tahu lebih dulu siapa sosok yang diusulkan sebelum menilai dampaknya. Agenda kedua soal penyesuaian kode klasifikasi usaha ke aturan BPS terbaru sifatnya administratif dan lazim dilakukan emiten, tidak mengubah lini bisnis perseroan. Yang perlu dipantau pemegang saham KIOS adalah hasil RUPSLB pada 27 Oktober 2026, termasuk nama-nama direksi dan komisaris baru yang akan diumumkan di sana, serta batas waktu pemberian suara elektronik pukul 12.00 WIB pada 26 Oktober 2026 bagi yang ingin memakai hak suaranya dari jarak jauh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "uvcr-panggil-rupslb-27-oktober-bahas-pmthmetd-dan-kbli",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Panggil RUPSLB 27 Oktober, Bahas [PMTHMETD] dan KBLI",
+  "deck": "RUPSLB UVCR digelar 27 Oktober 2026 untuk menyetujui rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dan perubahan anggaran dasar terkait KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:41:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7dbc2bd289_188e2fad8a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "RUPSLB",
+   "PMTHMETD",
+   "Ultra Voucher"
+  ],
+  "body": [
+   "PT Trimegah Karya Pratama Tbk (UVCR), pengelola layanan voucher digital Ultra Voucher, memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada 27 Oktober 2026 pukul 14.00 WIB. Rapat digelar secara hybrid, yakni daring melalui sistem KSEI dan luring di kantor Ultra Voucher, Jalan Tebet Barat IX Nomor 35BB, Tebet Barat, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada penutupan perdagangan bursa, Jumat 2 Oktober 2026.",
+   "Agenda pertama RUPSLB adalah persetujuan rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), sesuai aturan Otoritas Jasa Keuangan Nomor 32/POJK.04/2015 yang diubah dengan POJK Nomor 14/POJK.04/2019. Lewat skema ini, Perseroan berencana menerbitkan saham baru tanpa lebih dulu menawarkannya secara proporsional kepada pemegang saham lama, termasuk meminta persetujuan atas segala langkah yang diperlukan untuk merealisasikan rencana tersebut. Pemanggilan ini belum merinci jumlah saham baru, harga pelaksanaan, atau pihak yang akan menyerapnya.",
+   "Agenda kedua adalah persetujuan perubahan Pasal 3 Anggaran Dasar Perseroan mengenai maksud, tujuan, dan kegiatan usaha, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) versi 2025 yang menggantikan KBLI 2020. Perseroan menegaskan penyesuaian ini murni administratif dan tidak termasuk kategori perubahan kegiatan usaha sebagaimana diatur dalam POJK Nomor 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Pemegang saham yang ingin memberi suara memiliki waktu hingga pukul 12.00 WIB pada 26 Oktober 2026, satu hari kerja sebelum rapat, untuk mendeklarasikan kehadiran, kuasa, atau pilihan suara lewat aplikasi eASY.KSEI. Surat pemanggilan ditandatangani Direktur Utama Hady Kuswanto pada 5 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a modern corporate meeting hall before a shareholders event, Jakarta office building, soft daylight",
+  "takeaway": "Pemanggilan ini condong negatif bagi pemegang saham publik karena agenda utamanya meminta restu RUPSLB untuk menambah saham baru lewat skema yang tidak memberi pemegang saham lama kesempatan membeli porsi tambahan lebih dulu (PMTHMETD), sementara pemberitaan kami pekan lalu mencatat lonjakan harga UVCR 36 persen justru diserap oleh pemegang saham pengendali. Skema ini menambah jumlah saham beredar perseroan, sehingga porsi kepemilikan dan laba per saham milik pemegang saham yang tidak kebagian jatah baru berisiko tergerus, sementara pihak yang menyerap saham baru bisa memperkuat kendalinya atas perseroan. Agenda kedua soal penyesuaian kode klasifikasi usaha ke versi 2025 murni administratif dan perusahaan sendiri menegaskan ini bukan perubahan kegiatan usaha, sehingga dampaknya minim. Yang perlu dipantau adalah jalannya RUPSLB pada 27 Oktober 2026, termasuk berapa jumlah saham baru yang akhirnya disetujui dan siapa yang menyerapnya, karena detail harga dan volume belum diungkap dalam pemanggilan ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dr-waran-asii-disesuaikan-usai-dividen-rp3-89-t",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran ASII Disesuaikan usai [Dividen] Rp3,89 T",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur ASII menyusul dividen tunai Rp98 per saham dari Astra International.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:40:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/76fa9ecd23_726f6fba28.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "ASII",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia selaku penerbit waran terstruktur (structured warrant) dengan saham acuan ASII mengumumkan penyesuaian syarat dan ketentuan waran tersebut. Penyesuaian ini dipicu rencana PT Astra International Tbk membagikan dividen tunai tahun buku 2026 senilai total Rp3.895.746.738.520, atau Rp98 per saham, sesuai keputusan Direksi yang disetujui Dewan Komisaris ASII pada 30 September 2026.",
+   "Jadwal pembagian dividen ASII diatur sebagai berikut: tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 12 Oktober 2026, dengan ex dividen sehari setelahnya pada 13 Oktober 2026. Di pasar tunai, cum dividen berlaku 14 Oktober 2026 dan ex dividen 15 Oktober 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada 14 Oktober 2026 pukul 16.00 berhak atas dividen, yang akan dibayarkan paling lambat 30 Oktober 2026.",
+   "Mengikuti syarat dan ketentuan di Term Sheet dan Prospektus Waran Terstruktur ASII, rasio pelaksanaan dan harga pelaksanaan waran akan disesuaikan dengan rumus baku: dikalikan faktor harga penutupan ASII pada hari terakhir diperdagangkan cum-entitlement dikurangi nilai dividen per saham, dibagi harga penutupan itu sendiri. RHB Sekuritas juga mencantumkan catatan bahwa penyesuaian berpotensi tidak dilakukan apabila menurut kebijakan penerbit, tanpa kewajiban apa pun kepada pemegang waran, dianggap tidak diperlukan."
+  ],
+  "fotoAdegan": "Rows of new Toyota and Daihatsu sedans parked in a vehicle shipping yard, workers in uniform inspecting cars, overcast morning light",
+  "takeaway": "Laporan ini netral bagi RHB Sekuritas selaku penerbit waran, karena penyesuaian rasio dan harga pelaksanaan murni mengikuti rumus baku di prospektus akibat dividen ASII, bukan keputusan bisnis baru dari perseroan. Pos yang tersentuh adalah nilai intrinsik waran terstruktur: begitu ASII membagikan dividen Rp98 per saham, harga sahamnya otomatis terkoreksi sebesar nilai dividen itu pada tanggal ex-dividen, sehingga rasio dan harga pelaksanaan waran perlu disesuaikan agar pemegang waran tidak dirugikan oleh penurunan harga acuan yang bukan disebabkan kinerja perusahaan. Yang perlu dipantau adalah harga penutupan ASII pada 12 Oktober 2026, hari terakhir diperdagangkan dengan hak dividen masih melekat, karena angka itu jadi dasar rumus penyesuaian final, serta tanggal pembayaran dividen pada 30 Oktober 2026 sebagai penanda rampungnya proses ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "talf-komitmen-beli-solvent-rp398-m-dari-bluesky-10-tahun",
+  "category": "Aksi Korporasi",
+  "title": "TALF Komitmen Beli Solvent [Rp398 M] dari Bluesky 10 Tahun",
+  "deck": "TALF meneken perjanjian pembelian solvent daur ulang dari PT Bluesky Technology Indonesia senilai Rp398,66 miliar untuk 10 tahun, setara 29,9 persen ekuitas perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:36:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c744e72008_b0cbb701dc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TALF",
+  "tags": [
+   "TALF",
+   "transaksi material",
+   "POJK 17/2020",
+   "solvent"
+  ],
+  "body": [
+   "PT Tunas Alfin Tbk (TALF) mengumumkan transaksi material berupa pembelian bahan baku solvent daur ulang dari PT Bluesky Technology Indonesia. Perjanjian ditandatangani pada 2 Oktober 2026 dengan jangka waktu 10 tahun, dan diumumkan ke Otoritas Jasa Keuangan serta Bursa Efek Indonesia pada 5 Oktober 2026 oleh Direktur TALF, Bernardus Budiman. Tidak ada hubungan afiliasi antara TALF dan PT Bluesky, yang merupakan perusahaan perdagangan besar mesin dan peralatan berdasarkan akta pendirian 29 Juni 2024.",
+   "Solvent yang dibeli dihasilkan dari mesin Solvent Recovery & Reuse generasi ke-13 milik PT Bluesky, yang mengolah limbah udara dari proses mesin printing dan laminasi milik TALF di pabrik Kawasan Industri Kencana Alam, Cikupa, Tangerang. Harga dihitung dari kuantitas solvent dikalikan harga satuan dikurangi diskon bertahap, dengan acuan harga pasar solvent di area Cikupa pada bulan berjalan. TALF memperkirakan pembelian rata-rata sekitar Rp3,32 miliar per bulan atau Rp39,87 miliar per tahun, sehingga total nilai pembelian selama 10 tahun perjanjian mencapai sekitar Rp398,66 miliar, belum termasuk diskon yang akan diterima.",
+   "Berdasarkan laporan keuangan audit per 31 Desember 2025 oleh KAP Tjahjadi & Tamara, ekuitas TALF tercatat Rp1,33 triliun, sehingga nilai transaksi ini setara 29,9 persen dari ekuitas dan melampaui ambang 20 persen yang diatur Pasal 3 ayat (1) POJK No. 17/2020 tentang Transaksi Material. Namun karena tergolong beban operasional rutin untuk menjalankan mesin produksi sehari-hari, transaksi ini dikecualikan dari kewajiban memakai jasa penilai independen dan memperoleh persetujuan RUPS sesuai Pasal 13 ayat (1) POJK yang sama. TALF menyatakan transaksi ini tidak berdampak hukum maupun negatif terhadap kelangsungan usaha, dan justru menurunkan biaya bahan baku solvent lewat diskon dari harga pasar."
+  ],
+  "fotoAdegan": "Workers monitoring large printing and laminating machines on a packaging factory floor, rolls of plastic film, industrial lighting",
+  "takeaway": "Transaksi ini saya nilai netral bagi fundamental TALF, karena sifatnya murni pembelian bahan baku operasional yang tidak mengubah modal sendiri, utang, atau jumlah saham perusahaan, meski nilainya tampak besar di atas kertas. Yang tersentuh adalah pos beban operasional, yaitu biaya rutin menjalankan mesin printing dan laminasi; pasar memperhatikannya karena komitmen membeli solvent dari satu pemasok selama 10 tahun otomatis mengikat sebagian biaya produksi TALF ke depan, meski perusahaan mengklaim harganya lebih murah dari pasar lewat diskon bertahap. Karena nilainya melewati 20 persen dari modal sendiri perusahaan tapi dikategorikan kegiatan usaha rutin, transaksi ini tidak melalui penilai independen maupun persetujuan pemegang saham di RUPS, sehingga besaran diskon dan kewajaran harga sepenuhnya mengandalkan pernyataan manajemen sendiri. Yang perlu dipantau berikutnya adalah realisasi penghematan biaya solvent pada laporan keuangan kuartal mendatang, serta kelangsungan pasokan dari PT Bluesky mengingat perjanjian ini mengikat kedua pihak hingga tahun 2036.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ultj-rupslb-27-oktober-akuisisi-frisian-flag-lewat-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ RUPSLB 27 Oktober, Akuisisi [Frisian Flag] Lewat Rights Issue",
+  "deck": "ULTJ mengundang pemegang saham ke RUPSLB 27 Oktober 2026 untuk menyetujui rights issue yang dibayar dengan 100% saham PT Frisian Flag Indonesia, bukan uang tunai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:31:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ef0f45f1d8_2115dbaf50.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "RUPSLB",
+   "Frisian Flag",
+   "rights issue"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 27 Oktober 2026, pukul 10.00 WIB, di kantor perseroan Jalan Raya Cimareme 131, Bandung Barat. Rapat digelar secara hibrida, fisik dan elektronik lewat aplikasi eASY.KSEI. Yang berhak hadir dan memberi suara adalah pemegang saham yang tercatat di daftar pemegang saham melalui biro administrasi efek PT Adimitra Jasa Korpora, atau di catatan KSEI dan bank kustodian, per 2 Oktober 2026 pukul 16.00 WIB.",
+   "Agenda utamanya adalah persetujuan penambahan modal dengan hak memesan efek terlebih dahulu keempat (PMHMETD IV atau rights issue) sesuai Peraturan OJK No. 32/POJK.04/2015. Yang membuat rights issue ini tidak biasa, dananya bukan berupa uang tunai, melainkan penyetoran modal dalam bentuk lain (inbreng) berupa 24.440 lembar saham, atau seluruh 100 persen kepemilikan, PT Frisian Flag Indonesia (FFI). Saham FFI itu saat ini dipegang oleh FrieslandCampina International Holding B.V. (FCIH), Blue Waves Group Ventures Pte. Ltd., dan PT Bahtera Wiraniaga Internusa. Setelah transaksi selesai, FCIH tetap memiliki FFI, tapi secara tidak langsung, lewat kepemilikan sahamnya di ULTJ, artinya FrieslandCampina akan menjadi pemegang saham ULTJ. Karena nilainya di atas 50 persen dari acuan yang diatur, rencana ini dikategorikan sebagai Transaksi Material menurut Peraturan OJK No. 17/POJK.04/2020 dan harus disetujui lewat agenda tersendiri selain persetujuan rights issue-nya.",
+   "Agenda lain yang diajukan dalam RUPSLB ini meliputi perubahan susunan direksi dan dewan komisaris, yang baru berlaku efektif sejak tanggal penyelesaian transaksi inbreng tersebut, persetujuan penggunaan sebagian saldo laba ditahan perseroan per 31 Desember 2025 untuk dibagikan sebagai tambahan dividen tunai final, serta persetujuan perubahan dan penulisan ulang seluruh anggaran dasar perseroan untuk kebutuhan tata kelola.",
+   "Bagi pemegang saham yang tidak bisa hadir, perseroan menyediakan dua jenis surat kuasa, yaitu kuasa konvensional yang salinannya harus diterima biro administrasi efek paling lambat 26 Oktober 2026, atau e-proxy lewat eASY.KSEI paling lambat satu hari kerja sebelum rapat. Karena kapasitas ruang rapat terbatas, perseroan meminta pemegang saham tidak hadir secara fisik dan memberi kuasa secara elektronik kepada PT Adimitra Jasa Korpora."
+  ],
+  "fotoAdegan": "Stainless steel milk processing tanks and packaging lines inside a dairy factory, workers in white uniforms under bright industrial lighting",
+  "takeaway": "Laporan ini bersifat netral bagi pemegang saham lama, karena rencana menukar saham baru ULTJ dengan seluruh saham Frisian Flag Indonesia memang strategis, tetapi pemanggilan RUPSLB ini belum mengungkap rincian penting seperti rasio penukaran saham, jumlah saham baru yang akan diterbitkan, atau nilai transaksinya, jadi besar dampaknya belum bisa dipastikan. Yang pasti tersentuh adalah jumlah saham beredar ULTJ, yang akan bertambah lewat rights issue ini dan bisa menggerus laba per saham dalam jangka pendek karena laba yang sama kini dibagi ke lebih banyak lembar saham. Karena pembayarannya pakai saham, bukan uang tunai, arus kas ULTJ tidak terpengaruh langsung dari transaksi ini, sementara ekuitas perseroan membesar karena mencatat aset baru berupa kepemilikan penuh di Frisian Flag Indonesia. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 27 Oktober 2026 yang akan memutuskan seluruh agenda ini, termasuk rasio dan harga rights issue yang biasanya baru diumumkan mendekati pelaksanaan, serta tanggal penyelesaian transaksi inbreng yang sekaligus menandai mulai berlakunya susunan direksi dan komisaris yang baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-sesuaikan-syarat-3-waran-asii-usai-dividen-interim",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Syarat 3 Waran ASII Usai [Dividen] Interim",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi tiga waran terstruktur ASII setelah Astra International bagi dividen interim Rp98 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:16:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b22cf7ebfa_09f038faac.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "ASII",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia mengumumkan penyesuaian syarat dan ketentuan tiga seri waran terstruktur dengan saham acuan PT Astra International Tbk (ASII), yaitu ASIIZPCV6A, ASIIZPCJ7A, dan ASIIZPCN7A. Penyesuaian ini mengacu pada pengumuman ASII tanggal 2 Oktober 2026 tentang pembagian dividen interim tahun buku 2026 sebesar Rp98 per saham.",
+   "Berdasarkan Bagian 3.8 Prospektus tertanggal 11 April 2025 dan Term Sheet masing-masing waran, harga pelaksanaan dan rasio konversi baru dihitung dengan rumus (P-D)/P dikalikan nilai lama, di mana P adalah harga perdagangan terakhir ASII pada cum-date dan D adalah Rp98 sebagai nilai dividen per saham. Dengan rumus ini, harga pelaksanaan dan rasio konversi yang baru baru bisa dipastikan setelah harga penutupan ASII pada cum-date diketahui.",
+   "Penyesuaian ini berlaku efektif pada tanggal ex-dividen, yaitu 13 Oktober 2026 untuk transaksi di Pasar Reguler dan Pasar Negosiasi, serta 15 Oktober 2026 untuk Pasar Tunai. Maybank Sekuritas Indonesia selaku penerbit waran juga mencantumkan klausul bahwa penyesuaian ini bisa saja tidak dilakukan apabila, berdasarkan kebijaksanaan penerbit, hal itu dianggap tidak diperlukan, tanpa ada kewajiban apa pun kepada pemegang waran terstruktur."
+  ],
+  "fotoAdegan": "Workers inspecting rows of new cars on an automotive assembly line under bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi ASII maupun Maybank Sekuritas, sebab penyesuaian angka waran murni konsekuensi rumus baku yang sudah disepakati sejak waran diterbitkan, dipicu oleh keputusan dividen ASII, bukan keputusan bisnis baru dari penerbit waran. Yang tersentuh adalah harga pelaksanaan dan rasio konversi waran terstruktur, bukan laporan keuangan ASII sendiri; harga pelaksanaan adalah patokan harga saat pemegang waran menukar waran jadi saham ASII, sementara rasio konversi menentukan berapa lembar waran dibutuhkan untuk mendapat satu saham, dan keduanya disesuaikan agar nilai ekonomis waran tetap setara meski harga saham ASII otomatis terkoreksi akibat pembagian dividen. Besaran penyesuaian final baru akan diketahui setelah harga penutupan ASII pada cum-date, dengan tanggal berlaku 13 Oktober 2026 untuk pasar reguler dan negosiasi serta 15 Oktober 2026 untuk pasar tunai. Pemegang waran juga perlu mencermati bahwa Maybank Sekuritas berhak tidak melakukan penyesuaian ini sesuai kebijaksanaannya sendiri, sehingga hasil akhirnya tidak otomatis pasti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "flmc-ekuitas-negatif-rugi-semester-i-melonjak-ke-rp23-3-m",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Ekuitas Negatif, Rugi Semester I [Melonjak] ke Rp23,3 M",
+  "deck": "Aset FLMC turun 32,6 persen dan ekuitas berbalik negatif Rp2,59 miliar setelah rugi bersih semester I 2026 melonjak jadi Rp23,27 miliar dari Rp2,99 miliar tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T16:12:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261005162301-64488-0/FinancialStatement-2026-II-FLMC.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "ekuitas negatif",
+   "rugi bersih",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) menyampaikan koreksi laporan keuangan interim per 30 Juni 2026 sekaligus surat penjelasan kepada Bursa Efek Indonesia terkait perubahan lebih dari 20 persen pada pos aset dan liabilitas, sesuai Keputusan Direksi BEI Nomor Kep-00087/BEI/12-2025. Surat yang diteken Direktur Andre Rajasa itu menyebutkan total aset perusahaan turun 32,63 persen, dari Rp55,13 miliar pada akhir 2025 menjadi Rp37,14 miliar pada akhir Juni 2026, atau susut Rp17,99 miliar. Penurunan ini terutama berasal dari berkurangnya uang muka dan biaya dibayar dimuka sebesar Rp8,75 miliar, piutang usaha dari pihak berelasi yang turun Rp5,65 miliar, serta aset tetap yang menyusut Rp3,07 miliar akibat beban penyusutan selama semester tersebut. Di sisi lain, total liabilitas naik 15,27 persen menjadi Rp39,73 miliar, didorong oleh beban akrual atau biaya yang masih harus dibayar yang melonjak dari Rp3,23 miliar menjadi Rp10,41 miliar.",
+   "Kombinasi aset yang menyusut dan liabilitas yang membesar membuat ekuitas perusahaan berbalik menjadi negatif Rp2,59 miliar, turun Rp23,25 miliar dari posisi akhir 2025 yang masih Rp20,66 miliar. Penyebab utamanya adalah rugi bersih semester I 2026 sebesar Rp23,27 miliar, melonjak tajam dari rugi Rp2,99 miliar pada periode yang sama tahun lalu. Rugi ini berasal dari rugi kotor Rp11,46 miliar karena beban pokok pendapatan membengkak menjadi Rp21,53 miliar, nyaris dua kali lipat dari Rp12,01 miliar tahun sebelumnya, sementara penjualan bersih hanya naik tipis dari Rp9,13 miliar menjadi Rp10,08 miliar. Rugi bersih per saham dasar ikut melebar dari Rp3,83 menjadi Rp29,79 per saham. Meski demikian, arus kas dari aktivitas operasi justru berbalik positif menjadi Rp913,75 juta, dari sebelumnya negatif Rp463,04 juta, yang berarti secara kas perusahaan masih bisa menerima lebih banyak uang dari pelanggan dibanding yang dikeluarkan untuk operasional sehari-hari.",
+   "Dalam catatan atas laporan keuangan, manajemen mengungkapkan rencana penjualan dua bidang tanah bersertifikat, yakni SHGB No. 10/Cimareme seluas 245 meter persegi dan SHGB No. 5/Cipeundeuy seluas 18.045 meter persegi, yang hasilnya akan digunakan untuk melunasi utang kepada perseorangan bernama Handoyo Guntoro. Perseroan juga berencana menyewa lahan di Boyolali, yang menurut manajemen diperlukan untuk menjaga kelangsungan usaha. Opini auditor atas laporan keuangan ini tetap wajar tanpa modifikasian. Terpisah, laporan ini juga mencatat perubahan susunan Dewan Komisaris berdasarkan RUPS Tahunan 11 Juni 2026, dengan Donny Hartanto menggantikan Sari Rahmawati sebagai Komisaris Independen sekaligus Ketua Komite Audit."
+  ],
+  "fotoAdegan": "Factory workers inspecting large rolls of white nonwoven fabric on an industrial production line under fluorescent lighting.",
+  "takeaway": "Laporan ini jelas negatif bagi FLMC, karena yang memicu kewajiban lapor ke bursa bukan sekadar perubahan pos biasa, melainkan ekuitas perusahaan yang jatuh ke posisi negatif setelah rugi bersih melonjak hampir delapan kali lipat dibanding semester yang sama tahun lalu. Ekuitas negatif berarti total utang perusahaan sudah lebih besar daripada total hartanya, sehingga seluruh aset yang dijual pun belum cukup menutup semua utang, dan rugi per saham yang melebar dari Rp3,83 menjadi Rp29,79 menunjukkan setiap lembar saham menanggung kerugian yang jauh lebih besar dari tahun lalu. Satu sisi yang agak menahan tekanan adalah arus kas dari operasi yang justru positif, tanda uang tunai yang masuk dari pelanggan masih lebih besar dari yang keluar untuk biaya sehari-hari, meski itu belum cukup mengimbangi pembengkakan beban pokok pendapatan yang jadi akar rugi kotor perusahaan. Yang perlu dipantau selanjutnya adalah realisasi rencana penjualan dua bidang tanah di Cimareme dan Cipeundeuy serta penyewaan lahan di Boyolali, karena manajemen sendiri mengaitkan langkah itu dengan kelangsungan usaha, sementara dokumen ini tidak menyebut tenggat waktu kapan transaksi tersebut akan dieksekusi.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bswd-gelar-public-expose-insidental-atas-permintaan-ojk",

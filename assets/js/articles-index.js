@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "king-dirikan-anak-usaha-baru-di-bisnis-keamanan",
+  "category": "Aksi Korporasi",
+  "title": "KING Dirikan Anak Usaha Baru di Bisnis [Keamanan]",
+  "deck": "PT Hoffmen Cleanindo Tbk (KING) mendirikan PT Galaksi Hoffmen Sekuritindo dengan kepemilikan 70%, khusus menggarap jasa penyedia tenaga keamanan.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KING",
+   "anak usaha",
+   "jasa keamanan",
+   "ekspansi bisnis"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0c216d3c58_f26d852610.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-kucurkan-pinjaman-rp4-triliun-ke-nac-dan-ngc-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Kucurkan Pinjaman Rp4 Triliun ke NAC dan NGC [Afiliasi]",
+  "deck": "NexAI Digital Infrastruktur menyalurkan pinjaman pemegang saham senilai total Rp4 triliun ke dua anak usahanya tanpa jaminan, dan dikecualikan dari persetujuan RUPS karena tergolong transaksi afiliasi.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "transaksi afiliasi",
+   "transaksi material",
+   "pinjaman pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c3f77ef5a_5e945725aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cybr-direktur-tambah-saham-7-3-juta-lembar-lewat-pembelian",
   "category": "Aksi Korporasi",
   "title": "CYBR: Direktur [Tambah] Saham 7,3 Juta Lembar Lewat Pembelian",
@@ -857,6 +889,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "nayz-rombak-direksi-saiko-resmi-jadi-pemegang-saham",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Rombak Direksi, [SAIKO] Resmi Jadi Pemegang Saham",
+  "deck": "RUPSLB NAYZ menyetujui dua direksi/komisaris baru asal Thailand dan menegaskan masuknya SAIKO Consultancy Pte Ltd sebagai pemegang saham baru Perseroan.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NAYZ",
+   "RUPSLB",
+   "Direksi",
+   "Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c7e92289f9_d780a8c59d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bcic-holding-jepang-siapkan-suntikan-modal-akhir-2026",
   "category": "Aksi Korporasi",
   "title": "BCIC: Holding Jepang Siapkan [Suntikan Modal] Akhir 2026",
@@ -870,6 +918,22 @@ var ARTICLES = [
    "public expose"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ffd3e7696c_a89ca61310.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pyfa-usulkan-pelunasan-obligasi-dipercepat-ke-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "PYFA Usulkan [Pelunasan] Obligasi Dipercepat ke Desember 2026",
+  "deck": "Pyridam Farma mengundang pemegang Obligasi Berkelanjutan I Tahap I 2022 ke RUPO 19 Oktober 2026 untuk menyetujui pelunasan lebih awal pada 7 Desember 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PYFA",
+   "obligasi",
+   "RUPO",
+   "Pyridam Farma"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d4be8eaa1_142be00ca2.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6413,70 +6477,6 @@ var ARTICLES = [
    "ekuitas negatif"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/29c27f8a23_c33a5b5d99.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-peringkat-turun-ke-idccc-obligasi-bergaransi-tetap-aaa",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: Peringkat Turun ke [idCCC], Obligasi Bergaransi Tetap AAA",
-  "deck": "PEFINDO menurunkan peringkat korporasi Waskita Karya dari idB menjadi idCCC dengan CreditWatch negatif, menyusul gagal bayar pokok obligasi yang dijamin pemerintah.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "PEFINDO",
-   "peringkat obligasi",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8da1f8c005_3228bfd492.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tgra-rugi-rp259-miliar-ekuitas-anjlok-83-persen",
-  "category": "Aksi Korporasi",
-  "title": "TGRA Rugi Rp259 Miliar, Ekuitas [Anjlok] 83 Persen",
-  "deck": "Laporan keuangan 2025 PT Terregra Asia Energy (TGRA) mencatat rugi bersih Rp259,5 miliar dan ekuitas turun 83 persen menjadi Rp51,4 miliar, disertai peringatan auditor soal kelangsungan usaha.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "Terregra Asia Energy",
-   "rugi bersih",
-   "kelangsungan usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260929100315-64445-0/FinancialStatement-2025-Tahunan-TGRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "crab-bagikan-dividen-rp2-saham-mayoritas-laba-ditahan",
-  "category": "Aksi Korporasi",
-  "title": "CRAB Bagikan [Dividen] Rp2/Saham, Mayoritas Laba Ditahan",
-  "deck": "RUPS Toba Surimi menyetujui dividen tunai Rp3,9 miliar dari laba bersih Rp22,84 miliar, sisanya ditahan sebagai modal kerja.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRAB",
-   "RUPS",
-   "dividen",
-   "Toba Surimi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/64339dad47_2de98aa75f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-buka-jadwal-rupslb-3-november-ini-tenggatnya",
-  "category": "Aksi Korporasi",
-  "title": "INPS Buka Jadwal [RUPSLB] 3 November, Ini Tenggatnya",
-  "deck": "INPS menetapkan tenggat pemegang saham per 9 Oktober 2026 dan batas usulan agenda 5 Oktober 2026 menjelang RUPSLB soal penambahan modal tanpa hak memesan efek terlebih dahulu.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "RUPSLB",
-   "PMTHMETD",
-   "GIGP"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1856472da8_e8f7a631e2.pdf",
   "sourceLabel": "IDX"
  }
 ];

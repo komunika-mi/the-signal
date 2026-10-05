@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "king-dirikan-anak-usaha-baru-di-bisnis-keamanan",
+  "category": "Aksi Korporasi",
+  "title": "KING Dirikan Anak Usaha Baru di Bisnis [Keamanan]",
+  "deck": "PT Hoffmen Cleanindo Tbk (KING) mendirikan PT Galaksi Hoffmen Sekuritindo dengan kepemilikan 70%, khusus menggarap jasa penyedia tenaga keamanan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T23:32:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0c216d3c58_f26d852610.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KING",
+  "tags": [
+   "KING",
+   "anak usaha",
+   "jasa keamanan",
+   "ekspansi bisnis"
+  ],
+  "body": [
+   "PT Hoffmen Cleanindo Tbk (KING) mengumumkan pendirian anak usaha baru bernama PT Galaksi Hoffmen Sekuritindo pada 1 Oktober 2026. Perusahaan baru ini berkedudukan di Jalan Raya Jembatan III Nomor 8, Penjaringan, Jakarta Utara, alamat yang sama dengan kantor pusat KING, dan khusus bergerak di bidang jasa penyedia tenaga kerja keamanan. KING mengambil porsi kepemilikan sebesar 70 persen di anak usaha tersebut.",
+   "Manajemen menyebut nilai transaksi pendirian ini sebesar Rp7 miliar. Jika dibandingkan dengan ekuitas KING per 31 Desember 2025 yang tercatat Rp68,86 miliar, rasionya sebesar 10,17 persen, masih di bawah ambang batas 20 persen yang membuat sebuah transaksi dikategorikan material. Karena itu, perseroan menyatakan aksi ini bukan transaksi material maupun transaksi afiliasi berdasarkan POJK Nomor 17/2020 dan POJK Nomor 42/2020, sehingga tidak memerlukan persetujuan pemegang saham lewat RUPS.",
+   "Direksi KING, yang ditandatangani oleh Presiden Direktur Rudy Japarto, menyatakan pembentukan anak usaha ini bertujuan mendukung kegiatan usaha perseroan dan mengaktifkan perannya sebagai perusahaan induk (holding). KING sendiri selama ini sudah bergerak di jasa cleaning service, security, washroom hygiene, dan penyedia tenaga kerja, sehingga unit baru ini memperdalam lini keamanan yang sudah menjadi bagian dari bisnis inti perseroan."
+  ],
+  "fotoAdegan": "Uniformed security guards standing near the entrance of a modern Jakarta office building, soft morning light",
+  "takeaway": "Laporan ini condong netral bagi KING: perseroan menanamkan modal sekitar Rp7 miliar untuk mendirikan anak usaha di lini bisnis yang sudah menjadi kompetensinya, tanpa utang baru dan tanpa perlu restu pemegang saham karena nilainya di bawah ambang transaksi material. Pos yang tersentuh adalah ekuitas perseroan, yaitu total kekayaan bersih yang jadi milik pemegang saham, karena rasio 10,17 persen itu dihitung dari porsi ekuitas yang dipakai untuk modal anak usaha baru, bukan dari kas operasional biasa, jadi pelaku pasar memperhatikannya untuk menilai seberapa besar bagian modal perseroan yang terkunci di aset baru. Dampak ke kas dan laba per saham belum terlihat sekarang karena perusahaan sendiri menyebut kondisi keuangannya belum terdampak signifikan. Yang perlu dipantau selanjutnya adalah laporan keuangan konsolidasi KING ke depan, yang menurut dokumen ini diharapkan mulai menangkap kontribusi dari PT Galaksi Hoffmen Sekuritindo, serta apakah KING menambah modal lagi di anak usaha ini seiring unit itu mulai beroperasi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mglv-kucurkan-pinjaman-rp4-triliun-ke-nac-dan-ngc-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Kucurkan Pinjaman Rp4 Triliun ke NAC dan NGC [Afiliasi]",
+  "deck": "NexAI Digital Infrastruktur menyalurkan pinjaman pemegang saham senilai total Rp4 triliun ke dua anak usahanya tanpa jaminan, dan dikecualikan dari persetujuan RUPS karena tergolong transaksi afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T22:31:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c3f77ef5a_5e945725aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "transaksi afiliasi",
+   "transaksi material",
+   "pinjaman pemegang saham"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menandatangani dua perjanjian pinjaman pemegang saham pada 2 Oktober 2026. Perseroan bertindak sebagai kreditur bagi dua anak usahanya: PT Nextier Askara Center (NAC) menerima plafon pinjaman maksimal Rp1,5 triliun, dan PT Nextier GenAi Center (NGC) menerima plafon maksimal Rp2,5 triliun, sehingga total nilai kedua fasilitas mencapai Rp4 triliun. Kedua pinjaman dikenakan bunga 7 persen per tahun, berlaku sejak tanggal pencairan masing-masing sampai 31 Desember 2028, dan menurut dokumen keterbukaan informasi, jaminan atas pinjaman ini tidak diatur alias tidak ada agunan yang dipasang.",
+   "Nilai transaksi ini tergolong Transaksi Material menurut POJK 17/2020 karena masing-masing fasilitas melebihi 50 persen dari ekuitas Perseroan berdasarkan laporan keuangan konsolidasian per 30 April 2026. Transaksi ini juga tergolong Transaksi Afiliasi karena NAC dan NGC adalah perusahaan terkendali yang 99,9 persen sahamnya dimiliki oleh Perseroan. Karena itu, berdasarkan Pasal 11 huruf a POJK 17/2020, Perseroan tidak wajib memakai jasa penilai independen maupun meminta persetujuan RUPS atas transaksi ini. Kewajiban yang tersisa hanya mengumumkan keterbukaan informasi ini kepada pemegang saham, sesuai Pasal 6 ayat 1 huruf b beleid yang sama.",
+   "NAC, berkedudukan di Jakarta Utara dan bergerak di bidang pengolahan data serta infrastruktur komputasi, sahamnya dimiliki 99,99 persen oleh Perseroan dan 0,01 persen oleh Glenn T Sugita, yang menjabat Komisaris di NAC sekaligus Komisaris di Perseroan. NGC, berkedudukan di Kabupaten Batang dan bergerak di bidang telekomunikasi, pemrograman komputer, serta infrastruktur komputasi, memiliki struktur kepemilikan serupa di bawah Perseroan. Direktur NAC, Suriyanto, juga menjabat Komisaris Utama di Perseroan, rangkap jabatan semacam ini menjadi salah satu dasar transaksi digolongkan sebagai Transaksi Afiliasi. Dari sisi pemegang saham Perseroan sendiri, berdasarkan daftar pemegang saham per 30 September 2026, NDC menguasai 62,71 persen saham MGLV, sedangkan 37,29 persen sisanya dimiliki publik dengan kepemilikan masing-masing di bawah 5 persen."
+  ],
+  "fotoAdegan": "Technicians walking between rows of server racks in a humming data center, blue indicator lights, wide angle view",
+  "takeaway": "Transaksi ini kami nilai netral bagi NexAI Digital Infrastruktur, karena uangnya tidak keluar dari grup, melainkan berpindah dari perusahaan induk ke dua anak usaha yang 99,9 persen sahamnya memang dimiliki sendiri oleh Perseroan. Yang tersentuh adalah ekuitas, yaitu modal sendiri perusahaan, karena pinjaman Rp4 triliun ini disebut melebihi separuh ekuitas Perseroan per laporan keuangan 30 April 2026, sehingga porsi modal yang terpakai untuk mendanai anak usaha tergolong besar, dan karena tidak ada agunan yang dipasang, risikonya langsung menimpa laporan keuangan induk kalau kelak anak usaha kesulitan membayar. Dari sisi kas, dana sebesar itu berubah dari uang tunai menjadi piutang kepada anak usaha, meski bunga 7 persen per tahun yang dikenakan tetap memberi pemasukan bunga bagi induk. Yang perlu dipantau pemegang saham berikutnya adalah penggunaan dana oleh NAC dan NGC untuk perluasan infrastruktur komputasi serta kemampuan keduanya melunasi pinjaman ini sebelum jatuh tempo fasilitas pada 31 Desember 2028.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "cybr-direktur-tambah-saham-7-3-juta-lembar-lewat-pembelian",
   "category": "Aksi Korporasi",
   "title": "CYBR: Direktur [Tambah] Saham 7,3 Juta Lembar Lewat Pembelian",
@@ -1383,6 +1435,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "nayz-rombak-direksi-saiko-resmi-jadi-pemegang-saham",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Rombak Direksi, [SAIKO] Resmi Jadi Pemegang Saham",
+  "deck": "RUPSLB NAYZ menyetujui dua direksi/komisaris baru asal Thailand dan menegaskan masuknya SAIKO Consultancy Pte Ltd sebagai pemegang saham baru Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T14:48:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c7e92289f9_d780a8c59d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "RUPSLB",
+   "Direksi",
+   "Pemegang Saham"
+  ],
+  "body": [
+   "PT Hassana Boga Sejahtera Tbk (NAYZ) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Jumat, 2 Oktober 2026, di Aleesha Venue, Jagakarsa, Jakarta Selatan. Rapat dihadiri pemegang saham yang mewakili 1.479.291.806 saham atau 58,01 persen dari total 2.550.011.472 saham Perseroan, sehingga kuorum terpenuhi sesuai aturan OJK.",
+   "Agenda pertama, persetujuan perubahan susunan Direksi dan Dewan Komisaris, disetujui 1.479.291.706 saham atau 99,999 persen suara yang hadir, dengan 100 saham menolak dan 400 saham abstain. Rapat mengangkat Nusttanakit Sasiarnon sebagai Direktur dan Sawin Laosethakul sebagai Komisaris, keduanya efektif sejak 2 Oktober 2026 hingga 30 Juni 2027. Susunan baru menjadi: Direktur Utama Dody Arifianto, Direktur Eko Safrudin, dan Direktur Nusttanakit Sasiarnon; Komisaris Utama Teuku Chairul Wisal, Komisaris Independen Bambang Wijananto, dan Komisaris Sawin Laosethakul.",
+   "Agenda kedua, penegasan susunan pemegang saham Perseroan sehubungan dengan masuknya SAIKO Consultancy Pte Ltd, disetujui dengan jumlah suara yang sama, 1.479.291.706 saham atau 99,999 persen, dengan 100 saham menolak dan 11.131.800 saham abstain. Rapat juga memberi kuasa kepada Direksi untuk menjalankan segala tindakan yang diperlukan terkait kedua keputusan tersebut sesuai peraturan yang berlaku."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a stage inside a modern conference hall in Jakarta, soft morning light through tall windows",
+  "takeaway": "Laporan ini netral bagi NAYZ, karena pergantian direksi dan komisaris serta penegasan pemegang saham ini hanya memformalkan proses perubahan pengendali yang sudah diumumkan lewat tender wajib Rp75 per saham sebelumnya, belum ada perubahan pada angka keuangan Perseroan. Pos yang perlu diperhatikan investor ke depan justru jumlah saham beredar dan laba per saham, karena rencana akuisisi 75 persen saham BTL senilai US$125 juta yang dibiayai lewat penerbitan saham baru nonkas bisa menambah jumlah saham beredar dan mengencerkan laba per saham pemegang saham lama. Yang perlu dipantau selanjutnya adalah berakhirnya masa jabatan direksi dan komisaris baru ini pada RUPS Tahunan 2027, serta kelanjutan proses tender wajib dan akuisisi BTL yang menjadi latar belakang masuknya SAIKO Consultancy Pte Ltd sebagai pemegang saham Perseroan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bcic-holding-jepang-siapkan-suntikan-modal-akhir-2026",
   "category": "Aksi Korporasi",
   "title": "BCIC: Holding Jepang Siapkan [Suntikan Modal] Akhir 2026",
@@ -1407,6 +1485,32 @@ var ARTICLES = [
   "fotoAdegan": "A customer completing a transaction at a modern bank teller counter inside a Jakarta branch, soft indoor lighting, no readable signage visible",
   "takeaway": "Laporan ini bersifat netral bagi BCIC karena sinyal baik dan sinyal yang perlu dicermati muncul berimbang: biaya dana turun, kredit bermasalah mengecil, dan modal bertambah, tetapi kualitas laba masih rapuh dan konsentrasi kredit ke sektor komoditas menambah risiko. Yang paling disorot adalah margin bunga bersih (NIM), yaitu selisih antara bunga yang diterima bank dari kredit dan bunga yang dibayarkan ke nasabah penyimpan dana, yang cuma 2 persen meski bunga kredit dipatok 12 persen untuk rupiah, artinya biaya operasional dan biaya dana lain masih menggerus keuntungan inti bank. Rasio kecukupan modal (CAR) yang naik ke 14,53 persen menunjukkan bank punya penyangga lebih tebal untuk menyerap kerugian, sementara laba Rp80 miliar belum dipotong pajak badan sehingga angka bersihnya di akhir tahun bisa lebih kecil. Yang perlu dipantau berikutnya adalah realisasi suntikan modal dari pemegang saham induk di Jepang serta pencapaian target free float 15 persen lewat pelepasan saham pengendali, dua hal yang disebut manajemen akan terjadi sampai akhir tahun 2026 namun belum punya nilai dan tanggal pasti.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pyfa-usulkan-pelunasan-obligasi-dipercepat-ke-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "PYFA Usulkan [Pelunasan] Obligasi Dipercepat ke Desember 2026",
+  "deck": "Pyridam Farma mengundang pemegang Obligasi Berkelanjutan I Tahap I 2022 ke RUPO 19 Oktober 2026 untuk menyetujui pelunasan lebih awal pada 7 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T14:37:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d4be8eaa1_142be00ca2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PYFA",
+  "tags": [
+   "PYFA",
+   "obligasi",
+   "RUPO",
+   "Pyridam Farma"
+  ],
+  "body": [
+   "PT Pyridam Farma Tbk (PYFA) melalui wali amanat PT Bank KB Indonesia Tbk (sebelumnya PT Bank KB Bukopin Tbk) mengundang pemegang Obligasi Berkelanjutan I Pyridam Farma Tahap I Tahun 2022 untuk menghadiri Rapat Umum Pemegang Obligasi (RUPO) pada Senin, 19 Oktober 2026, pukul 10.00 WIB. Rapat akan digelar di kantor Pyridam Farma, Sinar Mas Land Plaza Sudirman lantai 12, Jalan Jenderal Sudirman Kavling 21, Jakarta Selatan. Panggilan ini mengacu pada Perjanjian Perwaliamanatan Obligasi Nomor 33 tertanggal 30 November 2021, yang terakhir diubah melalui Akta Perubahan V Nomor 12 tanggal 10 Juli 2023.",
+   "Agenda utama RUPO adalah persetujuan pelunasan lebih awal atas Obligasi Berkelanjutan I Pyridam Farma Tahap I Tahun 2022, yang rencananya dimajukan menjadi 7 Desember 2026, atau pada tanggal lain sebelum jadwal pelunasan yang tercantum dalam Prospektus Penawaran Umum obligasi tersebut yang diterbitkan pada 2 Maret 2022. Rapat ini diusulkan oleh Pyridam Farma sendiri selaku emiten, dan agenda kedua mencakup hal-hal lain yang terkait dengan rencana pelunasan dipercepat tersebut.",
+   "RUPO dinyatakan sah apabila dihadiri pemegang obligasi atau kuasanya yang mewakili sekurang-kurangnya tiga perempat dari jumlah obligasi yang belum dilunasi, tidak termasuk obligasi yang dimiliki emiten atau afiliasinya. Keputusan baru mengikat jika disetujui oleh sekurang-kurangnya tiga perempat dari obligasi yang hadir dalam rapat. Jika kuorum kehadiran ini tidak tercapai, wali amanat wajib menggelar RUPO kedua dalam rentang 14 hingga 21 hari kalender setelah RUPO pertama. Pemegang obligasi yang berhak hadir adalah yang memiliki Konfirmasi Tertulis Untuk RUPO (KTUR) dan namanya tercatat di Kustodian Sentral Efek Indonesia (KSEI)."
+  ],
+  "fotoAdegan": "Workers in white coats inspecting rows of medicine blister packs on a pharmaceutical production line, bright clean room lighting",
+  "takeaway": "Laporan ini condong positif bagi Pyridam Farma, sebab usulan pelunasan obligasi lebih awal datang dari emiten sendiri, bukan tekanan dari kreditor, yang biasanya menandakan perusahaan punya kas lebih longgar atau ingin memangkas beban bunga sebelum jatuh tempo normal. Yang tersentuh di sini adalah utang dan beban bunga perusahaan, karena kalau pelunasan dipercepat ini benar terjadi pada 7 Desember 2026, saldo utang obligasi Pyridam Farma berkurang lebih cepat dari jadwal semula dan beban bunga yang harus dibayar ke depan ikut terpangkas. Di sisi lain, perusahaan perlu menyiapkan dana tunai dalam jumlah besar sekaligus untuk membayar pelunasan ini, sehingga arus kasnya perlu dicermati agar pembayaran tidak mengganggu operasional sehari-hari. Yang perlu dipantau selanjutnya adalah hasil pemungutan suara di RUPO pada 19 Oktober 2026, karena jika kuorum tiga perempat pemegang obligasi tidak tercapai, wali amanat harus menggelar RUPO kedua dalam 14 sampai 21 hari kalender berikutnya, yang berarti kepastian soal pelunasan dipercepat ke 7 Desember 2026 bisa molor.",
+  "sentimen": "positif"
  },
  {
   "slug": "cash-ajukan-penyesuaian-kbli-dan-ubah-penggunaan-dana",

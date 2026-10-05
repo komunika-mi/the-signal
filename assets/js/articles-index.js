@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kesejahteraan-rakyat-jadi-tolok-ukur-sukses-ekonomi",
+  "category": "Makroekonomi",
+  "title": "Kesejahteraan Rakyat Jadi [Tolok Ukur] Sukses Ekonomi",
+  "deck": "Penulis buku Ekonomi Pancasila, Djoni Sudjatmoko, menilai kesejahteraan rakyat, bukan sekadar angka pertumbuhan, seharusnya jadi ukuran utama keberhasilan pembangunan ekonomi.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/kesejahteraan-rakyat-jadi-tolok-ukur-sukses-ekonomi.jpg",
+  "imageV": "muve5ibt",
+  "tags": [
+   "UMKM",
+   "Ekonomi Pancasila",
+   "MBG",
+   "KDMP"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471338-kesejahteraan-rakyat-jadi-indikator-utama-keberhasilan-pembangunan-ekonomi-indonesia"
+ },
+ {
   "slug": "mljk-angkat-oemi-vierta-moerdika-jadi-direktur-utama",
   "category": "Aksi Korporasi",
   "title": "MLJK Angkat Oemi Vierta Moerdika Jadi [Direktur Utama]",
@@ -6464,22 +6481,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ad99e083a_3dbda5c41e.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-perluas-program-hijau-gozero-ke-klangon-sleman",
-  "category": "BUMN",
-  "title": "Telkom Perluas Program Hijau [GoZero%] ke Klangon, Sleman",
-  "deck": "Telkom lanjutkan program keberlanjutan GoZero% ke Bukit Klangon, Sleman, dengan konservasi Merapi, pengelolaan sampah terpadu, dan pengembangan EcoCamp Klangon bersama warga.",
-  "date": "28 September 2026",
-  "image": "assets/img/telkom-perluas-program-hijau-gozero-ke-klangon-sleman.jpg",
-  "imageV": "mule68je",
-  "tags": [
-   "Telkom",
-   "GoZero%",
-   "Sleman",
-   "Keberlanjutan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470014-gozero-goes-to-klangon-telkom-bangun-ekosistem-keberlanjutan-berbasis-konservasi-dan-pemberdayaan-masyarakat"
  }
 ];

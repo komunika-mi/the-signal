@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "9oyVVSNsJo8",
+  "title": "DPR Gelar Rapat Keputusan Tingkat I RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "tvOneNews",
+  "summary": "DPR RI menggelar rapat kerja pengambilan keputusan tingkat pertama atas Rancangan Undang-Undang Pelindungan Ketenagakerjaan, dipimpin Wakil Ketua DPR Sufmi Dasco Ahmad.",
+  "takeaway": "Perkembangan RUU ini penting diikuti karena akan mengubah aturan main hubungan kerja antara pengusaha dan pekerja di Indonesia."
+ },
+ {
+  "id": "8W3Ad0D7w_E",
+  "title": "Pemerintah dan DPR Sepakati RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Utama",
+  "summary": "Pemerintah menyatakan menerima RUU Pelindungan Ketenagakerjaan dan menyetujui pembahasannya dilanjutkan ke tingkat II untuk diputuskan dalam rapat paripurna DPR.",
+  "takeaway": "Kesepakatan ini menandai RUU Ketenagakerjaan semakin dekat disahkan, sesuatu yang berdampak langsung pada iklim ketenagakerjaan dan dunia usaha."
+ },
+ {
   "id": "3FdnxDatEsU",
   "title": "Akselerasi EV di Indonesia: Kebijakan, Tantangan, dan Hilirisasi Industri",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Mixue kini memprioritaskan peningkatan kualitas produk, layanan, dan profitabilitas dari sekitar 2.000 gerainya di Indonesia, ketimbang mengejar target pembukaan toko baru.",
   "takeaway": "Pergeseran strategi ini relevan bagi pembaca ekonomi karena menandai perubahan pola bisnis waralaba makanan minuman di Indonesia dari ekspansi jumlah gerai ke efisiensi dan profitabilitas."
- },
- {
-  "id": "2eJh0E0aX_U",
-  "title": "DEN-DPI dan GovTech: Perlu Akuntabilitas Anggaran yang Jelas",
-  "category": "Makroekonomi",
-  "program": "IBF",
-  "summary": "Rencana pembukaan rekening bank massal yang diperkirakan membutuhkan anggaran APBN hingga Rp11 triliun menuai pro dan kontra, sementara sejumlah pihak mendorong perbaikan Data Tunggal Sosial sebagai alternatif.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut efisiensi penggunaan anggaran negara untuk program inklusi keuangan."
- },
- {
-  "id": "uXO7E1yTWbg",
-  "title": "Rengginang Bertahan di Tengah Gempuran Jajanan Modern",
-  "category": "UMKM",
-  "program": "Kabar Siang",
-  "summary": "Rengginang, camilan tradisional berbahan ketan, masih bertahan di pasar meski bersaing dengan beragam jajanan modern yang terus bermunculan.",
-  "takeaway": "Menggambarkan daya tahan pelaku usaha kuliner tradisional di tengah persaingan industri makanan ringan modern."
  }
 ];

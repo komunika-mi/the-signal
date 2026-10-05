@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kesejahteraan-rakyat-jadi-tolok-ukur-sukses-ekonomi",
+  "category": "Makroekonomi",
+  "title": "Kesejahteraan Rakyat Jadi [Tolok Ukur] Sukses Ekonomi",
+  "deck": "Penulis buku Ekonomi Pancasila, Djoni Sudjatmoko, menilai kesejahteraan rakyat, bukan sekadar angka pertumbuhan, seharusnya jadi ukuran utama keberhasilan pembangunan ekonomi.",
+  "image": "assets/img/kesejahteraan-rakyat-jadi-tolok-ukur-sukses-ekonomi.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T20:58:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471338-kesejahteraan-rakyat-jadi-indikator-utama-keberhasilan-pembangunan-ekonomi-indonesia",
+  "tags": [
+   "UMKM",
+   "Ekonomi Pancasila",
+   "MBG",
+   "KDMP"
+  ],
+  "body": [
+   "Penulis buku Ekonomi Pancasila, Djoni Sudjatmoko, mengingatkan bahwa keberhasilan pembangunan ekonomi Indonesia semestinya diukur dari seberapa sejahtera rakyatnya, bukan semata dari angka pertumbuhan ekonomi. Menurutnya pertumbuhan hanya alat, sementara tujuan akhirnya adalah membuka lapangan kerja, menaikkan pendapatan, memperkuat modal rakyat, dan membuat semakin banyak usaha kecil bisa berkembang. Pandangan ini penting karena menyinggung cara pemerintah dan publik menilai apakah kebijakan ekonomi benar-benar sampai ke masyarakat bawah, bukan hanya terlihat baik di angka statistik.",
+   "Djoni mengajukan empat langkah untuk mempercepat kesejahteraan lewat pendekatan yang ia sebut Ekonomi Pancasila. Pertama, menempatkan UMKM sebagai pelaku utama pembangunan, bukan sekadar penerima bantuan. Kedua, mempermudah proses perizinan usaha. Ketiga, menyederhanakan sistem pajak bagi UMKM sekaligus memberi insentif khusus untuk usaha mikro dan kecil. Keempat, menyatukan empat hal sekaligus, yaitu akses pasar, pembiayaan, perizinan, dan perpajakan, agar usaha rakyat punya ruang tumbuh yang lebih jelas.",
+   "Ia menegaskan UMKM butuh ekosistem yang memberi akses ke pasar dan pembiayaan, bukan hanya bantuan sesaat, dengan alur yang ia gambarkan sebagai rangkaian dari membuka pasar, memperoleh keuntungan wajar, mengumpulkan modal, mendapat pembiayaan, memperluas usaha, hingga akhirnya membuka lapangan kerja baru. Djoni juga mengaitkan tiga program berbeda, yaitu swasembada pangan, Makan Bergizi Gratis atau MBG, dan Koperasi Desa Merah Putih atau KDMP, sebagai program yang bisa dipertemukan lewat satu filosofi pembangunan ekonomi kerakyatan yang sama.",
+   "Baginya, ukuran keberhasilan program-program tersebut bukan pada pelaksanaannya semata, melainkan apakah program itu benar-benar membuat masyarakat lebih mudah bekerja dan berusaha, menambah modal, mengembangkan usaha, serta menaikkan pendapatan keluarga."
+  ],
+  "fotoAdegan": "Small market vendor arranging fresh vegetables at a stall while customers browse, bustling traditional Indonesian market in morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/04/25/680b7d4b4b48b-ilustrasi-ekonomi-kerakyatan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan Djoni Sudjatmoko di sini bukan kebijakan resmi pemerintah, melainkan usulan kerangka berpikir dari seorang penulis buku tentang cara menilai keberhasilan ekonomi. Pihak yang paling disinggung adalah pelaku UMKM, karena keempat langkah yang ia tawarkan, dari status subjek pembangunan, kemudahan izin, penyederhanaan pajak, sampai integrasi akses pasar dan pembiayaan, semuanya menyasar usaha mikro dan kecil. Berita ini belum menyebut angka target, tenggat waktu, atau aturan resmi yang mengadopsi usulan tersebut, sehingga belum bisa dipastikan apakah pandangan ini akan memengaruhi desain program seperti MBG, KDMP, atau swasembada pangan yang disebutnya. Yang perlu dicermati selanjutnya adalah ada tidaknya respons resmi dari pemerintah atau perubahan aturan pada program-program itu yang sejalan dengan empat langkah yang diusulkan.",
+  "imageV": "muve5ibt"
+ },
+ {
   "slug": "mljk-angkat-oemi-vierta-moerdika-jadi-direktur-utama",
   "category": "Aksi Korporasi",
   "title": "MLJK Angkat Oemi Vierta Moerdika Jadi [Direktur Utama]",

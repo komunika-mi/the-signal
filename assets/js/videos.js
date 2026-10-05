@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "9oyVVSNsJo8",
+  "title": "DPR Gelar Rapat Keputusan Tingkat I RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "tvOneNews",
+  "summary": "DPR RI menggelar rapat kerja pengambilan keputusan tingkat pertama atas Rancangan Undang-Undang Pelindungan Ketenagakerjaan, dipimpin Wakil Ketua DPR Sufmi Dasco Ahmad.",
+  "takeaway": "Perkembangan RUU ini penting diikuti karena akan mengubah aturan main hubungan kerja antara pengusaha dan pekerja di Indonesia.",
+  "terbit": "2026-10-05T12:45:57+00:00"
+ },
+ {
+  "id": "8W3Ad0D7w_E",
+  "title": "Pemerintah dan DPR Sepakati RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Utama",
+  "summary": "Pemerintah menyatakan menerima RUU Pelindungan Ketenagakerjaan dan menyetujui pembahasannya dilanjutkan ke tingkat II untuk diputuskan dalam rapat paripurna DPR.",
+  "takeaway": "Kesepakatan ini menandai RUU Ketenagakerjaan semakin dekat disahkan, sesuatu yang berdampak langsung pada iklim ketenagakerjaan dan dunia usaha.",
+  "terbit": "2026-10-05T13:56:08+00:00"
+ },
+ {
   "id": "3FdnxDatEsU",
   "title": "Akselerasi EV di Indonesia: Kebijakan, Tantangan, dan Hilirisasi Industri",
   "category": "Industri",

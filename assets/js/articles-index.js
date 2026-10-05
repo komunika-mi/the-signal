@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mtel-rombak-komite-audit-satu-anggota-mundur",
+  "category": "Aksi Korporasi",
+  "title": "MTEL Rombak Komite Audit, Satu Anggota [Mundur]",
+  "deck": "Mitratel mengubah susunan Komite Audit efektif 30 September 2026. Satu anggota mundur tanpa pengganti, komite menyusut dari empat menjadi tiga orang.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTEL",
+   "Komite Audit",
+   "Tata Kelola Perusahaan",
+   "Mitratel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0cd342d10a_c79e194c6c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tapg-direksi-george-oetomo-tambah-50-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi George Oetomo [Tambah] 50.000 Saham Lagi",
+  "deck": "Direksi TAPG, George Oetomo, menambah kepemilikan 50.000 saham lewat transaksi repurchase agreement senilai Rp1.900 per saham, transaksi ketiganya dalam sepekan terakhir.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-0374-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pssi-tambah-enam-kapal-baru-armada-jadi-53-unit",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Tambah [Enam] Kapal Baru, Armada Jadi 53 Unit",
+  "deck": "IMC Pelita Logistik menambah dua kapal tunda dan empat tongkang baru buatan Batam untuk memperkuat armada angkutan dry bulk.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "IMC Pelita Logistik",
+   "pelayaran",
+   "dry bulk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/42dae40a29_ef75dbed70.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asdf-siapkan-rp304-5-miliar-untuk-lunasi-obligasi-4-november",
+  "category": "Aksi Korporasi",
+  "title": "ASDF Siapkan [Rp304,5 Miliar] untuk Lunasi Obligasi 4 November",
+  "deck": "Astra Sedaya Finance (ASDF) menyatakan sudah menyiapkan dana Rp304,5 miliar untuk melunasi pokok dan kupon Obligasi Berkelanjutan VII Tahap II Seri A yang jatuh tempo 4 November 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASDF",
+   "obligasi",
+   "Astra Sedaya Finance",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/10231e08e3_a023259500.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pkpk-direksi-tambah-kepemilikan-saham-47-100-lembar",
+  "category": "Aksi Korporasi",
+  "title": "PKPK: Direksi Tambah Kepemilikan Saham [47.100] Lembar",
+  "deck": "Direktur Haryanto Sofian menambah kepemilikan saham PKPK sebanyak 47.100 lembar seharga Rp5.900 per saham, menaikkan hak suaranya dari 0,23% menjadi 0,24%.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PKPK",
+   "kepemilikan saham",
+   "direksi",
+   "insider"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7342-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bafi-terbitkan-obligasi-dan-sukuk-tahap-ii-senilai-rp902-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BAFI Terbitkan Obligasi dan Sukuk Tahap II Senilai [Rp902 Miliar]",
+  "deck": "BAFI merevisi informasi tambahan penawaran Obligasi Berkelanjutan IV dan Sukuk Mudharabah II tahap II senilai Rp902,26 miliar, dengan rating AAA dari Fitch dan Pefindo.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "sukuk mudharabah",
+   "multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cd9839c50a_3fc3fef3bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dana-pemulihan-bencana-sumut-dipercepat-rp4-82-triliun",
   "category": "Makroekonomi",
   "title": "Dana Pemulihan Bencana Sumut [Dipercepat] Rp4,82 Triliun",
@@ -21,6 +117,54 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/kinerja-apbn-di-provinsi-sumatera-utara-sampai-dengan-31-agustus-2026",
   "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "dewa-rombak-dua-anggota-komite-audit-efektif-1-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "DEWA Rombak Dua Anggota [Komite Audit], Efektif 1 Oktober 2026",
+  "deck": "Komite Audit Darma Henwa mengganti dua dari tiga anggotanya, menyisakan Agus Suharyono sebagai ketua, menyusul keputusan Dewan Komisaris yang berlaku sejak 1 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWA",
+   "Komite Audit",
+   "Tata Kelola Perusahaan",
+   "Darma Henwa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8899a098f5_642af4dcc3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nick-jawab-bursa-soal-arus-kas-negatif-imbas-konsolidasi",
+  "category": "Aksi Korporasi",
+  "title": "NICK Jawab Bursa Soal [Arus Kas] Negatif Imbas Konsolidasi",
+  "deck": "NICK merinci ke Bursa kenapa penerimaan dari pelanggan di laporan arus kas Juni 2026 negatif Rp2,03 miliar, imbas konsolidasi dua anak usaha baru, Energindo Nusantara dan Okansa Pacific.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "arus kas",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f98a987e7d_755ad5002e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bipp-victoria-investama-lepas-63-juta-saham-lagi-suara-7-36",
+  "category": "Aksi Korporasi",
+  "title": "BIPP: Victoria Investama [Lepas] 63 Juta Saham Lagi, Suara 7,36%",
+  "deck": "Victoria Investama Tbk melepas 63 juta saham BIPP pada 2 Oktober 2026 seharga Rp60 per saham, hak suaranya turun dari 8,62% menjadi 7,36%.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "Victoria Investama",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-6724-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ppri-direksi-jual-3-juta-saham-seharga-rp148",
@@ -6340,151 +6484,6 @@ var ARTICLES = [
    "Direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-0261-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-jadwalkan-rupsu-sukuk-tahap-ii-2021-28-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Jadwalkan [RUPSU] Sukuk Tahap II 2021, 28 Oktober",
-  "deck": "WIKA akan menggelar rapat pemegang Sukuk Mudharabah Berkelanjutan I Tahap II 2021 pada 28 Oktober 2026, menyusul rentetan rapat serupa untuk surat utang lain pasca status gagal bayar.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/de3926c5b0_3cdf35c958.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-jadwalkan-rupo-obligasi-tahap-ii-2021-28-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Jadwalkan [RUPO] Obligasi Tahap II 2021, 28 Oktober",
-  "deck": "WIKA akan menggelar RUPO untuk Obligasi Berkelanjutan I Tahap II 2021 pada 28 Oktober 2026, tanpa agenda yang diungkap dalam pemberitahuan awal ini.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "obligasi",
-   "RUPO",
-   "wali amanat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c6ba350c96_0e40b10d4b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-jadwalkan-rupo-obligasi-tahap-i-2020-27-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Jadwalkan RUPO Obligasi Tahap I 2020, [27 Oktober]",
-  "deck": "WIKA mengumumkan rencana RUPO untuk Obligasi Berkelanjutan I Tahap I Tahun 2020 pada 27 Oktober 2026, dengan panggilan resmi di media nasional pada 13 Oktober 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "RUPO",
-   "obligasi",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dbf3abec84_75691906e5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-kontrak-anjlok-65-butuh-dukungan-restrukturisasi",
-  "category": "Aksi Korporasi",
-  "title": "WIKA: Kontrak Anjlok 65%, Butuh Dukungan [Restrukturisasi]",
-  "deck": "WIKA memaparkan kontrak baru anjlok 65,47% sejak 2018 dan program penyehatan lewat restrukturisasi utang serta divestasi aset non-inti, menjelang public expose tahunan 1 Oktober 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "konstruksi BUMN",
-   "restrukturisasi utang",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3f7fec1b8e_6252c88bae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "goto-morgan-stanley-lepas-450-juta-saham-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "GOTO: Morgan Stanley [Lepas] 450 Juta Saham via Repo",
-  "deck": "Morgan Stanley melaporkan penjualan tidak langsung 450 juta saham GOTO lewat perjanjian repurchase seharga Rp27 per lembar, menggeser hak suaranya jadi 6,98 persen.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GOTO",
-   "Morgan Stanley",
-   "kepemilikan saham",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8273-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-revisi-aturan-papan-pemantauan-khusus-92-saham-keluar",
-  "category": "Pasar Modal",
-  "title": "BEI Revisi Aturan Papan Pemantauan Khusus, 92 Saham [Keluar]",
-  "deck": "BEI merevisi aturan Papan Pemantauan Khusus usai evaluasi full call auction; 92 saham keluar dan 42 saham tetap tertahan mulai hari ini.",
-  "date": "28 September 2026",
-  "image": "assets/img/bei-revisi-aturan-papan-pemantauan-khusus-92-saham-keluar.jpg",
-  "imageV": "mul2nl0w",
-  "tags": [
-   "BEI",
-   "Papan Pemantauan Khusus",
-   "Full Call Auction",
-   "Pasar Modal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469916-bei-ubah-aturan-papan-pemantauan-khusus-92-saham-keluar-mulai-hari-ini"
- },
- {
-  "slug": "smcb-ganti-komisaris-utama-lewat-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "SMCB Ganti [Komisaris Utama] Lewat RUPSLB",
-  "deck": "RUPSLB SMCB mengangkat Daniel Tumpal S. Simanjuntak sebagai Komisaris Utama baru, menyetujui revisi anggaran dasar, dan mendelegasikan persetujuan rencana jangka panjang ke Dewan Komisaris.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMCB",
-   "RUPSLB",
-   "Komisaris Utama",
-   "Solusi Bangun Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b10593a9cb_1142144ec8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tebe-catat-laba-bersih-s1-2026-turun-27-6-jadi-rp20-1-m",
-  "category": "Aksi Korporasi",
-  "title": "TEBE Catat Laba Bersih S1 2026 Turun [27,6%] jadi Rp20,1 M",
-  "deck": "Materi public expose TEBE ungkap laba bersih semester I 2026 turun 27,6% jadi Rp20,1 miliar, namun laba Juli-Agustus melonjak dan ekspansi trading batubara mulai jalan.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEBE",
-   "kinerja keuangan",
-   "public expose",
-   "ekspansi usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/468e1ad34b_8986753afa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smmt-gelar-rupslb-ubah-nama-perusahaan-dan-susunan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "SMMT Gelar RUPSLB, [Ubah] Nama Perusahaan dan Susunan Direksi",
-  "deck": "Golden Eagle Energy (SMMT) memanggil RUPSLB pada 20 Oktober 2026 untuk membahas perubahan nama perusahaan dalam anggaran dasar serta pergantian susunan Direksi dan Dewan Komisaris.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMT",
-   "RUPSLB",
-   "Golden Eagle Energy",
-   "Perubahan Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7c593b1da9_5c216d7ee7.pdf",
   "sourceLabel": "IDX"
  }
 ];

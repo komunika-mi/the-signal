@@ -3,6 +3,161 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mtel-rombak-komite-audit-satu-anggota-mundur",
+  "category": "Aksi Korporasi",
+  "title": "MTEL Rombak Komite Audit, Satu Anggota [Mundur]",
+  "deck": "Mitratel mengubah susunan Komite Audit efektif 30 September 2026. Satu anggota mundur tanpa pengganti, komite menyusut dari empat menjadi tiga orang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T11:57:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0cd342d10a_c79e194c6c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTEL",
+  "tags": [
+   "MTEL",
+   "Komite Audit",
+   "Tata Kelola Perusahaan",
+   "Mitratel"
+  ],
+  "body": [
+   "PT Dayamitra Telekomunikasi Tbk (MTEL), atau Mitratel, melaporkan perubahan susunan Komite Audit yang berlaku efektif 30 September 2026. Dalam perubahan ini, Sarimin Mietra Sardi berhenti dari posisinya sebagai anggota komite dan tidak ada nama pengganti yang disebutkan dalam laporan, sehingga jumlah anggota komite menyusut dari empat menjadi tiga orang.",
+   "Tiga posisi lain tidak berubah. Ibnu Sulistyo Pradipto, yang menjabat komisaris independen, tetap menjadi Ketua Komite Audit pada periode pertamanya. Gunawan Susanto, juga komisaris independen, tetap sebagai anggota pada periode pertama, sementara Muchamad Noor Hidayat tetap sebagai anggota dan kini memasuki periode kedua masa jabatannya.",
+   "Perubahan ini merujuk pada Keputusan Dewan Komisaris Mitratel Nomor 065/DEKOM-DMT/09/2026 serta Peraturan OJK Nomor 55/POJK.04/2015 tentang Pembentukan dan Pedoman Pelaksanaan Kerja Komite Audit. Laporan ke Otoritas Jasa Keuangan ditandatangani oleh Noorhayati Candrasuci, Direktur Investasi yang juga merangkap Sekretaris Perusahaan, dan dikirim pada 2 Oktober 2026."
+  ],
+  "fotoAdegan": "An empty corporate boardroom with a long table, leather chairs, and a city skyline visible through large windows, soft daylight.",
+  "takeaway": "Perubahan ini bersifat netral bagi fundamental Mitratel karena tidak menyentuh laporan keuangan, kepemilikan saham, atau operasional perusahaan, hanya mengubah struktur internal pengawasan audit. Komite audit bertugas mengawasi proses audit laporan keuangan dan memastikan auditor eksternal bekerja independen, jadi berkurangnya satu anggota tanpa pengganti bisa menambah beban kerja dua anggota yang tersisa meski belum tentu melemahkan fungsi pengawasan itu sendiri. Yang perlu dipantau adalah apakah Mitratel akan segera menunjuk pengganti untuk mengisi kursi kosong tersebut, serta apakah ada penjelasan lanjutan soal alasan pengunduran Sarimin Mietra Sardi, mengingat laporan ini tidak menyebutkan jadwal pengisian kembali atau agenda RUPS terkait hal itu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tapg-direksi-george-oetomo-tambah-50-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi George Oetomo [Tambah] 50.000 Saham Lagi",
+  "deck": "Direksi TAPG, George Oetomo, menambah kepemilikan 50.000 saham lewat transaksi repurchase agreement senilai Rp1.900 per saham, transaksi ketiganya dalam sepekan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T11:55:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-0374-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Triputra Agro Persada Tbk (TAPG), George Oetomo, melaporkan penambahan kepemilikan saham perusahaan sebanyak 50.000 lembar melalui transaksi pembelian tidak langsung dengan skema repurchase agreement. Transaksi terjadi pada 1 Oktober 2026 dengan harga Rp1.900 per saham, dan tujuan transaksi yang disebutkan dalam laporan adalah investasi. Laporan ini disampaikan ke Otoritas Jasa Keuangan pada 5 Oktober 2026 sesuai ketentuan POJK Nomor 4/2024 tentang kewajiban melaporkan kepemilikan saham oleh direksi dan komisaris.",
+   "Dengan penambahan ini, jumlah saham TAPG yang dimiliki George Oetomo naik dari 51.006.100 lembar menjadi 51.056.100 lembar. Porsi hak suaranya di perusahaan ikut bergeser tipis, dari 0,2569 persen menjadi 0,2572 persen.",
+   "Ini bukan transaksi pertama George Oetomo dalam waktu singkat. Pada 28 September 2026 ia tercatat menambah 350.000 saham, dan sehari setelahnya menambah lagi 100.000 saham, sehingga transaksi kali ini menjadi penambahan ketiga dalam kurang dari delapan hari."
+  ],
+  "fotoAdegan": "Palm oil plantation workers loading fresh fruit bunches onto a truck on a dirt estate road, tropical morning light",
+  "takeaway": "Laporan ini netral bagi TAPG karena penambahan 50.000 saham hanya setara sekitar 0,098 persen dari kepemilikan George Oetomo sendiri sebelum transaksi, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi atas prospek perusahaan. Transaksi semacam ini hanya memindahkan saham antar pihak di pasar dan tidak menambah jumlah saham beredar TAPG, jadi tidak berpengaruh pada laba per saham atau struktur modal perusahaan. Yang perlu dicermati adalah apakah pola pembelian bertahap ini berlanjut, karena dalam delapan hari terakhir George Oetomo sudah tiga kali menambah saham dengan total lebih dari 500.000 lembar, dan jika tren ini terus berjalan porsi kepemilikannya akan terus membesar meski masih dari basis yang kecil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pssi-tambah-enam-kapal-baru-armada-jadi-53-unit",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Tambah [Enam] Kapal Baru, Armada Jadi 53 Unit",
+  "deck": "IMC Pelita Logistik menambah dua kapal tunda dan empat tongkang baru buatan Batam untuk memperkuat armada angkutan dry bulk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T11:45:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/42dae40a29_ef75dbed70.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "IMC Pelita Logistik",
+   "pelayaran",
+   "dry bulk"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) mengumumkan penambahan enam kapal baru sebagai bagian dari program peremajaan armada untuk mendukung pengangkutan dry bulk dan kebutuhan operasional pelanggan. Keenam kapal itu terdiri dari dua kapal tunda (tugboat) dan empat tongkang (barge) yang dibangun di dua galangan kapal di Batam. Perusahaan menyebutkan setiap tongkang memiliki kapasitas angkut lebih dari 10.000 ton.",
+   "Per 30 September 2026, PSSI dan entitas anaknya mengoperasikan 47 unit armada, belum termasuk enam kapal baru tersebut, sehingga total armada perusahaan menjadi 53 unit begitu kapal-kapal baru ini resmi beroperasi. Perseroan menyatakan proses peremajaan akan dilakukan secara bertahap dengan mempertimbangkan kondisi pasar, kebutuhan operasional, dan biaya pembangunan kapal. Dalam laporan keterbukaan informasi ke bursa, perusahaan menyatakan tidak ada dampak dari peristiwa ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha.",
+   "Direktur PT IMC Pelita Logistik Tbk, Basuki Setiogroho, mengatakan program peremajaan armada ini mempertimbangkan kebutuhan operasional perusahaan maupun pelanggan. \"Peremajaan armada merupakan bagian dari upaya kami menjaga keandalan dan kesiapan armada dalam mendukung kegiatan pengangkutan dry bulk. Kehadiran kapal-kapal baru ini juga memberikan fleksibilitas yang lebih baik dalam pengalokasian kapal sesuai kebutuhan operasional pelanggan,\" ujar Basuki."
+  ],
+  "fotoAdegan": "Tugboat towing a loaded cargo barge along a calm strait near an Indonesian shipyard, overcast morning light",
+  "takeaway": "Laporan ini cenderung netral bagi PSSI karena menambah kapasitas armada tanpa ada angka keuangan baru yang bisa dinilai, dan perusahaan sendiri menyatakan tidak ada dampak terhadap kondisi keuangannya. Dokumen tidak menyebutkan nilai investasi pembangunan enam kapal ini atau sumber pendanaannya, sehingga belum bisa dinilai apakah ini menambah utang perusahaan atau justru dibiayai dari kas internal, dan efeknya terhadap arus kas maupun beban bunga perusahaan ke depan juga belum terlihat dari laporan ini. Yang bisa dipastikan hanya penambahan kapasitas fisik, dari 47 jadi 53 unit armada, yang berpotensi mendukung pendapatan jasa angkutan jika permintaan dry bulk tetap kuat. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal mendatang untuk melihat apakah penambahan kapal ini tercatat sebagai belanja modal baru dan bagaimana pembiayaannya, mengingat perusahaan sendiri menyebut peremajaan akan berjalan bertahap sesuai kondisi pasar dan biaya pembangunan kapal.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asdf-siapkan-rp304-5-miliar-untuk-lunasi-obligasi-4-november",
+  "category": "Aksi Korporasi",
+  "title": "ASDF Siapkan [Rp304,5 Miliar] untuk Lunasi Obligasi 4 November",
+  "deck": "Astra Sedaya Finance (ASDF) menyatakan sudah menyiapkan dana Rp304,5 miliar untuk melunasi pokok dan kupon Obligasi Berkelanjutan VII Tahap II Seri A yang jatuh tempo 4 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T11:22:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/10231e08e3_a023259500.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASDF",
+  "tags": [
+   "ASDF",
+   "obligasi",
+   "Astra Sedaya Finance",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Astra Sedaya Finance (ASDF) menyampaikan kepada Bursa Efek Indonesia bahwa perseroan telah menyediakan dana sebesar Rp304.500.000.000 untuk melunasi pokok dan kupon bunga Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap II Tahun 2025 Seri A. Obligasi ini akan jatuh tempo pada 4 November 2026. Surat bernomor 001/Trea/PUBVII-2/X/2026 ini ditandatangani oleh dua direktur perseroan dan disampaikan ke bursa pada 5 Oktober 2026 pukul 11.22 WIB.",
+   "Penyampaian ini dilakukan untuk memenuhi ketentuan Peraturan Bursa Efek Indonesia Nomor I-E tentang Kewajiban Penyampaian Informasi, yang mewajibkan emiten mengumumkan kesiapan dana pelunasan efek bersifat utang paling lambat 15 hari bursa sebelum tanggal jatuh tempo. Laporan ditandatangani oleh Ikhsan Abdillah selaku Corporate Secretary dan Legal Division Head perseroan.",
+   "Dokumen tidak merinci sumber dana pelunasan, apakah berasal dari kas internal, pinjaman bank, atau penerbitan surat utang baru. Perseroan hanya menegaskan bahwa dana telah tersedia dan pelunasan obligasi tersebut dapat dilaksanakan sesuai jadwal."
+  ],
+  "fotoAdegan": "Rows of parked cars and motorcycles at a busy vehicle financing dealership lot, bright midday sunlight, Jakarta",
+  "takeaway": "Laporan ini condong positif karena menunjukkan Astra Sedaya Finance sudah memastikan punya dana tunai untuk membayar utang obligasinya, bukan tanda ada masalah keuangan atau risiko gagal bayar. Pos yang tersentuh adalah arus kas, yaitu pergerakan uang masuk dan keluar perusahaan, karena Rp304,5 miliar kini terkunci khusus untuk pembayaran pokok dan bunga sehingga tidak bisa dipakai untuk kebutuhan operasional lain dalam waktu dekat. Setelah obligasi ini lunas, beban bunga yang harus ditanggung perusahaan ke depan juga ikut berkurang karena salah satu utang berbunganya sudah selesai. Yang perlu dipantau selanjutnya adalah apakah pelunasan benar-benar terlaksana pada 4 November 2026 sesuai jadwal, dan apakah perseroan akan menerbitkan obligasi baru untuk menggantikan sumber pendanaan yang habis tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pkpk-direksi-tambah-kepemilikan-saham-47-100-lembar",
+  "category": "Aksi Korporasi",
+  "title": "PKPK: Direksi Tambah Kepemilikan Saham [47.100] Lembar",
+  "deck": "Direktur Haryanto Sofian menambah kepemilikan saham PKPK sebanyak 47.100 lembar seharga Rp5.900 per saham, menaikkan hak suaranya dari 0,23% menjadi 0,24%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T11:17:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7342-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PKPK",
+  "tags": [
+   "PKPK",
+   "kepemilikan saham",
+   "direksi",
+   "insider"
+  ],
+  "body": [
+   "Direktur Paragon Karya Perkasa Tbk (PKPK), Haryanto Sofian, melaporkan pembelian saham perusahaan sebanyak 47.100 lembar kepada Otoritas Jasa Keuangan. Transaksi tercatat pada 2 Oktober 2026 dengan status kepemilikan tidak langsung, harga Rp5.900 per saham, dan tujuan transaksi yang disebutkan dalam laporan adalah investasi.",
+   "Dengan pembelian tersebut, jumlah saham PKPK yang dikuasai Haryanto naik dari 2.776.800 lembar menjadi 2.823.900 lembar, bertambah 47.100 lembar atau sekitar 1,7 persen dari kepemilikannya sebelumnya. Hak suaranya di perusahaan ikut naik tipis dari 0,23 persen menjadi 0,24 persen dari total saham beredar."
+  ],
+  "fotoAdegan": "Exterior of a modern Jakarta office tower at dusk, glass facade reflecting city lights, traffic passing below",
+  "takeaway": "Transaksi ini netral bagi fundamental PKPK karena ukurannya kecil, hanya menambah 1,7 persen dari saham yang sebelumnya sudah dimiliki Haryanto dan tidak mengubah status pengendalian maupun hak suaranya secara berarti. Yang tersentuh di sini adalah pos kepemilikan insider atau kepemilikan saham oleh orang dalam perusahaan, bukan kondisi keuangan PKPK, sehingga laporan ini tidak mencerminkan perubahan laba, arus kas, atau beban utang perusahaan. Pelaku pasar biasanya memperhatikan pola pembelian oleh direksi karena bisa menunjukkan keyakinan terhadap kinerja perusahaan ke depan, tetapi satu transaksi sekecil ini belum cukup disebut sebagai sinyal yang berarti. Yang perlu dipantau selanjutnya adalah apakah Haryanto atau direksi lain PKPK melanjutkan pembelian serupa dalam laporan-laporan kepemilikan berikutnya, karena pola akumulasi baru terlihat jelas setelah beberapa periode laporan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bafi-terbitkan-obligasi-dan-sukuk-tahap-ii-senilai-rp902-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BAFI Terbitkan Obligasi dan Sukuk Tahap II Senilai [Rp902 Miliar]",
+  "deck": "BAFI merevisi informasi tambahan penawaran Obligasi Berkelanjutan IV dan Sukuk Mudharabah II tahap II senilai Rp902,26 miliar, dengan rating AAA dari Fitch dan Pefindo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T10:54:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cd9839c50a_3fc3fef3bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAFI",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "sukuk mudharabah",
+   "multifinance"
+  ],
+  "body": [
+   "PT Bussan Auto Finance (BAFI) menyampaikan perbaikan atas Informasi Tambahan Ringkas untuk penerbitan Obligasi Berkelanjutan IV Tahap II Tahun 2026 senilai Rp552,26 miliar dan Sukuk Mudharabah Berkelanjutan II Tahap II Tahun 2026 senilai Rp350 miliar, merevisi dokumen yang pertama kali terbit 18 September 2026. Ini adalah tahap kedua dari program penawaran umum berkelanjutan dengan total target dana Rp4 triliun untuk obligasi dan Rp1 triliun untuk sukuk mudharabah. Tahap pertama sebelumnya sudah merealisasikan Rp366,845 miliar obligasi dan Rp100 miliar sukuk mudharabah, sehingga setelah tahap II ini sisa target dana obligasi yang belum terserap tinggal Rp3,63 triliun.",
+   "Obligasi tahap II terbagi dua seri. Seri A senilai Rp481,875 miliar berbunga tetap 7,10 persen per tahun dengan jangka waktu 370 hari kalender sejak tanggal emisi, sementara Seri B senilai Rp70,385 miliar berbunga tetap 7,35 persen per tahun selama tiga tahun. Sukuk mudharabah tahap II juga dua seri dengan skema bagi hasil setara 7,10 persen untuk Seri A senilai Rp293,675 miliar dan setara 7,35 persen untuk Seri B senilai Rp56,325 miliar. Bunga dan bagi hasil dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 8 Januari 2027, dan pelunasan terakhir pada 18 Oktober 2027 untuk seri bertenor 370 hari serta 8 Oktober 2029 untuk seri bertenor tiga tahun.",
+   "Obligasi dan sukuk ini mendapat peringkat AAA dari Fitch Ratings Indonesia dan idAAA atau idAAA syariah dari Pefindo. Penjamin pelaksana emisi adalah Indo Premier Sekuritas, Mandiri Sekuritas, dan Trimegah Sekuritas Indonesia, dengan Bank Mandiri sebagai wali amanat. Sesuai jadwal, penawaran berlangsung 5 Oktober 2026, penjatahan 6 Oktober 2026, distribusi elektronik atau tanggal emisi 8 Oktober 2026, dan pencatatan di Bursa Efek Indonesia pada 9 Oktober 2026. Dalam perjanjian perwaliamanatan, perseroan juga terikat menjaga rasio total pinjaman terhadap ekuitas tidak melebihi 10 berbanding 1."
+  ],
+  "fotoAdegan": "Rows of new motorcycles and cars parked in a vehicle financing dealership yard in Jakarta, workers inspecting units, morning light",
+  "takeaway": "Laporan ini netral bagi BAFI karena penerbitan utang senilai Rp902,26 miliar ini adalah kelanjutan rutin dari program shelf registration yang sudah efektif sejak Juni 2026, bukan kebutuhan dana mendesak, dan mendapat rating tertinggi AAA dari dua lembaga pemeringkat. Yang tersentuh adalah beban bunga perusahaan, karena menambah utang berbunga baru dengan kupon 7,10 sampai 7,35 persen per tahun, serta rasio utang terhadap ekuitas yang menurut perjanjian wali amanat harus dijaga tidak lebih dari 10 kali modal sendiri, batas yang lazim untuk perusahaan pembiayaan karena bisnisnya memang bergantung pada dana pihak ketiga untuk disalurkan sebagai kredit. Yang perlu dipantau selanjutnya adalah pencatatan resmi di Bursa Efek Indonesia pada 9 Oktober 2026 dan pembayaran bunga atau bagi hasil pertama pada 8 Januari 2027, sebagai indikator apakah arus kas perusahaan berjalan sesuai jadwal yang dijanjikan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "dana-pemulihan-bencana-sumut-dipercepat-rp4-82-triliun",
   "category": "Makroekonomi",
   "title": "Dana Pemulihan Bencana Sumut [Dipercepat] Rp4,82 Triliun",
@@ -30,6 +185,84 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "takeaway": "Yang berubah secara konkret adalah kecepatan transfer dana pemulihan bencana ke pemerintah daerah di Sumatera Utara, Aceh, dan Sumatera Barat. Lewat aturan baru yang memudahkan syarat dokumen, pemerintah pusat sudah mengirim Rp4,82 triliun dana tambahan pemulihan bencana ke kas daerah, dari total Rp8,79 triliun yang dijanjikan tahun ini. Yang kena dampak langsung adalah pemerintah daerah yang menangani rehabilitasi infrastruktur pascabencana, sementara belanja modal milik pemerintah pusat sendiri untuk proyek sejenis di Sumatera Utara baru terpakai sepertiga dari anggarannya meski sudah melonjak lebih dari lima kali lipat dibanding tahun lalu. Pola ini menunjukkan pemerintah lebih mengandalkan pemerintah daerah sebagai pelaksana utama rekonstruksi lewat transfer dana, ketimbang mengerjakan sendiri lewat proyek kementerian atau lembaga. Yang akan menentukan apakah pola ini berlanjut adalah laporan realisasi belanja modal pusat pada akhir tahun, karena proyek fisik biasanya baru terserap besar-besaran di kuartal terakhir.",
   "imageV": "muuofu3i"
+ },
+ {
+  "slug": "dewa-rombak-dua-anggota-komite-audit-efektif-1-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "DEWA Rombak Dua Anggota [Komite Audit], Efektif 1 Oktober 2026",
+  "deck": "Komite Audit Darma Henwa mengganti dua dari tiga anggotanya, menyisakan Agus Suharyono sebagai ketua, menyusul keputusan Dewan Komisaris yang berlaku sejak 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T09:59:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8899a098f5_642af4dcc3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWA",
+  "tags": [
+   "DEWA",
+   "Komite Audit",
+   "Tata Kelola Perusahaan",
+   "Darma Henwa"
+  ],
+  "body": [
+   "Darma Henwa Tbk (DEWA) mengumumkan perubahan susunan Komite Audit yang efektif berlaku 1 Oktober 2026. Agus Suharyono, yang menjabat sebagai Komisaris Independen, tetap menjadi ketua komite. Dua kursi anggota berganti wajah: Devan Peterendy Cesario Pasaribu dan DR. Mulyono masuk sebagai anggota baru, menggantikan Mulyadi dan Indra Safitri yang sebelumnya menjabat.",
+   "Perubahan ini merujuk pada Surat Keputusan Dewan Komisaris PT Darma Henwa Tbk Nomor SK-008/PTDH/BoC/IX/2026 tentang Pemberhentian dan Pengangkatan Anggota Komite Audit Perseroan. Perusahaan menyebut langkah ini sebagai pemenuhan ketentuan Peraturan Otoritas Jasa Keuangan Nomor 55/POJK.04/2015 tentang Pembentukan dan Pedoman Pelaksanaan Kerja Komite Audit. Ketiga anggota komite, baik yang baru maupun yang sudah ada, tercatat menjabat untuk periode pertama mereka.",
+   "Pemberitahuan resmi ke Otoritas Jasa Keuangan dan PT Bursa Efek Indonesia disampaikan pada 2 Oktober 2026 oleh Mukson Arif Rosyidi selaku Director & Corporate Secretary Darma Henwa Tbk."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with leather chairs around a long table, soft morning light through glass windows",
+  "takeaway": "Perubahan ini condong netral bagi DEWA karena hanya mengganti personel pengawas, tanpa menyentuh angka keuangan, jumlah saham, atau arus kas perusahaan secara langsung. Yang berubah adalah susunan komite audit, yakni tim independen di bawah Dewan Komisaris yang bertugas mengawasi kualitas laporan keuangan dan kerja auditor eksternal, sehingga penggantian dua dari tiga anggotanya bisa mengubah cara pengawasan itu dijalankan meski belum tentu mengubah hasilnya. Pelaku pasar biasanya menilai independensi dan rekam jejak anggota komite audit sebagai indikator tata kelola perusahaan, bukan indikator laba atau beban bunga secara langsung. Yang perlu dipantau berikutnya adalah laporan tahunan DEWA untuk tahun buku 2026, saat kinerja komite audit yang baru ini pertama kali diuji lewat opini atas laporan keuangan tahunan perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nick-jawab-bursa-soal-arus-kas-negatif-imbas-konsolidasi",
+  "category": "Aksi Korporasi",
+  "title": "NICK Jawab Bursa Soal [Arus Kas] Negatif Imbas Konsolidasi",
+  "deck": "NICK merinci ke Bursa kenapa penerimaan dari pelanggan di laporan arus kas Juni 2026 negatif Rp2,03 miliar, imbas konsolidasi dua anak usaha baru, Energindo Nusantara dan Okansa Pacific.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T09:51:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f98a987e7d_755ad5002e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "arus kas",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Charnic Capital Tbk (NICK) menjawab surat permintaan penjelasan lanjutan dari Bursa Efek Indonesia bernomor S-12661/BEI.PP2/10-2026 tanggal 2 Oktober 2026. Bursa meminta rincian soal pos penerimaan dari pelanggan di laporan arus kas yang tercatat negatif sekitar Rp2 miliar per Juni 2026, padahal pada periode yang sama tahun sebelumnya pos itu masih positif Rp344,2 juta. Dalam surat tertanggal 5 Oktober 2026 yang ditandatangani Direktur Utama Anton Santoso, perusahaan menjelaskan bahwa perubahan ini muncul karena konsolidasi laporan keuangan dengan entitas anak yang bertambah dibanding Juni 2025.",
+   "NICK melampirkan rincian perhitungan penerimaan dari pelanggan per 30 Juni 2026: pendapatan sewa Rp2,97 miliar dan penjualan barang serta servis Rp14,11 miliar, dikurangi perubahan nilai piutang negatif Rp14,19 miliar, perubahan uang muka negatif Rp1,39 miliar, perubahan pajak dibayar di muka negatif Rp2,79 miliar, dan perubahan utang negatif Rp1,33 miliar, ditambah perubahan jaminan sewa positif Rp583,1 juta. Setelah dijumlah, totalnya menjadi negatif Rp2,03 miliar karena perusahaan memakai metode arus kas langsung (direct method) yang memasukkan seluruh perubahan pos-pos tersebut.",
+   "Pada bagian kedua, Bursa juga menanyakan kenapa kenaikan pembayaran kepada pemasok dicatat di arus kas operasional, bukan arus kas investasi, meski dipicu kenaikan aset tetap. NICK menjelaskan bahwa kenaikan pembayaran ke pemasok berasal dari aktivitas anak usaha PT Energindo Nusantara, sementara kenaikan aset dari pembelian kendaraan tercatat di arus kas investasi karena dilakukan oleh anak usaha lain, PT Okansa Pacific."
+  ],
+  "fotoAdegan": "Workers inspecting rows of mobile generators and electric delivery vans in an industrial equipment rental yard, overcast afternoon light",
+  "takeaway": "Penjelasan ini netral bagi NICK: perubahan angka arus kas berasal dari konsolidasi dua anak usaha baru, Energindo Nusantara dan Okansa Pacific, bukan dari penurunan kinerja operasional inti. Pos yang tersentuh adalah arus kas operasional, yaitu uang tunai yang benar-benar diterima dan dibayarkan perusahaan sehari-hari, dan pasar memperhatikannya karena arus kas yang negatif bisa jadi sinyal soal kualitas laba, apakah penjualan yang dibukukan benar-benar berubah jadi uang tunai atau masih mengendap di piutang dan uang muka. Yang perlu dicatat, ini sudah permintaan penjelasan lanjutan dari Bursa, artinya jawaban NICK sebelumnya belum dianggap cukup oleh otoritas, sehingga perlu dipantau apakah Bursa menerima jawaban kali ini sebagai final atau akan mengirim pertanyaan susulan. Laporan keuangan kuartal ketiga 2026 juga layak ditunggu untuk melihat apakah arus kas operasional kembali positif setelah konsolidasi dua anak usaha ini mulai stabil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bipp-victoria-investama-lepas-63-juta-saham-lagi-suara-7-36",
+  "category": "Aksi Korporasi",
+  "title": "BIPP: Victoria Investama [Lepas] 63 Juta Saham Lagi, Suara 7,36%",
+  "deck": "Victoria Investama Tbk melepas 63 juta saham BIPP pada 2 Oktober 2026 seharga Rp60 per saham, hak suaranya turun dari 8,62% menjadi 7,36%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T09:47:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-6724-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "Victoria Investama",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "body": [
+   "Victoria Investama Tbk melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menjual 63.000.000 saham PT Bhuwanatala Indah Permai Tbk (BIPP) secara tidak langsung pada 2 Oktober 2026 dengan harga Rp60 per saham. Transaksi ini mengurangi kepemilikan Victoria Investama di BIPP dari 433.267.000 lembar menjadi 370.267.000 lembar, atau turun 63 juta lembar dalam satu kali transaksi. Dalam laporan tersebut, tujuan transaksi dicatat sebagai perubahan strategi portofolio.",
+   "Akibat penjualan ini, hak suara Victoria Investama di BIPP turun dari 8,62% menjadi 7,36%. Jenis transaksi yang dilaporkan adalah repurchase agreement, mekanisme jual saham dengan perjanjian pembelian kembali, yang lazim dipakai pemegang saham untuk mendapatkan dana tunai sambil tetap membuka opsi menguasai kembali saham tersebut di kemudian hari.",
+   "Penjualan ini merupakan lanjutan dari langkah serupa yang sebelumnya juga dilakukan Victoria Investama di BIPP pekan ini, yang saat itu melepas sekitar 140 juta saham dan membawa hak suaranya ke level 8,62%, posisi yang kini menjadi titik awal transaksi terbaru ini."
+  ],
+  "fotoAdegan": "Empty resort swimming pool and palm trees along a quiet Lombok beachfront, soft early morning light, no signage visible",
+  "takeaway": "Laporan ini condong negatif bagi BIPP karena pelepasan saham oleh Victoria Investama kembali terjadi, kali ini 63 juta lembar atau sekitar 14,5% dari kepemilikannya sendiri sebelum transaksi, bukan jumlah yang bisa diabaikan sebagai remah. Yang tersentuh di sini bukan laporan keuangan BIPP, melainkan struktur kepemilikan dan hak suara di perusahaan: porsi suara Victoria Investama di rapat pemegang saham BIPP kini tinggal 7,36%, turun dari 8,62%, sehingga pengaruhnya dalam keputusan korporasi BIPP ikut mengecil meski jumlah saham beredar BIPP sendiri tidak berubah. Pasar memperhatikan hal ini karena dua pelepasan beruntun oleh pemegang saham yang sama dalam waktu berdekatan biasanya menandakan proses pengurangan posisi yang belum tuntas, bukan transaksi satu kali. Yang perlu dipantau berikutnya adalah apakah Victoria Investama kembali menyampaikan laporan kepemilikan serupa dalam waktu dekat, yang akan menunjukkan apakah pelepasan bertahap ini masih berlanjut atau sudah berhenti di level 7,36%.",
+  "sentimen": "negatif"
  },
  {
   "slug": "ppri-direksi-jual-3-juta-saham-seharga-rp148",

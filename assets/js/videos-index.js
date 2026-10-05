@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "3FdnxDatEsU",
+  "title": "Akselerasi EV di Indonesia: Kebijakan, Tantangan, dan Hilirisasi Industri",
+  "category": "Industri",
+  "program": "CAKEPP",
+  "summary": "Membahas insentif kendaraan listrik di Indonesia serta tantangan hilirisasi industri EV sebagai bagian dari strategi transisi energi di sektor transportasi.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti dampak kebijakan insentif EV terhadap hilirisasi industri dan arah transisi energi nasional."
+ },
+ {
   "id": "C2WEm1Ttwh8",
   "title": "Utang Whoosh Dicicil 80 Tahun, Pakar Ingatkan Risiko ke APBN",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Rengginang, camilan tradisional berbahan ketan, masih bertahan di pasar meski bersaing dengan beragam jajanan modern yang terus bermunculan.",
   "takeaway": "Menggambarkan daya tahan pelaku usaha kuliner tradisional di tengah persaingan industri makanan ringan modern."
- },
- {
-  "id": "X3ofVDlYZOU",
-  "title": "Pengusaha Kuliner Keluhkan Pungli Parkir yang Membebani Usaha",
-  "category": "UMKM",
-  "program": "Kabar Siang",
-  "summary": "Seorang pengusaha kuliner mengaku telah menghabiskan biaya hingga jutaan rupiah akibat dugaan pungutan liar parkir yang menambah beban operasional usahanya.",
-  "takeaway": "Menyoroti dampak pungutan liar terhadap biaya operasional pelaku usaha kuliner kecil dan menengah."
  }
 ];

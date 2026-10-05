@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rantai-nilai-halal-tumbuh-6-2-bi-dorong-ekosistem-syariah",
+  "category": "Makroekonomi",
+  "title": "Rantai Nilai Halal Tumbuh 6,2%, BI Dorong Ekosistem [Syariah]",
+  "deck": "Bank Indonesia mendorong penguatan ekosistem ekonomi syariah lewat tiga aspek: sektor riil, pembiayaan, dan literasi masyarakat, sembari menyiapkan ISEF 2026 pertengahan Oktober di Jakarta.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/rantai-nilai-halal-tumbuh-6-2-bi-dorong-ekosistem-syariah.jpg",
+  "imageV": "muv8ojpo",
+  "tags": [
+   "ekonomi syariah",
+   "Bank Indonesia",
+   "ISEF 2026",
+   "industri halal"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821226.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "bsbk-bagikan-dividen-interim-rp25-09-miliar-untuk-h1-2026",
   "category": "Aksi Korporasi",
   "title": "BSBK Bagikan [Dividen] Interim Rp25,09 Miliar untuk H1 2026",
@@ -6466,22 +6484,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/810ee2df0d_69805781bc.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-prabowo-minta-rs-tak-bedakan-pasien-bpjs",
-  "category": "Bisnis",
-  "title": "Presiden Prabowo Minta RS Tak [Bedakan] Pasien BPJS",
-  "deck": "Presiden Prabowo instruksikan RS samakan pelayanan pasien BPJS dan umum, serta setujui pencairan dana Rp20 triliun untuk BPJS Kesehatan tahun ini.",
-  "date": "28 September 2026",
-  "image": "assets/img/presiden-prabowo-minta-rs-tak-bedakan-pasien-bpjs.jpg",
-  "imageV": "mule6agf",
-  "tags": [
-   "BPJS Kesehatan",
-   "Rumah Sakit",
-   "Presiden Prabowo",
-   "Kesehatan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469978-prabowo-minta-rs-tak-bedakan-pasien-bpjs-dana-rp20-triliun-dicairkan-tahun-ini"
  }
 ];

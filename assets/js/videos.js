@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "3FdnxDatEsU",
+  "title": "Akselerasi EV di Indonesia: Kebijakan, Tantangan, dan Hilirisasi Industri",
+  "category": "Industri",
+  "program": "CAKEPP",
+  "summary": "Membahas insentif kendaraan listrik di Indonesia serta tantangan hilirisasi industri EV sebagai bagian dari strategi transisi energi di sektor transportasi.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti dampak kebijakan insentif EV terhadap hilirisasi industri dan arah transisi energi nasional.",
+  "terbit": "2026-10-05T12:00:56+00:00"
+ },
+ {
   "id": "C2WEm1Ttwh8",
   "title": "Utang Whoosh Dicicil 80 Tahun, Pakar Ingatkan Risiko ke APBN",
   "category": "Makroekonomi",

@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rantai-nilai-halal-tumbuh-6-2-bi-dorong-ekosistem-syariah",
+  "category": "Makroekonomi",
+  "title": "Rantai Nilai Halal Tumbuh 6,2%, BI Dorong Ekosistem [Syariah]",
+  "deck": "Bank Indonesia mendorong penguatan ekosistem ekonomi syariah lewat tiga aspek: sektor riil, pembiayaan, dan literasi masyarakat, sembari menyiapkan ISEF 2026 pertengahan Oktober di Jakarta.",
+  "image": "assets/img/rantai-nilai-halal-tumbuh-6-2-bi-dorong-ekosistem-syariah.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T12:36:36.811Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821226.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "ekonomi syariah",
+   "Bank Indonesia",
+   "ISEF 2026",
+   "industri halal"
+  ],
+  "body": [
+   "Bank Indonesia menegaskan akan terus memperkuat ekosistem ekonomi dan keuangan syariah sebagai sumber pertumbuhan ekonomi baru untuk mendukung kemandirian dan kesejahteraan masyarakat. Hal ini disampaikan Deputi Gubernur BI Solikin M. Juhro saat membuka Seminar Nasional \"Membangun Masa Depan Ekonomi Syariah yang Inklusif dan Berkelanjutan\" di Jakarta, Senin (5/10). Menurut Solikin, di tengah ketidakpastian geopolitik dan fragmentasi perdagangan global, kemampuan Indonesia membangun kapasitas ekonomi sendiri menjadi semakin penting, termasuk lewat sektor syariah.",
+   "BI menyebut sektor rantai nilai halal Indonesia tumbuh 6,2 persen secara tahunan pada 2025 dan berkontribusi sekitar 27 persen terhadap produk domestik bruto. Indonesia juga tercatat di peringkat keempat dunia dalam State of the Global Islamic Economy Report, dengan daya saing kuat di sektor modest fashion, pariwisata, dan makanan halal. Besarnya populasi Muslim dan penduduk usia muda disebut BI sebagai modal utama untuk mengoptimalkan potensi tersebut.",
+   "Untuk mengoptimalkan potensi itu, BI menyebut perlu penguatan di tiga aspek, yaitu sektor riil, pembiayaan, dan partisipasi masyarakat. Di sektor riil, pelaku usaha Indonesia didorong menjadi produsen yang menciptakan nilai tambah di dalam negeri, termasuk usaha pesantren, serta memperkuat rantai pasok hingga menjangkau pasar global. Di sisi pembiayaan, BI mendukung perbankan syariah lewat instrumen kebijakan moneter dan makroprudensial serta instrumen likuiditas untuk memperkuat ketahanan bank syariah, sementara literasi masyarakat soal produk syariah diharapkan diikuti perluasan akses agar makin banyak orang memakai layanan tersebut. BI juga mendorong optimalisasi zakat dan wakaf untuk pemberdayaan ekonomi masyarakat.",
+   "Sebagai langkah konkret, BI akan menggelar Indonesia Sharia Economic Festival (ISEF) 2026 pada pertengahan Oktober 2026 di Jakarta International Convention Center (JICC), terbuka untuk pelaku ekonomi syariah maupun masyarakat umum. Seminar ini turut diisi diskusi dengan sejumlah narasumber, antara lain Kepala Departemen Ekonomi dan Keuangan Syariah BI Dadang Muljawan, Wakil Ketua Umum MUI Cholil Nafis, ekonom syariah Adiwarman Azwar Karim, dan Ketua Indonesia Halal Lifestyle Center Sapta Nirwandar."
+  ],
+  "fotoAdegan": "Workers arranging boxes of packaged halal food products on shelves inside a small Indonesian production facility, bright fluorescent lighting",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/sp_2821226_1.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan penegasan arah kebijakan: BI mengelompokkan dorongannya ke tiga hal, memperkuat usaha halal di dalam negeri, memperbesar pembiayaan syariah, dan meningkatkan pemahaman masyarakat soal produk syariah. Sebagai dasar, BI menyebut rantai nilai halal tumbuh 6,2 persen pada 2025 dan menyumbang sekitar 27 persen dari total perekonomian Indonesia, sementara Indonesia berada di peringkat empat dunia untuk ekonomi syariah. Pihak yang kena dampak dorongan ini adalah pelaku usaha di sektor modest fashion, pariwisata, dan makanan halal, termasuk UMKM dan usaha pesantren yang disebut BI sebagai sasaran penguatan rantai pasok, serta bank syariah yang dijanjikan kemudahan dana jangka pendek dari BI. Seminar ini sendiri belum memuat aturan atau anggaran baru, jadi arahnya baru sebatas niat kebijakan, dan penanda paling dekat untuk mengecek keseriusannya adalah Indonesia Sharia Economic Festival 2026 yang digelar pertengahan Oktober di JICC Jakarta, tempat BI biasanya mengumumkan program atau kerja sama konkret di bidang ini.",
+  "imageV": "muv8ojpo"
+ },
+ {
   "slug": "bsbk-bagikan-dividen-interim-rp25-09-miliar-untuk-h1-2026",
   "category": "Aksi Korporasi",
   "title": "BSBK Bagikan [Dividen] Interim Rp25,09 Miliar untuk H1 2026",

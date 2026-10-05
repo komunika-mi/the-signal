@@ -5,6 +5,262 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bswd-gelar-public-expose-insidental-atas-permintaan-ojk",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Gelar Public Expose Insidental atas Permintaan [OJK]",
+  "deck": "Bank of India Indonesia Tbk akan menggelar paparan publik insidental pada 8 Oktober 2026 menyusul permintaan OJK, membahas kinerja terkini hingga informasi material lainnya.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSWD",
+   "Bank of India Indonesia",
+   "Public Expose",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/95d89140da_cfa214edb7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bsim-ganti-susunan-komite-audit-efektif-1-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BSIM Ganti Susunan [Komite Audit], Efektif 1 Oktober",
+  "deck": "Bank Sinarmas merombak Komite Audit, Rusmin Sammy jadi ketua baru menggantikan Kristamuljana, berlaku sejak 1 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSIM",
+   "Komite Audit",
+   "Bank Sinarmas",
+   "Tata Kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6f0346d08e_68fab34460.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-repo-turunkan-saham-suara-ke-34-60",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi [Repo] Turunkan Saham, Suara ke 34,60%",
+  "deck": "Samuel Sekuritas Indonesia selaku direksi NSSS menjual 147 juta saham lewat skema repo dan membeli kembali 108 juta saham, hak suaranya turun tipis ke 34,60%.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "repo",
+   "direksi",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7470-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bksl-direksi-tambah-saham-lewat-repo-suara-ke-5-59",
+  "category": "Aksi Korporasi",
+  "title": "BKSL: Direksi Tambah Saham Lewat [Repo], Suara ke 5,59%",
+  "deck": "Direksi Sentul City menambah 683,9 juta saham lewat perjanjian repo seharga Rp55 per saham pada 5 Oktober 2026, menaikkan hak suaranya dari 5,18% menjadi 5,59%.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-1915-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "film-direksi-tambah-20-6-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "FILM: Direksi Tambah [20,6 Juta] Saham Lewat Repo",
+  "deck": "Direksi FILM menambah bersih 20,6 juta saham lewat mekanisme repo pada 5 Oktober 2026, hak suara naik dari 9,00% menjadi 9,19%.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "kepemilikan saham",
+   "repo saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-8376-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fwct-jawab-bei-penjualan-turun-35-67-dan-catat-rugi",
+  "category": "Aksi Korporasi",
+  "title": "FWCT Jawab BEI, Penjualan Turun 35,67% dan Catat [Rugi]",
+  "deck": "PT Wijaya Cahaya Timber (FWCT) menjelaskan ke BEI soal penjualan yang turun 35,67% dan rugi Rp25,65 miliar, serta membantah mengenal direksi bernama Indra Satriawan dalam laporan kepemilikan saham.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FWCT",
+   "kayu lapis",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cbb4764540_5cc770ed8c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "drma-komisaris-beli-5-juta-saham-rp800-per-lembar",
+  "category": "Aksi Korporasi",
+  "title": "DRMA: Komisaris Beli [5 Juta] Saham, Rp800 per Lembar",
+  "deck": "Komisaris Dharma Polimetal, Noel Aelyo Laras Kusuma Negara, membeli 5 juta saham DRMA secara tidak langsung senilai sekitar Rp4 miliar, mengangkat hak suaranya ke 1,80 persen.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "komisaris",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-2674-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kras-terima-rp130-74-miliar-dari-kerja-sama-lahan-dengan-cabot",
+  "category": "Aksi Korporasi",
+  "title": "KRAS Terima [Rp130,74 Miliar] dari Kerja Sama Lahan dengan Cabot",
+  "deck": "Krakatau Steel mendayagunakan lahan sekitar 60.000 meter persegi kepada PT Cabot Indonesia melalui anak usahanya, PT KSI, senilai Rp130,74 miliar untuk membayar kewajiban restrukturisasi kredit.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KRAS",
+   "Krakatau Steel",
+   "restrukturisasi utang",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/262b247ff3_84a5ec3878.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "poli-paparkan-kinerja-setahun-soroti-obligasi-berkelanjutan-rp500-m",
+  "category": "Aksi Korporasi",
+  "title": "POLI Paparkan Kinerja Setahun, Soroti Obligasi [Berkelanjutan] Rp500 M",
+  "deck": "Pollux Hotels Group merilis materi Public Expose Tahunan 2026, memuat obligasi berkelanjutan Rp500 miliar, kemitraan dengan Accor dan Marriott, serta klarifikasi UMA Januari 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POLI",
+   "Pollux Hotels Group",
+   "obligasi berkelanjutan",
+   "Accor"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/09b218b33f_99af9d221d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tpia-siapkan-rp266-95-miliar-lunasi-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Siapkan Rp266,95 Miliar Lunasi [Obligasi] Jatuh Tempo",
+  "deck": "Chandra Asri Pacific menyatakan dana sudah siap untuk melunasi pokok Obligasi Berkelanjutan III Seri A senilai Rp266,95 miliar yang jatuh tempo 29 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "obligasi",
+   "Chandra Asri Pacific",
+   "KSEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6c762c5228_606e9edcdf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmbl-jadwalkan-rupslb-11-november-2026-dps-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BMBL Jadwalkan [RUPSLB] 11 November 2026, DPS 19 Oktober",
+  "deck": "Lavender Bina Cendikia menjadwalkan RUPSLB pada 11 November 2026 di Depok. Agenda rapat belum diumumkan, baru akan dirilis lewat pemanggilan resmi pada 20 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMBL",
+   "RUPSLB",
+   "Lavender Bina Cendikia",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ce9c5ff285_9d45fc08fe.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bcic-holding-jepang-siapkan-suntikan-modal-akhir-2026",
+  "category": "Aksi Korporasi",
+  "title": "BCIC: Holding Jepang Siapkan [Suntikan Modal] Akhir 2026",
+  "deck": "Dalam paparan publik tahunan, manajemen Bank JTrust Indonesia mengungkap rencana suntikan modal dari induk usaha di Jepang, laba semester I Rp80 miliar yang belum kena pajak, dan NPL yang turun.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BCIC",
+   "JTrust Indonesia",
+   "perbankan",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ffd3e7696c_a89ca61310.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-ajukan-penyesuaian-kbli-dan-ubah-penggunaan-dana",
+  "category": "Aksi Korporasi",
+  "title": "CASH Ajukan [Penyesuaian] KBLI dan Ubah Penggunaan Dana",
+  "deck": "Cashlez mengajukan penyesuaian kode usaha KBLI 2025, tiga lini bisnis baru, dan perubahan penggunaan dana rights issue Rp235,5 miliar untuk RUPSLB 8 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "Cashlez",
+   "RUPSLB",
+   "KBLI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ff4d047c65_2ce2c59994.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uniq-jelaskan-ke-bursa-soal-lonjakan-harga-saham",
+  "category": "Aksi Korporasi",
+  "title": "UNIQ Jelaskan ke Bursa soal [Lonjakan] Harga Saham",
+  "deck": "PT Ulima Nitra Tbk menyatakan tidak ada informasi material atau perubahan pemegang saham besar di balik lonjakan harga sahamnya, menjawab permintaan penjelasan BEI.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNIQ",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "Ulima Nitra"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/43a38f2f53_de1c5fd0bb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "supr-suspensi-dibuka-sementara-untuk-crossing-saham-vto",
+  "category": "Aksi Korporasi",
+  "title": "SUPR: Suspensi Dibuka Sementara untuk Crossing Saham [VTO]",
+  "deck": "BEI membuka sementara suspensi SUPR khusus di pasar negosiasi untuk crossing saham hasil tender offer Protelindo, lalu menutupnya lagi paling lambat pukul 14.00 WIB hari ini.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUPR",
+   "delisting",
+   "tender offer",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb302ad14a_ebb7da427c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indo-saham-terkonsentrasi-94-96-di-tangan-terbatas",
+  "category": "Aksi Korporasi",
+  "title": "INDO: Saham [Terkonsentrasi] 94,96% di Tangan Terbatas",
+  "deck": "BEI dan KSEI mengumumkan 94,96% saham INDO dikuasai sejumlah pemegang saham terbatas per 30 September 2026, menyisakan sedikit saham yang beredar bebas di pasar.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDO",
+   "BEI",
+   "KSEI",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/182cdbb532_19baba3a8d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "nayz-akuisisi-75-saham-btl-senilai-us-125-juta",
   "category": "Aksi Korporasi",
   "title": "NAYZ Akuisisi 75% Saham BTL Senilai [US$125 Juta]",
@@ -6226,266 +6482,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-1712-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-tambah-1-51-miliar-saham-repo-suara-ke-28-87",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Tambah [1,51 Miliar] Saham Repo, Suara ke 28,87%",
-  "deck": "Samuel Sekuritas Indonesia menambah 1,51 miliar saham NSSS lewat mekanisme repurchase agreement, mendorong hak suaranya dari 22,51 persen menjadi 28,87 persen.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "repo saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-5445-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bksl-direksi-lepas-saham-lagi-hak-suara-turun-ke-5-00",
-  "category": "Aksi Korporasi",
-  "title": "BKSL: Direksi Lepas Saham Lagi, Hak Suara Turun ke [5,00%]",
-  "deck": "Direksi Sentul City lewat rekening Samuel Sekuritas menjual bersih 353,78 juta saham lewat skema repo pada 28 September 2026, hak suara turun dari 5,21% menjadi 5,00%.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKSL",
-   "Sentul City",
-   "kepemilikan saham",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-3386-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-jadwalkan-dividen-interim-rp430-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Jadwalkan [Dividen] Interim Rp430 per Saham",
-  "deck": "United Tractors (UNTR) menjadwalkan dividen interim Rp430 per saham, total hingga Rp1,48 triliun, dibayar 26 Oktober 2026 kepada pemegang saham per 8 Oktober 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "dividen interim",
-   "United Tractors",
-   "alat berat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/608f731b1f_4be4d5de62.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-ambruk-1-51-persen-554-saham-merah",
-  "category": "Pasar Modal",
-  "title": "IHSG [Ambruk] 1,51 Persen, 554 Saham Merah",
-  "deck": "IHSG turun 94 poin ke 6.147,8 pada Senin (28/9), dengan 554 saham melemah dan transaksi Rp12,49 triliun, sementara hanya sektor transportasi dan energi bertahan hijau.",
-  "date": "28 September 2026",
-  "image": "assets/img/ihsg-ambruk-1-51-persen-554-saham-merah.jpg",
-  "imageV": "mul8m5z4",
-  "tags": [
-   "IHSG",
-   "Bursa Efek Indonesia",
-   "saham turun",
-   "LQ45"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469941-ihsg-ambruk-151-persen-ke-61478-554-saham-berguguran"
- },
- {
-  "slug": "pertamina-hulu-energi-bidik-asri-basin-jadi-hub-karbon-di-korea",
-  "category": "Energi",
-  "title": "Pertamina Hulu Energi Bidik Asri Basin Jadi Hub [Karbon] di Korea",
-  "deck": "PHE memaparkan progres proyek penangkapan dan penyimpanan karbon di forum KCCUS Seoul, termasuk rencana Asri Basin bersama ExxonMobil sebagai hub penyimpanan karbon regional pertama.",
-  "date": "28 September 2026",
-  "image": "assets/img/pertamina-hulu-energi-bidik-asri-basin-jadi-hub-karbon-di-korea.jpg",
-  "imageV": "mul8m6f3",
-  "tags": [
-   "Pertamina",
-   "Energi",
-   "Korea",
-   "Karbon"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469957-perkuat-kemitraan-strategis-di-forum-kccus-korea-pertamina-hulu-energi-dorong-asri-basin-sebagai-hub-penyimpanan-karbon-regional"
- },
- {
-  "slug": "dada-bagikan-dividen-tunai-rp0-27-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "DADA Bagikan [Dividen] Tunai Rp0,27 per Saham",
-  "deck": "PT Diamond Citra Propertindo Tbk akan membagikan dividen tunai Rp2,006 miliar dari laba 2025, dibayarkan paling lambat 28 Oktober 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DADA",
-   "dividen tunai",
-   "pasar modal",
-   "emiten properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ed554c12cb_caa4fa0007.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-balas-bursa-ungkap-proyek-rp1-25-t-dari-grup-danantara",
-  "category": "Aksi Korporasi",
-  "title": "INPS Balas Bursa, Ungkap Proyek Rp1,25 T dari Grup [Danantara]",
-  "deck": "INPS merinci rencana suntikan modal Rp125 miliar dari pengendali GIGP dan akuisisi perusahaan otomotif bermodal proyek Rp1,25 triliun untuk keluar dari status ekuitas negatif.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "PMTHMETD",
-   "akuisisi",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c6947e4615_86adcef027.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "film-direksi-tambah-100-8-juta-saham-lewat-skema-repo",
-  "category": "Aksi Korporasi",
-  "title": "FILM: Direksi [tambah] 100,8 juta saham lewat skema repo",
-  "deck": "Direksi FILM menambah kepemilikan saham lewat pembelian 100,8 juta lembar seharga Rp680 lewat skema repo, mengerek hak suaranya dari 8,71 persen menjadi 9,64 persen.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "MD Entertainment",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-8574-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fifa-salurkan-dana-obligasi-rp2-49-triliun-untuk-pembiayaan-kredit",
-  "category": "Aksi Korporasi",
-  "title": "FIFA salurkan dana obligasi Rp2,49 triliun untuk [pembiayaan] kredit",
-  "deck": "FIFA melaporkan realisasi penggunaan dana obligasi berkelanjutan VII tahap III senilai Rp2,5 triliun, seluruhnya sudah disalurkan untuk pembiayaan kredit tanpa sisa dana.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FIFA",
-   "obligasi",
-   "penggunaan dana",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93c9fbf420_2132f95ee0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fifa-laporkan-realisasi-dana-obligasi-tahap-i-rp187-5-miliar",
-  "category": "Aksi Korporasi",
-  "title": "FIFA laporkan realisasi dana obligasi [Tahap I] Rp187,5 miliar",
-  "deck": "Perseroan melaporkan seluruh dana bersih Rp187,53 miliar dari Obligasi Keberlanjutan Orange I Tahap I sudah tersalur untuk modal kerja pembiayaan, dengan sisa Rp1 miliar ditempatkan di giro bank.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FIFA",
-   "obligasi",
-   "penggunaan dana",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9dbdf4be2c_885416a85f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dlta-tunjuk-christian-linardo-sebagai-kepala-audit-internal-baru",
-  "category": "Aksi Korporasi",
-  "title": "DLTA Tunjuk Christian Linardo sebagai [Kepala] Audit Internal Baru",
-  "deck": "Delta Djakarta Tbk mengangkat Christian Linardo sebagai Kepala Unit Audit Internal menggantikan Ifvan Julianus yang mengundurkan diri, efektif 28 September 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DLTA",
-   "Delta Djakarta",
-   "audit internal",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5403ba9e28_835ee63a71.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "transaksi-mata-uang-lokal-ri-naik-259-di-semester-i",
-  "category": "Moneter",
-  "title": "Transaksi Mata Uang Lokal RI Naik [259%] di Semester I",
-  "deck": "Nilai transaksi dagang RI dengan tujuh negara mitra yang memakai mata uang lokal, bukan dolar AS, tembus US$42,07 miliar pada semester I 2026, kata Bank Indonesia.",
-  "date": "28 September 2026",
-  "image": "assets/img/transaksi-mata-uang-lokal-ri-naik-259-di-semester-i.jpg",
-  "imageV": "mul2nk8i",
-  "tags": [
-   "Bank Indonesia",
-   "Local Currency Transaction",
-   "Kebanksentralan",
-   "Nilai Tukar"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820626.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "ketr-jadwalkan-rupslb-pada-12-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "KETR Jadwalkan [RUPSLB] pada 12 November 2026",
-  "deck": "Ketrosden Triasmitra menjadwalkan RUPSLB pada 12 November 2026, dengan tanggal pencatatan pemegang saham 12 Oktober dan batas usulan agenda 6 Oktober 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "RUPSLB",
-   "Ketrosden Triasmitra",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/18b46bd0b0_88144dd5e5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "niro-catat-rugi-melebar-jadi-rp237-6-miliar-di-semester-i",
-  "category": "Aksi Korporasi",
-  "title": "NIRO Catat Rugi [Melebar] Jadi Rp237,6 Miliar di Semester I",
-  "deck": "Laporan keuangan interim per 30 Juni 2026 menunjukkan rugi bersih NIRO melebar ke Rp237,6 miliar, ekuitas turun, dan utang bank jatuh tempo setahun ke depan naik hampir tiga kali lipat.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NIRO",
-   "properti",
-   "laporan keuangan interim",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260928165640-64374-0/FinancialStatement-2026-II-NIRO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptmr-akui-langgar-aturan-transaksi-afiliasi-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "PTMR Akui [Langgar] Aturan Transaksi Afiliasi ke Bursa",
-  "deck": "PTMR mengakui pelanggaran aturan transaksi afiliasi dan menyebut rencana akuisisi oleh Deep Source Pte. Ltd. masih tertahan menunggu hasil pemeriksaan OJK.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTMR",
-   "suspensi saham",
-   "transaksi afiliasi",
-   "Deep Source"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76dab57f16_d580bf6c80.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-waran-enrg-disesuaikan-usai-rights-issue-rp4-12-t",
-  "category": "Aksi Korporasi",
-  "title": "DR: Waran ENRG Disesuaikan usai Rights Issue [Rp4,12 T]",
-  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur ENRG menyusul rights issue ENRG senilai Rp4,12 triliun yang mendilusi saham hingga 33,33 persen.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "ENRG",
-   "rights issue",
-   "waran terstruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dacc5ba9de_a6c017c08c.pdf",
   "sourceLabel": "IDX"
  }
 ];

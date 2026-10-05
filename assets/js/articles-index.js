@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppri-direksi-jual-3-juta-saham-seharga-rp148",
+  "category": "Aksi Korporasi",
+  "title": "PPRI: Direksi [Jual] 3 Juta Saham Seharga Rp148",
+  "deck": "Direksi Irsyad Hanif melepas 3 juta saham PPRI pada 1 Oktober 2026 dengan tujuan divestasi, menurunkan hak suaranya dari 14,29% menjadi 14,01%.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRI",
+   "kepemilikan saham",
+   "direksi",
+   "insider trading"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-6462-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tpia-buka-1-000-lapangan-kerja-baru-hingga-2028",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Buka [1.000] Lapangan Kerja Baru hingga 2028",
+  "deck": "Chandra Asri Group akan membuka lebih dari 1.000 lapangan kerja baru di Indonesia secara bertahap hingga 2028, seiring ekspansi tiga pilar bisnisnya.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "ketenagakerjaan",
+   "ekspansi bisnis"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f57e9777d3_43573e776b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-ptpp-kena-suspensi-usai-gagal-bayar-bunga-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "Saham PTPP Kena [Suspensi] Usai Gagal Bayar Bunga Obligasi",
+  "deck": "BEI menghentikan sementara perdagangan seluruh saham PTPP mulai Senin pagi, setelah perseroan menunda pembayaran bunga obligasi dan sukuk yang jatuh tempo 2 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c30f96ddfb_f37bb41b67.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mkpi-gelar-rupslb-27-oktober-bahas-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "MKPI Gelar RUPSLB 27 Oktober, Bahas [Anggaran Dasar]",
+  "deck": "Metropolitan Kentjana Tbk memanggil RUPSLB pada 27 Oktober 2026 untuk membahas perubahan anggaran dasar dan penegasan susunan pemegang saham.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKPI",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0e5c0ae21d_a0074abd5a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-catatkan-98-9-juta-saham-baru-dari-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "FORU Catatkan [98,9 Juta] Saham Baru dari HMETD",
+  "deck": "BEI mencatat tambahan 98,99 juta saham baru FORU dari pelaksanaan HMETD per 1 Oktober 2026, sehingga total saham beredar perseroan kini mencapai 168,65 miliar lembar.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "HMETD",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/380ba1bd93_6a1787a823.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "otma-resmi-ganti-nama-jadi-pt-summit-oto-finance",
+  "category": "Aksi Korporasi",
+  "title": "OTMA Resmi Ganti Nama Jadi PT [Summit] Oto Finance",
+  "deck": "Bursa mengumumkan perubahan nama emiten OTMA dari PT Oto Multiartha menjadi PT Summit Oto Finance, efektif 5 Oktober 2026, menyusul merger yang efektif sejak 1 Oktober 2026.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OTMA",
+   "merger",
+   "perubahan nama",
+   "Summit Oto Finance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a0abca7ac_5c3baac5d9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-catat-tambahan-2-4-juta-saham-dari-konversi-owk",
+  "category": "Aksi Korporasi",
+  "title": "PACK catat tambahan 2,4 juta saham dari [konversi] OWK",
+  "deck": "BEI mencatatkan 2.411.500 saham baru PACK hasil konversi obligasi wajib konversi, sehingga total saham beredar naik menjadi 34,12 miliar lembar.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "OWK",
+   "konversi obligasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3dbdf98180_089a03feaa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "investasi-harus-tumbuh-8-9-kejar-target-ekonomi-2027",
   "category": "Makroekonomi",
   "title": "Investasi Harus Tumbuh [8-9%] Kejar Target Ekonomi 2027",
@@ -6371,119 +6483,6 @@ var ARTICLES = [
    "Bakrie Group"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1d71ca37ab_f6c3809f16.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-360-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 360.000 saham",
-  "deck": "Edwin Soeryadjaya membeli 360.000 saham SRTG lewat dua transaksi tidak langsung pada 24 dan 25 September 2026, menggeser hak suaranya tipis ke 35,9587 persen.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Saratoga Investama Sedaya",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-9236-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wsbp-gagal-bayar-kupon-obligasi-bei-lanjutkan-suspensi-saham",
-  "category": "Aksi Korporasi",
-  "title": "WSBP [Gagal Bayar] Kupon Obligasi, BEI Lanjutkan Suspensi Saham",
-  "deck": "BEI melanjutkan penghentian sementara perdagangan saham WSBP di seluruh pasar setelah perusahaan menunda pembayaran bunga ke-8 dua obligasinya yang jatuh tempo 25 September 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "obligasi",
-   "gagal bayar",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3572c29486_a3b6f0ba4c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rdtx-ajukan-stock-split-rasio-1-20-ke-rupslb-november",
-  "category": "Aksi Korporasi",
-  "title": "RDTX Ajukan [Stock Split] Rasio 1:20 ke RUPSLB November",
-  "deck": "Roda Vivatex akan meminta restu RUPSLB pada 4 November 2026 untuk memecah saham dengan rasio 1:20, menambah jumlah saham beredar dari 268,8 juta menjadi 5,376 miliar lembar.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RDTX",
-   "stock split",
-   "RUPSLB",
-   "Roda Vivatex"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2c4e6bb9e5_11d7b2b255.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "marketplace-pungut-pph-pedagang-online-mulai-1-november",
-  "category": "UMKM",
-  "title": "Marketplace Pungut PPh Pedagang Online Mulai [1 November]",
-  "deck": "Ditjen Pajak akan mulai memungut PPh 0,5 persen dari pedagang online lewat Tokopedia, Shopee, Lazada, dan Blibli pada 1 November 2026, mundur dari jadwal semula.",
-  "date": "28 September 2026",
-  "image": "assets/img/marketplace-pungut-pph-pedagang-online-mulai-1-november.jpg",
-  "imageV": "mukyy3u1",
-  "tags": [
-   "pajak marketplace",
-   "pph pedagang online",
-   "pph 22",
-   "djp"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/469895-mulai-1-november-2026-marketplace-pungut-pph-05-persen-pedagang-online"
- },
- {
-  "slug": "brms-direktur-adika-bakrie-tambah-372-400-saham-rp670",
-  "category": "Aksi Korporasi",
-  "title": "BRMS: Direktur Adika Bakrie [Tambah] 372.400 Saham Rp670",
-  "deck": "Direktur BRMS Adika Aryasthana Bakrie membeli tambahan 372.400 saham perusahaan pada 25 September 2026, menyusul pembelian serupa pekan lalu.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRMS",
-   "Bumi Resources Minerals",
-   "kepemilikan saham direksi",
-   "Adika Bakrie"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-7738-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-fitch-pangkas-peringkat-ke-rd-usai-gagal-bayar-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "POST: Fitch Pangkas Peringkat ke [RD] usai Gagal Bayar Sukuk",
-  "deck": "Fitch menurunkan peringkat nasional POST menjadi RD(idn) setelah gagal membayar cicilan imbalan ijarah sukuk tahap kedua yang jatuh tempo 28 Agustus 2026.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "Fitch Ratings",
-   "gagal bayar",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/415cf2c190_ff3c3908b9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-tunda-bayar-bunga-obligasi-rp11-75-miliar-gagal-bayar",
-  "category": "Aksi Korporasi",
-  "title": "POST Tunda Bayar Bunga Obligasi Rp11,75 Miliar [Gagal Bayar]",
-  "deck": "Pos Indonesia meminta penundaan pembayaran bunga Obligasi I 2022 Seri B ke-15 senilai Rp11,75 miliar yang jatuh tempo 25 September 2026 karena kas belum mencukupi.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "gagal bayar",
-   "obligasi",
-   "Pos Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/48e0c5ff29_df54cbc755.pdf",
   "sourceLabel": "IDX"
  }
 ];

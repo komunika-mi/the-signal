@@ -3,6 +3,186 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ppri-direksi-jual-3-juta-saham-seharga-rp148",
+  "category": "Aksi Korporasi",
+  "title": "PPRI: Direksi [Jual] 3 Juta Saham Seharga Rp148",
+  "deck": "Direksi Irsyad Hanif melepas 3 juta saham PPRI pada 1 Oktober 2026 dengan tujuan divestasi, menurunkan hak suaranya dari 14,29% menjadi 14,01%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T08:53:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-6462-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRI",
+  "tags": [
+   "PPRI",
+   "kepemilikan saham",
+   "direksi",
+   "insider trading"
+  ],
+  "body": [
+   "PT Paperocks Indonesia Tbk (PPRI) melaporkan perubahan kepemilikan saham oleh salah satu direksinya, Irsyad Hanif, kepada Otoritas Jasa Keuangan. Dalam laporan tertanggal 5 Oktober 2026, disebutkan bahwa pada 1 Oktober 2026 Irsyad menjual 3.000.000 lembar saham biasa PPRI yang berstatus kepemilikan tidak langsung, dengan harga Rp148 per lembar. Tujuan transaksi tercatat sebagai divestasi.",
+   "Dengan penjualan ini, jumlah saham Irsyad Hanif di PPRI berkurang dari 153.588.300 lembar menjadi 150.588.300 lembar, atau turun 3 juta lembar. Porsi yang dilepas setara dengan sekitar 1,95 persen dari total kepemilikannya sebelum transaksi. Akibatnya, hak suaranya di perusahaan turun dari 14,29 persen menjadi 14,01 persen, selisih 0,28 poin persentase."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, pedestrians crossing a busy street, midday light",
+  "takeaway": "Penjualan ini netral bagi Paperocks Indonesia, karena yang dilepas hanya sekitar 1,95 persen dari total saham Irsyad Hanif dan hak suaranya cuma turun tipis dari 14,29 persen ke 14,01 persen, bukan pelepasan besar yang mengubah posisi pengendali perusahaan. Transaksi seperti ini hanya memindahkan kepemilikan antara pemegang saham yang sudah ada, bukan menambah jumlah saham beredar lewat penerbitan baru, sehingga tidak menyentuh laba per saham maupun kas dan ekuitas perusahaan secara langsung. Yang biasa disorot pasar dari laporan semacam ini adalah pola kepemilikan dan hak suara insider, karena penjualan yang berulang oleh direksi bisa jadi sinyal lebih kuat ketimbang satu transaksi tunggal. Yang perlu dipantau berikutnya adalah apakah Irsyad Hanif kembali melaporkan penjualan saham PPRI dalam waktu dekat, yang akan menunjukkan apakah langkah 1 Oktober 2026 ini sekadar transaksi sekali jalan atau bagian dari pelepasan bertahap.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tpia-buka-1-000-lapangan-kerja-baru-hingga-2028",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Buka [1.000] Lapangan Kerja Baru hingga 2028",
+  "deck": "Chandra Asri Group akan membuka lebih dari 1.000 lapangan kerja baru di Indonesia secara bertahap hingga 2028, seiring ekspansi tiga pilar bisnisnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T08:47:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f57e9777d3_43573e776b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "ketenagakerjaan",
+   "ekspansi bisnis"
+  ],
+  "body": [
+   "PT Chandra Asri Pacific Tbk (TPIA) mengumumkan rencana membuka lebih dari 1.000 lapangan kerja baru di Indonesia secara bertahap hingga 2028. Direktur Sumber Daya Manusia dan Urusan Korporat, Suryandi, mengatakan kebutuhan talenta ini muncul seiring transformasi bisnis perusahaan yang kini berjalan melalui tiga pilar, yaitu Energi dan Kimia, Infrastruktur Terintegrasi, serta Solusi Mobilitas.",
+   "Di lini Energi dan Kimia, pengembangan fasilitas Chlor Alkali-Ethylene Dichloride (CA-EDC) di Cilegon, Banten, disebut sebagai salah satu pendorong kebutuhan tenaga kerja, karena fasilitas ini sedang bersiap masuk tahap operasional dan akan membutuhkan pekerja untuk produksi serta fungsi pendukung lainnya. Perusahaan juga menyebut PT Chandra Asri Sentral Solusi (CASS), unit shared service center yang mulai beroperasi Januari 2026, sebagai bagian dari penguatan kapabilitas berbasis Indonesia. CASS saat ini sudah mendukung operasional Aster Chemicals & Energy Pte. Ltd. di Singapura dan akan terus membutuhkan talenta Indonesia seiring ekspansi bisnis solusi mobilitas perusahaan ke Singapura dan Malaysia.",
+   "Perusahaan menyebut lowongan yang dibuka mencakup berbagai bidang, mulai dari fungsi teknis dan operasional, komersial, digital, keuangan, sumber daya manusia, pengadaan, hingga customer operations. Chandra Asri Group saat ini memiliki aset meliputi naphtha cracker di Cilegon berkapasitas 0,9 juta metrik ton ethylene per tahun, kilang berkapasitas lebih dari 300.000 barel per hari dan naphtha cracker 1,1 juta metrik ton di Pulau Bukom, sekitar 2,5 juta metrik ton aset kimia hilir di Pulau Jurong, serta sekitar 60 stasiun pengisian bahan bakar ritel Esso."
+  ],
+  "fotoAdegan": "Workers in hard hats and safety vests walking through a large petrochemical plant construction site, pipes and scaffolding, daylight",
+  "takeaway": "Laporan ini condong positif karena rencana membuka lebih dari 1.000 lapangan kerja baru menunjukkan Chandra Asri Group tetap melanjutkan ekspansi bisnisnya, meski harus menanggung tambahan beban gaji dalam jangka pendek. Pos kinerja yang tersentuh adalah beban operasional perusahaan, sebab perekrutan ribuan karyawan baru hingga 2028 akan menambah biaya gaji dan tunjangan yang tercatat di laporan laba rugi, sementara di sisi lain menandakan kapasitas produksi dan lini bisnis baru yang berpotensi mendongkrak pendapatan setelah fasilitas seperti CA-EDC beroperasi penuh. Yang perlu dipantau berikutnya adalah progres fasilitas CA-EDC di Cilegon menuju tahap operasional, karena perusahaan sebelumnya melaporkan konstruksinya sudah mencapai 80 persen, dan kapan persisnya fasilitas ini mulai berproduksi akan menentukan seberapa cepat rekrutmen besar-besaran ini terserap ke bisnis yang menghasilkan pendapatan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "saham-ptpp-kena-suspensi-usai-gagal-bayar-bunga-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "Saham PTPP Kena [Suspensi] Usai Gagal Bayar Bunga Obligasi",
+  "deck": "BEI menghentikan sementara perdagangan seluruh saham PTPP mulai Senin pagi, setelah perseroan menunda pembayaran bunga obligasi dan sukuk yang jatuh tempo 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T08:42:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c30f96ddfb_f37bb41b67.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "sukuk"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan saham PT PP (Persero) Tbk (PTPP) di seluruh pasar, berlaku sejak sesi pra-pembukaan perdagangan pada Senin, 5 Oktober 2026, hingga ada pengumuman lebih lanjut dari bursa. Penghentian ini didasarkan pada surat PT Kustodian Sentral Efek Indonesia (KSEI) Nomor KSEI-7190/DIR/1026 tanggal 1 Oktober 2026 serta Ketentuan III.1.5 Peraturan Bursa Nomor I-L tentang Suspensi Efek, karena PTPP tidak memenuhi kewajiban pembayaran kupon dan atau pokok utang.",
+   "Kewajiban yang tertunda adalah bunga dari Obligasi Berkelanjutan III PTPP Tahap I Tahun 2021 Seri B (PTPP03BCN1) dan Sukuk Mudharabah Berkelanjutan I PTPP Tahap I Tahun 2021 Seri B Ke-21 (SMPTPP01BCN1), yang seharusnya dibayar efektif pada 2 Oktober 2026. Dalam pengumumannya, BEI secara tegas menyatakan bahwa penundaan pembayaran ini menunjukkan adanya permasalahan pada kelangsungan usaha (going concern) PTPP, bukan sekadar keterlambatan administratif.",
+   "Suspensi ini merupakan kelanjutan dari masalah yang sudah terlihat sejak akhir September, ketika pemegang obligasi dan sukuk melalui Rapat Umum Pemegang Obligasi (RUPO) dan rapat sejenis untuk sukuk pada 1-2 September 2026 belum memberikan persetujuan atas usulan PTPP untuk menjadwalkan ulang pembayaran bunga senilai Rp44,7 miliar. Tanpa restu tersebut, perseroan tetap menunda pembayaran yang jatuh tempo, dan BEI merespons dengan menghentikan perdagangan sahamnya di seluruh pasar sampai ada keterangan lebih lanjut."
+  ],
+  "fotoAdegan": "Workers and cranes at a large infrastructure construction site, concrete pillars rising, overcast daylight, wide industrial view",
+  "takeaway": "Laporan ini jelas negatif bagi PTPP: BEI sendiri menyebut penundaan pembayaran bunga ini sebagai tanda masalah kelangsungan usaha, dan konsekuensinya saham PTPP langsung tidak bisa diperdagangkan di seluruh pasar sejak Senin pagi. Yang tersentuh adalah arus kas dan beban bunga perusahaan, karena gagal membayar kupon atau pokok utang berarti perseroan kesulitan memenuhi kewajiban jangka pendeknya, sinyal yang biasanya membuat kreditur lain ikut mempertanyakan kesehatan keuangan perusahaan secara keseluruhan. Ini juga kelanjutan dari masalah yang sudah terlihat akhir September, ketika pemegang obligasi dan sukuk belum menyetujui usulan penjadwalan ulang bunga senilai Rp44,7 miliar, dan sekarang perseroan tetap menunda pembayaran itu meski tanpa persetujuan tersebut. Yang perlu dipantau selanjutnya adalah pengumuman BEI berikutnya soal pencabutan suspensi, serta apakah PTPP akhirnya melunasi kewajiban itu atau menempuh proses restrukturisasi formal, karena untuk saat ini saham tetap disuspensi tanpa batas waktu pasti.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mkpi-gelar-rupslb-27-oktober-bahas-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "MKPI Gelar RUPSLB 27 Oktober, Bahas [Anggaran Dasar]",
+  "deck": "Metropolitan Kentjana Tbk memanggil RUPSLB pada 27 Oktober 2026 untuk membahas perubahan anggaran dasar dan penegasan susunan pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T08:35:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0e5c0ae21d_a0074abd5a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKPI",
+  "tags": [
+   "MKPI",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "Pemegang Saham"
+  ],
+  "body": [
+   "PT Metropolitan Kentjana Tbk (MKPI) resmi memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 27 Oktober 2026 pukul 14.00 WIB. Rapat akan berlangsung di Pondok Indah Office Tower 3, Ruang Duta, Lantai LG, Jalan Iskandar Muda Kavling V-TA, Pondok Indah, Jakarta Selatan. Pemanggilan ini merupakan kelanjutan dari pemberitahuan RUPS yang sebelumnya disampaikan perseroan melalui surat Nomor 0881/CS/MK/IX/2026 tertanggal 18 September 2026.",
+   "RUPSLB ini mengusung dua agenda. Pertama, persetujuan perubahan anggaran dasar perseroan. Kedua, penegasan susunan pemegang saham. Dokumen pemanggilan tidak merinci lebih jauh poin anggaran dasar mana yang akan diubah atau seperti apa penegasan susunan pemegang saham yang dimaksud.",
+   "Hak hadir dan memberikan suara dalam rapat ini ditentukan berdasarkan daftar pemegang saham per 2 Oktober 2026 sebagai recording date. Artinya, hanya investor yang tercatat memegang saham MKPI pada tanggal tersebut yang berhak hadir dan menggunakan hak suaranya dalam RUPSLB. Pemanggilan ini ditandatangani secara elektronik oleh Jeffri Sandra Tanudjaja selaku Corporate Secretary MKPI."
+  ],
+  "fotoAdegan": "Empty corporate meeting room with rows of chairs facing a podium, soft morning light through tall windows in a Jakarta office tower",
+  "takeaway": "Pemanggilan RUPSLB ini bersifat netral bagi MKPI karena isinya baru memuat jadwal dan agenda rapat, belum ada rincian soal substansi perubahan anggaran dasar yang bisa dinilai menguntungkan atau merugikan pemegang saham. Perubahan anggaran dasar patut dicermati karena berpotensi menyentuh struktur permodalan atau jumlah saham beredar perseroan, yang pada akhirnya bisa memengaruhi hak suara dan porsi kepemilikan pemegang saham lama. Agenda penegasan susunan pemegang saham juga relevan dipantau karena berkaitan langsung dengan siapa yang tercatat sebagai pengendali dan pemilik saham perseroan saat ini. Yang perlu ditunggu adalah hasil RUPSLB pada 27 Oktober 2026, terutama poin spesifik perubahan anggaran dasar yang disetujui dan susunan pemegang saham yang ditegaskan dalam rapat tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "foru-catatkan-98-9-juta-saham-baru-dari-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "FORU Catatkan [98,9 Juta] Saham Baru dari HMETD",
+  "deck": "BEI mencatat tambahan 98,99 juta saham baru FORU dari pelaksanaan HMETD per 1 Oktober 2026, sehingga total saham beredar perseroan kini mencapai 168,65 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T07:59:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/380ba1bd93_6a1787a823.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "HMETD",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatatkan tambahan 98.988.061 saham baru Fortune Indonesia Tbk (FORU) hasil pelaksanaan Hak Memesan Efek Terlebih Dahulu (HMETD) pada 5 Oktober 2026. Dengan pencatatan ini, total saham FORU yang tercatat di bursa naik menjadi 168.645.607.783 lembar, menurut pengumuman resmi BEI bernomor Peng-RI-00029/BEI.PP1/10-2026.",
+   "Tambahan saham ini berasal dari penawaran umum terbatas (PUT I) FORU yang berlangsung sejak 25 September hingga 6 Oktober 2026. Biro Administrasi Efek Adimitra, dalam surat tertanggal 2 Oktober 2026 kepada Direksi BEI, melaporkan bahwa pemegang saham melaksanakan haknya sebanyak 98.988.061 HMETD secara scripless melalui sistem C-BEST pada 1 Oktober 2026. Surat itu juga menyebutkan bahwa sebelum tanggal tersebut, pelaksanaan HMETD yang sudah berjalan mencapai sekitar 168,08 miliar unit, sehingga total HMETD yang terlaksana kini sekitar 168,18 miliar unit.",
+   "Menurut surat yang sama, dari total hak yang dibagikan sejak awal periode pada 25 September 2026, masih tersisa sekitar 46,92 miliar HMETD yang belum dilaksanakan pemegang saham. Jumlah ini berpotensi menambah saham beredar lagi sebelum periode pelaksanaan rights issue ditutup pada 6 Oktober 2026."
+  ],
+  "fotoAdegan": "Modern glass office towers along a busy Jakarta financial district avenue, morning light, light traffic below.",
+  "takeaway": "Ini sinyal netral bagi pemegang saham FORU, sebab tambahan 98,99 juta saham kali ini hanya pecahan sangat kecil dari total 168,65 miliar saham yang sudah beredar, dan sekadar proses administratif lanjutan dari rights issue besar yang pelonjakannya sudah terjadi dan diberitakan sebelumnya. Yang tersentuh tetap pos jumlah saham beredar dan laba per saham, karena setiap saham baru yang dicetak membuat laba perusahaan terbagi ke lebih banyak lembar sehingga porsi laba untuk setiap pemegang saham bisa menyusut, meski kali ini dampaknya nyaris tidak terasa karena ukurannya kecil. Yang masih perlu dipantau adalah sisa hak HMETD yang belum dipakai, sekitar 46,92 miliar unit menurut surat perusahaan, karena periode pelaksanaan rights issue baru ditutup pada 6 Oktober 2026, sehingga masih mungkin ada tambahan saham baru lagi sebelum tenggat itu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "otma-resmi-ganti-nama-jadi-pt-summit-oto-finance",
+  "category": "Aksi Korporasi",
+  "title": "OTMA Resmi Ganti Nama Jadi PT [Summit] Oto Finance",
+  "deck": "Bursa mengumumkan perubahan nama emiten OTMA dari PT Oto Multiartha menjadi PT Summit Oto Finance, efektif 5 Oktober 2026, menyusul merger yang efektif sejak 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T07:58:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a0abca7ac_5c3baac5d9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OTMA",
+  "tags": [
+   "OTMA",
+   "merger",
+   "perubahan nama",
+   "Summit Oto Finance"
+  ],
+  "body": [
+   "Bursa Efek Indonesia menerbitkan pengumuman resmi bernomor Peng-PNE-00012/BEI.PP1/10-2026 yang menyatakan nama emiten berkode OTMA berubah dari PT Oto Multiartha menjadi PT Summit Oto Finance. Perubahan ini berlaku efektif sejak 5 Oktober 2026, menurut surat yang ditandatangani Kadiv Pengaturan dan Operasional Perdagangan BEI, Pande Made Kusuma Ari A.",
+   "Perubahan nama ini merupakan kelanjutan dari penggabungan usaha PT Oto Multiartha dengan PT Summit Oto Finance yang sudah efektif sejak 1 Oktober 2026. Dalam surat keterbukaan informasi ke Otoritas Jasa Keuangan dan BEI, manajemen Oto Multiartha menjelaskan bahwa penggabungan ini terjadi setelah perusahaan menerima pemberitahuan perubahan data dari Kementerian Hukum. PT Oto Multiartha berperan sebagai perusahaan yang menggabungkan diri, sementara PT Summit Oto Finance menjadi perusahaan penerima penggabungan.",
+   "Sebagai akibat hukum dari penggabungan tersebut, seluruh aset, liabilitas, dan ekuitas PT Oto Multiartha beralih secara hukum kepada PT Summit Oto Finance. Status badan hukum PT Oto Multiartha akan berakhir sesuai ketentuan peraturan yang berlaku, dan tidak ada keterangan tambahan lain yang disampaikan perusahaan dalam laporan ini."
+  ],
+  "fotoAdegan": "Busy motor vehicle financing office counter with a staff member assisting a customer, motorcycles parked outside, soft daylight",
+  "takeaway": "Laporan ini netral bagi pemangku kepentingan OTMA, karena isinya hanya formalitas pencatatan nama baru di sistem bursa setelah proses merger yang sudah efektif lebih dulu pada 1 Oktober, tidak ada angka keuangan atau perubahan kepemilikan baru yang diumumkan. Yang tersentuh di sini adalah pos ekuitas, yakni seluruh modal, aset, dan utang PT Oto Multiartha yang kini tercatat menyatu dengan PT Summit Oto Finance karena hukum, sehingga laporan keuangan gabungan ke depan akan mencerminkan entitas yang lebih besar. Pelaku pasar perlu memantau ini karena perubahan struktur ekuitas semacam ini bisa mengubah basis perbandingan kinerja perusahaan dari periode ke periode. Yang perlu dipantau berikutnya adalah proses penghentian status badan hukum PT Oto Multiartha sesuai ketentuan yang berlaku, serta kelanjutan status pencatatan saham berkode OTMA di bursa pasca perubahan nama ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pack-catat-tambahan-2-4-juta-saham-dari-konversi-owk",
+  "category": "Aksi Korporasi",
+  "title": "PACK catat tambahan 2,4 juta saham dari [konversi] OWK",
+  "deck": "BEI mencatatkan 2.411.500 saham baru PACK hasil konversi obligasi wajib konversi, sehingga total saham beredar naik menjadi 34,12 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T07:57:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3dbdf98180_089a03feaa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "OWK",
+   "konversi obligasi",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia resmi mencatatkan tambahan 2.411.500 saham baru PT Abadi Nusantara Hijau Investama Tbk (PACK) pada 5 Oktober 2026. Saham baru ini terbit dari konversi Obligasi Wajib Konversi (OWK) seri PACK-01-CB yang diajukan oleh pemegang obligasi pada 30 September 2026, dengan saham baru diterbitkan pada 2 Oktober 2026. Dengan penambahan ini, total saham PACK yang tercatat di bursa naik dari 34.119.123.451 lembar menjadi 34.121.534.951 lembar.",
+   "Nilai obligasi yang dikonversi mencapai Rp241.150.000, setara 2.411.500 unit OWK, dengan rasio konversi satu unit obligasi menjadi satu lembar saham baru. Setelah konversi ini, sisa OWK yang belum dikonversi turun dari Rp6.521.489.300 menjadi Rp6.280.339.300, atau tersisa sekitar 62.803.393 unit yang masih berpotensi dikonversi menjadi saham PACK di kemudian hari. Permohonan pencatatan disampaikan ke BEI oleh PT Adimitra Jasa Korpora selaku biro administrasi efek PACK, dengan tembusan ke direksi PACK, Kustodian Sentral Efek Indonesia, dan Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Back office clerk sorting bundles of bond certificates in a quiet archive room, soft afternoon light through tall windows",
+  "takeaway": "Penambahan saham ini condong netral bagi fundamental PACK, karena saham baru yang terbit hanya 2.411.500 lembar atau sekitar 0,007 persen dari total saham sebelumnya, nyaris tidak terasa bagi kepemilikan pemegang saham lama. Yang tersentuh adalah jumlah saham beredar dan potensi laba per saham, yaitu laba perusahaan yang dibagi ke jumlah saham yang ada, karena setiap saham baru dari konversi obligasi membagi laba ke basis saham yang lebih besar, tapi dengan porsi sekecil ini efek pengenceran laba per saham praktis tidak terasa. Yang perlu dipantau berikutnya adalah sisa OWK sekitar 62,8 juta unit senilai Rp6,28 miliar yang belum dikonversi, sebab setiap kali pemegang obligasi memutuskan konversi lagi, BEI akan menerbitkan pengumuman serupa dan jumlah saham PACK bisa terus bertambah bertahap sampai seluruh OWK itu dikonversi atau jatuh tempo.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "investasi-harus-tumbuh-8-9-kejar-target-ekonomi-2027",
   "category": "Makroekonomi",
   "title": "Investasi Harus Tumbuh [8-9%] Kejar Target Ekonomi 2027",

@@ -37,6 +37,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "hut-ke-28-bank-mandiri-bagikan-bantuan-ke-berbagai-daerah",
+  "category": "Perbankan",
+  "title": "HUT ke-28 Bank Mandiri [Bagikan] Bantuan ke Berbagai Daerah",
+  "deck": "Bank Mandiri menandai HUT ke-28 dengan menyalurkan santunan ke 2.800 anak yatim piatu dan 59.080 paket sembako lewat 2.110 cabang di seluruh Indonesia, disertai donor darah.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/hut-ke-28-bank-mandiri-bagikan-bantuan-ke-berbagai-daerah.jpg",
+  "imageV": "muutq7a0",
+  "tags": [
+   "bank mandiri",
+   "TJSL",
+   "kegiatan sosial",
+   "HUT bank mandiri"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471260-28-tahun-bank-mandiri-hadir-dan-berbagi-manfaat-untuk-masyarakat"
+ },
+ {
   "slug": "pssi-tambah-enam-kapal-baru-armada-jadi-53-unit",
   "category": "Aksi Korporasi",
   "title": "PSSI Tambah [Enam] Kapal Baru, Armada Jadi 53 Unit",
@@ -117,6 +134,23 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/kinerja-apbn-di-provinsi-sumatera-utara-sampai-dengan-31-agustus-2026",
   "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "bni-hormati-proses-hukum-dana-pascatambang-koba-tin",
+  "category": "Perbankan",
+  "title": "BNI [Hormati] Proses Hukum Dana Pascatambang Koba Tin",
+  "deck": "BNI menyatakan kooperatif dengan aparat hukum soal dana jaminan pascatambang PT Koba Tin yang kini dalam status pailit.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/bni-hormati-proses-hukum-dana-pascatambang-koba-tin.jpg",
+  "imageV": "muutq7oh",
+  "tags": [
+   "BNI",
+   "PT Koba Tin",
+   "dana pascatambang",
+   "pailit"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471246-bni-hormati-proses-hukum-terkait-dana-jaminan-pascatambang-pt-koba-tin-dalam-pailit"
  },
  {
   "slug": "dewa-rombak-dua-anggota-komite-audit-efektif-1-oktober-2026",
@@ -6452,38 +6486,6 @@ var ARTICLES = [
    "bank bjb"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/371b49de59_581f8f5478.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-rupslb-20-oktober-ganti-nama-pengendali-baru-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "LAPD RUPSLB 20 Oktober: Ganti Nama, [Pengendali Baru], Rights Issue",
-  "deck": "LAPD memanggil RUPSLB 20 Oktober 2026 untuk menyetujui rights issue hingga 2 miliar saham baru, pengendali baru PT JSI Sinergi Mas, dan ganti nama jadi PT JSI Sinergi Internasional Tbk.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "RUPSLB",
-   "rights issue",
-   "pergantian pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36bfd5fdfe_c159f78c0c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oasa-direksi-lepas-11-4-juta-saham-hak-suara-ke-31-83",
-  "category": "Aksi Korporasi",
-  "title": "[OASA] Direksi Lepas 11,4 Juta Saham, Hak Suara ke 31,83%",
-  "deck": "Direktur OASA, Ir. Gafur Sulistyo Umar, menjual 11,4 juta saham tidak langsung pada 25 September 2026 seharga Rp245 per saham untuk realokasi investasi, hak suaranya turun ke 31,83%.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OASA",
-   "Maharaksa Biru Energi",
-   "Kepemilikan Saham",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-0261-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

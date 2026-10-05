@@ -55,6 +55,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "hut-ke-28-bank-mandiri-bagikan-bantuan-ke-berbagai-daerah",
+  "category": "Perbankan",
+  "title": "HUT ke-28 Bank Mandiri [Bagikan] Bantuan ke Berbagai Daerah",
+  "deck": "Bank Mandiri menandai HUT ke-28 dengan menyalurkan santunan ke 2.800 anak yatim piatu dan 59.080 paket sembako lewat 2.110 cabang di seluruh Indonesia, disertai donor darah.",
+  "image": "assets/img/hut-ke-28-bank-mandiri-bagikan-bantuan-ke-berbagai-daerah.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T11:55:12+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471260-28-tahun-bank-mandiri-hadir-dan-berbagi-manfaat-untuk-masyarakat",
+  "tags": [
+   "bank mandiri",
+   "TJSL",
+   "kegiatan sosial",
+   "HUT bank mandiri"
+  ],
+  "body": [
+   "Bank Mandiri menggelar rangkaian kegiatan sosial di berbagai wilayah Indonesia pada 2 Oktober 2026, bertepatan dengan peringatan hari ulang tahunnya yang ke-28. Bantuan yang disalurkan menyasar kebutuhan sehari-hari masyarakat, mulai dari santunan untuk anak yatim piatu, paket kebutuhan pokok, hingga donor darah. Momen ulang tahun ini sekaligus jadi penanda langkah TJSL atau program tanggung jawab sosial dan lingkungan perusahaan bertajuk Mandiri untuk Negeri.",
+   "Dari sisi santunan, Bank Mandiri memberikan bantuan kepada 2.800 anak yatim piatu dari berbagai daerah agar mereka bisa terus bersekolah. Pada hari yang sama, perusahaan juga membagikan paket sembako lewat 2.110 kantor cabang di seluruh Indonesia, masing-masing cabang menyalurkan 28 paket sehingga totalnya mencapai 59.080 paket. Penerima paket ini diarahkan kepada lansia, penyandang disabilitas, dan pekerja informal yang membutuhkan dukungan kebutuhan harian.",
+   "Corporate Secretary Bank Mandiri, Adhika Vista, menyampaikan bahwa momen ulang tahun perusahaan dijadikan kesempatan untuk mendengar kebutuhan masyarakat sekitar dan ikut memenuhinya. Menurutnya, perjalanan 28 tahun Bank Mandiri tidak lepas dari dukungan masyarakat, sehingga pertumbuhan perusahaan diharapkan turut memberi manfaat yang lebih luas melalui berbagai inisiatif TJSL Mandiri untuk Negeri."
+  ],
+  "fotoAdegan": "Volunteers loading boxes of basic food staples into a van outside a branch office while elderly residents wait, Indonesia.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/05/6ac32cc420f4f-bank-mandiri-menjalani-program-tanggung-jawab-sosial-dan-lingkungan-tjsl-mandiri-untuk-negeri-jumat-2102026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret di sini adalah angkanya: 2.800 anak yatim piatu mendapat santunan, dan 59.080 paket sembako dibagikan lewat 2.110 kantor cabang Bank Mandiri di seluruh Indonesia, ditambah kegiatan donor darah, semua dilakukan serentak pada 2 Oktober 2026 untuk merayakan HUT ke-28 bank ini. Pihak yang terdampak jelas kelompok penerima itu sendiri, yaitu anak yatim piatu, lansia, penyandang disabilitas, dan pekerja informal di berbagai daerah tempat cabang Mandiri berada. Yang belum diketahui dari berita ini adalah total dana yang dikeluarkan dan bagaimana angka tahun ini dibandingkan dengan perayaan HUT tahun-tahun sebelumnya, sehingga belum bisa disimpulkan apakah komitmen sosial bank ini membesar atau sekadar rutin diulang setiap tahun. Yang bisa menjawabnya adalah laporan tahunan atau laporan keberlanjutan Bank Mandiri berikutnya, yang biasanya merinci total anggaran dan jumlah penerima program TJSL sepanjang satu tahun penuh, bukan hanya momen seremonial ulang tahun.",
+  "imageV": "muutq7a0"
+ },
+ {
   "slug": "pssi-tambah-enam-kapal-baru-armada-jadi-53-unit",
   "category": "Aksi Korporasi",
   "title": "PSSI Tambah [Enam] Kapal Baru, Armada Jadi 53 Unit",
@@ -185,6 +211,33 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "takeaway": "Yang berubah secara konkret adalah kecepatan transfer dana pemulihan bencana ke pemerintah daerah di Sumatera Utara, Aceh, dan Sumatera Barat. Lewat aturan baru yang memudahkan syarat dokumen, pemerintah pusat sudah mengirim Rp4,82 triliun dana tambahan pemulihan bencana ke kas daerah, dari total Rp8,79 triliun yang dijanjikan tahun ini. Yang kena dampak langsung adalah pemerintah daerah yang menangani rehabilitasi infrastruktur pascabencana, sementara belanja modal milik pemerintah pusat sendiri untuk proyek sejenis di Sumatera Utara baru terpakai sepertiga dari anggarannya meski sudah melonjak lebih dari lima kali lipat dibanding tahun lalu. Pola ini menunjukkan pemerintah lebih mengandalkan pemerintah daerah sebagai pelaksana utama rekonstruksi lewat transfer dana, ketimbang mengerjakan sendiri lewat proyek kementerian atau lembaga. Yang akan menentukan apakah pola ini berlanjut adalah laporan realisasi belanja modal pusat pada akhir tahun, karena proyek fisik biasanya baru terserap besar-besaran di kuartal terakhir.",
   "imageV": "muuofu3i"
+ },
+ {
+  "slug": "bni-hormati-proses-hukum-dana-pascatambang-koba-tin",
+  "category": "Perbankan",
+  "title": "BNI [Hormati] Proses Hukum Dana Pascatambang Koba Tin",
+  "deck": "BNI menyatakan kooperatif dengan aparat hukum soal dana jaminan pascatambang PT Koba Tin yang kini dalam status pailit.",
+  "image": "assets/img/bni-hormati-proses-hukum-dana-pascatambang-koba-tin.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T10:08:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471246-bni-hormati-proses-hukum-terkait-dana-jaminan-pascatambang-pt-koba-tin-dalam-pailit",
+  "tags": [
+   "BNI",
+   "PT Koba Tin",
+   "dana pascatambang",
+   "pailit"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk menegaskan posisinya di tengah proses hukum yang menyoroti dana jaminan pascatambang milik PT Koba Tin, perusahaan tambang timah yang kini berstatus pailit. Bank pelat merah ini menyatakan telah menyerahkan data dan informasi yang diminta aparat penegak hukum untuk mengusut perkara tersebut.",
+   "Corporate Secretary BNI Okki Rushartomo mengatakan pihaknya mengikuti perkembangan kasus ini dengan tetap berpegang pada prinsip praduga tak bersalah. Ia menambahkan bahwa BNI memberikan pendampingan hukum kepada pegawai yang terlibat dalam perkara tersebut, dengan tujuan memastikan hak-hak mereka tetap terjaga selama proses berjalan.",
+   "Dari penelusuran internal BNI, terungkap kronologi bahwa pada Desember 2023 tim kurator yang mengurus kepailitan Koba Tin melaporkan bilyet deposito, yakni surat bukti kepemilikan deposito, telah hilang. Laporan itu disertai surat keterangan kehilangan dari kepolisian sebagai salah satu dokumen pendukung permohonan penutupan deposito.",
+   "BNI menyebut seluruh rangkaian transaksi tersebut kini menjadi bagian dari proses hukum yang sedang berjalan, dan bank mengaku tidak akan mendahului kesimpulan atas perkara ini sebelum proses pembuktian selesai. Manajemen juga menegaskan komitmennya menjaga tata kelola dan kepatuhan dalam setiap kegiatan operasional."
+  ],
+  "fotoAdegan": "Reclaimed open-pit tin mine filled with turquoise water surrounded by sandy terrain in Bangka Belitung, overcast daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/05/6ac313fa723af-bni-hormati-proses-hukum-terkait-dana-jaminan-pascatambang-pt-koba-tin-dalam-pailit_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari pernyataan ini adalah terbukanya satu kronologi baru: pada Desember 2023, kurator yang mengurus kepailitan Koba Tin mengajukan pencairan deposito dengan dasar surat kehilangan dari polisi atas bilyet deposito, yaitu bukti fisik kepemilikan deposito itu. Dana ini bukan dana biasa, karena dana jaminan pascatambang adalah uang yang seharusnya dipakai untuk memulihkan lahan bekas tambang timah, jadi yang berkepentingan bukan cuma BNI dan kurator, tapi juga menyangkut tanggung jawab lingkungan di area bekas tambang Koba Tin. Pegawai BNI yang didampingi pengacara menunjukkan bahwa sebagian dari mereka ikut diperiksa dalam proses hukum ini, bukan sekadar bank sebagai institusi. Yang masih belum jelas dari keterangan BNI adalah berapa nilai dana yang dipersoalkan dan sudah sejauh mana status hukumnya, apakah masih tahap penyelidikan atau sudah ada tersangka, sehingga arah perkara ini baru akan lebih terang begitu aparat penegak hukum mengumumkan tahap berikutnya.",
+  "imageV": "muutq7oh"
  },
  {
   "slug": "dewa-rombak-dua-anggota-komite-audit-efektif-1-oktober-2026",

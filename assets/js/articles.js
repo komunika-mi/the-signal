@@ -81,6 +81,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "indonesia-gelar-dialog-global-soal-royalti-hak-cipta",
+  "category": "Teknologi",
+  "title": "Indonesia Gelar Dialog Global soal [Royalti] Hak Cipta",
+  "deck": "DJKI menggelar forum internasional di Bali, 7-9 Oktober 2026, membahas tata kelola royalti hak cipta lintas negara di tengah maraknya streaming dan AI.",
+  "image": "assets/img/indonesia-gelar-dialog-global-soal-royalti-hak-cipta.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T15:41:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471299-indonesia-gelar-dialog-global-bahas-tata-kelola-royalti-hak-cipta-lintas-negara",
+  "tags": [
+   "royalti",
+   "hak cipta",
+   "DJKI",
+   "digitalisasi"
+  ],
+  "body": [
+   "Direktorat Jenderal Kekayaan Intelektual (DJKI) Kementerian Hukum akan menggelar forum internasional bertajuk Global Dialogue on Cross Border Copyright Royalty Governance in the Digital Era pada 7 hingga 9 Oktober 2026 di Bali. Forum ini digagas karena pemanfaatan karya cipta lewat layanan streaming, platform konten digital, dan kecerdasan artifisial kini banyak melintasi batas negara, sehingga pembagian royalti kepada pencipta dan pemegang hak jadi lebih rumit untuk dilacak. Bagi pembaca, ini menyangkut bagaimana nasib pendapatan para pencipta konten, musisi, hingga penulis ketika karya mereka dinikmati di banyak negara sekaligus.",
+   "Direktur Jenderal Kekayaan Intelektual Hermansyah Siregar menyebut pendekatan kolaboratif antarnegara dibutuhkan untuk memetakan persoalan dan mencari peluang kerja sama dalam tata kelola royalti lintas negara. Menurutnya, forum ini jadi tempat bertukar pandangan sekaligus mengidentifikasi peluang kerja sama menghadapi tantangan tersebut, seperti disampaikannya dalam wawancara di Gedung DJKI, Jakarta, Senin, 5 Oktober 2026. Persoalan yang jadi sorotan antara lain perbedaan sistem pengelolaan royalti antarnegara, transparansi yang masih terbatas, dan pertukaran data yang belum berjalan optimal.",
+   "Direktur Hak Cipta dan Desain Industri Agung Damarsasongko menjelaskan tiga isu utama yang akan dibahas, yaitu transparansi, akuntabilitas, dan interoperabilitas. Transparansi dimaksudkan agar pencipta dan pemegang hak tahu persis bagaimana royalti mereka dihitung dan dibagikan, akuntabilitas memastikan ada mekanisme pengawasan serta penyelesaian masalah jika terjadi perselisihan, sementara interoperabilitas mendukung pertukaran data hak cipta antarnegara agar lebih akurat. Khusus untuk pembahasan transparansi, peserta forum akan berbagi pengalaman soal keterbukaan data penggunaan karya, metode pembagian royalti, kebijakan potongan biaya, serta cara pelaporan dan rekonsiliasi pembayaran lintas negara."
+  ],
+  "fotoAdegan": "A sound engineer adjusting mixing console sliders in a small recording studio, headphones around neck, warm ambient lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/05/6ac3616ed31d4-indonesia-gelar-dialog-global-bahas-tata-kelola-royalti-hak-cipta-lintas-negara_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan Indonesia lewat DJKI menjadi penyelenggara forum dialog internasional soal royalti hak cipta lintas negara pada 7 sampai 9 Oktober 2026 di Bali. Yang terdampak langsung adalah pencipta dan pemegang hak cipta seperti musisi, penulis, dan pembuat konten, serta platform streaming dan layanan digital yang memanfaatkan karya mereka lintas negara, karena merekalah yang selama ini kesulitan melacak bagaimana royalti dihitung dan dibagi ketika sebuah karya beredar di banyak negara sekaligus. Soal ke mana arahnya, forum ini masih tahap bertukar pengalaman antarnegara soal tiga hal, yaitu keterbukaan data pemakaian karya, pengawasan atas pembagian royalti, dan standar pertukaran data antarsistem, sehingga belum bisa disimpulkan apakah akan lahir aturan baru atau sekadar kesepakatan informal. Yang masih kurang adalah hasil konkret dari pertemuan itu sendiri, misalnya apakah forum ini berujung pada rekomendasi bersama, nota kesepahaman, atau rencana aturan turunan, dan itu baru akan terlihat setelah dialog berakhir pada 9 Oktober 2026.",
+  "imageV": "muv3elmg"
+ },
+ {
   "slug": "bksl-direksi-tambah-saham-lewat-repo-suara-ke-5-59",
   "category": "Aksi Korporasi",
   "title": "BKSL: Direksi Tambah Saham Lewat [Repo], Suara ke 5,59%",

@@ -53,6 +53,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "indonesia-gelar-dialog-global-soal-royalti-hak-cipta",
+  "category": "Teknologi",
+  "title": "Indonesia Gelar Dialog Global soal [Royalti] Hak Cipta",
+  "deck": "DJKI menggelar forum internasional di Bali, 7-9 Oktober 2026, membahas tata kelola royalti hak cipta lintas negara di tengah maraknya streaming dan AI.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/indonesia-gelar-dialog-global-soal-royalti-hak-cipta.jpg",
+  "imageV": "muv3elmg",
+  "tags": [
+   "royalti",
+   "hak cipta",
+   "DJKI",
+   "digitalisasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471299-indonesia-gelar-dialog-global-bahas-tata-kelola-royalti-hak-cipta-lintas-negara"
+ },
+ {
   "slug": "bksl-direksi-tambah-saham-lewat-repo-suara-ke-5-59",
   "category": "Aksi Korporasi",
   "title": "BKSL: Direksi Tambah Saham Lewat [Repo], Suara ke 5,59%",
@@ -6466,22 +6483,6 @@ var ARTICLES = [
    "MNC Sky Vision"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/512caded6d_b9ec55f724.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raam-direksi-tambah-saham-294-600-lembar-rp51-juta",
-  "category": "Aksi Korporasi",
-  "title": "RAAM: Direksi [Tambah] Saham 294.600 Lembar, Rp51 Juta",
-  "deck": "Ram Jethmal Punjabi menambah kepemilikan saham Tripar Multivision Plus lewat 10 transaksi kecil pada 25 September 2026, namun porsinya nyaris tak mengubah hak suaranya.",
-  "date": "28 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAAM",
-   "Tripar Multivision",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-28092026-1712-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

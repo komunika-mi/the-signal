@@ -3,6 +3,188 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pgeo-catatkan-1-43-juta-saham-baru-dari-mesop",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catatkan 1,43 Juta Saham Baru dari [MESOP]",
+  "deck": "PT Pertamina Geothermal Energy mencatatkan 1.429.793 saham baru hasil pelaksanaan opsi karyawan Tahap I dan III pada 6 Oktober 2026, menambah total saham beredar menjadi 41,95 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:31:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1283ef9a12_290a4d499b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "ESOP",
+   "MESOP",
+   "saham baru"
+  ],
+  "body": [
+   "PT Pertamina Geothermal Energy Tbk (PGEO) mencatatkan 1.429.793 saham baru di Bursa Efek Indonesia pada 6 Oktober 2026, hasil pelaksanaan opsi dalam program kepemilikan saham karyawan dan manajemen atau ESOP/MESOP. Saham baru ini terbagi dalam dua tahap, yaitu Tahap I sebanyak 937.335 saham dan Tahap III sebanyak 492.458 saham, yang keduanya dicatatkan pada tanggal yang sama.",
+   "Setelah pencatatan Tahap I, total saham beredar PGEO naik menjadi 41.953.761.123 lembar, dengan sisa opsi Tahap I yang belum dilaksanakan tercatat 9.970.905 saham. Setelah Tahap III ikut dicatatkan, total saham beredar bertambah lagi menjadi 41.954.253.581 lembar, sementara sisa opsi Tahap III yang belum dieksekusi tinggal 7.491.026 saham.",
+   "Berdasarkan surat PT Datindo Entrycom selaku biro administrasi efek PGEO, permohonan penerbitan saham baru ini diajukan pada 2 Oktober 2026 dan saham resmi diterbitkan pada 5 Oktober 2026, sehari sebelum dicatatkan di bursa. Surat tersebut ditandatangani Direktur Utama Datindo Entrycom, E. Agung Setiawati, dan ditembuskan kepada Muhammad Taufik selaku Corporate Secretary PGEO."
+  ],
+  "fotoAdegan": "Steam rising from geothermal power plant cooling towers on a forested volcanic highland in Indonesia, overcast morning light",
+  "takeaway": "Laporan ini netral bagi PGEO: tambahan 1,43 juta saham dari program opsi karyawan hanya menggeser total saham beredar sekitar 0,0034 persen, porsi yang terlalu kecil untuk mengubah peta kepemilikan atau nilai perusahaan secara berarti. Yang tersentuh cuma jumlah saham beredar, dan itu berkaitan dengan laba per saham, yaitu ukuran laba yang dibagi ke tiap lembar saham; makin banyak saham beredar, makin kecil jatah laba per lembarnya, meski di sini efeknya nyaris tidak terasa karena skalanya sangat tipis dibanding total saham PGEO yang sudah di atas 41,9 miliar lembar. Yang perlu dipantau berikutnya adalah sisa opsi yang belum dieksekusi, 9,97 juta saham di Tahap I dan 7,49 juta saham di Tahap III, yang berpotensi menambah saham beredar lagi kalau pemegangnya mencairkan opsi itu pada periode pencatatan mendatang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "iata-siapkan-dana-rp199-1-miliar-lunasi-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "[IATA] Siapkan Dana Rp199,1 Miliar Lunasi Obligasi dan Sukuk",
+  "deck": "Obligasi dan sukuk wakalah IATA senilai total Rp199,1 miliar jatuh tempo 6 Oktober 2026. Manajemen menyatakan ke BEI dana pelunasan sudah siap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:29:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a75e87e442_d37d163031.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IATA",
+  "tags": [
+   "IATA",
+   "obligasi",
+   "sukuk wakalah",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa mulai 6 Oktober 2026 dua instrumen utang milik PT Karya Pacific Energy Tbk (IATA), yakni Obligasi Berkelanjutan I MNC Energy Investments Tahap I Tahun 2023 Seri B senilai Rp149,8 miliar dan Sukuk Wakalah Berkelanjutan I seri yang sama senilai Rp49,3 miliar, tidak lagi tercatat dan tidak dapat diperdagangkan di bursa karena sudah jatuh tempo. Kedua efek ini diterbitkan pada 6 Oktober 2023 dengan tenor tiga tahun, membawa kupon atau imbal hasil tetap 11,25 persen per tahun yang dibayarkan setiap tiga bulan, sementara pokoknya baru dilunasi sekaligus pada tanggal jatuh tempo, bukan dicicil.",
+   "Dokumen yang dilampirkan juga memuat surat PT Karya Pacific Energy Tbk kepada BEI tertanggal 15 September 2026, ditandatangani Presiden Direktur Suryo Eko Hadianto, yang menyatakan perseroan telah menyiapkan dana untuk melunasi kedua efek tersebut, yaitu Rp149,825 miliar untuk Obligasi Seri B dan Rp49,3 miliar untuk Sukuk Wakalah Seri B, atau total sekitar Rp199,1 miliar. Surat ini merupakan pemenuhan ketentuan Peraturan I-E BEI yang mewajibkan emiten melaporkan kesiapan dana pelunasan sebelum efek utang jatuh tempo.",
+   "Kedua efek ini merupakan bagian dari Penawaran Umum Berkelanjutan senilai total Rp1 triliun untuk obligasi dan Rp500 miliar untuk sukuk wakalah yang diterbitkan saat perseroan masih bernama PT MNC Energy Investments Tbk, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat dan PT MNC Sekuritas, pihak terafiliasi, sebagai penjamin pelaksana emisi. Dari rangkaian penerbitan ini, Seri A sudah jatuh tempo pada Oktober 2024, Seri B yang dibahas dalam pengumuman ini jatuh tempo 6 Oktober 2026, sementara Seri C senilai Rp100,175 miliar masih akan jatuh tempo pada 6 Oktober 2028."
+  ],
+  "fotoAdegan": "Wide view of Jakarta's financial district skyline with modern office towers at dusk, light traffic on the street below",
+  "takeaway": "Laporan ini condong positif bagi IATA karena manajemen menegaskan secara resmi ke bursa bahwa dana pelunasan sudah tersedia, sehingga risiko gagal bayar atas obligasi dan sukuk senilai gabungan Rp199,1 miliar ini bisa dikesampingkan. Pos yang tersentuh adalah kas perusahaan, yang harus mengeluarkan dana dalam jumlah besar sekaligus untuk pembayaran penuh di tanggal jatuh tempo, dan beban bunga ke depan, yang akan berkurang karena kewajiban bunga 11,25 persen per tahun atas pokok tersebut otomatis berhenti setelah lunas. Yang perlu dipantau selanjutnya adalah apakah pembayaran benar-benar terealisasi pada 6 Oktober 2026 sesuai jadwal, serta bagaimana kemampuan bayar perseroan menjelang jatuh tempo Seri C senilai Rp100,175 miliar pada 6 Oktober 2028 yang masih outstanding.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "lppi-jatuh-tempo-obligasi-rp1-48-triliun-lepas-dari-bursa",
+  "category": "Aksi Korporasi",
+  "title": "LPPI [Jatuh Tempo] Obligasi Rp1,48 Triliun, Lepas dari Bursa",
+  "deck": "Obligasi Seri B senilai Rp1,48 triliun milik LPPI resmi jatuh tempo dan didelisting dari BEI mulai 6 Oktober 2026, menandai pelunasan salah satu seri Obligasi Berkelanjutan II.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:27:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/585c9f2781_a38548e713.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan II Lontar Papyrus Pulp & Paper Industry Tahap II Tahun 2023 Seri B dengan kode LPPI02BCN2 resmi tidak lagi tercatat dan tidak dapat diperdagangkan di bursa mulai 6 Oktober 2026. Obligasi dengan nilai pokok Rp1.483.070.000.000, atau sekitar Rp1,48 triliun, ini jatuh tempo pada tanggal yang sama, tepat tiga tahun setelah diterbitkan pada 6 Oktober 2023. Pengumuman bernomor Peng-JTO-00065/BEI.PP2/10-2026 ini ditandatangani oleh Kepala Divisi Pengaturan dan Operasional Perdagangan BEI, Pande Made Kusuma Ari A, dan Kepala Divisi Penilaian Perusahaan 2, Adi Pratomo Aryanto.",
+   "Seri B ini merupakan bagian dari Obligasi Berkelanjutan II Lontar Papyrus Pulp & Paper Industry yang menargetkan total dana Rp7 triliun. Pada Tahap II tahun 2023, LPPI menerbitkan tiga seri obligasi dengan total pokok Rp1,8 triliun: Seri A senilai Rp85,74 miliar berbunga 6,50 persen per tahun dengan tenor 370 hari, Seri B senilai Rp1,48 triliun berbunga 10,50 persen per tahun dengan tenor tiga tahun, dan Seri C senilai Rp231,19 miliar berbunga 11 persen per tahun dengan tenor lima tahun. Obligasi ini tidak dijamin dengan aset khusus milik perusahaan, memperoleh peringkat idA (Single A) dari Pefindo, dan menggunakan PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk sebagai wali amanat yang mewakili kepentingan pemegang obligasi.",
+   "Dengan jatuh temponya Seri B, kewajiban utang LPPI dari seri ini berkurang Rp1,48 triliun beserta beban bunga tahunan sekitar Rp155,7 miliar yang menyertainya selama tiga tahun terakhir. Seri C senilai Rp231,19 miliar dari penerbitan yang sama masih akan beredar hingga jatuh tempo pada 6 Oktober 2028, sementara Seri A sudah tuntas lebih dulu pada 16 Oktober 2024."
+  ],
+  "fotoAdegan": "Workers inspecting large rolls of pulp paper on a conveyor inside an industrial paper mill, overhead cranes and steam in the background",
+  "takeaway": "Laporan ini netral bagi LPPI karena pelunasan Obligasi Seri B senilai Rp1,48 triliun ini sudah dijadwalkan sejak penerbitannya tiga tahun lalu, jadi bukan kejadian mengejutkan bagi pasar, selama perusahaan memang melunasi pokoknya sesuai rencana. Pos yang tersentuh adalah utang dan beban bunga, yaitu kewajiban membayar pinjaman ke pemegang obligasi: dengan lunasnya pokok Rp1,48 triliun ini, beban bunga tahunan sekitar Rp155,7 miliar yang selama ini dibayar dengan bunga 10,50 persen per tahun ikut hilang dari laporan keuangan mendatang, yang biasanya memperbaiki rasio utang perusahaan asalkan pelunasan tidak menguras kas operasional secara berlebihan. Yang perlu dipantau berikutnya adalah apakah LPPI merilis laporan realisasi pembayaran pokok dan bunga terakhir Seri B kepada pemegang obligasi serta wali amanat Bank BJB, dan bagaimana arus kas perusahaan menyerap pelunasan sebesar itu, mengingat Seri C senilai Rp231,19 miliar dari penerbitan yang sama masih harus dilunasi pada 6 Oktober 2028.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "foru-catatkan-89-7-juta-saham-baru-hasil-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "FORU Catatkan [89,7 Juta] Saham Baru Hasil HMETD",
+  "deck": "BEI mencatat tambahan 89,73 juta saham baru dari pelaksanaan HMETD FORU, membuat total saham tercatat emiten ini jadi 168,74 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:25:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/843409b6e8_82b5110ff5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "HMETD",
+   "rights issue",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatat tambahan 89.728.333 saham baru PT Fortune Indonesia Tbk (FORU) hasil pelaksanaan Hak Memesan Efek Terlebih Dahulu (HMETD), efektif berlaku di Papan Pengembangan pada 6 Oktober 2026. Dengan penambahan ini, total saham FORU yang tercatat di bursa menjadi 168.735.336.116 lembar.",
+   "Berdasarkan surat PT Adimitra Jasa Korpora selaku Biro Administrasi Efek FORU kepada BEI, penambahan ini berasal dari Penawaran Umum Terbatas (PUT) I FORU yang periode pelaksanaannya berlangsung 25 September hingga 6 Oktober 2026. Pemegang saham melaksanakan HMETD sebanyak 89.728.333 unit melalui sistem C-BEST pada 2 Oktober 2026. Dengan tambahan ini, total HMETD yang sudah dilaksanakan sejak awal periode mencapai 168.270.112.116 unit dari total hak yang diterbitkan sebesar 215.096.316.400 unit, sehingga masih tersisa 46.826.204.284 HMETD yang belum dilaksanakan menjelang akhir periode.",
+   "Sebagai pembanding, jumlah saham FORU sebelum penawaran umum terbatas ini dimulai hanya sekitar 465,22 juta lembar, menurut data Biro Administrasi Efek perseroan. Artinya rangkaian pelaksanaan HMETD sepanjang PUT I telah membesarkan jumlah saham beredar FORU ratusan kali lipat dibanding sebelum aksi korporasi ini."
+  ],
+  "fotoAdegan": "Exterior view of a tall glass office tower in Jakarta's Sudirman business district at dusk, blurred traffic lights below.",
+  "takeaway": "Penambahan 89,73 juta saham ini tergolong netral bagi pemegang saham FORU, sebab porsinya hanya sekitar 0,05 persen dari total 168,74 miliar saham yang kini tercatat, sehingga tidak mengubah kendali atau proporsi kepemilikan secara berarti. Yang tersentuh adalah jumlah saham beredar, yang terus bertambah drastis sejak rights issue ini berjalan, dari sekitar 465 juta lembar menjadi 168,74 miliar lembar, sehingga laba perseroan ke depan akan terbagi ke basis saham yang jauh lebih besar dan laba per saham berpotensi terdilusi. Yang perlu dipantau adalah hasil akhir setelah periode pelaksanaan HMETD ditutup pada 6 Oktober 2026, terutama nasib sisa 46,83 miliar hak yang belum dieksekusi, karena bagian yang tidak dilaksanakan pemegang saham biasanya diserap pembeli siaga dan bisa menambah dilusi bagi pemegang saham yang tidak ikut serta dalam rights issue ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wika-gagal-bayar-bagi-hasil-sukuk-rupsu-digelar-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Gagal Bayar] Bagi Hasil Sukuk, RUPSU Digelar 21 Oktober",
+  "deck": "WIKA memanggil pemegang Sukuk Mudharabah Berkelanjutan III Tahap I 2022 untuk RUPSU pada 21 Oktober 2026, menyusul gagal bayar bagi hasil dua periode berturut-turut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:12:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fb8fe5a89a_c0d9a8a2f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) memanggil para pemegang Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 untuk menghadiri Rapat Umum Pemegang Sukuk (RUPSU) pada Rabu, 21 Oktober 2026, pukul 14.00 WIB di WIKA Tower 2, Jalan D.I. Panjaitan Kavling 9-10, Jakarta Timur. RUPSU ini diselenggarakan atas permintaan PT Bank Mega Tbk selaku wali amanat, berdasarkan Perjanjian Perwaliamanatan Akta Nomor 47 tanggal 20 Juli 2022.",
+   "Penyebab pemanggilan ini adalah kelalaian WIKA dalam memenuhi dua kewajiban pembayaran sekaligus, yaitu Pendapatan Bagi Hasil ke-14 untuk sukuk Seri A, serta Pendapatan Bagi Hasil ke-15 untuk sukuk Seri B dan Seri C dari penerbitan yang sama. Dalam RUPSU nanti, WIKA akan memberikan penjelasan atas kelalaian tersebut dan mengajukan usulan penyelesaian, yang selanjutnya akan dibahas dan diputuskan langsung oleh para pemegang sukuk yang hadir.",
+   "Pemegang sukuk yang berhak hadir dan memiliki hak suara adalah yang namanya tercatat dalam Daftar Pemegang Rekening di PT Kustodian Sentral Efek Indonesia (KSEI) tiga hari kerja sebelum tanggal RUPSU, dengan membawa Konfirmasi Tertulis Untuk RUPSU (KTUR). RUPSU dinyatakan sah jika dihadiri perwakilan minimal tiga perempat dari jumlah sukuk yang belum dilunasi, dan keputusan baru mengikat jika disetujui minimal tiga perempat dari sukuk yang hadir dalam rapat. Sukuk yang dimiliki WIKA sendiri atau afiliasinya tidak memiliki hak suara dalam RUPSU ini, kecuali afiliasi tersebut terbentuk karena penyertaan modal pemerintah."
+  ],
+  "fotoAdegan": "Construction cranes and steel rebar structures at a large infrastructure project site, workers in safety vests, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi WIKA, karena memperlihatkan perusahaan gagal membayar bagi hasil sukuk untuk dua periode pembayaran sekaligus, yakni pembayaran ke-14 Seri A dan ke-15 Seri B serta C. Yang tersentuh di sini adalah arus kas, yakni ketersediaan uang tunai perusahaan untuk menutup kewajiban yang jatuh tempo, dan pelaku pasar mencermatinya karena gagal bayar yang berulang bisa memicu klausul wanprestasi pada utang lain yang biasa disebut cross default. Yang perlu dipantau berikutnya adalah hasil RUPSU pada 21 Oktober 2026, yakni apakah para pemegang sukuk menyetujui usulan penyelesaian yang diajukan WIKA atau menolaknya dan menuntut langkah lain, mengingat keputusan baru sah jika disetujui minimal tiga perempat dari sukuk yang hadir dalam rapat tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-panggil-rupsu-sukuk-minta-restrukturisasi-bagi-hasil",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Panggil RUPSU Sukuk, Minta [Restrukturisasi] Bagi Hasil",
+  "deck": "WIKA menggelar rapat pemegang sukuk pada 21 Oktober 2026 untuk meminta penundaan jadwal bagi hasil dan pengampunan atas gagal bayar dua periode sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:11:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/19372052df_09b31206f4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk mengumumkan panggilan Rapat Umum Pemegang Sukuk (RUPSU) untuk pemegang Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap I Tahun 2020. Rapat akan digelar Rabu, 21 Oktober 2026 pukul 09.00 WIB di WIKA Tower 2, Jl. D.I. Panjaitan Kavling 9-10, Jakarta Timur. Rapat ini diminta sendiri oleh WIKA selaku emiten, dengan PT Bank Mega Tbk bertindak sebagai wali amanat yang mewakili kepentingan pemegang sukuk.",
+   "Ada tiga agenda yang diajukan. Pertama, persetujuan mengubah ketentuan Pasal 5 ayat 5.5 perjanjian perwaliamanatan terkait perubahan atau penundaan jadwal pembayaran bagi hasil ke-22 seri B dan ke-23 seri C. Kedua, persetujuan serupa untuk menunda jadwal pembayaran bagi hasil ke-23 seri B dan ke-24 seri C. Ketiga, dan yang paling menunjukkan posisi WIKA saat ini, permintaan pengesampingan pelanggaran atas kegagalan membayar bagi hasil ke-22 seri B dan ke-23 seri C yang sudah jatuh tempo.",
+   "Agar sah, rapat ini harus dihadiri pemegang sukuk yang mewakili minimal tiga perempat dari total sukuk yang belum dilunasi, dan keputusan baru mengikat jika disetujui minimal tiga perempat dari sukuk yang hadir. Sukuk yang dipegang WIKA sendiri atau afiliasinya tidak punya hak suara dalam penghitungan kuorum ini, kecuali afiliasi itu terbentuk karena penyertaan modal pemerintah. Pemegang sukuk yang hadir wajib membawa dokumen konfirmasi dari KSEI serta identitas diri yang masih berlaku."
+  ],
+  "fotoAdegan": "Empty modern corporate meeting hall with rows of chairs facing a podium, tall windows, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi WIKA, karena isinya bukan sekadar permintaan menunda jadwal, melainkan permohonan resmi agar pemegang sukuk memaafkan kegagalan membayar dua periode bagi hasil yang sudah lewat jatuh tempo. Yang tersentuh di sini adalah arus kas perusahaan, yaitu kemampuan WIKA menyediakan uang tunai tepat waktu untuk kewajiban yang sudah disepakati, dan pasar memperhatikan ini karena gagal bayar berulang biasanya jadi sinyal tekanan likuiditas yang lebih luas, bukan sekadar masalah teknis administrasi. Yang perlu dipantau berikutnya adalah hasil RUPSU pada 21 Oktober 2026, sebab keputusan itu butuh persetujuan dari pemegang sukuk yang mewakili tiga perempat suara, dan jika tidak tercapai, status gagal bayar WIKA atas sukuk ini bisa berlanjut tanpa penyelesaian formal.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-panggil-rupsu-sukuk-seri-b-c-gagal-bayar-bagi-hasil-ke-20",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Panggil RUPSU Sukuk Seri B-C, [Gagal Bayar] Bagi Hasil ke-20",
+  "deck": "WIKA mengundang pemegang Sukuk Mudharabah Berkelanjutan II Tahap I 2021 ke RUPSU 19 Oktober 2026, menyusul gagal bayar bagi hasil ke-20 Seri B dan C serta gagal lunasi pokok Seri B.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:11:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63b9c079e5_fbeb007529.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk memanggil para pemegang Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap I Tahun 2021 untuk menghadiri Rapat Umum Pemegang Sukuk (RUPSU) pada Senin, 19 Oktober 2026 pukul 14.00 WIB di WIKA Tower 2, Jl. D.I. Panjaitan Kavling 9-10, Jakarta Timur. Rapat ini digelar atas permintaan PT Bank Mega Tbk selaku wali amanat sukuk tersebut.",
+   "Agenda rapat adalah penjelasan WIKA soal kelalaian membayar dua kewajiban, yaitu Pendapatan Bagi Hasil ke-20 untuk Sukuk Seri B dan Seri C, serta kewajiban pembayaran kembali Dana Sukuk Tahap I Tahun 2022 Seri B. WIKA juga akan mengajukan usulan penyelesaian atas dua kelalaian itu, yang kemudian akan dimintakan sikap dan keputusan dari para pemegang sukuk dalam rapat yang sama.",
+   "RUPSU dinyatakan sah bila dihadiri atau diwakili pemegang sukuk sebesar minimal tiga perempat dari jumlah sukuk yang belum dilunasi, dan keputusan baru mengikat jika disetujui minimal tiga perempat dari sukuk yang hadir. Pemegang sukuk yang berhak adalah yang namanya tercatat di Kustodian Sentral Efek Indonesia tiga hari kerja sebelum tanggal rapat, dan harus membawa Konfirmasi Tertulis Untuk RUPSU (KTUR) dari KSEI beserta identitas diri saat menghadiri."
+  ],
+  "fotoAdegan": "Wide shot of an elevated highway construction site with cranes and scaffolding, workers in hard hats, overcast Jakarta skyline",
+  "takeaway": "Laporan ini condong negatif bagi WIKA, karena menambah daftar kegagalan bayar yang terungkap, bagi hasil ke-20 Seri B dan C serta gagal melunasi pokok Seri B dari tahap sukuk berbeda dari yang sudah diberitakan sebelumnya. Yang tersentuh adalah arus kas perusahaan, yaitu kemampuan WIKA menyediakan uang tunai tepat waktu untuk membayar utang jatuh tempo, sebuah ukuran yang jadi perhatian utama pemegang obligasi dan sukuk karena gagal bayar berulang bisa memicu permintaan pelunasan dipercepat atau restrukturisasi utang lain. Yang perlu dipantau adalah hasil RUPSU pada 19 Oktober 2026, apakah pemegang sukuk menyetujui usulan penyelesaian dari WIKA atau menolaknya, sebab keputusan itu memerlukan persetujuan minimal tiga perempat suara yang hadir.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "king-dirikan-anak-usaha-baru-di-bisnis-keamanan",
   "category": "Aksi Korporasi",
   "title": "KING Dirikan Anak Usaha Baru di Bisnis [Keamanan]",
@@ -79,6 +261,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of server racks with blinking status lights in a dim data center corridor, Jakarta technology office at night",
   "takeaway": "Laporan ini cenderung positif bagi CYBR karena sang direktur menambah, bukan mengurangi, kepemilikannya sendiri lewat pembelian berulang selama lebih dari sepekan, yang biasa dibaca pasar sebagai bentuk keyakinan orang dalam pada perusahaannya. Transaksi ini tidak menambah jumlah saham beredar perusahaan karena sahamnya dibeli dari pasar sekunder, bukan diterbitkan baru, sehingga yang bergeser hanyalah porsi kepemilikan sang direktur, bukan struktur modal CYBR secara keseluruhan. Dari sisi hak suara, porsinya memang masih kecil, hanya naik dari 0,743 persen ke 0,797 persen dari seluruh saham perusahaan, jadi dampaknya terhadap pengendalian perusahaan belum berarti. Yang perlu dipantau selanjutnya adalah apakah Dannacher melanjutkan pola pembelian serupa di laporan periode berikutnya, mengingat ia telah menyatakan akan mempertahankan status pengendalinya di CYBR.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "saham-gama-disuspensi-penuh-bei-soal-going-concern",
+  "category": "Aksi Korporasi",
+  "title": "Saham GAMA Disuspensi Penuh BEI, Soal [Going Concern]",
+  "deck": "Bursa menghentikan sementara perdagangan saham Aksara Global Development (GAMA) di seluruh pasar mulai 6 Oktober 2026 karena keraguan atas kelangsungan usaha perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T22:02:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/175c6b4197_ad70df7169.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GAMA",
+  "tags": [
+   "GAMA",
+   "suspensi saham",
+   "going concern",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan saham PT Aksara Global Development Tbk (GAMA) di Pasar Negosiasi, setelah sebelumnya saham ini sudah disetop di Pasar Reguler dan Pasar Tunai. Dengan keputusan ini, saham GAMA tidak bisa diperjualbelikan di seluruh jenis pasar terhitung sejak sesi pra pembukaan perdagangan pada Selasa, 6 Oktober 2026, sampai ada pengumuman lanjutan dari Bursa.",
+   "Alasan yang disebutkan BEI adalah adanya indikasi ketidakpastian material yang menimbulkan keraguan signifikan atas kemampuan GAMA mempertahankan kelangsungan usahanya. Bursa merujuk pada surat tertanggal 28 September 2026 perihal permintaan penjelasan dan pengingat kewajiban kepada perusahaan, serta pengumuman lama dari Juli 2023 terkait penyampaian laporan keuangan auditan untuk tahun buku 2022. Rujukan ini menunjukkan masalah pelaporan dan kewajiban GAMA ke Bursa sudah berlangsung sejak beberapa tahun lalu.",
+   "BEI meminta semua pihak yang berkepentingan untuk terus mencermati keterbukaan informasi yang disampaikan oleh GAMA ke depannya. Pengumuman ini ditandatangani oleh Pejabat Pengganti Kepala Divisi Penilaian Perusahaan 1, Aditya Nugraha, dan Kepala Divisi Pengaturan dan Operasional Perdagangan, Pande Made Kusuma Ari A., pada 5 Oktober 2026."
+  ],
+  "fotoAdegan": "A quiet, unfinished property development site in Jakarta with idle construction equipment under an overcast sky, no workers present",
+  "takeaway": "Penilaian redaksi: ini sinyal negatif, karena suspensi penuh di seluruh pasar jarang dijatuhkan Bursa dan baru terjadi ketika ada keraguan serius soal kemampuan perusahaan bertahan. Yang tersentuh langsung adalah likuiditas saham investor, sebab begitu disuspensi, pemegang saham tidak bisa menjual atau membeli saham GAMA sampai Bursa membuka kembali perdagangannya. Istilah going concern sendiri berarti keraguan apakah perusahaan masih bisa beroperasi secara wajar dalam waktu dekat, biasanya dipicu masalah keuangan atau kewajiban yang tidak dipenuhi, dan di sini dipicu oleh rujukan pada surat permintaan penjelasan dan pengingat kewajiban yang dikirim Bursa pada 28 September 2026 serta masalah pelaporan keuangan sejak 2023. Yang perlu dipantau selanjutnya adalah penjelasan resmi dari GAMA ke Bursa menanggapi surat tersebut, dan pengumuman lanjutan BEI yang akan menentukan kapan atau apakah suspensi ini dicabut.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bjbr-pertahankan-rating-aa-idn-dari-fitch-npl-naik-3-3",

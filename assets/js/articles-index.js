@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pgeo-catatkan-1-43-juta-saham-baru-dari-mesop",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Catatkan 1,43 Juta Saham Baru dari [MESOP]",
+  "deck": "PT Pertamina Geothermal Energy mencatatkan 1.429.793 saham baru hasil pelaksanaan opsi karyawan Tahap I dan III pada 6 Oktober 2026, menambah total saham beredar menjadi 41,95 miliar lembar.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "ESOP",
+   "MESOP",
+   "saham baru"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1283ef9a12_290a4d499b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iata-siapkan-dana-rp199-1-miliar-lunasi-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "[IATA] Siapkan Dana Rp199,1 Miliar Lunasi Obligasi dan Sukuk",
+  "deck": "Obligasi dan sukuk wakalah IATA senilai total Rp199,1 miliar jatuh tempo 6 Oktober 2026. Manajemen menyatakan ke BEI dana pelunasan sudah siap.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IATA",
+   "obligasi",
+   "sukuk wakalah",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a75e87e442_d37d163031.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppi-jatuh-tempo-obligasi-rp1-48-triliun-lepas-dari-bursa",
+  "category": "Aksi Korporasi",
+  "title": "LPPI [Jatuh Tempo] Obligasi Rp1,48 Triliun, Lepas dari Bursa",
+  "deck": "Obligasi Seri B senilai Rp1,48 triliun milik LPPI resmi jatuh tempo dan didelisting dari BEI mulai 6 Oktober 2026, menandai pelunasan salah satu seri Obligasi Berkelanjutan II.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/585c9f2781_a38548e713.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-catatkan-89-7-juta-saham-baru-hasil-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "FORU Catatkan [89,7 Juta] Saham Baru Hasil HMETD",
+  "deck": "BEI mencatat tambahan 89,73 juta saham baru dari pelaksanaan HMETD FORU, membuat total saham tercatat emiten ini jadi 168,74 miliar lembar.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "HMETD",
+   "rights issue",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/843409b6e8_82b5110ff5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-gagal-bayar-bagi-hasil-sukuk-rupsu-digelar-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Gagal Bayar] Bagi Hasil Sukuk, RUPSU Digelar 21 Oktober",
+  "deck": "WIKA memanggil pemegang Sukuk Mudharabah Berkelanjutan III Tahap I 2022 untuk RUPSU pada 21 Oktober 2026, menyusul gagal bayar bagi hasil dua periode berturut-turut.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fb8fe5a89a_c0d9a8a2f8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-panggil-rupsu-sukuk-minta-restrukturisasi-bagi-hasil",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Panggil RUPSU Sukuk, Minta [Restrukturisasi] Bagi Hasil",
+  "deck": "WIKA menggelar rapat pemegang sukuk pada 21 Oktober 2026 untuk meminta penundaan jadwal bagi hasil dan pengampunan atas gagal bayar dua periode sebelumnya.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/19372052df_09b31206f4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-panggil-rupsu-sukuk-seri-b-c-gagal-bayar-bagi-hasil-ke-20",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Panggil RUPSU Sukuk Seri B-C, [Gagal Bayar] Bagi Hasil ke-20",
+  "deck": "WIKA mengundang pemegang Sukuk Mudharabah Berkelanjutan II Tahap I 2021 ke RUPSU 19 Oktober 2026, menyusul gagal bayar bagi hasil ke-20 Seri B dan C serta gagal lunasi pokok Seri B.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63b9c079e5_fbeb007529.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "king-dirikan-anak-usaha-baru-di-bisnis-keamanan",
   "category": "Aksi Korporasi",
   "title": "KING Dirikan Anak Usaha Baru di Bisnis [Keamanan]",
@@ -50,6 +162,22 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7781-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-gama-disuspensi-penuh-bei-soal-going-concern",
+  "category": "Aksi Korporasi",
+  "title": "Saham GAMA Disuspensi Penuh BEI, Soal [Going Concern]",
+  "deck": "Bursa menghentikan sementara perdagangan saham Aksara Global Development (GAMA) di seluruh pasar mulai 6 Oktober 2026 karena keraguan atas kelangsungan usaha perusahaan.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GAMA",
+   "suspensi saham",
+   "going concern",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/175c6b4197_ad70df7169.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6349,134 +6477,6 @@ var ARTICLES = [
    "First Resources"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8df820e992_46ac6efe2c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-lunasi-obligasi-sukuk-rp1-04-triliun-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "INKP Lunasi Obligasi-Sukuk [Rp1,04 Triliun] November 2026",
-  "deck": "INKP akan melunasi pokok obligasi dan sukuk rupiah senilai total Rp1,04 triliun pada 21 November 2026, disusul obligasi dolar AS US$900.000 sehari kemudian.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi",
-   "sukuk",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f8f046c494_2d4e62d626.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "crab-utang-bank-mandiri-disorot-auditor-sebagai-hal-audit-utama",
-  "category": "Aksi Korporasi",
-  "title": "CRAB: Utang Bank Mandiri Disorot Auditor sebagai [Hal Audit Utama]",
-  "deck": "Sesi tanya jawab Public Expose CRAB mengungkap kenaikan liabilitas terkait kredit modal kerja Bank Mandiri yang oleh auditor ditandai sebagai Hal Audit Utama, di tengah proses hukum yang masih berjalan.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRAB",
-   "Toba Surimi Industries",
-   "Public Expose",
-   "Bank Mandiri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/59c907c130_fa2486110f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-belum-kantongi-restu-tunda-bayar-bunga-obligasi-rp44-7-m",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Belum Kantongi Restu [Tunda] Bayar Bunga Obligasi Rp44,7 M",
-  "deck": "RUPO dan RUPSu PTPP pada 1-2 September 2026 belum menyetujui usulan penundaan bunga obligasi dan bagi hasil sukuk untuk enam instrumen senilai Rp44,68 miliar yang jatuh tempo Oktober 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "obligasi",
-   "restrukturisasi utang",
-   "sukuk mudharabah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a2a5972d5_b1f917466e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-terbitkan-1-25-miliar-saham-baru-dana-rp125-m-ke-gigp",
-  "category": "Aksi Korporasi",
-  "title": "INPS Terbitkan [1,25 Miliar] Saham Baru, Dana Rp125 M ke GIGP",
-  "deck": "PT Indah Prakasa Sentosa (INPS) akan menerbitkan hingga 1,25 miliar saham baru kepada pengendali GIGP senilai Rp125 miliar untuk menambal ekuitas negatif dan melunasi utang.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "private placement",
-   "dilusi saham",
-   "perbaikan posisi keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4a799bc5e_08fc1fb2ca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ayls-catat-transaksi-afiliasi-rp280-6-juta-ke-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "AYLS Catat [Transaksi Afiliasi] Rp280,6 Juta ke Pengendali",
-  "deck": "Arkayana Lestari Grup melaporkan transaksi afiliasi senilai Rp280,6 juta dengan pengendalinya, PT Bintang Cahaya Investment, untuk kebutuhan operasional Agustus 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AYLS",
-   "transaksi afiliasi",
-   "keterbukaan informasi",
-   "pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aaac5f2406_c02550f7ac.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ayls-lapor-transaksi-afiliasi-rp306-6-juta-untuk-opex-mei",
-  "category": "Aksi Korporasi",
-  "title": "AYLS Lapor Transaksi Afiliasi [Rp306,6 Juta] untuk Opex Mei",
-  "deck": "PT Arkayana Lestari Grup Tbk melaporkan transaksi afiliasi senilai Rp306,6 juta dengan pengendalinya, PT Bintang Cahaya Investment, untuk membiayai belanja operasional Mei 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AYLS",
-   "transaksi afiliasi",
-   "pengendali",
-   "opex"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6b80b5347b_05b34d1edb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ayls-lapor-transaksi-afiliasi-rp408-8-juta-untuk-opex-april",
-  "category": "Aksi Korporasi",
-  "title": "AYLS Lapor [Transaksi Afiliasi] Rp408,8 Juta untuk Opex April",
-  "deck": "AYLS melaporkan transaksi afiliasi Rp408,8 juta dengan pengendali PT Bintang Cahaya Investment untuk membiayai opex April 2026, laporan ketiga transaksi sejenis yang terbit hari ini.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AYLS",
-   "transaksi afiliasi",
-   "pengendali",
-   "opex"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3714b80e1_9e50c54050.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-tetapkan-rupslb-3-november-bahas-modal-dasar-baru",
-  "category": "Aksi Korporasi",
-  "title": "INPS Tetapkan RUPSLB [3 November], Bahas Modal Dasar Baru",
-  "deck": "INPS menetapkan jadwal RUPSLB pada 3 November 2026 untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu guna menutup ekuitas negatif Rp42,8 miliar.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "RUPSLB",
-   "private placement",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/29c27f8a23_c33a5b5d99.pdf",
   "sourceLabel": "IDX"
  }
 ];

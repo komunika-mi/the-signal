@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tei-2026-satukan-zona-kopi-teh-dan-kakao-di-ice-bsd",
+  "category": "Bisnis",
+  "title": "TEI 2026 Satukan Zona [Kopi], Teh, dan Kakao di ICE BSD",
+  "deck": "Kementerian Perdagangan menggabungkan kopi, teh, dan kakao dalam satu zona bernama KoTeKa di Trade Expo Indonesia 2026 untuk memudahkan pembeli asing menemukan produk Indonesia.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "TEI 2026",
+   "Zona KoTeKa",
+   "Ekspor Kopi",
+   "Ekspor Kakao"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tei-2026-siapkan-zona-khusus-kopi-teh-dan-kakao-permudah-buyer-di-area-pameran",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "tira-bantah-punya-informasi-material-di-balik-volatilitas-sahamnya",
   "category": "Aksi Korporasi",
   "title": "TIRA Bantah Punya Informasi Material di Balik [Volatilitas] Sahamnya",
@@ -3928,7 +3944,7 @@ var ARTICLES = [
   "title": "Okupansi Hotel Bintang Agustus Turun ke [52,52%]",
   "deck": "TPK hotel bintang nasional turun dari 54,54% pada Juli 2026 menjadi 52,52% pada Agustus 2026, mengakhiri kenaikan lima bulan beruntun.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "bps",
    "hotel",
@@ -3944,7 +3960,7 @@ var ARTICLES = [
   "title": "Wisman Agustus Tembus 1,60 Juta, [Naik 6 Bulan Beruntun]",
   "deck": "BPS mencatat kunjungan wisatawan mancanegara naik dibanding bulan sebelumnya maupun periode sama tahun lalu.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "bps",
    "wisatawan asing",
@@ -4553,7 +4569,7 @@ var ARTICLES = [
   "title": "Penumpang KA Agustus 48,32 Juta, [Turun dari Juli]",
   "deck": "Jumlah penumpang kereta api turun 7,29% dari Juli, tapi masih naik 6,01% dibanding Agustus tahun lalu",
   "date": "1 Oktober 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "bps",
    "kereta api",
@@ -6460,22 +6476,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2475144564_36c6813fa6.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ieu-cepa-bisa-hapus-selisih-tarif-ri-vietnam-di-eropa",
-  "category": "Industri",
-  "title": "IEU-CEPA Bisa [Hapus] Selisih Tarif RI-Vietnam di Eropa",
-  "deck": "DEN menyebut IEU-CEPA berpotensi menyamakan tarif produk padat karya Indonesia dengan Vietnam di pasar Eropa mulai tahun depan.",
-  "date": "29 September 2026",
-  "image": "assets/img/ieu-cepa-bisa-hapus-selisih-tarif-ri-vietnam-di-eropa.jpg",
-  "imageV": "mumo5l4u",
-  "tags": [
-   "IEU-CEPA",
-   "tarif ekspor",
-   "investasi padat karya",
-   "Vietnam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470184-ieu-cepa-berpotensi-hapus-gap-tarif-ri-vietnam-investasi-padat-karya-bisa-bergeser-ke-indonesia"
  }
 ];

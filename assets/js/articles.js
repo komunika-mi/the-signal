@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "edge-serapan-tender-saham-digital-edge-baru-4-84-usai-tahap-iii",
+  "category": "Aksi Korporasi",
+  "title": "EDGE: [Serapan] Tender Saham Digital Edge Baru 4,84% Usai Tahap III",
+  "deck": "Setelah tiga periode penawaran tender sukarela sejak Juni 2026, Digital Edge (Hong Kong) Ltd baru membeli 7,71 juta dari target 159,59 juta saham publik EDGE.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T08:24:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/64f3a44b21_6106aa2254.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "tender offer",
+   "delisting",
+   "Indointernet"
+  ],
+  "body": [
+   "PT Indointernet Tbk (EDGE) melaporkan hasil penawaran tender sukarela periode ketiga yang dilakukan oleh pemegang saham mayoritasnya, Digital Edge (Hong Kong) Ltd (DEHK), sebagai bagian dari rencana mengubah status EDGE dari perusahaan terbuka menjadi tertutup sekaligus delisting dari Bursa Efek Indonesia. DEHK menawarkan untuk membeli sebanyak-banyaknya 159.598.500 saham publik, setara 7,90 persen dari total saham EDGE, dengan harga Rp11.500 per saham. Pelaporan ini merupakan pemenuhan ketentuan Peraturan Bursa Nomor I-N soal delisting dan relisting.",
+   "Penawaran dilakukan bertahap dalam tiga periode bulanan. Periode pertama, 25 Juni sampai 24 Juli 2026 dengan pembayaran selesai 5 Agustus 2026, menyerap 7.118.700 saham atau 4,46 persen dari target. Periode kedua, 25 Juli sampai 23 Agustus 2026 dengan pembayaran selesai 4 September 2026, hanya menyerap 360.600 saham atau 0,23 persen. Periode ketiga, 24 Agustus sampai 22 September 2026 dengan pembayaran selesai 2 Oktober 2026, menyerap 234.700 saham atau 0,15 persen. Total serapan tiga periode baru 7.714.000 saham, atau 4,84 persen dari target penawaran.",
+   "Dengan harga tetap Rp11.500 per saham, sisa nilai saham yang belum terbeli dari target penawaran tender masih sebesar Rp1.746.671.750.000, dari total nilai target penawaran yang sekitar Rp1,83 triliun. Laporan ditandatangani oleh Jennifer Tiurland selaku Sekretaris Perusahaan EDGE."
+  ],
+  "fotoAdegan": "Technicians inspecting rows of server racks with blinking status lights in a cool blue-lit data center aisle",
+  "takeaway": "Laporan ini netral bagi fundamental EDGE, karena transaksinya murni perpindahan kepemilikan saham dari pemegang saham publik ke DEHK, bukan transaksi yang melibatkan kas, utang, atau modal perusahaan sendiri. Berbeda dari buyback oleh perusahaan yang bisa mengurangi jumlah saham beredar dan mengubah laba per saham, tender offer semacam ini tidak menyentuh pos keuangan EDGE sama sekali, jadi tidak ada dampak langsung ke laporan keuangan perseroan. Yang perlu dicermati justru rendahnya partisipasi pemegang saham publik, serapan baru 4,84 persen dari target setelah empat bulan berjalan sejak 25 Juni 2026, yang berarti proses pengumpulan saham untuk delisting masih jauh dari tuntas. Yang perlu dipantau berikutnya adalah apakah DEHK akan membuka periode penawaran tender lanjutan atau bagaimana Bursa merespons progres ini terhadap rencana delisting EDGE, karena dokumen ini belum menyebutkan jadwal periode keempat atau tanggal penyelesaian proses delisting.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pgeo-catatkan-1-43-juta-saham-baru-dari-mesop",
   "category": "Aksi Korporasi",
   "title": "PGEO Catatkan 1,43 Juta Saham Baru dari [MESOP]",
@@ -159,6 +185,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "wika-gagal-bayar-kupon-ke-18-obligasi-rupo-20-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Gagal Bayar Kupon [ke-18] Obligasi, RUPO 20 Oktober",
+  "deck": "WIKA memanggil Rapat Umum Pemegang Obligasi pada 20 Oktober 2026 setelah gagal membayar bunga ke-18 Obligasi Berkelanjutan II Tahap II Seri A, B, dan C.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:11:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/396acc0cdf_20d9a82109.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "gagal bayar",
+   "RUPO"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk melalui corporate secretary Mahendra Vijaya mengumumkan panggilan Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi Berkelanjutan II Wijaya Karya Tahap II Tahun 2022. Panggilan ini terbit setelah perusahaan gagal memenuhi kewajiban pembayaran bunga ke-18 untuk Seri A, Seri B, dan Seri C obligasi tersebut. RUPO digelar atas permintaan PT Bank Mega Tbk selaku wali amanat, pada Selasa, 20 Oktober 2026 pukul 09.00 WIB di WIKA Tower 2, Jalan D.I. Panjaitan Kavling 9-10, Jakarta Timur.",
+   "Agenda rapat terdiri dari dua pokok bahasan. Pertama, WIKA akan memberikan penjelasan soal kelalaian tidak membayar bunga ke-18 tersebut sekaligus mengajukan usulan penyelesaiannya. Kedua, para pemegang obligasi akan menentukan sikap atau mengambil keputusan atas penjelasan dan usulan yang diajukan WIKA itu. Dokumen panggilan belum merinci isi usulan penyelesaian yang akan disampaikan WIKA pada hari rapat.",
+   "RUPO ini sah jika dihadiri atau diwakili pemegang obligasi yang mewakili paling sedikit tiga per empat dari jumlah obligasi yang belum dilunasi, dan keputusannya baru mengikat jika disetujui paling sedikit tiga per empat dari obligasi yang hadir. Obligasi yang dipegang oleh WIKA sendiri atau afiliasinya tidak memiliki hak suara, kecuali afiliasi itu terjadi karena kepemilikan atau penyertaan modal pemerintah. Pemegang yang berhak hadir dan bersuara adalah yang namanya tercatat di Daftar Pemegang Rekening KSEI, tiga hari kerja sebelum tanggal RUPO."
+  ],
+  "fotoAdegan": "Idle tower cranes and steel scaffolding at a quiet high-rise construction site, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi WIKA, karena memperlihatkan masalah gagal bayar kini merambah ke obligasi konvensional, bukan cuma sukuk yang sudah diberitakan sebelumnya, sehingga daftar surat utang yang macet dibayar terus bertambah. Yang tersentuh adalah arus kas dan beban bunga perusahaan, yaitu kemampuan WIKA menyediakan uang tunai untuk membayar bunga pinjaman tepat waktu, dan pasar memperhatikan ini karena kegagalan berulang biasanya berarti kas perusahaan benar-benar seret, bukan sekadar masalah administrasi. Yang perlu dipantau adalah hasil RUPO pada 20 Oktober 2026, terutama apakah pemegang obligasi yang hadir, minimal tiga per empat dari total obligasi beredar, menyetujui usulan penyelesaian WIKA atau justru menyatakan perusahaan gagal bayar secara resmi atas instrumen ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "wika-panggil-rupsu-sukuk-seri-b-c-gagal-bayar-bagi-hasil-ke-20",
   "category": "Aksi Korporasi",
   "title": "WIKA Panggil RUPSU Sukuk Seri B-C, [Gagal Bayar] Bagi Hasil ke-20",
@@ -182,6 +234,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Wide shot of an elevated highway construction site with cranes and scaffolding, workers in hard hats, overcast Jakarta skyline",
   "takeaway": "Laporan ini condong negatif bagi WIKA, karena menambah daftar kegagalan bayar yang terungkap, bagi hasil ke-20 Seri B dan C serta gagal melunasi pokok Seri B dari tahap sukuk berbeda dari yang sudah diberitakan sebelumnya. Yang tersentuh adalah arus kas perusahaan, yaitu kemampuan WIKA menyediakan uang tunai tepat waktu untuk membayar utang jatuh tempo, sebuah ukuran yang jadi perhatian utama pemegang obligasi dan sukuk karena gagal bayar berulang bisa memicu permintaan pelunasan dipercepat atau restrukturisasi utang lain. Yang perlu dipantau adalah hasil RUPSU pada 19 Oktober 2026, apakah pemegang sukuk menyetujui usulan penyelesaian dari WIKA atau menolaknya, sebab keputusan itu memerlukan persetujuan minimal tiga perempat suara yang hadir.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-gagal-bayar-bunga-obligasi-tahap-i-rupo-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Gagal Bayar] Bunga Obligasi Tahap I, RUPO 19 Oktober",
+  "deck": "WIKA memanggil RUPO pemegang Obligasi Berkelanjutan II Tahap I 2021 pada 19 Oktober 2026, menyusul gagal bayar bunga ke-20 Seri B dan C serta gagal melunasi pokok Seri B.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:10:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f75adba0fa_bce6f6cb53.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "Obligasi",
+   "RUPO",
+   "Gagal Bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk mengumumkan panggilan Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi Berkelanjutan II Wijaya Karya Tahap I Tahun 2021. Rapat akan digelar Senin, 19 Oktober 2026 pukul 09.00 WIB di WIKA Tower 2, Jalan D.I Panjaitan Kavling 9-10, Jakarta Timur. Panggilan ini dikeluarkan oleh PT Bank Mega Tbk selaku wali amanat obligasi tersebut, berdasarkan Perjanjian Perwaliamanatan tanggal 2 Juli 2021.",
+   "Agenda rapat ada dua. Pertama, penjelasan dari WIKA soal kelalaian yang terjadi, yakni tidak terpenuhinya kewajiban membayar bunga ke-20 untuk Seri B dan Seri C, serta tidak terpenuhinya kewajiban melunasi pokok obligasi Seri B. WIKA juga akan menyampaikan usulan penyelesaian atas kedua kelalaian tersebut. Kedua, pemegang obligasi akan diminta menentukan sikap atau mengambil keputusan atas penjelasan dan usulan itu.",
+   "RUPO ini diselenggarakan atas permintaan PT Bank Mega Tbk. Dokumen menyebutkan, rapat sah apabila dihadiri atau diwakili oleh pemegang obligasi sedikitnya tiga perempat dari jumlah obligasi yang belum dilunasi, dan keputusan baru mengikat jika disetujui sedikitnya tiga perempat dari obligasi yang hadir. Obligasi yang dimiliki WIKA sendiri atau afiliasinya tidak punya hak suara dalam penghitungan kuorum, kecuali afiliasi itu terjadi karena kepemilikan atau penyertaan modal pemerintah. Pemegang obligasi yang berhak hadir adalah yang namanya tercatat di KSEI tiga hari kerja sebelum rapat."
+  ],
+  "fotoAdegan": "Construction site with tower cranes and steel rebar scaffolding against an overcast Jakarta skyline, workers in hard hats below",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena menambah daftar instrumen utang yang gagal dibayar tepat waktu, kali ini obligasi konvensional Tahap I 2021 untuk bunga ke-20 Seri B dan C serta pokok Seri B, melengkapi rangkaian gagal bayar sukuk dan obligasi lain yang sudah diberitakan sepekan ini. Yang tersentuh adalah arus kas dan beban bunga perusahaan, karena gagal bayar berarti kas yang tersedia tidak cukup menutupi kewajiban utang yang sudah jatuh tempo, dan kalau terus berulang di banyak instrumen sekaligus bisa memicu klausul yang membuat utang lain ikut dianggap jatuh tempo lebih cepat. Yang perlu dipantau adalah hasil RUPO pada 19 Oktober 2026 di WIKA Tower 2, termasuk apakah pemegang obligasi menyetujui usulan penyelesaian dari WIKA, mengingat keputusan baru sah jika disetujui minimal tiga perempat suara obligasi yang hadir.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-target-ebitda-rp850-m-tutup-utang-rp27-t-restrukturisasi",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Target EBITDA Rp850 M Tutup Utang Rp27 T [Restrukturisasi]",
+  "deck": "Public expose WIKA mengungkap target EBITDA Rp850 miliar untuk membayar utang berbunga sekitar Rp27 triliun, sambil restrukturisasi sukuk dan divestasi Whoosh masih berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:10:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26b71165c5_bbeaa47a11.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "restrukturisasi utang",
+   "sukuk",
+   "public expose"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) melaporkan ke Bursa Efek Indonesia hasil Public Expose Live Tahunan 2026 yang digelar secara virtual lewat Zoom dan YouTube pada Kamis, 1 Oktober 2026, dari pukul 10.00 hingga 11.00 WIB, dilanjutkan sesi konferensi pers hingga 11.35 WIB. Acara dihadiri jajaran direksi, yakni Direktur Utama I Ketut Pasek Senjaya Putra, Direktur Keuangan Mulyadi, Direktur Manajemen Sumber Daya Manusia dan Transformasi Hadjar Seti Adji, Direktur Operasi I Hananto Aji, Direktur Operasi II Sonny Setyadhy, dan Direktur Manajemen Risiko dan Legal Vera Kirana, dengan Corporate Secretary Ngatemin sebagai moderator. Peserta yang hadir di luar manajemen dan karyawan tercatat 866 orang, termasuk 13 perwakilan media.",
+   "Dalam sesi tanya jawab, manajemen membuka sejumlah angka kunci. Target perolehan kontrak baru WIKA hingga akhir 2026 sesuai RKAP sebesar Rp21,4 triliun, diarahkan ke proyek pemerintah seperti Program Sekolah Rakyat dan Sekolah Terintegrasi, proyek EPCC, serta proyek di Timor Leste dan penyediaan beton di Manila. Target margin laba perusahaan dipatok pada kisaran 8 hingga 10 persen, berbeda dari margin laba kotor 14,11 persen yang sempat tercapai pada semester I 2026 karena perusahaan memprioritaskan penagihan piutang lama dan penyelesaian proyek yang hampir rampung. Soal utang, Direktur Keuangan Mulyadi menyebut WIKA di level induk memikul kredit perbankan Rp17,6 triliun dan obligasi sukuk Rp10,2 triliun, dengan total kewajiban berbunga sekitar Rp27 triliun di induk dan sekitar Rp30 triliun secara konsolidasi. Restrukturisasi komprehensif sedang dijalankan melalui RUPO dan RUPSU bersama perbankan serta wali amanat pemegang sukuk dan obligasi, dengan target EBITDA Rp850 miliar untuk membantu memenuhi kewajiban tersebut sekaligus kebutuhan operasional.",
+   "Manajemen juga menjawab pertanyaan soal pengalihan pengelolaan proyek kereta cepat Whoosh (KCIC) ke Kementerian Keuangan, dengan menyatakan masih berkomunikasi intensif dengan Danantara mengenai perkembangan proses tersebut. Hasil divestasi, jika terealisasi, disebut dapat memperbaiki posisi keuangan WIKA, dan status suspensi perdagangan saham WIKA di bursa baru dapat dicabut setelah restrukturisasi komprehensif tercapai. Di luar isu keuangan, manajemen memaparkan skor ESG WIKA dari S&P Global sebesar 64 dari 100, peringkat pertama di Indonesia untuk sektor konstruksi dan teknik, yang disebut telah menurunkan bunga pembiayaan modal kerja proyek WIKA Tirta Jatiluhur dari 11 persen menjadi 6,5 persen lewat skema pembiayaan hijau."
+  ],
+  "fotoAdegan": "Construction workers checking steel reinforcement bars at a large infrastructure building site, cloudy afternoon in Jakarta.",
+  "takeaway": "Laporan ini condong negatif bagi WIKA, karena di tengah rangkaian kabar gagal bayar sukuk yang baru diberitakan, target EBITDA yang disebut manajemen hanya Rp850 miliar, jauh di bawah total kewajiban berbunga sekitar Rp27 triliun di level induk dan Rp30 triliun secara konsolidasi, menandakan jalan restrukturisasi yang masih panjang. Dua pos yang tersentuh adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas utang kredit bank dan sukuknya, dan arus kas operasional yang diukur lewat EBITDA, yakni laba usaha sebelum dipotong bunga, pajak, dan penyusutan, yang menjadi andalan WIKA untuk mencicil kewajiban itu. Sisi positifnya, manajemen menyebut dukungan Danantara dan potensi dana dari pengalihan Whoosh bisa membantu, tapi keduanya masih berupa rencana, belum angka pasti. Yang perlu dipantau berikutnya adalah RUPSU pemegang sukuk pada 21 Oktober 2026 yang akan menentukan apakah kreditur setuju dengan skema restrukturisasi, serta klaim manajemen bahwa kinerja fundamental akan terlihat lebih baik pada kuartal IV 2026, dua momen yang akan menguji apakah target EBITDA dan rencana divestasi benar-benar terealisasi.",
   "sentimen": "negatif"
  },
  {

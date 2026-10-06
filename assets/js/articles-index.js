@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "edge-serapan-tender-saham-digital-edge-baru-4-84-usai-tahap-iii",
+  "category": "Aksi Korporasi",
+  "title": "EDGE: [Serapan] Tender Saham Digital Edge Baru 4,84% Usai Tahap III",
+  "deck": "Setelah tiga periode penawaran tender sukarela sejak Juni 2026, Digital Edge (Hong Kong) Ltd baru membeli 7,71 juta dari target 159,59 juta saham publik EDGE.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "tender offer",
+   "delisting",
+   "Indointernet"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/64f3a44b21_6106aa2254.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pgeo-catatkan-1-43-juta-saham-baru-dari-mesop",
   "category": "Aksi Korporasi",
   "title": "PGEO Catatkan 1,43 Juta Saham Baru dari [MESOP]",
@@ -101,6 +117,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "wika-gagal-bayar-kupon-ke-18-obligasi-rupo-20-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Gagal Bayar Kupon [ke-18] Obligasi, RUPO 20 Oktober",
+  "deck": "WIKA memanggil Rapat Umum Pemegang Obligasi pada 20 Oktober 2026 setelah gagal membayar bunga ke-18 Obligasi Berkelanjutan II Tahap II Seri A, B, dan C.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "gagal bayar",
+   "RUPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/396acc0cdf_20d9a82109.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wika-panggil-rupsu-sukuk-seri-b-c-gagal-bayar-bagi-hasil-ke-20",
   "category": "Aksi Korporasi",
   "title": "WIKA Panggil RUPSU Sukuk Seri B-C, [Gagal Bayar] Bagi Hasil ke-20",
@@ -114,6 +146,38 @@ var ARTICLES = [
    "RUPSU"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63b9c079e5_fbeb007529.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-gagal-bayar-bunga-obligasi-tahap-i-rupo-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Gagal Bayar] Bunga Obligasi Tahap I, RUPO 19 Oktober",
+  "deck": "WIKA memanggil RUPO pemegang Obligasi Berkelanjutan II Tahap I 2021 pada 19 Oktober 2026, menyusul gagal bayar bunga ke-20 Seri B dan C serta gagal melunasi pokok Seri B.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "Obligasi",
+   "RUPO",
+   "Gagal Bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f75adba0fa_bce6f6cb53.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-target-ebitda-rp850-m-tutup-utang-rp27-t-restrukturisasi",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Target EBITDA Rp850 M Tutup Utang Rp27 T [Restrukturisasi]",
+  "deck": "Public expose WIKA mengungkap target EBITDA Rp850 miliar untuk membayar utang berbunga sekitar Rp27 triliun, sambil restrukturisasi sukuk dan divestasi Whoosh masih berjalan.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "restrukturisasi utang",
+   "sukuk",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26b71165c5_bbeaa47a11.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6416,67 +6480,6 @@ var ARTICLES = [
    "Toba Surimi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca374deed2_9260d8c3e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertalite-dipastikan-tak-naik-meski-minyak-tembus-107-dolar",
-  "category": "Energi",
-  "title": "Pertalite Dipastikan [Tak Naik] Meski Minyak Tembus 107 Dolar",
-  "deck": "ESDM pastikan harga pertalite dan biosolar tidak naik sampai akhir tahun, meski minyak dunia sempat tembus 107 dolar AS per barel akibat konflik AS-Iran.",
-  "date": "29 September 2026",
-  "image": "assets/img/pertalite-dipastikan-tak-naik-meski-minyak-tembus-107-dolar.jpg",
-  "imageV": "mumbzdif",
-  "tags": [
-   "pertalite",
-   "esdm",
-   "bbm bersubsidi",
-   "harga minyak dunia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470138-harga-pertalite-dipastikan-tak-naik-meski-minyak-dunia-107-dolar-as-esdm-eksplorasi-dan-eksploitasi-kami-genjot"
- },
- {
-  "slug": "pegadaian-sabet-empat-penghargaan-esg-kesgi-2026",
-  "category": "BUMN",
-  "title": "Pegadaian Sabet [Empat] Penghargaan ESG KESGI 2026",
-  "deck": "Pegadaian menyapu bersih empat kategori penilaian ESG di ajang KESGI Award 2026, melanjutkan tren skor keberlanjutan yang naik sejak 2021.",
-  "date": "29 September 2026",
-  "image": "assets/img/pegadaian-sabet-empat-penghargaan-esg-kesgi-2026.jpg",
-  "imageV": "muma7mqv",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470136-kinerja-esg-di-atas-rata-rata-sektor-pegadaian-raih-empat-kesgi-award-2026"
- },
- {
-  "slug": "cmnp-laba-semester-i-2026-turun-33-meski-pendapatan-naik",
-  "category": "Aksi Korporasi",
-  "title": "CMNP: Laba Semester I 2026 [Turun] 33% Meski Pendapatan Naik",
-  "deck": "Pendapatan Citra Marga Nusaphala Persada naik 33,5 persen jadi Rp2,93 triliun pada semester I 2026, tapi laba bersih turun 33 persen akibat provisi perkara hukum baru senilai Rp202,49 miliar.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CMNP",
-   "laporan keuangan",
-   "jalan tol",
-   "emiten infrastruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929120031-64443-0/FinancialStatement-2026-II-CMNP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "anjt-beri-pinjaman-rp2-triliun-ke-perusahaan-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "ANJT Beri [Pinjaman] Rp2 Triliun ke Perusahaan Afiliasi",
-  "deck": "ANJT menyalurkan pinjaman hingga Rp2 triliun tanpa jaminan ke PT Adhitya Serayakorita, perusahaan afiliasi dalam satu grup pengendali First Resources Limited.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANJT",
-   "transaksi afiliasi",
-   "pinjaman",
-   "First Resources"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8df820e992_46ac6efe2c.pdf",
   "sourceLabel": "IDX"
  }
 ];

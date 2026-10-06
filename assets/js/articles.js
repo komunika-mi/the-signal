@@ -238,7 +238,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pernyataan ini adalah rencana pemerintah meninjau ulang insentif pajak untuk investor, termasuk tax holiday atau pembebasan pajak badan bagi investasi besar, setelah pajak minimum global 15 persen mulai berlaku di banyak negara. Aturan itu membuat potongan pajak yang diberikan Indonesia bisa ditagih balik oleh negara asal investor, sehingga tax holiday berisiko kehilangan daya tariknya seperti semula. Pihak yang paling terdampak adalah perusahaan hilirisasi, misalnya smelter nikel atau industri pengolahan mineral, yang selama ini mengandalkan pembebasan pajak sebagai alasan utama berinvestasi di Indonesia. Pemerintah belum menjelaskan bentuk pengganti insentif ini, sehingga arah yang lebih mungkin adalah pergeseran dari pembebasan pajak ke bentuk insentif lain seperti subsidi langsung atau kredit pajak, mengikuti pola yang sudah terjadi di negara lain yang lebih dulu menerapkan pajak minimum global. Yang akan memastikan arah ini adalah aturan teknis dari Kementerian Keuangan atau Badan Koordinasi Penanaman Modal soal skema insentif baru, yang belum punya tenggat pasti dalam keterangan ini.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "swat-koreksi-lk-2025-aset-turun-karyawan-susut-jadi-97",

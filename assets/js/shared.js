@@ -389,7 +389,7 @@
 (function () {
   if (document.querySelector('script[data-tenant="the-signal"]')) return;
   var s = document.createElement('script');
-  s.src = 'https://amm-sales-pet.vercel.app/v1/loader.js';
+  s.src = 'https://chatbot.adsmediamix.id/v1/loader.js';
   s.setAttribute('data-tenant', 'the-signal');
   s.async = true;
   (document.body || document.documentElement).appendChild(s);

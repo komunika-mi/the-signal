@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tebe-laba-bersih-turun-27-6-ke-rp20-1-miliar-di-s1-2026",
+  "category": "Aksi Korporasi",
+  "title": "TEBE: Laba Bersih [Turun] 27,6% ke Rp20,1 Miliar di S1 2026",
+  "deck": "Dana Brata Luhur menjelaskan ke BEI penyebab laba turun 27,6 persen dan volume bongkar muat batubara anjlok 24 persen di semester I 2026, di tengah RKAB yang baru disetujui pemerintah.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEBE",
+   "batubara",
+   "laporan keuangan",
+   "keterbukaan informasi BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/845099d983_41e94ac6ce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bpkh-umumkan-tiga-pemenang-inkubasi-startup-digital-haji",
   "category": "Teknologi",
   "title": "BPKH Umumkan Tiga Pemenang Inkubasi Startup [Digital] Haji",
@@ -6451,23 +6467,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f5630699cb_9a0e014946.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "sertifikasi-halal-umk-wajib-mulai-18-oktober",
-  "category": "UMKM",
-  "title": "Sertifikasi Halal UMK Wajib Mulai [18 Oktober]",
-  "deck": "Kemendag menggelar sosialisasi di Tangerang Selatan menjelang berlakunya kewajiban sertifikasi halal bagi UMK pangan mulai 18 Oktober 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/sertifikasi-halal-umk-wajib-mulai-18-oktober.jpg",
-  "imageV": "mumwmof1",
-  "tags": [
-   "sertifikasi halal",
-   "UMK",
-   "Kemendag",
-   "PP 42/2024"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-umk-naik-kelas-lewat-sertifikasi-halal",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

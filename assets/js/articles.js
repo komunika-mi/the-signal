@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tebe-laba-bersih-turun-27-6-ke-rp20-1-miliar-di-s1-2026",
+  "category": "Aksi Korporasi",
+  "title": "TEBE: Laba Bersih [Turun] 27,6% ke Rp20,1 Miliar di S1 2026",
+  "deck": "Dana Brata Luhur menjelaskan ke BEI penyebab laba turun 27,6 persen dan volume bongkar muat batubara anjlok 24 persen di semester I 2026, di tengah RKAB yang baru disetujui pemerintah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T00:23:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/845099d983_41e94ac6ce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEBE",
+  "tags": [
+   "TEBE",
+   "batubara",
+   "laporan keuangan",
+   "keterbukaan informasi BEI"
+  ],
+  "body": [
+   "PT Dana Brata Luhur Tbk (TEBE) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan nomor S-12675/BEI.PP2/10-2026 yang diterima perseroan pada 2 Oktober 2026. Dalam surat bertanggal 6 Oktober 2026 yang ditandatangani Direktur Utama GT Denny Ramdhani, perseroan memaparkan kondisi keuangan per 30 Juni 2026. Total aset tercatat Rp1,09 triliun, turun 15 persen dari akhir 2025, akibat pembayaran dividen tunai tahun buku 2025 sebesar Rp200,5 miliar pada semester pertama. Pendapatan konsolidasian justru naik 3,5 persen menjadi Rp176,9 miliar dari Rp170,9 miliar pada periode yang sama tahun lalu, tetapi laba bersih merosot 27,6 persen menjadi Rp20,1 miliar karena penurunan volume loading batubara sebesar 24 persen dan kenaikan harga beli solar. Volume loading turun karena Rencana Kerja dan Anggaran Biaya (RKAB) 2026 milik pemegang Izin Usaha Pertambangan belum disetujui sepanjang semester pertama. Kas dan setara kas perseroan tetap tebal, Rp433,4 miliar, dengan rasio lancar 12,8 kali dan rasio utang terhadap ekuitas (DER) hanya 4,9 persen tanpa pinjaman berbunga.",
+   "Perseroan juga menjelaskan perkembangan bisnis anak usahanya. PT Talenta Bumi untuk pertama kali merealisasikan trading batubara dengan pengiriman perdana 7,4 ribu metrik ton, meski belum memberikan kontribusi pendapatan yang signifikan. Anak usaha lain, PT Pelabuhan Talenta Bumi, resmi menjadi Badan Usaha Kepelabuhanan sejak memperoleh izin operasi pada Januari 2026 dan saat ini masih melayani komoditas batubara saja, dengan jasa loading dan kepelabuhanan menyumbang 46,7 persen dari total pendapatan perseroan. TEBE menyatakan sedang mengkaji perluasan layanan ke komoditas di luar batubara, serta melalui PT Talenta Bumi Energi sedang mengajukan izin untuk menjalankan usaha trading bahan bakar minyak.",
+   "Terkait pergerakan harga sahamnya, manajemen menyebut kenaikan dipicu lonjakan harga batubara global yang sempat menyentuh US$153 per ton pada September 2026, serta disetujuinya RKAB para pemilik IUP oleh Kementerian ESDM yang mendorong volume loading naik dari 572.000 ton pada Agustus menjadi 810.000 ton pada akhir September 2026. Perseroan menegaskan tidak ada kontrak atau sumber pendapatan baru yang material, tidak ada perkara hukum yang berdampak material terhadap perseroan maupun jajaran direksi dan komisarisnya, serta tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Coal loading conveyor extending over a bulk cargo ship hull at a river port, dust haze, workers in hard hats on deck",
+  "takeaway": "Laporan ini condong negatif bagi TEBE, karena data keras di semester pertama masih menunjukkan laba bersih merosot 27,6 persen dan volume bongkar muat batubara turun 24 persen, sementara perbaikan yang diklaim perusahaan baru tampak di angka operasional Agustus-September, belum di laporan keuangan resmi. Pos yang tersentuh adalah laba bersih dan ekuitas, laba yang mengecil berarti keuntungan yang bisa dinikmati pemegang saham menyusut, sedangkan aset turun karena kas dipakai bayar dividen tahun lalu, bukan karena kerugian usaha. Kas perusahaan tetap tebal, Rp433,4 miliar tanpa utang berbunga, jadi bantalan keuangannya masih aman meski kinerja operasional melemah. Yang perlu dipantau berikutnya adalah apakah kenaikan volume loading ke 810.000 ton di akhir September bisa terus berlanjut dan tercermin di laporan keuangan kuartal III 2026, serta kelanjutan pengajuan izin usaha trading bahan bakar minyak lewat PT Talenta Bumi Energi.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bpkh-umumkan-tiga-pemenang-inkubasi-startup-digital-haji",
   "category": "Teknologi",
   "title": "BPKH Umumkan Tiga Pemenang Inkubasi Startup [Digital] Haji",

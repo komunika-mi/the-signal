@@ -3,6 +3,240 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "swat-koreksi-lk-2025-aset-turun-karyawan-susut-jadi-97",
+  "category": "Aksi Korporasi",
+  "title": "SWAT Koreksi LK 2025: Aset Turun, [Karyawan] Susut jadi 97",
+  "deck": "SWAT merevisi laporan keuangan tahunan 2025: auditor baru memberi opini wajar dengan pengecualian, aset dan kas menyusut, dan karyawan merosot dari 249 menjadi 97 orang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T18:40:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202510/20261006184758-64490-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SWAT",
+  "tags": [
+   "SWAT",
+   "laporan keuangan",
+   "opini audit",
+   "watchlist"
+  ],
+  "body": [
+   "PT Sriwahana Adityakarta Tbk (SWAT) menyampaikan revisi laporan keuangan konsolidasian tahun 2025, menggantikan laporan yang sebelumnya dikirim pada 9 September 2026. Dalam surat bernomor 0003/FIN/SWAT/X/2026 tertanggal 6 Oktober 2026, manajemen menyatakan laporan keuangan ini telah diaudit oleh Kantor Akuntan Publik Herman, Dody, Tanumihardja & Rekan dengan partner penandatangan Dody Hapsoro, menggantikan auditor tahun sebelumnya, KAP Heliantono & Rekan. Auditor memberikan opini wajar dengan pengecualian serta mencatat dua hal audit utama, pos pembukuan yang menjadi perhatian khusus karena auditor belum bisa sepenuhnya meyakini kewajarannya.",
+   "Dari sisi keuangan, total aset perseroan turun dari Rp481,50 miliar pada akhir 2024 menjadi Rp394,64 miliar pada akhir 2025, susut sekitar Rp86,85 miliar atau 18 persen dalam setahun. Kas dan setara kas anjlok paling tajam, dari Rp8,45 miliar menjadi hanya Rp2,37 miliar, turun sekitar 72 persen. Piutang usaha pihak ketiga berkurang dari Rp36,81 miliar menjadi Rp26,74 miliar, persediaan turun dari Rp65,76 miliar menjadi Rp44,78 miliar, dan aset tetap seperti pabrik dan mesin menyusut dari Rp305,90 miliar menjadi Rp276,79 miliar. Di sisi liabilitas, total utang jangka pendek justru turun dari Rp41,32 miliar menjadi Rp32,87 miliar, meski porsi utang bank yang harus dibayar dalam satu tahun naik dari Rp13,63 miliar menjadi Rp17,48 miliar.",
+   "Jumlah karyawan tetap Grup merosot drastis, dari 249 orang pada akhir 2024 menjadi hanya 97 orang pada akhir 2025, data yang menurut dokumen ini belum diaudit. Perseroan juga melaporkan anak usahanya, PT Mulia Cipta Teknologi (MCT) di Boyolali yang bergerak di industri dan perdagangan umum, dengan kepemilikan 99,80 persen. Total aset MCT sebelum eliminasi tercatat Rp222,30 miliar pada 2025, turun dari Rp260,41 miliar pada 2024."
+  ],
+  "fotoAdegan": "Stacks of brown paper rolls in a dim industrial warehouse, a forklift maneuvering between pallets, dust floating in work lights.",
+  "takeaway": "Laporan revisi ini condong negatif bagi SWAT, karena hampir semua pos penting memburuk bersamaan, aset susut, kas nyaris terkuras, dan jumlah karyawan terpangkas lebih dari separuh dalam setahun. Opini auditor yang hanya wajar dengan pengecualian, disertai dua hal audit utama, biasanya berarti auditor menemukan pos pembukuan yang belum bisa mereka yakini sepenuhnya akurat, sementara kas yang anjlok dari Rp8,45 miliar menjadi Rp2,37 miliar penting dicermati karena itu adalah penyangga perusahaan untuk membayar utang dan operasional sehari-hari. Pemangkasan karyawan dari 249 menjadi 97 orang biasanya menandakan perseroan sedang menekan beban operasional di tengah tekanan keuangan, dan ini menyusul temuan pekan lalu bahwa ekuitas SWAT nyaris terkuras ke Rp12,46 miliar akibat defisit yang menumpuk jadi Rp334,02 miliar. Yang perlu dipantau selanjutnya adalah bagaimana manajemen menjelaskan dua hal audit utama yang dicatat auditor serta apakah arus kas membaik pada laporan kuartal mendatang, mengingat saham SWAT sudah berstatus pemantauan khusus di bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "hrta-gandeng-bank-mandiri-jual-emas-batangan-emasku",
+  "category": "Aksi Korporasi",
+  "title": "HRTA Gandeng Bank Mandiri Jual [Emas] Batangan EMASKU",
+  "deck": "Hartadinata Abadi meneken kerja sama setahun dengan Bank Mandiri untuk menjual emas batangan EMASKU, memperluas kanal distribusi lewat jaringan bank pelat merah itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T18:40:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/536fa65029_6c24d966c0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRTA",
+  "tags": [
+   "HRTA",
+   "Bank Mandiri",
+   "EMASKU",
+   "emas batangan"
+  ],
+  "body": [
+   "PT Hartadinata Abadi Tbk (HRTA) menandatangani Perjanjian Kerja Sama Jual Beli Produk EMASKU dengan PT Bank Mandiri (Persero) Tbk pada 2 Oktober 2026, berdasarkan Perjanjian No. PKS-217/DIR-LEG/HRTA-BMRI/IX/2026 dan No. DIR.PKS/28/2026. Dalam perjanjian ini, Hartadinata berperan sebagai penjual sementara Bank Mandiri bertindak sebagai pembeli produk emas batangan bermerek EMASKU berkadar 99,99 persen.",
+   "Produk yang diperjualbelikan mencakup EMASKU Minted Bar dalam tujuh denominasi yaitu 1 gram, 2 gram, 5 gram, 10 gram, 25 gram, 50 gram, dan 100 gram, serta EMASKU Casted Bar dalam tiga denominasi lebih besar yaitu 250 gram, 500 gram, dan 1.000 gram. Perjanjian berlaku selama satu tahun sejak tanggal penandatanganan, dengan tujuan mengembangkan kegiatan usaha masing-masing pihak.",
+   "Perseroan menyatakan transaksi ini merupakan kegiatan usaha rutin untuk menghasilkan pendapatan, sehingga jika memenuhi kriteria transaksi material pun tetap dikecualikan dari kewajiban keterbukaan khusus berdasarkan Pasal 13 ayat 1 POJK No. 17/2020, namun wajib tetap diungkapkan dalam laporan tahunan atau laporan keuangan tahunan. Hartadinata juga menegaskan tidak ada hubungan afiliasi dengan Bank Mandiri dan transaksi ini bukan transaksi afiliasi maupun benturan kepentingan menurut POJK No. 42/2020."
+  ],
+  "fotoAdegan": "Rows of small gold bars arranged on a velvet tray inside a jewelry workshop, bright overhead lighting, close-up near a digital scale",
+  "takeaway": "Kerja sama ini condong positif bagi Hartadinata karena membuka kanal distribusi baru lewat jaringan Bank Mandiri, salah satu bank terbesar di Indonesia, untuk menjual emas batangan bermerek sendiri tanpa menambah utang atau menerbitkan saham baru. Pos kinerja yang tersentuh adalah arus kas, yaitu uang tunai yang masuk dan keluar dari kegiatan usaha, karena transaksi jual beli emas ini akan menambah uang masuk dari penjualan setiap kali Bank Mandiri membeli stok EMASKU; dokumen ini tidak menyebut nilai transaksi sehingga besarnya dampak ke pendapatan belum bisa dihitung. Ekuitas dan jumlah saham beredar perseroan tidak berubah oleh kerja sama ini karena sifatnya murni kontrak dagang, bukan aksi korporasi. Yang perlu dipantau selanjutnya adalah realisasi penjualan di bawah perjanjian ini saat laporan tahunan atau laporan keuangan tahunan 2026 terbit, karena di sanalah angka konkretnya baru wajib diungkap, serta masa berlaku kontrak yang berakhir sekitar Oktober 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "moya-jelaskan-ke-bursa-realisasi-dana-obligasi-rp1-98-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MOYA Jelaskan ke Bursa [Realisasi] Dana Obligasi Rp1,98 Triliun",
+  "deck": "Emiten infrastruktur air MOYA merinci ke BEI penggunaan dana obligasi dan sukuk senilai hampir Rp2 triliun, dari pelunasan utang bank hingga pembangunan SPAM di Jakarta dan Bandung.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T18:29:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8a0c73c644_2bf7ab6dc2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MOYA",
+  "tags": [
+   "MOYA",
+   "obligasi",
+   "sukuk",
+   "SPAM"
+  ],
+  "body": [
+   "PT Moya Indonesia (MOYA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan bursa tertanggal 2 Oktober 2026 (Nomor S-12647/BEI.PP2/10/2026) terkait realisasi penggunaan dana hasil penawaran umum Obligasi I Moya Indonesia Tahun 2026 dan Sukuk Wakalah Bi Al-Istitsmar I Moya Indonesia Tahun 2026. Tanggapan ini disampaikan pada 6 Oktober 2026 oleh General Manager MOYA, Elena Anindita. Perlu dicatat, MOYA adalah emiten efek bersifat utang sehingga sahamnya tidak tercatat dan diperdagangkan di Bursa Efek Indonesia, laporan ini menyasar investor pemegang obligasi dan sukuk perusahaan.",
+   "Dari dana obligasi, Rp202,4 miliar digunakan untuk tambahan setoran modal ke anak usaha PT Moya Tangerang (MT), menggantikan dana MT yang sebelumnya dipakai membangun proyek sistem penyediaan air minum (SPAM) dari fasilitas kredit PT Bank Central Asia Tbk. Perusahaan menyatakan infrastruktur itu kini sudah selesai 100 persen dan beroperasi. Pola serupa terjadi dalam jumlah jauh lebih besar lewat sukuk, Rp991,6 miliar dana sukuk juga dipakai menggantikan dana MT dari fasilitas BCA yang sama, dan sudah terealisasi penuh bersamaan dengan pencairan obligasi. Sementara itu, Rp366,6 miliar dana obligasi disuntikkan ke anak usaha PT Aetra Air Tangerang (AAT) untuk melunasi pokok pinjaman kredit investasi berdasarkan akta perjanjian kredit yang terakhir diubah pada 27 Februari 2026 di hadapan notaris Stephanie Wilamarta, dan dana itu sudah terpakai sejak 28 Juli 2026.",
+   "Sisa dana obligasi dialokasikan untuk dua anak usaha yang proyeknya masih berjalan. PT Air Bersih Jakarta (ABJ) mendapat alokasi Rp380,96 miliar untuk membangun instalasi pengolahan air dan jaringan perpipaan berdasarkan perjanjian kerja sama dengan PAM Jaya. Hingga akhir September 2026, baru Rp109,18 miliar yang terpakai, sementara Rp271,78 miliar masih menunggu pencairan sesuai kemajuan fisik proyek. Progres lima pekerjaan ABJ masih beragam, dari SPAM Buaran III Hulu yang sudah 99,82 persen rampung dan proyek brownfield 83,62 persen, hingga SPAM Buaran III Hilir 39,66 persen, serta SPAM Karian Serpong Hilir dan Jatiluhur Hilir yang masing-masing baru 22,09 persen dan 19,81 persen dari target akhir 100 persen. Target penyelesaian seluruh infrastruktur ABJ paling lambat 2031, kecuali proyek brownfield yang dikejar rampung akhir tahun ini. Adapun PT Air Bandung Timur (ABT) baru merealisasikan Rp10 miliar dari total alokasi Rp41,38 miliar, dengan sebagian pekerjaan seperti pembangunan instalasi pengolahan air baru dan pemasangan pompa booster belum dimulai sama sekali, dan target rampung paling lambat 2028.",
+   "MOYA juga menegaskan tidak ada informasi material yang belum diungkapkan ke publik yang dapat memengaruhi keputusan investor. Perusahaan merinci kontribusi pendapatan masing-masing anak usaha, dengan ABJ menyumbang 70,98 persen dari total pendapatan perseroan, disusul MT 7,11 persen, AAT 6,08 persen, Air Batam Hulu 4,17 persen, Moya Bekasi Jaya 4,04 persen, ABT 3,24 persen, Air Batam Hilir 2,40 persen, dan Air Semarang Barat 1,72 persen. Satu anak usaha, PT Moya Makassar, belum berkontribusi sama sekali karena belum beroperasi."
+  ],
+  "fotoAdegan": "Construction workers connecting large water supply pipes at a treatment plant site, overcast daylight, safety vests and hard hats visible",
+  "takeaway": "Secara keseluruhan laporan ini netral bagi MOYA, karena isinya sebatas konfirmasi kepatuhan bahwa dana obligasi dan sukuk memang dipakai sesuai rencana awal, bukan sinyal perbaikan atau perburukan kinerja yang baru. Yang tersentuh adalah struktur utang dan ekuitas anak usaha, dana segar dari obligasi dan sukuk dipakai menggantikan pinjaman bank di MT dan AAT sehingga ketergantungan pada kredit bank berkurang dan beban bunga ke depan bisa lebih ringan, sementara di ABJ dan ABT dana itu benar-benar menambah ekuitas untuk membangun infrastruktur baru. Pelaku pasar obligasi biasanya mencermati pos ini karena struktur pendanaan yang lebih sehat mengurangi risiko gagal bayar penerbit surat utang. Yang perlu dipantau selanjutnya adalah tenggat proyek brownfield ABJ yang ditargetkan selesai 31 Desember 2026 padahal baru 83,62 persen rampung per akhir September, serta pencairan sisa dana Rp271,78 miliar untuk ABJ dan Rp31,38 miliar untuk ABT yang menurut perseroan akan habis terpakai pada akhir 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dewa-sajikan-kembali-laporan-keuangan-ekuitas-total-tak-berubah",
+  "category": "Aksi Korporasi",
+  "title": "DEWA Sajikan Kembali Laporan Keuangan, [Ekuitas] Total Tak Berubah",
+  "deck": "Darma Henwa merombak klasifikasi komponen ekuitas pada laporan keuangan interim per 30 Juni 2026, namun menegaskan total ekuitas, aset, dan liabilitas tidak berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T18:09:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd98499772_ab3017ebca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWA",
+  "tags": [
+   "DEWA",
+   "laporan keuangan",
+   "ekuitas",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Darma Henwa Tbk (DEWA) menyampaikan penjelasan penyajian kembali atas laporan keuangan konsolidasian interim untuk periode enam bulan yang berakhir 30 Juni 2026, disertai laporan auditor independen. Keterbukaan informasi ini disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 6 Oktober 2026, ditandatangani oleh Mukson Arif Rosyidi selaku Director & Corporate Secretary perusahaan.",
+   "Perusahaan menjelaskan bahwa penyajian kembali ini menyasar komponen ekuitas, yakni pos-pos seperti modal ditempatkan dan disetor, saham treasuri, tambahan modal disetor, dan saldo laba. Tujuannya untuk memberikan klasifikasi yang lebih memadai antara komponen kinerja operasional dan non operasional, sehingga penyajian masing-masing pos menjadi lebih terperinci dan sesuai dengan substansi transaksi perusahaan. Perbandingan dilakukan atas posisi 30 Juni 2026 dan 31 Desember 2025, antara angka yang sebelumnya dilaporkan dan angka hasil penyajian ulang.",
+   "DEWA menegaskan bahwa penyajian kembali ini tidak mengubah total ekuitas, total aset, maupun total liabilitas perusahaan. Perusahaan juga menyatakan tidak ada dampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, atau kelangsungan usahanya akibat perubahan klasifikasi ini."
+  ],
+  "fotoAdegan": "Heavy excavators and haul trucks working inside a wide open-pit coal mine under an overcast sky, dust drifting over the access road",
+  "takeaway": "Laporan ini condong netral bagi DEWA karena perusahaan sendiri menegaskan total ekuitas, aset, dan liabilitas tidak berubah, jadi ini murni perubahan cara penyajian, bukan koreksi yang menggerus kondisi keuangan. Yang tersentuh adalah struktur ekuitas, yaitu rincian modal pemilik perusahaan yang terdiri dari modal disetor, saham treasuri (saham yang dibeli balik oleh perusahaan sendiri dan disimpan, bukan diedarkan ke publik), tambahan modal disetor, dan laba ditahan. Investor memperhatikan rincian ini karena meski totalnya sama, perubahan alokasi antar pos bisa mengubah cara membaca rasio permodalan dan riwayat kinerja perusahaan dari waktu ke waktu. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, untuk melihat apakah klasifikasi baru ini konsisten dipakai, serta apakah ada permintaan klarifikasi lanjutan dari BEI atau OJK terkait perubahan penyajian ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mknt-jadi-remitra-paparan-publik-ungkap-bisnis-baja-dan-udang",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Jadi Remitra, Paparan Publik Ungkap Bisnis [Baja] dan Udang",
+  "deck": "MKNT resmi berganti nama jadi Remitra Global International dan menggelar paparan publik 9 Oktober 2026, mengungkap dua bisnis barunya: baja dan tambak udang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T18:07:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa6139ca45_1d9df2c93d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "Public Expose",
+   "Industri Baja",
+   "Budidaya Udang"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk (MKNT), yang kini berganti nama menjadi PT Remitra Global International Tbk, mengirim surat ke Bursa Efek Indonesia bernomor 027/MKNT/EXT/BEI/X/2026 untuk menyampaikan materi paparan publik insidentil. Paparan ini akan digelar secara fisik pada 9 Oktober 2026 pukul 10.00 WIB di Mediterania Function Room, Pacific Place Mall Lantai Basement 1, Jakarta Selatan, dan merupakan kelanjutan dari surat pemberitahuan sebelumnya tertanggal 25 September 2026. Surat ini ditandatangani Direktur Utama Santoso Widjojo, sementara laporan ke bursa disampaikan oleh Corporate Secretary Shella Octavia.",
+   "Tema paparan publik kali ini adalah rencana Perseroan setelah penambahan modal tanpa hak memesan efek terlebih dahulu, yakni penerbitan saham baru tanpa jatah untuk pemegang saham lama yang pekan lalu membuat Headwell menguasai 65 persen saham MKNT. Materi presentasi memperkenalkan dua anak usaha yang jadi tumpuan bisnis baru Perseroan: PT Citra Baru Steel, produsen baja struktural di Cikande, Serang, Banten yang beroperasi sejak 2008 dengan enam pabrik di kompleks seluas sembilan hektare, lebih dari 550 pekerja, serta sertifikasi SNI dan ISO 9001:2008. Anak usaha kedua adalah PT Radja Udang Malingping, pengelola tambak udang air payau di Malingping, Kabupaten Lebak, Banten, dengan total lahan 27,72 hektare, terdiri dari 24,13 hektare milik sendiri dan 3,59 hektare sewa jangka panjang, serta kolam budidaya aktif terbagi dalam Blok A seluas 2,16 hektare, Blok B 6,86 hektare, dan Blok C 3,16 hektare.",
+   "Perseroan juga memaparkan rencana ekspansi, yaitu tambak udang kedua di Pandeglang dengan luas sekitar 50 hektare, hampir dua kali tambak Lebak yang ada saat ini, serta fasilitas cold storage dan pabrik pengolahan di Cikande seluas sekitar dua hektare untuk hilirisasi bisnis udang. Secara grup, materi menyebut rekam jejak 18 tahun beroperasi dengan pendapatan tahun buku 2025 sekitar Rp900 miliar, total aset sekitar Rp1,3 triliun, jangkauan operasional di dua provinsi, dan lebih dari 600 karyawan. Sebagian angka ini berasal dari halaman presentasi hasil pindaian sehingga perlu dibaca dengan kehati-hatian atas ketepatan digitnya."
+  ],
+  "fotoAdegan": "Aerial view of rectangular brackish-water shrimp ponds divided by narrow earthen embankments along a muddy coastline, soft midday light.",
+  "takeaway": "Laporan ini kami nilai netral bagi fundamental Perseroan, karena isinya baru sebatas materi perkenalan dan jadwal paparan publik, belum ada angka transaksi baru seperti nilai akuisisi anak usaha atau proyeksi pendapatan konsolidasi yang bisa dijadikan dasar penilaian positif atau negatif. Yang perlu dicatat, perubahan arah bisnis ini datang tepat setelah jumlah saham beredar MKNT melonjak drastis lewat penerbitan saham baru ke Headwell, sehingga kinerja keuangan Perseroan ke depan akan ditentukan oleh bisnis baja dan udang yang sama sekali berbeda dari bisnis komunikasi sebelumnya, bukan lagi oleh bisnis lama pemegang saham minoritas yang terdilusi. Pemegang saham perlu memperhatikan apakah dalam paparan publik 9 Oktober 2026 manajemen memberi rincian lebih jauh soal valuasi dua anak usaha tersebut, kondisi utang, dan proyeksi pendapatan gabungan, karena dokumen ini sendiri belum memuat angka-angka itu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dewa-catat-laba-naik-89-tapi-kas-tergerus-separuh",
+  "category": "Aksi Korporasi",
+  "title": "DEWA Catat Laba Naik 89%, tapi [Kas] Tergerus Separuh",
+  "deck": "Laba bersih DEWA naik hampir dua kali lipat jadi Rp354,23 miliar pada semester I 2026, tapi kas menipis 59,5 persen dan utang bank jangka pendek melonjak 158,7 persen jadi Rp2,16 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T17:43:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261006175759-64463-0/FinancialStatement-2026-II-DEWA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWA",
+  "tags": [
+   "DEWA",
+   "Darma Henwa",
+   "laporan keuangan",
+   "emiten tambang"
+  ],
+  "body": [
+   "PT Darma Henwa Tbk (DEWA) menyampaikan laporan keuangan konsolidasian interim untuk semester pertama 2026 yang berakhir 30 Juni 2026, berupa koreksi atas laporan sebelumnya. Pendapatan perusahaan naik 3,1 persen menjadi Rp3,21 triliun, laba bruto naik 23,5 persen menjadi Rp612,16 miliar, dan laba periode berjalan melonjak 89 persen menjadi Rp354,23 miliar dibandingkan Rp187,45 miliar pada semester I 2025. Laba per 1.000 saham ikut naik dari Rp5,39 menjadi Rp9,03.",
+   "Di sisi lain, posisi kas perusahaan melemah. Kas dan setara kas turun 59,5 persen dari Rp1,59 triliun pada akhir Desember 2025 menjadi Rp644,25 miliar per 30 Juni 2026, sementara pinjaman bank yang harus dilunasi dalam setahun melonjak 158,7 persen dari Rp835,49 miliar menjadi Rp2,16 triliun. Aset tetap perusahaan naik 24,8 persen menjadi Rp5,75 triliun, mengindikasikan dana itu sebagian mengalir ke belanja modal. Meski kas menipis dan utang jangka pendek naik tajam, DEWA tetap membeli kembali sahamnya sendiri senilai Rp791,42 miliar dan membagikan dividen kas Rp58,57 miliar selama semester ini, sehingga ekuitas total turun 5,6 persen menjadi Rp8,11 triliun dari Rp8,59 triliun.",
+   "Laporan keuangan ini diaudit oleh KAP Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan Rekan dengan partner penandatangan Friso Palilingan, dan memperoleh opini wajar tanpa modifikasian (unqualified) per laporan bertanggal 5 Oktober 2026. Auditor mencatat tiga hal audit utama, yaitu penilaian aset tetap, pengakuan pendapatan, dan penyajian kembali laporan keuangan tahun-tahun sebelumnya akibat kesalahan pencatatan penyesuaian mata uang serta saldo laba, yang sudah dijelaskan DEWA tidak mengubah jumlah aset, liabilitas, dan ekuitas total. Surat pengantar koreksi ini ditandatangani Mukson Arif Rosyidi, Direktur dan Corporate Secretary DEWA, tertanggal 6 Oktober 2026, dan dikirim kepada OJK serta Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Heavy excavators loading haul trucks at an open pit coal mine under an overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi DEWA: kinerja operasional menguat tajam, tetapi kondisi kas dan utang jangka pendek justru memburuk dalam periode yang sama, sehingga kedua sisi saling menetralkan satu sama lain. Laba bersih dan laba per saham, yaitu bagian laba yang jadi hak tiap lembar saham, naik tajam dan biasanya dibaca pasar sebagai tanda bisnis inti sedang membaik. Namun kas yang bisa langsung dipakai perusahaan menipis hampir 60 persen sementara pinjaman bank yang jatuh tempo kurang dari setahun lebih dari dua kali lipat, dan modal pemegang saham (ekuitas) malah turun karena perusahaan tetap membeli kembali sahamnya dan membagikan dividen di tengah kas yang menyusut. Yang perlu dipantau berikutnya adalah bagaimana DEWA melunasi pinjaman jangka pendek Rp2,16 triliun itu dalam setahun ke depan serta laporan keuangan kuartal III 2026, karena di sana akan terlihat apakah penipisan kas ini berlanjut atau cuma siklus belanja modal sesaat mengingat aset tetap perusahaan ikut naik signifikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "buva-koreksi-jadwal-rights-issue-pembeli-siaga-siap-rp525-m",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Koreksi Jadwal Rights Issue, [Pembeli Siaga] Siap Rp525 M",
+  "deck": "Perseroan mengoreksi jadwal rights issue senilai Rp1,54 triliun dan memastikan empat pembeli siaga menyerap sisa saham hingga Rp525 miliar bila publik tak menyerap haknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T17:33:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba9866aef8_fe0d8d5458.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "rights issue",
+   "HMETD",
+   "pembeli siaga"
+  ],
+  "body": [
+   "PT Bukit Uluwatu Villa Tbk (BUVA) mengoreksi surat keterbukaan informasi yang terbit lebih awal pada hari yang sama, 6 Oktober 2026, terkait rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD) II. Perseroan akan menerbitkan 6.154.263.660 saham baru bernilai nominal Rp50 per saham dengan rasio 4 banding 1, artinya setiap pemegang 4 saham lama yang namanya tercatat pada 15 Oktober 2026 pukul 16.00 WIB berhak membeli 1 saham baru seharga Rp250 per saham. Dari aksi ini, Perseroan akan menerima dana sebesar Rp1.538.565.915.000. Saham baru akan dicatatkan dan diperdagangkan di Bursa Efek Indonesia pada 19 Oktober 2026, dengan periode perdagangan dan pelaksanaan HMETD berlangsung sampai 30 Oktober 2026, batas akhir pembayaran pesanan saham tambahan pada 3 November 2026, penjatahan pada 4 November 2026, dan pengembalian uang pesanan yang tak terpenuhi pada 5 November 2026.",
+   "Dari total dana tersebut, Rp426.339.000.000 akan disetorkan sebagai penyertaan modal ke anak usaha PT Bukit Bali Permai (BBP) paling lambat kuartal IV 2026. BBP selanjutnya memakai Rp199.259.000.000 untuk mengambil alih saham PT Royal Uluwatu Residence (RUR) paling lambat Desember 2026, dan Rp227.080.000.000 lagi sebagai modal tambahan ke RUR untuk pengembangan lahan dan konstruksi proyek resor baru di kawasan Uluwatu, Bali, yang ditargetkan selesai bertahap hingga kuartal IV 2029. Sisanya, Rp417.800.000.000, dipakai Perseroan untuk membayar dipercepat pokok utang pembiayaan yang sedang berjalan.",
+   "PT Nusantara Utama Investama (NUI), pemegang saham pengendali dengan 15.034.031.772 saham atau 61,07 persen, akan memperoleh 3.758.507.943 HMETD. NUI berkomitmen melaksanakan 3.474.507.943 HMETD miliknya sendiri dan mengalihkan 284.000.000 HMETD sisanya ke PT Tata Tirta Datun (TTD), yang berkomitmen melaksanakan seluruh hak yang dialihkan tersebut, sehingga seluruh jatah NUI terserap penuh. Jika pemegang saham publik tidak menyerap haknya, sisa saham wajib dibeli empat pembeli siaga sesuai Perjanjian Pembelian Siaga: Hapsoro maksimum 389.038.738 saham (Rp97,26 miliar), Ferry Sudjono maksimum 1.311.216.321 saham (Rp327,8 miliar), TTD maksimum 1.606.350 saham (Rp401,59 juta), dan PT Henan Putihrai Sekuritas maksimum 400.000.000 saham (Rp100 miliar), total komitmen hingga sekitar Rp525,47 miliar. Pemegang saham yang tidak melaksanakan haknya akan terdilusi maksimum 20 persen."
+  ],
+  "fotoAdegan": "Workers on scaffolding at a coastal resort construction site in Bali, cranes and unfinished concrete structures, daylight",
+  "takeaway": "Laporan ini condong positif karena memberi kepastian tambahan bahwa seluruh dana Rp1,54 triliun bakal terserap penuh, baik lewat pengendali NUI maupun lewat empat pembeli siaga yang komitmennya kini dirinci sampai angka rupiah per pihak. Yang tersentuh adalah jumlah saham beredar, yang bertambah hingga 20 persen sehingga laba per saham bisa terdilusi bagi pemegang saham yang tidak ikut menebus haknya, sementara di sisi lain modal disetor Perseroan naik dari Rp1,23 triliun menjadi Rp1,54 triliun dan sebagian dana langsung memangkas beban utang sehingga beban bunga ke depan berpotensi turun. Yang perlu dipantau pembaca adalah periode perdagangan dan pelaksanaan HMETD pada 19 sampai 30 Oktober 2026, batas akhir pembayaran pesanan tambahan pada 3 November 2026, dan penjatahan pada 4 November 2026, karena dari situ baru terlihat berapa porsi yang akhirnya diserap publik dibanding pembeli siaga.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mglv-gelar-rupslb-12-november-agenda-belum-dibuka",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Gelar RUPSLB [12 November], Agenda Belum Dibuka",
+  "deck": "NexAI Digital Infrastruktur menjadwalkan RUPSLB pada 12 November 2026, dengan daftar pemegang saham penentu 20 Oktober dan pemanggilan resmi berisi agenda terbit 21 Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T17:29:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae178c6ed1_7f2448688f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "RUPSLB",
+   "Corporate Secretary",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV), melalui Corporate Secretary Putra Harianto Bate'e, mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 12 November 2026 pukul 14.00 WIB. Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per Selasa, 20 Oktober 2026, yakni satu hari kerja sebelum pemanggilan resmi rapat. Pemanggilan resmi yang memuat agenda lengkap rapat baru akan dipublikasikan di situs web penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs perusahaan pada Rabu, 21 Oktober 2026, sehingga dokumen pemberitahuan ini sendiri belum mengungkap topik yang akan dibahas dalam rapat.",
+   "Perseroan juga menjelaskan mekanisme bagi pemegang saham yang ingin mengusulkan mata acara RUPSLB: pengusul harus mewakili sendiri atau bersama pemegang saham lain minimal 1/20 (lima persen) dari total saham dengan hak suara, mengajukan usulan paling lambat tujuh hari sebelum tanggal pemanggilan, dan usulan itu harus diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, membutuhkan keputusan RUPSLB, serta dilengkapi alasan dan bahan pendukung. Untuk pemegang saham yang ingin memberi kuasa atau menentukan pilihan suara secara elektronik melalui sistem eASY.KSEI, batas waktunya adalah Rabu, 11 November 2026, sehari sebelum rapat digelar."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs arranged facing a stage in a corporate meeting hall, soft daylight, modern highrise office interior",
+  "takeaway": "Kami menilai pengumuman ini netral bagi NexAI Digital Infrastruktur, karena baru memberitahukan jadwal rapat tanpa membuka agenda atau keputusan apa pun yang akan diambil, sehingga belum ada dasar untuk menyebutnya positif atau negatif. Yang perlu diperhatikan pemegang saham adalah bahwa RUPSLB, berbeda dari rapat tahunan rutin, biasanya digelar untuk hal di luar agenda baku seperti perubahan struktur permodalan, persetujuan transaksi besar, atau perubahan jajaran direksi dan komisaris, yang bisa mengubah jumlah saham beredar atau nilai aset perusahaan kalau nanti disetujui. Yang paling penting dipantau berikutnya adalah pemanggilan resmi berisi agenda lengkap rapat yang dijadwalkan terbit 21 Oktober 2026, karena baru di situlah publik bisa menilai apakah rapat ini membawa dampak bagi kinerja atau struktur kepemilikan perusahaan. Tenggat pemberian kuasa elektronik pada 11 November 2026 juga layak dicatat bagi pemegang saham yang ingin memberikan suara tanpa hadir langsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ibst-tender-sukarela-iforte-rampung-503-883-saham-beralih",
+  "category": "Aksi Korporasi",
+  "title": "IBST: [Tender Sukarela] Iforte Rampung, 503.883 Saham Beralih",
+  "deck": "Penawaran tender sukarela Iforte Solusi Infotek atas saham publik Inti Bangun Sejahtera berakhir setelah 90 hari, dengan 503.883 saham dari 135 pemegang saham beralih ke Iforte.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T17:19:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/78f2042f7d_d74bae481a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IBST",
+  "tags": [
+   "IBST",
+   "tender offer",
+   "Iforte",
+   "delisting"
+  ],
+  "body": [
+   "Inti Bangun Sejahtera Tbk (IBST) melaporkan ke Bursa Efek Indonesia bahwa penawaran tender sukarela oleh PT Iforte Solusi Infotek atas saham-saham perseroan telah selesai pada 2 Oktober 2026. Sesuai Peraturan OJK Nomor 54/POJK.04/2015, penawaran tender sukarela maksimal berlangsung 90 hari, dan periode ketiga sekaligus terakhir berjalan dari 4 September sampai 2 Oktober 2026, setelah periode pertama pada 6 Juli hingga 4 Agustus 2026 dan periode kedua pada 5 Agustus hingga 3 September 2026.",
+   "Dari total 386 pemegang saham publik yang menguasai 650.832 saham, sebanyak 135 pemegang saham memilih menjual sahamnya ke Iforte selama tiga periode tersebut, dengan rincian 95 pemegang saham melepas 140.801 saham pada periode pertama, 24 pemegang saham melepas 354.009 saham pada periode kedua, dan 16 pemegang saham melepas 9.073 saham pada periode ketiga. Total saham yang berpindah tangan ke Iforte mencapai 503.883 saham, sementara 251 pemegang saham dengan total 146.949 saham memilih tidak ikut serta dalam penawaran ini.",
+   "Dalam laporannya, manajemen IBST menyatakan pelaksanaan tender sukarela ini tidak memiliki dampak negatif material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Perseroan juga menegaskan bahwa selain informasi yang telah diungkapkan terkait pelaksanaan VTO ini dan dokumen-dokumen sebelumnya, tidak ada fakta material lain yang perlu disampaikan saat ini. Laporan ini disampaikan untuk memenuhi ketentuan Pasal III.3.2.5 Peraturan BEI Nomor I-N tentang Pembatalan Pencatatan (Delisting) dan Pencatatan Kembali (Relisting)."
+  ],
+  "fotoAdegan": "Telecommunication towers standing across a quiet rural Indonesian hillside at dusk, a technician checking equipment at the base.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik yang tersisa, karena mayoritas pemegang saham publik, yakni 135 dari 386 orang yang menguasai 503.883 saham, memilih melepas kepemilikannya ke Iforte dalam tiga periode penawaran sembilan puluh hari, sehingga porsi saham yang masih beredar bebas di tangan publik makin menyusut. Yang tersentuh di sini adalah jumlah saham beredar di publik, atau yang biasa disebut free float, yaitu porsi saham yang tidak dipegang pengendali dan jadi penentu apakah saham masih bisa diperdagangkan luas; kalau porsinya terlalu kecil, Bursa Efek Indonesia bisa mencabut status pencatatan perusahaan sesuai Peraturan I-N tentang delisting, yang justru menjadi dasar hukum laporan ini dibuat. Yang perlu dipantau selanjutnya adalah apakah Inti Bangun Sejahtera dan Iforte akan mengumumkan langkah lanjutan, seperti rencana delisting resmi atau penyesuaian status pencatatan, serta bagaimana nasib 251 pemegang saham yang masih memegang 146.949 saham setelah tidak ikut serta dalam penawaran ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "tei-2026-satukan-zona-kopi-teh-dan-kakao-di-ice-bsd",
   "category": "Bisnis",
   "title": "TEI 2026 Satukan Zona [Kopi], Teh, dan Kakao di ICE BSD",
@@ -28,6 +262,32 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar tata letak pameran, melainkan cara Kemendag memasarkan tiga komoditas ini: digabung dalam satu zona dan diarahkan ke produk bernilai tambah seperti teh specialty dan cokelat artisan, bukan cuma biji mentah. Yang kena dampak langsung adalah pelaku usaha di empat daerah sentra kopi, Aceh, Sumatra Utara, Jawa Timur, dan Lampung, serta sepuluh perusahaan kecil dan menengah di paviliun teh dan kakao. Ini sejalan dengan tren ekspor yang memang sedang naik tajam, kopi tumbuh 53,2 persen dan kakao 36,19 persen sepanjang 2025, jadi penempatan zona KoTeKa terlihat sebagai usaha menjaga momentum itu lewat transaksi langsung dengan pembeli asing, bukan sekadar seremoni pameran. Yang akan membuktikan apakah strategi ini berhasil adalah jumlah dan nilai kontrak dagang yang biasanya diumumkan Kemendag begitu TEI 2026 selesai pada 18 Oktober, karena transaksi nyata itulah ukuran yang lebih berarti dibanding jumlah peserta atau luas paviliun."
+ },
+ {
+  "slug": "ijee-revisi-laporan-dana-rp742-miliar-masih-di-giro",
+  "category": "Aksi Korporasi",
+  "title": "IJEE Revisi Laporan Dana, Rp742 Miliar Masih di [Giro]",
+  "deck": "Koreksi laporan penggunaan dana obligasi dan sukuk Rp2,5 triliun milik IJEE menunjukkan Rp742,52 miliar per instrumen belum dipakai melunasi utang lama, masih mengendap di giro bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T17:17:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8c1e0fa5c7_27317bb272.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IJEE",
+  "tags": [
+   "IJEE",
+   "obligasi korporasi",
+   "sukuk",
+   "penggunaan dana IPO"
+  ],
+  "body": [
+   "PT Integrasi Jaringan Ekosistem (IJEE) mengoreksi laporan penggunaan dana hasil penawaran umum yang sebelumnya disampaikan 20 Juli 2026. Koreksi ini menyangkut dua instrumen yang efektif bersamaan pada 31 Maret 2026, yaitu Obligasi III Integrasi Jaringan Ekosistem Tahun 2026 dan Sukuk Ijarah II Integrasi Jaringan Ekosistem Tahun 2026, masing-masing senilai Rp1,25 triliun. Setelah dipotong biaya penawaran umum sebesar Rp14,55 miliar untuk Obligasi III dan Rp14,16 miliar untuk Sukuk II, dana bersih yang diterima perseroan adalah Rp1.235,45 miliar dan Rp1.235,84 miliar.",
+   "Dari dana bersih tersebut, baru Rp492,93 miliar (Obligasi III) dan Rp493,32 miliar (Sukuk II) yang benar-benar sudah dipakai. Seluruhnya habis untuk dua pos yang sudah terealisasi 100 persen, yaitu pelunasan fasilitas pinjaman dari Export Development Canada (EDC) senilai Rp250,5 miliar dan belanja modal atau capex senilai sekitar Rp242,4 miliar hingga Rp242,8 miliar. Sementara itu, dua rencana penggunaan dana dengan porsi lebih besar dalam prospektus, yakni pelunasan Obligasi II Integrasi Jaringan Ekosistem Tahun 2025 senilai Rp396,72 miliar dan pelunasan Sukuk Ijarah I Integrasi Jaringan Ekosistem Tahun 2025 senilai Rp345,8 miliar, masih tercatat nol persen realisasi.",
+   "Sisa dana sebesar Rp742,52 miliar untuk masing-masing instrumen saat ini ditempatkan dalam bentuk giro di empat bank, yaitu Bank Hibank Rp250 miliar dengan bunga 1,5 persen, Bank Jakarta Rp75 miliar dengan bunga 2 persen, Bank KB Indonesia Rp400 miliar dengan bunga 2 persen, dan Bank Maybank Rp17,52 miliar dengan bunga 0,75 persen. Perseroan menyatakan seluruh bank penyimpan dana tersebut berstatus pihak ketiga, bukan pihak berelasi. Laporan koreksi ini ditandatangani Hendrik Tee dari PT Integrasi Jaringan Ekosistem pada 6 Oktober 2026."
+  ],
+  "fotoAdegan": "Technicians splicing fiber optic cables inside a roadside utility cabinet in an Indonesian city, overcast afternoon light.",
+  "takeaway": "Laporan ini netral bagi IJEE: realisasi dana sejauh ini sejalan dengan rencana di prospektus, tapi porsi terbesarnya, yakni pelunasan Obligasi II dan Sukuk Ijarah I lama senilai total Rp742,52 miliar per instrumen, belum terealisasi sama sekali lebih dari enam bulan sejak dana efektif diterima. Pos yang tersentuh adalah beban bunga perusahaan, karena selama dana itu belum dipakai melunasi utang lama, IJEE pada dasarnya menanggung kupon obligasi dan sukuk baru yang sudah berjalan sekaligus bunga utang lama yang belum lunas, sementara dana yang mengendap di giro bank hanya menghasilkan bunga 0,75 sampai 2 persen per tahun. Yang perlu dipantau berikutnya adalah kapan perseroan benar-benar mengeksekusi pelunasan Obligasi II dan Sukuk Ijarah I Tahun 2025 tersebut, karena penundaan yang berlarut-larut akan menggerus efisiensi penggunaan dana hasil penawaran umum ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "tira-bantah-punya-informasi-material-di-balik-volatilitas-sahamnya",

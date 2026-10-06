@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "swat-koreksi-lk-2025-aset-turun-karyawan-susut-jadi-97",
+  "category": "Aksi Korporasi",
+  "title": "SWAT Koreksi LK 2025: Aset Turun, [Karyawan] Susut jadi 97",
+  "deck": "SWAT merevisi laporan keuangan tahunan 2025: auditor baru memberi opini wajar dengan pengecualian, aset dan kas menyusut, dan karyawan merosot dari 249 menjadi 97 orang.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SWAT",
+   "laporan keuangan",
+   "opini audit",
+   "watchlist"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202510/20261006184758-64490-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hrta-gandeng-bank-mandiri-jual-emas-batangan-emasku",
+  "category": "Aksi Korporasi",
+  "title": "HRTA Gandeng Bank Mandiri Jual [Emas] Batangan EMASKU",
+  "deck": "Hartadinata Abadi meneken kerja sama setahun dengan Bank Mandiri untuk menjual emas batangan EMASKU, memperluas kanal distribusi lewat jaringan bank pelat merah itu.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRTA",
+   "Bank Mandiri",
+   "EMASKU",
+   "emas batangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/536fa65029_6c24d966c0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "moya-jelaskan-ke-bursa-realisasi-dana-obligasi-rp1-98-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MOYA Jelaskan ke Bursa [Realisasi] Dana Obligasi Rp1,98 Triliun",
+  "deck": "Emiten infrastruktur air MOYA merinci ke BEI penggunaan dana obligasi dan sukuk senilai hampir Rp2 triliun, dari pelunasan utang bank hingga pembangunan SPAM di Jakarta dan Bandung.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MOYA",
+   "obligasi",
+   "sukuk",
+   "SPAM"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8a0c73c644_2bf7ab6dc2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewa-sajikan-kembali-laporan-keuangan-ekuitas-total-tak-berubah",
+  "category": "Aksi Korporasi",
+  "title": "DEWA Sajikan Kembali Laporan Keuangan, [Ekuitas] Total Tak Berubah",
+  "deck": "Darma Henwa merombak klasifikasi komponen ekuitas pada laporan keuangan interim per 30 Juni 2026, namun menegaskan total ekuitas, aset, dan liabilitas tidak berubah.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWA",
+   "laporan keuangan",
+   "ekuitas",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd98499772_ab3017ebca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-jadi-remitra-paparan-publik-ungkap-bisnis-baja-dan-udang",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Jadi Remitra, Paparan Publik Ungkap Bisnis [Baja] dan Udang",
+  "deck": "MKNT resmi berganti nama jadi Remitra Global International dan menggelar paparan publik 9 Oktober 2026, mengungkap dua bisnis barunya: baja dan tambak udang.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "Public Expose",
+   "Industri Baja",
+   "Budidaya Udang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa6139ca45_1d9df2c93d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewa-catat-laba-naik-89-tapi-kas-tergerus-separuh",
+  "category": "Aksi Korporasi",
+  "title": "DEWA Catat Laba Naik 89%, tapi [Kas] Tergerus Separuh",
+  "deck": "Laba bersih DEWA naik hampir dua kali lipat jadi Rp354,23 miliar pada semester I 2026, tapi kas menipis 59,5 persen dan utang bank jangka pendek melonjak 158,7 persen jadi Rp2,16 triliun.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWA",
+   "Darma Henwa",
+   "laporan keuangan",
+   "emiten tambang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261006175759-64463-0/FinancialStatement-2026-II-DEWA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-koreksi-jadwal-rights-issue-pembeli-siaga-siap-rp525-m",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Koreksi Jadwal Rights Issue, [Pembeli Siaga] Siap Rp525 M",
+  "deck": "Perseroan mengoreksi jadwal rights issue senilai Rp1,54 triliun dan memastikan empat pembeli siaga menyerap sisa saham hingga Rp525 miliar bila publik tak menyerap haknya.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "rights issue",
+   "HMETD",
+   "pembeli siaga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba9866aef8_fe0d8d5458.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-gelar-rupslb-12-november-agenda-belum-dibuka",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Gelar RUPSLB [12 November], Agenda Belum Dibuka",
+  "deck": "NexAI Digital Infrastruktur menjadwalkan RUPSLB pada 12 November 2026, dengan daftar pemegang saham penentu 20 Oktober dan pemanggilan resmi berisi agenda terbit 21 Oktober.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "RUPSLB",
+   "Corporate Secretary",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae178c6ed1_7f2448688f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ibst-tender-sukarela-iforte-rampung-503-883-saham-beralih",
+  "category": "Aksi Korporasi",
+  "title": "IBST: [Tender Sukarela] Iforte Rampung, 503.883 Saham Beralih",
+  "deck": "Penawaran tender sukarela Iforte Solusi Infotek atas saham publik Inti Bangun Sejahtera berakhir setelah 90 hari, dengan 503.883 saham dari 135 pemegang saham beralih ke Iforte.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IBST",
+   "tender offer",
+   "Iforte",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/78f2042f7d_d74bae481a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tei-2026-satukan-zona-kopi-teh-dan-kakao-di-ice-bsd",
   "category": "Bisnis",
   "title": "TEI 2026 Satukan Zona [Kopi], Teh, dan Kakao di ICE BSD",
@@ -19,6 +163,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tei-2026-siapkan-zona-khusus-kopi-teh-dan-kakao-permudah-buyer-di-area-pameran",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ijee-revisi-laporan-dana-rp742-miliar-masih-di-giro",
+  "category": "Aksi Korporasi",
+  "title": "IJEE Revisi Laporan Dana, Rp742 Miliar Masih di [Giro]",
+  "deck": "Koreksi laporan penggunaan dana obligasi dan sukuk Rp2,5 triliun milik IJEE menunjukkan Rp742,52 miliar per instrumen belum dipakai melunasi utang lama, masih mengendap di giro bank.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IJEE",
+   "obligasi korporasi",
+   "sukuk",
+   "penggunaan dana IPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8c1e0fa5c7_27317bb272.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "tira-bantah-punya-informasi-material-di-balik-volatilitas-sahamnya",
@@ -6313,168 +6473,6 @@ var ARTICLES = [
    "tata kelola"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9cb10a6167_aea69d8c3d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "viva-cetak-laba-tapi-pendapatan-turun-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "VIVA Cetak Laba, tapi [Pendapatan] Turun di Semester I 2026",
-  "deck": "Laba bersih VIVA Rp60 miliar pada semester I 2026 ditopang untung pelepasan saham Rp158,3 miliar, sementara pendapatan turun 7,6 persen dan rugi usaha melebar.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VIVA",
-   "laporan keuangan",
-   "media penyiaran",
-   "PKPU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929185643-64353-0/FinancialStatement-2026-II-VIVA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "infranexia-ccsi-garap-kabel-laut-sub-2-jawa-sulawesi-kalimantan",
-  "category": "Teknologi",
-  "title": "InfraNexia-CCSI Garap Kabel Laut [SUB-2] Jawa-Sulawesi-Kalimantan",
-  "deck": "InfraNexia dan CCSI-KD meneken kesepakatan awal pembangunan kabel laut SUB-2 yang akan menyambungkan Jawa, Sulawesi, dan Kalimantan untuk memperkuat kapasitas jaringan data.",
-  "date": "29 September 2026",
-  "image": "assets/img/infranexia-ccsi-garap-kabel-laut-sub-2-jawa-sulawesi-kalimantan.jpg",
-  "imageV": "mumo5ka7",
-  "tags": [
-   "InfraNexia",
-   "Telkom Indonesia",
-   "kabel laut",
-   "SUB-2"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470214-infranexia-dan-ccsi-kd-kembangkan-skkl-sub-2-dorong-kesiapan-infrastruktur-hadapi-pertumbuhan-trafik-data"
- },
- {
-  "slug": "blangkon-jawa-bertahan-berkat-pembiayaan-pnm-mekaar",
-  "category": "UMKM",
-  "title": "Blangkon Jawa Bertahan Berkat Pembiayaan [PNM] Mekaar",
-  "deck": "Perajin blangkon Tri Damayanti bertahan dan berkembang berkat pembiayaan bahan baku serta pendampingan pemasaran dari PNM sejak 2023.",
-  "date": "29 September 2026",
-  "image": "assets/img/blangkon-jawa-bertahan-berkat-pembiayaan-pnm-mekaar.jpg",
-  "imageV": "mumo5kqa",
-  "tags": [
-   "blangkon",
-   "PNM Mekaar",
-   "UMKM",
-   "pembiayaan ultra mikro"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470211-blangkon-jawa-tetap-hidup-di-tengah-zaman-bersama-pnm-mekaar"
- },
- {
-  "slug": "film-gandeng-sbs-korea-perdalam-kerja-sama-konten-media",
-  "category": "Aksi Korporasi",
-  "title": "FILM Gandeng SBS Korea, [Perdalam] Kerja Sama Konten Media",
-  "deck": "MD Entertainment (FILM) dan SBS Korea teken MOU kerja sama konten, memperdalam kemitraan setahun setelah SBS suntik modal sekitar US$20 juta lewat rights issue Perseroan.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "MD Entertainment",
-   "SBS",
-   "kerja sama konten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2682dd1472_ca715f942a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tgra-masih-nol-pendapatan-ekuitas-turun-ke-rp46-3-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TGRA Masih Nol Pendapatan, [Ekuitas] Turun ke Rp46,3 Miliar",
-  "deck": "Terregra Asia Energy (TGRA) melaporkan keuangan interim semester I 2026 tanpa pendapatan usaha, sementara ekuitas turun ke Rp46,3 miliar dan utang ke pihak berelasi membengkak ke Rp102,65 miliar.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "laporan keuangan interim",
-   "ekuitas",
-   "watchlist"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929181756-64430-0/FinancialStatement-2026-II-TGRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asgr-bagikan-dividen-interim-rp297-per-saham-cair-26-oktober",
-  "category": "Aksi Korporasi",
-  "title": "ASGR Bagikan Dividen Interim [Rp297] per Saham, Cair 26 Oktober",
-  "deck": "Astra Graphia menetapkan dividen interim tahun buku 2026 senilai Rp400,05 miliar atau Rp297 per saham, dengan pembayaran pada 26 Oktober 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASGR",
-   "dividen interim",
-   "Astra Graphia",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54e3df1ba2_0a8b6ae102.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fmfn-ekuitas-anjlok-85-jadi-rp18-8-miliar-per-juni-2026",
-  "category": "Aksi Korporasi",
-  "title": "FMFN: Ekuitas [Anjlok] 85% Jadi Rp18,8 Miliar per Juni 2026",
-  "deck": "Ekuitas KB Finansia Multi Finance turun dari Rp128,1 miliar menjadi Rp18,8 miliar dalam enam bulan, seiring piutang pembiayaan menyusut dan penyaluran baru baru capai separuh target.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FMFN",
-   "KB Finansia Multi Finance",
-   "multifinance",
-   "ekuitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929180213-64449-0/FinancialStatement-2026-II-FMFN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tgra-kuartal-i-2026-nol-pendapatan-ekuitas-susut-ke-rp49-m",
-  "category": "Aksi Korporasi",
-  "title": "TGRA Kuartal I 2026: Nol Pendapatan, [Ekuitas] Susut ke Rp49 M",
-  "deck": "Laporan interim kuartal I 2026 TGRA masih nihil pendapatan usaha, ekuitas turun ke Rp49,01 miliar, dan utang ke pihak berelasi membengkak jadi Rp100,59 miliar.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "laporan keuangan",
-   "Terregra Asia Energy",
-   "emiten watchlist"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929175812-64421-0/FinancialStatement-2026-I-TGRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smar-ajukan-nilai-buku-pajak-untuk-merger-panigoran",
-  "category": "Aksi Korporasi",
-  "title": "SMAR Ajukan Nilai Buku Pajak untuk [Merger] Panigoran",
-  "deck": "SMART menyerahkan laporan keuangan sebelum dan sesudah penggabungan usaha dengan PT Perusahaan Perkebunan Panigoran ke Ditjen Pajak untuk permohonan penggunaan nilai buku.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMAR",
-   "merger",
-   "Panigoran",
-   "nilai buku pajak"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a4ae54e45e_092dcb6ad3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "emas-laporkan-transaksi-afiliasi-utang-piutang-antar-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "EMAS Laporkan Transaksi [Afiliasi] Utang Piutang Antar Anak Usaha",
-  "deck": "EMAS mengungkap tiga perjanjian utang piutang antar anak usaha, PIN dengan Perseroan, GSM, dan PETS, efektif 25 September 2026 tanpa perlu persetujuan RUPS.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "Merdeka Gold Resources",
-   "transaksi afiliasi",
-   "utang piutang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2475144564_36c6813fa6.pdf",
   "sourceLabel": "IDX"
  }
 ];

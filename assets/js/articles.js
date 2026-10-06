@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pegadaian-luncurkan-gadai-bebas-sewa-modal-untuk-nasabah-baru",
+  "category": "Perbankan",
+  "title": "Pegadaian Luncurkan Gadai [Bebas] Sewa Modal untuk Nasabah Baru",
+  "deck": "Pegadaian menghapus sewa modal gadai bagi nasabah baru untuk pinjaman Rp50.000 hingga Rp1 juta bertenor 30 hari, berlaku di seluruh gerai mulai 28 September 2026.",
+  "image": "assets/img/pegadaian-luncurkan-gadai-bebas-sewa-modal-untuk-nasabah-baru.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T22:27:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471602-pegadaian-luncurkan-program-gadai-bebas-sewa-modal-khusus-nasabah-baru-bantu-masyarakat-akses-dana-cepat-tanpa-bunga",
+  "tags": [
+   "Pegadaian",
+   "gadai",
+   "kredit mikro",
+   "inklusi keuangan"
+  ],
+  "body": [
+   "PT Pegadaian meluncurkan produk gadai baru bernama Gadai Bebas Sewa Modal, yang membebaskan nasabah dari sewa modal, yaitu biaya pinjam yang selama ini berfungsi seperti bunga pada transaksi gadai biasa. Program ini mulai berlaku serentak di seluruh gerai Pegadaian se-Indonesia sejak 28 September 2026. Skema ini penting bagi masyarakat yang butuh dana cepat dalam jumlah kecil, karena selama ini biaya sewa modal menjadi beban tambahan di luar nilai barang yang digadaikan.",
+   "Fasilitas ini menyasar nasabah baru, yaitu orang yang belum pernah terdaftar atau bertransaksi produk pembiayaan apa pun di Pegadaian sebelumnya. Plafon pinjaman yang ditawarkan mulai dari Rp50.000 sampai Rp1.000.000, masuk golongan pinjaman A dan B1, dengan jangka waktu pengembalian 30 hari. Barang yang bisa dijaminkan cukup luas, mulai dari emas, gawai, perlengkapan rumah tangga, hingga peralatan usaha.",
+   "Meski bebas sewa modal, nasabah tetap dikenai biaya administrasi yang besarnya mengikuti nilai pinjaman: Rp2.000 untuk pinjaman Rp50.000 sampai Rp200.000, Rp5.000 untuk pinjaman Rp200.001 sampai Rp500.000, dan Rp10.000 untuk pinjaman Rp500.001 sampai Rp1.000.000. Direktur Pemasaran dan Pengembangan Produk Pegadaian, Selfie Dewiyanti, menyebut program ini sebagai cara perusahaan memberi pengalaman pertama yang ringan bagi masyarakat yang belum pernah memakai layanan gadai, sekaligus menjawab kebutuhan dana mendesak atau modal kerja kecil yang sering muncul tiba-tiba.",
+   "Segmen yang disasar mencakup ibu rumah tangga, mahasiswa, pekerja harian lepas, serta pelaku usaha mikro, kecil, dan menengah. Karena hanya berlaku untuk nasabah yang benar-benar baru, program ini bekerja sebagai pintu masuk awal, sebelum nasabah kembali bertransaksi gadai dengan skema sewa modal normal pada pinjaman berikutnya."
+  ],
+  "fotoAdegan": "A customer handing a small gold ring to a teller across a modest pawnshop counter, simple interior, soft daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/06/6ac512b1d1b26-pegadaian-luncurkan-program-gadai-bebas-sewa-modal-khusus-nasabah-baru_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: untuk nasabah yang benar-benar baru, Pegadaian menghapus sewa modal, yaitu biaya pinjam mirip bunga yang biasa dikenakan atas pinjaman gadai, tapi hanya untuk pinjaman kecil sampai Rp1 juta dan jangka waktu 30 hari. Yang kena manfaatnya adalah orang yang belum pernah punya transaksi gadai di Pegadaian, seperti ibu rumah tangga, mahasiswa, pekerja harian lepas, dan pelaku usaha mikro yang butuh dana darurat cepat. Batasan plafon kecil dan syarat nasabah baru membuat program ini lebih terlihat sebagai cara menarik orang mencoba layanan gadai untuk pertama kali, ketimbang perubahan permanen pada biaya gadai Pegadaian secara umum. Yang akan memastikan arah ini adalah apakah Pegadaian nantinya mengumumkan jumlah nasabah baru yang terekrut lewat program ini, atau memperpanjang dan memperluas plafonnya setelah masa awal berjalan.",
+  "imageV": "muwultsv"
+ },
+ {
   "slug": "ptpp-raih-kontrak-baru-rp9-3-triliun-hingga-agustus-2026",
   "category": "Aksi Korporasi",
   "title": "PTPP Raih [Kontrak] Baru Rp9,3 Triliun hingga Agustus 2026",
@@ -132,7 +159,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pernyataan ini adalah rencana pemerintah meninjau ulang insentif pajak untuk investor, termasuk tax holiday atau pembebasan pajak badan bagi investasi besar, setelah pajak minimum global 15 persen mulai berlaku di banyak negara. Aturan itu membuat potongan pajak yang diberikan Indonesia bisa ditagih balik oleh negara asal investor, sehingga tax holiday berisiko kehilangan daya tariknya seperti semula. Pihak yang paling terdampak adalah perusahaan hilirisasi, misalnya smelter nikel atau industri pengolahan mineral, yang selama ini mengandalkan pembebasan pajak sebagai alasan utama berinvestasi di Indonesia. Pemerintah belum menjelaskan bentuk pengganti insentif ini, sehingga arah yang lebih mungkin adalah pergeseran dari pembebasan pajak ke bentuk insentif lain seperti subsidi langsung atau kredit pajak, mengikuti pola yang sudah terjadi di negara lain yang lebih dulu menerapkan pajak minimum global. Yang akan memastikan arah ini adalah aturan teknis dari Kementerian Keuangan atau Badan Koordinasi Penanaman Modal soal skema insentif baru, yang belum punya tenggat pasti dalam keterangan ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "swat-koreksi-lk-2025-aset-turun-karyawan-susut-jadi-97",
@@ -839,7 +866,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan kebijakan baru, melainkan perluasan sasaran hilirisasi: dari sebelumnya terpusat di nikel dan tambang, kini mencakup 28 komoditas termasuk sawit, karet, kelapa, dan hasil laut, dengan target investasi US$618,1 miliar dan tambahan ekspor mendekati US$500 miliar. Yang terdampak langsung adalah pelaku usaha di sektor pertanian dan perikanan yang didorong membangun pabrik pengolahan, serta daerah di luar Jawa yang sudah menampung 75,7 persen investasi hilirisasi pada semester I 2026 ini. Arahnya mengarah ke upaya pemerataan industri ke luar Jawa sekaligus mendorong sumbangan industri manufaktur ke ekonomi nasional naik dari 18,5 persen menjadi di atas 20 persen, selaras dengan target pertumbuhan ekonomi 8 persen yang disebut pemerintah. Yang akan menunjukkan apakah target besar ini benar bergerak sesuai rencana atau baru sebatas proyeksi adalah data realisasi investasi hilirisasi tahunan dibanding target US$618,1 miliar itu, yang biasanya dirilis bertahap oleh BKPM setiap kuartal.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "airlangga-pacu-investasi-as-target-tumbuh-8-di-2027",
@@ -867,7 +894,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari forum ini adalah target pertumbuhan ekonomi 8 persen pada 2027 dan pergeseran fokus investasi ke sektor teknologi seperti semikonduktor, pusat data berbasis AI, dan digitalisasi, bukan lagi sekadar manufaktur dasar. Pihak yang langsung terdampak adalah investor dan pelaku usaha asal AS yang jadi sasaran utama forum ini, juga pekerja di kawasan ekonomi khusus seperti Nongsa dan Batam-Bintan yang jadi pusat proyek teknologi tersebut. Pola ini, ditambah realisasi investasi KEK yang sudah mencapai Rp368 triliun, mengarah ke strategi memusatkan investasi asing di zona-zona khusus berteknologi tinggi ketimbang menyebar rata ke seluruh sektor. Yang akan menentukan apakah arah ini benar berjalan adalah implementasi perjanjian dagang timbal balik dengan AS dan laporan realisasi investasi KEK pada akhir 2026, karena baru di situ terlihat apakah target investasi teknologi tinggi benar-benar terwujud atau cuma rencana di atas kertas.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "kemendag-pilih-100-umkm-untuk-sertifikasi-barcode",

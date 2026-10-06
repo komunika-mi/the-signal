@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pegadaian-luncurkan-gadai-bebas-sewa-modal-untuk-nasabah-baru",
+  "category": "Perbankan",
+  "title": "Pegadaian Luncurkan Gadai [Bebas] Sewa Modal untuk Nasabah Baru",
+  "deck": "Pegadaian menghapus sewa modal gadai bagi nasabah baru untuk pinjaman Rp50.000 hingga Rp1 juta bertenor 30 hari, berlaku di seluruh gerai mulai 28 September 2026.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/pegadaian-luncurkan-gadai-bebas-sewa-modal-untuk-nasabah-baru.jpg",
+  "imageV": "muwultsv",
+  "tags": [
+   "Pegadaian",
+   "gadai",
+   "kredit mikro",
+   "inklusi keuangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471602-pegadaian-luncurkan-program-gadai-bebas-sewa-modal-khusus-nasabah-baru-bantu-masyarakat-akses-dana-cepat-tanpa-bunga"
+ },
+ {
   "slug": "ptpp-raih-kontrak-baru-rp9-3-triliun-hingga-agustus-2026",
   "category": "Aksi Korporasi",
   "title": "PTPP Raih [Kontrak] Baru Rp9,3 Triliun hingga Agustus 2026",
@@ -6452,21 +6469,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470255-mk-tegaskan-gula-garam-dan-lemak-di-label-pangan-kemasan-harus-jelas"
- },
- {
-  "slug": "indonesia-dan-china-sepakat-percepat-perundingan-cepa",
-  "category": "Global",
-  "title": "Indonesia dan China Sepakat Percepat Perundingan [CEPA]",
-  "deck": "Indonesia dan Tiongkok sepakat mempercepat persiapan perundingan CEPA, sekaligus memperkuat kerja sama ekonomi hijau dan peningkatan kapasitas aparatur sipil negara.",
-  "date": "29 September 2026",
-  "image": "assets/img/kapal-batubara.jpg",
-  "tags": [
-   "CEPA",
-   "Indonesia-Tiongkok",
-   "Ekonomi Hijau",
-   "WAICO"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7119/indonesia-dan-tiongkok-sepakat-percepat-persiapan-cepa-perkuat-kerja-sama-ekonomi-hijau-dan-peningkatan-kapasitas-asn",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

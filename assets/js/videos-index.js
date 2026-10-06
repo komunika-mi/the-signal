@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "eZ4AKYXv69I",
+  "title": "Tamsyi Tour Gelar Business Partner Gathering 2026",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "PT Tamasya Hati Global, atau Tamsitour, menggelar Business Partner Gathering 2026 yang dihadiri puluhan mitra bisnis, komunitas, dan pejabat daerah untuk memperkuat kolaborasi usaha.",
+  "takeaway": "Acara ini mencerminkan dinamika kolaborasi bisnis di sektor pariwisata dan jaringan kemitraan usaha lokal."
+ },
+ {
   "id": "SiAz0jv5UR0",
   "title": "In This Economy: Kelas Menengah Turun Kasta Lagi?",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Enam kepengurusan Kamar Dagang dan Industri kabupaten/kota di Provinsi Gorontalo resmi dilantik, disertai pesan tegas dari Ketua Umum Karateker Kadin setempat.",
   "takeaway": "Pergantian pengurus Kadin daerah penting diikuti karena menyangkut arah kebijakan dan pendampingan bagi pelaku usaha di Gorontalo."
- },
- {
-  "id": "cGoQhvE8mJY",
-  "title": "PT KAI Hadirkan Nusantara Explorer, Kereta Wisata Premium",
-  "category": "BUMN",
-  "program": "Kabar Petang",
-  "summary": "PT KAI meluncurkan Nusantara Explorer, layanan kereta wisata premium bergaya luxury sleeper dengan fasilitas mewah untuk mendongkrak sektor pariwisata.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan langkah diversifikasi bisnis BUMN perkeretaapian ke segmen pariwisata bernilai tambah tinggi."
  }
 ];

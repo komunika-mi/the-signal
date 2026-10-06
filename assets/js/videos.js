@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "eZ4AKYXv69I",
+  "title": "Tamsyi Tour Gelar Business Partner Gathering 2026",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "PT Tamasya Hati Global, atau Tamsitour, menggelar Business Partner Gathering 2026 yang dihadiri puluhan mitra bisnis, komunitas, dan pejabat daerah untuk memperkuat kolaborasi usaha.",
+  "takeaway": "Acara ini mencerminkan dinamika kolaborasi bisnis di sektor pariwisata dan jaringan kemitraan usaha lokal.",
+  "terbit": "2026-10-06T02:28:08+00:00"
+ },
+ {
   "id": "SiAz0jv5UR0",
   "title": "In This Economy: Kelas Menengah Turun Kasta Lagi?",
   "category": "Makroekonomi",

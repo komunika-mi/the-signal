@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "surplus-dagang-agustus-melonjak-impor-modal-anjlok-16",
+  "category": "Makroekonomi",
+  "title": "Surplus Dagang Agustus Melonjak, [Impor] Modal Anjlok 16%",
+  "deck": "Neraca dagang Indonesia Agustus 2026 surplus USD3,55 miliar, melonjak dari USD0,12 miliar di Juli, didorong surplus nonmigas, sementara impor barang modal dan bahan baku justru turun tajam.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "neraca dagang",
+   "ekspor impor",
+   "Kementerian Perdagangan",
+   "hilirisasi"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/surplus-perdagangan-agustus-2026-menguat-surplus-januari-agustus-2026-tembus-usd-725-miliar",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "edge-serapan-tender-saham-digital-edge-baru-4-84-usai-tahap-iii",
   "category": "Aksi Korporasi",
   "title": "EDGE: [Serapan] Tender Saham Digital Edge Baru 4,84% Usai Tahap III",
@@ -1570,7 +1586,7 @@ var ARTICLES = [
   "title": "Investasi Harus Tumbuh [8-9%] Kejar Target Ekonomi 2027",
   "deck": "Kemenko Perekonomian menyebut investasi perlu tumbuh 8-9 persen demi target pertumbuhan ekonomi 6 persen pada 2027, didukung transisi energi hijau dan digitalisasi.",
   "date": "4 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "investasi",
    "transisi energi",
@@ -1586,7 +1602,7 @@ var ARTICLES = [
   "title": "PMI Manufaktur RI [Balik] ke Ekspansi, Inflasi Terjaga 3,28%",
   "deck": "Inflasi September terjaga di 3,28 persen, neraca dagang Januari-Agustus surplus US$7,25 miliar, dan PMI manufaktur naik ke 52,4 setelah sempat kontraksi Agustus.",
   "date": "4 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "Inflasi",
    "Neraca Dagang",
@@ -3461,7 +3477,7 @@ var ARTICLES = [
   "title": "Manufaktur RI Kembali [Ekspansi], Surplus Dagang Melonjak",
   "deck": "Inflasi September terkendali di 3,28 persen, neraca dagang Agustus surplus US$3,55 miliar, dan PMI manufaktur kembali ke zona ekspansi di 52,4, naik dari 49,8 bulan sebelumnya.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "Inflasi",
    "PMI Manufaktur",
@@ -4084,7 +4100,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Jadi [0,30%]",
   "deck": "Harga barang dan jasa pada September 2026 naik 0,30% dibanding bulan sebelumnya, tertinggi sejak Juni yang mencatat 0,44%.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -4343,7 +4359,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Capai [3,28] Persen, Inti Lebih Rendah",
   "deck": "BPS mencatat inflasi tahunan 3,28 persen pada September 2026, dengan inflasi bulanan 0,30 persen dan inflasi inti 2,84 persen.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "Inflasi",
    "BPS",
@@ -4359,7 +4375,7 @@ var ARTICLES = [
   "title": "Harga Perdagangan Besar [Naik] 6,76 Persen di September",
   "deck": "BPS mencatat Indeks Harga Perdagangan Besar nasional naik 6,76 persen secara tahunan pada September 2026, dengan bahan bangunan jadi kelompok paling tertekan.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "IHPB",
    "harga grosir",
@@ -6464,22 +6480,6 @@ var ARTICLES = [
    "Wira Global Solusi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d3a874715d_66c1aabbd8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "crab-jadwalkan-pembayaran-dividen-rp2-saham-cair-29-oktober",
-  "category": "Aksi Korporasi",
-  "title": "CRAB [Jadwalkan] Pembayaran Dividen Rp2/Saham, Cair 29 Oktober",
-  "deck": "Toba Surimi menetapkan jadwal pembayaran dividen tunai Rp2 per saham hasil RUPST, dengan tanggal pencatatan pemegang saham 7 Oktober dan pembayaran 29 Oktober 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRAB",
-   "dividen",
-   "RUPST",
-   "Toba Surimi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca374deed2_9260d8c3e4.pdf",
   "sourceLabel": "IDX"
  }
 ];

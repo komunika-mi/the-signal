@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "3GLyflssEDk",
+  "title": "DPR Umumkan Pengesahan RUU Pelindungan Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "AKIM",
+  "summary": "DPR RI menemui massa buruh dan mengumumkan pengesahan RUU Pelindungan Ketenagakerjaan, aturan yang berkaitan langsung dengan nasib para pekerja.",
+  "takeaway": "Pengesahan RUU ini layak disimak pembaca ekonomi karena berpotensi mengubah aturan hubungan industrial dan beban ketenagakerjaan bagi dunia usaha.",
+  "terbit": "2026-10-06T12:24:09+00:00"
+ },
+ {
   "id": "nHD8zfoUQZg",
   "title": "DPR Resmi Sahkan UU Perlindungan Ketenagakerjaan",
   "category": "Ketenagakerjaan",

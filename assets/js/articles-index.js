@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-kaji-ulang-insentif-pajak-investasi-usai-pajak-global",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Kaji Ulang [Insentif Pajak] Investasi Usai Pajak Global",
+  "deck": "Pemerintah mengkaji ulang insentif pajak investasi, termasuk tax holiday, setelah pajak minimum global 15 persen berlaku, di tengah investasi semester I 2026 yang capai Rp1.010 triliun.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "hilirisasi",
+   "investasi",
+   "pajak minimum global",
+   "tax holiday"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7134/pemerintah-perkuat-ekosistem-hilirisasi-bernilai-tambah-tinggi-di-tengah-ketidakpastian-global",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "swat-koreksi-lk-2025-aset-turun-karyawan-susut-jadi-97",
   "category": "Aksi Korporasi",
   "title": "SWAT Koreksi LK 2025: Aset Turun, [Karyawan] Susut jadi 97",
@@ -83,6 +99,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa6139ca45_1d9df2c93d.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "taspen-perkuat-kepemimpinan-lewat-digitalisasi-layanan",
+  "category": "BUMN",
+  "title": "TASPEN Perkuat [Kepemimpinan] Lewat Digitalisasi Layanan",
+  "deck": "TASPEN menggelar forum kepemimpinan tahunan LEAP 2026 di Jakarta untuk mendorong inovasi digital dalam pelayanan bagi pensiunan ASN di seluruh Indonesia.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/taspen-perkuat-kepemimpinan-lewat-digitalisasi-layanan.jpg",
+  "imageV": "muwp8ve5",
+  "tags": [
+   "TASPEN",
+   "LEAP 2026",
+   "BUMN",
+   "Digitalisasi Layanan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471534-semakin-andal-melayani-peserta-taspen-akselerasikan-kemampuan-kepemimpinan-melalui-inovasi-digital"
  },
  {
   "slug": "dewa-catat-laba-naik-89-tapi-kas-tergerus-separuh",
@@ -378,7 +411,7 @@ var ARTICLES = [
   "title": "Airlangga Pacu Investasi AS, Target Tumbuh [8]% di 2027",
   "deck": "Dalam forum investasi AS-Indonesia, Menko Airlangga memaparkan data dagang dan investasi dua negara serta target pertumbuhan ekonomi 8 persen pada 2027 lewat sektor teknologi tinggi.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "Investasi AS",
    "Pertumbuhan Ekonomi",
@@ -655,7 +688,7 @@ var ARTICLES = [
   "title": "Surplus Dagang Agustus Melonjak, [Impor] Modal Anjlok 16%",
   "deck": "Neraca dagang Indonesia Agustus 2026 surplus USD3,55 miliar, melonjak dari USD0,12 miliar di Juli, didorong surplus nonmigas, sementara impor barang modal dan bahan baku justru turun tajam.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -2279,7 +2312,7 @@ var ARTICLES = [
   "title": "Investasi Harus Tumbuh [8-9%] Kejar Target Ekonomi 2027",
   "deck": "Kemenko Perekonomian menyebut investasi perlu tumbuh 8-9 persen demi target pertumbuhan ekonomi 6 persen pada 2027, didukung transisi energi hijau dan digitalisasi.",
   "date": "4 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "investasi",
    "transisi energi",
@@ -2295,7 +2328,7 @@ var ARTICLES = [
   "title": "PMI Manufaktur RI [Balik] ke Ekspansi, Inflasi Terjaga 3,28%",
   "deck": "Inflasi September terjaga di 3,28 persen, neraca dagang Januari-Agustus surplus US$7,25 miliar, dan PMI manufaktur naik ke 52,4 setelah sempat kontraksi Agustus.",
   "date": "4 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "Inflasi",
    "Neraca Dagang",
@@ -4170,7 +4203,7 @@ var ARTICLES = [
   "title": "Manufaktur RI Kembali [Ekspansi], Surplus Dagang Melonjak",
   "deck": "Inflasi September terkendali di 3,28 persen, neraca dagang Agustus surplus US$3,55 miliar, dan PMI manufaktur kembali ke zona ekspansi di 52,4, naik dari 49,8 bulan sebelumnya.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "Inflasi",
    "PMI Manufaktur",
@@ -4793,7 +4826,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Jadi [0,30%]",
   "deck": "Harga barang dan jasa pada September 2026 naik 0,30% dibanding bulan sebelumnya, tertinggi sejak Juni yang mencatat 0,44%.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -5052,7 +5085,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Capai [3,28] Persen, Inti Lebih Rendah",
   "deck": "BPS mencatat inflasi tahunan 3,28 persen pada September 2026, dengan inflasi bulanan 0,30 persen dan inflasi inti 2,84 persen.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "Inflasi",
    "BPS",
@@ -5068,7 +5101,7 @@ var ARTICLES = [
   "title": "Harga Perdagangan Besar [Naik] 6,76 Persen di September",
   "deck": "BPS mencatat Indeks Harga Perdagangan Besar nasional naik 6,76 persen secara tahunan pada September 2026, dengan bahan bangunan jadi kelompok paling tertekan.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "IHPB",
    "harga grosir",
@@ -6442,37 +6475,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470226-83960-posbankum-terbentuk-di-indonesia-14-ribu-kasus-selesai-tanpa-pengadilan"
- },
- {
-  "slug": "nice-akui-denda-rp185-93-miliar-arus-kas-operasi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "NICE Akui Denda Rp185,93 Miliar, [Arus Kas] Operasi Negatif",
-  "deck": "PT Adhi Kartiko Pratama Tbk menjawab pertanyaan BEI soal denda kawasan hutan, piutang ke pemegang saham, dan pendanaan proyek Rp468 miliar di tengah arus kas operasi yang negatif.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICE",
-   "denda administratif",
-   "arus kas",
-   "pertambangan nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4710b19b79_cd017104cb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-panggil-rupslb-21-oktober-agendakan-ubah-lini-bisnis",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Panggil RUPSLB 21 Oktober, Agendakan [Ubah] Lini Bisnis",
-  "deck": "PT Solusi Sinergi Digital Tbk resmi memanggil pemegang saham untuk RUPSLB 21 Oktober 2026, dengan agenda perubahan kegiatan usaha, kewenangan direksi, dan susunan direksi-komisaris.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "RUPSLB",
-   "Solusi Sinergi Digital",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9cb10a6167_aea69d8c3d.pdf",
-  "sourceLabel": "IDX"
  }
 ];

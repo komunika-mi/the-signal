@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "3GLyflssEDk",
+  "title": "DPR Umumkan Pengesahan RUU Pelindungan Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "AKIM",
+  "summary": "DPR RI menemui massa buruh dan mengumumkan pengesahan RUU Pelindungan Ketenagakerjaan, aturan yang berkaitan langsung dengan nasib para pekerja.",
+  "takeaway": "Pengesahan RUU ini layak disimak pembaca ekonomi karena berpotensi mengubah aturan hubungan industrial dan beban ketenagakerjaan bagi dunia usaha."
+ },
+ {
   "id": "nHD8zfoUQZg",
   "title": "DPR Resmi Sahkan UU Perlindungan Ketenagakerjaan",
   "category": "Ketenagakerjaan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Musyawarah Provinsi Kadin Gorontalo mempertemukan dua kandidat yang bersaing memperebutkan kursi ketua, masing-masing membawa visi pengembangan dunia usaha daerah.",
   "takeaway": "Pergantian kepemimpinan Kadin daerah berpengaruh pada arah kebijakan dan advokasi bagi pelaku usaha di Gorontalo."
- },
- {
-  "id": "rbUdJ91cMbk",
-  "title": "Menteri Perdagangan Pantau Harga Sembako di Sleman",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Perdagangan Budi Santoso meninjau harga bahan pokok di Sleman sebagai bagian dari upaya pemerintah menjaga stabilitas harga dan daya beli masyarakat.",
-  "takeaway": "Pemantauan harga sembako oleh pemerintah menjadi indikator penting kondisi inflasi dan daya beli masyarakat."
  }
 ];

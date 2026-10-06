@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ptpp-raih-kontrak-baru-rp9-3-triliun-hingga-agustus-2026",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Raih [Kontrak] Baru Rp9,3 Triliun hingga Agustus 2026",
+  "deck": "PTPP membukukan kontrak baru Rp9,3 triliun hingga Agustus 2026, didominasi proyek pemerintah, sementara sahamnya masih disuspensi akibat gagal bayar bunga obligasi.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "kontrak baru",
+   "konstruksi",
+   "BUMN Karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cbc3fe076e_d4193006f6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pidl-tawarkan-obligasi-rp2-5-triliun-dan-sukuk-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Tawarkan [Obligasi] Rp2,5 Triliun dan Sukuk Rp1 Triliun",
+  "deck": "PIDL menawarkan obligasi hingga Rp2,5 triliun dan sukuk mudharabah hingga Rp1 triliun tahap II, dengan porsi terjamin penuh Rp1,93 triliun dan bunga tetap 10-10,5 persen per tahun.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIDL",
+   "obligasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0c48a53e17_5de3446c85.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "edge-tambah-fasilitas-kredit-rp1-7-triliun-dari-bca",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Tambah [Fasilitas Kredit] Rp1,7 Triliun dari BCA",
+  "deck": "Indointernet dan anak usahanya, Ekagrata Data Gemilang, menambah fasilitas kredit Rp1,7 triliun dari BCA, setara 93,7 persen ekuitas, untuk ekspansi pusat data dan kabel fiber optik.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "Indointernet",
+   "kredit perbankan",
+   "pusat data"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa4af635b3_7da44c9e62.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "epac-pastikan-rights-issue-2-miliar-saham-dilusi-37-71",
   "category": "Aksi Korporasi",
   "title": "EPAC Pastikan Rights Issue 2 Miliar Saham, Dilusi [37,71%]",
@@ -6420,54 +6468,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7119/indonesia-dan-tiongkok-sepakat-percepat-persiapan-cepa-perkuat-kerja-sama-ekonomi-hijau-dan-peningkatan-kapasitas-asn",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "dpns-disuspensi-bei-laporan-keuangan-telat-dan-denda-nunggak",
-  "category": "Aksi Korporasi",
-  "title": "DPNS [Disuspensi] BEI, Laporan Keuangan Telat dan Denda Nunggak",
-  "deck": "Bursa menghentikan sementara perdagangan saham DPNS di seluruh pasar karena belum menyerahkan laporan keuangan teraudit kuartal I 2026 dan belum membayar denda Rp150 juta.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DPNS",
-   "suspensi saham",
-   "BEI",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9be3e9063a_6d42a43759.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amms-rugi-rp1-5-miliar-di-semester-i-2026-laba-kotor-anjlok",
-  "category": "Aksi Korporasi",
-  "title": "AMMS Rugi [Rp1,5 Miliar] di Semester I 2026, Laba Kotor Anjlok",
-  "deck": "Emiten perikanan AMMS membukukan rugi bersih Rp1,5 miliar pada semester I 2026, berbalik dari laba tahun lalu, seiring pendapatan turun 28 persen dan laba kotor nyaris habis.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMMS",
-   "laporan keuangan",
-   "rugi bersih",
-   "emiten perikanan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929210436-64382-0/FinancialStatement-2026-II-AMMS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "proyek-lrt-city-mangkrak-dibangun-lagi-1-oktober",
-  "category": "BUMN",
-  "title": "Proyek LRT City Mangkrak [Dibangun] Lagi 1 Oktober",
-  "deck": "Danantara pastikan pembangunan LRT City yang sempat mangkrak dilanjutkan mulai 1 Oktober 2026, dengan skema unit atau pengembalian dana bagi konsumen.",
-  "date": "29 September 2026",
-  "image": "assets/img/proyek-lrt-city-mangkrak-dibangun-lagi-1-oktober.jpg",
-  "imageV": "mumra09g",
-  "tags": [
-   "LRT City",
-   "Danantara",
-   "Adhi Karya",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470244-proyek-lrt-city-mangkrak-mulai-dibangun-lagi-1-oktober-begini-nasib-konsumen"
  }
 ];

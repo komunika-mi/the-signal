@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ptpp-raih-kontrak-baru-rp9-3-triliun-hingga-agustus-2026",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Raih [Kontrak] Baru Rp9,3 Triliun hingga Agustus 2026",
+  "deck": "PTPP membukukan kontrak baru Rp9,3 triliun hingga Agustus 2026, didominasi proyek pemerintah, sementara sahamnya masih disuspensi akibat gagal bayar bunga obligasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T22:10:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cbc3fe076e_d4193006f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "kontrak baru",
+   "konstruksi",
+   "BUMN Karya"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk (PTPP) melaporkan perolehan kontrak baru senilai Rp9,3 triliun hingga Agustus 2026. Berdasarkan sumber pendanaannya, proyek pemerintah menyumbang 66 persen, disusul proyek swasta 18 persen dan proyek BUMN 16 persen. Perusahaan menyebut capaian ini sebagai bagian dari strategi Back to Core yang memprioritaskan proyek berkualitas dengan profil risiko yang terukur.",
+   "Dari sisi lini bisnis, kontribusi terbesar datang dari sektor jalan dan jembatan sebesar 38 persen, diikuti gedung 18 persen, smelter dan pertambangan 16 persen, rumah sakit dan bandara masing-masing 8 persen, infrastruktur air 6 persen, sekolah 3 persen, pelabuhan 2 persen, serta sumber daya air 1 persen. Tiga proyek baru yang disebutkan diperoleh pada Agustus 2026 adalah pembangunan jalan hauling batu bara tahap III senilai Rp970 miliar, lanjutan Terminal 1 Bandara Soekarno-Hatta senilai Rp756,4 miliar, dan paket halte BRT Metropolitan Mebidang Medan senilai Rp538,5 miliar.",
+   "Sekretaris Perusahaan PTPP, Joko Raharjo, menyatakan bahwa perolehan kontrak ini mencerminkan penerapan prinsip selektivitas dan kehati-hatian dalam memilih proyek baru, dengan mempertimbangkan kualitas kontrak, profil risiko, dan potensi kontribusinya terhadap kinerja perseroan."
+  ],
+  "fotoAdegan": "Construction workers in hard hats working on a concrete highway bridge pillar at an elevated road project, overcast afternoon light",
+  "takeaway": "Capaian kontrak baru Rp9,3 triliun ini sebenarnya sinyal baik untuk prospek pendapatan PTPP ke depan, tapi dampaknya terhadap penilaian investor saat ini condong netral, karena perusahaan masih berstatus suspensi di bursa akibat gagal bayar bunga obligasi, sehingga angka kontrak baru belum menjawab masalah kas yang sedang mendesak. Yang tersentuh di sini adalah order book, yaitu nilai pekerjaan yang sudah diikat kontrak tapi belum selesai dikerjakan, bukan kas atau laba yang sudah di tangan, sebab proyek konstruksi baru menghasilkan uang secara bertahap seiring progres pekerjaan dan pencairan termin pembayaran, yang bisa memakan waktu tahunan. Pelaku pasar biasanya mencermati rincian sumber dana seperti ini untuk menilai seberapa besar PTPP bergantung pada proyek pemerintah, yang pembayarannya cenderung lebih pasti tapi juga lebih lambat dibanding proyek swasta. Yang perlu dipantau berikutnya adalah penyelesaian gagal bayar bunga obligasi yang membuat saham PTPP disuspensi, karena itulah yang akan menentukan kelangsungan usaha jangka pendek perseroan, bukan capaian kontrak baru yang diumumkan hari ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pidl-tawarkan-obligasi-rp2-5-triliun-dan-sukuk-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Tawarkan [Obligasi] Rp2,5 Triliun dan Sukuk Rp1 Triliun",
+  "deck": "PIDL menawarkan obligasi hingga Rp2,5 triliun dan sukuk mudharabah hingga Rp1 triliun tahap II, dengan porsi terjamin penuh Rp1,93 triliun dan bunga tetap 10-10,5 persen per tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T21:33:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0c48a53e17_5de3446c85.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIDL",
+  "tags": [
+   "PIDL",
+   "obligasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Pindo Deli Pulp And Paper Mills (PIDL) menawarkan Obligasi Berkelanjutan II Tahap II Tahun 2026 senilai sebanyak-banyaknya Rp2,5 triliun dan Sukuk Mudharabah Berkelanjutan II Tahap II Tahun 2026 senilai sebanyak-banyaknya Rp1 triliun. Penawaran ini merupakan tahap kedua dari program penawaran umum berkelanjutan yang sudah efektif sejak 30 Juni 2026, setelah tahap pertama menerbitkan obligasi senilai Rp455,97 miliar dan sukuk senilai Rp487,46 miliar awal Oktober lalu.",
+   "Dari target Rp2,5 triliun obligasi, sebesar Rp1,02 triliun dijamin dengan kesanggupan penuh (full commitment), terbagi dalam Seri A sebesar Rp918,47 miliar berbunga tetap 10 persen per tahun selama 3 tahun, dan Seri B sebesar Rp97,99 miliar berbunga 10,5 persen per tahun selama 5 tahun. Sisanya, Rp1,48 triliun, hanya dijamin kesanggupan terbaik (best effort), artinya jika porsi ini tidak laku terjual, perseroan tidak wajib menerbitkannya. Pola serupa berlaku untuk sukuk mudharabah: dari target Rp1 triliun, Rp915,22 miliar dijamin penuh dengan skema bagi hasil setara 10 persen per tahun untuk Seri A senilai Rp818,99 miliar dan setara 10,5 persen per tahun untuk Seri B senilai Rp96,23 miliar, sementara sisa Rp84,78 miliar mengandalkan kesanggupan terbaik.",
+   "Masa penawaran berlangsung 19 sampai 22 Oktober 2026, dengan penjatahan pada 23 Oktober, distribusi elektronik pada 27 Oktober, dan pencatatan di Bursa Efek Indonesia pada 28 Oktober 2026. Pembayaran bunga dan bagi hasil pertama dijadwalkan 27 Januari 2027, sementara jatuh tempo masing-masing pada 27 Oktober 2029 untuk Seri A dan 27 Oktober 2031 untuk Seri B. Pefindo memberi peringkat idA+ untuk obligasi dan idA+(sy) untuk sukuk, sementara PT Kredit Rating Indonesia memberi peringkat irAA- dan irAA-(sy). Obligasi dan sukuk ini tidak dijamin dengan aset khusus, hanya mengandalkan jaminan umum atas seluruh kekayaan perseroan secara pari passu, dan PIDL tidak menyisihkan dana cadangan (sinking fund) untuk pelunasannya. PT Bank KB Indonesia Tbk bertindak sebagai wali amanat, dengan sepuluh perusahaan sekuritas sebagai penjamin emisi efek."
+  ],
+  "fotoAdegan": "Workers inspecting large rolls of paper on a conveyor line inside an industrial pulp and paper mill, daylight through high windows",
+  "takeaway": "Laporan ini netral bagi PIDL karena penerbitan tahap II ini sudah direncanakan sejak program penawaran berkelanjutan efektif pada Juni 2026, bukan keputusan mendadak, dan porsi yang dijamin penuh tetap mendapat peringkat layak investasi dari dua lembaga pemeringkat. Yang tersentuh adalah beban bunga, yaitu biaya yang wajib dibayar perusahaan setiap tiga bulan kepada pemegang obligasi dan sukuk, serta arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena dana baru hingga Rp3,5 triliun ini menambah utang yang harus dilunasi bertahap sampai 2031 untuk seri berjangka paling panjang. Yang perlu dipantau adalah hasil masa penawaran pada 19-22 Oktober 2026, terutama apakah porsi kesanggupan terbaik senilai Rp1,48 triliun untuk obligasi dan Rp84,78 miliar untuk sukuk benar-benar terjual, sebab sisa yang tidak laku tidak wajib diterbitkan dan akan membuat dana segar yang terkumpul lebih kecil dari target awal Rp3,5 triliun.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "edge-tambah-fasilitas-kredit-rp1-7-triliun-dari-bca",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Tambah [Fasilitas Kredit] Rp1,7 Triliun dari BCA",
+  "deck": "Indointernet dan anak usahanya, Ekagrata Data Gemilang, menambah fasilitas kredit Rp1,7 triliun dari BCA, setara 93,7 persen ekuitas, untuk ekspansi pusat data dan kabel fiber optik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T21:33:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa4af635b3_7da44c9e62.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "Indointernet",
+   "kredit perbankan",
+   "pusat data"
+  ],
+  "body": [
+   "PT Indointernet Tbk (EDGE) dan anak usahanya, PT Ekagrata Data Gemilang (EDG), mendapat tambahan fasilitas kredit dari PT Bank Central Asia Tbk sebesar maksimal Rp1,7 triliun pada 2 Oktober 2026. Fasilitas yang disebut KI-5 ini merupakan tambahan dari fasilitas kredit yang sudah ada sebelumnya. Nilainya setara 93,7 persen dari total ekuitas Perseroan per 30 Juni 2026 yang tercatat Rp1.812.956.757.187, sehingga menurut aturan OJK transaksi ini tergolong transaksi material.",
+   "Jangka waktu pinjaman ini 9 tahun dengan bunga mengambang, artinya besarannya ikut naik turun sesuai suku bunga pasar. Fasilitas ini dijamin dengan aset Perseroan dan EDG, dengan nilai jaminan lebih dari 50 persen kekayaan bersih masing-masing perusahaan, termasuk jaminan tambahan berupa salah satu tanah dan bangunan serta mesin dan peralatan milik EDG. Karena Perseroan dan EDG saling memberi jaminan silang untuk kewajiban masing-masing, transaksi ini sekaligus tergolong transaksi afiliasi sebab EDG adalah perusahaan yang dikendalikan oleh Indointernet. Perseroan menyatakan transaksi ini tidak mengandung benturan kepentingan.",
+   "Dana ini akan dipakai untuk kebutuhan umum usaha, termasuk belanja modal, ekspansi jaringan kabel fiber optik, dan pendanaan proyek pusat data guna memenuhi permintaan pelanggan yang terus meningkat. Karena berupa pinjaman langsung dari bank, transaksi ini dikecualikan dari kewajiban memakai jasa penilai independen dan tidak memerlukan persetujuan Rapat Umum Pemegang Saham sesuai Pasal 11 POJK 17/2020, meski Perseroan tetap wajib mengumumkannya ke publik dan melaporkannya ke OJK."
+  ],
+  "fotoAdegan": "Technicians installing fiber optic cables inside a data center server hall, racks of blinking servers under cool blue lighting",
+  "takeaway": "Laporan ini netral bagi fundamental Indointernet, karena tambahan utang yang nilainya hampir menyamai seluruh ekuitas memang menambah beban dan risiko keuangan, tetapi dananya dipakai untuk ekspansi bisnis pusat data yang memang sedang tumbuh, bukan untuk menambal masalah keuangan. Pos yang tersentuh adalah utang perusahaan dan beban bunga, karena bunga mengambang berarti kewajiban bayar bisa membesar kalau suku bunga pasar naik, sementara jaminan yang dipasang mencakup lebih dari separuh kekayaan bersih Indointernet dan EDG sehingga ruang mereka mencari pinjaman baru dengan aset yang sama jadi makin sempit. Transaksi ini dikecualikan dari persetujuan RUPS sehingga tidak ada tanggal rapat pemegang saham yang perlu ditunggu. Yang perlu dicermati selanjutnya adalah realisasi penggunaan dana Rp1,7 triliun ini untuk proyek pusat data, serta laporan keuangan periode mendatang untuk melihat apakah beban bunga dan arus kas benar-benar berubah seperti yang disebutkan dalam dokumen ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "epac-pastikan-rights-issue-2-miliar-saham-dilusi-37-71",
   "category": "Aksi Korporasi",
   "title": "EPAC Pastikan Rights Issue 2 Miliar Saham, Dilusi [37,71%]",

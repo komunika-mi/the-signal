@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-06T04:38:33.536+07:00",
+ "diperbarui": "2026-10-07T02:42:51.411+07:00",
  "entri": [
+  {
+   "id": "2026-10-06-3",
+   "edisi": "2026-10-06",
+   "benang": "Surplus Dagang Naik, tapi dari Impor yang Mengerut",
+   "klaim": "Lebih mungkin pelaku usaha menahan belanja modal sambil menunggu kejelasan aturan insentif pajak pengganti tax holiday, ketimbang penurunan impor barang modal ini hanya koreksi sesaat.",
+   "penanda": "Data impor barang modal September dari BPS, apakah kembali naik tanpa menunggu kepastian aturan insentif pajak baru",
+   "tenggat": "2026-11-10",
+   "tenggatLabel": "dirilis BPS awal November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-06-2",
+   "edisi": "2026-10-06",
+   "benang": "Laba dan Penjualan Naik, Kas Justru Menipis",
+   "klaim": "Tekanan kas di balik kenaikan laba DEWA dan penjualan GULA lebih mungkin menjadi awal masalah yang lebih dalam seperti pada PTPP dan WIKA, bukan sekadar fase investasi wajar.",
+   "penanda": "Apakah arus kas operasi membalik positif pada laporan keuangan kuartal III 2026",
+   "tenggat": "2026-11-10",
+   "tenggatLabel": "saat laporan keuangan kuartal III 2026 terbit akhir Oktober atau awal November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-06-1",
+   "edisi": "2026-10-06",
+   "benang": "Gagal Bayar Meluas dari PTPP ke WIKA dan Pos Indonesia",
+   "klaim": "Arah gagal bayar ini sudah jelas memburuk dan menyebar dari PTPP ke WIKA dan Pos Indonesia, bukan lagi kasus satu perusahaan.",
+   "penanda": "Hasil RUPSU dan RUPO WIKA, yaitu apakah pemegang sukuk dan obligasi menyetujui restrukturisasi atau menolak",
+   "tenggat": "2026-10-21",
+   "tenggatLabel": "RUPSU dan RUPO WIKA pada 19 sampai 21 Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-05-3",
    "edisi": "2026-10-05",
@@ -650,8 +683,13 @@ var RAPOR = {
    "penanda": "Hasil rapat pemegang obligasi dan sukuk Pos Indonesia pada 21 September",
    "tenggat": "2026-09-21",
    "tenggatLabel": "begitu hasil rapat pemegang obligasi dan sukuk Pos Indonesia pada 21 September keluar",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "post-akui-gagal-bayar-bunga-obligasi-likuiditas-tekan-rp83-m",
+    "judul": "POST Akui Gagal Bayar Bunga Obligasi, Likuiditas Tekan Rp83 M",
+    "tanggal": "6 Oktober 2026",
+    "alasan": "Artikel arsip menunjukkan Pos Indonesia, korporasi besar, justru gagal bayar bunga obligasi dan likuiditasnya tertekan Rp83 M, berlawanan dengan klaim bahwa korporasi besar makin unggul arus kasnya dibanding korporasi kecil-menengah."
+   }
   },
   {
    "id": "2026-09-07-3",

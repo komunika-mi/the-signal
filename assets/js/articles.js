@@ -3,6 +3,135 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ikai-direksi-beli-5-juta-saham-hak-suara-ke-0-04",
+  "category": "Aksi Korporasi",
+  "title": "IKAI: Direksi [Beli] 5 Juta Saham, Hak Suara ke 0,04%",
+  "deck": "Direksi IKAI Desra Firza Ghazfan membeli 5 juta saham seharga Rp20 per lembar pada 1 Oktober 2026, hak suaranya naik dari 0 menjadi 0,04 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T11:12:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06102026-0602-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IKAI",
+  "tags": [
+   "IKAI",
+   "kepemilikan saham",
+   "direksi",
+   "intikeramik"
+  ],
+  "body": [
+   "Direksi PT Intikeramik Alamasri Industri Tbk (IKAI), Desra Firza Ghazfan, melaporkan ke Otoritas Jasa Keuangan bahwa dirinya membeli 5.000.000 saham IKAI pada 1 Oktober 2026. Transaksi dilakukan dengan harga Rp20 per saham, sehingga total nilainya sekitar Rp100 juta. Dalam laporan bertanggal 6 Oktober 2026 itu, tujuan transaksi dicatat sebagai investasi, dan status kepemilikan sahamnya tercatat tidak langsung.",
+   "Sebelum transaksi ini, Desra belum memiliki satu pun saham IKAI, alias hak suaranya 0 persen. Setelah pembelian, ia kini memegang 5.000.000 lembar saham IKAI, setara 0,04 persen dari total hak suara perusahaan. Laporan ini disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap anggota direksi dan komisaris melaporkan perubahan kepemilikan saham di perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Workers inspecting rows of ceramic floor tiles moving along a factory production line, industrial lighting",
+  "takeaway": "Laporan ini netral bagi IKAI, karena pembelian 5 juta saham oleh Desra Firza Ghazfan hanya menggeser hak suaranya dari 0 menjadi 0,04 persen, porsi yang terlalu kecil untuk dibaca sebagai sinyal keyakinan manajemen terhadap prospek perusahaan. Yang tersentuh di sini adalah sebaran pemegang saham, bukan kinerja keuangan IKAI, sebab transaksi ini cuma memindahkan saham yang sudah beredar di pasar ke tangan seorang direksi, tanpa menambah jumlah saham baru atau mengubah kas perusahaan. Hak suara yang dimaksud adalah persentase kekuatan memilih dalam rapat pemegang saham, dan 0,04 persen jauh di bawah ambang yang biasanya memengaruhi keputusan perusahaan. Yang perlu dipantau selanjutnya adalah apakah pembelian ini diikuti laporan serupa dari direksi atau komisaris IKAI lain dalam waktu dekat, karena pola pembelian beruntun oleh jajaran manajemen biasanya lebih berarti ketimbang satu transaksi kecil seperti ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ppri-direksi-divestasi-lagi-15-juta-saham-hak-suara-ke-12-6",
+  "category": "Aksi Korporasi",
+  "title": "PPRI: Direksi [Divestasi] Lagi 15 Juta Saham, Hak Suara ke 12,6%",
+  "deck": "Direksi PPRI, Irsyad Hanif, melepas 15 juta saham seharga Rp185 per lembar pada 5 Oktober 2026, penjualan kedua dalam dua hari yang menekan hak suaranya ke 12,61 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T11:07:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06102026-2548-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRI",
+  "tags": [
+   "PPRI",
+   "kepemilikan saham",
+   "direksi",
+   "divestasi"
+  ],
+  "body": [
+   "Irsyad Hanif, anggota Direksi PT Paperocks Indonesia Tbk (PPRI), melaporkan ke Otoritas Jasa Keuangan bahwa ia menjual 15.000.000 lembar saham PPRI secara tidak langsung pada 5 Oktober 2026 dengan harga Rp185 per saham. Dalam laporan yang disampaikan sesuai POJK 4/2024 tentang kewajiban lapor kepemilikan saham itu, tujuan transaksi disebut sebagai divestasi. Sebelum transaksi, Irsyad memegang 150.588.300 saham PPRI atau setara 14,01 persen hak suara. Setelah transaksi, kepemilikannya tersisa 135.588.300 saham dengan hak suara 12,61 persen.",
+   "Penjualan ini merupakan transaksi kedua oleh Irsyad dalam waktu dua hari. Sehari sebelumnya, ia juga melaporkan penjualan 3 juta saham PPRI seharga Rp148 per lembar, yang saat itu menurunkan hak suaranya dari 14,29 persen menjadi 14,01 persen. Dengan tambahan penjualan 15 juta saham kali ini, total saham yang dilepas Irsyad dalam dua hari terakhir mencapai 18 juta lembar, membawa hak suaranya turun dari 14,29 persen menjadi 12,61 persen.",
+   "Jumlah 15 juta saham yang dijual pada transaksi kali ini setara dengan 9,96 persen dari total kepemilikan Irsyad sebelum transaksi tersebut, bukan porsi kecil dari sahamnya sendiri. Laporan tidak menyebutkan pihak pembeli maupun rencana lanjutan atas sisa kepemilikannya di PPRI."
+  ],
+  "fotoAdegan": "Workers stacking large rolls of brown packaging paper inside a busy paper mill warehouse, forklift nearby, industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi persepsi pasar terhadap PPRI, karena merupakan pelepasan saham kedua oleh direksi yang sama dalam waktu dua hari, dengan porsi hampir 10 persen dari kepemilikannya sendiri pada transaksi kali ini. Transaksi semacam ini tidak mengubah ekuitas atau kas perusahaan karena sahamnya hanya berpindah tangan di pasar sekunder, bukan penerbitan saham baru, tetapi menyentuh hak suara, yaitu porsi suara seseorang dalam menentukan keputusan di rapat pemegang saham. Turunnya hak suara direksi sendiri dari kisaran 14 persen ke 12,6 persen dalam waktu singkat biasa dibaca pelaku pasar sebagai sinyal soal keyakinan orang dalam terhadap perusahaannya sendiri, meski bisa juga semata alasan pribadi seperti kebutuhan dana. Dengan total 18 juta saham sudah dilepas dalam dua hari ini, yang perlu dipantau adalah apakah Irsyad Hanif kembali menyampaikan laporan serupa dalam waktu dekat atau pelepasan ini berhenti di level kepemilikan 12,61 persen saat ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inps-rampungkan-akuisisi-90-saham-tri-satria-indah-motor",
+  "category": "Aksi Korporasi",
+  "title": "INPS Rampungkan Akuisisi [90%] Saham Tri Satria Indah Motor",
+  "deck": "Perseroan resmi membeli 90% saham PT Tri Satria Indah Motor senilai Rp5,8 miliar lewat akta jual beli 5 Oktober 2026, menjadikannya anak usaha baru di bisnis motor roda tiga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T10:57:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93bd095436_42eabbcbd9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "akuisisi",
+   "Tri Satria Indah Motor",
+   "otomotif"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) menandatangani Akta Jual Beli Saham No. 6 pada 5 Oktober 2026 di hadapan notaris Emmyra Fauzia Kariana di Jakarta. Lewat akta ini, INPS membeli 180 saham, atau 90 persen dari seluruh saham PT Tri Satria Indah Motor (TSIM), dari Tuan Jemmy Widjaja yang disebut sebagai pihak ketiga tanpa hubungan afiliasi dengan perseroan. Nilai transaksinya Rp5,8 miliar, dibayar lunas dalam dua tahap: Rp2,92 miliar sesuai perjanjian jual beli bersyarat tanggal 30 September 2026, dan sisanya Rp2,88 miliar saat penandatanganan akta. TSIM sendiri berkedudukan di Sidoarjo, Jawa Timur, dan berusaha sebagai main dealer kendaraan bermotor roda tiga merek APPKTM.",
+   "Setelah transaksi ini, susunan pemegang saham TSIM berubah menjadi: INPS memegang 180 saham (90 persen), Jemmy Widjaja 18 saham (9 persen), dan Liem Kiet Hiw 2 saham (1 persen). Dana pembelian berasal dari fasilitas pinjaman pihak ketiga yang sebelumnya sudah dilaporkan INPS ke OJK pada 1 Oktober 2026. Perseroan menegaskan nilai transaksi ini masih di bawah ambang batas transaksi material menurut aturan OJK, dan bukan tergolong transaksi afiliasi atau benturan kepentingan karena penjual tidak memiliki hubungan dengan INPS.",
+   "Dari sisi legal, penjualan saham sudah disetujui seluruh pemegang saham TSIM lewat keputusan sirkuler tanggal 5 Oktober 2026, dan rencana pengambilalihan ini sebelumnya sudah diumumkan di harian Harian Terbit pada 4 September 2026 sesuai Pasal 127 UU Perseroan Terbatas. Satu proses yang belum tuntas: pemberitahuan perubahan data perseroan TSIM ke Menteri Hukum masih diproses notaris. Dengan selesainya transaksi, laporan keuangan TSIM akan dikonsolidasikan ke laporan keuangan INPS ke depan."
+  ],
+  "fotoAdegan": "Three-wheeled cargo motorcycles lined up in an open-air dealership yard, a mechanic inspecting one, overcast morning light in East Java.",
+  "takeaway": "Laporan ini netral bagi fundamental INPS, karena nilai akuisisinya, Rp5,8 miliar, relatif kecil dan sudah dibayar lunas dari pinjaman pihak ketiga yang sebelumnya juga dinilai tidak membebani keuangan perseroan secara serius. Dua pos yang tersentuh adalah beban bunga, yaitu biaya yang harus dibayar perseroan karena dana akuisisi ini berasal dari utang, dan laporan keuangan konsolidasi, yakni aset serta hasil usaha TSIM yang mulai ikut tercatat dalam buku INPS sehingga ukuran usaha perseroan bertambah tapi begitu juga kewajibannya. Yang perlu dipantau berikutnya adalah penyelesaian pemberitahuan perubahan data TSIM ke Menteri Hukum yang masih diproses notaris, serta laporan keuangan konsolidasi pertama INPS yang akan menunjukkan seberapa besar kontribusi bisnis dealer motor roda tiga ini terhadap kinerja perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pool-jual-30-saham-anak-usaha-paf-ke-cicil-technologies",
+  "category": "Aksi Korporasi",
+  "title": "POOL [Jual] 30% Saham Anak Usaha PAF ke Cicil Technologies",
+  "deck": "POOL menjual 30 persen saham PT Pool Advista Finance Tbk ke Cicil Technologies asal Singapura, kepemilikannya di PAF turun jadi 46,34 persen tapi tetap pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T10:22:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/132e56bc23_d36326de4a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POOL",
+  "tags": [
+   "POOL",
+   "PAF",
+   "Cicil Technologies",
+   "divestasi anak usaha"
+  ],
+  "body": [
+   "PT Pool Advista Indonesia Tbk (POOL) menandatangani Perjanjian Penjualan dan Pembelian Saham Bersyarat (CSPA) dengan Cicil Technologies Pte. Ltd., perusahaan teknologi finansial asal Singapura, pada 2 Oktober 2026. Lewat perjanjian ini, POOL melepas 1.005.322.680 lembar saham PT Pool Advista Finance Tbk (PAF), anak usahanya di bidang pembiayaan, yang setara 30 persen dari seluruh modal ditempatkan dan disetor penuh PAF. Setelah transaksi ini rampung, kepemilikan POOL di PAF berkurang dari 76,34 persen menjadi 46,34 persen, sementara Cicil akan menggenggam 30 persen saham PAF.",
+   "Nilai transaksi belum ditetapkan karena masih menunggu laporan penilaian dari Kantor Jasa Penilai Publik (KJPP) independen yang terdaftar di OJK. Penyelesaian transaksi juga bergantung pada sejumlah syarat lain, yaitu terbitnya laporan KJPP tersebut, pemenuhan ketentuan OJK dan Bursa Efek Indonesia, serta penandatanganan dokumen pembayaran. Perseroan menyatakan Cicil bukan pihak terafiliasi dan transaksi ini tidak mengandung benturan kepentingan, sehingga tidak tergolong transaksi afiliasi berdasarkan POJK No. 42/2020. Karena POOL tetap menjadi pemegang saham terbesar dan pengendali PAF setelah transaksi, aksi ini juga tidak memicu kewajiban penawaran tender wajib sesuai POJK No. 9/2018.",
+   "Perseroan menegaskan penandatanganan CSPA ini belum berdampak pada operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya, dan hak atas saham PAF tetap berada di tangan POOL sampai transaksi selesai. Jika transaksi selesai, dana hasil penjualan akan memperkuat likuiditas POOL, sementara PAF tetap tercatat sebagai entitas anak yang dikonsolidasikan dalam laporan keuangan POOL. Kategori transaksi berdasarkan ketentuan transaksi material akan ditentukan setelah laporan KJPP terbit, dan perseroan berjanji menyampaikan keterbukaan informasi lanjutan sebelum transaksi diselesaikan."
+  ],
+  "fotoAdegan": "Customer using a smartphone to complete a digital payment at a small retail counter in Jakarta, afternoon light",
+  "takeaway": "Transaksi ini kami nilai netral untuk fundamental POOL, sebab besar dampaknya terhadap keuangan perseroan belum bisa dipastikan sampai nilai transaksinya ditetapkan oleh penilai independen, sementara POOL sendiri tetap jadi pemegang saham mayoritas dan pengendali anak usahanya. Yang tersentuh adalah pos ekuitas dan arus kas: porsi kepemilikan POOL di PAF turun dari 76,34 persen menjadi 46,34 persen, tapi begitu transaksi selesai, dana hasil penjualan saham itu masuk sebagai kas segar yang memperkuat likuiditas perseroan, tanpa mengubah status PAF yang tetap dikonsolidasikan sebagai anak usaha. Yang perlu dipantau berikutnya adalah terbitnya laporan penilai independen (KJPP), karena laporan itu menentukan nilai jual sahamnya sekaligus kategori transaksinya menurut aturan transaksi material OJK, dan baru setelah itu publik bisa menilai apakah harganya menguntungkan POOL, selain keterbukaan informasi lanjutan yang dijanjikan perseroan sebelum transaksi resmi diselesaikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lucy-hp-capital-jual-27-67-juta-saham-suara-turun-ke-10-99",
+  "category": "Aksi Korporasi",
+  "title": "LUCY: HP Capital [Jual] 27,67 Juta Saham, Suara Turun ke 10,99%",
+  "deck": "Pemegang saham HP Capital Resources melepas 27,67 juta saham LUCY senilai sekitar Rp7,12 miliar dalam tiga transaksi awal Oktober, hak suaranya turun dari 12,83% menjadi 10,99%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T10:04:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06102026-9727-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LUCY",
+  "tags": [
+   "LUCY",
+   "kepemilikan saham",
+   "pemegang saham",
+   "HP Capital Resources"
+  ],
+  "body": [
+   "HP Capital Resources, pemegang saham PT Lima Dua Lima Tiga Tbk (LUCY), melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya telah melepas sahamnya secara tidak langsung dalam tiga transaksi pada 1, 2, dan 5 Oktober 2026. Jumlah saham yang dipegangnya turun dari 194.275.700 lembar menjadi 166.604.500 lembar, berkurang 27.671.200 lembar atau sekitar 14,24% dari kepemilikan sebelumnya. Akibatnya, hak suara HP Capital Resources di LUCY turun dari 12,83% menjadi 10,99%.",
+   "Rinciannya, pada 1 Oktober dijual 5.275.700 saham biasa dengan harga Rp259 per saham, pada 2 Oktober dijual 11.761.000 saham dengan harga Rp268 per saham, dan pada 5 Oktober dijual 10.634.500 saham dengan harga Rp245 per saham. Total nilai ketiga transaksi itu sekitar Rp7,12 miliar. Dalam formulir yang disampaikan ke OJK, tujuan transaksi dicatat sebagai diversifikasi dan alokasi aset, dengan status kepemilikan tidak langsung.",
+   "HP Capital Resources bukan merupakan anggota direksi maupun dewan komisaris LUCY, dan tercatat berstatus warga negara Indonesia dalam laporan tersebut. Laporan ini disampaikan sesuai Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan pemegang saham dengan kepemilikan signifikan melaporkan setiap perubahan kepemilikannya kepada otoritas."
+  ],
+  "fotoAdegan": "Jakarta financial district skyscrapers glowing at dusk, wide street-level view looking up, light traffic trails below",
+  "takeaway": "Laporan ini condong negatif bagi LUCY, karena HP Capital Resources melepas 14,24% dari saham yang dipegangnya sendiri dalam rentang kurang dari sepekan, bukan sekadar pecahan kecil yang bisa diabaikan. Yang tersentuh adalah struktur pemegang saham dan hak suara, yakni porsi suara HP Capital turun dari 12,83% menjadi 10,99%, dan pelaku pasar memperhatikan hal ini karena berkurangnya porsi investor besar bisa berarti lebih sedikit pemegang saham yang menahan sahamnya dalam jangka panjang sebagai penyangga saat harga bergejolak. Harga jual di tiga transaksi itu, yaitu Rp259, Rp268, lalu Rp245, juga menurun dari hari ke hari, meski alasan yang dicantumkan adalah diversifikasi aset, bukan keluar total dari saham ini. Yang perlu dipantau selanjutnya adalah apakah HP Capital Resources kembali mengurangi porsinya hingga di bawah ambang 5% kepemilikan, karena begitu itu terjadi, kewajiban melaporkan transaksi sahamnya ke OJK akan berhenti dan pergerakan sahamnya tidak lagi otomatis terlihat publik.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "surplus-dagang-agustus-melonjak-impor-modal-anjlok-16",
   "category": "Makroekonomi",
   "title": "Surplus Dagang Agustus Melonjak, [Impor] Modal Anjlok 16%",
@@ -29,6 +158,85 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Surplus Agustus yang melonjak ke USD3,55 miliar ini sebagian besar bukan berasal dari ekspor yang menguat, melainkan dari impor yang mengerut: ekspor nonmigas cuma naik 0,75 persen secara bulanan, sementara impor barang modal, yaitu mesin dan peralatan yang dipakai perusahaan untuk berproduksi atau memperluas usaha, anjlok 16,04 persen dan bahan baku turun 11,11 persen. Yang kena dampak langsung adalah perusahaan manufaktur dan pemasok bahan baku impor, karena penurunan pembelian barang modal biasanya mencerminkan rencana investasi yang ditahan, bukan sekadar fluktuasi harga. Ada dua kemungkinan arah dari sini: pertama, ini cuma koreksi sesaat setelah impor sempat tinggi pada bulan-bulan sebelumnya; kedua, ini awal perlambatan investasi yang lebih panjang menjelang akhir tahun. Yang akan menjawabnya adalah data impor barang modal pada rilis neraca dagang September yang biasanya terbit awal bulan depan, karena penurunan dua bulan beruntun akan jadi sinyal lebih kuat ke arah perlambatan ketimbang sekadar koreksi sesaat."
+ },
+ {
+  "slug": "buva-right-issue-ii-rp1-54-triliun-harga-hmetd-rp250",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Right Issue II Rp1,54 Triliun, Harga [HMETD] Rp250",
+  "deck": "BUVA menawarkan 6,15 miliar saham baru rasio 4:1 di harga Rp250, mengumpulkan Rp1,54 triliun untuk bayar utang dan ekspansi resor di Uluwatu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T09:33:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eff7c36fdf_3f5a1bbab7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bukit Uluwatu Villa Tbk (BUVA) resmi menjalankan Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu II (PMHMETD II atau rights issue kedua), menawarkan maksimal 6.154.263.660 saham baru bernilai nominal Rp50 per saham, atau sekitar 20 persen dari total saham setelah penerbitan. Setiap pemegang 4 saham lama berhak atas 1 HMETD, dan setiap 1 HMETD bisa ditukar dengan 1 saham baru di harga pelaksanaan Rp250 per saham. Jika seluruh hak ini dilaksanakan, BUVA akan menerima dana sebesar Rp1.538.565.915.000. Pernyataan efektif dari OJK sudah terbit 5 Oktober 2026, dengan daftar pemegang saham yang berhak atas HMETD ditetapkan 15 Oktober 2026 dan saham baru akan tercatat di Bursa Efek Indonesia pada 19 Oktober 2026.",
+   "Pemegang saham pengendali, PT Nusantara Utama Investama (NUI), yang kini menguasai 61,07 persen saham BUVA atau 15.034.031.772 saham, akan menerima 3.758.507.943 HMETD. Dari jumlah itu, NUI akan melaksanakan sendiri 3.474.507.943 HMETD dan mengalihkan sisanya, 284.000.000 HMETD, ke PT Tata Tirta Datun (TTD) yang sudah menyatakan sanggup melaksanakan seluruhnya. Dengan begitu kepemilikan NUI setelah rights issue diproyeksikan menjadi 18.508.539.715 saham atau 60,15 persen, hampir tidak berubah dari porsi sebelumnya. Untuk memastikan seluruh saham baru terserap, empat pembeli siaga disiapkan sebagai jaring pengaman: Hapsoro maksimal 389.038.738 saham senilai Rp97,26 miliar, Ferry Sudjono maksimal 1.311.216.321 saham senilai Rp327,80 miliar, TTD maksimal 1.606.350 saham senilai Rp401,59 juta, dan PT Henan Putihrai Sekuritas maksimal 400.000.000 saham senilai Rp100 miliar.",
+   "Soal penggunaan dana, BUVA akan menyuntikkan Rp426,339 miliar ke anak usahanya PT Bukit Bali Permai (BBP) paling lambat kuartal IV 2026. Dari jumlah itu, Rp199,259 miliar dipakai BBP untuk mengambil alih saham PT Royal Uluwatu Residence (RUR) guna memperluas portofolio grup di kawasan Uluwatu, Bali, ditargetkan selesai paling lambat Desember 2026. Sisanya, Rp227,08 miliar, disuntikkan lagi ke RUR untuk pembangunan lahan dan belanja modal konstruksi proyek resor baru di kawasan yang sama, yang direncanakan berjalan bertahap hingga tuntas paling lambat kuartal IV 2029. Di luar itu, Rp417,8 miliar dana rights issue dipakai untuk mempercepat pelunasan sebagian pokok utang Perseroan berdasarkan perjanjian pembiayaan yang sudah berjalan."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete on a clifftop resort terrace overlooking the ocean near Uluwatu, Bali, afternoon light",
+  "takeaway": "Laporan ini condong positif karena aksi korporasi membawa dana segar Rp1,54 triliun yang sebagian langsung memangkas utang Rp417,8 miliar dan sisanya mendanai ekspansi resor di Uluwatu, sementara pemegang saham pengendali dan empat pembeli siaga sudah mengamankan penyerapan penuh saham baru. Yang tersentuh adalah jumlah saham beredar, yang bisa bertambah sampai 20 persen sehingga laba per saham investor yang tidak ikut rights issue bisa terdilusi, sedangkan sisi ekuitas membesar karena modal disetor naik dan beban utang berkurang. Yang perlu dipantau selanjutnya adalah periode pelaksanaan HMETD pada 19 sampai 30 Oktober 2026 dan pembayaran dari para pembeli siaga pada 4 November 2026, karena dari situ akan terlihat berapa saham baru yang benar-benar terserap sesuai jadwal.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "buva-rilis-prospektus-rights-issue-pembeli-siaga-kunci-rp1-54-t",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Rilis Prospektus Rights Issue, [Pembeli Siaga] Kunci Rp1,54 T",
+  "deck": "Prospektus PMHMETD II BUVA mengungkap jadwal lengkap dan komitmen empat pembeli siaga menyerap sisa saham hingga Rp525,5 miliar jika pemegang saham lain tak menyerap haknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T09:21:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/77e65b77a7_72ea51316a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bukit Uluwatu Villa Tbk (BUVA) menyampaikan prospektus Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD) II, setelah pernyataan pendaftarannya efektif di Otoritas Jasa Keuangan pada 5 Oktober 2026. Perseroan akan menerbitkan 6.154.263.660 saham baru atau sekitar 20 persen dari total saham setelah rights issue, dengan nilai nominal Rp50 per saham dan harga pelaksanaan Rp250 per saham. Setiap pemegang 4 saham lama berhak atas 1 HMETD, dan setiap 1 HMETD bisa ditukar untuk membeli 1 saham baru. Jika seluruh saham baru terjual, BUVA akan mengantongi dana segar Rp1,54 triliun.",
+   "Prospektus ini memuat jadwal lengkap aksi korporasi. Pemegang saham yang tercatat dalam daftar pemegang saham pada 15 Oktober 2026 pukul 16.00 WIB berhak menerima HMETD, dengan periode cum-HMETD di pasar reguler dan negosiasi berakhir 13 Oktober dan cum di pasar tunai berakhir 15 Oktober 2026. HMETD akan dicatatkan dan mulai diperdagangkan di Bursa Efek Indonesia pada 19 Oktober hingga 30 Oktober 2026. Pembayaran pemesanan saham tambahan paling lambat 3 November 2026, penjatahannya pada 4 November, dan saham hasil rights issue baru didistribusikan pada 5 November 2026.",
+   "Pemegang saham pengendali, PT Nusantara Utama Investama (NUI), yang menguasai 15.034.031.772 saham atau 61,07 persen dari modal BUVA sebelum rights issue, akan memperoleh 3.758.507.943 HMETD. NUI menyatakan akan melaksanakan 3.474.507.943 HMETD miliknya sendiri dan mengalihkan sisanya, 284.000.000 HMETD, kepada PT Tata Tirta Datun yang berkomitmen menyerap seluruhnya, sehingga seluruh hak milik NUI terjamin terlaksana. Jika masih ada saham yang tidak diambil pemegang saham lain, empat pihak bertindak sebagai pembeli siaga dengan batas maksimum masing-masing: Hapsoro sebanyak 389.038.738 saham (Rp97,26 miliar), Ferry Sudjono sebanyak 1.311.216.321 saham (Rp327,80 miliar), PT Tata Tirta Datun sebanyak 1.606.350 saham (Rp401,59 juta), dan PT Henan Putihrai Sekuritas sebanyak 400.000.000 saham (Rp100 miliar), dengan total komitmen pembeli siaga mencapai sekitar Rp525,5 miliar. Pemegang saham yang tidak melaksanakan haknya akan mengalami dilusi kepemilikan maksimum 20 persen.",
+   "Prospektus menyebutkan risiko utama yang dihadapi perseroan adalah persaingan usaha, sementara risiko bagi investor meliputi likuiditas saham yang terbatas dan fluktuasi harga di pasar modal Indonesia. PT BCA Sekuritas tercatat membantu penyiapan prospektus ini dan menyatakan tidak memiliki hubungan afiliasi dengan BUVA."
+  ],
+  "fotoAdegan": "Aerial view of a clifftop resort with villas and an infinity pool overlooking the ocean in Bali, golden hour light",
+  "takeaway": "Laporan ini condong positif karena kepastian dana Rp1,54 triliun semakin kuat, terlihat dari komitmen penuh pemegang saham pengendali NUI bersama PT Tata Tirta Datun untuk menyerap seluruh hak mereka, didukung empat pembeli siaga yang menjamin membeli sisa saham hingga Rp525,5 miliar bila pemegang saham lain tidak menyerap haknya. Yang tersentuh di sini adalah jumlah saham beredar dan laba per saham: begitu 6,15 miliar saham baru terbit, porsi kepemilikan pemegang saham yang tidak ikut akan terdilusi hingga 20 persen dan laba yang dibagi per saham otomatis mengecil karena dibagi ke lebih banyak lembar saham. Yang perlu dipantau berikutnya adalah periode cum dan ex HMETD pada 13 sampai 16 Oktober 2026, perdagangan hak pada 19 sampai 30 Oktober 2026, serta tenggat pembayaran pemesanan saham tambahan pada 3 November 2026 dan penjatahannya sehari setelahnya, karena di titik itu baru terlihat berapa porsi yang benar-benar diambil pemegang saham lama dibanding yang jatuh ke pembeli siaga.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bold-ganti-direksi-dua-direktur-baru-masuk-jajaran",
+  "category": "Aksi Korporasi",
+  "title": "BOLD Ganti Direksi, Dua [Direktur] Baru Masuk Jajaran",
+  "deck": "BUMA (BOLD) mengubah susunan direksi lewat keputusan sirkuler pemegang saham, menambah dua direktur baru dan menggeser posisi Wakil Direktur Utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T09:03:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b8639ce1b8_2389355d45.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "direksi",
+   "BUMA",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Bukit Makmur Mandiri Utama (BUMA), emiten dengan kode saham BOLD, mengumumkan perubahan susunan direksi melalui Keputusan Sirkuler Pemegang Saham tertanggal 2 Oktober 2026 yang berlaku sebagai pengganti Rapat Umum Pemegang Saham Luar Biasa. Berdasarkan keputusan itu, jabatan Direktur Utama tetap dipegang Dian Sofia Andyasuri, sementara posisi Wakil Direktur Utama yang sebelumnya dijabat Nanang Rizal Achyar kini beralih ke Yohanes Budi Kurniawan.",
+   "Nanang Rizal Achyar tidak keluar dari jajaran direksi, melainkan bergeser dari Wakil Direktur Utama menjadi Direktur biasa. Selain itu, BUMA menambah satu direktur baru bernama Novendra, sehingga jajaran direksi perusahaan kini berjumlah enam orang, bertambah dari sebelumnya empat orang. Dua direktur lain, Silfanny Fadillah Bahar dan Brett McGuire, tetap menjabat posisi yang sama seperti sebelum perubahan ini.",
+   "Dalam laporan keterbukaan informasi yang disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 6 Oktober 2026, perusahaan menyatakan perubahan susunan direksi ini tidak berdampak material terhadap kondisi keuangan, operasional, maupun kelangsungan usaha perseroan. Laporan ditandatangani oleh Corporate Secretary BUMA, Riska Aurisna Febriane."
+  ],
+  "fotoAdegan": "Heavy mining haul trucks lined up on a dusty access road at a coal mining site, early morning light, distant hills",
+  "takeaway": "Laporan ini netral bagi BOLD karena perusahaan sendiri menegaskan tidak ada dampak material terhadap keuangan, dan pergantian direksi semacam ini lumrah terjadi dalam tata kelola perusahaan tanpa menandakan masalah operasional. Perubahan ini tidak langsung menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham, tetapi pelaku pasar tetap memperhatikan siapa yang memegang kendali strategis karena bisnis jasa pertambangan seperti BUMA sangat bergantung pada keputusan direksi soal kontrak dan belanja modal. Yang perlu dipantau berikutnya adalah bagaimana direksi baru, termasuk dua direktur tambahan, menjalankan strategi perusahaan, serta apakah ada perubahan arah bisnis yang baru terlihat pada laporan keuangan kuartal berikutnya atau RUPS tahunan mendatang.",
+  "sentimen": "netral"
  },
  {
   "slug": "edge-serapan-tender-saham-digital-edge-baru-4-84-usai-tahap-iii",

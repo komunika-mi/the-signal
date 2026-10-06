@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ikai-direksi-beli-5-juta-saham-hak-suara-ke-0-04",
+  "category": "Aksi Korporasi",
+  "title": "IKAI: Direksi [Beli] 5 Juta Saham, Hak Suara ke 0,04%",
+  "deck": "Direksi IKAI Desra Firza Ghazfan membeli 5 juta saham seharga Rp20 per lembar pada 1 Oktober 2026, hak suaranya naik dari 0 menjadi 0,04 persen.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IKAI",
+   "kepemilikan saham",
+   "direksi",
+   "intikeramik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06102026-0602-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppri-direksi-divestasi-lagi-15-juta-saham-hak-suara-ke-12-6",
+  "category": "Aksi Korporasi",
+  "title": "PPRI: Direksi [Divestasi] Lagi 15 Juta Saham, Hak Suara ke 12,6%",
+  "deck": "Direksi PPRI, Irsyad Hanif, melepas 15 juta saham seharga Rp185 per lembar pada 5 Oktober 2026, penjualan kedua dalam dua hari yang menekan hak suaranya ke 12,61 persen.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRI",
+   "kepemilikan saham",
+   "direksi",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06102026-2548-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-rampungkan-akuisisi-90-saham-tri-satria-indah-motor",
+  "category": "Aksi Korporasi",
+  "title": "INPS Rampungkan Akuisisi [90%] Saham Tri Satria Indah Motor",
+  "deck": "Perseroan resmi membeli 90% saham PT Tri Satria Indah Motor senilai Rp5,8 miliar lewat akta jual beli 5 Oktober 2026, menjadikannya anak usaha baru di bisnis motor roda tiga.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "akuisisi",
+   "Tri Satria Indah Motor",
+   "otomotif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93bd095436_42eabbcbd9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pool-jual-30-saham-anak-usaha-paf-ke-cicil-technologies",
+  "category": "Aksi Korporasi",
+  "title": "POOL [Jual] 30% Saham Anak Usaha PAF ke Cicil Technologies",
+  "deck": "POOL menjual 30 persen saham PT Pool Advista Finance Tbk ke Cicil Technologies asal Singapura, kepemilikannya di PAF turun jadi 46,34 persen tapi tetap pengendali.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POOL",
+   "PAF",
+   "Cicil Technologies",
+   "divestasi anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/132e56bc23_d36326de4a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lucy-hp-capital-jual-27-67-juta-saham-suara-turun-ke-10-99",
+  "category": "Aksi Korporasi",
+  "title": "LUCY: HP Capital [Jual] 27,67 Juta Saham, Suara Turun ke 10,99%",
+  "deck": "Pemegang saham HP Capital Resources melepas 27,67 juta saham LUCY senilai sekitar Rp7,12 miliar dalam tiga transaksi awal Oktober, hak suaranya turun dari 12,83% menjadi 10,99%.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LUCY",
+   "kepemilikan saham",
+   "pemegang saham",
+   "HP Capital Resources"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06102026-9727-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "surplus-dagang-agustus-melonjak-impor-modal-anjlok-16",
   "category": "Makroekonomi",
   "title": "Surplus Dagang Agustus Melonjak, [Impor] Modal Anjlok 16%",
@@ -19,6 +99,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/surplus-perdagangan-agustus-2026-menguat-surplus-januari-agustus-2026-tembus-usd-725-miliar",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "buva-right-issue-ii-rp1-54-triliun-harga-hmetd-rp250",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Right Issue II Rp1,54 Triliun, Harga [HMETD] Rp250",
+  "deck": "BUVA menawarkan 6,15 miliar saham baru rasio 4:1 di harga Rp250, mengumpulkan Rp1,54 triliun untuk bayar utang dan ekspansi resor di Uluwatu.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eff7c36fdf_3f5a1bbab7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-rilis-prospektus-rights-issue-pembeli-siaga-kunci-rp1-54-t",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Rilis Prospektus Rights Issue, [Pembeli Siaga] Kunci Rp1,54 T",
+  "deck": "Prospektus PMHMETD II BUVA mengungkap jadwal lengkap dan komitmen empat pembeli siaga menyerap sisa saham hingga Rp525,5 miliar jika pemegang saham lain tak menyerap haknya.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/77e65b77a7_72ea51316a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bold-ganti-direksi-dua-direktur-baru-masuk-jajaran",
+  "category": "Aksi Korporasi",
+  "title": "BOLD Ganti Direksi, Dua [Direktur] Baru Masuk Jajaran",
+  "deck": "BUMA (BOLD) mengubah susunan direksi lewat keputusan sirkuler pemegang saham, menambah dua direktur baru dan menggeser posisi Wakil Direktur Utama.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "direksi",
+   "BUMA",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b8639ce1b8_2389355d45.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "edge-serapan-tender-saham-digital-edge-baru-4-84-usai-tahap-iii",
@@ -6348,138 +6476,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d08abf236a_42ff60d0a3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vktr-gelar-rights-issue-15-miliar-saham-harga-rp200",
-  "category": "Aksi Korporasi",
-  "title": "VKTR Gelar [Rights Issue] 15 Miliar Saham, Harga Rp200",
-  "deck": "VKTR menjadwalkan penerbitan saham baru lewat rights issue hingga 15 miliar lembar dengan rasio 12:35 dan harga pelaksanaan Rp200, setelah efektif dari OJK pada 28 September 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VKTR",
-   "rights issue",
-   "HMETD",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1e56a5b960_63895e244d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-putrasakti-mandiri-lepas-1-juta-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Putrasakti Mandiri Lepas [1 Juta] Saham Lagi",
-  "deck": "Putrasakti Mandiri kembali menjual 1 juta saham Puri Sentul Permai pada 28 September dengan harga Rp409, bagian dari restrukturisasi kepemilikan dalam kelompok usaha.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "Puri Sentul Permai",
-   "kepemilikan saham",
-   "restrukturisasi grup"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-9349-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pupuk-bersubsidi-perikanan-pangkep-baru-43-tersalur",
-  "category": "BUMN",
-  "title": "Pupuk Bersubsidi Perikanan Pangkep Baru [43%] Tersalur",
-  "deck": "Dari alokasi 27.156 ton pupuk bersubsidi perikanan Pangkep tahun 2026, baru 11.562 ton atau 43 persen tersalur hingga 24 September 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/pupuk-bersubsidi-perikanan-pangkep-baru-43-tersalur.jpg",
-  "imageV": "mumbzcav",
-  "tags": [
-   "Pupuk Indonesia",
-   "Pupuk Bersubsidi",
-   "Pangkep",
-   "Perikanan"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/886/pupuk-indonesia-perkuat-penyaluran-pupuk-bersubsidi-untuk-sektor-perikanan-di-pangkep",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "waran-enrgbqcx6a-disesuaikan-ikuti-rights-issue-enrg",
-  "category": "Aksi Korporasi",
-  "title": "Waran ENRGBQCX6A [Disesuaikan] Ikuti Rights Issue ENRG",
-  "deck": "Korea Investment and Sekuritas Indonesia menyesuaikan syarat waran terstruktur ENRGBQCX6A menyusul rights issue ENRG senilai Rp4,12 triliun yang bisa mendilusi saham hingga 33,33 persen.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BQ",
-   "ENRG",
-   "rights issue",
-   "waran terstruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d8de9a05f_a0fd814d52.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "koperasi-pesantren-di-bandung-hubungkan-300-petani-ke-ritel-modern",
-  "category": "UMKM",
-  "title": "Koperasi Pesantren di Bandung Hubungkan 300 [Petani] ke Ritel Modern",
-  "deck": "Koperasi Al-Ittifaq di Bandung menghubungkan sekitar 300 petani dengan pasar ritel modern, hotel, dan restoran, seiring produksi naik menjadi 7-8 ton per hari.",
-  "date": "29 September 2026",
-  "image": "assets/img/koperasi-pesantren-di-bandung-hubungkan-300-petani-ke-ritel-modern.jpg",
-  "imageV": "mumbzcsy",
-  "tags": [
-   "koperasi",
-   "petani",
-   "pesantren",
-   "pasar modern"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470146-gandeng-ratusan-petani-koperasi-pesantren-di-bandung-bawa-produk-pertanian-tembus-pasar-modern"
- },
- {
-  "slug": "tapg-direksi-george-oetomo-tambah-100-000-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Direksi George Oetomo [Tambah] 100.000 Saham Lagi",
-  "deck": "George Oetomo, Direksi TAPG, membeli 100.000 saham tambahan pada 28 September 2026 seharga Rp1.975 per saham, menambah kepemilikannya jadi 50,9 juta lembar.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "kepemilikan saham",
-   "direksi",
-   "Triputra Agro Persada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-7838-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "belanja-negara-2027-naik-ke-rp4-106-t-defisit-tetap-2-4",
-  "category": "Makroekonomi",
-  "title": "Belanja Negara 2027 Naik ke Rp4.106 T, Defisit [Tetap] 2,4%",
-  "deck": "Pemerintah dan Banggar DPR menaikkan belanja negara 2027 jadi Rp4.106,26 triliun, diimbangi kenaikan target pendapatan agar defisit tetap 2,4 persen dari PDB.",
-  "date": "29 September 2026",
-  "image": "assets/img/belanja-negara-2027-naik-ke-rp4-106-t-defisit-tetap-2-4.jpg",
-  "imageV": "mumbzd48",
-  "tags": [
-   "APBN 2027",
-   "Belanja Negara",
-   "Defisit APBN",
-   "Banggar DPR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470140-belanja-negara-2027-naik-jadi-rp4106-triliun-defisit-tetap-24-persen"
- },
- {
-  "slug": "wgsh-gelar-rupslb-21-oktober-setujui-mundurnya-direktur",
-  "category": "Aksi Korporasi",
-  "title": "WGSH Gelar RUPSLB 21 Oktober, Setujui [Mundurnya] Direktur",
-  "deck": "RUPSLB WGSH pada 21 Oktober 2026 akan meminta persetujuan pemegang saham atas pengunduran diri Direktur Moch Sajoang yang mengajukan surat mundur sejak 23 Juli 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WGSH",
-   "RUPSLB",
-   "Direksi",
-   "Wira Global Solusi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d3a874715d_66c1aabbd8.pdf",
   "sourceLabel": "IDX"
  }
 ];

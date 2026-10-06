@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dr-waran-amrt-disesuaikan-usai-dividen-rp595-8-m",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran [AMRT] Disesuaikan usai Dividen Rp595,8 M",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur AMRT mengikuti rumus baku di prospektus, merespons dividen tunai Rp595,8 miliar dari Sumber Alfaria Trijaya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T13:42:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11075ed644_cd83a5657c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "AMRT",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia (DR) mengumumkan penyesuaian syarat dan ketentuan waran terstruktur dengan saham acuan PT Sumber Alfaria Trijaya Tbk (AMRT). Penyesuaian ini merujuk pada keterbukaan informasi AMRT tertanggal 5 Oktober 2026 soal rencana pembagian dividen tunai tahun buku 2026 senilai total Rp595.831.574.150, atau Rp14,5 per saham, yang telah disetujui jajaran komisaris pada 1 Oktober 2026.",
+   "Jadwal pembagian dividen AMRT berjalan cepat. Tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 13 Oktober 2026, disusul tanggal ex dividen pada 14 Oktober 2026. Di pasar tunai, cum dividen berlaku 15 Oktober 2026 dan ex dividen 16 Oktober 2026. Daftar pemegang saham yang berhak menerima dividen ditutup pada 15 Oktober 2026 pukul 16.00, dengan pembayaran dividen dijadwalkan paling lambat 27 Oktober 2026.",
+   "Mengikuti rumus baku di term sheet dan Bagian 3 Prospektus Waran Terstruktur, rasio pelaksanaan dan harga pelaksanaan waran AMRT akan dikalikan faktor (P-D)/P, dengan P adalah harga penutupan saham AMRT pada hari bursa terakhir diperdagangkan secara cum-entitlement dan D adalah nilai dividen per saham yang dibagikan. RHB Sekuritas juga mencantumkan klausul bahwa penyesuaian berpotensi tidak dilakukan jika menurut kebijakan penerbit dianggap tidak diperlukan, tanpa kewajiban apa pun kepada pemegang waran."
+  ],
+  "fotoAdegan": "Shelves stocked with packaged goods inside a small convenience store, an employee restocking items near the checkout counter, bright indoor lighting",
+  "takeaway": "Laporan ini netral bagi RHB Sekuritas selaku penerbit waran, karena penyesuaian rasio dan harga pelaksanaan murni mengikuti rumus baku di prospektus akibat dividen AMRT, bukan keputusan bisnis baru dari perseroan. Pos yang tersentuh adalah nilai ekonomi waran terstruktur itu sendiri, yakni rasio pelaksanaan dan harga pelaksanaan, karena begitu saham AMRT dibagikan dividen, harganya di pasar otomatis terkoreksi turun sebesar nilai dividen tersebut sehingga mekanisme ini menjaga nilai waran tidak berubah akibat efek dividen. Yang perlu dipantau adalah rangkaian tanggal penting dividen AMRT, yaitu cum dividen 13 Oktober 2026, ex dividen 14 Oktober 2026, penutupan daftar pemegang saham 15 Oktober 2026 pukul 16.00, dan pembayaran dividen paling lambat 27 Oktober 2026, karena harga penutupan AMRT pada hari cum dividen itulah yang menjadi acuan P dalam rumus penyesuaian.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kemendag-dampingi-56-umk-depok-tangsel-urus-sertifikasi-halal",
   "category": "UMKM",
   "title": "Kemendag Dampingi [56] UMK Depok-Tangsel Urus Sertifikasi Halal",
@@ -31,6 +57,110 @@ var ARTICLES = [
   "imageV": "muw94xud"
  },
  {
+  "slug": "komite-audit-humi-berganti-fiantonius-sihotang-anggota-baru",
+  "category": "Aksi Korporasi",
+  "title": "Komite [Audit] HUMI Berganti, Fiantonius Sihotang Anggota Baru",
+  "deck": "Dewan Komisaris HUMI mengganti Mirawati Sudjono dengan Fiantonius Sihotang sebagai anggota Komite Audit efektif 1 Oktober 2026, sementara Ketua Mahdan dan anggota JT Duma tetap menjabat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T12:29:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/82de038d5f_424dabe19c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HUMI",
+  "tags": [
+   "HUMI",
+   "Komite Audit",
+   "Tata Kelola Perusahaan",
+   "Humpuss Maritim"
+  ],
+  "body": [
+   "PT Humpuss Maritim Internasional Tbk (HUMI) mengumumkan perubahan susunan Komite Audit yang berlaku efektif 1 Oktober 2026. Perubahan ini didasarkan pada Surat Keputusan Dewan Komisaris Nomor 015/SK/DEKOM-HUMI/X/2026 tertanggal 1 Oktober 2026, yang mencabut keputusan sebelumnya, yaitu Surat Keputusan Nomor 006/SK/DEKOM-HUMI/I/2026 tanggal 21 Januari 2026.",
+   "Dari tiga posisi di Komite Audit, hanya satu yang berganti orang. Mahdan tetap menjabat sebagai Ketua Komite Audit, dan JT Duma tetap menjabat sebagai anggota. Posisi anggota yang sebelumnya diisi Mirawati Sudjono kini digantikan oleh Fiantonius Sihotang. Keputusan ini disampaikan ke Otoritas Jasa Keuangan oleh Direktur Utama perseroan melalui surat Nomor 778/DU-HUMI/X/2026 tertanggal 5 Oktober 2026, sebagai pemenuhan ketentuan POJK Nomor 55/POJK.04/2015 tentang Pembentukan dan Pedoman Pelaksanaan Kerja Komite Audit.",
+   "Surat keputusan tersebut juga menegaskan tugas Komite Audit, yaitu menelaah laporan keuangan perseroan sebelum dipublikasikan, mengawasi tindak lanjut temuan auditor internal, serta memberi rekomendasi independen kepada Dewan Komisaris terkait penunjukan akuntan publik. Masa jabatan anggota Komite Audit ditetapkan paling lama tiga tahun dan dapat diperpanjang untuk periode tiga tahun berikutnya, dengan Dewan Komisaris tetap memegang hak untuk memberhentikan anggota sewaktu-waktu."
+  ],
+  "fotoAdegan": "A dock office meeting room with harbor cranes and cargo ships visible through large windows in the background",
+  "takeaway": "Perubahan ini netral bagi fundamental HUMI karena hanya mengganti satu dari tiga kursi Komite Audit tanpa mengubah kebijakan perusahaan atau angka keuangan apa pun. Komite Audit sendiri bukan pos di laporan keuangan seperti ekuitas atau laba per saham, tetapi badan yang menelaah laporan keuangan sebelum diterbitkan ke publik dan mengawasi kerja auditor, sehingga independensi dan kompetensi anggotanya memengaruhi tingkat kepercayaan investor atas angka yang dilaporkan perseroan nantinya. Yang perlu dipantau selanjutnya adalah bagaimana susunan baru ini bekerja saat menelaah laporan keuangan triwulan dan tahunan HUMI mendatang, mengingat masa jabatan komite ini dibatasi maksimal tiga tahun sebelum harus dievaluasi ulang oleh Dewan Komisaris.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "talf-sewa-mobil-dari-perusahaan-afiliasi-milik-direksinya",
+  "category": "Aksi Korporasi",
+  "title": "TALF Sewa Mobil dari Perusahaan [Afiliasi] Milik Direksinya",
+  "deck": "Tunas Alfin menyewa mobil dari PT Adi Indah Andalan, perusahaan yang dimiliki dan dipimpin oleh direksi serta komisaris utamanya sendiri, senilai Rp9,7 juta per bulan selama tiga bulan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T12:11:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/76a840d2f2_e7d9f2c4a6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TALF",
+  "tags": [
+   "TALF",
+   "transaksi afiliasi",
+   "sewa kendaraan",
+   "Tunas Alfin"
+  ],
+  "body": [
+   "PT Tunas Alfin Tbk (TALF) melaporkan transaksi afiliasi berupa sewa kendaraan dengan PT Adi Indah Andalan. Perjanjian sewa menyewa kendaraan nomor 17/SW-TA/X/2026 diteken pada 5 Oktober 2026, dengan harga sewa Rp9.714.700 per bulan untuk jangka waktu tiga bulan, sehingga total nilai transaksi mencapai sekitar Rp29,1 juta. Perseroan menyatakan transaksi ini dilakukan karena perusahaan memerlukan tambahan kendaraan.",
+   "Hubungan afiliasi dalam transaksi ini muncul karena tiga petinggi TALF juga menjabat posisi yang sama di PT Adi Indah Andalan. Pieter Tika yang menjabat Presiden Komisaris TALF juga Presiden Komisaris di PT Adi Indah Andalan, John Tika yang menjabat Direktur Utama TALF juga Direktur Utama di perusahaan itu, dan James Tika yang menjabat Direktur TALF juga Direktur di PT Adi Indah Andalan. Dengan kata lain, perusahaan yang menyewakan mobil kepada TALF dikendalikan oleh jajaran direksi dan komisaris TALF sendiri.",
+   "Direksi dan Dewan Komisaris Perseroan menyatakan telah melakukan pemeriksaan yang wajar dan seluruh informasi yang diungkapkan tidak menyesatkan. Pelaporan ini dilakukan untuk memenuhi Peraturan Otoritas Jasa Keuangan Nomor 42/POJK.04/2020 tentang Transaksi Afiliasi dan Benturan Kepentingan Transaksi Tertentu, yang mewajibkan emiten mengumumkan setiap transaksi dengan pihak berelasi, berapa pun nilainya."
+  ],
+  "fotoAdegan": "A fleet of plain white sedans parked in neat rows in a corporate parking lot under a cloudy Jakarta sky",
+  "takeaway": "Transaksi ini saya nilai netral bagi TALF, karena nilainya yang hanya sekitar Rp29 juta untuk tiga bulan terlalu kecil untuk memengaruhi kas, laba, atau modal perusahaan, meski bentuknya adalah transaksi dengan pihak berelasi. Pos yang disentuh di sini bukan laporan keuangan, melainkan soal konflik kepentingan: uang sewa yang dibayar TALF mengalir ke perusahaan yang pemilik dan pengurusnya sama persis dengan direksi serta komisaris TALF sendiri, sehingga pelaku pasar biasanya tetap mencatatnya meski nominalnya kecil. Yang perlu dipantau berikutnya adalah apakah perjanjian sewa tiga bulan ini, yang berjalan sejak 5 Oktober 2026, diperpanjang atau diikuti transaksi afiliasi lain dengan pihak yang sama dalam nilai yang lebih besar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pssi-gelar-rupslb-28-oktober-bagi-saham-bonus-dari-treasuri",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Gelar RUPSLB 28 Oktober, Bagi [Saham Bonus] dari Treasuri",
+  "deck": "RUPSLB PSSI pada 28 Oktober 2026 membahas pengalihan saham treasuri menjadi saham bonus dan perubahan pasal anggaran dasar soal bidang usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T12:04:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d50defc785_7847d00a5b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "RUPSLB",
+   "saham treasuri",
+   "saham bonus"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 28 Oktober 2026 pukul 10.00 WIB di Graha Irama Lantai 8, Jalan H.R. Rasuna Said, Kuningan Timur, Jakarta Selatan. Pemanggilan ini merujuk pada pemberitahuan sebelumnya tertanggal 21 September 2026, dan pemegang saham yang berhak hadir adalah yang namanya tercatat di Daftar Pemegang Saham per penutupan perdagangan bursa pada 5 Oktober 2026.",
+   "Ada dua agenda dalam rapat ini. Pertama, persetujuan pengalihan saham hasil pembelian kembali atau saham treasuri melalui mekanisme pembagian saham bonus, mengacu pada Peraturan OJK Nomor 29 Tahun 2023 tentang Pembelian Kembali Saham dan Peraturan OJK Nomor 27 Tahun 2020 tentang Saham Bonus. Perseroan meminta persetujuan pemegang saham sekaligus kuasa kepada direksi untuk melaksanakan seluruh tindakan yang diperlukan dalam pengalihan tersebut. Kedua, persetujuan perubahan Pasal 3 Anggaran Dasar tentang maksud, tujuan, dan kegiatan usaha, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025. Dokumen ini belum menyebutkan berapa jumlah atau rasio saham bonus yang akan dibagikan.",
+   "Rapat berlangsung secara fisik dengan kehadiran terbatas maksimal 8 pemegang saham atau kuasanya atas dasar siapa cepat dia dapat, serta secara elektronik lewat aplikasi eASY.KSEI. Pemegang saham yang ingin hadir fisik wajib mengajukan permohonan ke corsec@imcpelitalog.com paling lambat 23 Oktober 2026. Bahan rapat tersedia di kantor Perseroan sejak 6 Oktober 2026 hingga hari pelaksanaan, sementara batas pengisian kehadiran, kuasa elektronik (e-proxy), dan suara elektronik di aplikasi eASY.KSEI adalah pukul 12.00 WIB, satu hari kerja sebelum rapat."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a modern conference hall ahead of a corporate shareholders meeting, soft morning light through tall windows",
+  "takeaway": "Laporan ini netral bagi PSSI karena pengalihan saham treasuri menjadi saham bonus hanya memindahkan saham yang sudah ada kembali ke tangan pemegang saham secara proporsional, tanpa ada dana segar yang masuk, utang yang berubah, atau rasio dan jumlah saham bonus yang disebutkan di dokumen ini. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham treasuri itu beredar lagi sebagai saham bonus, jumlah lembar saham yang menjadi pembagi laba perusahaan bertambah sehingga laba per saham bisa terdilusi meski laba perusahaan sendiri tidak berubah, sementara persentase kepemilikan tiap pemegang saham relatif tetap karena pembagiannya proporsional. Yang perlu dipantau adalah hasil pemungutan suara dalam RUPSLB pada 28 Oktober 2026, terutama rincian rasio saham bonus yang disetujui, serta batas waktu e-proxy dan e-voting yang jatuh pukul 12.00 WIB sehari sebelum rapat bagi pemegang saham yang hadir secara elektronik.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bino-koreksi-dana-ipo-sisa-rp1-33-miliar-dialihkan-ke-utang",
+  "category": "Aksi Korporasi",
+  "title": "BINO Koreksi Dana IPO: Sisa Rp1,33 Miliar [Dialihkan] ke Utang",
+  "deck": "PT Perma Plasindo Tbk (BINO) mengoreksi laporan realisasi dana IPO, sisa Rp1,33 miliar yang semula untuk beli tanah di Klaten dialihkan jadi pelunasan utang ke pemegang saham sesuai persetujuan RUPS 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T11:56:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/18213acfac_4ce6df71ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BINO",
+  "tags": [
+   "BINO",
+   "IPO",
+   "penggunaan dana IPO",
+   "RUPS"
+  ],
+  "body": [
+   "PT Perma Plasindo Tbk (BINO) menyampaikan koreksi atas Laporan Penggunaan Dana Hasil Penawaran Umum yang sebelumnya dikirim pada 14 Juli 2026, melalui surat bernomor 401/CORSEC/BINO/X/2026 tanggal 6 Oktober 2026. Dari penawaran umum perdana saham (IPO) yang efektif pada 16 November 2021, BINO meraih dana sebesar Rp60,03 miliar, dipotong biaya emisi Rp4,2 miliar, sehingga dana bersih yang diterima adalah Rp55,83 miliar. Berdasarkan laporan terbaru, dana yang sudah direalisasikan untuk digunakan tercatat Rp54.501.050.000, menyisakan Rp1.328.950.000 yang belum terpakai.",
+   "Rincian realisasi penggunaan dana menunjukkan porsi terbesar, Rp38 miliar atau 68,06 persen, dipakai untuk melunasi utang perseroan kepada pihak ketiga. Selebihnya adalah pinjaman Rp4,5 miliar kepada entitas anak PT Batara Indah untuk pembelian mesin, modal kerja Rp7,83 miliar untuk PT Bino Mitra Sejati, modal kerja Rp2,55 miliar untuk Bino Digital Solutions Pte Ltd, pembelian tanah senilai Rp1.521.050.000, dan operasional perusahaan Rp100 juta. Selain dana IPO, BINO juga melaporkan hasil konversi 217,5 juta waran BINO pada harga Rp168 per lembar yang diterbitkan 25 November 2021, menghasilkan Rp36,54 miliar yang disebutkan telah terpakai seluruhnya sesuai rencana di prospektus, tanpa sisa.",
+   "Inti koreksi ini terletak pada perubahan alokasi dana sisa sebesar Rp1.328.950.000. Dalam prospektus, dana itu semula direncanakan untuk membeli tanah di Klaten, namun realisasi pembelian tanah hanya mencapai Rp1.521.050.000 dari rencana Rp2,85 miliar karena terganjal kendala legalitas dan perubahan kebijakan zonasi lahan. Perusahaan kemudian mengalihkan selisihnya untuk membayar sebagian utang kepada pemegang saham, sebuah perubahan yang telah disetujui dalam Rapat Umum Pemegang Saham Tahunan 2025. Sampai laporan ini terbit, sisa dana tersebut masih ditempatkan dalam bentuk deposito berjangka tiga bulan di Bank BCA KCP Kelapa Gading Villa dengan bunga 2,75 persen per triwulan, dan BCA disebutkan tidak memiliki hubungan afiliasi dengan BINO."
+  ],
+  "fotoAdegan": "Workers operating plastic injection molding machines on an industrial factory floor in Indonesia, daytime lighting",
+  "takeaway": "Laporan ini tergolong netral karena hanya mengoreksi alokasi sisa dana IPO sebesar Rp1,33 miliar, sekitar 2,4 persen dari total dana bersih penawaran umum Rp55,83 miliar, sehingga terlalu kecil untuk mengubah gambaran keuangan BINO secara material. Yang tersentuh adalah pos penggunaan dana hasil penawaran umum, yakni bagaimana kas yang terkumpul dari investor publik dibelanjakan: semula untuk membeli tanah di Klaten, kini dialihkan untuk membayar sebagian utang perusahaan kepada pemegang saham, yang kalau benar terlaksana akan sedikit mengurangi beban utang dan memperbaiki posisi ekuitas perusahaan. Alasan perubahan ini adalah kendala legalitas dan perubahan zonasi lahan di Klaten, bukan soal kesehatan keuangan perusahaan. Yang perlu dipantau berikutnya adalah apakah sisa dana Rp1,33 miliar yang saat ini masih mengendap sebagai deposito di Bank BCA benar-benar sudah dibayarkan ke pemegang saham sesuai persetujuan RUPS Tahunan 2025, dan ini akan terlihat di laporan penggunaan dana periode berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pegadaian-sabet-bronze-di-ipma-global-project-award",
   "category": "BUMN",
   "title": "Pegadaian Sabet [Bronze] di IPMA Global Project Award",
@@ -56,6 +186,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret hanya status pengakuan: Pegadaian naik dari gelar juara dunia di PMO Global Awards 2025 ke peringkat tiga dunia di IPMA Global Project Excellence Award 2026, untuk kategori Project Management Office, yaitu unit internal yang mengatur bagaimana proyek-proyek perusahaan direncanakan dan diawasi. Pihak yang langsung terdampak adalah citra Pegadaian sebagai BUMN yang sedang berbenah cara mengelola proyek, karena penghargaan ini dipakai manajemen untuk menunjukkan kematangan tata kelola, bukan menyangkut nasabah gadai atau produk tertentu secara langsung. Berita ini tidak menyebut data konkret, seperti berapa proyek yang sudah berjalan dengan standar baru itu atau berapa penghematan biaya dan waktu yang dihasilkan, sehingga belum bisa dipastikan apakah pengakuan ini akan terasa sampai ke layanan atau kinerja keuangan Pegadaian. Yang perlu dipantau adalah apakah laporan tahunan atau laporan kinerja Pegadaian berikutnya memuat angka konkret dari penerapan sistem manajemen proyek ini, karena baru di situ arah dampaknya bisa diukur.",
   "imageV": "muw94y8c"
+ },
+ {
+  "slug": "blog-koreksi-laporan-dana-ipo-rp138-2-miliar-tuntas-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "BLOG Koreksi Laporan, Dana IPO [Rp138,2 Miliar] Tuntas Terpakai",
+  "deck": "Trimitra Trans Persada mengoreksi laporan realisasi dana IPO per 30 Juni 2026: seluruh Rp138,23 miliar sudah terpakai untuk gudang pendingin dan truk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T11:38:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/18d5d1e6af_42af6e8a0a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLOG",
+  "tags": [
+   "BLOG",
+   "IPO",
+   "realisasi dana",
+   "logistik"
+  ],
+  "body": [
+   "PT Trimitra Trans Persada Tbk (BLOG) mengoreksi surat laporan realisasi dana IPO yang terbit sehari sebelumnya. Dalam surat bernomor 46/SK/CLI/TTP/X/2026 yang ditandatangani Direktur/Corporate Secretary Wanny Wijaya, perseroan melaporkan bahwa dari total dana IPO Rp140,81 miliar, setelah dipotong biaya penawaran umum Rp2,58 miliar, dana bersih yang diterima Rp138,23 miliar. Per 30 Juni 2026, seluruh dana itu sudah terpakai dan sisa dananya nol.",
+   "Rincian pemakaiannya terbagi dua. Sebesar Rp92,61 miliar atau 67 persen disetorkan sebagai penambahan modal ke entitas anak, PT Simpan Sini Aja, untuk membangun gudang pendingin di Kabupaten Tangerang, Pontianak, dan Makassar. Penyetoran modal ini sudah tuntas 100 persen sejak 5 Agustus 2025 lewat akta notaris Bastian Harijanto, namun realisasi pembangunan gudangnya sendiri oleh entitas anak baru mencapai Rp50,84 miliar dari Rp92,61 miliar pada akhir Desember 2025, dengan sisa Rp41,77 miliar baru dirampungkan hingga Juni 2026. Sisanya, Rp45,62 miliar atau 33 persen, dipakai untuk membeli unit truk ringan (light truck) berkaroseri tipe dingin (cold) dan kering (dry).",
+   "Dokumen ini juga merinci komponen biaya penawaran umum yang total Rp2,58 miliar, antara lain biaya penjaminan emisi Rp1,2 miliar, biaya penyelenggaraan Rp149,96 juta, biaya penjualan Rp149,96 juta, biaya jasa profesi penunjang pasar modal Rp340 juta, biaya jasa lembaga penunjang pasar modal Rp50 juta, biaya konsultasi keuangan Rp342,34 juta, dan biaya lain-lain Rp349,29 juta."
+  ],
+  "fotoAdegan": "Refrigerated light trucks parked beside a cold storage warehouse loading dock, workers moving crates, early morning light in Indonesia",
+  "takeaway": "Laporan ini condong positif karena menegaskan seluruh dana IPO sudah terpakai tuntas untuk aset produktif, bukan mengendap sebagai kas menganggur, meski bentuknya hanya koreksi administratif atas surat sehari sebelumnya. Dana ini menambah ekuitas lewat penyertaan modal ke anak usaha yang langsung berubah jadi aset tetap, gudang pendingin dan truk, yang nantinya diharapkan menambah kapasitas usaha dan arus kas dari pendapatan jasa logistik. Patut dicermati bahwa pembangunan gudang di Tangerang, Pontianak, dan Makassar baru separuh jalan pada akhir 2025 (Rp50,84 miliar dari Rp92,61 miliar) dan baru benar-benar tuntas pada Juni 2026, sehingga yang perlu dipantau selanjutnya adalah apakah kapasitas baru ini mulai menyumbang pendapatan di laporan keuangan semester kedua 2026.",
+  "sentimen": "positif"
  },
  {
   "slug": "ikai-direksi-beli-5-juta-saham-hak-suara-ke-0-04",

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dr-waran-amrt-disesuaikan-usai-dividen-rp595-8-m",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran [AMRT] Disesuaikan usai Dividen Rp595,8 M",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur AMRT mengikuti rumus baku di prospektus, merespons dividen tunai Rp595,8 miliar dari Sumber Alfaria Trijaya.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "AMRT",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11075ed644_cd83a5657c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemendag-dampingi-56-umk-depok-tangsel-urus-sertifikasi-halal",
   "category": "UMKM",
   "title": "Kemendag Dampingi [56] UMK Depok-Tangsel Urus Sertifikasi Halal",
@@ -23,6 +39,70 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "komite-audit-humi-berganti-fiantonius-sihotang-anggota-baru",
+  "category": "Aksi Korporasi",
+  "title": "Komite [Audit] HUMI Berganti, Fiantonius Sihotang Anggota Baru",
+  "deck": "Dewan Komisaris HUMI mengganti Mirawati Sudjono dengan Fiantonius Sihotang sebagai anggota Komite Audit efektif 1 Oktober 2026, sementara Ketua Mahdan dan anggota JT Duma tetap menjabat.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HUMI",
+   "Komite Audit",
+   "Tata Kelola Perusahaan",
+   "Humpuss Maritim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/82de038d5f_424dabe19c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "talf-sewa-mobil-dari-perusahaan-afiliasi-milik-direksinya",
+  "category": "Aksi Korporasi",
+  "title": "TALF Sewa Mobil dari Perusahaan [Afiliasi] Milik Direksinya",
+  "deck": "Tunas Alfin menyewa mobil dari PT Adi Indah Andalan, perusahaan yang dimiliki dan dipimpin oleh direksi serta komisaris utamanya sendiri, senilai Rp9,7 juta per bulan selama tiga bulan.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TALF",
+   "transaksi afiliasi",
+   "sewa kendaraan",
+   "Tunas Alfin"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/76a840d2f2_e7d9f2c4a6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pssi-gelar-rupslb-28-oktober-bagi-saham-bonus-dari-treasuri",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Gelar RUPSLB 28 Oktober, Bagi [Saham Bonus] dari Treasuri",
+  "deck": "RUPSLB PSSI pada 28 Oktober 2026 membahas pengalihan saham treasuri menjadi saham bonus dan perubahan pasal anggaran dasar soal bidang usaha.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "RUPSLB",
+   "saham treasuri",
+   "saham bonus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d50defc785_7847d00a5b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bino-koreksi-dana-ipo-sisa-rp1-33-miliar-dialihkan-ke-utang",
+  "category": "Aksi Korporasi",
+  "title": "BINO Koreksi Dana IPO: Sisa Rp1,33 Miliar [Dialihkan] ke Utang",
+  "deck": "PT Perma Plasindo Tbk (BINO) mengoreksi laporan realisasi dana IPO, sisa Rp1,33 miliar yang semula untuk beli tanah di Klaten dialihkan jadi pelunasan utang ke pemegang saham sesuai persetujuan RUPS 2025.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BINO",
+   "IPO",
+   "penggunaan dana IPO",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/18213acfac_4ce6df71ff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pegadaian-sabet-bronze-di-ipma-global-project-award",
   "category": "BUMN",
   "title": "Pegadaian Sabet [Bronze] di IPMA Global Project Award",
@@ -38,6 +118,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/471459-wakili-indonesia-di-kancah-internasional-pegadaian-raih-penghargaan-internasional-ipma-global-project-excellence-award-2026"
+ },
+ {
+  "slug": "blog-koreksi-laporan-dana-ipo-rp138-2-miliar-tuntas-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "BLOG Koreksi Laporan, Dana IPO [Rp138,2 Miliar] Tuntas Terpakai",
+  "deck": "Trimitra Trans Persada mengoreksi laporan realisasi dana IPO per 30 Juni 2026: seluruh Rp138,23 miliar sudah terpakai untuk gudang pendingin dan truk.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLOG",
+   "IPO",
+   "realisasi dana",
+   "logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/18d5d1e6af_42af6e8a0a.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ikai-direksi-beli-5-juta-saham-hak-suara-ke-0-04",
@@ -6383,102 +6479,6 @@ var ARTICLES = [
    "dividen interim"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0358b98923_c9ecfd4084.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-direksi-lepas-40-juta-saham-lagi-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Lepas [40 Juta] Saham Lagi Lewat Repo",
-  "deck": "Samuel Sekuritas Indonesia melepas 40,07 juta saham RLCO seharga Rp4.290 lewat pencairan repo, hak suaranya turun dari 6,57% jadi 5,29%.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan saham",
-   "repo",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-2226-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baby-tuntaskan-dana-rights-issue-ke-akuisisi-emway-globalindo",
-  "category": "Aksi Korporasi",
-  "title": "BABY Tuntaskan Dana Rights Issue ke Akuisisi [Emway Globalindo]",
-  "deck": "BABY memastikan seluruh dana rights issue Rp138,46 miliar sudah terpakai penuh untuk mengakuisisi Emway Globalindo dan modal kerja Adidas Kids-Puma Kids.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BABY",
-   "rights issue",
-   "akuisisi Emway Globalindo",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/de96cec396_e56782a4be.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smle-gelar-public-expose-soal-akuisisi-sinar-aroma-sentosa",
-  "category": "Aksi Korporasi",
-  "title": "SMLE Gelar Public Expose Soal [Akuisisi] Sinar Aroma Sentosa",
-  "deck": "SMLE akan memaparkan rencana pengalihan saham anak usahanya, PT Sinar Aroma Sentosa, kepada DENICO FOOD Ingredients asal Denmark, dalam public expose 13 Oktober 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMLE",
-   "akuisisi",
-   "Sinar Aroma Sentosa",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a8070032a8_0a99c39149.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bexi-siapkan-dana-rp112-miliar-lunasi-obligasi-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "BEXI Siapkan Dana [Rp112 Miliar] Lunasi Obligasi Jatuh Tempo",
-  "deck": "Indonesia Eximbank (BEXI) menyatakan sudah menyiapkan dana Rp112 miliar untuk melunasi pokok Obligasi Berkelanjutan IV Tahap VII 2019 Seri D yang jatuh tempo 29 Oktober 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEXI",
-   "Indonesia Eximbank",
-   "obligasi",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0dec349fe5_35c7742f22.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "scnp-cetak-laba-usaha-turnaround-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "SCNP Cetak Laba Usaha [Turnaround] Semester I 2026",
-  "deck": "Pendapatan SCNP naik 41,7% jadi Rp156,58 miliar pada semester I 2026, mengantarkan perseroan meraih laba usaha positif Rp6,74 miliar dan laba bersih Rp12,55 miliar.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SCNP",
-   "kinerja keuangan",
-   "manufaktur elektronik",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fc538e9dfa_d81f9d8639.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bksl-direksi-tambah-saham-988-juta-lembar-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "BKSL: Direksi Tambah Saham 988 Juta Lembar via [Repo]",
-  "deck": "Samuel Sekuritas Indonesia menambah 988,14 juta saham Sentul City lewat perjanjian repo pada 29 September 2026, hak suara naik dari 5,00% jadi 5,59%.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKSL",
-   "Sentul City",
-   "repo saham",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-1682-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "4Zf2YtdtBM4",
+  "title": "Kadin Perkuat Dunia Usaha dengan Nilai Kebangsaan",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kadin Indonesia bersama Lemhannas RI menggelar Program Pemantapan Nilai-Nilai Kebangsaan Angkatan ke-121 untuk memperkuat pemahaman pengusaha mengenai nilai kebangsaan dan posisi dunia usaha.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya memperkuat kapasitas dan wawasan kebangsaan pelaku usaha sebagai bagian dari ekosistem bisnis nasional.",
+  "terbit": "2026-10-06T16:32:32+00:00"
+ },
+ {
+  "id": "5dGQQBXYsa0",
+  "title": "DPR Sahkan RUU Perlindungan Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Utama",
+  "summary": "DPR RI mengesahkan RUU Perlindungan Ketenagakerjaan menjadi undang-undang dalam rapat paripurna pada 6 Oktober 2026, di tengah aksi unjuk rasa buruh yang ditemui langsung oleh pimpinan DPR.",
+  "takeaway": "Pengesahan undang-undang ini penting diikuti karena berdampak langsung pada hak pekerja dan kewajiban dunia usaha dalam hubungan ketenagakerjaan.",
+  "terbit": "2026-10-06T16:13:29+00:00"
+ },
+ {
   "id": "3GLyflssEDk",
   "title": "DPR Umumkan Pengesahan RUU Pelindungan Ketenagakerjaan",
   "category": "Ketenagakerjaan",

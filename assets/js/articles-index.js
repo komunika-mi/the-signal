@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bpkh-umumkan-tiga-pemenang-inkubasi-startup-digital-haji",
+  "category": "Teknologi",
+  "title": "BPKH Umumkan Tiga Pemenang Inkubasi Startup [Digital] Haji",
+  "deck": "BPKH dan Goodstarter umumkan tiga pemenang inkubasi startup digital haji: fintech tabungan mikro pedesaan, pemantau kesehatan jemaah, dan pelacak keselamatan berbasis IoT.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/bpkh-umumkan-tiga-pemenang-inkubasi-startup-digital-haji.jpg",
+  "imageV": "muwxz5gl",
+  "tags": [
+   "BPKH",
+   "haji",
+   "startup digital",
+   "fintech syariah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471614-dorong-ekosistem-haji-berkelanjutan-bpkh-lahirkan-beragam-inovasi-digital-kaum-muda"
+ },
+ {
   "slug": "pegadaian-luncurkan-gadai-bebas-sewa-modal-untuk-nasabah-baru",
   "category": "Perbankan",
   "title": "Pegadaian Luncurkan Gadai [Bebas] Sewa Modal untuk Nasabah Baru",
@@ -6452,22 +6469,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/06edaa9a44_efea526fcf.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "mk-label-gula-garam-lemak-wajib-jelas-di-kemasan",
-  "category": "Industri",
-  "title": "MK: Label Gula, Garam, Lemak Wajib [Jelas] di Kemasan",
-  "deck": "MK menegaskan pelaku usaha dan pemerintah wajib memastikan kandungan gula, garam, dan lemak di label pangan kemasan disampaikan jelas, benar, dan mudah dipahami konsumen.",
-  "date": "29 September 2026",
-  "image": "assets/img/mk-label-gula-garam-lemak-wajib-jelas-di-kemasan.jpg",
-  "imageV": "mumwmoz4",
-  "tags": [
-   "MK",
-   "label pangan",
-   "gula garam lemak",
-   "perlindungan konsumen"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470255-mk-tegaskan-gula-garam-dan-lemak-di-label-pangan-kemasan-harus-jelas"
  }
 ];

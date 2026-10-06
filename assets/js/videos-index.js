@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "4Zf2YtdtBM4",
+  "title": "Kadin Perkuat Dunia Usaha dengan Nilai Kebangsaan",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kadin Indonesia bersama Lemhannas RI menggelar Program Pemantapan Nilai-Nilai Kebangsaan Angkatan ke-121 untuk memperkuat pemahaman pengusaha mengenai nilai kebangsaan dan posisi dunia usaha.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya memperkuat kapasitas dan wawasan kebangsaan pelaku usaha sebagai bagian dari ekosistem bisnis nasional."
+ },
+ {
+  "id": "5dGQQBXYsa0",
+  "title": "DPR Sahkan RUU Perlindungan Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Utama",
+  "summary": "DPR RI mengesahkan RUU Perlindungan Ketenagakerjaan menjadi undang-undang dalam rapat paripurna pada 6 Oktober 2026, di tengah aksi unjuk rasa buruh yang ditemui langsung oleh pimpinan DPR.",
+  "takeaway": "Pengesahan undang-undang ini penting diikuti karena berdampak langsung pada hak pekerja dan kewajiban dunia usaha dalam hubungan ketenagakerjaan."
+ },
+ {
   "id": "3GLyflssEDk",
   "title": "DPR Umumkan Pengesahan RUU Pelindungan Ketenagakerjaan",
   "category": "Ketenagakerjaan",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Menteri Keuangan Suahasil Nazara mengumumkan kewajiban surat utang pemerintah terkait Bantuan Likuiditas Bank Indonesia era krisis 1997-1998 telah dinyatakan lunas.",
   "takeaway": "Pelunasan utang BLBI menandai penyelesaian warisan krisis keuangan yang selama ini membebani fiskal negara."
- },
- {
-  "id": "tYJQGA17zpM",
-  "title": "Pemerintah Percepat Pengembangan Bioetanol sebagai BBM Alternatif",
-  "category": "Energi",
-  "program": "Kabar Pagi",
-  "summary": "Pemerintah pusat menggandeng pemerintah kabupaten dan kota untuk mempercepat pengembangan bioetanol sebagai bahan bakar alternatif, termasuk koordinasi penyiapan lahan.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya diversifikasi energi nasional dan pengurangan ketergantungan pada bahan bakar fosil impor."
- },
- {
-  "id": "uL-CzQJ1Amw",
-  "title": "Dua Kandidat Bersaing di Musprov Kadin Gorontalo",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "Musyawarah Provinsi Kadin Gorontalo mempertemukan dua kandidat yang bersaing memperebutkan kursi ketua, masing-masing membawa visi pengembangan dunia usaha daerah.",
-  "takeaway": "Pergantian kepemimpinan Kadin daerah berpengaruh pada arah kebijakan dan advokasi bagi pelaku usaha di Gorontalo."
  }
 ];

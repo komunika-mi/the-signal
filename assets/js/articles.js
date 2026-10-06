@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bpkh-umumkan-tiga-pemenang-inkubasi-startup-digital-haji",
+  "category": "Teknologi",
+  "title": "BPKH Umumkan Tiga Pemenang Inkubasi Startup [Digital] Haji",
+  "deck": "BPKH dan Goodstarter umumkan tiga pemenang inkubasi startup digital haji: fintech tabungan mikro pedesaan, pemantau kesehatan jemaah, dan pelacak keselamatan berbasis IoT.",
+  "image": "assets/img/bpkh-umumkan-tiga-pemenang-inkubasi-startup-digital-haji.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T23:45:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471614-dorong-ekosistem-haji-berkelanjutan-bpkh-lahirkan-beragam-inovasi-digital-kaum-muda",
+  "tags": [
+   "BPKH",
+   "haji",
+   "startup digital",
+   "fintech syariah"
+  ],
+  "body": [
+   "Badan Pengelola Keuangan Haji (BPKH) bersama Yayasan Inovasi Kebaikan Berkelanjutan, yang dikenal sebagai Goodstarter, menutup babak final Digital Entrepreneurship Challenge & Incubation 2026 di Jakarta, Senin (5/10). Program ini merupakan ajang pencarian dan pembinaan anak muda agar gagasan mereka bisa berkembang menjadi usaha digital yang teruji dan berdampak bagi ekosistem penyelenggaraan haji di Indonesia.",
+   "Sebelum sampai ke final, peserta melalui rangkaian tahapan mulai dari kurasi konsep, pemaparan di etalase daring, pemungutan suara publik, hingga pendampingan oleh mentor. Dari proses tersebut tersaring lima kelompok yang memaparkan purwarupa dan rencana bisnis mereka langsung di hadapan dewan juri. Anggota Dewan Pengawas BPKH, Heru Muara Sidik, mengatakan pembinaan inkubasi ini menitikberatkan pada kesiapan usaha secara menyeluruh, mulai dari pembuktian produk di pasar, kesiapan teknologi, sampai kemampuan bertahan secara operasional. Anggota Badan Pelaksana BPKH, Harry Alexander, menambahkan bahwa wirausaha berbasis teknologi di sektor haji harus menjawab kebutuhan nyata jemaah, bukan sekadar memenangkan kompetisi.",
+   "Juri menilai peserta dari kelayakan teknologi, perhitungan keuangan, kemampuan menggandeng mitra, dan manfaat yang ditawarkan. Juara pertama diraih KIBLAT, yang mengembangkan layanan keuangan digital penghubung tabungan haji mikro di pedesaan dengan BMT syariah, yaitu koperasi simpan pinjam berbasis syariah yang biasa melayani masyarakat desa. Juara kedua ditempati HaramainCare, besutan Tim Bismillah Menang dari Institut Teknologi Sepuluh Nopember, yang membangun sistem pemantauan kesehatan jemaah secara berjenjang. Juara ketiga jatuh ke HajjTrack, karya PT Vidhara Tekno Solusindo, yang memadukan perangkat IoT yang dikenakan jemaah dengan ruang kendali darurat untuk menjaga keselamatan selama ibadah haji."
+  ],
+  "fotoAdegan": "A health worker fastening a wearable monitor onto an elderly pilgrim's wrist inside a simple clinic room, morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/06/6ac524f6882bb-badan-pengelola-keuangan-haji-bpkh-dan-yayasan-inovasi-kebaikan-berkelanjutan-goodstarter-menggelar-babak-pamungkas-digital-entrepreneurship-challenge-incubation-2026-tuntas-dilaksanakan-di-jakarta-senin-510_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan atau anggaran, melainkan cara BPKH mencari solusi: lewat kompetisi terbuka untuk anak muda, tiga startup terpilih menyasar tiga titik masalah berbeda, yakni akses tabungan haji di pedesaan lewat BMT syariah, pemantauan kesehatan jemaah, dan pelacakan keselamatan lewat perangkat IoT. Yang terdampak langsung adalah pengelola BMT dan calon jemaah di daerah untuk solusi tabungan mikro, serta jemaah haji dan umrah untuk dua inovasi lainnya. Beritanya belum menyebut apakah BPKH akan menyuntikkan dana, menjalin kerja sama resmi, atau menjadwalkan uji coba lapangan bagi ketiga pemenang ini, padahal itu yang menentukan apakah inovasi ini berhenti di panggung kompetisi atau benar-benar dipakai saat musim haji mendatang. Yang perlu ditunggu adalah pengumuman lanjutan soal skema kemitraan atau proyek percontohan, karena tanpa itu status ketiga startup ini masih sebatas pemenang lomba, bukan bagian resmi dari layanan haji.",
+  "imageV": "muwxz5gl"
+ },
+ {
   "slug": "pegadaian-luncurkan-gadai-bebas-sewa-modal-untuk-nasabah-baru",
   "category": "Perbankan",
   "title": "Pegadaian Luncurkan Gadai [Bebas] Sewa Modal untuk Nasabah Baru",
@@ -159,7 +185,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pernyataan ini adalah rencana pemerintah meninjau ulang insentif pajak untuk investor, termasuk tax holiday atau pembebasan pajak badan bagi investasi besar, setelah pajak minimum global 15 persen mulai berlaku di banyak negara. Aturan itu membuat potongan pajak yang diberikan Indonesia bisa ditagih balik oleh negara asal investor, sehingga tax holiday berisiko kehilangan daya tariknya seperti semula. Pihak yang paling terdampak adalah perusahaan hilirisasi, misalnya smelter nikel atau industri pengolahan mineral, yang selama ini mengandalkan pembebasan pajak sebagai alasan utama berinvestasi di Indonesia. Pemerintah belum menjelaskan bentuk pengganti insentif ini, sehingga arah yang lebih mungkin adalah pergeseran dari pembebasan pajak ke bentuk insentif lain seperti subsidi langsung atau kredit pajak, mengikuti pola yang sudah terjadi di negara lain yang lebih dulu menerapkan pajak minimum global. Yang akan memastikan arah ini adalah aturan teknis dari Kementerian Keuangan atau Badan Koordinasi Penanaman Modal soal skema insentif baru, yang belum punya tenggat pasti dalam keterangan ini.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "swat-koreksi-lk-2025-aset-turun-karyawan-susut-jadi-97",
@@ -866,7 +892,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan kebijakan baru, melainkan perluasan sasaran hilirisasi: dari sebelumnya terpusat di nikel dan tambang, kini mencakup 28 komoditas termasuk sawit, karet, kelapa, dan hasil laut, dengan target investasi US$618,1 miliar dan tambahan ekspor mendekati US$500 miliar. Yang terdampak langsung adalah pelaku usaha di sektor pertanian dan perikanan yang didorong membangun pabrik pengolahan, serta daerah di luar Jawa yang sudah menampung 75,7 persen investasi hilirisasi pada semester I 2026 ini. Arahnya mengarah ke upaya pemerataan industri ke luar Jawa sekaligus mendorong sumbangan industri manufaktur ke ekonomi nasional naik dari 18,5 persen menjadi di atas 20 persen, selaras dengan target pertumbuhan ekonomi 8 persen yang disebut pemerintah. Yang akan menunjukkan apakah target besar ini benar bergerak sesuai rencana atau baru sebatas proyeksi adalah data realisasi investasi hilirisasi tahunan dibanding target US$618,1 miliar itu, yang biasanya dirilis bertahap oleh BKPM setiap kuartal.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "airlangga-pacu-investasi-as-target-tumbuh-8-di-2027",
@@ -894,7 +921,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari forum ini adalah target pertumbuhan ekonomi 8 persen pada 2027 dan pergeseran fokus investasi ke sektor teknologi seperti semikonduktor, pusat data berbasis AI, dan digitalisasi, bukan lagi sekadar manufaktur dasar. Pihak yang langsung terdampak adalah investor dan pelaku usaha asal AS yang jadi sasaran utama forum ini, juga pekerja di kawasan ekonomi khusus seperti Nongsa dan Batam-Bintan yang jadi pusat proyek teknologi tersebut. Pola ini, ditambah realisasi investasi KEK yang sudah mencapai Rp368 triliun, mengarah ke strategi memusatkan investasi asing di zona-zona khusus berteknologi tinggi ketimbang menyebar rata ke seluruh sektor. Yang akan menentukan apakah arah ini benar berjalan adalah implementasi perjanjian dagang timbal balik dengan AS dan laporan realisasi investasi KEK pada akhir 2026, karena baru di situ terlihat apakah target investasi teknologi tinggi benar-benar terwujud atau cuma rencana di atas kertas.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "kemendag-pilih-100-umkm-untuk-sertifikasi-barcode",

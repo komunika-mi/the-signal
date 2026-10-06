@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-perluas-target-hilirisasi-ke-sawit-dan-perikanan",
+  "category": "Industri",
+  "title": "Pemerintah Perluas Target Hilirisasi ke [Sawit] dan Perikanan",
+  "deck": "Menko Airlangga sebut peta jalan hilirisasi 28 komoditas menyasar investasi US$618,1 miliar dan tambahan ekspor mendekati US$500 miliar.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "hilirisasi",
+   "industri manufaktur",
+   "investasi",
+   "ekspor"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7130/menko-airlangga-hilirisasi-dan-transformasi-industri-jadi-kunci-dorong-pertumbuhan-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "airlangga-pacu-investasi-as-target-tumbuh-8-di-2027",
+  "category": "Makroekonomi",
+  "title": "Airlangga Pacu Investasi AS, Target Tumbuh [8]% di 2027",
+  "deck": "Dalam forum investasi AS-Indonesia, Menko Airlangga memaparkan data dagang dan investasi dua negara serta target pertumbuhan ekonomi 8 persen pada 2027 lewat sektor teknologi tinggi.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "Investasi AS",
+   "Pertumbuhan Ekonomi",
+   "Kawasan Ekonomi Khusus",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7131/perkuat-iklim-investasi-indonesia-as-menko-airlangga-tegaskan-komitmen-transformasi-ekonomi-berkelanjutan",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "kemendag-pilih-100-umkm-untuk-sertifikasi-barcode",
+  "category": "UMKM",
+  "title": "Kemendag Pilih 100 UMKM untuk Sertifikasi [Barcode]",
+  "deck": "Kemendag dan GS1 Indonesia memulai fasilitasi sertifikasi barcode bagi UMKM pangan kemasan dan kecantikan agar produknya bisa masuk ritel modern.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/kemendag-pilih-100-umkm-untuk-sertifikasi-barcode.jpg",
+  "imageV": "muwfoqbh",
+  "tags": [
+   "UMKM",
+   "Barcode",
+   "Kemendag",
+   "Ritel Modern"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/barcode-buka-peluang-produk-umkm-tembus-ritel",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "dr-waran-amrt-disesuaikan-usai-dividen-rp595-8-m",
   "category": "Aksi Korporasi",
   "title": "DR: Waran [AMRT] Disesuaikan usai Dividen Rp595,8 M",
@@ -221,7 +271,7 @@ var ARTICLES = [
   "title": "Surplus Dagang Agustus Melonjak, [Impor] Modal Anjlok 16%",
   "deck": "Neraca dagang Indonesia Agustus 2026 surplus USD3,55 miliar, melonjak dari USD0,12 miliar di Juli, didorong surplus nonmigas, sementara impor barang modal dan bahan baku justru turun tajam.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -1845,7 +1895,7 @@ var ARTICLES = [
   "title": "Investasi Harus Tumbuh [8-9%] Kejar Target Ekonomi 2027",
   "deck": "Kemenko Perekonomian menyebut investasi perlu tumbuh 8-9 persen demi target pertumbuhan ekonomi 6 persen pada 2027, didukung transisi energi hijau dan digitalisasi.",
   "date": "4 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "investasi",
    "transisi energi",
@@ -1861,7 +1911,7 @@ var ARTICLES = [
   "title": "PMI Manufaktur RI [Balik] ke Ekspansi, Inflasi Terjaga 3,28%",
   "deck": "Inflasi September terjaga di 3,28 persen, neraca dagang Januari-Agustus surplus US$7,25 miliar, dan PMI manufaktur naik ke 52,4 setelah sempat kontraksi Agustus.",
   "date": "4 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "Inflasi",
    "Neraca Dagang",
@@ -3736,7 +3786,7 @@ var ARTICLES = [
   "title": "Manufaktur RI Kembali [Ekspansi], Surplus Dagang Melonjak",
   "deck": "Inflasi September terkendali di 3,28 persen, neraca dagang Agustus surplus US$3,55 miliar, dan PMI manufaktur kembali ke zona ekspansi di 52,4, naik dari 49,8 bulan sebelumnya.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "Inflasi",
    "PMI Manufaktur",
@@ -4343,7 +4393,7 @@ var ARTICLES = [
   "title": "Ekspor Agustus Tembus [US$26,6 Miliar]",
   "deck": "Nilai ekspor Indonesia naik 1,51% dari Juli dan naik 6,72% dibanding Agustus tahun lalu.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "ekspor",
    "bps",
@@ -4359,7 +4409,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Jadi [0,30%]",
   "deck": "Harga barang dan jasa pada September 2026 naik 0,30% dibanding bulan sebelumnya, tertinggi sejak Juni yang mencatat 0,44%.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -4618,7 +4668,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Capai [3,28] Persen, Inti Lebih Rendah",
   "deck": "BPS mencatat inflasi tahunan 3,28 persen pada September 2026, dengan inflasi bulanan 0,30 persen dan inflasi inti 2,84 persen.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "Inflasi",
    "BPS",
@@ -4634,7 +4684,7 @@ var ARTICLES = [
   "title": "Harga Perdagangan Besar [Naik] 6,76 Persen di September",
   "deck": "BPS mencatat Indeks Harga Perdagangan Besar nasional naik 6,76 persen secara tahunan pada September 2026, dengan bahan bangunan jadi kelompok paling tertekan.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "IHPB",
    "harga grosir",
@@ -6431,54 +6481,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5233d33e41_19d253e8b5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "intp-gabungkan-dua-anak-usaha-pelayaran-aset-rp400-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "INTP [Gabungkan] Dua Anak Usaha Pelayaran, Aset Rp400,8 Miliar",
-  "deck": "Indocement menggabungkan dua entitas anak di bidang pelayaran, PT Lintas Bahana Abadi ke dalam PT Bahana Indonor, untuk efisiensi distribusi semen. Total aset gabungan mencapai Rp400,8 miliar.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INTP",
-   "Indocement",
-   "merger anak usaha",
-   "pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/86e6f3db5f_88a060d8ed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pada-total-liabilitas-naik-47-ditopang-utang-bank-baru",
-  "category": "Aksi Korporasi",
-  "title": "PADA: total [liabilitas] naik 47% ditopang utang bank baru",
-  "deck": "Total aset PT Personel Alih Daya (PADA) naik 26,6% dan total liabilitas naik 47% pada semester I 2026, terutama karena pinjaman bank baru dan piutang usaha dari segmen kurir yang baru dibuka.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PADA",
-   "laporan keuangan",
-   "utang bank",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260929162750-64447-0/FinancialStatement-2026-II-PADA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-sesuaikan-harga-pelaksanaan-waran-untr-usai-dividen-interim",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan Harga Pelaksanaan Waran UNTR usai [Dividen] Interim",
-  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A menyusul dividen interim UNTR Rp430 per saham, efektif awal Oktober 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "UNTR",
-   "waran terstruktur",
-   "dividen interim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0358b98923_c9ecfd4084.pdf",
   "sourceLabel": "IDX"
  }
 ];

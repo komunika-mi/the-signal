@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "nHD8zfoUQZg",
+  "title": "DPR Resmi Sahkan UU Perlindungan Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "DPR RI mengesahkan Undang-Undang Perlindungan Ketenagakerjaan dalam rapat paripurna ke-9 masa persidangan I tahun sidang 2026-2027.",
+  "takeaway": "Pengesahan UU ini relevan bagi pelaku usaha dan pekerja karena berpotensi mengubah aturan hubungan industrial di Indonesia."
+ },
+ {
   "id": "eZ4AKYXv69I",
   "title": "Tamsyi Tour Gelar Business Partner Gathering 2026",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Menteri Perdagangan Budi Santoso meninjau harga bahan pokok di Sleman sebagai bagian dari upaya pemerintah menjaga stabilitas harga dan daya beli masyarakat.",
   "takeaway": "Pemantauan harga sembako oleh pemerintah menjadi indikator penting kondisi inflasi dan daya beli masyarakat."
- },
- {
-  "id": "U5Tw4qPK4JI",
-  "title": "Kadin Gorontalo Lantik Pengurus Kabupaten/Kota",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Enam kepengurusan Kamar Dagang dan Industri kabupaten/kota di Provinsi Gorontalo resmi dilantik, disertai pesan tegas dari Ketua Umum Karateker Kadin setempat.",
-  "takeaway": "Pergantian pengurus Kadin daerah penting diikuti karena menyangkut arah kebijakan dan pendampingan bagi pelaku usaha di Gorontalo."
  }
 ];

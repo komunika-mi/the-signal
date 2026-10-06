@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "nHD8zfoUQZg",
+  "title": "DPR Resmi Sahkan UU Perlindungan Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "DPR RI mengesahkan Undang-Undang Perlindungan Ketenagakerjaan dalam rapat paripurna ke-9 masa persidangan I tahun sidang 2026-2027.",
+  "takeaway": "Pengesahan UU ini relevan bagi pelaku usaha dan pekerja karena berpotensi mengubah aturan hubungan industrial di Indonesia.",
+  "terbit": "2026-10-06T08:32:41+00:00"
+ },
+ {
   "id": "eZ4AKYXv69I",
   "title": "Tamsyi Tour Gelar Business Partner Gathering 2026",
   "category": "Bisnis",

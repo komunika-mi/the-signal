@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-dampingi-56-umk-depok-tangsel-urus-sertifikasi-halal",
+  "category": "UMKM",
+  "title": "Kemendag Dampingi [56] UMK Depok-Tangsel Urus Sertifikasi Halal",
+  "deck": "Kemendag memfasilitasi pendampingan sertifikasi halal bagi 56 UMK di Depok dan Tangerang Selatan pada kuartal keempat 2026, bagian dari dorongan produk lokal menembus pasar global.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/kemendag-dampingi-56-umk-depok-tangsel-urus-sertifikasi-halal.jpg",
+  "imageV": "muw94xud",
+  "tags": [
+   "UMKM",
+   "Sertifikasi Halal",
+   "Kemendag",
+   "Depok"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-umk-tembus-pasar-global-kemendag-fasilitasi-pendampingan-sertifikasi-halal",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pegadaian-sabet-bronze-di-ipma-global-project-award",
+  "category": "BUMN",
+  "title": "Pegadaian Sabet [Bronze] di IPMA Global Project Award",
+  "deck": "Pegadaian meraih Bronze Winner di IPMA Global Project Excellence Award 2026 di Hiroshima, Jepang, untuk kategori Project Management Office.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/pegadaian-sabet-bronze-di-ipma-global-project-award.jpg",
+  "imageV": "muw94y8c",
+  "tags": [
+   "pegadaian",
+   "bumn",
+   "ipma",
+   "penghargaan internasional"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471459-wakili-indonesia-di-kancah-internasional-pegadaian-raih-penghargaan-internasional-ipma-global-project-excellence-award-2026"
+ },
+ {
   "slug": "ikai-direksi-beli-5-juta-saham-hak-suara-ke-0-04",
   "category": "Aksi Korporasi",
   "title": "IKAI: Direksi [Beli] 5 Juta Saham, Hak Suara ke 0,04%",
@@ -6444,38 +6479,6 @@ var ARTICLES = [
    "kepemilikan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-1682-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raam-direksi-tambah-saham-487-000-lembar-rp83-6-juta",
-  "category": "Aksi Korporasi",
-  "title": "RAAM: Direksi [Tambah] Saham 487.000 Lembar, Rp83,6 Juta",
-  "deck": "Ram Jethmal Punjabi, direksi Tripar Multivision Plus, membeli saham RAAM lewat 10 transaksi kecil pada 28 September 2026. Hak suaranya naik tipis ke 68,84 persen.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAAM",
-   "Tripar Multivision Plus",
-   "kepemilikan saham",
-   "transaksi direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-0060-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vktr-pastikan-rights-issue-rp3-triliun-dilusi-capai-25-53",
-  "category": "Aksi Korporasi",
-  "title": "VKTR Pastikan Rights Issue Rp3 Triliun, [Dilusi] Capai 25,53%",
-  "deck": "OJK menyatakan efektif rights issue VKTR senilai hingga Rp3 triliun. BCI dan BIS berkomitmen jadi pembeli siaga hingga Rp2,27 triliun jika publik tak menyerap penuh.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VKTR",
-   "rights issue",
-   "PMHMETD I",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d08abf236a_42ff60d0a3.pdf",
   "sourceLabel": "IDX"
  }
 ];

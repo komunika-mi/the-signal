@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemendag-dampingi-56-umk-depok-tangsel-urus-sertifikasi-halal",
+  "category": "UMKM",
+  "title": "Kemendag Dampingi [56] UMK Depok-Tangsel Urus Sertifikasi Halal",
+  "deck": "Kemendag memfasilitasi pendampingan sertifikasi halal bagi 56 UMK di Depok dan Tangerang Selatan pada kuartal keempat 2026, bagian dari dorongan produk lokal menembus pasar global.",
+  "image": "assets/img/kemendag-dampingi-56-umk-depok-tangsel-urus-sertifikasi-halal.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T05:37:49.218Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-umk-tembus-pasar-global-kemendag-fasilitasi-pendampingan-sertifikasi-halal",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Sertifikasi Halal",
+   "Kemendag",
+   "Depok"
+  ],
+  "body": [
+   "Kementerian Perdagangan melalui Direktorat Standardisasi dan Pengendalian Mutu menggelar sosialisasi kebijakan halal di Kota Depok, Jawa Barat, pada Senin, 5 Oktober 2026, sebagai bagian dari pendampingan sertifikasi halal bagi pelaku usaha mikro dan kecil. Kegiatan ini merujuk pada Undang-Undang Nomor 33 Tahun 2014 tentang Jaminan Produk Halal dan Peraturan Pemerintah Nomor 42 Tahun 2024, yang mengatur kewajiban dan mekanisme sertifikasi halal bagi pelaku usaha. Bagi UMK, sertifikasi ini penting karena jadi syarat agar produk mereka bisa diterima pasar yang mensyaratkan label halal, termasuk pasar ekspor.",
+   "Pada kuartal keempat 2026, Kemendag menargetkan pendampingan sertifikasi halal untuk 56 UMK di Kota Depok dan Kota Tangerang Selatan. Program ini melibatkan Badan Penyelenggara Jaminan Produk Halal, Lembaga Pemeriksa Halal Balai Sertifikasi, serta Dinas Koperasi dan Usaha Mikro Kota Depok. Pendampingan mencakup pemahaman proses pengajuan, kelengkapan dokumen, hingga kesiapan proses produksi agar memenuhi ketentuan halal.",
+   "Kegiatan ini menjadi bagian dari program Dari Lokal untuk Global yang dijalankan Kemendag melalui empat klaster, yaitu UMKM Bisa Ekspor, Desa Bisa Ekspor, Kemitraan UMKM, dan Campuspreneur. Dalam program itu, sertifikasi halal diposisikan sebagai salah satu syarat dasar sebelum UMK didorong memasuki pasar nasional dan ekspor. Selain pendampingan sertifikasi halal, Kemendag juga menjalankan kegiatan pendukung seperti webinar dan bimbingan teknis terkait standar mutu produk.",
+   "Salah satu peserta sosialisasi, pemilik UKM Ibuun Kitchen Arni Wahyuni, mengatakan kegiatan ini membantunya memahami prosedur pengajuan sertifikasi halal. Ia berharap bekal dari pendampingan tersebut dapat membantu mengembangkan produk dan menjangkau pasar yang lebih luas."
+  ],
+  "fotoAdegan": "Small home kitchen workers packaging snack products into plastic pouches on a stainless steel table, soft morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/oFXsROCFJnCTl0nxmEWcuW8acbalvL1ymrIbwSKL.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari siaran ini adalah kepastian jumlah penerima manfaat, yakni 56 UMK di Depok dan Tangerang Selatan yang akan didampingi mengurus sertifikasi halal sepanjang kuartal keempat 2026. Yang terdampak langsung adalah pelaku UMK pangan dan kuliner di dua kota itu, sementara konsumen mendapat manfaat tidak langsung berupa kepastian status halal produk yang mereka beli. Siaran ini belum menjelaskan apakah 56 UMK itu porsi kecil atau besar dari total UMK yang belum tersertifikasi di dua kota tersebut, dan juga tidak menyebut berapa UMK dari batch pendampingan sebelumnya yang benar-benar berhasil mengantongi sertifikat halal. Yang perlu dipantau adalah data hasil pendampingan ini pada akhir kuartal keempat 2026, karena baru dari situ bisa diketahui apakah program semacam ini efektif mendorong kepatuhan UMK secara luas atau hanya menjangkau sebagian kecil saja.",
+  "imageV": "muw94xud"
+ },
+ {
+  "slug": "pegadaian-sabet-bronze-di-ipma-global-project-award",
+  "category": "BUMN",
+  "title": "Pegadaian Sabet [Bronze] di IPMA Global Project Award",
+  "deck": "Pegadaian meraih Bronze Winner di IPMA Global Project Excellence Award 2026 di Hiroshima, Jepang, untuk kategori Project Management Office.",
+  "image": "assets/img/pegadaian-sabet-bronze-di-ipma-global-project-award.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T11:44:53+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471459-wakili-indonesia-di-kancah-internasional-pegadaian-raih-penghargaan-internasional-ipma-global-project-excellence-award-2026",
+  "tags": [
+   "pegadaian",
+   "bumn",
+   "ipma",
+   "penghargaan internasional"
+  ],
+  "body": [
+   "PT Pegadaian (Persero) menambah daftar pengakuan internasionalnya setelah meraih predikat Bronze Winner pada ajang IPMA Global Project Excellence Award 2026 di Hiroshima, Jepang, pada Jumat, 18 September 2026. Pencapaian ini relevan bagi publik karena menyangkut salah satu BUMN jasa keuangan nonbank terbesar di Indonesia, yang kiprahnya kini juga diukur dari bagaimana perusahaan mengelola proyek-proyek transformasinya, bukan hanya dari bisnis gadai sehari-hari.",
+   "Gelar ini diraih di kategori Project Management Office (PMO), tempat Pegadaian bersaing dengan perusahaan dan organisasi dari 15 negara terpilih. IPMA Global Project Excellence Award dikenal sebagai salah satu kompetisi tata kelola proyek paling bergengsi di dunia, sehingga posisi tiga besar menjadi indikator bahwa standar manajemen proyek Pegadaian diakui setara dengan praktik di perusahaan global lain.",
+   "Capaian di Hiroshima ini menyambung rekam jejak tahun sebelumnya, ketika Pegadaian menyabet gelar World's Best PMO atau World Champion 2025 pada PMO Global Awards di Arizona, Amerika Serikat. Dua penghargaan berturut-turut ini menjadi penanda bahwa penataan ulang sistem manajemen proyek di internal Pegadaian berjalan konsisten, bukan sekadar capaian sesaat.",
+   "Chief Transformation Officer Pegadaian, Rully Yusuf, menyebut penghargaan ini sebagai pemicu, bukan titik akhir. \"Pencapaian internasional merupakan apresiasi yang sangat membanggakan bagi Pegadaian, tapi tentunya ini tidak lantas membuat kami cepat berpuas diri. Penghargaan ini justru kami jadikan fondasi dan pemicu komitmen untuk terus melakukan continuous improvement pada sistem project management, dan memastikan setiap inisiatif strategis perusahaan memberikan nilai tambah yang maksimal, tidak hanya bagi korporasi tetapi juga bagi masyarakat luas,\" ujarnya."
+  ],
+  "fotoAdegan": "Customers waiting at an Indonesian pawnshop branch counter while a staff member assesses gold jewelry, calm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/06/6ac47bec9c2d0-wakili-indonesia-di-kancah-internasional-pegadaian-raih-penghargaan-internasional-ipma-global-project-excellence-award-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret hanya status pengakuan: Pegadaian naik dari gelar juara dunia di PMO Global Awards 2025 ke peringkat tiga dunia di IPMA Global Project Excellence Award 2026, untuk kategori Project Management Office, yaitu unit internal yang mengatur bagaimana proyek-proyek perusahaan direncanakan dan diawasi. Pihak yang langsung terdampak adalah citra Pegadaian sebagai BUMN yang sedang berbenah cara mengelola proyek, karena penghargaan ini dipakai manajemen untuk menunjukkan kematangan tata kelola, bukan menyangkut nasabah gadai atau produk tertentu secara langsung. Berita ini tidak menyebut data konkret, seperti berapa proyek yang sudah berjalan dengan standar baru itu atau berapa penghematan biaya dan waktu yang dihasilkan, sehingga belum bisa dipastikan apakah pengakuan ini akan terasa sampai ke layanan atau kinerja keuangan Pegadaian. Yang perlu dipantau adalah apakah laporan tahunan atau laporan kinerja Pegadaian berikutnya memuat angka konkret dari penerapan sistem manajemen proyek ini, karena baru di situ arah dampaknya bisa diukur.",
+  "imageV": "muw94y8c"
+ },
+ {
   "slug": "ikai-direksi-beli-5-juta-saham-hak-suara-ke-0-04",
   "category": "Aksi Korporasi",
   "title": "IKAI: Direksi [Beli] 5 Juta Saham, Hak Suara ke 0,04%",

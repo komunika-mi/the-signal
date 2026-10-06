@@ -29,6 +29,33 @@ var ARTICLES = [
   "imageV": "muwxz5gl"
  },
  {
+  "slug": "post-akui-gagal-bayar-bunga-obligasi-likuiditas-tekan-rp83-m",
+  "category": "Aksi Korporasi",
+  "title": "POST Akui [Gagal Bayar] Bunga Obligasi, Likuiditas Tekan Rp83 M",
+  "deck": "Pos Indonesia menunda pembayaran bunga Obligasi I Seri B ke-15 senilai Rp11,75 miliar setelah likuiditasnya hanya menutupi 85,27 persen kewajiban jangka pendek.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T22:30:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/35621c8c72_0bed1b518e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "obligasi",
+   "likuiditas",
+   "restrukturisasi"
+  ],
+  "body": [
+   "PT Pos Indonesia (Persero), lewat surat Direktur Keuangan Fathul Anwar tertanggal 30 September 2026, menjawab permintaan penjelasan Bursa Efek Indonesia nomor S-12494/BEI.PP3/09-2026 tanggal 28 September 2026. Permintaan itu menyusul keterbukaan informasi Pos Indonesia pada 25 September 2026 soal permohonan penundaan pembayaran bunga Obligasi I Pos Indonesia Tahun 2022 Seri B ke-15, serta penurunan peringkat kredit perusahaan oleh Fitch Ratings.",
+   "Perseroan merinci posisi kas per 25 September 2026: kas dan setara kas sebesar Rp411,81 miliar, ditambah piutang yang diperkirakan tertagih dalam 30 hari sebesar Rp71,85 miliar, sehingga total sumber likuiditas mencapai Rp483,66 miliar. Jumlah itu lebih kecil dibanding kewajiban kas jangka pendek yang mencapai Rp567,18 miliar, termasuk bunga Obligasi I Seri B ke-15 senilai Rp11,75 miliar. Selisihnya, atau yang disebut Perseroan sebagai liquidity gap, mencapai Rp83,52 miliar, sehingga dana yang tersedia hanya mencakup sekitar 85,27 persen dari kebutuhan kas jangka pendek.",
+   "Perseroan menyebut penundaan bunga obligasi murni soal kekurangan kas saat jatuh tempo, bukan penghentian operasional. Usulan restrukturisasi yang diajukan ke pemegang Sukuk belum memperoleh persetujuan, dan Perseroan menyatakan akan tetap membahas ulang skema penyelesaian dengan kreditur, pemegang Obligasi, pemegang Sukuk, serta wali amanat. Untuk menutup kebutuhan dana, Perseroan menyebut sejumlah opsi: arus kas operasional, percepatan penagihan piutang, optimalisasi atau penjualan aset, pinjaman dari lembaga keuangan, dukungan pemegang saham atau pemerintah, dan sumber pendanaan lain. Proses ini didampingi PT Perusahaan Pengelola Aset (PPA), BUMN yang bertindak sebagai konsultan penyusun skema restrukturisasi, serta berjalan sejalan dengan arahan Danantara dalam rangka penyehatan keuangan Perseroan.",
+   "Terkait kelangsungan usaha, Perseroan menyatakan terus mengevaluasi kemampuannya secara berkala, dengan fokus pada lima hal: penguatan likuiditas dan arus kas, restrukturisasi kewajiban keuangan, efisiensi operasional, pengkajian sumber pendanaan baru, serta penguatan perencanaan dan pengendalian keuangan. Perseroan juga berkomitmen menyampaikan perkembangan material ke investor, pemegang Obligasi dan Sukuk, kreditur, serta regulator sesuai ketentuan keterbukaan informasi pasar modal."
+  ],
+  "fotoAdegan": "Workers sorting parcels on conveyor belts inside a large logistics warehouse, forklifts moving pallets under fluorescent lighting",
+  "takeaway": "Laporan ini condong negatif bagi Pos Indonesia, sebab isinya adalah pengakuan resmi bahwa perusahaan tidak mampu membayar bunga obligasi tepat waktu dan kas yang dimiliki hanya menutup 85,27 persen kebutuhan dana jangka pendek. Pos yang tersentuh adalah likuiditas dan arus kas, yaitu ketersediaan uang tunai dan dana yang bisa dicairkan cepat untuk membayar kewajiban, karena gap sebesar Rp83,52 miliar berarti ada bagian utang yang belum punya sumber dana pasti dan ini langsung memengaruhi kepercayaan pemegang obligasi serta sukuk terhadap kemampuan bayar Perseroan ke depan. Penurunan peringkat oleh Fitch Ratings yang disebut dalam surat ini juga biasanya membuat biaya utang baru jadi lebih mahal bagi perusahaan. Yang perlu dipantau berikutnya adalah hasil pembahasan ulang skema restrukturisasi dengan pemegang Sukuk yang sebelumnya menolak usulan Perseroan, serta apakah dukungan pendanaan dari Danantara dan pendampingan PT PPA bisa benar-benar menutup selisih likuiditas tersebut dalam waktu dekat.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pegadaian-luncurkan-gadai-bebas-sewa-modal-untuk-nasabah-baru",
   "category": "Perbankan",
   "title": "Pegadaian Luncurkan Gadai [Bebas] Sewa Modal untuk Nasabah Baru",

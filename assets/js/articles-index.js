@@ -22,6 +22,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/471614-dorong-ekosistem-haji-berkelanjutan-bpkh-lahirkan-beragam-inovasi-digital-kaum-muda"
  },
  {
+  "slug": "post-akui-gagal-bayar-bunga-obligasi-likuiditas-tekan-rp83-m",
+  "category": "Aksi Korporasi",
+  "title": "POST Akui [Gagal Bayar] Bunga Obligasi, Likuiditas Tekan Rp83 M",
+  "deck": "Pos Indonesia menunda pembayaran bunga Obligasi I Seri B ke-15 senilai Rp11,75 miliar setelah likuiditasnya hanya menutupi 85,27 persen kewajiban jangka pendek.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "obligasi",
+   "likuiditas",
+   "restrukturisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/35621c8c72_0bed1b518e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pegadaian-luncurkan-gadai-bebas-sewa-modal-untuk-nasabah-baru",
   "category": "Perbankan",
   "title": "Pegadaian Luncurkan Gadai [Bebas] Sewa Modal untuk Nasabah Baru",
@@ -6453,21 +6469,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-umk-naik-kelas-lewat-sertifikasi-halal",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "inkp-siapkan-rp500-75-miliar-untuk-pelunasan-obligasi-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "INKP Siapkan Rp500,75 Miliar untuk [Pelunasan] Obligasi-Sukuk",
-  "deck": "Obligasi dan sukuk Seri C senilai total Rp500,75 miliar jatuh tempo 30 September 2026 dan resmi dihapus dari pencatatan BEI. INKP sebut dana kas sudah disiapkan penuh.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi",
-   "sukuk",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/06edaa9a44_efea526fcf.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "epac-pastikan-rights-issue-2-miliar-saham-dilusi-37-71",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Pastikan Rights Issue 2 Miliar Saham, Dilusi [37,71%]",
+  "deck": "EPAC menanggapi permintaan penjelasan Bursa soal rencana rights issue 2 miliar saham baru, yang berpotensi mendilusi kepemilikan publik dari 36,94% menjadi 23,01% jika tidak ikut exercise.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EPAC",
+   "rights issue",
+   "PMHMETD",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24cfd32186_ee200afe21.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-kaji-ulang-insentif-pajak-investasi-usai-pajak-global",
   "category": "Makroekonomi",
   "title": "Pemerintah Kaji Ulang [Insentif Pajak] Investasi Usai Pajak Global",
@@ -214,6 +230,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "mbss-rombak-direksi-dan-komisaris-lewat-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "MBSS [Rombak] Direksi dan Komisaris Lewat RUPSLB",
+  "deck": "Mitrabahtera Segara Sejati mengganti direktur utama dan komisaris utama lewat RUPSLB 17 September 2026, menyusul pengunduran diri lima pengurus lama.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBSS",
+   "Pergantian Direksi",
+   "Komisaris",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6102bec10f_154bbe290a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-rhb-tegaskan-tak-ada-penyesuaian-waran-untr",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Tegaskan [Tak] Ada Penyesuaian Waran UNTR",
+  "deck": "RHB Sekuritas memastikan dua waran terstruktur UNTRDRCX6A dan UNTRDRCH7A tidak disesuaikan, meski UNTR membagikan dividen tunai yang diumumkan 29 September 2026.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "UNTR",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bded562ab8_7a42f7efa8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tira-bantah-punya-informasi-material-di-balik-volatilitas-sahamnya",
   "category": "Aksi Korporasi",
   "title": "TIRA Bantah Punya Informasi Material di Balik [Volatilitas] Sahamnya",
@@ -307,6 +355,22 @@ var ARTICLES = [
    "NCKL"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bdb75854bd_7376bf6e0f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baja-r-masa-perdagangan-hmetd-berakhir-7-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BAJA-R: Masa Perdagangan HMETD [Berakhir] 7 Oktober 2026",
+  "deck": "BEI mengingatkan bahwa perdagangan hak memesan efek terlebih dahulu (HMETD) BAJA-R berakhir 7 Oktober 2026, setelah itu rights ini dihapus dari pencatatan bursa.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "BAJA-R",
+   "HMETD",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan BAJA-R261007-No. Peng-00189BEI.POP10-2026.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -469,6 +533,102 @@ var ARTICLES = [
    "bank syariah"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d09fffbd0e_7df2a14f99.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hits-laba-bersih-kuartal-i-2026-ambrol-96-induk-berbalik-rugi",
+  "category": "Aksi Korporasi",
+  "title": "HITS: Laba Bersih Kuartal I 2026 [Ambrol] 96%, Induk Berbalik Rugi",
+  "deck": "Laporan interim HITS menunjukkan laba bersih turun 96 persen dan pemegang saham induk berbalik rugi, sementara arus kas operasi menipis tajam.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HITS",
+   "laporan keuangan",
+   "laba bersih",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261006152642-64464-0/FinancialStatement-2026-I-HITS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-gelar-public-expose-tahunan-20-oktober-di-jakarta",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Gelar [Public Expose] Tahunan 20 Oktober di Jakarta",
+  "deck": "Leyand International menjadwalkan paparan publik tahunan pada 20 Oktober 2026, forum yang jadi sorotan setelah ekuitas perusahaan tercatat negatif.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "Leyand International",
+   "public expose",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/85227bdcb1_df97d7efc4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smma-suntik-modal-us-3-6-juta-ke-simas-bank-di-timor-leste",
+  "category": "Aksi Korporasi",
+  "title": "SMMA [Suntik] Modal US$3,6 Juta ke Simas Bank di Timor Leste",
+  "deck": "SMMA menambah penyertaan modal US$3,6 juta ke anak usaha perbankannya, Simas Bank S.A. di Dili, Timor Leste, tanpa mengubah komposisi kepemilikan maupun status pengendali.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMA",
+   "Simas Bank",
+   "Timor Leste",
+   "penyertaan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/88248067f8_acedc98cca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-koreksi-bunga-pinjaman-ke-retj-jadi-9-per-tahun",
+  "category": "Aksi Korporasi",
+  "title": "RATU Koreksi Bunga Pinjaman ke RETJ Jadi [9%] per Tahun",
+  "deck": "Raharja Energi Cepu menaikkan bunga pinjaman Rp204,62 miliar ke anak usahanya RETJ dari 7,5% menjadi 9% per tahun, berlaku surut, demi menutup biaya dana dari obligasi yang diterbitkannya.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "transaksi afiliasi",
+   "obligasi korporasi",
+   "pinjaman anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21f9ed3fc4_75dbf006de.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tebe-pangkas-target-pendapatan-2026-jadi-rp451-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TEBE Pangkas Target [Pendapatan] 2026 Jadi Rp451 Miliar",
+  "deck": "Dalam public expose insidentil, manajemen Dana Brata Luhur memangkas target volume batubara 2026 menjadi 5,13 juta ton akibat keterlambatan izin tambang, menekan proyeksi pendapatan dan laba.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEBE",
+   "public expose",
+   "batubara",
+   "pelabuhan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ff6ebb6379_d54dc4c27d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bq-sesuaikan-harga-waran-asii-usai-dividen-rp98-saham",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan Harga Waran ASII Usai Dividen [Rp98]/Saham",
+  "deck": "PT Korea Investment and Sekuritas Indonesia (BQ) menyesuaikan rasio dan harga pelaksanaan waran terstruktur ASIIBQCV6A dan ASIIBQCZ6A menyusul dividen tunai ASII Rp98 per saham.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BQ",
+   "ASII",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/92b2fed149_72acddc2d5.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6309,171 +6469,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470244-proyek-lrt-city-mangkrak-mulai-dibangun-lagi-1-oktober-begini-nasib-konsumen"
- },
- {
-  "slug": "bei-lanjutkan-suspensi-32-saham-meski-kriteria-iii-1-6-dicabut",
-  "category": "Aksi Korporasi",
-  "title": "BEI Lanjutkan Suspensi 32 Saham Meski Kriteria [III.1.6] Dicabut",
-  "deck": "BEI tetap melanjutkan suspensi 32 saham meski kriteria Papan Pemantauan Khusus III.1.6 dicabut lewat revisi Peraturan I-X yang berlaku 28 September 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEI",
-   "suspensi saham",
-   "SMCB",
-   "TRIO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b9f1a7147f_9de6033661.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "truk-overload-di-tol-masih-tinggi-ri-kejar-zero-odol-2027",
-  "category": "Industri",
-  "title": "Truk [Overload] di Tol Masih Tinggi, RI Kejar Zero ODOL 2027",
-  "deck": "BPJT menambah alat pendeteksi truk kelebihan muatan di tol, sementara data Januari-Agustus 2026 menunjukkan hingga seperempat truk besar yang lewat masih melanggar batas muatan.",
-  "date": "29 September 2026",
-  "image": "assets/img/truk-overload-di-tol-masih-tinggi-ri-kejar-zero-odol-2027.jpg",
-  "imageV": "mumra0my",
-  "tags": [
-   "ODOL",
-   "truk overload",
-   "BPJT",
-   "jalan tol"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470230-kejar-zero-odol-2027-pemerintah-siapkan-tambahan-alat-pendeteksi-truk-overload-di-tol"
- },
- {
-  "slug": "sini-jelaskan-divestasi-ikn-rp31-8-miliar-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "SINI Jelaskan Divestasi IKN [Rp31,8 Miliar] ke Bursa",
-  "deck": "SINI menjelaskan ke BEI divestasi saham PT Interkayu Nusantara Rp31,8 miliar, yang menyumbang 40,11% pendapatan Perseroan, serta perkembangan rencana akuisisi oleh CUAN.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SINI",
-   "batu bara",
-   "divestasi",
-   "CUAN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/426c0da431_e27d3b5038.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gtbo-rkab-2026-belum-disetujui-utang-pajak-us-13-5-juta",
-  "category": "Aksi Korporasi",
-  "title": "GTBO: [RKAB] 2026 Belum Disetujui, Utang Pajak US$13,5 Juta",
-  "deck": "GTBO menjawab surat permintaan penjelasan Bursa: RKAB 2026 masih diproses Kementerian ESDM, utang pajak US$13,46 juta, dan koreksi saldo laba US$8,65 juta.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTBO",
-   "RKAB",
-   "utang pajak",
-   "tambang batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c286f67646_bf06878eba.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "idea-jawab-bursa-soal-rencana-pengambilalihan-oleh-nawasena",
-  "category": "Aksi Korporasi",
-  "title": "IDEA Jawab Bursa soal Rencana [Pengambilalihan] oleh Nawasena",
-  "deck": "IDEA menjelaskan ke BEI soal penurunan jumlah peserta akademi, kenaikan beban gaji, dan rencana pengambilalihan sahamnya oleh PT Nawasena Nugra Investama.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IDEA",
-   "pengambilalihan saham",
-   "akademi vokasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3efe86542e_9d241d967c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-bayar-kupon-obligasi-sukuk-rp61-6-miliar",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Bayar [Kupon] Obligasi-Sukuk Rp61,6 Miliar",
-  "deck": "WIFI membayar bunga dan imbalan Obligasi serta Sukuk Ijarah Berkelanjutan I 2026 Seri A-C senilai total Rp61,63 miliar kepada investor lewat KSEI, 28 September 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "obligasi",
-   "sukuk ijarah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8de77a60f9_c13729ee30.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penghasilan-nelayan-sinjai-naik-jadi-rp7-juta-per-bulan",
-  "category": "UMKM",
-  "title": "Penghasilan Nelayan Sinjai [Naik] Jadi Rp7 Juta per Bulan",
-  "deck": "Kampung Nelayan Merah Putih di Sinjai kembali kirim 12 ton tuna loin ke Jakarta, seiring klaim KKP soal naiknya pendapatan nelayan setempat sejak Mei lalu.",
-  "date": "29 September 2026",
-  "image": "assets/img/penghasilan-nelayan-sinjai-naik-jadi-rp7-juta-per-bulan.jpg",
-  "imageV": "mumo5h46",
-  "tags": [
-   "Kampung Nelayan Merah Putih",
-   "Nelayan Sinjai",
-   "Tuna",
-   "KKP"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/operasional-kampung-nelayan-merah-putih-bikin-penghasilan-nelayan-tongke-tongke-melonjak-rmwK.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "kkp-mulai-perluasan-pelabuhan-pengambengan-senilai-rp1-27-t",
-  "category": "Industri",
-  "title": "KKP Mulai [Perluasan] Pelabuhan Pengambengan Senilai Rp1,27 T",
-  "deck": "KKP memulai pengembangan Pelabuhan Perikanan Nusantara Pengambengan di Jembrana, Bali, senilai Rp1,27 triliun untuk perluasan kapasitas tangkap dan olah ikan hingga 2029.",
-  "date": "29 September 2026",
-  "image": "assets/img/kkp-mulai-perluasan-pelabuhan-pengambengan-senilai-rp1-27-t.jpg",
-  "imageV": "mumo5isz",
-  "tags": [
-   "KKP",
-   "Pelabuhan Perikanan",
-   "Bali",
-   "IsDB"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/menteri-trenggono-siapkan-ppn-pengambengan-jadi-pelabuhan-perikanan-kelas-dunia-wKBM.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "ri-korea-resmikan-pusat-pelatihan-sdm-industri-lepas-pantai",
-  "category": "Industri",
-  "title": "RI-Korea Resmikan Pusat Pelatihan [SDM] Industri Lepas Pantai",
-  "deck": "Indonesia dan Korea Selatan membuka pusat pelatihan simulator untuk industri offshore plant service di Jakarta, menargetkan 240 tenaga terlatih hingga 2029.",
-  "date": "29 September 2026",
-  "image": "assets/img/pabrik-gula.jpg",
-  "tags": [
-   "Kerja Sama Indonesia-Korea",
-   "Industri Lepas Pantai",
-   "Pelatihan SDM",
-   "STIP"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7118/gandeng-republik-korea-pemerintah-dorong-penguatan-sdm-industri-offshore-plant-service-melalui-kios-center",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "posbankum-tembus-83-960-rp1-2-triliun-dihemat-negara",
-  "category": "Makroekonomi",
-  "title": "Posbankum Tembus 83.960, Rp1,2 Triliun [Dihemat] Negara",
-  "deck": "Kemenkum melaporkan 83.960 pos bantuan hukum berdiri di seluruh desa dan kelurahan, dengan 14.000 dari 16.000 kasus selesai lewat mediasi sehingga negara hemat Rp1,2 triliun.",
-  "date": "29 September 2026",
-  "image": "assets/img/posbankum-tembus-83-960-rp1-2-triliun-dihemat-negara.jpg",
-  "imageV": "mumra15h",
-  "tags": [
-   "Posbankum",
-   "Restorative Justice",
-   "Bantuan Hukum",
-   "Kementerian Hukum"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470226-83960-posbankum-terbentuk-di-indonesia-14-ribu-kasus-selesai-tanpa-pengadilan"
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "epac-pastikan-rights-issue-2-miliar-saham-dilusi-37-71",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Pastikan Rights Issue 2 Miliar Saham, Dilusi [37,71%]",
+  "deck": "EPAC menanggapi permintaan penjelasan Bursa soal rencana rights issue 2 miliar saham baru, yang berpotensi mendilusi kepemilikan publik dari 36,94% menjadi 23,01% jika tidak ikut exercise.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T20:10:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24cfd32186_ee200afe21.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EPAC",
+  "tags": [
+   "EPAC",
+   "rights issue",
+   "PMHMETD",
+   "BEI"
+  ],
+  "body": [
+   "PT Megalestari Epack Sentosaraya Tbk (EPAC) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan dan pengingat bernomor S-12651/BEI.PP3/10-2026 tertanggal 2 Oktober 2026, terkait rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I) atau rights issue. Tanggapan yang diteken Direktur Keuangan Nicky Gunhadi pada 6 Oktober 2026 itu menegaskan bahwa perseroan tidak berencana menerbitkan waran atau efek lain bersamaan dengan rights issue ini, selain saham baru hasil pelaksanaan HMETD. Rencana pembelian kembali saham (buyback) yang sebelumnya diungkapkan disebut sebagai aksi korporasi terpisah dan tidak akan memakai dana hasil rights issue.",
+   "EPAC mengasumsikan penerbitan 2.000.000.000 saham baru dengan nilai nominal Rp50 per saham. Jika asumsi itu terealisasi, total saham beredar perseroan naik dari 3.303.400.000 lembar menjadi 5.303.400.000 lembar, atau modal disetor bertambah dari Rp165,17 miliar menjadi Rp265,17 miliar. Dalam skenario itu, kepemilikan PT Omni Multi Industrindo turun dari 24,22 persen menjadi 15,08 persen, PT Triple Berkah Bersama dari 38,84 persen menjadi 24,19 persen, dan publik dari 36,94 persen menjadi 23,01 persen. Namun EPAC juga memaparkan dua skenario pelaksanaan lain: jika seluruh pemegang saham lama mengambil haknya secara proporsional, persentase kepemilikan mereka kembali ke posisi semula. Sebaliknya, jika hanya PT Triple Berkah Bersama selaku pemegang saham utama yang mengeksekusi haknya sementara yang lain tidak, kepemilikannya bisa melonjak menjadi 61,91 persen, sedangkan Omni Multi Industrindo tetap 15,08 persen dan publik tergerus ke 23,01 persen.",
+   "EPAC mengungkapkan bahwa rasio HMETD dan harga pelaksanaan belum ditetapkan, dan akan diumumkan dalam prospektus dengan mempertimbangkan struktur permodalan, persetujuan RUPSLB, kondisi pasar, serta ketentuan OJK dan Bursa. Dana hasil rights issue direncanakan untuk belanja modal pengembangan usaha, pembayaran sebagian utang, dan modal kerja seperti pembelian bahan baku serta pembiayaan produksi dan distribusi, meski rincian persentase alokasinya belum ditentukan. Perseroan menyebut belum memiliki pembeli siaga untuk menyerap saham yang tidak diambil pemegang saham lain, dan menegaskan tidak ada pembatasan dari kreditur atau perjanjian yang dapat menghambat rencana ini. EPAC akan menggunakan laporan keuangan per 30 September 2026 sebagai basis prospektus, dan memastikan tidak ada rencana penerbitan efek bersifat ekuitas lain dalam 12 bulan setelah rights issue ini efektif."
+  ],
+  "fotoAdegan": "Factory workers monitoring large rolls of flexible plastic packaging film on an industrial production line, warehouse lighting",
+  "takeaway": "Tanggapan ini sendiri netral bagi fundamental EPAC, karena isinya baru menjawab syarat administratif dari Bursa dan belum ada keputusan final soal harga maupun rasio rights issue. Yang perlu dicermati adalah jumlah saham beredar, yaitu total lembar saham perseroan yang diperdagangkan di pasar, sebab rencana menambah hingga 2 miliar lembar baru berarti saham beredar bisa naik 60 persen dan berisiko menekan laba per saham dalam jangka pendek sebelum dana segarnya terpakai. Hak suara publik, yaitu porsi suara pemegang saham publik dalam keputusan perusahaan, juga berisiko tergerus dari 36,94 persen menjadi 23,01 persen kalau mereka tidak menyerap haknya sementara pemegang saham pengendali mengambil porsi penuh. Di sisi lain, rencana memakai dana itu untuk membayar sebagian utang dan modal kerja bisa memperbaiki arus kas, yaitu aliran uang masuk dan keluar perusahaan, kalau benar terealisasi. Yang perlu dipantau selanjutnya adalah penetapan rasio HMETD dan harga pelaksanaan yang dijanjikan akan diumumkan dalam Prospektus, serta hasil RUPSLB yang akan memutuskan persetujuan rencana ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pemerintah-kaji-ulang-insentif-pajak-investasi-usai-pajak-global",
   "category": "Makroekonomi",
   "title": "Pemerintah Kaji Ulang [Insentif Pajak] Investasi Usai Pajak Global",
@@ -345,6 +371,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "mbss-rombak-direksi-dan-komisaris-lewat-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "MBSS [Rombak] Direksi dan Komisaris Lewat RUPSLB",
+  "deck": "Mitrabahtera Segara Sejati mengganti direktur utama dan komisaris utama lewat RUPSLB 17 September 2026, menyusul pengunduran diri lima pengurus lama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T17:04:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6102bec10f_154bbe290a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBSS",
+  "tags": [
+   "MBSS",
+   "Pergantian Direksi",
+   "Komisaris",
+   "RUPSLB"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Mitrabahtera Segara Sejati Tbk pada 17 September 2026 di Sheraton Grand Gandaria City dihadiri pemegang 1.455.586.353 saham atau 83,17 persen dari total 1.750.026.639 saham perseroan. Rapat menyetujui pengunduran diri lima pengurus lama sekaligus, yaitu Armand Setiawan Tanudjaja dari Komisaris Utama, Wisma Bharuna dari Komisaris, Kevin Evan Suandar dari Komisaris Independen, Zhang Hao dari Direktur Utama, dan Susan Faustine dari Direktur. Pengunduran diri berlaku efektif sejak rapat ditutup, dengan pembebasan tanggung jawab (acquit et de charge) sepanjang tindakan mereka selama menjabat tercatat dalam pembukuan perseroan dan tidak melanggar aturan yang berlaku.",
+   "Pada rapat yang sama, pemegang saham mengangkat susunan pengurus baru. Rudy Heriyanto Adi Nugroho, yang berprofesi di kepolisian, ditetapkan sebagai Komisaris Utama, didampingi Rina Yohana sebagai Komisaris, serta Rico Rustombi dan Aryo Wibisono sebagai Komisaris Independen. Di jajaran direksi, Sugeng Pangraksa menjadi Direktur Utama bersama tiga direktur baru, yaitu Meita Liliasari, Hessa Afigthyven, dan Dyan Puspita Sari Dachi. Seluruh pengangkatan berlaku efektif 17 September 2026, dikukuhkan lewat Akta Pernyataan Keputusan Rapat Nomor 17, dan telah dicatat Kementerian Hukum melalui surat Nomor AHU-AH.01.09-0412825 tanggal 5 Oktober 2026.",
+   "Bersamaan dengan pergantian pengurus, Kementerian Hukum juga mencatat perubahan alamat lengkap perseroan dari domisili Jakarta Pusat menjadi berkedudukan di Jakarta Selatan, melalui surat terpisah Nomor AHU-AH.01.09-0412868 tanggal 5 Oktober 2026. Mitrabahtera Segara Sejati menyampaikan seluruh perubahan ini kepada OJK dan Bursa Efek Indonesia pada 6 Oktober 2026."
+  ],
+  "fotoAdegan": "A tugboat pushing a loaded coal barge along a wide brown river under an overcast sky, Indonesia.",
+  "takeaway": "Laporan ini netral bagi fundamental MBSS karena murni transisi pengurus lewat mekanisme RUPSLB yang sah dan sudah memenuhi kuorum, tanpa ada angka keuangan yang berubah atau sinyal masalah yang disebut dalam dokumen. Pergantian direksi dan komisaris memang tidak langsung mengubah pos seperti ekuitas, arus kas, atau laba per saham, tapi pelaku pasar tetap mencermatinya karena merekalah yang nanti menentukan arah strategi, kebijakan utang, dan alokasi dana perusahaan ke depan. Satu detail yang menarik perhatian adalah latar belakang Komisaris Utama baru dari kepolisian, meski dokumen ini tidak menjelaskan alasan di balik pemilihannya. Yang perlu dipantau selanjutnya adalah bagaimana tim manajemen baru ini tercermin dalam laporan keuangan dan langkah korporasi MBSS berikutnya, karena dokumen ini tidak menyebut agenda lanjutan setelah RUPSLB 17 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-rhb-tegaskan-tak-ada-penyesuaian-waran-untr",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Tegaskan [Tak] Ada Penyesuaian Waran UNTR",
+  "deck": "RHB Sekuritas memastikan dua waran terstruktur UNTRDRCX6A dan UNTRDRCH7A tidak disesuaikan, meski UNTR membagikan dividen tunai yang diumumkan 29 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T16:52:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bded562ab8_7a42f7efa8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "UNTR",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia mengumumkan bahwa dua waran terstruktur yang diterbitkannya dengan saham acuan PT United Tractors Tbk (UNTR), yaitu UNTRDRCX6A dan UNTRDRCH7A, tidak akan mendapat penyesuaian syarat dan ketentuan menyusul aksi korporasi pembagian dividen tunai UNTR yang diumumkan pada 29 September 2026. Keterbukaan ini disampaikan terpisah untuk kedua kode waran dan ditandatangani elektronik oleh Tan Cheong Hong, Head of Trading RHB Sekuritas Indonesia, pada 6 Oktober 2026 pukul 16.52 WIB.",
+   "RHB menjelaskan bahwa keputusan ini mengacu langsung pada syarat dan ketentuan yang sudah dipatok sejak penerbitan, yaitu Term Sheet dan Bagian 3 Prospektus Waran Terstruktur. Artinya, tidak semua aksi korporasi dari emiten acuan otomatis memicu perubahan rasio konversi atau harga pelaksanaan waran, dan dalam kasus dividen tunai UNTR kali ini, kriteria yang mewajibkan penyesuaian tidak terpenuhi. RHB menegaskan bahwa jika ada keraguan, prospektus dasar yang menjadi rujukan utama, bukan pengumuman ini.",
+   "Patut dicatat, hasil ini berbeda dari nasib waran lain yang juga terkait dividen UNTR senilai Rp1,48 triliun, yang dalam keterbukaan terpisah pada 29 September 2026 justru mengalami penyesuaian rasio dan harga pelaksanaan. Perbedaan ini menunjukkan bahwa dampak satu aksi korporasi yang sama bisa berbeda-beda hasilnya antara seri waran, tergantung ketentuan baku yang berlaku untuk masing-masing seri sejak awal penerbitan."
+  ],
+  "fotoAdegan": "Rows of large yellow mining and heavy equipment machines parked in an open dusty yard, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi RHB Sekuritas maupun bagi UNTR, karena keputusan tidak ada penyesuaian murni keluaran dari rumus baku yang sudah ditetapkan di prospektus sejak waran diterbitkan, bukan keputusan bisnis baru. Yang tersentuh bukan laporan keuangan RHB atau UNTR, melainkan nilai ekonomis waran di tangan investor pemegangnya, sebab harga saham UNTR biasanya terkoreksi sebesar nilai dividen per saham begitu dividen dibagikan, sementara harga pelaksanaan dan rasio konversi kedua waran ini tetap sama tanpa kompensasi apa pun. Menariknya, waran lain yang juga mengacu ke dividen UNTR yang sama justru disesuaikan pada pengumuman sebelumnya, jadi pemegang waran perlu memeriksa sendiri ketentuan seri waran yang mereka pegang karena hasilnya bisa berbeda-beda. Yang perlu dipantau pemegang UNTRDRCX6A dan UNTRDRCH7A selanjutnya adalah tanggal pencatatan dividen (ex-date) UNTR dan jatuh tempo kedua waran ini, karena dokumen ini sendiri tidak menyebutkan tanggal-tanggal tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tira-bantah-punya-informasi-material-di-balik-volatilitas-sahamnya",
   "category": "Aksi Korporasi",
   "title": "TIRA Bantah Punya Informasi Material di Balik [Volatilitas] Sahamnya",
@@ -498,6 +576,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Wide shot of a securities trading floor, several brokers walking between desks, blurred distant screens, bright overhead lighting",
   "takeaway": "Laporan ini netral bagi kelima emiten acuan, MDKA, MEDC, NCKL, TOWR, dan WIFI, karena yang menerbitkan produk ini adalah Maybank Sekuritas sebagai pihak ketiga, bukan aksi korporasi dari kelima perusahaan itu sendiri, sehingga tidak mengubah fundamental maupun operasional mereka. Waran terstruktur ini diselesaikan secara tunai, bukan dengan penyerahan saham baru, sehingga jumlah saham beredar dan laba per saham kelima emiten acuan tidak berubah sama sekali. Yang bergerak hanya arus kas antara Maybank Sekuritas dan pemegang waran kalau saham acuan akhirnya ditutup di atas harga pelaksanaan, itulah sebabnya instrumen ini disebut call warrant, produk yang nilainya mengikuti selisih harga saham acuan dengan harga yang sudah dipatok sejak awal. Yang perlu dipantau adalah pencatatan kelima seri ini di BEI pada 9 Oktober 2026 dan tanggal pelaksanaannya pada 30 Juli 2027, saat KPEI menghitung nilai penyelesaian dari rata rata harga penutupan saham acuan lima hari bursa sebelumnya, karena di titik itulah baru diketahui apakah pemegang waran menerima pembayaran tunai atau waran berakhir tanpa nilai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baja-r-masa-perdagangan-hmetd-berakhir-7-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BAJA-R: Masa Perdagangan HMETD [Berakhir] 7 Oktober 2026",
+  "deck": "BEI mengingatkan bahwa perdagangan hak memesan efek terlebih dahulu (HMETD) BAJA-R berakhir 7 Oktober 2026, setelah itu rights ini dihapus dari pencatatan bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T16:00:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan BAJA-R261007-No. Peng-00189BEI.POP10-2026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA-R",
+  "tags": [
+   "BAJA",
+   "BAJA-R",
+   "HMETD",
+   "rights issue"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia menerbitkan pengumuman No. Peng-00189/BEI.POP/10-2026 pada 6 Oktober 2026 yang mengingatkan kembali jadwal perdagangan hak memesan efek terlebih dahulu (HMETD) milik Saranacentral Bajatama Tbk dengan kode BAJA-R. Pengumuman ini merujuk pada keterangan sebelumnya, No. Peng-P-01129/BEI.PP1/09-2026 tertanggal 30 September 2026, mengenai pencatatan efek bersifat ekuitas dan pra pencatatan saham baru PT Saranacentral Bajatama Tbk (BAJA) yang tercatat di Papan Pengembangan.",
+   "BEI menegaskan bahwa masa perdagangan HMETD BAJA-R berlangsung sejak 1 Oktober 2026 hingga 7 Oktober 2026. Artinya, pemegang hak yang ingin menjual haknya di pasar masih punya waktu satu hari kerja lagi sejak pengumuman ini terbit. Terhitung mulai 8 Oktober 2026, BAJA-R tidak lagi diperdagangkan dan secara resmi dikeluarkan dari daftar efek yang tercatat di BEI.",
+   "Pengumuman ditandatangani secara elektronik oleh Pande Made Kusuma Ari A., Kepala Divisi Pengaturan dan Operasional Perdagangan, bersama Aditya Nugraha selaku Pejabat yang Mewakili (P.H.) Kepala Divisi Penilaian Perusahaan 1. BEI menyatakan bertanggung jawab penuh atas informasi dalam dokumen ini."
+  ],
+  "fotoAdegan": "Workers inspecting large rolls of galvanized steel sheet inside a metal processing factory, industrial lighting, Indonesia",
+  "takeaway": "Penilaian redaksi: laporan ini netral bagi emiten karena isinya sekadar mengulang jadwal yang sudah diumumkan sebelumnya, bukan informasi baru soal kondisi keuangan BAJA. Yang tersentuh adalah jumlah saham beredar, sebab HMETD adalah hak untuk membeli saham baru dengan harga tertentu; kalau haknya dieksekusi sebelum batas waktu, jumlah saham BAJA yang beredar bertambah dan laba per saham bagi pemegang lama berpotensi terdilusi, sementara hak yang tidak dijual atau dieksekusi sampai 7 Oktober akan hilang nilainya begitu BAJA-R berhenti diperdagangkan pada 8 Oktober 2026. Yang perlu dipantau berikutnya adalah pengumuman BEI soal hasil akhir pelaksanaan HMETD ini, termasuk jumlah saham baru yang benar-benar diterbitkan dan tanggal pencatatannya di bursa.",
   "sentimen": "netral"
  },
  {
@@ -765,6 +869,165 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Modern glass skyscraper exterior in Jakarta's business district, dusk light, tiny pedestrian figures on the sidewalk below",
   "takeaway": "Laporan ini netral bagi fundamental BTPS, sebab rencana buyback punya efek dua arah: laba per saham bisa terangkat, tapi modal bank justru menyusut, dan koreksi kuorum yang baru membuat rencana ini lebih sulit disetujui pemegang saham. Pos yang tersentuh adalah ekuitas, yaitu selisih aset dan utang yang jadi penyangga modal bank, yang menurut simulasi perseroan bisa berkurang sekitar Rp1 triliun atau hampir 10 persen jika buyback dijalankan penuh, sementara laba per saham, yaitu bagian laba yang jadi hak tiap lembar saham, naik karena jumlah saham yang beredar berkurang. Pelaku pasar mencermati dua angka ini karena penyangga modal yang menipis bisa membatasi kemampuan bank menyerap risiko kredit, sementara laba per saham yang naik biasa dibaca sebagai sinyal keyakinan manajemen atas nilai sahamnya. Yang perlu dipantau adalah hasil RUPSLB pada 13 Oktober 2026, karena kuorum keputusan kini harus mencapai dua pertiga suara yang hadir, lebih berat dari syarat sebelumnya, dengan batas pemberian kuasa elektronik lewat eASY.KSEI ditutup sehari sebelumnya, 12 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hits-laba-bersih-kuartal-i-2026-ambrol-96-induk-berbalik-rugi",
+  "category": "Aksi Korporasi",
+  "title": "HITS: Laba Bersih Kuartal I 2026 [Ambrol] 96%, Induk Berbalik Rugi",
+  "deck": "Laporan interim HITS menunjukkan laba bersih turun 96 persen dan pemegang saham induk berbalik rugi, sementara arus kas operasi menipis tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:20:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261006152642-64464-0/FinancialStatement-2026-I-HITS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HITS",
+  "tags": [
+   "HITS",
+   "laporan keuangan",
+   "laba bersih",
+   "arus kas"
+  ],
+  "body": [
+   "Humpuss Intermoda Transportasi Tbk (HITS) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode tiga bulan yang berakhir 31 Maret 2026. Laporan ini mengacu pada Peraturan Otoritas Jasa Keuangan Nomor 14/POJK.04/2022 tentang penyampaian laporan keuangan berkala emiten. Surat pengantarnya bernomor 427/DU-HIT/IX/2026, ditandatangani Direktur Utama Djoko Wiseno, dan baru disampaikan ke OJK serta Bursa Efek Indonesia pada 30 September 2026, meski periode yang dilaporkan berakhir enam bulan sebelumnya.",
+   "Pendapatan usaha HITS pada kuartal pertama 2026 tercatat US$34,28 juta, hampir sama dengan US$34,43 juta pada periode yang sama tahun lalu. Namun beban pokok pendapatan naik dari US$25,84 juta menjadi US$28,88 juta, sehingga laba bruto perusahaan tergerus 37 persen menjadi US$5,41 juta. Laba usaha pun turun 54 persen menjadi US$2,21 juta, sementara biaya keuangan, yaitu beban bunga atas pinjaman perusahaan, naik 23 persen menjadi US$2,48 juta. Akibatnya, laba bersih periode berjalan merosot 96 persen, dari US$3,17 juta menjadi hanya US$118.357. Bagian laba yang menjadi hak pemegang saham entitas induk bahkan berbalik menjadi rugi US$131.350, padahal pada kuartal pertama 2025 masih mencatat untung US$2,94 juta. Rugi per saham dasar tercatat US$0,00002, berbalik dari laba US$0,00041 per saham pada periode sebelumnya.",
+   "Di sisi arus kas, kas bersih yang dihasilkan dari aktivitas operasi anjlok dari US$21,49 juta pada kuartal pertama 2025 menjadi hanya US$2,19 juta pada kuartal pertama 2026. Total aset perusahaan naik tipis 1,6 persen menjadi US$340,86 juta per 31 Maret 2026, sementara total liabilitas naik 1,7 persen menjadi US$235,82 juta. Pinjaman bank jangka panjang melonjak 26,5 persen, dari US$49,75 juta menjadi US$62,95 juta. Dalam surat terpisah bernomor 428/DU-HIT/IX/2026 yang juga ditandatangani Djoko Wiseno, manajemen menyatakan tidak ada perubahan lebih dari 20 persen pada total aset maupun total liabilitas dibandingkan posisi akhir 2025, sesuai persyaratan Peraturan Bursa Nomor I-E.",
+   "Laporan ini juga mencantumkan tiga entitas anak yang dikonsolidasikan penuh dengan kepemilikan 100 persen, yaitu PT Humpuss Transportasi Kimia yang bergerak di transportasi laut dan beroperasi sejak 2004, PT Humpuss Maritim Internasional yang menyediakan jasa keagenan awak kapal sejak 2016, dan PT LIS Internasional yang menyediakan jasa sewa kapal sejak 2017, semuanya berkedudukan di Jakarta."
+  ],
+  "fotoAdegan": "A cargo tanker anchored near an Indonesian port at dusk, small tugboats nearby, calm harbor water",
+  "takeaway": "Laporan ini condong negatif bagi HITS, sebab laba bersih ambruk 96 persen dan bagian laba pemegang saham induk berbalik menjadi rugi, padahal pendapatan nyaris tidak bergerak, pertanda beban operasional dan bunga pinjaman yang menggerus margin, bukan soal penjualan yang melemah. Yang perlu diperhatikan investor adalah arus kas operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan usaha sehari-hari, yang turun hampir 90 persen, karena ini menunjukkan apakah bisnis inti menghasilkan uang kas nyata, bukan cuma laba di atas kertas. Pinjaman bank jangka panjang yang naik 26,5 persen juga penting dicermati karena menambah beban bunga yang harus ditanggung ke depan, sementara laba per saham yang berbalik negatif berarti setiap lembar saham publik kini menanggung kerugian, bukan keuntungan. Yang perlu dipantau selanjutnya adalah apakah tren rugi ini berlanjut di laporan keuangan kuartal berikutnya serta laporan auditan tahun buku 2026, dan apakah keterlambatan penyampaian laporan ini, yang baru diserahkan pada 30 September 2026 untuk periode yang berakhir Maret 2026, berbuntut sanksi administratif dari OJK atau Bursa Efek Indonesia.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lapd-gelar-public-expose-tahunan-20-oktober-di-jakarta",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Gelar [Public Expose] Tahunan 20 Oktober di Jakarta",
+  "deck": "Leyand International menjadwalkan paparan publik tahunan pada 20 Oktober 2026, forum yang jadi sorotan setelah ekuitas perusahaan tercatat negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:18:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/85227bdcb1_df97d7efc4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "Leyand International",
+   "public expose",
+   "going concern"
+  ],
+  "body": [
+   "PT Leyand International Tbk (LAPD) mengumumkan rencana penyelenggaraan Public Expose Tahunan untuk tahun buku 2025 pada Selasa, 20 Oktober 2026, pukul 13.00 WIB hingga selesai. Acara akan berlangsung secara tatap muka di Meeting Room Maia Hotel, Jalan HBR Motik No.4, kawasan Kebon Kacang, Tanah Abang, Jakarta Pusat.",
+   "Dalam surat yang ditandatangani Direktur Utama Jamal Abdul Nasir Bamadhaj, perseroan menyebutkan agenda acara adalah pemaparan kinerja dan perkembangan perusahaan, termasuk kondisi keuangan dan operasional serta rencana kegiatan usaha ke depan. Seluruh direksi dan komisaris LAPD dijadwalkan hadir, dan acara terbuka bagi pemegang saham, investor, analis, serta masyarakat umum sesuai tata cara yang ditetapkan perseroan.",
+   "Pemberitahuan ini disampaikan untuk memenuhi ketentuan Peraturan Bursa Efek Indonesia Nomor I-E tentang Kewajiban Penyampaian Informasi, sebagaimana diatur dalam Keputusan Direksi BEI Nomor Kep-00087/BEI/12-2025 tanggal 12 Desember 2025."
+  ],
+  "fotoAdegan": "Empty hotel meeting room with rows of chairs facing a podium, morning light through tall windows, Jakarta setting",
+  "takeaway": "Pengumuman jadwal ini sendiri netral, karena isinya cuma logistik acara dan tidak membawa angka keuangan baru. Yang membuatnya penting adalah konteksnya: pekan lalu perseroan melaporkan ekuitas yang berbalik negatif dan auditor meragukan kelangsungan usahanya, jadi forum ini kemungkinan jadi tempat manajemen pertama kali menjelaskan langsung ke publik soal kondisi modal dan arus kas perusahaan setelah temuan itu. Ekuitas negatif berarti total utang perusahaan sudah melebihi total asetnya, sehingga pemegang saham wajar menagih penjelasan soal rencana penyehatan keuangan. Yang perlu dipantau adalah jalannya Public Expose pada 20 Oktober 2026 pukul 13.00 WIB, khususnya apakah direksi dan komisaris yang hadir memberi langkah konkret menanggapi sorotan auditor tersebut atau hanya memaparkan rencana umum tanpa kepastian.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smma-suntik-modal-us-3-6-juta-ke-simas-bank-di-timor-leste",
+  "category": "Aksi Korporasi",
+  "title": "SMMA [Suntik] Modal US$3,6 Juta ke Simas Bank di Timor Leste",
+  "deck": "SMMA menambah penyertaan modal US$3,6 juta ke anak usaha perbankannya, Simas Bank S.A. di Dili, Timor Leste, tanpa mengubah komposisi kepemilikan maupun status pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:18:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/88248067f8_acedc98cca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMA",
+  "tags": [
+   "SMMA",
+   "Simas Bank",
+   "Timor Leste",
+   "penyertaan modal"
+  ],
+  "body": [
+   "PT Sinar Mas Multiartha Tbk (SMMA) menambah penyertaan modal pada anak usahanya, Simas Bank, S.A. yang berkedudukan di Dili, Timor Leste, senilai US$3,6 juta. Transaksi ini dilaksanakan pada Selasa, 6 Oktober 2026, dan merupakan bagian dari penambahan modal gabungan senilai US$6 juta yang disuntikkan empat pemegang saham Simas Bank secara proporsional, sehingga total saham bank itu bertambah dari 4 juta lembar menjadi 10 juta lembar dengan nilai nominal US$1 per saham.",
+   "Sebelum transaksi, SMMA memegang 2,4 juta saham Simas Bank senilai US$2,4 juta (60 persen), disusul Sinar Mas Insurance, S.A. dengan 1 juta saham (25 persen), Sinar Mas Life Insurance, S.A. dengan 400 ribu saham (10 persen), dan SMG Management Limited dengan 200 ribu saham (5 persen). Setelah transaksi, kepemilikan SMMA naik menjadi 6 juta saham senilai US$6 juta, Sinar Mas Insurance menjadi 2,5 juta saham, Sinar Mas Life Insurance menjadi 1 juta saham, dan SMG Management Limited menjadi 500 ribu saham. Persentase kepemilikan keempat pihak tidak berubah sama sekali, sehingga SMMA tetap menjadi pengendali Simas Bank dengan porsi 60 persen.",
+   "Perseroan menegaskan nilai transaksi ini tidak melebihi 20 persen dari ekuitas SMMA sehingga tidak tergolong transaksi material, bukan transaksi afiliasi, dan bukan transaksi benturan kepentingan sebagaimana diatur dalam Peraturan Nomor IX.E.1. Keterbukaan informasi ini ditandatangani oleh Wakil Direktur Utama Eric Buntoro, dengan Direksi menyatakan telah mengungkapkan seluruh informasi material terkait transaksi dan informasi tersebut tidak menyesatkan, setelah mendapat persetujuan Dewan Komisaris."
+  ],
+  "fotoAdegan": "A modest two-story bank branch building along a quiet tropical street in Dili, East Timor, palm trees lining the sidewalk, soft morning light",
+  "takeaway": "Laporan ini netral bagi SMMA, karena penambahan modal berlangsung proporsional di antara seluruh pemegang saham Simas Bank sehingga hak suara dan porsi kepemilikan SMMA tetap di 60 persen, dan nilainya sendiri diakui perseroan tidak sampai menggerus 20 persen ekuitasnya. Yang tersentuh di sini sebetulnya kas SMMA yang berpindah bentuk jadi penyertaan modal di anak usaha perbankan, bukan ekuitas atau jumlah saham beredar SMMA di bursa yang tetap sama; suntikan modal semacam ini biasa dibaca pelaku pasar sebagai penguatan permodalan bank supaya kapasitasnya menyalurkan pinjaman lebih besar, bukan tanda ada masalah di salah satu pihak. Yang perlu dipantau berikutnya adalah apakah SMMA kembali menambah modal ke Simas Bank jika ekspansi usahanya di Timor Leste berlanjut, serta bagaimana dampak arus kas investasi ini tercermin di laporan keuangan SMMA periode berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ratu-koreksi-bunga-pinjaman-ke-retj-jadi-9-per-tahun",
+  "category": "Aksi Korporasi",
+  "title": "RATU Koreksi Bunga Pinjaman ke RETJ Jadi [9%] per Tahun",
+  "deck": "Raharja Energi Cepu menaikkan bunga pinjaman Rp204,62 miliar ke anak usahanya RETJ dari 7,5% menjadi 9% per tahun, berlaku surut, demi menutup biaya dana dari obligasi yang diterbitkannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:10:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21f9ed3fc4_75dbf006de.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "transaksi afiliasi",
+   "obligasi korporasi",
+   "pinjaman anak usaha"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) melaporkan transaksi afiliasi berupa Addendum III dan Pernyataan Kembali Perjanjian Pinjaman dengan anak usahanya yang sahamnya dikuasai 99 persen, PT Raharja Energi Tanjung Jabung (RETJ), yang diteken pada 1 September 2026. Addendum ini mengubah perjanjian pinjaman senilai Rp204.624.059.255 yang semula dibuat pada 15 Desember 2025 dan sudah dua kali diubah sebelumnya, yakni Addendum I pada 12 Januari 2026 dan Addendum II pada 20 Januari 2026. Dana pinjaman itu sejak awal digunakan RETJ untuk melunasi lebih awal seluruh sisa utang fasilitas kredit term loan dari PT Bank Mandiri (Persero) Tbk, dengan sumber dana berasal dari hasil Penawaran Umum Obligasi I Raharja Energi Cepu Tahun 2026.",
+   "Perubahan utama dalam addendum ini adalah kenaikan suku bunga pinjaman dari 7,5 persen menjadi 9,0 persen per tahun. Perusahaan menjelaskan bahwa bunga 7,5 persen di perjanjian awal ditetapkan sebelum proses pembentukan harga atau book building Obligasi I REC rampung, sehingga acuannya saat itu adalah bunga fasilitas perbankan, bukan biaya dana riil REC dari obligasinya sendiri. Setelah kupon obligasi terbentuk final, ternyata biaya dana REC atas dana yang diteruskan ke RETJ berada di atas 7,5 persen, sehingga REC menanggung selisih rugi dari transaksi penerusan pinjaman ini. Kenaikan bunga menjadi 9,0 persen berlaku surut sejak Tanggal Efektif perjanjian, dan RETJ sudah membayar selisih bunga untuk periode dari Tanggal Efektif sampai 2 Juni 2026 berdasarkan tarif baru itu pada tanggal yang sama.",
+   "Selain bunga, jangka waktu pinjaman turut disesuaikan menjadi lima tahun agar sesuai dengan jadwal angsuran yang disepakati kedua pihak. Perusahaan menegaskan perubahan ini bukan pembaruan utang atau novasi, sehingga seluruh hak dan kewajiban yang sudah timbul sebelumnya, termasuk kewajiban pokok dan bunga, tetap berlaku. Ketentuan teknis lain yang dipertahankan antara lain bunga dihitung dari saldo pokok terutang dengan basis 360 hari setahun, jatuh tempo pembayaran bunga setiap tanggal 20, pemotongan PPh Pasal 23 atas bunga, pembayaran dalam dolar Amerika Serikat yang dikonversi memakai Kurs Tengah Bank Indonesia, serta opsi RETJ melunasi pinjaman lebih awal tanpa dikenai premi atau penalti."
+  ],
+  "fotoAdegan": "Technicians inspecting pipeline valves at an oil and gas processing facility in Cepu, East Java, daylight, wearing hard hats",
+  "takeaway": "Penyesuaian ini condong positif bagi RATU karena memperbaiki selisih bunga yang sebelumnya merugikan perusahaan, yakni biaya dana dari obligasinya sendiri yang ternyata lebih mahal dari bunga yang ia kenakan ke anak usahanya, dan kini margin itu dipulihkan lewat kenaikan bunga dari 7,5 persen menjadi 9,0 persen yang berlaku surut. Pos yang tersentuh adalah pendapatan bunga REC dari RETJ dan beban bunga RETJ, dua hal yang biasanya saling meniadakan di laporan keuangan konsolidasi karena pinjaman ini terjadi di antara perusahaan dalam satu grup yang sama, sehingga dampaknya lebih terasa pada laporan keuangan REC secara tersendiri. Pelaku pasar perlu mencermati berapa besar kupon final Obligasi I REC, karena dari situ bisa diukur apakah bunga 9,0 persen ini sudah cukup menutup biaya dana REC atau masih menyisakan selisih. Yang juga perlu dipantau adalah kepatuhan RETJ terhadap jadwal angsuran bulanan setiap tanggal 20 sesuai jangka waktu lima tahun yang baru disepakati, karena di situlah konsistensi pembayaran pinjaman afiliasi ini akan terlihat.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tebe-pangkas-target-pendapatan-2026-jadi-rp451-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TEBE Pangkas Target [Pendapatan] 2026 Jadi Rp451 Miliar",
+  "deck": "Dalam public expose insidentil, manajemen Dana Brata Luhur memangkas target volume batubara 2026 menjadi 5,13 juta ton akibat keterlambatan izin tambang, menekan proyeksi pendapatan dan laba.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T14:41:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ff6ebb6379_d54dc4c27d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEBE",
+  "tags": [
+   "TEBE",
+   "public expose",
+   "batubara",
+   "pelabuhan"
+  ],
+  "body": [
+   "PT Dana Brata Luhur Tbk (TEBE) menggelar Public Expose Insidentil pada 1 Oktober 2026 pukul 14.00 hingga 15.00 WIB melalui Zoom Meetings, dihadiri 50 peserta di luar manajemen dan karyawan perusahaan, terdiri dari pemegang saham, calon investor, dan perusahaan sekuritas seperti BNI Sekuritas serta manajer investasi seperti Ashmore dan Schroder. Acara dibuka oleh Direktur Welly Susanto dan turut dihadiri Direktur Didik Prasetyo, Corporate Secretary Alfon Mubarak, anggota Komite Nominasi dan Remunerasi Aries Subhan, serta Finance General Manager Fajril Amirul. Perusahaan menyebut acara ini sebagai bagian dari kewajiban keterbukaan informasi insidentil sesuai Peraturan Bursa I-E, yang mewajibkan perusahaan tercatat menggelar paparan publik jika ada peristiwa yang berpotensi memengaruhi nilai efek atau keputusan investor.",
+   "Dalam sesi tanya jawab, manajemen mengungkapkan bahwa volume angkutan batubara (throughput) yang ditargetkan sampai akhir 2026 turun menjadi 5,13 juta ton, dari 7,1 juta ton pada 2025. Penyebab utamanya adalah keterlambatan penerbitan RKAB, yakni rencana kerja dan anggaran biaya tambang tahunan, oleh pemilik izin usaha pertambangan (IUP) yang menjadi mitra bongkar muat perusahaan. Sejalan dengan itu, target pendapatan 2026 ditetapkan Rp451 miliar dan laba sebelum pajak Rp62 miliar, keduanya lebih rendah dibanding realisasi 2025. Terkait dividen, manajemen menyatakan kebijakan baru akan diumumkan setelah laporan kinerja akhir tahun selesai, dengan pertimbangan kebutuhan dana untuk rencana ekspansi usaha dan pembangunan kantor baru di Banjarmasin.",
+   "Untuk menyiasati penurunan produksi batubara dari pemilik tambang, perusahaan menyebut tengah mengkaji ekspansi ke jasa kepelabuhanan di luar batubara lewat anak usahanya, PT Pelabuhan Talenta Bumi, yang telah berstatus Badan Usaha Kepelabuhanan (BUP) dan beroperasi sejak awal 2026. Langkah lain yang disebutkan adalah efisiensi biaya melalui penataan ulang stockpile untuk menghemat bahan bakar, serta penjajakan izin ekspor batubara seiring dimulainya bisnis trading. Secara bulanan, volume throughput tercatat naik dari 585 ribu ton pada Agustus 2026 menjadi 810 ribu ton pada September 2026, yang membuat manajemen optimistis kinerja kuartal III 2026 akan lebih baik dibanding kuartal sebelumnya meski data lengkapnya belum final.",
+   "Seorang analis dari Private Equity Holdings juga mempertanyakan perhitungan laba bersih periode Juli-Agustus 2026 yang disebut sebesar Rp27,2 miliar dengan margin 18,4 persen, namun belum memperhitungkan beban imbalan kerja dan pajak. Manajemen menjelaskan bahwa angka tersebut adalah hitungan sementara internal, dan setelah dikurangi estimasi pajak badan 15,8 persen serta beban imbalan kerja, laba bersih diperkirakan turun sekitar 3 persen dari angka yang dipaparkan tersebut, dengan perhitungan final menyusul saat tutup buku kuartal III 2026. Manajemen juga menegaskan ekspansi trading batubara dan komoditas non-batubara untuk konsumsi internal grup akan tetap mengacu pada aturan pasar modal terkait kewajaran harga dan persetujuan transaksi."
+  ],
+  "fotoAdegan": "Tugboat pushing a coal-laden barge away from a river port loading terminal, overcast sky, dock workers in the distance",
+  "takeaway": "Laporan ini condong negatif bagi TEBE, karena manajemen sendiri memangkas target volume batubara 2026 sekitar 28 persen dibanding 2025 akibat keterlambatan izin tambang dari pemilik IUP, yang otomatis menyeret turun target pendapatan dan laba tahun ini. Pos kinerja yang tersentuh adalah pendapatan dan laba sebelum pajak, dua angka acuan utama investor untuk menilai profitabilitas perusahaan jasa pelabuhan batubara ini, sehingga proyeksi keduanya yang lebih rendah dari tahun sebelumnya patut jadi perhatian meski ada sinyal pemulihan volume bulanan pada Agustus dan September. Faktor penyeimbangnya adalah rencana diversifikasi usaha lewat anak usaha PT Pelabuhan Talenta Bumi yang sudah berstatus Badan Usaha Kepelabuhanan sejak awal 2026, serta langkah efisiensi biaya yang disebut manajemen. Yang perlu dipantau berikutnya adalah penutupan kinerja kuartal III 2026, yang menurut manajemen akan dihitung ulang dengan memasukkan beban pajak dan imbalan kerja, serta kelanjutan izin ekspor batubara yang masih dalam proses penjajakan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bq-sesuaikan-harga-waran-asii-usai-dividen-rp98-saham",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan Harga Waran ASII Usai Dividen [Rp98]/Saham",
+  "deck": "PT Korea Investment and Sekuritas Indonesia (BQ) menyesuaikan rasio dan harga pelaksanaan waran terstruktur ASIIBQCV6A dan ASIIBQCZ6A menyusul dividen tunai ASII Rp98 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T14:33:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/92b2fed149_72acddc2d5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "ASII",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia dengan kode emiten BQ mengumumkan penyesuaian syarat dan ketentuan dua waran terstruktur yang diterbitkannya, ASIIBQCV6A dan ASIIBQCZ6A. Penyesuaian ini dipicu oleh keterbukaan informasi PT Astra International Tbk (ASII) pada 2 Oktober 2026 tentang pembagian dividen tunai tahun buku 2025 senilai total Rp3,89 triliun, atau Rp98 per saham, yang telah diputuskan direksi dan disetujui dewan komisaris ASII.",
+   "Dokumen tersebut memuat jadwal lengkap pembagian dividen ASII yang menjadi acuan penyesuaian. Tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 12 Oktober 2026, disusul tanggal ex dividen pada 13 Oktober 2026. Di pasar tunai, cum dividen berlaku 14 Oktober 2026 dan ex dividen 15 Oktober 2026. Daftar pemegang saham yang berhak menerima dividen ditutup pada 14 Oktober 2026 pukul 16.00, dengan pembayaran dividen dijadwalkan paling lambat 30 Oktober 2026.",
+   "Karena ASII adalah saham acuan di balik dua waran terstruktur itu, pembagian dividen membuat rasio pelaksanaan dan harga pelaksanaan kedua waran perlu disesuaikan memakai rumus yang mengurangi harga penutupan saham ASII pada hari cum dividen terakhir dengan nilai dividen per saham, lalu dibandingkan dengan harga penutupan itu sendiri. BQ selaku penerbit menegaskan bahwa penyesuaian ini tidak otomatis dilakukan. Berdasarkan kebijakan sepihak penerbit dan tanpa kewajiban apa pun kepada pemegang waran, BQ bisa saja memutuskan tidak melakukan penyesuaian apabila dianggap tidak tepat.",
+   "Pengumuman yang diterbitkan di Jakarta pada 6 Oktober 2026 ini ditandatangani oleh Eric Gunawan selaku Senior Manager PT Korea Investment and Sekuritas Indonesia."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's SCBD financial district reflecting afternoon sunlight, light traffic passing below",
+  "takeaway": "Laporan ini netral bagi BQ karena sifatnya murni mekanis, hanya mengikuti aturan baku penyesuaian waran saat saham acuannya membagikan dividen, bukan cerminan kondisi keuangan BQ atau ASII. Yang tersentuh adalah harga pelaksanaan dan rasio pelaksanaan waran terstruktur, yakni harga patokan dan jumlah saham yang bisa diperoleh pemegang waran saat menukarkan produknya. Keduanya perlu disesuaikan sebab dividen yang dibagikan ASII membuat harga sahamnya otomatis turun sebesar nilai dividen begitu status ex dividen berlaku, sehingga tanpa penyesuaian nilai waran bisa tergerus. Pemegang kedua waran ini perlu memantau apakah BQ benar menerapkan rumus penyesuaian tersebut setelah tanggal ex dividen 13 Oktober 2026 di pasar reguler, mengingat penerbit punya hak sepihak untuk tidak menyesuaikan, serta mencermati tanggal pembayaran dividen ASII pada 30 Oktober 2026 sebagai titik akhir rangkaian aksi korporasi ini.",
   "sentimen": "netral"
  },
  {

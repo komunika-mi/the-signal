@@ -3,6 +3,293 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tira-bantah-punya-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "TIRA Bantah Punya Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Merespons permintaan penjelasan BEI soal volatilitas transaksi, Tira Austenite menyatakan tidak mengetahui ada info material maupun rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T16:28:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/79172ba82b_86c6fbad00.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TIRA",
+  "tags": [
+   "TIRA",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Tira Austenite Tbk (TIRA) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-12730/BEI.PP2/10-2026 terkait volatilitas transaksi saham perseroan. Dalam surat balasan bernomor TA-LGL/023/CORP-SEC/X/2026 yang diteken Corporate Secretary Soeseno Adi pada 6 Oktober 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi.",
+   "Perseroan juga menegaskan tidak mengetahui informasi yang dapat memengaruhi harga saham sesuai ketentuan III.2.1 Peraturan Nomor I-E BEI, serta tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam Peraturan OJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan perubahan kepemilikan saham. Untuk poin mengenai rencana aksi korporasi, TIRA menyatakan tidak memiliki rencana tindakan korporasi dalam waktu dekat, termasuk yang dapat berdampak pada status pencatatan sahamnya di bursa, setidaknya dalam tiga bulan ke depan.",
+   "Pada poin terakhir surat, perseroan menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang bersifat material dan dapat memengaruhi harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik. Dengan kata lain, seluruh lima pertanyaan standar dari BEI dijawab negatif oleh manajemen TIRA."
+  ],
+  "fotoAdegan": "Exterior plaza of a glass office tower in Jakarta's business district with pedestrians walking past, midday light, no signage visible",
+  "takeaway": "Penilaian saya netral, sebab ini jawaban standar bahwa tidak ada perubahan fundamental yang mendasari pergerakan harga sahamnya, bukan kabar baik maupun buruk bagi kinerja perseroan. Surat semacam ini keluar ketika bursa mendeteksi lonjakan atau penurunan transaksi saham yang tidak wajar, lalu meminta emiten mengonfirmasi apakah ada rahasia dapur yang belum dibuka ke publik, semacam cek kesehatan rutin dari otoritas pasar, bukan laporan soal laba atau utang perseroan. Karena TIRA menjawab tidak ada apa-apa di baliknya, itu berarti pergerakan harga sahamnya kemungkinan lebih didorong oleh aksi jual beli investor di pasar ketimbang perubahan bisnis riil. Yang perlu dipantau selanjutnya adalah apakah TIRA benar-benar tidak merilis aksi korporasi baru dalam tiga bulan ke depan seperti yang dijanjikan dalam surat ini, serta apakah pola transaksi sahamnya mereda atau justru memicu surat serupa lagi dari bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gula-ungkap-kas-anjlok-73-meski-penjualan-melonjak-121",
+  "category": "Aksi Korporasi",
+  "title": "GULA ungkap kas anjlok 73% meski penjualan [melonjak] 121%",
+  "deck": "GULA jawab permintaan Bursa: kas turun 73,1%, arus kas operasi negatif Rp29,4 miliar, pinjaman BRI nyaris penuh, meski penjualan melonjak 121,69% jadi Rp144,32 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T16:27:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7c74c4b424_c185320a12.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GULA",
+  "tags": [
+   "GULA",
+   "arus kas",
+   "pinjaman bank",
+   "Aman Agrindo"
+  ],
+  "body": [
+   "Dalam surat jawaban kepada Bursa Efek Indonesia, PT Aman Agrindo Tbk (GULA) menjelaskan penjualannya pada kuartal II 2026 melonjak 121,69 persen menjadi Rp144,32 miliar, dari Rp65,13 miliar pada periode yang sama tahun sebelumnya. Perusahaan menyebut lonjakan ini terutama ditopang pelanggan baru, yakni PT Maju Untung Bersama yang membeli gula senilai Rp43,14 miliar dan PT Kino Indonesia Tbk senilai Rp9,05 miliar. Pembelian dari pelanggan lama, PT Bersama Era Sentosa Tama, juga melonjak dari Rp6,55 miliar menjadi Rp28,47 miliar, sementara pelanggan terbesar, CV Sari Makmur Jaya, tetap stabil di kisaran Rp56,59 miliar.",
+   "Di sisi lain, kas dan setara kas perusahaan turun 73,1 persen, dengan arus kas dari kegiatan operasi tercatat negatif Rp29,40 miliar. Manajemen menyebut penyebabnya adalah pembayaran kepada pemasok mesin Henan Ocean Machinery Equipment dan kontraktor, ditambah pembayaran bunga pinjaman bank yang lebih besar dari penerimaan kas dari pelanggan. Pinjaman ke PT Bank Rakyat Indonesia (BRI) per 30 Juni 2026 sudah terpakai Rp74,99 miliar dari plafon Rp75 miliar, dengan bunga 11 persen dan jatuh tempo 20 Agustus 2026 yang diperpanjang hingga 20 November 2026. Perusahaan mengakui belum memenuhi satu syarat pinjaman dari BRI, yaitu kewajiban mengendapkan rata-rata dana di rekening bank (CASA) senilai 20 persen dari plafon kredit, dan menyatakan akan meminta keringanan ke bank jika terjadi pelanggaran syarat tersebut.",
+   "Perusahaan juga mengungkapkan uang muka pembelian gula senilai Rp14 miliar kepada pemasok PT Sumber Mutiara Indah Perdana belum berubah sejak akhir 2025 karena pemasok itu berhenti beroperasi akibat kasus hukum yang masih berjalan di Kejaksaan. Aman Agrindo berencana mencadangkan penghapusan uang muka tersebut jika penagihan tidak berhasil sampai akhir tahun ini. Soal dana hasil penawaran umum, realisasi per 30 Juni 2026 untuk pembangunan pabrik dan modal kerja sudah 100 persen terpakai, masing-masing Rp10,07 miliar dan Rp28,88 miliar, sementara pembelian dan instalasi mesin baru terealisasi 89 persen atau Rp10,18 miliar dari rencana Rp11,39 miliar, menyisakan Rp1,22 miliar. Perusahaan juga mengakui sejumlah temuan Bursa soal laporan keuangannya, termasuk ketidaksesuaian penyajian liabilitas sewa dan tertukarnya judul Catatan 27 dan 28, yang disebut akan menjadi perhatian untuk pelaporan berikutnya."
+  ],
+  "fotoAdegan": "Workers stacking sacks of refined sugar inside a warehouse, forklift nearby, tall industrial shelving, daylight through high windows",
+  "takeaway": "Laporan ini condong negatif karena masalah likuiditas yang terungkap di sini lebih serius dibanding cerita penjualan yang tumbuh pesat. Arus kas dari operasi, yaitu uang tunai yang keluar masuk dari kegiatan usaha sehari-hari, tercatat negatif Rp29,4 miliar, artinya perusahaan mengeluarkan uang lebih banyak daripada yang diterima dari pelanggan. Rasio cepat yang hanya 0,40 kali menunjukkan aset lancar yang mudah dicairkan cuma menutup 40 persen utang jangka pendek, dan pinjaman ke BRI sudah terpakai Rp74,99 miliar dari plafon Rp75 miliar sehingga ruang pinjam tambahan nyaris tidak ada, ditambah satu syarat pinjaman soal saldo mengendap di bank yang belum terpenuhi. Yang perlu dipantau adalah keputusan perpanjangan pinjaman BRI pada 20 November 2026 dan nasib uang muka Rp14 miliar ke pemasok SMIP yang akan dihapusbukukan akhir tahun ini kalau penagihan tidak berhasil.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "zp-pastikan-tak-ada-penyesuaian-waran-untr-usai-dividen",
+  "category": "Aksi Korporasi",
+  "title": "ZP Pastikan Tak Ada Penyesuaian Waran [UNTR] usai Dividen",
+  "deck": "Maybank Sekuritas Indonesia menyatakan tidak ada penyesuaian pada waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A menyusul dividen tunai United Tractors.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T16:09:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a90b8f8424_7c0ee4ed07.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "UNTR",
+   "waran terstruktur",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia menerbitkan keterbukaan informasi yang menyatakan tidak akan ada penyesuaian terhadap dua waran terstruktur, UNTRZPCZ6A dan UNTRZPCM7A, sehubungan dengan dividen tunai yang dibagikan PT United Tractors Tbk (UNTR). Pengumuman ini merujuk pada pengumuman UNTR tertanggal 28 September 2026 dan pengumuman Maybank sendiri tertanggal 29 September 2026 terkait dividen tersebut. Keputusan ini diambil berdasarkan Bagian 3.8 Prospektus waran tertanggal 11 April 2025 dan Term Sheet kedua seri waran itu.",
+   "Dalam dokumen itu, Maybank menegaskan bahwa untuk menghindari keraguan, acuan yang berlaku tetap Prospektus beserta syarat dan ketentuan di dalamnya, bukan perubahan baru. Keterbukaan informasi ini ditandatangani secara elektronik oleh Muhammad Hiksa Reisfansyah selaku pejabat Equity & Commodity Derivatives Maybank Sekuritas Indonesia, dengan tanggal dan waktu pengumuman 6 Oktober 2026 pukul 16.09 WIB.",
+   "UNTRZPCZ6A dan UNTRZPCM7A adalah waran terstruktur, yakni produk turunan yang diterbitkan pihak ketiga (dalam hal ini Maybank Sekuritas) dengan saham UNTR sebagai acuan harga, bukan efek yang diterbitkan UNTR sendiri. Pemegang kedua waran ini tidak akan mengalami perubahan rasio konversi, harga pelaksanaan, atau syarat lain akibat pembagian dividen tunai UNTR yang telah diumumkan sebelumnya."
+  ],
+  "fotoAdegan": "Wide exterior shot of a glass office tower in Jakarta's financial district at dusk, illuminated windows, light traffic below",
+  "takeaway": "Laporan ini netral bagi UNTR maupun Maybank Sekuritas, sebab isinya murni konfirmasi bahwa rumus baku dalam prospektus waran tidak mewajibkan penyesuaian kali ini, bukan keputusan bisnis baru dari salah satu pihak. Yang tersentuh hanya mekanisme waran terstruktur itu sendiri, produk turunan pihak ketiga yang nilainya mengikuti harga saham UNTR tanpa mengubah ekuitas, laba per saham, atau jumlah saham beredar UNTR karena bukan aksi korporasi UNTR. Yang perlu dipantau pemegang waran adalah pengumuman Maybank berikutnya setiap kali UNTR mengambil aksi korporasi baru, karena setiap dividen atau aksi korporasi akan kembali dievaluasi dengan formula yang sama di Bagian 3.8 Prospektus 11 April 2025.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "flmc-masuk-pemantauan-khusus-bei-karena-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Masuk [Pemantauan Khusus] BEI karena Ekuitas Negatif",
+  "deck": "Bursa Efek Indonesia menetapkan saham PT Falmaco Nonwoven Industri Tbk (FLMC) masuk Pemantauan Khusus mulai 7 Oktober 2026 akibat ekuitas negatif pada laporan keuangan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T16:08:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9bcc55768f_4d683218b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "FLMC",
+   "pemantauan khusus",
+   "BEI",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan PT Falmaco Nonwoven Industri Tbk (FLMC) masuk dalam daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus, berdasarkan pengumuman resmi bernomor Peng-PK-00072/BEI.PLP/10-2026 yang diterbitkan 6 Oktober 2026. Status ini berlaku efektif mulai 7 Oktober 2026, dengan keterangan 'Masuk' alias Enter, menandakan FLMC baru pertama kali tercatat dalam daftar tersebut dan bukan sekadar perpanjangan status sebelumnya.",
+   "FLMC tercatat di Papan Akselerasi dan bukan merupakan saham dengan hak suara multiple (SDHSM tercatat 'Tidak'). Kriteria yang memicu masuknya FLMC ke pemantauan khusus adalah kriteria nomor 5 dalam daftar ketentuan BEI, yaitu perusahaan memiliki ekuitas negatif pada laporan keuangan terakhirnya. Artinya, berdasarkan laporan keuangan paling baru yang disampaikan ke bursa, total utang perusahaan sudah melebihi total asetnya.",
+   "Dokumen BEI juga mencantumkan daftar lengkap kriteria yang bisa membuat sebuah efek masuk pemantauan khusus, mulai dari opini disclaimer atas laporan keuangan auditan, tidak membukukan pendapatan, kondisi khusus bagi emiten tambang yang belum sampai tahap penjualan, hingga kondisi perusahaan yang dimohonkan PKPU atau pailit. Dari seluruh kriteria itu, hanya kriteria ekuitas negatif yang berlaku untuk FLMC dalam pengumuman kali ini."
+  ],
+  "fotoAdegan": "Workers inspecting large rolls of nonwoven fabric on an industrial production line inside a textile factory",
+  "takeaway": "Laporan ini condong negatif bagi FLMC, karena ekuitas negatif berarti kewajiban perusahaan sudah lebih besar daripada seluruh asetnya, bukan sekadar masalah administratif pencatatan. Pos kinerja yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang biasanya jadi penyangga pertama kalau bisnis merugi. Pelaku pasar memperhatikan ekuitas karena angka negatif menandakan penyangga itu sudah habis, sehingga muncul pertanyaan soal kemampuan perusahaan membayar kewajibannya ke depan. Yang perlu dipantau berikutnya adalah laporan keuangan auditan FLMC selanjutnya, karena itulah yang akan menentukan apakah ekuitasnya membaik dan status pemantauan khusus bisa dicabut, atau justru memburuk dan berujung pembatasan perdagangan lebih lanjut dari bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "opini-disclaimer-cani-tambah-kriteria-pemantauan-khusus",
+  "category": "Aksi Korporasi",
+  "title": "Opini Disclaimer, CANI Tambah Kriteria [Pemantauan Khusus]",
+  "deck": "BEI menambahkan kriteria opini disclaimer pada status pemantauan khusus saham CANI, menyusul ekuitas negatif yang sudah tercatat sebelumnya, efektif 7 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T16:07:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d89b3b0d8a_12cb4529a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "CANI",
+   "pemantauan khusus",
+   "BEI",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan perubahan status Efek Bersifat Ekuitas Dalam Pemantauan Khusus untuk PT Capitol Nusantara Indonesia Tbk dengan kode saham CANI, yang tercatat di papan pengembangan. Mulai 7 Oktober 2026, BEI menambahkan satu kriteria baru ke daftar alasan saham ini masuk pemantauan khusus, yaitu kriteria nomor 2: laporan keuangan auditan terakhir perusahaan mendapat opini tidak menyatakan pendapat, atau yang biasa disebut opini disclaimer dari akuntan publik.",
+   "Dengan tambahan ini, status pemantauan khusus CANI sekarang didasarkan pada dua kriteria sekaligus, yaitu kriteria 2 soal opini disclaimer tersebut dan kriteria 5 yang menyatakan perusahaan memiliki ekuitas negatif pada laporan keuangan terakhirnya. Saham ini sebelumnya memang sudah masuk pemantauan khusus karena ekuitas negatif, dan sekarang kondisinya diperberat karena auditor independen juga tidak lagi bisa memastikan kewajaran laporan keuangannya. Keterangan resmi Bursa menyebut kolom SDHSM untuk saham ini bernilai tidak, yang berarti saham tetap berada dalam status pemantauan khusus, bukan baru keluar atau baru masuk kembali.",
+   "Bursa menyatakan seluruh perubahan ini efektif berlaku sejak 7 Oktober 2026 dan mengarahkan publik untuk melihat pengumuman lengkap melalui laman resmi idx.co.id dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus."
+  ],
+  "fotoAdegan": "Exterior of glass office towers in Jakarta's financial district, pedestrians crossing a busy street at midday, overcast sky",
+  "takeaway": "Laporan ini negatif bagi CANI, karena dua kriteria yang kini melekat padanya, opini disclaimer dari auditor dan ekuitas negatif, biasanya hanya muncul ketika kondisi keuangan perusahaan sedang benar-benar tertekan. Ekuitas adalah selisih antara seluruh aset perusahaan dengan seluruh utangnya, semacam kekayaan bersih perusahaan, dan kalau angkanya negatif berarti utang perusahaan sudah lebih besar daripada semua yang dimilikinya. Opini disclaimer sendiri berarti akuntan publik tidak punya cukup bukti untuk memastikan laporan keuangan itu benar, sehingga investor kehilangan pegangan pasti soal kondisi riil keuangan perusahaan. Yang perlu dipantau berikutnya adalah apakah CANI bisa memperbaiki opini audit pada laporan keuangan berikutnya dan mengurangi defisit ekuitasnya, sebab status pemantauan khusus ini berlaku efektif sejak 7 Oktober 2026 dan umumnya disertai mekanisme perdagangan yang lebih ketat selama status tersebut belum dicabut Bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "zp-terbitkan-waran-baru-acuan-mdka-medc-nckl-towr-wifi",
+  "category": "Aksi Korporasi",
+  "title": "ZP Terbitkan [Waran] Baru Acuan MDKA, MEDC, NCKL, TOWR, WIFI",
+  "deck": "Maybank Sekuritas merilis lima seri call warrant baru bertenor sampai Juli 2027, dengan saham acuan MDKA, MEDC, NCKL, TOWR, dan WIFI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T16:00:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bdb75854bd_7376bf6e0f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "MDKA",
+   "NCKL"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, dengan kode penerbit ZP, menyampaikan term sheet penawaran umum lima seri waran terstruktur tipe call kepada Bursa Efek Indonesia pada 6 Oktober 2026. Kelima seri berbentuk European style dengan penyelesaian tunai, masing masing berjumlah 500 juta unit. Masa penawaran dan penetapan harga sama sama berlangsung pada 6 Oktober 2026, penjatahan rampung sehari setelahnya, dan kelima seri dicatatkan di BEI pada 9 Oktober 2026. Periode perdagangannya berlangsung sampai 27 Juli 2027, dengan tanggal pelaksanaan pada 30 Juli 2027, atau masa berlaku 10 bulan.",
+   "Rinciannya sebagai berikut. Waran NCKLZPCN7A beracuan PT Trimegah Bangun Persada Tbk (NCKL), harga penawaran Rp22, harga pelaksanaan Rp1.050, rasio 10 waran berbanding 1 saham. Waran WIFIZPCN7A beracuan PT Solusi Sinergi Digital Tbk (WIFI), harga penawaran Rp33, harga pelaksanaan Rp1.600, rasio 15 banding 1. Waran MEDCZPCN7A beracuan PT Medco Energi Internasional Tbk (MEDC), harga penawaran Rp34, harga pelaksanaan Rp1.700, rasio 11 banding 1. Waran TOWRZPCN7A beracuan PT Sarana Menara Nusantara Tbk (TOWR), harga penawaran Rp27, harga pelaksanaan Rp390, rasio 5 banding 1. Waran MDKAZPCN7A beracuan PT Merdeka Copper Gold Tbk (MDKA), harga penawaran Rp44, harga pelaksanaan Rp3.300, rasio 20 banding 1.",
+   "Maybank Sekuritas juga berperan sebagai liquidity provider untuk kelima seri ini dan berencana menerbitkan tambahan hingga 500 juta unit per seri khusus untuk menjaga likuiditas perdagangan. Penyelesaian pada tanggal pelaksanaan dihitung otomatis oleh KPEI dari selisih harga penutupan rata rata saham acuan selama lima hari bursa terakhir dikurangi harga pelaksanaan, lalu dibagi rasio konversi. Jika hasil hitungan itu nol atau negatif setelah dipotong biaya, seluruh waran yang beredar berakhir tanpa ada pembayaran kepada pemegangnya."
+  ],
+  "fotoAdegan": "Wide shot of a securities trading floor, several brokers walking between desks, blurred distant screens, bright overhead lighting",
+  "takeaway": "Laporan ini netral bagi kelima emiten acuan, MDKA, MEDC, NCKL, TOWR, dan WIFI, karena yang menerbitkan produk ini adalah Maybank Sekuritas sebagai pihak ketiga, bukan aksi korporasi dari kelima perusahaan itu sendiri, sehingga tidak mengubah fundamental maupun operasional mereka. Waran terstruktur ini diselesaikan secara tunai, bukan dengan penyerahan saham baru, sehingga jumlah saham beredar dan laba per saham kelima emiten acuan tidak berubah sama sekali. Yang bergerak hanya arus kas antara Maybank Sekuritas dan pemegang waran kalau saham acuan akhirnya ditutup di atas harga pelaksanaan, itulah sebabnya instrumen ini disebut call warrant, produk yang nilainya mengikuti selisih harga saham acuan dengan harga yang sudah dipatok sejak awal. Yang perlu dipantau adalah pencatatan kelima seri ini di BEI pada 9 Oktober 2026 dan tanggal pelaksanaannya pada 30 Juli 2027, saat KPEI menghitung nilai penyelesaian dari rata rata harga penutupan saham acuan lima hari bursa sebelumnya, karena di titik itulah baru diketahui apakah pemegang waran menerima pembayaran tunai atau waran berakhir tanpa nilai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-terbitkan-10-waran-call-baru-acuan-asii-cuan-hrum-dkk",
+  "category": "Aksi Korporasi",
+  "title": "ZP Terbitkan 10 [Waran] Call Baru Acuan ASII, CUAN, HRUM dkk",
+  "deck": "Maybank Sekuritas mematok harga penawaran dan harga pelaksanaan untuk 10 waran terstruktur baru beracuan ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, dan KIJA, mulai tercatat 9 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:59:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ab4a1f05b_b33ccc3277.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "ASII",
+   "CUAN"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, yang tercatat di sistem keterbukaan informasi Bursa Efek Indonesia dengan kode penerbit ZP, mengoreksi dan menyampaikan ulang Term Sheet Penawaran Umum untuk 10 waran terstruktur tipe call. Kesepuluh produk ini masing-masing menggunakan satu saham sebagai acuan harga, yaitu ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, dan KIJA, dengan kode waran berakhiran ZPCN7A dan tanggal pelaksanaan yang sama, 30 Juli 2027. Setiap waran dicatatkan sebanyak 500 juta unit di bursa, dengan opsi tambahan sampai 500 juta unit lagi untuk kebutuhan Maybank sendiri sebagai penyedia likuiditas perdagangan.",
+   "Dari dokumen yang terbaca lengkap, harga penawaran dan harga pelaksanaan (strike price) bervariasi menurut saham acuannya. Waran CUAN ditawarkan Rp28 per unit dengan harga pelaksanaan Rp1.100, rasio 11 waran untuk hak setara 1 lembar saham CUAN. Waran HRUM dan BRMS masing-masing dihargai Rp26 dan Rp24, dengan harga pelaksanaan Rp1.050 dan Rp700, rasio 9 banding 1. Waran EMTK dan ARTO dipatok Rp20 dan Rp27, harga pelaksanaan Rp300 dan Rp900, juga rasio 9 banding 1. Waran ASII yang acuannya saham termahal di antara yang terdaftar, dijual Rp44 dengan harga pelaksanaan Rp5.200 dan rasio 25 banding 1, sedangkan waran BRPT dihargai Rp38, harga pelaksanaan Rp1.700, rasio 15 banding 1. Rincian harga untuk waran CTRA, ENRG, dan KIJA tidak termuat dalam potongan dokumen yang diterima.",
+   "Jadwal penawarannya seragam untuk seluruh seri: masa penawaran dan penetapan harga berakhir 6 Oktober 2026, penjatahan 7 Oktober 2026, pengembalian uang pemesanan jika ada kelebihan pesanan paling lambat 8 Oktober 2026, dan pencatatan di bursa 9 Oktober 2026. Seluruh waran berjangka waktu 10 bulan dan diperdagangkan sampai 27 Juli 2027, sebelum berakhir otomatis dengan penyelesaian tunai pada 30 Juli 2027. Nilai penyelesaiannya dihitung dari selisih harga penutupan rata-rata saham acuan selama lima hari bursa terakhir dengan harga pelaksanaan, dibagi rasio konversi. Jika hasilnya nol atau negatif, seluruh waran berhenti berlaku tanpa pembayaran apa pun kepada pemegangnya."
+  ],
+  "fotoAdegan": "Empty rows of trading desks with multiple computer monitors glowing softly, out of focus, dim ambient lighting in a Jakarta brokerage office at dusk",
+  "takeaway": "Laporan ini netral bagi kesepuluh emiten acuan, ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, dan KIJA, sebab yang menerbitkan dan menjual produk ini adalah Maybank Sekuritas sebagai pihak ketiga, bukan aksi korporasi dari perusahaan-perusahaan tersebut. Tidak ada pos kinerja seperti ekuitas, jumlah saham beredar, atau laba per saham dari ASII, CUAN, dan saham lain yang berubah karena peluncuran waran ini, sebab saham-saham itu hanya dipakai sebagai acuan harga untuk menghitung penyelesaian tunai, bukan diterbitkan atau dijaminkan oleh perusahaannya sendiri. Yang justru perlu dicermati adalah profil risiko produknya sendiri bagi investor ritel, karena waran ini memakai sistem leverage sehingga nilainya bisa naik atau turun jauh lebih cepat ketimbang saham acuannya. Tanggal yang perlu dipantau adalah pencatatan di bursa pada 9 Oktober 2026, saat waran mulai bisa diperdagangkan, dan 30 Juli 2027 sebagai tanggal pelaksanaan ketika seluruh waran ini otomatis diselesaikan secara tunai atau berhenti berlaku tanpa nilai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aspi-rugi-makin-dalam-utang-rp24-8-m-diperpanjang-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "ASPI: Rugi Makin Dalam, Utang Rp24,8 M Diperpanjang ke [2027]",
+  "deck": "ASPI jawab permintaan penjelasan Bursa: pendapatan turun 15,77%, laba kotor anjlok 27,48%, arus kas operasi berbalik negatif, dan akuisisi oleh GMP Group Investama masih due diligence.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:54:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/631ba2d52b_e4dc5779ba.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASPI",
+  "tags": [
+   "ASPI",
+   "properti",
+   "keterbukaan informasi",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Andalan Sakti Primaindo Tbk (ASPI) menjawab permintaan penjelasan Bursa Efek Indonesia terkait kinerja keuangan interim per 30 Juni 2026 dan rencana pengambilalihan sahamnya oleh PT GMP Group Investama. Dalam surat bertanggal 6 Oktober 2026 yang ditandatangani Direktur Arnoldus Jansen Kustianto, perseroan mengonfirmasi pendapatan semester I 2026 turun 15,77% dibanding periode sama tahun 2025, sementara laba kotor turun lebih dalam lagi, 27,48%, karena harga pokok penjualan relatif tidak berubah meski pendapatan merosot.",
+   "Beban penjualan melonjak 215%, termasuk beban publikasi dan promosi yang naik dari Rp25 juta pada Juni 2025 menjadi Rp1,3 miliar pada Juni 2026, yang menurut perseroan dipicu insentif konsumen yang baru direalisasikan pada periode ini. Akibat kombinasi pendapatan turun dan beban naik, ASPI membukukan rugi usaha dan rugi bersih, sekaligus arus kas dari kegiatan operasi berbalik negatif Rp3 miliar, dari sebelumnya positif Rp189,8 juta pada Juni 2025.",
+   "Soal utang, ASPI menyebut pinjaman dari Tuan Hermanto senilai Rp24,8 miliar yang semula jatuh tempo 26 Agustus 2026 tidak dikenakan bunga, dan telah disepakati diperpanjang satu tahun hingga 26 Agustus 2027. Untuk rencana pengambilalihan oleh GMP Group Investama, perseroan menyatakan proses masih dalam tahap negosiasi dan due diligence, dengan pihak KJPP dan kuasa hukum meminta tambahan waktu karena penelaahan dokumen belum selesai.",
+   "Perseroan juga memperbarui status tiga proyeknya: Grandia Liv di Parung Panjang, dari rencana sekitar 600 unit rumah, baru 123 unit terbangun dan 74 terjual; Arkamaya Residence di Pondok Cabe, dari 26 unit rencana dan 26 unit terbangun, tersisa 1 unit ready stock yang belum terjual; serta Royal Matoa di Cinere, Depok, dengan 25 rumah dan 9 ruko, yang sudah 100% terjual."
+  ],
+  "fotoAdegan": "Rows of unfinished small housing units under construction on a suburban plot outside Jakarta, workers on scaffolding, midday light",
+  "takeaway": "Laporan ini negatif bagi ASPI, karena bukan sekadar mengulang rugi yang sudah diketahui pasar, tapi menunjukkan pelemahan berlanjut ke arus kas sekaligus mundurnya lagi proses akuisisi yang selama ini jadi harapan penyelamatan. Arus kas operasi, yaitu uang tunai yang masuk atau keluar dari kegiatan jual beli rumah sehari-hari, berubah dari positif jadi negatif Rp3 miliar, artinya bisnis inti kini menyedot kas bukan menghasilkannya, padahal aset lancar perseroan mayoritas berupa persediaan rumah yang tidak bisa langsung dicairkan. Utang Rp24,8 miliar ke Tuan Hermanto memang tanpa bunga, tapi pelunasannya cuma mundur setahun, bukan selesai, sehingga tekanan likuiditas belum hilang. Yang perlu dipantau selanjutnya adalah hasil due diligence dan negosiasi pengambilalihan oleh PT GMP Group Investama yang belum ada tenggat baru, serta apakah ASPI mampu melunasi utang ke Tuan Hermanto sebelum jatuh tempo baru pada 26 Agustus 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wifi-tanggapi-bei-pemegang-saham-utama-kaji-opsi-strategis",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Tanggapi BEI, Pemegang Saham Utama Kaji [Opsi Strategis]",
+  "deck": "WIFI menjawab permintaan Bursa soal volatilitas sahamnya, menyebut pemegang saham utama PT Investasi Sukses Bersama masih mengkaji alternatif strategis tanpa keputusan definitif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:52:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/230c962177_24074e544d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "volatilitas saham",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI nomor S-12704/BEI.PP3/10-2026 tanggal 5 Oktober 2026 soal volatilitas harga dan aktivitas transaksi sahamnya. Dalam surat bernomor 124/CORSEC/SSD/X/2026 tertanggal 6 Oktober 2026, perusahaan menyatakan tidak memiliki informasi atau fakta material yang belum diungkapkan ke publik. Perusahaan merujuk ke tiga keterbukaan informasi yang sudah disampaikan sebelumnya: fasilitas pembiayaan dari Export Development Canada untuk entitas anak PT Integrasi Jaringan Ekosistem, rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), dan pengunduran diri anggota Dewan Komisaris serta Direksi yang diumumkan 1 Oktober 2026.",
+   "RUPSLB dijadwalkan berlangsung 21 Oktober 2026 dengan tiga agenda. Pertama, perubahan Pasal 3 Anggaran Dasar soal maksud, tujuan, dan kegiatan usaha perusahaan, termasuk pembahasan studi kelayakan rencana penambahan kegiatan usaha, sesuai aturan POJK Nomor 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Kedua, perubahan Pasal 12 ayat 13 soal tugas, tanggung jawab, dan wewenang Direksi. Ketiga, perubahan susunan Dewan Komisaris dan/atau Direksi, yang nama-nama calon penggantinya akan diumumkan sebelum rapat berlangsung.",
+   "Menjawab permintaan konfirmasi dari Bursa soal rencana pemegang saham utama, perusahaan menyatakan telah menanyakan langsung kepada PT Investasi Sukses Bersama, pemegang saham utama WIFI. Jawabannya, sampai tanggal surat ini, belum ada keputusan, perjanjian definitif, maupun transaksi atas kepemilikan sahamnya, meski pemegang saham tersebut disebut dari waktu ke waktu mengkaji berbagai alternatif strategis. Perusahaan juga menyatakan tidak menerima laporan aktivitas pemegang saham tertentu sesuai POJK Nomor 4/2024 tentang kepemilikan dan penjaminan saham, di luar yang sudah dilaporkan. Surat pertama ditandatangani Direktur Utama Hendrik Tee, sedangkan surat tanggapan resmi kepada Bursa ditandatangani oleh Shannedy Ong selaku Direktur."
+  ],
+  "fotoAdegan": "A telecom technician on a utility pole splicing fiber optic cable, city rooftops and antennas in the background, late afternoon light",
+  "takeaway": "Tanggapan ini netral bagi fundamental WIFI, karena isinya hanya menegaskan perusahaan tidak menyimpan informasi material baru yang belum diumumkan, bukan kabar bisnis baru yang mengubah performa perusahaan. Yang perlu diperhatikan adalah dua pos yang disentuh sekaligus: rencana perubahan anggaran dasar soal kegiatan usaha, yang berarti perusahaan membuka pintu untuk masuk ke lini bisnis baru dan bisa mengubah dari mana pendapatannya berasal nanti, serta kekosongan di jajaran direksi dan komisaris setelah pengunduran diri awal Oktober yang belum terisi. Pernyataan bahwa pemegang saham utama, PT Investasi Sukses Bersama, masih mengkaji berbagai alternatif strategis atas sahamnya juga patut dicatat, sebab bisa berarti apa saja mulai dari menambah porsi sampai melepas saham, dan perusahaan sendiri belum bisa memastikan arahnya. Yang perlu dipantau berikutnya adalah Rapat Umum Pemegang Saham Luar Biasa pada 21 Oktober 2026, yang akan memutuskan perubahan kegiatan usaha, perubahan wewenang direksi, dan nama pengganti komisaris serta direksi yang kosong.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sage-jawab-bursa-soal-lonjakan-volume-dan-harga-15-5",
+  "category": "Aksi Korporasi",
+  "title": "SAGE Jawab Bursa soal Lonjakan [Volume] dan Harga 15,5%",
+  "deck": "SAGE menjelaskan ke BEI lonjakan volume transaksi hingga empat kali lipat dan harga saham naik 15,5 persen dalam sehari pada 28 September 2026, tanpa ada informasi material baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:43:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/72fe06c28f_510eb54687.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SAGE",
+  "tags": [
+   "SAGE",
+   "volatilitas saham",
+   "unusual market activity",
+   "BEI"
+  ],
+  "body": [
+   "PT Saptausaha Gemilangindah Tbk (SAGE) memberikan penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan klarifikasi atas lonjakan transaksi saham pada 28 September 2026. Dalam suratnya, perseroan menyebut volume transaksi hari itu melonjak dari 37.052.000 saham dengan frekuensi 605 kali pada hari bursa sebelumnya menjadi 158.117.100 saham dengan frekuensi 4.172 kali. Harga penutupan ikut naik Rp5, dari Rp33 menjadi Rp38, atau setara kenaikan 15,5 persen dalam satu hari perdagangan.",
+   "Menjawab enam pertanyaan standar dari bursa, manajemen SAGE menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi harga saham maupun keputusan investor, baik berdasarkan aturan OJK soal keterbukaan informasi maupun Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu, dan menegaskan belum punya rencana tindakan korporasi dalam tiga bulan mendatang yang bisa berdampak pada status pencatatan saham di bursa.",
+   "Soal rencana pemegang saham utama dan pengendali, Corporate Secretary SAGE, Cindy Veronica Jong, menyatakan telah mengonfirmasi langsung kepada mereka dan mendapat jawaban bahwa tidak ada niat untuk mengubah kepemilikan saham di perseroan saat ini. Surat tertanggal 6 Oktober 2026 ini merupakan balasan atas surat permintaan penjelasan dari BEI yang dikirim lewat sistem IDXNet pada akhir September 2026."
+  ],
+  "fotoAdegan": "Blurred motion of office workers and pedestrians crossing a busy street in Jakarta's financial district, tall glass buildings, midday light",
+  "takeaway": "Penjelasan ini tergolong netral karena perseroan sendiri menegaskan tidak ada informasi fundamental baru yang mendorong lonjakan transaksi, sehingga kenaikan harga dan volume lebih mencerminkan aktivitas jual beli jangka pendek ketimbang perubahan kinerja perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang disebut tersentuh di sini, dan itu justru jadi inti soalnya: volume transaksi yang melonjak hampir empat kali lipat dan harga yang naik 15,5 persen dalam sehari tidak dibarengi data keuangan baru apa pun, sehingga pergerakan seperti ini lazim dibaca pasar sebagai sinyal spekulasi, bukan perbaikan fundamental. Pemegang saham utama juga disebut tidak berencana mengubah kepemilikannya, yang berarti struktur pengendali perusahaan untuk saat ini tidak berubah akibat lonjakan transaksi tersebut. Yang perlu dipantau berikutnya adalah apakah volume dan harga SAGE kembali ke level normal pada hari-hari perdagangan setelah 28 September 2026, sebab bursa biasanya akan meminta penjelasan ulang jika pola transaksi tidak wajar seperti ini terulang tanpa dasar fundamental yang jelas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "daaz-baru-pakai-55-5-dana-obligasi-sisa-rp219-7-m-mengendap",
+  "category": "Aksi Korporasi",
+  "title": "DAAZ Baru Pakai 55,5% Dana Obligasi, [Sisa] Rp219,7 M Mengendap",
+  "deck": "Realisasi dana obligasi Rp500 miliar DAAZ baru mencapai 55,5 persen per Juni 2026, sisa Rp219,71 miliar belum tersalurkan karena pembangunan kapal di galangan mitra belum rampung.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:40:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/60b8d033c4_ed4099f961.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DAAZ",
+  "tags": [
+   "DAAZ",
+   "obligasi korporasi",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Daaz Bara Lestari Tbk (DAAZ) melaporkan kepada Bursa Efek Indonesia perkembangan penggunaan dana hasil penerbitan Obligasi I Daaz Bara Lestari Tahun 2025 senilai Rp500 miliar yang resmi efektif pada 11 Juli 2025. Setelah dipotong biaya penerbitan sebesar Rp6,33 miliar, dana bersih yang diterima perseroan adalah Rp493,67 miliar. Dalam laporan realisasi kedua per 30 Juni 2026 yang disampaikan ke bursa pada 6 Oktober 2026, perseroan baru menggunakan Rp273,95 miliar atau 55,5 persen dari dana tersebut, sehingga sisa Rp219,71 miliar atau 44,5 persen masih belum terpakai.",
+   "Seluruh dana hasil obligasi direncanakan disalurkan sebagai pinjaman kepada lima entitas anak untuk membiayai ekspansi armada angkutan batu bara. Pinjaman kepada PT Bara Makmur Dwitama untuk pembelian batu bara dari PT Titan Infra Energy sudah terealisasi Rp89,9 miliar dari rencana Rp105 miliar, atau 85,6 persen. Pinjaman kepada PT Aserra Logistik Indonesia untuk pembelian dua unit kapal self-propelled oil barge baru terealisasi Rp73,8 miliar dari rencana Rp170 miliar (43,4 persen), sementara untuk tiga set kapal tunda dan tongkang baru Rp56,83 miliar dari rencana Rp140 miliar (40,6 persen). Pinjaman kepada PT Indo Lautan Energi untuk pembelian satu unit tongkang minyak baru terealisasi Rp14,76 miliar dari rencana Rp40 miliar (36,9 persen), sedangkan pinjaman untuk pembelian bahan bakar solar sudah terealisasi penuh Rp38,67 miliar atau 100 persen. Perseroan menyebut keterlambatan realisasi tiga pos pembelian kapal itu disebabkan proses pembangunan kapal yang belum rampung, dengan target penggunaan seluruh sisa dana pada Desember 2026.",
+   "Sisa dana Rp219,71 miliar yang belum terpakai ditempatkan di lima rekening bank pihak ketiga dengan jangka waktu satu bulan: giro di Bank Permata Rp30 miliar berbunga 3,5 persen per tahun, giro di Bank Maybank Indonesia Rp89,28 miliar (3,5 persen) dan Rp20 miliar (4,5 persen), deposito di Bank Negara Indonesia Rp53,57 miliar (4 persen), serta giro di Bank Negara Indonesia Rp26,87 miliar (4,5 persen). Adapun total biaya penerbitan obligasi Rp6,33 miliar atau 1,267 persen dari nilai emisi terdiri dari biaya penjaminan, penyelenggaraan, dan penjualan emisi sebesar Rp4 miliar, biaya profesi penunjang pasar modal seperti akuntan publik dan konsultan hukum sebesar Rp1,12 miliar, biaya wali amanat dan pemeringkat efek Rp660 juta, serta biaya lain-lain Rp551,16 juta."
+  ],
+  "fotoAdegan": "Workers welding steel hull sections of a barge under construction in a shipyard dry dock, cranes overhead, overcast sky",
+  "takeaway": "Laporan ini cenderung negatif bagi kinerja Daaz Bara Lestari, karena hampir separuh dana hasil obligasi, Rp219,71 miliar, masih menganggur di giro dan deposito padahal sudah 11 bulan sejak dana itu diterima, dan tiga dari lima pos pembelian kapal baru terealisasi di bawah separuh rencana. Yang perlu diperhatikan pemegang saham adalah dampaknya pada beban bunga dan arus kas, yakni uang kas yang keluar dan masuk perusahaan setiap periode: perseroan tetap membayar bunga atas obligasi Rp500 miliar itu, sementara dana yang belum tersalurkan hanya menghasilkan bunga simpanan bank sekitar 3,5 sampai 4,5 persen setahun, sehingga ada selisih biaya yang menekan laba bersih selama dana itu belum dipakai sesuai rencana. Keterlambatan ini juga berarti penambahan kapasitas angkut batu bara lewat kapal-kapal baru ikut tertunda, karena perseroan menyebut pembangunan kapal di galangan mitra belum rampung. Yang perlu dipantau berikutnya adalah apakah pembangunan kapal-kapal tersebut benar rampung sesuai target waktu penggunaan dana pada Desember 2026 yang disebutkan perseroan, serta laporan realisasi penggunaan dana periode berikutnya yang akan menunjukkan apakah porsi dana yang terpakai sudah bertambah signifikan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pemerintah-perluas-target-hilirisasi-ke-sawit-dan-perikanan",
   "category": "Industri",
   "title": "Pemerintah Perluas Target Hilirisasi ke [Sawit] dan Perikanan",
@@ -85,6 +372,58 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah secara konkret: dari 100 UMKM yang lolos kurasi awal, hanya 50 yang nantinya benar-benar dibiayai sampai tahap sertifikasi barcode, dan mayoritas pendaftar, 94 persen, adalah produk makanan kemasan, bukan kosmetik. Yang terdampak adalah UMKM pangan dan kecantikan skala kecil yang sebelumnya sulit masuk minimarket atau department store karena belum punya kode batang, yaitu nomor unik yang dibaca mesin kasir untuk mencatat stok dan harga secara otomatis. Program ini sejalan dengan pola business matching Kemendag yang sejak 2025 sudah melibatkan sekitar 932 UMKM dengan peritel besar, sehingga arahnya terlihat bergeser dari sekadar mempertemukan UMKM dengan pembeli menjadi menuntut UMKM memenuhi syarat teknis standar ritel. Yang akan menentukan apakah program ini benar memperluas akses atau hanya menyentuh segelintir UMKM adalah hasil seleksi lanjutan yang menetapkan 50 peserta final, serta apakah cakupannya nanti benar diperluas seperti yang dijanjikan Mendag Budi Santoso.",
   "imageV": "muwfoqbh"
+ },
+ {
+  "slug": "hd-harga-pelaksanaan-waran-asiihdch7a-disesuaikan-13-okt",
+  "category": "Aksi Korporasi",
+  "title": "HD: Harga Pelaksanaan Waran [ASIIHDCH7A] Disesuaikan 13 Okt",
+  "deck": "KGI Sekuritas mengumumkan penyesuaian harga pelaksanaan dan rasio waran terstruktur ASIIHDCH7A akibat dividen tunai ASII, efektif 13 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:31:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf8d65003e_9cbc8bc2dd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HD",
+  "tags": [
+   "HD",
+   "ASII",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT KGI Sekuritas Indonesia, penerbit dengan kode broker HD, mengumumkan penyesuaian harga pelaksanaan dan rasio pelaksanaan waran terstruktur ASIIHDCH7A yang mengacu pada saham Astra International (ASII). Penyesuaian ini dipicu oleh aksi korporasi pembagian dividen tunai yang dilakukan ASII. Sebelum penyesuaian, harga pelaksanaan waran tercatat Rp5.785 dengan rasio pelaksanaan 32 waran terstruktur berbanding 1 saham ASII.",
+   "Rumus penyesuaian sudah diumumkan sejak 5 Oktober 2026, tetapi angka harga pelaksanaan dan rasio pelaksanaan yang baru belum ditetapkan dalam dokumen ini. Hasil penyesuaian final baru akan diumumkan setelah penutupan pasar pada cum date 12 Oktober 2026, yaitu hari terakhir perdagangan saham ASII yang masih memperhitungkan hak atas dividen tersebut. Penyesuaian dinyatakan berlaku efektif mulai 13 Oktober 2026.",
+   "Menurut term sheet yang menjadi acuan, formula penyesuaian memperhitungkan harga pasar saham ASII pada cum date dan nilai dividen yang dibagikan, melalui pengali penyesuaian untuk menghasilkan harga pelaksanaan dan rasio pelaksanaan baru. Dokumen yang diterbitkan KGI Sekuritas pada 6 Oktober 2026 ini belum mencantumkan nominal dividen per saham ASII, sehingga besaran pasti perubahan harga dan rasio waran baru akan terlihat setelah pengumuman hasil pada 12 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of new sedans and SUVs parked at an outdoor car dealership lot under bright afternoon sun",
+  "takeaway": "Laporan ini netral bagi ASII maupun bagi KGI Sekuritas selaku penerbit waran, karena isinya murni mekanisme teknis instrumen derivatif akibat dividen, bukan informasi baru soal kinerja atau arah bisnis emiten. Yang tersentuh adalah harga pelaksanaan dan rasio konversi waran terstruktur, bukan laporan keuangan ASII, karena penyesuaian ini sekadar menjaga nilai waran agar tidak otomatis berkurang ketika harga saham ASII turun akibat pembagian dividen pada ex date. Pelaku pasar yang memegang waran ASIIHDCH7A perlu memantau pengumuman hasil penyesuaian setelah penutupan pasar pada cum date 12 Oktober 2026, karena itulah saat harga pelaksanaan dan rasio baru resmi ditetapkan sebelum berlaku efektif 13 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "btps-revisi-kuorum-rupslb-buyback-rp1-triliun-dibahas-13-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Revisi Kuorum RUPSLB, Buyback [Rp1 Triliun] Dibahas 13 Oktober",
+  "deck": "BTPN Syariah menaikkan syarat kuorum keputusan RUPSLB buyback saham dari 1/2 jadi 2/3 suara, sementara rencana pembelian kembali saham senilai maksimal Rp1 triliun tetap dibahas 13 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 Oktober 2026",
+  "isoDate": "2026-10-06T15:28:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d09fffbd0e_7df2a14f99.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "RUPSLB",
+   "buyback saham",
+   "bank syariah"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) mengoreksi surat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya diterbitkan 21 September 2026. Koreksi ini menaikkan syarat kuorum keputusan untuk agenda rapat, dari semula cukup disetujui lebih dari 1/2 (satu per dua) menjadi harus disetujui lebih dari 2/3 (dua per tiga) dari total saham dengan hak suara sah yang hadir atau diwakili dalam rapat. Rapat tetap digelar sesuai rencana awal, yaitu Selasa, 13 Oktober 2026 pukul 10.00 WIB di Menara SMBC Lantai 16, CBD Mega Kuningan, dengan daftar pemegang saham yang berhak hadir dicatat per 18 September 2026.",
+   "Agenda tunggal RUPSLB ini adalah persetujuan rencana pembelian kembali saham (buyback). Perseroan mengusulkan pembelian kembali saham dengan nilai nominal tidak melebihi 10 persen dari modal yang ditempatkan, dan biaya yang dikeluarkan maksimal Rp1 triliun, termasuk komisi pialang dan biaya lain terkait transaksi. Direksi diberi kuasa untuk menentukan harga dan teknis pelaksanaan sesuai POJK Nomor 29 Tahun 2023, dengan sumber dana seluruhnya berasal dari ekuitas perseroan dan periode pelaksanaan paling lama 12 bulan setelah RUPSLB menyetujui.",
+   "Perseroan juga menyertakan simulasi dampak buyback dengan basis laporan keuangan per 30 Juni 2026 yang belum diaudit. Jika dana Rp1 triliun terpakai penuh, total aset diperkirakan turun dari Rp23,30 triliun menjadi Rp22,30 triliun, ekuitas turun dari Rp10,26 triliun menjadi Rp9,26 triliun, dan laba tahun berjalan turun dari Rp655,49 miliar menjadi Rp650,16 miliar. Di sisi lain, laba per saham dasar diperkirakan naik dari Rp85,09 menjadi Rp94,54 karena jumlah saham yang beredar di pasar berkurang akibat dibeli balik oleh perseroan."
+  ],
+  "fotoAdegan": "Modern glass skyscraper exterior in Jakarta's business district, dusk light, tiny pedestrian figures on the sidewalk below",
+  "takeaway": "Laporan ini netral bagi fundamental BTPS, sebab rencana buyback punya efek dua arah: laba per saham bisa terangkat, tapi modal bank justru menyusut, dan koreksi kuorum yang baru membuat rencana ini lebih sulit disetujui pemegang saham. Pos yang tersentuh adalah ekuitas, yaitu selisih aset dan utang yang jadi penyangga modal bank, yang menurut simulasi perseroan bisa berkurang sekitar Rp1 triliun atau hampir 10 persen jika buyback dijalankan penuh, sementara laba per saham, yaitu bagian laba yang jadi hak tiap lembar saham, naik karena jumlah saham yang beredar berkurang. Pelaku pasar mencermati dua angka ini karena penyangga modal yang menipis bisa membatasi kemampuan bank menyerap risiko kredit, sementara laba per saham yang naik biasa dibaca sebagai sinyal keyakinan manajemen atas nilai sahamnya. Yang perlu dipantau adalah hasil RUPSLB pada 13 Oktober 2026, karena kuorum keputusan kini harus mencapai dua pertiga suara yang hadir, lebih berat dari syarat sebelumnya, dengan batas pemberian kuasa elektronik lewat eASY.KSEI ditutup sehari sebelumnya, 12 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
  },
  {
   "slug": "dr-waran-amrt-disesuaikan-usai-dividen-rp595-8-m",

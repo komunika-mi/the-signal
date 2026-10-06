@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tira-bantah-punya-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "TIRA Bantah Punya Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Merespons permintaan penjelasan BEI soal volatilitas transaksi, Tira Austenite menyatakan tidak mengetahui ada info material maupun rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TIRA",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/79172ba82b_86c6fbad00.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gula-ungkap-kas-anjlok-73-meski-penjualan-melonjak-121",
+  "category": "Aksi Korporasi",
+  "title": "GULA ungkap kas anjlok 73% meski penjualan [melonjak] 121%",
+  "deck": "GULA jawab permintaan Bursa: kas turun 73,1%, arus kas operasi negatif Rp29,4 miliar, pinjaman BRI nyaris penuh, meski penjualan melonjak 121,69% jadi Rp144,32 miliar.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GULA",
+   "arus kas",
+   "pinjaman bank",
+   "Aman Agrindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7c74c4b424_c185320a12.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-pastikan-tak-ada-penyesuaian-waran-untr-usai-dividen",
+  "category": "Aksi Korporasi",
+  "title": "ZP Pastikan Tak Ada Penyesuaian Waran [UNTR] usai Dividen",
+  "deck": "Maybank Sekuritas Indonesia menyatakan tidak ada penyesuaian pada waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A menyusul dividen tunai United Tractors.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "UNTR",
+   "waran terstruktur",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a90b8f8424_7c0ee4ed07.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "flmc-masuk-pemantauan-khusus-bei-karena-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Masuk [Pemantauan Khusus] BEI karena Ekuitas Negatif",
+  "deck": "Bursa Efek Indonesia menetapkan saham PT Falmaco Nonwoven Industri Tbk (FLMC) masuk Pemantauan Khusus mulai 7 Oktober 2026 akibat ekuitas negatif pada laporan keuangan terakhir.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "pemantauan khusus",
+   "BEI",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9bcc55768f_4d683218b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "opini-disclaimer-cani-tambah-kriteria-pemantauan-khusus",
+  "category": "Aksi Korporasi",
+  "title": "Opini Disclaimer, CANI Tambah Kriteria [Pemantauan Khusus]",
+  "deck": "BEI menambahkan kriteria opini disclaimer pada status pemantauan khusus saham CANI, menyusul ekuitas negatif yang sudah tercatat sebelumnya, efektif 7 Oktober 2026.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CANI",
+   "pemantauan khusus",
+   "BEI",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d89b3b0d8a_12cb4529a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-terbitkan-waran-baru-acuan-mdka-medc-nckl-towr-wifi",
+  "category": "Aksi Korporasi",
+  "title": "ZP Terbitkan [Waran] Baru Acuan MDKA, MEDC, NCKL, TOWR, WIFI",
+  "deck": "Maybank Sekuritas merilis lima seri call warrant baru bertenor sampai Juli 2027, dengan saham acuan MDKA, MEDC, NCKL, TOWR, dan WIFI.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "MDKA",
+   "NCKL"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bdb75854bd_7376bf6e0f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-terbitkan-10-waran-call-baru-acuan-asii-cuan-hrum-dkk",
+  "category": "Aksi Korporasi",
+  "title": "ZP Terbitkan 10 [Waran] Call Baru Acuan ASII, CUAN, HRUM dkk",
+  "deck": "Maybank Sekuritas mematok harga penawaran dan harga pelaksanaan untuk 10 waran terstruktur baru beracuan ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, dan KIJA, mulai tercatat 9 Oktober 2026.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "ASII",
+   "CUAN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ab4a1f05b_b33ccc3277.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aspi-rugi-makin-dalam-utang-rp24-8-m-diperpanjang-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "ASPI: Rugi Makin Dalam, Utang Rp24,8 M Diperpanjang ke [2027]",
+  "deck": "ASPI jawab permintaan penjelasan Bursa: pendapatan turun 15,77%, laba kotor anjlok 27,48%, arus kas operasi berbalik negatif, dan akuisisi oleh GMP Group Investama masih due diligence.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASPI",
+   "properti",
+   "keterbukaan informasi",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/631ba2d52b_e4dc5779ba.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-tanggapi-bei-pemegang-saham-utama-kaji-opsi-strategis",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Tanggapi BEI, Pemegang Saham Utama Kaji [Opsi Strategis]",
+  "deck": "WIFI menjawab permintaan Bursa soal volatilitas sahamnya, menyebut pemegang saham utama PT Investasi Sukses Bersama masih mengkaji alternatif strategis tanpa keputusan definitif.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "volatilitas saham",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/230c962177_24074e544d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sage-jawab-bursa-soal-lonjakan-volume-dan-harga-15-5",
+  "category": "Aksi Korporasi",
+  "title": "SAGE Jawab Bursa soal Lonjakan [Volume] dan Harga 15,5%",
+  "deck": "SAGE menjelaskan ke BEI lonjakan volume transaksi hingga empat kali lipat dan harga saham naik 15,5 persen dalam sehari pada 28 September 2026, tanpa ada informasi material baru.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAGE",
+   "volatilitas saham",
+   "unusual market activity",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/72fe06c28f_510eb54687.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "daaz-baru-pakai-55-5-dana-obligasi-sisa-rp219-7-m-mengendap",
+  "category": "Aksi Korporasi",
+  "title": "DAAZ Baru Pakai 55,5% Dana Obligasi, [Sisa] Rp219,7 M Mengendap",
+  "deck": "Realisasi dana obligasi Rp500 miliar DAAZ baru mencapai 55,5 persen per Juni 2026, sisa Rp219,71 miliar belum tersalurkan karena pembangunan kapal di galangan mitra belum rampung.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DAAZ",
+   "obligasi korporasi",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/60b8d033c4_ed4099f961.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-perluas-target-hilirisasi-ke-sawit-dan-perikanan",
   "category": "Industri",
   "title": "Pemerintah Perluas Target Hilirisasi ke [Sawit] dan Perikanan",
@@ -53,6 +229,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/barcode-buka-peluang-produk-umkm-tembus-ritel",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "hd-harga-pelaksanaan-waran-asiihdch7a-disesuaikan-13-okt",
+  "category": "Aksi Korporasi",
+  "title": "HD: Harga Pelaksanaan Waran [ASIIHDCH7A] Disesuaikan 13 Okt",
+  "deck": "KGI Sekuritas mengumumkan penyesuaian harga pelaksanaan dan rasio waran terstruktur ASIIHDCH7A akibat dividen tunai ASII, efektif 13 Oktober 2026.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HD",
+   "ASII",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf8d65003e_9cbc8bc2dd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btps-revisi-kuorum-rupslb-buyback-rp1-triliun-dibahas-13-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Revisi Kuorum RUPSLB, Buyback [Rp1 Triliun] Dibahas 13 Oktober",
+  "deck": "BTPN Syariah menaikkan syarat kuorum keputusan RUPSLB buyback saham dari 1/2 jadi 2/3 suara, sementara rencana pembelian kembali saham senilai maksimal Rp1 triliun tetap dibahas 13 Oktober 2026.",
+  "date": "6 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "RUPSLB",
+   "buyback saham",
+   "bank syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d09fffbd0e_7df2a14f99.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dr-waran-amrt-disesuaikan-usai-dividen-rp595-8-m",
@@ -6269,218 +6477,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470184-ieu-cepa-berpotensi-hapus-gap-tarif-ri-vietnam-investasi-padat-karya-bisa-bergeser-ke-indonesia"
- },
- {
-  "slug": "pupuk-indonesia-bawa-16-umkm-binaan-ke-kriyanusa-2026",
-  "category": "UMKM",
-  "title": "Pupuk Indonesia Bawa [16] UMKM Binaan ke Kriyanusa 2026",
-  "deck": "Pupuk Indonesia menampilkan produk UMKM binaan sektor wastra dan kriya di pameran Kriyanusa 2026, JCC, 26-30 September.",
-  "date": "29 September 2026",
-  "image": "assets/img/pupuk-indonesia-bawa-16-umkm-binaan-ke-kriyanusa-2026.jpg",
-  "imageV": "mumivr08",
-  "tags": [
-   "UMKM",
-   "Pupuk Indonesia",
-   "Kriyanusa",
-   "wastra"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/887/pupuk-indonesia-perluas-pasar-umkm-binaan-melalui-kriyanusa-2026",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "pemerintah-kejar-tambahan-100-gigawatt-pembangkit-listrik",
-  "category": "Energi",
-  "title": "Pemerintah Kejar Tambahan [100 Gigawatt] Pembangkit Listrik",
-  "deck": "Menko Airlangga sebut kapasitas pembangkit listrik perlu naik hingga 100 gigawatt untuk mendukung target investasi Rp2.218-2.258 triliun demi pertumbuhan ekonomi 6 persen pada 2027.",
-  "date": "29 September 2026",
-  "image": "assets/img/jaringan-listrik.jpg",
-  "tags": [
-   "Ekonomi Hijau",
-   "Energi Terbarukan",
-   "Investasi",
-   "Kendaraan Listrik"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7116/menko-airlangga-green-energy-dan-digital-development-jadi-twin-engine-pertumbuhan-ekonomi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "proyek-jica-di-kawasan-rebana-rampung-investasi-tembus-rp131-6-t",
-  "category": "Industri",
-  "title": "Proyek JICA di Kawasan Rebana [Rampung], Investasi Tembus Rp131,6 T",
-  "deck": "Kerja sama teknis dua tahun Indonesia-Jepang untuk Kawasan Rebana tuntas, menghasilkan rencana induk kawasan dan pedoman industri hijau di sekitar Pelabuhan Patimban.",
-  "date": "29 September 2026",
-  "image": "assets/img/tambang-mineral.jpg",
-  "tags": [
-   "Kawasan Rebana",
-   "JICA",
-   "Pelabuhan Patimban",
-   "Investasi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7117/tuntaskan-kerja-sama-teknis-jica-pemerintah-perkuat-sistem-koordinasi-dan-kelembagaan-pengelolaan-kawasan-rebana",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "mice-siwie-honoris-tambah-saham-400-ribu-lembar-lagi",
-  "category": "Aksi Korporasi",
-  "title": "MICE: Siwie Honoris [Tambah] Saham 400 Ribu Lembar Lagi",
-  "deck": "Siwie Honoris membeli tambahan 400.000 saham Multi Indocitra secara tidak langsung pada 25 September 2026, hak suaranya naik jadi 0,2949 persen.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MICE",
-   "Multi Indocitra",
-   "kepemilikan saham",
-   "Siwie Honoris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29092026-2753-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-bersih-pada-melonjak-1-239-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "Laba bersih PADA [melonjak] 1.239% di semester I-2026",
-  "deck": "Pendapatan PADA naik 81,6% dan laba bersih melonjak 1.239,4% pada semester I 2026, didorong bisnis kurir dan proyek FTTH, di tengah kenaikan utang bank jangka pendek yang lebih cepat dari ekuitas.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PADA",
-   "laporan keuangan",
-   "outsourcing",
-   "INET"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4184a73594_9fb07d3f8d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "den-sebut-stabilitas-makro-kunci-genjot-ekonomi-5-persen",
-  "category": "Makroekonomi",
-  "title": "DEN Sebut [Stabilitas] Makro Kunci Genjot Ekonomi 5 Persen",
-  "deck": "Wakil Ketua DEN Mari Elka Pangestu menyebut stabilitas makroekonomi jadi syarat utama menarik investasi dan mendorong ekonomi RI tumbuh di atas 5 persen.",
-  "date": "29 September 2026",
-  "image": "assets/img/den-sebut-stabilitas-makro-kunci-genjot-ekonomi-5-persen.jpg",
-  "imageV": "mumivt8a",
-  "tags": [
-   "Dewan Ekonomi Nasional",
-   "stabilitas makroekonomi",
-   "investasi",
-   "pertumbuhan ekonomi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470175-den-ungkap-kunci-ri-dorong-ekonomi-tumbuh-di-atas-5-persen"
- },
- {
-  "slug": "part-catat-laba-naik-30-di-2025-garap-right-issue",
-  "category": "Pasar Modal",
-  "title": "PART Catat Laba [Naik] 30% di 2025, Garap Right Issue",
-  "deck": "Penjualan Cipta Perdana Lancar (PART) naik 38,23 persen jadi Rp369,59 miliar pada 2025, laba bersih tumbuh 29,97 persen, dan perseroan menyiapkan right issue Rp200 miliar.",
-  "date": "29 September 2026",
-  "image": "assets/img/part-catat-laba-naik-30-di-2025-garap-right-issue.jpg",
-  "imageV": "mumivtmg",
-  "tags": [
-   "PART",
-   "right issue",
-   "komponen otomotif",
-   "kinerja emiten"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470197-bukukan-kinerja-positif-di-2025-part-kini-siapkan-right-issue-hingga-buyback-saham"
- },
- {
-  "slug": "dr-waran-untr-disesuaikan-usai-dividen-rp1-48-t",
-  "category": "Aksi Korporasi",
-  "title": "DR: Waran [UNTR] Disesuaikan usai Dividen Rp1,48 T",
-  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur UNTR menyusul rencana dividen tunai UNTR Rp1,48 triliun atau Rp430 per saham yang dibayar 26 Oktober 2026.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "UNTR",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/772d3487ae_b3475349f8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "part-cetak-laba-naik-30-siapkan-right-issue-rp200-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PART Cetak Laba Naik 30%, Siapkan [Right Issue] Rp200 Miliar",
-  "deck": "Penjualan PART tumbuh 38,23% menjadi Rp369,59 miliar pada 2025, dan perseroan menyiapkan rights issue Rp200 miliar serta buyback saham hingga Rp10 miliar untuk memperkuat modal kerja.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PART",
-   "kinerja keuangan",
-   "rights issue",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fc46f7b16_11e968a1d1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smma-direktur-utama-burhanuddin-abdullah-mundur",
-  "category": "Aksi Korporasi",
-  "title": "SMMA: Direktur Utama Burhanuddin Abdullah [Mundur]",
-  "deck": "Burhanuddin Abdullah mengundurkan diri dari kursi Direktur Utama SMMA, efektif setelah disetujui RUPS mendatang, tanpa alasan maupun pengganti yang disebutkan.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMA",
-   "Direktur Utama",
-   "pergantian direksi",
-   "Sinar Mas Multiartha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1ddd959114_07ac77a480.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kebutuhan-listrik-2030-tembus-800-twh-ruptl-direvisi",
-  "category": "Energi",
-  "title": "Kebutuhan Listrik 2030 Tembus 800 TWh, RUPTL [Direvisi]",
-  "deck": "Airlangga Hartarto mendorong revisi RUPTL karena proyeksi kebutuhan listrik nasional pada 2030 tembus 700-800 TWh, jauh di atas rencana tambahan pembangkit 69,5 GW yang berlaku saat ini.",
-  "date": "29 September 2026",
-  "image": "assets/img/kebutuhan-listrik-2030-tembus-800-twh-ruptl-direvisi.jpg",
-  "imageV": "mumivu0v",
-  "tags": [
-   "RUPTL",
-   "Airlangga Hartarto",
-   "Energi Surya",
-   "Kebutuhan Listrik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470151-kebutuhan-listrik-2030-tembus-800-twh-airlangga-dorong-ruptl-segera-direvisi"
- },
- {
-  "slug": "arko-nosu-hydro-teken-pembiayaan-rp690-6-m-dari-smi",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Nosu Hydro Teken [Pembiayaan] Rp690,6 M dari SMI",
-  "deck": "Anak usaha ARKO, PT Nosu Hydro, menandatangani perjanjian pembiayaan senilai Rp690,6 miliar dengan PT SMI untuk membangun PLTA Pongbembe 20 MW, tanpa perlu persetujuan RUPS.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "pembiayaan infrastruktur",
-   "PLTA Pongbembe",
-   "SMI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f22cac909c_aada76f399.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "padi-proses-pemegang-saham-pengendali-baru-masih-di-ojk",
-  "category": "Aksi Korporasi",
-  "title": "PADI: Proses Pemegang Saham [Pengendali] Baru Masih di OJK",
-  "deck": "Minna Padi Investama Sekuritas Tbk menjawab permintaan klarifikasi BEI atas volatilitas transaksi sahamnya, dan mengungkap pengajuan status pemegang saham pengendali baru masih diproses OJK.",
-  "date": "29 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PADI",
-   "Minna Padi Investama Sekuritas",
-   "Pemegang Saham Pengendali",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5233d33e41_19d253e8b5.pdf",
-  "sourceLabel": "IDX"
  }
 ];

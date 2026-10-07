@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "potensi-transaksi-ip-kreatif-di-jfc-2026-naik-ke-rp3-51-miliar",
+  "category": "Industri",
+  "title": "Potensi Transaksi IP Kreatif di JFC 2026 Naik ke [Rp3,51 Miliar]",
+  "deck": "Kemendag memfasilitasi 38 pelaku komik, animasi, dan gim di JFC 2026, dengan potensi transaksi US$195 ribu, naik 56,8 persen dari tahun sebelumnya.",
+  "image": "assets/img/potensi-transaksi-ip-kreatif-di-jfc-2026-naik-ke-rp3-51-miliar.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T15:39:02.487Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-bawa-ip-kreatif-ke-jfc-2026-potensi-transaksi-capai-rp351-miliar",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Kemendag",
+   "ekspor kreatif",
+   "JFC 2026",
+   "industri kreatif"
+  ],
+  "body": [
+   "Kementerian Perdagangan memfasilitasi 38 pelaku usaha industri kreatif berbasis kekayaan intelektual, meliputi komik, animasi, dan gim, dalam forum bisnis Jakarta Futura Connectiva (JFC) 2026 yang berlangsung 3-4 Oktober di JIEXPO Kemayoran. Menurut Kemendag, forum tersebut menghasilkan potensi transaksi senilai US$195 ribu atau sekitar Rp3,51 miliar, naik 56,8 persen dibandingkan potensi transaksi pada penyelenggaraan 2025 yang tercatat US$125 ribu atau sekitar Rp2,24 miliar. Nilai ini berasal dari pertemuan bisnis awal, kesepakatan kerja sama, dan penjualan langsung selama pameran berlangsung, bukan dari transaksi ekspor yang sudah terealisasi.",
+   "Dari 38 peserta yang difasilitasi Direktorat Jenderal Pengembangan Ekspor Nasional Kemendag, rinciannya adalah 19 pelaku komik, 15 pelaku animasi, dan 4 pelaku industri gim. Pemerintah menyediakan stan seluas 20 meter persegi dan area pertemuan bisnis (business lounge) seluas 16 meter persegi untuk mendukung peserta. JFC sendiri merupakan forum bisnis tahun ketiga yang mempertemukan studio, penerbit, dan pemilik hak kekayaan intelektual dengan pembeli, agen lisensi, serta investor dari dalam dan luar negeri, dan pada 2026 digelar bersamaan dengan Indonesia Comic Con.",
+   "Direktur Jenderal PEN Kemendag, Fajarini Puntodewi, menyebut hasil ini sebagai bukti peluang pengembangan kekayaan intelektual Indonesia sebagai sumber ekspor baru, di luar ekspor produk fisik. Ia mendorong agar pertemuan bisnis dalam JFC tidak berhenti di tahap perkenalan, tetapi berlanjut menjadi negosiasi, kerja sama lisensi, produksi bersama, distribusi, investasi, hingga transaksi ekspor yang konkret.",
+   "Secara terpisah, data Bank Indonesia menunjukkan ekspor jasa Indonesia pada 2025 mencapai sekitar US$42,52 miliar, naik dari US$39,09 miliar pada 2024. Pada semester I 2026, ekspor biaya penggunaan kekayaan intelektual tercatat sekitar US$97 juta dan ekspor jasa personal, kultural, serta rekreasi sekitar US$164 juta, dengan total gabungan sekitar US$261 juta atau naik 38,8 persen dibanding periode yang sama tahun sebelumnya. Rizqi R. Mosmarth dari Asosiasi Komik Indonesia (AKSI) menilai JFC membuka ruang kolaborasi bagi pelaku industri kreatif yang sebelumnya cenderung berjalan terpisah."
+  ],
+  "fotoAdegan": "Illustrators and animators at work desks sketching comic panels on tablets, multiple monitors glowing, creative studio interior, soft daytime light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/bGB4GRFuOidE7rcBsir1SOGHQ9jLFWMqWjOeItFP.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Angka Rp3,51 miliar yang disebut Kemendag ini adalah potensi transaksi, bukan nilai ekspor yang sudah terjadi, karena dihitung dari obrolan bisnis awal, kesepakatan kerja sama, dan penjualan langsung selama pameran dua hari. Yang terdampak langsung adalah 38 pelaku industri kreatif, yaitu pembuat komik, animasi, dan gim yang ikut forum ini dan sedang mencoba menjual karya mereka ke pembeli luar negeri. Dibandingkan dengan total ekspor jasa kekayaan intelektual dan jasa personal-kultural-rekreasi Indonesia yang sekitar US$261 juta pada semester I 2026, kontribusi satu forum ini masih sangat kecil. Arah yang terlihat adalah pemerintah mendorong pelaku kreatif naik kelas dari sekadar pembuat konten menjadi pemilik dan penjual IP, tapi itu baru akan terbukti kalau obrolan bisnis di JFC benar-benar berlanjut jadi kontrak lisensi atau ekspor nyata, bukan sekadar bertambah lagi dalam angka potensi tahun depan.",
+  "imageV": "muya3xdo"
+ },
+ {
+  "slug": "pnm-terbitkan-orange-bond-rp2-59-t-oversubscribed",
+  "category": "Pasar Modal",
+  "title": "PNM Terbitkan Orange Bond Rp2,59 T, [Oversubscribed]",
+  "deck": "PNM menerbitkan Orange Bond dan Orange Sukuk senilai Rp2,59 triliun, oversubscribed 1,73 kali, untuk memperkuat pembiayaan usaha ultra mikro perempuan lewat program Mekaar.",
+  "image": "assets/img/pnm-terbitkan-orange-bond-rp2-59-t-oversubscribed.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T21:53:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471796-pnm-kembali-terbitkan-orange-bond-dan-orange-sukuk-rp259-triliun-perkuat-pembiayaan-dan-pemberdayaan-perempuan-ultra-mikro",
+  "tags": [
+   "PNM",
+   "Orange Bond",
+   "Mekaar",
+   "ultra mikro"
+  ],
+  "body": [
+   "Bagi perempuan pelaku usaha ultra mikro, uang tambahan untuk modal sering jadi penentu apakah mereka bisa menambah stok dagangan atau memperluas usaha. PT Permodalan Nasional Madani (PNM) kembali mengumpulkan dana segar untuk kebutuhan itu lewat penerbitan Orange Bond dan Orange Sukuk pada September 2026, dengan total dana yang terkumpul mencapai Rp2,59 triliun. Dana ini akan mengalir ke program Mekaar, yaitu pembiayaan yang disalurkan PNM khusus kepada perempuan pelaku usaha ultra mikro di berbagai pelosok Indonesia.",
+   "Minat investor terhadap surat utang ini ternyata jauh melampaui target awal. PNM semula hanya menawarkan Rp1,50 triliun, tetapi permintaan yang masuk mencapai 1,73 kali dari jumlah itu, sehingga dana yang akhirnya dihimpun naik menjadi Rp2,59 triliun. Ada dua jenis surat utang yang diterbitkan sekaligus, yaitu obligasi bertenor satu tahun dengan bunga 7,05 persen per tahun, dan sukuk bertenor tiga tahun dengan imbal hasil 7,10 persen per tahun. Kedua instrumen ini merupakan tahap keempat dan kelima dari satu program penerbitan surat utang berkelanjutan milik PNM yang sudah berjalan sejak sebelumnya.",
+   "Orange Bond dan Orange Sukuk termasuk instrumen keuangan berwawasan sosial yang dirancang agar dananya dipakai untuk kegiatan yang memperhatikan kesetaraan gender, salah satunya memberi akses modal kepada perempuan. Hal ini sejalan dengan bisnis utama PNM lewat program Mekaar. Penerbitan ini juga terjadi di tengah kondisi pasar keuangan global yang belum stabil pada awal 2026, mulai dari kenaikan harga minyak, konflik geopolitik yang berkepanjangan, hingga tekanan inflasi dan suku bunga. Meski begitu, PNM menyebut investor tetap memberi respons positif terhadap penerbitan ini.",
+   "Direktur Utama PNM, Kindaris, mengatakan Orange Bond menjadi salah satu cara PNM menyediakan sumber pembiayaan yang sejalan dengan misi pemberdayaan perempuan. Ia menambahkan bahwa akses pembiayaan akan lebih bermanfaat jika disertai pendampingan usaha, supaya perempuan pelaku usaha ultra mikro bisa mengembangkan usahanya secara bertahap."
+  ],
+  "fotoAdegan": "Woman arranging small goods at a modest market stall in an Indonesian village, morning light, simple wooden cart",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/07/6ac65a11e1d9a-permodalan-nasional-madani-pnm_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah PNM menambah utang baru sebesar Rp2,59 triliun lewat dua surat utang bertema sosial, padahal target awal cuma Rp1,5 triliun. Pembeli surat utang ini bersedia memberi dana 1,73 kali lebih banyak dari yang diminta, tanda investor masih berminat meski suku bunga yang ditawarkan, 7,05 persen untuk yang jatuh tempo setahun dan 7,10 persen untuk yang tiga tahun, tidak jauh beda dari surat utang pada umumnya. Yang kena dampak langsung adalah perempuan pelaku usaha ultra mikro peserta program Mekaar, karena dana ini yang nantinya disalurkan jadi pinjaman modal usaha kepada mereka. Penerbitan ini disebut sebagai tahap keempat dan kelima dari satu program penerbitan berkelanjutan, artinya PNM memang berencana menerbitkan surat utang serupa secara bertahap, bukan hanya kali ini saja, sehingga arahnya adalah pendanaan Mekaar makin mengandalkan pasar modal lewat skema surat utang bertema gender ini. Yang akan memastikan arah ini berlanjut adalah apakah PNM kembali menerbitkan tahap selanjutnya dari program yang sama, dan apakah jumlah nasabah Mekaar ikut bertambah sejalan dengan dana yang terkumpul.",
+  "imageV": "muya3xuz"
+ },
+ {
   "slug": "mdka-pefindo-pertahankan-rating-ida-utang-turun-tajam",
   "category": "Aksi Korporasi",
   "title": "MDKA: PEFINDO Pertahankan Rating [idA+], Utang Turun Tajam",
@@ -819,6 +874,33 @@ var ARTICLES = [
   "fotoAdegan": "Empty corporate meeting hall with rows of chairs facing a podium, soft morning light through tall windows",
   "takeaway": "Pemanggilan rapat kedua ini netral bagi pemegang saham CNKO, karena belum ada indikasi perubahan arah bisnis, hanya proses tata kelola yang diulang setelah rapat pertama kekurangan kuorum. Agenda perubahan anggaran dasar bisa saja menyentuh pos seperti modal dasar atau jumlah saham beredar perusahaan, tapi pemanggilan ini tidak merinci pasal mana yang diubah sehingga dampaknya ke struktur modal belum bisa dipastikan. Gagalnya kuorum pada rapat 20 Juli 2026 juga layak dicermati sebagai sinyal rendahnya partisipasi pemegang saham dalam keputusan strategis perusahaan. Yang perlu dipantau selanjutnya adalah apakah rapat pada 15 Oktober 2026 berhasil mencapai kuorum dan isi perubahan anggaran dasar yang akhirnya disetujui, dengan basis pemegang saham yang tercatat per 6 Oktober 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "livin-mandiri-berbagi-apresiasi-pekerja-rentan-di-hut-ke-28",
+  "category": "Perbankan",
+  "title": "Livin' Mandiri Berbagi [Apresiasi] Pekerja Rentan di HUT ke-28",
+  "deck": "Bank Mandiri kembali menggelar Livin' Mandiri Berbagi, membagikan 280 paket makanan dan minuman di 12 wilayah untuk pekerja rentan dalam rangka HUT ke-28 pada 2 Oktober 2026.",
+  "image": "assets/img/livin-mandiri-berbagi-apresiasi-pekerja-rentan-di-hut-ke-28.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T09:16:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471654-livin-mandiri-berbagi-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri-rp28",
+  "tags": [
+   "Bank Mandiri",
+   "Livin Mandiri Berbagi",
+   "pekerja rentan",
+   "CSR perbankan"
+  ],
+  "body": [
+   "Bank Mandiri menandai hari ulang tahunnya yang ke-28 pada 2 Oktober 2026 dengan kembali menggelar program Livin' Mandiri Berbagi, membagikan masing-masing 280 paket makanan dan minuman di 12 titik wilayah Indonesia. Sasaran program ini adalah pekerja rentan, yakni kelompok pekerja informal yang menjalankan usaha atau jasa sehari-hari namun jarang mendapat perhatian khusus dari perusahaan besar.",
+   "Program ini bukan kegiatan sesaat yang hanya muncul saat perayaan ulang tahun. Livin' Mandiri Berbagi sudah berjalan secara berkelanjutan sejak April 2026 di berbagai wilayah Indonesia, dan edisi HUT kali ini mengusung tema besar perusahaan, 'Tumbuh Bersama Majukan Indonesia'.",
+   "Corporate Secretary Bank Mandiri Adhika Vista menyebut momentum ulang tahun perusahaan dipakai untuk mendengar kebutuhan masyarakat di sekitar dan ikut memenuhinya. 'Perjalanan 28 tahun Bank Mandiri kami maknai dengan terus tumbuh bersama masyarakat dan berbagi manfaat bagi sesama. Karena itu, melalui Livin' Mandiri Berbagi, kami ingin memberikan apresiasi kepada para pekerja rentan yang setiap hari turut berkontribusi dalam mendukung aktivitas dan perekonomian masyarakat,' ujar Adhika, Jumat (2/10/2026).",
+   "Dengan 280 paket di masing-masing dari 12 titik, total ada sekitar 3.360 paket makanan dan minuman yang dibagikan pada edisi HUT kali ini saja, di luar penyaluran rutin yang sudah berjalan sejak April 2026."
+  ],
+  "fotoAdegan": "Volunteers handing out food and drink packages to street food vendors and motorbike taxi drivers on a busy Indonesian street, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/07/6ac5d4687f528-livin-mandiri-berbagi-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Program ini sebenarnya bukan hal baru, sebab Livin' Mandiri Berbagi sudah berjalan sejak April 2026 dan edisi HUT kali ini memakai skala yang sama seperti sebelumnya, yaitu 280 paket di tiap titik dari 12 wilayah, tanpa angka yang menunjukkan apakah jangkauannya membesar dari waktu ke waktu. Yang merasakan dampak langsung adalah pekerja rentan, yaitu pekerja informal seperti pedagang kecil atau pekerja harian yang disasar program ini, sementara bagi Bank Mandiri sendiri kegiatan ini lebih berfungsi membangun citra menjelang usia ke-28 ketimbang mengubah akses mereka ke kredit atau tabungan. Yang belum terlihat dari data ini adalah total akumulasi paket yang sudah dibagikan sejak April 2026 serta kriteria pemilihan 12 wilayah tersebut, sehingga belum bisa dipastikan apakah ini akan membesar jadi program reguler atau tetap jadi acara simbolis tahunan. Laporan tanggung jawab sosial perusahaan, yaitu ringkasan kegiatan sosial yang biasa dirilis bank setiap tahun, akan jadi penanda ke arah mana program ini sebenarnya bergerak.",
+  "imageV": "muya3yb0"
  },
  {
   "slug": "hut-ke-28-bank-mandiri-3-360-paket-dibagi-ke-pekerja-rentan",

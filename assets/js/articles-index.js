@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "potensi-transaksi-ip-kreatif-di-jfc-2026-naik-ke-rp3-51-miliar",
+  "category": "Industri",
+  "title": "Potensi Transaksi IP Kreatif di JFC 2026 Naik ke [Rp3,51 Miliar]",
+  "deck": "Kemendag memfasilitasi 38 pelaku komik, animasi, dan gim di JFC 2026, dengan potensi transaksi US$195 ribu, naik 56,8 persen dari tahun sebelumnya.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/potensi-transaksi-ip-kreatif-di-jfc-2026-naik-ke-rp3-51-miliar.jpg",
+  "imageV": "muya3xdo",
+  "tags": [
+   "Kemendag",
+   "ekspor kreatif",
+   "JFC 2026",
+   "industri kreatif"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-bawa-ip-kreatif-ke-jfc-2026-potensi-transaksi-capai-rp351-miliar",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pnm-terbitkan-orange-bond-rp2-59-t-oversubscribed",
+  "category": "Pasar Modal",
+  "title": "PNM Terbitkan Orange Bond Rp2,59 T, [Oversubscribed]",
+  "deck": "PNM menerbitkan Orange Bond dan Orange Sukuk senilai Rp2,59 triliun, oversubscribed 1,73 kali, untuk memperkuat pembiayaan usaha ultra mikro perempuan lewat program Mekaar.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/pnm-terbitkan-orange-bond-rp2-59-t-oversubscribed.jpg",
+  "imageV": "muya3xuz",
+  "tags": [
+   "PNM",
+   "Orange Bond",
+   "Mekaar",
+   "ultra mikro"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471796-pnm-kembali-terbitkan-orange-bond-dan-orange-sukuk-rp259-triliun-perkuat-pembiayaan-dan-pemberdayaan-perempuan-ultra-mikro"
+ },
+ {
   "slug": "mdka-pefindo-pertahankan-rating-ida-utang-turun-tajam",
   "category": "Aksi Korporasi",
   "title": "MDKA: PEFINDO Pertahankan Rating [idA+], Utang Turun Tajam",
@@ -509,6 +544,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f42d4f9244_48b811e85b.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "livin-mandiri-berbagi-apresiasi-pekerja-rentan-di-hut-ke-28",
+  "category": "Perbankan",
+  "title": "Livin' Mandiri Berbagi [Apresiasi] Pekerja Rentan di HUT ke-28",
+  "deck": "Bank Mandiri kembali menggelar Livin' Mandiri Berbagi, membagikan 280 paket makanan dan minuman di 12 wilayah untuk pekerja rentan dalam rangka HUT ke-28 pada 2 Oktober 2026.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/livin-mandiri-berbagi-apresiasi-pekerja-rentan-di-hut-ke-28.jpg",
+  "imageV": "muya3yb0",
+  "tags": [
+   "Bank Mandiri",
+   "Livin Mandiri Berbagi",
+   "pekerja rentan",
+   "CSR perbankan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471654-livin-mandiri-berbagi-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri-rp28"
  },
  {
   "slug": "hut-ke-28-bank-mandiri-3-360-paket-dibagi-ke-pekerja-rentan",
@@ -6425,54 +6477,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/26bd1f12ce_4affc83fb4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mncn-balas-surat-bursa-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "MNCN Balas Surat Bursa soal [Volatilitas] Transaksi Saham",
-  "deck": "MNCN menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material dan Global Mediacom tetap jadi pemegang saham utama.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MNCN",
-   "Media Nusantara Citra",
-   "Bursa Efek Indonesia",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c8a2b77193_6bf2fda064.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-jadwalkan-rupslb-pada-6-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "KDTN Jadwalkan [RUPSLB] pada 6 November 2026",
-  "deck": "PT Puri Sentul Permai Tbk akan menggelar RUPS Luar Biasa pada 6 November 2026. Pemegang saham yang tercatat per 14 Oktober 2026 berhak hadir dan memberi suara.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "RUPSLB",
-   "Puri Sentul Permai",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5ae2d96d5b_06143c9634.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-suspensi-total-perdagangan-saham-pure-going-concern",
-  "category": "Aksi Korporasi",
-  "title": "BEI Suspensi [Total] Perdagangan Saham PURE, Going Concern",
-  "deck": "BEI menghentikan sementara seluruh perdagangan saham PURE di semua pasar sejak Rabu, menyusul keraguan signifikan atas kelangsungan usaha perseroan.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PURE",
-   "suspensi saham",
-   "going concern",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9c644037cd_d2d9768e6b.pdf",
   "sourceLabel": "IDX"
  }
 ];

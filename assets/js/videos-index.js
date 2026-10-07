@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "kY583wYYspo",
+  "title": "Satu Tahun Koperasi Desa Merah Putih",
+  "category": "UMKM",
+  "program": "AKIP",
+  "summary": "Koperasi Desa/Kalurahan Merah Putih di Kabupaten Kulon Progo memasuki usia satu tahun, setelah diluncurkan Bupati Agung Setyawan pada Juli 2025 bertepatan dengan Hari Koperasi Nasional ke-78.",
+  "takeaway": "Perkembangan koperasi desa ini mencerminkan arah kebijakan penguatan ekonomi kerakyatan dan UMKM di tingkat desa yang patut dipantau pembaca."
+ },
+ {
   "id": "4Zf2YtdtBM4",
   "title": "Kadin Perkuat Dunia Usaha dengan Nilai Kebangsaan",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pemerintah Kabupaten Berau mengikuti Apkasi Otonomi Expo 2026 sembari mendorong UMKM lokal meningkatkan kualitas produk dan akses pasar internasional.",
   "takeaway": "Upaya ini penting bagi pembaca yang mengikuti perkembangan daya saing UMKM daerah di pasar global."
- },
- {
-  "id": "RN8kSid-9nA",
-  "title": "Menkeu Umumkan Utang BLBI Resmi Lunas",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Keuangan Suahasil Nazara mengumumkan kewajiban surat utang pemerintah terkait Bantuan Likuiditas Bank Indonesia era krisis 1997-1998 telah dinyatakan lunas.",
-  "takeaway": "Pelunasan utang BLBI menandai penyelesaian warisan krisis keuangan yang selama ini membebani fiskal negara."
  }
 ];

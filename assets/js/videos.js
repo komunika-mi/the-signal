@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "kY583wYYspo",
+  "title": "Satu Tahun Koperasi Desa Merah Putih",
+  "category": "UMKM",
+  "program": "AKIP",
+  "summary": "Koperasi Desa/Kalurahan Merah Putih di Kabupaten Kulon Progo memasuki usia satu tahun, setelah diluncurkan Bupati Agung Setyawan pada Juli 2025 bertepatan dengan Hari Koperasi Nasional ke-78.",
+  "takeaway": "Perkembangan koperasi desa ini mencerminkan arah kebijakan penguatan ekonomi kerakyatan dan UMKM di tingkat desa yang patut dipantau pembaca.",
+  "terbit": "2026-10-07T00:21:56+00:00"
+ },
+ {
   "id": "4Zf2YtdtBM4",
   "title": "Kadin Perkuat Dunia Usaha dengan Nilai Kebangsaan",
   "category": "Bisnis",

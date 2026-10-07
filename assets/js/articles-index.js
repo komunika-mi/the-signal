@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bbtn-resmi-catatkan-obligasi-sosial-rp2-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "BBTN resmi catatkan [obligasi] sosial Rp2 triliun di BEI",
+  "deck": "Bank BTN mencatatkan Obligasi Berwawasan Sosial Berkelanjutan I Tahap II senilai Rp2 triliun di Bursa Efek Indonesia, bagian dari program payung Rp10 triliun.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBTN",
+   "obligasi",
+   "BEI",
+   "obligasi berkelanjutan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/499da5d06a_67e5c97a79.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "admf-catat-obligasi-dan-sukuk-baru-rp2-15-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ADMF Catat Obligasi dan Sukuk Baru [Rp2,15 Triliun]",
+  "deck": "Adira Finance mencatatkan obligasi Rp1,65 triliun dan sukuk mudharabah Rp500 miliar tahap IV di BEI, bunga 7,10-7,35 persen per tahun, jatuh tempo 2027-2029.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMF",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/19e710f64d_e4dce9ff24.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tebe-laba-bersih-turun-27-6-ke-rp20-1-miliar-di-s1-2026",
   "category": "Aksi Korporasi",
   "title": "TEBE: Laba Bersih [Turun] 27,6% ke Rp20,1 Miliar di S1 2026",
@@ -6434,38 +6466,6 @@ var ARTICLES = [
    "CNEC"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6090298c2_aa7e3a6f32.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inds-beli-mesin-bekas-anak-usaha-rp3-09-m-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "INDS Beli Mesin Bekas Anak Usaha Rp3,09 M [Afiliasi]",
-  "deck": "Indospring membeli dua mesin power press bekas dari anak usahanya, PT Indobaja Primamurni, senilai Rp3,09 miliar sebagai transaksi afiliasi.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDS",
-   "Indospring",
-   "transaksi afiliasi",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/351ecd96ab_b85ff752f1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srsn-direktur-independen-mundur-rupslb-akhir-desember",
-  "category": "Aksi Korporasi",
-  "title": "SRSN: Direktur Independen [Mundur], RUPSLB Akhir Desember",
-  "deck": "Indo Acidatama menerima pengunduran diri Sharad Ganesh Ugrankar dari jabatan Direktur Independen, efektif setelah disetujui RUPSLB yang dijadwalkan paling lambat 29 Desember 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRSN",
-   "Indo Acidatama",
-   "direksi",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f5630699cb_9a0e014946.pdf",
   "sourceLabel": "IDX"
  }
 ];

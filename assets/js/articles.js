@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bbtn-resmi-catatkan-obligasi-sosial-rp2-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "BBTN resmi catatkan [obligasi] sosial Rp2 triliun di BEI",
+  "deck": "Bank BTN mencatatkan Obligasi Berwawasan Sosial Berkelanjutan I Tahap II senilai Rp2 triliun di Bursa Efek Indonesia, bagian dari program payung Rp10 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T06:22:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/499da5d06a_67e5c97a79.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBTN",
+  "tags": [
+   "BBTN",
+   "obligasi",
+   "BEI",
+   "obligasi berkelanjutan"
+  ],
+  "body": [
+   "Mulai 7 Oktober 2026, PT Bank Tabungan Negara (Persero) Tbk (BBTN) mencatatkan Obligasi Berwawasan Sosial Berkelanjutan I Bank BTN Tahap II Tahun 2026 di Bursa Efek Indonesia, dengan total nilai Rp2 triliun. Obligasi ini terbagi dalam dua seri: Seri A senilai Rp950 miliar dengan bunga tetap 7,05 persen per tahun, berjangka waktu 370 hari kalender hingga jatuh tempo 16 Oktober 2027, dan Seri B senilai Rp1,05 triliun dengan bunga 7,25 persen per tahun, berjangka waktu tiga tahun hingga jatuh tempo 6 Oktober 2029. Kedua seri mendapat peringkat idAAA (triple A) dari Pefindo, peringkat tertinggi yang menandakan risiko gagal bayar sangat rendah.",
+   "Penerbitan ini merupakan tahap kedua dari program penawaran umum berkelanjutan Obligasi Berwawasan Sosial I Bank BTN, yang menargetkan total dana Rp10 triliun. Pada tahap pertama di tahun 2025, BTN telah menerbitkan obligasi serupa senilai Rp300 miliar, sehingga total dana yang sudah terhimpun dari dua tahap mencapai Rp2,3 triliun. PT Bank Rakyat Indonesia (Persero) Tbk bertindak sebagai wali amanat, sementara penjaminan emisi secara kesanggupan penuh dilakukan oleh PT BCA Sekuritas, PT BRI Danareksa Sekuritas, PT Indo Premier Sekuritas, dan PT Mandiri Sekuritas. Dua di antaranya, BRI Danareksa Sekuritas dan Mandiri Sekuritas, tercatat terafiliasi dengan BTN melalui kepemilikan saham Negara Republik Indonesia dan PT Danantara Asset Management.",
+   "Obligasi ini tidak dijamin dengan aset khusus, melainkan dengan seluruh harta kekayaan perseroan sesuai KUHPerdata, dengan hak pemegang obligasi setara tanpa hak preferen dibanding kreditur BTN lainnya. Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 6 Januari 2027. Masa penawaran umum berlangsung 30 September hingga 1 Oktober 2026, penjatahan dilakukan 2 Oktober 2026, dan distribusi elektronik serta pengembalian uang pemesanan dilakukan 6 Oktober 2026, sebelum resmi tercatat di BEI pada 7 Oktober 2026. Perseroan juga punya hak membeli kembali sebagian atau seluruh obligasi ini, tetapi paling cepat baru bisa dilakukan satu tahun setelah tanggal penjatahan."
+  ],
+  "fotoAdegan": "Rows of modest subsidized housing roofs under bright daylight, a worker checking tiles, suburban Indonesian residential complex",
+  "takeaway": "Penerbitan obligasi ini tergolong netral bagi BTN, karena ini pendanaan rutin perbankan yang sudah direncanakan sejak program payung Rp10 triliun diluncurkan, bukan sinyal masalah keuangan maupun pencapaian luar biasa, apalagi peringkat idAAA dari Pefindo menunjukkan risiko gagal bayar tetap rendah. Yang tersentuh dari sisi kinerja adalah beban bunga, sebab BTN kini wajib membayar bunga tetap 7,05 persen untuk Seri A dan 7,25 persen untuk Seri B setiap tiga bulan sampai obligasi ini lunas, sementara dana Rp2 triliun yang masuk tercatat sebagai arus kas dari aktivitas pendanaan yang nantinya disalurkan lagi sebagai pembiayaan. Yang perlu dipantau adalah pembayaran bunga pertama pada 6 Januari 2027 sebagai uji awal kelancaran pembayaran, serta kemungkinan BTN menerbitkan tahap selanjutnya, karena dari target payung Rp10 triliun baru Rp2,3 triliun yang terpakai lewat dua tahap penerbitan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "admf-catat-obligasi-dan-sukuk-baru-rp2-15-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ADMF Catat Obligasi dan Sukuk Baru [Rp2,15 Triliun]",
+  "deck": "Adira Finance mencatatkan obligasi Rp1,65 triliun dan sukuk mudharabah Rp500 miliar tahap IV di BEI, bunga 7,10-7,35 persen per tahun, jatuh tempo 2027-2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T06:21:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/19e710f64d_e4dce9ff24.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADMF",
+  "tags": [
+   "ADMF",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "BEI"
+  ],
+  "body": [
+   "PT Adira Dinamika Multi Finance Tbk (ADMF) resmi mencatatkan Obligasi Berkelanjutan VII Tahap IV Tahun 2026 senilai Rp1,65 triliun dan Sukuk Mudharabah Berkelanjutan VI Tahap IV Tahun 2026 senilai Rp500 miliar di Bursa Efek Indonesia mulai 7 Oktober 2026. Obligasi terbagi dua seri, Seri A senilai Rp1,079 triliun dengan bunga 7,10 persen per tahun dan jangka waktu 370 hari kalender hingga jatuh tempo 16 Oktober 2027, serta Seri B senilai Rp570,09 miliar dengan bunga 7,35 persen per tahun selama 36 bulan hingga jatuh tempo 6 Oktober 2029. Sukuk mudharabah juga terbagi dua seri dengan skema bagi hasil, Seri A senilai Rp325,41 miliar dengan nisbah 59,17 persen dari pendapatan yang dibagihasilkan setara imbal hasil 7,10 persen, dan Seri B senilai Rp174,59 miliar dengan nisbah 61,25 persen setara imbal hasil 7,35 persen. Dana diterbitkan pada 6 Oktober 2026, dan bunga maupun bagi hasil dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 6 Januari 2027.",
+   "Penerbitan ini merupakan tahap keempat dari dua program berkelanjutan yang sudah efektif sejak 26 Juni 2025, yakni Obligasi Berkelanjutan VII dengan target total Rp8 triliun dan Sukuk Mudharabah Berkelanjutan VI dengan target total Rp2 triliun. Dengan tahap IV ini, total obligasi yang sudah diterbitkan ADMF dari program tersebut mencapai Rp6,5 triliun dari target Rp8 triliun, menyisakan kuota sekitar Rp1,5 triliun untuk tahap selanjutnya. Sementara itu, sukuk mudharabah justru sudah terserap penuh Rp2 triliun pada tahap IV ini, pas sesuai target programnya. PT Bank Negara Indonesia (Persero) Tbk bertindak sebagai wali amanat, dengan rating idAAA dari Pefindo untuk obligasi dan idAAA(sy) untuk sukuk. Penjaminan emisi dilakukan oleh tujuh perusahaan sekuritas, yaitu BNI Sekuritas, BRI Danareksa Sekuritas, Indo Premier Sekuritas, Mandiri Sekuritas, Mega Capital Sekuritas, Sucor Sekuritas, dan Trimegah Sekuritas Indonesia, dengan skema kesanggupan penuh.",
+   "Dokumen keterbukaan menyebutkan obligasi dan sukuk ini tidak dijamin dengan jaminan khusus, melainkan dengan seluruh harta kekayaan perseroan, dan kedudukan pemegangnya pari passu tanpa hak preferen dengan kreditur lain. Perseroan berpeluang membeli kembali (buyback) obligasi dan sukuk ini, namun baru dapat dilakukan paling cepat satu tahun setelah tanggal penjatahan pada 2 Oktober 2026. Risiko utama yang disebutkan dalam dokumen adalah risiko kredit, yakni potensi nasabah pembiayaan gagal membayar cicilan atau melunasi kredit tepat waktu, yang dapat mengganggu arus kas perseroan."
+  ],
+  "fotoAdegan": "Rows of motorcycles and cars parked outside a multifinance dealership showroom in an Indonesian city, afternoon light",
+  "takeaway": "Laporan ini netral bagi ADMF karena penerbitan utang baru merupakan kelanjutan rutin dari program pendanaan yang sudah disetujui regulator sejak pertengahan 2025, bukan sinyal baru soal kondisi keuangan perusahaan. Yang tersentuh adalah beban bunga dan arus kas, karena setiap tiga bulan ADMF wajib membayar bunga 7,10 sampai 7,35 persen per tahun dari utang baru ini, sementara dana yang masuk dipakai untuk menambah modal penyaluran pembiayaan konsumen, aktivitas utama bisnis multifinance seperti ADMF. Yang perlu dipantau, pembayaran bunga pertama jatuh pada 6 Januari 2027, obligasi dan sukuk Seri A jatuh tempo 16 Oktober 2027 dan Seri B pada 6 Oktober 2029, serta menariknya kuota sukuk mudharabah dari program ini sudah terserap penuh Rp2 triliun pada tahap IV, sehingga perlu dilihat apakah ADMF akan membuka program sukuk baru sementara sisa kuota obligasi sekitar Rp1,5 triliun masih bisa diterbitkan pada tahap berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tebe-laba-bersih-turun-27-6-ke-rp20-1-miliar-di-s1-2026",
   "category": "Aksi Korporasi",
   "title": "TEBE: Laba Bersih [Turun] 27,6% ke Rp20,1 Miliar di S1 2026",

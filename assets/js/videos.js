@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "FxKglARxGhA",
+  "title": "Indonesia Dorong Tata Kelola Royalti Hak Cipta Lintas Negara",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah Indonesia mendorong tata kelola royalti hak cipta lintas negara dalam forum dialog global di Bali untuk melindungi hak ekonomi pencipta di era digital.",
+  "takeaway": "Tata kelola royalti lintas negara menyangkut aliran pendapatan pelaku industri kreatif dan digital, sehingga relevan bagi pembaca ekonomi.",
+  "terbit": "2026-10-07T08:39:57+00:00"
+ },
+ {
+  "id": "48iGCj5wQvs",
+  "title": "Aturan Pesangon Tak Boleh Dikali 0,5, PHK Diperketat",
+  "category": "Ketenagakerjaan",
+  "program": "OneNews Update",
+  "summary": "Menteri Ketenagakerjaan Yassierli menegaskan perusahaan tidak bisa lagi sembarangan melakukan PHK, seiring aturan baru yang melarang pengali pesangon sebesar 0,5.",
+  "takeaway": "Perubahan aturan pesangon dan PHK berdampak langsung pada biaya tenaga kerja perusahaan dan kepastian hak pekerja.",
+  "terbit": "2026-10-07T08:00:20+00:00"
+ },
+ {
   "id": "kY583wYYspo",
   "title": "Satu Tahun Koperasi Desa Merah Putih",
   "category": "UMKM",

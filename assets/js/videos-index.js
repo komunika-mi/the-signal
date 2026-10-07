@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "FxKglARxGhA",
+  "title": "Indonesia Dorong Tata Kelola Royalti Hak Cipta Lintas Negara",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah Indonesia mendorong tata kelola royalti hak cipta lintas negara dalam forum dialog global di Bali untuk melindungi hak ekonomi pencipta di era digital.",
+  "takeaway": "Tata kelola royalti lintas negara menyangkut aliran pendapatan pelaku industri kreatif dan digital, sehingga relevan bagi pembaca ekonomi."
+ },
+ {
+  "id": "48iGCj5wQvs",
+  "title": "Aturan Pesangon Tak Boleh Dikali 0,5, PHK Diperketat",
+  "category": "Ketenagakerjaan",
+  "program": "OneNews Update",
+  "summary": "Menteri Ketenagakerjaan Yassierli menegaskan perusahaan tidak bisa lagi sembarangan melakukan PHK, seiring aturan baru yang melarang pengali pesangon sebesar 0,5.",
+  "takeaway": "Perubahan aturan pesangon dan PHK berdampak langsung pada biaya tenaga kerja perusahaan dan kepastian hak pekerja."
+ },
+ {
   "id": "kY583wYYspo",
   "title": "Satu Tahun Koperasi Desa Merah Putih",
   "category": "UMKM",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Harga cabai rawit merah di Pasar Klender, Jakarta, mencapai Rp80.000 per kilogram di tengah pemantauan harga sembako oleh Kementerian Perdagangan.",
   "takeaway": "Lonjakan harga cabai menjadi salah satu indikator tekanan inflasi pangan yang dirasakan langsung masyarakat."
- },
- {
-  "id": "gqIM5TsIJF0",
-  "title": "Harga Cabai di Pasar Pagesangan Surabaya Melonjak",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Harga cabai rawit di Pasar Pagesangan, Surabaya, melonjak hingga mencapai Rp60.000 per kilogram.",
-  "takeaway": "Kenaikan harga cabai di Surabaya menambah daftar daerah dengan tekanan inflasi pangan yang meningkat."
- },
- {
-  "id": "QAwOactC_ww",
-  "title": "Pemkab Berau Dorong UMKM Tembus Pasar Internasional",
-  "category": "UMKM",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah Kabupaten Berau mengikuti Apkasi Otonomi Expo 2026 sembari mendorong UMKM lokal meningkatkan kualitas produk dan akses pasar internasional.",
-  "takeaway": "Upaya ini penting bagi pembaca yang mengikuti perkembangan daya saing UMKM daerah di pasar global."
  }
 ];

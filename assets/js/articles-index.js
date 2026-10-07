@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-ajak-pengusaha-as-jadi-pembeli-di-tei-2026",
+  "category": "Global",
+  "title": "Indonesia Ajak Pengusaha AS Jadi [Pembeli] di TEI 2026",
+  "deck": "Mendag Busan mengundang pengusaha AS menjadi pembeli di Trade Expo Indonesia 2026, sembari membahas keluhan sertifikasi halal dan nasib perjanjian dagang ART dengan AmCham Indonesia.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/indonesia-ajak-pengusaha-as-jadi-pembeli-di-tei-2026.jpg",
+  "imageV": "muxv0max",
+  "tags": [
+   "TEI 2026",
+   "Kemendag",
+   "Amerika Serikat",
+   "ART"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-pengusaha-as-jadi-buyer-di-tei-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "inaf-panggil-rupslb-ubah-susunan-pengurus",
   "category": "Aksi Korporasi",
   "title": "INAF Panggil RUPSLB Ubah Susunan [Pengurus]",
@@ -6457,22 +6475,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470425-pertamina-siapkan-bisnis-energi-hijau-sebagai-sumber-pertumbuhan-baru"
- },
- {
-  "slug": "bakrieland-raih-penghargaan-employer-brand-2026",
-  "category": "Bisnis",
-  "title": "Bakrieland Raih [Penghargaan] Employer Brand 2026",
-  "deck": "Bakrieland meraih Indonesia Best Employer Brand Awards 2026 atas praktik pengembangan SDM, manajemen talenta, dan budaya kerja adaptif.",
-  "date": "30 September 2026",
-  "image": "assets/img/bakrieland-raih-penghargaan-employer-brand-2026.jpg",
-  "imageV": "munx3wv5",
-  "tags": [
-   "Bakrieland",
-   "Employer Brand Awards",
-   "SDM",
-   "Properti"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470418-bakrieland-raih-indonesia-best-employer-brand-awards-2026-fokus-pada-pengembangan-talenta"
  }
 ];

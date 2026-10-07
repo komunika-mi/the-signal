@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indonesia-ajak-pengusaha-as-jadi-pembeli-di-tei-2026",
+  "category": "Global",
+  "title": "Indonesia Ajak Pengusaha AS Jadi [Pembeli] di TEI 2026",
+  "deck": "Mendag Busan mengundang pengusaha AS menjadi pembeli di Trade Expo Indonesia 2026, sembari membahas keluhan sertifikasi halal dan nasib perjanjian dagang ART dengan AmCham Indonesia.",
+  "image": "assets/img/indonesia-ajak-pengusaha-as-jadi-pembeli-di-tei-2026.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T08:36:57.343Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-pengusaha-as-jadi-buyer-di-tei-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "TEI 2026",
+   "Kemendag",
+   "Amerika Serikat",
+   "ART"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mengundang pelaku usaha Amerika Serikat untuk menjadi pembeli dalam Trade Expo Indonesia (TEI) ke-41 yang berlangsung 14 hingga 18 Oktober 2026 di Indonesia Convention Exhibition, BSD City, Tangerang. Undangan ini disampaikan dalam forum US-Indonesia Investment Summit di Jakarta, Selasa (6/10), sebagai bagian dari upaya pemerintah memperluas pasar ekspor produk dalam negeri. Pertemuan ini relevan bagi eksportir Indonesia karena menyangkut peluang mendapat pembeli baru dari salah satu mitra dagang utama negara ini.",
+   "Dalam forum tersebut, Budi menyebut tiga program andalan Kementerian Perdagangan untuk menopang ekspor, yakni pengamanan pasar dalam negeri, perluasan pasar ekspor, dan program pembinaan pelaku usaha lokal agar naik kelas ke pasar global. Ia juga menyinggung Agreement on Reciprocal Trade (ART), perjanjian dagang timbal balik dengan AS yang menurut Kemendag dapat memperkuat akses pasar dan rantai pasok kedua negara.",
+   "Di pertemuan terpisah dengan American Chamber of Commerce (AmCham) Indonesia pada hari yang sama, Budi menerima keluhan pelaku usaha AS soal aturan pemeriksaan halal yang mereka nilai menambah biaya dan waktu pengiriman barang. Kemendag menyatakan masukan itu akan diteruskan ke instansi terkait, tanpa memastikan apakah aturan akan diubah. Budi juga menegaskan implementasi ART masih menunggu kelanjutan investigasi excess capacity oleh pemerintah AS, sehingga manfaat perjanjian ini belum bisa dirasakan pelaku usaha kedua negara dalam waktu dekat."
+  ],
+  "fotoAdegan": "Workers arranging export-ready furniture and textile samples inside a large trade exhibition hall, soft morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/VxhdjwN6X5Zm658a9izrKQtmt0lainCgXUJ38WlS.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari pertemuan ini bukan aturan baru, melainkan sinyal bahwa perjanjian dagang ART antara Indonesia dan AS belum bisa berjalan penuh karena masih menunggu hasil investigasi AS soal dugaan kelebihan kapasitas produksi, semacam penyelidikan apakah barang dari Indonesia dijual terlalu murah ke pasar AS sehingga mengganggu produsen di sana. Selama investigasi itu belum selesai, eksportir Indonesia yang berharap mendapat kemudahan akses pasar AS lewat ART harus menunggu lebih lama. Pelaku usaha AS sendiri menyoroti aturan sertifikasi halal yang menurut mereka menambah biaya dan waktu pengiriman, keluhan yang ditampung Kemendag tapi belum dijawab dengan perubahan aturan. Arah yang terlihat adalah pendekatan bertahap, mendorong investasi dan pembelian lewat ajang seperti TEI sembari perundingan ART tetap berjalan di belakang, dan yang akan menunjukkan apakah ini bergerak maju adalah kabar hasil investigasi excess capacity atau perkembangan ART setelah TEI berlangsung 14-18 Oktober 2026.",
+  "imageV": "muxv0max"
+ },
+ {
   "slug": "inaf-panggil-rupslb-ubah-susunan-pengurus",
   "category": "Aksi Korporasi",
   "title": "INAF Panggil RUPSLB Ubah Susunan [Pengurus]",

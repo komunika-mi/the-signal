@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "inaf-panggil-rupslb-ubah-susunan-pengurus",
+  "category": "Aksi Korporasi",
+  "title": "INAF Panggil RUPSLB Ubah Susunan [Pengurus]",
+  "deck": "Indofarma memanggil RUPSLB pada 29 Oktober 2026 dengan agenda tunggal perubahan susunan direksi dan/atau komisaris, calonnya ditentukan pemegang Saham Seri A Dwiwarna.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INAF",
+   "RUPSLB",
+   "Indofarma",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7fb1cfb14f_0cc990a00a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-amrthdch7a-disesuaikan-kgi-usai-dividen-amrt-efektif-14-okt",
+  "category": "Aksi Korporasi",
+  "title": "Waran [AMRTHDCH7A] Disesuaikan KGI Usai Dividen AMRT, Efektif 14 Okt",
+  "deck": "KGI Sekuritas menyesuaikan harga dan rasio pelaksanaan waran terstruktur AMRTHDCH7A akibat dividen tunai AMRT. Hasil rumus baru diumumkan setelah pasar tutup pada 13 Oktober 2026.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HD",
+   "AMRT",
+   "waran terstruktur",
+   "KGI Sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4cbcd8b341_718569427c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cadangan-devisa-september-turun-tipis-ke-us-146-3-miliar",
   "category": "Moneter",
   "title": "Cadangan Devisa September [Turun] Tipis ke US$146,3 Miliar",
@@ -39,6 +71,22 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821526.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "cpri-rugi-rp4-68-miliar-auditor-ragukan-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "CPRI rugi Rp4,68 miliar, auditor ragukan [kelangsungan usaha]",
+  "deck": "Laporan keuangan tahunan 2022 yang baru disampaikan ke bursa menunjukkan rugi bersih Rp4,68 miliar, kas menyusut tajam, dan auditor menyoroti ketidakpastian material atas kelangsungan usaha.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CPRI",
+   "laporan keuangan",
+   "kelangsungan usaha",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202210/20261007123752-62570-0/FinancialStatement-2022-Tahunan-CPRI.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bpjs-kesehatan-gandeng-18-asuransi-tambahan-baru",
@@ -6426,53 +6474,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470418-bakrieland-raih-indonesia-best-employer-brand-awards-2026-fokus-pada-pengembangan-talenta"
- },
- {
-  "slug": "hd-waran-terstruktur-untr-disesuaikan-usai-dividen-efektif-8-okt",
-  "category": "Aksi Korporasi",
-  "title": "HD: Waran Terstruktur [UNTR] Disesuaikan Usai Dividen, Efektif 8 Okt",
-  "deck": "KGI Sekuritas menyesuaikan harga pelaksanaan dan rasio dua waran terstruktur berbasis saham UNTR menyusul aksi dividen tunai, efektif 8 Oktober 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HD",
-   "UNTR",
-   "waran terstruktur",
-   "KGI Sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/909645894d_535daa0b99.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cmpp-kaji-opsi-pulihkan-ekuitas-negatif-usai-suspensi-bei",
-  "category": "Aksi Korporasi",
-  "title": "CMPP Kaji Opsi Pulihkan [Ekuitas] Negatif Usai Suspensi BEI",
-  "deck": "CMPP mengkaji restrukturisasi utang, rights issue, atau penambahan modal tanpa HMETD untuk memulihkan ekuitas negatif yang membuat sahamnya disuspensi BEI sejak Juni 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CMPP",
-   "AirAsia Indonesia",
-   "suspensi saham",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8a5cc74c1_b157bacb89.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-catatkan-obligasi-rp1-t-dan-sukuk-rp676-63-m-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "LPPI [Catatkan] Obligasi Rp1 T dan Sukuk Rp676,63 M di BEI",
-  "deck": "Mulai 1 Oktober 2026 BEI mencatatkan obligasi Rp1 triliun dan sukuk mudharabah Rp676,63 miliar tahap IV LPPI, dengan rating idA dan idA(sy) dari Pefindo.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "obligasi korporasi",
-   "sukuk mudharabah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cba60ac95_fea9929081.pdf",
-  "sourceLabel": "IDX"
  }
 ];

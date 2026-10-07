@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "inaf-panggil-rupslb-ubah-susunan-pengurus",
+  "category": "Aksi Korporasi",
+  "title": "INAF Panggil RUPSLB Ubah Susunan [Pengurus]",
+  "deck": "Indofarma memanggil RUPSLB pada 29 Oktober 2026 dengan agenda tunggal perubahan susunan direksi dan/atau komisaris, calonnya ditentukan pemegang Saham Seri A Dwiwarna.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T14:22:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7fb1cfb14f_0cc990a00a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INAF",
+  "tags": [
+   "INAF",
+   "RUPSLB",
+   "Indofarma",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Indofarma (Persero) Tbk (INAF) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 29 Oktober 2026, pukul 14.00 WIB, bertempat di Indonesia Health Learning Institute (IHLI) Bio Farma Group, Jalan Cipinang Cempedak I Nomor 36, Jakarta Timur. Rapat ini punya satu agenda tunggal, yaitu perubahan susunan pengurus perseroan, yang bisa berarti perubahan di jajaran direksi, dewan komisaris, atau keduanya. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan di Bursa Efek Indonesia pada Selasa, 6 Oktober 2026.",
+   "Dalam penjelasan resminya, Indofarma menyebut pengangkatan dan pemberhentian direksi maupun komisaris perseroan diatur dalam Anggaran Dasar, yakni Pasal 11 ayat 6 untuk direksi dan Pasal 14 ayat 7 untuk dewan komisaris. Kedua pasal itu mewajibkan kehadiran pemegang Saham Seri A Dwiwarna, saham khusus yang lazim dipegang negara di perusahaan BUMN, dan keputusan RUPS harus disetujui oleh pemegang saham ini. Calon direksi maupun komisaris yang diajukan oleh pemegang Seri A Dwiwarna bersifat mengikat bagi RUPS, sehingga nama-nama yang akan disahkan dalam rapat ini sudah ditentukan lebih dulu oleh pemegang saham tersebut. Aturan yang sama juga berlaku jika RUPS ini dipakai untuk mencabut atau menguatkan keputusan pemberhentian sementara anggota direksi atau komisaris.",
+   "Rapat akan digelar secara elektronik lewat sistem eASY.KSEI, dengan registrasi kehadiran ditutup pukul 13.30 WIB pada hari rapat. Pemegang saham yang sudah memberikan kuasa bisa mengajukan pertanyaan soal agenda melalui email ke headoffice@indofarma.id dengan tembusan ke DM@datindo.com, dan jawabannya akan dikirim paling lambat tiga hari kerja setelah rapat selesai. Keputusan atas agenda tunggal ini sah jika disetujui oleh pemegang Saham Seri A Dwiwarna bersama pemegang Saham Seri B yang mewakili lebih dari separuh total saham dengan hak suara yang hadir dalam rapat."
+  ],
+  "fotoAdegan": "Workers in lab coats inspecting pharmaceutical production line equipment inside a modern factory hall, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi Indofarma karena pemanggilan RUPSLB untuk mengubah susunan direksi atau komisaris adalah proses tata kelola yang calonnya sudah ditentukan lebih dulu oleh pemegang Saham Seri A Dwiwarna, saham khusus milik negara di BUMN ini, sehingga dokumen ini belum memberi sinyal soal siapa yang masuk atau keluar dari jajaran pengurus. Pergantian nama di direksi atau komisaris tidak langsung mengubah angka ekuitas, arus kas, atau laba per saham perusahaan, tapi pelaku pasar tetap memperhatikannya karena tim manajemen baru biasanya membawa perubahan strategi, termasuk soal arah pemulihan keuangan Indofarma yang selama ini menjadi perhatian investor. Yang perlu dipantau adalah hasil RUPSLB pada 29 Oktober 2026, terutama nama-nama yang akhirnya disahkan menggantikan posisi di direksi atau komisaris, karena baru pada saat itu arah kebijakan pengurus baru bisa mulai dinilai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "waran-amrthdch7a-disesuaikan-kgi-usai-dividen-amrt-efektif-14-okt",
+  "category": "Aksi Korporasi",
+  "title": "Waran [AMRTHDCH7A] Disesuaikan KGI Usai Dividen AMRT, Efektif 14 Okt",
+  "deck": "KGI Sekuritas menyesuaikan harga dan rasio pelaksanaan waran terstruktur AMRTHDCH7A akibat dividen tunai AMRT. Hasil rumus baru diumumkan setelah pasar tutup pada 13 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T14:04:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4cbcd8b341_718569427c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HD",
+  "tags": [
+   "HD",
+   "AMRT",
+   "waran terstruktur",
+   "KGI Sekuritas"
+  ],
+  "body": [
+   "PT KGI Sekuritas Indonesia (kode HD) menyampaikan keterbukaan informasi soal penyesuaian harga pelaksanaan dan rasio pelaksanaan waran terstruktur bersandi AMRTHDCH7A. Waran ini diterbitkan KGI dengan saham PT Sumber Alfaria Trijaya (AMRT) sebagai acuan, dan penyesuaian dilakukan karena AMRT membagikan dividen tunai. Rumus penyesuaian diumumkan pada 6 Oktober 2026, sementara hasil penghitungannya baru akan disampaikan setelah pasar tutup pada cum date, 13 Oktober 2026, dan berlaku efektif mulai 14 Oktober 2026.",
+   "Sebelum penyesuaian, harga pelaksanaan AMRTHDCH7A ditetapkan Rp1.800 dengan rasio pelaksanaan 10 waran berbanding 1 saham AMRT. Dokumen ini belum mencantumkan angka setelah penyesuaian, keduanya masih tertulis tanda strip, karena rumusnya memakai harga penutupan saham AMRT pada cum date 13 Oktober 2026 yang belum terjadi saat surat ini diterbitkan. Menurut lampiran term sheet, penyesuaian dihitung lewat pengali yang membandingkan harga pasar AMRT sebelum dan sesudah dividen dibagikan, sehingga nilai ekonomis waran bagi pemegangnya tidak berubah akibat dividen tersebut.",
+   "Waran terstruktur semacam ini adalah produk turunan yang diterbitkan sekuritas, bukan oleh emiten sahamnya sendiri, dan memberi pemegangnya hak membeli saham acuan pada harga dan rasio tertentu. Karena AMRT membagikan dividen, harga sahamnya di pasar biasanya turun sebesar nilai dividen itu pada hari pembagian, sehingga KGI selaku penerbit wajib mengoreksi harga dan rasio pelaksanaan agar pemegang waran tidak dirugikan atau diuntungkan secara tidak wajar oleh aksi korporasi tersebut."
+  ],
+  "fotoAdegan": "Jakarta's Sudirman business district skyscrapers at dusk with office lights switching on, traffic streaming below",
+  "takeaway": "Laporan ini netral bagi AMRT maupun bagi KGI Sekuritas selaku penerbit waran, karena isinya murni penyesuaian teknis instrumen derivatif akibat dividen, bukan informasi baru soal kinerja atau struktur permodalan AMRT. Yang tersentuh hanya mekanisme harga dan rasio pelaksanaan waran terstruktur, bukan ekuitas, arus kas, atau laba per saham AMRT itu sendiri, karena waran ini adalah produk turunan milik sekuritas, bukan saham AMRT langsung. Pelaku pasar derivatif tetap perlu mencermatinya agar nilai ekonomis hak beli mereka tidak tergerus dividen. Yang perlu dipantau berikutnya adalah angka hasil penyesuaian yang baru akan diumumkan setelah pasar tutup pada cum date 13 Oktober 2026, dengan tanggal efektif 14 Oktober 2026. Pemegang waran AMRTHDCH7A sebaiknya mengecek harga pelaksanaan dan rasio barunya begitu diumumkan pada tanggal tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "cadangan-devisa-september-turun-tipis-ke-us-146-3-miliar",
   "category": "Moneter",
   "title": "Cadangan Devisa September [Turun] Tipis ke US$146,3 Miliar",
@@ -56,6 +108,32 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah di sini adalah kecepatan pertumbuhan uang primer, bukan jumlahnya yang menyusut. Uang primer sendiri adalah gabungan uang tunai yang beredar plus simpanan bank di Bank Indonesia, semacam bahan dasar sebelum diputar jadi kredit oleh perbankan. Pertumbuhannya turun dari 16,3 persen pada Agustus menjadi 9,3 persen pada September, dan siaran pers ini tidak menjelaskan apakah itu karena permintaan kredit yang melambat, penyesuaian insentif likuiditas, atau sekadar efek pembanding tahun lalu yang lebih tinggi. Yang terdampak langsung adalah perbankan, karena angka ini mencerminkan seberapa banyak dana segar yang tersedia untuk disalurkan. Yang masih kurang untuk membaca ke mana arah ini bergerak adalah data uang primer bulan Oktober 2026, sebab satu bulan perlambatan belum cukup membedakan tren dari fluktuasi musiman biasa.",
   "imageV": "muxprr82"
+ },
+ {
+  "slug": "cpri-rugi-rp4-68-miliar-auditor-ragukan-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "CPRI rugi Rp4,68 miliar, auditor ragukan [kelangsungan usaha]",
+  "deck": "Laporan keuangan tahunan 2022 yang baru disampaikan ke bursa menunjukkan rugi bersih Rp4,68 miliar, kas menyusut tajam, dan auditor menyoroti ketidakpastian material atas kelangsungan usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T12:28:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202210/20261007123752-62570-0/FinancialStatement-2022-Tahunan-CPRI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CPRI",
+  "tags": [
+   "CPRI",
+   "laporan keuangan",
+   "kelangsungan usaha",
+   "properti"
+  ],
+  "body": [
+   "PT Capri Nusa Satu Properti Tbk (CPRI) menyampaikan laporan keuangan tahunan untuk tahun buku yang berakhir 31 Desember 2022, dengan opini audit baru terbit 5 Mei 2026 dari Kantor Akuntan Publik Kanaka Puradiredja, Suhartono (Nexia), ditandatangani partner Harris Siregar. Auditor memberikan opini wajar tanpa modifikasian, tetapi menambahkan paragraf penekanan mengenai ketidakpastian material terkait kelangsungan usaha. Perseroan mencatat rugi bersih Rp4,68 miliar untuk tahun 2022, sehingga akumulasi kerugian membengkak menjadi Rp78,41 miliar, serta mengalami penurunan kas sebesar Rp1,25 miliar sepanjang tahun tersebut. Saham CPRI saat ini berada di papan Pemantauan Khusus (watchlist) di Bursa Efek Indonesia.",
+   "Dari sisi posisi keuangan, jumlah aset Perseroan turun dari Rp211,96 miliar pada akhir 2021 menjadi Rp208,49 miliar pada akhir 2022. Kas dan setara kas yang dipegang perusahaan merosot tajam, dari Rp1,35 miliar menjadi hanya Rp105,48 juta dalam setahun. Di sisi liabilitas, jumlah utang justru naik dari Rp27,55 miliar menjadi Rp28,78 miliar, terutama karena utang kepada pemegang saham jangka panjang bertambah dari Rp19,37 miliar menjadi Rp20,11 miliar. Akibatnya, jumlah ekuitas Perseroan menyusut dari Rp184,42 miliar menjadi Rp179,71 miliar.",
+   "Auditor menetapkan pengakuan pendapatan sebagai hal audit utama karena nilainya signifikan terhadap kinerja Grup. Sepanjang 2022, CPRI mengakui pendapatan sebesar Rp3,43 miliar yang seluruhnya berasal dari jasa penyewaan gedung kantor, dengan pertimbangan manajemen pada jangka waktu perjanjian sewa, masa bebas sewa, penentuan tarif, dan insentif kepada penyewa. Auditor menguji perhitungan tersebut melalui pemeriksaan perjanjian sewa, invoice, bukti penerimaan kas, serta prosedur pisah batas transaksi di sekitar tanggal laporan."
+  ],
+  "fotoAdegan": "Exterior of a mid-rise commercial office building in Jakarta's business district, glass facade reflecting an overcast sky, quiet street below",
+  "takeaway": "Laporan ini condong negatif, karena auditor secara eksplisit menyebut ketidakpastian material atas kelangsungan usaha, bukan sekadar catatan administratif biasa. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang jadi hak pemegang saham, yang menyusut karena kerugian terus menumpuk, serta arus kas, yakni uang tunai yang benar-benar dipegang perusahaan untuk membayar kebutuhan operasional, yang anjlok dari Rp1,35 miliar menjadi hanya Rp105 juta dalam setahun. Pelaku pasar memperhatikan dua pos ini karena keduanya menunjukkan apakah perusahaan masih punya bantalan keuangan untuk bertahan, bukan sekadar untung atau rugi di atas kertas. Yang perlu dipantau berikutnya adalah seberapa jauh CPRI mengejar ketertinggalan pelaporannya, karena laporan untuk tahun buku 2022 ini baru muncul di Oktober 2026, yang berarti laporan tahunan 2023, 2024, dan 2025 kemungkinan masih menunggu, dan penyelesaiannya akan menentukan apakah status Pemantauan Khusus di papan perdagangan sahamnya bisa dicabut. Dukungan pemegang saham yang disebut dalam catatan laporan keuangan juga jadi faktor penting yang akan menentukan apakah Perseroan bisa keluar dari kondisi ini.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bpjs-kesehatan-gandeng-18-asuransi-tambahan-baru",

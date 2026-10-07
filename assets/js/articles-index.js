@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wskt-wkr-restrukturisasi-utang-rp31-miliar-ke-tcf-tenor-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: WKR [Restrukturisasi] Utang Rp31 Miliar ke TCF, Tenor ke 2027",
+  "deck": "Waskita Karya Realty, anak usaha Waskita Karya, merestrukturisasi utang modal kerja ke PT TCF senilai Rp31,14 miliar dengan tenor diperpanjang hingga akhir 2027.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "Waskita Karya Realty",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/226d5b94c4_721b4c6843.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wisl-dana-obligasi-rp172-67-miliar-rampung-100-persen",
+  "category": "Aksi Korporasi",
+  "title": "WISL: Dana Obligasi Rp172,67 Miliar [Rampung] 100 Persen",
+  "deck": "WISL merealisasikan seluruh dana Rp172,67 miliar dari obligasi berkelanjutan untuk modal kerja perusahaan anak, dengan sisa dana nol.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WISL",
+   "obligasi",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7e5221557e_11597deb4f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bbtn-resmi-catatkan-obligasi-sosial-rp2-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "BBTN resmi catatkan [obligasi] sosial Rp2 triliun di BEI",
@@ -6434,38 +6466,6 @@ var ARTICLES = [
    "penambahan modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a0d9f12af7_48b107658d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sfan-jual-51-95-saham-dpi-ke-induk-usaha-rp15-73-m-divestasi",
-  "category": "Aksi Korporasi",
-  "title": "SFAN Jual 51,95% Saham DPI ke Induk Usaha Rp15,73 M [Divestasi]",
-  "deck": "PT Surya Fajar Capital melepas 51,95% saham anak usahanya, PT Digitalisasi Perangkat Indonesia, ke induk usahanya sendiri, PT Surya Fajar Corpora, senilai Rp15,73 miliar.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SFAN",
-   "divestasi",
-   "transaksi afiliasi",
-   "PT Digitalisasi Perangkat Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/da5f967d3b_dbf1a248bc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "miti-teken-mou-dengan-cnec-garap-proyek-silika",
-  "category": "Aksi Korporasi",
-  "title": "MITI Teken MOU dengan CNEC Garap Proyek [Silika]",
-  "deck": "Mitra Investindo menandatangani MOU dengan anak usaha perusahaan nuklir negara China untuk menjajaki pengembangan tiga konsesi tambang pasir silika.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MITI",
-   "MOU",
-   "pasir silika",
-   "CNEC"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6090298c2_aa7e3a6f32.pdf",
   "sourceLabel": "IDX"
  }
 ];

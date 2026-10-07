@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wskt-wkr-restrukturisasi-utang-rp31-miliar-ke-tcf-tenor-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: WKR [Restrukturisasi] Utang Rp31 Miliar ke TCF, Tenor ke 2027",
+  "deck": "Waskita Karya Realty, anak usaha Waskita Karya, merestrukturisasi utang modal kerja ke PT TCF senilai Rp31,14 miliar dengan tenor diperpanjang hingga akhir 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T08:42:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/226d5b94c4_721b4c6843.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "Waskita Karya Realty",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Waskita Karya Realty (WKR), anak usaha PT Waskita Karya (Persero) Tbk yang sahamnya dikuasai 99,99 persen oleh Waskita, menandatangani perubahan perjanjian kredit dengan PT TEZ Capital and Finance (TCF) pada 6 Oktober 2026. Perubahan ini merestrukturisasi fasilitas pembiayaan modal kerja yang awalnya disepakati lewat akta tanggal 15 November 2022 beserta perubahan-perubahannya.",
+   "Dalam perubahan ini, jangka waktu restrukturisasi diperpanjang sampai 31 Desember 2027. Saldo pokok yang disetujui untuk direstrukturisasi sebesar Rp31.136.710.842, atau sekitar Rp31,14 miliar. Bunga ditetapkan 15 persen per tahun, tetapi skema pembayarannya berbeda antarperiode, pada tahun pertama yaitu Januari sampai Desember 2026, bunga yang dibayar 10 persen per tahun, sementara sisa 5 persen ditunda pembayarannya hingga 31 Desember 2026. Baru pada tahun kedua, Januari sampai Desember 2027, seluruh bunga 15 persen per tahun dibayar penuh.",
+   "Waskita menyebut restrukturisasi ini diharapkan memberi dampak positif bagi kondisi keuangan WKR, khususnya dalam menunjang program penyehatan perusahaan dan menjaga keberlanjutan arus kas anak usaha tersebut."
+  ],
+  "fotoAdegan": "Unfinished residential tower blocks at a construction site on the outskirts of Jakarta, cranes and scaffolding, late afternoon haze",
+  "takeaway": "Laporan ini condong netral bagi Waskita Karya, sebab nilai utang yang direstrukturisasi, Rp31,14 miliar, tergolong kecil untuk skala grup konstruksi sebesar ini, dan beban bunga tahunan sebenarnya tetap 15 persen, cuma jadwal pembayarannya yang digeser. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang dipakai perusahaan untuk operasional sehari-hari, karena perpanjangan tenor sampai akhir 2027 dan penundaan sebagian bunga tahun ini memberi WKR ruang lebih longgar sebelum harus membayar penuh, sehingga risiko gagal bayar jangka pendek berkurang. Karena Waskita menguasai hampir seluruh saham WKR, kondisi keuangan anak usaha ini tetap masuk ke laporan keuangan konsolidasi induk meski pengaruhnya kecil. Yang perlu dipantau berikutnya adalah pembayaran bunga tertunda 5 persen yang jatuh tempo 31 Desember 2026, serta berakhirnya masa restrukturisasi pada 31 Desember 2027 saat kemampuan WKR melunasi kewajiban ini akan teruji.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wisl-dana-obligasi-rp172-67-miliar-rampung-100-persen",
+  "category": "Aksi Korporasi",
+  "title": "WISL: Dana Obligasi Rp172,67 Miliar [Rampung] 100 Persen",
+  "deck": "WISL merealisasikan seluruh dana Rp172,67 miliar dari obligasi berkelanjutan untuk modal kerja perusahaan anak, dengan sisa dana nol.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T08:38:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7e5221557e_11597deb4f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WISL",
+  "tags": [
+   "WISL",
+   "obligasi",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Wahana Inti Selaras (WISL) melaporkan ke Otoritas Jasa Keuangan bahwa dana hasil Obligasi Berkelanjutan I Wahana Inti Selaras Tahap IV Tahun 2026, yang efektif sejak 26 Juni 2025, sudah seluruhnya terpakai. Dari total dana yang terkumpul Rp173,42 miliar, setelah dipotong biaya penawaran umum sebesar Rp747,77 juta, hasil bersih yang diterima perusahaan adalah Rp172,67 miliar. Seluruh dana bersih itu, atau 100 persen, direalisasikan untuk modal kerja perusahaan anak yang dalam dokumen ini disebut sebagai 'ITU', sehingga sisa dana yang belum terpakai tercatat nol.",
+   "Laporan ini disertai surat kepada OJK bertanggal 6 Oktober 2026 yang ditandatangani Bambang Prijono SP selaku Direktur Utama WISL. Surat tersebut merujuk pada Akta Perjanjian Perwaliamanatan Obligasi Berkelanjutan I Wahana Inti Selaras Tahap IV Tahun 2026 Nomor 31 tanggal 16 Juli 2026, serta Peraturan OJK Nomor 30/POJK.04/2015 yang mewajibkan emiten melaporkan secara berkala realisasi penggunaan dana hasil penawaran umum.",
+   "Rincian biaya penawaran umum juga diungkap dalam dokumen. Biaya jasa penjaminan (underwriting fee) sebesar Rp26,01 juta, biaya jasa penyelenggaraan (management fee) Rp346,84 juta, biaya jasa penjualan (selling fee) Rp26,01 juta, biaya jasa profesi penunjang pasar modal Rp95 juta, biaya jasa lembaga penunjang pasar modal Rp182,37 juta, biaya jasa konsultasi keuangan nihil, dan biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi Rp71,53 juta. Dokumen resmi ini ditandatangani secara elektronik oleh Heryanto Ali selaku Corporate Secretary WISL pada 7 Oktober 2026 pukul 08.38."
+  ],
+  "fotoAdegan": "Rows of commercial vans and trucks parked at a dealership lot, technicians inspecting engines, overcast afternoon light",
+  "takeaway": "Netral, karena laporan ini hanya menegaskan bahwa dana obligasi sudah tersalurkan 100 persen sesuai rencana awal ke modal kerja perusahaan anak, tanpa ada perubahan arah atau kabar baru yang mengubah pandangan terhadap kinerja WISL. Yang tersentuh di sini adalah arus kas dan beban bunga: obligasi pada dasarnya adalah utang, jadi penerbitannya menambah kewajiban bunga yang harus dibayar WISL ke depan, sementara kas hasil obligasi itu sendiri sudah habis mengalir ke anak usaha sehingga tidak ada lagi dana menganggur di kas induk. Karena dana sudah terpakai penuh, yang perlu dipantau selanjutnya adalah bagaimana anak usaha tersebut memanfaatkan modal kerja itu untuk menghasilkan pendapatan, serta kemampuan WISL membayar kupon dan melunasi obligasi sesuai jadwal dalam perjanjian perwaliamanatan tertanggal 16 Juli 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bbtn-resmi-catatkan-obligasi-sosial-rp2-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "BBTN resmi catatkan [obligasi] sosial Rp2 triliun di BEI",

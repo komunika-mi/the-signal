@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "beks-dana-it-rp215-m-baru-18-terealisasi-sisa-di-fasbi",
+  "category": "Aksi Korporasi",
+  "title": "BEKS: Dana IT Rp215 M Baru [18%] Terealisasi, Sisa di FASBI",
+  "deck": "Bank Banten baru merealisasikan 18,5 persen dari Rp215,1 miliar dana rights issue 2021 untuk perbaikan IT, sisa Rp175,3 miliar mengendap di FASBI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T23:12:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/faad5d6a30_645a602d98.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEKS",
+  "tags": [
+   "BEKS",
+   "rights issue",
+   "penggunaan dana",
+   "Bank Banten"
+  ],
+  "body": [
+   "PT Bank Pembangunan Daerah Banten Tbk (BEKS) menyampaikan kembali atau mengoreksi Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum Terbatas (PUT) VI dan VII per posisi 30 Juni 2026, mengacu pada Peraturan OJK No. 40 Tahun 2025. PUT VII, rights issue yang efektif pada 30 September 2021, menghimpun dana kotor Rp618,16 miliar dari penerbitan 8.028.094.314 saham baru dengan harga Rp77 per saham. Setelah dipotong biaya penawaran umum Rp3,57 miliar, dana bersih yang diterima Bank Banten tercatat Rp614,6 miliar.",
+   "Sesuai prospektus, dana PUT VII itu direncanakan untuk dua pos: 65 persen atau Rp399,49 miliar untuk penyaluran kredit, dan 35 persen atau Rp215,11 miliar untuk perbaikan struktur keuangan dan pengembangan teknologi informasi. Sampai 30 Juni 2026, porsi kredit sudah terpakai penuh sesuai rencana. Namun porsi perbaikan struktur keuangan dan IT baru terealisasi Rp39,8 miliar, atau sekitar 18,5 persen dari jatah Rp215,11 miliar yang dijanjikan. Akibatnya, total sisa dana PUT VII yang belum digunakan mencapai Rp175,3 miliar.",
+   "Sisa dana tersebut saat ini ditempatkan di Fasilitas Simpanan Bank Indonesia (FASBI) dengan bunga 4,75 persen per tahun, dengan pihak terkait berstatus pihak ketiga. Sebagai pembanding, rights issue sebelumnya, PUT VI, sudah terealisasi 100 persen dengan dana bersih Rp1,87 triliun. Secara total, dari Rp2,48 triliun dana hasil kedua penawaran umum terbatas itu, Rp2,31 triliun sudah terpakai dan Rp175,3 miliar masih tersisa. Laporan ini ditandatangani Rano Rahadian, Pjs Kepala Divisi Perencanaan Akuntansi dan Keuangan Bank Banten, pada 7 Oktober 2026."
+  ],
+  "fotoAdegan": "Teller counters inside a modern Indonesian regional bank branch, customers waiting calmly, soft morning light through glass doors",
+  "takeaway": "Laporan ini condong negatif bagi Bank Banten, karena menunjukkan rencana perbaikan struktur keuangan dan pengembangan teknologi informasi yang dijanjikan sejak rights issue 2021 baru terealisasi 18,5 persen setelah lebih dari empat tahun berjalan. Yang tersentuh adalah arus kas dan ekuitas bank, sebab dana Rp175,3 miliar hasil tambahan modal dari pemegang saham itu idealnya dipakai untuk investasi produktif seperti sistem IT, bukan sekadar mengendap sebagai simpanan di Bank Indonesia yang bunganya cuma 4,75 persen. Sisi baiknya, porsi dana untuk penyaluran kredit sudah terpakai penuh sesuai rencana, dan rights issue sebelumnya, PUT VI, sudah 100 persen terealisasi. Yang perlu dipantau berikutnya adalah laporan realisasi untuk semester kedua 2026, karena OJK mewajibkan Bank Banten melaporkan progres penggunaan sisa dana ini secara berkala sampai benar-benar habis terpakai sesuai rencana awal di prospektus.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "beks-rilis-koreksi-laporan-dana-rights-issue-rp1-87-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BEKS Rilis [Koreksi] Laporan Dana Rights Issue Rp1,87 Triliun",
+  "deck": "Bank Banten mengoreksi laporan realisasi dana rights issue 2020 senilai Rp1,87 triliun; porsi untuk pengembangan TI tercatat jauh di bawah rencana awal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T22:47:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3a813bb8db_c84661a35b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEKS",
+  "tags": [
+   "BEKS",
+   "Bank Banten",
+   "rights issue",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Bank Pembangunan Daerah Banten Tbk (BEKS) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil Penawaran Umum Terbatas VI (rights issue) untuk posisi per 30 Juni 2026, mengacu pada Peraturan OJK No. 40/2025 tentang Penggunaan Dana Hasil Penawaran Umum. Surat bernomor 1104/DIR-BB/X/2026 itu dikirim ke OJK pada 6 Oktober 2026 dan ditandatangani oleh Rano Rahadian, Pjs Kepala Divisi Perencanaan Akuntansi dan Keuangan bank tersebut.",
+   "Rights issue tersebut efektif sejak 8 Desember 2020, menerbitkan 37.431.400.914 saham baru dengan harga Rp50 per saham, sehingga total dana yang terkumpul mencapai Rp1.871.570.045.700. Setelah dipotong biaya emisi Rp4.213.577.800, yang terdiri dari antara lain jasa aktuaris Rp440 juta, biro administrasi efek Rp208.027.500, konsultan hukum Rp330 juta, penasihat keuangan dan arranger Rp2.512.537.300, notaris Rp131,4 juta, biaya cetak dan publikasi Rp52.613.000, audit penjatahan saham Rp39 juta, serta biaya pendaftaran ke OJK Rp500 juta, dana bersih yang tersisa untuk digunakan adalah Rp1.867.356.467.900. Dalam laporan ini, sisa dana yang belum terpakai tercatat nol, artinya seluruh dana bersih sudah disalurkan dan tidak ada yang ditempatkan di instrumen lain.",
+   "Menurut prospektus awal, dana tersebut direncanakan dibagi 65 persen atau Rp1.756.631.704.135 untuk penyaluran kredit, dan 35 persen atau Rp110.724.763.765 untuk perbaikan struktur keuangan dan pengembangan teknologi informasi. Namun pada tabel realisasi di laporan koreksi ini, dengan nilai rupiah yang sama persis untuk kedua pos tersebut, porsi yang dilaporkan terealisasi berubah menjadi 94,07 persen untuk kredit dan hanya 5,93 persen untuk pos perbaikan struktur keuangan/pengembangan TI, berbeda dari proporsi rencana awal 65 banding 35."
+  ],
+  "fotoAdegan": "A bank teller assisting a customer at a counter inside a modern Indonesian bank branch, soft indoor lighting",
+  "takeaway": "Laporan ini condong negatif, karena statusnya adalah koreksi atas laporan realisasi dana yang sudah pernah disampaikan sebelumnya, dan revisi semacam ini biasanya menandakan ada persoalan pada proses pencatatan atau pelaporan internal bank. Yang disentuh di sini adalah penggunaan modal segar hasil rights issue, yaitu dana yang didapat bank dari pemegang saham lama yang membeli saham baru; pelaku pasar memperhatikan pos ini karena menentukan seberapa cepat modal itu berubah jadi kredit yang menghasilkan bunga atau jadi infrastruktur teknologi yang menopang operasional jangka panjang. Meski bank melaporkan seluruh dana Rp1,87 triliun sudah habis terpakai tanpa sisa, porsi untuk pengembangan teknologi informasi yang dijanjikan sejak rights issue 2020 kini hanya tercatat 5,93 persen dari realisasi, jauh di bawah rencana awal 35 persen, menandakan janji modernisasi sistem belum terpenuhi sesuai porsi semula meski enam tahun sudah berlalu. Yang perlu dipantau berikutnya adalah apakah OJK meminta klarifikasi atas selisih angka antara laporan sebelumnya dan laporan koreksi ini, serta apakah laporan realisasi periode semester II 2026 nanti konsisten dengan angka yang baru dikoreksi ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "potensi-transaksi-ip-kreatif-di-jfc-2026-naik-ke-rp3-51-miliar",
   "category": "Industri",
   "title": "Potensi Transaksi IP Kreatif di JFC 2026 Naik ke [Rp3,51 Miliar]",
@@ -31,6 +83,85 @@ var ARTICLES = [
   "imageV": "muya3xdo"
  },
  {
+  "slug": "cmry-koreksi-laporan-dana-ipo-suntikan-ke-macrosentra-nihil",
+  "category": "Aksi Korporasi",
+  "title": "CMRY Koreksi Laporan Dana IPO, Suntikan ke [Macrosentra] Nihil",
+  "deck": "Cisarua Mountain Dairy mengoreksi laporan realisasi dana IPO per 30 Juni 2026: suntikan modal Rp713,9 miliar ke anak usaha Macrosentra Niagaboga masih nol rupiah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T22:28:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/200b5f8a0b_22e43f62aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMRY",
+  "tags": [
+   "CMRY",
+   "Cisarua Mountain Dairy",
+   "IPO",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Cisarua Mountain Dairy Tbk (CMRY) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum perdana (IPO) yang sebelumnya disampaikan pada 15 Juli 2026. Laporan koreksi per 30 Juni 2026 ini dikirim pada 7 Oktober 2026 dan ditandatangani Direktur Martua Sihaloho. Total dana yang dihimpun dari IPO pada 26 November 2021 tercatat Rp3,67 triliun, dan setelah dipotong biaya penawaran umum Rp96,16 miliar, dana bersih yang bisa dipakai perusahaan adalah Rp3,57 triliun.",
+   "Dari dana bersih tersebut, alokasi terbesar adalah belanja modal penambahan kapasitas produksi sebesar Rp1,18 triliun (33 persen dari total dana IPO). Sampai akhir Juni 2026 realisasinya baru Rp1,04 triliun (29,1 persen), menyisakan Rp138,1 miliar yang ditargetkan rampung paling lambat 2027. Untuk penyetoran modal ke anak usaha PT Macroprima Panganutama, dari rencana Rp892,4 miliar baru terealisasi Rp375 miliar, menyisakan Rp517,4 miliar dengan target penyelesaian 2030. Yang paling mencolok adalah penyetoran modal ke anak usaha PT Macrosentra Niagaboga: dari rencana Rp713,9 miliar, realisasinya masih nol rupiah hingga pertengahan 2026, dengan target penyelesaian yang sama, paling lambat 2030. Dana untuk ekspansi saluran distribusi terealisasi Rp488,7 miliar dari rencana Rp535,5 miliar, menyisakan Rp46,7 miliar yang juga ditargetkan selesai 2030. Adapun alokasi modal kerja operasional Rp251,1 miliar (7 persen) sudah habis terpakai sejak 2022.",
+   "Total sisa dana IPO yang belum terpakai per 30 Juni 2026 mencapai Rp1,42 triliun. Dana ini ditempatkan di deposito berjangka Bank Permata senilai Rp322,5 miliar (bunga 5 persen per tahun, tenor dua bulan), giro Bank BCA Rp651,5 juta (bunga 0,2 persen, tenor satu bulan), dan sisanya di sembilan seri obligasi negara: INDON 27 N Rp47,1 miliar, INDON 27 NN Rp236,4 miliar, INDON 27 Rp46,7 miliar, INDON 28 NN Rp309,9 miliar, INDON 31 NNN Rp102,3 miliar, INDOIS 28 N Rp47,2 miliar, INDON 31 NN Rp86,1 miliar, INDOIS 35 N Rp67,3 miliar, dan FR0059 Rp150 miliar, dengan imbal hasil berkisar 3,85 persen sampai 7 persen per tahun. Seluruh penempatan ini dilakukan pada pihak ketiga yang tidak berafiliasi dengan perusahaan."
+  ],
+  "fotoAdegan": "Workers in hairnets monitoring stainless steel dairy processing tanks and bottling lines inside a modern food factory in Indonesia",
+  "takeaway": "Laporan ini tergolong netral bagi fundamental Cimory, karena sifatnya administratif, mengoreksi data realisasi dana IPO yang sudah dilaporkan sebelumnya, bukan perubahan rencana bisnis baru. Yang patut dicermati adalah dana untuk entitas anak PT Macrosentra Niagaboga senilai Rp713,9 miliar belum terpakai sama sekali sejak IPO 2021, artinya ekspansi ke lini usaha anak usaha tersebut berjalan jauh lebih lambat dari rencana awal. Pos yang tersentuh adalah arus kas perusahaan, yaitu aliran uang masuk dan keluar, karena dana yang belum dipakai itu justru menghasilkan bunga dari deposito dan obligasi negara dengan imbal hasil 3,85 sampai 7 persen per tahun, sehingga uangnya tidak sepenuhnya menganggur meski belum dipakai sesuai rencana. Yang perlu dipantau berikutnya adalah laporan realisasi dana periode mendatang, untuk melihat apakah penyetoran modal ke Macrosentra Niagaboga dan sisa belanja modal kapasitas produksi, yang masing-masing ditargetkan rampung 2030 dan 2027, benar-benar mulai bergerak.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sofa-dapat-pinjaman-rp16-3-miliar-dari-aic-untuk-proyek-wte-bogor",
+  "category": "Aksi Korporasi",
+  "title": "SOFA dapat [pinjaman] Rp16,3 miliar dari AIC untuk proyek WTE Bogor",
+  "deck": "AEA, anak usaha SOFA, meminjam Rp16,3 miliar dari pengendali SOFA, AIC, berbunga 1 persen setahun untuk menutup setoran modal proyek WTE di Bogor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T22:21:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a658ba4fb2_03fdd96abb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOFA",
+  "tags": [
+   "SOFA",
+   "transaksi afiliasi",
+   "transaksi material",
+   "waste-to-energy"
+  ],
+  "body": [
+   "PT Ananta Energi Asia (AEA), perusahaan yang 99,99 persen sahamnya dimiliki PT Solusi Environment Asia Tbk (SOFA), menerima permintaan penyetoran modal dari PT Weiming Nusantara Gamma (WNG), konsorsium proyek pengolahan sampah menjadi listrik (waste-to-energy) di Bogor Raya tempat AEA memegang 10 persen saham. Untuk membayar kewajiban setoran sebesar US$900.000 itu, AEA menerima pinjaman dari PT Asia Investment Capital (AIC), yang juga merupakan pemegang saham pengendali SOFA dengan kepemilikan 70,97 persen, sebesar Rp16,3 miliar. Pinjaman berbunga 1 persen per tahun, berjangka waktu lima tahun sejak dana cair, tanpa jaminan, dan dapat dilunasi lebih cepat tanpa biaya atau penalti. Transaksi tercatat berlaku sejak 5 Oktober 2026.",
+   "Nilai pinjaman setara 48,87 persen dari ekuitas SOFA per 30 Juni 2026 yang sebesar Rp33,35 miliar, melampaui ambang 20 persen yang membuatnya digolongkan Transaksi Material menurut aturan OJK. Karena nilainya tidak sampai 50 persen ekuitas, transaksi ini tidak memerlukan persetujuan RUPS. Karena dilakukan antara AEA selaku perusahaan terkendali dan AIC selaku pengendali SOFA, transaksi ini juga tergolong Transaksi Afiliasi, namun direksi dan komisaris SOFA menyatakan tidak ada benturan kepentingan di dalamnya.",
+   "Manajemen menjelaskan pinjaman dari AIC dipilih ketimbang pinjaman bank karena WNG memberi tenggat penyetoran modal sampai 23 September 2026, dengan denda keterlambatan 0,02 persen per hari atau setara 7,3 persen per tahun, jauh lebih mahal dari bunga pinjaman AIC yang hanya 1 persen per tahun. Dengan asumsi setahun, bunga pinjaman ini hanya Rp163 juta dibanding potensi denda Rp1,1899 miliar jika AEA terlambat bayar. Pinjaman ini juga berfungsi sebagai pendanaan sementara sebelum SOFA menyelesaikan rencana penambahan modal dengan hak memesan efek terlebih dahulu (rights issue) yang sebelumnya ditargetkan tahun 2026 namun kini mundur ke 2027, karena sebagian dana rights issue itu rencananya dipakai AEA untuk melunasi pinjaman ini.",
+   "Dari sisi dampak keuangan, rasio liabilitas terhadap ekuitas SOFA secara konsolidasian naik dari 39,78 persen menjadi 88,65 persen akibat tambahan utang ini, sementara rasio utang terhadap ekuitas naik dari 0,011 kali menjadi 0,500 kali. Di sisi lain, likuiditas jangka pendek justru membaik karena kas bertambah tanpa tambahan utang jangka pendek, dengan current ratio naik dari 1,588 kali menjadi 2,817 kali. Penilai independen KJPP Ferdinand, Danar, Ichsan dan Rekan menyimpulkan transaksi ini wajar dan memberikan nilai tambah kumulatif sekitar Rp244 juta pada laba dan ekuitas SOFA dari semester dua 2026 hingga 2031, berasal dari penghematan biaya dibanding potensi denda keterlambatan."
+  ],
+  "fotoAdegan": "Workers in safety vests operating heavy machinery at an outdoor municipal waste sorting yard, overcast sky, industrial setting",
+  "takeaway": "Transaksi ini kami nilai netral bagi SOFA. Pinjaman dari pengendali memang menghindarkan AEA dari denda keterlambatan yang jauh lebih mahal dan tidak mengurangi porsi kepemilikan pemegang saham, tapi beban utang Perseroan melonjak tajam sehingga layak dipantau. Pos yang tersentuh adalah rasio utang terhadap ekuitas konsolidasian, yang melompat dari 0,011 kali menjadi 0,500 kali karena AEA menambah utang ke pihak berelasi tanpa ada modal baru yang masuk, dan rasio ini penting bagi pelaku pasar sebab menunjukkan seberapa besar perusahaan bersandar pada utang ketimbang modal sendiri. Yang perlu dipantau berikutnya adalah pelaksanaan rencana penambahan modal (rights issue) yang sudah disetujui RUPST 21 Mei 2026 namun mundur dari target 2026 ke 2027, karena dana dari aksi korporasi itulah yang direncanakan jadi sumber pelunasan pinjaman Rp16,3 miliar ini sebelum jatuh tempo lima tahun mendatang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "boss-gelar-rups-tiga-tahun-sekaligus-saham-masih-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Gelar RUPS Tiga Tahun Sekaligus, Saham Masih [Suspensi]",
+  "deck": "BOSS memanggil RUPS Tahunan untuk tiga tahun buku tertunda sekaligus pada 29 Oktober 2026, di tengah dua tahun tanpa penjualan dan anak usaha yang masih pailit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T22:14:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/72a45928e0_0d666d35ab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "suspensi saham",
+   "batu bara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Tahunan sekaligus untuk tiga tahun buku, yaitu 2023, 2024, dan 2025, serta Rapat Umum Pemegang Saham Luar Biasa. Rapat akan digelar Kamis, 29 Oktober 2026 pukul 10.00 WIB di Wisma 77 Tower 1 Lantai 8, Jalan Letjen S. Parman Kav. 77, Jakarta Barat. Agenda RUPS Tahunan mencakup ratifikasi atas keterlambatan penyelenggaraan RUPS selama tiga tahun buku tersebut, persetujuan laporan tahunan dan pengesahan laporan keuangan untuk 2023 hingga 2025 sekaligus pembebasan tanggung jawab bagi Direksi dan Dewan Komisaris, penetapan penggunaan laba, penunjukan akuntan publik untuk mengaudit tahun buku 2026, serta penetapan honorarium dan tunjangan bagi pengurus perusahaan. Dalam RUPS Luar Biasa, perusahaan meminta persetujuan pemegang saham untuk menyesuaikan Pasal 3 Anggaran Dasar mengikuti standar klasifikasi usaha KBLI 2025.",
+   "Laporan tahunan yang dilampirkan menunjukkan kondisi yang menjelaskan mengapa RUPS baru digelar sekarang. Sepanjang 2024 dan 2025, Direksi yang dipimpin Direktur Utama Freddy Tedjasasmita melaporkan perusahaan tidak membukukan produksi maupun penjualan batu bara sama sekali, sehingga margin laba kotor pada dua tahun itu tidak dapat dihitung. Anak usaha PT Bangun Olahsarana Sukses (BOS) berstatus pailit sejak 28 September 2022 dan pengurusannya dipegang Tim Kurator, meski Hakim Pengawas pada 21 Maret 2024 mengizinkan BOS tetap beroperasi secara going concern sehingga tetap dikonsolidasikan dalam laporan keuangan BOSS. Anak usaha lain, PT Pratama Bersama, juga tidak beroperasi sejak awal 2024 karena perusahaan masih mencari investor atau mitra strategis untuk menghidupkan kembali kegiatan tambangnya. Saham BOSS sendiri berada dalam status suspensi sejak 22 Februari 2024 hingga saat laporan tahunan 2025 disusun, sehingga tidak ada data perdagangan untuk periode tersebut. Data harga saham terakhir yang tercatat adalah pada penutupan 31 Desember 2023, dengan total 1,4 miliar lembar saham beredar dan kapitalisasi pasar sebesar Rp70 miliar.",
+   "Perusahaan menegaskan tidak mengirim undangan khusus kepada pemegang saham, sehingga iklan pemanggilan ini berlaku sebagai undangan resmi. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 6 Oktober 2026 pukul 16.00 WIB. Pemberian kuasa dapat dilakukan melalui sistem elektronik e-RUPS KSEI paling lambat satu hari kerja sebelum rapat berlangsung, dan bahan-bahan terkait agenda rapat tersedia di kantor pusat perusahaan maupun situs resminya sejak tanggal pemanggilan hingga hari rapat."
+  ],
+  "fotoAdegan": "Idle open-pit coal mine terraces overgrown with grass, a rusting excavator parked unused, overcast tropical sky",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, sebab RUPS Tahunan yang mestinya digelar setiap tahun baru dipanggil sekaligus untuk tiga tahun buku yang tertunda, tanda nyata ada masalah serius dalam tata kelola dan arus informasi ke pemegang saham. Yang tersentuh bukan cuma soal administrasi: perusahaan dua tahun berturut-turut tidak mencatat penjualan sama sekali, artinya tidak ada kas masuk dari bisnis inti yang bisa menopang ekuitas atau membayar kewajiban, sementara anak usahanya berstatus pailit dan anak usaha lain menganggur sejak 2024. Saham BOSS pun sudah disuspensi bursa sejak Februari 2024, sehingga pemegang saham bahkan tidak bisa menjual kepemilikannya di pasar sampai sekarang. Yang perlu dipantau pemegang saham adalah hasil RUPS pada 29 Oktober 2026, terutama apakah pemegang saham menyetujui laporan keuangan tiga tahun yang tertunda itu, serta perkembangan pencarian investor atau mitra strategis untuk menghidupkan kembali tambang anak usahanya, karena keberlanjutan usaha BOSS digambarkan sendiri oleh manajemen bergantung penuh pada hal itu.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pnm-terbitkan-orange-bond-rp2-59-t-oversubscribed",
   "category": "Pasar Modal",
   "title": "PNM Terbitkan Orange Bond Rp2,59 T, [Oversubscribed]",
@@ -56,6 +187,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret di sini adalah PNM menambah utang baru sebesar Rp2,59 triliun lewat dua surat utang bertema sosial, padahal target awal cuma Rp1,5 triliun. Pembeli surat utang ini bersedia memberi dana 1,73 kali lebih banyak dari yang diminta, tanda investor masih berminat meski suku bunga yang ditawarkan, 7,05 persen untuk yang jatuh tempo setahun dan 7,10 persen untuk yang tiga tahun, tidak jauh beda dari surat utang pada umumnya. Yang kena dampak langsung adalah perempuan pelaku usaha ultra mikro peserta program Mekaar, karena dana ini yang nantinya disalurkan jadi pinjaman modal usaha kepada mereka. Penerbitan ini disebut sebagai tahap keempat dan kelima dari satu program penerbitan berkelanjutan, artinya PNM memang berencana menerbitkan surat utang serupa secara bertahap, bukan hanya kali ini saja, sehingga arahnya adalah pendanaan Mekaar makin mengandalkan pasar modal lewat skema surat utang bertema gender ini. Yang akan memastikan arah ini berlanjut adalah apakah PNM kembali menerbitkan tahap selanjutnya dari program yang sama, dan apakah jumlah nasabah Mekaar ikut bertambah sejalan dengan dana yang terkumpul.",
   "imageV": "muya3xuz"
+ },
+ {
+  "slug": "adhi-lepas-saham-jmj-ke-smi-nilai-divestasi-rp1-77-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Lepas Saham JMJ ke SMI, Nilai [Divestasi] Rp1,77 Triliun",
+  "deck": "ADHI menjual seluruh 47,18% sahamnya di PT Jasamarga Jogja Solo kepada SMI senilai Rp1,77 triliun, ditargetkan tuntas akhir November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T21:50:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d8488cb080_7d2c890e4f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "divestasi",
+   "JMJ",
+   "SMI"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk berencana menjual seluruh kepemilikannya di PT Jasamarga Jogja Solo (JMJ), yaitu 1.714.808 saham biasa yang mewakili 47,18 persen dari seluruh saham JMJ, kepada PT Sarana Multi Infrastruktur (SMI), perusahaan pembiayaan infrastruktur milik negara. Transaksi ini bernilai Rp1.765.816.000.000, atau sekitar Rp1,77 triliun, berdasarkan perjanjian jual beli bersyarat yang diteken kedua pihak pada 30 September 2026. Setelah transaksi tuntas, ADHI tidak lagi memiliki saham di JMJ dan SMI akan menjadi pemegang sahamnya.",
+   "Karena nilai transaksi ini melebihi 50 persen ekuitas perseroan, transaksi dikategorikan sebagai transaksi material yang wajib mendapat persetujuan rapat umum pemegang saham sesuai aturan OJK. Sejumlah syarat harus dipenuhi sebelum transaksi efektif, antara lain konfirmasi dari Badan Pengatur Jalan Tol atas perubahan susunan pemegang saham JMJ, permohonan konfirmasi ketersediaan dana untuk pembebasan tanah proyek Jalan Tol Solo-Yogyakarta-NYIA Kulon Progo, dan persetujuan rencana teknik akhir Paket 2.1B. Penyelesaian transaksi ditargetkan paling lambat 30 November 2026.",
+   "Manajemen menyebut penjualan ini sebagai bagian dari strategi melepas aset non-inti untuk mengoptimalkan portofolio investasi dan memperkuat fokus pada bisnis konstruksi. Perseroan telah menunjuk penilai independen yang menerbitkan laporan penilaian saham pada 5 Oktober 2026 dan laporan pendapat kewajaran pada 7 Oktober 2026. Perseroan menegaskan transaksi ini bukan transaksi afiliasi maupun transaksi benturan kepentingan, dan disebut tidak berpotensi mengganggu kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Workers in hard hats operating heavy machinery on a toll road construction site, elevated highway pillars in background, bright daylight",
+  "takeaway": "Saya menilai laporan ini condong positif bagi ADHI, karena transaksi memasukkan dana tunai sekitar Rp1,77 triliun yang bisa dipakai memperkuat modal atau mengurangi utang, sejalan dengan strategi merampingkan aset di luar bisnis konstruksi inti. Pos yang tersentuh adalah ekuitas, karena besarnya nilai transaksi dihitung dari proporsinya terhadap modal ADHI, dan arus kas, karena dana masuk dari penjualan saham ini menambah kas perseroan meski ADHI juga melepas potensi pendapatan jangka panjang dari bisnis jalan tol. Yang perlu dipantau selanjutnya adalah RUPSLB ADHI pada 13 November 2026 yang akan memutuskan persetujuan transaksi ini, serta kepastian terpenuhinya syarat dari Badan Pengatur Jalan Tol dan Kementerian Pekerjaan Umum sebelum target penyelesaian transaksi pada 30 November 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "adhi-alihkan-rp378-7-miliar-dana-right-issue-ke-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Alihkan Rp378,7 Miliar Dana Right Issue ke [Modal Kerja]",
+  "deck": "Perseroan mengalihkan sisa dana rights issue 2022 senilai Rp378,69 miliar dari setoran modal ke anak usaha tol menjadi modal kerja, menyusul kebijakan perampingan BUMN.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T21:33:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d3be825714_e6265fe1ef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "Adhi Karya",
+   "rights issue",
+   "modal kerja"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk mengajukan perubahan rencana penggunaan dana hasil Penawaran Umum Terbatas II dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD II) yang diterbitkan pada 2022 senilai Rp2,65 triliun. Dana itu awalnya seluruhnya dialokasikan untuk setoran modal ke anak usaha di bidang investasi, yaitu PT Jasamarga Jogja Solo untuk tol Solo-Yogyakarta-YIA Kulonprogo, PT Jasamarga Jogja Bawen untuk tol Yogyakarta-Bawen, PT Karian Water Services untuk proyek SPAM Karian-Timur, PT Jalintim Adhi Abipraya, serta investasi di bidang pengolahan limbah dan jalan tol. Berdasarkan laporan realisasi dana ke Otoritas Jasa Keuangan per 30 Juni 2026, tersisa dana Rp378,69 miliar yang belum terpakai.",
+   "Mengacu pada Instruksi Presiden Nomor 7 Tahun 2025 tentang percepatan penataan BUMN, Adhi Karya memutuskan tidak lagi menambah setoran modal ke entitas investasi dan mengalihkan dana tersebut menjadi modal kerja perseroan. Alokasi ke PT Jasamarga Jogja Solo dipangkas dari rencana Rp2,005 triliun menjadi Rp1,683 triliun, ke PT Jasamarga Jogja Bawen dari Rp535 miliar menjadi Rp532,19 miliar, ke PT Jalintim Adhi Abipraya dari Rp70 miliar menjadi Rp54,32 miliar, dan ke investasi pengolahan limbah dan jalan tol dari Rp41,5 miliar menjadi Rp2,69 miliar. Selisih dari pemangkasan itu, totalnya Rp378,69 miliar, dialihkan untuk mendukung penyelesaian proyek carry over berupa pembelian material konstruksi, pembayaran tenaga kerja dan subkontraktor, serta mobilisasi peralatan, dengan rencana penggunaan sejak disetujui RUPSLB sampai kuartal IV 2026.",
+   "Perseroan menegaskan belum ada kesepakatan perjanjian terkait modal kerja ini saat keterbukaan informasi disampaikan, dan tidak ada transaksi dengan pihak berafiliasi dalam perubahan ini. Persetujuan perubahan penggunaan dana akan dimintakan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 13 November 2026 pukul 14.00 WIB di ADHI Tower, Cawang, Jakarta Timur, bersamaan dengan agenda persetujuan transaksi material rencana divestasi saham ADHI di PT Jasamarga Jogja Solo. Pemegang saham yang berhak hadir adalah yang tercatat dalam daftar pemegang saham pada 21 Oktober 2026."
+  ],
+  "fotoAdegan": "Construction workers moving steel rebar and cement bags at a toll road construction site, cranes in the background, overcast sky",
+  "takeaway": "Saya menilai laporan ini condong positif bagi ADHI, karena dana yang tadinya terkunci untuk setoran modal jangka panjang ke anak usaha tol justru dialihkan menjadi modal kerja yang bisa langsung dipakai menyelesaikan proyek konstruksi yang sedang berjalan. Pos yang tersentuh adalah arus kas perseroan, sebab modal kerja berfungsi sebagai dana penyambung antara pengeluaran proyek, seperti membeli material dan membayar subkontraktor, dengan penerimaan uang setelah tagihan proyek dibayar oleh pemberi kerja, sehingga jeda waktu itu tidak mengganggu operasional. Karena ini hanya realokasi dana rights issue lama, bukan penerbitan saham baru, jumlah saham beredar dan laba per saham pemegang saham tidak berubah akibat keputusan ini. Perubahan alokasi ke anak usaha tol itu juga sejalan dengan rencana ADHI melepas sahamnya di PT Jasamarga Jogja Solo yang sudah diberitakan sebelumnya, jadi lebih masuk akal bila ADHI mengurangi suntikan modal ke sana. Yang perlu dipantau adalah hasil RUPSLB pada 13 November 2026 pukul 14.00 WIB, yang akan memutuskan sekaligus persetujuan divestasi saham Jasamarga Jogja Solo dan perubahan penggunaan dana ini.",
+  "sentimen": "positif"
  },
  {
   "slug": "mdka-pefindo-pertahankan-rating-ida-utang-turun-tajam",

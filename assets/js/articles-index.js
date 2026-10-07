@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "beks-dana-it-rp215-m-baru-18-terealisasi-sisa-di-fasbi",
+  "category": "Aksi Korporasi",
+  "title": "BEKS: Dana IT Rp215 M Baru [18%] Terealisasi, Sisa di FASBI",
+  "deck": "Bank Banten baru merealisasikan 18,5 persen dari Rp215,1 miliar dana rights issue 2021 untuk perbaikan IT, sisa Rp175,3 miliar mengendap di FASBI.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEKS",
+   "rights issue",
+   "penggunaan dana",
+   "Bank Banten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/faad5d6a30_645a602d98.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beks-rilis-koreksi-laporan-dana-rights-issue-rp1-87-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BEKS Rilis [Koreksi] Laporan Dana Rights Issue Rp1,87 Triliun",
+  "deck": "Bank Banten mengoreksi laporan realisasi dana rights issue 2020 senilai Rp1,87 triliun; porsi untuk pengembangan TI tercatat jauh di bawah rencana awal.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEKS",
+   "Bank Banten",
+   "rights issue",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3a813bb8db_c84661a35b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "potensi-transaksi-ip-kreatif-di-jfc-2026-naik-ke-rp3-51-miliar",
   "category": "Industri",
   "title": "Potensi Transaksi IP Kreatif di JFC 2026 Naik ke [Rp3,51 Miliar]",
@@ -23,6 +55,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "cmry-koreksi-laporan-dana-ipo-suntikan-ke-macrosentra-nihil",
+  "category": "Aksi Korporasi",
+  "title": "CMRY Koreksi Laporan Dana IPO, Suntikan ke [Macrosentra] Nihil",
+  "deck": "Cisarua Mountain Dairy mengoreksi laporan realisasi dana IPO per 30 Juni 2026: suntikan modal Rp713,9 miliar ke anak usaha Macrosentra Niagaboga masih nol rupiah.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMRY",
+   "Cisarua Mountain Dairy",
+   "IPO",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/200b5f8a0b_22e43f62aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sofa-dapat-pinjaman-rp16-3-miliar-dari-aic-untuk-proyek-wte-bogor",
+  "category": "Aksi Korporasi",
+  "title": "SOFA dapat [pinjaman] Rp16,3 miliar dari AIC untuk proyek WTE Bogor",
+  "deck": "AEA, anak usaha SOFA, meminjam Rp16,3 miliar dari pengendali SOFA, AIC, berbunga 1 persen setahun untuk menutup setoran modal proyek WTE di Bogor.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOFA",
+   "transaksi afiliasi",
+   "transaksi material",
+   "waste-to-energy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a658ba4fb2_03fdd96abb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-gelar-rups-tiga-tahun-sekaligus-saham-masih-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Gelar RUPS Tiga Tahun Sekaligus, Saham Masih [Suspensi]",
+  "deck": "BOSS memanggil RUPS Tahunan untuk tiga tahun buku tertunda sekaligus pada 29 Oktober 2026, di tengah dua tahun tanpa penjualan dan anak usaha yang masih pailit.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "suspensi saham",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/72a45928e0_0d666d35ab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pnm-terbitkan-orange-bond-rp2-59-t-oversubscribed",
   "category": "Pasar Modal",
   "title": "PNM Terbitkan Orange Bond Rp2,59 T, [Oversubscribed]",
@@ -38,6 +118,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/471796-pnm-kembali-terbitkan-orange-bond-dan-orange-sukuk-rp259-triliun-perkuat-pembiayaan-dan-pemberdayaan-perempuan-ultra-mikro"
+ },
+ {
+  "slug": "adhi-lepas-saham-jmj-ke-smi-nilai-divestasi-rp1-77-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Lepas Saham JMJ ke SMI, Nilai [Divestasi] Rp1,77 Triliun",
+  "deck": "ADHI menjual seluruh 47,18% sahamnya di PT Jasamarga Jogja Solo kepada SMI senilai Rp1,77 triliun, ditargetkan tuntas akhir November 2026.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "divestasi",
+   "JMJ",
+   "SMI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d8488cb080_7d2c890e4f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-alihkan-rp378-7-miliar-dana-right-issue-ke-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Alihkan Rp378,7 Miliar Dana Right Issue ke [Modal Kerja]",
+  "deck": "Perseroan mengalihkan sisa dana rights issue 2022 senilai Rp378,69 miliar dari setoran modal ke anak usaha tol menjadi modal kerja, menyusul kebijakan perampingan BUMN.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "Adhi Karya",
+   "rights issue",
+   "modal kerja"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d3be825714_e6265fe1ef.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "mdka-pefindo-pertahankan-rating-ida-utang-turun-tajam",
@@ -6365,118 +6477,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470482-ekonomi-gig-makin-diminati-pekerja-fleksibel-perlu-perkuat-ketahanan-finansial"
- },
- {
-  "slug": "aspi-akuisisi-gmp-tersendat-laba-kotor-anjlok-28",
-  "category": "Aksi Korporasi",
-  "title": "ASPI: Akuisisi GMP Tersendat, [Laba Kotor] Anjlok 28%",
-  "deck": "Public expose insidentil ASPI: akuisisi oleh GMP Grup Investama masih due diligence, laba kotor semester I 2026 anjlok 28 persen, harga saham sempat longsor sebelum keterbukaan resmi.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASPI",
-   "public expose",
-   "akuisisi",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a44a44414_61d15e1505.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-dan-brins-bantu-alat-tenun-warga-sade-usai-kebakaran",
-  "category": "UMKM",
-  "title": "PNM dan BRINS Bantu Alat Tenun Warga Sade Usai [Kebakaran]",
-  "deck": "PNM bersama BRI Insurance melanjutkan bantuan bagi nasabah pembiayaan mikro di Desa Adat Sade, kini berupa alat usaha untuk memulihkan penghasilan warga pascakebakaran Agustus lalu.",
-  "date": "30 September 2026",
-  "image": "assets/img/pnm-dan-brins-bantu-alat-tenun-warga-sade-usai-kebakaran.jpg",
-  "imageV": "muo63evc",
-  "tags": [
-   "PNM Mekaar",
-   "BRI Insurance",
-   "Desa Adat Sade",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470477-bangkit-pascakebakaran-bantuan-pnm-bersama-brins-nyalakan-harapan-baru-warga-sade"
- },
- {
-  "slug": "bris-rights-issue-ii-kerek-modal-ke-rp64-41-t-dilusi-12-85",
-  "category": "Aksi Korporasi",
-  "title": "BRIS: [Rights Issue] II Kerek Modal ke Rp64,41 T, Dilusi 12,85%",
-  "deck": "BRIS berencana menerbitkan maksimal 6,8 miliar saham baru lewat hak memesan efek terlebih dahulu (rights issue) untuk memperkuat modal, dengan RUPSLB dijadwalkan 6 November 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRIS",
-   "rights issue",
-   "HMETD",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bca45e818a_70ccbfcbae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-rampungkan-buyback-saham-rp1-42-triliun-hentikan-program",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Rampungkan [Buyback] Saham Rp1,42 Triliun, Hentikan Program",
-  "deck": "UNTR membeli kembali 57,97 juta saham senilai Rp1,42 triliun dari pagu Rp2 triliun, program pembelian kembali resmi berakhir 30 September 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "buyback saham",
-   "United Tractors",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/78eca6efd5_1854725c8e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-patokan-ekspor-emas-turun-3-5-awal-oktober",
-  "category": "Industri",
-  "title": "Harga Patokan Ekspor Emas [Turun] 3,5% Awal Oktober",
-  "deck": "Kemendag menurunkan Harga Patokan Ekspor dan Harga Referensi emas untuk periode 1-14 Oktober 2026, turun 3,5 persen dari paruh kedua September.",
-  "date": "30 September 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
-  "tags": [
-   "emas",
-   "ekspor",
-   "Kemendag",
-   "bea keluar"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hpe-dan-hr-emas-turun-di-periode-i-oktober-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "wsbp-koreksi-rupslb-detail-konversi-utang-jadi-saham-rp4-3-t",
-  "category": "Aksi Korporasi",
-  "title": "WSBP Koreksi RUPSLB: Detail Konversi Utang jadi [Saham] Rp4,3 T",
-  "deck": "Waskita Beton Precast mengoreksi panggilan RUPSLB 2 Oktober 2026 dengan menambahkan rincian angka konversi utang ke ekuitas dan penerbitan saham baru senilai hingga Rp4,33 triliun.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "RUPSLB",
-   "konversi utang",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb1c7b1b5a_ba1eb04758.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-ekuitas-balik-positif-usai-right-issue-rp237-miliar",
-  "category": "Aksi Korporasi",
-  "title": "CASH: [Ekuitas] Balik Positif Usai Right Issue Rp237 Miliar",
-  "deck": "Laporan keuangan interim per 31 Agustus 2026 menunjukkan ekuitas Cashlez berbalik positif Rp194,5 miliar setelah rights issue Rp237,2 miliar, meski rugi bersih melebar jadi Rp42,9 miliar.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "Cashlez",
-   "rights issue",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/26bd1f12ce_4affc83fb4.pdf",
-  "sourceLabel": "IDX"
  }
 ];

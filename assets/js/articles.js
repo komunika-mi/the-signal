@@ -3,6 +3,241 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "vici-panggil-rupslb-tiga-komisaris-mundur",
+  "category": "Aksi Korporasi",
+  "title": "VICI panggil RUPSLB, tiga [komisaris] mundur",
+  "deck": "RUPSLB VICI digelar 29 Oktober 2026 membahas pengunduran tiga komisaris sekaligus perubahan anggaran dasar soal bidang usaha dan kewenangan direksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T18:50:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/143e9a66ca_4190505bc3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 29 Oktober 2026 pukul 10.00 WIB di Marqen Hotel, Heritage Hall lantai 2, Jalan Kembangan Selatan No. 2, Jakarta Barat. Yang berhak hadir atau diwakili dalam rapat hanya pemegang saham yang namanya tercatat dalam daftar pemegang saham di PT Bima Registra maupun pemegang rekening di KSEI per penutupan perdagangan 6 Oktober 2026.",
+   "Agenda pertama rapat adalah persetujuan perubahan susunan Dewan Komisaris, menyusul pengunduran diri tiga anggota Dewan Komisaris Perseroan. Perusahaan menjelaskan bahwa sesuai Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik, setiap pengunduran diri, pengangkatan, pemberhentian, atau penggantian anggota Dewan Komisaris harus ditetapkan melalui RUPS. Dokumen tidak menyebutkan alasan pengunduran diri ketiga komisaris tersebut maupun nama calon pengganti.",
+   "Dua agenda lain menyangkut perubahan Anggaran Dasar. Pasal 3 tentang maksud, tujuan, dan kegiatan usaha akan disesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 yang diterbitkan Badan Pusat Statistik. Pasal 10 ayat 3, 4, dan 6 tentang tugas, tanggung jawab, dan wewenang direksi juga akan diubah, yang kemudian diikuti dengan pernyataan kembali seluruh isi Anggaran Dasar Perseroan. Pemegang saham dapat menghadiri rapat secara fisik atau elektronik lewat eASY.KSEI, dengan pemberian kuasa elektronik paling lambat satu hari kerja sebelum rapat, pukul 12.00 WIB."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set with rows of chairs facing a stage, soft morning light through tall windows, no people yet",
+  "takeaway": "Laporan ini netral bagi fundamental VICI, karena isinya adalah proses tata kelola rutin lewat RUPS, bukan transaksi keuangan atau aksi korporasi yang langsung mengubah neraca atau kas perusahaan. Yang tersentuh di sini adalah struktur pengawasan perusahaan, yaitu Dewan Komisaris yang bertugas mengawasi kinerja direksi, dan landasan hukum kegiatan usaha lewat Anggaran Dasar, bukan pos keuangan seperti ekuitas atau laba per saham, sehingga pelaku pasar biasanya tidak langsung mengubah penilaian atas kinerja perusahaan karena laporan semacam ini. Meski begitu, mundurnya tiga komisaris sekaligus tanpa penjelasan alasan di dokumen ini layak dicermati, karena pergantian pengawas dalam jumlah besar dalam waktu bersamaan jarang terjadi tanpa sebab. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 29 Oktober 2026, terutama siapa yang akan mengisi kursi komisaris yang kosong dan apakah perseroan memberikan penjelasan lebih lanjut soal pengunduran diri tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "enrg-pakai-dana-obligasi-rp2-15-triliun-untuk-bayar-utang",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Pakai Dana Obligasi Rp2,15 Triliun untuk [Bayar Utang]",
+  "deck": "Energi Mega Persada melaporkan realisasi dana tiga tahap obligasi senilai total Rp2,15 triliun, sebagian besar dipakai membayar utang lama lewat anak usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T18:38:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b28f387bfb_09770e0f4e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "Energi Mega Persada",
+   "obligasi",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Energi Mega Persada Tbk (ENRG) melaporkan realisasi penggunaan dana dari tiga tahap Obligasi Berkelanjutan I Energi Mega Persada yang resmi efektif pada 23 Desember 2025. Nilai penerbitan obligasi tahap I sebesar Rp500 miliar, tahap II sebesar Rp1,15 triliun, dan tahap III sebesar Rp500 miliar, sehingga total dana yang dihimpun dari tiga tahap ini mencapai sekitar Rp2,15 triliun. Sebagian dana dipakai untuk mempercepat pembayaran utang perusahaan sendiri, dan sebagian besar lainnya disalurkan sebagai pinjaman kepada anak usaha untuk melunasi utang mereka ke bank serta untuk modal kerja.",
+   "Dari obligasi tahap I, realisasi terbesar adalah Rp127,68 miliar atau 25,54 persen yang dipakai membayar lebih awal seluruh pokok utang beserta bunga kepada kreditor KCS1 Pte. Ltd. Perusahaan juga menyalurkan Rp105,22 miliar ke anak usaha PT Bangun Samudra Sarana Laut untuk melunasi utang ke Bank Mandiri, serta memberi pinjaman modal kerja kepada EMP Bentu Limited Rp108,49 miliar, PT Imbang Tata Alam Rp89,34 miliar, PT EMP Energi Gandewa Rp19,14 miliar, PT EMP Energi Riau Rp20,42 miliar, dan PT Energi Maju Abadi Rp10,21 miliar. Sisanya, Rp7,66 miliar, dipakai untuk modal kerja ENRG sendiri.",
+   "Dari obligasi tahap II senilai Rp1,15 triliun, porsi terbesar yakni Rp839,94 miliar atau 73,03 persen disalurkan sebagai pinjaman ke PT Imbang Tata Alam untuk melunasi pokok dan bunga fasilitas kredit term loan 2. ENRG juga meminjamkan Rp126,77 miliar ke PT Energi Maju Abadi untuk membayar sebagian utang ke Bank Mandiri, serta Rp90,90 miliar ke EMP Bentu Limited dan Rp35,46 miliar lagi ke Energi Maju Abadi untuk modal kerja. Pada obligasi tahap III senilai Rp500 miliar, dana terbesar yakni Rp210,79 miliar dipakai Energi Maju Abadi untuk melunasi seluruh utangnya ke Bank Mandiri, Rp186,16 miliar untuk modal kerja EMP Bentu Limited, dan Rp97,54 miliar untuk membayar sebagian utang term loan 1 milik Imbang Tata Alam. Realisasi di ketiga tahap ini sudah mencapai 97,63 persen hingga 98,94 persen dari rencana awal, dengan selisih terbesar hanya 1,48 persen akibat penyesuaian kurs pada tanggal realisasi."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting pipelines at an onshore oil and gas production facility, early morning haze, Indonesia",
+  "takeaway": "Laporan ini netral bagi ENRG karena isinya hanya menunjukkan dana dari tiga obligasi lama terpakai hampir sesuai rencana awal, dengan selisih di bawah 1,5 persen dan tanpa perubahan arah penggunaan. Pos yang tersentuh adalah utang dan beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjamannya, karena sebagian besar dana justru dipakai menukar utang lama ke KCS1 Pte. Ltd. dan Bank Mandiri dengan obligasi baru lewat anak usaha seperti Imbang Tata Alam dan Energi Maju Abadi, jadi total beban utang perusahaan tidak otomatis berkurang. Arus kas internal, yaitu pergerakan uang masuk dan keluar perusahaan, juga terlihat dari pinjaman ke anak usaha seperti EMP Bentu Limited, EMP Energi Gandewa, EMP Energi Riau, dan BSSL untuk modal kerja operasional. Yang perlu dipantau berikutnya adalah pelunasan sisa dana yang belum terealisasi penuh, sekitar 1 sampai 2 persen dari masing masing tahap, serta laporan realisasi serupa untuk obligasi tahap IV dan V dari program yang sama, termasuk tahap V senilai Rp500 miliar berbunga 9 sampai 10 persen yang baru terbit awal Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "chek-koreksi-laporan-realisasi-dana-ipo-76-6-persen",
+  "category": "Aksi Korporasi",
+  "title": "CHEK Koreksi Laporan, [Realisasi] Dana IPO 76,6 Persen",
+  "deck": "PT Diastika Biotekindo Tbk mengoreksi laporan penggunaan dana IPO per Juni 2026 setelah ditegur OJK. Dari Rp106,80 miliar dana bersih, Rp81,76 miliar sudah terpakai, sisanya diparkir di deposito.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T18:29:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5923d0fadc_b087a10366.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CHEK",
+  "tags": [
+   "CHEK",
+   "IPO",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "body": [
+   "PT Diastika Biotekindo Tbk (CHEK) menerbitkan koreksi atas laporan penggunaan dana hasil penawaran umum perdana yang sebelumnya disampaikan pada 15 Juli 2026. Koreksi ini menyusul surat Otoritas Jasa Keuangan bernomor S-821/PM.223/2026 tertanggal 29 September 2026 yang meminta penjelasan atas laporan realisasi penggunaan dana per 30 Juni 2026. Direktur Utama Franciscus Xaverius Yoshua R menandatangani tanggapan perusahaan pada 7 Oktober 2026. Dari total dana IPO Rp110,39 miliar yang terkumpul saat pencatatan saham pada 10 Juli 2025, setelah dipotong biaya penawaran umum Rp3,59 miliar, dana bersih yang tersisa untuk dipakai adalah Rp106,80 miliar.",
+   "Hingga akhir Juni 2026, perusahaan telah merealisasikan Rp81,76 miliar atau 76,55 persen dari dana bersih tersebut, dengan sisa Rp25,04 miliar atau 23,45 persen belum terpakai. Alokasi terbesar adalah pembelian barang dagangan, direncanakan Rp100,73 miliar namun baru terealisasi Rp75,81 miliar atau sekitar 75,26 persen dari rencana pos ini. Pos lain realisasinya jauh lebih mendekati rencana: biaya angkut terealisasi Rp1,09 miliar dari rencana Rp1,1 miliar (98,95 persen), biaya sewa Rp686,45 juta dari Rp721,42 juta (95,15 persen), biaya penjualan Rp639,14 juta dari Rp650 juta (98,33 persen), dan biaya kantor Rp3,54 miliar dari Rp3,6 miliar (98,2 persen). Perusahaan menyatakan seluruh realisasi ini masih sesuai dengan rencana yang tertulis di prospektus IPO, dan menargetkan sisa dana selesai digunakan seluruhnya pada 2027.",
+   "Sisa dana Rp25,04 miliar saat ini ditempatkan dalam dua rekening pihak ketiga yang tidak terafiliasi dengan perusahaan: Rp25 miliar dalam deposito berjangka satu bulan di Bank UOB dengan bunga 4,1 persen per tahun, dan Rp42,04 juta di rekening giro Bank BCA dengan bunga 0,01 persen. Dari sisi biaya emisi, rincian Rp3,59 miliar yang dipotong dari dana IPO terdiri atas biaya penjaminan Rp195,6 juta, biaya penyelenggaraan Rp1,3 miliar, biaya penjualan Rp195,6 juta, biaya profesi penunjang pasar modal Rp1 miliar, biaya lembaga penunjang pasar modal Rp95 juta, dan biaya lain-lain Rp801,27 juta, tanpa ada biaya konsultasi keuangan."
+  ],
+  "fotoAdegan": "Warehouse workers stacking cardboard boxes of goods onto storage shelves inside a brightly lit distribution warehouse, forklift nearby",
+  "takeaway": "Laporan ini cenderung netral bagi fundamental CHEK, sebab isinya adalah koreksi administratif atas data yang sudah pernah dilaporkan, dan realisasi penggunaan dana yang diungkap justru sejalan dengan rencana di prospektus, bukan penyimpangan baru. Yang tersentuh di sini adalah arus kas perusahaan, yaitu catatan keluar masuk uang tunai hasil IPO, karena sebagian besar dana sudah berpindah dari kas menjadi persediaan barang dagangan dan beban operasional, sementara sisa dana yang belum terpakai tetap likuid karena disimpan dalam bentuk deposito dan rekening giro yang menghasilkan bunga. Investor perlu mencermati bahwa laporan ini lahir dari teguran OJK, bukan inisiatif sukarela perusahaan, sehingga perlu dipantau apakah tanggapan dan koreksi ini sudah dianggap OJK sebagai penyelesaian temuan atau masih akan diminta klarifikasi lanjutan. Hal konkret berikutnya yang perlu diikuti adalah target perusahaan untuk menuntaskan seluruh penggunaan sisa dana Rp25,04 miliar pada tahun 2027, karena pos pembelian barang dagangan masih jauh dari rencana awal.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adcp-jadwalkan-rupslb-13-november-simak-tanggal-pentingnya",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Jadwalkan [RUPSLB] 13 November, Simak Tanggal Pentingnya",
+  "deck": "Adhi Commuter Properti akan menggelar RUPSLB pada 13 November 2026, dengan pemegang saham per 21 Oktober 2026 yang berhak hadir atau memberi kuasa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T18:28:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9d2068bb9a_d678f583ea.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADCP",
+  "tags": [
+   "ADCP",
+   "RUPSLB",
+   "Adhi Commuter Properti",
+   "Pasar Modal"
+  ],
+  "body": [
+   "PT Adhi Commuter Properti Tbk (ADCP) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 13 November 2026 pukul 10.00 WIB, bertempat di Kantor Pusat ADHI, Jalan Raya Pasar Minggu KM 18, Jakarta Selatan. Surat pemberitahuan bernomor 471/ADCP-X/2026 ini merujuk pada surat sebelumnya nomor 452/ADCP-IX/2026, dan ditandatangani oleh Corporate Secretary ADCP, Bayu Purwana, pada 7 Oktober 2026.",
+   "Perseroan menetapkan bahwa pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham, atau yang saldo rekening efeknya tercatat di penitipan kolektif KSEI, per Rabu, 21 Oktober 2026 pukul 16.00 WIB. Iklan pemanggilan resmi yang memuat mata acara rapat baru akan dipasang di situs e-RUPS, situs Bursa Efek Indonesia, dan situs perseroan pada Kamis, 22 Oktober 2026.",
+   "Pemegang saham yang ingin mengusulkan mata acara rapat harus mewakili minimal satu per dua puluh dari total saham dengan hak suara, mengajukan usulan secara tertulis kepada Direksi paling lambat tujuh hari sebelum tanggal pemanggilan, disertai alasan dan bahan usulan yang tidak bertentangan dengan anggaran dasar maupun peraturan. Perseroan juga mengimbau pemegang saham memanfaatkan fasilitas pemberian kuasa elektronik eASY.KSEI, yang tersedia sejak tanggal pemanggilan rapat hingga satu hari kerja sebelum rapat, yakni Kamis, 12 November 2026."
+  ],
+  "fotoAdegan": "Exterior view of a modern transit-oriented residential and commercial complex near a train station in Jakarta, daytime",
+  "takeaway": "Pengumuman ini sendiri bersifat netral bagi penilaian fundamental ADCP, karena isinya baru jadwal dan tata cara rapat, belum merinci agenda yang sebenarnya akan dibahas. Mata acara resmi baru terbuka ke publik lewat iklan pemanggilan pada 22 Oktober 2026, dan di sanalah pemegang saham akan tahu apakah rapat ini membahas langkah seperti penambahan modal atau restrukturisasi utang, yang masing-masing bisa menambah jumlah saham beredar atau mengubah beban bunga perusahaan. Hal ini patut dicermati karena ADCP belum lama mengumumkan penundaan pembayaran kupon obligasi dan sahamnya masih dalam status suspensi akibat tekanan likuiditas. Yang perlu dipantau berikutnya adalah iklan pemanggilan pada 22 Oktober 2026 saat agenda rapat dibuka, batas akhir pemberian kuasa elektronik pada 12 November 2026, dan pelaksanaan RUPSLB itu sendiri pada 13 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mutu-koreksi-laporan-dana-ipo-realokasi-capex-ke-opex",
+  "category": "Aksi Korporasi",
+  "title": "MUTU Koreksi Laporan Dana IPO, [Realokasi] Capex ke Opex",
+  "deck": "Mutuagung Lestari mengoreksi laporan realisasi dana IPO per 30 Juni 2026: seluruh dana Rp97,26 miliar sudah terpakai, dengan Rp20,5 miliar bergeser dari rencana bangunan ke beban operasional.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T17:56:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe64251bc2_3983caaf44.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MUTU",
+  "tags": [
+   "MUTU",
+   "realisasi dana IPO",
+   "RUPSLB",
+   "capex opex"
+  ],
+  "body": [
+   "PT Mutuagung Lestari Tbk (MUTU) menyampaikan koreksi atas Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum kepada Otoritas Jasa Keuangan pada 7 Oktober 2026. Surat bernomor 9238.1/EXT-MUTU/X/2026 ini merevisi laporan sebelumnya yang dikirim 14 Juli 2026, untuk periode pelaporan per 30 Juni 2026. Dokumen ditandatangani Presiden Direktur Arifin Lambaga dan Direktur SDM dan Keuangan Sumarna.",
+   "Dana yang dikoreksi berasal dari penawaran umum saham perdana MUTU yang efektif pada 9 Agustus 2023, dengan total hasil kotor Rp101.828.577.600. Setelah dipotong biaya penawaran umum sebesar Rp4.566.314.803, hasil bersih yang diterima perseroan mencapai Rp97.262.262.797. Menurut laporan ini, seluruh dana tersebut telah direalisasikan 100 persen sesuai rencana dalam prospektus, sehingga tidak ada lagi sisa dana IPO yang belum digunakan. Alokasinya terbagi atas belanja modal (capex) sebesar Rp43.693.093.446 atau 45 persen, dan belanja operasional (opex) sebesar Rp53.569.169.351 atau 55 persen.",
+   "Inti dari koreksi ini adalah perubahan rincian alokasi capex yang telah disetujui dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 30 April 2025. Perseroan mengurangi alokasi capex untuk bangunan sebesar Rp24,5 miliar, lalu mengalihkan Rp4 miliar dari jumlah itu ke capex peralatan dan sisanya Rp20,5 miliar ke pos opex. Perusahaan menyebut transaksi penggunaan dana ini dilakukan kepada berbagai vendor dan penyedia barang serta jasa, dengan rincian lengkap tersimpan dalam pembukuan dan dokumen pendukung internal perseroan.",
+   "Dari sisi biaya penawaran umum senilai total Rp4.566.314.803, komponen terbesar adalah biaya jasa manajemen Rp1.504.000.000 (32,94 persen), diikuti biaya percetakan prospektus dan formulir Rp835.277.650 (18,29 persen), serta biaya jasa akuntan publik Rp700.000.000 (15,33 persen). Biaya lain mencakup penjaminan emisi dan penjualan masing-masing Rp188.000.000 (4,12 persen), paparan publik Rp350.000.000 (7,66 persen), konsultan hukum Rp350.000.000 (7,66 persen), biro administrasi efek Rp105.000.000 (2,30 persen), notaris Rp165.000.000 (3,61 persen), pencatatan di Bursa Efek Indonesia Rp115.122.864 (2,52 persen), pendaftaran ke OJK Rp50.914.289 (1,11 persen), dan biaya KSEI Rp15.000.000 (0,33 persen)."
+  ],
+  "fotoAdegan": "Lab technician in a white coat calibrating testing equipment inside a certification laboratory, bright fluorescent lighting",
+  "takeaway": "Laporan koreksi ini netral bagi emiten karena hanya merapikan pencatatan dana IPO yang memang sudah terpakai seluruhnya, tanpa menambah atau mengurangi total dana yang digunakan perseroan. Yang berubah adalah pos pencatatannya, dana untuk membangun gedung dikurangi Rp24,5 miliar, sebagian kecil dialihkan ke pembelian peralatan dan porsi terbesarnya masuk ke beban operasional, bukan aset tetap, dan ini penting karena belanja modal dicatat sebagai aset yang nilainya disusutkan bertahap sedangkan beban operasional langsung mengurangi laba tahun berjalan. Pergeseran ini sendiri bukan keputusan baru, melainkan hanya menegaskan kembali perubahan yang sudah disetujui pemegang saham dalam RUPSLB 30 April 2025. Karena seluruh dana hasil IPO kini sudah habis terealisasi sesuai rencana, laporan ini praktis menutup kewajiban pelaporan penggunaan dana IPO perseroan, dan tidak ada lagi tenggat atau RUPSLB lanjutan terkait pos ini yang perlu dipantau.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beks-jelaskan-lonjakan-transaksi-usai-saham-naik-31-8",
+  "category": "Aksi Korporasi",
+  "title": "BEKS Jelaskan [Lonjakan] Transaksi Usai Saham Naik 31,8%",
+  "deck": "Bank Banten (BEKS) menyatakan tak ada informasi material di balik lonjakan volume dan harga sahamnya pada 28 September 2026, menyusul permintaan penjelasan dari BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T17:54:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a9aa68556f_04c3679d27.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEKS",
+  "tags": [
+   "BEKS",
+   "Bank Banten",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Bank Pembangunan Daerah Banten Tbk (BEKS) menjawab permintaan penjelasan Bursa Efek Indonesia melalui surat BEI Nomor S-12532/BEI.PP1/09-2026 tanggal 29 September 2026 terkait lonjakan transaksi saham perseroan. Menurut surat tanggapan BEKS tertanggal 5 Oktober 2026, pada 28 September 2026 volume transaksi saham BEKS melonjak menjadi 590.445.600 saham dengan 5.192 kali transaksi, dari hari bursa sebelumnya yang hanya 6.003.700 saham dengan 213 kali transaksi. Harga penutupan ikut naik dari Rp22 menjadi Rp29 per saham, kenaikan sekitar 31,8 persen dalam sehari.",
+   "Dalam surat yang ditandatangani Direktur Operasional Purbaji Basuki dan disampaikan oleh Corporate Secretary Ferdy Ardian, BEKS menyatakan tidak ada informasi atau fakta material yang disampaikan ke publik yang bisa menjelaskan lonjakan harga dan volume tersebut, sesuai Peraturan OJK Nomor 31/POJK.04/2015 maupun Peraturan BEI Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu terkait kepemilikan atau penjaminan saham sesuai POJK Nomor 4 Tahun 2024, dan pemegang saham utama serta pengendali tidak melaporkan rencana perubahan kepemilikan dalam jangka pendek.",
+   "Soal rencana ke depan, BEKS menegaskan sesuai Rencana Bisnis Bank, dalam tiga bulan mendatang perseroan belum memiliki rencana aksi korporasi yang berdampak pada pencatatan sahamnya di bursa. Tidak ada pula fakta material lain terkait kelangsungan usaha yang menurut perseroan belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Exterior of a modest multi-story provincial bank office building in Banten, motorbikes passing on the street, midday light",
+  "takeaway": "Laporan ini netral bagi fundamental BEKS, karena isinya hanya konfirmasi bahwa tidak ada informasi baru atau aksi korporasi yang mendasari lonjakan harga dan volume saham pada 28 September 2026. Tidak ada pos kinerja keuangan BEKS yang tersentuh di sini, seperti modal atau utang, karena perseroan sendiri menyatakan tidak ada aksi korporasi atau fakta material yang terjadi. Yang relevan justru soal tata kelola pasar modal: ketika harga saham melonjak lebih dari 30 persen dan volume naik puluhan kali lipat tanpa ada kabar baru dari perseroan, itu biasanya tanda transaksi yang didorong spekulasi jangka pendek, bukan perubahan nilai usaha yang sesungguhnya. Yang perlu dipantau berikutnya adalah apakah BEI mengambil langkah lanjutan seperti status pemantauan khusus atas saham ini, serta apakah Rencana Bisnis Bank yang disebut BEKS benar-benar tidak berubah hingga tiga bulan ke depan dari sekarang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wins-jamin-utang-anak-usaha-ke-bank-mandiri-us-6-64-juta",
+  "category": "Aksi Korporasi",
+  "title": "WINS Jamin [Utang] Anak Usaha ke Bank Mandiri US$6,64 Juta",
+  "deck": "WINS memberi jaminan perusahaan maksimal US$6,64 juta untuk memuluskan refinancing kapal dan modal kerja anak usahanya, PT Wintermar, lewat fasilitas Bank Mandiri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T17:36:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de5c402f1b_4577b30194.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINS",
+  "tags": [
+   "WINS",
+   "jaminan perusahaan",
+   "Bank Mandiri",
+   "anak usaha"
+  ],
+  "body": [
+   "Wintermar Offshore Marine Tbk (WINS) menyampaikan keterbukaan informasi mengenai pemberian jaminan perusahaan (corporate guarantee) sekaligus deficit cashflow guarantee untuk anak usahanya, PT Wintermar, tertanggal transaksi 5 Oktober 2026. Jaminan ini diberikan kepada PT Bank Mandiri (Persero) Tbk dengan nilai maksimal US$6,64 juta.",
+   "Jaminan tersebut menjadi syarat agar Bank Mandiri mengucurkan fasilitas kredit senilai US$3,64 juta kepada PT Wintermar. Nilai jaminan yang lebih besar dari nilai fasilitas kredit itu dipakai untuk mengamankan secara cross collateral, baik fasilitas yang sudah berjalan maupun fasilitas baru yang diterima PT Wintermar dari Bank Mandiri. Dana hasil fasilitas ini digunakan untuk pembiayaan ulang (refinancing) kapal-kapal milik PT Wintermar serta memenuhi kebutuhan modal kerja perusahaan.",
+   "WINS menjelaskan transaksi ini tergolong transaksi afiliasi karena PT Wintermar adalah anak usaha yang lebih dari 99 persen sahamnya dimiliki WINS, dengan dua direktur dan satu komisaris yang sama di kedua perusahaan. Berdasarkan Pasal 6 Ayat (1) huruf e POJK 42/2020, jaminan kepada bank seperti ini dikecualikan dari kewajiban memakai penilai independen. Perusahaan menyatakan transaksi ini tidak mengandung benturan kepentingan dan seluruh informasi material telah diungkapkan."
+  ],
+  "fotoAdegan": "Offshore support vessels moored side by side at a working Indonesian harbor, cranes and cargo pallets nearby, late afternoon light",
+  "takeaway": "Laporan ini netral bagi WINS, karena yang terjadi adalah induk menjaminkan utang anak usaha yang memang sudah dikendalikannya penuh, bukan transaksi yang mengubah kepemilikan atau menyedot kas tunai saat ini. Yang tersentuh di sini adalah pos kewajiban kontinjensi, yakni tanggungan yang baru benar-benar jadi beban kas WINS kalau PT Wintermar sampai gagal membayar fasilitas ke Bank Mandiri, bukan utang langsung WINS sekarang, tapi tetap menambah risiko di luar neraca yang perlu dicatat investor. Istilah deficit cashflow guarantee sendiri biasa dipakai dalam pembiayaan kapal, yaitu jaminan tambahan dari pemilik kalau arus kas unit usaha yang dibiayai ternyata tidak cukup menutup cicilan. Yang perlu dipantau selanjutnya adalah laporan keuangan WINS berikutnya untuk melihat bagaimana kewajiban kontinjensi ini dicatat, serta apakah refinancing kapal dan modal kerja PT Wintermar benar-benar memperbaiki arus kas anak usaha itu seperti tujuan yang disebutkan dalam dokumen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "iiff-tuntas-salurkan-dana-obligasi-rp428-95-miliar-ke-3-proyek",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Tuntas Salurkan Dana Obligasi [Rp428,95 Miliar] ke 3 Proyek",
+  "deck": "IIFF melaporkan dana bersih Rp428,95 miliar dari Obligasi Berkelanjutan III Tahap I 2026 sudah disalurkan penuh ke pembangkit listrik di Garut, sistem pemantauan armada, dan rumah sakit di Bogor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T16:27:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/362e19674f_94b226ba19.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IIFF",
+  "tags": [
+   "IIFF",
+   "Obligasi",
+   "LRPD",
+   "infrastruktur"
+  ],
+  "body": [
+   "PT Indonesia Infrastructure Finance (IIFF) menyampaikan Laporan Realisasi Penggunaan Dana (LRPD) atas Obligasi Berkelanjutan III IIF Tahap I Tahun 2026 kepada Bursa Efek Indonesia, sesuai kewajiban Peraturan OJK No. 30/POJK.04/2015. Surat bernomor S.1560/X/IIF/2026 ini ditandatangani oleh Eni Wibowo, Direktur Keuangan sekaligus Direktur Investasi Sementara IIFF, pada 2 Oktober 2026. Obligasi ini efektif pada 10 Juli 2026 dengan total dana hasil penawaran umum sebesar Rp432,585 miliar, dan setelah dipotong biaya emisi sebesar Rp3,63 miliar, dana bersih yang diterima perseroan menjadi Rp428,95 miliar.",
+   "Seluruh dana bersih tersebut, menurut laporan ini, telah disalurkan 100 persen untuk membiayai tiga proyek infrastruktur. Porsi terbesar, Rp403,16 miliar, mengalir ke proyek pembangkit listrik tenaga minihidro (PLTM) di Garut, Jawa Barat. Sisanya dibagi ke proyek sistem pemantauan armada terintegrasi senilai Rp9,76 miliar dan proyek rumah sakit terpadu di Bogor senilai Rp16,03 miliar.",
+   "Biaya penawaran umum sebesar Rp3,63 miliar itu terdiri dari enam komponen: biaya jasa penyelenggaraan Rp562,36 juta, biaya jasa penjaminan emisi Rp108,15 juta, biaya jasa penjualan Rp108,15 juta, biaya profesi penunjang pasar modal Rp1,49 miliar, biaya lembaga penunjang pasar modal Rp187,33 juta, serta biaya lain-lain Rp1,18 miliar."
+  ],
+  "fotoAdegan": "A small hydroelectric plant with a concrete intake channel beside a fast flowing river in hilly West Java countryside, overcast morning light",
+  "takeaway": "Laporan ini netral bagi IIFF karena isinya hanya mengonfirmasi dana obligasi sudah dipakai sesuai rencana, tanpa kabar baru soal ekspansi usaha atau risiko tambahan. Yang tersentuh adalah pos arus kas dan beban bunga, yaitu dana Rp428,95 miliar yang semula kas hasil penerbitan utang obligasi kini berubah jadi piutang pembiayaan ke tiga proyek infrastruktur, sementara kewajiban membayar bunga obligasi tetap berjalan sejak efektif Juli 2026. Realisasi penuh tanpa sisa dana menganggur ini berarti perseroan tidak menanggung beban bunga untuk uang yang belum terpakai, hal yang biasanya jadi perhatian pemegang obligasi. Yang perlu dipantau selanjutnya adalah kinerja proyek pembangkit listrik di Garut, sistem pemantauan armada, dan rumah sakit di Bogor yang baru dibiayai ini, serta kemungkinan IIFF menerbitkan tahap selanjutnya dari program Obligasi Berkelanjutan III setelah Tahap I ini tuntas disalurkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-sesuaikan-syarat-dua-waran-amrt-usai-dividen-interim",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan [Syarat] Dua Waran AMRT Usai Dividen Interim",
+  "deck": "Maybank Sekuritas mengubah harga pelaksanaan dan rasio konversi waran AMRTZPCZ6A dan AMRTZPCK7A menyusul dividen interim AMRT Rp14,5 per saham, efektif 14 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T16:26:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/02c2ec40e5_86c84729e1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "AMRT",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, dengan kode emiten ZP, mengumumkan penyesuaian syarat dan ketentuan dua waran terstruktur, AMRTZPCZ6A dan AMRTZPCK7A, yang menggunakan saham PT Sumber Alfaria Trijaya Tbk (AMRT) sebagai acuan. Penyesuaian ini merujuk pada pengumuman AMRT pada 5 Oktober 2026 tentang pembagian dividen interim tahun buku 2026 sebesar Rp14,5 per saham.",
+   "Berdasarkan Bagian 3.8 Prospektus tertanggal 11 April 2025 dan Term Sheet kedua waran tersebut, harga pelaksanaan baru dihitung dari harga pelaksanaan lama dikalikan selisih harga perdagangan terakhir AMRT pada cum-date dengan dividen Rp14,5, dibagi harga perdagangan terakhir itu sendiri. Rasio konversi baru dihitung dengan rumus yang sama, mengacu pada rasio konversi lama sebelum dividen dibagikan.",
+   "Penyesuaian ini berlaku pada tanggal ex dividen, yaitu 14 Oktober 2026 untuk Pasar Reguler dan Negosiasi, serta 16 Oktober 2026 untuk Pasar Tunai. Maybank Sekuritas selaku penerbit waran juga menegaskan bahwa berdasarkan kebijaksanaannya sendiri dan tanpa kewajiban apa pun kepada pemegang waran terstruktur, penyesuaian ini bisa saja tidak dilakukan apabila dianggap tidak tepat oleh penerbit."
+  ],
+  "fotoAdegan": "Exterior view of a modern office tower housing financial institutions in Jakarta's business district, late afternoon light.",
+  "takeaway": "Laporan ini netral baik bagi AMRT maupun Maybank Sekuritas, karena penyesuaian harga pelaksanaan dan rasio konversi warannya murni konsekuensi rumus baku yang sudah disepakati sejak waran diterbitkan, dipicu oleh keputusan dividen AMRT, bukan keputusan bisnis baru dari penerbit waran. Pembagian dividen tunai Rp14,5 per saham memang mengurangi kas AMRT karena uang itu keluar ke pemegang saham, tapi di sisi waran, penyesuaian harga pelaksanaan dan rasio konversi hanya menjaga agar nilai waran tetap setara sebelum dan sesudah dividen dibagikan, sehingga pemegang waran tidak dirugikan oleh turunnya harga AMRT akibat dividen tersebut. Yang perlu dipantau berikutnya adalah harga penutupan AMRT pada cum-date sebelum tanggal efektif 14 Oktober 2026 di Pasar Reguler dan Negosiasi serta 16 Oktober 2026 di Pasar Tunai, karena harga itu menentukan angka final harga pelaksanaan dan rasio konversi, termasuk kemungkinan Maybank memutuskan tidak melakukan penyesuaian sama sekali sesuai kebijaksanaannya sendiri.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bbyb-jadwalkan-rupslb-perubahan-pengurus-29-oktober",
   "category": "Aksi Korporasi",
   "title": "BBYB Jadwalkan RUPSLB [Perubahan Pengurus] 29 Oktober",

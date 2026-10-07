@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "vici-panggil-rupslb-tiga-komisaris-mundur",
+  "category": "Aksi Korporasi",
+  "title": "VICI panggil RUPSLB, tiga [komisaris] mundur",
+  "deck": "RUPSLB VICI digelar 29 Oktober 2026 membahas pengunduran tiga komisaris sekaligus perubahan anggaran dasar soal bidang usaha dan kewenangan direksi.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/143e9a66ca_4190505bc3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-pakai-dana-obligasi-rp2-15-triliun-untuk-bayar-utang",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Pakai Dana Obligasi Rp2,15 Triliun untuk [Bayar Utang]",
+  "deck": "Energi Mega Persada melaporkan realisasi dana tiga tahap obligasi senilai total Rp2,15 triliun, sebagian besar dipakai membayar utang lama lewat anak usaha.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "Energi Mega Persada",
+   "obligasi",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b28f387bfb_09770e0f4e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "chek-koreksi-laporan-realisasi-dana-ipo-76-6-persen",
+  "category": "Aksi Korporasi",
+  "title": "CHEK Koreksi Laporan, [Realisasi] Dana IPO 76,6 Persen",
+  "deck": "PT Diastika Biotekindo Tbk mengoreksi laporan penggunaan dana IPO per Juni 2026 setelah ditegur OJK. Dari Rp106,80 miliar dana bersih, Rp81,76 miliar sudah terpakai, sisanya diparkir di deposito.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CHEK",
+   "IPO",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5923d0fadc_b087a10366.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adcp-jadwalkan-rupslb-13-november-simak-tanggal-pentingnya",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Jadwalkan [RUPSLB] 13 November, Simak Tanggal Pentingnya",
+  "deck": "Adhi Commuter Properti akan menggelar RUPSLB pada 13 November 2026, dengan pemegang saham per 21 Oktober 2026 yang berhak hadir atau memberi kuasa.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADCP",
+   "RUPSLB",
+   "Adhi Commuter Properti",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9d2068bb9a_d678f583ea.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mutu-koreksi-laporan-dana-ipo-realokasi-capex-ke-opex",
+  "category": "Aksi Korporasi",
+  "title": "MUTU Koreksi Laporan Dana IPO, [Realokasi] Capex ke Opex",
+  "deck": "Mutuagung Lestari mengoreksi laporan realisasi dana IPO per 30 Juni 2026: seluruh dana Rp97,26 miliar sudah terpakai, dengan Rp20,5 miliar bergeser dari rencana bangunan ke beban operasional.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MUTU",
+   "realisasi dana IPO",
+   "RUPSLB",
+   "capex opex"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe64251bc2_3983caaf44.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beks-jelaskan-lonjakan-transaksi-usai-saham-naik-31-8",
+  "category": "Aksi Korporasi",
+  "title": "BEKS Jelaskan [Lonjakan] Transaksi Usai Saham Naik 31,8%",
+  "deck": "Bank Banten (BEKS) menyatakan tak ada informasi material di balik lonjakan volume dan harga sahamnya pada 28 September 2026, menyusul permintaan penjelasan dari BEI.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEKS",
+   "Bank Banten",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a9aa68556f_04c3679d27.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wins-jamin-utang-anak-usaha-ke-bank-mandiri-us-6-64-juta",
+  "category": "Aksi Korporasi",
+  "title": "WINS Jamin [Utang] Anak Usaha ke Bank Mandiri US$6,64 Juta",
+  "deck": "WINS memberi jaminan perusahaan maksimal US$6,64 juta untuk memuluskan refinancing kapal dan modal kerja anak usahanya, PT Wintermar, lewat fasilitas Bank Mandiri.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINS",
+   "jaminan perusahaan",
+   "Bank Mandiri",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de5c402f1b_4577b30194.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iiff-tuntas-salurkan-dana-obligasi-rp428-95-miliar-ke-3-proyek",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Tuntas Salurkan Dana Obligasi [Rp428,95 Miliar] ke 3 Proyek",
+  "deck": "IIFF melaporkan dana bersih Rp428,95 miliar dari Obligasi Berkelanjutan III Tahap I 2026 sudah disalurkan penuh ke pembangkit listrik di Garut, sistem pemantauan armada, dan rumah sakit di Bogor.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IIFF",
+   "Obligasi",
+   "LRPD",
+   "infrastruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/362e19674f_94b226ba19.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-sesuaikan-syarat-dua-waran-amrt-usai-dividen-interim",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan [Syarat] Dua Waran AMRT Usai Dividen Interim",
+  "deck": "Maybank Sekuritas mengubah harga pelaksanaan dan rasio konversi waran AMRTZPCZ6A dan AMRTZPCK7A menyusul dividen interim AMRT Rp14,5 per saham, efektif 14 Oktober 2026.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "AMRT",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/02c2ec40e5_86c84729e1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bbyb-jadwalkan-rupslb-perubahan-pengurus-29-oktober",
   "category": "Aksi Korporasi",
   "title": "BBYB Jadwalkan RUPSLB [Perubahan Pengurus] 29 Oktober",
@@ -6329,150 +6473,6 @@ var ARTICLES = [
    "Obligasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/81784dc264_2ef7d8f65f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "taxi-jelaskan-lonjakan-harga-28-57-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "TAXI Jelaskan Lonjakan Harga [28,57%] ke Bursa",
-  "deck": "Bursa meminta penjelasan setelah saham TAXI melonjak 28,57% dengan volume transaksi naik hampir 12 kali lipat dalam sehari, tapi perseroan mengaku tak punya informasi material baru.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAXI",
-   "Express Transindo Utama",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1317bc0363_b1cb8e7428.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aali-jadwalkan-dividen-interim-rp233-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "AALI Jadwalkan [Dividen] Interim Rp233 per Saham",
-  "deck": "Astra Agro Lestari akan membagikan dividen interim tahun buku 2026 sebesar Rp233 per saham, total Rp449,03 miliar, dibayar 26 Oktober 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AALI",
-   "dividen interim",
-   "Astra Agro Lestari",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a92fba7b53_0f98446163.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppln-siap-bayar-rp455-miliar-obligasi-sukuk-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "PPLN Siap Bayar [Rp455 Miliar] Obligasi-Sukuk Jatuh Tempo",
-  "deck": "Bursa mencatat obligasi dan sukuk ijarah PLN senilai total Rp455 miliar jatuh tempo 1 Oktober 2026, dan perusahaan mengonfirmasi dana pembayaran sudah siap dikirim ke KSEI.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPLN",
-   "obligasi",
-   "sukuk ijarah",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1812042de1_0df877a2f4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gems-bagikan-dividen-interim-us-200-juta-rp611-93-saham",
-  "category": "Aksi Korporasi",
-  "title": "GEMS Bagikan [Dividen] Interim US$200 Juta, Rp611,93/Saham",
-  "deck": "GEMS akan membagikan dividen interim tahun buku 2026 senilai US$200 juta, setara Rp611,93 per saham, dibayar 22 Oktober 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GEMS",
-   "dividen interim",
-   "Golden Energy Mines",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e405b45452_6c49faa9d2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppro-gelar-rupslb-22-oktober-untuk-ubah-susunan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "PPRO Gelar RUPSLB 22 Oktober untuk [Ubah] Susunan Direksi",
-  "deck": "PT PP Properti Tbk memanggil RUPSLB pada 22 Oktober 2026 dengan agenda tunggal persetujuan perubahan susunan direksi perseroan.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRO",
-   "RUPSLB",
-   "Direksi",
-   "Pasar Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/023373a163_84add9b25a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-rogoh-pinjaman-rp6-m-danai-akuisisi-tri-satria-indah-motor",
-  "category": "Aksi Korporasi",
-  "title": "INPS Rogoh Pinjaman Rp6 M Danai Akuisisi [Tri Satria Indah Motor]",
-  "deck": "Indah Prakasa Sentosa mengoreksi tanggal pelaksanaan RUPSLB yang salah input, sekaligus melaporkan fasilitas pinjaman Rp6 miliar dari individu untuk mendanai akuisisi saham PT Tri Satria Indah Motor.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "RUPSLB",
-   "akuisisi",
-   "pinjaman"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0708f7db92_6b1467d118.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dssa-catat-aset-naik-37-6-ke-us-6-08-miliar-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "DSSA catat [aset] naik 37,6% ke US$6,08 miliar di semester I 2026",
-  "deck": "Laporan keuangan interim auditan DSSA per Juni 2026 mencatat aset naik ke US$6,08 miliar dan liabilitas ke sekitar US$3,02 miliar, seiring ekspansi investasi dan pinjaman bank baru.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DSSA",
-   "laporan keuangan",
-   "merger",
-   "Dian Swastatika Sentosa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930180332-64409-0/FinancialStatement-2026-II-DSSA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jpfa-divestasi-vaksindo-rp1-81-triliun-ke-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "JPFA Divestasi Vaksindo Rp1,81 Triliun ke [Afiliasi]",
-  "deck": "JAPFA Comfeed menjual seluruh saham PT Vaksindo Satwa Nusantara senilai Rp1,81 triliun kepada induk usahanya Japfa Pte Ltd dan Bionovus, dinilai wajar oleh penilai independen.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JPFA",
-   "Japfa Comfeed",
-   "Transaksi Afiliasi",
-   "Vaksindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/703f039ad5_f977aff3a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nick-jawab-bursa-akuisisi-ev-genset-85-pendapatan-dari-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "NICK Jawab Bursa: Akuisisi EV-Genset, 85% Pendapatan dari [Afiliasi]",
-  "deck": "NICK merinci akuisisi Okansa Pacific dan Energindo Nusantara senilai hampir Rp45 miliar, tapi 85 persen pendapatan semester I 2026 datang dari transaksi ke pihak afiliasi.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICK",
-   "Charnic Capital",
-   "akuisisi",
-   "pihak afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a7c652affe_d6a5f0bf6d.pdf",
   "sourceLabel": "IDX"
  }
 ];

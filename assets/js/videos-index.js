@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "42CTial3mWc",
+  "title": "Setahun Koperasi Desa Merah Putih Kembang, Kulon Progo",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Koperasi Desa Merah Putih di Kalurahan Kembang, Kulon Progo, genap berjalan satu tahun dan disebut mendorong perputaran ekonomi di tingkat desa.",
+  "takeaway": "Menunjukkan perkembangan program koperasi desa sebagai instrumen penguatan ekonomi lokal yang relevan bagi pembaca yang mengikuti isu UMKM dan ekonomi daerah."
+ },
+ {
   "id": "FxKglARxGhA",
   "title": "Indonesia Dorong Tata Kelola Royalti Hak Cipta Lintas Negara",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "DPR RI menyetujui revisi Undang-Undang Nomor 1 Tahun 1987 tentang Kamar Dagang dan Industri menjadi RUU usul inisiatif parlemen.",
   "takeaway": "Revisi UU Kadin berpotensi mengubah tata kelola organisasi dunia usaha yang berdampak luas bagi pelaku bisnis nasional."
- },
- {
-  "id": "_ezfbwyRvi0",
-  "title": "Harga Cabai Rawit Merah Tembus Rp80.000 di Pasar Klender",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Harga cabai rawit merah di Pasar Klender, Jakarta, mencapai Rp80.000 per kilogram di tengah pemantauan harga sembako oleh Kementerian Perdagangan.",
-  "takeaway": "Lonjakan harga cabai menjadi salah satu indikator tekanan inflasi pangan yang dirasakan langsung masyarakat."
  }
 ];

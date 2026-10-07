@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "42CTial3mWc",
+  "title": "Setahun Koperasi Desa Merah Putih Kembang, Kulon Progo",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Koperasi Desa Merah Putih di Kalurahan Kembang, Kulon Progo, genap berjalan satu tahun dan disebut mendorong perputaran ekonomi di tingkat desa.",
+  "takeaway": "Menunjukkan perkembangan program koperasi desa sebagai instrumen penguatan ekonomi lokal yang relevan bagi pembaca yang mengikuti isu UMKM dan ekonomi daerah.",
+  "terbit": "2026-10-07T09:45:46+00:00"
+ },
+ {
   "id": "FxKglARxGhA",
   "title": "Indonesia Dorong Tata Kelola Royalti Hak Cipta Lintas Negara",
   "category": "Industri",

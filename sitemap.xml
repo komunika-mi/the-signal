@@ -390,7 +390,7 @@
   <url><loc>https://the-signal.id/berita/untr-buka-buyback-rp2-triliun-baru-di-tengah-pasar-bergejolak.html</loc><lastmod>2026-10-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/penjualan-vktr-tumbuh-56-di-semester-i-2026.html</loc><lastmod>2026-10-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/apic-catat-rugi-bersih-rp71-5-miliar-di-semester-i-2026.html</loc><lastmod>2026-10-01</lastmod><priority>0.8</priority></url>
-  <url><loc>https://the-signal.id/berita/brna-koreksi-laporan-keuangan-siapkan-rights-issue-rp372-6-miliar.html</loc><lastmod>2026-10-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/brna-koreksi-laporan-keuangan-siapkan-rights-issue-rp372-6-miliar.html</loc><lastmod>2026-10-01</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/swat-jawab-bursa-ekuitas-ambruk-ke-rp12-46-m-kas-kritis.html</loc><lastmod>2026-10-01</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/inflasi-september-2026-capai-3-28-persen-inti-lebih-rendah.html</loc><lastmod>2026-10-01</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/harga-perdagangan-besar-naik-6-76-persen-di-september.html</loc><lastmod>2026-10-01</lastmod><priority>0.6</priority></url>
@@ -3781,6 +3781,7 @@
   <url><loc>https://the-signal.id/rubrik/ketenagakerjaan.html</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/rubrik/teknologi.html</loc><lastmod>2026-10-06</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/rubrik/perdagangan.html</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/edisi/harian-2026-10-07.html</loc><lastmod>2026-10-07</lastmod><priority>0.4</priority></url>
   <url><loc>https://the-signal.id/edisi/harian-2026-10-06.html</loc><lastmod>2026-10-06</lastmod><priority>0.4</priority></url>
   <url><loc>https://the-signal.id/edisi/harian-2026-10-05.html</loc><lastmod>2026-10-05</lastmod><priority>0.4</priority></url>
   <url><loc>https://the-signal.id/edisi/harian-2026-10-02.html</loc><lastmod>2026-10-02</lastmod><priority>0.4</priority></url>
@@ -3810,7 +3811,6 @@
   <url><loc>https://the-signal.id/edisi/harian-2026-08-27.html</loc><lastmod>2026-08-27</lastmod><priority>0.4</priority></url>
   <url><loc>https://the-signal.id/edisi/harian-2026-08-26.html</loc><lastmod>2026-08-26</lastmod><priority>0.4</priority></url>
   <url><loc>https://the-signal.id/edisi/harian-2026-08-25.html</loc><lastmod>2026-08-25</lastmod><priority>0.4</priority></url>
-  <url><loc>https://the-signal.id/edisi/harian-2026-08-24.html</loc><lastmod>2026-08-24</lastmod><priority>0.4</priority></url>
   <url><loc>https://the-signal.id/edisi/mingguan-2026-10-04.html</loc><lastmod>2026-10-04</lastmod><priority>0.4</priority></url>
   <url><loc>https://the-signal.id/edisi/mingguan-2026-09-28.html</loc><lastmod>2026-09-28</lastmod><priority>0.4</priority></url>
   <url><loc>https://the-signal.id/edisi/mingguan-2026-09-20.html</loc><lastmod>2026-09-20</lastmod><priority>0.4</priority></url>

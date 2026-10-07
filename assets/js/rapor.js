@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-07T02:42:51.411+07:00",
+ "diperbarui": "2026-10-08T03:07:56.811+07:00",
  "entri": [
+  {
+   "id": "2026-10-07-3",
+   "edisi": "2026-10-07",
+   "benang": "Obligasi Korporasi Ramai di Tengah Likuiditas Ketat",
+   "klaim": "Permintaan pendanaan korporasi tetap kuat, belum terganggu oleh pengetatan likuiditas di level moneter.",
+   "penanda": "lelang surat utang negara atau penerbitan korporasi besar berikutnya tetap oversubscribed seperti hari ini",
+   "tenggat": null,
+   "tenggatLabel": "penerbitan korporasi besar berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-07-2",
+   "edisi": "2026-10-07",
+   "benang": "BUMN Karya Lanjut Rapikan Kas dan Utang",
+   "klaim": "BUMN karya bergerak aktif memperkuat likuiditas dan menunda jadwal pembayaran, melanjutkan tekanan kas yang mulai terlihat sebelumnya.",
+   "penanda": "PTPP atau WIKA mengumumkan langkah serupa, atau muncul kasus gagal bayar baru",
+   "tenggat": null,
+   "tenggatLabel": "pekan-pekan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-07-1",
+   "edisi": "2026-10-07",
+   "benang": "Gelombang Koreksi Laporan Dana Publik Emiten",
+   "klaim": "Pengawasan OJK atas laporan realisasi dana rights issue dan IPO sedang diperketat.",
+   "penanda": "OJK mengumumkan sanksi resmi atau aturan baru soal kewajiban pelaporan dana publik",
+   "tenggat": null,
+   "tenggatLabel": "dalam waktu dekat",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-06-3",
    "edisi": "2026-10-06",

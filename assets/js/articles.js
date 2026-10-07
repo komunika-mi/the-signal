@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bltz-tegaskan-tak-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ Tegaskan Tak Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Merespons surat Bursa Efek Indonesia soal lonjakan transaksi, manajemen CGV Cinemas menyatakan tidak ada informasi material maupun rencana korporasi yang memengaruhi harga saham BLTZ.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T11:32:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec70c6321b_3177309b30.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLTZ",
+  "tags": [
+   "BLTZ",
+   "CGV Cinemas",
+   "Bursa Efek Indonesia",
+   "UMA"
+  ],
+  "body": [
+   "PT Graha Layar Prima Tbk (BLTZ), pengelola jaringan bioskop CGV Cinemas, menjawab surat permintaan penjelasan dari Bursa Efek Indonesia (BEI) bernomor S-12663/BEI.PP3/10-2026 tertanggal 5 Oktober 2026 terkait fluktuasi harga dan aktivitas transaksi saham perseroan. Dalam surat balasan bernomor 058/GLP/DIR/X/2026 yang diteken Direktur merangkap Corporate Secretary Yang Cheolung pada 7 Oktober 2026, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material apa pun yang dapat memengaruhi nilai maupun harga saham BLTZ, sebagaimana diatur dalam POJK Nomor 31/2015 tentang keterbukaan informasi dan Peraturan Bursa Nomor I-E.",
+   "Perseroan juga menegaskan tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang dapat berdampak pada status pencatatan sahamnya di bursa. Manajemen menyebut belum ada informasi, fakta, atau kejadian penting lain yang material dan belum diungkapkan ke publik, serta mengaku belum menerima rencana apa pun dari pemegang saham utama terkait kepemilikan sahamnya di perseroan.",
+   "Jika ke depan ada perubahan atas salah satu dari enam poin yang ditanyakan bursa itu, baik soal rencana korporasi, rencana pemegang saham utama, maupun fakta material baru, perseroan berjanji akan segera menyampaikan keterbukaan informasi kepada publik dan memberitahukan bursa, sesuai ketentuan pasar modal yang berlaku."
+  ],
+  "fotoAdegan": "Rows of empty red cinema seats lit by a flickering projector beam inside a dim multiplex auditorium in Jakarta",
+  "takeaway": "Laporan ini netral bagi BLTZ karena isinya hanya penegasan rutin bahwa tidak ada informasi baru, bukan pengumuman yang mengubah kondisi keuangan perseroan. Surat ini terbit karena bursa mendeteksi transaksi saham BLTZ bergerak tidak wajar, semacam alarm dini yang dipakai BEI untuk mengecek apakah ada aksi korporasi tersembunyi atau transaksi pemegang saham tertentu di balik lonjakan itu, dan karena perseroan membantah semuanya, tidak ada pos seperti ekuitas, arus kas, atau laba per saham yang ikut tersentuh dari laporan ini. Yang perlu dipantau berikutnya adalah apakah pola transaksi dan harga saham BLTZ kembali normal atau justru berlanjut volatil, serta apakah dalam tiga bulan ke depan muncul keterbukaan informasi baru yang berbeda dari pernyataan hari ini, mengingat perseroan sendiri berjanji segera mengumumkan bila ada perubahan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cent-jadwalkan-rupslb-13-november-pencatatan-dps-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "CENT Jadwalkan [RUPSLB] 13 November, Pencatatan DPS 21 Oktober",
+  "deck": "PT Centratama Telekomunikasi Indonesia Tbk (CENT) menjadwalkan RUPSLB pada 13 November 2026, dengan pencatatan pemegang saham berhak hadir per 21 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T11:31:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/64668d27f6_36e9e956d1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CENT",
+  "tags": [
+   "CENT",
+   "RUPSLB",
+   "Centratama Telekomunikasi",
+   "Pasar Modal"
+  ],
+  "body": [
+   "Direksi PT Centratama Telekomunikasi Indonesia Tbk (CENT) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 13 November 2026 pukul 15.00 WIB, bertempat di Ruang Meeting Perseroan, TCC Batavia Tower One lantai 16, Jl. KH. Mas Mansyur. Pengumuman ini merujuk pada surat pemberitahuan rencana rapat yang sebelumnya sudah disampaikan ke Otoritas Jasa Keuangan pada 30 September 2026, dan ditandatangani oleh Corporate Secretary CENT, Daniel Pradipta.",
+   "Perseroan menetapkan bahwa pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat sah dalam Daftar Pemegang Saham (DPS) per 21 Oktober 2026 hingga pukul 16.00 WIB. Agenda lengkap rapat belum diumumkan dalam dokumen ini. Pemanggilan resmi beserta mata acara rapat baru akan dipublikasikan pada 22 Oktober 2026 melalui situs web Bursa Efek Indonesia, situs penyedia e-RUPS, dan situs resmi perusahaan.",
+   "Dokumen ini juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat usulan diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, menyertakan alasan dan bahan usulan, serta tidak bertentangan dengan peraturan yang berlaku. Usulan tersebut harus diterima Direksi paling lambat tujuh hari sebelum tanggal pemanggilan rapat, yaitu sekitar 15 Oktober 2026."
+  ],
+  "fotoAdegan": "Modern glass office tower in central Jakarta's business district photographed from the street at dusk, traffic passing below.",
+  "takeaway": "Laporan ini netral bagi CENT karena isinya baru sebatas pemberitahuan jadwal rapat, belum ada agenda atau keputusan korporasi yang bisa dinilai dampaknya terhadap kinerja perusahaan. Rapat umum pemegang saham luar biasa biasanya dipakai emiten untuk memutuskan hal-hal besar seperti penambahan modal atau pergantian direksi, yang bisa mengubah porsi kepemilikan dan laba per saham pemegang saham lama, sehingga pelaku pasar selalu menunggu agenda resminya sebelum menilai dampaknya. Yang perlu dipantau pemegang saham CENT adalah pengumuman pemanggilan resmi beserta mata acara rapat pada 22 Oktober 2026, serta tenggat pengajuan usulan agenda oleh pemegang saham yang jatuh sekitar 15 Oktober 2026. Pemegang saham yang ingin hadir atau memberi suara juga harus memastikan namanya tercatat di daftar pemegang saham per 21 Oktober 2026 pukul 16.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bold-tunjuk-yohanes-budi-kurniawan-jadi-wakil-direktur-utama",
+  "category": "Aksi Korporasi",
+  "title": "BOLD Tunjuk Yohanes Budi Kurniawan jadi [Wakil Direktur Utama]",
+  "deck": "BOLD menambah posisi Wakil Direktur Utama yang diisi Yohanes Budi Kurniawan, bersama dua direktur baru lain, efektif 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T10:28:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6685dee6b1_14bd43938a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "direksi",
+   "komisaris",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Bukit Makmur Mandiri Utama (BOLD) melaporkan ke Bursa Efek Indonesia perubahan susunan pengurus per 7 Oktober 2026. Dian Sofia Andyasuri tetap menjabat Direktur Utama, posisi yang dipegangnya sejak 25 Juni 2026. Perusahaan membentuk posisi baru Wakil Direktur Utama yang diisi oleh Yohanes Budi Kurniawan, efektif 2 Oktober 2026.",
+   "Pada tanggal yang sama, dua direktur baru resmi bergabung di jajaran direksi, yaitu Nanang Rizal Achyar dan Novendra, yang keduanya menjabat sebagai Direktur sejak 2 Oktober 2026. Dua direktur yang sudah menjabat sebelumnya, Silfanny Fadillah Bahar sejak 15 Mei 2023 dan Brett McGuire sejak 23 April 2026, tetap dipertahankan dalam susunan direksi.",
+   "Di jajaran komisaris, Ashish Gupta menjabat sebagai Komisaris Utama, didampingi Soemarno Witoro Soelarno yang berstatus komisaris independen. Dokumen yang ditandatangani secara elektronik oleh Corporate Secretary BOLD, Riska Aurisna Febriane, tidak merinci tanggal pengangkatan untuk posisi komisaris ini maupun ada tidaknya perubahan dari susunan sebelumnya."
+  ],
+  "fotoAdegan": "Large mining haul trucks moving across an open-pit coal mine under a hazy tropical sky, workers in safety vests nearby",
+  "takeaway": "Perubahan pengurus ini netral bagi fundamental BOLD karena tidak mengubah struktur modal, utang, atau laba perusahaan, dan sekadar penataan ulang tim manajemen puncak. Perubahan direksi semacam ini tidak langsung menggerakkan modal perusahaan atau uang kas yang masuk dan keluar, tapi pelaku pasar tetap memperhatikannya karena arah strategi, keputusan investasi, dan kebijakan utang ke depan banyak ditentukan oleh siapa yang memimpin jajaran direksi. Penambahan posisi Wakil Direktur Utama yang baru menunjukkan BUMA memperkuat lapisan kepemimpinan di bawah direktur utama, kemungkinan untuk menopang operasional tambang yang makin besar. Yang perlu dipantau selanjutnya adalah apakah susunan pengurus baru ini disahkan dalam rapat umum pemegang saham berikutnya, serta bagaimana arah kebijakan perusahaan berubah di bawah kepemimpinan yang diperluas ini, karena dokumen ini sendiri belum menyebutkan agenda atau tanggal RUPS.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cani-gelar-public-expose-insidentil-soal-opini-disclaimer",
+  "category": "Aksi Korporasi",
+  "title": "CANI Gelar Public Expose [Insidentil] Soal Opini Disclaimer",
+  "deck": "BEI meminta CANI menggelar paparan publik insidentil pada 9 Oktober 2026 untuk menjelaskan opini disclaimer auditor dan roadmap pemulihan di tengah suspensi saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T10:21:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/feacaceae2_f4f9c2c011.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CANI",
+  "tags": [
+   "CANI",
+   "opini disclaimer",
+   "suspensi saham",
+   "public expose"
+  ],
+  "body": [
+   "PT Capitol Nusantara Indonesia Tbk (CANI) akan menggelar public expose insidentil pada Jumat, 9 Oktober 2026, pukul 10.00 WIB sampai selesai, melalui online meeting via Zoom. Tautan rapat akan dibagikan saat penyampaian materi. Latar belakang penyelenggaraan ini bukan inisiatif sukarela perusahaan, melainkan permintaan Bursa Efek Indonesia sesuai surat referensi nomor S-12711/BEI.PP3/10-2026. Surat pemberitahuan ke bursa ditandatangani Direktur CANI, Jansen Warokka, pada 7 Oktober 2026 pukul 10.21 WIB, sementara surat permohonan sebelumnya ditandatangani Sekretaris Perusahaan, Riduwan Kosasih.",
+   "Ada empat agenda yang akan dibahas manajemen. Pertama, penjelasan atas opini disclaimer of opinion dari auditor independen tertanggal 28 September 2026 terhadap laporan keuangan tahunan untuk tahun buku yang berakhir 30 Juni 2026, yaitu kondisi ketika auditor tidak bisa memberikan pendapat sama sekali karena tidak cukup bukti untuk menilai kewajaran laporan keuangan. Kedua, pemaparan peningkatan kinerja yang tercatat selama tahun buku 2025. Ketiga, roadmap pemulihan manajemen yang mencakup restrukturisasi laporan posisi keuangan, stabilisasi operasional, optimalisasi kapal, perbaikan likuiditas, serta penjelasan kondisi yang mendasari suspensi saham perusahaan di bursa efek. Keempat, pemaparan komitmen dan fokus strategis manajemen ke depan.",
+   "Rencana paparan publik ini menyusul laporan auditor yang sebelumnya diberitakan menyoroti defisiensi modal CANI senilai US$34,2 juta. Forum pada 9 Oktober mendatang menjadi kesempatan manajemen untuk merespons langsung di hadapan investor dan publik atas rangkaian temuan tersebut."
+  ],
+  "fotoAdegan": "A cargo vessel moored at an Indonesian port, workers inspecting mooring lines and deck equipment under overcast afternoon light.",
+  "takeaway": "Laporan ini condong negatif bagi CANI, karena paparan publik ini bukan inisiatif sukarela melainkan diminta langsung oleh BEI menyusul opini disclaimer auditor dan saham yang sedang disuspensi, pertanda regulator menilai persoalan perusahaan cukup serius untuk dijelaskan di depan publik. Opini disclaimer berarti auditor tidak bisa memastikan laporan keuangan perusahaan menggambarkan kondisi sebenarnya, sehingga ekuitas dan arus kas yang dilaporkan jadi tidak bisa diandalkan begitu saja, hal yang penting bagi investor karena jadi dasar menilai apakah perusahaan masih mampu membayar utang dan membiayai operasionalnya. Roadmap pemulihan yang disebut mencakup perbaikan likuiditas dan optimalisasi kapal juga menunjukkan perusahaan sendiri mengakui ada tekanan pada kas dan pemanfaatan aset operasionalnya. Yang perlu dipantau adalah pelaksanaan paparan publik pada 9 Oktober 2026 pukul 10.00 WIB, terutama apakah manajemen memberi kejelasan konkret soal langkah pemulihan dan kapan kondisi yang membuat sahamnya disuspensi bisa diselesaikan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "djp-atur-syarat-penyedia-printer-meterai-digital",
   "category": "Makroekonomi",
   "title": "DJP Atur Syarat Penyedia Printer Meterai [Digital]",
@@ -29,6 +133,32 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "takeaway": "Aturan ini menambah syarat konkret: perusahaan yang mau jadi penyedia printer meterai digital wajib berbadan hukum Indonesia, taat pajak, dan menyimpan pusat data di dalam negeri, bukan di server luar negeri. Yang terdampak langsung adalah perusahaan teknologi percetakan atau sistem dokumen yang berminat memasok alat ini, karena kini mereka harus lolos verifikasi DJP dan bisa kena sanksi bertingkat, dari teguran sampai pencabutan izin, kalau melanggar aturan kerahasiaan data atau pelindungan konsumen. Aturan ini melengkapi payung sebelumnya, yakni Peraturan Menteri Keuangan 78/2024 tentang bea meterai, dan menunjukkan pemerintah menata ekosistem meterai digital selangkah demi selangkah, dari aturan pemakaian ke aturan penyedia perangkatnya. Yang masih perlu dipantau adalah apakah DJP akan mengumumkan daftar resmi penyedia yang sudah disetujui, karena dari situ baru terlihat seberapa ketat seleksinya berjalan di lapangan.",
   "imageV": "muxhqqok"
+ },
+ {
+  "slug": "cnko-panggil-rupslb-kedua-usai-kuorum-pertama-gagal",
+  "category": "Aksi Korporasi",
+  "title": "CNKO Panggil RUPSLB Kedua usai [Kuorum] Pertama Gagal",
+  "deck": "Setelah RUPS pertama pada Juli 2026 gagal mencapai kuorum, CNKO menjadwalkan rapat kedua pada 15 Oktober 2026 untuk membahas perubahan anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T09:16:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f42d4f9244_48b811e85b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CNKO",
+  "tags": [
+   "CNKO",
+   "RUPSLB",
+   "anggaran dasar",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Exploitasi Energi Indonesia Tbk (CNKO) menjadwalkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 15 Oktober 2026 pukul 10.00 WIB di Financial Hall, Graha CIMB Niaga, Jalan Jenderal Sudirman Kavling 58, Jakarta Selatan. Pemanggilan ini merupakan rapat kedua, setelah RUPSLB sebelumnya yang digelar pada 20 Juli 2026 tidak mencapai kuorum, sebagaimana disampaikan dalam surat perusahaan tertanggal 19 Agustus 2026.",
+   "Agenda tunggal rapat kali ini adalah persetujuan perubahan anggaran dasar perusahaan. Pemanggilan tidak merinci pasal spesifik apa yang akan diubah. Pemegang saham yang tercatat dalam Daftar Pemegang Saham (DPS) per 6 Oktober 2026 adalah pihak yang berhak hadir dan memberikan suara dalam rapat ini.",
+   "Surat pemanggilan ditandatangani oleh Corporate Secretary CNKO, Wim Andrian, dan disampaikan ke Bursa Efek Indonesia pada 7 Oktober 2026."
+  ],
+  "fotoAdegan": "Empty corporate meeting hall with rows of chairs facing a podium, soft morning light through tall windows",
+  "takeaway": "Pemanggilan rapat kedua ini netral bagi pemegang saham CNKO, karena belum ada indikasi perubahan arah bisnis, hanya proses tata kelola yang diulang setelah rapat pertama kekurangan kuorum. Agenda perubahan anggaran dasar bisa saja menyentuh pos seperti modal dasar atau jumlah saham beredar perusahaan, tapi pemanggilan ini tidak merinci pasal mana yang diubah sehingga dampaknya ke struktur modal belum bisa dipastikan. Gagalnya kuorum pada rapat 20 Juli 2026 juga layak dicermati sebagai sinyal rendahnya partisipasi pemegang saham dalam keputusan strategis perusahaan. Yang perlu dipantau selanjutnya adalah apakah rapat pada 15 Oktober 2026 berhasil mencapai kuorum dan isi perubahan anggaran dasar yang akhirnya disetujui, dengan basis pemegang saham yang tercatat per 6 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "hut-ke-28-bank-mandiri-3-360-paket-dibagi-ke-pekerja-rentan",

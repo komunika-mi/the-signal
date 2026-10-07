@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bltz-tegaskan-tak-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ Tegaskan Tak Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Merespons surat Bursa Efek Indonesia soal lonjakan transaksi, manajemen CGV Cinemas menyatakan tidak ada informasi material maupun rencana korporasi yang memengaruhi harga saham BLTZ.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLTZ",
+   "CGV Cinemas",
+   "Bursa Efek Indonesia",
+   "UMA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec70c6321b_3177309b30.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cent-jadwalkan-rupslb-13-november-pencatatan-dps-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "CENT Jadwalkan [RUPSLB] 13 November, Pencatatan DPS 21 Oktober",
+  "deck": "PT Centratama Telekomunikasi Indonesia Tbk (CENT) menjadwalkan RUPSLB pada 13 November 2026, dengan pencatatan pemegang saham berhak hadir per 21 Oktober 2026.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CENT",
+   "RUPSLB",
+   "Centratama Telekomunikasi",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/64668d27f6_36e9e956d1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bold-tunjuk-yohanes-budi-kurniawan-jadi-wakil-direktur-utama",
+  "category": "Aksi Korporasi",
+  "title": "BOLD Tunjuk Yohanes Budi Kurniawan jadi [Wakil Direktur Utama]",
+  "deck": "BOLD menambah posisi Wakil Direktur Utama yang diisi Yohanes Budi Kurniawan, bersama dua direktur baru lain, efektif 2 Oktober 2026.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "direksi",
+   "komisaris",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6685dee6b1_14bd43938a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cani-gelar-public-expose-insidentil-soal-opini-disclaimer",
+  "category": "Aksi Korporasi",
+  "title": "CANI Gelar Public Expose [Insidentil] Soal Opini Disclaimer",
+  "deck": "BEI meminta CANI menggelar paparan publik insidentil pada 9 Oktober 2026 untuk menjelaskan opini disclaimer auditor dan roadmap pemulihan di tengah suspensi saham.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CANI",
+   "opini disclaimer",
+   "suspensi saham",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/feacaceae2_f4f9c2c011.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "djp-atur-syarat-penyedia-printer-meterai-digital",
   "category": "Makroekonomi",
   "title": "DJP Atur Syarat Penyedia Printer Meterai [Digital]",
@@ -21,6 +85,22 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/djp-terbitkan-aturan-penyedia-printer-meterai-teraan-digital",
   "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "cnko-panggil-rupslb-kedua-usai-kuorum-pertama-gagal",
+  "category": "Aksi Korporasi",
+  "title": "CNKO Panggil RUPSLB Kedua usai [Kuorum] Pertama Gagal",
+  "deck": "Setelah RUPS pertama pada Juli 2026 gagal mencapai kuorum, CNKO menjadwalkan rapat kedua pada 15 Oktober 2026 untuk membahas perubahan anggaran dasar.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CNKO",
+   "RUPSLB",
+   "anggaran dasar",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f42d4f9244_48b811e85b.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "hut-ke-28-bank-mandiri-3-360-paket-dibagi-ke-pekerja-rentan",
@@ -6387,88 +6467,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac0c613fdb_62d605d5b5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rock-klarifikasi-ke-bei-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "ROCK Klarifikasi ke BEI soal [Volatilitas] Transaksi Saham",
-  "deck": "Setelah BEI meminta penjelasan atas gerak harga sahamnya yang tak biasa, Rockfields Properti Indonesia (ROCK) menyatakan tidak memiliki informasi material yang belum diungkap ke publik.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ROCK",
-   "BEI",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ba49a5842_a007ff65b3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtfn-umumkan-rencana-rupst-pada-6-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "MTFN Umumkan Rencana [RUPST] pada 6 November 2026",
-  "deck": "Capitalinc Investment (MTFN) menjadwalkan RUPST pada 6 November 2026, dengan pencatatan pemegang saham 14 Oktober dan batas usul pemegang saham 8 Oktober 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTFN",
-   "RUPST",
-   "Capitalinc Investment",
-   "Corporate Action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/07433b1134_0dcf14d96a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gema-komisaris-mundur-sebelum-rups-setujui",
-  "category": "Aksi Korporasi",
-  "title": "GEMA: Komisaris [Mundur] Sebelum RUPS Setujui",
-  "deck": "Prof. Agustinus Purna Irawan mengundurkan diri sebagai Komisaris Gema Grahasarana pada 28 September 2026, keputusan final menunggu RUPS terdekat.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GEMA",
-   "komisaris",
-   "pengunduran diri",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e035b47711_e56ec55dac.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jelang-wajib-halal-2026-kemendag-dorong-sertifikasi-ekspor-umk",
-  "category": "Bisnis",
-  "title": "Jelang Wajib Halal 2026, Kemendag Dorong [Sertifikasi] Ekspor UMK",
-  "deck": "Kemendag mendorong pelaku usaha, terutama UMK, memperkuat sertifikasi halal dan mutu produk jelang tenggat wajib halal berlaku 18 Oktober 2026 agar makin siap menembus pasar ekspor.",
-  "date": "30 September 2026",
-  "image": "assets/img/jelang-wajib-halal-2026-kemendag-dorong-sertifikasi-ekspor-umk.jpg",
-  "imageV": "munk84o9",
-  "tags": [
-   "sertifikasi halal",
-   "Kemendag",
-   "ekspor UMK",
-   "wajib halal 2026"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/jelang-wajib-halal-kemendag-dorong-penguatan-mutu-dan-sertifikasi-halal-untuk-menghubungkan-produk-indonesia-ke-dunia",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bris-siapkan-rights-issue-ii-terbitkan-6-8-miliar-saham",
-  "category": "Aksi Korporasi",
-  "title": "BRIS Siapkan [Rights Issue] II, Terbitkan 6,8 Miliar Saham",
-  "deck": "Bank Syariah Indonesia berencana menerbitkan hingga 6,8 miliar saham baru lewat rights issue kedua untuk memperkuat modal. RUPSLB digelar 6 November 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRIS",
-   "rights issue",
-   "PMHMETD",
-   "Bank Syariah Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3843b4a65f_56f23bc00c.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cadangan-devisa-september-turun-tipis-ke-us-146-3-miliar",
+  "category": "Moneter",
+  "title": "Cadangan Devisa September [Turun] Tipis ke US$146,3 Miliar",
+  "deck": "Bank Indonesia mencatat cadangan devisa akhir September 2026 sebesar US$146,3 miliar, turun tipis dari US$146,5 miliar pada Agustus karena pembayaran utang luar negeri jatuh tempo.",
+  "image": "assets/img/cadangan-devisa-september-turun-tipis-ke-us-146-3-miliar.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T06:09:38.214Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821426.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "cadangan devisa",
+   "Bank Indonesia",
+   "rupiah",
+   "utang luar negeri"
+  ],
+  "body": [
+   "Cadangan devisa Indonesia akhir September 2026 tercatat US$146,3 miliar, turun tipis dibandingkan posisi Agustus sebesar US$146,5 miliar. Angka ini penting karena cadangan devisa adalah dana valuta asing yang dipegang Bank Indonesia untuk membayar utang luar negeri pemerintah dan menjaga nilai tukar rupiah tetap stabil, terutama di tengah gejolak pasar keuangan global yang masih tinggi.",
+   "Penurunan tersebut dipengaruhi oleh pembayaran utang luar negeri pemerintah yang jatuh tempo pada September, serta langkah Bank Indonesia menggunakan sebagian cadangannya untuk menstabilkan rupiah. Di sisi lain, penarikan pinjaman luar negeri baru oleh pemerintah dan penerimaan dari pajak serta jasa membantu menahan agar penurunannya tidak lebih dalam.",
+   "Dengan posisi US$146,3 miliar, cadangan devisa itu setara dengan pembiayaan 5,3 bulan impor, atau 5,2 bulan impor jika ditambah kewajiban pembayaran utang luar negeri pemerintah. Angka tersebut masih jauh di atas standar kecukupan internasional sekitar tiga bulan impor, ukuran umum yang menandai apakah sebuah negara punya cukup dolar untuk kebutuhan dasarnya.",
+   "Bank Indonesia menyatakan optimistis ketahanan sektor eksternal akan tetap terjaga, didukung oleh cadangan devisa yang dinilai memadai serta arus modal asing yang diperkirakan terus masuk sejalan dengan persepsi positif investor terhadap prospek ekonomi nasional. Bank sentral juga menyebut akan terus memperkuat koordinasi dengan pemerintah untuk menjaga stabilitas makroekonomi."
+  ],
+  "fotoAdegan": "Container ships docked at a busy Indonesian seaport, cranes loading cargo under a hazy afternoon sky",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2613324/SP_2613324_Cover.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Penurunan tipis cadangan devisa ke US$146,3 miliar pada September terjadi karena pemerintah membayar utang luar negeri yang jatuh tempo, sementara Bank Indonesia juga mengeluarkan dolar untuk menahan pelemahan rupiah di tengah gejolak pasar global. Penarikan pinjaman luar negeri baru oleh pemerintah dan penerimaan pajak serta jasa menahan agar penurunan itu tidak lebih dalam. Yang terdampak langsung adalah kemampuan pemerintah membayar utang luar negeri berikutnya dan daya tahan rupiah, bukan konsumen secara langsung, karena cadangan ini masih jauh di atas batas aman tiga bulan impor yang jadi standar internasional. Ada dua kemungkinan arah dari sini, penurunan ini sekadar musiman akibat jadwal pembayaran utang yang memang jatuh di September, atau awal tren melandai kalau Bank Indonesia terus harus intervensi menjaga rupiah di tengah ketidakpastian global yang disebut masih tinggi. Data yang akan memperjelas arah ini adalah rilis cadangan devisa Oktober 2026 yang biasanya diumumkan awal November, yang akan menunjukkan apakah dolar kembali masuk dari pinjaman luar negeri atau cadangan terus tergerus pembayaran utang.",
+  "imageV": "muxprpp0"
+ },
+ {
+  "slug": "uang-primer-bi-tumbuh-melambat-ke-9-3-pada-september",
+  "category": "Moneter",
+  "title": "Uang Primer BI Tumbuh [Melambat] ke 9,3% pada September",
+  "deck": "Bank Indonesia mencatat pertumbuhan uang primer adjusted melambat ke 9,3 persen secara tahunan pada September 2026, dari 16,3 persen pada Agustus.",
+  "image": "assets/img/uang-primer-bi-tumbuh-melambat-ke-9-3-pada-september.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T06:09:23.459Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821526.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "uang primer",
+   "likuiditas perbankan",
+   "moneter"
+  ],
+  "body": [
+   "Bank Indonesia melaporkan uang primer adjusted, yaitu gabungan uang tunai yang beredar di masyarakat dan simpanan bank di rekening Bank Indonesia setelah dikurangi efek penyaluran insentif likuiditas, tumbuh 9,3 persen secara tahunan pada September 2026. Angka ini melambat dibandingkan pertumbuhan Agustus 2026 yang tercatat 16,3 persen. Total uang primer adjusted mencapai Rp2.353,1 triliun. Data ini jadi salah satu penanda seberapa banyak dana segar tersedia di sistem keuangan, yang pada akhirnya ikut menentukan kemudahan bank menyalurkan kredit ke masyarakat dan pelaku usaha.",
+   "Perlambatan terjadi pada kedua komponen utamanya. Uang kartal, yaitu uang tunai kertas dan logam yang beredar di masyarakat, tumbuh 11,8 persen secara tahunan. Sementara itu, simpanan bank umum di rekening Bank Indonesia, setelah disesuaikan, hanya tumbuh 3,9 persen.",
+   "Bank Indonesia menyebut angka ini sudah memperhitungkan dampak insentif likuiditas yang diberikan ke perbankan, yaitu kebijakan yang membuat bank tidak perlu menyimpan dana sebanyak biasanya di Bank Indonesia sehingga dana tersebut bisa dipakai untuk hal lain, termasuk kredit. Perhitungan dengan metode adjusted ini sudah berlaku sejak Januari 2025, agar efek kebijakan likuiditas tidak mengacaukan pembacaan tren uang primer yang sebenarnya."
+  ],
+  "fotoAdegan": "Armored cash transport van parked outside a bank branch while guards carry sealed cash bags inside, daytime street scene",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/sp__2713625.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah di sini adalah kecepatan pertumbuhan uang primer, bukan jumlahnya yang menyusut. Uang primer sendiri adalah gabungan uang tunai yang beredar plus simpanan bank di Bank Indonesia, semacam bahan dasar sebelum diputar jadi kredit oleh perbankan. Pertumbuhannya turun dari 16,3 persen pada Agustus menjadi 9,3 persen pada September, dan siaran pers ini tidak menjelaskan apakah itu karena permintaan kredit yang melambat, penyesuaian insentif likuiditas, atau sekadar efek pembanding tahun lalu yang lebih tinggi. Yang terdampak langsung adalah perbankan, karena angka ini mencerminkan seberapa banyak dana segar yang tersedia untuk disalurkan. Yang masih kurang untuk membaca ke mana arah ini bergerak adalah data uang primer bulan Oktober 2026, sebab satu bulan perlambatan belum cukup membedakan tren dari fluktuasi musiman biasa.",
+  "imageV": "muxprr82"
+ },
+ {
+  "slug": "bpjs-kesehatan-gandeng-18-asuransi-tambahan-baru",
+  "category": "Bisnis",
+  "title": "BPJS Kesehatan Gandeng [18] Asuransi Tambahan Baru",
+  "deck": "BPJS Kesehatan menambah 18 mitra asuransi kesehatan tambahan untuk koordinasi manfaat dengan JKN, total kini 31 perusahaan, demi tagihan satu pintu dan proteksi peserta dari biaya tambahan.",
+  "image": "assets/img/bpjs-kesehatan-gandeng-18-asuransi-tambahan-baru.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T11:56:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471676-bpjs-kesehatan-jalin-kerja-sama-dengan-sejumlah-asuransi-kesehatan-tambahan",
+  "tags": [
+   "BPJS Kesehatan",
+   "asuransi kesehatan tambahan",
+   "KAPJ",
+   "JKN"
+  ],
+  "body": [
+   "BPJS Kesehatan menandatangani perjanjian kerja sama dengan 18 perusahaan Asuransi Kesehatan Tambahan (AKT) untuk menjalankan Koordinasi Antar Penyelenggara Jaminan (KAPJ), sesuai amanat Keputusan Menteri Kesehatan Nomor 1117 Tahun 2025. Penandatanganan berlangsung di Bogor pada 6 Oktober 2026, dalam rangkaian kegiatan Komite Kebijakan Sektor Kesehatan (KKSK). Dengan tambahan ini, jumlah AKT yang resmi bermitra dengan BPJS Kesehatan dalam skema KAPJ menjadi 31 perusahaan.",
+   "Langkah ini merupakan hasil kerja Tim Task Force Percepatan Implementasi KAPJ yang sebelumnya dibentuk oleh BPJS Kesehatan bersama Kementerian Kesehatan, Otoritas Jasa Keuangan, dan asosiasi AKT untuk menyiapkan aspek kebijakan, operasional, dan tata kelola kerja sama ini. Pada kesempatan yang sama, sejumlah AKT juga menandatangani kerja sama langsung dengan fasilitas kesehatan, yakni rumah sakit dan grup rumah sakit, sehingga koordinasi tidak hanya terjadi antara BPJS dan asuransi swasta, tetapi juga sampai ke tempat layanan.",
+   "Direktur Jaminan Pelayanan Kesehatan BPJS Kesehatan, Abdi Kurniawan Purba, menyebut kerja sama ini sebagai penguatan koordinasi manfaat antara Program Jaminan Kesehatan Nasional (JKN) dan AKT, dengan tujuan memberi peserta kepastian pembiayaan, proses klaim yang transparan, dan layanan yang lebih terintegrasi. Ia menambahkan bahwa KAPJ sendiri bukan konsep baru, karena aturan soal kenaikan kelas rawat dan pembayaran selisih biaya sudah ada sejak Peraturan Presiden Nomor 59 Tahun 2024, serta Peraturan Menteri Kesehatan Nomor 3 Tahun 2023 dan Nomor 51 Tahun 2018.",
+   "KMK Nomor 1117 Tahun 2025 menjadi penyempurna dari aturan-aturan sebelumnya, dengan menghadirkan sistem tagihan satu pintu, pembagian proporsi pembiayaan antara BPJS Kesehatan dan AKT, serta mekanisme yang melindungi peserta dari potensi biaya tambahan di luar ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "Patients queuing calmly at a hospital registration counter, nurses assisting with paperwork, bright morning lobby light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/07/6ac5cf37458f1-bpjs-kesehatan-jalin-kerja-sama-dengan-sejumlah-asuransi-kesehatan-tambahan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah jumlah mitra asuransi tambahan BPJS Kesehatan yang melonjak dari 13 menjadi 31 perusahaan dalam satu kali penandatanganan, disertai mekanisme baru berupa tagihan satu pintu dan pembagian beban biaya antara BPJS dan asuransi swasta. Yang langsung terdampak adalah peserta JKN yang juga memegang polis asuransi kesehatan tambahan, karena klaim mereka akan diproses lewat satu sistem dan mereka dilindungi dari biaya tambahan di luar aturan, sementara rumah sakit kini punya ikatan kerja sama langsung dengan asuransi tambahan tersebut. Rangkaian aturan ini, dari Perpres tahun 2024 hingga KMK 1117/2025, menunjukkan arah penguatan koordinasi manfaat secara bertahap lewat perluasan jumlah mitra, bukan perubahan pada besaran iuran atau manfaat dasar JKN itu sendiri. Yang akan membuktikan apakah integrasi ini benar-benar berjalan di lapangan adalah pelaksanaan sistem tagihan satu pintu itu sendiri, sehingga perlu dipantau apakah sistem tersebut sudah beroperasi penuh atau masih tahap uji coba pada laporan BPJS Kesehatan berikutnya.",
+  "imageV": "muxprrqv"
+ },
+ {
   "slug": "bltz-tegaskan-tak-ada-info-material-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "BLTZ Tegaskan Tak Ada Info Material soal [Volatilitas] Saham",
@@ -105,6 +187,33 @@ var ARTICLES = [
   "fotoAdegan": "A cargo vessel moored at an Indonesian port, workers inspecting mooring lines and deck equipment under overcast afternoon light.",
   "takeaway": "Laporan ini condong negatif bagi CANI, karena paparan publik ini bukan inisiatif sukarela melainkan diminta langsung oleh BEI menyusul opini disclaimer auditor dan saham yang sedang disuspensi, pertanda regulator menilai persoalan perusahaan cukup serius untuk dijelaskan di depan publik. Opini disclaimer berarti auditor tidak bisa memastikan laporan keuangan perusahaan menggambarkan kondisi sebenarnya, sehingga ekuitas dan arus kas yang dilaporkan jadi tidak bisa diandalkan begitu saja, hal yang penting bagi investor karena jadi dasar menilai apakah perusahaan masih mampu membayar utang dan membiayai operasionalnya. Roadmap pemulihan yang disebut mencakup perbaikan likuiditas dan optimalisasi kapal juga menunjukkan perusahaan sendiri mengakui ada tekanan pada kas dan pemanfaatan aset operasionalnya. Yang perlu dipantau adalah pelaksanaan paparan publik pada 9 Oktober 2026 pukul 10.00 WIB, terutama apakah manajemen memberi kejelasan konkret soal langkah pemulihan dan kapan kondisi yang membuat sahamnya disuspensi bisa diselesaikan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "tarif-pajak-hiburan-jakarta-capai-40-persen",
+  "category": "Makroekonomi",
+  "title": "Tarif Pajak Hiburan Jakarta Capai [40] Persen",
+  "deck": "Jakarta mengenakan tarif PBJT 10 persen untuk hiburan umum dan 40 persen untuk diskotek, karaoke, kelab malam, bar, serta spa sesuai Perda DKI Nomor 1 Tahun 2024.",
+  "image": "assets/img/tarif-pajak-hiburan-jakarta-capai-40-persen.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T10:00:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471600-kenali-tarif-pbjt-jasa-hiburan-di-jakarta-dari-10-persen-hingga-40-persen",
+  "tags": [
+   "PBJT",
+   "Pajak Daerah",
+   "DKI Jakarta",
+   "Hiburan Malam"
+  ],
+  "body": [
+   "Aktivitas hiburan sehari-hari seperti menonton film, menyaksikan konser musik, berolahraga di tempat kebugaran, atau mengunjungi tempat rekreasi ternyata tidak lepas dari pungutan pajak daerah. Di Jakarta, seluruh layanan tersebut termasuk objek Pajak Barang dan Jasa Tertentu (PBJT) kategori jasa kesenian dan hiburan, sebagaimana diatur dalam Peraturan Daerah Provinsi DKI Jakarta Nomor 1 Tahun 2024 tentang Pajak Daerah dan Retribusi Daerah. Besaran tarifnya penting diketahui baik oleh konsumen yang membayar maupun pelaku usaha yang memungutnya, karena tidak seluruh jenis hiburan dikenai persentase yang sama.",
+   "Perda tersebut merinci jenis layanan yang masuk kategori ini cukup luas. Termasuk di dalamnya tontonan film atau audiovisual, pergelaran kesenian, musik, tari dan busana, kontes kecantikan dan binaraga, pameran, pertunjukan sirkus, akrobat dan sulap, pacuan kuda, serta perlombaan kendaraan bermotor. Masuk juga permainan ketangkasan, olahraga yang memakai tempat atau peralatan khusus, dan beragam fasilitas rekreasi seperti wahana air, wahana pendidikan, wahana budaya, wahana permainan, pemancingan, agrowisata, hingga kebun binatang. Panti pijat dan pijat refleksi, serta kelompok hiburan malam seperti diskotek, karaoke, kelab malam, bar, dan mandi uap atau spa, juga tercakup dalam objek pajak yang sama.",
+   "Meski berada dalam satu kategori besar, tarifnya berjenjang. Perda Nomor 1 Tahun 2024 menetapkan tarif umum PBJT Jasa Kesenian dan Hiburan sebesar 10 persen, berlaku untuk mayoritas layanan seperti bioskop, pertunjukan seni, dan tempat rekreasi pada umumnya. Namun untuk empat kelompok usaha, yaitu diskotek, karaoke, kelab malam atau bar, serta mandi uap dan spa, tarifnya empat kali lebih tinggi, yakni 40 persen. Ketentuan tarif khusus ini sejalan dengan Undang-Undang Nomor 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah.",
+   "Dengan pembagian ini, konsumen perlu memahami bahwa tarif 40 persen tidak berlaku untuk semua jenis hiburan di Jakarta. Tiket bioskop, konser, atau wahana rekreasi tetap dikenai tarif umum 10 persen, sementara tarif tertinggi hanya menyasar segmen hiburan malam dan layanan spa yang secara khusus diatur dalam peraturan daerah tersebut."
+  ],
+  "fotoAdegan": "Families walking through an outdoor recreational water park in Jakarta, children on water slides, bright midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/06/6ac50e0c84e61-taman-mini-indonesia-indah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Aturan ini sebenarnya bukan kebijakan baru, karena Perda DKI Nomor 1 Tahun 2024 sudah berlaku sejak tahun lalu, dan isi beritanya hanya menjelaskan ulang strukturnya. Yang patut digarisbawahi adalah selisih tarifnya cukup besar, dari 10 persen untuk hiburan umum seperti bioskop dan tempat rekreasi, menjadi 40 persen untuk diskotek, karaoke, kelab malam, bar, dan spa. Pihak yang kena dampak langsung adalah pelaku usaha di dua segmen hiburan malam dan spa itu, karena mereka wajib memungut pajak ini dari konsumen dan menyetorkannya ke Pemprov DKI, sementara konsumen merasakannya lewat harga yang lebih mahal dibanding menonton bioskop atau rekreasi biasa. Yang belum terlihat dari penjelasan ini adalah berapa besar kontribusi pajak hiburan terhadap penerimaan daerah DKI Jakarta, sehingga perlu dicermati laporan realisasi pajak daerah DKI pada periode berikutnya untuk melihat dampak nyata pungutan ini.",
+  "imageV": "muxprs7y"
  },
  {
   "slug": "djp-atur-syarat-penyedia-printer-meterai-digital",
@@ -4033,6 +4142,32 @@ var ARTICLES = [
   "fotoAdegan": "Palm oil plantation workers loading fresh fruit bunches onto a truck on a dirt estate road, tropical morning light",
   "takeaway": "Laporan ini netral bagi TAPG karena penambahan 50.000 saham hanya setara sekitar 0,098 persen dari kepemilikan George Oetomo sendiri sebelum transaksi, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi atas prospek perusahaan. Transaksi semacam ini hanya memindahkan saham antar pihak di pasar dan tidak menambah jumlah saham beredar TAPG, jadi tidak berpengaruh pada laba per saham atau struktur modal perusahaan. Yang perlu dicermati adalah apakah pola pembelian bertahap ini berlanjut, karena dalam delapan hari terakhir George Oetomo sudah tiga kali menambah saham dengan total lebih dari 500.000 lembar, dan jika tren ini terus berjalan porsi kepemilikannya akan terus membesar meski masih dari basis yang kecil.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bank-mandiri-bagikan-59-080-paket-sembako-di-hut-ke-28",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Bagikan [59.080] Paket Sembako di HUT ke-28",
+  "deck": "Merayakan HUT ke-28, Bank Mandiri menyalurkan santunan ke 2.800 anak yatim piatu dan 59.080 paket sembako lewat program TJSL Mandiri untuk Negeri di berbagai wilayah Indonesia.",
+  "image": "assets/img/bank-mandiri-bagikan-59-080-paket-sembako-di-hut-ke-28.jpg",
+  "date": "5 Oktober 2026",
+  "isoDate": "2026-10-05T11:55:12+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471260-genap-28-tahun-bukti-komitmen-bank-mandiri-tumbuh-bersama-majukan-indonesia",
+  "tags": [
+   "bank mandiri",
+   "tjsl",
+   "csr perbankan",
+   "hut bank mandiri"
+  ],
+  "body": [
+   "Bank Mandiri menandai hari jadinya yang ke-28 dengan menggelar rangkaian kegiatan sosial serentak di berbagai wilayah Indonesia pada 2 Oktober 2026. Mengusung tema Tumbuh Bersama Majukan Indonesia, perseroan menjalankan program Tanggung Jawab Sosial dan Lingkungan bertajuk Mandiri untuk Negeri, mulai dari santunan anak yatim piatu, pembagian sembako, hingga donor darah.",
+   "Dalam program Mandiri Berbagi Santunan Anak Yatim Piatu, bank ini memberikan bantuan kepada 2.800 anak dari berbagai daerah untuk menopang kelanjutan pendidikan mereka. Pada hari yang sama, lewat program Mandiri Berbagi Kebaikan, sebanyak 2.110 kantor cabang Bank Mandiri di seluruh Indonesia masing-masing membagikan 28 paket sembako, sehingga totalnya mencapai 59.080 paket yang disalurkan kepada lansia, penyandang disabilitas, dan pekerja informal.",
+   "Corporate Secretary Bank Mandiri Adhika Vista menyampaikan bahwa momentum ulang tahun perusahaan dimanfaatkan untuk menyerap kebutuhan masyarakat di sekitar dan ambil bagian dalam memenuhinya. Ia menyebut pertumbuhan bisnis Bank Mandiri selama 28 tahun ingin diiringi dengan manfaat yang lebih luas bagi masyarakat lewat berbagai inisiatif TJSL Mandiri untuk Negeri."
+  ],
+  "fotoAdegan": "Volunteers handing boxes of basic food staples to elderly recipients outside a modest community distribution point, daylight, light queue",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/05/6ac32cc420f4f-bank-mandiri-menjalani-program-tanggung-jawab-sosial-dan-lingkungan-tjsl-mandiri-untuk-negeri-jumat-2102026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret dari kegiatan ini adalah skala penyalurannya: santunan untuk 2.800 anak yatim piatu, lalu 28 paket sembako di tiap 2.110 kantor cabang sehingga totalnya 59.080 paket, plus donor darah yang digelar bersamaan. Yang terdampak langsung adalah anak yatim piatu penerima santunan, serta lansia, penyandang disabilitas, dan pekerja informal yang menerima sembako di sekitar cabang Bank Mandiri di berbagai daerah. Berita ini tidak menyebut berapa dana TJSL yang dikeluarkan tahun ini dibandingkan HUT tahun-tahun sebelumnya, atau berapa porsi dari laba bank yang dialokasikan untuk program sosial, sehingga belum bisa dipastikan apakah komitmen sosial Bank Mandiri ini membesar, tetap, atau sekadar rutinitas tahunan. Yang bisa menjawabnya adalah laporan tahunan TJSL atau laporan keberlanjutan Bank Mandiri untuk tahun 2026 yang biasanya dirilis bersamaan laporan keuangan tahunan.",
+  "imageV": "muxprslh"
  },
  {
   "slug": "hut-ke-28-bank-mandiri-bagikan-bantuan-ke-berbagai-daerah",

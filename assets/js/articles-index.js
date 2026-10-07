@@ -5,6 +5,59 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cadangan-devisa-september-turun-tipis-ke-us-146-3-miliar",
+  "category": "Moneter",
+  "title": "Cadangan Devisa September [Turun] Tipis ke US$146,3 Miliar",
+  "deck": "Bank Indonesia mencatat cadangan devisa akhir September 2026 sebesar US$146,3 miliar, turun tipis dari US$146,5 miliar pada Agustus karena pembayaran utang luar negeri jatuh tempo.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/cadangan-devisa-september-turun-tipis-ke-us-146-3-miliar.jpg",
+  "imageV": "muxprpp0",
+  "tags": [
+   "cadangan devisa",
+   "Bank Indonesia",
+   "rupiah",
+   "utang luar negeri"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821426.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "uang-primer-bi-tumbuh-melambat-ke-9-3-pada-september",
+  "category": "Moneter",
+  "title": "Uang Primer BI Tumbuh [Melambat] ke 9,3% pada September",
+  "deck": "Bank Indonesia mencatat pertumbuhan uang primer adjusted melambat ke 9,3 persen secara tahunan pada September 2026, dari 16,3 persen pada Agustus.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/uang-primer-bi-tumbuh-melambat-ke-9-3-pada-september.jpg",
+  "imageV": "muxprr82",
+  "tags": [
+   "Bank Indonesia",
+   "uang primer",
+   "likuiditas perbankan",
+   "moneter"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821526.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "bpjs-kesehatan-gandeng-18-asuransi-tambahan-baru",
+  "category": "Bisnis",
+  "title": "BPJS Kesehatan Gandeng [18] Asuransi Tambahan Baru",
+  "deck": "BPJS Kesehatan menambah 18 mitra asuransi kesehatan tambahan untuk koordinasi manfaat dengan JKN, total kini 31 perusahaan, demi tagihan satu pintu dan proteksi peserta dari biaya tambahan.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/bpjs-kesehatan-gandeng-18-asuransi-tambahan-baru.jpg",
+  "imageV": "muxprrqv",
+  "tags": [
+   "BPJS Kesehatan",
+   "asuransi kesehatan tambahan",
+   "KAPJ",
+   "JKN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471676-bpjs-kesehatan-jalin-kerja-sama-dengan-sejumlah-asuransi-kesehatan-tambahan"
+ },
+ {
   "slug": "bltz-tegaskan-tak-ada-info-material-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "BLTZ Tegaskan Tak Ada Info Material soal [Volatilitas] Saham",
@@ -67,6 +120,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/feacaceae2_f4f9c2c011.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tarif-pajak-hiburan-jakarta-capai-40-persen",
+  "category": "Makroekonomi",
+  "title": "Tarif Pajak Hiburan Jakarta Capai [40] Persen",
+  "deck": "Jakarta mengenakan tarif PBJT 10 persen untuk hiburan umum dan 40 persen untuk diskotek, karaoke, kelab malam, bar, serta spa sesuai Perda DKI Nomor 1 Tahun 2024.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/tarif-pajak-hiburan-jakarta-capai-40-persen.jpg",
+  "imageV": "muxprs7y",
+  "tags": [
+   "PBJT",
+   "Pajak Daerah",
+   "DKI Jakarta",
+   "Hiburan Malam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471600-kenali-tarif-pbjt-jasa-hiburan-di-jakarta-dari-10-persen-hingga-40-persen"
  },
  {
   "slug": "djp-atur-syarat-penyedia-printer-meterai-digital",
@@ -2482,6 +2552,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-0374-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bank-mandiri-bagikan-59-080-paket-sembako-di-hut-ke-28",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Bagikan [59.080] Paket Sembako di HUT ke-28",
+  "deck": "Merayakan HUT ke-28, Bank Mandiri menyalurkan santunan ke 2.800 anak yatim piatu dan 59.080 paket sembako lewat program TJSL Mandiri untuk Negeri di berbagai wilayah Indonesia.",
+  "date": "5 Oktober 2026",
+  "image": "assets/img/bank-mandiri-bagikan-59-080-paket-sembako-di-hut-ke-28.jpg",
+  "imageV": "muxprslh",
+  "tags": [
+   "bank mandiri",
+   "tjsl",
+   "csr perbankan",
+   "hut bank mandiri"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471260-genap-28-tahun-bukti-komitmen-bank-mandiri-tumbuh-bersama-majukan-indonesia"
  },
  {
   "slug": "hut-ke-28-bank-mandiri-bagikan-bantuan-ke-berbagai-daerah",
@@ -6386,87 +6473,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cba60ac95_fea9929081.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "data-bansos-dirombak-status-desil-bisa-berubah",
-  "category": "Makroekonomi",
-  "title": "Data Bansos Dirombak, Status Desil Bisa [Berubah]",
-  "deck": "Mendagri Tito Karnavian menyebut pemadanan data kepemilikan tanah dan kendaraan bisa mengubah status desil penerima bansos.",
-  "date": "30 September 2026",
-  "image": "assets/img/data-bansos-dirombak-status-desil-bisa-berubah.jpg",
-  "imageV": "munx3x9h",
-  "tags": [
-   "bansos",
-   "desil kemiskinan",
-   "dtsen",
-   "tito karnavian"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470396-data-bansos-dirombak-status-desil-warga-bisa-berubah-ini-penjelasan-mendagri"
- },
- {
-  "slug": "bbrm-rampungkan-pembelian-kapal-ahts-senilai-us-12-1-juta",
-  "category": "Aksi Korporasi",
-  "title": "BBRM [Rampungkan] Pembelian Kapal AHTS Senilai US$12,1 Juta",
-  "deck": "Perseroan menerima serah terima kapal Anchor Handling Tug Supply MP Maverick dari Great Union China Limited senilai US$12,1 juta, dibiayai sebagian dari kredit Bank IBK Rp120 miliar.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBRM",
-   "AHTS",
-   "akuisisi kapal",
-   "pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca1c088d73_6d431b3ff6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnbs-bantah-punya-informasi-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "PNBS Bantah Punya Informasi Material di Balik [Volatilitas] Saham",
-  "deck": "Bank Panin Dubai Syariah menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya dan menyatakan tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNBS",
-   "Bank Panin Dubai Syariah",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6b3c4a436_0f44b930a6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-cetak-ekuitas-negatif-auditor-soroti-kelangsungan-usaha",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Cetak Ekuitas Negatif, Auditor Soroti [Kelangsungan] Usaha",
-  "deck": "Laporan keuangan interim auditan per Juni 2026 menunjukkan ekuitas LAPD negatif Rp2,65 miliar, rugi berjalan melonjak, dan auditor menyoroti ketidakpastian kelangsungan usaha.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "Leyand International",
-   "ekuitas negatif",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930125052-64413-0/FinancialStatement-2026-II-LAPD.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "towr-siapkan-buyback-saham-rp500-miliar-hingga-desember",
-  "category": "Aksi Korporasi",
-  "title": "TOWR Siapkan [Buyback] Saham Rp500 Miliar hingga Desember",
-  "deck": "Sarana Menara Nusantara mengalokasikan hingga Rp500 miliar kas internal untuk membeli kembali sekitar 1,18 miliar sahamnya, setara 2 persen modal disetor, sampai akhir Desember 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "buyback saham",
-   "Sarana Menara Nusantara",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac0c613fdb_62d605d5b5.pdf",
   "sourceLabel": "IDX"
  }
 ];

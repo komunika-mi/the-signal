@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mdka-pefindo-pertahankan-rating-ida-utang-turun-tajam",
+  "category": "Aksi Korporasi",
+  "title": "MDKA: PEFINDO Pertahankan Rating [idA+], Utang Turun Tajam",
+  "deck": "PEFINDO menegaskan peringkat idA+ stabil untuk MDKA dan tujuh seri obligasinya, didukung rasio utang yang turun tajam dan laba bersih yang kembali positif.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKA",
+   "PEFINDO",
+   "obligasi korporasi",
+   "rating kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/512f06aec8_a4291861aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bswd-catat-laba-rp70-9-miliar-ldr-naik-ke-144",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Catat Laba Rp70,9 Miliar, [LDR] Naik ke 144%",
+  "deck": "Materi public expose insidental BSWD memuat laba bersih Agustus 2026 naik 75 persen YoY, rasio kredit terhadap dana pihak ketiga melonjak ke 144 persen, dan tenggat free float 31 Maret 2029.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSWD",
+   "perbankan",
+   "public expose",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fc859da7b3_d28c3cd16f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-jadwalkan-rupslb-13-november-rekam-saham-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Jadwalkan [RUPSLB] 13 November, Rekam Saham 21 Oktober",
+  "deck": "PT Adhi Karya menjadwalkan RUPSLB pada 13 November 2026, dengan tanggal pencatatan pemegang saham 21 Oktober dan agenda resmi baru diumumkan 22 Oktober.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "RUPSLB",
+   "Adhi Karya",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0bbe314efb_4b3433f751.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "vici-panggil-rupslb-tiga-komisaris-mundur",
   "category": "Aksi Korporasi",
   "title": "VICI panggil RUPSLB, tiga [komisaris] mundur",
@@ -213,6 +261,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-pengusaha-as-jadi-buyer-di-tei-2026",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "flmc-tegaskan-tak-ada-informasi-baru-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Tegaskan Tak Ada Informasi Baru di Balik [Volatilitas] Saham",
+  "deck": "Merespons permintaan BEI soal gejolak harga sahamnya, Falmaco Nonwoven Industri (FLMC) menyatakan tidak ada fakta material baru, kecuali rencana penyesuaian kode klasifikasi usaha.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "volatilitas transaksi",
+   "Bursa Efek Indonesia",
+   "KBLI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1fd196cefd_b77b78f24f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "lckm-pemegang-saham-hilang-piutang-macet-uang-muka-mandek",
@@ -6409,70 +6473,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9c644037cd_d2d9768e6b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-tetapkan-cum-date-rupslb-usul-agenda-tenggat-8-okt",
-  "category": "Aksi Korporasi",
-  "title": "KDTN Tetapkan Cum Date [RUPSLB], Usul Agenda Tenggat 8 Okt",
-  "deck": "PT Puri Sentul Permai Tbk menjadwalkan RUPSLB pada 6 November 2026, dengan pemegang saham per 14 Oktober 2026 yang berhak hadir dan memberi suara.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "RUPSLB",
-   "Puri Sentul Permai",
-   "Rapat Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5ae2d96d5b_06143c9634.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "grpm-pemegang-saham-pengendali-jual-seluruh-saham-ke-rimau-group",
-  "category": "Aksi Korporasi",
-  "title": "GRPM: Pemegang Saham Pengendali Jual [Seluruh] Saham ke Rimau Group",
-  "deck": "Pemegang saham pengendali GRPM sedang due diligence untuk menjual seluruh sahamnya ke PT Tunas Binatama Lestari (Rimau Group), sesuai penjelasan ke BEI.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GRPM",
-   "pengendali saham",
-   "Rimau Group",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0f0e043806_384ae58215.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smsm-terima-dividen-myr3-5-juta-dari-entitas-anak-di-malaysia",
-  "category": "Aksi Korporasi",
-  "title": "SMSM Terima Dividen MYR3,5 Juta dari [Entitas Anak] di Malaysia",
-  "deck": "Selamat Sempurna Tbk mencatat pendapatan dividen MYR3,5 juta dari entitas anaknya di Malaysia, Bradke Synergies Sdn. Bhd., pada 30 September 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMSM",
-   "dividen",
-   "entitas anak",
-   "Bradke Synergies"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/62a51f3d30_7a7a44197e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mora-raup-rp768-miliar-dari-target-sukuk-rp3-triliun",
-  "category": "Aksi Korporasi",
-  "title": "MORA Raup Rp768 Miliar dari Target [Sukuk] Rp3 Triliun",
-  "deck": "Moratelindo hanya menghimpun Rp768,18 miliar dari target Rp3 triliun dalam penawaran umum berkelanjutan Sukuk Ijarah II selama 2023-2024, akibat kondisi pasar dan efisiensi biaya pendanaan.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MORA",
-   "Sukuk Ijarah",
-   "Moratelindo",
-   "Obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/81784dc264_2ef7d8f65f.pdf",
   "sourceLabel": "IDX"
  }
 ];

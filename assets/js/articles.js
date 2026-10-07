@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mdka-pefindo-pertahankan-rating-ida-utang-turun-tajam",
+  "category": "Aksi Korporasi",
+  "title": "MDKA: PEFINDO Pertahankan Rating [idA+], Utang Turun Tajam",
+  "deck": "PEFINDO menegaskan peringkat idA+ stabil untuk MDKA dan tujuh seri obligasinya, didukung rasio utang yang turun tajam dan laba bersih yang kembali positif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T20:52:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/512f06aec8_a4291861aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKA",
+  "tags": [
+   "MDKA",
+   "PEFINDO",
+   "obligasi korporasi",
+   "rating kredit"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menegaskan peringkat idA+ dengan outlook stabil untuk PT Merdeka Copper Gold Tbk (MDKA) beserta seluruh obligasi berkelanjutannya, berdasarkan hasil rapat komite pemeringkatan pada 1 Oktober 2026. Peringkat ini berlaku untuk periode 1 Oktober 2026 sampai 1 Oktober 2027, sama dengan peringkat tahun sebelumnya.",
+   "Tujuh seri obligasi yang ikut dipertahankan ratingnya beserta nilai pokok dan tanggal jatuh temponya adalah Obligasi Berkelanjutan III Tahap II 2022 Seri B senilai Rp1,69 triliun jatuh tempo 28 April 2027, Tahap III 2022 Seri C senilai Rp797,64 miliar jatuh tempo 1 September 2027, Obligasi Berkelanjutan IV Tahap V 2024 Seri B senilai Rp750 miliar jatuh tempo 23 Februari 2027, Tahap VI 2024 Seri B senilai Rp1,97 triliun jatuh tempo 30 Juli 2027, Obligasi Berkelanjutan V Tahap I 2024 senilai Rp1 triliun jatuh tempo 24 Desember 2027, Tahap II 2025 Seri B senilai Rp1,94 triliun jatuh tempo 25 Februari 2028, dan Tahap III 2026 senilai Rp2,3 triliun jatuh tempo 8 Juli 2027. PEFINDO mencatat nilai gabungan ketujuh seri ini Rp10,45 triliun. Satu seri lain, Obligasi Berkelanjutan IV Tahap IV 2023 Seri B senilai Rp1,29 triliun, juga mendapat idA+ tapi hanya berlaku sampai 15 Desember 2026 karena obligasi itu jatuh tempo lebih cepat.",
+   "Data keuangan yang menyertai laporan ini menunjukkan perbaikan signifikan. Per Juni 2026, rasio utang terhadap EBITDA (disetahunkan) turun menjadi 2,5 kali dari 5,6 kali pada akhir 2025, sementara laba bersih setelah hak minoritas berbalik positif US$101,6 juta untuk semester pertama 2026, dibandingkan rugi US$62,1 juta sepanjang 2025. Margin EBITDA naik dari 19,7 persen menjadi 36,5 persen. Per 30 Juni 2026, pemegang saham MDKA terdiri dari PT Saratoga Investama Sedaya Tbk (19,37 persen), PT Mitra Daya Mustika (11,88 persen), Garibaldi Thohir (7,46 persen), PT Suwarna Arta Mandiri (5,46 persen), serta publik dan saham treasuri (55,83 persen).",
+   "PEFINDO menyebut rating bisa dinaikkan jika MDKA berhasil menjalankan proyek-proyek barunya dengan portofolio bisnis yang seimbang sambil terus menurunkan utang dan membukukan pendapatan atau EBITDA di atas proyeksi. Sebaliknya, rating bisa diturunkan jika kinerja MDKA melemah, perusahaan membiayai belanja modal secara agresif dengan utang besar, atau harga komoditas, khususnya nikel, emas, dan tembaga, merosot tajam."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting rotary kiln furnace pipework at a nickel smelting plant, industrial park, hazy daylight",
+  "takeaway": "Laporan ini condong positif bagi MDKA, karena di balik peringkat yang tidak berubah, angka di baliknya menunjukkan perbaikan nyata: rasio utang terhadap EBITDA turun dari 5,6 kali menjadi 2,5 kali, dan laba bersih berbalik positif US$101,6 juta setelah tiga tahun beruntun merugi. Rasio utang terhadap EBITDA penting karena menggambarkan berapa tahun laba operasional dibutuhkan untuk melunasi utang, jadi makin kecil angkanya makin ringan beban utang perusahaan, sementara margin EBITDA yang melonjak dari 19,7 persen jadi 36,5 persen menunjukkan porsi pendapatan yang tersisa setelah biaya operasional makin besar. Yang perlu dipantau berikutnya adalah apakah MDKA bisa menjaga tren penurunan utang ini sambil menjalankan proyek-proyek tambang barunya, karena PEFINDO menegaskan rating bisa naik kalau tren ini berlanjut, tapi bisa turun kalau harga nikel, emas, atau tembaga anjlok tajam atau perusahaan kembali menambah utang besar-besaran. Status idA+ dengan outlook stabil ini berlaku sampai 1 Oktober 2027, kecuali satu seri obligasi yang masa ratingnya berakhir lebih cepat pada 15 Desember 2026 saat obligasi itu jatuh tempo.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bswd-catat-laba-rp70-9-miliar-ldr-naik-ke-144",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Catat Laba Rp70,9 Miliar, [LDR] Naik ke 144%",
+  "deck": "Materi public expose insidental BSWD memuat laba bersih Agustus 2026 naik 75 persen YoY, rasio kredit terhadap dana pihak ketiga melonjak ke 144 persen, dan tenggat free float 31 Maret 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T20:09:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fc859da7b3_d28c3cd16f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSWD",
+  "tags": [
+   "BSWD",
+   "perbankan",
+   "public expose",
+   "free float"
+  ],
+  "body": [
+   "PT Bank of India Indonesia Tbk (BSWD) menyerahkan materi public expose insidental kepada Bursa Efek Indonesia pada 7 Oktober 2026, menyusul surat rencana pelaksanaan yang dikirim dua hari sebelumnya. Dokumen ditandatangani oleh Santoso Pribadi, Kadiv Accounting & Reporting BSWD, dan memuat paparan kinerja keuangan posisi Agustus 2026, rencana usaha, serta status pemenuhan ketentuan free float saham.",
+   "Dari sisi keuangan, BSWD membukukan laba bersih Rp70,9 miliar per Agustus 2026, melonjak 75 persen dibanding Rp40,5 miliar pada periode yang sama tahun lalu. Kenaikan ini terutama didorong oleh penurunan tajam biaya pencadangan kredit bermasalah menjadi Rp19,6 miliar dari Rp81,4 miliar, sehingga laba operasional naik 74,5 persen menjadi Rp90,7 miliar. Total kredit tumbuh 13,6 persen sejak awal tahun menjadi Rp4.757 miliar, sementara rasio kredit bermasalah kotor turun menjadi 4,97 persen dari 5,58 persen akhir 2025. Di sisi lain, rasio kredit terhadap dana pihak ketiga (LDR) naik menjadi 144,15 persen dari 115,79 persen, dan rasio kecukupan modal (CAR) turun menjadi 82,86 persen dari 87,79 persen, meski keduanya masih jauh di atas batas minimum yang ditetapkan regulator.",
+   "Perseroan juga mengungkapkan kapitalisasi pasarnya tercatat Rp4,98 triliun per 31 Maret 2026, sehingga tenggat pemenuhan ketentuan free float jatuh pada 31 Maret 2029. BSWD menyatakan sedang melakukan kajian komprehensif dan studi kelayakan untuk menentukan opsi terbaik demi kepentingan seluruh pemegang saham, termasuk perlindungan bagi pemegang saham minoritas. Perseroan juga tengah mengkaji inisiatif strategis terkait konsolidasi perbankan, namun menegaskan belum ada rencana aksi korporasi definitif dalam waktu dekat dan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Bank teller counters inside a modern branch interior in Jakarta, customers waiting in line, soft daylight through windows",
+  "takeaway": "Laporan ini condong positif bagi BSWD karena laba bersih melonjak 75 persen secara tahunan, ditopang penurunan tajam biaya pencadangan kredit bermasalah dan kualitas kredit yang justru membaik. Yang perlu dicermati adalah rasio kredit terhadap dana pihak ketiga (LDR) yang naik ke 144 persen dari 115 persen akhir 2025, artinya bank menyalurkan kredit jauh lebih banyak dibanding dana nasabah yang berhasil dihimpun dan harus mengandalkan sumber dana lain, sementara rasio modal terhadap aset berisiko (CAR) juga turun meski masih jauh di atas batas minimum. Yang perlu dipantau berikutnya adalah hasil kajian konsolidasi perbankan yang disebut masih berjalan tanpa tenggat pasti, serta pemenuhan ketentuan free float yang jatuh tempo 31 Maret 2029 menyusul kapitalisasi pasar Rp4,98 triliun per akhir Maret 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "adhi-jadwalkan-rupslb-13-november-rekam-saham-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Jadwalkan [RUPSLB] 13 November, Rekam Saham 21 Oktober",
+  "deck": "PT Adhi Karya menjadwalkan RUPSLB pada 13 November 2026, dengan tanggal pencatatan pemegang saham 21 Oktober dan agenda resmi baru diumumkan 22 Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T19:26:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0bbe314efb_4b3433f751.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "RUPSLB",
+   "Adhi Karya",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 13 November 2026 pukul 14.00 WIB di ADHI Tower, Jalan MT Haryono Kavling 27, Cawang, Jakarta Timur. Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat dalam Daftar Pemegang Saham atau memiliki saldo saham di rekening efek KSEI hingga penutupan perdagangan Rabu, 21 Oktober 2026 pukul 16.00 WIB. Mata acara rapat belum diungkapkan dalam pengumuman ini, dan baru akan disampaikan lewat surat pemanggilan resmi pada Kamis, 22 Oktober 2026 melalui situs KSEI, Bursa Efek Indonesia, dan situs perseroan.",
+   "Perseroan juga membuka ruang bagi pemegang saham yang mewakili minimal 1/20 atau 5 persen dari total saham berhak suara untuk mengusulkan tambahan mata acara RUPSLB. Usulan itu harus sudah diterima Direksi selambat-lambatnya tujuh hari sebelum tanggal pemanggilan, yaitu Kamis, 15 Oktober 2026, dengan syarat mengikuti ketentuan Pasal 16 POJK 15/2020 dan Anggaran Dasar perseroan.",
+   "Rapat akan digelar secara hybrid, yakni fisik dan elektronik lewat sistem eASY.KSEI. Pemegang saham bisa hadir langsung, memberi kuasa konvensional kepada kuasa independen yang ditunjuk perseroan, atau memberi kuasa elektronik (e-Proxy) yang fasilitasnya dibuka sejak tanggal pemanggilan hingga satu hari kerja sebelum rapat, yaitu Kamis, 12 November 2026. Pengumuman ditandatangani secara elektronik oleh Corporate Secretary ADHI, Siswanto, di Jakarta pada 7 Oktober 2026."
+  ],
+  "fotoAdegan": "Construction workers and tower cranes at a large highrise building site in Jakarta, overcast afternoon sky",
+  "takeaway": "Laporan ini saya nilai netral karena baru berupa pemberitahuan rencana rapat, mata acara RUPSLB belum diungkap sehingga belum bisa dinilai dampaknya ke kinerja perseroan. Yang tersentuh langsung justru hak suara pemegang saham, yakni siapa yang tercatat berhak hadir per 21 Oktober 2026 dan siapa yang cukup besar porsinya (minimal 5 persen saham berhak suara) untuk mengusulkan agenda tambahan. Perlu diingat, RUPSLB sebelumnya pada awal Oktober sudah menyetujui kerangka restrukturisasi dan pinjaman baru tanpa rincian angka, sehingga pelaku pasar akan mencermati apakah RUPSLB 13 November ini membawa detail lanjutan yang bisa menyentuh beban bunga atau ekuitas perseroan. Yang perlu dipantau berikutnya adalah surat pemanggilan resmi berisi mata acara lengkap pada Kamis, 22 Oktober 2026, serta pelaksanaan rapat itu sendiri pada Jumat, 13 November 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "vici-panggil-rupslb-tiga-komisaris-mundur",
   "category": "Aksi Korporasi",
   "title": "VICI panggil RUPSLB, tiga [komisaris] mundur",
@@ -342,6 +421,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah dari pertemuan ini bukan aturan baru, melainkan sinyal bahwa perjanjian dagang ART antara Indonesia dan AS belum bisa berjalan penuh karena masih menunggu hasil investigasi AS soal dugaan kelebihan kapasitas produksi, semacam penyelidikan apakah barang dari Indonesia dijual terlalu murah ke pasar AS sehingga mengganggu produsen di sana. Selama investigasi itu belum selesai, eksportir Indonesia yang berharap mendapat kemudahan akses pasar AS lewat ART harus menunggu lebih lama. Pelaku usaha AS sendiri menyoroti aturan sertifikasi halal yang menurut mereka menambah biaya dan waktu pengiriman, keluhan yang ditampung Kemendag tapi belum dijawab dengan perubahan aturan. Arah yang terlihat adalah pendekatan bertahap, mendorong investasi dan pembelian lewat ajang seperti TEI sembari perundingan ART tetap berjalan di belakang, dan yang akan menunjukkan apakah ini bergerak maju adalah kabar hasil investigasi excess capacity atau perkembangan ART setelah TEI berlangsung 14-18 Oktober 2026.",
   "imageV": "muxv0max"
+ },
+ {
+  "slug": "flmc-tegaskan-tak-ada-informasi-baru-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Tegaskan Tak Ada Informasi Baru di Balik [Volatilitas] Saham",
+  "deck": "Merespons permintaan BEI soal gejolak harga sahamnya, Falmaco Nonwoven Industri (FLMC) menyatakan tidak ada fakta material baru, kecuali rencana penyesuaian kode klasifikasi usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T15:36:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1fd196cefd_b77b78f24f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "volatilitas transaksi",
+   "Bursa Efek Indonesia",
+   "KBLI"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi sahamnya. Jawaban resmi disampaikan melalui surat nomor 035-Corsec/PP-BEI/X/2026 tertanggal 7 Oktober 2026, merujuk surat permintaan BEI nomor S-12728/BEI.PP1/10-2026, dan ditandatangani oleh Direktur Utama Rosalina Indra Wirawati.",
+   "Dalam surat itu, perseroan menyatakan tidak memiliki informasi atau fakta material yang belum diungkapkan ke publik, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi emiten maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dan menyebut tidak ada rencana dari pengendali atau pemegang saham utama terkait kepemilikan sahamnya di perseroan.",
+   "Satu hal konkret yang diungkap adalah rencana korporasi dalam waktu dekat: penyesuaian Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) milik perseroan, untuk memenuhi aturan baru Badan Pusat Statistik soal pembaruan KBLI tahun 2025. Perseroan tidak menyebutkan tanggal pelaksanaan maupun dampaknya terhadap pencatatan saham di bursa, dan menegaskan tidak ada kejadian penting lain yang material bagi harga efek maupun kelangsungan usahanya yang belum diungkapkan."
+  ],
+  "fotoAdegan": "Workers monitoring rolls of nonwoven fabric moving through a spunlace production line in a textile factory",
+  "takeaway": "Penjelasan ini netral bagi fundamental Falmaco, karena perusahaan hanya menegaskan tidak ada fakta material baru yang disembunyikan dari publik, dan satu-satunya rencana konkret yang diungkap cuma penyesuaian kode klasifikasi usaha, bukan aksi korporasi yang mengubah ekuitas, arus kas, atau jumlah saham beredar. Tidak ada pos kinerja yang tersentuh langsung di sini, tetapi konteksnya penting karena surat ini terbit tak lama setelah Falmaco melaporkan ekuitas negatif dan rugi semester satu yang melonjak ke Rp23,3 miliar, sehingga gejolak harga sahamnya kemungkinan mencerminkan reaksi pasar atas kabar lama, bukan informasi baru yang baru terbuka. Yang perlu dipantau selanjutnya adalah apakah Bursa akan meminta klarifikasi lanjutan bila volatilitas harga sahamnya berlanjut, serta bagaimana proses resmi penyesuaian KBLI itu berjalan, meski perseroan belum menyebutkan tanggal pastinya.",
+  "sentimen": "netral"
  },
  {
   "slug": "lckm-pemegang-saham-hilang-piutang-macet-uang-muka-mandek",

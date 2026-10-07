@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "djp-atur-syarat-penyedia-printer-meterai-digital",
+  "category": "Makroekonomi",
+  "title": "DJP Atur Syarat Penyedia Printer Meterai [Digital]",
+  "deck": "DJP menerbitkan aturan baru yang mengatur syarat, kewajiban, dan sanksi bagi penyedia printer meterai teraan digital, berlaku sejak 22 September 2026.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/djp-atur-syarat-penyedia-printer-meterai-digital.jpg",
+  "imageV": "muxhqqok",
+  "tags": [
+   "DJP",
+   "Meterai Digital",
+   "Bea Meterai",
+   "Regulasi Pajak"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/djp-terbitkan-aturan-penyedia-printer-meterai-teraan-digital",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "hut-ke-28-bank-mandiri-3-360-paket-dibagi-ke-pekerja-rentan",
+  "category": "Perbankan",
+  "title": "HUT ke-28 Bank Mandiri, [3.360] Paket Dibagi ke Pekerja Rentan",
+  "deck": "Bank Mandiri merayakan HUT ke-28 dengan membagikan total 3.360 paket makan dan minum ke pekerja rentan di 12 wilayah lewat program Livin' Mandiri Berbagi.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/hut-ke-28-bank-mandiri-3-360-paket-dibagi-ke-pekerja-rentan.jpg",
+  "imageV": "muxhqr58",
+  "tags": [
+   "bank mandiri",
+   "livin mandiri berbagi",
+   "csr perbankan",
+   "pekerja rentan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471654-livin-mandiri-berbagi-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri"
+ },
+ {
   "slug": "wskt-wkr-restrukturisasi-utang-rp31-miliar-ke-tcf-tenor-ke-2027",
   "category": "Aksi Korporasi",
   "title": "WSKT: WKR [Restrukturisasi] Utang Rp31 Miliar ke TCF, Tenor ke 2027",
@@ -6434,38 +6469,6 @@ var ARTICLES = [
    "Bank Syariah Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3843b4a65f_56f23bc00c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bris-jadwalkan-rupslb-pada-6-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "BRIS Jadwalkan [RUPSLB] pada 6 November 2026",
-  "deck": "Bank Syariah Indonesia menjadwalkan RUPS Luar Biasa 6 November 2026, dengan pencatatan pemegang saham per 14 Oktober dan agenda resmi terbit 15 Oktober.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRIS",
-   "RUPSLB",
-   "Bank Syariah Indonesia",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8d2161f481_03e81f51b6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "edge-suntik-modal-rp5-miliar-ke-anak-usaha-dge",
-  "category": "Aksi Korporasi",
-  "title": "EDGE Suntik [Modal] Rp5 Miliar ke Anak Usaha DGE",
-  "deck": "Indointernet menambah modal anak usahanya, PT Digital Gayana Ekakarsa, senilai Rp5 miliar untuk belanja modal, transaksi afiliasi yang dikecualikan dari aturan benturan kepentingan OJK.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "Indointernet",
-   "transaksi afiliasi",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a0d9f12af7_48b107658d.pdf",
   "sourceLabel": "IDX"
  }
 ];

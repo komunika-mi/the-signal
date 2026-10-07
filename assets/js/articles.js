@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "djp-atur-syarat-penyedia-printer-meterai-digital",
+  "category": "Makroekonomi",
+  "title": "DJP Atur Syarat Penyedia Printer Meterai [Digital]",
+  "deck": "DJP menerbitkan aturan baru yang mengatur syarat, kewajiban, dan sanksi bagi penyedia printer meterai teraan digital, berlaku sejak 22 September 2026.",
+  "image": "assets/img/djp-atur-syarat-penyedia-printer-meterai-digital.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T02:26:30.396Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/djp-terbitkan-aturan-penyedia-printer-meterai-teraan-digital",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "DJP",
+   "Meterai Digital",
+   "Bea Meterai",
+   "Regulasi Pajak"
+  ],
+  "body": [
+   "Direktorat Jenderal Pajak (DJP) menerbitkan Peraturan Direktur Jenderal Pajak Nomor PER-11/PJ/2026 yang mengatur secara rinci syarat dan kewajiban bagi perusahaan yang ingin menjadi penyedia printer Meterai Teraan Digital (MTD), alat cetak khusus untuk membubuhkan meterai elektronik pada dokumen. Aturan ini berlaku sejak 22 September 2026 dan menjadi pedoman teknis bagi perusahaan penyedia perangkat tersebut, bukan hanya pengguna meterai digital. Kejelasan aturan ini penting karena menentukan siapa saja yang boleh memasok alat pembayaran bea meterai elektronik ke pasar.",
+   "MTD sendiri adalah label meterai yang dicetak lewat printer khusus yang tersambung ke sistem milik DJP, mengikuti ketentuan penggunaan yang sebelumnya sudah diatur dalam Peraturan Menteri Keuangan Nomor 78 Tahun 2024 tentang Bea Meterai. PER-11/PJ/2026 melengkapi aturan itu dengan mengatur sisi penyedia perangkatnya, mulai dari proses pengajuan, persyaratan teknis, hingga mekanisme pengawasan oleh DJP.",
+   "Untuk ditunjuk sebagai penyedia, perusahaan harus mengajukan permohonan secara elektronik kepada Direktur Jenderal Pajak. Syaratnya antara lain berbadan hukum dan berkedudukan di Indonesia, patuh pada ketentuan perpajakan, serta memiliki infrastruktur teknologi informasi dengan pusat data yang berlokasi di dalam negeri, bukan di server luar negeri.",
+   "Setelah resmi ditunjuk, penyedia wajib menjaga kerahasiaan data dan menerapkan pelindungan konsumen. DJP akan mengawasi kepatuhan tersebut dan bisa menjatuhkan sanksi bertingkat, mulai dari teguran, penghentian sementara, hingga pencabutan status penyedia, jika ketentuan dilanggar."
+  ],
+  "fotoAdegan": "Office worker loading paper into a compact desktop label printer on a cluttered desk, documents stacked nearby, soft daylight",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Aturan ini menambah syarat konkret: perusahaan yang mau jadi penyedia printer meterai digital wajib berbadan hukum Indonesia, taat pajak, dan menyimpan pusat data di dalam negeri, bukan di server luar negeri. Yang terdampak langsung adalah perusahaan teknologi percetakan atau sistem dokumen yang berminat memasok alat ini, karena kini mereka harus lolos verifikasi DJP dan bisa kena sanksi bertingkat, dari teguran sampai pencabutan izin, kalau melanggar aturan kerahasiaan data atau pelindungan konsumen. Aturan ini melengkapi payung sebelumnya, yakni Peraturan Menteri Keuangan 78/2024 tentang bea meterai, dan menunjukkan pemerintah menata ekosistem meterai digital selangkah demi selangkah, dari aturan pemakaian ke aturan penyedia perangkatnya. Yang masih perlu dipantau adalah apakah DJP akan mengumumkan daftar resmi penyedia yang sudah disetujui, karena dari situ baru terlihat seberapa ketat seleksinya berjalan di lapangan.",
+  "imageV": "muxhqqok"
+ },
+ {
+  "slug": "hut-ke-28-bank-mandiri-3-360-paket-dibagi-ke-pekerja-rentan",
+  "category": "Perbankan",
+  "title": "HUT ke-28 Bank Mandiri, [3.360] Paket Dibagi ke Pekerja Rentan",
+  "deck": "Bank Mandiri merayakan HUT ke-28 dengan membagikan total 3.360 paket makan dan minum ke pekerja rentan di 12 wilayah lewat program Livin' Mandiri Berbagi.",
+  "image": "assets/img/hut-ke-28-bank-mandiri-3-360-paket-dibagi-ke-pekerja-rentan.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T09:16:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471654-livin-mandiri-berbagi-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri",
+  "tags": [
+   "bank mandiri",
+   "livin mandiri berbagi",
+   "csr perbankan",
+   "pekerja rentan"
+  ],
+  "body": [
+   "Bank Mandiri menandai hari jadinya yang ke-28 pada 2 Oktober 2026 dengan membagikan paket makanan dan minuman kepada pekerja rentan melalui program Livin' Mandiri Berbagi. Inisiatif ini menyasar kelompok pekerja yang selama ini menopang aktivitas ekonomi sehari-hari namun jarang mendapat perhatian langsung dari institusi besar seperti perbankan.",
+   "Program ini sebenarnya bukan hal baru. Sejak April 2026, Livin' Mandiri Berbagi sudah berjalan rutin di berbagai wilayah Indonesia sebagai bentuk perhatian berkelanjutan kepada pekerja rentan, dan momentum HUT ke-28 dengan tema 'Tumbuh Bersama Majukan Indonesia' dipakai untuk menghadirkannya lagi dalam skala khusus.",
+   "Dalam edisi HUT ini, Bank Mandiri membagikan masing-masing 280 paket makanan dan minuman di 12 titik wilayah, sehingga total mencapai sekitar 3.360 paket yang disalurkan langsung kepada pekerja rentan. Corporate Secretary Bank Mandiri, Adhika Vista, menyebut kegiatan ini sebagai cara perusahaan mendengar kebutuhan masyarakat sekitar dan ikut memenuhinya lewat perayaan ulang tahun.",
+   "Selain sebagai bentuk apresiasi, kegiatan di 12 titik tersebut juga dipakai Bank Mandiri sebagai kesempatan berinteraksi langsung dengan masyarakat penerima dan memahami keseharian mereka."
+  ],
+  "fotoAdegan": "Street vendors and informal workers receiving boxed meals from volunteers at a busy urban sidewalk stall, midday light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/07/6ac5a93e6c278-livin-mandiri-berbagi-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan, melainkan skala dan momentum program CSR yang sudah berjalan sejak April 2026: pada HUT ke-28 ini jumlahnya dipatok 280 paket di masing-masing 12 titik, atau sekitar 3.360 paket makanan dan minuman untuk pekerja rentan. Pihak yang langsung kena manfaatnya adalah pekerja rentan penerima paket di 12 wilayah itu, sementara bagi Bank Mandiri sendiri kegiatan ini juga berfungsi sebagai sarana membangun kedekatan dengan masyarakat menjelang usia ke-28 perusahaan. Yang belum terlihat dari rilis ini adalah apakah pembagian sebesar ini hanya seremoni tahunan saat ulang tahun atau akan diperbesar dalam program rutin di luar musim HUT, serta berapa besar alokasi dana yang disiapkan Bank Mandiri untuk CSR semacam ini sepanjang tahun. Itu baru akan terlihat kalau Bank Mandiri merilis laporan tanggung jawab sosial atau keberlanjutannya untuk tahun 2026.",
+  "imageV": "muxhqr58"
+ },
+ {
   "slug": "wskt-wkr-restrukturisasi-utang-rp31-miliar-ke-tcf-tenor-ke-2027",
   "category": "Aksi Korporasi",
   "title": "WSKT: WKR [Restrukturisasi] Utang Rp31 Miliar ke TCF, Tenor ke 2027",

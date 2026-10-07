@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bbyb-jadwalkan-rupslb-perubahan-pengurus-29-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BBYB Jadwalkan RUPSLB [Perubahan Pengurus] 29 Oktober",
+  "deck": "Bank Neo Commerce memanggil RUPSLB pada 29 Oktober 2026 dengan agenda tunggal mengubah susunan pengurus, menyusul pengunduran diri Dirut Eri Budiono awal Oktober.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBYB",
+   "RUPSLB",
+   "Bank Neo Commerce",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf945896ce_4f5ba8721c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iiff-tuntas-salurkan-dana-obligasi-perpetual-rp215-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Tuntas Salurkan Dana [Obligasi Perpetual] Rp215,2 Miliar",
+  "deck": "IIFF melaporkan ke BEI bahwa seluruh dana bersih Rp215,25 miliar dari penerbitan surat berharga perpetual tahap I 2026 telah disalurkan untuk membiayai proyek infrastruktur telekomunikasi.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IIFF",
+   "surat berharga perpetual",
+   "penggunaan dana",
+   "infrastruktur telekomunikasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6cf1602510_0d14788ba4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "plin-bagikan-dividen-interim-rp76-per-saham-cair-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PLIN Bagikan [Dividen] Interim Rp76 per Saham, Cair 27 Oktober",
+  "deck": "Plaza Indonesia Realty membagikan dividen tunai interim Rp268,7 miliar atau Rp76 per saham, dengan pembayaran dijadwalkan 27 Oktober 2026 setelah recording date 19 Oktober 2026.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PLIN",
+   "dividen",
+   "Plaza Indonesia Realty",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e17e784f19_cfa3b6cfd2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-ajak-pengusaha-as-jadi-pembeli-di-tei-2026",
   "category": "Global",
   "title": "Indonesia Ajak Pengusaha AS Jadi [Pembeli] di TEI 2026",
@@ -21,6 +69,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-pengusaha-as-jadi-buyer-di-tei-2026",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "lckm-pemegang-saham-hilang-piutang-macet-uang-muka-mandek",
+  "category": "Aksi Korporasi",
+  "title": "LCKM: Pemegang Saham [Hilang], Piutang Macet, Uang Muka Mandek",
+  "deck": "LCK Global Kedaton menjawab pertanyaan Bursa soal hilangnya pemegang saham PT Maju Mekar, uang muka proyek Rp105 miliar yang mandek, dan pendapatan yang bertumpu pada satu pelanggan baru.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LCKM",
+   "uang muka proyek",
+   "piutang usaha",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/41abbe612b_9e6f2e77d7.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "inaf-panggil-rupslb-ubah-susunan-pengurus",
@@ -6410,70 +6474,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a7c652affe_d6a5f0bf6d.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "beli-jadwalkan-public-expose-tahunan-pada-14-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "BELI Jadwalkan [Public Expose] Tahunan pada 14 Oktober 2026",
-  "deck": "PT Global Digital Niaga Tbk (BELI) akan menggelar Public Expose Tahunan 2026 secara virtual pada 14 Oktober pukul 14.00 WIB, memaparkan kinerja perusahaan kepada investor.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BELI",
-   "Public Expose",
-   "Blibli",
-   "Global Digital Niaga"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fe0f0ad96_8a189d9da3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-ajukan-10-seri-call-warrant-baru-acuan-arto-hingga-kija",
-  "category": "Aksi Korporasi",
-  "title": "ZP Ajukan 10 Seri [Call Warrant] Baru, Acuan ARTO Hingga KIJA",
-  "deck": "Maybank Sekuritas ajukan term sheet 10 call warrant baru atas ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, dan KIJA, masing-masing 500 juta unit, jatuh tempo 30 Juli 2027.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "Maybank Sekuritas",
-   "waran terstruktur",
-   "call warrant"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b98adcc423_2f429350a8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-terbitkan-15-waran-terstruktur-baru-acuan-asii-wifi",
-  "category": "Aksi Korporasi",
-  "title": "ZP Terbitkan 15 [Waran] Terstruktur Baru, Acuan ASII-WIFI",
-  "deck": "Maybank Sekuritas (ZP) menawarkan 15 seri waran terstruktur baru pada 2-6 Oktober 2026, mengacu ke 15 saham berbeda dengan total 7,5 miliar unit ditawarkan.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "waran terstruktur",
-   "Maybank Sekuritas",
-   "structured warrant"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ec679476f_0145b0662b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan",
-  "category": "Energi",
-  "title": "Pertamina Genjot Bisnis Energi [Hijau] Jadi Sumber Pertumbuhan",
-  "deck": "Pertamina memperluas portofolio energi rendah karbon, dari biofuel hingga hidrogen hijau, sebagai sumber pertumbuhan baru sambil tetap menjaga pasokan energi harian.",
-  "date": "30 September 2026",
-  "image": "assets/img/pertamina-genjot-bisnis-energi-hijau-jadi-sumber-pertumbuhan.jpg",
-  "imageV": "munx3wi1",
-  "tags": [
-   "Pertamina",
-   "Energi Hijau",
-   "BUMN",
-   "Transisi Energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470425-pertamina-siapkan-bisnis-energi-hijau-sebagai-sumber-pertumbuhan-baru"
  }
 ];

@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bbyb-jadwalkan-rupslb-perubahan-pengurus-29-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BBYB Jadwalkan RUPSLB [Perubahan Pengurus] 29 Oktober",
+  "deck": "Bank Neo Commerce memanggil RUPSLB pada 29 Oktober 2026 dengan agenda tunggal mengubah susunan pengurus, menyusul pengunduran diri Dirut Eri Budiono awal Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T16:08:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf945896ce_4f5ba8721c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBYB",
+  "tags": [
+   "BBYB",
+   "RUPSLB",
+   "Bank Neo Commerce",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Bank Neo Commerce Tbk (BBYB) mengundang pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 29 Oktober 2026 pukul 14.00 WIB di kantor perseroan, Gedung Pacific Century Place Lantai 23, Jalan Jenderal Sudirman Kav. 52-53, Jakarta Selatan. Rapat juga digelar secara elektronik melalui aplikasi eASY.KSEI. Pemanggilan ini merupakan kelanjutan dari surat pemberitahuan RUPS perseroan tanggal 22 September 2026, dan agendanya hanya satu: perubahan susunan pengurus perseroan. Dalam penjelasannya, perseroan menyebut akan mengusulkan kepada rapat untuk menyetujui perubahan tersebut, tanpa merinci nama direksi atau komisaris yang akan masuk maupun keluar.",
+   "Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham perseroan per Selasa, 6 Oktober 2026 pukul 16.00 WIB, atau pemilik saham di sub rekening efek KSEI pada penutupan perdagangan di Bursa Efek Indonesia pada tanggal yang sama. Bagi pemegang saham yang ingin memberi kuasa di luar mekanisme e-Proxy, surat kuasa fisik harus sudah diterima Biro Administrasi Efek, PT Ficomindo Buana Registrar, paling lambat satu hari kerja sebelum rapat yaitu Rabu, 28 Oktober 2026. Untuk kehadiran atau pemberian suara lewat eASY.KSEI, pemegang saham wajib menyampaikan kehadiran, penunjukan kuasa, atau suaranya paling lambat 28 Oktober 2026 pukul 12.00 WIB.",
+   "Perseroan membatasi kuota kehadiran fisik di lokasi rapat hanya untuk 50 pemegang saham dan/atau kuasanya, dengan prioritas diberikan kepada yang lebih dulu mengonfirmasi kehadiran melalui email konfirmasi.corsec@bankneo.co.id, paling lambat satu hari sebelum rapat pukul 12.00 WIB. Jika kuota sudah terpenuhi, pemegang saham tetap dapat menggunakan haknya dengan memberi kuasa kepada pihak independen yang ditunjuk perseroan. Surat pemanggilan ini ditandatangani secara elektronik oleh Heru Sulistiadhi selaku Head of Corporate Secretary BBYB."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with rows of chairs facing a wide window, soft morning light, Jakarta office tower skyline outside",
+  "takeaway": "Pemanggilan ini netral bagi fundamental BBYB, karena isinya baru soal jadwal dan mekanisme RUPSLB, belum menyebut nama pengganti pengurus atau alasan di balik perubahan itu, sehingga pasar belum punya dasar untuk menilai dampaknya. Perubahan susunan pengurus memang menyentuh arah kebijakan bank, termasuk strategi penyaluran kredit dan pengelolaan risiko, karena pucuk pimpinan baru menentukan keputusan bisnis ke depan, meski pos keuangan seperti ekuitas atau laba per saham tidak langsung berubah oleh urusan tata kelola ini. Dokumen ini juga melanjutkan kabar mundurnya Dirut Eri Budiono yang sudah diberitakan sebelumnya, dan RUPSLB inilah forum resmi yang akan mengesahkan siapa pengurus baru perseroan. Yang perlu dipantau adalah hasil RUPSLB pada 29 Oktober 2026 pukul 14.00 WIB, termasuk nama dan jabatan pengurus baru yang disetujui, serta apakah ada keterbukaan informasi lanjutan begitu susunan pengurus resmi berubah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "iiff-tuntas-salurkan-dana-obligasi-perpetual-rp215-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Tuntas Salurkan Dana [Obligasi Perpetual] Rp215,2 Miliar",
+  "deck": "IIFF melaporkan ke BEI bahwa seluruh dana bersih Rp215,25 miliar dari penerbitan surat berharga perpetual tahap I 2026 telah disalurkan untuk membiayai proyek infrastruktur telekomunikasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T16:04:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6cf1602510_0d14788ba4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IIFF",
+  "tags": [
+   "IIFF",
+   "surat berharga perpetual",
+   "penggunaan dana",
+   "infrastruktur telekomunikasi"
+  ],
+  "body": [
+   "PT Indonesia Infrastructure Finance (IIFF) melaporkan kepada Bursa Efek Indonesia realisasi penggunaan dana hasil penerbitan Surat Berharga Perpetual Berkelanjutan I Indonesia Infrastructure Finance Tahap I Tahun 2026, yang resmi efektif sejak 29 Juni 2026. Penerbitan ini meraih dana kotor Rp220 miliar, dipotong biaya penawaran umum Rp4,75 miliar, sehingga dana bersih yang diterima perusahaan sebesar Rp215,25 miliar. Laporan ditandatangani Eni Wibowo selaku Direktur Keuangan dan Direktur Investasi Sementara pada 2 Oktober 2026, dan disampaikan ke bursa oleh Suli Indah Lestari, Head of Legal & Corsec, pada 7 Oktober 2026.",
+   "Perusahaan menyebutkan bahwa target emisi semula direncanakan sebanyak-banyaknya Rp500 miliar. Namun setelah ada perubahan dan perbaikan keterbukaan informasi pada prospektus, jumlah pokok surat berharga yang akhirnya diterbitkan disesuaikan menjadi Rp220 miliar, kurang dari separuh target awal.",
+   "Dari dana kotor Rp220 miliar itu, biaya penawaran umum sebesar Rp4,75 miliar terdiri atas biaya jasa penyelenggaraan Rp1,76 miliar, biaya jasa penjaminan emisi Rp55 juta, biaya jasa penjualan Rp55 juta, biaya profesi penunjang pasar modal Rp1,49 miliar, biaya lembaga penunjang pasar modal Rp172,5 juta, dan biaya lain-lain Rp1,22 miliar. Pos biaya jasa konsultasi keuangan tercatat nol.",
+   "Seluruh dana bersih Rp215,25 miliar itu dilaporkan telah 100 persen disalurkan sebagai modal kerja untuk kegiatan pembiayaan proyek infrastruktur, secara spesifik disalurkan ke Proyek Pengembangan Infrastruktur Telekomunikasi, sehingga sisa dana yang belum terpakai tercatat nol."
+  ],
+  "fotoAdegan": "Technicians in safety harnesses installing fiber optic cable on a tall telecommunications tower against a clear sky in Indonesia",
+  "takeaway": "Laporan ini netral bagi IIFF: seluruh dana bersih Rp215,25 miliar dari penerbitan surat berharga perpetual sudah disalurkan 100 persen sesuai rencana ke pembiayaan proyek infrastruktur telekomunikasi, namun realisasi emisi yang hanya Rp220 miliar, kurang dari separuh target awal hingga Rp500 miliar, menunjukkan skala pendanaan yang lebih kecil dari rencana semula. Instrumen ini menambah surat berharga atau utang perusahaan sebesar Rp220 miliar yang akan membebani laporan laba rugi lewat bunga atau kupon yang harus dibayar secara berkala, sementara di sisi arus kas, uang yang masuk dari penerbitan sudah habis keluar lagi untuk membiayai proyek sehingga tidak ada dana yang menganggur di kas perusahaan. Yang perlu dipantau selanjutnya adalah apakah IIF akan melanjutkan penerbitan tahap berikutnya dalam program surat berharga perpetual berkelanjutan ini, serta bagaimana kinerja proyek pengembangan infrastruktur telekomunikasi yang dibiayai dari dana ini berjalan ke depannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "plin-bagikan-dividen-interim-rp76-per-saham-cair-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PLIN Bagikan [Dividen] Interim Rp76 per Saham, Cair 27 Oktober",
+  "deck": "Plaza Indonesia Realty membagikan dividen tunai interim Rp268,7 miliar atau Rp76 per saham, dengan pembayaran dijadwalkan 27 Oktober 2026 setelah recording date 19 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T15:56:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e17e784f19_cfa3b6cfd2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PLIN",
+  "tags": [
+   "PLIN",
+   "dividen",
+   "Plaza Indonesia Realty",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Plaza Indonesia Realty Tbk (PLIN) akan membagikan dividen tunai interim untuk tahun buku 2026 setelah keputusan Direksi disetujui Dewan Komisaris pada Senin, 5 Oktober 2026. Total dividen yang dibagikan sebesar Rp268.717.283.480 untuk 3.535.753.730 saham yang beredar, sehingga setiap pemegang saham mendapat Rp76 per saham.",
+   "Jadwal pembagiannya sudah ditentukan. Cum dividen di pasar reguler dan negosiasi jatuh pada 15 Oktober 2026, dengan ex dividen sehari setelahnya pada 16 Oktober 2026. Di pasar tunai, cum dividen berlaku 19 Oktober 2026 dan ex dividen 20 Oktober 2026. Tanggal pencatatan pemegang saham yang berhak (recording date) ditetapkan 19 Oktober 2026 pukul 16.00 WIB, dan dividen akan dibayarkan paling lambat 27 Oktober 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 Juni 2026, dengan laba bersih yang diatribusikan ke entitas induk sebesar Rp266.848.034.000, saldo laba ditahan yang tidak dibatasi penggunaannya sebesar Rp10.220.479.708.000, dan total ekuitas perseroan Rp11.367.783.676.000. Dalam surat keterbukaan informasi ke OJK, Direktur Evy Tirtasudira menyatakan keputusan ini tidak membawa dampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan. Laporan ditandatangani oleh Corporate Secretary Umbas Rombe."
+  ],
+  "fotoAdegan": "Exterior of an upscale shopping mall and office tower complex in central Jakarta, taxis and pedestrians in the forecourt, late afternoon light",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham karena Plaza Indonesia Realty membagikan dividen tunai interim senilai Rp268,7 miliar, hampir menyamai laba bersih enam bulan pertama tahun ini yang sebesar Rp266,8 miliar, tetapi perseroan punya cadangan laba ditahan hingga Rp10,2 triliun sehingga pembayaran ini tidak akan mengganggu kesehatan keuangannya. Dana dividen diambil dari laba ditahan, yaitu akumulasi keuntungan tahun-tahun sebelumnya yang belum dibagikan dan masih disimpan perusahaan, sehingga yang tersentuh adalah kas yang keluar dan ekuitas yang turun sedikit dari total Rp11,37 triliun saat ini, porsi yang relatif kecil. Investor yang ingin mendapat jatah Rp76 per saham ini harus sudah memegang saham PLIN sebelum tanggal ex-dividen di pasar reguler dan negosiasi pada 16 Oktober 2026, sementara pencairan dananya dijadwalkan paling lambat 27 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "indonesia-ajak-pengusaha-as-jadi-pembeli-di-tei-2026",
   "category": "Global",
   "title": "Indonesia Ajak Pengusaha AS Jadi [Pembeli] di TEI 2026",
@@ -28,6 +107,33 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah dari pertemuan ini bukan aturan baru, melainkan sinyal bahwa perjanjian dagang ART antara Indonesia dan AS belum bisa berjalan penuh karena masih menunggu hasil investigasi AS soal dugaan kelebihan kapasitas produksi, semacam penyelidikan apakah barang dari Indonesia dijual terlalu murah ke pasar AS sehingga mengganggu produsen di sana. Selama investigasi itu belum selesai, eksportir Indonesia yang berharap mendapat kemudahan akses pasar AS lewat ART harus menunggu lebih lama. Pelaku usaha AS sendiri menyoroti aturan sertifikasi halal yang menurut mereka menambah biaya dan waktu pengiriman, keluhan yang ditampung Kemendag tapi belum dijawab dengan perubahan aturan. Arah yang terlihat adalah pendekatan bertahap, mendorong investasi dan pembelian lewat ajang seperti TEI sembari perundingan ART tetap berjalan di belakang, dan yang akan menunjukkan apakah ini bergerak maju adalah kabar hasil investigasi excess capacity atau perkembangan ART setelah TEI berlangsung 14-18 Oktober 2026.",
   "imageV": "muxv0max"
+ },
+ {
+  "slug": "lckm-pemegang-saham-hilang-piutang-macet-uang-muka-mandek",
+  "category": "Aksi Korporasi",
+  "title": "LCKM: Pemegang Saham [Hilang], Piutang Macet, Uang Muka Mandek",
+  "deck": "LCK Global Kedaton menjawab pertanyaan Bursa soal hilangnya pemegang saham PT Maju Mekar, uang muka proyek Rp105 miliar yang mandek, dan pendapatan yang bertumpu pada satu pelanggan baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T15:08:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/41abbe612b_9e6f2e77d7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LCKM",
+  "tags": [
+   "LCKM",
+   "uang muka proyek",
+   "piutang usaha",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT LCK Global Kedaton Tbk (LCKM) menyampaikan surat koreksi atas jawabannya kepada Bursa Efek Indonesia terkait permintaan penjelasan Bursa tertanggal 31 Agustus 2026. Permintaan itu merujuk Laporan Bulanan Registrasi Efek (LBRE) per 31 Mei dan 30 Juni 2026, serta laporan keuangan per 31 Desember 2025 dan 31 Maret 2026. Sebelumnya perseroan juga meminta perpanjangan waktu menjawab karena akses ke sistem pelaporan elektronik terganggu akibat Corporate Secretary, Christie Kandijo, sedang pulang kampung mengurus pemakaman ayahnya, dan jawaban akhirnya baru disampaikan 30 September 2026.",
+   "Poin yang paling mencolok adalah hilangnya PT Maju Mekar dari daftar pemegang saham utama. Pada LBRE 31 Mei 2026, kepemilikan PT Maju Mekar turun dari 19,36 persen menjadi 5,6 persen, dan pada LBRE 30 Juni 2026 namanya sudah tidak lagi tercatat di antara pemegang saham 5 persen ke atas. Per 31 Juli 2026, kepemilikannya tersisa 0,01 persen. LCKM mengaku tidak menerima informasi apa pun soal kronologi, tanggal transaksi, atau pihak penerima pengalihan saham tersebut, dan hanya mengandalkan laporan bulanan dari pihak bernama BIMA. Soal Corporate Secretary, perseroan memastikan posisi itu masih dijabat Christie Kandijo dan tidak ada penggantian, meski seorang bernama Johannes belakangan sempat menghubungi Bursa terkait informasi perseroan padahal tidak menjabat apa pun di perusahaan.",
+   "Dari sisi keuangan per 31 Maret 2026, uang muka proyek perseroan tercatat Rp74,65 miliar jangka pendek ditambah Rp30,35 miliar jangka panjang, atau sekitar Rp105 miliar, setara 72,5 persen dari total aset Rp144,72 miliar. Komponen jangka panjang itu sama sekali tidak bergerak sejak akhir Desember 2025. Perseroan menjelaskan proyek Industrial Building di Selangor dibatalkan dan uang muka senilai Rp26 miliar akan dialihkan ke proyek pengganti bernilai sama yang akan dikerjakan PT ZRU sepanjang 2026 dengan manfaat baru terasa di 2026 dan 2027, sementara sisa uang muka proyek elevator akan dikembalikan bertahap. Untuk uang muka jangka pendek Rp74,65 miliar, perseroan mengaku masih dalam diskusi dengan pihak terkait tanpa kepastian skema penyelesaian.",
+   "Perseroan juga mengoreksi kesalahan penulisan nama pelanggan: piutang usaha dari PT Zareen Global Utama Rp12,55 miliar sebenarnya adalah PT Zareen Global Prima, pelanggan yang sama yang menjadi satu-satunya sumber pendapatan Rp3,29 miliar pada kuartal pertama 2026 dari pekerjaan pengurusan izin bangunan di seluruh Indonesia selama enam bulan. Pelanggan dan subkontraktor ini sepenuhnya baru, menggantikan PT YPTT Solutions Indonesia yang menyumbang seluruh pendapatan Rp152,97 juta pada periode sama tahun sebelumnya, serta subkontraktor Sudjatno dan Reza Sudjatno yang diganti M Syarifudin dan Warsono ST. Piutang lain, dari PT Cakra Media Indonesia Rp18,09 miliar dan CV Nara Unggul Prima Rp844,49 juta, disebut berasal dari penjualan tahun-tahun sebelumnya yang sebagian besar sudah menunggu lebih dari 180 hari tanpa pembayaran. Perseroan menyatakan hanya memiliki 4 karyawan tetap dan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Technicians in safety harnesses installing fiber optic cables on a tall telecommunications tower against a cloudy afternoon sky in an Indonesian city.",
+  "takeaway": "Catatan redaksi ini condong negatif bagi LCKM: dalam satu surat, pemegang saham signifikan menghilang tanpa penjelasan yang jelas, dana senilai 72,5 persen dari total aset mandek lebih dari setahun, dan seluruh pendapatan kini bergantung pada satu pelanggan baru yang menggantikan total pelanggan dan subkontraktor lama. Pos yang tersentuh adalah piutang usaha dan uang muka proyek, dua hal yang menentukan arus kas perusahaan: piutang usaha adalah uang yang sudah dicatat sebagai hak perusahaan tapi belum benar-benar masuk kas, dan sebagian piutang LCKM sudah menunggu lebih dari 180 hari sehingga risiko tidak tertagih makin besar, sementara uang muka proyek yang besar tapi tidak bergerak berarti dana itu tertahan tanpa menghasilkan apa pun bagi perusahaan selama ini. Yang perlu dipantau berikutnya adalah apakah proyek pengganti bersama PT ZRU benar-benar berjalan sepanjang 2026 seperti dijanjikan, bagaimana kesepakatan akhir untuk sisa uang muka jangka pendek Rp74,65 miliar yang sampai saat ini belum tuntas, dan apakah laporan keuangan periode berikutnya akan menjelaskan ke mana perginya saham PT Maju Mekar yang hilang dari daftar pemegang saham utama sejak LBRE 30 Juni 2026.",
+  "sentimen": "negatif"
  },
  {
   "slug": "inaf-panggil-rupslb-ubah-susunan-pengurus",

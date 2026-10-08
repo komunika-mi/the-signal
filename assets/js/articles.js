@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "menko-bahlil-kaji-moratorium-ekspor-produk-nikel",
+  "category": "Energi",
+  "title": "Menko Bahlil Kaji [Moratorium] Ekspor Produk Nikel",
+  "deck": "Menko Bahlil Lahadalia memaparkan rencana Kemenko Hilirisasi, termasuk kajian moratorium ekspor produk setengah jadi dan mandat etanol 20 persen pada 2027-2028.",
+  "image": "assets/img/menko-bahlil-kaji-moratorium-ekspor-produk-nikel.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T03:07:23.187Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pidato-perdana-menko-bahlil-petakan-peran-kemenko-hilirisasi-sinkronkan-kebijakan-hingga-kaji-moratorium",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "hilirisasi",
+   "nikel",
+   "transisi energi",
+   "ESDM"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia menyampaikan pidato perdananya dalam jabatan baru itu di Investor Daily Summit 2026, Rabu (7/10), memetakan tugas lembaga yang baru dibentuk. Kemenko ini akan menyinkronkan program lintas kementerian seperti Investasi, Perindustrian, dan ESDM, mengkaji kemungkinan moratorium ekspor produk setengah jadi, mempercepat transisi energi, serta memastikan pengusaha di daerah penghasil sumber daya alam ikut kebagian manfaat.",
+   "Nikel jadi contoh yang disorot. Setelah ekspor bijih nikel dihentikan dan pembangunan smelter diwajibkan, nilai ekspor produk nikel melonjak dari US$3,3 miliar pada 2017-2018 menjadi US$34 miliar pada 2023, dan diproyeksikan US$38-40 miliar pada 2026. Bahlil menilai capaian itu belum tuntas karena sebagian besar produk smelter masih berbentuk setengah jadi, dikirim ke luar negeri sebelum kembali sebagai barang jadi, sehingga pemerintah mengkaji moratorium untuk mendorong pengolahan lebih lanjut di dalam negeri dengan alasan keberlanjutan bagi generasi mendatang.",
+   "Di sektor energi, lifting atau produksi minyak harian Indonesia saat ini hanya 600-610 ribu barel, jauh di bawah konsumsi yang mencapai 1,6 juta barel per hari. Pemerintah menempuh tiga langkah, yakni intervensi teknologi pada sumur-sumur tua, kerja sama pengelolaan sumur yang tidak terpakai, dan mempercepat proyek yang rencana pengembangannya sudah disetujui seperti Blok Masela yang kini mulai konstruksi. Keberhasilan program biodiesel B50 mendorong pemerintah menargetkan pencampuran bensin dengan 20 persen etanol (E20) pada 2027-2028 untuk menekan impor bensin, sementara pasokan batu bara diatur lewat kuota produksi tahunan atau RKAB agar seimbang dengan permintaan.",
+   "Bahlil juga menegaskan ruang bagi pengusaha kecil dan UMKM di daerah penghasil sumber daya agar tidak sekadar jadi penonton, serta menyatakan ekspor listrik ke negara lain boleh dilakukan asal harganya tetap ditentukan Indonesia, mengingat ada kepentingan geopolitik di baliknya. Ia menutup pidatonya dengan menyebut pembentukan Kemenko Hilirisasi dan Transisi Energi tidak menambah beban anggaran negara karena memakai anggaran Kementerian ESDM yang sudah ada, dengan satu DIPA dan satu gaji menteri."
+  ],
+  "fotoAdegan": "Workers in protective gear monitoring glowing molten metal inside a nickel smelting furnace at an industrial plant in Indonesia.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-pidato-perdana-menko-bahlil-petakan-peran-kemenko-hilirisasi-sinkronkan-kebijakan-hingga-kaji-moratorium-wcfxjmp.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Ada dua hal konkret yang patut dicermati dari pidato ini: kajian moratorium ekspor produk nikel setengah jadi, yang kalau benar diberlakukan akan jadi perpanjangan dari larangan ekspor bijih nikel yang sudah berjalan sejak 2020, dan target mencampur bensin dengan 20 persen etanol pada 2027-2028 untuk menekan impor bensin. Yang kena dampak langsung adalah perusahaan smelter nikel yang selama ini masih mengekspor produk setengah jadi, serta industri dan petani yang bahan bakunya bisa diserap untuk produksi etanol kalau mandat itu berjalan. Arahnya sejalan dengan pola hilirisasi bertahap lewat pelarangan ekspor berjenjang, bukan sekali jadi, mengingat nikel sendiri butuh bertahun-tahun dari larangan bijih mentah sampai sekarang baru menyasar produk setengah jadi. Yang akan menentukan apakah arah ini benar-benar berjalan adalah hasil kajian moratorium tersebut, apakah berujung pada aturan larangan ekspor resmi, serta progres mandat etanol 20 persen menjelang 2027.",
+  "imageV": "muyyo8gn"
+ },
+ {
   "slug": "beks-dana-it-rp215-m-baru-18-terealisasi-sisa-di-fasbi",
   "category": "Aksi Korporasi",
   "title": "BEKS: Dana IT Rp215 M Baru [18%] Terealisasi, Sisa di FASBI",

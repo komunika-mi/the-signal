@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "menko-bahlil-kaji-moratorium-ekspor-produk-nikel",
+  "category": "Energi",
+  "title": "Menko Bahlil Kaji [Moratorium] Ekspor Produk Nikel",
+  "deck": "Menko Bahlil Lahadalia memaparkan rencana Kemenko Hilirisasi, termasuk kajian moratorium ekspor produk setengah jadi dan mandat etanol 20 persen pada 2027-2028.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/menko-bahlil-kaji-moratorium-ekspor-produk-nikel.jpg",
+  "imageV": "muyyo8gn",
+  "tags": [
+   "hilirisasi",
+   "nikel",
+   "transisi energi",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pidato-perdana-menko-bahlil-petakan-peran-kemenko-hilirisasi-sinkronkan-kebijakan-hingga-kaji-moratorium",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "beks-dana-it-rp215-m-baru-18-terealisasi-sisa-di-fasbi",
   "category": "Aksi Korporasi",
   "title": "BEKS: Dana IT Rp215 M Baru [18%] Terealisasi, Sisa di FASBI",
@@ -6460,22 +6478,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470484-indodana-fintech-soroti-tantangan-pinjaman-digital-mudah-diakses-harus-sesuai-kemampuan-bayar"
- },
- {
-  "slug": "ekonomi-gig-tumbuh-pekerja-perlu-perkuat-ketahanan-finansial",
-  "category": "Ketenagakerjaan",
-  "title": "Ekonomi Gig Tumbuh, Pekerja Perlu Perkuat [Ketahanan] Finansial",
-  "deck": "Seiring makin banyak orang mengandalkan pekerjaan fleksibel, mengatur arus kas jadi tantangan utama pekerja gig, bukan sekadar besar kecilnya pendapatan.",
-  "date": "30 September 2026",
-  "image": "assets/img/ekonomi-gig-tumbuh-pekerja-perlu-perkuat-ketahanan-finansial.jpg",
-  "imageV": "muo63edf",
-  "tags": [
-   "ekonomi gig",
-   "pekerja fleksibel",
-   "ketahanan finansial",
-   "driver online"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470482-ekonomi-gig-makin-diminati-pekerja-fleksibel-perlu-perkuat-ketahanan-finansial"
  }
 ];

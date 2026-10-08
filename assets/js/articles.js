@@ -2520,6 +2520,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "crsn-laporan-jual-saham-komisaris-direvisi-jadi-71-900-lembar",
+  "category": "Aksi Korporasi",
+  "title": "CRSN: Laporan Jual Saham Komisaris [Direvisi] Jadi 71.900 Lembar",
+  "deck": "Komisaris Carsurin Sheila Maria Tiwan merevisi laporan penjualan sahamnya, dari 167.700 menjadi 71.900 lembar saham. Hak suaranya tetap 50,04 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T10:23:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-4392-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRSN",
+  "tags": [
+   "CRSN",
+   "Carsurin",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Komisaris PT Carsurin Tbk (CRSN), Sheila Maria Tiwan, menyampaikan laporan kepemilikan saham terbaru ke Otoritas Jasa Keuangan pada 7 Oktober 2026 dengan nomor LK/07102026/0004/1. Dalam laporan itu, ia mencatatkan transaksi penjualan tidak langsung sebanyak 71.900 lembar saham biasa CRSN dengan harga Rp159 per saham, yang terjadi pada 11 September 2026. Akibat transaksi ini, kepemilikan sahamnya berkurang dari 1.447.139.400 lembar menjadi 1.447.067.500 lembar.",
+   "Pada kolom tujuan transaksi, dokumen ini secara eksplisit menyebut dirinya sebagai revisi atas laporan bernomor LK/07102026/0002/1, yakni laporan kepemilikan saham Sheila sebelumnya yang sempat menyebut penjualan sebanyak 167.700 lembar saham. Dengan kata lain, laporan terbaru ini mengoreksi jumlah saham yang benar-benar berpindah tangan menjadi lebih kecil dari yang pernah dilaporkan sebelumnya.",
+   "Hak suara Sheila di Carsurin tercatat tidak berubah, tetap di 50,04 persen baik sebelum maupun sesudah transaksi tersebut."
+  ],
+  "fotoAdegan": "Marine surveyor in a hard hat inspecting cargo holds aboard a docked bulk carrier, port cranes blurred in the background, late afternoon light",
+  "takeaway": "Laporan ini netral bagi Carsurin, karena penjualan 71.900 saham oleh Sheila Maria Tiwan hanya setara 0,0050 persen dari kepemilikannya dan terlalu kecil untuk dibaca sebagai sinyal sikap terhadap perusahaan. Yang tersentuh di sini adalah hak suara pengendali, yaitu persentase kendali seorang pemegang saham atas keputusan perusahaan, dan pasar memperhatikannya karena perubahan besar bisa berarti pergeseran kendali, sementara di sini angkanya tetap diam di 50,04 persen. Perlu digarisbawahi bahwa laporan ini sendiri adalah revisi atas laporan bernomor LK/07102026/0002/1 yang sebelumnya menyebut penjualan 167.700 lembar, sehingga angka yang benar justru lebih kecil dari yang sempat tercatat. Yang perlu dipantau berikutnya adalah apakah Carsurin atau Sheila kembali menerbitkan koreksi atau laporan lanjutan atas transaksi saham komisaris ini, mengingat sudah ada perubahan angka dalam rentang waktu kurang dari sehari.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "cani-gelar-public-expose-insidentil-soal-opini-disclaimer",
   "category": "Aksi Korporasi",
   "title": "CANI Gelar Public Expose [Insidentil] Soal Opini Disclaimer",
@@ -2544,6 +2570,31 @@ var ARTICLES = [
   "fotoAdegan": "A cargo vessel moored at an Indonesian port, workers inspecting mooring lines and deck equipment under overcast afternoon light.",
   "takeaway": "Laporan ini condong negatif bagi CANI, karena paparan publik ini bukan inisiatif sukarela melainkan diminta langsung oleh BEI menyusul opini disclaimer auditor dan saham yang sedang disuspensi, pertanda regulator menilai persoalan perusahaan cukup serius untuk dijelaskan di depan publik. Opini disclaimer berarti auditor tidak bisa memastikan laporan keuangan perusahaan menggambarkan kondisi sebenarnya, sehingga ekuitas dan arus kas yang dilaporkan jadi tidak bisa diandalkan begitu saja, hal yang penting bagi investor karena jadi dasar menilai apakah perusahaan masih mampu membayar utang dan membiayai operasionalnya. Roadmap pemulihan yang disebut mencakup perbaikan likuiditas dan optimalisasi kapal juga menunjukkan perusahaan sendiri mengakui ada tekanan pada kas dan pemanfaatan aset operasionalnya. Yang perlu dipantau adalah pelaksanaan paparan publik pada 9 Oktober 2026 pukul 10.00 WIB, terutama apakah manajemen memberi kejelasan konkret soal langkah pemulihan dan kapan kondisi yang membuat sahamnya disuspensi bisa diselesaikan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-400-000-saham-rp207-juta",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [jual] 400.000 saham, Rp207 juta",
+  "deck": "Komisaris Argha Karya Prima Henry Liem melepas 400.000 saham AKPI pada 6 Oktober 2026, mengurangi kepemilikannya dari 6,69 juta jadi 6,3 juta lembar saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T10:12:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-6455-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima",
+   "komisaris",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Henry Liem, anggota Dewan Komisaris Argha Karya Prima Industry Tbk (AKPI), melaporkan penjualan saham perusahaan ke Otoritas Jasa Keuangan pada 7 Oktober 2026. Berdasarkan dokumen itu, penjualan dilakukan secara tidak langsung sebanyak dua kali pada 6 Oktober 2026, yaitu 200.000 saham biasa di harga Rp520 per lembar dan 200.000 saham biasa lagi di harga Rp515 per lembar. Keduanya tercatat dengan tujuan jual saham, sehingga total saham yang dilepas mencapai 400.000 lembar dengan nilai transaksi sekitar Rp207 juta.",
+   "Dengan penjualan itu, kepemilikan Henry Liem di AKPI berkurang dari 6.698.159 lembar saham menjadi 6.298.159 lembar saham, atau turun 400.000 lembar. Porsi hak suaranya di perusahaan ikut menyusut dari 1,094 persen menjadi 1,0287 persen. Jumlah saham yang dilepas setara dengan sekitar 5,97 persen dari total kepemilikannya sebelum transaksi, sehingga dia tetap memegang lebih dari 6,29 juta lembar saham AKPI setelah transaksi ini."
+  ],
+  "fotoAdegan": "Busy Jakarta stock exchange building exterior plaza with professionals in business attire walking past, midday light",
+  "takeaway": "Laporan ini tergolong netral bagi AKPI karena pelepasan saham oleh Henry Liem hanya mengurangi sekitar 6 persen dari kepemilikan pribadinya, dan hak suaranya di perusahaan nyaris tidak bergeser dari 1,094 persen menjadi 1,0287 persen. Transaksi semacam ini tidak mengubah jumlah saham beredar milik AKPI maupun posisi keuangan perusahaan seperti ekuitas atau arus kas, karena ini murni jual beli saham antar pihak di pasar sekunder, bukan aksi korporasi. Laporan ini tetap wajib diumumkan karena aturan OJK mengharuskan setiap perubahan kepemilikan direksi atau komisaris dilaporkan, supaya investor bisa memantau apakah ada pola penjualan berkelanjutan dari jajaran pengurus. Yang perlu dipantau selanjutnya adalah laporan kepemilikan susulan dari Henry Liem atau komisaris maupun direksi lain AKPI, untuk melihat apakah penjualan saham ini berdiri sendiri atau menjadi bagian dari pelepasan bertahap yang lebih besar.",
+  "sentimen": "netral"
  },
  {
   "slug": "tarif-pajak-hiburan-jakarta-capai-40-persen",
@@ -2757,6 +2808,31 @@ var ARTICLES = [
   "fotoAdegan": "Rows of commercial vans and trucks parked at a dealership lot, technicians inspecting engines, overcast afternoon light",
   "takeaway": "Netral, karena laporan ini hanya menegaskan bahwa dana obligasi sudah tersalurkan 100 persen sesuai rencana awal ke modal kerja perusahaan anak, tanpa ada perubahan arah atau kabar baru yang mengubah pandangan terhadap kinerja WISL. Yang tersentuh di sini adalah arus kas dan beban bunga: obligasi pada dasarnya adalah utang, jadi penerbitannya menambah kewajiban bunga yang harus dibayar WISL ke depan, sementara kas hasil obligasi itu sendiri sudah habis mengalir ke anak usaha sehingga tidak ada lagi dana menganggur di kas induk. Karena dana sudah terpakai penuh, yang perlu dipantau selanjutnya adalah bagaimana anak usaha tersebut memanfaatkan modal kerja itu untuk menghasilkan pendapatan, serta kemampuan WISL membayar kupon dan melunasi obligasi sesuai jadwal dalam perjanjian perwaliamanatan tertanggal 16 Juli 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "mpix-direksi-lepas-80-saham-suara-tinggal-0-32",
+  "category": "Aksi Korporasi",
+  "title": "MPIX: Direksi [Lepas] 80% Saham, Suara Tinggal 0,32%",
+  "deck": "Direksi MPIX, Rio Adetya Rizky, menjual 20 juta saham atau 80 persen dari kepemilikannya pada 5 Oktober 2026 seharga Rp75 per saham, memangkas hak suaranya jadi 0,32 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 Oktober 2026",
+  "isoDate": "2026-10-07T08:27:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-1533-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPIX",
+  "tags": [
+   "MPIX",
+   "kepemilikan saham",
+   "direksi",
+   "divestasi"
+  ],
+  "body": [
+   "Rio Adetya Rizky, anggota Direksi PT Mitra Pedagang Indonesia Tbk (MPIX), melaporkan penjualan 20.000.000 lembar saham MPIX pada 5 Oktober 2026 dengan harga Rp75 per saham, berdasarkan keterbukaan informasi yang disampaikan ke Otoritas Jasa Keuangan pada 7 Oktober 2026. Jumlah saham yang dijual itu setara 80 persen dari seluruh saham MPIX yang sebelumnya dimiliki Rio, yakni 25.000.000 lembar, sehingga kepemilikannya kini tersisa 5.000.000 lembar.",
+   "Transaksi ini tercatat sebagai penjualan tidak langsung dengan tujuan divestasi. Dengan harga Rp75 per saham, nilai total penjualan tersebut sekitar Rp1,5 miliar. Akibat pelepasan saham ini, hak suara Rio di MPIX turun drastis dari 1,5999 persen menjadi hanya 0,32 persen. Dokumen laporan tidak merinci pihak yang membeli saham tersebut."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, reflecting afternoon sky, pedestrians on the sidewalk below",
+  "takeaway": "Laporan ini condong negatif bagi persepsi pasar terhadap MPIX, karena Rio melepas 80 persen dari seluruh saham yang ia pegang, bukan sekadar pecahan kecil yang bisa diabaikan. Transaksi jual beli saham pribadi seperti ini tidak mengubah laporan keuangan atau jumlah saham beredar MPIX, tapi tetap dicermati pelaku pasar sebagai sinyal kepercayaan orang dalam terhadap prospek perusahaannya sendiri, dan di sini hak suara Rio di rapat pemegang saham nyaris hilang, dari 1,6 persen menjadi 0,32 persen, yang berarti pengaruhnya dalam keputusan strategis perusahaan kini sangat terbatas. Yang perlu dicermati selanjutnya adalah apakah MPIX atau Rio menyampaikan keterbukaan informasi lanjutan soal pihak yang mengambil alih saham ini, serta apakah Rio masih bertahan sebagai direksi MPIX pada laporan atau pengumuman perusahaan berikutnya.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bbtn-resmi-catatkan-obligasi-sosial-rp2-triliun-di-bei",

@@ -1561,6 +1561,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "crsn-laporan-jual-saham-komisaris-direvisi-jadi-71-900-lembar",
+  "category": "Aksi Korporasi",
+  "title": "CRSN: Laporan Jual Saham Komisaris [Direvisi] Jadi 71.900 Lembar",
+  "deck": "Komisaris Carsurin Sheila Maria Tiwan merevisi laporan penjualan sahamnya, dari 167.700 menjadi 71.900 lembar saham. Hak suaranya tetap 50,04 persen.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRSN",
+   "Carsurin",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-4392-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cani-gelar-public-expose-insidentil-soal-opini-disclaimer",
   "category": "Aksi Korporasi",
   "title": "CANI Gelar Public Expose [Insidentil] Soal Opini Disclaimer",
@@ -1574,6 +1590,22 @@ var ARTICLES = [
    "public expose"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/feacaceae2_f4f9c2c011.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-400-000-saham-rp207-juta",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [jual] 400.000 saham, Rp207 juta",
+  "deck": "Komisaris Argha Karya Prima Henry Liem melepas 400.000 saham AKPI pada 6 Oktober 2026, mengurangi kepemilikannya dari 6,69 juta jadi 6,3 juta lembar saham.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima",
+   "komisaris",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-6455-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1708,6 +1740,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7e5221557e_11597deb4f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpix-direksi-lepas-80-saham-suara-tinggal-0-32",
+  "category": "Aksi Korporasi",
+  "title": "MPIX: Direksi [Lepas] 80% Saham, Suara Tinggal 0,32%",
+  "deck": "Direksi MPIX, Rio Adetya Rizky, menjual 20 juta saham atau 80 persen dari kepemilikannya pada 5 Oktober 2026 seharga Rp75 per saham, memangkas hak suaranya jadi 0,32 persen.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPIX",
+   "kepemilikan saham",
+   "direksi",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-1533-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6431,54 +6479,6 @@ var ARTICLES = [
    "Papan Akselerasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eebda25f98_f0cc51596e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bach-teken-kredit-rp450-miliar-dengan-maybank-indonesia",
-  "category": "Aksi Korporasi",
-  "title": "BACH Teken [Kredit] Rp450 Miliar dengan Maybank Indonesia",
-  "deck": "BACH menandatangani perjanjian kredit Rp450 miliar dengan Bank Maybank Indonesia untuk belanja modal dan modal kerja, setara 73 persen dari ekuitas perseroan per Juni 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BACH",
-   "kredit",
-   "Maybank Indonesia",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f99b31166_b0ff1e7176.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-msin-bergejolak-manajemen-akui-tak-ada-info-material",
-  "category": "Aksi Korporasi",
-  "title": "Saham MSIN Bergejolak, Manajemen Akui Tak Ada Info [Material]",
-  "deck": "BEI meminta penjelasan atas volatilitas transaksi saham MSIN. Manajemen menyatakan tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSIN",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "HKEX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6b537aa61f_78cd69fefc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rgas-kantongi-rp59-5-miliar-fasilitas-kredit-bsi-agunan-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "RGAS Kantongi Rp59,5 Miliar [Fasilitas Kredit] BSI, Agunan Afiliasi",
-  "deck": "Kian Santang Muliatama menambah limit line facility BSI dari Rp20 miliar menjadi Rp34,5 miliar dan memperoleh fasilitas baru Rp25 miliar, dengan agunan empat aset milik pihak afiliasi.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RGAS",
-   "Bank Syariah Indonesia",
-   "Fasilitas Kredit",
-   "Minyak dan Gas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24584719fb_29fe1b3eae.pdf",
   "sourceLabel": "IDX"
  }
 ];

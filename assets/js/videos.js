@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "JI6lVeFnkWU",
+  "title": "Presiden Prabowo Luncurkan Ekspor Perdana Baterai EV dan Hilirisasi",
+  "category": "Industri",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik sekaligus 11 proyek hilirisasi di kawasan Indonesia Weda Bay Industrial Park, Halmahera Tengah, Maluku Utara.",
+  "takeaway": "Peluncuran ini penting bagi pembaca ekonomi karena menandai kemajuan strategi hilirisasi nikel dan rantai pasok baterai kendaraan listrik nasional.",
+  "terbit": "2026-10-08T12:01:37+00:00"
+ },
+ {
+  "id": "1zg8jXrSUgA",
+  "title": "DPR dan Pemerintah Rampungkan Perpres Ojek Online",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "DPR dan pemerintah menyatakan telah merampungkan sinkronisasi serta harmonisasi aturan mengenai ojek online menjelang penerbitan Peraturan Presiden terkait layanan transportasi daring.",
+  "takeaway": "Regulasi ini relevan bagi pembaca ekonomi karena menyangkut kepastian hukum dan kesejahteraan mitra pengemudi di sektor transportasi daring.",
+  "terbit": "2026-10-08T12:02:38+00:00"
+ },
+ {
   "id": "TrVL5e1N3ow",
   "title": "Perpres Ojol Atur Tarif Angkutan Orang hingga Barang",
   "category": "Bisnis",

@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "JI6lVeFnkWU",
+  "title": "Presiden Prabowo Luncurkan Ekspor Perdana Baterai EV dan Hilirisasi",
+  "category": "Industri",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik sekaligus 11 proyek hilirisasi di kawasan Indonesia Weda Bay Industrial Park, Halmahera Tengah, Maluku Utara.",
+  "takeaway": "Peluncuran ini penting bagi pembaca ekonomi karena menandai kemajuan strategi hilirisasi nikel dan rantai pasok baterai kendaraan listrik nasional."
+ },
+ {
+  "id": "1zg8jXrSUgA",
+  "title": "DPR dan Pemerintah Rampungkan Perpres Ojek Online",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "DPR dan pemerintah menyatakan telah merampungkan sinkronisasi serta harmonisasi aturan mengenai ojek online menjelang penerbitan Peraturan Presiden terkait layanan transportasi daring.",
+  "takeaway": "Regulasi ini relevan bagi pembaca ekonomi karena menyangkut kepastian hukum dan kesejahteraan mitra pengemudi di sektor transportasi daring."
+ },
+ {
   "id": "TrVL5e1N3ow",
   "title": "Perpres Ojol Atur Tarif Angkutan Orang hingga Barang",
   "category": "Bisnis",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Industri hasil tembakau di Indonesia menyumbang hampir 10 persen penerimaan negara, sekitar Rp200 triliun, meski bisnis ini menghadapi dilema kebijakan yang rumit.",
   "takeaway": "Angka kontribusi fiskal industri tembakau ini penting bagi pembaca yang mengikuti perdebatan kebijakan cukai dan industri strategis nasional."
- },
- {
-  "id": "049bWNI1hNw",
-  "title": "Batasan Usia Jadi Batu Sandungan Pelamar di Job Fair",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Petang",
-  "summary": "Sejumlah bursa kerja masih menerapkan batas usia bagi pelamar, sehingga pencari kerja yang melewati batas tersebut kehilangan kesempatan mendapat pekerjaan.",
-  "takeaway": "Isu ini menyoroti hambatan struktural di pasar tenaga kerja yang berpotensi memperlebar angka pengangguran usia produktif."
- },
- {
-  "id": "5m4Fin5qa4g",
-  "title": "Petani Garam Terdampak Kekeringan, Produksi Terhambat",
-  "category": "Industri",
-  "program": "Kabar Petang",
-  "summary": "Kemarau panjang membuat air laut surut di Desa Ketitangwetan, Batangan, Pati, sehingga pasokan ke tambak garam tersendat dan lebih dari 300 hektare lahan tidak bisa berproduksi.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan dampak cuaca ekstrem terhadap rantai pasok komoditas garam dalam negeri."
  }
 ];

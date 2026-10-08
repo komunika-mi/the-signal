@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-tetapkan-target-pertumbuhan-6-untuk-2027",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Tetapkan Target Pertumbuhan [6%] untuk 2027",
+  "deck": "Pemerintah menyasar pertumbuhan ekonomi 6 persen pada 2027, dengan syarat investasi tumbuh lebih cepat dari ekonomi, sebagai tahapan menuju target 8 persen jangka menengah.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "pertumbuhan ekonomi",
+   "investasi",
+   "hilirisasi",
+   "kawasan industri"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7137/pemerintah-perkuat-kolaborasi-dengan-dunia-usaha-guna-mengakselerasi-pertumbuhan-ekonomi-2027",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "coin-revisi-laporan-dana-ipo-sisa-rp157-m-di-deposito-bank-jtrust",
   "category": "Aksi Korporasi",
   "title": "COIN Revisi Laporan Dana IPO, Sisa Rp157 M di [Deposito] Bank JTrust",
@@ -1280,7 +1296,7 @@ var ARTICLES = [
   "title": "Pemerintah Kaji Ulang [Insentif Pajak] Investasi Usai Pajak Global",
   "deck": "Pemerintah mengkaji ulang insentif pajak investasi, termasuk tax holiday, setelah pajak minimum global 15 persen berlaku, di tengah investasi semester I 2026 yang capai Rp1.010 triliun.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "hilirisasi",
    "investasi",
@@ -1729,7 +1745,7 @@ var ARTICLES = [
   "title": "Airlangga Pacu Investasi AS, Target Tumbuh [8]% di 2027",
   "deck": "Dalam forum investasi AS-Indonesia, Menko Airlangga memaparkan data dagang dan investasi dua negara serta target pertumbuhan ekonomi 8 persen pada 2027 lewat sektor teknologi tinggi.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "Investasi AS",
    "Pertumbuhan Ekonomi",
@@ -2102,7 +2118,7 @@ var ARTICLES = [
   "title": "Surplus Dagang Agustus Melonjak, [Impor] Modal Anjlok 16%",
   "deck": "Neraca dagang Indonesia Agustus 2026 surplus USD3,55 miliar, melonjak dari USD0,12 miliar di Juli, didorong surplus nonmigas, sementara impor barang modal dan bahan baku justru turun tajam.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -3743,7 +3759,7 @@ var ARTICLES = [
   "title": "Investasi Harus Tumbuh [8-9%] Kejar Target Ekonomi 2027",
   "deck": "Kemenko Perekonomian menyebut investasi perlu tumbuh 8-9 persen demi target pertumbuhan ekonomi 6 persen pada 2027, didukung transisi energi hijau dan digitalisasi.",
   "date": "4 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "investasi",
    "transisi energi",
@@ -3759,7 +3775,7 @@ var ARTICLES = [
   "title": "PMI Manufaktur RI [Balik] ke Ekspansi, Inflasi Terjaga 3,28%",
   "deck": "Inflasi September terjaga di 3,28 persen, neraca dagang Januari-Agustus surplus US$7,25 miliar, dan PMI manufaktur naik ke 52,4 setelah sempat kontraksi Agustus.",
   "date": "4 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "Inflasi",
    "Neraca Dagang",
@@ -5634,7 +5650,7 @@ var ARTICLES = [
   "title": "Manufaktur RI Kembali [Ekspansi], Surplus Dagang Melonjak",
   "deck": "Inflasi September terkendali di 3,28 persen, neraca dagang Agustus surplus US$3,55 miliar, dan PMI manufaktur kembali ke zona ekspansi di 52,4, naik dari 49,8 bulan sebelumnya.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "Inflasi",
    "PMI Manufaktur",
@@ -6257,7 +6273,7 @@ var ARTICLES = [
   "title": "Inflasi September 2026 Jadi [0,30%]",
   "deck": "Harga barang dan jasa pada September 2026 naik 0,30% dibanding bulan sebelumnya, tertinggi sejak Juni yang mencatat 0,44%.",
   "date": "1 Oktober 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -6461,21 +6477,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470563-kinerja-penjualan-vktr-tumbuh-56-pada-semester-i-2026-e-maas-disiapkan-sebagai-enabler-adopsi-ev"
- },
- {
-  "slug": "apic-catat-rugi-bersih-rp71-5-miliar-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "APIC Catat [Rugi] Bersih Rp71,5 Miliar di Semester I 2026",
-  "deck": "Laporan keuangan interim auditan Pacific Strategic Financial (APIC) menunjukkan bisnis berbalik rugi bersih Rp71,5 miliar pada semester I 2026, dari laba Rp16,8 miliar setahun sebelumnya.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APIC",
-   "laporan keuangan",
-   "rugi bersih",
-   "asuransi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261001033936-64448-0/FinancialStatement-2026-II-APIC.pdf",
-  "sourceLabel": "IDX"
  }
 ];

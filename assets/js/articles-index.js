@@ -5,6 +5,75 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wajib-halal-berlaku-18-oktober-aturan-turunan-dikejar",
+  "category": "Industri",
+  "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
+  "deck": "Kewajiban sertifikasi halal, termasuk untuk alat kesehatan risiko A, resmi berlaku 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung 11 Oktober.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "Wajib Halal",
+   "BPJPH",
+   "Sertifikasi Halal",
+   "Ekonomi Syariah"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7138/pemerintah-tegaskan-kesiapan-ekosistem-jelang-implementasi-wajib-halal-2026",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ekspor-perdana-baterai-listrik-dari-iwip-investasi-rp180-triliun",
+  "category": "Energi",
+  "title": "Ekspor Perdana Baterai Listrik dari IWIP, Investasi [Rp180 Triliun]",
+  "deck": "Presiden Prabowo Subianto meresmikan ekspor perdana baterai kendaraan listrik dari kawasan industri IWIP di Maluku Utara, bersamaan dengan peluncuran 11 proyek hilirisasi senilai US$10,2 miliar.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/ekspor-perdana-baterai-listrik-dari-iwip-investasi-rp180-triliun.jpg",
+  "imageV": "muzoh61e",
+  "tags": [
+   "Hilirisasi Nikel",
+   "Baterai Listrik",
+   "IWIP",
+   "Investasi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hilirisasi-kian-nyata-menko-bahlil-dampingi-presiden-lepas-ekspor-perdana-baterai-listrik",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "transaksi-emas-digital-fisik-melonjak-641-persen-di-2026",
+  "category": "Pasar Modal",
+  "title": "Transaksi Emas Digital Fisik [Melonjak] 641 Persen di 2026",
+  "deck": "Kemendag membuka program literasi PBK tahunan, sekaligus merilis data transaksi berjangka komoditi dan lonjakan besar transaksi emas digital fisik.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/transaksi-emas-digital-fisik-melonjak-641-persen-di-2026.jpg",
+  "imageV": "muzoh85q",
+  "tags": [
+   "Bappebti",
+   "PBK",
+   "emas digital",
+   "literasi keuangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bulan-literasi-pbk-2026-mendag-busan-smart-traders-tidak-mudah-tergiur-janji",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "tring-pegadaian-setahun-transaksi-tembus-rp113-triliun",
+  "category": "BUMN",
+  "title": "TRING! Pegadaian Setahun, Transaksi Tembus [Rp113 Triliun]",
+  "deck": "Dalam setahun, aplikasi TRING! by Pegadaian mencatat 7,5 juta nasabah dan nilai transaksi Rp113 triliun, seiring konsolidasi layanan gadai dan emas digital ke satu platform.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/tring-pegadaian-setahun-transaksi-tembus-rp113-triliun.jpg",
+  "imageV": "muzoh8o1",
+  "tags": [
+   "pegadaian",
+   "tring",
+   "emas digital",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471971-happy-tringversary-komitmen-pegadaian-berikan-kemudahan-solusi-finansial-dan-emas-terintegrasi-melalui-aplikasi-tring"
+ },
+ {
   "slug": "antm-koreksi-laporan-dana-rights-issue-2015-sisa-rp203-m",
   "category": "Aksi Korporasi",
   "title": "ANTM Koreksi Laporan [Dana] Rights Issue 2015, Sisa Rp203 M",
@@ -346,7 +415,7 @@ var ARTICLES = [
   "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
   "deck": "Furnitur dan kriya kembali jadi sorotan di Trade Expo Indonesia ke-41, didukung ekspor furnitur nasional yang sudah tembus US$1,2 miliar sepanjang 2026.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "TEI ke-41",
    "furnitur",
@@ -6409,70 +6478,6 @@ var ARTICLES = [
    "waran terstruktur"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/12d4bec7b7_3ad31edc77.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "link-direktur-yosafat-hutagalung-mundur-tunggu-rups",
-  "category": "Aksi Korporasi",
-  "title": "LINK: Direktur Yosafat Hutagalung [Mundur], Tunggu RUPS",
-  "deck": "PT Link Net Tbk melaporkan pengunduran diri Yosafat Marhasak Hutagalung dari jabatan Direktur per 1 Oktober 2026, menunggu persetujuan RUPS terdekat.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LINK",
-   "Link Net",
-   "Direksi",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f3c52cb092_b4935cb379.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "link-presiden-komisaris-vivek-sood-mundur",
-  "category": "Aksi Korporasi",
-  "title": "LINK: Presiden Komisaris Vivek Sood [Mundur]",
-  "deck": "Vivek Sood mengundurkan diri sebagai Presiden Komisaris Link Net pada 1 Oktober 2026, di hari yang sama dengan pengunduran diri seorang direktur perseroan.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LINK",
-   "Link Net",
-   "Komisaris",
-   "Pengunduran Diri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d0b6f068e5_3691e266d9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pipa-tunjuk-kjpp-nilai-75-saham-aztech-pandu-persada",
-  "category": "Aksi Korporasi",
-  "title": "PIPA Tunjuk [KJPP] Nilai 75% Saham Aztech Pandu Persada",
-  "deck": "Oxala Energy International (PIPA) menunjuk KJPP Toto Suharto & Rekan menilai wajar 75 persen saham PT Aztech Pandu Persada, tindak lanjut perjanjian jual beli bersyarat 7 September 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIPA",
-   "akuisisi",
-   "KJPP",
-   "Aztech Pandu Persada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dea621fb2f_78b608f931.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unsp-bantah-ada-info-material-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "UNSP Bantah Ada Info Material soal [Volatilitas] Saham",
-  "deck": "Menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Bakrie Sumatera Plantations menyatakan tidak ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNSP",
-   "Bakrie Sumatera Plantations",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/41a3c5dd62_32eef90b3f.pdf",
   "sourceLabel": "IDX"
  }
 ];

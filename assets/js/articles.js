@@ -3,6 +3,117 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wajib-halal-berlaku-18-oktober-aturan-turunan-dikejar",
+  "category": "Industri",
+  "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
+  "deck": "Kewajiban sertifikasi halal, termasuk untuk alat kesehatan risiko A, resmi berlaku 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung 11 Oktober.",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T15:07:48.461Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7138/pemerintah-tegaskan-kesiapan-ekosistem-jelang-implementasi-wajib-halal-2026",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "Wajib Halal",
+   "BPJPH",
+   "Sertifikasi Halal",
+   "Ekonomi Syariah"
+  ],
+  "body": [
+   "Pemerintah memastikan kewajiban sertifikasi halal untuk produk yang beredar di Indonesia mulai berlaku pada 18 Oktober 2026, sesuai amanat UU Nomor 33 Tahun 2014 dan PP Nomor 42 Tahun 2024. Aturan ini kini juga mencakup produk alat kesehatan kategori risiko A. Bagi pelaku usaha, tanggal ini menjadi batas waktu yang menentukan produk mana yang masih boleh dijual tanpa sertifikat dan mana yang harus segera mengurus izin halal.",
+   "Wakil Menteri Koordinator Bidang Perekonomian Dradjad Hari Wibowo mengatakan aturan turunan berupa Peraturan Kepala Badan Penyelenggara Jaminan Produk Halal (BPJPH) harus selesai paling lambat 11 Oktober 2026 agar bisa segera disosialisasikan kepada pelaku usaha dan asosiasi terkait. Aturan itu akan mengatur tahapan pemberlakuan, pendampingan bagi usaha mikro dan kecil, serta penataan ulang ketentuan untuk barang gunaan. Pemerintah menyebut karena ini kebijakan baru, evaluasi dan perbaikan akan tetap dilakukan agar manfaatnya maksimal dan dampak sampingannya diminimalkan.",
+   "Untuk mendukung pelaksanaan di lapangan, ekosistem sertifikasi halal saat ini ditopang oleh 587 verifikator, 2.036 auditor halal, 108.211 pendamping proses produk halal, 5.561 juru sembelih halal, serta 5.745 rumah potong hewan dan unggas bersertifikat. Hingga saat ini sekitar 4,4 juta sertifikat halal telah diterbitkan untuk 3,47 juta pelaku usaha dengan total 14,68 juta produk bersertifikat, dan pengakuan sertifikat itu lewat perjanjian saling pengakuan sudah terjalin dengan 39 negara. Pemerintah juga masih menjalankan program sertifikasi halal gratis bernama SEHATI khusus untuk usaha mikro dan kecil.",
+   "Dradjad menyampaikan penguatan ekosistem halal ini berjalan di tengah indikator ekonomi nasional yang menurutnya masih terjaga, dengan pertumbuhan ekonomi semester I 2026 tercatat 5,45 persen secara kumulatif dan inflasi September 2026 di 3,28 persen. Ia juga menyebut Indonesia berada di peringkat keempat dunia pada Global Islamic Economy Indicator 2025/2026, dengan total aset industri keuangan syariah mencapai Rp3.131,02 triliun. Menurut Kementerian Koordinator Bidang Perekonomian, pangsa pasar dan inklusi keuangan syariah di dalam negeri masih punya ruang besar untuk ditingkatkan, termasuk lewat optimalisasi zakat, infak, sedekah, dan wakaf."
+  ],
+  "fotoAdegan": "Workers in white aprons and hairnets packaging small processed food products on a factory line, bright industrial lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah secara konkret adalah masuknya alat kesehatan kategori risiko A ke daftar produk wajib bersertifikat halal mulai 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung paling lambat 11 Oktober, hanya tiga hari dari sekarang. Pihak yang langsung terdampak adalah pelaku usaha mikro dan kecil serta produsen barang gunaan dan alat kesehatan, karena merekalah yang membutuhkan pendampingan dan sosialisasi sebelum tenggat berlaku. Jarak yang sangat sempit antara target penyelesaian aturan BPJPH dan tanggal pemberlakuan menunjukkan pemerintah kali ini mengejar kepastian jadwal, berbeda dari pola penundaan yang beberapa kali terjadi pada kebijakan wajib halal sebelumnya. Yang akan membuktikan apakah jadwal ini benar ditepati adalah terbitnya Peraturan Kepala BPJPH itu sendiri dalam beberapa hari ke depan, serta tanggapan asosiasi usaha begitu aturan tersebut disosialisasikan.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "ekspor-perdana-baterai-listrik-dari-iwip-investasi-rp180-triliun",
+  "category": "Energi",
+  "title": "Ekspor Perdana Baterai Listrik dari IWIP, Investasi [Rp180 Triliun]",
+  "deck": "Presiden Prabowo Subianto meresmikan ekspor perdana baterai kendaraan listrik dari kawasan industri IWIP di Maluku Utara, bersamaan dengan peluncuran 11 proyek hilirisasi senilai US$10,2 miliar.",
+  "image": "assets/img/ekspor-perdana-baterai-listrik-dari-iwip-investasi-rp180-triliun.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T15:07:42.559Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hilirisasi-kian-nyata-menko-bahlil-dampingi-presiden-lepas-ekspor-perdana-baterai-listrik",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Hilirisasi Nikel",
+   "Baterai Listrik",
+   "IWIP",
+   "Investasi"
+  ],
+  "body": [
+   "Indonesia melepas ekspor perdana baterai kendaraan listrik dari kawasan Indonesia Weda Bay Industrial Park (IWIP) di Halmahera Tengah, Maluku Utara, Kamis (8/10). Presiden Prabowo Subianto meresmikan ekspor tersebut sekaligus meluncurkan program hilirisasi senilai US$10,2 miliar, sekitar Rp180 triliun, yang terdiri dari 11 proyek industri. Acara ini didampingi Menteri Koordinator Bidang Hilirisasi dan Transisi Energi sekaligus Menteri ESDM, Bahlil Lahadalia.",
+   "Dari 11 proyek itu, empat sudah masuk tahap komersial dan ekspor dengan nilai gabungan US$3,4 miliar, sekitar Rp60 triliun. Keempatnya meliputi fasilitas produksi material baterai berbasis nikel, baterai kendaraan listrik, aluminium elektrolit, dan alat berat berbasis listrik. Tujuh proyek lainnya senilai US$6,8 miliar baru memasuki tahap peletakan batu pertama, mencakup pabrik separator baterai kendaraan listrik pertama di Indonesia, elektrolit baterai, komponen aluminium, truk tambang listrik, serta pabrik kaca fotovoltaik untuk industri energi surya.",
+   "Seluruh proyek ini diproyeksikan membuka lebih dari 10.000 lapangan kerja baru, menambah 117.000 pekerja yang sudah terserap di kawasan tersebut. Menteri Investasi dan Hilirisasi Rosan Perkasa Roeslani melaporkan realisasi investasi nasional pada semester I 2026 mencapai Rp1.010,6 triliun, naik 7,2 persen dibanding periode yang sama tahun sebelumnya, dan menyerap lebih dari 1,4 juta tenaga kerja. Kontribusi hilirisasi terhadap total investasi nasional disebut naik dari 25 persen menjadi 30 persen dalam dua tahun terakhir, dengan lebih dari 75 persen lokasi proyek berada di luar Pulau Jawa.",
+   "Di Maluku Utara, industri pengolahan kini menyumbang hampir separuh produk domestik regional bruto provinsi, tanda pergeseran dari daerah tambang menjadi pusat manufaktur bernilai tambah. Presiden Prabowo Subianto juga meminta pelaku industri mengelola limbah secara ketat serta menjaga kualitas air dan udara di sekitar wilayah operasional, agar dampaknya tidak merugikan masyarakat setempat dan generasi mendatang."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting large metal battery material containers at a nickel processing plant, overcast tropical sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-hilirisasi-kian-nyata-menko-bahlil-dampingi-presiden-lepas-ekspor-perdana-baterai-listrik-4jtvugv.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang konkret berubah di sini adalah empat proyek baterai dan material pendukungnya yang sudah mulai ekspor senilai US$3,4 miliar, sementara tujuh proyek lain senilai US$6,8 miliar baru diletakkan batu pertamanya, artinya baru dimulai dan belum berproduksi. Yang kena dampak langsung adalah pekerja di kawasan IWIP, yang totalnya bisa mencapai lebih dari 127.000 orang kalau proyek baru itu rampung, serta ekonomi Maluku Utara yang kini separuh pendapatan daerahnya berasal dari industri pengolahan, bukan lagi sekadar tambang mentah. Pemerintah juga mengklaim porsi hilirisasi dalam total investasi nasional naik dari 25 persen menjadi 30 persen dalam dua tahun, yang kalau benar berarti uang investasi makin diarahkan ke pengolahan dalam negeri ketimbang ekspor bahan mentah begitu saja. Arahnya mengarah ke perluasan rantai pasok baterai kendaraan listrik berbasis nikel dalam negeri, tapi karena tujuh proyek barunya masih tahap awal, yang perlu dipantau adalah apakah proyek-proyek itu benar beroperasi sesuai target dan apakah laporan realisasi investasi semester II 2026 dari BKPM nanti menunjukkan porsi hilirisasi tetap naik atau mandek di angka 30 persen.",
+  "imageV": "muzoh61e"
+ },
+ {
+  "slug": "transaksi-emas-digital-fisik-melonjak-641-persen-di-2026",
+  "category": "Pasar Modal",
+  "title": "Transaksi Emas Digital Fisik [Melonjak] 641 Persen di 2026",
+  "deck": "Kemendag membuka program literasi PBK tahunan, sekaligus merilis data transaksi berjangka komoditi dan lonjakan besar transaksi emas digital fisik.",
+  "image": "assets/img/transaksi-emas-digital-fisik-melonjak-641-persen-di-2026.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T15:07:39.157Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bulan-literasi-pbk-2026-mendag-busan-smart-traders-tidak-mudah-tergiur-janji",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Bappebti",
+   "PBK",
+   "emas digital",
+   "literasi keuangan"
+  ],
+  "body": [
+   "Kementerian Perdagangan melalui Badan Pengawas Perdagangan Berjangka Komoditi (Bappebti) membuka program edukasi tahunan Bulan Literasi PBK 2026 di Jakarta, Kamis (8/10). Lebih dari acara seremonial, pembukaan ini dibarengi rilis data kinerja industri perdagangan berjangka komoditi (PBK) selama 2026, yang penting diketahui publik karena menggambarkan skala uang yang berputar di instrumen ini sekaligus risiko penipuan yang mengintai calon trader baru.",
+   "Bappebti mencatat volume transaksi PBK sepanjang Januari-Agustus 2026 mencapai 10,35 juta lot, naik 9,4 persen dibanding periode sama tahun lalu yang sebesar 9,46 juta lot. Jumlah nasabah aktif pada Juli-Agustus 2026 tercatat 183 ribu orang. Yang paling mencolok adalah transaksi emas digital fisik, dengan volume 115,9 ton dan nilai transaksi Rp299,5 triliun, melonjak 641,1 persen dibanding tahun sebelumnya. Transaksi timah murni batangan dan sertifikat energi terbarukan (REC) juga tercatat naik.",
+   "Komoditas yang aktif diperdagangkan di PBK antara lain minyak kelapa sawit (CPO), olein, kakao, kopi, dan emas. Bappebti menyebut masih ada sektor komoditas strategis lain yang berpotensi diperdagangkan, yakni karet, kopra, kedelai, jagung, dan teh dari sektor pertanian; nikel, batu bara, dan perak dari sektor tambang dan energi; serta produk perikanan dan kelautan.",
+   "Di sisi pengawasan, Bappebti melaporkan sudah memblokir 812 situs perdagangan ilegal sepanjang Januari-September 2026. Penguatan literasi tahun ini juga dikaitkan dengan implementasi Undang-Undang Nomor 4 Tahun 2026 tentang perubahan UU Pengembangan dan Penguatan Sektor Keuangan. Kegiatan literasi akan berlangsung hingga 8 November 2026 di lima kota yakni Jakarta, Semarang, Surabaya, Medan, dan Makassar, dengan target menjangkau 1,5 juta peserta."
+  ],
+  "fotoAdegan": "Stacks of small gold bars on a counter at a bullion trading shop, out-of-focus digital price display blurred in the background, soft indoor lighting",
+  "fotoSumber": "https://www.kemendag.go.id/albums/1dPg58DzH0DOUmsPyScSIkvANw0mt0bDxHoWyIrr.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret dari siaran ini bukan acara pembukaannya, melainkan data yang dirilis bersamaan: transaksi emas digital fisik melonjak 641 persen dibanding tahun lalu, dengan nilai mencapai Rp299,5 triliun, jauh lebih cepat dibanding pertumbuhan transaksi PBK secara umum yang hanya naik 9,4 persen. Lonjakan ini membuat emas digital jadi incaran utama masyarakat yang tertarik berdagang secara daring, sekaligus jadi celah yang rentan dimanfaatkan tawaran investasi bodong, apalagi Bappebti sendiri mencatat sudah memblokir 812 situs perdagangan ilegal sejak awal tahun. Pola ini mengarah ke pengawasan yang mulai lebih difokuskan ke produk emas digital ketimbang PBK secara umum, bersamaan dengan mulai berlakunya aturan baru sektor keuangan, Undang-Undang Nomor 4 Tahun 2026. Yang akan menentukan apakah fokus pengawasan ini memadai adalah aturan teknis turunan dari undang-undang itu, yang rinciannya belum dijelaskan dalam siaran ini.",
+  "imageV": "muzoh85q"
+ },
+ {
+  "slug": "tring-pegadaian-setahun-transaksi-tembus-rp113-triliun",
+  "category": "BUMN",
+  "title": "TRING! Pegadaian Setahun, Transaksi Tembus [Rp113 Triliun]",
+  "deck": "Dalam setahun, aplikasi TRING! by Pegadaian mencatat 7,5 juta nasabah dan nilai transaksi Rp113 triliun, seiring konsolidasi layanan gadai dan emas digital ke satu platform.",
+  "image": "assets/img/tring-pegadaian-setahun-transaksi-tembus-rp113-triliun.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T21:53:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471971-happy-tringversary-komitmen-pegadaian-berikan-kemudahan-solusi-finansial-dan-emas-terintegrasi-melalui-aplikasi-tring",
+  "tags": [
+   "pegadaian",
+   "tring",
+   "emas digital",
+   "BUMN"
+  ],
+  "body": [
+   "Aplikasi TRING! besutan PT Pegadaian (Persero) genap berusia satu tahun. Platform ini menyatukan layanan gadai, tabungan emas, dan berbagai solusi keuangan yang sebelumnya tersebar di beberapa aplikasi, dengan tujuan memudahkan nasabah mengakses kebutuhan finansial dalam satu genggaman.",
+   "Konsolidasi ini melanjutkan proses digitalisasi Pegadaian yang dimulai sejak 2017 lewat peluncuran Pegadaian Digital dan Pegadaian Digital Syariah. Pada 2025, seluruh ekosistem layanan tersebut digabung menjadi satu aplikasi bernama TRING!, sehingga nasabah tidak lagi perlu berpindah platform untuk bertransaksi gadai maupun emas.",
+   "Dalam setahun beroperasi, TRING! mencatat lebih dari 7,5 juta nasabah dan memproses lebih dari 48 juta transaksi, dengan total nilai transaksi mencapai Rp113 triliun. Direktur Utama Pegadaian Damar Latri Setiawan mengatakan aplikasi ini dirancang memberi pengalaman transaksi yang lebih cepat, aman, dan nyaman bagi nasabah dalam mengakses berbagai solusi keuangan Pegadaian.",
+   "Selain tabungan emas yang bisa dimulai dari Rp10 ribu, TRING! kini juga menyediakan fitur deposito emas, yang memungkinkan nasabah menempatkan saldo tabungan emasnya sebagai instrumen investasi jangka panjang."
+  ],
+  "fotoAdegan": "Rows of small gold bars and jewelry displayed in a locked glass cabinet at a pawnshop counter, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/08/6ac7adb5aab81-satu-tahun-sudah-aplikasi-tring-by-pegadaian-hadir-di-tengah-masyarakat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkret di balik angka ulang tahun ini adalah konsolidasi: layanan Pegadaian Digital dan Pegadaian Digital Syariah yang sejak 2017 berjalan terpisah, pada 2025 digabung jadi satu aplikasi bernama TRING!. Yang terdampak adalah nasabah lama pengguna gadai dan tabungan emas Pegadaian, yang kini harus bertransaksi lewat satu pintu aplikasi, sekaligus nasabah baru yang disasar lewat tabungan emas mulai Rp10 ribu. Penambahan fitur deposito emas, tempat saldo tabungan emas bisa ditempatkan untuk jangka waktu tertentu, menunjukkan arah Pegadaian mendorong nasabah menyimpan emas lebih lama ketimbang sekadar jual beli cepat, mirip pola deposito di perbankan yang membuat dana mengendap lebih panjang. Yang belum terlihat dari data ini adalah skema imbal hasil dan tenor deposito emas tersebut, serta target pertumbuhan nasabah di tahun kedua, dua hal yang akan menentukan apakah strategi ini benar memperdalam pemakaian aplikasi atau sekadar menambah angka pengguna terdaftar.",
+  "imageV": "muzoh8o1"
+ },
+ {
   "slug": "antm-koreksi-laporan-dana-rights-issue-2015-sisa-rp203-m",
   "category": "Aksi Korporasi",
   "title": "ANTM Koreksi Laporan [Dana] Rights Issue 2015, Sisa Rp203 M",
@@ -106,7 +217,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya ada di angka target: pemerintah menyasar pertumbuhan ekonomi 6 persen pada 2027, lebih rendah dari target jangka panjang 8 persen, dengan syarat investasi harus tumbuh lebih cepat daripada ekonomi itu sendiri. Syarat itu untuk sementara terlihat terpenuhi, karena investasi pada kuartal II 2026 tumbuh 7,1 persen dibanding periode sama tahun lalu, lebih cepat dari pertumbuhan ekonomi yang 5,45 persen pada enam bulan pertama 2026. Yang langsung kena dampak adalah pelaku usaha di kawasan industri luar Jawa, yang menampung 18 dari 25 kawasan industri yang dicatat pemerintah, serta industri padat karya seperti tekstil yang masih mempekerjakan sekitar 4 juta orang. Arah kebijakan ini terlihat bertahap, bukan loncatan langsung ke 8 persen, sehingga yang perlu dicermati adalah apakah laju investasi pada kuartal III dan IV 2026 bisa tetap di atas pertumbuhan ekonomi, karena itu yang akan menentukan apakah target 2027 realistis atau sekadar angka ancang-ancang.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "inet-ganti-wali-amanat-sukuk-rupsi-digelar-5-november",
@@ -556,7 +667,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
   "deck": "Furnitur dan kriya kembali jadi sorotan di Trade Expo Indonesia ke-41, didukung ekspor furnitur nasional yang sudah tembus US$1,2 miliar sepanjang 2026.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "date": "8 Oktober 2026",
   "isoDate": "2026-10-08T07:27:16.350Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bersertifikat-hijau-dan-terkurasi-furnitur-dan-kriya-berdaya-saing-tinggi-siap-tampil-di-tei-ke-41",
@@ -657,7 +768,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret dari pertemuan ini adalah sejumlah nota kesepahaman, bukan investasi yang sudah cair. Delapan MoU dari forum bisnis di Hangzhou diperkirakan bernilai sekitar US$400 juta, mencakup proyek dari konstruksi energi baru sampai layanan keuangan dan infrastruktur digital, sementara proyeksi investasi AI senilai US$8 miliar sampai US$12 miliar adalah target kerja sama antarnegara anggota WAICO untuk periode 2026-2030, bukan komitmen dana yang sudah pasti. Pihak yang lebih dulu terdampak adalah kawasan industri Batang yang baru menjalin kesepakatan dengan kawasan industri Hangzhou, serta sekitar 5.000 pekerja Indonesia yang dijanjikan pelatihan kecerdasan buatan. Pola yang terlihat adalah tahap ini masih berupa kerangka kerja sama dan nota kesepahaman, sehingga arah sesungguhnya baru bisa dipastikan kalau kesepakatan itu diikuti kontrak investasi nyata, misalnya dimulainya pembangunan fisik di kawasan Batang atau kepastian lokasi pusat data yang diundang masuk ke Indonesia.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "keyakinan-konsumen-tetap-optimis-kondisi-kini-melambat",
@@ -11458,7 +11570,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Harga Patokan Ekspor Emas [Turun] 3,5% Awal Oktober",
   "deck": "Kemendag menurunkan Harga Patokan Ekspor dan Harga Referensi emas untuk periode 1-14 Oktober 2026, turun 3,5 persen dari paruh kedua September.",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "date": "30 September 2026",
   "isoDate": "2026-09-30T12:07:27.730Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hpe-dan-hr-emas-turun-di-periode-i-oktober-2026",
@@ -12661,7 +12773,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Indonesia dan China Sepakat Percepat Perundingan [CEPA]",
   "deck": "Indonesia dan Tiongkok sepakat mempercepat persiapan perundingan CEPA, sekaligus memperkuat kerja sama ekonomi hijau dan peningkatan kapasitas aparatur sipil negara.",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "date": "29 September 2026",
   "isoDate": "2026-09-29T14:08:23.090Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7119/indonesia-dan-tiongkok-sepakat-percepat-persiapan-cepa-perkuat-kerja-sama-ekonomi-hijau-dan-peningkatan-kapasitas-asn",
@@ -20509,7 +20621,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "ASEAN [Perkuat] Kerja Sama Dagang dengan UE, Inggris, Rusia",
   "deck": "Wakil Menteri Perdagangan Dyah Roro Esti mendorong penguatan kerja sama ekonomi ASEAN dengan Inggris, Uni Eropa, dan Rusia dalam pertemuan di Filipina, 17-22 September 2026.",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "date": "24 September 2026",
   "isoDate": "2026-09-24T07:38:37.116Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-penguatan-ketahanan-dan-daya-saing-ekonomi-kawasan-pada-rangkaian-pertemuan-asean-dengan-mitra",
@@ -21348,7 +21460,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI Dukung Reviu Perjanjian Dagang ASEAN-India [Rampung] 2026",
   "deck": "Wamendag Dyah Roro Esti menyatakan dukungan Indonesia agar reviu perjanjian dagang AITIGA dengan India rampung tahun ini, di sela pertemuan menteri ekonomi ASEAN-India di Filipina.",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
   "date": "23 September 2026",
   "isoDate": "2026-09-23T14:15:43.446Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pertemuan-konsultasi-ke-23-aem-india-indonesia-dukung-penyelesaian-aitiga-reviu-di-2026",
@@ -21507,7 +21619,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "FTA ASEAN-Kanada Ditarget [Rampung] Sebelum KTT ASEAN",
   "deck": "Indonesia mendorong ASEAN dan Kanada mempercepat perundingan FTA yang ditargetkan rampung sebelum KTT ASEAN awal November 2026, seiring lonjakan perdagangan dua arah kedua kawasan.",
-  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
+  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
   "date": "23 September 2026",
   "isoDate": "2026-09-23T13:40:44.409Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-percepatan-penyelesaian-perundingan-asean-canada-fta",
@@ -23383,7 +23495,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Pemerintah [Tertibkan] Impor Baju Bekas, Longgarkan Bahan Baku Tekstil",
   "deck": "Rapat terbatas dengan Presiden Prabowo Subianto menghasilkan rencana peninjauan aturan impor bahan baku tekstil dan penertiban impor pakaian bekas ilegal.",
-  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
+  "image": "assets/img/22-kampus-adu-gagasan-energi-di-final-nasional-pgtc.jpg",
   "date": "22 September 2026",
   "isoDate": "2026-09-22T15:13:39.860Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7107/industri-tekstil-dan-produk-tekstil-tetap-strategis-pemerintah-dorong-penguatan-daya-saing-dan-investasi",
@@ -23412,7 +23524,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI Percepat Perjanjian Dagang [IEU-CEPA] dengan Uni Eropa",
   "deck": "Presiden Prabowo Subianto meminta penyelesaian kesepakatan dagang RI-Uni Eropa dipercepat, dengan target ratifikasi semester kedua 2026 dan berlaku awal 2027.",
-  "image": "assets/img/22-kampus-adu-gagasan-energi-di-final-nasional-pgtc.jpg",
+  "image": "assets/img/25-merek-beras-fortifikasi-disanksi-gizi-tak-sesuai-label.jpg",
   "date": "22 September 2026",
   "isoDate": "2026-09-22T15:13:36.929Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7108/menko-airlangga-penyelesaian-ieu-cepa-dipacu-untuk-perluas-akses-pasar-eropa",

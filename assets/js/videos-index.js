@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "hqZCuhdwmbU",
+  "title": "Direktur IdeaRun: Mencari Sponsor Event Lari Tidak Mudah",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Bisnis event lari di Indonesia tumbuh pesat dalam dua dekade terakhir, namun mencari sponsor untuk mendanai penyelenggaraan acara ini tidak semudah yang dibayangkan, menurut Direktur IdeaRun.",
+  "takeaway": "Menyoroti dinamika pembiayaan di balik industri event olahraga yang berkembang menjadi segmen bisnis baru di Indonesia."
+ },
+ {
+  "id": "qEOiNaakxs8",
+  "title": "UU Ketenagakerjaan Baru Perketat Aturan PHK dan Pesangon",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Utama",
+  "summary": "DPR mengesahkan UU Perlindungan Ketenagakerjaan yang memperketat aturan pemutusan hubungan kerja. Menteri Ketenagakerjaan menyebut pesangon minimal kini satu kali gaji, naik dari sebelumnya 0,5 kali.",
+  "takeaway": "Aturan baru ini berdampak langsung pada hak pekerja dan beban biaya perusahaan saat terjadi pemutusan hubungan kerja."
+ },
+ {
+  "id": "NPtNGbdlQyc",
+  "title": "Presiden Prabowo Luncurkan Proyek Hilirisasi Rp180 Triliun di Malut",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik serta 11 proyek hilirisasi di kawasan Indonesia Weda Bay Industrial Park, Maluku Utara, dengan nilai investasi Rp180 triliun.",
+  "takeaway": "Proyek ini menjadi penanda kemajuan hilirisasi nikel yang menjadi andalan strategi industrialisasi pemerintah."
+ },
+ {
   "id": "JI6lVeFnkWU",
   "title": "Presiden Prabowo Luncurkan Ekspor Perdana Baterai EV dan Hilirisasi",
   "category": "Industri",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "IBF tvOne",
   "summary": "Program IBF tvOne mengulas industri hasil tembakau yang menyumbang hampir 10 persen penerimaan negara, sekitar Rp200 triliun, dan menyerap lebih dari 440 ribu tenaga kerja.",
   "takeaway": "Angka kontribusi cukai rokok terhadap APBN dan jumlah tenaga kerja yang bergantung padanya relevan bagi pembaca yang mengikuti kebijakan fiskal dan industri manufaktur."
- },
- {
-  "id": "G-VKMCpTC7o",
-  "title": "Wacana Tambah Layer Cukai Dikhawatirkan Picu Downtrading",
-  "category": "Makroekonomi",
-  "program": "IBF tvOne",
-  "summary": "Diskusi IBF tvOne mengangkat kekhawatiran bahwa penambahan layer tarif cukai rokok dapat memicu downtrading, yakni pergeseran konsumen ke produk rokok murah atau ilegal.",
-  "takeaway": "Wacana kenaikan struktur cukai berdampak langsung pada penerimaan negara dan pola pasar rokok legal, sehingga penting dipantau pelaku industri dan investor."
- },
- {
-  "id": "1WM_QmpJ1uE",
-  "title": "Ekonom Prasasti: Industri Rokok RI Sangat Besar",
-  "category": "Makroekonomi",
-  "program": "IBF tvOne",
-  "summary": "Ekonom senior Prasasti memaparkan dalam IBF tvOne bahwa industri hasil tembakau Indonesia tergolong sangat besar, dengan kontribusi ke penerimaan negara hampir 10 persen atau sekitar Rp200 triliun.",
-  "takeaway": "Pandangan ekonom soal skala industri rokok memberi konteks bagi pembaca dalam menilai arah kebijakan cukai dan dampaknya ke perekonomian."
- },
- {
-  "id": "QtT2X31DJU0",
-  "title": "Simalakama Bisnis Rokok di Indonesia",
-  "category": "Industri",
-  "program": "Indonesia Business Forum",
-  "summary": "Industri hasil tembakau di Indonesia menyumbang hampir 10 persen penerimaan negara, sekitar Rp200 triliun, meski bisnis ini menghadapi dilema kebijakan yang rumit.",
-  "takeaway": "Angka kontribusi fiskal industri tembakau ini penting bagi pembaca yang mengikuti perdebatan kebijakan cukai dan industri strategis nasional."
  }
 ];

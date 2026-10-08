@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "hqZCuhdwmbU",
+  "title": "Direktur IdeaRun: Mencari Sponsor Event Lari Tidak Mudah",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Bisnis event lari di Indonesia tumbuh pesat dalam dua dekade terakhir, namun mencari sponsor untuk mendanai penyelenggaraan acara ini tidak semudah yang dibayangkan, menurut Direktur IdeaRun.",
+  "takeaway": "Menyoroti dinamika pembiayaan di balik industri event olahraga yang berkembang menjadi segmen bisnis baru di Indonesia.",
+  "terbit": "2026-10-08T15:05:25+00:00"
+ },
+ {
+  "id": "qEOiNaakxs8",
+  "title": "UU Ketenagakerjaan Baru Perketat Aturan PHK dan Pesangon",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Utama",
+  "summary": "DPR mengesahkan UU Perlindungan Ketenagakerjaan yang memperketat aturan pemutusan hubungan kerja. Menteri Ketenagakerjaan menyebut pesangon minimal kini satu kali gaji, naik dari sebelumnya 0,5 kali.",
+  "takeaway": "Aturan baru ini berdampak langsung pada hak pekerja dan beban biaya perusahaan saat terjadi pemutusan hubungan kerja.",
+  "terbit": "2026-10-08T14:47:21+00:00"
+ },
+ {
+  "id": "NPtNGbdlQyc",
+  "title": "Presiden Prabowo Luncurkan Proyek Hilirisasi Rp180 Triliun di Malut",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik serta 11 proyek hilirisasi di kawasan Indonesia Weda Bay Industrial Park, Maluku Utara, dengan nilai investasi Rp180 triliun.",
+  "takeaway": "Proyek ini menjadi penanda kemajuan hilirisasi nikel yang menjadi andalan strategi industrialisasi pemerintah.",
+  "terbit": "2026-10-08T14:36:13+00:00"
+ },
+ {
   "id": "JI6lVeFnkWU",
   "title": "Presiden Prabowo Luncurkan Ekspor Perdana Baterai EV dan Hilirisasi",
   "category": "Industri",

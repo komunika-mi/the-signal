@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-teken-mou-dagang-digital-dan-ai-dengan-tiongkok",
+  "category": "Global",
+  "title": "Indonesia Teken [MoU] Dagang Digital dan AI dengan Tiongkok",
+  "deck": "Indonesia tampil sebagai negara kehormatan di Global Digital Trade Expo 2025 Hangzhou dan menjaring sejumlah MoU dagang digital serta kerja sama AI dengan Tiongkok.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "Perdagangan Digital",
+   "Kecerdasan Buatan",
+   "Tiongkok",
+   "Kawasan Ekonomi Khusus"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7136/indonesia-perkuat-kerja-sama-perdagangan-digital-dan-kawasan-ekonomi-khusus-pada-global-digital-trade-expo-ke-5",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "keyakinan-konsumen-tetap-optimis-kondisi-kini-melambat",
+  "category": "Makroekonomi",
+  "title": "Keyakinan Konsumen Tetap [Optimis], Kondisi Kini Melambat",
+  "deck": "Survei Bank Indonesia September 2026 mencatat Indeks Keyakinan Konsumen tetap optimis di 118,1, meski penilaian atas kondisi ekonomi saat ini justru melemah dari bulan sebelumnya.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/keyakinan-konsumen-tetap-optimis-kondisi-kini-melambat.jpg",
+  "imageV": "muz59llc",
+  "tags": [
+   "Bank Indonesia",
+   "Survei Konsumen",
+   "Keyakinan Konsumen",
+   "Ekonomi Indonesia"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821626.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "truk-free-float-turun-ke-14-82-di-bawah-batas-15",
   "category": "Aksi Korporasi",
   "title": "TRUK: Free Float Turun ke [14,82%], di Bawah Batas 15%",
@@ -706,6 +740,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f42d4f9244_48b811e85b.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bank-mandiri-bagikan-3-360-paket-ke-pekerja-rentan-di-hut-ke-28",
+  "category": "BUMN",
+  "title": "Bank Mandiri [Bagikan] 3.360 Paket ke Pekerja Rentan di HUT ke-28",
+  "deck": "Bank Mandiri membagikan 3.360 paket makanan dan minuman ke pekerja rentan di 12 wilayah dalam rangkaian HUT ke-28, melanjutkan program Livin' Mandiri Berbagi yang berjalan sejak April 2026.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/bank-mandiri-bagikan-3-360-paket-ke-pekerja-rentan-di-hut-ke-28.jpg",
+  "imageV": "muz59m0u",
+  "tags": [
+   "Bank Mandiri",
+   "Livin Mandiri Berbagi",
+   "BUMN",
+   "Danantara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471654-livin-mandiri-berbagi-rp28-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri"
  },
  {
   "slug": "livin-mandiri-berbagi-apresiasi-pekerja-rentan-di-hut-ke-28",
@@ -3503,7 +3554,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Incar Teken [IEU-CEPA] Tahun Ini",
   "deck": "Menko Airlangga menargetkan penandatanganan IEU-CEPA tahun ini, bersamaan peringatan 74 tahun hubungan diplomatik Indonesia-Jerman yang nilai dagangnya mencapai US$6,11 miliar pada 2025.",
   "date": "3 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "Indonesia-Jerman",
    "IEU-CEPA",
@@ -6425,56 +6476,6 @@ var ARTICLES = [
    "KSEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5f8ad13194_5784c9d47a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tei-2026-catat-1-533-ekshibitor-buyer-dari-113-negara",
-  "category": "Bisnis",
-  "title": "TEI 2026 Catat [1.533] Ekshibitor, Buyer dari 113 Negara",
-  "deck": "Kementerian Perdagangan mencatat buyer dari 113 negara dan 1.533 pelaku usaha lokal mendaftar untuk Trade Expo Indonesia 2026 yang digelar 14-18 Oktober di ICE BSD City, Tangerang.",
-  "date": "30 September 2026",
-  "image": "assets/img/tei-2026-catat-1-533-ekshibitor-buyer-dari-113-negara.jpg",
-  "imageV": "muo63csi",
-  "tags": [
-   "TEI 2026",
-   "Kemendag",
-   "ekspor",
-   "UMKM"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/jaring-antusiasme-menuju-tei-2026-buyer-dari-113-negara-dan-1500-ekshibitor-siap-berpartisipasi",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "adcp-tunda-kupon-obligasi-ke-2027-suspensi-belum-pulih",
-  "category": "Aksi Korporasi",
-  "title": "ADCP Tunda Kupon Obligasi ke 2027, [Suspensi] Belum Pulih",
-  "deck": "ADCP melaporkan progres rencana pemulihan ke BEI, termasuk penundaan kupon obligasi hingga Mei 2027 dan penurunan peringkat rating akibat tekanan likuiditas.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADCP",
-   "obligasi",
-   "suspensi saham",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/22ff11ef97_6fbd85c19d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ijee-liabilitas-naik-48-usai-terbit-obligasi-dan-sukuk-baru",
-  "category": "Aksi Korporasi",
-  "title": "IJEE: Liabilitas Naik 48% Usai Terbit [Obligasi] dan Sukuk Baru",
-  "deck": "Total aset IJEE naik 34,17 persen dan liabilitas melonjak 48,19 persen per Juni 2026, didorong penerbitan Obligasi III dan Sukuk II untuk ekspansi jaringan Fiber To The Home.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IJEE",
-   "obligasi",
-   "sukuk",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930204230-64454-0/FinancialStatement-2026-II-IJEE.pdf",
   "sourceLabel": "IDX"
  }
 ];

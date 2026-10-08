@@ -155,6 +155,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/471971-happy-tringversary-komitmen-pegadaian-berikan-kemudahan-solusi-finansial-dan-emas-terintegrasi-melalui-aplikasi-tring"
  },
  {
+  "slug": "direksi-totl-saleh-tambah-430-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "Direksi [TOTL] Saleh Tambah 430.000 Saham",
+  "deck": "Direksi Total Bangun Persada, Saleh, membeli 430.000 saham TOTL seharga Rp1.470 per lembar pada 8 Oktober 2026, menambah kepemilikannya menjadi 5.798.800 lembar atau 0,17% hak suara.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOTL",
+   "Total Bangun Persada",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-2960-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pgeo-revisi-laporan-dana-ipo-realisasi-capex-baru-67-6",
   "category": "Aksi Korporasi",
   "title": "PGEO Revisi Laporan Dana IPO, Realisasi [Capex] Baru 67,6%",
@@ -315,6 +331,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "arii-komisaris-tambah-saham-30-juta-lembar-hak-suara-3-11",
+  "category": "Aksi Korporasi",
+  "title": "ARII: Komisaris [Tambah] Saham 30 Juta Lembar, Hak Suara 3,11%",
+  "deck": "Komisaris Atlas Resources, Jay T Oentoro, membeli 30 juta saham ARII seharga Rp273 per saham, menaikkan hak suaranya dari 2,31 persen jadi 3,11 persen.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARII",
+   "Atlas Resources",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-9209-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "coin-revisi-laporan-dana-ipo-sisa-rp157-m-di-deposito-bank-jtrust",
   "category": "Aksi Korporasi",
   "title": "COIN Revisi Laporan Dana IPO, Sisa Rp157 M di [Deposito] Bank JTrust",
@@ -395,6 +427,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "byan-low-tuck-kwong-lepas-saham-hak-suara-anjlok-ke-9-95",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: Low Tuck Kwong Lepas Saham, Hak Suara Anjlok ke [9,95%]",
+  "deck": "Direktur Utama Bayan Resources melepas 10,07 miliar saham senilai sekitar Rp26 triliun, hak suaranya turun dari 40,15% menjadi 9,95%.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "Low Tuck Kwong",
+   "kepemilikan saham",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-8698-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-34-70",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 34,70%",
+  "deck": "Samuel Sekuritas Indonesia selaku direksi NSSS menambah 22,4 juta saham lewat transaksi repo pada 6 Oktober, hak suaranya naik dari 34,60% menjadi 34,70%.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "repo",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-2774-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tldn-koreksi-realisasi-dana-ipo-rp40-m-dialihkan-ke-cdm",
   "category": "Aksi Korporasi",
   "title": "TLDN Koreksi Realisasi Dana IPO, Rp40 M [Dialihkan] ke CDM",
@@ -443,6 +507,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "byan-elaine-low-lepas-16-6-juta-saham-bayan-resources",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: Elaine Low [Lepas] 16,6 Juta Saham Bayan Resources",
+  "deck": "Elaine Low melepas 16.666.667 saham Bayan Resources pada 7 Oktober 2026 di harga Rp2.588 per saham untuk divestasi, menurunkan hak suaranya dari 22,10% jadi 22,05%.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "kepemilikan saham",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-6571-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "byan-elaine-low-tambah-33-3-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: Elaine Low [Tambah] 33,3 Juta Saham",
+  "deck": "Elaine Low menambah 33,33 juta saham BYAN lewat pembelian tidak langsung, menaikkan hak suaranya dari 22,00% menjadi 22,10%.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "kepemilikan saham",
+   "Bayan Resources",
+   "Elaine Low"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-7889-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kdtn-rencana-akuisisi-ruby-mining-tertunda-direksi-berganti",
   "category": "Aksi Korporasi",
   "title": "KDTN: Rencana Akuisisi Ruby Mining Tertunda, [Direksi] Berganti",
@@ -456,6 +552,22 @@ var ARTICLES = [
    "Ruby Mining"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aadbda3000_2247002136.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bolt-pengendali-tambah-kepemilikan-ke-66-5-persen",
+  "category": "Aksi Korporasi",
+  "title": "BOLT: Pengendali [Tambah] Kepemilikan ke 66,5 Persen",
+  "deck": "Garuda Multi Investama, pemegang saham pengendali Garuda Metalindo (BOLT), menambah 62,5 juta lembar saham seharga Rp800 per saham, mengerek hak suaranya dari 63,83 persen menjadi 66,50 persen.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLT",
+   "Garuda Metalindo",
+   "kepemilikan saham",
+   "pemegang saham pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-5726-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -488,6 +600,22 @@ var ARTICLES = [
    "obligasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5ae4deb50e_54b9e9a6b4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "srtg-edwin-soeryadjaya-beli-325-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Edwin Soeryadjaya Beli [325.000] Saham Lagi",
+  "deck": "Komisaris SRTG Edwin Soeryadjaya membeli 325.000 saham tambahan pada 6-7 Oktober 2026, menaikkan hak suaranya menjadi 35,9804 persen.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "Edwin Soeryadjaya",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-5406-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -637,6 +765,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "film-direksi-tambah-bersih-48-4-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "FILM: Direksi [Tambah] Bersih 48,4 Juta Saham Lewat Repo",
+  "deck": "Samuel Sekuritas Indonesia, pelapor berstatus direksi FILM, mencatat penambahan bersih 48,4 juta saham lewat dua transaksi repo pada 6 Oktober 2026, hak suara naik dari 9,19% jadi 9,64%.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-8503-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "truk-free-float-turun-ke-14-82-di-bawah-batas-15",
   "category": "Aksi Korporasi",
   "title": "TRUK: Free Float Turun ke [14,82%], di Bawah Batas 15%",
@@ -650,6 +794,22 @@ var ARTICLES = [
    "Guna Timur Raya"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3000342222_560c4f96aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "trja-direksi-beli-18-100-saham-transkon-jaya-rp117",
+  "category": "Aksi Korporasi",
+  "title": "[TRJA] Direksi Beli 18.100 Saham Transkon Jaya Rp117",
+  "deck": "Direktur R Hesthi Sambodo menambah 18.100 saham TRJA pada 28 September 2026 seharga Rp117 per saham, kepemilikannya naik ke 471.900 lembar meski hak suaranya tetap 0,03 persen.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRJA",
+   "Transkon Jaya",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-9164-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -684,6 +844,22 @@ var ARTICLES = [
    "Rapat Umum Pemegang Saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe410f6e2b_cb13e6545d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpix-madura-prima-divestasi-27-5-juta-saham-hak-suara-58-24",
+  "category": "Aksi Korporasi",
+  "title": "MPIX: Madura Prima [Divestasi] 27,5 Juta Saham, Hak Suara 58,24%",
+  "deck": "Madura Prima Investama melepas 27,5 juta saham MPIX pada 5 Oktober 2026 seharga Rp75 per saham, hak suaranya turun dari 59,99% menjadi 58,24%.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPIX",
+   "kepemilikan saham",
+   "divestasi",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-7424-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -994,6 +1170,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "jecx-sarana-meditama-tambah-saham-hak-suara-ke-34-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Sarana Meditama Tambah Saham, Hak Suara ke 34% [Kepemilikan]",
+  "deck": "PT Sarana Meditama Metropolitan membeli 449.300 lembar saham JECX pada 5 Oktober 2026, mengangkat hak suaranya dari 33,98 persen menjadi 34,00 persen.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "Sarana Meditama Metropolitan",
+   "kepemilikan saham",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-2954-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "iiff-tuntas-salurkan-dana-obligasi-rp428-95-miliar-ke-3-proyek",
   "category": "Aksi Korporasi",
   "title": "IIFF Tuntas Salurkan Dana Obligasi [Rp428,95 Miliar] ke 3 Proyek",
@@ -1074,6 +1266,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cybr-direktur-jual-saham-tipis-hak-suara-tak-berubah",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direktur Jual Saham Tipis, [Hak Suara] Tak Berubah",
+  "deck": "Direktur CYBR, Doni Mora, menjual 11.500 lembar saham ITSEC Asia pada 6 Oktober 2026, setara 0,27 persen dari kepemilikannya; hak suaranya tetap 0,032 persen.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "transaksi direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-9536-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-ajak-pengusaha-as-jadi-pembeli-di-tei-2026",
   "category": "Global",
   "title": "Indonesia Ajak Pengusaha AS Jadi [Pembeli] di TEI 2026",
@@ -1124,6 +1332,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "dkft-jinsheng-mining-tambah-saham-kendali-ke-65-74",
+  "category": "Aksi Korporasi",
+  "title": "DKFT: Jinsheng Mining Tambah Saham, Kendali ke [65,74%]",
+  "deck": "PT Jinsheng Mining, pemegang saham mayoritas Central Omega Resources (DKFT), membeli 110 juta saham tambahan senilai Rp77 miliar, menaikkan hak suaranya menjadi 65,74 persen.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DKFT",
+   "Central Omega Resources",
+   "Jinsheng Mining",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-2149-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "inaf-panggil-rupslb-ubah-susunan-pengurus",
   "category": "Aksi Korporasi",
   "title": "INAF Panggil RUPSLB Ubah Susunan [Pengurus]",
@@ -1137,6 +1361,38 @@ var ARTICLES = [
    "pergantian direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7fb1cfb14f_0cc990a00a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "byan-low-tuck-kwong-lepas-33-3-juta-saham-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: Low Tuck Kwong Lepas 33,3 Juta Saham [Divestasi]",
+  "deck": "Direktur Bayan Resources Low Tuck Kwong melepas 33,3 juta saham secara tidak langsung senilai Rp11.025 per saham untuk divestasi, hak suaranya turun jadi 40,15 persen.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "Low Tuck Kwong",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-6499-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "atic-direktur-beli-40-000-saham-senilai-rp17-54-juta",
+  "category": "Aksi Korporasi",
+  "title": "ATIC: Direktur [Beli] 40.000 Saham Senilai Rp17,54 Juta",
+  "deck": "Direktur ATIC Harry Surjanto Hambali membeli 40.000 saham perusahaan senilai sekitar Rp17,54 juta, hak suaranya naik tipis dari 3,17% menjadi 3,18%.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATIC",
+   "insider trading",
+   "direksi",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-3011-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1225,6 +1481,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/471676-bpjs-kesehatan-jalin-kerja-sama-dengan-sejumlah-asuransi-kesehatan-tambahan"
  },
  {
+  "slug": "avia-direksi-robert-tanoko-tambah-1-8-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "AVIA: Direksi [Robert Tanoko] Tambah 1,8 Juta Saham",
+  "deck": "Direksi PT Avia Avian Tbk, Robert Christian Tanoko, melaporkan pembelian 1.797.300 saham tidak langsung pada 2 Oktober 2026 seharga Rp330 per saham.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "kepemilikan saham",
+   "direksi",
+   "Avia Avian"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-2396-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bltz-tegaskan-tak-ada-info-material-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "BLTZ Tegaskan Tak Ada Info Material soal [Volatilitas] Saham",
@@ -1254,6 +1526,22 @@ var ARTICLES = [
    "Pasar Modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/64668d27f6_36e9e956d1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "crsn-komisaris-sheila-maria-tiwan-jual-167-700-saham",
+  "category": "Aksi Korporasi",
+  "title": "CRSN: Komisaris Sheila Maria Tiwan [Jual] 167.700 Saham",
+  "deck": "Komisaris Carsurin, Sheila Maria Tiwan, melepas 167.700 saham CRSN senilai sekitar Rp23,5 juta, hak suaranya turun tipis dari 50,04% menjadi 50,03%.",
+  "date": "7 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRSN",
+   "Carsurin",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-2326-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6191,294 +6479,6 @@ var ARTICLES = [
    "Minyak dan Gas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24584719fb_29fe1b3eae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bata-direktur-ian-duncan-mcnab-cowe-mundur-diputuskan-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "BATA: Direktur Ian Duncan Mcnab Cowe [Mundur], Diputuskan RUPSLB",
-  "deck": "Direktur Sepatu Bata, Ian Duncan Mcnab Cowe, mengajukan pengunduran diri karena rotasi jabatan di Bata Group. Keputusan final menunggu RUPS perseroan.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BATA",
-   "direksi",
-   "pengunduran diri",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8606495df5_e8bfd497b4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "soss-bantah-ada-info-material-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "SOSS Bantah Ada Info Material soal [Volatilitas] Saham",
-  "deck": "Menjawab surat Bursa Efek Indonesia soal lonjakan transaksi, ALSOK Indonesia Services (SOSS) menyatakan tidak ada informasi tersembunyi maupun rencana aksi korporasi dalam waktu dekat.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOSS",
-   "ALSOK Indonesia",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/64e9e53c5d_fa5a79f8d2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "idea-gelar-rupslb-23-oktober-rombak-direksi-dan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "IDEA Gelar RUPSLB 23 Oktober, Rombak [Direksi] dan Komisaris",
-  "deck": "RUPSLB IDEA digelar 23 Oktober 2026, membahas pergantian direksi dan komisaris, penegasan susunan pemegang saham, serta penyesuaian anggaran dasar dengan KBLI 2025.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IDEA",
-   "RUPSLB",
-   "Direksi-Komisaris",
-   "Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2624d07aa_11ab00237d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "goto-jelaskan-volatilitas-saham-ungkap-rencana-pengurangan-modal",
-  "category": "Aksi Korporasi",
-  "title": "GOTO Jelaskan Volatilitas Saham, Ungkap Rencana [Pengurangan] Modal",
-  "deck": "GoTo menjelaskan ke BEI bahwa gejolak harga sahamnya dipicu keluarnya dari indeks MSCI dan FTSE, serta mengungkap rencana penarikan 32,19 miliar saham tresuri lewat RUPSLB 14 Oktober 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GOTO",
-   "volatilitas saham",
-   "pengurangan modal",
-   "MSCI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf4c948216_2213bd51bf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trin-jelaskan-anjlok-harga-saham-20-persen-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "TRIN Jelaskan [Anjlok] Harga Saham 20 Persen ke Bursa",
-  "deck": "Saham TRIN anjlok 20,11 persen dalam tiga hari perdagangan, tapi manajemen menyatakan tidak ada informasi material yang memicu penurunan tersebut.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIN",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/08554a31f5_0e14f5a57b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "otma-resmi-merger-ke-summit-oto-finance-badan-hukum-berakhir",
-  "category": "Aksi Korporasi",
-  "title": "OTMA Resmi [Merger] ke Summit Oto Finance, Badan Hukum Berakhir",
-  "deck": "Penggabungan PT Oto Multiartha (OTMA) ke PT Summit Oto Finance efektif 1 Oktober 2026. Seluruh aset, liabilitas, dan ekuitas beralih, status badan hukum OTMA berakhir.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OTMA",
-   "merger",
-   "Summit Oto Finance",
-   "perusahaan pembiayaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93b99ff145_ce0cf1ca2f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beer-coret-agenda-ganti-direksi-komisaris-dari-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "BEER [Coret] Agenda Ganti Direksi-Komisaris dari RUPSLB",
-  "deck": "RUPSLB BEER pada 2 Oktober 2026 kini hanya membahas penyesuaian anggaran dasar ke klasifikasi usaha KBLI 2025, setelah agenda pergantian direksi dan komisaris dibatalkan.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEER",
-   "RUPSLB",
-   "Perubahan Direksi",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/68e1184f5b_7a81a8859c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sofn-rampungkan-penggabungan-usaha-dengan-oto-multiartha",
-  "category": "Aksi Korporasi",
-  "title": "SOFN Rampungkan [Penggabungan] Usaha dengan Oto Multiartha",
-  "deck": "Penggabungan usaha SOFN dan PT Oto Multiartha resmi efektif 1 Oktober 2026, seluruh aset, liabilitas, dan ekuitas Oto Multiartha beralih ke SOFN.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOFN",
-   "penggabungan usaha",
-   "pembiayaan",
-   "Oto Multiartha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3966f4e79d_ecab75aff8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-peringkat-naik-ke-idb-obligasi-garansi-tetap-aaa",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: Peringkat [Naik] ke idB, Obligasi Garansi Tetap AAA",
-  "deck": "PEFINDO menaikkan peringkat korporasi Waskita Karya dari idCCC ke idB dengan outlook negatif, sementara obligasi dan sukuk bergaransi pemerintah tetap bertahan di idAAA.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "peringkat kredit",
-   "obligasi",
-   "PEFINDO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0442c113f5_50c8e00151.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dgwg-targetkan-laba-rp250-miliar-bangun-pabrik-sumsel",
-  "category": "Aksi Korporasi",
-  "title": "DGWG Targetkan Laba Rp250 Miliar, Bangun Pabrik [Sumsel]",
-  "deck": "Dalam public expose tahunan, manajemen DGWG memaparkan pertumbuhan pendapatan 46 persen, target laba bersih sekitar Rp250 miliar, dan investasi pabrik baru di Sumatera Selatan senilai Rp230 miliar.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGWG",
-   "public expose",
-   "capex",
-   "ekspor"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/18dd7c1308_8faa217552.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brna-rilis-rights-issue-rp372-6-miliar-dilusi-capai-42-55",
-  "category": "Aksi Korporasi",
-  "title": "BRNA Rilis Rights Issue Rp372,6 Miliar, [Dilusi] Capai 42,55%",
-  "deck": "Berlina menerbitkan hingga 543,95 juta saham baru lewat HMETD senilai Rp372,6 miliar, dan sebagian besar dananya berasal dari konversi utang pemegang saham utama, bukan uang tunai segar.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRNA",
-   "rights issue",
-   "HMETD",
-   "Berlina"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5ae0a64be0_2e81eba4b8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lmpi-rampungkan-rupslb-komisaris-independen-mundur",
-  "category": "Aksi Korporasi",
-  "title": "LMPI Rampungkan RUPSLB, Komisaris Independen [Mundur]",
-  "deck": "RUPSLB LMPI menyetujui pengunduran diri Bing Hartono Poernomosidi sebagai komisaris independen dan mengukuhkan susunan direksi-komisaris baru hingga 2029.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LMPI",
-   "RUPSLB",
-   "Komisaris",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6713392f1d_bdf8192b6e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-rombak-direksi-kursi-direktur-berkurang-jadi-empat",
-  "category": "Aksi Korporasi",
-  "title": "LPPI [Rombak] Direksi, Kursi Direktur Berkurang Jadi Empat",
-  "deck": "Lewat keputusan sirkuler pemegang saham, LPPI mengganti direksi dan komisaris sekaligus menghapus satu kursi direktur, efektif 1 Oktober 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "pergantian direksi",
-   "tata kelola perusahaan",
-   "obligasi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/94ee970ccb_dd3598e2e2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fast-perkara-pkpu-di-pn-niaga-jakarta-resmi-dicabut",
-  "category": "Aksi Korporasi",
-  "title": "FAST: Perkara [PKPU] di PN Niaga Jakarta Resmi Dicabut",
-  "deck": "Pengadilan Niaga Jakarta Pusat mengabulkan pencabutan perkara PKPU yang diajukan empat individu terhadap PT Fast Food Indonesia Tbk, pengelola KFC di Indonesia.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FAST",
-   "PKPU",
-   "Pengadilan Niaga",
-   "KFC Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c055797864_090b5fb6ef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ahap-kantongi-efektif-ojk-untuk-hmetd-rasio-7-5",
-  "category": "Aksi Korporasi",
-  "title": "AHAP Kantongi [Efektif] OJK untuk HMETD, Rasio 7:5",
-  "deck": "OJK menyatakan efektif rencana rights issue AHAP sebanyak-banyaknya 3,5 miliar saham dengan rasio 7:5, harga pelaksanaan Rp50 per saham. Jadwal final penerbitan ditetapkan 8-26 Oktober 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AHAP",
-   "rights issue",
-   "HMETD",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f384e5b8bb_d67453cbe2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btek-jawab-permintaan-bursa-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "BTEK Jawab Permintaan Bursa soal [Volatilitas] Transaksi Saham",
-  "deck": "Bumi Teknokultura Unggul (BTEK) menyatakan tidak ada informasi material yang memicu volatilitas transaksi sahamnya, menanggapi permintaan klarifikasi BEI.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTEK",
-   "Bumi Teknokultura Unggul",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/52b3ad3764_24762e5b38.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-setujui-maybank-jadi-liquidity-provider-waran-zp",
-  "category": "Aksi Korporasi",
-  "title": "BEI Setujui Maybank Jadi [Liquidity Provider] Waran ZP",
-  "deck": "Bursa Efek Indonesia menyetujui PT Maybank Sekuritas Indonesia sebagai penyedia likuiditas untuk 15 kode waran terstruktur beracuan ARTO hingga WIFI, efektif 9 Oktober 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "Maybank Sekuritas",
-   "waran terstruktur",
-   "liquidity provider"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/pabPush20261001065334/Persetujuan LP Waran Terstruktur PT Maybank Sekuritas Indonesia.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bswd-bantah-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "BSWD Bantah Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "Bank of India Indonesia Tbk (BSWD) menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menegaskan tidak ada informasi material maupun rencana aksi korporasi baru.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSWD",
-   "Bank of India Indonesia",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bd6d331aa7_b19ec69c6c.pdf",
   "sourceLabel": "IDX"
  }
 ];

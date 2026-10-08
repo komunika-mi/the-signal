@@ -4,6 +4,46 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "HRH4nb6fqGw",
+  "title": "Bisnis Event Organizer Masih Menguntungkan?",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Bisnis event organizer, khususnya event lari dan kompetisi, disebut tumbuh pesat di Indonesia dalam dua dekade terakhir dan masih menjanjikan secara bisnis.",
+  "takeaway": "Menggambarkan peluang ekonomi dari sektor jasa event yang terus berkembang di Indonesia."
+ },
+ {
+  "id": "BWSh15fhqvA",
+  "title": "Ekonom Soroti Potensi Event Internasional di Indonesia",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Ekonom memberikan pandangan soal potensi ekonomi dari penyelenggaraan event internasional, termasuk event lari, yang pasarnya tumbuh di Indonesia.",
+  "takeaway": "Perspektif ekonom membantu menilai dampak penyelenggaraan event besar terhadap perputaran ekonomi lokal."
+ },
+ {
+  "id": "ohadkCvpOS8",
+  "title": "DPR dan Pemerintah Rampungkan Perpres Tarif Ojol",
+  "category": "Bisnis",
+  "program": "Kabar Utama",
+  "summary": "DPR dan pemerintah merampungkan harmonisasi aturan ojek online, termasuk pengaturan tarif dan layanan angkutan barang.",
+  "takeaway": "Regulasi tarif ojol berpengaruh langsung pada ekosistem bisnis transportasi daring dan pendapatan mitra pengemudi."
+ },
+ {
+  "id": "SKnXRkX0WOE",
+  "title": "Kemenekraf Tanggapi Keluhan Birokrasi Perizinan Event",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Kementerian Ekonomi Kreatif merespons keluhan pelaku usaha soal birokrasi dan perizinan event yang dinilai masih menyulitkan di Indonesia.",
+  "takeaway": "Isu perizinan ini relevan bagi pelaku usaha event dan ekonomi kreatif yang hendak berekspansi."
+ },
+ {
+  "id": "zlEK4p-ku9M",
+  "title": "Pengamat Nilai Bisnis EO Masih Menggairahkan",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Pengamat menilai bisnis event organizer di Indonesia masih menjanjikan, didorong pertumbuhan event lari dan kompetisi dalam beberapa tahun terakhir.",
+  "takeaway": "Menyajikan gambaran pertumbuhan sektor jasa event bagi pembaca yang mengikuti dinamika ekonomi kreatif."
+ },
+ {
   "id": "hqZCuhdwmbU",
   "title": "Direktur IdeaRun: Mencari Sponsor Event Lari Tidak Mudah",
   "category": "Bisnis",
@@ -442,45 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Tangsel Expo 2026 digelar di Plaza Puspemkot Tangerang Selatan pada 21-22 September, menampilkan produk UMKM, ekonomi kreatif, dan teknologi daerah.",
   "takeaway": "Pameran ini relevan sebagai gambaran upaya pemerintah daerah mendorong pertumbuhan UMKM dan ekonomi kreatif di tingkat lokal."
- },
- {
-  "id": "yFRpQil4Ync",
-  "title": "RUU Pelindungan Ketenagakerjaan Ditargetkan Rampung Oktober 2026",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Utama",
-  "summary": "DPR menargetkan pembahasan RUU Pelindungan Ketenagakerjaan selesai pada Oktober 2026, di tengah aksi demonstrasi buruh yang menuntut perbaikan aturan ketenagakerjaan.",
-  "takeaway": "RUU ini berpotensi mengubah aturan hubungan kerja dan berdampak langsung pada pekerja maupun pelaku usaha."
- },
- {
-  "id": "B9eb6usHfZ0",
-  "title": "Ekonom Senior: Rokok Ilegal Beri Pengaruh Negatif",
-  "category": "Industri",
-  "program": "IBF",
-  "summary": "Ekonom senior menyoroti dampak negatif peredaran rokok ilegal terhadap industri hasil tembakau, yang menyumbang sekitar Rp200 triliun penerimaan negara dan menyerap lebih dari 440 ribu tenaga kerja.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut penerimaan negara dari cukai dan lapangan kerja di industri tembakau."
- },
- {
-  "id": "b5NJrhv0Qws",
-  "title": "DEN Minta Penindakan Non-Cukai untuk Tekan Rokok Ilegal",
-  "category": "Industri",
-  "program": "IBF",
-  "summary": "DEN menyebut peredaran rokok legal terus turun sementara rokok ilegal justru naik, sehingga penindakan di luar jalur cukai dinilai perlu diperkuat untuk menjaga industri tembakau.",
-  "takeaway": "Menyangkut kebijakan pengawasan industri tembakau yang berpengaruh langsung pada penerimaan cukai negara."
- },
- {
-  "id": "sQQV104S7mQ",
-  "title": "Rokok Ilegal Tekan Industri Rokok Legal",
-  "category": "Industri",
-  "program": "IBF tvOne",
-  "summary": "Industri hasil tembakau legal di Indonesia tertekan peredaran rokok ilegal, padahal sektor ini menyumbang hampir 10 persen penerimaan negara atau sekitar Rp200 triliun.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut penerimaan negara dan keberlangsungan tenaga kerja di industri tembakau legal."
- },
- {
-  "id": "ykJ-AWHckEQ",
-  "title": "Simalakama Bisnis Rokok di Indonesia",
-  "category": "Industri",
-  "program": "IBF tvOne",
-  "summary": "Program IBF tvOne mengulas industri hasil tembakau yang menyumbang hampir 10 persen penerimaan negara, sekitar Rp200 triliun, dan menyerap lebih dari 440 ribu tenaga kerja.",
-  "takeaway": "Angka kontribusi cukai rokok terhadap APBN dan jumlah tenaga kerja yang bergantung padanya relevan bagi pembaca yang mengikuti kebijakan fiskal dan industri manufaktur."
  }
 ];

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "proyeksi-kapitalisasi-pasar-sema-bisa-tembus-rp2-triliun",
+  "category": "Pasar Modal",
+  "title": "Proyeksi Kapitalisasi Pasar [SEMA] Bisa Tembus Rp2 Triliun",
+  "deck": "Analis memproyeksikan kapitalisasi pasar SEMA bisa tembus Rp2 triliun pada 2027, bersandar pada perannya sebagai pemasok perangkat data center CGK5 dan CGK7.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/proyeksi-kapitalisasi-pasar-sema-bisa-tembus-rp2-triliun.jpg",
+  "imageV": "muzrdh2p",
+  "tags": [
+   "SEMA",
+   "data center",
+   "AI",
+   "pasar modal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471980-market-cap-sema-miliki-potensi-tembus-rp2-triliun"
+ },
+ {
   "slug": "wajib-halal-berlaku-18-oktober-aturan-turunan-dikejar",
   "category": "Industri",
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
@@ -6463,21 +6480,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
   "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "zp-sesuaikan-syarat-waran-enrg-jelang-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan Syarat Waran ENRG Jelang [Rights Issue]",
-  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran ENRGZPCV6A dan ENRGZPCF7A menyusul rencana rights issue ENRG senilai Rp310 per saham.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "ENRG",
-   "rights issue",
-   "waran terstruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/12d4bec7b7_3ad31edc77.pdf",
-  "sourceLabel": "IDX"
  }
 ];

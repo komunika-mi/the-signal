@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "proyeksi-kapitalisasi-pasar-sema-bisa-tembus-rp2-triliun",
+  "category": "Pasar Modal",
+  "title": "Proyeksi Kapitalisasi Pasar [SEMA] Bisa Tembus Rp2 Triliun",
+  "deck": "Analis memproyeksikan kapitalisasi pasar SEMA bisa tembus Rp2 triliun pada 2027, bersandar pada perannya sebagai pemasok perangkat data center CGK5 dan CGK7.",
+  "image": "assets/img/proyeksi-kapitalisasi-pasar-sema-bisa-tembus-rp2-triliun.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T23:22:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471980-market-cap-sema-miliki-potensi-tembus-rp2-triliun",
+  "tags": [
+   "SEMA",
+   "data center",
+   "AI",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Semacom Integrated Tbk, emiten dengan kode saham SEMA, disebut berpeluang naik ke level bisnis baru setelah terlibat dalam proyek Data Center CGK5 dan CGK7. Analis pasar modal dari Menteng Kleb Institute, Fauzan Luthsa, menilai keikutsertaan SEMA sebagai pemasok Power Train Unit (PTU) dan unit SKID membuka jalan bagi perusahaan untuk masuk lebih dalam ke rantai pasok infrastruktur pusat data. Hal ini relevan bagi pembaca karena menunjukkan bagaimana pembangunan infrastruktur AI di Indonesia mulai merambah ke perusahaan pemasok komponen kelistrikan, bukan hanya pemain besar penyedia sistem utuh.",
+   "Fauzan menghitung, dengan asumsi kontrak tersebut mendorong penjualan sekitar Rp2 triliun dan perusahaan mampu menjaga margin laba bersih di angka 10 persen, laba bersih SEMA pada 2027 diperkirakan mencapai sekitar Rp200 miliar. Dengan asumsi tambahan rasio harga saham terhadap laba, yang biasa disebut PER, sebesar 10 kali, perhitungan itu menghasilkan taksiran kapitalisasi pasar sekitar Rp2 triliun. Fauzan menekankan SEMA bukan penyedia sistem kelistrikan data center secara keseluruhan, tetapi masuk pada bagian yang ia sebut cukup fundamental dalam rantai pasok tersebut.",
+   "Ekonom CORE Indonesia, Dipo Satria Ramli, menilai pertumbuhan permintaan infrastruktur digital masih akan kuat dalam tiga sampai lima tahun ke depan seiring kebutuhan AI. Menurutnya, investasi pusat data berpotensi menciptakan efek berganda bagi industri pemasok peralatan dasar seperti kelistrikan, sepanjang produknya memenuhi standar internasional. Ketua Pusat Kajian Kebijakan dan Regulasi Telekomunikasi ITB, Ian Yosef M. Edward, menambahkan bahwa pertumbuhan pemanfaatan AI akan mendorong kebutuhan kapasitas data center yang lebih besar, termasuk fasilitas dengan layanan GPU as a Service."
+  ],
+  "fotoAdegan": "Technicians assembling power distribution switchgear panels on a factory floor, cables and metal enclosures visible, bright industrial lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/01/6a6d0ba0d7e69-ilustrasi-saham_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan nilai kontrak pasti, melainkan proyeksi yang disusun analis dari tiga asumsi berturut: perkiraan penjualan sekitar Rp2 triliun, perkiraan margin laba bersih 10 persen, dan perkiraan rasio harga saham terhadap laba sebesar 10 kali. Kalau salah satu dari tiga angka itu berubah, misalnya marginnya lebih rendah atau penjualannya tidak sebesar perkiraan, hasil akhir Rp2 triliun itu ikut berubah. Yang langsung terdampak adalah pemegang saham dan calon investor SEMA, karena angka ini bisa membentuk ekspektasi pasar meski belum ada nilai kontrak resmi atau laporan keuangan yang mengonfirmasinya. Arah besarnya sejalan dengan optimisme ekonom dan akademisi bahwa permintaan data center untuk AI masih kuat tiga sampai lima tahun ke depan, tapi kepastian soal SEMA sendiri baru akan terlihat dari laporan keuangan 2027 atau pengumuman resmi nilai kontrak CGK5 dan CGK7.",
+  "imageV": "muzrdh2p"
+ },
+ {
   "slug": "wajib-halal-berlaku-18-oktober-aturan-turunan-dikejar",
   "category": "Industri",
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
@@ -28,7 +54,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah masuknya alat kesehatan kategori risiko A ke daftar produk wajib bersertifikat halal mulai 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung paling lambat 11 Oktober, hanya tiga hari dari sekarang. Pihak yang langsung terdampak adalah pelaku usaha mikro dan kecil serta produsen barang gunaan dan alat kesehatan, karena merekalah yang membutuhkan pendampingan dan sosialisasi sebelum tenggat berlaku. Jarak yang sangat sempit antara target penyelesaian aturan BPJPH dan tanggal pemberlakuan menunjukkan pemerintah kali ini mengejar kepastian jadwal, berbeda dari pola penundaan yang beberapa kali terjadi pada kebijakan wajib halal sebelumnya. Yang akan membuktikan apakah jadwal ini benar ditepati adalah terbitnya Peraturan Kepala BPJPH itu sendiri dalam beberapa hari ke depan, serta tanggapan asosiasi usaha begitu aturan tersebut disosialisasikan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ekspor-perdana-baterai-listrik-dari-iwip-investasi-rp180-triliun",
@@ -217,7 +243,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya ada di angka target: pemerintah menyasar pertumbuhan ekonomi 6 persen pada 2027, lebih rendah dari target jangka panjang 8 persen, dengan syarat investasi harus tumbuh lebih cepat daripada ekonomi itu sendiri. Syarat itu untuk sementara terlihat terpenuhi, karena investasi pada kuartal II 2026 tumbuh 7,1 persen dibanding periode sama tahun lalu, lebih cepat dari pertumbuhan ekonomi yang 5,45 persen pada enam bulan pertama 2026. Yang langsung kena dampak adalah pelaku usaha di kawasan industri luar Jawa, yang menampung 18 dari 25 kawasan industri yang dicatat pemerintah, serta industri padat karya seperti tekstil yang masih mempekerjakan sekitar 4 juta orang. Arah kebijakan ini terlihat bertahap, bukan loncatan langsung ke 8 persen, sehingga yang perlu dicermati adalah apakah laju investasi pada kuartal III dan IV 2026 bisa tetap di atas pertumbuhan ekonomi, karena itu yang akan menentukan apakah target 2027 realistis atau sekadar angka ancang-ancang.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "inet-ganti-wali-amanat-sukuk-rupsi-digelar-5-november",

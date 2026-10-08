@@ -2,6 +2,51 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "HRH4nb6fqGw",
+  "title": "Bisnis Event Organizer Masih Menguntungkan?",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Bisnis event organizer, khususnya event lari dan kompetisi, disebut tumbuh pesat di Indonesia dalam dua dekade terakhir dan masih menjanjikan secara bisnis.",
+  "takeaway": "Menggambarkan peluang ekonomi dari sektor jasa event yang terus berkembang di Indonesia.",
+  "terbit": "2026-10-08T16:23:50+00:00"
+ },
+ {
+  "id": "BWSh15fhqvA",
+  "title": "Ekonom Soroti Potensi Event Internasional di Indonesia",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Ekonom memberikan pandangan soal potensi ekonomi dari penyelenggaraan event internasional, termasuk event lari, yang pasarnya tumbuh di Indonesia.",
+  "takeaway": "Perspektif ekonom membantu menilai dampak penyelenggaraan event besar terhadap perputaran ekonomi lokal.",
+  "terbit": "2026-10-08T15:30:01+00:00"
+ },
+ {
+  "id": "ohadkCvpOS8",
+  "title": "DPR dan Pemerintah Rampungkan Perpres Tarif Ojol",
+  "category": "Bisnis",
+  "program": "Kabar Utama",
+  "summary": "DPR dan pemerintah merampungkan harmonisasi aturan ojek online, termasuk pengaturan tarif dan layanan angkutan barang.",
+  "takeaway": "Regulasi tarif ojol berpengaruh langsung pada ekosistem bisnis transportasi daring dan pendapatan mitra pengemudi.",
+  "terbit": "2026-10-08T15:28:34+00:00"
+ },
+ {
+  "id": "SKnXRkX0WOE",
+  "title": "Kemenekraf Tanggapi Keluhan Birokrasi Perizinan Event",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Kementerian Ekonomi Kreatif merespons keluhan pelaku usaha soal birokrasi dan perizinan event yang dinilai masih menyulitkan di Indonesia.",
+  "takeaway": "Isu perizinan ini relevan bagi pelaku usaha event dan ekonomi kreatif yang hendak berekspansi.",
+  "terbit": "2026-10-08T15:27:50+00:00"
+ },
+ {
+  "id": "zlEK4p-ku9M",
+  "title": "Pengamat Nilai Bisnis EO Masih Menggairahkan",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Pengamat menilai bisnis event organizer di Indonesia masih menjanjikan, didorong pertumbuhan event lari dan kompetisi dalam beberapa tahun terakhir.",
+  "takeaway": "Menyajikan gambaran pertumbuhan sektor jasa event bagi pembaca yang mengikuti dinamika ekonomi kreatif.",
+  "terbit": "2026-10-08T15:19:26+00:00"
+ },
+ {
   "id": "hqZCuhdwmbU",
   "title": "Direktur IdeaRun: Mencari Sponsor Event Lari Tidak Mudah",
   "category": "Bisnis",

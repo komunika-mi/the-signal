@@ -2,6 +2,83 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-10-08",
+  "tanggalLabel": "Kamis, 8 Oktober 2026",
+  "judul": "Koreksi Dana Emiten Berlanjut, BUMN Karya Masih Dibenahi",
+  "ringkas": "Hari ini pasar mencerna kombinasi laporan administratif yang menumpuk dan sinyal ekonomi yang bercabang. Koreksi dana publik emiten terus melebar, BUMN karya melanjutkan rapi-rapi kas dengan hasil yang belum seragam, sementara pertumbuhan ekonomi kuartal II yang solid berbenturan dengan keyakinan konsumen yang melemah untuk kondisi saat ini.",
+  "benang": [
+   {
+    "judul": "Gelombang Koreksi Laporan Dana Publik Emiten Melebar",
+    "isi": "Delapan emiten, PGEO, ANTM, COIN, BUMI, TLDN, CRAB, NTBK, dan KOCI, mengoreksi atau memperbarui laporan realisasi dana publik mereka hari ini, melanjutkan pola yang sama dengan kemarin. PGEO baru merealisasikan 67,6 persen dari Rp8,77 triliun dana IPO untuk belanja modal, COIN baru mencairkan sekitar 24 persen dari Rp207,06 miliar dana bersihnya dengan sisa Rp157 miliar mengendap di deposito, dan BUMI masih menyisakan Rp905,88 miliar dari Rp3,95 triliun dana obligasi yang belum terpakai sambil menanti akuisisi Laman Mining. ANTM pun mengoreksi laporan dana rights issue 2015 meski realisasinya sudah mencapai 95,8 persen. Pola ini konsisten: otoritas bursa makin rutin meminta emiten merapikan jejak penggunaan dana publik, bukan kejadian satu dua perusahaan saja. Yang akan menguatkan atau mematahkan arah ini adalah apakah BEI mengeluarkan aturan tertulis baru soal format pelaporan dana publik, atau pola koreksi ini berhenti dengan sendirinya pekan depan."
+   },
+   {
+    "judul": "BUMN Karya Lanjut Rapikan Kas, Hasil Belum Seragam",
+    "isi": "ADHI mengantongi opini kewajaran atas divestasi 47,18 persen saham JMJ ke SMI senilai Rp1,77 triliun, dengan selisih harga hanya 1,75 persen dari nilai pasar wajar, melanjutkan upaya BUMN karya merampingkan portofolio yang sudah disinggung kemarin. Di saat yang sama, PEFINDO menahan peringkat idB Waskita Karya dengan outlook negatif untuk setahun ke depan, tanda ruang perbaikan keuangan perusahaan itu belum dianggap solid oleh pemeringkat. Hutama Karya pun masih berurusan dengan gugatan PKPU Rp1,7 miliar terkait Pamulang Square, meski nilainya kecil dan sudah dibantah perseroan. Arahnya cukup jelas, konsolidasi BUMN karya terus berjalan, tapi dengan kecepatan yang berbeda antara satu perusahaan dengan yang lain. Yang patut dipantau adalah apakah realisasi divestasi ADHI ke SMI rampung sesuai rencana, dan apakah outlook Waskita Karya berubah pada evaluasi pemeringkatan berikutnya."
+   },
+   {
+    "judul": "Pertumbuhan Naik di Atas Kertas, Keyakinan Kini Melemah",
+    "isi": "Ekonomi tumbuh 5,29 persen pada kuartal II 2026, melanjutkan tren naik enam periode terakhir, dan pemerintah menetapkan target 6 persen untuk 2027 dengan syarat investasi tumbuh lebih cepat dari ekonomi. Namun survei konsumen Bank Indonesia untuk September menunjukkan arah yang tidak sejalan, indeks keyakinan konsumen tetap optimis di 118,1, tetapi penilaian atas kondisi ekonomi saat ini justru melemah dari 109,4 ke 107,5, dan IHSG hari ini juga turun 1,88 persen. Ada dua kemungkinan arah dari sini. Skenario pertama, pelemahan kondisi saat ini hanya koreksi sementara di tengah ekspektasi jangka menengah yang tetap kuat, dan ini lebih didukung data saat ini karena komponen ekspektasi enam bulan ke depan dalam survei yang sama justru naik. Skenario kedua, pelemahan ini jadi sinyal awal bahwa syarat investasi tumbuh lebih cepat dari ekonomi mulai sulit tercapai. Pembedanya adalah data penjualan eceran dan belanja riil yang akan dirilis Bank Indonesia awal November, serta data investasi kuartal III dari BKPM yang jadi penentu apakah target pertumbuhan 6 persen pada 2027 masih di jalur."
+   }
+  ],
+  "penutup": "Yang paling menentukan besok adalah apakah proses divestasi dan hasil pemeringkatan BUMN karya mulai bergerak searah, dan apakah data investasi kuartal III memperkuat atau melemahkan target pertumbuhan pemerintah untuk 2027.",
+  "jumlahBahan": 52,
+  "bahanSlug": [
+   "proyeksi-kapitalisasi-pasar-sema-bisa-tembus-rp2-triliun",
+   "untr-jelaskan-ke-bei-laba-anjlok-91-akibat-impairment-serd",
+   "adhi-peroleh-opini-kewajaran-atas-divestasi-saham-jmj",
+   "wajib-halal-berlaku-18-oktober-aturan-turunan-dikejar",
+   "ekspor-perdana-baterai-listrik-dari-iwip-investasi-rp180-triliun",
+   "transaksi-emas-digital-fisik-melonjak-641-persen-di-2026",
+   "pthk-hadapi-gugatan-pkpu-rp1-7-miliar-terkait-pamulang-square",
+   "koin-refloat-saham-nihil-kuartal-iii-sisa-10-62",
+   "tring-pegadaian-setahun-transaksi-tembus-rp113-triliun",
+   "direksi-totl-saleh-tambah-430-000-saham",
+   "pgeo-revisi-laporan-dana-ipo-realisasi-capex-baru-67-6",
+   "rupslb-bsml-bahas-penjaminan-aset-besar-dan-ganti-komisaris",
+   "antm-koreksi-laporan-dana-rights-issue-2015-sisa-rp203-m",
+   "blue-pastikan-tak-ada-info-material-soal-volatilitas-saham",
+   "bswd-jawab-bursa-aset-capai-rp6-99-triliun-per-september",
+   "pemerintah-tetapkan-target-pertumbuhan-6-untuk-2027",
+   "inet-ganti-wali-amanat-sukuk-rupsi-digelar-5-november",
+   "pbsa-lakukan-stock-split-saham-beredar-gandakan-jadi-6-miliar",
+   "ntbk-realisasikan-99-2-dana-ipo-rp65-99-miliar-per-juni-2026",
+   "koci-realisasikan-rp1-65-juta-dana-waran-ke-ojk",
+   "arii-komisaris-tambah-saham-30-juta-lembar-hak-suara-3-11",
+   "coin-revisi-laporan-dana-ipo-sisa-rp157-m-di-deposito-bank-jtrust",
+   "blta-bantah-kabar-aksi-korporasi-dan-investasi-klarifikasi",
+   "bcic-komisaris-independen-benny-siswanto-mundur",
+   "maha-kantongi-kontrak-hauling-batu-bara-rp2-2-triliun-hingga-2030",
+   "ltls-siapkan-dana-rp135-miliar-lunasi-obligasi-seri-b",
+   "byan-low-tuck-kwong-lepas-saham-hak-suara-anjlok-ke-9-95",
+   "nsss-direksi-tambah-saham-lewat-repo-suara-ke-34-70",
+   "tldn-koreksi-realisasi-dana-ipo-rp40-m-dialihkan-ke-cdm",
+   "wskt-pefindo-tahan-peringkat-idb-outlook-negatif-setahun",
+   "bumi-koreksi-laporan-dana-obligasi-rp906-miliar-belum-terpakai",
+   "byan-elaine-low-lepas-16-6-juta-saham-bayan-resources",
+   "byan-elaine-low-tambah-33-3-juta-saham",
+   "kdtn-rencana-akuisisi-ruby-mining-tertunda-direksi-berganti",
+   "bolt-pengendali-tambah-kepemilikan-ke-66-5-persen",
+   "cani-paparkan-defisiensi-modal-as-34-2-juta-dalam-public-expose",
+   "pefindo-pertahankan-rating-ida-toba-outlook-stabil",
+   "srtg-edwin-soeryadjaya-beli-325-000-saham-lagi",
+   "bipp-panggil-rupslb-kedua-untuk-setujui-pmthmetd",
+   "buah-bagikan-dividen-interim-rp20-miliar-rp10-saham",
+   "ekspor-furnitur-ri-capai-us-1-2-miliar-jelang-tei-ke-41",
+   "army-gelar-rupslb-rombak-direksi-imbas-laporan-keuangan-mandek",
+   "apex-resmikan-konversi-utang-ke-hsbc-saham-terdilusi-5-79",
+   "indonesia-teken-mou-dagang-digital-dan-ai-dengan-tiongkok",
+   "keyakinan-konsumen-tetap-optimis-kondisi-kini-melambat",
+   "crab-koreksi-laporan-dana-ipo-kapal-baru-terpakai-rp650-juta",
+   "bali-harga-saham-melonjak-24-8-tanpa-faktor-fundamental-baru",
+   "film-direksi-tambah-bersih-48-4-juta-saham-lewat-repo",
+   "truk-free-float-turun-ke-14-82-di-bawah-batas-15",
+   "trja-direksi-beli-18-100-saham-transkon-jaya-rp117",
+   "menko-bahlil-kaji-moratorium-ekspor-produk-nikel",
+   "fapa-jadwalkan-rupslb-16-november-simak-batas-usul-agenda"
+  ],
+  "dibuat": "2026-10-08T20:03:21.937Z"
+ },
+ {
   "tanggal": "2026-10-07",
   "tanggalLabel": "Rabu, 7 Oktober 2026",
   "judul": "BUMN Karya Benahi Kas, OJK Sorot Laporan Dana Emiten",
@@ -2462,38 +2539,5 @@ var HARIAN_ARSIP = [
    "prtl-klarifikasi-akuisisi-10-86-saham-btel"
   ],
   "dibuat": "2026-08-26T14:39:24.069Z"
- },
- {
-  "tanggal": "2026-08-25",
-  "tanggalLabel": "Selasa, 25 Agustus 2026",
-  "judul": "PLTS Capai 5 Persen, Kuorum Tentukan Nasib ADHI dan VISI",
-  "ringkas": "Program PLTS 100 gigawatt-peak baru terealisasi sekitar 5 persen dari target, sementara dua keputusan korporasi penting, restrukturisasi utang ADHI dan rencana akuisisi rumah sakit oleh VISI, sama-sama masih menunggu kuorum pemegang saham atau obligasi.",
-  "benang": [
-   {
-    "judul": "Transisi Surya: Klaim Besar, Realisasi Baru 5 Persen",
-    "isi": "Pemerintah meluncurkan tahap awal program PLTS 100 gigawatt-peak dengan 14 proyek berkapasitas 5,3 gigawatt-peak di enam provinsi, dari Bali hingga pulau terpencil di Bangka Belitung. Angka itu baru sekitar 5 persen dari target 100 gigawatt-peak yang dipatok Presiden Prabowo Subianto untuk rampung dalam tiga tahun, sementara 12,6 gigawatt pembangkit listrik nasional masih memakai solar sebagai bahan bakar dan menghabiskan 230 ribu hingga 250 ribu barel per hari. Menteri ESDM Bahlil Lahadalia mengklaim proyek ini bisa menghemat subsidi energi Rp73,9 triliun per tahun dan membuka 5,52 juta lapangan kerja, tapi angka itu adalah proyeksi dari total investasi US$73 miliar yang baru akan terkumpul dalam tiga tahun ke depan, bukan hasil yang sudah terjadi. Arah program ini jelas menuju penggantian pembangkit diesel secara bertahap, dan yang akan menguatkan atau mematahkan klaim manfaatnya adalah laporan realisasi tahap berikutnya menuju target 100 gigawatt-peak."
-   },
-   {
-    "judul": "Keputusan Korporasi Menanti Kuorum Pemegang Saham",
-    "isi": "ADHI masih menghormati suspensi saham oleh BEI setelah gagal membayar bunga obligasi Rp60,8 miliar, dan RUPO 6 Agustus yang seharusnya menyepakati skema penundaan pembayaran gagal mencapai kuorum, sehingga rapat lanjutan digeser ke 11 September 2026. Di saat bersamaan, VISI menjadwalkan RUPS independen pada 30 September 2026 untuk merestui rencana mengubah diri jadi perusahaan induk lewat akuisisi 72,91 persen saham rumah sakit HMBC di Cirebon, target yang ekuitasnya menyusut dari Rp43,2 miliar menjadi Rp30,3 miliar dalam setahun sementara utangnya membengkak. Kedua keputusan ini sama-sama digantungkan pada suara pemegang saham atau obligasi yang belum tentu berkumpul cukup banyak untuk sah mengambil keputusan. Untuk ADHI, peluang kuorum tercapai pada putaran kedua ini lebih kecil ketimbang skenario gagal lagi, mengingat percobaan pertama sudah gagal dan tenggat pembayaran sudah lewat tanpa kepastian skema baru. Yang membedakan dua skenario itu adalah tingkat kehadiran pemegang obligasi pada 11 September, sementara nasib akuisisi VISI baru akan ketahuan dari hasil RUPS independen 30 September, yang mensyaratkan suara pemegang saham tanpa kepentingan pribadi atau afiliasi dengan direksi dan komisaris."
-   }
-  ],
-  "penutup": "Yang paling menentukan besok adalah kabar lanjutan soal kuorum RUPO ADHI atau progres berikutnya dari program PLTS, sebab keduanya masih menggantung pada proses formal yang belum tuntas.",
-  "jumlahBahan": 12,
-  "bahanSlug": [
-   "bahlil-12-6-gw-listrik-ri-masih-pakai-solar",
-   "pemerintah-luncurkan-tahap-awal-plts-100-gwp-di-6-provinsi",
-   "bahlil-klaim-plts-100-gwp-buka-5-52-juta-lapangan-kerja",
-   "arko-rampungkan-akuisisi-100-saham-endorshine-energy",
-   "jpfa-komisaris-utama-syamsir-siregar-wafat",
-   "adhi-tanggapi-suspensi-saham-rupo-obligasi-gagal-kuorum",
-   "harga-emas-antam-naik-lagi-jadi-rp2-768-000-per-gram",
-   "umkm-sawit-didorong-tembus-pasar-ekspor",
-   "komunitas-trader-indonesia-kumpul-di-tradependence-day-2026",
-   "visi-ubah-bisnis-jadi-holding-rencana-kuasai-72-91-saham-hmbc",
-   "visi-siapkan-private-placement-10-saham-untuk-masuk-kesehatan",
-   "visi-jadwalkan-rups-independen-pada-30-september-2026"
-  ],
-  "dibuat": "2026-08-25T14:37:22.974Z"
  }
 ];

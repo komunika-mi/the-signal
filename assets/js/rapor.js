@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-08T03:07:56.811+07:00",
+ "diperbarui": "2026-10-09T03:06:01.461+07:00",
  "entri": [
+  {
+   "id": "2026-10-08-3",
+   "edisi": "2026-10-08",
+   "benang": "Pertumbuhan Naik di Atas Kertas, Keyakinan Kini Melemah",
+   "klaim": "Pelemahan penilaian kondisi ekonomi saat ini dalam survei konsumen BI lebih merupakan koreksi sementara di tengah ekspektasi jangka menengah yang tetap kuat, bukan sinyal awal bahwa syarat investasi tumbuh lebih cepat dari ekonomi mulai sulit tercapai, karena komponen ekspektasi enam bulan ke depan dalam survei yang sama justru naik.",
+   "penanda": "Data penjualan eceran dan belanja riil yang akan dirilis Bank Indonesia, serta data investasi kuartal III dari BKPM",
+   "tenggat": "2026-11-10",
+   "tenggatLabel": "awal November (rilis data penjualan eceran dan belanja riil BI, serta data investasi kuartal III BKPM)",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-08-2",
+   "edisi": "2026-10-08",
+   "benang": "BUMN Karya Lanjut Rapikan Kas, Hasil Belum Seragam",
+   "klaim": "Konsolidasi BUMN karya terus berjalan, tapi dengan kecepatan yang berbeda antara satu perusahaan dengan yang lain.",
+   "penanda": "Apakah realisasi divestasi ADHI ke SMI rampung sesuai rencana, dan apakah outlook Waskita Karya berubah pada evaluasi pemeringkatan berikutnya",
+   "tenggat": null,
+   "tenggatLabel": "realisasi divestasi ADHI ke SMI sesuai rencana, dan evaluasi pemeringkatan berikutnya atas Waskita Karya",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-08-1",
+   "edisi": "2026-10-08",
+   "benang": "Gelombang Koreksi Laporan Dana Publik Emiten Melebar",
+   "klaim": "Koreksi laporan realisasi dana publik oleh delapan emiten (PGEO, ANTM, COIN, BUMI, TLDN, CRAB, NTBK, KOCI) hari ini menunjukkan pola yang konsisten dan meluas, yakni otoritas bursa makin rutin meminta emiten merapikan jejak penggunaan dana publik, bukan sekadar kejadian satu dua perusahaan saja.",
+   "penanda": "Apakah BEI mengeluarkan aturan tertulis baru soal format pelaporan dana publik, atau pola koreksi ini berhenti dengan sendirinya",
+   "tenggat": "2026-10-15",
+   "tenggatLabel": "pekan depan",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-07-3",
    "edisi": "2026-10-07",

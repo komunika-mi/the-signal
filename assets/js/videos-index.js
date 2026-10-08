@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "aS2vCIurwFs",
+  "title": "Presiden Prabowo Luncurkan 11 Proyek Hilirisasi",
+  "category": "Industri",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik sekaligus 11 proyek hilirisasi di Kawasan Industri Weda Bay, Halmahera Tengah.",
+  "takeaway": "Peluncuran ini menjadi tonggak lanjutan kebijakan hilirisasi nikel yang selama ini jadi andalan strategi industri nasional."
+ },
+ {
+  "id": "nasZOFbNljY",
+  "title": "Presiden Prabowo: Hilirisasi Serap 100 Ribu Tenaga Kerja",
+  "category": "Ketenagakerjaan",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto meresmikan proyek hilirisasi senilai US$10,2 miliar atau setara Rp180 triliun di Weda Bay Industrial Park, yang diproyeksikan menyerap 100 ribu tenaga kerja.",
+  "takeaway": "Data penyerapan tenaga kerja ini penting untuk menakar dampak nyata investasi hilirisasi terhadap pasar kerja di kawasan timur Indonesia."
+ },
+ {
+  "id": "0SZ_FamdMPY",
+  "title": "Presiden Prabowo: Indonesia Tak Kolaps, Masa Depan Cerah",
+  "category": "Makroekonomi",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto menegaskan optimisme atas perekonomian Indonesia bersamaan dengan peluncuran ekspor perdana baterai kendaraan listrik dan 11 proyek hilirisasi di Weda Bay.",
+  "takeaway": "Pernyataan ini memberi konteks arah kebijakan ekonomi pemerintah di tengah sorotan terhadap kinerja hilirisasi nasional."
+ },
+ {
   "id": "42CTial3mWc",
   "title": "Setahun Koperasi Desa Merah Putih Kembang, Kulon Progo",
   "category": "UMKM",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Menteri Perdagangan Budi Santoso memantau harga sembako di Pasar Potro Jayan, Sleman, sementara harga cabai di sejumlah pasar masih bertahan tinggi.",
   "takeaway": "Pemantauan harga pangan oleh pemerintah relevan bagi pembaca yang mengikuti tren inflasi dan daya beli masyarakat."
- },
- {
-  "id": "UHgV9LrHJBk",
-  "title": "Bea Cukai Ungkap Penyelundupan Beras dan Garam",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "Bea Cukai membongkar penyelundupan beras, garam, dan pakaian bekas ke Indonesia melalui modus pemberitahuan barang yang tidak sesuai.",
-  "takeaway": "Kasus ini menyangkut pengawasan arus barang impor yang berdampak pada perlindungan pasar dalam negeri."
- },
- {
-  "id": "pI2nBFxDmuY",
-  "title": "Koperasi Desa Merah Putih Operasikan PLTS di Batam",
-  "category": "Energi",
-  "program": "Kabar Merah Putih",
-  "summary": "Koperasi Desa Merah Putih Galang Baru di Batam disiapkan untuk mengelola pembangkit listrik tenaga surya beserta sejumlah fasilitas pendukung.",
-  "takeaway": "Model koperasi energi ini menunjukkan arah baru pengelolaan energi terbarukan berbasis komunitas di daerah."
- },
- {
-  "id": "yfCDFc54QBo",
-  "title": "DPR Setujui Revisi UU Kadin Jadi RUU Inisiatif",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "DPR RI menyetujui revisi Undang-Undang Nomor 1 Tahun 1987 tentang Kamar Dagang dan Industri menjadi RUU usul inisiatif parlemen.",
-  "takeaway": "Revisi UU Kadin berpotensi mengubah tata kelola organisasi dunia usaha yang berdampak luas bagi pelaku bisnis nasional."
  }
 ];

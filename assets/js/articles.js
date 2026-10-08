@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekspor-furnitur-ri-capai-us-1-2-miliar-jelang-tei-ke-41",
+  "category": "Industri",
+  "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
+  "deck": "Furnitur dan kriya kembali jadi sorotan di Trade Expo Indonesia ke-41, didukung ekspor furnitur nasional yang sudah tembus US$1,2 miliar sepanjang 2026.",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T07:27:16.350Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bersertifikat-hijau-dan-terkurasi-furnitur-dan-kriya-berdaya-saing-tinggi-siap-tampil-di-tei-ke-41",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "TEI ke-41",
+   "furnitur",
+   "ekspor",
+   "kriya"
+  ],
+  "body": [
+   "Trade Expo Indonesia (TEI) ke-41 akan digelar 14-18 Oktober 2026 di Indonesia Convention Exhibition, BSD City, Tangerang. Tahun ini furnitur, dekorasi, dan kriya kembali ditempatkan di panggung utama pameran, dipamerkan di Hall 9 lewat kolaborasi Kementerian Perdagangan dengan Himpunan Industri Mebel dan Kerajinan Indonesia. Sebanyak 35 eksportir produk furnitur, dekorasi, dan kriya akan tampil di hall tersebut.",
+   "Para peserta membawa sertifikasi Sistem Verifikasi Legalitas Kayu dan Forest Stewardship Council, yang menjadi syarat masuk ke pasar dengan regulasi ketat seperti Uni Eropa dan aturan antideforestasinya. Produk yang dipamerkan mengandalkan bahan rotan cepat tumbuh, eceng gondok, dan bambu, dipadukan dengan anyaman serta ukiran Nusantara bergaya natural-modern. Barang-barang ini dibuat dengan tangan oleh perajin lokal, sehingga sulit ditiru produksi massal.",
+   "Selama lima hari pameran, peserta Hall 9 akan bertemu langsung dengan calon pembeli dari Amerika Serikat, Jerman, Belanda, Prancis, Jepang, Australia, Timur Tengah, India, Afrika, dan ASEAN, mulai dari importir besar, peritel global, desainer interior, hingga kontraktor proyek hotel dan properti. Di hall yang sama terdapat paviliun ekspor produk manufaktur seluas 216 meter persegi yang menampilkan 18 perusahaan terkurasi, dilengkapi simulasi interior dan eksterior ruangan serta demonstrasi pembuatan kriya oleh artisan lokal. Hall 8 pada pameran yang sama akan diisi produk fesyen dan kerajinan tangan dari Pertamina, Pelindo, Kementerian Ekonomi Kreatif, Bank Indonesia, ASEPHI, serta pemerintah daerah Jawa Barat, DKI Jakarta, dan Surakarta.",
+   "Kementerian Perdagangan mencatat ekspor furnitur nasional sepanjang 2026 telah mencapai US$1,20 miliar dengan surplus neraca dagang US$576,32 juta. Furnitur berbahan kayu menyumbang 68,1 persen dari total ekspor, sementara furnitur logam mulai menunjukkan tren positif. Ekspor ke pasar nontradisional juga melonjak, dengan pertumbuhan ke Yunani sebesar 279,4 persen dan ke Prancis 8,1 persen."
+  ],
+  "fotoAdegan": "Artisan hands weaving rattan strands into a chair frame in a sunlit workshop, finished wooden furniture pieces stacked nearby",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang konkret di balik acara ini adalah sertifikasi SVLK dan FSC, semacam surat keterangan bahwa kayu yang dipakai bukan hasil tebang hutan ilegal, yang sekarang jadi syarat wajib kalau eksportir furnitur mau masuk ke Uni Eropa karena aturan antideforestasi mereka. Ini paling berdampak ke pengusaha furnitur dan kerajinan yang mengandalkan pasar Eropa, sebab tanpa sertifikat itu barang mereka berisiko tertahan di pintu masuk. Data ekspor yang dipaparkan Kemendag menunjukkan arah pencarian pasar baru, lonjakan ekspor ke Yunani sebesar 279,4 persen dan ke Prancis 8,1 persen mengindikasikan eksportir mulai menggeser perhatian ke pasar nontradisional, kemungkinan karena permintaan di sejumlah pasar utama sedang melambat. Yang akan memastikan apakah pergeseran ini jadi tren atau cuma lonjakan sesaat adalah hasil transaksi nyata dari business matching selama TEI ke-41 berlangsung, termasuk apakah buyer dari pasar nontradisional itu benar meneken kontrak atau sekadar menjajaki."
+ },
+ {
   "slug": "indonesia-teken-mou-dagang-digital-dan-ai-dengan-tiongkok",
   "category": "Global",
   "title": "Indonesia Teken [MoU] Dagang Digital dan AI dengan Tiongkok",
@@ -28,7 +55,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret dari pertemuan ini adalah sejumlah nota kesepahaman, bukan investasi yang sudah cair. Delapan MoU dari forum bisnis di Hangzhou diperkirakan bernilai sekitar US$400 juta, mencakup proyek dari konstruksi energi baru sampai layanan keuangan dan infrastruktur digital, sementara proyeksi investasi AI senilai US$8 miliar sampai US$12 miliar adalah target kerja sama antarnegara anggota WAICO untuk periode 2026-2030, bukan komitmen dana yang sudah pasti. Pihak yang lebih dulu terdampak adalah kawasan industri Batang yang baru menjalin kesepakatan dengan kawasan industri Hangzhou, serta sekitar 5.000 pekerja Indonesia yang dijanjikan pelatihan kecerdasan buatan. Pola yang terlihat adalah tahap ini masih berupa kerangka kerja sama dan nota kesepahaman, sehingga arah sesungguhnya baru bisa dipastikan kalau kesepakatan itu diikuti kontrak investasi nyata, misalnya dimulainya pembangunan fisik di kawasan Batang atau kepastian lokasi pusat data yang diundang masuk ke Indonesia.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "keyakinan-konsumen-tetap-optimis-kondisi-kini-melambat",
@@ -10829,7 +10856,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Harga Patokan Ekspor Emas [Turun] 3,5% Awal Oktober",
   "deck": "Kemendag menurunkan Harga Patokan Ekspor dan Harga Referensi emas untuk periode 1-14 Oktober 2026, turun 3,5 persen dari paruh kedua September.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "date": "30 September 2026",
   "isoDate": "2026-09-30T12:07:27.730Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hpe-dan-hr-emas-turun-di-periode-i-oktober-2026",
@@ -12354,7 +12381,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "RI-Korea Resmikan Pusat Pelatihan [SDM] Industri Lepas Pantai",
   "deck": "Indonesia dan Korea Selatan membuka pusat pelatihan simulator untuk industri offshore plant service di Jakarta, menargetkan 240 tenaga terlatih hingga 2029.",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "date": "29 September 2026",
   "isoDate": "2026-09-29T12:38:50.060Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7118/gandeng-republik-korea-pemerintah-dorong-penguatan-sdm-industri-offshore-plant-service-melalui-kios-center",
@@ -12807,7 +12834,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Proyek JICA di Kawasan Rebana [Rampung], Investasi Tembus Rp131,6 T",
   "deck": "Kerja sama teknis dua tahun Indonesia-Jepang untuk Kawasan Rebana tuntas, menghasilkan rencana induk kawasan dan pedoman industri hijau di sekitar Pelabuhan Patimban.",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "date": "29 September 2026",
   "isoDate": "2026-09-29T10:09:50.953Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7117/tuntaskan-kerja-sama-teknis-jica-pemerintah-perkuat-sistem-koordinasi-dan-kelembagaan-pengelolaan-kawasan-rebana",
@@ -19322,7 +19349,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "RI Genjot Ekspor Furnitur, Kurangi [Ketergantungan] ke AS",
   "deck": "Pemerintah mendorong industri furnitur nasional memperluas pasar ekspor di IFFINA+ 2026, karena 60 persen ekspor masih bertumpu ke Amerika Serikat meski sektor ini surplus sejak 2021.",
-  "image": "assets/img/jalur-perakitan.jpg",
+  "image": "assets/img/mesin-tekstil.jpg",
   "date": "24 September 2026",
   "isoDate": "2026-09-24T13:37:46.332Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7112/menko-airlangga-dorong-industri-furnitur-perluas-pasar-dan-perkuat-daya-saing-global",
@@ -22754,7 +22781,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Pemerintah [Tertibkan] Impor Baju Bekas, Longgarkan Bahan Baku Tekstil",
   "deck": "Rapat terbatas dengan Presiden Prabowo Subianto menghasilkan rencana peninjauan aturan impor bahan baku tekstil dan penertiban impor pakaian bekas ilegal.",
-  "image": "assets/img/mesin-tekstil.jpg",
+  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
   "date": "22 September 2026",
   "isoDate": "2026-09-22T15:13:39.860Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7107/industri-tekstil-dan-produk-tekstil-tetap-strategis-pemerintah-dorong-penguatan-daya-saing-dan-investasi",
@@ -22783,7 +22810,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI Percepat Perjanjian Dagang [IEU-CEPA] dengan Uni Eropa",
   "deck": "Presiden Prabowo Subianto meminta penyelesaian kesepakatan dagang RI-Uni Eropa dipercepat, dengan target ratifikasi semester kedua 2026 dan berlaku awal 2027.",
-  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
+  "image": "assets/img/22-kampus-adu-gagasan-energi-di-final-nasional-pgtc.jpg",
   "date": "22 September 2026",
   "isoDate": "2026-09-22T15:13:36.929Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7108/menko-airlangga-penyelesaian-ieu-cepa-dipacu-untuk-perluas-akses-pasar-eropa",

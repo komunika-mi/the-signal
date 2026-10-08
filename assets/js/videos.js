@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "aS2vCIurwFs",
+  "title": "Presiden Prabowo Luncurkan 11 Proyek Hilirisasi",
+  "category": "Industri",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik sekaligus 11 proyek hilirisasi di Kawasan Industri Weda Bay, Halmahera Tengah.",
+  "takeaway": "Peluncuran ini menjadi tonggak lanjutan kebijakan hilirisasi nikel yang selama ini jadi andalan strategi industri nasional.",
+  "terbit": "2026-10-08T06:55:01+00:00"
+ },
+ {
+  "id": "nasZOFbNljY",
+  "title": "Presiden Prabowo: Hilirisasi Serap 100 Ribu Tenaga Kerja",
+  "category": "Ketenagakerjaan",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto meresmikan proyek hilirisasi senilai US$10,2 miliar atau setara Rp180 triliun di Weda Bay Industrial Park, yang diproyeksikan menyerap 100 ribu tenaga kerja.",
+  "takeaway": "Data penyerapan tenaga kerja ini penting untuk menakar dampak nyata investasi hilirisasi terhadap pasar kerja di kawasan timur Indonesia.",
+  "terbit": "2026-10-08T06:41:14+00:00"
+ },
+ {
+  "id": "0SZ_FamdMPY",
+  "title": "Presiden Prabowo: Indonesia Tak Kolaps, Masa Depan Cerah",
+  "category": "Makroekonomi",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto menegaskan optimisme atas perekonomian Indonesia bersamaan dengan peluncuran ekspor perdana baterai kendaraan listrik dan 11 proyek hilirisasi di Weda Bay.",
+  "takeaway": "Pernyataan ini memberi konteks arah kebijakan ekonomi pemerintah di tengah sorotan terhadap kinerja hilirisasi nasional.",
+  "terbit": "2026-10-08T06:38:14+00:00"
+ },
+ {
   "id": "42CTial3mWc",
   "title": "Setahun Koperasi Desa Merah Putih Kembang, Kulon Progo",
   "category": "UMKM",

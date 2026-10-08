@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-furnitur-ri-capai-us-1-2-miliar-jelang-tei-ke-41",
+  "category": "Industri",
+  "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
+  "deck": "Furnitur dan kriya kembali jadi sorotan di Trade Expo Indonesia ke-41, didukung ekspor furnitur nasional yang sudah tembus US$1,2 miliar sepanjang 2026.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "TEI ke-41",
+   "furnitur",
+   "ekspor",
+   "kriya"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bersertifikat-hijau-dan-terkurasi-furnitur-dan-kriya-berdaya-saing-tinggi-siap-tampil-di-tei-ke-41",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "indonesia-teken-mou-dagang-digital-dan-ai-dengan-tiongkok",
   "category": "Global",
   "title": "Indonesia Teken [MoU] Dagang Digital dan AI dengan Tiongkok",
@@ -6460,22 +6476,6 @@ var ARTICLES = [
    "going concern"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260930222757-64458-0/FinancialStatement-2025-Tahunan-CANI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asli-balas-bursa-rugi-semester-i-menyempit-43-37",
-  "category": "Aksi Korporasi",
-  "title": "ASLI Balas Bursa, [Rugi] Semester I Menyempit 43,37%",
-  "deck": "Menanggapi permintaan penjelasan Bursa, ASLI ungkap pendapatan semester I 2026 turun 19,13% jadi Rp93,02 miliar, sementara rugi bersih menyempit 43,37% menjadi Rp11,28 miliar.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASLI",
-   "konstruksi",
-   "keterbukaan informasi",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b703d44534_a3f2222083.pdf",
   "sourceLabel": "IDX"
  }
 ];

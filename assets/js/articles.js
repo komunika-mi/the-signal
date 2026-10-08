@@ -135,7 +135,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah masuknya alat kesehatan kategori risiko A ke daftar produk wajib bersertifikat halal mulai 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung paling lambat 11 Oktober, hanya tiga hari dari sekarang. Pihak yang langsung terdampak adalah pelaku usaha mikro dan kecil serta produsen barang gunaan dan alat kesehatan, karena merekalah yang membutuhkan pendampingan dan sosialisasi sebelum tenggat berlaku. Jarak yang sangat sempit antara target penyelesaian aturan BPJPH dan tanggal pemberlakuan menunjukkan pemerintah kali ini mengejar kepastian jadwal, berbeda dari pola penundaan yang beberapa kali terjadi pada kebijakan wajib halal sebelumnya. Yang akan membuktikan apakah jadwal ini benar ditepati adalah terbitnya Peraturan Kepala BPJPH itu sendiri dalam beberapa hari ke depan, serta tanggapan asosiasi usaha begitu aturan tersebut disosialisasikan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "ekspor-perdana-baterai-listrik-dari-iwip-investasi-rp180-triliun",
@@ -453,7 +453,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya ada di angka target: pemerintah menyasar pertumbuhan ekonomi 6 persen pada 2027, lebih rendah dari target jangka panjang 8 persen, dengan syarat investasi harus tumbuh lebih cepat daripada ekonomi itu sendiri. Syarat itu untuk sementara terlihat terpenuhi, karena investasi pada kuartal II 2026 tumbuh 7,1 persen dibanding periode sama tahun lalu, lebih cepat dari pertumbuhan ekonomi yang 5,45 persen pada enam bulan pertama 2026. Yang langsung kena dampak adalah pelaku usaha di kawasan industri luar Jawa, yang menampung 18 dari 25 kawasan industri yang dicatat pemerintah, serta industri padat karya seperti tekstil yang masih mempekerjakan sekitar 4 juta orang. Arah kebijakan ini terlihat bertahap, bukan loncatan langsung ke 8 persen, sehingga yang perlu dicermati adalah apakah laju investasi pada kuartal III dan IV 2026 bisa tetap di atas pertumbuhan ekonomi, karena itu yang akan menentukan apakah target 2027 realistis atau sekadar angka ancang-ancang.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "inet-ganti-wali-amanat-sukuk-rupsi-digelar-5-november",

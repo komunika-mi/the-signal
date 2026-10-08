@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "antm-koreksi-laporan-dana-rights-issue-2015-sisa-rp203-m",
+  "category": "Aksi Korporasi",
+  "title": "ANTM Koreksi Laporan [Dana] Rights Issue 2015, Sisa Rp203 M",
+  "deck": "ANTAM mengoreksi laporan realisasi dana rights issue 2015, menyisakan Rp203,29 miliar yang belum terpakai untuk modal kerja per 30 Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T20:48:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c31af9cdfb_1c51a7df4f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANTM",
+  "tags": [
+   "ANTM",
+   "rights issue",
+   "penggunaan dana",
+   "ANTAM"
+  ],
+  "body": [
+   "PT ANTAM (Persero) Tbk mengoreksi laporan realisasi penggunaan dana hasil penawaran umum rights issue tahun 2015 yang sebelumnya disampaikan 15 Juli 2026. Koreksi ini menyajikan ulang laporan dalam format dwibahasa, Indonesia dan Inggris, untuk memenuhi Peraturan OJK Nomor 40 Tahun 2025 dan Peraturan Bursa Efek Indonesia Nomor I-E. Dari rights issue tersebut, ANTAM mengumpulkan dana kotor Rp5,38 triliun dengan biaya penawaran umum Rp22,4 miliar, sehingga dana bersih yang diterima Rp5,35 triliun.",
+   "Sesuai prospektus, 65 persen dana atau Rp3,49 triliun dialokasikan untuk Proyek Pembangunan Pabrik Feronikel Haltim Tahap I, dan proyek ini tercatat sudah terealisasi penuh. Sisanya, 35 persen atau Rp1,86 triliun, direncanakan untuk modal kerja perseroan dan proyek pengembangan lain. Hingga periode 30 Juni 2026, realisasi untuk pos ini baru mencapai Rp1,66 triliun atau 30,8 persen dari total dana, sehingga ada selisih Rp203,29 miliar atau 3,78 persen dari total dana yang belum digunakan.",
+   "Sisa dana tersebut saat ini ditempatkan dalam dua instrumen pihak afiliasi, yaitu Rp130 miliar dalam bentuk deposito di Bank Syariah Indonesia dengan bunga 6,5 persen per tahun dan jangka waktu rollover satu bulan, serta Rp73,29 miliar dalam bentuk giro di Bank Rakyat Indonesia dengan imbal hasil 1,25 persen. ANTAM menargetkan sisa dana ini akan digunakan secara bertahap untuk modal kerja dan proyek pengembangan perseroan pada semester II 2026. Laporan ditandatangani oleh Arini Kasmira, Direktur Keuangan dan Manajemen Risiko, dan diajukan oleh Wisnu Danandi Haryanto, Corporate Secretary Division Head ANTAM."
+  ],
+  "fotoAdegan": "Workers in hard hats monitoring a nickel smelting furnace with steam rising, industrial conveyor belts at a mining plant, overcast daylight",
+  "takeaway": "Laporan ini netral bagi ANTAM, karena tidak ada dana baru masuk atau keluar dalam jumlah besar, dan secara keseluruhan tingkat realisasi dana rights issue sudah tinggi, mencapai 95,8 persen dari total dana yang terkumpul sembilan tahun lalu. Pos yang tersentuh di sini adalah arus kas perseroan, karena dana Rp203,29 miliar yang belum terpakai untuk modal kerja saat ini justru menganggur di deposito dan giro bank afiliasi, bukan mengalir ke operasional atau proyek pengembangan seperti rencana awal. Pelaku pasar biasanya mencermati pos semacam ini karena menunjukkan seberapa cepat perusahaan mengeksekusi rencana belanja modalnya dibanding yang dijanjikan ke investor saat penawaran umum. Yang perlu dipantau selanjutnya adalah laporan realisasi dana berikutnya, karena ANTAM menargetkan sisa dana Rp203,29 miliar itu baru akan terpakai pada semester II 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "blue-pastikan-tak-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BLUE Pastikan Tak Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Merespons permintaan penjelasan Bursa Efek Indonesia atas lonjakan transaksi saham pada 30 September-5 Oktober 2026, BLUE menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T20:19:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7bc551d465_b581b49f3e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLUE",
+  "tags": [
+   "BLUE",
+   "volatilitas transaksi",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Berkah Prima Perkasa Tbk (BLUE) menjawab permintaan penjelasan dari Bursa Efek Indonesia melalui surat nomor S-12727/BEI.PP1/10-2026 terkait volatilitas transaksi efek perseroan selama periode 30 September sampai 5 Oktober 2026. Jawaban resmi perseroan tertuang dalam surat nomor 057/BPP/DD/1026 tertanggal 7 Oktober 2026 dan disampaikan ke sistem pelaporan elektronik bursa pada 8 Oktober 2026 pukul 20.19 WIB, ditandatangani oleh Herman Tansri selaku Direktur Utama.",
+   "Dalam surat tersebut, manajemen menegaskan tidak mengetahui adanya informasi atau fakta material yang wajib diungkapkan ke publik namun belum disampaikan, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi emiten maupun Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang belum dilaporkan sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, serta tidak memiliki rencana tindakan korporasi yang telah diputuskan dan berpotensi memengaruhi status pencatatan sahamnya di bursa dalam tiga bulan mendatang.",
+   "Untuk poin keenam, perseroan menyebut telah meminta dan memperoleh konfirmasi langsung dari pemegang saham utama dan pengendali mengenai rencana kepemilikan sahamnya. Berdasarkan konfirmasi itu, selain transaksi yang sebelumnya sudah diungkapkan ke publik, tidak ada rencana transaksi material atau perubahan kepemilikan saham lain yang perlu diumumkan sampai tanggal surat tersebut."
+  ],
+  "fotoAdegan": "Blurred silhouettes of traders moving briskly across a stock exchange trading floor under soft overhead lighting",
+  "takeaway": "Secara fundamental, penjelasan ini netral karena manajemen menegaskan tidak ada informasi atau rencana korporasi yang mendasari lonjakan transaksi pada 30 September hingga 5 Oktober 2026, sehingga pergerakan harga sejauh ini tampak lebih didorong aktivitas jual beli di pasar ketimbang perubahan kinerja perusahaan. Surat semacam ini wajib diminta bursa begitu transaksi saham bergerak di luar kebiasaan dari sisi harga atau volume, dan isinya sekadar memastikan tidak ada data penting yang disembunyikan dari investor, bukan laporan yang mengubah pos keuangan seperti ekuitas, arus kas, atau laba per saham perseroan. Yang perlu dipantau selanjutnya adalah apakah transaksi saham BLUE kembali stabil setelah periode 5 Oktober 2026, dan apakah transaksi pemegang saham pengendali yang disebut perseroan sudah pernah diungkapkan sebelumnya itu benar-benar terealisasi, karena itulah satu-satunya rencana kepemilikan yang diakui perseroan sampai saat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bswd-jawab-bursa-aset-capai-rp6-99-triliun-per-september",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Jawab Bursa, [Aset] Capai Rp6,99 Triliun per September",
+  "deck": "Bank of India Indonesia menjelaskan ke BEI soal kondisi usahanya, dengan total aset Rp6,99 triliun, kredit Rp4,78 triliun, dan dana pihak ketiga Rp3,36 triliun per akhir September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T19:52:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f2bdb9adab_6535ac8a63.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSWD",
+  "tags": [
+   "BSWD",
+   "Bank of India Indonesia",
+   "perbankan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Bank of India Indonesia Tbk (BSWD) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia pada 8 Oktober 2026, menanggapi surat permintaan penjelasan dari bursa bernomor S-12718/BEI.PP3/10-2026 yang diterima perseroan pada 6 Oktober 2026. Surat tanggapan ditandatangani oleh Santoso Pribadi, Kepala Divisi Accounting & Reporting, dan menjawab sejumlah pertanyaan bursa mengenai kondisi operasional, kinerja usaha, hingga strategi perseroan ke depan.",
+   "Dalam dokumen itu, BSWD merinci jaringan kantornya per 30 September 2026 yang terdiri dari 1 kantor pusat, 8 kantor cabang, 6 kantor cabang pembantu, dan 2 kantor kas. Perseroan juga mengungkapkan total aset mencapai Rp6,99 triliun, penyaluran kredit sekitar Rp4,78 triliun, dan dana pihak ketiga (DPK) sebesar Rp3,36 triliun hingga September 2026. Bank ini menyebut telah mengantongi sertifikat keamanan siber ISO 27001:2022 sejak April 2026 dan menyatakan tidak ada pergeseran pangsa pasar yang signifikan serta belum ada dampak material dari kondisi geopolitik global terhadap operasionalnya.",
+   "Soal strategi, BSWD menyebut fokusnya saat ini adalah memperbesar penyaluran kredit secara selektif ke segmen UMKM dan korporasi, memperkuat dana murah atau CASA (simpanan giro dan tabungan berbunga rendah), serta mendorong margin bunga bersih dan pendapatan berbasis komisi. Perseroan juga mengakui masih menghadapi beberapa perkara hukum hingga saat ini, meski rincian dan dampaknya tidak tercakup dalam bagian dokumen yang tersedia untuk laporan ini."
+  ],
+  "fotoAdegan": "Interior of a small bank branch in Jakarta with customers waiting near a teller counter, warm indoor lighting, documentary style.",
+  "takeaway": "Laporan ini netral bagi BSWD karena isinya sebatas klarifikasi administratif atas permintaan bursa, menegaskan ulang tren usaha yang sudah diketahui publik lewat laporan laba sebelumnya, tanpa kabar baru yang mengubah gambaran fundamental secara berarti. Yang tersentuh di sini adalah dana pihak ketiga, yaitu total simpanan nasabah berupa giro, tabungan, dan deposito yang jadi modal bank menyalurkan kredit, serta margin bunga bersih atau NIM, selisih antara bunga yang diterima bank dari kredit dan bunga yang dibayarkan ke nasabah, yang jadi ukuran utama profitabilitas bank. Investor perlu memperhatikan keduanya karena pertumbuhan kredit tanpa diimbangi dana murah yang cukup bisa menekan biaya dana bank. Yang perlu dipantau berikutnya adalah laporan keuangan resmi kuartal III 2026 untuk melihat apakah tren pertumbuhan aset dan kredit ini benar berlanjut, serta paparan publik insidental yang sebelumnya diminta OJK dan sudah diumumkan perseroan pada 5 Oktober 2026. Soal sejumlah perkara hukum yang disebut masih dihadapi perseroan, dokumen ini tidak merinci dampaknya, sehingga keterangan lebih lanjut dari BSWD layak ditunggu.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pemerintah-tetapkan-target-pertumbuhan-6-untuk-2027",
   "category": "Makroekonomi",
   "title": "Pemerintah Tetapkan Target Pertumbuhan [6%] untuk 2027",
@@ -29,6 +107,110 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya ada di angka target: pemerintah menyasar pertumbuhan ekonomi 6 persen pada 2027, lebih rendah dari target jangka panjang 8 persen, dengan syarat investasi harus tumbuh lebih cepat daripada ekonomi itu sendiri. Syarat itu untuk sementara terlihat terpenuhi, karena investasi pada kuartal II 2026 tumbuh 7,1 persen dibanding periode sama tahun lalu, lebih cepat dari pertumbuhan ekonomi yang 5,45 persen pada enam bulan pertama 2026. Yang langsung kena dampak adalah pelaku usaha di kawasan industri luar Jawa, yang menampung 18 dari 25 kawasan industri yang dicatat pemerintah, serta industri padat karya seperti tekstil yang masih mempekerjakan sekitar 4 juta orang. Arah kebijakan ini terlihat bertahap, bukan loncatan langsung ke 8 persen, sehingga yang perlu dicermati adalah apakah laju investasi pada kuartal III dan IV 2026 bisa tetap di atas pertumbuhan ekonomi, karena itu yang akan menentukan apakah target 2027 realistis atau sekadar angka ancang-ancang.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "inet-ganti-wali-amanat-sukuk-rupsi-digelar-5-november",
+  "category": "Aksi Korporasi",
+  "title": "INET Ganti [Wali Amanat] Sukuk, RUPSI Digelar 5 November",
+  "deck": "PT Sinergi Inti Andalan Prima Tbk (INET) menggelar RUPSI pada 5 November 2026 untuk menyetujui pergantian wali amanat Sukuk Ijarah dari Bank KB Indonesia ke CIMB Niaga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T19:36:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/09df48b379_f39fafe901.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "sukuk ijarah",
+   "wali amanat",
+   "RUPSI"
+  ],
+  "body": [
+   "PT Sinergi Inti Andalan Prima Tbk (INET), melalui wali amanat PT Bank KB Indonesia Tbk, mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Sukuk Ijarah (RUPSI) untuk Sukuk Ijarah I Sinergi Inti Andalan Prima Tahun 2026. Rapat ini diadakan atas permintaan emiten melalui surat tertanggal 5 Oktober 2026, dan dijadwalkan berlangsung Kamis, 5 November 2026 pukul 14.00 WIB di Belgravia, lantai 2, The Langham, Jakarta, kawasan SCBD, Senayan.",
+   "Agenda utama RUPSI adalah persetujuan penggantian wali amanat Sukuk Ijarah dari PT Bank KB Indonesia Tbk kepada PT Bank CIMB Niaga Tbk. Agenda kedua adalah pendelegasian kewenangan kepada wali amanat baru untuk mengubah Perjanjian Perwaliamanatan serta mengambil tindakan yang diperlukan terkait perubahan itu, termasuk membuat, menandatangani, dan melaksanakan akta, perjanjian, addendum, dan dokumen lain, serta berurusan dengan notaris dalam proses perubahan tersebut. Perjanjian Perwaliamanatan yang berlaku saat ini diteken 28 Oktober 2025 dan sudah mengalami lima kali perubahan, terakhir melalui Addendum V tertanggal 28 Januari 2026.",
+   "Panggilan resmi RUPSI akan dimuat di satu surat kabar harian nasional pada Kamis, 22 Oktober 2026. Pemegang Sukuk Ijarah yang berhak hadir atau diwakili dalam rapat adalah mereka yang memegang Konfirmasi Tertulis Untuk RUPSI (KTUR) dan namanya tercatat dalam Daftar Pemegang Rekening yang diterbitkan PT Kustodian Sentral Efek Indonesia (KSEI) empat hari kerja sebelum tanggal RUPSI."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's SCBD business district glowing at dusk, light traffic passing below",
+  "takeaway": "Penggantian wali amanat ini kami nilai netral, sebab dokumen tidak menyebut alasan seperti gagal bayar atau pelanggaran perjanjian, dan prosesnya tampak sebagai mekanisme administratif lazim antara emiten dengan perbankan. Yang tersentuh di sini bukan ekuitas atau laba per saham pemegang saham, melainkan tata kelola utang sukuk, karena wali amanat bertugas mewakili kepentingan pemegang sukuk dan mengawasi agar emiten memenuhi kewajiban pembayaran imbal hasilnya, sehingga penggantian dari Bank KB Indonesia ke CIMB Niaga berarti bank yang mengawasi kewajiban utang INET ini berganti. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSI pada Kamis, 5 November 2026, yang didahului panggilan resmi di media cetak nasional pada 22 Oktober 2026, serta batas pencatatan pemegang sukuk di KSEI empat hari kerja sebelum rapat yang menentukan siapa yang berhak memberi suara.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pbsa-lakukan-stock-split-saham-beredar-gandakan-jadi-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PBSA Lakukan [Stock Split], Saham Beredar Gandakan Jadi 6 Miliar",
+  "deck": "RUPSLB PBSA menyetujui pemecahan saham rasio 1:2, nilai nominal turun dari Rp50 menjadi Rp25 per lembar, efektif pekan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T19:33:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/159fea0b68_f71f6c5e01.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PBSA",
+  "tags": [
+   "PBSA",
+   "stock split",
+   "aksi korporasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Paramita Bangun Sarana Tbk (PBSA) resmi melaksanakan pemecahan saham (stock split) dengan rasio 1:2, menyusul persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 18 September 2026. Nilai nominal saham turun dari Rp50 menjadi Rp25 per lembar, sehingga jumlah saham yang ditempatkan dan disetor perusahaan bertambah dua kali lipat, dari 3.000.000.000 lembar menjadi 6.000.000.000 lembar. Modal disetor perusahaan tetap sebesar Rp150 miliar, karena stock split hanya memecah nilai nominal tanpa menambah dana segar ke kas perusahaan.",
+   "Bursa Efek Indonesia telah menyetujui permohonan pencatatan saham tambahan hasil stock split ini melalui surat No. S-12698/BEI.PP3/10-2026 tertanggal 5 Oktober 2026. Perdagangan saham PBSA dengan nilai nominal lama berakhir pada 13 Oktober 2026 di seluruh pasar. Saham dengan nilai nominal baru mulai diperdagangkan di pasar reguler dan negosiasi pada 14 Oktober 2026, sementara di pasar tunai mulai 16 Oktober 2026.",
+   "Bagi pemegang saham yang sahamnya tersimpan dalam penitipan kolektif KSEI, pembagian saham hasil stock split mengacu pada saldo saham pada 15 Oktober 2026 sebagai tanggal pencatatan (recording date), dan saham baru akan didistribusikan lewat sub rekening efek KSEI pada 16 Oktober 2026. Perseroan menegaskan tidak ada biaya yang dibebankan kepada pemegang saham untuk proses ini, kecuali bagi pemegang Surat Kolektif Saham yang belum teregistrasi atas nama pemiliknya dan harus melengkapi dokumen bukti transaksi kepemilikan terlebih dahulu. Sejalan dengan aksi ini, modal dasar perusahaan juga disesuaikan dalam Anggaran Dasar Pasal 4, dari 9.600.000.000 lembar saham menjadi 19.200.000.000 lembar saham, dengan nilai modal dasar tetap Rp480 miliar."
+  ],
+  "fotoAdegan": "Exterior view of a mid-rise office building in central Jakarta with a construction crane in the background, daytime, busy street traffic below",
+  "takeaway": "Stock split ini netral bagi fundamental PBSA karena hanya memecah nilai saham tanpa mengubah jumlah modal disetor, aset, maupun laba perusahaan, sehingga nilai total kepemilikan setiap pemegang saham tidak berkurang maupun bertambah. Yang berubah hanya jumlah saham beredar, yang naik dua kali lipat jadi 6 miliar lembar, sehingga laba per saham otomatis terbagi dua meski laba bersih perusahaan sama saja, jadi penurunan laba per saham di laporan berikutnya tidak boleh dibaca sebagai tanda kinerja memburuk. Tujuan aksi ini murni soal harga dan transaksi saham, dengan nilai nominal yang lebih kecil maka harga per lembar di pasar ikut turun proporsional sehingga lebih terjangkau, cara yang biasa ditempuh emiten untuk menarik lebih banyak investor ritel dan memperlancar jual beli di bursa. Yang perlu dipantau adalah masa transisi pada 13 sampai 16 Oktober 2026, terutama tanggal pencatatan pemegang saham pada 15 Oktober dan dimulainya perdagangan dengan nominal baru di pasar reguler pada 14 Oktober, karena pada periode itu harga saham akan disesuaikan ulang menyusul pemecahan nominalnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ntbk-realisasikan-99-2-dana-ipo-rp65-99-miliar-per-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "NTBK Realisasikan 99,2% Dana [IPO] Rp65,99 Miliar per Juni 2026",
+  "deck": "Dari dana IPO 2022 senilai Rp66,53 miliar bersih, PT Nusatama Berkah Tbk (NTBK) sudah merealisasikan Rp65,99 miliar hingga 30 Juni 2026, menyisakan Rp532,4 juta yang ditempatkan di giro bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T19:09:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba42d6cfb8_bded9ab9b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NTBK",
+  "tags": [
+   "NTBK",
+   "IPO",
+   "penggunaan dana",
+   "POJK"
+  ],
+  "body": [
+   "PT Nusatama Berkah Tbk (NTBK) menyampaikan koreksi atas Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum untuk periode yang berakhir 30 Juni 2026, sesuai ketentuan POJK No. 40/POJK.04/2025. Dari penawaran umum saham perdana yang efektif pada 9 Februari 2022, perusahaan mengumpulkan dana kotor Rp70 miliar, dipotong biaya penawaran umum Rp3,47 miliar, sehingga hasil bersih yang bisa dipakai mencapai Rp66,53 miliar. Hingga akhir Juni 2026, NTBK telah merealisasikan penggunaan dana sebesar Rp65,99 miliar, atau 99,2 persen dari total dana bersih, menyisakan Rp532,4 juta yang belum terpakai.",
+   "Sesuai rencana dalam prospektus, dana terbesar dialokasikan untuk modal kerja sebesar Rp58,02 miliar atau 87,21 persen dari total, dan pos ini sudah terealisasi penuh sesuai rencana. Untuk pembelian mesin, rencana awal sebesar Rp4,01 miliar atau 6,02 persen, namun realisasinya baru mencapai Rp3,47 miliar atau 5,22 persen dari total dana, lebih rendah dari rencana awal. Sementara itu, dana untuk perluasan area produksi sebesar Rp4,50 miliar atau 6,77 persen sudah terealisasi penuh, sama seperti rencana prospektus.",
+   "Sisa dana Rp532,4 juta yang belum terpakai ditempatkan di rekening giro Bank Permata, pihak ketiga yang tidak terafiliasi dengan perusahaan, dengan bunga 2,5 persen per tahun selama periode penyimpanan tiga bulan. Perusahaan menyatakan sisa dana ini akan direalisasikan secara bertahap sesuai kebutuhan operasional, dengan target seluruh dana terpakai paling lambat akhir tahun 2026. Laporan ditandatangani Direktur Utama Ir Bambang Susilo dan Direktur Ir Ismu Prasetyo, serta disampaikan ke OJK oleh Corporate Secretary Dodi Sentot."
+  ],
+  "fotoAdegan": "Workers inspecting metal machinery parts on a manufacturing floor, overhead cranes and conveyor lines, industrial lighting",
+  "takeaway": "Laporan ini netral bagi NTBK karena sifatnya kepatuhan rutin dan sebagian besar dana sudah terpakai sesuai rencana, meski realisasi pembelian mesin masih tertinggal dari target. Yang tersentuh di sini adalah arus kas investasi perusahaan, karena dana IPO yang semula untuk menambah kapasitas produksi lewat mesin baru dan perluasan area ternyata porsi modal kerjanya, yaitu dana untuk kebutuhan operasional harian seperti bahan baku dan biaya produksi, jauh lebih besar dari porsi ekspansi kapasitas. Yang perlu dipantau berikutnya adalah apakah NTBK bisa menuntaskan sisa dana Rp532,4 juta dan mengejar kekurangan pembelian mesin sebelum tenggat yang mereka tetapkan sendiri, yaitu akhir tahun 2026, karena keterlambatan pada pos mesin ini bisa menunda rencana penambahan kapasitas produksi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "koci-realisasikan-rp1-65-juta-dana-waran-ke-ojk",
+  "category": "Aksi Korporasi",
+  "title": "KOCI Realisasikan Rp1,65 Juta Dana [Waran] ke OJK",
+  "deck": "KOCI melaporkan ke OJK bahwa baru 12.251 dari 450 juta Waran Seri I yang dikonversi hingga akhir 2025, menghasilkan dana Rp1,65 juta yang seluruhnya sudah dipakai untuk modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T18:59:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/50dde2ef6f_fa17fb7f70.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOCI",
+  "tags": [
+   "KOCI",
+   "Waran Seri I",
+   "penggunaan dana IPO",
+   "OJK"
+  ],
+  "body": [
+   "PT Kokoh Exa Nusantara Tbk (KOCI) menyampaikan Laporan Realisasi Penggunaan Dana Hasil Pelaksanaan Waran Seri I per 31 Desember 2025 kepada Otoritas Jasa Keuangan, sebagai pemenuhan kewajiban pelaporan dalam POJK No.40/2025 tentang Penggunaan Dana Hasil Penawaran Umum. Surat bernomor 007/KEN-LGL/X/2026 ditandatangani Direktur Utama Kan Eddy, dikirim dari kantor perusahaan di Perumahan Kokoh City, Jalan Sukolilo, Desa Tebul, Kecamatan Kwanyar, Bangkalan, pada 8 Oktober 2026.",
+   "Berdasarkan dokumen tersebut, Waran Seri I berkode KOCI-W diterbitkan pada 6 Oktober 2023 sebanyak 450.000.000 unit dengan harga pelaksanaan Rp135 per waran. Hingga akhir Desember 2025, baru 12.251 waran yang dikonversi pemegangnya menjadi saham, menghasilkan dana sebesar Rp1.653.885. Sebanyak 449.987.749 waran lainnya, atau hampir seluruh jumlah yang diterbitkan, masih belum dikonversi.",
+   "Perusahaan melaporkan bahwa seluruh dana hasil konversi waran tersebut, yakni Rp1.653.885, telah direalisasikan 100 persen sesuai rencana dalam prospektus untuk modal kerja perseroan, sehingga sisa dana hasil konversi tercatat nihil. Laporan ini disampaikan secara elektronik oleh Manager Operasional Cindy Lievia pada 8 Oktober 2026 pukul 18.59 WIB, dengan lampiran Laporan Realisasi Penggunaan Dana per 31 Desember 2025."
+  ],
+  "fotoAdegan": "A small housing construction site in a coastal village, workers laying bricks for modest homes, overcast morning light, East Java",
+  "takeaway": "Laporan ini netral bagi fundamental Kokoh Exa Nusantara, karena dana yang terealisasi dari eksekusi Waran Seri I hanya Rp1,65 juta, jumlah yang terlalu kecil untuk mengubah struktur modal maupun arus kas perusahaan secara berarti. Pos yang tersentuh adalah jumlah saham beredar, karena waran adalah hak membeli saham baru dengan harga tetap, dalam hal ini Rp135 per saham, dan setiap waran yang dikonversi menambah saham beredar sehingga berpotensi mengurangi laba per saham pemegang lama, namun dari 450 juta waran yang diterbitkan sejak Oktober 2023, baru 12.251 yang dieksekusi hingga akhir 2025, porsi yang nyaris tidak terasa. Tingkat konversi serendah ini lazim terjadi kalau harga pelaksanaan waran belum menarik dibanding harga saham di pasar, sehingga sebagian besar pemegang waran memilih belum menggunakan haknya. Yang perlu dipantau berikutnya adalah laporan realisasi periode mendatang, karena 449.987.749 waran yang masih beredar tetap berpotensi menambah jumlah saham KOCI jika dikonversi sebelum masa berlakunya berakhir.",
+  "sentimen": "netral"
  },
  {
   "slug": "coin-revisi-laporan-dana-ipo-sisa-rp157-m-di-deposito-bank-jtrust",

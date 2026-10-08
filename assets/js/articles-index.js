@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "antm-koreksi-laporan-dana-rights-issue-2015-sisa-rp203-m",
+  "category": "Aksi Korporasi",
+  "title": "ANTM Koreksi Laporan [Dana] Rights Issue 2015, Sisa Rp203 M",
+  "deck": "ANTAM mengoreksi laporan realisasi dana rights issue 2015, menyisakan Rp203,29 miliar yang belum terpakai untuk modal kerja per 30 Juni 2026.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANTM",
+   "rights issue",
+   "penggunaan dana",
+   "ANTAM"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c31af9cdfb_1c51a7df4f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "blue-pastikan-tak-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BLUE Pastikan Tak Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Merespons permintaan penjelasan Bursa Efek Indonesia atas lonjakan transaksi saham pada 30 September-5 Oktober 2026, BLUE menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLUE",
+   "volatilitas transaksi",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7bc551d465_b581b49f3e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bswd-jawab-bursa-aset-capai-rp6-99-triliun-per-september",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Jawab Bursa, [Aset] Capai Rp6,99 Triliun per September",
+  "deck": "Bank of India Indonesia menjelaskan ke BEI soal kondisi usahanya, dengan total aset Rp6,99 triliun, kredit Rp4,78 triliun, dan dana pihak ketiga Rp3,36 triliun per akhir September 2026.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSWD",
+   "Bank of India Indonesia",
+   "perbankan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f2bdb9adab_6535ac8a63.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-tetapkan-target-pertumbuhan-6-untuk-2027",
   "category": "Makroekonomi",
   "title": "Pemerintah Tetapkan Target Pertumbuhan [6%] untuk 2027",
@@ -19,6 +67,70 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7137/pemerintah-perkuat-kolaborasi-dengan-dunia-usaha-guna-mengakselerasi-pertumbuhan-ekonomi-2027",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "inet-ganti-wali-amanat-sukuk-rupsi-digelar-5-november",
+  "category": "Aksi Korporasi",
+  "title": "INET Ganti [Wali Amanat] Sukuk, RUPSI Digelar 5 November",
+  "deck": "PT Sinergi Inti Andalan Prima Tbk (INET) menggelar RUPSI pada 5 November 2026 untuk menyetujui pergantian wali amanat Sukuk Ijarah dari Bank KB Indonesia ke CIMB Niaga.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "sukuk ijarah",
+   "wali amanat",
+   "RUPSI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/09df48b379_f39fafe901.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pbsa-lakukan-stock-split-saham-beredar-gandakan-jadi-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PBSA Lakukan [Stock Split], Saham Beredar Gandakan Jadi 6 Miliar",
+  "deck": "RUPSLB PBSA menyetujui pemecahan saham rasio 1:2, nilai nominal turun dari Rp50 menjadi Rp25 per lembar, efektif pekan ini.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PBSA",
+   "stock split",
+   "aksi korporasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/159fea0b68_f71f6c5e01.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ntbk-realisasikan-99-2-dana-ipo-rp65-99-miliar-per-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "NTBK Realisasikan 99,2% Dana [IPO] Rp65,99 Miliar per Juni 2026",
+  "deck": "Dari dana IPO 2022 senilai Rp66,53 miliar bersih, PT Nusatama Berkah Tbk (NTBK) sudah merealisasikan Rp65,99 miliar hingga 30 Juni 2026, menyisakan Rp532,4 juta yang ditempatkan di giro bank.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NTBK",
+   "IPO",
+   "penggunaan dana",
+   "POJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba42d6cfb8_bded9ab9b4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "koci-realisasikan-rp1-65-juta-dana-waran-ke-ojk",
+  "category": "Aksi Korporasi",
+  "title": "KOCI Realisasikan Rp1,65 Juta Dana [Waran] ke OJK",
+  "deck": "KOCI melaporkan ke OJK bahwa baru 12.251 dari 450 juta Waran Seri I yang dikonversi hingga akhir 2025, menghasilkan dana Rp1,65 juta yang seluruhnya sudah dipakai untuk modal kerja.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOCI",
+   "Waran Seri I",
+   "penggunaan dana IPO",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/50dde2ef6f_fa17fb7f70.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "coin-revisi-laporan-dana-ipo-sisa-rp157-m-di-deposito-bank-jtrust",
@@ -6362,120 +6474,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/41a3c5dd62_32eef90b3f.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-lunasi-obligasi-dan-sukuk-rp500-75-miliar",
-  "category": "Aksi Korporasi",
-  "title": "INKP Lunasi [Obligasi] dan Sukuk Rp500,75 Miliar",
-  "deck": "Indah Kiat melunasi pokok obligasi Rp450 miliar dan sukuk mudharabah Rp50,75 miliar lewat KSEI pada 30 September 2026, sesuai jadwal jatuh tempo seri C terbitan 2021.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi",
-   "sukuk",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/74e113b473_c73e0e58c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pupuk-indonesia-naik-ke-peringkat-14-fortune-100",
-  "category": "BUMN",
-  "title": "Pupuk Indonesia [Naik] ke Peringkat 14 Fortune 100",
-  "deck": "Pupuk Indonesia naik ke peringkat 14 Fortune Indonesia 100 2026, seiring revisi aturan tata kelola pupuk bersubsidi lewat Perpres 113/2025.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/pupuk-indonesia-naik-ke-peringkat-14-fortune-100.jpg",
-  "imageV": "muozokn6",
-  "tags": [
-   "Pupuk Indonesia",
-   "BUMN",
-   "Fortune Indonesia 100",
-   "Pupuk Bersubsidi"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/889/transformasi-dorong-pupuk-indonesia-naik-peringkat-di-fortune-indonesia-100",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "itic-gelar-rupslb-9-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "ITIC Gelar RUPSLB [9 November 2026]",
-  "deck": "Indonesian Tobacco (ITIC) mengumumkan rencana RUPSLB pada 9 November 2026, dengan pencatatan pemegang saham yang berhak hadir jatuh pada 15 Oktober 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ITIC",
-   "RUPSLB",
-   "Indonesian Tobacco",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/62ad548f3f_aa76d8ab6b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cnko-suntik-modal-rp27-5-miliar-ke-dua-anak-usaha-tambang",
-  "category": "Aksi Korporasi",
-  "title": "CNKO Suntik [Modal] Rp27,5 Miliar ke Dua Anak Usaha Tambang",
-  "deck": "EBI, anak usaha CNKO, menambah modal disetor KGB Rp7,5 miliar dan TLS Rp20 miliar, mempertegas kepemilikan hingga hampir 100 persen di kedua anak usaha tambang batubara.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CNKO",
-   "transaksi afiliasi",
-   "penambahan modal",
-   "tambang batubara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/25dee984ba_5e3b5929ff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meja-tunjuk-kjpp-untuk-akuisisi-tambang-batu-bara",
-  "category": "Aksi Korporasi",
-  "title": "MEJA Tunjuk KJPP untuk Akuisisi [Tambang] Batu Bara",
-  "deck": "MEJA menunjuk KJPP DAZ & Rekan sebagai penilai independen untuk menyiapkan akuisisi PT Trimata Coal Perkasa dan penambahan lini usaha holding Perseroan.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEJA",
-   "akuisisi",
-   "KJPP",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a0cde6dd2c_e58c596da1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-buka-buyback-rp2-triliun-baru-di-tengah-pasar-bergejolak",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Buka Buyback [Rp2 Triliun] Baru di Tengah Pasar Bergejolak",
-  "deck": "United Tractors siapkan dana hingga Rp2 triliun untuk buyback saham periode 1 Oktober-31 Desember 2026, memakai aturan khusus OJK untuk pasar bergejolak.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "buyback saham",
-   "pasar modal",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a9953c358_8c9cfba7a0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penjualan-vktr-tumbuh-56-di-semester-i-2026",
-  "category": "Pasar Modal",
-  "title": "Penjualan VKTR [Tumbuh] 56% di Semester I 2026",
-  "deck": "Penjualan kendaraan listrik komersial VKTR naik 56% jadi Rp648 miliar pada semester I 2026, didukung segmen suku cadang dan laba yang membaik.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penjualan-vktr-tumbuh-56-di-semester-i-2026.jpg",
-  "imageV": "muozol38",
-  "tags": [
-   "VKTR",
-   "kendaraan listrik",
-   "emiten",
-   "e-MaaS"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470563-kinerja-penjualan-vktr-tumbuh-56-pada-semester-i-2026-e-maas-disiapkan-sebagai-enabler-adopsi-ev"
  }
 ];

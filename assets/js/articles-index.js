@@ -39,6 +39,38 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "crab-koreksi-laporan-dana-ipo-kapal-baru-terpakai-rp650-juta",
+  "category": "Aksi Korporasi",
+  "title": "CRAB koreksi laporan dana IPO, [kapal] baru terpakai Rp650 juta",
+  "deck": "Toba Surimi Industries (CRAB) mengoreksi laporan realisasi dana IPO per 30 Juni 2026; modal kerja terserap penuh, tapi dana kapal laut baru terpakai Rp650 juta dari rencana Rp3,12 miliar.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRAB",
+   "Toba Surimi Industries",
+   "penggunaan dana IPO",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/115b5f3161_3e4bef3d40.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bali-harga-saham-melonjak-24-8-tanpa-faktor-fundamental-baru",
+  "category": "Aksi Korporasi",
+  "title": "BALI: Harga Saham Melonjak 24,8%, Tanpa Faktor [Fundamental] Baru",
+  "deck": "Saham BALI ditutup naik 24,8% ke Rp1.660 pada 5 Oktober dengan volume tipis. BEI minta penjelasan, dan pemegang saham pengendali disebut sudah menambah kepemilikan sejak September.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BALI",
+   "volatilitas saham",
+   "Kharisma Cipta Towerindo",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/be0b6e242e_f28f5ab6a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "truk-free-float-turun-ke-14-82-di-bawah-batas-15",
   "category": "Aksi Korporasi",
   "title": "TRUK: Free Float Turun ke [14,82%], di Bawah Batas 15%",
@@ -6444,38 +6476,6 @@ var ARTICLES = [
    "kinerja keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b703d44534_a3f2222083.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wsbp-pefindo-turunkan-outlook-jadi-negatif-tegaskan-rating-idb",
-  "category": "Aksi Korporasi",
-  "title": "WSBP: PEFINDO Turunkan Outlook Jadi [Negatif], Tegaskan Rating idB",
-  "deck": "PEFINDO menurunkan prospek peringkat WSBP dari Stabil ke Negatif setelah emiten gagal membayar kupon ke-8 dua seri obligasi yang jatuh tempo 25 September 2026 karena kas operasional tak cukup.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "PEFINDO",
-   "obligasi",
-   "peringkat kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac2e31ed2b_582ccff488.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-93-08-saham-terkonsentrasi-di-segelintir-pemegang",
-  "category": "Aksi Korporasi",
-  "title": "BIKE: 93,08% Saham [Terkonsentrasi] di Segelintir Pemegang",
-  "deck": "BEI dan KSEI mencatat 93,08 persen saham BIKE per 28 September 2026 dikuasai sejumlah kecil pemegang saham, di tengah rentetan sorotan OJK dan Bursa terhadap emiten ini.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "kepemilikan saham",
-   "BEI",
-   "KSEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5f8ad13194_5784c9d47a.pdf",
   "sourceLabel": "IDX"
  }
 ];

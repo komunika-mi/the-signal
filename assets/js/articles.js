@@ -58,6 +58,58 @@ var ARTICLES = [
   "imageV": "muz59llc"
  },
  {
+  "slug": "crab-koreksi-laporan-dana-ipo-kapal-baru-terpakai-rp650-juta",
+  "category": "Aksi Korporasi",
+  "title": "CRAB koreksi laporan dana IPO, [kapal] baru terpakai Rp650 juta",
+  "deck": "Toba Surimi Industries (CRAB) mengoreksi laporan realisasi dana IPO per 30 Juni 2026; modal kerja terserap penuh, tapi dana kapal laut baru terpakai Rp650 juta dari rencana Rp3,12 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T13:06:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/115b5f3161_3e4bef3d40.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRAB",
+  "tags": [
+   "CRAB",
+   "Toba Surimi Industries",
+   "penggunaan dana IPO",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Toba Surimi Industries Tbk (CRAB) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil penawaran umum perdana (IPO) per 30 Juni 2026, mengoreksi laporan sebelumnya yang terbit 15 Juli 2026. IPO perusahaan pada 29 Juli 2022 menghasilkan dana Rp58,5 miliar, dengan biaya penawaran umum Rp3,27 miliar atau 5,59 persen dari total dana, sehingga dana bersih yang diterima perseroan mencapai Rp55,23 miliar.",
+   "Dari dana bersih tersebut, perseroan merencanakan mengalokasikan Rp52,1 miliar atau 94,35 persen untuk modal kerja dan Rp3,12 miliar atau 5,65 persen untuk pengadaan kapal laut. Hingga 30 Juni 2026, alokasi modal kerja sudah terpakai seluruhnya sesuai rencana. Sementara itu, dana untuk pengadaan kapal baru terealisasi Rp650 juta, sekitar seperlima dari rencana semula. Sisa dana Rp2,47 miliar masih disimpan dalam rekening giro di PT Bank Negara Indonesia (Persero) Tbk, pihak ketiga yang tidak memiliki hubungan afiliasi dengan perseroan, dengan bunga 1,9 persen per tahun.",
+   "Dari total biaya penawaran umum Rp3,27 miliar, komponen terbesar adalah biaya jasa penyelenggaraan sebesar Rp1,44 miliar, diikuti biaya jasa profesi penunjang pasar modal yang meliputi konsultan hukum, akuntan publik, dan notaris senilai sekitar Rp1,22 miliar, biaya jasa lembaga penunjang pasar modal termasuk pencatatan saham tambahan di Bursa Efek Indonesia sebesar Rp383 juta, serta biaya lain-lain seperti iklan koran dan pencetakan prospektus senilai Rp231 juta. Laporan ini ditandatangani Direktur Irsan Sudargo pada 8 Oktober 2026."
+  ],
+  "fotoAdegan": "Small wooden fishing boats docked at a quiet North Sumatra harbor at dawn, fishing nets stacked on deck, calm water",
+  "takeaway": "Laporan ini netral bagi fundamental CRAB: sebagian besar dana IPO sudah terpakai sesuai rencana untuk modal kerja, tapi rencana membeli kapal laut baru terealisasi sebagian kecil sehingga belum ada sinyal kuat ke arah mana pun. Yang tersentuh di sini adalah arus kas perseroan, yaitu aliran uang tunai yang keluar masuk kas, karena dana sisa IPO yang belum terpakai ini masih tersimpan sebagai kas di rekening bank dan baru benar-benar dikeluarkan kalau rencana pembelian kapal jalan; pelaku pasar memantau pos ini untuk melihat seberapa cepat perusahaan membelanjakan uang yang sudah dikumpulkan dari publik, bukan sekadar menyimpannya. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana periode mendatang, biasanya disampaikan tiap akhir Juni dan Desember, untuk melihat apakah sisa dana Rp2,47 miliar itu akhirnya terpakai untuk pengadaan kapal laut, termasuk soal target Desember 2027 yang disebut dalam dokumen ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bali-harga-saham-melonjak-24-8-tanpa-faktor-fundamental-baru",
+  "category": "Aksi Korporasi",
+  "title": "BALI: Harga Saham Melonjak 24,8%, Tanpa Faktor [Fundamental] Baru",
+  "deck": "Saham BALI ditutup naik 24,8% ke Rp1.660 pada 5 Oktober dengan volume tipis. BEI minta penjelasan, dan pemegang saham pengendali disebut sudah menambah kepemilikan sejak September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T12:40:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/be0b6e242e_f28f5ab6a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BALI",
+  "tags": [
+   "BALI",
+   "volatilitas saham",
+   "Kharisma Cipta Towerindo",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bali Towerindo Sentra Tbk. (BALI) memberikan penjelasan kepada Bursa Efek Indonesia setelah sahamnya mengalami lonjakan harga dan aktivitas transaksi yang tidak biasa. Pada penutupan 5 Oktober 2026, harga saham BALI naik Rp330 atau 24,8 persen, dari Rp1.330 menjadi Rp1.660. Volume transaksi pada hari itu juga naik menjadi 27.400 saham dengan 51 kali transaksi, dibandingkan 10.700 saham dengan 43 kali transaksi pada hari bursa sebelumnya. Bursa meminta penjelasan ini melalui surat nomor S-12731/BEI.PP2/10-2026 tertanggal 6 Oktober 2026.",
+   "Dalam jawabannya, Corporate Secretary BALI, Lily Hidayat, menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik maupun ke Bursa yang dapat menjelaskan lonjakan harga tersebut. Perseroan juga mengonfirmasi aktivitas pemegang saham pengendali, PT Kharisma Cipta Towerindo (KCT), yang sebelumnya telah membeli saham BALI dalam dua transaksi: pada 7 September 2026 sebanyak 4.900.000 saham dengan harga Rp1.420 per saham, yang menaikkan kepemilikan KCT dari 59,70 persen menjadi 59,82 persen, dan pada 25 September 2026 sebanyak 5.100.000 saham pada harga yang sama, menaikkan kepemilikan KCT menjadi 59,95 persen. Kedua transaksi itu disebut sudah diumumkan sebelumnya lewat keterbukaan informasi kepemilikan saham.",
+   "Perseroan menegaskan tidak memiliki rencana tindakan korporasi apa pun dalam tiga bulan mendatang, termasuk yang dapat berdampak pada status pencatatan sahamnya di Bursa. Setelah dikonfirmasi oleh Corporate Secretary, pemegang saham pengendali juga menyatakan tidak ada rencana lanjutan terkait kepemilikan sahamnya di BALI, maupun transaksi tertentu yang akan dilakukan ke depan."
+  ],
+  "fotoAdegan": "Telecommunication towers on a hillside in Bali at dusk, a technician checking equipment at the base, tropical foliage around",
+  "takeaway": "Laporan ini netral bagi BALI, sebab lonjakan harga 24,8 persen pada 5 Oktober ternyata tidak didukung informasi fundamental baru, dan pembelian saham oleh pengendali yang diungkap di sini sudah terjadi sejak September serta sudah pernah dipublikasikan. Yang tersentuh di sini adalah struktur kepemilikan dan likuiditas saham, bukan kinerja keuangan: kepemilikan KCT selaku pemegang saham pengendali naik dari 59,70 persen ke 59,95 persen, kenaikan yang kecil, sementara volume transaksi hariannya memang tipis sehingga harga mudah melonjak tajam hanya dari transaksi dalam jumlah kecil. Investor perlu waspada bahwa kenaikan harga seperti ini terjadi di saham dengan peredaran transaksi harian yang sangat terbatas, bukan dipicu aksi korporasi. Yang perlu dipantau selanjutnya adalah apakah BEI kembali mengirim surat serupa jika harga bergerak tajam lagi, serta laporan kepemilikan KCT berikutnya ke OJK, karena perseroan sendiri menyatakan tidak ada rencana aksi korporasi maupun transaksi lanjutan dari pengendali setidaknya hingga awal Januari 2027.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "truk-free-float-turun-ke-14-82-di-bawah-batas-15",
   "category": "Aksi Korporasi",
   "title": "TRUK: Free Float Turun ke [14,82%], di Bawah Batas 15%",

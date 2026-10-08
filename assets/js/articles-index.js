@@ -22,6 +22,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/471980-market-cap-sema-miliki-potensi-tembus-rp2-triliun"
  },
  {
+  "slug": "untr-jelaskan-ke-bei-laba-anjlok-91-akibat-impairment-serd",
+  "category": "Aksi Korporasi",
+  "title": "UNTR jelaskan ke BEI laba [anjlok] 91% akibat impairment SERD",
+  "deck": "United Tractors menanggapi permintaan penjelasan BEI atas laba semester I 2026 yang ambruk, impairment Rp2,75 triliun di proyek panas bumi SERD, dan kelanjutan buyback saham.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "United Tractors",
+   "SERD",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/05443d3e55_d52a7798a9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-peroleh-opini-kewajaran-atas-divestasi-saham-jmj",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Peroleh Opini [Kewajaran] atas Divestasi Saham JMJ",
+  "deck": "Penilai independen menyimpulkan harga divestasi 47,18% saham JMJ ke SMI senilai Rp1,77 triliun wajar, hanya selisih 1,75% dari nilai pasar.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "JMJ",
+   "divestasi",
+   "SMI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/061d45f8c0_da7ca0e6f8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wajib-halal-berlaku-18-oktober-aturan-turunan-dikejar",
   "category": "Industri",
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
@@ -74,6 +106,38 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "pthk-hadapi-gugatan-pkpu-rp1-7-miliar-terkait-pamulang-square",
+  "category": "Aksi Korporasi",
+  "title": "PTHK Hadapi Gugatan [PKPU] Rp1,7 Miliar Terkait Pamulang Square",
+  "deck": "PT Indoland Perkasa dan PT Tata Karya Sentosa menggugat PKPU Hutama Karya senilai Rp1,7 miliar soal service charge 51 kios di Pamulang Square. Hutama Karya membantah berutang.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTHK",
+   "PKPU",
+   "Hutama Karya",
+   "sengketa hukum"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3009b7b390_50ab50eff0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "koin-refloat-saham-nihil-kuartal-iii-sisa-10-62",
+  "category": "Aksi Korporasi",
+  "title": "KOIN: [Refloat] Saham Nihil Kuartal III, Sisa 10,62%",
+  "deck": "KOIN melaporkan nihil realisasi refloat saham pada kuartal III 2026, dengan sisa 104,16 juta lembar atau 10,62% saham belum dilepas ke publik.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOIN",
+   "refloat",
+   "free float",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3fd21fd2d1_352efaa3d5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tring-pegadaian-setahun-transaksi-tembus-rp113-triliun",
   "category": "BUMN",
   "title": "TRING! Pegadaian Setahun, Transaksi Tembus [Rp113 Triliun]",
@@ -89,6 +153,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/471971-happy-tringversary-komitmen-pegadaian-berikan-kemudahan-solusi-finansial-dan-emas-terintegrasi-melalui-aplikasi-tring"
+ },
+ {
+  "slug": "pgeo-revisi-laporan-dana-ipo-realisasi-capex-baru-67-6",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Revisi Laporan Dana IPO, Realisasi [Capex] Baru 67,6%",
+  "deck": "Pertamina Geothermal Energy mengoreksi laporan realisasi dana IPO per 30 Juni 2026: baru 67,6% dari Rp8,77 triliun terpakai, sisanya mengendap di deposito bank.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "penggunaan dana IPO",
+   "capex",
+   "Pertamina Geothermal Energy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c9ef62b3bb_868ccc0dec.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-bsml-bahas-penjaminan-aset-besar-dan-ganti-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB BSML Bahas [Penjaminan] Aset Besar dan Ganti Komisaris",
+  "deck": "RUPSLB BSML pada 30 Oktober 2026 akan membahas penjaminan sebagian besar atau seluruh aset Perseroan, perubahan susunan komisaris, dan pergantian akuntan publik.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSML",
+   "RUPSLB",
+   "transaksi material",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/342368c189_2547156219.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "antm-koreksi-laporan-dana-rights-issue-2015-sisa-rp203-m",
@@ -6384,101 +6480,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bd6d331aa7_b19ec69c6c.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-tuntaskan-divestasi-kestrel-nilai-us-814-juta",
-  "category": "Aksi Korporasi",
-  "title": "AADI Tuntaskan Divestasi Kestrel, Nilai [US$814] Juta",
-  "deck": "Anak usaha AADI, Adaro Capital Limited, resmi melepas seluruh saham dan warannya di Kestrel Coal Group ke Yancoal Australia senilai US$814,12 juta sebelum pajak.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AADI",
-   "Kestrel",
-   "Yancoal",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a9f01811a3_eed6f07040.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penumpang-ka-agustus-48-32-juta-turun-dari-juli",
-  "category": "Bisnis",
-  "title": "Penumpang KA Agustus 48,32 Juta, [Turun dari Juli]",
-  "deck": "Jumlah penumpang kereta api turun 7,29% dari Juli, tapi masih naik 6,01% dibanding Agustus tahun lalu",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
-  "tags": [
-   "bps",
-   "kereta api",
-   "transportasi",
-   "penumpang"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "neraca-dagang-ri-agustus-surplus-us-3-55-m-melonjak",
-  "category": "Perdagangan",
-  "title": "Neraca Dagang RI Agustus Surplus US$3,55 M [Melonjak]",
-  "deck": "Surplus perdagangan Agustus melonjak dari bulan sebelumnya, tapi masih lebih rendah dibanding capaian Agustus tahun lalu.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
-  "tags": [
-   "neraca dagang",
-   "bps",
-   "ekspor impor",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "impor-ri-agustus-2026-turun-ke-us-23-1-m",
-  "category": "Perdagangan",
-  "title": "Impor RI Agustus 2026 [Turun ke US$23,1 M]",
-  "deck": "Nilai impor Indonesia Agustus 2026 tercatat 23,1 miliar dolar AS, turun dari rekor Juli tapi masih lebih tinggi dibanding Agustus tahun lalu.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
-  "tags": [
-   "impor",
-   "bps",
-   "perdagangan",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "ekspor-agustus-tembus-us-26-6-miliar",
-  "category": "Perdagangan",
-  "title": "Ekspor Agustus Tembus [US$26,6 Miliar]",
-  "deck": "Nilai ekspor Indonesia naik 1,51% dari Juli dan naik 6,72% dibanding Agustus tahun lalu.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
-  "tags": [
-   "ekspor",
-   "bps",
-   "perdagangan",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "inflasi-september-2026-jadi-0-30",
-  "category": "Makroekonomi",
-  "title": "Inflasi September 2026 Jadi [0,30%]",
-  "deck": "Harga barang dan jasa pada September 2026 naik 0,30% dibanding bulan sebelumnya, tertinggi sejak Juni yang mencatat 0,44%.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/koperasi-desa.jpg",
-  "tags": [
-   "inflasi",
-   "bps",
-   "ekonomi",
-   "harga"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
  }
 ];

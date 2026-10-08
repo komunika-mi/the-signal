@@ -29,6 +29,59 @@ var ARTICLES = [
   "imageV": "muzrdh2p"
  },
  {
+  "slug": "untr-jelaskan-ke-bei-laba-anjlok-91-akibat-impairment-serd",
+  "category": "Aksi Korporasi",
+  "title": "UNTR jelaskan ke BEI laba [anjlok] 91% akibat impairment SERD",
+  "deck": "United Tractors menanggapi permintaan penjelasan BEI atas laba semester I 2026 yang ambruk, impairment Rp2,75 triliun di proyek panas bumi SERD, dan kelanjutan buyback saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T23:19:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/05443d3e55_d52a7798a9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "United Tractors",
+   "SERD",
+   "buyback saham"
+  ],
+  "body": [
+   "PT United Tractors Tbk (UNTR) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan BEI nomor S-12723/BEI.PP1/10-2026 tanggal 6 Oktober 2026 atas laporan keuangan semester I 2026. Dalam surat bernomor 369/CORP/9981/X/26 yang ditandatangani Corporate Secretary Ari Setiyawan, perseroan menjelaskan pendapatan bersih turun 14,9 persen menjadi Rp58,29 triliun dari sebelumnya Rp68,53 triliun, terutama akibat penjualan alat berat kepada pihak ketiga yang turun 30,9 persen menjadi Rp12,87 triliun dan penjualan emas serta mineral lain yang turun 66,2 persen menjadi Rp2,36 triliun. Laba bruto ikut tergerus 30 persen menjadi Rp10,51 triliun, sementara laba periode berjalan anjlok 91,1 persen menjadi Rp742,2 miliar dan laba yang menjadi hak pemegang saham turun 88,2 persen menjadi Rp956,3 miliar.",
+   "Penurunan laba juga dipicu kerugian penurunan nilai sebesar Rp2,75 triliun atas investasi dan pinjaman pemegang saham di ventura bersama PT Supreme Energy Rantau Dedap (SERD), proyek panas bumi yang digenggam lewat anak usaha PT Energia Prima Nusantara. Nilai investasi saham Rp1,47 triliun dan pinjaman subordinasi Rp1,28 triliun kini tercatat nihil, setelah kapasitas produksi SERD merosot dari target awal sekitar 90 megawatt menjadi hanya 50-55 megawatt pada Juni 2026 akibat penurunan steam generation dari sumur produksi. Perseroan menegaskan pembayaran bunga dan pokok pinjaman SERD ke kreditur tetap terpenuhi hingga 30 Juni 2026, realisasi penyerahan listrik ke pembeli mendekati 100 persen dari kewajiban kontraktual 90 persen, dan belum ada potensi arus kas keluar tambahan dari komitmen yang berlaku.",
+   "Soal buyback saham, UNTR melaporkan penambahan saham tresuri 79.635.500 lembar senilai Rp2,22 triliun pada Januari-Juni 2026, disusul 57.974.100 lembar senilai Rp1,42 triliun pada Juli-September 2026 atau setara 71,2 persen dari anggaran periode itu yang sebesar Rp2,0 triliun. Perseroan menyebut realisasi yang tidak penuh karena pembelian hanya dilakukan pada level harga yang dianggap wajar di tengah volatilitas pasar. Buyback tahap berikutnya senilai hingga Rp2,0 triliun direncanakan berjalan Oktober-Desember 2026 memakai kas internal, yang jika terserap penuh membawa total buyback 2026 ke sekitar Rp5,6 triliun dan porsi saham tresuri ke sekitar 10,1 persen dari modal ditempatkan dan disetor.",
+   "Perseroan juga mengungkap tarif pajak efektif melonjak ke 62,9 persen dari 24,0 persen tahun sebelumnya, akibat biaya yang tidak bisa dikurangkan secara fiskal, termasuk penurunan nilai pinjaman dan investasi SERD serta pembayaran Persetujuan Pemanfaatan Kawasan Hutan di tambang nikel Stargate. Di sisi kas, posisi kas dan setara kas turun 29,8 persen menjadi Rp18,65 triliun dan arus kas operasi anjlok 79,1 persen menjadi Rp2,38 triliun, sementara total pinjaman bank naik 53,5 persen menjadi Rp25,02 triliun dengan porsi jatuh tempo dalam setahun membengkak menjadi Rp14,14 triliun dari Rp9,68 triliun. Perseroan menyatakan seluruh financial covenant atas fasilitas pinjaman masih terpenuhi tanpa pelanggaran atau waiver, dan pelunasan utang jatuh tempo akan memakai kombinasi dana internal dan eksternal."
+  ],
+  "fotoAdegan": "Large yellow mining excavators and dump trucks parked at an open pit coal mine under an overcast sky, dusty haul roads",
+  "takeaway": "Laporan ini condong negatif bagi UNTR karena laba bersih ambruk 91 persen dan ada kerugian penurunan nilai penuh Rp2,75 triliun atas proyek panas bumi SERD yang gagal memenuhi target produksi, ditambah arus kas operasi yang menciut tajam di tengah utang bank yang melonjak. Yang tersentuh adalah ekuitas, karena investasi dan pinjaman ke SERD kini bernilai nihil di buku perseroan, serta arus kas, yang menunjukkan uang tunai dari kegiatan usaha inti menyusut jauh lebih cepat dari biasanya seiring beban bunga dan utang yang membesar lantaran pinjaman bank jatuh tempo setahun ke depan naik ke Rp14,14 triliun. Pasar memperhatikan pos-pos ini karena ekuitas yang tergerus mengurangi bantalan modal perseroan, sementara arus kas dan utang jatuh tempo menentukan ruang gerak keuangan UNTR ke depan, meski buyback saham yang terus berjalan mengurangi jumlah saham beredar sehingga bisa menopang laba per saham. Yang perlu dipantau berikutnya adalah realisasi buyback saham hingga Rp2,0 triliun pada Oktober-Desember 2026, proyeksi kenaikan penjualan emas PTAR menjadi 45 ribu ons di semester kedua dari hanya 15 ribu ons di semester pertama, serta perkembangan upaya pemulihan kapasitas produksi SERD yang akan terus dievaluasi perseroan di setiap periode pelaporan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "adhi-peroleh-opini-kewajaran-atas-divestasi-saham-jmj",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Peroleh Opini [Kewajaran] atas Divestasi Saham JMJ",
+  "deck": "Penilai independen menyimpulkan harga divestasi 47,18% saham JMJ ke SMI senilai Rp1,77 triliun wajar, hanya selisih 1,75% dari nilai pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T22:49:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/061d45f8c0_da7ca0e6f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "JMJ",
+   "divestasi",
+   "SMI"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk mengoreksi keterbukaan informasi sebelumnya tertanggal 7 Oktober 2026 mengenai rencana divestasi 47,18% saham PT Jasamarga Jogja Solo (JMJ) kepada PT Sarana Multi Infrastruktur (SMI), dengan melampirkan laporan penilaian dan laporan pendapat kewajaran dari KJPP Toto Suharto dan Rekan. Penilai independen tersebut menghitung nilai pasar 47,18% saham JMJ per 30 Juni 2026 sebesar Rp1.735.493.178.533, sementara harga transaksi yang disepakati Rp1.765.816.000.000. Selisih keduanya hanya 1,75 persen, masih di bawah batas toleransi 7,5 persen yang diatur POJK Nomor 35/2020, sehingga penilai menyimpulkan transaksi ini wajar.",
+   "Nilai transaksi tersebut setara 53,71 persen dari ekuitas Adhi Karya yang tercatat Rp3.287.184.026.527 berdasarkan laporan keuangan audited interim per 30 Juni 2026, jauh di atas ambang 20 persen yang membuat transaksi ini masuk kategori material menurut POJK Nomor 17/2020. Objek yang dilepas adalah 1.714.808 lembar saham JMJ yang akan beralih seluruhnya ke SMI. Dalam dokumen disebutkan bahwa sejak adendum perjanjian pemegang saham pada 2025, kendali operasional dan keuangan JMJ sudah sepenuhnya berada di tangan PT Jasa Marga (Persero) Tbk, sehingga kepemilikan Adhi Karya di JMJ selama ini bersifat investasi tanpa pengendalian. Manajemen menyebut langkah ini sebagai bagian dari penataan portofolio agar Perseroan kembali fokus pada bisnis inti konstruksi.",
+   "Dari sisi proyeksi keuangan, dokumen menyebutkan ekuitas Adhi Karya pada 2031 diperkirakan mencapai Rp4,65 triliun jika transaksi ini berjalan, dibanding hanya Rp4,47 triliun bila saham JMJ tetap dipegang. Laba bersih pada tahun yang sama juga diproyeksikan lebih tinggi, Rp577,33 miliar dengan transaksi dibanding Rp504,44 miliar tanpa transaksi. Perjanjian jual beli bersyarat (PJBB) telah ditandatangani pada 30 September 2026, dan penyelesaian transaksi ditargetkan paling lambat 30 November 2026, dengan syarat antara lain konfirmasi dari Badan Pengatur Jalan Tol (BPJT), permohonan ketersediaan dana dari JMJ ke Direktur Jenderal Bina Marga untuk pembebasan tanah ruas tol Solo-Yogyakarta-NYIA Kulon Progo, serta persetujuan RUPS Perseroan."
+  ],
+  "fotoAdegan": "Aerial view of an elevated toll road stretching through green rice fields in Central Java, morning haze, distant construction cranes.",
+  "takeaway": "Laporan ini saya nilai positif bagi ADHI, karena penilai independen memastikan harga divestasi hanya berselisih 1,75 persen dari nilai pasar wajar saham JMJ, dan proyeksi keuangan menunjukkan ekuitas serta laba bersih Perseroan justru lebih tinggi jika transaksi ini berjalan dibanding jika dibatalkan. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang yang jadi milik pemegang saham, karena proyeksi menunjukkan ekuitas naik ke Rp4,65 triliun pada 2031 dengan transaksi ini dibanding hanya Rp4,47 triliun bila ADHI tetap memegang saham JMJ. Laba bersih juga diproyeksikan lebih tinggi, Rp577,33 miliar dengan transaksi dibanding Rp504,44 miliar tanpa transaksi pada tahun yang sama, sehingga pelaku pasar biasanya membaca ini sebagai tanda bahwa melepas aset tol yang padat modal memang membantu memperkuat keuangan Perseroan. Yang perlu dipantau berikutnya adalah persetujuan RUPSLB serta pemenuhan syarat dari BPJT dan Ditjen Bina Marga, karena penyelesaian transaksi ditargetkan paling lambat 30 November 2026.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "wajib-halal-berlaku-18-oktober-aturan-turunan-dikejar",
   "category": "Industri",
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
@@ -113,6 +166,58 @@ var ARTICLES = [
   "imageV": "muzoh85q"
  },
  {
+  "slug": "pthk-hadapi-gugatan-pkpu-rp1-7-miliar-terkait-pamulang-square",
+  "category": "Aksi Korporasi",
+  "title": "PTHK Hadapi Gugatan [PKPU] Rp1,7 Miliar Terkait Pamulang Square",
+  "deck": "PT Indoland Perkasa dan PT Tata Karya Sentosa menggugat PKPU Hutama Karya senilai Rp1,7 miliar soal service charge 51 kios di Pamulang Square. Hutama Karya membantah berutang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T22:05:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3009b7b390_50ab50eff0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTHK",
+  "tags": [
+   "PTHK",
+   "PKPU",
+   "Hutama Karya",
+   "sengketa hukum"
+  ],
+  "body": [
+   "PT Hutama Karya (Persero) menghadapi permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) yang diajukan oleh PT Indoland Perkasa dan PT Tata Karya Sentosa ke Pengadilan Niaga Jakarta Pusat dengan nomor perkara 302/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst. Permohonan itu terdaftar pada 2 Oktober 2026 dan diterima perusahaan pada 6 Oktober 2026. Hutama Karya baru menyampaikan keterbukaan informasi ke Otoritas Jasa Keuangan pada 8 Oktober 2026, ditandatangani Direktur Keuangan dan Manajemen Risiko Eka Setya Adrianto dan Executive Vice President Hamdani.",
+   "Gugatan itu berkaitan dengan tagihan service charge atau biaya pengelolaan gedung senilai Rp1.698.300.825 atas Proyek Pamulang Square. Tagihan ini terkait 51 unit kios yang sebelumnya diperoleh Hutama Karya dari PT Indoland Perkasa melalui mekanisme set off, yakni kios itu dijadikan pembayaran atas utang Indoland Perkasa kepada Hutama Karya berdasarkan Perjanjian Penyelesaian Utang.",
+   "Hutama Karya menolak klaim tersebut dan menegaskan tidak memiliki utang apa pun kepada kedua pemohon. Perusahaan berdalih bahwa kewajiban membayar service charge atas 51 kios itu masih menjadi tanggung jawab Indoland Perkasa selama unit belum terjual atau disewakan, dan belum ada perjanjian lanjutan sesuai syarat dalam Perjanjian Pengikatan Jual Beli. Hutama Karya menyebut permohonan PKPU itu bersifat ilusif dan mengada-ada tanpa dasar yang jelas, serta akan menyiapkan gugatan balik terhadap Indoland Perkasa dengan tuduhan wanprestasi karena gagal menjual 51 unit kios dalam jangka waktu dua tahun yang disyaratkan. Dalam laporannya, Hutama Karya menyatakan permohonan ini tidak berdampak signifikan terhadap kegiatan operasional maupun kondisi keuangan perusahaan."
+  ],
+  "fotoAdegan": "Rows of shuttered retail kiosks along a quiet shopping arcade corridor, dusty shutters, soft indoor daylight",
+  "takeaway": "Saya menilai laporan ini netral bagi fundamental Hutama Karya, karena nilai gugatan Rp1,7 miliar tergolong sangat kecil untuk BUMN konstruksi sebesar ini, dan perusahaan punya dasar argumen yang jelas untuk membantah klaim tersebut. Yang tersentuh di sini sebenarnya pos arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena jika PKPU ini nantinya dikabulkan pengadilan, Hutama Karya bisa dipaksa membayar atau merundingkan skema pelunasan dalam waktu terbatas. Tapi karena jumlahnya kecil dan perusahaan menyiapkan perlawanan hukum serta rencana gugatan balik, risiko ke arus kas ini masih jauh dari mengkhawatirkan. Yang perlu dipantau selanjutnya adalah bagaimana Pengadilan Niaga Jakarta Pusat memutus permohonan PKPU dengan nomor perkara 302/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst, dan apakah Hutama Karya benar-benar melanjutkan rencana gugatan balik terhadap PT Indoland Perkasa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "koin-refloat-saham-nihil-kuartal-iii-sisa-10-62",
+  "category": "Aksi Korporasi",
+  "title": "KOIN: [Refloat] Saham Nihil Kuartal III, Sisa 10,62%",
+  "deck": "KOIN melaporkan nihil realisasi refloat saham pada kuartal III 2026, dengan sisa 104,16 juta lembar atau 10,62% saham belum dilepas ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T22:00:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3fd21fd2d1_352efaa3d5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOIN",
+  "tags": [
+   "KOIN",
+   "refloat",
+   "free float",
+   "pemegang saham"
+  ],
+  "body": [
+   "Kokoh Inti Arebama Tbk (KOIN) melaporkan kepada Bursa Efek Indonesia realisasi pengalihan kembali saham, atau refloat, untuk periode Juli hingga September 2026. Laporan ini merupakan kelanjutan dari kewajiban refloat yang timbul setelah penawaran tender wajib berakhir pada 3 Agustus 2011, saat kepemilikan saham pengendali mencapai 971.902.488 lembar atau 99,09% dari total saham KOIN.",
+   "Pada periode pelaporan kuartal ini, tidak ada saham yang direalisasikan untuk dilepas kembali ke publik, alias realisasi pengalihan sebesar 0%. Secara akumulatif sejak program refloat berjalan, pengendali baru melepas 8,47% dari total saham perusahaan ke publik. Dengan demikian, masih ada 104.161.503 lembar saham, setara 10,62% dari total saham beredar, yang belum direfloat hingga akhir September 2026.",
+   "Jumlah pemegang saham KOIN tercatat sebanyak 885 pihak pada akhir periode berjalan. Laporan ini ditandatangani oleh Corporate Secretary KOIN, Ng Novalia, dan dipublikasikan pada 8 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a corporate shareholders meeting hall, soft morning light, blurred presentation screens in the distance",
+  "takeaway": "Laporan ini netral bagi fundamental KOIN sebab murni memenuhi kewajiban pelaporan rutin, tanpa transaksi saham baru yang mengubah kas atau laba perusahaan, meski progres pelepasan sahamnya berhenti total pada kuartal ini. Yang tersentuh di sini bukan laba atau arus kas, melainkan proporsi saham yang beredar di tangan publik, biasa disebut free float, yakni porsi saham yang bisa diperjualbelikan bebas di luar genggaman pengendali. Semakin besar free float, semakin likuid saham itu diperdagangkan dan semakin kecil pula hak suara pengendali dalam rapat pemegang saham, sebaliknya macetnya refloat berarti hak suara pengendali tetap dominan dan saham yang tersedia untuk publik tetap terbatas. Yang perlu dipantau adalah laporan realisasi periode berikutnya, Oktober hingga Desember 2026, untuk melihat apakah pengendali kembali melepas saham guna menuntaskan sisa 10,62% yang masih wajib direfloat, atau proses ini terus mandek seperti kuartal ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tring-pegadaian-setahun-transaksi-tembus-rp113-triliun",
   "category": "BUMN",
   "title": "TRING! Pegadaian Setahun, Transaksi Tembus [Rp113 Triliun]",
@@ -138,6 +243,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Perubahan konkret di balik angka ulang tahun ini adalah konsolidasi: layanan Pegadaian Digital dan Pegadaian Digital Syariah yang sejak 2017 berjalan terpisah, pada 2025 digabung jadi satu aplikasi bernama TRING!. Yang terdampak adalah nasabah lama pengguna gadai dan tabungan emas Pegadaian, yang kini harus bertransaksi lewat satu pintu aplikasi, sekaligus nasabah baru yang disasar lewat tabungan emas mulai Rp10 ribu. Penambahan fitur deposito emas, tempat saldo tabungan emas bisa ditempatkan untuk jangka waktu tertentu, menunjukkan arah Pegadaian mendorong nasabah menyimpan emas lebih lama ketimbang sekadar jual beli cepat, mirip pola deposito di perbankan yang membuat dana mengendap lebih panjang. Yang belum terlihat dari data ini adalah skema imbal hasil dan tenor deposito emas tersebut, serta target pertumbuhan nasabah di tahun kedua, dua hal yang akan menentukan apakah strategi ini benar memperdalam pemakaian aplikasi atau sekadar menambah angka pengguna terdaftar.",
   "imageV": "muzoh8o1"
+ },
+ {
+  "slug": "pgeo-revisi-laporan-dana-ipo-realisasi-capex-baru-67-6",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Revisi Laporan Dana IPO, Realisasi [Capex] Baru 67,6%",
+  "deck": "Pertamina Geothermal Energy mengoreksi laporan realisasi dana IPO per 30 Juni 2026: baru 67,6% dari Rp8,77 triliun terpakai, sisanya mengendap di deposito bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T21:15:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c9ef62b3bb_868ccc0dec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "penggunaan dana IPO",
+   "capex",
+   "Pertamina Geothermal Energy"
+  ],
+  "body": [
+   "PT Pertamina Geothermal Energy Tbk (PGEO) menyampaikan koreksi atas Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum per 30 Juni 2026, merevisi laporan sebelumnya yang terbit 23 Juli 2026. Dari total dana yang dihimpun saat IPO pada 16 Februari 2023 sebesar Rp9,06 triliun, setelah dipotong biaya penawaran umum Rp283,11 miliar, dana bersih yang bisa direalisasikan adalah Rp8,77 triliun. Hingga akhir Juni 2026, atau lebih dari tiga tahun sejak pencatatan saham, perusahaan baru merealisasikan Rp5,93 triliun atau 67,6 persen dari dana tersebut, sehingga masih menyisakan Rp2,84 triliun yang belum terpakai.",
+   "Rincian penggunaan dana menunjukkan laju yang tidak merata antar pos. Untuk belanja modal perluasan kapasitas dari wilayah kerja panas bumi yang sudah beroperasi, guna memenuhi permintaan pelanggan yang sudah ada, perusahaan sudah merealisasikan Rp3,11 triliun dari rencana Rp3,98 triliun, atau sekitar 78 persen. Sementara pos belanja modal untuk mengantisipasi permintaan pasar baru baru terealisasi Rp425,98 miliar dari rencana Rp2,39 triliun, setara 17,8 persen saja, jauh tertinggal dibanding pos lainnya. Pos belanja modal untuk pengembangan kemampuan digital, analitik, dan manajemen reservoir sudah praktis tuntas, terealisasi Rp869,16 miliar dari rencana yang hampir sama persis. Di luar capex, perusahaan juga telah melunasi seluruh pembayaran sebagian Facilities Agreement tertanggal 23 Juni 2021 senilai Rp1,53 triliun kepada Mandated Lead Arrangers, kreditur sindikasi awal, dan PT Bank Mandiri (Persero) Tbk sebagai facility agent, sesuai rencana 15 persen dari dana bersih.",
+   "Sisa dana Rp2,84 triliun yang belum digunakan saat ini ditempatkan dalam bentuk deposito dan giro di tiga rekening bank. Sebanyak Rp1,79 triliun ditempatkan sebagai deposito di Bank BJB dengan bunga 4,65 persen per triwulan, sementara Rp870,02 miliar dan Rp182,25 miliar masing-masing ditempatkan sebagai giro di Bank BRI dengan bunga 4,15 persen dan 5 persen. Dua penempatan di Bank BRI tercatat sebagai transaksi dengan pihak afiliasi karena keduanya berada dalam grup BUMN."
+  ],
+  "fotoAdegan": "Steam billowing from geothermal power plant cooling towers on a forested volcanic hillside, overcast morning light",
+  "takeaway": "Laporan realisasi dana IPO ini netral bagi PGEO: ini laporan rutin wajib yang tidak mengubah struktur permodalan, tapi sinyalnya bercampur, pembayaran utang sindikasi sudah tuntas 100 persen sementara belanja modal untuk pasar baru baru terserap 17,8 persen setelah lebih dari tiga tahun sejak IPO. Pos yang tersentuh adalah arus kas investasi dan beban bunga, pelunasan utang sindikasi berarti beban bunga pinjaman itu sudah berhenti mengalir keluar, sementara dana Rp2,84 triliun yang belum terpakai masih mengendap sebagai deposito dan memberi pendapatan bunga sekitar 4 sampai 5 persen, bukan dari hasil ekspansi bisnis. Yang perlu dipantau adalah laporan realisasi dana berikutnya, biasanya disampaikan tiap semester sesuai POJK No. 40 Tahun 2025, untuk melihat apakah pos ekspansi pasar baru mulai terserap lebih cepat atau dana itu terus tertahan di bank.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rupslb-bsml-bahas-penjaminan-aset-besar-dan-ganti-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB BSML Bahas [Penjaminan] Aset Besar dan Ganti Komisaris",
+  "deck": "RUPSLB BSML pada 30 Oktober 2026 akan membahas penjaminan sebagian besar atau seluruh aset Perseroan, perubahan susunan komisaris, dan pergantian akuntan publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T21:05:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/342368c189_2547156219.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSML",
+  "tags": [
+   "BSML",
+   "RUPSLB",
+   "transaksi material",
+   "komisaris"
+  ],
+  "body": [
+   "PT Bintang Samudera Mandiri Lines Tbk (BSML) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa pada Jumat, 30 Oktober 2026 pukul 10.00 WIB di Royal Kuningan Hotel, Jakarta Selatan. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan di Bursa Efek Indonesia tanggal 7 Oktober 2026.",
+   "Rapat ini membawa tiga agenda. Pertama, persetujuan perubahan susunan Direksi dan/atau Dewan Komisaris Perseroan, dengan alasan formal bahwa pengangkatan dan pemberhentian pengurus memang wewenang RUPS sesuai Pasal 111 UUPT dan POJK Nomor 33/2014. Kedua, perubahan atas keputusan RUPS Tahunan 24 Juni 2026 tentang penunjukan Akuntan Publik atau Kantor Akuntan Publik untuk mengaudit laporan keuangan tahun buku 2026, sekaligus melimpahkan wewenang penunjukan auditor pengganti kepada Dewan Komisaris, termasuk kewenangan menetapkan besaran imbalan jasa audit, dengan mempertimbangkan rekomendasi Komite Audit.",
+   "Agenda ketiga adalah persetujuan atas penjaminan sebagian besar atau seluruh aset Perseroan. Dalam penjelasannya, dokumen menyebut bahwa nilai transaksi penjualan atas keseluruhan aset tersebut telah memenuhi kategori transaksi material di atas 50 persen sesuai POJK Nomor 17/2020 tentang Transaksi Material, sehingga wajib memperoleh persetujuan RUPS. Dokumen tidak mencantumkan nilai rupiah, pihak lawan transaksi, atau aset spesifik yang dimaksud. Pemegang saham yang sahamnya berada dalam penitipan kolektif KSEI dapat memberi kuasa elektronik lewat eASY.KSEI hingga paling lambat 29 Oktober 2026 pukul 09.00 WIB, satu hari kerja sebelum rapat."
+  ],
+  "fotoAdegan": "Cargo ship anchored near a busy Indonesian port at dawn, tugboats alongside, loading cranes in soft haze",
+  "takeaway": "Laporan ini condong negatif karena inti agendanya adalah menjadikan sebagian besar, bahkan bisa seluruh, aset Perseroan sebagai jaminan dalam transaksi berskala material di atas 50 persen, sementara penjelasan dalam dokumen justru menyebut soal nilai penjualan keseluruhan aset itu, jadi ada kerancuan apakah asetnya digadaikan atau dijual, dan keduanya sama-sama mengurangi kendali Perseroan atas aset intinya. Yang tersentuh di sini adalah aset dan ekuitas Perseroan, aset karena sebagian besar kekayaan perusahaan menjadi taruhan transaksi ini, dan ekuitas karena jika berujung penjualan, kekayaan di balik setiap lembar saham bisa berubah signifikan. Pelaku pasar biasanya menunggu keterbukaan informasi tersendiri yang memuat nilai rupiah, pihak lawan, dan aset spesifik, sebab dokumen pemanggilan ini belum mengungkapkannya. Yang perlu dipantau berikutnya adalah hasil keputusan RUPSLB pada 30 Oktober 2026 serta rincian transaksi yang semestinya menyusul, mengingat batas pemberian kuasa elektronik lewat eASY.KSEI ditutup 29 Oktober 2026 pukul 09.00 WIB.",
+  "sentimen": "negatif"
  },
  {
   "slug": "antm-koreksi-laporan-dana-rights-issue-2015-sisa-rp203-m",

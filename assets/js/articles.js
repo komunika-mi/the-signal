@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "btps-investor-non-insider-lapor-perubahan-kepemilikan-saham",
+  "category": "Aksi Korporasi",
+  "title": "BTPS: Investor Non-Insider Lapor Perubahan [Kepemilikan] Saham",
+  "deck": "Mustaqim Akbar, bukan direksi atau komisaris, melaporkan pembelian 1 lembar saham BTPS; hak suaranya tercatat naik dari 0% ke 6,16% dalam dokumen resmi ke OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T05:33:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-0316-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "kepemilikan saham",
+   "hak suara",
+   "Bank BTPN Syariah"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) menerima laporan kepemilikan saham dari Mustaqim Akbar, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perusahaan. Dalam laporan bernomor LK/09102026/0001/1 yang disampaikan ke Otoritas Jasa Keuangan pada 9 Oktober 2026, kepemilikan sahamnya di BTPS tercatat bertambah dari nol menjadi 1 lembar saham. Hak suaranya di perusahaan, menurut dokumen itu, berubah dari 0 persen menjadi 6,16 persen.",
+   "Dokumen melampirkan dua baris rincian transaksi. Baris pertama mencatat perolehan saham lewat pelaksanaan (exercise) hak atas efek bersifat ekuitas dalam skema repurchase agreement, dengan klasifikasi 'saham dengan hak suara multiple', harga Rp1.000.000 per saham, transaksi tertanggal 9 Juli 2026, dan batas akhir periode pelaksanaan pada 13 September 2026. Baris kedua mencatat pembelian langsung atas saham biasa, juga dengan harga Rp1.000.000 per saham, bertransaksi pada 14 September 2026, dengan batas akhir pelaksanaan 22 September 2026.",
+   "Masing-masing baris tercatat sebesar 1 unit, namun ringkasan akhir laporan menyebut total kepemilikan Mustaqim Akbar di BTPS sebesar 1 lembar saham. Besarnya transaksi ini terhadap total kepemilikan pelapor tidak dapat dihitung dalam dokumen karena posisi awalnya nol. Laporan semacam ini wajib disampaikan ke OJK setiap kali ada perubahan kepemilikan saham perusahaan terbuka, termasuk oleh pemegang saham yang bukan direksi atau komisaris, sesuai Peraturan OJK Nomor 4/2024."
+  ],
+  "fotoAdegan": "A bank field officer discussing a small loan with a woman tending her roadside food stall in a village, daylight, documentary style",
+  "takeaway": "Laporan ini netral bagi fundamental BTPS, sebab pelapornya bukan direksi atau komisaris dan jumlah saham yang berpindah tangan hanya satu lembar, sehingga tidak mencerminkan sikap strategis siapa pun terhadap perusahaan. Yang perlu dicermati justru hak suara, yaitu porsi suara pemegang saham saat pemungutan suara di rapat umum pemegang saham, yang dalam laporan ini tercatat melonjak dari 0 persen ke 6,16 persen hanya dari satu lembar saham, lonjakan tidak lazim yang tampaknya berkaitan dengan klasifikasi 'saham dengan hak suara multiple' yang disebut dalam dokumen, yakni kelas saham yang memberi bobot suara lebih besar daripada proporsi modal yang disetor. Pelaku pasar perlu waspada terhadap kelas saham semacam ini karena bisa menggeser kendali suara di RUPS tanpa mengubah banyak jumlah saham beredar atau laba per saham perusahaan. Dokumen ini sendiri tidak memuat agenda korporasi baru karena tanggal pelaksanaan yang disebut, 13 dan 22 September 2026, sudah lewat sebelum laporan disampaikan. Yang perlu dipantau selanjutnya adalah apakah BTPS memberi klarifikasi publik soal struktur saham berhak suara multiple tersebut, di luar agenda RUPSLB soal buyback Rp1 triliun yang sudah dijadwalkan dibahas pada 13 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "proyeksi-kapitalisasi-pasar-sema-bisa-tembus-rp2-triliun",
   "category": "Pasar Modal",
   "title": "Proyeksi Kapitalisasi Pasar [SEMA] Bisa Tembus Rp2 Triliun",

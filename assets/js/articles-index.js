@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "btps-investor-non-insider-lapor-perubahan-kepemilikan-saham",
+  "category": "Aksi Korporasi",
+  "title": "BTPS: Investor Non-Insider Lapor Perubahan [Kepemilikan] Saham",
+  "deck": "Mustaqim Akbar, bukan direksi atau komisaris, melaporkan pembelian 1 lembar saham BTPS; hak suaranya tercatat naik dari 0% ke 6,16% dalam dokumen resmi ke OJK.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "kepemilikan saham",
+   "hak suara",
+   "Bank BTPN Syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-0316-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "proyeksi-kapitalisasi-pasar-sema-bisa-tembus-rp2-triliun",
   "category": "Pasar Modal",
   "title": "Proyeksi Kapitalisasi Pasar [SEMA] Bisa Tembus Rp2 Triliun",
@@ -6464,22 +6480,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/beeefc8545_94772167df.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "giaa-masuk-pemantauan-khusus-bei-ekuitas-negatif",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Masuk [Pemantauan Khusus] BEI, Ekuitas Negatif",
-  "deck": "Bursa Efek Indonesia memasukkan saham Garuda Indonesia (GIAA) ke daftar Efek Dalam Pemantauan Khusus mulai 2 Oktober 2026 karena ekuitas perusahaan tercatat negatif.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "Garuda Indonesia",
-   "BEI",
-   "pemantauan khusus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c5fd1310a2_a1fa4f0996.pdf",
   "sourceLabel": "IDX"
  }
 ];

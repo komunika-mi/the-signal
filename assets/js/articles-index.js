@@ -54,6 +54,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "transmigrasi-kini-diarahkan-jadi-pusat-ekonomi-baru",
+  "category": "Ketenagakerjaan",
+  "title": "Transmigrasi Kini Diarahkan Jadi [Pusat] Ekonomi Baru",
+  "deck": "Kementerian Transmigrasi mengubah pendekatan: sebelum memindahkan penduduk, pemerintah kini harus memastikan dulu ada pasar, investor, dan lapangan kerja di kawasan tujuan.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/transmigrasi-kini-diarahkan-jadi-pusat-ekonomi-baru.jpg",
+  "imageV": "mv02a8k4",
+  "tags": [
+   "transmigrasi",
+   "ekonomi kawasan",
+   "koperasi",
+   "Batam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471973-transmigrasi-tak-lagi-sekadar-pindah-penduduk-pemerintah-bidik-pusat-ekonomi-baru"
+ },
+ {
   "slug": "wajib-halal-berlaku-18-oktober-aturan-turunan-dikejar",
   "category": "Industri",
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
@@ -6463,22 +6480,6 @@ var ARTICLES = [
    "pemantauan khusus"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c5fd1310a2_a1fa4f0996.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-keluar-dari-pemantauan-khusus-naik-ke-papan-akselerasi",
-  "category": "Aksi Korporasi",
-  "title": "CASH Keluar dari [Pemantauan Khusus], Naik ke Papan Akselerasi",
-  "deck": "BEI mencabut status pemantauan khusus saham PT Cashlez Worldwide Indonesia Tbk (CASH) dan memindahkannya ke Papan Akselerasi, efektif 2 Oktober 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "Bursa Efek Indonesia",
-   "Pemantauan Khusus",
-   "Papan Akselerasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eebda25f98_f0cc51596e.pdf",
   "sourceLabel": "IDX"
  }
 ];

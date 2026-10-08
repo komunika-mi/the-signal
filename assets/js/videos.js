@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "QnHbUfBfosE",
+  "title": "Strategi Pelaku Bisnis Event Organizer Hadapi Tekanan Ekonomi",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Bisnis event organizer, termasuk kompetisi lari dan fun run, disebut terus tumbuh pesat dalam dua dekade terakhir meski menghadapi tekanan ekonomi. Pelaku usaha di sektor ini menerapkan sejumlah siasat untuk tetap bertahan.",
+  "takeaway": "Menggambarkan daya tahan sektor jasa dan event kreatif di tengah perlambatan ekonomi, relevan bagi pembaca yang mengamati dinamika bisnis non konvensional.",
+  "terbit": "2026-10-08T17:12:00+00:00"
+ },
+ {
   "id": "HRH4nb6fqGw",
   "title": "Bisnis Event Organizer Masih Menguntungkan?",
   "category": "Bisnis",

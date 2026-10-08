@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "QnHbUfBfosE",
+  "title": "Strategi Pelaku Bisnis Event Organizer Hadapi Tekanan Ekonomi",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Bisnis event organizer, termasuk kompetisi lari dan fun run, disebut terus tumbuh pesat dalam dua dekade terakhir meski menghadapi tekanan ekonomi. Pelaku usaha di sektor ini menerapkan sejumlah siasat untuk tetap bertahan.",
+  "takeaway": "Menggambarkan daya tahan sektor jasa dan event kreatif di tengah perlambatan ekonomi, relevan bagi pembaca yang mengamati dinamika bisnis non konvensional."
+ },
+ {
   "id": "HRH4nb6fqGw",
   "title": "Bisnis Event Organizer Masih Menguntungkan?",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Pembahasan biaya haji tahun 2027 masih berjalan. Komponen tarif penerbangan menjadi salah satu poin yang hingga kini belum mencapai kesepakatan antara pemerintah dan pihak maskapai.",
   "takeaway": "Negosiasi tarif penerbangan ini relevan bagi pembaca ekonomi karena menyangkut komponen biaya besar dalam anggaran haji sekaligus pola bisnis maskapai penerbangan."
- },
- {
-  "id": "mVVqaok4PG0",
-  "title": "Tangsel Expo 2026 Jadi Etalase UMKM dan Ekonomi Kreatif",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Tangsel Expo 2026 digelar di Plaza Puspemkot Tangerang Selatan pada 21-22 September, menampilkan produk UMKM, ekonomi kreatif, dan teknologi daerah.",
-  "takeaway": "Pameran ini relevan sebagai gambaran upaya pemerintah daerah mendorong pertumbuhan UMKM dan ekonomi kreatif di tingkat lokal."
  }
 ];

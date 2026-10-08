@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "truk-free-float-turun-ke-14-82-di-bawah-batas-15",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Free Float Turun ke [14,82%], di Bawah Batas 15%",
+  "deck": "Guna Timur Raya menjawab permintaan penjelasan bursa soal kinerja keuangan dan dampak tender saham oleh PT Pukul Rata Kanan terhadap porsi saham publik.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "tender offer",
+   "free float",
+   "Guna Timur Raya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3000342222_560c4f96aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "menko-bahlil-kaji-moratorium-ekspor-produk-nikel",
   "category": "Energi",
   "title": "Menko Bahlil Kaji [Moratorium] Ekspor Produk Nikel",
@@ -21,6 +37,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pidato-perdana-menko-bahlil-petakan-peran-kemenko-hilirisasi-sinkronkan-kebijakan-hingga-kaji-moratorium",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "fapa-jadwalkan-rupslb-16-november-simak-batas-usul-agenda",
+  "category": "Aksi Korporasi",
+  "title": "FAPA Jadwalkan [RUPSLB] 16 November, Simak Batas Usul Agenda",
+  "deck": "PT FAP Agri Tbk akan menggelar RUPSLB pada 16 November 2026. Pemegang saham yang tercatat per 22 Oktober 2026 berhak hadir.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FAPA",
+   "RUPSLB",
+   "Pemegang Saham",
+   "Rapat Umum Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe410f6e2b_cb13e6545d.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "beks-dana-it-rp215-m-baru-18-terealisasi-sisa-di-fasbi",
@@ -6444,39 +6476,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930204230-64454-0/FinancialStatement-2026-II-IJEE.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "djki-pangkas-waktu-urus-merek-jadi-empat-bulan",
-  "category": "Bisnis",
-  "title": "DJKI Pangkas Waktu Urus Merek Jadi [Empat] Bulan",
-  "deck": "Mulai 1 Oktober 2026, DJKI memangkas target penyelesaian pendaftaran merek dan desain industri menjadi paling lama empat bulan, turun dari lima bulan yang berlaku sejak Agustus lalu.",
-  "date": "30 September 2026",
-  "image": "assets/img/djki-pangkas-waktu-urus-merek-jadi-empat-bulan.jpg",
-  "imageV": "muo63dfl",
-  "tags": [
-   "DJKI",
-   "Kekayaan Intelektual",
-   "Merek",
-   "Desain Industri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470485-djki-pangkas-waktu-pengurusan-merek-dan-desain-industri-jadi-4-bulan-mulai-oktober"
- },
- {
-  "slug": "indodana-dorong-credit-scoring-demi-pinjaman-digital-aman",
-  "category": "Perbankan",
-  "title": "Indodana Dorong [Credit Scoring] demi Pinjaman Digital Aman",
-  "deck": "Direktur Indodana Fintech menilai penilaian kredit calon peminjam perlu diperkuat agar pinjaman digital yang mudah diakses tetap sesuai kemampuan bayar.",
-  "date": "30 September 2026",
-  "image": "assets/img/indodana-dorong-credit-scoring-demi-pinjaman-digital-aman.jpg",
-  "imageV": "muo63dwi",
-  "tags": [
-   "fintech lending",
-   "credit scoring",
-   "AFPI",
-   "inklusi keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470484-indodana-fintech-soroti-tantangan-pinjaman-digital-mudah-diakses-harus-sesuai-kemampuan-bayar"
  }
 ];

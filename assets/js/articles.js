@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "truk-free-float-turun-ke-14-82-di-bawah-batas-15",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Free Float Turun ke [14,82%], di Bawah Batas 15%",
+  "deck": "Guna Timur Raya menjawab permintaan penjelasan bursa soal kinerja keuangan dan dampak tender saham oleh PT Pukul Rata Kanan terhadap porsi saham publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T11:35:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3000342222_560c4f96aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUK",
+  "tags": [
+   "TRUK",
+   "tender offer",
+   "free float",
+   "Guna Timur Raya"
+  ],
+  "body": [
+   "PT Guna Timur Raya Tbk (TRUK) menyampaikan tanggapan resmi atas permintaan penjelasan Bursa Efek Indonesia nomor S-12713/BEI.PP1/10-2026 yang diterima perseroan pada 6 Oktober 2026. Dalam surat bertanggal 8 Oktober 2026 yang ditandatangani Corporate Secretary Sri Lestari, perseroan menjelaskan bahwa berdasarkan laporan keuangan periode enam bulan yang berakhir 30 Juni 2026, perusahaan masih mencatatkan rugi pada periode berjalan. Meski begitu, posisi keuangan masih didukung ekuitas positif, dengan total aset Rp52,23 miliar, total liabilitas Rp15,38 miliar, dan total ekuitas Rp36,85 miliar. Dari sisi operasional, pendapatan tercatat Rp19,24 miliar dengan laba bruto Rp2,72 miliar, sementara arus kas neto dari aktivitas operasi berbalik positif Rp310,19 juta, membaik dibandingkan periode yang sama tahun sebelumnya yang negatif Rp167,93 juta.",
+   "Soal pergerakan harga sahamnya, manajemen menyatakan hal itu murni hasil mekanisme pasar yang dipengaruhi informasi yang telah diumumkan perseroan serta kondisi pasar modal, aktivitas perdagangan, dan keputusan investasi masing-masing pelaku pasar. Perseroan menegaskan tidak bisa memastikan satu faktor tunggal di balik pergerakan harga TRUK pada periode tertentu.",
+   "Terkait rencana penawaran tender sukarela oleh PT Pukul Rata Kanan, perseroan menjelaskan bahwa perubahan pengendalian itu berpotensi mengubah Pemilik Manfaat Akhir, termasuk kemungkinan bertambahnya pihak yang berstatus demikian. Sampai saat surat ini dibuat, belum ada perubahan bidang usaha maupun rencana pengembangan usaha yang ditetapkan pasca peralihan kendali, meski perseroan menyatakan terbuka terhadap inisiatif pengendali baru di kemudian hari. Berdasarkan pernyataan penawaran tender PT Pukul Rata Kanan tertanggal 25 September 2026, porsi saham yang dipegang publik kini tinggal 14,82 persen, di bawah batas minimum 15 persen yang diwajibkan Ketentuan V.1.1 Peraturan I-A Tahun 2026. Perseroan menyebut akan berdiskusi dengan pengendali untuk memenuhi ketentuan itu, termasuk kemungkinan pelepasan sebagian saham pengendali ke publik, namun belum mengetahui komitmen pengendali baru untuk mempertahankan kepemilikannya di TRUK."
+  ],
+  "fotoAdegan": "Rows of cargo trucks parked at a logistics depot in early morning light, drivers inspecting tires and cargo straps, overcast sky",
+  "takeaway": "Laporan ini netral: TRUK masih merugi pada semester I 2026, tetapi arus kas dari aktivitas operasi justru berbalik positif dan ekuitasnya tetap di atas nol, jadi belum ada tanda tekanan keuangan akut. Yang lebih patut dicermati adalah free float, yaitu porsi saham yang beredar di tangan publik di luar pengendali, yang kini hanya 14,82 persen setelah PT Pukul Rata Kanan mengambil alih kendali lewat tender saham, padahal aturan bursa mewajibkan minimal 15 persen saham beredar di publik. Untuk menutup selisih itu, pengendali baru kemungkinan perlu melepas sebagian sahamnya ke publik, yang menambah jumlah saham yang diperdagangkan bebas dan bisa mendilusi porsi kepemilikan yang sudah ada jika terjadi. Yang perlu dipantau berikutnya adalah jadwal dan cara konkret pemenuhan syarat free float tersebut, serta apakah PT Pukul Rata Kanan akhirnya mengumumkan rencana usaha baru setelah sebelumnya menyatakan belum punya rencana pengembangan pasca peralihan kendali.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "menko-bahlil-kaji-moratorium-ekspor-produk-nikel",
   "category": "Energi",
   "title": "Menko Bahlil Kaji [Moratorium] Ekspor Produk Nikel",
@@ -29,6 +55,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Ada dua hal konkret yang patut dicermati dari pidato ini: kajian moratorium ekspor produk nikel setengah jadi, yang kalau benar diberlakukan akan jadi perpanjangan dari larangan ekspor bijih nikel yang sudah berjalan sejak 2020, dan target mencampur bensin dengan 20 persen etanol pada 2027-2028 untuk menekan impor bensin. Yang kena dampak langsung adalah perusahaan smelter nikel yang selama ini masih mengekspor produk setengah jadi, serta industri dan petani yang bahan bakunya bisa diserap untuk produksi etanol kalau mandat itu berjalan. Arahnya sejalan dengan pola hilirisasi bertahap lewat pelarangan ekspor berjenjang, bukan sekali jadi, mengingat nikel sendiri butuh bertahun-tahun dari larangan bijih mentah sampai sekarang baru menyasar produk setengah jadi. Yang akan menentukan apakah arah ini benar-benar berjalan adalah hasil kajian moratorium tersebut, apakah berujung pada aturan larangan ekspor resmi, serta progres mandat etanol 20 persen menjelang 2027.",
   "imageV": "muyyo8gn"
+ },
+ {
+  "slug": "fapa-jadwalkan-rupslb-16-november-simak-batas-usul-agenda",
+  "category": "Aksi Korporasi",
+  "title": "FAPA Jadwalkan [RUPSLB] 16 November, Simak Batas Usul Agenda",
+  "deck": "PT FAP Agri Tbk akan menggelar RUPSLB pada 16 November 2026. Pemegang saham yang tercatat per 22 Oktober 2026 berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T09:53:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe410f6e2b_cb13e6545d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FAPA",
+  "tags": [
+   "FAPA",
+   "RUPSLB",
+   "Pemegang Saham",
+   "Rapat Umum Pemegang Saham"
+  ],
+  "body": [
+   "PT FAP Agri Tbk (FAPA) menyampaikan pemberitahuan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) lewat surat Nomor 041/X-CORSEC/2026 yang diteken Direktur Utama Ricky Tjandra pada 8 Oktober 2026. Rapat dijadwalkan Senin, 16 November 2026 pukul 09.30 WIB di Gedung Gold Coast, Tower Liberty Lantai 16 A-H, Jalan Pantai Indah Kapuk, Kamal Muara, Penjaringan, Jakarta Utara.",
+   "Pemegang saham yang berhak hadir atau mewakilkan kehadirannya adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada 22 Oktober 2026 sampai pukul 16.00 WIB. Perseroan juga membuka kesempatan bagi pemegang saham, baik sendiri maupun bersama-sama, yang menguasai sedikitnya 1/20 atau 5 persen dari total saham Perseroan untuk mengusulkan tambahan agenda rapat. Usulan itu harus diajukan tertulis kepada Direksi disertai alasan dan bahan pendukung, paling lambat 9 November 2026, yakni tujuh hari sebelum tanggal pemanggilan resmi.",
+   "Dalam pemberitahuan ini, Perseroan belum mengungkapkan agenda RUPSLB itu sendiri. Pemanggilan resmi yang memuat agenda lengkap baru akan diumumkan lewat situs e-RUPS/KSEI, situs Bursa Efek Indonesia, dan situs resmi Perseroan. Perseroan juga telah mengirimkan bukti publikasi pengumuman ini kepada Otoritas Jasa Keuangan sebagai pemenuhan POJK No. 15/POJK.04/2020 tentang Rencana dan Penyelenggaraan RUPS Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with rows of chairs facing forward, large windows overlooking a hazy Jakarta skyline, soft morning light.",
+  "takeaway": "Laporan ini netral bagi emiten karena sifatnya masih prosedural, sekadar tanda akan digelarnya rapat tanpa ada agenda atau keputusan konkret yang bisa dinilai dampaknya terhadap bisnis. RUPSLB berbeda dari rapat tahunan rutin karena biasanya digelar khusus untuk membahas aksi korporasi tertentu, misalnya perubahan jumlah saham beredar, perubahan susunan direksi, atau pembagian dividen, yang bisa mengubah ekuitas atau laba per saham perusahaan, tapi dokumen ini belum menyebutkan pos mana yang akan dibahas. Yang perlu dipantau berikutnya adalah pemanggilan resmi berisi agenda lengkap yang akan terbit menyusul, tenggat usulan agenda pemegang saham pada 9 November 2026, serta pelaksanaan RUPSLB itu sendiri pada 16 November 2026, dengan cut-off kepemilikan saham yang berhak memberi suara pada 22 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "beks-dana-it-rp215-m-baru-18-terealisasi-sisa-di-fasbi",

@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "TrVL5e1N3ow",
+  "title": "Perpres Ojol Atur Tarif Angkutan Orang hingga Barang",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "DPR RI dan pemerintah merampungkan peraturan presiden yang mengatur ekosistem ojek online, mencakup tarif angkutan orang, barang, hingga makanan.",
+  "takeaway": "Aturan ini penting bagi pelaku usaha transportasi daring dan jutaan pengemudi ojol yang selama ini menunggu kepastian tarif."
+ },
+ {
+  "id": "XTO3Czx8GqA",
+  "title": "Presiden Prabowo Luncurkan Program Hilirisasi di Halmahera Tengah",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik serta 11 proyek hilirisasi di kawasan industri Weda Bay, Halmahera Tengah.",
+  "takeaway": "Peluncuran ini menjadi tonggak konkret dari strategi hilirisasi nikel yang menjadi andalan kebijakan industrialisasi pemerintah."
+ },
+ {
+  "id": "b8ResNLpPZg",
+  "title": "Pemerintah dan DPR Sepakati Biaya Haji 2027 Rp98,4 Juta",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Pemerintah dan DPR RI menetapkan Biaya Penyelenggaraan Ibadah Haji 2027 sebesar Rp98,4 juta, termasuk komponen biaya perjalanan haji yang ditanggung jemaah.",
+  "takeaway": "Keputusan ini berdampak langsung pada anggaran calon jemaah haji serta pengelolaan dana haji oleh negara."
+ },
+ {
   "id": "aS2vCIurwFs",
   "title": "Presiden Prabowo Luncurkan 11 Proyek Hilirisasi",
   "category": "Industri",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Kemarau panjang membuat air laut surut di Desa Ketitangwetan, Batangan, Pati, sehingga pasokan ke tambak garam tersendat dan lebih dari 300 hektare lahan tidak bisa berproduksi.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan dampak cuaca ekstrem terhadap rantai pasok komoditas garam dalam negeri."
- },
- {
-  "id": "67pSsmE-450",
-  "title": "Andi Ilham Terpilih Jadi Ketua Umum Kadin Gorontalo",
-  "category": "Bisnis",
-  "program": "Kabar Petang",
-  "summary": "Andi Ilham terpilih sebagai Ketua Umum Kadin Provinsi Gorontalo dalam musyawarah provinsi kelima organisasi kamar dagang dan industri tersebut.",
-  "takeaway": "Pergantian pucuk pimpinan Kadin daerah penting diikuti karena berpengaruh pada arah advokasi dan kebijakan dunia usaha setempat."
- },
- {
-  "id": "EHxL8A6H1Ww",
-  "title": "Bea Cukai Ungkap Penyelundupan Beras, Garam, dan Pakaian",
-  "category": "Bisnis",
-  "program": "Kabar Petang",
-  "summary": "Bea Cukai menggagalkan dugaan impor ilegal senilai Rp27,339 miliar sepanjang Agustus hingga September 2026, mencakup 30 kontainer beras dan garam serta 1.435 bal pakaian bekas.",
-  "takeaway": "Penindakan ini mencerminkan upaya pemerintah melindungi industri dan pasar dalam negeri dari barang impor ilegal."
- },
- {
-  "id": "u6cMPnErGa0",
-  "title": "Mendag Sidak Harga Sembako, Cabai Masih Meroket",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Perdagangan Budi Santoso memantau harga sembako di Pasar Potro Jayan, Sleman, sementara harga cabai di sejumlah pasar masih bertahan tinggi.",
-  "takeaway": "Pemantauan harga pangan oleh pemerintah relevan bagi pembaca yang mengikuti tren inflasi dan daya beli masyarakat."
  }
 ];

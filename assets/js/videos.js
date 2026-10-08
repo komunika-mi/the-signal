@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "TrVL5e1N3ow",
+  "title": "Perpres Ojol Atur Tarif Angkutan Orang hingga Barang",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "DPR RI dan pemerintah merampungkan peraturan presiden yang mengatur ekosistem ojek online, mencakup tarif angkutan orang, barang, hingga makanan.",
+  "takeaway": "Aturan ini penting bagi pelaku usaha transportasi daring dan jutaan pengemudi ojol yang selama ini menunggu kepastian tarif.",
+  "terbit": "2026-10-08T10:03:45+00:00"
+ },
+ {
+  "id": "XTO3Czx8GqA",
+  "title": "Presiden Prabowo Luncurkan Program Hilirisasi di Halmahera Tengah",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik serta 11 proyek hilirisasi di kawasan industri Weda Bay, Halmahera Tengah.",
+  "takeaway": "Peluncuran ini menjadi tonggak konkret dari strategi hilirisasi nikel yang menjadi andalan kebijakan industrialisasi pemerintah.",
+  "terbit": "2026-10-08T09:52:57+00:00"
+ },
+ {
+  "id": "b8ResNLpPZg",
+  "title": "Pemerintah dan DPR Sepakati Biaya Haji 2027 Rp98,4 Juta",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Pemerintah dan DPR RI menetapkan Biaya Penyelenggaraan Ibadah Haji 2027 sebesar Rp98,4 juta, termasuk komponen biaya perjalanan haji yang ditanggung jemaah.",
+  "takeaway": "Keputusan ini berdampak langsung pada anggaran calon jemaah haji serta pengelolaan dana haji oleh negara.",
+  "terbit": "2026-10-08T08:00:10+00:00"
+ },
+ {
   "id": "aS2vCIurwFs",
   "title": "Presiden Prabowo Luncurkan 11 Proyek Hilirisasi",
   "category": "Industri",

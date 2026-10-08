@@ -187,7 +187,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret dari pertemuan ini adalah sejumlah nota kesepahaman, bukan investasi yang sudah cair. Delapan MoU dari forum bisnis di Hangzhou diperkirakan bernilai sekitar US$400 juta, mencakup proyek dari konstruksi energi baru sampai layanan keuangan dan infrastruktur digital, sementara proyeksi investasi AI senilai US$8 miliar sampai US$12 miliar adalah target kerja sama antarnegara anggota WAICO untuk periode 2026-2030, bukan komitmen dana yang sudah pasti. Pihak yang lebih dulu terdampak adalah kawasan industri Batang yang baru menjalin kesepakatan dengan kawasan industri Hangzhou, serta sekitar 5.000 pekerja Indonesia yang dijanjikan pelatihan kecerdasan buatan. Pola yang terlihat adalah tahap ini masih berupa kerangka kerja sama dan nota kesepahaman, sehingga arah sesungguhnya baru bisa dipastikan kalau kesepakatan itu diikuti kontrak investasi nyata, misalnya dimulainya pembangunan fisik di kawasan Batang atau kepastian lokasi pusat data yang diundang masuk ke Indonesia.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "keyakinan-konsumen-tetap-optimis-kondisi-kini-melambat",

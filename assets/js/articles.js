@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pefindo-pertahankan-rating-ida-toba-outlook-stabil",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Pertahankan Rating [idA] TOBA, Outlook Stabil",
+  "deck": "PEFINDO menegaskan peringkat idA dengan outlook stabil untuk TOBA dan tujuh seri obligasinya senilai total Rp875 miliar, berlaku 5 Oktober 2026 sampai 1 Oktober 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T15:57:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5ae4deb50e_54b9e9a6b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "PEFINDO",
+   "peringkat kredit",
+   "obligasi"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menegaskan peringkat idA dengan outlook stabil untuk PT TBS Energi Utama Tbk (TOBA), berlaku untuk periode 5 Oktober 2026 sampai 1 Oktober 2027. Peringkat yang sama juga diberikan untuk tujuh seri obligasi yang sudah diterbitkan perusahaan, yaitu Obligasi I TBS Energi Utama Tahun 2023 Seri B senilai Rp75 miliar yang jatuh tempo 3 Maret 2028, serta enam seri Obligasi Berkelanjutan I: Tahap I Tahun 2025 Seri A senilai Rp20 miliar (jatuh tempo 8 Juli 2028) dan Seri B senilai Rp105 miliar (jatuh tempo 8 Juli 2030), Tahap II Tahun 2026 Seri A senilai Rp100 miliar (jatuh tempo 22 Januari 2029), Seri B senilai Rp175 miliar (jatuh tempo 22 Januari 2031), dan Seri C senilai Rp225 miliar (jatuh tempo 22 Januari 2033), serta Tahap III Tahun 2026 senilai Rp175 miliar yang jatuh tempo 13 Mei 2033. Total nilai ketujuh obligasi ini mencapai Rp875 miliar.",
+   "Selain obligasi konvensional, PEFINDO juga menegaskan peringkat idA(sy), setara A syariah, untuk dua seri Sukuk Wakalah yang diterbitkan tanpa penawaran umum, dengan nilai gabungan Rp756,975 miliar. PEFINDO pula memberi peringkat idA untuk program Obligasi Berkelanjutan I TBS Energi Utama Tahun 2025 senilai maksimum Rp800 miliar, yang masih bisa diterbitkan bertahap sampai 30 Juni 2027, yakni dua tahun sejak pernyataan pendaftarannya efektif pada 30 Juni 2025. Keputusan ini diambil dalam rapat komite pemeringkat PEFINDO pada 5 Oktober 2026, diterima manajemen TOBA pada 7 Oktober dan diumumkan pada hari yang sama.",
+   "Dalam ikhtisar peringkatnya, PEFINDO memaparkan kondisi keuangan TOBA yang berubah cukup signifikan dalam tiga tahun terakhir. Total aset perusahaan turun dari setara US$891,8 juta pada akhir 2023 menjadi US$633 juta per Juni 2026, sementara modal sendiri atau ekuitas menyusut dari US$367,7 juta (2023) menjadi US$57,5 juta (Juni 2026). Perusahaan juga mencatat rugi bersih setelah hak minoritas sebesar US$162,3 juta pada 2025, berbanding laba US$28,5 juta pada 2024. Per 30 Juni 2026, pemegang saham TOBA adalah Highland Strategic Holdings Pte Ltd dengan 60,4 persen, PT Toba Sejahtra 8,3 persen, PT Bara Makmur Abadi 4,4 persen, dan publik 26,9 persen.",
+   "PEFINDO menyebut peringkat TOBA bisa dinaikkan jika proyek-proyek baru perusahaan, yang mencakup pengelolaan limbah, pembangkit listrik tenaga minihidro di Lampung, pembangkit listrik tenaga surya terapung di Batam, dan kendaraan listrik, berhasil beroperasi dan menghasilkan pendapatan serta dividen di atas proyeksi, dengan struktur permodalan yang tetap konservatif. Sebaliknya, peringkat bisa diturunkan jika pendapatan dan margin laba berada di bawah proyeksi akibat kinerja proyek yang tidak sesuai target, keterlambatan pembangunan proyek, atau jika TOBA membiayai investasi dengan utang besar tanpa diimbangi kenaikan pendapatan."
+  ],
+  "fotoAdegan": "Loaded coal trucks queued at an open-pit mine access road in East Kalimantan, dust haze under bright midday sun",
+  "takeaway": "Pemeringkatan ini netral bagi TOBA karena PEFINDO hanya menegaskan ulang peringkat dan outlook yang sama seperti tahun lalu, idA dengan prospek stabil, tanpa ada perubahan arah yang membuat pasar perlu menilai ulang risiko utang perusahaan. Yang patut dicermati dari data di balik peringkat ini adalah modal sendiri perusahaan, yaitu selisih antara aset dan utangnya, yang menyusut dari US$384,2 juta pada akhir 2024 menjadi hanya US$57,5 juta per Juni 2026, sementara rasio utang terhadap modal sendiri melonjak dari 0,9 kali menjadi 7 kali pada periode yang sama, artinya porsi utang dibanding kekayaan bersih perusahaan membesar jauh lebih cepat dari sebelumnya. Penyusutan modal ini sejalan dengan rugi bersih US$162,3 juta yang dibukukan TOBA pada 2025, berbeda jauh dari laba US$28,5 juta setahun sebelumnya, dan sempat membuat PEFINDO memberi outlook negatif sebelum menaikkannya kembali ke stabil pada Maret 2025. Yang perlu dipantau berikutnya adalah realisasi proyek-proyek baru TOBA di bidang energi terbarukan dan kendaraan listrik yang disebut PEFINDO sebagai syarat kenaikan peringkat, sampai berakhirnya periode rating saat ini pada 1 Oktober 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bipp-panggil-rupslb-kedua-untuk-setujui-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Panggil RUPSLB Kedua untuk Setujui [PMTHMETD]",
+  "deck": "Rapat pertama 25 September gagal kuorum, BIPP memanggil pemegang saham independen hadir lagi 16 Oktober untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T14:56:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/baed3462f0_817507f49f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "RUPSLB",
+   "PMTHMETD",
+   "Penambahan Modal"
+  ],
+  "body": [
+   "PT Bhuwanatala Indah Permai Tbk (BIPP) kembali memanggil pemegang saham independennya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua, setelah rapat pertama pada Jumat, 25 September 2026 gagal mencapai kuorum kehadiran pemegang saham independen untuk mata acara pertama dan kedua sehingga tidak bisa mengambil keputusan yang sah. Rapat kedua dijadwalkan Jumat, 16 Oktober 2026 pukul 15.00 WIB di Graha BIP Lantai 11, Jl. Jenderal Gatot Subroto Kav. 23, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat di Daftar Pemegang Saham pada penutupan perdagangan bursa 7 Oktober 2026.",
+   "Mata acara pertama meminta persetujuan rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) dari modal ditempatkan dan disetor penuh perseroan. Dalam dokumen pemanggilan, perseroan menyebut dana dari PMTHMETD akan dipakai untuk memperkuat struktur permodalan serta memenuhi kebutuhan pendanaan dan modal kerja perseroan dan/atau entitas anaknya, termasuk mendukung belanja modal dan pengeluaran operasional dalam rangka ekspansi usaha. Pelaksanaannya disebut akan mengacu pada Peraturan OJK No. 14/POJK.04/2019 yang mengubah POJK No. 32/POJK.04/2015.",
+   "Mata acara kedua terkait langsung dengan yang pertama, yaitu persetujuan perubahan Anggaran Dasar perseroan sehubungan dengan peningkatan modal ditempatkan dan disetor melalui PMTHMETD tersebut, dengan mengacu pada UU Perseroan Terbatas No. 40 Tahun 2007 sebagaimana diubah oleh UU No. 6 Tahun 2023. Perseroan tidak mengirim undangan khusus karena pemanggilan ini berlaku sebagai undangan resmi, dan pemegang saham bisa hadir fisik atau elektronik lewat aplikasi eASY.KSEI dengan batas waktu pernyataan kehadiran atau pemberian kuasa pukul 12.00 WIB, satu hari kerja sebelum rapat."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with rows of chairs facing a podium, floor-to-ceiling windows overlooking a Jakarta skyline, late afternoon light",
+  "takeaway": "Laporan ini kami nilai netral karena baru sebatas undangan rapat dan belum mengungkap jumlah saham baru, harga pelaksanaan, atau pihak yang akan menyerap penambahan modal, sehingga besarnya dampak ke pemegang saham lama belum bisa diukur. Yang tersentuh di sini adalah jumlah saham beredar dan ekuitas: PMTHMETD berarti saham baru dijual tanpa hak memesan efek terlebih dahulu bagi pemegang saham lama, jadi kalau mereka tidak kebagian alokasi, porsi kepemilikan dan laba per saham berisiko tergerus karena laba yang sama nantinya dibagi untuk lebih banyak lembar saham. Perlu dicatat juga rapat pertama pada 25 September 2026 gagal mencapai kuorum pemegang saham independen untuk kedua agenda ini, yang menunjukkan dukungan minoritas belum tentu solid. Yang perlu dipantau adalah hasil RUPSLB kedua pada 16 Oktober 2026 pukul 15.00 WIB, apakah kuorum kali ini tercapai, serta pengumuman lanjutan soal jumlah dan harga saham baru begitu rencana PMTHMETD resmi disetujui.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "buah-bagikan-dividen-interim-rp20-miliar-rp10-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUAH Bagikan [Dividen] Interim Rp20 Miliar, Rp10/Saham",
+  "deck": "Direksi dan Dewan Komisaris Segar Kumala Indonesia menyetujui dividen interim tunai Rp20 miliar atau Rp10 per saham, dibayar 6 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T14:30:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cd9589366f_5e0dde1c08.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUAH",
+  "tags": [
+   "BUAH",
+   "dividen interim",
+   "Segar Kumala Indonesia",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Segar Kumala Indonesia Tbk (BUAH) akan membagikan dividen tunai interim untuk tahun buku 2026 senilai total Rp20 miliar, atau Rp10 per saham, kepada pemegang 2 miliar lembar saham yang beredar. Keputusan ini diambil dalam rapat sirkuler Direksi pada 6 Oktober 2026 yang ditandatangani Direktur Utama Renny Lauren bersama Direktur Vianita Januarini dan Jeffry, kemudian disetujui Dewan Komisaris yang diketuai Hendro Susilo bersama Komisaris Fabian Mardi dan Komisaris Independen Bagus Abimanyu Lulu. Dasar pembagian adalah laba bersih perseroan periode yang berakhir 30 Juni 2026 sebesar Rp21,79 miliar, dengan saldo laba ditahan yang tidak dibatasi penggunaannya tercatat Rp72,02 miliar dan total ekuitas Rp195,87 miliar.",
+   "Jadwal pembagian sudah ditetapkan: saham diperdagangkan dengan hak dividen (cum dividen) di pasar reguler dan negosiasi sampai 16 Oktober 2026, lalu masuk periode tanpa hak dividen (ex dividen) mulai 19 Oktober 2026. Tanggal pencatatan pemegang saham yang berhak atas dividen (recording date), sekaligus cum dividen di pasar tunai, jatuh pada 20 Oktober 2026 pukul 16.00 WIB, diikuti ex dividen pasar tunai pada 21 Oktober 2026. Pembayaran dividen dijadwalkan 6 November 2026, disalurkan melalui PT Kustodian Sentral Efek Indonesia (KSEI) ke rekening perusahaan efek atau bank kustodian masing-masing pemegang saham.",
+   "Bagi pemegang saham yang sahamnya tidak berada dalam penitipan kolektif KSEI, perseroan mewajibkan penyerahan NPWP ke Biro Administrasi Efek PT Adimitra Jasa Korpora di Kelapa Gading, Jakarta Utara, paling lambat 20 Oktober 2026 pukul 16.00 WIB. Dividen akan dipotong pajak sesuai aturan yang berlaku, dan pemegang saham asing yang ingin memakai tarif pajak lebih rendah berdasarkan perjanjian penghindaran pajak berganda harus menyerahkan formulir DGT ke KSEI atau BAE sebelum tenggat yang ditentukan KSEI. Tanpa dokumen itu, dividen untuk pemegang saham asing dipotong PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Workers sorting crates of fresh fruit on a conveyor belt inside a produce distribution warehouse, early morning light",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi pemegang saham BUAH, karena perseroan mengalokasikan hampir seluruh laba bersih semester pertama, sekitar 92 persen dari Rp21,79 miliar, untuk dibagikan tunai ketimbang seluruhnya ditahan. Yang tersentuh adalah kas dan laba ditahan perusahaan: dana Rp20 miliar akan keluar dari kas pada awal November, menyisakan saldo laba ditahan yang masih bebas dipakai sekitar Rp52 miliar dari Rp72 miliar sebelumnya, sementara total ekuitas Rp195,87 miliar belum banyak berubah karena dividen baru dibayarkan setelah periode laporan ini. Payout setinggi itu juga berarti lebih sedikit dana segar yang disisakan untuk membiayai operasional atau ekspansi di paruh kedua tahun, sehingga kinerja semester berikutnya perlu dicermati agar kas perusahaan tetap sehat. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 20 Oktober 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran pada 6 November 2026.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "ekspor-furnitur-ri-capai-us-1-2-miliar-jelang-tei-ke-41",
   "category": "Industri",
   "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
@@ -28,6 +107,59 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret di balik acara ini adalah sertifikasi SVLK dan FSC, semacam surat keterangan bahwa kayu yang dipakai bukan hasil tebang hutan ilegal, yang sekarang jadi syarat wajib kalau eksportir furnitur mau masuk ke Uni Eropa karena aturan antideforestasi mereka. Ini paling berdampak ke pengusaha furnitur dan kerajinan yang mengandalkan pasar Eropa, sebab tanpa sertifikat itu barang mereka berisiko tertahan di pintu masuk. Data ekspor yang dipaparkan Kemendag menunjukkan arah pencarian pasar baru, lonjakan ekspor ke Yunani sebesar 279,4 persen dan ke Prancis 8,1 persen mengindikasikan eksportir mulai menggeser perhatian ke pasar nontradisional, kemungkinan karena permintaan di sejumlah pasar utama sedang melambat. Yang akan memastikan apakah pergeseran ini jadi tren atau cuma lonjakan sesaat adalah hasil transaksi nyata dari business matching selama TEI ke-41 berlangsung, termasuk apakah buyer dari pasar nontradisional itu benar meneken kontrak atau sekadar menjajaki."
+ },
+ {
+  "slug": "army-gelar-rupslb-rombak-direksi-imbas-laporan-keuangan-mandek",
+  "category": "Aksi Korporasi",
+  "title": "ARMY Gelar RUPSLB, Rombak [Direksi] Imbas Laporan Keuangan Mandek",
+  "deck": "RUPSLB ARMY pada 30 Oktober 2026 akan membahas pergantian direksi dan komisaris serta perpanjangan waktu audit laporan keuangan 2021 dan 2022 yang sudah tertunda lebih dari empat tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T14:07:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/865c96c985_2b0d8568ea.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARMY",
+  "tags": [
+   "ARMY",
+   "RUPSLB",
+   "Armidian Karyatama",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Armidian Karyatama Tbk (ARMY) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 30 Oktober 2026, pukul 10.00 sampai 12.00 WIB, di Apartemen Ambassade Residences, Jl. Denpasar Raya Kav. 5-7, Karet, Kuningan, Setiabudi, Jakarta Selatan. Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per Rabu, 7 Oktober 2026, pukul 16.00 WIB. Surat pemanggilan ditandatangani Direktur Utama Firdaus pada 8 Oktober 2026, merujuk pemberitahuan rencana RUPS sebelumnya bernomor 038/ARMY/DIR/IX/2026 tanggal 23 September 2026.",
+   "Agenda pertama rapat adalah persetujuan perubahan susunan direksi dan dewan komisaris. Perseroan menjelaskan perubahan ini dimaksudkan untuk memberi kepastian hukum, menjaga kelangsungan bisnis, dan memberi mandat penuh kepada manajemen baru untuk menyelesaikan kendala laporan keuangan perusahaan hingga periode terbaru. Agenda kedua menetapkan besaran remunerasi, gaji, fasilitas, dan tunjangan direksi serta komisaris untuk tahun buku berjalan, mengikuti aturan OJK tentang komite nominasi dan remunerasi.",
+   "Bagian paling signifikan ada di agenda ketiga dan keempat. Direksi akan memaparkan kepada pemegang saham alasan keterlambatan audit laporan keuangan tahun buku 2021 dan 2022, termasuk status pelaksanaan debt to equity swap yang sudah disetujui pada RUPSLB 24 Agustus 2021, sekaligus meminta persetujuan untuk kembali memperpanjang waktu audit kedua tahun buku tersebut. Pada agenda keempat, perseroan meminta persetujuan menunjuk kantor akuntan publik baru untuk mengaudit laporan keuangan tahun buku 2023, 2024, dan 2025, yang berarti laporan keuangan Armidian belum selesai diaudit untuk lima tahun buku berturut-turut sejak 2021.",
+   "Agenda kelima adalah penyesuaian maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, khususnya kategori real estat milik sendiri atau disewa, sekaligus mengubah Pasal 3 Anggaran Dasar. Pemegang saham dapat memberi kuasa dan suara elektronik melalui eASY.KSEI paling lambat satu hari kerja sebelum rapat, atau pukul 10.00 WIB pada 29 Oktober 2026."
+  ],
+  "fotoAdegan": "Modern high-rise apartment building exterior in Jakarta under soft afternoon light, balconies and glass facades visible, no readable signage",
+  "takeaway": "Laporan ini condong negatif bagi ARMY, karena isinya menunjukkan perusahaan belum menuntaskan audit laporan keuangan untuk lima tahun buku berturut-turut, dari 2021 sampai 2025, dan baru sekarang mengganti jajaran direksi serta komisaris untuk mengurai masalah itu. Yang tersentuh adalah transparansi laporan keuangan secara keseluruhan, sebab tanpa laporan keuangan teraudit, pemegang saham dan calon investor tidak punya cara resmi menilai ekuitas, arus kas, atau laba perusahaan, dan kondisi semacam ini biasanya menjadi alasan bursa menjatuhkan penghentian sementara perdagangan saham. Pelaku pasar juga akan mencermati apakah direksi dan komisaris baru punya rencana konkret menuntaskan tunggakan audit, bukan sekadar pergantian nama di atas kertas. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 30 Oktober 2026, terutama susunan direksi dan komisaris yang terpilih serta apakah pemegang saham menyetujui perpanjangan lagi waktu audit laporan keuangan 2021 dan 2022.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "apex-resmikan-konversi-utang-ke-hsbc-saham-terdilusi-5-79",
+  "category": "Aksi Korporasi",
+  "title": "APEX Resmikan Konversi Utang ke HSBC, Saham [Terdilusi] 5,79%",
+  "deck": "RUPSLB menyetujui konversi utang Apexindo ke HSBC, 218 juta saham seri B baru akan tercatat di bursa pada 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T13:57:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe8c2bba23_e12225ae04.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "konversi utang",
+   "HSBC",
+   "dilusi saham"
+  ],
+  "body": [
+   "Apexindo Pratama Duta Tbk (APEX) melangkah lebih jauh dalam rencana mengonversi utangnya menjadi saham, setelah Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 7 Oktober 2026 menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD). Sehari setelah rapat itu, lewat surat bernomor 281/DIR-X/2026 tertanggal 8 Oktober 2026, perseroan mengajukan permohonan pencatatan 218.090.317 saham seri B baru dengan nilai nominal Rp325 per saham ke Bursa Efek Indonesia. Penyetoran saham ini dilakukan bukan dengan uang tunai, melainkan dengan mengompensasikan hak tagih pihak ketiga terhadap perseroan, alias melunasi utang dengan saham.",
+   "Seluruh saham baru itu akan jatuh ke dua entitas HSBC yang berperan sebagai kreditor: HSBC Bank PLC menerima 62.311.515 saham dan The Hongkong and Shanghai Banking Corporation Limited menerima 155.778.802 saham. Harga pelaksanaan konversi ditetapkan Rp325 per saham, yakni paling sedikit 90 persen dari rata-rata harga penutupan saham APEX selama 25 hari bursa berturut-turut di pasar reguler sebelum permohonan pencatatan diajukan. Perseroan menegaskan kedua kreditor itu tidak berafiliasi dengannya dan transaksi ini tidak mengubah pihak pengendali.",
+   "Dengan tambahan saham ini, dilusi kepemilikan pemegang saham lama tercatat 5,79 persen. Porsi PT Aserra Capital selaku pengendali turun dari 53,51 persen menjadi 50,41 persen, Standard Chartered Bank Singapore S/A Augusta Investment turun dari 6,23 persen menjadi 5,86 persen, dan porsi publik (masyarakat) turun dari 39,46 persen menjadi 37,17 persen, meski jumlah lembar saham yang mereka pegang tidak berkurang. Saham tambahan dijadwalkan resmi tercatat di bursa pada 20 Oktober 2026."
+  ],
+  "fotoAdegan": "An offshore oil drilling rig at sea under an overcast sky, workers in hard hats checking pipe equipment on deck.",
+  "takeaway": "Laporan ini condong negatif bagi Apexindo karena inti ceritanya belum berubah sejak awal Oktober: perseroan tetap tidak membayar utangnya secara tunai dan memilih menyerahkan saham baru kepada krediturnya, HSBC. Yang tersentuh adalah jumlah saham beredar, yang bertambah 218.090.317 lembar sehingga laba bersih ke depan akan dibagi ke basis saham yang lebih besar alias laba per saham berpotensi terdilusi, sementara di sisi lain beban utang ke HSBC otomatis lunas tanpa menguras kas perseroan. Pelaku pasar biasanya mencermati rasio ini karena dilusi mengurangi porsi kepemilikan dan hak suara pemegang saham lama, meski dalam kasus ini PT Aserra Capital masih memegang kendali di atas 50 persen. Yang perlu dipantau berikutnya adalah realisasi pencatatan saham tambahan di BEI pada 20 Oktober 2026, serta apakah arus kas Apexindo ke depan cukup pulih sehingga perseroan tidak perlu lagi menempuh konversi utang serupa.",
+  "sentimen": "negatif"
  },
  {
   "slug": "indonesia-teken-mou-dagang-digital-dan-ai-dengan-tiongkok",

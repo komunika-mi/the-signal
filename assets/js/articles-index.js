@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pefindo-pertahankan-rating-ida-toba-outlook-stabil",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Pertahankan Rating [idA] TOBA, Outlook Stabil",
+  "deck": "PEFINDO menegaskan peringkat idA dengan outlook stabil untuk TOBA dan tujuh seri obligasinya senilai total Rp875 miliar, berlaku 5 Oktober 2026 sampai 1 Oktober 2027.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "PEFINDO",
+   "peringkat kredit",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5ae4deb50e_54b9e9a6b4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bipp-panggil-rupslb-kedua-untuk-setujui-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Panggil RUPSLB Kedua untuk Setujui [PMTHMETD]",
+  "deck": "Rapat pertama 25 September gagal kuorum, BIPP memanggil pemegang saham independen hadir lagi 16 Oktober untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "RUPSLB",
+   "PMTHMETD",
+   "Penambahan Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/baed3462f0_817507f49f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buah-bagikan-dividen-interim-rp20-miliar-rp10-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUAH Bagikan [Dividen] Interim Rp20 Miliar, Rp10/Saham",
+  "deck": "Direksi dan Dewan Komisaris Segar Kumala Indonesia menyetujui dividen interim tunai Rp20 miliar atau Rp10 per saham, dibayar 6 November 2026.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUAH",
+   "dividen interim",
+   "Segar Kumala Indonesia",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cd9589366f_5e0dde1c08.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-furnitur-ri-capai-us-1-2-miliar-jelang-tei-ke-41",
   "category": "Industri",
   "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
@@ -19,6 +67,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bersertifikat-hijau-dan-terkurasi-furnitur-dan-kriya-berdaya-saing-tinggi-siap-tampil-di-tei-ke-41",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "army-gelar-rupslb-rombak-direksi-imbas-laporan-keuangan-mandek",
+  "category": "Aksi Korporasi",
+  "title": "ARMY Gelar RUPSLB, Rombak [Direksi] Imbas Laporan Keuangan Mandek",
+  "deck": "RUPSLB ARMY pada 30 Oktober 2026 akan membahas pergantian direksi dan komisaris serta perpanjangan waktu audit laporan keuangan 2021 dan 2022 yang sudah tertunda lebih dari empat tahun.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARMY",
+   "RUPSLB",
+   "Armidian Karyatama",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/865c96c985_2b0d8568ea.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apex-resmikan-konversi-utang-ke-hsbc-saham-terdilusi-5-79",
+  "category": "Aksi Korporasi",
+  "title": "APEX Resmikan Konversi Utang ke HSBC, Saham [Terdilusi] 5,79%",
+  "deck": "RUPSLB menyetujui konversi utang Apexindo ke HSBC, 218 juta saham seri B baru akan tercatat di bursa pada 20 Oktober 2026.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APEX",
+   "konversi utang",
+   "HSBC",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe8c2bba23_e12225ae04.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "indonesia-teken-mou-dagang-digital-dan-ai-dengan-tiongkok",
@@ -6397,85 +6477,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7120/pemerintah-siapkan-sejumlah-program-ekonomi-untuk-perkuat-perlidungan-masyarakat-dan-dorong-pertumbuhan-di-2027",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "bmri-lunasi-obligasi-rp2-4-triliun-tepat-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "BMRI Lunasi Obligasi [Rp2,4 Triliun] Tepat Jatuh Tempo",
-  "deck": "Bank Mandiri membayar pokok Obligasi Berkelanjutan I Tahap I Tahun 2016 Seri C senilai Rp2,4 triliun pada tanggal jatuh temponya, 30 September 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMRI",
-   "Bank Mandiri",
-   "obligasi",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2d6d817e7d_fcb482b3ae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "giaa-rugi-menyempit-jadi-us-112-96-juta-ekuitas-kembali-negatif",
-  "category": "Aksi Korporasi",
-  "title": "GIAA: Rugi Menyempit Jadi US$112,96 Juta, Ekuitas Kembali [Negatif]",
-  "deck": "Laporan keuangan interim auditan semester I 2026 menunjukkan pendapatan Garuda naik dan rugi menyempit, tapi ekuitas kembali defisit tipis pada akhir Juni.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "Garuda Indonesia",
-   "laporan keuangan",
-   "ekuitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260930231857-64415-0/FinancialStatement-2026-II-GIAA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpns-janji-sampaikan-laporan-keuangan-kuartal-ii-diaudit",
-  "category": "Aksi Korporasi",
-  "title": "DPNS Janji Sampaikan [Laporan Keuangan] Kuartal II Diaudit",
-  "deck": "Sehari setelah disuspensi BEI karena telat lapor, Duta Pertiwi Nusantara (DPNS) menyatakan akan menyampaikan laporan keuangan kuartal II 2026 yang telah diaudit akuntan publik.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DPNS",
-   "Duta Pertiwi Nusantara",
-   "suspensi BEI",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5991bbc89_e0bc21135e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sema-jawab-bursa-nilai-kontrak-data-center-tak-diungkap",
-  "category": "Aksi Korporasi",
-  "title": "SEMA Jawab Bursa, [Nilai] Kontrak Data Center Tak Diungkap",
-  "deck": "Menanggapi permintaan penjelasan bursa, Semacom menegaskan lingkup kontrak data center CGK5-CGK7 hanya mencakup panel PTU dan SKID, tanpa mengungkap identitas mitra dan nilai kontrak karena NDA.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SEMA",
-   "kontrak penting",
-   "data center",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5a79a293f7_1839a36d63.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cani-raih-opini-disclaimer-defisiensi-modal-us-34-2-juta",
-  "category": "Aksi Korporasi",
-  "title": "CANI Raih Opini [Disclaimer], Defisiensi Modal US$34,2 Juta",
-  "deck": "Auditor KAP Irwanto dan Rekan tak menyatakan pendapat atas laporan keuangan CANI karena liabilitas jangka pendek melebihi aset lancar US$38,3 juta dan defisiensi modal US$34,2 juta.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CANI",
-   "opini disclaimer",
-   "defisiensi modal",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260930222757-64458-0/FinancialStatement-2025-Tahunan-CANI.pdf",
-  "sourceLabel": "IDX"
  }
 ];

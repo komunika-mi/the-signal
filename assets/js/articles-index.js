@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "coin-revisi-laporan-dana-ipo-sisa-rp157-m-di-deposito-bank-jtrust",
+  "category": "Aksi Korporasi",
+  "title": "COIN Revisi Laporan Dana IPO, Sisa Rp157 M di [Deposito] Bank JTrust",
+  "deck": "COIN mengoreksi laporan dana IPO: dari Rp207 miliar dana bersih, baru Rp49,99 miliar dicairkan untuk CFX dan ICC, sisa Rp157 miliar mengendap di deposito Bank JTrust.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "COIN",
+   "IPO",
+   "penggunaan dana",
+   "bursa kripto"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec7c381c07_6739c552fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "blta-bantah-kabar-aksi-korporasi-dan-investasi-klarifikasi",
+  "category": "Aksi Korporasi",
+  "title": "BLTA Bantah Kabar Aksi Korporasi dan Investasi [Klarifikasi]",
+  "deck": "Berlian Laju Tanker Tbk menegaskan kabar yang beredar di media soal rencana aksi korporasi dan investasi strategis bukan berasal dari perseroan.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLTA",
+   "Berlian Laju Tanker",
+   "klarifikasi",
+   "aksi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1ea8ac22b7_3c7864797c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bcic-komisaris-independen-benny-siswanto-mundur",
+  "category": "Aksi Korporasi",
+  "title": "BCIC: Komisaris Independen Benny Siswanto [Mundur]",
+  "deck": "Benny Siswanto mundur sebagai Komisaris Independen JTrust Indonesia saat OJK mendesak reorganisasi bank menyusul kerugian setahun terakhir.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BCIC",
+   "JTrust Indonesia",
+   "Komisaris Independen",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/08efbc6615_5b9a4a1dbc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "maha-kantongi-kontrak-hauling-batu-bara-rp2-2-triliun-hingga-2030",
+  "category": "Aksi Korporasi",
+  "title": "MAHA kantongi kontrak [hauling] batu bara Rp2,2 triliun hingga 2030",
+  "deck": "MAHA menandatangani kontrak jasa pengangkutan batu bara dengan PT Ade Putra Tanrajeng, anak usaha PT Kutai Bara Nusantara, bernilai hingga Rp2,2 triliun dan berlaku sampai 2030.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAHA",
+   "kontrak batu bara",
+   "hauling",
+   "pertambangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/600af192f0_7795541c79.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ltls-siapkan-dana-rp135-miliar-lunasi-obligasi-seri-b",
+  "category": "Aksi Korporasi",
+  "title": "LTLS Siapkan Dana Rp135 Miliar Lunasi [Obligasi] Seri B",
+  "deck": "Lautan Luas (LTLS) menyatakan dana Rp135 miliar sudah siap untuk melunasi obligasi yang jatuh tempo 12 November 2026.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LTLS",
+   "obligasi",
+   "Lautan Luas",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1a7cf74a71_ec73391c27.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tldn-koreksi-realisasi-dana-ipo-rp40-m-dialihkan-ke-cdm",
+  "category": "Aksi Korporasi",
+  "title": "TLDN Koreksi Realisasi Dana IPO, Rp40 M [Dialihkan] ke CDM",
+  "deck": "Teladan Prima Agro mengoreksi laporan realisasi dana IPO: dana Rp40 miliar yang semula untuk pembangkit biogas PT Daya Lestari ternyata disetorkan ke PT Cipta Davia Mandiri.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLDN",
+   "Pasar Modal",
+   "Realisasi Dana IPO",
+   "Cipta Davia Mandiri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5d59cb1ea7_53828b4062.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-pefindo-tahan-peringkat-idb-outlook-negatif-setahun",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: PEFINDO Tahan Peringkat idB, Outlook [Negatif] Setahun",
+  "deck": "PEFINDO mempertahankan peringkat idB untuk Waskita Karya periode 1 Oktober 2026-2027 dengan outlook negatif, sementara obligasi dan sukuk bergaransi pemerintah tetap idAAA.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3ef66a3ce5_ba3152d80a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bumi-koreksi-laporan-dana-obligasi-rp906-miliar-belum-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "BUMI Koreksi Laporan Dana Obligasi, [Rp906 Miliar] Belum Terpakai",
+  "deck": "BUMI mengoreksi laporan realisasi dana empat tahap obligasi senilai Rp3,95 triliun; Rp905,88 miliar belum terpakai, menanti akuisisi Laman Mining dan pelunasan pinjaman ke Indies.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUMI",
+   "obligasi",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c12f106ac3_eb682784aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kdtn-rencana-akuisisi-ruby-mining-tertunda-direksi-berganti",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Rencana Akuisisi Ruby Mining Tertunda, [Direksi] Berganti",
+  "deck": "Ruby Mining (Hong Kong) Limited menunda akuisisi PT Puri Sentul Permai Tbk tanpa batas waktu baru, pemegang saham pengendali ganti direksi lewat RUPSLB.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "akuisisi",
+   "RUPSLB",
+   "Ruby Mining"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aadbda3000_2247002136.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cani-paparkan-defisiensi-modal-as-34-2-juta-dalam-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "CANI Paparkan Defisiensi Modal [AS$34,2 Juta] dalam Public Expose",
+  "deck": "Materi public expose insidentil CANI merinci defisiensi modal AS$34,2 juta dan rencana konversi utang pihak berelasi AS$36,6 juta menjadi ekuitas, menyusul opini disclaimer auditor atas laporan keuangan 2025.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CANI",
+   "disclaimer opinion",
+   "public expose",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b00556aa47_c7b6f6b901.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pefindo-pertahankan-rating-ida-toba-outlook-stabil",
   "category": "Aksi Korporasi",
   "title": "PEFINDO Pertahankan Rating [idA] TOBA, Outlook Stabil",
@@ -6317,165 +6477,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261001033936-64448-0/FinancialStatement-2026-II-APIC.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "brna-koreksi-laporan-keuangan-siapkan-rights-issue-rp372-6-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BRNA Koreksi Laporan Keuangan, Siapkan [Rights Issue] Rp372,6 Miliar",
-  "deck": "Berlina Tbk menerbitkan ulang laporan keuangan kuartal I 2026 yang dikoreksi menjelang rights issue senilai Rp372,6 miliar, sementara laba bersihnya turun 64 persen dari tahun lalu.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRNA",
-   "rights issue",
-   "laporan keuangan",
-   "Berlina Tbk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261001011342-64469-0/FinancialStatement-2026-I-BRNA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "swat-jawab-bursa-ekuitas-ambruk-ke-rp12-46-m-kas-kritis",
-  "category": "Aksi Korporasi",
-  "title": "SWAT Jawab Bursa: Ekuitas Ambruk ke Rp12,46 M, Kas [Kritis]",
-  "deck": "SWAT menjawab permintaan penjelasan Bursa atas opini wajar dengan pengecualian, ekuitas yang tergerus 79,52%, penjualan ambruk 63%, dan kasus hukum direktur utamanya.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SWAT",
-   "opini wajar dengan pengecualian",
-   "suspensi saham",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc3e329242_9c55ff8e82.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inflasi-september-2026-capai-3-28-persen-inti-lebih-rendah",
-  "category": "Makroekonomi",
-  "title": "Inflasi September 2026 Capai [3,28] Persen, Inti Lebih Rendah",
-  "deck": "BPS mencatat inflasi tahunan 3,28 persen pada September 2026, dengan inflasi bulanan 0,30 persen dan inflasi inti 2,84 persen.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/koperasi-desa.jpg",
-  "tags": [
-   "Inflasi",
-   "BPS",
-   "Harga Konsumen",
-   "Ekonomi Makro"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2623",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "harga-perdagangan-besar-naik-6-76-persen-di-september",
-  "category": "Makroekonomi",
-  "title": "Harga Perdagangan Besar [Naik] 6,76 Persen di September",
-  "deck": "BPS mencatat Indeks Harga Perdagangan Besar nasional naik 6,76 persen secara tahunan pada September 2026, dengan bahan bangunan jadi kelompok paling tertekan.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
-  "tags": [
-   "IHPB",
-   "harga grosir",
-   "bahan bangunan",
-   "BPS"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2622",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "untr-undur-jadwal-dividen-interim-ke-november-nilai-tetap-rp430",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Undur Jadwal [Dividen] Interim ke November, Nilai Tetap Rp430",
-  "deck": "UNTR menunda pembayaran dividen interim dari 26 Oktober ke November 2026 agar mengacu pada laporan keuangan kuartal III, sementara nilainya tetap Rp430 per saham atau maksimal Rp1,478 triliun.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "dividen interim",
-   "United Tractors",
-   "jadwal dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2ee24d3a59_558c3f0191.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "giaa-rencanakan-rights-issue-iii-dam-setor-saham-gmfi",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Rencanakan Rights Issue III, DAM Setor Saham [GMFI]",
-  "deck": "Danantara Asset Management akan menebus haknya dalam rights issue baru Garuda lewat penyetoran saham GMFI, bukan uang tunai, menyusul rencana restrukturisasi 2025-2029.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "rights issue",
-   "Danantara Asset Management",
-   "GMFI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1a58ad7f29_0d0e43baf6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asgr-ubah-dividen-interim-jadi-dividen-tunai-final-rp297-saham",
-  "category": "Aksi Korporasi",
-  "title": "ASGR Ubah Dividen Interim Jadi [Dividen Tunai Final] Rp297/Saham",
-  "deck": "Astra Graphia mengubah rencana dividen interim Rp297 per saham menjadi dividen tunai final dengan jumlah sama, namun kini butuh persetujuan RUPSLB yang direncanakan November 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASGR",
-   "dividen",
-   "RUPSLB",
-   "Astra Graphia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93c66f99ec_1a5a4fd0f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "giaa-gelar-rupslb-6-november-usul-agenda-ditutup-8-oktober",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Gelar RUPSLB [6 November], Usul Agenda Ditutup 8 Oktober",
-  "deck": "Garuda Indonesia mengumumkan RUPSLB pada 6 November 2026 secara daring lewat sistem eASY.KSEI. Pemegang saham per 14 Oktober berhak hadir, usul agenda ditutup 8 Oktober.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "RUPSLB",
-   "Garuda Indonesia",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9a79761abf_a8240bc456.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tlkm-ubah-susunan-direksi-lewat-rupslb-dua-direktur-baru",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Ubah Susunan Direksi Lewat [RUPSLB], Dua Direktur Baru",
-  "deck": "RUPSLB Telkom menetapkan Radita Ali Putra dan Kharim I.G. Siregar sebagai direktur baru menggantikan Budi Satria Dharma Purba dan Faizal Rochmad Djoemadi, berlaku sejak 30 September 2026.",
-  "date": "30 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "Direksi",
-   "RUPSLB",
-   "Telkom"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/038e2d61f2_f8cc9ee445.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bansos-beras-dan-bsu-cair-kuartal-iv-pph-pekerja-diperluas",
-  "category": "Makroekonomi",
-  "title": "Bansos Beras dan BSU Cair Kuartal IV, PPh Pekerja [Diperluas]",
-  "deck": "Pemerintah menyiapkan bantuan beras, subsidi upah, dan keringanan pajak untuk kuartal IV 2026, dengan sejumlah program diperluas mulai 2027.",
-  "date": "30 September 2026",
-  "image": "assets/img/gudang-beras.jpg",
-  "tags": [
-   "Bantuan Sosial",
-   "Subsidi Upah",
-   "PPh 21",
-   "KPR Subsidi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7120/pemerintah-siapkan-sejumlah-program-ekonomi-untuk-perkuat-perlidungan-masyarakat-dan-dorong-pertumbuhan-di-2027",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

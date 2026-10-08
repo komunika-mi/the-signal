@@ -3,6 +3,266 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "coin-revisi-laporan-dana-ipo-sisa-rp157-m-di-deposito-bank-jtrust",
+  "category": "Aksi Korporasi",
+  "title": "COIN Revisi Laporan Dana IPO, Sisa Rp157 M di [Deposito] Bank JTrust",
+  "deck": "COIN mengoreksi laporan dana IPO: dari Rp207 miliar dana bersih, baru Rp49,99 miliar dicairkan untuk CFX dan ICC, sisa Rp157 miliar mengendap di deposito Bank JTrust.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T17:59:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec7c381c07_6739c552fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "COIN",
+  "tags": [
+   "COIN",
+   "IPO",
+   "penggunaan dana",
+   "bursa kripto"
+  ],
+  "body": [
+   "PT Indokripto Koin Semesta Tbk (COIN) mengoreksi laporan penggunaan dana hasil penawaran umum yang sebelumnya disampaikan pada 14 Juli 2026. Dalam laporan revisi yang diteken Indira Indah Prameshwari dan disampaikan ke Bursa Efek Indonesia pada 8 Oktober 2026, perseroan menyebut total dana yang terkumpul dari IPO saham COIN, yang efektif sejak 30 Juni 2025, sebesar Rp220,59 miliar. Setelah dipotong biaya penawaran umum Rp13,53 miliar atau 6,13 persen dari total dana, hasil bersih yang diterima perseroan adalah Rp207,06 miliar.",
+   "Dari dana bersih tersebut, Rp49,99 miliar sudah dicairkan sesuai rencana dalam prospektus, sementara sisa Rp157,07 miliar masih disimpan dalam bentuk deposito di Bank JTrust berjangka waktu tiga bulan dengan bunga 6,5 persen per tahun. Bank JTrust disebut sebagai pihak ketiga yang tidak memiliki hubungan afiliasi dengan perseroan.",
+   "Berdasarkan rencana dalam prospektus, dana hasil IPO dialokasikan untuk dua entitas yakni PT Central Finansial X (CFX) dan PT Kustodian Koin Indonesia (ICC). Porsi terbesar, 38,25 persen atau Rp79,2 miliar, untuk biaya infrastruktur teknologi CFX seperti layanan cloud dan keamanan sistem. Disusul 34 persen atau Rp70,4 miliar untuk biaya provisi likuiditas bursa kripto, dan 12,75 persen atau Rp26,4 miliar untuk beban umum dan administrasi operasional CFX. Untuk ICC, dialokasikan 12 persen atau Rp24,85 miliar untuk biaya teknologi dan 3 persen atau Rp6,21 miliar untuk beban umum dan administrasi.",
+   "Realisasi pencairan dana untuk kelima pos tersebut, per 30 Juni 2026, tercatat Rp17,99 miliar untuk infrastruktur teknologi CFX, Rp15,99 miliar untuk provisi likuiditas bursa, Rp5,99 miliar untuk beban umum CFX, Rp8 miliar untuk teknologi ICC, dan Rp2 miliar untuk beban umum ICC. Namun rincian lampiran lain dalam laporan menunjukkan dana yang benar-benar terpakai untuk kegiatan operasional lebih kecil lagi, yaitu sekitar Rp17,89 miliar, dengan komponen terbesar Rp13,69 miliar untuk infrastruktur teknologi CFX."
+  ],
+  "fotoAdegan": "Rows of server racks with blinking indicator lights in a cooling data center aisle, a technician checking cables, dim blue lighting",
+  "takeaway": "Koreksi ini netral bagi fundamental COIN, sebab yang diubah hanya format pelaporan penggunaan dana IPO, bukan jumlah dana atau rencana penggunaannya. Yang patut dicermati adalah arus kas perseroan, yaitu uang tunai yang bergerak masuk dan keluar: dari Rp207,06 miliar dana bersih IPO, baru sekitar 24 persen yang dicairkan ke CFX dan ICC setelah lebih dari setahun berjalan, dan dari jumlah itu pun hanya sekitar 8,6 persen yang benar-benar terpakai untuk kegiatan operasional, sementara sisanya, Rp157,07 miliar, masih mengendap sebagai deposito berbunga 6,5 persen. Arus kas ini penting dipantau karena menunjukkan seberapa cepat perseroan merealisasikan rencana ekspansi infrastruktur teknologi dan likuiditas bursa kriptonya, bukan sekadar menyimpan uang di bank. Yang perlu dipantau selanjutnya adalah laporan realisasi penggunaan dana periode berikutnya, yang biasanya disampaikan tiap semester, untuk melihat apakah penyerapan dana ke CFX dan ICC mulai mengejar rencana dalam prospektus atau justru makin tertinggal.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "blta-bantah-kabar-aksi-korporasi-dan-investasi-klarifikasi",
+  "category": "Aksi Korporasi",
+  "title": "BLTA Bantah Kabar Aksi Korporasi dan Investasi [Klarifikasi]",
+  "deck": "Berlian Laju Tanker Tbk menegaskan kabar yang beredar di media soal rencana aksi korporasi dan investasi strategis bukan berasal dari perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T17:51:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1ea8ac22b7_3c7864797c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLTA",
+  "tags": [
+   "BLTA",
+   "Berlian Laju Tanker",
+   "klarifikasi",
+   "aksi korporasi"
+  ],
+  "body": [
+   "PT Berlian Laju Tanker Tbk (BLTA) menyampaikan klarifikasi resmi ke Bursa Efek Indonesia pada 8 Oktober 2026 terkait artikel yang beredar di media Kompasiana mengenai rencana aksi korporasi dan investasi strategis yang dikaitkan dengan perseroan. Dalam surat bernomor 031/BLT/IRD/X/2026, perseroan menegaskan bahwa informasi tersebut tidak bersumber dari BLTA dan tidak pernah dikonfirmasi melalui saluran komunikasi resmi perusahaan.",
+   "Corporate Secretary BLTA, Benny Rachmat, menyatakan bahwa manajemen tidak pernah memberikan pernyataan, keterangan, atau konfirmasi apa pun kepada penulis maupun pihak yang mempublikasikan artikel tersebut. 'Informasi tersebut bukan berasal dari Perseroan. Kami tidak pernah memberikan pernyataan ataupun konfirmasi kepada pihak yang mempublikasikan informasi tersebut mengenai rencana aksi korporasi maupun investasi strategis sebagaimana diberitakan,' ujar Benny dalam siaran pers tertanggal 30 September 2026. Perseroan juga menegaskan tidak bertanggung jawab atas interpretasi atau spekulasi pihak lain yang disampaikan tanpa persetujuan resminya.",
+   "BLTA menyatakan bahwa informasi yang beredar itu tidak menjadi dasar pelaksanaan aksi korporasi apa pun dan tidak menimbulkan dampak material terhadap operasional, kondisi keuangan, maupun kelangsungan usaha perseroan. Perseroan mengimbau pemegang saham, investor, dan masyarakat untuk tidak menjadikan sumber yang tidak terverifikasi sebagai dasar keputusan investasi, dan berjanji akan menyampaikan setiap informasi atau fakta material wajib melalui mekanisme keterbukaan informasi resmi sesuai aturan yang berlaku."
+  ],
+  "fotoAdegan": "Chemical tanker ship docked at a busy Indonesian port, cargo cranes and pipelines in the background, overcast afternoon light",
+  "takeaway": "Klarifikasi ini condong netral bagi BLTA karena isinya murni membantah sumber kabar, tanpa ada angka transaksi, kesepakatan, atau rencana konkret yang baru diumumkan. Tidak ada pos kinerja yang tersentuh langsung, baik ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham, sebab perseroan sendiri menegaskan belum ada aksi korporasi nyata yang terjadi, jadi sejauh ini tidak ada dasar bagi pasar untuk mengubah penilaian atas fundamental perusahaan. Yang perlu dipantau investor adalah apakah BLTA benar-benar akan menerbitkan keterbukaan informasi resmi soal rencana investasi strategis yang sempat beredar itu, sebagaimana dijanjikan dalam suratnya tertanggal 8 Oktober 2026, mengingat sampai saat ini perseroan belum memberi tenggat atau jadwal pasti kapan pengumuman semacam itu akan disampaikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bcic-komisaris-independen-benny-siswanto-mundur",
+  "category": "Aksi Korporasi",
+  "title": "BCIC: Komisaris Independen Benny Siswanto [Mundur]",
+  "deck": "Benny Siswanto mundur sebagai Komisaris Independen JTrust Indonesia saat OJK mendesak reorganisasi bank menyusul kerugian setahun terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T17:46:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/08efbc6615_5b9a4a1dbc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BCIC",
+  "tags": [
+   "BCIC",
+   "JTrust Indonesia",
+   "Komisaris Independen",
+   "OJK"
+  ],
+  "body": [
+   "Benny Siswanto mengajukan pengunduran diri sebagai Komisaris Independen PT Bank JTrust Indonesia Tbk (BCIC) melalui surat tertanggal 7 Oktober 2026. Surat itu dilaporkan ke Bursa Efek Indonesia oleh Corsec Division Head BCIC, Hendy Deiny Wong, pada 8 Oktober 2026. Perseroan menyatakan pengunduran diri ini tidak berdampak material terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan.",
+   "Dalam surat pengunduran dirinya, Benny menjelaskan bahwa hasil audit Otoritas Jasa Keuangan (OJK) merekomendasikan agar manajemen dan Dewan Komisaris segera membenahi bank, menyusul kinerja yang sempat membaik dalam beberapa tahun terakhir namun kembali mencatat kerugian pada tahun terakhir. Berdasarkan evaluasi OJK dan pemegang saham itu, Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) akan digelar pada Desember 2026 dengan salah satu agendanya adalah pergantian jajaran Komisaris dan Direksi.",
+   "Benny telah menjabat lima tahun atau dua periode sebagai Komisaris Independen, sekaligus Ketua Komite Audit, Ketua Komite Nominasi dan Remunerasi, serta anggota Komite Pemantau Risiko. Masa tugasnya semula berakhir pada RUPST Juni 2026, tetapi Komite Nominasi dan Remunerasi mengusulkan perpanjangan satu tahun hingga RUPST 2027 karena pengganti belum tersedia, dan usulan itu disetujui RUPST Juni 2026. Benny, yang kini berusia 67 tahun, menyebut penggantinya, seorang bekas pejabat OJK, sudah ditemukan dan lolos seleksi, sehingga ia memilih mundur lebih cepat. Usulan pengunduran diri beserta nama penggantinya akan disampaikan kepada OJK dan RUPSLB Desember 2026."
+  ],
+  "fotoAdegan": "Empty boardroom chairs around a long table in a modern bank office tower, Jakarta skyline visible through floor to ceiling windows, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi BCIC karena pengunduran dini Komisaris Independen ini terjadi tepat setelah OJK merekomendasikan reorganisasi menyusul bank mencatat kerugian pada tahun terakhir, meski proses suksesinya sudah disiapkan dengan tertib. Yang tersentuh di sini berkaitan dengan keandalan laporan laba perusahaan: Benny selama ini merangkap Ketua Komite Audit, yaitu komite yang mengawasi kewajaran laporan keuangan dan praktik akuntansi bank, sehingga kekosongan di posisi ini biasa diperhatikan pelaku pasar sampai ada kejelasan siapa pengisinya. Yang perlu dipantau berikutnya adalah Rapat Umum Pemegang Saham Luar Biasa pada Desember 2026, yang akan mengesahkan pergantian jajaran Komisaris dan Direksi, termasuk memastikan apakah pengganti Benny, seorang bekas pejabat OJK yang disebut sudah lolos seleksi, benar diangkat pada rapat tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "maha-kantongi-kontrak-hauling-batu-bara-rp2-2-triliun-hingga-2030",
+  "category": "Aksi Korporasi",
+  "title": "MAHA kantongi kontrak [hauling] batu bara Rp2,2 triliun hingga 2030",
+  "deck": "MAHA menandatangani kontrak jasa pengangkutan batu bara dengan PT Ade Putra Tanrajeng, anak usaha PT Kutai Bara Nusantara, bernilai hingga Rp2,2 triliun dan berlaku sampai 2030.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T17:39:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/600af192f0_7795541c79.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAHA",
+  "tags": [
+   "MAHA",
+   "kontrak batu bara",
+   "hauling",
+   "pertambangan"
+  ],
+  "body": [
+   "PT Mandiri Herindo Adiperkasa Tbk (MAHA) mengumumkan penandatanganan kontrak jasa pengangkutan atau hauling batu bara dengan PT Ade Putra Tanrajeng, anak usaha PT Kutai Bara Nusantara, pada 6 Oktober 2026. Kontrak ini berlaku hingga tahun 2030, atau sekitar empat tahun ke depan, dengan perkiraan nilai total mencapai Rp2,2 triliun.",
+   "Dalam keterbukaan informasi ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, perusahaan menyebut kontrak ini mencakup rangkaian kegiatan operasional yang saling terkait dan berkelanjutan selama masa kerja sama. Direktur Utama MAHA, Yenny Hamidah Koean, menyatakan kontrak ini sebagai bukti kemampuan perusahaan memberikan jasa transportasi komoditas pertambangan yang disebutnya handal, efisien, dan mengutamakan keselamatan kerja.",
+   "Perseroan menyebut perolehan kontrak ini berdampak langsung pada peningkatan pendapatan di masa mendatang, sekaligus memperkuat posisinya sebagai salah satu operator hauling batu bara terbesar di Indonesia. Laporan ditandatangani oleh Ivan Darwin selaku Corporate Secretary MAHA."
+  ],
+  "fotoAdegan": "Heavy mining dump trucks hauling coal along a dusty unpaved road through an open-pit mine, overcast sky",
+  "takeaway": "Catatan ini saya nilai POSITIF untuk MAHA, karena kontrak hauling batu bara senilai hingga Rp2,2 triliun dengan PT Ade Putra Tanrajeng berjalan sampai 2030 dan memberi kepastian pendapatan jasa pengangkutan selama empat tahun ke depan. Yang tersentuh dari kontrak ini adalah arus kas, yaitu aliran uang masuk dan keluar dari kegiatan usaha perusahaan, karena kontrak jangka panjang membuat pendapatan ke depan lebih bisa diprediksi dibanding mengandalkan kontrak jangka pendek yang harus terus diperbarui. Perlu dicatat, angka Rp2,2 triliun itu disebut sebagai perkiraan maksimal, bukan nilai pasti, sehingga realisasinya tergantung volume batu bara yang benar-benar diangkut selama masa kontrak berjalan. Yang perlu dipantau selanjutnya adalah laporan keuangan MAHA pada kuartal-kuartal berikutnya, untuk melihat kapan dan seberapa besar kontribusi kontrak ini mulai tercermin dalam pendapatan perusahaan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ltls-siapkan-dana-rp135-miliar-lunasi-obligasi-seri-b",
+  "category": "Aksi Korporasi",
+  "title": "LTLS Siapkan Dana Rp135 Miliar Lunasi [Obligasi] Seri B",
+  "deck": "Lautan Luas (LTLS) menyatakan dana Rp135 miliar sudah siap untuk melunasi obligasi yang jatuh tempo 12 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T17:26:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1a7cf74a71_ec73391c27.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LTLS",
+  "tags": [
+   "LTLS",
+   "obligasi",
+   "Lautan Luas",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Lautan Luas Tbk (LTLS) menyampaikan kepada Bursa Efek Indonesia bahwa perusahaan telah menyiapkan dana yang cukup untuk melunasi Obligasi Berkelanjutan III Lautan Luas Tahap II Tahun 2021 Seri B. Nilai pokok obligasi ini sebesar Rp135 miliar dan akan jatuh tempo pada 12 November 2026. Surat pemberitahuan bernomor 135/LTL-LCS/X/2026 ditandatangani oleh Direktur Elly Mariana Tansil pada 8 Oktober 2026.",
+   "Penyampaian laporan ini merupakan pemenuhan kewajiban sesuai Peraturan Bursa Efek Indonesia Nomor Kep-00087/BEI/12-2025 tentang perubahan Peraturan I-E, yang mewajibkan emiten penerbit obligasi menyatakan kesiapan dana pelunasan paling lambat 15 hari bursa sebelum tanggal jatuh tempo. Dengan pernyataan ini, Lautan Luas memastikan kepada bursa dan pemegang obligasi bahwa pembayaran pokok utang senilai Rp135 miliar tersebut akan berjalan sesuai jadwal tanpa kendala pendanaan."
+  ],
+  "fotoAdegan": "Workers in protective gear moving chemical drums across a warehouse floor at an industrial distribution facility",
+  "takeaway": "Laporan ini condong positif bagi Lautan Luas, karena menunjukkan perusahaan sudah punya uang tunai cukup untuk melunasi utang Rp135 miliar tanpa perlu mencari pembiayaan baru atau menjual aset. Yang tersentuh adalah arus kas perusahaan, yaitu ketersediaan uang tunai untuk membayar kewajiban tepat waktu, hal yang dipantau pelaku pasar obligasi karena gagal bayar bisa merusak kepercayaan terhadap penerbitan utang perusahaan berikutnya. Setelah obligasi ini lunas, beban bunga yang selama ini ditanggung Lautan Luas atas seri obligasi tersebut akan hilang, sehingga pos beban bunga di laporan keuangan berikutnya diperkirakan berkurang. Yang perlu dipantau selanjutnya adalah tanggal jatuh tempo pada 12 November 2026, saat pelunasan aktual harus benar-benar terjadi sesuai pernyataan kesiapan dana ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tldn-koreksi-realisasi-dana-ipo-rp40-m-dialihkan-ke-cdm",
+  "category": "Aksi Korporasi",
+  "title": "TLDN Koreksi Realisasi Dana IPO, Rp40 M [Dialihkan] ke CDM",
+  "deck": "Teladan Prima Agro mengoreksi laporan realisasi dana IPO: dana Rp40 miliar yang semula untuk pembangkit biogas PT Daya Lestari ternyata disetorkan ke PT Cipta Davia Mandiri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T17:20:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5d59cb1ea7_53828b4062.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLDN",
+  "tags": [
+   "TLDN",
+   "Pasar Modal",
+   "Realisasi Dana IPO",
+   "Cipta Davia Mandiri"
+  ],
+  "body": [
+   "PT Teladan Prima Agro Tbk (TLDN) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil penawaran umum perdana (LRPD) yang sebelumnya dikirim 14 Juli 2026. Surat koreksi bernomor 125/TPA-Dir/X/2026 ini ditandatangani Direktur Utama Wishnu Wardhana dan disampaikan oleh Corsec & Legal Arya Wibisana, tertanggal 6 Oktober 2026. Total dana hasil IPO saham TLDN yang efektif 31 Maret 2022 tercatat Rp300,36 miliar, setelah dipotong biaya penawaran umum Rp14,75 miliar, hasil bersihnya Rp285,60 miliar. Per 30 Juni 2026, seluruh dana itu sudah terserap 100 persen dan sisa dananya nol, serta laporan ini ditandai sebagai LRPD terakhir.",
+   "Rincian pemakaian dana terdiri dari empat pos. Porsi terbesar, 48 persen atau Rp136,32 miliar, dipakai untuk mengakuisisi 18.157.199 lembar saham atau 99,99 persen kepemilikan PT Cipta Davia Mandiri (CDM) dari PT REA Kaltim Plantations. Sebanyak 15 persen atau Rp44 miliar disetorkan sebagai modal ke PT Telen Prima Sawit untuk membangun pabrik pengolahan inti sawit (Kernel Crushing Plant). Dua pos terakhir yang justru menjadi inti koreksi: rencana yang disetujui RUPS Tahunan 16 April 2026 mengalokasikan 14 persen atau Rp40 miliar untuk penyertaan modal ke PT Daya Lestari guna membangun pembangkit listrik tenaga biogas, tetapi dalam tabel realisasi yang dikoreksi ini, dana sebesar itu tercatat justru disetorkan sebagai modal ke PT Cipta Davia Mandiri. Sisa 23 persen atau Rp65,28 miliar tetap mengalir ke Cipta Davia Mandiri sebagai uang muka modal kerja untuk peningkatan produktivitas kebun.",
+   "Dengan perubahan itu, total dana IPO yang berakhir di PT Cipta Davia Mandiri naik menjadi sekitar Rp241,6 miliar atau sekitar 85 persen dari seluruh hasil bersih penawaran umum, dibanding rencana awal yang menyisakan sebagian untuk proyek pembangkit biogas di anak usaha lain. Perseroan menyatakan perubahan penggunaan dana ini telah mendapat persetujuan RUPS Tahunan 16 April 2026 dan disampaikan sesuai kewajiban pelaporan dana IPO ke OJK dan BEI."
+  ],
+  "fotoAdegan": "Workers checking pipes at a small biogas digester unit beside an oil palm plantation, hazy morning light in Kalimantan",
+  "takeaway": "Laporan ini netral bagi investor TLDN, karena inti pesannya adalah koreksi catatan ke mana dana IPO yang sudah habis terpakai sejak Juni 2026 itu sebenarnya mengalir, bukan suntikan dana baru, utang baru, atau perubahan jumlah saham beredar. Pos yang tersentuh hanya realisasi penggunaan dana hasil penawaran umum, bukan arus kas operasional atau laba per saham, tapi angka ini tetap penting karena menunjukkan ke anak usaha mana modal perusahaan benar-benar ditanam. Yang perlu dicermati, porsi Rp40 miliar yang tadinya untuk membangun pembangkit listrik biogas di PT Daya Lestari kini tercatat mengalir ke PT Cipta Davia Mandiri, sehingga total dana IPO yang terkonsentrasi di satu anak usaha itu naik menjadi sekitar 85 persen, pola pemusatan modal yang pantas dipantau lewat laporan keuangan berikutnya. Karena laporan ini ditandai sebagai LRPD terakhir, tidak akan ada revisi susulan soal dana IPO ini, sehingga perhatian selanjutnya beralih ke kinerja operasional Cipta Davia Mandiri dan kejelasan nasib proyek pembangkit biogas di PT Daya Lestari.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wskt-pefindo-tahan-peringkat-idb-outlook-negatif-setahun",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: PEFINDO Tahan Peringkat idB, Outlook [Negatif] Setahun",
+  "deck": "PEFINDO mempertahankan peringkat idB untuk Waskita Karya periode 1 Oktober 2026-2027 dengan outlook negatif, sementara obligasi dan sukuk bergaransi pemerintah tetap idAAA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T17:14:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3ef66a3ce5_ba3152d80a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk melaporkan ke Otoritas Jasa Keuangan hasil pemantauan peringkat tahunan dari PEFINDO yang berlaku untuk periode 1 Oktober 2026 sampai 1 Oktober 2027. Dalam surat bernomor 1083/WK/SEKPER/2026 yang ditandatangani Sekretaris Perusahaan Steven Subiantoro, PEFINDO menetapkan peringkat perusahaan Waskita Karya di level idB dengan outlook negatif. Keputusan diambil dalam rapat Komite Pemeringkatan PEFINDO pada 1 Oktober 2026, berdasarkan laporan keuangan tidak diaudit per 30 Juni 2026 dan laporan keuangan audit per 31 Desember 2025.",
+   "Untuk surat utang yang dijamin pemerintah, PEFINDO memberi peringkat tertinggi idAAA(gg) kepada Obligasi III Tahun 2021 Seri B serta Obligasi IV Tahun 2022 Seri A dan B, dengan total nilai Rp3,18 triliun. Sukuk Mudharabah I Tahun 2022 Seri A dan B senilai total Rp1,15 triliun mendapat peringkat idAAA(sy)(gg). Kedua kelompok ini mendapat rating tertinggi karena dijamin secara penuh, tanpa syarat, dan tidak dapat ditarik kembali oleh pemerintah. Sebaliknya, empat seri Obligasi Berkelanjutan III dan IV senilai total Rp4,72 triliun yang tidak memiliki garansi pemerintah hanya mendapat peringkat idB, setara dengan peringkat korporasi, dan seluruh instrumen dalam daftar lampiran tercatat dengan outlook negatif untuk periode rating yang sama.",
+   "PEFINDO menjelaskan bahwa peringkat idB menunjukkan parameter proteksi yang lemah dibanding emiten Indonesia lain, dan kemampuan Waskita memenuhi komitmen keuangan jangka panjang sangat mungkin melemah lebih jauh jika kondisi bisnis, keuangan, atau ekonomi memburuk. Surat itu juga mengingatkan bahwa sesuai POJK Nomor 24/2021, Waskita Karya wajib menyampaikan setiap informasi atau fakta material yang dapat memengaruhi hasil peringkat kepada PEFINDO paling lambat dua hari kerja sejak fakta itu muncul."
+  ],
+  "fotoAdegan": "Workers inspecting steel rebar and concrete beams at an elevated highway construction site under an overcast sky",
+  "takeaway": "Laporan ini netral bagi Waskita Karya, karena level peringkat korporasi tidak berubah dari penetapan idB yang sudah diberitakan pekan lalu, tapi tambahan status outlook negatif untuk hampir semua instrumen berarti ruang perbaikan belum dianggap solid oleh pemeringkat. Yang tersentuh di sini adalah arus kas dan beban bunga, karena peringkat kredit yang rendah membuat biaya pinjaman ke depan cenderung lebih mahal dan kemampuan membayar utang jangka panjang dari obligasi tanpa garansi pemerintah dinilai masih rapuh, sementara obligasi dan sukuk yang dijamin negara tetap aman di level tertinggi karena risikonya ditanggung pemerintah, bukan oleh kas Waskita sendiri. Yang perlu dipantau berikutnya adalah laporan keuangan audit per 31 Desember 2026 yang akan menjadi salah satu basis evaluasi PEFINDO selanjutnya, serta kewajiban Waskita melaporkan setiap fakta material ke PEFINDO maksimal dua hari kerja setiap kali muncul, karena pelanggaran atas kewajiban ini bisa memicu peninjauan ulang peringkat sebelum periode setahun berakhir pada 1 Oktober 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bumi-koreksi-laporan-dana-obligasi-rp906-miliar-belum-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "BUMI Koreksi Laporan Dana Obligasi, [Rp906 Miliar] Belum Terpakai",
+  "deck": "BUMI mengoreksi laporan realisasi dana empat tahap obligasi senilai Rp3,95 triliun; Rp905,88 miliar belum terpakai, menanti akuisisi Laman Mining dan pelunasan pinjaman ke Indies.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T17:11:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c12f106ac3_eb682784aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUMI",
+  "tags": [
+   "BUMI",
+   "obligasi",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "body": [
+   "Bumi Resources Tbk (BUMI) merilis koreksi atas laporan realisasi penggunaan dana hasil empat tahap Obligasi Berkelanjutan I BUMI, yaitu Tahap II dan III Tahun 2025 serta Tahap IV dan V Tahun 2026, dengan total nilai penerbitan Rp3,95 triliun. Koreksi ini menyusul surat penelaahan Otoritas Jasa Keuangan (OJK) tertanggal 29 September 2026 atas laporan periode 30 Juni 2026. Dari total dana bersih setelah biaya emisi sebesar Rp3,91 triliun, perseroan baru merealisasikan penggunaan Rp3,01 triliun atau 77 persen hingga 30 Juni 2026. Sisanya, Rp905,88 miliar, belum terpakai dan disimpan dalam rekening giro rupiah di PT Bank Ina Perdana Tbk, pihak ketiga yang tidak berelasi dengan BUMI, dengan bunga 5,6 persen per tahun.",
+   "Rinciannya per tahap: dana Tahap II 2025 senilai Rp714,18 miliar sudah 100 persen terpakai, terbagi untuk modal kerja perseroan Rp271,31 miliar (38 persen), akuisisi anak usaha Wolfram atau WFL Rp344,12 miliar (48 persen), dan pinjaman modal kerja ke WFL Rp98,75 miliar (14 persen). Untuk Tahap III 2025 senilai bersih Rp771,99 miliar, dana untuk akuisisi JML Rp340,88 miliar (44 persen) dan pinjaman modal kerja WFL Rp97,5 miliar (13 persen) sudah tuntas, tetapi dana akuisisi PT Laman Mining senilai Rp333,6 miliar (43 persen) masih belum digunakan. Perseroan menargetkan akuisisi ini rampung pada 30 Oktober 2026.",
+   "Pada Tahap IV 2026 senilai bersih Rp606,26 miliar, dana modal kerja Rp258,92 miliar (43 persen) sudah terealisasi penuh. Namun dari rencana pelunasan pinjaman perseroan kepada Indies senilai Rp347,34 miliar (57 persen), baru Rp39,6 miliar atau 7 persen yang terbayar, dengan sisa Rp307,74 miliar ditargetkan lunas pada 6 November 2026. Sementara pada Tahap V 2026 senilai bersih Rp1,82 triliun, pinjaman modal kerja ke anak usaha PT Arutmin sebesar Rp1,51 triliun (83 persen) sudah tuntas, tetapi dana modal kerja perseroan Rp316,12 miliar (17 persen) baru terpakai Rp51,59 miliar (3 persen), menyisakan Rp264,54 miliar yang masih tersimpan."
+  ],
+  "fotoAdegan": "Heavy haul trucks loading coal at a dusty open-pit mine site under an overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi fundamental BUMI karena sifatnya administratif, memperbarui status pemakaian dana obligasi yang sebagian besar, yaitu 77 persen, memang sudah terpakai sesuai rencana, meski akuisisi Laman Mining dan pelunasan pinjaman ke Indies masih tertunda. Pos yang tersentuh adalah posisi kas perseroan, sebab sisa Rp905,88 miliar dari hasil obligasi masih mengendap di rekening giro berbunga 5,6 persen, bukan dialirkan ke modal kerja atau investasi seperti rencana awal, sehingga belum menuntaskan ekspansi yang dijanjikan ke investor. Pelaku pasar biasanya mencermati pos kas semacam ini karena dana yang nganggur terlalu lama berarti rencana bisnis seperti akuisisi tambang baru belum berjalan, meski dampaknya belum terasa di laba per saham atau ekuitas. Yang perlu dipantau berikutnya adalah dua target yang disebut perseroan sendiri, yaitu rampungnya akuisisi PT Laman Mining pada 30 Oktober 2026 dan pelunasan sisa pinjaman ke Indies pada 6 November 2026, karena keduanya menentukan apakah sisa dana Rp905,88 miliar benar-benar terpakai sesuai rencana.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kdtn-rencana-akuisisi-ruby-mining-tertunda-direksi-berganti",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Rencana Akuisisi Ruby Mining Tertunda, [Direksi] Berganti",
+  "deck": "Ruby Mining (Hong Kong) Limited menunda akuisisi PT Puri Sentul Permai Tbk tanpa batas waktu baru, pemegang saham pengendali ganti direksi lewat RUPSLB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T16:47:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aadbda3000_2247002136.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "akuisisi",
+   "RUPSLB",
+   "Ruby Mining"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) mengumumkan telah menerima surat pemberitahuan resmi dari pemegang saham utama atau pengendali, yaitu PT Putrasakti Mandiri, PT Cahyasakti Investindo Sukses Tbk, dan PT Intan Perdana Sukses, pada 8 Oktober 2026. Surat itu berisi perkembangan terbaru rencana pengambilalihan KDTN oleh calon pembeli Ruby Mining (Hong Kong) Limited.",
+   "Rapat Umum Pemegang Saham Independen (RUPSI) yang sedianya membahas persetujuan transaksi pengambilalihan ini sebelumnya sudah resmi ditunda sesuai arahan Otoritas Jasa Keuangan (OJK). Rencana penyelesaian transaksi yang semula ditargetkan rampung pada kuartal ketiga 2026 kini ikut tertunda, karena Ruby Mining menyatakan menunda pelaksanaan transaksi sampai waktu yang belum ditentukan.",
+   "Menyusul penundaan dari calon pembeli tersebut, pemegang saham pengendali selaku calon penjual akan mengganti jajaran pengurus perseroan melalui Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Dokumen tidak mencantumkan tanggal pelaksanaan RUPSLB maupun susunan pengurus baru yang akan diajukan. Adapun Perjanjian Jual Beli Bersyarat (Conditional Sale and Purchase Agreement atau CSPA) antara pemegang saham dan Ruby Mining disebutkan masih berlaku, dan belum ada perubahan atas perjanjian itu hingga tanggal keterbukaan ini."
+  ],
+  "fotoAdegan": "A quiet hotel terrace overlooking green hills near Sentul, empty lounge chairs among tropical plants, soft morning light, no people in frame",
+  "takeaway": "Laporan ini condong negatif bagi KDTN, karena pihak yang semula berencana membeli perusahaan ini malah menunda transaksinya tanpa kepastian waktu baru, dan penundaan itu sampai memicu pergantian direksi di tengah jalan. Memang tidak ada angka ekuitas, arus kas, atau laba per saham yang berubah dalam laporan ini, tapi kepastian soal siapa yang akan mengendalikan dan menjalankan perusahaan ke depan ini justru yang paling dicari pelaku pasar, karena rencana modal, strategi bisnis hotel dan restoran, bahkan arah investasi perusahaan bisa berbeda tergantung siapa pemegang saham pengendali akhirnya. Perjanjian jual beli bersyarat atau CSPA dengan Ruby Mining disebut masih berlaku, jadi transaksi secara formal belum batal, tapi tanpa ada tenggat waktu baru pasar sulit menilai kapan atau apakah akuisisi ini akan benar-benar selesai. Yang perlu dipantau selanjutnya adalah pelaksanaan RUPSLB untuk pergantian direksi, karena dokumen ini belum menyebut tanggalnya, serta kabar lanjutan soal kapan Ruby Mining menetapkan jadwal baru atau justru membatalkan CSPA.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cani-paparkan-defisiensi-modal-as-34-2-juta-dalam-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "CANI Paparkan Defisiensi Modal [AS$34,2 Juta] dalam Public Expose",
+  "deck": "Materi public expose insidentil CANI merinci defisiensi modal AS$34,2 juta dan rencana konversi utang pihak berelasi AS$36,6 juta menjadi ekuitas, menyusul opini disclaimer auditor atas laporan keuangan 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T16:13:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b00556aa47_c7b6f6b901.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CANI",
+  "tags": [
+   "CANI",
+   "disclaimer opinion",
+   "public expose",
+   "suspensi saham"
+  ],
+  "body": [
+   "PT Capitol Nusantara Indonesia Tbk (CANI) menggelar paparan publik insidentil pada Jumat, 9 Oktober 2026 pukul 10.00 WIB melalui aplikasi Zoom, sebagai bagian dari kewajiban keterbukaan informasi menyusul opini Tidak Menyatakan Pendapat (disclaimer of opinion) dari auditor independen atas laporan keuangan tahun buku 2025. Dalam materi yang disampaikan ke Bursa Efek Indonesia, manajemen menjelaskan bahwa disclaimer tersebut diberikan karena auditor, per laporan bertanggal 28 September 2026, tidak memperoleh bukti audit yang cukup mengenai rencana perseroan untuk memperbaiki kondisi keuangannya secara keseluruhan.",
+   "Dokumen tersebut merinci bahwa per 30 Juni 2026, CANI mencatat defisiensi modal sekitar AS$34,2 juta serta liabilitas jangka pendek yang melampaui aset lancar sebesar AS$38,3 juta. Modal kerja negatif ini sebagian berasal dari utang kepada pihak berelasi senilai AS$36,6 juta. Untuk tahun buku 2025, pendapatan perseroan tercatat AS$2,32 juta, turun 29,8 persen dibanding tahun sebelumnya. Namun rugi kotor menyusut 20,6 persen menjadi AS$1,40 juta, rugi usaha berkurang 76,1 persen menjadi AS$0,54 juta, dan rugi bersih turun 68,2 persen menjadi AS$0,72 juta. Kas dari kegiatan operasional naik dari AS$84.533 pada 2024 menjadi AS$805.175 pada 2025.",
+   "Sebagai langkah pemulihan, manajemen menyebut sedang berdiskusi dengan para kreditor mengenai rencana mengonversi utang pihak berelasi menjadi ekuitas, yang masih memerlukan persetujuan regulator dan pemegang saham. Perseroan juga akan melepas kapal-kapal yang tidak beroperasi untuk menekan beban, memperkuat hubungan dengan pelanggan utama, serta memperketat pengawasan arus kas dan belanja modal. Manajemen menegaskan akan terus berkoordinasi dengan BEI dan OJK terkait kondisi yang menjadi dasar suspensi perdagangan saham CANI, dan menyatakan tidak ada fakta material lain yang belum diungkapkan."
+  ],
+  "fotoAdegan": "Tugboat and barge moored at a quiet Indonesian port terminal, overcast sky, workers inspecting mooring lines",
+  "takeaway": "Laporan ini condong negatif bagi CANI, karena meski rugi mengecil dan arus kas operasional membaik, defisiensi modal AS$34,2 juta dan liabilitas jangka pendek yang melampaui aset lancar AS$38,3 juta menunjukkan tekanan keuangan serius yang mendasari suspensi sahamnya. Defisiensi modal berarti total utang perusahaan sudah melampaui total asetnya, alias ekuitas negatif, sehingga pemberi pinjaman dan vendor punya alasan ragu soal kemampuan bayar perseroan. Arus kas dari operasional, yaitu uang tunai yang benar-benar masuk dari kegiatan bisnis sehari-hari, memang naik tajam dari sekitar AS$84 ribu menjadi AS$805 ribu, tapi jumlahnya masih jauh lebih kecil dibanding utang pihak berelasi AS$36,6 juta yang membebani modal kerjanya. Yang perlu dipantau selanjutnya adalah hasil diskusi konversi utang pihak berelasi itu menjadi ekuitas, yang masih menunggu persetujuan kreditor, regulator, dan pemegang saham, serta kelanjutan evaluasi BEI dan OJK atas status suspensi perdagangan saham CANI.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pefindo-pertahankan-rating-ida-toba-outlook-stabil",
   "category": "Aksi Korporasi",
   "title": "PEFINDO Pertahankan Rating [idA] TOBA, Outlook Stabil",

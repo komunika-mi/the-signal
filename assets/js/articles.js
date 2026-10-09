@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "apex-jadwalkan-pelaksanaan-konversi-utang-jadi-saham-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "APEX Jadwalkan [Pelaksanaan] Konversi Utang Jadi Saham 19 Oktober",
+  "deck": "Apexindo menjadwalkan penerbitan 218,09 juta saham baru pada 19 Oktober 2026 untuk melunasi utang ke kreditor sindikasi luar negeri, menambah saham beredar 5,79 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T10:25:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2fefd31bd_8bab1e7c82.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "PMTHMETD",
+   "konversi utang",
+   "dilusi saham"
+  ],
+  "body": [
+   "Apexindo Pratama Duta Tbk (APEX) mengumumkan rencana pelaksanaan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) lewat surat nomor 282/DIR-X/2026 tertanggal 9 Oktober 2026 yang ditandatangani Corporate Secretary Frieda Salvantina. Perseroan akan menerbitkan 218.090.317 saham baru seri B dengan nilai nominal Rp325 per saham dan harga pelaksanaan yang sama, Rp325 per saham, sehingga total nilai penambahan modal mencapai Rp70,88 miliar. Saham baru ini tidak dibayar dengan uang tunai, melainkan dengan mengompensasikan hak tagih Kreditor Sindikasi Luar Negeri atas Perseroan, dengan kata lain utang dolar yang belum terbayar ditukar menjadi saham.",
+   "Dengan penambahan ini, jumlah saham Perseroan naik dari 3.546.466.661 saham menjadi 3.764.556.978 saham, atau bertambah 218.090.317 saham setara 5,79 persen dari total saham setelah penambahan modal. Perseroan menyebut aksi ini dilakukan dalam rangka perbaikan posisi keuangan sesuai Pasal 3 huruf (a) POJK 14/2019, dan merupakan pelaksanaan dari keputusan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang telah disetujui pada 7 Oktober 2026.",
+   "Jadwal pelaksanaan yang diumumkan mencakup tiga tahap: pelaksanaan PMTHMETD pada 19 Oktober 2026, pencatatan saham-saham baru di bursa pada 20 Oktober 2026, dan pengumuman hasil pelaksanaan pada 21 Oktober 2026. Setelah tahap ini selesai, tidak ada sisa saham dari jatah penambahan modal yang belum dilaksanakan, artinya seluruh 218.090.317 saham baru akan diterbitkan sekaligus pada tanggal pelaksanaan tersebut."
+  ],
+  "fotoAdegan": "Offshore oil drilling platform at sea with workers in hard hats inspecting pipe equipment, overcast sky",
+  "takeaway": "Laporan ini tetap condong negatif bagi Apexindo karena inti ceritanya tidak berubah dari rangkaian sebelumnya, yakni utang dolar ke kreditor sindikasi luar negeri yang tidak dibayar tunai, melainkan dilunasi dengan menyerahkan saham baru senilai Rp70,88 miliar. Yang tersentuh adalah jumlah saham beredar, yang naik 5,79 persen menjadi 3,76 miliar saham, sehingga laba perusahaan ke depan harus dibagi untuk lebih banyak pemegang saham dan laba per saham cenderung terdilusi. Di sisi lain, beban utang ke kreditor sindikasi berkurang tanpa perlu keluar uang kas, yang membantu likuiditas Perseroan meski menambah jumlah pemilik saham baru. Yang perlu dipantau berikutnya adalah tiga tanggal yang sudah dijadwalkan: pelaksanaan penambahan modal pada 19 Oktober 2026, pencatatan saham baru di bursa pada 20 Oktober 2026, dan pengumuman resmi hasil pelaksanaannya pada 21 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-lagi-75-900-saham",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [jual] lagi 75.900 saham",
+  "deck": "Dewan Komisaris Henry Liem melepas 75.900 saham AKPI pada 7-8 Oktober 2026 di harga Rp520 per saham, kepemilikannya turun jadi 1,02% hak suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T10:17:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-8858-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "kepemilikan saham",
+   "komisaris",
+   "Argha Karya Prima"
+  ],
+  "body": [
+   "Dewan Komisaris Argha Karya Prima Industry (AKPI), Henry Liem, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual saham perusahaan sebanyak dua kali dalam dua hari berturut-turut. Pada 7 Oktober 2026 ia melepas 5.900 lembar saham biasa, dan pada 8 Oktober 2026 menyusul 70.000 lembar saham biasa, keduanya dengan harga Rp520 per lembar dan tujuan transaksi tercatat sebagai 'jual saham'. Total saham yang dilepas dalam laporan ini adalah 75.900 lembar.",
+   "Akibat penjualan tersebut, jumlah saham AKPI yang dipegang Henry Liem turun dari 6.298.159 lembar menjadi 6.222.259 lembar. Hak suaranya di perusahaan ikut bergeser, dari 1,0287 persen menjadi 1,0163 persen. Kepemilikan ini tercatat sebagai kepemilikan tidak langsung, artinya saham dipegang lewat pihak lain atas nama Henry Liem, bukan langsung atas namanya sendiri.",
+   "Laporan ini terbit tak lama setelah Henry Liem sebelumnya juga melaporkan penjualan 400.000 saham AKPI pada 7 Oktober 2026 senilai sekitar Rp207 juta. Dengan tambahan laporan baru ini, total saham yang ia lepas dalam pekan yang sama bertambah menjadi 475.900 lembar."
+  ],
+  "fotoAdegan": "Rolls of clear plastic packaging film stacked on an industrial production line inside a manufacturing plant, workers in uniform checking equipment",
+  "takeaway": "Laporan ini netral bagi AKPI, karena 75.900 saham yang dilepas cuma 1,2 persen dari kepemilikan Henry Liem dan hampir tidak mengubah hak suaranya, dari 1,0287 persen menjadi 1,0163 persen. Yang tersentuh di sini adalah struktur pemegang saham, bukan kinerja keuangan perusahaan, dan pelaku pasar biasanya melihat transaksi insider seperti ini sebagai sinyal keyakinan pengurus terhadap perusahaan, bukan sebagai indikator arus kas atau laba. Perlu dicatat ini adalah laporan penjualan kedua dari Henry Liem dalam pekan yang sama setelah pelepasan 400.000 saham pada 7 Oktober, sehingga totalnya sudah mencapai 475.900 lembar jika dua laporan ini digabung. Yang perlu dipantau pemegang saham AKPI adalah apakah Henry Liem kembali menerbitkan laporan penjualan serupa di hari-hari berikutnya, karena pola penjualan bertahap kecil-kecil bisa terakumulasi menjadi perubahan kepemilikan yang lebih berarti.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "penjualan-eceran-september-2026-diprakirakan-naik-1-4",
   "category": "Makroekonomi",
   "title": "Penjualan Eceran September 2026 Diprakirakan [Naik] 1,4%",
@@ -29,6 +81,85 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah bukan sekadar angka tahunan yang naik tipis ke 1,4 persen, melainkan arah bulanannya yang justru turun 2,3 persen karena penjualan makanan dan minuman melambat setelah sempat terdorong momentum peringatan Kemerdekaan RI di Agustus. Dampaknya kena langsung ke pelaku usaha ritel, yang omsetnya naik turun mengikuti musim dan hari besar, bukan karena tren konsumsi yang benar-benar menguat. Yang lebih layak dicermati adalah Indeks Ekspektasi Harga untuk November 2026 dan Februari 2027 yang naik dibanding proyeksi bulan sebelumnya, sinyal bahwa pelaku usaha ritel sendiri memperkirakan harga barang akan naik lebih tinggi menjelang akhir tahun dan awal tahun depan. Kombinasi penjualan yang melambat bulanan tapi ekspektasi harga yang menguat ini mengarah ke pola musiman biasa ketimbang pergeseran tren besar, dan itu akan lebih jelas terlihat dari data penjualan eceran Oktober 2026 serta rilis inflasi resmi BPS untuk November mendatang.",
   "imageV": "mv0dur8h"
+ },
+ {
+  "slug": "poli-catat-laba-rp57-7-m-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "POLI Catat Laba Rp57,7 M, Arus Kas Operasi [Negatif]",
+  "deck": "Dalam public expose tahunan 8 Oktober, manajemen POLI menjawab pertanyaan investor soal arus kas operasi negatif, penggunaan dana obligasi Rp500 miliar, dan kinerja segmen hotel yang stagnan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T09:53:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/db78dccd03_a058f46987.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POLI",
+  "tags": [
+   "POLI",
+   "public expose",
+   "arus kas",
+   "obligasi"
+  ],
+  "body": [
+   "PT Pollux Hotels Group Tbk (POLI) menggelar public expose tahunan pada Kamis, 8 Oktober 2026, pukul 10.30 hingga 11.00 WIB melalui aplikasi Zoom. Acara ini dihadiri 9 pihak eksternal, yakni investor individu bernama Daniel, Gilang Dewanda, Muhammad Malkhudzi, Merinda, SJ Kiswa Shobirin, Rindi, Tyo Ferdian, Nael, dan Beatrice, ditambah satu karyawan Pollux bernama Arum Agustin. Dari sisi manajemen, hadir Direktur Utama Handojo Koentoro Setyadi, Direktur Aswin Desmonda Rosidi, dan Corporate Secretary Rangga Satrio Utomo.",
+   "Dalam sesi tanya jawab, investor bernama Daniel mempertanyakan kenapa laba perseroan selama 18 bulan terakhir tidak sejalan dengan arus kas operasi yang negatif dan kas yang menyusut, serta meminta kejelasan soal penggunaan dana obligasi berkelanjutan senilai Rp500 miliar. Direktur Aswin Desmonda Rosidi menjawab bahwa arus kas secara umum dipakai untuk kebutuhan operasional dan pembayaran kewajiban ke bank, sementara dana obligasi Rp500 miliar memang dialokasikan khusus untuk membayar kewajiban kepada Bank Mandiri sesuai rencana penggunaan dana yang telah ditetapkan, tanpa merinci angka arus kas itu sendiri.",
+   "Soal rencana kerja sama dengan Accor, Marriott, dan Wyndham Hotels & Resorts (termasuk merek Baymont), manajemen menegaskan ini bukan ekspansi melainkan kerja sama operator, di mana properti yang sudah dimiliki Pollux akan dioperasikan pihak mitra. Jumlah kamar dan nilai investasi dari kerja sama ini tidak disebutkan. Manajemen juga mengakui segmen hotel dan mal, yang selama ini jadi produk andalan, cenderung turun dan stagnan, sementara pertumbuhan justru berasal dari segmen developer yang transaksinya baru tercatat setelah akta jual beli (AJB) selesai.",
+   "Untuk kinerja keuangan, manajemen memaparkan bahwa hingga akhir Juni 2026 perseroan membukukan pendapatan usaha Rp297.002.950.000, laba bruto Rp140.461.420.000, dan laba tahun berjalan Rp57.788.380.000. Direktur Utama Handojo Koentoro Setyadi juga menjelaskan bahwa pertahanan peringkat idAAA dari Pefindo ditopang oleh disiplin pengelolaan keuangan dan likuiditas, penguatan portofolio serta kemitraan global, manajemen risiko yang ketat, dan efisiensi operasional."
+  ],
+  "fotoAdegan": "Hotel lobby staff arranging luggage carts near a check-in counter in a modern Indonesian hotel, soft morning light",
+  "takeaway": "Laporan ini condong netral bagi POLI: perseroan membukukan laba bersih sekitar Rp57,7 miliar dan pendapatan Rp297 miliar hingga akhir Juni 2026, tapi investor bernama Daniel secara terbuka mempertanyakan kenapa laba itu tidak sejalan dengan arus kas operasi yang negatif dan kas yang justru menyusut, sementara jawaban manajemen masih umum tanpa angka pembanding. Arus kas operasi adalah uang tunai yang benar-benar masuk dan keluar dari kegiatan bisnis sehari-hari, beda dengan laba akuntansi yang bisa berisi pos non-tunai, jadi kalau dua angka ini bertolak belakang, pelaku pasar biasanya was-was soal kualitas laba dan kemampuan membayar kewajiban jangka pendek. Segmen hotel dan mal, yang selama ini jadi andalan Pollux, disebut manajemen sendiri stagnan, sementara pertumbuhan justru datang dari segmen developer yang sifatnya musiman karena baru tercatat setelah akta jual beli selesai. Yang perlu dipantau selanjutnya adalah laporan keuangan tahun penuh 2026 serta rincian lebih lanjut soal perubahan liabilitas jangka panjang dan angka arus kas yang belum dibuka dalam sesi tanya jawab ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pefindo-pangkas-rating-ptpp-ke-idccc-outlook-negatif",
+  "category": "Aksi Korporasi",
+  "title": "Pefindo Pangkas Rating PTPP ke [idCCC], Outlook Negatif",
+  "deck": "Pefindo menurunkan rating PTPP dan surat utangnya dari idB menjadi idCCC dengan status CreditWatch negatif, menyusul penundaan pembayaran kupon obligasi yang jatuh tempo 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T09:27:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d0a0061d38_09201c5df2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "rating",
+   "obligasi",
+   "Pefindo"
+  ],
+  "body": [
+   "Lembaga pemeringkat PEFINDO menyelesaikan pemantauan khusus (special review) atas PT PP (Persero) Tbk pada 5 Oktober 2026 dan menurunkan peringkat perusahaan menjadi idCCC dengan status CreditWatch implikasi negatif, turun dari peringkat sebelumnya idB/CreditWatch negatif. Pada saat yang sama, empat seri Obligasi Berkelanjutan III dan IV PTPP senilai total Rp1,99 triliun diturunkan menjadi idCCC, sementara tiga seri Sukuk Mudharabah Berkelanjutan I senilai total Rp531,75 miliar turun menjadi idCCC(sy). Kedua kelompok surat utang itu sebelumnya juga berperingkat idB.",
+   "Penurunan ini dipicu oleh penundaan pembayaran kupon ke-21 atas Obligasi Berkelanjutan III PTPP Tahap I Tahun 2021 Seri B dan Sukuk Mudharabah Berkelanjutan I Tahap I Tahun 2021 Seri B yang jatuh tempo pada 2 Oktober 2026. PEFINDO menilai masih ada ketidakpastian penyelesaian kewajiban tersebut dalam periode remedial 14 hari kerja, ditambah meningkatnya risiko pembiayaan kembali atas surat utang PTPP yang akan jatuh tempo, di tengah akses pendanaan yang semakin menantang di industri konstruksi domestik dan eksposur perseroan ke segmen properti hunian vertikal. Kombinasi itu, menurut PEFINDO, menekan likuiditas dan membatasi fleksibilitas keuangan perseroan.",
+   "Status CreditWatch negatif ini berlaku untuk periode rating 5 Oktober 2026 sampai 5 Januari 2027, dan akan ditinjau kembali oleh PEFINDO paling lambat tiga bulan sesuai perkembangan kondisi perusahaan. Surat pemberitahuan ke Otoritas Jasa Keuangan ditandatangani oleh Direktur Keuangan PTPP, Faizal Rahmad, dan disampaikan ke publik oleh Sekretaris Perusahaan, Joko Raharjo. PTPP menyatakan menerima sepenuhnya hasil pemeringkatan tersebut."
+  ],
+  "fotoAdegan": "Construction workers and cranes at a half-finished high-rise building site in Jakarta under an overcast sky",
+  "takeaway": "Downgrade multi-level dari idB ke idCCC, disertai status CreditWatch implikasi negatif, adalah sinyal negatif yang tegas bagi PTPP karena menunjukkan lembaga pemeringkat melihat risiko gagal bayar yang makin nyata, bukan sekadar koreksi rutin. Yang tersentuh adalah arus kas dan beban bunga perusahaan: rating yang lebih rendah membuat biaya pinjaman baru untuk membiayai ulang utang yang jatuh tempo cenderung lebih mahal, sementara arus kas yang sudah tertekan membuat perseroan makin sulit memenuhi kewajiban tepat waktu. Yang perlu dipantau berikutnya adalah penyelesaian pembayaran kupon dalam periode remedial 14 hari kerja sejak jatuh tempo 2 Oktober 2026, serta tinjauan ulang status CreditWatch yang menurut PEFINDO akan dilakukan paling lambat awal Januari 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wskt-anak-usaha-wwe-lepas-kendali-ke-investor-pt-edt",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Anak Usaha WWE [Lepas Kendali] ke Investor PT EDT",
+  "deck": "Anak usaha Waskita, PT Waskita Wado Energi, berganti pengendali ke investor PT EDT lewat suntikan modal Rp14,1 miliar, menyisakan WKI sebagai pemegang saham minoritas tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T08:43:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5b9f0d2e81_3a1e278fb2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "Waskita Wado Energi",
+   "perubahan pengendali"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk melaporkan perubahan pengendalian pada PT Waskita Wado Energi (WWE), anak usaha dari anak usahanya, PT Waskita Karya Infrastruktur (WKI). Berdasarkan Akta Pernyataan Keputusan Pemegang Saham WWE Nomor 57 tanggal 8 Oktober 2026 yang dibuat di hadapan notaris Jose Dima Satria di Jakarta Selatan, pemegang saham menyetujui kenaikan modal dasar WWE dari 56.440 lembar saham menjadi 100.000 lembar, serta kenaikan modal ditempatkan dan disetor dari 14.110 lembar menjadi 28.221 lembar saham melalui penerbitan 14.111 saham baru senilai Rp14.111.000.000. Seluruh saham baru itu diambil secara tunai oleh PT EDT, investor baru yang juga sekaligus membeli 1 lembar saham WWE milik Koperasi Waskita senilai Rp1 juta.",
+   "Sebelum transaksi, WKI menguasai 99,97 persen saham WWE atau 14.109 lembar, dengan sisa 0,03 persen di tangan Koperasi Waskita. Setelah penerbitan saham baru dan pembelian saham Koperasi, susunan pemegang saham WWE berubah total: PT EDT memegang 14.112 lembar saham atau sekitar 50,01 persen, sementara WKI yang jumlah lembarnya tetap di 14.109 kini hanya setara 49,99 persen. Artinya kendali atas WWE berpindah dari grup Waskita ke investor baru, meski WKI masih memegang saham dalam jumlah hampir sama banyak.",
+   "Waskita menyebut transaksi ini sebagai langkah yang diharapkan berdampak positif dan menambah nilai bagi Perseroan maupun anak usahanya. Perubahan pengendalian baru efektif setelah mendapat persetujuan dari Menteri Hukum Republik Indonesia, yang hingga tanggal laporan belum disebutkan sudah diperoleh."
+  ],
+  "fotoAdegan": "Technicians inspecting electrical equipment at a small rural power substation in Indonesia under an overcast afternoon sky.",
+  "takeaway": "Laporan ini condong negatif bagi Waskita karena yang terjadi bukan sekadar pelepasan saham kecil, melainkan hilangnya status pengendali: WKI turun dari penguasa hampir mutlak WWE, 99,97 persen, menjadi pemegang saham minoritas tipis di 49,99 persen, sementara PT EDT masuk sebagai pengendali baru dengan 50,01 persen. Yang tersentuh adalah hak suara dan kendali operasional, begitu kepemilikan turun di bawah 50 persen, Waskita kehilangan kekuatan penuh untuk menentukan arah bisnis WWE sendirian, walau dana segar Rp14,1 miliar dari PT EDT masuk sebagai modal WWE, bukan langsung mengurangi utang WSKT di level induk. Nilai transaksinya sendiri kecil untuk skala grup konstruksi sebesar Waskita, jadi dampak ke kas atau laba konsolidasi diperkirakan tidak besar. Yang perlu dipantau selanjutnya adalah persetujuan Menteri Hukum RI atas kenaikan modal WWE, karena perubahan pengendalian baru resmi berlaku setelah izin itu terbit, serta apakah Waskita akan menjelaskan lebih jauh alasan bisnis di balik masuknya PT EDT sebagai pengendali baru di anak usaha energinya.",
+  "sentimen": "negatif"
  },
  {
   "slug": "menteri-transmigrasi-jadikan-rempang-contoh-ekonomi-kawasan",

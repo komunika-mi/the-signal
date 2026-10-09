@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "apex-jadwalkan-pelaksanaan-konversi-utang-jadi-saham-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "APEX Jadwalkan [Pelaksanaan] Konversi Utang Jadi Saham 19 Oktober",
+  "deck": "Apexindo menjadwalkan penerbitan 218,09 juta saham baru pada 19 Oktober 2026 untuk melunasi utang ke kreditor sindikasi luar negeri, menambah saham beredar 5,79 persen.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APEX",
+   "PMTHMETD",
+   "konversi utang",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2fefd31bd_8bab1e7c82.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-lagi-75-900-saham",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [jual] lagi 75.900 saham",
+  "deck": "Dewan Komisaris Henry Liem melepas 75.900 saham AKPI pada 7-8 Oktober 2026 di harga Rp520 per saham, kepemilikannya turun jadi 1,02% hak suara.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "kepemilikan saham",
+   "komisaris",
+   "Argha Karya Prima"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-8858-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penjualan-eceran-september-2026-diprakirakan-naik-1-4",
   "category": "Makroekonomi",
   "title": "Penjualan Eceran September 2026 Diprakirakan [Naik] 1,4%",
@@ -21,6 +53,54 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821726.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "poli-catat-laba-rp57-7-m-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "POLI Catat Laba Rp57,7 M, Arus Kas Operasi [Negatif]",
+  "deck": "Dalam public expose tahunan 8 Oktober, manajemen POLI menjawab pertanyaan investor soal arus kas operasi negatif, penggunaan dana obligasi Rp500 miliar, dan kinerja segmen hotel yang stagnan.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POLI",
+   "public expose",
+   "arus kas",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/db78dccd03_a058f46987.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pefindo-pangkas-rating-ptpp-ke-idccc-outlook-negatif",
+  "category": "Aksi Korporasi",
+  "title": "Pefindo Pangkas Rating PTPP ke [idCCC], Outlook Negatif",
+  "deck": "Pefindo menurunkan rating PTPP dan surat utangnya dari idB menjadi idCCC dengan status CreditWatch negatif, menyusul penundaan pembayaran kupon obligasi yang jatuh tempo 2 Oktober 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "rating",
+   "obligasi",
+   "Pefindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d0a0061d38_09201c5df2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-anak-usaha-wwe-lepas-kendali-ke-investor-pt-edt",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Anak Usaha WWE [Lepas Kendali] ke Investor PT EDT",
+  "deck": "Anak usaha Waskita, PT Waskita Wado Energi, berganti pengendali ke investor PT EDT lewat suntikan modal Rp14,1 miliar, menyisakan WKI sebagai pemegang saham minoritas tipis.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "Waskita Wado Energi",
+   "perubahan pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5b9f0d2e81_3a1e278fb2.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "menteri-transmigrasi-jadikan-rempang-contoh-ekonomi-kawasan",
@@ -6405,86 +6485,6 @@ var ARTICLES = [
    "dewan komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6c2e68811_3fb122db88.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "admf-saham-pengendali-4-53-beralih-di-pasar-negosiasi",
-  "category": "Aksi Korporasi",
-  "title": "ADMF: Saham Pengendali [4,53%] Beralih di Pasar Negosiasi",
-  "deck": "Saham milik pemegang saham pengendali ADMF senilai 4,53% dari total saham beredar bertransaksi di pasar negosiasi, bersamaan dengan harga saham ADMF anjlok 4,9% pada 29 September 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMF",
-   "volatilitas saham",
-   "pemegang saham pengendali",
-   "pasar negosiasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e57491509_c69c116752.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ifsh-jelaskan-ke-bei-soal-lonjakan-harga-saham-25",
-  "category": "Aksi Korporasi",
-  "title": "IFSH Jelaskan ke BEI soal Lonjakan Harga Saham [25%]",
-  "deck": "Saham IFSH melonjak 25 persen pada 28 September dengan volume dan frekuensi transaksi naik tajam, saat IHSG dan sektor bahan baku melemah. Perseroan sebut tak ada informasi material baru.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IFSH",
-   "Ifishdeco",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7dafda7b70_b20c7d3e4e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-ungkap-ke-bursa-penyebab-penurunan-kas-rp46-34-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PRDA Ungkap ke Bursa Penyebab [Penurunan] Kas Rp46,34 Miliar",
-  "deck": "Prodia menjawab permintaan penjelasan BEI soal penurunan kas, piutang menunggak, dan aset tetap per Juni 2026, serta tagihan pajak kurang bayar Rp345 juta yang sudah dilunasi.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "Prodia Widyahusada",
-   "BEI",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c5c1e75b89_b0b7cc8813.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wapo-jelaskan-ke-bursa-akui-kesalahan-pencatatan-piutang-berelasi",
-  "category": "Aksi Korporasi",
-  "title": "WAPO Jelaskan ke Bursa, Akui Kesalahan [Pencatatan] Piutang Berelasi",
-  "deck": "Menjawab permintaan penjelasan BEI, WAPO mengakui kesalahan pencatatan piutang sewa ke pihak berelasi PT Inasentra Unisatya dan melunasi utang Rp19,6 miliar ke PT Sumber Kurnia Alam.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WAPO",
-   "piutang pihak berelasi",
-   "laporan keuangan",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c8e75b86c_53ef4548d8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atap-terima-pinjaman-rp10-miliar-dari-perusahaan-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "ATAP Terima Pinjaman Rp10 Miliar dari Perusahaan [Afiliasi]",
-  "deck": "PT Trimitra Prawara Goldland Tbk mendapat pinjaman Rp10 miliar berbunga 6 persen per tahun dari PT Dana Berguna Sejahtera, perusahaan yang terafiliasi lewat kesamaan direksi.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATAP",
-   "transaksi afiliasi",
-   "pinjaman",
-   "Trimitra Prawara Goldland"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/176baf87a7_c08fd137b0.pdf",
   "sourceLabel": "IDX"
  }
 ];

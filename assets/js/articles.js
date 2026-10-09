@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bmtp-fitch-afirmasi-peringkat-aa-idn-outlook-stabil",
+  "category": "Aksi Korporasi",
+  "title": "BMTP: Fitch Afirmasi Peringkat [AA(idn)], Outlook Stabil",
+  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat Bank Mandiri Taspen (BMTP) di AA(idn) outlook stabil, termasuk untuk obligasi berkelanjutannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T23:35:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ca61233dd_ce65c88c6a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMTP",
+  "tags": [
+   "BMTP",
+   "peringkat kredit",
+   "Fitch Ratings",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Mandiri Taspen (BMTP) menyampaikan keterbukaan informasi bahwa Fitch Ratings Indonesia mengafirmasi Peringkat Nasional Jangka Panjang perseroan di AA(idn) dengan outlook stabil. Peringkat yang sama juga diafirmasi untuk Obligasi Berkelanjutan I Bank Mandiri Taspen Tahap II Tahun 2021. Surat peringkat bernomor 196/DIR/RATLTR/X/2026 tertanggal 5 Oktober 2026 itu diterima perseroan pada 8 Oktober 2026, dan ditandatangani oleh Division Head BMTP, Tulus Parulian Hutabarat, yang menyatakan hasil pemeringkatan ini tidak berdampak negatif terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan.",
+   "Fitch menjelaskan bahwa peringkat BMTP ditentukan oleh kemungkinan dukungan dari induk usahanya, PT Bank Mandiri (Persero) Tbk, yang menguasai 51 persen saham BMTP. Pemegang saham lainnya, PT Taspen yang mengelola dana pensiun pegawai negeri, memegang sekitar 48 persen saham. Fitch mencatat BMTP hanya menyumbang 3,0 persen dari total aset dan 3,3 persen dari ekuitas grup Mandiri per paruh pertama 2026, dengan pangsa pasar BMTP sendiri sekitar 1 persen dari total aset perbankan nasional per akhir Juni 2026.",
+   "Dalam dokumen yang sama, Fitch menyebut dua arah yang bisa menggeser peringkat ke depan. Penurunan peringkat BMTP bisa terjadi bila kemampuan atau kemauan Bank Mandiri memberi dukungan melemah, misalnya jika peringkat kekuatan keuangan mandiri (Viability Rating) Bank Mandiri diturunkan, atau bila kepemilikan maupun pengaruh Bank Mandiri atas BMTP berkurang. Sebaliknya, kenaikan peringkat bisa terjadi bila Viability Rating Bank Mandiri naik, atau bila BMTP menjadi semakin penting secara strategis bagi induknya, misalnya lewat kenaikan signifikan porsi kepemilikan Bank Mandiri atau kontribusi laba BMTP yang membesar bagi grup."
+  ],
+  "fotoAdegan": "Exterior view of a modern bank office tower with glass curtain walls in a busy Jakarta business district, late afternoon light",
+  "takeaway": "Laporan ini netral bagi BMTP karena isinya hanya mengonfirmasi peringkat yang sudah berlaku sebelumnya, tanpa ada kenaikan atau penurunan yang mengubah persepsi risiko kreditnya. Peringkat kredit semacam ini menyentuh pos beban bunga perseroan, karena skor AA(idn) yang menandakan risiko gagal bayar sangat rendah biasanya membuat biaya penerbitan surat utang baru lebih murah, dan skor itu sendiri bergantung pada dukungan Bank Mandiri selaku pemegang 51 persen saham BMTP. Yang perlu dipantau pemegang saham adalah arah Viability Rating Bank Mandiri ke depan, sebab Fitch menyebut tegas bahwa penurunan kekuatan keuangan mandiri Bank Mandiri atau berkurangnya kepemilikannya di BMTP bisa menyeret peringkat BMTP turun, sementara kenaikan kepemilikan atau kontribusi laba BMTP yang lebih besar bagi grup bisa membuka jalan kenaikan peringkat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dnrk-peringkat-danareksa-diturunkan-pefindo-jadi-ida",
+  "category": "Aksi Korporasi",
+  "title": "DNRK: Peringkat Danareksa [Diturunkan] PEFINDO Jadi idA+",
+  "deck": "PEFINDO menurunkan peringkat Danareksa dan tiga obligasinya dari idAA ke idA+ karena transformasi perusahaan jadi holding kawasan industri mengurangi dukungan pemerintah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T22:33:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/407bc371ad_44c4030fdf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DNRK",
+  "tags": [
+   "DNRK",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "body": [
+   "PEFINDO menurunkan peringkat PT Danareksa (Persero) (DNRK) dari idAA/Stable menjadi idA+/Stable pada 7 Oktober 2026, berdasarkan surat lembaga pemeringkat bernomor RC-1363/PEF-DIR/X/2026. Penurunan ini juga berlaku untuk tiga obligasi yang masih beredar: Obligasi VII Danareksa Tahun 2023 Seri B senilai Rp745 miliar yang jatuh tempo 8 Februari 2028, Obligasi VIII Danareksa Tahun 2023 Seri B senilai Rp520 miliar yang jatuh tempo 9 Januari 2027, dan Obligasi VIII Danareksa Tahun 2023 Seri C senilai Rp100 miliar yang jatuh tempo 9 Januari 2029. Ketiganya turun dari peringkat idAA/Stable menjadi idA+/Stable dengan outlook tetap stabil.",
+   "PEFINDO menjelaskan, penurunan peringkat ini mencerminkan menurunnya tingkat kemungkinan dukungan pemerintah terhadap Danareksa, seiring dengan transformasi signifikan perusahaan dari holding lintas sektor menjadi holding kawasan industri. Lembaga pemeringkat itu menilai Danareksa tetap relevan secara strategis bagi pemerintah, namun perubahan peran tersebut memengaruhi penilaian atas kemungkinan dukungan luar biasa dari negara, dampak sosial, serta konsekuensi apabila perusahaan gagal membayar utangnya.",
+   "Dalam laporan keterbukaan informasi yang ditandatangani Ahmad Fauzie Nur, Direktur Keuangan dan Manajemen Risiko Danareksa, perusahaan menyatakan penurunan peringkat ini tidak berdampak signifikan terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha. PT Bank Rakyat Indonesia (Persero) Tbk tercatat sebagai wali amanat atas obligasi-obligasi tersebut dan turut menerima tembusan laporan ini."
+  ],
+  "fotoAdegan": "Aerial view of an industrial estate with rows of factory warehouses and access roads, overcast afternoon light",
+  "takeaway": "Penurunan peringkat ini condong negatif bagi Danareksa, sebab PEFINDO menilai kemungkinan pemerintah ikut menanggung utang perusahaan kalau terjadi masalah keuangan menjadi lebih kecil, menyusul perubahan peran Danareksa dari holding lintas sektor menjadi holding kawasan industri, bukan karena kinerja operasional yang memburuk. Yang tersentuh adalah beban bunga, karena peringkat yang lebih rendah biasanya membuat investor obligasi minta imbal hasil lebih tinggi saat perusahaan menerbitkan utang baru, sehingga biaya pinjaman Danareksa berpotensi naik. Yang perlu dipantau berikutnya adalah periode pemeringkatan lanjutan pada 1 Oktober 2027 untuk Obligasi VII Seri B dan Obligasi VIII Seri C, serta jatuh tempo Obligasi VIII Seri B pada 9 Januari 2027, yang akan menunjukkan apakah tekanan rating ini berlanjut atau mereda.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "smle-jelaskan-rencana-akuisisi-saham-sinar-aroma-sentosa",
   "category": "Aksi Korporasi",
   "title": "SMLE Jelaskan Rencana [Akuisisi] Saham Sinar Aroma Sentosa",
@@ -503,6 +555,57 @@ var ARTICLES = [
   "imageV": "mv0zluqi"
  },
  {
+  "slug": "zone-tancorp-tambah-saham-hak-suara-ke-28-47",
+  "category": "Aksi Korporasi",
+  "title": "ZONE: TANCORP [Tambah] Saham, Hak Suara ke 28,47%",
+  "deck": "TANCORP Investama Mulia membeli 41,9 juta saham ZONE lewat mekanisme repo, mengangkat hak suaranya dari 23,65 persen menjadi 28,47 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:39:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-6904-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZONE",
+  "tags": [
+   "ZONE",
+   "Mega Perintis",
+   "kepemilikan saham",
+   "hak suara"
+  ],
+  "body": [
+   "TANCORP INVESTAMA MULIA, pemegang saham PT Mega Perintis Tbk (ZONE) yang bukan merupakan anggota direksi atau dewan komisaris perusahaan, melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya membeli 41.921.200 lembar saham biasa ZONE pada 7 Oktober 2026 dengan harga Rp700 per saham. Pembelian dilakukan secara tidak langsung melalui mekanisme Repurchase Agreement, yakni transaksi jual beli saham dengan perjanjian jual kembali, dengan tujuan investasi.",
+   "Dengan pembelian ini, jumlah saham ZONE yang dipegang TANCORP naik dari 205.797.000 lembar menjadi 247.718.200 lembar, atau bertambah 20,37 persen dari kepemilikan sebelumnya. Perubahan ini turut mengangkat hak suara TANCORP di ZONE dari 23,65 persen menjadi 28,47 persen. Laporan disampaikan sesuai Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang kewajiban melaporkan setiap perubahan kepemilikan saham perusahaan terbuka kepada OJK."
+  ],
+  "fotoAdegan": "Workers sorting folded clothing stacks on metal shelves inside a large garment distribution warehouse, overhead fluorescent lighting",
+  "takeaway": "Penambahan kepemilikan ini condong positif bagi ZONE karena ukurannya besar, bukan remah: TANCORP menambah lebih dari seperlima dari saham yang sudah dipegangnya sehingga hak suaranya naik hampir 5 poin persentase, dari 23,65 persen ke 28,47 persen. Yang tersentuh di sini adalah struktur hak suara dan konsentrasi kepemilikan, bukan laba per saham, sebab transaksi ini terjadi di antara pemegang saham lewat mekanisme repo dan tidak menambah jumlah saham beredar ZONE, jadi tidak ada dilusi bagi pemegang saham lain. Yang perlu dicermati, mekanisme Repurchase Agreement pada dasarnya adalah pembelian saham dengan perjanjian jual kembali, yang kadang dipakai untuk pembiayaan jangka pendek dan belum tentu mencerminkan niat menggenggam saham dalam waktu lama. Yang perlu dipantau selanjutnya adalah apakah TANCORP terus menambah porsinya, karena di Indonesia kepemilikan yang melewati ambang tertentu bisa memicu kewajiban penawaran tender kepada pemegang saham publik lainnya, serta apakah ada keterbukaan informasi lanjutan yang menjelaskan tujuan akhir akumulasi saham ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ppri-pemegang-saham-jual-21-4-juta-saham-hak-suara-ke-10-76",
+  "category": "Aksi Korporasi",
+  "title": "PPRI: Pemegang Saham Jual 21,4 Juta Saham, Hak Suara ke [10,76%]",
+  "deck": "Budi Aditya Erna Mulyanto melepas 21,47 juta saham PPRI pada 8 Oktober 2026 seharga Rp186 per saham, memangkas hak suaranya dari 12,76 persen menjadi 10,76 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:34:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-1008-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRI",
+  "tags": [
+   "PPRI",
+   "divestasi saham",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Paperocks Indonesia Tbk (PPRI) melaporkan perubahan kepemilikan saham oleh Budi Aditya Erna Mulyanto, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perseroan. Dalam laporan kepemilikan saham ke Otoritas Jasa Keuangan tertanggal 9 Oktober 2026, ia melepas 21.474.000 saham PPRI secara tidak langsung pada 8 Oktober 2026 dengan harga Rp186 per saham. Tujuan transaksi yang tercatat dalam laporan adalah divestasi.",
+   "Akibat penjualan ini, jumlah saham yang dipegang Budi turun dari 137.171.500 unit menjadi 115.697.500 unit, berkurang 21.474.000 unit atau setara 15,65 persen dari total kepemilikannya sebelum transaksi. Hak suaranya di PPRI ikut turun dari 12,76 persen menjadi 10,76 persen, penurunan dua poin persentase dalam satu transaksi.",
+   "Transaksi ini menambah rangkaian pelepasan saham oleh pihak terkait PPRI dalam sepekan terakhir. Pada 6 Oktober 2026, direksi perseroan melaporkan divestasi 15 juta saham yang menurunkan hak suaranya ke 12,6 persen, dan pada 5 Oktober 2026 direksi lain menjual 3 juta saham seharga Rp148 per saham."
+  ],
+  "fotoAdegan": "Workers checking stacked sheets of recycled paperboard inside an industrial paper mill, overhead cranes in soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi persepsi PPRI, karena pelepasan setara 15,65 persen dari kepemilikan pemegang saham ini sendiri dan menjadi transaksi pelepasan saham ketiga oleh pihak terkait perseroan dalam waktu kurang dari sepekan. Transaksi semacam ini tidak mengubah jumlah total saham beredar PPRI karena saham hanya berpindah tangan, tetapi menggeser konsentrasi hak suara, yaitu porsi kendali yang dipegang satu pihak atas keputusan perusahaan, sehingga pelaku pasar biasa memperhatikannya sebagai indikator keyakinan pemegang saham terhadap prospek perseroan. Yang perlu dipantau selanjutnya adalah apakah pola pelepasan saham oleh pihak terkait PPRI ini masih berlanjut dalam laporan-laporan berikutnya ke OJK, mengingat tiga transaksi serupa sudah terjadi hanya dalam beberapa hari terakhir.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bino-lewati-tenggat-refloat-129-juta-saham-belum-ke-publik",
   "category": "Aksi Korporasi",
   "title": "BINO Lewati Tenggat [Refloat], 129 Juta Saham Belum ke Publik",
@@ -578,6 +681,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Empty modern multiplex cinema lobby with red carpet, box office counters, and soft ambient lighting in a shopping mall, Indonesia",
   "takeaway": "Laporan ini netral karena isinya murni perubahan format penyajian mengikuti aturan baru OJK, bukan perubahan substansi, sebab angka realisasi dana IPO yang dilaporkan sama persis dengan laporan Juli 2026 sebelumnya. Yang menarik dari datanya sendiri, realisasi pelunasan utang bank sudah mencapai Rp500 miliar, lebih besar dari rencana awal Rp434,5 miliar dan sudah tuntas sejak Agustus 2023, sementara dana untuk ekspansi jaringan bioskop baru terpakai Rp1,33 triliun atau 61 persen dari dana bersih IPO, sedikit di bawah target 65 persen karena proyek pembangunan masih berjalan. Pos yang tersentuh di sini adalah arus kas dan beban bunga perusahaan, sebab pelunasan utang yang lebih cepat dari rencana berarti kewajiban bunga ke depan berkurang, sementara dana ekspansi yang belum terserap penuh menandakan belanja modal bioskop baru masih berlanjut. Sisa dana Rp26,5 miliar yang mengendap di giro Bank DBS Indonesia dengan bunga 6 persen rencananya dipakai menyelesaikan proyek bioskop baru pada Juli hingga Desember 2026, periode itu yang perlu dipantau untuk melihat apakah seluruh dana IPO akhirnya terserap sesuai rencana.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beef-komisaris-billy-sabarto-lepas-576-saham-hak-suara-tetap-0",
+  "category": "Aksi Korporasi",
+  "title": "BEEF: Komisaris Billy Sabarto [lepas] 576 saham, hak suara tetap 0%",
+  "deck": "Komisaris Estika Tata Tiara, Billy Sabarto, melepas seluruh 576 lembar sahamnya lewat tiga transaksi kecil pada 6 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:16:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-0233-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEEF",
+  "tags": [
+   "BEEF",
+   "Estika Tata Tiara",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Billy Sabarto, anggota Dewan Komisaris PT Estika Tata Tiara Tbk (BEEF), melaporkan kepada Otoritas Jasa Keuangan bahwa ia telah melepas seluruh kepemilikan sahamnya di perusahaan tersebut. Sebelum transaksi, Billy memegang 576 lembar saham BEEF. Setelah transaksi pada 6 Oktober 2026, kepemilikannya menjadi nol.",
+   "Pelepasan dilakukan melalui tiga transaksi penjualan tidak langsung pada tanggal yang sama. Rinciannya, 11 saham terjual dengan harga Rp422 per lembar, 500 saham dengan harga Rp424 per lembar, dan 65 saham dengan harga Rp422 per lembar. Total nilai ketiga transaksi itu sekitar Rp244 ribu, dan dalam laporan resminya tujuan transaksi tercatat sebagai pelepasan seluruh kepemilikan saham.",
+   "Hak suara Billy di BEEF tercatat 0,00 persen baik sebelum maupun sesudah transaksi, sehingga pelepasan ini tidak mengubah komposisi hak suara maupun struktur pengendalian di perusahaan."
+  ],
+  "fotoAdegan": "Cattle handlers guiding livestock through a holding pen at a beef cattle farm, dusty yard, early morning light",
+  "takeaway": "Laporan ini netral bagi BEEF, karena saham yang dilepas sudah tercatat dengan hak suara 0,00 persen baik sebelum maupun sesudah transaksi, jadi tidak ada perubahan apa pun dalam struktur pengendalian perusahaan. Transaksi ini murni jual beli saham pribadi Billy Sabarto di pasar sekunder, bukan aksi korporasi BEEF, sehingga tidak menambah atau mengurangi jumlah saham beredar, ekuitas, maupun arus kas perusahaan itu sendiri. Nilainya pun kecil, hanya sekitar Rp244 ribu untuk tiga transaksi pada 6 Oktober 2026, sehingga terlalu remeh untuk dibaca sebagai sinyal sikap komisaris terhadap prospek perusahaan. Yang perlu dicermati selanjutnya adalah apakah muncul laporan serupa dari komisaris atau direksi BEEF lain dalam waktu dekat, sebab dokumen ini sendiri tidak menyebutkan agenda atau tenggat korporasi lanjutan.",
   "sentimen": "netral"
  },
  {
@@ -788,6 +917,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "alii-abundantia-fund-jual-bersih-6-200-saham-hak-suara-tetap",
+  "category": "Aksi Korporasi",
+  "title": "ALII: Abundantia Fund [Jual] Bersih 6.200 Saham, Hak Suara Tetap",
+  "deck": "Abundantia Fund SPC melaporkan beli 73.800 dan jual 80.000 saham ALII, net berkurang 6.200 lembar. Hak suara tetap di 4,9998 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:40:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-7352-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ALII",
+  "tags": [
+   "ALII",
+   "kepemilikan saham",
+   "Abundantia Fund",
+   "pasar modal"
+  ],
+  "body": [
+   "ABUNDANTIA FUND SPC, pemegang saham asing (bukan direksi maupun komisaris) PT Ancara Logistics Indonesia Tbk (ALII), melaporkan perubahan kepemilikan sahamnya ke Otoritas Jasa Keuangan pada 9 Oktober 2026. Jumlah saham yang dipegangnya berubah dari 791.262.940 unit menjadi 791.256.740 unit, atau berkurang 6.200 lembar.",
+   "Rincian dokumen menunjukkan tiga transaksi. Pada 20 Juli 2026, Abundantia melakukan dua pembelian tidak langsung saham biasa ALII, masing-masing 50.000 lembar di harga Rp750 dan 23.800 lembar di harga Rp745, dengan tujuan investasi. Kemudian pada 10 Agustus 2026, dana ini menjual langsung 80.000 lembar saham biasa di harga Rp805 dengan tujuan diversifikasi investasi. Selisih antara total pembelian 73.800 lembar dan penjualan 80.000 lembar itulah yang menghasilkan pengurangan bersih 6.200 saham.",
+   "Meski ada perubahan jumlah lembar saham, hak suara Abundantia Fund di ALII tercatat tetap di 4,9998 persen baik sebelum maupun setelah transaksi, karena besaran transaksi hanya setara 0,0008 persen dari total kepemilikannya."
+  ],
+  "fotoAdegan": "Stacked shipping containers at a busy Indonesian logistics terminal, trucks lined up for loading under bright daylight",
+  "takeaway": "Transaksi ini netral bagi ALII karena ukurannya cuma 0,0008 persen dari kepemilikan Abundantia Fund dan tidak mengubah hak suaranya yang tetap di 4,9998 persen, sehingga tidak bisa dibaca sebagai sinyal investor asing masuk atau keluar secara berarti. Perubahan semacam ini hanya menyentuh pos jumlah saham yang dipegang investor non-pengendali, bukan arus kas, ekuitas, atau beban perusahaan, sehingga dampaknya ke kinerja operasional ALII praktis nol. Pelaku pasar biasa memperhatikan pola transaksi dana asing seperti ini untuk membaca arah sentimen, tapi dengan selisih hanya 6.200 lembar dari hampir 800 juta saham yang dipegang, pola ini belum menunjukkan arah yang jelas. Yang perlu dicermati selanjutnya adalah apakah Abundantia Fund atau pemegang saham asing lain di ALII mengajukan laporan serupa dengan volume jauh lebih besar dalam waktu dekat, yang baru akan memberi sinyal lebih kuat soal arus modal asing di saham ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pssi-komisaris-iriawan-ibarat-jual-235-300-saham",
+  "category": "Aksi Korporasi",
+  "title": "PSSI: Komisaris Iriawan Ibarat [Jual] 235.300 Saham",
+  "deck": "Komisaris PSSI, Iriawan Ibarat, melepas 235.300 saham dalam enam transaksi sejak 15 September hingga 5 Oktober, mengurangi hak suaranya dari 0,255% menjadi 0,251%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:37:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-8741-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "Kepemilikan Saham",
+   "Komisaris",
+   "Divestasi"
+  ],
+  "body": [
+   "Iriawan Ibarat, anggota Dewan Komisaris PT IMC Pelita Logistik Tbk (PSSI), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan berkurang dari 13.851.300 lembar menjadi 13.616.000 lembar, turun 235.300 lembar. Laporan yang disampaikan pada 9 Oktober 2026 ini mencatat seluruh penjualan dilakukan secara tidak langsung dengan tujuan divestasi.",
+   "Penjualan terjadi dalam enam transaksi terpisah. Pada 15 September 2026 terjual 39.100 lembar di harga Rp360 dan 50.000 lembar di harga Rp358. Pada 16 September terjual 44.800 lembar di harga Rp358, lalu pada 18 September 12.600 lembar di harga Rp360. Dua transaksi terakhir terjadi pada 5 Oktober 2026, masing-masing 21.400 lembar di harga Rp358 dan 67.400 lembar di harga Rp360.",
+   "Akibat rangkaian transaksi ini, hak suara Iriawan di PSSI turun dari 0,255 persen menjadi 0,251 persen. Dalam laporan tersebut, Iriawan menyatakan dirinya bukan pihak pengendali perusahaan."
+  ],
+  "fotoAdegan": "Tugboats and cargo barges moored at a busy Indonesian river port at dusk, container cranes working in the background",
+  "takeaway": "Penjualan ini tergolong netral bagi PSSI karena ukurannya kecil, hanya sekitar 1,7 persen dari kepemilikan Iriawan sendiri, dan hak suaranya di perusahaan nyaris tidak berubah, dari 0,255 persen menjadi 0,251 persen. Yang tersentuh di sini cuma komposisi pemegang saham perorangan, bukan pos keuangan perusahaan seperti ekuitas atau laba per saham, karena skala transaksinya terlalu kecil untuk mengubah jumlah saham beredar PSSI secara keseluruhan. Pelaku pasar biasanya memperhatikan transaksi direksi atau komisaris karena bisa mencerminkan pandangan orang dalam terhadap prospek perusahaan, tapi penjualan sekecil ini di harga Rp358 sampai Rp360 per lembar lebih terlihat sebagai kebutuhan pribadi ketimbang sinyal soal fundamental emiten. Yang perlu dipantau selanjutnya adalah RUPSLB PSSI pada 28 Oktober 2026 yang membahas pembagian saham bonus dari treasuri, serta kemungkinan laporan kepemilikan baru dari Iriawan atau komisaris lain dalam beberapa pekan mendatang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "menteri-pu-pastikan-irigasi-siap-untuk-panen-perdana-di-merauke",
   "category": "Makroekonomi",
   "title": "Menteri PU Pastikan Irigasi Siap untuk [Panen] Perdana di Merauke",
@@ -839,6 +1020,58 @@ var ARTICLES = [
   "fotoAdegan": "Exterior view of glass office towers in Jakarta's financial district reflecting afternoon light, light traffic passing below",
   "takeaway": "Laporan ini netral bagi fundamental TARA, karena isinya cuma penegasan bahwa manajemen tidak tahu penyebab pergerakan harga sahamnya, bukan fakta baru yang mengubah kondisi usaha. Dokumen ini tidak menyentuh pos-pos yang biasa dipantau pelaku pasar seperti modal pemegang saham, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, sebab memang tujuannya cuma mengonfirmasi ada atau tidaknya informasi yang mendasari lonjakan transaksi, dan jawabannya nihil. Permintaan penjelasan dari BEI sendiri biasanya muncul karena harga atau volume transaksi saham bergerak di luar kebiasaan, jadi yang perlu dipantau berikutnya adalah apakah pergerakan harga TARA berlanjut tanpa dasar fundamental yang jelas, serta apakah BEI akan mengeluarkan permintaan penjelasan lanjutan jika volatilitas itu tetap terjadi setelah 9 Oktober 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "nick-direksi-jual-5-300-saham-hak-suara-tetap-0-04",
+  "category": "Aksi Korporasi",
+  "title": "NICK: Direksi [Jual] 5.300 Saham, Hak Suara Tetap 0,04%",
+  "deck": "Nicholas Santoso, direksi Charnic Capital, melepas 5.300 saham NICK pada 8 Oktober 2026. Porsi yang dijual kecil dan hak suaranya tidak berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:23:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-2726-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Nicholas Santoso, anggota direksi PT Charnic Capital Tbk (NICK), melaporkan kepada Otoritas Jasa Keuangan pada 9 Oktober 2026 bahwa kepemilikan sahamnya di perusahaan berkurang dari 291.600 lembar menjadi 286.300 lembar, atau turun 5.300 lembar.",
+   "Pengurangan itu berasal dari dua transaksi penjualan pada 8 Oktober 2026 dengan status kepemilikan tidak langsung. Transaksi pertama melepas 4.800 saham biasa di harga Rp3.520 per saham, dan transaksi kedua melepas 500 saham biasa di harga Rp3.510 per saham. Keduanya dicatat dengan tujuan investasi.",
+   "Hak suara Nicholas Santoso di NICK tercatat 0,04% sebelum transaksi dan tetap 0,04% sesudahnya. Saham yang dijual setara dengan sekitar 1,8% dari jumlah saham yang ia pegang sebelum transaksi."
+  ],
+  "fotoAdegan": "Employees sorting paper policy folders at wooden desks inside a small insurance brokerage office, warm afternoon light through windows",
+  "takeaway": "Laporan ini netral bagi NICK karena porsi yang dilepas sang direksi terlalu kecil untuk dibaca sebagai sinyal pandangannya terhadap prospek perusahaan. Yang perlu diperhatikan di sini adalah hak suara, yaitu persentase kendali seorang pemegang saham dalam pengambilan keputusan perusahaan, dan pada laporan ini angkanya tidak bergeser sama sekali dari 0,04%, sehingga tidak ada perubahan struktur kendali atas Charnic Capital. Dokumen ini tidak menyebut agenda korporasi lanjutan seperti RUPS atau tenggat tertentu, jadi yang pantas dipantau adalah apakah direksi atau komisaris lain NICK menyusul dengan laporan transaksi serupa dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "heli-alta-internasional-lepas-9-2-juta-saham-hak-suara-ke-14-9",
+  "category": "Aksi Korporasi",
+  "title": "HELI: Alta Internasional [Lepas] 9,2 Juta Saham, Hak Suara ke 14,9%",
+  "deck": "PT Alta Internasional Indonesia menjual 9,2 juta saham Jaya Trishindo Tbk (HELI) seharga Rp342 per saham untuk tujuan divestasi, hak suaranya turun dari 16% jadi 14,9%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:21:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-0522-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HELI",
+  "tags": [
+   "HELI",
+   "kepemilikan saham",
+   "divestasi",
+   "Jaya Trishindo"
+  ],
+  "body": [
+   "PT Alta Internasional Indonesia, salah satu pemegang saham PT Jaya Trishindo Tbk (HELI), melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menjual 9.200.000 lembar saham HELI pada 8 Oktober 2026. Penjualan dilakukan secara tidak langsung dengan harga Rp342 per saham dan tujuan transaksi yang dicatat sebagai divestasi.",
+   "Dengan transaksi ini, kepemilikan Alta Internasional di HELI berkurang dari 133.258.000 lembar saham menjadi 124.058.000 lembar saham, atau turun sekitar 6,9 persen dari jumlah yang sebelumnya dipegang. Hak suara mereka di perusahaan ikut turun dari 16,00 persen menjadi 14,90 persen.",
+   "Berdasarkan harga transaksi Rp342 per saham, nilai total penjualan saham ini sekitar Rp3,15 miliar. Laporan ini disampaikan sesuai ketentuan POJK Nomor 4/2024 yang mewajibkan pemegang saham melaporkan setiap perubahan kepemilikan saham perusahaan terbuka kepada OJK."
+  ],
+  "fotoAdegan": "Maintenance crew inspecting a small helicopter on an airport tarmac apron, tools and ladder nearby, early morning light",
+  "takeaway": "Laporan ini condong negatif tipis bagi HELI, karena Alta Internasional Indonesia melepas sekitar 6,9 persen dari kepemilikan sahamnya sendiri dengan tujuan divestasi, meski hak suaranya hanya turun dari 16,00 persen jadi 14,90 persen sehingga mereka tetap jadi pemegang saham signifikan, bukan keluar total. Transaksi jual beli antar pemegang saham seperti ini tidak menambah atau mengurangi jumlah saham beredar HELI, sehingga tidak berpengaruh langsung ke kas, ekuitas, atau laba per saham perusahaan, yang berubah hanyalah peta pemegang saham dan proporsi hak suara mereka di rapat umum pemegang saham. Pelaku pasar biasanya tetap mencermati pergerakan pemegang saham besar semacam ini karena bisa menjadi sinyal awal pergeseran komposisi pengendali perusahaan di kemudian hari. Yang perlu dipantau berikutnya adalah apakah Alta Internasional kembali melaporkan pengurangan kepemilikan pada periode mendatang, serta apakah ada perubahan susunan pemegang saham utama HELI yang nanti diumumkan resmi ke bursa.",
+  "sentimen": "negatif"
  },
  {
   "slug": "mdki-proyek-pabrik-ferro-silica-dan-cilegon-tertunda",
@@ -942,6 +1175,57 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Stacks of raw pulp bales at an industrial paper mill yard, forklift moving nearby, overcast afternoon light",
   "takeaway": "Laporan ini netral bagi LPPI karena sifatnya administratif, sekadar mengoreksi laporan realisasi dana yang sudah terbit sebulan sebelumnya, dan tidak ada angka realisasi yang meleset dari rencana awal di prospektus. Yang tersentuh di sini adalah beban bunga dan utang perusahaan, karena 71 sampai 79 persen dari total dana Rp3,67 triliun hasil penerbitan obligasi dan sukuk ini dipakai melunasi pokok pinjaman dan cicilan utang bank, artinya beban bunga yang harus dibayar LPPI ke depan berpotensi berkurang, sementara sisanya dipakai sebagai modal kerja atau dana operasional sehari-hari. Yang masih perlu dipantau adalah sisa dana Rp162,8 miliar dari tranche Obligasi Berkelanjutan IV Tahap III, yang untuk sementara disimpan di Bank Negara Indonesia dengan bunga 6,5 persen dan menurut rencana perusahaan baru akan habis terserap sebagai modal kerja pada Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ppri-direksi-jual-24-4-juta-saham-hak-suara-ke-10-34",
+  "category": "Aksi Korporasi",
+  "title": "PPRI: Direksi Jual 24,4 Juta Saham, Hak Suara ke [10,34%]",
+  "deck": "Direksi PPRI Irsyad Hanif melepas 24,4 juta saham seharga Rp182-193 per lembar pada 6-7 Oktober, hak suaranya turun dari 12,61% menjadi 10,34%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T15:41:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-7699-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRI",
+  "tags": [
+   "PPRI",
+   "Irsyad Hanif",
+   "divestasi saham",
+   "direksi"
+  ],
+  "body": [
+   "Irsyad Hanif, anggota Direksi PT Paperocks Indonesia Tbk (PPRI), melaporkan ke Otoritas Jasa Keuangan dua transaksi penjualan saham perusahaan pada 6 dan 7 Oktober 2026. Pada 6 Oktober ia menjual 5.392.500 saham dengan harga Rp182 per lembar, dan pada 7 Oktober menjual lagi 19.000.000 saham dengan harga Rp193 per lembar. Kedua transaksi tercatat dengan tujuan divestasi.",
+   "Total saham yang dilepas dalam laporan ini sebanyak 24.392.500 lembar, sehingga kepemilikannya berkurang dari 135.588.300 saham menjadi 111.195.800 saham. Hak suaranya di PPRI turun dari 12,61 persen menjadi 10,34 persen. Jumlah yang dijual kali ini setara hampir 18 persen dari seluruh saham yang ia pegang sebelum transaksi, porsi yang jauh lebih besar dibanding penjualan-penjualan sebelumnya.",
+   "Laporan ini melanjutkan rangkaian pelepasan saham oleh orang yang sama. Pada 5 Oktober Irsyad Hanif tercatat menjual 3 juta saham, lalu pada hari berikutnya menjual lagi sekitar 15 juta saham, membawa hak suaranya saat itu ke 12,6 persen. Dengan penjualan terbaru ini, hak suaranya yang sempat berada di 14,29 persen pada awal bulan kini sudah turun menjadi 10,34 persen."
+  ],
+  "fotoAdegan": "Stacks of brown cardboard sheets in a warehouse, a forklift moving pallets under industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi persepsi PPRI, karena ini adalah pelepasan saham keempat oleh direksi yang sama dalam waktu kurang dari seminggu, dan porsi yang dijual kali ini jauh lebih besar, hampir 18 persen dari kepemilikannya sendiri. Yang tersentuh adalah hak suara dan konsentrasi kepemilikan direksi, bukan laporan keuangan perusahaan secara langsung, tapi pelaku pasar memperhatikan pola jual beruntun orang dalam karena bisa mencerminkan pandangan mereka sendiri terhadap prospek perusahaan ke depan. Sejak awal Oktober, hak suara Irsyad Hanif sudah turun dari 14,29 persen menjadi 10,34 persen lewat empat kali pelepasan berturut-turut. Yang perlu dipantau adalah apakah laporan kepemilikan saham berikutnya dari direksi ini masih menunjukkan penjualan lanjutan, mengingat tren tersebut belum menunjukkan tanda berhenti sejak 5 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "drma-komisaris-lepas-143-300-saham-divestment",
+  "category": "Aksi Korporasi",
+  "title": "DRMA: Komisaris Lepas 143.300 Saham [Divestment]",
+  "deck": "Komisaris DRMA, Noel Aelyo Laras Kusuma Negara, melepas 143.300 saham secara tidak langsung dalam empat transaksi pada 2-5 Oktober 2026, hak suaranya turun dari 1,80% menjadi 1,79%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T15:35:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-1970-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DRMA",
+  "tags": [
+   "DRMA",
+   "kepemilikan saham",
+   "komisaris",
+   "divestasi"
+  ],
+  "body": [
+   "Dewan Komisaris PT Dharma Polimetal Tbk (DRMA), Noel Aelyo Laras Kusuma Negara, melaporkan ke Otoritas Jasa Keuangan bahwa ia melepas sahamnya di perusahaan melalui kepemilikan tidak langsung. Penjualan dilakukan dalam empat transaksi dengan tujuan yang tercatat sebagai divestment, yaitu 10.000 lembar pada 2 Oktober 2026 di harga Rp940 per lembar, 33.300 lembar pada tanggal yang sama di harga Rp935, lalu 88.600 lembar pada 5 Oktober 2026 di harga Rp930, dan 11.400 lembar pada 5 Oktober 2026 di harga Rp935. Total saham yang dilepas 143.300 lembar dengan nilai keseluruhan sekitar Rp133,59 juta.",
+   "Akibat transaksi ini, jumlah saham yang dipegang Noel berkurang dari 84.525.000 lembar menjadi 84.381.700 lembar. Porsi hak suaranya di DRMA pun turun sedikit, dari 1,80 persen menjadi 1,79 persen. Laporan ini disampaikan sesuai aturan OJK yang mewajibkan setiap anggota direksi atau komisaris melaporkan perubahan kepemilikan sahamnya di perusahaan terbuka."
+  ],
+  "fotoAdegan": "Automotive parts factory floor with workers assembling motorcycle components near industrial machinery, daylight through windows",
+  "takeaway": "Transaksi ini netral bagi Dharma Polimetal, karena yang dilepas cuma 0,17 persen dari kepemilikan komisaris tersebut dan hak suaranya di perusahaan nyaris tidak bergeser. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara jajaran komisaris, bukan kondisi keuangan perusahaan. Pelaku pasar biasanya memantau transaksi jual beli saham oleh direksi dan komisaris karena bisa mencerminkan pandangan orang dalam terhadap prospek perusahaan, tapi porsi sekecil ini terlalu tipis untuk dibaca sebagai sikap tertentu. Yang perlu dicermati selanjutnya adalah apakah laporan kepemilikan susulan dari jajaran direksi dan komisaris DRMA menunjukkan pola pelepasan yang lebih besar, mengingat pekan ini perusahaan mencatat beberapa perubahan kepemilikan dari jajaran komisarisnya.",
   "sentimen": "netral"
  },
  {

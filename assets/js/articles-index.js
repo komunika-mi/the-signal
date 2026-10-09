@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bmtp-fitch-afirmasi-peringkat-aa-idn-outlook-stabil",
+  "category": "Aksi Korporasi",
+  "title": "BMTP: Fitch Afirmasi Peringkat [AA(idn)], Outlook Stabil",
+  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat Bank Mandiri Taspen (BMTP) di AA(idn) outlook stabil, termasuk untuk obligasi berkelanjutannya.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMTP",
+   "peringkat kredit",
+   "Fitch Ratings",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ca61233dd_ce65c88c6a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dnrk-peringkat-danareksa-diturunkan-pefindo-jadi-ida",
+  "category": "Aksi Korporasi",
+  "title": "DNRK: Peringkat Danareksa [Diturunkan] PEFINDO Jadi idA+",
+  "deck": "PEFINDO menurunkan peringkat Danareksa dan tiga obligasinya dari idAA ke idA+ karena transformasi perusahaan jadi holding kawasan industri mengurangi dukungan pemerintah.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DNRK",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/407bc371ad_44c4030fdf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smle-jelaskan-rencana-akuisisi-saham-sinar-aroma-sentosa",
   "category": "Aksi Korporasi",
   "title": "SMLE Jelaskan Rencana [Akuisisi] Saham Sinar Aroma Sentosa",
@@ -315,6 +347,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472085-umkm-lokal-antusias-sambut-hadirnya-grand-prix-of-indonesia-2026"
  },
  {
+  "slug": "zone-tancorp-tambah-saham-hak-suara-ke-28-47",
+  "category": "Aksi Korporasi",
+  "title": "ZONE: TANCORP [Tambah] Saham, Hak Suara ke 28,47%",
+  "deck": "TANCORP Investama Mulia membeli 41,9 juta saham ZONE lewat mekanisme repo, mengangkat hak suaranya dari 23,65 persen menjadi 28,47 persen.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZONE",
+   "Mega Perintis",
+   "kepemilikan saham",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-6904-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppri-pemegang-saham-jual-21-4-juta-saham-hak-suara-ke-10-76",
+  "category": "Aksi Korporasi",
+  "title": "PPRI: Pemegang Saham Jual 21,4 Juta Saham, Hak Suara ke [10,76%]",
+  "deck": "Budi Aditya Erna Mulyanto melepas 21,47 juta saham PPRI pada 8 Oktober 2026 seharga Rp186 per saham, memangkas hak suaranya dari 12,76 persen menjadi 10,76 persen.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRI",
+   "divestasi saham",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-1008-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bino-lewati-tenggat-refloat-129-juta-saham-belum-ke-publik",
   "category": "Aksi Korporasi",
   "title": "BINO Lewati Tenggat [Refloat], 129 Juta Saham Belum ke Publik",
@@ -360,6 +424,22 @@ var ARTICLES = [
    "Cinema XXI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e98d35680_c6f332d4ab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beef-komisaris-billy-sabarto-lepas-576-saham-hak-suara-tetap-0",
+  "category": "Aksi Korporasi",
+  "title": "BEEF: Komisaris Billy Sabarto [lepas] 576 saham, hak suara tetap 0%",
+  "deck": "Komisaris Estika Tata Tiara, Billy Sabarto, melepas seluruh 576 lembar sahamnya lewat tiga transaksi kecil pada 6 Oktober 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEEF",
+   "Estika Tata Tiara",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-0233-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -492,6 +572,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "alii-abundantia-fund-jual-bersih-6-200-saham-hak-suara-tetap",
+  "category": "Aksi Korporasi",
+  "title": "ALII: Abundantia Fund [Jual] Bersih 6.200 Saham, Hak Suara Tetap",
+  "deck": "Abundantia Fund SPC melaporkan beli 73.800 dan jual 80.000 saham ALII, net berkurang 6.200 lembar. Hak suara tetap di 4,9998 persen.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ALII",
+   "kepemilikan saham",
+   "Abundantia Fund",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-7352-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pssi-komisaris-iriawan-ibarat-jual-235-300-saham",
+  "category": "Aksi Korporasi",
+  "title": "PSSI: Komisaris Iriawan Ibarat [Jual] 235.300 Saham",
+  "deck": "Komisaris PSSI, Iriawan Ibarat, melepas 235.300 saham dalam enam transaksi sejak 15 September hingga 5 Oktober, mengurangi hak suaranya dari 0,255% menjadi 0,251%.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "Kepemilikan Saham",
+   "Komisaris",
+   "Divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-8741-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "menteri-pu-pastikan-irigasi-siap-untuk-panen-perdana-di-merauke",
   "category": "Makroekonomi",
   "title": "Menteri PU Pastikan Irigasi Siap untuk [Panen] Perdana di Merauke",
@@ -522,6 +634,38 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71bebf3ec4_0f32c49e09.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nick-direksi-jual-5-300-saham-hak-suara-tetap-0-04",
+  "category": "Aksi Korporasi",
+  "title": "NICK: Direksi [Jual] 5.300 Saham, Hak Suara Tetap 0,04%",
+  "deck": "Nicholas Santoso, direksi Charnic Capital, melepas 5.300 saham NICK pada 8 Oktober 2026. Porsi yang dijual kecil dan hak suaranya tidak berubah.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-2726-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "heli-alta-internasional-lepas-9-2-juta-saham-hak-suara-ke-14-9",
+  "category": "Aksi Korporasi",
+  "title": "HELI: Alta Internasional [Lepas] 9,2 Juta Saham, Hak Suara ke 14,9%",
+  "deck": "PT Alta Internasional Indonesia menjual 9,2 juta saham Jaya Trishindo Tbk (HELI) seharga Rp342 per saham untuk tujuan divestasi, hak suaranya turun dari 16% jadi 14,9%.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HELI",
+   "kepemilikan saham",
+   "divestasi",
+   "Jaya Trishindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-0522-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -586,6 +730,38 @@ var ARTICLES = [
    "penggunaan dana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea463ab5cc_3176736959.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppri-direksi-jual-24-4-juta-saham-hak-suara-ke-10-34",
+  "category": "Aksi Korporasi",
+  "title": "PPRI: Direksi Jual 24,4 Juta Saham, Hak Suara ke [10,34%]",
+  "deck": "Direksi PPRI Irsyad Hanif melepas 24,4 juta saham seharga Rp182-193 per lembar pada 6-7 Oktober, hak suaranya turun dari 12,61% menjadi 10,34%.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRI",
+   "Irsyad Hanif",
+   "divestasi saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-7699-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "drma-komisaris-lepas-143-300-saham-divestment",
+  "category": "Aksi Korporasi",
+  "title": "DRMA: Komisaris Lepas 143.300 Saham [Divestment]",
+  "deck": "Komisaris DRMA, Noel Aelyo Laras Kusuma Negara, melepas 143.300 saham secara tidak langsung dalam empat transaksi pada 2-5 Oktober 2026, hak suaranya turun dari 1,80% menjadi 1,79%.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DRMA",
+   "kepemilikan saham",
+   "komisaris",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-1970-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6298,182 +6474,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-7168-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "yelo-panggil-rupslb-modal-dasar-naik-ke-rp765-miliar",
-  "category": "Aksi Korporasi",
-  "title": "YELO Panggil RUPSLB, [Modal Dasar] Naik ke Rp765 Miliar",
-  "deck": "Yelooo Integra Datanet mengundang pemegang saham ke RUPSLB 26 Oktober 2026 untuk menyetujui kenaikan modal dasar dari Rp275,2 miliar menjadi Rp765,1 miliar.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YELO",
-   "RUPSLB",
-   "modal dasar",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/00446910c2_52312e9fcb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brms-direktur-sulthon-tambah-90-000-saham-rp545",
-  "category": "Aksi Korporasi",
-  "title": "BRMS: Direktur Sulthon [Tambah] 90.000 Saham Rp545",
-  "deck": "Direktur BRMS Muhammad Sulthon menambah 90.000 saham tidak langsung senilai Rp545 per lembar, kepemilikannya naik ke 310.500 lembar, namun hak suaranya tetap 0,00 persen.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRMS",
-   "kepemilikan saham",
-   "direksi",
-   "insider"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-3275-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-uvcr-melonjak-36-saham-baru-diserap-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "Harga UVCR Melonjak 36%, Saham Baru Diserap [Pengendali]",
-  "deck": "UVCR menjelaskan ke BEI lonjakan harga 36% akhir September murni mekanisme pasar, sembari mengungkap rencana 200 juta saham baru yang seluruhnya diserap pemegang saham pengendali TSM.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "PMTHMETD",
-   "volatilitas saham",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3b97fea018_fb1bec9ca5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "film-direksi-lepas-69-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "FILM: Direksi Lepas 69 Juta Saham Lewat [Repo]",
-  "deck": "Samuel Sekuritas Indonesia, mewakili direksi FILM, menjual 69,07 juta saham pada 2 Oktober 2026 senilai sekitar Rp51,12 miliar lewat pencairan repo, hak suara turun dari 9,64% menjadi 9,00%.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "kepemilikan saham",
-   "repo",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6592-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sger-siapkan-rp273-65-miliar-untuk-pelunasan-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "SGER Siapkan Rp273,65 Miliar untuk [Pelunasan] Obligasi",
-  "deck": "PT Sumber Global Energy Tbk menyatakan dana pelunasan obligasi senilai Rp273,645 miliar yang jatuh tempo 25 Oktober 2026 sudah siap.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SGER",
-   "obligasi",
-   "pelunasan utang",
-   "Sumber Global Energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6e0a0de8c9_53205c9ff1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mppa-dana-rights-issue-rp1-04-triliun-sudah-tuntas-terpakai",
-  "category": "Aksi Korporasi",
-  "title": "MPPA: Dana Rights Issue Rp1,04 Triliun Sudah [Tuntas] Terpakai",
-  "deck": "Matahari Putra Prima melaporkan ke OJK bahwa seluruh dana hasil rights issue senilai Rp1,04 triliun sudah terealisasi penuh, tanpa sisa dana mengendap.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPPA",
-   "rights issue",
-   "penggunaan dana",
-   "Matahari Putra Prima"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4263f9fa57_1f4e2d4fa5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mice-siwie-honoris-tambah-saham-lagi-100-ribu-lembar",
-  "category": "Aksi Korporasi",
-  "title": "MICE: Siwie Honoris [Tambah] Saham Lagi 100 Ribu Lembar",
-  "deck": "Siwie Honoris membeli 100.000 saham Multi Indocitra pada 30 September 2026, menambah kepemilikannya menjadi 2,06 juta lembar atau 0,3434 persen hak suara.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MICE",
-   "Multi Indocitra",
-   "kepemilikan saham",
-   "Siwie Honoris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-9955-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdln-restrukturisasi-notes-us-290-juta-lepas-tanah-ke-pemegang-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "MDLN Restrukturisasi Notes US$290 Juta, Lepas Tanah ke [Pemegang] Obligasi",
-  "deck": "Modernland Realty mengubah skema utang obligasi dolar senilai US$289,8 juta dengan melepas tanah di Jakarta Garden City, Modern Hill, dan Bekasi kepada pemegang obligasi, tanpa perlu persetujuan RUPS.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLN",
-   "restrukturisasi utang",
-   "obligasi",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e95dbf397_63dfa16f92.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impc-tunggal-jaya-investama-tambah-8-68-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "IMPC: Tunggal Jaya Investama [Tambah] 8,68 Juta Saham",
-  "deck": "Pemegang saham IMPC, Tunggal Jaya Investama, menambah 8,68 juta lembar saham lewat pembelian tidak langsung akhir September hingga awal Oktober, mengerek hak suaranya dari 38,48% menjadi 38,49%.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMPC",
-   "Impack Pratama Industri",
-   "kepemilikan saham",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-5970-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "link-gelar-rupslb-pergantian-direksi-komisaris-26-okt",
-  "category": "Aksi Korporasi",
-  "title": "LINK Gelar RUPSLB [Pergantian] Direksi-Komisaris 26 Okt",
-  "deck": "Link Net mengundang pemegang saham ke RUPSLB 26 Oktober 2026 untuk menyetujui perubahan susunan Direksi dan Komisaris, menyusul mundurnya dua pejabat pekan ini.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LINK",
-   "RUPSLB",
-   "Direksi",
-   "Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2eb96e7f31_85059942cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-komisaris-tambah-220-000-saham-lewat-pembelian",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Komisaris Tambah [220.000] Saham Lewat Pembelian",
-  "deck": "Komisaris Arkora Hydro, Arya Pradana Setiadharma, membeli 220.000 saham ARKO lewat dua transaksi akhir September dan awal Oktober, menambah kepemilikannya menjadi 1.945.000 lembar.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6068-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

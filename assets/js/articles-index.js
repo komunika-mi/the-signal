@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "11-proyek-hilirisasi-nikel-senilai-rp180-triliun-diluncurkan-di-iwip",
+  "category": "Industri",
+  "title": "11 Proyek Hilirisasi Nikel Senilai [Rp180] Triliun Diluncurkan di IWIP",
+  "deck": "Presiden Prabowo Subianto meluncurkan 11 proyek hilirisasi nikel senilai US$10,2 miliar di IWIP, Maluku Utara, sekaligus melepas ekspor perdana baterai kendaraan listrik.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "hilirisasi nikel",
+   "IWIP",
+   "Maluku Utara",
+   "baterai kendaraan listrik"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7139/pemerintah-terus-memantau-kebijakan-hilirisasi-untuk-mendorong-pertumbuhan-ekonomi-dan-kebermanfaatannya-bagi-masyarakat-luas",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "airlangga-talenta-digital-kunci-ekonomi-ri-ke-depan",
+  "category": "Makroekonomi",
+  "title": "Airlangga: Talenta [Digital] Kunci Ekonomi RI ke Depan",
+  "deck": "Menko Airlangga menyebut penguasaan teknologi digital dan hilirisasi industri jadi mesin pertumbuhan baru, di tengah ekonomi RI yang tumbuh 5,45 persen pada semester I 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "Airlangga Hartarto",
+   "hilirisasi",
+   "ekonomi digital",
+   "PLTS"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7140/menko-airlangga-penguasaan-teknologi-dan-talenta-generasi-muda-yang-digital-literate-jadi-kunci-next-economy",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "apex-jadwalkan-pelaksanaan-konversi-utang-jadi-saham-19-oktober",
   "category": "Aksi Korporasi",
   "title": "APEX Jadwalkan [Pelaksanaan] Konversi Utang Jadi Saham 19 Oktober",
@@ -224,7 +256,7 @@ var ARTICLES = [
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
   "deck": "Kewajiban sertifikasi halal, termasuk untuk alat kesehatan risiko A, resmi berlaku 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung 11 Oktober.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "Wajib Halal",
    "BPJPH",
@@ -421,7 +453,7 @@ var ARTICLES = [
   "title": "Pemerintah Tetapkan Target Pertumbuhan [6%] untuk 2027",
   "deck": "Pemerintah menyasar pertumbuhan ekonomi 6 persen pada 2027, dengan syarat investasi tumbuh lebih cepat dari ekonomi, sebagai tahapan menuju target 8 persen jangka menengah.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "pertumbuhan ekonomi",
    "investasi",
@@ -838,7 +870,7 @@ var ARTICLES = [
   "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
   "deck": "Furnitur dan kriya kembali jadi sorotan di Trade Expo Indonesia ke-41, didukung ekspor furnitur nasional yang sudah tembus US$1,2 miliar sepanjang 2026.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "TEI ke-41",
    "furnitur",
@@ -2108,7 +2140,7 @@ var ARTICLES = [
   "title": "Pemerintah Kaji Ulang [Insentif Pajak] Investasi Usai Pajak Global",
   "deck": "Pemerintah mengkaji ulang insentif pajak investasi, termasuk tax holiday, setelah pajak minimum global 15 persen berlaku, di tengah investasi semester I 2026 yang capai Rp1.010 triliun.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "hilirisasi",
    "investasi",
@@ -2557,7 +2589,7 @@ var ARTICLES = [
   "title": "Airlangga Pacu Investasi AS, Target Tumbuh [8]% di 2027",
   "deck": "Dalam forum investasi AS-Indonesia, Menko Airlangga memaparkan data dagang dan investasi dua negara serta target pertumbuhan ekonomi 8 persen pada 2027 lewat sektor teknologi tinggi.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "Investasi AS",
    "Pertumbuhan Ekonomi",
@@ -2930,7 +2962,7 @@ var ARTICLES = [
   "title": "Surplus Dagang Agustus Melonjak, [Impor] Modal Anjlok 16%",
   "deck": "Neraca dagang Indonesia Agustus 2026 surplus USD3,55 miliar, melonjak dari USD0,12 miliar di Juli, didorong surplus nonmigas, sementara impor barang modal dan bahan baku justru turun tajam.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -4571,7 +4603,7 @@ var ARTICLES = [
   "title": "Investasi Harus Tumbuh [8-9%] Kejar Target Ekonomi 2027",
   "deck": "Kemenko Perekonomian menyebut investasi perlu tumbuh 8-9 persen demi target pertumbuhan ekonomi 6 persen pada 2027, didukung transisi energi hijau dan digitalisasi.",
   "date": "4 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "investasi",
    "transisi energi",
@@ -4587,7 +4619,7 @@ var ARTICLES = [
   "title": "PMI Manufaktur RI [Balik] ke Ekspansi, Inflasi Terjaga 3,28%",
   "deck": "Inflasi September terjaga di 3,28 persen, neraca dagang Januari-Agustus surplus US$7,25 miliar, dan PMI manufaktur naik ke 52,4 setelah sempat kontraksi Agustus.",
   "date": "4 Oktober 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "Inflasi",
    "Neraca Dagang",
@@ -6455,36 +6487,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Kelautan dan Perikanan",
   "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-percepat-sertifikasi-awak-kapal-perikanan-melalui-modernisasi-pelatihan-Pz4W.html",
   "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "manufaktur-ri-kembali-ekspansi-surplus-dagang-melonjak",
-  "category": "Makroekonomi",
-  "title": "Manufaktur RI Kembali [Ekspansi], Surplus Dagang Melonjak",
-  "deck": "Inflasi September terkendali di 3,28 persen, neraca dagang Agustus surplus US$3,55 miliar, dan PMI manufaktur kembali ke zona ekspansi di 52,4, naik dari 49,8 bulan sebelumnya.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/bendungan.jpg",
-  "tags": [
-   "Inflasi",
-   "PMI Manufaktur",
-   "Neraca Dagang"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7121/ekonomi-indonesia-tetap-tangguh-inflasi-terjaga-manufaktur-kembali-ekspansi-surplus-neraca-dagang-berlanjut",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "sofn-ubah-susunan-direksi-dan-komisaris-pasca-merger",
-  "category": "Aksi Korporasi",
-  "title": "SOFN Ubah Susunan [Direksi] dan Komisaris Pasca Merger",
-  "deck": "SOFN mengganti dua komisaris, menambah tiga direktur baru, dan satu komisaris independen baru, efektif 1 Oktober 2026, bersamaan dengan rampungnya merger dengan Oto Multiartha.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOFN",
-   "Summit Oto Finance",
-   "pergantian direksi",
-   "dewan komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6c2e68811_3fb122db88.pdf",
-  "sourceLabel": "IDX"
  }
 ];

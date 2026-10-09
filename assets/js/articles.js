@@ -161,7 +161,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah masuknya alat kesehatan kategori risiko A ke daftar produk wajib bersertifikat halal mulai 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung paling lambat 11 Oktober, hanya tiga hari dari sekarang. Pihak yang langsung terdampak adalah pelaku usaha mikro dan kecil serta produsen barang gunaan dan alat kesehatan, karena merekalah yang membutuhkan pendampingan dan sosialisasi sebelum tenggat berlaku. Jarak yang sangat sempit antara target penyelesaian aturan BPJPH dan tanggal pemberlakuan menunjukkan pemerintah kali ini mengejar kepastian jadwal, berbeda dari pola penundaan yang beberapa kali terjadi pada kebijakan wajib halal sebelumnya. Yang akan membuktikan apakah jadwal ini benar ditepati adalah terbitnya Peraturan Kepala BPJPH itu sendiri dalam beberapa hari ke depan, serta tanggapan asosiasi usaha begitu aturan tersebut disosialisasikan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "ekspor-perdana-baterai-listrik-dari-iwip-investasi-rp180-triliun",

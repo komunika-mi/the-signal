@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "jL6tKdLiZ98",
+  "title": "Biaya Haji 2027 Disepakati Pemerintah dan DPR",
+  "category": "Makroekonomi",
+  "program": "Kabar Hari Ini",
+  "summary": "Pemerintah dan DPR menetapkan Biaya Penyelenggaraan Ibadah Haji (BPIH) 2027 sebesar Rp98,46 juta, termasuk rincian Biaya Perjalanan Ibadah Haji (Bipih) yang ditanggung jemaah.",
+  "takeaway": "Penetapan BPIH menyangkut alokasi anggaran negara dan subsidi haji, sehingga relevan bagi pembaca yang mengikuti kebijakan fiskal pemerintah.",
+  "terbit": "2026-10-08T16:40:29+00:00"
+ },
+ {
   "id": "QnHbUfBfosE",
   "title": "Strategi Pelaku Bisnis Event Organizer Hadapi Tekanan Ekonomi",
   "category": "Bisnis",

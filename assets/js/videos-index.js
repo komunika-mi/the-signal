@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "jL6tKdLiZ98",
+  "title": "Biaya Haji 2027 Disepakati Pemerintah dan DPR",
+  "category": "Makroekonomi",
+  "program": "Kabar Hari Ini",
+  "summary": "Pemerintah dan DPR menetapkan Biaya Penyelenggaraan Ibadah Haji (BPIH) 2027 sebesar Rp98,46 juta, termasuk rincian Biaya Perjalanan Ibadah Haji (Bipih) yang ditanggung jemaah.",
+  "takeaway": "Penetapan BPIH menyangkut alokasi anggaran negara dan subsidi haji, sehingga relevan bagi pembaca yang mengikuti kebijakan fiskal pemerintah."
+ },
+ {
   "id": "QnHbUfBfosE",
   "title": "Strategi Pelaku Bisnis Event Organizer Hadapi Tekanan Ekonomi",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Desa Lagading di Kabupaten Sidrap berkembang menjadi kawasan transmigrasi yang produktif setelah warganya mengolah lahan yang sebelumnya tidak produktif menjadi sentra pertanian.",
   "takeaway": "Kisah ini menunjukkan bagaimana program transmigrasi bisa mendorong produktivitas sektor pertanian dan menggerakkan ekonomi di daerah."
- },
- {
-  "id": "AcploF0V5eY",
-  "title": "Biaya Haji 2027, Tarif Penerbangan Belum Disepakati",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Pembahasan biaya haji tahun 2027 masih berjalan. Komponen tarif penerbangan menjadi salah satu poin yang hingga kini belum mencapai kesepakatan antara pemerintah dan pihak maskapai.",
-  "takeaway": "Negosiasi tarif penerbangan ini relevan bagi pembaca ekonomi karena menyangkut komponen biaya besar dalam anggaran haji sekaligus pola bisnis maskapai penerbangan."
  }
 ];

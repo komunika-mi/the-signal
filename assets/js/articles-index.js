@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mendag-buka-flei-2026-ajak-anak-muda-coba-bisnis-waralaba",
+  "category": "Bisnis",
+  "title": "Mendag Buka FLEI 2026, Ajak Anak Muda Coba Bisnis [Waralaba]",
+  "deck": "Menteri Perdagangan Budi Santoso membuka Franchise & License Expo Indonesia ke-27 dan mengajak generasi muda merintis usaha waralaba, sekaligus mendorong ekspansi waralaba lokal ke pasar ekspor.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/mendag-buka-flei-2026-ajak-anak-muda-coba-bisnis-waralaba.jpg",
+  "imageV": "mv0zlttv",
+  "tags": [
+   "waralaba",
+   "UMKM",
+   "ekspor",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-generasi-muda-jajaki-usaha-waralaba",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pertamina-ubah-hentakan-tenun-jadi-listrik-pompa-air",
+  "category": "BUMN",
+  "title": "Pertamina Ubah Hentakan Tenun Jadi Listrik Pompa [Air]",
+  "deck": "Program Pertamina Patra Niaga di Desa Sukarara, NTB, menaikkan pendapatan perajin tenun dari sekitar Rp25.000 menjadi minimal Rp750.000 per kain, sekaligus mengubah gerak alat tenun jadi listrik untuk pompa air.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/pertamina-ubah-hentakan-tenun-jadi-listrik-pompa-air.jpg",
+  "imageV": "mv0zlua3",
+  "tags": [
+   "pertamina",
+   "tenun ntb",
+   "pemberdayaan perempuan",
+   "air bersih"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472099-inovasi-mina-tenun-di-desa-sukarara-ntb-ubah-hentakan-alat-tenun-jadi-listrik-pompa-air"
+ },
+ {
   "slug": "bswd-papar-suspensi-saham-dan-tenggat-free-float-2029",
   "category": "Aksi Korporasi",
   "title": "BSWD Papar Suspensi Saham dan Tenggat Free Float [2029]",
@@ -19,6 +54,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/05d227840f_1beefbb82a.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "umkm-lombok-antusias-sambut-motogp-mandalika-2026",
+  "category": "UMKM",
+  "title": "UMKM Lombok [Antusias] Sambut MotoGP Mandalika 2026",
+  "deck": "Pelaku usaha kecil di sekitar Mandalika menyambut gelaran MotoGP sebagai peluang memperkenalkan produk lokal ke wisatawan dari berbagai negara.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/umkm-lombok-antusias-sambut-motogp-mandalika-2026.jpg",
+  "imageV": "mv0zluqi",
+  "tags": [
+   "UMKM",
+   "MotoGP Mandalika",
+   "Pertamina",
+   "NTB"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472085-umkm-lokal-antusias-sambut-hadirnya-grand-prix-of-indonesia-2026"
  },
  {
   "slug": "bino-lewati-tenggat-refloat-129-juta-saham-belum-ke-publik",
@@ -6422,54 +6474,6 @@ var ARTICLES = [
    "pinjaman"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/894e7bcc1e_e18320b8f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apex-konversi-utang-us-4-1-juta-jadi-saham-dilusi-5-79",
-  "category": "Aksi Korporasi",
-  "title": "APEX Konversi Utang US$4,1 Juta Jadi Saham, Dilusi [5,79%]",
-  "deck": "Apexindo menerbitkan 218,09 juta saham baru Rp325 per lembar untuk melunasi utang US$4,1 juta ke dua kreditor asing lewat skema konversi utang menjadi saham (PMTHMETD).",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APEX",
-   "PMTHMETD",
-   "konversi utang",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/77bae3ea07_ebe40b13c8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-direksi-hasan-aula-tambah-1-49-juta-saham-mesop",
-  "category": "Aksi Korporasi",
-  "title": "ERAA: Direksi Hasan Aula Tambah 1,49 Juta Saham [MESOP]",
-  "deck": "Direktur Hasan Aula menambah 1,49 juta saham ERAA lewat pencairan opsi program MESOP, hak suaranya di perseroan naik tipis dari 0,05% menjadi 0,06%.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "MESOP",
-   "Erajaya Swasembada",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-2947-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-joy-wahjudi-tambah-1-9-juta-saham-mesop",
-  "category": "Aksi Korporasi",
-  "title": "ERAA: Joy Wahjudi Tambah 1,9 Juta Saham [MESOP]",
-  "deck": "Direksi Erajaya Swasembada, Joy Wahjudi, menambah kepemilikan sahamnya lewat pencairan opsi program MESOP, melanjutkan rangkaian laporan serupa dari direksi lain pekan ini.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "MESOP",
-   "Erajaya Swasembada",
-   "kepemilikan saham direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-8245-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mendag-buka-flei-2026-ajak-anak-muda-coba-bisnis-waralaba",
+  "category": "Bisnis",
+  "title": "Mendag Buka FLEI 2026, Ajak Anak Muda Coba Bisnis [Waralaba]",
+  "deck": "Menteri Perdagangan Budi Santoso membuka Franchise & License Expo Indonesia ke-27 dan mengajak generasi muda merintis usaha waralaba, sekaligus mendorong ekspansi waralaba lokal ke pasar ekspor.",
+  "image": "assets/img/mendag-buka-flei-2026-ajak-anak-muda-coba-bisnis-waralaba.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T13:09:29.123Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-generasi-muda-jajaki-usaha-waralaba",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "waralaba",
+   "UMKM",
+   "ekspor",
+   "Kemendag"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mengajak generasi muda mempertimbangkan bisnis waralaba sebagai jalan masuk berusaha, karena sistem bisnisnya sudah teruji dan tinggal dijalankan tanpa harus merancang model usaha dari nol. Ajakan ini disampaikan saat ia membuka Franchise & License Expo Indonesia (FLEI) ke-27 di kawasan Pantai Indah Kapuk 2, Tangerang, Jumat (9/10), didampingi Direktur Jenderal Perdagangan Dalam Negeri Iqbal Shoffan Shofwan.",
+   "Budi menyebut banyak usaha kuliner lokal, mulai dari bakso hingga soto, sudah mengadopsi model waralaba, dan pemerintah ingin memperkuat promosinya agar bisa bersaing dengan waralaba asing di pasar domestik. Untuk pasar luar negeri, Kementerian Perdagangan menjalankan program Rasa Rempah Indonesia (S'RASA) bersama kementerian lain, dengan 46 perwakilan dagang RI di 33 negara, termasuk atase dagang dan Indonesian Trade Promotion Center, ditugaskan membantu mengembangkan potensi waralaba Indonesia di negara tujuan ekspor.",
+   "Salah satu instrumen fasilitasi ekspor yang didorong Kemendag adalah business matching, yakni sesi pertemuan antara pelaku usaha dengan calon pembeli di luar negeri yang difasilitasi perwakilan dagang. Sepanjang 2025, Kemendag mencatat 622 sesi business matching dengan nilai transaksi ekspor US$134,87 juta, sementara pada Januari-Agustus 2026 jumlahnya naik menjadi 711 sesi dengan nilai transaksi US$346,99 juta. Pelaku usaha waralaba dan UMKM juga diarahkan memanfaatkan Trade Expo Indonesia (TEI) ke-41 pada 14-18 Oktober 2026 di ICE BSD City, yang antara lain menghadirkan zona khusus kopi, teh, dan kakao (KoTeKa) untuk mempromosikan produk pertanian unggulan ke pembeli internasional.",
+   "Ketua Umum Perhimpunan Waralaba dan Lisensi Indonesia (WALI), Levita Ginting Supit, menilai keberhasilan industri waralaba tidak hanya diukur dari jumlah merek atau gerai yang bertambah, tetapi juga dari kemampuannya menciptakan wirausaha baru, membuka lapangan kerja, dan melibatkan lebih banyak UMKM dalam rantai pasok. Wakil Ketua Umum Kadin Indonesia Juan Permata Adoe menambahkan, dukungan pemerintah terhadap dunia usaha, termasuk lewat perundingan perjanjian dagang Indonesia-Uni Eropa (I-EU CEPA), perlu terus berlanjut agar UMKM dan pelaku usaha nasional lebih siap bersaing di pasar global."
+  ],
+  "fotoAdegan": "Rows of small Indonesian meatball soup and soto food stalls along a busy street, vendors serving customers under awnings, midday light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/LlSWMSmHn6PFlq5xK1TVeqLXutKgOxy70c1PXvZ1.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret di balik ajakan soal waralaba ini adalah data business matching Kemendag, yaitu pertemuan yang mempertemukan pelaku usaha dengan calon pembeli dari luar negeri lewat perwakilan dagang RI di 33 negara. Sepanjang 2025 penuh ada 622 sesi dengan nilai transaksi ekspor US$134,87 juta, tapi dalam delapan bulan pertama 2026 saja sudah tercatat 711 sesi dengan nilai US$346,99 juta, lebih dari dua kali lipat nilai setahun penuh tahun sebelumnya. Yang langsung terdampak adalah pelaku usaha kecil dan menengah, termasuk pemilik waralaba kuliner seperti bakso atau soto, yang jadi sasaran program perluasan akses ekspor ini. Kenaikan tajam dalam waktu singkat ini mengarah pada fasilitasi ekspor yang makin aktif dijalankan, dan yang akan memastikan apakah tren ini berlanjut atau cuma lonjakan sementara adalah hasil transaksi Trade Expo Indonesia ke-41 pada 14-18 Oktober 2026.",
+  "imageV": "mv0zlttv"
+ },
+ {
+  "slug": "pertamina-ubah-hentakan-tenun-jadi-listrik-pompa-air",
+  "category": "BUMN",
+  "title": "Pertamina Ubah Hentakan Tenun Jadi Listrik Pompa [Air]",
+  "deck": "Program Pertamina Patra Niaga di Desa Sukarara, NTB, menaikkan pendapatan perajin tenun dari sekitar Rp25.000 menjadi minimal Rp750.000 per kain, sekaligus mengubah gerak alat tenun jadi listrik untuk pompa air.",
+  "image": "assets/img/pertamina-ubah-hentakan-tenun-jadi-listrik-pompa-air.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T19:22:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472099-inovasi-mina-tenun-di-desa-sukarara-ntb-ubah-hentakan-alat-tenun-jadi-listrik-pompa-air",
+  "tags": [
+   "pertamina",
+   "tenun ntb",
+   "pemberdayaan perempuan",
+   "air bersih"
+  ],
+  "body": [
+   "PT Pertamina Patra Niaga, melalui unit Aviation Fuel Terminal Bandara Internasional Lombok, mendirikan Galeri Mina Tenun di Desa Sukarara, Lombok Tengah, Nusa Tenggara Barat. Program ini menggabungkan dua hal sekaligus: membantu perempuan penenun mendapat harga jual yang lebih layak, dan memanfaatkan gerakan alat tenun gedogan untuk membangkitkan listrik yang menggerakkan pompa air bersih bagi warga sekitar. Sasarannya adalah dua masalah yang selama ini membebani desa itu, yakni mantan pekerja migran yang kesulitan mencari kerja layak sepulang ke kampung, dan penenun yang nilai jual karyanya tertekan karena bergantung pada tengkulak.",
+   "Sebelum ada program ini, penenun di Sukarara biasanya hanya dibayar sekitar Rp25.000 per lembar kain oleh pengepul, dan pembayarannya pun sering ditunda sampai kain itu laku terjual. Akibatnya, modal untuk membeli bahan baku berikutnya ikut tersendat karena uang belum kembali ke tangan penenun. Galeri Mina Tenun memutus pola itu dengan menyediakan bahan baku, mengembangkan corak atau motif baru, menyediakan alat tenun gedogan, serta membayar tunai begitu kain selesai ditenun. Dengan sistem baru ini, pendapatan bersih penenun melonjak jadi minimal Rp750.000 per lembar kain.",
+   "VP Community Involvement Development Pertamina Patra Niaga, Dian Hapsari Firasati, mengatakan program pemberdayaan semacam ini perlu berpijak pada masalah nyata yang dihadapi warga sekaligus memanfaatkan potensi lokal yang sudah ada. Menurutnya, Galeri Mina Tenun dirancang supaya perempuan penenun punya akses ekonomi yang lebih baik dan bisa mandiri secara finansial, sementara warga desa turut merasakan manfaatnya lewat akses air bersih yang lebih luas."
+  ],
+  "fotoAdegan": "Traditional wooden backstrap loom with colorful woven threads in a rural workshop, water pipe and pump visible nearby, soft daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac8dbc19debb-inovasi-mina-tenun-di-desa-sukarara-ubah-hentakan-alat-tenun-jadi-listrik-pompa-air_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah pendapatan penenun di Desa Sukarara, dari sekitar Rp25.000 per lembar kain menjadi minimal Rp750.000, karena galeri bentukan Pertamina Patra Niaga memutus jalur tengkulak dan membayar tunai begitu kain selesai dibuat. Yang terdampak langsung adalah perempuan penenun dan mantan pekerja migran di desa itu, serta warga sekitar yang kebagian air bersih dari pompa yang digerakkan tenaga hentakan alat tenun. Yang belum terlihat dari berita ini adalah skala program, misalnya berapa banyak penenun yang sudah bergabung, berapa rumah tangga yang kebagian air, dan apakah Pertamina berencana membuat model serupa di desa-desa lain lewat unit operasinya yang tersebar di berbagai daerah. Tanpa angka jangkauan dan rencana replikasi semacam itu, belum bisa dipastikan apakah ini sekadar proyek percontohan kecil atau bagian dari pola pemberdayaan yang akan diperluas Pertamina ke wilayah lain.",
+  "imageV": "mv0zlua3"
+ },
+ {
   "slug": "bswd-papar-suspensi-saham-dan-tenggat-free-float-2029",
   "category": "Aksi Korporasi",
   "title": "BSWD Papar Suspensi Saham dan Tenggat Free Float [2029]",
@@ -27,6 +81,33 @@ var ARTICLES = [
   "fotoAdegan": "Interior of a mid-size bank branch in Jakarta with teller counters, customers waiting in queue, soft fluorescent lighting",
   "takeaway": "Laporan ini netral bagi BSWD karena isinya sebatas rekap tanya jawab dari ajang yang sudah diumumkan sebelumnya, tanpa perubahan modal, laba, atau kepemilikan saham yang baru, meski mengonfirmasi dua isu yang belum tuntas. Yang tersentuh adalah dana pihak ketiga, yaitu total simpanan nasabah yang jadi sumber utama bank menyalurkan kredit, dan rasio kredit terhadap simpanan yang kalau terus naik berarti bank menyalurkan kredit lebih agresif dibanding dana yang terkumpul sehingga ruang geraknya menyempit. Margin bunga bersih yang diklaim tetap di atas 4 persen, yakni selisih antara bunga yang diterima bank dari kredit dan bunga yang dibayarkan ke nasabah, menandakan sumber laba utama belum tergerus meski komposisi pendanaan berubah. Yang perlu dipantau berikutnya adalah proses BSWD memenuhi seluruh dokumen yang diminta Bursa Efek Indonesia agar suspensi perdagangan sahamnya bisa dicabut, tanpa tenggat pasti yang disebutkan, serta progres menuju batas waktu pemenuhan free float 15 persen pada 31 Maret 2029.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "umkm-lombok-antusias-sambut-motogp-mandalika-2026",
+  "category": "UMKM",
+  "title": "UMKM Lombok [Antusias] Sambut MotoGP Mandalika 2026",
+  "deck": "Pelaku usaha kecil di sekitar Mandalika menyambut gelaran MotoGP sebagai peluang memperkenalkan produk lokal ke wisatawan dari berbagai negara.",
+  "image": "assets/img/umkm-lombok-antusias-sambut-motogp-mandalika-2026.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:39:44+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472085-umkm-lokal-antusias-sambut-hadirnya-grand-prix-of-indonesia-2026",
+  "tags": [
+   "UMKM",
+   "MotoGP Mandalika",
+   "Pertamina",
+   "NTB"
+  ],
+  "body": [
+   "Pelaku usaha mikro, kecil, dan menengah di sekitar Mandalika menyambut gelaran Pertamina Grand Prix of Indonesia 2026 dengan harapan besar. Ajang balap motor MotoGP yang berlangsung di Pertamina Mandalika International Circuit, Lombok, Nusa Tenggara Barat, pada 9 hingga 11 Oktober 2026 ini dilihat sebagai kesempatan memperkenalkan produk khas daerah kepada wisatawan dari berbagai negara, bukan sekadar menambah omzet harian.",
+   "Rohaniah, pemilik usaha Malindo Coffee, menyiapkan stik kopi kemasan praktis yang ia klaim sebagai produk pertama dengan bentuk semacam itu di Lombok. Ia menyesuaikan kemasan dengan kebiasaan wisatawan yang singgah singkat di Mandalika namun tetap ingin membawa oleh-oleh. Harapannya, siapa pun yang mengenal Mandalika lewat ajang ini juga ikut membawa pulang produk kopi lokal tersebut.",
+   "Cerita serupa datang dari M. Arif Yani, pemilik usaha Sate Ibu Lilik, yang melihat gelaran ini sebagai jalan memperkenalkan sate lilit ayam kepada wisatawan mancanegara. Para pelaku UMKM ini mendapat tempat berjualan di area Festival di seputaran sirkuit, sehingga produk mereka langsung bertemu konsumen dari berbagai penjuru dunia. Mereka juga tergabung dalam Rumah BUMN Pertamina, program pembinaan usaha kecil yang memberi pelatihan dan pendampingan sebelum acara berlangsung.",
+   "Bagi kedua pelaku usaha ini, keberhasilan acara tidak hanya diukur dari transaksi selama tiga hari perlombaan, melainkan dari cerita dan rekomendasi yang dibawa wisatawan setelah pulang. Mereka berharap pengalaman mencicipi kopi dan sate lilit khas Lombok ini menyebar dari mulut ke mulut ke calon wisatawan lain di luar negeri."
+  ],
+  "fotoAdegan": "Small stall vendors arranging grilled satay skewers and packaged coffee sachets on a market table near a racing circuit, tropical daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac8c26a51fde-umkm-lokal-antusias-sambut-hadirnya-grand-prix-of-indonesia-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah akses, bukan angka penjualan: pelaku UMKM kuliner dan kopi di sekitar Mandalika mendapat lapak resmi di area Festival pinggir sirkuit selama tiga hari MotoGP, ditambah pelatihan dari Rumah BUMN, program pembinaan usaha kecil milik Pertamina. Yang jelas terdampak adalah pelaku usaha mikro di Lombok seperti pemilik Malindo Coffee dan Sate Ibu Lilik, bukan UMKM secara nasional. Berita ini belum menyebut berapa banyak UMKM yang kebagian lapak, berapa target penjualan, atau berapa perkiraan jumlah penonton yang datang, sehingga belum bisa dipastikan apakah antusiasme ini benar berbuah kenaikan omzet atau hanya jadi panggung promosi sesaat. Yang perlu dicek setelah acara selesai pada 11 Oktober adalah laporan transaksi atau jumlah pengunjung lapak UMKM dari Pertamina atau pemerintah daerah NTB, karena itu baru menunjukkan apakah hasilnya sepadan dengan harapan para pelaku usaha ini.",
+  "imageV": "mv0zluqi"
  },
  {
   "slug": "bino-lewati-tenggat-refloat-129-juta-saham-belum-ke-publik",
@@ -628,7 +709,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah perluasan hilirisasi nikel dari sekadar mengolah bahan tambang menjadi produk jadi seperti baterai kendaraan listrik, aluminium, dan komponen panel surya, lewat tambahan investasi US$10,2 miliar untuk 11 proyek baru di satu kawasan. Yang paling terdampak adalah Maluku Utara sendiri, karena ekonominya sudah sangat bergantung pada kawasan ini, hampir separuh (48,93 persen) nilai ekonomi daerah berasal dari industri pengolahan nikel, dan lebih dari 100.000 orang bekerja di sana. Ini menunjukkan arah hilirisasi bergeser dari sekadar menjual nikel olahan ke luar negeri menuju produk bernilai tambah lebih tinggi seperti baterai kendaraan listrik. Namun ketergantungan ekonomi daerah yang sebesar itu pada satu kawasan industri juga berarti pertumbuhan tinggi itu rentan jika permintaan nikel global melemah, sehingga yang perlu dicermati adalah apakah pertumbuhan ekonomi Maluku Utara pada kuartal III 2026 masih bertahan tinggi atau mulai melambat.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "airlangga-talenta-digital-kunci-ekonomi-ri-ke-depan",
@@ -656,7 +737,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Tidak ada aturan atau anggaran baru yang diumumkan dalam pidato ini. Isinya adalah kumpulan program yang sudah berjalan: insentif pengurangan pajak hingga 200 persen untuk riset, kerja sama desain chip dengan ARM Holdings, keanggotaan pendiri WAICO, dan target pembangkit surya 100 gigawatt. Yang terdampak langsung adalah pelaku industri semikonduktor dan startup digital yang jadi sasaran insentif, sektor hilirisasi sawit dan mineral yang disebut sebagai andalan ekspor, serta 531 mahasiswa penerima beasiswa UNNES tahun ini. Ada dua kemungkinan arah dari narasi ini, pemerintah benar-benar mengalihkan mesin pertumbuhan dari hilirisasi tambang ke digital dan energi hijau karena laju ekspor mineral mulai melandai setelah melonjak sejak 2016, atau pidato ini sekadar pengulangan narasi ekonomi masa depan tanpa program baru yang mengikat. Itu akan lebih jelas terlihat dari realisasi target PLTS 100 gigawatt dan aturan turunan insentif pajak riset, yang belum punya tenggat pasti dalam siaran ini.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "pgli-gelar-public-expose-usai-bursa-suspensi-sahamnya",

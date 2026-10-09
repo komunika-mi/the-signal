@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "XGxANWaMWY0",
+  "title": "Pegadaian Gandeng Polri Perkuat Pengamanan Aset dan Operasional",
+  "category": "BUMN",
+  "program": "tvOneNews",
+  "summary": "PT Pegadaian menjalin perjanjian kerja sama dengan Polri untuk memperkuat pengamanan aset dan kelancaran operasional perusahaan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut tata kelola risiko dan keamanan operasional BUMN jasa keuangan nonbank.",
+  "terbit": "2026-10-09T11:41:34+00:00"
+ },
+ {
   "id": "jL6tKdLiZ98",
   "title": "Biaya Haji 2027 Disepakati Pemerintah dan DPR",
   "category": "Makroekonomi",

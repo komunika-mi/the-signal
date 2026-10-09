@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "XGxANWaMWY0",
+  "title": "Pegadaian Gandeng Polri Perkuat Pengamanan Aset dan Operasional",
+  "category": "BUMN",
+  "program": "tvOneNews",
+  "summary": "PT Pegadaian menjalin perjanjian kerja sama dengan Polri untuk memperkuat pengamanan aset dan kelancaran operasional perusahaan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut tata kelola risiko dan keamanan operasional BUMN jasa keuangan nonbank."
+ },
+ {
   "id": "jL6tKdLiZ98",
   "title": "Biaya Haji 2027 Disepakati Pemerintah dan DPR",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Pesona Yogyakarta",
   "summary": "Kerajinan berbahan serat alam, mulai dari pelepah pisang hingga serat tumbuhan, menjadi salah satu potensi kriya unggulan yang diolah perajin Kabupaten Bantul.",
   "takeaway": "Menyoroti potensi ekonomi kreatif berbasis kerajinan tangan sebagai sumber penghidupan dan identitas industri daerah."
- },
- {
-  "id": "lAt-fVqHva4",
-  "title": "Transmigrasi Ubah Lahan Tak Produktif Jadi Sentra Pertanian",
-  "category": "Industri",
-  "program": "Kabar Siang",
-  "summary": "Desa Lagading di Kabupaten Sidrap berkembang menjadi kawasan transmigrasi yang produktif setelah warganya mengolah lahan yang sebelumnya tidak produktif menjadi sentra pertanian.",
-  "takeaway": "Kisah ini menunjukkan bagaimana program transmigrasi bisa mendorong produktivitas sektor pertanian dan menggerakkan ekonomi di daerah."
  }
 ];

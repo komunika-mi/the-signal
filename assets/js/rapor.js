@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-09T03:06:01.461+07:00",
+ "diperbarui": "2026-10-10T02:40:31.130+07:00",
  "entri": [
+  {
+   "id": "2026-10-09-3",
+   "edisi": "2026-10-09",
+   "benang": "Pemegang Saham Signifikan Ramai Lepas Porsi",
+   "klaim": "Pelepasan saham oleh pemegang saham signifikan di PPRI, HELI, dan LUCY lebih mungkin merupakan transaksi yang berdiri sendiri-sendiri karena kebutuhan likuiditas masing-masing pihak, bukan sinyal bersama soal melemahnya keyakinan terhadap saham lapis dua.",
+   "penanda": "Apakah pelepasan di emiten yang sama diikuti pihak lain, bukan cuma satu pemegang saham, dan apakah harga sahamnya terus melemah setelah transaksi.",
+   "tenggat": "2026-10-17",
+   "tenggatLabel": "laporan kepemilikan saham BEI pekan 13 sampai 17 Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-09-2",
+   "edisi": "2026-10-09",
+   "benang": "Koreksi Laporan Dana Publik Terus Melebar",
+   "klaim": "Melebarnya koreksi laporan realisasi dana publik ke enam emiten sekaligus (SMLE, SMKM, PACK, CNMA, AVIA, LPPI) menandai penyisiran menyeluruh OJK atas laporan realisasi dana publik, bukan kasus per kasus.",
+   "penanda": "Apakah pekan depan masih bermunculan koreksi laporan realisasi dana publik serupa dari emiten lain, atau mulai mereda.",
+   "tenggat": "2026-10-18",
+   "tenggatLabel": "pekan depan",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-09-1",
+   "edisi": "2026-10-09",
+   "benang": "BUMN Karya: Tekanan Kas Makin Menajam",
+   "klaim": "Tekanan kas tiga BUMN Karya (PTPP, WIKA, WSKT) sudah memburuk, naik satu tingkat dari sekadar koreksi laporan administratif menjadi penurunan rating dan pelepasan kendali anak usaha, dibanding pola hari sebelumnya yang masih bertumpu pada koreksi laporan rutin.",
+   "penanda": "Apakah WIKA menuntaskan pembayaran kupon obligasi serta bagi hasil sukuknya pekan ini tanpa tambahan gagal bayar.",
+   "tenggat": "2026-10-11",
+   "tenggatLabel": "pekan ini",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-08-3",
    "edisi": "2026-10-08",
@@ -1271,7 +1304,7 @@ var RAPOR = {
    "penanda": "Terbukanya akses jalan ke 29 desa yang tertutup longsor",
    "tenggat": "2026-08-24",
    "tenggatLabel": "dalam beberapa hari ke depan",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {

@@ -3,6 +3,162 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tara-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "TARA Jelaskan ke BEI soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "BEI meminta TARA menjelaskan volatilitas transaksi sahamnya; manajemen menyatakan tidak mengetahui ada informasi material atau aktivitas pemegang saham tertentu yang memicunya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:29:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71bebf3ec4_0f32c49e09.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TARA",
+  "tags": [
+   "TARA",
+   "UMA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Agung Semesta Sejahtera Tbk (TARA) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi bernomor S-12834/BEI.PP3/10-2026 tertanggal 8 Oktober 2026 terkait volatilitas transaksi efeknya. Jawaban perusahaan disampaikan lewat surat nomor 002/Dir-TARA/X/2026 tertanggal 9 Oktober 2026, ditandatangani oleh Corporate Secretary TARA, Bitra Wijaya.",
+   "Dalam surat itu, manajemen TARA menyatakan tidak mengetahui adanya informasi atau fakta material apa pun yang bisa memengaruhi nilai atau harga efeknya, baik berdasarkan ketentuan Otoritas Jasa Keuangan soal keterbukaan informasi maupun aturan Bursa Efek Indonesia Nomor I-E. Perusahaan juga mengaku tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "TARA menegaskan belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang bisa berdampak pada status pencatatan sahamnya di bursa, dan akan melaporkan ke OJK serta BEI bila ada transaksi semacam itu sesuai aturan yang berlaku. Perusahaan juga menyebut belum menerima informasi apa pun dari pemegang saham utama mengenai rencana perubahan kepemilikan sahamnya, dan tidak ada fakta material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Exterior view of glass office towers in Jakarta's financial district reflecting afternoon light, light traffic passing below",
+  "takeaway": "Laporan ini netral bagi fundamental TARA, karena isinya cuma penegasan bahwa manajemen tidak tahu penyebab pergerakan harga sahamnya, bukan fakta baru yang mengubah kondisi usaha. Dokumen ini tidak menyentuh pos-pos yang biasa dipantau pelaku pasar seperti modal pemegang saham, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, sebab memang tujuannya cuma mengonfirmasi ada atau tidaknya informasi yang mendasari lonjakan transaksi, dan jawabannya nihil. Permintaan penjelasan dari BEI sendiri biasanya muncul karena harga atau volume transaksi saham bergerak di luar kebiasaan, jadi yang perlu dipantau berikutnya adalah apakah pergerakan harga TARA berlanjut tanpa dasar fundamental yang jelas, serta apakah BEI akan mengeluarkan permintaan penjelasan lanjutan jika volatilitas itu tetap terjadi setelah 9 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdki-proyek-pabrik-ferro-silica-dan-cilegon-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "MDKI: Proyek Pabrik Ferro Silica dan Cilegon [Tertunda]",
+  "deck": "Emdeki Utama (MDKI) melaporkan proyek pabrik ferro silica dan carbide desulphuriser Cilegon masih tertunda, sementara sisa dana IPO Rp62,98 miliar tersimpan di deposito berbunga 4,5 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:13:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcd93b308d_0a2f63c2b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKI",
+  "tags": [
+   "MDKI",
+   "penggunaan dana IPO",
+   "ferro silica",
+   "carbide desulphuriser"
+  ],
+  "body": [
+   "PT Emdeki Utama Tbk (MDKI) menyampaikan laporan realisasi penggunaan dana hasil penawaran umum perdana (IPO) per 30 Juni 2026. Perusahaan mengoreksi laporan sebelumnya yang terbit 15 Juli 2026, namun koreksi itu hanya menambahkan versi bahasa Inggris tanpa mengubah angka. Dari total dana IPO Rp184,35 miliar dengan biaya emisi Rp9,06 miliar, hasil bersih yang diterima perseroan tercatat Rp175,29 miliar. Hingga akhir Juni 2026, dana yang sudah terpakai sebesar Rp112,31 miliar atau 64,07 persen dari hasil bersih, sementara sisanya Rp62,98 miliar atau 35,93 persen masih ditempatkan dalam deposito di Bank BRI berjangka tiga bulan dengan bunga 4,5 persen kepada pihak ketiga.",
+   "Rincian lima rencana penggunaan dana menunjukkan progres yang timpang. Pembangunan pabrik ferro silica yang semula dianggarkan Rp29,67 miliar (16,93 persen dari dana) baru terealisasi Rp5,19 miliar (2,96 persen). Pembangunan pabrik carbide desulphuriser di Cilegon yang dianggarkan Rp38,50 miliar (21,96 persen) belum terealisasi sama sekali alias nol rupiah. Sebaliknya, tiga pos lain sudah terpakai penuh sesuai rencana: pabrik carbide desulphuriser di Gresik Rp9,89 miliar (5,64 persen), modal kerja produksi kalsium karbida Rp22,23 miliar (12,68 persen), dan modal disetor untuk anak usaha PT Emde Plast Utama Rp74,99 miliar (42,79 persen).",
+   "Dokumen lampiran berupa surat dan laporan progres yang ditandatangani Direktur Vincent Secapramana menjelaskan alasan dua proyek itu mandek. Berdasarkan keputusan Rapat Umum Pemegang Saham Tahunan (RUPST) 2 Juni 2026, pembangunan pabrik carbide desulphuriser tahap II di Cilegon tetap ditunda sambil menunggu perkembangan positif industri baja di kawasan tersebut. Proyek pabrik ferro silica juga ditunda karena perseroan menilai risikonya tinggi: biaya investasi ternyata lebih mahal dari alokasi awal, sementara biaya produksi yang bergantung pada bahan baku impor dan energi dinilai tidak sebanding dengan harga jual produk ferro silica yang rendah. Sementara itu, pabrik carbide desulphuriser di Gresik dilaporkan sudah rampung 100 persen dan beroperasi normal. Laporan penggunaan dana ini ditandatangani secara elektronik oleh Direktur Yudi Cahyono."
+  ],
+  "fotoAdegan": "A half-built industrial steel frame structure standing idle on a cleared industrial estate lot, overcast afternoon, Indonesia",
+  "takeaway": "Penilaian saya netral dengan nada hati-hati: yang berubah dari laporan ini cuma versi bahasa, tapi isinya memperlihatkan dua rencana belanja modal besar, yakni pabrik ferro silica dan carbide desulphuriser Cilegon, masih mandek sembilan tahun setelah IPO, sementara dana justru diparkir di deposito berbunga rendah ketimbang dibelanjakan. Ini menyentuh pos belanja modal dan arus kas perusahaan, karena dana hasil penawaran umum yang dijanjikan untuk membangun kapasitas produksi baru malah tertahan di instrumen jangka pendek, sesuatu yang diperhatikan pasar sebagai ukuran seberapa cepat manajemen benar-benar mengeksekusi rencana ekspansi yang dijual ke investor saat IPO. Di sisi lain, penundaan ini juga bisa dibaca sebagai langkah berhati-hati karena perseroan sendiri menilai biaya produksi ferro silica tidak sepadan dengan harga jualnya, sehingga menahan dana lebih baik daripada memaksakan proyek yang berisiko rugi. Yang perlu dipantau berikutnya adalah perkembangan industri baja di Cilegon yang jadi syarat pencairan proyek desulphuriser tahap II, serta laporan realisasi dana periode berikutnya untuk melihat apakah sisa dana Rp62,98 miliar itu akhirnya mulai terpakai atau tetap mengendap di deposito.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "avia-koreksi-realisasi-dana-ipo-rp136-76-m-tertahan-di-cirebon",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Koreksi Realisasi Dana IPO, Rp136,76 M [Tertahan] di Cirebon",
+  "deck": "Avia Avian merevisi laporan realisasi dana IPO per Juni 2026: belanja modal meleset dari target, sisa Rp136,76 miliar menunggu penyelesaian pabrik baru di Cirebon, target medio 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:10:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3c268c1dc5_d4906ad176.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "Avia Avian",
+   "penggunaan dana IPO",
+   "capex"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum perdana saham per 30 Juni 2026, merevisi surat sebelumnya nomor 073/AA/CORSEC/VII/2026 tertanggal 13 Juli 2026. Surat koreksi bernomor 099/AA/CORSEC/X/2026 ini diteken Direktur Kurnia Hadi Sinanto pada 9 Oktober 2026. Dari total dana IPO Rp5,766 triliun yang diperoleh saat pencatatan saham pada 30 November 2021, setelah dipotong biaya penawaran umum Rp119,36 miliar, hasil bersih yang bisa dipakai perusahaan adalah Rp5,646 triliun.",
+   "Rincian realisasi yang direvisi menunjukkan belanja modal PT Avia Avian Tbk hanya terpakai Rp565,38 miliar atau 10,01 persen dari total dana, lebih rendah dari rencana awal Rp702,14 miliar atau 12,43 persen. Pos lain tidak berubah: modal kerja AVIA Rp2,979 triliun (52,77 persen), pelunasan pokok utang bank AVIA Rp550 miliar (9,74 persen), modal kerja anak usaha PT Tirtakencana Tatawarna Rp950 miliar (16,82 persen), belanja modal Tirtakencana Rp85 miliar (1,51 persen), dan pelunasan pokok utang bank Tirtakencana Rp380 miliar (6,73 persen). Total dana yang sudah terpakai sampai 30 Juni 2026 mencapai Rp5,509 triliun, menyisakan Rp136,76 miliar yang belum terserap.",
+   "Sisa dana itu kini disimpan di tiga rekening giro bank, yakni Rp2,99 miliar di Bank Mandiri, Rp133,62 miliar di UOB, dan Rp152,39 juta di BCA, semuanya dengan bunga 0 persen. Menurut dokumen ini, dana yang belum terpakai tersebut menunggu penyelesaian pembangunan pabrik baru perusahaan di Cirebon, dengan target rampung akhir Juni 2027."
+  ],
+  "fotoAdegan": "Construction site of an industrial factory building under a crane, workers in hard hats near steel framework, overcast sky in Indonesia",
+  "takeaway": "Laporan koreksi ini netral bagi AVIA, karena dana IPO yang sudah terserap sampai akhir Juni 2026 tetap di kisaran 97,6 persen dari total hasil bersih Rp5,65 triliun, dan revisi ini hanya memperbarui angka belanja modal yang benar-benar terealisasi, bukan memindahkan dana ke pos baru. Yang tersentuh adalah arus kas perusahaan: sisa Rp136,76 miliar yang belum terpakai mengendap di rekening giro tiga bank dengan bunga 0 persen, artinya dana itu untuk sementara tidak menghasilkan apa pun selagi menunggu proyek selesai, bukan soal ekuitas atau jumlah saham yang berubah. Yang perlu dipantau adalah penyelesaian pembangunan pabrik baru di Cirebon yang menjadi alasan dana ini masih mengendap, dengan target rampung akhir Juni 2027 menurut dokumen ini, karena baru setelah itu sisa dana IPO akan benar-benar terserap habis.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ammn-jadwalkan-rupslb-17-november-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "AMMN Jadwalkan RUPSLB 17 November, [Agenda] Menyusul",
+  "deck": "Amman Mineral Internasional menjadwalkan RUPSLB pada 17 November 2026, dengan tanggal pencatatan pemegang saham 23 Oktober 2026 dan agenda baru diumumkan 26 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:10:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c449df23cf_a96f64574e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMMN",
+  "tags": [
+   "AMMN",
+   "RUPSLB",
+   "Amman Mineral Internasional",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Amman Mineral Internasional Tbk (AMMN) menyampaikan pemberitahuan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 17 November 2026 pukul 10.30 WIB. Rapat diselenggarakan secara elektronik melalui sistem yang disediakan PT Kustodian Sentral Efek Indonesia (KSEI) lewat platform eASY.KSEI. Pemberitahuan ini ditandatangani Corporate Secretary Vemmy Febrianti dan tertanggal 9 Oktober 2026.",
+   "Perseroan menetapkan 23 Oktober 2026 sebagai tanggal pencatatan atau recording date. Pemegang saham yang berhak hadir, diwakili, dan memberi suara dalam RUPSLB adalah yang namanya tercatat dalam Daftar Pemegang Saham per tanggal tersebut, atau pemilik saham yang tercatat di sub-rekening efek KSEI pada penutupan perdagangan di Bursa Efek Indonesia pada tanggal yang sama. Mata acara RUPSLB sendiri belum diungkapkan dalam pemberitahuan ini, dan baru akan diumumkan bersama surat pemanggilan resmi pada 26 Oktober 2026 di situs web BEI, situs web perseroan, dan situs web eASY.KSEI.",
+   "Perseroan membuka ruang bagi pemegang saham untuk mengusulkan mata acara tambahan. Usulan harus diajukan tertulis kepada Direksi oleh satu atau lebih pemegang saham yang bersama-sama mewakili paling sedikit 1/20 dari total saham berhak suara, dan sudah harus diterima Direksi paling lambat 7 hari kalender sebelum tanggal pemanggilan RUPSLB, yang berarti sebelum 26 Oktober 2026. Usulan juga wajib diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, berupa agenda yang memang membutuhkan keputusan RUPSLB, serta disertai alasan dan bahan pendukung."
+  ],
+  "fotoAdegan": "Wide daylight shot of a large open-pit copper and gold mine with haul trucks and excavators moving along terraced slopes",
+  "takeaway": "Pemberitahuan ini netral bagi fundamental Amman Mineral, karena isinya baru memastikan jadwal rapat tanpa menyebut satu pun agenda atau keputusan yang akan diambil. Pos kinerja seperti ekuitas, arus kas, jumlah saham beredar, atau laba per saham belum tersentuh di tahap ini, sebab dampaknya baru akan jelas kalau nanti ada keputusan RUPSLB yang mengubah struktur modal, kebijakan dividen, atau pendanaan perusahaan. Yang perlu diperhatikan pemegang saham, hak hadir dan hak suara dalam rapat ini ditentukan oleh posisi kepemilikan saham per 23 Oktober 2026, sehingga pembelian saham sesudah tanggal itu tidak otomatis memberi hak suara di rapat ini. Yang harus dipantau berikutnya adalah pengumuman resmi mata acara RUPSLB pada 26 Oktober 2026, karena baru saat itu publik akan tahu apa yang sebenarnya hendak diputuskan dalam rapat 17 November tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "koci-habiskan-dana-rp6-99-miliar-dari-konversi-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "KOCI Habiskan Dana Rp6,99 Miliar dari Konversi [Waran] Seri I",
+  "deck": "PT Kokoh Exa Nusantara melaporkan ke OJK bahwa seluruh Rp6,99 miliar dana dari konversi Waran Seri I sudah terpakai untuk modal kerja dan pembangunan proyek.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T15:07:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8b0f600d24_fed506f7d6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOCI",
+  "tags": [
+   "KOCI",
+   "waran",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Kokoh Exa Nusantara Tbk (KOCI) menyampaikan laporan realisasi penggunaan dana hasil pelaksanaan Waran Seri I per 30 Juni 2026 kepada OJK, sesuai kewajiban POJK No.40/2025. Dari total 450.000.000 Waran Seri I (KOCI-W) yang diterbitkan pada 6 Oktober 2023 dengan harga pelaksanaan Rp135 per saham, sebanyak 51.834.160 waran telah dikonversi menjadi saham, menghasilkan dana Rp6.997.611.600. Sisanya, 398.165.840 waran, belum dikonversi pemegangnya.",
+   "Seluruh dana hasil konversi tersebut sudah dipakai, sama persis dengan rencana yang tertulis di prospektus, yakni Rp620.402.140 untuk modal kerja pekerjaan cut and fill dan Rp6.377.209.460 untuk biaya pembangunan proyek, dengan total Rp6.997.611.600. Sisa dana hasil konversi tercatat nihil, artinya tidak ada dana yang mengendap atau dialihkan ke pos di luar rencana awal.",
+   "Laporan bernomor 008/KEN-LGL/X/2026 ini ditandatangani oleh Kan Eddy selaku Direktur Utama dan dikirimkan oleh Cindy Lievia, Manager Operasional perusahaan, pada 9 Oktober 2026."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete foundations at a suburban housing development site, stacks of rebar and bricks nearby, midday light",
+  "takeaway": "Laporan ini netral bagi fundamental Kokoh Exa Nusantara, karena dana dari konversi Waran Seri I sepenuhnya terpakai sesuai rencana di prospektus, tanpa sisa dan tanpa penyimpangan ke pos lain. Yang tersentuh adalah jumlah saham beredar, sebab konversi 51,8 juta waran menjadi saham baru menambah jumlah saham di pasar, sehingga laba per saham perusahaan bisa terdilusi kalau pertumbuhan labanya tidak secepat pertambahan jumlah sahamnya. Sisi baiknya, seluruh Rp6,99 miliar yang terkumpul benar-benar dipakai untuk modal kerja dan pembangunan proyek seperti yang dijanjikan ke investor saat penerbitan waran, bukan dialihkan ke pos lain. Yang perlu dipantau berikutnya adalah nasib 398.165.840 waran yang belum dikonversi, karena setiap kali pemegangnya menukar waran jadi saham baru, jumlah saham beredar KOCI akan terus bertambah sampai masa berlaku pelaksanaan waran itu habis.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "saham-sots-turun-2-38-saat-volume-transaksi-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "Saham SOTS Turun 2,38% Saat Volume Transaksi [Melonjak]",
+  "deck": "BEI minta penjelasan setelah saham Satria Mega Kencana ditutup turun ke Rp615 pada 6 Oktober 2026, dengan volume dan frekuensi transaksi naik tajam dari hari sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T14:26:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/83aa5093a5_3d76890b17.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOTS",
+  "tags": [
+   "SOTS",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Satria Mega Kencana Tbk (SOTS) memberikan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima permintaan penjelasan bernomor S-12831/BEI.PP3/10-2026 tanggal 8 Oktober 2026 terkait volatilitas transaksi sahamnya. Menurut surat BEI, pada 6 Oktober 2026 aktivitas transaksi saham SOTS melonjak menjadi 4.518.600 saham dengan frekuensi 2.154 kali, dibandingkan hari bursa sebelumnya yang hanya 1.771.500 saham dengan frekuensi 629 kali. Di saat volume naik lebih dari dua kali lipat itu, harga saham justru ditutup melemah Rp15 atau 2,38 persen, dari Rp630 menjadi Rp615.",
+   "Dalam surat tanggapan bernomor 327/SMK-OJK/X/2026 yang diteken Direktur Floreta Tane pada 9 Oktober 2026, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa mempengaruhi nilai efek maupun keputusan investasi pemodal, sesuai aturan POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dan menegaskan belum ada keputusan maupun jadwal tindakan korporasi dalam tiga bulan mendatang yang berdampak pada pencatatan sahamnya di bursa.",
+   "Meski begitu, manajemen mengakui bahwa pihaknya terus mengevaluasi berbagai alternatif pendanaan dan pengembangan usaha, tanpa menyebut bentuk atau waktu pelaksanaannya karena belum ada keputusan definitif. Perseroan juga menyampaikan bahwa pemegang saham utama, sesuai konfirmasi yang diminta kepada Corporate Secretary, belum memiliki rencana melepas atau menjual sahamnya kepada pihak lain maupun publik hingga tanggal surat ini diterbitkan."
+  ],
+  "fotoAdegan": "Exterior view of a modern office tower in Jakarta's financial district at dusk, lights turning on in windows, light traffic below.",
+  "takeaway": "Catatan ini netral: surat tanggapan hanya membantah adanya informasi non-publik di balik lonjakan transaksi, tanpa membawa angka keuangan baru yang mengubah gambaran fundamental SOTS. Yang pantas dicermati justru pola transaksinya sendiri, karena frekuensi jual beli yang naik lebih dari tiga kali lipat dalam sehari biasanya memicu kecurigaan ada pihak yang bergerak lebih dulu sebelum kabar resmi keluar, sehingga permintaan penjelasan dari bursa semacam ini berfungsi sebagai pengecekan rutin agar pemodal tidak dirugikan oleh ketimpangan informasi. Manajemen juga menyebut sedang menimbang sejumlah alternatif pendanaan dan pengembangan usaha tanpa kepastian bentuk maupun waktu, jadi belum ada keputusan konkret yang dampaknya bisa dihitung terhadap pemegang saham. Yang perlu dipantau dalam tiga bulan ke depan, sesuai batas waktu yang disebut Perseroan sendiri dalam surat ini, adalah apakah evaluasi pendanaan itu berujung pada tindakan korporasi nyata seperti penambahan modal, karena baru pada titik itu dampaknya terhadap jumlah saham beredar bisa dinilai.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "trin-komisaris-utama-mundur-keputusan-final-di-rupslb",
   "category": "Aksi Korporasi",
   "title": "TRIN: Komisaris Utama [Mundur], Keputusan Final di RUPSLB",

@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tara-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "TARA Jelaskan ke BEI soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "BEI meminta TARA menjelaskan volatilitas transaksi sahamnya; manajemen menyatakan tidak mengetahui ada informasi material atau aktivitas pemegang saham tertentu yang memicunya.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TARA",
+   "UMA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71bebf3ec4_0f32c49e09.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdki-proyek-pabrik-ferro-silica-dan-cilegon-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "MDKI: Proyek Pabrik Ferro Silica dan Cilegon [Tertunda]",
+  "deck": "Emdeki Utama (MDKI) melaporkan proyek pabrik ferro silica dan carbide desulphuriser Cilegon masih tertunda, sementara sisa dana IPO Rp62,98 miliar tersimpan di deposito berbunga 4,5 persen.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKI",
+   "penggunaan dana IPO",
+   "ferro silica",
+   "carbide desulphuriser"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcd93b308d_0a2f63c2b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "avia-koreksi-realisasi-dana-ipo-rp136-76-m-tertahan-di-cirebon",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Koreksi Realisasi Dana IPO, Rp136,76 M [Tertahan] di Cirebon",
+  "deck": "Avia Avian merevisi laporan realisasi dana IPO per Juni 2026: belanja modal meleset dari target, sisa Rp136,76 miliar menunggu penyelesaian pabrik baru di Cirebon, target medio 2027.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "Avia Avian",
+   "penggunaan dana IPO",
+   "capex"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3c268c1dc5_d4906ad176.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ammn-jadwalkan-rupslb-17-november-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "AMMN Jadwalkan RUPSLB 17 November, [Agenda] Menyusul",
+  "deck": "Amman Mineral Internasional menjadwalkan RUPSLB pada 17 November 2026, dengan tanggal pencatatan pemegang saham 23 Oktober 2026 dan agenda baru diumumkan 26 Oktober 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMMN",
+   "RUPSLB",
+   "Amman Mineral Internasional",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c449df23cf_a96f64574e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "koci-habiskan-dana-rp6-99-miliar-dari-konversi-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "KOCI Habiskan Dana Rp6,99 Miliar dari Konversi [Waran] Seri I",
+  "deck": "PT Kokoh Exa Nusantara melaporkan ke OJK bahwa seluruh Rp6,99 miliar dana dari konversi Waran Seri I sudah terpakai untuk modal kerja dan pembangunan proyek.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOCI",
+   "waran",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8b0f600d24_fed506f7d6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-sots-turun-2-38-saat-volume-transaksi-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "Saham SOTS Turun 2,38% Saat Volume Transaksi [Melonjak]",
+  "deck": "BEI minta penjelasan setelah saham Satria Mega Kencana ditutup turun ke Rp615 pada 6 Oktober 2026, dengan volume dan frekuensi transaksi naik tajam dari hari sebelumnya.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOTS",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/83aa5093a5_3d76890b17.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "trin-komisaris-utama-mundur-keputusan-final-di-rupslb",
   "category": "Aksi Korporasi",
   "title": "TRIN: Komisaris Utama [Mundur], Keputusan Final di RUPSLB",
@@ -6383,106 +6479,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hilirisasi-dan-transisi-energi-dikoordinasikan-satu-pintu-bahlil-dilantik-sebagai-menko",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "surplus-dagang-ri-melesat-ke-us-3-55-miliar-pada-agustus",
-  "category": "Makroekonomi",
-  "title": "Surplus Dagang RI [Melesat] ke US$3,55 Miliar pada Agustus",
-  "deck": "Neraca perdagangan Indonesia Agustus 2026 surplus US$3,55 miliar, naik tajam dari US$0,12 miliar pada Juli, didorong lonjakan ekspor nonmigas dan penyusutan defisit migas.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/surplus-dagang-ri-melesat-ke-us-3-55-miliar-pada-agustus.jpg",
-  "imageV": "mupsrv2s",
-  "tags": [
-   "neraca perdagangan",
-   "ekspor nonmigas",
-   "Bank Indonesia",
-   "nikel"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820826.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "inflasi-september-terkendali-harga-pangan-mulai-menanjak",
-  "category": "Makroekonomi",
-  "title": "Inflasi September Terkendali, Harga [Pangan] Mulai Menanjak",
-  "deck": "Inflasi tahunan September 2026 tercatat 3,28 persen, masih dalam target Bank Indonesia, tapi harga cabai, ayam, dan telur naik tajam akibat gangguan cuaca.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/inflasi-september-terkendali-harga-pangan-mulai-menanjak.jpg",
-  "imageV": "mupsrwl7",
-  "tags": [
-   "Inflasi",
-   "Bank Indonesia",
-   "Harga Pangan",
-   "BPS"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820926.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "aali-siapkan-buyback-rp400-miliar-di-pasar-bergejolak",
-  "category": "Aksi Korporasi",
-  "title": "AALI Siapkan Buyback [Rp400 Miliar] di Pasar Bergejolak",
-  "deck": "AALI berencana membeli kembali saham senilai maksimal Rp400 miliar hingga 28 Desember 2026, memakai dana internal di bawah payung aturan OJK untuk pasar bergejolak.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AALI",
-   "buyback saham",
-   "Astra Agro Lestari",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4625450f9b_add7b60429.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-komisaris-utama-dan-direktur-mundur-rupslb-21-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIFI: Komisaris Utama dan Direktur [Mundur], RUPSLB 21 Oktober",
-  "deck": "Hashim S. Djojohadikusumo mundur dari Komisaris Utama dan Henny Santoso dari Direktur WIFI, keputusan menunggu RUPSLB 21 Oktober 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "RUPSLB",
-   "pengunduran diri",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae9147b0f1_27a0474b22.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-salurkan-lpg-ke-958-koperasi-desa-merah-putih",
-  "category": "Energi",
-  "title": "Pertamina Salurkan LPG ke [958] Koperasi Desa Merah Putih",
-  "deck": "Pertamina Patra Niaga mencatat telah mendukung 958 Koperasi Desa/Kelurahan Merah Putih dengan distribusi LPG 3 kilogram hingga akhir September 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/pertamina-salurkan-lpg-ke-958-koperasi-desa-merah-putih.jpg",
-  "imageV": "mupsrx1n",
-  "tags": [
-   "pertamina",
-   "lpg",
-   "koperasi desa merah putih",
-   "energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470701-pertamina-patra-niaga-dukung-program-koperasi-desakelurahan-merah-putih-melalui-penyaluran-lpg"
- },
- {
-  "slug": "harga-acuan-cpo-dan-kakao-naik-oktober-getah-pinus-turun",
-  "category": "Bisnis",
-  "title": "Harga Acuan CPO dan Kakao [Naik] Oktober, Getah Pinus Turun",
-  "deck": "Kementerian Perdagangan menetapkan harga referensi dan patokan ekspor Oktober 2026: CPO dan biji kakao naik, getah pinus turun, kulit tetap, kayu olahan bervariasi.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/negosiasi-dagang-meja.jpg",
-  "tags": [
-   "CPO",
-   "kakao",
-   "bea keluar",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hr-cpo-dan-hpe-biji-kakao-naik-hpe-getah-pinus-turun-hpe-produk-kulit-tetap-hpe-produk-kayu-bervariasi-pada-oktober-2026",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

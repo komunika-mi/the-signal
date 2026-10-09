@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "trin-komisaris-utama-mundur-keputusan-final-di-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "TRIN: Komisaris Utama [Mundur], Keputusan Final di RUPSLB",
+  "deck": "Rahayu Saraswati D. Djojohadikusumo mengundurkan diri sebagai Komisaris Utama TRIN per 7 Oktober 2026, menunggu persetujuan RUPSLB.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIN",
+   "komisaris utama",
+   "pengunduran diri",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/460821ac28_275111e10f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lopi-panggil-rupslb-ketiga-bahas-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "LOPI Panggil RUPSLB Ketiga Bahas [PMTHMETD]",
+  "deck": "Setelah dua kali gagal kuorum, LOPI menggelar RUPSLB ketiga pada 19 Oktober 2026 untuk meminta persetujuan penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LOPI",
+   "RUPSLB",
+   "PMTHMETD",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/555fa206f8_27c84096e5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "11-proyek-hilirisasi-nikel-senilai-rp180-triliun-diluncurkan-di-iwip",
   "category": "Industri",
   "title": "11 Proyek Hilirisasi Nikel Senilai [Rp180] Triliun Diluncurkan di IWIP",
@@ -6452,38 +6484,5 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820726.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "livin-by-mandiri-5-tahun-sbn-kini-jadi-agunan-kredit",
-  "category": "Perbankan",
-  "title": "Livin' by Mandiri 5 Tahun, SBN Kini Jadi [Agunan] Kredit",
-  "deck": "Lima tahun beroperasi, pengguna Livin' by Mandiri tembus 42,1 juta dan surat utang negara milik nasabah kini bisa dijadikan jaminan kredit.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/livin-by-mandiri-5-tahun-sbn-kini-jadi-agunan-kredit.jpg",
-  "imageV": "mupnb72n",
-  "tags": [
-   "bank mandiri",
-   "livin by mandiri",
-   "surat utang negara",
-   "kredit digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470696-lima-tahun-berinovasi-livin-by-mandiri-hadirkan-solusi-investasi-dan-pembiayaan-fleksibel-untuk-tujuan-finansial-nasabah"
- },
- {
-  "slug": "ppgl-panggil-rupslb-23-oktober-bahas-saham-bonus-dan-modal",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Panggil RUPSLB 23 Oktober, Bahas [Saham Bonus] dan Modal",
-  "deck": "PPGL mengundang RUPSLB dan RUPS Independen pada 23 Oktober 2026 untuk membahas saham bonus, penambahan modal dasar, dan rencana modal baru hingga 10% tanpa hak memesan efek terlebih dahulu.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "RUPSLB",
-   "saham bonus",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c0c59961ae_e7ae1edefa.pdf",
-  "sourceLabel": "IDX"
  }
 ];

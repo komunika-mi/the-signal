@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "trin-komisaris-utama-mundur-keputusan-final-di-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "TRIN: Komisaris Utama [Mundur], Keputusan Final di RUPSLB",
+  "deck": "Rahayu Saraswati D. Djojohadikusumo mengundurkan diri sebagai Komisaris Utama TRIN per 7 Oktober 2026, menunggu persetujuan RUPSLB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T13:41:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/460821ac28_275111e10f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIN",
+  "tags": [
+   "TRIN",
+   "komisaris utama",
+   "pengunduran diri",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Perintis Triniti Properti Tbk (TRIN) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa pada 7 Oktober 2026 perseroan menerima surat pengunduran diri Rahayu Saraswati D. Djojohadikusumo dari jabatan Komisaris Utama. Sesuai Pasal 27 POJK No. 33/POJK.04/2014 dan anggaran dasar perseroan, pengunduran diri itu baru akan diputuskan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), yang waktunya mengacu pada jangka waktu yang diatur peraturan dan anggaran dasar perseroan dan belum disebutkan tanggal pastinya dalam laporan ini.",
+   "Sampai RUPSLB menyetujui dan pengunduran diri itu berlaku efektif, Rahayu Saraswati tetap menjalankan tugas dan tanggung jawabnya sebagai Komisaris Utama serta disebut berkomitmen mendukung proses transisi. Setelah berlaku efektif, ia tidak lagi menjabat di jajaran pengurus perseroan, namun perseroan menegaskan ia tetap menjadi pemegang saham TRIN, baik langsung maupun tidak langsung, dan akan terus berkontribusi dalam kapasitasnya sebagai pemegang saham.",
+   "Perseroan menyatakan pengunduran diri ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha saat ini. Hasil RUPSLB nantinya akan disampaikan kepada OJK dan publik paling lambat dua hari kerja setelah rapat digelar. Surat keterbukaan informasi ini ditandatangani oleh Direktur Utama TRIN, Ishak Chandra, dan disampaikan melalui Corporate Secretary Citra Chandrika G. Putri."
+  ],
+  "fotoAdegan": "Empty modern boardroom table with leather chairs and glass windows overlooking a city skyline, soft afternoon light",
+  "takeaway": "Catatan redaksi: laporan ini condong netral bagi TRIN karena pengunduran diri Komisaris Utama tidak mengubah struktur kepemilikan atau permodalan perseroan, dan Rahayu Saraswati dikonfirmasi tetap menjadi pemegang saham TRIN meski tidak lagi menjabat di jajaran pengurus. Perubahan di kursi komisaris memang tidak langsung menggerakkan pos-pos seperti ekuitas, arus kas, atau laba per saham, tetapi pelaku pasar tetap memperhatikannya karena komisaris adalah organ pengawas yang menjaga arah strategis dan tata kelola perusahaan, sehingga pergantian di posisi itu bisa memengaruhi persepsi soal kesinambungan pengawasan. Yang perlu dipantau selanjutnya adalah jadwal RUPSLB yang akan mengesahkan pengunduran diri ini, sebab perseroan baru wajib mengumumkan hasilnya ke OJK dan publik paling lambat dua hari kerja setelah rapat itu digelar, sehingga tanggal pastinya belum bisa dipastikan dari dokumen ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lopi-panggil-rupslb-ketiga-bahas-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "LOPI Panggil RUPSLB Ketiga Bahas [PMTHMETD]",
+  "deck": "Setelah dua kali gagal kuorum, LOPI menggelar RUPSLB ketiga pada 19 Oktober 2026 untuk meminta persetujuan penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T13:16:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/555fa206f8_27c84096e5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LOPI",
+  "tags": [
+   "LOPI",
+   "RUPSLB",
+   "PMTHMETD",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Logisticsplus International Tbk (LOPI) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) ketiga pada Senin, 19 Oktober 2026 pukul 10.00 WIB di SAV Building, Jl Kavling Polri No 20, Jagakarsa, Jakarta Selatan, serta secara elektronik melalui fasilitas eASY KSEI. Agenda tunggal rapat ini adalah persetujuan rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), sesuai POJK No 14/POJK.04/2019 yang mengubah POJK No 32/POJK.04/2015.",
+   "Ini merupakan upaya ketiga perseroan menggelar rapat untuk agenda yang sama. RUPSLB pertama pada Selasa, 2 Juni 2026, dan RUPSLB kedua pada Jumat, 19 Juni 2026, keduanya gagal mencapai kuorum kehadiran yang disyaratkan. Pemegang saham yang berhak hadir atau diwakili di rapat ketiga ini adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 8 Oktober 2026 pukul 16.00 WIB, baik yang sahamnya berada di luar maupun di dalam penitipan kolektif KSEI. Perseroan menegaskan pengumuman ini sekaligus berlaku sebagai undangan resmi, tanpa surat undangan terpisah.",
+   "Untuk kelancaran rapat, pemegang saham yang sahamnya tercatat di KSEI diimbau memberi kuasa secara elektronik melalui eASY KSEI di akses.ksei.co.id kepada petugas dari biro administrasi efek, PT Adimitra Jasa Korpora. Bagi yang ingin hadir di luar mekanisme itu, surat kuasa dapat diunduh dari situs web perseroan. Pemegang saham atau kuasanya wajib membawa KTP atau identitas lain, sementara pemegang saham berbentuk badan hukum harus membawa salinan anggaran dasar dan susunan pengurus terakhir. Anggota direksi, komisaris, dan karyawan perseroan dilarang menjadi kuasa pemegang saham dalam rapat ini. Surat ditandatangani Direktur Utama LOPI, Wahyu Dwi Jatmiko."
+  ],
+  "fotoAdegan": "Interior of a logistics warehouse with stacked cargo pallets and forklifts moving boxes under bright industrial lighting, Jakarta",
+  "takeaway": "Laporan ini saya nilai netral karena dokumennya baru memuat agenda persetujuan, belum menyebut berapa saham baru yang akan diterbitkan, harga pelaksanaannya, atau siapa yang akan menyerapnya, sehingga besar dampaknya belum bisa diukur. Yang justru patut dicatat adalah rapat ini sudah dua kali gagal kuorum, tanda lemahnya partisipasi pemegang saham untuk agenda yang menyangkut hak mereka sendiri. PMTHMETD berarti penambahan saham baru tanpa memberi kesempatan pertama kepada pemegang saham lama untuk membeli lebih dulu, jadi kalau mereka tidak ikut serta, porsi kepemilikan dan laba per saham yang jadi hak mereka bisa mengecil karena jumlah saham beredar bertambah tanpa laba perusahaan otomatis naik sebanding. Yang perlu dipantau berikutnya adalah apakah RUPSLB ketiga pada 19 Oktober 2026 akhirnya mencapai kuorum, dan jika disetujui, rincian jumlah serta harga saham baru yang biasanya diumumkan setelah rapat.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "11-proyek-hilirisasi-nikel-senilai-rp180-triliun-diluncurkan-di-iwip",
   "category": "Industri",
   "title": "11 Proyek Hilirisasi Nikel Senilai [Rp180] Triliun Diluncurkan di IWIP",

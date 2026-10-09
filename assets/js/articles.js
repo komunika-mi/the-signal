@@ -55,6 +55,33 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "pertamina-luncurkan-pemandu-wisata-digital-jelang-gp-mandalika",
+  "category": "BUMN",
+  "title": "Pertamina Luncurkan [Pemandu] Wisata Digital Jelang GP Mandalika",
+  "deck": "Pertamina luncurkan kampanye MyPertamina Your Journey Partner untuk memandu wisatawan menjelajahi Lombok selama Grand Prix Mandalika 2026.",
+  "image": "assets/img/pertamina-luncurkan-pemandu-wisata-digital-jelang-gp-mandalika.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T21:48:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472125-bikin-liburan-grand-prix-2026-anti-bosan-pertamina-rilis-panduan-khusus-yang-wajib-dicoba-wisatawan",
+  "tags": [
+   "pertamina",
+   "grand prix mandalika",
+   "umkm",
+   "ntb"
+  ],
+  "body": [
+   "Menjelang gelaran balap internasional Pertamina Grand Prix of Indonesia 2026 yang berlangsung 9 hingga 11 Oktober di Sirkuit Mandalika, Lombok, Nusa Tenggara Barat, PT Pertamina Patra Niaga meluncurkan kampanye bertajuk MyPertamina Your Journey Partner. Program ini dibuat sebagai pemandu perjalanan bagi penonton dan wisatawan yang datang ke Lombok selama ajang balap berlangsung.",
+   "Lewat kampanye ini, pengunjung mendapat rekomendasi tempat wisata, kuliner, dan titik menarik lain, mulai dari kawasan Mataram dan Senggigi, area Bandara Internasional Lombok, sampai sekitar Kuta Mandalika. VP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, mengatakan kampanye ini dirancang agar masyarakat yang menonton balapan juga bisa mengenal potensi wisata, kuliner, dan UMKM di Lombok, sehingga pengalaman mereka selama di sana jadi lebih lengkap.",
+   "Di area sirkuit, Pertamina Patra Niaga juga menyediakan sejumlah fasilitas seperti gerai Bright Store, booth MyPertamina, lokasi penjualan pernak-pernik resmi, dan bazar yang diisi UMKM mitra binaan Pertamina. Kitty menambahkan, pihaknya berharap pengunjung tidak hanya menyaksikan balapan tetapi juga memanfaatkan momen ini untuk menjelajahi Lombok dan membeli produk UMKM setempat.",
+   "Untuk mengakses panduan wisata MyPertamina Your Journey Partner, pengunjung cukup memindai kode QR yang tersedia di berbagai materi promosi kampanye selama berada di Lombok."
+  ],
+  "fotoAdegan": "Food and craft vendors arranging stalls under open tents near a motorsport circuit entrance, tropical afternoon light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac8fdce5b5c0-bikin-liburan-grand-prix-2026-anti-bosan-pertamina-rilis-panduan-khusus-yang-wajib-dicoba-wisatawan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah Pertamina menyediakan pemandu wisata digital lewat kode QR, agar penonton yang datang ke balapan Mandalika juga diarahkan ke tempat wisata, kuliner, dan stan UMKM di sekitar sirkuit dan Lombok. Yang kena dampak langsung adalah pelaku UMKM mitra binaan Pertamina yang mendapat tempat bazar di area sirkuit, serta wisatawan yang jadi punya panduan selama di Lombok. Berita ini belum menyebut berapa UMKM yang ikut, berapa nilai transaksi yang ditargetkan, atau berapa jumlah penonton yang diperkirakan datang, sehingga belum bisa dibaca seberapa besar dampak ekonominya ke pedagang lokal. Yang perlu dipantau adalah laporan Pertamina atau pemerintah daerah NTB setelah ajang ini selesai pada 11 Oktober, soal angka transaksi UMKM dan jumlah wisatawan yang tercatat, karena itu baru akan menunjukkan apakah kampanye promosi semacam ini benar menggerakkan ekonomi warga sekitar sirkuit.",
+  "imageV": "mv156p01"
+ },
+ {
   "slug": "smle-realisasi-dana-ipo-62-gudang-dan-lab-molor",
   "category": "Aksi Korporasi",
   "title": "SMLE Realisasi Dana IPO 62%, Gudang dan Lab [Molor]",
@@ -368,6 +395,33 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang konkret di balik ajakan soal waralaba ini adalah data business matching Kemendag, yaitu pertemuan yang mempertemukan pelaku usaha dengan calon pembeli dari luar negeri lewat perwakilan dagang RI di 33 negara. Sepanjang 2025 penuh ada 622 sesi dengan nilai transaksi ekspor US$134,87 juta, tapi dalam delapan bulan pertama 2026 saja sudah tercatat 711 sesi dengan nilai US$346,99 juta, lebih dari dua kali lipat nilai setahun penuh tahun sebelumnya. Yang langsung terdampak adalah pelaku usaha kecil dan menengah, termasuk pemilik waralaba kuliner seperti bakso atau soto, yang jadi sasaran program perluasan akses ekspor ini. Kenaikan tajam dalam waktu singkat ini mengarah pada fasilitasi ekspor yang makin aktif dijalankan, dan yang akan memastikan apakah tren ini berlanjut atau cuma lonjakan sementara adalah hasil transaksi Trade Expo Indonesia ke-41 pada 14-18 Oktober 2026.",
   "imageV": "mv0zlttv"
+ },
+ {
+  "slug": "menko-zulhas-soroti-rantai-pasok-kelapa-di-wcd-2026",
+  "category": "Industri",
+  "title": "Menko Zulhas Soroti Rantai Pasok [Kelapa] di WCD 2026",
+  "deck": "Menko Pangan Zulkifli Hasan mendesak pembenahan rantai pasok kelapa saat pembukaan World Coconut Day 2026 di Manado, soroti pola tanam petani yang masih pasif.",
+  "image": "assets/img/menko-zulhas-soroti-rantai-pasok-kelapa-di-wcd-2026.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T20:09:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472107-soroti-pola-tanam-tradisional-menko-zulhas-dorong-pembenahan-rantai-pasok-kelapa-di-wcd-2026",
+  "tags": [
+   "kelapa",
+   "world coconut day",
+   "manado",
+   "rantai pasok"
+  ],
+  "body": [
+   "World Coconut Day 2026 resmi dibuka pada Kamis (8/10) di Manado, Sulawesi Utara, dengan Menteri Koordinator Bidang Pangan Zulkifli Hasan menyoroti langsung cara petani membudidayakan kelapa yang menurutnya masih dibiarkan tumbuh sendiri tanpa perawatan. Sorotan ini penting karena menyasar persoalan dasar di sektor kelapa Indonesia, yaitu tata kelola rantai pasok dan nasib petani swadaya yang selama ini menguasai produksi nasional.",
+   "Forum ini dihadiri 700 delegasi dari 21 negara anggota International Coconut Community (ICC), termasuk Belgia, Jepang, Sri Lanka, Thailand, India, dan Filipina, yang membahas arah kebijakan dan alih teknologi kelapa bersama. Momen ini juga dicatat sebagai yang pertama kali ICC, organisasi yang berdiri sejak 1969, dipimpin oleh orang Indonesia, yakni Direktur Jenderal ICC Jelfina C. Alouw. Selain soal kebijakan, pertemuan ini turut mempromosikan hilirisasi industri kelapa serta pariwisata dan budaya Sulawesi Utara.",
+   "Zulkifli Hasan menyebut pola budidaya kelapa di Indonesia selama ini seperti \"Tuhan yang tanam, Tuhan yang petik\", di mana tanaman dibiarkan tumbuh tanpa pemupukan atau peremajaan benih yang terencana. Kritik ini menyasar petani kelapa swadaya, kelompok yang menguasai 90 persen produksi kelapa nasional dan menjadikan Indonesia produsen kelapa terbesar kedua di dunia.",
+   "Pola tanam yang pasif ini diperparah oleh kebun rakyat yang sempit, tanaman yang sudah menua, serta minimnya modal dan teknologi pascapanen di tingkat petani. Akibatnya, ketika harga produk turunan kelapa naik di pasar ekspor, keuntungan terbesar justru berhenti di tangan perantara atau tengkulak, bukan pada petani yang menanam dan memanennya."
+  ],
+  "fotoAdegan": "Farmers stacking freshly harvested coconuts beneath tall palm trees on a rural North Sulawesi plantation, golden morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac8e688d04a5-dari-manado-untuk-dunia-wcd-2026-satukan-21-negara-demi-penguatan-ekosistem-kelapa-berkelanjutan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang baru di sini bukan aturan atau anggaran baru, melainkan sorotan terbuka dari Menko Pangan Zulkifli Hasan terhadap cara petani membudidayakan kelapa yang menurutnya masih dibiarkan tumbuh sendiri tanpa perawatan. Yang langsung kena dampak dari persoalan ini adalah petani kelapa swadaya, kelompok kecil yang justru menguasai 90 persen produksi kelapa nasional tapi paling lemah posisinya saat harga jual ditentukan di tangan tengkulak. Berita ini belum menyebut langkah konkret seperti program peremajaan benih, bantuan pupuk, atau skema pembiayaan yang akan dijalankan setelah forum ini, jadi belum bisa dipastikan apakah sorotan di WCD 2026 akan berlanjut jadi kebijakan atau berhenti sebagai pernyataan pembukaan acara. Yang perlu dipantau adalah apakah pertemuan 700 delegasi ICC ini menghasilkan rencana aksi atau komitmen pendanaan konkret sebelum forum ditutup.",
+  "imageV": "mv156pe0"
  },
  {
   "slug": "pertamina-ubah-hentakan-tenun-jadi-listrik-pompa-air",
@@ -1074,7 +1128,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah perluasan hilirisasi nikel dari sekadar mengolah bahan tambang menjadi produk jadi seperti baterai kendaraan listrik, aluminium, dan komponen panel surya, lewat tambahan investasi US$10,2 miliar untuk 11 proyek baru di satu kawasan. Yang paling terdampak adalah Maluku Utara sendiri, karena ekonominya sudah sangat bergantung pada kawasan ini, hampir separuh (48,93 persen) nilai ekonomi daerah berasal dari industri pengolahan nikel, dan lebih dari 100.000 orang bekerja di sana. Ini menunjukkan arah hilirisasi bergeser dari sekadar menjual nikel olahan ke luar negeri menuju produk bernilai tambah lebih tinggi seperti baterai kendaraan listrik. Namun ketergantungan ekonomi daerah yang sebesar itu pada satu kawasan industri juga berarti pertumbuhan tinggi itu rentan jika permintaan nikel global melemah, sehingga yang perlu dicermati adalah apakah pertumbuhan ekonomi Maluku Utara pada kuartal III 2026 masih bertahan tinggi atau mulai melambat.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "airlangga-talenta-digital-kunci-ekonomi-ri-ke-depan",
@@ -1102,7 +1157,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Tidak ada aturan atau anggaran baru yang diumumkan dalam pidato ini. Isinya adalah kumpulan program yang sudah berjalan: insentif pengurangan pajak hingga 200 persen untuk riset, kerja sama desain chip dengan ARM Holdings, keanggotaan pendiri WAICO, dan target pembangkit surya 100 gigawatt. Yang terdampak langsung adalah pelaku industri semikonduktor dan startup digital yang jadi sasaran insentif, sektor hilirisasi sawit dan mineral yang disebut sebagai andalan ekspor, serta 531 mahasiswa penerima beasiswa UNNES tahun ini. Ada dua kemungkinan arah dari narasi ini, pemerintah benar-benar mengalihkan mesin pertumbuhan dari hilirisasi tambang ke digital dan energi hijau karena laju ekspor mineral mulai melandai setelah melonjak sejak 2016, atau pidato ini sekadar pengulangan narasi ekonomi masa depan tanpa program baru yang mengikat. Itu akan lebih jelas terlihat dari realisasi target PLTS 100 gigawatt dan aturan turunan insentif pajak riset, yang belum punya tenggat pasti dalam siaran ini.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "pgli-gelar-public-expose-usai-bursa-suspensi-sahamnya",

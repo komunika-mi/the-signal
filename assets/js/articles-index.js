@@ -37,6 +37,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pertamina-luncurkan-pemandu-wisata-digital-jelang-gp-mandalika",
+  "category": "BUMN",
+  "title": "Pertamina Luncurkan [Pemandu] Wisata Digital Jelang GP Mandalika",
+  "deck": "Pertamina luncurkan kampanye MyPertamina Your Journey Partner untuk memandu wisatawan menjelajahi Lombok selama Grand Prix Mandalika 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/pertamina-luncurkan-pemandu-wisata-digital-jelang-gp-mandalika.jpg",
+  "imageV": "mv156p01",
+  "tags": [
+   "pertamina",
+   "grand prix mandalika",
+   "umkm",
+   "ntb"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472125-bikin-liburan-grand-prix-2026-anti-bosan-pertamina-rilis-panduan-khusus-yang-wajib-dicoba-wisatawan"
+ },
+ {
   "slug": "smle-realisasi-dana-ipo-62-gudang-dan-lab-molor",
   "category": "Aksi Korporasi",
   "title": "SMLE Realisasi Dana IPO 62%, Gudang dan Lab [Molor]",
@@ -229,6 +246,23 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-generasi-muda-jajaki-usaha-waralaba",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "menko-zulhas-soroti-rantai-pasok-kelapa-di-wcd-2026",
+  "category": "Industri",
+  "title": "Menko Zulhas Soroti Rantai Pasok [Kelapa] di WCD 2026",
+  "deck": "Menko Pangan Zulkifli Hasan mendesak pembenahan rantai pasok kelapa saat pembukaan World Coconut Day 2026 di Manado, soroti pola tanam petani yang masih pasif.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/menko-zulhas-soroti-rantai-pasok-kelapa-di-wcd-2026.jpg",
+  "imageV": "mv156pe0",
+  "tags": [
+   "kelapa",
+   "world coconut day",
+   "manado",
+   "rantai pasok"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472107-soroti-pola-tanam-tradisional-menko-zulhas-dorong-pembenahan-rantai-pasok-kelapa-di-wcd-2026"
  },
  {
   "slug": "pertamina-ubah-hentakan-tenun-jadi-listrik-pompa-air",
@@ -6440,38 +6474,6 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6068-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtla-yulie-sekuritas-jual-150-juta-saham-senilai-rp103-5-m",
-  "category": "Aksi Korporasi",
-  "title": "MTLA: Yulie Sekuritas [Jual] 150 Juta Saham Senilai Rp103,5 M",
-  "deck": "Yulie Sekuritas Indonesia melepas 150 juta saham MTLA pada 30 September 2026 seharga Rp690 per lembar, menurunkan hak suaranya dari 7,24% menjadi 5,28%.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTLA",
-   "Metropolitan Land",
-   "kepemilikan saham",
-   "Yulie Sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-4727-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tldn-koreksi-jadwal-dividen-interim-rp20-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "TLDN [Koreksi] Jadwal Dividen Interim Rp20 per Saham",
-  "deck": "Teladan Prima Agro mengoreksi jadwal dividen interim tunai Rp20 per saham senilai total Rp258,9 miliar, dengan recording date 14 Oktober dan pembayaran 22 Oktober 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLDN",
-   "dividen interim",
-   "Teladan Prima Agro",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21c55032ac_c31fafd0ab.pdf",
   "sourceLabel": "IDX"
  }
 ];

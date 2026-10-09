@@ -59,6 +59,237 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "pgli-gelar-public-expose-usai-bursa-suspensi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PGLI Gelar Public Expose Usai Bursa [Suspensi] Sahamnya",
+  "deck": "BEI menghentikan sementara perdagangan saham PGLI, memaksa manajemen menggelar Public Expose Insidentil pada 13 Oktober 2026 untuk menjelaskan pergerakan harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T12:30:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e51b7b450_de6338119d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGLI",
+  "tags": [
+   "PGLI",
+   "suspensi saham",
+   "Bursa Efek Indonesia",
+   "Public Expose"
+  ],
+  "body": [
+   "PT Pembangunan Graha Lestari Indah Tbk (PGLI) akan menggelar Public Expose Insidentil pada Selasa, 13 Oktober 2026, pukul 10.00 WIB melalui aplikasi Zoom. Rapat ini digelar atas permintaan Bursa Efek Indonesia (BEI) lewat pengumuman bernomor Peng-SPT-00207/BEI.WAS/10-2026 tertanggal 7 Oktober 2026, yang berisi penghentian sementara perdagangan saham PGLI. Agenda yang disampaikan perseroan ke bursa mencakup tiga hal: kinerja keuangan dan kondisi bisnis terkini, rencana bisnis ke depan, serta analisis manajemen terkait pergerakan harga saham perseroan.",
+   "Surat pemberitahuan rencana ini ditandatangani oleh Animan Hutapea, Wakil Presiden Direktur PGLI, dan dialamatkan ke Direktur Penilaian Perusahaan 2 Bursa Efek Indonesia, dengan tembusan ke sejumlah pejabat Otoritas Jasa Keuangan serta direksi BEI, KSEI, dan KPEI. Pihak manajemen yang dijadwalkan hadir dalam paparan adalah anggota direksi perseroan. Perseroan juga menyebutkan bahwa materi presentasi Public Expose akan disetorkan ke bursa paling lambat Senin, 12 Oktober 2026, sebelum sesi paparan berlangsung.",
+   "Dokumen ini sendiri tidak menjelaskan alasan teknis di balik keputusan BEI menghentikan sementara perdagangan saham PGLI. Peserta publik yang ingin mengikuti paparan dapat bergabung lewat tautan Zoom dengan meeting ID 93527280573 dan PIN 514759."
+  ],
+  "fotoAdegan": "Wide shot of a hotel entrance driveway in Medan with parked cars and tropical palm trees under a cloudy sky",
+  "takeaway": "Laporan ini condong negatif bagi PGLI karena pemicunya adalah penghentian sementara perdagangan sahamnya oleh BEI, bukan inisiatif sukarela perseroan, yang berarti untuk sementara investor tidak bisa memperjualbelikan saham PGLI di pasar reguler. Yang tersentuh di sini adalah likuiditas saham, yakni kemudahan investor keluar masuk posisi, bukan pos keuangan seperti ekuitas atau laba per saham, sebab dokumen ini tidak memuat satu pun angka transaksi atau laporan keuangan. Dokumen ini juga tidak menyebutkan alasan di balik suspensi itu, sehingga publik baru akan tahu duduk perkaranya saat manajemen memaparkannya langsung. Yang perlu dipantau adalah sesi Public Expose pada Selasa, 13 Oktober 2026 pukul 10.00 WIB, serta materi presentasi yang wajib disetor ke bursa paling lambat Senin, 12 Oktober 2026, karena dari situ baru terlihat apakah suspensi dipicu soal fundamental bisnis atau sekadar pergerakan harga yang dianggap tidak wajar oleh bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ikai-repo-raja-sapta-oktohari-beli-2-38-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "IKAI: [Repo] Raja Sapta Oktohari Beli 2,38 Juta Saham",
+  "deck": "Raja Sapta Oktohari melaporkan pembelian 2.379.500 saham IKAI seharga Rp21 per lembar, hak suaranya naik dari nol menjadi 0,02 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T11:59:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-5044-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IKAI",
+  "tags": [
+   "IKAI",
+   "kepemilikan saham",
+   "pasar modal",
+   "Intikeramik Alamasri"
+  ],
+  "body": [
+   "Raja Sapta Oktohari, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris PT Intikeramik Alamasri Industri Tbk (IKAI), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli saham IKAI pada 6 Oktober 2026. Sebelum transaksi ia sama sekali tidak memegang saham perusahaan ini, namun setelah transaksi ia tercatat memiliki 2.379.500 lembar saham biasa IKAI dengan harga Rp21 per saham, membuat hak suaranya di perusahaan naik dari 0 persen menjadi 0,02 persen. Laporan bernomor LK/09102026/0005/1 ini disampaikan ke OJK pada 9 Oktober 2026, dengan status kepemilikan langsung dan tujuan transaksi disebutkan sebagai investasi.",
+   "Jenis transaksi dalam laporan ini tercatat sebagai repurchase agreement, yaitu transaksi jual beli saham yang dibarengi kesepakatan untuk membeli atau menjual kembali saham tersebut pada waktu tertentu di kemudian hari. Kolom jumlah saham dari program opsi atau insentif yang belum dilaksanakan serta batas akhir periode pelaksanaannya dibiarkan kosong dalam laporan, menandakan pembelian ini tidak berkaitan dengan program kompensasi saham karyawan atau direksi.",
+   "Pembelian ini muncul tidak lama setelah laporan serupa pada 6 Oktober 2026, saat direksi IKAI, Desra Firza Ghazfan, melaporkan pembelian 5 juta saham yang mengangkat hak suaranya menjadi 0,04 persen. Kedua laporan disampaikan oleh pihak yang berbeda dan dicatat sebagai transaksi terpisah, bukan bagian dari satu program korporasi yang sama."
+  ],
+  "fotoAdegan": "Rows of glazed ceramic floor tiles stacked on wooden pallets inside a tile factory warehouse, warm overhead lighting",
+  "takeaway": "Laporan ini netral bagi IKAI, sebab pembelian 2,38 juta saham oleh Raja Sapta Oktohari hanya mengangkat hak suaranya dari nol menjadi 0,02 persen, porsi yang terlalu kecil untuk mengubah siapa yang mengendalikan perusahaan. Yang tersentuh di sini cuma catatan kepemilikan pemegang saham, bukan kondisi keuangan IKAI sendiri, karena saham dibeli dari pemegang lama di pasar sekunder sehingga tidak menambah jumlah saham beredar ataupun mengubah laba per saham perusahaan. Yang perlu dicermati, transaksi ini memakai skema repurchase agreement, semacam jual beli saham yang dibarengi kesepakatan membeli atau menjual kembali di kemudian hari, sehingga saham ini bisa saja dilepas lagi begitu perjanjiannya jatuh tempo. Pola pembelian saham oleh perseorangan di IKAI juga muncul berulang pekan ini, setelah direksi Desra Firza Ghazfan melaporkan pembelian 5 juta saham pada 6 Oktober, sehingga perlu dilihat apakah akumulasi semacam ini berlanjut dan akhirnya membentuk porsi kepemilikan yang lebih berarti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gema-jadwalkan-rupslb-17-november-cum-date-23-oktober",
+  "category": "Aksi Korporasi",
+  "title": "GEMA Jadwalkan [RUPSLB] 17 November, Cum Date 23 Oktober",
+  "deck": "Gema Grahasarana akan menggelar RUPSLB pada 17 November 2026, dengan pemegang saham per 23 Oktober 2026 yang berhak hadir dan memberi suara secara elektronik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T11:13:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/75d38cbb34_43fdbad93e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GEMA",
+  "tags": [
+   "GEMA",
+   "RUPSLB",
+   "pasar modal",
+   "corporate action"
+  ],
+  "body": [
+   "PT Gema Grahasarana Tbk (GEMA) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026 pukul 14.00 WIB, bertempat di South78, Jalan Boulevard Gading Serpong Blok O No. 7-8, Medang, Tangerang. Pengumuman ini merujuk pada surat sebelumnya bernomor S-054/S-CORSEC/GEMA/X/2026. Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada Jumat, 23 Oktober 2026 sampai pukul 16.00 WIB, termasuk pemilik saham di sub rekening efek KSEI pada saat penutupan perdagangan di Bursa Efek Indonesia pada tanggal yang sama.",
+   "Pemanggilan resmi rapat, yang akan memuat agenda lengkap, baru akan diumumkan melalui situs web perseroan, situs BEI, dan situs KSEI pada 26 Oktober 2026. Usulan dari pemegang saham dapat dimasukkan ke dalam agenda rapat jika memenuhi persyaratan pasal 21 ayat 8 Anggaran Dasar Perseroan dan pasal 16 POJK No. 15/POJK.04/2020, serta diterima Direksi paling lambat tujuh hari kalender sebelum tanggal pemanggilan tersebut. Mengacu pada POJK No. 14/2025, rapat akan digelar secara elektronik melalui aplikasi eASY.KSEI, dan pemegang saham bisa memberikan suaranya secara elektronik sejak tanggal pemanggilan sampai satu hari kerja sebelum rapat, tepatnya hingga pukul 12.00 WIB. Pengumuman ini ditandatangani oleh Corporate Secretary GEMA, Ferlina Sutandi, pada 9 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of modern office chairs and desks displayed in a bright furniture showroom, empty aisles, soft daylight",
+  "takeaway": "Pengumuman ini sendiri netral bagi investor, sebab baru memuat jadwal dan tata cara rapat, belum ada agenda atau keputusan apa pun yang bisa dinilai dampaknya. Yang perlu digarisbawahi, RUPSLB berbeda dari rapat tahunan biasa dan umumnya dipanggil untuk agenda khusus seperti penambahan modal, penerbitan saham baru, atau pergantian pengurus, yang bila terjadi bisa mengubah jumlah saham beredar atau porsi kepemilikan pemegang saham lama. Pemegang saham yang ingin punya hak suara harus memastikan sahamnya sudah tercatat di Daftar Pemegang Saham paling lambat Jumat, 23 Oktober 2026 pukul 16.00 WIB. Hal yang paling penting dipantau selanjutnya adalah pemanggilan resmi pada 26 Oktober 2026, karena di situlah agenda sesungguhnya baru akan diumumkan sebelum rapat digelar pada 17 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-prambanan-investasi-divestasi-234-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Prambanan Investasi [Divestasi] 234 Juta Saham",
+  "deck": "Pemegang saham Prambanan Investasi Sukses melepas 234,09 juta saham DOOH di Rp350 per saham, memangkas hak suaranya dari 15,09% menjadi 12,06%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T11:11:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-8852-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "Kepemilikan Saham",
+   "Divestasi",
+   "Hak Suara"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menyampaikan laporan keterbukaan dari pemegang sahamnya, Prambanan Investasi Sukses, yang menjual 234.090.000 lembar saham secara tidak langsung pada 8 Oktober 2026. Transaksi dilakukan pada harga Rp350 per saham dengan tujuan divestasi, dan pelapor tercatat berstatus warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris DOOH.",
+   "Sebelum transaksi, Prambanan Investasi Sukses menggenggam 1.167.507.400 saham DOOH, setara 15,09% hak suara. Setelah penjualan tersebut, kepemilikannya berkurang menjadi 933.417.400 lembar saham, sehingga hak suaranya turun menjadi 12,06%. Jumlah saham yang dilepas setara sekitar seperlima dari kepemilikan Prambanan sebelum transaksi berlangsung.",
+   "Transaksi ini berbeda dari penawaran tender wajib PT SII atas saham DOOH di harga Rp148 per saham yang berlangsung sejak 5 Oktober hingga 3 November 2026, karena pihak penjual dan harga per sahamnya tidak sama dengan skema tender tersebut."
+  ],
+  "fotoAdegan": "Wide shot of digital billboard screens on a building facade along a busy Jakarta street at dusk, screens blurred and distant, traffic passing below",
+  "takeaway": "Laporan ini condong negatif bagi DOOH karena pelepasan saham oleh Prambanan Investasi Sukses, meski berasal dari pemegang saham non direksi, mengurangi sekitar seperlima kepemilikannya dan membuat hak suaranya turun dari 15,09% menjadi 12,06%, jauh dari kategori remah yang bisa diabaikan. Yang tersentuh di sini bukan kas atau utang perusahaan, melainkan struktur pemegang saham dan hak suara, sebab jual beli ini terjadi antar pemegang saham yang sudah ada, bukan penerbitan saham baru, sehingga jumlah saham beredar DOOH dan laba per saham investor publik tidak ikut berubah. Yang perlu dipantau selanjutnya adalah apakah pembeli saham ini kemudian wajib lapor sebagai pemegang saham baru, serta kelanjutan penawaran tender wajib PT SII atas saham DOOH di harga Rp148 per saham yang berjalan hingga 3 November 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lucy-hp-capital-jual-50-4-juta-saham-suara-ke-7-67",
+  "category": "Aksi Korporasi",
+  "title": "LUCY: HP Capital Jual 50,4 Juta Saham, Suara ke [7,67%]",
+  "deck": "HP Capital Resources melepas 50,4 juta saham LUCY dalam tiga hari transaksi, memangkas hak suaranya dari 11,99% menjadi 7,67%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T11:06:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-3515-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LUCY",
+  "tags": [
+   "LUCY",
+   "kepemilikan saham",
+   "HP Capital Resources",
+   "pasar modal"
+  ],
+  "body": [
+   "HP Capital Resources melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya menjual saham PT Lima Dua Lima Tiga Tbk (LUCY) dalam tiga hari berturut-turut pada 6, 7, dan 8 Oktober 2026. Akibatnya, kepemilikan HP Capital Resources di LUCY turun dari 166.604.500 lembar menjadi 116.178.900 lembar, yang membuat hak suaranya merosot dari 11,99% menjadi 7,67%.",
+   "Rinciannya, pada 6 Oktober dijual 16.951.500 lembar saham biasa di harga Rp235 per lembar. Sehari berikutnya, 7 Oktober, dijual lagi 24.704.400 lembar di harga Rp210. Lalu pada 8 Oktober dijual 8.769.700 lembar di harga Rp197. Total saham yang dilepas mencapai 50.425.600 lembar, setara 30,27% dari jumlah saham yang sebelumnya dipegang HP Capital Resources. Dalam dokumen laporan, tujuan ketiga transaksi itu seragam dicatat sebagai penyesuaian portofolio investasi.",
+   "Ini adalah laporan kedua dari HP Capital Resources dalam kurang dari sepekan terkait pelepasan saham LUCY, menyusul laporan serupa pada 6 Oktober 2026 yang juga mencatat penjualan saham oleh pihak yang sama."
+  ],
+  "fotoAdegan": "Jakarta financial district skyline at dusk with glowing office towers and streaking traffic lights below",
+  "takeaway": "Laporan ini condong negatif bagi LUCY, karena HP Capital Resources melepas lebih dari 30% dari saham yang dipegangnya sendiri hanya dalam tiga hari, dengan harga jual yang terus menurun setiap harinya dari Rp235 ke Rp197. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham besar, bukan laba atau kas perusahaan secara langsung, tetapi pelaku pasar memperhatikannya karena pelepasan besar oleh satu pemegang signifikan menambah pasokan saham di pasar dan bisa mengubah siapa yang punya pengaruh atas perusahaan. Penjualan ini juga merupakan kelanjutan dari laporan serupa pekan sebelumnya, sehingga pelepasan oleh HP Capital Resources sudah berlangsung lebih dari sekali dalam waktu singkat. Yang perlu dipantau adalah apakah HP Capital Resources masih akan melaporkan penjualan lanjutan dalam beberapa hari ke depan, dan apakah kepemilikannya akan terus turun mendekati ambang 5% yang mengubah kewajiban pelaporannya ke OJK.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "csis-tak-ada-info-material-di-balik-volatilitas-harga-saham",
+  "category": "Aksi Korporasi",
+  "title": "CSIS: Tak Ada Info Material di Balik [Volatilitas] Harga Saham",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, CSIS menyatakan tidak memiliki informasi material yang menjelaskan pergerakan harga sahamnya, termasuk rencana aksi korporasi dalam tiga bulan mendatang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T10:55:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f7872aec53_8fc6eedfe7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSIS",
+  "tags": [
+   "CSIS",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Cahayasakti Investindo Sukses Tbk (CSIS) mengirimkan surat penjelasan kepada Bursa Efek Indonesia pada 9 Oktober 2026, menanggapi permintaan klarifikasi BEI lewat surat nomor S-12829/BEI.PP3/10-2026 terkait volatilitas transaksi saham perusahaan. Surat bernomor 076/DIRUT-CSIS/EKS/X/2026 itu ditandatangani langsung oleh Direktur Utama CSIS, Tjoea Aubintoro.",
+   "Dalam surat tersebut, manajemen menjawab enam pertanyaan standar yang diajukan bursa. CSIS menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa mempengaruhi nilai maupun harga sahamnya, baik menurut POJK Nomor 31/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan I-E BEI. Perusahaan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 soal pelaporan kepemilikan dan penjaminan saham, serta menegaskan tidak punya rencana aksi korporasi yang berdampak pada status pencatatan sahamnya di bursa dalam tiga bulan mendatang.",
+   "Poin keenam surat ini menyebutkan bahwa Corporate Secretary CSIS diminta menanyakan rencana kepemilikan saham kepada pemegang saham utama, namun sampai tanggal surat dikirim, perusahaan belum memperoleh konfirmasi dari pihak tersebut. Perusahaan juga menegaskan tidak ada informasi, fakta, atau kejadian material lain yang berpengaruh pada harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Wide shot of a busy Jakarta financial district street at dusk, office towers, taxis and pedestrians, distant blurred ticker screens on a building facade",
+  "takeaway": "Penjelasan ini netral bagi fundamental CSIS karena tidak memuat angka transaksi atau keputusan baru, hanya konfirmasi bahwa manajemen tidak mengetahui penyebab lonjakan harga sahamnya. Tidak ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh di sini, sehingga pergerakan harga saham CSIS belakangan ini tampak lebih terkait dinamika pasar atau spekulasi ketimbang perubahan nyata di tubuh perusahaan. Yang layak dipantau adalah jawaban pemegang saham utama CSIS soal rencana kepemilikan sahamnya, yang menurut surat ini belum diperoleh perusahaan hingga 9 Oktober 2026; jika nantinya pemegang saham itu mengungkap rencana menambah atau melepas kepemilikan, informasi tersebut wajib diumumkan ke publik sebagai keterbukaan informasi lanjutan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pool-gelar-public-expose-tahun-buku-2022-tertunda-4-tahun",
+  "category": "Aksi Korporasi",
+  "title": "POOL Gelar Public Expose Tahun Buku 2022, [Tertunda] 4 Tahun",
+  "deck": "Pool Advista Indonesia baru menggelar public expose untuk tahun buku 2022 pada 23 Oktober 2026, empat tahun setelah periode itu berakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T10:45:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6df629c7ae_950646be5f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POOL",
+  "tags": [
+   "POOL",
+   "public expose",
+   "keterlambatan pelaporan",
+   "kepatuhan emiten"
+  ],
+  "body": [
+   "PT Pool Advista Indonesia Tbk (POOL) menyampaikan rencana penyelenggaraan public expose tahunan kepada Bursa Efek Indonesia. Acara dijadwalkan pada Jumat, 23 Oktober 2026, pukul 09.00 WIB, di kantor perusahaan di Jalan Letjen Soepono Blok CC6 No. 9-10, Arteri Permata Hijau, Kelurahan Grogol Utara, Kecamatan Kebayoran Lama, Jakarta Selatan. Agenda acara adalah pemaparan kinerja dan kondisi terkini perseroan serta rencana strategisnya, dengan jajaran direksi dan komisaris dijadwalkan hadir. Surat pemberitahuan ke bursa ditandatangani oleh Direktur Utama Teuku Johas Raffli, merujuk pada Peraturan Bursa Nomor I-E tentang Kewajiban Penyampaian Informasi.",
+   "Hal yang mencolok dari dokumen ini adalah keterangan bahwa public expose tersebut adalah untuk tahun buku yang berakhir pada 2022, bukan untuk tahun buku terbaru. Artinya, perseroan baru memenuhi kewajiban pemaparan publik untuk periode empat tahun lalu, sementara dokumen ini tidak menyebutkan jadwal serupa untuk tahun buku 2023, 2024, dan 2025. Pelaporan elektronik ke bursa tercatat disampaikan oleh Direktur Ferdiansyah Siregar."
+  ],
+  "fotoAdegan": "Empty rows of chairs facing a small stage in a corporate meeting room, soft morning light, modern Jakarta office interior",
+  "takeaway": "Laporan ini condong negatif bagi POOL, bukan karena isi pemaparannya, melainkan karena jarak waktunya: public expose untuk tahun buku 2022 baru digelar pada Oktober 2026, tertunda sekitar empat tahun dari praktik normal emiten yang menggelar acara ini setahun sekali tak lama setelah tutup tahun buku. Public expose adalah forum wajib tempat investor publik bisa bertanya langsung ke direksi tentang kondisi dan rencana perusahaan, sehingga keterlambatan sepanjang ini berarti pemegang saham publik kehilangan akses ke penjelasan resmi manajemen selama bertahun-tahun, sebuah sinyal masalah tata kelola atau ketertiban pelaporan yang lebih serius daripada sekadar administrasi yang terlambat. Pada emiten lain, keterlambatan sebesar ini biasanya berkaitan dengan status pencatatan saham yang bermasalah, misalnya suspensi perdagangan akibat telat menyampaikan laporan keuangan atau laporan tahunan ke bursa, meski dokumen ini sendiri tidak menyebutkan alasannya. Yang perlu dipantau selanjutnya adalah pelaksanaan public expose pada 23 Oktober 2026 itu sendiri, termasuk apakah manajemen menjelaskan sebab keterlambatan, dan apakah public expose untuk tahun buku 2023 hingga 2025 yang masih tertunggak akan segera disusul.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smma-umumkan-rupslb-17-november-dps-23-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Umumkan [RUPSLB] 17 November, DPS 23 Oktober 2026",
+  "deck": "PT Sinar Mas Multiartha Tbk (SMMA) akan menggelar Rapat Umum Pemegang Saham Luar Biasa pada 17 November 2026 di Jakarta, dengan pemegang saham yang tercatat per 23 Oktober 2026 berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T10:42:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e5b3190664_27a2a546fe.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMA",
+  "tags": [
+   "SMMA",
+   "RUPSLB",
+   "Sinar Mas Multiartha",
+   "RUPS"
+  ],
+  "body": [
+   "PT Sinar Mas Multiartha Tbk (SMMA) menyampaikan pemberitahuan resmi rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kepada Otoritas Jasa Keuangan (OJK) dan Bursa Efek Indonesia (BEI). Merujuk pada surat sebelumnya bernomor 180B/SMMA/X/2026, rapat dijadwalkan berlangsung pada Selasa, 17 November 2026 pukul 16.00 WIB di The Grand Mansion, Jalan Borobudur Nomor 10, Pegangsaan, Menteng, Jakarta. Pemegang saham yang berhak hadir dan memberikan suara dalam RUPSLB ini adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per 23 Oktober 2026. Pemberitahuan ini ditandatangani Corporate Secretary SMMA, Felix, pada 9 Oktober 2026.",
+   "Sebagai bagian dari pemenuhan ketentuan Peraturan OJK Nomor 15/POJK.04/2020 tentang Rencana dan Penyelenggaraan RUPS Perusahaan Terbuka, Peraturan BEI Nomor I-E, serta pasal 82 dan 83 Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, SMMA juga mengirimkan bukti pemuatan iklan pengumuman RUPSLB tersebut. Iklan dimuat pada satu surat kabar harian bersirkulasi nasional, yakni Investor Daily edisi Jumat, 9 Oktober 2026. Surat bukti iklan ini ditandatangani oleh Wakil Direktur Utama SMMA, Eric Buntoro. Dokumen yang beredar hari ini belum memuat mata acara atau agenda RUPSLB, sehingga tujuan dan keputusan yang akan dimintakan persetujuan pemegang saham belum dapat diketahui publik."
+  ],
+  "fotoAdegan": "Rows of empty formal chairs arranged in an elegant hotel ballroom ahead of a corporate shareholders meeting, soft morning light",
+  "takeaway": "Pengumuman ini tergolong netral bagi SMMA, sebab isinya sebatas jadwal dan lokasi rapat tanpa menyebutkan agenda atau keputusan korporasi yang akan diambil, sehingga belum ada dasar untuk menilai dampaknya ke arah positif atau negatif. Karena agenda rapat belum diumumkan, pos-pos penting seperti ekuitas (modal sendiri perusahaan), arus kas, atau jumlah saham beredar yang biasa dipantau pelaku pasar dalam RUPSLB juga belum tersentuh oleh dokumen ini. Yang perlu diperhatikan selanjutnya adalah panggilan resmi RUPSLB yang memuat mata acara rapat, serta pelaksanaan rapat itu sendiri pada Selasa, 17 November 2026 di The Grand Mansion, Jakarta. Pemegang saham yang ingin memastikan haknya untuk hadir dan memberi suara harus memeriksa apakah namanya tercatat dalam Daftar Pemegang Saham per 23 Oktober 2026, karena tanggal itulah yang menjadi batas pencatatan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "piki-pefindo-tegaskan-peringkat-aaa-untuk-pelindo-dan-obligasinya",
+  "category": "Aksi Korporasi",
+  "title": "PIKI: Pefindo Tegaskan Peringkat [AAA] untuk Pelindo dan Obligasinya",
+  "deck": "Pefindo mempertahankan peringkat idAAA/Stable untuk Pelindo (PIKI) dan obligasi senilai Rp800 miliar untuk periode Oktober 2026-2027, peringkat tertinggi kelima tahun berturut-turut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T10:38:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4ece31af77_0b72da34cb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIKI",
+  "tags": [
+   "PIKI",
+   "Pefindo",
+   "obligasi",
+   "rating kredit"
+  ],
+  "body": [
+   "PEFINDO menegaskan kembali peringkat idAAA dengan outlook stabil untuk PT Pelabuhan Indonesia (Persero) atau Pelindo (PIKI), serta peringkat idAAA untuk Obligasi I Pelindo IV Tahun 2018 Seri C senilai Rp800 miliar. Keputusan diambil dalam rapat Komite Pemeringkat Pefindo pada Selasa, 6 Oktober 2026, berlaku untuk periode 6 Oktober 2026 sampai 1 Oktober 2027. Pelindo menerima surat hasil pemeringkatan pada 8 Oktober 2026 dan melaporkannya ke Otoritas Jasa Keuangan pada 9 Oktober 2026. Peringkat idAAA ini sudah dipertahankan Pelindo sejak Oktober 2022, sehingga penegasan kali ini merupakan yang kelima berturut-turut.",
+   "Pefindo mendasarkan penilaiannya pada laporan keuangan tidak diaudit per 30 Juni 2026 dan laporan keuangan audit per 31 Desember 2025. Total aset Pelindo tercatat Rp128,7 triliun per Juni 2026, naik dari Rp126,1 triliun pada akhir 2025, sementara total utang turun dari Rp47,7 triliun menjadi Rp47,5 triliun dan total ekuitas turun dari Rp50,4 triliun menjadi Rp49,7 triliun. Pendapatan semester pertama 2026 tercatat Rp18,5 triliun dengan EBITDA Rp6,5 triliun dan laba bersih setelah hak minoritas Rp2,4 triliun, sementara sepanjang 2025 pendapatan setahun penuh mencapai Rp36,7 triliun dengan laba bersih Rp4,2 triliun. Rasio utang terhadap EBITDA membaik dari 4,3 kali pada akhir 2025 menjadi 3,7 kali pada Juni 2026, meski rasio utang terhadap ekuitas naik tipis dari 0,9 kali menjadi 1,0 kali.",
+   "Pefindo menyebut peringkat ini mencerminkan peran strategis Pelindo bagi pemerintah, posisi pasar yang superior, serta pendapatan berulang yang stabil, meski sebagian diimbangi oleh struktur permodalan dan indikator perlindungan arus kas yang moderat. Pelindo lahir dari penggabungan empat operator pelabuhan negara, Pelindo I sampai IV, yang efektif sejak 1 Oktober 2021, dan kini mayoritas dimiliki Badan Pengelola Investasi Daya Anagata Nusantara (Danantara) melalui PT Danantara Asset Management (Persero), sementara pemerintah memegang satu saham Seri A Dwiwarna yang menjaga hak dan kendali khususnya atas perusahaan. Pefindo menyatakan peringkat bisa diturunkan jika dukungan pemerintah melemah signifikan, misalnya lewat pelepasan kepemilikan negara yang material, jika utang Pelindo membengkak jauh dari proyeksi akibat belanja modal atau biaya ekspansi pelabuhan yang lebih tinggi dari perkiraan, atau jika volume petikemas dan kargo turun secara material dan berkepanjangan."
+  ],
+  "fotoAdegan": "Cargo cranes loading shipping containers onto a vessel at a busy Indonesian seaport under overcast sky",
+  "takeaway": "Laporan ini condong netral karena Pefindo hanya menegaskan ulang peringkat tertinggi idAAA/Stable yang sudah dipegang Pelindo sejak 2022, tanpa ada perubahan arah dari tahun sebelumnya, meski rasio utang terhadap EBITDA membaik dari 4,3 kali menjadi 3,7 kali sementara rasio utang terhadap ekuitas naik tipis dari 0,9 kali menjadi 1,0 kali. Yang tersentuh di sini adalah struktur permodalan dan arus kas Pelindo: rasio utang terhadap EBITDA menunjukkan berapa tahun laba operasional dibutuhkan untuk melunasi seluruh utang, sedangkan rasio FFO terhadap utang menggambarkan seberapa besar kas dari kegiatan operasi yang tersedia untuk membayar utang, dua ukuran yang dipantau investor obligasi karena memengaruhi biaya pinjaman Pelindo ke depan. Pefindo menyebut peringkat bisa turun jika dukungan pemerintah melemah signifikan, misalnya lewat pelepasan kepemilikan negara yang material, jika utang membengkak jauh dari proyeksi akibat belanja modal ekspansi pelabuhan, atau jika volume petikemas dan kargo turun berkepanjangan. Yang perlu dipantau berikutnya adalah berakhirnya periode peringkat ini pada 1 Oktober 2027, saat Pefindo akan mengkaji ulang apakah ketiga risiko tersebut benar terjadi.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "apex-jadwalkan-pelaksanaan-konversi-utang-jadi-saham-19-oktober",
   "category": "Aksi Korporasi",
   "title": "APEX Jadwalkan [Pelaksanaan] Konversi Utang Jadi Saham 19 Oktober",

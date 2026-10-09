@@ -37,6 +37,150 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "pgli-gelar-public-expose-usai-bursa-suspensi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PGLI Gelar Public Expose Usai Bursa [Suspensi] Sahamnya",
+  "deck": "BEI menghentikan sementara perdagangan saham PGLI, memaksa manajemen menggelar Public Expose Insidentil pada 13 Oktober 2026 untuk menjelaskan pergerakan harga sahamnya.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGLI",
+   "suspensi saham",
+   "Bursa Efek Indonesia",
+   "Public Expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e51b7b450_de6338119d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ikai-repo-raja-sapta-oktohari-beli-2-38-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "IKAI: [Repo] Raja Sapta Oktohari Beli 2,38 Juta Saham",
+  "deck": "Raja Sapta Oktohari melaporkan pembelian 2.379.500 saham IKAI seharga Rp21 per lembar, hak suaranya naik dari nol menjadi 0,02 persen.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IKAI",
+   "kepemilikan saham",
+   "pasar modal",
+   "Intikeramik Alamasri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-5044-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gema-jadwalkan-rupslb-17-november-cum-date-23-oktober",
+  "category": "Aksi Korporasi",
+  "title": "GEMA Jadwalkan [RUPSLB] 17 November, Cum Date 23 Oktober",
+  "deck": "Gema Grahasarana akan menggelar RUPSLB pada 17 November 2026, dengan pemegang saham per 23 Oktober 2026 yang berhak hadir dan memberi suara secara elektronik.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GEMA",
+   "RUPSLB",
+   "pasar modal",
+   "corporate action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/75d38cbb34_43fdbad93e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-prambanan-investasi-divestasi-234-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Prambanan Investasi [Divestasi] 234 Juta Saham",
+  "deck": "Pemegang saham Prambanan Investasi Sukses melepas 234,09 juta saham DOOH di Rp350 per saham, memangkas hak suaranya dari 15,09% menjadi 12,06%.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "Kepemilikan Saham",
+   "Divestasi",
+   "Hak Suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-8852-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lucy-hp-capital-jual-50-4-juta-saham-suara-ke-7-67",
+  "category": "Aksi Korporasi",
+  "title": "LUCY: HP Capital Jual 50,4 Juta Saham, Suara ke [7,67%]",
+  "deck": "HP Capital Resources melepas 50,4 juta saham LUCY dalam tiga hari transaksi, memangkas hak suaranya dari 11,99% menjadi 7,67%.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LUCY",
+   "kepemilikan saham",
+   "HP Capital Resources",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-3515-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "csis-tak-ada-info-material-di-balik-volatilitas-harga-saham",
+  "category": "Aksi Korporasi",
+  "title": "CSIS: Tak Ada Info Material di Balik [Volatilitas] Harga Saham",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, CSIS menyatakan tidak memiliki informasi material yang menjelaskan pergerakan harga sahamnya, termasuk rencana aksi korporasi dalam tiga bulan mendatang.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSIS",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f7872aec53_8fc6eedfe7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pool-gelar-public-expose-tahun-buku-2022-tertunda-4-tahun",
+  "category": "Aksi Korporasi",
+  "title": "POOL Gelar Public Expose Tahun Buku 2022, [Tertunda] 4 Tahun",
+  "deck": "Pool Advista Indonesia baru menggelar public expose untuk tahun buku 2022 pada 23 Oktober 2026, empat tahun setelah periode itu berakhir.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POOL",
+   "public expose",
+   "keterlambatan pelaporan",
+   "kepatuhan emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6df629c7ae_950646be5f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smma-umumkan-rupslb-17-november-dps-23-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Umumkan [RUPSLB] 17 November, DPS 23 Oktober 2026",
+  "deck": "PT Sinar Mas Multiartha Tbk (SMMA) akan menggelar Rapat Umum Pemegang Saham Luar Biasa pada 17 November 2026 di Jakarta, dengan pemegang saham yang tercatat per 23 Oktober 2026 berhak hadir.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMA",
+   "RUPSLB",
+   "Sinar Mas Multiartha",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e5b3190664_27a2a546fe.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "piki-pefindo-tegaskan-peringkat-aaa-untuk-pelindo-dan-obligasinya",
+  "category": "Aksi Korporasi",
+  "title": "PIKI: Pefindo Tegaskan Peringkat [AAA] untuk Pelindo dan Obligasinya",
+  "deck": "Pefindo mempertahankan peringkat idAAA/Stable untuk Pelindo (PIKI) dan obligasi senilai Rp800 miliar untuk periode Oktober 2026-2027, peringkat tertinggi kelima tahun berturut-turut.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIKI",
+   "Pefindo",
+   "obligasi",
+   "rating kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4ece31af77_0b72da34cb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "apex-jadwalkan-pelaksanaan-konversi-utang-jadi-saham-19-oktober",
   "category": "Aksi Korporasi",
   "title": "APEX Jadwalkan [Pelaksanaan] Konversi Utang Jadi Saham 19 Oktober",
@@ -6341,151 +6485,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c0c59961ae_e7ae1edefa.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-siapkan-rights-issue-dilusi-maksimal-95-24",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Siapkan Rights Issue, Dilusi Maksimal [95,24%]",
-  "deck": "DOOH berencana menerbitkan maksimal 154,78 miliar saham baru lewat HMETD, mendilusi pemegang saham lama hingga 95,24 persen, untuk melunasi utang dan membangun infrastruktur AI.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "rights issue",
-   "HMETD",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/77856b25cb_845d50899f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ikai-tanggapi-permintaan-bursa-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "IKAI Tanggapi Permintaan Bursa soal [Volatilitas] Saham",
-  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham IKAI; perseroan menyatakan tidak ada informasi material yang belum diungkap.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IKAI",
-   "Volatilitas Saham",
-   "Bursa Efek Indonesia",
-   "Intikeramik Alamasri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e4f1175c1_cce2dfc3f4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-alihkan-rp120-miliar-dana-ipo-ke-akuisisi-saham-inet",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Alihkan [Rp120 Miliar] Dana IPO ke Akuisisi Saham INET",
-  "deck": "DOOH mengajukan perubahan seluruh penggunaan dana IPO 2023, mengalihkan Rp120 miliar untuk membeli 6,685 miliar saham INET lewat anak usaha CNI, menyusul masuknya pengendali baru.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "INET",
-   "penggunaan dana IPO",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/880d062e92_f7de77f097.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-terima-pinjaman-rp5-triliun-dari-sii-untuk-akuisisi-inet",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Terima Pinjaman [Rp5 Triliun] dari SII untuk Akuisisi INET",
-  "deck": "DOOH menandatangani pinjaman pemegang saham hingga Rp5 triliun dari pengendali SII untuk mendanai akuisisi 29,88 persen saham INET senilai sekitar Rp2 triliun, menunggu persetujuan RUPSLB.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "INET",
-   "transaksi afiliasi",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/863bd8cb2e_b8c68400bb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-ajukan-akuisisi-rp2-triliun-saham-inet-ke-rups-9-november",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Ajukan [Akuisisi] Rp2 Triliun Saham INET ke RUPS 9 November",
-  "deck": "Anak usaha DOOH, PT Cakrawala Nexus Investama, membeli 29,88% saham PT Sinergi Inti Andalan Prima (INET) senilai Rp2,0055 triliun dari AKUN, menunggu persetujuan RUPSLB 9 November 2026.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "INET",
-   "akuisisi",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/928dd3c31b_71dc76f4df.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "okupansi-hotel-bintang-agustus-turun-ke-52-52",
-  "category": "Bisnis",
-  "title": "Okupansi Hotel Bintang Agustus Turun ke [52,52%]",
-  "deck": "TPK hotel bintang nasional turun dari 54,54% pada Juli 2026 menjadi 52,52% pada Agustus 2026, mengakhiri kenaikan lima bulan beruntun.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
-  "tags": [
-   "bps",
-   "hotel",
-   "pariwisata",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "wisman-agustus-tembus-1-60-juta-naik-6-bulan-beruntun",
-  "category": "Bisnis",
-  "title": "Wisman Agustus Tembus 1,60 Juta, [Naik 6 Bulan Beruntun]",
-  "deck": "BPS mencatat kunjungan wisatawan mancanegara naik dibanding bulan sebelumnya maupun periode sama tahun lalu.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/bisnis-resto.jpg",
-  "tags": [
-   "bps",
-   "wisatawan asing",
-   "pariwisata",
-   "statistik"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "gtbo-ganti-direktur-laporan-molor-10-bulan-dari-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "GTBO Ganti Direktur, Laporan [Molor] 10 Bulan dari RUPSLB",
-  "deck": "GTBO mengangkat Yanry Musa sebagai Direktur dan Sandeep Kaur sebagai Komisaris Independen, tapi baru melapor ke OJK dan BEI hampir 10 bulan setelah RUPSLB menyetujuinya.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTBO",
-   "pergantian direksi",
-   "komisaris independen",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/66b173fa83_1a6e1ba4ed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkp-luncurkan-simulator-untuk-percepat-sertifikasi-awak-kapal",
-  "category": "Ketenagakerjaan",
-  "title": "KKP Luncurkan [Simulator] untuk Percepat Sertifikasi Awak Kapal",
-  "deck": "KKP mempercepat sertifikasi awak kapal perikanan di atas 300 GT lewat simulator pelatihan baru dan aturan pengawakan kapal yang baru terbit.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/kkp-luncurkan-simulator-untuk-percepat-sertifikasi-awak-kapal.jpg",
-  "imageV": "mupj0ch2",
-  "tags": [
-   "KKP",
-   "sertifikasi kapal",
-   "perikanan tangkap",
-   "simulator pelatihan"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-percepat-sertifikasi-awak-kapal-perikanan-melalui-modernisasi-pelatihan-Pz4W.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
  }
 ];

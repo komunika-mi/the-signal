@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "laba-jasaraharja-putera-naik-41-persen-raih-penghargaan",
+  "category": "BUMN",
+  "title": "Laba Jasaraharja Putera [Naik] 41 Persen, Raih Penghargaan",
+  "deck": "Jasaraharja Putera mencatat laba bersih Rp234,49 miliar pada 2025, naik 41 persen, didukung beban klaim yang turun dan modal yang tebal, sekaligus meraih penghargaan asuransi terbaik.",
+  "image": "assets/img/laba-jasaraharja-putera-naik-41-persen-raih-penghargaan.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T03:07:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472163-laba-bersih-meningkat-jasaraharja-putera-diganjar-penghargaan",
+  "tags": [
+   "asuransi",
+   "Jasaraharja Putera",
+   "RUPS",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Jasaraharja Putera mencatat laba bersih sekitar Rp234,49 miliar untuk tahun buku 2025, naik 41 persen dibandingkan tahun sebelumnya. Capaian ini disahkan dalam Rapat Umum Pemegang Saham pada Juli 2026, dan menjadi salah satu dasar perusahaan asuransi umum milik grup Jasa Raharja ini meraih penghargaan Best General Insurance in Prudent Underwriting & Risk Management dari CNBC Indonesia Awards 2026. Lonjakan laba ini penting karena menunjukkan bisnis asuransi umum masih bisa tumbuh kuat di tengah ketatnya persaingan industri.",
+   "Dari sisi pendapatan, perusahaan membukukan pendapatan asuransi sekitar Rp1,61 triliun sepanjang 2025. Hasil jasa asuransi, yaitu selisih antara pendapatan premi dan biaya yang langsung terkait polis, tercatat Rp319,20 miliar atau tumbuh 10,22 persen. Pada saat yang sama, beban jasa asuransi, yang mencakup klaim dan biaya pengelolaan polis, justru turun 16,27 persen menjadi sekitar Rp908,61 miliar. Kombinasi pendapatan yang naik dan beban yang menyusut inilah yang mendorong lonjakan laba bersih perusahaan.",
+   "Soliditas keuangan perusahaan juga tercermin dari rasio kecukupan modal berbasis risiko, atau RBC, yang mencapai 371,90 persen, jauh di atas batas minimum yang disyaratkan regulator. Rasio ini mengukur seberapa besar modal yang dimiliki perusahaan dibandingkan risiko yang harus ditanggung, sehingga semakin tinggi angkanya, semakin kuat kemampuan perusahaan membayar klaim nasabah pemegang polis.",
+   "Direktur Utama PT Jasaraharja Putera, Abdul Haris, menyebut penghargaan dari CNBC Indonesia Awards 2026 sebagai bentuk apresiasi atas kontribusi seluruh karyawan serta kepercayaan nasabah dan mitra bisnis perusahaan. Ia menegaskan perusahaan akan terus memperkuat pengelolaan risiko dan memperluas solusi perlindungan bagi nasabahnya."
+  ],
+  "fotoAdegan": "Insurance claims staff assisting customers at a busy counter inside a modern Jakarta office, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/10/6ac948b66d575-laba-bersih-meningkat-jasaraharja-putera-diganjar-penghargaan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah profitabilitas Jasaraharja Putera: laba bersih naik 41 persen jadi Rp234,49 miliar, didorong beban klaim yang turun 16,27 persen sementara pendapatan asuransinya justru naik. Modal perusahaan juga sangat tebal, rasio kecukupan modalnya 371,90 persen, jauh di atas batas aman yang ditetapkan regulator, artinya perusahaan punya bantalan besar untuk membayar klaim nasabah. Pihak yang paling terdampak adalah pemegang polis asuransi umum perusahaan ini dan induknya, Jasa Raharja, yang berpotensi menerima kontribusi laba lebih besar dari anak usahanya. Kombinasi beban klaim yang menyusut dan modal yang menebal ini mengarah ke penguatan posisi keuangan ketimbang sekadar pertumbuhan bisnis biasa, dan yang akan memastikan arah ini adalah laporan keuangan tahun buku 2026 beserta keputusan RUPS berikutnya soal pembagian laba ke induk perusahaan.",
+  "imageV": "mv1lavpt"
+ },
+ {
   "slug": "bmtp-fitch-afirmasi-peringkat-aa-idn-outlook-stabil",
   "category": "Aksi Korporasi",
   "title": "BMTP: Fitch Afirmasi Peringkat [AA(idn)], Outlook Stabil",

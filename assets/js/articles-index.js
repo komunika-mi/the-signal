@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "laba-jasaraharja-putera-naik-41-persen-raih-penghargaan",
+  "category": "BUMN",
+  "title": "Laba Jasaraharja Putera [Naik] 41 Persen, Raih Penghargaan",
+  "deck": "Jasaraharja Putera mencatat laba bersih Rp234,49 miliar pada 2025, naik 41 persen, didukung beban klaim yang turun dan modal yang tebal, sekaligus meraih penghargaan asuransi terbaik.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/laba-jasaraharja-putera-naik-41-persen-raih-penghargaan.jpg",
+  "imageV": "mv1lavpt",
+  "tags": [
+   "asuransi",
+   "Jasaraharja Putera",
+   "RUPS",
+   "laba bersih"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472163-laba-bersih-meningkat-jasaraharja-putera-diganjar-penghargaan"
+ },
+ {
   "slug": "bmtp-fitch-afirmasi-peringkat-aa-idn-outlook-stabil",
   "category": "Aksi Korporasi",
   "title": "BMTP: Fitch Afirmasi Peringkat [AA(idn)], Outlook Stabil",
@@ -6458,22 +6475,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e99bbabd32_dd1c4a0bb5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bksl-direksi-lepas-683-9-juta-saham-suara-ke-5-18",
-  "category": "Aksi Korporasi",
-  "title": "BKSL: [Direksi] Lepas 683,9 Juta Saham, Suara ke 5,18%",
-  "deck": "Direksi Sentul City melalui akun Samuel Sekuritas Indonesia melepas 683,9 juta saham BKSL senilai Rp72 per saham lewat pencairan perjanjian repo, hak suara turun dari 5,59% menjadi 5,18%.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKSL",
-   "Sentul City",
-   "repo",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-7168-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "motogp-mandalika-2026-buka-kerja-musiman-untuk-warga-lombok",
+  "category": "Ketenagakerjaan",
+  "title": "MotoGP Mandalika 2026 Buka Kerja [Musiman] untuk Warga Lombok",
+  "deck": "Gelaran Pertamina Grand Prix of Indonesia 2026 di Sirkuit Mandalika membuka lowongan musiman bagi warga Lombok, dari petugas kebersihan hingga pengelola sampah.",
+  "image": "assets/img/motogp-mandalika-2026-buka-kerja-musiman-untuk-warga-lombok.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:49:49+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472078-pertamina-grand-prix-of-indonesia-2026-ciptakan-peluang-kerja-musiman-bagi-warga-lombok",
+  "tags": [
+   "pertamina",
+   "mandalika",
+   "lombok",
+   "ketenagakerjaan"
+  ],
+  "body": [
+   "Di luar sorotan balap motor kelas dunia, gelaran Pertamina Grand Prix of Indonesia 2026 di Sirkuit Mandalika, Lombok, Nusa Tenggara Barat, juga membuka lowongan kerja musiman bagi warga sekitar. Selama rangkaian acara berlangsung, sejumlah penduduk lokal direkrut untuk mengisi berbagai posisi pendukung, dari petugas kebersihan hingga tim pengelolaan sampah. Bagi warga yang terlibat, ini jadi peluang menambah penghasilan sekaligus pengalaman kerja baru di ajang internasional.",
+   "Salah satu yang merasakannya adalah Baiq Essenza, warga Praya berusia 20 tahun yang untuk kali pertama bekerja di area Pertamina Mandalika International Circuit. Ia bertugas di tim kebersihan, mulai dari menyapu dan membersihkan area sirkuit sampai memilah sampah, termasuk di zona paddock yang jadi area kerja inti selama balapan. Essenza mengatakan penghasilan dari pekerjaan ini akan dipakai untuk kebutuhan rumah tangga dan membantu orang tuanya, dan ia berharap gelaran balap di Mandalika terus berlanjut agar makin banyak warga lokal kebagian kesempatan serupa.",
+   "Manfaat yang sama dirasakan Lia Kartika, warga Sengkol yang dipercaya menjadi koordinator tim Cleaning Service Waste Management di sirkuit tersebut. Timnya terbagi dua tugas, yakni menjaga kebersihan ruangan dan menangani kebersihan area lapangan, dengan jam kerja yang disebut mencapai 12 jam sehari, dari pukul 07.00 hingga 18.00 WITA. Lia sendiri sebelumnya menjalani keseharian sebagai ibu rumah tangga sebelum beberapa kali dilibatkan dalam penyelenggaraan acara di Mandalika."
+  ],
+  "fotoAdegan": "Cleaning crew in uniform sweeping and sorting waste bins along an empty motorsport pit lane, tropical morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac8b76eae7ad-pekerja-di-pertamina-grand-prix-of-indonesia-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pola perekrutan musiman: pengelola Sirkuit Mandalika menyerap warga sekitar, seperti Praya dan Sengkol, untuk posisi kebersihan dan pengelolaan sampah setiap kali ada gelaran besar, dengan jam kerja yang disebut sampai 12 jam sehari. Yang terdampak adalah warga lokal Lombok, termasuk mereka yang sebelumnya tidak punya pekerjaan tetap, seperti ibu rumah tangga yang kini naik jadi koordinator tim. Berita ini belum menyebut berapa total warga yang terserap, berapa upah yang mereka terima, atau apakah rekrutmen musiman ini terjadi di setiap event balap sepanjang tahun atau hanya sesekali. Tanpa angka itu, belum bisa dipastikan apakah lapangan kerja ini jadi sumber pendapatan rutin bagi warga sekitar sirkuit atau sekadar tambahan sesaat, sehingga perlu dicek lewat data resmi pengelola kawasan atau pemerintah daerah NTB soal jumlah dan nilai upah tenaga kerja lokal yang terserap di setiap gelaran.",
+  "imageV": "mv0u3z12"
+ },
+ {
+  "slug": "menteri-pu-pastikan-irigasi-siap-untuk-panen-perdana-di-merauke",
+  "category": "Makroekonomi",
+  "title": "Menteri PU Pastikan Irigasi Siap untuk [Panen] Perdana di Merauke",
+  "deck": "Dody Hanggodo meninjau KSPEAN Wanam, Merauke, memastikan irigasi siap menopang panen perdana padi di lahan 40 hektare pada November 2026.",
+  "image": "assets/img/menteri-pu-pastikan-irigasi-siap-untuk-panen-perdana-di-merauke.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:36:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472074-tinjau-kspean-wanam-menteri-dody-pastikan-panen-perdana-dukung-visi-presiden-prabowo",
+  "tags": [
+   "Kementerian PU",
+   "KSPEAN",
+   "Merauke",
+   "Swasembada Pangan"
+  ],
+  "body": [
+   "Menteri Pekerjaan Umum Dody Hanggodo meninjau Kawasan Sentra Swasembada Pangan, Energi, dan Air Nasional (KSPEAN) di Wanam, Kabupaten Merauke, Papua Selatan, pada Kamis (8/10/2026). Kunjungan ini untuk memastikan jaringan irigasi di kawasan tersebut siap menopang lahan sawah baru hingga memasuki masa panen pertama, salah satu proyek yang masuk dalam agenda swasembada pangan nasional.",
+   "Dody menyebut ketersediaan air tawar menjadi penentu keberhasilan sawah di Wanam, apalagi kawasan itu masih mengalirkan air meski sedang musim kemarau. Untuk itu Kementerian PU membangun jaringan irigasi rawa lengkap dengan saluran primer dan sekunder, ditambah infrastruktur pengendalian banjir, agar pasokan air ke lahan pertanian tetap terjaga sepanjang tahun.",
+   "Sampai 1 Oktober 2026, seluas 40 hektare lahan di area KM 21 sudah ditanami padi sebagai tahap pertama, dengan target panen perdana pada awal hingga pertengahan November 2026. Secara keseluruhan, pembangunan jaringan saluran air di KSPEAN Merauke menyasar 180 kilometer, dan hingga awal Oktober 2026 sudah terealisasi 133 kilometer, atau sekitar tiga perempat dari target.",
+   "Dody menegaskan pengembangan pertanian di kawasan ini dilakukan bertahap, dengan infrastruktur air disiapkan lebih dulu sebelum luas lahan tanam diperbesar."
+  ],
+  "fotoAdegan": "Lush green rice paddies bordered by a wide irrigation canal under a dry-season sky in a rural lowland area",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac8b43b95077-menteri-pekerjaan-umum-pu-dody-hanggodo-kemeja-abu-abu-tengah-meninjau-kawasan-sentra-swasembada-pangan-energi-dan-air-nasional-kspean-di-wanam-kabupaten-merauke-papua-selatan-kamis-8102026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah progres saluran air di Merauke yang sudah mencapai 133 dari target 180 kilometer, sementara uji tanam padi baru menyentuh 40 hektare dari kawasan yang direncanakan jauh lebih luas untuk program lumbung pangan di Papua Selatan. Yang langsung terdampak adalah warga dan calon petani di Wanam, serta program swasembada pangan nasional yang menempatkan Merauke sebagai salah satu lokasi andalannya. Pola yang terlihat adalah proyek ini masih berada di tahap uji coba skala kecil sebelum diperluas, karena pembangunan infrastrukturnya sendiri belum tuntas dan baru sekitar tiga perempat jalan. Yang akan menentukan apakah proyek ini benar-benar siap naik skala adalah hasil panen perdana yang dijadwalkan awal sampai pertengahan November 2026, dan apakah luas lahan tanam bertambah setelah masa panen itu.",
+  "imageV": "mv0u3zig"
+ },
+ {
   "slug": "tara-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
   "category": "Aksi Korporasi",
   "title": "TARA Jelaskan ke BEI soal [Volatilitas] Transaksi Sahamnya",
@@ -290,7 +343,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah perluasan hilirisasi nikel dari sekadar mengolah bahan tambang menjadi produk jadi seperti baterai kendaraan listrik, aluminium, dan komponen panel surya, lewat tambahan investasi US$10,2 miliar untuk 11 proyek baru di satu kawasan. Yang paling terdampak adalah Maluku Utara sendiri, karena ekonominya sudah sangat bergantung pada kawasan ini, hampir separuh (48,93 persen) nilai ekonomi daerah berasal dari industri pengolahan nikel, dan lebih dari 100.000 orang bekerja di sana. Ini menunjukkan arah hilirisasi bergeser dari sekadar menjual nikel olahan ke luar negeri menuju produk bernilai tambah lebih tinggi seperti baterai kendaraan listrik. Namun ketergantungan ekonomi daerah yang sebesar itu pada satu kawasan industri juga berarti pertumbuhan tinggi itu rentan jika permintaan nikel global melemah, sehingga yang perlu dicermati adalah apakah pertumbuhan ekonomi Maluku Utara pada kuartal III 2026 masih bertahan tinggi atau mulai melambat.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "airlangga-talenta-digital-kunci-ekonomi-ri-ke-depan",
@@ -318,7 +371,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Tidak ada aturan atau anggaran baru yang diumumkan dalam pidato ini. Isinya adalah kumpulan program yang sudah berjalan: insentif pengurangan pajak hingga 200 persen untuk riset, kerja sama desain chip dengan ARM Holdings, keanggotaan pendiri WAICO, dan target pembangkit surya 100 gigawatt. Yang terdampak langsung adalah pelaku industri semikonduktor dan startup digital yang jadi sasaran insentif, sektor hilirisasi sawit dan mineral yang disebut sebagai andalan ekspor, serta 531 mahasiswa penerima beasiswa UNNES tahun ini. Ada dua kemungkinan arah dari narasi ini, pemerintah benar-benar mengalihkan mesin pertumbuhan dari hilirisasi tambang ke digital dan energi hijau karena laju ekspor mineral mulai melandai setelah melonjak sejak 2016, atau pidato ini sekadar pengulangan narasi ekonomi masa depan tanpa program baru yang mengikat. Itu akan lebih jelas terlihat dari realisasi target PLTS 100 gigawatt dan aturan turunan insentif pajak riset, yang belum punya tenggat pasti dalam siaran ini.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "pgli-gelar-public-expose-usai-bursa-suspensi-sahamnya",

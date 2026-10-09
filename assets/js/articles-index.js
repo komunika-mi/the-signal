@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "motogp-mandalika-2026-buka-kerja-musiman-untuk-warga-lombok",
+  "category": "Ketenagakerjaan",
+  "title": "MotoGP Mandalika 2026 Buka Kerja [Musiman] untuk Warga Lombok",
+  "deck": "Gelaran Pertamina Grand Prix of Indonesia 2026 di Sirkuit Mandalika membuka lowongan musiman bagi warga Lombok, dari petugas kebersihan hingga pengelola sampah.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/motogp-mandalika-2026-buka-kerja-musiman-untuk-warga-lombok.jpg",
+  "imageV": "mv0u3z12",
+  "tags": [
+   "pertamina",
+   "mandalika",
+   "lombok",
+   "ketenagakerjaan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472078-pertamina-grand-prix-of-indonesia-2026-ciptakan-peluang-kerja-musiman-bagi-warga-lombok"
+ },
+ {
+  "slug": "menteri-pu-pastikan-irigasi-siap-untuk-panen-perdana-di-merauke",
+  "category": "Makroekonomi",
+  "title": "Menteri PU Pastikan Irigasi Siap untuk [Panen] Perdana di Merauke",
+  "deck": "Dody Hanggodo meninjau KSPEAN Wanam, Merauke, memastikan irigasi siap menopang panen perdana padi di lahan 40 hektare pada November 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/menteri-pu-pastikan-irigasi-siap-untuk-panen-perdana-di-merauke.jpg",
+  "imageV": "mv0u3zig",
+  "tags": [
+   "Kementerian PU",
+   "KSPEAN",
+   "Merauke",
+   "Swasembada Pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472074-tinjau-kspean-wanam-menteri-dody-pastikan-panen-perdana-dukung-visi-presiden-prabowo"
+ },
+ {
   "slug": "tara-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
   "category": "Aksi Korporasi",
   "title": "TARA Jelaskan ke BEI soal [Volatilitas] Transaksi Sahamnya",
@@ -6443,41 +6477,5 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/pemungutan-pph-pasal-22-melalui-marketplace-mulai-dilaksanakan-1-oktober-2026",
   "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "esdm-petakan-zona-rawan-gempa-demi-tata-ruang-nagekeo",
-  "category": "Energi",
-  "title": "ESDM Petakan Zona [Rawan] Gempa demi Tata Ruang Nagekeo",
-  "deck": "Kementerian ESDM mendorong Pemkab Nagekeo memasukkan tingkat kerawanan gempa, longsor, dan banjir ke dalam tata ruang pembangunan daerah.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/esdm-petakan-zona-rawan-gempa-demi-tata-ruang-nagekeo.jpg",
-  "imageV": "mupsrsq6",
-  "tags": [
-   "ESDM",
-   "Nagekeo",
-   "mitigasi bencana",
-   "tata ruang"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-dorong-tata-ruang-nagekeo-berbasis-mitigasi-bencana",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "bahlil-rangkap-jabatan-koordinasi-hilirisasi-dan-energi-disatukan",
-  "category": "Energi",
-  "title": "Bahlil Rangkap Jabatan, Koordinasi [Hilirisasi] dan Energi Disatukan",
-  "deck": "Presiden Prabowo Subianto melantik Bahlil Lahadalia sebagai Menteri Koordinator Hilirisasi dan Transisi Energi, sambil tetap menjabat Menteri ESDM.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/bahlil-rangkap-jabatan-koordinasi-hilirisasi-dan-energi-disatukan.jpg",
-  "imageV": "mupsru5c",
-  "tags": [
-   "Bahlil Lahadalia",
-   "Hilirisasi",
-   "Transisi Energi",
-   "Kementerian ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hilirisasi-dan-transisi-energi-dikoordinasikan-satu-pintu-bahlil-dilantik-sebagai-menko",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

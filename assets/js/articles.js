@@ -29,6 +29,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pertamina-latih-pelaku-homestay-mandalika-jelang-motogp",
+  "category": "UMKM",
+  "title": "Pertamina Latih Pelaku [Homestay] Mandalika Jelang MotoGP",
+  "deck": "Pertamina dan Unram latih pengelola homestay Desa Kuta soal hospitality, bahasa Inggris, dan kelola sampah menjelang MotoGP Mandalika 9-11 Oktober 2026.",
+  "image": "assets/img/pertamina-latih-pelaku-homestay-mandalika-jelang-motogp.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T13:40:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472044-ajang-balapan-jadi-magnet-pertamina-dorong-homestay-lokal-naik-kelas",
+  "tags": [
+   "pertamina",
+   "homestay mandalika",
+   "motogp indonesia 2026",
+   "desa energi berdikari"
+  ],
+  "body": [
+   "Pertamina melalui gelaran Pertamina Grand Prix of Indonesia 2026 tidak hanya menarik wisatawan ke Sirkuit Mandalika, tapi juga ikut mendorong putaran ekonomi warga sekitar. Para pengelola homestay di Desa Kuta, Lombok Tengah, merasakan kenaikan pendapatan menjelang balapan puncak yang berlangsung 9-11 Oktober 2026. Hal ini penting karena menunjukkan ajang olahraga internasional bisa memberi manfaat langsung ke pelaku usaha kecil di sekitar lokasi penyelenggaraan, bukan cuma ke tiket dan sponsor.",
+   "Untuk memastikan manfaat itu berkelanjutan, Pertamina bersama Universitas Mataram memberikan pelatihan hospitality, manajemen homestay, dan bahasa Inggris kepada pengelola serta pekerja penginapan di Desa Kuta, wilayah yang berada tepat di sebelah sirkuit. Corporate Secretary Pertamina Arya Dwi Paramita menyebut penguatan kapasitas warga ini bertujuan agar keberadaan ajang sport tourism di Mandalika memberi manfaat yang lebih luas, bukan hanya dirasakan saat balapan berlangsung. \"Kita melihat ada beberapa kegiatan. Yang pertama adalah kita membantu memberdayakan masyarakat untuk bisa mengelola sampah. Kemudian yang kedua adalah bagaimana masyarakat di sini bisa membantu melayani wisatawan dengan baik,\" kata Arya, Jumat (9/10/2026).",
+   "Selain pelatihan layanan, Pertamina juga mendampingi warga mengelola sampah lewat bank sampah desa. Sampah anorganik diolah menjadi kerajinan dan tas, sementara sampah organik dijadikan pupuk. Proses pengangkutan sampah ditunjang sepeda motor listrik yang diisi dayanya dari panel surya berkapasitas 6,6 kWp dan rumah baterai 20 kWh yang terpasang di Balai Desa Kuta.",
+   "Program pelatihan dan pengelolaan sampah berbasis energi bersih ini merupakan bagian dari skema Desa Energi Berdikari Pertamina, yang memadukan edukasi energi dengan pengembangan ekonomi warga. Desa Kuta masuk kategori wilayah Ring 1 karena posisinya paling dekat dengan sirkuit, sehingga menjadi salah satu desa yang mendapat perhatian khusus dari program ini selama penyelenggaraan MotoGP Mandalika."
+  ],
+  "fotoAdegan": "Workers sorting organic and plastic waste into bins at a small village waste station, an electric motorbike parked beside solar panels, tropical afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac88ad45a4ca-corporate-secretary-pertamina-arya-dwi-paramita-dan-tim-saat-berbincang-dengan-local-hero-dan-perangkat-desa-di-desa-kuta-lombok_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma uang yang masuk saat musim balapan, melainkan infrastruktur permanen: panel surya di Balai Desa Kuta yang mengisi daya motor listrik pengangkut sampah, dilengkapi rumah baterai penyimpan listrik, plus pelatihan hospitality dan bahasa Inggris yang terus berjalan untuk pengelola homestay. Yang kena dampak jelas warga Desa Kuta, pengelola dan pekerja homestay di sana, karena desa ini masuk Ring 1, wilayah paling dekat dengan sirkuit Mandalika. Arahnya, Pertamina tidak sekadar jadi sponsor balapan musiman, tapi membangun kapasitas ekonomi warga sekitar sirkuit secara bertahap lewat pelatihan dan energi bersih, supaya manfaatnya tidak habis begitu MotoGP usai. Yang akan membuktikan apakah pola ini benar berlanjut adalah apakah program serupa diperluas ke desa Ring 1 lain di sekitar Mandalika, atau apakah Pertamina merilis data peningkatan pendapatan homestay setelah balapan 9-11 Oktober 2026 ini selesai.",
+  "imageV": "mv0pw5z1"
+ },
+ {
   "slug": "lopi-panggil-rupslb-ketiga-bahas-pmthmetd",
   "category": "Aksi Korporasi",
   "title": "LOPI Panggil RUPSLB Ketiga Bahas [PMTHMETD]",
@@ -53,6 +80,33 @@ var ARTICLES = [
   "fotoAdegan": "Interior of a logistics warehouse with stacked cargo pallets and forklifts moving boxes under bright industrial lighting, Jakarta",
   "takeaway": "Laporan ini saya nilai netral karena dokumennya baru memuat agenda persetujuan, belum menyebut berapa saham baru yang akan diterbitkan, harga pelaksanaannya, atau siapa yang akan menyerapnya, sehingga besar dampaknya belum bisa diukur. Yang justru patut dicatat adalah rapat ini sudah dua kali gagal kuorum, tanda lemahnya partisipasi pemegang saham untuk agenda yang menyangkut hak mereka sendiri. PMTHMETD berarti penambahan saham baru tanpa memberi kesempatan pertama kepada pemegang saham lama untuk membeli lebih dulu, jadi kalau mereka tidak ikut serta, porsi kepemilikan dan laba per saham yang jadi hak mereka bisa mengecil karena jumlah saham beredar bertambah tanpa laba perusahaan otomatis naik sebanding. Yang perlu dipantau berikutnya adalah apakah RUPSLB ketiga pada 19 Oktober 2026 akhirnya mencapai kuorum, dan jika disetujui, rincian jumlah serta harga saham baru yang biasanya diumumkan setelah rapat.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "mandiri-jadi-bank-pertama-kantongi-lisensi-bulion",
+  "category": "Perbankan",
+  "title": "Mandiri Jadi Bank Pertama Kantongi Lisensi [Bulion]",
+  "deck": "Bank Mandiri meluncurkan layanan emas terintegrasi di Livin' by Mandiri setelah menjadi bank konvensional pertama di Indonesia yang mengantongi lisensi bulion dari OJK.",
+  "image": "assets/img/mandiri-jadi-bank-pertama-kantongi-lisensi-bulion.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T13:11:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472039-bank-mandiri-resmi-hadirkan-ekosistem-bulion-terintegrasi-di-livin-by-mandiri",
+  "tags": [
+   "emas",
+   "bulion",
+   "bank mandiri",
+   "livin by mandiri"
+  ],
+  "body": [
+   "Bank Mandiri resmi menghadirkan layanan emas atau bulion yang terintegrasi langsung di dalam aplikasi Livin' by Mandiri, bertepatan dengan peringatan HUT ke-28 perseroan. Langkah ini penting karena Bank Mandiri kini menjadi bank konvensional pertama di Indonesia yang mengantongi lisensi bulion dari Otoritas Jasa Keuangan, membuka jalan bagi perbankan besar untuk masuk ke bisnis emas fisik yang sebelumnya lebih banyak dikuasai pegadaian dan toko emas.",
+   "Peluncuran ini juga merespons tren permintaan emas yang sedang menanjak. Menurut laporan Gold Demand Trends kuartal II 2026 dari World Gold Council, permintaan emas batangan dan koin di Indonesia melonjak 40 persen secara tahunan menjadi 15 ton. Lonjakan ini menunjukkan makin banyak masyarakat memandang emas sebagai cara mengamankan nilai kekayaan di tengah ketidakpastian ekonomi global, dan itu yang coba ditangkap Bank Mandiri lewat layanan barunya.",
+   "Lewat layanan ini, pengguna Livin' by Mandiri bisa membuka tabungan emas, membeli dan menjual, mencicil, menitipkan, hingga menarik emas fisik secara nyata, semuanya dari satu aplikasi tanpa perlu berpindah ke layanan lain, dan bisa dilakukan kapan saja selama 24 jam penuh. Direktur Consumer Banking Bank Mandiri, Saptari, mengatakan layanan ini dirancang sebagai solusi perlindungan nilai dan akumulasi kekayaan yang aman serta mudah diakses oleh seluruh lapisan masyarakat.",
+   "Bank Mandiri menyebut inisiatif ini sejalan dengan Roadmap Pengembangan dan Penguatan Perbankan Indonesia atau RP2I milik OJK, yang memang mendorong penguatan ekosistem bulion di dalam negeri. Artinya, lisensi ini bukan sekadar produk tunggal, melainkan bagian dari arah kebijakan yang lebih luas untuk merapikan dan memperluas pasar emas fisik lewat jalur perbankan resmi."
+  ],
+  "fotoAdegan": "Close-up of small gold bars and coin stacks arranged on a bank counter, soft indoor lighting, shallow depth of field",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac8844980434-bank-mandiri-resmi-hadirkan-ekosistem-bulion-terintegrasi-di-livin-by-mandiri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar fitur baru di aplikasi, melainkan status Bank Mandiri sebagai bank konvensional pertama yang mengantongi lisensi bulion dari OJK, sehingga emas fisik kini bisa dibeli, dicicil, dititipkan, dan ditarik lewat aplikasi bank besar, bukan hanya lewat pegadaian atau toko emas seperti sebelumnya. Yang terdampak langsung adalah nasabah Livin' by Mandiri yang berminat menyimpan atau membeli emas, tapi langkah ini juga berpotensi membuka jalan bagi bank lain untuk mengajukan lisensi serupa, karena Bank Mandiri sendiri mengaitkan langkah ini dengan roadmap OJK yang memang mendorong penguatan ekosistem bulion nasional. Dengan permintaan emas batangan dan koin yang sudah naik 40 persen dalam setahun menurut data World Gold Council, lisensi ini kemungkinan jadi yang pertama dari gelombang masuknya bank-bank lain ke bisnis emas fisik, bukan kasus yang berdiri sendiri. Yang akan memastikan arah ini adalah apakah OJK memberikan lisensi bulion serupa ke bank konvensional lain dalam waktu dekat, sesuatu yang perlu dipantau dari pengumuman OJK berikutnya.",
+  "imageV": "mv0pw6bu"
  },
  {
   "slug": "11-proyek-hilirisasi-nikel-senilai-rp180-triliun-diluncurkan-di-iwip",
@@ -80,7 +134,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah perluasan hilirisasi nikel dari sekadar mengolah bahan tambang menjadi produk jadi seperti baterai kendaraan listrik, aluminium, dan komponen panel surya, lewat tambahan investasi US$10,2 miliar untuk 11 proyek baru di satu kawasan. Yang paling terdampak adalah Maluku Utara sendiri, karena ekonominya sudah sangat bergantung pada kawasan ini, hampir separuh (48,93 persen) nilai ekonomi daerah berasal dari industri pengolahan nikel, dan lebih dari 100.000 orang bekerja di sana. Ini menunjukkan arah hilirisasi bergeser dari sekadar menjual nikel olahan ke luar negeri menuju produk bernilai tambah lebih tinggi seperti baterai kendaraan listrik. Namun ketergantungan ekonomi daerah yang sebesar itu pada satu kawasan industri juga berarti pertumbuhan tinggi itu rentan jika permintaan nikel global melemah, sehingga yang perlu dicermati adalah apakah pertumbuhan ekonomi Maluku Utara pada kuartal III 2026 masih bertahan tinggi atau mulai melambat.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "airlangga-talenta-digital-kunci-ekonomi-ri-ke-depan",
@@ -108,7 +162,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Tidak ada aturan atau anggaran baru yang diumumkan dalam pidato ini. Isinya adalah kumpulan program yang sudah berjalan: insentif pengurangan pajak hingga 200 persen untuk riset, kerja sama desain chip dengan ARM Holdings, keanggotaan pendiri WAICO, dan target pembangkit surya 100 gigawatt. Yang terdampak langsung adalah pelaku industri semikonduktor dan startup digital yang jadi sasaran insentif, sektor hilirisasi sawit dan mineral yang disebut sebagai andalan ekspor, serta 531 mahasiswa penerima beasiswa UNNES tahun ini. Ada dua kemungkinan arah dari narasi ini, pemerintah benar-benar mengalihkan mesin pertumbuhan dari hilirisasi tambang ke digital dan energi hijau karena laju ekspor mineral mulai melandai setelah melonjak sejak 2016, atau pidato ini sekadar pengulangan narasi ekonomi masa depan tanpa program baru yang mengikat. Itu akan lebih jelas terlihat dari realisasi target PLTS 100 gigawatt dan aturan turunan insentif pajak riset, yang belum punya tenggat pasti dalam siaran ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pgli-gelar-public-expose-usai-bursa-suspensi-sahamnya",

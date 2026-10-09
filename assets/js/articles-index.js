@@ -21,6 +21,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pertamina-latih-pelaku-homestay-mandalika-jelang-motogp",
+  "category": "UMKM",
+  "title": "Pertamina Latih Pelaku [Homestay] Mandalika Jelang MotoGP",
+  "deck": "Pertamina dan Unram latih pengelola homestay Desa Kuta soal hospitality, bahasa Inggris, dan kelola sampah menjelang MotoGP Mandalika 9-11 Oktober 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/pertamina-latih-pelaku-homestay-mandalika-jelang-motogp.jpg",
+  "imageV": "mv0pw5z1",
+  "tags": [
+   "pertamina",
+   "homestay mandalika",
+   "motogp indonesia 2026",
+   "desa energi berdikari"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472044-ajang-balapan-jadi-magnet-pertamina-dorong-homestay-lokal-naik-kelas"
+ },
+ {
   "slug": "lopi-panggil-rupslb-ketiga-bahas-pmthmetd",
   "category": "Aksi Korporasi",
   "title": "LOPI Panggil RUPSLB Ketiga Bahas [PMTHMETD]",
@@ -35,6 +52,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/555fa206f8_27c84096e5.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mandiri-jadi-bank-pertama-kantongi-lisensi-bulion",
+  "category": "Perbankan",
+  "title": "Mandiri Jadi Bank Pertama Kantongi Lisensi [Bulion]",
+  "deck": "Bank Mandiri meluncurkan layanan emas terintegrasi di Livin' by Mandiri setelah menjadi bank konvensional pertama di Indonesia yang mengantongi lisensi bulion dari OJK.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/mandiri-jadi-bank-pertama-kantongi-lisensi-bulion.jpg",
+  "imageV": "mv0pw6bu",
+  "tags": [
+   "emas",
+   "bulion",
+   "bank mandiri",
+   "livin by mandiri"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472039-bank-mandiri-resmi-hadirkan-ekosistem-bulion-terintegrasi-di-livin-by-mandiri"
  },
  {
   "slug": "11-proyek-hilirisasi-nikel-senilai-rp180-triliun-diluncurkan-di-iwip",
@@ -6450,39 +6484,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hr-cpo-dan-hpe-biji-kakao-naik-hpe-getah-pinus-turun-hpe-produk-kulit-tetap-hpe-produk-kayu-bervariasi-pada-oktober-2026",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ekspor-agustus-tembus-us-26-61-miliar-manufaktur-jadi-penopang",
-  "category": "Makroekonomi",
-  "title": "Ekspor Agustus Tembus US$26,61 Miliar, [Manufaktur] Jadi Penopang",
-  "deck": "Ekspor Indonesia Agustus 2026 tumbuh 6,72 persen menjadi US$26,61 miliar, ditopang manufaktur yang naik 12,48 persen, sementara neraca dagang surplus US$3,55 miliar.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/terminal-bus.jpg",
-  "tags": [
-   "ekspor",
-   "neraca dagang",
-   "manufaktur",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ekspor-agustus-2026-tembus-usd-2661-miliar-mendag-busan-manufaktur-jadi-motor-utama",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bi-perluas-obligasi-korporasi-untuk-jaminan-likuiditas-bank",
-  "category": "Moneter",
-  "title": "BI [Perluas] Obligasi Korporasi untuk Jaminan Likuiditas Bank",
-  "deck": "Bank Indonesia menambah obligasi dan sukuk korporasi BUMN sebagai jaminan dalam operasi moneter, memperluas opsi likuiditas bagi perbankan.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/bi-perluas-obligasi-korporasi-untuk-jaminan-likuiditas-bank.jpg",
-  "imageV": "mupnb676",
-  "tags": [
-   "Bank Indonesia",
-   "Operasi Moneter",
-   "Obligasi Korporasi",
-   "SMF"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2820726.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

@@ -5,6 +5,58 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penjualan-eceran-september-2026-diprakirakan-naik-1-4",
+  "category": "Makroekonomi",
+  "title": "Penjualan Eceran September 2026 Diprakirakan [Naik] 1,4%",
+  "deck": "Bank Indonesia memprakirakan penjualan eceran tumbuh 1,4 persen secara tahunan pada September 2026, sementara ekspektasi harga untuk dua periode mendatang ikut menguat.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penjualan-eceran-september-2026-diprakirakan-naik-1-4.jpg",
+  "imageV": "mv0dur8h",
+  "tags": [
+   "Penjualan Eceran",
+   "Bank Indonesia",
+   "Inflasi",
+   "Survei BI"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821726.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "menteri-transmigrasi-jadikan-rempang-contoh-ekonomi-kawasan",
+  "category": "Ketenagakerjaan",
+  "title": "Menteri Transmigrasi Jadikan [Rempang] Contoh Ekonomi Kawasan",
+  "deck": "Menteri Transmigrasi Iftitah Sulaiman menjadikan Rempang-Galang contoh kawasan yang diarahkan ke industri dan lapangan kerja, bukan sekadar perpindahan penduduk.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/menteri-transmigrasi-jadikan-rempang-contoh-ekonomi-kawasan.jpg",
+  "imageV": "mv0durnf",
+  "tags": [
+   "transmigrasi",
+   "rempang",
+   "batam",
+   "kepulauan riau"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472012-menteri-transmigrasi-dorong-ekonomi-kawasan-rempang-jadi-contoh"
+ },
+ {
+  "slug": "grand-prix-mandalika-dorong-ekonomi-lokal-lombok",
+  "category": "UMKM",
+  "title": "Grand Prix Mandalika Dorong [Ekonomi] Lokal Lombok",
+  "deck": "Balapan dunia di Sirkuit Mandalika, Lombok, pada 9-11 Oktober 2026 kembali mendongkrak penjualan UMKM kuliner dan jasa wisata lokal.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/grand-prix-mandalika-dorong-ekonomi-lokal-lombok.jpg",
+  "imageV": "mv0duscg",
+  "tags": [
+   "pertamina",
+   "mandalika",
+   "lombok",
+   "umkm"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472011-dampak-pertamina-grand-prix-of-indonesia-2026-aktivitas-ekonomi-lokal-kian-melesat"
+ },
+ {
   "slug": "btps-investor-non-insider-lapor-perubahan-kepemilikan-saham",
   "category": "Aksi Korporasi",
   "title": "BTPS: Investor Non-Insider Lapor Perubahan [Kepemilikan] Saham",
@@ -570,6 +622,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-7889-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bp-batam-susun-7-pilar-genjot-ekosistem-investasi",
+  "category": "Bisnis",
+  "title": "BP Batam Susun 7 Pilar, Genjot [Ekosistem] Investasi",
+  "deck": "BP Batam merumuskan tujuh pilar pembangunan kawasan, dengan penekanan khusus pada dukungan berkelanjutan bagi investasi yang sudah masuk ke Batam.",
+  "date": "8 Oktober 2026",
+  "image": "assets/img/bp-batam-susun-7-pilar-genjot-ekosistem-investasi.jpg",
+  "imageV": "mv0dusrw",
+  "tags": [
+   "batam",
+   "bp batam",
+   "investasi",
+   "barelang"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471920-7-pilar-pengembangan-batam-investasi-masuk-harus-didukung-ekosistem-yang-siap"
  },
  {
   "slug": "kdtn-rencana-akuisisi-ruby-mining-tertunda-direksi-berganti",
@@ -6416,70 +6485,6 @@ var ARTICLES = [
    "Trimitra Prawara Goldland"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/176baf87a7_c08fd137b0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kras-gabungkan-empat-anak-usaha-jadi-satu-penggabungan",
-  "category": "Aksi Korporasi",
-  "title": "KRAS Gabungkan Empat Anak Usaha Jadi Satu [Penggabungan]",
-  "deck": "Krakatau Steel menggabungkan empat anak usaha baja menjadi satu entitas di bawah KBK, transaksi afiliasi yang dikecualikan dari prosedur khusus POJK karena seluruh pihak dikuasai penuh perseroan.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KRAS",
-   "Krakatau Steel",
-   "transaksi afiliasi",
-   "restrukturisasi anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/320fd6eb9d_0cb6d509f8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dnrk-laporkan-ulang-realisasi-dana-obligasi-viii-ke-ojk",
-  "category": "Aksi Korporasi",
-  "title": "DNRK laporkan ulang [realisasi] dana Obligasi VIII ke OJK",
-  "deck": "Danareksa menyampaikan kembali laporan realisasi penggunaan dana Obligasi VIII senilai Rp1 triliun menyusul tanggapan OJK, dengan sisa dana Rp79,13 miliar disimpan di deposito afiliasi.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DNRK",
-   "Danareksa",
-   "obligasi",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b931d3be29_a43c4af957.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmtr-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "BMTR Jawab Bursa Soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "BEI meminta penjelasan atas volatilitas transaksi saham BMTR. Global Mediacom membantah ada informasi material, namun akan mengecek rencana pemegang saham mayoritasnya.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMTR",
-   "Global Mediacom",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fbb150c673_90c7522199.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bhit-jelaskan-ke-bei-lonjakan-transaksi-harga-turun-4-76",
-  "category": "Aksi Korporasi",
-  "title": "BHIT Jelaskan ke BEI [Lonjakan] Transaksi, Harga Turun 4,76%",
-  "deck": "Setelah volume sahamnya melonjak sembilan kali lipat dan harga turun 4,76 persen pada 28 September, MNC Asia Holding menyatakan ke bursa tak ada informasi material di baliknya.",
-  "date": "1 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BHIT",
-   "MNC Asia Holding",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/beeefc8545_94772167df.pdf",
   "sourceLabel": "IDX"
  }
 ];

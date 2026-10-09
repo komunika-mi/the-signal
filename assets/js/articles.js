@@ -3,6 +3,87 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "penjualan-eceran-september-2026-diprakirakan-naik-1-4",
+  "category": "Makroekonomi",
+  "title": "Penjualan Eceran September 2026 Diprakirakan [Naik] 1,4%",
+  "deck": "Bank Indonesia memprakirakan penjualan eceran tumbuh 1,4 persen secara tahunan pada September 2026, sementara ekspektasi harga untuk dua periode mendatang ikut menguat.",
+  "image": "assets/img/penjualan-eceran-september-2026-diprakirakan-naik-1-4.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T03:00:26.490Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821726.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Penjualan Eceran",
+   "Bank Indonesia",
+   "Inflasi",
+   "Survei BI"
+  ],
+  "body": [
+   "Bank Indonesia memprakirakan penjualan eceran pada September 2026 tumbuh 1,4 persen dibandingkan periode yang sama tahun lalu, sedikit lebih tinggi dari pertumbuhan 1,3 persen pada Agustus. Angka ini berasal dari Indeks Penjualan Riil (IPR), ukuran omset ritel yang sudah disesuaikan dengan inflasi, yang diprakirakan berada di level 221,3. Data semacam ini penting karena jadi salah satu indikator awal seberapa kuat belanja masyarakat, sebelum data konsumsi resmi dari Badan Pusat Statistik terbit.",
+   "Kenaikan penjualan tahunan itu ditopang oleh kelompok Barang Lainnya, Perlengkapan Rumah Tangga Lainnya, serta Barang Budaya dan Rekreasi. Namun dibandingkan bulan sebelumnya, penjualan eceran September justru diprakirakan turun 2,3 persen, terutama karena melemahnya penjualan Kelompok Makanan, Minuman, dan Tembakau setelah sempat ramai pada bulan sebelumnya.",
+   "Realisasi Agustus 2026 menunjukkan IPR tumbuh 1,3 persen dibanding tahun sebelumnya, naik dari 1,1 persen pada Juli, didorong oleh Kelompok Makanan, Minuman, dan Tembakau serta Kelompok Suku Cadang dan Aksesori. Secara bulanan, penjualan Agustus tumbuh 0,8 persen, berbalik dari kontraksi 0,1 persen pada Juli, seiring permintaan yang terjaga saat periode peringatan Hari Kemerdekaan RI.",
+   "Dari sisi harga, Bank Indonesia juga mencatat Indeks Ekspektasi Harga untuk November 2026 dan Februari 2027 masing-masing berada di 149,9 dan 177,9, naik dari proyeksi sebelumnya yang sebesar 146,5 dan 166,0. Indeks ini menggambarkan perkiraan pelaku usaha ritel sendiri tentang ke mana arah harga barang akan bergerak, dan kenaikannya berarti mereka memperkirakan tekanan harga akan lebih tinggi pada dua periode tersebut dibanding perkiraan bulan lalu."
+  ],
+  "fotoAdegan": "Customers pushing shopping carts through a well-stocked grocery aisle in a busy Indonesian retail supermarket, daytime lighting.",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_275625/sp_275625_SPE.JPG",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah bukan sekadar angka tahunan yang naik tipis ke 1,4 persen, melainkan arah bulanannya yang justru turun 2,3 persen karena penjualan makanan dan minuman melambat setelah sempat terdorong momentum peringatan Kemerdekaan RI di Agustus. Dampaknya kena langsung ke pelaku usaha ritel, yang omsetnya naik turun mengikuti musim dan hari besar, bukan karena tren konsumsi yang benar-benar menguat. Yang lebih layak dicermati adalah Indeks Ekspektasi Harga untuk November 2026 dan Februari 2027 yang naik dibanding proyeksi bulan sebelumnya, sinyal bahwa pelaku usaha ritel sendiri memperkirakan harga barang akan naik lebih tinggi menjelang akhir tahun dan awal tahun depan. Kombinasi penjualan yang melambat bulanan tapi ekspektasi harga yang menguat ini mengarah ke pola musiman biasa ketimbang pergeseran tren besar, dan itu akan lebih jelas terlihat dari data penjualan eceran Oktober 2026 serta rilis inflasi resmi BPS untuk November mendatang.",
+  "imageV": "mv0dur8h"
+ },
+ {
+  "slug": "menteri-transmigrasi-jadikan-rempang-contoh-ekonomi-kawasan",
+  "category": "Ketenagakerjaan",
+  "title": "Menteri Transmigrasi Jadikan [Rempang] Contoh Ekonomi Kawasan",
+  "deck": "Menteri Transmigrasi Iftitah Sulaiman menjadikan Rempang-Galang contoh kawasan yang diarahkan ke industri dan lapangan kerja, bukan sekadar perpindahan penduduk.",
+  "image": "assets/img/menteri-transmigrasi-jadikan-rempang-contoh-ekonomi-kawasan.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T07:52:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472012-menteri-transmigrasi-dorong-ekonomi-kawasan-rempang-jadi-contoh",
+  "tags": [
+   "transmigrasi",
+   "rempang",
+   "batam",
+   "kepulauan riau"
+  ],
+  "body": [
+   "Kementerian Transmigrasi mengubah cara mengukur keberhasilan program transmigrasi. Yang kini jadi patokan bukan lagi berapa banyak penduduk yang dipindahkan atau berapa luas kawasan baru yang dibuka, melainkan apakah kawasan itu mampu menghasilkan kegiatan ekonomi dan lapangan kerja bagi warganya.",
+   "Menteri Transmigrasi Muhammad Iftitah Sulaiman Suryanagara menyampaikan perubahan arah ini dalam Workshop Kehumasan dan Media Gathering Kementerian Transmigrasi 2026 di Batam, Kamis, 8 Oktober 2026. Ia memakai kawasan Rempang-Galang di Kepulauan Riau sebagai contoh, sekaligus menegaskan bahwa warga yang sudah lebih dulu tinggal di kawasan tersebut harus bisa ikut mengambil bagian dalam aktivitas ekonomi yang tumbuh, bukan hanya jadi penonton saat investasi industri masuk.",
+   "Arah baru ini dikaitkan dengan konsep Trans Karya Nusantara, dengan slogan Kawasan Berkarya, Nusantara Berdaya. Program ini menyasar pengembangan industri lokal unggulan mulai dari pertanian, perikanan, pengolahan, hingga pariwisata, dengan tujuan membuka lapangan kerja dan menggerakkan roda ekonomi di tingkat kawasan.",
+   "Dalam pendekatan itu, kehadiran investor tidak lagi dinilai hanya dari besarnya nilai investasi yang dibawa, tapi juga dari seberapa besar peluang ekonomi yang tercipta bagi masyarakat setempat. Iftitah menyebut tantangan ini relevan khususnya bagi Batam dan Kepulauan Riau, mengingat posisinya yang berdekatan dengan Singapura dan Malaysia."
+  ],
+  "fotoAdegan": "Coastal land being cleared for development near a fishing village, small boats docked at a wooden pier, overcast tropical light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac839f2295b7-menteri-transmigrasi-m-iftitah-sulaiman-suryanagara-menyampaikan-keterangan-kepada-awak-media-dalam-workshop-kehumasan-dan-media-gathering-kementerian-transmigrasi-2026-di-batam-kepulauan-riau-8-10-oktober-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan yang digarisbawahi di sini adalah ukuran keberhasilan transmigrasi, dari banyaknya penduduk yang dipindah dan luasnya kawasan baru yang dibuka, menjadi kemampuan kawasan menciptakan lapangan kerja dan ekonomi bagi warganya. Rempang-Galang dipakai sebagai contoh, dengan penekanan bahwa warga yang sudah tinggal di kawasan itu harus kebagian peluang kerja saat investasi industri masuk, bukan sekadar jadi penonton pembangunan. Program Trans Karya Nusantara yang menaunginya menyasar sektor pertanian, perikanan, pengolahan, dan pariwisata, tapi pernyataan ini belum menyebut target jumlah lapangan kerja, nilai investasi, atau kawasan lain yang akan memakai pendekatan serupa. Yang masih perlu dipantau adalah aturan atau peta jalan resmi Trans Karya Nusantara, serta data konkret dari Rempang sendiri, misalnya berapa warga setempat yang sudah terserap dalam kegiatan ekonomi baru, karena tanpa itu klaim keberhasilan paradigma ini masih sebatas narasi.",
+  "imageV": "mv0durnf"
+ },
+ {
+  "slug": "grand-prix-mandalika-dorong-ekonomi-lokal-lombok",
+  "category": "UMKM",
+  "title": "Grand Prix Mandalika Dorong [Ekonomi] Lokal Lombok",
+  "deck": "Balapan dunia di Sirkuit Mandalika, Lombok, pada 9-11 Oktober 2026 kembali mendongkrak penjualan UMKM kuliner dan jasa wisata lokal.",
+  "image": "assets/img/grand-prix-mandalika-dorong-ekonomi-lokal-lombok.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T07:46:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472011-dampak-pertamina-grand-prix-of-indonesia-2026-aktivitas-ekonomi-lokal-kian-melesat",
+  "tags": [
+   "pertamina",
+   "mandalika",
+   "lombok",
+   "umkm"
+  ],
+  "body": [
+   "Pertamina Grand Prix of Indonesia 2026, ajang balap internasional yang berlangsung pada 9-11 Oktober 2026 di Sirkuit Mandalika, Lombok, Nusa Tenggara Barat, kembali menjadi momentum bagi pelaku usaha lokal untuk mendongkrak penjualan. PT Pertamina (Persero) menyebut dukungannya terhadap ajang ini sebagai bagian dari pengembangan sport tourism yang diharapkan memperluas manfaat ekonomi bagi masyarakat di sekitar sirkuit.",
+   "Salah satu yang merasakan dampaknya adalah Rumah Makan Sate Rembiga milik Hj. Sinnaseh di Lombok. Nurul, kasir rumah makan itu, menyebut penjualan pada hari biasa berkisar 1.500 porsi per hari, namun pengunjung membludak dari pagi hingga malam setiap kali ada gelaran Pertamina Grand Prix of Indonesia. Deni, salah satu pekerja di tempat itu, menambahkan bahwa pada penyelenggaraan tahun sebelumnya penjualan sate bisa naik dua kali lipat dibanding hari normal dan keramaian berlangsung hampir sepekan penuh, sehingga para pekerja turut mendapat bonus tambahan.",
+   "Vice President Corporate Communication Pertamina, Muhammad Baron, menjelaskan bahwa kehadiran wisatawan dan penggemar balap membuka ruang bagi usaha akomodasi, kuliner, travel, hingga rental mobil di sekitar Mandalika untuk ikut berkembang. Menurutnya, ajang ini diharapkan memperkuat posisi Lombok sebagai destinasi sport tourism sekaligus mengenalkan Indonesia ke kancah balap dunia."
+  ],
+  "fotoAdegan": "A satay vendor grilling skewers over charcoal at a crowded roadside food stall in Lombok, customers lining up at dusk",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac83830b13eb-dampak-pertamina-grand-prix-of-indonesia-2026-aktivitas-ekonomi-lokal-kian-melesat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret di sini baru terlihat jelas di skala satu usaha: Rumah Makan Sate Rembiga Hj. Sinnaseh, yang penjualan normalnya sekitar 1.500 porsi sehari, mengaku omzetnya bisa naik dua kali lipat dan ramai nonstop hampir sepekan setiap ada balapan di Mandalika. Yang merasakan dampak langsung adalah pelaku usaha kecil di sekitar sirkuit, seperti warung makan, penyedia akomodasi, jasa travel, dan rental mobil di Lombok. Belum ada angka resmi di sini soal total kunjungan wisatawan, tingkat hunian penginapan, atau nilai ekonomi keseluruhan dari gelaran 2026 ini, sehingga klaim ekonomi lokal melesat masih bersandar pada satu contoh usaha dan pernyataan pihak Pertamina sendiri. Yang perlu ditunggu adalah data resmi dari pemerintah daerah NTB atau instansi pariwisata soal jumlah pengunjung dan perputaran uang setelah balapan usai pada 11 Oktober, untuk melihat apakah dampaknya memang seluas yang digambarkan atau terkonsentrasi di segelintir usaha yang paling dekat sirkuit.",
+  "imageV": "mv0duscg"
+ },
+ {
   "slug": "btps-investor-non-insider-lapor-perubahan-kepemilikan-saham",
   "category": "Aksi Korporasi",
   "title": "BTPS: Investor Non-Insider Lapor Perubahan [Kepemilikan] Saham",
@@ -922,6 +1003,33 @@ var ARTICLES = [
   "fotoAdegan": "Heavy haul trucks moving coal along a dusty open-pit mine road, overcast sky, workers visible in the distance",
   "takeaway": "Penambahan ini kami nilai netral bagi Bayan Resources, karena ukurannya hanya sekitar 0,45 persen dari kepemilikan Low sendiri dan belum banyak mengubah hak suaranya. Yang tersentuh di sini adalah hak suara pemegang saham non-pengendali, bukan jumlah saham beredar BYAN secara keseluruhan, sebab transaksi ini jual beli saham yang sudah ada, bukan penerbitan saham baru, sehingga laba per saham perusahaan tidak ikut terdilusi. Pelaku pasar biasanya memperhatikan pergerakan hak suara semacam ini karena bisa jadi sinyal awal perubahan peta kekuatan di antara pemegang saham. Yang perlu dipantau berikutnya adalah apakah akumulasi bertahap oleh Low ini berlanjut, terutama karena terjadi di tengah pelepasan besar saham oleh pendiri dan Direktur Utama Low Tuck Kwong yang membuat hak suaranya anjlok ke 9,95 persen pada pekan yang sama.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bp-batam-susun-7-pilar-genjot-ekosistem-investasi",
+  "category": "Bisnis",
+  "title": "BP Batam Susun 7 Pilar, Genjot [Ekosistem] Investasi",
+  "deck": "BP Batam merumuskan tujuh pilar pembangunan kawasan, dengan penekanan khusus pada dukungan berkelanjutan bagi investasi yang sudah masuk ke Batam.",
+  "image": "assets/img/bp-batam-susun-7-pilar-genjot-ekosistem-investasi.jpg",
+  "date": "8 Oktober 2026",
+  "isoDate": "2026-10-08T16:47:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/471920-7-pilar-pengembangan-batam-investasi-masuk-harus-didukung-ekosistem-yang-siap",
+  "tags": [
+   "batam",
+   "bp batam",
+   "investasi",
+   "barelang"
+  ],
+  "body": [
+   "Badan Pengusahaan (BP) Batam menyusun tujuh pilar sebagai kerangka pembangunan kawasan, dengan tujuan memperkuat daya saing Batam dan menjaga agar investasi yang masuk tidak berhenti sebatas niat perusahaan membuka usaha. Alasannya, menjaga investasi tetap berjalan sama pentingnya dengan menariknya di awal, karena perusahaan yang sudah berdiri tetap butuh dukungan agar bisa bertahan dan berkembang.",
+   "Ketujuh pilar itu meliputi kelembagaan yang kuat, regulasi yang terintegrasi, tata ruang yang komprehensif, infrastruktur yang lengkap, keragaman sektor industri dan bisnis, proses perizinan yang disederhanakan, serta dukungan terhadap investasi yang sudah berjalan. Pilar terakhir disebut paling krusial sebab kesiapan Batam menampung investasi juga diukur dari kemampuannya menyediakan kebutuhan dunia usaha, termasuk tenaga kerja yang memadai.",
+   "Penjelasan ini disampaikan Direktur Pengembangan KPBPB dan KEK BP Batam, Irfan Syakir Widyasa, dalam Workshop Kehumasan dan Media Gathering Kementerian Transmigrasi 2026 bertema Dari Relokasi ke Transformasi, di Hotel Harris, Barelang, Batam, Kepulauan Riau, Kamis (8/10/2026). Ia mengaitkan pilar dukungan investasi itu dengan pengembangan Batam, Rempang, dan Galang sebagai kawasan transmigrasi lokal, agar masyarakat dan SDM setempat ikut mendapat bagian dari peluang ekonomi ketika perusahaan membuka kegiatan usaha di sana.",
+   "Barelang sebelumnya ditetapkan Kementerian Transmigrasi sebagai salah satu proyek percontohan kawasan transmigrasi, bagian dari kebijakan pemerintah di bawah Presiden Prabowo Subianto. Pada Maret 2025, Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono menyebut pengembangan transmigrasi lokal di Barelang sebagai amanah Presiden Prabowo. Konsepnya tidak sebatas memindahkan penduduk, tetapi juga meningkatkan kualitas SDM sekaligus membentuk pusat pertumbuhan ekonomi baru."
+  ],
+  "fotoAdegan": "Workers walking between large industrial warehouses in a coastal free-trade zone, container cranes visible in the distance",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/08/6ac780a23aeda-direktur-perencanaan-dan-pengembangan-investasi-bp-batam-irfan-syakir-widyasa-tengah-saat-menjadi-narasumber-dalam-workshop-kehumasan-dan-media-gathering-kementerian-transmigrasi-2026-di-kepulauan-riau-8-10-oktober-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah kerangka berpikir, bukan aturan baru: BP Batam menegaskan bahwa dukungan ke investasi yang sudah masuk kini dijadikan satu dari tujuh pilar resmi, dan secara sengaja dikaitkan dengan program transmigrasi lokal di Batam, Rempang, dan Galang. Pihak yang disebut langsung terdampak adalah calon investor yang membuka usaha di Batam dan masyarakat atau tenaga kerja lokal di kawasan Barelang yang diharapkan kebagian peluang kerja dari masuknya perusahaan. Pernyataan ini belum memuat angka konkret, seperti berapa anggaran untuk menyiapkan ekosistem itu, skema pelatihan SDM yang dipakai, atau target jumlah perusahaan yang akan dibantu, sehingga arah kebijakannya belum bisa dipastikan sejauh ini. Yang perlu ditunggu adalah dokumen teknis atau peta jalan resmi dari BP Batam bersama Kementerian Transmigrasi yang merinci cara kedua program ini benar-benar disatukan di lapangan.",
+  "imageV": "mv0dusrw"
  },
  {
   "slug": "kdtn-rencana-akuisisi-ruby-mining-tertunda-direksi-berganti",

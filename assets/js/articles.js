@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kota-jadwalkan-ulang-rupslb-pmhmetd-ke-15-oktober",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Jadwalkan Ulang RUPSLB [PMHMETD] ke 15 Oktober",
+  "deck": "PT DMS Propertindo (KOTA) mengubah jadwal RUPSLB dari 6 menjadi 15 Oktober 2026 setelah OJK memberi tanggapan atas rencana penambahan modal dan transaksi material perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T21:33:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/902bfc83d7_d2e39c8432.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "PMHMETD",
+   "OJK"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) mengubah jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya ditetapkan pada Selasa, 6 Oktober 2026, menjadi Kamis, 15 Oktober 2026, pukul 10.00 WIB di Azana Suite Hotel Antasari. Perubahan ini disampaikan lewat surat Nomor 342/DMSP/X/2026 tertanggal 9 Oktober 2026, merujuk pada surat sebelumnya Nomor 338/DMSP/X/2026 tanggal 5 Oktober 2026. Daftar pemegang saham yang berhak hadir dalam RUPSLB (recording date) tidak berubah, tetap per 11 September 2026.",
+   "Perseroan menjelaskan, penjadwalan ulang ini terjadi setelah Otoritas Jasa Keuangan (OJK) mengirim surat tanggapan Nomor S-274/PM.211/206 tanggal 5 Oktober 2026 terkait rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD) dan transaksi material yang akan dibahas dalam RUPSLB. Perseroan telah merespons surat OJK tersebut dan menyesuaikan keterbukaan informasi yang disampaikan ke Bursa Efek Indonesia pada 9 Oktober 2026. Perseroan menyebut jadwal 15 Oktober 2026 itu pun masih tunduk pada konfirmasi lebih lanjut dari OJK, artinya masih berpotensi bergeser lagi.",
+   "Lima agenda yang akan dimintakan persetujuan dalam RUPSLB ini meliputi: persetujuan rencana PMHMETD melalui mekanisme penawaran umum terbatas sesuai POJK No. 32/2015 dan perubahannya POJK No. 14/2019; perubahan Pasal 4 ayat (1) dan (2) anggaran dasar terkait peningkatan modal dasar, modal ditempatkan dan disetor, serta penerbitan saham seri baru yaitu saham Seri B; persetujuan atas rencana transaksi material sesuai POJK No. 17/2020; perubahan Pasal 3 anggaran dasar untuk menyesuaikan klasifikasi baku lapangan usaha (KBLI) tahun 2025; dan persetujuan perubahan rencana penggunaan dana hasil penawaran umum perdana saham (IPO) perseroan. Surat ini ditandatangani oleh Direktur Gema Pratama."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of chairs facing a stage, chandeliers overhead, soft morning light through curtains",
+  "takeaway": "Laporan ini netral bagi KOTA, sebab isinya hanya menggeser tanggal RUPSLB sembilan hari karena menunggu tanggapan OJK, bukan mengubah substansi rencana penambahan modal maupun transaksi material yang nantinya diputuskan pemegang saham. Yang perlu dicermati dari agenda RUPSLB ini adalah dampaknya ke jumlah saham beredar dan ekuitas perseroan: rencana PMHMETD berarti KOTA akan menerbitkan saham baru, termasuk seri B, kepada pemegang saham lama lewat hak memesan efek terlebih dahulu, yang menambah dana masuk ke perseroan tapi juga menambah jumlah saham beredar sehingga laba per saham bisa terdilusi bagi pemegang saham yang tidak ikut menebus haknya. Yang perlu dipantau selanjutnya adalah apakah RUPSLB pada 15 Oktober 2026 benar-benar terlaksana sesuai jadwal baru ini, sebab perseroan sendiri menyebut tanggal tersebut masih bisa berubah menunggu konfirmasi lebih lanjut dari OJK atas rencana PMHMETD dan transaksi material yang menjadi agenda utamanya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "viva-konversi-utang-rp1-72-triliun-jadi-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "VIVA Konversi Utang Rp1,72 Triliun Jadi [Saham] Baru",
+  "deck": "VIVA akan menerbitkan sebanyak-banyaknya 43,09 miliar saham baru tanpa hak memesan efek terlebih dahulu untuk melunasi utang PKPU senilai Rp1,72 triliun kepada dua kreditur, MSP dan BAM.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T21:10:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fc5e442562_847af78bf5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VIVA",
+  "tags": [
+   "VIVA",
+   "PMTHMETD",
+   "restrukturisasi utang",
+   "konversi utang"
+  ],
+  "body": [
+   "PT Visi Media Asia Tbk (VIVA) menyampaikan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) untuk melunasi utang lewat konversi menjadi saham. Berdasarkan keterbukaan informasi tertanggal 9 Oktober 2026, Perseroan akan menerbitkan saham baru seri C sebanyak-banyaknya 43.087.334.600 lembar dengan nilai nominal Rp40 per saham, untuk melunasi Utang PKPU sebesar Rp1.723.493.387.881 kepada dua kreditur, yaitu PT Mandara Sentra Perdana (MSP) dan PT Bina Aksara Muliatama (BAM). Skema ini mengacu pada Perjanjian Konversi Utang VIVA-BAM dan VIVA-MSP yang diteken 15 Desember 2025, dan menurut Perseroan tujuannya adalah memperbaiki posisi keuangan.",
+   "Utang tersebut berasal dari Senior Facility yang diterima entitas anak VIVA, PT Cakrawala Andalas Televisi (CAT) dan PT Lativi Mediakarya (LM), dengan VIVA sebagai penjamin sejak 2017. Setelah proses penundaan kewajiban pembayaran utang (PKPU) yang dihomologasi Pengadilan Niaga Jakarta Pusat pada 8 November 2024, sisa utang Senior Facility sebesar US$125,43 juta dikonversi ke rupiah menjadi Rp2,07 triliun. Dari jumlah itu, Rp1,94 triliun dialihkan menjadi utang langsung Perseroan kepada MSP dan BAM lewat perjanjian novasi tertanggal 2 Desember 2025 dan 15 Juni 2026, dan Rp1,72 triliun di antaranya yang kini akan dilunasi lewat konversi menjadi saham baru.",
+   "Saham baru tersebut akan diambil dari portepel, yaitu saham simpanan yang belum pernah diterbitkan, melalui konversi sebagian saham seri A dan seluruh saham seri B yang masih tersisa di portepel sebanyak 23,89 miliar lembar. Sebagai pembanding, total saham VIVA yang beredar per 30 Juni 2026 baru 16,46 miliar lembar, sehingga penerbitan maksimal 43,09 miliar saham baru ini setara lebih dari 2,6 kali jumlah saham yang beredar saat ini. Pemegang saham pengendali, PT Bakrie Global Ventura, saat ini menggenggam 5,42 miliar saham seri A atau 32,94 persen dari kelas saham tersebut.",
+   "Dari sisi kinerja, ekuitas Perseroan per 30 Juni 2026 tercatat Rp496,1 miliar, naik dari Rp361,6 miliar pada akhir 2025, sementara total liabilitas mencapai Rp5,84 triliun. Laba bersih semester I 2026 turun tajam menjadi Rp65,58 miliar dari Rp1,19 triliun pada periode sama tahun lalu, sehingga laba bersih per saham dilusian ikut anjlok dari Rp72,46 menjadi Rp3,98. Arus kas dari aktivitas operasi masih positif Rp46,53 miliar, naik dari Rp33,16 miliar pada semester I 2025."
+  ],
+  "fotoAdegan": "Satellite dishes and broadcast antenna towers on a television station rooftop against an overcast Jakarta skyline, late afternoon light.",
+  "takeaway": "Konversi utang menjadi saham ini condong negatif bagi pemegang saham publik VIVA, karena skala penerbitan saham barunya sangat besar, bisa mencapai 2,6 kali jumlah saham yang beredar saat ini, sehingga porsi kepemilikan dan hak suara pemegang saham lama otomatis menyusut tajam begitu saham baru ini terbit. Yang tersentuh adalah jumlah saham beredar dan laba per saham: makin banyak saham baru yang terbit, makin kecil porsi kue perusahaan yang dimiliki tiap lembar saham lama, dan laba yang sama besar pun jadi terbagi ke lebih banyak lembar saham. Di sisi lain, langkah ini mengurangi beban utang Perseroan sebesar Rp1,72 triliun dan memperkuat ekuitas, yang penting karena total liabilitas VIVA masih jauh lebih besar dari ekuitasnya. Yang perlu dipantau berikutnya adalah RUPSLB yang akan digelar untuk meminta restu pemegang saham atas rencana ini, serta jumlah final saham yang benar-benar diterbitkan kepada MSP dan BAM, karena itu akan menentukan seberapa besar dilusi yang sesungguhnya terjadi dan apakah peta pengendali Perseroan ikut berubah.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mgia01-bni-am-bri-mi-pnm-gabung-ke-danareksa-im",
+  "category": "Aksi Korporasi",
+  "title": "MGIA01: BNI AM, BRI MI, PNM Gabung ke [Danareksa IM]",
+  "deck": "Manajer investasi EBA Mandiri GIAA01 berganti nama jadi PT Danareksa Investment Management Indonesia setelah merger dengan tiga perusahaan manajemen aset BUMN, efektif 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T20:54:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4465f393b7_6e8cc0a4f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGIA01",
+  "tags": [
+   "MGIA01",
+   "Danareksa Investment Management",
+   "merger manajer investasi",
+   "Danantara"
+  ],
+  "body": [
+   "PT Mandiri Manajemen Investasi, manajer investasi yang mengelola EBA Mandiri GIAA01 (surat berharga berbasis pendapatan penjualan tiket Garuda Indonesia), resmi bergabung dengan PT BNI Asset Management, PT BRI Manajemen Investasi, dan PT PNM Investment Management. Penggabungan berlaku efektif 1 Oktober 2026 sesuai Akta Notaris Nomor 262 tanggal 28 September 2026 yang dibuat di hadapan Jose Dima Satria, S.H., M.Kn. Akibatnya, status badan hukum BNI Asset Management, BRI Manajemen Investasi, dan PNM Investment Management berakhir tanpa likuidasi, dan seluruh aset serta kewajibannya beralih ke Mandiri Manajemen Investasi sebagai perusahaan penerima penggabungan. Bersamaan dengan itu, nama perusahaan berubah dari PT Mandiri Manajemen Investasi menjadi PT Danareksa Investment Management Indonesia.",
+   "Sebagai bagian dari penggabungan, modal dasar perusahaan naik dari Rp100 miliar (2.500 lembar saham) menjadi Rp555 miliar (13.875 lembar saham), sementara modal ditempatkan dan disetor naik dari Rp60 miliar (1.500 lembar saham) menjadi Rp182,92 miliar (4.573 lembar saham). Seluruh saham tersebut kini dipegang oleh PT Danantara Asset Management sebagai pemegang saham tunggal. Susunan direksi dan komisaris yang baru juga ditetapkan: Hardiyanto Pilia sebagai Direktur Utama, Ernawan Rahmat Salimsyah dan Febi Fabiona Sudradjat sebagai Direktur, serta Ir. Sumariyandono, MPM sebagai Komisaris Utama, didampingi Riyanto Prabowo, SH, MH sebagai Komisaris dan Tjut Andjani Yuzar sebagai Komisaris Independen.",
+   "Perusahaan juga mengubah alamat kantor pusat ke Menara Mandiri 2 Lantai 15, Jalan Jenderal Sudirman Kaveling 54-55, Jakarta Selatan, dengan kantor pendukung operasional di Gedung BRI II Lantai 25, Jalan Jenderal Sudirman Kaveling 44-46, Jakarta Pusat. Domain email seluruh entitas yang bergabung beralih ke @danareksainvestments.com, meski alamat email lama tetap diteruskan secara otomatis selama masa transisi. Situs web masing-masing entitas lama untuk sementara masih dapat diakses sebelum konsolidasi penuh ke situs resmi baru. Kontak yang ditunjuk untuk korespondensi lebih lanjut adalah Asti Raniasari, Kepala Divisi Alternative Investment."
+  ],
+  "fotoAdegan": "Employees at a modern Jakarta finance office organizing paperwork at desks, glass windows showing the Sudirman business district skyline, daytime.",
+  "takeaway": "Laporan ini netral bagi pemegang EBA Mandiri GIAA01, karena yang berubah adalah badan pengelola investasinya, bukan sumber dana yang mengalir dari penjualan tiket Garuda yang menjadi jaminan EBA. Yang tersentuh adalah ekuitas manajer investasi itu sendiri, modal disetornya naik dari Rp60 miliar menjadi Rp182,92 miliar setelah tiga perusahaan manajemen aset bank BUMN digabungkan ke dalamnya, dan seluruh sahamnya kini dipegang oleh Danantara Asset Management. Pelaku pasar memperhatikan penguatan modal semacam ini karena menentukan kapasitas lembaga tersebut mengelola portofolio dan menyerap risiko, meski tidak otomatis memengaruhi arus kas yang diterima pemegang EBA. Yang perlu dipantau investor adalah transisi alamat, nomor layanan, dan domain email ke @danareksainvestments.com, serta pengumuman situs web resmi baru yang menurut dokumen ini akan disampaikan menyusul setelah peluncuran resmi perusahaan hasil gabungan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smkm-koreksi-laporan-realisasi-dana-ipo-r-d-baru-terserap-1-44",
+  "category": "Aksi Korporasi",
+  "title": "SMKM Koreksi Laporan Realisasi Dana IPO, [R&D] Baru Terserap 1,44%",
+  "deck": "SMKM mengoreksi laporan realisasi dana IPO per Juni 2026: 98,4% dana terpakai, sisa Rp1,01 miliar mengendap di giro berbunga 1,6% hingga akhir 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T20:46:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ff2cd7f378_fbb6a3eb8c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMKM",
+  "tags": [
+   "SMKM",
+   "penggunaan dana IPO",
+   "laporan realisasi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Sumber Mas Konstruksi Tbk (SMKM) menyampaikan koreksi atas Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum (LRPD) per 30 Juni 2026, mengoreksi surat sebelumnya bernomor 050.02/SMKM/VII/2026 tanggal 16 Juli 2026. Surat koreksi bernomor 065.02/SMKM/X/2026 ini ditandatangani Corporate Secretary Budi Aris pada 9 Oktober 2026, dengan lampiran LRPD yang ditandatangani Direktur Ruben Partogi.",
+   "Dari penawaran umum perdana (IPO) yang efektif pada 9 Maret 2022, SMKM menghimpun dana Rp66 miliar. Setelah dipotong biaya penawaran umum Rp2,785 miliar, yang terdiri dari biaya jasa penjaminan Rp719,4 juta, biaya jasa penyelenggaraan Rp330 juta, biaya jasa penjualan Rp297 juta, biaya jasa profesi dan lembaga penunjang pasar modal Rp943 juta, serta biaya lain-lain Rp495 juta, dana bersih yang diterima perusahaan adalah Rp63,21 miliar. Hingga 30 Juni 2026, perusahaan telah merealisasikan penggunaan dana sebesar Rp62,20 miliar atau 98,40% dari rencana, menyisakan dana Rp1,01 miliar atau 1,60%.",
+   "Rinciannya, pos modal kerja mendapat alokasi Rp61,32 miliar atau 97% dari dana bersih dan sudah terealisasi penuh. Sementara pos riset dan pengembangan direncanakan Rp1,896 miliar atau 3%, namun baru terealisasi Rp885,19 juta atau 1,44%, kurang dari separuh target. Sisa dana Rp1,01 miliar saat ini ditempatkan di rekening giro OCBC NISP dengan bunga 1,6% per tahun, tanpa hubungan afiliasi dengan perusahaan, dan rencananya akan digunakan paling lambat 31 Desember 2027."
+  ],
+  "fotoAdegan": "Construction workers operating rebar and scaffolding at a mid-rise building site in Jakarta, overcast sky, safety helmets visible from a distance.",
+  "takeaway": "Laporan ini tergolong netral bagi SMKM karena menunjukkan realisasi dana IPO yang sudah tinggi, 98,4% dari dana bersih Rp63,21 miliar terpakai, dan koreksi yang diajukan sifatnya administratif tanpa mengubah jumlah dana. Yang tersentuh di sini adalah arus kas perusahaan, yaitu aliran uang masuk dan keluar dari kas: dana modal kerja sudah terpakai penuh untuk mendukung operasional, sementara pos riset dan pengembangan baru terserap 1,44% dari target 3%, jauh di bawah rencana, yang berarti investasi pengembangan produk atau proses masih tertunda. Sisa dana Rp1,01 miliar pun masih mengendap di rekening giro berbunga rendah 1,6% per tahun, yang membuatnya nyaris tidak produktif dibanding bila disalurkan ke operasional. Yang perlu dipantau berikutnya adalah batas waktu penggunaan sisa dana pada 31 Desember 2027, serta apakah porsi riset dan pengembangan yang masih tertinggal itu benar-benar terserap sebelum tenggat tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "agro-angkat-hari-basuki-sebagai-direktur-bisnis-baru",
+  "category": "Aksi Korporasi",
+  "title": "AGRO Angkat [Hari Basuki] sebagai Direktur Bisnis Baru",
+  "deck": "RUPSLB Bank Raya Indonesia (AGRO) mengukuhkan pengunduran diri Kicky Andrie Davetra dan mengangkat Hari Basuki sebagai Direktur Bisnis baru, menunggu persetujuan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T20:38:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7969f3f089_a657b36341.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGRO",
+  "tags": [
+   "AGRO",
+   "Bank Raya Indonesia",
+   "RUPSLB",
+   "Direksi"
+  ],
+  "body": [
+   "PT Bank Raya Indonesia Tbk (AGRO) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 7 Oktober 2026, pukul 14.50 sampai 15.13 WIB di Menara BRILiaN, Jakarta Selatan. Rapat dihadiri pemegang saham yang mewakili 21.492.346.572 saham atau 87,14 persen dari total 24.665.514.894 saham yang telah beredar, setelah dikurangi 74.979.400 saham yang telah dibeli kembali oleh perseroan (saham treasury). Dua agenda diputuskan, yaitu perubahan Anggaran Dasar dan perubahan susunan pengurus, dengan hasil suara setuju 99,99 persen dan sisanya 1.000.000 suara abstain yang menurut aturan OJK ikut dihitung mengikuti suara mayoritas, sehingga kedua agenda disetujui bulat 100 persen.",
+   "Untuk perubahan pengurus, rapat mengukuhkan pemberhentian dengan hormat Kicky Andrie Davetra dari jabatan Direktur Bisnis terhitung sejak 13 Juli 2026, menyusul keterbukaan informasi yang sudah disampaikan perseroan pada 14 Juli 2026. Sebagai penggantinya, rapat mengangkat Hari Basuki sebagai Direktur Bisnis dengan masa jabatan paling lama sampai penutupan RUPS Tahunan kelima sejak rapat ini. Jabatan baru itu belum bisa dijalankan sepenuhnya karena harus menunggu hasil penilaian kemampuan dan kepatutan atau fit and proper test dari Otoritas Jasa Keuangan (OJK), dan perseroan diminta segera mengajukan permohonan uji tersebut.",
+   "Dengan keputusan ini, susunan Dewan Komisaris AGRO menjadi Muhamad Sidik Heruwibowo sebagai Komisaris Utama, Johanes Kuntjoro Adisardjono, Retno Wahyuni Wijayanti, dan Farid Rahman sebagai Komisaris Independen, serta Tatang Yuliono sebagai Komisaris. Susunan Direksi menjadi Ida Bagus Ketut Subagia sebagai Direktur Utama, Lukman Hakim sebagai Direktur Digital dan Operasional, Rustarti Suri Pertiwi sebagai Direktur Keuangan, Danar Widyantoro sebagai Direktur Manajemen Risiko, Kepatuhan dan Sumber Daya Manusia, serta Hari Basuki sebagai Direktur Bisnis yang efektif setelah mendapat persetujuan OJK. Selain itu, rapat juga menyetujui penyesuaian sejumlah pasal Anggaran Dasar, termasuk soal batas kewenangan direksi, agar selaras dengan ketentuan yang berlaku bagi anak usaha badan usaha milik negara."
+  ],
+  "fotoAdegan": "Empty modern bank boardroom with leather chairs around a long table, floor to ceiling windows overlooking a Jakarta high-rise skyline, soft morning light",
+  "takeaway": "Perubahan ini condong netral bagi AGRO, karena pada dasarnya hanya memformalkan pergantian direktur yang prosesnya sudah lebih dulu diumumkan sejak Juli 2026, bukan sinyal masalah baru di internal bank. Laporan ini tidak langsung menyentuh pos keuangan seperti modal perusahaan (ekuitas) atau pergerakan kas, tapi tetap relevan bagi pemegang saham karena Direktur Bisnis mengurus unit yang menghasilkan pendapatan bank, sehingga kekosongan atau pergantian di posisi ini bisa memengaruhi kecepatan eksekusi strategi bisnis ke depan. Perlu dicatat juga bahwa rapat menyetujui perubahan batas kewenangan direksi dalam Anggaran Dasar, yang berarti sebagian keputusan bisnis bisa diambil dengan proses persetujuan yang berbeda dari sebelumnya. Yang perlu dipantau berikutnya adalah hasil uji kemampuan dan kepatutan Hari Basuki di OJK, karena ia baru resmi menjalankan tugas sebagai Direktur Bisnis setelah lolos persetujuan itu, dan sampai saat itu posisi tersebut praktis masih kosong secara definitif.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pack-koreksi-realisasi-dana-rights-issue-rp2-82-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PACK koreksi realisasi dana rights issue [Rp2,82 triliun]",
+  "deck": "PACK merevisi laporan realisasi dana rights issue Rp3,25 triliun, memperbaiki alokasi dana ke dua anak usaha tambang nikel senilai Rp2,82 triliun dari sebelumnya tertulis Rp2,87 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T20:35:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/edeaa5b03d_a684bb02ef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "rights issue",
+   "penggunaan dana",
+   "nikel"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum terbatas I (rights issue) yang sebelumnya disampaikan pada 15 Juli 2026. Dalam surat bernomor 001/DIR-ANHI/X/2026 yang diteken Direktur Donnie Holman Partogi Manurung, perseroan menyampaikan ulang Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum Terbatas I per 30 Juni 2026 kepada OJK. Rights issue yang efektif pada 31 Desember 2025 itu meraih dana kotor Rp3,26 triliun (Rp3.258.693.935.600), dengan biaya penawaran umum Rp6,46 miliar sehingga dana bersih yang diterima perseroan menjadi Rp3,25 triliun (Rp3.252.238.226.197).",
+   "Berdasarkan rincian realisasi, sebesar Rp2,82 triliun atau 86,9 persen dari dana bersih tersebut telah disalurkan sebagai penyetoran modal dan pemberian pinjaman kepada dua anak usaha, menggantikan angka Rp2,87 triliun yang tercantum pada tabel ringkasan di lampiran pertama. Sebanyak Rp1,68 triliun (51,6 persen) disalurkan ke PT Adhi Prakarsa Raya untuk membayar pembelian saham PT Karyatama Konawe Utara, dan Rp1,15 triliun (35,4 persen) disalurkan ke PT Sumber Cahaya Raya untuk membayar pembelian saham PT Konutara Sejati. Kedua penggunaan dana ini disebut telah terealisasi 100 persen tanpa penyimpangan dari rencana awal di prospektus, dengan keterangan 'Telah Sesuai' pada kedua pos tersebut.",
+   "Sisanya, Rp424,84 miliar atau 13,1 persen dari dana bersih yang semula direncanakan untuk modal kerja, sampai laporan ini belum terpakai sama sekali karena perseroan menyatakan masih bisa memenuhi kebutuhan modal kerja dari dana internal, dengan tenggat penggunaan dana tersebut sampai 31 Desember 2027. Dana yang belum terpakai itu kini ditempatkan di beberapa rekening bank dengan bunga mengambang dan tanpa batas waktu penempatan, yaitu Rp135,74 miliar di Bank Mandiri, Rp59,22 miliar di BCA, Rp182,77 miliar di rekening rupiah Standard Chartered, dan US$2,64 juta di rekening dolar Standard Chartered, dengan seluruh bank penyimpan dinyatakan tidak berafiliasi dengan perseroan."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving reddish nickel ore across an open-pit mine terrace in Konawe, Sulawesi, under bright midday sun",
+  "takeaway": "Laporan ini condong netral karena hanya mengoreksi angka pada laporan realisasi dana rights issue yang sudah diumumkan Juli lalu, dan dua investasi ke anak usaha nikel tetap disebut terealisasi 100 persen tanpa penyimpangan dari rencana awal. Pos yang tersentuh adalah investasi pada entitas anak dan piutang pinjaman di neraca PACK, karena dana rights issue kini tercatat sebagai modal disetor dan pinjaman ke PT Adhi Prakarsa Raya dan PT Sumber Cahaya Raya, bukan lagi kas di perusahaan induk, sementara sisa dana yang belum terpakai disimpan di beberapa rekening bank berbunga mengambang sehingga tetap memberi pemasukan meski belum digunakan. Yang perlu dipantau adalah porsi modal kerja senilai Rp424,84 miliar yang sampai laporan ini belum terpakai sama sekali, sementara perseroan punya tenggat sampai 31 Desember 2027 untuk merealisasikannya, karena kalau terus mengandalkan dana internal, dana rights issue yang mengendap di bank tidak banyak membantu pembiayaan operasional seperti rencana awal.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgun-tanggapi-bursa-ungkap-gadai-saham-100-ke-bank-mandiri",
+  "category": "Aksi Korporasi",
+  "title": "PGUN Tanggapi Bursa, Ungkap [Gadai Saham] 100% ke Bank Mandiri",
+  "deck": "PGUN menjelaskan ke BEI bahwa 100% saham tiga pemegang saham utamanya, AAL, CAR, dan BCMP, telah digadaikan ke Bank Mandiri untuk fasilitas kredit afiliasinya, PT Jhonlin Baratama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T20:33:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ca5c85f371_f8bcbcded0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGUN",
+  "tags": [
+   "PGUN",
+   "gadai saham",
+   "Bank Mandiri",
+   "Jhonlin Baratama"
+  ],
+  "body": [
+   "PT Pradiksi Gunatama Tbk (PGUN) menyampaikan tanggapan tertulis kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI Nomor S-12794/BEI.PP1/10-2026 tanggal 7 Oktober 2026. Inti pertanyaan bursa adalah soal konsistensi antara pernyataan PGUN pada Agustus 2026, yang menyebut tidak ada rencana pengendali atau pemegang saham utama terkait kepemilikan sahamnya, dengan fakta bahwa pada 28 September 2026 telah diteken Akta Gadai Saham atas 100% kepemilikan saham AAL, CAR, dan BCMP kepada PT Bank Mandiri (Persero) Tbk. Dalam jawabannya, Direktur Keuangan Tamlikho menegaskan bahwa pada Agustus 2026 proses itu masih berupa penjajakan internal pemegang saham dan belum menjadi kesepakatan hukum yang mengikat, sehingga menurut perseroan keterangan sebelumnya tetap akurat.",
+   "Debitur atas fasilitas kredit dari Bank Mandiri ini bukan PGUN, melainkan PT Jhonlin Baratama, yang menurut perseroan merupakan pihak afiliasi karena Jhony Saputra, pemegang saham di AAL dan CAR, juga menjabat Komisaris di Jhonlin Baratama. PGUN menyatakan tidak ikut memberikan jaminan perusahaan, tidak menjaminkan aset, dan tidak memberikan imbalan apa pun kepada AAL, CAR, maupun BCMP atas penggadaian saham tersebut. Perseroan juga memastikan tidak ada dana dari fasilitas kredit itu yang akan mengalir kembali ke PGUN, baik sebagai pinjaman pemegang saham, penyetoran modal, maupun pembiayaan aksi korporasi. Soal rincian fasilitas seperti plafon, jangka waktu, dan jadwal pembayaran, PGUN mengaku tidak mengetahui detailnya karena proses negosiasi dan pengajuan kredit dilakukan langsung antara Jhonlin Baratama dan Bank Mandiri.",
+   "Mengenai risiko bila Jhonlin Baratama gagal bayar, PGUN menjelaskan bahwa wanprestasi atas perjanjian kredit akan memberi Bank Mandiri hak untuk segera mengeksekusi gadai saham sesuai aturan yang berlaku. Perseroan mengklaim akan memastikan eksekusi, jika terjadi, tetap menjaga stabilitas pengendalian perusahaan dan kepatuhan pada ketentuan pencatatan di BEI. PGUN juga menegaskan saham AAL, CAR, dan BCMP ini belum pernah digadaikan ke pihak lain sebelumnya dan transaksi ini bukan pengalihan atau pembiayaan ulang dari fasilitas lain, serta menyatakan yakin Jhonlin Baratama mampu memenuhi kewajibannya kepada Bank Mandiri."
+  ],
+  "fotoAdegan": "Wide view of an open pit coal mine in Kalimantan with heavy haul trucks and excavators under a hazy afternoon sky",
+  "takeaway": "Laporan ini condong negatif karena seluruh kepemilikan tiga pemegang saham utama PGUN kini terikat sebagai jaminan utang pihak afiliasi, tanpa ada dana yang masuk ke perusahaan sebagai kompensasinya. Yang tersentuh di sini adalah soal pengendalian perusahaan, bukan laporan keuangan: gadai saham berarti saham itu dijadikan jaminan utang, dan jika Jhonlin Baratama selaku peminjam gagal bayar, Bank Mandiri berhak menyita atau menjual saham tersebut, yang bisa membuat kendali PGUN berpindah tangan ke pihak yang tidak direncanakan pemegang saham saat ini. Ada juga kejanggalan waktu, karena penjelasan bursa sebelumnya pada Agustus menyebut tidak ada rencana apa pun terkait kepemilikan saham, padahal proses penjajakan gadai menurut pengakuan PGUN sendiri sudah berjalan di periode yang berdekatan. Yang perlu dipantau selanjutnya adalah perkembangan fasilitas kredit PT Jhonlin Baratama dengan Bank Mandiri dan apakah ada tanda-tanda wanprestasi, sebab itulah pemicu yang bisa membuat Bank Mandiri benar-benar mengeksekusi gadai saham tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "viva-jadwalkan-rupslb-gabung-rupst-17-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "VIVA Jadwalkan [RUPSLB] Gabung RUPST 17 November 2026",
+  "deck": "PT Visi Media Asia Tbk akan menggelar RUPST tahun buku 2025 sekaligus RUPSLB pada 17 November 2026, dengan daftar pemegang saham yang berhak hadir ditetapkan per 23 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T20:27:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c842c37294_533a453743.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VIVA",
+  "tags": [
+   "VIVA",
+   "RUPS",
+   "RUPSLB",
+   "Visi Media Asia"
+  ],
+  "body": [
+   "PT Visi Media Asia Tbk (VIVA) mengumumkan akan menggelar Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2025 sekaligus Rapat Umum Pemegang Saham Luar Biasa pada Selasa, 17 November 2026, pukul 13.00 WIB, bertempat di Bakrie Tower Lantai 36, Kompleks Rasuna Epicentrum, Jl. H.R. Rasuna Said, Jakarta. Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 23 Oktober 2026 pukul 16.00 WIB. Pengumuman ini ditandatangani Corporate Secretary VIVA, Neil R. Tobing, pada 9 Oktober 2026.",
+   "Perseroan menyebutkan bahwa pemanggilan resmi yang memuat tempat penyelenggaraan dan agenda lengkap rapat baru akan diumumkan pada 26 Oktober 2026, melalui situs web KSEI selaku penyedia layanan e-RUPS, situs Bursa Efek Indonesia, dan situs resmi VIVA. Artinya, mata acara RUPST maupun RUPSLB, termasuk apakah di dalamnya mencakup pengesahan rencana konversi utang menjadi saham baru yang sebelumnya diumumkan Perseroan, belum terbuka untuk publik saat pengumuman rencana rapat ini terbit.",
+   "Dokumen juga mencantumkan mekanisme usulan agenda dari pemegang saham. Usulan harus memenuhi syarat Pasal 16 POJK Nomor 15/POJK.04/2020 dan sudah diterima Direksi paling lambat 7 hari kalender sebelum tanggal pemanggilan Rapat, yakni sebelum 26 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs and a podium being arranged in a high-rise office meeting hall, soft morning light through large windows",
+  "takeaway": "Pengumuman rencana RUPS ini sendiri netral bagi fundamental VIVA karena baru memuat jadwal dan mekanisme rapat, belum agenda yang menentukan nasib keuangan Perseroan. Yang membuatnya perlu dicermati adalah keterkaitannya dengan jumlah saham beredar, sebab RUPSLB lazimnya menjadi forum pengesahan aksi korporasi seperti konversi utang menjadi saham baru, yang bila disetujui menambah jumlah saham beredar dan bisa menggerus laba per saham milik pemegang saham lama. Pos yang tersentuh di sini bukan laba atau arus kas perusahaan, melainkan langsung ukuran kepemilikan dan hak suara tiap pemegang saham. Yang perlu dipantau berikutnya adalah pengumuman agenda resmi pada 26 Oktober 2026, karena di situlah akan terlihat apakah rencana konversi utang Rp1,72 triliun yang sebelumnya diberitakan benar-benar masuk sebagai mata acara RUPSLB pada 17 November 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mendag-buka-flei-2026-ajak-anak-muda-coba-bisnis-waralaba",
   "category": "Bisnis",
   "title": "Mendag Buka FLEI 2026, Ajak Anak Muda Coba Bisnis [Waralaba]",
@@ -523,6 +732,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Wide daylight shot of a large open-pit copper and gold mine with haul trucks and excavators moving along terraced slopes",
   "takeaway": "Pemberitahuan ini netral bagi fundamental Amman Mineral, karena isinya baru memastikan jadwal rapat tanpa menyebut satu pun agenda atau keputusan yang akan diambil. Pos kinerja seperti ekuitas, arus kas, jumlah saham beredar, atau laba per saham belum tersentuh di tahap ini, sebab dampaknya baru akan jelas kalau nanti ada keputusan RUPSLB yang mengubah struktur modal, kebijakan dividen, atau pendanaan perusahaan. Yang perlu diperhatikan pemegang saham, hak hadir dan hak suara dalam rapat ini ditentukan oleh posisi kepemilikan saham per 23 Oktober 2026, sehingga pembelian saham sesudah tanggal itu tidak otomatis memberi hak suara di rapat ini. Yang harus dipantau berikutnya adalah pengumuman resmi mata acara RUPSLB pada 26 Oktober 2026, karena baru saat itu publik akan tahu apa yang sebenarnya hendak diputuskan dalam rapat 17 November tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lppi-laporkan-realisasi-dana-obligasi-sukuk-rp3-67-triliun",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Laporkan Realisasi Dana Obligasi-Sukuk [Rp3,67 Triliun]",
+  "deck": "LPPI mengoreksi laporan realisasi dana hasil penerbitan obligasi dan sukuk senilai total Rp3,67 triliun, dengan sisa dana Rp162,8 miliar dari satu tranche masih mengendap di bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T15:56:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea463ab5cc_3176736959.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "obligasi",
+   "sukuk",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Lontar Papyrus Pulp & Paper Industry (LPPI) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil penawaran umum yang sebelumnya terbit 16 September 2026. Laporan yang diteken Direktur Kosim Sutiono ini mencakup empat instrumen yang sama-sama efektif pada 2 Desember 2025: Obligasi Berkelanjutan IV Tahap II senilai Rp1.048,98 miliar, Sukuk Mudharabah Berkelanjutan II Tahap II senilai Rp1.551,33 miliar, Obligasi Berkelanjutan IV Tahap III senilai Rp800,895 miliar, dan Sukuk Mudharabah Berkelanjutan II Tahap III senilai Rp272,04 miliar. Setelah dipotong biaya penerbitan, total dana bersih yang diterima perusahaan dari keempat tranche ini sekitar Rp3,654 triliun.",
+   "Dari empat tranche tersebut, tiga sudah terserap 100 persen sesuai rencana di prospektus, yakni Obligasi Tahap II, Sukuk Tahap II, dan Sukuk Tahap III, sehingga sisa dananya nol. Hanya Obligasi Berkelanjutan IV Tahap III yang realisasinya belum tuntas, dengan dana bersih Rp797,21 miliar namun baru Rp643,37 miliar yang terpakai, menyisakan Rp162,84 miliar. Sisa dana itu untuk sementara ditempatkan sebagai simpanan di PT Bank Negara Indonesia (Persero) Tbk dengan tingkat bunga 6,5 persen per tahun, dan menurut keterangan perusahaan akan dipakai bertahap sebagai modal kerja yang diperkirakan rampung pada Oktober 2026.",
+   "Secara keseluruhan, mayoritas dana dari keempat tranche dipakai untuk membayar utang. Rinciannya, 73 persen dana Obligasi Tahap II dan 71 persen dana Sukuk Tahap II serta Obligasi Tahap III dipakai melunasi pokok pinjaman, angsuran, dan bunga pinjaman bank jangka panjang, sementara untuk Sukuk Tahap III porsinya 79 persen. Sisanya, berkisar 21 sampai 29 persen di tiap tranche, dialokasikan sebagai modal kerja perusahaan."
+  ],
+  "fotoAdegan": "Stacks of raw pulp bales at an industrial paper mill yard, forklift moving nearby, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi LPPI karena sifatnya administratif, sekadar mengoreksi laporan realisasi dana yang sudah terbit sebulan sebelumnya, dan tidak ada angka realisasi yang meleset dari rencana awal di prospektus. Yang tersentuh di sini adalah beban bunga dan utang perusahaan, karena 71 sampai 79 persen dari total dana Rp3,67 triliun hasil penerbitan obligasi dan sukuk ini dipakai melunasi pokok pinjaman dan cicilan utang bank, artinya beban bunga yang harus dibayar LPPI ke depan berpotensi berkurang, sementara sisanya dipakai sebagai modal kerja atau dana operasional sehari-hari. Yang masih perlu dipantau adalah sisa dana Rp162,8 miliar dari tranche Obligasi Berkelanjutan IV Tahap III, yang untuk sementara disimpan di Bank Negara Indonesia dengan bunga 6,5 persen dan menurut rencana perusahaan baru akan habis terserap sebagai modal kerja pada Oktober 2026.",
   "sentimen": "netral"
  },
  {

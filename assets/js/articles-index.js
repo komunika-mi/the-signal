@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kota-jadwalkan-ulang-rupslb-pmhmetd-ke-15-oktober",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Jadwalkan Ulang RUPSLB [PMHMETD] ke 15 Oktober",
+  "deck": "PT DMS Propertindo (KOTA) mengubah jadwal RUPSLB dari 6 menjadi 15 Oktober 2026 setelah OJK memberi tanggapan atas rencana penambahan modal dan transaksi material perseroan.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "PMHMETD",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/902bfc83d7_d2e39c8432.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "viva-konversi-utang-rp1-72-triliun-jadi-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "VIVA Konversi Utang Rp1,72 Triliun Jadi [Saham] Baru",
+  "deck": "VIVA akan menerbitkan sebanyak-banyaknya 43,09 miliar saham baru tanpa hak memesan efek terlebih dahulu untuk melunasi utang PKPU senilai Rp1,72 triliun kepada dua kreditur, MSP dan BAM.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VIVA",
+   "PMTHMETD",
+   "restrukturisasi utang",
+   "konversi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fc5e442562_847af78bf5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mgia01-bni-am-bri-mi-pnm-gabung-ke-danareksa-im",
+  "category": "Aksi Korporasi",
+  "title": "MGIA01: BNI AM, BRI MI, PNM Gabung ke [Danareksa IM]",
+  "deck": "Manajer investasi EBA Mandiri GIAA01 berganti nama jadi PT Danareksa Investment Management Indonesia setelah merger dengan tiga perusahaan manajemen aset BUMN, efektif 1 Oktober 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGIA01",
+   "Danareksa Investment Management",
+   "merger manajer investasi",
+   "Danantara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4465f393b7_6e8cc0a4f8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smkm-koreksi-laporan-realisasi-dana-ipo-r-d-baru-terserap-1-44",
+  "category": "Aksi Korporasi",
+  "title": "SMKM Koreksi Laporan Realisasi Dana IPO, [R&D] Baru Terserap 1,44%",
+  "deck": "SMKM mengoreksi laporan realisasi dana IPO per Juni 2026: 98,4% dana terpakai, sisa Rp1,01 miliar mengendap di giro berbunga 1,6% hingga akhir 2027.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMKM",
+   "penggunaan dana IPO",
+   "laporan realisasi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ff2cd7f378_fbb6a3eb8c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "agro-angkat-hari-basuki-sebagai-direktur-bisnis-baru",
+  "category": "Aksi Korporasi",
+  "title": "AGRO Angkat [Hari Basuki] sebagai Direktur Bisnis Baru",
+  "deck": "RUPSLB Bank Raya Indonesia (AGRO) mengukuhkan pengunduran diri Kicky Andrie Davetra dan mengangkat Hari Basuki sebagai Direktur Bisnis baru, menunggu persetujuan OJK.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGRO",
+   "Bank Raya Indonesia",
+   "RUPSLB",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7969f3f089_a657b36341.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-koreksi-realisasi-dana-rights-issue-rp2-82-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PACK koreksi realisasi dana rights issue [Rp2,82 triliun]",
+  "deck": "PACK merevisi laporan realisasi dana rights issue Rp3,25 triliun, memperbaiki alokasi dana ke dua anak usaha tambang nikel senilai Rp2,82 triliun dari sebelumnya tertulis Rp2,87 triliun.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "rights issue",
+   "penggunaan dana",
+   "nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/edeaa5b03d_a684bb02ef.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgun-tanggapi-bursa-ungkap-gadai-saham-100-ke-bank-mandiri",
+  "category": "Aksi Korporasi",
+  "title": "PGUN Tanggapi Bursa, Ungkap [Gadai Saham] 100% ke Bank Mandiri",
+  "deck": "PGUN menjelaskan ke BEI bahwa 100% saham tiga pemegang saham utamanya, AAL, CAR, dan BCMP, telah digadaikan ke Bank Mandiri untuk fasilitas kredit afiliasinya, PT Jhonlin Baratama.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGUN",
+   "gadai saham",
+   "Bank Mandiri",
+   "Jhonlin Baratama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ca5c85f371_f8bcbcded0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "viva-jadwalkan-rupslb-gabung-rupst-17-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "VIVA Jadwalkan [RUPSLB] Gabung RUPST 17 November 2026",
+  "deck": "PT Visi Media Asia Tbk akan menggelar RUPST tahun buku 2025 sekaligus RUPSLB pada 17 November 2026, dengan daftar pemegang saham yang berhak hadir ditetapkan per 23 Oktober 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VIVA",
+   "RUPS",
+   "RUPSLB",
+   "Visi Media Asia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c842c37294_533a453743.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mendag-buka-flei-2026-ajak-anak-muda-coba-bisnis-waralaba",
   "category": "Bisnis",
   "title": "Mendag Buka FLEI 2026, Ajak Anak Muda Coba Bisnis [Waralaba]",
@@ -328,6 +456,22 @@ var ARTICLES = [
    "pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c449df23cf_a96f64574e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppi-laporkan-realisasi-dana-obligasi-sukuk-rp3-67-triliun",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Laporkan Realisasi Dana Obligasi-Sukuk [Rp3,67 Triliun]",
+  "deck": "LPPI mengoreksi laporan realisasi dana hasil penerbitan obligasi dan sukuk senilai total Rp3,67 triliun, dengan sisa dana Rp162,8 miliar dari satu tranche masih mengendap di bank.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI",
+   "obligasi",
+   "sukuk",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea463ab5cc_3176736959.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6328,152 +6472,6 @@ var ARTICLES = [
    "Widodo Makmur Unggas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4afa42a4de_91166b8ca7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-938-900-saham",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Komisaris Edwin Soeryadjaya [Tambah] 938.900 Saham",
-  "deck": "Edwin Soeryadjaya membeli 938.900 saham SRTG lewat dua transaksi akhir September dan awal Oktober 2026, menaikkan hak suaranya jadi 35,97 persen.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Edwin Soeryadjaya",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-8239-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-mandiri-bayar-dividen-interim-rp6-16-triliun",
-  "category": "Perbankan",
-  "title": "Bank Mandiri Bayar Dividen Interim [Rp6,16] Triliun",
-  "deck": "Bertepatan HUT ke-28, Bank Mandiri bayarkan dividen interim Rp66 per saham, sehingga total dividen sepanjang 2026 tembus Rp50,63 triliun.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/bank-mandiri-bayar-dividen-interim-rp6-16-triliun.jpg",
-  "imageV": "muqyjs6s",
-  "tags": [
-   "Bank Mandiri",
-   "dividen interim",
-   "HUT ke-28",
-   "dana pihak ketiga"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470783-bertepatan-dengan-hut-ke-28-bank-mandiri-bayarkan-dividen-interim-rp616-triliun"
- },
- {
-  "slug": "bei-buka-suspensi-edge-untuk-crossing-saham-go-private",
-  "category": "Aksi Korporasi",
-  "title": "BEI Buka Suspensi EDGE untuk Crossing Saham [Go Private]",
-  "deck": "BEI mencabut sementara suspensi saham EDGE khusus di pasar negosiasi, Jumat 2 Oktober 2026, untuk transaksi crossing saham hasil buyback dalam proses go private dan delisting Indointernet.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "go private",
-   "delisting",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb61a52a9b_16ebc200e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-diprediksi-melemah-imbas-panasnya-as-iran",
-  "category": "Moneter",
-  "title": "Rupiah Diprediksi [Melemah] Imbas Panasnya AS-Iran",
-  "deck": "Analis Bank Woori Saudara memperkirakan rupiah melemah ke kisaran Rp17.950-Rp18.050 per dolar AS akibat memanasnya hubungan AS-Iran yang mengerek harga minyak dunia.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/rupiah-diprediksi-melemah-imbas-panasnya-as-iran.jpg",
-  "imageV": "muqmlis5",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "Iran",
-   "Amerika Serikat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470775-bicara-soal-rupiah-analis-bank-prediksi-bisa-melemah-selama-hubungan-as-dan-iran-tak-harmonis"
- },
- {
-  "slug": "dooh-tender-wajib-sii-rp148-saham-periode-5-okt-3-nov",
-  "category": "Aksi Korporasi",
-  "title": "DOOH: [Tender Wajib] SII Rp148/Saham, Periode 5 Okt-3 Nov",
-  "deck": "PT Sinergi Internasional Investama menawar 2,62 miliar saham publik DOOH senilai maksimal Rp388,4 miliar menyusul pengambilalihan 51 persen saham dari Prambanan.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "tender wajib",
-   "SII",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/34bde0c12e_f5b52c1799.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgd-dana-obligasi-rp5-61-triliun-sudah-habis-untuk-modal-kerja",
-  "category": "Aksi Korporasi",
-  "title": "PPGD: Dana Obligasi Rp5,61 Triliun Sudah Habis untuk [Modal Kerja]",
-  "deck": "Pegadaian (PPGD) melaporkan ke OJK, dana Rp5,61 triliun dari tiga obligasi dan sukuk yang terbit September 2026 sudah habis terpakai untuk modal kerja per akhir September 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGD",
-   "Pegadaian",
-   "obligasi",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/94584441a7_621bf057ca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgd-dana-rp5-61-t-hasil-obligasi-sukuk-terpakai-penuh",
-  "category": "Aksi Korporasi",
-  "title": "PPGD: Dana Rp5,61 T Hasil Obligasi-Sukuk [Terpakai Penuh]",
-  "deck": "Pegadaian melaporkan dana Rp5,61 triliun dari tiga surat utang berkelanjutan sudah 100 persen tersalur untuk modal kerja per 30 September 2026, sisa dana nihil.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGD",
-   "Pegadaian",
-   "obligasi",
-   "sukuk mudharabah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c94e4ac08d_9fa58310a7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-lepas-saham-jmj-dan-dtp-fokus-ke-konstruksi-divestasi",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Lepas Saham JMJ dan DTP, Fokus ke Konstruksi [Divestasi]",
-  "deck": "ADHI menandatangani perjanjian jual beli bersyarat untuk melepas 47,18% saham di JMJ ke SMI dan 51% saham di DTP ke FUTR, bagian penataan ulang anak usaha.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "divestasi",
-   "JMJ",
-   "DTP"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2846866318_883ab117a9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-adhi-setujui-restrukturisasi-dan-pinjaman-baru",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB ADHI Setujui [Restrukturisasi] dan Pinjaman Baru",
-  "deck": "Pemegang saham ADHI menyetujui rencana restrukturisasi perusahaan dan izin menerima pinjaman bank atau non-bank jangka menengah-panjang sebagai bagian program penyehatan.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "restrukturisasi",
-   "RUPSLB",
-   "pinjaman"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/894e7bcc1e_e18320b8f0.pdf",
   "sourceLabel": "IDX"
  }
 ];

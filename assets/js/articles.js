@@ -3,6 +3,239 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bswd-papar-suspensi-saham-dan-tenggat-free-float-2029",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Papar Suspensi Saham dan Tenggat Free Float [2029]",
+  "deck": "BOI Indonesia (BSWD) menjawab soal suspensi saham, kesenjangan dana pihak ketiga, dan tenggat free float 2029 dalam public expose insidental 8 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T19:00:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/05d227840f_1beefbb82a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSWD",
+  "tags": [
+   "BSWD",
+   "Bank of India Indonesia",
+   "Suspensi Saham",
+   "Public Expose"
+  ],
+  "body": [
+   "PT Bank of India Indonesia Tbk (BSWD) menggelar public expose insidental pada Kamis, 8 Oktober 2026, pukul 14.00 sampai 14.45 WIB secara daring melalui Zoom. Direksi yang hadir adalah Direktur Utama K S B Chandramouli, Direktur Operasional Carolina Dina Rusdiana, Direktur Kepatuhan Dennis Kusuma Halim, Direktur Keuangan Rahmat Hendratama, dan Direktur Bisnis Amit Kumar Singh. Acara diikuti 14 peserta dari kalangan investor, analis pasar modal, media massa, dan publik, dengan lima penanya mengajukan tujuh pertanyaan.",
+   "Menjawab soal keberlanjutan laba yang sebelumnya banyak ditopang penurunan biaya pencadangan, manajemen menyebut strategi menjaga margin bunga bersih di atas 4 persen, menggenjot pendapatan dari penagihan aset yang sudah hapus buku maupun aset sitaan lewat kerja sama dengan balai lelang swasta, KPKNL, dan agen properti, serta efisiensi biaya lewat relokasi sejumlah kantor cabang tahun ini. Soal kredit yang tumbuh 13,6 persen sementara dana pihak ketiga turun, manajemen menyebut itu sejalan dengan tren perbankan nasional dan mengandalkan peringkat idA+ baru dari Fitch Ratings Indonesia yang diterima 1 Oktober 2026 untuk memperluas sumber dana dari nasabah institusi.",
+   "Terkait syarat free float minimal 15 persen, manajemen menyebut berdasarkan kapitalisasi pasar Perseroan sebesar Rp4,98 triliun per 31 Maret 2026, batas waktu pemenuhannya jatuh pada 31 Maret 2029, dan sejumlah langkah sedang disiapkan meski belum bisa diungkap karena masih tahap pembahasan awal. Soal suspensi perdagangan saham yang masih berlaku menyusul lonjakan harga, manajemen menyatakan hampir setiap hari berkoordinasi dengan Bursa Efek Indonesia dan sedang menyelesaikan seluruh dokumen serta penjelasan yang diminta, sembari menegaskan bahwa pembentukan harga saham sepenuhnya mengikuti mekanisme pasar dan di luar kendali Perseroan."
+  ],
+  "fotoAdegan": "Interior of a mid-size bank branch in Jakarta with teller counters, customers waiting in queue, soft fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi BSWD karena isinya sebatas rekap tanya jawab dari ajang yang sudah diumumkan sebelumnya, tanpa perubahan modal, laba, atau kepemilikan saham yang baru, meski mengonfirmasi dua isu yang belum tuntas. Yang tersentuh adalah dana pihak ketiga, yaitu total simpanan nasabah yang jadi sumber utama bank menyalurkan kredit, dan rasio kredit terhadap simpanan yang kalau terus naik berarti bank menyalurkan kredit lebih agresif dibanding dana yang terkumpul sehingga ruang geraknya menyempit. Margin bunga bersih yang diklaim tetap di atas 4 persen, yakni selisih antara bunga yang diterima bank dari kredit dan bunga yang dibayarkan ke nasabah, menandakan sumber laba utama belum tergerus meski komposisi pendanaan berubah. Yang perlu dipantau berikutnya adalah proses BSWD memenuhi seluruh dokumen yang diminta Bursa Efek Indonesia agar suspensi perdagangan sahamnya bisa dicabut, tanpa tenggat pasti yang disebutkan, serta progres menuju batas waktu pemenuhan free float 15 persen pada 31 Maret 2029.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bino-lewati-tenggat-refloat-129-juta-saham-belum-ke-publik",
+  "category": "Aksi Korporasi",
+  "title": "BINO Lewati Tenggat [Refloat], 129 Juta Saham Belum ke Publik",
+  "deck": "Pengendali BINO belum menuntaskan wajib lepas saham usai tender offer 2024; tenggat dua tahun berakhir 5 September 2026 dengan realisasi nol persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:27:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dec6dac01a_4903270b52.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BINO",
+  "tags": [
+   "BINO",
+   "refloat",
+   "tender offer",
+   "free float"
+  ],
+  "body": [
+   "PT Perma Plasindo Tbk (BINO) melaporkan bahwa kewajiban pengalihan kembali saham atau refloat yang muncul setelah penawaran tender wajib pada 5 September 2024 belum tuntas. Setelah tender offer itu, pihak yang mengambil alih memegang 1.949.465.800 saham BINO, setara 85,68 persen dari total saham beredar, sehingga porsi saham publik tersisa di bawah ambang minimum yang diwajibkan. Untuk memenuhi ketentuan itu, ditetapkan periode refloat selama dua tahun, mulai 6 September 2024 hingga 5 September 2026, di mana pemegang saham pengendali wajib melepas kembali sebagian sahamnya ke publik.",
+   "Dalam laporan periode yang berakhir 30 September 2026, yakni setelah tenggat refloat 5 September 2026 terlewati, Perseroan mencatat realisasi pengalihan saham sebesar 0 persen pada periode berjalan maupun secara akumulasi dari periode-periode sebelumnya. Artinya, sepanjang dua tahun periode refloat, tidak ada saham yang benar-benar dialihkan ke publik. Sisa saham yang belum di-refloat tercatat 129.212.911 saham, setara 5,68 persen dari total saham beredar. Jumlah pemegang saham Perseroan pada akhir periode berjalan tercatat 2.382 pihak.",
+   "Laporan ini disampaikan secara elektronik pada 9 Oktober 2026 pukul 17.27 WIB, ditandatangani oleh Direktur BINO, Lie Fonda, yang menegaskan Perseroan bertanggung jawab penuh atas informasi di dalamnya."
+  ],
+  "fotoAdegan": "Workers monitoring plastic extrusion machines producing packaging rolls inside an industrial factory, overhead lighting",
+  "takeaway": "Laporan ini negatif bagi BINO karena menunjukkan kegagalan memenuhi tenggat refloat yang sudah berjalan dua tahun: hingga batas waktu 5 September 2026 terlampaui, realisasi pengalihan saham tetap nol persen dan masih ada 129.212.911 saham, setara 5,68 persen dari total saham beredar, yang belum dikembalikan ke publik. Yang tersentuh di sini adalah porsi saham beredar bebas atau free float, yaitu saham yang benar-benar diperjualbelikan publik di luar genggaman pemegang saham pengendali; makin kecil porsi ini, makin tipis likuiditas perdagangan saham BINO dan makin besar risiko dikenai sanksi bursa karena free float di bawah syarat minimum. Yang perlu dipantau berikutnya adalah langkah Bursa Efek Indonesia dan pemegang saham pengendali pascatenggat 5 September 2026 ini, apakah ada perpanjangan periode refloat, sanksi, atau rencana pelepasan saham baru, serta laporan periode selanjutnya untuk melihat apakah realisasi pengalihan akhirnya bergerak dari nol.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "prda-buyback-saham-tembus-1-99-per-9-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PRDA [Buyback] Saham Tembus 1,99% per 9 Oktober",
+  "deck": "Prodia Widyahusada telah membeli kembali 18,6 juta saham atau 1,99 persen dari total saham beredar sejak 20 Agustus, dengan sisa dana buyback Rp98,03 miliar dari pagu sekitar Rp150 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:25:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6db0e7439b_172afd1d18.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "pasar modal",
+   "Prodia Widyahusada"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa perusahaan telah membeli kembali total 18.636.500 saham, atau sekitar 1,99 persen dari seluruh saham yang tercatat di BEI, terhitung sejak 20 Agustus hingga 9 Oktober 2026. Program ini dijalankan berdasarkan kebijakan pembelian kembali saham dalam kondisi pasar yang berfluktuasi signifikan, mengacu pada Pasal 12 ayat 1 Peraturan Otoritas Jasa Keuangan Nomor 13 Tahun 2023, setelah rencana buyback ini pertama kali diumumkan kepada pemegang saham pada 19 Agustus 2026.",
+   "Harga pembelian rata-rata saham PRDA bergerak naik sepanjang periode buyback, dari Rp2.548 per saham pada transaksi pertama di 20 Agustus 2026 menjadi Rp3.075 per saham pada transaksi terakhir di 9 Oktober 2026. Volume pembelian terbesar dalam satu hari terjadi pada 7 September 2026, saat perusahaan membeli 2.616.500 saham atau 0,28 persen dari total saham beredar dengan harga rata-rata Rp2.795 per saham. Sejak awal Oktober, harga pembelian konsisten berada di atas Rp2.800 dan terus naik hingga menyentuh Rp3.075 pada laporan terbaru ini.",
+   "Dari sisi dana, sisa biaya pembelian kembali saham per 9 Oktober 2026 tercatat Rp98.031.376.929, menyusut dari Rp148.479.715.003 yang tersisa setelah transaksi pertama pada 20 Agustus 2026. Dengan kata lain, perusahaan sudah menggunakan sekitar Rp51,97 miliar dari total pagu dana buyback yang disiapkan untuk program ini sejauh laporan ini berjalan."
+  ],
+  "fotoAdegan": "Medical laboratory technicians in white coats examining sample vials under bright fluorescent lighting in a modern clinic",
+  "takeaway": "Laporan ini netral bagi Prodia, sebab pembelian kembali yang sudah berjalan masih di bawah 2 persen dari total saham beredar sehingga belum mengubah struktur kepemilikan atau hak suara pemegang saham utama. Yang tersentuh dari aksi ini adalah jumlah saham beredar yang mengecil pelan-pelan, yang pada gilirannya membuat laba per saham, yakni laba bersih dibagi jumlah saham beredar, sedikit terangkat karena pembaginya mengecil, sementara di sisi lain kas perusahaan berkurang karena dipakai membeli saham sendiri di pasar. Harga pembelian yang terus naik dari Rp2.548 ke Rp3.075 menunjukkan perusahaan tetap melanjutkan program meski harga saham sudah menguat, yang bisa dibaca pasar sebagai sinyal kepercayaan manajemen, tetapi besarannya masih terlalu kecil untuk mengubah penilaian fundamental secara berarti. Yang perlu dipantau berikutnya adalah sisa dana buyback sebesar Rp98,03 miliar, karena kecepatan penggunaannya akan menentukan apakah program ini berlanjut sampai pagu habis atau berhenti lebih awal, serta laporan pelaksanaan periode berikutnya yang wajib disampaikan perusahaan secara berkala sesuai aturan OJK.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cnma-koreksi-format-laporan-realisasi-dana-ipo-nilai-tetap",
+  "category": "Aksi Korporasi",
+  "title": "CNMA Koreksi Format Laporan [Realisasi] Dana IPO, Nilai Tetap",
+  "deck": "Cinema XXI (CNMA) merevisi format laporan realisasi dana IPO Rp2,17 triliun sesuai aturan OJK baru, tanpa mengubah angka yang sudah dilaporkan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:16:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e98d35680_c6f332d4ab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CNMA",
+  "tags": [
+   "CNMA",
+   "IPO",
+   "penggunaan dana",
+   "Cinema XXI"
+  ],
+  "body": [
+   "PT Nusantara Sejahtera Raya Tbk (CNMA), pengelola jaringan bioskop Cinema XXI, menyampaikan koreksi atas laporan realisasi penggunaan dana hasil penawaran umum perdana melalui surat nomor 73/CNMA-IDX/X/2026 tertanggal 9 Oktober 2026. Surat ini merevisi laporan sebelumnya, nomor 54/CNMA-IDX/VII/2026 tanggal 9 Juli 2026, yang melaporkan posisi dana per 30 Juni 2026. Perseroan menegaskan revisi hanya menyesuaikan format penyajian laporan mengikuti Peraturan OJK Nomor 40 Tahun 2025 dan surat OJK Nomor S-2263/PM.222/2026, tanpa mengubah satu pun angka yang sebelumnya sudah dilaporkan. Surat ditandatangani oleh Direktur Tri Rudy Anitio dan Sekretaris Perusahaan sekaligus Head of Corporate Legal Indah Tri Wahyuni.",
+   "IPO CNMA efektif pada 25 Juli 2023 dengan total dana yang terkumpul Rp2,25 triliun, dipotong biaya penawaran umum Rp77,77 miliar sehingga dana bersih yang bisa digunakan Rp2,17 triliun. Dari rencana awal di prospektus, 65 persen dana atau Rp1,41 triliun dialokasikan untuk ekspansi jaringan bioskop, 20 persen atau Rp434,5 miliar untuk pelunasan sisa pokok utang bank, dan 15 persen atau Rp325,9 miliar untuk modal kerja. Realisasinya per 30 Juni 2026, dana untuk ekspansi terpakai Rp1,33 triliun atau 61 persen, pelunasan utang bank justru melebihi rencana menjadi Rp500 miliar atau 23 persen dan sudah selesai sejak Agustus 2023, sementara modal kerja terealisasi Rp320 miliar atau 15 persen, sesuai rencana.",
+   "Dari sisi biaya, penawaran umum ini menelan ongkos Rp77,77 miliar yang terdiri dari biaya jasa penyelenggaraan Rp28,29 miliar atau 36,37 persen dari total biaya, biaya jasa profesi penunjang pasar modal Rp26,03 miliar atau 33,46 persen, biaya lain-lain Rp16,32 miliar atau 20,99 persen, biaya jasa penjaminan dan penjualan masing-masing Rp3,54 miliar atau 4,55 persen, serta biaya jasa lembaga penunjang pasar modal Rp66,7 juta atau 0,09 persen. Sisa dana hasil IPO per 30 Juni 2026 tercatat Rp26,52 miliar, ditempatkan dalam bentuk giro rupiah di PT Bank DBS Indonesia dengan bunga 6 persen per tahun. Perseroan berencana menggunakan sisa dana tersebut untuk menyelesaikan proyek bioskop baru dan pembangunan lokasi bioskop tambahan pada periode Juli hingga Desember 2026."
+  ],
+  "fotoAdegan": "Empty modern multiplex cinema lobby with red carpet, box office counters, and soft ambient lighting in a shopping mall, Indonesia",
+  "takeaway": "Laporan ini netral karena isinya murni perubahan format penyajian mengikuti aturan baru OJK, bukan perubahan substansi, sebab angka realisasi dana IPO yang dilaporkan sama persis dengan laporan Juli 2026 sebelumnya. Yang menarik dari datanya sendiri, realisasi pelunasan utang bank sudah mencapai Rp500 miliar, lebih besar dari rencana awal Rp434,5 miliar dan sudah tuntas sejak Agustus 2023, sementara dana untuk ekspansi jaringan bioskop baru terpakai Rp1,33 triliun atau 61 persen dari dana bersih IPO, sedikit di bawah target 65 persen karena proyek pembangunan masih berjalan. Pos yang tersentuh di sini adalah arus kas dan beban bunga perusahaan, sebab pelunasan utang yang lebih cepat dari rencana berarti kewajiban bunga ke depan berkurang, sementara dana ekspansi yang belum terserap penuh menandakan belanja modal bioskop baru masih berlanjut. Sisa dana Rp26,5 miliar yang mengendap di giro Bank DBS Indonesia dengan bunga 6 persen rencananya dipakai menyelesaikan proyek bioskop baru pada Juli hingga Desember 2026, periode itu yang perlu dipantau untuk melihat apakah seluruh dana IPO akhirnya terserap sesuai rencana.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "oppm-lunasi-obligasi-rp2-98-triliun-jatuh-tempo-12-okt",
+  "category": "Aksi Korporasi",
+  "title": "OPPM [lunasi] obligasi Rp2,98 triliun jatuh tempo 12 Okt",
+  "deck": "Empat seri obligasi dan sukuk OPPM senilai Rp2,98 triliun plus obligasi dolar jatuh tempo dan delisting dari BEI pada 12 Oktober 2026, dengan dana pelunasan yang sudah disiapkan penuh dari kas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:09:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5110c74978_dd3cd91895.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OPPM",
+  "tags": [
+   "OPPM",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT OKI Pulp & Paper Mills (OPPM) mencatatkan jatuh tempo atas empat seri instrumen utang sekaligus pada 12 Oktober 2026, seluruhnya berasal dari penerbitan berkelanjutan tahap I tahun 2023. Berdasarkan pengumuman Bursa Efek Indonesia (BEI) No. Peng-JTO-00056/BEI.PP3/10-2026, mulai tanggal tersebut keempat instrumen ini tidak lagi tercatat dan tidak dapat diperdagangkan di bursa. Keempat seri itu adalah Obligasi Berkelanjutan I OKI Pulp & Paper Mills Tahap I Tahun 2023 Seri B senilai Rp1.608.890.000.000, Obligasi Berwawasan Lingkungan (green bond) Seri B senilai Rp1.042.090.000.000, Sukuk Mudharabah Berkelanjutan I Seri A senilai Rp333.200.000.000, dan Obligasi USD Berkelanjutan I Seri A senilai sekitar US$1,06 juta. Seluruhnya terbit pada 12 Oktober 2023, sehingga tenornya tepat tiga tahun.",
+   "Dalam lampiran surat tertanggal 1 September 2026 kepada lembaga pemeringkat Pefindo, dua direktur OPPM, Andrie Setiawan Yapsir dan Arman Dwiartono, menjelaskan kesiapan perusahaan membayar pokok keempat instrumen tersebut. Surat itu merespons permintaan penjelasan dari Pefindo tertanggal 15 Juni 2026. OPPM menyatakan telah menyediakan dana dalam bentuk kas dan setara kas yang akan dipakai untuk membayar pokok obligasi dan sukuk itu tepat saat jatuh tempo, sehingga seluruh kewajiban yang totalnya hampir Rp2,98 triliun ditambah sekitar US$1,06 juta sudah tercadangkan penuh.",
+   "Perusahaan menegaskan sampai saat surat dibuat belum ada rencana melunasi obligasi, green bond, obligasi dolar, dan sukuk ini dengan utang baru dari bank atau lembaga keuangan lain. Namun bila ada investor yang berminat melakukan refinancing dengan mengambil instrumen utang baru yang diterbitkan OPPM, perusahaan tidak menutup kemungkinan mengajukan proses pemeringkatan untuk penerbitan baru tersebut. Prioritasnya tetap mencadangkan dana dan melunasi lebih dulu seluruh obligasi dan sukuk yang jatuh tempo. Surat ini juga ditembuskan ke Otoritas Jasa Keuangan, wali amanat PT Bank KB Indonesia Tbk, dan Direktur Penilaian Perusahaan BEI."
+  ],
+  "fotoAdegan": "Workers inspecting stacked rolls of pulp inside an industrial paper mill warehouse, forklift moving between rows, overcast morning light",
+  "takeaway": "Laporan ini condong positif, karena OPPM memastikan sudah menyiapkan dana tunai penuh untuk melunasi seluruh obligasi dan sukuk yang jatuh tempo tanpa bergantung pada utang baru dari bank, tanda posisi kas perusahaan cukup kuat untuk menutup kewajiban sebesar Rp2,98 triliun ditambah sekitar US$1,06 juta. Dana yang dipakai berasal dari kas dan setara kas, sehingga arus kas, yaitu catatan uang masuk dan keluar dari rekening perusahaan, akan tergerus signifikan begitu pembayaran cair, tapi di sisi lain beban utang yang tercatat di neraca akan hilang setelah pelunasan sehingga rasio utang perusahaan mengecil. Perusahaan juga menegaskan belum berencana mengganti utang lama ini dengan pinjaman baru, meski membuka kemungkinan mengajukan peringkat kredit untuk instrumen utang baru kalau ada investor yang berminat melakukan refinancing. Yang perlu dipantau adalah tanggal 12 Oktober 2026, saat keempat seri ini resmi berhenti diperdagangkan di BEI dan dana pelunasan harus benar-benar dibayarkan ke pemegang obligasi dan sukuk.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "agii-siapkan-dana-rp76-5-miliar-lunasi-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "AGII siapkan dana [Rp76,5 miliar] lunasi obligasi dan sukuk",
+  "deck": "PT Samator Indo Gas Tbk memastikan dana pelunasan obligasi Rp41 miliar dan sukuk ijarah Rp35,5 miliar yang jatuh tempo 10 Oktober 2026 sudah tersedia di rekening perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:06:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ffeed49aaf_eccfed830f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGII",
+  "tags": [
+   "AGII",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa dua instrumen utang PT Samator Indo Gas Tbk (AGII), yaitu Obligasi Berkelanjutan III Tahap I Tahun 2023 Seri A dengan kode AGII03ACN1 senilai Rp41 miliar dan Sukuk Ijarah Berkelanjutan III Tahap I Tahun 2023 Seri A dengan kode SIAGII03ACN1 senilai Rp35,5 miliar, akan jatuh tempo pada 10 Oktober 2026. Kedua efek yang pertama kali diterbitkan pada 10 Oktober 2023 ini akan dihapus dari pencatatan dan tidak lagi bisa diperdagangkan di BEI mulai 12 Oktober 2026.",
+   "Kepastian pelunasan ini disampaikan Samator Indo Gas melalui surat bernomor 207/SIG-IX/2026 tertanggal 10 September 2026 yang ditandatangani Imelda Mulyani Harsono, Wakil Direktur Utama sekaligus Corporate Secretary perusahaan. Dalam surat itu, perusahaan menyatakan dana untuk melunasi pokok obligasi dan sukuk tersebut, dengan total Rp76,5 miliar, sudah tersedia di rekening bank milik perseroan dan siap disetorkan ke rekening PT Kustodian Sentral Efek Indonesia (KSEI) sesuai jadwal yang ditentukan. Laporan ini merupakan pemenuhan kewajiban sesuai Peraturan BEI Nomor I-E poin IV.2.11, yang mewajibkan perusahaan tercatat melaporkan kesiapan dana pelunasan paling lambat 15 hari bursa sebelum efek jatuh tempo."
+  ],
+  "fotoAdegan": "Workers in safety gear inspecting valves and pipelines among rows of industrial gas storage tanks, daylight",
+  "takeaway": "Laporan ini condong positif karena menunjukkan Samator Indo Gas punya likuiditas yang cukup untuk melunasi utangnya tepat waktu, tanpa tanda-tanda perpanjangan atau kesulitan dana. Pos yang tersentuh adalah arus kas, sebab perusahaan harus mengeluarkan dana Rp76,5 miliar sekaligus untuk membayar pokok obligasi dan sukuk ini, sementara di sisi lain beban bunga perusahaan akan berkurang ke depan karena kewajiban bunga atas kedua instrumen tersebut otomatis berhenti setelah lunas. Yang perlu dipantau selanjutnya adalah realisasi penyetoran dana ke rekening KSEI dan pelunasan efektif pada 10 Oktober 2026, serta penghentian resmi pencatatan kedua efek ini di BEI mulai 12 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bmhs-wakil-presiden-komisaris-shubhasish-chattoraj-mundur",
+  "category": "Aksi Korporasi",
+  "title": "BMHS: Wakil Presiden Komisaris Shubhasish Chattoraj [Mundur]",
+  "deck": "Wakil Presiden Komisaris BMHS, Shubhasish Chattoraj, mengajukan pengunduran diri pada 7 Oktober 2026. Perseroan akan menggelar RUPSLB untuk meminta persetujuan pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:04:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/676086acd1_98cb280276.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMHS",
+  "tags": [
+   "BMHS",
+   "Bundamedik",
+   "komisaris",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Bundamedik Tbk (BMHS), emiten yang bergerak di bidang rumah sakit swasta, melaporkan kepada Otoritas Jasa Keuangan bahwa pada 7 Oktober 2026 perusahaan menerima surat permohonan pengunduran diri dari Shubhasish Chattoraj dari jabatannya sebagai Wakil Presiden Komisaris. Laporan resmi ini ditandatangani oleh Presiden Direktur Agus Heru Darjono dan disampaikan oleh Corporate Secretary Josephine Tobing kepada OJK dan Bursa Efek Indonesia pada 9 Oktober 2026.",
+   "Perseroan menyatakan akan mengikuti ketentuan Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik serta Anggaran Dasar Perseroan, dengan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) untuk meminta persetujuan pemegang saham atas pengunduran diri tersebut. Dokumen belum menyebutkan tanggal pelaksanaan RUPSLB maupun alasan di balik pengunduran diri ini.",
+   "Dalam laporannya, BMHS menegaskan bahwa reorganisasi di jajaran Dewan Komisaris ini tidak membawa dampak material yang merugikan, baik terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Entrance driveway of a private hospital with parked ambulances and staff walking past, soft morning light",
+  "takeaway": "Laporan ini netral bagi fundamental BMHS karena isinya hanya mencatat pergantian satu personel di jajaran komisaris tanpa menyebut alasan atau indikasi konflik, dan perseroan sendiri menegaskan tidak ada dampak merugikan terhadap operasional atau keuangan. Yang tersentuh bukan pos keuangan seperti ekuitas atau laba per saham, melainkan struktur pengawasan perusahaan, sebab komisaris bertugas mengawasi kinerja direksi dan menjaga kepentingan pemegang saham, sehingga pelaku pasar tetap mencermati siapa yang akan mengisi kursi tersebut selanjutnya. Yang perlu dipantau adalah Rapat Umum Pemegang Saham Luar Biasa yang akan digelar BMHS untuk meminta persetujuan pemegang saham atas pengunduran diri ini sesuai POJK 33/POJK.04/2014, meski perseroan belum mengumumkan tanggal pastinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "coke-catatkan-obligasi-rp2-triliun-di-bei-12-oktober",
+  "category": "Aksi Korporasi",
+  "title": "COKE catatkan [obligasi] Rp2 triliun di BEI 12 Oktober",
+  "deck": "PT Maruwai Coal (COKE) mencatatkan Obligasi I Maruwai Coal Tahun 2026 senilai Rp2 triliun di BEI mulai 12 Oktober 2026, dengan rating idAA dari Pefindo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:56:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/df651d8cbb_6dd49ba05c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "COKE",
+  "tags": [
+   "COKE",
+   "obligasi korporasi",
+   "BEI",
+   "ADRO"
+  ],
+  "body": [
+   "PT Maruwai Coal (COKE) akan mencatatkan Obligasi I Maruwai Coal Tahun 2026 di Bursa Efek Indonesia mulai 12 Oktober 2026, menurut pengumuman resmi BEI. Obligasi ini terbagi dalam dua seri dengan total nilai emisi Rp2 triliun. Seri A bernilai Rp1.219.765.000.000 dengan bunga tetap 8,00 persen per tahun, berjangka waktu 370 hari kalender sejak tanggal emisi dan jatuh tempo 19 Oktober 2027. Seri B bernilai Rp780.235.000.000 dengan bunga tetap 8,75 persen per tahun, berjangka waktu tiga tahun sejak tanggal emisi dan jatuh tempo 9 Oktober 2029. Obligasi ini mendapat peringkat idAA (Double A) dari PT Pemeringkat Efek Indonesia (Pefindo), dengan PT Bank KB Indonesia Tbk bertindak sebagai wali amanat.",
+   "Jadwal penawaran umum obligasi ini dimulai dari tanggal efektif 30 September 2026, masa penawaran umum pada 2 sampai 6 Oktober 2026, tanggal penjatahan 7 Oktober 2026, hingga distribusi obligasi secara elektronik dan pengembalian uang pemesanan pada 9 Oktober 2026. Obligasi ini tidak dijamin dengan jaminan khusus, sehingga pemegangnya berkedudukan pari passu atau setara tanpa hak istimewa dibandingkan kreditur lain perusahaan. Perseroan berhak melakukan pembelian kembali sebagian atau seluruh obligasi, namun baru bisa dilakukan satu tahun setelah tanggal penjatahan. Bunga dibayarkan setiap tiga bulan, dengan pembayaran bunga pertama pada 9 Januari 2027, dan pelunasan pokok dilakukan sekaligus penuh saat jatuh tempo masing masing seri.",
+   "Penjamin pelaksana emisi obligasi ini adalah PT Trimegah Sekuritas Indonesia Tbk dan PT Indo Premier Sekuritas. Dokumen prospektus menyebutkan Trimegah Sekuritas memiliki hubungan afiliasi dengan Maruwai Coal, karena pengendali Trimegah juga merupakan salah satu pengendali ADRO yang menjadi pengendali tidak langsung Maruwai Coal. Perseroan sendiri bergerak di bidang pertambangan batu bara metalurgi dan berkedudukan di Jakarta Selatan, dengan laporan keuangannya diaudit oleh KAP Rintis, Jumadi, Rianto & Rekan, firma anggota jaringan global PwC."
+  ],
+  "fotoAdegan": "Wide shot of an open-pit coal mine with heavy excavators loading haul trucks under hazy morning light in Kalimantan",
+  "takeaway": "Penerbitan obligasi ini tergolong netral bagi kinerja COKE, karena menambah utang baru senilai Rp2 triliun tanpa jaminan khusus, tapi rating idAA dari Pefindo menandakan risiko gagal bayarnya masih tergolong rendah. Pos yang paling terdampak adalah beban bunga, yaitu bunga pinjaman yang wajib dibayar perusahaan setiap tiga bulan sebesar 8,00 persen untuk Seri A dan 8,75 persen untuk Seri B, yang akan mengurangi laba bersih dibandingkan bila perusahaan tidak menanggung utang ini. Karena obligasi ini tidak dijamin aset tertentu, pemegangnya berbagi rata tanpa hak istimewa dengan kreditur lain Perseroan kalau suatu saat perusahaan kesulitan membayar. Yang perlu dipantau selanjutnya adalah pembayaran bunga pertama pada 9 Januari 2027, yang menjadi uji awal kemampuan arus kas COKE setelah menanggung utang baru ini. Kesempatan pembelian kembali obligasi juga baru terbuka mulai satu tahun setelah tanggal penjatahan pada 7 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beli-pendapatan-blibli-melonjak-55-ke-rp14-8-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BELI: Pendapatan Blibli Melonjak [55%] ke Rp14,8 Triliun",
+  "deck": "Materi Public Expose BELI mengungkap pendapatan 1H26 naik 55 persen jadi Rp14,8 triliun, margin membaik, dan pergantian Komisaris Utama hasil RUPST.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:53:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6ff9e0a48_12f61b11ce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BELI",
+  "tags": [
+   "BELI",
+   "Blibli",
+   "Public Expose",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Global Digital Niaga Tbk (BELI), induk usaha Blibli, menyampaikan materi Paparan Publik Tahunan 2026 kepada Bursa Efek Indonesia pada 9 Oktober 2026, menjelang acara paparan publik yang dijadwalkan 14 Oktober 2026. Dalam materi tersebut, perseroan melaporkan Pendapatan Neto konsolidasian semester pertama 2026 (1H26) tumbuh 55 persen dibanding periode yang sama tahun sebelumnya, dari Rp9,6 triliun menjadi Rp14,83 triliun. Take Rate, yaitu persentase komisi yang diperoleh Blibli dari nilai transaksi yang terjadi di platformnya, naik dari 8,6 persen menjadi 9,0 persen, didorong kenaikan di segmen Ritel 1P dan Ritel 3P. Laba Bruto Sebelum Diskon (GPBD) tumbuh 17 persen dari Rp3,5 triliun menjadi Rp4,1 triliun, sementara beban operasional terhadap total nilai transaksi (TPV) turun menjadi 6,3 persen, membuat margin EBITDA terhadap TPV naik 170 basis poin dibanding tahun lalu.",
+   "Dari sisi jaringan fisik, perseroan menambah 102 toko baru sepanjang sembilan bulan pertama 2026. Per akhir September 2026, Blibli mengoperasikan 347 toko elektronik konsumen, 24 toko elektronik rumah tangga, dan 1 toko fesyen dan olahraga, ditambah 60 gerai supermarket premium yang dioperasikan anak usaha PT Supra Boga Lestari Tbk atau Ranch Market (BEI: RANC, dimiliki 70,6 persen oleh BELI), serta 39 pusat pengalaman home and living yang dioperasikan anak usaha PT Dekoruma Inovasi Lestari (dimiliki 99,83 persen oleh BELI). Perseroan juga memperkenalkan layanan pengiriman Prioritas yang menjamin pesanan tiba mulai 30 menit sejak pembayaran selesai, serta membuka toko Apple hello store di Grand Indonesia pada September 2026.",
+   "Materi itu juga merangkum hasil Rapat Umum Pemegang Saham Tahunan (RUPST) pada 4 Juni 2026 dan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 15 Juni 2026, yang seluruh agendanya disetujui pemegang saham. RUPST menyetujui pengesahan laporan direksi dan dewan komisaris tahun buku 2025, penetapan gaji dan tunjangan dewan komisaris, serta perubahan susunan dewan komisaris: Imron Hendrata diangkat sebagai Komisaris Utama menggantikan Martin Basuki Hartono, dan Cyrillus Harinowo diangkat sebagai Komisaris Independen. Sementara itu, RUPSLB menyetujui rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), yakni penerbitan saham baru tanpa menawarkannya dulu kepada pemegang saham lama, untuk keperluan program insentif saham karyawan (MESOP) dan keperluan lain di luar program itu, serta persetujuan perubahan anggaran dasar agar sesuai klasifikasi usaha (KBLI) 2025."
+  ],
+  "fotoAdegan": "Workers sorting packages on a conveyor belt inside a large e-commerce warehouse, forklifts moving pallets in the background",
+  "takeaway": "Laporan ini condong positif bagi BELI, karena pertumbuhan pendapatan 55 persen disertai perbaikan margin EBITDA dan Take Rate menunjukkan bisnis membesar sekaligus makin efisien, bukan tumbuh dengan membakar uang sembarangan. Pos yang tersentuh adalah potensi jumlah saham beredar dan laba per saham, karena RUPSLB menyetujui penerbitan saham baru tanpa hak memesan efek terlebih dahulu untuk program insentif karyawan dan keperluan lain, yang kalau dieksekusi akan menambah jumlah saham beredar sehingga porsi kepemilikan pemegang saham lama bisa terdilusi meski jumlah lembar sahamnya belum disebut di sini. Pergantian Komisaris Utama dari Martin Basuki Hartono ke Imron Hendrata juga berarti perubahan di jajaran pengawas tertinggi perseroan, meski materi ini tidak merinci alasannya. Yang perlu dipantau berikutnya adalah pelaksanaan acara Paparan Publik pada 14 Oktober 2026 serta detail realisasi PMTHMETD, termasuk berapa lembar saham baru yang akhirnya diterbitkan dan jadwal efektifnya, karena rincian itu menentukan seberapa besar dampak dilusi bagi pemegang saham saat ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "motogp-mandalika-2026-buka-kerja-musiman-untuk-warga-lombok",
   "category": "Ketenagakerjaan",
   "title": "MotoGP Mandalika 2026 Buka Kerja [Musiman] untuk Warga Lombok",
@@ -27,6 +260,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah pola perekrutan musiman: pengelola Sirkuit Mandalika menyerap warga sekitar, seperti Praya dan Sengkol, untuk posisi kebersihan dan pengelolaan sampah setiap kali ada gelaran besar, dengan jam kerja yang disebut sampai 12 jam sehari. Yang terdampak adalah warga lokal Lombok, termasuk mereka yang sebelumnya tidak punya pekerjaan tetap, seperti ibu rumah tangga yang kini naik jadi koordinator tim. Berita ini belum menyebut berapa total warga yang terserap, berapa upah yang mereka terima, atau apakah rekrutmen musiman ini terjadi di setiap event balap sepanjang tahun atau hanya sesekali. Tanpa angka itu, belum bisa dipastikan apakah lapangan kerja ini jadi sumber pendapatan rutin bagi warga sekitar sirkuit atau sekadar tambahan sesaat, sehingga perlu dicek lewat data resmi pengelola kawasan atau pemerintah daerah NTB soal jumlah dan nilai upah tenaga kerja lokal yang terserap di setiap gelaran.",
   "imageV": "mv0u3z12"
+ },
+ {
+  "slug": "smar-jadwalkan-rupslb-17-november-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Jadwalkan [RUPSLB] 17 November, Agenda Belum Diumumkan",
+  "deck": "SMAR mengumumkan rencana RUPSLB pada 17 November 2026. Pemegang saham yang berhak hadir tercatat per 23 Oktober, usulan agenda ditutup 19 Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:48:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/75bc9df9fb_af796057b6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMAR",
+  "tags": [
+   "SMAR",
+   "RUPSLB",
+   "Sinar Mas Agro Resources and Technology",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Sinar Mas Agro Resources and Technology Tbk (SMAR) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026, pukul 10.00 WIB, di Ruang Danamas, Plaza Sinar Mas Land, Menara 2, Jalan MH Thamrin, Jakarta. Pengumuman ini disampaikan Corporate Secretary SMAR, Jimmy Pramono, melalui surat bernomor 096/SMART-IR/X/2026 tertanggal 9 Oktober 2026, mengacu pada aturan Otoritas Jasa Keuangan tentang rencana dan penyelenggaraan RUPS perusahaan terbuka.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan hingga Jumat, 23 Oktober 2026 pukul 16.00 WIB. Bagi pemegang saham yang ingin mengusulkan mata acara rapat, dengan syarat mewakili minimal 1/20 bagian dari total saham berhak suara, usulan tertulis harus disampaikan kepada direksi paling lambat Senin, 19 Oktober 2026, atau tujuh hari sebelum pemanggilan resmi rapat. Usulan itu baru dimasukkan ke agenda rapat setelah dipertimbangkan dan disetujui direksi.",
+   "Dalam dokumen ini, SMAR belum mengungkapkan agenda atau tujuan RUPSLB tersebut. Perseroan hanya menyampaikan bahwa pemegang saham dapat memberikan kuasa untuk hadir, baik secara elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia maupun secara konvensional menggunakan formulir surat kuasa yang akan disediakan di situs web perusahaan. Pemanggilan resmi yang memuat agenda lengkap rapat dijadwalkan diumumkan pada Senin, 26 Oktober 2026, melalui situs KSEI, eASY.KSEI, situs Bursa Efek Indonesia, dan situs resmi SMAR."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fruit bunches at a plantation, loaded trucks waiting nearby, overcast tropical morning light",
+  "takeaway": "Laporan ini netral bagi SMAR karena hanya memuat tahap awal prosedural RUPSLB, belum ada agenda atau keputusan substantif yang bisa dinilai dampaknya. RUPSLB biasanya dipakai perusahaan untuk mengambil keputusan yang menyentuh struktur permodalan, seperti perubahan jumlah saham beredar atau pembagian keuntungan ke pemegang saham, sehingga hak suara pemegang saham yang tercatat pada tanggal pencatatan jadi penentu siapa yang bisa ikut memutuskan. Yang perlu dipantau adalah pemanggilan resmi pada 26 Oktober 2026 yang akan mengungkap agenda sebenarnya, serta tenggat 19 Oktober 2026 bagi pemegang saham minoritas yang ingin mengusulkan topik rapat. Ini juga datang tak lama setelah SMAR, pada 2 Oktober lalu, menegaskan tidak ada informasi material di balik gejolak harga sahamnya, sehingga agenda RUPSLB ini layak ditunggu untuk melihat apakah ada kaitannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-umumkan-jatuh-tempo-16-waran-terstruktur-pada-30-oktober",
+  "category": "Aksi Korporasi",
+  "title": "ZP Umumkan [Jatuh Tempo] 16 Waran Terstruktur pada 30 Oktober",
+  "deck": "16 waran terstruktur acuan ASII, TLKM, SMGR, dan sejumlah saham lain jatuh tempo 30 Oktober 2026; penyelesaian tunai dihitung dari rata-rata harga saham acuan lima hari sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:44:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/37cd1f343c_59a4cd3df4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "ASII",
+   "TLKM"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia (kode emiten ZP) mengumumkan bahwa 16 waran terstruktur jenis call warrant akan jatuh tempo pada Jumat, 30 Oktober 2026 pukul 09.00 WIB. Sebelum tanggal itu, perdagangan waran-waran ini dihentikan lebih dulu: hari terakhir diperdagangkan di bursa adalah Selasa, 27 Oktober 2026 pukul 16.00 WIB, lalu perdagangannya resmi disetop sejak pukul 09.00 WIB pada Rabu, 28 Oktober 2026.",
+   "Penyelesaian seluruh waran ini dilakukan secara tunai, bukan dengan penyerahan saham. Jumlah uang yang diterima pemegang waran dihitung dari selisih antara harga penyelesaian dan harga pelaksanaan, dibagi rasio konversi, lalu dikalikan jumlah waran yang dimiliki. Harga penyelesaian sendiri diambil dari rata-rata harga penutupan saham acuan selama lima hari bursa sebelum tanggal jatuh tempo. Jika hasil hitungan itu positif setelah dikurangi biaya pelaksanaan, waran otomatis dieksekusi dan dananya disalurkan KSEI kepada pemegang waran satu hari bursa setelah tanggal penyelesaian. Sebaliknya, bila hasilnya nol atau negatif, seluruh waran yang beredar akan berakhir tanpa pembayaran apa pun.",
+   "Enam belas waran yang jatuh tempo beserta harga pelaksanaan dan rasio konversinya adalah: ARTOZPCV6A di Rp1.600 (rasio 15:1 saham ARTO), ASIIZPCV6A di Rp6.551 (rasio 28,0741:1 ASII), BRMSZPCV6A di Rp1.200 (rasio 8:1 BRMS), BRPTZPCV6A di Rp2.100 (rasio 15:1 BRPT), BUMIZPCV6A di Rp250 (rasio 3:1 BUMI), CTRAZPCV6A di Rp890 (rasio 6,5579:1 CTRA), EMTKZPCV6A di Rp1.000 (rasio 8:1 EMTK), ENRGZPCV6A di Rp923 (rasio 6,6458:1 ENRG), KIJAZPCV6A di Rp250 (rasio 3:1 KIJA), MDKAZPCV6A di Rp3.000 (rasio 15:1 MDKA), MEDCZPCV6A di Rp1.850 (rasio 7,7893:1 MEDC), RAJAZPCV6A di Rp800 (rasio 8:1 RAJA), SMGRZPCV6A di Rp3.000 (rasio 13:1 SMGR), TLKMZPCV6A di Rp3.700 (rasio 13,8746:1 TLKM), TOWRZPCV6A di Rp600 (rasio 6:1 TOWR), dan WIFIZPCV6A di Rp2.600 (rasio 17:1 WIFI)."
+  ],
+  "fotoAdegan": "Wide view of a securities trading floor with rows of desks and multiple monitors slightly out of focus, afternoon light through tall windows",
+  "takeaway": "Laporan ini netral bagi keenam belas saham acuan, sebab yang jatuh tempo adalah produk derivatif milik pihak ketiga, Maybank Sekuritas, bukan keputusan atau aksi korporasi dari ARTO, ASII, BRMS, BRPT, BUMI, CTRA, EMTK, ENRG, KIJA, MDKA, MEDC, RAJA, SMGR, TLKM, TOWR, maupun WIFI sendiri. Karena penyelesaiannya tunai, bukan penyerahan saham, jumlah saham beredar dan laba per saham emiten-emiten itu tidak berubah sama sekali, jadi tidak ada pengenceran kepemilikan yang perlu dikhawatirkan pemegang saham. Yang perlu dipantau justru oleh pemegang waran, bukan pemegang saham: pergerakan harga saham acuan pada lima hari bursa sebelum 30 Oktober 2026 akan menentukan apakah warannya berakhir dengan nilai positif atau sekadar kedaluwarsa tanpa pembayaran, dengan tenggat perdagangan terakhir pada 27 Oktober dan penghentian mulai 28 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "menteri-pu-pastikan-irigasi-siap-untuk-panen-perdana-di-merauke",

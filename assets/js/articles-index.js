@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bswd-papar-suspensi-saham-dan-tenggat-free-float-2029",
+  "category": "Aksi Korporasi",
+  "title": "BSWD Papar Suspensi Saham dan Tenggat Free Float [2029]",
+  "deck": "BOI Indonesia (BSWD) menjawab soal suspensi saham, kesenjangan dana pihak ketiga, dan tenggat free float 2029 dalam public expose insidental 8 Oktober 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSWD",
+   "Bank of India Indonesia",
+   "Suspensi Saham",
+   "Public Expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/05d227840f_1beefbb82a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bino-lewati-tenggat-refloat-129-juta-saham-belum-ke-publik",
+  "category": "Aksi Korporasi",
+  "title": "BINO Lewati Tenggat [Refloat], 129 Juta Saham Belum ke Publik",
+  "deck": "Pengendali BINO belum menuntaskan wajib lepas saham usai tender offer 2024; tenggat dua tahun berakhir 5 September 2026 dengan realisasi nol persen.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BINO",
+   "refloat",
+   "tender offer",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dec6dac01a_4903270b52.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-buyback-saham-tembus-1-99-per-9-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PRDA [Buyback] Saham Tembus 1,99% per 9 Oktober",
+  "deck": "Prodia Widyahusada telah membeli kembali 18,6 juta saham atau 1,99 persen dari total saham beredar sejak 20 Agustus, dengan sisa dana buyback Rp98,03 miliar dari pagu sekitar Rp150 miliar.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "pasar modal",
+   "Prodia Widyahusada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6db0e7439b_172afd1d18.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cnma-koreksi-format-laporan-realisasi-dana-ipo-nilai-tetap",
+  "category": "Aksi Korporasi",
+  "title": "CNMA Koreksi Format Laporan [Realisasi] Dana IPO, Nilai Tetap",
+  "deck": "Cinema XXI (CNMA) merevisi format laporan realisasi dana IPO Rp2,17 triliun sesuai aturan OJK baru, tanpa mengubah angka yang sudah dilaporkan sebelumnya.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CNMA",
+   "IPO",
+   "penggunaan dana",
+   "Cinema XXI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e98d35680_c6f332d4ab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oppm-lunasi-obligasi-rp2-98-triliun-jatuh-tempo-12-okt",
+  "category": "Aksi Korporasi",
+  "title": "OPPM [lunasi] obligasi Rp2,98 triliun jatuh tempo 12 Okt",
+  "deck": "Empat seri obligasi dan sukuk OPPM senilai Rp2,98 triliun plus obligasi dolar jatuh tempo dan delisting dari BEI pada 12 Oktober 2026, dengan dana pelunasan yang sudah disiapkan penuh dari kas.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OPPM",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5110c74978_dd3cd91895.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "agii-siapkan-dana-rp76-5-miliar-lunasi-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "AGII siapkan dana [Rp76,5 miliar] lunasi obligasi dan sukuk",
+  "deck": "PT Samator Indo Gas Tbk memastikan dana pelunasan obligasi Rp41 miliar dan sukuk ijarah Rp35,5 miliar yang jatuh tempo 10 Oktober 2026 sudah tersedia di rekening perusahaan.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGII",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ffeed49aaf_eccfed830f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmhs-wakil-presiden-komisaris-shubhasish-chattoraj-mundur",
+  "category": "Aksi Korporasi",
+  "title": "BMHS: Wakil Presiden Komisaris Shubhasish Chattoraj [Mundur]",
+  "deck": "Wakil Presiden Komisaris BMHS, Shubhasish Chattoraj, mengajukan pengunduran diri pada 7 Oktober 2026. Perseroan akan menggelar RUPSLB untuk meminta persetujuan pemegang saham.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMHS",
+   "Bundamedik",
+   "komisaris",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/676086acd1_98cb280276.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "coke-catatkan-obligasi-rp2-triliun-di-bei-12-oktober",
+  "category": "Aksi Korporasi",
+  "title": "COKE catatkan [obligasi] Rp2 triliun di BEI 12 Oktober",
+  "deck": "PT Maruwai Coal (COKE) mencatatkan Obligasi I Maruwai Coal Tahun 2026 senilai Rp2 triliun di BEI mulai 12 Oktober 2026, dengan rating idAA dari Pefindo.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "COKE",
+   "obligasi korporasi",
+   "BEI",
+   "ADRO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/df651d8cbb_6dd49ba05c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beli-pendapatan-blibli-melonjak-55-ke-rp14-8-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BELI: Pendapatan Blibli Melonjak [55%] ke Rp14,8 Triliun",
+  "deck": "Materi Public Expose BELI mengungkap pendapatan 1H26 naik 55 persen jadi Rp14,8 triliun, margin membaik, dan pergantian Komisaris Utama hasil RUPST.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BELI",
+   "Blibli",
+   "Public Expose",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6ff9e0a48_12f61b11ce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "motogp-mandalika-2026-buka-kerja-musiman-untuk-warga-lombok",
   "category": "Ketenagakerjaan",
   "title": "MotoGP Mandalika 2026 Buka Kerja [Musiman] untuk Warga Lombok",
@@ -20,6 +164,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472078-pertamina-grand-prix-of-indonesia-2026-ciptakan-peluang-kerja-musiman-bagi-warga-lombok"
+ },
+ {
+  "slug": "smar-jadwalkan-rupslb-17-november-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Jadwalkan [RUPSLB] 17 November, Agenda Belum Diumumkan",
+  "deck": "SMAR mengumumkan rencana RUPSLB pada 17 November 2026. Pemegang saham yang berhak hadir tercatat per 23 Oktober, usulan agenda ditutup 19 Oktober.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMAR",
+   "RUPSLB",
+   "Sinar Mas Agro Resources and Technology",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/75bc9df9fb_af796057b6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-umumkan-jatuh-tempo-16-waran-terstruktur-pada-30-oktober",
+  "category": "Aksi Korporasi",
+  "title": "ZP Umumkan [Jatuh Tempo] 16 Waran Terstruktur pada 30 Oktober",
+  "deck": "16 waran terstruktur acuan ASII, TLKM, SMGR, dan sejumlah saham lain jatuh tempo 30 Oktober 2026; penyelesaian tunai dihitung dari rata-rata harga saham acuan lima hari sebelumnya.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "ASII",
+   "TLKM"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/37cd1f343c_59a4cd3df4.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "menteri-pu-pastikan-irigasi-siap-untuk-panen-perdana-di-merauke",
@@ -6295,187 +6471,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-8245-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "smfp-siapkan-rp2-95-triliun-untuk-lunasi-dua-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "SMFP Siapkan [Rp2,95 Triliun] untuk Lunasi Dua Obligasi",
-  "deck": "SMF menyiapkan dana Rp2,95 triliun plus bunga Rp44,49 miliar untuk melunasi dua obligasi, SMFP06CN2 dan SMFP07BCN7, yang jatuh tempo pada 17 dan 26 November 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMFP",
-   "obligasi",
-   "pelunasan utang",
-   "SMF"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dad3e3a758_2eae89c29e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-direksi-djohan-sutanto-tambah-975-589-saham-mesop",
-  "category": "Aksi Korporasi",
-  "title": "ERAA: Direksi Djohan Sutanto Tambah [975.589] Saham MESOP",
-  "deck": "Direktur Djohan Sutanto menambah 975.589 lembar saham ERAA lewat program opsi karyawan MESOP, pelaporan kelima dari jajaran direksi dalam sepekan terakhir.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "MESOP",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-5456-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "drma-komisaris-jual-125-000-saham-hak-suara-tetap-1-69",
-  "category": "Aksi Korporasi",
-  "title": "DRMA: Komisaris [Jual] 125.000 Saham, Hak Suara Tetap 1,69%",
-  "deck": "Komisaris DRMA menjual 125.000 saham tidak langsung senilai sekitar Rp115,3 juta pada 28-29 September, namun hak suaranya tetap 1,69 persen.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DRMA",
-   "Dharma Polimetal",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6079-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-sim-chee-ping-tambah-1-18-juta-saham-mesop",
-  "category": "Aksi Korporasi",
-  "title": "ERAA: Sim Chee Ping Tambah 1,18 Juta Saham [MESOP]",
-  "deck": "Direksi ERAA Sim Chee Ping menambah 1.183.423 saham lewat program kompensasi karyawan MESOP, bagian dari rangkaian laporan serupa dari direksi Erajaya pekan ini.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "MESOP",
-   "Direksi",
-   "Kepemilikan Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-9255-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-direksi-kim-jong-woon-tambah-1-15-juta-saham-mesop",
-  "category": "Aksi Korporasi",
-  "title": "ERAA: Direksi Kim Jong Woon Tambah 1,15 Juta Saham [MESOP]",
-  "deck": "Direksi ERAA, Kim Jong Woon, menambah 1.156.453 saham lewat program kompensasi karyawan MESOP, sehingga total kepemilikannya naik jadi 2.312.907 lembar saham.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "MESOP",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6962-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-eco-energi-perkasa-tambah-saham-suara-ke-38-57",
-  "category": "Aksi Korporasi",
-  "title": "PACK: Eco Energi Perkasa [tambah] saham, suara ke 38,57%",
-  "deck": "Pemegang saham asing Eco Energi Perkasa menambah 22,8 juta saham PACK senilai sekitar Rp13,27 miliar, hak suara naik tipis ke 38,57%.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "kepemilikan saham",
-   "Eco Energi Perkasa",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-9618-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bfin-direksi-sutadi-tambah-saham-1-5-juta-lembar",
-  "category": "Aksi Korporasi",
-  "title": "BFIN: Direksi [Sutadi] Tambah Saham 1,5 Juta Lembar",
-  "deck": "Direksi BFI Finance Indonesia, Sutadi, membeli 1,5 juta saham BFIN secara bertahap akhir September hingga awal Oktober 2026, senilai sekitar Rp1,38 miliar.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BFIN",
-   "BFI Finance",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-6540-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nayz-pengendali-baru-buka-tender-wajib-rp75-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ: Pengendali Baru Buka [Tender Wajib] Rp75 per Saham",
-  "deck": "Saiko Consultancy menawar tender wajib atas saham publik NAYZ seharga Rp75 per lembar, menyusul pengambilalihan 29,41 persen saham dari PT Asia Intrainvesta pada Agustus 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NAYZ",
-   "tender wajib",
-   "akuisisi",
-   "Saiko Consultancy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1b232f5a0b_1fc2f43a4b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkp-kemendag-buka-akses-ekspor-umkm-perikanan",
-  "category": "UMKM",
-  "title": "KKP-Kemendag Buka Akses [Ekspor] UMKM Perikanan",
-  "deck": "KKP dan Kemendag kerja sama agar produk perikanan UMKM dan desa bersertifikat mutu bisa masuk platform ekspor nasional InaExport untuk menjangkau pembeli luar negeri.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/kkp-kemendag-buka-akses-ekspor-umkm-perikanan.jpg",
-  "imageV": "muq91pdd",
-  "tags": [
-   "UMKM",
-   "Ekspor",
-   "Perikanan",
-   "KKP"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/produk-perikanan-umkm-masuk-inaexport-kkp-kemendag-buka-akses-pasar-global-OP4L.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "ppn-transaksi-digital-luar-negeri-kini-dipungut-lewat-bank",
-  "category": "Makroekonomi",
-  "title": "PPN Transaksi Digital Luar Negeri Kini [Dipungut] Lewat Bank",
-  "deck": "Ditjen Pajak mulai memungut PPN atas transaksi digital luar negeri lewat enam bank dan fintek sejak 25 September 2026, berdasarkan PMK Nomor 49 Tahun 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/ppn-transaksi-digital-luar-negeri-kini-dipungut-lewat-bank.jpg",
-  "imageV": "mupsrqhd",
-  "tags": [
-   "PPN digital",
-   "Ditjen Pajak",
-   "SPP-TDLN",
-   "transaksi luar negeri"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pemerintah-mulai-terapkan-spp-tdln",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "pajak-penjual-online-mulai-dipungut-lebih-cepat-sebulan",
-  "category": "Bisnis",
-  "title": "Pajak Penjual Online Mulai Dipungut, Lebih [Cepat] Sebulan",
-  "deck": "DJP memulai pemungutan PPh Pasal 22 atas pedagang online lewat empat marketplace pada 1 Oktober 2026, lebih awal dari tenggat penyesuaian 31 Oktober yang sebelumnya dijanjikan.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/pajak-penjual-online-mulai-dipungut-lebih-cepat-sebulan.jpg",
-  "imageV": "mupsrrc1",
-  "tags": [
-   "PPh Pasal 22",
-   "Marketplace",
-   "Pajak Digital",
-   "DJP"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pemungutan-pph-pasal-22-melalui-marketplace-mulai-dilaksanakan-1-oktober-2026",
-  "sourceLabel": "Direktorat Jenderal Pajak"
  }
 ];

@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smle-jelaskan-rencana-akuisisi-saham-sinar-aroma-sentosa",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Jelaskan Rencana [Akuisisi] Saham Sinar Aroma Sentosa",
+  "deck": "SMLE mengoreksi surat rencana public expose insidentil dengan menambah daftar direksi yang hadir, membahas rencana penjualan saham anak usaha ke perusahaan Denmark pada 13 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T22:29:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f3320584c6_ff463e4037.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMLE",
+  "tags": [
+   "SMLE",
+   "Public Expose",
+   "Akuisisi Anak Usaha",
+   "Sinar Aroma Sentosa"
+  ],
+  "body": [
+   "PT Sinergi Multi Lestarindo Tbk (SMLE) mengoreksi surat sebelumnya tertanggal 29 September 2026 perihal rencana public expose insidentil, dengan menambahkan daftar jajaran direksi yang akan hadir. Mereka adalah Direktur Utama Siu Min, Direktur Pemasaran dan Penjualan, Direktur Pengembangan Produk, Direktur Keuangan, dan Komisaris Utama. Agenda acara tidak berubah, yaitu membahas rencana akuisisi saham pada anak usaha perseroan, PT Sinar Aroma Sentosa, oleh DENICO FOOD Ingredients, perusahaan yang didirikan berdasarkan hukum Denmark. SMLE menyatakan, berdasarkan penelaahannya, pembeli bukan merupakan pihak yang terafiliasi dengan perseroan.",
+   "Dalam public expose itu, SMLE berencana memaparkan enam pokok materi, yaitu latar belakang dan tujuan rencana pengalihan saham Sinar Aroma Sentosa, rincian rencana transaksi, status pembeli sebagai pihak independen beserta hasil penelaahan ada atau tidaknya benturan kepentingan dengan direksi, komisaris, dan pemegang saham pengendali. Materi lain mencakup dampak transaksi terhadap struktur kepemilikan, laporan keuangan, kegiatan usaha, dan pengendalian perseroan atas Sinar Aroma Sentosa, serta aspek kepatuhan hukum pasar modal dan hal material lain yang relevan bagi pemegang saham.",
+   "Public expose akan diselenggarakan secara daring melalui Zoom Webinar pada Selasa, 13 Oktober 2026, pukul 09.00 sampai 10.00 WIB, dengan pendaftaran dibuka lewat tautan yang disediakan perseroan. Materi presentasi wajib dipublikasikan di laman IDX Public Expose Live dan situs resmi SMLE paling lambat satu hari sebelum acara, yakni 12 Oktober 2026. Sesuai aturan Bursa Efek Indonesia, hasil pertemuan ini wajib dilaporkan ke bursa paling lambat 16 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers in lab coats monitoring stainless steel mixing tanks at a flavoring and fragrance ingredients plant, soft industrial light",
+  "takeaway": "Laporan ini netral bagi SMLE untuk saat ini, sebab yang diumumkan baru jadwal dan agenda keterbukaan, belum ada nilai transaksi atau persentase saham Sinar Aroma Sentosa yang akan dilepas ke DENICO Food Ingredients. Yang berpotensi tersentuh adalah struktur kepemilikan anak usaha itu, yang pada gilirannya menentukan apakah kinerja Sinar Aroma Sentosa masih digabungkan penuh ke laporan keuangan konsolidasi SMLE atau tidak, tergantung berapa besar porsi saham yang akhirnya berpindah tangan. Pembaca perlu menahan penilaian sampai rincian nilai transaksi dan dampaknya terhadap pengendalian anak usaha benar benar dibuka, karena surat ini sendiri belum memuatnya. Yang perlu dipantau berikutnya adalah pelaksanaan public expose pada Selasa, 13 Oktober 2026 pukul 09.00 WIB, serta laporan hasil pertemuan itu ke Bursa Efek Indonesia yang wajib disampaikan paling lambat 16 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "msky-hadapi-gugatan-pkpu-dari-ascot-group-holdings",
+  "category": "Aksi Korporasi",
+  "title": "MSKY Hadapi Gugatan [PKPU] dari Ascot Group Holdings",
+  "deck": "Ascot Group Holdings Ltd mengajukan PKPU terhadap MNC Sky Vision ke Pengadilan Niaga Jakarta Pusat. Sidang kedua digelar 8 Oktober 2026, belum ada putusan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T22:21:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/45f883c474_99ec72798b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSKY",
+  "tags": [
+   "MSKY",
+   "PKPU",
+   "MNC Sky Vision",
+   "Pengadilan Niaga"
+  ],
+  "body": [
+   "MNC Sky Vision Tbk (MSKY) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa perusahaan menerima permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) dari Ascot Group Holdings Ltd selaku pemohon. Permohonan ini didaftarkan ke Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat dengan nomor perkara 292/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst, dengan tanggal kejadian tercatat 1 Oktober 2026.",
+   "Sidang pertama atas permohonan ini digelar pada 1 Oktober 2026 dengan agenda pemeriksaan keabsahan pihak-pihak yang berperkara. Sidang kedua berlangsung pada 8 Oktober 2026, mengagendakan penyerahan jawaban dari MSKY selaku pihak termohon serta pemeriksaan alat bukti dari kedua pihak. Hingga laporan ini disampaikan pada 9 Oktober 2026, proses pemeriksaan masih berjalan dan Pengadilan Niaga Jakarta Pusat belum mengeluarkan putusan.",
+   "MSKY menyatakan bahwa sampai saat ini permohonan PKPU tersebut belum memberikan dampak material terhadap kegiatan operasional, kondisi keuangan, maupun kelangsungan usahanya, dan perusahaan tetap beroperasi seperti biasa. Perusahaan menyebut akan mengikuti seluruh proses hukum yang berlaku dan akan menyampaikan keterbukaan informasi lanjutan apabila terdapat perkembangan yang bersifat material. Laporan ini ditandatangani oleh Corporate Secretary MSKY, Ray Rezky Prihatino."
+  ],
+  "fotoAdegan": "A technician adjusting a satellite television dish on an urban rooftop in Jakarta, overcast afternoon sky, cables visible.",
+  "takeaway": "Laporan ini condong negatif bagi MSKY, sebab permohonan PKPU dari kreditor seperti Ascot Group Holdings Ltd biasanya muncul saat ada klaim utang yang dianggap belum dibayar sesuai kesepakatan, walau perusahaan menegaskan belum ada dampak material terhadap operasional dan keuangannya. PKPU sendiri adalah proses di pengadilan niaga yang memungkinkan kreditor meminta debitor menunda pembayaran utang sambil menyusun rencana perdamaian, dan kalau proses ini gagal disepakati dalam waktu yang diatur undang-undang, status perusahaan bisa berubah menjadi pailit. Pos yang perlu dicermati investor adalah arus kas dan beban utang perusahaan, karena permohonan semacam ini umumnya muncul ketika kreditor merasa pembayarannya tersendat. Sampai laporan ini disampaikan, prosesnya belum tercermin langsung pada ekuitas atau laba per saham MSKY, tapi itu bisa berubah tergantung hasil persidangan selanjutnya. Yang perlu dipantau berikutnya adalah kelanjutan sidang di Pengadilan Niaga Jakarta Pusat atas perkara nomor 292/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst, termasuk apakah tercapai perdamaian utang atau berlanjut ke putusan pailit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smle-realisasi-dana-ipo-62-gudang-dan-lab-molor",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Realisasi Dana IPO 62%, Gudang dan Lab [Molor]",
+  "deck": "SMLE baru merealisasikan 62,36 persen dana IPO senilai Rp81,48 miliar hingga Juni 2026. Pembangunan gudang dan pembelian alat lab molor ke 2028.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T21:43:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/319244226d_75c014d2de.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMLE",
+  "tags": [
+   "SMLE",
+   "IPO",
+   "realisasi dana",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Sinergi Multi Lestarindo Tbk (SMLE) menyampaikan revisi laporan realisasi penggunaan dana hasil IPO periode per 30 Juni 2026 kepada OJK dan Bursa Efek Indonesia. Surat bernomor 00105/P-DIR/SMLE/X/2026 itu ditandatangani Direktur Utama Siu Min pada 8 Oktober 2026 dan disampaikan oleh Corporate Secretary Arry Wahyu Riansyah pada 9 Oktober 2026. Dari total dana IPO Rp81.484.375.000 yang efektif pada 29 Desember 2023, setelah dipotong biaya penawaran umum Rp3.018.032.908, dana bersih yang diperoleh perusahaan adalah Rp78.466.342.092.",
+   "Sesuai revisi rencana penggunaan dana berdasarkan keputusan RUPSLB 28 November 2024, dana dialokasikan ke tiga pos, yaitu modal kerja Rp43.766.342.092 (55,78 persen), pembelian alat laboratorium Rp3.400.000.000 (4,33 persen), serta pembelian lahan dan pembangunan gudang, yang sebelumnya hanya direncanakan sebagai pembelian gudang, senilai Rp31.300.000.000 (39,89 persen). Hingga 30 Juni 2026, modal kerja sudah terpakai seluruhnya atau 100 persen. Sementara itu, pembelian alat laboratorium baru terealisasi Rp471.606.932 atau 13,87 persen dari anggarannya, dan pembelian lahan serta pembangunan gudang baru terealisasi Rp6.572.100.000 atau 21 persen. Secara total, SMLE telah merealisasikan Rp50.810.049.024 atau 62,36 persen dari dana bersih IPO, menyisakan Rp27.656.293.068 atau 33,94 persen yang belum terpakai.",
+   "Perusahaan menjelaskan pembelian alat laboratorium masih dalam tahap analisis kebutuhan, termasuk rencana pembelian spektrofotometer UV-Vis, sementara untuk lahan dan gudang, SMLE masih berkoordinasi dengan pengembang untuk pengajuan izin mendirikan bangunan. Target waktu penggunaan dana diperpanjang menjadi 26 Juni 2028. Sisa dana yang belum terpakai sementara ditempatkan dalam deposito berjangka satu bulan dengan perpanjangan otomatis di PT Bank OCBC NISP Tbk, berbunga 2,5 persen per tahun, pada pihak yang tidak memiliki hubungan afiliasi dengan perusahaan."
+  ],
+  "fotoAdegan": "A half-built warehouse frame on a cleared industrial plot, workers in hard hats pouring concrete, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi SMLE, karena dua pos belanja modal yang paling menentukan penambahan kapasitas usaha, yaitu alat laboratorium dan lahan untuk gudang, masing-masing baru terealisasi 13,9 persen dan 21 persen setelah dua setengah tahun sejak IPO, dan tenggatnya malah diundur lagi ke 26 Juni 2028. Yang tersentuh di sini adalah arus kas investasi perusahaan, yaitu dana yang seharusnya sudah berubah jadi aset produktif seperti alat lab dan gudang, tapi masih mengendap sebagai deposito berbunga 2,5 persen di bank, sehingga rencana penambahan kapasitas belum terwujud sesuai target awal. Sisi baiknya, porsi modal kerja sudah terpakai seluruhnya sehingga operasional harian perusahaan tetap terdanai. Yang perlu dipantau pembaca adalah laporan realisasi periode berikutnya serta progres pengajuan izin mendirikan bangunan untuk gudang, karena keduanya akan menentukan apakah target baru 26 Juni 2028 itu realistis atau akan diundur lagi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sraj-pastikan-dana-obligasi-rp950-miliar-rampung-terserap",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ Pastikan Dana Obligasi Rp950 Miliar [Rampung] Terserap",
+  "deck": "Revisi laporan ke OJK menunjukkan dana Rp950 miliar dari Obligasi I SRAJ 2022 sudah 100 persen terpakai untuk modal kerja, bangunan, dan peralatan di lima unit usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T21:41:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/abbe9354ff_2b801db372.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRAJ",
+  "tags": [
+   "SRAJ",
+   "obligasi",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "body": [
+   "PT Sejahteraraya Anugrahjaya Tbk (SRAJ) menyampaikan revisi Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum atas Obligasi I Sejahteraraya Anugrahjaya Tahun 2022, dengan posisi per 30 Juni 2026. Surat bernomor 002/PT-SRAJ/X/2026 ini ditandatangani Corporate Secretary Arie Farisandi dan dikirim ke Otoritas Jasa Keuangan pada 9 Oktober 2026, mengacu pada Pasal 2 ayat (1) POJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum.",
+   "Obligasi ini efektif pada 29 September 2022 dengan total dana yang dihimpun Rp950 miliar. Setelah dipotong biaya penawaran umum Rp8,64 miliar, yang terdiri dari biaya penjaminan Rp395,3 juta, biaya penyelenggaraan Rp1,84 miliar, biaya penjualan Rp395,3 juta, biaya profesi penunjang pasar modal Rp1,61 miliar, biaya lembaga penunjang pasar modal Rp2,21 miliar, biaya konsultasi keuangan Rp2,05 miliar, dan biaya lain-lain Rp140,3 juta, hasil bersih yang bisa dipakai perusahaan adalah Rp941,36 miliar. Seluruh dana ini sudah terealisasi 100 persen sesuai rencana di prospektus, sehingga sisa dana yang belum terpakai kini nol.",
+   "Rincian alokasi menunjukkan dana terbesar jatuh ke entitas berkode NSK, yaitu Rp244,75 miliar untuk bangunan dan Rp235,34 miliar untuk peralatan, ditambah Rp37,65 miliar untuk modal kerja. Unit Perseroan Tangerang menyerap Rp77,48 miliar untuk peralatan, Rp40,3 miliar untuk bangunan, dan Rp14,09 miliar untuk modal kerja. Entitas berkode SAS mendapat Rp84,72 miliar untuk peralatan, Rp47,07 miliar untuk bangunan, dan Rp9,41 miliar untuk modal kerja, sementara entitas berkode NKM memperoleh Rp56,48 miliar untuk peralatan, Rp28,24 miliar untuk bangunan, dan Rp9,41 miliar untuk modal kerja. Sisanya mengalir ke Perseroan Bogor sebesar Rp16,66 miliar untuk peralatan, Rp16,18 miliar untuk bangunan, dan Rp23,56 miliar untuk modal kerja."
+  ],
+  "fotoAdegan": "Construction crew working on a multi-story hospital building exterior, scaffolding and crane, clear daytime sky in Indonesia",
+  "takeaway": "Laporan ini netral bagi SRAJ karena isinya hanya mengonfirmasi bahwa dana hasil Obligasi I Sejahteraraya Anugrahjaya Tahun 2022 sudah habis terpakai sesuai rencana di prospektus, tanpa membawa perubahan arah bisnis atau risiko baru. Pos yang tersentuh adalah arus kas investasi, karena dana obligasi dipakai membiayai modal kerja, bangunan, dan peralatan di lima unit usaha, serta beban bunga, karena status obligasi sebagai utang berbunga tetap berjalan sampai jatuh tempo meski dananya sudah terserap seluruhnya. Dengan sisa dana kini nol dan realisasi mencapai 100 persen dari rencana, hal yang perlu dipantau berikutnya adalah apakah revisi per 30 Juni 2026 ini menjadi laporan LRPD terakhir untuk emisi obligasi tersebut, mengingat kewajiban lapor semacam ini biasanya berakhir begitu seluruh dana sudah terpakai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wika-revisi-realisasi-dana-right-issue-rp6-08-t-koreksi",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Revisi Realisasi Dana Right Issue Rp6,08 T [Koreksi]",
+  "deck": "WIKA mengoreksi laporan realisasi dana hasil rights issue 2024 menyusul tinjauan OJK, menyisakan Rp1,67 miliar yang ditargetkan habis kuartal IV 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T21:40:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b5fdd05840_188ece442e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "rights issue",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum terbatas atau rights issue (PMHMETD II) periode per 30 Juni 2026. Koreksi ini disampaikan menyusul surat Otoritas Jasa Keuangan Nomor S-2173/PM.222/2026 tertanggal 29 September 2026 yang menelaah laporan realisasi dana WIKA sebelumnya, yang terbit pada 14 Juli 2026. Surat koreksi bernomor SE.01.00/A.CORSEC.00337/2026 ditandatangani Direktur Utama WIKA, I Ketut Pasek Senjaya Putra, pada 7 Oktober 2026, dan disampaikan ke Bursa Efek Indonesia oleh Corporate Secretary Mahendra Vijaya pada 9 Oktober 2026.",
+   "Rights issue WIKA yang efektif pada 2024 itu menghimpun dana kotor Rp6,09 triliun. Setelah dipotong biaya penawaran umum Rp10,92 miliar, dana bersih yang diterima perseroan Rp6,08 triliun. Dalam laporan terkoreksi ini, jumlah dana yang sudah direalisasikan untuk membiayai proyek naik menjadi Rp6,09 triliun atau 99,97 persen dari dana kotor, dibanding versi laporan sebelumnya yang mencatat realisasi Rp6,08 triliun. Selisihnya, Rp10,92 miliar, persis sama dengan biaya penawaran umum, sehingga koreksi ini pada dasarnya mengakui biaya emisi rights issue itu sendiri sebagai bagian dari dana yang sudah terpakai. Sisa dana yang belum terpakai tercatat Rp1,67 miliar atau 0,03 persen, dan perseroan menargetkan dana itu habis terpakai pada kuartal IV 2026.",
+   "Sebagian besar dana, sekitar Rp6 triliun, dialokasikan sebagai modal kerja untuk proyek strategis nasional yang dikerjakan WIKA, antara lain pembangunan Istana Negara dan Kantor Presiden di Ibu Kota Nusantara, jalan tol Kariangau-Tempadung, jalan tol Serang-Panimbang, jalan tol Semarang-Demak, jalan tol Probowangi, jalan tol Jakarta-Cikampek Selatan Seksi II, bendungan Lau Simeme dan Karangnongko, sistem penyediaan air minum Jatiluhur dan Wosusokas, pelabuhan Patimban, hingga pembangunan tangki LPG Tuban untuk Pertamina. Hampir seluruh proyek dalam daftar itu terealisasi penuh, kecuali proyek Sistem Penyediaan Air Minum Jatiluhur yang masih menyisakan Rp679,7 juta, serta tiga proyek yang realisasinya masih nol, yaitu Bendungan Manikin di Nusa Tenggara Timur, Jalan Tol Serang-Panimbang Paket 3B, dan proyek peningkatan jalan kawasan Hankam Lingkar Sepaku 4. Sisanya, sekitar Rp88 miliar, dipakai untuk biaya rights issue itu sendiri dan Proyek RS PON, sementara dana yang belum terserap disimpan dalam bentuk giro di Bank Mandiri, pihak afiliasi, dengan bunga 1,9 persen dan 2,25 persen per tahun."
+  ],
+  "fotoAdegan": "Construction workers in hard hats pouring concrete on an elevated toll road pillar, cranes and scaffolding visible, overcast sky at an Indonesian site",
+  "takeaway": "Laporan ini condong negatif bagi WIKA, bukan karena isi teknisnya yang justru menunjukkan dana rights issue sudah hampir seluruhnya terserap, melainkan karena koreksi ini dipicu tinjauan OJK atas laporan sebelumnya dan terbit di tengah rentetan kabar gagal bayar bunga obligasi serta bagi hasil sukuk WIKA pekan ini, yang memperberat sorotan atas keandalan pelaporan keuangan perseroan saat kondisi kasnya sedang tertekan. Laporan ini menyentuh pos arus kas, yaitu aliran uang masuk dan keluar dari kantong perusahaan, karena memperlihatkan ke mana persisnya dana besar hasil rights issue dibelanjakan dan berapa yang masih tersisa. Pelaku pasar memperhatikan arus kas semacam ini karena dana rights issue berasal dari pemegang saham yang menyuntik modal baru, sehingga transparansi soal realisasinya penting untuk menilai apakah manajemen memakai dana itu sesuai janji di prospektus, apalagi ketika perusahaan sedang kesulitan membayar utang jangka pendeknya. Yang perlu dipantau berikutnya adalah realisasi sisa dana Rp1,67 miliar yang ditargetkan tuntas pada kuartal IV 2026, serta apakah laporan realisasi dana periode berikutnya kembali mendapat catatan dari OJK.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "kota-jadwalkan-ulang-rupslb-pmhmetd-ke-15-oktober",
   "category": "Aksi Korporasi",
   "title": "KOTA Jadwalkan Ulang RUPSLB [PMHMETD] ke 15 Oktober",

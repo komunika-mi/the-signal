@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smle-jelaskan-rencana-akuisisi-saham-sinar-aroma-sentosa",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Jelaskan Rencana [Akuisisi] Saham Sinar Aroma Sentosa",
+  "deck": "SMLE mengoreksi surat rencana public expose insidentil dengan menambah daftar direksi yang hadir, membahas rencana penjualan saham anak usaha ke perusahaan Denmark pada 13 Oktober 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMLE",
+   "Public Expose",
+   "Akuisisi Anak Usaha",
+   "Sinar Aroma Sentosa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f3320584c6_ff463e4037.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "msky-hadapi-gugatan-pkpu-dari-ascot-group-holdings",
+  "category": "Aksi Korporasi",
+  "title": "MSKY Hadapi Gugatan [PKPU] dari Ascot Group Holdings",
+  "deck": "Ascot Group Holdings Ltd mengajukan PKPU terhadap MNC Sky Vision ke Pengadilan Niaga Jakarta Pusat. Sidang kedua digelar 8 Oktober 2026, belum ada putusan.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSKY",
+   "PKPU",
+   "MNC Sky Vision",
+   "Pengadilan Niaga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/45f883c474_99ec72798b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smle-realisasi-dana-ipo-62-gudang-dan-lab-molor",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Realisasi Dana IPO 62%, Gudang dan Lab [Molor]",
+  "deck": "SMLE baru merealisasikan 62,36 persen dana IPO senilai Rp81,48 miliar hingga Juni 2026. Pembangunan gudang dan pembelian alat lab molor ke 2028.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMLE",
+   "IPO",
+   "realisasi dana",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/319244226d_75c014d2de.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sraj-pastikan-dana-obligasi-rp950-miliar-rampung-terserap",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ Pastikan Dana Obligasi Rp950 Miliar [Rampung] Terserap",
+  "deck": "Revisi laporan ke OJK menunjukkan dana Rp950 miliar dari Obligasi I SRAJ 2022 sudah 100 persen terpakai untuk modal kerja, bangunan, dan peralatan di lima unit usaha.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRAJ",
+   "obligasi",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/abbe9354ff_2b801db372.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-revisi-realisasi-dana-right-issue-rp6-08-t-koreksi",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Revisi Realisasi Dana Right Issue Rp6,08 T [Koreksi]",
+  "deck": "WIKA mengoreksi laporan realisasi dana hasil rights issue 2024 menyusul tinjauan OJK, menyisakan Rp1,67 miliar yang ditargetkan habis kuartal IV 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "rights issue",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b5fdd05840_188ece442e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kota-jadwalkan-ulang-rupslb-pmhmetd-ke-15-oktober",
   "category": "Aksi Korporasi",
   "title": "KOTA Jadwalkan Ulang RUPSLB [PMHMETD] ke 15 Oktober",
@@ -6392,86 +6472,6 @@ var ARTICLES = [
    "dividen tunai"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21c55032ac_c31fafd0ab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pege-direksi-tambah-saham-rp20-miliar-suara-jadi-5-08",
-  "category": "Aksi Korporasi",
-  "title": "PEGE: Direksi [Tambah] Saham Rp20 Miliar, Suara Jadi 5,08%",
-  "deck": "Optimus Vision Global Pte Ltd, direksi asing PEGE, membeli 110,58 juta saham baru sehingga hak suaranya naik dari 2,15 persen menjadi 5,08 persen, senilai sekitar Rp20 miliar.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PEGE",
-   "kepemilikan saham",
-   "direksi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-0150-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bswd-dapat-peringkat-a-idn-dari-fitch-outlook-positif",
-  "category": "Aksi Korporasi",
-  "title": "BSWD Dapat Peringkat [A+(idn)] dari Fitch, Outlook Positif",
-  "deck": "Fitch Ratings Indonesia menetapkan peringkat nasional jangka panjang Bank of India Indonesia di A+(idn) dengan outlook positif, dilaporkan ke OJK dan BEI pada 2 Oktober 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSWD",
-   "Fitch Ratings",
-   "peringkat kredit",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5cde56965c_4d9bf8f286.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smar-tegaskan-tak-ada-informasi-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "SMAR Tegaskan Tak Ada [Informasi Material] di Balik Volatilitas Saham",
-  "deck": "Merespons permintaan penjelasan dari BEI, SMAR menyatakan tidak ada aksi korporasi atau informasi material yang memicu volatilitas transaksi sahamnya.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMAR",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1458182401_8c5cab6eb8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-bantah-ada-informasi-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Bantah Ada Informasi Material di Balik [Volatilitas] Saham",
-  "deck": "Menjawab surat Bursa soal pergerakan harga sahamnya yang tidak wajar, Arkora Hydro menyatakan tidak ada informasi material tersembunyi maupun rencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "Bursa Efek Indonesia",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/834d08e9a7_78e375ff44.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wmuu-pastikan-rights-issue-lanjut-respons-permintaan-bei",
-  "category": "Aksi Korporasi",
-  "title": "WMUU pastikan [rights issue] lanjut, respons permintaan BEI",
-  "deck": "WMUU menjawab permintaan BEI soal volatilitas sahamnya, memastikan rencana rights issue berjalan dan pemegang saham pengendali tak berencana melepas saham.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WMUU",
-   "rights issue",
-   "volatilitas saham",
-   "Widodo Makmur Unggas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4afa42a4de_91166b8ca7.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "N2d925sOVR0",
+  "title": "Optimalisasi Potensi Wisata Dorong Ekonomi Masyarakat",
+  "category": "UMKM",
+  "program": "Proaktif",
+  "summary": "Program Proaktif mengulas optimalisasi potensi wisata Nepal van Java di Dusun Butuh, Kabupaten Magelang, Jawa Tengah, yang dinilai mampu mendorong peningkatan ekonomi masyarakat setempat.",
+  "takeaway": "Menggambarkan bagaimana sektor wisata dapat menjadi penggerak ekonomi masyarakat di tingkat desa, relevan bagi pembaca yang mengikuti isu ekonomi daerah dan UMKM.",
+  "terbit": "2026-10-10T11:05:12+00:00"
+ },
+ {
   "id": "hobY8xz0X8A",
   "title": "Mandalika Street Food Festival Gandeng UMKM Lokal",
   "category": "UMKM",

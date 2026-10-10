@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-siapkan-skema-kredit-baru-untuk-petani-dan-perempuan",
+  "category": "UMKM",
+  "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
+  "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
+  "image": "assets/img/batik-umkm.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T12:38:00.613Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7142/akselerasi-sinergi-perluas-dampak-pemerintah-satukan-langkah-percepat-kredit-program-dari-yogyakarta",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "KUR",
+   "UMKM",
+   "Kredit Program",
+   "Yogyakarta"
+  ],
+  "body": [
+   "Kementerian Koordinator Bidang Perekonomian menggelar forum koordinasi kredit program pemerintah di Yogyakarta pada 25 September 2026, mengumpulkan kementerian, pemerintah daerah, bank penyalur, dan lembaga penjamin untuk mempercepat penyaluran kredit bersubsidi di sisa tahun ini. Forum ini juga menjadi bagian persiapan menuju acara Internasionalisasi Kredit Program yang direncanakan tahun ini, di tengah kebutuhan pembiayaan usaha mikro, kecil, dan menengah yang terus membesar.",
+   "Pemerintah memperkirakan kesenjangan antara kebutuhan pembiayaan UMKM dan dana yang tersedia bisa mencapai Rp2.400 triliun pada 2026, jauh lebih besar dibanding total kredit program yang sudah disalurkan. Hingga 23 September 2026, realisasi kredit program baru mencapai Rp258,75 triliun, setara 78,47 persen dari target tahun ini. Sebagian besar, yakni 67,84 persen, mengalir ke sektor produksi seperti usaha dagang dan manufaktur kecil.",
+   "Kredit Usaha Rakyat (KUR) sebagai program terbesar sudah menyalurkan Rp232,66 triliun dari target Rp290,52 triliun kepada 3,61 juta peminjam, dengan klaim pemerintah program ini menopang 10,83 juta lapangan kerja. Di Yogyakarta sendiri, penyaluran KUR tercatat Rp4,24 triliun untuk 74.443 peminjam. Untuk kredit perumahan bersubsidi, penyaluran mencapai Rp25,78 triliun kepada 110.286 peminjam, sementara kredit alat pertanian dan kredit untuk industri padat karya masing-masing baru menyentuh Rp169,76 miliar dan Rp137,92 miliar.",
+   "Pemerintah juga menyiapkan skema baru: Kredit Usaha Pertanian sebagai perluasan dari kredit alat pertanian, dengan batas pinjaman usaha ternak Rp500 juta sampai Rp10 miliar, kenaikan target kredit perumahan tahun ini menjadi Rp50 triliun untuk menopang program tiga juta rumah, serta Kredit Perempuan Prasejahtera dengan batas pinjaman hingga Rp15 juta berdasarkan aturan Menteri Koordinator Bidang Perekonomian Nomor 7 Tahun 2026. Dalam forum itu, Kementerian UMKM melaporkan lebih dari 1,6 juta peminjam baru KUR tahun ini dan lebih dari 700 ribu peminjam yang dianggap sudah 'naik kelas' sehingga tidak lagi perlu subsidi, sementara Kementerian Pertanian memperkirakan satu unit combine harvester yang dibiayai lewat kredit alat pertanian bisa memberi manfaat ekonomi hingga Rp1,79 miliar per tahun lewat efisiensi biaya dan peningkatan intensitas tanam."
+  ],
+  "fotoAdegan": "Farmer walking beside a combine harvester in a golden rice field under bright morning light, rural Indonesia",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan sekadar angka penyaluran, melainkan tiga skema baru: Kredit Usaha Pertanian dengan batas pinjaman usaha ternak sampai Rp10 miliar, target kredit perumahan yang dinaikkan menjadi Rp50 triliun untuk menopang program tiga juta rumah, dan kredit khusus perempuan prasejahtera dengan batas pinjaman Rp15 juta. Yang terdampak adalah peternak dan pengguna alat pertanian, pencari rumah subsidi, serta perempuan dari keluarga kurang mampu yang sebelumnya sulit mendapat pinjaman dari bank biasa. Arahnya cukup jelas: pemerintah memilih menambah ragam skema kredit bersubsidi ketimbang menaikkan besar-besaran satu program saja, karena kesenjangan pembiayaan UMKM yang diperkirakan Rp2.400 triliun tahun ini jauh lebih besar dari total kredit program yang baru tersalurkan, yakni Rp258,75 triliun sepanjang tahun. Ini mengarah ke perluasan bertahap lewat segmentasi kelompok penerima, bukan penutupan kesenjangan sekaligus. Yang akan menguji arah ini adalah realisasi akhir tahun, terutama apakah target kredit perumahan Rp50 triliun tercapai dan apakah Kredit Usaha Pertanian serta kredit untuk perempuan prasejahtera benar-benar mulai berjalan, bukan sekadar rencana yang dibahas di forum ini.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "pertamina-bantu-perajin-tenun-desa-adat-sade-bangkit",
+  "category": "UMKM",
+  "title": "Pertamina [Bantu] Perajin Tenun Desa Adat Sade Bangkit",
+  "deck": "Pertamina menyerahkan 45 alat tenun dan pendampingan pelatihan bagi perajin Desa Adat Sade, Lombok, yang usahanya lumpuh akibat kebakaran Agustus lalu.",
+  "image": "assets/img/pertamina-bantu-perajin-tenun-desa-adat-sade-bangkit.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T18:41:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472253-dukung-pemulihan-ekonomi-pertamina-bantu-perajin-tenun-desa-adat-sade-kembali-berkarya",
+  "tags": [
+   "pertamina",
+   "desaadatsade",
+   "tenunsasak",
+   "pemulihanekonomi"
+  ],
+  "body": [
+   "Pertamina memberikan bantuan berupa 45 alat tenun beserta pelatihan pendampingan kepada perajin di Desa Adat Sade, Kabupaten Lombok Tengah, Nusa Tenggara Barat. Bantuan ini ditujukan untuk membantu warga kembali bekerja setelah kebakaran yang melumpuhkan sumber penghasilan mereka. Langkah ini penting karena menyangkut keberlangsungan tenun Sasak, warisan budaya yang juga menjadi tulang punggung ekonomi desa wisata tersebut.",
+   "Kebakaran yang terjadi pada 22 Agustus 2026 menghanguskan rumah warga serta sejumlah bangunan penunjang kegiatan ekonomi dan budaya, termasuk toko seni, lumbung, dan Bale Baleq. Akibatnya, mata pencaharian warga yang selama ini bergantung pada aktivitas menenun, penjualan suvenir, dan jasa pemandu wisata ikut terganggu. Hilangnya peralatan tenun membuat para perajin kesulitan kembali berproduksi dan memperoleh penghasilan bagi keluarga.",
+   "Bantuan tersebut diserahkan secara simbolis oleh Komisaris Utama Pertamina, Mochamad Iriawan, di panggung Festival area Pertamina Mandalika International Circuit, sebagai bagian dari program Tanggung Jawab Sosial dan Lingkungan perusahaan. Corporate Secretary Pertamina, Arya Dwi Paramita, menyampaikan bahwa bantuan 45 alat tenun dan pendampingan pelatihan ini diharapkan membuat perajin Desa Adat Sade kembali berkarya dan menghasilkan pendapatan, mengingat tenun memiliki nilai ganda sebagai sumber penghidupan maupun warisan budaya.",
+   "Desa Adat Sade dikenal sebagai salah satu destinasi wisata budaya masyarakat Sasak di Lombok, dengan kain tenun sebagai identitas sekaligus produk yang diminati wisatawan. Tersedianya kembali alat tenun menjadi langkah awal pemulihan produksi, sementara pendampingan pelatihan diharapkan memperkuat keterampilan perajin agar siap menjalankan usaha kembali."
+  ],
+  "fotoAdegan": "Traditional wooden looms arranged under a thatched roof in a Sasak village, weavers guiding colorful threads, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/10/6aca22dac9c43-pertamina-bantu-perajin-tenun-desa-adat-sade_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah Pertamina menyerahkan 45 alat tenun plus pendampingan pelatihan kepada perajin Desa Adat Sade, setelah kebakaran 22 Agustus 2026 menghanguskan rumah warga, toko seni, lumbung, dan Bale Baleq. Yang jelas terdampak adalah perajin tenun yang kehilangan alat produksinya, serta pelaku usaha suvenir dan pemandu wisata yang pendapatannya bergantung pada kunjungan ke desa wisata ini. Yang belum bisa dipastikan dari berita ini adalah apakah 45 alat tenun itu cukup menutup kebutuhan seluruh perajin yang terdampak, sebab tidak disebutkan berapa total alat tenun atau perajin yang kehilangan mata pencahariannya akibat kebakaran. Yang perlu dipantau selanjutnya adalah progres pembangunan kembali bangunan penunjang seperti toko seni dan Bale Baleq, serta apakah jumlah wisatawan ke Desa Adat Sade kembali senormal sebelum kebakaran, karena itu yang akan menunjukkan apakah pemulihan ekonomi desa ini sudah tuntas atau baru tahap awal.",
+  "imageV": "mv2dxstx"
+ },
+ {
   "slug": "test-shm3-rampungkan-tender-wajib-beli-5-98-juta-saham",
   "category": "Aksi Korporasi",
   "title": "TEST-SHM3 Rampungkan [Tender Wajib] Beli 5,98 Juta Saham",
@@ -132,7 +187,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah adalah satu pabrik material konstruksi di KEK Kendal resmi beroperasi dengan investasi Rp710 miliar, bukan sekadar seremoni tanda tangan. Yang terdampak langsung adalah pekerja di Jawa Tengah yang terserap dari proyek ini, sampai 400 orang, serta sektor konstruksi domestik yang membutuhkan tiang pancang beton untuk proyek infrastruktur. Investasi ini masuk lewat kerja sama Two Countries Twin Parks, semacam program kawasan industri kembar Indonesia-Tiongkok yang memang dirancang untuk mendatangkan pabrik dan teknologi dari Tiongkok ke dalam negeri. Karena ini baru satu realisasi investasi, belum bisa disimpulkan apakah KEK Kendal akan terus kedatangan pabrik-pabrik Tiongkok lain lewat skema serupa atau ini kasus yang berdiri sendiri. Yang perlu dipantau adalah apakah ada realisasi investasi Tiongkok lain menyusul di kawasan ini dalam beberapa bulan mendatang, serta apakah pabrik ini benar mencapai target produksi 3 juta meter tiang pancang per tahun yang dijanjikan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "sgn-perkuat-kemitraan-dengan-petani-tebu-lewat-cpcl",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "N2d925sOVR0",
+  "title": "Optimalisasi Potensi Wisata Dorong Ekonomi Masyarakat",
+  "category": "UMKM",
+  "program": "Proaktif",
+  "summary": "Program Proaktif mengulas optimalisasi potensi wisata Nepal van Java di Dusun Butuh, Kabupaten Magelang, Jawa Tengah, yang dinilai mampu mendorong peningkatan ekonomi masyarakat setempat.",
+  "takeaway": "Menggambarkan bagaimana sektor wisata dapat menjadi penggerak ekonomi masyarakat di tingkat desa, relevan bagi pembaca yang mengikuti isu ekonomi daerah dan UMKM."
+ },
+ {
   "id": "hobY8xz0X8A",
   "title": "Mandalika Street Food Festival Gandeng UMKM Lokal",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Kementerian Kelautan dan Perikanan mulai mengembangkan Pelabuhan Perikanan Nusantara Pengambengan di Jembrana, Bali, menjadi pelabuhan perikanan yang lebih modern.",
   "takeaway": "Pengembangan infrastruktur pelabuhan ini relevan bagi pembaca ekonomi karena berkaitan langsung dengan rantai pasok dan daya saing industri perikanan nasional."
- },
- {
-  "id": "wokG4oTymxA",
-  "title": "CSR dan PDB Award 2026 Dorong Tanggung Jawab Sosial Perusahaan",
-  "category": "Bisnis",
-  "program": "tvOneNews",
-  "summary": "Kementerian Desa dan Pembangunan Daerah Tertinggal mendorong perusahaan memperkuat program tanggung jawab sosial untuk mendukung kemandirian ekonomi masyarakat.",
-  "takeaway": "Topik ini penting bagi pembaca ekonomi karena menyangkut arah kebijakan dan alokasi dana CSR perusahaan bagi pemberdayaan ekonomi daerah tertinggal."
  }
 ];

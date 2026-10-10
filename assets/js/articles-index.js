@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-siapkan-skema-kredit-baru-untuk-petani-dan-perempuan",
+  "category": "UMKM",
+  "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
+  "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "KUR",
+   "UMKM",
+   "Kredit Program",
+   "Yogyakarta"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7142/akselerasi-sinergi-perluas-dampak-pemerintah-satukan-langkah-percepat-kredit-program-dari-yogyakarta",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pertamina-bantu-perajin-tenun-desa-adat-sade-bangkit",
+  "category": "UMKM",
+  "title": "Pertamina [Bantu] Perajin Tenun Desa Adat Sade Bangkit",
+  "deck": "Pertamina menyerahkan 45 alat tenun dan pendampingan pelatihan bagi perajin Desa Adat Sade, Lombok, yang usahanya lumpuh akibat kebakaran Agustus lalu.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/pertamina-bantu-perajin-tenun-desa-adat-sade-bangkit.jpg",
+  "imageV": "mv2dxstx",
+  "tags": [
+   "pertamina",
+   "desaadatsade",
+   "tenunsasak",
+   "pemulihanekonomi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472253-dukung-pemulihan-ekonomi-pertamina-bantu-perajin-tenun-desa-adat-sade-kembali-berkarya"
+ },
+ {
   "slug": "test-shm3-rampungkan-tender-wajib-beli-5-98-juta-saham",
   "category": "Aksi Korporasi",
   "title": "TEST-SHM3 Rampungkan [Tender Wajib] Beli 5,98 Juta Saham",
@@ -6445,38 +6478,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-5866-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-waran-enrg-disesuaikan-efektif-5-oktober",
-  "category": "Aksi Korporasi",
-  "title": "DR: Waran [ENRG] Disesuaikan, Efektif 5 Oktober",
-  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan dua waran terstruktur bersandar saham ENRG, berlaku 5 Oktober 2026, menyusul rights issue ENRG senilai Rp4,12 triliun.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "ENRG",
-   "waran terstruktur",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2988f9614_571a9cd524.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sona-gelar-public-expose-insidentil-usai-surat-ojk",
-  "category": "Aksi Korporasi",
-  "title": "SONA Gelar [Public Expose] Insidentil usai Surat OJK",
-  "deck": "Sona Topas Tourism Industry akan menggelar Public Expose Insidentil secara daring pada 6 Oktober 2026, dipicu permintaan otoritas terkait pergerakan harga sahamnya.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SONA",
-   "Public Expose",
-   "OJK",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe6dd1f69c_ab09a4cd8c.pdf",
   "sourceLabel": "IDX"
  }
 ];

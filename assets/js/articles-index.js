@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemulihan-desa-adat-sade-40-dari-75-rumah-adat-berdiri",
+  "category": "UMKM",
+  "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",
+  "deck": "Pembangunan kembali Desa Adat Sade di Lombok Tengah pascakebakaran Agustus 2026 terus berjalan, dengan 40 dari 75 rumah adat sudah berdiri dan ekonomi warga mulai bergerak lagi.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "Desa Adat Sade",
+   "Lombok Tengah",
+   "Kemenko Perekonomian",
+   "pemulihan bencana"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7144/pemerintah-dorong-percepatan-pemulihan-dan-aktivitas-masyarakat-desa-adat-sade-pasca-bencana-kebakaran",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "kek-kura-kura-bali-diarahkan-jadi-hub-riset-ai-dan-semikonduktor",
   "category": "Industri",
   "title": "KEK Kura-Kura Bali Diarahkan Jadi Hub Riset [AI] dan Semikonduktor",
@@ -26,7 +42,7 @@ var ARTICLES = [
   "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
   "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "KUR",
    "UMKM",
@@ -6462,22 +6478,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-3323-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnmp-sukuk-sosial-orange-rp1-5-triliun-terserap-100",
-  "category": "Aksi Korporasi",
-  "title": "PNMP: Sukuk Sosial Orange Rp1,5 Triliun [Terserap] 100%",
-  "deck": "PNM melaporkan dana bersih Rp1,49 triliun dari Sukuk Mudharabah Berwawasan Sosial Orange Tahap III sudah tersalur penuh untuk kegiatan usaha berwawasan sosial, tanpa sisa dana.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNMP",
-   "sukuk",
-   "obligasi berkelanjutan",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cab0f76507_5f72b15cad.pdf",
   "sourceLabel": "IDX"
  }
 ];

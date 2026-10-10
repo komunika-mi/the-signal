@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "b9Yusr7bhYQ",
+  "title": "Presiden Trump Longgarkan Sanksi BBM Rusia ke AS",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Presiden Trump melonggarkan sanksi terhadap bahan bakar Rusia, membuka jalan bagi pasokan ratusan ribu ton solar Rusia ke pasar Amerika Serikat.",
+  "takeaway": "Pelonggaran sanksi ini berpotensi mengubah pasokan dan harga BBM di pasar energi global, termasuk solar.",
+  "terbit": "2026-10-10T15:41:57+00:00"
+ },
+ {
   "id": "N2d925sOVR0",
   "title": "Optimalisasi Potensi Wisata Dorong Ekonomi Masyarakat",
   "category": "UMKM",

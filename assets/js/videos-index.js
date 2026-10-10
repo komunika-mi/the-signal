@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "b9Yusr7bhYQ",
+  "title": "Presiden Trump Longgarkan Sanksi BBM Rusia ke AS",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Presiden Trump melonggarkan sanksi terhadap bahan bakar Rusia, membuka jalan bagi pasokan ratusan ribu ton solar Rusia ke pasar Amerika Serikat.",
+  "takeaway": "Pelonggaran sanksi ini berpotensi mengubah pasokan dan harga BBM di pasar energi global, termasuk solar."
+ },
+ {
   "id": "N2d925sOVR0",
   "title": "Optimalisasi Potensi Wisata Dorong Ekonomi Masyarakat",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Ratusan hotel dan vila di Bali ditawarkan lewat situs jual beli properti, seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum kembali menggeliat.",
   "takeaway": "Menunjukkan tekanan likuiditas dan modal yang dihadapi pelaku usaha perhotelan di salah satu destinasi wisata andalan Indonesia."
- },
- {
-  "id": "hUYbztZpDtk",
-  "title": "KKP Kembangkan Pelabuhan Nusantara di Bali",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Kementerian Kelautan dan Perikanan mulai mengembangkan Pelabuhan Perikanan Nusantara Pengambengan di Jembrana, Bali, menjadi pelabuhan perikanan yang lebih modern.",
-  "takeaway": "Pengembangan infrastruktur pelabuhan ini relevan bagi pembaca ekonomi karena berkaitan langsung dengan rantai pasok dan daya saing industri perikanan nasional."
  }
 ];

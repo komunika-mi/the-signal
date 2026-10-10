@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "y1sLK2y64Qs",
+  "title": "MotoGP Mandalika Buka Peluang UMKM Lokal",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Gelaran MotoGP Mandalika 2026 membuka kesempatan bagi pelaku UMKM setempat untuk memasarkan produk dan mengembangkan usahanya di tengah ajang balap internasional.",
+  "takeaway": "Event olahraga berskala global ini memberi dampak ekonomi langsung bagi pelaku usaha kecil di sekitar sirkuit."
+ },
+ {
+  "id": "zwbR8adf6lU",
+  "title": "Potensi Petani Kopi Pinogu Perluas Pangsa Pasar",
+  "category": "UMKM",
+  "program": "Kabar Dari Desa",
+  "summary": "Petani kopi Pinogu di Bone Bolango, Gorontalo, terus bertahan mengembangkan potensi kopi lokal meski menghadapi keterbatasan akses dan medan yang berat untuk memperluas pasar.",
+  "takeaway": "Kisah ini menggambarkan tantangan sektor perkebunan rakyat dalam menembus pasar yang lebih luas."
+ },
+ {
+  "id": "V9l3W0w1KWQ",
+  "title": "Harga Cabai Rawit Merah Tembus Rp70 Ribu per Kilogram",
+  "category": "Makroekonomi",
+  "program": "Kabar Siang",
+  "summary": "Harga cabai rawit merah di pasar tradisional Surabaya melonjak dari Rp30 ribu menjadi Rp70 ribu per kilogram, seiring naiknya harga sejumlah bumbu dan sayuran lain.",
+  "takeaway": "Lonjakan harga pangan seperti ini berdampak langsung pada daya beli masyarakat dan laju inflasi daerah."
+ },
+ {
   "id": "kUkZ_EhR3PU",
   "title": "Pameran Modifikasi Otomotif IMX 2026 Resmi Dibuka di BSD",
   "category": "Industri",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Seminar nasional Green Economy 2045 di Jakarta membahas percepatan transformasi ekonomi hijau di Indonesia untuk menjawab tantangan perubahan iklim.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan transformasi ekonomi nasional menuju keberlanjutan yang berpotensi memengaruhi sektor industri dan investasi."
- },
- {
-  "id": "cK6vInhWKwE",
-  "title": "Antrean Truk Logistik 15 Km Hambat Distribusi ke Bali",
-  "category": "Bisnis",
-  "program": "Kabar Utama",
-  "summary": "Antrean truk logistik sepanjang 15 kilometer terjadi menuju Pelabuhan ASDP Ketapang, Banyuwangi, dan menghambat arus distribusi barang ke Bali.",
-  "takeaway": "Gangguan arus logistik di pelabuhan penyeberangan utama Jawa-Bali ini relevan bagi pembaca ekonomi karena berpotensi mengganggu rantai pasok dan menambah biaya distribusi barang."
- },
- {
-  "id": "DnZUI7Ml9Ds",
-  "title": "Prancis dan Indonesia Mulai Konstruksi Kapal Selam di PT PAL",
-  "category": "BUMN",
-  "program": "Kabar Merah Putih",
-  "summary": "Indonesia dan Prancis memulai tahap konstruksi fisik dua unit kapal selam Scorpene Evolved di galangan PT PAL Indonesia, Surabaya, sebagai bagian dari kerja sama industri pertahanan kedua negara.",
-  "takeaway": "Proyek ini relevan bagi pembaca ekonomi karena menyangkut perluasan kapasitas industri manufaktur strategis BUMN PT PAL melalui kerja sama internasional."
- },
- {
-  "id": "egqXaZrvu-I",
-  "title": "Bank Indonesia Pertahankan BI Rate di Level 5,75 Persen",
-  "category": "Moneter",
-  "program": "Kabar Siang",
-  "summary": "Bank Indonesia memutuskan mempertahankan suku bunga acuan BI Rate di level 5,75 persen pada rapat dewan gubernur terbaru.",
-  "takeaway": "Keputusan suku bunga acuan ini relevan bagi pembaca karena berpengaruh langsung pada biaya kredit, nilai tukar rupiah, dan iklim investasi."
  }
 ];

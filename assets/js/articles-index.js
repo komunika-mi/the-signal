@@ -21,6 +21,40 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pertamina-dukung-bank-sampah-desa-kuta-di-mandalika",
+  "category": "BUMN",
+  "title": "Pertamina [Dukung] Bank Sampah Desa Kuta di Mandalika",
+  "deck": "Pertamina memberi motor listrik roda tiga dan tempat sampah besar untuk Bank Sampah Putri Nyale, membantu pengelolaan sampah di 20 dusun Desa Kuta menjelang Pertamina Grand Prix of Indonesia 2026.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/pertamina-dukung-bank-sampah-desa-kuta-di-mandalika.jpg",
+  "imageV": "mv236ftv",
+  "tags": [
+   "pertamina",
+   "bank sampah",
+   "mandalika",
+   "lombok"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472221-pertamina-dukung-bank-sampah-desa-kuta-pengelolaan-sampah-kawasan-wisata-mandalika-lebih-optimal"
+ },
+ {
+  "slug": "telkom-paparkan-strategi-adopsi-ai-di-forum-dtiif-2026",
+  "category": "Teknologi",
+  "title": "Telkom Paparkan Strategi Adopsi [AI] di Forum DTIIF 2026",
+  "deck": "Telkom lewat Telkom Solution memaparkan kerangka pengembangan AI nasional dalam forum Danantara Technology Innovation Investment Forum (DTIIF) 2026 di Jakarta.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/telkom-paparkan-strategi-adopsi-ai-di-forum-dtiif-2026.jpg",
+  "imageV": "mv236g8v",
+  "tags": [
+   "Telkom",
+   "AI",
+   "DTIIF 2026",
+   "Telkom Solution"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472216-perkuat-transformasi-digital-telkom-bagikan-strategi-percepat-adopsi-ai-nasional-di-road-to-dtiif-2026"
+ },
+ {
   "slug": "folago-global-irsx-balik-untung-pendapatan-melonjak-laba",
   "category": "Aksi Korporasi",
   "title": "Folago Global (IRSX) Balik Untung, Pendapatan Melonjak [Laba]",
@@ -6443,38 +6477,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe6dd1f69c_ab09a4cd8c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-pelaksanaan-8-waran-terstruktur-2-cair-ke-investor",
-  "category": "Aksi Korporasi",
-  "title": "DR: [Pelaksanaan] 8 Waran Terstruktur, 2 Cair ke Investor",
-  "deck": "RHB Sekuritas mengoreksi pengumuman pelaksanaan delapan waran terstruktur BBCA, BMRI, BBRI, KIJA, KPIG, BKSL, MBMA, dan INCO pada 2 Oktober 2026. Enam berakhir tanpa nilai, dua membayar pemegangnya.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/79ed10d2a3_754addf89f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dmnd-angkat-leonard-jadi-komisaris-independen-baru",
-  "category": "Aksi Korporasi",
-  "title": "DMND angkat [Leonard] jadi komisaris independen baru",
-  "deck": "RUPSLB Diamond Food Indonesia menyetujui Leonard sebagai komisaris independen baru per 30 September 2026, melengkapi tujuh anggota dewan komisaris.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMND",
-   "komisaris independen",
-   "perubahan pengurus",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f46279264_f5669d8209.pdf",
   "sourceLabel": "IDX"
  }
 ];

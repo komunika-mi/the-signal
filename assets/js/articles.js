@@ -29,6 +29,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pertamina-dukung-bank-sampah-desa-kuta-di-mandalika",
+  "category": "BUMN",
+  "title": "Pertamina [Dukung] Bank Sampah Desa Kuta di Mandalika",
+  "deck": "Pertamina memberi motor listrik roda tiga dan tempat sampah besar untuk Bank Sampah Putri Nyale, membantu pengelolaan sampah di 20 dusun Desa Kuta menjelang Pertamina Grand Prix of Indonesia 2026.",
+  "image": "assets/img/pertamina-dukung-bank-sampah-desa-kuta-di-mandalika.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T13:21:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472221-pertamina-dukung-bank-sampah-desa-kuta-pengelolaan-sampah-kawasan-wisata-mandalika-lebih-optimal",
+  "tags": [
+   "pertamina",
+   "bank sampah",
+   "mandalika",
+   "lombok"
+  ],
+  "body": [
+   "PT Pertamina (Persero) turut membantu pengelolaan sampah berbasis warga di Desa Kuta, Kecamatan Pujut, Lombok Tengah, Nusa Tenggara Barat, melalui program tanggung jawab sosial dan lingkungan perusahaan (TJSL). Dukungan ini disalurkan ke Bank Sampah Putri Nyale, lembaga yang mengelola sampah di kawasan wisata Mandalika, dengan tujuan menjaga kebersihan saat kunjungan wisatawan melonjak pada gelaran Pertamina Grand Prix of Indonesia 2026. Bagi warga sekitar, dukungan ini penting karena kebersihan kawasan wisata berkaitan langsung dengan kenyamanan wisatawan dan, pada akhirnya, pendapatan masyarakat setempat.",
+   "Sebagai bentuk dukungan, Pertamina menyerahkan satu unit motor listrik roda tiga untuk mengangkut sampah serta tempat penampungan sampah berukuran besar. Bantuan ini membantu pengelola menjangkau wilayah Desa Kuta yang terdiri dari 20 dusun, kawasan yang sebelumnya sulit dilayani karena keterbatasan alat pengangkut. Corporate Secretary Pertamina Arya Dwi Paramita, yang meninjau langsung Bank Sampah Putri Nyale pada Jumat (9/10), menyebut kebersihan lingkungan wisata berkaitan erat dengan minat wisatawan untuk berkunjung.",
+   "Bank Sampah Putri Nyale sendiri berdiri sejak 2022 untuk mengisi kekosongan fasilitas pemilahan dan pengolahan sampah di Desa Kuta. Ketua Bank Sampah, Hanila, menyebut kebutuhan layanan pemilahan sampah makin tinggi seiring meningkatnya aktivitas masyarakat dan dunia usaha, termasuk selama gelaran Pertamina Grand Prix of Indonesia 2026. Melalui bank sampah ini, sampah anorganik diolah menjadi barang bernilai jual, sementara sampah organik diubah menjadi pupuk, sehingga warga memperoleh tambahan pendapatan dari sampah yang mereka kumpulkan."
+  ],
+  "fotoAdegan": "Villagers sorting plastic bottles into bins beside a small electric cargo tricycle at a rural waste point near a tropical coastline",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/10/6ac9d7421c694-pertamina-dukung-bank-sampah-desa-kuta-pengelolaan-sampah-kawasan-wisata-mandalika-lebih-optimal_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret: Pertamina memberi satu motor listrik roda tiga pengangkut sampah dan tempat penampungan berukuran besar ke Bank Sampah Putri Nyale, agar pengelola bisa menjangkau 20 dusun di Desa Kuta yang sebelumnya sulit dilayani. Yang terdampak jelas warga 20 dusun itu, pengelola bank sampah, dan pelaku wisata di kawasan Mandalika yang kebersihannya ikut menentukan kenyamanan wisatawan saat ramai pengunjung. Berita ini belum cukup untuk membaca ke mana arah dukungan tersebut, sebab tidak disebut kapan tepatnya gelaran Pertamina Grand Prix of Indonesia 2026 berlangsung, seberapa besar volume sampah yang selama ini jadi masalah, atau apakah bantuan serupa akan diperluas ke bank sampah lain di sekitar Mandalika. Yang perlu dipantau adalah jadwal pasti event tersebut dan ada tidaknya pengumuman dukungan TJSL lanjutan ke desa-desa lain di kawasan itu menjelang hari pelaksanaannya.",
+  "imageV": "mv236ftv"
+ },
+ {
+  "slug": "telkom-paparkan-strategi-adopsi-ai-di-forum-dtiif-2026",
+  "category": "Teknologi",
+  "title": "Telkom Paparkan Strategi Adopsi [AI] di Forum DTIIF 2026",
+  "deck": "Telkom lewat Telkom Solution memaparkan kerangka pengembangan AI nasional dalam forum Danantara Technology Innovation Investment Forum (DTIIF) 2026 di Jakarta.",
+  "image": "assets/img/telkom-paparkan-strategi-adopsi-ai-di-forum-dtiif-2026.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T12:58:19+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472216-perkuat-transformasi-digital-telkom-bagikan-strategi-percepat-adopsi-ai-nasional-di-road-to-dtiif-2026",
+  "tags": [
+   "Telkom",
+   "AI",
+   "DTIIF 2026",
+   "Telkom Solution"
+  ],
+  "body": [
+   "PT Telkom Indonesia melalui unit bisnisnya, Telkom Solution, ikut ambil bagian dalam rangkaian Danantara Technology Innovation Investment Forum (DTIIF) 2026 yang berlangsung di Auditorium Wisma Danantara Indonesia, Jakarta, Kamis (8/10/2026). Dalam forum itu, Telkom memaparkan pandangannya tentang arah penerapan kecerdasan buatan atau AI di Indonesia. Langkah ini menunjukkan perusahaan telekomunikasi milik negara tersebut mulai memosisikan diri tidak hanya sebagai penyedia jaringan, tetapi juga sebagai pemasok infrastruktur dan layanan AI bagi sektor usaha lain.",
+   "Dalam sesi panel bertajuk 'The Future of AI in Indonesia', Direktur Enterprise & Business Service Telkom, Veranita Yosephine, menyampaikan bahwa pemanfaatan AI sudah memasuki tahap implementasi nyata, bukan sekadar gambaran masa depan. Ia mencontohkan sejumlah perusahaan teknologi dan startup global yang telah menjalankan agentic AI, yakni sistem AI yang bisa bertindak dan mengambil keputusan sendiri untuk menjalankan tugas, guna mengubah cara kerja dan proses bisnis mereka.",
+   "Telkom menyusun kerangka yang disebut AI stack, yaitu susunan empat lapisan yang menurut perusahaan perlu dibangun bersama: konektivitas dan infrastruktur digital, kemampuan komputasi awan (cloud), laboratorium model dan agen AI, hingga aplikasi yang bisa dipakai berbagai sektor dan fungsi bisnis. Veranita menegaskan bahwa percepatan adopsi AI tidak cukup hanya mengandalkan ketersediaan teknologi, melainkan juga memerlukan infrastruktur digital, data, talenta, serta kolaborasi lintas sektor agar manfaatnya bisa lebih luas dirasakan."
+  ],
+  "fotoAdegan": "Fiber optic cables and server racks inside a telecommunications data center, technician inspecting equipment, cool blue lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/10/6ac9d2486fdc3-telkom-membahas-strategi-mengadopsi-ai-dalam-rangkaian-danantara-technology-innovation-investment-forum-dtiif-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan Telkom di forum ini masih berupa kerangka strategi, bukan keputusan atau angka konkret. Konsep 'AI stack' yang disebutkan adalah susunan empat lapisan, mulai dari jaringan internet, pusat data dan komputer berkemampuan tinggi, laboratorium model AI, sampai aplikasi yang dipakai perusahaan, tetapi belum ada nilai investasi, target bisnis, atau produk baru yang diumumkan secara spesifik. Pihak yang berpotensi terdampak adalah perusahaan dan pelaku usaha yang menjadi atau akan menjadi pelanggan Telkom Solution, karena merekalah target penawaran solusi AI ini, sementara dampak ke konsumen akhir belum terlihat dari pemaparan ini. Karena itu arah konkretnya belum bisa dibaca dari forum ini saja. Yang perlu dipantau adalah apakah DTIIF 2026 menghasilkan kerja sama atau komitmen investasi yang diumumkan secara terbuka, atau apakah Telkom Solution merilis produk maupun layanan AI baru dalam waktu dekat.",
+  "imageV": "mv236g8v"
+ },
+ {
   "slug": "folago-global-irsx-balik-untung-pendapatan-melonjak-laba",
   "category": "Aksi Korporasi",
   "title": "Folago Global (IRSX) Balik Untung, Pendapatan Melonjak [Laba]",
@@ -80,7 +132,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah adalah satu pabrik material konstruksi di KEK Kendal resmi beroperasi dengan investasi Rp710 miliar, bukan sekadar seremoni tanda tangan. Yang terdampak langsung adalah pekerja di Jawa Tengah yang terserap dari proyek ini, sampai 400 orang, serta sektor konstruksi domestik yang membutuhkan tiang pancang beton untuk proyek infrastruktur. Investasi ini masuk lewat kerja sama Two Countries Twin Parks, semacam program kawasan industri kembar Indonesia-Tiongkok yang memang dirancang untuk mendatangkan pabrik dan teknologi dari Tiongkok ke dalam negeri. Karena ini baru satu realisasi investasi, belum bisa disimpulkan apakah KEK Kendal akan terus kedatangan pabrik-pabrik Tiongkok lain lewat skema serupa atau ini kasus yang berdiri sendiri. Yang perlu dipantau adalah apakah ada realisasi investasi Tiongkok lain menyusul di kawasan ini dalam beberapa bulan mendatang, serta apakah pabrik ini benar mencapai target produksi 3 juta meter tiang pancang per tahun yang dijanjikan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "sgn-perkuat-kemitraan-dengan-petani-tebu-lewat-cpcl",

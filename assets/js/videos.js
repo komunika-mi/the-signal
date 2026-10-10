@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "y1sLK2y64Qs",
+  "title": "MotoGP Mandalika Buka Peluang UMKM Lokal",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Gelaran MotoGP Mandalika 2026 membuka kesempatan bagi pelaku UMKM setempat untuk memasarkan produk dan mengembangkan usahanya di tengah ajang balap internasional.",
+  "takeaway": "Event olahraga berskala global ini memberi dampak ekonomi langsung bagi pelaku usaha kecil di sekitar sirkuit.",
+  "terbit": "2026-10-10T05:43:12+00:00"
+ },
+ {
+  "id": "zwbR8adf6lU",
+  "title": "Potensi Petani Kopi Pinogu Perluas Pangsa Pasar",
+  "category": "UMKM",
+  "program": "Kabar Dari Desa",
+  "summary": "Petani kopi Pinogu di Bone Bolango, Gorontalo, terus bertahan mengembangkan potensi kopi lokal meski menghadapi keterbatasan akses dan medan yang berat untuk memperluas pasar.",
+  "takeaway": "Kisah ini menggambarkan tantangan sektor perkebunan rakyat dalam menembus pasar yang lebih luas.",
+  "terbit": "2026-10-10T05:28:36+00:00"
+ },
+ {
+  "id": "V9l3W0w1KWQ",
+  "title": "Harga Cabai Rawit Merah Tembus Rp70 Ribu per Kilogram",
+  "category": "Makroekonomi",
+  "program": "Kabar Siang",
+  "summary": "Harga cabai rawit merah di pasar tradisional Surabaya melonjak dari Rp30 ribu menjadi Rp70 ribu per kilogram, seiring naiknya harga sejumlah bumbu dan sayuran lain.",
+  "takeaway": "Lonjakan harga pangan seperti ini berdampak langsung pada daya beli masyarakat dan laju inflasi daerah.",
+  "terbit": "2026-10-10T05:17:45+00:00"
+ },
+ {
   "id": "kUkZ_EhR3PU",
   "title": "Pameran Modifikasi Otomotif IMX 2026 Resmi Dibuka di BSD",
   "category": "Industri",

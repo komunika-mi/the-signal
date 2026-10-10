@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wgsh-direksi-hendy-rusli-jual-510-saham-hak-suara-tetap",
+  "category": "Aksi Korporasi",
+  "title": "WGSH: Direksi Hendy Rusli [Jual] 510 Saham, Hak Suara Tetap",
+  "deck": "Direksi WGSH Hendy Rusli melepas 510 saham senilai sekitar Rp57.630 per 9 Oktober 2026, sementara hak suaranya di perusahaan tetap 0,05 persen.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WGSH",
+   "kepemilikan saham",
+   "direksi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10102026-2602-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "laba-jasaraharja-putera-naik-41-persen-raih-penghargaan",
   "category": "BUMN",
   "title": "Laba Jasaraharja Putera [Naik] 41 Persen, Raih Penghargaan",
@@ -6459,22 +6475,6 @@ var ARTICLES = [
    "saham baru"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6664add4ae_582753a004.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prtl-terbitkan-obligasi-rp741-miliar-rating-aaa-fitch",
-  "category": "Aksi Korporasi",
-  "title": "PRTL Terbitkan [Obligasi] Rp741 Miliar, Rating AAA Fitch",
-  "deck": "Protelindo menerbitkan obligasi tahap II senilai Rp741,055 miliar dengan bunga 7,55-7,65 persen, bagian dari program Rp20 triliun yang diberi peringkat AAA oleh Fitch.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRTL",
-   "obligasi",
-   "Protelindo",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e99bbabd32_dd1c4a0bb5.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,31 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wgsh-direksi-hendy-rusli-jual-510-saham-hak-suara-tetap",
+  "category": "Aksi Korporasi",
+  "title": "WGSH: Direksi Hendy Rusli [Jual] 510 Saham, Hak Suara Tetap",
+  "deck": "Direksi WGSH Hendy Rusli melepas 510 saham senilai sekitar Rp57.630 per 9 Oktober 2026, sementara hak suaranya di perusahaan tetap 0,05 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T07:02:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10102026-2602-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WGSH",
+  "tags": [
+   "WGSH",
+   "kepemilikan saham",
+   "direksi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Wira Global Solusi Tbk (WGSH) melaporkan perubahan kepemilikan saham oleh salah satu anggota direksinya, Hendy Rusli, kepada Otoritas Jasa Keuangan pada 10 Oktober 2026. Dalam laporan tersebut, Hendy menjual 510 lembar saham biasa WGSH yang dimilikinya secara tidak langsung, dengan harga Rp113 per saham pada 9 Oktober 2026. Tujuan transaksi yang dicantumkan dalam laporan adalah investasi.",
+   "Sebelum transaksi ini, Hendy Rusli memegang 10.500 lembar saham WGSH yang setara dengan 0,05 persen hak suara di perusahaan. Setelah penjualan 510 lembar saham tersebut, jumlah kepemilikannya berkurang menjadi 9.990 lembar, namun persentase hak suaranya tidak berubah, tetap di 0,05 persen. Secara nilai, transaksi ini hanya sekitar Rp57.630, dan jumlah saham yang dilepas setara 4,86 persen dari kepemilikan pribadinya sebelum transaksi."
+  ],
+  "fotoAdegan": "Exterior of a modern mid-rise office tower in a Jakarta business district, glass facade reflecting a hazy morning sky, pedestrians walking past.",
+  "takeaway": "Laporan ini netral bagi WGSH, karena 510 saham yang dilepas Hendy Rusli hanya setara 4,86 persen dari kepemilikannya sendiri dan hak suaranya di perusahaan tidak berubah dari 0,05 persen, sehingga tidak mengubah kendali atau memberi sinyal kuat soal pandangan direksi terhadap prospek perusahaan. Nilai transaksinya pun kecil, sekitar Rp57.630 dengan harga Rp113 per saham, jauh dari ambang yang biasa dibaca pasar sebagai pernyataan sikap insider. Yang tersentuh di sini hanya sebaran kepemilikan saham perorangan, bukan kas perusahaan, laba, atau jumlah saham beredar WGSH secara keseluruhan, jadi tidak berdampak langsung ke kinerja keuangan emiten. Yang perlu dipantau berikutnya adalah apakah direksi atau komisaris WGSH lain melaporkan transaksi serupa dalam waktu dekat, karena baru pola berulang semacam itu yang bisa menunjukkan arah sikap manajemen, bukan satu transaksi kecil ini saja.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "laba-jasaraharja-putera-naik-41-persen-raih-penghargaan",
   "category": "BUMN",
   "title": "Laba Jasaraharja Putera [Naik] 41 Persen, Raih Penghargaan",

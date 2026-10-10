@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "kUkZ_EhR3PU",
+  "title": "Pameran Modifikasi Otomotif IMX 2026 Resmi Dibuka di BSD",
+  "category": "Industri",
+  "program": "Kabar Pagi",
+  "summary": "Indonesia Modification & Lifestyle Expo (IMX) 2026 resmi dibuka di ICE BSD City, Tangerang, dan berlangsung hingga 11 Oktober 2026. Pameran otomotif ini melibatkan pelaku usaha mikro di sektor modifikasi kendaraan.",
+  "takeaway": "Pameran ini mencerminkan perputaran bisnis di industri modifikasi otomotif sekaligus ruang bagi pelaku usaha mikro untuk ikut tumbuh.",
+  "terbit": "2026-10-10T00:55:03+00:00"
+ },
+ {
   "id": "XGxANWaMWY0",
   "title": "Pegadaian Gandeng Polri Perkuat Pengamanan Aset dan Operasional",
   "category": "BUMN",

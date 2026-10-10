@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "test-shm3-rampungkan-tender-wajib-beli-5-98-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM3 Rampungkan [Tender Wajib] Beli 5,98 Juta Saham",
+  "deck": "Pengendali baru TEST-SHM3 membeli 5.979.605 dari 6.733.943 saham wajib dalam tender wajib 10-12 Oktober 2026, mengubah kepemilikannya dari 10,66% menjadi 9,78%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T13:43:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261010_TEST-SHM3_E010_3a1d97bc-bd78-4ba6-af55-042f37f638e4-20261010135421.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEST-SHM3",
+  "tags": [
+   "TEST-SHM3",
+   "tender wajib",
+   "pengendali saham",
+   "BEI"
+  ],
+  "body": [
+   "Pengendali baru emiten TEST-SHM3 merampungkan penawaran tender wajib atas saham publik perusahaan tersebut. Berdasarkan laporan hasil penawaran tender wajib yang disampaikan ke Bursa Efek Indonesia, pengendali baru wajib membeli 6.733.943 saham dalam periode penawaran mulai 10 hingga 12 Oktober 2026, dengan tanggal penyelesaian pada 10 Oktober 2026.",
+   "Dari jumlah saham yang wajib ditawarkan tersebut, hanya 5.979.605 saham yang benar-benar dibeli dalam pelaksanaan tender wajib ini. Artinya masih ada selisih 754.338 saham milik pemegang saham publik yang tidak ikut ditenderkan atau belum terserap dalam transaksi ini.",
+   "Laporan tersebut juga mencatat perubahan komposisi kepemilikan pengendali baru. Sebelum penawaran tender wajib, pengendali baru tercatat memegang 9,25 saham yang disebut setara 10,66 persen dari total saham beredar, berdasarkan data yang dilaporkan. Sesudah tender wajib, kepemilikannya tercatat menjadi 10,5 saham atau 9,78 persen, turun 0,88 poin persentase meski jumlah saham yang dipegang bertambah secara nominal menurut catatan laporan tersebut."
+  ],
+  "fotoAdegan": "Exterior of a modern Jakarta stock exchange building with glass facade, pedestrians crossing on a sunny afternoon",
+  "takeaway": "Laporan ini bersifat netral bagi TEST-SHM3 karena pergeseran kepemilikan pengendali baru dari 10,66 persen menjadi 9,78 persen tergolong kecil dan merupakan transaksi jual beli antar pemegang saham, bukan aksi korporasi yang menambah atau mengurangi uang di kas perusahaan. Yang tersentuh di sini adalah hak suara, yakni porsi suara yang dimiliki seseorang dalam rapat pemegang saham untuk ikut menentukan arah perusahaan, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, sehingga tidak ada dampak langsung ke neraca maupun kas TEST-SHM3. Yang perlu dipantau selanjutnya adalah nasib sisa 754.338 saham yang wajib ditawarkan namun belum terbeli per tanggal penyelesaian 10 Oktober 2026, termasuk apakah pengendali baru akan menyampaikan laporan lanjutan ke Bursa Efek Indonesia terkait status kepemilikannya setelah periode tender ini berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "folago-global-irsx-balik-untung-pendapatan-melonjak-laba",
+  "category": "Aksi Korporasi",
+  "title": "Folago Global (IRSX) Balik Untung, Pendapatan Melonjak [Laba]",
+  "deck": "Laporan keuangan koreksi kuartal I 2026 IRSX menunjukkan pendapatan naik lebih dari tiga kali lipat dan laba bersih balik positif Rp3,29 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T12:51:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261010130349-64513-0/FinancialStatement-2026-I-IRSX.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRSX",
+  "tags": [
+   "IRSX",
+   "laporan keuangan",
+   "laba bersih",
+   "Folago Global Nusantara"
+  ],
+  "body": [
+   "PT Folago Global Nusantara Tbk (IRSX), dahulu bernama PT Aviana Sinar Abadi Tbk, menyampaikan koreksi atas laporan keuangan interim untuk periode tiga bulan yang berakhir 31 Maret 2026 lewat surat nomor 025/SK/IRSX/X/2026. Laporan yang tidak diaudit ini menunjukkan pendapatan perusahaan melonjak dari Rp51,21 miliar pada kuartal I 2025 menjadi Rp170,73 miliar pada kuartal I 2026, naik lebih dari tiga kali lipat.",
+   "Lonjakan pendapatan itu membawa perusahaan berbalik dari rugi menjadi untung. Laba usaha tercatat Rp6,67 miliar, padahal pada periode yang sama tahun lalu perusahaan masih merugi Rp642,30 juta dari kegiatan usahanya. Di level akhir, laba bersih periode berjalan mencapai Rp3,29 miliar, dengan Rp3,30 miliar di antaranya menjadi bagian pemegang saham induk, dibandingkan rugi bersih Rp629,76 juta pada kuartal I 2025. Laba per saham dasar berubah dari minus Rp0,13 menjadi Rp0,53.",
+   "Dari sisi neraca, total aset naik tipis dari Rp360,23 miliar per akhir Desember 2025 menjadi Rp361,66 miliar per 31 Maret 2026, sementara ekuitas bertambah dari Rp315,36 miliar menjadi Rp318,65 miliar. Kas dan setara kas justru turun dari Rp110,15 miliar menjadi Rp99,49 miliar, karena perusahaan membelanjakan Rp22,23 miliar untuk aset takberwujud dan Rp647,32 juta untuk aset tetap, selain menambah penempatan deposito berjangka Rp1,5 miliar. Laporan ini juga mencatat biaya emisi saham ditangguhkan yang membengkak dari Rp880 juta menjadi Rp1,97 miliar, dengan pembayaran biaya emisi Rp1,77 miliar sudah terealisasi pada kuartal ini.",
+   "Perusahaan menaungi delapan anak usaha dengan kepemilikan antara 51 persen hingga 99,99 persen, mulai dari konsultan manajemen, produksi film dan video, kecerdasan buatan untuk perdagangan, hingga telekomunikasi. Tiga yang asetnya paling besar adalah PT Digital Nata Karya di sektor telekomunikasi dengan aset Rp126,59 miliar dan kepemilikan 99,91 persen, PT Folago Karya Indonesia di bidang konsultan manajemen dengan aset Rp63,27 miliar dan kepemilikan 80 persen, serta PT Folago Gaya Hidup dengan aset Rp27,07 miliar dan kepemilikan 99,99 persen."
+  ],
+  "fotoAdegan": "A film crew adjusting camera and lighting equipment on a small production set, warm studio lighting",
+  "takeaway": "Laporan ini condong positif bagi IRSX, karena pendapatan kuartal I 2026 melonjak lebih dari tiga kali lipat dibanding periode sama tahun lalu dan perusahaan berhasil membalikkan kerugian usaha maupun kerugian bersih menjadi untung. Yang tersentuh bukan cuma laba di atas kertas: arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan usaha sehari-hari, juga naik dari Rp3,01 miliar menjadi Rp15,49 miliar, tanda bahwa perbaikan kinerja ini diiringi uang kas yang nyata, bukan sekadar pencatatan akuntansi. Laba per saham, yakni bagian laba yang secara teoritis jatuh ke setiap lembar saham beredar, berubah dari rugi Rp0,13 menjadi untung Rp0,53, sementara ekuitas atau modal bersih pemegang saham ikut bertambah meski tipis. Yang perlu dipantau berikutnya adalah membengkaknya biaya emisi saham ditangguhkan, yang mengindikasikan perusahaan sedang bersiap untuk aksi penambahan modal atau penerbitan saham baru, sehingga publikasi rencana resminya serta laporan kuartal berikutnya akan menentukan apakah pemulihan laba ini berlanjut atau sekadar musiman.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pabrik-konstruksi-tiongkok-rp710-m-beroperasi-di-kek-kendal",
   "category": "Industri",
   "title": "Pabrik Konstruksi Tiongkok [Rp710 M] Beroperasi di KEK Kendal",

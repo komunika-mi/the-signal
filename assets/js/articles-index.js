@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "test-shm3-rampungkan-tender-wajib-beli-5-98-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM3 Rampungkan [Tender Wajib] Beli 5,98 Juta Saham",
+  "deck": "Pengendali baru TEST-SHM3 membeli 5.979.605 dari 6.733.943 saham wajib dalam tender wajib 10-12 Oktober 2026, mengubah kepemilikannya dari 10,66% menjadi 9,78%.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEST-SHM3",
+   "tender wajib",
+   "pengendali saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261010_TEST-SHM3_E010_3a1d97bc-bd78-4ba6-af55-042f37f638e4-20261010135421.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "folago-global-irsx-balik-untung-pendapatan-melonjak-laba",
+  "category": "Aksi Korporasi",
+  "title": "Folago Global (IRSX) Balik Untung, Pendapatan Melonjak [Laba]",
+  "deck": "Laporan keuangan koreksi kuartal I 2026 IRSX menunjukkan pendapatan naik lebih dari tiga kali lipat dan laba bersih balik positif Rp3,29 miliar.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IRSX",
+   "laporan keuangan",
+   "laba bersih",
+   "Folago Global Nusantara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261010130349-64513-0/FinancialStatement-2026-I-IRSX.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pabrik-konstruksi-tiongkok-rp710-m-beroperasi-di-kek-kendal",
   "category": "Industri",
   "title": "Pabrik Konstruksi Tiongkok [Rp710 M] Beroperasi di KEK Kendal",
@@ -6443,38 +6475,6 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f46279264_f5669d8209.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amrt-benarkan-kebakaran-gerai-alfamart-di-gambut-banjar-kebakaran",
-  "category": "Aksi Korporasi",
-  "title": "AMRT Benarkan Kebakaran Gerai Alfamart di Gambut, Banjar [kebakaran]",
-  "deck": "Alfamart menjelaskan ke BEI soal kebakaran gerai di Gambut, Banjar, Kalimantan Selatan pada 29 September 2026, yang diduga dipicu pembeli yang mengancam lalu membakar gerai.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMRT",
-   "Alfamart",
-   "kebakaran",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a7430dd0bf_6ef0cf038c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-dmnd-sahkan-leonard-dan-ubah-kbli-anggaran-dasar",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB DMND Sahkan Leonard dan Ubah [KBLI] Anggaran Dasar",
-  "deck": "Pemegang saham DMND menyetujui pengangkatan Leonard sebagai komisaris independen dan penyesuaian klasifikasi usaha di anggaran dasar dengan dukungan suara hampir bulat.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMND",
-   "RUPSLB",
-   "Komisaris Independen",
-   "KBLI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/00ddd3517c_0956c4d532.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari kunjungan ini adalah angka progres: 40 dari 75 rumah adat Sade sudah berdiri kembali dengan atap terpasang, kurang dari tiga minggu setelah status tanggap darurat dicabut pada 20 September 2026. Yang terdampak langsung adalah puluhan kepala keluarga pemilik rumah adat yang terbakar, serta pelaku usaha kecil di Sade yang pendapatannya bergantung pada kunjungan wisatawan ke desa ini. Pola yang terlihat adalah prioritas membangun rumah tinggal dulu, baru menyusul fasilitas umum seperti masjid dan museum, sementara pendanaannya mengandalkan donasi masyarakat lewat rekening penampungan, bukan semata anggaran negara. Siaran ini belum menyebut target tanggal penyelesaian seluruh 75 rumah, jadi yang perlu dipantau adalah apakah sisa 35 rumah bisa selesai sebelum kunjungan wisata ke Sade kembali ramai.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "kek-kura-kura-bali-diarahkan-jadi-hub-riset-ai-dan-semikonduktor",
@@ -56,7 +56,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pertemuan ini adalah pergeseran arah kerja sama investasi Tiongkok di KEK, dari sekadar menanamkan modal menjadi proyek industri terpadu lewat skema Two Countries Twin Parks, didorong oleh porsi tenant Tiongkok yang sudah mencapai 20 persen dari 481 perusahaan di seluruh KEK per triwulan II 2026. Yang terdampak langsung adalah pelaku industri dan pekerja di KEK Kura-Kura Bali, yang hingga semester I 2026 baru menyerap 2.173 tenaga kerja dari realisasi investasi Rp1,8 triliun, jauh di bawah skala investasi KEK nasional yang sudah mencapai US$20,7 miliar. Arahnya terlihat menuju penguatan rantai nilai domestik lewat riset dan sumber daya manusia, bukan sekadar menambah jumlah investor, tapi ini masih berupa niat kebijakan karena belum ada proyek TCTP konkret yang disebut sudah berjalan di Kura-Kura Bali. Yang akan menentukan apakah pergeseran ini nyata adalah realisasi investasi dan penyerapan tenaga kerja Kura-Kura Bali pada triwulan III dan IV 2026, serta apakah program AI dan semikonduktor di Tsinghua Southeast Asia Center menghasilkan proyek industri konkret, bukan sekadar forum akademik.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "pemerintah-siapkan-skema-kredit-baru-untuk-petani-dan-perempuan",
@@ -84,7 +84,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar angka penyaluran, melainkan tiga skema baru: Kredit Usaha Pertanian dengan batas pinjaman usaha ternak sampai Rp10 miliar, target kredit perumahan yang dinaikkan menjadi Rp50 triliun untuk menopang program tiga juta rumah, dan kredit khusus perempuan prasejahtera dengan batas pinjaman Rp15 juta. Yang terdampak adalah peternak dan pengguna alat pertanian, pencari rumah subsidi, serta perempuan dari keluarga kurang mampu yang sebelumnya sulit mendapat pinjaman dari bank biasa. Arahnya cukup jelas: pemerintah memilih menambah ragam skema kredit bersubsidi ketimbang menaikkan besar-besaran satu program saja, karena kesenjangan pembiayaan UMKM yang diperkirakan Rp2.400 triliun tahun ini jauh lebih besar dari total kredit program yang baru tersalurkan, yakni Rp258,75 triliun sepanjang tahun. Ini mengarah ke perluasan bertahap lewat segmentasi kelompok penerima, bukan penutupan kesenjangan sekaligus. Yang akan menguji arah ini adalah realisasi akhir tahun, terutama apakah target kredit perumahan Rp50 triliun tercapai dan apakah Kredit Usaha Pertanian serta kredit untuk perempuan prasejahtera benar-benar mulai berjalan, bukan sekadar rencana yang dibahas di forum ini.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "smle-rinci-rencana-jual-50-saham-sinarom-ke-denico",

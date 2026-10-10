@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari kunjungan ini adalah angka progres: 40 dari 75 rumah adat Sade sudah berdiri kembali dengan atap terpasang, kurang dari tiga minggu setelah status tanggap darurat dicabut pada 20 September 2026. Yang terdampak langsung adalah puluhan kepala keluarga pemilik rumah adat yang terbakar, serta pelaku usaha kecil di Sade yang pendapatannya bergantung pada kunjungan wisatawan ke desa ini. Pola yang terlihat adalah prioritas membangun rumah tinggal dulu, baru menyusul fasilitas umum seperti masjid dan museum, sementara pendanaannya mengandalkan donasi masyarakat lewat rekening penampungan, bukan semata anggaran negara. Siaran ini belum menyebut target tanggal penyelesaian seluruh 75 rumah, jadi yang perlu dipantau adalah apakah sisa 35 rumah bisa selesai sebelum kunjungan wisata ke Sade kembali ramai.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "kek-kura-kura-bali-diarahkan-jadi-hub-riset-ai-dan-semikonduktor",
@@ -56,7 +56,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pertemuan ini adalah pergeseran arah kerja sama investasi Tiongkok di KEK, dari sekadar menanamkan modal menjadi proyek industri terpadu lewat skema Two Countries Twin Parks, didorong oleh porsi tenant Tiongkok yang sudah mencapai 20 persen dari 481 perusahaan di seluruh KEK per triwulan II 2026. Yang terdampak langsung adalah pelaku industri dan pekerja di KEK Kura-Kura Bali, yang hingga semester I 2026 baru menyerap 2.173 tenaga kerja dari realisasi investasi Rp1,8 triliun, jauh di bawah skala investasi KEK nasional yang sudah mencapai US$20,7 miliar. Arahnya terlihat menuju penguatan rantai nilai domestik lewat riset dan sumber daya manusia, bukan sekadar menambah jumlah investor, tapi ini masih berupa niat kebijakan karena belum ada proyek TCTP konkret yang disebut sudah berjalan di Kura-Kura Bali. Yang akan menentukan apakah pergeseran ini nyata adalah realisasi investasi dan penyerapan tenaga kerja Kura-Kura Bali pada triwulan III dan IV 2026, serta apakah program AI dan semikonduktor di Tsinghua Southeast Asia Center menghasilkan proyek industri konkret, bukan sekadar forum akademik.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "pemerintah-siapkan-skema-kredit-baru-untuk-petani-dan-perempuan",

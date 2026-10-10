@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "waduk-plta-batang-toru-mulai-digenangi-demi-pasokan-nataru",
+  "category": "Energi",
+  "title": "Waduk PLTA Batang Toru Mulai [Digenangi] demi Pasokan Nataru",
+  "deck": "Penggenangan waduk PLTA Batang Toru berkapasitas 510 MW dimulai, menyusul cadangan listrik Sumatera Utara yang disebut ESDM baru 4 persen, jauh di bawah batas aman menjelang Nataru.",
+  "image": "assets/img/waduk-plta-batang-toru-mulai-digenangi-demi-pasokan-nataru.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T02:06:54.581Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/waduk-plta-batang-toru-mulai-digenangi-pasokan-listrik-sumatera-utara-kian-andal-jelang-nataru",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "PLTA Batang Toru",
+   "ESDM",
+   "Listrik Sumatera Utara",
+   "Nataru"
+  ],
+  "body": [
+   "Proses penggenangan waduk Pembangkit Listrik Tenaga Air (PLTA) Batang Toru berkapasitas 510 megawatt di Tapanuli Selatan, Sumatera Utara, dimulai Jumat, 9 Oktober 2026, disaksikan langsung Wakil Menteri ESDM Yuliot. Langkah ini mengejar target agar pembangkit siap menyokong lonjakan konsumsi listrik saat libur Natal dan Tahun Baru. Urgensinya datang dari kondisi cadangan daya sistem kelistrikan Sumatera yang menurut Yuliot kini hanya 4 persen, padahal idealnya berkisar 15 sampai 20 persen agar sistem tetap aman jika ada gangguan di pembangkit lain.",
+   "PLN menyebut sistem kelistrikan Sumatera bagian utara saat ini masih mengandalkan pasokan dari Sumatera bagian selatan lewat jaringan transmisi antarwilayah. Kebutuhan listrik Sumatera Utara tumbuh sekitar 100 sampai 120 megawatt setiap tahun, sehingga tambahan 510 megawatt dari Batang Toru diperkirakan cukup menopang pertumbuhan tersebut untuk empat sampai lima tahun ke depan.",
+   "Yuliot menjelaskan penggenangan diperlukan untuk menguji seluruh fasilitas, mulai dari rumah pembangkit, ketinggian air waduk, hingga penyaluran daya ke jaringan transmisi, karena tanpa air tergenang pengujian itu tidak bisa dilakukan. Proses ini dipercepat pada kuartal IV 2026, diikuti uji coba seluruh instrumen selama dua pekan, lalu pengujian penyambungan ke jaringan PLN sebelum Kementerian ESDM menerbitkan sertifikat laik operasi. Penggenangan baru bisa dijalankan setelah sejumlah kewajiban administrasi kepada Kementerian Lingkungan Hidup/BPLH dan Kementerian Kehutanan diselesaikan, dengan pengawasan bersama Kementerian Investasi/BKPM dan Kejaksaan Agung.",
+   "Proyek strategis nasional senilai Rp21,6 triliun ini terdiri atas empat unit pembangkit berkapasitas 127,5 megawatt masing-masing, dikembangkan oleh PT North Sumatera Hydro Energy (NSHE). Pasokan airnya terhubung ke hulu Danau Toba sehingga dinilai lebih stabil dibanding PLTA lain saat musim kering akibat El Nino. NSHE juga telah menyiapkan kajian pengembangan tahap kedua berkapasitas 160 megawatt, dengan mayoritas pekerja proyek berasal dari tenaga kerja lokal."
+  ],
+  "fotoAdegan": "Wide view of a newly filled hydropower reservoir ringed by forested hills, dam structure and access road visible, overcast daylight",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-waduk-plta-batang-toru-mulai-digenangi-pasokan-listrik-sumatera-utara-kian-andal-jelang-nataru-aovs2gx.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah bukan pembangkit mulai menyala, melainkan baru tahap menggenangi waduk untuk uji coba, sementara listriknya ditargetkan benar-benar tersambung ke jaringan PLN sebelum sertifikat laik operasi terbit. Yang paling merasakan dampaknya adalah pelanggan listrik di Sumatera Utara, karena cadangan daya sistem di sana kini cuma 4 persen dari kebutuhan, jauh di bawah batas aman 15 sampai 20 persen yang membuat daerah ini rawan pemadaman kalau ada pembangkit lain bermasalah. Kalau uji coba dua pekan dan penyambungan ke jaringan berjalan sesuai rencana ESDM, tambahan 510 megawatt ini bisa menutup kebutuhan listrik yang tumbuh 100 sampai 120 megawatt per tahun untuk empat sampai lima tahun ke depan, sehingga tekanan pada cadangan daya bisa mereda sebelum Natal dan Tahun Baru. Yang akan menentukan apakah target itu tercapai adalah hasil uji sinkronisasi ke jaringan PLN dan penerbitan sertifikat laik operasi dalam beberapa bulan mendatang, karena tanpa itu pembangkit ini belum bisa benar-benar mengalirkan listriknya.",
+  "imageV": "mv1rdbfl"
+ },
+ {
   "slug": "wgsh-direksi-hendy-rusli-jual-510-saham-hak-suara-tetap",
   "category": "Aksi Korporasi",
   "title": "WGSH: Direksi Hendy Rusli [Jual] 510 Saham, Hak Suara Tetap",

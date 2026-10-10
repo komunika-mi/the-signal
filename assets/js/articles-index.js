@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "waduk-plta-batang-toru-mulai-digenangi-demi-pasokan-nataru",
+  "category": "Energi",
+  "title": "Waduk PLTA Batang Toru Mulai [Digenangi] demi Pasokan Nataru",
+  "deck": "Penggenangan waduk PLTA Batang Toru berkapasitas 510 MW dimulai, menyusul cadangan listrik Sumatera Utara yang disebut ESDM baru 4 persen, jauh di bawah batas aman menjelang Nataru.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/waduk-plta-batang-toru-mulai-digenangi-demi-pasokan-nataru.jpg",
+  "imageV": "mv1rdbfl",
+  "tags": [
+   "PLTA Batang Toru",
+   "ESDM",
+   "Listrik Sumatera Utara",
+   "Nataru"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/waduk-plta-batang-toru-mulai-digenangi-pasokan-listrik-sumatera-utara-kian-andal-jelang-nataru",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "wgsh-direksi-hendy-rusli-jual-510-saham-hak-suara-tetap",
   "category": "Aksi Korporasi",
   "title": "WGSH: Direksi Hendy Rusli [Jual] 510 Saham, Hak Suara Tetap",
@@ -6459,22 +6477,6 @@ var ARTICLES = [
    "volatilitas saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2508bdb24e_7b836d0e17.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-catatkan-1-45-juta-saham-baru-dari-mesop",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Catatkan 1,45 Juta Saham Baru dari [MESOP]",
-  "deck": "BEI mencatatkan 1.448.585 saham baru PGEO hasil pelaksanaan opsi MESOP Tahap I dan III, efektif 5 Oktober 2026, saham beredar naik menjadi 41,95 miliar.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "MESOP",
-   "Pertamina Geothermal Energy",
-   "saham baru"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6664add4ae_582753a004.pdf",
   "sourceLabel": "IDX"
  }
 ];

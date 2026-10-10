@@ -86,6 +86,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472253-dukung-pemulihan-ekonomi-pertamina-bantu-perajin-tenun-desa-adat-sade-kembali-berkarya"
  },
  {
+  "slug": "giaa-rombak-direksi-thomas-oentoro-jadi-dirut-baru",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Rombak [Direksi], Thomas Oentoro Jadi Dirut Baru",
+  "deck": "RUPSLB Garuda Indonesia menyetujui pergantian direksi dan komisaris, termasuk tiga eksekutif asing baru dan penetapan Thomas Sugiarto Oentoro sebagai Direktur Utama.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GIAA",
+   "Garuda Indonesia",
+   "RUPSLB",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f3e7f089e_3b5cc8e34f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "test-shm3-rampungkan-tender-wajib-beli-5-98-juta-saham",
   "category": "Aksi Korporasi",
   "title": "TEST-SHM3 Rampungkan [Tender Wajib] Beli 5,98 Juta Saham",
@@ -474,6 +490,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "asli-pengendali-tambah-saham-kuasai-52",
+  "category": "Aksi Korporasi",
+  "title": "ASLI: [Pengendali] Tambah Saham, Kuasai 52%",
+  "deck": "PT Wahana Konstruksi menambah 62,5 juta saham ASLI senilai Rp20,31 miliar pada 21 September 2026, menaikkan kendalinya dari 51 persen menjadi 52 persen.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASLI",
+   "pemegang saham",
+   "pengendali",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5a2f3add70_bfd737dc30.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "viva-konversi-utang-rp1-72-triliun-jadi-saham-baru",
   "category": "Aksi Korporasi",
   "title": "VIVA Konversi Utang Rp1,72 Triliun Jadi [Saham] Baru",
@@ -621,6 +653,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472107-soroti-pola-tanam-tradisional-menko-zulhas-dorong-pembenahan-rantai-pasok-kelapa-di-wcd-2026"
  },
  {
+  "slug": "agro-sahkan-ubah-anggaran-dasar-direktur-bisnis-baru",
+  "category": "Aksi Korporasi",
+  "title": "AGRO Sahkan Ubah [Anggaran Dasar], Direktur Bisnis Baru",
+  "deck": "RUPSLB Bank Raya Indonesia menyetujui penyelarasan anggaran dasar dengan aturan anak usaha BUMN, sekaligus mengukuhkan Hari Basuki sebagai Direktur Bisnis baru.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGRO",
+   "Bank Raya Indonesia",
+   "RUPSLB",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d9088b67a_e976b71f23.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-ubah-hentakan-tenun-jadi-listrik-pompa-air",
   "category": "BUMN",
   "title": "Pertamina Ubah Hentakan Tenun Jadi Listrik Pompa [Air]",
@@ -636,6 +684,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472099-inovasi-mina-tenun-di-desa-sukarara-ntb-ubah-hentakan-alat-tenun-jadi-listrik-pompa-air"
+ },
+ {
+  "slug": "gwsa-tegaskan-kebakaran-menara-batavia-bukan-aset-perusahaan",
+  "category": "Aksi Korporasi",
+  "title": "GWSA Tegaskan [Kebakaran] Menara Batavia Bukan Aset Perusahaan",
+  "deck": "GWSA menjelaskan ke BEI bahwa kebakaran di Menara Batavia pada 8 Oktober 2026 bukan terjadi di asetnya, melainkan di gedung lain yang namanya mirip dengan proyek miliknya, TCC Batavia Tower One.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GWSA",
+   "kebakaran",
+   "keterbukaan informasi",
+   "Menara Batavia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71a1aa6ddd_171549a24b.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bswd-papar-suspensi-saham-dan-tenggat-free-float-2029",
@@ -767,6 +831,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cash-ganti-direksi-dan-ubah-penggunaan-dana-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "CASH Ganti Direksi dan Ubah Penggunaan Dana [Rights Issue]",
+  "deck": "RUPSLB Cashlez pada 8 Oktober 2026 menyetujui pergantian direktur, pindah alamat kantor, penyesuaian klasifikasi usaha, dan perubahan rencana pakai dana rights issue I.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "RUPSLB",
+   "Pergantian Direksi",
+   "Rights Issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/baec839755_8595d28054.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "oppm-lunasi-obligasi-rp2-98-triliun-jatuh-tempo-12-okt",
   "category": "Aksi Korporasi",
   "title": "OPPM [lunasi] obligasi Rp2,98 triliun jatuh tempo 12 Okt",
@@ -780,6 +860,38 @@ var ARTICLES = [
    "pelunasan utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5110c74978_dd3cd91895.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xrdn-unit-penyertaan-etf-kas-bertumbuh-berkurang-58-4-juta",
+  "category": "Aksi Korporasi",
+  "title": "XRDN: [Unit Penyertaan] ETF Kas Bertumbuh Berkurang 58,4 Juta",
+  "deck": "Jumlah unit penyertaan Reksa Dana Indo ETF RDN Kas Bertumbuh (XRDN) turun 58,4 juta unit menjadi 22,91 miliar unit per 8 Oktober 2026, tanpa ada unit baru yang diterbitkan.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XRDN",
+   "ETF",
+   "reksa dana",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/881947f299_fcd1034def.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xrdn-unit-penyertaan-etf-susut-256-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "XRDN: Unit Penyertaan ETF [Susut] 256,2 Juta",
+  "deck": "Unit penyertaan ETF RDN Kas Bertumbuh (XRDN) turun dari 23.227.700.000 menjadi 22.971.500.000 unit per 7 Oktober 2026, berkurang 256.200.000 unit tanpa ada penambahan baru.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XRDN",
+   "ETF",
+   "reksa dana",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f013c8f338_1b9fdc498e.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -799,6 +911,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "vktr-catat-rights-issue-15-miliar-saham-harga-rp200",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Catat Rights Issue [15 Miliar Saham] Harga Rp200",
+  "deck": "BEI resmi mencatatkan rights issue VKTR sebanyak 15 miliar saham baru dengan harga pelaksanaan Rp200 per saham, periode pelaksanaan 12-23 Oktober 2026.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VKTR",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98a9bbedb9_416616aa27.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bmhs-wakil-presiden-komisaris-shubhasish-chattoraj-mundur",
   "category": "Aksi Korporasi",
   "title": "BMHS: Wakil Presiden Komisaris Shubhasish Chattoraj [Mundur]",
@@ -812,6 +940,22 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/676086acd1_98cb280276.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baja-catatkan-saham-baru-serapan-rights-issue-cuma-18",
+  "category": "Aksi Korporasi",
+  "title": "BAJA catatkan saham baru, [serapan] rights issue cuma 18%",
+  "deck": "IDX mencatat tambahan 111.451 saham BAJA dari pelaksanaan HMETD. Setelah periode rights issue tutup 7 Oktober 2026, baru sekitar 18 persen dari maksimal 900 juta saham yang terserap.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "rights issue",
+   "HMETD",
+   "pencatatan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/666bed80b4_b9e0eab1af.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6328,156 +6472,6 @@ var ARTICLES = [
    "kepemilikan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-3251-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppatk-rilis-peta-risiko-keuangan-jelang-evaluasi-fatf-2029",
-  "category": "Perbankan",
-  "title": "PPATK Rilis Peta Risiko Keuangan, Jelang Evaluasi FATF [2029]",
-  "deck": "PPATK merilis tiga penilaian risiko nasional 2026 untuk pencucian uang, pendanaan terorisme, dan proliferasi senjata, menjelang evaluasi FATF pada 2029.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/ppatk-rilis-peta-risiko-keuangan-jelang-evaluasi-fatf-2029.jpg",
-  "imageV": "muqyjotv",
-  "tags": [
-   "PPATK",
-   "FATF",
-   "Pencucian Uang",
-   "Pendanaan Terorisme"
-  ],
-  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
-  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1676/ppatk-luncurkan-tiga-nra-2026-perkuat-ketahanan-indonesia-dan-kesiapan-menghadapi-mutual-evaluation-review-fatf-.html",
-  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
- },
- {
-  "slug": "penebusan-pupuk-perikanan-bersubsidi-di-sulsel-masih-rendah",
-  "category": "UMKM",
-  "title": "Penebusan Pupuk Perikanan Bersubsidi di Sulsel Masih [Rendah]",
-  "deck": "Realisasi penebusan pupuk perikanan bersubsidi di Sulawesi Selatan baru 11,9 persen dari kuota 102.479 ton, sementara capaian nasional juga baru 9,68 persen dari alokasi 295.686 ton.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penebusan-pupuk-perikanan-bersubsidi-di-sulsel-masih-rendah.jpg",
-  "imageV": "muqyjqaw",
-  "tags": [
-   "pupuk subsidi",
-   "perikanan",
-   "Sulawesi Selatan",
-   "KKP"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-kawal-percepatan-penebusan-pupuk-perikanan-bersubsidi-di-sulsel-ZzjR.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "bi-soroti-kesenjangan-literasi-keuangan-anak-muda",
-  "category": "Moneter",
-  "title": "BI Soroti Kesenjangan [Literasi] Keuangan Anak Muda",
-  "deck": "BI mencatat indeks inklusi keuangan anak muda 18-25 tahun capai 95,69 persen, jauh di atas indeks literasi yang cuma 73,32 persen, saat resmikan gerai edukasi di Unair.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/bi-soroti-kesenjangan-literasi-keuangan-anak-muda.jpg",
-  "imageV": "muqyjrqp",
-  "tags": [
-   "Bank Indonesia",
-   "literasi keuangan",
-   "QRIS",
-   "pelindungan konsumen"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821026.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "tguk-dinasti-kreatif-lepas-saham-suara-tersisa-12-49",
-  "category": "Aksi Korporasi",
-  "title": "TGUK: Dinasti Kreatif [Lepas] Saham, Suara Tersisa 12,49%",
-  "deck": "PT Dinasti Kreatif Indonesia melepas 2,03 miliar saham TGUK di harga Rp20, memangkas hak suara dari 69,33% jadi 12,49% dan melepas status pengendali.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGUK",
-   "kepemilikan saham",
-   "pengendali",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-5070-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnmp-dana-obligasi-sosial-rp1-01-triliun-terserap-100",
-  "category": "Aksi Korporasi",
-  "title": "PNMP: Dana Obligasi Sosial Rp1,01 Triliun [Terserap] 100%",
-  "deck": "PT Permodalan Nasional Madani melaporkan seluruh dana Rp1,01 triliun dari obligasi sosial Tahap III telah habis terpakai untuk pembiayaan sosial, tanpa sisa dana.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNMP",
-   "obligasi",
-   "penggunaan dana",
-   "PNM"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/927dcea038_3d0e0626f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnmp-rampungkan-realisasi-dana-sukuk-sosial-rp719-4-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PNMP Rampungkan [Realisasi] Dana Sukuk Sosial Rp719,4 Miliar",
-  "deck": "PT Permodalan Nasional Madani (PNMP) melaporkan dana bersih Rp719,4 miliar dari sukuk mudharabah sosial Tahap IV sudah terpakai 100 persen, tanpa sisa.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNMP",
-   "sukuk",
-   "obligasi",
-   "realisasi dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/00d18fbee2_d10ed99d62.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnmp-dana-obligasi-sosial-rp498-57-m-terserap-100",
-  "category": "Aksi Korporasi",
-  "title": "PNMP: Dana Obligasi Sosial Rp498,57 M Terserap [100%]",
-  "deck": "PNM melaporkan seluruh dana bersih Rp498,57 miliar dari Obligasi Berwawasan Sosial Tahap II sudah dipakai penuh untuk pembiayaan usaha berwawasan sosial, tanpa sisa dana mengendap.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNMP",
-   "obligasi berkelanjutan",
-   "penggunaan dana",
-   "PNM"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0576abda47_869d83ed80.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kaii-angkat-ristadi-jadi-komisaris-baru-kai",
-  "category": "Aksi Korporasi",
-  "title": "KAII Angkat Ristadi Jadi [Komisaris] Baru KAI",
-  "deck": "PT Kereta Api Indonesia (Persero) mengangkat Ristadi sebagai komisaris baru per 1 Oktober 2026, menyusul keputusan pemegang saham tentang susunan dewan komisaris perseroan.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KAII",
-   "Kereta Api Indonesia",
-   "Pergantian Komisaris",
-   "Tata Kelola Perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a73ede4d0_cec15648df.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brms-direktur-adika-bakrie-tambah-389-900-saham-rp640",
-  "category": "Aksi Korporasi",
-  "title": "BRMS: Direktur Adika Bakrie [Tambah] 389.900 Saham Rp640",
-  "deck": "Direksi BRMS Adika Aryasthana Bakrie membeli 389.900 saham perseroan secara tidak langsung seharga Rp640 per lembar pada 28 September 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRMS",
-   "Bumi Resources Minerals",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-3323-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

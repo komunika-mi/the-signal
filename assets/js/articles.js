@@ -140,6 +140,32 @@ var ARTICLES = [
   "imageV": "mv2dxstx"
  },
  {
+  "slug": "giaa-rombak-direksi-thomas-oentoro-jadi-dirut-baru",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Rombak [Direksi], Thomas Oentoro Jadi Dirut Baru",
+  "deck": "RUPSLB Garuda Indonesia menyetujui pergantian direksi dan komisaris, termasuk tiga eksekutif asing baru dan penetapan Thomas Sugiarto Oentoro sebagai Direktur Utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T15:56:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f3e7f089e_3b5cc8e34f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "Garuda Indonesia",
+   "RUPSLB",
+   "Direksi"
+  ],
+  "body": [
+   "Garuda Indonesia (Persero) Tbk menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) secara elektronik melalui sistem eASY.KSEI pada Kamis, 8 Oktober 2026, pukul 16.47 sampai 17.16 WIB, dengan satu agenda yakni perubahan pengurus perseroan. Rapat dihadiri pemegang 382.005.564.740 saham, termasuk Saham Seri A Dwiwarna, setara 93,838 persen dari total saham perseroan dengan hak suara sah. Seluruh keputusan disetujui dengan 382.000.373.813 suara atau 99,9986 persen dari suara yang hadir, sementara 4.783.005 suara atau 0,0013 persen menolak dan 407.922 suara atau 0,0001 persen abstain.",
+   "RUPSLB mengukuhkan pemberhentian Reza Aulia Hakim dari jabatan Direktur Niaga terhitung sejak 14 Agustus 2026, posisi yang sejak itu dijalankan sementara oleh Mukhtaris selaku pelaksana tugas. Rapat juga memberhentikan dengan hormat empat pengurus lain, yaitu Glenny H. Kairupan dari Direktur Utama, Dani Haikal Iriawan dari Direktur Operasi, Frans Dicky Tamara dari Direktur Human Capital & Corporate Service, dan Fadjar Prasetyo dari Komisaris Utama merangkap Komisaris Independen. Sebagai gantinya, Thomas Sugiarto Oentoro yang sebelumnya Wakil Direktur Utama dialihkan menjadi Direktur Utama meneruskan sisa periode jabatan hingga 2030, sementara jabatan Wakil Direktur Utama dihapuskan dan nama posisi Direktur Niaga diubah menjadi Direktur Komersial.",
+   "Perseroan mengangkat enam pengurus baru untuk periode 2026-2031: Alan McIntyre sebagai Direktur Komersial, Eric Ferdinand Sofyal sebagai Direktur Operasi, Dina Sandri Fani sebagai Direktur Human Capital & Corporate Service, serta Glenny H. Kairupan yang beralih dari Direktur Utama menjadi Komisaris Utama, didampingi dua komisaris independen baru, Jaan Albrecht dan Trey Urbahn. Dengan susunan ini, jajaran Direksi berisi tujuh orang yakni Thomas Sugiarto Oentoro, Balagopal Kunduvara, Eric Ferdinand Sofyal, Muktaris, Alan McIntyre, Dina Sandri Fani, dan Neil Raymond Mills, sementara Dewan Komisaris berisi enam orang yakni Glenny H. Kairupan, Mawardi Yahya, Chairal Tanjung, Sugito Anjasmoro, Jaan Albrecht, dan Trey Urbahn. Rapat memberi kuasa kepada Direksi untuk menuangkan seluruh keputusan ke dalam akta notaris, serta mewajibkan pengurus baru yang masih merangkap jabatan terlarang di BUMN lain untuk mengundurkan diri dari posisi tersebut."
+  ],
+  "fotoAdegan": "Wide-body passenger jet being pushed back from an airport gate at dusk, ground crew in high-visibility vests directing the tow tug",
+  "takeaway": "Perombakan ini condong netral bagi fundamental Garuda dalam jangka pendek, karena yang berubah adalah pucuk kepemimpinan, bukan struktur modal, arus kas, atau beban utang perseroan secara langsung. Yang patut dicermati adalah dampak tidak langsungnya terhadap kelanjutan restrukturisasi utang pascapenyelesaian PKPU Garuda, sebab kemampuan direksi baru menjaga arus kas dan menegosiasikan beban bunga ke kreditor akan menentukan apakah pergantian ini memperkuat atau justru mengganggu pemulihan keuangan perseroan. Masuknya tiga nama asing, Alan McIntyre, Jaan Albrecht, dan Trey Urbahn, sejalan dengan alasan resmi RUPS untuk mendatangkan kepemimpinan berkapabilitas internasional, tetapi efeknya ke kinerja baru akan terlihat dari langkah konkret mereka, bukan dari pengangkatan itu sendiri. Yang perlu dipantau selanjutnya adalah penuangan keputusan ini ke dalam akta notaris oleh Direksi serta kewajiban pengurus yang masih merangkap jabatan di BUMN lain untuk mundur dari posisi tersebut, dua syarat yang disebut langsung dalam keputusan RUPS ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "test-shm3-rampungkan-tender-wajib-beli-5-98-juta-saham",
   "category": "Aksi Korporasi",
   "title": "TEST-SHM3 Rampungkan [Tender Wajib] Beli 5,98 Juta Saham",
@@ -766,6 +792,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "asli-pengendali-tambah-saham-kuasai-52",
+  "category": "Aksi Korporasi",
+  "title": "ASLI: [Pengendali] Tambah Saham, Kuasai 52%",
+  "deck": "PT Wahana Konstruksi menambah 62,5 juta saham ASLI senilai Rp20,31 miliar pada 21 September 2026, menaikkan kendalinya dari 51 persen menjadi 52 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T21:12:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5a2f3add70_bfd737dc30.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASLI",
+  "tags": [
+   "ASLI",
+   "pemegang saham",
+   "pengendali",
+   "free float"
+  ],
+  "body": [
+   "PT Asri Karya Lestari Tbk (ASLI) melaporkan perubahan struktur pemegang saham untuk periode yang berakhir 9 Oktober 2026. Pemegang saham pengendali, PT Wahana Konstruksi, menambah kepemilikannya dari 3.187.500.000 saham (51 persen) menjadi 3.250.000.000 saham (52 persen). Penambahan sebanyak 62.500.000 saham itu dibeli dengan harga Rp325 per saham pada 21 September 2026, sehingga nilai transaksinya sekitar Rp20,31 miliar. Dalam dokumen yang dikirim ke Otoritas Jasa Keuangan, tujuan transaksi disebut sebagai investasi, dilakukan secara langsung, dan Wahana Konstruksi menyatakan akan tetap mempertahankan posisinya sebagai pengendali perseroan.",
+   "Sementara itu, PT Cakrawala Multi Mineral selaku afiliasi pengendali tidak mengubah kepemilikannya, tetap di 732.500.000 saham atau 11,72 persen. Total saham ASLI yang tercatat di bursa tidak berubah, yakni 6.250.000.000 saham, dan tidak ada saham treasuri. Akibat penambahan porsi pengendali, saham yang dipegang pemegang saham dengan kepemilikan di bawah 5 persen turun dari 2.330.000.000 saham (37,28 persen) menjadi 2.267.500.000 saham (36,28 persen) dari total saham beredar.",
+   "Di sisi lain, jumlah pemegang saham yang tercatat lewat Single Investor Identification (SID) justru naik dari 9.483 menjadi 12.461 pemegang, bertambah 2.978 pemegang saham dalam sebulan. Laporan ini ditandatangani oleh Corporate Secretary ASLI, Vayolla Naurah Shyfa, yang menerima kuasa dari direksi PT Wahana Konstruksi Mandiri pada 23 September 2026 untuk melaporkan perubahan kepemilikan saham sesuai aturan Otoritas Jasa Keuangan Nomor 4 Tahun 2024 tentang laporan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Construction site with rebar frames and concrete columns under morning light, workers in hard hats moving materials, no signage visible",
+  "takeaway": "Laporan ini condong positif bagi ASLI karena yang terjadi adalah pengendali menambah kepemilikan, bukan melepasnya, dengan nilai pembelian sekitar Rp20,31 miliar yang menaikkan hak suaranya dari 51 persen menjadi 52 persen, meski kenaikan satu poin persentase ini belum bisa dibilang langkah besar. Yang tersentuh dari transaksi ini adalah porsi saham yang bisa diperdagangkan bebas oleh publik, biasa disebut free float, yang turun dari 37,28 persen menjadi 36,28 persen karena sebagian saham publik beralih ke tangan pengendali, sementara jumlah saham beredar dan laba per saham tidak berubah sama sekali karena ini jual beli antar pemegang saham, bukan penerbitan saham baru. Pasar yang mencermati likuiditas perdagangan saham ASLI perlu memperhatikan apakah free float ini akan terus menyusut pada laporan bulanan berikutnya, sementara di sisi lain jumlah pemegang saham baru justru bertambah hampir 3.000 orang dalam sebulan, yang menunjukkan minat publik terhadap saham ini tetap ada.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "viva-konversi-utang-rp1-72-triliun-jadi-saham-baru",
   "category": "Aksi Korporasi",
   "title": "VIVA Konversi Utang Rp1,72 Triliun Jadi [Saham] Baru",
@@ -1004,6 +1056,32 @@ var ARTICLES = [
   "imageV": "mv156pe0"
  },
  {
+  "slug": "agro-sahkan-ubah-anggaran-dasar-direktur-bisnis-baru",
+  "category": "Aksi Korporasi",
+  "title": "AGRO Sahkan Ubah [Anggaran Dasar], Direktur Bisnis Baru",
+  "deck": "RUPSLB Bank Raya Indonesia menyetujui penyelarasan anggaran dasar dengan aturan anak usaha BUMN, sekaligus mengukuhkan Hari Basuki sebagai Direktur Bisnis baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T19:23:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d9088b67a_e976b71f23.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGRO",
+  "tags": [
+   "AGRO",
+   "Bank Raya Indonesia",
+   "RUPSLB",
+   "Direksi"
+  ],
+  "body": [
+   "PT Bank Raya Indonesia Tbk (AGRO) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 7 Oktober 2026 di Menara BRILiaN, Jakarta Selatan. Rapat dihadiri pemegang saham yang mewakili 21.492.346.572 saham, atau 87,13 persen dari total 24.665.514.894 saham yang telah diterbitkan setelah dikurangi 74.979.400 saham yang sudah dibeli kembali oleh perseroan. Dari jumlah hak suara yang sah, kehadiran itu setara 97,14 persen, sehingga syarat kuorum untuk dua agenda rapat terpenuhi. Kedua agenda disetujui dengan 99,995 persen suara setuju dan sisanya 0,0046 persen abstain, tanpa suara menolak. Penghitungan suara dilakukan PT Datindo Entrycom sebagai Biro Administrasi Efek dan divalidasi notaris M. Nova Faisal.",
+   "Agenda pertama adalah perubahan anggaran dasar perseroan untuk menyelaraskannya dengan peraturan perundang-undangan terbaru, termasuk ketentuan mengenai anak usaha Badan Usaha Milik Negara. Penjelasan notaris menyebut perubahan ini mencakup penyesuaian ambang batas kewenangan (threshold kewenangan) di internal perseroan. Direksi diberi kuasa untuk menyusun ulang seluruh anggaran dasar dalam akta notaris dan melaporkannya ke instansi berwenang agar mendapat persetujuan resmi.",
+   "Agenda kedua mengukuhkan pengunduran diri Kicky Andrie Davetra sebagai Direktur Bisnis yang berlaku sejak 13 Juli 2026, dan mengangkat Hari Basuki sebagai penggantinya dengan masa jabatan 7 Oktober 2026 sampai 7 Oktober 2031, atau hingga penutupan RUPS Tahunan kelima sejak rapat ini. Jabatan Hari Basuki baru efektif setelah lolos uji kemampuan dan kepatutan (fit and proper test) dari Otoritas Jasa Keuangan. Dengan keputusan ini, susunan direksi AGRO menjadi Ida Bagus Ketut Subagia sebagai Direktur Utama, Lukman Hakim di Direktorat Digital dan Operasional, Rustarti Suri Pertiwi di Direktorat Keuangan, Danar Widyantoro di Direktorat Manajemen Risiko, Kepatuhan dan SDM, serta Hari Basuki di Direktorat Bisnis. Susunan dewan komisaris tetap terdiri dari Muhamad Sidik Heruwibowo sebagai Komisaris Utama, serta Johanes Kuntjoro Adisardjono, Retno Wahyuni Wijayanti, dan Farid Rahman sebagai komisaris independen, ditambah Tatang Yuliono sebagai komisaris."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district, pedestrians walking past at midday, soft overcast light",
+  "takeaway": "Laporan ini netral bagi AGRO, karena isinya formalisasi dua hal yang sifatnya administratif, yakni penyesuaian anggaran dasar mengikuti aturan anak usaha BUMN dan pengesahan ulang pergantian direktur bisnis yang prosesnya sudah lebih dulu diumumkan sejak Juli 2026. Perubahan ini tidak menyentuh ekuitas, arus kas, atau laba per saham secara langsung, tapi penyesuaian ambang batas kewenangan direksi patut dicatat karena itu menentukan seberapa besar keputusan bisnis yang bisa diambil direksi tanpa perlu persetujuan RUPS lagi, jadi berkaitan dengan tata kelola dan pengawasan pemegang saham. Yang perlu dipantau selanjutnya adalah hasil uji kemampuan dan kepatutan dari OJK yang menentukan kapan Hari Basuki resmi bisa menjalankan tugas sebagai Direktur Bisnis, serta proses pengesahan akta perubahan anggaran dasar ke instansi berwenang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-ubah-hentakan-tenun-jadi-listrik-pompa-air",
   "category": "BUMN",
   "title": "Pertamina Ubah Hentakan Tenun Jadi Listrik Pompa [Air]",
@@ -1028,6 +1106,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret di sini adalah pendapatan penenun di Desa Sukarara, dari sekitar Rp25.000 per lembar kain menjadi minimal Rp750.000, karena galeri bentukan Pertamina Patra Niaga memutus jalur tengkulak dan membayar tunai begitu kain selesai dibuat. Yang terdampak langsung adalah perempuan penenun dan mantan pekerja migran di desa itu, serta warga sekitar yang kebagian air bersih dari pompa yang digerakkan tenaga hentakan alat tenun. Yang belum terlihat dari berita ini adalah skala program, misalnya berapa banyak penenun yang sudah bergabung, berapa rumah tangga yang kebagian air, dan apakah Pertamina berencana membuat model serupa di desa-desa lain lewat unit operasinya yang tersebar di berbagai daerah. Tanpa angka jangkauan dan rencana replikasi semacam itu, belum bisa dipastikan apakah ini sekadar proyek percontohan kecil atau bagian dari pola pemberdayaan yang akan diperluas Pertamina ke wilayah lain.",
   "imageV": "mv0zlua3"
+ },
+ {
+  "slug": "gwsa-tegaskan-kebakaran-menara-batavia-bukan-aset-perusahaan",
+  "category": "Aksi Korporasi",
+  "title": "GWSA Tegaskan [Kebakaran] Menara Batavia Bukan Aset Perusahaan",
+  "deck": "GWSA menjelaskan ke BEI bahwa kebakaran di Menara Batavia pada 8 Oktober 2026 bukan terjadi di asetnya, melainkan di gedung lain yang namanya mirip dengan proyek miliknya, TCC Batavia Tower One.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T19:21:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71a1aa6ddd_171549a24b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GWSA",
+  "tags": [
+   "GWSA",
+   "kebakaran",
+   "keterbukaan informasi",
+   "Menara Batavia"
+  ],
+  "body": [
+   "PT Greenwood Sejahtera Tbk (GWSA) memberikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan klarifikasi bernomor S-12853/BEI.PP2/10-2026 tertanggal 9 Oktober 2026. Permintaan itu terkait pemberitaan detikNews pada 8 Oktober 2026 berjudul 'Kebakaran di Menara Batavia, Api Muncul dari AC Outdoor'. Dalam surat balasan nomor 028/GWSA/X/2026 yang diteken Corporate Secretary Linda Halim pada 9 Oktober 2026 pukul 19.21, GWSA membenarkan bahwa kebakaran memang terjadi di Menara Batavia pada Kamis, 8 Oktober 2026.",
+   "Namun perusahaan menegaskan bahwa Menara Batavia bukan proyek yang dimiliki GWSA. Aset yang dimiliki dan dikelola GWSA adalah TCC Batavia Tower One, gedung berbeda meski namanya mirip dan berpotensi membingungkan publik. Karena kejadian itu berada di luar aset yang mereka kelola, GWSA menyatakan tidak mengetahui penyebab pasti kebakaran tersebut.",
+   "Perusahaan juga menyatakan tidak ada informasi atau kejadian material lain sehubungan dengan peristiwa ini yang dapat memengaruhi kelangsungan usaha maupun harga sahamnya."
+  ],
+  "fotoAdegan": "Firefighters directing a water hose toward smoke rising from the upper floors of a high-rise tower in a dense Jakarta business district, daytime haze",
+  "takeaway": "Laporan ini netral bagi GWSA, karena isinya semata mengoreksi kekeliruan identifikasi gedung, bukan mengabarkan kerugian atau risiko baru yang menimpa perusahaan. Tidak ada pos kinerja seperti ekuitas atau modal pemegang saham, arus kas, beban bunga, maupun laba per saham yang tersentuh oleh insiden ini, sebab gedung yang terbakar memang bukan aset GWSA, sehingga pelaku pasar tidak perlu merevisi proyeksi keuangan perusahaan akibat kejadian ini. Yang perlu dipantau selanjutnya adalah apakah muncul dampak tidak langsung, misalnya kekhawatiran penyewa di kawasan sekitar TCC Batavia Tower One akibat kebingungan nama gedung, atau pernyataan tambahan dari GWSA bila situasi berubah. Sejauh ini GWSA sudah memenuhi kewajiban keterbukaannya dengan merespons permintaan BEI pada hari yang sama, 9 Oktober 2026, tanpa ada tenggat lanjutan yang disebutkan dalam surat ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "bswd-papar-suspensi-saham-dan-tenggat-free-float-2029",
@@ -1238,6 +1342,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "cash-ganti-direksi-dan-ubah-penggunaan-dana-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "CASH Ganti Direksi dan Ubah Penggunaan Dana [Rights Issue]",
+  "deck": "RUPSLB Cashlez pada 8 Oktober 2026 menyetujui pergantian direktur, pindah alamat kantor, penyesuaian klasifikasi usaha, dan perubahan rencana pakai dana rights issue I.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:14:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/baec839755_8595d28054.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "RUPSLB",
+   "Pergantian Direksi",
+   "Rights Issue"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Kamis, 8 Oktober 2026, pukul 10.13 hingga 11.02 WIB di Brass Ballroom, Thamrin Nine Complex, Jakarta Pusat. Rapat dihadiri pemegang saham yang mewakili 2.082.292.764 saham atau 85,76 persen dari total 2.427.802.216 saham dengan hak suara sah. Kelima agenda rapat disetujui dengan suara setuju 2.082.292.664 saham, abstain 100 saham, dan tanpa suara menolak, serta tidak ada pemegang saham yang mengajukan pertanyaan atau pendapat.",
+   "Pada agenda pertama dan kedua, pemegang saham menerima studi kelayakan penambahan kegiatan usaha yang disusun oleh KJPP FDI&R dalam laporan bertanggal 23 September 2026, lalu menyetujui perubahan Pasal 3 Anggaran Dasar agar klasifikasi usaha Cashlez disesuaikan dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia. Pada agenda ketiga, rapat menyetujui perubahan rencana penggunaan dana hasil Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu I alias rights issue I, meski dokumen ini belum merinci alokasi baru dana tersebut.",
+   "Pemegang saham juga menyetujui perubahan alamat kantor pusat Perseroan, dari Atria @Sudirman Lantai 23, Jalan Jenderal Sudirman Kav 33A, Jakarta Pusat, menjadi Luminary Tower Lantai 69, Jalan M.H. Thamrin No. 10, Jakarta Pusat. Selain itu, rapat menerima pengunduran diri Oktavianus dari jabatan Direktur dengan pembebasan tanggung jawab penuh, dan mengangkat Ondi Tarnama Simamora sebagai Direktur baru menggantikan sisa masa jabatan Oktavianus hingga penutupan RUPS Tahunan 2030. Dengan perubahan ini, susunan pengurus Cashlez menjadi Surya Aseanto Putra sebagai Presiden Komisaris, Niniek S Rahardja sebagai Komisaris Independen, Willy Chandry sebagai Presiden Direktur, dan Ondi Tarnama Simamora sebagai Direktur."
+  ],
+  "fotoAdegan": "Exterior view of a glossy high-rise office tower in Jakarta's Thamrin business district, taken from street level at dusk.",
+  "takeaway": "Laporan ini condong netral bagi Cashlez, karena hampir seluruh keputusan bersifat administratif dan prosedural, tanpa angka yang menunjukkan perbaikan atau perburukan kinerja. Yang patut dicermati adalah perubahan rencana penggunaan dana hasil rights issue I, yaitu dana segar yang dulu dihimpun perusahaan dari pemegang saham lewat penjualan saham baru. Pelaku pasar peduli pada pos ini karena menentukan ke mana uang pemegang saham benar benar dipakai, misalnya untuk ekspansi usaha, modal kerja, atau keperluan lain, dan dokumen ini belum merinci alokasi barunya. Pergantian direktur dari Oktavianus ke Ondi Tarnama Simamora juga sekadar pengisian posisi yang kosong, bukan perubahan jumlah kursi atau pengendalian perusahaan. Yang perlu dipantau selanjutnya adalah pengumuman rinci soal alokasi baru dana rights issue tersebut, serta proses pengesahan perubahan Anggaran Dasar ke Kementerian Hukum setelah akta notaris dibuat.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "oppm-lunasi-obligasi-rp2-98-triliun-jatuh-tempo-12-okt",
   "category": "Aksi Korporasi",
   "title": "OPPM [lunasi] obligasi Rp2,98 triliun jatuh tempo 12 Okt",
@@ -1262,6 +1392,56 @@ var ARTICLES = [
   "fotoAdegan": "Workers inspecting stacked rolls of pulp inside an industrial paper mill warehouse, forklift moving between rows, overcast morning light",
   "takeaway": "Laporan ini condong positif, karena OPPM memastikan sudah menyiapkan dana tunai penuh untuk melunasi seluruh obligasi dan sukuk yang jatuh tempo tanpa bergantung pada utang baru dari bank, tanda posisi kas perusahaan cukup kuat untuk menutup kewajiban sebesar Rp2,98 triliun ditambah sekitar US$1,06 juta. Dana yang dipakai berasal dari kas dan setara kas, sehingga arus kas, yaitu catatan uang masuk dan keluar dari rekening perusahaan, akan tergerus signifikan begitu pembayaran cair, tapi di sisi lain beban utang yang tercatat di neraca akan hilang setelah pelunasan sehingga rasio utang perusahaan mengecil. Perusahaan juga menegaskan belum berencana mengganti utang lama ini dengan pinjaman baru, meski membuka kemungkinan mengajukan peringkat kredit untuk instrumen utang baru kalau ada investor yang berminat melakukan refinancing. Yang perlu dipantau adalah tanggal 12 Oktober 2026, saat keempat seri ini resmi berhenti diperdagangkan di BEI dan dana pelunasan harus benar-benar dibayarkan ke pemegang obligasi dan sukuk.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "xrdn-unit-penyertaan-etf-kas-bertumbuh-berkurang-58-4-juta",
+  "category": "Aksi Korporasi",
+  "title": "XRDN: [Unit Penyertaan] ETF Kas Bertumbuh Berkurang 58,4 Juta",
+  "deck": "Jumlah unit penyertaan Reksa Dana Indo ETF RDN Kas Bertumbuh (XRDN) turun 58,4 juta unit menjadi 22,91 miliar unit per 8 Oktober 2026, tanpa ada unit baru yang diterbitkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:08:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/881947f299_fcd1034def.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XRDN",
+  "tags": [
+   "XRDN",
+   "ETF",
+   "reksa dana",
+   "BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mengumumkan perubahan jumlah unit penyertaan yang tercatat untuk reksa dana berbentuk kontrak investasi kolektif exchange traded fund (ETF) berkode XRDN, yaitu Reksa Dana Indo ETF RDN Kas Bertumbuh. Berdasarkan laporan manajer investasi Indo Premier Investment Management bernomor 400/IPIM-RD/X/2026 tertanggal 8 Oktober 2026, jumlah unit penyertaan yang beredar berkurang 58.400.000 unit, dari sebelumnya 22.971.500.000 unit menjadi 22.913.100.000 unit. Tidak ada unit baru yang ditambahkan dalam periode ini, sehingga seluruh perubahan berasal dari penarikan atau penebusan unit oleh pemegang unit.",
+   "Laporan manajer investasi itu diteken oleh Andi Suhandi selaku Head of Operation Reksa Dana Indo ETF RDN Kas Bertumbuh. BEI kemudian menerbitkan pengumuman resmi bernomor Peng-P-01014/BEI.PP3/10-2026 yang ditandatangani Pande Made Kusuma Ari A, Kadiv Pengaturan dan Operasional Perdagangan, serta Mita Dwijayanti, PH Kepala Divisi PP3. Dalam pengumuman itu, BEI menetapkan 9 Oktober 2026 sebagai tanggal mulai berlakunya jumlah unit penyertaan yang baru di papan pencatatan unit penyertaan reksa dana."
+  ],
+  "fotoAdegan": "Wide shot of modern glass office towers in Jakarta's business district at dusk, city lights beginning to glow below",
+  "takeaway": "Penilaian redaksi netral, karena penyusutan 58,4 juta unit ini hanya sekitar 0,25 persen dari total unit yang beredar, terlalu kecil untuk dibaca sebagai sinyal tekanan serius pada dana kelolaan. Yang tersentuh di sini adalah jumlah unit penyertaan, semacam saham beredar tapi untuk reksa dana terbuka, yang mencerminkan ukuran dana kelolaan. Penurunannya berarti ada penarikan bersih oleh sebagian pemegang unit lewat mekanisme dealer partisipan, hal yang lumrah terjadi berkala pada reksa dana pasar uang seperti ini. Yang perlu dipantau berikutnya adalah laporan perubahan unit penyertaan periode selanjutnya, untuk melihat apakah tren penyusutan ini berlanjut atau justru berbalik ke penambahan unit, karena BEI mewajibkan laporan serupa setiap kali ada perubahan jumlah unit yang tercatat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "xrdn-unit-penyertaan-etf-susut-256-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "XRDN: Unit Penyertaan ETF [Susut] 256,2 Juta",
+  "deck": "Unit penyertaan ETF RDN Kas Bertumbuh (XRDN) turun dari 23.227.700.000 menjadi 22.971.500.000 unit per 7 Oktober 2026, berkurang 256.200.000 unit tanpa ada penambahan baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:07:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f013c8f338_1b9fdc498e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XRDN",
+  "tags": [
+   "XRDN",
+   "ETF",
+   "reksa dana",
+   "BEI"
+  ],
+  "body": [
+   "Manajer Reksa Dana Indo ETF RDN Kas Bertumbuh, melalui Head of Operation Andi Suhandi, melaporkan kepada Bursa Efek Indonesia bahwa jumlah unit penyertaan yang beredar untuk ETF berkode XRDN berkurang per 7 Oktober 2026. Dari sebelumnya 23.227.700.000 unit, jumlah unit yang beredar turun menjadi 22.971.500.000 unit, selisih 256.200.000 unit, tanpa ada unit baru yang diterbitkan pada periode tersebut.",
+   "BEI menindaklanjuti laporan ini lewat pengumuman resmi bernomor Peng-P-01012/BEI.PP3/10-2026 yang menetapkan pencatatan jumlah unit penyertaan terbaru tersebut, dengan tanggal mulai berlakunya pencatatan dan perdagangan pada 8 Oktober 2026. Pengumuman ditandatangani oleh Kadiv Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A dan Kadiv Penilaian Perusahaan 3 Lidia M. Panjaitan."
+  ],
+  "fotoAdegan": "Wide shot of glass office towers in Jakarta's SCBD financial district at midday, pedestrians crossing a busy street below.",
+  "takeaway": "Penilaian kami netral, karena penyusutan 256,2 juta unit ini hanya sekitar 1,1 persen dari total unit yang sebelumnya beredar, masih tergolong kecil untuk dibaca sebagai sinyal arus keluar dana yang mengkhawatirkan dari ETF pasar uang ini. Yang tersentuh adalah jumlah unit penyertaan yang beredar, yaitu satuan kepemilikan investor di reksa dana berbentuk ETF ini, perannya mirip jumlah saham beredar pada perusahaan tercatat biasa. Semakin banyak unit yang ditarik investor lewat penjualan kembali (redemption), semakin kecil dana kelolaan produk ini, meski nilai aktiva bersih per unit belum tentu ikut turun. Yang perlu dipantau berikutnya adalah laporan perubahan unit penyertaan pada periode mendatang, untuk melihat apakah penarikan dana oleh investor ini berlanjut atau berbalik arah setelah pencatatan baru berlaku efektif mulai 8 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "agii-siapkan-dana-rp76-5-miliar-lunasi-obligasi-dan-sukuk",
@@ -1289,6 +1469,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "vktr-catat-rights-issue-15-miliar-saham-harga-rp200",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Catat Rights Issue [15 Miliar Saham] Harga Rp200",
+  "deck": "BEI resmi mencatatkan rights issue VKTR sebanyak 15 miliar saham baru dengan harga pelaksanaan Rp200 per saham, periode pelaksanaan 12-23 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T17:06:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98a9bbedb9_416616aa27.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VKTR",
+  "tags": [
+   "VKTR",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "body": [
+   "Bursa Efek Indonesia resmi mencatatkan pelaksanaan hak memesan efek terlebih dahulu (HMETD) atau rights issue PT VKTR Teknologi Mobilitas Tbk dengan kode VKTR-R. Dalam pengumuman bernomor Peng-P-01018/BEI.PP3/10-2026, BEI mencatatkan penerbitan 15 miliar saham baru hasil pelaksanaan HMETD, dengan nilai nominal Rp10 per saham dan harga pelaksanaan Rp200 per saham. Jika seluruh hak dieksekusi oleh pemegang saham, rights issue ini bisa menyerap dana hingga sekitar Rp3 triliun ke kas VKTR.",
+   "Perdagangan dan pencatatan HMETD dimulai 12 Oktober 2026, bersamaan dengan pra pencatatan saham hasil pelaksanaannya. Periode pelaksanaan HMETD, yaitu waktu bagi pemegang saham untuk menukar haknya menjadi saham baru, berjalan dari 12 sampai 23 Oktober 2026. Perdagangan HMETD di pasar juga berakhir pada 23 Oktober 2026, dan hak yang tidak dieksekusi akan resmi dihapus dari pencatatan (delisting) pada 26 Oktober 2026. Saham hasil rights issue ini tercatat dengan nomor identifikasi efek ID3000070309.",
+   "Harga pelaksanaan Rp200 per saham ini jauh di bawah harga transaksi saham VKTR belakangan. Awal Oktober lalu, salah satu direksi VKTR tercatat membeli saham perusahaan di harga Rp720 per saham senilai sekitar Rp10,8 miliar, atau sekitar 3,6 kali lipat dari harga pelaksanaan rights issue ini."
+  ],
+  "fotoAdegan": "Electric buses lined up at a depot in the early morning, technicians checking charging cables near the vehicles",
+  "takeaway": "Laporan ini netral bagi VKTR karena dua sisi yang bertolak belakang saling mengimbangi: masuknya dana segar hingga sekitar Rp3 triliun jika rights issue terserap penuh, berbanding dengan pembengkakan jumlah saham beredar sebanyak 15 miliar lembar baru. Dua pos yang tersentuh adalah ekuitas, yaitu modal sendiri perusahaan yang bertambah dari setoran pemegang saham yang menukar haknya, dan laba per saham, yaitu bagian keuntungan yang jatuh ke tiap lembar saham, yang berisiko menyusut karena jumlah lembarnya melonjak sementara laba belum tentu naik setara. Harga pelaksanaan Rp200 juga jauh di bawah harga transaksi direksi VKTR di Rp720 awal Oktober lalu, selisih besar yang lazim dipakai pada rights issue untuk menarik minat pemegang saham menukar haknya. Yang perlu dipantau berikutnya adalah tingkat partisipasi pemegang saham sampai batas akhir pelaksanaan HMETD pada 23 Oktober 2026, karena itu menentukan berapa dana yang benar-benar terkumpul, serta pengumuman penggunaan dana hasil rights issue yang biasanya menyusul terpisah dari VKTR.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bmhs-wakil-presiden-komisaris-shubhasish-chattoraj-mundur",
   "category": "Aksi Korporasi",
   "title": "BMHS: Wakil Presiden Komisaris Shubhasish Chattoraj [Mundur]",
@@ -1312,6 +1518,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Entrance driveway of a private hospital with parked ambulances and staff walking past, soft morning light",
   "takeaway": "Laporan ini netral bagi fundamental BMHS karena isinya hanya mencatat pergantian satu personel di jajaran komisaris tanpa menyebut alasan atau indikasi konflik, dan perseroan sendiri menegaskan tidak ada dampak merugikan terhadap operasional atau keuangan. Yang tersentuh bukan pos keuangan seperti ekuitas atau laba per saham, melainkan struktur pengawasan perusahaan, sebab komisaris bertugas mengawasi kinerja direksi dan menjaga kepentingan pemegang saham, sehingga pelaku pasar tetap mencermati siapa yang akan mengisi kursi tersebut selanjutnya. Yang perlu dipantau adalah Rapat Umum Pemegang Saham Luar Biasa yang akan digelar BMHS untuk meminta persetujuan pemegang saham atas pengunduran diri ini sesuai POJK 33/POJK.04/2014, meski perseroan belum mengumumkan tanggal pastinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baja-catatkan-saham-baru-serapan-rights-issue-cuma-18",
+  "category": "Aksi Korporasi",
+  "title": "BAJA catatkan saham baru, [serapan] rights issue cuma 18%",
+  "deck": "IDX mencatat tambahan 111.451 saham BAJA dari pelaksanaan HMETD. Setelah periode rights issue tutup 7 Oktober 2026, baru sekitar 18 persen dari maksimal 900 juta saham yang terserap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T16:57:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/666bed80b4_b9e0eab1af.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "rights issue",
+   "HMETD",
+   "pencatatan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatatkan tambahan 111.451 saham baru PT Saranacentral Bajatama Tbk (BAJA) hasil pelaksanaan hak memesan efek terlebih dahulu (HMETD), melalui pengumuman bernomor Peng-RI-00037/BEI.PP1/10-2026 tertanggal 9 Oktober 2026. Dengan tambahan ini, total saham BAJA yang tercatat di Papan Pencatatan Pengembangan bursa menjadi 1.960.543.723 lembar.",
+   "Surat permohonan pencatatan yang dikirim PT Adimitra Jasa Korpora selaku biro administrasi efek BAJA, ditandatangani Head of Operational Hetda Domineeus pada 8 Oktober 2026, menjelaskan rincian di balik angka tersebut. Penawaran Umum Terbatas (PUT) I BAJA berlangsung pada 1 hingga 7 Oktober 2026, dengan basis 900.000.000 hak HMETD di atas 1.800.000.000 saham lama. Sebelum periode pelaksanaan terakhir ini, pemegang saham sudah menggunakan 160.432.272 hak. Pada pelaksanaan scripless tanggal 7 Oktober 2026, tercatat tambahan 111.451 hak yang dieksekusi, sehingga total hak yang sudah direalisasikan menjadi 160.543.723 saham.",
+   "Dengan demikian, dari total 900.000.000 hak yang ditawarkan dalam rights issue ini, sebanyak 739.456.777 hak atau sekitar 82 persen tidak digunakan pemegang saham sampai periode pelaksanaan ditutup. Dokumen ini tidak menyebutkan harga pelaksanaan, nilai dana yang terkumpul, atau apakah ada pembeli siaga yang menyerap sisa saham yang tidak diambil pemegang hak."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting large coils of galvanized steel sheet inside an industrial factory floor, overhead crane in background.",
+  "takeaway": "Laporan ini netral bagi fundamental BAJA, sebab penambahan 111.451 saham yang dicatat kali ini hanya sekitar 0,006 persen dari total saham beredar dan tidak mengubah apa pun dengan sendirinya. Yang lebih berarti adalah angka kumulatifnya, karena dari maksimal 900 juta saham yang ditawarkan lewat rights issue, yaitu skema di mana pemegang saham lama berhak membeli saham baru lebih dulu, baru sekitar 160,5 juta saham atau 18 persen yang benar-benar dibeli saat periode pelaksanaan ditutup 7 Oktober 2026, sehingga menambah jumlah saham beredar dan berpotensi mengecilkan laba per saham kalau laba perusahaan tidak ikut naik sebanding. Dokumen ini belum menyebutkan apakah ada pembeli siaga yang biasanya menyerap sisa hak yang tidak diambil pemegang saham, jadi belum bisa dipastikan apakah 739,5 juta saham sisanya batal diterbitkan atau justru diserap pihak lain. Yang perlu ditunggu adalah laporan hasil akhir penawaran umum terbatas serta laporan realisasi penggunaan dana hasil rights issue ini, yang akan menunjukkan berapa dana segar yang benar-benar masuk ke BAJA dan untuk keperluan apa dana itu dipakai.",
   "sentimen": "netral"
  },
  {

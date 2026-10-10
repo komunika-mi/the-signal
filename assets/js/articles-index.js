@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kek-kura-kura-bali-diarahkan-jadi-hub-riset-ai-dan-semikonduktor",
+  "category": "Industri",
+  "title": "KEK Kura-Kura Bali Diarahkan Jadi Hub Riset [AI] dan Semikonduktor",
+  "deck": "Pemerintah mendorong KEK Kura-Kura Bali menjadi simpul riset AI, semikonduktor, dan teknologi kuantum lewat skema kerja sama industri Indonesia-Tiongkok Two Countries Twin Parks.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "KEK Kura-Kura Bali",
+   "Investasi Tiongkok",
+   "Semikonduktor",
+   "Two Countries Twin Parks"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7143/dorong-skema-two-countries-twin-parks-pemerintah-jadikan-kek-kura-kura-bali-hub-riset-ai-dan-semikonduktor",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "pemerintah-siapkan-skema-kredit-baru-untuk-petani-dan-perempuan",
   "category": "UMKM",
   "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
@@ -2164,7 +2180,7 @@ var ARTICLES = [
   "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
   "deck": "Furnitur dan kriya kembali jadi sorotan di Trade Expo Indonesia ke-41, didukung ekspor furnitur nasional yang sudah tembus US$1,2 miliar sepanjang 2026.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "tags": [
    "TEI ke-41",
    "furnitur",
@@ -3867,7 +3883,7 @@ var ARTICLES = [
   "title": "Pemerintah Perluas Target Hilirisasi ke [Sawit] dan Perikanan",
   "deck": "Menko Airlangga sebut peta jalan hilirisasi 28 komoditas menyasar investasi US$618,1 miliar dan tambahan ekspor mendekati US$500 miliar.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "hilirisasi",
    "industri manufaktur",
@@ -6462,22 +6478,6 @@ var ARTICLES = [
    "penggunaan dana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cab0f76507_5f72b15cad.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hifi-koreksi-laporan-dana-obligasi-lama-lunas",
-  "category": "Aksi Korporasi",
-  "title": "HIFI Koreksi Laporan Dana, Obligasi Lama [Lunas]",
-  "deck": "HIFI melaporkan koreksi realisasi dana obligasi Rp800 miliar ke OJK. Seluruh dana sudah terpakai untuk melunasi obligasi lama dan modal kerja per 31 Mei 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HIFI",
-   "obligasi korporasi",
-   "penggunaan dana IPO",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da8059738e_1924d45fc3.pdf",
   "sourceLabel": "IDX"
  }
 ];

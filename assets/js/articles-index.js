@@ -21,6 +21,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "smle-rinci-rencana-jual-50-saham-sinarom-ke-denico",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Rinci Rencana [Jual] 50% Saham Sinarom ke Denico",
+  "deck": "Dalam materi public expose 13 Oktober 2026, SMLE menyebut Denico akan membeli 50% saham anak usahanya, Sinar Aroma Sentosa, dari porsi SMLE yang kini 99,96 persen, namun kendali tetap di SMLE.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMLE",
+   "Sinar Aroma Sentosa",
+   "Denico",
+   "akuisisi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e97a8ac016_f620f5f31a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-bantu-perajin-tenun-desa-adat-sade-bangkit",
   "category": "UMKM",
   "title": "Pertamina [Bantu] Perajin Tenun Desa Adat Sade Bangkit",
@@ -6462,22 +6478,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da8059738e_1924d45fc3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-victoria-investama-lepas-140-juta-saham-suara-ke-8-62",
-  "category": "Aksi Korporasi",
-  "title": "BIPP: Victoria Investama [lepas] 140 juta saham, suara ke 8,62%",
-  "deck": "Victoria Investama Tbk menjual 140 juta saham BIPP pada 1 Oktober 2026 seharga Rp60 per saham, memangkas hak suaranya dari 11,40% menjadi 8,62%.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "kepemilikan saham",
-   "Victoria Investama",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-5866-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

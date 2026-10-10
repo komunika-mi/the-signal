@@ -31,6 +31,32 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "smle-rinci-rencana-jual-50-saham-sinarom-ke-denico",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Rinci Rencana [Jual] 50% Saham Sinarom ke Denico",
+  "deck": "Dalam materi public expose 13 Oktober 2026, SMLE menyebut Denico akan membeli 50% saham anak usahanya, Sinar Aroma Sentosa, dari porsi SMLE yang kini 99,96 persen, namun kendali tetap di SMLE.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T19:13:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e97a8ac016_f620f5f31a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMLE",
+  "tags": [
+   "SMLE",
+   "Sinar Aroma Sentosa",
+   "Denico",
+   "akuisisi saham"
+  ],
+  "body": [
+   "Dalam materi public expose insidentil yang digelar Selasa, 13 Oktober 2026, PT Sinergi Multi Lestarindo Tbk (SMLE) memaparkan rencana penjualan 50 persen saham anak usahanya, PT Sinar Aroma Sentosa (Sinarom), kepada mitra lamanya, Denico. Saat ini SMLE menguasai 99,96 persen saham Sinarom. Setelah transaksi, kepemilikan akan terbagi rata, 50 persen untuk SMLE dan 50 persen untuk Denico. Perseroan menegaskan ini bukan pembentukan perusahaan patungan baru, melainkan akuisisi saham yang sudah ada dari pemegang saham saat ini, dan SMLE akan tetap berstatus sebagai pengendali Sinarom meski porsi sahamnya turun separuh.",
+   "Nilai transaksi ini belum ditentukan. SMLE menyebut angkanya baru akan dihitung setelah penilaian oleh pihak ketiga independen, dan keseluruhan rencana masih bergantung pada proses uji tuntas, penyusunan perjanjian definitif, serta persetujuan dari otoritas dan pemegang saham. Susunan direksi dan komisaris Sinarom pasca transaksi juga belum ditetapkan. Perseroan menjelaskan tujuan transaksi ini untuk memperkuat Sinarom lewat gabungan kapabilitas, portofolio produk, jaringan, dan keahlian dua pihak, dengan Denico sudah menjadi mitra SMLE sejak 2017 lewat produk seperti DenBrine, DenTender, dan DenCream, sementara Sinarom sendiri baru didirikan SMLE pada 2024.",
+   "Dari sisi jadwal, perjanjian transaksi ditargetkan ditandatangani pada Oktober 2026, disusul proses persetujuan dari otoritas dan pemegang saham yang waktunya belum ditentukan, sebelum Denico resmi tercatat sebagai pemegang 50 persen saham Sinarom. Setelah transaksi selesai, Perseroan berencana memperkuat produksi dan basis pelanggan di Indonesia sebagai tahap awal, baru kemudian berekspansi ke Asia Tenggara dan memanfaatkan jaringan Denico MENA FZCO di Dubai untuk menjangkau pasar Timur Tengah. Surat penyampaian materi ini ditandatangani oleh Direktur Utama SMLE, Siu Min."
+  ],
+  "fotoAdegan": "Technicians in white coats and hairnets checking stainless steel blending tanks inside a food flavor and seasoning factory, Indonesia.",
+  "takeaway": "Laporan ini condong positif bagi SMLE, sebab menggandeng mitra strategis jangka panjang untuk mengembangkan anak usaha biasanya membawa tambahan modal dan perluasan pasar, sementara Perseroan memastikan kendali atas Sinarom tetap di tangannya walau porsi sahamnya turun dari 99,96 persen menjadi 50 persen. Yang perlu dicermati investor adalah pos ekuitas dan laba SMLE di laporan konsolidasi, karena begitu separuh saham Sinarom resmi berpindah ke Denico, kinerja keuangan anak usaha itu tidak lagi bisa dicatat penuh sebagai milik SMLE, melainkan harus dibagi sesuai porsi kepemilikan baru. Besarnya dampak itu masih sulit diukur karena nilai transaksinya sendiri belum ditentukan dan baru dihitung setelah penilaian pihak independen. Yang perlu dipantau berikutnya adalah penandatanganan perjanjian definitif yang ditargetkan Oktober 2026, serta persetujuan otoritas dan pemegang saham yang jadwalnya masih belum ditentukan sebelum transaksi ini resmi berjalan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pertamina-bantu-perajin-tenun-desa-adat-sade-bangkit",
   "category": "UMKM",
   "title": "Pertamina [Bantu] Perajin Tenun Desa Adat Sade Bangkit",

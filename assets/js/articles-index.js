@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "test-shm-rencanakan-buyback-saham-senilai-rp10-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM Rencanakan [Buyback] Saham Senilai Rp10 Miliar",
+  "deck": "Emiten berkode TEST-SHM berencana membeli kembali sahamnya hingga Rp10 miliar dengan batas harga Rp100 per saham, periode 12 Oktober 2026 sampai 12 Oktober 2027.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEST-SHM",
+   "buyback saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261010_TEST-SHM_E006_c739886e-24f0-4e04-93de-a614cd8d547e-20261010095925.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "waduk-plta-batang-toru-mulai-digenangi-demi-pasokan-nataru",
   "category": "Energi",
   "title": "Waduk PLTA Batang Toru Mulai [Digenangi] demi Pasokan Nataru",
@@ -120,6 +136,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "test-shm-bagi-dividen-rp100-m-siapkan-rights-issue-rp1-t",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM Bagi Dividen Rp100 M, Siapkan [Rights Issue] Rp1 T",
+  "deck": "RUPS TEST-SHM menyetujui dividen tunai Rp100 miliar dan rencana penambahan modal lewat rights issue sampai 2 miliar saham baru plus waran, ditargetkan terlaksana awal 2027.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEST-SHM",
+   "RUPS",
+   "dividen",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261009_TEST-SHM_E013_d13678f3-3772-4c73-9c32-1afaa73a4f14-20261010095837.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "test-shm-rencanakan-hmetd-rp1-triliun-dilusi-maks-20",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM Rencanakan [HMETD] Rp1 Triliun, Dilusi Maks 20%",
+  "deck": "TEST-SHM mengajukan rencana penambahan modal lewat HMETD senilai sekitar Rp1 triliun, dengan dilusi hingga 20 persen bagi pemegang saham yang tidak ikut.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEST-SHM",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261009_TEST-SHM_E0X2_8d389ccb-8082-43bf-a4b1-ed8bcbf76468-20261010095716.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-luncurkan-pemandu-wisata-digital-jelang-gp-mandalika",
   "category": "BUMN",
   "title": "Pertamina Luncurkan [Pemandu] Wisata Digital Jelang GP Mandalika",
@@ -135,6 +183,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472125-bikin-liburan-grand-prix-2026-anti-bosan-pertamina-rilis-panduan-khusus-yang-wajib-dicoba-wisatawan"
+ },
+ {
+  "slug": "test-shm-panggil-rups-25-november-bahas-dividen-dan-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM Panggil RUPS 25 November, Bahas [Dividen] dan Rights Issue",
+  "deck": "TEST-SHM resmi memanggil RUPS Tahunan dan Luar Biasa pada 25 November 2026 untuk memutuskan dividen, rights issue, dan perubahan anggaran dasar.",
+  "date": "9 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEST-SHM",
+   "RUPS",
+   "rights issue",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261009_TEST-SHM_E002_99898e6f-ce64-487d-b4fe-b13c97c0b84b-20261010095603.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "smle-realisasi-dana-ipo-62-gudang-dan-lab-molor",
@@ -6413,70 +6477,6 @@ var ARTICLES = [
    "rights issue"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2df44a4cb5_3497348209.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pidl-rampungkan-dana-obligasi-dan-sukuk-rp943-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PIDL Rampungkan Dana [Obligasi] dan Sukuk Rp943 Miliar",
-  "deck": "Pindo Deli Pulp and Paper Mills (PIDL) melaporkan seluruh dana hasil obligasi dan sukuk mudharabah berkelanjutan II tahap I 2026, totalnya Rp943,42 miliar, sudah habis terpakai tanpa sisa.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIDL",
-   "obligasi korporasi",
-   "sukuk mudharabah",
-   "penggunaan dana IPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c36544d29_73eba136cb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-5-waran-rhb-jatuh-tempo-auto-saja-cuan",
-  "category": "Aksi Korporasi",
-  "title": "DR: 5 Waran RHB [Jatuh Tempo], AUTO Saja Cuan",
-  "deck": "RHB Sekuritas melaksanakan lima waran terstruktur atas AUTO, AVIA, BBTN, ITMG, dan MIKA pada 2 Oktober 2026; hanya pemegang waran AUTO yang berhak atas dana penyelesaian tunai.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas",
-   "AUTO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/92185eaf05_22da745adf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-direksi-tambah-2-24-juta-saham-lewat-mesop",
-  "category": "Aksi Korporasi",
-  "title": "ERAA: Direksi Tambah 2,24 Juta Saham Lewat [MESOP]",
-  "deck": "Direksi Erajaya Swasembada, Budiarto Halim, menambah saham lewat program kompensasi karyawan MESOP, hak suara naik dari 0,05% menjadi 0,07%.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "MESOP",
-   "kepemilikan saham",
-   "Erajaya Swasembada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-4096-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "maxi-anjlok-36-bei-minta-penjelasan-usai-batas-gocap-dihapus",
-  "category": "Aksi Korporasi",
-  "title": "MAXI Anjlok 36%, BEI Minta Penjelasan usai Batas [Gocap] Dihapus",
-  "deck": "Saham MAXI tersungkur dari Rp50 ke Rp32 dan terus merosot hingga Rp26, ARB lima hari beruntun setelah BEI mencabut batas bawah harga saham Rp50.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAXI",
-   "BEI",
-   "auto rejection",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2508bdb24e_7b836d0e17.pdf",
   "sourceLabel": "IDX"
  }
 ];

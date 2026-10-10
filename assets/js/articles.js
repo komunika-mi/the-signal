@@ -3,6 +3,31 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "test-shm-rencanakan-buyback-saham-senilai-rp10-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM Rencanakan [Buyback] Saham Senilai Rp10 Miliar",
+  "deck": "Emiten berkode TEST-SHM berencana membeli kembali sahamnya hingga Rp10 miliar dengan batas harga Rp100 per saham, periode 12 Oktober 2026 sampai 12 Oktober 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 Oktober 2026",
+  "isoDate": "2026-10-10T09:20:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261010_TEST-SHM_E006_c739886e-24f0-4e04-93de-a614cd8d547e-20261010095925.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEST-SHM",
+  "tags": [
+   "TEST-SHM",
+   "buyback saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "body": [
+   "Emiten dengan kode saham TEST-SHM menyampaikan keterbukaan informasi pada 10 Oktober 2026 perihal rencana pembelian kembali saham atau buyback dalam skema kondisi pasar yang berfluktuasi secara signifikan, merujuk Surat Edaran Otoritas Jasa Keuangan nomor SE/XI/PM/2025. Skema ini memungkinkan emiten membeli kembali sahamnya sendiri tanpa menunggu persetujuan rapat umum pemegang saham lebih dulu, karena otoritas sudah menetapkan bahwa kondisi pasar sedang bergejolak.",
+   "Perseroan menyiapkan dana hingga Rp10 miliar untuk pembelian kembali saham ini, bersumber dari kas internal perusahaan, bukan dari pinjaman. Pembelian akan dilakukan melalui mekanisme perdagangan di Bursa Efek Indonesia dengan BNI Sekuritas sebagai anggota bursa yang menjadi perantara, dan harga pembelian dibatasi maksimal Rp100 per saham. Jadwal pelaksanaan buyback ditetapkan selama satu tahun, mulai 12 Oktober 2026 hingga 12 Oktober 2027."
+  ],
+  "fotoAdegan": "Stock brokers at a row of trading desks with blurred monitor glow, dim financial trading room in Jakarta, evening light",
+  "takeaway": "Rencana buyback ini condong positif, sebab emiten memilih memakai kas internal, bukan utang, untuk menopang sahamnya saat pasar sedang bergejolak, yang biasa dibaca pelaku pasar sebagai sinyal kepercayaan diri manajemen. Pos yang tersentuh adalah arus kas, yaitu catatan uang yang keluar masuk perusahaan, karena dana sampai Rp10 miliar akan dipakai untuk membeli saham sendiri, sekaligus jumlah saham beredar, yang kalau berkurang bisa mengerek laba per saham karena laba yang sama nantinya dibagi untuk saham yang lebih sedikit. Yang perlu dipantau berikutnya adalah realisasi pembelian selama periode 12 Oktober 2026 hingga 12 Oktober 2027, serta laporan realisasi penggunaan dana buyback yang wajib disampaikan emiten ke bursa setelah program ini berjalan atau rampung.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "waduk-plta-batang-toru-mulai-digenangi-demi-pasokan-nataru",
   "category": "Energi",
   "title": "Waduk PLTA Batang Toru Mulai [Digenangi] demi Pasokan Nataru",
@@ -187,6 +212,58 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "test-shm-bagi-dividen-rp100-m-siapkan-rights-issue-rp1-t",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM Bagi Dividen Rp100 M, Siapkan [Rights Issue] Rp1 T",
+  "deck": "RUPS TEST-SHM menyetujui dividen tunai Rp100 miliar dan rencana penambahan modal lewat rights issue sampai 2 miliar saham baru plus waran, ditargetkan terlaksana awal 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T22:08:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261009_TEST-SHM_E013_d13678f3-3772-4c73-9c32-1afaa73a4f14-20261010095837.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEST-SHM",
+  "tags": [
+   "TEST-SHM",
+   "RUPS",
+   "dividen",
+   "rights issue"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham Tahunan dan Luar Biasa TEST-SHM yang digelar 25 November 2026 dihadiri pemegang saham yang mewakili 8 miliar saham, atau 80 persen dari total saham dengan hak suara. Dalam agenda tahunan, pemegang saham menyetujui laporan tahunan dan laporan keuangan tahun buku 2025 dengan dukungan 98,75 persen suara, serta memberi kuasa kepada Dewan Komisaris untuk menunjuk akuntan publik atau kantor akuntan publik terdaftar OJK untuk mengaudit laporan keuangan tahun buku 2026, disetujui 98,5 persen suara. Pemegang saham juga menyetujui pembagian dividen tunai sebesar Rp10 per saham atau total Rp100 miliar dari laba bersih 2025, dengan sisa laba dibukukan sebagai laba ditahan. Pembayaran dividen ditetapkan paling lambat 30 hari setelah pengumuman ringkasan risalah ini, dengan jadwal dan tata cara rinci akan diumumkan Direksi.",
+   "Pada agenda RUPS Luar Biasa, pemegang saham menyetujui rencana penambahan modal dengan hak memesan efek terlebih dahulu atau PMHMETD, yaitu penerbitan sebanyak-banyaknya 2 miliar saham baru dengan rasio 5 banding 1, disertai sebanyak-banyaknya 500 juta Waran Seri I. Periode pelaksanaan PMHMETD ditetapkan pada 4 Januari sampai 31 Maret 2027, dengan perkiraan dana yang terkumpul sekitar Rp1 triliun. Keputusan ini disetujui 98 persen suara. Sejalan dengan itu, RUPS juga menyetujui perubahan Pasal 4 Anggaran Dasar mengenai peningkatan modal dasar untuk menampung penerbitan saham baru tersebut, dengan dukungan 97,5 persen suara, dan memberi kuasa kepada Direksi untuk menuangkan perubahan itu dalam akta notaris serta mengurus persetujuan ke instansi berwenang.",
+   "Susunan direksi dan dewan komisaris tidak berubah dari periode sebelumnya. Direksi terdiri atas Direktur Dummy TEST-SHM sebagai Direktur Utama, Direktur Dummy TEST-SHM B sebagai Wakil Direktur Utama, dan Direktur Dummy TEST-SHM C sebagai Direktur, seluruhnya menjabat sejak 28 Juni 2024 hingga 30 Juni 2029 dan bukan direktur independen. Dewan Komisaris terdiri atas Komisaris Dummy TEST-SHM sebagai Komisaris Utama, Komisaris Dummy TEST-SHM B sebagai Komisaris, dan Komisaris Dummy TEST-SHM C sebagai Wakil Komisaris Utama, dengan periode jabatan yang sama dan tanpa status komisaris independen."
+  ],
+  "fotoAdegan": "Modern glass office tower in a Jakarta financial district street, wide angle, soft morning light, no readable signage",
+  "takeaway": "Laporan ini netral bagi TEST-SHM, karena dua keputusan RUPS saling mengimbangi: dividen tunai Rp100 miliar mengalirkan kas ke pemegang saham, sementara rencana penambahan modal sampai 2 miliar saham baru berpotensi menambah jumlah saham beredar sekitar 20 persen dari jumlah saat ini. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru dari rights issue itu terbit, laba perusahaan harus dibagi ke lebih banyak lembar saham sehingga laba per saham bisa menyusut, sementara arus kas keluar untuk dividen akan mengurangi kas internal perusahaan untuk sementara waktu. Yang perlu dipantau adalah pembayaran dividen yang jatuh paling lambat sekitar awal November 2026, serta periode pelaksanaan rights issue pada 4 Januari sampai 31 Maret 2027 yang akan menentukan berapa banyak saham baru benar-benar terbit dan untuk apa dana sekitar Rp1 triliun hasil penawaran itu akhirnya dipakai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "test-shm-rencanakan-hmetd-rp1-triliun-dilusi-maks-20",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM Rencanakan [HMETD] Rp1 Triliun, Dilusi Maks 20%",
+  "deck": "TEST-SHM mengajukan rencana penambahan modal lewat HMETD senilai sekitar Rp1 triliun, dengan dilusi hingga 20 persen bagi pemegang saham yang tidak ikut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T21:53:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261009_TEST-SHM_E0X2_8d389ccb-8082-43bf-a4b1-ed8bcbf76468-20261010095716.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEST-SHM",
+  "tags": [
+   "TEST-SHM",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "body": [
+   "TEST-SHM menyampaikan keterbukaan informasi tambahan terkait rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD). Informasi ini melengkapi pengumuman rencana PMHMETD yang sudah disampaikan pada 19 Oktober 2026, dan diserahkan bersamaan dengan pemanggilan rapat umum pemegang saham pada 3 November 2026. Rapat umum pemegang saham untuk meminta persetujuan rencana ini dijadwalkan pada 25 November 2026.",
+   "Perseroan berencana menerbitkan saham baru sebanyak-banyaknya 2 miliar lembar dengan rasio 5 berbanding 1, artinya setiap pemegang 5 saham lama berhak membeli 1 saham baru. Penerbitan ini disertai maksimal 500 juta Waran Seri I. Dengan harga pelaksanaan indikatif Rp500 per saham, dana yang diperkirakan terkumpul mencapai Rp1 triliun, dan pelaksanaannya diperkirakan berlangsung pada 4 Januari sampai 31 Maret 2027.",
+   "Dari dana tersebut, 50 persen direncanakan untuk ekspansi usaha dan belanja modal, 30 persen untuk pembayaran atau pelunasan utang, dan 20 persen untuk modal kerja. Pemegang saham yang tidak melaksanakan haknya akan terdilusi maksimal 16,67 persen, dan jika seluruh waran dieksekusi, dilusi bisa mencapai 20 persen."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, pedestrians crossing below, soft morning light",
+  "takeaway": "Secara keseluruhan rencana ini condong netral bagi TEST-SHM, karena penambahan modal lewat HMETD memang memperkuat ekuitas dan membantu melunasi utang, tapi di sisi lain menambah jumlah saham beredar sehingga porsi kepemilikan pemegang saham lama otomatis mengecil. Dengan maksimal 2 miliar saham baru pada rasio 5 berbanding 1, jumlah saham beredar berpotensi melonjak signifikan, dan ini bisa membuat laba per saham terdilusi karena laba perusahaan harus dibagi ke lebih banyak lembar saham, kecuali kinerjanya ikut tumbuh. Sebanyak 30 persen dana rencananya dipakai melunasi utang, yang kalau terealisasi akan menurunkan beban bunga ke depan dan memperbaiki struktur modal. Yang perlu dipantau pembaca adalah RUPS pada 25 November 2026 yang akan memutuskan apakah rencana ini disetujui pemegang saham, serta periode pelaksanaan rights issue pada 4 Januari sampai 31 Maret 2027 saat harga final dan mekanisme pembeliannya ditetapkan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-luncurkan-pemandu-wisata-digital-jelang-gp-mandalika",
   "category": "BUMN",
   "title": "Pertamina Luncurkan [Pemandu] Wisata Digital Jelang GP Mandalika",
@@ -212,6 +289,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah Pertamina menyediakan pemandu wisata digital lewat kode QR, agar penonton yang datang ke balapan Mandalika juga diarahkan ke tempat wisata, kuliner, dan stan UMKM di sekitar sirkuit dan Lombok. Yang kena dampak langsung adalah pelaku UMKM mitra binaan Pertamina yang mendapat tempat bazar di area sirkuit, serta wisatawan yang jadi punya panduan selama di Lombok. Berita ini belum menyebut berapa UMKM yang ikut, berapa nilai transaksi yang ditargetkan, atau berapa jumlah penonton yang diperkirakan datang, sehingga belum bisa dibaca seberapa besar dampak ekonominya ke pedagang lokal. Yang perlu dipantau adalah laporan Pertamina atau pemerintah daerah NTB setelah ajang ini selesai pada 11 Oktober, soal angka transaksi UMKM dan jumlah wisatawan yang tercatat, karena itu baru akan menunjukkan apakah kampanye promosi semacam ini benar menggerakkan ekonomi warga sekitar sirkuit.",
   "imageV": "mv156p01"
+ },
+ {
+  "slug": "test-shm-panggil-rups-25-november-bahas-dividen-dan-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM Panggil RUPS 25 November, Bahas [Dividen] dan Rights Issue",
+  "deck": "TEST-SHM resmi memanggil RUPS Tahunan dan Luar Biasa pada 25 November 2026 untuk memutuskan dividen, rights issue, dan perubahan anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 Oktober 2026",
+  "isoDate": "2026-10-09T21:46:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261009_TEST-SHM_E002_99898e6f-ce64-487d-b4fe-b13c97c0b84b-20261010095603.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEST-SHM",
+  "tags": [
+   "TEST-SHM",
+   "RUPS",
+   "rights issue",
+   "dividen"
+  ],
+  "body": [
+   "TEST-SHM mengumumkan pemanggilan Rapat Umum Pemegang Saham Tahunan dan Luar Biasa yang akan digelar pada 25 November 2026 pukul 10.00 WIB di Jakarta Selatan. Pemegang saham yang berhak hadir dan memberi suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 2 November 2026. Rapat akan digelar dengan dukungan sarana e-proxy dan e-voting elektronik, dengan notaris dan biro administrasi efek yang ditunjuk perusahaan sebagai pihak independen yang mencatat jalannya rapat dan hasil pemungutan suara.",
+   "Dalam RUPS Tahunan, ada tiga agenda yang dimintakan persetujuan pemegang saham untuk tahun buku 2025: pengesahan laporan tahunan dan laporan keuangan, persetujuan penggunaan laba bersih dalam bentuk dividen tunai, serta penunjukan akuntan publik untuk mengaudit buku tahun 2026. Sementara dalam RUPS Luar Biasa, agenda yang dibahas adalah persetujuan rencana penambahan modal dengan hak memesan efek terlebih dahulu atau rights issue, serta persetujuan perubahan anggaran dasar perseroan, keduanya untuk tahun buku 2026.",
+   "Agenda RUPS ini meneruskan rangkaian rencana korporasi yang sebelumnya sudah diumumkan TEST-SHM dalam sepekan terakhir, yakni dividen tunai Rp100 miliar, rights issue senilai Rp1 triliun dengan potensi dilusi maksimal 20 persen, dan rencana buyback saham Rp10 miliar. Pemanggilan ini berarti seluruh rencana tersebut akan dimintakan persetujuan resmi pemegang saham pada tanggal yang sama."
+  ],
+  "fotoAdegan": "Rows of empty upholstered chairs facing a podium in a formal corporate meeting hall, Jakarta office tower interior, soft overhead lighting",
+  "takeaway": "Pemanggilan RUPS ini sendiri netral bagi TEST-SHM, sebab isinya hanya menetapkan jadwal dan mekanisme pemungutan suara untuk rencana yang sudah diumumkan lebih dulu, dividen tunai Rp100 miliar, rights issue Rp1 triliun, dan buyback Rp10 miliar, bukan keputusan finansial baru. Yang perlu dicermati pemegang saham adalah tiga pos yang bisa bergerak bersamaan kalau seluruh agenda disetujui: ekuitas bertambah karena dana segar dari rights issue masuk ke kas perusahaan, jumlah saham beredar naik karena penerbitan saham baru, dan laba per saham berpotensi terdilusi karena laba yang sama kini terbagi ke lebih banyak lembar saham. Yang perlu dipantau berikutnya adalah tenggat 2 November 2026 sebagai batas pencatatan pemegang saham yang berhak hadir dan memberi suara, lalu tanggal RUPS sendiri pada 25 November 2026 ketika seluruh agenda ini resmi diputuskan atau ditolak.",
+  "sentimen": "netral"
  },
  {
   "slug": "smle-realisasi-dana-ipo-62-gudang-dan-lab-molor",

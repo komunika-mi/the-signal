@@ -132,7 +132,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah adalah satu pabrik material konstruksi di KEK Kendal resmi beroperasi dengan investasi Rp710 miliar, bukan sekadar seremoni tanda tangan. Yang terdampak langsung adalah pekerja di Jawa Tengah yang terserap dari proyek ini, sampai 400 orang, serta sektor konstruksi domestik yang membutuhkan tiang pancang beton untuk proyek infrastruktur. Investasi ini masuk lewat kerja sama Two Countries Twin Parks, semacam program kawasan industri kembar Indonesia-Tiongkok yang memang dirancang untuk mendatangkan pabrik dan teknologi dari Tiongkok ke dalam negeri. Karena ini baru satu realisasi investasi, belum bisa disimpulkan apakah KEK Kendal akan terus kedatangan pabrik-pabrik Tiongkok lain lewat skema serupa atau ini kasus yang berdiri sendiri. Yang perlu dipantau adalah apakah ada realisasi investasi Tiongkok lain menyusul di kawasan ini dalam beberapa bulan mendatang, serta apakah pabrik ini benar mencapai target produksi 3 juta meter tiang pancang per tahun yang dijanjikan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "sgn-perkuat-kemitraan-dengan-petani-tebu-lewat-cpcl",

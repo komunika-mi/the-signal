@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "hobY8xz0X8A",
+  "title": "Mandalika Street Food Festival Gandeng UMKM Lokal",
+  "category": "UMKM",
+  "program": "AKAP",
+  "summary": "Mandalika Street Food Festival yang digelar berbarengan dengan MotoGP Mandalika 2026 menghadirkan kuliner khas Lombok, Bima, dan Sumbawa. Lebih dari 70 persen UMKM kuliner NTB memanfaatkan ajang ini untuk memperluas pasar.",
+  "takeaway": "Menunjukkan bagaimana perhelatan olahraga berskala besar bisa dimanfaatkan sebagai panggung pemasaran bagi pelaku UMKM kuliner di daerah."
+ },
+ {
   "id": "y1sLK2y64Qs",
   "title": "MotoGP Mandalika Buka Peluang UMKM Lokal",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Kementerian Desa dan Pembangunan Daerah Tertinggal mendorong perusahaan memperkuat program tanggung jawab sosial untuk mendukung kemandirian ekonomi masyarakat.",
   "takeaway": "Topik ini penting bagi pembaca ekonomi karena menyangkut arah kebijakan dan alokasi dana CSR perusahaan bagi pemberdayaan ekonomi daerah tertinggal."
- },
- {
-  "id": "VgnKqHtTDT4",
-  "title": "Ekonomi Hijau Jadi Solusi Tantangan Perubahan Iklim",
-  "category": "Makroekonomi",
-  "program": "Kabar Utama",
-  "summary": "Seminar nasional Green Economy 2045 di Jakarta membahas percepatan transformasi ekonomi hijau di Indonesia untuk menjawab tantangan perubahan iklim.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan transformasi ekonomi nasional menuju keberlanjutan yang berpotensi memengaruhi sektor industri dan investasi."
  }
 ];

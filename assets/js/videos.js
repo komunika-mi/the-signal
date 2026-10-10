@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "hobY8xz0X8A",
+  "title": "Mandalika Street Food Festival Gandeng UMKM Lokal",
+  "category": "UMKM",
+  "program": "AKAP",
+  "summary": "Mandalika Street Food Festival yang digelar berbarengan dengan MotoGP Mandalika 2026 menghadirkan kuliner khas Lombok, Bima, dan Sumbawa. Lebih dari 70 persen UMKM kuliner NTB memanfaatkan ajang ini untuk memperluas pasar.",
+  "takeaway": "Menunjukkan bagaimana perhelatan olahraga berskala besar bisa dimanfaatkan sebagai panggung pemasaran bagi pelaku UMKM kuliner di daerah.",
+  "terbit": "2026-10-10T09:12:12+00:00"
+ },
+ {
   "id": "y1sLK2y64Qs",
   "title": "MotoGP Mandalika Buka Peluang UMKM Lokal",
   "category": "UMKM",

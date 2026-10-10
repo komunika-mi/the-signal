@@ -5,6 +5,68 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pabrik-konstruksi-tiongkok-rp710-m-beroperasi-di-kek-kendal",
+  "category": "Industri",
+  "title": "Pabrik Konstruksi Tiongkok [Rp710 M] Beroperasi di KEK Kendal",
+  "deck": "PT HSG Material Indonesia, bagian grup Fujian Hongsheng dari Tiongkok, mengoperasikan pabrik tiang pancang beton senilai Rp710 miliar di KEK Kendal dan menyerap hingga 400 tenaga kerja.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "KEK Kendal",
+   "investasi Tiongkok",
+   "material konstruksi",
+   "Jawa Tengah"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7141/resmikan-operasionalisasi-pabrik-hsg-material-menko-airlangga-tegaskan-komitmen-pemerintah-tarik-investasi-ke-sektor-manufaktur",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "sgn-perkuat-kemitraan-dengan-petani-tebu-lewat-cpcl",
+  "category": "BUMN",
+  "title": "SGN Perkuat Kemitraan dengan [Petani] Tebu Lewat CPCL",
+  "deck": "PT Sinergi Gula Nusantara menjalankan program Calon Petani dan Calon Lokasi agar bantuan dan pendampingan ke petani tebu lebih tepat sasaran.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/sgn-perkuat-kemitraan-dengan-petani-tebu-lewat-cpcl.jpg",
+  "imageV": "mv1xw7rp",
+  "tags": [
+   "gula",
+   "petani tebu",
+   "BUMN",
+   "swasembada"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472198-program-cpcl-jadi-fokus-kemitraan-pt-sgn-dengan-petani-tebu"
+ },
+ {
+  "slug": "warga-terdampak-rempang-eco-city-mulai-huni-350-rumah-baru",
+  "category": "Bisnis",
+  "title": "Warga Terdampak Rempang Eco-City Mulai Huni [350] Rumah Baru",
+  "deck": "Kementerian Transmigrasi dan BP Batam mulai menyerahkan 350 rumah permanen tipe 45 di Tanjung Banon bagi warga Pulau Rempang yang direlokasi akibat proyek Rempang Eco-City.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/warga-terdampak-rempang-eco-city-mulai-huni-350-rumah-baru.jpg",
+  "imageV": "mv1xw8f3",
+  "tags": [
+   "Rempang Eco-City",
+   "Kementerian Transmigrasi",
+   "BP Batam",
+   "Relokasi Warga"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472195-menengok-hunian-baru-warga-terdampak-rempang-eco-city-di-tanjung-banon"
+ },
+ {
+  "slug": "pertamina-buka-camping-ground-di-mandalika-untuk-motogp",
+  "category": "BUMN",
+  "title": "Pertamina Buka [Camping Ground] di Mandalika untuk MotoGP",
+  "deck": "Pertamina pertama kali membuka camping ground di Sirkuit Mandalika, menampung 150 orang sebagai alternatif menginap bagi komunitas riders selama Pertamina Grand Prix of Indonesia 2026.",
+  "date": "10 Oktober 2026",
+  "image": "assets/img/pertamina-buka-camping-ground-di-mandalika-untuk-motogp.jpg",
+  "imageV": "mv1xw8vs",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472188-pertamina-buka-camping-ground-bisa-jadi-alternatif-tempat-menginap-saat-nonton-pertamina-grand-prix-of-indonesia"
+ },
+ {
   "slug": "test-shm-rencanakan-buyback-saham-senilai-rp10-miliar",
   "category": "Aksi Korporasi",
   "title": "TEST-SHM Rencanakan [Buyback] Saham Senilai Rp10 Miliar",
@@ -983,7 +1045,7 @@ var ARTICLES = [
   "title": "11 Proyek Hilirisasi Nikel Senilai [Rp180] Triliun Diluncurkan di IWIP",
   "deck": "Presiden Prabowo Subianto meluncurkan 11 proyek hilirisasi nikel senilai US$10,2 miliar di IWIP, Maluku Utara, sekaligus melepas ekspor perdana baterai kendaraan listrik.",
   "date": "9 Oktober 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "hilirisasi nikel",
    "IWIP",
@@ -1373,7 +1435,7 @@ var ARTICLES = [
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
   "deck": "Kewajiban sertifikasi halal, termasuk untuk alat kesehatan risiko A, resmi berlaku 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung 11 Oktober.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "Wajib Halal",
    "BPJPH",
@@ -1987,7 +2049,7 @@ var ARTICLES = [
   "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
   "deck": "Furnitur dan kriya kembali jadi sorotan di Trade Expo Indonesia ke-41, didukung ekspor furnitur nasional yang sudah tembus US$1,2 miliar sepanjang 2026.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "TEI ke-41",
    "furnitur",
@@ -3690,7 +3752,7 @@ var ARTICLES = [
   "title": "Pemerintah Perluas Target Hilirisasi ke [Sawit] dan Perikanan",
   "deck": "Menko Airlangga sebut peta jalan hilirisasi 28 komoditas menyasar investasi US$618,1 miliar dan tambahan ekspor mendekati US$500 miliar.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "tags": [
    "hilirisasi",
    "industri manufaktur",
@@ -6413,70 +6475,6 @@ var ARTICLES = [
    "KBLI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/00ddd3517c_0956c4d532.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-buyback-tembus-1-63-saham-per-2-oktober",
-  "category": "Aksi Korporasi",
-  "title": "PRDA [Buyback] Tembus 1,63% Saham per 2 Oktober",
-  "deck": "Prodia Widyahusada melaporkan realisasi buyback saham naik jadi sekitar 1,63 persen saham beredar per 2 Oktober 2026, dengan sisa dana Rp107,53 miliar dari anggaran sekitar Rp150 miliar.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "buyback saham",
-   "Prodia Widyahusada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/caac5f6db1_e62f54c5ee.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asii-bagikan-dividen-interim-rp98-per-saham-cair-30-oktober",
-  "category": "Aksi Korporasi",
-  "title": "ASII bagikan [dividen] interim Rp98 per saham, cair 30 Oktober",
-  "deck": "Astra International (ASII) membagikan dividen interim Rp98 per saham, totalnya sekitar Rp3,9 triliun, dengan recording date 14 Oktober 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASII",
-   "dividen interim",
-   "Astra International",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/281fda42f7_2d5f48f253.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-direksi-tambah-saham-lewat-program-mesop",
-  "category": "Aksi Korporasi",
-  "title": "ERAA: Direksi Tambah Saham Lewat Program [MESOP]",
-  "deck": "Direksi Erajaya Swasembada, Sintawati Halim, menambah kepemilikannya jadi 13,8 juta lembar saham lewat program opsi karyawan MESOP, hak suaranya naik ke 0,09%.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "MESOP",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-4475-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-pangkas-harga-pelaksanaan-waran-enrg-usai-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "ZP Pangkas Harga Pelaksanaan [Waran] ENRG Usai Rights Issue",
-  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi dua waran terstruktur ENRG menyusul rights issue perseroan, efektif 5 Oktober 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "ENRG",
-   "waran terstruktur",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2df44a4cb5_3497348209.pdf",
   "sourceLabel": "IDX"
  }
 ];

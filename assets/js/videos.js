@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "8bz_ccR8eqo",
+  "title": "Potensi Wisata, Kuliner, dan UMKM di Sirkuit Mandalika",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Gelaran MotoGP Mandalika 2026 membuka peluang ekonomi bagi pelaku usaha mikro, kecil, dan menengah lokal lewat sektor wisata dan kuliner di sekitar sirkuit.",
+  "takeaway": "Menggambarkan dampak ekonomi nyata dari event olahraga internasional terhadap pelaku UMKM di daerah.",
+  "terbit": "2026-10-11T05:37:28+00:00"
+ },
+ {
   "id": "b9Yusr7bhYQ",
   "title": "Presiden Trump Longgarkan Sanksi BBM Rusia ke AS",
   "category": "Energi",

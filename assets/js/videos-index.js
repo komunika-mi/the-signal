@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "8bz_ccR8eqo",
+  "title": "Potensi Wisata, Kuliner, dan UMKM di Sirkuit Mandalika",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Gelaran MotoGP Mandalika 2026 membuka peluang ekonomi bagi pelaku usaha mikro, kecil, dan menengah lokal lewat sektor wisata dan kuliner di sekitar sirkuit.",
+  "takeaway": "Menggambarkan dampak ekonomi nyata dari event olahraga internasional terhadap pelaku UMKM di daerah."
+ },
+ {
   "id": "b9Yusr7bhYQ",
   "title": "Presiden Trump Longgarkan Sanksi BBM Rusia ke AS",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "IBF tvOne",
   "summary": "Ratusan hotel dan vila di Bali ditawarkan di situs jual beli seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum menggeliat seperti biasanya.",
   "takeaway": "Tren pelepasan aset hotel ini penting diikuti karena menjadi indikator kondisi sektor pariwisata yang menyumbang besar bagi perekonomian Bali."
- },
- {
-  "id": "ICcDBGOW_ro",
-  "title": "Ratusan Hotel Dijual, Wisata Bali Kehabisan Modal?",
-  "category": "Bisnis",
-  "program": "Indonesia Business Forum",
-  "summary": "Ratusan hotel dan vila di Bali ditawarkan lewat situs jual beli properti, seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum kembali menggeliat.",
-  "takeaway": "Menunjukkan tekanan likuiditas dan modal yang dihadapi pelaku usaha perhotelan di salah satu destinasi wisata andalan Indonesia."
  }
 ];

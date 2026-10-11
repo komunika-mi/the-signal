@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pertamina-libatkan-30-umkm-lombok-di-gp-mandalika-2026",
+  "category": "UMKM",
+  "title": "Pertamina Libatkan 30 [UMKM] Lombok di GP Mandalika 2026",
+  "deck": "30 UMKM binaan Pertamina, mayoritas usaha makanan dan minuman, ikut ajang balap internasional di Sirkuit Mandalika, Lombok, pada 9-11 Oktober 2026.",
+  "image": "assets/img/pertamina-libatkan-30-umkm-lombok-di-gp-mandalika-2026.jpg",
+  "date": "11 Oktober 2026",
+  "isoDate": "2026-10-11T22:36:15+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472457-pertamina-grand-prix-of-indonesia-2026-jadi-peluang-bagi-umkm-lokal-untuk-perluas-pasar-dan-tingkatkan-pendapatan",
+  "tags": [
+   "Pertamina",
+   "UMKM",
+   "Mandalika",
+   "Lombok"
+  ],
+  "body": [
+   "PT Pertamina (Persero) melibatkan 30 Usaha Mikro, Kecil, dan Menengah binaannya dalam gelaran Pertamina Grand Prix of Indonesia 2026 di Sirkuit Mandalika, Lombok, Nusa Tenggara Barat. Selama tiga hari, 9 hingga 11 Oktober 2026, para pelaku usaha ini mendapat ruang pamer di bazar bernama Festival Energizing Indonesia. Bagi UMKM lokal, ini jadi kesempatan menjangkau pengunjung dari luar daerah, termasuk wisatawan yang datang khusus untuk menonton balapan, sehingga berpotensi membuka pasar baru dan menambah pendapatan mereka.",
+   "Dari 30 UMKM yang ikut, 26 di antaranya berjualan makanan dan minuman, sementara sisanya menjual kerajinan tangan dan produk perawatan tubuh. Manager SMEPP Pertamina, Fety, mengatakan keikutsertaan ini sengaja dirancang untuk melibatkan kelompok inklusif, termasuk perempuan dan penyandang disabilitas. \"UMKM-UMKM ini tidak hanya berjuang untuk diri mereka sendiri, tetapi juga memberdayakan rekan-rekan di sekeliling mereka dan saling berkolaborasi,\" kata Fety.",
+   "Salah satu contohnya adalah Loyok Kreatif, usaha anyaman bambu dari Desa Loyok yang dikelola Agus Hartadi dengan melibatkan pekerja perempuan dan penyandang disabilitas. Produk anyaman UMKM ini bahkan dipakai sebagai suvenir resmi ajang balap tersebut. Kolaborasi antar pelaku usaha juga terjadi di sektor jasa, misalnya terapis pijat refleksi lokal yang memakai minyak pijat dan produk perawatan tubuh dari UMKM Bali Ayu Nature.",
+   "Vice President Corporate Communication Pertamina, Muhammad Baron, menyebut ajang ini tidak hanya untuk mempromosikan produk Pertamina, tetapi juga membawa aspek performa, inovasi, dan keberlanjutan. \"Momentum Pertamina Grand Prix of Indonesia ini menjadi sarana untuk memperkuat daya tarik Mandalika sebagai destinasi wisata, yang tidak terjadi saat gelaran berlangsung namun akan terus berlanjut,\" kata Baron, seraya menyebut etalase produk UMKM ini diharapkan turut menggerakkan ekonomi lokal."
+  ],
+  "fotoAdegan": "Vendors arranging woven bamboo baskets and local snacks on market stalls near a race circuit grandstand, tropical morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/11/6acbac6937a33-pertamina-grand-prix-of-indonesia-2026-jadi-peluang-bagi-umkm-lokal-untuk-perluas-pasar-dan-tingkatkan-pendapatan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret di berita ini adalah jumlahnya: 30 UMKM binaan Pertamina ikut berjualan selama tiga hari di Sirkuit Mandalika, dan 26 di antaranya bergerak di usaha makanan dan minuman. Yang kena dampak langsung adalah pelaku usaha kecil di Lombok, termasuk kelompok perempuan dan penyandang disabilitas yang sengaja dilibatkan lewat program pembinaan Pertamina. Tapi berita ini tidak menyebut berapa hasil penjualan yang didapat UMKM selama tiga hari itu, atau apakah jumlah 30 UMKM ini lebih banyak, sama, atau lebih sedikit dibanding gelaran balap sebelumnya di Mandalika. Tanpa angka penjualan atau perbandingan antar edisi acara, belum bisa dipastikan apakah keterlibatan UMKM di ajang besar seperti ini benar menambah pendapatan mereka secara berkelanjutan, atau sekadar jadi etalase saat acara ramai lalu kembali normal setelahnya. Yang perlu dicermati adalah apakah Pertamina atau pemerintah daerah merilis data penjualan maupun jumlah transaksi UMKM setelah acara ini selesai.",
+  "imageV": "mv41vq5a"
+ },
+ {
   "slug": "dooh-beruntung-berkat-tambah-saham-hak-suara-ke-10-07",
   "category": "Aksi Korporasi",
   "title": "DOOH: Beruntung Berkat Tambah Saham, Hak Suara ke [10,07%]",

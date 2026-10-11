@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pertamina-libatkan-30-umkm-lombok-di-gp-mandalika-2026",
+  "category": "UMKM",
+  "title": "Pertamina Libatkan 30 [UMKM] Lombok di GP Mandalika 2026",
+  "deck": "30 UMKM binaan Pertamina, mayoritas usaha makanan dan minuman, ikut ajang balap internasional di Sirkuit Mandalika, Lombok, pada 9-11 Oktober 2026.",
+  "date": "11 Oktober 2026",
+  "image": "assets/img/pertamina-libatkan-30-umkm-lombok-di-gp-mandalika-2026.jpg",
+  "imageV": "mv41vq5a",
+  "tags": [
+   "Pertamina",
+   "UMKM",
+   "Mandalika",
+   "Lombok"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472457-pertamina-grand-prix-of-indonesia-2026-jadi-peluang-bagi-umkm-lokal-untuk-perluas-pasar-dan-tingkatkan-pendapatan"
+ },
+ {
   "slug": "dooh-beruntung-berkat-tambah-saham-hak-suara-ke-10-07",
   "category": "Aksi Korporasi",
   "title": "DOOH: Beruntung Berkat Tambah Saham, Hak Suara ke [10,07%]",
@@ -6457,21 +6474,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/470839-dorong-daya-saing-umkm-pertamina-patra-niaga-buka-akses-pasar-pelaku-usaha-daerah"
- },
- {
-  "slug": "argo-jelaskan-ke-bei-rugi-kurs-melonjak-obligasi-mangkrak",
-  "category": "Aksi Korporasi",
-  "title": "ARGO Jelaskan ke BEI: Rugi Kurs Melonjak, Obligasi [Mangkrak]",
-  "deck": "ARGO menjawab permintaan penjelasan dan rencana site visit BEI atas laporan keuangan semester I 2026, termasuk lonjakan rugi kurs dan nasib obligasi subordinasi ke pihak yang pailit sejak 2006.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARGO",
-   "Argo Pantes",
-   "obligasi subordinasi",
-   "rugi kurs"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/acd22cecaa_59360f9400.pdf",
-  "sourceLabel": "IDX"
  }
 ];

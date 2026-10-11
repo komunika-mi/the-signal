@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "y7pIJslhJjI",
+  "title": "Kerja Sama Perdagangan Indonesia dan Mesir",
+  "category": "Global",
+  "program": "Kabar Hari Ini",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menilai kerja sama perdagangan Indonesia dan Mesir masih berpeluang berkembang, dengan nilai perdagangan kedua negara diproyeksikan menembus US$3 miliar.",
+  "takeaway": "Proyeksi kenaikan nilai dagang hingga US$3 miliar relevan bagi pembaca yang mengikuti perluasan pasar ekspor Indonesia di kawasan Timur Tengah dan Afrika."
+ },
+ {
   "id": "8bz_ccR8eqo",
   "title": "Potensi Wisata, Kuliner, dan UMKM di Sirkuit Mandalika",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Kementerian PPN/Bappenas dan Kadin Indonesia berencana membentuk sekretariat bersama untuk mempercepat komunikasi dan koordinasi percepatan pembangunan nasional.",
   "takeaway": "Kolaborasi pemerintah dan dunia usaha ini layak disimak karena berpotensi memengaruhi kecepatan realisasi proyek pembangunan yang berdampak pada iklim bisnis nasional."
- },
- {
-  "id": "uJ9jbJZ0ax0",
-  "title": "Ratusan Hotel Dijual, Wisata Bali Kehabisan Modal?",
-  "category": "Bisnis",
-  "program": "IBF tvOne",
-  "summary": "Ratusan hotel dan vila di Bali ditawarkan di situs jual beli seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum menggeliat seperti biasanya.",
-  "takeaway": "Tren pelepasan aset hotel ini penting diikuti karena menjadi indikator kondisi sektor pariwisata yang menyumbang besar bagi perekonomian Bali."
  }
 ];

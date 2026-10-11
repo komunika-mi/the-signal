@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "y7pIJslhJjI",
+  "title": "Kerja Sama Perdagangan Indonesia dan Mesir",
+  "category": "Global",
+  "program": "Kabar Hari Ini",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menilai kerja sama perdagangan Indonesia dan Mesir masih berpeluang berkembang, dengan nilai perdagangan kedua negara diproyeksikan menembus US$3 miliar.",
+  "takeaway": "Proyeksi kenaikan nilai dagang hingga US$3 miliar relevan bagi pembaca yang mengikuti perluasan pasar ekspor Indonesia di kawasan Timur Tengah dan Afrika.",
+  "terbit": "2026-10-11T16:11:15+00:00"
+ },
+ {
   "id": "8bz_ccR8eqo",
   "title": "Potensi Wisata, Kuliner, dan UMKM di Sirkuit Mandalika",
   "category": "UMKM",

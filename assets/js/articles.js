@@ -28,7 +28,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari kunjungan ini adalah angka progres: 40 dari 75 rumah adat Sade sudah berdiri kembali dengan atap terpasang, kurang dari tiga minggu setelah status tanggap darurat dicabut pada 20 September 2026. Yang terdampak langsung adalah puluhan kepala keluarga pemilik rumah adat yang terbakar, serta pelaku usaha kecil di Sade yang pendapatannya bergantung pada kunjungan wisatawan ke desa ini. Pola yang terlihat adalah prioritas membangun rumah tinggal dulu, baru menyusul fasilitas umum seperti masjid dan museum, sementara pendanaannya mengandalkan donasi masyarakat lewat rekening penampungan, bukan semata anggaran negara. Siaran ini belum menyebut target tanggal penyelesaian seluruh 75 rumah, jadi yang perlu dipantau adalah apakah sisa 35 rumah bisa selesai sebelum kunjungan wisata ke Sade kembali ramai.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "kek-kura-kura-bali-diarahkan-jadi-hub-riset-ai-dan-semikonduktor",

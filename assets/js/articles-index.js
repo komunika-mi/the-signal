@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dooh-pt-beruntung-berkat-beli-545-juta-saham-hak-suara-ke-7-04",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: PT Beruntung Berkat Beli [545 Juta] Saham, Hak Suara ke 7,04%",
+  "deck": "PT Beruntung Berkat Sejahtera membeli 545 juta saham DOOH senilai sekitar Rp179,85 miliar, mengangkat hak suaranya dari 3,02% menjadi 7,04%.",
+  "date": "11 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11102026-5698-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemulihan-desa-adat-sade-40-dari-75-rumah-adat-berdiri",
   "category": "UMKM",
   "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",
@@ -6456,22 +6472,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e2ec27e839_7d960352e8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tguk-visionary-capital-kuasai-56-84-suara-via-pembelian-saham",
-  "category": "Aksi Korporasi",
-  "title": "TGUK: Visionary Capital [Kuasai] 56,84% Suara via Pembelian Saham",
-  "deck": "Visionary Capital Global Pte. Ltd., investor asal luar negeri, membeli 2,03 miliar saham TGUK seharga Rp20 per lembar dan kini menguasai 56,84% hak suara.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGUK",
-   "Visionary Capital Global",
-   "pengendali saham",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02102026-3251-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

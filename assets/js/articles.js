@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dooh-pt-beruntung-berkat-beli-545-juta-saham-hak-suara-ke-7-04",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: PT Beruntung Berkat Beli [545 Juta] Saham, Hak Suara ke 7,04%",
+  "deck": "PT Beruntung Berkat Sejahtera membeli 545 juta saham DOOH senilai sekitar Rp179,85 miliar, mengangkat hak suaranya dari 3,02% menjadi 7,04%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 Oktober 2026",
+  "isoDate": "2026-10-11T18:32:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11102026-5698-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Beruntung Berkat Sejahtera, pemegang saham DOOH (PT Era Media Sejahtera Tbk) yang bukan anggota direksi atau dewan komisaris, melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya membeli 545.000.000 saham biasa DOOH secara tidak langsung. Transaksi tercatat pada 9 Oktober 2026 dengan harga Rp330 per saham, untuk tujuan investasi, dan dilaporkan memakai mekanisme perjanjian pembelian kembali atau repurchase agreement. Laporan ini disampaikan sesuai Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka.",
+   "Dengan pembelian tersebut, jumlah saham yang dipegang PT Beruntung Berkat Sejahtera naik dari 234.090.000 lembar menjadi 779.090.000 lembar, atau bertambah 545.000.000 lembar. Hak suaranya di DOOH ikut terkerek dari 3,02% menjadi 7,04%. Dari jumlah dan harga yang tercantum dalam laporan, total nilai transaksi ini sekitar Rp179,85 miliar.",
+   "Laporan ini terbit dua hari setelah The Signal memberitakan pelepasan 234 juta saham DOOH oleh pemegang saham lain, Prambanan Investasi Sukses, pada 9 Oktober 2026. Dokumen yang diterima bursa tidak menyebutkan apakah dua transaksi tersebut saling berkaitan."
+  ],
+  "fotoAdegan": "Technicians installing a large digital billboard panel on a building facade along a busy city street at dusk.",
+  "takeaway": "Laporan ini condong positif bagi DOOH, sebab pembelian senilai sekitar Rp179,85 miliar yang hampir melipatgandakan hak suara dari 3,02% menjadi 7,04% ini terlalu besar untuk dianggap recehan dan biasanya dibaca pasar sebagai sinyal keyakinan pihak luar pada emiten. Transaksi ini tidak menambah jumlah saham yang diterbitkan perusahaan atau mengubah laba per saham, karena sahamnya cuma berpindah tangan antar pemegang saham yang sudah ada; yang berubah adalah peta kekuatan suara, sehingga PT Beruntung Berkat Sejahtera kini punya bobot lebih besar saat pemegang saham mengambil keputusan lewat RUPS. Perlu dicatat juga transaksi ini tercatat memakai mekanisme perjanjian pembelian kembali atau repurchase agreement, yakni pembelian yang dibiayai lewat skema jual beli bersyarat, sehingga kepemilikan ini bisa jadi tidak permanen sampai perjanjian itu jatuh tempo. Yang perlu dipantau selanjutnya adalah apakah PT Beruntung Berkat Sejahtera terus menambah porsinya, karena setiap perubahan susulan wajib dilaporkan lagi ke OJK sesuai POJK 4/2024, serta apakah pembelian ini berkaitan dengan pelepasan 234 juta saham DOOH oleh Prambanan Investasi Sukses yang dilaporkan dua hari sebelumnya.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pemulihan-desa-adat-sade-40-dari-75-rumah-adat-berdiri",
   "category": "UMKM",
   "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",

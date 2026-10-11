@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dooh-beruntung-berkat-tambah-saham-hak-suara-ke-10-07",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Beruntung Berkat Tambah Saham, Hak Suara ke [10,07%]",
+  "deck": "PT Beruntung Berkat Sejahtera membeli 545 juta saham DOOH seharga Rp330 per lembar lewat repo, menaikkan hak suaranya dari 3,02% menjadi 10,07%.",
+  "date": "11 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "kepemilikan saham",
+   "repo saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11102026-0047-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-prambanan-divestasi-545-juta-saham-suara-ke-5-02",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Prambanan [Divestasi] 545 Juta Saham, Suara ke 5,02%",
+  "deck": "Prambanan Investasi Sukses melepas 545 juta saham DOOH senilai Rp179,85 miliar pada 9 Oktober 2026, memangkas hak suaranya dari 12,06% menjadi 5,02%.",
+  "date": "11 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "Prambanan Investasi Sukses",
+   "divestasi saham",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11102026-5600-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dooh-pt-beruntung-berkat-beli-545-juta-saham-hak-suara-ke-7-04",
   "category": "Aksi Korporasi",
   "title": "DOOH: PT Beruntung Berkat Beli [545 Juta] Saham, Hak Suara ke 7,04%",
@@ -6440,38 +6472,6 @@ var ARTICLES = [
    "rugi kurs"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/acd22cecaa_59360f9400.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-terbitkan-1-02-triliun-saham-baru-headwell-kuasai-65",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Terbitkan 1,02 Triliun Saham Baru, Headwell [Kuasai] 65%",
-  "deck": "PT Remitra Global International (d.h. MKNT) menuntaskan rights issue tanpa hak memesan efek terlebih dahulu senilai Rp1 per saham, membuat Headwell Bintang Energi Hijau jadi pengendali baru dengan 64,9 persen saham.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "PMTHMETD",
-   "Dilusi Saham",
-   "Remitra Global International"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb5f517c20_1e3ed687d0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asmi-pastikan-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "ASMI Pastikan Tak Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "Menjawab surat BEI soal volatilitas transaksi, manajemen ASMI menyatakan tidak ada informasi material maupun rencana aksi korporasi yang belum diungkap.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASMI",
-   "volatilitas saham",
-   "BEI",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e2ec27e839_7d960352e8.pdf",
   "sourceLabel": "IDX"
  }
 ];

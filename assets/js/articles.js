@@ -3,6 +3,57 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dooh-beruntung-berkat-tambah-saham-hak-suara-ke-10-07",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Beruntung Berkat Tambah Saham, Hak Suara ke [10,07%]",
+  "deck": "PT Beruntung Berkat Sejahtera membeli 545 juta saham DOOH seharga Rp330 per lembar lewat repo, menaikkan hak suaranya dari 3,02% menjadi 10,07%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 Oktober 2026",
+  "isoDate": "2026-10-11T19:48:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11102026-0047-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "kepemilikan saham",
+   "repo saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Beruntung Berkat Sejahtera melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya membeli tambahan 545.000.000 saham PT Era Media Sejahtera Tbk (DOOH) pada 9 Oktober 2026. Pembelian dilakukan secara tidak langsung melalui mekanisme repurchase agreement atau repo, dengan harga Rp330 per saham untuk tujuan investasi. Pelapor bukan direksi maupun komisaris DOOH.",
+   "Dengan transaksi senilai sekitar Rp179,85 miliar itu, jumlah saham yang dipegang PT Beruntung Berkat Sejahtera di DOOH naik dari 234.090.000 lembar menjadi 779.090.000 lembar, atau bertambah lebih dari dua kali lipat dari kepemilikan sebelumnya. Akibatnya, hak suara pelapor di DOOH melonjak dari 3,02 persen menjadi 10,07 persen. Laporan ini disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, dan tidak menyebut adanya opsi saham atau batas waktu pelaksanaan lain karena transaksinya berupa pembelian langsung atas saham biasa."
+  ],
+  "fotoAdegan": "Digital billboard screens glowing above a busy city street at dusk, motion blur from passing cars, screens out of focus",
+  "takeaway": "Laporan ini condong positif bagi DOOH karena pembelian tambahan oleh PT Beruntung Berkat Sejahtera jauh lebih besar daripada kepemilikan lamanya, lebih dari dua kali lipat, sehingga wajar dibaca sebagai sinyal kepercayaan, bukan remah transaksi. Yang tersentuh di sini bukan laporan keuangan DOOH, sebab saham ini berpindah tangan di pasar sekunder lewat mekanisme repo dan tidak menambah kas atau mengubah jumlah saham beredar perusahaan, melainkan struktur kendali: hak suara pelapor melonjak dari 3,02 persen menjadi 10,07 persen, yang berarti satu pihak kini punya bobot suara jauh lebih besar dalam keputusan pemegang saham DOOH. Yang perlu dicermati, laporan ini adalah laporan kedua yang masuk pada hari yang sama untuk transaksi pembelian 545 juta lembar saham yang sama pada 9 Oktober 2026, namun laporan sebelumnya mencatat hak suara akhir 7,04 persen sementara laporan ini mencatat 10,07 persen, sehingga publik perlu menunggu kejelasan dari DOOH atau koreksi resmi sebelum memastikan berapa sebenarnya kendali PT Beruntung Berkat Sejahtera di perusahaan ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "dooh-prambanan-divestasi-545-juta-saham-suara-ke-5-02",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Prambanan [Divestasi] 545 Juta Saham, Suara ke 5,02%",
+  "deck": "Prambanan Investasi Sukses melepas 545 juta saham DOOH senilai Rp179,85 miliar pada 9 Oktober 2026, memangkas hak suaranya dari 12,06% menjadi 5,02%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 Oktober 2026",
+  "isoDate": "2026-10-11T18:41:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11102026-5600-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "Prambanan Investasi Sukses",
+   "divestasi saham",
+   "hak suara"
+  ],
+  "body": [
+   "Prambanan Investasi Sukses, pemegang saham non direksi dan non komisaris PT Era Media Sejahtera Tbk (DOOH), melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menjual secara tidak langsung 545.000.000 saham DOOH pada 9 Oktober 2026. Transaksi dilakukan dengan harga Rp330 per saham, sehingga nilai totalnya sekitar Rp179,85 miliar. Dalam formulir laporan, tujuan transaksi tertulis sebagai divestasi.",
+   "Sebelum penjualan ini, Prambanan menggenggam 933.417.412 saham DOOH, setara 12,06% hak suara di perusahaan. Setelah transaksi, sisa kepemilikannya menjadi 388.417.412 saham atau 5,02% hak suara, turun 7,04 poin persentase. Saham yang dilepas setara 58,39% dari seluruh kepemilikan Prambanan sebelum transaksi, jadi ini bukan pelepasan sebagian kecil melainkan pengurangan lebih dari separuh posisinya di DOOH.",
+   "Laporan ini menyusul laporan serupa dari Prambanan Investasi Sukses dua hari sebelumnya yang melepas 234 juta saham DOOH. Jika dihitung bersama, dalam rentang beberapa hari terakhir Prambanan telah melaporkan pelepasan sekitar 779 juta saham DOOH, menandakan pengurangan posisi yang berkelanjutan dari pemegang saham ini."
+  ],
+  "fotoAdegan": "Tall blank billboard structure beside a busy Jakarta highway, motorbikes and cars passing underneath, overcast afternoon sky",
+  "takeaway": "Laporan ini condong negatif bagi DOOH, karena hak suara Prambanan Investasi Sukses longsor dari 12,06% menjadi 5,02% dalam satu transaksi senilai Rp179,85 miliar, dan ini sudah laporan divestasi kedua dari pihak yang sama dalam waktu berdekatan. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, bukan kas atau laba DOOH secara langsung, tetapi pelepasan besar oleh pemegang saham non pengendali seperti ini lazim dibaca pasar sebagai tanda berkurangnya keyakinan salah satu pemodal besar terhadap prospek perusahaan ke depan. Yang perlu dipantau selanjutnya adalah apakah Prambanan akan terus mengurangi porsinya hingga di bawah 5%, ambang batas yang membebaskannya dari kewajiban lapor kepemilikan ke OJK, serta apakah DOOH akan menerbitkan keterangan tambahan soal siapa pembeli di balik transaksi 9 Oktober 2026 ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "dooh-pt-beruntung-berkat-beli-545-juta-saham-hak-suara-ke-7-04",
   "category": "Aksi Korporasi",
   "title": "DOOH: PT Beruntung Berkat Beli [545 Juta] Saham, Hak Suara ke 7,04%",

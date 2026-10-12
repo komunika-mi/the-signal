@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "investasi-hilirisasi-ri-capai-rp300-1-triliun-di-semester-i",
+  "category": "Makroekonomi",
+  "title": "Investasi Hilirisasi RI Capai [Rp300,1] Triliun di Semester I",
+  "deck": "Pemerintah memaparkan capaian investasi hilirisasi dan penyelesaian aduan pelaku usaha dalam pembukaan Rakernas HIPPI, sembari mendorong perluasan akses ekspor lewat kerja sama dagang dengan Uni Eropa, Kanada, dan AS.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "hilirisasi",
+   "investasi",
+   "HIPPI",
+   "ekspor"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7146/wamenko-dradjad-dorong-penguatan-pengusaha-nasional-dan-perluasan-akses-pasar",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "bpjs-gandeng-bsi-perluas-akses-bayar-iuran-jkn",
+  "category": "Perbankan",
+  "title": "BPJS Gandeng BSI, [Perluas] Akses Bayar Iuran JKN",
+  "deck": "BPJS Kesehatan dan BSI memperluas kanal pembayaran iuran JKN lewat autodebit, PPOB, dan aplikasi BYOND, sekaligus memperkuat pengelolaan kas dan layanan syariah bagi pegawai BPJS.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/bpjs-gandeng-bsi-perluas-akses-bayar-iuran-jkn.jpg",
+  "imageV": "mv58s77y",
+  "tags": [
+   "BPJS Kesehatan",
+   "BSI",
+   "JKN",
+   "Perbankan Syariah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472574-gandeng-bsi-akses-pembayaran-iuran-jkn-jadi-lebih-luas"
+ },
+ {
   "slug": "ppre-realisasi-capex-obligasi-baru-39-sisa-dana-rp61-3-m",
   "category": "Aksi Korporasi",
   "title": "PPRE: Realisasi [CAPEX] Obligasi Baru 39%, Sisa Dana Rp61,3 M",
@@ -2077,7 +2110,7 @@ var ARTICLES = [
   "title": "Airlangga: Talenta [Digital] Kunci Ekonomi RI ke Depan",
   "deck": "Menko Airlangga menyebut penguasaan teknologi digital dan hilirisasi industri jadi mesin pertumbuhan baru, di tengah ekonomi RI yang tumbuh 5,45 persen pada semester I 2026.",
   "date": "9 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "Airlangga Hartarto",
    "hilirisasi",
@@ -2648,7 +2681,7 @@ var ARTICLES = [
   "title": "Pemerintah Tetapkan Target Pertumbuhan [6%] untuk 2027",
   "deck": "Pemerintah menyasar pertumbuhan ekonomi 6 persen pada 2027, dengan syarat investasi tumbuh lebih cepat dari ekonomi, sebagai tahapan menuju target 8 persen jangka menengah.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "pertumbuhan ekonomi",
    "investasi",
@@ -4335,7 +4368,7 @@ var ARTICLES = [
   "title": "Pemerintah Kaji Ulang [Insentif Pajak] Investasi Usai Pajak Global",
   "deck": "Pemerintah mengkaji ulang insentif pajak investasi, termasuk tax holiday, setelah pajak minimum global 15 persen berlaku, di tengah investasi semester I 2026 yang capai Rp1.010 triliun.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "hilirisasi",
    "investasi",
@@ -4784,7 +4817,7 @@ var ARTICLES = [
   "title": "Airlangga Pacu Investasi AS, Target Tumbuh [8]% di 2027",
   "deck": "Dalam forum investasi AS-Indonesia, Menko Airlangga memaparkan data dagang dan investasi dua negara serta target pertumbuhan ekonomi 8 persen pada 2027 lewat sektor teknologi tinggi.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "Investasi AS",
    "Pertumbuhan Ekonomi",
@@ -5157,7 +5190,7 @@ var ARTICLES = [
   "title": "Surplus Dagang Agustus Melonjak, [Impor] Modal Anjlok 16%",
   "deck": "Neraca dagang Indonesia Agustus 2026 surplus USD3,55 miliar, melonjak dari USD0,12 miliar di Juli, didorong surplus nonmigas, sementara impor barang modal dan bahan baku justru turun tajam.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -6433,38 +6466,6 @@ var ARTICLES = [
    "pelunasan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/705f9371f5_460bd43291.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppri-koreksi-laporan-realisasi-dana-ipo-sisa-rp8-5-m-di-deposito",
-  "category": "Aksi Korporasi",
-  "title": "PPRI Koreksi Laporan Realisasi Dana IPO, Sisa Rp8,5 M di [Deposito]",
-  "deck": "Paperocks Indonesia mengoreksi laporan realisasi dana IPO per 30 Juni 2026: 75,56 persen sudah dipakai untuk modal kerja, sisa Rp8,5 miliar disimpan di deposito Bank Maybank.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRI",
-   "penggunaan dana IPO",
-   "laporan keuangan",
-   "modal kerja"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcfd9991fc_1defe0aa8e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtel-ganti-anggota-komite-nominasi-dan-remunerasi",
-  "category": "Aksi Korporasi",
-  "title": "MTEL Ganti Anggota [Komite Nominasi] dan Remunerasi",
-  "deck": "Imam Suhadi, pihak dari luar perusahaan, masuk menggantikan Yudith Dwi Anggraeni di Komite Nominasi dan Remunerasi Mitratel, berlaku 30 September 2026 hingga 29 September 2029.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTEL",
-   "Mitratel",
-   "komite nominasi dan remunerasi",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/809b0e2684_33cd3ea4b0.pdf",
   "sourceLabel": "IDX"
  }
 ];

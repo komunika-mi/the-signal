@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "telkom-akselerasi-perampingan-50-anak-usaha",
+  "category": "BUMN",
+  "title": "Telkom Akselerasi [Perampingan] 50 Anak Usaha",
+  "deck": "Telkom mempercepat penataan 50 anak usaha, 24 entitas sudah selesai dan 26 lainnya ditargetkan tuntas tahun ini demi portofolio yang lebih fokus pada bisnis inti.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/telkom-akselerasi-perampingan-50-anak-usaha.jpg",
+  "imageV": "mv5ji9ia",
+  "tags": [
+   "Telkom",
+   "TelkomGroup",
+   "BUMN",
+   "Streamlining"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472616-telkom-akselerasi-program-streamlining-pastikan-portofolio-telkomgroup-fokus-pada-bisnis-inti"
+ },
+ {
   "slug": "ijee-bayar-kupon-obligasi-dan-sukuk-rp52-99-miliar-tepat-waktu",
   "category": "Aksi Korporasi",
   "title": "IJEE Bayar Kupon [Obligasi] dan Sukuk Rp52,99 Miliar Tepat Waktu",
@@ -19,6 +36,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fec6ed3b81_a29994af0e.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnm-dampingi-umkm-ubah-eceng-gondok-jadi-kerajinan",
+  "category": "UMKM",
+  "title": "PNM Dampingi UMKM Ubah Eceng Gondok Jadi [Kerajinan]",
+  "deck": "Nasabah PNM Mekaar di Bekasi mengubah eceng gondok yang tumbuh liar di sungai menjadi kerajinan anyaman yang kini dipasarkan hingga Yogyakarta dan Bali.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/pnm-dampingi-umkm-ubah-eceng-gondok-jadi-kerajinan.jpg",
+  "imageV": "mv5ji9ye",
+  "tags": [
+   "pnm",
+   "pnm mekaar",
+   "umkm",
+   "eceng gondok"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472604-dari-sungai-ke-pasar-pnm-dampingi-maryati-ubah-eceng-gondok-jadi-kerajinan-bernilai"
  },
  {
   "slug": "flmc-tambah-kbli-perusahaan-induk-untuk-anak-usaha-distribusi",
@@ -6435,38 +6469,6 @@ var ARTICLES = [
    "dividen interim"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b22cf7ebfa_09f038faac.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "flmc-ekuitas-negatif-rugi-semester-i-melonjak-ke-rp23-3-m",
-  "category": "Aksi Korporasi",
-  "title": "FLMC Ekuitas Negatif, Rugi Semester I [Melonjak] ke Rp23,3 M",
-  "deck": "Aset FLMC turun 32,6 persen dan ekuitas berbalik negatif Rp2,59 miliar setelah rugi bersih semester I 2026 melonjak jadi Rp23,27 miliar dari Rp2,99 miliar tahun lalu.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FLMC",
-   "ekuitas negatif",
-   "rugi bersih",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261005162301-64488-0/FinancialStatement-2026-II-FLMC.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smmt-gelar-public-expose-insidentil-20-oktober",
-  "category": "Aksi Korporasi",
-  "title": "SMMT Gelar [Public Expose] Insidentil 20 Oktober",
-  "deck": "Golden Eagle Energy (SMMT) akan menggelar public expose insidentil secara daring pada 20 Oktober 2026, salah satu agendanya membahas pergerakan harga sahamnya sendiri.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMT",
-   "Golden Eagle Energy",
-   "Public Expose",
-   "Pasar Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26bed50dc1_3139db8103.pdf",
   "sourceLabel": "IDX"
  }
 ];

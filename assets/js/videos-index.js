@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "pQ-8TkROZNQ",
+  "title": "Menko AHY Hadiri Digital Infrastructure Summit",
+  "category": "Teknologi",
+  "program": "Kabar Hari Ini",
+  "summary": "Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono menghadiri Digital Infrastructure Summit dan menyoroti kebutuhan infrastruktur untuk mendukung ekonomi digital Indonesia.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan infrastruktur yang menopang pertumbuhan ekonomi digital nasional."
+ },
+ {
   "id": "IqsYnyl-2Rg",
   "title": "Kadin Bahas Kerja Sama Investasi dengan Finlandia",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "Pemerintah mendorong pengembangan ekowisata sebagai kegiatan ekonomi yang tetap menjaga kelestarian alam, dengan melibatkan dunia usaha dan masyarakat setempat.",
   "takeaway": "Arah kebijakan ini relevan bagi pelaku usaha yang ingin memadukan nilai ekonomi dengan keberlanjutan lingkungan."
- },
- {
-  "id": "h8l7bh_HC1w",
-  "title": "Apindo Dukung RUU Ketenagakerjaan Baru",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Pagi",
-  "summary": "Apindo mendukung pembahasan RUU Ketenagakerjaan dengan prinsip flexicurity, yang menyeimbangkan fleksibilitas dunia usaha dengan perlindungan bagi pekerja.",
-  "takeaway": "Pembahasan regulasi ini berdampak langsung pada iklim ketenagakerjaan dan kepastian berusaha di sektor industri."
  }
 ];

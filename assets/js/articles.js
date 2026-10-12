@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "telkom-akselerasi-perampingan-50-anak-usaha",
+  "category": "BUMN",
+  "title": "Telkom Akselerasi [Perampingan] 50 Anak Usaha",
+  "deck": "Telkom mempercepat penataan 50 anak usaha, 24 entitas sudah selesai dan 26 lainnya ditargetkan tuntas tahun ini demi portofolio yang lebih fokus pada bisnis inti.",
+  "image": "assets/img/telkom-akselerasi-perampingan-50-anak-usaha.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T23:42:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472616-telkom-akselerasi-program-streamlining-pastikan-portofolio-telkomgroup-fokus-pada-bisnis-inti",
+  "tags": [
+   "Telkom",
+   "TelkomGroup",
+   "BUMN",
+   "Streamlining"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk mempercepat program penyederhanaan anak-anak usahanya agar portofolio bisnis TelkomGroup lebih terfokus pada bisnis utama. Langkah ini relevan bagi pemegang saham karena Telkom dikenal sebagai salah satu BUMN dengan jumlah anak usaha terbanyak, yang selama ini membuat pengelolaan lintas lini bisnis menjadi rumit dan saling tumpang tindih. Percepatan ini sejalan dengan arahan penataan portofolio BUMN yang didorong oleh Danantara Asset Management dan Badan Pengaturan BUMN, sekaligus menjadi bagian dari transisi Telkom dari perusahaan induk operasional menjadi perusahaan induk strategis.",
+   "Secara total, Telkom menargetkan penataan terhadap 50 entitas di lingkungan TelkomGroup. Hingga semester pertama 2026, perusahaan telah menuntaskan proses streamlining untuk 24 entitas, sementara 26 entitas lainnya masih dalam proses dan diupayakan selesai semaksimal mungkin pada tahun ini. Setiap entitas dievaluasi apakah masih relevan dengan bisnis inti, memberi kontribusi nilai bagi grup, dan memiliki prospek usaha yang jelas.",
+   "Telkom juga menyusun ulang struktur bisnisnya menjadi empat segmen utama, yaitu B2C, B2B Infrastructure, B2B ICT, dan International, dengan model holding company-operating company yang membuat setiap unit usaha lebih ramping dan fokus. Restrukturisasi ini diharapkan membuka peluang kemitraan strategis dan mendorong penciptaan nilai yang lebih tinggi, sekaligus mendukung target Telkom mencapai valuasi lebih dari Rp550 triliun pada 2030.",
+   "Direktur Utama Telkom Nanang Hendarno mengatakan arahan pemegang saham dimaknai sebagai mandat untuk bergerak lebih cepat tanpa mengorbankan kehati-hatian. Ia menyebut setiap entitas dievaluasi secara menyeluruh untuk memastikan relevansinya dengan bisnis inti, dan percepatan ini bertujuan membuat portofolio TelkomGroup lebih sehat serta setiap unit usaha dapat bergerak lebih lincah."
+  ],
+  "fotoAdegan": "Technicians checking fiber optic cable racks inside a telecom data center hall, rows of blinking indicator lights",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/12/6acd09a8b0664-direktur-utama-telkom-nanang-hendarno-ketiga-dari-kiri-bersama-jajaran-direksi-telkom-usai-rangkaian-agenda-rapat-umum-pemegang-saham-luar-biasa-rupslb-telkom-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah jumlah anak usaha Telkom yang dirampingkan, dari target 50 entitas, 24 sudah selesai ditata dan 26 sisanya ditargetkan tuntas pada tahun ini. Yang kena dampak langsung adalah anak-anak usaha TelkomGroup itu sendiri, baik yang digabung, dilepas, maupun dibubarkan, serta pemegang saham Telkom yang berharap struktur lebih ramping ini mendongkrak nilai perusahaan menuju target lebih dari Rp550 triliun pada 2030. Arahnya terlihat menuju konsolidasi bertahap, dari induk yang ikut mengoperasikan banyak lini bisnis menjadi induk yang hanya menentukan strategi besar, sementara empat kelompok usaha, yakni B2C, B2B Infrastruktur, B2B Teknologi Informasi, dan bisnis internasional, berjalan lebih mandiri. Yang akan memastikan arah ini berlanjut sesuai rencana adalah apakah 26 entitas sisa benar-benar tuntas ditata sebelum akhir 2026 seperti yang ditargetkan.",
+  "imageV": "mv5ji9ia"
+ },
+ {
   "slug": "ijee-bayar-kupon-obligasi-dan-sukuk-rp52-99-miliar-tepat-waktu",
   "category": "Aksi Korporasi",
   "title": "IJEE Bayar Kupon [Obligasi] dan Sukuk Rp52,99 Miliar Tepat Waktu",
@@ -27,6 +54,33 @@ var ARTICLES = [
   "fotoAdegan": "Fiber optic technicians installing cable lines on a utility pole along a busy Indonesian city street, midday light",
   "takeaway": "Laporan ini netral bagi IJEE: pembayaran kupon dan imbalan Rp52,99 miliar ini sesuai jadwal rutin, bukan tanda perbaikan maupun pemburukan kondisi keuangan, tapi tetap berarti karena menunjukkan perusahaan masih mampu memenuhi kewajiban utangnya tepat waktu di tengah sorotan soal pengelolaan kas dari laporan sebelumnya. Pos yang tersentuh adalah beban bunga dan arus kas perusahaan, karena pembayaran rutin seperti ini mengurangi kas yang tersedia namun juga menjaga rekam jejak kredit IJEE tetap bersih di mata pemegang obligasi dan sukuk ijarah. Yang perlu dipantau berikutnya adalah jadwal pembayaran kupon ketiga serta kelanjutan realisasi dana hasil penawaran umum yang menurut laporan sebelumnya masih menyisakan Rp742 miliar di rekening giro, sebab di situlah terlihat apakah kas IJEE cukup kuat untuk terus melunasi utang besar senilai total Rp2,5 triliun ini tepat waktu ke depannya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pnm-dampingi-umkm-ubah-eceng-gondok-jadi-kerajinan",
+  "category": "UMKM",
+  "title": "PNM Dampingi UMKM Ubah Eceng Gondok Jadi [Kerajinan]",
+  "deck": "Nasabah PNM Mekaar di Bekasi mengubah eceng gondok yang tumbuh liar di sungai menjadi kerajinan anyaman yang kini dipasarkan hingga Yogyakarta dan Bali.",
+  "image": "assets/img/pnm-dampingi-umkm-ubah-eceng-gondok-jadi-kerajinan.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T22:23:49+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472604-dari-sungai-ke-pasar-pnm-dampingi-maryati-ubah-eceng-gondok-jadi-kerajinan-bernilai",
+  "tags": [
+   "pnm",
+   "pnm mekaar",
+   "umkm",
+   "eceng gondok"
+  ],
+  "body": [
+   "Eceng gondok yang biasanya dianggap gulma pengganggu sungai di Tegalwaru, Bekasi, justru menjadi sumber penghasilan bagi Maryati. Ia mengolah tanaman air itu menjadi beragam kerajinan anyaman seperti tas dan keranjang yang memiliki nilai jual. Kisah ini jadi contoh bagaimana program pembiayaan mikro bagi perempuan pelaku usaha bisa mendorong produk rumahan menembus pasar yang lebih luas.",
+   "Usaha Maryati bermula dari bahan yang mudah ditemukan di sekitar rumahnya, lalu berkembang setelah ia bergabung sebagai nasabah PNM Mekaar, program pembiayaan dan pendampingan usaha ultra mikro milik PT Permodalan Nasional Madani. Melalui program itu, Maryati mendapat pendampingan untuk meningkatkan kualitas produk sekaligus memperluas akses pasarnya.",
+   "Hasilnya, kerajinan eceng gondok buatan Maryati kini sudah dipasarkan ke luar Bekasi, termasuk ke Yogyakarta dan Bali. Maryati mengaku usahanya berawal dari pengamatan sederhana terhadap tanaman di sekitar rumah yang kemudian ia kembangkan hingga bisa dijual ke daerah lain, dan ia berniat terus memperluas usahanya agar produknya semakin dikenal.",
+   "PNM menyebut pendampingan semacam ini sejalan dengan pendekatan mereka terhadap nasabah, yakni tidak sekadar memberi akses pembiayaan, tetapi juga membantu nasabah mengembangkan kapasitas usaha dan melihat peluang pasar yang lebih luas."
+  ],
+  "fotoAdegan": "Dried water hyacinth stalks being hand-woven into baskets on a wooden table beside a quiet river in a village",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/12/6accfb023f94b-maryati-pengrajin-anyaman-dari-enceng-gondok_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah satu usaha mikro yang naik kelas dari pasar lokal ke pasar antarprovinsi, lewat pendampingan usaha PNM Mekaar, bukan sekadar pinjaman modal. Yang jelas terdampak adalah Maryati sebagai pengrajin di Tegalwaru, Bekasi, serta konsumen di Yogyakarta dan Bali yang kini bisa membeli produknya. Namun berita ini tidak menyebut berapa besar pembiayaan yang diterima Maryati, sudah berapa lama ia menjadi nasabah, atau berapa banyak nasabah PNM Mekaar lain yang menjalankan usaha berbasis bahan baku serupa, sehingga belum jelas apakah ini kisah tunggal atau pola yang memang berulang di program pemberdayaan PNM. Yang perlu dicek berikutnya adalah data skala program secara keseluruhan, misalnya jumlah UMKM berbasis bahan baku lokal yang didampingi PNM Mekaar, untuk menilai apakah model seperti ini lazim terjadi atau sekadar pengecualian yang diangkat sebagai contoh.",
+  "imageV": "mv5ji9ye"
  },
  {
   "slug": "flmc-tambah-kbli-perusahaan-induk-untuk-anak-usaha-distribusi",
@@ -80,7 +134,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah sejauh ini masih berupa proyek percontohan di tiga kota, Yogyakarta, Bandung, dan Medan, berupa pelatihan keuangan, pemasaran digital, dan pendaftaran jaminan sosial bagi pekerja mandiri perempuan di sektor informal. Pihak yang langsung terdampak adalah peserta pelatihan di tiga lokasi itu, pemerintah daerah mitra, dan BPJS Ketenagakerjaan sebagai pengelola jaminan sosialnya. Siaran pers ini belum menyebut berapa banyak pekerja yang akan ikut, berapa besar anggarannya, atau target jumlah usaha yang harus naik kelas jadi resmi, sehingga belum bisa dipastikan apakah ini akan berkembang jadi program nasional atau berhenti sebagai proyek percontohan kecil. Yang akan menjawabnya adalah hasil evaluasi tiga pilot project ini, yang menurut Kemenko Perekonomian akan jadi dasar keputusan perluasan ke daerah lain pada 2027.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "kemenko-dan-bps-sepakat-rumuskan-kebijakan-berbasis-data",
@@ -108,7 +162,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini adalah rencana Kemenko Perekonomian memakai data BPS secara rutin setiap kuartal untuk menyusun kebijakan, dengan perhatian khusus pada daerah berbasis industri pengolahan yang tumbuh di atas rata-rata nasional. Pihak yang perlu mencermati ini adalah pelaku usaha di kawasan industri dan daerah manufaktur, karena mereka disebut berpotensi jadi fokus kebijakan berikutnya. Penjelasan soal inflasi yang didorong faktor pasokan, bukan permintaan, juga mengarah pada kemungkinan kebijakan pengendalian harga lewat perbaikan rantai suplai ketimbang instrumen suku bunga. Arah ini akan lebih jelas setelah BPS merilis data pertumbuhan ekonomi kuartal III 2026, dan ketika rencana BPS berkeliling ke kementerian atau lembaga lain untuk berbagi data benar-benar terlaksana.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "harga-minyak-indonesia-melonjak-ke-us-112-81-per-barel",
@@ -324,7 +378,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret dari siaran ini adalah progres Satgas Percepatan Program Pemerintah: 135 dari 190 aduan pelaku usaha sudah diselesaikan per 22 September 2026, dengan 129 aduan di antaranya menyangkut investasi lebih dari Rp625 triliun dan sekitar 31 ribu tenaga kerja. Pihak yang langsung terdampak adalah pelaku usaha yang mengadukan hambatan investasi tersebut, serta industri padat karya berorientasi ekspor yang disebut menyerap sekitar 5 juta pekerja jika negosiasi tarif dengan Amerika Serikat membuahkan hasil. Pola yang terlihat adalah pemerintah menjalankan dua jalur sekaligus, membersihkan hambatan birokrasi di dalam negeri sambil membuka pasar baru lewat kerja sama dagang dengan Uni Eropa, Kanada, dan Amerika Serikat, sebagai cara mengurangi ketergantungan ekspor pada komoditas lama seperti sawit, batu bara, dan ferroalloy. Yang akan menunjukkan apakah jalur ini benar membawa hasil adalah penyelesaian 55 aduan yang masih tersisa di Satgas, serta hasil akhir negosiasi tarif AS yang diklaim bisa menambah ekspor sampai US$2,3 miliar per tahun.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "csmi-utang-ke-pihak-terkait-dan-merek-nws-terganjal-2-tahun",

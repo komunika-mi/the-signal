@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "pQ-8TkROZNQ",
+  "title": "Menko AHY Hadiri Digital Infrastructure Summit",
+  "category": "Teknologi",
+  "program": "Kabar Hari Ini",
+  "summary": "Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono menghadiri Digital Infrastructure Summit dan menyoroti kebutuhan infrastruktur untuk mendukung ekonomi digital Indonesia.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan infrastruktur yang menopang pertumbuhan ekonomi digital nasional.",
+  "terbit": "2026-10-12T16:19:54+00:00"
+ },
+ {
   "id": "IqsYnyl-2Rg",
   "title": "Kadin Bahas Kerja Sama Investasi dengan Finlandia",
   "category": "Bisnis",

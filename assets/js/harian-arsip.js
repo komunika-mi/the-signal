@@ -2,6 +2,100 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-10-12",
+  "tanggalLabel": "Senin, 12 Oktober 2026",
+  "judul": "Tekanan Emiten Kecil Melebar, Harga Minyak Pacu Kebijakan Energi",
+  "ringkas": "Pola tekanan kas dan tata kelola di emiten kecil yang mulai terlihat pekan lalu kini melebar ke lebih banyak nama, sementara lonjakan harga minyak dunia mendorong pemerintah mempercepat langkah substitusi energi dan sektor pariwisata terus menanjak ditopang gelaran internasional di Mandalika.",
+  "benang": [
+   {
+    "judul": "Tekanan Kas dan Tata Kelola Emiten Kecil Melebar",
+    "isi": "Pola yang pekan lalu masih terbatas pada BUMN Karya kini melebar ke emiten kecil secara lebih luas. Pos Indonesia mengajukan penundaan bunga sukuk Rp24,12 miliar, hanya beberapa hari setelah gagal bayar obligasi Rp83 miliar yang sudah dilaporkan sebelumnya. Venteny Fortuna dua kali memperpanjang obligasi anak usahanya dan kehilangan piutang Rp147 miliar lewat skema cessie, sementara Falmaco Nonwoven dan INPS sama-sama menggelar RUPSLB untuk menambal ekuitas negatif, yang terakhir sampai Rp42,8 miliar dengan suntikan modal baru Rp125 miliar yang hanya diserap pengendali, bukan pemegang saham publik. BEI juga menjatuhkan sanksi ke 70 emiten yang telat menyampaikan laporan keuangan interim, 62 di antaranya kena denda hingga Rp150 juta. Arahnya jelas melebar dari kasus per kasus menjadi pola yang lebih luas, dan yang akan menguji apakah ini mereda adalah hasil RUPSLB Falmaco dan INPS pada 18 November serta kemampuan Pos Indonesia memenuhi kewajiban utang berikutnya tepat waktu."
+   },
+   {
+    "judul": "Harga Minyak Melonjak, Dorong Substitusi dan Ekspansi Energi",
+    "isi": "Harga minyak Indonesia untuk September melonjak US$23,38 dalam sebulan menjadi US$112,81 per barel akibat ketegangan geopolitik Timur Tengah, dan lonjakan ini langsung berimbas ke kebijakan domestik. Pemerintah meresmikan izin sumur minyak rakyat baru di Aceh, dengan hasilnya dibeli Pertamina seharga 80 persen dari ICP, sembari menegaskan mandatori campuran etanol pada bensin akan dinaikkan bertahap sampai separuh kadar pada akhir dekade untuk menekan impor. Di sisi korporasi, MedcoEnergi mengakuisisi 10 persen hak partisipasi di empat blok Cekungan Kutai dari Eni, termasuk eksposur ke penemuan gas Geliga yang disebut berukuran besar. Arahnya mengarah pada ekspansi produksi domestik dan substitusi impor energi sebagai respons harga minyak yang mahal, dan penentu berikutnya adalah angka ICP Oktober serta progres konkret mandatori etanol menuju E50."
+   },
+   {
+    "judul": "Pariwisata dan Ekonomi Event Terus Menanjak",
+    "isi": "Data resmi menunjukkan tren pariwisata naik enam periode berturut, tingkat hunian hotel bintang ke 52,52 persen dan kunjungan wisatawan asing ke 1,60 juta orang pada Agustus, dan gelaran berskala internasional ikut memperkuat arah itu. Pertamina Grand Prix Mandalika 2026 rampung digelar 9 sampai 11 Oktober dengan pelibatan UMKM dan pekerja lepas di sekitar sirkuit, sementara TelkomGroup menaikkan kapasitas backbone hingga 600 Gbps, hampir tiga kali perkiraan kebutuhan 195 Gbps, dan membangun tujuh BTS baru yang akan tetap berdiri permanen setelah acara usai. Arahnya jelas menuju investasi infrastruktur yang bertahan lebih lama dari durasi acara itu sendiri, dan yang akan menegaskan arah ini adalah data hunian hotel serta jumlah wisatawan asing periode September yang dirilis BPS awal November."
+   }
+  ],
+  "penutup": "Yang paling menentukan besok adalah apakah Pos Indonesia bisa memenuhi kewajiban utang berikutnya tanpa penundaan baru, karena itu akan jadi penanda apakah tekanan di emiten kecil mulai mereda atau terus melebar.",
+  "jumlahBahan": 69,
+  "bahanSlug": [
+   "idx-saham-ades-terkonsentrasi-95-1-di-tangan-sedikit-pemegang",
+   "telkom-akselerasi-perampingan-50-anak-usaha",
+   "ijee-bayar-kupon-obligasi-dan-sukuk-rp52-99-miliar-tepat-waktu",
+   "pnm-dampingi-umkm-ubah-eceng-gondok-jadi-kerajinan",
+   "flmc-tambah-kbli-perusahaan-induk-untuk-anak-usaha-distribusi",
+   "pekerja-mandiri-perempuan-didorong-naik-kelas-ke-usaha-formal",
+   "kemenko-dan-bps-sepakat-rumuskan-kebijakan-berbasis-data",
+   "harga-minyak-indonesia-melonjak-ke-us-112-81-per-barel",
+   "tei-2026-buka-ruang-ekspor-jasa-dari-logistik-hingga-ai",
+   "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-per-saham",
+   "admr-anak-usaha-catatkan-obligasi-rp2-triliun-di-bei",
+   "bei-jatuhkan-sanksi-ke-70-emiten-soal-laporan-keuangan-interim",
+   "vtny-obligasi-jpy200-juta-diperpanjang-lagi-ke-akhir-2026",
+   "pertamina-grand-prix-mandalika-2026-sukses-digelar",
+   "investasi-hilirisasi-ri-capai-rp300-1-triliun-di-semester-i",
+   "csmi-utang-ke-pihak-terkait-dan-merek-nws-terganjal-2-tahun",
+   "bpjs-gandeng-bsi-perluas-akses-bayar-iuran-jkn",
+   "ppre-realisasi-capex-obligasi-baru-39-sisa-dana-rp61-3-m",
+   "byan-jhonlin-baratama-kini-pegang-30-25-saham-bayan",
+   "byan-konfirmasi-harga-transaksi-jhonlin-rp2-588-saham",
+   "aims-jawab-permintaan-bei-ungkap-kontrak-trading-batu-bara-baru",
+   "pgli-ungkap-pemicu-saham-melonjak-100-usai-disuspensi-bursa",
+   "bq-finalkan-penyesuaian-harga-waran-asii-pasca-dividen",
+   "bbia-beli-1-uob-asset-management-jadi-pengendali",
+   "gtbo-jawab-bursa-soal-volatilitas-tidak-ada-info-material",
+   "post-ajukan-penundaan-bayar-bunga-sukuk-rp24-12-miliar",
+   "bbtn-pertahankan-peringkat-aaa-idn-dari-fitch-ratings",
+   "enrg-catatkan-tambahan-2-15-miliar-saham-dari-rights-issue",
+   "nine-rencanakan-rights-issue-hingga-2-44-miliar-saham-baru",
+   "nine-jadwalkan-rupslb-18-november-cum-date-26-oktober",
+   "oasa-direksi-jual-11-4-juta-saham-lewat-pasar",
+   "humi-rombak-seluruh-direksi-komisaris-lewat-rupslb",
+   "oasa-direksi-jual-22-8-juta-saham-senilai-rp5-miliar",
+   "myoh-lewati-tenggat-refloat-saham-trja-baru-300-lembar",
+   "zp-sesuaikan-tiga-waran-asii-usai-dividen-rp98",
+   "nsss-komisaris-jual-saham-via-repo-suara-tetap-0-11",
+   "cash-rinci-alokasi-rp92-miliar-sisa-dana-rights-issue",
+   "jecx-direksi-johan-hutauruk-beli-10-000-saham",
+   "csra-bagikan-dividen-interim-rp15-per-saham",
+   "cybr-rilis-revisi-laporan-realisasi-dana-waran-seri-i",
+   "nsss-direksi-jual-saham-via-repo-suara-turun-ke-33-29",
+   "moya-bentuk-usaha-patungan-senilai-rp6-6-miliar-di-karawang",
+   "csra-tetapkan-jadwal-dividen-interim-cair-13-november",
+   "tcpi-cgs-international-tambah-saham-lewat-repo-ke-6-89",
+   "cybr-direksi-tambah-saham-1-4-juta-lembar-lewat-pembelian",
+   "pgeo-intensifkan-pengeboran-lima-sumur-di-tiga-wilayah",
+   "mcol-tegaskan-tak-ada-info-material-di-balik-volatilitas-sahamnya",
+   "inco-jadwalkan-rupslb-18-november-dps-26-oktober-2026",
+   "epac-panggil-rupslb-bahas-rights-issue-buyback-setop-segmen",
+   "inps-gelar-rupslb-usai-catat-ekuitas-negatif-rp42-8-miliar",
+   "esdm-resmikan-izin-sumur-rakyat-di-aceh-genjot-mandatori-etanol",
+   "inkp-rampungkan-realisasi-dana-obligasi-sukuk-rp4-6-triliun",
+   "srtg-edwin-soeryadjaya-beli-415-000-saham-tambahan",
+   "bbkp-tawarkan-obligasi-subordinasi-rp500-miliar-kupon-8-95-9-30",
+   "bike-akuisisi-45-saham-tambang-batu-bara-sba",
+   "bwpt-koreksi-laporan-dana-sukuk-realisasi-capai-100",
+   "telkomgroup-siapkan-600-gbps-untuk-motogp-mandalika-2026",
+   "cani-ungkap-rencana-konversi-utang-us-36-6-juta-ke-ekuitas",
+   "pdpp-komisaris-lim-kim-guan-mundur-dari-primadaya-plastisindo",
+   "bike-akuisisi-45-saham-tambang-batu-bara-lewat-anak-usaha",
+   "saham-pura-melonjak-10-53-emiten-akui-tak-ada-info-baru",
+   "bltz-gelar-public-expose-insidentil-usai-saham-disuspensi",
+   "inci-jawab-permintaan-bei-soal-volatilitas-sahamnya",
+   "peve-pastikan-tak-ada-informasi-material-di-balik-volatilitas-saham",
+   "auto-tender-offer-asii-rp3-600-saham-dinyatakan-efektif",
+   "medc-akuisisi-10-hak-partisipasi-psc-kutai-dari-eni",
+   "bjlb01-pengelola-eba-gabung-jadi-danareksa-investment-management",
+   "telkomsel-perkuat-jaringan-untuk-motogp-mandalika-2026",
+   "flmc-jadwalkan-rupslb-pada-18-november-2026"
+  ],
+  "dibuat": "2026-10-12T22:13:26.991Z"
+ },
+ {
   "tanggal": "2026-10-09",
   "tanggalLabel": "Jumat, 9 Oktober 2026",
   "judul": "Tekanan BUMN Karya Menajam, Koreksi Dana Emiten Melebar",
@@ -2517,50 +2611,5 @@ var HARIAN_ARSIP = [
    "aspebindo-perkuat-ketahanan-energi-lewat-bioenergi"
   ],
   "dibuat": "2026-08-28T23:20:48.720Z"
- },
- {
-  "tanggal": "2026-08-27",
-  "tanggalLabel": "Kamis, 27 Agustus 2026",
-  "judul": "Arus Kas Emiten Tertekan, BEI Perketat Pengawasan Saham",
-  "ringkas": "Hari ini menegaskan dua pola yang mulai terlihat sejak awal pekan: tekanan arus kas yang kemarin terpusat di BUMN Karya kini melebar ke sektor lain, sementara Bursa Efek Indonesia terus meminta penjelasan atas sejumlah saham yang bergerak tak wajar tanpa informasi material baru.",
-  "benang": [
-   {
-    "judul": "Tekanan Arus Kas Meluas ke Berbagai Sektor Emiten",
-    "isi": "Sinyal tekanan arus kas yang kemarin terpusat di BUMN Karya kini melebar ke sektor lain. Pefindo memangkas peringkat utang PTPP dari idBBB+ ke idBB dengan status pengawasan negatif, menyusul rencana restrukturisasi kupon dan jatuh tempo obligasi serta sukuk. Di saat yang sama, arus kas operasi AGAR anjlok 57,3 persen meski labanya positif, aset EMAS tumbuh 30 persen tapi ditopang utang bank baru US$149 juta yang sebelumnya nol, dan BBRM membatalkan kontrak kapal senilai US$22 juta karena gagal memenuhi syarat jaminan dalam tenggat 90 hari. BKDP pun mulai 28 Agustus masuk daftar pemantauan khusus bursa akibat indikator keuangan bermasalah. Pola ini mengarah pada meluasnya tekanan pembiayaan jangka pendek di luar konstruksi BUMN Karya, dan yang akan mempertegasnya adalah hasil rapat pemegang obligasi PTPP yang menentukan skema restrukturisasi kupon dan jatuh temponya."
-   },
-   {
-    "judul": "BEI Perketat Pengawasan Saham Tanpa Pemicu Jelas",
-    "isi": "Permintaan penjelasan Bursa Efek Indonesia atas pergerakan saham tak wajar muncul berturut-turut hari ini. BPII melaporkan volume transaksinya melonjak lebih dari empat kali lipat dengan harga naik 2,41 persen pada 20 Agustus, sementara PJHB dan PART sama-sama menegaskan tidak ada informasi material di balik lonjakan transaksi mereka. DOOH bahkan diminta menggelar public expose insidentil pada 4 September untuk menjelaskan pergerakan harga sahamnya, dan BKDP masuk pemantauan khusus mulai 28 Agustus. Pola ini melanjutkan sinyal kemarin, yakni volatilitas pasar yang belum tentu bersandar pada perubahan fundamental. Yang akan menegaskan apakah ada informasi tersembunyi atau murni spekulasi adalah hasil public expose DOOH pada 4 September nanti."
-   }
-  ],
-  "penutup": "Yang paling menentukan arah ke depan adalah hasil rapat pemegang obligasi PTPP soal skema restrukturisasi kupon dan jatuh tempo, serta apakah public expose DOOH pada 4 September nanti membuka informasi baru di balik pergerakan sahamnya.",
-  "jumlahBahan": 24,
-  "bahanSlug": [
-   "emas-aset-naik-30-ditopang-utang-bank-us-149-juta",
-   "bei-minta-dooh-gelar-public-expose-insidentil-bahas-saham",
-   "dild-pengadilan-tolak-gugatan-pkpu-bank-mayapada-ke-anak-usaha",
-   "pertamina-kejar-332-desa-energi-berdikari-di-akhir-2026",
-   "pgas-kalah-sebagian-di-arbitrase-lawan-gunvor-di-london",
-   "pegadaian-raih-penghargaan-sukuk-syariah-di-kuala-lumpur",
-   "agar-penjualan-ke-satu-pelanggan-capai-75-9-dari-total",
-   "bpii-jelaskan-ke-bei-lonjakan-transaksi-saham-20-agustus",
-   "diskon-ongkos-e-commerce-umkm-tinggal-tunggu-integrasi-sistem",
-   "bbrm-batalkan-kontrak-kapal-psv-senilai-us-22-juta",
-   "bkdp-masuk-daftar-pemantauan-khusus-bei-mulai-28-agustus-2026",
-   "pnm-mekaar-bantu-ao-ubah-nasib-keluarga-nelayan",
-   "banggar-dpr-soroti-banyak-typo-rapbn-2027",
-   "lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan",
-   "ihsg-dibuka-melemah-tertekan-sentimen-minyak-dan-hormuz",
-   "pbsa-panggil-rupslb-bahas-stock-split-saham-rasio-1-2",
-   "harga-emas-antam-hari-ini-turun-rp27-000-per-gram",
-   "vico-gelar-rupslb-bahas-pembagian-dividen-tunai",
-   "peringkat-utang-ptpp-anjlok-ke-idbb-sebelum-rupo-obligasi",
-   "pjhb-jawab-bursa-akui-tak-ada-info-di-balik-volatilitas-saham",
-   "dr-jadwalkan-delisting-20-waran-terstruktur-seri-t-33",
-   "part-konfirmasi-tak-ada-informasi-material-di-balik-volatilitas",
-   "inkp-lunasi-obligasi-dan-sukuk-rp2-49-triliun-pelunasan",
-   "nice-ganti-susunan-direksi-dan-komisaris-usai-rupslb"
-  ],
-  "dibuat": "2026-08-27T23:24:19.188Z"
  }
 ];

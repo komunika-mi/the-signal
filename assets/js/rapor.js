@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-10T02:40:31.130+07:00",
+ "diperbarui": "2026-10-13T05:16:25.382+07:00",
  "entri": [
+  {
+   "id": "2026-10-12-3",
+   "edisi": "2026-10-12",
+   "benang": "Pariwisata dan Ekonomi Event Terus Menanjak",
+   "klaim": "Tren kenaikan pariwisata kini mengarah pada investasi infrastruktur yang bertahan lebih lama dari durasi acara itu sendiri.",
+   "penanda": "Data hunian hotel serta jumlah wisatawan asing periode September yang dirilis BPS",
+   "tenggat": "2026-11-01",
+   "tenggatLabel": "data hunian hotel serta jumlah wisatawan asing periode September yang dirilis BPS awal November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-12-2",
+   "edisi": "2026-10-12",
+   "benang": "Harga Minyak Melonjak, Dorong Substitusi dan Ekspansi Energi",
+   "klaim": "Lonjakan harga minyak Indonesia mengarahkan kebijakan dan korporasi domestik menuju ekspansi produksi dan substitusi impor energi.",
+   "penanda": "Angka ICP Oktober serta progres konkret mandatori etanol menuju E50",
+   "tenggat": null,
+   "tenggatLabel": "angka ICP Oktober serta progres konkret mandatori etanol menuju E50",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-12-1",
+   "edisi": "2026-10-12",
+   "benang": "Tekanan Kas dan Tata Kelola Emiten Kecil Melebar",
+   "klaim": "Pola tekanan kas dan tata kelola yang pekan lalu masih terbatas pada BUMN Karya kini melebar menjadi pola yang lebih luas pada emiten kecil secara umum.",
+   "penanda": "Hasil RUPSLB Falmaco dan INPS serta kemampuan Pos Indonesia memenuhi kewajiban utang berikutnya tepat waktu",
+   "tenggat": "2026-11-18",
+   "tenggatLabel": "hasil RUPSLB Falmaco dan INPS pada 18 November",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-09-3",
    "edisi": "2026-10-09",
@@ -151,8 +184,13 @@ var RAPOR = {
    "penanda": "Apakah muncul lagi pembelian saham serupa oleh orang dalam di emiten lain pekan depan, sebagaimana tercermin dalam laporan kepemilikan saham mingguan Bursa Efek Indonesia.",
    "tenggat": "2026-10-12",
    "tenggatLabel": "laporan kepemilikan saham mingguan Bursa Efek Indonesia pekan depan, sekitar 12 Oktober 2026",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "jecx-direksi-johan-hutauruk-beli-10-000-saham",
+    "judul": "JECX Direksi Johan Hutauruk Beli 10.000 Saham",
+    "tanggal": "12 Oktober 2026",
+    "alasan": "Arsip menunjukkan pembelian saham oleh orang dalam berlanjut ke emiten lain pekan berikutnya, seperti direksi JECX (Johan Hutauruk) dan komisaris SRTG (Edwin Soeryadjaya) yang membeli tambahan saham, sesuai penanda uji yang diajukan klaim."
+   }
   },
   {
    "id": "2026-10-05-2",
@@ -1054,8 +1092,13 @@ var RAPOR = {
    "penanda": "Isi public expose insidentil CSMI dan YPAS",
    "tenggat": "2026-08-28",
    "tenggatLabel": "public expose insidentil CSMI dan YPAS pada 28 Agustus",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "csmi-utang-ke-pihak-terkait-dan-merek-nws-terganjal-2-tahun",
+    "judul": "CSMI: utang ke pihak terkait dan merek NWS terganjal 2 tahun",
+    "tanggal": "12 Oktober 2026",
+    "alasan": "Public expose CSMI mengakui pertumbuhan pendapatan kecil dan masih merugi, sementara kenaikan harga sahamnya sendiri tidak bisa dijelaskan oleh kondisi fundamental tersebut, menunjukkan pergerakan harga lebih didorong faktor nonfundamental seperti arus jual beli jangka pendek."
+   }
   },
   {
    "id": "2026-08-26-1",

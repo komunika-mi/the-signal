@@ -5,6 +5,72 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pekerja-mandiri-perempuan-didorong-naik-kelas-ke-usaha-formal",
+  "category": "Ketenagakerjaan",
+  "title": "Pekerja Mandiri Perempuan Didorong [Naik Kelas] ke Usaha Formal",
+  "deck": "Kemenko Perekonomian, Kemenaker, pemda, dan Lazada Indonesia meluncurkan program pendampingan usaha bagi pekerja mandiri perempuan di Yogyakarta, Bandung, dan Medan agar naik kelas jadi usaha formal.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "tenaga kerja mandiri",
+   "UMKM perempuan",
+   "ketenagakerjaan informal",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7147/dorong-formalisasi-usaha-dan-naik-kelas-pemerintah-perkuat-kapasitas-tenaga-kerja-mandiri",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "kemenko-dan-bps-sepakat-rumuskan-kebijakan-berbasis-data",
+  "category": "Makroekonomi",
+  "title": "Kemenko dan BPS Sepakat Rumuskan Kebijakan Berbasis [Data]",
+  "deck": "Kemenko Perekonomian dan BPS membahas data pertumbuhan ekonomi, inflasi, dan surplus dagang semester I 2026 sebagai dasar perumusan kebijakan ke depan.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "BPS",
+   "Kemenko Perekonomian",
+   "pertumbuhan ekonomi",
+   "inflasi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7145/pemerintah-kuatkan-sinergi-dengan-bps-untuk-formulasikan-kebijakan-berlandaskan-data",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "harga-minyak-indonesia-melonjak-ke-us-112-81-per-barel",
+  "category": "Energi",
+  "title": "Harga Minyak Indonesia [Melonjak] ke US$112,81 per Barel",
+  "deck": "Pemerintah menetapkan ICP September 2026 naik US$23,38 menjadi US$112,81 per barel akibat ketegangan geopolitik di Timur Tengah.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/harga-minyak-indonesia-melonjak-ke-us-112-81-per-barel.jpg",
+  "imageV": "mv5eajbw",
+  "tags": [
+   "ICP",
+   "Harga Minyak",
+   "ESDM",
+   "Timur Tengah"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/ketegangan-geopolitik-dorong-icp-september-naik-ke-us11281-per-barel",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "tei-2026-buka-ruang-ekspor-jasa-dari-logistik-hingga-ai",
+  "category": "Bisnis",
+  "title": "TEI 2026 Buka Ruang Ekspor [Jasa] dari Logistik hingga AI",
+  "deck": "Pameran dagang TEI ke-41 di ICE BSD City, 14-18 Oktober 2026, menyertakan puluhan perusahaan jasa dari logistik, keuangan, hingga kecerdasan buatan untuk menjaring pembeli mancanegara.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "tags": [
+   "TEI 2026",
+   "ekspor jasa",
+   "Kemendag",
+   "INASA"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mulai-dari-jasa-facility-management-hingga-jasa-digital-peluang-ekspor-jasa-kian-terbuka-melalui-tei-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "bei-jatuhkan-sanksi-ke-70-emiten-soal-laporan-keuangan-interim",
   "category": "Aksi Korporasi",
   "title": "BEI Jatuhkan [Sanksi] ke 70 Emiten soal Laporan Keuangan Interim",
@@ -37,12 +103,29 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pertamina-grand-prix-mandalika-2026-sukses-digelar",
+  "category": "BUMN",
+  "title": "Pertamina Grand Prix Mandalika 2026 [Sukses] Digelar",
+  "deck": "Ajang balap internasional di Sirkuit Mandalika usai digelar 9-11 Oktober, Dirut Pertamina berterima kasih ke pihak yang terlibat, dari pemerintah hingga pelaku UMKM.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/pertamina-grand-prix-mandalika-2026-sukses-digelar.jpg",
+  "imageV": "mv5eajy4",
+  "tags": [
+   "Pertamina",
+   "Mandalika",
+   "Sport Tourism",
+   "Balap"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472579-pertamina-grand-prix-of-indonesia-2026-sukses-digelar-direktur-utama-pertamina-apresiasi-kontribusi-seluruh-pihak"
+ },
+ {
   "slug": "investasi-hilirisasi-ri-capai-rp300-1-triliun-di-semester-i",
   "category": "Makroekonomi",
   "title": "Investasi Hilirisasi RI Capai [Rp300,1] Triliun di Semester I",
   "deck": "Pemerintah memaparkan capaian investasi hilirisasi dan penyelesaian aduan pelaku usaha dalam pembukaan Rakernas HIPPI, sembari mendorong perluasan akses ekspor lewat kerja sama dagang dengan Uni Eropa, Kanada, dan AS.",
   "date": "12 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "hilirisasi",
    "investasi",
@@ -2237,7 +2320,7 @@ var ARTICLES = [
   "title": "Airlangga: Talenta [Digital] Kunci Ekonomi RI ke Depan",
   "deck": "Menko Airlangga menyebut penguasaan teknologi digital dan hilirisasi industri jadi mesin pertumbuhan baru, di tengah ekonomi RI yang tumbuh 5,45 persen pada semester I 2026.",
   "date": "9 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "Airlangga Hartarto",
    "hilirisasi",
@@ -2808,7 +2891,7 @@ var ARTICLES = [
   "title": "Pemerintah Tetapkan Target Pertumbuhan [6%] untuk 2027",
   "deck": "Pemerintah menyasar pertumbuhan ekonomi 6 persen pada 2027, dengan syarat investasi tumbuh lebih cepat dari ekonomi, sebagai tahapan menuju target 8 persen jangka menengah.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "pertumbuhan ekonomi",
    "investasi",
@@ -4495,7 +4578,7 @@ var ARTICLES = [
   "title": "Pemerintah Kaji Ulang [Insentif Pajak] Investasi Usai Pajak Global",
   "deck": "Pemerintah mengkaji ulang insentif pajak investasi, termasuk tax holiday, setelah pajak minimum global 15 persen berlaku, di tengah investasi semester I 2026 yang capai Rp1.010 triliun.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "hilirisasi",
    "investasi",
@@ -4944,7 +5027,7 @@ var ARTICLES = [
   "title": "Airlangga Pacu Investasi AS, Target Tumbuh [8]% di 2027",
   "deck": "Dalam forum investasi AS-Indonesia, Menko Airlangga memaparkan data dagang dan investasi dua negara serta target pertumbuhan ekonomi 8 persen pada 2027 lewat sektor teknologi tinggi.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "Investasi AS",
    "Pertumbuhan Ekonomi",
@@ -5317,7 +5400,7 @@ var ARTICLES = [
   "title": "Surplus Dagang Agustus Melonjak, [Impor] Modal Anjlok 16%",
   "deck": "Neraca dagang Indonesia Agustus 2026 surplus USD3,55 miliar, melonjak dari USD0,12 miliar di Juli, didorong surplus nonmigas, sementara impor barang modal dan bahan baku justru turun tajam.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -6385,86 +6468,6 @@ var ARTICLES = [
    "kepemilikan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-2674-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kras-terima-rp130-74-miliar-dari-kerja-sama-lahan-dengan-cabot",
-  "category": "Aksi Korporasi",
-  "title": "KRAS Terima [Rp130,74 Miliar] dari Kerja Sama Lahan dengan Cabot",
-  "deck": "Krakatau Steel mendayagunakan lahan sekitar 60.000 meter persegi kepada PT Cabot Indonesia melalui anak usahanya, PT KSI, senilai Rp130,74 miliar untuk membayar kewajiban restrukturisasi kredit.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KRAS",
-   "Krakatau Steel",
-   "restrukturisasi utang",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/262b247ff3_84a5ec3878.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "poli-paparkan-kinerja-setahun-soroti-obligasi-berkelanjutan-rp500-m",
-  "category": "Aksi Korporasi",
-  "title": "POLI Paparkan Kinerja Setahun, Soroti Obligasi [Berkelanjutan] Rp500 M",
-  "deck": "Pollux Hotels Group merilis materi Public Expose Tahunan 2026, memuat obligasi berkelanjutan Rp500 miliar, kemitraan dengan Accor dan Marriott, serta klarifikasi UMA Januari 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POLI",
-   "Pollux Hotels Group",
-   "obligasi berkelanjutan",
-   "Accor"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/09b218b33f_99af9d221d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-siapkan-rp266-95-miliar-lunasi-obligasi-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "TPIA Siapkan Rp266,95 Miliar Lunasi [Obligasi] Jatuh Tempo",
-  "deck": "Chandra Asri Pacific menyatakan dana sudah siap untuk melunasi pokok Obligasi Berkelanjutan III Seri A senilai Rp266,95 miliar yang jatuh tempo 29 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "obligasi",
-   "Chandra Asri Pacific",
-   "KSEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6c762c5228_606e9edcdf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmbl-jadwalkan-rupslb-11-november-2026-dps-19-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BMBL Jadwalkan [RUPSLB] 11 November 2026, DPS 19 Oktober",
-  "deck": "Lavender Bina Cendikia menjadwalkan RUPSLB pada 11 November 2026 di Depok. Agenda rapat belum diumumkan, baru akan dirilis lewat pemanggilan resmi pada 20 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMBL",
-   "RUPSLB",
-   "Lavender Bina Cendikia",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ce9c5ff285_9d45fc08fe.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nayz-rombak-direksi-saiko-resmi-jadi-pemegang-saham",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ Rombak Direksi, [SAIKO] Resmi Jadi Pemegang Saham",
-  "deck": "RUPSLB NAYZ menyetujui dua direksi/komisaris baru asal Thailand dan menegaskan masuknya SAIKO Consultancy Pte Ltd sebagai pemegang saham baru Perseroan.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NAYZ",
-   "RUPSLB",
-   "Direksi",
-   "Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c7e92289f9_d780a8c59d.pdf",
   "sourceLabel": "IDX"
  }
 ];

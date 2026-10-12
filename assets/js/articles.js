@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-resmikan-izin-sumur-rakyat-di-aceh-genjot-mandatori-etanol",
+  "category": "Energi",
+  "title": "ESDM Resmikan Izin Sumur Rakyat di Aceh, Genjot Mandatori [Etanol]",
+  "deck": "Bahlil Lahadalia menandatangani izin baru sumur minyak rakyat di Aceh, sekaligus memaparkan rencana mandatori etanol bertahap hingga E50 untuk menekan impor bensin.",
+  "image": "assets/img/esdm-resmikan-izin-sumur-rakyat-di-aceh-genjot-mandatori-etanol.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T07:22:20.927Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-sumur-rakyat-hingga-etanol-bahlil-dorong-rakyat-jadi-pemain-energi",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Sumur Rakyat",
+   "Etanol",
+   "Bahlil Lahadalia"
+  ],
+  "body": [
+   "Menteri Koordinator Hilirisasi dan Transisi Energi yang juga Menteri ESDM, Bahlil Lahadalia, menandatangani izin pengelolaan sumur minyak rakyat di Aceh. Langkah ini menyusul sumur rakyat di Sumatera dan Jawa yang sudah berproduksi lebih dulu, dan merupakan bagian dari rencana melegalkan sekitar 45 ribu sumur rakyat di seluruh Indonesia yang selama ini banyak dikelola warga tanpa izin resmi. Bahlil menyampaikan hal itu di sela Rakernas III HIPPI di Jakarta, Senin (12/10). \"Untuk sumur-sumur rakyat yang sudah kita berikan izin, sebagiannya sudah berproduksi. Di Sumatera, di Jawa, itu sudah. Kemarin saya menandatangani lagi yang untuk Aceh,\" kata Bahlil.",
+   "Dengan izin resmi, minyak dari sumur rakyat dibeli Pertamina dengan harga 80 persen dari Indonesian Crude Price, patokan harga minyak mentah Indonesia. Pengelolaan sumur ini dijalankan bermitra dengan Medco dan Pertamina. Kebijakan ini masuk dalam deretan program keberpihakan Kementerian ESDM kepada UMKM dan koperasi di daerah, bersama izin usaha pertambangan prioritas untuk koperasi dan UMKM, program listrik desa, Bantuan Pasang Baru Listrik, serta penyederhanaan perizinan.",
+   "Di sisi hilir, pemerintah menyiapkan program etanol untuk menekan impor bensin. Kebutuhan bensin nasional saat ini sekitar 40 juta kiloliter per tahun, sementara produksi dalam negeri baru 18-19 juta kiloliter. Bahlil menyebut mandatori campuran etanol ke bensin akan dinaikkan bertahap hingga E50, dengan rencana menuju 2028 yang masih dimatangkan sesuai kapasitas industri domestik. Untuk tahap E20 saja dibutuhkan sekitar 8 juta kiloliter etanol dari singkong, tebu, dan jagung, dengan kebutuhan lahan diperkirakan 1 juta hektare untuk singkong, 1,1 juta hektare untuk tebu, dan 1 juta hektare untuk jagung, memanfaatkan lahan APL serta HGU telantar yang dikelola terintegrasi dari hulu ke hilir.",
+   "Pemerintah juga menjajaki bahan baku alternatif lewat proyek percontohan sorgum manis di Yogyakarta dan Nusa Tenggara Timur, serta pengolahan aren di Kamojang berkapasitas 1.000 liter per hari. Program etanol ini disebut mengikuti mandatori biodiesel B50 yang berlaku sejak 9 Juli 2026, yang menurut Kementerian ESDM telah menghemat devisa sekitar Rp170 triliun dan menyerap 2,1 juta tenaga kerja."
+  ],
+  "fotoAdegan": "Workers checking a small community oil well pump jack in a rural Sumatran village, overcast morning light, no signage visible.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dari-sumur-rakyat-hingga-etanol-bahlil-dorong-rakyat-jadi-pemain-energi-3slqn3z.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah konkret ada dua: makin banyak sumur minyak milik warga, kini juga di Aceh, yang dapat izin resmi dan minyaknya dibeli Pertamina dengan harga 80 persen dari patokan harga minyak Indonesia, dan rencana menaikkan campuran etanol di bensin secara bertahap sampai separuh kadar pada akhir dekade ini. Yang kena dampak langsung adalah warga pengelola sumur rakyat yang usahanya jadi legal, serta petani singkong, tebu, dan jagung yang jadi sasaran permintaan bahan baku kalau program etanol ini berjalan sesuai rencana. Arahnya konsisten dengan pola sebelumnya, pemerintah mencoba mengurangi impor energi dengan melibatkan rakyat di hulu minyak dan di pertanian untuk bahan bakar nabati, bukan terus mengandalkan impor bensin dan etanol. Tapi ini masih tahap rencana, kebutuhan lahan sampai 3,1 juta hektare untuk tahap E20 saja belum jelas sumbernya karena pemerintah menyebut akan memakai lahan telantar yang kesiapannya belum dipastikan. Yang akan menunjukkan apakah target ini realistis atau sekadar angka di atas kertas adalah peta final program etanol 2028 yang menurut Bahlil sedang disusun.",
+  "imageV": "mv4xjddn"
+ },
+ {
   "slug": "bike-akuisisi-45-saham-tambang-batu-bara-sba",
   "category": "Aksi Korporasi",
   "title": "BIKE Akuisisi 45% Saham Tambang Batu Bara [SBA]",

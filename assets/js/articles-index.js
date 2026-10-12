@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-resmikan-izin-sumur-rakyat-di-aceh-genjot-mandatori-etanol",
+  "category": "Energi",
+  "title": "ESDM Resmikan Izin Sumur Rakyat di Aceh, Genjot Mandatori [Etanol]",
+  "deck": "Bahlil Lahadalia menandatangani izin baru sumur minyak rakyat di Aceh, sekaligus memaparkan rencana mandatori etanol bertahap hingga E50 untuk menekan impor bensin.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/esdm-resmikan-izin-sumur-rakyat-di-aceh-genjot-mandatori-etanol.jpg",
+  "imageV": "mv4xjddn",
+  "tags": [
+   "ESDM",
+   "Sumur Rakyat",
+   "Etanol",
+   "Bahlil Lahadalia"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-sumur-rakyat-hingga-etanol-bahlil-dorong-rakyat-jadi-pemain-energi",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "bike-akuisisi-45-saham-tambang-batu-bara-sba",
   "category": "Aksi Korporasi",
   "title": "BIKE Akuisisi 45% Saham Tambang Batu Bara [SBA]",
@@ -6456,21 +6474,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Kelautan dan Perikanan",
   "sourceUrl": "https://kkp.go.id/news/news-detail/gemarikan-jadi-gerakan-nasional-kkp-jamin-kualitas-dan-pasokan-ikan-bagi-masyarakat-8M4L.html",
   "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "indonesia-jerman-incar-teken-ieu-cepa-tahun-ini",
-  "category": "Global",
-  "title": "Indonesia-Jerman Incar Teken [IEU-CEPA] Tahun Ini",
-  "deck": "Menko Airlangga menargetkan penandatanganan IEU-CEPA tahun ini, bersamaan peringatan 74 tahun hubungan diplomatik Indonesia-Jerman yang nilai dagangnya mencapai US$6,11 miliar pada 2025.",
-  "date": "3 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
-  "tags": [
-   "Indonesia-Jerman",
-   "IEU-CEPA",
-   "JETP",
-   "Perdagangan Bilateral"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7123/tujuh-dekade-hubungan-diplomatik-indonesiajerman-menko-airlangga-dorong-kerja-sama-ekonomi-yang-semakin-konkret",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

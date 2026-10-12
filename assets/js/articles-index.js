@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bike-akuisisi-45-saham-tambang-batu-bara-sba",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Akuisisi 45% Saham Tambang Batu Bara [SBA]",
+  "deck": "Anak usaha BIKE, PT Prambanan Nusantara Energi, mengambil 45% saham PT Sumber Bara Abadi, pemegang izin tambang batu bara 4.909 hektare berkadar cadangan 86 juta metrik ton di Kalimantan Timur.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "tambang batu bara",
+   "PNE"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f22c0525d_a02a58cfab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cani-ungkap-rencana-konversi-utang-us-36-6-juta-ke-ekuitas",
   "category": "Aksi Korporasi",
   "title": "CANI Ungkap Rencana Konversi Utang [US$36,6 Juta] ke Ekuitas",
@@ -6454,22 +6470,6 @@ var ARTICLES = [
    "tambang emas Pani"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bc8314a64a_137830d844.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdka-terbitkan-obligasi-rp4-12-triliun-bunga-hingga-10",
-  "category": "Aksi Korporasi",
-  "title": "MDKA Terbitkan Obligasi [Rp4,12 Triliun], Bunga hingga 10%",
-  "deck": "Merdeka Copper Gold menerbitkan obligasi tahap IV senilai Rp4,12 triliun dengan bunga tetap 8,25-10 persen per tahun, bagian dari program Rp15 triliun yang sudah terbit Rp6,1 triliun.",
-  "date": "3 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDKA",
-   "obligasi",
-   "pasar modal",
-   "pendanaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5272c31669_34906402e6.pdf",
   "sourceLabel": "IDX"
  }
 ];

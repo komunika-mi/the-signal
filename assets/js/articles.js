@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bike-akuisisi-45-saham-tambang-batu-bara-sba",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Akuisisi 45% Saham Tambang Batu Bara [SBA]",
+  "deck": "Anak usaha BIKE, PT Prambanan Nusantara Energi, mengambil 45% saham PT Sumber Bara Abadi, pemegang izin tambang batu bara 4.909 hektare berkadar cadangan 86 juta metrik ton di Kalimantan Timur.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T13:19:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f22c0525d_a02a58cfab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "tambang batu bara",
+   "PNE"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mengumumkan bahwa anak usahanya, PT Prambanan Nusantara Energi (PNE), resmi mengakuisisi 45 persen saham PT Sumber Bara Abadi (SBA) pada 8 Oktober 2026. Pengumuman ini merupakan koreksi atas surat keterbukaan informasi sebelumnya yang terbit pada hari yang sama, 12 Oktober 2026, dengan nomor surat 2026/276/X/BIKE/MK.",
+   "SBA tercatat memegang izin usaha pertambangan operasi produksi dengan nomor SK 64/1/IUP/PMA/2017 berdasarkan data registrasi Direktorat Jenderal Mineral dan Batubara Kementerian ESDM. Area operasionalnya mencakup 4.909 hektare di Kecamatan Sebulu dan Muara Kaman, Kabupaten Kutai Kartanegara, Kalimantan Timur, dengan salah satu lokasi aktivitas di Desa Manunggal Daya. BIKE menyebut cadangan batu bara di lahan itu mencapai sekitar 86 juta metrik ton, dan akuisisi ini juga mencakup fasilitas pelabuhan beserta conveyor belt, kantor, dan peralatan pendukung lainnya.",
+   "Perusahaan memproyeksikan pendapatan dari tambang ini sebesar US$84 juta dengan rata-rata produksi 2 juta metrik ton batu bara per tahun, dan berencana menaikkan produksi menjadi 4 juta metrik ton per tahun mulai 2029. Surat ini ditandatangani oleh Muhamad Kuswandi selaku Direktur I, dengan tembusan kepada Direktur Utama BIKE Eric Kusuma dan Komisaris Utama BIKE Sendi. Nilai dana yang dikeluarkan PNE untuk membeli 45 persen saham SBA tidak disebutkan dalam surat ini."
+  ],
+  "fotoAdegan": "A coal loading conveyor stretching toward a river barge dock surrounded by open-pit mining equipment under a humid tropical sky",
+  "takeaway": "Laporan ini netral bagi BIKE, asetnya nyata dan berizin produksi resmi dengan cadangan besar, tetapi surat ini tidak mengungkap berapa dana yang dikeluarkan untuk membeli 45 persen saham itu, dan porsi 45 persen itu sendiri bukan kepemilikan mayoritas meski disebut demikian di salah satu bagian surat, sehingga belum jelas seberapa besar kendali BIKE atas tambang ini. Karena hanya memegang kurang dari separuh saham, pendapatan dan laba PT Sumber Bara Abadi kemungkinan tidak langsung masuk utuh ke laporan keuangan BIKE, melainkan tercatat sebagai bagian dari nilai investasi di neraca, sehingga dampaknya ke laba per saham BIKE baru akan terasa bertahap. Yang perlu dipantau berikutnya adalah pengumuman nilai transaksi yang belum terbuka ini, realisasi kenaikan produksi dari 2 juta menjadi 4 juta metrik ton per tahun mulai 2029, serta laporan keterbukaan lanjutan yang dijanjikan perusahaan seiring perkembangan proyek ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "cani-ungkap-rencana-konversi-utang-us-36-6-juta-ke-ekuitas",
   "category": "Aksi Korporasi",
   "title": "CANI Ungkap Rencana Konversi Utang [US$36,6 Juta] ke Ekuitas",

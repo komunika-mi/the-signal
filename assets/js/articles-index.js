@@ -21,6 +21,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "telkomgroup-siapkan-600-gbps-untuk-motogp-mandalika-2026",
+  "category": "Teknologi",
+  "title": "TelkomGroup Siapkan [600 Gbps] untuk MotoGP Mandalika 2026",
+  "deck": "Telkom lewat InfraNexia menambah kapasitas jaringan backbone hingga 600 Gbps untuk menopang konektivitas selama MotoGP Mandalika 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/telkomgroup-siapkan-600-gbps-untuk-motogp-mandalika-2026.jpg",
+  "imageV": "mv4vw9t7",
+  "tags": [
+   "telkom",
+   "infranexia",
+   "motogp mandalika",
+   "infrastruktur digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472530-dukung-kelancaran-motogp-mandalika-2026-telkomgroup-kuatkan-infrastruktur-digital-di-sejumlah-titik"
+ },
+ {
   "slug": "cani-ungkap-rencana-konversi-utang-us-36-6-juta-ke-ekuitas",
   "category": "Aksi Korporasi",
   "title": "CANI Ungkap Rencana Konversi Utang [US$36,6 Juta] ke Ekuitas",
@@ -6455,21 +6472,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7123/tujuh-dekade-hubungan-diplomatik-indonesiajerman-menko-airlangga-dorong-kerja-sama-ekonomi-yang-semakin-konkret",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "emas-gadaikan-saham-anak-usaha-untuk-pinjaman-us-350-juta",
-  "category": "Aksi Korporasi",
-  "title": "EMAS Gadaikan Saham Anak Usaha untuk Pinjaman [US$350 Juta]",
-  "deck": "Amendemen keterbukaan informasi EMAS merinci kreditur dan jaminan saham anak usaha PETS, GSM, dan PBT untuk fasilitas kredit hingga US$350 juta.",
-  "date": "3 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "transaksi afiliasi",
-   "gadai saham",
-   "tambang emas Pani"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bc8314a64a_137830d844.pdf",
-  "sourceLabel": "IDX"
  }
 ];

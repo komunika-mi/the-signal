@@ -29,6 +29,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "telkomgroup-siapkan-600-gbps-untuk-motogp-mandalika-2026",
+  "category": "Teknologi",
+  "title": "TelkomGroup Siapkan [600 Gbps] untuk MotoGP Mandalika 2026",
+  "deck": "Telkom lewat InfraNexia menambah kapasitas jaringan backbone hingga 600 Gbps untuk menopang konektivitas selama MotoGP Mandalika 2026.",
+  "image": "assets/img/telkomgroup-siapkan-600-gbps-untuk-motogp-mandalika-2026.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T12:18:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472530-dukung-kelancaran-motogp-mandalika-2026-telkomgroup-kuatkan-infrastruktur-digital-di-sejumlah-titik",
+  "tags": [
+   "telkom",
+   "infranexia",
+   "motogp mandalika",
+   "infrastruktur digital"
+  ],
+  "body": [
+   "PT Telkom Indonesia melalui anak usahanya, PT Telkom Infrastruktur Indonesia atau InfraNexia, menyiapkan jaringan internet berkapasitas besar untuk mendukung penyelenggaraan MotoGP Mandalika 2026 yang berlangsung pada 9 hingga 11 Oktober. Konektivitas ini penting karena ajang balap internasional tidak hanya bergantung pada sirkuit dan pembalap, tetapi juga pada kelancaran komunikasi, operasional perlombaan, dan siaran langsung ke seluruh dunia.",
+   "Kapasitas jalur utama internet atau backbone yang disiapkan mencapai 600 Gbps, jauh di atas perkiraan kebutuhan pemakaian saat acara berlangsung yang diperkirakan sekitar 195 Gbps. Artinya ada ruang cadangan yang cukup besar agar jaringan tidak tersendat meski banyak pihak mengakses internet secara bersamaan di satu waktu. Layanan ini menjangkau titik-titik penting di kawasan sirkuit, yakni Media Center, Paddock, Race Control, VIP Deluxe, TV Compound, dan Pit Building, serta beberapa lokasi pendukung lain.",
+   "Direktur Network Telkom, Budi Satria Dharma Purba, mengatakan konektivitas digital menjadi bagian dari infrastruktur pendukung yang harus siap begitu seluruh aktivitas acara berjalan bersamaan. Ia menambahkan bahwa fokus perusahaan bukan hanya pada besarnya kapasitas, melainkan juga pada keandalan layanan di setiap titik yang punya kebutuhan berbeda-beda.",
+   "Dari sisi keandalan, jaringan data dan internet selama acara ini ditopang oleh Sistem Komunikasi Kabel Laut yang saling terhubung. InfraNexia juga menyiapkan jalur cadangan dengan sistem pengalihan otomatis, sehingga koneksi tetap berjalan ketika terjadi lonjakan pemakaian atau gangguan pada jalur utama."
+  ],
+  "fotoAdegan": "Technicians checking fiber optic cables and network server racks inside a mobile broadcast unit near a racing circuit, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/12/6acc6c1f0ec80-pt-telkom-indonesia-persero-tbk-telkom-melalui-pt-telkom-infrastruktur-indonesia-infranexia-memperkuat-infrastruktur-digital-di-ajang-motogp-mandalika-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah Telkom lewat InfraNexia menaikkan kapasitas jaringan ke 600 Gbps, hampir tiga kali lipat dari perkiraan kebutuhan pemakaian 195 Gbps, khusus untuk gelaran MotoGP Mandalika 9-11 Oktober 2026. Yang kena dampak langsung adalah panitia acara, stasiun penyiar, dan pihak di area sirkuit seperti ruang kontrol balapan dan media center, bukan masyarakat umum secara luas. Berita ini belum menjelaskan apakah penambahan kapasitas sebesar ini sifatnya sementara hanya selama acara atau akan jadi infrastruktur permanen yang dipakai Mandalika untuk kegiatan lain setelah MotoGP usai. Yang masih kurang untuk membaca arahnya adalah apakah Telkom akan mengumumkan rencana investasi jaringan permanen di kawasan itu, atau apakah pola serupa bakal diulang untuk ajang internasional lain yang digelar di Indonesia.",
+  "imageV": "mv4vw9t7"
+ },
+ {
   "slug": "cani-ungkap-rencana-konversi-utang-us-36-6-juta-ke-ekuitas",
   "category": "Aksi Korporasi",
   "title": "CANI Ungkap Rencana Konversi Utang [US$36,6 Juta] ke Ekuitas",

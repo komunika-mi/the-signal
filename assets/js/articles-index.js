@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppre-realisasi-capex-obligasi-baru-39-sisa-dana-rp61-3-m",
+  "category": "Aksi Korporasi",
+  "title": "PPRE: Realisasi [CAPEX] Obligasi Baru 39%, Sisa Dana Rp61,3 M",
+  "deck": "PT PP Presisi Tbk mengoreksi laporan dana hasil obligasi 2022. Sisa Rp61,34 miliar masih disimpan di bank afiliasi, target terpakai habis Juni 2027.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRE",
+   "obligasi korporasi",
+   "penggunaan dana",
+   "PP Presisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c9ba1d7045_9ef8c1c04a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aims-jawab-permintaan-bei-ungkap-kontrak-trading-batu-bara-baru",
+  "category": "Aksi Korporasi",
+  "title": "AIMS Jawab Permintaan BEI, Ungkap [Kontrak] Trading Batu Bara Baru",
+  "deck": "AIMS menjawab permintaan penjelasan BEI dengan mengungkap satu kontrak trading batu bara baru yang masih berjalan dan akan dicatat pada laporan keuangan kuartal III 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AIMS",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6b18ed3956_dd43ac2698.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "post-ajukan-penundaan-bayar-bunga-sukuk-rp24-12-miliar",
+  "category": "Aksi Korporasi",
+  "title": "POST Ajukan Penundaan Bayar [Bunga] Sukuk Rp24,12 Miliar",
+  "deck": "Pos Indonesia (POST) meminta penundaan bunga sukuk ijarah seri A-C tahap ke-7 senilai Rp24,12 miliar yang jatuh tempo 7 Oktober 2026, melanjutkan masalah likuiditas yang telah dilaporkan.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "sukuk",
+   "gagal bayar",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4b7539a636_2fc6a5d895.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbtn-pertahankan-peringkat-aaa-idn-dari-fitch-ratings",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Pertahankan Peringkat [AAA(idn)] dari Fitch Ratings",
+  "deck": "Fitch Ratings mengafirmasi peringkat nasional PT Bank Tabungan Negara dan dua obligasinya tetap di level tertinggi AAA(idn) dengan outlook stabil untuk periode setahun ke depan.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBTN",
+   "Fitch Ratings",
+   "peringkat obligasi",
+   "Bank Tabungan Negara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cff90b6b23_b343301f4c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nine-rencanakan-rights-issue-hingga-2-44-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "NINE Rencanakan [Rights Issue] hingga 2,44 Miliar Saham Baru",
+  "deck": "Techno9 Indonesia (NINE) akan menerbitkan sebanyak-banyaknya 2,44 miliar saham baru lewat rights issue untuk modal kerja dan bayar utang, menunggu persetujuan RUPSLB 18 November 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NINE",
+   "rights issue",
+   "PMHMETD",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e18e942df_b905988bff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nine-jadwalkan-rupslb-18-november-cum-date-26-oktober",
+  "category": "Aksi Korporasi",
+  "title": "NINE Jadwalkan [RUPSLB] 18 November, Cum Date 26 Oktober",
+  "deck": "Techno9 Indonesia menjadwalkan RUPSLB pada 18 November 2026, dengan pemegang saham per 26 Oktober 2026 berhak hadir, dan usul agenda rapat ditutup 20 Oktober 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NINE",
+   "RUPSLB",
+   "rights issue",
+   "Techno9 Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c2f5651c0_cae8be8466.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oasa-direksi-jual-11-4-juta-saham-lewat-pasar",
+  "category": "Aksi Korporasi",
+  "title": "OASA: Direksi [Jual] 11,4 Juta Saham Lewat Pasar",
+  "deck": "Direktur OASA, Ir. Gafur Sulistyo Umar, melepas 11,4 juta saham secara tidak langsung senilai sekitar Rp2,57 miliar untuk realokasi investasi.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OASA",
+   "Maharaksa Biru Energi",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-9763-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oasa-direksi-jual-22-8-juta-saham-senilai-rp5-miliar",
+  "category": "Aksi Korporasi",
+  "title": "OASA: Direksi [Jual] 22,8 Juta Saham Senilai Rp5 Miliar",
+  "deck": "Direktur Gafur Sulistyo Umar melepas 22,8 juta saham OASA pada 8 Oktober 2026 seharga Rp220 per saham, hak suaranya turun dari 31,65% jadi 31,29%.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OASA",
+   "Maharaksa Biru Energi",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-2795-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "myoh-lewati-tenggat-refloat-saham-trja-baru-300-lembar",
+  "category": "Aksi Korporasi",
+  "title": "MYOH Lewati Tenggat [Refloat] Saham TRJA, Baru 300 Lembar",
+  "deck": "Dua tahun setelah tender wajib, MYOH baru melepas 300 dari 57,48 juta lembar saham TRJA yang wajib dijual kembali ke publik; tenggat Februari 2026 sudah lewat.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MYOH",
+   "TRJA",
+   "refloat",
+   "tender offer"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/25c4a64906_9a52089343.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-komisaris-jual-saham-via-repo-suara-tetap-0-11",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Komisaris Jual Saham via [Repo], Suara Tetap 0,11%",
+  "deck": "Komisaris NSSS Djasa Pinara Gusti melepas 412.300 saham lewat repurchase agreement pada 5 Oktober 2026, senilai sekitar Rp301,4 juta.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "komisaris",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-3911-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-rinci-alokasi-rp92-miliar-sisa-dana-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "CASH Rinci Alokasi [Rp92 Miliar] Sisa Dana Rights Issue",
+  "deck": "Dalam Public Expose Tahunan, manajemen Cashlez merinci alokasi sisa dana rights issue Rp92 miliar dan memastikan tidak ada aksi korporasi dengan PT BAU meski kantor kini sealamat.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "Rights Issue",
+   "Public Expose",
+   "Cashlez"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d46cb0bbc_ddd3df0afa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jecx-direksi-johan-hutauruk-beli-10-000-saham",
   "category": "Aksi Korporasi",
   "title": "[JECX] Direksi Johan Hutauruk Beli 10.000 Saham",
@@ -98,6 +274,38 @@ var ARTICLES = [
    "emiten sawit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/705f4f1fb5_2330f1e13d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tcpi-cgs-international-tambah-saham-lewat-repo-ke-6-89",
+  "category": "Aksi Korporasi",
+  "title": "TCPI: CGS International Tambah Saham Lewat [REPO] ke 6,89%",
+  "deck": "CGS International Sekuritas Indonesia menambah 45 juta lembar saham TCPI sebagai jaminan REPO senilai Rp445,5 miliar, hak suara naik ke 6,89%.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TCPI",
+   "kepemilikan saham",
+   "REPO",
+   "CGS International"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-6628-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-direksi-tambah-saham-1-4-juta-lembar-lewat-pembelian",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi [Tambah] Saham 1,4 Juta Lembar Lewat Pembelian",
+  "deck": "Direksi CYBR, Patrick Rudolf Dannacher, menambah kepemilikan 1,4 juta lembar saham lewat serangkaian pembelian tidak langsung pada 6-9 Oktober 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "kepemilikan saham",
+   "direksi",
+   "ITSEC Asia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-0898-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -196,6 +404,22 @@ var ARTICLES = [
    "penggunaan dana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9bb9af4d14_9b5275e51f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "srtg-edwin-soeryadjaya-beli-415-000-saham-tambahan",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Edwin Soeryadjaya Beli [415.000] Saham Tambahan",
+  "deck": "Komisaris SRTG Edwin Soeryadjaya membeli 415.000 saham pada 8-9 Oktober 2026, melanjutkan pembelian serupa yang dilaporkan pekan sebelumnya.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "Edwin Soeryadjaya",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-7198-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6241,235 +6465,6 @@ var ARTICLES = [
    "tata kelola perusahaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/809b0e2684_33cd3ea4b0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtel-rombak-komite-audit-satu-anggota-mundur",
-  "category": "Aksi Korporasi",
-  "title": "MTEL Rombak Komite Audit, Satu Anggota [Mundur]",
-  "deck": "Mitratel mengubah susunan Komite Audit efektif 30 September 2026. Satu anggota mundur tanpa pengganti, komite menyusut dari empat menjadi tiga orang.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTEL",
-   "Komite Audit",
-   "Tata Kelola Perusahaan",
-   "Mitratel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0cd342d10a_c79e194c6c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-direksi-george-oetomo-tambah-50-000-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Direksi George Oetomo [Tambah] 50.000 Saham Lagi",
-  "deck": "Direksi TAPG, George Oetomo, menambah kepemilikan 50.000 saham lewat transaksi repurchase agreement senilai Rp1.900 per saham, transaksi ketiganya dalam sepekan terakhir.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "Triputra Agro Persada",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-0374-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-mandiri-bagikan-59-080-paket-sembako-di-hut-ke-28",
-  "category": "Perbankan",
-  "title": "Bank Mandiri Bagikan [59.080] Paket Sembako di HUT ke-28",
-  "deck": "Merayakan HUT ke-28, Bank Mandiri menyalurkan santunan ke 2.800 anak yatim piatu dan 59.080 paket sembako lewat program TJSL Mandiri untuk Negeri di berbagai wilayah Indonesia.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/bank-mandiri-bagikan-59-080-paket-sembako-di-hut-ke-28.jpg",
-  "imageV": "muxprslh",
-  "tags": [
-   "bank mandiri",
-   "tjsl",
-   "csr perbankan",
-   "hut bank mandiri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471260-genap-28-tahun-bukti-komitmen-bank-mandiri-tumbuh-bersama-majukan-indonesia"
- },
- {
-  "slug": "hut-ke-28-bank-mandiri-bagikan-bantuan-ke-berbagai-daerah",
-  "category": "Perbankan",
-  "title": "HUT ke-28 Bank Mandiri [Bagikan] Bantuan ke Berbagai Daerah",
-  "deck": "Bank Mandiri menandai HUT ke-28 dengan menyalurkan santunan ke 2.800 anak yatim piatu dan 59.080 paket sembako lewat 2.110 cabang di seluruh Indonesia, disertai donor darah.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/hut-ke-28-bank-mandiri-bagikan-bantuan-ke-berbagai-daerah.jpg",
-  "imageV": "muutq7a0",
-  "tags": [
-   "bank mandiri",
-   "TJSL",
-   "kegiatan sosial",
-   "HUT bank mandiri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471260-28-tahun-bank-mandiri-hadir-dan-berbagi-manfaat-untuk-masyarakat"
- },
- {
-  "slug": "pssi-tambah-enam-kapal-baru-armada-jadi-53-unit",
-  "category": "Aksi Korporasi",
-  "title": "PSSI Tambah [Enam] Kapal Baru, Armada Jadi 53 Unit",
-  "deck": "IMC Pelita Logistik menambah dua kapal tunda dan empat tongkang baru buatan Batam untuk memperkuat armada angkutan dry bulk.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "IMC Pelita Logistik",
-   "pelayaran",
-   "dry bulk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/42dae40a29_ef75dbed70.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asdf-siapkan-rp304-5-miliar-untuk-lunasi-obligasi-4-november",
-  "category": "Aksi Korporasi",
-  "title": "ASDF Siapkan [Rp304,5 Miliar] untuk Lunasi Obligasi 4 November",
-  "deck": "Astra Sedaya Finance (ASDF) menyatakan sudah menyiapkan dana Rp304,5 miliar untuk melunasi pokok dan kupon Obligasi Berkelanjutan VII Tahap II Seri A yang jatuh tempo 4 November 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASDF",
-   "obligasi",
-   "Astra Sedaya Finance",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/10231e08e3_a023259500.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pkpk-direksi-tambah-kepemilikan-saham-47-100-lembar",
-  "category": "Aksi Korporasi",
-  "title": "PKPK: Direksi Tambah Kepemilikan Saham [47.100] Lembar",
-  "deck": "Direktur Haryanto Sofian menambah kepemilikan saham PKPK sebanyak 47.100 lembar seharga Rp5.900 per saham, menaikkan hak suaranya dari 0,23% menjadi 0,24%.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PKPK",
-   "kepemilikan saham",
-   "direksi",
-   "insider"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7342-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bafi-terbitkan-obligasi-dan-sukuk-tahap-ii-senilai-rp902-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BAFI Terbitkan Obligasi dan Sukuk Tahap II Senilai [Rp902 Miliar]",
-  "deck": "BAFI merevisi informasi tambahan penawaran Obligasi Berkelanjutan IV dan Sukuk Mudharabah II tahap II senilai Rp902,26 miliar, dengan rating AAA dari Fitch dan Pefindo.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAFI",
-   "obligasi",
-   "sukuk mudharabah",
-   "multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cd9839c50a_3fc3fef3bc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dana-pemulihan-bencana-sumut-dipercepat-rp4-82-triliun",
-  "category": "Makroekonomi",
-  "title": "Dana Pemulihan Bencana Sumut [Dipercepat] Rp4,82 Triliun",
-  "deck": "Realisasi APBN Sumatera Utara sampai Agustus 2026 tumbuh dua digit, dengan dana tambahan pemulihan bencana Rp4,82 triliun sudah disalurkan ke kas daerah lewat aturan relaksasi baru.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/dana-pemulihan-bencana-sumut-dipercepat-rp4-82-triliun.jpg",
-  "imageV": "muuofu3i",
-  "tags": [
-   "APBN",
-   "Sumatera Utara",
-   "Transfer ke Daerah",
-   "Pemulihan Bencana"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kinerja-apbn-di-provinsi-sumatera-utara-sampai-dengan-31-agustus-2026",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "bni-hormati-proses-hukum-dana-pascatambang-koba-tin",
-  "category": "Perbankan",
-  "title": "BNI [Hormati] Proses Hukum Dana Pascatambang Koba Tin",
-  "deck": "BNI menyatakan kooperatif dengan aparat hukum soal dana jaminan pascatambang PT Koba Tin yang kini dalam status pailit.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/bni-hormati-proses-hukum-dana-pascatambang-koba-tin.jpg",
-  "imageV": "muutq7oh",
-  "tags": [
-   "BNI",
-   "PT Koba Tin",
-   "dana pascatambang",
-   "pailit"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471246-bni-hormati-proses-hukum-terkait-dana-jaminan-pascatambang-pt-koba-tin-dalam-pailit"
- },
- {
-  "slug": "dewa-rombak-dua-anggota-komite-audit-efektif-1-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "DEWA Rombak Dua Anggota [Komite Audit], Efektif 1 Oktober 2026",
-  "deck": "Komite Audit Darma Henwa mengganti dua dari tiga anggotanya, menyisakan Agus Suharyono sebagai ketua, menyusul keputusan Dewan Komisaris yang berlaku sejak 1 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWA",
-   "Komite Audit",
-   "Tata Kelola Perusahaan",
-   "Darma Henwa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8899a098f5_642af4dcc3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nick-jawab-bursa-soal-arus-kas-negatif-imbas-konsolidasi",
-  "category": "Aksi Korporasi",
-  "title": "NICK Jawab Bursa Soal [Arus Kas] Negatif Imbas Konsolidasi",
-  "deck": "NICK merinci ke Bursa kenapa penerimaan dari pelanggan di laporan arus kas Juni 2026 negatif Rp2,03 miliar, imbas konsolidasi dua anak usaha baru, Energindo Nusantara dan Okansa Pacific.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICK",
-   "Charnic Capital",
-   "arus kas",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f98a987e7d_755ad5002e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-victoria-investama-lepas-63-juta-saham-lagi-suara-7-36",
-  "category": "Aksi Korporasi",
-  "title": "BIPP: Victoria Investama [Lepas] 63 Juta Saham Lagi, Suara 7,36%",
-  "deck": "Victoria Investama Tbk melepas 63 juta saham BIPP pada 2 Oktober 2026 seharga Rp60 per saham, hak suaranya turun dari 8,62% menjadi 7,36%.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "Victoria Investama",
-   "kepemilikan saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-6724-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppri-direksi-jual-3-juta-saham-seharga-rp148",
-  "category": "Aksi Korporasi",
-  "title": "PPRI: Direksi [Jual] 3 Juta Saham Seharga Rp148",
-  "deck": "Direksi Irsyad Hanif melepas 3 juta saham PPRI pada 1 Oktober 2026 dengan tujuan divestasi, menurunkan hak suaranya dari 14,29% menjadi 14,01%.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRI",
-   "kepemilikan saham",
-   "direksi",
-   "insider trading"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-6462-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

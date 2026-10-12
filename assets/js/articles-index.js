@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cani-ungkap-rencana-konversi-utang-us-36-6-juta-ke-ekuitas",
+  "category": "Aksi Korporasi",
+  "title": "CANI Ungkap Rencana Konversi Utang [US$36,6 Juta] ke Ekuitas",
+  "deck": "Dalam Public Expose Insidentil 9 Oktober, manajemen CANI merinci rencana mengonversi utang pihak berelasi US$36,6 juta menjadi ekuitas tanpa menambah saham baru.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CANI",
+   "public expose",
+   "konversi utang",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8460f2c0a5_87c5a6a5f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pdpp-komisaris-lim-kim-guan-mundur-dari-primadaya-plastisindo",
+  "category": "Aksi Korporasi",
+  "title": "PDPP: [Komisaris] Lim Kim Guan Mundur dari Primadaya Plastisindo",
+  "deck": "Komisaris Lim Kim Guan mengundurkan diri dari PT Primadaya Plastisindo Tbk lewat surat tertanggal 8 Oktober 2026, perseroan sebut tidak ada dampak material.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PDPP",
+   "komisaris",
+   "pengunduran diri",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b50698ac88_be1a37b1ff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-akuisisi-45-saham-tambang-batu-bara-lewat-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "BIKE [Akuisisi] 45% Saham Tambang Batu Bara Lewat Anak Usaha",
+  "deck": "Anak usaha BIKE, PT Prambanan Nusantara Energi, mengambil 45 persen saham PT Sumber Bara Abadi yang mengelola tambang batu bara 4.909 hektare di Kalimantan Timur.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi tambang",
+   "batu bara",
+   "Prambanan Nusantara Energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d1f44ba077_e3490b490b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-pura-melonjak-10-53-emiten-akui-tak-ada-info-baru",
+  "category": "Aksi Korporasi",
+  "title": "Saham PURA [Melonjak] 10,53%, Emiten Akui Tak Ada Info Baru",
+  "deck": "BEI meminta penjelasan atas lonjakan volume dan harga saham PURA pada 8 Oktober 2026. Perseroan menjawab tidak ada informasi material yang belum diungkapkan ke publik.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PURA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "lonjakan harga saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/883e182968_7f85929385.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bltz-gelar-public-expose-insidentil-usai-saham-disuspensi",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ Gelar Public Expose [Insidentil] usai Saham Disuspensi",
+  "deck": "BEI meminta BLTZ menggelar paparan publik insidentil Rabu, 14 Oktober 2026, usai saham perseroan disuspensi, menyusul laporan sebelumnya yang menyebut tak ada informasi material baru.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLTZ",
+   "suspensi saham",
+   "public expose",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d55b16cb4d_252f58118b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inci-jawab-permintaan-bei-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "INCI Jawab Permintaan BEI soal [Volatilitas] Sahamnya",
+  "deck": "Intanwijaya Internasional (INCI) menjawab permintaan BEI soal volatilitas sahamnya, menegaskan transaksi murni pasar tanpa rencana aksi korporasi dalam tiga bulan mendatang.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INCI",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/51620ba6bb_0b4588a33e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "peve-pastikan-tak-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "PEVE Pastikan Tak Ada [Informasi Material] di Balik Volatilitas Saham",
+  "deck": "Menjawab surat BEI soal volatilitas transaksi sahamnya, manajemen PT Penta Valent Tbk menyatakan tidak ada informasi material maupun rencana aksi korporasi dalam tiga bulan mendatang.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PEVE",
+   "Penta Valent",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bb8805902c_4a23bf3e23.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "auto-tender-offer-asii-rp3-600-saham-dinyatakan-efektif",
+  "category": "Aksi Korporasi",
+  "title": "AUTO: Tender Offer ASII Rp3.600/Saham Dinyatakan [Efektif]",
+  "deck": "ASII memastikan rencana membeli hingga 238,4 juta saham AUTO senilai Rp3.600 per saham, bisa menaikkan kepemilikannya ke maksimal 84,95 persen.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AUTO",
+   "ASII",
+   "tender offer",
+   "Astra Otoparts"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/30d2103012_e059231e54.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "medc-akuisisi-10-hak-partisipasi-psc-kutai-dari-eni",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Akuisisi [10%] Hak Partisipasi PSC Kutai dari Eni",
+  "deck": "MedcoEnergi sepakat membeli 10% hak partisipasi non-operator di empat PSC Cekungan Kutai dari Eni S.p.A., termasuk penemuan gas raksasa Geliga.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "akuisisi",
+   "migas",
+   "Eni"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4992c53281_fca1d4118e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bjlb01-pengelola-eba-gabung-jadi-danareksa-investment-management",
+  "category": "Aksi Korporasi",
+  "title": "BJLB01: Pengelola EBA Gabung, Jadi [Danareksa] Investment Management",
+  "deck": "Penggabungan BNI AM, BRI MI, dan PNM IM ke Mandiri Manajemen Investasi efektif 1 Oktober 2026, lalu berganti nama jadi Danareksa Investment Management Indonesia, pengelola EBA Syariah BJLB01.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BJLB01",
+   "Danareksa Investment Management",
+   "merger manajer investasi",
+   "EBA Syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2077b704b5_8d506f9b09.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkomsel-perkuat-jaringan-untuk-motogp-mandalika-2026",
   "category": "Teknologi",
   "title": "Telkomsel [Perkuat] Jaringan untuk MotoGP Mandalika 2026",
@@ -6310,169 +6470,6 @@ var ARTICLES = [
    "pendanaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5272c31669_34906402e6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "g20-tolak-jadikan-pangan-alat-tekanan-geopolitik",
-  "category": "Global",
-  "title": "G20 [Tolak] Jadikan Pangan Alat Tekanan Geopolitik",
-  "deck": "Menteri Perdagangan G20 di Milwaukee menolak pangan sebagai alat tekanan geopolitik, sekaligus membahas kelebihan kapasitas industri, kerja paksa, dan prinsip tarif WTO.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/g20-tolak-jadikan-pangan-alat-tekanan-geopolitik.jpg",
-  "imageV": "mur6yyip",
-  "tags": [
-   "G20",
-   "Kemendag",
-   "I-EU CEPA",
-   "Kerja Paksa"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/menteri-perdagangan-g20-tolak-penggunaan-pangan-sebagai-instrumen-tekanan-geopolitik",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "epac-terima-pinjaman-afiliasi-rp3-7-miliar-dari-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "EPAC Terima Pinjaman [Afiliasi] Rp3,7 Miliar dari Pengendali",
-  "deck": "EPAC mendapat pinjaman Rp3,7 miliar dari pemegang saham pengendali untuk melunasi utang bank, berbunga 10 persen per tahun tanpa batas waktu jatuh tempo.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EPAC",
-   "transaksi afiliasi",
-   "pinjaman pemegang saham",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/852e4d7b78_9cc883c771.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-terbitkan-obligasi-rp500-miliar-tahap-v-bunga-9-10",
-  "category": "Aksi Korporasi",
-  "title": "ENRG Terbitkan [Obligasi] Rp500 Miliar Tahap V, Bunga 9-10%",
-  "deck": "Energi Mega Persada menawarkan obligasi tahap V senilai Rp500 miliar dengan bunga 9-10 persen per tahun, bagian dari program obligasi berkelanjutan Rp4 triliun.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "obligasi",
-   "pasar modal",
-   "Energi Mega Persada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/67daa03ed6_bb37876d99.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdka-umumkan-transaksi-afiliasi-jasa-konstruksi-tambang-pani",
-  "category": "Aksi Korporasi",
-  "title": "MDKA Umumkan Transaksi [Afiliasi] Jasa Konstruksi Tambang Pani",
-  "deck": "Anak usaha MDKA, Merdeka Mining Servis, meneken perjanjian jasa konstruksi dengan tiga perusahaan terkendali lain untuk pengembangan Tambang Emas Pani, dinilai wajar oleh penilai independen.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDKA",
-   "Transaksi Afiliasi",
-   "Tambang Emas Pani",
-   "Merdeka Copper Gold"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6877368ca0_7634f5c477.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tlkm-tawarkan-buyback-rp2-290-ke-penolak-spin-off-fiber",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Tawarkan [Buyback] Rp2.290 ke Penolak Spin-off Fiber",
-  "deck": "Telkom membuka pembelian kembali saham bagi pemegang saham yang menolak pemisahan segmen fiber ke anak usaha, dengan harga Rp2.290 per saham dan tenggat pengajuan 5 Oktober 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "buyback saham",
-   "spin-off fiber",
-   "Telkom Infrastruktur Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/def96e9f56_0336c30cbc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btpn-merger-oto-ke-summit-oto-finance-resmi-berlaku",
-  "category": "Aksi Korporasi",
-  "title": "BTPN: Merger [OTO] ke Summit Oto Finance Resmi Berlaku",
-  "deck": "Bank SMBC Indonesia (BTPN) mengonfirmasi penggabungan anak usaha pembiayaan PT Oto Multiartha ke PT Summit Oto Finance resmi efektif sejak 1 Oktober 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPN",
-   "merger anak usaha",
-   "Summit Oto Finance",
-   "Oto Multiartha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63efd98fee_2ed72ad015.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lima-tahun-merger-pelindo-klaim-produktivitas-naik-70",
-  "category": "BUMN",
-  "title": "Lima Tahun Merger, Pelindo Klaim Produktivitas Naik [70%]",
-  "deck": "Lima tahun setelah merger, Pelindo Terminal Petikemas mengklaim produktivitas naik lebih dari 70 persen dan waktu kapal bersandar berkurang di 32 terminal.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/lima-tahun-merger-pelindo-klaim-produktivitas-naik-70.jpg",
-  "imageV": "mur6yzcy",
-  "tags": [
-   "Pelindo",
-   "Pelabuhan",
-   "Logistik",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470859-lima-tahun-merger-pelindo-standardisasi-jadi-kunci-efisiensi"
- },
- {
-  "slug": "kija-rogoh-rp340-9-m-kuasai-51-seafer-di-kendal",
-  "category": "Aksi Korporasi",
-  "title": "KIJA Rogoh Rp340,9 M, Kuasai 51% [Seafer] di Kendal",
-  "deck": "Entitas anak KIJA, PT Indocargomas Persada, mengambilalih 51% saham PT Kawasan Industri Seafer senilai Rp340,86 miliar, menguasai land bank 500,24 hektar di Kendal, Jawa Tengah.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KIJA",
-   "akuisisi",
-   "kawasan industri",
-   "Kendal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/31e6ac7d86_71d067108c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "emas-teken-transaksi-afiliasi-untuk-tambang-emas-pani",
-  "category": "Aksi Korporasi",
-  "title": "EMAS Teken Transaksi [Afiliasi] untuk Tambang Emas Pani",
-  "deck": "Merdeka Mining Servis, anak usaha PT Merdeka Gold Resources Tbk, meneken perjanjian jasa dengan tiga perusahaan terkendali untuk pengembangan Tambang Emas Pani, efektif 30 September 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "Tambang Emas Pani",
-   "Transaksi Afiliasi",
-   "Merdeka Mining Servis"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d222ac7679_694d950db5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tlkm-ganti-kepala-unit-audit-internal-umar-syahid-diganti-deni",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Ganti [Kepala] Unit Audit Internal, Umar Syahid Diganti Deni",
-  "deck": "Telkom menunjuk Deni Ratno Tama sebagai Kepala Unit Audit Internal baru menggantikan Umar Syahid yang sebelumnya menjabat sementara, efektif 1 Oktober 2026.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "audit internal",
-   "tata kelola perusahaan",
-   "Telkom"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4fe66b4ab1_0ec68201be.pdf",
   "sourceLabel": "IDX"
  }
 ];

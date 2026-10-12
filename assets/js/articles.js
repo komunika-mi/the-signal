@@ -3,6 +3,266 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cani-ungkap-rencana-konversi-utang-us-36-6-juta-ke-ekuitas",
+  "category": "Aksi Korporasi",
+  "title": "CANI Ungkap Rencana Konversi Utang [US$36,6 Juta] ke Ekuitas",
+  "deck": "Dalam Public Expose Insidentil 9 Oktober, manajemen CANI merinci rencana mengonversi utang pihak berelasi US$36,6 juta menjadi ekuitas tanpa menambah saham baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T11:52:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8460f2c0a5_87c5a6a5f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CANI",
+  "tags": [
+   "CANI",
+   "public expose",
+   "konversi utang",
+   "suspensi saham"
+  ],
+  "body": [
+   "PT Capitol Nusantara Indonesia Tbk (CANI) melaporkan hasil Public Expose Insidentil yang digelar Jumat, 9 Oktober 2026, pukul 10.15 sampai 10.55 WIB melalui aplikasi Zoom. Acara ini dihadiri 12 orang termasuk manajemen, dengan 8 peserta dari luar perusahaan yang terdiri dari investor, wartawan pasar modal, dan undangan lain. Manajemen yang hadir adalah Komisaris Independen Jansen O.R. Warokka, Direktur Yanuar C. Wijaya, dan Corporate Secretary Riduwan Kosasih.",
+   "Dalam sesi tanya jawab, manajemen mengonfirmasi bahwa Perseroan berencana mengonversi utang kepada pihak berelasi senilai sekitar US$36,6 juta menjadi ekuitas. Skema yang dipilih adalah instrumen perpetual sekuritas, bukan lewat rights issue atau HMETD, sehingga tidak ada penerbitan saham baru dan porsi kepemilikan baik pemegang saham pengendali maupun publik tetap sama. Perseroan masih berkonsultasi dengan Otoritas Jasa Keuangan untuk rencana aksi korporasi ini, dan akan meminta pendapat akuntan publik mengenai pengklasifikasian instrumen tersebut sebagai ekuitas.",
+   "Target Perseroan adalah proses konversi ini selesai pada akhir tahun 2026, sehingga ekuitas perusahaan yang saat ini masih negatif bisa berbalik positif pada tahun 2027. Manajemen menyebut pencapaian ekuitas positif ini sebagai syarat utama agar suspensi perdagangan saham CANI bisa dicabut. Soal armada kapal, manajemen menjelaskan bahwa kapal yang dijual saat ini adalah kapal tidak produktif, karena biaya untuk mengaktifkannya kembali lebih tinggi dari nilai ekonomis yang bisa diharapkan, sekaligus mengurangi beban penyusutan. Perseroan menargetkan penambahan unit kapal baru pada 2028 sesuai permintaan pasar, dan saat ini sedang menjajaki kontrak jangka panjang dengan calon penyewa kapal.",
+   "Manajemen juga menjelaskan mengapa arus kas operasi bisa positif meski laba kotor masih merugi, yakni karena kinerja kas selama satu tahun buku terakhir berasal dari penerimaan kas pelanggan, pembayaran ke pemasok dan karyawan, pembayaran pajak, serta pendapatan bunga. Perseroan menyampaikan lima langkah peta jalan pemulihan, yaitu restrukturisasi neraca, menstabilkan operasional menuju profitabilitas, optimalisasi kapal untuk menurunkan beban operasional, mengatasi suspensi saham, dan menjaga likuiditas untuk pertumbuhan."
+  ],
+  "fotoAdegan": "Rusting cargo vessel anchored near a harbor with a tugboat alongside, overcast sky, workers checking mooring lines on deck",
+  "takeaway": "Laporan ini netral bagi CANI karena rencananya menyasar inti masalah perusahaan, yakni ekuitas yang masih negatif, tetapi semuanya baru sebatas rencana yang menunggu restu Otoritas Jasa Keuangan, pendapat akuntan publik, dan persetujuan kreditor terafiliasi. Pos yang tersentuh adalah ekuitas, karena jika konversi utang US$36,6 juta ini terealisasi, modal perusahaan yang sempat defisit bisa berbalik positif, sementara arus kas operasi disinggung manajemen untuk menjelaskan kenapa kas bisa positif walau laba kotor masih merugi, yaitu karena uang dari pelanggan tetap masuk sementara beban ke pemasok dan karyawan dibayar dari kas itu. Jumlah saham beredar ikut relevan karena skema yang dipilih, instrumen perpetual sekuritas, tidak menerbitkan saham baru sehingga porsi kepemilikan publik dan pengendali tidak tergerus seperti bila lewat rights issue. Yang perlu dipantau berikutnya adalah target Perseroan menyelesaikan konversi ini pada akhir tahun 2026 agar ekuitas kembali positif pada 2027, karena itulah syarat yang disebut manajemen sebagai pintu bagi pencabutan suspensi perdagangan sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pdpp-komisaris-lim-kim-guan-mundur-dari-primadaya-plastisindo",
+  "category": "Aksi Korporasi",
+  "title": "PDPP: [Komisaris] Lim Kim Guan Mundur dari Primadaya Plastisindo",
+  "deck": "Komisaris Lim Kim Guan mengundurkan diri dari PT Primadaya Plastisindo Tbk lewat surat tertanggal 8 Oktober 2026, perseroan sebut tidak ada dampak material.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T11:17:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b50698ac88_be1a37b1ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PDPP",
+  "tags": [
+   "PDPP",
+   "komisaris",
+   "pengunduran diri",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Primadaya Plastisindo Tbk (PDPP), emiten yang bergerak di industri barang dari plastik untuk pengemasan, menyampaikan keterbukaan informasi bahwa Lim Kim Guan mengundurkan diri dari jabatannya sebagai Komisaris Perseroan. Surat pengunduran diri tersebut tertanggal 8 Oktober 2026, dan laporan ke Bursa Efek Indonesia disampaikan oleh Direktur Utama Kennie Angesty pada 12 Oktober 2026 pukul 11.17 WIB, bernomor 314/SK/PDPP-HO/X/2026.",
+   "Perseroan menyatakan pelaporan ini dilakukan untuk memenuhi Pasal 9 juncto Pasal 27 Peraturan Otoritas Jasa Keuangan Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik, yang mewajibkan keterbukaan setiap pergantian anggota direksi maupun dewan komisaris. Dokumen tidak menyebutkan alasan pengunduran diri Lim Kim Guan maupun nama pengganti yang akan mengisi posisi tersebut. Dalam pernyataannya, manajemen menegaskan bahwa kejadian ini tidak berdampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha Perseroan."
+  ],
+  "fotoAdegan": "Workers inspecting rolls of plastic packaging film on an industrial production line, overcast factory lighting",
+  "takeaway": "Laporan ini netral bagi Primadaya Plastisindo, karena mundurnya satu komisaris tanpa disertai alasan atau indikasi masalah keuangan tidak serta merta mengubah arah bisnis perusahaan kemasan plastik ini. Yang tersentuh di sini bukan laporan keuangan, melainkan susunan dewan komisaris, yaitu organ yang bertugas mengawasi kerja direksi dan memastikan perusahaan dikelola sesuai aturan, sehingga pelaku pasar tetap mencermati siapa yang akan mengisi kekosongan ini agar fungsi pengawasan tidak timpang. Sesuai POJK 33/2014 yang dikutip dalam surat ini, Perseroan wajib menindaklanjuti pengunduran diri tersebut melalui mekanisme RUPS, sehingga yang perlu dipantau selanjutnya adalah jadwal RUPS tersebut dan nama calon pengganti Lim Kim Guan di jajaran komisaris.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bike-akuisisi-45-saham-tambang-batu-bara-lewat-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "BIKE [Akuisisi] 45% Saham Tambang Batu Bara Lewat Anak Usaha",
+  "deck": "Anak usaha BIKE, PT Prambanan Nusantara Energi, mengambil 45 persen saham PT Sumber Bara Abadi yang mengelola tambang batu bara 4.909 hektare di Kalimantan Timur.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T11:03:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d1f44ba077_e3490b490b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi tambang",
+   "batu bara",
+   "Prambanan Nusantara Energi"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mengumumkan bahwa anak usahanya, PT Prambanan Nusantara Energi (PNE), resmi mengakuisisi 45 persen saham PT Sumber Bara Abadi (SBA) pada 8 Oktober 2026. SBA memegang Izin Usaha Pertambangan (IUP) Operasi Produksi dengan nomor SK 64/1/IUP/PMA/2017, yaitu izin yang membolehkan perusahaan menambang dan menjual batu bara secara komersial, bukan sekadar mengeksplorasi. Area tambangnya mencakup 4.909 hektare di Kecamatan Sebulu dan Muara Kaman, Kabupaten Kutai Kartanegara, Kalimantan Timur, dengan salah satu lokasi kegiatan di Desa Manunggal Daya, Sebulu.",
+   "BIKE menyebut cadangan batu bara di lahan tersebut sekitar 86 juta metrik ton. Perusahaan memproyeksikan pendapatan sebesar US$84 juta dari rata-rata produksi 2 juta metrik ton batu bara per tahun, dan berencana menaikkan produksi menjadi 4 juta metrik ton per tahun mulai 2029. Akuisisi ini juga mencakup aset pendukung milik SBA, yaitu fasilitas pelabuhan, conveyor belt, kantor, dan peralatan operasional lainnya, yang menurut BIKE bisa memperkuat rantai pasok bisnis barunya di sektor tambang.",
+   "Laporan ke Bursa Efek Indonesia ditandatangani Winston Mulyadi selaku Direktur BIKE, sementara surat pemberitahuan yang lebih rinci ditandatangani Muhamad Kuswandi selaku Direktur I, dengan tembusan kepada Eric Kusuma selaku Direktur Utama dan Sendi selaku Komisaris Utama BIKE. Dalam suratnya, BIKE menyebut langkah ini sebagai diversifikasi dari bisnis utamanya di perdagangan alat olahraga dan alat transportasi darat, ke sektor pertambangan batu bara. Nilai transaksi pembelian 45 persen saham SBA tidak disebutkan dalam laporan ini, dan BIKE menyatakan akan menyampaikan informasi lebih lanjut sesuai perkembangan proyek."
+  ],
+  "fotoAdegan": "Aerial view of an open-pit coal mine with haul trucks and excavators working on cleared land, East Kalimantan, overcast sky",
+  "takeaway": "Akuisisi ini condong positif bagi BIKE karena membuka lini pendapatan baru di sektor tambang batu bara yang sudah mengantongi izin produksi resmi dan punya cadangan terukur oleh pemerintah, bukan sekadar rencana di atas kertas, meski porsi 45 persen berarti BIKE belum memegang kendali penuh atas Sumber Bara Abadi. Pos yang tersentuh adalah kas dan laba BIKE ke depan, sebab uang untuk membeli saham ini keluar dari kas perusahaan, sementara nanti untung atau rugi tambang SBA akan ikut masuk ke laporan keuangan BIKE sebesar 45 persen sesuai porsinya. Investor juga perlu mencermati bahwa laporan ini tidak menyebut berapa dana yang dibayar BIKE untuk 45 persen saham tersebut, jadi belum bisa dinilai apakah harganya sepadan dengan cadangan 86 juta metrik ton yang didapat. Yang perlu dipantau selanjutnya adalah realisasi kenaikan produksi dari 2 juta metrik ton menjadi 4 juta metrik ton per tahun mulai 2029, serta keterbukaan lanjutan soal nilai akuisisi yang dijanjikan BIKE menyusul perkembangan proyek ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "saham-pura-melonjak-10-53-emiten-akui-tak-ada-info-baru",
+  "category": "Aksi Korporasi",
+  "title": "Saham PURA [Melonjak] 10,53%, Emiten Akui Tak Ada Info Baru",
+  "deck": "BEI meminta penjelasan atas lonjakan volume dan harga saham PURA pada 8 Oktober 2026. Perseroan menjawab tidak ada informasi material yang belum diungkapkan ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T10:48:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/883e182968_7f85929385.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PURA",
+  "tags": [
+   "PURA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "lonjakan harga saham"
+  ],
+  "body": [
+   "PT Putra Rajawali Kencana Tbk (PURA) memberikan penjelasan kepada Bursa Efek Indonesia menyusul surat permintaan klarifikasi bernomor S-12863/BEI.PP3/10-2026 tanggal 9 Oktober 2026. Surat itu menyoroti lonjakan transaksi saham PURA pada 8 Oktober 2026, di mana volume perdagangan melonjak menjadi 876.031.800 saham dengan frekuensi 19.184 kali, jauh di atas hari bursa sebelumnya yang hanya 62.802.900 saham dengan frekuensi 1.714 kali. Harga saham ditutup naik Rp4 atau 10,53 persen, dari Rp38 menjadi Rp42.",
+   "Dalam jawaban resmi bertanggal 12 Oktober 2026 yang ditandatangani Ratna Hidayati selaku Corporate Secretary, Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik sesuai Peraturan OJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E poin III.2.1. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu yang diatur dalam Peraturan OJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham dan penjaminan saham, serta menegaskan tidak memiliki rencana aksi korporasi yang bisa berdampak pada status pencatatan sahamnya di bursa, setidaknya dalam tiga bulan ke depan.",
+   "Terkait pemegang saham utama, Corporate Secretary menyatakan telah mengonfirmasi langsung bahwa pemegang saham utama tetap bertahan sebagai pengendali Perseroan dan tidak ada perubahan pada pemilik manfaat akhir atau ultimate beneficiary owner (UBO). Perseroan menutup surat dengan menyatakan tidak ada informasi, fakta, atau kejadian penting lain yang material dan belum diungkapkan ke publik hingga saat laporan ini disampaikan."
+  ],
+  "fotoAdegan": "Intercity buses lined up at a terminal in Surabaya at early morning, drivers checking tires and mirrors before departure.",
+  "takeaway": "Catatan ini condong netral bagi fundamental PURA, sebab seluruh jawaban resmi menegaskan tidak ada perubahan apa pun pada bisnis, kepemilikan, atau rencana korporasi, sementara lonjakan harga 10,53 persen dan volume yang melompat dari 62,8 juta ke 876 juta saham dalam sehari tampak murni didorong jual beli jangka pendek tanpa pemicu yang diungkap. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang disebut berubah dalam dokumen ini, jadi investor perlu sadar bahwa lonjakan kali ini tidak dibarengi data fundamental baru yang bisa menjelaskannya, berbeda dari kenaikan harga yang biasanya mengikuti laporan kinerja atau aksi korporasi konkret. Konfirmasi bahwa pemegang saham utama tetap menjadi pengendali dan tidak mengubah pemilik manfaat akhir (UBO) sekadar menegaskan status lama, bukan kabar baru. Yang perlu dipantau selanjutnya adalah apakah pola transaksi serupa berulang pada hari-hari bursa setelah 12 Oktober 2026, serta komitmen Perseroan bahwa tidak ada aksi korporasi yang mengubah status pencatatan sahamnya setidaknya sampai sekitar pertengahan Januari 2027. Kalau rencana itu berubah lebih cepat dari itu, Perseroan wajib mengumumkannya kembali ke bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bltz-gelar-public-expose-insidentil-usai-saham-disuspensi",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ Gelar Public Expose [Insidentil] usai Saham Disuspensi",
+  "deck": "BEI meminta BLTZ menggelar paparan publik insidentil Rabu, 14 Oktober 2026, usai saham perseroan disuspensi, menyusul laporan sebelumnya yang menyebut tak ada informasi material baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T10:48:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d55b16cb4d_252f58118b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLTZ",
+  "tags": [
+   "BLTZ",
+   "suspensi saham",
+   "public expose",
+   "BEI"
+  ],
+  "body": [
+   "PT Graha Layar Prima Tbk (BLTZ), operator bioskop CGV Cinemas, mengumumkan rencana paparan publik insidentil pada Rabu, 14 Oktober 2026 pukul 10.30 WIB, digelar secara virtual lewat Zoom. Rencana ini bukan inisiatif sukarela perseroan, melainkan permintaan langsung Bursa Efek Indonesia (BEI). Perseroan merujuk pada surat BEI Nomor Peng-SPT-00201/BEI.WAS/10-2026 tentang penghentian sementara perdagangan (suspensi) atas saham BLTZ, serta surat BEI tertanggal 6 Oktober 2026 yang meminta pelaksanaan public expose insidentil, berdasarkan Peraturan BEI No. 00015/BEI/01-2021 Pasal III.3 mengenai Kewajiban Keterbukaan Publik Ekspose.",
+   "Agenda paparan mencakup empat hal: perkembangan kinerja dan operasional terkini perseroan beserta anak usahanya, ringkasan laporan keuangan terbaru, rencana usaha ke depan, dan informasi material lain yang belum pernah diumumkan ke publik. Perseroan akan diwakili oleh direksi yang didampingi jajaran manajemen terkait. Pendaftaran via Zoom dibuka 30 menit sebelum acara dimulai dan ditutup begitu sesi berjalan, sementara pertanyaan investor hanya bisa disampaikan lewat kolom chat Zoom selama acara berlangsung.",
+   "Setelah paparan, perseroan wajib menyerahkan dua dokumen susulan ke BEI: materi public expose pada Selasa, 13 Oktober 2026, dan laporan hasil pelaksanaannya pada Kamis, 15 Oktober 2026. Surat pemberitahuan ini ditandatangani oleh Corporate Secretary Yang Cheolung dan ditembuskan kepada Direktur Pengawasan Perilaku Pelaku Jasa Keuangan OJK."
+  ],
+  "fotoAdegan": "Empty multiplex cinema lobby with ticket counters and a concession stand, soft overhead lighting, quiet early morning atmosphere",
+  "takeaway": "Laporan ini condong negatif bagi BLTZ, sebab paparan publik ini bukan langkah sukarela melainkan buntut dari suspensi perdagangan saham oleh BEI, tanda bahwa penjelasan perseroan sebelumnya soal volatilitas saham dinilai otoritas belum cukup. Belum ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang bisa dinilai dari dokumen ini karena ringkasan laporan keuangan baru akan dipaparkan dalam sesi Rabu nanti; yang langsung terdampak sekarang adalah likuiditas saham, karena investor tidak bisa memperjualbelikan BLTZ selama suspensi masih berlaku. Yang perlu dipantau berikutnya adalah jalannya paparan virtual pada Rabu, 14 Oktober 2026 pukul 10.30 WIB, penyerahan materinya ke BEI sehari sebelumnya, laporan hasil paparan pada Kamis, 15 Oktober 2026, serta apakah BEI akan mencabut suspensi setelah rangkaian keterbukaan ini selesai.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inci-jawab-permintaan-bei-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "INCI Jawab Permintaan BEI soal [Volatilitas] Sahamnya",
+  "deck": "Intanwijaya Internasional (INCI) menjawab permintaan BEI soal volatilitas sahamnya, menegaskan transaksi murni pasar tanpa rencana aksi korporasi dalam tiga bulan mendatang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T10:36:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/51620ba6bb_0b4588a33e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INCI",
+  "tags": [
+   "INCI",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Intanwijaya Internasional Tbk (INCI) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia setelah bursa meminta klarifikasi atas volatilitas transaksi saham perseroan melalui surat nomor S-12833/BEI.PP3/10-2026. Jawaban perseroan dikirim lewat surat nomor 1.133/IWI-JKT/E/X/2026 tertanggal 12 Oktober 2026, ditandatangani Direktur Sondy Ardy.",
+   "Dalam surat itu, perseroan menyatakan mengetahui adanya informasi atau fakta yang dapat mempengaruhi nilai efek sesuai aturan POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa I-E, namun menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang belum diungkapkan ke publik di luar itu. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024, dan memastikan seluruh transaksi yang terjadi di pasar murni mekanisme jual beli, tanpa kaitan dengan afiliasi atau pemegang saham pengendali.",
+   "Soal rencana ke depan, perseroan menyatakan tidak ada rencana tindakan korporasi dalam tiga bulan mendatang yang akan berdampak pada status pencatatan sahamnya di bursa. Corporate Secretary juga telah menanyakan langsung kepada pemegang saham utama, dan hasilnya tidak ada rencana transaksi atas kepemilikan saham dari pemegang saham utama maupun afiliasi dalam waktu dekat."
+  ],
+  "fotoAdegan": "Exterior of a chemical processing plant with storage tanks and pipelines under a hazy afternoon sky in an industrial area",
+  "takeaway": "Laporan ini netral bagi fundamental INCI karena isinya konfirmasi kepatuhan, bukan kabar baru soal kinerja atau rencana bisnis yang mengubah nilai perusahaan. Yang disentuh di sini bukan pos laporan keuangan seperti ekuitas atau laba per saham, melainkan struktur kepemilikan dan hak suara, sebab pasar ingin memastikan lonjakan harga saham tidak dipicu pengendali atau afiliasi yang diam-diam melepas atau menambah kepemilikan, dan perseroan memastikan tidak ada kaitan semacam itu. Yang perlu dipantau berikutnya adalah apakah pernyataan 'tidak ada rencana aksi korporasi' ini tetap konsisten sampai sekitar pertengahan Januari 2027, batas tiga bulan yang disebut perseroan sendiri, serta apakah BEI akan meminta penjelasan lanjutan jika volatilitas harga sahamnya berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "peve-pastikan-tak-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "PEVE Pastikan Tak Ada [Informasi Material] di Balik Volatilitas Saham",
+  "deck": "Menjawab surat BEI soal volatilitas transaksi sahamnya, manajemen PT Penta Valent Tbk menyatakan tidak ada informasi material maupun rencana aksi korporasi dalam tiga bulan mendatang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T10:34:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bb8805902c_4a23bf3e23.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PEVE",
+  "tags": [
+   "PEVE",
+   "Penta Valent",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Penta Valent Tbk (PEVE) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-12860/BEI.PP2/10-2026 tertanggal 9 Oktober 2026 terkait volatilitas transaksi efek perseroan. Surat balasan bernomor 12/PV-SK/10/26 ditandatangani Direktur Franxiscus Afat Adinata Nursalim pada 12 Oktober 2026.",
+   "Dalam enam poin jawaban, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/2015 tentang Keterbukaan Informasi maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "Perseroan menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa, serta tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik. Terkait rencana pemegang saham utama, corporate secretary menyatakan telah menanyakan langsung dan jawabannya adalah belum ada rencana apa pun terkait kepemilikan sahamnya di perseroan saat ini."
+  ],
+  "fotoAdegan": "Warehouse workers stacking boxes of pharmaceutical products onto pallets inside a large distribution center, forklift nearby, fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi fundamental PEVE, sebab isinya hanya konfirmasi bahwa tidak ada perkembangan baru, bukan kabar yang mengubah penilaian atas kinerja atau rencana usaha perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh di sini, karena surat ini bukan laporan transaksi melainkan konfirmasi keterbukaan informasi yang diminta bursa setiap kali harga atau volume transaksi saham suatu emiten bergerak tidak biasa. Nilai pentingnya justru pada negasinya, yaitu bursa dan investor ingin memastikan lonjakan atau penurunan harga tidak dipicu informasi orang dalam atau aksi korporasi tersembunyi, dan jawaban perseroan menunjukkan pergerakan harga kemungkinan lebih didorong oleh spekulasi pasar ketimbang perubahan bisnis riil. Yang perlu dipantau selanjutnya adalah apakah pernyataan tidak ada rencana aksi korporasi ini tetap konsisten hingga sekitar awal Januari 2027, batas tiga bulan yang disebut dalam surat, serta apakah bursa akan mengirim permintaan serupa lagi jika volatilitas sahamnya berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "auto-tender-offer-asii-rp3-600-saham-dinyatakan-efektif",
+  "category": "Aksi Korporasi",
+  "title": "AUTO: Tender Offer ASII Rp3.600/Saham Dinyatakan [Efektif]",
+  "deck": "ASII memastikan rencana membeli hingga 238,4 juta saham AUTO senilai Rp3.600 per saham, bisa menaikkan kepemilikannya ke maksimal 84,95 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T10:22:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/30d2103012_e059231e54.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AUTO",
+  "tags": [
+   "AUTO",
+   "ASII",
+   "tender offer",
+   "Astra Otoparts"
+  ],
+  "body": [
+   "Astra Otoparts Tbk (AUTO) melaporkan bahwa pada 12 Oktober 2026 pihaknya menerima pemberitahuan dari PT Astra International Tbk (ASII) bahwa ASII telah mengumumkan Perubahan dan/atau Tambahan Informasi atas Pernyataan Penawaran Tender Sukarela atas saham AUTO. Pengumuman itu dimuat di harian Investor Daily dan Bisnis Indonesia pada tanggal yang sama.",
+   "Dalam dokumen tersebut, ASII berniat membeli sebanyak-banyaknya 238.442.293 saham AUTO, setara sekitar 4,947 persen dari modal ditempatkan dan disetor perusahaan, dengan harga penawaran tender Rp3.600 per saham. Jika seluruh saham yang menjadi objek penawaran ini berhasil diperoleh, kepemilikan ASII di AUTO akan naik dari posisi saat ini 80 persen menjadi maksimal 84,947 persen. Angka-angka ini sama dengan yang sudah diumumkan dalam laporan AUTO No.105/S-Dir/Leg-AOP/VIII/2026 pada 31 Agustus 2026.",
+   "Yang menjadi tambahan baru dalam laporan ini adalah status Pernyataan Penawaran Tender Sukarela yang kini telah dinyatakan efektif oleh OJK, sesuai Peraturan OJK No. 54/POJK.04/2015 tentang Penawaran Tender Sukarela. Rincian jadwal pelaksanaan penawaran tender disebut tercantum dalam dokumen perubahan tersebut. AUTO menyatakan informasi ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Workers inspecting rows of automotive spare parts on a factory assembly line, bright industrial lighting, Indonesia.",
+  "takeaway": "Laporan ini netral bagi fundamental AUTO karena jumlah saham, harga, dan batas kepemilikan ASII sama persis dengan yang sudah diumumkan akhir Agustus 2026, yang berubah hanya statusnya yang kini resmi efektif di OJK. Yang tersentuh bukan pos keuangan seperti ekuitas atau laba per saham, melainkan struktur pemegang saham dan porsi saham publik yang beredar bebas di pasar, sebab dana pembelian mengalir dari ASII ke pemegang saham yang melepas, bukan masuk ke kas AUTO. Kalau penawaran tender ini terserap penuh, porsi saham AUTO yang dipegang publik bisa menyusut dari sekitar 20 persen menjadi sekitar 15 persen, yang berpotensi membuat perdagangan sahamnya lebih tipis. Yang perlu dipantau berikutnya adalah jadwal lengkap pelaksanaan penawaran tender, termasuk periode penawaran dan tanggal pembayaran yang tercantum dalam dokumen perubahan tertanggal 12 Oktober 2026, serta hasil akhir berapa banyak saham publik yang benar-benar dilepas ke ASII.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "medc-akuisisi-10-hak-partisipasi-psc-kutai-dari-eni",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Akuisisi [10%] Hak Partisipasi PSC Kutai dari Eni",
+  "deck": "MedcoEnergi sepakat membeli 10% hak partisipasi non-operator di empat PSC Cekungan Kutai dari Eni S.p.A., termasuk penemuan gas raksasa Geliga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T09:59:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4992c53281_fca1d4118e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "akuisisi",
+   "migas",
+   "Eni"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk (MEDC) menandatangani kesepakatan dengan Eni S.p.A. untuk mengakuisisi hak partisipasi non-operator sebesar 10% di empat Kontrak Bagi Hasil (PSC) di Cekungan Kutai, Kalimantan Timur, yaitu PSC Muara Bakau, Ganal, West Ganal, dan East Ganal. Keempat PSC itu mencakup aset yang sudah berproduksi, proyek pengembangan, dan wilayah eksplorasi, termasuk penemuan gas berskala besar Geliga yang baru-baru ini diumumkan. Keempat PSC tersebut saat ini dioperasikan oleh Searah, perusahaan patungan baru antara Eni dan PETRONAS.",
+   "CEO MedcoEnergi Ronald Gunawan mengatakan transaksi ini melengkapi portofolio perusahaan di Indonesia dan memperluas kehadiran dalam rantai pasokan LNG yang sudah didukung infrastruktur dan operasi yang mapan. Menurut dia, langkah ini memperkuat basis produksi jangka panjang melalui aset yang sudah berproduksi dan proyek pengembangan gas berskala besar, sekaligus membuka potensi eksplorasi lanjutan di Cekungan Kutai yang dinilai prospektif berkat keberhasilan eksplorasi terkini.",
+   "Dokumen keterbukaan tidak menyebutkan nilai transaksi. Perseroan menyatakan transaksi ini baru akan efektif setelah seluruh persyaratan penutupan yang berlaku terpenuhi, termasuk persetujuan dari Pemerintah Indonesia. Dalam laporan ke bursa, MedcoEnergi menyatakan belum ada dampak yang dapat diungkapkan terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha pada tahap ini."
+  ],
+  "fotoAdegan": "An offshore gas production platform with a soft flare stack against an overcast tropical sky, a support vessel anchored nearby",
+  "takeaway": "Laporan ini condong positif bagi MedcoEnergi karena menambah portofolio produksi dan cadangan gas di cekungan yang sedang naik daun, termasuk eksposur ke penemuan besar Geliga, tanpa harus memikul beban sebagai operator proyek. Transaksi semacam ini biasanya memengaruhi arus kas perusahaan, karena MedcoEnergi harus membayar untuk membeli hak partisipasi itu, dan ke depan berpotensi menambah volume produksi serta cadangan migas yang mendukung pendapatan; sayangnya dokumen ini tidak membuka nilai transaksinya sehingga besar dampaknya terhadap kas perusahaan belum bisa diukur. Yang perlu dipantau selanjutnya adalah proses persetujuan Pemerintah Indonesia dan pemenuhan syarat penutupan lain, sebab transaksi ini baru resmi berjalan setelah semua izin itu didapat, dan belum ada tanggal pasti yang diungkapkan kapan proses tersebut akan selesai.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bjlb01-pengelola-eba-gabung-jadi-danareksa-investment-management",
+  "category": "Aksi Korporasi",
+  "title": "BJLB01: Pengelola EBA Gabung, Jadi [Danareksa] Investment Management",
+  "deck": "Penggabungan BNI AM, BRI MI, dan PNM IM ke Mandiri Manajemen Investasi efektif 1 Oktober 2026, lalu berganti nama jadi Danareksa Investment Management Indonesia, pengelola EBA Syariah BJLB01.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T09:52:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2077b704b5_8d506f9b09.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BJLB01",
+  "tags": [
+   "BJLB01",
+   "Danareksa Investment Management",
+   "merger manajer investasi",
+   "EBA Syariah"
+  ],
+  "body": [
+   "Manajer investasi di balik EBA Syariah BRI-MI Jakarta Lingkar Baratsatu (BJLB01) resmi berganti identitas. PT BNI Asset Management, PT BRI Manajemen Investasi, dan PT PNM Investment Management digabungkan ke dalam PT Mandiri Manajemen Investasi sebagai perusahaan penerima penggabungan, berlaku efektif 1 Oktober 2026. Penggabungan ini tertuang dalam Akta Nomor 262 tanggal 28 September 2026 di hadapan notaris Jose Dima Satria, dan telah diterima pemberitahuannya oleh Menteri Hukum berdasarkan surat tanggal 30 September 2026. Pengumuman penggabungan juga sudah dimuat di dua koran nasional, Investor Daily dan Media Indonesia, pada 1 Oktober 2026.",
+   "Bersamaan dengan penggabungan itu, nama perusahaan hasil gabungan berubah dari PT Mandiri Manajemen Investasi menjadi PT Danareksa Investment Management Indonesia, sesuai Akta Nomor 263/2026. Modal dasar perusahaan ini naik dari Rp100 miliar, yang terbagi 2.500 lembar saham senilai Rp40 juta per lembar, menjadi Rp555 miliar yang terbagi 13.875 lembar saham dengan nilai nominal sama. Modal yang sudah ditempatkan dan disetor penuh juga naik, dari Rp60 miliar atau 1.500 lembar saham menjadi Rp182,92 miliar atau 4.573 lembar saham. Susunan direksi dan dewan komisaris turut berubah sesuai Akta Nomor 264/2026, dengan Hardiyanto Pilia menjabat sebagai Pelaksana Tugas Direktur Utama.",
+   "Secara operasional, kantor pusat baru berlokasi di Menara Mandiri 2 Lantai 15, Jalan Jenderal Sudirman Kavling 54-55, Jakarta Selatan, dengan kantor pendukung di Gedung BRI II Lantai 25, Jakarta Pusat. Domain email seluruh entitas lama, yaitu BRI MI, BNI AM, PNM IM, dan Mandiri Manajemen Investasi, beralih ke domain baru danareksainvestments.com, meski email dengan domain lama tetap diteruskan otomatis selama masa transisi. Situs web masing-masing entitas lama disebutkan masih bisa diakses untuk sementara sebelum konsolidasi penuh ke platform baru. Kontak resmi untuk informasi lebih lanjut adalah Asti Raniasari, Alternative Investment Division Head."
+  ],
+  "fotoAdegan": "Office workers reviewing papers in a modern high-rise conference room in Jakarta's business district, skyline visible through windows",
+  "takeaway": "Bagi pemegang EBA Syariah BJLB01, laporan ini netral karena yang berubah adalah badan hukum dan identitas pengelolanya, bukan struktur atau arus kas aset yang mendasari EBA itu sendiri. Yang patut dicatat adalah sisi permodalan pengelola baru: modal yang benar-benar disetor naik dari Rp60 miliar menjadi Rp182,92 miliar, dan ini penting karena modal sendiri perusahaan pengelola investasi berfungsi sebagai penyangga keuangan kalau terjadi masalah operasional, jadi makin besar modalnya, makin kuat daya tahannya. Yang perlu dipantau selanjutnya adalah peluncuran resmi nama dan situs web baru Danareksa Investment Management Indonesia yang menurut suratnya baru akan diumumkan lebih lanjut, serta proses pemindahan penuh layanan dan produk dari empat situs lama ke platform barunya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "telkomsel-perkuat-jaringan-untuk-motogp-mandalika-2026",
   "category": "Teknologi",
   "title": "Telkomsel [Perkuat] Jaringan untuk MotoGP Mandalika 2026",

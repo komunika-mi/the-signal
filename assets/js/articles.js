@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "flmc-jadwalkan-rupslb-pada-18-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Jadwalkan [RUPSLB] pada 18 November 2026",
+  "deck": "Falmaco Nonwoven Industri menjadwalkan RUPSLB di Bandung pada 18 November 2026, menyusul laporan ekuitas negatif perseroan. Agenda rapat belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T09:10:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26d7c76fd4_edb42e0af2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "RUPSLB",
+   "Falmaco Nonwoven",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) mengumumkan rencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 18 November 2026, pukul 10.00 WIB di Artotel Suites Aquila, Jalan Dr Djunjunan No 116, Bandung. Pengumuman ditandatangani Direktur Utama Rosalina Indra Wirawati pada 12 Oktober 2026. Pemanggilan resmi yang memuat agenda rapat secara rinci baru akan diterbitkan pada Selasa, 27 Oktober 2026, melalui situs web Bursa Efek Indonesia, situs resmi perseroan, dan aplikasi eASY.KSEI milik penyedia layanan e-RUPS.",
+   "Pemegang saham yang berhak hadir, diwakili, dan memberikan suara dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan per Senin, 26 Oktober 2026. Perseroan juga membuka kesempatan bagi pemegang saham untuk mengusulkan tambahan mata acara rapat, dengan syarat mewakili sedikitnya 1/20 atau 5 persen dari total saham berhak suara. Usulan tertulis itu harus disampaikan kepada Direksi paling lambat Selasa, 20 Oktober 2026, yaitu tujuh hari sebelum tanggal pemanggilan resmi.",
+   "Dokumen yang beredar hari ini baru memuat jadwal dan mekanisme penyelenggaraan rapat, belum agenda yang akan dibahas dan diputuskan dalam RUPSLB tersebut. Agenda lengkap baru akan terlihat pada pemanggilan resmi 27 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of white nonwoven fabric rolls stacked in an industrial textile warehouse, workers in uniforms checking inventory, fluorescent lighting",
+  "takeaway": "Pengumuman ini sendiri netral bagi fundamental Falmaco, karena isinya baru jadwal dan mekanisme rapat, belum agenda yang sebenarnya akan diputuskan. Yang perlu diperhatikan adalah rapat ini datang tak lama setelah Falmaco melaporkan ekuitas negatif dan rugi semester satu yang melonjak ke Rp23,3 miliar, sehingga pasar akan menyimak apakah RUPSLB ini nantinya membahas langkah menambal modal, misalnya lewat penerbitan saham baru yang menambah jumlah saham beredar dan mengubah porsi kepemilikan pemegang saham lama. Jumlah saham beredar dan ekuitas adalah pos yang biasa disasar dalam RUPSLB semacam ini, karena keduanya menentukan seberapa besar bagian kepemilikan investor dan seberapa kuat modal perseroan menyerap kerugian berikutnya. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 27 Oktober 2026 yang akan mengungkap agenda sebenarnya, tenggat 20 Oktober 2026 bagi pemegang saham yang ingin mengusulkan mata acara, dan pelaksanaan RUPSLB itu sendiri pada 18 November 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-libatkan-30-umkm-lombok-di-gp-mandalika-2026",
   "category": "UMKM",
   "title": "Pertamina Libatkan 30 [UMKM] Lombok di GP Mandalika 2026",

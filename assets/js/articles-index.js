@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "flmc-jadwalkan-rupslb-pada-18-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Jadwalkan [RUPSLB] pada 18 November 2026",
+  "deck": "Falmaco Nonwoven Industri menjadwalkan RUPSLB di Bandung pada 18 November 2026, menyusul laporan ekuitas negatif perseroan. Agenda rapat belum diungkap.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "RUPSLB",
+   "Falmaco Nonwoven",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26d7c76fd4_edb42e0af2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-libatkan-30-umkm-lombok-di-gp-mandalika-2026",
   "category": "UMKM",
   "title": "Pertamina Libatkan 30 [UMKM] Lombok di GP Mandalika 2026",
@@ -6457,22 +6473,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/90fc7570b3_3acefcf797.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-perluas-akses-pasar-umkm-binaan-di-daerah",
-  "category": "UMKM",
-  "title": "Pertamina Perluas Akses Pasar [UMKM] Binaan di Daerah",
-  "deck": "Pertamina Patra Niaga membuka akses pasar lebih luas bagi UMKM binaan lewat ajang Pertamina SMEXPO, dicontohkan lewat kisah Difa Kreasi dari Dumai.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/pertamina-perluas-akses-pasar-umkm-binaan-di-daerah.jpg",
-  "imageV": "mur13021",
-  "tags": [
-   "pertamina",
-   "umkm",
-   "usaha",
-   "pertamina patra niaga"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470839-dorong-daya-saing-umkm-pertamina-patra-niaga-buka-akses-pasar-pelaku-usaha-daerah"
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "IqsYnyl-2Rg",
+  "title": "Kadin Bahas Kerja Sama Investasi dengan Finlandia",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Kadin Indonesia bersama Kementerian Investasi dan Hilirisasi atau BKPM menerima delegasi bisnis Finlandia untuk menjajaki peluang kerja sama investasi.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut potensi masuknya investasi asing ke Indonesia.",
+  "terbit": "2026-10-12T08:44:13+00:00"
+ },
+ {
   "id": "y7pIJslhJjI",
   "title": "Kerja Sama Perdagangan Indonesia dan Mesir",
   "category": "Global",

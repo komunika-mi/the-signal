@@ -201,6 +201,38 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "smmt-bei-umumkan-konsentrasi-saham-tinggi-97-12",
+  "category": "Aksi Korporasi",
+  "title": "SMMT: BEI Umumkan [Konsentrasi] Saham Tinggi 97,12%",
+  "deck": "BEI dan KSEI mengumumkan 97,12% saham Golden Eagle Energy (SMMT) dikuasai segelintir pemegang saham per 1 Oktober 2026, menyisakan free float yang sangat tipis.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMT",
+   "BEI",
+   "kepemilikan saham",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9080b09603_846c06b338.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-umumkan-konsentrasi-saham-tinggi-psab-95-78",
+  "category": "Aksi Korporasi",
+  "title": "BEI Umumkan Konsentrasi Saham [Tinggi] PSAB 95,78%",
+  "deck": "BEI dan KSEI mencatat 95,78 persen saham PSAB per 1 Oktober 2026 dikuasai segelintir pihak, menandakan saham yang beredar bebas di pasar sangat tipis.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSAB",
+   "BEI",
+   "KSEI",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fd38293fa_74ccd1c853.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-per-saham",
   "category": "Aksi Korporasi",
   "title": "PRTL bagikan [dividen] interim Rp200 miliar, Rp3,43 per saham",
@@ -6437,38 +6469,6 @@ var ARTICLES = [
    "tender wajib"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ce4d4d1b46_3560ec0735.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kios-panggil-rupslb-agendakan-perubahan-susunan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "KIOS Panggil RUPSLB, Agendakan [Perubahan] Susunan Direksi",
-  "deck": "Kioson Komersial Indonesia menjadwalkan RUPSLB 27 Oktober 2026 dengan agenda perubahan susunan direksi dan komisaris, serta penyesuaian anggaran dasar mengikuti klasifikasi usaha baru BPS.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KIOS",
-   "RUPSLB",
-   "Direksi",
-   "Kioson Komersial"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a52d4c55a3_ee48ffe260.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medp-rombak-direksi-dan-komisaris-eka-satria-jadi-dirut",
-  "category": "Aksi Korporasi",
-  "title": "MEDP [Rombak] Direksi dan Komisaris, Eka Satria Jadi Dirut",
-  "deck": "PT Medco Power Indonesia mengganti seluruh Direksi dan Dewan Komisaris lewat keputusan sirkuler pemegang saham efektif 1 Oktober 2026, untuk masa jabatan lima tahun.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDP",
-   "Direksi",
-   "Dewan Komisaris",
-   "Medco Power"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ab9a0001df_5f87ed030c.pdf",
   "sourceLabel": "IDX"
  }
 ];

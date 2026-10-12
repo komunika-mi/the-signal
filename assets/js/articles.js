@@ -321,6 +321,57 @@ var ARTICLES = [
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan fokus promosi Kemendag: TEI 2026 secara eksplisit mendorong perusahaan jasa, bukan cuma eksportir barang, mulai dari konsultasi dan jasa hukum sampai pengelolaan gedung dan jasa digital berbasis kecerdasan buatan. Yang paling kena dampak adalah perusahaan jasa padat karya seperti anggota INASA yang bergerak di pengelolaan gedung, kebersihan, dan keamanan, sebab bisnis semacam ini butuh banyak pekerja sehingga perluasan ekspornya biasanya juga membuka lapangan kerja di dalam negeri. Soal angka, nilai ekspor jasa komputer Indonesia yang disebut, US$1,45 miliar pada 2025 dengan pertumbuhan rata-rata 3,49 persen per tahun sejak 2019, sebenarnya tergolong landai, bukan lonjakan, jadi klaim potensi besar dari Kemendag perlu dibaca sebagai target, bukan capaian yang sudah terjadi. Ini mengarah ke strategi memperluas ekspor jasa secara bertahap lewat ajang pameran, ketimbang tanda bahwa ekspor jasa sudah melonjak. Yang akan menunjukkan apakah strategi ini membuahkan hasil adalah angka realisasi transaksi dagang yang biasanya diumumkan Kemendag begitu TEI 2026 rampung pada 18 Oktober."
  },
  {
+  "slug": "smmt-bei-umumkan-konsentrasi-saham-tinggi-97-12",
+  "category": "Aksi Korporasi",
+  "title": "SMMT: BEI Umumkan [Konsentrasi] Saham Tinggi 97,12%",
+  "deck": "BEI dan KSEI mengumumkan 97,12% saham Golden Eagle Energy (SMMT) dikuasai segelintir pemegang saham per 1 Oktober 2026, menyisakan free float yang sangat tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T21:41:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9080b09603_846c06b338.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMT",
+  "tags": [
+   "SMMT",
+   "BEI",
+   "kepemilikan saham",
+   "free float"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) menerbitkan pengumuman Kepemilikan Saham Terkonsentrasi Tinggi untuk PT Golden Eagle Energy Tbk (SMMT), lewat surat No. Peng-HSC-00079/BEI.WAS/10-2026 dan Peng-00020/PWS/KSEI/1026 tertanggal 12 Oktober 2026. SMMT tercatat di Papan Pencatatan Pengembangan BEI, papan khusus bagi emiten yang memerlukan pengawasan lebih.",
+   "Berdasarkan metodologi penghitungan konsentrasi kepemilikan atas struktur saham dalam bentuk warkat (sertifikat fisik) maupun tanpa warkat (elektronik) per 1 Oktober 2026, saham Golden Eagle Energy secara agregat dikuasai oleh sejumlah tertentu pemegang saham sebesar 97,12% dari total saham SMMT yang tercatat di kedua bentuk tersebut. Dokumen tidak merinci nama maupun jumlah pemegang saham yang dimaksud, hanya angka agregat tersebut.",
+   "BEI menegaskan bahwa pengumuman ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan di bidang pasar modal. Dokumen ditandatangani oleh Yulianto Aji Sadono selaku Direktur PT Bursa Efek Indonesia dan Eqy Essiqy selaku Direktur PT Kustodian Sentral Efek Indonesia."
+  ],
+  "fotoAdegan": "Aerial view of an open-pit coal mine with terraced haul roads and heavy dump trucks, Kalimantan landscape, overcast daylight",
+  "takeaway": "Pengumuman ini condong negatif bagi pemegang saham minoritas SMMT, sebab konsentrasi 97,12% berarti saham yang benar-benar leluasa diperjualbelikan publik tersisa sekitar 2,88% saja, porsi yang sangat kecil untuk ukuran saham tercatat. Yang tersentuh di sini adalah porsi saham beredar bebas atau free float, yakni bagian saham yang tidak dikuasai kelompok pemilik besar sehingga bisa diperdagangkan luas oleh publik; kalau porsi ini terlalu kecil, harga saham jadi mudah bergerak tajam hanya dari transaksi kecil, dan investor yang ingin menjual dalam jumlah besar bisa kesulitan mencari pembeli di pasar. Dokumen ini tidak mencantumkan tenggat tindak lanjut tertentu, tapi investor perlu memantau apakah BEI mengenakan notasi pengawasan tambahan pada SMMT akibat konsentrasi ini, atau apakah pemilik mayoritas mengambil langkah menambah porsi saham beredar bebas, mengingat data ini hanya potret per 1 Oktober 2026 dan bisa berubah pada pembaruan BEI berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-umumkan-konsentrasi-saham-tinggi-psab-95-78",
+  "category": "Aksi Korporasi",
+  "title": "BEI Umumkan Konsentrasi Saham [Tinggi] PSAB 95,78%",
+  "deck": "BEI dan KSEI mencatat 95,78 persen saham PSAB per 1 Oktober 2026 dikuasai segelintir pihak, menandakan saham yang beredar bebas di pasar sangat tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T21:41:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fd38293fa_74ccd1c853.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSAB",
+  "tags": [
+   "PSAB",
+   "BEI",
+   "KSEI",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) mengumumkan bahwa saham PT J Resources Asia Pasifik Tbk (PSAB), emiten tambang emas yang tercatat di Papan Pengembangan, masuk kategori Kepemilikan Saham Terkonsentrasi Tinggi. Berdasarkan metodologi penentuan konsentrasi kepemilikan atas struktur saham dalam bentuk warkat dan tanpa warkat per 1 Oktober 2026, sejumlah tertentu pemegang saham secara agregat menguasai 95,78 persen dari total saham PSAB, baik yang berbentuk warkat maupun tanpa warkat di KSEI.",
+   "Pengumuman bernomor Peng-HSC-00083/BEI.WAS/10-2026 dan Peng-00024/PWS/KSEI/1026 ini diterbitkan pada 12 Oktober 2026, diteken oleh Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy. Dalam dokumennya, BEI dan KSEI menegaskan bahwa status kepemilikan saham terkonsentrasi tinggi ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan dan ketentuan yang berlaku di bidang pasar modal. Dokumen tidak merinci nama maupun jumlah pemegang saham yang termasuk dalam kelompok tersebut."
+  ],
+  "fotoAdegan": "Workers at an open-pit gold mine moving crushed ore with heavy machinery under bright daylight, dust hanging in the air",
+  "takeaway": "Laporan ini netral bagi fundamental bisnis PSAB, sebab BEI dan KSEI sendiri menegaskan konsentrasi tinggi ini bukan bukti pelanggaran, namun tetap penting diketahui investor karena menyiratkan saham yang benar-benar beredar bebas di pasar sangat tipis. Yang tersentuh di sini bukan laba, ekuitas, atau arus kas perusahaan, melainkan likuiditas saham, yakni seberapa mudah saham itu diperjualbelikan dalam jumlah besar tanpa membuat harganya melonjak atau longsor tajam, karena hanya sedikit pihak yang menguasai sebagian besar saham. Konsentrasi di atas 95 persen berarti ruang gerak pemegang saham minoritas untuk bertransaksi dalam volume besar sangat terbatas, sehingga harga saham PSAB lebih rentan bergerak tajam hanya dari transaksi kecil. Yang perlu dipantau selanjutnya adalah apakah BEI meminta penjelasan lebih lanjut dari manajemen PSAB atau mengenakan notasi khusus terkait likuiditas, serta apakah rasio ini berubah pada pengumuman konsentrasi kepemilikan periode berikutnya yang biasa diterbitkan berkala oleh bursa.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-per-saham",
   "category": "Aksi Korporasi",
   "title": "PRTL bagikan [dividen] interim Rp200 miliar, Rp3,43 per saham",

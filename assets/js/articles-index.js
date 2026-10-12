@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "telkomsel-perkuat-jaringan-untuk-motogp-mandalika-2026",
+  "category": "Teknologi",
+  "title": "Telkomsel [Perkuat] Jaringan untuk MotoGP Mandalika 2026",
+  "deck": "Telkomsel menambah kapasitas BTS dan menyiagakan personel untuk mendukung konektivitas selama MotoGP Mandalika 2026 di Lombok, NTB, pada 9-11 Oktober.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/telkomsel-perkuat-jaringan-untuk-motogp-mandalika-2026.jpg",
+  "imageV": "mv4ph64f",
+  "tags": [
+   "Telkomsel",
+   "MotoGP Mandalika",
+   "Lombok",
+   "5G"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472510-telkomsel-hadirkan-jaringan-terdepan-dan-terluas-untuk-dukung-motogp-mandalika-2026"
+ },
+ {
   "slug": "flmc-jadwalkan-rupslb-pada-18-november-2026",
   "category": "Aksi Korporasi",
   "title": "FLMC Jadwalkan [RUPSLB] pada 18 November 2026",
@@ -6456,22 +6473,6 @@ var ARTICLES = [
    "Telkom"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4fe66b4ab1_0ec68201be.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-beri-penjelasan-ke-bei-soal-opini-audit-pengecualian",
-  "category": "Aksi Korporasi",
-  "title": "VTNY Beri Penjelasan ke BEI soal Opini Audit [Pengecualian]",
-  "deck": "Venteny Fortuna International (VTNY) menjawab permintaan penjelasan Bursa Efek Indonesia soal opini audit wajar dengan pengecualian dan realisasi dana IPO lebih dari Rp240 miliar.",
-  "date": "2 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "opini audit",
-   "obligasi",
-   "realisasi dana IPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/90fc7570b3_3acefcf797.pdf",
   "sourceLabel": "IDX"
  }
 ];

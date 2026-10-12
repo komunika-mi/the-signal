@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "telkomsel-perkuat-jaringan-untuk-motogp-mandalika-2026",
+  "category": "Teknologi",
+  "title": "Telkomsel [Perkuat] Jaringan untuk MotoGP Mandalika 2026",
+  "deck": "Telkomsel menambah kapasitas BTS dan menyiagakan personel untuk mendukung konektivitas selama MotoGP Mandalika 2026 di Lombok, NTB, pada 9-11 Oktober.",
+  "image": "assets/img/telkomsel-perkuat-jaringan-untuk-motogp-mandalika-2026.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T09:47:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472510-telkomsel-hadirkan-jaringan-terdepan-dan-terluas-untuk-dukung-motogp-mandalika-2026",
+  "tags": [
+   "Telkomsel",
+   "MotoGP Mandalika",
+   "Lombok",
+   "5G"
+  ],
+  "body": [
+   "Telkomsel memastikan jaringan telekomunikasinya siap menghadapi lonjakan pengguna selama gelaran MotoGP Mandalika 2026 di Pertamina Mandalika International Circuit, Lombok, Nusa Tenggara Barat, yang berlangsung pada 9 hingga 11 Oktober 2026. Persiapan ini penting karena event balap internasional biasanya mendatangkan massa dalam jumlah besar dalam waktu singkat, sehingga jaringan seluler rawan padat jika tidak diperkuat lebih dulu.",
+   "Perusahaan mengoptimalkan jaringan di 30 titik yang diperkirakan jadi pusat keramaian, mulai dari area sirkuit, akses bandara dan pelabuhan, jalur menuju Mandalika, kawasan hospitality, hingga sejumlah lokasi wisata. Secara keseluruhan, Telkomsel menyiagakan 279 BTS 4G dan 17 BTS 5G di titik-titik tersebut, dengan tambahan khusus 27 BTS 4G dan 9 BTS 5G di kawasan utama sirkuit.",
+   "Untuk memperkuat kapasitas, Telkomsel membangun 7 site baru di dalam area sirkuit serta menurunkan 2 unit Compact Mobile Base Transceiver Station (COMBAT), yakni menara BTS portabel yang bisa dipindah ke lokasi yang butuh tambahan sinyal sementara. Jaringan 5G di kawasan ini juga mulai memanfaatkan frekuensi baru 2600 MHz, yang menurut perusahaan memberi kapasitas lebih besar untuk menampung banyak pengguna sekaligus. Keseluruhan penguatan ini disiapkan untuk menampung potensi hingga sekitar 60 ribu pengguna selama acara berlangsung, terutama di area premium sirkuit.",
+   "Di luar jaringan, Telkomsel juga menempatkan personel layanan pelanggan di posko jaringan, area venue, dan sejumlah titik pelayanan selama acara. Vice President Area Network Operations Jawa Bali Telkomsel, Nugroho Adi Wibowo, menyebut gelaran ini sebagai momentum yang turut mendorong pariwisata dan ekonomi daerah, sehingga ketersediaan jaringan jadi bagian dari dukungan terhadap acara tersebut."
+  ],
+  "fotoAdegan": "Mobile telecom tower truck parked near a motorsport circuit perimeter fence, technicians checking antenna equipment, tropical daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/12/6acc48e86906c-telkomsel-memastikan-konektivitas-digital-tetap-optimal-selama-gelaran-motogp-mandalika-2026-pada-911-oktober-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma kapasitas sementara untuk tiga hari acara, melainkan juga infrastruktur permanen. Tujuh BTS baru yang dibangun di dalam sirkuit akan tetap berdiri setelah MotoGP selesai, beda dengan dua unit BTS portabel (COMBAT) yang memang didatangkan khusus untuk acara dan bisa dipindah ke lokasi lain. Artinya setiap gelaran internasional di Mandalika tampak jadi pemicu penambahan jaringan tetap di kawasan itu, bukan cuma solusi sementara saat ramai pengunjung. Pihak yang paling merasakan dampaknya adalah wisatawan, peserta MotoGP, pelaku usaha hospitality di sekitar sirkuit, dan warga Lombok yang memakai jaringan Telkomsel pada periode padat ini. Untuk melihat apakah pola pembangunan bertahap ini akan berlanjut, yang perlu dicermati adalah apakah kapasitas serupa atau lebih besar kembali ditambahkan permanen saat sirkuit ini menggelar event internasional berikutnya, dan apakah frekuensi 2600 MHz yang baru dipakai di Mandalika ini mulai diperluas ke wilayah lain di NTB.",
+  "imageV": "mv4ph64f"
+ },
+ {
   "slug": "flmc-jadwalkan-rupslb-pada-18-november-2026",
   "category": "Aksi Korporasi",
   "title": "FLMC Jadwalkan [RUPSLB] pada 18 November 2026",

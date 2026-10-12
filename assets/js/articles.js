@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ijee-bayar-kupon-obligasi-dan-sukuk-rp52-99-miliar-tepat-waktu",
+  "category": "Aksi Korporasi",
+  "title": "IJEE Bayar Kupon [Obligasi] dan Sukuk Rp52,99 Miliar Tepat Waktu",
+  "deck": "IJEE melunasi bunga dan imbalan Obligasi III serta Sukuk Ijarah II senilai total Rp52,99 miliar ke pemegang efek lewat KSEI pada 9 Oktober 2026, sesuai tanggal jatuh tempo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T23:02:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fec6ed3b81_a29994af0e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IJEE",
+  "tags": [
+   "IJEE",
+   "obligasi",
+   "sukuk ijarah",
+   "pembayaran kupon"
+  ],
+  "body": [
+   "PT Integrasi Jaringan Ekosistem (IJEE) telah membayar bunga dan imbalan pembayaran kedua atas Obligasi III dan Sukuk Ijarah II Tahun 2026 Seri A sampai C. Pembayaran dilakukan pada 9 Oktober 2026 melalui PT Kustodian Sentral Efek Indonesia (KSEI) lewat sistem C-BEST ke subrekening para pemegang obligasi dan sukuk, tepat pada tanggal jatuh temponya.",
+   "Rinciannya, untuk Obligasi III, Seri A dengan nominal Rp806,9 miliar membayar bunga 7,75 persen senilai Rp15,63 miliar, Seri B senilai Rp99,9 miliar membayar bunga 8,5 persen atau Rp2,12 miliar, dan Seri C senilai Rp343,2 miliar membayar bunga 9,75 persen atau Rp8,37 miliar. Total nominal Obligasi III mencapai Rp1,25 triliun dengan bunga yang dibayarkan Rp26,12 miliar.",
+   "Untuk Sukuk Ijarah II, Seri A senilai Rp676,2 miliar membayar imbalan 7,75 persen atau Rp13,10 miliar, Seri B senilai Rp70 miliar membayar imbalan 8,5 persen atau Rp1,49 miliar, dan Seri C senilai Rp503,8 miliar membayar imbalan 9,75 persen atau Rp12,28 miliar. Total nominal sukuk ijarah ini juga Rp1,25 triliun dengan imbalan yang dibayarkan Rp26,87 miliar. Digabung dengan obligasi, total nilai pokok yang masih berjalan mencapai Rp2,5 triliun dengan total bunga dan imbalan yang dibayarkan pada periode ini sebesar Rp52,99 miliar. Surat keterbukaan ditandatangani Direktur Utama IJEE, Hendrik Tee, merujuk surat KSEI No. KSEI-25210/JKU/1026 tanggal 9 Oktober 2026."
+  ],
+  "fotoAdegan": "Fiber optic technicians installing cable lines on a utility pole along a busy Indonesian city street, midday light",
+  "takeaway": "Laporan ini netral bagi IJEE: pembayaran kupon dan imbalan Rp52,99 miliar ini sesuai jadwal rutin, bukan tanda perbaikan maupun pemburukan kondisi keuangan, tapi tetap berarti karena menunjukkan perusahaan masih mampu memenuhi kewajiban utangnya tepat waktu di tengah sorotan soal pengelolaan kas dari laporan sebelumnya. Pos yang tersentuh adalah beban bunga dan arus kas perusahaan, karena pembayaran rutin seperti ini mengurangi kas yang tersedia namun juga menjaga rekam jejak kredit IJEE tetap bersih di mata pemegang obligasi dan sukuk ijarah. Yang perlu dipantau berikutnya adalah jadwal pembayaran kupon ketiga serta kelanjutan realisasi dana hasil penawaran umum yang menurut laporan sebelumnya masih menyisakan Rp742 miliar di rekening giro, sebab di situlah terlihat apakah kas IJEE cukup kuat untuk terus melunasi utang besar senilai total Rp2,5 triliun ini tepat waktu ke depannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "flmc-tambah-kbli-perusahaan-induk-untuk-anak-usaha-distribusi",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Tambah KBLI [Perusahaan Induk] untuk Anak Usaha Distribusi",
+  "deck": "Falmaco Nonwoven berencana menambah KBLI Aktivitas Perusahaan Induk untuk membentuk anak usaha distribusi bermodal awal Rp5 miliar, menunggu persetujuan RUPSLB 18 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T22:18:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a48bf4a66_ab0e722d0b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "KBLI",
+   "Falmaco Nonwoven",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) berencana menambahkan klasifikasi usaha baru, yaitu KBLI 64210 Aktivitas Perusahaan Induk, ke dalam Pasal 3 Anggaran Dasar perusahaan. Penambahan ini diperlukan karena perseroan berencana membentuk anak usaha di bidang perdagangan dan distribusi, sehingga FLMC perlu berfungsi sebagai induk yang mengendalikan anak usaha tersebut. Rencana ini wajib mendapat persetujuan pemegang saham dan akan dibawa ke Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada 18 November 2026, sesuai ketentuan POJK 17/2020 tentang transaksi material dan perubahan kegiatan usaha.",
+   "Dalam rancangan yang diungkapkan, FLMC akan memegang 80 persen saham anak usaha distribusi tersebut, sementara 20 persen sisanya dipegang pemegang saham minoritas. Modal disetor awal anak usaha ditetapkan Rp5 miliar, terdiri dari setoran FLMC sebesar Rp4 miliar dan setoran pemegang saham minoritas Rp1 miliar. Di luar modal itu, anak usaha juga akan menerima pinjaman Rp10 miliar dari pemegang saham minoritas dengan bunga 8 persen per tahun, yang pokoknya direncanakan dilunasi pada 2030. Anak usaha ini ditargetkan mulai beroperasi pada 2027 untuk menjadi penyalur produk FLMC seperti tisu basah, tisu kering, hand sanitizer, dan alat pelindung diri ke peritel modern, pelanggan institusional, distributor regional, serta kanal digital.",
+   "Manajemen memproyeksikan pendapatan anak usaha distribusi mencapai Rp70 miliar pada tahun pertama beroperasi di 2027, lalu naik sekitar 12 persen per tahun menjadi Rp98,34 miliar pada 2030. Secara konsolidasi, total pendapatan grup diproyeksikan naik dari Rp105,6 miliar pada 2027 menjadi Rp145,41 miliar pada 2030. Proyeksi ini disusun dengan latar belakang bahwa pada 2025 sekitar 99,43 persen pendapatan FLMC masih bertumpu pada penjualan produk jadi lewat distributor pihak ketiga. Studi kelayakan atas rencana ini disusun oleh Kantor Jasa Penilai Publik Areyanti, Zainab dan Rekan, ditandatangani penilai publik Siti Zainab, dengan laporan bernomor 00016/AZR-RWM/FS-FNI/X/2026 bertanggal 5 Oktober 2026 dan menyimpulkan aspek pasar dari rencana ini layak dijalankan. Sesuai POJK 17/2020, masa berlaku studi kelayakan ini hanya enam bulan sejak tanggal efektif 30 Juni 2026, sehingga berakhir pada 31 Desember 2026."
+  ],
+  "fotoAdegan": "Workers loading boxes of hygiene products onto pallets at a small warehouse loading dock, forklift nearby, morning light",
+  "takeaway": "Penilaian saya netral dengan catatan kewaspadaan, karena ini baru rencana yang menunggu persetujuan pemegang saham, bukan transaksi yang sudah berjalan, sementara komitmen modal baru ini muncul saat kondisi keuangan FLMC sedang tertekan. Yang tersentuh adalah pos ekuitas dan arus kas: per 30 Juni 2026 ekuitas FLMC sudah negatif Rp2,59 miliar dan kerugian periode berjalan melonjak jadi Rp23,27 miliar, sehingga menyetor Rp4 miliar ke anak usaha baru plus menanggung bunga pinjaman Rp10 miliar dari pemegang saham minoritas berarti menambah beban bagi perusahaan yang arus kasnya sendiri masih tipis. Di sisi lain, proyeksi pendapatan anak usaha yang tumbuh dari Rp70 miliar menjadi Rp98,34 miliar dalam empat tahun menunjukkan manajemen berharap unit distribusi ini bisa mendiversifikasi sumber pendapatan yang saat ini terlalu bertumpu pada satu lini produk. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 18 November 2026 yang akan menentukan apakah pemegang saham menyetujui perubahan kegiatan usaha ini, serta dari mana FLMC akan mendanai setoran modal Rp4 miliar itu mengingat posisi ekuitasnya yang sudah negatif.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pekerja-mandiri-perempuan-didorong-naik-kelas-ke-usaha-formal",
   "category": "Ketenagakerjaan",
   "title": "Pekerja Mandiri Perempuan Didorong [Naik Kelas] ke Usaha Formal",
@@ -112,6 +164,58 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan fokus promosi Kemendag: TEI 2026 secara eksplisit mendorong perusahaan jasa, bukan cuma eksportir barang, mulai dari konsultasi dan jasa hukum sampai pengelolaan gedung dan jasa digital berbasis kecerdasan buatan. Yang paling kena dampak adalah perusahaan jasa padat karya seperti anggota INASA yang bergerak di pengelolaan gedung, kebersihan, dan keamanan, sebab bisnis semacam ini butuh banyak pekerja sehingga perluasan ekspornya biasanya juga membuka lapangan kerja di dalam negeri. Soal angka, nilai ekspor jasa komputer Indonesia yang disebut, US$1,45 miliar pada 2025 dengan pertumbuhan rata-rata 3,49 persen per tahun sejak 2019, sebenarnya tergolong landai, bukan lonjakan, jadi klaim potensi besar dari Kemendag perlu dibaca sebagai target, bukan capaian yang sudah terjadi. Ini mengarah ke strategi memperluas ekspor jasa secara bertahap lewat ajang pameran, ketimbang tanda bahwa ekspor jasa sudah melonjak. Yang akan menunjukkan apakah strategi ini membuahkan hasil adalah angka realisasi transaksi dagang yang biasanya diumumkan Kemendag begitu TEI 2026 rampung pada 18 Oktober."
+ },
+ {
+  "slug": "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "PRTL bagikan [dividen] interim Rp200 miliar, Rp3,43 per saham",
+  "deck": "PRTL melaporkan rencana dividen interim tunai Rp200 miliar atau Rp3,43 per saham untuk tahun buku 2026, yang hampir seluruhnya mengalir ke pemegang saham pengendali, Sarana Menara Nusantara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T21:26:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/40b4991b0d_b411e23d4e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRTL",
+  "tags": [
+   "PRTL",
+   "dividen interim",
+   "Sarana Menara Nusantara",
+   "pasar modal"
+  ],
+  "body": [
+   "PRTL melaporkan kepada Otoritas Jasa Keuangan rencana pembagian dividen interim tunai untuk tahun buku 2026 kepada seluruh pemegang saham. Nilainya sekitar Rp3,43 per saham, atau total Rp200 miliar, dengan dasar Pasal 72 ayat (1) dan ayat (4) Undang-Undang Perseroan Terbatas serta Pasal 18 anggaran dasar perusahaan, yang memang mengizinkan dividen dibagikan sebelum tahun buku berakhir. Perusahaan menyatakan pembagian ini tidak menimbulkan dampak negatif material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya. Laporan resmi ini ditandatangani oleh Sekretaris Perusahaan, Maya Marcella, dan disampaikan ke OJK pada 12 Oktober 2026 pukul 21.26 WIB.",
+   "Keputusan ini sudah disetujui seluruh anggota Dewan Komisaris, yakni Ario Wibisono sebagai Komisaris Utama, Kenny Harjo sebagai Komisaris, serta John A. Prasetio dan Kusmayanto Kadiman sebagai Komisaris Independen, melalui keputusan di luar rapat yang berlaku efektif 12 Oktober 2026. Direksi, yang terdiri dari Ferdinandus Aming Santoso sebagai Direktur Utama, Anita Anwar dan Juliawati Gunawan Halim sebagai Wakil Direktur Utama, serta Eko Santoso Hadiprodjo, Indra Gunawan, dan Onggo Wijaya sebagai Direktur, diberi kewenangan penuh menentukan bentuk, jumlah, dan cara pembayaran dividen tersebut. Kewenangan ini merupakan pelaksanaan dari keputusan pemegang saham dalam rapat umum pemegang saham sebelumnya, yang juga mengesahkan laba bersih konsolidasi perusahaan untuk tahun buku 2025 sekitar Rp3,7 triliun.",
+   "Struktur pemegang saham menunjukkan PT Sarana Menara Nusantara Tbk menguasai 58.322.620.186 saham, atau 99,999999998 persen dari total saham perusahaan, sementara sisanya, 1 saham, dipegang oleh Ferdinandus Aming Santoso secara pribadi. Dengan proporsi ini, hampir seluruh dividen interim Rp200 miliar akan mengalir ke Sarana Menara Nusantara selaku pemegang saham pengendali. Berdasarkan dokumen pendukung rapat pemegang saham, sepanjang tahun buku 2025 perusahaan sudah membagikan dividen interim dalam tiga tahap, yaitu sekitar Rp125 miliar pada 1 September 2025, Rp290 miliar pada 1 Desember 2025, dan Rp130 miliar pada 30 Januari 2026, sebelum sisa dividen final tahun itu sekitar Rp405 miliar ikut dibagikan ke Sarana Menara Nusantara. Karena bagian dokumen ini berasal dari hasil pindaian, angka-angka tersebut sebaiknya dibaca sebagai perkiraan, bukan angka pasti."
+  ],
+  "fotoAdegan": "Technicians in safety vests inspecting cables at the base of a tall telecommunications tower, golden afternoon light, rural Indonesian hillside.",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham, karena dividen interim Rp200 miliar ini hanya setara sekitar 5 persen dari laba bersih perusahaan sepanjang tahun buku 2025 yang mencapai Rp3,7 triliun, menunjukkan perusahaan masih punya banyak ruang kas tanpa perlu menguras cadangan atau berutang untuk membayarnya. Yang tersentuh adalah posisi kas dan ekuitas, yakni uang tunai dan modal sendiri perusahaan, karena dividen dibayar dari laba ditahan sehingga mengurangi saldo kas begitu benar-benar dicairkan, dan pelaku pasar memperhatikan pos ini untuk melihat seberapa besar kelebihan dana perusahaan setelah memenuhi kewajiban ke kreditor. Yang perlu dipantau berikutnya adalah tanggal pembayaran riil dividen ini, sebab Direksi baru diberi kewenangan menentukan jumlah dan caranya sejak 12 Oktober 2026 tanpa tanggal pencairan pasti di dokumen ini, serta apakah akan ada tahap dividen interim tambahan sebelum dividen final tahun buku 2026 diputuskan pada rapat pemegang saham berikutnya, mengikuti pola tiga tahap yang terjadi pada tahun buku 2025.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "admr-anak-usaha-catatkan-obligasi-rp2-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "ADMR: Anak Usaha Catatkan [Obligasi] Rp2 Triliun di BEI",
+  "deck": "PT Maruwai Coal, anak usaha ADMR, mencatatkan obligasi senilai Rp2 triliun di Bursa Efek Indonesia untuk mendanai infrastruktur dan operasional.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T21:17:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f9c47fa832_8875e0f9eb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADMR",
+  "tags": [
+   "ADMR",
+   "obligasi",
+   "Maruwai Coal",
+   "surat utang"
+  ],
+  "body": [
+   "PT Maruwai Coal (MC), anak usaha PT Alamtri Minerals Indonesia Tbk (ADMR) yang sahamnya dimiliki secara tidak langsung sebesar 99,99 persen, mencatatkan Obligasi I Maruwai Coal Tahun 2026 di Bursa Efek Indonesia pada 12 Oktober 2026. Total nilai pokok obligasi ini mencapai Rp2 triliun, diterbitkan dalam dua seri dengan tingkat bunga dan jangka waktu yang berbeda.",
+   "Seri A bernilai Rp1.219.765.000.000 dengan bunga tetap 8 persen per tahun dan jatuh tempo 370 hari kalender sejak tanggal emisi. Seri B senilai Rp780.235.000.000 membawa bunga tetap 8,75 persen per tahun dengan jangka waktu tiga tahun sejak tanggal emisi.",
+   "Dana dari penerbitan obligasi ini akan dipakai MC untuk mendukung pengembangan infrastruktur dan kegiatan operasionalnya. Bagi ADMR selaku induk usaha, penerbitan ini menambah kewajiban keuangan pada tingkat konsolidasian, meski perseroan menyatakan tidak memperkirakan dampak merugikan yang material terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usahanya. Perseroan juga menegaskan transaksi ini bukan transaksi material karena nilainya di bawah 20 persen dari total ekuitas konsolidasian ADMR yang tercatat sebesar US$1,72 miliar per 30 Juni 2026, dan bukan pula transaksi afiliasi atau transaksi dengan benturan kepentingan."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving coal at an open-pit mine in Kalimantan, dust rising, excavators working in the background, overcast sky",
+  "takeaway": "Laporan ini netral bagi ADMR karena penerbitan obligasi oleh anak usahanya hanya menambah utang dalam skala yang menurut perseroan sendiri masih di bawah 20 persen dari ekuitas konsolidasian, sehingga tidak mengubah struktur kendali atau menimbulkan risiko besar bagi pemegang saham. Yang tersentuh di sini adalah beban bunga dan kewajiban keuangan ADMR secara konsolidasi, sebab utang baru Rp2 triliun ini otomatis menambah pos liabilitas di laporan keuangan grup meski arus dananya mengalir lewat MC, bukan langsung dari kas ADMR. Pasar biasanya mencermati rasio utang terhadap ekuitas semacam ini untuk menilai apakah perusahaan masih punya ruang untuk berutang lagi tanpa membebani kemampuan bayarnya. Yang perlu dipantau berikutnya adalah jatuh tempo Seri A sekitar 370 hari sejak pencatatan pada 12 Oktober 2026, yakni sekitar pertengahan Oktober 2027, saat MC harus melunasi pokok Rp1,22 triliun, serta laporan keuangan konsolidasian ADMR berikutnya untuk melihat bagaimana tambahan utang ini tercermin dalam rasio keuangan grup.",
+  "sentimen": "netral"
  },
  {
   "slug": "bei-jatuhkan-sanksi-ke-70-emiten-soal-laporan-keuangan-interim",
@@ -407,6 +511,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "bq-finalkan-penyesuaian-harga-waran-asii-pasca-dividen",
+  "category": "Aksi Korporasi",
+  "title": "BQ Finalkan Penyesuaian Harga [Waran] ASII Pasca Dividen",
+  "deck": "Korea Investment Sekuritas Indonesia (BQ) menetapkan harga pelaksanaan dan rasio final dua waran terstruktur ASII, efektif 13 Oktober 2026, menyusul dividen tunai Rp98 per saham ASII.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T18:01:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/58f46493fb_f9a5bc81b0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "ASII",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia (BQ) mengumumkan penyesuaian final atas dua waran terstruktur dengan saham acuan PT Astra International Tbk (ASII), yaitu ASIIBQCV6A dan ASIIBQCZ6A, berlaku efektif 13 Oktober 2026. Penyesuaian ini dilakukan karena ASII membagikan dividen tunai tahun buku 2026 sebesar Rp98 per saham, dengan total dividen Rp3,895 triliun, sesuai keputusan RUPST 30 September 2026.",
+   "Untuk waran ASIIBQCV6A, rasio pelaksanaan berubah dari 30 waran berbanding 1 saham ASII menjadi 29,3888 berbanding 1, sementara harga pelaksanaannya turun dari Rp7.375 menjadi Rp7.225 per unit. Untuk ASIIBQCZ6A, rasio berubah dari 35 berbanding 1 menjadi 34,2869 berbanding 1, dengan harga pelaksanaan turun dari Rp6.400 menjadi Rp6.270. Angka ini dihitung memakai rumus baku di prospektus, dengan harga penutupan ASII pada hari bursa terakhir cum dividen sebesar Rp4.810 dan nilai dividen Rp98 per saham sebagai variabel utama.",
+   "Jadwal dividen ASII sendiri mencatat tanggal cum dividen di pasar reguler pada 12 Oktober 2026, tanggal ex dividen 13 Oktober 2026, dengan tanggal pencatatan pemegang saham (recording date) dan pembayaran dividen jatuh pada 14 Oktober 2026. Kedua waran berstatus European style call warrant dengan penyelesaian tunai otomatis jika in the money: ASIIBQCV6A diterbitkan 230 juta unit pada 22 Mei 2026 dengan tanggal pelaksanaan 30 Oktober 2026, sedangkan ASIIBQCZ6A diterbitkan 240 juta unit pada 19 Juni 2026 dengan tanggal pelaksanaan 30 Desember 2026."
+  ],
+  "fotoAdegan": "Rows of new pickup trucks and passenger cars lined up at a large vehicle distribution yard, workers inspecting vehicles, overcast morning light",
+  "takeaway": "Laporan ini netral bagi BQ selaku penerbit, karena penyesuaian harga pelaksanaan dan rasio konversi warannya murni mengikuti rumus baku di prospektus setiap kali saham acuan membagi dividen, bukan cerminan kondisi keuangan BQ atau ASII. Yang tersentuh di sini bukan laporan keuangan BQ, melainkan syarat teknis dua produk warannya: harga pelaksanaan, yakni patokan harga yang dipakai untuk menghitung selisih penyelesaian tunai, dan rasio konversi, yakni berapa lembar waran yang setara dengan satu saham ASII. Penyesuaian ini diperlukan karena pembagian dividen Rp98 per saham otomatis memangkas harga saham ASII pada tanggal ex dividen, sehingga tanpa koreksi, nilai waran bisa tergerus meski tidak ada perubahan fundamental pada ASII. Yang perlu dipantau pemegang waran adalah tanggal pelaksanaan masing-masing produk, yaitu 30 Oktober 2026 untuk ASIIBQCV6A dan 30 Desember 2026 untuk ASIIBQCZ6A, karena nilai penyelesaian tunai akan dihitung dari rata-rata harga penutupan ASII selama lima hari bursa sebelum tanggal tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbia-beli-1-uob-asset-management-jadi-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "BBIA Beli 1% UOB Asset Management, Jadi [Pengendali]",
+  "deck": "Bank UOB Indonesia membeli 1% saham PT UOB Asset Management Indonesia senilai Rp734,9 juta dan resmi jadi pemegang saham pengendali setelah disetujui OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T17:57:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8d2ae8ae62_b3e25d1a3e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBIA",
+  "tags": [
+   "BBIA",
+   "UOB Indonesia",
+   "akuisisi saham",
+   "konglomerasi keuangan"
+  ],
+  "body": [
+   "PT Bank UOB Indonesia (BBIA) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa pada 12 Oktober 2026 perusahaan menandatangani Perjanjian Pemegang Saham untuk membeli 1 persen saham PT UOB Asset Management Indonesia senilai Rp734.926.501, menggunakan dana internal perusahaan. Dengan transaksi ini, Bank UOB Indonesia tercatat sebagai pemegang 1 persen saham dan sekaligus menjadi Pemegang Saham Pengendali di perusahaan manajer investasi tersebut.",
+   "Transaksi ini merupakan tindak lanjut dari ketentuan OJK. Melalui surat nomor SR-10/KS.13/2025 tanggal 8 Juli 2025, OJK menetapkan Bank UOB Indonesia sebagai Perusahaan Induk Konglomerasi Keuangan Operasional, yakni entitas yang wajib memegang kendali atas seluruh anggota kelompok usaha keuangannya, dengan PT UOB Asset Management Indonesia sebagai salah satu anggota kelompok tersebut. Untuk memenuhi syarat itu, bank diharuskan menjadi pemegang saham pengendali di perusahaan anggota kelompoknya, sehingga pembelian 1 persen saham ini dilakukan. Status Bank UOB Indonesia sebagai pemegang saham pengendali di UOB Asset Management Indonesia telah disetujui OJK lewat surat nomor S-456/PM.11/2026 tertanggal 16 September 2026.",
+   "Perusahaan menyatakan transaksi ini tidak berdampak signifikan terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya. Laporan kepada OJK dan BEI ditandatangani oleh Felicia Evangelica selaku Corporate Secretary - Board & Committee Support, sementara surat resmi kepada OJK ditandatangani oleh Direktur Utama Hendra Gunawan."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's central business district, afternoon light, busy street below",
+  "takeaway": "Laporan ini netral bagi BBIA. Nilai transaksinya hanya Rp734,9 juta, kecil bagi bank sebesar UOB Indonesia, dan tujuannya murni memenuhi syarat administratif dari OJK, bukan ekspansi bisnis baru atau sinyal masalah keuangan. Pos yang tersentuh adalah ekuitas dan arus kas bank, karena status pemegang saham pengendali biasanya membuat laporan keuangan perusahaan yang dikendalikan, dalam hal ini PT UOB Asset Management Indonesia, mulai digabungkan ke dalam laporan keuangan konsolidasi bank. Pemegang saham pengendali berarti bank punya kendali penuh atas keputusan strategis perusahaan manajer investasi itu, meski porsi sahamnya hanya 1 persen, karena statusnya sudah disahkan lewat Perjanjian Pemegang Saham 12 Oktober 2026 dan disetujui OJK sejak 16 September 2026. Yang perlu dipantau berikutnya adalah laporan keuangan konsolidasi Bank UOB Indonesia pada kuartal mendatang, untuk melihat bagaimana kinerja UOB Asset Management Indonesia mulai tercermin di neraca bank setelah status pengendali ini efektif.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "gtbo-jawab-bursa-soal-volatilitas-tidak-ada-info-material",
   "category": "Aksi Korporasi",
   "title": "GTBO Jawab Bursa soal Volatilitas: [Tidak Ada] Info Material",
@@ -482,6 +638,31 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Exterior of a modern bank office tower in Jakarta's business district, glass facade reflecting daylight, street traffic below",
   "takeaway": "Laporan ini netral bagi BTN karena seluruh peringkat dinyatakan 'tetap' atau tidak berubah dari periode sebelumnya, jadi tidak ada perbaikan maupun penurunan kualitas kredit yang bisa dibaca sebagai sinyal baru. Yang tersentuh di sini adalah beban bunga, yaitu biaya yang harus dibayar BTN saat meminjam dana lewat obligasi. Semakin tinggi peringkat kredit, semakin besar kepercayaan investor sehingga bank biasanya bisa menerbitkan utang dengan bunga lebih murah, dan AAA(idn) adalah peringkat tertinggi yang bisa diberikan Fitch untuk skala nasional Indonesia. Yang perlu dipantau berikutnya adalah tanggal jatuh tempo dua obligasi ini, yaitu 13 Juli 2027 untuk Obligasi Berkelanjutan III Tahap I dan 24 Mei 2027 untuk Obligasi Berkelanjutan IV Tahap II, serta pemeringkatan ulang oleh Fitch yang biasanya dilakukan setahun sekali sebelum periode saat ini berakhir pada 5 Oktober 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "enrg-catatkan-tambahan-2-15-miliar-saham-dari-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Catatkan Tambahan 2,15 Miliar Saham dari [Rights Issue]",
+  "deck": "Bursa mencatatkan 2,15 miliar saham baru ENRG hasil pelaksanaan HMETD PUT IV, menambah total saham beredar menjadi 29,2 miliar lembar efektif 13 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T17:30:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9df53d0f0_113e8127ae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "rights issue",
+   "HMETD",
+   "BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia resmi mencatatkan tambahan saham Energi Mega Persada Tbk (ENRG) hasil pelaksanaan Hak Memesan Efek Terlebih Dahulu (HMETD) dari Penawaran Umum Terbatas (PUT) IV. Berdasarkan pengumuman bernomor Peng-RI-00040/BEI.PP1/10-2026 yang diteken Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A dan Kepala Divisi Pencatatan Teuku Fahmi Ariandar, saham baru yang ditambahkan sebanyak 2.153.361.681 lembar. Dengan tambahan itu, total saham ENRG yang tercatat di papan utama bursa menjadi 29.202.160.900 lembar, efektif berlaku pada tanggal pencatatan 13 Oktober 2026.",
+   "Rincian proses pencatatan ini tertuang dalam surat PT Ficomindo Buana Registrar, biro administrasi efek ENRG, bernomor 02/RS/FBR-ENRG/X/26 tertanggal 12 Oktober 2026 yang ditandatangani Direktur Jimmi Maulana Sidik dan ditembuskan ke jajaran direksi BEI serta direksi ENRG. Surat itu menyebut saldo saham ENRG yang tercatat sebelumnya adalah 27.048.799.219 lembar. Pada 9 Oktober 2026, pelaksanaan HMETD menambah 2.153.361.681 lembar saham baru, sehingga per 12 Oktober 2026 jumlah saham ENRG yang tercatat di bursa menjadi 29.202.160.900 lembar. Surat tersebut juga menyebut sisa saham dalam bentuk ENRG-R, yakni hak yang belum dieksekusi pemegangnya, sekitar 10,64 miliar lembar."
+  ],
+  "fotoAdegan": "Onshore oil and gas drilling rig workers in orange coveralls checking pipeline valves under a hazy tropical sky",
+  "takeaway": "Laporan ini netral bagi ENRG karena isinya hanya mencatat eksekusi rights issue PUT IV yang skemanya sudah lebih dulu disetujui dan diketahui pasar, tanpa ada informasi baru soal harga pelaksanaan atau rencana penggunaan dana segar yang masuk dari pemegang saham yang menebus haknya. Yang tersentuh di sini adalah jumlah saham beredar, yang naik 7,96 persen dari 27,05 miliar menjadi 29,2 miliar lembar. Ini penting diperhatikan karena laba perusahaan ke depan akan terbagi ke lebih banyak lembar saham, sehingga laba per saham cenderung terdilusi kalau laba ENRG tidak ikut naik sepadan dengan tambahan saham tersebut. Yang perlu dipantau selanjutnya adalah laporan ENRG ke OJK dan bursa soal penggunaan dana hasil rights issue ini, serta sisa ENRG-R sekitar 10,64 miliar lembar yang masih bisa dieksekusi pemegangnya selama periode HMETD PUT IV belum berakhir, yang berarti jumlah saham beredar bisa bertambah lagi.",
   "sentimen": "netral"
  },
  {
@@ -563,6 +744,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "humi-rombak-seluruh-direksi-komisaris-lewat-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "HUMI [Rombak] Seluruh Direksi-Komisaris Lewat RUPSLB",
+  "deck": "RUPSLB HUMI memberhentikan seluruh direksi dan komisaris lama lalu mengangkat jajaran baru, namun pembebasan tanggung jawab mereka ditangguhkan sampai laporan keuangan audit 2026 selesai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T17:12:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/90ff8bf99a_4e6b635259.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HUMI",
+  "tags": [
+   "HUMI",
+   "RUPSLB",
+   "direksi",
+   "komisaris"
+  ],
+  "body": [
+   "PT Humpuss Maritim Internasional Tbk (HUMI) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 8 Oktober 2026, pukul 14.46 hingga 15.16 WIB di Mangkuluhur City Tower One, Jakarta Selatan. Rapat dihadiri pemegang saham yang mewakili 15.342.982.111 saham atau 84,94 persen dari total 18.063.771.579 saham dengan hak suara sah, sehingga kuorum terpenuhi. Hasil pemungutan suara untuk satu-satunya agenda, yaitu perubahan susunan direksi dan komisaris, mencatat 15.342.979.111 suara setuju atau 99,9 persen, 3.000 suara abstain, dan tidak ada suara menolak.",
+   "RUPS memutuskan memberhentikan seluruh anggota direksi dan dewan komisaris tanpa memberikan pembebasan dan pelunasan penuh atau acquit et de charge atas tindakan pengurusan mereka, karena laporan keuangan auditan tahun buku 2026 belum selesai disusun. Pembebasan itu baru akan diputuskan setelah direksi dan komisaris menyampaikan laporan pertanggungjawaban pada RUPS Tahunan tahun buku 2026. Direksi dan komisaris lama yang diberhentikan adalah Presiden Direktur I Gusti Ngurah Askhara Danadiputra, Direktur Indra Yurana Sugiarto yang juga merangkap Sekretaris Perusahaan, Komisaris Utama sekaligus Komisaris Independen Mahdan, dan Komisaris Dedi Hudayana.",
+   "Sebagai pengganti, RUPS mengangkat Darma Mangkuluhur Hutomo sebagai Komisaris Utama dan Elna Hanafi sebagai Komisaris Independen di jajaran dewan komisaris. Di jajaran direksi, Rudi Satwiko diangkat sebagai Direktur Utama dan Stephanus Adi Prasetyo sebagai Direktur. Susunan baru ini berlaku efektif sejak penutupan RUPSLB sampai dengan sisa masa jabatan pengurus lama, yaitu hingga RUPS Tahunan Perseroan tahun 2027, dengan periode jabatan tercatat dari 8 Oktober 2026 sampai 30 Juni 2028. Surat ini sendiri merupakan koreksi atas pengumuman sebelumnya yang terbit pada hari yang sama, 12 Oktober 2026."
+  ],
+  "fotoAdegan": "Tugboat guiding a large cargo vessel through a busy Indonesian port channel, cranes in the background, early morning light.",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental HUMI: pergantian seluruh direksi dan komisaris memang peristiwa tata kelola yang besar, tetapi keputusan ini sendiri tidak mengubah angka ekuitas, arus kas, atau utang perusahaan. Yang justru perlu dicermati adalah soal akuntabilitas, karena RUPS menahan apa yang disebut acquit et de charge, yaitu semacam surat bersih dari pemegang saham yang menyatakan pengurus lama tidak lagi bisa dimintai tanggung jawab atas kinerja mereka. Penahanan ini terjadi karena laporan keuangan auditan tahun buku 2026 belum selesai disusun, sehingga direksi dan komisaris yang baru diberhentikan itu masih berpotensi dimintai pertanggungjawaban. Yang perlu dipantau berikutnya adalah penyelesaian laporan keuangan auditan 2026 dan penyampaiannya pada RUPS Tahunan 2027, karena saat itulah status pembebasan tanggung jawab direksi dan komisaris lama akan diputuskan, sekaligus jadi batas akhir masa jabatan jajaran baru ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "oasa-direksi-jual-22-8-juta-saham-senilai-rp5-miliar",
   "category": "Aksi Korporasi",
   "title": "OASA: Direksi [Jual] 22,8 Juta Saham Senilai Rp5 Miliar",
@@ -613,6 +820,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of logistics trucks parked in an open depot yard in Indonesia, overcast morning light, no signage visible",
   "takeaway": "Laporan ini condong negatif bagi MYOH karena menunjukkan kewajiban hukumnya belum tuntas padahal tenggat dua tahun sudah lewat sekitar delapan bulan, dengan realisasi penjualan kembali saham TRJA yang nyaris nol, hanya 300 lembar dari target 57,48 juta lembar. Yang tersentuh di sini bukan laba atau kas MYOH secara langsung, melainkan porsi saham TRJA yang beredar bebas di tangan publik, karena OJK mewajibkan pengendali baru hasil tender offer melepas sebagian kepemilikannya agar saham yang bisa diperdagangkan publik tidak terlalu sedikit, dan keterlambatan semacam ini bisa memicu sorotan atau tindakan dari regulator. Yang perlu dipantau selanjutnya adalah apakah OJK memberi perpanjangan waktu atau meminta penjelasan tambahan dari MYOH, serta apakah laporan perkembangan periode berikutnya akhirnya menunjukkan pergerakan nyata dalam pelepasan sisa 57,48 juta lembar saham tersebut.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "zp-sesuaikan-tiga-waran-asii-usai-dividen-rp98",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Tiga Waran [ASII] Usai Dividen Rp98",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi tiga waran terstruktur berbasis saham ASII menyusul dividen tunai Rp98 per saham, efektif 13 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T16:38:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c724ae7797_f6568a6464.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "ASII",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia dengan kode penerbit ZP mengumumkan penyesuaian syarat dan ketentuan tiga waran terstruktur yang menggunakan saham PT Astra International Tbk (ASII) sebagai acuan. Penyesuaian ini dilakukan menyusul pengumuman ASII pada 2 Oktober 2026 mengenai pembagian dividen tunai tahun buku 2025 sebesar Rp98 per saham. Penyesuaian berlaku efektif 13 Oktober 2026 untuk pasar reguler dan negosiasi, serta 15 Oktober 2026 untuk pasar tunai.",
+   "Tiga waran yang terdampak adalah ASIIZPCV6A, ASIIZPCJ7A, dan ASIIZPCN7A. Pada ASIIZPCV6A, rasio konversi berubah dari 28,0741 banding 1 menjadi 27,5021 banding 1, sementara harga pelaksanaannya turun dari Rp6.551 menjadi Rp6.418. Pada ASIIZPCJ7A, rasio konversi bergeser dari 40 banding 1 menjadi 39,185 banding 1 dengan harga pelaksanaan turun dari Rp5.750 menjadi Rp5.633. Pada ASIIZPCN7A, rasio konversi berubah dari 25 banding 1 menjadi 24,4906 banding 1, dan harga pelaksanaan turun dari Rp5.200 menjadi Rp5.094.",
+   "Penyesuaian ini dihitung dengan rumus baku yang tercantum dalam prospektus Maybank Sekuritas tertanggal 11 April 2025, menggunakan harga perdagangan terakhir ASII pada cum-date sebesar Rp4.810 dikurangi nilai dividen Rp98 per saham. Ketiga waran ini masing-masing mencatatkan 500 juta unit di Bursa Efek Indonesia dan diselesaikan secara tunai saat jatuh tempo, dengan tanggal pelaksanaan berbeda-beda: ASIIZPCV6A pada 30 Oktober 2026, ASIIZPCJ7A pada 30 April 2027, dan ASIIZPCN7A pada 30 Juli 2027."
+  ],
+  "fotoAdegan": "Rows of new sedans and SUVs parked at a vehicle distribution yard, workers checking inventory clipboards, overcast morning light",
+  "takeaway": "Laporan ini netral baik bagi ASII maupun Maybank Sekuritas, sebab penyesuaian harga pelaksanaan dan rasio konversi warannya murni konsekuensi rumus baku yang sudah disepakati sejak waran ini diterbitkan, bukan keputusan bisnis baru dari salah satu pihak. Yang disesuaikan adalah syarat waran terstruktur, bukan pos keuangan ASII seperti ekuitas atau laba per saham, dan penyesuaian ini penting karena pemegang waran tidak ikut menerima dividen padahal harga saham acuan otomatis turun saat ex-dividen, sehingga nilai pelaksanaan dan rasionya dikoreksi agar nilai ekonomis warannya tidak tergerus. Yang perlu dipantau selanjutnya adalah tanggal efektif penyesuaian pada 13 Oktober 2026 di pasar reguler dan negosiasi serta 15 Oktober 2026 di pasar tunai, dan bagi pemegang ASIIZPCV6A, tanggal pelaksanaan yang sudah dekat yaitu 30 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "nsss-komisaris-jual-saham-via-repo-suara-tetap-0-11",

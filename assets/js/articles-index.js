@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ijee-bayar-kupon-obligasi-dan-sukuk-rp52-99-miliar-tepat-waktu",
+  "category": "Aksi Korporasi",
+  "title": "IJEE Bayar Kupon [Obligasi] dan Sukuk Rp52,99 Miliar Tepat Waktu",
+  "deck": "IJEE melunasi bunga dan imbalan Obligasi III serta Sukuk Ijarah II senilai total Rp52,99 miliar ke pemegang efek lewat KSEI pada 9 Oktober 2026, sesuai tanggal jatuh tempo.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IJEE",
+   "obligasi",
+   "sukuk ijarah",
+   "pembayaran kupon"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fec6ed3b81_a29994af0e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "flmc-tambah-kbli-perusahaan-induk-untuk-anak-usaha-distribusi",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Tambah KBLI [Perusahaan Induk] untuk Anak Usaha Distribusi",
+  "deck": "Falmaco Nonwoven berencana menambah KBLI Aktivitas Perusahaan Induk untuk membentuk anak usaha distribusi bermodal awal Rp5 miliar, menunggu persetujuan RUPSLB 18 November 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "KBLI",
+   "Falmaco Nonwoven",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a48bf4a66_ab0e722d0b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pekerja-mandiri-perempuan-didorong-naik-kelas-ke-usaha-formal",
   "category": "Ketenagakerjaan",
   "title": "Pekerja Mandiri Perempuan Didorong [Naik Kelas] ke Usaha Formal",
@@ -69,6 +101,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mulai-dari-jasa-facility-management-hingga-jasa-digital-peluang-ekspor-jasa-kian-terbuka-melalui-tei-2026",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "PRTL bagikan [dividen] interim Rp200 miliar, Rp3,43 per saham",
+  "deck": "PRTL melaporkan rencana dividen interim tunai Rp200 miliar atau Rp3,43 per saham untuk tahun buku 2026, yang hampir seluruhnya mengalir ke pemegang saham pengendali, Sarana Menara Nusantara.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRTL",
+   "dividen interim",
+   "Sarana Menara Nusantara",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/40b4991b0d_b411e23d4e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "admr-anak-usaha-catatkan-obligasi-rp2-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "ADMR: Anak Usaha Catatkan [Obligasi] Rp2 Triliun di BEI",
+  "deck": "PT Maruwai Coal, anak usaha ADMR, mencatatkan obligasi senilai Rp2 triliun di Bursa Efek Indonesia untuk mendanai infrastruktur dan operasional.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMR",
+   "obligasi",
+   "Maruwai Coal",
+   "surat utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f9c47fa832_8875e0f9eb.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bei-jatuhkan-sanksi-ke-70-emiten-soal-laporan-keuangan-interim",
@@ -248,6 +312,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bq-finalkan-penyesuaian-harga-waran-asii-pasca-dividen",
+  "category": "Aksi Korporasi",
+  "title": "BQ Finalkan Penyesuaian Harga [Waran] ASII Pasca Dividen",
+  "deck": "Korea Investment Sekuritas Indonesia (BQ) menetapkan harga pelaksanaan dan rasio final dua waran terstruktur ASII, efektif 13 Oktober 2026, menyusul dividen tunai Rp98 per saham ASII.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BQ",
+   "ASII",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/58f46493fb_f9a5bc81b0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbia-beli-1-uob-asset-management-jadi-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "BBIA Beli 1% UOB Asset Management, Jadi [Pengendali]",
+  "deck": "Bank UOB Indonesia membeli 1% saham PT UOB Asset Management Indonesia senilai Rp734,9 juta dan resmi jadi pemegang saham pengendali setelah disetujui OJK.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBIA",
+   "UOB Indonesia",
+   "akuisisi saham",
+   "konglomerasi keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8d2ae8ae62_b3e25d1a3e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "gtbo-jawab-bursa-soal-volatilitas-tidak-ada-info-material",
   "category": "Aksi Korporasi",
   "title": "GTBO Jawab Bursa soal Volatilitas: [Tidak Ada] Info Material",
@@ -293,6 +389,22 @@ var ARTICLES = [
    "Bank Tabungan Negara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cff90b6b23_b343301f4c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-catatkan-tambahan-2-15-miliar-saham-dari-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Catatkan Tambahan 2,15 Miliar Saham dari [Rights Issue]",
+  "deck": "Bursa mencatatkan 2,15 miliar saham baru ENRG hasil pelaksanaan HMETD PUT IV, menambah total saham beredar menjadi 29,2 miliar lembar efektif 13 Oktober 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "rights issue",
+   "HMETD",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9df53d0f0_113e8127ae.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -344,6 +456,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "humi-rombak-seluruh-direksi-komisaris-lewat-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "HUMI [Rombak] Seluruh Direksi-Komisaris Lewat RUPSLB",
+  "deck": "RUPSLB HUMI memberhentikan seluruh direksi dan komisaris lama lalu mengangkat jajaran baru, namun pembebasan tanggung jawab mereka ditangguhkan sampai laporan keuangan audit 2026 selesai.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HUMI",
+   "RUPSLB",
+   "direksi",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/90ff8bf99a_4e6b635259.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "oasa-direksi-jual-22-8-juta-saham-senilai-rp5-miliar",
   "category": "Aksi Korporasi",
   "title": "OASA: Direksi [Jual] 22,8 Juta Saham Senilai Rp5 Miliar",
@@ -373,6 +501,22 @@ var ARTICLES = [
    "tender offer"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/25c4a64906_9a52089343.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-sesuaikan-tiga-waran-asii-usai-dividen-rp98",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Tiga Waran [ASII] Usai Dividen Rp98",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi tiga waran terstruktur berbasis saham ASII menyusul dividen tunai Rp98 per saham, efektif 13 Oktober 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "ASII",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c724ae7797_f6568a6464.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6323,151 +6467,6 @@ var ARTICLES = [
    "Pasar Modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26bed50dc1_3139db8103.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "foru-r-perdagangan-hmetd-fortune-indonesia-berakhir-6-oktober",
-  "category": "Aksi Korporasi",
-  "title": "FORU-R: Perdagangan [HMETD] Fortune Indonesia Berakhir 6 Oktober",
-  "deck": "Bursa mengingatkan masa perdagangan hak memesan saham baru FORU-R berakhir 6 Oktober 2026, sehari setelah itu hak tersebut dihapus dari pencatatan BEI.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "HMETD",
-   "rights issue",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan FORU-R261006-No. Peng-00188BEI.POP10-2026.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bswd-gelar-public-expose-insidental-atas-permintaan-ojk",
-  "category": "Aksi Korporasi",
-  "title": "BSWD Gelar Public Expose Insidental atas Permintaan [OJK]",
-  "deck": "Bank of India Indonesia Tbk akan menggelar paparan publik insidental pada 8 Oktober 2026 menyusul permintaan OJK, membahas kinerja terkini hingga informasi material lainnya.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSWD",
-   "Bank of India Indonesia",
-   "Public Expose",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/95d89140da_cfa214edb7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bsim-ganti-susunan-komite-audit-efektif-1-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BSIM Ganti Susunan [Komite Audit], Efektif 1 Oktober",
-  "deck": "Bank Sinarmas merombak Komite Audit, Rusmin Sammy jadi ketua baru menggantikan Kristamuljana, berlaku sejak 1 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSIM",
-   "Komite Audit",
-   "Bank Sinarmas",
-   "Tata Kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6f0346d08e_68fab34460.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-repo-turunkan-saham-suara-ke-34-60",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi [Repo] Turunkan Saham, Suara ke 34,60%",
-  "deck": "Samuel Sekuritas Indonesia selaku direksi NSSS menjual 147 juta saham lewat skema repo dan membeli kembali 108 juta saham, hak suaranya turun tipis ke 34,60%.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "repo",
-   "direksi",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7470-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indonesia-gelar-dialog-global-soal-royalti-hak-cipta",
-  "category": "Teknologi",
-  "title": "Indonesia Gelar Dialog Global soal [Royalti] Hak Cipta",
-  "deck": "DJKI menggelar forum internasional di Bali, 7-9 Oktober 2026, membahas tata kelola royalti hak cipta lintas negara di tengah maraknya streaming dan AI.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/indonesia-gelar-dialog-global-soal-royalti-hak-cipta.jpg",
-  "imageV": "muv3elmg",
-  "tags": [
-   "royalti",
-   "hak cipta",
-   "DJKI",
-   "digitalisasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471299-indonesia-gelar-dialog-global-bahas-tata-kelola-royalti-hak-cipta-lintas-negara"
- },
- {
-  "slug": "bksl-direksi-tambah-saham-lewat-repo-suara-ke-5-59",
-  "category": "Aksi Korporasi",
-  "title": "BKSL: Direksi Tambah Saham Lewat [Repo], Suara ke 5,59%",
-  "deck": "Direksi Sentul City menambah 683,9 juta saham lewat perjanjian repo seharga Rp55 per saham pada 5 Oktober 2026, menaikkan hak suaranya dari 5,18% menjadi 5,59%.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKSL",
-   "Sentul City",
-   "kepemilikan saham",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-1915-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "film-direksi-tambah-20-6-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "FILM: Direksi Tambah [20,6 Juta] Saham Lewat Repo",
-  "deck": "Direksi FILM menambah bersih 20,6 juta saham lewat mekanisme repo pada 5 Oktober 2026, hak suara naik dari 9,00% menjadi 9,19%.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "kepemilikan saham",
-   "repo saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-8376-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fwct-jawab-bei-penjualan-turun-35-67-dan-catat-rugi",
-  "category": "Aksi Korporasi",
-  "title": "FWCT Jawab BEI, Penjualan Turun 35,67% dan Catat [Rugi]",
-  "deck": "PT Wijaya Cahaya Timber (FWCT) menjelaskan ke BEI soal penjualan yang turun 35,67% dan rugi Rp25,65 miliar, serta membantah mengenal direksi bernama Indra Satriawan dalam laporan kepemilikan saham.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FWCT",
-   "kayu lapis",
-   "BEI",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cbb4764540_5cc770ed8c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "drma-komisaris-beli-5-juta-saham-rp800-per-lembar",
-  "category": "Aksi Korporasi",
-  "title": "DRMA: Komisaris Beli [5 Juta] Saham, Rp800 per Lembar",
-  "deck": "Komisaris Dharma Polimetal, Noel Aelyo Laras Kusuma Negara, membeli 5 juta saham DRMA secara tidak langsung senilai sekitar Rp4 miliar, mengangkat hak suaranya ke 1,80 persen.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DRMA",
-   "Dharma Polimetal",
-   "komisaris",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-2674-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

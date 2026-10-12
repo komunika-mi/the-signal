@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bei-jatuhkan-sanksi-ke-70-emiten-soal-laporan-keuangan-interim",
+  "category": "Aksi Korporasi",
+  "title": "BEI Jatuhkan [Sanksi] ke 70 Emiten soal Laporan Keuangan Interim",
+  "deck": "BEI menjatuhkan peringatan tertulis dan denda sampai Rp150 juta kepada 70 emiten yang terlambat menyampaikan laporan keuangan interim per Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T21:03:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/882ea299e2_c3f3bcd7ed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "BEI",
+   "SRIL",
+   "PGAS",
+   "Sanksi Laporan Keuangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menjatuhkan sanksi kepada puluhan perusahaan tercatat yang terlambat menyampaikan laporan keuangan interim per 30 Juni 2026. Berdasarkan pengumuman resmi bernomor Peng-S-00033/BEI.PLP/10-2026 tertanggal 9 Oktober 2026, dari 956 emiten yang wajib menyampaikan laporan tersebut, 886 di antaranya sudah tepat waktu. Sisanya, 70 emiten, belum memenuhi kewajiban itu hingga tenggat yang ditetapkan, yakni 29 September 2026 untuk laporan tanpa opini akuntan publik, dan 30 September 2026 untuk laporan yang ditelaah terbatas maupun yang diaudit akuntan publik.",
+   "Sanksi paling berat jatuh ke 62 emiten di Papan Utama, Papan Pengembangan, dan Papan Ekonomi Baru yang belum menyerahkan laporan keuangan tanpa laporan akuntan publik. Mereka menerima Peringatan Tertulis III sekaligus denda Rp150 juta per emiten, sehingga total denda kelompok ini mencapai sekitar Rp9,3 miliar. Daftarnya mencakup ALTO, ARKA, ARMY, ARTI, BEBS, BHAT, BIKA, BOSS, BTEL, CBMF, COAL, COWL, CPRI, DEAL, DUCK, ENVY, ETWA, GAMA, GOLL, HITS, HKMU, HOME, HOTL, INCF, INDX, IPPE, JMAS, JSKY, KAYU, KBRI, LCGP, LCKM, LMAS, MABA, MAGP, MREI, MTRA, NUSA, PLAS, PMMP, POOL, PTDU, PURE, RAFI, RIMO, SBAT, SIMA, SKYB, SRIL, SUGI, SWAT, TAYS, TDPM, TECH, TELE, TGRA, TOPS, TOYS, TRAM, TRIL, UNIT, dan ZBRA.",
+   "Dua emiten di Papan Akselerasi, yaitu MENN dan SOUL, mendapat Peringatan Tertulis III tanpa denda karena papan tersebut memakai skema sanksi berbeda. Dua emiten lain, INRU dan PGAS, belum menyampaikan laporan yang ditelaah terbatas oleh akuntan publik sehingga masing-masing dikenakan Peringatan Tertulis II dan denda Rp50 juta. Sementara empat emiten, APIC, DPNS, NATO, dan NINE, baru dikenakan Peringatan Tertulis I karena belum menyerahkan laporan keuangan versi audit akuntan publik.",
+   "Di luar 70 emiten yang disanksi, BEI mencatat 55 efek tidak wajib menyampaikan laporan ini, terdiri dari 47 ETF, 3 DIRE, dan 5 waran terstruktur. Enam emiten dengan tahun buku berbeda dari kebanyakan perusahaan tercatat, yaitu AMIN, HEXA, IKBI, AMOR, CANI, dan RIGS, seluruhnya tercatat menyampaikan laporan tepat waktu sesuai tenggat masing-masing."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's Sudirman financial district photographed from a low angle against a bright sky",
+  "takeaway": "Ini kabar negatif untuk ke-70 emiten yang disebut dalam sanksi ini, terutama 62 nama yang kena denda Rp150 juta sekaligus peringatan tertulis ketiga, sebab keterlambatan menyampaikan laporan keuangan sampai berbulan-bulan dari tenggat biasanya menandakan ada kendala di dalam perusahaan, bukan sekadar urusan administrasi semata. Laporan keuangan interim adalah alat utama investor memantau arus kas, yaitu uang yang benar-benar masuk dan keluar dari kas perusahaan, serta posisi ekuitas atau modal pemegang saham; keterlambatan menyusunnya sering berkaitan dengan kesulitan likuiditas atau belum selesainya proses dengan akuntan publik. Di sisi lain, denda yang dikenakan, mulai dari Rp50 juta sampai Rp150 juta per emiten, relatif kecil dibandingkan skala bisnis kebanyakan perusahaan tercatat, sehingga dampaknya ke kas emiten sendiri tidak besar, yang lebih berat justru catatan buruk soal kepatuhan. Yang perlu dipantau berikutnya adalah apakah ke-70 emiten ini akhirnya menyerahkan laporannya, karena Peraturan Bursa I-H memberi jenjang sanksi yang bisa meningkat ke penghentian sementara perdagangan saham kalau keterlambatan berlanjut pada periode laporan berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "vtny-obligasi-jpy200-juta-diperpanjang-lagi-ke-akhir-2026",
+  "category": "Aksi Korporasi",
+  "title": "VTNY: Obligasi [JPY200 Juta] Diperpanjang Lagi ke Akhir 2026",
+  "deck": "Venteny Fortuna menjawab permintaan penjelasan BEI soal piutang jumbo, obligasi anak usaha yang dua kali diperpanjang, dan pergantian corporate secretary dua kali dalam sepekan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T20:02:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/867fe02032_a3a914dca7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "obligasi",
+   "piutang",
+   "corporate secretary"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) menjawab surat Bursa Efek Indonesia (BEI) No. S-12811/BEI.PP2/10-2026 tanggal 8 Oktober 2026 yang meminta penjelasan atas laporan keuangan interim semester I 2026 dan akhir 2025. Surat balasan diteken Direktur Kaleb Solaiman pada 12 Oktober 2026. Salah satu sorotan BEI adalah transaksi antar anak usaha yang tidak diaudit, Venteny G.K. dan Venteny Pte. Ltd. Venteny G.K. memperoleh advisory fee dari VTNY dan Venteny Pte. Ltd., sementara Venteny Pte. Ltd. memperoleh management fee dari VTNY dan PT Venteny Matahari Indonesia. Perseroan menyebut seluruh transaksi itu bersifat afiliasi. Dana dari penerbitan obligasi Venteny Pte. Ltd. senilai JPY200 juta mengalir ke VTNY, lalu ke PT Venteny Matahari Indonesia, sebelum akhirnya disalurkan sebagai pembiayaan ke debitur pihak ketiga seperti UMKM dan pengguna ekosistem.",
+   "Obligasi JPY200 juta itu sebelumnya sudah diperpanjang sampai 30 Agustus 2026, dan kini diperpanjang lagi sampai akhir Desember 2026 atas kesepakatan dengan kreditur untuk melakukan rollover. Perseroan menyebut pelunasan nanti akan mengandalkan kas internal dan hasil operasional grup. Di sisi lain, Venteny G.K. yang ekuitasnya negatif per 30 Juni 2026 masih menanggung obligasi JPY5,90 miliar dengan bunga 6 sampai 8 persen per tahun. VTNY menyatakan Venteny G.K. mendapat dukungan pendanaan dari grup untuk memenuhi kewajiban itu dan belum ada restrukturisasi atas utang tersebut.",
+   "Soal piutang, pendapatan VTNY pada semester I 2026 tercatat Rp105,85 miliar, hampir tidak berubah dari Rp104,01 miliar pada periode yang sama tahun sebelumnya. Padahal piutang yang belum jatuh tempo mencapai Rp1.023,54 miliar per 30 Juni 2026, turun sedikit dari Rp1.059,94 miliar di akhir 2025, dengan bunga pinjaman ke debitur 2 sampai 2,2 persen per bulan dan tenor 1 bulan sampai 1 tahun. Terpisah, piutang usaha dari penjualan dan pengembangan sistem senilai Rp147 miliar yang tercatat per akhir 2025 menjadi nihil pada Juni 2026, bukan karena dibayar tunai, melainkan dialihkan lewat cessie kepada pihak ketiga independen sehingga risiko dan manfaatnya berpindah penuh dan piutangnya dihapus dari buku. BEI juga mempertanyakan 13 dari 16 pihak ketiga dalam daftar piutang itu yang nilainya sama persis, Rp3,15 miliar masing-masing, serta sejumlah nama yang tidak ditemukan di data AHU. Ketiga belas perusahaan itu adalah PT Software Karya Bangsa, PT Inonvasi Teknologi Software, PT Arjuna Sakti Nusantara, PT Satria Teknologi Maju, PT Satria Anak Muda Kreatif, PT Satria Anak Muda Cemerlang, PT Satria Kreatif Dinamis, PT Bumi Cipta Teknologi Berlanjut, PT Solusi Perangkat Lunak Indonesia, PT Bunidigi Nusa Persada, PT Tekno Inovatif Indonesia, PT Teknologi Canggih Nusantara, dan PT Inovasi Cerdas Indonesia. Perseroan menyatakan sudah memverifikasi keberadaan dan legalitas mereka lewat pemeriksaan NPWP, NIB, dan identitas pengurus.",
+   "Di luar urusan keuangan, VTNY juga menjelaskan pergantian corporate secretary dua kali dalam waktu kurang dari dua pekan. Zasa Pingkan Kinanti mengundurkan diri efektif 29 September 2026 dan sempat digantikan Synthia Wijaya, namun belakangan ditemukan Synthia masih aktif merangkap jabatan di emiten lain sehingga penunjukannya dibatalkan. Grand Yustitia Wirawan kemudian ditunjuk sebagai corporate secretary baru efektif 7 Oktober 2026. Perseroan juga melaporkan liabilitas imbalan kerja naik dari Rp1,93 miliar menjadi Rp2,80 miliar akibat pergantian aktuaris yang mengubah asumsi tingkat diskonto dari 6,9 persen menjadi 7,2 persen, sementara jumlah karyawan tetap turun dari 86 orang per akhir 2025 menjadi 75 orang per Juni 2026. BEI turut mempertanyakan selisih realisasi dana IPO Rp49,97 miliar, yang menurut prospektus dan RUPSLB 11 Oktober 2023 direncanakan untuk VENTENY Super-App, namun ikut dipakai membiayai VENTENY Management System, Loan Origination System, dan pengembangan teknologi data. Jawaban rinci Perseroan atas poin ini terpotong dalam dokumen yang diterima."
+  ],
+  "fotoAdegan": "Loan officers reviewing stacks of paper loan files at a wooden desk inside a small Jakarta fintech office, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi VTNY, karena pola yang muncul bukan satu kejadian tapi rangkaian: utang yang terus diperpanjang alih-alih dilunasi, piutang raksasa yang jauh melampaui pendapatan, dan piutang Rp147 miliar yang hilang dari buku lewat cessie, yakni penjualan hak tagih ke pihak lain, tanpa uang kas yang benar-benar masuk ke kas perusahaan. Tiga pos yang perlu diperhatikan investor adalah ekuitas anak usaha Venteny G.K. yang negatif alias utangnya sudah lebih besar dari asetnya, arus kas yang tidak terisi penuh karena pelunasan lewat cessie bukan kas, dan beban bunga yang berjalan di dua arah, yakni membayar 6 sampai 8 persen per tahun untuk obligasinya sendiri sekaligus membebankan 2 sampai 2,2 persen per bulan ke debitur yang dibiayainya. Yang perlu dipantau berikutnya adalah jatuh tempo obligasi JPY200 juta milik Venteny Pte. Ltd. pada akhir Desember 2026, apakah benar-benar dilunasi atau kembali diperpanjang untuk ketiga kalinya, serta apakah BEI akan meminta penjelasan lanjutan atas jawaban penggunaan dana IPO yang terpotong dalam dokumen ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "investasi-hilirisasi-ri-capai-rp300-1-triliun-di-semester-i",
   "category": "Makroekonomi",
   "title": "Investasi Hilirisasi RI Capai [Rp300,1] Triliun di Semester I",
@@ -29,6 +83,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret dari siaran ini adalah progres Satgas Percepatan Program Pemerintah: 135 dari 190 aduan pelaku usaha sudah diselesaikan per 22 September 2026, dengan 129 aduan di antaranya menyangkut investasi lebih dari Rp625 triliun dan sekitar 31 ribu tenaga kerja. Pihak yang langsung terdampak adalah pelaku usaha yang mengadukan hambatan investasi tersebut, serta industri padat karya berorientasi ekspor yang disebut menyerap sekitar 5 juta pekerja jika negosiasi tarif dengan Amerika Serikat membuahkan hasil. Pola yang terlihat adalah pemerintah menjalankan dua jalur sekaligus, membersihkan hambatan birokrasi di dalam negeri sambil membuka pasar baru lewat kerja sama dagang dengan Uni Eropa, Kanada, dan Amerika Serikat, sebagai cara mengurangi ketergantungan ekspor pada komoditas lama seperti sawit, batu bara, dan ferroalloy. Yang akan menunjukkan apakah jalur ini benar membawa hasil adalah penyelesaian 55 aduan yang masih tersisa di Satgas, serta hasil akhir negosiasi tarif AS yang diklaim bisa menambah ekspor sampai US$2,3 miliar per tahun.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "csmi-utang-ke-pihak-terkait-dan-merek-nws-terganjal-2-tahun",
+  "category": "Aksi Korporasi",
+  "title": "CSMI: utang ke pihak terkait dan merek NWS [terganjal] 2 tahun",
+  "deck": "CSMI menjawab permintaan penjelasan BEI dengan rincian pendapatan outlet, utang ke pihak terafiliasi yang syaratnya belum disepakati, dan pendaftaran merek NWS Chicken yang mandek dua tahun",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T19:06:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c39b221c68_fc83d6aea3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSMI",
+  "tags": [
+   "CSMI",
+   "Cipta Selera Murni",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Cipta Selera Murni Tbk. (CSMI) menyampaikan tanggapan atas surat permintaan penjelasan Bursa Efek Indonesia Nomor S-12872/BEI.PP2/10-2026 tertanggal 9 Oktober 2026. Dalam suratnya, perusahaan merinci pendapatan empat outlet yang dimilikinya selama semester I 2026, yakni outlet Pekanbaru Rp212 juta, Pondok Kopi Rp257 juta, Tambun Rp130 juta, dan Galaxy Rp255 juta, dengan total pendapatan Rp854 juta. Angka ini hanya tumbuh 4,8 persen dibandingkan periode yang sama tahun 2025, dan menurut manajemen hal itu terjadi karena penambahan outlet belum diikuti kenaikan produktivitas penjualan secara proporsional.",
+   "Perusahaan juga mengungkapkan bahwa outlet bermerek Texas Chicken sudah ditutup sejak 1 Maret 2023, setelah kerja sama waralaba dengan Cajun Global LLC dihentikan melalui perjanjian pembatalan pada tanggal tersebut. Ke depan, CSMI menyatakan tidak berencana ekspansi agresif dan akan fokus mengoptimalkan outlet yang sudah berjalan, dengan penambahan outlet baru dipertimbangkan bertahap sesuai kelayakan lokasi dan ketersediaan dana. Keempat outlet yang beroperasi saat ini seluruhnya berstatus sewa dengan masa kontrak di bawah 12 bulan, sehingga perusahaan tidak mencatat aset maupun utang sewa jangka panjang di laporan keuangannya.",
+   "Soal kondisi keuangan, CSMI menjelaskan penurunan nilai aset tetap sejak 2024 disebabkan oleh penyusutan dan pengurangan aset, bukan karena jumlah outlet berkurang. Yang lebih material, perusahaan mengakui bahwa bunga dan jangka waktu pelunasan utang lain-lain kepada PT Cipta Swadaya Murni, pihak yang berelasi dengan perusahaan, masih dalam pembahasan dan belum disepakati secara final, sehingga rinciannya belum bisa dicantumkan dalam catatan laporan keuangan. Di sisi lain, proses pendaftaran merek dagang NWS Chicken ke Direktorat Jenderal Kekayaan Intelektual masih mandek lebih dari dua tahun karena ada perselisihan kesamaan nama dengan merek lain, dan perusahaan mengakui risikonya adalah ketidakpastian perlindungan hukum atas mereknya sendiri.",
+   "Mengenai kenaikan harga sahamnya, manajemen CSMI menyatakan bahwa pendapatan memang naik dan kerugian menyusut pada semester I 2026 dibandingkan tahun sebelumnya, namun perusahaan masih mencatatkan rugi. Manajemen menegaskan perbaikan kinerja itu tidak serta-merta menjelaskan besarnya kenaikan harga saham, karena harga juga dipengaruhi ekspektasi investor serta mekanisme permintaan dan penawaran di pasar. Perusahaan juga menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Small fried chicken restaurant counter in Indonesia, staff preparing takeout orders, simple roadside storefront, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental CSMI, karena perusahaan sendiri mengakui pertumbuhan pendapatannya kecil, masih merugi, dan kenaikan harga sahamnya tidak bisa dijelaskan oleh kinerja operasional. Yang tersentuh di sini ada tiga pos: pendapatan, yaitu uang yang masuk dari penjualan, yang cuma naik 4,8 persen; utang kepada pihak berelasi yang bunga dan tenggat pelunasannya belum disepakati, sehingga menambah ketidakpastian beban keuangan ke depan; dan merek dagang sebagai aset tak berwujud yang melindungi identitas produk dari penggunaan pihak lain, yang pendaftarannya mandek karena sengketa nama. Pelaku pasar akan memperhatikan tiga hal lanjutan, yaitu hasil negosiasi syarat utang dengan PT Cipta Swadaya Murni, kelanjutan sengketa nama merek NWS Chicken, dan apakah laporan keuangan kuartal III 2026 menunjukkan pendapatan tumbuh lebih baik dari semester sebelumnya.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bpjs-gandeng-bsi-perluas-akses-bayar-iuran-jkn",
@@ -84,6 +164,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "byan-jhonlin-baratama-kini-pegang-30-25-saham-bayan",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: Jhonlin Baratama Kini Pegang [30,25%] Saham Bayan",
+  "deck": "Bayan Resources menjelaskan ke Bursa bahwa PT Jhonlin Baratama kini menguasai 30,25% saham perusahaan seharga Rp2.588 per saham, tanpa mengubah status pengendali Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T18:29:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/708ec0f567_37cd1ac6e9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "Jhonlin Baratama",
+   "Low Tuck Kwong"
+  ],
+  "body": [
+   "PT Bayan Resources Tbk (BYAN) menyampaikan tanggapan tertulis kepada Bursa Efek Indonesia pada 12 Oktober 2026, menjawab permintaan penjelasan bursa bernomor S-11836/BEI.PP1/10-2026 tertanggal 8 Oktober 2026. Permintaan itu menyoal transaksi pengalihan 10.084.088.370 saham BYAN dari Dato' Low Tuck Kwong, Direktur Utama dan pendiri Bayan Resources, serta Elaine Low, kepada PT Jhonlin Baratama. Dalam jawabannya, manajemen Bayan menyebut transaksi tersebut telah selesai dan membuat PT Jhonlin Baratama kini menguasai 30,25 persen dari modal ditempatkan dan disetor Perseroan, dengan harga transaksi Rp2.588 per saham sesuai laporan kepemilikan yang diterima perusahaan.",
+   "Bursa juga mempertanyakan selisih antara volume transaksi pasar negosiasi periode 14 September sampai 7 Oktober 2026, yang tercatat 10.117.421.705 saham, dengan jumlah saham yang disebut sebagai objek Perjanjian Jual Beli Saham Bersyarat, yakni 10.084.088.370 saham. Bayan menjelaskan selisih itu berasal dari tiga laporan kepemilikan terpisah: Low Tuck Kwong selaku Direktur Utama melepas 33.333.335 saham pada 6 Oktober 2026, Elaine Low selaku pemegang saham utama melepas 16.666.667 saham pada 7 Oktober 2026, dan Low Tuck Kwong kembali melepas 10.067.421.703 saham pada 7 Oktober 2026. Di luar ketiga transaksi itu, Bayan menyatakan tidak memiliki informasi mengenai transaksi pasar negosiasi lain pada periode tersebut.",
+   "Mengenai dasar penentuan harga, Bayan menyatakan tidak bisa memberi konfirmasi karena perusahaan bukan pihak dalam transaksi tersebut, termasuk soal penggunaan jasa penilai independen atau KJPP. Namun manajemen menegaskan penyelesaian transaksi ini tidak mengakibatkan perubahan status pengendali Perseroan. Bayan juga menyebut belum ada perubahan rencana belanja modal, ekspansi usaha, atau kerja sama strategis, dan belum ada pembahasan sinergi dengan PT Jhonlin Baratama. Perusahaan menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving coal at a large open-pit mine in Kalimantan, dust rising under an overcast sky",
+  "takeaway": "Kami menilai laporan ini netral bagi Bayan Resources, karena isinya mengonfirmasi ulang transaksi besar yang sudah diketahui pasar dan menegaskan tidak ada pergantian pengendali, bukan membawa arah baru. Yang tersentuh di sini adalah komposisi pemegang saham, bukan jumlah saham beredar atau laba per saham, sebab ini cuma perpindahan saham dari tangan Low Tuck Kwong dan Elaine Low ke Jhonlin Baratama di pasar sekunder, tanpa penerbitan saham baru. Meski begitu, patut dicatat bahwa kepemilikan Jhonlin Baratama di level 30,25 persen kini sudah melampaui sisa saham Low Tuck Kwong, sehingga wajar kalau pasar menanti apakah Bursa akan meminta klarifikasi lanjutan soal kepatuhan free float Bayan ke depan. Yang perlu dipantau berikutnya adalah respons Bursa atas jawaban ini dan apakah akan muncul keterbukaan informasi baru soal sinergi atau perubahan strategi begitu Jhonlin Baratama mulai terlibat dalam pengelolaan Perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "byan-konfirmasi-harga-transaksi-jhonlin-rp2-588-saham",
+  "category": "Aksi Korporasi",
+  "title": "BYAN Konfirmasi Harga Transaksi Jhonlin [Rp2.588]/Saham",
+  "deck": "BYAN jelaskan ke Bursa bahwa harga pengalihan saham ke Jhonlin Baratama Rp2.588/saham, Jhonlin kini kuasai 30,25% saham BYAN tanpa pergantian pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T18:24:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/708ec0f567_37cd1ac6e9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "Jhonlin Baratama",
+   "Bayan Resources",
+   "pasar modal"
+  ],
+  "body": [
+   "Bayan Resources Tbk (BYAN) menjawab surat permintaan penjelasan Bursa Efek Indonesia No. S-11836/BEI.PP1/10-2026 tertanggal 8 Oktober 2026 terkait pengalihan 10.084.088.370 saham BYAN dari Dato' Low Tuck Kwong dan Elaine Low kepada PT Jhonlin Baratama. Dalam jawabannya, perseroan mengonfirmasi bahwa berdasarkan laporan perubahan kepemilikan saham No. LK/08102026/0008/1 dan No. LK/08102026/0006/1 tertanggal 8 Oktober 2026, harga transaksi yang tercatat adalah Rp2.588 per saham. Setelah penyelesaian transaksi, PT Jhonlin Baratama memiliki saham yang mewakili 30,25 persen dari modal ditempatkan dan disetor BYAN.",
+   "BYAN juga menjelaskan selisih jumlah saham yang sempat dipertanyakan Bursa, yakni antara transaksi pasar negosiasi periode 14 September sampai 7 Oktober 2026 yang tercatat 10.117.421.705 saham, dengan 10.084.088.370 saham yang menjadi objek Perjanjian Jual Beli Saham Bersyarat. Selisih itu berasal dari dua transaksi terpisah, penjualan 33.333.335 saham oleh Low Tuck Kwong selaku Direktur Utama pada 6 Oktober 2026, dan penjualan 16.666.667 saham oleh Elaine Low selaku Pemegang Saham Utama pada 7 Oktober 2026, sementara transaksi inti dengan Jhonlin Baratama mencakup 10.067.421.703 saham yang dijual Low Tuck Kwong pada 7 Oktober 2026.",
+   "Terkait proses penentuan harga, BYAN menyatakan tidak bisa memastikan apakah para pihak menggunakan jasa KJPP atau penilai independen, karena perseroan bukan pihak dalam transaksi tersebut. Perseroan menegaskan penyelesaian transaksi ini tidak mengakibatkan perubahan pengendalian pada BYAN, dan belum ada perubahan rencana belanja modal, ekspansi, atau pembahasan sinergi usaha apa pun antara BYAN dan Jhonlin Baratama sampai saat ini."
+  ],
+  "fotoAdegan": "Haul trucks loaded with coal moving along a dusty open-pit mine road in East Kalimantan, overcast afternoon light",
+  "takeaway": "Laporan ini kami nilai netral bagi Bayan Resources, karena transaksi antara Low Tuck Kwong dan Jhonlin Baratama sudah lebih dulu diketahui pasar, dan BYAN di sini hanya menambahkan angka harga serta merinci ulang jumlah saham tanpa ada perubahan pengendali perusahaan. Pos yang tersentuh adalah komposisi pemegang saham dan hak suara, karena begitu Jhonlin Baratama resmi menguasai 30,25 persen saham, pihak ini otomatis jadi salah satu pemegang saham terbesar yang suaranya diperhitungkan dalam RUPS meski belum mengambil alih kendali perusahaan. Perlu dicatat, BYAN sendiri mengaku tidak tahu apakah harga Rp2.588 per saham itu ditentukan lewat penilai independen, karena bukan pihak dalam transaksi, sehingga dasar penetapan harga itu belum sepenuhnya transparan ke publik. Yang perlu dipantau selanjutnya adalah apakah Jhonlin Baratama akan mengambil langkah korporasi lanjutan seperti RUPSLB atau pembahasan sinergi usaha, mengingat BYAN menegaskan belum ada pembicaraan semacam itu sampai saat ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "aims-jawab-permintaan-bei-ungkap-kontrak-trading-batu-bara-baru",
   "category": "Aksi Korporasi",
   "title": "AIMS Jawab Permintaan BEI, Ungkap [Kontrak] Trading Batu Bara Baru",
@@ -107,6 +239,59 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers guiding a coal loader filling a barge at a river port, cranes and stockpiles under an overcast sky",
   "takeaway": "Laporan ini condong netral bagi AIMS karena satu-satunya informasi baru, yakni kontrak trading batu bara, disebutkan tanpa nilai transaksi atau nama mitra sehingga besarannya belum bisa dinilai, sementara rencana bisnis baru lainnya masih sebatas penjajakan tanpa komitmen. Yang tersentuh di sini adalah pos pendapatan, karena kontrak tersebut dijanjikan akan masuk ke laporan keuangan kuartal III 2026 dan itu yang membuat pelaku pasar perlu memperhatikan apakah benar terealisasi menjadi uang masuk bagi perusahaan. Yang perlu dipantau berikutnya adalah penerbitan laporan keuangan kuartal III 2026 untuk melihat apakah kontrak itu benar tercatat sebagai pendapatan, serta apakah penjajakan pengembangan usaha baru yang disebut Perseroan akan berlanjut menjadi keterbukaan informasi yang lebih konkret.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgli-ungkap-pemicu-saham-melonjak-100-usai-disuspensi-bursa",
+  "category": "Aksi Korporasi",
+  "title": "PGLI Ungkap Pemicu Saham [Melonjak] 100% Usai Disuspensi Bursa",
+  "deck": "Dalam public expose insidentil usai disuspensi, manajemen PGLI sebut lonjakan harga saham 100,89% dalam 10 hari murni dinamika pasar, bukan info material yang belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T18:03:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e930eed2e9_1cd181505a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGLI",
+  "tags": [
+   "PGLI",
+   "suspensi saham",
+   "public expose",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Pembangunan Graha Lestari Indah Tbk (PGLI) menggelar Public Expose Insidentil setelah Bursa Efek Indonesia menghentikan sementara perdagangan sahamnya di Pasar Reguler dan Pasar Tunai pada 8 Oktober 2026, melalui pengumuman Peng-SPT-00207/BEI.WAS/10-2026 tanggal 7 Oktober 2026. BEI juga meminta perseroan menggelar public expose ini lewat surat elektronik tanggal 8 Oktober 2026, sebagai bagian dari penyebaran informasi ke pemegang saham. Perdagangan saham PGLI dibuka kembali pada 9 Oktober 2026 lewat pengumuman Peng-UPT-00214/BEI.WAS/10-2026, dan acara public expose sendiri dijadwalkan 13 Oktober 2026 melalui Zoom.",
+   "Materi yang disampaikan memuat data pergerakan harga saham sepanjang 29 September sampai 9 Oktober 2026. Saham PGLI naik 100,89 persen dari harga terendah Rp200 pada 29 September menjadi harga tertinggi Rp426 pada 9 Oktober, dengan total nilai transaksi selama periode itu mencapai Rp9,68 miliar. Transaksi harian terbesar terjadi pada 5 Oktober 2026 senilai Rp2,92 miliar. Manajemen menyatakan pergerakan harga dan kenaikan volume transaksi itu merupakan hasil dinamika pasar, tidak ada informasi atau fakta material lain yang belum diungkap ke publik, dan tidak ada perubahan komposisi pemegang saham pengendali. Susunan pemegang saham tercatat PT Alam Lestari Investindo 46,82 persen dan masyarakat 53,18 persen.",
+   "Dari sisi kinerja keuangan, pendapatan kuartal II 2026 tercatat Rp10,45 miliar, naik dari Rp9,26 miliar pada kuartal II 2025, dengan segmen hotel naik dari Rp3,73 miliar menjadi Rp5,10 miliar sementara segmen Le Chic Bake House sedikit turun dari Rp5,53 miliar menjadi Rp5,35 miliar. Laba kotor konsolidasi naik dari Rp3,68 miliar menjadi Rp5,10 miliar. Total aset per kuartal II 2026 tercatat Rp34,18 miliar, turun dari Rp35,76 miliar pada akhir 2025, seiring total liabilitas yang juga turun dari Rp22,92 miliar menjadi Rp21,22 miliar, sementara ekuitas naik tipis dari Rp12,84 miliar menjadi Rp12,97 miliar.",
+   "Untuk rencana usaha, perseroan menyebut akan meningkatkan efisiensi operasional terutama pemakaian listrik, memaksimalkan pemasaran ballroom dan kamar Hotel Travellers Suites Medan, menambah outlet Le Chic Bakehouse di beberapa mal di Medan sambil mengevaluasi outlet yang kontribusi labanya kecil, serta menyebut entitas asosiasinya, PT Aek Simonggo Energi, telah beroperasi komersial dan diharapkan memberi kontribusi positif."
+  ],
+  "fotoAdegan": "Hotel lobby entrance with luggage trolleys and modern furniture in a mid-size Indonesian city hotel, daytime light",
+  "takeaway": "Secara fundamental, laporan ini netral karena pemicu lonjakan harga saham PGLI diakui manajemen sendiri sebagai dinamika pasar, bukan perubahan kinerja atau kepemilikan, sehingga tidak ada dasar membacanya sebagai sinyal positif atau negatif bagi bisnis inti perseroan. Yang bergerak di laporan keuangan adalah ekuitas, yaitu selisih antara aset dan utang yang menjadi bantalan keuangan pemegang saham, naik tipis ke Rp12,97 miliar dari Rp12,84 miliar, sementara total aset dan total utang perseroan justru menyusut bersamaan, menandakan perseroan sedang mengecilkan ukuran neracanya. Laba kotor, yaitu pendapatan dikurangi biaya langsung operasional, juga naik dari Rp3,68 miliar menjadi Rp5,10 miliar, ditopang segmen hotel yang tumbuh sementara segmen bakehouse justru sedikit menyusut. Yang perlu dipantau pemegang saham adalah sesi public expose insidentil pada 13 Oktober 2026 lewat Zoom, tempat investor bisa langsung menanyakan ke manajemen soal lonjakan harga 100 persen dalam 10 hari perdagangan itu, serta apakah Bursa akan menerbitkan tindak lanjut pengawasan atas aktivitas saham yang tidak wajar tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gtbo-jawab-bursa-soal-volatilitas-tidak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Jawab Bursa soal Volatilitas: [Tidak Ada] Info Material",
+  "deck": "BEI minta penjelasan ke GTBO soal volatilitas transaksi saham lewat surat 8 Oktober 2026. Perseroan menjawab tak ada info material, aktivitas pemegang saham khusus, atau rencana korporasi baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T17:45:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/29b32d0c87_8c8df853f5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTBO",
+  "tags": [
+   "GTBO",
+   "Garda Tujuh Buana",
+   "Bursa Efek Indonesia",
+   "Volatilitas Saham"
+  ],
+  "body": [
+   "Garda Tujuh Buana Tbk (GTBO) memberikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-12832/BEI.PP3/10-2026 tertanggal 8 Oktober 2026 terkait volatilitas transaksi efek perusahaan. Jawaban disampaikan lewat surat bernomor 041/GTB-JKT/X/2026 yang ditandatangani Direktur GTBO, Yanry Musa, pada 12 Oktober 2026.",
+   "Dalam suratnya, GTBO menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal. Perseroan menyebut informasi material terakhir yang sudah disampaikan ke publik adalah persetujuan RKAB (Rencana Kerja dan Anggaran Biaya) pada 29 September 2026. GTBO juga menegaskan tidak mengetahui aktivitas dari pemegang saham tertentu, serta tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang berdampak pada pencatatan sahamnya di bursa.",
+   "Soal rencana pemegang saham, GTBO menyampaikan bahwa pemegang saham utama maupun pemegang saham mayoritas tidak memiliki rencana apa pun terkait kepemilikan sahamnya di perusahaan, termasuk kemungkinan transaksi tertentu. Jawaban ini melengkapi rangkaian keterbukaan informasi GTBO pekan ini, setelah pada 5 Oktober 2026 perusahaan sudah merinci kepastian RKAB, kontrak penjualan, dan piutang usahanya kepada bursa."
+  ],
+  "fotoAdegan": "Open-pit coal mine in Kalimantan with heavy excavators loading trucks, dust and haze under tropical midday light",
+  "takeaway": "Catatan ini netral bagi GTBO karena jawabannya hanya menegaskan ulang kondisi yang sudah diketahui publik, tanpa data baru soal ekuitas, kas, atau jumlah saham beredar yang bisa mengubah penilaian investor. Surat semacam ini biasanya dipicu bursa ketika harga atau volume transaksi saham bergerak di luar kebiasaan, dan isinya penting disimak karena menyingkirkan kemungkinan ada transaksi besar pemegang saham pengendali atau rencana korporasi tersembunyi yang bisa mengubah hak suara maupun laba per saham ke depan. Yang perlu dipantau selanjutnya adalah realisasi dari persetujuan RKAB yang sudah dikantongi GTBO sejak 29 September 2026, serta apakah volatilitas transaksi saham ini berlanjut hingga memicu surat permintaan penjelasan susulan dari BEI.",
   "sentimen": "netral"
  },
  {
@@ -783,6 +968,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A coal loading conveyor stretching toward a river barge dock surrounded by open-pit mining equipment under a humid tropical sky",
   "takeaway": "Laporan ini netral bagi BIKE, asetnya nyata dan berizin produksi resmi dengan cadangan besar, tetapi surat ini tidak mengungkap berapa dana yang dikeluarkan untuk membeli 45 persen saham itu, dan porsi 45 persen itu sendiri bukan kepemilikan mayoritas meski disebut demikian di salah satu bagian surat, sehingga belum jelas seberapa besar kendali BIKE atas tambang ini. Karena hanya memegang kurang dari separuh saham, pendapatan dan laba PT Sumber Bara Abadi kemungkinan tidak langsung masuk utuh ke laporan keuangan BIKE, melainkan tercatat sebagai bagian dari nilai investasi di neraca, sehingga dampaknya ke laba per saham BIKE baru akan terasa bertahap. Yang perlu dipantau berikutnya adalah pengumuman nilai transaksi yang belum terbuka ini, realisasi kenaikan produksi dari 2 juta menjadi 4 juta metrik ton per tahun mulai 2029, serta laporan keterbukaan lanjutan yang dijanjikan perusahaan seiring perkembangan proyek ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bwpt-koreksi-laporan-dana-sukuk-realisasi-capai-100",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Koreksi Laporan Dana Sukuk, Realisasi Capai [100%]",
+  "deck": "Eagle High Plantations mengoreksi laporan realisasi dana sukuk mudharabah Rp121,19 miliar, seluruhnya sudah terpakai untuk beli CPO, FFB, pupuk, dan bahan bakar sejak Maret 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T12:58:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a12653ffb7_bafd4283b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BWPT",
+  "tags": [
+   "BWPT",
+   "sukuk mudharabah",
+   "CPO",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Eagle High Plantations Tbk (BWPT) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum yang sebelumnya disampaikan pada 8 Juni 2026. Koreksi ini dilakukan untuk menyesuaikan format pengungkapan dengan Peraturan OJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum. Laporan terbaru mencakup Sukuk Mudharabah Berkelanjutan I Eagle High Plantations Tahap III Tahun 2026 yang efektif pada 12 Maret 2026, dengan total dana yang dihimpun sebesar Rp122,825 miliar. Setelah dikurangi biaya penawaran umum sebesar Rp1,632 miliar, dana bersih yang diterima perseroan mencapai Rp121,192 miliar, dan seluruhnya telah terealisasi 100 persen tanpa sisa, telah habis terpakai sejak Maret 2026.",
+   "Seluruh dana bersih dipakai sebagai modal kerja untuk membeli CPO, buah sawit (FFB), pupuk, dan bahan bakar. Rinciannya, pembelian CPO dari PT Farinda Bersaudara senilai Rp36,136 miliar atau 29,82 persen dari total dana, menjadi porsi terbesar. Disusul PT Saraswanti Sawit Makmur Rp19,199 miliar (15,84 persen), PT Berkala Maju Bersama Rp17,700 miliar (14,61 persen), PT Swadaya Sapta Putra Rp15,313 miliar (12,64 persen), PT Sawit Lamandau Raya Rp13,891 miliar (11,46 persen), PT Bumi Agro Prima Rp11,506 miliar (9,49 persen), PT Putra Bongan Jaya Rp6,884 miliar (5,68 persen), dan PT Berlian Nusantara Perkasa Rp563,7 juta (0,47 persen).",
+   "Dari sisi biaya penawaran umum sebesar Rp1,632 miliar, rinciannya meliputi biaya jasa penyelenggaraan (management fee) Rp552,71 juta, biaya jasa penjaminan (underwriting fee) Rp184,24 juta, biaya jasa penjualan (selling fee) Rp184,24 juta, biaya konsultan hukum Rp175 juta, biaya notaris Rp125 juta, biaya tim ahli syariah Rp100 juta, biaya wali amanat Rp100 juta, biaya pemeringkatan efek Rp85,98 juta, dan biaya lain-lain seperti pencatatan di BEI serta audit penjatahan Rp125,1 juta. Laporan realisasi per 30 Juni 2026 ditandatangani Direktur Choong Kam Loong di Jakarta pada 9 Oktober 2026, sementara surat koreksi ke OJK ditandatangani Corporate Secretary Rizka Dewi Sulistyorini pada 12 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers loading fresh palm fruit bunches onto a flatbed truck at a palm oil collection yard, tropical morning light",
+  "takeaway": "Laporan ini netral bagi fundamental BWPT, sebab isinya hanya mengonfirmasi bahwa seluruh dana sukuk sudah terpakai 100 persen sesuai rencana sejak Maret 2026, tanpa ada dana menganggur atau penyimpangan pos penggunaan. Yang tersentuh adalah arus kas dan posisi utang perusahaan, karena sukuk mudharabah ini menambah kewajiban BWPT di neraca, sementara dana tunai yang masuk sudah habis dipakai untuk membeli CPO, buah sawit, pupuk, dan bahan bakar sebagai modal kerja, bukan untuk ekspansi atau membayar utang lain. Pelaku pasar memperhatikan pos ini karena sukuk membawa kewajiban bagi hasil berkala yang harus dibayar terlepas dari untung atau rugi operasional, mirip beban bunga pada obligasi konvensional. Yang perlu dipantau selanjutnya adalah apakah perseroan akan melanjutkan ke tahap berikutnya dari program obligasi berkelanjutan ini, karena laporan ini baru tahap ketiga, serta kepatuhan pelaporan periodik berikutnya sesuai aturan baru POJK Nomor 40 Tahun 2025 yang mendasari koreksi kali ini.",
   "sentimen": "netral"
  },
  {

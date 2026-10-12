@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bei-jatuhkan-sanksi-ke-70-emiten-soal-laporan-keuangan-interim",
+  "category": "Aksi Korporasi",
+  "title": "BEI Jatuhkan [Sanksi] ke 70 Emiten soal Laporan Keuangan Interim",
+  "deck": "BEI menjatuhkan peringatan tertulis dan denda sampai Rp150 juta kepada 70 emiten yang terlambat menyampaikan laporan keuangan interim per Juni 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEI",
+   "SRIL",
+   "PGAS",
+   "Sanksi Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/882ea299e2_c3f3bcd7ed.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vtny-obligasi-jpy200-juta-diperpanjang-lagi-ke-akhir-2026",
+  "category": "Aksi Korporasi",
+  "title": "VTNY: Obligasi [JPY200 Juta] Diperpanjang Lagi ke Akhir 2026",
+  "deck": "Venteny Fortuna menjawab permintaan penjelasan BEI soal piutang jumbo, obligasi anak usaha yang dua kali diperpanjang, dan pergantian corporate secretary dua kali dalam sepekan.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "obligasi",
+   "piutang",
+   "corporate secretary"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/867fe02032_a3a914dca7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "investasi-hilirisasi-ri-capai-rp300-1-triliun-di-semester-i",
   "category": "Makroekonomi",
   "title": "Investasi Hilirisasi RI Capai [Rp300,1] Triliun di Semester I",
@@ -19,6 +51,21 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7146/wamenko-dradjad-dorong-penguatan-pengusaha-nasional-dan-perluasan-akses-pasar",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "csmi-utang-ke-pihak-terkait-dan-merek-nws-terganjal-2-tahun",
+  "category": "Aksi Korporasi",
+  "title": "CSMI: utang ke pihak terkait dan merek NWS [terganjal] 2 tahun",
+  "deck": "CSMI menjawab permintaan penjelasan BEI dengan rincian pendapatan outlet, utang ke pihak terafiliasi yang syaratnya belum disepakati, dan pendaftaran merek NWS Chicken yang mandek dua tahun",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSMI",
+   "Cipta Selera Murni",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c39b221c68_fc83d6aea3.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bpjs-gandeng-bsi-perluas-akses-bayar-iuran-jkn",
@@ -54,6 +101,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "byan-jhonlin-baratama-kini-pegang-30-25-saham-bayan",
+  "category": "Aksi Korporasi",
+  "title": "BYAN: Jhonlin Baratama Kini Pegang [30,25%] Saham Bayan",
+  "deck": "Bayan Resources menjelaskan ke Bursa bahwa PT Jhonlin Baratama kini menguasai 30,25% saham perusahaan seharga Rp2.588 per saham, tanpa mengubah status pengendali Perseroan.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "Jhonlin Baratama",
+   "Low Tuck Kwong"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/708ec0f567_37cd1ac6e9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "byan-konfirmasi-harga-transaksi-jhonlin-rp2-588-saham",
+  "category": "Aksi Korporasi",
+  "title": "BYAN Konfirmasi Harga Transaksi Jhonlin [Rp2.588]/Saham",
+  "deck": "BYAN jelaskan ke Bursa bahwa harga pengalihan saham ke Jhonlin Baratama Rp2.588/saham, Jhonlin kini kuasai 30,25% saham BYAN tanpa pergantian pengendali.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "Jhonlin Baratama",
+   "Bayan Resources",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/708ec0f567_37cd1ac6e9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "aims-jawab-permintaan-bei-ungkap-kontrak-trading-batu-bara-baru",
   "category": "Aksi Korporasi",
   "title": "AIMS Jawab Permintaan BEI, Ungkap [Kontrak] Trading Batu Bara Baru",
@@ -67,6 +146,38 @@ var ARTICLES = [
    "batu bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6b18ed3956_dd43ac2698.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgli-ungkap-pemicu-saham-melonjak-100-usai-disuspensi-bursa",
+  "category": "Aksi Korporasi",
+  "title": "PGLI Ungkap Pemicu Saham [Melonjak] 100% Usai Disuspensi Bursa",
+  "deck": "Dalam public expose insidentil usai disuspensi, manajemen PGLI sebut lonjakan harga saham 100,89% dalam 10 hari murni dinamika pasar, bukan info material yang belum diungkap.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGLI",
+   "suspensi saham",
+   "public expose",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e930eed2e9_1cd181505a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gtbo-jawab-bursa-soal-volatilitas-tidak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Jawab Bursa soal Volatilitas: [Tidak Ada] Info Material",
+  "deck": "BEI minta penjelasan ke GTBO soal volatilitas transaksi saham lewat surat 8 Oktober 2026. Perseroan menjawab tak ada info material, aktivitas pemegang saham khusus, atau rencana korporasi baru.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTBO",
+   "Garda Tujuh Buana",
+   "Bursa Efek Indonesia",
+   "Volatilitas Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/29b32d0c87_8c8df853f5.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -485,6 +596,22 @@ var ARTICLES = [
    "PNE"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f22c0525d_a02a58cfab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bwpt-koreksi-laporan-dana-sukuk-realisasi-capai-100",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Koreksi Laporan Dana Sukuk, Realisasi Capai [100%]",
+  "deck": "Eagle High Plantations mengoreksi laporan realisasi dana sukuk mudharabah Rp121,19 miliar, seluruhnya sudah terpakai untuk beli CPO, FFB, pupuk, dan bahan bakar sejak Maret 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "sukuk mudharabah",
+   "CPO",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a12653ffb7_bafd4283b4.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6338,134 +6465,6 @@ var ARTICLES = [
    "Pemegang Saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c7e92289f9_d780a8c59d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bcic-holding-jepang-siapkan-suntikan-modal-akhir-2026",
-  "category": "Aksi Korporasi",
-  "title": "BCIC: Holding Jepang Siapkan [Suntikan Modal] Akhir 2026",
-  "deck": "Dalam paparan publik tahunan, manajemen Bank JTrust Indonesia mengungkap rencana suntikan modal dari induk usaha di Jepang, laba semester I Rp80 miliar yang belum kena pajak, dan NPL yang turun.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BCIC",
-   "JTrust Indonesia",
-   "perbankan",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ffd3e7696c_a89ca61310.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pyfa-usulkan-pelunasan-obligasi-dipercepat-ke-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "PYFA Usulkan [Pelunasan] Obligasi Dipercepat ke Desember 2026",
-  "deck": "Pyridam Farma mengundang pemegang Obligasi Berkelanjutan I Tahap I 2022 ke RUPO 19 Oktober 2026 untuk menyetujui pelunasan lebih awal pada 7 Desember 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PYFA",
-   "obligasi",
-   "RUPO",
-   "Pyridam Farma"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d4be8eaa1_142be00ca2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-ajukan-penyesuaian-kbli-dan-ubah-penggunaan-dana",
-  "category": "Aksi Korporasi",
-  "title": "CASH Ajukan [Penyesuaian] KBLI dan Ubah Penggunaan Dana",
-  "deck": "Cashlez mengajukan penyesuaian kode usaha KBLI 2025, tiga lini bisnis baru, dan perubahan penggunaan dana rights issue Rp235,5 miliar untuk RUPSLB 8 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "Cashlez",
-   "RUPSLB",
-   "KBLI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ff4d047c65_2ce2c59994.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uniq-jelaskan-ke-bursa-soal-lonjakan-harga-saham",
-  "category": "Aksi Korporasi",
-  "title": "UNIQ Jelaskan ke Bursa soal [Lonjakan] Harga Saham",
-  "deck": "PT Ulima Nitra Tbk menyatakan tidak ada informasi material atau perubahan pemegang saham besar di balik lonjakan harga sahamnya, menjawab permintaan penjelasan BEI.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNIQ",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "Ulima Nitra"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/43a38f2f53_de1c5fd0bb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "supr-suspensi-dibuka-sementara-untuk-crossing-saham-vto",
-  "category": "Aksi Korporasi",
-  "title": "SUPR: Suspensi Dibuka Sementara untuk Crossing Saham [VTO]",
-  "deck": "BEI membuka sementara suspensi SUPR khusus di pasar negosiasi untuk crossing saham hasil tender offer Protelindo, lalu menutupnya lagi paling lambat pukul 14.00 WIB hari ini.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUPR",
-   "delisting",
-   "tender offer",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb302ad14a_ebb7da427c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indo-saham-terkonsentrasi-94-96-di-tangan-terbatas",
-  "category": "Aksi Korporasi",
-  "title": "INDO: Saham [Terkonsentrasi] 94,96% di Tangan Terbatas",
-  "deck": "BEI dan KSEI mengumumkan 94,96% saham INDO dikuasai sejumlah pemegang saham terbatas per 30 September 2026, menyisakan sedikit saham yang beredar bebas di pasar.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDO",
-   "BEI",
-   "KSEI",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/182cdbb532_19baba3a8d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nayz-akuisisi-75-saham-btl-senilai-us-125-juta",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ Akuisisi 75% Saham BTL Senilai [US$125 Juta]",
-  "deck": "NAYZ menandatangani perjanjian pengalihan saham bersyarat untuk mengambil alih 75% saham BTL dari Saiko, pemegang saham pengendali, senilai maksimal US$125 juta.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NAYZ",
-   "akuisisi",
-   "transaksi afiliasi",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1051a669e9_0e58cd0def.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meja-lunasi-utang-rp3-miliar-ke-bca",
-  "category": "Aksi Korporasi",
-  "title": "MEJA Lunasi [Utang] Rp3 Miliar ke BCA",
-  "deck": "PT Harta Djaya Karya Tbk melunasi fasilitas KMK Rp2 miliar dan KRK Rp1 miliar ke BCA pada 30 September 2026, total Rp3 miliar.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEJA",
-   "BCA",
-   "utang",
-   "pelunasan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/705f9371f5_460bd43291.pdf",
   "sourceLabel": "IDX"
  }
 ];

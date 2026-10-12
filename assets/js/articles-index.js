@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jecx-direksi-johan-hutauruk-beli-10-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "[JECX] Direksi Johan Hutauruk Beli 10.000 Saham",
+  "deck": "Direksi JECX Johan A M M Hutauruk membeli 10.000 saham pada 5 Oktober 2026 senilai Rp1.315 per saham, menambah kepemilikan menjadi 18.814.000 lembar, hak suara tetap 0,58 persen.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "kepemilikan saham",
+   "direksi",
+   "Nitrasanata Dharma"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-0116-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "csra-bagikan-dividen-interim-rp15-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "CSRA Bagikan [Dividen] Interim Rp15 per Saham",
+  "deck": "Cisadane Sawit Raya akan membayar dividen interim Rp15 per saham atau total Rp30,75 miliar pada 13 November 2026, didanai dari surplus kas internal perusahaan.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSRA",
+   "dividen interim",
+   "kelapa sawit",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a6eff690f2_da62ea2c79.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-rilis-revisi-laporan-realisasi-dana-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "CYBR Rilis Revisi Laporan [Realisasi] Dana Waran Seri I",
+  "deck": "ITSEC Asia merevisi laporan realisasi dana hasil pelaksanaan Waran Seri I per 30 Juni 2026 menyusul permintaan penyesuaian dari OJK berdasarkan POJK 40/2025.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "waran",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f4dd990654_a3ea97f884.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-jual-saham-via-repo-suara-turun-ke-33-29",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Jual Saham via [Repo], Suara Turun ke 33,29%",
+  "deck": "Samuel Sekuritas Indonesia melepas 335,77 juta saham NSSS lewat skema repurchase agreement seharga Rp750 per saham, hak suaranya turun jadi 33,29 persen.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "repo saham",
+   "kepemilikan saham",
+   "Samuel Sekuritas Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-8423-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "moya-bentuk-usaha-patungan-senilai-rp6-6-miliar-di-karawang",
+  "category": "Aksi Korporasi",
+  "title": "MOYA Bentuk [Usaha Patungan] Senilai Rp6,6 Miliar di Karawang",
+  "deck": "MOYA menggandeng PT Pertiwi Lestari membentuk PT Air Pertiwi Lestari, perusahaan patungan senilai Rp6,6 miliar untuk membangun infrastruktur pengolahan air di Karawang.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MOYA",
+   "usaha patungan",
+   "infrastruktur air",
+   "Karawang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/32b9db00f6_05ba7f2977.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "csra-tetapkan-jadwal-dividen-interim-cair-13-november",
+  "category": "Aksi Korporasi",
+  "title": "CSRA Tetapkan Jadwal Dividen Interim, Cair [13 November]",
+  "deck": "Pemegang saham yang tercatat 26 Oktober 2026 berhak atas dividen interim Rp15 per saham, dibayarkan paling lambat 13 November 2026.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSRA",
+   "dividen interim",
+   "pasar modal",
+   "emiten sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/705f4f1fb5_2330f1e13d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mcol-tegaskan-tak-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "MCOL Tegaskan Tak Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham MCOL. Manajemen menyatakan tidak ada informasi material atau rencana korporasi di baliknya.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MCOL",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6063681b34_7591736493.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inco-jadwalkan-rupslb-18-november-dps-26-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "INCO Jadwalkan [RUPSLB] 18 November, DPS 26 Oktober 2026",
+  "deck": "Vale Indonesia menggelar RUPSLB pada 18 November 2026. Pemegang saham yang ingin mengusulkan agenda punya tenggat hingga 20 Oktober.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INCO",
+   "RUPSLB",
+   "Vale Indonesia",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b137055131_9297c56410.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "epac-panggil-rupslb-bahas-rights-issue-buyback-setop-segmen",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Panggil RUPSLB, Bahas [Rights Issue], Buyback, Setop Segmen",
+  "deck": "RUPSLB EPAC pada 3 November 2026 akan memutuskan rights issue, penghentian segmen kemasan fleksibel konvensional, dan buyback saham.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EPAC",
+   "RUPSLB",
+   "rights issue",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/422363cbdf_b2270754c9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-gelar-rupslb-usai-catat-ekuitas-negatif-rp42-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "INPS Gelar RUPSLB usai Catat [Ekuitas Negatif] Rp42,8 Miliar",
+  "deck": "INPS memanggil RUPSLB 3 November 2026 untuk menyetujui penerbitan hingga 1,25 miliar saham baru senilai Rp125 miliar ke pengendali guna menambal ekuitas negatif Rp42,8 miliar.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "RUPSLB",
+   "private placement",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9d7838fe3b_99384f98f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "esdm-resmikan-izin-sumur-rakyat-di-aceh-genjot-mandatori-etanol",
   "category": "Energi",
   "title": "ESDM Resmikan Izin Sumur Rakyat di Aceh, Genjot Mandatori [Etanol]",
@@ -21,6 +181,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-sumur-rakyat-hingga-etanol-bahlil-dorong-rakyat-jadi-pemain-energi",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "inkp-rampungkan-realisasi-dana-obligasi-sukuk-rp4-6-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INKP Rampungkan Realisasi Dana Obligasi-Sukuk [Rp4,6 Triliun]",
+  "deck": "Seluruh dana dari dua instrumen utang INKP, Obligasi Berkelanjutan VI dan Sukuk Mudharabah Berkelanjutan V tahap II 2026, telah terpakai penuh untuk bayar utang bank dan modal kerja.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9bb9af4d14_9b5275e51f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbkp-tawarkan-obligasi-subordinasi-rp500-miliar-kupon-8-95-9-30",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Tawarkan Obligasi [Subordinasi] Rp500 Miliar, Kupon 8,95-9,30%",
+  "deck": "KB Bank merilis obligasi subordinasi tahap II senilai Rp500 miliar dengan bunga 8,95-9,30 persen, melanjutkan program Rp1 triliun yang dimulai tahun lalu.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBKP",
+   "obligasi subordinasi",
+   "KB Bank",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1cfcca98fc_aa866f07af.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bike-akuisisi-45-saham-tambang-batu-bara-sba",
@@ -6279,200 +6471,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-6462-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-buka-1-000-lapangan-kerja-baru-hingga-2028",
-  "category": "Aksi Korporasi",
-  "title": "TPIA Buka [1.000] Lapangan Kerja Baru hingga 2028",
-  "deck": "Chandra Asri Group akan membuka lebih dari 1.000 lapangan kerja baru di Indonesia secara bertahap hingga 2028, seiring ekspansi tiga pilar bisnisnya.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "Chandra Asri",
-   "ketenagakerjaan",
-   "ekspansi bisnis"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f57e9777d3_43573e776b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-ptpp-kena-suspensi-usai-gagal-bayar-bunga-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "Saham PTPP Kena [Suspensi] Usai Gagal Bayar Bunga Obligasi",
-  "deck": "BEI menghentikan sementara perdagangan seluruh saham PTPP mulai Senin pagi, setelah perseroan menunda pembayaran bunga obligasi dan sukuk yang jatuh tempo 2 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "suspensi saham",
-   "gagal bayar obligasi",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c30f96ddfb_f37bb41b67.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mkpi-gelar-rupslb-27-oktober-bahas-anggaran-dasar",
-  "category": "Aksi Korporasi",
-  "title": "MKPI Gelar RUPSLB 27 Oktober, Bahas [Anggaran Dasar]",
-  "deck": "Metropolitan Kentjana Tbk memanggil RUPSLB pada 27 Oktober 2026 untuk membahas perubahan anggaran dasar dan penegasan susunan pemegang saham.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKPI",
-   "RUPSLB",
-   "Anggaran Dasar",
-   "Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0e5c0ae21d_a0074abd5a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "foru-catatkan-98-9-juta-saham-baru-dari-hmetd",
-  "category": "Aksi Korporasi",
-  "title": "FORU Catatkan [98,9 Juta] Saham Baru dari HMETD",
-  "deck": "BEI mencatat tambahan 98,99 juta saham baru FORU dari pelaksanaan HMETD per 1 Oktober 2026, sehingga total saham beredar perseroan kini mencapai 168,65 miliar lembar.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "rights issue",
-   "HMETD",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/380ba1bd93_6a1787a823.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "otma-resmi-ganti-nama-jadi-pt-summit-oto-finance",
-  "category": "Aksi Korporasi",
-  "title": "OTMA Resmi Ganti Nama Jadi PT [Summit] Oto Finance",
-  "deck": "Bursa mengumumkan perubahan nama emiten OTMA dari PT Oto Multiartha menjadi PT Summit Oto Finance, efektif 5 Oktober 2026, menyusul merger yang efektif sejak 1 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OTMA",
-   "merger",
-   "perubahan nama",
-   "Summit Oto Finance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a0abca7ac_5c3baac5d9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-catat-tambahan-2-4-juta-saham-dari-konversi-owk",
-  "category": "Aksi Korporasi",
-  "title": "PACK catat tambahan 2,4 juta saham dari [konversi] OWK",
-  "deck": "BEI mencatatkan 2.411.500 saham baru PACK hasil konversi obligasi wajib konversi, sehingga total saham beredar naik menjadi 34,12 miliar lembar.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "OWK",
-   "konversi obligasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3dbdf98180_089a03feaa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "investasi-harus-tumbuh-8-9-kejar-target-ekonomi-2027",
-  "category": "Makroekonomi",
-  "title": "Investasi Harus Tumbuh [8-9%] Kejar Target Ekonomi 2027",
-  "deck": "Kemenko Perekonomian menyebut investasi perlu tumbuh 8-9 persen demi target pertumbuhan ekonomi 6 persen pada 2027, didukung transisi energi hijau dan digitalisasi.",
-  "date": "4 Oktober 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
-  "tags": [
-   "investasi",
-   "transisi energi",
-   "elektrifikasi",
-   "pertumbuhan ekonomi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7125/pemerintah-akselerasi-energi-hijau-dan-digital-jadi-twin-engine-ekonomi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pmi-manufaktur-ri-balik-ke-ekspansi-inflasi-terjaga-3-28",
-  "category": "Makroekonomi",
-  "title": "PMI Manufaktur RI [Balik] ke Ekspansi, Inflasi Terjaga 3,28%",
-  "deck": "Inflasi September terjaga di 3,28 persen, neraca dagang Januari-Agustus surplus US$7,25 miliar, dan PMI manufaktur naik ke 52,4 setelah sempat kontraksi Agustus.",
-  "date": "4 Oktober 2026",
-  "image": "assets/img/bendungan.jpg",
-  "tags": [
-   "Inflasi",
-   "Neraca Dagang",
-   "PMI Manufaktur",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7126/tiga-indikator-ekonomi-menguat-fundamental-perekonomian-indonesia-tetap-terjaga",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ragam-bentala-bawa-batik-ke-gaya-harian-lewat-shopee",
-  "category": "UMKM",
-  "title": "Ragam Bentala Bawa Batik ke Gaya Harian lewat [Shopee]",
-  "deck": "Brand lokal Ragam Bentala memperluas batik dari busana formal ke gaya sehari-hari lewat Official Store di Shopee, mengklaim pertumbuhan pesat sejak merambah pasar digital.",
-  "date": "4 Oktober 2026",
-  "image": "assets/img/ragam-bentala-bawa-batik-ke-gaya-harian-lewat-shopee.jpg",
-  "imageV": "mut4krk0",
-  "tags": [
-   "shopee",
-   "batik",
-   "umkm",
-   "ekonomi kreatif"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/470996-dari-wastra-ke-gaya-sehari-hari-ragam-bentala-perluas-cerita-batik-indonesia-bersama-shopee"
- },
- {
-  "slug": "atic-direktur-beli-30-000-saham-senilai-rp13-47-juta",
-  "category": "Aksi Korporasi",
-  "title": "ATIC: Direktur [Beli] 30.000 Saham Senilai Rp13,47 Juta",
-  "deck": "Direktur Anabatic Technologies, Harry Surjanto Hambali, membeli 30.000 saham ATIC secara tidak langsung akhir September 2026, kepemilikannya naik tanpa mengubah hak suara di 3,17 persen.",
-  "date": "3 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATIC",
-   "Anabatic Technologies",
-   "transaksi insider",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-03102026-6985-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-akui-rugi-bersih-rp19-18-miliar-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Akui [Rugi] Bersih Rp19,18 Miliar ke Bursa",
-  "deck": "BIKE menanggapi permintaan penjelasan BEI dengan mengungkap rugi bersih Rp19,18 miliar dan memastikan belum ada kontrak baru yang signifikan sejak laporan keuangan terakhir.",
-  "date": "3 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "rugi bersih",
-   "permintaan penjelasan bursa",
-   "Pasar Minggu"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8027135dac_7e51f41709.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "perpres-baru-jadikan-gemarikan-gerakan-nasional",
-  "category": "Industri",
-  "title": "Perpres Baru Jadikan Gemarikan Gerakan [Nasional]",
-  "deck": "Pemerintah menerbitkan Perpres Nomor 74 Tahun 2026 yang menjadikan Gemarikan gerakan nasional, dengan sasaran khusus ibu hamil, ibu menyusui, balita, anak-anak, dan remaja.",
-  "date": "3 Oktober 2026",
-  "image": "assets/img/perpres-baru-jadikan-gemarikan-gerakan-nasional.jpg",
-  "imageV": "murytdrc",
-  "tags": [
-   "Gemarikan",
-   "KKP",
-   "Perpres",
-   "Konsumsi Ikan"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/gemarikan-jadi-gerakan-nasional-kkp-jamin-kualitas-dan-pasokan-ikan-bagi-masyarakat-8M4L.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
  }
 ];

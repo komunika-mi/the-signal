@@ -3,6 +3,266 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jecx-direksi-johan-hutauruk-beli-10-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "[JECX] Direksi Johan Hutauruk Beli 10.000 Saham",
+  "deck": "Direksi JECX Johan A M M Hutauruk membeli 10.000 saham pada 5 Oktober 2026 senilai Rp1.315 per saham, menambah kepemilikan menjadi 18.814.000 lembar, hak suara tetap 0,58 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T16:04:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-0116-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "kepemilikan saham",
+   "direksi",
+   "Nitrasanata Dharma"
+  ],
+  "body": [
+   "Direksi PT Nitrasanata Dharma Tbk (JECX), Johan A M M Hutauruk, melaporkan pembelian 10.000 lembar saham perusahaan pada 5 Oktober 2026 dengan harga Rp1.315 per saham. Laporan kepemilikan saham ini disampaikan ke Otoritas Jasa Keuangan pada 12 Oktober 2026, dengan transaksi dilakukan secara tidak langsung dan tujuan yang disebutkan adalah investasi.",
+   "Dengan pembelian tersebut, jumlah saham JECX yang dimiliki Johan bertambah dari 18.804.000 lembar menjadi 18.814.000 lembar. Kenaikan 10.000 lembar itu hanya setara sekitar 0,05 persen dari saham yang sudah dipegangnya sebelumnya, sehingga hak suaranya di perusahaan tetap berada di level 0,58 persen, tidak berubah dibandingkan sebelum transaksi."
+  ],
+  "fotoAdegan": "Close-up of a hand stacking small paper share certificates into a folder on a wooden office desk, documents blurred, soft afternoon light",
+  "takeaway": "Laporan ini netral bagi JECX, karena pembelian 10.000 saham oleh Johan Hutauruk hanya setara 0,05 persen dari kepemilikannya yang sudah mencapai 18,8 juta lembar, jumlah yang terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan. Yang tersentuh di sini adalah jumlah saham beredar yang dipegang orang dalam perusahaan, bukan ekuitas atau laba perusahaan, dan pelaku pasar biasanya memperhatikan transaksi semacam ini untuk mengukur apakah manajemen menambah atau mengurangi keyakinannya sendiri pada sahamnya. Karena hak suara Johan tetap di 0,58 persen sebelum dan sesudah transaksi, pembelian ini tidak mengubah peta kendali atau pengaruhnya di JECX. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris JECX lain melakukan transaksi serupa dalam waktu dekat, yang baru berarti kalau terjadi berulang dan dalam jumlah yang jauh lebih besar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "csra-bagikan-dividen-interim-rp15-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "CSRA Bagikan [Dividen] Interim Rp15 per Saham",
+  "deck": "Cisadane Sawit Raya akan membayar dividen interim Rp15 per saham atau total Rp30,75 miliar pada 13 November 2026, didanai dari surplus kas internal perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T15:51:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a6eff690f2_da62ea2c79.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSRA",
+  "tags": [
+   "CSRA",
+   "dividen interim",
+   "kelapa sawit",
+   "dividen"
+  ],
+  "body": [
+   "Direksi PT Cisadane Sawit Raya Tbk (CSRA) melalui keputusan sirkuler tertanggal 12 Oktober 2026 menyetujui pembagian dividen interim tahun buku 2026 sebesar Rp15 per saham, atau total Rp30,75 miliar. Keputusan ini diambil setelah Dewan Komisaris menyetujuinya dalam rapat pada tanggal yang sama, menyusul surat permohonan Direksi Nomor 106/CSR-JKT/Dir-Int/IX/2026 tertanggal 7 Oktober 2026. Keputusan sirkuler ditandatangani oleh Direktur Utama Gita Sapta Adi dan Direktur Seman Sendjaja, sementara persetujuan Dewan Komisaris diteken oleh Komisaris Utama Cokro Cienturi Suhendra, Komisaris Edityawarman S.P., dan Komisaris Independen Koh Bing Hock.",
+   "Perusahaan mencatat laba komprehensif untuk periode semester pertama 2026, yang berakhir 30 Juni 2026, sebesar Rp131,64 miliar. Berdasarkan laporan keuangan per tanggal yang sama, total aset perusahaan tercatat Rp2,64 triliun dan total liabilitas Rp1,04 triliun, sehingga jumlah kekayaan bersih sebelum dividen mencapai Rp1,72 triliun. Setelah dividen interim Rp30,75 miliar dibayarkan, kekayaan bersih perusahaan diperkirakan turun menjadi Rp1,69 triliun, masih jauh di atas modal disetor perusahaan yang sebesar Rp205 miliar. Direksi menyatakan kebutuhan operasional perusahaan tetap bisa dipenuhi dari kas internal yang surplus, dan pembayaran dividen tidak akan mengganggu kemampuan perusahaan memenuhi kewajiban ke kreditor.",
+   "Sesuai jadwal yang diumumkan, periode terakhir perdagangan saham dengan hak dividen (cum dividend) berakhir pada 22 Oktober 2026 di pasar reguler dan negosiasi, serta 26 Oktober 2026 di pasar tunai. Saham mulai diperdagangkan tanpa hak dividen (ex dividend) pada 23 Oktober 2026 di pasar reguler dan negosiasi, dan pada 27 Oktober 2026 di pasar tunai. Tanggal pencatatan pemegang saham yang berhak menerima dividen (recording date) ditetapkan 26 Oktober 2026, dan dividen akan dibayarkan tunai pada 13 November 2026."
+  ],
+  "fotoAdegan": "Workers harvesting palm oil fruit bunches on a plantation, loaded trucks waiting nearby, tropical morning light",
+  "takeaway": "Laporan ini condong positif bagi CSRA karena dividen dibagikan dari laba yang solid, Rp131,64 miliar untuk semester pertama 2026, tanpa menggerus kemampuan perusahaan memenuhi kewajiban ke kreditor. Pos yang tersentuh adalah kekayaan bersih atau ekuitas perusahaan, yang turun dari Rp1,72 triliun menjadi Rp1,69 triliun setelah dividen dibayarkan, serta arus kas karena perusahaan akan mengeluarkan dana tunai Rp30,75 miliar; pelaku pasar memperhatikan rasio ini karena penurunan ekuitas yang relatif kecil dibanding total kekayaan menunjukkan pembagian dividen tidak membebani struktur modal perusahaan. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 26 Oktober 2026 yang menentukan siapa berhak menerima dividen, serta realisasi pembayaran pada 13 November 2026 sebagai titik akhir dari rencana ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cybr-rilis-revisi-laporan-realisasi-dana-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "CYBR Rilis Revisi Laporan [Realisasi] Dana Waran Seri I",
+  "deck": "ITSEC Asia merevisi laporan realisasi dana hasil pelaksanaan Waran Seri I per 30 Juni 2026 menyusul permintaan penyesuaian dari OJK berdasarkan POJK 40/2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T15:39:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f4dd990654_a3ea97f884.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "waran",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "body": [
+   "PT ITSEC Asia Tbk (CYBR) menyampaikan revisi Laporan Realisasi Penggunaan Dana Hasil Pelaksanaan Waran Seri I menjadi saham untuk periode yang berakhir 30 Juni 2026. Revisi ini diajukan menyusul surat Otoritas Jasa Keuangan Nomor S-2227/PM.222/2026 tertanggal 30 September 2026 yang meminta penelaahan atas laporan sebelumnya, dengan penyesuaian mengacu pada aturan baru POJK Nomor 40/POJK.04/2025. Surat bernomor 105/ADMKEU/ITSECASIA/X/2026 ini ditandatangani oleh Direktur Doni Mora dan Direktur Viko Setiyawan, tertanggal 12 Oktober 2026.",
+   "Berdasarkan laporan tersebut, dari total 570.631.202 Waran Seri I berkode CYBR-W yang diterbitkan pada Agustus 2024 dengan harga pelaksanaan Rp200 per saham, total dana sesuai rencana dalam prospektus mencapai Rp114,13 miliar. Realisasi penggunaan dana tercatat Rp101,48 miliar, menyisakan Rp12,65 miliar dana hasil konversi yang belum terpakai per akhir Juni 2026. Sebanyak 438.103.598 unit waran masih belum dikonversi menjadi saham hingga tanggal tersebut.",
+   "Perusahaan menegaskan dana yang dimaksud berasal dari konversi waran dan efek lain, dan laporan ini murni menyesuaikan format pelaporan dengan ketentuan baru OJK, bukan mengubah jumlah atau tujuan penggunaan dana yang sebelumnya sudah diumumkan."
+  ],
+  "fotoAdegan": "Technicians monitoring blurred server dashboards in a dim data center aisle, rows of server racks glowing softly behind them",
+  "takeaway": "Laporan ini netral bagi CYBR, karena isinya adalah penyesuaian format pelaporan dana hasil waran sesuai aturan baru OJK, bukan transaksi baru atau perubahan rencana bisnis. Pos yang tersentuh adalah kas dan potensi jumlah saham beredar: dana Rp12,65 miliar yang belum terpakai masih tercatat sebagai kas perusahaan, sementara 438 juta waran yang belum dikonversi berarti ada potensi tambahan saham baru yang bisa mendilusi laba per saham nanti, tapi itu baru terjadi kalau pemegang waran benar-benar menukarkannya menjadi saham. Yang perlu dipantau berikutnya adalah laporan realisasi dana periode selanjutnya, progres konversi sisa waran tersebut, dan apakah OJK meminta penyesuaian lanjutan setelah revisi yang diajukan pada 12 Oktober 2026 ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-direksi-jual-saham-via-repo-suara-turun-ke-33-29",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Jual Saham via [Repo], Suara Turun ke 33,29%",
+  "deck": "Samuel Sekuritas Indonesia melepas 335,77 juta saham NSSS lewat skema repurchase agreement seharga Rp750 per saham, hak suaranya turun jadi 33,29 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T15:27:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-8423-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "repo saham",
+   "kepemilikan saham",
+   "Samuel Sekuritas Indonesia"
+  ],
+  "body": [
+   "Samuel Sekuritas Indonesia, yang menjabat sebagai anggota direksi PT Nusantara Sawit Sejahtera Tbk (NSSS), melaporkan penjualan 335.777.700 saham biasa NSSS pada 12 Oktober 2026 dengan harga Rp750 per saham. Transaksi ini dilakukan melalui skema repurchase agreement atau perjanjian jual beli kembali, dengan tujuan transaksi yang tertulis sebagai pencairan repo, yaitu menarik dana tunai dengan menjadikan saham sebagai jaminan sementara.",
+   "Sebelum transaksi, Samuel Sekuritas Indonesia memegang 8.258.718.000 saham NSSS dengan hak suara 34,70 persen. Setelah penjualan ini, kepemilikannya berkurang menjadi 7.922.940.300 saham dengan hak suara 33,29 persen. Besaran saham yang dilepas setara 4,07 persen dari total saham yang sebelumnya dipegang pelapor di NSSS.",
+   "Laporan ini melengkapi dua laporan serupa dari pelapor yang sama dalam sepekan terakhir. Pada 5 Oktober 2026, hak suaranya turun ke 34,60 persen lewat repo, lalu pada 8 Oktober 2026 naik kembali ke 34,70 persen. Transaksi 12 Oktober ini membawa hak suaranya ke titik terendah dalam rangkaian tersebut, yaitu 33,29 persen."
+  ],
+  "fotoAdegan": "Workers harvesting palm oil fruit bunches on a plantation and loading them onto a truck under tropical daylight",
+  "takeaway": "Transaksi ini saya nilai netral bagi NSSS, karena meski jumlahnya lebih besar dari dua laporan repo sebelumnya, porsi yang dilepas cuma sekitar 4 persen dari total saham yang dipegang Samuel Sekuritas Indonesia sendiri dan hak suaranya masih di atas 33 persen, jauh dari ambang kehilangan posisi sebagai pemegang saham signifikan. Yang tersentuh di sini adalah hak suara, yaitu porsi suara seorang pemegang saham dalam rapat pemegang saham, bukan ekuitas atau laba per saham perusahaan, sebab transaksi repo semacam ini cuma memindahkan saham sebagai jaminan pinjaman sementara dan tidak mengubah jumlah saham beredar NSSS. Yang perlu dipantau adalah apakah pola cair dan tebus repo oleh Samuel Sekuritas Indonesia ini terus berulang dalam laporan-laporan berikutnya, dan apakah hak suaranya turun lebih jauh mendekati ambang 33 persen yang biasa jadi batas kepemilikan signifikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "moya-bentuk-usaha-patungan-senilai-rp6-6-miliar-di-karawang",
+  "category": "Aksi Korporasi",
+  "title": "MOYA Bentuk [Usaha Patungan] Senilai Rp6,6 Miliar di Karawang",
+  "deck": "MOYA menggandeng PT Pertiwi Lestari membentuk PT Air Pertiwi Lestari, perusahaan patungan senilai Rp6,6 miliar untuk membangun infrastruktur pengolahan air di Karawang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T15:26:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/32b9db00f6_05ba7f2977.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MOYA",
+  "tags": [
+   "MOYA",
+   "usaha patungan",
+   "infrastruktur air",
+   "Karawang"
+  ],
+  "body": [
+   "PT Moya Indonesia (MOYA) membentuk perusahaan patungan bersama PT Pertiwi Lestari, pihak yang berafiliasi dengan perseroan, dengan nama PT Air Pertiwi Lestari. Nilai transaksi pembentukan usaha ini tercatat Rp6.603.600.000, atau sekitar Rp6,6 miliar. Tujuannya adalah melaksanakan proyek pembangunan dan pengoperasian infrastruktur Water Treatment Plant (instalasi pengolahan air bersih), Waste Water Treatment Plant (instalasi pengolahan air limbah), dan Water Recycle Plant (instalasi daur ulang air), termasuk jaringan pipa air bersih dan air limbah di Karawang, Jakarta Barat. Dana untuk proyek ini berasal dari kas internal perusahaan, bukan dari pinjaman baru.",
+   "Berdasarkan Keputusan Menteri Hukum RI Nomor AHU-0082111.AH.01.01.Tahun 2026 tertanggal 12 Oktober 2026, modal dasar PT Air Pertiwi Lestari ditetapkan Rp10 miliar dengan modal ditempatkan Rp6.603.600.000. Kepemilikan dibagi rata: PT Moya Indonesia dan PT Pertiwi Lestari masing-masing memegang 33.018 lembar saham senilai Rp3.301.800.000, sehingga keduanya mengendalikan perusahaan patungan ini secara seimbang. Susunan pengurusnya terdiri dari Rahadian Sutisnawidjaja sebagai Direktur Utama, Dwi Restiyanto dan Irawan Wisnu Wardana sebagai Direktur, serta Adhi Indrawan sebagai Komisaris Utama dan Ir. Saut Simanjuntak sebagai Komisaris.",
+   "Dalam dokumen tersebut disebutkan bahwa setiap penjualan, pengalihan, atau penjaminan saham di PT Air Pertiwi Lestari baru bisa dilakukan setelah mendapat persetujuan Rapat Umum Pemegang Saham, dan pemegang saham memiliki hak ikut serta atau tag along jika salah satu pihak berniat melepas sahamnya. MOYA menyatakan pembentukan usaha patungan ini tidak membawa dampak material terhadap operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usahanya. Laporan ditandatangani oleh Theta Carina Christyanti selaku Vice President MOYA."
+  ],
+  "fotoAdegan": "Workers in hard hats and safety vests inspecting large water treatment tanks and pipe networks at an industrial plant in daylight",
+  "takeaway": "Saya menilai laporan ini netral bagi MOYA, karena nilai modal usaha patungan sebesar Rp6,6 miliar, dengan porsi MOYA hanya sekitar Rp3,3 miliar, relatif kecil dan perusahaan sendiri menegaskan tidak ada dampak material terhadap keuangannya. Investasi semacam ini biasanya hanya tercatat sebagai pos investasi pada entitas asosiasi di laporan keuangan, bukan sesuatu yang langsung mengubah jumlah saham beredar milik publik atau laba per saham, dan karena didanai dari kas internal, utang perusahaan juga tidak bertambah. Yang perlu dipantau selanjutnya adalah apakah proyek pembangunan instalasi pengolahan air di Karawang ini benar-benar berjalan dan menghasilkan kontrak kerja sama konkret, misalnya dengan pemerintah daerah atau industri setempat, karena baru di titik itu usaha patungan ini akan terlihat pengaruhnya pada pendapatan MOYA.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "csra-tetapkan-jadwal-dividen-interim-cair-13-november",
+  "category": "Aksi Korporasi",
+  "title": "CSRA Tetapkan Jadwal Dividen Interim, Cair [13 November]",
+  "deck": "Pemegang saham yang tercatat 26 Oktober 2026 berhak atas dividen interim Rp15 per saham, dibayarkan paling lambat 13 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T15:18:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/705f4f1fb5_2330f1e13d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSRA",
+  "tags": [
+   "CSRA",
+   "dividen interim",
+   "pasar modal",
+   "emiten sawit"
+  ],
+  "body": [
+   "Direksi PT Cisadane Sawit Raya Tbk (CSRA), yang diwakili Gita Sapta Adi selaku Direktur Utama dan Seman Sendjaja selaku Direktur, menetapkan jadwal pembayaran dividen tunai interim untuk tahun buku 2026 setelah mendapat persetujuan Dewan Komisaris pada 12 Oktober 2026. Dividen interim ditetapkan sebesar Rp15 per saham dengan total nilai Rp30,75 miliar, diambil dari laba komprehensif semester pertama 2026 yang tercatat Rp131,64 miliar.",
+   "Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada 26 Oktober 2026 pukul 16.00 WIB berhak menerima dividen ini. Untuk transaksi di pasar reguler dan negosiasi, tanggal cum dividen jatuh pada 22 Oktober 2026 dan ex dividen pada 23 Oktober 2026, sementara di pasar tunai cum dividen jatuh pada 26 Oktober 2026 dan ex dividen pada 27 Oktober 2026. Pembayaran dividen dijadwalkan paling lambat pada 13 November 2026.",
+   "Dalam surat permohonan yang diajukan Gita Sapta Adi kepada Dewan Komisaris, yakni Cokro Cienturi Suhendra selaku Komisaris Utama, Edityawarman S.P. selaku Komisaris, dan Koh Bing Hock selaku Komisaris Independen, disebutkan bahwa jika dividen ini dibayarkan, kekayaan bersih perusahaan per 30 Juni 2026 akan turun dari Rp1,72 triliun menjadi Rp1,69 triliun, namun jumlah itu masih jauh di atas modal disetor perusahaan sebesar Rp205 miliar. Total aset perusahaan tercatat Rp2,64 triliun dengan total liabilitas Rp1,04 triliun. Dewan Komisaris menyetujui rencana tersebut dalam rapat 12 Oktober 2026 setelah menilai kondisi kas internal perusahaan surplus dan pembayaran dividen tidak akan mengganggu kewajiban kepada kreditur."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested oil palm fruit bunches onto a truck at a plantation collection point, overcast morning light",
+  "takeaway": "Laporan ini condong positif bagi CSRA karena dividen dibayar dari laba semester pertama yang solid dan perusahaan tetap memiliki kekayaan bersih jauh di atas modal disetor setelah dividen cair, tanda kas internal benar-benar longgar. Pos yang tersentuh adalah ekuitas, yaitu modal sendiri perusahaan setelah dikurangi utang, yang akan berkurang dari Rp1,72 triliun menjadi Rp1,69 triliun karena sebagian laba dibagikan ke pemegang saham dan tidak ditahan sebagai modal kerja. Arus kas perusahaan juga akan keluar Rp30,75 miliar pada tanggal pembayaran, meski manajemen menyebut kas operasional saat ini surplus sehingga tidak akan mengganggu pembayaran ke kreditur. Yang perlu dipantau adalah tanggal pencatatan pemegang saham pada 26 Oktober 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran pada 13 November 2026 sebagai penanda apakah jadwal ini terlaksana tepat waktu.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mcol-tegaskan-tak-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "MCOL Tegaskan Tak Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham MCOL. Manajemen menyatakan tidak ada informasi material atau rencana korporasi di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T15:03:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6063681b34_7591736493.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MCOL",
+  "tags": [
+   "MCOL",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Prima Andalan Mandiri Tbk (MCOL) menjawab permintaan penjelasan dari Bursa Efek Indonesia (BEI) soal volatilitas transaksi sahamnya. Surat permintaan BEI bernomor S-12798/BEI.PP2/10-2026 tertanggal 8 Oktober 2026, dan MCOL memberikan jawaban resminya pada 12 Oktober 2026 melalui Head of Corporate Secretary Jeanny Pratiwi.",
+   "Dalam jawabannya, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa mempengaruhi nilai efek maupun keputusan investasi pemodal, sesuai aturan POJK Nomor 31/2015 dan Peraturan BEI Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas khusus dari pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham. Pemegang saham pengendali disebut telah dikonfirmasi dan tidak memiliki rencana transaksi atau penyesuaian kepemilikan saham di perseroan.",
+   "MCOL juga menegaskan tidak ada rencana tindakan korporasi dalam tiga bulan mendatang yang akan berdampak pada status pencatatan sahamnya di bursa, serta tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik. Pemegang saham utama perseroan, menurut keterangan yang dikutip manajemen, juga tidak memiliki rencana mengubah kepemilikan sahamnya saat ini."
+  ],
+  "fotoAdegan": "Coal stockpiles and conveyor belts at an open-pit mining site under an overcast sky, heavy equipment in the distance",
+  "takeaway": "Laporan ini netral bagi fundamental MCOL, karena isinya murni penegasan bahwa tidak ada perubahan apa pun, bukan kabar baik maupun buruk bagi kinerja perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau laba per saham yang tersentuh di sini; nilai beritanya justru pada fakta bahwa BEI mendeteksi pergerakan harga atau volume transaksi saham MCOL yang dianggap tidak wajar, sehingga meminta klarifikasi resmi. Pasar memperhatikan surat semacam ini karena menjadi alarm dini bila ada spekulasi atau informasi yang beredar tidak merata sebelum diumumkan secara resmi, meski dalam kasus ini perseroan membantah memiliki informasi tersembunyi itu. Yang perlu dipantau selanjutnya adalah apakah pola transaksi saham MCOL kembali normal atau BEI mengambil langkah lanjutan seperti penghentian sementara perdagangan jika volatilitasnya masih berlanjut, mengingat suspensi lazim ditempuh bursa saat penjelasan emiten belum meredakan lonjakan transaksi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inco-jadwalkan-rupslb-18-november-dps-26-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "INCO Jadwalkan [RUPSLB] 18 November, DPS 26 Oktober 2026",
+  "deck": "Vale Indonesia menggelar RUPSLB pada 18 November 2026. Pemegang saham yang ingin mengusulkan agenda punya tenggat hingga 20 Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T14:55:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b137055131_9297c56410.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INCO",
+  "tags": [
+   "INCO",
+   "RUPSLB",
+   "Vale Indonesia",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Vale Indonesia Tbk (INCO) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 18 November 2026 pukul 09.00 WIB di Jakarta. Lokasi persis belum diumumkan dan akan disusulkan kemudian. Rapat akan digelar secara hybrid, yaitu fisik dan elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, mengikuti aturan OJK Nomor 15/POJK.04/2020 dan Nomor 14/2025. Mengingat kapasitas ruangan terbatas, perusahaan hanya mengizinkan maksimal 50 pemegang saham hadir fisik dengan sistem siapa cepat dia dapat tempat. Pemegang saham yang tidak kebagian tempat fisik tetap bisa mengikuti rapat secara elektronik, dan perusahaan tidak menyediakan souvenir maupun materi rapat dalam bentuk cetak.",
+   "Dokumen ini juga menetapkan tanggal penting bagi pemegang saham. Yang berhak hadir atau memberi kuasa dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 26 Oktober 2026 pukul 16.00 WIB, atau pemilik saham di sub rekening efek KSEI pada penutupan perdagangan tanggal yang sama. Pemanggilan resmi beserta mata acara rapat baru akan dipublikasikan paling lambat 27 Oktober 2026 melalui situs Bursa Efek Indonesia, situs perusahaan, dan sistem eASY.KSEI, sehingga agenda RUPSLB ini belum terungkap dalam pengumuman awal ini.",
+   "Perusahaan juga membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara tambahan. Syaratnya, pengusul harus menguasai minimal 1/20 atau 5 persen dari total saham Perseroan dengan hak suara yang sah, mengajukan usulan secara tertulis kepada Direksi, dan diterima paling lambat 20 Oktober 2026 pukul 17.00 WIB. Usulan itu wajib terkait langsung dengan bisnis perusahaan, diajukan dengan itikad baik, mempertimbangkan kepentingan perusahaan, memerlukan keputusan RUPS, dilengkapi alasan dan bahan pendukung, serta sesuai anggaran dasar dan peraturan yang berlaku."
+  ],
+  "fotoAdegan": "Aerial view of a reddish nickel ore mining pit with haul trucks winding down terraced slopes, tropical overcast sky",
+  "takeaway": "Laporan ini netral bagi fundamental Vale Indonesia, karena isinya murni jadwal dan tata cara rapat, belum memuat agenda atau keputusan korporasi apa pun yang bisa digeser arahnya. Belum ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh di sini, sebab agenda RUPSLB sendiri baru akan diumumkan lewat surat pemanggilan, jadi dampaknya ke bisnis perusahaan belum bisa dinilai dari dokumen ini saja. Yang perlu dicermati pemegang saham besar adalah tenggat 20 Oktober 2026 pukul 17.00 WIB bila ingin mengusulkan agenda tambahan, lalu pemanggilan resmi berisi agenda RUPSLB yang wajib terbit paling lambat 27 Oktober 2026, sebelum rapat berlangsung 18 November 2026. Baru dari agenda itu publik bisa menilai apakah RUPSLB ini membawa dampak positif, negatif, atau sekadar administratif bagi pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "epac-panggil-rupslb-bahas-rights-issue-buyback-setop-segmen",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Panggil RUPSLB, Bahas [Rights Issue], Buyback, Setop Segmen",
+  "deck": "RUPSLB EPAC pada 3 November 2026 akan memutuskan rights issue, penghentian segmen kemasan fleksibel konvensional, dan buyback saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T14:32:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/422363cbdf_b2270754c9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EPAC",
+  "tags": [
+   "EPAC",
+   "RUPSLB",
+   "rights issue",
+   "buyback saham"
+  ],
+  "body": [
+   "PT Megalestari Epack Sentosaraya Tbk (EPAC) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 3 November 2026 pukul 10.00 WIB di IBIS Style Hotel Jakarta Tanah Abang. Pemegang saham yang berhak hadir adalah yang namanya tercatat di Daftar Pemegang Saham per penutupan perdagangan Bursa Efek Indonesia pada Jumat, 9 Oktober 2026. Rapat ini membawa lima agenda, mencakup perubahan susunan Dewan Komisaris, perubahan modal dasar, rencana penambahan modal, penghentian satu segmen usaha, dan pembelian kembali saham.",
+   "Tiga agenda pertama berkaitan dengan struktur permodalan. Agenda pertama meminta persetujuan perubahan anggota Komisaris sesuai Pasal 18(4) Anggaran Dasar Perseroan dan Peraturan OJK No. 33/POJK.04/2014. Agenda kedua meminta persetujuan peningkatan modal dasar beserta perubahan Anggaran Dasar sesuai UU No. 40 Tahun 2007 tentang Perseroan Terbatas. Agenda ketiga adalah persetujuan Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD), yaitu rights issue yang sebelumnya sudah dipastikan perseroan senilai 2 miliar saham baru dengan potensi dilusi 37,71 persen, mengikuti POJK No. 32/POJK.04/2015 sebagaimana diubah POJK No. 14/POJK.04/2019.",
+   "Agenda keempat meminta kuasa bagi Direksi untuk menghentikan operasional segmen usaha kemasan fleksibel konvensional milik perseroan, sejalan dengan rencana memfokuskan bisnis pada produksi kemasan fleksibel melalui platform digital yang sudah diungkapkan perseroan lewat surat keterbukaan informasi tanggal 27 Agustus 2026. Agenda kelima adalah persetujuan rencana pembelian kembali saham (buyback) sesuai POJK No. 29 Tahun 2023. Bahan rapat tersedia di kantor perseroan sejak 12 Oktober 2026, dan pemegang saham yang ingin memberi suara lewat aplikasi eASY.KSEI wajib menyampaikan deklarasi kehadiran atau kuasa paling lambat pukul 12.00 WIB pada 2 November 2026, satu hari kerja sebelum rapat."
+  ],
+  "fotoAdegan": "Workers checking rolls of flexible plastic packaging material on an industrial production line inside a factory warehouse in Indonesia",
+  "takeaway": "Laporan ini netral bagi fundamental EPAC karena isinya baru memformalkan rencana yang sebagian sudah diketahui pasar, yaitu rights issue dengan dilusi 37,71 persen yang sudah dipastikan pekan lalu, dan rencana setop segmen kemasan konvensional yang sudah diungkapkan sejak Agustus. Dua pos yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu keuntungan perusahaan dibagi jumlah saham yang ada: rights issue menambah saham beredar sehingga laba per saham bisa terdilusi, sementara buyback bekerja sebaliknya dengan mengurangi saham di pasar, jadi efek bersihnya baru bisa dihitung setelah rasio dan ukuran pastinya diumumkan. Penghentian segmen kemasan konvensional juga berarti ada bagian pendapatan yang akan hilang selama masa transisi ke platform digital. Yang perlu dipantau adalah hasil RUPSLB pada 3 November 2026, karena di situlah besaran rights issue, ukuran buyback, dan kepastian penghentian segmen konvensional baru akan disahkan pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inps-gelar-rupslb-usai-catat-ekuitas-negatif-rp42-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "INPS Gelar RUPSLB usai Catat [Ekuitas Negatif] Rp42,8 Miliar",
+  "deck": "INPS memanggil RUPSLB 3 November 2026 untuk menyetujui penerbitan hingga 1,25 miliar saham baru senilai Rp125 miliar ke pengendali guna menambal ekuitas negatif Rp42,8 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T14:28:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9d7838fe3b_99384f98f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "RUPSLB",
+   "private placement",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada Selasa, 3 November 2026 pukul 14.00 WIB di Gedung Inprase, Jalan Sunter Garden Raya Blok D8 No. 3G-3H, Sunter Agung, Tanjung Priok, Jakarta Utara. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per Jumat, 9 Oktober 2026 pukul 16.00 WIB. Rapat ini mengagendakan dua hal, yaitu persetujuan penambahan modal tanpa hak memesan efek terlebih dahulu dan persetujuan perubahan anggaran dasar perusahaan.",
+   "Berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, INPS mencatat ekuitas negatif sebesar Rp42,8 miliar, dengan total utang yang sudah melebihi 80 persen dari total aset dan modal kerja bersih yang juga negatif. Kondisi ini membuat perusahaan memenuhi syarat untuk melakukan penambahan modal tanpa hak memesan efek terlebih dahulu guna memperbaiki posisi keuangan, sesuai aturan Otoritas Jasa Keuangan Nomor 32/POJK.04/2015. Perusahaan berencana menerbitkan sebanyak-banyaknya 1,25 miliar saham baru dengan nilai nominal dan harga pelaksanaan masing-masing Rp100 per saham, sehingga total dana yang masuk mencapai Rp125 miliar. Seluruh saham baru itu akan diserap oleh PT Graha Inti Guna Persada, pemegang saham pengendali INPS.",
+   "Untuk menampung penambahan modal ini, INPS juga mengusulkan menaikkan modal dasar serta modal ditempatkan dan disetor lewat perubahan Pasal 4 Anggaran Dasar. Saat ini modal dasar perusahaan sebesar Rp200 miliar yang terbagi dalam 2 miliar saham, sementara modal ditempatkan dan disetor baru Rp65 miliar atau setara 650 juta saham. Jika penerbitan 1,25 miliar saham baru itu terealisasi penuh, jumlah saham INPS yang beredar bisa melonjak hampir tiga kali lipat dari posisi saat ini, dengan sebagian besarnya dipegang sendiri oleh PT Graha Inti Guna Persada.",
+   "Perseroan tidak mengirimkan undangan terpisah kepada pemegang saham karena pemanggilan ini sudah berlaku sebagai undangan resmi. Pemegang saham yang berhalangan hadir dapat memberi kuasa elektronik lewat eASY.KSEI hingga Senin, 2 November 2026 pukul 12.00 WIB, atau menyerahkan surat kuasa fisik ke biro administrasi efek PT Adimitra Jasa Korpora paling lambat Kamis, 29 Oktober 2026 pukul 16.00 WIB."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a corporate meeting hall, soft morning light, no readable signage visible",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham di luar pengendali, karena seluruh saham baru ini diserap sendiri oleh pengendali tanpa ditawarkan proporsional ke pemegang saham lain, sehingga porsi kepemilikan investor publik berisiko tergerus signifikan begitu transaksi ini rampung. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang perusahaan yang kini negatif Rp42,8 miliar alias utangnya sudah lebih besar dari asetnya, sekaligus jumlah saham beredar yang bisa melonjak hampir tiga kali lipat sehingga laba per saham ke depan harus dibagi ke jauh lebih banyak lembar saham. Di sisi lain, suntikan dana Rp125 miliar ini memang dibutuhkan untuk menambal ekuitas negatif dan memperbaiki kondisi keuangan perusahaan yang sedang tertekan. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 3 November 2026 yang menentukan apakah penambahan modal dan perubahan anggaran dasar ini disetujui, serta proses lanjutan pengesahan perubahan anggaran dasar oleh Menteri Hukum begitu rapat menyetujuinya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "esdm-resmikan-izin-sumur-rakyat-di-aceh-genjot-mandatori-etanol",
   "category": "Energi",
   "title": "ESDM Resmikan Izin Sumur Rakyat di Aceh, Genjot Mandatori [Etanol]",
@@ -29,6 +289,58 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Yang berubah konkret ada dua: makin banyak sumur minyak milik warga, kini juga di Aceh, yang dapat izin resmi dan minyaknya dibeli Pertamina dengan harga 80 persen dari patokan harga minyak Indonesia, dan rencana menaikkan campuran etanol di bensin secara bertahap sampai separuh kadar pada akhir dekade ini. Yang kena dampak langsung adalah warga pengelola sumur rakyat yang usahanya jadi legal, serta petani singkong, tebu, dan jagung yang jadi sasaran permintaan bahan baku kalau program etanol ini berjalan sesuai rencana. Arahnya konsisten dengan pola sebelumnya, pemerintah mencoba mengurangi impor energi dengan melibatkan rakyat di hulu minyak dan di pertanian untuk bahan bakar nabati, bukan terus mengandalkan impor bensin dan etanol. Tapi ini masih tahap rencana, kebutuhan lahan sampai 3,1 juta hektare untuk tahap E20 saja belum jelas sumbernya karena pemerintah menyebut akan memakai lahan telantar yang kesiapannya belum dipastikan. Yang akan menunjukkan apakah target ini realistis atau sekadar angka di atas kertas adalah peta final program etanol 2028 yang menurut Bahlil sedang disusun.",
   "imageV": "mv4xjddn"
+ },
+ {
+  "slug": "inkp-rampungkan-realisasi-dana-obligasi-sukuk-rp4-6-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INKP Rampungkan Realisasi Dana Obligasi-Sukuk [Rp4,6 Triliun]",
+  "deck": "Seluruh dana dari dua instrumen utang INKP, Obligasi Berkelanjutan VI dan Sukuk Mudharabah Berkelanjutan V tahap II 2026, telah terpakai penuh untuk bayar utang bank dan modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T14:09:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9bb9af4d14_9b5275e51f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "penggunaan dana"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) melaporkan realisasi penggunaan dana dari dua instrumen utang yang sama-sama efektif pada 13 Maret 2026, yaitu Obligasi Berkelanjutan VI Tahap II 2026 dan Sukuk Mudharabah Berkelanjutan V Tahap II 2026. Dari Obligasi, perseroan mengumpulkan dana Rp2.275.960.000.000, dipotong biaya penawaran umum Rp9.787.259.763, sehingga dana bersih yang bisa dipakai Rp2.266.172.740.237. Per akhir September 2026, seluruh dana itu sudah terpakai: 34 persen atau Rp766.033.383.184 untuk membayar pokok, angsuran pokok, dan/atau bunga pinjaman bank, sisanya 66 persen atau Rp1.500.139.357.053 untuk modal kerja. Tidak ada sisa dana yang tercatat.",
+   "Dari Sukuk Mudharabah, dana terkumpul Rp2.331.930.000.000 dengan biaya penawaran Rp9.575.066.034, menyisakan dana bersih Rp2.322.354.933.966. Penggunaannya juga sudah 100 persen: 40 persen atau Rp925.293.901.386 untuk pelunasan pokok dan angsuran pokok pinjaman bank, serta 60 persen atau Rp1.397.061.032.580 untuk modal kerja. Realisasi di kedua instrumen ini persis sama dengan rencana yang tertulis di prospektus, tanpa ada perubahan alokasi.",
+   "Laporan ditandatangani Direktur INKP, Kurniawan Yuwono, pada 12 Oktober 2026 dan disampaikan ke Otoritas Jasa Keuangan sesuai kewajiban periodik berdasarkan POJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum. Surat tersebut juga ditembuskan ke Bursa Efek Indonesia dan wali amanat, PT Bank KB Indonesia Tbk."
+  ],
+  "fotoAdegan": "Workers inspecting large rolls of paper moving along a conveyor line inside an industrial pulp and paper mill",
+  "takeaway": "Laporan ini netral bagi performa INKP karena seluruh dana obligasi dan sukuk terealisasi tepat sesuai rencana di prospektus, tanpa penyimpangan atau kejutan bagi pasar. Yang tersentuh adalah beban bunga dan arus kas perseroan: sekitar sepertiga dari total Rp4,59 triliun dana bersih itu dipakai melunasi pokok dan bunga pinjaman bank, yang berarti mengurangi utang berbunga, sementara sisanya menambah modal kerja untuk kebutuhan operasional seperti bahan baku dan pembayaran pemasok. Yang perlu dipantau berikutnya adalah apakah penurunan utang bank ini benar tercermin pada laporan keuangan kuartal mendatang, serta kepatuhan INKP menyampaikan laporan realisasi serupa pada periode berikutnya kepada OJK dan wali amanat sesuai ketentuan POJK 40/2025.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbkp-tawarkan-obligasi-subordinasi-rp500-miliar-kupon-8-95-9-30",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Tawarkan Obligasi [Subordinasi] Rp500 Miliar, Kupon 8,95-9,30%",
+  "deck": "KB Bank merilis obligasi subordinasi tahap II senilai Rp500 miliar dengan bunga 8,95-9,30 persen, melanjutkan program Rp1 triliun yang dimulai tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T13:44:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1cfcca98fc_aa866f07af.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBKP",
+  "tags": [
+   "BBKP",
+   "obligasi subordinasi",
+   "KB Bank",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bank KB Indonesia Tbk (BBKP) menyampaikan perbaikan informasi tambahan ringkas terkait Penawaran Umum Berkelanjutan Obligasi Subordinasi Berkelanjutan IV KB Bank Tahap II Tahun 2026, yang diunggah ke Bursa Efek Indonesia pada 12 Oktober 2026. Dokumen ini merupakan bagian dari program obligasi subordinasi berkelanjutan dengan target total dana Rp1 triliun. Pada tahap pertama di 2025, perseroan sudah menerbitkan obligasi senilai Rp248 miliar, dan kini menyusul tahap kedua senilai Rp500 miliar.",
+   "Obligasi tahap II ini terbagi dalam dua seri. Seri A senilai Rp425 miliar berbunga 8,95 persen per tahun dengan tenor 5 tahun, sedangkan Seri B senilai Rp75 miliar berbunga 9,30 persen per tahun dengan tenor 7 tahun. Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 16 Januari 2027 dan pembayaran bunga terakhir sekaligus pelunasan pokok secara penuh (bullet payment) pada 16 Oktober 2031 untuk Seri A dan 16 Oktober 2033 untuk Seri B. Obligasi ini tidak memiliki opsi pembelian kembali sebelum jatuh tempo, tidak dijamin agunan atau pihak ketiga manapun, dan tidak termasuk program penjaminan Lembaga Penjamin Simpanan karena sifatnya sebagai utang subordinasi bank. Fitch Ratings Indonesia memberikan peringkat AAidn untuk obligasi ini, dan risiko utama yang disebutkan dalam dokumen adalah risiko kredit, yaitu risiko gagal bayar dari debitur perseroan.",
+   "Masa penawaran umum berlangsung pada 12-13 Oktober 2026, dengan tanggal penjatahan pada 14 Oktober 2026, pengembalian uang pemesanan dan distribusi obligasi pada 16 Oktober 2026, serta pencatatan di Bursa Efek Indonesia pada 19 Oktober 2026. Penjamin pelaksana emisi terdiri dari PT BRI Danareksa Sekuritas, PT Indo Premier Sekuritas, dan PT KB Valbury Sekuritas yang berafiliasi dengan perseroan, bersama PT Korea Investment and Sekuritas Indonesia serta PT Trimegah Sekuritas Indonesia Tbk, dengan penjaminan secara kesanggupan penuh. PT Bank Rakyat Indonesia (Persero) Tbk bertindak sebagai wali amanat. Dokumen ini juga menyertakan data keuangan per 30 Juni 2026: total aset perseroan tercatat Rp93,01 triliun, naik dari Rp89,79 triliun pada akhir 2025 dan Rp83,08 triliun pada akhir 2024, sementara kredit yang diberikan neto sebesar Rp47,51 triliun."
+  ],
+  "fotoAdegan": "Wide view of the Indonesia Stock Exchange atrium with distant blurred screens, people walking past in business attire, daytime light.",
+  "takeaway": "Laporan ini netral bagi BBKP: penerbitan Rp500 miliar ini sudah direncanakan sejak tahun lalu sebagai bagian dari program Rp1 triliun, jadi lebih merupakan kelanjutan rencana yang sudah diketahui pasar daripada kejutan baru. Yang tersentuh adalah beban bunga, yaitu biaya tetap yang harus dibayar bank setiap tiga bulan ke pemegang obligasi, karena bank kini menanggung bunga 8,95 persen dan 9,30 persen atas pokok Rp425 miliar dan Rp75 miliar; di sisi lain, dana ini bisa dicatat sebagai modal pelengkap yang memperkuat rasio kecukupan modal bank tanpa menambah jumlah saham beredar, sehingga tidak langsung mengencerkan laba per saham pemegang lama. Yang perlu dipantau berikutnya adalah apakah penawaran senilai Rp500 miliar ini terserap penuh sesuai penjatahan pada 14 Oktober 2026, proses distribusi dan pencatatan di bursa pada 16 dan 19 Oktober 2026, serta pembayaran bunga pertama yang jatuh pada 16 Januari 2027.",
+  "sentimen": "netral"
  },
  {
   "slug": "bike-akuisisi-45-saham-tambang-batu-bara-sba",

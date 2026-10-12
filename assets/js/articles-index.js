@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bei-mglv-tak-lagi-berstatus-saham-terkonsentrasi-tinggi",
+  "category": "Aksi Korporasi",
+  "title": "BEI: MGLV Tak Lagi Berstatus Saham [Terkonsentrasi] Tinggi",
+  "deck": "BEI dan KSEI menyatakan MGLV tidak lagi berstatus kepemilikan saham terkonsentrasi tinggi, berdasarkan struktur kepemilikan saham per 30 September 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "NexAI Digital Infrastruktur",
+   "kepemilikan saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f13d02776_f8d9d72121.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ship-saham-terkonsentrasi-98-3-di-tangan-segelintir-pemegang",
+  "category": "Aksi Korporasi",
+  "title": "SHIP: Saham Terkonsentrasi 98,3% di Tangan Segelintir [Pemegang]",
+  "deck": "BEI dan KSEI mengumumkan 98,30% saham SHIP per 1 Oktober 2026 dikuasai segelintir pemegang saham, menyisakan sangat sedikit saham yang beredar bebas di pasar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SHIP",
+   "free float",
+   "kepemilikan saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/081892695a_bce1dddaae.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "same-bei-catat-94-99-saham-terkonsentrasi-free-float-tipis",
+  "category": "Aksi Korporasi",
+  "title": "SAME: BEI Catat 94,99% Saham Terkonsentrasi, [Free Float] Tipis",
+  "deck": "BEI dan KSEI mengumumkan 94,99 persen saham Sarana Meditama Metropolitan (SAME) dikuasai segelintir pemegang per 1 Oktober 2026, menyisakan sekitar 5 persen saham yang beredar bebas di publik.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAME",
+   "kepemilikan saham",
+   "free float",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a6dd78b624_526c3ee434.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "idx-saham-ades-terkonsentrasi-95-1-di-tangan-sedikit-pemegang",
+  "category": "Aksi Korporasi",
+  "title": "IDX: Saham ADES [Terkonsentrasi] 95,1% di Tangan Sedikit Pemegang",
+  "deck": "BEI dan KSEI mencatat 95,10% saham tanpa warkat ADES per 1 Oktober 2026 dikuasai sejumlah terbatas pemegang saham, menyisakan porsi kecil yang benar-benar beredar bebas di pasar.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADES",
+   "BEI",
+   "Kepemilikan Saham",
+   "Likuiditas Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ce8795384_de451c7b91.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkom-akselerasi-perampingan-50-anak-usaha",
   "category": "BUMN",
   "title": "Telkom Akselerasi [Perampingan] 50 Anak Usaha",
@@ -711,6 +775,22 @@ var ARTICLES = [
    "ITSEC Asia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-0898-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgeo-intensifkan-pengeboran-lima-sumur-di-tiga-wilayah",
+  "category": "Aksi Korporasi",
+  "title": "PGEO [Intensifkan] Pengeboran Lima Sumur di Tiga Wilayah",
+  "deck": "PGE menyelesaikan dan memulai pengeboran lima sumur di Gunung Tiga, Lumut Balai, Ulubelu, dan Lahendong sepanjang 2026 untuk mendukung target kapasitas baru 55 MW dan 8 MW.",
+  "date": "12 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "panas bumi",
+   "pengeboran",
+   "geothermal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a178320153_fbc40038d7.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6389,86 +6469,6 @@ var ARTICLES = [
    "Medco Power"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ab9a0001df_5f87ed030c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uvcr-panggil-rupslb-27-oktober-bahas-pmthmetd-dan-kbli",
-  "category": "Aksi Korporasi",
-  "title": "UVCR Panggil RUPSLB 27 Oktober, Bahas [PMTHMETD] dan KBLI",
-  "deck": "RUPSLB UVCR digelar 27 Oktober 2026 untuk menyetujui rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dan perubahan anggaran dasar terkait KBLI 2025.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "RUPSLB",
-   "PMTHMETD",
-   "Ultra Voucher"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7dbc2bd289_188e2fad8a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-waran-asii-disesuaikan-usai-dividen-rp3-89-t",
-  "category": "Aksi Korporasi",
-  "title": "DR: Waran ASII Disesuaikan usai [Dividen] Rp3,89 T",
-  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur ASII menyusul dividen tunai Rp98 per saham dari Astra International.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "ASII",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/76fa9ecd23_726f6fba28.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "talf-komitmen-beli-solvent-rp398-m-dari-bluesky-10-tahun",
-  "category": "Aksi Korporasi",
-  "title": "TALF Komitmen Beli Solvent [Rp398 M] dari Bluesky 10 Tahun",
-  "deck": "TALF meneken perjanjian pembelian solvent daur ulang dari PT Bluesky Technology Indonesia senilai Rp398,66 miliar untuk 10 tahun, setara 29,9 persen ekuitas perusahaan.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TALF",
-   "transaksi material",
-   "POJK 17/2020",
-   "solvent"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c744e72008_b0cbb701dc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ultj-rupslb-27-oktober-akuisisi-frisian-flag-lewat-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "ULTJ RUPSLB 27 Oktober, Akuisisi [Frisian Flag] Lewat Rights Issue",
-  "deck": "ULTJ mengundang pemegang saham ke RUPSLB 27 Oktober 2026 untuk menyetujui rights issue yang dibayar dengan 100% saham PT Frisian Flag Indonesia, bukan uang tunai.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "RUPSLB",
-   "Frisian Flag",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ef0f45f1d8_2115dbaf50.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-sesuaikan-syarat-3-waran-asii-usai-dividen-interim",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan Syarat 3 Waran ASII Usai [Dividen] Interim",
-  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi tiga waran terstruktur ASII setelah Astra International bagi dividen interim Rp98 per saham.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "ASII",
-   "waran terstruktur",
-   "dividen interim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b22cf7ebfa_09f038faac.pdf",
   "sourceLabel": "IDX"
  }
 ];

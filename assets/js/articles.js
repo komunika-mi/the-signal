@@ -3,6 +3,107 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bei-mglv-tak-lagi-berstatus-saham-terkonsentrasi-tinggi",
+  "category": "Aksi Korporasi",
+  "title": "BEI: MGLV Tak Lagi Berstatus Saham [Terkonsentrasi] Tinggi",
+  "deck": "BEI dan KSEI menyatakan MGLV tidak lagi berstatus kepemilikan saham terkonsentrasi tinggi, berdasarkan struktur kepemilikan saham per 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T00:39:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f13d02776_f8d9d72121.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "NexAI Digital Infrastruktur",
+   "kepemilikan saham",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) dan PT Kustodian Sentral Efek Indonesia (KSEI) mengumumkan bahwa PT NexAI Digital Infrastruktur Tbk (MGLV) tidak lagi berada dalam kondisi kepemilikan saham terkonsentrasi tinggi (high shareholding concentration). Penetapan ini merujuk pada pengumuman sebelumnya, Peng-00006-HSC/BEI.WAS/04-2026 dan KSEI-2153/DIR/0426, yang pada April 2026 pertama kali menetapkan status tersebut, dan kini dievaluasi ulang berdasarkan metodologi penghitungan konsentrasi kepemilikan atas struktur saham dalam bentuk warkat dan tanpa warkat per 30 September 2026.",
+   "Pengumuman bernomor Peng-RSC-00003/BEI.WAS/10-2026 dan Peng-00027/PWS/KSEI/1026 ini ditandatangani oleh Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy pada 12 Oktober 2026. Dokumen tersebut juga mencatat bahwa MGLV sebelumnya bernama PT Panca Anugrah Wisesa Tbk, dan resmi berganti nama menjadi PT NexAI Digital Infrastruktur Tbk sejak 20 Juli 2026, sesuai pengumuman bursa Peng-PNE-00008/BEI.PP3/07-2026.",
+   "Status kepemilikan saham terkonsentrasi tinggi biasanya dikenakan bursa pada emiten di Papan Pencatatan Akselerasi, tempat MGLV tercatat, untuk memberi perhatian khusus ketika sebagian besar saham masih dipegang segelintir pihak sejak awal pencatatan. Berakhirnya status ini muncul di tengah rangkaian aksi korporasi MGLV lainnya yang sudah lebih dulu diberitakan, termasuk rencana RUPSLB pada 12 November 2026 dan pinjaman senilai Rp4 triliun dari MGLV ke dua anak usaha afiliasinya, NAC dan NGC."
+  ],
+  "fotoAdegan": "Technicians inspecting rows of server racks in a dimly lit data center, blinking status lights, night shift in Indonesia",
+  "takeaway": "Kami menilai pengumuman ini netral bagi NexAI Digital Infrastruktur, karena perubahan status ini murni soal struktur kepemilikan saham, bukan soal kinerja usaha, laba, atau arus kas perusahaan. Status kepemilikan saham terkonsentrasi tinggi sendiri diberikan ketika sebagian besar saham yang beredar dipegang oleh segelintir pihak, sehingga saham yang benar-benar diperdagangkan bebas di pasar jumlahnya sedikit dan harga mudah bergerak tajam hanya dari transaksi kecil; keluarnya MGLV dari status ini menunjukkan penyebaran pemegang saham sudah lebih merata per 30 September 2026. Yang perlu dipantau selanjutnya adalah RUPSLB yang sudah dijadwalkan pada 12 November 2026, karena agendanya belum dibuka dan perubahan struktur pemegang saham semacam ini kerap beriringan dengan aksi korporasi lain seperti penambahan modal atau masuknya investor baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ship-saham-terkonsentrasi-98-3-di-tangan-segelintir-pemegang",
+  "category": "Aksi Korporasi",
+  "title": "SHIP: Saham Terkonsentrasi 98,3% di Tangan Segelintir [Pemegang]",
+  "deck": "BEI dan KSEI mengumumkan 98,30% saham SHIP per 1 Oktober 2026 dikuasai segelintir pemegang saham, menyisakan sangat sedikit saham yang beredar bebas di pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T00:35:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/081892695a_bce1dddaae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SHIP",
+  "tags": [
+   "SHIP",
+   "free float",
+   "kepemilikan saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) menerbitkan pengumuman bernomor Peng-HSC-00078/BEI.WAS/10-2026 dan Peng-00019/PWS/KSEI/1026 pada 12 Oktober 2026, yang ditandatangani Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy. Berdasarkan metodologi penentuan Kepemilikan Saham Terkonsentrasi Tinggi, struktur kepemilikan saham PT Sillo Maritime Perdana Tbk (SHIP), baik dalam bentuk warkat maupun tanpa warkat, per 1 Oktober 2026 menunjukkan bahwa 98,30% dari total saham perseroan dikuasai oleh sejumlah tertentu pemegang saham secara agregat.",
+   "Dengan kata lain, hanya sekitar 1,70% dari seluruh saham SHIP yang berada di luar kelompok pemegang saham terkonsentrasi tersebut. BEI dan KSEI menegaskan bahwa pengumuman ini bersifat informatif berdasarkan data kepemilikan dan tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan maupun ketentuan di bidang pasar modal."
+  ],
+  "fotoAdegan": "A tanker ship anchored at an Indonesian harbor at dawn, calm water reflecting idle cranes and loading equipment in the distance",
+  "takeaway": "Konsentrasi kepemilikan sebesar ini condong negatif bagi pemegang saham publik, karena menyisakan sangat sedikit porsi saham yang benar-benar beredar dan diperdagangkan bebas di pasar. Yang tersentuh di sini adalah jumlah saham yang beredar bebas atau dikenal sebagai free float, yaitu porsi saham yang tidak dikuasai pemilik mayoritas dan menjadi penentu seberapa mudah saham itu diperjualbelikan tanpa membuat harganya bergerak liar. Pelaku pasar memperhatikan angka ini karena BEI mensyaratkan batas minimum saham beredar bebas bagi perusahaan tercatat, dan kalau batas itu tidak terpenuhi, bursa bisa meminta penjelasan atau mengenakan pemantauan khusus pada saham tersebut. Yang perlu dipantau selanjutnya adalah apakah BEI akan meminta klarifikasi resmi dari manajemen SHIP soal rencana memperbaiki komposisi kepemilikan ini, serta apakah ada pemegang saham utama yang berencana melepas sebagian sahamnya ke publik. Dokumen ini sendiri tidak menyebut tenggat atau rencana tindak lanjut apa pun dari perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "same-bei-catat-94-99-saham-terkonsentrasi-free-float-tipis",
+  "category": "Aksi Korporasi",
+  "title": "SAME: BEI Catat 94,99% Saham Terkonsentrasi, [Free Float] Tipis",
+  "deck": "BEI dan KSEI mengumumkan 94,99 persen saham Sarana Meditama Metropolitan (SAME) dikuasai segelintir pemegang per 1 Oktober 2026, menyisakan sekitar 5 persen saham yang beredar bebas di publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T00:01:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a6dd78b624_526c3ee434.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SAME",
+  "tags": [
+   "SAME",
+   "kepemilikan saham",
+   "free float",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) mengeluarkan pengumuman Kepemilikan Saham Terkonsentrasi Tinggi untuk PT Sarana Meditama Metropolitan Tbk (SAME) dengan nomor Peng-HSC-00077/BEI.WAS/10-2026 dan Peng-00018/PWS/KSEI/1026. Berdasarkan metodologi penentuan konsentrasi kepemilikan atas struktur saham dalam bentuk warkat dan tanpa warkat per 1 Oktober 2026, saham SAME ternyata dikuasai oleh sejumlah terbatas pemegang saham yang secara agregat menguasai 94,99 persen dari total saham perseroan.",
+   "Dokumen yang diteken pada 12 Oktober 2026 itu tidak merinci nama maupun identitas pemegang saham yang dimaksud, dan hanya menyebut angka konsentrasi secara agregat. BEI maupun KSEI menegaskan dalam pengumuman tersebut bahwa informasi ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan dan ketentuan yang berlaku di bidang pasar modal. Pengumuman ditandatangani oleh Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy."
+  ],
+  "fotoAdegan": "Stacks of paper share certificates and ledger binders on a cluttered desk inside a securities depository office, afternoon light through blinds",
+  "takeaway": "Pengumuman ini netral bagi fundamental SAME karena isinya murni mencatat struktur kepemilikan saham, bukan transaksi, laba, atau perubahan operasional, dan BEI sendiri menegaskan ini bukan indikasi pelanggaran aturan pasar modal. Yang tersentuh di sini adalah porsi saham beredar yang benar-benar diperdagangkan bebas di pasar, dikenal sebagai free float. Dengan 94,99 persen saham terkonsentrasi di segelintir pemegang, hanya sekitar 5 persen saham SAME yang bergerak bebas di tangan publik, sehingga harga sahamnya lebih rentan berfluktuasi tajam hanya dengan transaksi dalam jumlah kecil karena peminat dan penawarnya terbatas. Yang perlu dipantau selanjutnya adalah apakah BEI atau KSEI akan meminta penjelasan lebih lanjut dari SAME terkait rendahnya porsi saham yang diperdagangkan bebas ini, karena konsentrasi kepemilikan seperti ini biasanya menjadi perhatian otoritas bursa dalam menjaga kewajaran perdagangan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "idx-saham-ades-terkonsentrasi-95-1-di-tangan-sedikit-pemegang",
+  "category": "Aksi Korporasi",
+  "title": "IDX: Saham ADES [Terkonsentrasi] 95,1% di Tangan Sedikit Pemegang",
+  "deck": "BEI dan KSEI mencatat 95,10% saham tanpa warkat ADES per 1 Oktober 2026 dikuasai sejumlah terbatas pemegang saham, menyisakan porsi kecil yang benar-benar beredar bebas di pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T23:51:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ce8795384_de451c7b91.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADES",
+  "tags": [
+   "ADES",
+   "BEI",
+   "Kepemilikan Saham",
+   "Likuiditas Saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) menerbitkan pengumuman Kepemilikan Saham Terkonsentrasi Tinggi untuk PT Akasha Wira International Tbk (ADES) dengan nomor Peng-HSC-00066/BEI.WAS/10-2026 dan Peng-0007/PWS/KSEI/1026, tertanggal 12 Oktober 2026. Berdasarkan metodologi penentuan konsentrasi kepemilikan atas struktur saham dalam bentuk warkat dan tanpa warkat per 1 Oktober 2026, BEI dan KSEI menemukan bahwa 95,10 persen dari total saham tanpa warkat ADES dikuasai secara agregat oleh sejumlah pemegang saham yang terbatas jumlahnya.",
+   "Dokumen tidak merinci nama maupun jumlah pihak yang termasuk dalam kelompok pemegang saham tersebut. BEI menegaskan bahwa pengumuman ini sifatnya informatif dan tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan di bidang pasar modal. Pengumuman ditandatangani oleh Yulianto Aji Sadono selaku Direktur BEI dan Eqy Essiqy selaku Direktur KSEI."
+  ],
+  "fotoAdegan": "Wide exterior view of a modern glass office tower in Jakarta's financial district, pedestrians crossing at street level, midday light",
+  "takeaway": "Catatan ini condong negatif bagi pemegang saham publik ADES, sebab 95,10 persen itu artinya hanya sekitar 4,9 persen saham yang benar-benar leluasa diperjualbelikan di pasar, porsi yang sangat kecil. Pos yang tersentuh di sini adalah likuiditas saham, yaitu kemudahan investor membeli atau menjual tanpa membuat harga bergerak drastis karena order dalam volume kecil. Semakin sedikit saham yang beredar bebas di luar kelompok pemegang besar, semakin tipis likuiditas dan semakin rentan harga berfluktuasi tajam hanya dari transaksi yang nilainya tidak besar. BEI sendiri menyatakan pengumuman ini bukan indikasi pelanggaran, melainkan hasil pemantauan rutin atas struktur kepemilikan. Yang perlu dipantau berikutnya adalah apakah proporsi ini berubah pada pengumuman serupa di periode mendatang, atau apakah BEI meminta penjelasan lebih lanjut dari manajemen ADES soal struktur pemegang sahamnya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "telkom-akselerasi-perampingan-50-anak-usaha",
   "category": "BUMN",
   "title": "Telkom Akselerasi [Perampingan] 50 Anak Usaha",
@@ -1158,6 +1259,32 @@ var ARTICLES = [
   "fotoAdegan": "Technicians checking server racks and blinking indicator lights in a dim data center, late evening, Jakarta office building",
   "takeaway": "Laporan ini netral bagi CYBR, sebab penambahan 1,4 juta lembar saham oleh Patrick Rudolf Dannacher hanya menaikkan hak suaranya dari 0,797 persen jadi 0,808 persen, selisih yang terlalu tipis untuk dibaca sebagai sinyal keyakinan kuat terhadap prospek perusahaan, meski arahnya pembelian dan bukan pelepasan. Yang tersentuh di sini adalah jumlah saham yang dipegang direksi dan hak suaranya, dua pos yang biasa diawasi pelaku pasar karena perubahan kepemilikan orang dalam kerap dibaca sebagai petunjuk sikap manajemen terhadap sahamnya sendiri, meski dalam kasus ini porsinya kecil dibanding total saham CYBR yang beredar. Yang perlu dipantau selanjutnya adalah apakah Dannacher dan direksi CYBR lain melanjutkan pola pembelian berulang seperti pada 6 sampai 9 Oktober 2026 ini, karena akumulasi bertahap baru berarti sebagai sinyal kalau berlangsung konsisten dari waktu ke waktu, bukan transaksi sesekali.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pgeo-intensifkan-pengeboran-lima-sumur-di-tiga-wilayah",
+  "category": "Aksi Korporasi",
+  "title": "PGEO [Intensifkan] Pengeboran Lima Sumur di Tiga Wilayah",
+  "deck": "PGE menyelesaikan dan memulai pengeboran lima sumur di Gunung Tiga, Lumut Balai, Ulubelu, dan Lahendong sepanjang 2026 untuk mendukung target kapasitas baru 55 MW dan 8 MW.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 Oktober 2026",
+  "isoDate": "2026-10-12T15:06:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a178320153_fbc40038d7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "panas bumi",
+   "pengeboran",
+   "geothermal"
+  ],
+  "body": [
+   "PT Pertamina Geothermal Energy Tbk (PGEO) melaporkan telah melakukan pengeboran lima sumur di tiga wilayah operasional sepanjang 2026, mencakup sumur eksplorasi maupun sumur penopang produksi atau make-up well. Di proyek Gunung Tiga, sumur eksplorasi GTG-B.1 telah selesai dibor pada 9 Juni 2026. Di Lumut Balai, sumur make-up well LMB 19-3 selesai dibor pada 3 September 2026, sementara sumur LMB-19.4 baru mulai dibor (spud in) pada 17 September 2026 dengan target kedalaman 2.500 meter, sebagai bagian dari pengembangan Lumut Balai Unit 3 yang ditargetkan berkapasitas 55 megawatt.",
+   "Di wilayah Ulubelu, Tanggamus, Lampung, PGE memulai pengeboran sumur make-up well UBL-T.1 pada 17 September 2026. Adapun di Area Lahendong, Sulawesi Utara, pengeboran dilakukan melalui sumur TPS-P1.2 di Tompaso yang mulai dibor pada 22 September 2026 dengan target kedalaman sekitar 2.300 meter dan potensi kapasitas sekitar 8 megawatt.",
+   "Direktur Utama PGE Ahmad Yani mengatakan pengeboran make-up well menjadi bagian dari strategi menjaga aset panas bumi yang sudah beroperasi agar tetap memberi manfaat optimal dalam jangka panjang. Direktur Eksplorasi dan Pengembangan PGE Edwil Suzandi menambahkan bahwa pengeboran eksplorasi dan make-up well sama-sama menjadi bagian dari pengelolaan Reservoir and Drilling Management, yaitu pengeboran sumur eksplorasi untuk membuka potensi baru dan pengeboran make-up well untuk menjaga pasokan uap bagi pembangkit yang sudah berjalan."
+  ],
+  "fotoAdegan": "Geothermal drilling rig rising above a misty forested highland area in Indonesia, workers in hard hats inspecting pipework nearby",
+  "takeaway": "Laporan ini condong positif bagi PGEO karena menunjukkan realisasi konkret program pengeboran untuk menambah kapasitas, yakni target 55 MW di Lumut Balai Unit 3 dan 8 MW di Tompaso, sekaligus menjaga pasokan uap dari aset yang sudah beroperasi. Pos yang tersentuh adalah belanja modal dan arus kas perusahaan, sebab pengeboran sumur membutuhkan biaya besar di muka sementara manfaatnya berupa tambahan listrik baru terasa setelah pembangkit benar-benar beroperasi, sehingga pelaku pasar biasanya menunggu kepastian hasil sebelum menilai dampaknya ke pendapatan. Yang perlu dicatat, sebagian besar sumur yang disebut baru dalam tahap pengeboran atau belum rampung, sehingga hasil akhirnya, seperti volume uap atau debit yang dihasilkan, belum bisa dipastikan dari laporan ini. Yang perlu dipantau selanjutnya adalah hasil uji produksi sumur LMB-19.4 yang menyasar kedalaman 2.500 meter dan sumur TPS-P1.2 yang menyasar 2.300 meter, karena dari situlah akan terlihat apakah target kapasitas 55 MW dan 8 MW tersebut realistis tercapai.",
+  "sentimen": "positif"
  },
  {
   "slug": "mcol-tegaskan-tak-ada-info-material-di-balik-volatilitas-sahamnya",

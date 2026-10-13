@@ -54,6 +54,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472845-kebut-pemulihan-pasokan-bbm-di-bali-pertamina-terapkan-suplai-24-jam-dan-skala-prioritas-spbu"
  },
  {
+  "slug": "arii-siapkan-pmthmetd-375-juta-saham-rupslb-20-november",
+  "category": "Aksi Korporasi",
+  "title": "ARII Siapkan [PMTHMETD] 375 Juta Saham, RUPSLB 20 November",
+  "deck": "ARII menjadwalkan RUPSLB 20 November 2026 untuk meminta restu penerbitan hingga 375 juta saham baru tanpa HMETD, dananya untuk infrastruktur jalan anak usaha MMJ.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARII",
+   "Atlas Resources",
+   "PMTHMETD",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e12384c94f_721e529711.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-trans-kontinental-borong-empat-trofi-maritim-digital",
   "category": "BUMN",
   "title": "Pertamina Trans Kontinental [Borong] Empat Trofi Maritim Digital",
@@ -6461,22 +6477,6 @@ var ARTICLES = [
    "SPAM"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8a0c73c644_2bf7ab6dc2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewa-sajikan-kembali-laporan-keuangan-ekuitas-total-tak-berubah",
-  "category": "Aksi Korporasi",
-  "title": "DEWA Sajikan Kembali Laporan Keuangan, [Ekuitas] Total Tak Berubah",
-  "deck": "Darma Henwa merombak klasifikasi komponen ekuitas pada laporan keuangan interim per 30 Juni 2026, namun menegaskan total ekuitas, aset, dan liabilitas tidak berubah.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWA",
-   "laporan keuangan",
-   "ekuitas",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd98499772_ab3017ebca.pdf",
   "sourceLabel": "IDX"
  }
 ];

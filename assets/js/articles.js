@@ -86,6 +86,33 @@ var ARTICLES = [
   "imageV": "mv704tpn"
  },
  {
+  "slug": "arii-siapkan-pmthmetd-375-juta-saham-rupslb-20-november",
+  "category": "Aksi Korporasi",
+  "title": "ARII Siapkan [PMTHMETD] 375 Juta Saham, RUPSLB 20 November",
+  "deck": "ARII menjadwalkan RUPSLB 20 November 2026 untuk meminta restu penerbitan hingga 375 juta saham baru tanpa HMETD, dananya untuk infrastruktur jalan anak usaha MMJ.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T23:59:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e12384c94f_721e529711.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARII",
+  "tags": [
+   "ARII",
+   "Atlas Resources",
+   "PMTHMETD",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Atlas Resources Tbk (ARII) menjadwalkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 20 November 2026 pukul 10.00 WIB, di Kantor Operasional Perseroan, Jalan Kemang Raya 43, Jakarta. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per 28 Oktober 2026, dengan pemanggilan resmi rapat dijadwalkan 29 Oktober 2026. Agenda utama RUPSLB adalah meminta persetujuan pemegang saham independen atas rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), serta persetujuan penjaminan sebagian aset Perseroan terkait penambahan limit fasilitas kredit dari PT Bank Mandiri (Persero) Tbk yang diungkapkan dalam keterbukaan informasi tersendiri.",
+   "Dalam rencana PMTHMETD ini, Perseroan akan menerbitkan saham baru sebanyak-banyaknya 375.000.000 lembar, atau setara 10 persen dari 3.750.000.000 saham yang telah ditempatkan dan disetor penuh, dengan nilai nominal Rp200 per saham. Karena penerbitan saham baru ini tidak ditawarkan lebih dulu kepada pemegang saham lama, seluruh pemegang saham akan terdilusi hingga 9,09 persen, sementara jumlah lembar saham yang mereka pegang tidak berubah. Harga pelaksanaan saham baru belum ditetapkan dan baru akan ditentukan paling rendah 90 persen dari rata-rata harga penutupan saham ARII selama 25 hari perdagangan sebelum permohonan pencatatan saham tambahan ke Bursa Efek Indonesia, dan tidak boleh di bawah nilai nominal. Pelaksanaan penerbitan bisa dilakukan sekaligus atau bertahap dalam jangka waktu paling lama dua tahun sejak RUPSLB menyetujui rencana ini.",
+   "Seluruh dana hasil PMTHMETD, setelah dikurangi biaya terkait, akan disalurkan ke PT Musi Mitra Jaya (MMJ), anak usaha Perseroan di bidang logistik batu bara di Musi Rawas Utara, Sumatera Selatan, untuk membangun infrastruktur jalan angkut yang diklaim dapat menambah kapasitas angkut dan menekan biaya logistik tanpa menambah utang baru. Dengan ilustrasi skenario harga pelaksanaan terendah sebesar nilai nominal Rp200 per saham, dana yang masuk ke kas Perseroan diperkirakan Rp75 miliar atau setara US$4,5 juta, membuat kas dan setara kas naik 34,92 persen dari US$12,885 juta menjadi US$17,385 juta. Dalam skenario itu, total aset Perseroan hanya naik 0,78 persen menjadi US$579,111 juta, sementara ekuitas naik 5,71 persen dari US$78,87 juta menjadi US$83,37 juta, sehingga rasio utang terhadap ekuitas membaik dari 6,29 kali menjadi 5,95 kali. Karena penyaluran dana dari Perseroan ke MMJ, yang sahamnya tidak sepenuhnya dimiliki Perseroan melalui anak usaha, tergolong transaksi afiliasi, Perseroan wajib menggunakan penilai independen untuk menilai kewajaran transaksi itu saat dana disalurkan.",
+   "Berdasarkan Daftar Pemegang Saham per 31 Agustus 2026, dengan asumsi seluruh saham baru diserap pemodal yang bukan pemegang saham saat ini, porsi kepemilikan seluruh pemegang saham lama akan turun proporsional: PT Calorie Viva Utama selaku pengendali dari 29,082 persen menjadi 26,438 persen, Presiden Direktur Abdi Andre dari 12,692 persen menjadi 11,539 persen, DB AG Singapore SES CLT A/C untuk Vitol Asia Pte Ltd dari 8,080 persen menjadi 7,345 persen, PT Sumber Daya Kemilau dari 5,004 persen menjadi 4,549 persen, Presiden Komisaris Jay T. Oentoro dari 2,314 persen menjadi 2,104 persen, Komisaris Pranata Hajadi dari 0,313 persen menjadi 0,285 persen, Wakil Presiden Direktur Hans Jurgen Kaschull dari 0,355 persen menjadi 0,322 persen, Direktur Joko Kus Sulistyoko dari 0,940 persen menjadi 0,855 persen, dan masyarakat dengan kepemilikan di bawah 5 persen dari 41,219 persen menjadi 37,472 persen. Jumlah lembar saham yang dipegang masing-masing pihak tidak berubah, sementara saham baru hasil PMTHMETD akan mengisi 9,091 persen dari total saham setelah penerbitan. Perseroan menegaskan rencana ini tidak dimaksudkan mengubah status pengendali, dan belum dapat mengungkapkan identitas calon pemodal."
+  ],
+  "fotoAdegan": "Unpaved haul road cutting through tropical forest with loaded coal trucks queued in the distance, overcast South Sumatra sky",
+  "takeaway": "Laporan ini condong netral bagi Atlas Resources: dana segar yang masuk memang memperkuat modal tanpa menambah utang, tetapi dilusi kepemilikan hingga 9,09 persen bagi pemegang saham lama dan catatan ketidakpastian kelangsungan usaha yang disematkan auditor pada laporan keuangan 2025 membuat rencana ini bukan kabar baik murni. Pos yang tersentuh adalah ekuitas, yaitu modal milik pemegang saham setelah dikurangi utang, yang pada skenario harga pelaksanaan terendah hanya naik 5,71 persen, sementara rasio utang terhadap ekuitas yang sebelumnya sudah tinggi di 6,29 kali cuma turun tipis ke 5,95 kali; laba per saham juga ikut tergerus karena jumlah saham beredar bertambah tanpa laba ikut bertambah secara proporsional dalam waktu dekat. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 20 November 2026 yang menentukan apakah pemegang saham independen merestui rencana ini, serta penetapan harga pelaksanaan saham baru yang baru dihitung dari rata-rata harga 25 hari perdagangan sebelum Perseroan mengajukan permohonan pencatatan saham tambahan ke BEI.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-trans-kontinental-borong-empat-trofi-maritim-digital",
   "category": "BUMN",
   "title": "Pertamina Trans Kontinental [Borong] Empat Trofi Maritim Digital",

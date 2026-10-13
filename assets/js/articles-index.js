@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mrat-direksi-beli-7-200-saham-nilainya-mini",
+  "category": "Aksi Korporasi",
+  "title": "MRAT: Direksi [Beli] 7.200 Saham, Nilainya Mini",
+  "deck": "Direksi Mustika Ratu, Jodi Andrea Suryo Kusumo, membeli 7.200 saham MRAT secara tidak langsung senilai sekitar Rp2,9 juta, menaikkan kepemilikannya jadi 116.900 lembar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MRAT",
+   "Mustika Ratu",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-0736-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smmt-pemegang-saham-pengendali-geo-energy-tambah-100-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMMT: Pemegang Saham [Pengendali] GEO Energy Tambah 100 Juta Saham",
+  "deck": "Geo Energy Investama membeli 100 juta saham baru SMMT di harga Rp3.800, mengangkat hak suaranya dari 67,24% menjadi 70,16%.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMT",
+   "Kepemilikan Saham",
+   "Konsentrasi Saham",
+   "Golden Eagle Energy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-2438-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-lunasi-dua-obligasi-us-7-3-juta",
+  "category": "Aksi Korporasi",
+  "title": "INKP [Lunasi] Dua Obligasi US$7,3 Juta",
+  "deck": "Indah Kiat Pulp & Paper melunasi pokok dua seri obligasi dolar AS senilai total US$7,3 juta kepada pemegang obligasi pada 12 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "Indah Kiat Pulp & Paper",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/055a1cb89a_b87ccce8d9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "atap-jelaskan-lonjakan-transaksi-saham-utama-masih-negosiasi",
+  "category": "Aksi Korporasi",
+  "title": "ATAP Jelaskan Lonjakan Transaksi, Saham Utama Masih [Negosiasi]",
+  "deck": "Bursa Efek Indonesia meminta ATAP menjelaskan lonjakan transaksi pada 6 Oktober 2026, saat volume saham melompat lebih dari lima kali lipat dan harga naik 6,78 persen.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATAP",
+   "volatilitas saham",
+   "pemegang saham utama",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21e3fe00a1_50739c55b1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gdyr-jadwalkan-rupslb-19-november-dps-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "GDYR Jadwalkan RUPSLB 19 November, [DPS] 27 Oktober",
+  "deck": "Goodyear Indonesia mengumumkan rencana RUPSLB pada 19 November 2026 di Bogor, dengan tanggal pencatatan pemegang saham 27 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GDYR",
+   "RUPSLB",
+   "Goodyear Indonesia",
+   "corporate action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1156e5ef2f_9d1cc9a888.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "biif-pertahankan-peringkat-idaaa-dari-pefindo",
+  "category": "Aksi Korporasi",
+  "title": "BIIF Pertahankan Peringkat [idAAA] dari Pefindo",
+  "deck": "Pefindo kembali menetapkan peringkat idAAA/Stable untuk PT Maybank Indonesia Finance (BIIF) periode 7 Oktober 2026 hingga 1 Oktober 2027, sama seperti periode sebelumnya.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIIF",
+   "Pefindo",
+   "peringkat kredit",
+   "multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1bb6f08964_6bbb65254c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jecx-komisaris-admar-anwar-beli-30-000-saham",
   "category": "Aksi Korporasi",
   "title": "JECX: Komisaris Admar Anwar Beli [30.000] Saham",
@@ -149,6 +245,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "amor-direksi-tambah-5-46-juta-saham-lewat-program-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "AMOR: Direksi Tambah [5,46 Juta] Saham Lewat Program Karyawan",
+  "deck": "Direktur Arief Cahyadi Wana menambah 5.463.600 saham AMOR seharga Rp367 per lembar lewat program kepemilikan saham karyawan, hak suaranya naik ke 5,42 persen.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMOR",
+   "kepemilikan saham",
+   "direksi",
+   "program karyawan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-3178-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amor-direksi-tambah-463-600-saham-lewat-program-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "AMOR: Direksi Tambah [463.600] Saham Lewat Program Karyawan",
+  "deck": "Direksi AMOR Ronaldus Gandahusada menambah 463.600 lembar saham lewat program kepemilikan saham karyawan, menaikkan hak suaranya dari 6,30% menjadi 6,32%.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMOR",
+   "kepemilikan saham",
+   "direksi",
+   "program insentif karyawan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-8493-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kspean-wanam-irigasi-133-km-panen-padi-november",
   "category": "Makroekonomi",
   "title": "KSPEAN Wanam: Irigasi 133 Km, [Panen] Padi November",
@@ -166,6 +294,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472675-menteri-dody-tinjau-kspean-wanam-pastikan-panen-perdana-dukung-visi-presiden-prabowo"
  },
  {
+  "slug": "direktur-atic-harry-hambali-beli-115-000-saham-investasi",
+  "category": "Aksi Korporasi",
+  "title": "Direktur ATIC Harry Hambali Beli 115.000 Saham [Investasi]",
+  "deck": "Direktur Anabatic Technologies, Harry Surjanto Hambali, membeli 115.000 saham ATIC pada 7-9 Oktober 2026 melalui delapan transaksi senilai Rp436-Rp452 per lembar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATIC",
+   "Anabatic Technologies",
+   "kepemilikan saham",
+   "insider buying"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-3853-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bdkr-bantah-ada-informasi-material-di-balik-lonjakan-saham-23-5",
   "category": "Aksi Korporasi",
   "title": "BDKR Bantah Ada Informasi Material di Balik [Lonjakan] Saham 23,5%",
@@ -179,6 +323,22 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2331786fdc_a03663d502.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-221-400-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [jual] 221.400 saham lagi",
+  "deck": "Komisaris AKPI, Henry Liem, melepas 221.400 saham pada 12 Oktober 2026, transaksi ketiga dalam sepekan yang membawa hak suaranya turun jadi 0,98 persen.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-5821-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6307,169 +6467,6 @@ var ARTICLES = [
    "Gagal Bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f75adba0fa_bce6f6cb53.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-target-ebitda-rp850-m-tutup-utang-rp27-t-restrukturisasi",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Target EBITDA Rp850 M Tutup Utang Rp27 T [Restrukturisasi]",
-  "deck": "Public expose WIKA mengungkap target EBITDA Rp850 miliar untuk membayar utang berbunga sekitar Rp27 triliun, sambil restrukturisasi sukuk dan divestasi Whoosh masih berjalan.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "restrukturisasi utang",
-   "sukuk",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26b71165c5_bbeaa47a11.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "king-dirikan-anak-usaha-baru-di-bisnis-keamanan",
-  "category": "Aksi Korporasi",
-  "title": "KING Dirikan Anak Usaha Baru di Bisnis [Keamanan]",
-  "deck": "PT Hoffmen Cleanindo Tbk (KING) mendirikan PT Galaksi Hoffmen Sekuritindo dengan kepemilikan 70%, khusus menggarap jasa penyedia tenaga keamanan.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KING",
-   "anak usaha",
-   "jasa keamanan",
-   "ekspansi bisnis"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0c216d3c58_f26d852610.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-kucurkan-pinjaman-rp4-triliun-ke-nac-dan-ngc-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Kucurkan Pinjaman Rp4 Triliun ke NAC dan NGC [Afiliasi]",
-  "deck": "NexAI Digital Infrastruktur menyalurkan pinjaman pemegang saham senilai total Rp4 triliun ke dua anak usahanya tanpa jaminan, dan dikecualikan dari persetujuan RUPS karena tergolong transaksi afiliasi.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "transaksi afiliasi",
-   "transaksi material",
-   "pinjaman pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c3f77ef5a_5e945725aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direktur-tambah-saham-7-3-juta-lembar-lewat-pembelian",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direktur [Tambah] Saham 7,3 Juta Lembar Lewat Pembelian",
-  "deck": "Direktur ITSEC Asia (CYBR), Patrick Rudolf Dannacher, membeli 7,31 juta saham secara tidak langsung sepanjang akhir September 2026, menambah hak suaranya menjadi 0,797 persen.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7781-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-gama-disuspensi-penuh-bei-soal-going-concern",
-  "category": "Aksi Korporasi",
-  "title": "Saham GAMA Disuspensi Penuh BEI, Soal [Going Concern]",
-  "deck": "Bursa menghentikan sementara perdagangan saham Aksara Global Development (GAMA) di seluruh pasar mulai 6 Oktober 2026 karena keraguan atas kelangsungan usaha perusahaan.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GAMA",
-   "suspensi saham",
-   "going concern",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/175c6b4197_ad70df7169.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bjbr-pertahankan-rating-aa-idn-dari-fitch-npl-naik-3-3",
-  "category": "Aksi Korporasi",
-  "title": "BJBR Pertahankan Rating AA-(idn) dari Fitch, [NPL] Naik 3,3%",
-  "deck": "Fitch Ratings mengafirmasi peringkat bank bjb di AA-(idn) dengan outlook stabil, namun mencatat rasio kredit bermasalah naik ke 3,3 persen dan margin laba yang mulai menyempit.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BJBR",
-   "bank bjb",
-   "Fitch Ratings",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/12baf3f7d7_9d0955b23d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kesejahteraan-rakyat-jadi-tolok-ukur-sukses-ekonomi",
-  "category": "Makroekonomi",
-  "title": "Kesejahteraan Rakyat Jadi [Tolok Ukur] Sukses Ekonomi",
-  "deck": "Penulis buku Ekonomi Pancasila, Djoni Sudjatmoko, menilai kesejahteraan rakyat, bukan sekadar angka pertumbuhan, seharusnya jadi ukuran utama keberhasilan pembangunan ekonomi.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/kesejahteraan-rakyat-jadi-tolok-ukur-sukses-ekonomi.jpg",
-  "imageV": "muve5ibt",
-  "tags": [
-   "UMKM",
-   "Ekonomi Pancasila",
-   "MBG",
-   "KDMP"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471338-kesejahteraan-rakyat-jadi-indikator-utama-keberhasilan-pembangunan-ekonomi-indonesia"
- },
- {
-  "slug": "mljk-angkat-oemi-vierta-moerdika-jadi-direktur-utama",
-  "category": "Aksi Korporasi",
-  "title": "MLJK Angkat Oemi Vierta Moerdika Jadi [Direktur Utama]",
-  "deck": "PT Marga Lingkar Jakarta mengangkat Oemi Vierta Moerdika sebagai Direktur Utama baru efektif 5 Oktober 2026 lewat keputusan sirkuler pemegang saham atas usulan Jasa Marga.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MLJK",
-   "Direktur Utama",
-   "Marga Lingkar Jakarta",
-   "Jasa Marga"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c6d4a0c06c_7f49614b57.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rantai-nilai-halal-tumbuh-6-2-bi-dorong-ekosistem-syariah",
-  "category": "Makroekonomi",
-  "title": "Rantai Nilai Halal Tumbuh 6,2%, BI Dorong Ekosistem [Syariah]",
-  "deck": "Bank Indonesia mendorong penguatan ekosistem ekonomi syariah lewat tiga aspek: sektor riil, pembiayaan, dan literasi masyarakat, sembari menyiapkan ISEF 2026 pertengahan Oktober di Jakarta.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/rantai-nilai-halal-tumbuh-6-2-bi-dorong-ekosistem-syariah.jpg",
-  "imageV": "muv8ojpo",
-  "tags": [
-   "ekonomi syariah",
-   "Bank Indonesia",
-   "ISEF 2026",
-   "industri halal"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821226.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "gtbo-jawab-bursa-rincian-rkab-kontrak-dan-piutang-massicot",
-  "category": "Aksi Korporasi",
-  "title": "GTBO Jawab Bursa: Rincian [RKAB], Kontrak, dan Piutang Massicot",
-  "deck": "GTBO menjelaskan ke Bursa bahwa RKAB 2026 sudah disetujui ESDM, produksi batu bara dimulai lagi pertengahan Oktober, dan piutang dari Massicot senilai US$45 juta mulai dibayar lebih cepat dari jadwal.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTBO",
-   "RKAB",
-   "batu bara",
-   "Massicot Trade Limited"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3c4407d62f_73ab960742.pdf",
   "sourceLabel": "IDX"
  }
 ];

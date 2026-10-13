@@ -3,6 +3,160 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mrat-direksi-beli-7-200-saham-nilainya-mini",
+  "category": "Aksi Korporasi",
+  "title": "MRAT: Direksi [Beli] 7.200 Saham, Nilainya Mini",
+  "deck": "Direksi Mustika Ratu, Jodi Andrea Suryo Kusumo, membeli 7.200 saham MRAT secara tidak langsung senilai sekitar Rp2,9 juta, menaikkan kepemilikannya jadi 116.900 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T13:47:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-0736-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MRAT",
+  "tags": [
+   "MRAT",
+   "Mustika Ratu",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Jodi Andrea Suryo Kusumo, Direksi PT Mustika Ratu Tbk (MRAT), melaporkan ke Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan secara tidak langsung sebanyak 7.200 lembar pada 8 Oktober 2026. Harga pembelian tercatat Rp406 per saham, dengan tujuan transaksi disebutkan sebagai investasi.",
+   "Dengan transaksi ini, jumlah saham MRAT yang dimiliki Jodi naik dari 109.700 lembar menjadi 116.900 lembar, atau bertambah 7.200 lembar. Kenaikan tersebut membuat hak suaranya di perusahaan bergeser tipis dari 0,025 persen menjadi 0,027 persen dari total saham beredar. Laporan ini disampaikan sesuai ketentuan POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Workers packaging herbal beauty and cosmetic products on a small production line, soft industrial lighting, Indonesia",
+  "takeaway": "Penilaian netral, karena pembelian ini jumlahnya kecil dan hampir tidak mengubah apa pun secara material. Nilai transaksinya hanya sekitar Rp2,9 juta, dan kenaikan hak suara dari 0,025 persen ke 0,027 persen nyaris tak terasa di struktur pemegang saham MRAT. Yang tersentuh di sini adalah data kepemilikan saham oleh orang dalam perusahaan, pos yang dipantau pasar karena transaksi direksi dan komisaris wajib dilaporkan agar publik bisa memantau potensi informasi yang hanya diketahui kalangan internal, meski di kasus ini dampaknya ke jumlah saham beredar MRAT praktis tidak signifikan. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris MRAT lain melakukan transaksi serupa dalam waktu dekat, serta laporan keterbukaan kepemilikan saham berikutnya yang akan mengonfirmasi posisi terbaru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smmt-pemegang-saham-pengendali-geo-energy-tambah-100-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMMT: Pemegang Saham [Pengendali] GEO Energy Tambah 100 Juta Saham",
+  "deck": "Geo Energy Investama membeli 100 juta saham baru SMMT di harga Rp3.800, mengangkat hak suaranya dari 67,24% menjadi 70,16%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T13:42:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-2438-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMT",
+  "tags": [
+   "SMMT",
+   "Kepemilikan Saham",
+   "Konsentrasi Saham",
+   "Golden Eagle Energy"
+  ],
+  "body": [
+   "Geo Energy Investama, pemegang saham di PT Golden Eagle Energy Tbk (SMMT), melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya telah membeli 100.000.000 saham biasa SMMT secara tidak langsung pada 13 Oktober 2026 dengan harga Rp3.800 per saham. Transaksi ini disebut dalam laporan sebagai pembelian untuk tujuan investasi. Dengan pembelian ini, kepemilikan saham Geo Energy Investama di SMMT naik dari 2.303.030.067 lembar menjadi 2.403.030.067 lembar, sementara hak suaranya di perusahaan naik dari 67,242% menjadi 70,161%.",
+   "Berdasarkan harga transaksi yang tercantum, nilai pembelian 100 juta lembar saham tersebut diperkirakan sekitar Rp380 miliar. Kenaikan jumlah saham yang dikuasai ini setara dengan penambahan 4,34% dari posisi kepemilikan Geo Energy Investama sebelum transaksi.",
+   "Laporan ini terbit sehari setelah Bursa Efek Indonesia mengumumkan bahwa konsentrasi kepemilikan saham SMMT sudah mencapai 97,12%, yang berarti hanya sekitar 2,88% saham SMMT yang benar-benar beredar bebas dan bisa diperdagangkan publik. Penambahan kepemilikan oleh pemegang saham pengendali lewat laporan ini terjadi tepat di tengah sorotan bursa atas minimnya porsi saham publik tersebut."
+  ],
+  "fotoAdegan": "Wide shot of an open-pit coal mine with heavy haul trucks on dirt roads, dust haze, bright daylight, Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham minoritas SMMT, karena menambah konsentrasi kepemilikan di tangan pemegang saham pengendali tepat sehari setelah BEI mengumumkan konsentrasi saham SMMT sudah mencapai 97,12%. Pos yang tersentuh di sini adalah hak suara, yaitu persentase kekuatan suara seseorang dalam rapat pemegang saham untuk menentukan keputusan penting perusahaan, yang pada laporan ini naik dari 67,242% menjadi 70,161%. Makin besar hak suara terkumpul di satu pihak, makin kecil porsi saham yang beredar bebas di pasar, dan itu bisa membuat saham makin sulit diperjualbelikan karena peminatnya terbatas pada sedikit saham yang tersisa. Yang perlu dipantau selanjutnya adalah apakah Geo Energy Investama kembali menambah kepemilikannya lewat laporan-laporan serupa berikutnya, dan apakah Bursa Efek Indonesia menindaklanjuti isu konsentrasi saham yang baru mereka soroti sehari sebelum laporan ini terbit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inkp-lunasi-dua-obligasi-us-7-3-juta",
+  "category": "Aksi Korporasi",
+  "title": "INKP [Lunasi] Dua Obligasi US$7,3 Juta",
+  "deck": "Indah Kiat Pulp & Paper melunasi pokok dua seri obligasi dolar AS senilai total US$7,3 juta kepada pemegang obligasi pada 12 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T13:34:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/055a1cb89a_b87ccce8d9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "Indah Kiat Pulp & Paper",
+   "pelunasan utang"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) melalui PT Kustodian Sentral Efek Indonesia (KSEI) resmi melunasi pokok dua seri obligasi dolar Amerika Serikat pada 12 Oktober 2026. Seri pertama adalah Obligasi USD Berkelanjutan II Indah Kiat Pulp & Paper Tahap IV Tahun 2025 Seri A senilai US$5.820.000. Seri kedua adalah Obligasi USD Berkelanjutan I Indah Kiat Pulp & Paper Tahap I Tahun 2023 Seri A senilai US$1.495.000. Total pokok yang dibayarkan kepada pemegang obligasi mencapai US$7.315.000.",
+   "Laporan keterbukaan informasi ini ditandatangani oleh Heri Santoso selaku Corporate Secretary INKP dan ditembuskan kepada Otoritas Jasa Keuangan, Direksi PT Bursa Efek Indonesia, serta PT Bank KB Indonesia Tbk yang bertindak sebagai wali amanat kedua obligasi tersebut. Dalam kolom dampak kejadian terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usaha, perseroan tidak mencantumkan keterangan tambahan."
+  ],
+  "fotoAdegan": "Stacks of large paper rolls being moved by forklift inside an industrial pulp and paper mill warehouse",
+  "takeaway": "Laporan ini tergolong netral bagi INKP karena pelunasan obligasi sudah sesuai jadwal jatuh tempo, dan nilainya, sekitar US$7,3 juta, relatif kecil dibanding skala bisnis perusahaan yang baru sehari sebelumnya diberitakan merampungkan realisasi dana obligasi dan sukuk senilai Rp4,6 triliun. Pos yang tersentuh adalah utang atau liabilitas perusahaan, sebab pokok obligasi yang sudah dibayar otomatis mengurangi beban utang sekaligus bunga yang harus ditanggung INKP ke depan, meski besarannya tidak signifikan terhadap total kewajiban perusahaan secara keseluruhan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang untuk melihat seberapa besar penurunan beban bunga ini tercermin, serta jadwal jatuh tempo seri obligasi INKP lain yang belum disebutkan dalam dokumen ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "atap-jelaskan-lonjakan-transaksi-saham-utama-masih-negosiasi",
+  "category": "Aksi Korporasi",
+  "title": "ATAP Jelaskan Lonjakan Transaksi, Saham Utama Masih [Negosiasi]",
+  "deck": "Bursa Efek Indonesia meminta ATAP menjelaskan lonjakan transaksi pada 6 Oktober 2026, saat volume saham melompat lebih dari lima kali lipat dan harga naik 6,78 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T13:20:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21e3fe00a1_50739c55b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATAP",
+  "tags": [
+   "ATAP",
+   "volatilitas saham",
+   "pemegang saham utama",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Trimitra Prawara Goldland Tbk (ATAP) memberikan penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan atas volatilitas transaksi saham melalui surat bursa nomor S-12830/BEI.PP3/10-2026 tertanggal 8 Oktober 2026. Bursa mencatat pada 6 Oktober 2026 volume transaksi saham ATAP melonjak menjadi 14.314.500 saham dengan 3.346 kali transaksi, naik tajam dari hari bursa sebelumnya yang hanya 2.554.000 saham dengan 352 kali transaksi. Harga saham ditutup naik Rp40 atau 6,78 persen, dari Rp590 menjadi Rp630.",
+   "Dalam tanggapannya, Corporate Secretary ATAP Edo Noviardi menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, dan menyebut perubahan harga sepenuhnya terjadi karena mekanisme pasar. Perseroan juga menegaskan belum memiliki rencana pasti atas tindakan korporasi dalam tiga bulan mendatang yang akan berdampak pada status pencatatan sahamnya di bursa. Namun perseroan mengakui ada informasi yang relevan, yaitu keterbukaan informasi terkait transaksi afiliasi yang telah diumumkan pada 1 Oktober 2026.",
+   "Poin yang menonjol dari dokumen ini adalah konfirmasi soal rencana pemegang saham utama. Edo Noviardi menyatakan sudah meminta konfirmasi langsung kepada pemegang saham utama, dan berdasarkan jawaban yang diterima, pemegang saham utama tersebut masih dalam tahap negosiasi terkait kepemilikan sahamnya di ATAP. Negosiasi ini merupakan kelanjutan dari pengumuman yang pertama kali disampaikan perseroan dalam surat No. 445/BEI-OJK/TPG/X/2025 tertanggal 20 November 2025. Perseroan berjanji akan menyampaikan pembaruan begitu memperoleh informasi lebih lanjut dari pemegang saham utama tersebut."
+  ],
+  "fotoAdegan": "Busy brokerage floor in Jakarta with traders at desks, multiple computer screens showing blurred stock charts in the background, afternoon light.",
+  "takeaway": "Laporan ini netral bagi ATAP, karena tidak ada angka fundamental baru yang berubah, perseroan hanya mengonfirmasi bahwa lonjakan harga dan volume semata permainan pasar, bukan dipicu kabar material baru. Yang justru perlu dicermati bukan soal laba atau arus kas, melainkan struktur kepemilikan: pemegang saham utama ATAP sudah hampir setahun berada dalam proses negosiasi soal sahamnya sendiri, dan pelaku pasar biasanya mengamati hal semacam ini karena bisa berujung pada pergantian pengendali perusahaan, yang pada akhirnya memengaruhi arah bisnis ke depan. Lonjakan transaksi pada 6 Oktober, dengan volume naik lebih dari lima kali lipat dibanding hari sebelumnya, biasa dibaca sebagai tanda ada pihak yang mulai bergerak di pasar sebelum kepastian resmi muncul. Yang perlu dipantau selanjutnya adalah pembaruan resmi dari perseroan begitu negosiasi pemegang saham utama tersebut mencapai titik final, karena sampai laporan ini terbit belum ada kesepakatan maupun tanggal pasti yang diumumkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gdyr-jadwalkan-rupslb-19-november-dps-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "GDYR Jadwalkan RUPSLB 19 November, [DPS] 27 Oktober",
+  "deck": "Goodyear Indonesia mengumumkan rencana RUPSLB pada 19 November 2026 di Bogor, dengan tanggal pencatatan pemegang saham 27 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T12:49:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1156e5ef2f_9d1cc9a888.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GDYR",
+  "tags": [
+   "GDYR",
+   "RUPSLB",
+   "Goodyear Indonesia",
+   "corporate action"
+  ],
+  "body": [
+   "PT Goodyear Indonesia Tbk (GDYR) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 19 November 2026 pukul 10.00 WIB di Hotel Grand Savero, Bogor. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 27 Oktober 2026 pukul 16.00 WIB atau kuasa mereka yang sah. Pengumuman ini merujuk pada surat sebelumnya nomor CSLM.154/CORSEC/X/2026 tertanggal 6 Oktober 2026, dan ditandatangani oleh Corporate Secretary Helda Sihombing.",
+   "Pemanggilan resmi rapat, yang akan memuat agenda lengkap RUPSLB, dijadwalkan terbit pada 28 Oktober 2026 melalui situs web Bursa Efek Indonesia, situs web Perseroan, serta situs PT Kustodian Sentral Efek Indonesia (KSEI) selaku penyedia e-Proxy. Pemegang saham yang ingin mengusulkan mata acara tambahan harus mewakili sedikitnya 1/20 bagian dari jumlah saham dengan hak suara sah yang telah dikeluarkan Perseroan, dan usul tersebut harus disampaikan ke Direksi paling lambat tujuh hari sebelum tanggal pemanggilan itu.",
+   "Bagi pemegang saham yang tidak hadir secara fisik, Perseroan menyediakan fasilitas kuasa elektronik melalui eASY.KSEI kepada perwakilan independen yang ditunjuk Perseroan. Fasilitas e-Proxy ini bisa digunakan sejak tanggal pemanggilan rapat sampai satu hari sebelum pelaksanaan RUPSLB, yaitu 18 November 2026."
+  ],
+  "fotoAdegan": "Rows of rubber tires stacked inside a factory warehouse, workers in uniform checking stock near pallets, industrial lighting",
+  "takeaway": "Pengumuman ini netral karena isinya sebatas jadwal dan mekanisme RUPSLB, belum mengungkap agenda atau keputusan apa pun yang akan dibahas, sehingga belum ada dampak yang bisa dinilai terhadap kinerja Goodyear Indonesia. RUPSLB semacam ini bisa saja nantinya membahas hal yang menyentuh struktur modal, misalnya perubahan jumlah saham beredar yang mempengaruhi laba per saham, atau perubahan susunan pengurus, tetapi detail itu baru akan terlihat setelah agenda resmi diumumkan. Pemegang saham yang berhak hadir adalah yang tercatat per 27 Oktober 2026 pukul 16.00 WIB, dan pihak yang menguasai minimal 1/20 saham berhak suara punya hak mengusulkan agenda tambahan sebelum pemanggilan resmi terbit. Yang perlu dipantau berikutnya adalah pemanggilan rapat pada 28 Oktober 2026, karena dokumen itulah yang baru akan memuat agenda sebenarnya, serta pelaksanaan RUPSLB itu sendiri pada 19 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "biif-pertahankan-peringkat-idaaa-dari-pefindo",
+  "category": "Aksi Korporasi",
+  "title": "BIIF Pertahankan Peringkat [idAAA] dari Pefindo",
+  "deck": "Pefindo kembali menetapkan peringkat idAAA/Stable untuk PT Maybank Indonesia Finance (BIIF) periode 7 Oktober 2026 hingga 1 Oktober 2027, sama seperti periode sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T12:34:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1bb6f08964_6bbb65254c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIIF",
+  "tags": [
+   "BIIF",
+   "Pefindo",
+   "peringkat kredit",
+   "multifinance"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (Pefindo) menetapkan peringkat idAAA dengan outlook stabil untuk PT Maybank Indonesia Finance (kode emiten BIIF) untuk periode 7 Oktober 2026 sampai 1 Oktober 2027. Keputusan ini tertuang dalam surat Pefindo Nomor RC-1375/PEF-DIR/X/2026 tertanggal 7 Oktober 2026, hasil rapat komite pemeringkatan pada hari yang sama, dan diterima perusahaan pada 9 Oktober 2026. Surat tersebut ditandatangani oleh Ignatius Girendroheru selaku Direktur Utama Pefindo dan Hendro Utomo selaku Direktur, serta dialamatkan kepada Alexander, Presiden Direktur PT Maybank Indonesia Finance. Peringkat ini berlaku baik untuk peringkat korporasi maupun peringkat obligasi perusahaan, dan disusun berdasarkan laporan keuangan tidak diaudit per 30 Juni 2026 serta laporan keuangan audit per 31 Desember 2025.",
+   "Peringkat idAAA ini sama dengan peringkat yang disandang perusahaan pada periode sebelumnya, yakni 10 Oktober 2025 sampai 1 Oktober 2026, sehingga tidak ada perubahan naik atau turun. Pefindo menjelaskan bahwa idAAA merupakan peringkat tertinggi yang diberikannya, menandakan kemampuan membayar komitmen keuangan jangka panjang yang superior dibanding debitur Indonesia lainnya. Dalam suratnya ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia yang ditandatangani Corporate Secretary Sufiana pada 12 Oktober 2026, perusahaan menyatakan hasil pemeringkatan ini tidak berdampak negatif terhadap operasional, aspek hukum, maupun kemampuan keuangannya.",
+   "Dokumen keterbukaan ini juga menyinggung bahwa perusahaan sebelumnya memperoleh peringkat dari Fitch Ratings Indonesia untuk periode 21 November 2025 sampai 21 November 2026, namun detail angka peringkat Fitch tersebut tidak dapat dibaca dengan jelas dari dokumen hasil pemindaian yang dilampirkan sehingga tidak dikutip di sini."
+  ],
+  "fotoAdegan": "A modern glass office tower in Jakarta's financial district with pedestrians passing by on a sunny afternoon.",
+  "takeaway": "Laporan ini condong positif bagi BIIF karena mempertahankan peringkat tertinggi yang bisa diberikan Pefindo, sinyal bahwa kemampuan perusahaan membayar utang jangka panjang masih dinilai superior dibanding debitur lain di Indonesia. Pos yang tersentuh adalah beban bunga dan arus kas dari aktivitas pembiayaan, sebab peringkat kredit yang tinggi biasanya membuat perusahaan pembiayaan seperti BIIF bisa meminjam dana atau menerbitkan obligasi dengan bunga yang lebih murah, yang pada akhirnya menekan biaya dananya. Catatan pentingnya, ini adalah afirmasi atau konfirmasi ulang, bukan kenaikan peringkat, sehingga tidak ada informasi baru soal perbaikan fundamental dibanding setahun lalu. Yang perlu dipantau berikutnya adalah masa berlaku peringkat ini yang berakhir 1 Oktober 2027, serta laporan keuangan audit tahun 2026 yang akan menjadi salah satu basis evaluasi peringkat periode selanjutnya.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "jecx-komisaris-admar-anwar-beli-30-000-saham",
   "category": "Aksi Korporasi",
   "title": "JECX: Komisaris Admar Anwar Beli [30.000] Saham",
@@ -235,6 +389,57 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "amor-direksi-tambah-5-46-juta-saham-lewat-program-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "AMOR: Direksi Tambah [5,46 Juta] Saham Lewat Program Karyawan",
+  "deck": "Direktur Arief Cahyadi Wana menambah 5.463.600 saham AMOR seharga Rp367 per lembar lewat program kepemilikan saham karyawan, hak suaranya naik ke 5,42 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:33:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-3178-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "kepemilikan saham",
+   "direksi",
+   "program karyawan"
+  ],
+  "body": [
+   "Arief Cahyadi Wana, anggota Direksi PT Ashmore Asset Management Indonesia Tbk (AMOR), melaporkan ke Otoritas Jasa Keuangan pada 13 Oktober 2026 bahwa kepemilikan sahamnya di perseroan bertambah dari 120.000.000 lembar menjadi 125.463.600 lembar, atau naik 5.463.600 saham. Transaksi tercatat pada 8 Oktober 2026 dengan harga Rp367 per saham, berstatus kepemilikan tidak langsung dengan jenis transaksi repurchase agreement, dalam rangka Program Kepemilikan Saham oleh Manajemen dan Karyawan Perseroan. Akibat penambahan ini, hak suara Arief di AMOR naik tipis dari 5,40 persen menjadi 5,42 persen.",
+   "Laporan ini merupakan laporan ketiga dalam sepekan terakhir yang berasal dari program insentif saham karyawan dan manajemen yang sama di AMOR. Sebelumnya, dua direksi lain masing-masing melaporkan penambahan 456.200 saham dan 158.000 saham lewat program serupa. Dengan tambahan transaksi Arief, total saham yang berpindah ke tangan manajemen lewat program ini sejauh ini tercatat mencapai 6.077.800 lembar."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, soft afternoon light, light traffic on the street below",
+  "takeaway": "Laporan ini netral bagi AMOR, karena tambahan 5.463.600 saham untuk Arief hanya mengubah hak suaranya dari 5,40 persen menjadi 5,42 persen, perubahan yang terlalu kecil untuk dibaca sebagai pergeseran kendali di perseroan. Pos yang tersentuh adalah struktur jumlah saham beredar dan potensi laba per saham, karena kalau saham yang dibagikan dalam program insentif ini berasal dari penerbitan baru dan bukan dari saham treasuri yang dibeli kembali, porsi kepemilikan pemegang saham lama bisa sedikit tergerus meski nilainya kecil. Yang membuat laporan ini perlu dibaca sebagai satu rangkaian adalah fakta bahwa ini laporan ketiga dari program yang sama dalam sepekan terakhir, dengan total 6.077.800 saham yang sudah berpindah ke tiga direksi AMOR. Yang perlu dipantau berikutnya adalah apakah direksi atau komisaris lain AMOR turut melaporkan penambahan serupa, serta apakah perseroan mengeluarkan pengumuman resmi soal total alokasi dan sumber saham dalam program kepemilikan saham karyawan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "amor-direksi-tambah-463-600-saham-lewat-program-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "AMOR: Direksi Tambah [463.600] Saham Lewat Program Karyawan",
+  "deck": "Direksi AMOR Ronaldus Gandahusada menambah 463.600 lembar saham lewat program kepemilikan saham karyawan, menaikkan hak suaranya dari 6,30% menjadi 6,32%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:30:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-8493-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "kepemilikan saham",
+   "direksi",
+   "program insentif karyawan"
+  ],
+  "body": [
+   "Direksi PT Ashmore Asset Management Indonesia Tbk (AMOR), Ir Ronaldus Gandahusada, melaporkan ke Otoritas Jasa Keuangan pada 13 Oktober 2026 bahwa kepemilikan sahamnya di perseroan bertambah. Sebelum transaksi ia memegang 140.000.000 lembar saham AMOR, setara 6,30% hak suara. Setelah transaksi yang tercatat pada 8 Oktober 2026, jumlah sahamnya naik menjadi 140.463.600 lembar, sehingga hak suaranya naik tipis menjadi 6,32%.",
+   "Selisih 463.600 lembar saham biasa ini berasal dari program kepemilikan saham oleh manajemen dan karyawan perseroan, dan statusnya tercatat sebagai kepemilikan langsung. Dokumen yang sama juga menyebut sisa hak kepemilikan saham karyawan atau EBE yang belum dilaksanakan sebesar 2.222.222.400 unit, kemungkinan merujuk pada total alokasi program yang masih tersisa untuk tahap pelaksanaan berikutnya. Tambahan saham untuk Ronaldus ini setara 0,33% dari jumlah saham yang sudah ia pegang sebelumnya.",
+   "Laporan ini melengkapi rangkaian pelaporan serupa dari jajaran direksi AMOR dalam beberapa hari terakhir atas program insentif saham yang sama. Sebelumnya tercatat tambahan 5.463.600 saham, 456.200 saham, dan 158.000 saham untuk tiga direksi atau komisaris lain. Dengan tambahan Ronaldus, total saham yang sudah dibagikan lewat program ini dalam periode tersebut mencapai sekitar 6.541.400 lembar."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, pedestrians walking past in late afternoon light",
+  "takeaway": "Laporan ini netral bagi AMOR, karena tambahan 463.600 saham untuk Ronaldus hanya 0,33% dari kepemilikannya sebelumnya dan hanya menaikkan hak suaranya dari 6,30% ke 6,32%, terlalu kecil untuk dibaca sebagai sinyal arah dari manajemen. Yang tersentuh di sini adalah jumlah saham beredar dan laba per saham, karena setiap penambahan saham baru ke direksi lewat program insentif sedikit memperbesar basis saham perseroan, sehingga porsi laba yang jatuh ke setiap lembar saham bisa terdilusi meski dalam skala kecil. Yang perlu dipantau adalah apakah AMOR akan mengungkap total keseluruhan program insentif ini, termasuk sisa alokasi 2.222.222.400 unit EBE yang belum dilaksanakan, mengingat setidaknya empat laporan direksi dengan program yang sama sudah muncul dalam beberapa hari terakhir dengan total gabungan sekitar 6,54 juta saham.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kspean-wanam-irigasi-133-km-panen-padi-november",
   "category": "Makroekonomi",
   "title": "KSPEAN Wanam: Irigasi 133 Km, [Panen] Padi November",
@@ -262,6 +467,32 @@ var ARTICLES = [
   "imageV": "mv6720rn"
  },
  {
+  "slug": "direktur-atic-harry-hambali-beli-115-000-saham-investasi",
+  "category": "Aksi Korporasi",
+  "title": "Direktur ATIC Harry Hambali Beli 115.000 Saham [Investasi]",
+  "deck": "Direktur Anabatic Technologies, Harry Surjanto Hambali, membeli 115.000 saham ATIC pada 7-9 Oktober 2026 melalui delapan transaksi senilai Rp436-Rp452 per lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:19:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-3853-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATIC",
+  "tags": [
+   "ATIC",
+   "Anabatic Technologies",
+   "kepemilikan saham",
+   "insider buying"
+  ],
+  "body": [
+   "Direktur PT Anabatic Technologies Tbk, Harry Surjanto Hambali, melaporkan ke Otoritas Jasa Keuangan bahwa ia menambah kepemilikan saham ATIC. Sebelum transaksi ia memegang 91.915.461 lembar saham dengan hak suara 3,18 persen, dan setelah transaksi jumlahnya naik menjadi 92.030.461 lembar. Hak suaranya tetap di angka 3,18 persen karena kenaikannya terlalu kecil untuk mengubah persentase kepemilikannya di perusahaan.",
+   "Penambahan sebanyak 115.000 lembar itu berasal dari delapan transaksi pembelian tidak langsung dengan tujuan investasi. Pada 7 Oktober 2026 ia membeli 24.200 saham di harga Rp438 dan 45.800 saham di harga Rp436 per lembar. Pada 8 Oktober 2026 menyusul pembelian 4.700 saham di Rp440, 800 saham di Rp448, 5.200 saham di Rp452, dan 9.300 saham di Rp450. Transaksi terakhir terjadi pada 9 Oktober 2026 sebanyak 22.400 saham di Rp440 dan 2.600 saham di Rp442 per lembar.",
+   "Dalam laporan yang sama, Harry menyatakan dirinya bukan pengendali perusahaan dan tidak berniat menjadi pengendali melalui transaksi ini. Laporan diajukan sendiri olehnya tanpa kuasa kepada pihak lain, dan tidak ada keterangan mengenai kelompok terorganisasi dalam pelaporan ini."
+  ],
+  "fotoAdegan": "Technicians inspecting rows of server racks in a quiet data center aisle, blue indicator lights glowing, modern office at dusk",
+  "takeaway": "Pembelian ini netral bagi ATIC karena ukurannya kecil, hanya sekitar 0,13 persen dari saham yang sudah dipegang Harry, dan hak suaranya tetap di 3,18 persen sehingga tidak mengubah posisi kendalinya. Yang tersentuh di sini cuma kepemilikan pribadi Harry, bukan jumlah saham ATIC yang beredar di pasar, karena ini jual beli di pasar sekunder lewat pihak lain, bukan penerbitan saham baru, sehingga tidak ada dana segar yang masuk ke kas perusahaan. Yang perlu dipantau adalah apakah pola beli bertahap ini berlanjut, sebab ini laporan kedua Harry dalam sepekan setelah pembelian 40.000 saham pada 7 Oktober yang sudah diberitakan sebelumnya, dan akumulasi kecil yang berulang dari direksi biasanya dibaca pasar sebagai tanda keyakinan, meski besarannya masih terlalu kecil untuk disebut sinyal kuat.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bdkr-bantah-ada-informasi-material-di-balik-lonjakan-saham-23-5",
   "category": "Aksi Korporasi",
   "title": "BDKR Bantah Ada Informasi Material di Balik [Lonjakan] Saham 23,5%",
@@ -285,6 +516,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Construction crew operating a pile driving rig at a building foundation site, dusty daylight, workers wearing hard hats",
   "takeaway": "Penjelasan ini netral bagi fundamental BDKR karena Perseroan secara tegas menyatakan tidak ada informasi material apa pun di balik lonjakan harga dan volume transaksinya, termasuk tidak ada rencana aksi korporasi dalam tiga bulan ke depan. Lonjakan harga 23,53 persen dan volume transaksi yang naik lebih dari lima kali lipat dalam dua hari ini tidak menyentuh pos kinerja mana pun, bukan ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, karena tidak ada transaksi korporasi yang mendasarinya. Pembaca sebaiknya membaca kenaikan ini sebagai pergerakan yang murni didorong aktivitas jual beli di pasar, bukan perubahan kinerja atau rencana bisnis Perseroan. Yang perlu dipantau adalah apakah BEI akan mengirim permintaan penjelasan serupa bila volatilitas berlanjut, serta apakah pernyataan tidak ada rencana aksi korporasi ini tetap konsisten hingga sekitar Januari 2027, tiga bulan sejak surat tanggapan ini terbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-221-400-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [jual] 221.400 saham lagi",
+  "deck": "Komisaris AKPI, Henry Liem, melepas 221.400 saham pada 12 Oktober 2026, transaksi ketiga dalam sepekan yang membawa hak suaranya turun jadi 0,98 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T09:51:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-5821-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Komisaris Argha Karya Prima Industry (AKPI), Henry Liem, melaporkan ke Otoritas Jasa Keuangan bahwa ia menjual 221.400 saham perusahaan pada 12 Oktober 2026. Penjualan dilakukan dalam dua transaksi tidak langsung dengan tujuan \"jual saham\": 21.400 saham di harga Rp525 per saham dan 200.000 saham di harga Rp515 per saham. Laporan resmi ini disampaikan ke OJK pada 13 Oktober 2026.",
+   "Akibat penjualan tersebut, jumlah saham Henry Liem di AKPI berkurang dari 6.222.259 lembar menjadi 6.000.859 lembar, setara 3,56 persen dari kepemilikannya sebelum transaksi. Hak suaranya di perusahaan ikut turun dari 1,0163 persen menjadi 0,9801 persen.",
+   "Ini merupakan penjualan saham ketiga oleh Henry Liem dalam sepekan terakhir. Sebelumnya ia melepas 400.000 saham senilai Rp207 juta pada 7 Oktober 2026, disusul penjualan 75.900 saham pada 9 Oktober 2026. Dengan transaksi terbaru ini, total saham yang dilepas Henry Liem sejak awal Oktober mencapai sekitar 697.300 lembar."
+  ],
+  "fotoAdegan": "Rolls of clear plastic packaging film stacked on a factory production line, workers in safety vests monitoring machinery, industrial lighting",
+  "takeaway": "Laporan ini netral bagi AKPI, sebab meski ini penjualan ketiga Henry Liem dalam sepekan dengan total sekitar 697.300 saham terjual, hak suaranya hanya tergerus dari kisaran 1,03 persen menjadi 0,98 persen sehingga posisinya sebagai komisaris tidak tergoyang. Yang tersentuh di sini adalah struktur kepemilikan saham perusahaan, bukan arus kas atau ekuitas AKPI sendiri, karena transaksi ini terjadi antar pemegang saham di pasar sekunder dan tidak mengalirkan dana baru ke kas perusahaan. Pelaku pasar tetap mencatat transaksi orang dalam seperti ini karena polanya kadang mencerminkan sikap pengurus terhadap prospek perusahaan, meski besarannya di sini belum sampai mengubah kendali. Yang perlu dipantau berikutnya adalah apakah Henry Liem akan terus melepas saham dalam laporan-laporan selanjutnya, mengingat tiga transaksi berturut-turut dalam waktu singkat ini mulai membentuk pola penjualan yang konsisten.",
   "sentimen": "netral"
  },
  {

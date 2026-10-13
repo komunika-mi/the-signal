@@ -3,6 +3,238 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jecx-komisaris-admar-anwar-beli-30-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Komisaris Admar Anwar Beli [30.000] Saham",
+  "deck": "Komisaris JECX, DR. Admar Anwar, membeli 30.000 saham senilai Rp39 juta pada 2 Oktober 2026, menambah kepemilikannya jadi 12,7 juta lembar tanpa mengubah hak suara 0,39 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T11:52:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-8261-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "Komisaris",
+   "Kepemilikan Saham",
+   "Nitrasanata Dharma"
+  ],
+  "body": [
+   "Dewan Komisaris PT Nitrasanata Dharma Tbk (JECX), DR. Admar Anwar, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 30.000 saham biasa JECX pada 2 Oktober 2026 dengan harga Rp1.300 per saham, atau senilai sekitar Rp39 juta. Transaksi tercatat sebagai pembelian langsung dengan tujuan investasi, dan laporan ini disampaikan ke OJK pada 13 Oktober 2026.",
+   "Dengan transaksi tersebut, kepemilikan Admar Anwar di JECX bertambah dari 12.670.000 lembar saham menjadi 12.700.000 lembar saham. Hak suaranya di perusahaan tidak berubah, tetap di angka 0,39 persen, karena porsi tambahan saham itu terlalu kecil untuk menggeser proporsi kepemilikannya terhadap total saham beredar JECX.",
+   "Laporan ini menyusul dua laporan kepemilikan saham JECX lainnya dalam sepekan terakhir, yaitu pembelian 10.000 saham oleh direksi Johan Hutauruk pada 12 Oktober dan penambahan 449.300 saham oleh pemegang saham Sarana Meditama Metropolitan pada 7 Oktober, yang membuat hak suaranya naik ke sekitar 34 persen."
+  ],
+  "fotoAdegan": "Jakarta financial district office towers at dusk with pedestrians crossing a busy street, motion blur, soft evening light",
+  "takeaway": "Laporan ini netral bagi JECX, karena pembelian 30.000 saham oleh Komisaris Admar Anwar hanya setara 0,24 persen dari kepemilikannya sendiri dan tidak mengubah hak suaranya yang tetap di 0,39 persen, sehingga belum bisa dibaca sebagai sinyal keyakinan besar terhadap prospek perusahaan. Transaksi ini menyentuh pos kepemilikan saham oleh orang dalam perusahaan, bukan jumlah saham beredar JECX secara keseluruhan, sebab pembelian terjadi di pasar antar pemegang saham, bukan penerbitan saham baru, jadi tidak berpengaruh ke laba per saham maupun modal perusahaan. Pelaku pasar biasanya memperhatikan pola pembelian oleh direksi atau komisaris sebagai salah satu indikator apakah orang dalam percaya pada arah bisnis perusahaan, meski untuk kasus ini nilainya terlalu kecil untuk dibaca sebagai sinyal kuat. Yang perlu dicermati selanjutnya adalah apakah rangkaian pembelian kecil oleh beberapa direksi, komisaris, dan pemegang saham JECX dalam sepekan terakhir ini berlanjut menjadi tren akumulasi yang lebih besar, atau berhenti sebagai transaksi rutin yang berdiri sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jecx-komisaris-beli-lagi-40-000-saham-total-dua-pekan-70-000",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Komisaris Beli Lagi [40.000] Saham, Total Dua Pekan 70.000",
+  "deck": "Komisaris JECX, Dr. Admar Anwar, membeli 40.000 saham tambahan pada 1 Oktober 2026, melengkapi pembelian sebelumnya hingga total 70.000 saham dalam dua pekan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T11:41:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-8079-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "Komisaris",
+   "Kepemilikan Saham",
+   "Admar Anwar"
+  ],
+  "body": [
+   "Komisaris PT Nitrasanata Dharma Tbk (JECX), Dr. Admar Anwar, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 40.000 saham biasa JECX secara tidak langsung pada 1 Oktober 2026 dengan harga Rp1.320 per saham. Tujuan transaksi yang tercatat dalam laporan adalah investasi. Setelah pembelian ini, jumlah saham yang dipegangnya naik dari 12.630.000 lembar menjadi 12.670.000 lembar, sementara hak suaranya di perusahaan tetap di angka 0,39 persen.",
+   "Laporan ini adalah laporan kedua dari Admar Anwar dalam waktu berdekatan. Sebelumnya saham yang dimilikinya naik dari 12.600.000 menjadi 12.630.000 lembar lewat pembelian 30.000 saham yang juga dilaporkan pada tanggal yang sama. Dengan dua transaksi tersebut, total saham yang dibelinya mencapai 70.000 lembar dalam waktu singkat, mengangkat kepemilikannya dari 12,6 juta menjadi 12,67 juta lembar saham JECX, meski porsinya tetap kecil dibandingkan total saham beredar perusahaan."
+  ],
+  "fotoAdegan": "Office workers walking through a glass walled corporate lobby in a Jakarta high rise, soft morning light",
+  "takeaway": "Laporan ini netral bagi JECX, karena pembelian 40.000 saham oleh Komisaris Dr. Admar Anwar hanya setara 0,32 persen dari saham yang sudah dia pegang, dan hak suaranya di perusahaan tetap di 0,39 persen sehingga tidak mengubah posisinya sebagai pemegang saham minoritas. Yang tersentuh di sini cuma jumlah saham beredar yang dipegang satu komisaris, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, jadi transaksi ini tidak mengubah fundamental bisnis JECX. Pelaku pasar memang biasa membaca pembelian oleh direksi atau komisaris sebagai tanda keyakinan terhadap perusahaan, tapi sinyal itu baru berarti kalau porsinya besar dibanding kepemilikan sebelumnya, dan di sini porsinya kecil. Yang perlu dipantau adalah apakah pembelian oleh Admar Anwar terus berlanjut, karena ini sudah transaksi kedua dalam waktu berdekatan setelah pembelian 30.000 saham sebelumnya, dengan total kini mencapai 70.000 saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-prambanan-tuntas-lepas-semua-saham-suara-ke-0",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Prambanan [Tuntas] Lepas Semua Saham, Suara ke 0%",
+  "deck": "Prambanan Investasi Sukses menjual seluruh 388,4 juta saham DOOH yang tersisa senilai sekitar Rp130,5 miliar, hak suaranya habis dari 5,02% menjadi nol persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T11:34:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-9689-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "Prambanan Investasi Sukses",
+   "pemegang saham",
+   "divestasi"
+  ],
+  "body": [
+   "PRAMBANAN INVESTASI SUKSES melaporkan ke Otoritas Jasa Keuangan bahwa pada 12 Oktober 2026 pihaknya menjual seluruh 388.417.412 lembar saham PT Era Media Sejahtera Tbk (DOOH) yang masih dipegangnya, dengan harga Rp336 per saham dan tujuan transaksi tercatat sebagai divestasi. Penjualan ini dilakukan secara tidak langsung dan menghabiskan seluruh sisa kepemilikan Prambanan, sehingga jumlah sahamnya di DOOH kini menjadi nol unit. Hak suaranya turun dari 5,02% menjadi 0,00%, yang berarti Prambanan resmi tidak lagi tercatat sebagai pemegang saham DOOH.",
+   "Total nilai penjualan saham terakhir ini sekitar Rp130,51 miliar, dihitung dari 388,4 juta lembar dikali harga Rp336 per saham. Pelapor bukan anggota direksi atau dewan komisaris DOOH, dan berstatus warga negara Indonesia sesuai dokumen.",
+   "Transaksi ini melanjutkan rangkaian pelepasan saham Prambanan di DOOH dalam beberapa hari terakhir. Pada 9 Oktober, Prambanan sudah melepas sekitar 234 juta lembar saham, lalu pada 11 Oktober melepas lagi sekitar 545 juta lembar yang membuat hak suaranya turun dari 12,06% menjadi 5,02%. Dengan penjualan 388,4 juta lembar pada 12 Oktober ini, seluruh sisa kepemilikan Prambanan di DOOH kini sudah habis."
+  ],
+  "fotoAdegan": "Large digital billboard screens on a city building facade at dusk, blurred by passing traffic below",
+  "takeaway": "Laporan ini negatif bagi DOOH, karena Prambanan tidak sekadar mengurangi porsi tapi benar-benar keluar total dari daftar pemegang saham, melepas seluruh sisa sahamnya sampai hak suaranya nol. Pos yang tersentuh adalah struktur pemegang saham dan hak suara, yakni siapa yang punya pengaruh saat pemegang saham memutuskan sesuatu di rapat umum, dan ini penting karena saham sebesar itu kini pindah tangan ke pembeli yang belum diketahui publik. Dalam lima hari terakhir Prambanan sudah tiga kali melepas saham DOOH, dari sekitar 12% hak suara menjadi nol, sehingga rangkaian ini menandai keluarnya satu pemegang saham signifikan secara penuh. Yang perlu dipantau berikutnya adalah laporan kepemilikan susulan yang mungkin mengungkap siapa pembeli saham ini, dan apakah muncul pemegang saham baru yang harus melaporkan kepemilikannya ke OJK.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sger-koreksi-laporan-keuangan-laba-bersih-naik-9-5-jadi-rp140-3-m",
+  "category": "Aksi Korporasi",
+  "title": "SGER Koreksi Laporan Keuangan, [Laba Bersih] Naik 9,5% jadi Rp140,3 M",
+  "deck": "PT Sumber Global Energy Tbk mengoreksi laporan keuangan interim semester I 2026, dengan laba bersih naik 9,5 persen menjadi Rp140,3 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T11:26:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261013113943-64526-0/FinancialStatement-2026-II-SGER.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SGER",
+  "tags": [
+   "SGER",
+   "laporan keuangan interim",
+   "batu bara",
+   "emiten energi"
+  ],
+  "body": [
+   "PT Sumber Global Energy Tbk (SGER) menyampaikan koreksi atas laporan keuangan konsolidasian interim untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 13 Oktober 2026, melalui surat bernomor 405/SGE/X/2026 yang ditandatangani Corporate Secretary Michael Harold. Laporan ini tidak diaudit, sesuai ketentuan untuk laporan interim kuartal kedua.",
+   "Dari sisi kinerja, pendapatan bersih perseroan tercatat Rp4,33 triliun untuk semester I 2026, naik dari Rp4,06 triliun pada periode yang sama tahun lalu. Laba kotor melonjak dari Rp242,44 miliar menjadi Rp301,27 miliar. Setelah dikurangi beban umum, beban keuangan, dan pajak, laba bersih grup tercatat Rp140,31 miliar, naik dari Rp128,16 miliar, dengan laba per saham naik dari Rp8,13 menjadi Rp8,85. Total aset perseroan naik dari Rp5,64 triliun menjadi Rp6,01 triliun, sementara total ekuitas naik dari Rp2,37 triliun menjadi Rp2,58 triliun.",
+   "Dokumen koreksi ini juga memuat penjelasan atas sejumlah perubahan pos keuangan yang signifikan. Kas dan setara kas turun 25,26 persen menjadi Rp270,02 miliar, yang menurut perseroan disebabkan oleh piutang usaha yang melonjak 116,20 persen menjadi Rp773,08 miliar akibat penjualan yang meningkat di akhir kuartal II namun belum tertagih. Utang bank jangka pendek turun 38,12 persen menjadi Rp862,31 miliar karena reklasifikasi pembiayaan, sementara utang kepada pihak berelasi naik 51,71 persen menjadi Rp229,58 miliar untuk mendukung aktivitas pembelian batu bara. Bagian utang bank jangka panjang yang jatuh tempo dalam satu tahun melonjak 392,90 persen menjadi Rp72,62 miliar terkait pembiayaan untuk entitas anak PT Hidrogen Peroxida Indonesia, sedangkan utang obligasi jangka panjang naik tajam dari Rp9,47 miliar menjadi Rp86,70 miliar seiring penerbitan obligasi tambahan untuk menunjang pembelian batu bara.",
+   "Laporan arus kas menunjukkan kas bersih yang digunakan untuk aktivitas operasi masih negatif Rp30,11 miliar, meski membaik dibanding negatif Rp35,81 miliar pada semester I 2025. Aktivitas pendanaan menyumbang kas masuk bersih Rp26,08 miliar, jauh lebih kecil dibanding Rp362,41 miliar pada tahun sebelumnya yang saat itu ditopang pencairan utang bank jangka pendek dan jangka panjang dalam jumlah besar."
+  ],
+  "fotoAdegan": "Workers monitoring coal being loaded onto a cargo barge at a river port terminal, overcast sky, Indonesia",
+  "takeaway": "Laporan ini condong netral bagi SGER, karena pertumbuhan laba di atas kertas belum sepenuhnya diimbangi oleh uang tunai yang benar-benar masuk ke kas perseroan. Pos yang tersentuh adalah arus kas operasi, yaitu uang tunai yang mengalir dari kegiatan jual beli sehari-hari sebelum dipakai untuk investasi atau bayar utang, dan pos ini masih minus karena penjualan batu bara di akhir kuartal II tercatat sebagai piutang usaha yang belum tertagih, naik lebih dari dua kali lipat menjadi Rp773,08 miliar. Pelaku pasar memperhatikan hal ini karena laba bersih yang naik 9,5 persen tidak banyak berarti kalau perusahaan tetap harus mengandalkan pinjaman bank dan obligasi baru, bukan kas dari penjualan sendiri, untuk membiayai operasinya. Yang perlu dipantau berikutnya adalah apakah piutang sebesar itu benar cair menjadi kas pada laporan kuartal III, serta bagaimana perseroan menggunakan dana dari obligasi baru senilai Rp86,70 miliar yang diterbitkan untuk membiayai pembelian batu bara, mengingat laporan ini sendiri terbit sebagai koreksi atas versi yang sudah disampaikan sebelumnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-beruntung-berkat-tambah-saham-suara-ke-15-09",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Beruntung Berkat [Tambah] Saham, Suara ke 15,09%",
+  "deck": "PT Beruntung Berkat Sejahtera membeli 388,4 juta saham DOOH senilai sekitar Rp130,5 miliar, mengangkat hak suaranya dari 10,07% menjadi 15,09%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T11:25:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-1378-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "kepemilikan saham",
+   "hak suara",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Beruntung Berkat Sejahtera melaporkan penambahan kepemilikan saham di PT Era Media Sejahtera Tbk (DOOH) kepada Otoritas Jasa Keuangan pada 13 Oktober 2026. Jumlah saham yang dipegang bertambah dari 779.090.000 lembar menjadi 1.167.507.412 lembar, atau naik 388.417.412 lembar. Dengan tambahan ini, hak suara Beruntung Berkat di DOOH naik dari 10,07% menjadi 15,09%.",
+   "Transaksi berupa pembelian tidak langsung atas 388.417.412 saham biasa dengan harga Rp336 per lembar, dieksekusi pada 12 Oktober 2026. Jika dihitung dari jumlah dan harga tersebut, nilai transaksinya sekitar Rp130,5 miliar. Dokumen menyebut tujuan transaksi sebagai investasi.",
+   "Laporan ini melanjutkan rangkaian pembelian bertahap oleh Beruntung Berkat di DOOH sepanjang Oktober 2026. Dua laporan sebelumnya pada 11 Oktober mencatat hak suara perusahaan ini naik dari sekitar 3,02% menjadi 7,04%, lalu menjadi 10,07%. Dengan laporan terbaru ini, akumulasinya sudah mencapai 15,09% dari hak suara DOOH."
+  ],
+  "fotoAdegan": "Illuminated digital billboard screens above a busy Jakarta street at dusk, blurred traffic lights in the foreground, screens slightly out of focus",
+  "takeaway": "Laporan ini condong positif bagi DOOH, karena tambahan 388,4 juta saham ini membuat porsi kepemilikan Beruntung Berkat melonjak hampir 50% dari jumlah yang sudah dipegangnya, dan ini sudah transaksi akumulasi ketiga dalam waktu singkat sehingga menunjukkan keyakinan yang konsisten, bukan sekali coba-coba. Yang berubah di sini adalah peta kendali dan hak suara pemegang saham, bukan kondisi keuangan perusahaan itu sendiri, sebab saham yang dibeli berasal dari pemegang saham lain di pasar sekunder sehingga tidak menambah jumlah saham beredar DOOH maupun kas yang masuk ke perusahaan. Pelaku pasar memperhatikan hak suara karena itu menentukan siapa yang punya pengaruh dalam keputusan strategis perusahaan, termasuk soal siapa yang berpotensi menjadi pengendali baru. Yang perlu dipantau berikutnya adalah apakah pola akumulasi Beruntung Berkat berlanjut di laporan-laporan selanjutnya, dan apakah porsinya mendekati ambang yang bisa memicu kewajiban penawaran tender kalau statusnya berubah jadi pemegang saham pengendali.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "jecx-komisaris-admar-anwar-tambah-110-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Komisaris Admar Anwar Tambah [110.000] Saham",
+  "deck": "Komisaris JECX Dr. Admar Anwar membeli 110.000 saham pada 30 September 2026, menaikkan kepemilikannya menjadi 12,63 juta lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T11:10:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-3952-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "Nitrasanata Dharma",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Dr. Admar Anwar, Dewan Komisaris PT Nitrasanata Dharma Tbk (JECX), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan sebanyak 110.000 lembar pada 30 September 2026. Transaksi dilakukan dalam dua tahap, yakni 100.000 saham di harga Rp1.340 per lembar dan 10.000 saham di harga Rp1.320 per lembar, keduanya tercatat sebagai pembelian tidak langsung dengan tujuan investasi. Dengan pembelian ini, kepemilikan saham Admar Anwar di JECX naik dari 12.520.000 lembar menjadi 12.630.000 lembar.",
+   "Kenaikan 110.000 lembar itu membuat hak suara Admar Anwar di JECX bergerak tipis, dari 0,38 persen menjadi 0,39 persen dari total saham beredar. Laporan ini adalah laporan kepemilikan ketiga dari Admar Anwar yang terbit dalam dua minggu terakhir, setelah sebelumnya ia melaporkan pembelian 30.000 saham dan 40.000 saham. Jika ketiganya digabung, total saham yang ia tambah dalam periode tersebut mencapai 180.000 lembar."
+  ],
+  "fotoAdegan": "A compliance officer's desk with stacked paper folders and a calculator in a Jakarta corporate office, soft daylight through blinds",
+  "takeaway": "Laporan ini netral bagi JECX, karena tambahan 110.000 saham hanya setara 0,88 persen dari saham yang sudah dipegang Admar Anwar dan hak suaranya di perusahaan nyaris tidak bergerak, dari 0,38 persen ke 0,39 persen, sehingga belum cukup besar untuk dibaca sebagai sinyal keyakinan kuat terhadap prospek perusahaan. Yang tersentuh di sini hanya struktur kepemilikan dan hak suara perseorangan, bukan kondisi keuangan JECX, sebab transaksi ini terjadi di pasar sekunder antar investor, uangnya tidak masuk ke kas perusahaan, dan jumlah total saham beredar JECX tidak berubah. Transaksi sebenarnya terjadi 30 September tapi baru dilaporkan 13 Oktober, dan ini sudah laporan ketiga untuk komisaris yang sama dalam dua pekan, jadi yang perlu dipantau adalah apakah pola penambahan bertahap ini akan terus berlanjut di laporan-laporan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wskt-ekuitas-ambruk-71-pendapatan-melonjak-54-di-q3",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: [Ekuitas] Ambruk 71%, Pendapatan Melonjak 54% di Q3",
+  "deck": "Ekuitas Waskita Karya turun jadi Rp1,04 triliun dari Rp3,67 triliun dalam sembilan bulan, sementara pendapatan naik 53,7 persen jadi Rp8,13 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:54:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261013041240-64510-0/FinancialStatement-2026-III-WSKT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "laporan keuangan",
+   "konstruksi"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk menyampaikan laporan keuangan konsolidasian interim yang belum diaudit untuk sembilan bulan pertama 2026, sesuai ketentuan Otoritas Jasa Keuangan. Total aset perusahaan naik dari Rp70,73 triliun pada akhir 2025 menjadi Rp73,07 triliun per 30 September 2026. Namun total ekuitas, yakni selisih antara aset dan utang yang menjadi hak pemegang saham, justru merosot tajam dari Rp3,67 triliun menjadi Rp1,04 triliun, turun 71,7 persen hanya dalam sembilan bulan. Bagian ekuitas yang menjadi hak pemegang saham induk perusahaan malah mencatat defisit yang melebar, dari negatif Rp1,03 triliun menjadi negatif Rp3,34 triliun.",
+   "Pendapatan usaha Waskita naik 53,7 persen, dari Rp5,29 triliun pada periode yang sama tahun lalu menjadi Rp8,13 triliun. Namun laba kotornya hanya Rp959,4 miliar, hampir seluruhnya tergerus beban keuangan atau bunga utang sebesar Rp2,79 triliun. Akibatnya, perusahaan masih mencatat rugi bersih Rp3,26 triliun untuk sembilan bulan 2026, memang sedikit lebih kecil dibanding rugi Rp3,58 triliun pada periode yang sama tahun lalu, dengan rugi per saham Rp99,70 dibanding Rp110,21 sebelumnya. Kas dan setara kas perusahaan turun drastis dari Rp4,41 triliun menjadi Rp1,50 triliun, susut 65,9 persen dalam sembilan bulan.",
+   "Dari sisi utang, liabilitas jangka pendek turun dari Rp33,10 triliun menjadi Rp25,66 triliun, sementara liabilitas jangka panjang melonjak dari Rp33,96 triliun menjadi Rp46,37 triliun. Pergeseran ini menunjukkan sebagian utang yang semula jatuh tempo dalam waktu dekat telah digeser ke tenor yang lebih panjang. Nilai investasi Waskita pada entitas ventura bersama dan asosiasi juga turun tajam dari Rp6,76 triliun menjadi Rp2,23 triliun, sejalan dengan hilangnya status pengendali anak usaha Waskita atas WWE yang sebelumnya sudah diberitakan."
+  ],
+  "fotoAdegan": "Elevated toll road construction site with concrete pillars and cranes under overcast sky, workers in safety vests on scaffolding",
+  "takeaway": "Laporan ini condong negatif bagi Waskita, karena meski pendapatannya naik 53,7 persen, modal yang menjadi penyangga perusahaan dari kerugian malah menyusut 71,7 persen hanya dalam sembilan bulan dan kas di tangan tergerus dua pertiga. Ekuitas adalah selisih antara aset dan utang, semacam bantal pengaman kalau perusahaan terus merugi; ketika bantal itu menipis secepat ini, dan bagian yang menjadi hak pemegang saham induk malah defisit makin dalam dari Rp1,03 triliun jadi Rp3,34 triliun, ruang Waskita untuk menanggung kerugian lanjutan kian sempit. Pergeseran utang jangka pendek ke jangka panjang yang terlihat di laporan ini juga berarti sebagian jatuh tempo pembayaran digeser ke tahun-tahun mendatang, bukan dilunasi tunai. Yang perlu dipantau berikutnya adalah laporan tahunan teraudit periode penuh 2026 yang biasanya terbit sekitar Maret 2027, serta kelanjutan proses restrukturisasi utang ini, mengingat saham WSKT masih berstatus Pemantauan Khusus di bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "amor-direksi-tambah-456-200-saham-lewat-program-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "AMOR: Direksi [Tambah] 456.200 Saham Lewat Program Karyawan",
+  "deck": "Direksi Ashmore Asset Management Indonesia menambah kepemilikan saham lewat program kepemilikan saham karyawan pada 8 Oktober 2026, menaikkan hak suaranya jadi 5,65 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:35:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-5826-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "kepemilikan saham",
+   "direksi",
+   "program kepemilikan saham karyawan"
+  ],
+  "body": [
+   "FX Eddy Hartanto SH, anggota Direksi PT Ashmore Asset Management Indonesia Tbk (AMOR), melaporkan ke Otoritas Jasa Keuangan bahwa ia menambah kepemilikan sahamnya di perusahaan sebanyak 456.200 lembar pada 8 Oktober 2026. Transaksi tercatat pada harga Rp367 per saham, dengan tujuan yang disebutkan dalam dokumen sebagai Program Kepemilikan Saham oleh Manajemen dan Karyawan Perseroan, yakni skema yang memberi direksi dan karyawan hak memperoleh saham perusahaan.",
+   "Dengan penambahan ini, jumlah saham Eddy Hartanto di AMOR naik dari 125.200.000 lembar menjadi 125.656.200 lembar, sementara hak suaranya di perusahaan bertambah dari 5,63 persen menjadi 5,65 persen. Batas akhir periode pelaksanaan untuk tranche ini juga tercatat 8 Oktober 2026, bersamaan dengan tanggal transaksi. Dokumen turut mencantumkan angka 2.222.222.400 unit sebagai jumlah EBE yang belum dilaksanakan terkait program tersebut, meski rinciannya tidak dijelaskan lebih lanjut dalam laporan."
+  ],
+  "fotoAdegan": "Exterior of glass office towers in Jakarta's financial district at dusk, street traffic lights blurring below",
+  "takeaway": "Laporan ini netral bagi AMOR, karena penambahan 456.200 saham oleh salah satu direksi hanya setara 0,36 persen dari saham yang sudah dipegangnya, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran direksi terhadap perusahaan. Pos yang tersentuh di sini adalah jumlah saham beredar perusahaan, karena program kepemilikan saham karyawan menambah saham baru ke pasar dari waktu ke waktu, dan kalau jumlahnya besar bisa mengecilkan porsi laba yang jatuh ke setiap pemegang saham lama. Hak suara Eddy Hartanto sendiri nyaris tidak bergerak, dari 5,63 persen jadi 5,65 persen, jauh dari level yang bisa mengubah kendali atau arah perusahaan. Yang perlu dipantau selanjutnya adalah apakah muncul laporan serupa dari direksi atau karyawan lain untuk tranche program kepemilikan saham berikutnya, karena baru dari situ bisa terlihat apakah total saham baru yang beredar dari program ini cukup besar untuk berpengaruh pada laba per saham AMOR.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "amor-direksi-tambah-158-000-saham-lewat-program-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "AMOR: Direksi Tambah 158.000 Saham Lewat Program [Karyawan]",
+  "deck": "Direksi AMOR, Steven Satya Yudha, menambah 158.000 saham lewat program kepemilikan saham karyawan dengan harga Rp367 per saham pada 8 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:34:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-1601-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "Ashmore Asset Management",
+   "Kepemilikan Saham",
+   "Program Karyawan"
+  ],
+  "body": [
+   "Steven Satya Yudha, anggota direksi PT Ashmore Asset Management Indonesia Tbk (AMOR), melaporkan kepada Otoritas Jasa Keuangan pada 13 Oktober 2026 bahwa ia menambah kepemilikan sahamnya di perseroan. Sebelum transaksi, ia memegang 221.000 saham. Setelah transaksi yang berlangsung pada 8 Oktober 2026, kepemilikannya naik menjadi 379.000 saham, atau bertambah 158.000 saham.",
+   "Transaksi dilakukan dengan harga Rp367 per saham. Tujuan transaksi yang tercatat dalam laporan adalah Program Kepemilikan Saham oleh Manajemen dan Karyawan Perseroan, dengan jenis transaksi berupa repurchase agreement dan status kepemilikan tidak langsung. Dengan tambahan ini, hak suara Steven di AMOR naik dari 0,01 persen menjadi 0,02 persen.",
+   "Laporan ini menyusul laporan serupa pada hari yang sama dari direksi AMOR lainnya, yang menambah 456.200 saham lewat program yang sama. Dengan tambahan dari Steven, total saham yang dibagikan ke dua direksi AMOR lewat program kepemilikan saham karyawan dalam sepekan terakhir mencapai 614.200 saham."
+  ],
+  "fotoAdegan": "Employees walking through a modern financial district office lobby with glass towers in Jakarta, soft morning light",
+  "takeaway": "Laporan ini netral bagi AMOR, karena meski kenaikan 158.000 saham setara 71,5 persen dari kepemilikan pribadi Steven sebelumnya, porsi itu hanya menaikkan hak suaranya di perseroan dari 0,01 persen menjadi 0,02 persen, terlalu kecil untuk mengubah struktur kendali perusahaan. Pos yang tersentuh di sini adalah jumlah saham beredar dan hak suara pemegang saham, bukan ekuitas atau arus kas perseroan, karena transaksi ini sekadar pembagian saham insentif untuk direksi dan karyawan, bukan penyetoran modal baru. Yang perlu dipantau adalah apakah program kepemilikan saham karyawan ini terus berlanjut ke direksi atau karyawan lain, mengingat ini sudah laporan kedua dalam sepekan dengan total 614.200 saham dibagikan ke dua direksi, sementara belum ada tenggat akhir program yang diumumkan ke publik.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kspean-wanam-irigasi-133-km-panen-padi-november",
   "category": "Makroekonomi",
   "title": "KSPEAN Wanam: Irigasi 133 Km, [Panen] Padi November",
@@ -28,6 +260,84 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang konkret di sini adalah progres fisiknya, bukan sekadar kunjungan seremonial: saluran irigasi sudah mencapai 133 dari target 180 kilometer, dan lahan percontohan 40 hektare di KM 21 sudah ditanami sejak awal Oktober. Yang langsung terdampak adalah petani dan warga di kawasan Wanam, Merauke, Papua Selatan, yang menjadi lokasi uji coba program pangan, energi, dan air nasional ini. Dengan separuh lebih saluran sudah jadi dan tanam perdana sudah berjalan, arah program ini bergerak dari tahap membangun infrastruktur ke tahap membuktikan hasil tanam di lapangan. Penanda yang akan memastikan apakah tahap ini berjalan sesuai rencana adalah panen perdana yang dijadwalkan awal atau pertengahan November 2026, serta kelanjutan pembangunan 47 kilometer saluran yang masih tersisa.",
   "imageV": "mv6720rn"
+ },
+ {
+  "slug": "bdkr-bantah-ada-informasi-material-di-balik-lonjakan-saham-23-5",
+  "category": "Aksi Korporasi",
+  "title": "BDKR Bantah Ada Informasi Material di Balik [Lonjakan] Saham 23,5%",
+  "deck": "BEI meminta penjelasan setelah saham BDKR melonjak 23,53% dan volume transaksi naik lebih dari lima kali lipat dalam dua hari, 5-6 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:17:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2331786fdc_a03663d502.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BDKR",
+  "tags": [
+   "BDKR",
+   "UMA",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Berdikari Pondasi Perkasa Tbk (BDKR) menyampaikan tanggapan atas permintaan penjelasan Bursa Efek Indonesia terkait volatilitas transaksi sahamnya pada 5-6 Oktober 2026. Dalam surat BEI Nomor S-2799/BEI.PP2/10-2026 tertanggal 8 Oktober 2026, bursa mencatat harga saham BDKR ditutup naik kumulatif Rp40 atau 23,53 persen, dari Rp170 pada penutupan 2 Oktober 2026 menjadi Rp210. Volume transaksi rata-rata harian juga melonjak menjadi 92.088.500 saham dengan frekuensi 7.632 kali, dibandingkan hanya 18.316.300 saham dengan frekuensi 2.530 kali pada 2 Oktober 2026.",
+   "Dalam surat tanggapan bernomor 165/BDKR-CORSEC/X/2026 tertanggal 9 Oktober 2026 yang ditandatangani Corporate Secretary Siska WP, Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material apa pun yang dapat memengaruhi nilai efek atau keputusan investasi pemodal, baik berdasarkan POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan dan penjaminan saham, serta tidak memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang berdampak pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan mendatang.",
+   "Perseroan menambahkan, setelah menanyakan kepada pemegang saham utama sebagaimana diminta bursa, bahwa sampai saat surat tanggapan ini dibuat tidak ada rencana mengubah struktur kepemilikan saham maupun aksi korporasi lain yang dapat berdampak pada pencatatan saham BDKR di bursa."
+  ],
+  "fotoAdegan": "Construction crew operating a pile driving rig at a building foundation site, dusty daylight, workers wearing hard hats",
+  "takeaway": "Penjelasan ini netral bagi fundamental BDKR karena Perseroan secara tegas menyatakan tidak ada informasi material apa pun di balik lonjakan harga dan volume transaksinya, termasuk tidak ada rencana aksi korporasi dalam tiga bulan ke depan. Lonjakan harga 23,53 persen dan volume transaksi yang naik lebih dari lima kali lipat dalam dua hari ini tidak menyentuh pos kinerja mana pun, bukan ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, karena tidak ada transaksi korporasi yang mendasarinya. Pembaca sebaiknya membaca kenaikan ini sebagai pergerakan yang murni didorong aktivitas jual beli di pasar, bukan perubahan kinerja atau rencana bisnis Perseroan. Yang perlu dipantau adalah apakah BEI akan mengirim permintaan penjelasan serupa bila volatilitas berlanjut, serta apakah pernyataan tidak ada rencana aksi korporasi ini tetap konsisten hingga sekitar Januari 2027, tiga bulan sejak surat tanggapan ini terbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rdtx-panggil-rupslb-bahas-persetujuan-stock-split-saham",
+  "category": "Aksi Korporasi",
+  "title": "RDTX Panggil RUPSLB Bahas Persetujuan [Stock Split] Saham",
+  "deck": "RDTX mengundang pemegang saham menghadiri RUPSLB pada 4 November 2026 untuk menyetujui pemecahan nilai nominal saham, dengan pemegang saham per 12 Oktober 2026 yang berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T09:50:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5f7a5398a1_40d03b713e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RDTX",
+  "tags": [
+   "RDTX",
+   "stock split",
+   "RUPSLB",
+   "Roda Vivatex"
+  ],
+  "body": [
+   "PT Roda Vivatex Tbk (RDTX) mengundang para pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 4 November 2026, pukul 10.00 WIB di RDTX Square Podium Lantai 2, Jalan Prof. Dr. Satrio No. 164, Jakarta Selatan. Satu-satunya agenda rapat adalah persetujuan pemecahan nilai nominal saham atau stock split, yang akan mengubah Pasal 4 ayat 1 dan 2 Anggaran Dasar Perseroan. Yang berhak hadir dan memberikan suara adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 12 Oktober 2026 pukul 16.15 WIB.",
+   "Perseroan menjelaskan bahwa langkah ini mengacu pada Peraturan Otoritas Jasa Keuangan Nomor 15/POJK.04/2022 tentang pemecahan dan penggabungan saham oleh perusahaan terbuka, yang mewajibkan rencana stock split mendapat persetujuan RUPS sebelum dijalankan. Dokumen pemanggilan ini belum menyebutkan rasio pemecahan saham yang diusulkan, sehingga besarannya baru akan diketahui setelah RUPSLB berlangsung.",
+   "Rapat akan digelar secara elektronik melalui aplikasi eASY.KSEI, dan pemegang saham dihimbau memberikan kuasa kepada Biro Administrasi Efek Perseroan, PT Bima Registra, baik secara elektronik lewat e-Proxy di akses.KSEI maupun secara manual dengan mengirim surat kuasa ke alamat atau email yang telah ditentukan. Bahan mata acara rapat tersedia sejak tanggal pemanggilan ini hingga hari pelaksanaan, dan dapat diperoleh dalam bentuk dokumen fisik di kantor pusat Perseroan apabila diminta secara tertulis."
+  ],
+  "fotoAdegan": "Modern high-rise office tower facade in Jakarta's business district, reflective glass windows, clear late afternoon sky",
+  "takeaway": "Laporan ini netral bagi fundamental RDTX, sebab stock split hanya memecah nilai nominal dan menambah jumlah lembar saham tanpa mengubah nilai ekuitas atau kinerja riil perusahaan. Begitu rasio pemecahan ditetapkan, jumlah saham beredar RDTX akan bertambah sesuai rasio itu, sementara laba per saham, yaitu laba bersih perusahaan dibagi jumlah lembar saham yang beredar dan menjadi salah satu acuan investor menilai mahal atau murahnya saham, akan mengecil secara nominal meski laba total perusahaan tidak berubah. Yang perlu dipantau adalah hasil RUPSLB pada 4 November 2026, termasuk rasio pemecahan saham yang akhirnya disetujui pemegang saham, karena dokumen pemanggilan ini belum mengungkap angka tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bssb-kena-sanksi-bei-telat-setor-laporan-keuangan-teraudit",
+  "category": "Aksi Korporasi",
+  "title": "BSSB Kena [Sanksi] BEI, Telat Setor Laporan Keuangan Teraudit",
+  "deck": "BEI menjatuhkan Peringatan Tertulis Pertama ke BSSB karena laporan keuangan tengah tahunan teraudit per 30 Juni 2026 belum disetor hingga lewat tenggat 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T09:15:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0c87181b8c_957c1bb24a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSSB",
+  "tags": [
+   "BSSB",
+   "sanksi BEI",
+   "laporan keuangan",
+   "obligasi daerah"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menjatuhkan sanksi Peringatan Tertulis Pertama (SP1) kepada PT BPD Sulawesi Selatan Dan Sulawesi Barat (BSSB) karena belum menyampaikan Laporan Keuangan Tengah Tahunan per 30 Juni 2026 yang sudah diaudit akuntan publik. Tenggat penyampaian laporan teraudit itu jatuh pada Rabu, 30 September 2026, namun BSSB belum memenuhinya sampai tanggal pemantauan bursa pada 6 Oktober 2026. Sanksi ini tercantum dalam pengumuman bursa nomor Peng-S-00032/BEI.PLP/10-2026 tertanggal 9 Oktober 2026, dan untuk saat ini belum disertai denda karena nilainya tercatat nol rupiah.",
+   "Dalam pengumuman yang sama, bursa juga mencatat PT Pos Indonesia (Persero) atau POST terkena sanksi yang lebih berat, yaitu Peringatan Tertulis Ketiga (SP3), karena belum menyampaikan laporan keuangan tengah tahunan versi tidak teraudit sampai tenggat 6 Oktober 2026, setelah sebelumnya dua kali mendapat peringatan tertulis. Secara keseluruhan, dari 62 perusahaan tercatat yang menerbitkan obligasi, sukuk, atau efek beragun aset berbentuk surat partisipasi (EBA-SP/EBAS-SP) per 30 Juni 2026, sebanyak 57 perusahaan sudah menyampaikan laporan keuangannya tepat waktu, sementara BSSB dan POST menjadi dua perusahaan yang masih menunggak. Tiga lainnya, yaitu dua efek beragun aset berbentuk kontrak investasi kolektif (EBA-KIK) dan Pemerintah Republik Indonesia selaku penerbit Surat Utang Negara, dikecualikan dari kewajiban pelaporan ini.",
+   "Sanksi ini merujuk pada Peraturan Bursa Nomor I-E tentang Kewajiban Penyampaian Informasi dan Peraturan Nomor I.A.6 tentang Sanksi, yang mengatur kewajiban pelaporan keuangan tengah tahunan bagi perusahaan tercatat penerbit obligasi, sukuk, dan efek beragun aset. Pengumuman ditandatangani oleh Teuku Fahmi Ariandar Aditya Nugraha, Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat, bersama tiga pejabat penilaian perusahaan lain yang turut menandatangani dokumen tersebut."
+  ],
+  "fotoAdegan": "Bank teller counters inside a modest regional branch office, customers waiting in line, soft afternoon light through windows",
+  "takeaway": "Sanksi ini condong negatif bagi BSSB karena menunjukkan bank daerah tersebut belum bisa memenuhi tenggat pelaporan keuangan teraudit, meski sanksinya masih tahap awal dan belum disertai denda. Keterlambatan ini penting bagi pemegang obligasi dan sukuk BSSB karena laporan keuangan teraudit adalah rujukan utama untuk menilai kesehatan modal dan arus kas bank sebelum jatuh tempo kupon atau pokok utang, sehingga penundaan membuat investor menunggu lebih lama untuk informasi yang semestinya sudah diverifikasi akuntan publik. Yang perlu dipantau berikutnya adalah apakah BSSB segera menyampaikan laporan teraudit tersebut, sebab jika penundaan berlanjut, bursa bisa menaikkan sanksi ke Peringatan Tertulis Kedua atau Ketiga seperti yang sudah dialami POST dalam pengumuman yang sama.",
+  "sentimen": "negatif"
  },
  {
   "slug": "daaz-catatkan-sukuk-wakalah-rp378-miliar-di-bei",
@@ -256,6 +566,33 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A film production set with cinema cameras and lighting rigs being arranged inside a studio, warm practical lighting",
   "takeaway": "Penilaian saya netral: keluarnya FILM dari status kepemilikan terkonsentrasi tinggi umumnya dibaca sebagai hal baik untuk kelancaran transaksi, tapi dokumen ini tidak merinci siapa yang mengubah porsinya sehingga dampaknya terhadap kendali pemegang saham utama belum bisa dipastikan. Yang tersentuh di sini adalah struktur kepemilikan saham, bukan laba atau arus kas, tapi pelaku pasar tetap memperhatikannya karena saham yang terlalu terkonsentrasi di sedikit pihak biasanya diperlakukan dengan aturan transaksi lebih ketat oleh bursa, misalnya batas auto rejection yang lebih sempit, dan status konsentrasi rendah membuka jalan ke aturan perdagangan normal. Yang perlu dipantau selanjutnya adalah apakah BEI menerbitkan penyesuaian aturan perdagangan untuk FILM menyusul status baru per 5 Oktober 2026 ini, serta apakah ada keterbukaan lanjutan dari pemegang saham utama FILM yang menjelaskan perubahan porsi kepemilikan yang mendasari pencabutan status tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "meja-rilis-koreksi-laporan-realisasi-dana-ipo-capai-rp57-97-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Rilis [Koreksi] Laporan Realisasi Dana IPO, Capai Rp57,97 Miliar",
+  "deck": "Harta Djaya Karya (MEJA) mengoreksi laporan realisasi dana IPO dan konversi Waran I per 30 Juni 2026 agar sesuai format baru OJK, total dana terpakai Rp57,97 miliar untuk modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T05:18:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e08a71694_3937d2fbfd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEJA",
+  "tags": [
+   "MEJA",
+   "Penawaran Umum",
+   "Realisasi Dana",
+   "OJK"
+  ],
+  "body": [
+   "PT Harta Djaya Karya Tbk (MEJA) menyampaikan koreksi atas Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum per 30 Juni 2026 yang sebelumnya dikirim pada 7 Juli 2026. Koreksi ini dilakukan setelah Otoritas Jasa Keuangan mengirim surat nomor S-2172/PM.222/2026 tanggal 29 September 2026, dan isinya adalah penyesuaian format serta pelengkapan pengungkapan mengikuti aturan baru OJK Nomor 40 Tahun 2025, termasuk rincian tingkatan penggunaan dana, rekening penampungan, target waktu realisasi, dan pos pencatatan di laporan keuangan. Laporan ini ditandatangani Direktur Utama Richie Adrian Hartanto S.",
+   "Untuk dana hasil IPO yang efektif 12 Februari 2024, perseroan memperoleh dana kotor Rp49,44 miliar dengan biaya penawaran Rp4 miliar, sehingga dana bersih Rp45,44 miliar. Setelah RUPSLB 28 November 2024 menyetujui perubahan rencana penggunaan dana menjadi seluruhnya modal kerja, realisasi sampai 30 Juni 2026 tercatat Rp35.952.388.060 atau 79,12 persen dari dana bersih. Sisa dana Rp9.487.611.940 (20,88 persen) masih disimpan di rekening giro Bank Central Asia dengan bunga 1 persen per tahun, dan target penggunaannya ditetapkan pada Oktober 2026.",
+   "Sumber dana kedua berasal dari pelaksanaan (konversi) Waran I yang juga efektif 12 Februari 2024. Potensi dana jika seluruh waran dilaksanakan mencapai Rp55,2 miliar, namun dana yang benar-benar masuk sampai 12 Februari 2026 baru Rp36.570.234.830, dan seluruhnya dialokasikan untuk modal kerja. Dari jumlah itu, realisasi sampai 30 Juni 2026 sebesar Rp22.020.389.533 (60,21 persen), dengan sisa Rp14.549.845.297 (39,79 persen) yang juga disimpan di rekening BCA berbunga 1 persen per tahun dan ditargetkan terpakai Oktober 2026.",
+   "Secara gabungan, dana IPO dan konversi Waran I yang sudah terpakai mencapai Rp57.972.777.593, tercatat dalam pos Uang Muka Subkontraktor sebesar Rp14.744.515.642 serta Beban Pokok Pendapatan sebesar Rp43.228.261.951, yang terbagi untuk bahan baku Rp10.572.812.822, tenaga kerja langsung Rp4.574.745.921, dan overhead Rp28.080.703.208. Dari sisi biaya penawaran umum IPO sebesar Rp4 miliar, porsi terbesar adalah biaya jasa profesi penunjang pasar modal Rp2.088.983.334 (52,22 persen) dan biaya jasa penyelenggaraan (management fee) Rp1,4 miliar (35 persen), sisanya untuk underwriting fee, lembaga penunjang pasar modal, dan biaya emisi lain-lain."
+  ],
+  "fotoAdegan": "Workers in a furniture workshop sanding wooden table frames, stacks of raw timber planks under bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi MEJA karena isinya koreksi administratif untuk memenuhi format baru aturan OJK, bukan perubahan rencana dana atau sinyal masalah keuangan, dan progres realisasinya di kisaran 60-79 persen masih wajar untuk proyek berjalan. Pos yang tersentuh adalah modal kerja proyek, yakni dana yang dipakai untuk membayar uang muka ke subkontraktor dan membiayai beban pokok pendapatan berupa bahan baku, tenaga kerja, dan overhead produksi, bukan ekuitas atau laba per saham, jadi dampaknya ke kinerja baru terlihat lewat kelancaran proyek, bukan lewat angka untung-rugi langsung. Pelaku pasar memperhatikan pos ini karena menunjukkan seberapa cepat dana segar dari IPO dan pelaksanaan waran benar-benar berputar jadi aktivitas usaha, bukan mengendap di kas. Yang perlu dipantau berikutnya adalah tenggat penggunaan sisa dana pada Oktober 2026, yaitu Rp9,49 miliar dari IPO dan Rp14,55 miliar dari konversi Waran I, serta potensi tambahan dana dari sisa pelaksanaan Waran I yang belum masuk, mengingat dari total potensi Rp55,2 miliar baru Rp36,57 miliar yang benar-benar diterima perseroan per 12 Februari 2026.",
   "sentimen": "netral"
  },
  {

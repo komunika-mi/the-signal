@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jecx-komisaris-admar-anwar-beli-30-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Komisaris Admar Anwar Beli [30.000] Saham",
+  "deck": "Komisaris JECX, DR. Admar Anwar, membeli 30.000 saham senilai Rp39 juta pada 2 Oktober 2026, menambah kepemilikannya jadi 12,7 juta lembar tanpa mengubah hak suara 0,39 persen.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "Komisaris",
+   "Kepemilikan Saham",
+   "Nitrasanata Dharma"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-8261-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jecx-komisaris-beli-lagi-40-000-saham-total-dua-pekan-70-000",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Komisaris Beli Lagi [40.000] Saham, Total Dua Pekan 70.000",
+  "deck": "Komisaris JECX, Dr. Admar Anwar, membeli 40.000 saham tambahan pada 1 Oktober 2026, melengkapi pembelian sebelumnya hingga total 70.000 saham dalam dua pekan.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "Komisaris",
+   "Kepemilikan Saham",
+   "Admar Anwar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-8079-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-prambanan-tuntas-lepas-semua-saham-suara-ke-0",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Prambanan [Tuntas] Lepas Semua Saham, Suara ke 0%",
+  "deck": "Prambanan Investasi Sukses menjual seluruh 388,4 juta saham DOOH yang tersisa senilai sekitar Rp130,5 miliar, hak suaranya habis dari 5,02% menjadi nol persen.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "Prambanan Investasi Sukses",
+   "pemegang saham",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-9689-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sger-koreksi-laporan-keuangan-laba-bersih-naik-9-5-jadi-rp140-3-m",
+  "category": "Aksi Korporasi",
+  "title": "SGER Koreksi Laporan Keuangan, [Laba Bersih] Naik 9,5% jadi Rp140,3 M",
+  "deck": "PT Sumber Global Energy Tbk mengoreksi laporan keuangan interim semester I 2026, dengan laba bersih naik 9,5 persen menjadi Rp140,3 miliar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SGER",
+   "laporan keuangan interim",
+   "batu bara",
+   "emiten energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261013113943-64526-0/FinancialStatement-2026-II-SGER.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-beruntung-berkat-tambah-saham-suara-ke-15-09",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Beruntung Berkat [Tambah] Saham, Suara ke 15,09%",
+  "deck": "PT Beruntung Berkat Sejahtera membeli 388,4 juta saham DOOH senilai sekitar Rp130,5 miliar, mengangkat hak suaranya dari 10,07% menjadi 15,09%.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "kepemilikan saham",
+   "hak suara",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-1378-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jecx-komisaris-admar-anwar-tambah-110-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Komisaris Admar Anwar Tambah [110.000] Saham",
+  "deck": "Komisaris JECX Dr. Admar Anwar membeli 110.000 saham pada 30 September 2026, menaikkan kepemilikannya menjadi 12,63 juta lembar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "Nitrasanata Dharma",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-3952-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-ekuitas-ambruk-71-pendapatan-melonjak-54-di-q3",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: [Ekuitas] Ambruk 71%, Pendapatan Melonjak 54% di Q3",
+  "deck": "Ekuitas Waskita Karya turun jadi Rp1,04 triliun dari Rp3,67 triliun dalam sembilan bulan, sementara pendapatan naik 53,7 persen jadi Rp8,13 triliun.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "laporan keuangan",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261013041240-64510-0/FinancialStatement-2026-III-WSKT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amor-direksi-tambah-456-200-saham-lewat-program-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "AMOR: Direksi [Tambah] 456.200 Saham Lewat Program Karyawan",
+  "deck": "Direksi Ashmore Asset Management Indonesia menambah kepemilikan saham lewat program kepemilikan saham karyawan pada 8 Oktober 2026, menaikkan hak suaranya jadi 5,65 persen.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMOR",
+   "kepemilikan saham",
+   "direksi",
+   "program kepemilikan saham karyawan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-5826-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amor-direksi-tambah-158-000-saham-lewat-program-karyawan",
+  "category": "Aksi Korporasi",
+  "title": "AMOR: Direksi Tambah 158.000 Saham Lewat Program [Karyawan]",
+  "deck": "Direksi AMOR, Steven Satya Yudha, menambah 158.000 saham lewat program kepemilikan saham karyawan dengan harga Rp367 per saham pada 8 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMOR",
+   "Ashmore Asset Management",
+   "Kepemilikan Saham",
+   "Program Karyawan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-1601-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kspean-wanam-irigasi-133-km-panen-padi-november",
   "category": "Makroekonomi",
   "title": "KSPEAN Wanam: Irigasi 133 Km, [Panen] Padi November",
@@ -20,6 +164,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472675-menteri-dody-tinjau-kspean-wanam-pastikan-panen-perdana-dukung-visi-presiden-prabowo"
+ },
+ {
+  "slug": "bdkr-bantah-ada-informasi-material-di-balik-lonjakan-saham-23-5",
+  "category": "Aksi Korporasi",
+  "title": "BDKR Bantah Ada Informasi Material di Balik [Lonjakan] Saham 23,5%",
+  "deck": "BEI meminta penjelasan setelah saham BDKR melonjak 23,53% dan volume transaksi naik lebih dari lima kali lipat dalam dua hari, 5-6 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BDKR",
+   "UMA",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2331786fdc_a03663d502.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rdtx-panggil-rupslb-bahas-persetujuan-stock-split-saham",
+  "category": "Aksi Korporasi",
+  "title": "RDTX Panggil RUPSLB Bahas Persetujuan [Stock Split] Saham",
+  "deck": "RDTX mengundang pemegang saham menghadiri RUPSLB pada 4 November 2026 untuk menyetujui pemecahan nilai nominal saham, dengan pemegang saham per 12 Oktober 2026 yang berhak hadir dan memberi suara.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RDTX",
+   "stock split",
+   "RUPSLB",
+   "Roda Vivatex"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5f7a5398a1_40d03b713e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bssb-kena-sanksi-bei-telat-setor-laporan-keuangan-teraudit",
+  "category": "Aksi Korporasi",
+  "title": "BSSB Kena [Sanksi] BEI, Telat Setor Laporan Keuangan Teraudit",
+  "deck": "BEI menjatuhkan Peringatan Tertulis Pertama ke BSSB karena laporan keuangan tengah tahunan teraudit per 30 Juni 2026 belum disetor hingga lewat tenggat 30 September 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSSB",
+   "sanksi BEI",
+   "laporan keuangan",
+   "obligasi daerah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0c87181b8c_957c1bb24a.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "daaz-catatkan-sukuk-wakalah-rp378-miliar-di-bei",
@@ -163,6 +355,22 @@ var ARTICLES = [
    "KSEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c8733793c0_b7eb7ace22.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meja-rilis-koreksi-laporan-realisasi-dana-ipo-capai-rp57-97-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Rilis [Koreksi] Laporan Realisasi Dana IPO, Capai Rp57,97 Miliar",
+  "deck": "Harta Djaya Karya (MEJA) mengoreksi laporan realisasi dana IPO dan konversi Waran I per 30 Juni 2026 agar sesuai format baru OJK, total dana terpakai Rp57,97 miliar untuk modal kerja.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEJA",
+   "Penawaran Umum",
+   "Realisasi Dana",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e08a71694_3937d2fbfd.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6262,214 +6470,6 @@ var ARTICLES = [
    "Massicot Trade Limited"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3c4407d62f_73ab960742.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kota-tunda-rupslb-pmhmetd-tertahan-ojk",
-  "category": "Aksi Korporasi",
-  "title": "KOTA Tunda RUPSLB, [PMHMETD] Tertahan OJK",
-  "deck": "RUPSLB KOTA yang dijadwalkan 6 Oktober 2026 ditunda tanpa jadwal pengganti karena OJK masih meminta informasi tambahan terkait rencana rights issue dan transaksi material.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOTA",
-   "RUPSLB",
-   "rights issue",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8bac562783_43e46d7289.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-catat-81-878-saham-baru-serapan-rights-issue-masih-tipis",
-  "category": "Aksi Korporasi",
-  "title": "BAJA catat [81.878] saham baru, serapan rights issue masih tipis",
-  "deck": "BEI mencatat tambahan 81.878 saham baru BAJA dari pelaksanaan HMETD 2 Oktober 2026, namun baru 247.823 dari jatah 900 juta saham yang terserap.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "rights issue",
-   "HMETD",
-   "pencatatan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e7ae2274fe_af04dba778.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bsbk-tetapkan-jadwal-cum-dividen-interim-cair-20-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BSBK Tetapkan Jadwal [Cum Dividen] Interim, Cair 20 Oktober",
-  "deck": "Wulandari Bangun Laksana (BSBK) merinci tanggal cum dan ex dividen interim Rp25,09 miliar, dengan pembayaran dijadwalkan 20 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSBK",
-   "dividen interim",
-   "properti",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73ef699ad3_d5249e0db4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bsbk-bagikan-dividen-interim-rp25-09-miliar-untuk-h1-2026",
-  "category": "Aksi Korporasi",
-  "title": "BSBK Bagikan [Dividen] Interim Rp25,09 Miliar untuk H1 2026",
-  "deck": "BSBK akan membagikan dividen interim Rp1 per saham, total Rp25,09 miliar, dari laba bersih semester I 2026. Pembayaran dijadwalkan 20 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSBK",
-   "dividen interim",
-   "Wulandari Bangun Laksana",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ca71eaa0ac_bdf83f9f19.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tguk-vcg-tunjuk-pelaksana-tender-offer-wajib",
-  "category": "Aksi Korporasi",
-  "title": "TGUK: VCG Tunjuk Pelaksana [Tender Offer] Wajib",
-  "deck": "Usai kuasai 56,84% saham TGUK senilai Rp40,6 miliar, VCG menunjuk PT Artha Global Trikanaka Investama menjalankan tender offer wajib bagi pemegang saham publik.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGUK",
-   "tender offer",
-   "pengambilalihan",
-   "VCG"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9711ff07f_c9b006e99a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "direksi-vktr-beli-15-juta-saham-senilai-rp10-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "Direksi [VKTR] Beli 15 Juta Saham Senilai Rp10,8 Miliar",
-  "deck": "Direktur VKTR V Bimo Kurniatmoko membeli 15 juta saham VKTR secara tidak langsung senilai Rp10,8 miliar pada 30 September 2026, mengubah hak suaranya dari nol menjadi 0,03 persen.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VKTR",
-   "kepemilikan saham",
-   "direksi",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-6612-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arta-pastikan-tak-ada-fakta-material-picu-volatilitas-harga-saham",
-  "category": "Aksi Korporasi",
-  "title": "ARTA pastikan tak ada [fakta material] picu volatilitas harga saham",
-  "deck": "Menanggapi permintaan Bursa Efek Indonesia soal pergerakan harga sahamnya yang tidak wajar, Arthavest menyatakan tidak mengetahui ada informasi material yang belum diungkap ke publik.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARTA",
-   "Arthavest Tbk",
-   "Bursa Efek Indonesia",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f32be5037b_6e3a1966e1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-tak-ada-informasi-material-di-balik-gejolak-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Tak Ada [Informasi Material] di Balik Gejolak Sahamnya",
-  "deck": "Menanggapi permintaan BEI atas gejolak harga saham pada 23 September 2026, DEWI menyatakan tak ada informasi material dan pemegang saham utama berkomitmen tidak melepas kepemilikannya.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "BEI",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73bdd2104a_039cf4f372.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ketr-ungkap-profil-pengendali-baru-imbs-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "KETR Ungkap Profil Pengendali Baru [IMBS] ke Bursa",
-  "deck": "Ketrosden Triasmitra menjawab permintaan penjelasan Bursa dengan membuka profil lengkap PT Inti Mas Bangun Sejahtera, pemilik manfaat akhir, dan status tender wajib bagi pemegang saham publik.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "IMBS",
-   "pengendali saham",
-   "DSSA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a3e3186975_8c5d8334ee.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "auto-bagikan-dividen-interim-rp72-52-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "AUTO Bagikan Dividen Interim [Rp72,52] per Saham",
-  "deck": "Astra Otoparts akan membagikan dividen interim Rp72,52 per saham, total Rp349,5 miliar, dengan pembayaran pada 26 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AUTO",
-   "dividen interim",
-   "Astra Otoparts",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5a7421f8d5_061a7b79c4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-paparkan-kinerja-h1-2026-transaksi-melonjak-273",
-  "category": "Aksi Korporasi",
-  "title": "CASH Paparkan Kinerja H1 2026, [Transaksi] Melonjak 273%",
-  "deck": "Materi public expose tahunan ke BEI memuat kinerja semester I 2026 Cashlez (CASH): transaksi naik 273 persen, laba kotor naik 21 persen dibanding tahun lalu.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "Cashlez",
-   "Public Expose",
-   "Kinerja Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2ab2abdb9e_e81bc7cecf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apex-tetapkan-konversi-utang-jadi-saham-rupslb-7-oktober",
-  "category": "Aksi Korporasi",
-  "title": "APEX Tetapkan [Konversi] Utang Jadi Saham, RUPSLB 7 Oktober",
-  "deck": "Apexindo menjawab permintaan OJK ketiga kalinya soal rencana konversi utang US$4,1 juta menjadi 218 juta saham baru seri B, dengan RUPSLB digelar 7 Oktober dan realisasi ditargetkan 20 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APEX",
-   "konversi utang",
-   "PMTHMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d7a331c211_e102cffef9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asbi-free-float-naik-ke-14-73-per-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "ASBI: [Free Float] Naik ke 14,73% per September 2026",
-  "deck": "Laporan bulanan BEI mencatat porsi saham publik ASBI naik ke 14,73%, sementara struktur pengendali dan direksi tidak berubah.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASBI",
-   "pemegang saham",
-   "free float",
-   "asuransi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c903037d9c_64bd0eb878.pdf",
   "sourceLabel": "IDX"
  }
 ];

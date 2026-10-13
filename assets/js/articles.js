@@ -3,6 +3,212 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "zp-pastikan-tak-ada-penyesuaian-waran-amrt-usai-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "ZP Pastikan Tak Ada Penyesuaian Waran [AMRT] usai Dividen Tunai",
+  "deck": "Maybank Sekuritas memastikan tidak ada penyesuaian syarat waran terstruktur AMRTZPCZ6A dan AMRTZPCK7A menyusul dividen tunai AMRT yang diumumkan 5 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T16:32:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b05a71c0c2_cd3499c227.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "AMRT",
+   "waran terstruktur",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, selaku penerbit waran terstruktur, menyampaikan keterbukaan informasi bahwa tidak ada penyesuaian yang dilakukan terhadap dua produk warannya, AMRTZPCZ6A dan AMRTZPCK7A, yang menggunakan saham PT Sumber Alfaria Trijaya Tbk (AMRT) sebagai acuan. Keputusan ini merujuk pada pengumuman dividen tunai AMRT tertanggal 5 Oktober 2026, serta pengumuman awal Maybank Sekuritas tertanggal 7 Oktober 2026 terkait hal yang sama.",
+   "Dokumen bernomor surat 041/ECD-MSI/X/2026 yang diterbitkan pada 13 Oktober 2026 dan ditandatangani Stefany Chew dari divisi Equity & Commodity Derivatives itu menyebutkan bahwa acuan keputusan adalah Bagian 3.8 Prospektus waran tertanggal 11 April 2025 serta Term Sheet AMRTZPCZ6A dan AMRTZPCK7A. Berdasarkan rumus baku dalam dokumen tersebut, dividen tunai AMRT kali ini tidak memenuhi syarat yang mewajibkan perubahan harga pelaksanaan atau rasio konversi waran. Maybank Sekuritas menegaskan bahwa Prospektus tetap menjadi rujukan utama dan seluruh syarat ketentuan di dalamnya tetap berlaku."
+  ],
+  "fotoAdegan": "Workers restocking shelves inside a bright convenience store aisle stacked with daily goods, early morning hours",
+  "takeaway": "Laporan ini netral bagi AMRT maupun Maybank Sekuritas, sebab isinya murni konfirmasi bahwa rumus baku dalam prospektus waran tidak mewajibkan penyesuaian kali ini, bukan keputusan korporasi dari AMRT sendiri. Yang tersentuh hanya mekanisme produk derivatif waran terstruktur, bukan pos kinerja AMRT seperti ekuitas, laba, atau jumlah saham beredarnya, karena waran ini diterbitkan dan diperdagangkan oleh pihak ketiga, Maybank Sekuritas, bukan oleh AMRT. Pemegang waran AMRTZPCZ6A dan AMRTZPCK7A tidak perlu mengubah asumsi harga pelaksanaan maupun rasio konversi mereka menyusul dividen tunai AMRT yang diumumkan 5 Oktober 2026. Yang perlu dipantau selanjutnya adalah realisasi pembayaran dividen tunai AMRT itu sendiri kepada pemegang sahamnya, bukan sisi warannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptpp-panggil-rupsu-ke-4-untuk-sukuk-mudharabah-seri-b",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPSU Ke-4 untuk [Sukuk] Mudharabah Seri B",
+  "deck": "PP (Persero) Tbk akan menggelar rapat pemegang sukuk mudharabah pada 10 November 2026, rapat keempat untuk emisi yang sama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T15:47:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d0d3906689_7dbcb96404.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "Sukuk",
+   "RUPSU",
+   "Wali Amanat"
+  ],
+  "body": [
+   "PT Pembangunan Perumahan (Persero) Tbk atau PTPP mengumumkan rencana menggelar Rapat Umum Pemegang Sukuk (RUPSU) ke-4 untuk Sukuk Mudharabah Berkelanjutan I PTPP Tahap II Tahun 2022 Seri B. Rapat dijadwalkan pada Selasa, 10 November 2026 pukul 08.00 WIB di Park Hotel Jakarta, Jalan DI Panjaitan No. 5, Cawang, Jatinegara, Jakarta Timur. Agenda resmi rapat belum diungkapkan dalam pemberitahuan ini dan baru akan dilampirkan saat surat pemanggilan resmi diterbitkan.",
+   "Rapat ini diselenggarakan bersama PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk yang bertindak selaku wali amanat, berdasarkan Perjanjian Perwaliamanatan Akta Nomor 07 tanggal 1 April 2022 beserta perubahan-perubahannya. Sesuai pemberitahuan, pemanggilan RUPSU akan diiklankan melalui satu surat kabar harian, situs web Bursa Efek Indonesia, dan situs resmi PTPP pada Selasa, 27 Oktober 2026. Dokumen ditandatangani oleh Joko Raharjo selaku Sekretaris Perusahaan pada 13 Oktober 2026.",
+   "Penyebutan rapat ini sebagai RUPSU \"ke-4\" menunjukkan bahwa pemegang sukuk seri B tersebut sudah beberapa kali diminta berkumpul untuk emisi yang sama, meski isi dan tujuan pembahasan belum dibuka ke publik pada tahap pemberitahuan ini."
+  ],
+  "fotoAdegan": "Empty hotel conference room with rows of chairs facing a stage, tall windows letting in soft morning light, Jakarta",
+  "takeaway": "Laporan ini condong negatif bagi PTPP, karena ini sudah rapat pemegang sukuk yang keempat untuk emisi yang sama, muncul tak lama setelah Pefindo memangkas rating PTPP ke idCCC dengan outlook negatif, pola yang biasanya terjadi saat emiten perlu persetujuan atau kelonggaran dari pemegang surat utang terkait kewajiban pembayarannya. Yang tersentuh di sini adalah arus kas dan kemampuan PTPP memenuhi kewajiban ke pemegang sukuk, bukan laba per saham, karena wali amanat yaitu bank yang ditugaskan mewakili kepentingan pemegang sukuk dalam hal ini bank bjb, memanggil rapat berdasarkan perjanjian yang sudah berjalan sejak 2022. Berulangnya rapat semacam ini membuat pelaku pasar surat utang mencermati apakah PTPP masih sanggup membayar bagi hasil sukuk sesuai jadwal yang disepakati. Yang perlu dipantau adalah agenda resmi yang baru diumumkan lewat koran, situs bursa, dan situs PTPP pada 27 Oktober 2026, serta hasil rapat itu sendiri pada 10 November 2026, karena di sanalah akan terlihat apakah pemegang sukuk meminta syarat baru atau menyetujui perubahan atas kewajiban Perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "hits-laba-semester-i-2026-anjlok-63-pendapatan-naik-5-6",
+  "category": "Aksi Korporasi",
+  "title": "HITS: Laba Semester I 2026 [Anjlok] 63%, Pendapatan Naik 5,6%",
+  "deck": "Laporan keuangan interim HITS semester I 2026 menunjukkan laba bersih turun 63 persen dan bagian pemegang saham induk anjlok 74,5 persen, meski pendapatan naik 5,6 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T15:33:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261013154021-64491-0/FinancialStatement-2026-II-HITS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HITS",
+  "tags": [
+   "HITS",
+   "laporan keuangan",
+   "laba bersih",
+   "emiten pelayaran"
+  ],
+  "body": [
+   "Humpuss Intermoda Transportasi Tbk (HITS) melalui surat Direktur Utama Djoko Wiseno tertanggal 30 September 2026 menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode enam bulan yang berakhir pada 30 Juni 2026, kepada Otoritas Jasa Keuangan dan PT Bursa Efek Indonesia. Penyampaian ini merujuk pada POJK Nomor 14/POJK.04/2022 tentang pelaporan keuangan berkala emiten. Dalam surat terpisah bernomor 430/DU-HIT/IX/2026, perseroan juga menegaskan tidak ada perubahan lebih dari 20 persen pada total aset maupun total liabilitas dibandingkan laporan keuangan tahunan 2025, sesuai syarat Peraturan Bursa Nomor I-E.",
+   "Dari sisi kinerja, pendapatan usaha HITS pada semester pertama 2026 naik menjadi US$70,89 juta dari US$67,13 juta pada periode sama tahun lalu. Namun beban pokok pendapatan naik lebih cepat, dari US$51,11 juta menjadi US$59,94 juta, sehingga laba bruto justru turun dari US$16,03 juta menjadi US$10,95 juta. Laba usaha ikut tergerus dari US$8,43 juta menjadi US$6,60 juta, sementara biaya keuangan membengkak dari US$4,03 juta menjadi US$5,35 juta. Akibatnya, laba tahun berjalan perseroan anjlok 63 persen, dari US$5,18 juta menjadi US$1,92 juta, dan bagian yang menjadi hak pemegang saham induk turun 74,5 persen menjadi US$1,16 juta dari US$4,56 juta, membuat laba per saham dasar turun dari US$0,00064 menjadi US$0,00016.",
+   "Di sisi aset dan liabilitas, total aset HITS per 30 Juni 2026 tercatat US$337,93 juta, sedikit naik dari US$335,52 juta pada akhir 2025, sementara total liabilitas naik dari US$231,87 juta menjadi US$233,25 juta, terutama karena pinjaman bank jangka panjang bertambah dari US$49,75 juta menjadi US$56,57 juta. Laporan arus kas menunjukkan perseroan menarik pinjaman bank jangka panjang baru senilai US$34,95 juta, namun kas dan deposito berjangka justru menyusut dari US$46,94 juta menjadi US$34,30 juta karena arus kas dari aktivitas operasi hanya US$13,28 juta, kurang dari separuh perolehan periode sama tahun lalu yang sebesar US$27,78 juta. Perseroan juga membelanjakan US$18,64 juta untuk pembelian aset tetap, naik dari US$16,00 juta, sejalan dengan arus kas investasi yang membesar menjadi minus US$22,90 juta dari minus US$14,56 juta."
+  ],
+  "fotoAdegan": "Tanker and cargo vessels anchored off a busy Indonesian seaport, tugboats maneuvering nearby under a hazy afternoon sky",
+  "takeaway": "Laporan ini condong negatif, karena meski pendapatan HITS naik 5,6 persen, hampir semua ukuran laba justru menciut tajam, dengan laba bersih jatuh 63 persen dibanding semester satu tahun lalu. Yang tersentuh di sini adalah margin usaha dan beban bunga: biaya keuangan naik dari US$4,03 juta menjadi US$5,35 juta karena pinjaman bank jangka panjang bertambah jadi US$56,57 juta, sementara kas perusahaan menyusut dari US$46,94 juta menjadi US$34,30 juta akibat arus kas dari operasi yang anjlok lebih dari separuh. Pelaku pasar memperhatikan kombinasi ini karena beban bunga naik sambil kas menipis biasanya jadi sinyal tekanan likuiditas, meski total aset dan ekuitas perseroan masih sedikit bertambah. Menariknya, laba yang jadi hak pemegang saham induk sebesar US$1,16 juta pada semester ini masih positif, berbeda dari kuartal pertama 2026 yang sempat tercatat rugi, sehingga perlu dicek apakah perbaikan di kuartal dua ini berlanjut. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal III 2026, mengingat laporan semester ini sendiri baru disampaikan ke OJK dan BEI pada 30 September 2026, sekitar tiga bulan setelah periode yang dilaporkan berakhir.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "amor-panggil-rupst-bahas-dividen-dan-pengalihan-saham-buyback",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Panggil RUPST, Bahas Dividen dan [Pengalihan] Saham Buyback",
+  "deck": "AMOR mengundang pemegang saham ke RUPST Tahunan pada 4 November 2026, dengan agenda pembagian laba bersih, pengalihan saham hasil buyback, dan penyesuaian KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T15:10:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fb82a84bfd_2071409465.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "RUPST",
+   "dividen",
+   "buyback saham"
+  ],
+  "body": [
+   "PT Ashmore Asset Management Indonesia Tbk (AMOR) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Tahunan (RUPST) pada Rabu, 4 November 2026 pukul 16.00 WIB. Rapat digelar secara elektronik lewat sistem eASY.KSEI di tautan akses.ksei.co.id, dengan pemegang saham yang tercatat dalam Daftar Pemegang Saham per 12 Oktober 2026 pukul 16.00 WIB sebagai pihak yang berhak hadir atau memberi kuasa.",
+   "Ada tujuh agenda yang akan diputuskan. Selain pengesahan laporan tahunan dan laporan keuangan untuk tahun buku yang berakhir 30 Juni 2026, RUPST akan menetapkan penggunaan laba bersih perseroan, yang diusulkan dibagi untuk dana cadangan, dividen, dan sisanya dicatat sebagai laba ditahan. Pemegang saham juga diminta menyetujui pendelegasian kewenangan penetapan gaji dan tunjangan direksi serta komisaris kepada Dewan Komisaris, dan menunjuk Kantor Akuntan Publik Purwanto, Sungkoro dan Surja (EY) sebagai auditor untuk tahun buku yang berakhir 30 Juni 2027.",
+   "Tiga agenda lain yang perlu dicatat: perseroan akan melaporkan realisasi penggunaan dana hasil penawaran umum perdana (IPO) sesuai ketentuan OJK, meminta persetujuan rencana pengalihan saham hasil pembelian kembali (buyback) yang sebelumnya telah dilakukan perseroan, serta menyesuaikan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) perseroan ke kode 66301 untuk manajemen investasi konvensional dan 66151 untuk aktivitas advisori investasi sesuai KBLI 2025. Pemegang saham yang ingin memberi kuasa elektronik melalui biro administrasi efek Datindo harus menyelesaikan prosesnya paling lambat 4 November 2026 pukul 12.00 WIB, sementara pertanyaan tertulis bisa diajukan lewat email ke cosec.indonesia@ashmoregroup.com dengan tembusan ke Datindo, dan akan dijawab paling lambat tiga hari kerja setelah RUPST."
+  ],
+  "fotoAdegan": "Rows of empty chairs set up for a corporate meeting in a Jakarta office tower, SCBD skyline visible through floor to ceiling windows.",
+  "takeaway": "Pemanggilan ini netral bagi AMOR, karena isinya baru mengundang pemegang saham ke rapat dan belum memuat keputusan maupun angka pasti, seperti besaran dividen atau harga pengalihan saham buyback. Dua pos yang nanti tersentuh adalah laba ditahan dan jumlah saham beredar: RUPS akan menentukan berapa persen laba bersih tahun buku yang berakhir 30 Juni 2026 dibagikan sebagai dividen, dan jika rencana pengalihan saham hasil buyback disetujui lalu saham itu dilepas lagi ke pasar, pasokan saham bertambah dan bisa menggerus laba per saham ke depan. Yang perlu dipantau adalah hasil RUPST pada 4 November 2026 pukul 16.00 WIB, khususnya besaran dividen yang akhirnya diputuskan dan rincian rencana pengalihan saham treasuri tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vici-direksi-jual-402-48-juta-saham-senilai-rp301-86-m-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "VICI: Direksi Jual 402,48 Juta Saham Senilai Rp301,86 M [Divestasi]",
+  "deck": "Direksi VICI, SUKSES SEJATI SEJAHTERA, melepas 402,48 juta saham senilai Rp301,86 miliar pada 9 Oktober 2026, hak suaranya turun dari 84,95% jadi 78,95%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T15:10:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-6521-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "kepemilikan saham",
+   "direksi",
+   "divestasi"
+  ],
+  "body": [
+   "SUKSES SEJATI SEJAHTERA, pihak yang berstatus anggota direksi PT Victoria Care Indonesia Tbk (VICI), melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya menjual 402.480.000 saham VICI secara tidak langsung pada 9 Oktober 2026. Transaksi dilakukan pada harga Rp750 per saham, sehingga total nilainya mencapai sekitar Rp301,86 miliar. Laporan bertanggal 13 Oktober 2026 itu mencantumkan tujuan transaksi sebagai divestasi, dengan skema yang dicatat sebagai perjanjian jual dengan opsi beli kembali atau repurchase agreement, yaitu penjualan saham yang disertai kesepakatan bisa dibeli kembali di kemudian hari.",
+   "Akibat transaksi ini, jumlah saham VICI yang dikuasai SUKSES SEJATI SEJAHTERA berkurang dari 5.698.380.000 lembar menjadi 5.295.900.000 lembar, turun 402.480.000 lembar atau setara 7,06 persen dari kepemilikannya sebelum transaksi. Hak suaranya di VICI pun turun dari 84,95 persen menjadi 78,95 persen, meski posisinya sebagai pemegang saham mayoritas tidak berpindah ke pihak lain."
+  ],
+  "fotoAdegan": "Workers packaging cosmetic and personal care products on a factory assembly line, bright fluorescent lighting, Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi VICI, karena pemegang saham pengendalinya melepas blok saham signifikan senilai sekitar Rp301,86 miliar, sesuatu yang pasar biasanya baca sebagai berkurangnya keyakinan jangka pendek pihak dalam terhadap sahamnya sendiri, meski kendali perusahaan belum berpindah tangan. Transaksi ini adalah pengalihan saham lama antarpihak, bukan penerbitan saham baru, sehingga tidak menambah kas ke perusahaan maupun mengubah jumlah saham beredar atau laba per saham VICI, yang bergeser murni peta kendali lewat hak suara pelapor yang turun dari 84,95 persen menjadi 78,95 persen. Pelaku pasar mencermati pergeseran hak suara semacam ini karena bisa mengubah dinamika pengambilan suara di rapat pemegang saham ke depan, walau di sini pelapor masih memegang mayoritas mutlak di atas 75 persen. Yang perlu dipantau berikutnya adalah apakah SUKSES SEJATI SEJAHTERA kembali melaporkan pelepasan saham lanjutan, karena aturan OJK mewajibkan pelaporan setiap kali ada perubahan kepemilikan, serta apakah pergeseran ini beririsan dengan agenda RUPSLB VICI yang pekan lalu juga memproses pengunduran diri tiga komisaris.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mark-jadwalkan-rupslb-pada-19-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "MARK Jadwalkan [RUPSLB] pada 19 November 2026",
+  "deck": "Mark Dynamics Indonesia (MARK) mengumumkan rencana RUPSLB pada 19 November 2026 di Deli Serdang, dengan daftar pemegang saham berhak hadir ditutup 27 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T15:03:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d94e26e37a_8c9eb3a645.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MARK",
+  "tags": [
+   "MARK",
+   "RUPSLB",
+   "Mark Dynamics Indonesia",
+   "korporasi"
+  ],
+  "body": [
+   "PT Mark Dynamics Indonesia Tbk (MARK) menyampaikan pemberitahuan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kepada Bursa Efek Indonesia, merujuk pada surat sebelumnya nomor 045/MDI-CORSEC/X/2026. RUPSLB dijadwalkan berlangsung Kamis, 19 November 2026 pukul 14.00 WIB, di Wing Hotel Kualanamu, Deli Serdang, Sumatera Utara. Surat pemberitahuan tertanggal 13 Oktober 2026 ini ditandatangani oleh Presiden Direktur Ridwan.",
+   "Perseroan menetapkan pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada Selasa, 27 Oktober 2026 pukul 16.00 WIB, atau pemilik saham di sub rekening efek KSEI pada penutupan perdagangan di BEI pada tanggal yang sama, sebagai pihak yang berhak hadir atau diwakili dalam rapat. Sesuai POJK Nomor 15/POJK.04/2020, surat pemanggilan resmi yang memuat mata acara RUPSLB akan diumumkan lewat situs web perseroan, situs BEI, dan situs penyedia e-RUPS KSEI. Pemegang saham yang mewakili paling sedikit 1/20 dari total saham dengan hak suara sah berhak mengusulkan mata acara tambahan, dengan mengirim surat tercatat kepada direksi disertai alasan, paling lambat 7 hari kalender sebelum tanggal pemanggilan rapat.",
+   "Untuk memudahkan partisipasi, perseroan mengarahkan pemegang saham memberikan suara dan kuasa secara elektronik melalui fasilitas eASY.KSEI kepada perwakilan independen yang ditunjuk perseroan. Fasilitas e-proxy ini tersedia mulai 28 Oktober 2026, bertepatan dengan tanggal pemanggilan rapat, hingga sehari sebelum RUPSLB yakni Rabu, 18 November 2026. Dokumen ini belum mengungkap agenda atau mata acara RUPSLB, karena agenda baru akan dimuat dalam surat pemanggilan resmi yang terbit menjelang pelaksanaan rapat."
+  ],
+  "fotoAdegan": "Empty hotel conference ballroom with rows of chairs arranged for a corporate meeting, soft morning light through curtains",
+  "takeaway": "Catatan ini netral, sebab yang baru terbit hanyalah jadwal RUPSLB, belum ada agenda rapat yang diungkap sehingga belum bisa dinilai apakah ini kabar baik atau buruk bagi pemegang saham. RUPSLB biasa dipanggil untuk hal di luar agenda tahunan rutin, misalnya perubahan permodalan, penambahan jumlah saham beredar, atau pergantian pengurus, dan hal semacam itu bisa mempengaruhi ekuitas atau laba per saham perusahaan, itulah sebabnya pelaku pasar biasa mencermati undangan RUPSLB meski isinya belum terbuka. Yang perlu dipantau selanjutnya adalah surat pemanggilan resmi pada 28 Oktober 2026 yang wajib memuat mata acara rapat, serta pelaksanaan RUPSLB itu sendiri pada 19 November 2026, dengan batas akhir pemberian kuasa elektronik lewat eASY.KSEI pada 18 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jecx-direksi-johan-hutauruk-jual-10-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Direksi Johan Hutauruk [Jual] 10.000 Saham",
+  "deck": "Direksi JECX Johan A M M Hutauruk melepas 10.000 saham lewat mekanisme repurchase agreement, namun hak suaranya di perusahaan tetap 0,58 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T15:00:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-1309-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "Nitrasanata Dharma",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Nitrasanata Dharma Tbk (JECX), Johan A M M Hutauruk, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 10.000 lembar saham JECX pada 8 Oktober 2026 dengan harga Rp1.555 per saham. Transaksi ini dicatat sebagai repurchase agreement, yaitu transaksi jual saham dengan janji membeli kembali di kemudian hari, yang biasa dipakai sebagai cara mendapatkan dana tunai jangka pendek dengan menjadikan saham sebagai jaminan.",
+   "Akibat penjualan ini, kepemilikan Johan di JECX turun dari 18.814.000 lembar menjadi 18.804.000 lembar, berkurang 10.000 lembar atau sekitar 0,0532 persen dari saham yang dipegangnya. Nilai transaksinya sekitar Rp15,55 juta. Hak suaranya di perusahaan tidak berubah, tetap di angka 0,58 persen baik sebelum maupun sesudah transaksi.",
+   "Laporan ini disampaikan sesuai POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Wide shot of glass office towers in Jakarta's financial district, pedestrians crossing a busy street at dusk, distant blurred signage lights",
+  "takeaway": "Laporan ini netral bagi JECX, karena penjualan 10.000 saham oleh Johan Hutauruk hanya setara 0,05 persen dari kepemilikannya yang mencapai 18,8 juta lembar, terlalu kecil untuk dibaca sebagai sinyal sikap direksi terhadap prospek perusahaan. Yang tersentuh di sini adalah hak suara, yaitu porsi kendali seorang pemegang saham atas keputusan di rapat pemegang saham, dan pelaku pasar lazim memantau transaksi orang dalam seperti ini karena dianggap mencerminkan pandangan mereka terhadap perusahaan sendiri, meski kali ini porsinya tidak mengubah hak suara Johan sama sekali. Perlu dicatat juga transaksi ini berbentuk repurchase agreement, bukan penjualan lepas biasa, sehingga kemungkinan sahamnya memang direncanakan dibeli kembali. Yang perlu dipantau selanjutnya adalah apakah muncul laporan lanjutan dari Johan atau direksi dan komisaris JECX lain soal pola jual beli saham mereka, mengingat dalam dua pekan terakhir sudah ada beberapa laporan serupa dari jajaran direksi dan komisaris JECX.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "oppm-lunasi-obligasi-rp2-98-triliun-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "OPPM lunasi [obligasi] Rp2,98 triliun jatuh tempo",
+  "deck": "PT OKI Pulp & Paper Mills (OPPM) melunasi pokok empat instrumen utang, obligasi, sukuk mudharabah, obligasi dolar, dan obligasi hijau, senilai total Rp2,98 triliun plus US$1,06 juta pada 12 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T14:46:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/89662fe27e_e48be90ccb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OPPM",
+  "tags": [
+   "OPPM",
+   "obligasi",
+   "pelunasan utang",
+   "pulp dan kertas"
+  ],
+  "body": [
+   "PT OKI Pulp & Paper Mills (OPPM) mengumumkan telah melunasi pokok utang dari empat instrumen sekaligus melalui PT Kustodian Sentral Efek Indonesia (KSEI) pada 12 Oktober 2026. Laporan ditandatangani Direktur OPPM Arman Dwiartono dan disampaikan ke Otoritas Jasa Keuangan pada 13 Oktober 2026.",
+   "Rinciannya, Obligasi Berkelanjutan I OKI Pulp & Paper Mills Tahap I Tahun 2023 Seri B dilunasi Rp1.608.890.000.000 atau sekitar Rp1,61 triliun. Sukuk Mudharabah Berkelanjutan I Tahap I Tahun 2023 Seri A dilunasi Rp333.200.000.000 atau sekitar Rp333,2 miliar. Obligasi Berwawasan Lingkungan Berkelanjutan I Tahap I Tahun 2023 Seri B dilunasi Rp1.042.090.000.000 atau sekitar Rp1,04 triliun. Di luar itu, Obligasi USD Berkelanjutan I Tahap I Tahun 2023 Seri A dilunasi senilai US$1.058.000 atau sekitar US$1,06 juta.",
+   "Total pelunasan dalam rupiah mencapai sekitar Rp2,98 triliun, ditambah kewajiban dalam dolar Amerika Serikat tersebut. Dalam laporan ke OJK, OPPM turut menembuskan surat ini kepada PT Bank KB Indonesia Tbk selaku wali amanat, serta Bursa Efek Indonesia. OPPM menyatakan pelunasan ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan."
+  ],
+  "fotoAdegan": "Workers checking large paper rolls on a conveyor line inside an industrial pulp and paper mill, late afternoon light",
+  "takeaway": "Laporan ini positif bagi OPPM karena menegaskan seluruh pokok utang jatuh tempo, obligasi biasa, sukuk, obligasi dolar, dan obligasi hijau, benar-benar sudah dibayar lunas tepat waktu pada 12 Oktober, melengkapi laporan kami sebelumnya yang baru menyebut dana sudah disiapkan. Pos yang tersentuh adalah utang dan beban bunga, yakni bunga yang harus dibayar perusahaan atas pinjamannya, karena total kewajiban berbunga OPPM berkurang sekitar Rp2,98 triliun plus kewajiban dolarnya, sehingga ke depan kas perusahaan tidak lagi tersedot untuk membayar bunga keempat instrumen itu. Yang perlu dipantau berikutnya adalah apakah OPPM akan menerbitkan surat utang baru untuk menggantikan dana yang keluar ini, serta laporan keuangan kuartal mendatang untuk melihat bagaimana pelunasan ini mengubah posisi kas dan rasio utang perusahaan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "aturan-baru-djp-pembayaran-pajak-dahulukan-pokok-utang",
   "category": "Makroekonomi",
   "title": "Aturan Baru DJP: Pembayaran Pajak [Dahulukan] Pokok Utang",
@@ -703,6 +909,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Bank teller counters inside a modest regional branch office, customers waiting in line, soft afternoon light through windows",
   "takeaway": "Sanksi ini condong negatif bagi BSSB karena menunjukkan bank daerah tersebut belum bisa memenuhi tenggat pelaporan keuangan teraudit, meski sanksinya masih tahap awal dan belum disertai denda. Keterlambatan ini penting bagi pemegang obligasi dan sukuk BSSB karena laporan keuangan teraudit adalah rujukan utama untuk menilai kesehatan modal dan arus kas bank sebelum jatuh tempo kupon atau pokok utang, sehingga penundaan membuat investor menunggu lebih lama untuk informasi yang semestinya sudah diverifikasi akuntan publik. Yang perlu dipantau berikutnya adalah apakah BSSB segera menyampaikan laporan teraudit tersebut, sebab jika penundaan berlanjut, bursa bisa menaikkan sanksi ke Peringatan Tertulis Kedua atau Ketiga seperti yang sudah dialami POST dalam pengumuman yang sama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ptpp-gagal-bayar-kupon-obligasi-suspensi-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "PTPP [Gagal Bayar] Kupon Obligasi, Suspensi Berlanjut",
+  "deck": "BEI melanjutkan suspensi saham PTPP di seluruh pasar sejak 13 Oktober 2026, setelah perseroan menunda pembayaran kupon obligasi dan bagi hasil sukuk yang jatuh tempo 12 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T08:22:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/70773859fb_5c902b1736.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) melanjutkan penghentian sementara perdagangan saham PT PP (Persero) Tbk (PTPP) di seluruh pasar, mulai sesi pra-pembukaan pada Selasa, 13 Oktober 2026, hingga ada pengumuman lebih lanjut dari BEI. Suspensi ini adalah kelanjutan dari penghentian perdagangan sebelumnya, dan kali ini dipicu langsung oleh kegagalan PTPP membayar kupon obligasi serta bagi hasil sukuk yang jatuh tempo.",
+   "Berdasarkan surat PT Kustodian Sentral Efek Indonesia (KSEI) tertanggal 9 Oktober 2026, PTPP menunda dua pembayaran yang seharusnya jatuh tempo pada 12 Oktober 2026, yaitu bunga ke-14 Obligasi Berkelanjutan III PTPP Tahap III Tahun 2023 (PTPP03CN3) dan pendapatan bagi hasil ke-14 Sukuk Mudharabah Berkelanjutan I PTPP Tahap III Tahun 2023 (SMPTPP01CN3). BEI menyebut penundaan pembayaran ini mengindikasikan adanya permasalahan pada kelangsungan usaha perseroan, dan suspensi diambil berdasarkan Ketentuan III.1.5 Peraturan BEI Nomor I-L tentang Suspensi Efek, demi menjaga perdagangan yang teratur, wajar, dan efisien.",
+   "Pengumuman yang ditandatangani Irawati Widyaningtyas selaku Pejabat Harian Kepala Divisi Penilaian Perusahaan 3 dan Pande Made Kusuma Ari A. selaku Kepala Divisi Pengaturan dan Operasional Perdagangan itu juga meminta seluruh pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi yang disampaikan PTPP ke depan."
+  ],
+  "fotoAdegan": "Construction workers in hard hats walking past idle tower cranes at a large unfinished building site, overcast afternoon light",
+  "takeaway": "Laporan ini negatif bagi PTPP, karena bukan lagi sekadar penurunan rating atau rapat pemegang sukuk seperti yang sudah diberitakan sebelumnya, melainkan kegagalan nyata membayar kupon obligasi dan bagi hasil sukuk yang jatuh tempo 12 Oktober 2026, dan BEI sendiri secara eksplisit menyebutnya sebagai indikasi masalah kelangsungan usaha, yaitu keraguan apakah perusahaan masih mampu menjalankan operasinya secara normal ke depan. Pos yang tersentuh adalah arus kas perseroan, yakni kemampuan menyediakan uang tunai untuk membayar kewajiban tepat waktu, karena gagal bayar kupon biasanya berarti kas yang tersedia tidak cukup atau sudah diprioritaskan untuk kebutuhan lain, berbeda dari laba di atas kertas yang bisa saja masih tercatat positif. Pelaku pasar memperhatikan arus kas karena itulah yang menentukan apakah perusahaan benar benar bisa membayar utangnya, bukan sekadar angka laba di laporan keuangan. Yang perlu dipantau berikutnya adalah apakah PTPP melunasi tunggakan kupon dan bagi hasil tersebut serta kapan BEI mengumumkan pencabutan suspensi, karena sampai saat ini perdagangan saham PTPP masih dihentikan tanpa batas waktu yang pasti.",
   "sentimen": "negatif"
  },
  {

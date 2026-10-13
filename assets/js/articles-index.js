@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "zp-pastikan-tak-ada-penyesuaian-waran-amrt-usai-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "ZP Pastikan Tak Ada Penyesuaian Waran [AMRT] usai Dividen Tunai",
+  "deck": "Maybank Sekuritas memastikan tidak ada penyesuaian syarat waran terstruktur AMRTZPCZ6A dan AMRTZPCK7A menyusul dividen tunai AMRT yang diumumkan 5 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "AMRT",
+   "waran terstruktur",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b05a71c0c2_cd3499c227.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-panggil-rupsu-ke-4-untuk-sukuk-mudharabah-seri-b",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPSU Ke-4 untuk [Sukuk] Mudharabah Seri B",
+  "deck": "PP (Persero) Tbk akan menggelar rapat pemegang sukuk mudharabah pada 10 November 2026, rapat keempat untuk emisi yang sama.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "Sukuk",
+   "RUPSU",
+   "Wali Amanat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d0d3906689_7dbcb96404.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hits-laba-semester-i-2026-anjlok-63-pendapatan-naik-5-6",
+  "category": "Aksi Korporasi",
+  "title": "HITS: Laba Semester I 2026 [Anjlok] 63%, Pendapatan Naik 5,6%",
+  "deck": "Laporan keuangan interim HITS semester I 2026 menunjukkan laba bersih turun 63 persen dan bagian pemegang saham induk anjlok 74,5 persen, meski pendapatan naik 5,6 persen.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HITS",
+   "laporan keuangan",
+   "laba bersih",
+   "emiten pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261013154021-64491-0/FinancialStatement-2026-II-HITS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amor-panggil-rupst-bahas-dividen-dan-pengalihan-saham-buyback",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Panggil RUPST, Bahas Dividen dan [Pengalihan] Saham Buyback",
+  "deck": "AMOR mengundang pemegang saham ke RUPST Tahunan pada 4 November 2026, dengan agenda pembagian laba bersih, pengalihan saham hasil buyback, dan penyesuaian KBLI 2025.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMOR",
+   "RUPST",
+   "dividen",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fb82a84bfd_2071409465.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vici-direksi-jual-402-48-juta-saham-senilai-rp301-86-m-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "VICI: Direksi Jual 402,48 Juta Saham Senilai Rp301,86 M [Divestasi]",
+  "deck": "Direksi VICI, SUKSES SEJATI SEJAHTERA, melepas 402,48 juta saham senilai Rp301,86 miliar pada 9 Oktober 2026, hak suaranya turun dari 84,95% jadi 78,95%.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "kepemilikan saham",
+   "direksi",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-6521-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mark-jadwalkan-rupslb-pada-19-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "MARK Jadwalkan [RUPSLB] pada 19 November 2026",
+  "deck": "Mark Dynamics Indonesia (MARK) mengumumkan rencana RUPSLB pada 19 November 2026 di Deli Serdang, dengan daftar pemegang saham berhak hadir ditutup 27 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MARK",
+   "RUPSLB",
+   "Mark Dynamics Indonesia",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d94e26e37a_8c9eb3a645.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jecx-direksi-johan-hutauruk-jual-10-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Direksi Johan Hutauruk [Jual] 10.000 Saham",
+  "deck": "Direksi JECX Johan A M M Hutauruk melepas 10.000 saham lewat mekanisme repurchase agreement, namun hak suaranya di perusahaan tetap 0,58 persen.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "Nitrasanata Dharma",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-1309-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oppm-lunasi-obligasi-rp2-98-triliun-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "OPPM lunasi [obligasi] Rp2,98 triliun jatuh tempo",
+  "deck": "PT OKI Pulp & Paper Mills (OPPM) melunasi pokok empat instrumen utang, obligasi, sukuk mudharabah, obligasi dolar, dan obligasi hijau, senilai total Rp2,98 triliun plus US$1,06 juta pada 12 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OPPM",
+   "obligasi",
+   "pelunasan utang",
+   "pulp dan kertas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/89662fe27e_e48be90ccb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "aturan-baru-djp-pembayaran-pajak-dahulukan-pokok-utang",
   "category": "Makroekonomi",
   "title": "Aturan Baru DJP: Pembayaran Pajak [Dahulukan] Pokok Utang",
@@ -440,6 +568,22 @@ var ARTICLES = [
    "obligasi daerah"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0c87181b8c_957c1bb24a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-gagal-bayar-kupon-obligasi-suspensi-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "PTPP [Gagal Bayar] Kupon Obligasi, Suspensi Berlanjut",
+  "deck": "BEI melanjutkan suspensi saham PTPP di seluruh pasar sejak 13 Oktober 2026, setelah perseroan menunda pembayaran kupon obligasi dan bagi hasil sukuk yang jatuh tempo 12 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/70773859fb_5c902b1736.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6329,149 +6473,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/surplus-perdagangan-agustus-2026-menguat-surplus-januari-agustus-2026-tembus-usd-725-miliar",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "buva-right-issue-ii-rp1-54-triliun-harga-hmetd-rp250",
-  "category": "Aksi Korporasi",
-  "title": "BUVA Right Issue II Rp1,54 Triliun, Harga [HMETD] Rp250",
-  "deck": "BUVA menawarkan 6,15 miliar saham baru rasio 4:1 di harga Rp250, mengumpulkan Rp1,54 triliun untuk bayar utang dan ekspansi resor di Uluwatu.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "rights issue",
-   "HMETD",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eff7c36fdf_3f5a1bbab7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-rilis-prospektus-rights-issue-pembeli-siaga-kunci-rp1-54-t",
-  "category": "Aksi Korporasi",
-  "title": "BUVA Rilis Prospektus Rights Issue, [Pembeli Siaga] Kunci Rp1,54 T",
-  "deck": "Prospektus PMHMETD II BUVA mengungkap jadwal lengkap dan komitmen empat pembeli siaga menyerap sisa saham hingga Rp525,5 miliar jika pemegang saham lain tak menyerap haknya.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "rights issue",
-   "HMETD",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/77e65b77a7_72ea51316a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bold-ganti-direksi-dua-direktur-baru-masuk-jajaran",
-  "category": "Aksi Korporasi",
-  "title": "BOLD Ganti Direksi, Dua [Direktur] Baru Masuk Jajaran",
-  "deck": "BUMA (BOLD) mengubah susunan direksi lewat keputusan sirkuler pemegang saham, menambah dua direktur baru dan menggeser posisi Wakil Direktur Utama.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLD",
-   "direksi",
-   "BUMA",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b8639ce1b8_2389355d45.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "edge-serapan-tender-saham-digital-edge-baru-4-84-usai-tahap-iii",
-  "category": "Aksi Korporasi",
-  "title": "EDGE: [Serapan] Tender Saham Digital Edge Baru 4,84% Usai Tahap III",
-  "deck": "Setelah tiga periode penawaran tender sukarela sejak Juni 2026, Digital Edge (Hong Kong) Ltd baru membeli 7,71 juta dari target 159,59 juta saham publik EDGE.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "tender offer",
-   "delisting",
-   "Indointernet"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/64f3a44b21_6106aa2254.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-catatkan-1-43-juta-saham-baru-dari-mesop",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Catatkan 1,43 Juta Saham Baru dari [MESOP]",
-  "deck": "PT Pertamina Geothermal Energy mencatatkan 1.429.793 saham baru hasil pelaksanaan opsi karyawan Tahap I dan III pada 6 Oktober 2026, menambah total saham beredar menjadi 41,95 miliar lembar.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "ESOP",
-   "MESOP",
-   "saham baru"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1283ef9a12_290a4d499b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iata-siapkan-dana-rp199-1-miliar-lunasi-obligasi-dan-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "[IATA] Siapkan Dana Rp199,1 Miliar Lunasi Obligasi dan Sukuk",
-  "deck": "Obligasi dan sukuk wakalah IATA senilai total Rp199,1 miliar jatuh tempo 6 Oktober 2026. Manajemen menyatakan ke BEI dana pelunasan sudah siap.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IATA",
-   "obligasi",
-   "sukuk wakalah",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a75e87e442_d37d163031.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-jatuh-tempo-obligasi-rp1-48-triliun-lepas-dari-bursa",
-  "category": "Aksi Korporasi",
-  "title": "LPPI [Jatuh Tempo] Obligasi Rp1,48 Triliun, Lepas dari Bursa",
-  "deck": "Obligasi Seri B senilai Rp1,48 triliun milik LPPI resmi jatuh tempo dan didelisting dari BEI mulai 6 Oktober 2026, menandai pelunasan salah satu seri Obligasi Berkelanjutan II.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "obligasi",
-   "jatuh tempo",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/585c9f2781_a38548e713.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "foru-catatkan-89-7-juta-saham-baru-hasil-hmetd",
-  "category": "Aksi Korporasi",
-  "title": "FORU Catatkan [89,7 Juta] Saham Baru Hasil HMETD",
-  "deck": "BEI mencatat tambahan 89,73 juta saham baru dari pelaksanaan HMETD FORU, membuat total saham tercatat emiten ini jadi 168,74 miliar lembar.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "HMETD",
-   "rights issue",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/843409b6e8_82b5110ff5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-gagal-bayar-bagi-hasil-sukuk-rupsu-digelar-21-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Gagal Bayar] Bagi Hasil Sukuk, RUPSU Digelar 21 Oktober",
-  "deck": "WIKA memanggil pemegang Sukuk Mudharabah Berkelanjutan III Tahap I 2022 untuk RUPSU pada 21 Oktober 2026, menyusul gagal bayar bagi hasil dua periode berturut-turut.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "gagal bayar",
-   "RUPSU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fb8fe5a89a_c0d9a8a2f8.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mine-panggil-rupslb-jaminkan-aset-untuk-pinjaman-sindikasi",
+  "category": "Aksi Korporasi",
+  "title": "MINE Panggil RUPSLB, [Jaminkan] Aset untuk Pinjaman Sindikasi",
+  "deck": "Sinar Terang Mandiri (MINE) mengundang pemegang saham ke RUPSLB 4 November 2026 untuk menyetujui pergantian direksi, penyesuaian KBLI, dan penjaminan aset untuk pembiayaan sindikasi.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MINE",
+   "RUPSLB",
+   "Sinar Terang Mandiri",
+   "penjaminan aset"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d31716357_f5ad176a90.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tiga-pakta-dagang-buka-potensi-ekspor-us-14-7-miliar",
   "category": "Global",
   "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
@@ -454,6 +470,54 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "gmfi-jadwalkan-rupslb-19-november-bahas-pmhmetd-iii",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Jadwalkan RUPSLB 19 November, Bahas [PMHMETD] III",
+  "deck": "GMF Aero Asia akan menggelar RUPSLB pada 19 November 2026 untuk membahas rencana PMHMETD III, dengan tenggat pendaftaran pemegang saham 27 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "RUPSLB",
+   "PMHMETD",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2034f99fa_e598deebe3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "merk-akui-impairment-rp87-miliar-kontrak-p-g-berakhir-2027",
+  "category": "Aksi Korporasi",
+  "title": "MERK Akui [Impairment] Rp87 Miliar, Kontrak P&G Berakhir 2027",
+  "deck": "Public expose Merck Tbk mengungkap impairment Rp87 miliar akibat berakhirnya kontrak manufaktur dengan P&G pada 2027, di tengah laba semester I 2026 yang melonjak 396 persen.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MERK",
+   "impairment",
+   "public expose",
+   "Merck Tbk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/607d69fcab_c0fe9f1281.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ketr-panggil-rupslb-konfirmasi-pengendali-baru-dari-tender-offer",
+  "category": "Aksi Korporasi",
+  "title": "KETR Panggil RUPSLB, Konfirmasi Pengendali Baru dari [Tender Offer]",
+  "deck": "PT Ketrosden Triasmitra Tbk memanggil RUPSLB pada 12 November 2026 untuk mengonfirmasi pengendali baru pasca penawaran tender sukarela, sekaligus mengubah susunan direksi dan komisaris.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "RUPSLB",
+   "tender offer",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/440b31c7cf_a4531c72a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik",
   "category": "Industri",
   "title": "Hilirisasi RI Geser Fokus ke Industri [Baterai] Listrik",
@@ -506,6 +570,54 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pantau-berjalannya-koperasi-merah-putih-di-sukoharjo-mendag-busan-dan-menko-zulhas-turun-lapangan-bersama",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bltz-bukukan-rugi-rp14-7-miliar-di-kuartal-ii-2026",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ Bukukan [Rugi] Rp14,7 Miliar di Kuartal II 2026",
+  "deck": "Materi paparan publik insidentil BLTZ menunjukkan pendapatan turun 16,6 persen dan laba bersih berbalik jadi rugi Rp14,7 miliar pada kuartal II 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLTZ",
+   "CGV",
+   "paparan publik",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcdbf98de5_c96136098b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "yupi-revisi-laporan-dana-ipo-rp541-miliar-belum-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "YUPI Revisi Laporan Dana IPO, [Rp541 Miliar] Belum Terpakai",
+  "deck": "Yupi mengoreksi laporan dana IPO: baru Rp55,3 miliar modal kerja terealisasi, sisa Rp541,37 miliar masih di deposito menunggu pembangunan pabrik Nganjuk pada 2027.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YUPI",
+   "penggunaan dana IPO",
+   "pasar modal",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d025933ba_b391fceb57.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewa-pastikan-penyajian-ulang-keuangan-tak-langgar-kovenan",
+  "category": "Aksi Korporasi",
+  "title": "DEWA Pastikan Penyajian Ulang Keuangan Tak Langgar [Kovenan]",
+  "deck": "Darma Henwa menjawab permintaan penjelasan Bursa soal penyajian kembali laporan keuangan 2025, menegaskan tak ada dampak ke kewajiban utang di tengah rencana pencatatan efek bersifat utang.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWA",
+   "Darma Henwa",
+   "obligasi",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ed4c1724cb_00e5bea252.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "zp-pastikan-tak-ada-penyesuaian-waran-amrt-usai-dividen-tunai",
@@ -602,6 +714,22 @@ var ARTICLES = [
    "divestasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-6521-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbmf-jadwalkan-rupst-tahunan-pada-4-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "CBMF Jadwalkan RUPST Tahunan pada [4 Desember] 2026",
+  "deck": "PT Cahaya Bintang Medan Tbk (CBMF) menjadwalkan RUPST tahun buku 2025 pada 4 Desember 2026 di Jakarta Selatan, dengan pencatatan pemegang saham pada 27 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBMF",
+   "RUPST",
+   "Cahaya Bintang Medan",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4447198666_26b7b6acb8.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -914,6 +1042,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "daaz-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "DAAZ Jelaskan ke BEI Soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "BEI minta penjelasan soal volatilitas transaksi saham DAAZ. Perseroan sebut tak ada info material baru, hanya mengonfirmasi sukuk wakalah yang efektif 12 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DAAZ",
+   "volatilitas transaksi",
+   "sukuk wakalah",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9938250981_50f8bed0dc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wskt-ekuitas-ambruk-71-pendapatan-melonjak-54-di-q3",
   "category": "Aksi Korporasi",
   "title": "WSKT: [Ekuitas] Ambruk 71%, Pendapatan Melonjak 54% di Q3",
@@ -927,6 +1071,22 @@ var ARTICLES = [
    "konstruksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261013041240-64510-0/FinancialStatement-2026-III-WSKT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "real-lewat-rgst-teken-kso-bangun-perumahan-di-bogor",
+  "category": "Aksi Korporasi",
+  "title": "REAL lewat RGST teken [KSO] bangun perumahan di Bogor",
+  "deck": "Anak usaha REAL, RGST, resmi menandatangani perjanjian kerja sama operasi dengan Riscon Group untuk membangun perumahan Grand Riscon Darmaga di Leuwiliang, Bogor, dengan skema bagi hasil 57:43.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "REAL",
+   "KSO",
+   "properti",
+   "Bogor"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ac3f35af22_467c2c5dae.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6315,166 +6475,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae178c6ed1_7f2448688f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ibst-tender-sukarela-iforte-rampung-503-883-saham-beralih",
-  "category": "Aksi Korporasi",
-  "title": "IBST: [Tender Sukarela] Iforte Rampung, 503.883 Saham Beralih",
-  "deck": "Penawaran tender sukarela Iforte Solusi Infotek atas saham publik Inti Bangun Sejahtera berakhir setelah 90 hari, dengan 503.883 saham dari 135 pemegang saham beralih ke Iforte.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IBST",
-   "tender offer",
-   "Iforte",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/78f2042f7d_d74bae481a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tei-2026-satukan-zona-kopi-teh-dan-kakao-di-ice-bsd",
-  "category": "Bisnis",
-  "title": "TEI 2026 Satukan Zona [Kopi], Teh, dan Kakao di ICE BSD",
-  "deck": "Kementerian Perdagangan menggabungkan kopi, teh, dan kakao dalam satu zona bernama KoTeKa di Trade Expo Indonesia 2026 untuk memudahkan pembeli asing menemukan produk Indonesia.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/kemasan-produk-gudang.jpg",
-  "tags": [
-   "TEI 2026",
-   "Zona KoTeKa",
-   "Ekspor Kopi",
-   "Ekspor Kakao"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tei-2026-siapkan-zona-khusus-kopi-teh-dan-kakao-permudah-buyer-di-area-pameran",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ijee-revisi-laporan-dana-rp742-miliar-masih-di-giro",
-  "category": "Aksi Korporasi",
-  "title": "IJEE Revisi Laporan Dana, Rp742 Miliar Masih di [Giro]",
-  "deck": "Koreksi laporan penggunaan dana obligasi dan sukuk Rp2,5 triliun milik IJEE menunjukkan Rp742,52 miliar per instrumen belum dipakai melunasi utang lama, masih mengendap di giro bank.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IJEE",
-   "obligasi korporasi",
-   "sukuk",
-   "penggunaan dana IPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8c1e0fa5c7_27317bb272.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbss-rombak-direksi-dan-komisaris-lewat-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "MBSS [Rombak] Direksi dan Komisaris Lewat RUPSLB",
-  "deck": "Mitrabahtera Segara Sejati mengganti direktur utama dan komisaris utama lewat RUPSLB 17 September 2026, menyusul pengunduran diri lima pengurus lama.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBSS",
-   "Pergantian Direksi",
-   "Komisaris",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6102bec10f_154bbe290a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-rhb-tegaskan-tak-ada-penyesuaian-waran-untr",
-  "category": "Aksi Korporasi",
-  "title": "DR: RHB Tegaskan [Tak] Ada Penyesuaian Waran UNTR",
-  "deck": "RHB Sekuritas memastikan dua waran terstruktur UNTRDRCX6A dan UNTRDRCH7A tidak disesuaikan, meski UNTR membagikan dividen tunai yang diumumkan 29 September 2026.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "UNTR",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bded562ab8_7a42f7efa8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tira-bantah-punya-informasi-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "TIRA Bantah Punya Informasi Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Merespons permintaan penjelasan BEI soal volatilitas transaksi, Tira Austenite menyatakan tidak mengetahui ada info material maupun rencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TIRA",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/79172ba82b_86c6fbad00.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gula-ungkap-kas-anjlok-73-meski-penjualan-melonjak-121",
-  "category": "Aksi Korporasi",
-  "title": "GULA ungkap kas anjlok 73% meski penjualan [melonjak] 121%",
-  "deck": "GULA jawab permintaan Bursa: kas turun 73,1%, arus kas operasi negatif Rp29,4 miliar, pinjaman BRI nyaris penuh, meski penjualan melonjak 121,69% jadi Rp144,32 miliar.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GULA",
-   "arus kas",
-   "pinjaman bank",
-   "Aman Agrindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7c74c4b424_c185320a12.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-pastikan-tak-ada-penyesuaian-waran-untr-usai-dividen",
-  "category": "Aksi Korporasi",
-  "title": "ZP Pastikan Tak Ada Penyesuaian Waran [UNTR] usai Dividen",
-  "deck": "Maybank Sekuritas Indonesia menyatakan tidak ada penyesuaian pada waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A menyusul dividen tunai United Tractors.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "UNTR",
-   "waran terstruktur",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a90b8f8424_7c0ee4ed07.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "flmc-masuk-pemantauan-khusus-bei-karena-ekuitas-negatif",
-  "category": "Aksi Korporasi",
-  "title": "FLMC Masuk [Pemantauan Khusus] BEI karena Ekuitas Negatif",
-  "deck": "Bursa Efek Indonesia menetapkan saham PT Falmaco Nonwoven Industri Tbk (FLMC) masuk Pemantauan Khusus mulai 7 Oktober 2026 akibat ekuitas negatif pada laporan keuangan terakhir.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FLMC",
-   "pemantauan khusus",
-   "BEI",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9bcc55768f_4d683218b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "opini-disclaimer-cani-tambah-kriteria-pemantauan-khusus",
-  "category": "Aksi Korporasi",
-  "title": "Opini Disclaimer, CANI Tambah Kriteria [Pemantauan Khusus]",
-  "deck": "BEI menambahkan kriteria opini disclaimer pada status pemantauan khusus saham CANI, menyusul ekuitas negatif yang sudah tercatat sebelumnya, efektif 7 Oktober 2026.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CANI",
-   "pemantauan khusus",
-   "BEI",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d89b3b0d8a_12cb4529a2.pdf",
   "sourceLabel": "IDX"
  }
 ];

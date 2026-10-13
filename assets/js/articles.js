@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mine-panggil-rupslb-jaminkan-aset-untuk-pinjaman-sindikasi",
+  "category": "Aksi Korporasi",
+  "title": "MINE Panggil RUPSLB, [Jaminkan] Aset untuk Pinjaman Sindikasi",
+  "deck": "Sinar Terang Mandiri (MINE) mengundang pemegang saham ke RUPSLB 4 November 2026 untuk menyetujui pergantian direksi, penyesuaian KBLI, dan penjaminan aset untuk pembiayaan sindikasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T22:42:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d31716357_f5ad176a90.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MINE",
+  "tags": [
+   "MINE",
+   "RUPSLB",
+   "Sinar Terang Mandiri",
+   "penjaminan aset"
+  ],
+  "body": [
+   "PT Sinar Terang Mandiri Tbk (MINE) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 4 November 2026, pukul 10.00 WIB di The Function Room, Ruang Anggrek 5, Lantai 3A, North Tower, Sampoerna Strategic Square, Jakarta Selatan. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan atau pemilik saldo rekening efek di KSEI per 12 Oktober 2026 hingga pukul 16.00 WIB. Rapat juga bisa diikuti secara elektronik lewat sistem eASY.KSEI. Surat pemanggilan ditandatangani Ivo Wangarry selaku Presiden Direktur Perseroan.",
+   "Ada tiga agenda dalam RUPSLB ini. Pertama, persetujuan perubahan susunan Direksi Perseroan, yang menurut dokumen memang wajib mendapat persetujuan RUPS sesuai Peraturan OJK Nomor 33/POJK.04/2014. Kedua, perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan klasifikasi kegiatan usaha Perseroan dari Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) edisi 2020 ke edisi 2025, sebuah penyesuaian administratif yang mengikuti pembaruan kode klasifikasi usaha oleh pemerintah.",
+   "Agenda ketiga yang paling substansial, perusahaan meminta persetujuan untuk menjaminkan sebagian asetnya dengan nilai lebih dari 50 persen kekayaan bersih Perseroan. Dokumen menyebut penjaminan ini berkaitan dengan rencana memperoleh fasilitas pembiayaan melalui skema sindikasi yang melibatkan beberapa lembaga keuangan sebagai kreditur, sebagai bagian dari struktur jaminan atas kewajiban Perseroan dalam fasilitas tersebut. Nilai nominal fasilitas pembiayaan dan nama kreditur tidak disebutkan dalam dokumen. Bagi pemegang saham yang ingin memberi kuasa, batas pengajuan e-proxy lewat eASY.KSEI adalah 28 Oktober 2026 pukul 12.00 WIB, sementara surat kuasa fisik asli harus diterima Biro Administrasi Efek PT Adimitra Jasa Korpora paling lambat 3 November 2026 pukul 16.00 WIB."
+  ],
+  "fotoAdegan": "Empty corporate meeting hall with rows of chairs facing a stage, morning sunlight through floor to ceiling windows, Jakarta office tower view",
+  "takeaway": "Laporan ini condong netral karena dua dari tiga agenda bersifat prosedural, perubahan direksi lewat mekanisme baku dan penyesuaian kode klasifikasi usaha, sementara agenda penjaminan aset belum bisa dinilai arahnya karena nilai pinjaman dan nama krediturnya tidak diungkap. Yang tersentuh di sini adalah aset dan ekuitas Perseroan, karena begitu sebagian aset dijadikan agunan, aset itu terikat dan tidak bebas dijual atau dipakai sampai utang ke sindikasi kreditur lunas, dan biasanya fasilitas pembiayaan baru juga menambah beban bunga yang mengurangi laba bersih ke depan. Investor perlu menunggu hasil pemungutan suara di RUPSLB pada 4 November 2026 serta keterbukaan lanjutan soal nilai dan syarat fasilitas pembiayaan sindikasi itu, karena di situlah baru terlihat seberapa besar beban yang sebenarnya ditanggung Perseroan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tiga-pakta-dagang-buka-potensi-ekspor-us-14-7-miliar",
   "category": "Global",
   "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
@@ -738,6 +764,84 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "gmfi-jadwalkan-rupslb-19-november-bahas-pmhmetd-iii",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Jadwalkan RUPSLB 19 November, Bahas [PMHMETD] III",
+  "deck": "GMF Aero Asia akan menggelar RUPSLB pada 19 November 2026 untuk membahas rencana PMHMETD III, dengan tenggat pendaftaran pemegang saham 27 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T17:24:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2034f99fa_e598deebe3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GMFI",
+  "tags": [
+   "GMFI",
+   "RUPSLB",
+   "PMHMETD",
+   "rights issue"
+  ],
+  "body": [
+   "PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 19 November 2026 pukul 10.00 WIB, di Ruang Auditorium Gedung Manajemen Garuda, Lantai Dasar, Garuda City, Tangerang. Berdasarkan nama lampiran dokumen, RUPSLB ini akan membahas Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD) III, mekanisme rights issue yang sebelumnya dilaporkan perseroan berupa penerbitan 22,03 miliar saham baru.",
+   "Pemanggilan resmi RUPSLB, yang memuat mata acara rapat secara lengkap, baru akan diumumkan pada 28 Oktober 2026 melalui situs web perseroan, situs Bursa Efek Indonesia, dan sistem eASY.KSEI. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham pada Selasa, 27 Oktober 2026 sampai pukul 16.00 WIB, termasuk yang memegang saham lewat sub rekening efek KSEI pada penutupan perdagangan di hari yang sama.",
+   "Perseroan juga membuka kesempatan bagi pemegang saham pengendali atau pemegang saham yang mewakili minimal 1/20 dari total saham berhak suara untuk mengusulkan mata acara RUPSLB. Usulan itu harus disampaikan tertulis kepada Direksi paling lambat 21 Oktober 2026, atau tujuh hari sebelum pemanggilan resmi. Surat pemberitahuan ini ditandatangani secara elektronik oleh Rian Fajar Isnaeni, VP Corporate Secretary & Legal GMFI."
+  ],
+  "fotoAdegan": "Aircraft maintenance technicians working beneath a wide-body jet inside a large hangar, tools nearby, bright industrial lighting.",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental GMFI untuk saat ini, karena isinya baru soal jadwal dan tata cara rapat, belum ada keputusan, harga pelaksanaan, atau rincian dana dari rencana PMHMETD III yang dibahas di dalamnya. Yang disentuh justru jumlah saham beredar, yaitu total lembar saham perseroan yang ada di pasar, karena RUPSLB ini akan menentukan nasib rencana penerbitan 22,03 miliar saham baru yang bisa menggelembungkan jumlah saham beredar dan menekan laba per saham jika disetujui dan terlaksana. Pelaku pasar perlu mencermati bahwa hak mengusulkan mata acara rapat ditutup 21 Oktober 2026, pemanggilan resmi RUPSLB baru keluar 28 Oktober 2026, dan keputusan final soal PMHMETD III ditentukan di RUPSLB pada 19 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "merk-akui-impairment-rp87-miliar-kontrak-p-g-berakhir-2027",
+  "category": "Aksi Korporasi",
+  "title": "MERK Akui [Impairment] Rp87 Miliar, Kontrak P&G Berakhir 2027",
+  "deck": "Public expose Merck Tbk mengungkap impairment Rp87 miliar akibat berakhirnya kontrak manufaktur dengan P&G pada 2027, di tengah laba semester I 2026 yang melonjak 396 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T17:23:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/607d69fcab_c0fe9f1281.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MERK",
+  "tags": [
+   "MERK",
+   "impairment",
+   "public expose",
+   "Merck Tbk"
+  ],
+  "body": [
+   "PT Merck Tbk menggelar Public Expose Tahunan pada 8 Oktober 2026 di kantor perusahaan di Pasar Rebo, Jakarta Timur, dihadiri 28 peserta dari media, pemegang saham, dan publik di luar jajaran manajemen. Acara dimoderatori Corporate Secretary Melisa Sandrianti, dengan Direktur Keuangan Bambang Nurcahyo dan Direktur Plant Arryo Aritrixso Teguh Putranto Wachjuwidajat sebagai pembicara. Dalam sesi tersebut, manajemen menjelaskan pencatatan beban penurunan nilai aset atau impairment senilai Rp87 miliar di pabrik Pasar Rebo, yang dipicu oleh berakhirnya Manufacturing Service Agreement dengan P&G. Kontrak itu diteken 1 September 2026 dan akan berakhir 31 Desember 2027, padahal produk P&G saat ini menyumbang sekitar 80 persen volume produksi pabrik. Impairment dibukukan pada September 2026 agar tercermin dalam laporan keuangan kuartal ketiga 2026, namun Bambang menegaskan angka tersebut belum diaudit dan akan diverifikasi oleh auditor independen Deloitte pada Desember 2026.",
+   "Di sisi lain, manajemen memaparkan bahwa laba bersih semester I 2026 tumbuh 396 persen secara tahunan, hampir empat kali lipat dibanding periode yang sama tahun sebelumnya. Rasio utang terhadap ekuitas tercatat 0,27 kali, rasio lancar 5 kali, return on assets 9,10 persen, dan return on equity 11,59 persen. Manajemen menekankan bahwa pencatatan impairment adalah langkah akuntansi yang mencerminkan perubahan prospek bisnis setelah kontrak P&G usai, bukan gambaran menyeluruh kesehatan keuangan perusahaan, dan menyatakan tetap optimistis dapat membagikan dividen kepada pemegang saham meski ada beban tambahan pada semester II 2026.",
+   "Untuk menopang bisnis setelah kontrak P&G berakhir, Merck berencana memperluas ekspor produk Glucophage XR, Glucophage IR, Glucovance, dan Concor. Pada 2026 ekspansi diarahkan ke Filipina untuk Glucovance, lalu pada 2027-2029 menyasar Hong Kong, Singapura, Brunei, Malaysia, dan Thailand. Perseroan juga menyiapkan peluncuran obat kanker paru Tepmetko, sementara produk dari akuisisi SpringWorks oleh Merck KGaA pada 1 Juli 2025 masih menunggu business case sebelum bisa dipasarkan di Indonesia, dengan peluncuran diperkirakan belum terjadi pada 2026 maupun 2027. Terkait ketergantungan bahan baku, sekitar 45-50 persen bahan baku Perseroan masih diimpor, dengan produk healthcare mengimpor sekitar 80 persen bahan baku dari Prancis, Swiss, dan Jerman, sementara produk P&G mengimpor 75-80 persen terutama dari Tiongkok. Manajemen menyebut pengelolaan risiko nilai tukar dilakukan terpusat oleh tim treasury Merck Group di Jerman, bukan di tingkat lokal."
+  ],
+  "fotoAdegan": "Pharmaceutical workers in sterile uniforms monitoring tablet packaging machines inside a bright factory hall in Indonesia",
+  "takeaway": "Laporan ini condong negatif karena mengungkap pencatatan impairment Rp87 miliar sekaligus kepastian hilangnya kontrak manufaktur dengan P&G yang selama ini menyumbang sekitar 80 persen volume produksi pabrik Pasar Rebo, sementara lonjakan laba semester I 2026 belum tentu mencerminkan kondisi setelah kontrak itu berakhir pada akhir 2027. Impairment adalah pengakuan bahwa nilai sebagian aset perusahaan, dalam hal ini pabrik, sudah tidak sebesar yang tercatat sebelumnya, sehingga langsung memotong ekuitas atau modal perusahaan di laporan keuangan tanpa ada uang yang benar-benar keluar. Pelaku pasar memperhatikan pos ekuitas dan arus kas pabrik ini karena keduanya menggambarkan seberapa kuat fondasi perusahaan menanggung penurunan utilisasi begitu kontrak besar hilang, meski rasio utang dan likuiditas Merck saat ini masih tergolong sehat. Yang perlu dipantau berikutnya adalah hasil audit independen oleh Deloitte yang dijadwalkan Desember 2026, sebab angka impairment Rp87 miliar dalam public expose ini masih berstatus belum diaudit, serta laporan keuangan semester II 2026 yang untuk pertama kalinya akan memasukkan beban tersebut secara resmi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ketr-panggil-rupslb-konfirmasi-pengendali-baru-dari-tender-offer",
+  "category": "Aksi Korporasi",
+  "title": "KETR Panggil RUPSLB, Konfirmasi Pengendali Baru dari [Tender Offer]",
+  "deck": "PT Ketrosden Triasmitra Tbk memanggil RUPSLB pada 12 November 2026 untuk mengonfirmasi pengendali baru pasca penawaran tender sukarela, sekaligus mengubah susunan direksi dan komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T17:12:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/440b31c7cf_a4531c72a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "RUPSLB",
+   "tender offer",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Ketrosden Triasmitra Tbk (KETR) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 12 November 2026 pukul 09.30 WIB di Rosewood Room, Royal Kuningan Hotel, Jakarta Selatan. Pemegang saham juga bisa hadir secara elektronik lewat sistem eASY.KSEI milik Kustodian Sentral Efek Indonesia. Yang berhak hadir adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 12 Oktober 2026 pukul 16.00 WIB.",
+   "Agenda pertama rapat adalah konfirmasi pengendali Perseroan yang baru, sebagai akibat dari pelaksanaan Penawaran Tender Sukarela yang sudah berjalan. Perseroan menyebut konfirmasi ini diperlukan untuk keperluan pelaporan ke Kementerian Hukum Republik Indonesia. Agenda kedua meminta persetujuan rapat atas perubahan susunan Direksi dan Dewan Komisaris, sesuai Pasal 13 ayat 8 dan Pasal 16 ayat 6 Anggaran Dasar Perseroan yang memang mensyaratkan pengangkatan dan pemberhentian direksi serta komisaris lewat RUPS. Dokumen pemanggilan ini tidak menyebut nama calon pengendali baru maupun susunan direksi dan komisaris yang akan diajukan.",
+   "Agenda ketiga adalah persetujuan perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan nomenklatur kegiatan usaha dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 yang baru terbit. Perseroan menegaskan perubahan ini hanya menyangkut penyesuaian kode dan uraian, bukan penambahan atau pengurangan kegiatan usaha. Bagi pemegang saham yang ingin memberi kuasa tertulis, surat kuasa harus disampaikan ke PT Adimitra Jasa Korpora selaku Biro Administrasi Efek paling lambat Jumat, 6 November 2026, sedangkan e-proxy atau instruksi suara lewat eASY.KSEI dibuka sampai Rabu, 11 November 2026 pukul 12.00 WIB."
+  ],
+  "fotoAdegan": "Technicians inspecting large spools of undersea fiber-optic cable on a dockside, overcast harbor in the background",
+  "takeaway": "Laporan ini netral bagi fundamental KETR, karena isinya baru memanggil rapat, belum memutuskan apa pun, dan tidak ada angka keuangan yang berubah dari sini. Yang tersentuh adalah hak suara dan kendali perusahaan, karena agenda pertama justru mengonfirmasi bahwa pengendali Perseroan sudah berganti lewat penawaran tender sukarela, sebuah proses beli saham terbuka dari pemegang lama ke pihak baru, dan pergantian pengendali biasanya diikuti perubahan arah strategi lewat direksi dan komisaris baru yang juga diusulkan di agenda kedua. Yang perlu dipantau adalah hasil RUPSLB pada 12 November 2026, terutama siapa yang dikonfirmasi sebagai pengendali baru dan siapa susunan direksi-komisaris yang disetujui, karena dokumen pemanggilan ini belum mengungkap nama-namanya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik",
   "category": "Industri",
   "title": "Hilirisasi RI Geser Fokus ke Industri [Baterai] Listrik",
@@ -820,6 +924,86 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah hari ini adalah pemerintah mulai mengecek langsung apakah koperasi desa yang sudah dibangun benar-benar berjalan, bukan sekadar memeriksa apakah bangunannya sudah ada. Ada satu temuan menarik dari kunjungan ini, koperasi Menuran sudah buka sejak Juni, tapi manajernya baru ditugaskan awal Oktober, jadi selama sekitar empat bulan koperasi berjalan tanpa pengelola tetap. Yang kena dampak langsung adalah warga desa yang berbelanja beras dan minyak goreng subsidi di koperasi itu, serta pelaku usaha kecil dan petani setempat yang diharapkan bisa menjual produknya lewat koperasi tersebut. Pola ini mengarah ke tahap pembenahan operasional, pemerintah sepertinya sedang menambal kekurangan tenaga pengelola dan kelengkapan stok di koperasi yang sudah berdiri, sebelum bicara penambahan jumlah koperasi baru. Yang akan memastikan arah ini adalah apakah sisa dari 107 koperasi yang sudah beroperasi itu juga sudah punya manajer tetap dan stok lengkap begitu pemerintah merampungkan rangkaian pemantauannya ke titik-titik lain.",
   "imageV": "mv6j27cm"
+ },
+ {
+  "slug": "bltz-bukukan-rugi-rp14-7-miliar-di-kuartal-ii-2026",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ Bukukan [Rugi] Rp14,7 Miliar di Kuartal II 2026",
+  "deck": "Materi paparan publik insidentil BLTZ menunjukkan pendapatan turun 16,6 persen dan laba bersih berbalik jadi rugi Rp14,7 miliar pada kuartal II 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T17:07:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcdbf98de5_c96136098b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLTZ",
+  "tags": [
+   "BLTZ",
+   "CGV",
+   "paparan publik",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Graha Layar Prima Tbk (BLTZ), operator bioskop CGV, menyampaikan materi paparan publik insidentil melalui surat bernomor 062/GLP/DIR/X/2026 tertanggal 13 Oktober 2026, ditandatangani Corporate Secretary Yang Cheolung. Surat ini merujuk pada pemberitahuan rencana paparan publik insidentil yang disampaikan perseroan sehari sebelumnya, 12 Oktober 2026. Materi yang dilampirkan memuat kinerja operasional dan keuangan kuartal II 2026, rencana kerja 2027, serta pernyataan soal informasi material.",
+   "Dari sisi neraca, total aset perseroan turun dari Rp1,84 triliun pada kuartal II 2025 menjadi Rp1,72 triliun pada kuartal II 2026, sementara liabilitas turun dari Rp1,43 triliun menjadi Rp1,28 triliun. Ekuitas justru naik dari Rp412,86 miliar menjadi Rp436,00 miliar, membuat rasio utang terhadap ekuitas mengecil dari 3,47 kali menjadi 2,95 kali. Namun dari sisi laba rugi, pendapatan turun 16,6 persen dari Rp614,77 miliar menjadi Rp512,41 miliar, dengan pendapatan bioskop turun dari Rp386,12 miliar menjadi Rp310,83 miliar dan pendapatan makanan-minuman turun dari Rp193,94 miliar menjadi Rp161,41 miliar. Hanya pendapatan dari acara dan iklan yang naik, dari Rp34,71 miliar menjadi Rp40,17 miliar. Laba operasi tergerus dari Rp85,79 miliar menjadi Rp38,47 miliar, membuat margin operasi turun dari 13,95 persen menjadi 7,51 persen, dan laba bersih berbalik dari untung Rp25,22 miliar menjadi rugi Rp14,73 miliar.",
+   "Dari sisi operasional, dokumen menyebut film-film dengan penonton terbanyak sepanjang 2026 sejauh ini adalah Ghost in the Cell yang tayang 16 April 2026 dengan 542.000 penonton, Tunggu Aku Sukses Nanti yang tayang 18 Maret 2026 dengan 514.000 penonton, dan Danur: The Last Chapter yang tayang di tanggal yang sama dengan 498.000 penonton. Dua judul lain yang disebut adalah Sekawan Limo 2: Gunung Klawih (27 Mei 2026) dengan 326.000 penonton dan Alas Roban (15 Januari 2026) dengan 259.000 penonton. Perseroan juga mencatat pembukaan layar SCREENX baru di CGV 23 Paskal Bandung dan ekspansi jaringan di CGV Pakuwon Mall Yogyakarta.",
+   "Perseroan menegaskan bahwa sampai dengan tanggal dokumen ini, belum ada informasi atau fakta material lain yang belum disampaikan ke publik, dan seluruh informasi yang wajib diumumkan ke pemegang saham sejauh ini sudah disampaikan lewat keterbukaan informasi di situs OJK dan BEI. Paparan publik insidentil ini merupakan kelanjutan dari pemberitahuan yang terbit sehari sebelumnya, menyusul suspensi perdagangan saham BLTZ oleh BEI."
+  ],
+  "fotoAdegan": "Moviegoers buying popcorn and drinks at a cinema concession counter, warm interior lighting, wide angle shot",
+  "takeaway": "Laporan ini condong negatif bagi BLTZ karena pendapatan kuartal II 2026 turun 16,6 persen dan laba bersih berbalik dari untung Rp25,22 miliar menjadi rugi Rp14,73 miliar, dengan margin operasi yang menyusut dari 13,95 persen menjadi 7,51 persen. Pos yang ikut tersentuh adalah ekuitas dan rasio utang: justru keduanya membaik, ekuitas naik jadi Rp436 miliar dan rasio utang terhadap ekuitas mengecil dari 3,47 kali menjadi 2,95 kali, sehingga meski bisnis inti melemah, beban utang dibanding modal sendiri perseroan berkurang. Pelaku pasar biasanya mencermati pos laba bersih dan margin operasi karena itu langsung memengaruhi laba per saham dan menunjukkan apakah tekanan ada di bisnis utama, dalam kasus ini pendapatan bioskop dan makanan-minuman yang sama-sama turun. Yang perlu dipantau berikutnya adalah apakah suspensi perdagangan saham BLTZ oleh BEI, yang menjadi alasan paparan publik insidentil ini digelar, akan dicabut setelah manajemen menjelaskan kinerja kuartal II ini kepada otoritas dan publik. Realisasi rencana kerja 2027 yang disinggung dalam materi juga layak dicermati sebagai indikator apakah tren penurunan pendapatan bisa dibalik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "yupi-revisi-laporan-dana-ipo-rp541-miliar-belum-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "YUPI Revisi Laporan Dana IPO, [Rp541 Miliar] Belum Terpakai",
+  "deck": "Yupi mengoreksi laporan dana IPO: baru Rp55,3 miliar modal kerja terealisasi, sisa Rp541,37 miliar masih di deposito menunggu pembangunan pabrik Nganjuk pada 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T17:02:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d025933ba_b391fceb57.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YUPI",
+  "tags": [
+   "YUPI",
+   "penggunaan dana IPO",
+   "pasar modal",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Yupi Indo Jelly Gum Tbk (YUPI) mengoreksi laporan penggunaan dana hasil penawaran umumnya, menggantikan surat sebelumnya nomor 108/YUP-FIN/VII/2026 tertanggal 15 Juli 2026. Laporan baru ini diteken Direktur Keuangan Rusman Apandi dan menyebutkan dana bersih yang diperoleh dari IPO saham, yang efektif 18 Maret 2025, sebesar Rp596.674.384.052, setelah dipotong biaya penawaran umum Rp15.965.548.948 dari dana kotor Rp612.639.933.000.",
+   "Dari rencana penggunaan dana di prospektus, 72 persen atau Rp429.605.556.517 dialokasikan untuk belanja modal, yakni pembangunan pabrik baru di Nganjuk yang menurut dokumen ini baru akan dimulai pada 2027. Sisanya, 28 persen atau Rp167.068.827.535, dialokasikan untuk modal kerja ekspansi pasar internasional dan domestik lewat entitas anak. Dari porsi modal kerja itu, perseroan sudah merealisasikan Rp55.300.000.000, setara 9,27 persen dari total dana bersih IPO.",
+   "Sisa dana sebesar Rp541.374.384.052, atau 91,83 persen dari dana bersih, saat ini ditempatkan dalam bentuk tabungan atau giro dan deposito berjangka satu sampai tiga bulan di empat bank, yaitu Bank Panin, Bank BTPN Syariah, Bank CTBC, dan Bank OCBC Syariah, dengan bunga berkisar 0 sampai 6,25 persen per tahun. Seluruh penempatan ini berada di pihak ketiga tanpa hubungan afiliasi dengan perseroan.",
+   "Dari sisi biaya, total biaya penawaran umum Rp15.965.548.948 itu paling banyak terpakai untuk jasa profesi penunjang pasar modal sebesar 53,12 persen, diikuti jasa penjaminan emisi 23,02 persen, jasa penyelenggaraan dan jasa penjualan masing-masing 4,32 persen, jasa lembaga penunjang pasar modal 7,44 persen, jasa konsultasi keuangan 6,22 persen, dan biaya lain-lain 1,57 persen."
+  ],
+  "fotoAdegan": "Workers in hairnets packaging colorful gummy candies on a conveyor belt inside a food factory, bright lighting",
+  "takeaway": "Laporan ini netral bagi Yupi. Realisasi dana baru menyentuh pos modal kerja untuk ekspansi pasar, sementara porsi terbesar, belanja modal untuk pabrik baru di Nganjuk, memang dijadwalkan baru dimulai pada 2027, sehingga angka realisasi nol persen saat ini bukan tanda keterlambatan dibanding rencana awal. Pos yang tersentuh adalah kas dan ekuitas perusahaan: dana Rp541,37 miliar yang masih mengendap di tabungan dan deposito menambah kas jangka pendek serta memberi bunga 0 sampai 6,25 persen per tahun, tapi juga berarti dana itu belum bekerja untuk ekspansi bisnis yang dijanjikan ke investor saat IPO. Yang perlu dipantau berikutnya adalah realisasi pembangunan pabrik Nganjuk begitu dimulai pada 2027, karena saat itu porsi 72 persen dana IPO yang kini masih berupa deposito akan mulai berpindah jadi aset tetap, dan laporan penggunaan dana berikutnya akan menunjukkan apakah jadwal tersebut tetap dipegang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dewa-pastikan-penyajian-ulang-keuangan-tak-langgar-kovenan",
+  "category": "Aksi Korporasi",
+  "title": "DEWA Pastikan Penyajian Ulang Keuangan Tak Langgar [Kovenan]",
+  "deck": "Darma Henwa menjawab permintaan penjelasan Bursa soal penyajian kembali laporan keuangan 2025, menegaskan tak ada dampak ke kewajiban utang di tengah rencana pencatatan efek bersifat utang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T16:49:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ed4c1724cb_00e5bea252.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWA",
+  "tags": [
+   "DEWA",
+   "Darma Henwa",
+   "obligasi",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Darma Henwa Tbk (DEWA) mengirim surat penjelasan kepada Bursa Efek Indonesia menanggapi permintaan penjelasan bernomor S-12861/BEI.PP1/10-2026 tanggal 9 Oktober 2026. Surat bertanggal 13 Oktober 2026 itu ditandatangani Mukson Arif Rosyidi selaku Direktur sekaligus Corporate Secretary, menjawab pertanyaan bursa soal penyajian kembali laporan keuangan konsolidasian untuk tahun yang berakhir 31 Desember 2025, dengan angka pembanding periode 31 Desember 2024 dan 1 Januari 2024/31 Desember 2023 ikut disesuaikan secara retrospektif. Persoalan ini muncul setelah DEWA sebelumnya mengajukan permohonan pencatatan efek bersifat utang lewat surat tanggal 6 Oktober 2026, yang berarti perusahaan tengah menyiapkan penerbitan instrumen utang seperti obligasi.",
+   "Dalam jawabannya, DEWA menjelaskan penyajian kembali dilakukan untuk memisahkan secara lebih rinci komponen kinerja operasional dan non-operasional perusahaan, bukan untuk mengoreksi kesalahan pencatatan sebelumnya. Perusahaan menegaskan perubahan cara penyajian ini tidak mengubah total ekuitas, total aset, maupun total liabilitas yang sudah dilaporkan. DEWA juga memastikan penyajian kembali tidak berdampak pada pemenuhan kewajiban, rasio keuangan, maupun syarat perjanjian utang (kovenan) yang selama ini dihitung berdasarkan laporan keuangan versi lama.",
+   "Soal langkah komunikasi ke investor, DEWA menyebut sudah menyampaikan keterbukaan informasi terkait penyajian kembali ini lewat surat nomor S-60/PTDH/SEK/X/2026 pada 6 Oktober 2026, yang membahas laporan keuangan interim per 30 Juni 2026 beserta laporan auditor independen. Perusahaan juga menyatakan sampai saat surat ini dikirim tidak ada informasi atau fakta material lain yang belum disampaikan ke bursa, dan berjanji akan segera mengumumkannya ke publik serta bursa jika ada."
+  ],
+  "fotoAdegan": "Heavy excavators loading coal onto haul trucks at a surface mine in Kalimantan, dust hanging in early morning light",
+  "takeaway": "Laporan ini cenderung netral mengarah positif bagi DEWA, karena perusahaan secara eksplisit memastikan penyajian ulang laporan keuangannya tidak memicu pelanggaran kovenan, yaitu syarat-syarat yang mengikat perusahaan ke pemberi pinjaman atau calon pembeli obligasi, semacam batas minimum rasio keuangan yang kalau dilanggar bisa memicu denda atau kewajiban pelunasan dipercepat. Pos yang tersentuh hanya cara pengelompokan komponen kinerja operasional dan non-operasional, bukan ekuitas, aset, atau liabilitas itu sendiri, sehingga secara fundamental tidak ada yang berubah. Yang perlu dipantau selanjutnya adalah kelanjutan permohonan pencatatan efek bersifat utang yang diajukan DEWA sejak 6 Oktober 2026, karena konfirmasi bebas kovenan ini kemungkinan menjadi salah satu syarat agar proses pencatatan obligasi tersebut bisa berjalan ke tahap berikutnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "zp-pastikan-tak-ada-penyesuaian-waran-amrt-usai-dividen-tunai",
@@ -974,6 +1158,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers packaging cosmetic and personal care products on a factory assembly line, bright fluorescent lighting, Indonesia",
   "takeaway": "Laporan ini condong negatif bagi VICI, karena pemegang saham pengendalinya melepas blok saham signifikan senilai sekitar Rp301,86 miliar, sesuatu yang pasar biasanya baca sebagai berkurangnya keyakinan jangka pendek pihak dalam terhadap sahamnya sendiri, meski kendali perusahaan belum berpindah tangan. Transaksi ini adalah pengalihan saham lama antarpihak, bukan penerbitan saham baru, sehingga tidak menambah kas ke perusahaan maupun mengubah jumlah saham beredar atau laba per saham VICI, yang bergeser murni peta kendali lewat hak suara pelapor yang turun dari 84,95 persen menjadi 78,95 persen. Pelaku pasar mencermati pergeseran hak suara semacam ini karena bisa mengubah dinamika pengambilan suara di rapat pemegang saham ke depan, walau di sini pelapor masih memegang mayoritas mutlak di atas 75 persen. Yang perlu dipantau berikutnya adalah apakah SUKSES SEJATI SEJAHTERA kembali melaporkan pelepasan saham lanjutan, karena aturan OJK mewajibkan pelaporan setiap kali ada perubahan kepemilikan, serta apakah pergeseran ini beririsan dengan agenda RUPSLB VICI yang pekan lalu juga memproses pengunduran diri tiga komisaris.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "cbmf-jadwalkan-rupst-tahunan-pada-4-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "CBMF Jadwalkan RUPST Tahunan pada [4 Desember] 2026",
+  "deck": "PT Cahaya Bintang Medan Tbk (CBMF) menjadwalkan RUPST tahun buku 2025 pada 4 Desember 2026 di Jakarta Selatan, dengan pencatatan pemegang saham pada 27 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T15:04:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4447198666_26b7b6acb8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBMF",
+  "tags": [
+   "CBMF",
+   "RUPST",
+   "Cahaya Bintang Medan",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Cahaya Bintang Medan Tbk (CBMF) mengumumkan akan menggelar Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku yang berakhir 31 Desember 2025. Rapat dijadwalkan pada Jumat, 4 Desember 2026, pukul 12.00 sampai 13.00 WIB, di Antasari Place, Jalan Pangeran Antasari No. 45, Cilandak Barat, Jakarta Selatan. Pengumuman ini ditandatangani oleh Direktur Utama CBMF, Andre William, pada 13 Oktober 2026.",
+   "Perseroan menetapkan Selasa, 27 Oktober 2026 pukul 16.00 WIB sebagai batas waktu pencatatan pemegang saham yang berhak hadir atau diwakili dalam rapat. Artinya, hanya investor yang namanya tercatat di Daftar Pemegang Saham pada tanggal dan jam tersebut yang punya hak suara di RUPST ini. Surat pemanggilan resmi yang memuat agenda rapat akan diumumkan melalui situs Bursa Efek Indonesia dan Kustodian Sentral Efek Indonesia (KSEI) pada Rabu, 28 Oktober 2026. Pemegang saham yang mewakili paling sedikit 5 persen dari seluruh saham Perseroan berhak mengusulkan mata acara rapat, dengan syarat usulan itu sudah diterima Direksi paling lambat 7 hari kalender sebelum pemanggilan rapat, atau sekitar 21 Oktober 2026.",
+   "Rapat akan digelar secara fisik maupun elektronik. Pemegang saham yang memilih hadir secara elektronik dapat memberikan suara melalui sistem Electronic General Meeting System (eASY.KSEI) milik KSEI, atau memberi kuasa elektronik (e-proxy) kepada PT Adimitra Jasa Korpora, pihak independen yang ditunjuk Perseroan untuk menghadiri dan memberikan suara dalam rapat. Mekanisme teknis pemberian kuasa dan prosedur kehadiran akan dijelaskan lebih rinci dalam surat pemanggilan rapat."
+  ],
+  "fotoAdegan": "Modern office lobby interior in a Jakarta business district building, marble floors, soft morning light through tall glass windows",
+  "takeaway": "Pengumuman ini bersifat netral karena hanya memberitahukan jadwal dan prosedur RUPST, belum ada keputusan konkret soal dividen, penggunaan laba, atau perubahan susunan pengurus yang bisa menggerakkan kinerja Perseroan. RUPST nanti biasanya jadi forum yang menentukan pos-pos seperti pembagian laba ke pemegang saham dan persetujuan laporan tahunan, yang pada akhirnya bisa memengaruhi ekuitas dan laba per saham, tetapi agenda resminya belum diumumkan dalam surat ini. Yang perlu dipantau pelaku pasar adalah surat pemanggilan rapat pada 28 Oktober 2026, karena di situlah agenda dan usulan keputusan RUPST baru akan dirinci, serta hasil RUPST itu sendiri pada 4 Desember 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "mark-jadwalkan-rupslb-pada-19-november-2026",
@@ -1472,6 +1682,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "daaz-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "DAAZ Jelaskan ke BEI Soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "BEI minta penjelasan soal volatilitas transaksi saham DAAZ. Perseroan sebut tak ada info material baru, hanya mengonfirmasi sukuk wakalah yang efektif 12 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T11:01:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9938250981_50f8bed0dc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DAAZ",
+  "tags": [
+   "DAAZ",
+   "volatilitas transaksi",
+   "sukuk wakalah",
+   "BEI"
+  ],
+  "body": [
+   "PT Daaz Bara Lestari Tbk (DAAZ) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-12729/BEI.PP3/10-2026 terkait volatilitas transaksi efek perseroan. Dalam surat balasan bernomor 094/DIR-X/2026 tertanggal 13 Oktober 2026, manajemen menyatakan tidak memiliki informasi atau fakta material yang belum diungkapkan ke publik, baik berdasarkan Peraturan OJK 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan I-E BEI. Perseroan juga menegaskan tidak mengetahui adanya aktivitas tertentu dari pemegang saham sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan dan penjaminan saham.",
+   "Terkait rencana tindakan korporasi dalam tiga bulan mendatang, DAAZ menyebut telah melaksanakan Penawaran Umum Sukuk Wakalah Daaz Bara Lestari I Tahun 2026, yang dinyatakan efektif pada 12 Oktober 2026, sehari sebelum surat ini diterbitkan. Perseroan tidak mencantumkan rencana korporasi lain selain penerbitan sukuk tersebut.",
+   "Pada poin lainnya, perseroan menyatakan pemegang saham utama saat ini belum memiliki rencana apa pun terkait kepemilikan sahamnya di DAAZ. Surat ini ditandatangani oleh Yulianti selaku Chief of Investor Relations, dikirim pada 13 Oktober 2026 pukul 11.01 WIB."
+  ],
+  "fotoAdegan": "Office workers crossing a busy Jakarta business district street at dusk, modern glass towers glowing, traffic light trails blurred in foreground",
+  "takeaway": "Kami nilai surat ini netral bagi fundamental Daaz Bara Lestari, karena isinya hanya konfirmasi rutin bahwa tidak ada informasi tersembunyi, dan menegaskan ulang sukuk yang sudah efektif sejak 12 Oktober 2026 tanpa angka atau rencana baru. Pos yang tersentuh ada di sisi utang: sukuk wakalah menambah kewajiban yang harus dibayar perseroan secara berkala, sehingga arus kas ke depan sebagian akan terpakai untuk membayar imbal hasil kepada pemegang sukuk. Konfirmasi bahwa pemegang saham utama belum punya rencana apa pun juga berarti struktur kendali dan hak suara di perseroan untuk saat ini tidak berubah. Yang perlu dipantau berikutnya adalah apakah Bursa Efek Indonesia menindaklanjuti dengan status pemantauan khusus atas volatilitas transaksi saham DAAZ, serta jadwal pembayaran imbal hasil sukuk wakalah yang baru efektif sejak 12 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wskt-ekuitas-ambruk-71-pendapatan-melonjak-54-di-q3",
   "category": "Aksi Korporasi",
   "title": "WSKT: [Ekuitas] Ambruk 71%, Pendapatan Melonjak 54% di Q3",
@@ -1496,6 +1732,32 @@ var ARTICLES = [
   "fotoAdegan": "Elevated toll road construction site with concrete pillars and cranes under overcast sky, workers in safety vests on scaffolding",
   "takeaway": "Laporan ini condong negatif bagi Waskita, karena meski pendapatannya naik 53,7 persen, modal yang menjadi penyangga perusahaan dari kerugian malah menyusut 71,7 persen hanya dalam sembilan bulan dan kas di tangan tergerus dua pertiga. Ekuitas adalah selisih antara aset dan utang, semacam bantal pengaman kalau perusahaan terus merugi; ketika bantal itu menipis secepat ini, dan bagian yang menjadi hak pemegang saham induk malah defisit makin dalam dari Rp1,03 triliun jadi Rp3,34 triliun, ruang Waskita untuk menanggung kerugian lanjutan kian sempit. Pergeseran utang jangka pendek ke jangka panjang yang terlihat di laporan ini juga berarti sebagian jatuh tempo pembayaran digeser ke tahun-tahun mendatang, bukan dilunasi tunai. Yang perlu dipantau berikutnya adalah laporan tahunan teraudit periode penuh 2026 yang biasanya terbit sekitar Maret 2027, serta kelanjutan proses restrukturisasi utang ini, mengingat saham WSKT masih berstatus Pemantauan Khusus di bursa.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "real-lewat-rgst-teken-kso-bangun-perumahan-di-bogor",
+  "category": "Aksi Korporasi",
+  "title": "REAL lewat RGST teken [KSO] bangun perumahan di Bogor",
+  "deck": "Anak usaha REAL, RGST, resmi menandatangani perjanjian kerja sama operasi dengan Riscon Group untuk membangun perumahan Grand Riscon Darmaga di Leuwiliang, Bogor, dengan skema bagi hasil 57:43.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:40:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ac3f35af22_467c2c5dae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "REAL",
+  "tags": [
+   "REAL",
+   "KSO",
+   "properti",
+   "Bogor"
+  ],
+  "body": [
+   "PT Repower Asia Indonesia Tbk (REAL) melaporkan bahwa entitas anak terkendalinya, PT Repower Global Sinergitama (RGST), telah menandatangani Perjanjian Kerja Sama Operasi (KSO) dengan PT Ardias Bayu Pratama yang beroperasi dengan nama Riscon Group. Penandatanganan pada 13 Oktober 2026 ini merupakan tindak lanjut dari nota kesepahaman yang sebelumnya sudah diteken kedua pihak. Kerja sama ini diberi nama KSO RGST - Riscon Group dan dibentuk tanpa mendirikan badan hukum baru, untuk membangun dan mengembangkan kawasan perumahan Grand Riscon Darmaga di Leuwiliang, Kabupaten Bogor, Jawa Barat.",
+   "Proyek ini akan mengembangkan dua jenis unit, yaitu hunian untuk segmen Masyarakat Berpenghasilan Rendah (MBR) dan unit komersil. Pembagian keuntungan bersih proyek diatur dengan porsi 57 persen untuk RGST dan 43 persen untuk Riscon Group. Perjanjian ini berlaku selama dua tahun sejak tanggal penandatanganan dan dapat diperpanjang jika kedua pihak setuju.",
+   "Dalam suratnya ke Otoritas Jasa Keuangan, manajemen REAL menyebut kerja sama ini berpotensi memberi kontribusi positif terhadap kinerja keuangan konsolidasian perusahaan serta memperluas segmen pasar ke hunian MBR. Dokumen ini tidak mencantumkan nilai total proyek, luas lahan, atau jumlah unit yang akan dibangun."
+  ],
+  "fotoAdegan": "Rows of small unfinished subsidized houses under construction on a cleared hillside plot near Bogor, workers mixing cement, overcast sky",
+  "takeaway": "Laporan ini condong positif bagi REAL karena menandai kemajuan nyata dari sekadar nota kesepahaman menjadi perjanjian kerja sama operasi yang mengikat, dengan porsi bagi hasil yang jelas dan mayoritas keuntungan, 57 persen, jatuh ke anak usaha RGST. Pos yang tersentuh adalah pendapatan dan laba dari segmen properti REAL, sebab kerja sama operasi semacam ini pada dasarnya patungan proyek tanpa membentuk perusahaan baru, jadi keuntungan penjualan rumah nantinya dibagi berdasarkan persentase yang disepakati, bukan berdasarkan modal yang disetor masing-masing pihak. Pelaku pasar akan memperhatikan ini karena proyek yang menyasar segmen MBR biasanya punya volume penjualan yang lebih stabil, meski margin per unitnya cenderung lebih kecil dibanding rumah komersil biasa. Yang perlu dipantau selanjutnya adalah realisasi konstruksi dan jumlah unit yang benar-benar terjual, karena dokumen ini belum mengungkap nilai total proyek, serta masa berlaku kerja sama yang berakhir sekitar Oktober 2028 kecuali diperpanjang kedua pihak.",
+  "sentimen": "positif"
  },
  {
   "slug": "amor-direksi-tambah-456-200-saham-lewat-program-karyawan",

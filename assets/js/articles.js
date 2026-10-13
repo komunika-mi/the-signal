@@ -3,6 +3,286 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "daaz-catatkan-sukuk-wakalah-rp378-miliar-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "DAAZ Catatkan [Sukuk Wakalah] Rp378 Miliar di BEI",
+  "deck": "Daaz Bara Lestari resmi mencatatkan sukuk wakalah senilai Rp378,04 miliar di BEI, terbagi dua seri dengan kupon 9 dan 10,25 persen, di bawah target maksimal Rp500 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T07:44:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/622bec09d7_9329ba9448.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DAAZ",
+  "tags": [
+   "DAAZ",
+   "sukuk wakalah",
+   "obligasi korporasi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Daaz Bara Lestari Tbk (DAAZ) resmi mencatatkan Sukuk Wakalah Daaz Bara Lestari I Tahun 2026 di Bursa Efek Indonesia mulai 13 Oktober 2026, berdasarkan surat BEI Nomor S-12851/BEI.PP3/10-2026. Sukuk ini terbagi dua seri. Seri A senilai Rp215,11 miliar memberi imbal hasil 9 persen per tahun dan jatuh tempo 22 Oktober 2027. Seri B senilai Rp162,925 miliar memberi imbal hasil 10,25 persen per tahun dan jatuh tempo 12 Oktober 2029. Total dana yang terhimpun Rp378,035 miliar, lebih kecil dari target maksimal penawaran umum sebesar Rp500 miliar yang disebutkan dalam prospektus tertanggal 30 September 2026.",
+   "PT Bank Rakyat Indonesia (Persero) Tbk bertindak sebagai wali amanat, sementara PEFINDO memberi peringkat idA(sy) atau Single A Syariah untuk sukuk ini. Penjaminan emisi dilakukan oleh PT Henan Putihrai Sekuritas, PT Maybank Sekuritas Indonesia, dan PT Trimegah Sekuritas Indonesia Tbk, dengan skema kesanggupan penuh untuk Rp129 miliar dan kesanggupan terbaik untuk sisanya. Sukuk tidak dijamin aset khusus, tetapi dijamin dengan seluruh harta kekayaan perseroan sesuai Pasal 1131 dan 1132 KUH Perdata. Perseroan berhak membeli kembali sebagian atau seluruh sukuk mulai satu tahun setelah tanggal penjatahan, yaitu sejak 8 Oktober 2027, dan tidak memotong zakat atas imbal hasil yang dibagikan.",
+   "Dari jadwal resminya, masa penawaran umum berlangsung 1 sampai 7 Oktober 2026, penjatahan 8 Oktober 2026, dan distribusi elektronik sekaligus pengembalian uang pemesan pada 12 Oktober 2026. Imbal hasil dibayarkan setiap tiga bulan dengan pembayaran pertama pada 12 Januari 2027, sementara pelunasan pokok masing-masing seri dilakukan sekaligus (bullet payment) saat jatuh tempo. Perseroan menyebut risiko utama usahanya adalah ketersediaan pasokan bijih nikel, batubara, dan bahan bakar."
+  ],
+  "fotoAdegan": "Workers monitoring a conveyor belt loading nickel ore onto a cargo ship at a tropical Indonesian port, overcast afternoon light",
+  "takeaway": "Penerbitan sukuk ini kami nilai netral bagi fundamental Daaz Bara Lestari: perseroan berhasil menarik dana segar Rp378,04 miliar dengan peringkat layak investasi, tapi jumlahnya meleset dari target maksimal Rp500 miliar dan menambah beban utang baru di tengah dana obligasi sebelumnya yang per awal Oktober masih mengendap sekitar 44,5 persen atau Rp219,71 miliar belum terpakai. Pos yang tersentuh adalah arus kas, karena dana segar langsung masuk ke kas perseroan, dan beban bunga tahunan yang bertambah sekitar Rp19,36 miliar untuk Seri A dan Rp16,7 miliar untuk Seri B, sebuah kewajiban tetap yang harus dibayar setiap tiga bulan terlepas dari kinerja usaha tambang. Pemegang saham perlu mencermati bagaimana perseroan akhirnya memakai dana segar ini, mengingat rekam jejak penggunaan dana obligasi sebelumnya yang lambat terserap. Yang perlu dipantau berikutnya adalah pembayaran imbal hasil pertama pada 12 Januari 2027 serta laporan realisasi penggunaan dana sukuk yang wajib disampaikan perseroan kepada OJK dan bursa setelah pencatatan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "foru-tuntaskan-rights-issue-saham-beredar-ke-170-miliar",
+  "category": "Aksi Korporasi",
+  "title": "FORU Tuntaskan [Rights Issue], Saham Beredar ke 170 Miliar",
+  "deck": "BEI mencatat tambahan 230,3 juta saham FORU dari pesanan lebih rights issue, menggenapkan total saham beredar jadi 170,08 miliar lembar dari basis lama 465,22 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T07:42:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d54699ea95_8bdab79b50.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "pencatatan saham",
+   "dilusi saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatatkan tambahan 230.301.500 saham Fortune Indonesia Tbk (FORU) pada 13 Oktober 2026, berasal dari pesanan tambahan dalam Penawaran Umum Terbatas (PUT) I perseroan. Dengan pencatatan ini, total saham FORU yang tercatat di papan pencatatan pengembangan BEI menjadi 170.075.257.380 lembar.",
+   "Rincian proses ini tertuang dalam laporan biro administrasi efek PT Adimitra Jasa Korpora kepada BEI tertanggal 9 Oktober 2026. Dari total 215.096.316.400 saham yang ditawarkan lewat hak memesan efek terlebih dahulu (HMETD), pemegang saham melaksanakan haknya atas 169.379.731.880 saham, sementara 45.716.584.520 hak tidak dilaksanakan. Porsi yang tidak dilaksanakan itu sebagian diserap lewat pesanan tambahan sebanyak 230.301.500 saham, sehingga masih tersisa 45.486.283.020 saham yang tidak terserap. Total saham yang akhirnya diterbitkan dalam PUT I tercatat 169.610.033.380 lembar, dengan nomor saham 465.224.001 sampai 170.075.257.380, dan telah disetor ke rekening Kustodian Sentral Efek Indonesia (KSEI).",
+   "Dengan rampungnya proses ini, basis saham FORU yang sebelumnya 465.224.000 lembar membesar menjadi 170.075.257.380 lembar begitu seluruh hasil PUT I dicatatkan."
+  ],
+  "fotoAdegan": "Modern glass office tower exterior in Jakarta's financial district, reflecting a bright morning sky, pedestrians walking below",
+  "takeaway": "Pembesaran basis saham sampai sekitar 365 kali lipat ini condong negatif bagi pemegang saham lama yang tidak menukar haknya, karena porsi kepemilikan mereka tergerus sangat drastis, jauh dari skala dilusi kecil yang biasa dianggap remah. Yang tersentuh langsung adalah jumlah saham beredar dan laba per saham, sebab laba bersih perusahaan yang sama kini harus dibagi ke jumlah lembar saham yang jauh lebih banyak, sementara ekuitas bertambah dari setoran modal pemegang saham yang ikut menukar haknya maupun pemesan tambahan. Dokumen ini tidak menyebut harga pelaksanaan maupun total dana segar yang terkumpul, sehingga belum bisa dinilai seberapa besar modal baru yang benar benar masuk ke kas perusahaan. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana hasil PUT I yang wajib disampaikan FORU ke otoritas, serta kejelasan siapa yang akhirnya menyerap sisa 45.486.283.020 saham yang tidak terjual lewat pesanan tambahan, karena itu akan menentukan apakah ada pemegang saham baru yang masuk sebagai pengendali.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-umumkan-saham-ssms-terkonsentrasi-tinggi-capai-95-79",
+  "category": "Aksi Korporasi",
+  "title": "BEI Umumkan Saham SSMS [Terkonsentrasi] Tinggi, Capai 95,79%",
+  "deck": "BEI dan KSEI mencatat 95,79% saham SSMS dikuasai segelintir pemegang per 1 Oktober 2026, menyisakan free float sekitar 4,21%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T07:37:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/deec938a1a_02a41bc7a3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SSMS",
+  "tags": [
+   "SSMS",
+   "free float",
+   "kepemilikan saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) mengumumkan bahwa saham PT Sawit Sumbermas Sarana Tbk (SSMS) masuk kategori Kepemilikan Saham Terkonsentrasi Tinggi. Berdasarkan metodologi penentuan konsentrasi atas struktur saham dalam bentuk warkat (scrip) dan tanpa warkat (scripless) per 1 Oktober 2026, sejumlah pemegang saham yang jumlahnya terbatas secara agregat menguasai 95,79% dari total saham SSMS. Pengumuman bernomor Peng-HSC-00084/BEI.WAS/10-2026 dan Peng-00025/PWS/KSEI/1026 ini ditandatangani Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy pada 12 Oktober 2026. BEI menegaskan pengumuman ini tidak serta merta menunjukkan adanya pelanggaran atas peraturan perundang-undangan di bidang pasar modal.",
+   "Dengan hampir 96% saham digenggam segelintir pihak, sisa saham yang beredar bebas di pasar atau free float SSMS tinggal sekitar 4,21% dari total saham. Dokumen ini tidak merinci identitas pemegang saham yang masuk kelompok terkonsentrasi tersebut, apakah mereka pemegang saham pengendali, pihak afiliasi, atau investor lain, sehingga publik hanya mengetahui angka agregatnya tanpa tahu siapa saja yang dihitung di dalamnya."
+  ],
+  "fotoAdegan": "Rows of oil palm trees on a plantation with workers collecting fresh fruit bunches under an overcast tropical sky",
+  "takeaway": "Catatan redaksi menilai pengumuman ini netral bagi SSMS, sebab tidak ada perubahan apa pun pada kinerja atau struktur modal perusahaan, isinya hanya potret konsentrasi pemegang saham yang sudah ada. Yang tersentuh di sini adalah jumlah saham beredar bebas atau free float, bukan laba, arus kas, atau beban bunga perusahaan; free float yang menyempit hingga sekitar 4,21% berarti ruang gerak investor untuk membeli atau menjual saham SSMS dalam jumlah besar tanpa mengguncang harga menjadi lebih sempit, dan ini juga bisa memengaruhi syarat keikutsertaan SSMS di indeks-indeks yang mensyaratkan batas minimum free float. Dokumen ini sendiri tidak mencantumkan tenggat atau agenda lanjutan, jadi yang perlu dipantau adalah apakah BEI dan KSEI kembali merilis pengumuman serupa pada periode mendatang dengan angka konsentrasi yang berubah, serta apakah SSMS mengambil langkah seperti penambahan saham publik untuk melebarkan free float tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tmas-95-3-saham-dikuasai-kelompok-pemegang-saham-terbatas",
+  "category": "Aksi Korporasi",
+  "title": "TMAS: [95,3%] Saham Dikuasai Kelompok Pemegang Saham Terbatas",
+  "deck": "BEI dan KSEI mengumumkan 95,30% saham Temas (TMAS) dikuasai sejumlah pemegang saham terbatas per 1 Oktober 2026, menyisakan sekitar 4,7% saham yang beredar bebas di pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T06:20:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/67ea6a7133_9f0f823c6c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TMAS",
+  "tags": [
+   "TMAS",
+   "BEI",
+   "KSEI",
+   "konsentrasi kepemilikan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) menerbitkan pengumuman kepemilikan saham terkonsentrasi tinggi untuk PT Temas Tbk (TMAS), dengan nomor Peng-HSC-00081/BEI.WAS/10-2026 dan Peng-00022/PWS/KSEI/1026. Berdasarkan metodologi penentuan konsentrasi kepemilikan atas struktur saham dalam bentuk warkat dan tanpa warkat per 1 Oktober 2026, saham Temas dikuasai oleh sejumlah pemegang saham terbatas yang secara agregat menguasai 95,30% dari total saham perseroan. Dengan kata lain, hanya sekitar 4,7% saham TMAS yang tersebar di luar kelompok pemegang saham tersebut.",
+   "Pengumuman ini ditandatangani pada 12 Oktober 2026 oleh Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy. Keduanya menegaskan bahwa pengumuman ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan dan ketentuan yang berlaku di bidang pasar modal, sehingga sifatnya adalah notifikasi rutin hasil pemantauan bursa, bukan tuduhan atau sanksi."
+  ],
+  "fotoAdegan": "Container ship docked at a busy Indonesian port, gantry cranes loading cargo boxes, dock workers in hi-vis vests nearby",
+  "takeaway": "Pengumuman ini netral bagi fundamental Temas, karena isinya bukan keputusan korporasi yang mengubah modal, laba, atau arus kas perusahaan, melainkan notifikasi rutin hasil pemantauan bursa. Yang tersentuh di sini adalah likuiditas perdagangan saham: dengan 95,3% saham dikuasai kelompok pemegang saham terbatas, hanya sekitar 4,7% saham TMAS yang benar-benar beredar bebas di pasar, sehingga volume transaksi harian berpotensi tipis dan harga lebih mudah bergerak tajam ketika ada transaksi dalam jumlah besar. Investor perlu mencermati bahwa saham dengan porsi beredar bebas sekecil ini biasanya lebih fluktuatif dibanding emiten dengan kepemilikan yang lebih tersebar. Yang perlu dipantau berikutnya adalah apakah konsentrasi ini bertahan pada pemantauan periode mendatang atau memicu langkah lanjutan dari bursa, misalnya status pengawasan unusual market activity (UMA) untuk saham dengan pergerakan tidak wajar, serta apakah ada tindakan korporasi seperti rights issue atau pelepasan sebagian saham oleh pemegang saham besar yang bisa memperbesar porsi saham beredar bebas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-umumkan-kepemilikan-saham-clay-terkonsentrasi-99-89",
+  "category": "Aksi Korporasi",
+  "title": "BEI Umumkan Kepemilikan Saham CLAY [Terkonsentrasi] 99,89%",
+  "deck": "BEI dan KSEI mengumumkan 99,89% saham PT Citra Putra Realty Tbk (CLAY) dikuasai segelintir pemegang saham per 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T06:20:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98101391ea_b96a6b1919.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CLAY",
+  "tags": [
+   "CLAY",
+   "BEI",
+   "KSEI",
+   "free float"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama Kustodian Sentral Efek Indonesia (KSEI) mengumumkan konsentrasi kepemilikan saham tinggi pada PT Citra Putra Realty Tbk (CLAY), emiten yang tercatat di Papan Pencatatan Pengembangan. Berdasarkan metodologi penentuan Kepemilikan Saham Terkonsentrasi Tinggi atas struktur saham dalam bentuk warkat dan tanpa warkat per 1 Oktober 2026, sebanyak 99,89 persen dari total saham CLAY dikuasai secara agregat oleh sejumlah tertentu pemegang saham. Dokumen tidak merinci nama maupun jumlah pemegang saham yang dimaksud, hanya menyebut angka konsentrasinya.",
+   "Pengumuman bernomor Peng-HSC-00071/BEI.WAS/10-2026 dan Peng-00012/PWS/KSEI/1026 itu diterbitkan pada 12 Oktober 2026, ditandatangani oleh Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy. Kedua lembaga menegaskan bahwa pengumuman ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan dan ketentuan yang berlaku di bidang pasar modal."
+  ],
+  "fotoAdegan": "Construction workers finishing the facade of a mid-rise residential building in Jakarta, cranes visible, late afternoon light",
+  "takeaway": "Pengumuman ini condong negatif bagi pemegang saham publik CLAY, bukan karena ada pelanggaran, tapi karena angka 99,89 persen berarti saham yang benar-benar beredar bebas di pasar nyaris tidak ada. Yang tersentuh di sini adalah free float, yaitu porsi saham yang bisa diperjualbelikan bebas oleh investor umum di luar kelompok pemegang besar. Pelaku pasar peduli pada free float karena kalau porsinya sekecil ini, harga saham bisa bergerak tajam hanya dengan transaksi kecil, dan investor yang sudah masuk bisa kesulitan keluar tanpa menggerakkan harga sendiri. Dokumen ini tidak mencantumkan rencana tindak lanjut atau tenggat waktu tertentu, tapi BEI biasanya terus memantau pola perdagangan saham dengan konsentrasi semacam ini dan bisa menaikkan status pengawasan, misalnya lewat notasi Unusual Market Activity, kalau transaksi di pasar terlihat tidak wajar. Pembaca yang memegang saham CLAY perlu mencermati apakah BEI mengeluarkan pengumuman lanjutan atau tindakan pengawasan dalam waktu dekat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "duti-catat-kepemilikan-saham-terkonsentrasi-99-88-persen",
+  "category": "Aksi Korporasi",
+  "title": "DUTI Catat Kepemilikan Saham [Terkonsentrasi] 99,88 Persen",
+  "deck": "BEI dan KSEI mengumumkan 99,88 persen saham Duta Pertiwi dikuasai segelintir pemegang saham per 1 Oktober 2026, menyisakan saham beredar bebas yang sangat tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T06:19:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73a908870a_7bfe32f0cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DUTI",
+  "tags": [
+   "DUTI",
+   "Duta Pertiwi",
+   "kepemilikan saham",
+   "free float"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama Kustodian Sentral Efek Indonesia (KSEI) menerbitkan pengumuman kepemilikan saham terkonsentrasi tinggi untuk PT Duta Pertiwi Tbk (DUTI) pada 12 Oktober 2026, dengan nomor Peng-HSC-00073/BEI.WAS/10-2026 dari BEI dan Peng-00014/PWS/KSEI/1026 dari KSEI. Berdasarkan data struktur kepemilikan saham, baik yang masih berbentuk fisik (warkat) maupun yang sudah elektronik, per 1 Oktober 2026, sebanyak 99,88 persen dari total saham DUTI dikuasai secara bersama oleh sejumlah pemegang saham yang disebut terbatas jumlahnya. Dokumen tidak menyebutkan nama pemegang saham tersebut maupun berapa banyak pihak yang dimaksud.",
+   "Dengan konsentrasi sebesar itu, artinya hanya sekitar 0,12 persen saham DUTI yang benar-benar beredar bebas di luar kelompok pemegang saham besar tersebut. Pengumuman ditandatangani oleh Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy. Keduanya menegaskan bahwa pengumuman ini semata-mata hasil pemantauan rutin bursa dan tidak serta merta berarti ada pelanggaran terhadap peraturan pasar modal yang berlaku."
+  ],
+  "fotoAdegan": "Exterior view of a large multi-story shopping mall building in Jakarta with parked cars in the forecourt, overcast daylight",
+  "takeaway": "Pengumuman ini condong negatif bagi pemegang saham publik DUTI, karena menegaskan bahwa saham yang benar-benar bisa diperjualbelikan bebas di pasar tinggal sekitar 0,12 persen dari seluruh saham perusahaan. Yang tersentuh di sini adalah likuiditas saham, yaitu seberapa mudah investor membeli atau menjual saham tanpa membuat harganya bergerak liar. Semakin sedikit saham yang beredar bebas, semakin tipis pilihan harga dan lawan transaksi di pasar, sehingga investor kecil bisa kesulitan masuk atau keluar dari saham ini dalam jumlah besar. Yang perlu dipantau berikutnya adalah apakah BEI akan menindaklanjuti temuan konsentrasi ini dengan meminta Duta Pertiwi memperbaiki porsi saham beredar bebasnya sesuai aturan free float minimum yang berlaku, mengingat pengumuman bertanggal 12 Oktober 2026 ini baru bersifat pemberitahuan, bukan sanksi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-98-72-saham-inpp-terkonsentrasi-di-tangan-segelintir",
+  "category": "Aksi Korporasi",
+  "title": "BEI: [98,72%] Saham INPP Terkonsentrasi di Tangan Segelintir",
+  "deck": "BEI dan KSEI mengumumkan 98,72% saham INPP dikuasai sejumlah pemegang saham terbatas per 1 Oktober 2026, menyisakan sangat sedikit saham yang beredar bebas di pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T06:15:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7e31305b7f_912ab42361.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPP",
+  "tags": [
+   "INPP",
+   "BEI",
+   "KSEI",
+   "free float"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) pada 12 Oktober 2026 menerbitkan Pengumuman Kepemilikan Saham Terkonsentrasi Tinggi dengan nomor Peng-HSC-00075/BEI.WAS/10-2026 dan Peng-00016/PWS/KSEI/1026 untuk saham PT Indonesian Paradise Property Tbk (INPP), emiten yang tercatat di Papan Pencatatan Pengembangan. Berdasarkan metodologi penghitungan konsentrasi kepemilikan atas struktur saham dalam bentuk warkat dan tanpa warkat per 1 Oktober 2026, saham INPP ternyata dikuasai oleh sejumlah pemegang saham terbatas yang secara agregat menggenggam 98,72% dari total saham perseroan.",
+   "Dengan angka tersebut, praktis hanya sekitar 1,28% saham INPP yang tersebar dan dapat diperjualbelikan bebas oleh publik di luar kelompok pemegang saham besar itu. Pengumuman ditandatangani oleh Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy, dan menegaskan bahwa publikasi ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan dan ketentuan yang berlaku di pasar modal. Dokumen tidak merinci nama-nama pemegang saham yang termasuk dalam kelompok terkonsentrasi tersebut, hanya menyebutkan persentase agregat kepemilikan mereka."
+  ],
+  "fotoAdegan": "Distant, angled view of a busy stock exchange trading floor with blurred display screens, brokers walking between desks, bright office lighting",
+  "takeaway": "Pengumuman ini condong negatif bagi pemegang saham publik INPP, karena menunjukkan hampir seluruh saham perseroan, 98,72%, dikuasai segelintir pihak dan hanya menyisakan sekitar 1,28% yang benar-benar bisa diperjualbelikan bebas di pasar. Yang tersentuh di sini bukan laba atau utang perusahaan, melainkan jumlah saham yang beredar bebas di tangan publik alias free float, dan itu penting karena semakin sedikit saham yang beredar bebas, semakin mudah harga bergerak tajam hanya dengan transaksi kecil, serta semakin sulit investor ritel membeli atau menjual dalam jumlah besar tanpa mengubah harga secara signifikan. Konsentrasi kepemilikan yang ekstrem seperti ini juga biasa menjadi salah satu alasan BEI menambahkan pemantauan khusus, karena pola serupa kerap ditemukan pada saham yang harganya rawan digerakkan segelintir pihak. Yang perlu dipantau selanjutnya adalah apakah BEI menambahkan notasi atau langkah pengawasan lanjutan terhadap perdagangan INPP, serta apakah struktur kepemilikan ini berubah pada pembaruan data berikutnya, karena dokumen ini sendiri tidak menyebutkan tenggat atau tindak lanjut spesifik selain data per 1 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bali-saham-terkonsentrasi-92-6-beredar-bebas-menipis",
+  "category": "Aksi Korporasi",
+  "title": "BALI: Saham Terkonsentrasi 92,6%, Beredar Bebas [Menipis]",
+  "deck": "BEI dan KSEI mencatat 92,60% saham BALI dikuasai segelintir pemegang saham per 1 Oktober 2026, menyusul lonjakan harga saham awal bulan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T06:12:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de09c9954b_d04fff6ca0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BALI",
+  "tags": [
+   "BALI",
+   "kepemilikan saham",
+   "konsentrasi saham",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) dan PT Kustodian Sentral Efek Indonesia (KSEI) menerbitkan pengumuman Kepemilikan Saham Terkonsentrasi Tinggi untuk PT Bali Towerindo Sentra Tbk (BALI), bernomor Peng-HSC-00067/BEI.WAS/10-2026 dan Peng-0008/PWS/KSEI/1026, tertanggal 12 Oktober 2026. Pengumuman ditandatangani Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy. Berdasarkan metodologi penilaian struktur kepemilikan saham dalam bentuk warkat maupun tanpa warkat per 1 Oktober 2026, saham BALI ternyata dikuasai oleh sejumlah tertentu pemegang saham yang secara agregat menggenggam 92,60 persen dari total saham perseroan.",
+   "Dengan kata lain, hanya sekitar 7,4 persen saham BALI yang tersebar di luar kelompok pemegang saham besar tersebut. BEI dan KSEI menegaskan bahwa pengumuman ini bersifat informatif berdasarkan data kepemilikan, dan tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan di bidang pasar modal. Dokumen tidak merinci nama maupun identitas pemegang saham yang termasuk dalam kelompok terkonsentrasi itu.",
+   "Pengumuman ini terbit tidak lama setelah saham BALI melonjak 24,8 persen pada 5 Oktober tanpa didukung informasi fundamental baru, sebagaimana pernah diberitakan sebelumnya, dengan sebagian pembelian saat itu berasal dari pemegang saham pengendali. Data konsentrasi 92,60 persen ini melengkapi gambaran tersebut dengan angka resmi pertama yang menunjukkan betapa tipisnya porsi saham BALI yang benar-benar beredar bebas di pasar."
+  ],
+  "fotoAdegan": "Telecommunication towers rising above palm trees in a rural Bali landscape, a technician checking equipment at the base, late afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental BALI karena tidak mengubah aset, utang, atau laba perseroan, dan BEI sendiri menegaskan angka 92,60 persen bukan indikasi pelanggaran, melainkan potret struktur pemilik saham. Yang tersentuh adalah jumlah saham yang benar beredar bebas di pasar, karena kalau hanya sekitar 7,4 persen saham yang bisa diperjualbelikan bebas, transaksi beli atau jual dalam jumlah kecil saja bisa menggoyang harga jauh lebih keras dibanding saham dengan kepemilikan yang lebih tersebar, dan itu sejalan dengan lonjakan harga 24,8 persen tanpa pemicu fundamental yang sempat terjadi pada 5 Oktober. Yang perlu dipantau selanjutnya adalah apakah BEI menindaklanjuti dengan pengawasan tambahan terhadap pergerakan harga BALI, dan apakah persentase konsentrasi ini berubah pada pengumuman serupa periode berikutnya yang biasanya diterbitkan BEI secara berkala.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "film-keluar-dari-status-kepemilikan-saham-terkonsentrasi",
+  "category": "Aksi Korporasi",
+  "title": "FILM Keluar dari Status Kepemilikan Saham [Terkonsentrasi]",
+  "deck": "BEI dan KSEI menyatakan saham PT MD Entertainment Tbk (FILM) tidak lagi berstatus kepemilikan terkonsentrasi tinggi, berdasarkan struktur kepemilikan per 5 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T06:11:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c8733793c0_b7eb7ace22.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FILM",
+  "tags": [
+   "FILM",
+   "kepemilikan saham",
+   "BEI",
+   "KSEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) mengumumkan bahwa saham PT MD Entertainment Tbk (FILM) sudah tidak lagi tergolong memiliki kepemilikan saham terkonsentrasi tinggi. Status ini dicabut lewat pengumuman bernomor Peng-RSC-00002/BEI.WAS/10-2026 dan Peng-00026/PWS/KSEI/1026, setelah BEI dan KSEI mengevaluasi ulang struktur kepemilikan saham FILM, baik dalam bentuk warkat maupun tanpa warkat, per tanggal 5 Oktober 2026.",
+   "Pencabutan ini merujuk pada penetapan sebelumnya lewat pengumuman Peng-HSC-00048/BEI.WAS/07-2026 dan KSEI-5036/DIR/0726 pada Juli 2026, saat FILM pertama kali ditetapkan berstatus kepemilikan saham terkonsentrasi tinggi. Dengan pencabutan ini, metodologi penilaian konsentrasi yang diterapkan BEI dan KSEI menyimpulkan sebaran kepemilikan saham FILM sudah tidak lagi memenuhi kriteria tersebut. Pengumuman ditandatangani Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy pada 12 Oktober 2026.",
+   "Dokumen ini tidak merinci pihak mana yang memperkecil porsi kepemilikannya atau berapa persentase saham yang berpindah sehingga status konsentrasi berubah. Sebagai catatan, awal Oktober 2026 FILM juga melaporkan penambahan bersih 48,4 juta saham oleh jajaran direksi lewat mekanisme repo, meski dokumen ini tidak menyebut kaitan langsung antara dua peristiwa tersebut."
+  ],
+  "fotoAdegan": "A film production set with cinema cameras and lighting rigs being arranged inside a studio, warm practical lighting",
+  "takeaway": "Penilaian saya netral: keluarnya FILM dari status kepemilikan terkonsentrasi tinggi umumnya dibaca sebagai hal baik untuk kelancaran transaksi, tapi dokumen ini tidak merinci siapa yang mengubah porsinya sehingga dampaknya terhadap kendali pemegang saham utama belum bisa dipastikan. Yang tersentuh di sini adalah struktur kepemilikan saham, bukan laba atau arus kas, tapi pelaku pasar tetap memperhatikannya karena saham yang terlalu terkonsentrasi di sedikit pihak biasanya diperlakukan dengan aturan transaksi lebih ketat oleh bursa, misalnya batas auto rejection yang lebih sempit, dan status konsentrasi rendah membuka jalan ke aturan perdagangan normal. Yang perlu dipantau selanjutnya adalah apakah BEI menerbitkan penyesuaian aturan perdagangan untuk FILM menyusul status baru per 5 Oktober 2026 ini, serta apakah ada keterbukaan lanjutan dari pemegang saham utama FILM yang menjelaskan perubahan porsi kepemilikan yang mendasari pencabutan status tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "xrdn-unit-penyertaan-etf-susut-399-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "XRDN: Unit Penyertaan ETF [Susut] 399,2 Juta",
+  "deck": "Unit penyertaan ETF RDN Kas Bertumbuh turun dari 22,3 miliar menjadi 21,9 miliar unit per 12 Oktober 2026, penyusutan terbesar dalam tiga laporan beruntun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T00:49:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8c9b9631cc_b4d3cd701a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XRDN",
+  "tags": [
+   "XRDN",
+   "ETF",
+   "reksa dana",
+   "unit penyertaan"
+  ],
+  "body": [
+   "Manajer investasi Reksa Dana Indo ETF RDN Kas Bertumbuh (XRDN) melaporkan jumlah unit penyertaan yang beredar berkurang 399.200.000 unit per 12 Oktober 2026. Total unit yang sebelumnya tercatat 22.299.300.000 unit turun menjadi 21.900.100.000 unit, tanpa ada penambahan unit baru pada periode ini. Laporan bernomor 534/IPIM-RD/X/2026 itu ditandatangani Andi Suhandi selaku Head of Operation.",
+   "Bursa Efek Indonesia kemudian menindaklanjuti laporan tersebut lewat pengumuman resmi bernomor Peng-P-01023/BEI.PP3/10-2026 perihal pencatatan tambahan ETF. BEI mencatat jumlah unit penyertaan XRDN yang tercatat di papan perdagangan menjadi 21.900.100.000 unit, berlaku efektif sejak 13 Oktober 2026. Pengumuman ini ditandatangani Pande Made Kusuma Ari A, Kadiv Pengaturan dan Operasional Perdagangan, bersama Irawati Widyaningtyas selaku PH Kepala Divisi PP3.",
+   "Penyusutan kali ini melanjutkan dua laporan serupa dalam sepekan terakhir, yakni pengurangan 58,4 juta unit dan 256,2 juta unit yang sebelumnya dinilai netral karena porsinya kecil. Penurunan 399,2 juta unit kali ini menjadi yang terbesar dari ketiganya."
+  ],
+  "fotoAdegan": "Wide exterior view of Jakarta's financial district skyline near Sudirman, office towers glowing at dusk, light traffic below.",
+  "takeaway": "Penilaian kami tetap netral, karena penyusutan 399,2 juta unit ini setara sekitar 1,8 persen dari total unit yang beredar sebelumnya, masih tergolong kecil untuk disebut sebagai tanda tekanan serius pada dana ini. Yang tersentuh di sini adalah jumlah unit penyertaan reksa dana, yang berkaitan langsung dengan arus kas dan nilai aktiva bersih produk ini. Unit berkurang biasanya terjadi karena investor menarik sebagian dananya dari reksa dana, sehingga dana yang dikelola ikut menyusut, sementara penambahan unit berarti ada dana segar yang masuk. Yang perlu dipantau adalah apakah tren ini berlanjut, karena tiga laporan berturut-turut dalam sepekan terakhir menunjukkan angka penyusutan yang terus membesar, dari 58,4 juta, 256,2 juta, hingga 399,2 juta unit. Kalau laporan serupa dengan angka yang makin besar muncul lagi pekan depan, itu baru pantas dibaca sebagai sinyal arus keluar dana yang mengkhawatirkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "xgld-catatkan-tambahan-2-juta-unit-penyertaan-etf-emas",
+  "category": "Aksi Korporasi",
+  "title": "XGLD catatkan [tambahan] 2 juta unit penyertaan ETF emas",
+  "deck": "Unit penyertaan ETF emas syariah XGLD naik dari 82 juta jadi 84 juta unit, pencatatan tambahan efektif 13 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T00:47:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d7c7f0f93_7d6b0e4e7f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XGLD",
+  "tags": [
+   "XGLD",
+   "ETF emas",
+   "reksa dana syariah",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan tambahan unit penyertaan RD Syariah Premier ETF Gold Sharia Indonesia dengan kode XGLD. Sebanyak 2.000.000 unit penyertaan baru tercatat dan mulai diperdagangkan sejak 13 Oktober 2026, sehingga total unit penyertaan yang tercatat di bursa naik dari 82.000.000 menjadi 84.000.000 unit. Tidak ada unit yang dihapus dari pencatatan pada aksi ini.",
+   "Penambahan ini sejalan dengan laporan manajer investasi tertanggal 12 Oktober 2026 yang ditandatangani Mita Darmawan selaku Fund Settlement. Laporan itu menyebutkan jumlah unit penyertaan beredar sebelumnya 82.000.000 unit, bertambah 2.000.000 unit tanpa ada pengurangan, sehingga jumlah unit beredar setelah perubahan menjadi 84.000.000 unit. Penambahan unit semacam ini pada reksa dana berbentuk ETF terjadi ketika manajer investasi menerbitkan unit baru untuk memenuhi permintaan pembelian dari investor di pasar primer."
+  ],
+  "fotoAdegan": "Stacks of small gold bars inside a secure storage vault, dim industrial lighting, no visible text or markings",
+  "takeaway": "Penambahan unit ini kami nilai netral bagi pemegang unit XGLD, sebab penerbitan unit baru pada ETF dilakukan sesuai nilai aset bersih sehingga tidak mengurangi nilai kekayaan per unit milik pemegang lama, berbeda dengan penerbitan saham baru oleh perusahaan biasa yang bisa mendilusi laba per saham. Yang tersentuh di sini adalah jumlah unit penyertaan beredar, yakni ukuran total dana atau aset yang dikelola reksa dana ini, yang naik sekitar 2,4 persen dari 82 juta ke 84 juta unit sejak 12 Oktober 2026, mengindikasikan ada investor baru yang membeli unit ETF emas syariah ini. Nilai per unit XGLD sendiri tetap mengikuti harga emas acuan, bukan ditentukan oleh jumlah unit yang beredar. Yang perlu dipantau berikutnya adalah apakah tren penambahan unit ini berlanjut pada laporan-laporan serupa di bulan mendatang, karena rangkaian kenaikan yang konsisten akan menunjukkan minat investor terhadap emas lewat instrumen syariah ini sedang menguat.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bei-mglv-tak-lagi-berstatus-saham-terkonsentrasi-tinggi",
   "category": "Aksi Korporasi",
   "title": "BEI: MGLV Tak Lagi Berstatus Saham [Terkonsentrasi] Tinggi",

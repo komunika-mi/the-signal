@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "daaz-catatkan-sukuk-wakalah-rp378-miliar-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "DAAZ Catatkan [Sukuk Wakalah] Rp378 Miliar di BEI",
+  "deck": "Daaz Bara Lestari resmi mencatatkan sukuk wakalah senilai Rp378,04 miliar di BEI, terbagi dua seri dengan kupon 9 dan 10,25 persen, di bawah target maksimal Rp500 miliar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DAAZ",
+   "sukuk wakalah",
+   "obligasi korporasi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/622bec09d7_9329ba9448.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-tuntaskan-rights-issue-saham-beredar-ke-170-miliar",
+  "category": "Aksi Korporasi",
+  "title": "FORU Tuntaskan [Rights Issue], Saham Beredar ke 170 Miliar",
+  "deck": "BEI mencatat tambahan 230,3 juta saham FORU dari pesanan lebih rights issue, menggenapkan total saham beredar jadi 170,08 miliar lembar dari basis lama 465,22 juta.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "pencatatan saham",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d54699ea95_8bdab79b50.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-umumkan-saham-ssms-terkonsentrasi-tinggi-capai-95-79",
+  "category": "Aksi Korporasi",
+  "title": "BEI Umumkan Saham SSMS [Terkonsentrasi] Tinggi, Capai 95,79%",
+  "deck": "BEI dan KSEI mencatat 95,79% saham SSMS dikuasai segelintir pemegang per 1 Oktober 2026, menyisakan free float sekitar 4,21%.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SSMS",
+   "free float",
+   "kepemilikan saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/deec938a1a_02a41bc7a3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tmas-95-3-saham-dikuasai-kelompok-pemegang-saham-terbatas",
+  "category": "Aksi Korporasi",
+  "title": "TMAS: [95,3%] Saham Dikuasai Kelompok Pemegang Saham Terbatas",
+  "deck": "BEI dan KSEI mengumumkan 95,30% saham Temas (TMAS) dikuasai sejumlah pemegang saham terbatas per 1 Oktober 2026, menyisakan sekitar 4,7% saham yang beredar bebas di pasar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TMAS",
+   "BEI",
+   "KSEI",
+   "konsentrasi kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/67ea6a7133_9f0f823c6c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-umumkan-kepemilikan-saham-clay-terkonsentrasi-99-89",
+  "category": "Aksi Korporasi",
+  "title": "BEI Umumkan Kepemilikan Saham CLAY [Terkonsentrasi] 99,89%",
+  "deck": "BEI dan KSEI mengumumkan 99,89% saham PT Citra Putra Realty Tbk (CLAY) dikuasai segelintir pemegang saham per 1 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CLAY",
+   "BEI",
+   "KSEI",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98101391ea_b96a6b1919.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "duti-catat-kepemilikan-saham-terkonsentrasi-99-88-persen",
+  "category": "Aksi Korporasi",
+  "title": "DUTI Catat Kepemilikan Saham [Terkonsentrasi] 99,88 Persen",
+  "deck": "BEI dan KSEI mengumumkan 99,88 persen saham Duta Pertiwi dikuasai segelintir pemegang saham per 1 Oktober 2026, menyisakan saham beredar bebas yang sangat tipis.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DUTI",
+   "Duta Pertiwi",
+   "kepemilikan saham",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73a908870a_7bfe32f0cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-98-72-saham-inpp-terkonsentrasi-di-tangan-segelintir",
+  "category": "Aksi Korporasi",
+  "title": "BEI: [98,72%] Saham INPP Terkonsentrasi di Tangan Segelintir",
+  "deck": "BEI dan KSEI mengumumkan 98,72% saham INPP dikuasai sejumlah pemegang saham terbatas per 1 Oktober 2026, menyisakan sangat sedikit saham yang beredar bebas di pasar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPP",
+   "BEI",
+   "KSEI",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7e31305b7f_912ab42361.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bali-saham-terkonsentrasi-92-6-beredar-bebas-menipis",
+  "category": "Aksi Korporasi",
+  "title": "BALI: Saham Terkonsentrasi 92,6%, Beredar Bebas [Menipis]",
+  "deck": "BEI dan KSEI mencatat 92,60% saham BALI dikuasai segelintir pemegang saham per 1 Oktober 2026, menyusul lonjakan harga saham awal bulan ini.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BALI",
+   "kepemilikan saham",
+   "konsentrasi saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de09c9954b_d04fff6ca0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "film-keluar-dari-status-kepemilikan-saham-terkonsentrasi",
+  "category": "Aksi Korporasi",
+  "title": "FILM Keluar dari Status Kepemilikan Saham [Terkonsentrasi]",
+  "deck": "BEI dan KSEI menyatakan saham PT MD Entertainment Tbk (FILM) tidak lagi berstatus kepemilikan terkonsentrasi tinggi, berdasarkan struktur kepemilikan per 5 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "kepemilikan saham",
+   "BEI",
+   "KSEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c8733793c0_b7eb7ace22.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xrdn-unit-penyertaan-etf-susut-399-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "XRDN: Unit Penyertaan ETF [Susut] 399,2 Juta",
+  "deck": "Unit penyertaan ETF RDN Kas Bertumbuh turun dari 22,3 miliar menjadi 21,9 miliar unit per 12 Oktober 2026, penyusutan terbesar dalam tiga laporan beruntun.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XRDN",
+   "ETF",
+   "reksa dana",
+   "unit penyertaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8c9b9631cc_b4d3cd701a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xgld-catatkan-tambahan-2-juta-unit-penyertaan-etf-emas",
+  "category": "Aksi Korporasi",
+  "title": "XGLD catatkan [tambahan] 2 juta unit penyertaan ETF emas",
+  "deck": "Unit penyertaan ETF emas syariah XGLD naik dari 82 juta jadi 84 juta unit, pencatatan tambahan efektif 13 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XGLD",
+   "ETF emas",
+   "reksa dana syariah",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d7c7f0f93_7d6b0e4e7f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bei-mglv-tak-lagi-berstatus-saham-terkonsentrasi-tinggi",
   "category": "Aksi Korporasi",
   "title": "BEI: MGLV Tak Lagi Berstatus Saham [Terkonsentrasi] Tinggi",
@@ -6293,182 +6469,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7109b50837_8691ad4ed6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mang-koreksi-laporan-dana-ipo-uang-muka-rp66-m-belum-terpakai",
-  "category": "Aksi Korporasi",
-  "title": "MANG Koreksi Laporan Dana IPO, [Uang Muka] Rp66 M Belum Terpakai",
-  "deck": "PT Manggung Polahraya Tbk mengoreksi laporan dana IPO Rp73,39 miliar. Sebagian besar dana tercatat sebagai uang muka yang baru ditargetkan terpakai penuh pada 2029.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MANG",
-   "Penggunaan Dana IPO",
-   "Konstruksi",
-   "Pasar Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcd89dac56_cac855f9e3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbyb-dirut-eri-budiono-mundur-dari-bank-neo-commerce",
-  "category": "Aksi Korporasi",
-  "title": "BBYB: Dirut Eri Budiono [Mundur] dari Bank Neo Commerce",
-  "deck": "Eri Budiono mengajukan pengunduran diri dari jabatan Direktur Utama Bank Neo Commerce (BBYB) sejak 2 Oktober 2026, menunggu persetujuan RUPS.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBYB",
-   "Bank Neo Commerce",
-   "Direksi",
-   "Pengunduran Diri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9cbc9b0704_3ad011b9d7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medp-ganti-komisaris-independen-rombak-komite-remunerasi",
-  "category": "Aksi Korporasi",
-  "title": "MEDP ganti komisaris independen, rombak komite [remunerasi]",
-  "deck": "Dewan Komisaris MEDP mengangkat Ego Syahrial sebagai Komisaris Independen baru dan menyusun ulang Komite Nominasi dan Remunerasi efektif 1 Oktober 2026 hingga 31 Maret 2028.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDP",
-   "komite nominasi dan remunerasi",
-   "komisaris independen",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26677911b5_98afdfc363.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medp-ganti-ketua-komite-audit-ego-syahrial-naik",
-  "category": "Aksi Korporasi",
-  "title": "MEDP Ganti Ketua [Komite Audit], Ego Syahrial Naik",
-  "deck": "Komite Audit PT Medco Power Indonesia (MEDP) kini dipimpin Ego Syahrial, menggantikan M. Teguh Pamuji, menyusul pergantian komisaris independen efektif 1 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDP",
-   "komite audit",
-   "tata kelola perusahaan",
-   "Medco Power"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11279e9003_8ca82d33fa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lpkr-jelaskan-transaksi-lippo-plaza-kupang-rp403-8-m-akuisisi",
-  "category": "Aksi Korporasi",
-  "title": "LPKR Jelaskan Transaksi Lippo Plaza Kupang Rp403,8 M [Akuisisi]",
-  "deck": "Lippo Karawaci menjawab permintaan penjelasan BEI soal pengalihan Lippo Plaza Kupang dari Nusa Bahana Niaga ke anak usahanya, Bumi Sarana Sejahtera, senilai Rp403,80 miliar.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPKR",
-   "Lippo Karawaci",
-   "Lippo Plaza Kupang",
-   "First REIT"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1aa05d2f28_e4b3281c55.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "merk-catat-impairment-rp87-miliar-kontrak-p-g-berakhir-2027",
-  "category": "Aksi Korporasi",
-  "title": "MERK Catat [Impairment] Rp87 Miliar, Kontrak P&G Berakhir 2027",
-  "deck": "Merck Tbk mencatat penurunan nilai aset Rp87 miliar di pabrik Pasar Rebo karena kontrak manufaktur dengan P&G, pemasok 80 persen volume produksi, berakhir akhir 2027.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MERK",
-   "Public Expose",
-   "Impairment Aset",
-   "Farmasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a00bbd15e9_322670dab1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hgii-direksi-robin-sunyoto-tambah-50-000-saham-di-rp134",
-  "category": "Aksi Korporasi",
-  "title": "HGII: Direksi Robin Sunyoto [tambah] 50.000 saham di Rp134",
-  "deck": "Direksi HGII Robin Sunyoto membeli 50.000 saham pada 29 September 2026 di harga Rp134, menambah kepemilikannya menjadi 16,55 juta saham tanpa mengubah hak suara 0,25 persen.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HGII",
-   "kepemilikan saham",
-   "direksi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-05102026-7168-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "blog-rampung-dana-ipo-rp138-2-miliar-untuk-gudang-pendingin-dan-truk",
-  "category": "Aksi Korporasi",
-  "title": "BLOG [Rampung] Dana IPO Rp138,2 Miliar untuk Gudang Pendingin dan Truk",
-  "deck": "BLOG melaporkan seluruh dana Rp138,23 miliar hasil IPO Juli 2025 sudah terpakai 100 persen per 30 Juni 2026, untuk gudang pendingin dan armada truk.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLOG",
-   "IPO",
-   "Penggunaan Dana",
-   "Logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/99b1ba2e2b_264dfd9ff2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amrt-bagikan-dividen-interim-rp14-5-per-saham-cair-27-oktober",
-  "category": "Aksi Korporasi",
-  "title": "AMRT Bagikan [Dividen] Interim Rp14,5 per Saham, Cair 27 Oktober",
-  "deck": "Sumber Alfaria Trijaya akan membagikan dividen interim tunai Rp595,8 miliar atau Rp14,5 per saham, dengan pencatatan 15 Oktober dan pembayaran 27 Oktober 2026.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMRT",
-   "dividen interim",
-   "Sumber Alfaria Trijaya",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c9b7891b8c_521b0f442f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-menang-gugatan-pkpu-dari-dua-kreditur-proyek-jambi-dicabut",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Menang, Gugatan [PKPU] dari Dua Kreditur Proyek Jambi Dicabut",
-  "deck": "Pengadilan Niaga Jakarta Pusat mencabut permohonan PKPU terhadap PTPP yang diajukan dua kreditur proyek Museum KCBN Muarajambi, menyusul suspensi saham akibat gagal bayar bunga obligasi.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "PKPU",
-   "hukum",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c227cb237b_f9d4e7681e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sona-laba-semester-i-naik-27-tender-wajib-rampung",
-  "category": "Aksi Korporasi",
-  "title": "SONA: Laba Semester I [Naik] 27%, Tender Wajib Rampung",
-  "deck": "Materi public expose SONA memuat laba bersih semester I 2026 naik 27,37% jadi Rp32,52 miliar, dividen Rp52,83 per saham, dan penyelesaian tender wajib pasca akuisisi.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SONA",
-   "public expose",
-   "laba bersih",
-   "tender wajib"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ce4d4d1b46_3560ec0735.pdf",
   "sourceLabel": "IDX"
  }
 ];

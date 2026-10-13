@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-13T05:16:25.382+07:00",
+ "diperbarui": "2026-10-14T03:22:22.268+07:00",
  "entri": [
+  {
+   "id": "2026-10-13-3",
+   "edisi": "2026-10-13",
+   "benang": "Akses Dibangun, Kapasitas Pakai Masih Tertinggal",
+   "klaim": "Perhatian pemerintah bergeser dari sekadar membangun akses atau bangunan menjadi memastikan kapasitas mengelola dan memakai layanan keuangan serta koperasi itu benar-benar berjalan.",
+   "penanda": "Hasil evaluasi menyeluruh terhadap 107 Koperasi Desa Merah Putih dan kelanjutan fase baru program keuangan UMKM pasca PROMISE II",
+   "tenggat": null,
+   "tenggatLabel": "evaluasi menyeluruh terhadap 107 koperasi tersebut dan kelanjutan fase baru program keuangan UMKM pasca PROMISE II",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-13-2",
+   "edisi": "2026-10-13",
+   "benang": "Tiga Jalur Baru Dipacu untuk Genjot Ekspor",
+   "klaim": "Fokus pemerintah bergeser dari sekadar menandatangani kesepakatan dagang menjadi memastikan kesepakatan dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia itu benar-benar dipakai eksportir.",
+   "penanda": "Nilai transaksi riil yang diumumkan begitu Trade Expo Indonesia 2026 selesai pekan ini",
+   "tenggat": "2026-10-18",
+   "tenggatLabel": "begitu Trade Expo Indonesia 2026 selesai pekan ini",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-13-1",
+   "edisi": "2026-10-13",
+   "benang": "Tekanan Utang BUMN Karya Melebar ke Emiten Besar",
+   "klaim": "Tekanan kas dan tata kelola yang sebelumnya terlihat pada emiten kecil kini melebar dan merambat sekaligus ke tiga perusahaan konstruksi pelat merah besar (PTPP, WIKA, dan Waskita Karya).",
+   "penanda": "Hasil RUPSU WIKA 28 Oktober dan RUPSU PTPP 10 November soal persetujuan pemegang sukuk, serta apakah suspensi PTPP bisa dicabut",
+   "tenggat": "2026-11-10",
+   "tenggatLabel": "RUPSU WIKA 28 Oktober dan PTPP 10 November",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-12-3",
    "edisi": "2026-10-12",
@@ -74,8 +107,13 @@ var RAPOR = {
    "penanda": "Apakah WIKA menuntaskan pembayaran kupon obligasi serta bagi hasil sukuknya pekan ini tanpa tambahan gagal bayar.",
    "tenggat": "2026-10-11",
    "tenggatLabel": "pekan ini",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "wika-panggil-rupsu-minta-penundaan-bayar-bagi-hasil-sukuk",
+    "judul": "WIKA Panggil RUPSU, Minta Penundaan Bayar Bagi Hasil Sukuk",
+    "tanggal": "13 Oktober 2026",
+    "alasan": "Artikel ini menunjukkan WIKA meminta pemegang sukuk menyetujui penundaan pembayaran bagi hasil, bukan menuntaskannya tanpa gagal bayar tambahan, sehingga memenuhi penanda uji ke arah memburuk seperti diklaim."
+   }
   },
   {
    "id": "2026-10-08-3",

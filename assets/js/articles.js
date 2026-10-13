@@ -3,6 +3,90 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik",
+  "category": "Industri",
+  "title": "Hilirisasi RI Geser Fokus ke Industri [Baterai] Listrik",
+  "deck": "Realisasi investasi hilirisasi RI capai Rp300,1 triliun pada semester I 2026, sementara fokus kebijakan bergeser ke industri baterai listrik dan BESS.",
+  "image": "assets/img/hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:07:59.110Z",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/hilirisasi-masuki-babak-baru-daya-saing-rantai-nilai-global-jadi-perhatian",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "tags": [
+   "hilirisasi",
+   "mineral kritis",
+   "investasi",
+   "baterai listrik"
+  ],
+  "body": [
+   "Pemerintah menyatakan program hilirisasi mineral Indonesia memasuki fase baru, dari sekadar membangun fasilitas pengolahan menjadi upaya memperkuat daya saing produk di pasar global. Pernyataan ini disampaikan dalam forum International Critical Minerals and Metals Summit (ICMMS) Indonesia 2026 yang digelar di Bali pada 27-30 September 2026, hasil kerja sama Kementerian Investasi dan Hilirisasi/BKPM dengan lembaga riset komoditas Fastmarkets. Pergeseran ini penting karena menentukan ke mana arah investasi hilirisasi selanjutnya akan difokuskan, setelah tahap pembangunan smelter dan fasilitas pemurnian dianggap sudah berjalan.",
+   "Menurut Kementerian Investasi dan Hilirisasi/BKPM, peta jalan hilirisasi mencakup 28 komoditas strategis dengan kebutuhan investasi ditaksir mencapai US$618,1 miliar sampai 2040, dan sektor mineral serta batu bara disebut sebagai salah satu peluang terbesar di dalamnya. Setelah tahap pertama membangun smelter dan fasilitas pemurnian, pemerintah mengarahkan tahap kedua ke industri baterai kendaraan listrik, Battery Energy Storage System atau BESS, dan manufaktur bernilai tambah tinggi lainnya. Sampai semester I 2026, realisasi investasi hilirisasi tercatat Rp300,1 triliun, setara 29,7 persen dari total realisasi investasi nasional dan naik 6,9 persen dibanding periode yang sama tahun lalu. Dari jumlah itu, investasi asing menyumbang Rp212,8 triliun atau 70,9 persen, sedangkan investasi dalam negeri hanya Rp87,3 triliun atau 29,1 persen.",
+   "Forum tersebut juga membahas sejumlah isu teknis yang menentukan daya saing hilirisasi nikel, mulai dari kebijakan nikel, kekuatan harga, disiplin pasokan, hingga aturan perdagangan. Topik lain yang dibahas adalah struktur biaya pengolahan HPAL atau High Pressure Acid Leach, salah satu teknologi pengolahan bijih nikel kadar rendah, dan asam sulfat sebagai bahan kimia pendukungnya, serta pilihan teknologi pengolahan nikel ke depan. Di tingkat hilir, pengembangan prekursor dan katoda, dua komponen utama baterai kendaraan listrik, disebut tidak cukup hanya mengandalkan kapasitas produksi, tetapi juga butuh pembeli, kualitas produk, dan kepastian keekonomian proyek.",
+   "Standar perdagangan global ikut menjadi bahan pembahasan, termasuk aspek lingkungan, sosial, dan tata kelola atau ESG, keterlacakan rantai pasok, pajak karbon impor Uni Eropa yang dikenal sebagai Carbon Border Adjustment Mechanism atau CBAM, serta uji tuntas hak asasi manusia dalam rantai pasok atau Human Rights Due Diligence. Kementerian Investasi dan Hilirisasi/BKPM menyebut pemenuhan standar-standar ini kini menjadi bagian dari persoalan daya saing produk Indonesia di pasar global, bukan semata soal kepatuhan administratif."
+  ],
+  "fotoAdegan": "Workers in protective gear inspecting molten metal flow at a nickel processing plant, steam and sparks rising, industrial floor",
+  "fotoSumber": "https://bkpm.go.id/storage/image/origin/webp/4aJMeS5L0sn4f42XPRMHypnYHXRdND.webp",
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "takeaway": "Yang berubah secara konkret adalah arah tahap hilirisasi: dari membangun smelter dan fasilitas pemurnian, pemerintah kini mendorong tahap kedua berupa industri baterai mobil listrik dan BESS, yaitu alat penyimpan listrik skala besar yang bisa menyimpan energi dari sumber seperti matahari atau angin. Realisasi investasi hilirisasi memang tumbuh menjadi Rp300,1 triliun pada semester pertama tahun ini, tapi jumlah itu masih kecil dibanding total kebutuhan investasi yang ditaksir pemerintah sendiri, yaitu US$618,1 miliar sampai tahun 2040. Pihak yang paling kena dampak pergeseran ini adalah investor, karena 70,9 persen dana hilirisasi selama ini berasal dari modal asing, sementara porsi modal dalam negeri baru 29,1 persen, sehingga arah kebijakan ke depan akan sangat bergantung pada apakah investor asing tetap jadi penyokong utama atau porsi modal domestik bisa naik. Sinyal lain yang perlu dicermati adalah makin ketatnya aturan dagang global seperti pajak karbon impor Uni Eropa dan standar lingkungan serta hak asasi manusia, yang berarti produk hilirisasi Indonesia ke depan tidak cukup hanya diproduksi banyak, tapi juga harus lolos syarat pembeli di luar negeri. Yang akan menunjukkan apakah pergeseran ke tahap baterai ini benar-benar berjalan adalah data realisasi investasi semester II 2026 dan progres proyek baterai kendaraan listrik serta BESS yang disebutkan dalam peta jalan tersebut.",
+  "imageV": "mv6j1xxu"
+ },
+ {
+  "slug": "ekspor-perdana-baterai-litium-iwip-dimulai-7-proyek-baru",
+  "category": "Industri",
+  "title": "Ekspor Perdana Baterai Litium IWIP [Dimulai], 7 Proyek Baru",
+  "deck": "Presiden Prabowo Subianto meresmikan ekspor perdana sel baterai litium dan groundbreaking tujuh proyek baru di kawasan industri IWIP, Halmahera Tengah, Maluku Utara.",
+  "image": "assets/img/ekspor-perdana-baterai-litium-iwip-dimulai-7-proyek-baru.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:07:58.659Z",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/peresmian-ekspor-perdana-baterai-kendaraan-listrik-dan-groundbreaking-proyek-strategis-iwip-halmahera-tengah",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "tags": [
+   "IWIP",
+   "Hilirisasi Nikel",
+   "Baterai Kendaraan Listrik",
+   "Maluku Utara"
+  ],
+  "body": [
+   "Pemerintah meresmikan ekspor perdana sel baterai litium dari kawasan industri Indonesia Weda Bay Industrial Park (IWIP) di Halmahera Tengah, Maluku Utara. Presiden Prabowo Subianto hadir langsung dalam acara yang juga menandai peletakan batu pertama atau groundbreaking untuk tujuh proyek industri baru di kawasan tersebut. Momen ini penting karena menjadi bukti konkret bahwa hilirisasi nikel mulai merambah ke produk jadi bernilai tambah lebih tinggi, yaitu sel baterai kendaraan listrik, bukan sekadar bahan mentah atau setengah jadi.",
+   "Secara keseluruhan ada 11 proyek yang diresmikan dalam acara tersebut. Empat proyek sudah memasuki tahap komersial dan ekspor, yakni PT Blue Sparking Energy yang memproduksi bahan baterai berbasis nikel bernama mixed hydroxide precipitate (MHP) sebanyak 67.000 ton per tahun, PT REPT Battero Indonesia yang memproduksi sel baterai kendaraan listrik dengan kapasitas 8 gigawatt-hour per tahun, PT Pioneer Aluminium Industries yang memproduksi aluminium elektrolitik 300.000 ton per tahun, serta PT XCMG Indonesia Manufacturing yang memproduksi alat berat bertenaga listrik sebanyak 700 unit per tahun. Tujuh proyek lainnya baru memulai pembangunan, yaitu PT Guang Ching Nickel Cobalt dan PT Inno Prima Material untuk bahan baterai, PT Tinci Materials Indonesia untuk elektrolit baterai, PT Weda Bay Aluminium dan PT Bintang Karya Aluminium untuk industri aluminium elektrolitik, Foton Guangqing Motor Indonesia untuk kendaraan berat listrik, serta PT Flatsolar Energy Indonesia untuk kaca panel surya. Kementerian Investasi dan Hilirisasi/BKPM memperkirakan seluruh proyek ini bisa menyerap sekitar 13.000 tenaga kerja baru, meski angka itu masih berupa proyeksi, bukan realisasi.",
+   "Kontribusi investasi di Maluku Utara terus membesar. Sejak 2021 hingga Juni 2026, total realisasi investasi di provinsi itu mencapai Rp423,7 triliun, dengan Rp65,4 triliun di antaranya terealisasi pada semester I 2026 saja, naik 46 persen dibanding periode yang sama tahun sebelumnya. Khusus Kabupaten Halmahera Tengah, tempat IWIP berada, realisasi investasinya mencapai Rp55,7 triliun pada semester I 2026. Sejalan dengan itu, ekonomi Maluku Utara tumbuh 15,35 persen pada triwulan II 2026, tertinggi di antara 38 provinsi, dengan industri pengolahan menyumbang hampir separuh produk domestik regional bruto (PDRB), yaitu total nilai barang dan jasa yang dihasilkan provinsi tersebut dalam setahun. Surplus perdagangan Maluku Utara pada 2025 tercatat Rp31,1 triliun, mayoritas berasal dari ekspor produk olahan nikel.",
+   "Secara nasional, realisasi investasi pada semester I 2026 mencapai Rp1.010,6 triliun, tumbuh 7,2 persen dan menyerap lebih dari 1,4 juta tenaga kerja langsung. Sektor hilirisasi menyumbang hampir 30 persen dari total realisasi investasi tersebut, dan lebih dari 75 persen investasi hilirisasi itu justru terjadi di luar Pulau Jawa, termasuk di Maluku Utara. Pola ini menunjukkan bahwa sebagian besar kegiatan hilirisasi mineral, terutama nikel, berlangsung di wilayah timur Indonesia yang dekat dengan sumber tambangnya."
+  ],
+  "fotoAdegan": "Workers in protective gear monitoring large industrial processing tanks at a nickel battery material plant, steam and pipes, tropical daylight.",
+  "fotoSumber": "https://bkpm.go.id/storage/image/origin/webp/xR3ttGGy5LoRKcN2vPRrx3jjL2HPTo.webp",
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "takeaway": "Yang berubah di sini bukan sekadar peresmian seremonial, melainkan naiknya tahapan hilirisasi nikel dari bahan setengah jadi ke sel baterai jadi yang langsung diekspor. Yang terdampak paling langsung adalah calon pekerja di Halmahera Tengah lewat proyeksi 13.000 lapangan kerja baru, serta perekonomian Maluku Utara yang kini nyaris separuh pendapatan daerahnya bergantung pada industri pengolahan nikel. Pola investasi hilirisasi yang lebih dari 75 persen terpusat di luar Jawa menunjukkan arah kebijakan yang konsisten mendorong hilirisasi dari daerah penghasil tambang, tetapi juga membuat ekonomi daerah seperti Maluku Utara makin bergantung pada satu komoditas dan satu kawasan industri. Yang akan menunjukkan apakah ketergantungan ini mulai terdiversifikasi adalah data realisasi investasi semester II 2026 dan apakah tujuh proyek yang baru memulai pembangunan ini benar-benar beroperasi serta menyerap tenaga kerja sesuai proyeksi.",
+  "imageV": "mv6j20ux"
+ },
+ {
+  "slug": "mendag-dan-menko-pangan-cek-koperasi-merah-putih-di-sukoharjo",
+  "category": "UMKM",
+  "title": "Mendag dan Menko Pangan [Cek] Koperasi Merah Putih di Sukoharjo",
+  "deck": "Mendag Budi Santoso dan Menko Pangan Zulkifli Hasan mengecek langsung operasional tiga koperasi desa di Sukoharjo, bagian dari pemantauan ke 107 KDKMP yang sudah berjalan di seluruh Indonesia.",
+  "image": "assets/img/mendag-dan-menko-pangan-cek-koperasi-merah-putih-di-sukoharjo.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:07:45.281Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pantau-berjalannya-koperasi-merah-putih-di-sukoharjo-mendag-busan-dan-menko-zulhas-turun-lapangan-bersama",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Koperasi Merah Putih",
+   "Kementerian Perdagangan",
+   "Sukoharjo",
+   "Bapok"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso dan Menteri Koordinator Bidang Pangan Zulkifli Hasan turun langsung memeriksa operasional Koperasi Desa/Kelurahan Merah Putih (KDKMP) di tiga lokasi Kabupaten Sukoharjo, Jawa Tengah, yakni Purbayan, Kadilangu, dan Menuran, pada Selasa (13/10). Kunjungan ini merupakan bagian dari rangkaian pemantauan terhadap 107 KDKMP yang sudah beroperasi di seluruh Indonesia, untuk mengecek apakah koperasi benar-benar menyalurkan barang kebutuhan pokok dengan harga sesuai aturan pemerintah dan mengidentifikasi masalah yang perlu segera dibenahi.",
+   "Di lapangan, kedua menteri mengecek gudang dan gerai, memantau transaksi, serta berbincang dengan pengelola dan konsumen. Tiap KDKMP di Sukoharjo menjalankan tiga lini usaha, yaitu ritel, simpan pinjam, dan layanan kesehatan, dengan tujuh orang personel per koperasi yang terdiri dari satu manajer dan enam karyawan. Koperasi ini menjadi saluran distribusi program pemerintah, termasuk beras program Stabilisasi Pasokan dan Harga Pangan seharga Rp12.500 per kilogram, minyak goreng rakyat Minyakita dengan harga eceran tertinggi Rp15.700 per liter, gas LPG 3 kilogram bersubsidi, pupuk bersubsidi, dan obat-obatan.",
+   "Manajer KDKMP Menuran, Rendy Buwana Perdana, mengatakan koperasinya sudah beroperasi sejak 1 Juni 2026, sementara dirinya baru resmi menjabat sebagai manajer pada 1 Oktober 2026. Ia menyebut barang kebutuhan pokok bersubsidi menjadi produk yang paling diminati warga karena harganya lebih murah. Salah satu warga Desa Menuran, Nurindar Sulistyorini, membenarkan hal itu dan mengaku rutin berbelanja di koperasi karena harganya lebih kompetitif dibanding toko lain, meski ia berharap stok barang, termasuk obat-obatan dan layanan pembayaran listrik, bisa dilengkapi.",
+   "Menko Zulkifli Hasan menegaskan, keberadaan KDKMP harus diikuti operasional yang nyata, bukan sekadar berdiri sebagai tempat berjualan, termasuk memastikan penempatan manajer dan penyaluran barang bersubsidi berjalan sesuai aturan. Ia juga mendorong koperasi ini berkembang menjadi pusat ekonomi desa yang turut menyerap produk petani dan pelaku usaha lokal. Turut hadir dalam peninjauan tersebut Gubernur Jawa Tengah Ahmad Luthfi dan Direktur Utama Perum Bulog Ahmad Rizal Ramdhani."
+  ],
+  "fotoAdegan": "Villagers browsing shelves stocked with rice sacks and cooking oil bottles inside a small rural cooperative store, LPG cylinders stacked nearby",
+  "fotoSumber": "https://www.kemendag.go.id/albums/pX2yIKv2vCCvwm3pOo398RKBcD0YowlqSeG0e3Hz.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah hari ini adalah pemerintah mulai mengecek langsung apakah koperasi desa yang sudah dibangun benar-benar berjalan, bukan sekadar memeriksa apakah bangunannya sudah ada. Ada satu temuan menarik dari kunjungan ini, koperasi Menuran sudah buka sejak Juni, tapi manajernya baru ditugaskan awal Oktober, jadi selama sekitar empat bulan koperasi berjalan tanpa pengelola tetap. Yang kena dampak langsung adalah warga desa yang berbelanja beras dan minyak goreng subsidi di koperasi itu, serta pelaku usaha kecil dan petani setempat yang diharapkan bisa menjual produknya lewat koperasi tersebut. Pola ini mengarah ke tahap pembenahan operasional, pemerintah sepertinya sedang menambal kekurangan tenaga pengelola dan kelengkapan stok di koperasi yang sudah berdiri, sebelum bicara penambahan jumlah koperasi baru. Yang akan memastikan arah ini adalah apakah sisa dari 107 koperasi yang sudah beroperasi itu juga sudah punya manajer tetap dan stok lengkap begitu pemerintah merampungkan rangkaian pemantauannya ke titik-titik lain.",
+  "imageV": "mv6j27cm"
+ },
+ {
   "slug": "zp-pastikan-tak-ada-penyesuaian-waran-amrt-usai-dividen-tunai",
   "category": "Aksi Korporasi",
   "title": "ZP Pastikan Tak Ada Penyesuaian Waran [AMRT] usai Dividen Tunai",
@@ -26,6 +110,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers restocking shelves inside a bright convenience store aisle stacked with daily goods, early morning hours",
   "takeaway": "Laporan ini netral bagi AMRT maupun Maybank Sekuritas, sebab isinya murni konfirmasi bahwa rumus baku dalam prospektus waran tidak mewajibkan penyesuaian kali ini, bukan keputusan korporasi dari AMRT sendiri. Yang tersentuh hanya mekanisme produk derivatif waran terstruktur, bukan pos kinerja AMRT seperti ekuitas, laba, atau jumlah saham beredarnya, karena waran ini diterbitkan dan diperdagangkan oleh pihak ketiga, Maybank Sekuritas, bukan oleh AMRT. Pemegang waran AMRTZPCZ6A dan AMRTZPCK7A tidak perlu mengubah asumsi harga pelaksanaan maupun rasio konversi mereka menyusul dividen tunai AMRT yang diumumkan 5 Oktober 2026. Yang perlu dipantau selanjutnya adalah realisasi pembayaran dividen tunai AMRT itu sendiri kepada pemegang sahamnya, bukan sisi warannya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bni-dukung-24-umkm-kuliner-tampil-di-motogp-mandalika",
+  "category": "UMKM",
+  "title": "BNI Dukung 24 UMKM [Kuliner] Tampil di MotoGP Mandalika",
+  "deck": "BNI memfasilitasi 24 pelaku UMKM kuliner berjualan dengan mesin EDC dan QRIS di sirkuit Mandalika selama MotoGP Indonesia 2026, 9-11 Oktober.",
+  "image": "assets/img/bni-dukung-24-umkm-kuliner-tampil-di-motogp-mandalika.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T15:48:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472732-bni-dukung-24-umkm-lokal-tampil-di-motogp-mandalika-2026",
+  "tags": [
+   "BNI",
+   "UMKM",
+   "MotoGP Mandalika",
+   "QRIS"
+  ],
+  "body": [
+   "BNI mendukung 24 pelaku usaha mikro, kecil, dan menengah untuk berjualan produk kuliner di area Pertamina Mandalika International Circuit, Lombok, selama gelaran MotoGP Pertamina Grand Prix of Indonesia pada 9 sampai 11 Oktober 2026. Dukungan ini penting bagi pelaku usaha kecil karena ajang MotoGP mendatangkan pengunjung dari berbagai daerah, termasuk wisatawan mancanegara, sehingga membuka peluang pasar yang biasanya sulit dijangkau usaha skala kecil.",
+   "Salah satu pelaku usaha yang ikut berjualan adalah Kepiting Mbk Lily milik Lili Herawati, yang menjajakan menu seafood seperti kepiting, bakso udang, dan cumi. Selama acara berlangsung, Lili menggunakan mesin EDC dan QRIS dari BNI untuk melayani transaksi, dan menurutnya proses pengajuan maupun penggunaan kedua alat pembayaran itu praktis bagi usahanya.",
+   "Corporate Secretary BNI Okki Rushartomo menyebut keterlibatan dalam MotoGP Mandalika sebagai bagian dari upaya bank memperluas akses layanan perbankan dan digitalisasi transaksi bagi UMKM. Ia berharap keikutsertaan ini membantu produk UMKM lokal semakin dikenal dan menjangkau pasar yang lebih luas."
+  ],
+  "fotoAdegan": "Street food vendor grilling seafood skewers at an outdoor stall near a racetrack grandstand, visitors queuing nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/13/6acdee2db6fa1-bni-dukung-24-umkm-lokal-tampil-di-motogp-mandalika-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini sebatas fasilitas satu kali: 24 UMKM kuliner difasilitasi berjualan dengan mesin EDC dan QRIS selama tiga hari MotoGP Mandalika. Yang terdampak langsung adalah pelaku usaha kecil seperti Kepiting Mbk Lily, yang mendapat akses ke pengunjung dari luar daerah dan turis asing yang jarang mampir ke usaha sekelas mereka. Berita ini belum menyebut apakah pola dukungan serupa diberikan BNI di MotoGP tahun-tahun sebelumnya atau di event besar lain, dan juga tidak ada angka soal berapa total UMKM binaan BNI yang sudah pakai EDC atau QRIS secara nasional. Tanpa data itu, belum bisa disimpulkan apakah ini bagian dari strategi digitalisasi UMKM yang terus diperbesar skalanya atau sekadar kegiatan seremonial tahunan di sekitar MotoGP.",
+  "imageV": "mv6j27s5"
  },
  {
   "slug": "ptpp-panggil-rupsu-ke-4-untuk-sukuk-mudharabah-seri-b",

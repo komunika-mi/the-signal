@@ -5,6 +5,60 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik",
+  "category": "Industri",
+  "title": "Hilirisasi RI Geser Fokus ke Industri [Baterai] Listrik",
+  "deck": "Realisasi investasi hilirisasi RI capai Rp300,1 triliun pada semester I 2026, sementara fokus kebijakan bergeser ke industri baterai listrik dan BESS.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik.jpg",
+  "imageV": "mv6j1xxu",
+  "tags": [
+   "hilirisasi",
+   "mineral kritis",
+   "investasi",
+   "baterai listrik"
+  ],
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/hilirisasi-masuki-babak-baru-daya-saing-rantai-nilai-global-jadi-perhatian",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "ekspor-perdana-baterai-litium-iwip-dimulai-7-proyek-baru",
+  "category": "Industri",
+  "title": "Ekspor Perdana Baterai Litium IWIP [Dimulai], 7 Proyek Baru",
+  "deck": "Presiden Prabowo Subianto meresmikan ekspor perdana sel baterai litium dan groundbreaking tujuh proyek baru di kawasan industri IWIP, Halmahera Tengah, Maluku Utara.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/ekspor-perdana-baterai-litium-iwip-dimulai-7-proyek-baru.jpg",
+  "imageV": "mv6j20ux",
+  "tags": [
+   "IWIP",
+   "Hilirisasi Nikel",
+   "Baterai Kendaraan Listrik",
+   "Maluku Utara"
+  ],
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/peresmian-ekspor-perdana-baterai-kendaraan-listrik-dan-groundbreaking-proyek-strategis-iwip-halmahera-tengah",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "mendag-dan-menko-pangan-cek-koperasi-merah-putih-di-sukoharjo",
+  "category": "UMKM",
+  "title": "Mendag dan Menko Pangan [Cek] Koperasi Merah Putih di Sukoharjo",
+  "deck": "Mendag Budi Santoso dan Menko Pangan Zulkifli Hasan mengecek langsung operasional tiga koperasi desa di Sukoharjo, bagian dari pemantauan ke 107 KDKMP yang sudah berjalan di seluruh Indonesia.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/mendag-dan-menko-pangan-cek-koperasi-merah-putih-di-sukoharjo.jpg",
+  "imageV": "mv6j27cm",
+  "tags": [
+   "Koperasi Merah Putih",
+   "Kementerian Perdagangan",
+   "Sukoharjo",
+   "Bapok"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pantau-berjalannya-koperasi-merah-putih-di-sukoharjo-mendag-busan-dan-menko-zulhas-turun-lapangan-bersama",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "zp-pastikan-tak-ada-penyesuaian-waran-amrt-usai-dividen-tunai",
   "category": "Aksi Korporasi",
   "title": "ZP Pastikan Tak Ada Penyesuaian Waran [AMRT] usai Dividen Tunai",
@@ -19,6 +73,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b05a71c0c2_cd3499c227.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bni-dukung-24-umkm-kuliner-tampil-di-motogp-mandalika",
+  "category": "UMKM",
+  "title": "BNI Dukung 24 UMKM [Kuliner] Tampil di MotoGP Mandalika",
+  "deck": "BNI memfasilitasi 24 pelaku UMKM kuliner berjualan dengan mesin EDC dan QRIS di sirkuit Mandalika selama MotoGP Indonesia 2026, 9-11 Oktober.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/bni-dukung-24-umkm-kuliner-tampil-di-motogp-mandalika.jpg",
+  "imageV": "mv6j27s5",
+  "tags": [
+   "BNI",
+   "UMKM",
+   "MotoGP Mandalika",
+   "QRIS"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472732-bni-dukung-24-umkm-lokal-tampil-di-motogp-mandalika-2026"
  },
  {
   "slug": "ptpp-panggil-rupsu-ke-4-untuk-sukuk-mudharabah-seri-b",
@@ -6409,69 +6480,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06102026-2548-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-rampungkan-akuisisi-90-saham-tri-satria-indah-motor",
-  "category": "Aksi Korporasi",
-  "title": "INPS Rampungkan Akuisisi [90%] Saham Tri Satria Indah Motor",
-  "deck": "Perseroan resmi membeli 90% saham PT Tri Satria Indah Motor senilai Rp5,8 miliar lewat akta jual beli 5 Oktober 2026, menjadikannya anak usaha baru di bisnis motor roda tiga.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "akuisisi",
-   "Tri Satria Indah Motor",
-   "otomotif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93bd095436_42eabbcbd9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pool-jual-30-saham-anak-usaha-paf-ke-cicil-technologies",
-  "category": "Aksi Korporasi",
-  "title": "POOL [Jual] 30% Saham Anak Usaha PAF ke Cicil Technologies",
-  "deck": "POOL menjual 30 persen saham PT Pool Advista Finance Tbk ke Cicil Technologies asal Singapura, kepemilikannya di PAF turun jadi 46,34 persen tapi tetap pengendali.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POOL",
-   "PAF",
-   "Cicil Technologies",
-   "divestasi anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/132e56bc23_d36326de4a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lucy-hp-capital-jual-27-67-juta-saham-suara-turun-ke-10-99",
-  "category": "Aksi Korporasi",
-  "title": "LUCY: HP Capital [Jual] 27,67 Juta Saham, Suara Turun ke 10,99%",
-  "deck": "Pemegang saham HP Capital Resources melepas 27,67 juta saham LUCY senilai sekitar Rp7,12 miliar dalam tiga transaksi awal Oktober, hak suaranya turun dari 12,83% menjadi 10,99%.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LUCY",
-   "kepemilikan saham",
-   "pemegang saham",
-   "HP Capital Resources"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06102026-9727-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "surplus-dagang-agustus-melonjak-impor-modal-anjlok-16",
-  "category": "Makroekonomi",
-  "title": "Surplus Dagang Agustus Melonjak, [Impor] Modal Anjlok 16%",
-  "deck": "Neraca dagang Indonesia Agustus 2026 surplus USD3,55 miliar, melonjak dari USD0,12 miliar di Juli, didorong surplus nonmigas, sementara impor barang modal dan bahan baku justru turun tajam.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/bendungan.jpg",
-  "tags": [
-   "neraca dagang",
-   "ekspor impor",
-   "Kementerian Perdagangan",
-   "hilirisasi"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/surplus-perdagangan-agustus-2026-menguat-surplus-januari-agustus-2026-tembus-usd-725-miliar",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

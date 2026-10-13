@@ -21,6 +21,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pegadaian-raih-peringkat-ke-8-layanan-terbaik-bumn",
+  "category": "BUMN",
+  "title": "Pegadaian Raih Peringkat [Ke-8] Layanan Terbaik BUMN",
+  "deck": "Pegadaian masuk 10 besar BUMN dengan layanan terbaik dalam penilaian pengalaman pelanggan pertama yang digelar Danantara untuk seluruh BUMN.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/pegadaian-raih-peringkat-ke-8-layanan-terbaik-bumn.jpg",
+  "imageV": "mv6p9tak",
+  "tags": [
+   "pegadaian",
+   "bumn",
+   "danantara",
+   "cx100 award"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472774-wujud-nyata-transformasi-layanan-pegadaian-tembus-top-10-bumn-layanan-terbaik-dalam-danantara-indonesia-cx100-award-2026"
+ },
+ {
   "slug": "xmlf-penggabungan-mmi-bni-am-bri-mi-pnm-im-jadi-danareksa-im",
   "category": "Aksi Korporasi",
   "title": "XMLF: [Penggabungan] MMI-BNI AM-BRI MI-PNM IM jadi Danareksa IM",
@@ -6460,22 +6477,6 @@ var ARTICLES = [
    "pinjaman anak usaha"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21f9ed3fc4_75dbf006de.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tebe-pangkas-target-pendapatan-2026-jadi-rp451-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TEBE Pangkas Target [Pendapatan] 2026 Jadi Rp451 Miliar",
-  "deck": "Dalam public expose insidentil, manajemen Dana Brata Luhur memangkas target volume batubara 2026 menjadi 5,13 juta ton akibat keterlambatan izin tambang, menekan proyeksi pendapatan dan laba.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEBE",
-   "public expose",
-   "batubara",
-   "pelabuhan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ff6ebb6379_d54dc4c27d.pdf",
   "sourceLabel": "IDX"
  }
 ];

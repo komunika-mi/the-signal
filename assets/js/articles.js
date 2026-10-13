@@ -29,6 +29,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pegadaian-raih-peringkat-ke-8-layanan-terbaik-bumn",
+  "category": "BUMN",
+  "title": "Pegadaian Raih Peringkat [Ke-8] Layanan Terbaik BUMN",
+  "deck": "Pegadaian masuk 10 besar BUMN dengan layanan terbaik dalam penilaian pengalaman pelanggan pertama yang digelar Danantara untuk seluruh BUMN.",
+  "image": "assets/img/pegadaian-raih-peringkat-ke-8-layanan-terbaik-bumn.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T19:28:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472774-wujud-nyata-transformasi-layanan-pegadaian-tembus-top-10-bumn-layanan-terbaik-dalam-danantara-indonesia-cx100-award-2026",
+  "tags": [
+   "pegadaian",
+   "bumn",
+   "danantara",
+   "cx100 award"
+  ],
+  "body": [
+   "PT Pegadaian (Persero) menempati peringkat ke-8 dalam daftar Top 10 BUMN Layanan Terbaik pada ajang Danantara Indonesia CX100 Award 2026, yang digelar di Wisma Danantara pada Selasa, 13 Oktober 2026. Penilaian ini mengukur kualitas pengalaman pelanggan atau customer experience di seluruh perusahaan pelat merah yang berada di bawah Danantara, lembaga pengelola investasi milik negara.",
+   "Dari ratusan entitas BUMN yang ikut dinilai, Pegadaian berhasil masuk 10 besar bersama sejumlah institusi keuangan dan korporasi nasional lain. Pencapaian ini disebut berasal dari penyempurnaan layanan di outlet fisik maupun kanal digital, termasuk aplikasi Tring! by Pegadaian, ATM Emas Pegadaian, serta pusat kontak atau contact center yang memborong 10 penghargaan dalam ajang Telkomsel Best Contact Center Indonesia (TBCCI) 2026. Pegadaian juga telah mendapat Sertifikasi ISO 9001:2015 untuk layanan kustodi, yakni standar internasional yang menilai tata kelola fasilitas penyimpanan emas atau vault milik perusahaan.",
+   "Direktur Utama PT Pegadaian, Damar Latri Setiawan, mengatakan pencapaian peringkat ke-8 ini lahir dari kepercayaan dan partisipasi masyarakat. Ia menyebut posisi di Top 10 ini menjadi pemicu semangat bagi seluruh pegawai Pegadaian untuk terus mendengarkan kebutuhan masyarakat dan memperkuat kualitas layanan.",
+   "Ke depan, Pegadaian menyatakan akan memperluas jangkauan layanan sebagai penyedia jasa keuangan berbasis emas, sejalan dengan rencana memperkuat inklusi keuangan dan ekonomi kerakyatan di seluruh daerah."
+  ],
+  "fotoAdegan": "Teller assisting a customer appraising gold jewelry at a modern pawnshop service counter, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/13/6ace224a2773f-pegadaian-tembus-top-10-bumn-layanan-terbaik-dalam-danantara-indonesia-cx100-award-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah penilaian baru: Danantara menggelar CX100 Award untuk pertama kali sebagai alat ukur pengalaman pelanggan di ratusan BUMN sekaligus, dan Pegadaian keluar di posisi ke-8. Yang terdampak langsung adalah manajemen dan nasabah Pegadaian, tapi juga seluruh BUMN lain yang kini berada dalam satu papan peringkat yang sama di bawah Danantara. Arah yang terlihat adalah upaya Danantara menstandardisasi dan membandingkan kualitas layanan antar-BUMN secara terbuka, bukan sekadar seremoni tahunan. Yang masih belum jelas dari berita ini adalah apakah penilaian CX100 ini akan rutin digelar tiap tahun dan apakah hasilnya berpengaruh pada evaluasi kinerja direksi atau alokasi investasi Danantara ke perusahaan tersebut, dua hal yang baru akan terlihat dari rilis atau kebijakan Danantara berikutnya.",
+  "imageV": "mv6p9tak"
+ },
+ {
   "slug": "xmlf-penggabungan-mmi-bni-am-bri-mi-pnm-im-jadi-danareksa-im",
   "category": "Aksi Korporasi",
   "title": "XMLF: [Penggabungan] MMI-BNI AM-BRI MI-PNM IM jadi Danareksa IM",

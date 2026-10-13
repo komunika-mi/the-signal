@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang paling menjelaskan arah program ini bukan jumlah UMKM, melainkan jarak antara akses dan pemahaman: menurut survei OJK, 93,6 persen masyarakat sudah punya akses ke layanan keuangan seperti rekening atau pinjaman, tapi hanya 69,6 persen yang benar-benar paham cara memakainya secara produktif. Artinya banyak orang sudah terhubung ke bank atau lembaga pembiayaan, tapi belum tentu tahu cara mengelola pinjaman atau tabungan itu agar usahanya berkembang, dan di titik inilah program pendampingan seperti PROMISE II masuk. Yang terdampak langsung adalah usaha mikro, yang mendominasi 99,7 persen dari seluruh UMKM, termasuk kelompok spesifik yang disebut dalam program ini seperti peternak sapi perah di Pangalengan, petani nilam di Aceh, dan petani rumput laut di Sumba Timur serta Sulawesi Selatan. Pola yang terlihat adalah pergeseran fokus dari sekadar menambah jumlah nasabah kredit ke menyambungkan usaha kecil dengan rantai nilai yang lebih besar lewat pencatatan digital dan akses pasar ekspor, dan ini akan lebih jelas terbukti dari target serta cakupan daerah yang diumumkan untuk fase lanjutan program setelah peluncurannya hari ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pemerintah-pacu-3-cepa-baru-bidik-ekspor-sawit-otomotif",
@@ -56,7 +56,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan tarif yang sudah turun, melainkan pemerintah resmi menyasar tiga perjanjian dagang sekaligus, dengan Uni Eropa, Kanada, dan kawasan Eurasia, dan mengarahkannya ke komoditas tertentu seperti sawit, otomotif, kopi, kakao, karet, baja, dan produk kayu untuk pasar Eropa, serta mineral, kimia, dan elektronik untuk pasar Kanada. Eksportir di sektor-sektor itulah yang akan merasakan dampaknya begitu perjanjian benar-benar berlaku, karena yang dihitung sejauh ini masih proyeksi tambahan ekspor menurut Kementerian Koordinator Perekonomian, bukan hasil yang sudah terjadi. Siaran pers ini belum menyebut tanggal pasti kapan masing-masing perjanjian mulai berlaku, termasuk tahap ratifikasi atau pengesahan oleh DPR dan parlemen negara mitra yang menentukan kapan proyeksi tersebut mulai bisa diuji. Yang perlu dipantau adalah jadwal ratifikasi dan pemberlakuan resmi ketiga perjanjian itu, karena tanpa itu angka-angka potensi ekspor di atas masih sebatas target di atas kertas.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pasokan-bbm-bali-dikebut-pertamina-buka-suplai-24-jam",
@@ -191,7 +191,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan isi perjanjiannya, karena I-EU CEPA, I-CA CEPA, dan I-EAEU FTA sudah dirancang lebih dulu, melainkan fokus pemerintah yang kini bergeser ke soal pemakaian nyata tarif keringanan itu oleh pengusaha, bukan sekadar menandatangani kesepakatan. Yang terdampak adalah eksportir di sektor yang disebut secara spesifik, seperti kelapa sawit, karet, kopi, kakao, produk perikanan, alas kaki, dan otomotif, karena merekalah yang berpotensi menikmati tarif impor lebih rendah di Eropa, Kanada, dan negara-negara Uni Ekonomi Eurasia. Arahnya terlihat menuju strategi yang lebih terarah, pemerintah tidak lagi hanya menyosialisasikan keberadaan FTA secara umum, tapi mulai menunjuk komoditas mana yang paling berpeluang dipakai berdasarkan selisih antara ekspor saat ini dan potensi maksimalnya. Yang masih perlu dipantau adalah kapan ketiga perjanjian ini resmi mulai berlaku di lapangan dan apakah pemerintah akan merilis data utilisasi tarif preferensial setelahnya, karena itu yang membuktikan apakah strategi penyasaran komoditas ini benar-benar mendongkrak ekspor atau cuma berhenti sebagai proyeksi di atas kertas.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "pemerintah-kejar-implementasi-tiga-cepa-dagang-baru",

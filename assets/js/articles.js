@@ -3,6 +3,240 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wsbp-jadwalkan-rupslb-kedua-konversi-utang-jadi-saham",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Jadwalkan RUPSLB Kedua [Konversi Utang] jadi Saham",
+  "deck": "PT Waskita Beton Precast Tbk (WSBP) menjadwalkan RUPSLB Kedua pada 23 Oktober 2026 untuk meminta restu pemegang saham atas rencana konversi utang kreditur menjadi saham baru lewat penambahan modal tanpa HMETD.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T21:31:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9f7f2d1374_de88f8dee9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "PMTHMETD",
+   "RUPSLB",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Waskita Beton Precast Tbk (WSBP) menyampaikan perubahan dan tambahan informasi mengenai rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) lewat surat bernomor 866/WBP/DIR/2026 tanggal 13 Oktober 2026. Pembaruan ini hanya menyangkut jadwal: Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Kedua tahun 2026, yang akan meminta persetujuan pemegang saham atas pelaksanaan PMTHMETD, dijadwalkan berlangsung pada 23 Oktober 2026.",
+   "PMTHMETD ini merupakan skema pembayaran utang kepada para kreditur dengan cara mengonversi utang tersebut menjadi saham baru Perseroan, sesuai Perjanjian Perdamaian yang disahkan Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat dalam perkara No. 497/Pdt.Sus-PKPU/2021/PN.Niaga.Jkt.Pst tanggal 28 Juni 2022, dan telah berkekuatan hukum tetap lewat putusan Mahkamah Agung No. 1455 K/Pdt.Sus-Pailit/2022 tanggal 20 September 2022. Perseroan menyebut dasar hukum pelaksanaannya adalah Pasal 8B huruf b Peraturan OJK tentang HMETD, karena pada saat RUPS yang nanti menyetujui penambahan modal ini, modal kerja bersih Perseroan berada dalam posisi negatif dan liabilitasnya melebihi 80 persen dari total aset.",
+   "Rangkaian surat-menyurat menunjukkan proses ini sudah berjalan sejak pertengahan tahun: WSBP pertama kali menyampaikan keterbukaan informasi PMTHMETD ke OJK pada 26 Agustus 2026, mendapat tanggapan lewat Surat OJK No. S-296/PM.212/2026 tanggal 8 September 2026, lalu mengirim tanggapan tambahan pada 30 September 2026, sebelum akhirnya memperbarui jadwal RUPSLB lewat surat terbaru ini. Perseroan juga menegaskan bahwa karena permodalan Waskita Beton Precast tidak bersumber langsung dari penyertaan negara, rencana ini tidak memerlukan persetujuan tambahan dari instansi pemerintah selain restu RUPS."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting rows of precast concrete beams stacked in an industrial manufacturing yard under an overcast sky.",
+  "takeaway": "Laporan ini netral bagi pemegang saham WSBP, karena isinya cuma menggeser jadwal rapat, bukan mengubah jumlah saham baru atau nilai utang yang dikonversi. Yang lebih penting untuk diperhatikan adalah program konversi utang ini sendiri: ekuitas Perseroan berpotensi membaik karena beban utang berkurang, tapi jumlah saham beredar akan bertambah begitu saham baru hasil konversi diterbitkan, yang bisa membuat laba per saham bagi pemegang saham lama jadi lebih kecil. Perseroan sendiri mengakui modal kerja bersihnya negatif dan utangnya sudah melebihi 80 persen dari total aset, kondisi yang menjadi dasar hukum kenapa opsi suntikan modal lewat konversi utang ini ditempuh. Yang perlu dipantau selanjutnya adalah hasil RUPSLB Kedua pada 23 Oktober 2026, karena di rapat itulah pemegang saham akan memutuskan menyetujui atau menolak skema konversi utang menjadi saham tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smii-catatkan-obligasi-rp3-3-triliun-di-bursa",
+  "category": "Aksi Korporasi",
+  "title": "SMII Catatkan [Obligasi] Rp3,3 Triliun di Bursa",
+  "deck": "BEI mencatatkan tiga seri obligasi SMII senilai total Rp3,3 triliun mulai 14 Oktober 2026, dengan bunga 7,15 sampai 7,65 persen dan jatuh tempo bertahap hingga 2031.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T21:08:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b739e93078_d113de7b8d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMII",
+  "tags": [
+   "SMII",
+   "obligasi korporasi",
+   "pasar modal",
+   "BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan pencatatan awal Obligasi Berkelanjutan V Sarana Multi Infrastruktur Tahap II Tahun 2026 milik SMII, mulai diperdagangkan pada 14 Oktober 2026. Obligasi ini terbit dalam tiga seri dengan total nilai Rp3,3 triliun. Seri A bernilai Rp1,3725 triliun dengan bunga 7,15 persen per tahun, terbit 13 Oktober 2026 dan jatuh tempo 23 Oktober 2027. Seri B bernilai Rp493,5 miliar dengan bunga 7,40 persen, jatuh tempo 13 Oktober 2029. Seri C bernilai Rp1,434 triliun dengan bunga 7,65 persen, jatuh tempo paling panjang pada 13 Oktober 2031. PT Bank Mandiri (Persero) Tbk bertindak sebagai wali amanat, dan PEFINDO memberi peringkat idAAA atau Triple A untuk emisi ini.",
+   "Dokumen menyebutkan obligasi ini tidak dijamin agunan khusus, tetapi dijamin dengan seluruh harta kekayaan perseroan baik yang sudah ada maupun yang akan ada, sesuai pasal 1131 dan 1132 KUH Perdata. Hak pemegang obligasi bersifat paripassu, artinya sejajar tanpa prioritas dibanding kreditur lain perseroan. Perseroan juga berhak membeli kembali obligasi untuk pelunasan atau dijual ulang dengan harga pasar, tetapi baru boleh dilakukan satu tahun setelah tanggal penjatahan dan hanya kepada pihak yang tidak terafiliasi, kecuali afiliasi yang timbul dari kepemilikan atau penyertaan modal pemerintah. Obligasi ini hanya diterbitkan dalam bentuk sertifikat jumbo yang didaftarkan atas nama KSEI dan didistribusikan secara elektronik kepada investor."
+  ],
+  "fotoAdegan": "Highway overpass construction site at dusk with cranes and steel girders, Indonesian infrastructure project in progress",
+  "takeaway": "Laporan ini netral bagi SMII karena menerbitkan obligasi memang kegiatan inti perusahaan pembiayaan infrastruktur milik negara ini, bukan tanda masalah atau keunggulan khusus. Pos yang tersentuh adalah beban bunga, yaitu kewajiban membayar bunga tahunan kepada pemegang obligasi, yang kini bertambah sekitar Rp3,3 triliun pokok utang baru dengan bunga 7,15 sampai 7,65 persen, serta arus kas masuk dari dana segar yang diterima perseroan untuk disalurkan kembali sebagai pembiayaan proyek infrastruktur. Peringkat idAAA dari PEFINDO menunjukkan lembaga pemeringkat menilai risiko gagal bayar perseroan sangat rendah, yang membantu menekan biaya bunga saat penerbitan. Yang perlu dipantau berikutnya adalah tanggal jatuh tempo Seri A pada 23 Oktober 2027, saat perseroan harus melunasi pokok senilai Rp1,3725 triliun, serta kemungkinan tahap penerbitan berikutnya dari program Obligasi Berkelanjutan V ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cpri-minta-perpanjangan-waktu-ke-bei-kas-anjlok-92",
+  "category": "Aksi Korporasi",
+  "title": "CPRI minta perpanjangan waktu ke BEI, [kas anjlok 92%]",
+  "deck": "CPRI meminta perpanjangan waktu ke BEI hingga 16 Oktober 2026, sembari mengungkap kas yang anjlok 92 persen dan beban administrasi yang melampaui pendapatan pada laporan keuangan 2022.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T20:56:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/183ce5a897_0fcbe40844.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CPRI",
+  "tags": [
+   "CPRI",
+   "properti",
+   "going concern",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Capri Nusa Satu Properti Tbk (CPRI) mengirim surat tanggapan parsial kepada Bursa Efek Indonesia pada 13 Oktober 2026, menjawab surat BEI bernomor S-12862/BEI.PP1/10-2026 tanggal 9 Oktober 2026 perihal permintaan penjelasan dan reminder kewajiban. Surat yang ditandatangani Direktur Utama Jansen Surbakti itu baru menjawab sebagian pertanyaan Bursa, dan perusahaan meminta perpanjangan waktu hingga 16 Oktober 2026 untuk sisa jawaban karena masih memverifikasi data keuangan, berkonsultasi dengan auditor, dan mengonsolidasikan data operasional.",
+   "Soal keterlambatan pelaporan yang berulang, CPRI beralasan proses pengunggahan ke sistem XBRL Bursa berulang kali timeout sehingga harus diulang dari awal, ditambah kekurangan staf akibat karyawan resign meski sudah ada perekrutan pengganti. Perusahaan menjadwalkan laporan keuangan interim dan tahunan auditan 2023 serta 2024 selesai Desember 2026, tahun buku 2025 pada Februari 2027, interim 2026 pada Maret 2027, Public Expose Tahunan untuk periode 2023 sampai 2026 baru digelar tahun 2027, dan laporan bulanan registrasi pemegang efek pada Oktober 2026. Sementara itu, denda yang belum dibayar ke Bursa masih dalam proses pengkajian arus kas internal, dan penjelasan soal mangkraknya proyek Beach Club dan Resort The Atuh di Nusa Penida, Bali, yang sebelumnya dijanjikan dibangun kembali pada November 2022 dan diserahterimakan November 2023, ditunda ke tanggapan tahap berikutnya.",
+   "Dari laporan keuangan auditan 2022 yang baru disampaikan 7 Oktober 2026, terungkap kas dan setara kas CPRI turun 92,22 persen dari Rp1,36 miliar pada akhir 2021 menjadi hanya Rp105,48 juta pada akhir 2022. Beban umum dan administrasi naik dari Rp3,75 miliar menjadi Rp4,57 miliar, melampaui total pendapatan yang justru turun dari Rp3,55 miliar menjadi Rp3,43 miliar, dengan beban gaji dan tunjangan naik hampir dua kali lipat ke Rp2,4 miliar meski jumlah karyawan tetap 19 orang. Dari uang muka Rp49,71 miliar, Rp26,36 miliar mengalir ke kontraktor resort Nusa Penida, PT Disky Anugerah Jumanta, dengan harga disepakati Rp43,75 miliar dan yang sudah dibayarkan Rp40,56 miliar, namun baru 35 persen atau Rp14,19 miliar yang dikapitalisasi sebagai bangunan dalam pembangunan. Perusahaan belum menjawab dasar perhitungan kapitalisasi 35 persen itu, status piutang usaha yang mayoritas berumur lebih dari 91 hari, maupun rencana perbaikan atas opini going concern dari auditor, semuanya dijanjikan menyusul.",
+   "CPRI menyatakan kebutuhan operasional sehari hari, termasuk pembayaran ke pemasok, karyawan, dan kreditur, saat ini ditopang kombinasi arus kas sewa gedung Multipiranti Graha dan Jambur Djawata serta pinjaman dari pemegang saham pengendali. Perusahaan memastikan tidak ada putusan pengadilan material, tidak mengajukan permohonan PKPU atau pailit, dan tidak ada masalah perizinan di kantor pusat maupun Jambur Djawata, meski status perizinan proyek resort Nusa Penida tidak disebutkan secara terpisah."
+  ],
+  "fotoAdegan": "Stalled resort construction site with exposed concrete frames and scaffolding on a tropical cliffside, overcast sky, no workers visible",
+  "takeaway": "Laporan ini condong negatif bagi CPRI, karena memperlihatkan tekanan keuangan yang belum terjawab tuntas: kas menipis drastis, beban melampaui pendapatan, dan opini going concern dari auditor yang rencana perbaikannya pun belum diungkap setelah bertahun tahun laporan menunggak. Pos yang tersentuh adalah kas dan setara kas, yang anjlok 92,22 persen dalam setahun, serta beban umum dan administrasi, yaitu ongkos operasional kantor termasuk gaji, yang kini lebih besar dari seluruh pendapatan perusahaan, keduanya penting karena menunjukkan tipisnya bantalan uang tunai untuk membayar kewajiban sehari hari. Operasional CPRI saat ini bergantung pada pinjaman dari pemegang saham pengendali, bukan semata dari pendapatan sewa gedung, yang berarti kelangsungan usahanya untuk saat ini ditopang pihak terafiliasi, bukan kinerja usaha sendiri. Yang perlu dipantau berikutnya adalah tenggat 16 Oktober 2026 untuk jawaban lengkap sisa pertanyaan Bursa, termasuk rincian uang muka proyek resort Nusa Penida dan rencana perbaikan going concern, serta target penyampaian laporan keuangan 2023 dan 2024 yang dijadwalkan molor hingga Desember 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "btps-ajukan-buyback-saham-hingga-rp1-triliun-di-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Ajukan [Buyback] Saham Hingga Rp1 Triliun di RUPSLB",
+  "deck": "BTPN Syariah mengajukan rencana pembelian kembali saham senilai maksimal Rp1 triliun lewat RUPSLB hari ini, didukung laba bersih Rp655 miliar pada semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T20:45:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0700a65913_d15045ad7f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "buyback saham",
+   "RUPSLB",
+   "perbankan syariah"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) mengajukan rencana pembelian kembali saham (buyback) dengan nilai maksimal Rp1 triliun, yang dibahas dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 13 Oktober 2026. Rencana ini masih berupa usulan yang baru mengikat setelah mendapat persetujuan pemegang saham dalam rapat tersebut. Direktur BTPN Syariah, Arief Ismail, menyatakan rencana ini mencerminkan keyakinan manajemen terhadap fundamental dan prospek jangka panjang perusahaan, serta didukung posisi permodalan yang kuat.",
+   "Perusahaan membukukan laba bersih Rp655 miliar pada semester I 2026. Total aset tumbuh 8 persen secara tahunan menjadi Rp23 triliun, sementara pembiayaan yang disalurkan tumbuh 9 persen menjadi Rp11 triliun. Kinerja itu ditopang oleh Return on Asset (ROA) sebesar 7,2 persen dan Capital Adequacy Ratio atau rasio kecukupan modal (CAR) sebesar 58,7 persen. Dalam laporan resminya ke bursa, manajemen menyebut buyback ini tidak akan berdampak negatif terhadap pendapatan perusahaan karena dibiayai dari saldo laba ditahan dan arus kas yang dinilai mencukupi, berjalan bersamaan dengan kegiatan usaha sehari-hari.",
+   "BTPN Syariah menegaskan pelaksanaan buyback akan dilakukan secara terukur, dengan tetap mempertimbangkan kebutuhan bisnis serta mengedepankan prinsip kehati-hatian dan tata kelola yang baik. Dalam laporan keterbukaan informasi yang sama, perusahaan menyatakan tidak ada keterangan tambahan lain yang perlu diungkapkan terkait rencana ini."
+  ],
+  "fotoAdegan": "A bank teller assisting a customer at a counter inside a modern branch office, soft morning light, blurred background",
+  "takeaway": "Laporan ini netral bagi fundamental BTPN Syariah, sebab rencana buyback punya efek dua arah: dana tunai sampai Rp1 triliun yang dipakai membeli saham sendiri bisa mengurangi jumlah saham beredar sehingga laba per saham naik, tapi di sisi lain modal atau ekuitas perusahaan ikut menyusut karena kas yang dipakai tidak lagi menjadi bantalan usaha. Rasio kecukupan modal atau CAR, yakni ukuran seberapa tebal bantalan modal bank dibanding risiko kreditnya, tercatat 58,7 persen pada semester I 2026, jauh di atas batas minimum yang diwajibkan regulator, sehingga ruang untuk membiayai buyback sebesar itu masih longgar tanpa mengganggu arus kas operasional seperti diklaim manajemen. Yang perlu dipantau selanjutnya adalah hasil resmi RUPSLB yang digelar hari ini, 13 Oktober 2026, karena rencana ini baru mengikat setelah disetujui pemegang saham, menyusul jadwal dan harga pelaksanaan buyback begitu persetujuan itu diperoleh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-setop-sementara-waran-brna-w-pada-14-15-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BEI Setop Sementara [Waran] BRNA-W pada 14-15 Oktober",
+  "deck": "Bursa Efek Indonesia meniadakan perdagangan Waran Seri I Berlina Tbk (BRNA-W) di seluruh pasar mulai sesi pertama 14 Oktober hingga 15 Oktober 2026, terkait proses pencatatan saham baru perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T20:30:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Peniadaan Waran BRNA-W 261013-No. Peng-00194BEI.POP10-2026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRNA-W",
+  "tags": [
+   "BRNA",
+   "BRNA-W",
+   "waran",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menerbitkan pengumuman bernomor Peng-00194/BEI.POP/10-2026 tertanggal 13 Oktober 2026 yang memutuskan meniadakan perdagangan Waran Seri I Berlina Tbk dengan kode BRNA-W di seluruh pasar. Peniadaan berlaku mulai sesi 1 perdagangan hari Rabu, 14 Oktober 2026, sampai hari Kamis, 15 Oktober 2026. Keputusan ini merujuk pada pengumuman BEI sebelumnya, No. Peng-RI-00045/BEI.PP2/10-2026 yang juga terbit 13 Oktober 2026, mengenai pencatatan efek bersifat ekuitas dan pra pencatatan saham PT Berlina Tbk.",
+   "BEI menyebut langkah ini diambil demi menjaga penyelenggaraan perdagangan dan penyelesaian transaksi yang wajar atas BRNA-W, yang saat ini tercatat di Papan Pengembangan. Bursa juga meminta pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi yang disampaikan oleh PT Berlina Tbk terkait proses pencatatan saham barunya. Pengumuman ditandatangani secara elektronik oleh Kepala Divisi Pengaturan dan Operasional Perdagangan, Pande Made Kusuma Ari A., dan Kepala Divisi Penilaian Perusahaan 2, Adi Pratomo Aryanto."
+  ],
+  "fotoAdegan": "Rows of computer monitors glowing with blurred abstract charts at a brokerage trading desk, dim evening light",
+  "takeaway": "Laporan ini netral bagi Berlina, karena isinya murni teknis, menghentikan sementara perdagangan waran selama proses administratif pencatatan saham baru berjalan, bukan kabar soal kinerja perusahaan. Pos yang tersentuh adalah jumlah saham beredar: waran adalah hak membeli saham baru di harga tertentu pada masa depan, dan setiap saham baru yang dicatatkan dari pelaksanaan waran menambah jumlah saham beredar perseroan, yang bisa membuat laba per saham terdilusi atau terbagi ke lebih banyak lembar. Pemegang BRNA-W perlu tahu mereka tidak bisa bertransaksi atas waran ini sepanjang 14 hingga 15 Oktober 2026. Yang perlu dipantau berikutnya adalah isi pengumuman BEI No. Peng-RI-00045 soal pencatatan saham baru tersebut serta keterbukaan informasi lanjutan dari PT Berlina Tbk, termasuk kapan perdagangan BRNA-W kembali normal setelah 15 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wsbp-panggil-rupslb-kedua-soal-konversi-utang-jadi-saham",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Panggil RUPSLB Kedua Soal [Konversi] Utang Jadi Saham",
+  "deck": "Setelah RUPS pertama gagal kuorum, WSBP menjadwalkan ulang rapat pada 23 Oktober 2026 untuk mengesahkan konversi utang Rp1,72 triliun menjadi saham baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T20:29:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/589ca26fbf_68fb837190.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "RUPSLB",
+   "konversi utang",
+   "restrukturisasi"
+  ],
+  "body": [
+   "PT Waskita Beton Precast Tbk (WSBP) resmi memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Kedua pada Jumat, 23 Oktober 2026 pukul 14.00 WIB, setelah RUPSLB pertama yang digelar 2 Oktober 2026 gagal mencapai kuorum untuk tiga dari empat agenda. Rapat akan berlangsung di Jakarta Timur sekaligus secara elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per 12 Oktober 2026.",
+   "Tiga agenda yang akan dimintakan persetujuan ulang semuanya berkaitan dengan pelaksanaan perjanjian perdamaian restrukturisasi utang perseroan. Agenda pertama mengesahkan penyesuaian nilai konversi utang menjadi ekuitas untuk kreditur golongan Tranche D, dari sebelumnya maksimal Rp1.712.887.127.054 menjadi maksimal Rp1.718.983.057.509. Agenda kedua menyesuaikan jumlah saham biasa Seri C yang akan diterbitkan untuk konversi tersebut, dari maksimal 33.711.614.004 saham menjadi maksimal 33.831.589.017 saham dengan nilai nominal Rp50 per saham. Agenda ketiga mengesahkan penambahan modal ditempatkan dan disetor menjadi maksimal Rp4.327.695.204.250 melalui penerbitan saham tanpa hak memesan efek terlebih dahulu, sekaligus mengubah pasal permodalan dalam anggaran dasar perseroan.",
+   "Perseroan menjelaskan penyesuaian angka ini diperlukan karena sebagian klaim kreditur dagang dalam Tranche D masih memerlukan proses pembuktian dan pelengkapan dokumen sejak perjanjian perdamaian berlaku efektif. Bagi pemegang saham yang ingin memberikan suara secara elektronik, batas waktu deklarasi kehadiran, kuasa elektronik, dan pemungutan suara melalui eASY.KSEI adalah pukul 12.00 WIB pada 22 Oktober 2026. Pemegang saham yang berencana hadir fisik wajib mengonfirmasi kehadiran paling lambat tiga hari sebelum rapat."
+  ],
+  "fotoAdegan": "Workers walking between tall stacks of precast concrete beams at an industrial casting yard, overcast daylight, no readable text",
+  "takeaway": "Laporan ini netral bagi pemegang saham WSBP, karena isinya cuma mengulang dan sedikit menyesuaikan keputusan RUPS yang sudah disetujui sejak 2023 dan 2025, bukan rencana dilusi baru. Yang tersentuh tetap pos ekuitas, sebab konversi utang menjadi saham memang mengurangi beban utang perseroan tapi menambah jumlah saham beredar, sehingga laba per saham ke depan bisa terbagi ke lebih banyak lembar saham. Kenaikan angka konversi dan jumlah saham baru di laporan ini pun sangat kecil, masing masing di bawah setengah persen dari rencana semula, jadi bukan perubahan besar. Yang perlu dipantau adalah apakah RUPSLB kedua pada 23 Oktober 2026 berhasil mencapai kuorum, mengingat rapat pertama gagal karena jumlah pemegang saham yang hadir tidak cukup, dengan batas akhir pemberian suara elektronik pada 22 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wika-panggil-rupsu-minta-penundaan-bayar-bagi-hasil-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Panggil RUPSU, Minta [Penundaan] Bayar Bagi Hasil Sukuk",
+  "deck": "WIKA mengundang pemegang Sukuk Mudharabah Berkelanjutan I Tahap II 2021 ke RUPSU 28 Oktober 2026 untuk membahas penundaan pembayaran bagi hasil dan perubahan jatuh tempo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T20:15:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2e93bf65c_ffc9214e97.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) mengundang para pemegang Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap II Tahun 2021 untuk menghadiri Rapat Umum Pemegang Sukuk (RUPSU) pada Rabu, 28 Oktober 2026, pukul 14.00 WIB di WIKA Tower 2, Jakarta Timur. Rapat ini diselenggarakan oleh PT Bank Mega Tbk selaku wali amanat atas permintaan WIKA sendiri selaku emiten, merujuk pada Perjanjian Perwaliamanatan Akta No. 14 tanggal 8 Februari 2021 yang dibuat di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito.",
+   "Dua agenda pertama RUPSU membahas perubahan Pasal 5 ayat 5.5 huruf f mengenai perubahan dan/atau penundaan jadwal pembayaran pendapatan bagi hasil ke-23 sukuk tersebut, serta perubahan Pasal 5 ayat 5.3 mengenai perubahan jatuh tempo sukuk beserta pasal atau perjanjian lain yang terkait. Artinya, WIKA meminta persetujuan pemegang sukuk untuk menggeser tanggal pembayaran bagi hasil berikutnya dan memperpanjang atau mengubah tenggat pelunasan sukuk dari jadwal awal.",
+   "Dua agenda berikutnya meminta persetujuan perubahan Pasal 5 ayat 5.5 mengenai besaran pendapatan bagi hasil, nisbah atau porsi bagi hasil untuk pemegang sukuk, pendapatan yang dibagihasilkan, serta indikasi pendapatan bagi hasil yang ditawarkan. Agenda keempat meminta perubahan Pasal 6 ayat 6.3 huruf m mengenai kewajiban rasio keuangan yang harus dijaga WIKA selama sukuk ini belum lunas. RUPSU dinyatakan sah bila dihadiri pemegang yang mewakili minimal tiga per empat dari total sukuk yang belum dilunasi, dan keputusan baru mengikat jika disetujui minimal tiga per empat dari sukuk yang hadir dalam rapat.",
+   "Sukuk yang dimiliki WIKA sendiri atau afiliasinya tidak punya hak suara dalam RUPSU ini, kecuali afiliasi tersebut terbentuk karena kepemilikan atau penyertaan modal pemerintah. Pemegang sukuk yang berhak hadir adalah yang namanya tercatat di Daftar Pemegang Rekening KSEI tiga hari kerja sebelum tanggal RUPSU."
+  ],
+  "fotoAdegan": "Construction workers in hard hats welding steel rebar framework at a highrise building site, late afternoon haze, city skyline in background",
+  "takeaway": "Laporan ini condong negatif bagi WIKA, karena meminta pemegang sukuk menyetujui penundaan jadwal pembayaran bagi hasil dan perubahan jatuh tempo bukan langkah rutin, melainkan sinyal bahwa arus kas perusahaan sedang tertekan sehingga perlu menata ulang jadwal pembayaran utangnya. Pos yang tersentuh adalah arus kas dan rasio keuangan WIKA, sebab sukuk mudharabah membayar imbal hasil yang disebut bagi hasil, bukan bunga tetap, dan permintaan mengubah syarat rasio keuangan dalam perjanjian menunjukkan ruang gerak keuangan perusahaan yang menyempit, hal yang selalu dicermati pelaku pasar sebagai indikator kemampuan bayar utang suatu emiten. Perlu diingat pula WIKA baru saja mengoreksi laporan realisasi dana rights issue awal bulan ini, sehingga RUPSU ini menambah rangkaian sinyal tekanan keuangan pada emiten pelat merah ini. Yang perlu dipantau berikutnya adalah hasil pemungutan suara RUPSU pada 28 Oktober 2026, khususnya apakah pemegang sukuk menyetujui penundaan bagi hasil ke-23, perubahan jatuh tempo, dan pelonggaran rasio keuangan tersebut, karena keputusan itu butuh persetujuan minimal tiga per empat dari sukuk yang hadir.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "xmes-4-manajer-investasi-gabung-lahir-danareksa-im",
+  "category": "Aksi Korporasi",
+  "title": "XMES: 4 Manajer Investasi [Gabung], Lahir Danareksa IM",
+  "deck": "Pengelola reksa dana XMES, PT Mandiri Manajemen Investasi, resmi gabung dengan BNI AM, BRI MI, dan PNM IM menjadi PT Danareksa Investment Management Indonesia efektif 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T19:55:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63cf2bbc9e_a6febb2533.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMES",
+  "tags": [
+   "XMES",
+   "manajer investasi",
+   "merger BUMN",
+   "Danareksa"
+  ],
+  "body": [
+   "PT Mandiri Manajemen Investasi (MMI), perusahaan yang mengelola Reksa Dana Syariah Mandiri ETF Emas (XMES), resmi menjadi perusahaan penerima penggabungan dari PT BNI Asset Management (BNIAM), PT BRI Manajemen Investasi (BRIMI), dan PT PNM Investment Management (PNMIM). Penggabungan berlaku efektif 1 Oktober 2026, berdasarkan Akta Penggabungan Nomor 262 tanggal 28 September 2026 di hadapan notaris Jose Dima Satria, dan telah diterima pemberitahuannya oleh Menteri Hukum melalui surat tertanggal 30 September 2026. Akibatnya, seluruh aset, kewajiban, dan status badan hukum BNIAM, BRIMI, serta PNMIM beralih ke MMI tanpa proses likuidasi, dan MMI berganti nama menjadi PT Danareksa Investment Management Indonesia.",
+   "Seiring penggabungan itu, modal dasar perusahaan naik dari Rp100 miliar menjadi Rp555 miliar, dengan jumlah lembar saham bertambah dari 2.500 menjadi 13.875 lembar. Modal yang sudah ditempatkan dan disetor penuh juga naik dari Rp60 miliar menjadi Rp182,92 miliar, dari 1.500 lembar saham menjadi 4.573 lembar, masing-masing dengan nilai nominal Rp40 juta per lembar. Susunan direksi dan dewan komisaris baru perusahaan juga mulai berlaku sejak tanggal efektif penggabungan, berdasarkan akta tertanggal 28 September 2026, meski rincian nama-namanya tidak dicantumkan dalam pengumuman ini. Penggabungan ini telah diumumkan ke publik lewat dua koran nasional, Investor Daily dan Media Indonesia, pada 1 Oktober 2026.",
+   "Secara operasional, kantor pusat baru perusahaan berada di Menara Mandiri 2 Lantai 15, Jalan Jenderal Sudirman Kavling 54-55, Jakarta Selatan, dengan kantor pendukung di Gedung BRI II Lantai 25, Jalan Jenderal Sudirman Kavling 44-46, Jakarta Pusat. Domain email seluruh entitas yang bergabung berubah menjadi @danareksainvestments.com, sementara alamat email lama dari domain BNIAM, BRIMI, PNMIM, dan MMI tetap bisa dipakai sementara karena otomatis diteruskan ke domain baru. Situs web masing-masing entitas lama untuk sementara tetap aktif dan memuat informasi produk, sebelum konsolidasi bertahap ke satu situs resmi baru yang alamatnya akan diumumkan kemudian. Surat pemberitahuan ini ditandatangani oleh Arief Budiman, Direktur Pemasaran dan Produk perusahaan."
+  ],
+  "fotoAdegan": "Glass-fronted high-rise office towers along a busy Jakarta business district avenue, taxis and pedestrians below, late afternoon light",
+  "takeaway": "Laporan ini netral bagi pemegang unit XMES karena perubahan yang terjadi ada di level manajer investasi dan sifatnya administratif, bukan pada emas fisik yang menjadi aset dasar reksa dana, sehingga tidak otomatis mengubah nilai investasi pemegang unit. Yang patut dicatat, modal disetor manajer investasi naik dari Rp60 miliar menjadi Rp182,92 miliar, artinya bantalan keuangan perusahaan yang mengelola dana pemegang unit menjadi lebih tebal, hal yang biasanya dibaca pasar sebagai tanda ketahanan operasional yang lebih baik. Susunan direksi dan komisaris baru juga mulai berlaku sejak 1 Oktober 2026, tapi nama-namanya belum dirinci dalam surat ini. Yang perlu dipantau pemegang unit XMES selanjutnya adalah peluncuran resmi identitas dan situs web baru PT Danareksa Investment Management Indonesia, yang menurut suratnya baru akan diumumkan belakangan, serta pembaruan dokumen produk atau prospektus XMES yang mencantumkan nama manajer investasi baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tufi-tunjuk-komisaris-independen-baru-tunggu-uji-ojk",
+  "category": "Aksi Korporasi",
+  "title": "TUFI tunjuk [komisaris independen] baru, tunggu uji OJK",
+  "deck": "Komisaris independen baru TUFI, Ahmad Bahtiar Sebayang, menunggu uji kelayakan OJK sebelum menggantikan Fendy Eventius Mugni.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T19:36:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c91c66ec69_b3e523e6f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TUFI",
+  "tags": [
+   "TUFI",
+   "Mandiri Tunas Finance",
+   "komisaris independen",
+   "OJK"
+  ],
+  "body": [
+   "Berdasarkan Keputusan Sirkuler Pemegang Saham PT Mandiri Tunas Finance (TUFI) tanggal 9 Oktober 2026, perusahaan mengubah susunan Dewan Komisaris dengan menunjuk Ahmad Bahtiar Sebayang sebagai komisaris independen baru, menggantikan Fendy Eventius Mugni. Penunjukan itu baru efektif setelah Ahmad lolos uji kemampuan dan kepatutan (fit and proper test) dari Otoritas Jasa Keuangan, dan perusahaan menyebut dokumen untuk pengajuan uji tersebut masih dalam proses pelengkapan.",
+   "Posisi lain di jajaran komisaris tidak berubah. Muchammad Romahurmuziy tetap menjabat Komisaris Utama sejak 6 Januari 2026, namun statusnya juga masih menunggu persetujuan fit and proper test OJK. Nugraha Indra Permadi tetap Wakil Komisaris Utama dengan persetujuan OJK yang sudah terbit lewat surat Nomor KEP-51/D.06/2025 tanggal 17 September 2025. Komisaris independen lainnya, Subarna, tetap menjabat berdasarkan persetujuan OJK Nomor KEP-9/D.06/2025 tanggal 14 Maret 2025.",
+   "Di jajaran direksi tidak ada perubahan personel. Freddy Iwan S. Tambunan tetap Direktur Utama dan Anggi Mutiara tetap Direktur, keduanya dengan persetujuan OJK yang terbit 7 Agustus 2026 melalui surat KEP-52/D.06/2026 dan KEP-53/D.06/2026. William Francis Indra tetap menjabat Direktur berdasarkan persetujuan OJK sejak 6 Juli 2021. Surat keterbukaan ini ditandatangani Freddy Iwan S. Tambunan selaku Direktur Utama dan ditembuskan ke PT Bank BRI Tbk selaku wali amanat perseroan, KSEI, serta Pefindo."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with leather chairs around a long table, city skyline through large windows, soft morning light",
+  "takeaway": "Perubahan ini condong netral bagi TUFI karena yang berganti hanya satu kursi komisaris independen, sementara jajaran direksi dan pemegang kendali perusahaan tidak tersentuh sama sekali. Yang tersentuh di sini bukan angka keuangan seperti ekuitas atau laba per saham, melainkan kualitas pengawasan: komisaris independen bertugas mengawasi kinerja direksi tanpa dibebani kepentingan pemegang saham pengendali, sehingga pelaku pasar memperhatikan siapa yang mengisi kursi itu sebagai penanda tata kelola perusahaan. Yang perlu dipantau selanjutnya adalah hasil uji kemampuan dan kepatutan OJK atas Ahmad Bahtiar Sebayang, karena jabatannya baru efektif setelah lolos uji itu. Proses serupa untuk Komisaris Utama Muchammad Romahurmuziy, yang sudah menjabat sejak 6 Januari 2026 namun belum mendapat persetujuan OJK sampai laporan ini terbit, juga layak diikuti karena menunjukkan dua posisi puncak pengawasan TUFI masih berstatus sementara.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "xmsk-empat-manajer-investasi-gabung-jadi-danareksa-im",
   "category": "Aksi Korporasi",
   "title": "XMSK: Empat Manajer Investasi Gabung Jadi [Danareksa IM]",
@@ -314,6 +548,84 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Technicians installing small wireless antenna equipment on a steel telecom tower above rooftops in a Jakarta suburb, late afternoon",
   "takeaway": "Laporan ini netral bagi WIFI, sebab isinya cuma pembaruan rutin soal ke mana mengalirnya dana obligasi dan sukuk yang baru efektif akhir Juni 2026, bukan kabar bisnis baru. Yang tersentuh adalah beban bunga dan arus kas perusahaan: dana Rp2,4 triliun yang hampir seluruh hasil penerbitan Rp2,5 triliun untuk sementara hanya disimpan di giro bank berbunga 0,5 sampai 1,65 persen setahun, padahal WIFI tetap wajib membayar kupon obligasi dan sukuknya setiap tiga bulan, sehingga ada selisih biaya dana yang menggerus laba selama uang itu menganggur. Yang perlu dipantau berikutnya adalah realisasi pembelian perangkat CPE dan RAN oleh TKP yang ditargetkan selesai pada kuartal III sampai IV 2026, serta laporan transaksi afiliasi antara WIFI dan TKP ke OJK yang wajib disampaikan paling lambat dua hari kerja setelah dana benar-benar dipakai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wifi-koreksi-realisasi-dana-rights-issue-capex-baru-22",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Koreksi Realisasi Dana Rights Issue, [Capex] Baru 22%",
+  "deck": "Realisasi penggunaan dana rights issue WIFI senilai Rp5,89 triliun per 30 Juni 2026 baru 22,48 persen, jauh di bawah rencana 85,9 persen untuk belanja modal proyek FWA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T17:44:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e86cf55e3e_cfb3e5cc53.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "rights issue",
+   "penggunaan dana",
+   "FWA"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) mengoreksi laporan penggunaan dana hasil rights issue yang sebelumnya disampaikan 15 Juli 2026. Rights issue WIFI-R efektif 20 Juni 2025 menghasilkan dana kotor Rp5.898.387.794.000, dengan biaya emisi Rp1.580.000.000 sehingga dana bersih yang diterima Rp5.896.807.794.000. Per periode laporan 30 Juni 2026, perusahaan baru merealisasikan Rp1.325.617.794.000 atau 22,48 persen dari dana tersebut, sementara sisanya Rp4.571.190.000.000 atau 77,52 persen masih tersimpan dalam bentuk giro dan deposito di sejumlah bank.",
+   "Rencana awal mengalokasikan Rp5.065.218.000.000 atau 85,9 persen dari dana bersih untuk belanja modal pengadaan perangkat CPE dan RAN proyek internet rumahan tanpa kabel (fixed wireless access/FWA). Realisasinya baru Rp1.325.617.794.000 atau 22,48 persen, deviasi minus 73,83 persen dari rencana, dengan alasan pengadaan perangkat dilakukan bertahap sesuai kebutuhan dan kondisi pasar, ditargetkan tuntas kuartal IV 2027. Dua pos lain belum terealisasi sama sekali: biaya izin pita frekuensi radio (IPFR) tahunan 1,4 GHz tahun kedua sebesar Rp403.764.000.000 atau 6,85 persen, karena belum jatuh tempo dan baru dibayarkan Desember 2026, serta modal kerja proyek FWA sebesar Rp421.018.000.000 atau 7,14 persen, yang masih ditutup dari kas internal perusahaan. Dokumen juga menjelaskan alur dananya: perseroan menyetor modal Rp5.890.000.000.000 ke anak usaha PT Jaringan Infra Andalan (JIA), yang kemudian meneruskannya dengan jumlah sama ke PT Telemedia Komunikasi Pratama (TKP) untuk pengadaan perangkat, namun setoran itu pada tanggal cut off laporan belum tercatat resmi sebagai modal di JIA maupun TKP dan baru akan dikonversi pada kuartal IV 2026.",
+   "Sisa dana Rp4.571.190.000.000 ditempatkan di delapan rekening berbeda: giro BCA Rp29,5 miliar (bunga 0,5 persen), giro Bank J Trust Rp860,9 miliar (0,9 persen), giro Bank KB Indonesia Rp47,1 miliar (1,65 persen), giro Bank Maybank Indonesia Rp26,7 miliar (3 persen), deposito Bank Hibank Rp52,5 miliar dan Rp412 miliar (masing-masing 5 persen), giro Bank Hibank atas nama JIA Rp1,5 triliun (0,5 persen), serta giro Bank Jakarta atas nama JIA Rp1.642.490.000.000 (1,25 persen). Biaya penawaran umum sebesar Rp1,58 miliar dirinci untuk jasa akuntan KAP Anwar & Rekan Rp175 juta, konsultan hukum Dentons HPRP Rp400 juta, notaris Rini Yulianti Rp55 juta, biro administrasi efek Ficomindo Rp50 juta, pendaftaran OJK Rp750 juta, dan pencatatan BEI Rp150 juta. Laporan realisasi ditandatangani Shannedy Ong selaku Direktur di Jakarta 13 Oktober 2026, sedangkan surat pengantar koreksinya ditandatangani Hendrik Tee selaku Direktur Utama."
+  ],
+  "fotoAdegan": "Technicians installing fixed wireless broadband antennas and cabling on a telecom rooftop tower in Jakarta, daytime, wide shot",
+  "takeaway": "Laporan ini condong negatif bagi WIFI karena realisasi penggunaan dana rights issue baru 22,48 persen dari target 85,9 persen untuk belanja modal proyek internet rumahan tanpa kabel (FWA), deviasi minus 73,83 persen dari rencana yang disusun sendiri oleh perusahaan. Pos yang tersentuh adalah belanja modal dan arus kas, sebab dana Rp4,57 triliun yang belum terpakai hanya disimpan dalam giro dan deposito berbunga rendah, bukan dibelanjakan untuk perluasan jaringan yang seharusnya mendatangkan pendapatan baru, sementara setoran modal Rp5,89 triliun dari perseroan ke anak usaha JIA dan TKP juga belum resmi tercatat sebagai modal di laporan keuangan kedua entitas itu. Yang perlu dipantau adalah konversi setoran modal tersebut yang dijanjikan rampung kuartal IV 2026, pembayaran biaya izin frekuensi 1,4 GHz tahun kedua senilai Rp403,76 miliar pada Desember 2026, serta target penyelesaian seluruh belanja modal proyek FWA pada kuartal IV 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dmmx-koreksi-laporan-realisasi-dana-ipo-sisa-nihil",
+  "category": "Aksi Korporasi",
+  "title": "DMMX Koreksi Laporan [Realisasi] Dana IPO, Sisa Nihil",
+  "deck": "PT Digital Mediatama Maxima Tbk mengoreksi laporan realisasi dana IPO 2019, seluruh Rp603,06 miliar hasil bersih telah terpakai habis untuk modal kerja, teknologi, dan SDM.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T17:31:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f85166cc0e_508a6beeda.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMMX",
+  "tags": [
+   "DMMX",
+   "penggunaan dana IPO",
+   "laporan keterbukaan",
+   "digital"
+  ],
+  "body": [
+   "PT Digital Mediatama Maxima Tbk (DMMX) mengoreksi laporan penggunaan dana hasil penawaran umum yang sebelumnya disampaikan pada 15 Juli 2026. Dalam surat bernomor 078/CORP-DMMX/X/2026 yang ditandatangani Corporate Secretary Risa Pramesti, perseroan menegaskan bahwa dari penawaran umum saham perdana yang efektif pada 21 Oktober 2019, total dana yang terkumpul adalah Rp619,23 miliar. Setelah dipotong biaya penawaran umum sebesar Rp16,17 miliar, hasil bersih yang diterima perseroan mencapai Rp603,06 miliar, dan seluruhnya telah terealisasi sehingga sisa dana per laporan ini nihil.",
+   "Rincian penggunaan dana menunjukkan porsi terbesar, Rp470,91 miliar atau 78,1 persen, dialokasikan untuk peningkatan modal kerja. Sisanya, Rp120,61 miliar atau 20 persen, digunakan untuk peningkatan teknologi komunikasi dan informasi, dan Rp11,54 miliar atau 1,9 persen untuk pengembangan dan pembinaan sumber daya manusia. Angka realisasi ini sama persis dengan rencana yang tertulis di prospektus, tanpa ada pergeseran alokasi antarpos.",
+   "Dari sisi biaya, komponen terbesar adalah biaya jasa penyelenggaraan atau management fee sebesar Rp9,29 miliar, setara 57,4 persen dari total biaya penawaran umum. Biaya jasa penjaminan dan biaya jasa penjualan masing masing tercatat Rp1,55 miliar atau 9,6 persen, biaya jasa profesi penunjang pasar modal Rp1,35 miliar atau 8,3 persen, biaya lain lain seperti pendaftaran OJK dan pencatatan di BEI Rp2,1 miliar atau 13 persen, biaya bursa efek dan kustodian sentral Rp225,83 juta atau 1,4 persen, serta biaya jasa lembaga penunjang pasar modal Rp114,43 juta atau 0,7 persen."
+  ],
+  "fotoAdegan": "Technicians checking rows of server racks in a dim data center, blue indicator lights glowing softly, modern Jakarta office",
+  "takeaway": "Laporan ini saya nilai netral bagi DMMX, karena yang terjadi hanyalah koreksi administratif atas laporan penggunaan dana IPO yang sudah diumumkan sejak Juli 2026, tanpa ada perubahan jumlah dana atau rencana penggunaannya. Pos yang tersentuh adalah modal kerja, yaitu dana untuk kebutuhan operasional harian seperti persediaan dan beban usaha, serta belanja teknologi informasi, dua pos yang menyerap hampir seluruh dana IPO sehingga tidak ada kas menganggur dari hasil penawaran umum ini. Pelaku pasar memperhatikan laporan semacam ini karena jadi bukti apakah dana publik benar benar dipakai sesuai janji di prospektus, dan pada DMMX realisasinya memang sama persis dengan rencana semula. Karena sisa dana sudah nihil sejak laporan ini, DMMX tidak lagi punya kewajiban melaporkan penggunaan dana IPO ke bursa pada periode berikutnya, dan perhatian pasar berpindah ke apakah investasi modal kerja dan teknologi ini tercermin pada kinerja operasional di laporan keuangan periode berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gmfi-siapkan-pmhmetd-terbitkan-22-03-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Siapkan PMHMETD, Terbitkan [22,03 Miliar] Saham Baru",
+  "deck": "GMFI berencana menerbitkan hingga 22,03 miliar saham baru Seri B lewat PMHMETD III senilai nominal Rp19 per saham, untuk dimintakan persetujuan RUPSLB pada 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T17:25:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9f3545c35_7d4a111fad.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GMFI",
+  "tags": [
+   "GMFI",
+   "PMHMETD",
+   "RUPSLB",
+   "Garuda Indonesia"
+  ],
+  "body": [
+   "PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) mengumumkan rencana penambahan modal dengan memberikan hak memesan efek terlebih dahulu (PMHMETD) ketiga. Perseroan berencana menerbitkan saham baru Seri B sebanyak-banyaknya 22.029.751.488 lembar dengan nilai nominal Rp19 per saham. Dalam keterbukaan informasi yang diterbitkan di Tangerang pada 13 Oktober 2026, manajemen menyebut rencana ini untuk mendukung pengembangan dan ekspansi usaha, serta menyatakan aksi ini akan berdampak positif terhadap kegiatan operasional dan kondisi keuangan perusahaan. Rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada Kamis, 19 November 2026.",
+   "Berdasarkan laporan keuangan interim konsolidasian per 30 Juni 2026, total saham GMFI yang telah diterbitkan dan disetor penuh berjumlah 124.835.258.434 lembar, terdiri dari 28.233.511.500 saham Seri A dan 96.601.746.934 saham Seri B. Jika seluruh 22,03 miliar saham baru itu benar diterbitkan, jumlah saham beredar perseroan bisa bertambah sekitar 17,6 persen dari posisi saat ini. Perseroan masih memiliki simpanan saham dalam portepel sebanyak 190.464.207.066 lembar Seri B yang bisa dipakai untuk aksi ini tanpa perlu menambah modal dasar baru.",
+   "Komposisi pemegang saham GMFI saat ini menunjukkan PT Angkasa Pura Indonesia (Persero) sebagai pemegang saham terbesar di Seri B dengan 65,77 persen, sementara PT Garuda Indonesia (Persero) Tbk menguasai 20,15 persen Seri A dan 7,28 persen Seri B. Pemerintah Republik Indonesia tercatat sebagai pengendali perseroan melalui Garuda Indonesia. Nilai nominal saham GMFI sendiri telah diseragamkan menjadi Rp19 per lembar untuk Seri A maupun Seri B, menyusul proses kuasi reorganisasi dan pengurangan modal yang efektif berlaku pada 30 September 2026, turun dari sebelumnya Rp100 per saham Seri A dan Rp25 per saham Seri B."
+  ],
+  "fotoAdegan": "Aircraft technicians in overalls inspecting a commercial jet engine inside a spacious maintenance hangar, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi pemegang saham untuk saat ini, sebab ukurannya besar dari sisi jumlah saham tapi belum menyebutkan harga pelaksanaan maupun rincian penggunaan dana, sehingga dampak sebenarnya ke kantong pemegang saham belum bisa dipastikan. Yang tersentuh adalah jumlah saham beredar dan laba per saham, karena menambah hingga 22,03 miliar saham dari basis 124,84 miliar saham saat ini berarti jumlah saham bisa naik sekitar 17,6 persen, dan pemegang saham yang tidak menebus haknya akan melihat porsi kepemilikan serta laba per sahamnya terpotong dengan proporsi serupa. Di sisi lain, dana yang terkumpul rencananya dipakai untuk ekspansi usaha perawatan pesawat, yang bila terealisasi bisa menambah kapasitas dan pendapatan jangka panjang. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada Kamis, 19 November 2026, serta keterbukaan informasi lanjutan yang memuat harga pelaksanaan dan rasio HMETD setelah RUPSLB tersebut.",
   "sentimen": "netral"
  },
  {

@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wsbp-jadwalkan-rupslb-kedua-konversi-utang-jadi-saham",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Jadwalkan RUPSLB Kedua [Konversi Utang] jadi Saham",
+  "deck": "PT Waskita Beton Precast Tbk (WSBP) menjadwalkan RUPSLB Kedua pada 23 Oktober 2026 untuk meminta restu pemegang saham atas rencana konversi utang kreditur menjadi saham baru lewat penambahan modal tanpa HMETD.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "PMTHMETD",
+   "RUPSLB",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9f7f2d1374_de88f8dee9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smii-catatkan-obligasi-rp3-3-triliun-di-bursa",
+  "category": "Aksi Korporasi",
+  "title": "SMII Catatkan [Obligasi] Rp3,3 Triliun di Bursa",
+  "deck": "BEI mencatatkan tiga seri obligasi SMII senilai total Rp3,3 triliun mulai 14 Oktober 2026, dengan bunga 7,15 sampai 7,65 persen dan jatuh tempo bertahap hingga 2031.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMII",
+   "obligasi korporasi",
+   "pasar modal",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b739e93078_d113de7b8d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cpri-minta-perpanjangan-waktu-ke-bei-kas-anjlok-92",
+  "category": "Aksi Korporasi",
+  "title": "CPRI minta perpanjangan waktu ke BEI, [kas anjlok 92%]",
+  "deck": "CPRI meminta perpanjangan waktu ke BEI hingga 16 Oktober 2026, sembari mengungkap kas yang anjlok 92 persen dan beban administrasi yang melampaui pendapatan pada laporan keuangan 2022.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CPRI",
+   "properti",
+   "going concern",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/183ce5a897_0fcbe40844.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btps-ajukan-buyback-saham-hingga-rp1-triliun-di-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Ajukan [Buyback] Saham Hingga Rp1 Triliun di RUPSLB",
+  "deck": "BTPN Syariah mengajukan rencana pembelian kembali saham senilai maksimal Rp1 triliun lewat RUPSLB hari ini, didukung laba bersih Rp655 miliar pada semester I 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "buyback saham",
+   "RUPSLB",
+   "perbankan syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0700a65913_d15045ad7f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-setop-sementara-waran-brna-w-pada-14-15-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BEI Setop Sementara [Waran] BRNA-W pada 14-15 Oktober",
+  "deck": "Bursa Efek Indonesia meniadakan perdagangan Waran Seri I Berlina Tbk (BRNA-W) di seluruh pasar mulai sesi pertama 14 Oktober hingga 15 Oktober 2026, terkait proses pencatatan saham baru perseroan.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRNA",
+   "BRNA-W",
+   "waran",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Peniadaan Waran BRNA-W 261013-No. Peng-00194BEI.POP10-2026.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wsbp-panggil-rupslb-kedua-soal-konversi-utang-jadi-saham",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Panggil RUPSLB Kedua Soal [Konversi] Utang Jadi Saham",
+  "deck": "Setelah RUPS pertama gagal kuorum, WSBP menjadwalkan ulang rapat pada 23 Oktober 2026 untuk mengesahkan konversi utang Rp1,72 triliun menjadi saham baru.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "RUPSLB",
+   "konversi utang",
+   "restrukturisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/589ca26fbf_68fb837190.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-panggil-rupsu-minta-penundaan-bayar-bagi-hasil-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Panggil RUPSU, Minta [Penundaan] Bayar Bagi Hasil Sukuk",
+  "deck": "WIKA mengundang pemegang Sukuk Mudharabah Berkelanjutan I Tahap II 2021 ke RUPSU 28 Oktober 2026 untuk membahas penundaan pembayaran bagi hasil dan perubahan jatuh tempo.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2e93bf65c_ffc9214e97.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xmes-4-manajer-investasi-gabung-lahir-danareksa-im",
+  "category": "Aksi Korporasi",
+  "title": "XMES: 4 Manajer Investasi [Gabung], Lahir Danareksa IM",
+  "deck": "Pengelola reksa dana XMES, PT Mandiri Manajemen Investasi, resmi gabung dengan BNI AM, BRI MI, dan PNM IM menjadi PT Danareksa Investment Management Indonesia efektif 1 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMES",
+   "manajer investasi",
+   "merger BUMN",
+   "Danareksa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63cf2bbc9e_a6febb2533.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tufi-tunjuk-komisaris-independen-baru-tunggu-uji-ojk",
+  "category": "Aksi Korporasi",
+  "title": "TUFI tunjuk [komisaris independen] baru, tunggu uji OJK",
+  "deck": "Komisaris independen baru TUFI, Ahmad Bahtiar Sebayang, menunggu uji kelayakan OJK sebelum menggantikan Fendy Eventius Mugni.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TUFI",
+   "Mandiri Tunas Finance",
+   "komisaris independen",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c91c66ec69_b3e523e6f6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "xmsk-empat-manajer-investasi-gabung-jadi-danareksa-im",
   "category": "Aksi Korporasi",
   "title": "XMSK: Empat Manajer Investasi Gabung Jadi [Danareksa IM]",
@@ -195,6 +339,54 @@ var ARTICLES = [
    "penggunaan dana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/562b84fea9_904c4abbe7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-koreksi-realisasi-dana-rights-issue-capex-baru-22",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Koreksi Realisasi Dana Rights Issue, [Capex] Baru 22%",
+  "deck": "Realisasi penggunaan dana rights issue WIFI senilai Rp5,89 triliun per 30 Juni 2026 baru 22,48 persen, jauh di bawah rencana 85,9 persen untuk belanja modal proyek FWA.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "rights issue",
+   "penggunaan dana",
+   "FWA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e86cf55e3e_cfb3e5cc53.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dmmx-koreksi-laporan-realisasi-dana-ipo-sisa-nihil",
+  "category": "Aksi Korporasi",
+  "title": "DMMX Koreksi Laporan [Realisasi] Dana IPO, Sisa Nihil",
+  "deck": "PT Digital Mediatama Maxima Tbk mengoreksi laporan realisasi dana IPO 2019, seluruh Rp603,06 miliar hasil bersih telah terpakai habis untuk modal kerja, teknologi, dan SDM.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMMX",
+   "penggunaan dana IPO",
+   "laporan keterbukaan",
+   "digital"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f85166cc0e_508a6beeda.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gmfi-siapkan-pmhmetd-terbitkan-22-03-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Siapkan PMHMETD, Terbitkan [22,03 Miliar] Saham Baru",
+  "deck": "GMFI berencana menerbitkan hingga 22,03 miliar saham baru Seri B lewat PMHMETD III senilai nominal Rp19 per saham, untuk dimintakan persetujuan RUPSLB pada 19 November 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "PMHMETD",
+   "RUPSLB",
+   "Garuda Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9f3545c35_7d4a111fad.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6283,200 +6475,6 @@ var ARTICLES = [
    "akuisisi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/631ba2d52b_e4dc5779ba.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-tanggapi-bei-pemegang-saham-utama-kaji-opsi-strategis",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Tanggapi BEI, Pemegang Saham Utama Kaji [Opsi Strategis]",
-  "deck": "WIFI menjawab permintaan Bursa soal volatilitas sahamnya, menyebut pemegang saham utama PT Investasi Sukses Bersama masih mengkaji alternatif strategis tanpa keputusan definitif.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "RUPSLB",
-   "volatilitas saham",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/230c962177_24074e544d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sage-jawab-bursa-soal-lonjakan-volume-dan-harga-15-5",
-  "category": "Aksi Korporasi",
-  "title": "SAGE Jawab Bursa soal Lonjakan [Volume] dan Harga 15,5%",
-  "deck": "SAGE menjelaskan ke BEI lonjakan volume transaksi hingga empat kali lipat dan harga saham naik 15,5 persen dalam sehari pada 28 September 2026, tanpa ada informasi material baru.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAGE",
-   "volatilitas saham",
-   "unusual market activity",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/72fe06c28f_510eb54687.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "daaz-baru-pakai-55-5-dana-obligasi-sisa-rp219-7-m-mengendap",
-  "category": "Aksi Korporasi",
-  "title": "DAAZ Baru Pakai 55,5% Dana Obligasi, [Sisa] Rp219,7 M Mengendap",
-  "deck": "Realisasi dana obligasi Rp500 miliar DAAZ baru mencapai 55,5 persen per Juni 2026, sisa Rp219,71 miliar belum tersalurkan karena pembangunan kapal di galangan mitra belum rampung.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DAAZ",
-   "obligasi korporasi",
-   "penggunaan dana",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/60b8d033c4_ed4099f961.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-perluas-target-hilirisasi-ke-sawit-dan-perikanan",
-  "category": "Industri",
-  "title": "Pemerintah Perluas Target Hilirisasi ke [Sawit] dan Perikanan",
-  "deck": "Menko Airlangga sebut peta jalan hilirisasi 28 komoditas menyasar investasi US$618,1 miliar dan tambahan ekspor mendekati US$500 miliar.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
-  "tags": [
-   "hilirisasi",
-   "industri manufaktur",
-   "investasi",
-   "ekspor"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7130/menko-airlangga-hilirisasi-dan-transformasi-industri-jadi-kunci-dorong-pertumbuhan-ekonomi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "airlangga-pacu-investasi-as-target-tumbuh-8-di-2027",
-  "category": "Makroekonomi",
-  "title": "Airlangga Pacu Investasi AS, Target Tumbuh [8]% di 2027",
-  "deck": "Dalam forum investasi AS-Indonesia, Menko Airlangga memaparkan data dagang dan investasi dua negara serta target pertumbuhan ekonomi 8 persen pada 2027 lewat sektor teknologi tinggi.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
-  "tags": [
-   "Investasi AS",
-   "Pertumbuhan Ekonomi",
-   "Kawasan Ekonomi Khusus",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7131/perkuat-iklim-investasi-indonesia-as-menko-airlangga-tegaskan-komitmen-transformasi-ekonomi-berkelanjutan",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kemendag-pilih-100-umkm-untuk-sertifikasi-barcode",
-  "category": "UMKM",
-  "title": "Kemendag Pilih 100 UMKM untuk Sertifikasi [Barcode]",
-  "deck": "Kemendag dan GS1 Indonesia memulai fasilitasi sertifikasi barcode bagi UMKM pangan kemasan dan kecantikan agar produknya bisa masuk ritel modern.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/kemendag-pilih-100-umkm-untuk-sertifikasi-barcode.jpg",
-  "imageV": "muwfoqbh",
-  "tags": [
-   "UMKM",
-   "Barcode",
-   "Kemendag",
-   "Ritel Modern"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/barcode-buka-peluang-produk-umkm-tembus-ritel",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "hd-harga-pelaksanaan-waran-asiihdch7a-disesuaikan-13-okt",
-  "category": "Aksi Korporasi",
-  "title": "HD: Harga Pelaksanaan Waran [ASIIHDCH7A] Disesuaikan 13 Okt",
-  "deck": "KGI Sekuritas mengumumkan penyesuaian harga pelaksanaan dan rasio waran terstruktur ASIIHDCH7A akibat dividen tunai ASII, efektif 13 Oktober 2026.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HD",
-   "ASII",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf8d65003e_9cbc8bc2dd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btps-revisi-kuorum-rupslb-buyback-rp1-triliun-dibahas-13-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BTPS Revisi Kuorum RUPSLB, Buyback [Rp1 Triliun] Dibahas 13 Oktober",
-  "deck": "BTPN Syariah menaikkan syarat kuorum keputusan RUPSLB buyback saham dari 1/2 jadi 2/3 suara, sementara rencana pembelian kembali saham senilai maksimal Rp1 triliun tetap dibahas 13 Oktober 2026.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "RUPSLB",
-   "buyback saham",
-   "bank syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d09fffbd0e_7df2a14f99.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hits-laba-bersih-kuartal-i-2026-ambrol-96-induk-berbalik-rugi",
-  "category": "Aksi Korporasi",
-  "title": "HITS: Laba Bersih Kuartal I 2026 [Ambrol] 96%, Induk Berbalik Rugi",
-  "deck": "Laporan interim HITS menunjukkan laba bersih turun 96 persen dan pemegang saham induk berbalik rugi, sementara arus kas operasi menipis tajam.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HITS",
-   "laporan keuangan",
-   "laba bersih",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261006152642-64464-0/FinancialStatement-2026-I-HITS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-gelar-public-expose-tahunan-20-oktober-di-jakarta",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Gelar [Public Expose] Tahunan 20 Oktober di Jakarta",
-  "deck": "Leyand International menjadwalkan paparan publik tahunan pada 20 Oktober 2026, forum yang jadi sorotan setelah ekuitas perusahaan tercatat negatif.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "Leyand International",
-   "public expose",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/85227bdcb1_df97d7efc4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smma-suntik-modal-us-3-6-juta-ke-simas-bank-di-timor-leste",
-  "category": "Aksi Korporasi",
-  "title": "SMMA [Suntik] Modal US$3,6 Juta ke Simas Bank di Timor Leste",
-  "deck": "SMMA menambah penyertaan modal US$3,6 juta ke anak usaha perbankannya, Simas Bank S.A. di Dili, Timor Leste, tanpa mengubah komposisi kepemilikan maupun status pengendali.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMA",
-   "Simas Bank",
-   "Timor Leste",
-   "penyertaan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/88248067f8_acedc98cca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-koreksi-bunga-pinjaman-ke-retj-jadi-9-per-tahun",
-  "category": "Aksi Korporasi",
-  "title": "RATU Koreksi Bunga Pinjaman ke RETJ Jadi [9%] per Tahun",
-  "deck": "Raharja Energi Cepu menaikkan bunga pinjaman Rp204,62 miliar ke anak usahanya RETJ dari 7,5% menjadi 9% per tahun, berlaku surut, demi menutup biaya dana dari obligasi yang diterbitkannya.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "transaksi afiliasi",
-   "obligasi korporasi",
-   "pinjaman anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21f9ed3fc4_75dbf006de.pdf",
   "sourceLabel": "IDX"
  }
 ];

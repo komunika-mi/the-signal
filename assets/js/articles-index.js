@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tiga-pakta-dagang-buka-potensi-ekspor-us-14-7-miliar",
+  "category": "Global",
+  "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
+  "deck": "Pemerintah mendorong pemanfaatan nyata tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia yang menurut kajian Kemenko berpotensi menambah ekspor lebih dari US$14 miliar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "ekspor",
+   "perjanjian dagang",
+   "CEPA",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7150/dongkrak-pertumbuhan-ekonomi-menko-airlangga-perkuat-kinerja-ekspor",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pemerintah-kejar-implementasi-tiga-cepa-dagang-baru",
+  "category": "Global",
+  "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
+  "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/kapal-batubara.jpg",
+  "tags": [
+   "CEPA",
+   "ekspor",
+   "perdagangan bebas",
+   "Uni Eropa"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7151/bidik-perluasan-pasar-ekspor-menko-airlangga-dorong-percepatan-implementasi-cepa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "jelang-penandatanganan-defa-kemendag-latih-aparatur-dagang",
+  "category": "Global",
+  "title": "Jelang Penandatanganan [DEFA], Kemendag Latih Aparatur Dagang",
+  "deck": "Kemendag melatih 40 aparatur soal tata kelola perdagangan digital ASEAN menjelang rencana penandatanganan DEFA di KTT ASEAN November 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/tambang-mineral.jpg",
+  "tags": [
+   "DEFA",
+   "ASEAN",
+   "Kemendag",
+   "perdagangan digital"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-kompetensi-aparatur-dalam-tata-kelola-perdagangan-digital-asean",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "sehari-jelang-tei-2026-buyer-dari-134-negara-terdaftar",
+  "category": "Bisnis",
+  "title": "Sehari Jelang TEI 2026, Buyer dari [134] Negara Terdaftar",
+  "deck": "Kemendag meninjau kesiapan Trade Expo Indonesia ke-41 di ICE BSD, Tangerang, yang dibuka Rabu (14/10) dengan calon buyer dari 134 negara dan 1.873 perusahaan peserta.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "tags": [
+   "TEI 2026",
+   "Kemendag",
+   "ekspor",
+   "pameran dagang"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sehari-menuju-tei-2026-mendag-busan-indonesia-siap-sambut-buyer-dari-seluruh-dunia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "wsbp-jadwalkan-rupslb-kedua-konversi-utang-jadi-saham",
   "category": "Aksi Korporasi",
   "title": "WSBP Jadwalkan RUPSLB Kedua [Konversi Utang] jadi Saham",
@@ -1420,7 +1484,7 @@ var ARTICLES = [
   "title": "TEI 2026 Buka Ruang Ekspor [Jasa] dari Logistik hingga AI",
   "deck": "Pameran dagang TEI ke-41 di ICE BSD City, 14-18 Oktober 2026, menyertakan puluhan perusahaan jasa dari logistik, keuangan, hingga kecerdasan buatan untuk menjaring pembeli mancanegara.",
   "date": "12 Oktober 2026",
-  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "tags": [
    "TEI 2026",
    "ekspor jasa",
@@ -4214,7 +4278,7 @@ var ARTICLES = [
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
   "deck": "Kewajiban sertifikasi halal, termasuk untuk alat kesehatan risiko A, resmi berlaku 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung 11 Oktober.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "tags": [
    "Wajib Halal",
    "BPJPH",
@@ -4828,7 +4892,7 @@ var ARTICLES = [
   "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
   "deck": "Furnitur dan kriya kembali jadi sorotan di Trade Expo Indonesia ke-41, didukung ekspor furnitur nasional yang sudah tembus US$1,2 miliar sepanjang 2026.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "TEI ke-41",
    "furnitur",
@@ -4876,7 +4940,7 @@ var ARTICLES = [
   "title": "Indonesia Teken [MoU] Dagang Digital dan AI dengan Tiongkok",
   "deck": "Indonesia tampil sebagai negara kehormatan di Global Digital Trade Expo 2025 Hangzhou dan menjaring sejumlah MoU dagang digital serta kerja sama AI dengan Tiongkok.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "Perdagangan Digital",
    "Kecerdasan Buatan",
@@ -6275,7 +6339,7 @@ var ARTICLES = [
   "title": "TEI 2026 Satukan Zona [Kopi], Teh, dan Kakao di ICE BSD",
   "deck": "Kementerian Perdagangan menggabungkan kopi, teh, dan kakao dalam satu zona bernama KoTeKa di Trade Expo Indonesia 2026 untuk memudahkan pembeli asing menemukan produk Indonesia.",
   "date": "6 Oktober 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
   "tags": [
    "TEI 2026",
    "Zona KoTeKa",
@@ -6411,70 +6475,6 @@ var ARTICLES = [
    "ekuitas negatif"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d89b3b0d8a_12cb4529a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-terbitkan-waran-baru-acuan-mdka-medc-nckl-towr-wifi",
-  "category": "Aksi Korporasi",
-  "title": "ZP Terbitkan [Waran] Baru Acuan MDKA, MEDC, NCKL, TOWR, WIFI",
-  "deck": "Maybank Sekuritas merilis lima seri call warrant baru bertenor sampai Juli 2027, dengan saham acuan MDKA, MEDC, NCKL, TOWR, dan WIFI.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "waran terstruktur",
-   "MDKA",
-   "NCKL"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bdb75854bd_7376bf6e0f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-r-masa-perdagangan-hmetd-berakhir-7-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "BAJA-R: Masa Perdagangan HMETD [Berakhir] 7 Oktober 2026",
-  "deck": "BEI mengingatkan bahwa perdagangan hak memesan efek terlebih dahulu (HMETD) BAJA-R berakhir 7 Oktober 2026, setelah itu rights ini dihapus dari pencatatan bursa.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "BAJA-R",
-   "HMETD",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan BAJA-R261007-No. Peng-00189BEI.POP10-2026.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-terbitkan-10-waran-call-baru-acuan-asii-cuan-hrum-dkk",
-  "category": "Aksi Korporasi",
-  "title": "ZP Terbitkan 10 [Waran] Call Baru Acuan ASII, CUAN, HRUM dkk",
-  "deck": "Maybank Sekuritas mematok harga penawaran dan harga pelaksanaan untuk 10 waran terstruktur baru beracuan ARTO, ASII, BRMS, BRPT, CTRA, CUAN, EMTK, ENRG, HRUM, dan KIJA, mulai tercatat 9 Oktober 2026.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "waran terstruktur",
-   "ASII",
-   "CUAN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ab4a1f05b_b33ccc3277.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aspi-rugi-makin-dalam-utang-rp24-8-m-diperpanjang-ke-2027",
-  "category": "Aksi Korporasi",
-  "title": "ASPI: Rugi Makin Dalam, Utang Rp24,8 M Diperpanjang ke [2027]",
-  "deck": "ASPI jawab permintaan penjelasan Bursa: pendapatan turun 15,77%, laba kotor anjlok 27,48%, arus kas operasi berbalik negatif, dan akuisisi oleh GMP Group Investama masih due diligence.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASPI",
-   "properti",
-   "keterbukaan informasi",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/631ba2d52b_e4dc5779ba.pdf",
   "sourceLabel": "IDX"
  }
 ];

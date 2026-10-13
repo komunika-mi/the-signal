@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "aturan-baru-djp-pembayaran-pajak-dahulukan-pokok-utang",
+  "category": "Makroekonomi",
+  "title": "Aturan Baru DJP: Pembayaran Pajak [Dahulukan] Pokok Utang",
+  "deck": "PMK-71/2026 mengubah urutan pembayaran utang pajak, pokok utang dilunasi lebih dulu sebelum sanksi, agar wajib pajak lebih cepat menuntaskan kewajibannya.",
+  "image": "assets/img/aturan-baru-djp-pembayaran-pajak-dahulukan-pokok-utang.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T07:39:37.353Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pemerintah-permudah-penyelesaian-kewajiban-perpajakan",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "pajak",
+   "DJP",
+   "PMK-71/2026",
+   "utang pajak"
+  ],
+  "body": [
+   "Kementerian Keuangan menerbitkan Peraturan Menteri Keuangan Nomor 71 Tahun 2026 (PMK-71/2026) yang mengubah PMK Nomor 118 Tahun 2024 tentang tata cara pembetulan, keberatan, pengurangan, penghapusan, dan pembatalan di bidang perpajakan. Aturan ini berlaku sejak diundangkan pada 2 Oktober 2026. Perubahan paling mendasar menyangkut urutan pembayaran utang pajak, dan ini langsung berpengaruh pada wajib pajak yang masih punya tunggakan ke negara.",
+   "Sebelumnya, setoran yang dibayarkan wajib pajak dibagi secara proporsional antara pokok utang pajak dan sanksi administratif atau denda. Dengan aturan baru, dana yang dibayarkan akan dipakai untuk melunasi pokok utang terlebih dahulu, baru sisanya dialokasikan untuk sanksi. Direktur Jenderal Pajak Bimo Wijayanto menyebut penyesuaian ini dibuat agar wajib pajak lebih mudah menyelesaikan kewajiban pokoknya, sekaligus tetap bisa memanfaatkan fasilitas pengurangan atau penghapusan sanksi administratif sesuai ketentuan yang berlaku.",
+   "Selain mekanisme pembayaran, PMK-71/2026 juga menyesuaikan jangka waktu penyampaian surat tanggapan atas hasil penelitian keberatan, serta memperjelas syarat pengurangan atau penghapusan sanksi administratif. Aturan ini menegaskan bahwa sanksi yang timbul dari proses keberatan, banding, maupun peninjauan kembali tidak dapat diajukan untuk dikurangi atau dihapus lewat mekanisme yang diatur dalam ketentuan ini.",
+   "Bimo menegaskan perubahan ini bukan kebijakan pemutihan pajak dan tidak menghilangkan kewajiban melunasi pokok utang pajak. Pemerintah berharap penyesuaian ini mempercepat pelunasan pokok utang pajak yang masih tertunda, memperkuat kepatuhan sukarela wajib pajak, serta menjaga ketahanan arus kas pelaku usaha, terutama usaha mikro, kecil, dan menengah. PMK-71/2026 juga memuat ketentuan peralihan untuk memberikan kepastian hukum dalam penerapan aturan baru ini."
+  ],
+  "fotoAdegan": "A small shop owner sorting invoices and receipts at a counter, calculator and paper stacks nearby, soft afternoon light",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah secara konkret adalah urutan pembayaran utang pajak. Sebelumnya, uang yang dibayarkan wajib pajak dibagi rata antara pokok utang dan sanksi atau denda, tapi sekarang pembayaran itu dipakai melunasi pokok utang dulu, baru sisanya untuk denda, sehingga wajib pajak bisa lebih cepat menuntaskan utang intinya sambil tetap mengajukan keringanan denda secara terpisah. Yang paling terdampak adalah wajib pajak yang masih punya utang pajak tertunda, termasuk pelaku usaha mikro, kecil, dan menengah yang disebut khusus oleh DJP karena aturan ini diharapkan menjaga arus kas usahanya. Aturan ini juga menegaskan batasannya: denda yang timbul dari proses keberatan, banding, atau peninjauan kembali tetap tidak bisa diajukan pengurangan lewat mekanisme ini. Arahnya adalah mempermudah prosedur penagihan utang pajak tanpa menghapus kewajiban pokok, bukan pemutihan pajak seperti ditegaskan DJP sendiri, dan yang akan menunjukkan apakah ini benar meringankan di lapangan adalah petunjuk teknis lanjutan serta data penyelesaian utang pajak yang dijanjikan DJP akan terus disosialisasikan ke depan.",
+  "imageV": "mv6dl1h3"
+ },
+ {
   "slug": "mrat-direksi-beli-7-200-saham-nilainya-mini",
   "category": "Aksi Korporasi",
   "title": "MRAT: Direksi [Beli] 7.200 Saham, Nilainya Mini",
@@ -105,6 +133,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "banjir-padang-kementerian-pu-turunkan-pompa-dan-ekskavator",
+  "category": "Bisnis",
+  "title": "Banjir Padang, Kementerian PU Turunkan [Pompa] dan Ekskavator",
+  "deck": "Luapan Sungai Batang Air Dingin rendam sekitar 200 rumah di Padang. Kementerian PU kirim pompa dan excavator untuk tangani darurat sekaligus rencanakan perbaikan tanggul permanen.",
+  "image": "assets/img/banjir-padang-kementerian-pu-turunkan-pompa-dan-ekskavator.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T12:56:19+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472706-atasi-banjir-luapan-sungai-di-kota-padang-kementerian-pu-kerahkan-pompa-dan-excavator",
+  "tags": [
+   "banjir Padang",
+   "Kementerian PU",
+   "Sungai Batang Air Dingin",
+   "mitigasi bencana"
+  ],
+  "body": [
+   "Kementerian Pekerjaan Umum mengirim peralatan darurat untuk menangani banjir yang merendam sejumlah wilayah di Kota Padang, Sumatera Barat, setelah Sungai Batang Air Dingin meluap pada Sabtu, 10 Oktober 2026. Penanganan ini penting karena air yang masuk ke permukiman memaksa ratusan rumah tergenang dan mengganggu aktivitas warga sehari-hari di dua kelurahan terdampak.",
+   "Pemicunya adalah hujan deras yang tercatat mencapai 112 milimeter hanya dalam enam jam, berlangsung sekitar pukul 12.00 hingga 14.30 WIB, berdasarkan data pos curah hujan di Daerah Aliran Sungai Air Dingin. Intensitas hujan sebesar itu membuat debit sungai naik tajam dalam waktu singkat hingga akhirnya merusak tanggul dan membuat air meluber ke kawasan permukiman. Sekitar 200 rumah di Kelurahan Lubuk Minturun, Kecamatan Koto Tangah, serta Kelurahan Ulak Karang Utara, Kecamatan Padang Utara, ikut terendam. Berdasarkan laporan sementara, tidak ada korban jiwa dalam kejadian ini meski genangan air masih terlihat di beberapa titik.",
+   "Balai Wilayah Sungai Sumatera V Padang, yang berada di bawah Kementerian PU, langsung melakukan pengecekan lapangan dan berkoordinasi dengan berbagai instansi untuk memastikan penyebab serta dampak banjir. Satu unit pompa banjir bergerak ditempatkan di Ulak Karang Utara, sementara satu unit excavator jenis crawler dikirim ke Lubuk Minturun untuk mempercepat penyedotan dan pembersihan genangan.",
+   "Menteri PU Dody Hanggodo menyatakan bahwa penanganan darurat ini berjalan beriringan dengan rencana perbaikan permanen agar banjir serupa tidak terus berulang. \"Penanganan banjir harus dilakukan secara cepat dan terukur, terutama untuk melindungi keselamatan masyarakat serta meminimalkan dampak terhadap permukiman. Selain penanganan darurat, kami juga menyiapkan langkah penanganan permanen agar risiko kejadian serupa dapat dikurangi,\" ujar Dody dalam keterangan resminya, Selasa, 13 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers guiding a yellow excavator beside a muddy overflowing river near partly submerged houses, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/13/6acdc69e22150-petugas-kementerian-pu-memasang-pompa-mengantisipasi-luapan-sungai-batang-air-dingin-yang-menyebabkan-banjir-di-kota-padang-sumatera-barat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pola penanganan banjir Padang kali ini mengikuti dua tahap, tanggap darurat dengan pompa dan alat berat yang sudah berjalan, lalu rencana perbaikan permanen yang baru disebut sebagai arah tanpa rincian lebih jauh. Yang terdampak langsung adalah warga di dua kelurahan, Lubuk Minturun dan Ulak Karang Utara, dengan sekitar 200 rumah terendam akibat tanggul Sungai Batang Air Dingin jebol diterjang hujan 112 milimeter dalam enam jam. Yang belum terjawab dari keterangan Kementerian PU adalah apakah perbaikan tanggul permanen ini akan menjadi proyek berskala besar atau sekadar tambal darurat lanjutan, karena belum ada detail soal lokasi persis, anggaran, atau target waktu penyelesaiannya. Yang perlu ditunggu adalah dokumen perencanaan atau anggaran dari BWS Sumatera V Padang yang biasanya menyusul setelah penanganan darurat selesai, karena itu yang akan menunjukkan apakah banjir ini ditangani sebagai proyek mitigasi jangka panjang atau sekadar penanganan sementara.",
+  "imageV": "mv6dl20a"
+ },
+ {
   "slug": "gdyr-jadwalkan-rupslb-19-november-dps-27-oktober",
   "category": "Aksi Korporasi",
   "title": "GDYR Jadwalkan RUPSLB 19 November, [DPS] 27 Oktober",
@@ -155,6 +210,60 @@ var ARTICLES = [
   "fotoAdegan": "A modern glass office tower in Jakarta's financial district with pedestrians passing by on a sunny afternoon.",
   "takeaway": "Laporan ini condong positif bagi BIIF karena mempertahankan peringkat tertinggi yang bisa diberikan Pefindo, sinyal bahwa kemampuan perusahaan membayar utang jangka panjang masih dinilai superior dibanding debitur lain di Indonesia. Pos yang tersentuh adalah beban bunga dan arus kas dari aktivitas pembiayaan, sebab peringkat kredit yang tinggi biasanya membuat perusahaan pembiayaan seperti BIIF bisa meminjam dana atau menerbitkan obligasi dengan bunga yang lebih murah, yang pada akhirnya menekan biaya dananya. Catatan pentingnya, ini adalah afirmasi atau konfirmasi ulang, bukan kenaikan peringkat, sehingga tidak ada informasi baru soal perbaikan fundamental dibanding setahun lalu. Yang perlu dipantau berikutnya adalah masa berlaku peringkat ini yang berakhir 1 Oktober 2027, serta laporan keuangan audit tahun 2026 yang akan menjadi salah satu basis evaluasi peringkat periode selanjutnya.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "mentrans-gandeng-peking-university-riset-kawasan-transmigrasi",
+  "category": "Industri",
+  "title": "Mentrans Gandeng Peking University [Riset] Kawasan Transmigrasi",
+  "deck": "Menteri Transmigrasi Iftitah mengajak Peking University menjajaki riset bersama di kawasan transmigrasi, dengan Salor-Wanam di Merauke sebagai kandidat utama.",
+  "image": "assets/img/mentrans-gandeng-peking-university-riset-kawasan-transmigrasi.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T12:04:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472696-mentrans-jajaki-riset-dengan-peking-university-untuk-kembangkan-kawasan-transmigrasi",
+  "tags": [
+   "transmigrasi",
+   "Peking University",
+   "Merauke",
+   "kerja sama Indonesia-Tiongkok"
+  ],
+  "body": [
+   "Menteri Transmigrasi Muhammad Iftitah Sulaiman Suryanagara mengajak Peking University di Tiongkok untuk menjajaki riset bersama di satu atau dua kawasan transmigrasi. Tujuannya memetakan peluang investasi, pengembangan industri, dan penciptaan lapangan kerja di kawasan tersebut. Tawaran ini disampaikan Iftitah dalam kuliah umum bertajuk Industrialisation Beyond Java: Transmigration and Indonesia's New Growth Centres, di Institute of South-South Cooperation and Development, Peking University, Beijing, Senin, 12 Oktober 2026.",
+   "Menurut Iftitah, riset yang diusulkan harus berorientasi pada solusi konkret, mulai dari pemetaan potensi ekonomi dan rantai nilai, identifikasi hambatan pembangunan, hingga kebutuhan keterampilan tenaga kerja. Ia menyebut Indonesia memiliki potensi besar di sektor pertanian, perkebunan, perikanan, dan sumber daya mineral, tetapi potensi itu belum sepenuhnya terhubung dengan industri pengolahan, akses pasar, teknologi, dan tenaga kerja yang sesuai kebutuhan industri.",
+   "Kawasan yang disoroti dalam usulan ini adalah Salor dan Wanam di Merauke, Papua Selatan. Iftitah menyinggung peluang kerja sama Indonesia dan Tiongkok di kedua kawasan tersebut, khususnya untuk riset pertanian, pemanfaatan teknologi, peningkatan keterampilan, dan pengembangan sistem produksi pangan. Penelitian Tim Ekspedisi Patriot sebelumnya telah mengidentifikasi sejumlah kendala produktivitas pertanian di Salor, seperti kualitas bibit, pengendalian hama, irigasi, dan akses jalan usaha tani.",
+   "Iftitah menekankan bahwa pengembangan kawasan transmigrasi harus memberikan manfaat nyata bagi masyarakat, termasuk melalui peningkatan produktivitas dan pendapatan petani serta keterlibatan UMKM dalam rantai pasok industri. Ia berharap penjajakan ini dapat ditindaklanjuti bersama ISSCAD dan Peking University untuk mendukung pengembangan kawasan transmigrasi sebagai pusat pertumbuhan ekonomi baru di Indonesia."
+  ],
+  "fotoAdegan": "Farmers tending a flooded rice field beside a dirt irrigation canal in a rural tropical lowland, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/13/6acdbaaec2912-menteri-transmigrasi-muhammad-iftitah-sulaiman-suryanagara-menyampaikan-kuliah-umum-di-peking-university-beijing-tiongkok-senin-12102026-mengenai-pengembangan-kawasan-transmigrasi-sebagai-pusat-pertumbuhan-ekonomi-baru_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang baru di sini adalah tawaran kerja sama riset, bukan proyek yang sudah berjalan. Menteri Transmigrasi mengajak Peking University memilih satu atau dua kawasan transmigrasi, dengan Salor dan Wanam di Merauke disebut sebagai kandidat utama, untuk diteliti bersama soal rantai produksi pangan, kendala pertanian, dan kebutuhan keterampilan pekerja. Pihak yang berpotensi terdampak adalah petani di Salor-Wanam, yang menurut riset Tim Ekspedisi Patriot sebelumnya sudah menghadapi masalah bibit, hama, irigasi, dan jalan usaha tani, serta UMKM yang diharapkan ikut masuk ke rantai pasok industri. Namun ini masih tahap penjajakan dalam sebuah kuliah umum, belum ada nota kesepahaman, skema pembiayaan, atau jadwal riset yang disepakati kedua pihak. Yang perlu dipantau adalah apakah ISSCAD dan Peking University benar menindaklanjuti dengan kesepakatan formal, karena tanpa itu usulan ini bisa berhenti sebagai wacana seperti banyak penjajakan kerja sama lainnya.",
+  "imageV": "mv6dl2fr"
+ },
+ {
+  "slug": "bni-salurkan-bantuan-ke-korban-banjir-padang",
+  "category": "BUMN",
+  "title": "BNI [Salurkan] Bantuan ke Korban Banjir Padang",
+  "deck": "BNI menyalurkan bantuan darurat berupa air bersih, beras, dan selimut bagi ratusan warga yang mengungsi akibat banjir di Padang, Sumatera Barat.",
+  "image": "assets/img/bni-salurkan-bantuan-ke-korban-banjir-padang.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T11:55:19+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472694-bni-bergerak-cepat-beri-bantuan-untuk-warga-terdampak-banjir-di-sumatera-barat",
+  "tags": [
+   "BNI",
+   "Banjir Padang",
+   "Sumatera Barat",
+   "BPBD"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk atau BNI mengirimkan bantuan darurat bagi warga yang terdampak banjir di beberapa kecamatan Kota Padang, Sumatera Barat. Bantuan disalurkan lewat program Tanggung Jawab Sosial dan Lingkungan BNI Berbagi, dengan jenis dan jumlah bantuan disesuaikan dengan informasi kebutuhan dari Sekretaris Daerah serta Badan Penanggulangan Bencana Daerah (BPBD) Kota Padang.",
+   "Berdasarkan data sementara, sebanyak 672 warga mengungsi di tiga titik di Kecamatan Kuranji, sementara sekitar 459 kepala keluarga terdampak banjir di Kecamatan Koto Tangah, tepatnya di Kelurahan Koto Panjang Ikua Koto dan Lubuk Minturun. Sebagian pengungsi bertahan di masjid, sebagian lain tinggal sementara di rumah keluarga atau kerabat karena rumah mereka belum bisa ditempati.",
+   "Untuk memenuhi kebutuhan dasar, BNI mengirimkan air mineral, selimut, mi instan, beras, minyak goreng, dan telur, ditambah 400 bungkus nasi siap konsumsi. BNI juga menurunkan satu tangki berkapasitas 8.000 liter air bersih agar warga tetap bisa mandi, mencuci, dan menggunakan toilet selama mengungsi.",
+   "Corporate Secretary BNI Okki Rushartomo mengatakan pihaknya akan terus berkoordinasi dengan pemerintah daerah dan BPBD untuk memantau kebutuhan lanjutan warga selama masa tanggap darurat. Sebagai badan usaha milik negara yang kini berada dalam ekosistem Danantara Indonesia, BNI menyebut langkah ini sebagai bagian dari kontribusi sosialnya di tengah situasi bencana."
+  ],
+  "fotoAdegan": "Volunteers loading bottled water, sacks of rice, and blankets onto a truck beside a flood-affected neighborhood under overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/13/6acdb8aa86cc1-bni-beri-bantuan-untuk-warga-yang-terdampak-banjir-di-sumatera-barat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah bantuan konkret yang sudah sampai ke lapangan, bukan sekadar pernyataan simpati: air mineral, beras, telur, 400 bungkus nasi siap makan, dan satu tangki berisi 8.000 liter air bersih untuk mandi dan cuci, menyasar ratusan pengungsi di Kuranji dan ratusan kepala keluarga di Koto Tangah. Yang jelas terdampak adalah warga Padang yang mengungsi ke masjid atau rumah kerabat, bukan pemegang saham atau pelaku usaha. Berita ini belum cukup untuk membaca ke mana arah penanganan banjir ini bergerak, karena belum ada angka resmi soal total kerugian, jumlah pengungsi final, atau perkiraan lama masa tanggap darurat. Yang masih ditunggu adalah data resmi BPBD Kota Padang tentang skala total dampak banjir, serta apakah bantuan dari BUMN lain menyusul, yang baru akan terlihat dalam beberapa hari mendatang seiring berjalannya masa tanggap darurat.",
+  "imageV": "mv6dl38k"
  },
  {
   "slug": "jecx-komisaris-admar-anwar-beli-30-000-saham",

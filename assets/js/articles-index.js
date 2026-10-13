@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "aturan-baru-djp-pembayaran-pajak-dahulukan-pokok-utang",
+  "category": "Makroekonomi",
+  "title": "Aturan Baru DJP: Pembayaran Pajak [Dahulukan] Pokok Utang",
+  "deck": "PMK-71/2026 mengubah urutan pembayaran utang pajak, pokok utang dilunasi lebih dulu sebelum sanksi, agar wajib pajak lebih cepat menuntaskan kewajibannya.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/aturan-baru-djp-pembayaran-pajak-dahulukan-pokok-utang.jpg",
+  "imageV": "mv6dl1h3",
+  "tags": [
+   "pajak",
+   "DJP",
+   "PMK-71/2026",
+   "utang pajak"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pemerintah-permudah-penyelesaian-kewajiban-perpajakan",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
   "slug": "mrat-direksi-beli-7-200-saham-nilainya-mini",
   "category": "Aksi Korporasi",
   "title": "MRAT: Direksi [Beli] 7.200 Saham, Nilainya Mini",
@@ -69,6 +87,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "banjir-padang-kementerian-pu-turunkan-pompa-dan-ekskavator",
+  "category": "Bisnis",
+  "title": "Banjir Padang, Kementerian PU Turunkan [Pompa] dan Ekskavator",
+  "deck": "Luapan Sungai Batang Air Dingin rendam sekitar 200 rumah di Padang. Kementerian PU kirim pompa dan excavator untuk tangani darurat sekaligus rencanakan perbaikan tanggul permanen.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/banjir-padang-kementerian-pu-turunkan-pompa-dan-ekskavator.jpg",
+  "imageV": "mv6dl20a",
+  "tags": [
+   "banjir Padang",
+   "Kementerian PU",
+   "Sungai Batang Air Dingin",
+   "mitigasi bencana"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472706-atasi-banjir-luapan-sungai-di-kota-padang-kementerian-pu-kerahkan-pompa-dan-excavator"
+ },
+ {
   "slug": "gdyr-jadwalkan-rupslb-19-november-dps-27-oktober",
   "category": "Aksi Korporasi",
   "title": "GDYR Jadwalkan RUPSLB 19 November, [DPS] 27 Oktober",
@@ -99,6 +134,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1bb6f08964_6bbb65254c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mentrans-gandeng-peking-university-riset-kawasan-transmigrasi",
+  "category": "Industri",
+  "title": "Mentrans Gandeng Peking University [Riset] Kawasan Transmigrasi",
+  "deck": "Menteri Transmigrasi Iftitah mengajak Peking University menjajaki riset bersama di kawasan transmigrasi, dengan Salor-Wanam di Merauke sebagai kandidat utama.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/mentrans-gandeng-peking-university-riset-kawasan-transmigrasi.jpg",
+  "imageV": "mv6dl2fr",
+  "tags": [
+   "transmigrasi",
+   "Peking University",
+   "Merauke",
+   "kerja sama Indonesia-Tiongkok"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472696-mentrans-jajaki-riset-dengan-peking-university-untuk-kembangkan-kawasan-transmigrasi"
+ },
+ {
+  "slug": "bni-salurkan-bantuan-ke-korban-banjir-padang",
+  "category": "BUMN",
+  "title": "BNI [Salurkan] Bantuan ke Korban Banjir Padang",
+  "deck": "BNI menyalurkan bantuan darurat berupa air bersih, beras, dan selimut bagi ratusan warga yang mengungsi akibat banjir di Padang, Sumatera Barat.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/bni-salurkan-bantuan-ke-korban-banjir-padang.jpg",
+  "imageV": "mv6dl38k",
+  "tags": [
+   "BNI",
+   "Banjir Padang",
+   "Sumatera Barat",
+   "BPBD"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472694-bni-bergerak-cepat-beri-bantuan-untuk-warga-terdampak-banjir-di-sumatera-barat"
  },
  {
   "slug": "jecx-komisaris-admar-anwar-beli-30-000-saham",
@@ -6403,70 +6472,6 @@ var ARTICLES = [
    "RUPSU"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fb8fe5a89a_c0d9a8a2f8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-panggil-rupsu-sukuk-minta-restrukturisasi-bagi-hasil",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Panggil RUPSU Sukuk, Minta [Restrukturisasi] Bagi Hasil",
-  "deck": "WIKA menggelar rapat pemegang sukuk pada 21 Oktober 2026 untuk meminta penundaan jadwal bagi hasil dan pengampunan atas gagal bayar dua periode sebelumnya.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/19372052df_09b31206f4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-gagal-bayar-kupon-ke-18-obligasi-rupo-20-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Gagal Bayar Kupon [ke-18] Obligasi, RUPO 20 Oktober",
-  "deck": "WIKA memanggil Rapat Umum Pemegang Obligasi pada 20 Oktober 2026 setelah gagal membayar bunga ke-18 Obligasi Berkelanjutan II Tahap II Seri A, B, dan C.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "obligasi",
-   "gagal bayar",
-   "RUPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/396acc0cdf_20d9a82109.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-panggil-rupsu-sukuk-seri-b-c-gagal-bayar-bagi-hasil-ke-20",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Panggil RUPSU Sukuk Seri B-C, [Gagal Bayar] Bagi Hasil ke-20",
-  "deck": "WIKA mengundang pemegang Sukuk Mudharabah Berkelanjutan II Tahap I 2021 ke RUPSU 19 Oktober 2026, menyusul gagal bayar bagi hasil ke-20 Seri B dan C serta gagal lunasi pokok Seri B.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "gagal bayar",
-   "RUPSU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63b9c079e5_fbeb007529.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-gagal-bayar-bunga-obligasi-tahap-i-rupo-19-oktober",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Gagal Bayar] Bunga Obligasi Tahap I, RUPO 19 Oktober",
-  "deck": "WIKA memanggil RUPO pemegang Obligasi Berkelanjutan II Tahap I 2021 pada 19 Oktober 2026, menyusul gagal bayar bunga ke-20 Seri B dan C serta gagal melunasi pokok Seri B.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "Obligasi",
-   "RUPO",
-   "Gagal Bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f75adba0fa_bce6f6cb53.pdf",
   "sourceLabel": "IDX"
  }
 ];

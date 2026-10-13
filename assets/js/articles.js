@@ -3,6 +3,293 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "xmsk-empat-manajer-investasi-gabung-jadi-danareksa-im",
+  "category": "Aksi Korporasi",
+  "title": "XMSK: Empat Manajer Investasi Gabung Jadi [Danareksa IM]",
+  "deck": "Manajer investasi pengelola ETF XMSK berganti nama jadi PT Danareksa Investment Management Indonesia setelah bergabung dengan BNI AM, BRI MI, dan PNM IM, efektif 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T19:32:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0d9d06a024_8085f15fbd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMSK",
+  "tags": [
+   "XMSK",
+   "Danareksa Investment Management Indonesia",
+   "merger manajer investasi",
+   "reksa dana"
+  ],
+  "body": [
+   "XMSK, kode untuk Reksa Dana Indeks Mandiri ETF SRI-KEHATI, melaporkan ke Bursa Efek Indonesia bahwa manajer investasinya resmi berganti identitas. PT Mandiri Manajemen Investasi (MMI), pengelola dana ETF ini, menjadi perusahaan penerima penggabungan (surviving entity) setelah menggabungkan tiga manajer investasi lain ke dalam dirinya, yaitu PT BNI Asset Management (BNIAM), PT BRI Manajemen Investasi (BRIMI), dan PT PNM Investment Management (PNMIM). Penggabungan berlaku efektif 1 Oktober 2026, berdasarkan Akta Penggabungan Nomor 262 tanggal 28 September 2026 di hadapan notaris Jose Dima Satria, dan telah menerima pemberitahuan dari Kementerian Hukum lewat surat Nomor AHU-AH.01.09-0410669 tanggal 30 September 2026. Akibatnya, status badan hukum BNIAM, BRIMI, dan PNMIM berakhir tanpa proses likuidasi, dan seluruh aset, kewajiban, hak, serta kewajiban ketiganya beralih ke MMI yang kini berganti nama menjadi PT Danareksa Investment Management Indonesia.",
+   "Perubahan nama dan status itu disertai penambahan modal cukup besar. Modal dasar perusahaan naik dari Rp100 miliar, yang terbagi 2.500 lembar saham, menjadi Rp555 miliar yang terbagi 13.875 lembar saham. Modal ditempatkan dan disetor naik dari Rp60 miliar atau 1.500 lembar saham menjadi Rp182,92 miliar atau 4.573 lembar saham, dengan nilai nominal tetap Rp40 juta per lembar. Perusahaan juga menyesuaikan klasifikasi kegiatan usahanya mengikuti KBLI 2025 menjadi kode 66301 untuk manajemen investasi dan 66151 untuk aktivitas advisori investasi, tanpa mengubah izin usahanya sebagai manajer investasi dan penasihat investasi. Susunan direksi dan dewan komisaris turut berubah sesuai Akta Nomor 264 tanggal 28 September 2026, berlaku sejak tanggal efektif penggabungan, meski nama-nama pengurus baru tidak disebutkan dalam dokumen ini.",
+   "Dari sisi operasional, kantor pusat tetap berada di Menara Mandiri 2 Lantai 15, Jalan Jenderal Sudirman Kavling 54-55, Jakarta Selatan, sementara kantor pendukung operasional baru berlokasi di Gedung BRI II Lantai 25, Jalan Jenderal Sudirman Kavling 44-46, Jakarta Pusat. Domain email resmi perusahaan berubah menjadi @danareksainvestments.com, menggantikan domain-domain lama milik BRIMI, BNIAM, PNMIM, dan MMI, meski email dengan domain lama tetap akan diteruskan otomatis selama masa transisi. Situs web masing-masing entitas lama untuk sementara masih bisa diakses sebelum informasi produknya dikonsolidasikan secara bertahap ke situs resmi baru yang alamatnya akan diumumkan kemudian. Perusahaan juga menyatakan data pribadi nasabah BNIAM, BRIMI, dan PNMIM telah dialihkan kepada Danareksa Investment Management Indonesia, sesuai kewajiban pemberitahuan dalam Pasal 48 ayat 2 Undang-Undang Pelindungan Data Pribadi."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's Sudirman business district, reflecting a bright afternoon sky, light traffic below",
+  "takeaway": "Laporan ini condong netral bagi pemegang unit ETF XMSK, karena perubahan yang terjadi ada di tingkat manajer investasi pengelola dana, bukan pada reksa dana XMSK sendiri, sehingga tidak langsung mengubah nilai aktiva bersih atau hak pemegang unit. Pos yang tersentuh adalah modal, atau ekuitas, milik manajer investasi, bukan ekuitas reksa dana XMSK, modal ditempatkan dan disetor Danareksa Investment Management Indonesia naik tiga kali lipat dari Rp60 miliar menjadi Rp182,92 miliar. Modal yang lebih tebal berarti perusahaan pengelola punya bantalan keuangan lebih besar untuk operasional dan menyerap risiko, hal yang biasa diperhatikan regulator dan nasabah institusi karena mencerminkan kapasitas keuangan pengelola, meski ini tidak otomatis mengubah kinerja portofolio ETF SRI-KEHATI yang dipegang investor XMSK. Yang perlu dipantau berikutnya adalah peluncuran situs web resmi baru Danareksa Investment Management Indonesia yang belum punya tanggal pasti, serta proses konsolidasi penuh informasi produk dari empat situs lama, karena selama masa transisi ini layanan dan informasi produk XMSK masih tersebar di beberapa kanal berbeda.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "xmlf-penggabungan-mmi-bni-am-bri-mi-pnm-im-jadi-danareksa-im",
+  "category": "Aksi Korporasi",
+  "title": "XMLF: [Penggabungan] MMI-BNI AM-BRI MI-PNM IM jadi Danareksa IM",
+  "deck": "Manajer investasi XMLF berganti nama jadi Danareksa Investment Management Indonesia usai merger dengan BNI AM, BRI MI, dan PNM IM; modal disetor naik jadi Rp182,92 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T19:26:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/09e46aa10f_ea9e757552.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMLF",
+  "tags": [
+   "XMLF",
+   "Danareksa Investment Management Indonesia",
+   "Penggabungan Manajer Investasi",
+   "Reksa Dana ETF"
+  ],
+  "body": [
+   "Manajer investasi yang mengelola Reksa Dana Indeks Mandiri ETF LQ45 (XMLF), PT Mandiri Manajemen Investasi, resmi berganti nama menjadi PT Danareksa Investment Management Indonesia setelah bergabung dengan tiga manajer investasi BUMN lain, yaitu PT BNI Asset Management, PT BRI Manajemen Investasi, dan PT PNM Investment Management. Penggabungan berlaku efektif pada 1 Oktober 2026, tertuang dalam Akta Penggabungan Nomor 262 tanggal 28 September 2026 yang dibuat di hadapan notaris Jose Dima Satria di Jakarta Selatan, dan telah diterima pemberitahuannya oleh Menteri Hukum RI pada 30 September 2026. Dalam penggabungan ini, Mandiri Manajemen Investasi berperan sebagai perusahaan penerima, sehingga status badan hukum ketiga manajer investasi lain berakhir tanpa proses likuidasi dan seluruh aset, kewajiban, serta hak mereka beralih ke Perseroan.",
+   "Sejalan dengan penggabungan itu, modal dasar Perseroan naik dari Rp100 miliar yang terbagi atas 2.500 lembar saham menjadi Rp555 miliar yang terbagi atas 13.875 lembar saham. Modal ditempatkan dan disetor juga naik dari Rp60 miliar atau 1.500 lembar saham menjadi Rp182,92 miliar atau 4.573 lembar saham, dengan nilai nominal tetap Rp40 juta per lembar. Susunan direksi dan dewan komisaris Perseroan turut berubah sesuai Akta Pernyataan Keputusan Pemegang Saham Nomor 264 tanggal 28 September 2026, berlaku sejak tanggal efektif penggabungan tersebut.",
+   "Perubahan ini juga membawa penyesuaian operasional. Kantor pusat Perseroan tetap berada di Menara Mandiri 2 Lantai 15, Jalan Jenderal Sudirman, Jakarta Selatan, namun kini ditambah kantor pendukung operasional di Gedung BRI II Lantai 25, Jakarta Pusat. Seluruh korespondensi akan beralih ke domain email @danareksainvestments.com, meski email dengan domain lama BNI AM, BRI MI, PNM IM, dan Mandiri Manajemen Investasi untuk sementara tetap bisa dipakai karena otomatis diteruskan ke alamat baru. Perseroan juga menyatakan data pribadi nasabah ketiga manajer investasi yang bergabung telah beralih kepadanya sesuai Pasal 48 ayat 2 UU Pelindungan Data Pribadi, dengan tujuan pemrosesan data yang tidak berubah dari sebelumnya."
+  ],
+  "fotoAdegan": "Glass-clad office towers along a busy Jakarta avenue, morning traffic below, reflective facades under soft sunlight",
+  "takeaway": "Laporan ini NETRAL bagi pemegang unit XMLF, karena yang berubah adalah badan hukum dan permodalan manajer investasinya, bukan portofolio saham yang dilacak ETF ini sendiri. Yang tersentuh adalah ekuitas, yakni modal sendiri yang disetor pemilik ke dalam perusahaan, dari manajer investasi gabungan ini, yang naik dari Rp60 miliar menjadi Rp182,92 miliar; modal yang lebih tebal ini menjadi penyangga keuangan kalau terjadi masalah operasional, sehingga pelaku pasar biasanya membacanya sebagai penguatan tata kelola di balik ETF, bukan sinyal soal arah nilai aset bersihnya. Yang perlu dipantau pemegang unit adalah peluncuran alamat situs web resmi baru Perseroan, yang menurut laporan ini belum ditentukan tanggalnya dan akan diumumkan kemudian, serta proses pemindahan bertahap informasi produk dari empat situs web lama ke situs baru tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtps-jual-gedung-kantor-rp94-5-m-penilai-sebut-tidak-wajar",
+  "category": "Aksi Korporasi",
+  "title": "MTPS Jual Gedung Kantor Rp94,5 M, Penilai Sebut [Tidak Wajar]",
+  "deck": "MTPS akan menjual gedung kantornya ke KETR senilai Rp94,5 miliar, tapi penilai independen menyebut harga itu tidak wajar. RUPS digelar 24 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T18:56:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6dadc5848d_82962ab0bb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTPS",
+  "tags": [
+   "MTPS",
+   "Ketrosden Triasmitra",
+   "transaksi material",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Meta Epsi Tbk (MTPS) berencana menjual aset berupa tanah, gedung kantor, dan perlengkapannya di Jalan Mayjen D.I. Panjaitan Kavling 2, Jatinegara, Jakarta Timur, kepada PT Ketrosden Triasmitra Tbk (KETR). Aset itu berdiri di atas tanah seluas 4.802 meter persegi dengan tiga sertifikat HGB. Perjanjian pendahuluan jual beli diteken pada 13 Februari 2026 dengan harga awal Rp92,5 miliar, lalu diubah lewat amandemen pada 15 April 2026 menjadi Rp94,5 miliar, keduanya belum termasuk PPN. Setelah RUPS menyetujui transaksi, KETR akan membayar dalam tiga tahap: Rp3,5 miliar dalam 14 hari kalender setelah penandatanganan perjanjian, lalu dua kali Rp4,5 miliar masing-masing 30 hari kalender setelah pembayaran sebelumnya. Tanah dan bangunan ini saat ini masih menjadi jaminan utang Meta Epsi ke Bank China Construction Bank Indonesia (CCBI), dan bank itu telah menyetujui pelepasan jaminan untuk transaksi ini.",
+   "KJPP Herman Meirizki dan Rekan menaksir nilai pasar aset tersebut sebesar Rp101,57 miliar per 30 Juni 2026, lebih tinggi dari harga jual yang disepakati Rp94,5 miliar. Karena selisih itu, KJPP Nirboyo Adiputro, Dewi Apriyanti & Rekan selaku penilai independen dalam laporan pendapat kewajaran tertanggal 9 Oktober 2026 menyimpulkan bahwa Rencana Transaksi ini tidak wajar. Nilai transaksi ini juga mencapai 252,20 persen dari ekuitas Meta Epsi per 30 Juni 2026 yang tercatat Rp37,47 miliar, jauh di atas ambang 50 persen yang mewajibkan persetujuan RUPS menurut POJK No. 17/2020 tentang Transaksi Material.",
+   "Penjualan aset ini muncul di tengah kondisi keuangan Meta Epsi yang memburuk. Sepanjang semester pertama 2026, perusahaan yang bergerak di bidang rekayasa, pengadaan, dan konstruksi (EPC) ini tidak membukukan pendapatan sama sekali karena tidak ada proyek EPC yang berjalan. Akuntan publik Sabar & Rekan dalam laporan reviu per 30 Juni 2026 mencatat rugi komprehensif Rp3,64 miliar untuk semester tersebut, akumulasi kerugian mencapai Rp299,98 miliar, dan secara eksplisit menyebut adanya ketidakpastian material atas kelangsungan usaha perusahaan. Manajemen menyebut hasil penjualan aset ini akan diprioritaskan untuk melunasi utang berbunga, menambah modal kerja, dan memperbaiki rasio keuangan.",
+   "Rencana ini akan dimintakan persetujuan dalam Rapat Umum Pemegang Saham Luar Biasa pada 24 November 2026. Dewan Komisaris Meta Epsi sendiri telah menyetujui rencana ini pada 9 Desember 2025. Pembeli, KETR, adalah perusahaan jaringan telekomunikasi serat optik yang sahamnya dimiliki PT Inti Mas Sejahtera (35 persen), PT Fajar Sejahtera Mandiri Nusantara (18,13 persen), PT Gema Lintas Benua (9,64 persen), dan publik (37,23 persen). Kedua perusahaan menyatakan tidak memiliki hubungan afiliasi baik dari sisi kepemilikan saham maupun kepengurusan."
+  ],
+  "fotoAdegan": "Wide exterior shot of a mid-size commercial office building in a Jakarta business district, parking area and construction equipment in foreground, overcast daylight.",
+  "takeaway": "Laporan ini condong negatif bagi Meta Epsi karena perusahaan yang sedang kehabisan pendapatan dan menanggung kerugian besar terpaksa melepas gedung kantornya sendiri, sementara penilai independen bahkan menyatakan harga jualnya tidak wajar karena di bawah nilai pasar aset yang ditaksir Rp101,57 miliar. Yang tersentuh di sini adalah ekuitas dan arus kas perusahaan, karena dana Rp94,5 miliar dari penjualan ini rencananya dipakai melunasi utang berbunga ke Bank CCBI, yang kalau berhasil akan meringankan beban bunga dan memperbaiki posisi kas, tapi di sisi lain perusahaan kehilangan aset produktif berupa kantor sendiri dan harus mencari tempat pengganti. Yang perlu dipantau adalah hasil Rapat Umum Pemegang Saham Luar Biasa pada 24 November 2026, karena transaksi ini baru bisa berjalan jika pemegang saham menyetujuinya, dan pembayaran dari KETR baru cair paling lambat lima hari kerja setelah persetujuan itu diperoleh.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "suspensi-mknt-ungkap-syarat-buka-lagi-saham-di-paparan-publik",
+  "category": "Aksi Korporasi",
+  "title": "[Suspensi] MKNT Ungkap Syarat Buka Lagi Saham di Paparan Publik",
+  "deck": "Direksi Remitra Global International (MKNT) memaparkan syarat pencabutan suspensi saham dan kondisi utilisasi pabrik baja Citra Baru Steel dalam public expose insidentil 9 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T18:26:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/51c234ecce_3b64305047.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "suspensi saham",
+   "public expose",
+   "Citra Baru Steel"
+  ],
+  "body": [
+   "PT Remitra Global International Tbk (MKNT) melaksanakan paparan publik insidentil pada Jumat, 9 Oktober 2026, pukul 10.00 hingga 11.00 WIB di Mediterania Function Room, Pacific Place Mall, Jakarta Selatan. Direktur Utama Santoso Widjojo dan Direktur Jehuda Ebenhaezer Winata memaparkan tiga pokok bahasan: profil entitas anak Perseroan, profil manajemen, serta struktur permodalan setelah pelaksanaan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dan rencana Perseroan ke depan. Acara ini dihadiri 25 peserta eksternal, terdiri dari media, sekuritas, dan investor individu, di luar jajaran manajemen dan karyawan Perseroan.",
+   "Pertanyaan yang paling disorot peserta adalah kapan suspensi perdagangan saham Perseroan akan dibuka kembali. Direksi menjawab bahwa Perseroan terus berupaya memenuhi persyaratan Bursa Efek Indonesia, salah satunya membuktikan posisi ekuitas sudah positif. Pembuktian itu akan disampaikan lewat Laporan Keuangan per 30 September 2026 atau laporan keuangan insidentil pasca pelaksanaan PMTHMETD yang disebut akan segera diterbitkan. Perseroan menyatakan saat ini masih berkoordinasi dengan Bursa dan otoritas terkait permohonan pembukaan kembali perdagangan sahamnya.",
+   "Soal anak usaha baja, PT Citra Baru Steel (CBS) disebut memiliki kapasitas terpasang 300.000 ton per tahun, namun tingkat utilisasinya baru berkisar 40 sampai 50 persen. Direksi mengaku optimistis utilisasi bisa naik seiring program-program strategis pemerintah, dan menegaskan dana penyertaan modal ke CBS dipakai untuk kebutuhan modal kerja serta rencana investasi pengembangan usaha CBS, sesuai yang sudah diungkapkan sebelumnya dalam keterbukaan informasi Perseroan. Untuk anak usaha udang PT Radja Udang Malingping (RUM), Perseroan menyatakan bisnisnya masih berfokus pada pasar lokal tapi tidak menutup kemungkinan membuka ekspor jika dinilai menguntungkan pemegang saham. Terkait rencana masuk ke sektor energi baru terbarukan, Perseroan mengatakan belum mengambil keputusan konkret dan masih mencari mitra berpengalaman sebagai prasyarat sebelum menjajaki sektor itu."
+  ],
+  "fotoAdegan": "Workers checking steel coils beside idle machinery on a half empty factory production line, daylight through tall windows",
+  "takeaway": "Kami menilai laporan ini netral karena sebatas rekap tanya jawab tanpa angka transaksi baru, tapi mengandung sinyal yang perlu dicermati: utilisasi pabrik baja Citra Baru Steel baru 40 sampai 50 persen dari kapasitas 300.000 ton per tahun, artinya lebih dari separuh mesin menganggur dan pendapatan dari lini ini belum optimal. Pos yang tersentuh di sini adalah ekuitas Perseroan, yakni selisih antara aset dan utang yang jadi ukuran apakah modal pemegang saham masih positif, karena itu syarat utama Bursa sebelum saham yang kini disuspensi bisa diperdagangkan lagi. Pasar akan menunggu Laporan Keuangan per 30 September 2026 atau laporan keuangan insidentil pasca penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD), yakni penerbitan saham baru tanpa menawarkan dulu ke pemegang saham lama, yang disebut akan segera diterbitkan Perseroan. Rencana masuk sektor energi baru terbarukan maupun ekspor produk udang RUM masih sebatas wacana tanpa mitra atau keputusan konkret, sehingga belum bisa dihitung sebagai katalis baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "impc-bagi-dividen-interim-rp5-saham-total-rp273-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IMPC Bagi [Dividen] Interim Rp5/Saham, Total Rp273,4 Miliar",
+  "deck": "PT Impack Pratama Industri Tbk (IMPC) membagikan dividen interim tunai Rp5 per saham senilai total Rp273,4 miliar, dibayarkan 30 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T18:16:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c00a26a766_6cf9a62d40.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IMPC",
+  "tags": [
+   "IMPC",
+   "dividen interim",
+   "corporate action",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Impack Pratama Industri Tbk (IMPC) memutuskan membagikan dividen interim untuk tahun buku 2026. Keputusan ini tertuang dalam Surat Keputusan Direksi No. 075/IP-LEGAL/BOD/X/2026 tanggal 13 Oktober 2026, yang telah disetujui Dewan Komisaris melalui Surat Keputusan No. 070/IP-LEGAL/BOC/X/2026 tanggal 12 Oktober 2026. Dividen ditetapkan sebesar Rp5 per saham, dengan total nilai Rp273.426.395.500 atau sekitar Rp273,4 miliar, dan tidak akan dibayar dalam bentuk efek lain selain tunai.",
+   "Perseroan menetapkan jadwal lengkap pembagian dividen ini. Periode cum dividen, yaitu batas akhir pembelian saham untuk masih berhak atas dividen, jatuh pada 21 Oktober 2026 untuk pasar reguler dan negosiasi, serta 23 Oktober 2026 untuk pasar tunai. Setelah itu saham akan diperdagangkan tanpa hak dividen (ex dividen) mulai 22 Oktober 2026 di pasar reguler dan negosiasi, serta 26 Oktober 2026 di pasar tunai. Tanggal pencatatan pemegang saham yang berhak menerima dividen (recording date) ditetapkan 23 Oktober 2026 pukul 16.00 WIB, dan dividen akan dibayarkan ke rekening pemegang saham paling lambat 30 Oktober 2026.",
+   "Perseroan juga melampirkan data keuangan per 30 Juni 2026 yang menjadi dasar pembagian dividen ini. Laba bersih yang diatribusikan kepada entitas induk tercatat Rp446.504.372.158, saldo laba ditahan yang tidak dibatasi penggunaannya sebesar Rp2.903.594.600.273, dan total ekuitas perusahaan mencapai Rp3.413.006.148.968. Dokumen ditandatangani secara elektronik oleh Corporate Secretary IMPC, Lenggana Linggawati."
+  ],
+  "fotoAdegan": "Workers inspecting rows of corrugated plastic roofing sheets on an industrial factory production line, overhead lighting",
+  "takeaway": "Positif, karena IMPC membagikan dividen interim Rp273,4 miliar yang setara sekitar 61 persen dari laba bersih semester pertama tahun ini, tanda perusahaan percaya pada arus kasnya tanpa perlu menahan seluruh keuntungan. Dividen ini diambil dari saldo laba ditahan, yaitu bagian keuntungan tahun-tahun sebelumnya yang belum dibagikan dan tersedia untuk dipakai perusahaan, yang jumlahnya Rp2,9 triliun jauh lebih besar dari dividen yang dibagikan, sehingga total modal perusahaan atau ekuitas sebesar Rp3,41 triliun tidak akan tergerus signifikan setelah pembayaran. Pembagian dividen juga berarti kas perusahaan akan berkurang sejumlah nilai dividen begitu dibayarkan, sesuatu yang biasanya dipantau pelaku pasar untuk menilai kecukupan kas operasional perusahaan ke depan. Yang perlu dipantau pembaca adalah tanggal pencatatan pemegang saham pada 23 Oktober 2026 pukul 16.00 bagi yang ingin memastikan haknya, serta tanggal pembayaran 30 Oktober 2026. Karena ini baru dividen interim untuk sebagian tahun buku 2026, masih ada kemungkinan tambahan dividen final yang biasanya diputuskan dalam RUPS setelah tahun buku penuh berakhir.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "xdif-penggabungan-4-manajer-investasi-bumn-jadi-danareksa-im",
+  "category": "Aksi Korporasi",
+  "title": "XDIF: [Penggabungan] 4 Manajer Investasi BUMN Jadi Danareksa IM",
+  "deck": "Empat manajer investasi pelat merah, termasuk pengelola XDIF, resmi bergabung jadi PT Danareksa Investment Management Indonesia per 1 Oktober 2026, modal disetornya naik jadi Rp182,92 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T18:09:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a20f1fdf8d_0ac3121b8a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XDIF",
+  "tags": [
+   "XDIF",
+   "Danareksa Investment Management",
+   "Penggabungan Manajer Investasi",
+   "BUMN"
+  ],
+  "body": [
+   "PT Mandiri Manajemen Investasi, manajer investasi yang mengelola Reksa Dana BRI ETF Indonesia TOP 40 (XDIF), resmi menggabungkan diri dengan PT BNI Asset Management, PT BRI Manajemen Investasi, dan PT PNM Investment Management. Penggabungan berlaku efektif 1 Oktober 2026 berdasarkan Akta Penggabungan Nomor 262 tanggal 28 September 2026 yang dibuat di hadapan notaris Jose Dima Satria di Jakarta Selatan. Sebagai perusahaan penerima penggabungan (surviving entity), Mandiri Manajemen Investasi sekaligus berganti nama menjadi PT Danareksa Investment Management Indonesia. Akibat hukumnya, seluruh aset, utang, hak, dan kewajiban BNI Asset Management, BRI Manajemen Investasi, serta PNM Investment Management beralih ke perusahaan hasil gabungan, dan status badan hukum ketiganya berakhir tanpa proses likuidasi.",
+   "Penggabungan ini juga diikuti penambahan modal. Modal dasar perusahaan naik dari Rp100 miliar, yang terdiri dari 2.500 lembar saham, menjadi Rp555 miliar yang terdiri dari 13.875 lembar saham, dengan nilai nominal tetap Rp40 juta per saham. Modal ditempatkan dan disetor naik lebih dari tiga kali lipat, dari Rp60 miliar atau 1.500 lembar saham, menjadi Rp182,92 miliar atau 4.573 lembar saham. Susunan direksi dan dewan komisaris yang baru juga sudah berlaku sejak tanggal efektif penggabungan, tertuang dalam Akta Nomor 264 tanggal 28 September 2026, meski rincian namanya tidak disertakan dalam surat ini.",
+   "Dari sisi operasional, kantor pusat perusahaan kini berada di Menara Mandiri 2 Lantai 15, Jalan Jenderal Sudirman Kavling 54-55, Jakarta Selatan, dengan kantor pendukung operasional di Gedung BRI II Lantai 25, Jakarta Pusat. Domain email seluruh entitas yang bergabung, termasuk email berakhiran bri-mi.co.id, bni-am.co.id, pnmim.com, dan mandiri-investasi.co.id, dialihkan ke domain baru danareksainvestments.com, dengan email lama tetap diteruskan otomatis selama masa transisi. Situs web masing-masing entitas lama untuk sementara tetap bisa diakses sebelum konsolidasi penuh ke situs resmi yang baru, yang alamatnya akan diumumkan kemudian. Data pribadi nasabah dari keempat entitas turut dialihkan ke perusahaan hasil gabungan sesuai ketentuan Undang-Undang Pelindungan Data Pribadi."
+  ],
+  "fotoAdegan": "Wide view of glass office towers along a busy Jakarta business district avenue, motorbikes and cars passing below, hazy morning light",
+  "takeaway": "Laporan ini condong positif bagi pemegang unit XDIF karena menyatukan empat manajer investasi pelat merah menjadi satu entitas dengan basis permodalan yang jauh lebih besar, tanpa ada tanda pelemahan dalam pengelolaan dana. Yang berubah di sini adalah modal ditempatkan dan disetor milik manajer investasi itu sendiri, bukan ekuitas XDIF, naik dari Rp60 miliar menjadi Rp182,92 miliar, dan modal yang lebih besar berarti perusahaan punya bantalan keuangan lebih tebal untuk menjaga operasional pengelolaan dana tetap stabil meski terjadi gejolak bisnis. Pemegang unit XDIF tidak perlu mengambil tindakan apa pun karena penggabungan ini terjadi di level perusahaan manajer investasi, bukan pada dana itu sendiri. Yang perlu dipantau selanjutnya adalah peluncuran resmi situs web baru Danareksa Investment Management Indonesia yang tanggalnya belum ditetapkan, serta publikasi rinci susunan direksi dan komisaris baru yang sudah berlaku sejak 1 Oktober 2026 namun belum diumumkan detailnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tugu-realisasi-dana-ipo-89-modal-ke-anak-usaha-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "TUGU: Realisasi Dana IPO 89%, Modal ke Anak Usaha [Tertunda]",
+  "deck": "PT Asuransi Tugu Pratama Indonesia Tbk melaporkan realisasi dana IPO 2018 sudah 88,98 persen per Juni 2026, sementara sisa Rp72,6 miliar untuk penyertaan modal ke anak usaha belum rampung.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T18:07:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7cef549d1a_db1346dca5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TUGU",
+  "tags": [
+   "TUGU",
+   "IPO",
+   "penggunaan dana",
+   "asuransi"
+  ],
+  "body": [
+   "PT Asuransi Tugu Pratama Indonesia Tbk (TUGU) melaporkan realisasi penggunaan dana hasil penawaran umum perdana sahamnya per 30 Juni 2026. Dari total dana yang terkumpul saat IPO pada 28 Mei 2018 sebesar Rp684,44 miliar, setelah dipotong biaya penawaran umum Rp25,74 miliar, hasil bersihnya Rp658,70 miliar. Hingga akhir Juni 2026, dana yang sudah terpakai sesuai rencana mencapai Rp586,09 miliar atau 88,98 persen, menyisakan Rp72,61 miliar atau 11,02 persen yang belum digunakan.",
+   "Tiga pos penggunaan dana sudah terealisasi penuh, yaitu infrastruktur pemasaran Rp184,44 miliar, IT dan operasional lainnya Rp184,44 miliar, serta rebranding dan promosi produk Rp92,22 miliar, masing masing sesuai porsi 28 persen, 28 persen, dan 14 persen dari rencana awal. Yang belum tuntas adalah penyertaan modal ke anak usaha PT Tugu Reasuransi Indonesia. Dari rencana Rp197,61 miliar atau 30 persen dari dana bersih, baru Rp125 miliar yang disetor, setara 63,26 persen dari rencana itu. TUGU menyebut sisanya belum terealisasi karena kegiatan dalam prospektus dijalankan bertahap mengikuti peraturan yang berlaku, sesuai keputusan Rapat Umum Pemegang Saham Tahunan 29 April 2026.",
+   "Sambil menunggu penyaluran tahap berikutnya, sisa dana Rp72,61 miliar ditempatkan dalam empat deposito berjangka di Bank Rakyat Indonesia cabang Jakarta Veteran, masing masing Rp25 miliar berbunga 5,5 persen per tahun selama 30 hari, Rp13,35 miliar berbunga 5,5 persen selama 30 hari, Rp9,26 miliar berbunga 6,8 persen selama 30 hari, dan Rp25 miliar berbunga 7,5 persen selama 92 hari. Perseroan mencatat hubungan dengan BRI sebagai entitas sepengendali melalui Pemerintah Republik Indonesia lewat Danantara. Laporan ditandatangani Edi Yoga Prasetyo selaku Pejabat sementara Presiden Direktur pada 14 Juli 2026, dan disampaikan ke OJK oleh Aldy Rifianto, Financial Accounting Group Head."
+  ],
+  "fotoAdegan": "Exterior of a modern insurance office tower in Jakarta's financial district, reflective glass facade under an overcast sky, pedestrians walking below",
+  "takeaway": "Laporan ini netral karena dana IPO tetap dipakai sesuai rencana awal, tidak ada pengalihan tujuan atau dana yang hilang, hanya soal waktu penyelesaian satu pos yang bergeser ke tahap berikutnya. Pos yang tersentuh adalah permodalan anak usaha asuransi, PT Tugu Reasuransi Indonesia, karena modal yang sudah disetor baru Rp125 miliar dari rencana Rp197,6 miliar, sehingga penguatan kapasitas anak usaha itu belum sepenuhnya rampung. Sisa dana Rp72,6 miliar sementara disimpan sebagai deposito berbunga di BRI, jadi uangnya tidak menganggur percuma, tapi juga belum bekerja menambah kapasitas usaha, dan inilah yang biasa diperhatikan pelaku pasar ketika membandingkan dana yang mengendap dengan dana yang sudah terpakai di operasional. Yang perlu dipantau selanjutnya adalah realisasi penuh penyertaan modal tersebut, yang menurut keputusan RUPS Tahunan 29 April 2026 akan dilakukan bertahap mengikuti ketentuan yang berlaku, tanpa tenggat waktu pasti yang disebutkan dalam laporan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "alto-kena-sanksi-bei-denda-rp150-juta-telat-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "ALTO Kena [Sanksi] BEI, Denda Rp150 Juta Telat Laporan Keuangan",
+  "deck": "BEI menjatuhkan Peringatan Tertulis III dan denda Rp150 juta kepada ALTO karena belum menyerahkan laporan keuangan interim per 30 Juni 2026 hingga tenggat 29 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T18:04:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c479f54cee_1b4646417e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ALTO",
+  "tags": [
+   "ALTO",
+   "Tri Banyan Tirta",
+   "sanksi BEI",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menjatuhkan sanksi kepada PT Tri Banyan Tirta Tbk (ALTO) berupa Peringatan Tertulis III dan denda Rp150 juta karena perusahaan belum menyampaikan Laporan Keuangan Interim, yaitu laporan keuangan tengah tahunan, per 30 Juni 2026 hingga batas waktu 29 September 2026. Sanksi ini tertuang dalam pengumuman bursa Nomor Peng-S-00033/BEI.PLP/10-2026 tertanggal 13 Oktober 2026, mengacu pada Peraturan Bursa Nomor I-E tentang kewajiban penyampaian informasi dan Peraturan Bursa Nomor I-H tentang sanksi.",
+   "ALTO bukan satu-satunya yang kena sanksi ini. Berdasarkan pemantauan bursa per 30 September 2026, dari 956 perusahaan tercatat yang wajib menyerahkan laporan keuangan tengah tahun, 62 perusahaan di Papan Utama, Pengembangan, dan Ekonomi Baru, termasuk ALTO, sama-sama dikenai Peringatan Tertulis III dan denda Rp150 juta karena belum menyetor laporan keuangan yang tidak diaudit. Dua perusahaan di Papan Akselerasi, Menn Teknologi Indonesia (MENN) dan Mitra Tirta Buwana (SOUL), hanya dikenai Peringatan Tertulis III tanpa denda. Toba Pulp Lestari (INRU) dan Perusahaan Gas Negara (PGAS) dikenai sanksi lebih ringan berupa Peringatan Tertulis II dan denda Rp50 juta karena laporannya masih dalam proses penelaahan terbatas akuntan publik, sementara Pacific Strategic Financial (APIC), Surya Permata Andalan (NATO), dan Techno9 Indonesia (NINE) hanya kena Peringatan Tertulis I tanpa denda karena laporannya menunggu audit akuntan publik.",
+   "Secara keseluruhan, bursa mencatat 892 dari 956 perusahaan wajib lapor sudah menyerahkan laporan keuangan tengah tahunnya, sementara 70 perusahaan, termasuk ALTO, belum menyerahkan laporannya hingga batas waktu tersebut. Sanksi ini merujuk pada Peraturan Bursa Nomor I-H tentang Sanksi dan menjadi bagian dari pengawasan rutin bursa atas kepatuhan pelaporan keuangan seluruh perusahaan tercatat."
+  ],
+  "fotoAdegan": "Workers inspecting rows of plastic water bottles moving along a conveyor belt inside an Indonesian beverage bottling factory, bright industrial lighting",
+  "takeaway": "Laporan ini negatif bagi ALTO karena sanksinya sudah mencapai Peringatan Tertulis III, bukan pelanggaran pertama kali, dan disertai denda tunai Rp150 juta yang langsung membebani kas perusahaan. Yang tersentuh di sini bukan laba atau ekuitas secara langsung, melainkan transparansi perusahaan ke investor, sebab laporan keuangan tengah tahunan adalah cara utama pemegang saham memantau arus kas dan kinerja operasional ALTO, dan keterlambatan berulang membuat investor kehilangan data terkini untuk menilai kesehatan keuangan perusahaan sementara dendanya sendiri mengurangi laba bersih periode berjalan. Yang perlu dipantau berikutnya adalah apakah ALTO akhirnya menyerahkan laporan keuangan interim per 30 Juni 2026 setelah sanksi SP3 ini, sebab bursa dapat menjatuhkan sanksi lebih berat, termasuk suspensi perdagangan saham, jika keterlambatan terus berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-sanksi-70-emiten-termasuk-sril-dan-pgas-soal-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "BEI [Sanksi] 70 Emiten Termasuk SRIL dan PGAS Soal Laporan Keuangan",
+  "deck": "BEI menjatuhkan peringatan tertulis dan denda hingga Rp150 juta kepada 70 perusahaan tercatat yang telat menyerahkan laporan keuangan interim per 30 Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T18:01:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/48a49375da_59a83cfedb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "BEI",
+   "sanksi emiten",
+   "PGAS",
+   "SRIL"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menerbitkan koreksi atas pengumuman sanksi bernomor Peng-S-00033/BEI.PLP/10-2026 yang sebelumnya terbit 12 Oktober 2026, terkait kewajiban penyampaian laporan keuangan interim per 30 Juni 2026. Berdasarkan pemantauan bursa hingga 30 September 2026, dari total 1.017 perusahaan tercatat, 956 di antaranya wajib menyerahkan laporan keuangan interim, sementara 55 pihak lain seperti reksa dana ETF, DIRE, dan waran terstruktur dikecualikan dari kewajiban ini. Sebanyak 892 perusahaan sudah menyerahkan laporannya, sedangkan 70 perusahaan belum memenuhi kewajiban tersebut dan dikenai sanksi berjenjang.",
+   "Sanksi paling berat jatuh kepada 62 perusahaan tercatat di Papan Utama, Pengembangan, dan Ekonomi Baru yang hingga 29 September 2026 belum menyerahkan laporan keuangan tanpa opini akuntan publik. Mereka dikenai Peringatan Tertulis III sekaligus denda Rp150 juta per perusahaan. Daftar lengkapnya adalah ALTO (Tri Banyan Tirta), ARKA (Arkha Jayanti Persada), ARMY (Armidian Karyatama), ARTI (Ratu Prabu Energi), BEBS (Berkah Beton Sadaya), BHAT (Bhakti Multi Artha), BIKA (Binakarya Jaya Abadi), BOSS (Borneo Olah Sarana Sukses), BTEL (Bakrie Telecom), CBMF (Cahaya Bintang Medan), COAL (Black Diamond Resources), COWL (Cowell Development), CPRI (Capri Nusa Satu Properti), DEAL (Dewata Freightinternational), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), ETWA (Eterindo Wahanatama), GAMA (Aksara Global Development), GOLL (Golden Plantation), HITS (Humpuss Intermoda Transportasi), HKMU (HK Metals Utama), HOME (Hotel Mandarine Regency), HOTL (Saraswati Griya Lestari), INCF (Indo Komoditi Korpora), INDX (Tanah Laut), IPPE (Indo Pureco Pratama), JMAS (Asuransi Jiwa Syariah Jasa Mitra Abadi), JSKY (Sky Energy Indonesia), KAYU (Darmi Bersaudara), KBRI (Kertas Basuki Rachmat Indonesia), LCGP (Eureka Prima Jakarta), LCKM (LCK Global Kedaton), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MAGP (Multi Agro Gemilang Plantation), MREI (Maskapai Reasuransi Indonesia), MTRA (Mitra Pemuda), NUSA (Sinergi Megah Internusa), PLAS (Polaris Investama), PMMP (Panca Mitra Multiperdana), POOL (Pool Advista Indonesia), PTDU (Djasa Ubersakti), PURE (Trinitan Metals and Minerals), RAFI (Sari Kreasi Boga), RIMO (Rimo International Lestari), SBAT (Sejahtera Bintang Abadi Textile), SIMA (Siwani Makmur), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), SWAT (Sriwahana Adityakarta), TAYS (Jaya Swarasa Agung), TDPM (Tianrong Chemicals Industry), TECH (Indosterling Technomedia), TELE (Omni Inovasi Indonesia), TGRA (Terregra Asia Energy), TOPS (Totalindo Eka Persada), TOYS (Sunindo Adipersada), TRAM (Trada Alam Minera), TRIL (Triwira Insanlestari), UNIT (Nusantara Inti Corpora), dan ZBRA (Dosni Roha Indonesia).",
+   "Selain itu, PT Duta Pertiwi Nusantara Tbk (DPNS) semula terkena sanksi yang sama lalu mengubah rencana pelaporan menjadi laporan audit, namun hingga 30 September 2026 tetap belum menyerahkannya sehingga kini dikenai Peringatan Tertulis I. Dua perusahaan di Papan Akselerasi, PT Menn Teknologi Indonesia Tbk (MENN) dan PT Mitra Tirta Buwana Tbk (SOUL), dikenai Peringatan Tertulis III karena belum menyerahkan laporan serupa hingga 30 September 2026. PT Toba Pulp Lestari Tbk (INRU) dan PT Perusahaan Gas Negara Tbk (PGAS) dikenai Peringatan Tertulis II disertai denda Rp50 juta karena belum menyerahkan laporan yang sudah ditelaah terbatas oleh akuntan publik. Sementara PT Pacific Strategic Financial Tbk (APIC), PT Surya Permata Andalan Tbk (NATO), dan PT Techno9 Indonesia Tbk (NINE) menerima Peringatan Tertulis I karena belum menyerahkan laporan keuangan versi audit."
+  ],
+  "fotoAdegan": "Rows of filing cabinets and stacked paper folders in a busy corporate finance back office, afternoon light through blinds",
+  "takeaway": "Laporan ini negatif bagi puluhan emiten yang disebut, karena keterlambatan menyerahkan laporan keuangan biasanya menandakan masalah tata kelola atau kondisi keuangan yang belum beres, apalagi 62 perusahaan di antaranya harus membayar denda tunai Rp150 juta masing-masing. Denda ini langsung memotong kas perusahaan, yaitu uang tunai yang sebenarnya bisa dipakai untuk operasional atau membayar utang, dan bagi investor keterlambatan semacam ini jadi sinyal soal kedisiplinan manajemen yang ikut memengaruhi kepercayaan pasar. Nama-nama yang cukup dikenal publik seperti PGAS, SRIL, dan BTEL ikut masuk daftar ini, jadi bukan cuma emiten kecil yang kena. Yang perlu dipantau berikutnya adalah apakah perusahaan-perusahaan tersebut akhirnya menyerahkan laporannya atau tetap menunggak, karena dokumen ini sendiri adalah koreksi atas pengumuman BEI tertanggal 12 Oktober 2026, sehingga status kepatuhan masih bisa berubah pada pemantauan bursa selanjutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "xdes-bri-mi-gabung-ke-danareksa-investment-management-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "XDES: BRI MI [Gabung] ke Danareksa Investment Management Indonesia",
+  "deck": "Manajer investasi di belakang ETF syariah berkode XDES berganti badan hukum setelah BNI AM, BRI MI, dan PNM Investment Management bergabung ke Danareksa Investment Management Indonesia, efektif 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T17:58:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/af3f93b186_dfbbc6d145.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XDES",
+  "tags": [
+   "XDES",
+   "Danareksa Investment Management",
+   "merger manajer investasi",
+   "BRI MI"
+  ],
+  "body": [
+   "Keterbukaan informasi yang diterbitkan atas nama XDES, yaitu Reksa Dana Syariah BRI MI Gold ETF Syariah, menyampaikan bahwa penggabungan antara PT BNI Asset Management, PT BRI Manajemen Investasi, dan PT PNM Investment Management ke dalam PT Danareksa Investment Management Indonesia (sebelumnya PT Mandiri Manajemen Investasi) telah efektif berlaku pada 1 Oktober 2026. Penggabungan ini tertuang dalam Akta Penggabungan Nomor 262 tanggal 28 September 2026 di hadapan notaris Jose Dima Satria di Jakarta Selatan, dan telah diterima pemberitahuannya oleh Menteri Hukum melalui surat tanggal 30 September 2026. Pengumuman ke publik juga sudah dimuat di dua koran nasional, Investor Daily dan Media Indonesia, pada 1 Oktober 2026. Berdasarkan Pasal 122 UU Perseroan Terbatas, seluruh aset, utang, hak, dan kewajiban ketiga perusahaan yang digabung beralih ke Danareksa Investment Management Indonesia sebagai entitas yang bertahan, sementara status badan hukum BNI AM, BRI MI, dan PNM Investment Management berakhir tanpa proses likuidasi.",
+   "Sebagai bagian dari penggabungan, modal dasar perusahaan hasil gabungan naik dari Rp100 miliar, terbagi atas 2.500 lembar saham, menjadi Rp555 miliar yang terbagi atas 13.875 lembar saham, masing-masing bernilai nominal Rp40 juta per lembar. Modal yang sudah ditempatkan dan disetor penuh juga naik dari Rp60 miliar atau 1.500 lembar saham, menjadi Rp182,92 miliar atau 4.573 lembar saham. Susunan Direksi dan Dewan Komisaris perusahaan baru ditetapkan lewat Akta Nomor 264 tanggal 28 September 2026 dan berlaku sejak tanggal efektif penggabungan. Perusahaan juga menyesuaikan kode klasifikasi usahanya mengikuti Klasifikasi Baku Lapangan Usaha Indonesia 2025, yaitu KBLI 66301 untuk manajemen investasi konvensional dan KBLI 66151 untuk aktivitas advisori investasi, tanpa mengubah izin usahanya sebagai Manajer Investasi dan Penasihat Investasi.",
+   "Dari sisi operasional, kantor pusat perusahaan kini berada di Menara Mandiri 2 Lantai 15, Jalan Jenderal Sudirman Kavling 54-55, Jakarta Selatan, dengan kantor pendukung operasional di Gedung BRI II Lantai 25, Jalan Jenderal Sudirman Kavling 44-46, Jakarta Pusat. Seluruh alamat email yang sebelumnya menggunakan domain BRI MI, BNI AM, PNM Investment Management, dan Mandiri Manajemen Investasi beralih ke domain baru @danareksainvestments.com, dengan email lama tetap diteruskan otomatis selama masa transisi. Situs web lama keempat perusahaan, yaitu mandiri-investasi.co.id, bri-mi.co.id, bni-am.co.id, dan pnmim.com, untuk sementara masih aktif dan memuat informasi produk masing-masing sebelum dikonsolidasikan secara bertahap ke situs resmi Perseroan yang baru. Data pribadi nasabah yang sebelumnya dikelola oleh BNI AM, BRI MI, dan PNM Investment Management juga telah dialihkan ke Danareksa Investment Management Indonesia sesuai Pasal 48 ayat 2 UU Pelindungan Data Pribadi."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers along a busy Jakarta business district avenue, pedestrians crossing at midday",
+  "takeaway": "Penggabungan ini kami nilai netral bagi pemegang unit penyertaan XDES, sebab yang berubah adalah badan hukum dan struktur pengelolanya, bukan aset atau nilai investasi dalam ETF itu sendiri. Pos yang tersentuh adalah modal manajer investasi: modal yang ditempatkan dan disetor Danareksa Investment Management Indonesia naik tiga kali lipat dari Rp60 miliar menjadi Rp182,92 miliar, yang berarti bantalan keuangan perusahaan pengelola dana ini jadi lebih tebal untuk menanggung risiko operasional, meski ini tidak otomatis memperbaiki kinerja produk reksa dana yang dikelolanya. Yang perlu dipantau pemegang unit penyertaan selanjutnya adalah pengumuman alamat situs web resmi baru Perseroan yang menurut dokumen ini masih akan disampaikan kemudian, serta proses pemindahan bertahap informasi produk dari empat situs lama ke situs gabungan yang baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wifi-koreksi-laporan-realisasi-dana-obligasi-sukuk-rp2-5-t",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Koreksi Laporan [Realisasi] Dana Obligasi-Sukuk Rp2,5 T",
+  "deck": "WIFI baru merealisasikan Rp47,3 miliar atau 1,92 persen dari Rp2,5 triliun dana obligasi dan sukuk untuk proyek internet nirkabel TKP; sisanya masih mengendap di giro bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T17:46:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/562b84fea9_904c4abbe7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "obligasi",
+   "sukuk",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) mengoreksi laporan penggunaan dana hasil penawaran umum yang sebelumnya disampaikan pada 15 Juli 2026. Koreksi ini mencakup dua instrumen yang sama-sama efektif pada 23 Juni 2026, yaitu Obligasi Berkelanjutan I dan Sukuk Ijarah Berkelanjutan I Solusi Sinergi Digital Tahap I Tahun 2026, masing-masing senilai Rp1,25 triliun sehingga totalnya Rp2,5 triliun. Setelah dipotong biaya penerbitan sebesar Rp16,77 miliar untuk obligasi dan Rp16,86 miliar untuk sukuk, yang antara lain berupa biaya penjaminan, biaya penjualan, dan management fee yang dibagi ke lima penjamin emisi yaitu RHB Sekuritas, KB Valbury Sekuritas, BNI Sekuritas, Mandiri Sekuritas, dan Maybank Sekuritas, dana bersih yang diterima perseroan mencapai Rp2,466 triliun.",
+   "Seluruh dana bersih tersebut direncanakan disalurkan sebagai pinjaman antarperusahaan kepada PT Telemedia Komunikasi Pratama (TKP), entitas anak tidak langsung WIFI yang dimiliki 99,99 persen melalui PT Dharma Sinar Semesta, untuk membiayai belanja modal jaringan Fixed Wireless Access (FWA) berbasis frekuensi 1,4 GHz di Pulau Jawa. Namun sampai periode laporan per 30 Juni 2026, dari dana obligasi baru Rp47,3 miliar atau 3,84 persen yang benar-benar disalurkan ke TKP, sedangkan dari sukuk belum ada sama sekali yang disalurkan. Secara gabungan, dari total Rp2,466 triliun dana bersih kedua instrumen, hanya Rp47,3 miliar atau 1,92 persen yang terealisasi, sehingga Rp2,419 triliun atau 98,08 persen masih belum terpakai.",
+   "Sisa dana yang belum terpakai itu disimpan dalam bentuk giro di enam rekening berbeda: Rp600 miliar di Bank JTrust Indonesia dengan bunga 0,9 persen, Rp585,93 miliar di Bank KB Indonesia dengan bunga 1,65 persen, Rp332,075 miliar di giro syariah Bank KB Syariah dengan imbal hasil 1,65 persen, Rp800 miliar di unit usaha syariah Bank Jakarta dengan imbal hasil 1,25 persen, serta Rp21,06 miliar dan Rp80 miliar di BCA atas nama WIFI dan TKP dengan bunga masing-masing 0,5 persen. Perseroan menjelaskan keterlambatan ini terjadi karena TKP baru bisa membeli perangkat Customer Premises Equipment (CPE) dan Radio Access Network (RAN) melalui purchase order ke vendor pihak ketiga setelah dana diterima, dengan tanggal emisi baru 26 Juni 2026. Target realisasi penuh ditetapkan pada kuartal III hingga kuartal IV 2026, dan laporan ini ditandatangani Direktur WIFI Shannedy Ong di Jakarta pada 13 Oktober 2026."
+  ],
+  "fotoAdegan": "Technicians installing small wireless antenna equipment on a steel telecom tower above rooftops in a Jakarta suburb, late afternoon",
+  "takeaway": "Laporan ini netral bagi WIFI, sebab isinya cuma pembaruan rutin soal ke mana mengalirnya dana obligasi dan sukuk yang baru efektif akhir Juni 2026, bukan kabar bisnis baru. Yang tersentuh adalah beban bunga dan arus kas perusahaan: dana Rp2,4 triliun yang hampir seluruh hasil penerbitan Rp2,5 triliun untuk sementara hanya disimpan di giro bank berbunga 0,5 sampai 1,65 persen setahun, padahal WIFI tetap wajib membayar kupon obligasi dan sukuknya setiap tiga bulan, sehingga ada selisih biaya dana yang menggerus laba selama uang itu menganggur. Yang perlu dipantau berikutnya adalah realisasi pembelian perangkat CPE dan RAN oleh TKP yang ditargetkan selesai pada kuartal III sampai IV 2026, serta laporan transaksi afiliasi antara WIFI dan TKP ke OJK yang wajib disampaikan paling lambat dua hari kerja setelah dana benar-benar dipakai.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik",
   "category": "Industri",
   "title": "Hilirisasi RI Geser Fokus ke Industri [Baterai] Listrik",

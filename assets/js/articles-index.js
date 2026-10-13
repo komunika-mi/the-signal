@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "xmsk-empat-manajer-investasi-gabung-jadi-danareksa-im",
+  "category": "Aksi Korporasi",
+  "title": "XMSK: Empat Manajer Investasi Gabung Jadi [Danareksa IM]",
+  "deck": "Manajer investasi pengelola ETF XMSK berganti nama jadi PT Danareksa Investment Management Indonesia setelah bergabung dengan BNI AM, BRI MI, dan PNM IM, efektif 1 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMSK",
+   "Danareksa Investment Management Indonesia",
+   "merger manajer investasi",
+   "reksa dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0d9d06a024_8085f15fbd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xmlf-penggabungan-mmi-bni-am-bri-mi-pnm-im-jadi-danareksa-im",
+  "category": "Aksi Korporasi",
+  "title": "XMLF: [Penggabungan] MMI-BNI AM-BRI MI-PNM IM jadi Danareksa IM",
+  "deck": "Manajer investasi XMLF berganti nama jadi Danareksa Investment Management Indonesia usai merger dengan BNI AM, BRI MI, dan PNM IM; modal disetor naik jadi Rp182,92 miliar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMLF",
+   "Danareksa Investment Management Indonesia",
+   "Penggabungan Manajer Investasi",
+   "Reksa Dana ETF"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/09e46aa10f_ea9e757552.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtps-jual-gedung-kantor-rp94-5-m-penilai-sebut-tidak-wajar",
+  "category": "Aksi Korporasi",
+  "title": "MTPS Jual Gedung Kantor Rp94,5 M, Penilai Sebut [Tidak Wajar]",
+  "deck": "MTPS akan menjual gedung kantornya ke KETR senilai Rp94,5 miliar, tapi penilai independen menyebut harga itu tidak wajar. RUPS digelar 24 November 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTPS",
+   "Ketrosden Triasmitra",
+   "transaksi material",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6dadc5848d_82962ab0bb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suspensi-mknt-ungkap-syarat-buka-lagi-saham-di-paparan-publik",
+  "category": "Aksi Korporasi",
+  "title": "[Suspensi] MKNT Ungkap Syarat Buka Lagi Saham di Paparan Publik",
+  "deck": "Direksi Remitra Global International (MKNT) memaparkan syarat pencabutan suspensi saham dan kondisi utilisasi pabrik baja Citra Baru Steel dalam public expose insidentil 9 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "suspensi saham",
+   "public expose",
+   "Citra Baru Steel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/51c234ecce_3b64305047.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "impc-bagi-dividen-interim-rp5-saham-total-rp273-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IMPC Bagi [Dividen] Interim Rp5/Saham, Total Rp273,4 Miliar",
+  "deck": "PT Impack Pratama Industri Tbk (IMPC) membagikan dividen interim tunai Rp5 per saham senilai total Rp273,4 miliar, dibayarkan 30 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IMPC",
+   "dividen interim",
+   "corporate action",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c00a26a766_6cf9a62d40.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xdif-penggabungan-4-manajer-investasi-bumn-jadi-danareksa-im",
+  "category": "Aksi Korporasi",
+  "title": "XDIF: [Penggabungan] 4 Manajer Investasi BUMN Jadi Danareksa IM",
+  "deck": "Empat manajer investasi pelat merah, termasuk pengelola XDIF, resmi bergabung jadi PT Danareksa Investment Management Indonesia per 1 Oktober 2026, modal disetornya naik jadi Rp182,92 miliar.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XDIF",
+   "Danareksa Investment Management",
+   "Penggabungan Manajer Investasi",
+   "BUMN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a20f1fdf8d_0ac3121b8a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tugu-realisasi-dana-ipo-89-modal-ke-anak-usaha-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "TUGU: Realisasi Dana IPO 89%, Modal ke Anak Usaha [Tertunda]",
+  "deck": "PT Asuransi Tugu Pratama Indonesia Tbk melaporkan realisasi dana IPO 2018 sudah 88,98 persen per Juni 2026, sementara sisa Rp72,6 miliar untuk penyertaan modal ke anak usaha belum rampung.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TUGU",
+   "IPO",
+   "penggunaan dana",
+   "asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7cef549d1a_db1346dca5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "alto-kena-sanksi-bei-denda-rp150-juta-telat-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "ALTO Kena [Sanksi] BEI, Denda Rp150 Juta Telat Laporan Keuangan",
+  "deck": "BEI menjatuhkan Peringatan Tertulis III dan denda Rp150 juta kepada ALTO karena belum menyerahkan laporan keuangan interim per 30 Juni 2026 hingga tenggat 29 September 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ALTO",
+   "Tri Banyan Tirta",
+   "sanksi BEI",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c479f54cee_1b4646417e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-sanksi-70-emiten-termasuk-sril-dan-pgas-soal-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "BEI [Sanksi] 70 Emiten Termasuk SRIL dan PGAS Soal Laporan Keuangan",
+  "deck": "BEI menjatuhkan peringatan tertulis dan denda hingga Rp150 juta kepada 70 perusahaan tercatat yang telat menyerahkan laporan keuangan interim per 30 Juni 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEI",
+   "sanksi emiten",
+   "PGAS",
+   "SRIL"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/48a49375da_59a83cfedb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xdes-bri-mi-gabung-ke-danareksa-investment-management-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "XDES: BRI MI [Gabung] ke Danareksa Investment Management Indonesia",
+  "deck": "Manajer investasi di belakang ETF syariah berkode XDES berganti badan hukum setelah BNI AM, BRI MI, dan PNM Investment Management bergabung ke Danareksa Investment Management Indonesia, efektif 1 Oktober 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XDES",
+   "Danareksa Investment Management",
+   "merger manajer investasi",
+   "BRI MI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/af3f93b186_dfbbc6d145.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-koreksi-laporan-realisasi-dana-obligasi-sukuk-rp2-5-t",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Koreksi Laporan [Realisasi] Dana Obligasi-Sukuk Rp2,5 T",
+  "deck": "WIFI baru merealisasikan Rp47,3 miliar atau 1,92 persen dari Rp2,5 triliun dana obligasi dan sukuk untuk proyek internet nirkabel TKP; sisanya masih mengendap di giro bank.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "obligasi",
+   "sukuk",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/562b84fea9_904c4abbe7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik",
   "category": "Industri",
   "title": "Hilirisasi RI Geser Fokus ke Industri [Baterai] Listrik",
@@ -6300,185 +6476,6 @@ var ARTICLES = [
    "pelabuhan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ff6ebb6379_d54dc4c27d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bq-sesuaikan-harga-waran-asii-usai-dividen-rp98-saham",
-  "category": "Aksi Korporasi",
-  "title": "BQ Sesuaikan Harga Waran ASII Usai Dividen [Rp98]/Saham",
-  "deck": "PT Korea Investment and Sekuritas Indonesia (BQ) menyesuaikan rasio dan harga pelaksanaan waran terstruktur ASIIBQCV6A dan ASIIBQCZ6A menyusul dividen tunai ASII Rp98 per saham.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BQ",
-   "ASII",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/92b2fed149_72acddc2d5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-waran-amrt-disesuaikan-usai-dividen-rp595-8-m",
-  "category": "Aksi Korporasi",
-  "title": "DR: Waran [AMRT] Disesuaikan usai Dividen Rp595,8 M",
-  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur AMRT mengikuti rumus baku di prospektus, merespons dividen tunai Rp595,8 miliar dari Sumber Alfaria Trijaya.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "AMRT",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11075ed644_cd83a5657c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemendag-dampingi-56-umk-depok-tangsel-urus-sertifikasi-halal",
-  "category": "UMKM",
-  "title": "Kemendag Dampingi [56] UMK Depok-Tangsel Urus Sertifikasi Halal",
-  "deck": "Kemendag memfasilitasi pendampingan sertifikasi halal bagi 56 UMK di Depok dan Tangerang Selatan pada kuartal keempat 2026, bagian dari dorongan produk lokal menembus pasar global.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/kemendag-dampingi-56-umk-depok-tangsel-urus-sertifikasi-halal.jpg",
-  "imageV": "muw94xud",
-  "tags": [
-   "UMKM",
-   "Sertifikasi Halal",
-   "Kemendag",
-   "Depok"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-umk-tembus-pasar-global-kemendag-fasilitasi-pendampingan-sertifikasi-halal",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "komite-audit-humi-berganti-fiantonius-sihotang-anggota-baru",
-  "category": "Aksi Korporasi",
-  "title": "Komite [Audit] HUMI Berganti, Fiantonius Sihotang Anggota Baru",
-  "deck": "Dewan Komisaris HUMI mengganti Mirawati Sudjono dengan Fiantonius Sihotang sebagai anggota Komite Audit efektif 1 Oktober 2026, sementara Ketua Mahdan dan anggota JT Duma tetap menjabat.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HUMI",
-   "Komite Audit",
-   "Tata Kelola Perusahaan",
-   "Humpuss Maritim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/82de038d5f_424dabe19c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "talf-sewa-mobil-dari-perusahaan-afiliasi-milik-direksinya",
-  "category": "Aksi Korporasi",
-  "title": "TALF Sewa Mobil dari Perusahaan [Afiliasi] Milik Direksinya",
-  "deck": "Tunas Alfin menyewa mobil dari PT Adi Indah Andalan, perusahaan yang dimiliki dan dipimpin oleh direksi serta komisaris utamanya sendiri, senilai Rp9,7 juta per bulan selama tiga bulan.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TALF",
-   "transaksi afiliasi",
-   "sewa kendaraan",
-   "Tunas Alfin"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/76a840d2f2_e7d9f2c4a6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pssi-gelar-rupslb-28-oktober-bagi-saham-bonus-dari-treasuri",
-  "category": "Aksi Korporasi",
-  "title": "PSSI Gelar RUPSLB 28 Oktober, Bagi [Saham Bonus] dari Treasuri",
-  "deck": "RUPSLB PSSI pada 28 Oktober 2026 membahas pengalihan saham treasuri menjadi saham bonus dan perubahan pasal anggaran dasar soal bidang usaha.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "RUPSLB",
-   "saham treasuri",
-   "saham bonus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d50defc785_7847d00a5b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bino-koreksi-dana-ipo-sisa-rp1-33-miliar-dialihkan-ke-utang",
-  "category": "Aksi Korporasi",
-  "title": "BINO Koreksi Dana IPO: Sisa Rp1,33 Miliar [Dialihkan] ke Utang",
-  "deck": "PT Perma Plasindo Tbk (BINO) mengoreksi laporan realisasi dana IPO, sisa Rp1,33 miliar yang semula untuk beli tanah di Klaten dialihkan jadi pelunasan utang ke pemegang saham sesuai persetujuan RUPS 2025.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BINO",
-   "IPO",
-   "penggunaan dana IPO",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/18213acfac_4ce6df71ff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-sabet-bronze-di-ipma-global-project-award",
-  "category": "BUMN",
-  "title": "Pegadaian Sabet [Bronze] di IPMA Global Project Award",
-  "deck": "Pegadaian meraih Bronze Winner di IPMA Global Project Excellence Award 2026 di Hiroshima, Jepang, untuk kategori Project Management Office.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/pegadaian-sabet-bronze-di-ipma-global-project-award.jpg",
-  "imageV": "muw94y8c",
-  "tags": [
-   "pegadaian",
-   "bumn",
-   "ipma",
-   "penghargaan internasional"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471459-wakili-indonesia-di-kancah-internasional-pegadaian-raih-penghargaan-internasional-ipma-global-project-excellence-award-2026"
- },
- {
-  "slug": "blog-koreksi-laporan-dana-ipo-rp138-2-miliar-tuntas-terpakai",
-  "category": "Aksi Korporasi",
-  "title": "BLOG Koreksi Laporan, Dana IPO [Rp138,2 Miliar] Tuntas Terpakai",
-  "deck": "Trimitra Trans Persada mengoreksi laporan realisasi dana IPO per 30 Juni 2026: seluruh Rp138,23 miliar sudah terpakai untuk gudang pendingin dan truk.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLOG",
-   "IPO",
-   "realisasi dana",
-   "logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/18d5d1e6af_42af6e8a0a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ikai-direksi-beli-5-juta-saham-hak-suara-ke-0-04",
-  "category": "Aksi Korporasi",
-  "title": "IKAI: Direksi [Beli] 5 Juta Saham, Hak Suara ke 0,04%",
-  "deck": "Direksi IKAI Desra Firza Ghazfan membeli 5 juta saham seharga Rp20 per lembar pada 1 Oktober 2026, hak suaranya naik dari 0 menjadi 0,04 persen.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IKAI",
-   "kepemilikan saham",
-   "direksi",
-   "intikeramik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06102026-0602-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppri-direksi-divestasi-lagi-15-juta-saham-hak-suara-ke-12-6",
-  "category": "Aksi Korporasi",
-  "title": "PPRI: Direksi [Divestasi] Lagi 15 Juta Saham, Hak Suara ke 12,6%",
-  "deck": "Direksi PPRI, Irsyad Hanif, melepas 15 juta saham seharga Rp185 per lembar pada 5 Oktober 2026, penjualan kedua dalam dua hari yang menekan hak suaranya ke 12,61 persen.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRI",
-   "kepemilikan saham",
-   "direksi",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06102026-2548-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

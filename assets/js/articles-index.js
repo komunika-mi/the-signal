@@ -5,6 +5,89 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ilo-seco-luncurkan-fase-baru-program-keuangan-umkm",
+  "category": "UMKM",
+  "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
+  "deck": "Pemerintah bersama ILO dan SECO menutup program PROMISE II dan memasuki fase baru penguatan akses keuangan UMKM, di tengah kesenjangan literasi keuangan yang masih lebar.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "UMKM",
+   "Literasi Keuangan",
+   "KUR",
+   "PNM Mekaar"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7149/perkuat-ekosistem-umkm-dan-rantai-nilai-daerah-pemerintah-dorong-transformasi-akses-keuangan-menuju-pekerjaan-layak",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pemerintah-pacu-3-cepa-baru-bidik-ekspor-sawit-otomotif",
+  "category": "Global",
+  "title": "Pemerintah Pacu 3 [CEPA] Baru, Bidik Ekspor Sawit-Otomotif",
+  "deck": "Pemerintah mendorong percepatan implementasi tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Eurasia agar manfaatnya benar-benar terasa pada ekspor sawit, otomotif, kopi, dan sejumlah komoditas lain.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "CEPA",
+   "ekspor",
+   "perdagangan internasional",
+   "Uni Eropa"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7150/bidik-perluasan-pasar-ekspor-menko-airlangga-dorong-percepatan-implementasi-cepa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pasokan-bbm-bali-dikebut-pertamina-buka-suplai-24-jam",
+  "category": "Energi",
+  "title": "Pasokan BBM Bali Dikebut, Pertamina Buka Suplai [24 Jam]",
+  "deck": "Pertamina Patra Niaga mempercepat pemulihan pasokan BBM di Bali lewat skala prioritas SPBU dan suplai nonstop 24 jam, dibantu kapal tanker yang baru merapat membawa Pertalite dan Biosolar.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/pasokan-bbm-bali-dikebut-pertamina-buka-suplai-24-jam.jpg",
+  "imageV": "mv704tpn",
+  "tags": [
+   "pertamina",
+   "bbm",
+   "bali",
+   "spbu"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472845-kebut-pemulihan-pasokan-bbm-di-bali-pertamina-terapkan-suplai-24-jam-dan-skala-prioritas-spbu"
+ },
+ {
+  "slug": "pertamina-trans-kontinental-borong-empat-trofi-maritim-digital",
+  "category": "BUMN",
+  "title": "Pertamina Trans Kontinental [Borong] Empat Trofi Maritim Digital",
+  "deck": "PT Pertamina Trans Kontinental meraih empat penghargaan di Marketeers Editor's Choice Award 2026 untuk layanan maritim, inovasi digital, dan program pesisir.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/pertamina-trans-kontinental-borong-empat-trofi-maritim-digital.jpg",
+  "imageV": "mv704uso",
+  "tags": [
+   "Pertamina",
+   "maritim",
+   "digitalisasi",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472832-perkuat-solusi-digital-dan-pemberdayaan-pesisir-pertamina-trans-kontinental-borong-trofi-marketeers-editors-choice-award-2026"
+ },
+ {
+  "slug": "bpdp-pamerkan-produk-turunan-sawit-di-inacraft-2026",
+  "category": "UMKM",
+  "title": "BPDP Pamerkan Produk Turunan Sawit di [INACRAFT] 2026",
+  "deck": "BPDP dan mitra UMKM binaannya memamerkan produk turunan sawit, kelapa, dan kakao seperti sandal lidi sawit hingga batik di INACRAFT October 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/bpdp-pamerkan-produk-turunan-sawit-di-inacraft-2026.jpg",
+  "imageV": "mv704vkx",
+  "tags": [
+   "bpdp",
+   "inacraft",
+   "umkm",
+   "perkebunan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472826-dari-sandal-lidi-sawit-hingga-batik-produk-turunan-perkebunan-mitra-bpdp-unjuk-gigi-di-inacraft-2026"
+ },
+ {
   "slug": "mine-panggil-rupslb-jaminkan-aset-untuk-pinjaman-sindikasi",
   "category": "Aksi Korporasi",
   "title": "MINE Panggil RUPSLB, [Jaminkan] Aset untuk Pinjaman Sindikasi",
@@ -26,7 +109,7 @@ var ARTICLES = [
   "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
   "deck": "Pemerintah mendorong pemanfaatan nyata tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia yang menurut kajian Kemenko berpotensi menambah ekspor lebih dari US$14 miliar.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "ekspor",
    "perjanjian dagang",
@@ -42,7 +125,7 @@ var ARTICLES = [
   "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
   "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -58,7 +141,7 @@ var ARTICLES = [
   "title": "Jelang Penandatanganan [DEFA], Kemendag Latih Aparatur Dagang",
   "deck": "Kemendag melatih 40 aparatur soal tata kelola perdagangan digital ASEAN menjelang rencana penandatanganan DEFA di KTT ASEAN November 2026.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "DEFA",
    "ASEAN",
@@ -2722,7 +2805,7 @@ var ARTICLES = [
   "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",
   "deck": "Pembangunan kembali Desa Adat Sade di Lombok Tengah pascakebakaran Agustus 2026 terus berjalan, dengan 40 dari 75 rumah adat sudah berdiri dan ekonomi warga mulai bergerak lagi.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "Desa Adat Sade",
    "Lombok Tengah",
@@ -2754,7 +2837,7 @@ var ARTICLES = [
   "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
   "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "tags": [
    "KUR",
    "UMKM",
@@ -5100,7 +5183,7 @@ var ARTICLES = [
   "title": "Indonesia Teken [MoU] Dagang Digital dan AI dengan Tiongkok",
   "deck": "Indonesia tampil sebagai negara kehormatan di Global Digital Trade Expo 2025 Hangzhou dan menjaring sejumlah MoU dagang digital serta kerja sama AI dengan Tiongkok.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "Perdagangan Digital",
    "Kecerdasan Buatan",
@@ -6394,87 +6477,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd98499772_ab3017ebca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-jadi-remitra-paparan-publik-ungkap-bisnis-baja-dan-udang",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Jadi Remitra, Paparan Publik Ungkap Bisnis [Baja] dan Udang",
-  "deck": "MKNT resmi berganti nama jadi Remitra Global International dan menggelar paparan publik 9 Oktober 2026, mengungkap dua bisnis barunya: baja dan tambak udang.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "Public Expose",
-   "Industri Baja",
-   "Budidaya Udang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa6139ca45_1d9df2c93d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "taspen-perkuat-kepemimpinan-lewat-digitalisasi-layanan",
-  "category": "BUMN",
-  "title": "TASPEN Perkuat [Kepemimpinan] Lewat Digitalisasi Layanan",
-  "deck": "TASPEN menggelar forum kepemimpinan tahunan LEAP 2026 di Jakarta untuk mendorong inovasi digital dalam pelayanan bagi pensiunan ASN di seluruh Indonesia.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/taspen-perkuat-kepemimpinan-lewat-digitalisasi-layanan.jpg",
-  "imageV": "muwp8ve5",
-  "tags": [
-   "TASPEN",
-   "LEAP 2026",
-   "BUMN",
-   "Digitalisasi Layanan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471534-semakin-andal-melayani-peserta-taspen-akselerasikan-kemampuan-kepemimpinan-melalui-inovasi-digital"
- },
- {
-  "slug": "dewa-catat-laba-naik-89-tapi-kas-tergerus-separuh",
-  "category": "Aksi Korporasi",
-  "title": "DEWA Catat Laba Naik 89%, tapi [Kas] Tergerus Separuh",
-  "deck": "Laba bersih DEWA naik hampir dua kali lipat jadi Rp354,23 miliar pada semester I 2026, tapi kas menipis 59,5 persen dan utang bank jangka pendek melonjak 158,7 persen jadi Rp2,16 triliun.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWA",
-   "Darma Henwa",
-   "laporan keuangan",
-   "emiten tambang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261006175759-64463-0/FinancialStatement-2026-II-DEWA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-koreksi-jadwal-rights-issue-pembeli-siaga-siap-rp525-m",
-  "category": "Aksi Korporasi",
-  "title": "BUVA Koreksi Jadwal Rights Issue, [Pembeli Siaga] Siap Rp525 M",
-  "deck": "Perseroan mengoreksi jadwal rights issue senilai Rp1,54 triliun dan memastikan empat pembeli siaga menyerap sisa saham hingga Rp525 miliar bila publik tak menyerap haknya.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "rights issue",
-   "HMETD",
-   "pembeli siaga"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba9866aef8_fe0d8d5458.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-gelar-rupslb-12-november-agenda-belum-dibuka",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Gelar RUPSLB [12 November], Agenda Belum Dibuka",
-  "deck": "NexAI Digital Infrastruktur menjadwalkan RUPSLB pada 12 November 2026, dengan daftar pemegang saham penentu 20 Oktober dan pemanggilan resmi berisi agenda terbit 21 Oktober.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "RUPSLB",
-   "Corporate Secretary",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae178c6ed1_7f2448688f.pdf",
   "sourceLabel": "IDX"
  }
 ];

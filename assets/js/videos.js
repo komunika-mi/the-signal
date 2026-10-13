@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "ffV2eUnzO2E",
+  "title": "Kadin Genjot Pertumbuhan Investasi dan Perdagangan",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kadin menggelar audiensi dengan Duta Besar RI untuk Belgia, Luksemburg, dan Uni Eropa guna membahas perjanjian dagang serta mendorong investasi dan perdagangan.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan hubungan dagang Indonesia dengan Uni Eropa.",
+  "terbit": "2026-10-13T16:18:49+00:00"
+ },
+ {
+  "id": "oTFWS1yAf6I",
+  "title": "Kadin dan Kementerian LH Dorong Investasi Hilirisasi",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Kadin Indonesia bersama Kementerian Lingkungan Hidup menggelar rapat koordinasi nasional di bidang investasi, energi, dan lingkungan hidup untuk mendorong hilirisasi.",
+  "takeaway": "Penting bagi pembaca yang mencermati arah kebijakan investasi dan hilirisasi industri nasional.",
+  "terbit": "2026-10-13T15:52:30+00:00"
+ },
+ {
   "id": "pQ-8TkROZNQ",
   "title": "Menko AHY Hadiri Digital Infrastructure Summit",
   "category": "Teknologi",

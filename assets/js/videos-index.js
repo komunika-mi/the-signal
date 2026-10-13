@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "ffV2eUnzO2E",
+  "title": "Kadin Genjot Pertumbuhan Investasi dan Perdagangan",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kadin menggelar audiensi dengan Duta Besar RI untuk Belgia, Luksemburg, dan Uni Eropa guna membahas perjanjian dagang serta mendorong investasi dan perdagangan.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan hubungan dagang Indonesia dengan Uni Eropa."
+ },
+ {
+  "id": "oTFWS1yAf6I",
+  "title": "Kadin dan Kementerian LH Dorong Investasi Hilirisasi",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Kadin Indonesia bersama Kementerian Lingkungan Hidup menggelar rapat koordinasi nasional di bidang investasi, energi, dan lingkungan hidup untuk mendorong hilirisasi.",
+  "takeaway": "Penting bagi pembaca yang mencermati arah kebijakan investasi dan hilirisasi industri nasional."
+ },
+ {
   "id": "pQ-8TkROZNQ",
   "title": "Menko AHY Hadiri Digital Infrastructure Summit",
   "category": "Teknologi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Penyelenggaraan FEKDI x IFSE 2026 di Jakarta mencatat QRIS telah menjangkau 69,32 juta pengguna, hasil kolaborasi Bank Indonesia, OJK, dan pemerintah memperluas ekonomi digital.",
   "takeaway": "Angka ini jadi penanda sejauh mana inklusi pembayaran digital berkembang di masyarakat."
- },
- {
-  "id": "T6aC5SWvHaQ",
-  "title": "Ratusan Hotel Bali Dijual, Sinyal Pariwisata Lesu",
-  "category": "Bisnis",
-  "program": "IBF",
-  "summary": "Ratusan hotel dan vila di Bali ditawarkan di situs jual beli properti, seiring okupansi yang rendah dan iklim bisnis pariwisata yang belum pulih seperti biasanya.",
-  "takeaway": "Tren ini penting bagi pelaku usaha sebagai sinyal tantangan pemulihan sektor pariwisata Bali."
- },
- {
-  "id": "9uT9X61_j8Y",
-  "title": "Pemerintah Dorong Pariwisata Berbasis Lingkungan",
-  "category": "Bisnis",
-  "program": "Kabar Pagi",
-  "summary": "Pemerintah mendorong pengembangan ekowisata sebagai kegiatan ekonomi yang tetap menjaga kelestarian alam, dengan melibatkan dunia usaha dan masyarakat setempat.",
-  "takeaway": "Arah kebijakan ini relevan bagi pelaku usaha yang ingin memadukan nilai ekonomi dengan keberlanjutan lingkungan."
  }
 ];

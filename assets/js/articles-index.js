@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kspean-wanam-irigasi-133-km-panen-padi-november",
+  "category": "Makroekonomi",
+  "title": "KSPEAN Wanam: Irigasi 133 Km, [Panen] Padi November",
+  "deck": "Menteri PU Dody Hanggodo memastikan irigasi KSPEAN Wanam di Merauke, Papua Selatan, sudah 133 dari target 180 kilometer, menjelang panen padi awal November 2026.",
+  "date": "13 Oktober 2026",
+  "image": "assets/img/kspean-wanam-irigasi-133-km-panen-padi-november.jpg",
+  "imageV": "mv6720rn",
+  "tags": [
+   "KSPEAN",
+   "Papua Selatan",
+   "Kementerian PU",
+   "Swasembada Pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472675-menteri-dody-tinjau-kspean-wanam-pastikan-panen-perdana-dukung-visi-presiden-prabowo"
+ },
+ {
   "slug": "daaz-catatkan-sukuk-wakalah-rp378-miliar-di-bei",
   "category": "Aksi Korporasi",
   "title": "DAAZ Catatkan [Sukuk Wakalah] Rp378 Miliar di BEI",
@@ -6453,22 +6470,6 @@ var ARTICLES = [
    "asuransi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c903037d9c_64bd0eb878.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kjen-jawab-bei-tak-ada-informasi-material-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "KJEN Jawab BEI: Tak Ada Informasi Material soal [Volatilitas] Saham",
-  "deck": "Merespons surat Bursa Efek Indonesia soal lonjakan transaksi, KJEN menyatakan tidak ada informasi material yang belum diungkap maupun rencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "5 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KJEN",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7109b50837_8691ad4ed6.pdf",
   "sourceLabel": "IDX"
  }
 ];

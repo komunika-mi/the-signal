@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kspean-wanam-irigasi-133-km-panen-padi-november",
+  "category": "Makroekonomi",
+  "title": "KSPEAN Wanam: Irigasi 133 Km, [Panen] Padi November",
+  "deck": "Menteri PU Dody Hanggodo memastikan irigasi KSPEAN Wanam di Merauke, Papua Selatan, sudah 133 dari target 180 kilometer, menjelang panen padi awal November 2026.",
+  "image": "assets/img/kspean-wanam-irigasi-133-km-panen-padi-november.jpg",
+  "date": "13 Oktober 2026",
+  "isoDate": "2026-10-13T10:22:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472675-menteri-dody-tinjau-kspean-wanam-pastikan-panen-perdana-dukung-visi-presiden-prabowo",
+  "tags": [
+   "KSPEAN",
+   "Papua Selatan",
+   "Kementerian PU",
+   "Swasembada Pangan"
+  ],
+  "body": [
+   "Menteri Pekerjaan Umum Dody Hanggodo meninjau langsung Kawasan Sentra Swasembada Pangan, Energi, dan Air Nasional (KSPEAN) di Wanam, Kabupaten Merauke, Papua Selatan, pada Kamis (8/10/2026). Kunjungan ini untuk memastikan kesiapan infrastruktur air bagi lahan pertanian yang akan memasuki musim panen pertama. KSPEAN sendiri merupakan program pemerintah untuk membangun kawasan terpadu penghasil pangan, energi, dan air di Papua Selatan, sejalan dengan target ketahanan pangan nasional yang menjadi salah satu program andalan pemerintahan Presiden Prabowo Subianto.",
+   "Dody mengatakan hamparan tanaman padi di lokasi tersebut masih terlihat menghijau meski sedang musim kemarau, berkat aliran air yang tetap terjaga. Menurutnya, ketersediaan air tawar adalah kunci keberhasilan pertanian di Wanam, sehingga Kementerian PU membangun jaringan irigasi rawa, saluran primer dan sekunder, serta infrastruktur pengendalian banjir untuk menjamin pasokan air sepanjang tahun. “Di saat musim kemarau ternyata di sini air mengalir. Kita harus memastikan air tawar ini tersedia dalam kondisi apa pun,” ujar Dody.",
+   "Secara teknis, Dody menjelaskan bahwa peran Kementerian PU terbatas pada penyediaan air, sementara pengembangan lahan menjadi tugas sektor pertanian. Hingga 1 Oktober 2026, penanaman padi tahap pertama sudah dilakukan di lahan percontohan seluas sekitar 40 hektare di area KM 21, dengan rencana panen pada awal atau pertengahan November 2026.",
+   "Secara keseluruhan, target pembangunan jaringan saluran di KSPEAN Merauke mencapai 180 kilometer, dan hingga 1 Oktober 2026 sudah terealisasi 133 kilometer. Jaringan ini meliputi irigasi rawa dan saluran pengendalian banjir yang disiapkan secara bertahap dan terintegrasi dengan infrastruktur pendukung lainnya di kawasan tersebut."
+  ],
+  "fotoAdegan": "Wide irrigation canal crossing green rice paddies under a dry season sky, workers checking water flow near a sluice gate in rural Papua.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/13/6acda2b8f3e56-menteri-dody-tinjau-kspean-wanam-pastikan-panen-perdana-dukung-visi-presiden-prabowo_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret di sini adalah progres fisiknya, bukan sekadar kunjungan seremonial: saluran irigasi sudah mencapai 133 dari target 180 kilometer, dan lahan percontohan 40 hektare di KM 21 sudah ditanami sejak awal Oktober. Yang langsung terdampak adalah petani dan warga di kawasan Wanam, Merauke, Papua Selatan, yang menjadi lokasi uji coba program pangan, energi, dan air nasional ini. Dengan separuh lebih saluran sudah jadi dan tanam perdana sudah berjalan, arah program ini bergerak dari tahap membangun infrastruktur ke tahap membuktikan hasil tanam di lapangan. Penanda yang akan memastikan apakah tahap ini berjalan sesuai rencana adalah panen perdana yang dijadwalkan awal atau pertengahan November 2026, serta kelanjutan pembangunan 47 kilometer saluran yang masih tersisa.",
+  "imageV": "mv6720rn"
+ },
+ {
   "slug": "daaz-catatkan-sukuk-wakalah-rp378-miliar-di-bei",
   "category": "Aksi Korporasi",
   "title": "DAAZ Catatkan [Sukuk Wakalah] Rp378 Miliar di BEI",

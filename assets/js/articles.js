@@ -235,7 +235,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah sejauh ini masih berupa proyek percontohan di tiga kota, Yogyakarta, Bandung, dan Medan, berupa pelatihan keuangan, pemasaran digital, dan pendaftaran jaminan sosial bagi pekerja mandiri perempuan di sektor informal. Pihak yang langsung terdampak adalah peserta pelatihan di tiga lokasi itu, pemerintah daerah mitra, dan BPJS Ketenagakerjaan sebagai pengelola jaminan sosialnya. Siaran pers ini belum menyebut berapa banyak pekerja yang akan ikut, berapa besar anggarannya, atau target jumlah usaha yang harus naik kelas jadi resmi, sehingga belum bisa dipastikan apakah ini akan berkembang jadi program nasional atau berhenti sebagai proyek percontohan kecil. Yang akan menjawabnya adalah hasil evaluasi tiga pilot project ini, yang menurut Kemenko Perekonomian akan jadi dasar keputusan perluasan ke daerah lain pada 2027.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "kemenko-dan-bps-sepakat-rumuskan-kebijakan-berbasis-data",
@@ -263,7 +264,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini adalah rencana Kemenko Perekonomian memakai data BPS secara rutin setiap kuartal untuk menyusun kebijakan, dengan perhatian khusus pada daerah berbasis industri pengolahan yang tumbuh di atas rata-rata nasional. Pihak yang perlu mencermati ini adalah pelaku usaha di kawasan industri dan daerah manufaktur, karena mereka disebut berpotensi jadi fokus kebijakan berikutnya. Penjelasan soal inflasi yang didorong faktor pasokan, bukan permintaan, juga mengarah pada kemungkinan kebijakan pengendalian harga lewat perbaikan rantai suplai ketimbang instrumen suku bunga. Arah ini akan lebih jelas setelah BPS merilis data pertumbuhan ekonomi kuartal III 2026, dan ketika rencana BPS berkeliling ke kementerian atau lembaga lain untuk berbagi data benar-benar terlaksana.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "harga-minyak-indonesia-melonjak-ke-us-112-81-per-barel",

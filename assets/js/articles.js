@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wsbp-catat-rugi-rp410-8-miliar-ekuitas-negatif-rp2-37-triliun",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Catat Rugi Rp410,8 Miliar, [Ekuitas] Negatif Rp2,37 Triliun",
+  "deck": "Laporan keuangan kuartal III 2026 WSBP menunjukkan rugi bersih melebar 26,7 persen menjadi Rp410,8 miliar, sementara defisiensi ekuitas membengkak menjadi Rp2,37 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T22:25:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261014223606-64531-0/FinancialStatement-2026-III-WSBP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "konstruksi"
+  ],
+  "body": [
+   "PT Waskita Beton Precast Tbk (WSBP) menyampaikan laporan keuangan interim tidak diaudit untuk sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan pada 14 Oktober 2026. Perusahaan mencatat rugi bersih Rp410,77 miliar, melebar dari Rp324,22 miliar pada periode yang sama tahun 2025. Pendapatan usaha turun menjadi Rp1,08 triliun dari Rp1,17 triliun, sementara laba kotor merosot dari Rp201,49 miliar menjadi Rp129,83 miliar. Rugi per saham dasar ikut melebar dari Rp6,63 menjadi Rp8,12.",
+   "Defisiensi ekuitas, yaitu kondisi ketika total utang perusahaan sudah melampaui total asetnya, membesar dari Rp1,97 triliun per akhir Desember 2025 menjadi Rp2,37 triliun per akhir September 2026. Ini terjadi karena total liabilitas naik dari Rp5,02 triliun menjadi Rp5,25 triliun, sementara total aset justru menyusut dari Rp3,06 triliun menjadi Rp2,88 triliun. Kas dan setara kas ambles lebih dari separuh, dari Rp61,56 miliar menjadi Rp28,15 miliar. Arus kas dari aktivitas operasi masih negatif Rp33,68 miliar, meski membaik dibanding negatif Rp161,75 miliar pada periode yang sama tahun lalu.",
+   "Beban keuangan atau bunga pinjaman naik dari Rp215,95 miliar menjadi Rp234,23 miliar. Saldo obligasi wajib konversi turut bertambah dari Rp807,70 miliar menjadi Rp874,33 miliar, dan utang bank jangka panjang kepada pihak berelasi naik dari Rp1,01 triliun menjadi Rp1,06 triliun. Selama periode berjalan, perusahaan menerbitkan saham baru senilai Rp9,08 miliar dari konversi utang usaha menjadi ekuitas, bagian dari implementasi perjanjian perdamaian restrukturisasi utang, sehingga jumlah saham beredar bertambah dari 56.780.478.486 menjadi 56.959.163.746 lembar."
+  ],
+  "fotoAdegan": "Stacks of precast concrete beams and pillars in an open factory yard, overhead crane moving a load, overcast industrial skyline",
+  "takeaway": "Laporan ini condong negatif bagi WSBP, karena rugi bersih melebar dan defisiensi ekuitas kian dalam meski program konversi utang menjadi saham terus berjalan. Defisiensi ekuitas berarti total utang perusahaan sudah melampaui total asetnya, dalam hal ini sekitar Rp2,37 triliun lebih besar utang dibanding aset, sehingga secara akuntansi tidak ada lagi kekayaan bersih yang tersisa untuk pemegang saham. Kas perusahaan menyusut lebih dari separuh menjadi Rp28,15 miliar, menandakan ruang gerak keuangan yang makin sempit, walau arus kas dari operasi membaik dibanding tahun lalu. Beban bunga pinjaman juga naik, menambah tekanan pada laba karena WSBP masih menanggung utang bank dan obligasi wajib konversi dalam jumlah besar. Yang perlu dipantau berikutnya adalah kelanjutan realisasi konversi utang usaha menjadi saham sesuai perjanjian perdamaian, serta RUPSLB kedua soal konversi utang menjadi ekuitas yang sudah dijadwalkan ulang perusahaan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ekspor-nikel-ditargetkan-usd45-miliar-pada-2026",
   "category": "Industri",
   "title": "Ekspor Nikel Ditargetkan [USD45 Miliar] pada 2026",

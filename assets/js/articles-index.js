@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wsbp-catat-rugi-rp410-8-miliar-ekuitas-negatif-rp2-37-triliun",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Catat Rugi Rp410,8 Miliar, [Ekuitas] Negatif Rp2,37 Triliun",
+  "deck": "Laporan keuangan kuartal III 2026 WSBP menunjukkan rugi bersih melebar 26,7 persen menjadi Rp410,8 miliar, sementara defisiensi ekuitas membengkak menjadi Rp2,37 triliun.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261014223606-64531-0/FinancialStatement-2026-III-WSBP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-nikel-ditargetkan-usd45-miliar-pada-2026",
   "category": "Industri",
   "title": "Ekspor Nikel Ditargetkan [USD45 Miliar] pada 2026",
@@ -6472,22 +6488,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e17e784f19_cfa3b6cfd2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direktur-jual-saham-tipis-hak-suara-tak-berubah",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direktur Jual Saham Tipis, [Hak Suara] Tak Berubah",
-  "deck": "Direktur CYBR, Doni Mora, menjual 11.500 lembar saham ITSEC Asia pada 6 Oktober 2026, setara 0,27 persen dari kepemilikannya; hak suaranya tetap 0,032 persen.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "transaksi direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-9536-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

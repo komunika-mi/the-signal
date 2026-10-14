@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wamenko-daya-beli-bergeser-bukan-melemah",
+  "category": "Makroekonomi",
+  "title": "Wamenko: Daya Beli [Bergeser], Bukan Melemah",
+  "deck": "Wamenko Perekonomian menyebut data BPS menunjukkan pergeseran konsumsi ke pariwisata dan layanan daring, bukan pelemahan daya beli secara menyeluruh.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "Kemenko Perekonomian",
+   "Daya Beli",
+   "Danantara",
+   "Debottlenecking"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7152/wamenko-perekonomian-dorong-percepatan-penanganan-hambatan-usaha-perkuat-pertumbuhan-ekonomi-domestik",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "wamendag-temui-menteri-finlandia-dorong-ratifikasi-cepa",
+  "category": "Global",
+  "title": "Wamendag Temui Menteri Finlandia, Dorong Ratifikasi [CEPA]",
+  "deck": "Wamendag Dyah Roro Esti dan Menteri Dagang Luar Negeri Finlandia Ville Tavio bahas penguatan ekosistem startup serta dorongan ratifikasi I-EU CEPA dan aksesi OECD Indonesia.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/wamendag-temui-menteri-finlandia-dorong-ratifikasi-cepa.jpg",
+  "imageV": "mv7nm256",
+  "tags": [
+   "Indonesia-Finlandia",
+   "I-EU CEPA",
+   "OECD",
+   "Trade Expo Indonesia"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dan-finlandia-perkuat-ekosistem-inovasi-dan-perusahaan-rintisan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bni-bukukan-penjualan-agunan-rp510-77-miliar",
+  "category": "Perbankan",
+  "title": "BNI Bukukan Penjualan Agunan [Rp510,77] Miliar",
+  "deck": "Program Gelegar Lelang BNI 2026 mencatat penjualan agunan Rp510,77 miliar dari 1.603 lelang di 49 KPKNL selama tiga bulan program berjalan.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/bni-bukukan-penjualan-agunan-rp510-77-miliar.jpg",
+  "imageV": "mv7nm2jg",
+  "tags": [
+   "BNI",
+   "lelang agunan",
+   "Danantara",
+   "kredit macet"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472883-gelegar-lelang-bni-2026-bukukan-penjualan-agunan-rp51077-miliar"
+ },
+ {
   "slug": "bulog-pecahkan-rekor-pengadaan-beras-tembus-4-1-juta-ton",
   "category": "BUMN",
   "title": "BULOG [Pecahkan] Rekor Pengadaan Beras, Tembus 4,1 Juta Ton",
@@ -1793,7 +1844,7 @@ var ARTICLES = [
   "title": "Kemenko dan BPS Sepakat Rumuskan Kebijakan Berbasis [Data]",
   "deck": "Kemenko Perekonomian dan BPS membahas data pertumbuhan ekonomi, inflasi, dan surplus dagang semester I 2026 sebagai dasar perumusan kebijakan ke depan.",
   "date": "12 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "BPS",
    "Kemenko Perekonomian",
@@ -1956,7 +2007,7 @@ var ARTICLES = [
   "title": "Investasi Hilirisasi RI Capai [Rp300,1] Triliun di Semester I",
   "deck": "Pemerintah memaparkan capaian investasi hilirisasi dan penyelesaian aduan pelaku usaha dalam pembukaan Rakernas HIPPI, sembari mendorong perluasan akses ekspor lewat kerja sama dagang dengan Uni Eropa, Kanada, dan AS.",
   "date": "12 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "hilirisasi",
    "investasi",
@@ -4247,7 +4298,7 @@ var ARTICLES = [
   "title": "Airlangga: Talenta [Digital] Kunci Ekonomi RI ke Depan",
   "deck": "Menko Airlangga menyebut penguasaan teknologi digital dan hilirisasi industri jadi mesin pertumbuhan baru, di tengah ekonomi RI yang tumbuh 5,45 persen pada semester I 2026.",
   "date": "9 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "Airlangga Hartarto",
    "hilirisasi",
@@ -4818,7 +4869,7 @@ var ARTICLES = [
   "title": "Pemerintah Tetapkan Target Pertumbuhan [6%] untuk 2027",
   "deck": "Pemerintah menyasar pertumbuhan ekonomi 6 persen pada 2027, dengan syarat investasi tumbuh lebih cepat dari ekonomi, sebagai tahapan menuju target 8 persen jangka menengah.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "pertumbuhan ekonomi",
    "investasi",
@@ -6434,53 +6485,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/471602-pegadaian-luncurkan-program-gadai-bebas-sewa-modal-khusus-nasabah-baru-bantu-masyarakat-akses-dana-cepat-tanpa-bunga"
- },
- {
-  "slug": "ptpp-raih-kontrak-baru-rp9-3-triliun-hingga-agustus-2026",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Raih [Kontrak] Baru Rp9,3 Triliun hingga Agustus 2026",
-  "deck": "PTPP membukukan kontrak baru Rp9,3 triliun hingga Agustus 2026, didominasi proyek pemerintah, sementara sahamnya masih disuspensi akibat gagal bayar bunga obligasi.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "kontrak baru",
-   "konstruksi",
-   "BUMN Karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cbc3fe076e_d4193006f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pidl-tawarkan-obligasi-rp2-5-triliun-dan-sukuk-rp1-triliun",
-  "category": "Aksi Korporasi",
-  "title": "PIDL Tawarkan [Obligasi] Rp2,5 Triliun dan Sukuk Rp1 Triliun",
-  "deck": "PIDL menawarkan obligasi hingga Rp2,5 triliun dan sukuk mudharabah hingga Rp1 triliun tahap II, dengan porsi terjamin penuh Rp1,93 triliun dan bunga tetap 10-10,5 persen per tahun.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIDL",
-   "obligasi",
-   "sukuk mudharabah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0c48a53e17_5de3446c85.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "edge-tambah-fasilitas-kredit-rp1-7-triliun-dari-bca",
-  "category": "Aksi Korporasi",
-  "title": "EDGE Tambah [Fasilitas Kredit] Rp1,7 Triliun dari BCA",
-  "deck": "Indointernet dan anak usahanya, Ekagrata Data Gemilang, menambah fasilitas kredit Rp1,7 triliun dari BCA, setara 93,7 persen ekuitas, untuk ekspansi pusat data dan kabel fiber optik.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "Indointernet",
-   "kredit perbankan",
-   "pusat data"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa4af635b3_7da44c9e62.pdf",
-  "sourceLabel": "IDX"
  }
 ];

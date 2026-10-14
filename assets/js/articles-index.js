@@ -5,6 +5,58 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-beri-penghargaan-ke-10-umkm-pangan-buka-akses-ritel",
+  "category": "UMKM",
+  "title": "Kemendag Beri [Penghargaan] ke 10 UMKM Pangan, Buka Akses Ritel",
+  "deck": "Kemendag menyerahkan UKM Pangan Award 2026 kepada 10 UMKM pangan terbaik dari 917 pendaftar, membuka akses ke ritel modern lewat kerja sama dengan APRINDO.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/kemendag-beri-penghargaan-ke-10-umkm-pangan-buka-akses-ritel.jpg",
+  "imageV": "mv8dc90j",
+  "tags": [
+   "UMKM",
+   "UKM Pangan Award",
+   "Kemendag",
+   "Ritel Modern"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dukung-inovasi-dan-perluas-akses-pasar-produk-pangan-mendag-busan-serahkan-ukm-pangan-award-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ekspor-nikel-ke-usd40-miliar-bahlil-bidik-usd45-miliar-2026",
+  "category": "Industri",
+  "title": "Ekspor Nikel ke USD40 Miliar, Bahlil Bidik [USD45 Miliar] 2026",
+  "deck": "Pemerintah menargetkan ekspor nikel tembus USD45 miliar pada 2026, melanjutkan lonjakan dari USD3,3 miliar pada 2017-2018 lewat hilirisasi.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/ekspor-nikel-ke-usd40-miliar-bahlil-bidik-usd45-miliar-2026.jpg",
+  "imageV": "mv8dc9fa",
+  "tags": [
+   "nikel",
+   "hilirisasi",
+   "ekspor",
+   "bahlil"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473053-ekspor-nikel-melonjak-dari-usd33-miliar-jadi-usd40-miliar-menko-bahlil-bidik-usd45-miliar-pada-2026"
+ },
+ {
+  "slug": "brin-soroti-syarat-tata-kelola-pltn-sebelum-dibangun",
+  "category": "Energi",
+  "title": "BRIN Soroti Syarat Tata Kelola PLTN [Sebelum] Dibangun",
+  "deck": "Peneliti BRIN menilai nuklir bisa jadi pasokan listrik dasar yang stabil dan rendah emisi, tapi pemerintah dinilai perlu membereskan tata kelola, keselamatan, dan pembiayaan lebih dulu.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/brin-soroti-syarat-tata-kelola-pltn-sebelum-dibangun.jpg",
+  "imageV": "mv8dc9ua",
+  "tags": [
+   "PLTN",
+   "nuklir",
+   "BRIN",
+   "energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473048-kajian-brin-dan-den-pemanfaatan-energi-nuklir-tuntut-kesiapan-tata-kelola-dan-ekosistem-nasional"
+ },
+ {
   "slug": "wsbp-catat-rugi-rp410-8-miliar-ekuitas-negatif-rp2-37-triliun",
   "category": "Aksi Korporasi",
   "title": "WSBP Catat Rugi Rp410,8 Miliar, [Ekuitas] Negatif Rp2,37 Triliun",
@@ -19,6 +71,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261014223606-64531-0/FinancialStatement-2026-III-WSBP.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "astra-ajak-30-umkm-tembus-ekspor-di-tei-2026",
+  "category": "UMKM",
+  "title": "Astra Ajak 30 UMKM Tembus Ekspor di [TEI] 2026",
+  "deck": "Astra membawa produk UMKM binaan Desa Sejahtera Astra dan YDBA ke Trade Expo Indonesia 2026 sebagai bagian dari upaya memperluas akses pasar ekspor.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/astra-ajak-30-umkm-tembus-ekspor-di-tei-2026.jpg",
+  "imageV": "mv8dca94",
+  "tags": [
+   "Astra",
+   "UMKM",
+   "Trade Expo Indonesia 2026",
+   "Desa Sejahtera Astra"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473037-astra-dorong-ekspor-umkm-lokal-lewat-trade-expo-indonesia-2026-hadirkan-produk-unggulan-daerah"
  },
  {
   "slug": "ekspor-nikel-ditargetkan-usd45-miliar-pada-2026",
@@ -6424,70 +6493,6 @@ var ARTICLES = [
    "infrastruktur"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/362e19674f_94b226ba19.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-sesuaikan-syarat-dua-waran-amrt-usai-dividen-interim",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan [Syarat] Dua Waran AMRT Usai Dividen Interim",
-  "deck": "Maybank Sekuritas mengubah harga pelaksanaan dan rasio konversi waran AMRTZPCZ6A dan AMRTZPCK7A menyusul dividen interim AMRT Rp14,5 per saham, efektif 14 Oktober 2026.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "AMRT",
-   "waran terstruktur",
-   "dividen interim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/02c2ec40e5_86c84729e1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbyb-jadwalkan-rupslb-perubahan-pengurus-29-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BBYB Jadwalkan RUPSLB [Perubahan Pengurus] 29 Oktober",
-  "deck": "Bank Neo Commerce memanggil RUPSLB pada 29 Oktober 2026 dengan agenda tunggal mengubah susunan pengurus, menyusul pengunduran diri Dirut Eri Budiono awal Oktober.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBYB",
-   "RUPSLB",
-   "Bank Neo Commerce",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf945896ce_4f5ba8721c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iiff-tuntas-salurkan-dana-obligasi-perpetual-rp215-2-miliar",
-  "category": "Aksi Korporasi",
-  "title": "IIFF Tuntas Salurkan Dana [Obligasi Perpetual] Rp215,2 Miliar",
-  "deck": "IIFF melaporkan ke BEI bahwa seluruh dana bersih Rp215,25 miliar dari penerbitan surat berharga perpetual tahap I 2026 telah disalurkan untuk membiayai proyek infrastruktur telekomunikasi.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IIFF",
-   "surat berharga perpetual",
-   "penggunaan dana",
-   "infrastruktur telekomunikasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6cf1602510_0d14788ba4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "plin-bagikan-dividen-interim-rp76-per-saham-cair-27-oktober",
-  "category": "Aksi Korporasi",
-  "title": "PLIN Bagikan [Dividen] Interim Rp76 per Saham, Cair 27 Oktober",
-  "deck": "Plaza Indonesia Realty membagikan dividen tunai interim Rp268,7 miliar atau Rp76 per saham, dengan pembayaran dijadwalkan 27 Oktober 2026 setelah recording date 19 Oktober 2026.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PLIN",
-   "dividen",
-   "Plaza Indonesia Realty",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e17e784f19_cfa3b6cfd2.pdf",
   "sourceLabel": "IDX"
  }
 ];

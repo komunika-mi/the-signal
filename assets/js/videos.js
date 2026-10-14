@@ -2,6 +2,60 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "-rvld-zq6dc",
+  "title": "Said Iqbal dan Apindo Beda Pandangan soal Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Perwakilan buruh dan pengusaha berbeda pandangan membahas UU Pelindungan Ketenagakerjaan yang disahkan DPR pada 6 Oktober 2026 sebagai tindak lanjut putusan Mahkamah Konstitusi.",
+  "takeaway": "Penting diikuti karena aturan ini akan memengaruhi hubungan industrial dan iklim investasi ke depan.",
+  "terbit": "2026-10-14T16:13:40+00:00"
+ },
+ {
+  "id": "mZ9-qSkrIBM",
+  "title": "Aturan Ketenagakerjaan Baru, Siapa yang Diuntungkan?",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi membahas dampak UU Pelindungan Ketenagakerjaan, yang disahkan pada 6 Oktober 2026, terhadap posisi pekerja dan pengusaha.",
+  "takeaway": "Relevan bagi pelaku usaha dan pekerja yang ingin memahami pihak yang paling terdampak dari regulasi baru ini.",
+  "terbit": "2026-10-14T15:56:40+00:00"
+ },
+ {
+  "id": "0HHP33w-nVI",
+  "title": "Agus Pambagio Ingatkan Pengawasan Dana Cadangan Pesangon",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Pengamat kebijakan publik Agus Pambagio menyoroti pentingnya pengawasan ketat atas dana cadangan pesangon dalam UU Pelindungan Ketenagakerjaan.",
+  "takeaway": "Menyangkut kepastian hak pesangon pekerja sekaligus tata kelola dana perusahaan ke depan.",
+  "terbit": "2026-10-14T15:14:22+00:00"
+ },
+ {
+  "id": "4WxmMM8CPEM",
+  "title": "Usul Jam Kerja 45 Jam, Apindo Soroti Produktivitas SDM",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Apindo menilai produktivitas tenaga kerja Indonesia masih rendah, di tengah usulan perpanjangan jam kerja menjadi 45 jam per minggu.",
+  "takeaway": "Menyentuh isu daya saing tenaga kerja nasional yang berkaitan langsung dengan kebijakan jam kerja.",
+  "terbit": "2026-10-14T15:07:06+00:00"
+ },
+ {
+  "id": "E1axrH4bYzw",
+  "title": "Said Iqbal: Jangan Pecat Karyawan Seenaknya",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Presiden Partai Buruh Said Iqbal menegaskan perusahaan tidak boleh sembarangan memberhentikan karyawan, di tengah pembahasan UU Pelindungan Ketenagakerjaan.",
+  "takeaway": "Relevan karena menyangkut perlindungan hak pekerja dalam aturan ketenagakerjaan yang baru disahkan.",
+  "terbit": "2026-10-14T14:50:38+00:00"
+ },
+ {
+  "id": "BTryjI2wvuk",
+  "title": "Mengungkap Masalah di Anak Perusahaan BUMN",
+  "category": "BUMN",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi mengangkat sejumlah persoalan yang membebani kinerja anak perusahaan BUMN, di tengah pembahasan regulasi ketenagakerjaan terbaru.",
+  "takeaway": "Penting bagi pembaca yang mengikuti tata kelola dan kesehatan bisnis perusahaan pelat merah.",
+  "terbit": "2026-10-14T14:46:45+00:00"
+ },
+ {
   "id": "HbFCHOpwbNM",
   "title": "DJP Kembangkan Sistem AI untuk Pantau Harta Wajib Pajak Kaya",
   "category": "Makroekonomi",

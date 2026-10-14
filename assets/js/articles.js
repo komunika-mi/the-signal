@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemendag-beri-penghargaan-ke-10-umkm-pangan-buka-akses-ritel",
+  "category": "UMKM",
+  "title": "Kemendag Beri [Penghargaan] ke 10 UMKM Pangan, Buka Akses Ritel",
+  "deck": "Kemendag menyerahkan UKM Pangan Award 2026 kepada 10 UMKM pangan terbaik dari 917 pendaftar, membuka akses ke ritel modern lewat kerja sama dengan APRINDO.",
+  "image": "assets/img/kemendag-beri-penghargaan-ke-10-umkm-pangan-buka-akses-ritel.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-14T17:09:25.789Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dukung-inovasi-dan-perluas-akses-pasar-produk-pangan-mendag-busan-serahkan-ukm-pangan-award-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "UKM Pangan Award",
+   "Kemendag",
+   "Ritel Modern"
+  ],
+  "body": [
+   "Kementerian Perdagangan menyerahkan UKM Pangan Award 2026 kepada 10 pelaku usaha mikro, kecil, dan menengah bidang pangan terbaik dari seluruh Indonesia. Penyerahan dilakukan Menteri Perdagangan Budi Santoso dalam pembukaan Pangan Nusa Expo 2026 di ICE BSD City, Kabupaten Tangerang, Rabu (14/10). Penghargaan ini penting karena bukan sekadar simbolis, pemenangnya mendapat jalan masuk ke rak ritel modern lewat kerja sama Kemendag dengan Asosiasi Pengusaha Ritel Indonesia (APRINDO).",
+   "Ajang ini diikuti 917 pelaku UMKM dari 33 provinsi yang mendaftar secara daring pada 12-26 September 2026. Dari jumlah itu, 318 produk lolos verifikasi dokumen seperti izin edar, sertifikat halal, dan sertifikat keamanan pangan HACCP, sebelum disaring lagi berdasarkan jangkauan pemasaran, mutu, dan kapasitas keuangan hingga tersisa 40 produk dari 35 UMKM finalis. Tiga juri di bidang desain kemasan, kuliner, dan pemerhati pangan lalu memilih 10 pemenang dalam lima kategori, dengan nilai tertinggi 91,4 diraih Fisnack Keripik Kulit Ikan Patin asal Bogor, Jawa Barat.",
+   "Para pemenang berasal dari tujuh provinsi, yakni Jawa Timur, Jawa Barat, Banten, DI Yogyakarta, DKI Jakarta, Sumatra Utara, dan Papua, dengan produk yang beragam mulai dari kombucha jeruk lemon asal Jayapura, sambal baby cumi andaliman dari Medan, mi instan berbahan sagu bebas gluten dari Jakarta Utara, hingga kukis granola berbahan tepung pisang dari Sleman. Kemendag memfasilitasi para pemenang tampil sebagai peserta pameran di Pangan Nusa Expo 2026 pada 14-18 Oktober, yang digelar berbarengan dengan Trade Expo Indonesia ke-41 agar bertemu peritel modern dan pembeli dari luar negeri. Contoh pemenang periode sebelumnya yang kini masuk ritel adalah Alexa Kukies di Ranch Market serta Sambal Mamani di Superindo, Hero, dan Alfamidi.",
+   "Program tahunan ini didukung oleh Bank Rakyat Indonesia, Danone Indonesia, Zeppelin, dan Himpunan Peritel dan Penyewa Pusat Perbelanjaan Indonesia (HIPPINDO), yang turut memberikan dana pembinaan dan sarana produksi bagi pemenang. Salah satu pemenang, Dian Lestari, pemilik CV Gemilang Pratama produsen Kombucha RUMA dari Jayapura, mengaku bangga karena produk skala lokalnya bisa diakui di tingkat nasional. \"Produk kami yang skala lokal bisa dihargai hingga ke tingkat nasional,\" ujar Dian."
+  ],
+  "fotoAdegan": "Jars of sambal and packets of dried snacks displayed on a trade expo booth table, hall lighting, labels blurred in soft focus.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/5h4XsAqv9Zr2oXLbGJ4IHXKfhTmnxX9IUOqmWMP7.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah bukan sekadar pemberian piagam, melainkan jalur konkret ke rak toko: Kemendag menggandeng APRINDO supaya produk pemenang bisa dijual di ritel modern, dan pola ini sudah terbukti jalan pada pemenang tahun sebelumnya, Alexa Kukies kini ada di Ranch Market, Sambal Mamani masuk ke Superindo, Hero, dan Alfamidi. Yang terdampak adalah pelaku UMKM pangan skala kecil di luar Jawa, misalnya produsen kombucha di Jayapura dan sambal di Medan, yang biasanya sulit menembus toko besar karena keterbatasan modal dan jaringan distribusi. Arahnya tampak bergeser dari sekadar ajang seremonial menjadi mekanisme reguler penyaluran UMKM ke ritel, apalagi acaranya kini dibarengkan dengan Trade Expo Indonesia supaya pemenang juga bertemu pembeli luar negeri. Yang akan memastikan arah ini benar adalah apakah sebagian dari 10 pemenang 2026 ini benar-benar muncul di rak ritel dalam beberapa bulan ke depan, bukan cuma mengandalkan dua contoh dari angkatan sebelumnya sebagai bukti keberhasilan.",
+  "imageV": "mv8dc90j"
+ },
+ {
+  "slug": "ekspor-nikel-ke-usd40-miliar-bahlil-bidik-usd45-miliar-2026",
+  "category": "Industri",
+  "title": "Ekspor Nikel ke USD40 Miliar, Bahlil Bidik [USD45 Miliar] 2026",
+  "deck": "Pemerintah menargetkan ekspor nikel tembus USD45 miliar pada 2026, melanjutkan lonjakan dari USD3,3 miliar pada 2017-2018 lewat hilirisasi.",
+  "image": "assets/img/ekspor-nikel-ke-usd40-miliar-bahlil-bidik-usd45-miliar-2026.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T00:02:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473053-ekspor-nikel-melonjak-dari-usd33-miliar-jadi-usd40-miliar-menko-bahlil-bidik-usd45-miliar-pada-2026",
+  "tags": [
+   "nikel",
+   "hilirisasi",
+   "ekspor",
+   "bahlil"
+  ],
+  "body": [
+   "Pemerintah menetapkan target ekspor nikel nasional sedikitnya USD45 miliar pada 2026, menyusul capaian yang sudah melampaui USD40 miliar pada 2025. Target ini penting karena menjadi tolok ukur apakah kebijakan hilirisasi, yakni mengolah bahan tambang di dalam negeri sebelum dijual ke luar negeri, masih bisa mendongkrak devisa secepat tahun-tahun sebelumnya.",
+   "Nilai ekspor nikel Indonesia tercatat hanya sekitar USD3,3 miliar pada periode 2017-2018. Setelah pemerintah melarang ekspor bijih nikel mentah dan mendorong pembangunan smelter, yaitu pabrik pemurnian logam, di dalam negeri, angka itu melonjak menjadi USD34 miliar pada 2023 dan menembus lebih dari USD40 miliar pada 2025.",
+   "Pernyataan ini disampaikan Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga menjabat Menteri Energi dan Sumber Daya Mineral, Bahlil Lahadalia, saat mewakili Presiden Prabowo Subianto membuka Trade Expo Indonesia ke-41 di Tangerang, Rabu (14/10). Bahlil menyebut dampak hilirisasi meluas melampaui keberadaan pabrik, antara lain tumbuhnya industri pendukung, meningkatnya peran pengusaha domestik, alih teknologi, dan penyerapan tenaga kerja.",
+   "Pemerintah juga menyiapkan rencana hilirisasi jangka panjang sampai 2040 dengan target investasi USD618 miliar. Rencana ini tidak hanya mencakup mineral dan batu bara, tetapi juga minyak dan gas bumi, hasil hutan, perikanan, hingga pertanian."
+  ],
+  "fotoAdegan": "Workers in protective gear monitoring a glowing nickel smelting furnace inside a large industrial plant in Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6acfb51f2814c-menteri-koordinator-bidang-hilirisasi-dan-transisi-energi-sekaligus-menteri-energi-dan-sumber-daya-mineral-esdm-bahlil-lahadalia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma angka ekspor nikel, tapi juga lajunya: target USD45 miliar untuk 2026 hanya naik sekitar 12 persen dari capaian USD40 miliar di 2025, jauh melandai dibanding lonjakan dari USD3,3 miliar ke USD34 miliar dalam enam tahun sebelumnya. Yang langsung terdampak adalah pelaku industri smelter nikel dan pekerjanya, karena target yang lebih moderat ini menandakan sektor nikel mulai mendekati titik jenuh setelah bertahun-tahun tumbuh cepat. Ke mana arahnya, pemerintah tampak mulai mengalihkan fokus hilirisasi ke komoditas lain, terlihat dari rencana sampai 2040 senilai USD618 miliar yang kini mencakup migas, hasil hutan, perikanan, dan pertanian, bukan cuma mineral tambang. Yang akan memastikan arah ini adalah realisasi investasi di sektor-sektor baru itu dalam satu dua tahun ke depan, serta apakah target USD45 miliar nikel benar tercapai pada akhir 2026.",
+  "imageV": "mv8dc9fa"
+ },
+ {
+  "slug": "brin-soroti-syarat-tata-kelola-pltn-sebelum-dibangun",
+  "category": "Energi",
+  "title": "BRIN Soroti Syarat Tata Kelola PLTN [Sebelum] Dibangun",
+  "deck": "Peneliti BRIN menilai nuklir bisa jadi pasokan listrik dasar yang stabil dan rendah emisi, tapi pemerintah dinilai perlu membereskan tata kelola, keselamatan, dan pembiayaan lebih dulu.",
+  "image": "assets/img/brin-soroti-syarat-tata-kelola-pltn-sebelum-dibangun.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T23:22:19+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473048-kajian-brin-dan-den-pemanfaatan-energi-nuklir-tuntut-kesiapan-tata-kelola-dan-ekosistem-nasional",
+  "tags": [
+   "PLTN",
+   "nuklir",
+   "BRIN",
+   "energi"
+  ],
+  "body": [
+   "Wacana pembangunan Pembangkit Listrik Tenaga Nuklir (PLTN) kembali mengemuka sebagai salah satu opsi dalam peta jalan energi Indonesia, seiring kebutuhan listrik yang terus naik, target bebas emisi karbon, dan dorongan memperkuat kemandirian energi nasional. Dalam diskusi Economic Frontline di Jakarta, Rabu (14/10), peneliti nuklir Badan Riset dan Inovasi Nasional (BRIN), Topan Setiadipura, menegaskan bahwa pemanfaatan PLTN tidak sesederhana mendatangkan teknologi pembangkit dari luar.",
+   "Menurut kajian BRIN dan Dewan Energi Nasional (DEN), rencana ini menuntut kesiapan menyeluruh, mulai dari infrastruktur penunjang, standar keselamatan tertinggi, kejelasan skema pembiayaan, persetujuan publik, hingga kemampuan negara menguasai sendiri teknologi strategis tersebut. Evaluasi berbasis riset dinilai perlu dilakukan agar kontribusi nuklir terhadap target net zero emission bisa terukur tanpa mengganggu stabilitas pasokan listrik nasional.",
+   "Topan membandingkan karakteristik PLTN dengan sumber energi baru dan terbarukan lain seperti surya, bayu, hidro, dan panas bumi, yang sifatnya bergantung pada cuaca sehingga memerlukan dukungan penyimpanan energi, interkoneksi, dan manajemen jaringan yang kuat. PLTN, menurutnya, berbeda karena mampu menghasilkan listrik dalam jumlah besar secara berkelanjutan dengan emisi gas rumah kaca yang rendah sepanjang siklus hidup pembangkit dibandingkan pembangkit berbahan bakar fosil.",
+   "Karakteristik itu menjadikan PLTN kandidat untuk memasok listrik beban dasar atau baseload yang bersih dan konsisten, kebutuhan yang dinilai makin mendesak seiring meningkatnya elektrifikasi transportasi, ekspansi ekonomi digital, dan pertumbuhan sektor manufaktur di dalam negeri."
+  ],
+  "fotoAdegan": "High-voltage transmission towers and power lines crossing a rural Indonesian landscape under a hazy afternoon sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/14/6acfab97744d3-wacana-pemanfaatan-pembangkit-listrik-tenaga-nuklir-pltn-kini-semakin-mencuat-sebagai-salah-satu-alternatif-strategis-dalam-peta-jalan-energi-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Kajian BRIN dan Dewan Energi Nasional ini menegaskan bahwa PLTN tidak bisa langsung dibangun begitu saja, pemerintah masih perlu membereskan aturan main, standar keselamatan, skema pembiayaan, persetujuan masyarakat, dan kemampuan menguasai teknologinya sendiri lebih dulu. Pihak yang akan merasakan dampaknya kalau PLTN benar terwujud adalah industri dan masyarakat yang butuh pasokan listrik stabil, apalagi kebutuhan listrik ikut naik seiring makin banyaknya kendaraan listrik, bisnis digital, dan pabrik baru. Namun berita ini belum menyebut tenggat kajian ini rampung, lokasi yang dipertimbangkan, atau skema pembiayaan konkret, sehingga belum bisa disimpulkan apakah PLTN akan benar dibangun dalam waktu dekat atau masih sebatas wacana jangka panjang. Yang perlu dipantau adalah peta jalan energi nasional atau keputusan resmi Dewan Energi Nasional berikutnya yang menyebut target kapasitas dan jadwal pembangunan, karena itu yang akan menunjukkan apakah kajian ini berlanjut ke tahap keputusan atau berhenti di tahap wacana.",
+  "imageV": "mv8dc9ua"
+ },
+ {
   "slug": "wsbp-catat-rugi-rp410-8-miliar-ekuitas-negatif-rp2-37-triliun",
   "category": "Aksi Korporasi",
   "title": "WSBP Catat Rugi Rp410,8 Miliar, [Ekuitas] Negatif Rp2,37 Triliun",
@@ -27,6 +109,33 @@ var ARTICLES = [
   "fotoAdegan": "Stacks of precast concrete beams and pillars in an open factory yard, overhead crane moving a load, overcast industrial skyline",
   "takeaway": "Laporan ini condong negatif bagi WSBP, karena rugi bersih melebar dan defisiensi ekuitas kian dalam meski program konversi utang menjadi saham terus berjalan. Defisiensi ekuitas berarti total utang perusahaan sudah melampaui total asetnya, dalam hal ini sekitar Rp2,37 triliun lebih besar utang dibanding aset, sehingga secara akuntansi tidak ada lagi kekayaan bersih yang tersisa untuk pemegang saham. Kas perusahaan menyusut lebih dari separuh menjadi Rp28,15 miliar, menandakan ruang gerak keuangan yang makin sempit, walau arus kas dari operasi membaik dibanding tahun lalu. Beban bunga pinjaman juga naik, menambah tekanan pada laba karena WSBP masih menanggung utang bank dan obligasi wajib konversi dalam jumlah besar. Yang perlu dipantau berikutnya adalah kelanjutan realisasi konversi utang usaha menjadi saham sesuai perjanjian perdamaian, serta RUPSLB kedua soal konversi utang menjadi ekuitas yang sudah dijadwalkan ulang perusahaan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "astra-ajak-30-umkm-tembus-ekspor-di-tei-2026",
+  "category": "UMKM",
+  "title": "Astra Ajak 30 UMKM Tembus Ekspor di [TEI] 2026",
+  "deck": "Astra membawa produk UMKM binaan Desa Sejahtera Astra dan YDBA ke Trade Expo Indonesia 2026 sebagai bagian dari upaya memperluas akses pasar ekspor.",
+  "image": "assets/img/astra-ajak-30-umkm-tembus-ekspor-di-tei-2026.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T22:19:25+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473037-astra-dorong-ekspor-umkm-lokal-lewat-trade-expo-indonesia-2026-hadirkan-produk-unggulan-daerah",
+  "tags": [
+   "Astra",
+   "UMKM",
+   "Trade Expo Indonesia 2026",
+   "Desa Sejahtera Astra"
+  ],
+  "body": [
+   "PT Astra International Tbk membawa produk unggulan pelaku usaha kecil dari berbagai daerah untuk tampil di Trade Expo Indonesia (TEI) 2026, pameran dagang yang berlangsung 14 hingga 18 Oktober di Hall 3A, ICE BSD, Tangerang. Langkah ini penting bagi UMKM karena ajang semacam ini menjadi salah satu jalur utama bagi usaha kecil daerah untuk bertemu langsung calon pembeli dari luar negeri, kesempatan yang biasanya sulit dijangkau sendiri oleh pelaku usaha skala kecil.",
+   "Produk yang dipamerkan berasal dari program Desa Sejahtera Astra serta UMKM binaan Yayasan Astra lewat Yayasan Dharma Bhakti Astra (YDBA) dan Grup Astra. Di booth milik Astra sendiri, tercatat 30 peserta yang terdiri dari 20 Desa Sejahtera Astra dan 10 UMKM binaan YDBA serta Grup Astra. Selain itu, tujuh Desa Sejahtera Astra lain ikut memamerkan produknya di booth Desa BISA Ekspor milik Kementerian Perdagangan.",
+   "Untuk mempersiapkan pelaku usaha ini masuk pasar global, Astra menjalankan program bernama Desa Sejahtera Astra Export Champion, hasil kerja sama dengan Kementerian Perdagangan dan Kamar Dagang dan Industri Indonesia. Pendampingannya mencakup kurasi produk, pelatihan ekspor, matrikulasi, latihan presentasi bisnis atau business pitching, hingga business matching atau sesi mempertemukan UMKM dengan calon pembeli potensial.",
+   "Executive in Charge Astra, Boy Gemino Kalauserang, mengatakan UMKM punya peran penting dalam mendorong pertumbuhan ekonomi Indonesia, termasuk lewat penetrasi ke pasar ekspor, sehingga Astra terus mendukung pengembangan UMKM agar punya peluang usaha yang lebih luas. Dalam rangkaian acara di booth Astra pada Rabu, 14 Oktober, juga dilakukan penandatanganan nota kesepahaman antara Desa Sejahtera Astra dengan mitra bisnis."
+  ],
+  "fotoAdegan": "Local artisans arranging handwoven textiles and packaged food products on display tables inside a large convention exhibition hall.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/14/6acf9a43781e6-astra-bawa-produk-unggulan-umkm-lokal-ke-trade-expo-indonesia-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah di sini adalah skala keterlibatan UMKM binaan Astra di pameran ekspor nasional, 20 Desa Sejahtera Astra dan 10 UMKM binaan YDBA serta Grup Astra di booth sendiri, ditambah 7 Desa Sejahtera Astra lagi di booth Kementerian Perdagangan. Yang terdampak langsung adalah pelaku usaha kecil di desa-desa program itu, karena mereka yang menerima pendampingan kurasi produk, pelatihan ekspor, dan sesi business matching dengan calon pembeli. Berita ini baru menggambarkan proses pembinaan dan jumlah peserta, belum ada angka transaksi atau nilai kesepakatan dagang yang benar-benar terjadi dari keikutsertaan ini. Yang akan menentukan apakah program ini berhasil mendorong ekspor nyata atau sekadar menambah jumlah peserta pameran adalah hasil business matching dan nilai kesepakatan yang biasanya baru terlihat setelah TEI 2026 berakhir pada 18 Oktober.",
+  "imageV": "mv8dca94"
  },
  {
   "slug": "ekspor-nikel-ditargetkan-usd45-miliar-pada-2026",
@@ -220,7 +329,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah adalah kewajiban sertifikasi halal yang mulai berlaku 17 Oktober 2026, hanya tiga hari dari sekarang, untuk produk yang beredar di Indonesia. Yang langsung terdampak adalah pelaku usaha, terutama UMKM yang belum mengantongi sertifikat, meski pemerintah menyiapkan kuota 1,35 juta sertifikat gratis lewat program SEHATI untuk meringankan beban itu. Arah penerapannya sendiri belum jelas benar, sebab pemerintah menyebut aturan ini wajib, tapi dalam kalimat yang sama juga menegaskan akan tetap memperhatikan kesiapan pelaku usaha, yang bisa berarti penegakan ketat sejak hari pertama atau justru toleransi bertahap bagi yang belum siap. Yang akan menentukan ke arah mana kebijakan ini bergerak adalah langkah Badan Penyelenggara Jaminan Produk Halal begitu masa berlakunya dimulai pekan depan, yaitu apakah ada sanksi atau penindakan nyata terhadap produk tak bersertifikat, atau justru masa transisi tanpa konsekuensi.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "pemerintah-pangkas-bea-masuk-plastik-jadi-0-selama-6-bulan",
@@ -248,7 +357,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah bea masuk, yaitu pajak yang dikenakan saat barang masuk ke Indonesia, untuk enam jenis bahan baku plastik polyethylene dan polypropylene dipangkas jadi nol persen selama enam bulan, merespons harga bahan baku ini yang melonjak, polypropylene naik 42,79 persen dan polyethylene naik 27,87 persen dalam setahun. Yang terdampak langsung adalah importir dan industri plastik nasional yang mengolah bahan baku ini jadi produk jadi. Tapi menurut masukan pelaku usaha sendiri, barang yang kena insentif saat ini kebanyakan bahan baku bentuk cair, bukan bentuk pellet yang justru dipakai industri hilir seperti produsen kemasan, kebutuhan rumah tangga, petani, dan UMKM, sehingga manfaatnya belum otomatis mengalir ke kelompok itu. Arah kebijakan ini masih belum pasti, bisa berlanjut menjadi perluasan daftar bahan baku ke bentuk pellet kalau evaluasi menunjukkan insentif belum tepat sasaran, atau bisa tetap terbatas seperti sekarang. Yang masih kurang untuk memastikannya adalah hasil evaluasi pemerintah yang disebut akan terus berjalan, namun belum disertai tenggat waktu yang jelas.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "aset-migas-phr-di-siak-terjual-rp11-01-miliar-lampaui-target",

@@ -4,6 +4,54 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "-rvld-zq6dc",
+  "title": "Said Iqbal dan Apindo Beda Pandangan soal Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Perwakilan buruh dan pengusaha berbeda pandangan membahas UU Pelindungan Ketenagakerjaan yang disahkan DPR pada 6 Oktober 2026 sebagai tindak lanjut putusan Mahkamah Konstitusi.",
+  "takeaway": "Penting diikuti karena aturan ini akan memengaruhi hubungan industrial dan iklim investasi ke depan."
+ },
+ {
+  "id": "mZ9-qSkrIBM",
+  "title": "Aturan Ketenagakerjaan Baru, Siapa yang Diuntungkan?",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi membahas dampak UU Pelindungan Ketenagakerjaan, yang disahkan pada 6 Oktober 2026, terhadap posisi pekerja dan pengusaha.",
+  "takeaway": "Relevan bagi pelaku usaha dan pekerja yang ingin memahami pihak yang paling terdampak dari regulasi baru ini."
+ },
+ {
+  "id": "0HHP33w-nVI",
+  "title": "Agus Pambagio Ingatkan Pengawasan Dana Cadangan Pesangon",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Pengamat kebijakan publik Agus Pambagio menyoroti pentingnya pengawasan ketat atas dana cadangan pesangon dalam UU Pelindungan Ketenagakerjaan.",
+  "takeaway": "Menyangkut kepastian hak pesangon pekerja sekaligus tata kelola dana perusahaan ke depan."
+ },
+ {
+  "id": "4WxmMM8CPEM",
+  "title": "Usul Jam Kerja 45 Jam, Apindo Soroti Produktivitas SDM",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Apindo menilai produktivitas tenaga kerja Indonesia masih rendah, di tengah usulan perpanjangan jam kerja menjadi 45 jam per minggu.",
+  "takeaway": "Menyentuh isu daya saing tenaga kerja nasional yang berkaitan langsung dengan kebijakan jam kerja."
+ },
+ {
+  "id": "E1axrH4bYzw",
+  "title": "Said Iqbal: Jangan Pecat Karyawan Seenaknya",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Presiden Partai Buruh Said Iqbal menegaskan perusahaan tidak boleh sembarangan memberhentikan karyawan, di tengah pembahasan UU Pelindungan Ketenagakerjaan.",
+  "takeaway": "Relevan karena menyangkut perlindungan hak pekerja dalam aturan ketenagakerjaan yang baru disahkan."
+ },
+ {
+  "id": "BTryjI2wvuk",
+  "title": "Mengungkap Masalah di Anak Perusahaan BUMN",
+  "category": "BUMN",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi mengangkat sejumlah persoalan yang membebani kinerja anak perusahaan BUMN, di tengah pembahasan regulasi ketenagakerjaan terbaru.",
+  "takeaway": "Penting bagi pembaca yang mengikuti tata kelola dan kesehatan bisnis perusahaan pelat merah."
+ },
+ {
   "id": "HbFCHOpwbNM",
   "title": "DJP Kembangkan Sistem AI untuk Pantau Harta Wajib Pajak Kaya",
   "category": "Makroekonomi",
@@ -434,53 +482,5 @@ var VIDEOS = [
   "program": "CAKEPP",
   "summary": "Membahas insentif kendaraan listrik di Indonesia serta tantangan hilirisasi industri EV sebagai bagian dari strategi transisi energi di sektor transportasi.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti dampak kebijakan insentif EV terhadap hilirisasi industri dan arah transisi energi nasional."
- },
- {
-  "id": "C2WEm1Ttwh8",
-  "title": "Utang Whoosh Dicicil 80 Tahun, Pakar Ingatkan Risiko ke APBN",
-  "category": "Makroekonomi",
-  "program": "OneNews Update",
-  "summary": "Utang proyek Kereta Cepat Jakarta-Bandung (Whoosh) yang dicicil hingga 80 tahun disorot karena berpotensi membebani APBN. Menteri Keuangan Suahasil Nazara dihadapkan pada tantangan mengelola beban utang tersebut.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut keberlanjutan fiskal negara dan risiko utang jangka panjang proyek infrastruktur strategis."
- },
- {
-  "id": "wG_oIR1h7e0",
-  "title": "Desainer Lokal Unjuk Kreasi Bidik Pasar Dunia",
-  "category": "Industri",
-  "program": "Kabar Siang",
-  "summary": "Borneo International Fashion Festival 2026 menjadi ajang bagi desainer lokal memamerkan karya sekaligus membangun ekosistem industri fashion di Kalimantan dengan target pasar global.",
-  "takeaway": "Relevan sebagai gambaran upaya daerah mengembangkan industri kreatif berorientasi ekspor."
- },
- {
-  "id": "gZ1-1YiE6Vw",
-  "title": "Kupas Kepiting Jadi Sumber Penghasilan Warga Pesisir",
-  "category": "UMKM",
-  "program": "Kabar Siang",
-  "summary": "Usaha pengupasan rajungan yang digeluti ibu-ibu di pesisir Kabupaten Maros, Sulawesi Selatan, kini menjadi salah satu aktivitas ekonomi andalan warga setempat.",
-  "takeaway": "Menggambarkan geliat ekonomi UMKM berbasis sumber daya laut yang menopang pendapatan masyarakat pesisir."
- },
- {
-  "id": "GH0px3XJDZ0",
-  "title": "Prospek Bisnis Haji dan Umrah Cerah, Jannah Firdaus Target 30 Ribu Jemaah",
-  "category": "Bisnis",
-  "program": "Kabar Pagi",
-  "summary": "Industri perjalanan haji dan umrah di Indonesia dinilai masih prospektif seiring tingginya minat masyarakat, dengan Jannah Firdaus menargetkan memberangkatkan 30 ribu jemaah pada 2026.",
-  "takeaway": "Menunjukkan geliat sektor jasa perjalanan ibadah sebagai salah satu lini bisnis yang terus tumbuh di Indonesia."
- },
- {
-  "id": "GpWLiiOJ20k",
-  "title": "Indonesia Butuh Pendanaan Global Capai Target Zero Emission",
-  "category": "Energi",
-  "program": "Kabar Hari Ini",
-  "summary": "Indonesia memerlukan dukungan pendanaan global untuk mempercepat pencapaian target penurunan emisi, karena kebutuhan pembiayaan iklim dinilai jauh melampaui kemampuan APBN.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut keterbatasan fiskal negara dan peluang pembiayaan hijau dari mitra internasional."
- },
- {
-  "id": "y3VMgycXcVc",
-  "title": "Menko AHY Tinjau Laboratorium Hydropower EPFL di Swiss",
-  "category": "Energi",
-  "program": "AKAP",
-  "summary": "Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono meninjau laboratorium hidro EPFL di Swiss untuk mendorong transformasi pembangkit listrik tenaga air agar lebih optimal.",
-  "takeaway": "Kunjungan ini memberi gambaran arah kebijakan pemerintah dalam pengembangan energi terbarukan berbasis air yang relevan bagi investasi infrastruktur energi nasional."
  }
 ];

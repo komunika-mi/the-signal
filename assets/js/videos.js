@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "yXs6EEDo8rA",
+  "title": "Evaluasi Sistem Kerja Kemitraan, Said Iqbal Kunjungi PT Pos Indonesia",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Penasihat Khusus Presiden Bidang Ketenagakerjaan dan Kesejahteraan Buruh, Said Iqbal, mengunjungi kantor pusat PT Pos Indonesia untuk mengevaluasi sistem kerja kemitraan di perusahaan tersebut.",
+  "takeaway": "Evaluasi ini penting diikuti karena menyangkut status dan kesejahteraan pekerja kemitraan di salah satu BUMN logistik terbesar di Indonesia.",
+  "terbit": "2026-10-14T08:38:20+00:00"
+ },
+ {
+  "id": "60rNj3HYBdc",
+  "title": "Industri Event Didorong Mampu Mendongkrak Ekonomi Indonesia",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Industri event di Indonesia didorong mengembangkan standar pengukuran dampak yang lebih objektif dan terukur agar kontribusinya terhadap ekonomi lebih maksimal.",
+  "takeaway": "Standar pengukuran yang lebih baik membantu pelaku usaha dan pemerintah menilai kontribusi nyata industri event terhadap perekonomian nasional.",
+  "terbit": "2026-10-14T08:37:08+00:00"
+ },
+ {
+  "id": "DUFEWhoosgE",
+  "title": "RI Kejar Target Jadi Negara Maju Sebelum Penduduk Menua",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Indonesia disebut memiliki waktu 10 hingga 15 tahun untuk memanfaatkan bonus demografi sebelum jumlah penduduk menua, demi mengejar target menjadi negara maju.",
+  "takeaway": "Jendela bonus demografi yang makin sempit membuat arah strategi pertumbuhan ekonomi jangka panjang Indonesia layak terus dipantau.",
+  "terbit": "2026-10-14T08:23:46+00:00"
+ },
+ {
   "id": "-pma6JSOHk8",
   "title": "Antrean SPBU di Bali Mengular hingga 2 Kilometer",
   "category": "Energi",

@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "yXs6EEDo8rA",
+  "title": "Evaluasi Sistem Kerja Kemitraan, Said Iqbal Kunjungi PT Pos Indonesia",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Penasihat Khusus Presiden Bidang Ketenagakerjaan dan Kesejahteraan Buruh, Said Iqbal, mengunjungi kantor pusat PT Pos Indonesia untuk mengevaluasi sistem kerja kemitraan di perusahaan tersebut.",
+  "takeaway": "Evaluasi ini penting diikuti karena menyangkut status dan kesejahteraan pekerja kemitraan di salah satu BUMN logistik terbesar di Indonesia."
+ },
+ {
+  "id": "60rNj3HYBdc",
+  "title": "Industri Event Didorong Mampu Mendongkrak Ekonomi Indonesia",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Industri event di Indonesia didorong mengembangkan standar pengukuran dampak yang lebih objektif dan terukur agar kontribusinya terhadap ekonomi lebih maksimal.",
+  "takeaway": "Standar pengukuran yang lebih baik membantu pelaku usaha dan pemerintah menilai kontribusi nyata industri event terhadap perekonomian nasional."
+ },
+ {
+  "id": "DUFEWhoosgE",
+  "title": "RI Kejar Target Jadi Negara Maju Sebelum Penduduk Menua",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Indonesia disebut memiliki waktu 10 hingga 15 tahun untuk memanfaatkan bonus demografi sebelum jumlah penduduk menua, demi mengejar target menjadi negara maju.",
+  "takeaway": "Jendela bonus demografi yang makin sempit membuat arah strategi pertumbuhan ekonomi jangka panjang Indonesia layak terus dipantau."
+ },
+ {
   "id": "-pma6JSOHk8",
   "title": "Antrean SPBU di Bali Mengular hingga 2 Kilometer",
   "category": "Energi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Bahlil Lahadalia dilantik Presiden Prabowo Subianto sebagai Menteri Koordinator Bidang Hilirisasi dan Transisi Energi, dan menegaskan percepatan program hilirisasi akan segera dijalankan.",
   "takeaway": "Arah kebijakan hilirisasi menentukan peta investasi sumber daya alam dan industri pengolahan dalam negeri ke depan."
- },
- {
-  "id": "GPIuDVxG0p8",
-  "title": "Mahasiswa UGM dan Dirut Agrinas Berdebat Soal Program Kopdes",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Perdebatan muncul antara mahasiswa UGM dan Direktur Utama Agrinas terkait program Koperasi Desa/Kelurahan Merah Putih yang digadang memperkuat ekonomi desa.",
-  "takeaway": "Perdebatan ini menyoroti efektivitas program Kopdes Merah Putih sebagai instrumen penguatan ekonomi desa yang tengah digencarkan pemerintah."
- },
- {
-  "id": "LkR9k_g7GNA",
-  "title": "Kopdes Merah Putih: Dirut Agrinas vs Mahasiswa UGM",
-  "category": "UMKM",
-  "program": "Dua Sisi",
-  "summary": "Diskusi lengkap membahas pro dan kontra program Koperasi Desa/Kelurahan Merah Putih dalam upaya memperkuat ekonomi masyarakat desa.",
-  "takeaway": "Edisi lengkap ini memberi konteks lebih utuh atas perdebatan soal efektivitas Kopdes Merah Putih bagi pembaca yang mengikuti kebijakan ekonomi desa."
- },
- {
-  "id": "xFuzH0B2EM4",
-  "title": "Dirut Agrinas: Kopdes Simbol Pembebasan Ekonomi Desa",
-  "category": "UMKM",
-  "program": "Dua Sisi",
-  "summary": "Direktur Utama Agrinas menyebut pembangunan Koperasi Desa/Kelurahan Merah Putih sebagai simbol pembebasan ekonomi bagi masyarakat desa.",
-  "takeaway": "Pernyataan ini penting untuk memahami narasi pemerintah di balik program Kopdes Merah Putih yang menyasar penguatan ekonomi desa."
  }
 ];

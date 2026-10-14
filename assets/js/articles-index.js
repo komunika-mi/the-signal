@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppatk-catat-transaksi-janggal-rp684-71-triliun-di-tambang",
+  "category": "Industri",
+  "title": "PPATK Catat Transaksi Janggal [Rp684,71 Triliun] di Tambang",
+  "deck": "PPATK dan MIND ID menjalin kerja sama pencegahan pencucian uang di sektor tambang, setelah mendeteksi transaksi janggal senilai Rp684,71 triliun sepanjang 2025 hingga semester I 2026.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/ppatk-catat-transaksi-janggal-rp684-71-triliun-di-tambang.jpg",
+  "imageV": "mv7vdkbu",
+  "tags": [
+   "PPATK",
+   "MIND ID",
+   "pencucian uang",
+   "tambang ilegal"
+  ],
+  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1681/ppatk-dan-mind-id-perkuat-kolaborasi-jaga-integritas-industri-pertambangan-nasional.html",
+  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
+ },
+ {
+  "slug": "martha-tilaar-dari-salon-garasi-rp1-juta-ke-kosmetik-raksasa",
+  "category": "Bisnis",
+  "title": "Martha Tilaar: dari Salon Garasi Rp1 Juta ke [Kosmetik] Raksasa",
+  "deck": "Martha Tilaar, pendiri Martha Tilaar Group dan Sariayu, meninggal dunia di usia 89 tahun, mewariskan bisnis kosmetik berbasis kekayaan alam Indonesia.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/martha-tilaar-dari-salon-garasi-rp1-juta-ke-kosmetik-raksasa.jpg",
+  "imageV": "mv7vdkuj",
+  "tags": [
+   "Martha Tilaar",
+   "Martha Tilaar Group",
+   "Sariayu",
+   "kosmetik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472948-kisah-perjuangan-martha-tilaar-dari-salon-kecil-di-garasi-hingga-membangun-bisnis-kosmetik-besar"
+ },
+ {
   "slug": "pgun-klaim-dampak-karhutla-ke-produksi-sawit-minim",
   "category": "Aksi Korporasi",
   "title": "PGUN Klaim Dampak [Karhutla] ke Produksi Sawit Minim",
@@ -6450,39 +6485,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f42d4f9244_48b811e85b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-mandiri-bagikan-3-360-paket-ke-pekerja-rentan-di-hut-ke-28",
-  "category": "BUMN",
-  "title": "Bank Mandiri [Bagikan] 3.360 Paket ke Pekerja Rentan di HUT ke-28",
-  "deck": "Bank Mandiri membagikan 3.360 paket makanan dan minuman ke pekerja rentan di 12 wilayah dalam rangkaian HUT ke-28, melanjutkan program Livin' Mandiri Berbagi yang berjalan sejak April 2026.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/bank-mandiri-bagikan-3-360-paket-ke-pekerja-rentan-di-hut-ke-28.jpg",
-  "imageV": "muz59m0u",
-  "tags": [
-   "Bank Mandiri",
-   "Livin Mandiri Berbagi",
-   "BUMN",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471654-livin-mandiri-berbagi-rp28-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri"
- },
- {
-  "slug": "livin-mandiri-berbagi-apresiasi-pekerja-rentan-di-hut-ke-28",
-  "category": "Perbankan",
-  "title": "Livin' Mandiri Berbagi [Apresiasi] Pekerja Rentan di HUT ke-28",
-  "deck": "Bank Mandiri kembali menggelar Livin' Mandiri Berbagi, membagikan 280 paket makanan dan minuman di 12 wilayah untuk pekerja rentan dalam rangka HUT ke-28 pada 2 Oktober 2026.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/livin-mandiri-berbagi-apresiasi-pekerja-rentan-di-hut-ke-28.jpg",
-  "imageV": "muya3yb0",
-  "tags": [
-   "Bank Mandiri",
-   "Livin Mandiri Berbagi",
-   "pekerja rentan",
-   "CSR perbankan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471654-livin-mandiri-berbagi-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri-rp28"
  }
 ];

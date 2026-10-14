@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ppatk-catat-transaksi-janggal-rp684-71-triliun-di-tambang",
+  "category": "Industri",
+  "title": "PPATK Catat Transaksi Janggal [Rp684,71 Triliun] di Tambang",
+  "deck": "PPATK dan MIND ID menjalin kerja sama pencegahan pencucian uang di sektor tambang, setelah mendeteksi transaksi janggal senilai Rp684,71 triliun sepanjang 2025 hingga semester I 2026.",
+  "image": "assets/img/ppatk-catat-transaksi-janggal-rp684-71-triliun-di-tambang.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T08:47:16.026Z",
+  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1681/ppatk-dan-mind-id-perkuat-kolaborasi-jaga-integritas-industri-pertambangan-nasional.html",
+  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "tags": [
+   "PPATK",
+   "MIND ID",
+   "pencucian uang",
+   "tambang ilegal"
+  ],
+  "body": [
+   "Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) menjalin kerja sama resmi dengan PT Mineral Industri Indonesia (MIND ID), holding BUMN pertambangan, untuk mencegah pencucian uang di sektor tambang. Kesepakatan yang diteken di Jakarta pada 14 Oktober 2026 ini melibatkan Kepala PPATK Ivan Yustiavandana dan Direktur Utama MIND ID Maroef Sjamsoeddin, dan muncul karena sektor tambang dinilai PPATK menyimpan nilai transaksi sangat besar dengan rantai bisnis rumit, kondisi yang rawan disusupi praktik pencucian uang maupun korupsi.",
+   "Berdasarkan pemantauan PPATK, transaksi yang diduga terkait sektor pertambangan mencapai sekitar Rp684,71 triliun. Angka itu terdiri dari Rp517,47 triliun sepanjang 2025 dan Rp167,23 triliun pada semester pertama 2026. PPATK menyebut temuan ini sebagai bagian dari upaya memantau risiko kejahatan keuangan yang menumpang pada pengelolaan sumber daya alam.",
+   "Sorotan khusus diarahkan pada penambangan emas tanpa izin (PETI) yang menurut PPATK terjadi di Papua, Kalimantan Barat, Sulawesi, Sumatera Utara, dan Jawa, termasuk dugaan distribusi emas ilegal ke luar negeri. Sepanjang 2023 hingga 2025, PPATK mencatat transaksi yang diduga terkait PETI senilai Rp185,03 triliun, dengan total perputaran dana yang jauh lebih besar yakni mencapai Rp992 triliun.",
+   "Melalui nota kesepahaman ini, PPATK dan MIND ID sepakat bertukar informasi, melakukan penelitian bersama, menyusun analisis strategis, serta menggelar sosialisasi dan pelatihan. Ivan menyebut kerja sama ini sebagai langkah memperkuat deteksi dini atas kejahatan keuangan di sektor tambang, sementara Maroef menyatakan penguatan transparansi menjadi fondasi dalam tata kelola perusahaan tambang milik negara."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving extracted ore across a dusty open-pit mine under bright daylight, distant hills",
+  "fotoSumber": "https://www.ppatk.go.id//backend/assets/images/berita_utama/1791964516_1681.jpeg",
+  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "takeaway": "MoU ini pada dasarnya membuka jalur bagi PPATK untuk menerima dan menganalisis data transaksi keuangan dari MIND ID, holding BUMN yang menaungi perusahaan tambang seperti Antam, Bukit Asam, Freeport Indonesia, Inalum, dan Timah. Yang membuat kerja sama ini punya bobot bukan sekadar seremoni penandatanganan, melainkan angkanya: PPATK sudah mengidentifikasi transaksi senilai Rp684,71 triliun yang diduga terkait sektor tambang, dan secara khusus transaksi dari tambang emas tanpa izin senilai Rp185,03 triliun dengan total perputaran dana Rp992 triliun sejak 2023. Pihak yang terdampak langsung adalah perusahaan di bawah MIND ID yang kini terbuka jalur pertukaran data keuangannya dengan PPATK, sementara penambang ilegal di Papua, Kalimantan Barat, Sulawesi, Sumatera Utara, dan Jawa berpotensi menjadi sasaran penelusuran lanjutan. Arah kerja sama ini mengarah ke penguatan deteksi dini transaksi tambang sekaligus pengejaran aliran dana tambang ilegal, tapi itu baru terbukti nyata kalau PPATK merilis hasil konkret seperti laporan kasus atau tindak lanjut penegakan hukum yang mengikuti MoU ini, bukan sekadar menambah daftar nota kesepahaman dengan lembaga lain.",
+  "imageV": "mv7vdkbu"
+ },
+ {
+  "slug": "martha-tilaar-dari-salon-garasi-rp1-juta-ke-kosmetik-raksasa",
+  "category": "Bisnis",
+  "title": "Martha Tilaar: dari Salon Garasi Rp1 Juta ke [Kosmetik] Raksasa",
+  "deck": "Martha Tilaar, pendiri Martha Tilaar Group dan Sariayu, meninggal dunia di usia 89 tahun, mewariskan bisnis kosmetik berbasis kekayaan alam Indonesia.",
+  "image": "assets/img/martha-tilaar-dari-salon-garasi-rp1-juta-ke-kosmetik-raksasa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T15:17:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/472948-kisah-perjuangan-martha-tilaar-dari-salon-kecil-di-garasi-hingga-membangun-bisnis-kosmetik-besar",
+  "tags": [
+   "Martha Tilaar",
+   "Martha Tilaar Group",
+   "Sariayu",
+   "kosmetik"
+  ],
+  "body": [
+   "Martha Tilaar, pengusaha perempuan yang membesarkan bisnis kosmetik nasional, meninggal dunia pada Rabu, 14 Oktober 2026, dalam usia 89 tahun. Namanya identik dengan Sariayu dan Martha Tilaar Group, dua nama yang selama puluhan tahun menjadi rujukan produk perawatan berbasis bahan alami dan tradisi Indonesia. Kepergiannya menandai berakhirnya era kepemimpinan sang pendiri di bisnis yang kini sudah menjelma menjadi grup usaha besar, termasuk perusahaan terbuka PT Martina Berto Tbk.",
+   "Perjalanan Martha dimulai jauh sebelum nama besar itu terbentuk. Lahir di Gombong, Jawa Tengah, pada 4 September 1937, ia lebih dulu berprofesi sebagai guru sebelum mengikuti suaminya, Henry A. Rudolf Tilaar, pindah ke Amerika Serikat pada 1964. Di sana ia menimba ilmu kecantikan di Academy of Beauty Culture, Bloomington, Indiana, dan sempat bekerja tiga tahun di salon kecantikan kampus Universitas Indiana sebelum pulang ke Indonesia pada 1969.",
+   "Bermodal pengalaman itu, Martha mendirikan Martha's Salon pada 3 Januari 1970 di Jalan Kusumaatmadja, Menteng, Jakarta Pusat. Usaha itu ia rintis di garasi rumah ayahnya seluas sekitar 4 x 6 meter, dengan modal awal hanya Rp1 juta. Dari ruang sederhana itu, ia mengembangkan racikan berbasis kekayaan alam dan pengetahuan kecantikan tradisional Indonesia, yang kemudian dikenal luas lewat merek Sariayu.",
+   "Usaha itu terus berkembang di tengah gencarnya produk kecantikan impor, hingga akhirnya membesar menjadi Martha Tilaar Group yang menaungi berbagai merek kosmetik dan perawatan tubuh. Kiprah itulah yang membuat Martha dikenang sebagai salah satu perintis industri kecantikan berbasis kearifan lokal di Indonesia."
+  ],
+  "fotoAdegan": "A modest garage converted into a small home beauty salon, vintage styling chairs facing mirrors, soft morning light through the open door.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/14/6acf393262a48-dr-hc-martha-tilaar_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah hilangnya sosok pendiri sekaligus wajah dari Martha Tilaar Group, termasuk PT Martina Berto Tbk, perusahaan kosmetik yang sahamnya diperdagangkan di bursa sehingga sebagian kepemilikannya ada di tangan publik. Yang langsung terdampak adalah karyawan dan jaringan bisnis di bawah grup ini, juga pemegang saham publik yang ikut memiliki Martina Berto. Berita ini belum menyebutkan siapa yang akan memegang kendali perusahaan selanjutnya atau bagaimana rencana keberlanjutan bisnisnya, sehingga arah ke depan grup usaha ini belum bisa dibaca dari sini. Yang perlu dipantau adalah pernyataan resmi perusahaan soal suksesi kepemimpinan, serta pergerakan harga saham Martina Berto di bursa dalam beberapa hari mendatang.",
+  "imageV": "mv7vdkuj"
+ },
+ {
   "slug": "pgun-klaim-dampak-karhutla-ke-produksi-sawit-minim",
   "category": "Aksi Korporasi",
   "title": "PGUN Klaim Dampak [Karhutla] ke Produksi Sawit Minim",
@@ -160,7 +215,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan cara pemerintah membaca data daya beli: Wamenko menyebut data BPS menunjukkan masyarakat bukan mengurangi belanja, melainkan memindahkan belanjanya ke jalan-jalan, hotel, makanan minum, dan layanan online. Yang terdampak oleh pembacaan ini adalah pelaku usaha di sektor yang disebut tumbuh tadi, sekaligus usaha yang mungkin kehilangan pembeli karena pergeseran itu, juga pelaku usaha yang nanti memakai kanal debottlenecking untuk melaporkan kendala ke Kemenko Perekonomian. Arahnya belum bisa disimpulkan karena berita ini tidak menyebut angka pertumbuhan masing-masing sektor atau berapa banyak laporan debottlenecking yang sudah selesai ditangani, jadi klaim bahwa daya beli tidak melemah masih berupa penilaian pejabat, bukan rincian angka yang bisa diperiksa publik. Yang perlu ditunggu adalah rilis data konsumsi per sektor dari BPS berikutnya, serta angka resmi kontribusi investasi Danantara terhadap pembentukan modal tetap bruto yang disebut akan mulai dicatat lebih rinci.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "wamendag-temui-menteri-finlandia-dorong-ratifikasi-cepa",

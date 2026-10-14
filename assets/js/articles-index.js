@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pgun-klaim-dampak-karhutla-ke-produksi-sawit-minim",
+  "category": "Aksi Korporasi",
+  "title": "PGUN Klaim Dampak [Karhutla] ke Produksi Sawit Minim",
+  "deck": "Pradiksi Gunatama menjawab permintaan penjelasan Bursa Efek Indonesia soal dampak kebakaran hutan dan lahan terhadap kebun dan pabrik sawitnya di Kabupaten Paser, Kalimantan Timur.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGUN",
+   "karhutla",
+   "kelapa sawit",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7c81950307_8fb6c7c124.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ceka-jelaskan-dampak-karhutla-ke-operasional-pabrik-pontianak",
+  "category": "Aksi Korporasi",
+  "title": "CEKA Jelaskan Dampak [Karhutla] ke Operasional Pabrik Pontianak",
+  "deck": "CEKA menjawab permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan terhadap pabrik Pontianak, menyebut dampak 5-10 persen tapi belum mengubah target produksi 2026.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CEKA",
+   "karhutla",
+   "BEI",
+   "Wilmar Cahaya Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2513fadcf0_2214270e73.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bi-luncurkan-tiga-program-keuangan-syariah-di-isef-2026",
   "category": "Moneter",
   "title": "BI Luncurkan Tiga Program Keuangan [Syariah] di ISEF 2026",
@@ -203,6 +235,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9f22224014_34246903c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prtl-tawarkan-obligasi-rp741-miliar-bunga-7-55-7-65",
+  "category": "Aksi Korporasi",
+  "title": "PRTL tawarkan obligasi [Rp741 miliar], bunga 7,55-7,65%",
+  "deck": "Protelindo (PRTL) merilis perbaikan informasi obligasi berkelanjutan V tahap II senilai Rp741,1 miliar, terbagi dua seri bertenor 3 dan 5 tahun, ditawarkan 14-15 Oktober 2026.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRTL",
+   "obligasi korporasi",
+   "Protelindo",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b53d40a6b2_fad8822bff.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6436,54 +6484,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/471654-livin-mandiri-berbagi-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri-rp28"
- },
- {
-  "slug": "hut-ke-28-bank-mandiri-3-360-paket-dibagi-ke-pekerja-rentan",
-  "category": "Perbankan",
-  "title": "HUT ke-28 Bank Mandiri, [3.360] Paket Dibagi ke Pekerja Rentan",
-  "deck": "Bank Mandiri merayakan HUT ke-28 dengan membagikan total 3.360 paket makan dan minum ke pekerja rentan di 12 wilayah lewat program Livin' Mandiri Berbagi.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/hut-ke-28-bank-mandiri-3-360-paket-dibagi-ke-pekerja-rentan.jpg",
-  "imageV": "muxhqr58",
-  "tags": [
-   "bank mandiri",
-   "livin mandiri berbagi",
-   "csr perbankan",
-   "pekerja rentan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471654-livin-mandiri-berbagi-hadirkan-apresiasi-bagi-pekerja-rentan-dalam-perayaan-hut-ke-28-bank-mandiri"
- },
- {
-  "slug": "wskt-wkr-restrukturisasi-utang-rp31-miliar-ke-tcf-tenor-ke-2027",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: WKR [Restrukturisasi] Utang Rp31 Miliar ke TCF, Tenor ke 2027",
-  "deck": "Waskita Karya Realty, anak usaha Waskita Karya, merestrukturisasi utang modal kerja ke PT TCF senilai Rp31,14 miliar dengan tenor diperpanjang hingga akhir 2027.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "Waskita Karya",
-   "Waskita Karya Realty",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/226d5b94c4_721b4c6843.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wisl-dana-obligasi-rp172-67-miliar-rampung-100-persen",
-  "category": "Aksi Korporasi",
-  "title": "WISL: Dana Obligasi Rp172,67 Miliar [Rampung] 100 Persen",
-  "deck": "WISL merealisasikan seluruh dana Rp172,67 miliar dari obligasi berkelanjutan untuk modal kerja perusahaan anak, dengan sisa dana nol.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WISL",
-   "obligasi",
-   "penggunaan dana",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7e5221557e_11597deb4f.pdf",
-  "sourceLabel": "IDX"
  }
 ];

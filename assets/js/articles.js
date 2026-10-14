@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pgun-klaim-dampak-karhutla-ke-produksi-sawit-minim",
+  "category": "Aksi Korporasi",
+  "title": "PGUN Klaim Dampak [Karhutla] ke Produksi Sawit Minim",
+  "deck": "Pradiksi Gunatama menjawab permintaan penjelasan Bursa Efek Indonesia soal dampak kebakaran hutan dan lahan terhadap kebun dan pabrik sawitnya di Kabupaten Paser, Kalimantan Timur.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T14:54:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7c81950307_8fb6c7c124.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGUN",
+  "tags": [
+   "PGUN",
+   "karhutla",
+   "kelapa sawit",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Pradiksi Gunatama Tbk (PGUN) menjawab surat Bursa Efek Indonesia Nomor S-13032/BEI.PP1/10-2026 tanggal 13 Oktober 2026 yang meminta penjelasan soal dampak kebakaran hutan dan lahan (karhutla). Dalam surat bernomor 111/DIR-PG/EXT-CORSEC/X/2026 yang ditandatangani Direktur Utama Jonet Budiarto, perusahaan menjelaskan bahwa seluruh kegiatan perkebunan dan pengolahan kelapa sawitnya terpusat di satu lokasi, yakni Kabupaten Paser, Kalimantan Timur, dan dikelola langsung oleh PGUN tanpa melalui entitas anak. Lokasi tunggal ini menyumbang 100 persen dari total produksi minyak sawit mentah (CPO) dan inti sawit, sekaligus 100 persen pendapatan perusahaan, dengan seluruh CPO dialokasikan untuk kebutuhan bahan bakar nabati (FAME) afiliasinya, PT Jhonlin Agro Raya Tbk.",
+   "Soal dampak karhutla, PGUN menyatakan kebakaran di sekitar area konsesi tidak menghentikan operasional utamanya. Pemanenan dan pengolahan di pabrik kelapa sawit (PKS) disebut tetap berjalan normal tanpa ada unplanned shutdown di kebun maupun pabrik. Perusahaan menilai dampak finansial langsung terhadap pendapatan dan laba bersih bersifat terisolasi dan sangat tidak material, dengan aset biologis berupa tanaman sawit serta aset tetap seperti pabrik dan alat berat dinyatakan tidak mengalami kerusakan yang memerlukan penghapusan nilai (write-off) besar. PGUN juga menegaskan tidak sedang menghadapi dan tidak berpotensi menghadapi sanksi administratif berat seperti penyegelan lahan atau pencabutan izin, maupun gugatan hukum terkait karhutla.",
+   "Untuk mitigasi, perusahaan memaparkan sejumlah langkah jangka pendek seperti satuan tugas karhutla selama musim kemarau, pemantauan titik api lewat satelit dan patroli darat harian, penyediaan pompa air portabel, water truck, alat berat, menara pemantau api, serta cadangan air dari embung, kanal, dan waduk. Standar operasinya mewajibkan tim tiba di titik api dalam 15 sampai 30 menit setelah laporan diterima, dengan koordinasi ke BPBD, TNI, Polri, Dinas Kehutanan, dan Manggala Agni setempat. Untuk jangka panjang, PGUN menjalankan kebijakan larangan pembukaan lahan dengan cara bakar (zero burning) dan program Masyarakat Bebas Api yang melibatkan edukasi ke warga desa sekitar konsesi. Perusahaan menutup surat dengan menyatakan tidak ada informasi material lain terkait karhutla yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers checking a water pump beside an irrigation canal in a palm oil plantation, hazy sky on the horizon, rural Kalimantan landscape",
+  "takeaway": "Laporan ini netral bagi fundamental PGUN, karena isinya klarifikasi risiko lewat klaim sepihak perusahaan, bukan transaksi atau perubahan angka keuangan yang terverifikasi pihak independen. Pos yang disorot bursa sebenarnya adalah pendapatan dan nilai aset tetap, karena seluruh produksi dan pendapatan PGUN terkonsentrasi di satu lokasi di Paser, sehingga kalau klaim \"dampak immaterial\" ini kurang akurat, pukulannya ke pendapatan bisa langsung terasa tanpa ada cadangan dari lokasi lain. Pelaku pasar memperhatikan risiko konsentrasi semacam ini karena perusahaan dengan satu lokasi produksi lebih rentan dibanding yang punya beberapa kebun di wilayah berbeda. Yang perlu dipantau selanjutnya adalah laporan produksi dan keuangan kuartal IV 2026, yang akan menjadi bukti nyata apakah klaim dampak minim dari karhutla ini benar, mengingat musim kemarau di Kalimantan belum sepenuhnya berakhir saat surat ini diterbitkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ceka-jelaskan-dampak-karhutla-ke-operasional-pabrik-pontianak",
+  "category": "Aksi Korporasi",
+  "title": "CEKA Jelaskan Dampak [Karhutla] ke Operasional Pabrik Pontianak",
+  "deck": "CEKA menjawab permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan terhadap pabrik Pontianak, menyebut dampak 5-10 persen tapi belum mengubah target produksi 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T14:45:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2513fadcf0_2214270e73.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CEKA",
+  "tags": [
+   "CEKA",
+   "karhutla",
+   "BEI",
+   "Wilmar Cahaya Indonesia"
+  ],
+  "body": [
+   "PT Wilmar Cahaya Indonesia Tbk (CEKA) menyampaikan tanggapan resmi atas surat permintaan penjelasan dari Bursa Efek Indonesia nomor S-13076/BEI.PP3/10-2026 tertanggal 13 Oktober 2026 terkait meningkatnya kebakaran hutan dan lahan di sejumlah wilayah Indonesia. Perseroan menjelaskan tidak memiliki entitas anak maupun kebun kelapa sawit, dan hanya bergerak di industri pengolahan kelapa sawit. CEKA memiliki tiga lokasi operasional: pabrik di Pontianak, Kalimantan Barat, dengan luas lahan sekitar 61.925 meter persegi; gudang di Kabupaten Bekasi, Jawa Barat, seluas sekitar 21.179 meter persegi yang pabriknya sudah tidak beroperasi dan kini hanya dipakai untuk pergudangan; serta kantor pusat dan pemasaran di Jakarta Selatan seluas sekitar 873 meter persegi. Seluruh produksi perseroan, 100 persen, berasal dari lokasi Pontianak, sementara dari sisi pendapatan, 66 persen berasal dari operasi Pontianak dan 34 persen dari kegiatan perdagangan.",
+   "Terkait dampak karhutla, CEKA menyebut pabrik Pontianak terpengaruh asap yang mengganggu kenyamanan pernapasan karyawan, serta penurunan debit dan permukaan air Sungai Kapuas. Sungai itu menjadi jalur utama pengiriman bahan baku CPO dan palm kernel dari pemasok, sekaligus jalur distribusi produk olahan ke konsumen, sehingga penurunan debit air berisiko mengganggu pasokan bahan baku dan air untuk proses produksi di pabrik. Perseroan menyebut dampak keseluruhan masih di kisaran 5 sampai 10 persen dan masih bisa dikelola, sehingga tidak berniat menghentikan operasional atau melakukan unplanned shutdown di Pontianak. Operasional di Jakarta Selatan dan Bekasi disebut tidak terdampak. Sampai tanggal tanggapan ini, perseroan juga belum merevisi target produksi 2026 dan belum mengidentifikasi dampak material terhadap pendapatan, laba, maupun nilai aset.",
+   "CEKA menegaskan tidak sedang menghadapi dan tidak memperkirakan akan menghadapi proses hukum atau sanksi administratif terkait karhutla, seperti penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin. Perseroan juga menyatakan tidak ada informasi atau fakta material lain terkait karhutla yang belum diungkapkan ke publik, dan akan terus memantau perkembangan kondisi serta dampaknya terhadap pasokan bahan baku dan operasional secara keseluruhan."
+  ],
+  "fotoAdegan": "Wooden cargo boats loaded with palm kernel sacks moving down a wide brown river under a hazy, smoke tinted sky in Kalimantan",
+  "takeaway": "Laporan ini netral bagi CEKA karena perusahaan sendiri menyebut dampak karhutla terhadap operasinya masih di kisaran 5 sampai 10 persen, dan sejauh ini belum mengubah target produksi 2026 maupun terdeteksi mengurangi pendapatan, laba, atau nilai aset. Yang tersentuh adalah rantai pasokan bahan baku kelapa sawit, CPO dan palm kernel, yang diangkut lewat Sungai Kapuas, karena debit air yang turun bisa memperlambat pengiriman bahan baku sekaligus mengurangi air untuk proses produksi di pabrik Pontianak, sehingga pelaku pasar perlu mewaspadai potensi gangguan arus kas operasional kalau kondisi ini berlanjut lama. Yang perlu dipantau selanjutnya adalah perkembangan musim kering dan level air Sungai Kapuas dalam beberapa minggu mendatang, serta apakah CEKA akan merevisi target produksi 2026 jika dampaknya membesar dari kisaran 5 sampai 10 persen yang disebutkan saat ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bi-luncurkan-tiga-program-keuangan-syariah-di-isef-2026",
   "category": "Moneter",
   "title": "BI Luncurkan Tiga Program Keuangan [Syariah] di ISEF 2026",
@@ -322,6 +374,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers setting up rows of folding chairs in a large empty seminar hall before an event, soft overhead lighting",
   "takeaway": "Laporan ini netral bagi MERI karena hanya mengonfirmasi dana IPO sudah disalurkan 100 persen sesuai rencana di prospektus, tanpa ada perubahan alokasi atau penyimpangan yang mengubah pandangan investor terhadap perusahaan. Yang tersentuh di sini adalah arus kas perusahaan, karena uang Rp27,4 miliar hasil penjualan saham sudah keluar dari kas induk sebagai setoran modal ke dua anak usaha, sementara di level anak usaha sendiri dana itu baru terpakai sekitar Rp10,1 miliar dari total Rp27,4 miliar untuk biaya operasional, dan sisanya sekitar Rp17,3 miliar baru rencananya dibelanjakan untuk sewa, marketing, SDM dan venue pada tahun berikutnya. Investor perlu memantau laporan realisasi dana berikutnya, yang biasanya disampaikan tiap semester sesuai aturan OJK, untuk memastikan sisa dana itu benar-benar terserap menjadi kegiatan usaha dan tidak mengendap terlalu lama di anak usaha yang belum menghasilkan pendapatan signifikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "prtl-tawarkan-obligasi-rp741-miliar-bunga-7-55-7-65",
+  "category": "Aksi Korporasi",
+  "title": "PRTL tawarkan obligasi [Rp741 miliar], bunga 7,55-7,65%",
+  "deck": "Protelindo (PRTL) merilis perbaikan informasi obligasi berkelanjutan V tahap II senilai Rp741,1 miliar, terbagi dua seri bertenor 3 dan 5 tahun, ditawarkan 14-15 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T07:42:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b53d40a6b2_fad8822bff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRTL",
+  "tags": [
+   "PRTL",
+   "obligasi korporasi",
+   "Protelindo",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Profesional Telekomunikasi Indonesia (PRTL), pemilik merek Protelindo, menyampaikan perbaikan dan tambahan informasi atas Informasi Tambahan Ringkas yang sebelumnya diumumkan 2 Oktober 2026, terkait Obligasi Berkelanjutan V Protelindo Tahap II Tahun 2026. Penerbitan ini merupakan bagian dari program obligasi berkelanjutan dengan target total dana Rp20 triliun, setelah Tahap I senilai Rp1,02 triliun lebih dulu terbit tahun ini. Pada Tahap II, Protelindo akan menerbitkan obligasi dengan jumlah pokok Rp741,1 miliar.",
+   "Obligasi ini dibagi dua seri. Seri A senilai Rp602,9 miliar berbunga tetap 7,55 persen per tahun dengan tenor 3 tahun, sementara Seri B senilai Rp138,2 miliar berbunga 7,65 persen per tahun dengan tenor 5 tahun. Kedua seri membayar bunga setiap tiga bulan, dengan pembayaran bunga pertama pada 20 Januari 2027, dan pokok utang dilunasi sekaligus saat jatuh tempo, yaitu 20 Oktober 2029 untuk Seri A dan 20 Oktober 2031 untuk Seri B. Minimum pemesanan ditetapkan Rp5 juta atau kelipatannya.",
+   "Fitch Ratings Indonesia memberi peringkat AAA, rating tertinggi, untuk obligasi ini, dengan PT Bank Permata Tbk sebagai wali amanat. Masa penawaran berlangsung 14-15 Oktober 2026, penjatahan pada 16 Oktober, dan obligasi dicatatkan di Bursa Efek Indonesia pada 21 Oktober 2026. Perjanjian obligasi tidak memakai jaminan khusus atas aset dan tidak ada penyisihan dana pelunasan, serta memuat pembatasan bagi Protelindo antara lain dalam memberi pinjaman ke afiliasi di atas 20 persen ekuitas, menjual aset dalam jumlah besar, dan membagikan dividen apabila berdampak negatif material terhadap kemampuan bayar utang."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians performing cable maintenance on a steel tower against an overcast sky in rural Indonesia",
+  "takeaway": "Laporan ini netral bagi Protelindo karena hanya melanjutkan program obligasi yang sudah efektif sejak Juni 2026, dan rating AAA dari Fitch menunjukkan kualitas kredit perusahaan tetap dinilai sangat baik meski menambah utang baru. Penerbitan Rp741,1 miliar ini akan menambah beban bunga tahunan sekitar 7,55 sampai 7,65 persen dari nilai tersebut ke laporan keuangan Protelindo, sementara perjanjian wali amanat juga membatasi pembagian dividen apabila kondisi keuangan memburuk, sesuatu yang perlu diperhatikan pemegang saham meski belum tentu terjadi. Yang perlu dipantau berikutnya adalah tanggal penjatahan pada 16 Oktober 2026 dan tanggal pencatatan di Bursa Efek Indonesia pada 21 Oktober 2026, karena keduanya menandakan apakah obligasi ini terserap penuh oleh pasar.",
   "sentimen": "netral"
  },
  {

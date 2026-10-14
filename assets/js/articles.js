@@ -168,6 +168,58 @@ var ARTICLES = [
   "takeaway": "Yang berubah secara konkret adalah hadirnya aturan anti-penghindaran pertama kali dalam regulasi dagang Indonesia, menggantikan PP Nomor 34 Tahun 2011, ditambah kewenangan baru untuk pengamanan bilateral dan regional serta aturan khusus kawasan berikat dan kawasan bebas. Pihak yang terdampak ada di dua sisi, industri dalam negeri yang selama ini dirugikan importir yang mengakali bea antidumping dengan mengubah rute kirim atau negara asal barang, dan pelaku usaha importir atau eksportir yang pola dagangnya kini bisa diperiksa lebih ketat. Siaran pers ini belum menjelaskan prosedur teknis penyelidikan anti-circumvention itu sendiri, sebab PP baru memuat kerangka hukum sementara aturan pelaksana biasanya dituangkan dalam peraturan menteri perdagangan. Yang perlu dipantau adalah apakah Kementerian Perdagangan segera menerbitkan aturan turunan tersebut dan sektor apa yang pertama kali diuji dengan ketentuan baru ini, karena dari situ akan terlihat apakah aturan ini benar-benar dipakai atau sekadar payung hukum yang jarang dieksekusi."
  },
  {
+  "slug": "edge-suntik-modal-rp485-miliar-ke-tiga-anak-usaha-digital",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Suntik [Modal] Rp485 Miliar ke Tiga Anak Usaha Digital",
+  "deck": "PT Indointernet (EDGE) menyuntik modal Rp485 miliar ke tiga anak usaha digitalnya untuk belanja modal, transaksi afiliasi yang dikecualikan dari persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T18:35:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/83bf387811_1a7348f841.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "Transaksi Afiliasi",
+   "Indointernet",
+   "Transaksi Material"
+  ],
+  "body": [
+   "PT Indointernet Tbk (EDGE) melaporkan transaksi afiliasi bernilai material berupa peningkatan modal pada tiga anak usahanya, yaitu PT Digital Gayana Ekagrata (DGE1), PT Digital Gayana Ekaprana (DGE2), dan PT Digital Gayana Ekatama (DGE3), pada 13 Oktober 2026. Rinciannya, DGE1 menerima Rp437 miliar, DGE2 menerima Rp32 miliar, dan DGE3 menerima Rp16 miliar, dengan total suntikan modal mencapai Rp485 miliar. Perseroan menyebut tujuan transaksi ini untuk mendukung kegiatan usaha dan rencana pengembangan ketiga anak usaha tersebut, dalam bentuk belanja modal.",
+   "Berdasarkan laporan keuangan triwulanan per 30 Juni 2026, total ekuitas Perseroan tercatat Rp1.812.956.757.187. Karena nilai transaksi melebihi 20 persen dari ekuitas tersebut, transaksi ini digolongkan sebagai Transaksi Material dan Transaksi Afiliasi. Namun Perseroan menegaskan transaksi ini dikecualikan dari kewajiban menggunakan jasa penilai independen, dengan alasan Indointernet menguasai 99,99 persen dari seluruh modal disetor di DGE, sehingga tergolong transaksi antar perusahaan terkendali yang sahamnya dimiliki minimal 99 persen oleh Perseroan sesuai Pasal 6 ayat (1) huruf b POJK 42 dan Pasal 11 huruf a POJK 17.",
+   "Pihak yang terlibat dalam transaksi ini adalah Perseroan, PT Ekagrata Data Gemilang, dan DGE. Direksi dan Dewan Komisaris Perseroan menyatakan transaksi ini tidak mengandung benturan kepentingan dan tidak berdampak negatif terhadap kondisi keuangan Perseroan. Pemegang saham yang memerlukan informasi tambahan dapat menghubungi Corporate Secretary Perseroan, Jennifer Tiurland."
+  ],
+  "fotoAdegan": "Technicians inspecting server racks inside a modern data center, cool blue indicator lights, neatly bundled cables",
+  "takeaway": "Transaksi ini condong positif bagi EDGE karena menunjukkan Perseroan serius menambah modal kerja anak-anak usahanya untuk belanja modal, bukan sekadar pelaporan administratif tanpa substansi. Yang tersentuh di sini adalah arus kas, yaitu aliran uang masuk dan keluar dari kas perusahaan: Rp485 miliar keluar dari kas Indointernet untuk disuntikkan ke tiga anak usaha, sehingga secara konsolidasi tidak mengubah total ekuitas atau kekayaan bersih grup, tetapi di laporan keuangan induk saja kas berkurang dan nilai investasi di anak usaha bertambah. Nilai transaksi ini melebihi 20 persen dari ekuitas Perseroan yang tercatat Rp1,81 triliun per Juni 2026, sehingga digolongkan Transaksi Material, namun lolos dari kewajiban memakai jasa penilai independen karena Indointernet menguasai hampir seluruh saham, 99,99 persen, di anak usaha penerima modal. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026 Perseroan, untuk melihat apakah suntikan modal ini benar-benar terealisasi menjadi penambahan kapasitas usaha anak perusahaan digitalnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mhki-dana-ipo-rp39-5-miliar-masih-mengendap-di-bank-mandiri",
+  "category": "Aksi Korporasi",
+  "title": "MHKI: Dana IPO Rp39,5 Miliar Masih [Mengendap] di Bank Mandiri",
+  "deck": "Realisasi dana IPO MHKI per 30 Juni 2026 baru mencapai 65,86 persen dari dana bersih Rp115,54 miliar, sisanya Rp39,46 miliar masih berupa deposito di Bank Mandiri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T17:55:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c5402a4133_542c8ab320.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MHKI",
+  "tags": [
+   "MHKI",
+   "Multi Hanna Kreasindo",
+   "penggunaan dana IPO",
+   "laporan keterbukaan"
+  ],
+  "body": [
+   "PT Multi Hanna Kreasindo Tbk (MHKI) menyampaikan laporan realisasi penggunaan dana hasil penawaran umum perdana (IPO) saham yang efektif sejak 28 Maret 2024. Dari dana kotor IPO sebesar Rp120 miliar, setelah dipotong biaya penawaran umum Rp4,46 miliar, dana bersih yang diterima perusahaan adalah Rp115,54 miliar. Per 30 Juni 2026, perusahaan baru merealisasikan penggunaan dana sebesar Rp76,08 miliar atau 65,86 persen dari dana bersih tersebut, sehingga masih tersisa Rp39,46 miliar yang belum terpakai.",
+   "Berdasarkan rincian yang dilaporkan, dana paling banyak dialokasikan untuk pembangunan kantor dan pabrik di Lamongan, dengan rencana Rp48,74 miliar (42,18 persen) dan realisasi Rp48,23 miliar (41,74 persen), sehingga pos ini praktis sudah hampir tuntas. Pembelian peralatan kantor senilai Rp416,20 juta dan modal kerja Rp5,55 miliar juga sudah terealisasi penuh sesuai rencana. Namun sejumlah pos capex masih tertinggal jauh dari target: pembelian mesin yang direncanakan Rp12,96 miliar (11,21 persen) belum terealisasi sama sekali, pembelian peralatan pabrik baru terealisasi Rp1,62 miliar dari rencana Rp9,92 miliar, pembelian kendaraan pengangkutan dan operasional baru Rp1,86 miliar dari rencana Rp5,29 miliar, dan modal kerja untuk unit baru pengolahan bata merah baru terealisasi Rp18,41 miliar dari rencana Rp32,66 miliar.",
+   "Sisa dana Rp39,46 miliar saat ini disimpan dalam bentuk deposito on demand di Bank Mandiri dengan bunga 4,7 persen per tahun, dan Bank Mandiri dicatat sebagai pihak ketiga yang tidak memiliki hubungan afiliasi dengan perusahaan. Laporan ini merupakan revisi atas laporan realisasi periode yang sama yang sebelumnya disampaikan pada 15 Juli 2026, dan ditandatangani oleh Gita Ashari selaku Head of Corporate Secretary & Legal MHKI pada 14 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers stacking rows of red clay bricks at an outdoor industrial yard, half-built factory structure in the background, morning light",
+  "takeaway": "Laporan ini kami nilai netral bagi MHKI: penggunaan dana IPO berjalan sesuai arah rencana di prospektus, tanpa tanda-tanda penyimpangan dana, meski kecepatan realisasinya tidak merata antar pos. Yang tersentuh di sini adalah arus kas investasi dan rencana penambahan kapasitas produksi, karena pos pembelian mesin senilai Rp12,96 miliar yang belum terealisasi sama sekali berarti penambahan kapasitas pabrik tertunda, sementara dana yang belum terpakai sejauh ini hanya mengendap sebagai deposito berbunga 4,7 persen, bukan dipakai untuk ekspansi. Yang perlu dipantau berikutnya adalah laporan realisasi periode selanjutnya untuk melihat apakah pembelian mesin dan peralatan pabrik yang masih tertinggal itu akhirnya terealisasi, mengingat dana bersih IPO harus habis dipakai sesuai rencana prospektus dan pengawasan OJK atas laporan semacam ini bersifat berkelanjutan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "smle-jawab-permintaan-bursa-akui-rugi-semester-i-karena-transisi",
   "category": "Aksi Korporasi",
   "title": "SMLE Jawab Permintaan Bursa, Akui [Rugi] Semester I Karena Transisi",
@@ -668,6 +720,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers walking through an oil palm plantation under a smoky haze-filled sky in rural South Kalimantan, early morning",
   "takeaway": "Laporan ini condong negatif karena JAWA mengonfirmasi tengah dikenai sanksi administratif terkait karhutla tanpa merinci bentuk atau nilai sanksinya, sementara status kemungkinan unplanned shutdown disebut masih dibahas manajemen, bukan benar-benar tertutup. Dari sisi kinerja, eksposurnya kecil karena kebun yang terdampak cuma menyumbang 3,9 persen produksi TBS anak usaha Kintap Jaya Wattindo, jadi potensi dampak langsung ke pendapatan dan laba konsolidasi JAWA terbatas, meski beban kepatuhan dan risiko reputasi dari sanksi lingkungan tetap jadi perhatian pelaku pasar. Yang perlu dipantau selanjutnya adalah kejelasan lebih lanjut soal jenis dan tindak lanjut sanksi administratif tersebut, serta hasil pembahasan manajemen soal kemungkinan unplanned shutdown, karena keduanya bisa mengubah klaim JAWA bahwa karhutla belum berdampak ke operasional.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "kota-tunda-rupslb-pmhmetd-tanpa-jadwal-baru",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Tunda RUPSLB [PMHMETD] Tanpa Jadwal Baru",
+  "deck": "DMS Propertindo menunda lagi RUPSLB yang sedianya digelar 15 Oktober 2026, menunggu kelengkapan tanggapan atas permintaan tambahan informasi dari OJK soal rencana rights issue dan transaksi material.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T10:51:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcecae9082_b5889e1f35.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "PMHMETD",
+   "OJK"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) mengoreksi surat sebelumnya dan mengumumkan bahwa Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula dijadwalkan Kamis, 15 Oktober 2026 pukul 10.00 WIB di Azana Suite Hotel Antasari, ditunda sampai waktu yang akan ditentukan kemudian. Dalam surat nomor 343/DMSP/X/2026 tertanggal 14 Oktober 2026 yang ditandatangani Direktur Gema Pratama, perusahaan menyebut penundaan dilakukan karena masih berlangsungnya proses pemenuhan dan penelaahan atas tambahan permintaan informasi dari Otoritas Jasa Keuangan (OJK).",
+   "Lima agenda yang ikut tertunda meliputi: persetujuan rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD) lewat mekanisme penawaran umum terbatas sesuai POJK 32/2015 jo POJK 14/2019; perubahan Pasal 4 ayat (1) dan (2) anggaran dasar terkait kenaikan modal dasar, modal ditempatkan, dan modal disetor, termasuk penerbitan saham seri baru yaitu saham Seri B; persetujuan rencana transaksi material sesuai POJK 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha; perubahan Pasal 3 anggaran dasar untuk menyesuaikan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025; dan perubahan rencana penggunaan dana hasil Penawaran Umum Perdana Saham (PUPS atau IPO) perusahaan.",
+   "Ini merupakan penundaan kedua dalam waktu kurang dari dua pekan. Sebelumnya pada 5 Oktober 2026 perusahaan sempat menunda RUPSLB, lalu pada 9 Oktober 2026 menjadwalkan ulang ke 15 Oktober 2026, namun kini ditunda lagi tanpa kepastian tanggal pengganti. Surat ditembuskan ke Bursa Efek Indonesia, PT Kustodian Sentral Efek Indonesia, biro administrasi efek PT Bima Registra, notaris, serta kantor akuntan dan penilai yang terlibat dalam proses transaksi."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs in a quiet hotel ballroom, morning light through tall windows, no people",
+  "takeaway": "Laporan ini condong netral tapi perlu diwaspadai, sebab ini penundaan kedua RUPSLB dalam waktu kurang dari dua pekan dan kali ini KOTA bahkan belum punya jadwal pengganti, tanda bahwa proses tinjauan OJK atas rencana perusahaan belum tuntas. Yang tertunda termasuk rencana penambahan modal lewat skema hak memesan efek terlebih dahulu atau PMHMETD, yakni penjualan saham baru kepada pemegang saham lama, yang kalau nanti terlaksana akan menambah jumlah saham beredar dan berpotensi mengecilkan laba per saham setiap pemegang saham lama. Agenda persetujuan transaksi material, yang biasanya berarti akuisisi atau perubahan bisnis dalam skala besar, juga ikut tertunda karena butuh persetujuan pemegang saham lebih dulu. Yang perlu dipantau adalah pengumuman jadwal RUPSLB baru dari KOTA, sebab sampai saat itu rencana penambahan modal dan transaksi material berstatus menggantung tanpa kepastian waktu pelaksanaan.",
+  "sentimen": "netral"
  },
  {
   "slug": "asgr-jadwalkan-rupslb-pada-20-november-2026",

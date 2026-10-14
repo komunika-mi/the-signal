@@ -107,6 +107,38 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "edge-suntik-modal-rp485-miliar-ke-tiga-anak-usaha-digital",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Suntik [Modal] Rp485 Miliar ke Tiga Anak Usaha Digital",
+  "deck": "PT Indointernet (EDGE) menyuntik modal Rp485 miliar ke tiga anak usaha digitalnya untuk belanja modal, transaksi afiliasi yang dikecualikan dari persetujuan RUPS.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "Transaksi Afiliasi",
+   "Indointernet",
+   "Transaksi Material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/83bf387811_1a7348f841.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mhki-dana-ipo-rp39-5-miliar-masih-mengendap-di-bank-mandiri",
+  "category": "Aksi Korporasi",
+  "title": "MHKI: Dana IPO Rp39,5 Miliar Masih [Mengendap] di Bank Mandiri",
+  "deck": "Realisasi dana IPO MHKI per 30 Juni 2026 baru mencapai 65,86 persen dari dana bersih Rp115,54 miliar, sisanya Rp39,46 miliar masih berupa deposito di Bank Mandiri.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MHKI",
+   "Multi Hanna Kreasindo",
+   "penggunaan dana IPO",
+   "laporan keterbukaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c5402a4133_542c8ab320.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smle-jawab-permintaan-bursa-akui-rugi-semester-i-karena-transisi",
   "category": "Aksi Korporasi",
   "title": "SMLE Jawab Permintaan Bursa, Akui [Rugi] Semester I Karena Transisi",
@@ -415,6 +447,22 @@ var ARTICLES = [
    "perkebunan sawit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aa1a70595d_f5874f1e4a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kota-tunda-rupslb-pmhmetd-tanpa-jadwal-baru",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Tunda RUPSLB [PMHMETD] Tanpa Jadwal Baru",
+  "deck": "DMS Propertindo menunda lagi RUPSLB yang sedianya digelar 15 Oktober 2026, menunggu kelengkapan tanggapan atas permintaan tambahan informasi dari OJK soal rencana rights issue dan transaksi material.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "PMHMETD",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcecae9082_b5889e1f35.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6434,54 +6482,6 @@ var ARTICLES = [
    "pergantian direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7fb1cfb14f_0cc990a00a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-low-tuck-kwong-lepas-33-3-juta-saham-divestasi",
-  "category": "Aksi Korporasi",
-  "title": "BYAN: Low Tuck Kwong Lepas 33,3 Juta Saham [Divestasi]",
-  "deck": "Direktur Bayan Resources Low Tuck Kwong melepas 33,3 juta saham secara tidak langsung senilai Rp11.025 per saham untuk divestasi, hak suaranya turun jadi 40,15 persen.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "Bayan Resources",
-   "Low Tuck Kwong",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-6499-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atic-direktur-beli-40-000-saham-senilai-rp17-54-juta",
-  "category": "Aksi Korporasi",
-  "title": "ATIC: Direktur [Beli] 40.000 Saham Senilai Rp17,54 Juta",
-  "deck": "Direktur ATIC Harry Surjanto Hambali membeli 40.000 saham perusahaan senilai sekitar Rp17,54 juta, hak suaranya naik tipis dari 3,17% menjadi 3,18%.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATIC",
-   "insider trading",
-   "direksi",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-3011-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "waran-amrthdch7a-disesuaikan-kgi-usai-dividen-amrt-efektif-14-okt",
-  "category": "Aksi Korporasi",
-  "title": "Waran [AMRTHDCH7A] Disesuaikan KGI Usai Dividen AMRT, Efektif 14 Okt",
-  "deck": "KGI Sekuritas menyesuaikan harga dan rasio pelaksanaan waran terstruktur AMRTHDCH7A akibat dividen tunai AMRT. Hasil rumus baru diumumkan setelah pasar tutup pada 13 Oktober 2026.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HD",
-   "AMRT",
-   "waran terstruktur",
-   "KGI Sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4cbcd8b341_718569427c.pdf",
   "sourceLabel": "IDX"
  }
 ];

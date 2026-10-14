@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ibst-suspensi-dibuka-sementara-untuk-crossing-saham-go-private",
+  "category": "Aksi Korporasi",
+  "title": "IBST: Suspensi Dibuka Sementara untuk [Crossing] Saham Go Private",
+  "deck": "Bursa membuka sementara suspensi saham IBST di pasar negosiasi untuk transaksi crossing pengalihan saham hasil buyback, bagian dari proses go private dan delisting sukarela perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T13:28:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7cff5e0805_90020cebb8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IBST",
+  "tags": [
+   "IBST",
+   "go private",
+   "voluntary delisting",
+   "suspensi saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia membuka sementara penghentian perdagangan saham PT Inti Bangun Sejahtera Tbk (IBST), tapi hanya di pasar negosiasi, mulai Sesi II perdagangan pada Rabu, 14 Oktober 2026 pukul 13.30 WIB. Pembukaan ini khusus untuk melaksanakan transaksi crossing, yaitu transaksi jual beli saham dalam jumlah besar yang sudah disepakati dua pihak dan dieksekusi oleh PT Bahana Sekuritas selaku sekuritas yang ditunjuk IBST. Transaksi ini merupakan pengalihan saham hasil pembelian kembali saham (buyback) yang menjadi bagian dari proses go private dan pencabutan status perusahaan terbuka (voluntary delisting) IBST.",
+   "Permintaan pembukaan sementara ini berasal dari surat IBST nomor 074/IBST-CSY/X/2026 tertanggal 8 Oktober 2026, yang meminta pengangkatan sementara suspensi untuk crossing saham hasil penawaran tender sukarela oleh PT Iforte Solusi Infotek. Saham IBST sendiri sudah berstatus suspensi penuh sejak pengumuman Bursa 20 April 2026, dengan pencabutan suspensi di pasar negosiasi sempat terjadi dua kali sebelumnya, pada 14 Agustus 2026 dan 15 September 2026, untuk keperluan serupa.",
+   "Bursa menegaskan bahwa selama periode pembukaan sementara ini, tidak ada transaksi lain selain crossing yang disebutkan yang diperbolehkan. Begitu transaksi pengalihan saham selesai, atau paling lambat pukul 14.00 WIB pada hari yang sama, Bursa akan kembali menghentikan perdagangan saham IBST di seluruh pasar, baik reguler, tunai, maupun negosiasi."
+  ],
+  "fotoAdegan": "Telecommunication towers silhouetted against a dusk sky above an Indonesian city skyline, wide shot",
+  "takeaway": "Pembukaan suspensi ini netral bagi fundamental IBST, karena sifatnya murni teknis untuk menyelesaikan administrasi transaksi saham, bukan kabar baru soal kinerja atau keuangan perusahaan. Yang tersentuh adalah struktur pemilikan saham, bukan laporan keuangan: pasar negosiasi adalah jalur transaksi saham di luar perdagangan reguler yang dipakai untuk transaksi besar semacam ini, dan crossing berarti saham yang sudah disepakati dua pihak tinggal dicatatkan lewat sistem bursa. Karena ini bagian dari buyback untuk proses go private, porsi saham yang dipegang publik akan terus menyusut, yang pada akhirnya menentukan nasib status tercatat IBST di bursa. Yang perlu dipantau adalah penghentian perdagangan kembali di seluruh pasar pada sesi II hari ini, 14 Oktober 2026, paling lambat pukul 14.00 WIB, serta tahap selanjutnya dari proses voluntary delisting IBST setelah transaksi ini tuntas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cpin-pastikan-tak-ada-aset-di-wilayah-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "CPIN Pastikan Tak Ada Aset di Wilayah [Karhutla]",
+  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia, Charoen Pokphand Indonesia menegaskan tidak memiliki operasional, konsesi, atau aset di wilayah yang terdampak kebakaran hutan dan lahan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T12:46:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71edaebe6e_ac408d6d68.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CPIN",
+  "tags": [
+   "CPIN",
+   "karhutla",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Charoen Pokphand Indonesia Tbk (CPIN) menyampaikan surat Nomor 003/CPIN-023/2026 tertanggal 14 Oktober 2026 yang berisi jawaban atas permintaan penjelasan dari Bursa Efek Indonesia terkait kebakaran hutan dan lahan (karhutla) yang terjadi di sejumlah wilayah Indonesia. Surat ini ditandatangani oleh Hadijanto Kartika selaku corporate secretary perusahaan.",
+   "Dalam jawabannya, CPIN menyatakan bahwa perusahaan dan entitas anaknya tidak memiliki wilayah operasional, konsesi, maupun aset di daerah yang mengalami karhutla. Karena itu, perusahaan menegaskan tidak ada dampak dari kebakaran hutan dan lahan terhadap kegiatan usahanya, sehingga tidak diperlukan strategi mitigasi khusus baik jangka pendek maupun jangka panjang.",
+   "CPIN juga menjawab bahwa perusahaan maupun entitas anak tidak sedang menghadapi dan tidak berpotensi menghadapi proses hukum atau sanksi administratif terkait karhutla, termasuk penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin. Perusahaan menutup penjelasannya dengan menyatakan tidak ada informasi atau fakta material lain soal karhutla yang belum diungkapkan kepada publik."
+  ],
+  "fotoAdegan": "Hazy orange sky with thick smoke drifting over a rural plantation landscape, no people visible, documentary tone.",
+  "takeaway": "Penjelasan ini netral bagi fundamental CPIN, karena isinya semata menegaskan ketidakterpaparan terhadap risiko kebakaran hutan dan lahan, bukan mengumumkan perubahan kinerja, transaksi, atau kondisi keuangan apa pun. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh di sini, tetapi pemegang saham tetap perlu tahu karena ini menyingkirkan satu potensi risiko hukum dan reputasi, yakni kemungkinan sanksi atau gugatan yang bisa mengganggu operasional perusahaan ke depan. Yang perlu dipantau selanjutnya adalah apakah Bursa Efek Indonesia menerima penjelasan tertanggal 14 Oktober 2026 ini sebagai final atau justru meminta klarifikasi tambahan, serta apakah situasi karhutla di Indonesia berkembang sehingga memaksa perusahaan memperbarui pernyataannya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wamenko-daya-beli-bergeser-bukan-melemah",
   "category": "Makroekonomi",
   "title": "Wamenko: Daya Beli [Bergeser], Bukan Melemah",
@@ -57,6 +109,84 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Pertemuan ini sendiri belum menghasilkan kesepakatan dagang baru, yang konkret hanya data lama yang diulang: nilai perdagangan Indonesia-Finlandia baru US$593,3 juta pada 2025, menjadikan Finlandia mitra dagang nonmigas Indonesia yang masih kecil, di urutan ke-110, meski trennya naik 7,76 persen dalam lima tahun terakhir. Yang terdampak langsung adalah eksportir karet, mesin listrik, dan komponen elektronik yang selama ini jadi andalan ke Finlandia, serta UMKM yang berharap mendapat akses pasar Eropa lewat program pendampingan ekspor. Arah besarnya, pertemuan ini tampak jadi bagian dari lobi Indonesia menjelang dua agenda besar, yaitu ratifikasi I-EU CEPA dan aksesi OECD yang ditargetkan selesai pertengahan 2028, bukan hasil akhir itu sendiri. Yang akan menunjukkan apakah lobi ini berbuah nyata adalah apakah I-EU CEPA benar ditandatangani dan diratifikasi dalam waktu dekat seperti yang diharapkan Indonesia.",
   "imageV": "mv7nm256"
+ },
+ {
+  "slug": "smle-targetkan-akuisisi-sinarom-denico-rampung-awal-2027",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Targetkan Akuisisi Sinarom-Denico [Rampung] Awal 2027",
+  "deck": "SMLE menargetkan akuisisi 50% saham Sinarom oleh Denico tuntas Januari-Februari 2027, tapi nilai transaksi dan skema pendanaan masih menunggu kajian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T11:56:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/efad84163d_4f8627a7d4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMLE",
+  "tags": [
+   "SMLE",
+   "akuisisi",
+   "Sinarom",
+   "Denico"
+  ],
+  "body": [
+   "Public Expose Insidentil PT Sinergi Multi Lestarindo Tbk (SMLE) berlangsung Selasa, 13 Oktober 2026 pukul 09.00-09.55 WIB secara daring lewat Zoom Webinar, dihadiri 59 peserta dari kalangan investor, analis, media, dan masyarakat umum. Agenda tunggalnya adalah paparan rencana transaksi akuisisi saham anak usaha, yaitu rencana Denico mengambil 50% saham PT Sinar Aroma Sentosa (Sinarom). Presentasi disampaikan langsung oleh Direktur Utama Siu Min, didampingi Direktur Tanti Royani, Yulia Rosaline, dan Dessy Sarendiani, serta Komisaris Utama Gunawan.",
+   "Dalam sesi tanya jawab, manajemen menyebut proses due diligence ditargetkan selesai akhir 2026 dan keseluruhan transaksi rampung sekitar tiga bulan dari sekarang, dengan harapan tuntas Januari atau Februari 2027 sebelum diajukan ke pemegang saham. Pasca transaksi, kepemilikan Sinarom akan terbagi rata 50% untuk SMLE dan 50% untuk Denico, namun manajemen menegaskan pengendalian operasional tetap berada di tangan SMLE sesuai kesepakatan kedua pihak. Nilai transaksi pengambilan saham itu sendiri belum ditetapkan secara final, Perseroan menyebut akan menggunakan penilaian pihak ketiga independen sebagai salah satu dasar penentuan harga yang wajar. Skema pendanaan untuk akuisisi ini, apakah memakai kas internal, penerbitan saham baru untuk pemegang saham lama, atau sumber pembiayaan lain, juga masih dikaji dan baru akan ditentukan setelah kebutuhan investasi teridentifikasi.",
+   "Soal kapasitas, fasilitas Sinarom saat ini sanggup memproduksi 195 ton per tahun dengan satu shift kerja, atau hingga 583 ton per tahun jika dioperasikan tiga shift, sebelum memperhitungkan potensi penambahan kapasitas pasca bergabung dengan Denico. Manajemen memperkirakan pasar gabungan Denico dan Sinarom sekitar US$70 juta berdasarkan analisis kompetitor yang mereka terima, dan Denico disebut berencana memindahkan sebagian produksi dari Belanda ke Indonesia untuk mendukung ekspansi tersebut. Soal kontribusi Denico, manajemen menyebut seluruh transfer pengetahuan manufaktur, tata letak produksi, bahan baku, hingga formulasi akan dipegang oleh Denico, termasuk pendampingan hingga Sinarom memperoleh sertifikasi IFS dan ISO. Manajemen juga mengakui Sinarom saat ini masih merugi karena belum menjual produk dan baru berada pada tahap investasi serta produksi dalam kapasitas kecil."
+  ],
+  "fotoAdegan": "Workers in white coats monitoring stainless steel mixing tanks inside a small fragrance ingredients factory, morning shift",
+  "takeaway": "Laporan ini netral bagi SMLE, sebab yang diungkap dalam sesi tanya jawab ini baru klarifikasi arah rencana, bukan keputusan final, karena nilai transaksi dan skema pendanaan akuisisi 50% saham Sinarom oleh Denico masih menunggu hasil due diligence dan penilai independen. Yang perlu dicermati adalah dari mana SMLE akan membiayai porsi investasinya, karena kalau dipenuhi lewat penerbitan saham baru, jumlah saham beredar bertambah dan laba yang didapat setiap pemegang saham bisa mengecil sebab kuenya dibagi ke lebih banyak lembar saham. Pos lain yang tersentuh adalah ekuitas dan arus kas SMLE ke depan, mengingat Sinarom saat ini masih merugi dan belum menjual produk sama sekali, sehingga dana yang masuk belum tentu langsung berbuah pendapatan. Yang perlu dipantau berikutnya adalah penyelesaian due diligence yang ditargetkan akhir 2026 dan penetapan nilai transaksi final, dengan target keseluruhan akuisisi rampung Januari atau Februari 2027 sebelum diajukan ke pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hrta-ajukan-private-placement-10-saham-baru-rups-16-oktober",
+  "category": "Aksi Korporasi",
+  "title": "HRTA ajukan private placement [10%] saham baru, RUPS 16 Oktober",
+  "deck": "Hartadinata Abadi berencana menerbitkan hingga 460,5 juta saham baru tanpa hak memesan efek terlebih dahulu untuk beli bahan baku emas, menunggu persetujuan RUPS Independen 16 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T11:49:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/411e1e219e_889e1029fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRTA",
+  "tags": [
+   "HRTA",
+   "Hartadinata Abadi",
+   "private placement",
+   "RUPS Independen"
+  ],
+  "body": [
+   "PT Hartadinata Abadi Tbk (HRTA) menyampaikan perubahan dan tambahan informasi atas rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) melalui penempatan terbatas atau private placement. Perseroan berencana menerbitkan sebanyak-banyaknya 460.526.240 saham biasa baru dengan nilai nominal Rp100 per saham, atau setara maksimal 10 persen dari total modal disetor saat ini. Rencana ini sebelumnya sudah diumumkan pada 9 September 2026, dan kini diperbarui menjelang Rapat Umum Pemegang Saham Luar Biasa yang dihadiri pemegang saham independen, yang dijadwalkan Jumat, 16 Oktober 2026.",
+   "Seluruh dana yang diperoleh dari penerbitan saham baru ini akan dipakai sebagai modal kerja, khususnya untuk membeli bahan baku emas berbentuk butiran atau batang dari pihak-pihak yang bukan afiliasi perusahaan. Pemasok bahan baku itu harus tercatat dalam MinerbaOne, basis data yang dikelola Kementerian Energi dan Sumber Daya Mineral untuk mengawasi perdagangan hasil tambang mineral dan batubara. Bahan baku tersebut selanjutnya akan diolah menjadi produk perhiasan dan emas batangan yang dijual Perseroan.",
+   "Perseroan juga mengungkapkan bahwa rencana ini telah mendapat persetujuan dari tiga bank kreditur karena berkaitan dengan perjanjian fasilitas yang sedang berjalan: PT Bank Rakyat Indonesia (Persero) Tbk menyetujui pada 23 September 2026 terkait fasilitas pinjaman berjangka, PT Bank Permata Tbk menyetujui pada tanggal yang sama terkait potensi perubahan pemegang saham, dan PT Bank Mandiri (Persero) Tbk menyetujui pada 5 Oktober 2026 terkait perubahan anggaran dasar. Hartadinata Abadi menyebutkan belum pernah melakukan PMTHMETD sebelumnya dan sampai laporan ini terbit, belum ada keberatan dari pihak manapun atas rencana tersebut."
+  ],
+  "fotoAdegan": "Technicians handling molten gold at an industrial jewelry manufacturing line, protective gear, warm furnace glow, Indonesia",
+  "takeaway": "Rencana ini condong netral bagi pemegang saham: dananya dipakai untuk kebutuhan modal kerja yang wajar, yaitu membeli bahan baku emas, tapi porsi saham baru yang bisa mencapai 10 persen tergolong cukup besar untuk ikut diperhitungkan, bukan sekadar catatan administratif. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, karena begitu saham baru ini terbit, keuntungan perusahaan akan dibagi ke lebih banyak lembar saham sehingga porsi laba untuk setiap saham lama berpotensi mengecil, sementara di sisi lain perusahaan mendapat dana segar tanpa harus menambah utang baru ke bank. Dokumen ini juga belum menyebutkan siapa yang akan membeli saham baru tersebut dan berapa harganya, sehingga dampak sebenarnya terhadap struktur pemegang saham belum bisa dipastikan. Yang perlu dipantau pemegang saham adalah hasil Rapat Umum Pemegang Saham Luar Biasa dengan pemegang saham independen pada Jumat, 16 Oktober 2026, karena rencana ini baru bisa berjalan setelah mendapat restu dari rapat tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jawa-akui-kena-sanksi-administratif-terkait-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "JAWA akui kena [sanksi] administratif terkait karhutla",
+  "deck": "JAWA menjelaskan ke bursa bahwa kebun anak usahanya di Tanah Laut, Kalimantan Selatan, terdampak isu karhutla nasional, dan mengakui tengah dikenai sanksi administratif terkait kebakaran hutan dan lahan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T11:40:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aa1a70595d_f5874f1e4a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JAWA",
+  "tags": [
+   "JAWA",
+   "karhutla",
+   "sanksi administratif",
+   "perkebunan sawit"
+  ],
+  "body": [
+   "Jaya Agra Wattie Tbk (JAWA) menjawab permintaan penjelasan Bursa Efek Indonesia nomor S-13048/BEI.PP1/10-2026 soal meningkatnya kejadian kebakaran hutan dan lahan (karhutla) di sejumlah wilayah Indonesia. Dalam surat bernomor 040/JAW/CORSEC/X/2026 yang diteken Sekretaris Perusahaan Harli Wijayadi, JAWA mengonfirmasi memiliki aset perkebunan di Desa Raden (Kecamatan Kurau) dan Desa Ranggang Dalam (Kecamatan Takisung), Kabupaten Tanah Laut, Kalimantan Selatan, yang dikelola oleh anak usaha PT Kintap Jaya Wattindo melalui Kebun Pelaihari I dan Kebun Pelaihari II. Kontribusi produksi tandan buah segar (TBS) dari dua kebun itu hanya 3,9 persen dari total produksi TBS yang dimiliki Kintap Jaya Wattindo, dan seluruhnya dipasok ke pabrik sendiri untuk diolah menjadi CPO tanpa dijual ke pihak luar.",
+   "Perusahaan menyatakan karhutla tidak berdampak pada kegiatan operasional, sehingga target produksi tahun 2026 serta proyeksi pendapatan, laba, dan nilai aset tetap mengikuti rencana yang sudah disampaikan dalam laporan tahunan. JAWA juga mengklaim belum ada unplanned shutdown atau penghentian operasional mendadak di lokasi sitenya, meski menambahkan bahwa kemungkinan itu masih dalam pembahasan manajemen. Sebagai mitigasi, perusahaan menyebut melakukan pemantauan berkala kondisi perkebunan, menempatkan staf lapangan untuk inspeksi langsung, berkoordinasi dengan satuan tugas karhutla, serta telah memiliki sarana dan prasarana penanggulangan kebakaran.",
+   "Poin yang perlu digarisbawahi, JAWA mengakui bahwa perseroan telah dikenakan sanksi administratif terkait kejadian karhutla, meski tidak merinci jenis sanksi, instansi pemberi sanksi, atau tanggal kejadiannya. Perusahaan hanya menegaskan bahwa sanksi tersebut tidak berdampak terhadap kelangsungan usahanya. JAWA juga menyatakan tidak ada informasi atau fakta material lain terkait karhutla yang belum diungkapkan ke publik, dan berjanji akan mengungkapkannya jika ada perkembangan baru di kemudian hari."
+  ],
+  "fotoAdegan": "Workers walking through an oil palm plantation under a smoky haze-filled sky in rural South Kalimantan, early morning",
+  "takeaway": "Laporan ini condong negatif karena JAWA mengonfirmasi tengah dikenai sanksi administratif terkait karhutla tanpa merinci bentuk atau nilai sanksinya, sementara status kemungkinan unplanned shutdown disebut masih dibahas manajemen, bukan benar-benar tertutup. Dari sisi kinerja, eksposurnya kecil karena kebun yang terdampak cuma menyumbang 3,9 persen produksi TBS anak usaha Kintap Jaya Wattindo, jadi potensi dampak langsung ke pendapatan dan laba konsolidasi JAWA terbatas, meski beban kepatuhan dan risiko reputasi dari sanksi lingkungan tetap jadi perhatian pelaku pasar. Yang perlu dipantau selanjutnya adalah kejelasan lebih lanjut soal jenis dan tindak lanjut sanksi administratif tersebut, serta hasil pembahasan manajemen soal kemungkinan unplanned shutdown, karena keduanya bisa mengubah klaim JAWA bahwa karhutla belum berdampak ke operasional.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bni-bukukan-penjualan-agunan-rp510-77-miliar",
@@ -164,6 +294,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers setting up rows of folding chairs in a large empty seminar hall before an event, soft overhead lighting",
   "takeaway": "Laporan ini netral bagi MERI karena hanya mengonfirmasi dana IPO sudah disalurkan 100 persen sesuai rencana di prospektus, tanpa ada perubahan alokasi atau penyimpangan yang mengubah pandangan investor terhadap perusahaan. Yang tersentuh di sini adalah arus kas perusahaan, karena uang Rp27,4 miliar hasil penjualan saham sudah keluar dari kas induk sebagai setoran modal ke dua anak usaha, sementara di level anak usaha sendiri dana itu baru terpakai sekitar Rp10,1 miliar dari total Rp27,4 miliar untuk biaya operasional, dan sisanya sekitar Rp17,3 miliar baru rencananya dibelanjakan untuk sewa, marketing, SDM dan venue pada tahun berikutnya. Investor perlu memantau laporan realisasi dana berikutnya, yang biasanya disampaikan tiap semester sesuai aturan OJK, untuk memastikan sisa dana itu benar-benar terserap menjadi kegiatan usaha dan tidak mengendap terlalu lama di anak usaha yang belum menghasilkan pendapatan signifikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bata-panggil-rupslb-5-november-agenda-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "BATA Panggil RUPSLB 5 November, Agenda [Perubahan] Direksi",
+  "deck": "Sepatu Bata Tbk mengundang pemegang saham ke RUPSLB 5 November 2026 dengan agenda tunggal persetujuan perubahan susunan direksi perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T06:14:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/018e89eced_44ebb370e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BATA",
+  "tags": [
+   "BATA",
+   "RUPSLB",
+   "Direksi",
+   "Sepatu Bata"
+  ],
+  "body": [
+   "PT Sepatu Bata Tbk memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 5 November 2026, pukul 14.00 WIB di Gedung Ventura Lantai 7, Jl. R.A. Kartini No.26, Cilandak Barat, Jakarta Selatan. Agenda tunggal rapat ini adalah persetujuan pengangkatan kembali atau perubahan susunan direksi perseroan, dengan rujukan Pasal 94 dan 111 Undang-Undang Perseroan Terbatas yang mengatur kewenangan RUPS untuk mengangkat, mengganti, dan memberhentikan anggota direksi serta dewan komisaris. Dokumen pemanggilan tidak menyebutkan nama anggota direksi yang akan diganti atau diangkat, sehingga keputusan konkretnya baru akan muncul saat rapat berlangsung. Pemegang saham yang berhak hadir adalah yang namanya tercatat sah dalam Daftar Pemegang Saham per 13 Oktober 2026 pukul 16.00 WIB.",
+   "Bagi pemegang saham yang tidak bisa hadir langsung, perseroan membuka dua jalur pemberian kuasa. Pemegang saham dengan saham tanpa warkat (scripless) bisa memberi kuasa secara elektronik melalui sistem e-ASY.KSEI di akses.ksei.co.id, yang dibuka sejak tanggal pemanggilan ini sampai 5 November 2026 pukul 12.00 WIB. Pemegang saham dengan saham fisik (warkat) harus mengirim surat kuasa asli beserta fotokopi identitas ke kantor biro administrasi efek PT Bima Registra di Satrio Tower, Kuningan Timur, Jakarta Selatan, atau menguasakan pihak lain yang bukan anggota direksi, komisaris, atau karyawan perseroan, paling lambat 2 November 2026 pukul 16.00 WIB.",
+   "Perseroan menegaskan tidak akan menyediakan makanan, minuman, goodie bag, maupun materi rapat dalam bentuk cetak atau flash disk kepada peserta yang hadir. Materi dan dokumen terkait agenda RUPSLB hanya bisa diperoleh dengan mengirim permintaan lewat email ke id.corporate-secretary@bata.com. Pemegang saham atau kuasanya diminta hadir paling lambat pukul 13.30 WIB karena rapat dimulai tepat pukul 14.00 WIB dan siapa pun yang datang setelah jam tersebut tidak akan diizinkan masuk."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a corporate meeting hall, soft morning light through tall windows",
+  "takeaway": "Laporan ini netral karena pemanggilan RUPSLB hanya membuka proses formal pergantian direksi tanpa menyebut nama yang diganti atau diangkat, sehingga arah dampaknya terhadap bisnis Sepatu Bata belum bisa dinilai. Komposisi direksi menentukan siapa yang mengambil keputusan operasional dan strategi perusahaan sehari-hari, jadi pelaku pasar biasanya menunggu nama definitif sebelum menilai apakah pergantian ini membawa perubahan arah bisnis atau sekadar rotasi rutin. Yang perlu dipantau adalah hasil RUPSLB pada 5 November 2026, termasuk siapa yang akhirnya disetujui menjabat, serta batas waktu pemberian kuasa fisik pada 2 November 2026 pukul 16.00 WIB bagi pemegang saham yang tidak hadir langsung.",
   "sentimen": "netral"
  },
  {

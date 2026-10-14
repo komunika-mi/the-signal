@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ibst-suspensi-dibuka-sementara-untuk-crossing-saham-go-private",
+  "category": "Aksi Korporasi",
+  "title": "IBST: Suspensi Dibuka Sementara untuk [Crossing] Saham Go Private",
+  "deck": "Bursa membuka sementara suspensi saham IBST di pasar negosiasi untuk transaksi crossing pengalihan saham hasil buyback, bagian dari proses go private dan delisting sukarela perseroan.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IBST",
+   "go private",
+   "voluntary delisting",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7cff5e0805_90020cebb8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cpin-pastikan-tak-ada-aset-di-wilayah-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "CPIN Pastikan Tak Ada Aset di Wilayah [Karhutla]",
+  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia, Charoen Pokphand Indonesia menegaskan tidak memiliki operasional, konsesi, atau aset di wilayah yang terdampak kebakaran hutan dan lahan.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CPIN",
+   "karhutla",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71edaebe6e_ac408d6d68.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wamenko-daya-beli-bergeser-bukan-melemah",
   "category": "Makroekonomi",
   "title": "Wamenko: Daya Beli [Bergeser], Bukan Melemah",
@@ -37,6 +69,54 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dan-finlandia-perkuat-ekosistem-inovasi-dan-perusahaan-rintisan",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "smle-targetkan-akuisisi-sinarom-denico-rampung-awal-2027",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Targetkan Akuisisi Sinarom-Denico [Rampung] Awal 2027",
+  "deck": "SMLE menargetkan akuisisi 50% saham Sinarom oleh Denico tuntas Januari-Februari 2027, tapi nilai transaksi dan skema pendanaan masih menunggu kajian.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMLE",
+   "akuisisi",
+   "Sinarom",
+   "Denico"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/efad84163d_4f8627a7d4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hrta-ajukan-private-placement-10-saham-baru-rups-16-oktober",
+  "category": "Aksi Korporasi",
+  "title": "HRTA ajukan private placement [10%] saham baru, RUPS 16 Oktober",
+  "deck": "Hartadinata Abadi berencana menerbitkan hingga 460,5 juta saham baru tanpa hak memesan efek terlebih dahulu untuk beli bahan baku emas, menunggu persetujuan RUPS Independen 16 Oktober 2026.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRTA",
+   "Hartadinata Abadi",
+   "private placement",
+   "RUPS Independen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/411e1e219e_889e1029fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jawa-akui-kena-sanksi-administratif-terkait-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "JAWA akui kena [sanksi] administratif terkait karhutla",
+  "deck": "JAWA menjelaskan ke bursa bahwa kebun anak usahanya di Tanah Laut, Kalimantan Selatan, terdampak isu karhutla nasional, dan mengakui tengah dikenai sanksi administratif terkait kebakaran hutan dan lahan.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JAWA",
+   "karhutla",
+   "sanksi administratif",
+   "perkebunan sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aa1a70595d_f5874f1e4a.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bni-bukukan-penjualan-agunan-rp510-77-miliar",
@@ -105,6 +185,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9f22224014_34246903c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bata-panggil-rupslb-5-november-agenda-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "BATA Panggil RUPSLB 5 November, Agenda [Perubahan] Direksi",
+  "deck": "Sepatu Bata Tbk mengundang pemegang saham ke RUPSLB 5 November 2026 dengan agenda tunggal persetujuan perubahan susunan direksi perseroan.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BATA",
+   "RUPSLB",
+   "Direksi",
+   "Sepatu Bata"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/018e89eced_44ebb370e7.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6387,103 +6483,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-1533-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bbtn-resmi-catatkan-obligasi-sosial-rp2-triliun-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "BBTN resmi catatkan [obligasi] sosial Rp2 triliun di BEI",
-  "deck": "Bank BTN mencatatkan Obligasi Berwawasan Sosial Berkelanjutan I Tahap II senilai Rp2 triliun di Bursa Efek Indonesia, bagian dari program payung Rp10 triliun.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBTN",
-   "obligasi",
-   "BEI",
-   "obligasi berkelanjutan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/499da5d06a_67e5c97a79.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "admf-catat-obligasi-dan-sukuk-baru-rp2-15-triliun",
-  "category": "Aksi Korporasi",
-  "title": "ADMF Catat Obligasi dan Sukuk Baru [Rp2,15 Triliun]",
-  "deck": "Adira Finance mencatatkan obligasi Rp1,65 triliun dan sukuk mudharabah Rp500 miliar tahap IV di BEI, bunga 7,10-7,35 persen per tahun, jatuh tempo 2027-2029.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMF",
-   "obligasi korporasi",
-   "sukuk mudharabah",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/19e710f64d_e4dce9ff24.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tebe-laba-bersih-turun-27-6-ke-rp20-1-miliar-di-s1-2026",
-  "category": "Aksi Korporasi",
-  "title": "TEBE: Laba Bersih [Turun] 27,6% ke Rp20,1 Miliar di S1 2026",
-  "deck": "Dana Brata Luhur menjelaskan ke BEI penyebab laba turun 27,6 persen dan volume bongkar muat batubara anjlok 24 persen di semester I 2026, di tengah RKAB yang baru disetujui pemerintah.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEBE",
-   "batubara",
-   "laporan keuangan",
-   "keterbukaan informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/845099d983_41e94ac6ce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpkh-umumkan-tiga-pemenang-inkubasi-startup-digital-haji",
-  "category": "Teknologi",
-  "title": "BPKH Umumkan Tiga Pemenang Inkubasi Startup [Digital] Haji",
-  "deck": "BPKH dan Goodstarter umumkan tiga pemenang inkubasi startup digital haji: fintech tabungan mikro pedesaan, pemantau kesehatan jemaah, dan pelacak keselamatan berbasis IoT.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/bpkh-umumkan-tiga-pemenang-inkubasi-startup-digital-haji.jpg",
-  "imageV": "muwxz5gl",
-  "tags": [
-   "BPKH",
-   "haji",
-   "startup digital",
-   "fintech syariah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471614-dorong-ekosistem-haji-berkelanjutan-bpkh-lahirkan-beragam-inovasi-digital-kaum-muda"
- },
- {
-  "slug": "post-akui-gagal-bayar-bunga-obligasi-likuiditas-tekan-rp83-m",
-  "category": "Aksi Korporasi",
-  "title": "POST Akui [Gagal Bayar] Bunga Obligasi, Likuiditas Tekan Rp83 M",
-  "deck": "Pos Indonesia menunda pembayaran bunga Obligasi I Seri B ke-15 senilai Rp11,75 miliar setelah likuiditasnya hanya menutupi 85,27 persen kewajiban jangka pendek.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "obligasi",
-   "likuiditas",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/35621c8c72_0bed1b518e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-luncurkan-gadai-bebas-sewa-modal-untuk-nasabah-baru",
-  "category": "Perbankan",
-  "title": "Pegadaian Luncurkan Gadai [Bebas] Sewa Modal untuk Nasabah Baru",
-  "deck": "Pegadaian menghapus sewa modal gadai bagi nasabah baru untuk pinjaman Rp50.000 hingga Rp1 juta bertenor 30 hari, berlaku di seluruh gerai mulai 28 September 2026.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/pegadaian-luncurkan-gadai-bebas-sewa-modal-untuk-nasabah-baru.jpg",
-  "imageV": "muwultsv",
-  "tags": [
-   "Pegadaian",
-   "gadai",
-   "kredit mikro",
-   "inklusi keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471602-pegadaian-luncurkan-program-gadai-bebas-sewa-modal-khusus-nasabah-baru-bantu-masyarakat-akses-dana-cepat-tanpa-bunga"
  }
 ];

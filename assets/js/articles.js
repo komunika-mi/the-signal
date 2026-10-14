@@ -562,6 +562,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "inpp-suntik-modal-rp484-miliar-ke-tiga-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "INPP Suntik [Modal] Rp484 Miliar ke Tiga Anak Usaha",
+  "deck": "Perseroan menambah modal disetor di tiga anak usahanya, PKS, IGM, dan PSM, senilai total Rp483,97 miliar guna memperkuat struktur permodalan tanpa mengubah kepemilikan publik INPP.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T13:25:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b7ce29c6f8_f6cacd5f5b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPP",
+  "tags": [
+   "INPP",
+   "Transaksi Afiliasi",
+   "Modal Disetor",
+   "Anak Usaha"
+  ],
+  "body": [
+   "Indonesian Paradise Property Tbk (INPP) menambah modal disetor di tiga anak usahanya, PT Praba Kumala Sajati (PKS), PT Indonesia Gemilang Mahasentosa (IGM), dan PT Paloma Suasa Manajemen (PSM), senilai total Rp483,97 miliar. Transaksi yang berlangsung pada 12 Oktober 2026 ini tercatat sebagai transaksi afiliasi karena dilakukan antara perseroan dan entitas anak yang hampir seluruh sahamnya, sekitar 99,99 persen, dimiliki oleh INPP sendiri. Perseroan menyebut tujuan penambahan modal ini untuk memperkuat struktur permodalan dan kapasitas keuangan ketiga anak usaha guna mendukung kegiatan operasional yang sedang berjalan.",
+   "Penambahan modal terbesar mengalir ke IGM, yang modal disetornya melonjak dari Rp100 juta menjadi Rp445,6 miliar setelah INPP menyuntikkan 445.499.221 lembar saham baru senilai Rp445,5 miliar. PSM juga mendapat suntikan besar, dari modal disetor Rp100 juta menjadi Rp38,2 miliar lewat tambahan 38.098.198 lembar saham senilai Rp38,1 miliar. Sementara itu, PKS yang modalnya sejak awal sudah jauh lebih besar hanya menerima tambahan kecil berupa 3.690 lembar saham senilai Rp369 juta, membuat modal disetornya naik dari Rp156,56 miliar menjadi Rp156,93 miliar.",
+   "Meski nilainya besar, komposisi kepemilikan di tiga anak usaha itu praktis tidak berubah. Kepemilikan INPP di IGM naik tipis dari 99,999 persen menjadi 99,9999 persen, di PSM dari 99,900 persen menjadi 99,9997 persen, dan di PKS dari 99,995 persen menjadi 99,9952 persen. Dewan komisaris dan direksi INPP menyatakan transaksi ini tidak mengandung benturan kepentingan dan bukan transaksi material sesuai POJK 17/2020, sehingga tidak memerlukan persetujuan pemegang saham lewat RUPS."
+  ],
+  "fotoAdegan": "Housekeeping staff pushing a linen cart down a tropical hotel corridor past room doors, soft morning light",
+  "takeaway": "Transaksi ini tergolong netral bagi pemegang saham publik INPP, sebab dana yang disuntikkan berasal dari dalam grup sendiri dan tidak mengubah porsi kepemilikan publik di perusahaan induk. Yang tersentuh adalah modal disetor dan ekuitas di level anak usaha, terutama IGM yang melonjak dari Rp100 juta menjadi Rp445,6 miliar dan PSM dari Rp100 juta menjadi Rp38,2 miliar, hal yang biasa diperhatikan pasar karena permodalan lebih kuat berarti anak usaha punya bantalan lebih tebal untuk membiayai operasional atau mengajukan pinjaman tanpa harus menambah utang baru. Karena ini transaksi internal grup, ekuitas konsolidasi INPP sendiri tidak bertambah, hanya berpindah dari kas atau pos lain perseroan ke modal anak usaha. Perseroan menegaskan transaksi ini tidak material dan tidak ada benturan kepentingan, sehingga tidak ada RUPS atau persetujuan independen yang perlu ditunggu. Yang masih layak dipantau adalah laporan keuangan kuartal berikutnya, untuk melihat apakah suntikan modal ini benar-benar terpakai mendukung kinerja operasional IGM dan PSM, dua entitas yang permodalannya naik paling tajam.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "cpin-pastikan-tak-ada-aset-di-wilayah-karhutla",
   "category": "Aksi Korporasi",
   "title": "CPIN Pastikan Tak Ada Aset di Wilayah [Karhutla]",

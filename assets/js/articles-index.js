@@ -352,6 +352,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "inpp-suntik-modal-rp484-miliar-ke-tiga-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "INPP Suntik [Modal] Rp484 Miliar ke Tiga Anak Usaha",
+  "deck": "Perseroan menambah modal disetor di tiga anak usahanya, PKS, IGM, dan PSM, senilai total Rp483,97 miliar guna memperkuat struktur permodalan tanpa mengubah kepemilikan publik INPP.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPP",
+   "Transaksi Afiliasi",
+   "Modal Disetor",
+   "Anak Usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b7ce29c6f8_f6cacd5f5b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cpin-pastikan-tak-ada-aset-di-wilayah-karhutla",
   "category": "Aksi Korporasi",
   "title": "CPIN Pastikan Tak Ada Aset di Wilayah [Karhutla]",
@@ -6466,22 +6482,6 @@ var ARTICLES = [
    "kepemilikan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-2149-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inaf-panggil-rupslb-ubah-susunan-pengurus",
-  "category": "Aksi Korporasi",
-  "title": "INAF Panggil RUPSLB Ubah Susunan [Pengurus]",
-  "deck": "Indofarma memanggil RUPSLB pada 29 Oktober 2026 dengan agenda tunggal perubahan susunan direksi dan/atau komisaris, calonnya ditentukan pemegang Saham Seri A Dwiwarna.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INAF",
-   "RUPSLB",
-   "Indofarma",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7fb1cfb14f_0cc990a00a.pdf",
   "sourceLabel": "IDX"
  }
 ];

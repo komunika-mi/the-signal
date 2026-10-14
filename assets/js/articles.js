@@ -3,6 +3,117 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekspor-nikel-ditargetkan-usd45-miliar-pada-2026",
+  "category": "Industri",
+  "title": "Ekspor Nikel Ditargetkan [USD45 Miliar] pada 2026",
+  "deck": "Pemerintah menaikkan target ekspor nikel olahan menjadi USD45 miliar pada 2026, melanjutkan tren sejak ekspor bijih mentah dihentikan dan smelter dibangun di dalam negeri.",
+  "image": "assets/img/ekspor-nikel-ditargetkan-usd45-miliar-pada-2026.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T14:06:55.877Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/ekspor-nikel-ditargetkan-tembus-usd45-miliar-pada-2026-menko-bahlil-hilirisasi-kunci-kemandirian-ekonomi",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "nikel",
+   "hilirisasi",
+   "ekspor",
+   "ESDM"
+  ],
+  "body": [
+   "Pemerintah menetapkan target ekspor nikel nasional minimal USD45 miliar pada 2026, naik dari capaian 2025 yang disebut melampaui USD40 miliar. Target ini disampaikan Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga menjabat Menteri ESDM, Bahlil Lahadalia, saat mewakili Presiden Prabowo Subianto membuka Trade Expo Indonesia ke-41 di Tangerang, Rabu (14/10). Bagi pelaku usaha dan investor di sektor pengolahan mineral, target ini menegaskan bahwa arah kebijakan pembatasan ekspor bahan mentah akan terus berlanjut.",
+   "Menurut catatan pemerintah, nilai ekspor nikel olahan Indonesia melonjak signifikan sejak larangan ekspor bijih nikel mentah diberlakukan dan industri pengolahan di dalam negeri dibangun. Dari sekitar USD3,3 miliar pada 2017-2018, angkanya naik menjadi USD34 miliar pada 2023, lalu disebut menembus USD40 miliar pada 2025. Pemerintah menjadikan tren kenaikan ini sebagai dasar penetapan target tahun depan.",
+   "Bahlil menyebut hilirisasi, yakni kebijakan mengolah sumber daya alam di dalam negeri sebelum diekspor, sebagai bagian penting transformasi struktur ekonomi Indonesia. Ia mengklaim kebijakan ini turut menumbuhkan industri pendukung, membuka ruang bagi pengusaha nasional, mendorong penguasaan teknologi, dan menciptakan lapangan kerja, meski klaim-klaim dampak tersebut tidak disertai angka terukur dalam keterangannya.",
+   "Pemerintah juga menyiapkan peta jalan hilirisasi hingga 2040 dengan target investasi USD618 miliar, mencakup sektor di luar mineral dan batu bara seperti minyak dan gas bumi, kehutanan, perikanan, serta pertanian. Menurut Bahlil, perluasan ini menunjukkan ambisi pemerintah menerapkan pola hilirisasi nikel ke komoditas lain untuk memperkuat posisi Indonesia dalam rantai pasok global."
+  ],
+  "fotoAdegan": "Workers monitoring glowing molten metal flow at a nickel smelting plant, protective gear, industrial steam, Indonesia",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-ekspor-nikel-ditargetkan-tembus-usd45-miliar-pada-2026-menko-bahlil-hilirisasi-kunci-kemandirian-ekonomi-e7s1mpw.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini bukan cuma target ekspor nikel naik dari sekitar USD40 miliar tahun ini menjadi USD45 miliar tahun depan, tapi rencana pemerintah menerapkan pola yang sama ke sektor lain. Pola itu sederhana, larang kirim bahan mentah ke luar negeri, wajibkan diolah dulu di dalam negeri, baru diekspor sebagai barang jadi yang harganya lebih mahal. Kalau peta jalan hilirisasi sampai 2040 senilai USD618 miliar itu benar dijalankan, yang terdampak bukan cuma perusahaan tambang nikel dan pekerjanya, tapi juga pelaku usaha di sektor minyak dan gas, kehutanan, perikanan, dan pertanian yang disebut masuk cakupan rencana itu. Arahnya tampak jelas, yaitu memperluas resep nikel ke komoditas lain, dan yang akan membuktikan keseriusannya adalah apakah pemerintah benar menerbitkan aturan pembatasan ekspor serupa untuk komoditas-komoditas itu, bukan sekadar menyebutnya dalam pidato pembukaan pameran dagang.",
+  "imageV": "mv86y6mz"
+ },
+ {
+  "slug": "mendag-serahkan-50-penghargaan-ekspor-di-pembukaan-tei-2026",
+  "category": "Bisnis",
+  "title": "Mendag Serahkan [50] Penghargaan Ekspor di Pembukaan TEI 2026",
+  "deck": "Kemendag memberi 50 penghargaan Primaniyarta dan Primaduta 2026 kepada eksportir dan mitra dagang, bersamaan dengan surplus dagang Agustus yang melonjak ke US$3,55 miliar.",
+  "image": "assets/img/mendag-serahkan-50-penghargaan-ekspor-di-pembukaan-tei-2026.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T14:06:52.289Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/apresiasi-kinerja-ekspor-mendag-busan-serahkan-50-penghargaan-primaniyarta-dan-primaduta-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ekspor",
+   "Kemendag",
+   "neraca dagang",
+   "Trade Expo Indonesia"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso menyerahkan penghargaan Primaniyarta dan Primaduta 2026 kepada 50 penerima, terdiri dari eksportir, kepala daerah, mitra dagang, dan perwakilan Indonesia di luar negeri. Penyerahan dilakukan dalam pembukaan Trade Expo Indonesia ke-41 dan TEI Night di ICE BSD City, Kabupaten Tangerang, pada Rabu (14/10). Penghargaan ini jadi cara pemerintah menandai pelaku usaha yang dinilai berperan dalam kinerja ekspor nasional.",
+   "Primaniyarta diberikan kepada 20 penerima dalam delapan kategori, termasuk kategori khusus untuk eksportir yang memanfaatkan perjanjian dagang bebas atau FTA, yakni kesepakatan yang memberi keringanan tarif ke negara mitra. Primaduta diberikan kepada 30 penerima dalam delapan kategori, termasuk kategori khusus untuk buyer yang menambah pembelian ke negara yang sudah atau sedang menjajaki perjanjian dagang dengan Indonesia. Dua penerima yang disorot adalah Daniel Ferri Sutanto dari CV Spice Solution Indonesia, yang mengekspor ke sekitar 30 negara termasuk Spanyol, Portugal, Argentina, dan Eropa Timur, serta Sulianto, Country Head TPI Importaciones Mexico, importir produk Indonesia di Meksiko.",
+   "Kemendag mengaitkan penghargaan ini dengan data neraca dagang terbaru. Pada Agustus 2026, selisih nilai ekspor dan impor Indonesia mencatat surplus US$3,55 miliar, melonjak dari surplus Juli yang hanya US$0,12 miliar. Kenaikan ini ditopang surplus sektor nonmigas sebesar US$6,09 miliar, sementara sektor migas masih defisit US$2,54 miliar karena Indonesia masih mengimpor banyak minyak dan gas.",
+   "Secara kumulatif Januari sampai Agustus 2026, neraca dagang Indonesia surplus US$7,25 miliar, dengan surplus nonmigas US$28,54 miliar menutup defisit migas US$21,29 miliar. Menurut Kemendag, capaian ini menunjukkan kontribusi eksportir dan mitra dagang yang konsisten menjaga permintaan produk Indonesia di pasar luar negeri."
+  ],
+  "fotoAdegan": "Container ship being loaded at a bustling Indonesian port, cranes stacking boxes under a clear morning sky.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/HkceQZjRThQKZxffvouAwhwuv6vIuEzn1LFaXe9v.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Angka yang lebih penting dari daftar penerima penghargaan ini adalah lompatan surplus dagang: dari hanya US$0,12 miliar pada Juli menjadi US$3,55 miliar pada Agustus. Kenaikan itu nyaris seluruhnya ditopang ekspor nonmigas yang surplus US$6,09 miliar, sementara sektor minyak dan gas masih tekor US$2,54 miliar karena Indonesia masih bergantung pada impor BBM dan gas. Secara kumulatif Januari-Agustus, surplus nonmigas US$28,54 miliar itu menutup defisit migas US$21,29 miliar, jadi kesehatan neraca dagang Indonesia saat ini ditentukan oleh seberapa besar ekspor nonmigas, seperti produk olahan dan rempah, bisa mengimbangi ketergantungan impor energi. Eksportir nonmigas seperti pelaku usaha rempah yang disebut dalam penghargaan ini adalah pihak yang langsung diuntungkan tren tersebut, sementara penonjolan kategori pemanfaat perjanjian dagang bebas menunjukkan pemerintah mengarahkan dorongan ekspor lewat perjanjian yang sudah berjalan. Yang akan memastikan apakah lonjakan Agustus ini tren atau sekadar kenaikan sesaat adalah data neraca dagang September yang biasanya dirilis Badan Pusat Statistik pada awal bulan berikutnya.",
+  "imageV": "mv86yaj5"
+ },
+ {
+  "slug": "168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41",
+  "category": "Bisnis",
+  "title": "168 MoU Senilai [US$13,2 Miliar] Diteken di TEI ke-41",
+  "deck": "Pada hari pembukaan Trade Expo Indonesia ke-41 di BSD City, pelaku usaha Indonesia menandatangani 168 nota kesepahaman dengan pembeli dari 22 negara, didominasi produk makanan olahan, batu bara, furnitur, dan kertas.",
+  "image": "assets/img/168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T14:06:47.824Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hari-pertama-tei-ke-41-sebanyak-168-mou-senilai-usd-132-miliar-ditandatangani",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "TEI",
+   "ekspor",
+   "MoU",
+   "Kemendag"
+  ],
+  "body": [
+   "Kementerian Perdagangan mencatat 168 nota kesepahaman (MoU) senilai US$13,2 miliar diteken antara pelaku usaha Indonesia dan pembeli dari luar negeri pada hari pertama Trade Expo Indonesia (TEI) ke-41, Rabu (14/10), di Indonesia Convention Exhibition, BSD City, Kabupaten Tangerang. Pameran dagang tahunan ini berlangsung hingga 18 Oktober dan jadi ajang pemerintah mempertemukan eksportir dalam negeri dengan calon pembeli asing. Besarnya nilai kesepakatan di hari pembukaan menunjukkan ada minat konkret dari pasar luar negeri terhadap sejumlah produk andalan Indonesia.",
+   "Penandatanganan ini merupakan tindak lanjut dari rangkaian pertemuan bisnis yang digelar sebelum TEI berlangsung, difasilitasi oleh kedutaan besar, konsulat jenderal, atase perdagangan, dan kantor promosi dagang Indonesia di luar negeri. Menteri Perdagangan Budi Santoso menyebut Belanda, India, dan Jepang sebagai tiga dari 22 negara dengan potensi nilai transaksi terbesar. Produk yang paling banyak diminati antara lain roti, kue, dan biskuit, batu bara serta briket batu bara, furnitur, dan kertas karton tanpa lapisan, ditambah sejumlah kesepakatan investasi di sektor jasa.",
+   "Dua pelaku usaha yang ikut bertransaksi memberi gambaran soal apa yang dicari pembeli asing. Ameer Ali bin Mydin Mohamed, pemilik jaringan hypermarket Mydin asal Malaysia yang sudah 20 tahun berbisnis dengan Indonesia, menyebut keragaman rasa, variasi produk, dan kemasan sebagai daya tarik utama produk Indonesia di pasar negaranya. Sementara itu, Richard Changay dari PT Wahana Kosmetika Indonesia, produsen kosmetik merek Azarine dan Nuface, mengatakan perusahaannya terbantu masukan Kementerian Perdagangan soal karakteristik pasar Malaysia serta fasilitas mengikuti pameran dagang, dan berharap dukungan serupa untuk memperluas ekspor ke pasar lain."
+  ],
+  "fotoAdegan": "Wide trade exhibition hall with rows of product display booths showing packaged food and furniture samples, visitors walking between aisles, bright convention center lighting",
+  "fotoSumber": "https://www.kemendag.go.id/albums/YGTOkVotrib026G4Y5HEwqbDKP073e6TFrSR625H.png",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Angka 168 MoU senilai US$13,2 miliar ini baru hasil hari pertama dari lima hari penyelenggaraan TEI ke-41, jadi totalnya kemungkinan masih bertambah sampai pameran ditutup 18 Oktober. Yang terdampak langsung adalah eksportir di sektor makanan olahan seperti roti dan biskuit, batu bara dan briketnya, furnitur, serta kertas karton, dengan pembeli utama datang dari Belanda, India, dan Jepang di antara 22 negara yang hadir. Yang perlu diingat, nota kesepahaman semacam ini adalah kesepakatan awal untuk menjajaki kerja sama, bukan kontrak dagang yang mengikat, sehingga belum tentu seluruh nilainya berubah jadi transaksi ekspor riil. Yang bisa memastikan arah ini adalah rekap akhir Kemendag begitu TEI ke-41 resmi ditutup, serta laporan realisasi MoU dari penyelenggaraan TEI tahun-tahun sebelumnya yang biasa jadi pembanding berapa persen janji seperti ini benar-benar terwujud.",
+  "imageV": "mv86yhit"
+ },
+ {
+  "slug": "kuliner-halal-ri-naik-ke-peringkat-tiga-dunia",
+  "category": "Industri",
+  "title": "Kuliner Halal RI Naik ke Peringkat [Tiga] Dunia",
+  "deck": "Indonesia naik ke peringkat ketiga dunia sektor makanan halal, didukung 123 perjanjian pengakuan sertifikasi halal dengan 43 negara.",
+  "image": "assets/img/kuliner-halal-ri-naik-ke-peringkat-tiga-dunia.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T14:06:30.268Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822026.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Halal",
+   "ISEF 2026",
+   "Bank Indonesia",
+   "UMKM"
+  ],
+  "body": [
+   "Bank Indonesia membuka ajang kompetisi juru masak halal internasional (IN2HCC) dalam rangkaian Indonesia Sharia Economic Festival (ISEF) 2026 di Jakarta, Rabu (14/10). Dalam sambutannya, Deputi Gubernur BI Filianingsih Hendarta mengungkapkan bahwa Indonesia naik ke peringkat ketiga dunia untuk sektor makanan halal menurut laporan State of the Global Islamic Economy (SGIE) edisi 2025/2026, naik satu tingkat dari periode sebelumnya. Kenaikan ini disebut penting karena berpotensi membuka akses pasar yang lebih luas bagi produk kuliner halal Indonesia, termasuk ke pasar internasional.",
+   "Menurut data Kementerian Koordinator Bidang Perekonomian, posisi tersebut ditopang oleh besarnya pasar domestik serta 123 perjanjian saling pengakuan sertifikasi halal yang sudah diteken dengan lembaga halal di 43 negara per 14 Oktober 2026. Lewat perjanjian semacam ini, sertifikat halal yang diterbitkan di Indonesia otomatis diakui oleh negara mitra, sehingga pelaku usaha kuliner tidak perlu mengurus sertifikasi ulang setiap kali hendak mengekspor ke negara tersebut.",
+   "Untuk menggarap peluang itu, Bank Indonesia mendorong penguatan produktivitas UMKM, konsistensi mutu produk, dan perluasan akses pasar internasional melalui program Industri Kreatif Syariah (IKRA), yang antara lain berupa pendampingan usaha dan pembukaan jejaring bisnis. Kompetisi IN2HCC sendiri mempertemukan pelaku UMKM dengan juru masak halal profesional dari berbagai negara untuk mengembangkan menu berbasis bahan baku lokal.",
+   "Rangkaian ISEF 2026 berlangsung pada 14-18 Oktober 2026 di Jakarta International Convention Center, dilengkapi area Halalicious yang menyajikan ratusan menu makanan dan minuman halal dari berbagai daerah di Indonesia."
+  ],
+  "fotoAdegan": "Chefs arranging colorful Indonesian dishes with fresh local spices and herbs at a bustling food stall kitchen",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2822026/Narasi-sp_2822026.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Ada dua angka konkret di sini: peringkat kuliner halal Indonesia naik ke posisi ketiga dunia, dan jumlah kesepakatan saling pengakuan sertifikasi halal bertambah jadi 123 kesepakatan dengan 43 negara. Kesepakatan semacam ini penting buat pelaku UMKM kuliner yang ingin ekspor, karena sertifikat halal dari Indonesia langsung dianggap sah di negara-negara itu tanpa perlu mengurus ulang dari nol. Yang kena dampak langsung adalah UMKM makanan dan minuman halal yang membidik pasar luar negeri, bukan konsumen di dalam negeri. Siaran pers ini belum menyebut berapa banyak UMKM yang sudah dibantu lewat pendampingan program IKRA atau berapa nilai ekspor kuliner halal yang sudah terealisasi, jadi belum terlihat apakah kenaikan peringkat ini sudah berubah jadi transaksi nyata di lapangan. Yang perlu ditunggu adalah data ekspor produk halal atau laporan evaluasi program IKRA berikutnya, supaya klaim naik peringkat ini punya ukuran yang lebih terukur.",
+  "imageV": "mv86ykze"
+ },
+ {
   "slug": "kkp-segel-tambak-udang-tak-berizin-di-karimunjawa",
   "category": "Industri",
   "title": "KKP [Segel] Tambak Udang Tak Berizin di Karimunjawa",
@@ -83,7 +194,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah adalah kewajiban sertifikasi halal yang mulai berlaku 17 Oktober 2026, hanya tiga hari dari sekarang, untuk produk yang beredar di Indonesia. Yang langsung terdampak adalah pelaku usaha, terutama UMKM yang belum mengantongi sertifikat, meski pemerintah menyiapkan kuota 1,35 juta sertifikat gratis lewat program SEHATI untuk meringankan beban itu. Arah penerapannya sendiri belum jelas benar, sebab pemerintah menyebut aturan ini wajib, tapi dalam kalimat yang sama juga menegaskan akan tetap memperhatikan kesiapan pelaku usaha, yang bisa berarti penegakan ketat sejak hari pertama atau justru toleransi bertahap bagi yang belum siap. Yang akan menentukan ke arah mana kebijakan ini bergerak adalah langkah Badan Penyelenggara Jaminan Produk Halal begitu masa berlakunya dimulai pekan depan, yaitu apakah ada sanksi atau penindakan nyata terhadap produk tak bersertifikat, atau justru masa transisi tanpa konsekuensi.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pemerintah-pangkas-bea-masuk-plastik-jadi-0-selama-6-bulan",
@@ -111,7 +222,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah bea masuk, yaitu pajak yang dikenakan saat barang masuk ke Indonesia, untuk enam jenis bahan baku plastik polyethylene dan polypropylene dipangkas jadi nol persen selama enam bulan, merespons harga bahan baku ini yang melonjak, polypropylene naik 42,79 persen dan polyethylene naik 27,87 persen dalam setahun. Yang terdampak langsung adalah importir dan industri plastik nasional yang mengolah bahan baku ini jadi produk jadi. Tapi menurut masukan pelaku usaha sendiri, barang yang kena insentif saat ini kebanyakan bahan baku bentuk cair, bukan bentuk pellet yang justru dipakai industri hilir seperti produsen kemasan, kebutuhan rumah tangga, petani, dan UMKM, sehingga manfaatnya belum otomatis mengalir ke kelompok itu. Arah kebijakan ini masih belum pasti, bisa berlanjut menjadi perluasan daftar bahan baku ke bentuk pellet kalau evaluasi menunjukkan insentif belum tepat sasaran, atau bisa tetap terbatas seperti sekarang. Yang masih kurang untuk memastikannya adalah hasil evaluasi pemerintah yang disebut akan terus berjalan, namun belum disertai tenggat waktu yang jelas.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "aset-migas-phr-di-siak-terjual-rp11-01-miliar-lampaui-target",
@@ -639,7 +750,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan cara pemerintah membaca data daya beli: Wamenko menyebut data BPS menunjukkan masyarakat bukan mengurangi belanja, melainkan memindahkan belanjanya ke jalan-jalan, hotel, makanan minum, dan layanan online. Yang terdampak oleh pembacaan ini adalah pelaku usaha di sektor yang disebut tumbuh tadi, sekaligus usaha yang mungkin kehilangan pembeli karena pergeseran itu, juga pelaku usaha yang nanti memakai kanal debottlenecking untuk melaporkan kendala ke Kemenko Perekonomian. Arahnya belum bisa disimpulkan karena berita ini tidak menyebut angka pertumbuhan masing-masing sektor atau berapa banyak laporan debottlenecking yang sudah selesai ditangani, jadi klaim bahwa daya beli tidak melemah masih berupa penilaian pejabat, bukan rincian angka yang bisa diperiksa publik. Yang perlu ditunggu adalah rilis data konsumsi per sektor dari BPS berikutnya, serta angka resmi kontribusi investasi Danantara terhadap pembentukan modal tetap bruto yang disebut akan mulai dicatat lebih rinci.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "wamendag-temui-menteri-finlandia-dorong-ratifikasi-cepa",

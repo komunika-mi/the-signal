@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "VB6fHNLu2lI",
+  "title": "Aturan Ketenagakerjaan Baru, Siapa Diuntungkan?",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "DPR dan pemerintah mengesahkan UU Pelindungan Ketenagakerjaan pada 6 Oktober 2026 sebagai tindak lanjut putusan Mahkamah Konstitusi yang memisahkan klaster ketenagakerjaan dari omnibus law sebelumnya.",
+  "takeaway": "Aturan ini berpotensi mengubah hak dan kewajiban pekerja maupun pengusaha, sehingga relevan dipantau pelaku usaha dan tenaga kerja."
+ },
+ {
   "id": "H8rjRrlGoik",
   "title": "Pemadaman Listrik Bergilir Landa Batam, Aktivitas Warga Terganggu",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Ikatan Keluarga Alumni Fikom Unpad menggelar forum diskusi mengenai tata kelola dan restrukturisasi perusahaan BUMN, digagas di bawah kepengurusan Ketua Umum Hendri Satrio.",
   "takeaway": "Topik restrukturisasi dan tata kelola BUMN relevan bagi pembaca ekonomi karena menyangkut efisiensi dan kinerja perusahaan negara."
- },
- {
-  "id": "5PA3yueRb54",
-  "title": "CEO Nvidia Soal Distilasi AI oleh China: Itu Persaingan Bisnis",
-  "category": "Teknologi",
-  "program": "OneNews Update",
-  "summary": "CEO Nvidia Jensen Huang menilai praktik distilasi AI oleh perusahaan China, yakni melatih model AI baru dari jawaban AI lain, sebagai bentuk persaingan bisnis yang wajar.",
-  "takeaway": "Pandangan ini penting bagi pembaca karena menyoroti dinamika persaingan industri teknologi AI antara Amerika Serikat dan China yang berpengaruh pada pasar global."
  }
 ];

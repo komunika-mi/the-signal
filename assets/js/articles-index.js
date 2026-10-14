@@ -5,6 +5,78 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-nikel-ditargetkan-usd45-miliar-pada-2026",
+  "category": "Industri",
+  "title": "Ekspor Nikel Ditargetkan [USD45 Miliar] pada 2026",
+  "deck": "Pemerintah menaikkan target ekspor nikel olahan menjadi USD45 miliar pada 2026, melanjutkan tren sejak ekspor bijih mentah dihentikan dan smelter dibangun di dalam negeri.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/ekspor-nikel-ditargetkan-usd45-miliar-pada-2026.jpg",
+  "imageV": "mv86y6mz",
+  "tags": [
+   "nikel",
+   "hilirisasi",
+   "ekspor",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/ekspor-nikel-ditargetkan-tembus-usd45-miliar-pada-2026-menko-bahlil-hilirisasi-kunci-kemandirian-ekonomi",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "mendag-serahkan-50-penghargaan-ekspor-di-pembukaan-tei-2026",
+  "category": "Bisnis",
+  "title": "Mendag Serahkan [50] Penghargaan Ekspor di Pembukaan TEI 2026",
+  "deck": "Kemendag memberi 50 penghargaan Primaniyarta dan Primaduta 2026 kepada eksportir dan mitra dagang, bersamaan dengan surplus dagang Agustus yang melonjak ke US$3,55 miliar.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/mendag-serahkan-50-penghargaan-ekspor-di-pembukaan-tei-2026.jpg",
+  "imageV": "mv86yaj5",
+  "tags": [
+   "ekspor",
+   "Kemendag",
+   "neraca dagang",
+   "Trade Expo Indonesia"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/apresiasi-kinerja-ekspor-mendag-busan-serahkan-50-penghargaan-primaniyarta-dan-primaduta-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41",
+  "category": "Bisnis",
+  "title": "168 MoU Senilai [US$13,2 Miliar] Diteken di TEI ke-41",
+  "deck": "Pada hari pembukaan Trade Expo Indonesia ke-41 di BSD City, pelaku usaha Indonesia menandatangani 168 nota kesepahaman dengan pembeli dari 22 negara, didominasi produk makanan olahan, batu bara, furnitur, dan kertas.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41.jpg",
+  "imageV": "mv86yhit",
+  "tags": [
+   "TEI",
+   "ekspor",
+   "MoU",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hari-pertama-tei-ke-41-sebanyak-168-mou-senilai-usd-132-miliar-ditandatangani",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "kuliner-halal-ri-naik-ke-peringkat-tiga-dunia",
+  "category": "Industri",
+  "title": "Kuliner Halal RI Naik ke Peringkat [Tiga] Dunia",
+  "deck": "Indonesia naik ke peringkat ketiga dunia sektor makanan halal, didukung 123 perjanjian pengakuan sertifikasi halal dengan 43 negara.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/kuliner-halal-ri-naik-ke-peringkat-tiga-dunia.jpg",
+  "imageV": "mv86ykze",
+  "tags": [
+   "Halal",
+   "ISEF 2026",
+   "Bank Indonesia",
+   "UMKM"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822026.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "kkp-segel-tambak-udang-tak-berizin-di-karimunjawa",
   "category": "Industri",
   "title": "KKP [Segel] Tambak Udang Tak Berizin di Karimunjawa",
@@ -6416,72 +6488,6 @@ var ARTICLES = [
    "transaksi direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-9536-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indonesia-ajak-pengusaha-as-jadi-pembeli-di-tei-2026",
-  "category": "Global",
-  "title": "Indonesia Ajak Pengusaha AS Jadi [Pembeli] di TEI 2026",
-  "deck": "Mendag Busan mengundang pengusaha AS menjadi pembeli di Trade Expo Indonesia 2026, sembari membahas keluhan sertifikasi halal dan nasib perjanjian dagang ART dengan AmCham Indonesia.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/indonesia-ajak-pengusaha-as-jadi-pembeli-di-tei-2026.jpg",
-  "imageV": "muxv0max",
-  "tags": [
-   "TEI 2026",
-   "Kemendag",
-   "Amerika Serikat",
-   "ART"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-pengusaha-as-jadi-buyer-di-tei-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "flmc-tegaskan-tak-ada-informasi-baru-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "FLMC Tegaskan Tak Ada Informasi Baru di Balik [Volatilitas] Saham",
-  "deck": "Merespons permintaan BEI soal gejolak harga sahamnya, Falmaco Nonwoven Industri (FLMC) menyatakan tidak ada fakta material baru, kecuali rencana penyesuaian kode klasifikasi usaha.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FLMC",
-   "volatilitas transaksi",
-   "Bursa Efek Indonesia",
-   "KBLI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1fd196cefd_b77b78f24f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lckm-pemegang-saham-hilang-piutang-macet-uang-muka-mandek",
-  "category": "Aksi Korporasi",
-  "title": "LCKM: Pemegang Saham [Hilang], Piutang Macet, Uang Muka Mandek",
-  "deck": "LCK Global Kedaton menjawab pertanyaan Bursa soal hilangnya pemegang saham PT Maju Mekar, uang muka proyek Rp105 miliar yang mandek, dan pendapatan yang bertumpu pada satu pelanggan baru.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LCKM",
-   "uang muka proyek",
-   "piutang usaha",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/41abbe612b_9e6f2e77d7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dkft-jinsheng-mining-tambah-saham-kendali-ke-65-74",
-  "category": "Aksi Korporasi",
-  "title": "DKFT: Jinsheng Mining Tambah Saham, Kendali ke [65,74%]",
-  "deck": "PT Jinsheng Mining, pemegang saham mayoritas Central Omega Resources (DKFT), membeli 110 juta saham tambahan senilai Rp77 miliar, menaikkan hak suaranya menjadi 65,74 persen.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DKFT",
-   "Central Omega Resources",
-   "Jinsheng Mining",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-2149-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

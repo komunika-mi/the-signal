@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "VB6fHNLu2lI",
+  "title": "Aturan Ketenagakerjaan Baru, Siapa Diuntungkan?",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "DPR dan pemerintah mengesahkan UU Pelindungan Ketenagakerjaan pada 6 Oktober 2026 sebagai tindak lanjut putusan Mahkamah Konstitusi yang memisahkan klaster ketenagakerjaan dari omnibus law sebelumnya.",
+  "takeaway": "Aturan ini berpotensi mengubah hak dan kewajiban pekerja maupun pengusaha, sehingga relevan dipantau pelaku usaha dan tenaga kerja.",
+  "terbit": "2026-10-14T12:32:51+00:00"
+ },
+ {
   "id": "H8rjRrlGoik",
   "title": "Pemadaman Listrik Bergilir Landa Batam, Aktivitas Warga Terganggu",
   "category": "Energi",

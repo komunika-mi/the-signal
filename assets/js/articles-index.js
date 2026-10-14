@@ -5,6 +5,108 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-segel-tambak-udang-tak-berizin-di-karimunjawa",
+  "category": "Industri",
+  "title": "KKP [Segel] Tambak Udang Tak Berizin di Karimunjawa",
+  "deck": "KKP menyegel dua tambak udang seluas 7,71 hektare di Karimunjawa, menyusul 33 lokasi lain yang berhenti beroperasi sejak 2023-2024 karena melanggar aturan tata ruang daerah.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/kkp-segel-tambak-udang-tak-berizin-di-karimunjawa.jpg",
+  "imageV": "mv81nipj",
+  "tags": [
+   "KKP",
+   "Karimunjawa",
+   "Tambak Udang",
+   "Perizinan"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/segel-tambak-udang-tak-berizin-di-karimunjawa-kkp-tingkatkan-pengawasan-ojx3.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "ri-kejar-pengakuan-sertifikat-pelaut-perikanan-di-eropa",
+  "category": "Ketenagakerjaan",
+  "title": "RI Kejar [Pengakuan] Sertifikat Pelaut Perikanan di Eropa",
+  "deck": "KKP menandatangani perjanjian pengakuan sertifikat awak kapal perikanan dengan Portugal dan mendorong pembaruan serupa dengan Spanyol agar mencakup jenjang perwira.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/ri-kejar-pengakuan-sertifikat-pelaut-perikanan-di-eropa.jpg",
+  "imageV": "mv81nk6u",
+  "tags": [
+   "KKP",
+   "pelaut perikanan",
+   "Portugal",
+   "Spanyol"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-bidik-pengakuan-sertifikat-pelaut-perikanan-indonesia-di-eropa-pkyN.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "sertifikasi-halal-jadi-wajib-mulai-17-oktober-2026",
+  "category": "Industri",
+  "title": "Sertifikasi Halal Jadi [Wajib] Mulai 17 Oktober 2026",
+  "deck": "Pemerintah memberlakukan kewajiban sertifikasi halal mulai 17 Oktober 2026, seiring target ekonomi syariah jadi penopang pertumbuhan menuju 8 persen.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "ekonomi syariah",
+   "sertifikasi halal",
+   "UMKM",
+   "ISEF 2026"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7153/pemerintah-perkuat-ekosistem-ekonomi-syariah-untuk-mendorong-pertumbuhan-dan-daya-saing-nasional",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pemerintah-pangkas-bea-masuk-plastik-jadi-0-selama-6-bulan",
+  "category": "Industri",
+  "title": "Pemerintah Pangkas Bea Masuk Plastik Jadi [0%] Selama 6 Bulan",
+  "deck": "Lewat PMK 68/2026, bea masuk bahan baku plastik PE dan PP tertentu dipangkas jadi nol persen selama enam bulan, merespons lonjakan harga di pasar global.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/gudang-bahan-baku.jpg",
+  "tags": [
+   "bea masuk",
+   "industri plastik",
+   "PMK 68/2026",
+   "polyethylene"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7155/dukung-industri-nasional-kemenko-perekonomian-kawal-implementasi-dan-evaluasi-insentif-bea-masuk-bahan-baku-plastik-0",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "aset-migas-phr-di-siak-terjual-rp11-01-miliar-lampaui-target",
+  "category": "Energi",
+  "title": "Aset Migas PHR di Siak Terjual Rp11,01 Miliar, [Lampaui] Target",
+  "deck": "Lelang aset hulu migas tidak terpakai milik PHR di Minas, Siak, laku Rp11,01 miliar, naik sekitar Rp1,75 miliar dari harga limit. ESDM menjadwalkan lelang serupa di Samarinda pekan depan.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/aset-migas-phr-di-siak-terjual-rp11-01-miliar-lampaui-target.jpg",
+  "imageV": "mv81nn47",
+  "tags": [
+   "Migas",
+   "PHR",
+   "ESDM",
+   "PNBP"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/lelang-aset-hulu-migas-phr-di-siak-laku-rp1101-miliar-tambah-penerimaan-negara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "ri-terbitkan-aturan-antidumping-baru-tutup-celah-penghindaran",
+  "category": "Industri",
+  "title": "RI Terbitkan Aturan [Antidumping] Baru, Tutup Celah Penghindaran",
+  "deck": "PP Nomor 39 Tahun 2026 mengatur ulang tindakan pengamanan, antidumping, dan imbalan, serta untuk pertama kalinya melarang praktik penghindaran lewat rute kirim atau negara asal palsu.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/pabrik-gula.jpg",
+  "tags": [
+   "antidumping",
+   "PP 39/2026",
+   "perdagangan",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pp-nomor-39-tahun-2026-tonggak-baru-perlindungan-industri-dalam-negeri",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "smle-jawab-permintaan-bursa-akui-rugi-semester-i-karena-transisi",
   "category": "Aksi Korporasi",
   "title": "SMLE Jawab Permintaan Bursa, Akui [Rugi] Semester I Karena Transisi",
@@ -3460,7 +3562,7 @@ var ARTICLES = [
   "title": "Pabrik Konstruksi Tiongkok [Rp710 M] Beroperasi di KEK Kendal",
   "deck": "PT HSG Material Indonesia, bagian grup Fujian Hongsheng dari Tiongkok, mengoperasikan pabrik tiang pancang beton senilai Rp710 miliar di KEK Kendal dan menyerap hingga 400 tenaga kerja.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "KEK Kendal",
    "investasi Tiongkok",
@@ -4623,7 +4725,7 @@ var ARTICLES = [
   "title": "11 Proyek Hilirisasi Nikel Senilai [Rp180] Triliun Diluncurkan di IWIP",
   "deck": "Presiden Prabowo Subianto meluncurkan 11 proyek hilirisasi nikel senilai US$10,2 miliar di IWIP, Maluku Utara, sekaligus melepas ekspor perdana baterai kendaraan listrik.",
   "date": "9 Oktober 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/mesin-tekstil.jpg",
   "tags": [
    "hilirisasi nikel",
    "IWIP",
@@ -5013,7 +5115,7 @@ var ARTICLES = [
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
   "deck": "Kewajiban sertifikasi halal, termasuk untuk alat kesehatan risiko A, resmi berlaku 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung 11 Oktober.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "Wajib Halal",
    "BPJPH",
@@ -5627,7 +5729,7 @@ var ARTICLES = [
   "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
   "deck": "Furnitur dan kriya kembali jadi sorotan di Trade Expo Indonesia ke-41, didukung ekspor furnitur nasional yang sudah tembus US$1,2 miliar sepanjang 2026.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "TEI ke-41",
    "furnitur",
@@ -5675,7 +5777,7 @@ var ARTICLES = [
   "title": "Indonesia Teken [MoU] Dagang Digital dan AI dengan Tiongkok",
   "deck": "Indonesia tampil sebagai negara kehormatan di Global Digital Trade Expo 2025 Hangzhou dan menjaring sejumlah MoU dagang digital serta kerja sama AI dengan Tiongkok.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "Perdagangan Digital",
    "Kecerdasan Buatan",
@@ -6380,107 +6482,6 @@ var ARTICLES = [
    "KGI Sekuritas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4cbcd8b341_718569427c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cadangan-devisa-september-turun-tipis-ke-us-146-3-miliar",
-  "category": "Moneter",
-  "title": "Cadangan Devisa September [Turun] Tipis ke US$146,3 Miliar",
-  "deck": "Bank Indonesia mencatat cadangan devisa akhir September 2026 sebesar US$146,3 miliar, turun tipis dari US$146,5 miliar pada Agustus karena pembayaran utang luar negeri jatuh tempo.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/cadangan-devisa-september-turun-tipis-ke-us-146-3-miliar.jpg",
-  "imageV": "muxprpp0",
-  "tags": [
-   "cadangan devisa",
-   "Bank Indonesia",
-   "rupiah",
-   "utang luar negeri"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821426.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "uang-primer-bi-tumbuh-melambat-ke-9-3-pada-september",
-  "category": "Moneter",
-  "title": "Uang Primer BI Tumbuh [Melambat] ke 9,3% pada September",
-  "deck": "Bank Indonesia mencatat pertumbuhan uang primer adjusted melambat ke 9,3 persen secara tahunan pada September 2026, dari 16,3 persen pada Agustus.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/uang-primer-bi-tumbuh-melambat-ke-9-3-pada-september.jpg",
-  "imageV": "muxprr82",
-  "tags": [
-   "Bank Indonesia",
-   "uang primer",
-   "likuiditas perbankan",
-   "moneter"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821526.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "cpri-rugi-rp4-68-miliar-auditor-ragukan-kelangsungan-usaha",
-  "category": "Aksi Korporasi",
-  "title": "CPRI rugi Rp4,68 miliar, auditor ragukan [kelangsungan usaha]",
-  "deck": "Laporan keuangan tahunan 2022 yang baru disampaikan ke bursa menunjukkan rugi bersih Rp4,68 miliar, kas menyusut tajam, dan auditor menyoroti ketidakpastian material atas kelangsungan usaha.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CPRI",
-   "laporan keuangan",
-   "kelangsungan usaha",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202210/20261007123752-62570-0/FinancialStatement-2022-Tahunan-CPRI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpjs-kesehatan-gandeng-18-asuransi-tambahan-baru",
-  "category": "Bisnis",
-  "title": "BPJS Kesehatan Gandeng [18] Asuransi Tambahan Baru",
-  "deck": "BPJS Kesehatan menambah 18 mitra asuransi kesehatan tambahan untuk koordinasi manfaat dengan JKN, total kini 31 perusahaan, demi tagihan satu pintu dan proteksi peserta dari biaya tambahan.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/bpjs-kesehatan-gandeng-18-asuransi-tambahan-baru.jpg",
-  "imageV": "muxprrqv",
-  "tags": [
-   "BPJS Kesehatan",
-   "asuransi kesehatan tambahan",
-   "KAPJ",
-   "JKN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471676-bpjs-kesehatan-jalin-kerja-sama-dengan-sejumlah-asuransi-kesehatan-tambahan"
- },
- {
-  "slug": "avia-direksi-robert-tanoko-tambah-1-8-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "AVIA: Direksi [Robert Tanoko] Tambah 1,8 Juta Saham",
-  "deck": "Direksi PT Avia Avian Tbk, Robert Christian Tanoko, melaporkan pembelian 1.797.300 saham tidak langsung pada 2 Oktober 2026 seharga Rp330 per saham.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "kepemilikan saham",
-   "direksi",
-   "Avia Avian"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-2396-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bltz-tegaskan-tak-ada-info-material-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "BLTZ Tegaskan Tak Ada Info Material soal [Volatilitas] Saham",
-  "deck": "Merespons surat Bursa Efek Indonesia soal lonjakan transaksi, manajemen CGV Cinemas menyatakan tidak ada informasi material maupun rencana korporasi yang memengaruhi harga saham BLTZ.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLTZ",
-   "CGV Cinemas",
-   "Bursa Efek Indonesia",
-   "UMA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec70c6321b_3177309b30.pdf",
   "sourceLabel": "IDX"
  }
 ];

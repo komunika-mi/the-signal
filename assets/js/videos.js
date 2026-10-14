@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "H8rjRrlGoik",
+  "title": "Pemadaman Listrik Bergilir Landa Batam, Aktivitas Warga Terganggu",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Batam dan sebagian Pulau Bintan sempat mengalami blackout total sebelum beralih menjadi pemadaman listrik bergilir di sejumlah wilayah.",
+  "takeaway": "Gangguan pasokan listrik di Batam perlu disorot karena kawasan ini merupakan basis industri dan perdagangan penting di Kepulauan Riau.",
+  "terbit": "2026-10-14T11:34:48+00:00"
+ },
+ {
   "id": "yXs6EEDo8rA",
   "title": "Evaluasi Sistem Kerja Kemitraan, Said Iqbal Kunjungi PT Pos Indonesia",
   "category": "Ketenagakerjaan",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "H8rjRrlGoik",
+  "title": "Pemadaman Listrik Bergilir Landa Batam, Aktivitas Warga Terganggu",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Batam dan sebagian Pulau Bintan sempat mengalami blackout total sebelum beralih menjadi pemadaman listrik bergilir di sejumlah wilayah.",
+  "takeaway": "Gangguan pasokan listrik di Batam perlu disorot karena kawasan ini merupakan basis industri dan perdagangan penting di Kepulauan Riau."
+ },
+ {
   "id": "yXs6EEDo8rA",
   "title": "Evaluasi Sistem Kerja Kemitraan, Said Iqbal Kunjungi PT Pos Indonesia",
   "category": "Ketenagakerjaan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "CEO Nvidia Jensen Huang menilai praktik distilasi AI oleh perusahaan China, yakni melatih model AI baru dari jawaban AI lain, sebagai bentuk persaingan bisnis yang wajar.",
   "takeaway": "Pandangan ini penting bagi pembaca karena menyoroti dinamika persaingan industri teknologi AI antara Amerika Serikat dan China yang berpengaruh pada pasar global."
- },
- {
-  "id": "8Vs5KoAFmVc",
-  "title": "Bahlil Lahadalia Genjot Hilirisasi Nasional usai Dilantik",
-  "category": "Industri",
-  "program": "Kabar Siang",
-  "summary": "Bahlil Lahadalia dilantik Presiden Prabowo Subianto sebagai Menteri Koordinator Bidang Hilirisasi dan Transisi Energi, dan menegaskan percepatan program hilirisasi akan segera dijalankan.",
-  "takeaway": "Arah kebijakan hilirisasi menentukan peta investasi sumber daya alam dan industri pengolahan dalam negeri ke depan."
  }
 ];

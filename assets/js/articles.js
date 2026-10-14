@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lkpp-buka-peluang-umkm-pasok-kebutuhan-pemerintah",
+  "category": "UMKM",
+  "title": "LKPP Buka Peluang UMKM [Pasok] Kebutuhan Pemerintah",
+  "deck": "LKPP mempertemukan 16 kementerian/lembaga dengan pelaku usaha lewat Business Matching 2026, membuka akses UMKM ke pengadaan pemerintah senilai Rp929,4 triliun.",
+  "image": "assets/img/lkpp-buka-peluang-umkm-pasok-kebutuhan-pemerintah.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T01:53:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473070-umkm-juga-punya-peluang-pasok-kebutuhan-pemerintah-lkpp-perkenalkan-peluangnya",
+  "tags": [
+   "UMKM",
+   "LKPP",
+   "pengadaan pemerintah",
+   "Business Matching 2026"
+  ],
+  "body": [
+   "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah (LKPP) menggelar forum Business Matching 2026 di Jakarta pada 14 sampai 15 Oktober 2026, mempertemukan 16 kementerian dan lembaga dengan pelaku usaha, termasuk usaha mikro, kecil, dan menengah. Forum ini dirancang agar kebutuhan belanja pemerintah bisa dipasok oleh penyedia yang memang punya kemampuan sesuai spesifikasi. Ini penting bagi pelaku usaha kecil karena belanja pengadaan barang dan jasa pemerintah tahun 2026 diperkirakan mencapai Rp929,4 triliun, atau sekitar 30 persen dari total APBN, sehingga ada pasar besar yang terbuka asal syaratnya terpenuhi.",
+   "Kepala LKPP Sarah Sadiqa menyebut pengadaan yang tepat sasaran berperan besar dalam mendukung program prioritas pemerintah, termasuk Makan Bergizi Gratis dan Koperasi Desa Merah Putih. Ia mengatakan keputusan pengadaan tidak hanya soal barang atau jasa apa yang dibeli negara, tetapi juga ikut memengaruhi peluang usaha, aktivitas produksi, penciptaan lapangan kerja, hingga penguatan industri dalam negeri.",
+   "Meski nilai pasarnya besar, LKPP mengingatkan bahwa anggaran sebesar itu tidak otomatis menjadi pendapatan bagi setiap pelaku usaha. Penyedia tetap harus memahami kebutuhan masing-masing instansi, menyiapkan produk sesuai spesifikasi, serta memenuhi persyaratan dan tenggat waktu pengadaan yang ditetapkan.",
+   "Sarah juga menegaskan bahwa ukuran keberhasilan pengadaan bukan sekadar seberapa besar anggaran terserap. Barang dan jasa yang didapat harus sesuai mutu, waktu, dan biaya, sekaligus memberi manfaat ekonomi bagi pelaku usaha yang terlibat di dalamnya."
+  ],
+  "fotoAdegan": "Small-business vendors arranging sample products on tables while visitors inspect them inside a busy convention hall, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6acfcdb1d60d7-umkm-juga-punya-peluang-pasok-kebutuhan-pemerintah-lkpp-perkenalkan-peluangnya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah LKPP membuka pintu lebih lebar bagi usaha kecil untuk masuk ke pasar belanja pemerintah, dengan total anggaran pengadaan 2026 diperkirakan Rp929,4 triliun, atau sekitar tiga dari sepuluh rupiah uang negara yang dibelanjakan tahun itu. Yang berpotensi terdampak adalah UMKM dan pelaku usaha penyedia barang dan jasa, termasuk yang ingin memasok kebutuhan program seperti Makan Bergizi Gratis dan Koperasi Desa Merah Putih. Tapi berita ini baru soal pembukaan forum pertemuan selama dua hari, belum soal hasil konkretnya, misalnya berapa UMKM yang benar-benar mendapat kontrak atau berapa persen dari Rp929,4 triliun itu yang akhirnya mengalir ke usaha kecil. Yang masih perlu dipantau adalah laporan realisasi setelah forum ini selesai pada 15 Oktober 2026, serta data LKPP soal porsi UMKM dalam pengadaan pemerintah tahun-tahun sebelumnya, sebagai pembanding apakah akses yang dibuka kali ini benar bertambah.",
+  "imageV": "mv8i69rt"
+ },
+ {
   "slug": "kemendag-beri-penghargaan-ke-10-umkm-pangan-buka-akses-ritel",
   "category": "UMKM",
   "title": "Kemendag Beri [Penghargaan] ke 10 UMKM Pangan, Buka Akses Ritel",
@@ -329,7 +356,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah adalah kewajiban sertifikasi halal yang mulai berlaku 17 Oktober 2026, hanya tiga hari dari sekarang, untuk produk yang beredar di Indonesia. Yang langsung terdampak adalah pelaku usaha, terutama UMKM yang belum mengantongi sertifikat, meski pemerintah menyiapkan kuota 1,35 juta sertifikat gratis lewat program SEHATI untuk meringankan beban itu. Arah penerapannya sendiri belum jelas benar, sebab pemerintah menyebut aturan ini wajib, tapi dalam kalimat yang sama juga menegaskan akan tetap memperhatikan kesiapan pelaku usaha, yang bisa berarti penegakan ketat sejak hari pertama atau justru toleransi bertahap bagi yang belum siap. Yang akan menentukan ke arah mana kebijakan ini bergerak adalah langkah Badan Penyelenggara Jaminan Produk Halal begitu masa berlakunya dimulai pekan depan, yaitu apakah ada sanksi atau penindakan nyata terhadap produk tak bersertifikat, atau justru masa transisi tanpa konsekuensi.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "pemerintah-pangkas-bea-masuk-plastik-jadi-0-selama-6-bulan",
@@ -357,7 +385,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah bea masuk, yaitu pajak yang dikenakan saat barang masuk ke Indonesia, untuk enam jenis bahan baku plastik polyethylene dan polypropylene dipangkas jadi nol persen selama enam bulan, merespons harga bahan baku ini yang melonjak, polypropylene naik 42,79 persen dan polyethylene naik 27,87 persen dalam setahun. Yang terdampak langsung adalah importir dan industri plastik nasional yang mengolah bahan baku ini jadi produk jadi. Tapi menurut masukan pelaku usaha sendiri, barang yang kena insentif saat ini kebanyakan bahan baku bentuk cair, bukan bentuk pellet yang justru dipakai industri hilir seperti produsen kemasan, kebutuhan rumah tangga, petani, dan UMKM, sehingga manfaatnya belum otomatis mengalir ke kelompok itu. Arah kebijakan ini masih belum pasti, bisa berlanjut menjadi perluasan daftar bahan baku ke bentuk pellet kalau evaluasi menunjukkan insentif belum tepat sasaran, atau bisa tetap terbatas seperti sekarang. Yang masih kurang untuk memastikannya adalah hasil evaluasi pemerintah yang disebut akan terus berjalan, namun belum disertai tenggat waktu yang jelas.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "aset-migas-phr-di-siak-terjual-rp11-01-miliar-lampaui-target",

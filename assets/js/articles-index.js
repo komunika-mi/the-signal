@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lkpp-buka-peluang-umkm-pasok-kebutuhan-pemerintah",
+  "category": "UMKM",
+  "title": "LKPP Buka Peluang UMKM [Pasok] Kebutuhan Pemerintah",
+  "deck": "LKPP mempertemukan 16 kementerian/lembaga dengan pelaku usaha lewat Business Matching 2026, membuka akses UMKM ke pengadaan pemerintah senilai Rp929,4 triliun.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/lkpp-buka-peluang-umkm-pasok-kebutuhan-pemerintah.jpg",
+  "imageV": "mv8i69rt",
+  "tags": [
+   "UMKM",
+   "LKPP",
+   "pengadaan pemerintah",
+   "Business Matching 2026"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473070-umkm-juga-punya-peluang-pasok-kebutuhan-pemerintah-lkpp-perkenalkan-peluangnya"
+ },
+ {
   "slug": "kemendag-beri-penghargaan-ke-10-umkm-pangan-buka-akses-ritel",
   "category": "UMKM",
   "title": "Kemendag Beri [Penghargaan] ke 10 UMKM Pangan, Buka Akses Ritel",
@@ -6477,22 +6494,6 @@ var ARTICLES = [
    "pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-2954-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iiff-tuntas-salurkan-dana-obligasi-rp428-95-miliar-ke-3-proyek",
-  "category": "Aksi Korporasi",
-  "title": "IIFF Tuntas Salurkan Dana Obligasi [Rp428,95 Miliar] ke 3 Proyek",
-  "deck": "IIFF melaporkan dana bersih Rp428,95 miliar dari Obligasi Berkelanjutan III Tahap I 2026 sudah disalurkan penuh ke pembangkit listrik di Garut, sistem pemantauan armada, dan rumah sakit di Bogor.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IIFF",
-   "Obligasi",
-   "LRPD",
-   "infrastruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/362e19674f_94b226ba19.pdf",
   "sourceLabel": "IDX"
  }
 ];

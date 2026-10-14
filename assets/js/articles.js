@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bulog-pecahkan-rekor-pengadaan-beras-tembus-4-1-juta-ton",
+  "category": "BUMN",
+  "title": "BULOG [Pecahkan] Rekor Pengadaan Beras, Tembus 4,1 Juta Ton",
+  "deck": "Realisasi pengadaan beras BULOG per 8 Oktober 2026 mencapai 4.115.014 ton setara beras, atau 102,88 persen dari target pemerintah, tertinggi sepanjang sejarah perusahaan.",
+  "image": "assets/img/bulog-pecahkan-rekor-pengadaan-beras-tembus-4-1-juta-ton.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T02:01:40.833Z",
+  "sourceUrl": "https://www.bulog.co.id/2026/10/09/bulog-cetak-rekor-sepanjang-sejarah-pengadaan-beras-melampaui-4-juta-ton/",
+  "sourceLabel": "Perum BULOG",
+  "tags": [
+   "BULOG",
+   "Beras",
+   "Cadangan Pangan",
+   "Petani"
+  ],
+  "body": [
+   "Perum BULOG mencatat realisasi pengadaan beras tertinggi sepanjang sejarah perusahaan. Per 8 Oktober 2026, BULOG telah membeli 4.115.014 ton setara beras dari petani dan penggilingan, atau 102,88 persen dari target penugasan pemerintah sebesar 4 juta ton untuk tahun ini. Capaian ini penting karena beras yang dibeli BULOG menjadi cadangan pangan pemerintah yang dipakai untuk menstabilkan harga dan menyalurkan bantuan pangan ke masyarakat.",
+   "Angka tahun ini jauh melampaui realisasi 2025 yang sebesar 3.191.969 ton setara beras. Capaian tersebut juga melewati rekor pengadaan BULOG sebelumnya pada 2012, yaitu 3,65 juta ton, yang selama ini menjadi capaian tertinggi sejak perusahaan berdiri. Pembelian dilakukan lewat jaringan BULOG di berbagai sentra produksi padi, dengan melibatkan petani, kelompok tani, dan mitra penggilingan di berbagai daerah.",
+   "Menurut BULOG, capaian ini didukung oleh penguatan jaringan pembelian di tingkat petani, penambahan kapasitas gudang penyimpanan, dan percepatan penyerapan saat musim panen berlangsung. Direktur Utama BULOG Ahmad Rizal Ramdhani menyebut hasil ini sebagai bukti kerja jaringan BULOG di lapangan yang mendampingi petani sepanjang tahun, dengan dukungan dari Kementerian Pertanian, Badan Pangan Nasional, serta pemerintah daerah.",
+   "BULOG menyatakan akan menjaga momentum penyerapan hingga akhir tahun 2026, didorong oleh kolaborasi dan penguatan operasional dari hulu ke hilir. Siaran pers ini tidak merinci besaran stok beras yang saat ini tersimpan di gudang BULOG, maupun target pengadaan untuk tahun 2027."
+  ],
+  "fotoAdegan": "Workers stacking sacks of rice inside a large government warehouse, forklift moving nearby, afternoon light through open doors",
+  "fotoSumber": "https://www.bulog.co.id/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-12.01.51.jpeg",
+  "kreditFoto": "Perum BULOG",
+  "takeaway": "Yang berubah di sini adalah jumlah beras yang dibeli BULOG dari petani, bukan otomatis jumlah stok yang tersimpan, sebab beras yang masuk juga terus dikeluarkan lagi lewat program stabilisasi harga dan bantuan pangan ke masyarakat. Jadi angka 4,11 juta ton ini mengukur arus pembelian sepanjang tahun, bukan saldo akhir yang tersisa di gudang. Pihak yang paling terdampak adalah petani dan penggilingan padi yang selama ini menjual hasil panennya ke BULOG, serta masyarakat penerima program beras pemerintah yang bergantung pada ketersediaan stok itu. Tren tiga tahun terakhir, dari 3,19 juta ton pada 2025 ke lebih dari 4,1 juta ton tahun ini, mengarah ke target pengadaan pemerintah yang terus dinaikkan tahun demi tahun. Yang akan memastikan apakah kenaikan ini jadi kebijakan tetap atau cuma hasil kebetulan panen raya adalah besaran target pembelian beras untuk 2027 yang biasanya diumumkan awal tahun, serta jumlah stok yang benar-benar tersisa di gudang BULOG pada akhir Desember 2026.",
+  "imageV": "mv7gv687"
+ },
+ {
+  "slug": "bulog-catat-rekor-pengadaan-beras-tembus-4-1-juta-ton",
+  "category": "BUMN",
+  "title": "BULOG Catat [Rekor] Pengadaan Beras Tembus 4,1 Juta Ton",
+  "deck": "Realisasi pengadaan gabah dan beras BULOG mencapai 4,11 juta ton setara beras per 8 Oktober 2026, melampaui target pemerintah dan mencetak rekor baru sepanjang sejarah lembaga itu.",
+  "image": "assets/img/bulog-catat-rekor-pengadaan-beras-tembus-4-1-juta-ton.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T02:01:39.947Z",
+  "sourceUrl": "https://www.bulog.co.id/2026/10/09/bulog-cetak-sejarah-pengadaan-4-juta-ton-gelar-tasyakuran-bersama-komisi-iv-dpr-ri-di-ambon/",
+  "sourceLabel": "Perum BULOG",
+  "tags": [
+   "BULOG",
+   "Pengadaan Beras",
+   "Ketahanan Pangan",
+   "Cadangan Beras Pemerintah"
+  ],
+  "body": [
+   "Perum BULOG mencatat realisasi pengadaan gabah dan beras dalam negeri sebesar 4.115.014 ton setara beras per 8 Oktober 2026, atau 102,88 persen dari target pemerintah sebanyak 4 juta ton. Ini menjadi angka pengadaan tertinggi yang pernah dicapai BULOG sepanjang sejarahnya, dan penting karena menyangkut seberapa besar hasil panen petani yang bisa diserap negara sekaligus seberapa kuat cadangan beras pemerintah untuk menahan gejolak harga di pasar.",
+   "Capaian tahun ini melampaui realisasi 2025 yang sebesar 3.191.969 ton, sekaligus memecahkan rekor lama yang bertahan sejak 2012 di angka 3,65 juta ton. Kabar ini disampaikan bertepatan dengan kunjungan kerja reses Komisi IV DPR RI ke Ambon, yang juga meninjau langsung kondisi gudang BULOG Nusaniwe. Di wilayah Maluku dan Maluku Utara sendiri, stok beras yang dikelola BULOG tercatat 24.400 ton untuk menjaga pasokan di kawasan kepulauan.",
+   "Pengadaan sebesar ini menjadi penopang Cadangan Beras Pemerintah (CBP), yakni stok beras yang dipegang negara untuk dua keperluan utama: program Stabilisasi Pasokan dan Harga Pangan (SPHP), yaitu penjualan beras pemerintah ke pasar saat harga naik agar harga turun kembali, dan penyaluran bantuan pangan langsung ke masyarakat. Dengan stok yang lebih besar dari serapan dalam negeri, BULOG disebut memiliki modal lebih kuat untuk menjalankan kedua program itu tanpa harus mengandalkan beras impor."
+  ],
+  "fotoAdegan": "Workers carrying sacks of rice from a boat onto a small island pier, warehouse visible in the background, morning light",
+  "fotoSumber": "https://www.bulog.co.id/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-17.29.23.jpeg",
+  "kreditFoto": "Perum BULOG",
+  "takeaway": "Yang berubah secara konkret adalah angka pengadaan BULOG yang menembus 4,11 juta ton setara beras, rekor tertinggi sepanjang sejarah lembaga ini, melampaui 3,19 juta ton pada 2025 dan rekor lama 3,65 juta ton pada 2012. Yang terdampak langsung adalah petani yang gabahnya terserap BULOG, serta masyarakat penerima program SPHP dan bantuan pangan, karena stok inilah sumber penyalurannya, termasuk warga di kawasan kepulauan seperti Maluku dan Maluku Utara yang baru memiliki cadangan 24.400 ton. Arah dari capaian ini adalah cadangan beras pemerintah yang lebih besar, yang membuka peluang berkurangnya kebutuhan impor beras untuk kebutuhan SPHP dan bantuan pangan. Namun siaran pers ini tidak menyebut apakah stok besar itu sudah terdistribusi merata ke daerah, jadi yang perlu dipantau adalah data realisasi penyaluran SPHP dan bantuan pangan pada bulan-bulan berikutnya, serta keputusan pemerintah soal kebutuhan impor beras untuk awal 2027.",
+  "imageV": "mv7gv9dj"
+ },
+ {
   "slug": "ilo-seco-luncurkan-fase-baru-program-keuangan-umkm",
   "category": "UMKM",
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
@@ -28,7 +83,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang paling menjelaskan arah program ini bukan jumlah UMKM, melainkan jarak antara akses dan pemahaman: menurut survei OJK, 93,6 persen masyarakat sudah punya akses ke layanan keuangan seperti rekening atau pinjaman, tapi hanya 69,6 persen yang benar-benar paham cara memakainya secara produktif. Artinya banyak orang sudah terhubung ke bank atau lembaga pembiayaan, tapi belum tentu tahu cara mengelola pinjaman atau tabungan itu agar usahanya berkembang, dan di titik inilah program pendampingan seperti PROMISE II masuk. Yang terdampak langsung adalah usaha mikro, yang mendominasi 99,7 persen dari seluruh UMKM, termasuk kelompok spesifik yang disebut dalam program ini seperti peternak sapi perah di Pangalengan, petani nilam di Aceh, dan petani rumput laut di Sumba Timur serta Sulawesi Selatan. Pola yang terlihat adalah pergeseran fokus dari sekadar menambah jumlah nasabah kredit ke menyambungkan usaha kecil dengan rantai nilai yang lebih besar lewat pencatatan digital dan akses pasar ekspor, dan ini akan lebih jelas terbukti dari target serta cakupan daerah yang diumumkan untuk fase lanjutan program setelah peluncurannya hari ini.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "pemerintah-pacu-3-cepa-baru-bidik-ekspor-sawit-otomotif",
@@ -56,7 +112,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan tarif yang sudah turun, melainkan pemerintah resmi menyasar tiga perjanjian dagang sekaligus, dengan Uni Eropa, Kanada, dan kawasan Eurasia, dan mengarahkannya ke komoditas tertentu seperti sawit, otomotif, kopi, kakao, karet, baja, dan produk kayu untuk pasar Eropa, serta mineral, kimia, dan elektronik untuk pasar Kanada. Eksportir di sektor-sektor itulah yang akan merasakan dampaknya begitu perjanjian benar-benar berlaku, karena yang dihitung sejauh ini masih proyeksi tambahan ekspor menurut Kementerian Koordinator Perekonomian, bukan hasil yang sudah terjadi. Siaran pers ini belum menyebut tanggal pasti kapan masing-masing perjanjian mulai berlaku, termasuk tahap ratifikasi atau pengesahan oleh DPR dan parlemen negara mitra yang menentukan kapan proyeksi tersebut mulai bisa diuji. Yang perlu dipantau adalah jadwal ratifikasi dan pemberlakuan resmi ketiga perjanjian itu, karena tanpa itu angka-angka potensi ekspor di atas masih sebatas target di atas kertas.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "pasokan-bbm-bali-dikebut-pertamina-buka-suplai-24-jam",

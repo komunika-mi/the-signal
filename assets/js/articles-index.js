@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bulog-pecahkan-rekor-pengadaan-beras-tembus-4-1-juta-ton",
+  "category": "BUMN",
+  "title": "BULOG [Pecahkan] Rekor Pengadaan Beras, Tembus 4,1 Juta Ton",
+  "deck": "Realisasi pengadaan beras BULOG per 8 Oktober 2026 mencapai 4.115.014 ton setara beras, atau 102,88 persen dari target pemerintah, tertinggi sepanjang sejarah perusahaan.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/bulog-pecahkan-rekor-pengadaan-beras-tembus-4-1-juta-ton.jpg",
+  "imageV": "mv7gv687",
+  "tags": [
+   "BULOG",
+   "Beras",
+   "Cadangan Pangan",
+   "Petani"
+  ],
+  "kreditFoto": "Perum BULOG",
+  "sourceUrl": "https://www.bulog.co.id/2026/10/09/bulog-cetak-rekor-sepanjang-sejarah-pengadaan-beras-melampaui-4-juta-ton/",
+  "sourceLabel": "Perum BULOG"
+ },
+ {
+  "slug": "bulog-catat-rekor-pengadaan-beras-tembus-4-1-juta-ton",
+  "category": "BUMN",
+  "title": "BULOG Catat [Rekor] Pengadaan Beras Tembus 4,1 Juta Ton",
+  "deck": "Realisasi pengadaan gabah dan beras BULOG mencapai 4,11 juta ton setara beras per 8 Oktober 2026, melampaui target pemerintah dan mencetak rekor baru sepanjang sejarah lembaga itu.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/bulog-catat-rekor-pengadaan-beras-tembus-4-1-juta-ton.jpg",
+  "imageV": "mv7gv9dj",
+  "tags": [
+   "BULOG",
+   "Pengadaan Beras",
+   "Ketahanan Pangan",
+   "Cadangan Beras Pemerintah"
+  ],
+  "kreditFoto": "Perum BULOG",
+  "sourceUrl": "https://www.bulog.co.id/2026/10/09/bulog-cetak-sejarah-pengadaan-4-juta-ton-gelar-tasyakuran-bersama-komisi-iv-dpr-ri-di-ambon/",
+  "sourceLabel": "Perum BULOG"
+ },
+ {
   "slug": "ilo-seco-luncurkan-fase-baru-program-keuangan-umkm",
   "category": "UMKM",
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
@@ -6445,38 +6481,6 @@ var ARTICLES = [
    "watchlist"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202510/20261006184758-64490-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hrta-gandeng-bank-mandiri-jual-emas-batangan-emasku",
-  "category": "Aksi Korporasi",
-  "title": "HRTA Gandeng Bank Mandiri Jual [Emas] Batangan EMASKU",
-  "deck": "Hartadinata Abadi meneken kerja sama setahun dengan Bank Mandiri untuk menjual emas batangan EMASKU, memperluas kanal distribusi lewat jaringan bank pelat merah itu.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRTA",
-   "Bank Mandiri",
-   "EMASKU",
-   "emas batangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/536fa65029_6c24d966c0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "moya-jelaskan-ke-bursa-realisasi-dana-obligasi-rp1-98-triliun",
-  "category": "Aksi Korporasi",
-  "title": "MOYA Jelaskan ke Bursa [Realisasi] Dana Obligasi Rp1,98 Triliun",
-  "deck": "Emiten infrastruktur air MOYA merinci ke BEI penggunaan dana obligasi dan sukuk senilai hampir Rp2 triliun, dari pelunasan utang bank hingga pembangunan SPAM di Jakarta dan Bandung.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MOYA",
-   "obligasi",
-   "sukuk",
-   "SPAM"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8a0c73c644_2bf7ab6dc2.pdf",
   "sourceLabel": "IDX"
  }
 ];

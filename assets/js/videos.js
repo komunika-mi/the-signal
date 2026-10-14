@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "HbFCHOpwbNM",
+  "title": "DJP Kembangkan Sistem AI untuk Pantau Harta Wajib Pajak Kaya",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Direktorat Jenderal Pajak tengah menyelesaikan sistem berbasis kecerdasan buatan untuk memantau perubahan kekayaan wajib pajak beraset tinggi di Indonesia.",
+  "takeaway": "Relevan bagi pembaca karena menunjukkan arah penguatan pengawasan pajak orang kaya yang bisa berdampak pada kepatuhan pajak dan penerimaan negara.",
+  "terbit": "2026-10-14T14:24:54+00:00"
+ },
+ {
   "id": "VB6fHNLu2lI",
   "title": "Aturan Ketenagakerjaan Baru, Siapa Diuntungkan?",
   "category": "Ketenagakerjaan",

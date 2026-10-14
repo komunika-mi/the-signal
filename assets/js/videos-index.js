@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "HbFCHOpwbNM",
+  "title": "DJP Kembangkan Sistem AI untuk Pantau Harta Wajib Pajak Kaya",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Direktorat Jenderal Pajak tengah menyelesaikan sistem berbasis kecerdasan buatan untuk memantau perubahan kekayaan wajib pajak beraset tinggi di Indonesia.",
+  "takeaway": "Relevan bagi pembaca karena menunjukkan arah penguatan pengawasan pajak orang kaya yang bisa berdampak pada kepatuhan pajak dan penerimaan negara."
+ },
+ {
   "id": "VB6fHNLu2lI",
   "title": "Aturan Ketenagakerjaan Baru, Siapa Diuntungkan?",
   "category": "Ketenagakerjaan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "AKAP",
   "summary": "Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono meninjau laboratorium hidro EPFL di Swiss untuk mendorong transformasi pembangkit listrik tenaga air agar lebih optimal.",
   "takeaway": "Kunjungan ini memberi gambaran arah kebijakan pemerintah dalam pengembangan energi terbarukan berbasis air yang relevan bagi investasi infrastruktur energi nasional."
- },
- {
-  "id": "c5gUWS5rzu8",
-  "title": "IKA Fikom Unpad Bahas Tata Kelola dan Restrukturisasi BUMN",
-  "category": "BUMN",
-  "program": "Kabar Utama",
-  "summary": "Ikatan Keluarga Alumni Fikom Unpad menggelar forum diskusi mengenai tata kelola dan restrukturisasi perusahaan BUMN, digagas di bawah kepengurusan Ketua Umum Hendri Satrio.",
-  "takeaway": "Topik restrukturisasi dan tata kelola BUMN relevan bagi pembaca ekonomi karena menyangkut efisiensi dan kinerja perusahaan negara."
  }
 ];

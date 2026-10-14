@@ -194,7 +194,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah adalah kewajiban sertifikasi halal yang mulai berlaku 17 Oktober 2026, hanya tiga hari dari sekarang, untuk produk yang beredar di Indonesia. Yang langsung terdampak adalah pelaku usaha, terutama UMKM yang belum mengantongi sertifikat, meski pemerintah menyiapkan kuota 1,35 juta sertifikat gratis lewat program SEHATI untuk meringankan beban itu. Arah penerapannya sendiri belum jelas benar, sebab pemerintah menyebut aturan ini wajib, tapi dalam kalimat yang sama juga menegaskan akan tetap memperhatikan kesiapan pelaku usaha, yang bisa berarti penegakan ketat sejak hari pertama atau justru toleransi bertahap bagi yang belum siap. Yang akan menentukan ke arah mana kebijakan ini bergerak adalah langkah Badan Penyelenggara Jaminan Produk Halal begitu masa berlakunya dimulai pekan depan, yaitu apakah ada sanksi atau penindakan nyata terhadap produk tak bersertifikat, atau justru masa transisi tanpa konsekuensi.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "pemerintah-pangkas-bea-masuk-plastik-jadi-0-selama-6-bulan",
@@ -222,7 +222,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah bea masuk, yaitu pajak yang dikenakan saat barang masuk ke Indonesia, untuk enam jenis bahan baku plastik polyethylene dan polypropylene dipangkas jadi nol persen selama enam bulan, merespons harga bahan baku ini yang melonjak, polypropylene naik 42,79 persen dan polyethylene naik 27,87 persen dalam setahun. Yang terdampak langsung adalah importir dan industri plastik nasional yang mengolah bahan baku ini jadi produk jadi. Tapi menurut masukan pelaku usaha sendiri, barang yang kena insentif saat ini kebanyakan bahan baku bentuk cair, bukan bentuk pellet yang justru dipakai industri hilir seperti produsen kemasan, kebutuhan rumah tangga, petani, dan UMKM, sehingga manfaatnya belum otomatis mengalir ke kelompok itu. Arah kebijakan ini masih belum pasti, bisa berlanjut menjadi perluasan daftar bahan baku ke bentuk pellet kalau evaluasi menunjukkan insentif belum tepat sasaran, atau bisa tetap terbatas seperti sekarang. Yang masih kurang untuk memastikannya adalah hasil evaluasi pemerintah yang disebut akan terus berjalan, namun belum disertai tenggat waktu yang jelas.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "aset-migas-phr-di-siak-terjual-rp11-01-miliar-lampaui-target",

@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smle-jawab-permintaan-bursa-akui-rugi-semester-i-karena-transisi",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Jawab Permintaan Bursa, Akui [Rugi] Semester I Karena Transisi",
+  "deck": "SMLE menjelaskan ke BEI bahwa penurunan pendapatan dan rugi bersih semester I merupakan strategi transisi, sementara divestasi 50% saham Sinarom ke Denico masih berlanjut.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMLE",
+   "Sinar Aroma Sentosa",
+   "Denico Food Ingredients",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b375c363c2_92d001f1ba.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdln-jawab-bursa-soal-restrukturisasi-notes-rp5-2-t",
+  "category": "Aksi Korporasi",
+  "title": "MDLN Jawab Bursa soal [Restrukturisasi] Notes Rp5,2 T",
+  "deck": "MDLN menjelaskan ke BEI dasar hukum pengecualian RUPS dan penilai independen atas restrukturisasi Notes senilai Rp5,2 triliun yang melibatkan pengalihan tanah ke anak usaha baru.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLN",
+   "restrukturisasi utang",
+   "keterbukaan informasi",
+   "POJK 17/2020"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7c85c323bb_10c4526d92.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "maha-pastikan-karhutla-kalimantan-tak-ganggu-operasional",
+  "category": "Aksi Korporasi",
+  "title": "MAHA Pastikan Karhutla Kalimantan Tak Ganggu [Operasional]",
+  "deck": "MAHA menjawab permintaan penjelasan BEI soal kebakaran hutan dan lahan di wilayah tambang kliennya, menyatakan tidak ada dampak material terhadap produksi maupun keuangan 2026.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAHA",
+   "karhutla",
+   "coal hauling",
+   "Kalimantan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf396456f9_be2352af6f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kras-gabungkan-anak-usaha-ksi-dan-kit",
+  "category": "Aksi Korporasi",
+  "title": "KRAS [Gabungkan] Anak Usaha KSI dan KIT",
+  "deck": "Krakatau Steel menggabungkan anak usahanya, KSI dan KIT, lewat akta notaris 12 Oktober 2026, transaksi afiliasi yang dikecualikan dari prosedur khusus OJK.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KRAS",
+   "Krakatau Steel",
+   "transaksi afiliasi",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8e4d15bc6b_5e834dde7a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-jelaskan-rights-issue-ke-bei-dilusi-capai-95-24",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Jelaskan Rights Issue ke BEI, Dilusi Capai [95,24%]",
+  "deck": "DOOH menjawab permintaan penjelasan BEI atas rencana rights issue hingga 154,78 miliar saham baru dengan dilusi maksimum 95,24 persen.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "rights issue",
+   "PMHMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c96877bc88_25d50133a6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ppatk-catat-transaksi-janggal-rp684-71-triliun-di-tambang",
   "category": "Industri",
   "title": "PPATK Catat Transaksi Janggal [Rp684,71 Triliun] di Tambang",
@@ -23,6 +103,22 @@ var ARTICLES = [
   "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
  },
  {
+  "slug": "pgli-jelaskan-lonjakan-laba-kuartal-ii-dan-ekspansi-bakehouse",
+  "category": "Aksi Korporasi",
+  "title": "PGLI Jelaskan Lonjakan Laba Kuartal II dan Ekspansi [Bakehouse]",
+  "deck": "Dalam risalah public expose insidentil usai disuspensi bursa, manajemen PGLI membeberkan penyebab lonjakan laba sebelum pajak, rencana penambahan gerai Bakehouse, dan progres pembangkit mini-hidro yang sudah menjual listrik ke PLN.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGLI",
+   "public expose",
+   "Le Chic Bakehouse",
+   "pembangkit mini-hidro"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/33c66182e9_c9766ba685.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "martha-tilaar-dari-salon-garasi-rp1-juta-ke-kosmetik-raksasa",
   "category": "Bisnis",
   "title": "Martha Tilaar: dari Salon Garasi Rp1 Juta ke [Kosmetik] Raksasa",
@@ -38,6 +134,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472948-kisah-perjuangan-martha-tilaar-dari-salon-kecil-di-garasi-hingga-membangun-bisnis-kosmetik-besar"
+ },
+ {
+  "slug": "bmas-resmi-angkat-moses-ronald-supardi-jadi-direktur-bisnis",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Resmi Angkat Moses Ronald Supardi Jadi [Direktur] Bisnis",
+  "deck": "Jabatan Direktur Bisnis BMAS yang baru efektif sejak 2 Oktober 2026 setelah lolos fit and proper test OJK, mengisi kursi yang ditinggal Junita Wangsadinata sejak Mei 2026.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "direksi",
+   "pergantian pengurus",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/59086641f2_b51c49f623.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pgun-klaim-dampak-karhutla-ke-produksi-sawit-minim",
@@ -204,6 +316,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "asgr-jadwalkan-rupslb-pada-20-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASGR Jadwalkan [RUPSLB] pada 20 November 2026",
+  "deck": "Astra Graphia (ASGR) akan menggelar RUPSLB pada 20 November 2026 di Jakarta, dengan tenggat pengajuan usul agenda oleh pemegang saham pada 22 Oktober 2026.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASGR",
+   "RUPSLB",
+   "Astra Graphia",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6d6a6d11bd_9f221d8242.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bni-bukukan-penjualan-agunan-rp510-77-miliar",
   "category": "Perbankan",
   "title": "BNI Bukukan Penjualan Agunan [Rp510,77] Miliar",
@@ -270,6 +398,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9f22224014_34246903c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "msie-gelar-rupslb-20-november-bahas-penyesuaian-kbli",
+  "category": "Aksi Korporasi",
+  "title": "MSIE Gelar RUPSLB 20 November, Bahas [Penyesuaian] KBLI",
+  "deck": "MSIE akan menggelar RUPSLB pada 20 November 2026 untuk menyetujui penyesuaian kode klasifikasi usaha dari KBLI 2020 ke KBLI 2025, tanpa mengubah kegiatan usaha.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSIE",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "KBLI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/32ca78511a_9600b12bf4.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6337,153 +6481,6 @@ var ARTICLES = [
    "UMA"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec70c6321b_3177309b30.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cent-jadwalkan-rupslb-13-november-pencatatan-dps-21-oktober",
-  "category": "Aksi Korporasi",
-  "title": "CENT Jadwalkan [RUPSLB] 13 November, Pencatatan DPS 21 Oktober",
-  "deck": "PT Centratama Telekomunikasi Indonesia Tbk (CENT) menjadwalkan RUPSLB pada 13 November 2026, dengan pencatatan pemegang saham berhak hadir per 21 Oktober 2026.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CENT",
-   "RUPSLB",
-   "Centratama Telekomunikasi",
-   "Pasar Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/64668d27f6_36e9e956d1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "crsn-komisaris-sheila-maria-tiwan-jual-167-700-saham",
-  "category": "Aksi Korporasi",
-  "title": "CRSN: Komisaris Sheila Maria Tiwan [Jual] 167.700 Saham",
-  "deck": "Komisaris Carsurin, Sheila Maria Tiwan, melepas 167.700 saham CRSN senilai sekitar Rp23,5 juta, hak suaranya turun tipis dari 50,04% menjadi 50,03%.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRSN",
-   "Carsurin",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-2326-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bold-tunjuk-yohanes-budi-kurniawan-jadi-wakil-direktur-utama",
-  "category": "Aksi Korporasi",
-  "title": "BOLD Tunjuk Yohanes Budi Kurniawan jadi [Wakil Direktur Utama]",
-  "deck": "BOLD menambah posisi Wakil Direktur Utama yang diisi Yohanes Budi Kurniawan, bersama dua direktur baru lain, efektif 2 Oktober 2026.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLD",
-   "direksi",
-   "komisaris",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6685dee6b1_14bd43938a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "crsn-laporan-jual-saham-komisaris-direvisi-jadi-71-900-lembar",
-  "category": "Aksi Korporasi",
-  "title": "CRSN: Laporan Jual Saham Komisaris [Direvisi] Jadi 71.900 Lembar",
-  "deck": "Komisaris Carsurin Sheila Maria Tiwan merevisi laporan penjualan sahamnya, dari 167.700 menjadi 71.900 lembar saham. Hak suaranya tetap 50,04 persen.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRSN",
-   "Carsurin",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-4392-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cani-gelar-public-expose-insidentil-soal-opini-disclaimer",
-  "category": "Aksi Korporasi",
-  "title": "CANI Gelar Public Expose [Insidentil] Soal Opini Disclaimer",
-  "deck": "BEI meminta CANI menggelar paparan publik insidentil pada 9 Oktober 2026 untuk menjelaskan opini disclaimer auditor dan roadmap pemulihan di tengah suspensi saham.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CANI",
-   "opini disclaimer",
-   "suspensi saham",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/feacaceae2_f4f9c2c011.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-400-000-saham-rp207-juta",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [jual] 400.000 saham, Rp207 juta",
-  "deck": "Komisaris Argha Karya Prima Henry Liem melepas 400.000 saham AKPI pada 6 Oktober 2026, mengurangi kepemilikannya dari 6,69 juta jadi 6,3 juta lembar saham.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Argha Karya Prima",
-   "komisaris",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-6455-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tarif-pajak-hiburan-jakarta-capai-40-persen",
-  "category": "Makroekonomi",
-  "title": "Tarif Pajak Hiburan Jakarta Capai [40] Persen",
-  "deck": "Jakarta mengenakan tarif PBJT 10 persen untuk hiburan umum dan 40 persen untuk diskotek, karaoke, kelab malam, bar, serta spa sesuai Perda DKI Nomor 1 Tahun 2024.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/tarif-pajak-hiburan-jakarta-capai-40-persen.jpg",
-  "imageV": "muxprs7y",
-  "tags": [
-   "PBJT",
-   "Pajak Daerah",
-   "DKI Jakarta",
-   "Hiburan Malam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471600-kenali-tarif-pbjt-jasa-hiburan-di-jakarta-dari-10-persen-hingga-40-persen"
- },
- {
-  "slug": "djp-atur-syarat-penyedia-printer-meterai-digital",
-  "category": "Makroekonomi",
-  "title": "DJP Atur Syarat Penyedia Printer Meterai [Digital]",
-  "deck": "DJP menerbitkan aturan baru yang mengatur syarat, kewajiban, dan sanksi bagi penyedia printer meterai teraan digital, berlaku sejak 22 September 2026.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/djp-atur-syarat-penyedia-printer-meterai-digital.jpg",
-  "imageV": "muxhqqok",
-  "tags": [
-   "DJP",
-   "Meterai Digital",
-   "Bea Meterai",
-   "Regulasi Pajak"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/djp-terbitkan-aturan-penyedia-printer-meterai-teraan-digital",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "cnko-panggil-rupslb-kedua-usai-kuorum-pertama-gagal",
-  "category": "Aksi Korporasi",
-  "title": "CNKO Panggil RUPSLB Kedua usai [Kuorum] Pertama Gagal",
-  "deck": "Setelah RUPS pertama pada Juli 2026 gagal mencapai kuorum, CNKO menjadwalkan rapat kedua pada 15 Oktober 2026 untuk membahas perubahan anggaran dasar.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CNKO",
-   "RUPSLB",
-   "anggaran dasar",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f42d4f9244_48b811e85b.pdf",
   "sourceLabel": "IDX"
  }
 ];

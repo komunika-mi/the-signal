@@ -3,6 +3,135 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smle-jawab-permintaan-bursa-akui-rugi-semester-i-karena-transisi",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Jawab Permintaan Bursa, Akui [Rugi] Semester I Karena Transisi",
+  "deck": "SMLE menjelaskan ke BEI bahwa penurunan pendapatan dan rugi bersih semester I merupakan strategi transisi, sementara divestasi 50% saham Sinarom ke Denico masih berlanjut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T17:19:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b375c363c2_92d001f1ba.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMLE",
+  "tags": [
+   "SMLE",
+   "Sinar Aroma Sentosa",
+   "Denico Food Ingredients",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Sinergi Multi Lestarindo Tbk (SMLE) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-12972/BEI.PP3/10-2026 tertanggal 12 Oktober 2026. Dalam surat bertanggal 14 Oktober 2026 yang ditandatangani Direktur Utama Siu Min, perseroan menegaskan kegiatan usaha dan entitas anak berjalan normal tanpa hambatan material. Anak usaha PT Sinar Aroma Sentosa (Sinarom) disebut sedang menguji coba prototipe produk ke sejumlah calon pelanggan di industri makanan sekaligus menegosiasikan harga produksi sebagai persiapan sebelum menjual produk itu secara komersial.",
+   "Soal penurunan pendapatan dan rugi bersih pada laporan keuangan per 30 Juni 2026, SMLE menjelaskan hal itu sebagai langkah sengaja mengarahkan penjualan ke produk specialty ingredients bermargin lebih tinggi, dengan tujuan membuat penggunaan modal kerja lebih efisien. Penurunan laba disebut dipengaruhi proses transisi usaha yang masih berjalan. Untuk kebutuhan modal kerja dan belanja modal ke depan, perseroan akan mengandalkan arus kas internal, menegosiasikan ulang jangka waktu pembayaran ke pemasok, dan baru memakai fasilitas pinjaman bank bila benar-benar diperlukan. Belanja modal sendiri akan dipilih secara selektif, diprioritaskan untuk investasi yang dianggap paling bernilai tambah.",
+   "Mengenai rencana pelepasan 50 persen saham Sinarom, SMLE mengonfirmasi mitra yang dituju adalah Denico Food Ingredients, perusahaan manufaktur asal Denmark, dan kedua pihak telah menandatangani Letter of Intent (LoI). Uji tuntas (due diligence) terhadap Sinarom akan dilakukan dalam waktu dekat, namun nilai transaksi maupun skema pembayaran belum diungkap. Dana hasil divestasi, jika transaksi terjadi, direncanakan dipakai untuk memperkuat modal kerja dan pengembangan produk serta fasilitas Sinarom. SMLE juga menegaskan Sinarom punya lini bisnis berbeda darinya, yakni manufaktur dan pencampuran bahan kimia sesuai formulasi pelanggan, sementara SMLE sendiri fokus pada distribusi dan penjualan bahan baku. Selain rencana ini, perseroan menyatakan belum punya agenda aksi korporasi lain dalam 12 bulan ke depan, dan tidak ada informasi material lain yang belum diumumkan selain yang sudah disampaikan lewat Public Expose Insidentil pada 13 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers checking rows of sealed chemical ingredient drums on wooden pallets inside a distribution warehouse, forklift passing by",
+  "takeaway": "Laporan ini condong netral bagi SMLE, karena penurunan pendapatan dan rugi bersih memang diakui, tetapi perseroan membungkusnya sebagai pilihan strategi, dan rencana penjualan saham Sinarom masih berhenti di tahap LoI tanpa nilai transaksi yang bisa dihitung dampaknya. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang keluar masuk perusahaan sehari-hari, karena SMLE memilih menahan belanja modal dan menegosiasikan ulang waktu bayar ke pemasok alih-alih menambah utang bank, sebuah sinyal bahwa perseroan sedang berhati-hati menjaga likuiditasnya. Margin laba juga disebut, yaitu porsi keuntungan dari setiap rupiah penjualan, dan strategi memilih produk bermargin tinggi inilah yang dipakai perseroan untuk menjelaskan kenapa penjualan turun tapi belum tentu keuntungan jangka panjang ikut turun. Yang perlu dipantau selanjutnya adalah hasil uji tuntas Denico Food Ingredients terhadap Sinarom dan apakah nilai transaksi divestasi akhirnya diumumkan, karena baru di titik itu dampaknya terhadap kas dan laba SMLE bisa dihitung secara konkret, bukan sekadar niat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdln-jawab-bursa-soal-restrukturisasi-notes-rp5-2-t",
+  "category": "Aksi Korporasi",
+  "title": "MDLN Jawab Bursa soal [Restrukturisasi] Notes Rp5,2 T",
+  "deck": "MDLN menjelaskan ke BEI dasar hukum pengecualian RUPS dan penilai independen atas restrukturisasi Notes senilai Rp5,2 triliun yang melibatkan pengalihan tanah ke anak usaha baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T17:10:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7c85c323bb_10c4526d92.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLN",
+  "tags": [
+   "MDLN",
+   "restrukturisasi utang",
+   "keterbukaan informasi",
+   "POJK 17/2020"
+  ],
+  "body": [
+   "PT Modernland Realty Tbk (MDLN) menyampaikan jawaban resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-12988/BEI.PP2/10-2026 tanggal 12 Oktober 2026, terkait rencana perubahan atas surat utang (Notes) jatuh tempo April 2027 yang diterbitkan anak usahanya di Singapura, Modernland Overseas Pte Ltd (MLO). Bursa mempertanyakan dasar hukum MDLN yang menilai transaksi ini dikecualikan dari kewajiban memakai penilai independen dan meminta persetujuan RUPS, sebab pengecualian itu disandarkan pada putusan Pengadilan Tinggi Singapura atas skema restrukturisasi (Scheme of Arrangement), padahal objek transaksinya berupa hak atas tanah di Indonesia. MDLN menjawab bahwa Pasal 11 huruf e POJK 17/2020 tidak membatasi pengecualian hanya untuk putusan pengadilan domestik, dan menyebut pendekatan serupa sudah tiga kali dipakai sejak 2021.",
+   "Dari sisi angka, jumlah utang Notes yang terutang per 30 September 2026 tercatat US$289,8 juta, atau setara Rp5,21 triliun dengan kurs tengah Rp17.998 per dolar AS, setara 139,59 persen dari ekuitas perusahaan per akhir 2025 sebesar Rp3,74 triliun. Sebagai gantinya, MDLN akan mengalihkan hak atas tanah di Jakarta Garden City (sekitar 35 hektare), Tangerang (4,6 hektare), dan Bekasi (159 hektare) senilai sekitar Rp3,5 triliun berdasarkan penilaian KJPP Knight Frank April 2025, ke perusahaan baru bernama PT Aurum Terra Indonesia yang sahamnya nanti dialihkan ke perwakilan pemegang Notes. Pengalihan ini ditargetkan rampung paling lambat 30 Desember 2026, sementara sebagian tanah lain senilai sekitar Rp1 triliun dijadikan jaminan untuk fasilitas pendanaan baru minimal US$34 juta yang akan dipakai membayar upfront fee 5 persen kepada pemegang Notes. Jatuh tempo Notes baru digeser ke 30 Juni 2028 dengan bunga 3 persen per tahun.",
+   "Soal persetujuan pemegang saham independen, MDLN berpendapat Pasal 14 POJK 17/2020 tidak relevan karena transaksi sudah dikecualikan lewat Pasal 11 huruf e, dan menegaskan RUPSLB yang disetujui 14 September 2026 sebenarnya untuk memenuhi Pasal 102 UU Perseroan Terbatas dan Pasal 43 POJK 15/2020, bukan persetujuan khusus atas pengalihan tanah ini. Perusahaan memperkirakan setelah transaksi, total aset turun sekitar Rp1 triliun, total liabilitas turun sekitar Rp4,4 triliun, dan ekuitas naik sekitar Rp3,4 triliun, dengan pendapatan usaha tidak berubah namun ada pengakuan laba dari selisih utang yang dihapus dan nilai aset yang dilepas. MDLN juga mengungkapkan sudah beraudiensi dengan OJK secara daring pada 30 Juli 2026 terkait kepatuhan atas POJK 17/2020, namun hingga kini belum menerima tanggapan lanjutan dari otoritas tersebut."
+  ],
+  "fotoAdegan": "Aerial view of a large undeveloped land plot on Jakarta's outskirts with red soil tracks, construction equipment parked at the edge, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi MDLN: utang yang terhapus dari buku (sekitar Rp4,4 triliun) lebih besar dari nilai aset tanah yang dilepas (sekitar Rp1 triliun), sehingga ekuitas perusahaan diperkirakan naik Rp3,4 triliun, tetapi cara penghapusan utang ini belum melalui penilai independen maupun persetujuan tegas pemegang saham independen, dan justru itu yang sedang dipersoalkan bursa. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang menjadi penyangga perusahaan kalau terjadi kerugian, serta rasio utang terhadap ekuitas yang disebut membaik karena beban dolar senilai US$289,8 juta ini lenyap dari pembukuan. Pelaku pasar mencermati ini karena rasio keuangan yang lebih sehat biasanya memudahkan akses pendanaan baru, tetapi penghapusan utang tanpa penilai independen juga membuka pertanyaan apakah nilai tukar aset senilai Rp3,5 triliun untuk utang Rp5,2 triliun ini sudah adil bagi pemegang saham publik. Yang perlu dipantau berikutnya adalah apakah OJK akhirnya memberi tanggapan resmi atas audiensi 30 Juli 2026, dan apakah pengalihan tanah ke PT Aurum Terra Indonesia benar rampung sebelum tenggat 30 Desember 2026, sebab jika molor maka pencairan dana baru US$34 juta dan skema pelunasan bunga ikut tertunda.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "maha-pastikan-karhutla-kalimantan-tak-ganggu-operasional",
+  "category": "Aksi Korporasi",
+  "title": "MAHA Pastikan Karhutla Kalimantan Tak Ganggu [Operasional]",
+  "deck": "MAHA menjawab permintaan penjelasan BEI soal kebakaran hutan dan lahan di wilayah tambang kliennya, menyatakan tidak ada dampak material terhadap produksi maupun keuangan 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T16:56:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf396456f9_be2352af6f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAHA",
+  "tags": [
+   "MAHA",
+   "karhutla",
+   "coal hauling",
+   "Kalimantan"
+  ],
+  "body": [
+   "PT Mandiri Herindo Adiperkasa Tbk (MAHA) menyampaikan tanggapan tertulis bernomor 033/MAHA-CORSEC/LPR/X/2026 tertanggal 14 Oktober 2026, menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-13062/BEI.PP2/10-2026 tertanggal 13 Oktober 2026 terkait kebakaran hutan dan lahan atau karhutla. Tanggapan ditandatangani Ivan Darwin selaku Corporate Secretary. Dalam surat itu, MAHA menjelaskan bahwa bisnisnya adalah jasa penunjang pertambangan, khususnya pengangkutan batu bara atau coal hauling, yang seluruh kegiatannya dilakukan di area kerja milik klien pemegang izin usaha pertambangan di tiga provinsi, yaitu Kalimantan Timur di Kabupaten Paser, Kalimantan Utara di Kabupaten Nunukan dan Sembakung, serta Kalimantan Tengah. Seluruh pendapatan perseroan berasal dari kontrak jasa pengangkutan dan sewa alat pendukung di proyek-proyek tersebut.",
+   "Perseroan menegaskan karhutla di sekitar area proyek tidak berdampak material terhadap kegiatan operasional maupun target produksi 2026. Seluruh armada, mulai dari double trailer, single trailer, hingga dump truck, disebut beroperasi normal tanpa ada penghentian operasional tidak terencana di lokasi proyek atau fasilitas pendukung. MAHA juga menyatakan tidak ada dampak finansial negatif yang material terhadap estimasi pendapatan, laba bersih, maupun nilai aset perseroan akibat kejadian ini.",
+   "Meski begitu, perseroan mengakui risiko karhutla lebih berpotensi memengaruhi kesehatan dan keselamatan kerja karyawan, terutama pengemudi dan operator di jalur pengangkutan. Sebagai mitigasi, MAHA mewajibkan penggunaan masker respirator N95 bagi seluruh pengemudi dan pekerja lapangan, memantau berkala kepekatan asap dan visibilitas jalur angkut, menyediakan pemeriksaan kesehatan berkala, tabung oksigen, dan fasilitas P3K di site office serta mess karyawan, serta menyiram jalan angkut secara intensif untuk menekan debu dan asap. Untuk jangka panjang, perseroan menyiapkan alat pemadam api di setiap unit kendaraan dan berkoordinasi dengan tim keselamatan dan lingkungan milik klien pemegang izin tambang dalam memantau titik panas di sekitar jalur hauling. MAHA juga menyatakan tidak sedang dan tidak berpotensi menghadapi proses hukum atau sanksi administratif terkait karhutla, karena perseroan bukan pemilik konsesi lahan, serta tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Convoy of heavy mining dump trucks driving along a dusty haul road through smoky, hazy forest landscape in Kalimantan under an orange-tinted sky.",
+  "takeaway": "Laporan ini saya nilai netral untuk MAHA, karena isinya menegaskan tidak ada perubahan pada operasional maupun proyeksi keuangan tahun ini, bukan membawa kabar baru yang mengubah prospek perseroan. Yang tersentuh di sini bukan ekuitas atau laba per saham, melainkan biaya operasional untuk masker, pemeriksaan kesehatan, dan penyiraman jalan yang menurut perseroan belum sampai menggerus proyeksi laba 2026, serta kelangsungan armada pengangkutan yang menjadi satu-satunya sumber pendapatan MAHA. Pelaku pasar biasanya mencermati jenis klarifikasi seperti ini karena menyangkut keberlangsungan arus kas dari kontrak jasa yang sedang berjalan, bukan karena ada perubahan struktur permodalan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV 2026, karena di situlah klaim tidak ada dampak material dari karhutla ini akan teruji, termasuk kemungkinan Bursa meminta penjelasan susulan apabila kabut asap di Kalimantan memburuk dalam beberapa pekan ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kras-gabungkan-anak-usaha-ksi-dan-kit",
+  "category": "Aksi Korporasi",
+  "title": "KRAS [Gabungkan] Anak Usaha KSI dan KIT",
+  "deck": "Krakatau Steel menggabungkan anak usahanya, KSI dan KIT, lewat akta notaris 12 Oktober 2026, transaksi afiliasi yang dikecualikan dari prosedur khusus OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T16:32:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8e4d15bc6b_5e834dde7a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KRAS",
+  "tags": [
+   "KRAS",
+   "Krakatau Steel",
+   "transaksi afiliasi",
+   "anak usaha"
+  ],
+  "body": [
+   "PT Krakatau Steel (Persero) Tbk melaporkan penggabungan dua anak usahanya, PT Krakatau Sarana Infrastruktur (KSI) dan PT Krakatau Information Technology (KIT), melalui Akta Nomor 65 tanggal 12 Oktober 2026 yang dibuat di hadapan notaris Jose Dima Satria di Jakarta Selatan. Dalam penggabungan ini, KSI berperan sebagai perusahaan penerima penggabungan atau surviving entity, sementara KIT melebur dan berhenti berdiri sebagai entitas tersendiri. Proses ini sudah diberitahukan ke Kementerian Hukum Republik Indonesia lewat surat penerimaan pemberitahuan bernomor AHU-AH.01.09-0415485 tertanggal 12 Oktober 2026.",
+   "KSI dimiliki langsung oleh Krakatau Steel sebesar 99,99 persen, sedangkan KIT dimiliki 100 persen oleh KSI, sehingga seluruhnya masih dalam satu grup perusahaan yang dikendalikan Krakatau Steel. Perseroan menyebut penggabungan ini sejalan dengan strategi bisnisnya dan menegaskan tidak berdampak pada kegiatan operasional, kondisi hukum, kondisi keuangan, maupun kelangsungan usaha Krakatau Steel sebagai induk usaha. Karena kedua pihak sama-sama dimiliki minimal 99 persen oleh Krakatau Steel, transaksi ini mendapat pengecualian dari kewajiban prosedur transaksi afiliasi berdasarkan Pasal 6 ayat (1) huruf b POJK No. 42/2020, dan cukup dilaporkan ke OJK paling lambat akhir hari kerja kedua setelah tanggal transaksi, yaitu 14 Oktober 2026. Laporan ini ditandatangani oleh Rachman Hidayat selaku Plt Corporate Secretary Krakatau Steel."
+  ],
+  "fotoAdegan": "Exterior of an industrial steel plant complex with pipework, control building and overcast sky, no people visible",
+  "takeaway": "Laporan ini netral bagi Krakatau Steel karena yang terjadi hanyalah penyatuan dua anak usaha yang sudah sepenuhnya dikuasai induknya sendiri, bukan transaksi dengan pihak luar yang memasukkan atau mengeluarkan uang dari grup. Tidak ada pos keuangan konsolidasi Krakatau Steel yang berubah akibat ini, karena aset dan kewajiban KIT cuma berpindah tempat ke dalam KSI, sama-sama masih tercatat di bawah payung Krakatau Steel seperti sebelumnya. Pelaku pasar biasanya tetap mencermati transaksi antarpihak terafiliasi untuk memastikan tidak ada nilai yang bocor keluar dari perusahaan, tapi aturan OJK sendiri mengecualikan kasus seperti ini justru karena kepemilikannya sudah hampir penuh di tangan induk. Yang perlu dipantau selanjutnya adalah kewajiban pelaporan ke OJK yang jatuh pada 14 Oktober 2026, yakni tanggal yang sama dengan terbitnya laporan ini, serta apakah Krakatau Steel akan melanjutkan langkah serupa untuk merampingkan anak usaha lainnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-jelaskan-rights-issue-ke-bei-dilusi-capai-95-24",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Jelaskan Rights Issue ke BEI, Dilusi Capai [95,24%]",
+  "deck": "DOOH menjawab permintaan penjelasan BEI atas rencana rights issue hingga 154,78 miliar saham baru dengan dilusi maksimum 95,24 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T16:32:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c96877bc88_25d50133a6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "rights issue",
+   "PMHMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menjawab surat Bursa Efek Indonesia Nomor S-12997/BEI.PP3/10-2026 tanggal 12 Oktober 2026 yang meminta penjelasan soal rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I). Perseroan memastikan akan menerbitkan sebanyak-banyaknya 154.777.820.720 saham baru bernilai nominal Rp10 per saham, dibandingkan jumlah saham beredar saat ini sebanyak 7.738.891.036 saham. Rasio indikatifnya sebanyak-banyaknya 1 banding 20, artinya setiap satu saham lama berpotensi memperoleh hingga 20 hak untuk membeli satu saham baru per haknya. Rasio final, harga pelaksanaan, dan jadwal baru akan ditetapkan direksi berdasarkan kuasa RUPSLB dan diumumkan dalam prospektus. Jika dihitung dari jumlah maksimum saham baru, dilusi bagi pemegang saham yang tidak ikut menebus haknya bisa mencapai 95,24 persen.",
+   "Dana hasil rights issue, setelah dipotong biaya emisi, akan dipakai untuk dua hal. Pertama, melunasi utang kepada pemegang saham pengendali, PT Sinergi Internasional Investama (SII), berdasarkan Perjanjian Pinjaman Pemegang Saham tanggal 1 September 2026 dengan plafon hingga Rp5 triliun, bunga 7,5 persen per tahun, jangka waktu 10 tahun, tanpa jaminan kebendaan, dan bisa dilunasi lebih cepat dengan pemberitahuan 30 hari. Pencairan awal pinjaman ini, sebanyak-banyaknya Rp2 triliun, akan dimintakan persetujuan pemegang saham independen pada RUPSLB karena dikategorikan Transaksi Material dan Transaksi Afiliasi, dan sudah dinilai wajar oleh KJPP Toha, Okky, Heru & Rekan lewat laporan tertanggal 29 September 2026. Kedua, dana dipakai untuk ekspansi ekosistem AI lewat infrastruktur data center, konektivitas kecepatan tinggi, jaringan fiber optik domestik dan bawah laut, serta energi surya.",
+   "Pinjaman dari SII tersebut sebelumnya digunakan untuk mendanai entitas anak Perseroan, PT Cakrawala Nexus Investama (CNI), dalam rencana mengambil 29,88 persen saham PT Sinergi Inti Andalan Prima Tbk (INET). Karena pemegang saham pengendali INET tetap PT Abadi Kreasi Unggul Nusantara dengan 29,89 persen, kepemilikan CNI di INET dicatat sebagai investasi pada entitas asosiasi, sehingga pendapatan INET tidak masuk ke laporan konsolidasi DOOH, meski laba DOOH akan tetap terpengaruh oleh bagian laba rugi INET dan beban bunga pinjaman akuisisi. SII sendiri menjadi pengendali DOOH sejak 30 Juli 2026 dengan kepemilikan 51 persen, dan pemilik SII adalah Tinawati sebesar 99,9 persen serta Sugiyanti sebesar 0,1 persen. Sampai saat surat ini terbit, Perseroan belum menunjuk pembeli siaga untuk menyerap sisa saham yang tidak ditebus pemegang HMETD."
+  ],
+  "fotoAdegan": "Technicians inspecting fiber optic cable trays between tall server racks in a dim data center aisle, status lights glowing",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik DOOH, karena skala dilusinya sangat besar, sampai 95,24 persen, dan sebagian besar dana yang terkumpul dari rights issue justru dipakai untuk melunasi utang kepada pengendali sendiri, bukan modal segar baru dari luar. Pos yang tersentuh adalah jumlah saham beredar, yang berpotensi melonjak dari 7,74 miliar menjadi sampai 162,5 miliar lembar, sehingga laba per saham, yaitu bagian laba bersih yang jadi hak tiap lembar saham, bisa terpecah jauh lebih kecil kalau laba perusahaan tidak tumbuh secepat pertambahan jumlah sahamnya. Di sisi lain, pelunasan pinjaman hingga Rp5 triliun dari SII memang akan memangkas beban bunga tahunan 7,5 persen yang sedang ditanggung Perseroan, jadi ada juga perbaikan di pos utang dan beban bunga yang perlu ditimbang. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 9 November 2026, sebab di sanalah pemegang saham akan memutuskan rasio final HMETD, harga pelaksanaannya, dan persetujuan pencairan awal pinjaman hingga Rp2 triliun dari SII.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ppatk-catat-transaksi-janggal-rp684-71-triliun-di-tambang",
   "category": "Industri",
   "title": "PPATK Catat Transaksi Janggal [Rp684,71 Triliun] di Tambang",
@@ -31,6 +160,32 @@ var ARTICLES = [
   "imageV": "mv7vdkbu"
  },
  {
+  "slug": "pgli-jelaskan-lonjakan-laba-kuartal-ii-dan-ekspansi-bakehouse",
+  "category": "Aksi Korporasi",
+  "title": "PGLI Jelaskan Lonjakan Laba Kuartal II dan Ekspansi [Bakehouse]",
+  "deck": "Dalam risalah public expose insidentil usai disuspensi bursa, manajemen PGLI membeberkan penyebab lonjakan laba sebelum pajak, rencana penambahan gerai Bakehouse, dan progres pembangkit mini-hidro yang sudah menjual listrik ke PLN.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T15:22:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/33c66182e9_c9766ba685.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGLI",
+  "tags": [
+   "PGLI",
+   "public expose",
+   "Le Chic Bakehouse",
+   "pembangkit mini-hidro"
+  ],
+  "body": [
+   "PT Pembangunan Graha Lestari Indah Tbk (PGLI) menyampaikan risalah hasil Public Expose Insidentil yang digelar Selasa, 13 Oktober 2026, pukul 10.00 sampai 10.38 WIB, secara luring di Hotel Travellers Suites Medan dan daring lewat Zoom. Acara ini merupakan tindak lanjut dari penghentian sementara perdagangan saham PGLI oleh Bursa Efek Indonesia pada 8 Oktober 2026 yang kemudian dibuka kembali sehari setelahnya. Perseroan diwakili oleh Presiden Direktur Nicholas S. Hutapea, Wakil Presiden Direktur Animan Hutapea, dan Direktur sekaligus Corporate Secretary Linda Sari, dengan 12 peserta eksternal yang hadir di luar jajaran manajemen dan karyawan.",
+   "Salah satu pertanyaan dari kalangan analis menyoroti data pada materi paparan yang menunjukkan laba usaha tercatat Rp87, namun laba sebelum pajak melonjak menjadi Rp293, sementara beban pajak menyerap sekitar separuh dari angka tersebut (satuan nominal tidak disebutkan secara eksplisit dalam risalah). Linda Sari menjelaskan bahwa selisih itu berasal dari pendapatan lain-lain berupa laba penjualan aset bergerak yang nilai bukunya sudah nol, bukan dari kinerja operasional inti. Ia juga menyebut beban pajak yang tercatat merupakan pajak tangguhan, sesuai penerapan standar akuntansi PSAK 46, bukan pajak yang dibayar tunai saat itu juga.",
+   "Pada sesi lain, manajemen mengungkap bahwa lini bisnis Le Chic Bakehouse tengah menjajaki pembukaan kembali gerai di sejumlah pusat perbelanjaan di Medan, dengan satu gerai berkonsep baru sudah dibuka pada 20 September 2026 di sebuah mal besar di kota itu, dan rencana penambahan gerai secara bertahap di mal lain seperti Mall Centre Point. Manajemen tidak bersedia merinci nilai belanja modal khusus untuk ekspansi ini, hanya menyebut komponen biayanya didominasi sewa lokasi yang berbeda-beda di tiap mal, dengan anggaran renovasi yang disebut tidak terlalu besar. Di sisi lain, manajemen mengonfirmasi bahwa pembangkit listrik mini-hidro yang dikelola anak usaha PT Aek Simonggo Energy sudah beroperasi dan menjual listrik ke PT PLN (Persero) sejak Februari 2026."
+  ],
+  "fotoAdegan": "Small hydroelectric powerhouse beside a fast-flowing jungle river in North Sumatra, transmission lines over forested hills, overcast light.",
+  "takeaway": "Laporan ini netral bagi fundamental PGLI, karena dua kabar baik yakni gerai Bakehouse baru dan pembangkit mini-hidro yang sudah menjual listrik ke PLN masih berimbang dengan penjelasan bahwa lonjakan laba triwulan bukan berasal dari kinerja operasional inti. Yang disentuh di sini adalah selisih antara laba usaha dan laba sebelum pajak, pelaku pasar membedakan keduanya karena laba usaha mencerminkan kinerja bisnis sehari-hari sementara laba sebelum pajak bisa terdongkrak pos sekali jalan seperti penjualan aset, sehingga investor biasanya tidak menganggap lonjakan semacam itu akan berulang tiap kuartal. Pajak tangguhan sendiri hanya catatan akuntansi atas perbedaan waktu pengakuan pajak, bukan arus kas pajak yang benar-benar dibayar saat itu. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal III 2026 untuk melihat apakah laba usaha inti membaik tanpa bantuan pos nonoperasional, serta perkembangan realisasi pembukaan gerai Bakehouse baru dan kontribusi pendapatan listrik dari PT Aek Simonggo Energy pada laporan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "martha-tilaar-dari-salon-garasi-rp1-juta-ke-kosmetik-raksasa",
   "category": "Bisnis",
   "title": "Martha Tilaar: dari Salon Garasi Rp1 Juta ke [Kosmetik] Raksasa",
@@ -56,6 +211,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah hilangnya sosok pendiri sekaligus wajah dari Martha Tilaar Group, termasuk PT Martina Berto Tbk, perusahaan kosmetik yang sahamnya diperdagangkan di bursa sehingga sebagian kepemilikannya ada di tangan publik. Yang langsung terdampak adalah karyawan dan jaringan bisnis di bawah grup ini, juga pemegang saham publik yang ikut memiliki Martina Berto. Berita ini belum menyebutkan siapa yang akan memegang kendali perusahaan selanjutnya atau bagaimana rencana keberlanjutan bisnisnya, sehingga arah ke depan grup usaha ini belum bisa dibaca dari sini. Yang perlu dipantau adalah pernyataan resmi perusahaan soal suksesi kepemimpinan, serta pergerakan harga saham Martina Berto di bursa dalam beberapa hari mendatang.",
   "imageV": "mv7vdkuj"
+ },
+ {
+  "slug": "bmas-resmi-angkat-moses-ronald-supardi-jadi-direktur-bisnis",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Resmi Angkat Moses Ronald Supardi Jadi [Direktur] Bisnis",
+  "deck": "Jabatan Direktur Bisnis BMAS yang baru efektif sejak 2 Oktober 2026 setelah lolos fit and proper test OJK, mengisi kursi yang ditinggal Junita Wangsadinata sejak Mei 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T15:00:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/59086641f2_b51c49f623.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "direksi",
+   "pergantian pengurus",
+   "OJK"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) mengoreksi laporan perubahan pengurus yang sebelumnya disampaikan 8 Juli 2026. Inti koreksinya menegaskan tanggal efektif jabatan Moses Ronald Supardi sebagai Direktur Bisnis, yaitu sejak 2 Oktober 2026, setelah ia memperoleh persetujuan Fit and Proper Test dari Otoritas Jasa Keuangan (OJK). Persetujuan itu tertuang dalam Surat OJK No. SR-592/PB.13/2026 yang diterima perseroan pada 2 Oktober 2026, serta Keputusan Anggota Dewan Komisioner OJK No. KEPR-185/D.03/2026 dengan tanggal yang sama.",
+   "Penunjukan Moses Ronald Supardi sendiri berasal dari keputusan Rapat Umum Pemegang Saham Tahunan (RUPST) pada 20 Mei 2026, yang dihadiri atau diwakili pemegang 16.199.137.698 saham, setara 89,48 persen dari 18.102.662.304 total saham dengan hak suara sah. Dalam rapat itu, pemegang saham menyetujui pengunduran diri Junita Wangsadinata dari posisi Direktur Bisnis terhitung sejak rapat ditutup, sekaligus mengangkat Moses Ronald Supardi sebagai penggantinya hingga penutupan RUPST tahun 2028. Selama proses persetujuan OJK berjalan, Direktur Utama Kasemsri Charoensiddhi ditugaskan merangkap sementara fungsi Direktur Bisnis, dengan batas waktu maksimal enam bulan sampai direktur definitif efektif menjabat, yang akhirnya terpenuhi pada 2 Oktober 2026.",
+   "RUPST yang sama juga menyetujui perubahan nama jabatan dua posisi direksi, dari Direktur Kredit dan Risiko menjadi Direktur Risiko, dan dari Direktur Kepatuhan dan Legal menjadi Direktur Kepatuhan. Dengan koreksi ini, susunan Direksi BMAS saat ini adalah Kasemsri Charoensiddhi sebagai Direktur Utama, Moses Ronald Supardi sebagai Direktur Bisnis, Irawan Rukmanto sebagai Direktur Operasional, Jeffrey Bob Karman sebagai Direktur Risiko, dan Viktor Ebenheizer Fanggidae sebagai Direktur Kepatuhan. Susunan Dewan Komisaris tidak berubah, yakni Chat Luangarpa sebagai Komisaris Utama, Diana Alim sebagai Komisaris, serta Alan Jenviphakul, Pardi Kendy, dan Rony Teja Sukmana sebagai Komisaris Independen."
+  ],
+  "fotoAdegan": "Exterior of a modern glass bank office tower in a Jakarta business district, pedestrians walking past at dusk",
+  "takeaway": "Laporan ini netral bagi BMAS, karena isinya hanya melengkapi kursi direksi yang sempat kosong dan sudah direstui regulator, bukan aksi korporasi yang mengubah modal atau keuangan perusahaan. Yang tersentuh adalah struktur kepengurusan, bukan pos keuangan seperti ekuitas atau laba, tapi pelaku pasar tetap memperhatikannya karena posisi Direktur Bisnis yang kosong sejak Mei 2026 dan sempat dirangkap sementara oleh Direktur Utama bisa memperlambat kecepatan bank mengelola kredit dan ekspansi bisnisnya. Dengan OJK sudah memberi lampu hijau sejak 2 Oktober 2026, posisi itu kini definitif terisi hingga RUPST tahun 2028. Yang perlu dipantau selanjutnya adalah bagaimana kinerja bisnis BMAS berjalan di bawah susunan direksi baru ini dalam beberapa kuartal mendatang, serta RUPST 2028 saat masa jabatan Moses Ronald Supardi berakhir.",
+  "sentimen": "netral"
  },
  {
   "slug": "pgun-klaim-dampak-karhutla-ke-produksi-sawit-minim",
@@ -324,6 +505,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "asgr-jadwalkan-rupslb-pada-20-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASGR Jadwalkan [RUPSLB] pada 20 November 2026",
+  "deck": "Astra Graphia (ASGR) akan menggelar RUPSLB pada 20 November 2026 di Jakarta, dengan tenggat pengajuan usul agenda oleh pemegang saham pada 22 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T10:32:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6d6a6d11bd_9f221d8242.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASGR",
+  "tags": [
+   "ASGR",
+   "RUPSLB",
+   "Astra Graphia",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Astra Graphia Tbk (ASGR) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 20 November 2026 pukul 09.30 WIB, di Mandarin Oriental Hotel, Jakarta. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham (DPS) per Rabu, 28 Oktober 2026 pukul 16.00 WIB. Pemanggilan resmi yang memuat agenda rapat akan diumumkan lewat situs web perseroan, Bursa Efek Indonesia, dan PT Kustodian Sentral Efek Indonesia (KSEI) pada Kamis, 29 Oktober 2026.",
+   "Dalam pengumuman ini, perseroan belum mengungkap agenda RUPSLB. Namun disebutkan bahwa pemegang saham yang mewakili minimal 5 persen dari total saham dengan hak suara sah dapat mengusulkan mata acara rapat secara tertulis melalui surat tercatat. Usulan itu beserta alasan dan bahan pendukungnya harus sudah diterima direksi paling lambat Kamis, 22 Oktober 2026 pukul 16.00 WIB, yakni tujuh hari kalender sebelum pemanggilan resmi dikeluarkan.",
+   "Rapat direncanakan digelar secara fisik maupun elektronik. Pemegang saham dapat hadir dan memberikan suara lewat sistem eASY.KSEI milik KSEI, atau memberikan kuasa elektronik kepada PT Raya Saham Registra, biro administrasi efek yang ditunjuk perseroan, untuk mewakili kehadiran dan pemungutan suara mereka. Pengumuman ini ditandatangani Corporate Secretary ASGR, Trivena Nalsalita, pada 14 Oktober 2026."
+  ],
+  "fotoAdegan": "Hotel ballroom staff arranging rows of chairs and a stage before a corporate event, soft morning light through tall windows",
+  "takeaway": "Pengumuman ini netral bagi kinerja ASGR karena baru memberitahukan rencana dan jadwal RUPSLB, belum membuka agenda rapat yang sebenarnya menentukan dampaknya ke bisnis. Begitu agenda terungkap nanti, pos kinerja yang tersentuh tergantung keputusan rapat, misalnya jumlah saham beredar kalau agendanya soal aksi korporasi terkait modal, atau arus kas kalau agendanya soal pembagian dividen. Pemegang saham yang menguasai minimal 5 persen saham berhak mengusulkan topik rapat, tapi usulan itu wajib sampai ke direksi paling lambat 22 Oktober 2026 pukul 16.00 WIB. Yang perlu dipantau selanjutnya adalah pemanggilan resmi RUPSLB pada 29 Oktober 2026, karena di situlah agenda lengkap baru akan diumumkan, sebelum rapat berlangsung pada 20 November 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bni-bukukan-penjualan-agunan-rp510-77-miliar",
   "category": "Perbankan",
   "title": "BNI Bukukan Penjualan Agunan [Rp510,77] Miliar",
@@ -429,6 +636,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers setting up rows of folding chairs in a large empty seminar hall before an event, soft overhead lighting",
   "takeaway": "Laporan ini netral bagi MERI karena hanya mengonfirmasi dana IPO sudah disalurkan 100 persen sesuai rencana di prospektus, tanpa ada perubahan alokasi atau penyimpangan yang mengubah pandangan investor terhadap perusahaan. Yang tersentuh di sini adalah arus kas perusahaan, karena uang Rp27,4 miliar hasil penjualan saham sudah keluar dari kas induk sebagai setoran modal ke dua anak usaha, sementara di level anak usaha sendiri dana itu baru terpakai sekitar Rp10,1 miliar dari total Rp27,4 miliar untuk biaya operasional, dan sisanya sekitar Rp17,3 miliar baru rencananya dibelanjakan untuk sewa, marketing, SDM dan venue pada tahun berikutnya. Investor perlu memantau laporan realisasi dana berikutnya, yang biasanya disampaikan tiap semester sesuai aturan OJK, untuk memastikan sisa dana itu benar-benar terserap menjadi kegiatan usaha dan tidak mengendap terlalu lama di anak usaha yang belum menghasilkan pendapatan signifikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "msie-gelar-rupslb-20-november-bahas-penyesuaian-kbli",
+  "category": "Aksi Korporasi",
+  "title": "MSIE Gelar RUPSLB 20 November, Bahas [Penyesuaian] KBLI",
+  "deck": "MSIE akan menggelar RUPSLB pada 20 November 2026 untuk menyetujui penyesuaian kode klasifikasi usaha dari KBLI 2020 ke KBLI 2025, tanpa mengubah kegiatan usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T08:20:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/32ca78511a_9600b12bf4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSIE",
+  "tags": [
+   "MSIE",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "KBLI"
+  ],
+  "body": [
+   "PT Multisarana Intan Eduka Tbk (MSIE) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Tahun Buku 2025 pada Jumat, 20 November 2026 pukul 10.00 WIB. Rapat akan berlangsung di IPC Room, IPH Schools lantai 2, Jalan Raya Kedung Baruk 112-114 Surabaya, sekaligus diselenggarakan secara elektronik melalui aplikasi eASY.KSEI. Pemegang saham yang berhak hadir atau memberi kuasa dalam rapat adalah yang namanya tercatat dalam Daftar Pemegang Saham perseroan per penutupan perdagangan Bursa Efek Indonesia pada 28 Oktober 2026.",
+   "Satu-satunya mata acara RUPSLB adalah persetujuan perubahan Pasal 3 Anggaran Dasar perseroan mengenai maksud, tujuan, dan kegiatan usaha. Perubahan ini dilakukan untuk menyesuaikan kode Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) perseroan dari KBLI 2020 ke KBLI 2025. Perseroan menegaskan penyesuaian kode ini tidak mengubah kegiatan usaha yang sebenarnya dijalankan.",
+   "Surat pemanggilan resmi yang memuat teknis pelaksanaan rapat secara elektronik akan diterbitkan pada 29 Oktober 2026. Pemegang saham yang ingin mengusulkan tambahan mata acara rapat harus menyampaikan usulan beserta penjelasannya melalui surat tercatat kepada Direksi perseroan, paling lambat tujuh hari kerja sebelum tanggal pemanggilan tersebut, pada jam kerja kantor perseroan."
+  ],
+  "fotoAdegan": "Exterior of a modern multi-story school building facade under morning light, quiet street in an Indonesian city, no people nearby",
+  "takeaway": "Agenda tunggal RUPSLB ini netral bagi fundamental MSIE, karena isinya cuma menyesuaikan kode klasifikasi usaha mengikuti aturan baru, tanpa mengubah lini bisnis, aset, atau struktur permodalan perusahaan. Karena sifatnya administratif, perubahan ini tidak menyentuh pos-pos yang biasa dipantau investor seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar, sehingga dampaknya ke kondisi keuangan perusahaan praktis tidak ada. Yang perlu diperhatikan pemegang saham justru soal partisipasi: hanya yang namanya tercatat di Daftar Pemegang Saham per 28 Oktober 2026 yang berhak hadir atau memberi kuasa dalam rapat. Surat pemanggilan resmi berisi detail teknis rapat elektronik lewat eASY.KSEI akan terbit 29 Oktober 2026, sebelum RUPSLB digelar dan agenda ini diputuskan pada 20 November 2026.",
   "sentimen": "netral"
  },
  {

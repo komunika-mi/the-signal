@@ -58,6 +58,84 @@ var ARTICLES = [
   "imageV": "mv7gv9dj"
  },
  {
+  "slug": "meri-dana-ipo-rp27-4-m-tuntas-disalurkan-ke-dua-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "MERI: Dana IPO Rp27,4 M Tuntas Disalurkan ke [Dua] Anak Usaha",
+  "deck": "MERI melaporkan realisasi dana IPO Rp27,4 miliar sudah 100 persen disalurkan sebagai modal ke dua anak usaha, Edukasi Delapan dan Akademi Tujuh, sesuai rencana prospektus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T08:57:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9f22224014_34246903c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MERI",
+  "tags": [
+   "MERI",
+   "penggunaan dana IPO",
+   "entitas anak",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Merry Riana Edukasi Tbk (MERI) menyampaikan koreksi atas laporan penggunaan dana hasil penawaran umum yang sebelumnya dikirim 15 Juli 2026. Dalam surat bertanggal 13 Oktober 2026 yang ditandatangani Direktur Utama Sri Muliati, perseroan mengonfirmasi bahwa dari total dana IPO saham sebesar Rp30.096.960.000 dengan biaya penawaran umum Rp2.656.744.400, hasil realisasi bersih sebesar Rp27.440.215.600 sudah seluruhnya disalurkan sehingga sisa dana kini nol. Dana tersebut dibagi menjadi setoran modal ke PT Merry Riana Edukasi Delapan senilai Rp17.833.885.600 atau 65 persen, dan ke PT Merry Riana Akademi Tujuh senilai Rp9.606.330.000 atau 35 persen, keduanya sama persis dengan rencana di prospektus IPO.",
+   "Laporan realisasi penggunaan dana per 30 Juni 2026 yang turut dilampirkan merinci bahwa setoran modal ke Merry Riana Edukasi Delapan sudah direalisasikan 100 persen pada 11 Agustus 2025 lewat Akta Nomor 04 dari Notaris Rudy Siswanto di Jakarta Utara, sementara setoran ke Akademi Tujuh tuntas pada 8 Agustus 2025 lewat Akta Nomor 03 dari notaris yang sama. Namun di level anak usaha, uang itu belum semuanya terpakai untuk operasional. Edukasi Delapan baru membelanjakan Rp5.634.764.432 untuk biaya sewa, marketing, SDM, perlengkapan dan utilitas, menyisakan Rp12.199.121.168 yang direncanakan dipakai tahun berikutnya. Akademi Tujuh baru membelanjakan Rp4.467.883.059 untuk venue, marketing dan perlengkapan, menyisakan Rp5.138.446.941 untuk periode mendatang.",
+   "Dari sisi biaya penawaran umum, total Rp2.656.744.400 itu terdiri dari biaya jasa profesi penunjang pasar modal Rp1.300.000.000 atau 48,93 persen, biaya jasa penyelenggaraan (management fee) Rp900.000.000 atau 33,88 persen, biaya jasa penjaminan (underwriting fee) dan biaya jasa penjualan (selling fee) masing-masing Rp75.810.480 atau 2,85 persen, biaya jasa lembaga penunjang pasar modal Rp35.000.000 atau 1,32 persen, serta biaya lain-lain yang bisa diatribusikan langsung sebagai biaya emisi sebesar Rp270.123.440 atau 10,17 persen. Tidak ada biaya jasa konsultasi keuangan yang dikeluarkan dalam proses ini."
+  ],
+  "fotoAdegan": "Workers setting up rows of folding chairs in a large empty seminar hall before an event, soft overhead lighting",
+  "takeaway": "Laporan ini netral bagi MERI karena hanya mengonfirmasi dana IPO sudah disalurkan 100 persen sesuai rencana di prospektus, tanpa ada perubahan alokasi atau penyimpangan yang mengubah pandangan investor terhadap perusahaan. Yang tersentuh di sini adalah arus kas perusahaan, karena uang Rp27,4 miliar hasil penjualan saham sudah keluar dari kas induk sebagai setoran modal ke dua anak usaha, sementara di level anak usaha sendiri dana itu baru terpakai sekitar Rp10,1 miliar dari total Rp27,4 miliar untuk biaya operasional, dan sisanya sekitar Rp17,3 miliar baru rencananya dibelanjakan untuk sewa, marketing, SDM dan venue pada tahun berikutnya. Investor perlu memantau laporan realisasi dana berikutnya, yang biasanya disampaikan tiap semester sesuai aturan OJK, untuk memastikan sisa dana itu benar-benar terserap menjadi kegiatan usaha dan tidak mengendap terlalu lama di anak usaha yang belum menghasilkan pendapatan signifikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptpp-jadwalkan-rupsu-sukuk-seri-b-pada-11-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Jadwalkan RUPSU Sukuk [Seri B] pada 11 November 2026",
+  "deck": "PTPP akan menggelar RUPSU ketiga untuk Sukuk Mudharabah Berkelanjutan I Tahap I Tahun 2021 Seri B pada 11 November 2026, pemanggilan resmi diumumkan 28 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T02:17:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/69923bbe46_20bba73981.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "sukuk",
+   "RUPSU",
+   "wali amanat"
+  ],
+  "body": [
+   "PT Pembangunan Perumahan (Persero) Tbk atau PTPP memberitahukan rencana penyelenggaraan Rapat Umum Pemegang Sukuk (RUPSU) ketiga untuk Sukuk Mudharabah Berkelanjutan I PTPP Tahap I Tahun 2021 Seri B. Rapat dijadwalkan pada Rabu, 11 November 2026, pukul 08.00 WIB di Park Hotel Jakarta, Jalan DI Panjaitan No. 5, Cawang, Jakarta Timur. Agenda rapat belum diumumkan dan baru akan dilampirkan bersama surat pemanggilan resmi.",
+   "Pemberitahuan ini disampaikan bersama oleh PTPP selaku emiten dan PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk (Bank BJB) selaku wali amanat, berdasarkan Perjanjian Perwaliamanatan Akta No. 32 tanggal 17 Maret 2021 dan perubahan-perubahannya. Kedua pihak menyatakan bahwa surat pemanggilan RUPSU akan diiklankan pada Rabu, 28 Oktober 2026, melalui satu surat kabar harian, situs web Bursa Efek Indonesia, dan situs web PTPP.",
+   "Rapat pemegang sukuk ini menyusul rangkaian kabar negatif PTPP dalam sepekan terakhir, yaitu pemangkasan peringkat oleh Pefindo ke idCCC dengan outlook negatif pada 9 Oktober, serta laporan gagal bayar kupon obligasi yang membuat sahamnya tetap disuspensi hingga 13 Oktober."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a hotel ballroom before a morning meeting, soft daylight through tall windows",
+  "takeaway": "Laporan ini tetap negatif bagi PTPP, sebab RUPSU yang terus berulang untuk sukuk seri yang sama menunjukkan proses negosiasi utang dengan pemegang sukuk belum tuntas, di tengah gagal bayar kupon obligasi dan penurunan peringkat ke idCCC yang sudah diberitakan sebelumnya. Yang tersentuh di sini adalah arus kas, yaitu kemampuan perusahaan membayar kewajiban rutin seperti bunga atau imbal hasil sukuk tepat waktu, karena pelaku pasar memakai RUPSU berulang sebagai sinyal bahwa kas perusahaan belum cukup untuk memenuhi kewajiban itu tanpa negosiasi ulang. Yang perlu dipantau adalah surat pemanggilan resmi yang baru akan diiklankan pada 28 Oktober 2026, karena saat itulah agenda rapat sesungguhnya, misalnya usulan restrukturisasi atau perubahan jadwal pembayaran, baru akan terungkap. Hasil RUPSU pada 11 November 2026 sendiri akan menentukan apakah pemegang sukuk menyetujui opsi yang ditawarkan PTPP atau menolaknya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ptpp-gelar-rupsu-ketiga-untuk-sukuk-tahap-iii-2023",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Gelar RUPSU [Ketiga] untuk Sukuk Tahap III 2023",
+  "deck": "PTPP menjadwalkan RUPSU ketiga untuk Sukuk Mudharabah Berkelanjutan I Tahap III 2023 pada 11 November 2026, bersamaan dengan RUPSU keempat untuk seri sukuk lain.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T02:17:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bebb337a5c_54b971d120.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "RUPSU",
+   "Sukuk",
+   "Restrukturisasi Utang"
+  ],
+  "body": [
+   "PP (Persero) Tbk atau PTPP mengumumkan rencana menggelar Rapat Umum Pemegang Sukuk (RUPSU) ketiga untuk Sukuk Mudharabah Berkelanjutan I PTPP Tahap III Tahun 2023. Rapat dijadwalkan pada Rabu, 11 November 2026, pukul 10.30 WIB, di Park Hotel Jakarta, Jalan DI Panjaitan No. 5, Cawang, Jakarta Timur. Agenda rapat belum diumumkan dan baru akan dilampirkan bersama surat pemanggilan resmi.",
+   "Pemanggilan resmi RUPSU itu rencananya diiklankan di satu surat kabar harian, situs web Bursa Efek Indonesia, dan situs resmi PTPP pada Rabu, 28 Oktober 2026. Wali amanat untuk emisi ini adalah PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk, berdasarkan Perjanjian Perwaliamanatan Akta No. 15 tanggal 13 Maret 2023 beserta perubahan-perubahannya. Surat pemberitahuan ditandatangani Sekretaris Perusahaan PTPP, Joko Raharjo, pada 14 Oktober 2026.",
+   "RUPSU ketiga untuk tahap III ini muncul tak lama setelah PTPP juga menjadwalkan RUPSU keempat untuk seri sukuk lain, Sukuk Mudharabah Seri B, pada tanggal yang sama, 11 November 2026. Artinya, dalam satu hari PTPP harus menghadapi pemegang sukuk dari setidaknya dua tranche berbeda, di tengah rangkaian masalah utang yang sudah berlangsung: penurunan peringkat kredit oleh Pefindo ke idCCC dan gagal bayar kupon obligasi yang membuat perdagangan sahamnya disuspensi."
+  ],
+  "fotoAdegan": "Construction cranes and steel rebar frames at a large infrastructure project site in Jakarta under an overcast sky",
+  "takeaway": "Laporan ini negatif bagi PTPP, sebab rapat pemegang sukuk ketiga untuk tahap III ini berjalan bersamaan dengan rapat keempat untuk seri sukuk lain, tanda bahwa proses negosiasi utang dengan pemegang sukuk berjalan di beberapa lini sekaligus dan belum ada yang selesai. Yang tersentuh adalah arus kas perusahaan, yaitu uang tunai yang tersedia untuk membayar kewajiban, karena kemampuan PTPP memenuhi pokok dan kupon sukuk inilah yang sedang dipertaruhkan dalam rapat-rapat ini, dan itu pula yang membuat pemodal cemas. Yang perlu dipantau berikutnya adalah pemanggilan resmi yang baru akan diiklankan pada 28 Oktober 2026, karena agenda rapat sesungguhnya baru terbuka saat itu, lalu hasil RUPSU pada 11 November 2026 yang akan menentukan apakah pemegang sukuk menyetujui skema penyelesaian yang ditawarkan PTPP.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ilo-seco-luncurkan-fase-baru-program-keuangan-umkm",
   "category": "UMKM",
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",

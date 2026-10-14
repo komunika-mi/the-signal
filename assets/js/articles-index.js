@@ -41,6 +41,54 @@ var ARTICLES = [
   "sourceLabel": "Perum BULOG"
  },
  {
+  "slug": "meri-dana-ipo-rp27-4-m-tuntas-disalurkan-ke-dua-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "MERI: Dana IPO Rp27,4 M Tuntas Disalurkan ke [Dua] Anak Usaha",
+  "deck": "MERI melaporkan realisasi dana IPO Rp27,4 miliar sudah 100 persen disalurkan sebagai modal ke dua anak usaha, Edukasi Delapan dan Akademi Tujuh, sesuai rencana prospektus.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MERI",
+   "penggunaan dana IPO",
+   "entitas anak",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9f22224014_34246903c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-jadwalkan-rupsu-sukuk-seri-b-pada-11-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Jadwalkan RUPSU Sukuk [Seri B] pada 11 November 2026",
+  "deck": "PTPP akan menggelar RUPSU ketiga untuk Sukuk Mudharabah Berkelanjutan I Tahap I Tahun 2021 Seri B pada 11 November 2026, pemanggilan resmi diumumkan 28 Oktober 2026.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "sukuk",
+   "RUPSU",
+   "wali amanat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/69923bbe46_20bba73981.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-gelar-rupsu-ketiga-untuk-sukuk-tahap-iii-2023",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Gelar RUPSU [Ketiga] untuk Sukuk Tahap III 2023",
+  "deck": "PTPP menjadwalkan RUPSU ketiga untuk Sukuk Mudharabah Berkelanjutan I Tahap III 2023 pada 11 November 2026, bersamaan dengan RUPSU keempat untuk seri sukuk lain.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "RUPSU",
+   "Sukuk",
+   "Restrukturisasi Utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bebb337a5c_54b971d120.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ilo-seco-luncurkan-fase-baru-program-keuangan-umkm",
   "category": "UMKM",
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
@@ -6433,54 +6481,6 @@ var ARTICLES = [
    "pusat data"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa4af635b3_7da44c9e62.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "epac-pastikan-rights-issue-2-miliar-saham-dilusi-37-71",
-  "category": "Aksi Korporasi",
-  "title": "EPAC Pastikan Rights Issue 2 Miliar Saham, Dilusi [37,71%]",
-  "deck": "EPAC menanggapi permintaan penjelasan Bursa soal rencana rights issue 2 miliar saham baru, yang berpotensi mendilusi kepemilikan publik dari 36,94% menjadi 23,01% jika tidak ikut exercise.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EPAC",
-   "rights issue",
-   "PMHMETD",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24cfd32186_ee200afe21.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-kaji-ulang-insentif-pajak-investasi-usai-pajak-global",
-  "category": "Makroekonomi",
-  "title": "Pemerintah Kaji Ulang [Insentif Pajak] Investasi Usai Pajak Global",
-  "deck": "Pemerintah mengkaji ulang insentif pajak investasi, termasuk tax holiday, setelah pajak minimum global 15 persen berlaku, di tengah investasi semester I 2026 yang capai Rp1.010 triliun.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
-  "tags": [
-   "hilirisasi",
-   "investasi",
-   "pajak minimum global",
-   "tax holiday"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7134/pemerintah-perkuat-ekosistem-hilirisasi-bernilai-tambah-tinggi-di-tengah-ketidakpastian-global",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "swat-koreksi-lk-2025-aset-turun-karyawan-susut-jadi-97",
-  "category": "Aksi Korporasi",
-  "title": "SWAT Koreksi LK 2025: Aset Turun, [Karyawan] Susut jadi 97",
-  "deck": "SWAT merevisi laporan keuangan tahunan 2025: auditor baru memberi opini wajar dengan pengecualian, aset dan kas menyusut, dan karyawan merosot dari 249 menjadi 97 orang.",
-  "date": "6 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SWAT",
-   "laporan keuangan",
-   "opini audit",
-   "watchlist"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202510/20261006184758-64490-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "-pma6JSOHk8",
+  "title": "Antrean SPBU di Bali Mengular hingga 2 Kilometer",
+  "category": "Energi",
+  "program": "AKIS tvOne",
+  "summary": "Kelangkaan bahan bakar minyak melanda sejumlah wilayah di Bali, memicu antrean hingga 2 kilometer di SPBU yang masih beroperasi akibat gangguan pasokan.",
+  "takeaway": "Gangguan pasokan BBM di Bali relevan bagi pembaca ekonomi karena berdampak langsung pada mobilitas warga dan biaya operasional pelaku usaha di sektor pariwisata.",
+  "terbit": "2026-10-14T06:56:09+00:00"
+ },
+ {
+  "id": "0gkOOooNfDg",
+  "title": "Kadin Targetkan Transaksi US$1 Miliar di Forum Bisnis RI-Yunani",
+  "category": "Bisnis",
+  "program": "Kabar Siang",
+  "summary": "Kadin Indonesia menggelar Indonesia-Greece Business Forum untuk memperkuat diplomasi ekonomi bilateral dengan target transaksi hingga US$1 miliar.",
+  "takeaway": "Forum ini menandai upaya pelaku usaha memperluas pasar ekspor dan investasi ke kawasan Eropa di tengah dinamika perdagangan global.",
+  "terbit": "2026-10-14T05:59:13+00:00"
+ },
+ {
   "id": "ffV2eUnzO2E",
   "title": "Kadin Genjot Pertumbuhan Investasi dan Perdagangan",
   "category": "Bisnis",

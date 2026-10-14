@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bi-luncurkan-tiga-program-keuangan-syariah-di-isef-2026",
+  "category": "Moneter",
+  "title": "BI Luncurkan Tiga Program Keuangan [Syariah] di ISEF 2026",
+  "deck": "Bank Indonesia membuka ISEF 2026 dan meluncurkan tiga program baru: pedoman pasar uang syariah, indeks tata kelola zakat, dan beasiswa internasional untuk ekosistem keuangan syariah.",
+  "image": "assets/img/bi-luncurkan-tiga-program-keuangan-syariah-di-isef-2026.jpg",
+  "date": "14 Oktober 2026",
+  "isoDate": "2026-10-14T07:36:15.966Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821826.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "ISEF 2026",
+   "Bank Indonesia",
+   "ekonomi syariah",
+   "keuangan syariah"
+  ],
+  "body": [
+   "Bank Indonesia secara resmi membuka Indonesia Sharia Economic Festival (ISEF) 2026 di Jakarta International Convention Center pada Selasa (14/10), sekaligus meluncurkan tiga program baru untuk memperkuat ekosistem ekonomi syariah nasional. Ketiga program itu menyasar pasar uang syariah, tata kelola lembaga zakat, dan pendidikan sumber daya manusia. Langkah ini relevan bagi pelaku pasar keuangan syariah, lembaga amil zakat, dan pengelola dana sosial Islam karena menyangkut aturan yang langsung memengaruhi cara mereka beroperasi.",
+   "Program pertama adalah pedoman perilaku transaksi di pasar uang dan valuta asing syariah, disusun bersama asosiasi pelaku pasar APUVINDO dan IIGMA bekerja sama dengan Bank Indonesia dan OJK, untuk membuat transaksi antarbank syariah lebih transparan dan tertib. Program kedua adalah pembaruan indeks tata kelola zakat yang disusun BAZNAS dan Bank Indonesia, dengan tambahan penilaian manajemen risiko, sehingga lembaga zakat kini tidak hanya diukur dari kepatuhan syariah tapi juga kesehatan pengelolaan risikonya. Program ketiga adalah beasiswa internasional bagi mahasiswa asing yang dibiayai dari dana zakat, infak, sedekah, dan wakaf.",
+   "Di luar tiga program itu, Bank Indonesia memaparkan sejumlah data perkembangan ekonomi syariah. Rantai pasok industri halal, mulai dari makanan, kosmetik, hingga busana muslim bersertifikat halal, tumbuh 5,5 persen secara tahunan pada kuartal II 2026, lebih cepat dari pertumbuhan ekonomi Indonesia secara umum. Penerbitan sukuk hijau, yakni surat utang syariah yang dananya dipakai untuk proyek ramah lingkungan, sejak 2018 telah mencapai US$7,7 miliar di pasar global dan Rp108,9 triliun di pasar domestik per Juni 2026. Dalam laporan tahunan State of the Global Islamic Economy, Indonesia bertahan di peringkat keempat dunia, sementara Kementerian Koordinator Bidang Perekonomian memproyeksikan belanja masyarakat muslim global bisa mencapai US$3,56 triliun pada 2029.",
+   "ISEF 2026 berlangsung 14 hingga 18 Oktober di JICC, melibatkan lebih dari 1.000 pelaku industri halal dan lebih dari 100 kegiatan daring maupun luring, termasuk forum bisnis pesantren serta temu bisnis dagang dan wastra. Acara ini terintegrasi dengan Trade Expo Indonesia 2026 dan menyasar generasi muda lewat kompetisi video kreatif serta dunia virtual di platform Roblox. Sebagai rangkaian menuju ISEF, Bank Indonesia bersama pemerintah daerah telah menggelar festival serupa di Sumatera Selatan, Nusa Tenggara Barat, dan Jawa Timur sejak Juni 2026."
+  ],
+  "fotoAdegan": "Vendors arranging traditional woven wastra textiles on a market stall while visitors browse, warm convention hall lighting",
+  "fotoSumber": "https://www.bi.go.id/PublishingImages/Cover-sp_2821826.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Dari tiga program yang diluncurkan, yang paling konkret adalah pedoman transaksi pasar uang syariah (ICoC) dan pembaruan indeks tata kelola zakat yang kini menambahkan penilaian manajemen risiko, bukan sekadar kepatuhan syariah seperti sebelumnya. Yang terdampak langsung adalah bank dan pelaku pasar uang syariah yang tergabung di APUVINDO dan IIGMA, serta lembaga amil zakat yang akan dinilai dengan standar baru itu, sementara program beasiswa menyasar mahasiswa asing dan lembaga pengelola dana zakat, infak, sedekah, dan wakaf. Pola yang terlihat adalah Bank Indonesia bergerak dari sekadar memamerkan skala industri halal ke membangun infrastruktur aturan dan alat ukur yang lebih rinci, sejalan dengan target menjadikan Indonesia pusat keuangan syariah dunia. Yang akan menunjukkan apakah pedoman dan indeks ini benar berjalan di lapangan adalah data adopsi oleh pelaku pasar dan hasil asesmen pertama ZCP 2.0 terhadap lembaga zakat, yang belum diungkap dalam peluncuran ini.",
+  "imageV": "mv7swo7d"
+ },
+ {
   "slug": "ibst-suspensi-dibuka-sementara-untuk-crossing-saham-go-private",
   "category": "Aksi Korporasi",
   "title": "IBST: Suspensi Dibuka Sementara untuk [Crossing] Saham Go Private",
@@ -80,7 +108,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan cara pemerintah membaca data daya beli: Wamenko menyebut data BPS menunjukkan masyarakat bukan mengurangi belanja, melainkan memindahkan belanjanya ke jalan-jalan, hotel, makanan minum, dan layanan online. Yang terdampak oleh pembacaan ini adalah pelaku usaha di sektor yang disebut tumbuh tadi, sekaligus usaha yang mungkin kehilangan pembeli karena pergeseran itu, juga pelaku usaha yang nanti memakai kanal debottlenecking untuk melaporkan kendala ke Kemenko Perekonomian. Arahnya belum bisa disimpulkan karena berita ini tidak menyebut angka pertumbuhan masing-masing sektor atau berapa banyak laporan debottlenecking yang sudah selesai ditangani, jadi klaim bahwa daya beli tidak melemah masih berupa penilaian pejabat, bukan rincian angka yang bisa diperiksa publik. Yang perlu ditunggu adalah rilis data konsumsi per sektor dari BPS berikutnya, serta angka resmi kontribusi investasi Danantara terhadap pembentukan modal tetap bruto yang disebut akan mulai dicatat lebih rinci.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "wamendag-temui-menteri-finlandia-dorong-ratifikasi-cepa",

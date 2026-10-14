@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bi-luncurkan-tiga-program-keuangan-syariah-di-isef-2026",
+  "category": "Moneter",
+  "title": "BI Luncurkan Tiga Program Keuangan [Syariah] di ISEF 2026",
+  "deck": "Bank Indonesia membuka ISEF 2026 dan meluncurkan tiga program baru: pedoman pasar uang syariah, indeks tata kelola zakat, dan beasiswa internasional untuk ekosistem keuangan syariah.",
+  "date": "14 Oktober 2026",
+  "image": "assets/img/bi-luncurkan-tiga-program-keuangan-syariah-di-isef-2026.jpg",
+  "imageV": "mv7swo7d",
+  "tags": [
+   "ISEF 2026",
+   "Bank Indonesia",
+   "ekonomi syariah",
+   "keuangan syariah"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821826.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "ibst-suspensi-dibuka-sementara-untuk-crossing-saham-go-private",
   "category": "Aksi Korporasi",
   "title": "IBST: Suspensi Dibuka Sementara untuk [Crossing] Saham Go Private",
@@ -6466,22 +6484,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7e5221557e_11597deb4f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpix-direksi-lepas-80-saham-suara-tinggal-0-32",
-  "category": "Aksi Korporasi",
-  "title": "MPIX: Direksi [Lepas] 80% Saham, Suara Tinggal 0,32%",
-  "deck": "Direksi MPIX, Rio Adetya Rizky, menjual 20 juta saham atau 80 persen dari kepemilikannya pada 5 Oktober 2026 seharga Rp75 per saham, memangkas hak suaranya jadi 0,32 persen.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPIX",
-   "kepemilikan saham",
-   "direksi",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-1533-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

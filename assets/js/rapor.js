@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-14T03:22:22.268+07:00",
+ "diperbarui": "2026-10-15T01:51:04.123+07:00",
  "entri": [
+  {
+   "id": "2026-10-14-3",
+   "edisi": "2026-10-14",
+   "benang": "Ekonomi Syariah Mendekati Tenggat Sertifikasi Halal",
+   "klaim": "Begitu kewajiban sertifikasi halal berlaku, skenario transisi longgar dengan sanksi bertahap lebih mungkin terjadi dibanding penegakan tegas yang menarik produk tanpa sertifikat dari pasar.",
+   "penanda": "Data serapan sertifikat halal gratis UMKM yang dirilis Kementerian Koordinator Perekonomian atau BPJPH",
+   "tenggat": "2026-10-17",
+   "tenggatLabel": "mendekati tanggal berlakunya aturan, 17 Oktober 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-14-2",
+   "edisi": "2026-10-14",
+   "benang": "Tekanan Utang BUMN dan Emiten Besar Berlanjut",
+   "klaim": "Tekanan utang pada BUMN karya dan emiten besar masih terus memberat tanpa tanda pembalikan.",
+   "penanda": "Hasil rapat umum pemegang sukuk (RUPSU) PTPP untuk dua seri sukuk",
+   "tenggat": "2026-11-11",
+   "tenggatLabel": "RUPSU PTPP pada 11 November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-14-1",
+   "edisi": "2026-10-14",
+   "benang": "Ekspor dan TEI Jadi Penopang Pertumbuhan",
+   "klaim": "Ekspor sedang menjadi andalan baru penopang pertumbuhan ekonomi Indonesia.",
+   "penanda": "Total akhir nilai kesepakatan (MoU) Trade Expo Indonesia ke-41 saat pameran ditutup",
+   "tenggat": "2026-10-18",
+   "tenggatLabel": "ketika pameran ditutup 18 Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-13-3",
    "edisi": "2026-10-13",

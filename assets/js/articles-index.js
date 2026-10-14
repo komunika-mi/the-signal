@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun",
+  "category": "BUMN",
+  "title": "[Hilirisasi] Bauksit Berpotensi Hemat Devisa Rp9 Triliun",
+  "deck": "Inalum kini sepenuhnya memakai alumina produksi dalam negeri, memangkas impor dan berpotensi menghemat devisa hingga Rp9 triliun per tahun.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun.jpg",
+  "imageV": "mv8nyrsi",
+  "tags": [
+   "hilirisasi",
+   "bauksit",
+   "alumina",
+   "Inalum"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473075-hilirisasi-bauksit-pangkas-impor-indonesia-berpotensi-hemat-devisa-hingga-rp9-triliun-per-tahun"
+ },
+ {
   "slug": "lkpp-buka-peluang-umkm-pasok-kebutuhan-pemerintah",
   "category": "UMKM",
   "title": "LKPP Buka Peluang UMKM [Pasok] Kebutuhan Pemerintah",
@@ -6478,22 +6495,6 @@ var ARTICLES = [
    "anak usaha"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de5c402f1b_4577b30194.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jecx-sarana-meditama-tambah-saham-hak-suara-ke-34-kepemilikan",
-  "category": "Aksi Korporasi",
-  "title": "JECX: Sarana Meditama Tambah Saham, Hak Suara ke 34% [Kepemilikan]",
-  "deck": "PT Sarana Meditama Metropolitan membeli 449.300 lembar saham JECX pada 5 Oktober 2026, mengangkat hak suaranya dari 33,98 persen menjadi 34,00 persen.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "Sarana Meditama Metropolitan",
-   "kepemilikan saham",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-2954-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

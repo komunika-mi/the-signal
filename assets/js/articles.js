@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun",
+  "category": "BUMN",
+  "title": "[Hilirisasi] Bauksit Berpotensi Hemat Devisa Rp9 Triliun",
+  "deck": "Inalum kini sepenuhnya memakai alumina produksi dalam negeri, memangkas impor dan berpotensi menghemat devisa hingga Rp9 triliun per tahun.",
+  "image": "assets/img/hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T03:07:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473075-hilirisasi-bauksit-pangkas-impor-indonesia-berpotensi-hemat-devisa-hingga-rp9-triliun-per-tahun",
+  "tags": [
+   "hilirisasi",
+   "bauksit",
+   "alumina",
+   "Inalum"
+  ],
+  "body": [
+   "PT Indonesia Asahan Aluminium (Inalum) kini tidak lagi mengimpor alumina, bahan setengah jadi dari bijih bauksit yang menjadi bahan baku utama pabrik peleburan aluminiumnya, karena kebutuhan itu sudah dipasok penuh dari fasilitas pemurnian dalam negeri. Perubahan ini penting karena sebelumnya industri aluminium nasional bergantung pada pasokan impor, yang berarti uang mengalir keluar negeri setiap kali bahan baku dibeli dari luar.",
+   "Direktur Strategi Korporasi, Pengembangan Usaha, dan Komersial Inalum, Arif Haendra, menyebut langkah ini membuat perusahaan menghemat sekitar Rp7 triliun hingga Rp9 triliun per tahun karena tidak perlu lagi mengimpor alumina. Pasokan itu kini berasal dari integrasi rantai produksi bauksit, alumina, dan aluminium yang digarap Inalum bersama PT Aneka Tambang Tbk (Antam) di Mempawah, Kalimantan Barat, keduanya berada di bawah holding tambang MIND ID.",
+   "Bijih bauksit dari area tambang Antam diolah di fasilitas Smelter Grade Alumina Refinery (SGAR) Fase I yang berkapasitas 1 juta ton alumina per tahun. Dari jumlah itu, 550 ribu ton dipakai sendiri oleh Inalum dan 450 ribu ton sisanya dijual ke pasar ekspor. Kapasitas ini akan bertambah lewat SGAR Fase II, yang saat ini sudah menyelesaikan studi kelayakan bank dan bersiap memasuki tahap keputusan investasi akhir.",
+   "Rantai pasok yang terintegrasi dari tambang hingga pabrik peleburan ini diharapkan turut mendorong daya saing industri manufaktur dalam negeri, terutama yang memakai aluminium sebagai bahan baku seperti kendaraan listrik, konstruksi, dan kelistrikan."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting large metal processing towers at a tropical mineral refinery, conveyor belts overhead, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6acfe07f04331-holding-industri-pertambangan-indonesia-mind-id-menegaskan-komitmennya-dalam-mendukung-transisi-energi-nasional-melalui-penguatan-hilirisasi-bauksit-secara-terintegrasi-di-dalam-negeri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret: Inalum berhenti mengimpor alumina, bahan olahan dari bijih bauksit untuk pabrik peleburan aluminiumnya, karena pasokannya kini dipenuhi dari smelter SGAR Fase I berkapasitas 1 juta ton per tahun di Mempawah. Dengan begitu, sekitar Rp7 triliun sampai Rp9 triliun per tahun yang sebelumnya terbang ke luar negeri sebagai belanja impor bisa tertahan di dalam negeri, uang itulah yang disebut devisa, yakni cadangan uang asing milik negara. Yang terdampak langsung adalah Inalum dan Antam sebagai pengelola rantai pasok ini, serta industri yang memakai aluminium seperti kendaraan listrik, konstruksi, dan kelistrikan yang berpotensi mendapat pasokan lebih stabil. Arahnya terlihat menuju perluasan lanjutan, bukan sekadar substitusi impor sekali jalan, karena SGAR Fase II sudah menyelesaikan studi kelayakan dan tinggal menunggu keputusan investasi akhir. Yang akan memastikan apakah perluasan ini benar berlanjut adalah kapan keputusan investasi akhir SGAR Fase II itu diambil.",
+  "imageV": "mv8nyrsi"
+ },
+ {
   "slug": "lkpp-buka-peluang-umkm-pasok-kebutuhan-pemerintah",
   "category": "UMKM",
   "title": "LKPP Buka Peluang UMKM [Pasok] Kebutuhan Pemerintah",

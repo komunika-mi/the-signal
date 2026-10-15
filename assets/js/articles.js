@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "giaa-gelar-rupslb-6-november-bahas-penambahan-modal-gmf-aeroasia",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Gelar RUPSLB 6 November, Bahas [Penambahan] Modal GMF AeroAsia",
+  "deck": "RUPSLB digelar 6 November 2026 secara elektronik, mengagendakan penambahan modal lewat suntikan saham GMF AeroAsia oleh Danantara, perubahan anggaran dasar, dan pergantian pengurus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T20:56:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fed2b2c75_fba1043bfd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "RUPSLB",
+   "Danantara",
+   "GMF AeroAsia"
+  ],
+  "body": [
+   "Garuda Indonesia (Persero) Tbk memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Jumat, 6 November 2026 pukul 14.00 WIB, secara elektronik lewat sistem eASY.KSEI di platform AKSes KSEI. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 14 Oktober 2026 pukul 16.00 WIB. Batas waktu menyampaikan kehadiran, kuasa elektronik, atau suara lewat sistem itu paling lambat pukul 12.00 WIB satu hari kerja sebelum rapat, yakni 5 November 2026.",
+   "Ada tiga agenda utama. Pertama, persetujuan rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD) terkait rencana inbreng, yaitu penyertaan saham PT Garuda Maintenance Facility Aero Asia Tbk (GMF AeroAsia) oleh PT Danantara Asset Management ke dalam Garuda. Agenda ini merupakan lanjutan dari keputusan RUPSLB 30 Juni 2025 tentang Rancangan Restrukturisasi dalam rangka Penyehatan Perseroan, dan akan diikuti penerbitan seri saham baru, Seri E, lewat konversi seluruh saham Seri D yang belum diterbitkan (nilai nominal Rp75 per saham) menjadi Seri E bernilai nominal Rp25 per saham.",
+   "Kedua, perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, yang menurut dokumen tidak mengubah kegiatan usaha utama perseroan, hanya mengikuti ketentuan Peraturan Pemerintah Nomor 28 Tahun 2025 soal izin usaha berbasis risiko. Ketiga, perubahan pengurus perseroan, yang diajukan menyusul surat Kepala Badan Pengaturan Badan Usaha Milik Negara Nomor SR-513/BP/09/2026 tanggal 24 September 2026 perihal penambahan agenda RUPSLB ini. Panggilan ditandatangani oleh Andreas Tumpal H. Hutapea selaku Corporate Secretary Group Head Garuda Indonesia."
+  ],
+  "fotoAdegan": "Technicians inspecting a wide-body aircraft engine inside a large maintenance hangar, bright overhead lights",
+  "takeaway": "Laporan ini relatif netral untuk saat ini, karena RUPSLB baru mengagendakan rencana penambahan modal lewat suntikan saham GMF AeroAsia oleh Danantara, belum keputusan final yang menyebut jumlah saham baru atau nilai transaksinya. Yang tersentuh adalah ekuitas dan jumlah saham beredar, sebab modal baru ini masuk dalam bentuk aset, bukan uang tunai dari investor publik, lewat skema hak memesan efek terlebih dahulu yang memberi pemegang saham lama kesempatan membeli saham baru lebih dulu; kalau pemegang saham publik tidak ikut mengambil porsi barunya, jumlah saham beredar bertambah dan laba per saham berpotensi terdilusi karena dibagi ke lebih banyak lembar saham. Perseroan juga akan mengubah seluruh saham Seri D yang belum diterbitkan, bernilai nominal Rp75 per saham, menjadi Seri E bernilai nominal Rp25 per saham, sebagai penyesuaian struktur modal untuk menampung penerbitan baru itu. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 6 November 2026, termasuk rincian jumlah dan harga saham baru yang biasanya baru diumumkan setelah rapat menyetujui rencana ini, serta batas akhir pemegang saham menyampaikan kehadiran atau kuasa elektronik pada 5 November 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "unsp-pastikan-karhutla-tak-ganggu-produksi-dan-pendapatan-2026",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Pastikan [Karhutla] Tak Ganggu Produksi dan Pendapatan 2026",
+  "deck": "Menanggapi permintaan penjelasan bursa, UNSP memastikan karhutla belum berdampak pada produksi, pendapatan, dan operasional 2026, meski mengakui potensi risiko hukum.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T20:12:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/86f10ccfe0_e6c1bab5a1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNSP",
+  "tags": [
+   "UNSP",
+   "karhutla",
+   "sawit",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Bakrie Sumatera Plantations Tbk (UNSP) menyampaikan tanggapan resmi atas permintaan penjelasan dari Bursa Efek Indonesia tertanggal 13 Oktober 2026, melalui surat nomor 047/CS-BSP/KIK/X/2026 yang ditandatangani Corporate Secretary Aditya Indrajati pada 15 Oktober 2026. Dalam surat itu, perseroan merinci seluruh wilayah operasional, konsesi, dan asetnya di sepuluh lokasi: Asahan di Sumatera Utara yang dikelola langsung oleh perseroan, serta Labuhanbatu Utara, Tulang Bawang Barat (Lampung), Tanjung Jabung Barat dan Muaro Jambi (Jambi), Pasaman Barat dan Pesisir Selatan (Sumatera Barat), Bengkulu Utara, dan Banjar (Kalimantan Selatan) yang seluruhnya dikelola melalui entitas anak.",
+   "Perseroan juga membuka kontribusi masing-masing wilayah terhadap produksi dan pendapatan tahun 2025. Sumatera Utara menjadi penyumbang terbesar dengan pendapatan Rp1,18 triliun dari produksi 77.239 ton CPO dan inti sawit ditambah 2.977 ton karet. Sumatera Barat menyumbang Rp631,7 miliar dari 41.489 ton CPO dan inti sawit serta 21.381 ton tandan buah segar, sedangkan Jambi menyumbang Rp697 miliar dari 51.235 ton CPO dan inti sawit. Lampung, Bengkulu, dan Kalimantan Selatan menyumbang porsi lebih kecil, masing-masing Rp44,6 miliar, Rp1,56 miliar, dan Rp103 juta. Total pendapatan dari seluruh wilayah itu mencapai Rp2,56 triliun dari total produksi 197.501 ton.",
+   "Terkait kebakaran hutan dan lahan yang marak terjadi belakangan ini, perseroan menegaskan belum ada dampak terhadap kegiatan operasional maupun target produksi 2026, serta belum ada dampak terhadap pendapatan, laba, atau nilai aset. Perseroan juga menyatakan tidak ada penghentian operasi mendadak di lokasi maupun lahan miliknya. Namun perseroan mengakui dirinya dan entitas anak berpotensi menghadapi proses hukum terkait karhutla mengingat maraknya kejadian tersebut saat ini, meski dinilai tidak berdampak material terhadap kelangsungan usaha. Sebagai mitigasi, perseroan menjalankan sosialisasi pencegahan kebakaran, patroli di area rawan terutama yang berbatasan dengan lahan masyarakat, pemantauan titik panas dan curah hujan harian secara digital, serta pengelolaan air di lahan gambut."
+  ],
+  "fotoAdegan": "Workers patrolling a dirt path along a drainage canal through a palm oil plantation, hazy sky, early morning light",
+  "takeaway": "Secara keseluruhan laporan ini netral karena isinya menegaskan bahwa kebakaran hutan dan lahan yang sedang marak terjadi belum mengganggu operasional maupun keuangan perseroan, sehingga tidak ada sinyal baru yang mengubah pandangan terhadap fundamental emiten. Yang tersentuh di sini adalah potensi pendapatan dan laba ke depan, sebab mayoritas pendapatan perseroan tahun 2025 senilai Rp2,56 triliun berasal dari produksi sawit dan karet di sepuluh lokasi yang sebagian berbatasan dengan lahan masyarakat rawan kebakaran, sehingga kalau api benar-benar meluas ke lahan produktif, produksi dan pendapatan itulah yang bisa tergerus. Perseroan sendiri mengakui berpotensi menghadapi proses hukum akibat karhutla, meski disebut belum berdampak material pada arus kas maupun kelangsungan usaha. Yang perlu dipantau selanjutnya adalah perkembangan proses hukum tersebut serta apakah perseroan benar menyampaikan keterbukaan informasi susulan seperti yang dijanjikan kalau ada perkembangan material, karena dokumen ini tidak menyebut tenggat waktu pasti untuk pembaruan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sini-jelaskan-ke-bursa-dampak-karhutla-ke-produksi-minim",
+  "category": "Aksi Korporasi",
+  "title": "SINI Jelaskan ke Bursa, Dampak [Karhutla] ke Produksi Minim",
+  "deck": "Singaraja Putra menjawab permintaan penjelasan BEI soal karhutla, menyebut dampaknya ke operasional lima anak usaha tambang batu bara di Kalimantan tidak signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T20:03:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/462a6117f4_90e135b45b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SINI",
+  "tags": [
+   "SINI",
+   "karhutla",
+   "batu bara",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Singaraja Putra Tbk (SINI) menyampaikan jawaban resmi atas permintaan penjelasan Bursa Efek Indonesia nomor S-13059/BEI.PP2/10-2026 tertanggal 13 Oktober 2026 terkait dampak kebakaran hutan dan lahan (karhutla) terhadap operasional perusahaan. Surat jawaban ditandatangani Direktur Utama Amir Antolis dan disampaikan ke bursa pada 15 Oktober 2026.",
+   "Dalam dokumen itu, perseroan merinci lima entitas anak yang mengelola wilayah operasional dan konsesi tambang batu bara, yaitu PT Pasir Bara Prima, PT Persada Kapuas Prima, PT Pesona Bara Cakrawala, dan PT Cakrawala Bara Persada yang semuanya berlokasi di Kapuas, Kalimantan Tengah, serta PT Cristian Eka Pratama di Kutai Barat, Kalimantan Timur. Berdasarkan laporan keuangan per 31 Juli 2026, PT Pasir Bara Prima mencatat produksi 27.579 ton dengan pendapatan sekitar Rp26,68 miliar, PT Persada Kapuas Prima memproduksi 221.426 ton dengan pendapatan sekitar Rp192,51 miliar, dan PT Cristian Eka Pratama menjadi penyumbang terbesar dengan produksi 891.829 ton dan pendapatan sekitar Rp832,89 miliar. Dua entitas anak lainnya, PT Pesona Bara Cakrawala dan PT Cakrawala Bara Persada, belum berproduksi.",
+   "Perseroan menyatakan karhutla membuat kegiatan harian seperti pengoperasian alat berat dan pengangkutan batu bara menjadi kurang optimal karena mengutamakan keselamatan kerja, namun dampaknya dinilai sementara dan tidak signifikan terhadap target produksi 2026, pendapatan, laba, maupun nilai aset. Perseroan juga menegaskan tidak ada pencatatan unplanned shutdown besar akibat kelalaian teknis internal, serta tidak sedang menghadapi atau berpotensi menghadapi proses hukum maupun sanksi administratif terkait karhutla, termasuk penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin. Sebagai mitigasi, perseroan membentuk Emergency Response Team dan Masyarakat Peduli Api di tingkat proyek, menyiagakan tangki air dan pompa pemadam portabel, serta berencana memperkuat sistem peringatan dini berbasis pemantauan cuaca dan citra satelit dalam jangka panjang."
+  ],
+  "fotoAdegan": "Hazy haul road at a Kalimantan coal mine, idle dump trucks and an excavator operator checking equipment under smoky morning light",
+  "takeaway": "Laporan ini condong netral bagi SINI, karena isinya adalah klarifikasi yang meredakan kekhawatiran pasar atas karhutla, bukan kabar baru yang mengubah prospek bisnis. Yang menarik justru rincian pendapatan per anak usaha yang jarang diungkap sedetail ini, dengan Cristian Eka Pratama di Kutai Barat menyumbang porsi terbesar sekitar Rp832,89 miliar dari total pendapatan yang disebutkan, sehingga investor bisa menilai anak usaha mana yang paling menentukan kinerja grup. Pernyataan bahwa tidak ada dampak signifikan ke pendapatan, laba, dan aset masih berupa klaim sepihak perseroan yang belum diuji laporan keuangan resmi. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang untuk memverifikasi apakah target produksi 2026 benar tercapai seperti yang diyakini manajemen, serta perkembangan musim karhutla di wilayah konsesi Kapuas dan Kutai Barat pada bulan-bulan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dewa-laba-bersih-melonjak-114-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "DEWA: Laba Bersih [Melonjak] 114% di Kuartal III 2026",
+  "deck": "Darma Henwa catat laba bersih Rp513 miliar pada sembilan bulan 2026, naik lebih dari dua kali lipat, didukung kenaikan pendapatan dan pinjaman sindikasi baru dari BCA dan Mandiri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T19:44:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261015195633-64543-0/FinancialStatement-2026-III-DEWA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWA",
+  "tags": [
+   "DEWA",
+   "laporan keuangan",
+   "pinjaman bank",
+   "pertambangan"
+  ],
+  "body": [
+   "Darma Henwa Tbk (DEWA) menyampaikan laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit, ditandatangani Mukson Arif Rosyidi selaku Direktur dan Corporate Secretary pada 15 Oktober 2026. Laba bersih periode tersebut tercatat Rp513,06 miliar, naik 114,6 persen dibanding Rp239,17 miliar pada periode yang sama 2025. Pendapatan naik dari Rp4,65 triliun menjadi Rp5,10 triliun, sementara laba bruto melonjak dari Rp673,15 miliar menjadi Rp1,03 triliun.",
+   "Total liabilitas perseroan naik 21,16 persen, dari Rp8,14 triliun pada akhir 2025 menjadi Rp9,87 triliun per 30 September 2026, kenaikan sebesar Rp1,72 triliun. Dalam penjelasan resmi ke Bursa Efek Indonesia, perseroan menyebut penyebab utamanya adalah pencairan pinjaman sindikasi baru dari Bank BCA dan Bank Mandiri senilai Rp5,04 triliun, yang dipakai untuk melunasi pinjaman sindikasi sebelumnya sebesar Rp3,60 triliun. Selama periode berjalan, perseroan juga telah membayar angsuran pokok Rp381,24 miliar. Penyebab lain kenaikan liabilitas antara lain utang usaha pihak ketiga yang naik Rp282,60 miliar karena pengadaan suku cadang dan jasa, utang pajak yang naik akibat PPN Keluaran terutang Rp73,78 miliar dan PPh Pasal 21 naik Rp6,28 miliar, serta utang lain-lain pihak ketiga yang naik Rp164,27 miliar dari pembelian alat berat.",
+   "Di sisi kas dan modal, kas dan setara kas perseroan turun dari Rp1,59 triliun menjadi Rp744,93 miliar. Ekuitas juga turun sedikit dari Rp8,59 triliun menjadi Rp8,27 triliun, meski laba periode berjalan positif, karena perseroan membeli kembali saham treasuri senilai Rp791,42 miliar sehingga saldo saham treasuri naik dari Rp160,29 miliar menjadi Rp951,71 miliar, dan membayar dividen tunai Rp58,57 miliar."
+  ],
+  "fotoAdegan": "Heavy mining support trucks and excavators parked in a contractor's equipment yard, overcast afternoon light, Kalimantan.",
+  "takeaway": "Laporan ini condong positif bagi DEWA, karena laba bersihnya naik lebih dari dua kali lipat dan pendapatan ikut tumbuh, sementara kenaikan utang sebagian besar berasal dari pergantian pinjaman lama dengan pinjaman baru yang lebih besar, bukan tanda kesulitan membayar. Yang perlu diperhatikan investor adalah tiga pos: ekuitas, yaitu total kekayaan bersih yang jadi hak pemegang saham, justru sedikit turun karena uangnya dipakai untuk membeli kembali saham sendiri dan membagi dividen, bukan karena rugi. Beban bunga naik hampir 80 persen karena saldo utang bank membesar, yang berarti sebagian kenaikan laba ke depan bisa tergerus biaya pinjaman ini, dan kas perusahaan menyusut hampir separuh karena dipakai melunasi utang lama serta membeli saham treasuri. Yang perlu dipantau berikutnya adalah laporan kuartal IV atau laporan tahunan 2026, untuk melihat apakah pinjaman sindikasi baru dari BCA dan Mandiri ini benar-benar menurunkan beban bunga dibanding pinjaman sebelumnya dan apakah angsuran pokoknya berjalan sesuai jadwal.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "ekspor-ri-ke-inggris-hadapi-skema-tarif-baru-2027",
   "category": "Global",
   "title": "Ekspor RI ke Inggris Hadapi Skema Tarif [Baru] 2027",
@@ -28,6 +132,58 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret di balik pertemuan ini adalah perubahan status dagang: mulai Januari 2027, Indonesia lepas dari skema keringanan tarif untuk negara berkembang dan masuk skema tarif umum Inggris, UK Global Tariff. Artinya produk Indonesia yang selama ini menikmati bea masuk lebih rendah ke Inggris akan dikenakan tarif yang sama dengan negara lain, sehingga keunggulan harga karena keringanan itu hilang. Pihak yang langsung kena dampak adalah eksportir di sektor yang disebut Kemendag sendiri, yaitu kayu, furnitur, tekstil, fesyen, dan produk kreatif, karena mereka harus mulai bersaing lewat kualitas dan sertifikasi keberlanjutan, bukan lagi lewat tarif murah. Arahnya terlihat jelas, yaitu mendorong eksportir beralih dari mengandalkan fasilitas tarif ke mengandalkan standar dan rantai pasok yang bisa dipercaya pembeli, dan yang akan menentukan seberapa siap pelaku usaha adalah apakah dukungan sertifikasi dan pembiayaan dari pemerintah benar terealisasi sebelum Januari 2027 tiba."
+ },
+ {
+  "slug": "nsss-tegaskan-karhutla-tak-ganggu-produksi-sawit",
+  "category": "Aksi Korporasi",
+  "title": "NSSS Tegaskan Karhutla Tak Ganggu [Produksi] Sawit",
+  "deck": "Nusantara Sawit Sejahtera menjawab permintaan penjelasan BEI soal karhutla, memastikan tak ada dampak material ke operasional maupun keuangan perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T19:37:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6c5de72ef_42fe11f6b8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "karhutla",
+   "sawit",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-13056/BEI.PP2/10-2026 pada 13 Oktober 2026 terkait kebakaran hutan dan lahan (karhutla) yang meningkat di sejumlah wilayah Indonesia. Dalam suratnya yang ditandatangani Direktur Utama Teguh Patriawan dan dikirim 15 Oktober 2026, perusahaan menjelaskan bahwa kegiatan usaha perkebunan kelapa sawitnya dijalankan lewat entitas anak yang beroperasi di tiga wilayah Provinsi Kalimantan Tengah, yaitu Kabupaten Kotawaringin Timur, Gunung Mas, dan Kapuas. Seluruh pendapatan dan produksi konsolidasi NSSS, alias 100 persen, berasal dari penjualan CPO dan inti sawit (PK) oleh entitas anak tersebut.",
+   "Menjawab pertanyaan inti bursa, NSSS menyatakan karhutla tidak berdampak langsung terhadap kegiatan operasionalnya dan target produksi tahun 2026 masih berjalan sesuai rencana. Perusahaan juga menegaskan belum menemukan dampak material terhadap pendapatan, laba, maupun nilai aset, serta tidak ada penghentian operasional yang tidak direncanakan (unplanned shutdown) di lokasi perkebunan entitas anak akibat kebakaran tersebut.",
+   "Sebagai langkah mitigasi, perusahaan menyebut tiga tindakan yang sudah berjalan: pemantauan rutin titik panas di area perkebunan, patroli dan pengawasan untuk deteksi dini potensi kebakaran, serta penyiapan sarana pemadaman dan tim tanggap darurat. NSSS juga memastikan bahwa sampai saat surat ini dikirim, perusahaan dan entitas anak tidak sedang menghadapi proses hukum atau sanksi administratif terkait karhutla, termasuk penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin, dan belum ada fakta material lain terkait karhutla yang perlu diketahui investor."
+  ],
+  "fotoAdegan": "Wide view of an oil palm plantation under a hazy sky, a dirt access road, two workers in boots walking between the trees",
+  "takeaway": "Laporan ini saya nilai netral bagi NSSS, karena isinya adalah bantahan atas risiko, bukan kabar baik atau buruk yang baru. Pos yang disinggung di sini adalah pendapatan, laba, dan nilai aset, karena seluruh pendapatan NSSS bergantung pada perkebunan sawit yang bisa langsung rusak atau terganggu kalau kebakaran benar-benar menjalar ke lahannya, jadi pasar wajar bertanya duluan sebelum ada laporan keuangan resmi. Yang perlu dipantau berikutnya adalah apakah titik panas di Kotawaringin Timur, Gunung Mas, dan Kapuas terus naik selama musim kering, karena perusahaan sendiri berjanji akan mengumumkan ulang kalau ada fakta material baru, dan BEI bisa saja mengirim permintaan penjelasan susulan kalau kondisi memburuk.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smar-jawab-bursa-karhutla-tak-ganggu-produksi-sawit-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Jawab Bursa: Karhutla Tak Ganggu [Produksi] Sawit 2026",
+  "deck": "Menanggapi permintaan penjelasan BEI, SMAR menyatakan kebakaran lahan tak berdampak material pada produksi, pendapatan, dan laba sepanjang 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T19:32:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb996aeef0_0f7e3e70f1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMAR",
+  "tags": [
+   "SMAR",
+   "karhutla",
+   "kelapa sawit",
+   "BEI"
+  ],
+  "body": [
+   "PT Sinar Mas Agro Resources and Technology Tbk (SMAR) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia Nomor S-13057/BEI.PP2/10-2026 tertanggal 13 Oktober 2026 terkait dampak kebakaran hutan dan lahan (karhutla) terhadap operasional perseroan. Tanggapan tertanggal 15 Oktober 2026 ini ditandatangani Jimmy Pramono selaku Wakil Direktur Utama dan ditujukan kepada Adi Pratomo Aryanto, Kepala Divisi Penilaian Perusahaan 2 BEI.",
+   "Dalam suratnya, SMAR merinci lokasi kebun sawit yang dimiliki dan dikelola perseroan maupun entitas anak, mencakup Labuhanbatu Utara, Tanah Laut, dan Kotabaru untuk aset milik perseroan langsung, serta Padang Lawas Utara, Labuhanbatu Utara dan Selatan, Bungo, Sarolangun, Tebo, Merangin, Bangka Barat, Kutai Timur, Seruyan, Kotawaringin Timur dan Barat untuk aset entitas anak. Kebun di Sumatera Utara, Kalimantan Timur, dan Kalimantan Tengah masing-masing menyumbang sekitar 15 hingga 17 persen dari total produksi kebun terkonsolidasi, dengan kontribusi ke pendapatan konsolidasi sekitar 1,5 hingga 1,8 persen masing-masing. Sementara kebun di Jambi, Bangka Belitung, dan Kalimantan Selatan masing-masing hanya menyumbang sekitar 5 persen atau kurang dari produksi, dengan kontribusi pendapatan sekitar 0,5 persen atau kurang.",
+   "Perseroan menyatakan tidak ada dampak negatif material dari karhutla terhadap target produksi 2026, pendapatan, laba, maupun nilai aset, dan tidak ada penghentian operasi mendadak (unplanned shutdown) di lokasi manapun. SMAR juga memastikan tidak sedang menghadapi proses hukum atau sanksi administratif terkait karhutla. Sebagai mitigasi, perseroan menyebut penggunaan kamera CCTV berbasis kecerdasan buatan untuk mendeteksi titik api, pemantauan drone dan satelit lewat aplikasi GeoSMART Fire, serta pusat koordinasi SMART Room Karhutla. Untuk jangka panjang, SMAR menyebut penerapan Kebijakan Tanpa Bakar sejak 1997 dan Kebijakan Tanpa Gambut sejak 2010, termasuk program kemitraan dengan 19 desa dalam inisiatif desa bebas api."
+  ],
+  "fotoAdegan": "Plantation workers checking firefighting equipment near rows of oil palm trees under a hazy sky, early morning light",
+  "takeaway": "Laporan ini netral bagi SMAR: isinya klarifikasi atas pertanyaan bursa soal karhutla, dan jawabannya menegaskan tidak ada dampak material, bukan kabar baru yang mengubah prospek bisnis. Yang disinggung adalah potensi gangguan produksi dan pendapatan, karena kebun yang menyumbang 15 sampai 17 persen produksi perseroan justru berada di Sumatera Utara, Kalimantan Timur, dan Kalimantan Tengah, wilayah yang rawan kebakaran saat musim kemarau panjang akibat El Nino, sehingga kalau produksi di sana benar terganggu, dampaknya akan langsung terasa di pendapatan dan laba kuartalan. Klaim 'tidak ada dampak material' ini sepenuhnya berasal dari pengakuan perseroan sendiri dan belum diuji data produksi aktual, jadi yang perlu dipantau berikutnya adalah laporan kinerja kuartal keempat 2026 untuk melihat apakah klaim ini terbukti, sekaligus apakah bursa akan mengajukan permintaan penjelasan lanjutan bila titik api di wilayah operasional SMAR meningkat sepanjang sisa musim kemarau tahun ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "kunjungan-wisman-capai-10-58-juta-investasi-pariwisata-melesat",
@@ -1114,6 +1270,33 @@ var ARTICLES = [
   "imageV": "mv9boq23"
  },
  {
+  "slug": "adhi-rombak-utang-dan-divestasi-rp1-91-triliun-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Rombak [Utang] dan Divestasi Rp1,91 Triliun ke BEI",
+  "deck": "ADHI menjawab permintaan penjelasan Bursa soal divestasi saham DTP dan JMJ senilai Rp1,91 triliun, restrukturisasi seluruh utang bank dan obligasi, serta realokasi sisa dana rights issue.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T12:26:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/014e5b9690_627eb7f3f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "divestasi",
+   "restrukturisasi utang",
+   "LRT City"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk menjawab permintaan penjelasan Bursa Efek Indonesia tertanggal 13 Oktober 2026 terkait rencana divestasi 51 persen saham PT Dumai Tirta Persada (DTP) dan 47,18 persen saham PT Jasamarga Jogja Solo (JMJ) kepada PT Sarana Multi Infrastruktur (SMI). Perseroan memperkirakan menerima sekitar Rp1,91 triliun dari transaksi ini, yang akan dipakai untuk membayar utang berbunga, utang usaha, dan modal kerja. ADHI menegaskan transaksi ini bukan transaksi afiliasi meski SMI dan ADHI sama-sama terkait kepemilikan negara, dengan alasan kewenangan pemegang saham ADHI berada di Danantara Asset Management dan BP BUMN, sementara SMI dikendalikan langsung oleh Menteri Keuangan berdasarkan Peraturan Pemerintah No. 66 Tahun 2007 sebagai lembaga pembiayaan infrastruktur khusus.",
+   "Perseroan juga membuka ringkasan keuangan kedua anak usaha yang didivestasikan. Per 30 September 2026, DTP mencatat aset Rp498,465 miliar, ekuitas Rp270,904 miliar, dan laba bersih Rp5,729 miliar, turun dari laba bersih Rp34,611 miliar sepanjang 2025. Sementara itu JMJ mencatat aset jauh lebih besar, Rp12,48 triliun, dengan ekuitas Rp3,45 triliun, namun masih merugi Rp166,287 miliar dalam sembilan bulan pertama 2026, melanjutkan rugi bersih Rp234,578 miliar di 2025, Rp25,013 miliar di 2024, dan Rp8,113 miliar di 2023.",
+   "Terkait restrukturisasi pinjaman yang disetujui RUPSLB 30 September 2026, ADHI merinci tiga tahap (tranche) untuk utang perbankan. Tranche A diselesaikan dari arus kas operasional dengan tenor 15 tahun dan bunga 3,5 persen, di mana 2,5 persen di antaranya ditunda pembayarannya dan hanya 1 persen dibayar tunai. Tranche B dilunasi dari hasil divestasi dan penagihan piutang dengan tenor maksimal 5 tahun serta bunga tunai 1 persen, sementara Tranche C berupa bunga tertunggak yang harus dibayar dalam 18 bulan sejak perjanjian restrukturisasi (MRA) efektif. Restrukturisasi obligasi masih dalam pembahasan dengan pemegang obligasi.",
+   "Soal sisa dana hasil penawaran umum terbatas (PMHMETD) II, ADHI mengungkapkan telah merealisasikan Rp2,27 triliun dari total Rp2,65 triliun yang terkumpul. Sisa Rp378,693 miliar yang sebelumnya direncanakan untuk suntikan modal ke JMJ, PT Jasamarga Jogja Bawen, dan PT Jalintim Adhi Abipraya, dialihkan menjadi modal kerja menyusul Instruksi Presiden No. 7 Tahun 2026 tentang penataan BUMN. Untuk proyek LRT City yang sempat mangkrak dan disorot media soal opsi refund konsumen, ADHI menyatakan pembangunan sudah dilanjutkan sejak 1 Oktober 2026 dengan dukungan pendanaan Danantara, dengan target serah terima sekitar 80 persen unit pada 2027 untuk empat proyek prioritas: LRT City Tebet, LRT City Ciracas, LRT City Cibubur, dan ADHI City Sentul 1."
+  ],
+  "fotoAdegan": "Workers pouring concrete on an elevated toll road pier under construction, cranes overhead, hazy afternoon light",
+  "takeaway": "Saya menilai laporan ini condong negatif bagi ADHI, karena kebutuhan merestrukturisasi seluruh utang perbankan dan obligasi sekaligus mengalihkan sisa dana hasil penawaran saham untuk membayar utang menunjukkan tekanan keuangan yang lebih berat dari kesan normal, meski dana segar dari divestasi memang membantu. Pos yang tersentuh adalah arus kas, karena jadwal bayar utang dan bunga ditata ulang dengan sebagian bunga malah ditunda bukan dihapus, serta ekuitas anak usaha, karena JMJ tetap mencatat rugi bersih yang terus membesar sejak 2023. Perubahan arah dana PMHMETD II dari rencana suntikan modal ke anak usaha menjadi sekadar modal kerja juga menandakan prioritas Perseroan bergeser ke bertahan, bukan tumbuh. Yang perlu dipantau berikutnya adalah keterbukaan informasi tambahan saat penandatanganan perjanjian jual beli saham (SPA) yang dijanjikan memuat proyeksi dampak ke rasio keuangan, hasil pembahasan restrukturisasi obligasi dengan pemegang obligasi yang masih berjalan, serta realisasi target serah terima 80 persen unit LRT City pada 2027.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bank-bjb-perluas-akses-beli-obligasi-ritel-sbr015",
   "category": "Pasar Modal",
   "title": "Bank bjb Perluas Akses Beli Obligasi Ritel [SBR015]",
@@ -1166,6 +1349,32 @@ var ARTICLES = [
   "fotoAdegan": "Heavy mining excavators and dump trucks working in an open-pit mine site in Kalimantan, dusty haze, early morning light",
   "takeaway": "Laporan ini condong negatif bagi fundamental LAPD, karena angka yang sudah terjadi jauh lebih buruk daripada potensi dari rencana transformasi yang belum tentu terwujud. Ekuitas Perseroan sudah negatif Rp2,65 miliar dan rasio lancar cuma 0,15 kali, artinya aset yang bisa dicairkan cepat jauh dari cukup untuk menutup utang jatuh tempo, sementara kas tunai yang tersisa cuma Rp474,8 juta. Penerbitan sampai 2 miliar saham baru lewat rights issue juga berarti jumlah saham beredar bisa membengkak, sehingga porsi kepemilikan pemegang saham lama dan laba per saham berpotensi tergerus kalau mereka tidak ikut menyerap haknya. Yang perlu dipantau adalah hasil RUPSLB pada 20 Oktober 2026 yang akan memutuskan rights issue dan akuisisi BSS, serta apakah PT JSI Sinergi Mas benar-benar menuntaskan inbreng saham BSS senilai Rp44,39 miliar sesuai rencana.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "medc-tegaskan-karhutla-tak-ganggu-produksi-migas-dan-listrik",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Tegaskan Karhutla Tak Ganggu [Produksi] Migas dan Listrik",
+  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, MedcoEnergi memastikan target produksi 2026 tetap sesuai rencana dan tak ada tuntutan hukum terkait kebakaran lahan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T11:43:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ebf5b101a_6cd7e4dfc1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "karhutla",
+   "keterbukaan informasi",
+   "migas"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk (MEDC) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia tertanggal 13 Oktober 2026 terkait meningkatnya kebakaran hutan dan lahan (karhutla) di Indonesia. Perseroan mengonfirmasi melalui entitas anak memiliki aset minyak dan gas di Aceh, Kepulauan Riau, Sumatera Selatan, Jawa Timur, Sulawesi Tengah, Kalimantan Tengah, dan Kalimantan Utara, serta aset ketenagalistrikan di Kepulauan Riau, Riau, Sumatera Selatan, Sumatera Utara, Jawa Barat, Jawa Timur, Bali, dan Nusa Tenggara Barat. Perseroan menyebut aset-aset tersebut berkontribusi signifikan terhadap produksi dan pendapatan konsolidasian, tanpa merinci angka baru karena sudah diungkapkan secara berkala lewat laporan keuangan dan laporan tahunan.",
+   "Terkait dampak langsung, Medco menyatakan hanya ada penyesuaian logistik tertentu akibat karhutla, tanpa dampak material terhadap operasional maupun program kerja. Target produksi dan target operasional 2026 dikatakan tetap sesuai rencana, tidak ada unplanned shutdown di lokasi operasi, dan perseroan belum mengidentifikasi dampak material terhadap pendapatan, laba, atau nilai aset. Medco juga menegaskan tidak sedang menghadapi proses hukum atau sanksi administratif seperti penyegelan lahan, penyelidikan, atau pencabutan izin terkait karhutla.",
+   "Soal mitigasi, Medco menjelaskan keikutsertaannya dalam Satgas Karhutla di Kecamatan Lais dan Babat, Kabupaten Musi Banyuasin, termasuk dukungan pemadaman dalam radius 5 kilometer dari fasilitas operasi, bantuan sarana pemadam kebakaran, dan pengerahan tim pemadam perusahaan sendiri. Di wilayah operasi Medco Bangkanai, perseroan bekerja sama dengan Manggala Agni Barito Utara membentuk kelompok Masyarakat Peduli Api di Desa Karendan dan Haragandang yang berbatasan langsung dengan fasilitas tersebut. Pada 2026, bersama KPH Barito Hulu, Medco melakukan sosialisasi, patroli antisipasi, dan pemasangan imbauan pencegahan di kedua desa itu, dengan rencana melanjutkan kerja sama serupa ke depan."
+  ],
+  "fotoAdegan": "A fire lookout post beside a hazy tropical forest edge near an oil field access road in Sumatra, workers in safety vests checking equipment, overcast smoky sky",
+  "takeaway": "Laporan ini netral bagi Medco karena isinya konfirmasi bahwa karhutla belum mengganggu apa pun, bukan kabar baru yang mengubah arah bisnis, meski memberi kepastian yang menenangkan di tengah sorotan publik soal kebakaran lahan. Yang dipertaruhkan di sini adalah produksi minyak, gas, dan listrik, karena itulah sumber pendapatan utama Medco. Kalau karhutla sampai memaksa penghentian operasi di salah satu lokasi tambang atau pembangkit, produksi dan pendapatan bisa langsung terpukul, makanya pasar memperhatikan konfirmasi semacam ini. Yang perlu dipantau selanjutnya adalah perkembangan titik panas di musim kering mendatang, terutama di sekitar Musi Banyuasin dan Medco Bangkanai, serta apakah Medco akan menerbitkan keterbukaan informasi baru kalau kondisi memburuk sebagaimana dijanjikan perseroan dalam suratnya ke Bursa.",
+  "sentimen": "netral"
  },
  {
   "slug": "mtfn-gelar-rupst-6-november-usul-tanpa-dividen-2025",

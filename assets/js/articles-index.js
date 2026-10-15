@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "giaa-gelar-rupslb-6-november-bahas-penambahan-modal-gmf-aeroasia",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Gelar RUPSLB 6 November, Bahas [Penambahan] Modal GMF AeroAsia",
+  "deck": "RUPSLB digelar 6 November 2026 secara elektronik, mengagendakan penambahan modal lewat suntikan saham GMF AeroAsia oleh Danantara, perubahan anggaran dasar, dan pergantian pengurus.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GIAA",
+   "RUPSLB",
+   "Danantara",
+   "GMF AeroAsia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fed2b2c75_fba1043bfd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unsp-pastikan-karhutla-tak-ganggu-produksi-dan-pendapatan-2026",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Pastikan [Karhutla] Tak Ganggu Produksi dan Pendapatan 2026",
+  "deck": "Menanggapi permintaan penjelasan bursa, UNSP memastikan karhutla belum berdampak pada produksi, pendapatan, dan operasional 2026, meski mengakui potensi risiko hukum.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNSP",
+   "karhutla",
+   "sawit",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/86f10ccfe0_e6c1bab5a1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sini-jelaskan-ke-bursa-dampak-karhutla-ke-produksi-minim",
+  "category": "Aksi Korporasi",
+  "title": "SINI Jelaskan ke Bursa, Dampak [Karhutla] ke Produksi Minim",
+  "deck": "Singaraja Putra menjawab permintaan penjelasan BEI soal karhutla, menyebut dampaknya ke operasional lima anak usaha tambang batu bara di Kalimantan tidak signifikan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SINI",
+   "karhutla",
+   "batu bara",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/462a6117f4_90e135b45b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewa-laba-bersih-melonjak-114-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "DEWA: Laba Bersih [Melonjak] 114% di Kuartal III 2026",
+  "deck": "Darma Henwa catat laba bersih Rp513 miliar pada sembilan bulan 2026, naik lebih dari dua kali lipat, didukung kenaikan pendapatan dan pinjaman sindikasi baru dari BCA dan Mandiri.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWA",
+   "laporan keuangan",
+   "pinjaman bank",
+   "pertambangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261015195633-64543-0/FinancialStatement-2026-III-DEWA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-ri-ke-inggris-hadapi-skema-tarif-baru-2027",
   "category": "Global",
   "title": "Ekspor RI ke Inggris Hadapi Skema Tarif [Baru] 2027",
@@ -19,6 +83,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-tegaskan-komitmen-perkuat-kerja-sama-strategis-dan-perdagangan-indonesia-inggris",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "nsss-tegaskan-karhutla-tak-ganggu-produksi-sawit",
+  "category": "Aksi Korporasi",
+  "title": "NSSS Tegaskan Karhutla Tak Ganggu [Produksi] Sawit",
+  "deck": "Nusantara Sawit Sejahtera menjawab permintaan penjelasan BEI soal karhutla, memastikan tak ada dampak material ke operasional maupun keuangan perusahaan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "karhutla",
+   "sawit",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6c5de72ef_42fe11f6b8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smar-jawab-bursa-karhutla-tak-ganggu-produksi-sawit-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Jawab Bursa: Karhutla Tak Ganggu [Produksi] Sawit 2026",
+  "deck": "Menanggapi permintaan penjelasan BEI, SMAR menyatakan kebakaran lahan tak berdampak material pada produksi, pendapatan, dan laba sepanjang 2026.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMAR",
+   "karhutla",
+   "kelapa sawit",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb996aeef0_0f7e3e70f1.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kunjungan-wisman-capai-10-58-juta-investasi-pariwisata-melesat",
@@ -685,6 +781,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473141-maxstream-tv-padukan-ai-dan-sentuhan-kreatif-manusia-dalam-film-rahasia-pernikahan"
  },
  {
+  "slug": "adhi-rombak-utang-dan-divestasi-rp1-91-triliun-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Rombak [Utang] dan Divestasi Rp1,91 Triliun ke BEI",
+  "deck": "ADHI menjawab permintaan penjelasan Bursa soal divestasi saham DTP dan JMJ senilai Rp1,91 triliun, restrukturisasi seluruh utang bank dan obligasi, serta realokasi sisa dana rights issue.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "divestasi",
+   "restrukturisasi utang",
+   "LRT City"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/014e5b9690_627eb7f3f6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bank-bjb-perluas-akses-beli-obligasi-ritel-sbr015",
   "category": "Pasar Modal",
   "title": "Bank bjb Perluas Akses Beli Obligasi Ritel [SBR015]",
@@ -715,6 +827,22 @@ var ARTICLES = [
    "going concern"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e36533519_581c2b06f7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "medc-tegaskan-karhutla-tak-ganggu-produksi-migas-dan-listrik",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Tegaskan Karhutla Tak Ganggu [Produksi] Migas dan Listrik",
+  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, MedcoEnergi memastikan target produksi 2026 tetap sesuai rencana dan tak ada tuntutan hukum terkait kebakaran lahan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "karhutla",
+   "keterbukaan informasi",
+   "migas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ebf5b101a_6cd7e4dfc1.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6370,140 +6498,6 @@ var ARTICLES = [
    "SMI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/061d45f8c0_da7ca0e6f8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "transmigrasi-kini-diarahkan-jadi-pusat-ekonomi-baru",
-  "category": "Ketenagakerjaan",
-  "title": "Transmigrasi Kini Diarahkan Jadi [Pusat] Ekonomi Baru",
-  "deck": "Kementerian Transmigrasi mengubah pendekatan: sebelum memindahkan penduduk, pemerintah kini harus memastikan dulu ada pasar, investor, dan lapangan kerja di kawasan tujuan.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/transmigrasi-kini-diarahkan-jadi-pusat-ekonomi-baru.jpg",
-  "imageV": "mv02a8k4",
-  "tags": [
-   "transmigrasi",
-   "ekonomi kawasan",
-   "koperasi",
-   "Batam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471973-transmigrasi-tak-lagi-sekadar-pindah-penduduk-pemerintah-bidik-pusat-ekonomi-baru"
- },
- {
-  "slug": "wajib-halal-berlaku-18-oktober-aturan-turunan-dikejar",
-  "category": "Industri",
-  "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
-  "deck": "Kewajiban sertifikasi halal, termasuk untuk alat kesehatan risiko A, resmi berlaku 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung 11 Oktober.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
-  "tags": [
-   "Wajib Halal",
-   "BPJPH",
-   "Sertifikasi Halal",
-   "Ekonomi Syariah"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7138/pemerintah-tegaskan-kesiapan-ekosistem-jelang-implementasi-wajib-halal-2026",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ekspor-perdana-baterai-listrik-dari-iwip-investasi-rp180-triliun",
-  "category": "Energi",
-  "title": "Ekspor Perdana Baterai Listrik dari IWIP, Investasi [Rp180 Triliun]",
-  "deck": "Presiden Prabowo Subianto meresmikan ekspor perdana baterai kendaraan listrik dari kawasan industri IWIP di Maluku Utara, bersamaan dengan peluncuran 11 proyek hilirisasi senilai US$10,2 miliar.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/ekspor-perdana-baterai-listrik-dari-iwip-investasi-rp180-triliun.jpg",
-  "imageV": "muzoh61e",
-  "tags": [
-   "Hilirisasi Nikel",
-   "Baterai Listrik",
-   "IWIP",
-   "Investasi"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hilirisasi-kian-nyata-menko-bahlil-dampingi-presiden-lepas-ekspor-perdana-baterai-listrik",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "transaksi-emas-digital-fisik-melonjak-641-persen-di-2026",
-  "category": "Pasar Modal",
-  "title": "Transaksi Emas Digital Fisik [Melonjak] 641 Persen di 2026",
-  "deck": "Kemendag membuka program literasi PBK tahunan, sekaligus merilis data transaksi berjangka komoditi dan lonjakan besar transaksi emas digital fisik.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/transaksi-emas-digital-fisik-melonjak-641-persen-di-2026.jpg",
-  "imageV": "muzoh85q",
-  "tags": [
-   "Bappebti",
-   "PBK",
-   "emas digital",
-   "literasi keuangan"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bulan-literasi-pbk-2026-mendag-busan-smart-traders-tidak-mudah-tergiur-janji",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "pthk-hadapi-gugatan-pkpu-rp1-7-miliar-terkait-pamulang-square",
-  "category": "Aksi Korporasi",
-  "title": "PTHK Hadapi Gugatan [PKPU] Rp1,7 Miliar Terkait Pamulang Square",
-  "deck": "PT Indoland Perkasa dan PT Tata Karya Sentosa menggugat PKPU Hutama Karya senilai Rp1,7 miliar soal service charge 51 kios di Pamulang Square. Hutama Karya membantah berutang.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTHK",
-   "PKPU",
-   "Hutama Karya",
-   "sengketa hukum"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3009b7b390_50ab50eff0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "koin-refloat-saham-nihil-kuartal-iii-sisa-10-62",
-  "category": "Aksi Korporasi",
-  "title": "KOIN: [Refloat] Saham Nihil Kuartal III, Sisa 10,62%",
-  "deck": "KOIN melaporkan nihil realisasi refloat saham pada kuartal III 2026, dengan sisa 104,16 juta lembar atau 10,62% saham belum dilepas ke publik.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOIN",
-   "refloat",
-   "free float",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3fd21fd2d1_352efaa3d5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tring-pegadaian-setahun-transaksi-tembus-rp113-triliun",
-  "category": "BUMN",
-  "title": "TRING! Pegadaian Setahun, Transaksi Tembus [Rp113 Triliun]",
-  "deck": "Dalam setahun, aplikasi TRING! by Pegadaian mencatat 7,5 juta nasabah dan nilai transaksi Rp113 triliun, seiring konsolidasi layanan gadai dan emas digital ke satu platform.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/tring-pegadaian-setahun-transaksi-tembus-rp113-triliun.jpg",
-  "imageV": "muzoh8o1",
-  "tags": [
-   "pegadaian",
-   "tring",
-   "emas digital",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471971-happy-tringversary-komitmen-pegadaian-berikan-kemudahan-solusi-finansial-dan-emas-terintegrasi-melalui-aplikasi-tring"
- },
- {
-  "slug": "direksi-totl-saleh-tambah-430-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "Direksi [TOTL] Saleh Tambah 430.000 Saham",
-  "deck": "Direksi Total Bangun Persada, Saleh, membeli 430.000 saham TOTL seharga Rp1.470 per lembar pada 8 Oktober 2026, menambah kepemilikannya menjadi 5.798.800 lembar atau 0,17% hak suara.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOTL",
-   "Total Bangun Persada",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-2960-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];
